@@ -6,7 +6,11 @@ from playwright.sync_api import sync_playwright
 import requests
 import time
 
-useMitmProxyMode = False    # Remember to launch "mitmproxy --mode regular --listen-port 8080"
+# Remember to launch
+#   mitmproxy --mode regular --listen-port 8080 -s mitmp_cache.py
+# (or similar) when using useMitmProxyMode.
+useMitmProxyMode = True
+
 useHeadlessMode = True
 
 def log_request(request):
