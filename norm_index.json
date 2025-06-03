@@ -2,15 +2,19 @@
     "BG.StGB": {
         "type": "BG",
         "title": "StGB",
-	"split": 20000,
-	"stop": ["§ 324"],
+        "split": 20000,
+        "stop": [
+            "\u00a7 324"
+        ],
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296"
     },
     "BG.StPO": {
         "type": "BG",
         "title": "StPO",
-	"split": 20000,
-	"stop": ["§ 517"],
+        "split": 20000,
+        "stop": [
+            "\u00a7 517"
+        ],
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326"
     },
     "BG.ABGB": {
@@ -22,5 +26,10 @@
         "type": "BG",
         "title": "ZPO",
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699"
+    },
+    "BG.VerG": {
+        "type": "BG",
+        "title": "VerG",
+        "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917"
     }
 }

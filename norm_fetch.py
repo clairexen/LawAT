@@ -197,7 +197,7 @@ def processContentElement(el):
 fileIndex = 0
 blockIndex = 0
 indexData = list()
-while blockIndex is not None:
+while blockIndex is not None and blockIndex < len(blocks):
     fileSize = 0
     fileIndex += 1
     indexData.append([f"{normkey}.{fileIndex:03}", []])
