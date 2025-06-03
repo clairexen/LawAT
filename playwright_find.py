@@ -119,6 +119,7 @@ if normdata["type"] in ("BG", "BVG"):
 
 with open("normindex.json", "w") as f:
     json.dump(normindex, f, indent=4)
+    print(file=f)
 
 if launchInteractiveRepl:
     embed(globals(), locals())
