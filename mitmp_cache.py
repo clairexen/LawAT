@@ -11,7 +11,7 @@ def request(flow: http.HTTPFlow) -> None:
             cachecnt[key] += 1
             flow.response = cache[key].copy()
             flow.response.is_replay = True
-            flow.response.headers["X-MITM-Proxy-Cache-Use-Count"] = f"{cachecnt[key]}"
+            flow.response.headers["x-mitm-proxy-cache-use-count"] = f"{cachecnt[key]}"
 
 def response(flow: http.HTTPFlow) -> None:
     if flow.request.method == "GET" and flow.response.status_code == 200:
