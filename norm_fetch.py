@@ -182,7 +182,8 @@ def processContentElement(el):
 
 if selectParagraph is not None:
     outFile = sys.stdout
-outFile = open(f"files/{normkey}.md", "w")
+else:
+    outFile = open(f"files/{normkey}.md", "w")
 
 # Process Content Blocks
 blocks = page.locator("div.contentBlock").all()
