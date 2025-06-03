@@ -2,6 +2,7 @@
     "BG.StGB": {
         "type": "BG",
         "title": "StGB",
+	"lastpar": "§ 324",
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296"
     },
     "BG.StPO": {

@@ -127,21 +127,30 @@ def processContentElement(el):
     lines = list()
     cls = set(el.get_attribute("class").split())
     txt = el.inner_text().replace("\xa0", " ")
+
     match el.tag_name():
         case "H4" if "UeberschrG1" in cls:
-            lines.append(f"## {txt.replace('\n\n', ' | ').replace('\n', ' | ')}")
+            txt = txt.replace('\n\n', ' | ').replace('\n', ' | ')
+            lines.append(f"## {txt}")
+
         case "H4" if "UeberschrG1-AfterG2" in cls:
-            lines.append(f"### {txt}")
+            txt = txt.replace('\n\n', ' | ').replace('\n', ' | ')
+            if len(lines) and lines[-1].startswith("## "):
+                lines[-1] += f" | {txt}"
+            else:
+                lines.append(f"## {txt}")
+
         case "H4" if "UeberschrPara" in cls:
-            lines.append(f"#### {txt}")
+            lines.append(f"### {txt}")
+
         case "DIV" if "ParagraphMitAbsatzzahl" in cls:
             parBaseName = el.locator(":scope h5.GldSymbol").inner_text().replace("\xa0", " ")
             parName = parBaseName.replace(".", f" {normdata['title']}.")
-            if len(outBuffer) and outBuffer[-1].startswith("#### "):
-                lines.append(f"#### {parName} {outBuffer[-1][5:]}")
+            if len(outBuffer) and outBuffer[-1].startswith("### "):
+                lines.append(f"### {parName} {outBuffer[-1][4:]}")
                 del outBuffer[-1]
             else:
-                lines.append(f"#### {parName}")
+                lines.append(f"### {parName}")
             enumCnt = 0
             for item in el.locator(":scope div.content").all():
                 if item.locator(".Absatzzahl").count():
@@ -155,19 +164,24 @@ def processContentElement(el):
                 else:
                     enumCnt = 0
                     lines.append(f"{item.tag_name()}: {item.outer_html()}")
-        case "DIV":
+
+        case "DIV" if el.locator(":scope h5.GldSymbol").count():
             parName = el.locator(":scope h5.GldSymbol").inner_text()
             parName = parName.replace("\xa0", " ").replace(".", f" {normdata['title']}.")
-            if len(outBuffer) and outBuffer[-1].startswith("#### "):
-                lines.append(f"#### {parName} {outBuffer[-1][5:]}")
+            if len(outBuffer) and outBuffer[-1].startswith("### "):
+                lines.append(f"### {parName} {outBuffer[-1][4:]}")
                 del outBuffer[-1]
             else:
-                lines.append(f"#### {parName}")
-            lines += el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
+                lines.append(f"### {parName}")
+            lines += ["", f"**{parName}**"] + el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
+
         case _:
-            lines.append(f"{el.tag_name()}: {el.outer_html()}")
+            lines.append(f"**FIXME** {el.tag_name()}: {el.outer_html()}")
+
     return lines
 
+if selectParagraph is not None:
+    outFile = sys.stdout
 outFile = open(f"files/{normkey}.md", "w")
 
 # Process Content Blocks
@@ -178,6 +192,7 @@ for blk in blocks:
             continue
     if not useHeadlessMode:
         blk.scroll_into_view_if_needed()
+        blk.evaluate("el => el.style.backgroundColor = 'lightblue'")
     outBuffer = list()
     if verboseMode:
         print("------")
@@ -192,9 +207,17 @@ for blk in blocks:
             print()
     if not verboseMode:
         for line in outBuffer:
-            if line.startswith("#"):
+            if line.startswith("#") or line.startswith("**FIXME** "):
                 print(line)
     print("\n".join(outBuffer), file=outFile)
+    if not useHeadlessMode:
+        blk.evaluate("el => el.style.backgroundColor = ''")
+    if "lastpar" in normdata:
+        for line in outBuffer:
+            if line.startswith(f"### {normdata['lastpar']}."):
+                blk = None
+        if blk is None:
+            break
     if selectParagraph is not None:
         break
 
@@ -205,6 +228,9 @@ if launchInteractiveRepl:
     embed(globals(), locals())
 elif not useHeadlessMode:
     time.sleep(3)
-outFile.close()
+
+if selectParagraph is None:
+    outFile.close()
+
 browser.close()
 playwright.stop()
