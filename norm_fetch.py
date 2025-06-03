@@ -142,12 +142,19 @@ def processContentElement(el):
                 del outBuffer[-1]
             else:
                 lines.append(f"#### {parName}")
+            enumCnt = 0
             for item in el.locator(":scope div.content").all():
-                nr = item.locator(".Absatzzahl").inner_text()
-                tx = item.locator(".Absatzzahl ~ *").inner_text().split("\n")
-                nrName = parBaseName.replace(".", f" {nr} {normdata['title']}.")
-                tx[0] = f"**{nrName}** {tx[0]}"
-                lines += tx
+                if item.locator(".Absatzzahl").count():
+                    enumCnt = 0
+                    nr = item.locator(".Absatzzahl").inner_text()
+                    nrName = parBaseName.replace(".", f" {nr} {normdata['title']}.")
+                    lines += ["", f"**{nrName}**"] + item.locator(".Absatzzahl ~ *").inner_text().split("\n")
+                elif item.locator(":scope div.AufzaehlungE1").count():
+                    enumCnt += 1
+                    lines.append(f"{enumCnt}. {item.inner_text()}")
+                else:
+                    enumCnt = 0
+                    lines.append(f"{item.tag_name()}: {item.outer_html()}")
         case _:
             lines.append(f"{el.tag_name()}: {el.outer_html()}")
     return lines
@@ -158,7 +165,7 @@ for blk in blocks:
     if selectParagraph is not None:
         if f">§&nbsp;{selectParagraph}.<" not in blk.inner_html():
             continue
-        blk.focus()
+        blk.scroll_into_view_if_needed()
     outBuffer = list()
     if verboseMode:
         print("------")
