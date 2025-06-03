@@ -281,7 +281,7 @@ while blockIndex is not None and blockIndex < len(blocks):
             blockIndex = None
             break
 
-    if blockIndex is None:
+    if blockIndex is None or blockIndex >= len(blocks):
         print("\n**END-OF-FILE-SET**", file=outFile)
     else:
         print("\n**END-OF-FILE**", file=outFile)
