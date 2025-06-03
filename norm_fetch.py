@@ -2,7 +2,7 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
-from playwright.sync_api import sync_playwright
+from playwright.sync_api import sync_playwright, Locator
 import time, getopt, sys, json
 from ptpython.repl import embed
 
@@ -11,11 +11,20 @@ from ptpython.repl import embed
 # (or similar) when using useProxyMode.
 useProxyMode = True
 
+verboseMode = False
 useHeadlessMode = True
 printHttpRequests = False
 launchInteractiveRepl = False
 
 defaultNorm = "BG.StGB"
+selectParagraph = None
+
+
+#%% Monkey Patch Playwright
+
+Locator.outer_html = lambda self: self.evaluate("el => el.outerHTML")
+Locator.tag_name = lambda self: self.evaluate("el => el.tagName")
+
 
 #%% Usage + Getopt + Load Index
 
@@ -27,6 +36,8 @@ def usage():
     print("    -H, --no-headless ... no headless mode (i.e. show browser window)")
     print("    -i, --interactive ... launch interactive REPL before shutting down")
     print("    -r, --print-http .... print a log line for each HTTP request")
+    print("    -s N, --select=N .... select a single paragraph")
+    print("    -v, --verbose ....... verbose log outut")
     print()
     print(f"The default <norm-key> is {defaultNorm}.")
     print()
@@ -35,9 +46,9 @@ def usage():
     print()
 
 try:
-    opts, args = getopt.getopt(sys.argv[1:], "ho:PHir",
-                               ["help", "output=", "no-proxy", "no-headless",
-                                "interactive", "print-http"])
+    opts, args = getopt.getopt(sys.argv[1:], "hs:PHirv",
+                               ["help", "select=", "no-proxy", "no-headless",
+                                "interactive", "print-http", "verbose"])
 except getopt.GetoptError as err:
     # print help information and exit:
     print(err)  # will print something like "option -a not recognized"
@@ -56,8 +67,10 @@ for o, a in opts:
         printHttpRequests = True
     elif o in ("-i", "--interactive"):
         launchInteractiveRepl = True
-    #elif o in ("-o", "--output"):
-    #    output = a
+    elif o in ("-v", "--verbose"):
+        verboseMode = True
+    elif o in ("-s", "--select"):
+        selectParagraph = a
     else:
         assert False, "unhandled option"
 
@@ -109,16 +122,43 @@ page.goto(normdata["docurl"])
 # Remove all "sr-only" elements from the DOM tree
 page.locator(".sr-only").evaluate_all("els => els.forEach(el => el.remove())")
 
+# Process a single child node of the current div.contentBlock
+def processContentElement(el):
+    lines = list()
+    cls = set(el.get_attribute("class").split())
+    txt = el.inner_text().replace("\xa0", " ")
+    match el.tag_name():
+        case "H4" if "UeberschrG1" in cls:
+            lines.append(f"## {txt.replace('\n\n', ' | ').replace('\n', ' | ')}")
+        case "H4" if "UeberschrG1-AfterG2" in cls:
+            lines.append(f"### {txt}")
+        case "H4" if "UeberschrPara" in cls:
+            lines.append(f"#### {txt}")
+        case "DIV" if "ParagraphMitAbsatzzahl" in cls:
+            lines += txt.split("\n")
+        case _:
+            lines.append(f"{el.tag_name()}: {el.outer_html()}")
+    return lines
+
 # Process Content Blocks
 blocks = page.locator("div.contentBlock").all()
-for blk in blocks[10:20]:
-    print("------")
-    print(blk.evaluate("el => el.outerHTML"))
-    if True:
-        for el in blk.locator(":scope > *").all():
-            print(el.evaluate("el => el.tagName"))
-            print("   ", el.evaluate("el => el.outerHTML"))
-            print("   ", el.inner_text())
+for blk in blocks:
+    if selectParagraph is not None and \
+       f"§\xa0{selectParagraph}." not in blk.inner_text():
+        continue
+    outBuffer = list()
+    if verboseMode:
+        print("------")
+    for el in blk.locator(":scope > *").all():
+        if verboseMode:
+            print("<", f"{el.tag_name()}: {el.outer_html()}")
+        for line in processContentElement(el):
+            if verboseMode:
+                print(">", line)
+            outBuffer.append(line)
+        if verboseMode:
+            print()
+    print("\n".join(outBuffer))
 
 
 #%% Shutdown Playwright
