@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
-*Mit RisEx für RisEn-GPT zu MarkDown convertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Allgemeiner Teil | Erster Abschnitt | Allgemeine Bestimmungen
 ### § 1 StGB. Keine Strafe ohne Gesetz

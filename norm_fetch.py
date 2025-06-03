@@ -150,7 +150,7 @@ match normdata['type']:
         assert False, "Unrecognized type"
 print(f"**Langtitel:** {langtitel}  ", file=outFile)
 print(f"**Quelle:** {normdata['docurl']}  ", file=outFile)
-print("*Mit RisEx für RisEn-GPT zu MarkDown convertiert. " +
+print("*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. " +
         "(Irrtümer und Fehler vorbehalten.)*", file=outFile)
 print("", file=outFile)
 
