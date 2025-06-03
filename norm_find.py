@@ -15,6 +15,7 @@ useHeadlessMode = True
 printHttpRequests = False
 launchInteractiveRepl = False
 
+defaultNorm = "BG.StGB"
 
 #%% Usage + Getopt + Load Index
 
@@ -58,7 +59,9 @@ for o, a in opts:
     else:
         assert False, "unhandled option"
 
-if len(args) != 1:
+if len(args) == 0:
+    args = [defaultNorm]
+elif len(args) != 1:
     usage()
     sys.exit(2)
 
