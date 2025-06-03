@@ -1,76 +1,10 @@
-# BG.StGB.9
+# BG.StGB.011
 **Typ:** Bundesgesetz  
+**Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Achtzehnter Abschnitt | Strafbare Handlungen bei Wahlen und Volksabstimmungen; Mandatskauf
-### § 261 StGB. Geltungsbereich
-
-**§ 261 (1) StGB.**  
-Die Bestimmungen dieses Abschnitts gelten, soweit im Folgenden nichts anderes bestimmt ist, für die Wahl des Bundespräsidenten, für die Wahlen zu den allgemeinen Vertretungskörpern und zu den satzungsgebenden Organen (Vertretungskörpern) der gesetzlichen beruflichen Vertretungen, für die allgemeinen und unmittelbaren Wahlen in die mit der Vollziehung betrauten Organe einer Gemeinde, für die Wahl zum Europäischen Parlament sowie für Volksabstimmungen.
-
-**§ 261 (2) StGB.**  
-Einer Wahl oder Volksabstimmung steht eine Volksbefragung, das Unterschreiben eines Wahlvorschlags oder einer Unterstützungserklärung für einen Wahlvorschlag, das Verfahren für ein Volksbegehren und die Abgabe einer Unterstützungsbekundung für eine Europäische Bürgerinitiative gleich.
-### § 262 StGB. Wahlbehinderung
-
-**§ 262 (1) StGB.**  
-Wer einen anderen mit Gewalt oder durch gefährliche Drohung nötigt oder hindert, überhaupt oder in einem bestimmten Sinn zu wählen oder zu stimmen, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen, unter den Voraussetzungen des § 106 jedoch mit den dort bezeichneten Strafen zu bestrafen.
-
-**§ 262 (2) StGB.**  
-Wer einen anderen auf andere Weise als durch Nötigung an der Ausübung seines Wahl- oder Stimmrechts hindert, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
-### § 263 StGB. Täuschung bei einer Wahl oder Volksabstimmung
-
-**§ 263 (1) StGB.**  
-Wer durch Täuschung über Tatsachen bewirkt oder zu bewirken versucht, daß ein anderer bei der Stimmabgabe über den Inhalt seiner Erklärung irrt oder gegen seinen Willen eine ungültige Stimme abgibt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
-
-**§ 263 (2) StGB.**  
-Ebenso ist zu bestrafen, wer durch Täuschung über einen die Durchführung der Wahl oder Volksabstimmung betreffenden Umstand bewirkt oder zu bewirken versucht, daß ein anderer die Stimmabgabe unterläßt.
-### § 264 StGB. Verbreitung falscher Nachrichten bei einer Wahl oder Volksabstimmung
-
-**§ 264 (1) StGB.**  
-Wer öffentlich eine falsche Nachricht über einen Umstand, der geeignet ist, Wahl- oder Stimmberechtigte von der Stimmabgabe abzuhalten oder zur Ausübung des Wahl- oder Stimmrechts in einem bestimmten Sinn zu veranlassen, zu einer Zeit verbreitet, da eine Gegenäußerung nicht mehr wirksam verbreitet werden kann, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
-
-**§ 264 (2) StGB.**  
-Wer sich dabei einer falschen oder verfälschten Urkunde bedient, um die falsche Nachricht glaubwürdig erscheinen zu lassen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-### § 265 StGB. Bestechung bei einer Wahl oder Volksabstimmung
-
-**§ 265 (1) StGB.**  
-Wer einem Wahl- oder Stimmberechtigten ein Entgelt anbietet, verspricht oder gewährt, damit er in einem bestimmten Sinn oder damit er nicht oder nicht in einem bestimmten Sinn wähle oder stimme, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-**§ 265 (2) StGB.**  
-Ebenso ist ein Wahl- oder Stimmberechtigter zu bestrafen, der dafür, daß er in einem bestimmten Sinn, oder dafür, daß er nicht oder nicht in einem bestimmten Sinn wähle oder stimme, ein Entgelt fordert, annimmt oder sich versprechen läßt.
-### § 265a StGB. Mandatskauf
-
-**§ 265a (1) StGB.**  
-Wer im Zusammenhang mit einer Wahl zum Nationalrat, zu einem Landtag oder zum Europäischen Parlament als Verantwortlicher einer wahlwerbenden Partei für die Einflussnahme auf die Zuteilung eines Mandats an einen Bewerber für sich oder einen Dritten ein Entgelt fordert, annimmt oder sich versprechen lässt, ist, sofern es tatsächlich zur Angelobung des Bewerbers oder zur Einnahme des Sitzes durch diesen gekommen ist, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-
-**§ 265a (2) StGB.**  
-Ebenso ist zu bestrafen, wer im Zusammenhang mit einer Wahl nach Abs. 1 einem Verantwortlichen einer wahlwerbenden Partei für die Einflussnahme auf die Zuteilung eines Mandats an einen Bewerber ein Entgelt für ihn oder einen Dritten anbietet, verspricht oder gewährt, sofern es tatsächlich zur Angelobung des Bewerbers oder zur Einnahme des Sitzes durch diesen gekommen ist.
-
-**§ 265a (3) StGB.**  
-Wer die Tat in Bezug auf einen 50 000 Euro übersteigenden Wert des Entgelts begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-**§ 265a (4) StGB.**  
-Zusagen, Vereinbarungen oder Leistungen betreffend zulässige Parteispenden nach den bundes- und landesgesetzlich normierten Spendenregelungen, die Übernahme von Wahlwerbungsaufwendungen für die eigene Person, Parteiabgaben, aussichtsreichere Listenplätze für unterlegene Bewerber und vergleichbare Zusagen, Vereinbarungen oder Leistungen sind nicht rechtswidrig.
-
-**§ 265a (5) StGB.**  
-Der Täter ist nach den vorstehenden Absätzen nur dann zu bestrafen, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist.
-### § 266 StGB. Fälschung bei einer Wahl oder Volksabstimmung
-
-**§ 266 (1) StGB.**  
-Wer, ohne wahl- oder stimmberechtigt zu sein, oder namens eines anderen ohne oder gegen dessen Auftrag unzulässigerweise wählt oder stimmt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
-
-**§ 266 (2) StGB.**  
-Wer das Ergebnis einer Wahl oder Volksabstimmung fälscht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-### § 267 StGB. Verhinderung einer Wahl oder Volksabstimmung
-
-**§ 267 StGB.**  
- Wer mit Gewalt oder durch gefährliche Drohung eine Wahl, eine Volksabstimmung oder die Feststellung oder Verkündung ihrer Ergebnisse verhindert oder absichtlich stört, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-### § 268 StGB. Verletzung des Wahl- oder Volksabstimmungsgeheimnisses
-
-**§ 268 StGB.**  
- Wer einer dem Schutz des Wahl- oder Abstimmungsgeheimnisses dienenden Vorschrift in der Absicht zuwiderhandelt, sich oder einem anderen Kenntnis davon zu verschaffen, wie jemand gewählt oder gestimmt hat, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 ## Neunzehnter Abschnitt | Strafbare Handlungen gegen die Staatsgewalt
 ### § 269 StGB. Widerstand gegen die Staatsgewalt
 

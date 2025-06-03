@@ -1,5 +1,6 @@
-# BG.StGB.1
+# BG.StGB.001
 **Typ:** Bundesgesetz  
+**Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*

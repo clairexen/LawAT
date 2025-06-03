@@ -1,9 +1,87 @@
-# BG.StGB.3
+# BG.StGB.004
 **Typ:** Bundesgesetz  
+**Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+## Achter Abschnitt | Begriffsbestimmungen
+### § 68 StGB. Zeitberechnung
+
+**§ 68 StGB.**  
+ Jahre und Monate sind nach dem Kalender zu berechnen. Zeiträume werden so berechnet, daß der Tag, auf den das Ereignis fällt, mit dem der Zeitraum beginnt, nicht mitgezählt wird. Sie enden mit dem Ablauf des letzten Tages.
+### § 69 StGB. Öffentliche Begehung
+
+**§ 69 StGB.**  
+ Eine Handlung wird nur dann öffentlich begangen, wenn sie unmittelbar von einem größeren Personenkreis wahrgenommen werden kann.
+### § 70 StGB. Gewerbsmäßige Begehung
+
+**§ 70 (1) StGB.**  
+Gewerbsmäßig begeht eine Tat, wer sie in der Absicht ausführt, sich durch ihre wiederkehrende Begehung längere Zeit hindurch ein nicht bloß geringfügiges fortlaufendes Einkommen zu verschaffen, und
+1. unter Einsatz besonderer Fähigkeiten oder Mittel handelt, die eine wiederkehrende Begehung nahelegen, oder
+2. zwei weitere solche Taten schon im Einzelnen geplant hat oder
+3. bereits zwei solche Taten begangen hat oder einmal wegen einer solchen Tat verurteilt worden ist.
+
+**§ 70 (2) StGB.**  
+Ein nicht bloß geringfügiges fortlaufendes Einkommen ist ein solches, das nach einer jährlichen Durchschnittsbetrachtung monatlich den Betrag von 400 Euro übersteigt.
+
+**§ 70 (3) StGB.**  
+Eine frühere Tat oder Verurteilung bleibt außer Betracht, wenn seit ihrer Begehung oder Rechtskraft bis zur folgenden Tat mehr als ein Jahr vergangen ist. In diese Frist werden Zeiten, in denen der Täter auf behördliche Anordnung angehalten worden ist, nicht eingerechnet.
+### § 71 StGB. Schädliche Neigung
+
+**§ 71 StGB.**  
+ Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind.
+### § 72 StGB. Angehörige
+
+**§ 72 (1) StGB.**  
+Unter Angehörigen einer Person sind ihre Verwandten und Verschwägerten in gerader Linie, ihr Ehegatte oder eingetragener Partner und die Geschwister des Ehegatten oder eingetragenen Partners, ihre Geschwister und deren Ehegatten oder eingetragene Partner, Kinder und Enkel, die Geschwister ihrer Eltern und Großeltern, ihre Vettern und Basen, der Vater oder die Mutter ihres Kindes, ihre Wahl- und Pflegeeltern, ihre Wahl- und Pflegekinder, sowie Personen, über die ihnen die Obsorge zusteht oder unter deren Obsorge sie stehen, zu verstehen.
+
+**§ 72 (2) StGB.**  
+Personen, die miteinander in Lebensgemeinschaft leben, werden wie Angehörige behandelt, Kinder und Enkel einer von ihnen werden wie Angehörige auch der anderen behandelt.
+### § 73 StGB. Ausländische Verurteilungen
+
+**§ 73 StGB.**  
+ Sofern das Gesetz nicht ausdrücklich auf die Verurteilung durch ein inländisches Gericht abstellt, stehen ausländische Verurteilungen inländischen gleich, wenn sie den Rechtsbrecher wegen einer Tat schuldig sprechen, die auch nach österreichischem Recht gerichtlich strafbar ist, und in einem den Grundsätzen des Art. 6 der europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, entsprechenden Verfahren ergangen sind.
+### § 74 StGB. Andere Begriffsbestimmungen
+
+**§ 74 (1) StGB.**  
+Im Sinn dieses Bundesgesetzes ist
+1. unmündig: wer das vierzehnte Lebensjahr noch nicht vollendet hat;
+2. minderjährig: wer das achtzehnte Lebensjahr noch nicht vollendet hat;
+3. Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;
+4. Amtsträger: jeder, der
+(Anm.: lit. a aufgehoben durch BGBl. I Nr. 61/2012)
+b.
+für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere Person des öffentlichen Rechts, ausgenommen eine Kirche oder Religionsgesellschaft, für einen anderen Staat oder für eine internationale Organisation Aufgaben der Gesetzgebung, Verwaltung oder Justiz als deren Organ oder Dienstnehmer wahrnimmt, Unionsbeamter (Z 4b) ist oder - für die Zwecke der §§ 168g, 304, 305, 307 und 307a - der öffentliche Aufgaben im Zusammenhang mit der Verwaltung der oder Entscheidungen über die finanziellen Interessen der Europäischen Union in Mitgliedstaaten oder Drittstaaten übertragen bekommen hat und diese Aufgaben wahrnimmt,
+c.
+sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder
+d)
+als Organ oder Bediensteter eines Unternehmens tätig ist, an dem eine oder mehrere inländische oder ausländische Gebietskörperschaften unmittelbar oder mittelbar mit mindestens 50 vH des Stamm-, Grund- oder Eigenkapitals beteiligt sind, das eine solche Gebietskörperschaft allein oder gemeinsam mit anderen solchen Gebietskörperschaften betreibt oder durch finanzielle oder sonstige wirtschaftliche oder organisatorische Maßnahmen tatsächlich beherrscht, jedenfalls aber jedes Unternehmens, dessen Gebarung der Überprüfung durch den Rechnungshof, dem Rechnungshof gleichartige Einrichtungen der Länder oder einer vergleichbaren internationalen oder ausländischen Kontrolleinrichtung unterliegt.
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere Person des öffentlichen Rechts, ausgenommen eine Kirche oder Religionsgesellschaft, für einen anderen Staat oder für eine internationale Organisation Aufgaben der Gesetzgebung, Verwaltung oder Justiz als deren Organ oder Dienstnehmer wahrnimmt, Unionsbeamter (Z&nbsp;4b) ist oder - für die Zwecke der §§&nbsp;168g, 304, 305, 307 und 307a - der öffentliche Aufgaben im Zusammenhang mit der Verwaltung der oder Entscheidungen über die finanziellen Interessen der Europäischen Union in Mitgliedstaaten oder Drittstaaten übertragen bekommen hat und diese Aufgaben wahrnimmt,</span></div></div>
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">sonst im Namen der in lit.&nbsp;b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder</span></div></div>
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">als Organ oder Bediensteter eines Unternehmens tätig ist, an dem eine oder mehrere inländische oder ausländische Gebietskörperschaften unmittelbar oder mittelbar mit mindestens 50&nbsp;vH des Stamm-, Grund- oder Eigenkapitals beteiligt sind, das eine solche Gebietskörperschaft allein oder gemeinsam mit anderen solchen Gebietskörperschaften betreibt oder durch finanzielle oder sonstige wirtschaftliche oder organisatorische Maßnahmen tatsächlich beherrscht, jedenfalls aber jedes Unternehmens, dessen Gebarung der Überprüfung durch den Rechnungshof, dem Rechnungshof gleichartige Einrichtungen der Länder oder einer vergleichbaren internationalen oder ausländischen Kontrolleinrichtung unterliegt.</div></div>
+1. Unionsbeamter: jeder, der Beamter oder sonstiger Bediensteter im Sinne des Statuts der Beamten der Europäischen Union oder der Beschäftigungsbedingungen für die sonstigen Bediensteten der Europäischen Union ist oder der der Europäischen Union von den Mitgliedstaaten oder von öffentlichen oder privaten Einrichtungen zur Verfügung gestellt wird und dort mit Aufgaben betraut ist, die den Aufgaben der Beamten oder sonstigen Bediensteten der Europäischen Union entsprechen; Unionsbeamte sind auch, soweit das Statut nicht gilt, die Mitglieder der Organe, Einrichtungen und sonstigen Stellen der Europäischen Union, die nach dem Vertrag über die Arbeitsweise der Europäischen Union oder dem Vertrag über die Europäische Union errichtet wurden, und die Bediensteten dieser Einrichtungen;
+2. Schiedsrichter: jeder Entscheidungsträger eines Schiedsgerichtes im Sinne der §§ 577 ff ZPO mit Sitz im Inland oder noch nicht bestimmtem Sitz (österreichischer Schiedsrichter) oder mit Sitz im Ausland;
+3. Kandidat für ein Amt: jeder, der sich in einem Wahlkampf, einem Bewerbungs- oder Auswahlverfahren zu einer Funktion als Amtsträger (Z 4a) oder in einer vergleichbaren Position zur Erlangung einer von ihm angestrebten Funktion als oberstes Vollzugsorgan des Bundes oder eines Bundeslandes oder als Organ zur Kontrolle der Gesetzmäßigkeit der Vollziehung befindet, sofern die Erlangung der Funktion nicht gänzlich unwahrscheinlich ist;
+4. gefährliche Drohung: eine Drohung mit einer Verletzung an Körper, Freiheit, Ehre, Vermögen oder des höchstpersönlichen Lebensbereiches durch Zugänglichmachen, Bekanntgeben oder Veröffentlichen von Tatsachen oder Bildaufnahmen, die geeignet ist, dem Bedrohten mit Rücksicht auf die Verhältnisse und seine persönliche Beschaffenheit oder die Wichtigkeit des angedrohten Übels begründete Besorgnisse einzuflößen, ohne Unterschied, ob das angedrohte Übel gegen den Bedrohten selbst, gegen dessen Angehörige oder gegen andere unter seinen Schutz gestellte oder ihm persönlich nahestehende Personen gerichtet ist;
+5. Entgelt: jede einer Bewertung in Geld zugängliche Gegenleistung, auch wenn sie einer anderen Person zugute kommen soll als der, der sie angeboten oder gegeben wird;
+6. Urkunde: eine Schrift, die errichtet worden ist, um ein Recht oder ein Rechtsverhältnis zu begründen, abzuändern oder aufzuheben oder eine Tatsache von rechtlicher Bedeutung zu beweisen;
+7. Computersystem: sowohl einzelne als auch verbundene Vorrichtungen, die der automationsunterstützten Datenverarbeitung dienen;
+8. Prostitution: die Vornahme geschlechtlicher Handlungen oder die Duldung geschlechtlicher Handlungen am eigenen Körper gegen Entgelt durch
+a)
+eine minderjährige Person oder
+b)
+eine volljährige Person in der Absicht, sich oder einem Dritten durch die wiederkehrende Vornahme oder Duldung eine fortlaufende Einnahme zu verschaffen;
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">eine minderjährige Person oder</div></div>
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">eine volljährige Person in der Absicht, sich oder einem Dritten durch die wiederkehrende Vornahme oder Duldung eine fortlaufende Einnahme zu verschaffen;</div></div>
+1. unbares Zahlungsmittel: nichtkörperliche oder körperliche Vorrichtungen, Gegenstände oder Aufzeichnungen oder deren Kombination, ausgenommen gesetzliche Zahlungsmittel, die vor Fälschung oder missbräuchlicher Verwendung geschützt sind und die für sich oder in Verbindung mit einem oder mehreren Verfahren dem Inhaber oder Nutzer ermöglichen, Geld oder monetäre Werte zu übertragen, auch mittels digitaler Tauschmittel;
+2. kritische Infrastruktur: Einrichtungen, Anlagen, Systeme oder Teile davon, die eine wesentliche Bedeutung für die Aufrechterhaltung der öffentlichen Sicherheit, die Landesverteidigung oder den Schutz der Zivilbevölkerung gegen Kriegsgefahren, die Funktionsfähigkeit öffentlicher Informations- und Kommunikationstechnologie, die Verhütung oder Bekämpfung von Katastrophen, den öffentlichen Gesundheitsdienst, die öffentliche Versorgung mit Wasser, Energie sowie lebenswichtigen Gütern, das öffentliche Abfallentsorgungs- und Kanalwesen oder den öffentlichen Verkehr haben.
+
+**§ 74 (2) StGB.**  
+Im Sinne dieses Bundesgesetzes sind Daten sowohl personenbezogene und nicht personenbezogene Daten als auch Programme.
+
+**§ 74 (3) StGB.**  
+Unter leitenden Angestellten sind Angestellte eines Unternehmens, auf dessen Geschäftsführung ihnen ein maßgeblicher Einfluss zusteht, zu verstehen. Ihnen stehen Geschäftsführer, Mitglieder des Vorstands oder Aufsichtsrats und Prokuristen ohne Angestelltenverhältnis gleich.
 ## Besonderer Teil | Erster Abschnitt | Strafbare Handlungen gegen Leib und Leben
 ### § 75 StGB. Mord
 
@@ -198,16 +276,5 @@ Wer es bei einem Unglücksfall oder einer Gemeingefahr (§ 176) unterläßt, di
 
 **§ 95 (2) StGB.**  
 Die Hilfeleistung ist insbesondere dann nicht zuzumuten, wenn sie nur unter Gefahr für Leib oder Leben oder unter Verletzung anderer ins Gewicht fallender Interessen möglich wäre.
-## Zweiter Abschnitt | Schwangerschaftsabbruch
-### § 96 StGB. Schwangerschaftsabbruch
-
-**§ 96 (1) StGB.**  
-Wer mit Einwilligung der Schwangeren deren Schwangerschaft abbricht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen, begeht er die Tat gewerbsmäßig, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-**§ 96 (2) StGB.**  
-Ist der unmittelbare Täter kein Arzt, so ist er mit Freiheitsstrafe bis zu drei Jahren, begeht er die Tat gewerbsmäßig oder hat sie den Tod der Schwangeren zur Folge, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-**§ 96 (3) StGB.**  
-Eine Frau, die den Abbruch ihrer Schwangerschaft selbst vornimmt oder durch einen anderen zuläßt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 **END-OF-FILE**

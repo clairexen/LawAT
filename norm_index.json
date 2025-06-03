@@ -2,8 +2,8 @@
     "BG.StGB": {
         "type": "BG",
         "title": "StGB",
-	"stop": ["§ 31a", "§ 74", "§ 96", "§ 124", "§ 168g", "§ 200", "§ 241h", "§ 260",
-	         "§ 287", "§ 324"],
+	"split": 20000,
+	"stop": ["§ 324"],
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296"
     },
     "BG.StPO": {

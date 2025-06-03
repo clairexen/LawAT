@@ -1,9 +1,114 @@
-# BG.StGB.7
+# BG.StGB.008
 **Typ:** Bundesgesetz  
+**Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+## Achter Abschnitt | Strafbare Handlungen gegen den religiösen Frieden und die Ruhe der Toten
+### § 188 StGB. Herabwürdigung religiöser Lehren
+
+**§ 188 StGB.**  
+ Wer öffentlich eine Person oder eine Sache, die den Gegenstand der Verehrung einer im Inland bestehenden Kirche oder Religionsgesellschaft bildet, oder eine Glaubenslehre, einen gesetzlich zulässigen Brauch oder eine gesetzlich zulässige Einrichtung einer solchen Kirche oder Religionsgesellschaft unter Umständen herabwürdigt oder verspottet, unter denen sein Verhalten geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+### § 189 StGB. Störung einer Religionsübung
+
+**§ 189 (1) StGB.**  
+Wer mit Gewalt oder durch Drohung mit Gewalt den gesetzlich zulässigen Gottesdienst oder einzelne solche gottesdienstliche Handlungen einer im Inland bestehenden Kirche oder Religionsgesellschaft hindert oder stört, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+
+**§ 189 (2) StGB.**  
+Wer
+1. an einem Ort, der der gesetzlich zulässigen Religionsübung einer im Inland bestehenden Kirche oder Religionsgesellschaft gewidmet ist,
+2. bei dem gesetzlich zulässigen öffentlichen Gottesdienst oder einzelnen gesetzlich zulässigen öffentlichen gottesdienstlichen Handlungen einer im Inland bestehenden Kirche oder Religionsgesellschaft oder
+3. mit einem dem gesetzlich zulässigen Gottesdienst einer im Inland bestehenden Kirche oder Religionsgesellschaft unmittelbar gewidmeten Gegenstand
+### § 190 StGB. Störung der Totenruhe
+
+**§ 190 (1) StGB.**  
+Wer einen Leichnam oder Teile eines Leichnams oder die Asche eines Toten einem Verfügungsberechtigten entzieht oder aus einer Beisetzungs- oder Aufbahrungsstätte wegschafft, ferner wer einen Leichnam mißhandelt oder einen Leichnam, die Asche eines Toten oder eine Beisetzungs-, Aufbahrungs- oder Totengedenkstätte verunehrt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+
+**§ 190 (2) StGB.**  
+Wer Schmuck von einer Beisetzungs-, Aufbahrungs- oder Totengedenkstätte entfernt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+### § 191 StGB. Störung einer Bestattungsfeier
+
+**§ 191 StGB.**  
+ Wer wissentlich eine Bestattungsfeier durch einen Lärm, der geeignet ist, berechtigtes Ärgernis zu erregen, oder durch ein anderes solches Verhalten stört, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+## Neunter Abschnitt | Strafbare Handlungen gegen Ehe und Familie
+### § 192 StGB. Mehrfache Ehe oder eingetragene Partnerschaft
+
+**§ 192 StGB.**  
+ Wer eine neue Ehe schließt oder eine eingetragene Partnerschaft begründet, obwohl er verheiratet ist oder eine eingetragene Partnerschaft führt, oder wer mit einer verheirateten Person oder einer Person, die eine eingetragene Partnerschaft führt, eine Ehe schließt oder eine eingetragene Partnerschaft begründet, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+### § 193 StGB. Ehetäuschung
+
+**§ 193 (1) StGB.**  
+Wer bei Eingehung einer Ehe dem anderen Teil eine Tatsache verschweigt, die die Ehe nichtig macht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+**§ 193 (2) StGB.**  
+Ebenso ist zu bestrafen, wer einen anderen durch Täuschung über Tatsachen, derentwegen die Aufhebung der Ehe begehrt werden kann, verleitet, mit ihm die Ehe zu schließen.
+
+**§ 193 (3) StGB.**  
+Der Täter ist nur dann zu bestrafen, wenn die Ehe wegen der verschwiegenen Tatsache für nichtig erklärt oder wegen der Täuschung aufgehoben worden ist. Auch ist er nur auf Verlangen des Verletzten zu verfolgen.
+### § 193a StGB. Partnerschaftstäuschung
+
+**§ 193a (1) StGB.**  
+Wer einen anderen durch Täuschung über Tatsachen, derentwegen die Auflösung der eingetragenen Partnerschaft begehrt werden kann, verleitet, mit ihm eine eingetragene Partnerschaft zu begründen, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+**§ 193a (2) StGB.**  
+Der Täter ist nur dann zu bestrafen, wenn die eingetragene Partnerschaft wegen der Täuschung erfolgreich aufgelöst worden ist. Auch ist er nur auf Verlangen des Verletzten zu verfolgen.
+### § 194 StGB. Verbotene Adoptionsvermittlung
+
+**§ 194 (1) StGB.**  
+Wer
+1. bewirkt, dass eine zustimmungsberechtigte Person gegen Gewährung eines Vorteils für sich oder einen Dritten der Adoption einer minderjährigen Person durch eine andere Person zustimmt, oder
+2. sonst als Vermittler die Zustimmung einer zustimmungsberechtigten Person zur Adoption einer minderjährigen Person entgegen Art. 4 des Haager Übereinkommens über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption, BGBl. III 145/1999, herbeiführt,
+
+**§ 194 (2) StGB.**  
+Handelt der Täter, um sich oder einem Dritten einen Vermögensvorteil zu verschaffen, so ist er mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
+**§ 194 (3) StGB.**  
+Annehmende und Wahlkinder, zwischen denen die Adoption vermittelt wird, sind nicht als Beteiligte (§ 12 StGB) zu bestrafen.
+### § 195 StGB. Kindesentziehung
+
+**§ 195 (1) StGB.**  
+Wer eine Person unter sechzehn Jahren dem Erziehungsberechtigten entzieht, sie vor ihm verborgen hält, sie verleitet, sich ihm zu entziehen oder sich vor ihm verborgen zu halten, oder ihr dazu Hilfe leistet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+**§ 195 (2) StGB.**  
+Wer die Tat in Beziehung auf eine unmündige Person begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
+**§ 195 (3) StGB.**  
+Der Täter ist nur mit Ermächtigung des Erziehungsberechtigten zu verfolgen. Entzieht er diesem eine Person, die das vierzehnte Lebensjahr vollendet hat, so bedarf die Verfolgung überdies der Ermächtigung des Jugendwohlfahrtsträgers.
+
+**§ 195 (4) StGB.**  
+Der Täter ist nicht zu bestrafen, wenn er Grund zur Annahme hatte, daß ohne sein Handeln das körperliche oder seelische Wohl der Person unter sechzehn Jahren ernstlich gefährdet wäre, und er - soweit erforderlich - deren Aufenthalt dem Erziehungsberechtigten, dem Jugendwohlfahrtsträger oder einer Sicherheitsbehörde ohne unnötigen Aufschub bekanntgegeben hat.
+
+**§ 195 (5) StGB.**  
+Eine Person unter sechzehn Jahren, die einen anderen dazu verleitet, sie dem Erziehungsberechtigten zu entziehen oder ihr Hilfe zu leisten, sich selbst dem Erziehungsberechtigten zu entziehen, ist nicht zu bestrafen.
+### § 196 StGB. Vereitelung behördlich angeordneter Erziehungshilfen
+
+**§ 196 (1) StGB.**  
+Wer eine minderjährige Person einer behördlich angeordneten Erziehungshilfe entzieht, sie verleitet, sich einer solchen zu entziehen, oder ihr dazu Hilfe leistet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+
+**§ 196 (2) StGB.**  
+Der Täter ist nur mit Ermächtigung der Behörde zu verfolgen, die über die Fortsetzung der Erziehungshilfe zu entscheiden hat.
+
+**§ 196 (3) StGB.**  
+§ 195 Abs. 5 gilt entsprechend.
+### § 198 StGB. Verletzung der Unterhaltspflicht
+
+**§ 198 (1) StGB.**  
+Wer seine im Familienrecht begründete Unterhaltspflicht gröblich verletzt und dadurch bewirkt, daß der Unterhalt oder die Erziehung des Unterhaltsberechtigten gefährdet wird oder ohne Hilfe von anderer Seite gefährdet wäre, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen. Seine Unterhaltspflicht verletzt insbesondere auch, wer es unterläßt, einem Erwerb nachzugehen, der ihm die Erfüllung dieser Pflicht ermöglichen würde.
+
+**§ 198 (2) StGB.**  
+Ist der Täter rückfällig (§ 39) oder hat die Tat die Verwahrlosung oder eine beträchtliche Schädigung der Gesundheit oder der körperlichen oder geistigen Entwicklung des Unterhaltsberechtigten zur Folge, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat die Tat aber den Tod des Unterhaltsberechtigten zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
+**§ 198 (3) StGB.**  
+Der Täter ist nicht nach Abs. 1 zu bestrafen, wenn er bis zum Schluss der Verhandlung die vom Verfolgungsantrag umfassten Unterhaltsbeträge zur Gänze bezahlt.
+### § 199 StGB. Vernachlässigung der Pflege, Erziehung oder Beaufsichtigung
+
+**§ 199 StGB.**  
+ Wer die ihm auf Grund eines Gesetzes obliegende Pflege, Erziehung oder Beaufsichtigung einer minderjährigen Person gröblich vernachlässigt und dadurch, wenn auch nur fahrlässig, deren Verwahrlosung bewirkt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+### § 200 StGB. Unterschiebung eines Kindes
+
+**§ 200 StGB.**  
+ Wer ein Kind unterschiebt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 ## Zehnter Abschnitt | Strafbare Handlungen gegen die sexuelle Integrität und Selbstbestimmung
 ### § 201 StGB. Vergewaltigung
 
@@ -262,235 +367,5 @@ Das Tätigkeitsverbot beginnt mit Rechtskraft der Entscheidung, mit der das Verb
 
 **§ 220b (4) StGB.**  
 Wer einer Tätigkeit nachgeht, obwohl ihm deren Ausübung nach den vorstehenden Bestimmungen untersagt wurde, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
-## Elfter Abschnitt | Tierquälerei
-### § 222 StGB. Tierquälerei
-
-**§ 222 (1) StGB.**  
-Wer ein Tier
-1. roh misshandelt oder ihm unnötige Qualen zufügt,
-2. aussetzt, obwohl es in der Freiheit zu leben unfähig ist, oder
-3. mit dem Vorsatz, dass ein Tier Qualen erleide, auf ein anderes Tier hetzt,
-
-**§ 222 (2) StGB.**  
-Ebenso ist zu bestrafen, wer, wenn auch nur fahrlässig, im Zusammenhang mit der Beförderung mehrerer Tiere diese dadurch, dass er Fütterung oder Tränke unterlässt, oder auf andere Weise längere Zeit hindurch einem qualvollen Zustand aussetzt.
-
-**§ 222 (3) StGB.**  
-Ebenso ist zu bestrafen, wer ein Wirbeltier mutwillig tötet.
-## Zwölfter Abschnitt | Strafbare Handlungen gegen die Zuverlässigkeit von Urkunden und Beweiszeichen
-### § 223 StGB. Urkundenfälschung
-
-**§ 223 (1) StGB.**  
-Wer eine falsche Urkunde mit dem Vorsatz herstellt oder eine echte Urkunde mit dem Vorsatz verfälscht, daß sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-**§ 223 (2) StGB.**  
-Ebenso ist zu bestrafen, wer eine falsche oder verfälschte Urkunde im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht.
-### § 224 StGB. Fälschung besonders geschützter Urkunden
-
-**§ 224 StGB.**  
- Wer eine der im § 223 mit Strafe bedrohten Handlungen in Beziehung auf eine inländische öffentliche Urkunde, eine ausländische öffentliche Urkunde, wenn sie durch Gesetz oder zwischenstaatlichen Vertrag inländischen öffentlichen Urkunden gleichgestellt ist, eine letztwillige Verfügung oder ein nicht im § 237 genanntes Wertpapier begeht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-### § 224a StGB. Annahme, Weitergabe oder Besitz falscher oder verfälschter besonders geschützter Urkunden
-
-**§ 224a StGB.**  
- Wer eine falsche oder verfälschte besonders geschützte Urkunde (§ 224) mit dem Vorsatz, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-### § 225 StGB. Fälschung öffentlicher Beglaubigungszeichen
-
-**§ 225 (1) StGB.**  
-Wer an einer Sache ein öffentliches Beglaubigungszeichen nachmacht oder verfälscht, einem öffentlichen Beglaubigungszeichen eine andere Sache unterschiebt oder eine mit einem solchen Zeichen versehene Sache wesentlich verändert, ist, wenn er mit dem Vorsatz handelt, daß die Sache im Rechtsverkehr gebraucht werde, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-
-**§ 225 (2) StGB.**  
-Ebenso ist zu bestrafen, wer eine mit einem nachgemachten oder verfälschten öffentlichen Beglaubigungszeichen versehene, eine einem öffentlichen Beglaubigungszeichen unterschobene oder eine nach der Anbringung eines solchen Zeichens wesentlich veränderte Sache im Rechtsverkehr gebraucht.
-
-**§ 225 (3) StGB.**  
-Als öffentliches Beglaubigungszeichen gilt jedes Zeichen, das ein Beamter innerhalb seiner Amtsbefugnisse oder eine mit öffentlichem Glauben versehene Person innerhalb des ihr zugewiesenen Geschäftskreises an einer Sache in der vorgeschriebenen Form angebracht hat, um eine auf die Sache bezügliche Tatsache zu bestätigen.
-### § 225a StGB. Datenfälschung
-
-**§ 225a StGB.**  
- Wer durch Eingabe, Veränderung, Löschung oder Unterdrückung von Daten falsche Daten mit dem Vorsatz herstellt oder echte Daten mit dem Vorsatz verfälscht, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werden, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-### § 226 StGB. Tätige Reue
-
-**§ 226 (1) StGB.**  
-Nach den §§ 223 bis 225a ist nicht zu bestrafen, wer freiwillig, bevor die falsche oder verfälschte Urkunde, die mit dem nachgemachten oder verfälschten öffentlichen Beglaubigungszeichen versehene oder die einem öffentlichen Beglaubigungszeichen unterschobene oder die nach Anbringung eines solchen Zeichens wesentlich veränderte Sache oder die falschen oder verfälschten Daten im Rechtsverkehr gebraucht worden sind, durch Vernichtung der Urkunde, des Beglaubigungszeichens oder der Daten oder auf andere Art die Gefahr beseitigt, dass die Urkunde, die Sache oder die Daten in der in den §§ 223 bis 225a bezeichneten Weise gebraucht werden.
-
-**§ 226 (2) StGB.**  
-Besteht die Gefahr eines solchen Gebrauches nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen.
-### § 227 StGB. Vorbereitung der Fälschung öffentlicher Urkunden oder Beglaubigungszeichen
-
-**§ 227 (1) StGB.**  
-Wer mit dem Vorsatz, sich oder einem anderen eine Urkundenfälschung in Beziehung auf eine inländische öffentliche Urkunde oder eine ausländische öffentliche Urkunde, wenn sie durch Gesetz oder zwischenstaatlichen Vertrag inländischen öffentlichen Urkunden gleichgestellt ist (§ 224), oder eine Fälschung öffentlicher Beglaubigungszeichen (§ 225) zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-**§ 227 (2) StGB.**  
-Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig, bevor das Mittel oder Werkzeug zur Begehung einer der dort genannten strafbaren Handlungen gebraucht worden ist, durch dessen Vernichtung oder auf andere Art die Gefahr eines solchen Gebrauches beseitigt. § 226 Abs. 2 gilt entsprechend.
-### § 228 StGB. Mittelbare unrichtige Beurkundung oder Beglaubigung
-
-**§ 228 (1) StGB.**  
-Wer bewirkt, daß gutgläubig ein Recht, ein Rechtsverhältnis oder eine Tatsache in einer inländischen öffentlichen Urkunde unrichtig beurkundet oder an einer Sache ein unrichtiges öffentliches Beglaubigungszeichen angebracht wird, ist, wenn er mit dem Vorsatz handelt, daß die Urkunde im Rechtsverkehr zum Beweis des Rechtes, des Rechtsverhältnisses oder der Tatsache gebraucht werde oder die Sache im Rechtsverkehr gebraucht werde, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-**§ 228 (2) StGB.**  
-Ebenso ist zu bestrafen, wer eine gutgläubig hergestellte unrichtige inländische öffentliche Urkunde, deren Unrichtigkeit von ihm oder einem Dritten vorsätzlich bewirkt wurde, im Rechtsverkehr zum Beweis des Rechtes, des Rechtsverhältnisses oder der Tatsache gebraucht, oder wer eine Sache, die gutgläubig mit einem unrichtigen öffentlichen Beglaubigungszeichen versehen wurde, dessen unrichtige Anbringung von ihm oder einem Dritten vorsätzlich bewirkt wurde, im Rechtsverkehr gebraucht.
-
-**§ 228 (3) StGB.**  
-§ 226 gilt entsprechend.
-### § 229 StGB. Urkundenunterdrückung
-
-**§ 229 (1) StGB.**  
-Wer eine Urkunde, über die er nicht oder nicht allein verfügen darf, vernichtet, beschädigt oder unterdrückt, ist, wenn er mit dem Vorsatz handelt, zu verhindern, daß sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-**§ 229 (2) StGB.**  
-Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig die Unterdrückung der Urkunde, bevor diese im Rechtsverkehr gebraucht werden sollte, rückgängig macht oder auf andere Art bewirkt, daß die Tat den Beweis, dem die Urkunde dienen sollte, nicht behindert.
-### § 230 StGB. Versetzung von Grenzzeichen
-
-**§ 230 (1) StGB.**  
-Wer ein zur Bezeichnung der Grenze oder des Wasserstands bestimmtes Zeichen mit dem Vorsatz, ein Beweismittel für eine Tatsache von rechtlicher Bedeutung zu schaffen oder zu unterdrücken, unrichtig setzt, verrückt, beseitigt oder unkenntlich macht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-
-**§ 230 (2) StGB.**  
-Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig das Zeichen, bevor es als Beweismittel herangezogen werden sollte oder herangezogen worden ist, berichtigt oder wiederherstellt oder auf andere Art bewirkt, daß die Tat den Beweis, dem das Zeichen dienen sollte, nicht behindert.
-### § 231 StGB. Gebrauch fremder Ausweise
-
-**§ 231 (1) StGB.**  
-Wer einen amtlichen Ausweis, der für einen anderen ausgestellt ist, im Rechtsverkehr gebraucht, als wäre er für ihn ausgestellt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
-
-**§ 231 (2) StGB.**  
-Ebenso ist zu bestrafen, wer einem anderen einen amtlichen Ausweis mit dem Vorsatz überläßt, daß er von einem Nichtberechtigten im Rechtsverkehr gebraucht werde, als wäre er für ihn ausgestellt.
-
-**§ 231 (3) StGB.**  
-Nach Abs. 2 ist nicht zu bestrafen, wer freiwillig den Ausweis, bevor ihn ein Nichtberechtigter im Rechtsverkehr gebraucht hat, zurücknimmt oder auf andere Art die Gefahr beseitigt, daß der amtliche Ausweis in der im Abs. 2 bezeichneten Weise gebraucht werde.
-## Dreizehnter Abschnitt | Strafbare Handlungen gegen die Sicherheit des Verkehrs mit Geld, Wertpapieren, Wertzeichen und unbaren Zahlungsmitteln
-### § 232 StGB. Geldfälschung
-
-**§ 232 (1) StGB.**  
-Wer Geld mit dem Vorsatz nachmacht oder verfälscht, daß es als echt und unverfälscht in Verkehr gebracht werde, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
-
-**§ 232 (2) StGB.**  
-Ebenso ist zu bestrafen, wer solches nachgemachtes oder verfälschtes Geld im Einverständnis mit einem an der Fälschung Beteiligten (§ 12) oder einem Mittelsmann mit dem Vorsatz übernimmt, es als echt und unverfälscht in Verkehr zu bringen.
-
-**§ 232 (3) StGB.**  
-Als Nachmachen von Geld gilt auch die Herstellung unter Nutzung der zur rechtmäßigen Herstellung bestimmten Einrichtungen oder Materialien, jedoch unter Missachtung der Rechte oder der Bedingungen, nach denen die zuständigen Stellen zur Geldausgabe befugt sind, und ohne die Zustimmung dieser Stellen.
-### § 233 StGB. Weitergabe und Besitz nachgemachten oder verfälschten Geldes
-
-**§ 233 (1) StGB.**  
-Wer nachgemachtes oder verfälschtes Geld
-1. mit dem Vorsatz, dass es als echt und unverfälscht ausgegeben werde, einführt, ausführt, befördert, außer dem im § 232 Abs. 2 genannten Fall von einem anderen übernimmt, sich sonst verschafft oder besitzt oder
-2. als echt und unverfälscht ausgibt,
-
-**§ 233 (2) StGB.**  
-Wer die Tat an nachgemachtem oder verfälschtem Geld im Nennwert von mehr als 300 000 Euro begeht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
-### § 234 StGB. Verringerung von Geldmünzen und Weitergabe verringerter Geldmünzen
-
-**§ 234 (1) StGB.**  
-Wer eine Geldmünze mit dem Vorsatz verringert, daß sie als vollwertig ausgegeben werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-**§ 234 (2) StGB.**  
-Wer eine verringerte Geldmünze
-1. mit dem Vorsatz, daß sie als vollwertig ausgegeben werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder
-2. als vollwertig ausgibt,
-### § 235 StGB. Ansichbringen, Verheimlichen oder Verhandeln des Münzabfalls
-
-**§ 235 StGB.**  
- Wer das von einem anderen durch die Verringerung von Geldmünzen (§ 234 Abs. 1) gewonnene Metall kauft, zum Pfand nimmt oder sonst an sich bringt, verheimlicht oder verhandelt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-### § 236 StGB. Weitergabe von Falschgeld oder verringerten Geldmünzen
-
-**§ 236 (1) StGB.**  
-Wer nachgemachtes oder verfälschtes Geld oder eine verringerte Geldmünze als echt und unverfälscht oder als vollwertig weitergibt, ist, wenn er oder ein anderer für ihn das Geld oder die Münze gutgläubig als echt und unverfälscht oder als vollwertig empfangen hat, ohne sich dadurch strafbar zu machen, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-**§ 236 (2) StGB.**  
-Ebenso ist zu bestrafen, wer eine der im Abs. 1 genannten Handlungen für einen anderen begeht, der, ohne sich dadurch strafbar zu machen, das Geld oder die Münze gutgläubig als echt und unverfälscht oder als vollwertig empfangen hat.
-### § 237 StGB. Fälschung besonders geschützter Wertpapiere
-
-**§ 237 StGB.**  
- Nach den §§ 232, 233 oder 236 ist auch zu bestrafen, wer eine der dort mit Strafe bedrohten Handlungen in Beziehung auf Banknoten oder Geldmünzen, die nicht gesetzliche Zahlungsmittel sind, Pfandbriefe, Teilschuldverschreibungen, Aktien oder sonstige Anteilscheine, Zins-, Genuß-, Gewinnanteil- oder Erneuerungsscheine begeht, sofern diese Wertpapiere auf Inhaber lauten.
-### § 238 StGB. Wertzeichenfälschung
-
-**§ 238 (1) StGB.**  
-Wer ein amtliches Wertzeichen mit dem Vorsatz nachmacht oder verfälscht, daß es als echt und unverfälscht verwertet werde, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-**§ 238 (2) StGB.**  
-Wer ein solches nachgemachtes oder verfälschtes Wertzeichen
-1. mit dem Vorsatz, daß es als echt und unverfälscht verwertet werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder
-2. als echt und unverfälscht verwertet,
-
-**§ 238 (3) StGB.**  
-Als amtliche Wertzeichen gelten auch amtliche Stempelabdrücke, durch die die Entrichtung einer Gebühr oder sonst einer Abgabe bescheinigt wird.
-
-**§ 238 (4) StGB.**  
-Die Wiederverwendung eines schon verwendeten amtlichen Wertzeichens und die Entfernung des Entwertungsstempels von einem schon verwendeten amtlichen Wertzeichen sind gerichtlich nicht strafbar.
-### § 239 StGB. Vorbereitung einer Geld-, Wertpapier- oder Wertzeichenfälschung
-
-**§ 239 StGB.**  
- Wer mit dem Vorsatz, sich oder einem anderen die Begehung einer der nach den §§ 232, 234, 237 oder 238 mit Strafe bedrohten Handlungen zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, ein Hologramm oder einen anderen der Sicherung gegen Fälschung dienenden Bestandteil von Geld, eines besonders geschützten Wertpapieres oder eines amtlichen Wertzeichens anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-### § 240 StGB. Tätige Reue
-
-**§ 240 (1) StGB.**  
-Wegen einer der in den §§ 232 bis 234 und 237 bis 239 mit Strafe bedrohten Handlungen ist nicht zu bestrafen, wer freiwillig
-1. seine dort bezeichnete Tätigkeit vor deren Abschluß aufgibt,
-2. das nachgemachte oder verfälschte Geld, solche Wertpapiere oder Wertzeichen oder die verringerten Geldmünzen sowie die Fälschungsgeräte (§ 239) vernichtet oder der Behörde (§ 151 Abs. 3) übergibt, soweit er diese Gegenstände noch besitzt, und
-3. durch Mitteilung an diese Behörde oder auf andere Art die Gefahr beseitigt, daß infolge seiner Tätigkeit oder der Tätigkeit anderer an dem Unternehmen Beteiligter nachgemachtes oder verfälschtes Geld oder ein solches Wertpapier als echt und unverfälscht oder eine verringerte Geldmünze als vollwertig in Verkehr gebracht oder ausgegeben oder ein nachgemachtes oder verfälschtes Wertzeichen als echt und unverfälscht verwertet wird, solange noch nicht versucht worden ist, einen dieser Erfolge herbeizuführen.
-
-**§ 240 (2) StGB.**  
-Der Täter ist auch nicht zu bestrafen, wenn die im Abs. 1 bezeichneten Gefahren nicht bestehen oder ohne sein Zutun beseitigt werden, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich darum bemüht, sie zu beseitigen.
-### § 241 StGB. Geld, Wertpapiere und Wertzeichen des Auslands
-
-**§ 241 StGB.**  
- Die Bestimmungen dieses Abschnitts gelten auch für Geld, Wertpapiere, Wertzeichen sowie zur Ausgabe als gesetzliches Zahlungsmittel bestimmte Banknoten und Geldmünzen des Auslands.
-### § 241a StGB. Fälschung unbarer Zahlungsmittel
-
-**§ 241a (1) StGB.**  
-Wer ein falsches unbares Zahlungsmittel mit dem Vorsatz herstellt oder ein echtes unbares Zahlungsmittel mit dem Vorsatz verfälscht, dass es im Rechtsverkehr wie ein echtes verwendet werde, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-**§ 241a (2) StGB.**  
-Wer die Tat gewerbsmäßig oder als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-### § 241b StGB. Annahme, Weitergabe oder Besitz falscher oder verfälschter unbarer Zahlungsmittel
-
-**§ 241b (1) StGB.**  
-Wer ein falsches oder verfälschtes unbares Zahlungsmittel mit dem Vorsatz, dass es im Rechtsverkehr wie ein echtes verwendet werde, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt, einführt, ausführt, verbreitet, bereitstellt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-**§ 241b (2) StGB.**  
-Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-### § 241c StGB. Vorbereitung der Fälschung oder Entfremdung unbarer Zahlungsmittel
-
-**§ 241c StGB.**  
- Wer mit dem Vorsatz, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) oder eine Entfremdung unbarer Zahlungsmittel nach § 241e Abs. 1 zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-### § 241d StGB. Tätige Reue
-
-**§ 241d (1) StGB.**  
-Wegen einer der in den §§ 241a bis 241c mit Strafe bedrohten Handlungen ist nicht zu bestrafen, wer freiwillig, bevor das falsche oder verfälschte unbare Zahlungsmittel im Rechtsverkehr verwendet worden ist, durch Vernichtung des unbaren Zahlungsmittels, oder, bevor das Mittel oder Werkzeug zur Fälschung eines unbaren Zahlungsmittels verwendet worden ist, durch Vernichtung des Mittels oder Werkzeuges, oder auf andere Art die Gefahr einer solchen Verwendung beseitigt.
-
-**§ 241d (2) StGB.**  
-Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen.
-### § 241e StGB. Entfremdung unbarer Zahlungsmittel
-
-**§ 241e (1) StGB.**  
-Wer sich ein unbares Zahlungsmittel, über das er nicht oder nicht allein verfügen darf, mit dem Vorsatz verschafft, dass er oder ein Dritter durch dessen Verwendung im Rechtsverkehr unrechtmäßig bereichert werde, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen. Ebenso ist zu bestrafen, wer sich ein unbares Zahlungsmittel, über das er nicht oder nicht allein verfügen darf, mit dem Vorsatz verschafft, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) zu ermöglichen.
-
-**§ 241e (2) StGB.**  
-Wer die Tat gewerbsmäßig oder als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-**§ 241e (3) StGB.**  
-Wer ein unbares Zahlungsmittel, über das er nicht oder nicht allein verfügen darf, mit dem Vorsatz, dessen Verwendung im Rechtsverkehr zu verhindern, vernichtet, beschädigt oder unterdrückt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-### § 241f StGB. Annahme, Weitergabe oder Besitz entfremdeter unbarer Zahlungsmittel
-
-**§ 241f (1) StGB.**  
-Wer ein entfremdetes unbares Zahlungsmittel mit dem Vorsatz, dass er oder ein Dritter durch dessen Verwendung unrechtmäßig bereichert werde, oder mit dem Vorsatz, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) zu ermöglichen, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt, einführt, ausführt, verbreitet, bereitstellt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-**§ 241f (2) StGB.**  
-Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-### § 241g StGB. Tätige Reue
-
-**§ 241g (1) StGB.**  
-Nach den §§ 241e und 241f ist nicht zu bestrafen, wer freiwillig, bevor das entfremdete unbare Zahlungsmittel im Rechtsverkehr oder zur Fälschung eines unbaren Zahlungsmittels verwendet worden ist, durch Übergabe an die Behörde (§ 151 Abs. 3) oder auf andere Art die Gefahr einer solchen Verwendung beseitigt.
-
-**§ 241g (2) StGB.**  
-Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen.
-### § 241h StGB. Ausspähen von Daten eines unbaren Zahlungsmittels
-
-**§ 241h (1) StGB.**  
-Wer Daten eines unbaren Zahlungsmittels mit dem Vorsatz ausspäht,
-1. dass er oder ein Dritter durch deren Verwendung im Rechtsverkehr unrechtmäßig bereichert werde oder
-2. sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) zu ermöglichen,
-
-**§ 241h (2) StGB.**  
-Wer die Tat gewerbsmäßig begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-**§ 241h (3) StGB.**  
-Der Täter ist nicht zu bestrafen, wenn er freiwillig, bevor die ausgespähten Daten im Sinne des Abs. 1 Z 1 oder 2 verwendet wurden, die Gefahr ihrer Verwendung durch Verständigung der Behörde, des Berechtigten oder auf andere Weise beseitigt. Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen.
 
 **END-OF-FILE**
