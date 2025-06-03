@@ -9,6 +9,8 @@
     "BG.StPO": {
         "type": "BG",
         "title": "StPO",
+	"split": 20000,
+	"stop": ["§ 517"],
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326"
     },
     "BG.ABGB": {

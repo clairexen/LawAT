@@ -254,7 +254,8 @@ while blockIndex is not None:
         tx = "\n".join(outBuffer)
         fileSize += len(tx)
 
-        if "split" in normdata and tx.startswith("## ") and fileSize > normdata['split']:
+        if "split" in normdata and tx.startswith("## ") and \
+                                   fileSize > normdata['split'] and fileSize > len(tx):
             blockIndex -= 1
             break
 
