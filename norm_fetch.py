@@ -135,7 +135,19 @@ def processContentElement(el):
         case "H4" if "UeberschrPara" in cls:
             lines.append(f"#### {txt}")
         case "DIV" if "ParagraphMitAbsatzzahl" in cls:
-            lines += txt.split("\n")
+            parBaseName = el.locator(":scope h5.GldSymbol").inner_text().replace("\xa0", " ")
+            parName = parBaseName.replace(".", f" {normdata['title']}.")
+            if len(outBuffer) and outBuffer[-1].startswith("#### "):
+                lines.append(f"#### {parName} {outBuffer[-1][5:]}")
+                del outBuffer[-1]
+            else:
+                lines.append(f"#### {parName}")
+            for item in el.locator(":scope div.content").all():
+                nr = item.locator(".Absatzzahl").inner_text()
+                tx = item.locator(".Absatzzahl ~ *").inner_text().split("\n")
+                nrName = parBaseName.replace(".", f" {nr} {normdata['title']}.")
+                tx[0] = f"**{nrName}** {tx[0]}"
+                lines += tx
         case _:
             lines.append(f"{el.tag_name()}: {el.outer_html()}")
     return lines
@@ -143,9 +155,10 @@ def processContentElement(el):
 # Process Content Blocks
 blocks = page.locator("div.contentBlock").all()
 for blk in blocks:
-    if selectParagraph is not None and \
-       f"§\xa0{selectParagraph}." not in blk.inner_text():
-        continue
+    if selectParagraph is not None:
+        if f">§&nbsp;{selectParagraph}.<" not in blk.inner_html():
+            continue
+        blk.focus()
     outBuffer = list()
     if verboseMode:
         print("------")
@@ -159,6 +172,8 @@ for blk in blocks:
         if verboseMode:
             print()
     print("\n".join(outBuffer))
+    if selectParagraph is not None:
+        break
 
 
 #%% Shutdown Playwright
