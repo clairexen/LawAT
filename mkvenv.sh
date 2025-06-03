@@ -4,6 +4,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install playwright
 pip install requests
+# pip install spyder
 playwright install
 set +x
 echo
