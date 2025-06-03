@@ -103,29 +103,25 @@ if printHttpRequests:
 
 #%% Actual Playwright Script
 
-if normdata["type"] in ("BG", "BVG"):
-    # Fill out search form
-    page.goto("https://ris.bka.gv.at/Bundesrecht/")
-    page.locator("#MainContent_TitelField_Value").fill(normdata["title"])
-    page.locator("#MainContent_VonParagrafField_Value").fill("0")
-    page.locator("#MainContent_TypField_Value").fill(normdata["type"])
-    page.locator("#MainContent_SearchButton").click()
+# Load Document
+page.goto(normdata["docurl"])
 
-    # Click through to complete norm
-    with context.expect_page() as new_page_info:
-        page.locator("a").get_by_text("heute", exact=True).click()
-    page = new_page_info.value
-    page.wait_for_load_state()
+# Remove all "sr-only" elements from the DOM tree
+page.locator(".sr-only").evaluate_all("els => els.forEach(el => el.remove())")
 
-    print(f"Document URL for {normkey}:", page.url)
-    normdata["docurl"] = page.url
+# Process Content Blocks
+blocks = page.locator("div.contentBlock").all()
+for blk in blocks[10:20]:
+    print("------")
+    print(blk.evaluate("el => el.outerHTML"))
+    if True:
+        for el in blk.locator(":scope > *").all():
+            print(el.evaluate("el => el.tagName"))
+            print("   ", el.evaluate("el => el.outerHTML"))
+            print("   ", el.inner_text())
 
 
-#%% Save Index + Shutdown Playwright
-
-with open("norm_index.json", "w") as f:
-    json.dump(normindex, f, indent=4)
-    print(file=f)
+#%% Shutdown Playwright
 
 if launchInteractiveRepl:
     embed(globals(), locals())
