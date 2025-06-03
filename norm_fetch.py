@@ -137,114 +137,141 @@ page.locator(".documentContent").nth(0).evaluate("el => el.remove()")
 # Remove all "sr-only" elements from the DOM tree
 page.locator(".sr-only").evaluate_all("els => els.forEach(el => el.remove())")
 
-if selectParagraph is not None:
-    outFile = sys.stdout
-else:
-    outFile = open(f"files/{normkey}.md", "w")
-
-print(f"# {normdata['title']}", file=outFile)
-match normdata['type']:
-    case "BG":
-        print(f"**Typ:** Bundesgesetz  ", file=outFile)
-    case _:
-        assert False, "Unrecognized type"
-print(f"**Langtitel:** {langtitel}  ", file=outFile)
-print(f"**Quelle:** {normdata['docurl']}  ", file=outFile)
-print("*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. " +
-        "(Irrtümer und Fehler vorbehalten.)*", file=outFile)
-print("", file=outFile)
-
-# Process a single child node of the current div.contentBlock
-def processContentElement(el):
-    lines = list()
-    cls = set(el.get_attribute("class").split())
-    txt = el.inner_text().replace("\xa0", " ")
-
-    match el.tag_name():
-        case "H4" if "UeberschrG1" in cls or "UeberschrG1-AfterG2" in cls:
-            txt = txt.replace('\n\n', ' | ').replace('\n', ' | ')
-            if len(outBuffer) and outBuffer[-1].startswith("## "):
-                lines.append(f"## {outBuffer[-1][3:]} | {txt}")
-                del outBuffer[-1]
-            else:
-                lines.append(f"## {txt}")
-
-        case "H4" if "UeberschrPara" in cls:
-            lines.append(f"### {txt}")
-
-        case "DIV" if "ParagraphMitAbsatzzahl" in cls:
-            parBaseName = el.locator(":scope h5.GldSymbol").inner_text().replace("\xa0", " ")
-            parName = parBaseName.replace(".", f" {normdata['title']}.")
-            if len(outBuffer) and outBuffer[-1].startswith("### "):
-                lines.append(f"### {parName} {outBuffer[-1][4:]}")
-                del outBuffer[-1]
-            else:
-                lines.append(f"### {parName}")
-            enumCnt = 0
-            for item in el.locator(":scope div.content").all():
-                if item.locator(".Absatzzahl").count():
-                    enumCnt = 0
-                    nr = item.locator(".Absatzzahl").inner_text()
-                    nrName = parBaseName.replace(".", f" {nr} {normdata['title']}.")
-                    lines += ["", f"**{nrName}**  "] + item.locator(".Absatzzahl ~ *").inner_text().split("\n")
-                elif item.locator(":scope div.AufzaehlungE1").count():
-                    enumCnt += 1
-                    lines.append(f"{enumCnt}. {item.inner_text()}")
-                else:
-                    enumCnt = 0
-                    lines.append(f"{item.tag_name()}: {item.outer_html()}")
-
-        case "DIV" if el.locator(":scope h5.GldSymbol").count():
-            parName = el.locator(":scope h5.GldSymbol").inner_text()
-            parName = parName.replace("\xa0", " ").replace(".", f" {normdata['title']}.")
-            if len(outBuffer) and outBuffer[-1].startswith("### "):
-                lines.append(f"### {parName} {outBuffer[-1][4:]}")
-                del outBuffer[-1]
-            else:
-                lines.append(f"### {parName}")
-            lines += ["", f"**{parName}**  "] + el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
-
-        case _:
-            lines.append(f"**FIXME** {el.tag_name()}: {el.outer_html()}")
-
-    return lines
-
-# Process Content Blocks
 blocks = page.locator("div.contentBlock").all()
-for blk in blocks:
+
+fileIndex = 0
+blockIndex = 0
+while blockIndex is not None:
+    fileIndex += 1
+    print(f"-- {normkey}.{fileIndex}.md --")
     if selectParagraph is not None:
-        if f">§&nbsp;{selectParagraph}.<" not in blk.inner_html():
-            continue
-    if not useHeadlessMode:
-        blk.scroll_into_view_if_needed()
-        blk.evaluate("el => el.style.backgroundColor = 'lightblue'")
-    outBuffer = list()
-    if verboseMode:
-        print("------")
-    for el in blk.locator(":scope > *").all():
+        outFile = sys.stdout
+    else:
+        outFile = open(f"files/{normkey}.{fileIndex}.md", "w")
+
+    print(f"# {normkey}.{fileIndex}", file=outFile)
+    match normdata['type']:
+        case "BG":
+            print(f"**Typ:** Bundesgesetz  ", file=outFile)
+        case _:
+            assert False, "Unrecognized type"
+    print(f"**Langtitel:** {langtitel}  ", file=outFile)
+    print(f"**Quelle:** {normdata['docurl']}  ", file=outFile)
+    print("*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. " +
+            "(Irrtümer und Fehler vorbehalten.)*", file=outFile)
+    print("", file=outFile)
+
+    # Process a single child node of the current div.contentBlock
+    def processContentElement(el):
+        lines = list()
+        cls = set(el.get_attribute("class").split())
+        txt = el.inner_text().replace("\xa0", " ")
+
+        match el.tag_name():
+            case "H4" if "UeberschrG1" in cls or "UeberschrG1-AfterG2" in cls:
+                txt = txt.replace('\n\n', ' | ').replace('\n', ' | ')
+                if len(outBuffer) and outBuffer[-1].startswith("## "):
+                    lines.append(f"## {outBuffer[-1][3:]} | {txt}")
+                    del outBuffer[-1]
+                else:
+                    lines.append(f"## {txt}")
+
+            case "H4" if "UeberschrPara" in cls:
+                lines.append(f"### {txt}")
+
+            case "DIV" if "ParagraphMitAbsatzzahl" in cls:
+                parBaseName = el.locator(":scope h5.GldSymbol").inner_text().replace("\xa0", " ")
+                parName = parBaseName.replace(".", f" {normdata['title']}.")
+                if len(outBuffer) and outBuffer[-1].startswith("### "):
+                    lines.append(f"### {parName} {outBuffer[-1][4:]}")
+                    del outBuffer[-1]
+                else:
+                    lines.append(f"### {parName}")
+                enumCnt = 0
+                for item in el.locator(":scope div.content").all():
+                    if item.locator(".Absatzzahl").count():
+                        enumCnt = 0
+                        nr = item.locator(".Absatzzahl").inner_text()
+                        nrName = parBaseName.replace(".", f" {nr} {normdata['title']}.")
+                        lines += ["", f"**{nrName}**  "] + item.locator(".Absatzzahl ~ *").inner_text().split("\n")
+                    elif item.locator(":scope div.AufzaehlungE1").count():
+                        enumCnt += 1
+                        lines.append(f"{enumCnt}. {item.inner_text()}")
+                    else:
+                        enumCnt = 0
+                        lines.append(f"{item.tag_name()}: {item.outer_html()}")
+
+            case "DIV" if el.locator(":scope h5.GldSymbol").count():
+                parName = el.locator(":scope h5.GldSymbol").inner_text()
+                parName = parName.replace("\xa0", " ").replace(".", f" {normdata['title']}.")
+                if len(outBuffer) and outBuffer[-1].startswith("### "):
+                    lines.append(f"### {parName} {outBuffer[-1][4:]}")
+                    del outBuffer[-1]
+                else:
+                    lines.append(f"### {parName}")
+                lines += ["", f"**{parName}**  "] + el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
+
+            case _:
+                lines.append(f"**FIXME** {el.tag_name()}: {el.outer_html()}")
+
+        return lines
+
+    # Process Content Blocks
+    while blockIndex < len(blocks):
+        blk = blocks[blockIndex]
+        blockIndex += 1
+
+        if selectParagraph is not None:
+            if f">§&nbsp;{selectParagraph}.<" not in blk.inner_html():
+                continue
+
+        if not useHeadlessMode:
+            blk.scroll_into_view_if_needed()
+            blk.evaluate("el => el.style.backgroundColor = 'lightblue'")
+
+        outBuffer = list()
+
         if verboseMode:
-            print("<", f"{el.tag_name()}: {el.outer_html()}")
-        for line in processContentElement(el):
+            print("------")
+
+        for el in blk.locator(":scope > *").all():
             if verboseMode:
-                print(">", line)
-            outBuffer.append(line)
-        if verboseMode:
-            print()
-    if not verboseMode:
-        for line in outBuffer:
-            if line.startswith("#") or line.startswith("**FIXME** "):
-                print(line)
-    print("\n".join(outBuffer), file=outFile)
-    if not useHeadlessMode:
-        blk.evaluate("el => el.style.backgroundColor = ''")
-    if "lastpar" in normdata:
-        for line in outBuffer:
-            if line.startswith(f"### {normdata['lastpar']} {normdata['title']}."):
-                blk = None
-        if blk is None:
+                print("<", f"{el.tag_name()}: {el.outer_html()}")
+            for line in processContentElement(el):
+                if verboseMode:
+                    print(">", line)
+                outBuffer.append(line)
+            if verboseMode:
+                print()
+
+        if not verboseMode:
+            for line in outBuffer:
+                if line.startswith("#") or line.startswith("**FIXME** "):
+                    print(line)
+
+        print("\n".join(outBuffer), file=outFile)
+
+        if not useHeadlessMode:
+            blk.evaluate("el => el.style.backgroundColor = ''")
+
+        if "stop" in normdata:
+            for line in outBuffer:
+                for par in normdata['stop']:
+                    if line.startswith(f"### {par} {normdata['title']}."):
+                        if par == normdata['stop'][-1]:
+                            blockIndex = None
+                        blk = None
+            if blk is None:
+                break
+
+        if selectParagraph is not None:
+            blockIndex = None
             break
-    if selectParagraph is not None:
-        break
+
+    if blockIndex is None:
+        print("\n**END-OF-FILE-SET**", file=outFile)
+    else:
+        print("\n**END-OF-FILE**", file=outFile)
 
 
 #%% Shutdown Playwright
