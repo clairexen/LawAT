@@ -155,9 +155,20 @@ def processContentElement(el):
                 else:
                     enumCnt = 0
                     lines.append(f"{item.tag_name()}: {item.outer_html()}")
+        case "DIV":
+            parName = el.locator(":scope h5.GldSymbol").inner_text()
+            parName = parName.replace("\xa0", " ").replace(".", f" {normdata['title']}.")
+            if len(outBuffer) and outBuffer[-1].startswith("#### "):
+                lines.append(f"#### {parName} {outBuffer[-1][5:]}")
+                del outBuffer[-1]
+            else:
+                lines.append(f"#### {parName}")
+            lines += el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
         case _:
             lines.append(f"{el.tag_name()}: {el.outer_html()}")
     return lines
+
+outFile = open(f"files/{normkey}.md", "w")
 
 # Process Content Blocks
 blocks = page.locator("div.contentBlock").all()
@@ -165,6 +176,7 @@ for blk in blocks:
     if selectParagraph is not None:
         if f">§&nbsp;{selectParagraph}.<" not in blk.inner_html():
             continue
+    if not useHeadlessMode:
         blk.scroll_into_view_if_needed()
     outBuffer = list()
     if verboseMode:
@@ -178,7 +190,11 @@ for blk in blocks:
             outBuffer.append(line)
         if verboseMode:
             print()
-    print("\n".join(outBuffer))
+    if not verboseMode:
+        for line in outBuffer:
+            if line.startswith("#"):
+                print(line)
+    print("\n".join(outBuffer), file=outFile)
     if selectParagraph is not None:
         break
 
@@ -189,6 +205,6 @@ if launchInteractiveRepl:
     embed(globals(), locals())
 elif not useHeadlessMode:
     time.sleep(3)
+outFile.close()
 browser.close()
-
 playwright.stop()
