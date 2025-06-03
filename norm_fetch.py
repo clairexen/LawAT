@@ -129,14 +129,11 @@ def processContentElement(el):
     txt = el.inner_text().replace("\xa0", " ")
 
     match el.tag_name():
-        case "H4" if "UeberschrG1" in cls:
+        case "H4" if "UeberschrG1" in cls or "UeberschrG1-AfterG2" in cls:
             txt = txt.replace('\n\n', ' | ').replace('\n', ' | ')
-            lines.append(f"## {txt}")
-
-        case "H4" if "UeberschrG1-AfterG2" in cls:
-            txt = txt.replace('\n\n', ' | ').replace('\n', ' | ')
-            if len(lines) and lines[-1].startswith("## "):
-                lines[-1] += f" | {txt}"
+            if len(outBuffer) and outBuffer[-1].startswith("## "):
+                lines.append(f"## {outBuffer[-1][3:]} | {txt}")
+                del outBuffer[-1]
             else:
                 lines.append(f"## {txt}")
 
@@ -215,7 +212,7 @@ for blk in blocks:
         blk.evaluate("el => el.style.backgroundColor = ''")
     if "lastpar" in normdata:
         for line in outBuffer:
-            if line.startswith(f"### {normdata['lastpar']}."):
+            if line.startswith(f"### {normdata['lastpar']} {normdata['title']}."):
                 blk = None
         if blk is None:
             break
