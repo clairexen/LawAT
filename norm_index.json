@@ -3,5 +3,20 @@
         "type": "BG",
         "title": "StGB",
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296"
+    },
+    "BG.StPO": {
+        "type": "BG",
+        "title": "StPO",
+        "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326"
+    },
+    "BG.ABGB": {
+        "type": "BG",
+        "title": "ABGB",
+        "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622"
+    },
+    "BG.ZPO": {
+        "type": "BG",
+        "title": "ZPO",
+        "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699"
     }
 }
