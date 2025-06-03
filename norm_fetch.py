@@ -117,10 +117,42 @@ if printHttpRequests:
 #%% Actual Playwright Script
 
 # Load Document
+print(f"Loading {normkey} from {normdata['docurl']}")
 page.goto(normdata["docurl"])
+
+langtitel = page.locator("h3") \
+ .get_by_text("Langtitel", exact=True) \
+ .evaluate("""el => {
+  let node = el.nextSibling;
+  while (node && node.nodeType !== Node.TEXT_NODE) {
+    node = node.nextSibling;
+  }
+  return node ? node.textContent.trim() : null;
+}""")
+print(f"Langtitel: {langtitel}")
+
+# Remove changelog contentBlocks
+page.locator(".documentContent").nth(0).evaluate("el => el.remove()")
 
 # Remove all "sr-only" elements from the DOM tree
 page.locator(".sr-only").evaluate_all("els => els.forEach(el => el.remove())")
+
+if selectParagraph is not None:
+    outFile = sys.stdout
+else:
+    outFile = open(f"files/{normkey}.md", "w")
+
+print(f"# {normdata['title']}", file=outFile)
+match normdata['type']:
+    case "BG":
+        print(f"**Typ:** Bundesgesetz  ", file=outFile)
+    case _:
+        assert False, "Unrecognized type"
+print(f"**Langtitel:** {langtitel}  ", file=outFile)
+print(f"**Quelle:** {normdata['docurl']}  ", file=outFile)
+print("*Mit RisEx für RisEn-GPT zu MarkDown convertiert. " +
+        "(Irrtümer und Fehler vorbehalten.)*", file=outFile)
+print("", file=outFile)
 
 # Process a single child node of the current div.contentBlock
 def processContentElement(el):
@@ -154,7 +186,7 @@ def processContentElement(el):
                     enumCnt = 0
                     nr = item.locator(".Absatzzahl").inner_text()
                     nrName = parBaseName.replace(".", f" {nr} {normdata['title']}.")
-                    lines += ["", f"**{nrName}**"] + item.locator(".Absatzzahl ~ *").inner_text().split("\n")
+                    lines += ["", f"**{nrName}**  "] + item.locator(".Absatzzahl ~ *").inner_text().split("\n")
                 elif item.locator(":scope div.AufzaehlungE1").count():
                     enumCnt += 1
                     lines.append(f"{enumCnt}. {item.inner_text()}")
@@ -170,17 +202,12 @@ def processContentElement(el):
                 del outBuffer[-1]
             else:
                 lines.append(f"### {parName}")
-            lines += ["", f"**{parName}**"] + el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
+            lines += ["", f"**{parName}**  "] + el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
 
         case _:
             lines.append(f"**FIXME** {el.tag_name()}: {el.outer_html()}")
 
     return lines
-
-if selectParagraph is not None:
-    outFile = sys.stdout
-else:
-    outFile = open(f"files/{normkey}.md", "w")
 
 # Process Content Blocks
 blocks = page.locator("div.contentBlock").all()
