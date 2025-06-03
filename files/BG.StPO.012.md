@@ -6,11 +6,13 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 9. Hauptstück | Fahndung, Festnahme und Untersuchungshaft | 1. Abschnitt | Fahndung
+
 ### § 167 StPO. Definitionen
 
 **§ 167 StPO.**  
  Im Sinne dieses Gesetzes ist
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Personenfahndung“ jede Maßnahme zur Ermittlung des Aufenthaltes einer Person und zur Festnahme des Beschuldigten auf Grund einer Anordnung der Staatsanwaltschaft,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Sachenfahndung“ jede Maßnahme zur Feststellung des Verbleibes einer Sache und zu ihrer Sicherstellung.</div></div></li></ol>
+
 ### § 168 StPO. Fahndung
 
 **§ 168 (1) StPO.**  
@@ -21,6 +23,7 @@ Personenfahndung zur Festnahme ist zulässig, wenn eine solche nicht vollzogen w
 
 **§ 168 (3) StPO.**  
 Sachenfahndung ist zulässig, wenn ein Gegenstand, der sichergestellt werden soll, nicht aufgefunden werden kann.
+
 ### § 169 StPO.
 
 **§ 169 (1) StPO.**  
@@ -32,6 +35,7 @@ Eine Veröffentlichung von Abbildungen eines in Untersuchungshaft angehaltenen B
 **§ 169 (2) StPO.**  
 Sachenfahndung kann die Kriminalpolizei von sich aus anordnen und durchführen; sie hat die erforderlichen Veröffentlichungen und anderen notwendigen Maßnahmen zu veranlassen.
 ## 2. Abschnitt | Festnahme
+
 ### § 170 StPO. Zulässigkeit
 
 **§ 170 (1) StPO.**  
@@ -46,6 +50,7 @@ Wenn es sich um ein Verbrechen handelt, bei dem nach dem Gesetz auf mindestens z
 
 **§ 170 (3) StPO.**  
 Festnahme und Anhaltung sind nicht zulässig, soweit sie zur Bedeutung der Sache außer Verhältnis stehen (§ 5).
+
 ### § 171 StPO. Anordnung
 
 **§ 171 (1) StPO.**  
@@ -73,8 +78,9 @@ d.
 Zugang zu ärztlicher Betreuung zu erhalten (§§ 66 bis 74 StVG).
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">einen Angehörigen oder eine andere Vertrauensperson und einen Verteidiger unverzüglich von seiner Festnahme zu verständigen oder verständigen zu lassen (Art.&nbsp;4 Abs.&nbsp;7 BVG über den Schutz der persönlichen Freiheit),wobei ihm auf Verlangen die Kontaktaufnahme mit einem „Verteidiger in Bereitschaft“ (§&nbsp;59 Abs.&nbsp;4) zu ermöglichen ist, dessen Kosten er unter den Voraussetzungen des §&nbsp;59 Abs.&nbsp;5 nicht zu tragen hat,</span></div></div>
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">Beschwerde gegen die gerichtliche Bewilligung der Festnahme zu erheben und im Übrigen jederzeit seine Freilassung zu beantragen,</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">seine konsularische Vertretung unverzüglich verständigen zu lassen (Art.&nbsp;36 des Wiener Übereinkommens über konsularische Beziehungen, <a href="/Dokumente/BgblPdf/1969_318_0/1969_318_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_318_0', 'BGBl. Nr. 318/1969', '2025-06-03')">BGBl. Nr.&nbsp;318/1969</a>),</span></div></div>
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">seine konsularische Vertretung unverzüglich verständigen zu lassen (Art.&nbsp;36 des Wiener Übereinkommens über konsularische Beziehungen, <a href="/Dokumente/BgblPdf/1969_318_0/1969_318_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_318_0', 'BGBl. Nr. 318/1969', '2025-06-04')">BGBl. Nr.&nbsp;318/1969</a>),</span></div></div>
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">Zugang zu ärztlicher Betreuung zu erhalten (§§&nbsp;66 bis 74 StVG).</span></div></div>
+
 ### § 172 StPO. Durchführung
 
 **§ 172 (1) StPO.**  
@@ -88,6 +94,7 @@ Ist der Beschuldigte nicht nach Abs. 2 freizulassen, so hat ihn die Kriminalpol
 
 **§ 172 (4) StPO.**  
 Soweit das Opfer dies beantragt hat, ist es von einer Freilassung des Beschuldigten nach dieser Bestimmung unter Angabe der hiefür maßgeblichen Gründe und der dem Beschuldigten auferlegten gelinderen Mittel sogleich zu verständigen. Opfer nach § 65 Abs. 1 Z 1 lit. a und besonders schutzbedürftige Opfer (§ 66a) sind jedoch unverzüglich von Amts wegen zu verständigen. Diese Verständigung obliegt der Staatsanwaltschaft, wenn sie nach Einlieferung in die Justizanstalt erklärt, keinen Antrag auf Verhängung der Untersuchungshaft zu stellen, im Übrigen jedoch der Kriminalpolizei.
+
 ### § 172a StPO. Sicherheitsleistung
 
 **§ 172a (1) StPO.**  

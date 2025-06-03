@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Neunzehnter Abschnitt | Strafbare Handlungen gegen die Staatsgewalt
+
 ### § 269 StGB. Widerstand gegen die Staatsgewalt
 
 **§ 269 (1) StGB.**  
@@ -19,6 +20,7 @@ Als Amtshandlung im Sinn der Abs. 1 und 2 gilt nur eine Handlung, durch die der
 
 **§ 269 (4) StGB.**  
 Der Täter ist nach Abs. 1 nicht zu bestrafen, wenn die Behörde oder der Beamte zu der Amtshandlung ihrer Art nach nicht berechtigt ist oder die Amtshandlung gegen strafgesetzliche Vorschriften verstößt.
+
 ### § 270 StGB. Tätlicher Angriff auf einen Beamten
 
 **§ 270 (1) StGB.**  
@@ -26,6 +28,7 @@ Wer einen Beamten während einer Amtshandlung (§ 269 Abs. 3) tätlich angreif
 
 **§ 270 (2) StGB.**  
 § 269 Abs. 4 gilt entsprechend.
+
 ### § 271 StGB. Verstrickungsbruch
 
 **§ 271 (1) StGB.**  
@@ -36,6 +39,7 @@ Wer eine Sache, die behördlich gepfändet oder in Beschlag genommen worden ist,
 
 **§ 271 (3) StGB.**  
 Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, die der Verstrickung entzogene Sache zurückstellt.
+
 ### § 272 StGB. Siegelbruch
 
 **§ 272 (1) StGB.**  
@@ -46,6 +50,7 @@ Wer ein Siegel beschädigt oder ablöst, das ein Beamter in Ausübung seines Amt
 
 **§ 272 (3) StGB.**  
 Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, bewirkt, daß die Sache ohne wesentliche Beeinträchtigung des Zweckes wieder unter Verschluß oder in Beschlag genommen wird.
+
 ### § 273 StGB. Verletzung behördlicher Bekanntmachungen
 
 **§ 273 (1) StGB.**  
@@ -57,6 +62,7 @@ Wer ein Schriftstück, von dem er weiß (§ 5 Abs. 3), daß es von einer Behö
 **§ 273 (3) StGB.**  
 Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, bewirkt, daß der Zweck der Bekanntmachung ohne wesentliche Beeinträchtigung erreicht wird.
 ## Zwanzigster Abschnitt | Strafbare Handlungen gegen den öffentlichen Frieden
+
 ### § 274 StGB. Schwere gemeinschaftliche Gewalt
 
 **§ 274 (1) StGB.**  
@@ -67,6 +73,7 @@ Wer an einer solchen Zusammenkunft führend oder dadurch teilnimmt, dass er zur 
 
 **§ 274 (3) StGB.**  
 Nach Abs. 1 ist nicht zu bestrafen, wer sich freiwillig aus der Zusammenkunft zurückzieht oder ernstlich zurückzuziehen sucht, bevor sie zu einer Gewaltanwendung geführt hat, es sei denn, dass er an der Zusammenkunft in der in Abs. 2 umschriebenen Weise teilgenommen hat.
+
 ### § 275 StGB. Landzwang
 
 **§ 275 (1) StGB.**  
@@ -80,6 +87,7 @@ Hat die Tat
 
 **§ 275 (3) StGB.**  
 Hat die Tat aber den Tod einer größeren Zahl von Menschen nach sich gezogen, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+
 ### § 277 StGB. Verbrecherisches Komplott
 
 **§ 277 (1) StGB.**  
@@ -87,6 +95,7 @@ Wer mit einem anderen die gemeinsame Ausführung eines Mordes (§ 75), einer er
 
 **§ 277 (2) StGB.**  
 Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig durch eine Mitteilung an die Behörde (§ 151 Abs. 3) oder an den Bedrohten oder auf andere Art die beabsichtigte strafbare Handlung verhindert. Unterbleibt die strafbare Handlung ohne Zutun des Täters, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, die strafbare Handlung zu verhindern.
+
 ### § 278 StGB. Kriminelle Vereinigung
 
 **§ 278 (1) StGB.**  
@@ -100,12 +109,14 @@ Als Mitglied beteiligt sich an einer kriminellen Vereinigung, wer im Rahmen ihre
 
 **§ 278 (4) StGB.**  
 Hat die Vereinigung zu keiner strafbaren Handlung der geplanten Art geführt, so ist kein Mitglied zu bestrafen, wenn sich die Vereinigung freiwillig auflöst oder sich sonst aus ihrem Verhalten ergibt, dass sie ihr Vorhaben freiwillig aufgegeben hat. Ferner ist wegen krimineller Vereinigung nicht zu bestrafen, wer freiwillig von der Vereinigung zurücktritt, bevor eine Tat der geplanten Art ausgeführt oder versucht worden ist; wer an der Vereinigung führend teilgenommen hat, jedoch nur dann, wenn er freiwillig durch Mitteilung an die Behörde (§ 151 Abs. 3) oder auf andere Art bewirkt, dass die aus der Vereinigung entstandene Gefahr beseitigt wird.
+
 ### § 278a StGB. Kriminelle Organisation
 
 **§ 278a StGB.**  
  Wer eine auf längere Zeit angelegte unternehmensähnliche Verbindung einer größeren Zahl von Personen gründet oder sich an einer solchen Verbindung als Mitglied beteiligt (§ 278 Abs. 3),
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die, wenn auch nicht ausschließlich, auf die wiederkehrende und geplante Begehung schwerwiegender strafbarer Handlungen, die das Leben, die körperliche Unversehrtheit, die Freiheit oder das Vermögen bedrohen, oder schwerwiegender strafbarer Handlungen im Bereich der sexuellen Ausbeutung von Menschen, der Schlepperei oder des unerlaubten Verkehrs mit Kampfmitteln, Kernmaterial und radioaktiven Stoffen, gefährlichen Abfällen, Falschgeld oder Suchtmitteln ausgerichtet ist,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die dadurch eine Bereicherung in großem Umfang anstrebt und</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die andere zu korrumpieren oder einzuschüchtern oder sich auf besondere Weise gegen Strafverfolgungsmaßnahmen abzuschirmen sucht,</div></div></li></ol>
 **FIXME** DIV: <div class="SchlussteilE0"><span aria-hidden="true">ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. §&nbsp;278 Abs.&nbsp;4 gilt entsprechend.</span></div>
+
 ### § 278b StGB. Terroristische Vereinigung
 
 **§ 278b (1) StGB.**  
@@ -116,6 +127,7 @@ Wer sich als Mitglied (§ 278 Abs. 3) an einer terroristischen Vereinigung bet
 
 **§ 278b (3) StGB.**  
 Eine terroristische Vereinigung ist ein auf längere Zeit angelegter Zusammenschluss von mehr als zwei Personen, der darauf ausgerichtet ist, dass von einem oder mehreren Mitgliedern dieser Vereinigung eine oder mehrere terroristische Straftaten (§ 278c) ausgeführt werden oder Terrorismusfinanzierung (§ 278d) betrieben wird.
+
 ### § 278c StGB. Terroristische Straftaten
 
 **§ 278c (1) StGB.**  
@@ -139,6 +151,7 @@ Wer mit einer der in Abs. 1 Z 1 bis 10 bezeichneten Straftaten droht, ist, wen
 
 **§ 278c (3) StGB.**  
 Eine Tat nach Abs. 1 oder Abs. 2a gilt nicht als terroristische Straftat, wenn sie auf die Herstellung oder Wiederherstellung demokratischer und rechtsstaatlicher Verhältnisse oder die Ausübung oder Wahrung von Menschenrechten ausgerichtet ist.
+
 ### § 278d StGB. Terrorismusfinanzierung
 
 **§ 278d (1) StGB.**  
@@ -160,6 +173,7 @@ Ebenso ist zu bestrafen, wer Vermögenswerte für
 
 **§ 278d (2) StGB.**  
 Der Täter ist nach Abs. 1 oder Abs. 1a nicht zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist.
+
 ### § 278e StGB. Ausbildung für terroristische Zwecke
 
 **§ 278e (1) StGB.**  
@@ -167,6 +181,7 @@ Wer eine andere Person in der Herstellung oder im Gebrauch von Sprengstoff, Schu
 
 **§ 278e (2) StGB.**  
 Wer sich in der Herstellung oder im Gebrauch von Sprengstoff, Schuss- oder sonstigen Waffen oder schädlichen oder gefährlichen Stoffen oder in einer anderen ebenso schädlichen oder gefährlichen spezifisch zur Begehung einer terroristischen Straftat nach § 278c Abs. 1 Z 1 bis 9 oder 10 geeigneten Methode oder einem solchen Verfahren unterweisen lässt, um eine solche terroristische Straftat unter Einsatz der erworbenen Fähigkeiten zu begehen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. Die Strafe darf jedoch nach Art und Maß nicht strenger sein, als sie das Gesetz für die beabsichtigte Tat androht.
+
 ### § 278f StGB. Anleitung zur Begehung einer terroristischen Straftat
 
 **§ 278f (1) StGB.**  
@@ -174,10 +189,12 @@ Wer ein Medienwerk, das nach seinem Inhalt dazu bestimmt ist, zur Begehung einer
 
 **§ 278f (2) StGB.**  
 Ebenso ist zu bestrafen, wer sich ein Medienwerk im Sinne des Abs. 1 oder solche Informationen aus dem Internet verschafft, um eine terroristische Straftat (§ 278c Abs. 1 Z 1 bis 9 oder 10) zu begehen.
+
 ### § 278g StGB. Reisen für terroristische Zwecke
 
 **§ 278g StGB.**  
  Wer in einen anderen Staat reist, um eine strafbare Handlung nach den §§ 278b, 278c, 278e oder 278f zu begehen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. Die Strafe darf jedoch nach Art und Maß nicht strenger sein, als sie das Gesetz für die beabsichtigte Tat androht.
+
 ### § 279 StGB. Bewaffnete Verbindungen
 
 **§ 279 (1) StGB.**  
@@ -185,6 +202,7 @@ Wer unbefugt eine bewaffnete oder zur Bewaffnung bestimmte Verbindung aufstellt 
 
 **§ 279 (2) StGB.**  
 Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, alles, was ihm von der Verbindung und ihren Plänen bekannt ist, zu einer Zeit, da es noch geheim ist, einer solchen Behörde aufdeckt.
+
 ### § 280 StGB. Ansammeln von Kampfmitteln
 
 **§ 280 (1) StGB.**  
@@ -192,6 +210,7 @@ Wer Waffen, Munition oder andere Kampfmittel an sich bringt, besitzt oder einem 
 
 **§ 280 (2) StGB.**  
 Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, die Kampfmittel auf Dauer unbrauchbar macht, einer solchen Behörde übergibt oder es ihr ermöglicht, der Kampfmittel habhaft zu werden.
+
 ### § 282 StGB. Aufforderung zu mit Strafe bedrohten Handlungen und Gutheißung mit Strafe bedrohter Handlungen
 
 **§ 282 (1) StGB.**  
@@ -199,6 +218,7 @@ Wer in einem Druckwerk, im Rundfunk oder sonst auf eine Weise, daß es einer bre
 
 **§ 282 (2) StGB.**  
 Ebenso ist zu bestrafen, wer auf die im Abs. 1 bezeichnete Weise eine vorsätzlich begangene, mit einer ein Jahr übersteigenden Freiheitsstrafe bedrohte Handlung in einer Art gutheißt, die geeignet ist, das allgemeine Rechtsempfinden zu empören oder zur Begehung einer solchen Handlung aufzureizen.
+
 ### § 282a StGB. Aufforderung zu terroristischen Straftaten und Gutheißung terroristischer Straftaten
 
 **§ 282a (1) StGB.**  
@@ -206,6 +226,7 @@ Wer in einem Druckwerk, im Rundfunk oder in einem anderen Medium oder sonst öff
 
 **§ 282a (2) StGB.**  
 Ebenso ist zu bestrafen, wer auf die im Abs. 1 bezeichnete Weise eine terroristische Straftat (§ 278c Abs. 1 Z 1 bis 9 oder 10) in einer Art gutheißt, die geeignet ist, die Gefahr der Begehung einer oder mehrerer solcher Straftaten herbeizuführen.
+
 ### § 283 StGB. Verhetzung
 
 **§ 283 (1) StGB.**  
@@ -223,15 +244,18 @@ Wer durch eine Tat nach Abs. 1 oder 2 bewirkt, dass andere Personen gegen eine 
 
 **§ 283 (4) StGB.**  
 Wer, wenn er nicht als an einer Handlung nach den Abs. 1 bis 3 Beteiligter (§ 12) mit strengerer Strafe bedroht ist, schriftliches Material, Bilder oder andere Darstellungen von Ideen oder Theorien, die Hass oder Gewalt gegen eine in Abs. 1 Z 1 bezeichnete Gruppe oder gegen ein Mitglied einer solchen Gruppe wegen dessen Zugehörigkeit zu dieser Gruppe befürworten, fördern oder dazu aufstacheln, in einem Druckwerk, im Rundfunk oder sonst auf eine Weise, wodurch diese einer breiten Öffentlichkeit zugänglich werden, in gutheißender oder rechtfertigender Weise verbreitet oder anderweitig öffentlich verfügbar macht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
 ### § 284 StGB. Sprengung einer Versammlung
 
 **§ 284 StGB.**  
  Wer eine Versammlung, einen Aufmarsch oder eine ähnliche Kundgebung, die nicht verboten sind, mit Gewalt oder durch Drohung mit Gewalt verhindert oder sprengt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
 ### § 285 StGB. Verhinderung oder Störung einer Versammlung
 
 **§ 285 StGB.**  
  Wer eine nicht verbotene Versammlung dadurch verhindert oder erheblich stört, daß er
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">den Versammlungsraum unzugänglich macht,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">eine zur Teilnahme berechtigte Person am Zutritt hindert oder ihr den Zutritt erschwert oder ihr die Teilnahme an der Versammlung durch schwere Belästigungen unmöglich macht oder erschwert,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">in die Versammlung unbefugt eindringt oder</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">eine zur Leitung oder Aufrechterhaltung der Ordnung berufene Person verdrängt oder sich einer ihrer auf den Verlauf der Versammlung bezüglichen Anordnungen tätlich widersetzt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.</div></div></li></ol>
+
 ### § 286 StGB. Unterlassung der Verhinderung einer mit Strafe bedrohten Handlung
 
 **§ 286 (1) StGB.**  
@@ -242,6 +266,7 @@ Der Täter ist nach Abs. 1 nicht zu bestrafen, wenn er
 1. die Verhinderung oder Benachrichtigung nicht leicht und ohne sich oder einen Angehörigen der Gefahr eines beträchtlichen Nachteils auszusetzen, bewirken konnte,
 2. von der mit Strafe bedrohten Handlung ausschließlich durch eine Mitteilung Kenntnis erhalten hat, die ihm in seiner Eigenschaft als Seelsorger anvertraut worden ist oder
 3. durch die Verhinderung oder Benachrichtigung eine andere rechtlich anerkannte Verschwiegenheitspflicht verletzen würde und die aus der Verletzung dieser Pflicht drohenden Folgen schwerer gewogen hätten als die nachteiligen Folgen aus der Unterlassung der Verhinderung oder Bekanntmachung.
+
 ### § 287 StGB. Begehung einer mit Strafe bedrohten Handlung im Zustand voller Berauschung
 
 **§ 287 (1) StGB.**  

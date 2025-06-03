@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 6. Vorträge der Parteien
+
 ### § 255 StPO.
 
 **§ 255 (1) StPO.**  
@@ -16,6 +17,7 @@ Der Privatbeteiligte erhält zunächst nach dem Staatsanwalte das Wort.
 
 **§ 255 (3) StPO.**  
 Dem Angeklagten und seinem Verteidiger steht das Recht zu, darauf zu antworten. Findet der Staatsanwalt, der Privatankläger oder der Privatbeteiligte hierauf etwas zu erwidern, so gebührt dem Angeklagten und seinem Verteidiger jedenfalls die Schlußrede.
+
 ### § 256 StPO.
 
 **§ 256 (1) StPO.**  
@@ -24,10 +26,12 @@ In der Regel ist in den Schlußvorträgen über alle im Urteile zu entscheidende
 **§ 256 (2) StPO.**  
 Doch steht es dem Vorsitzenden oder dem Schöffengericht (§ 238) frei, zu verfügen, daß die Schlußvorträge über die Schuldfrage von denen über die Strafbestimmungen, über die privatrechtlichen Ansprüche und über die Prozeßkosten zu trennen seien. In diesen Fällen werden, nachdem das Schöffengericht über die Schuld des Angeklagten entschieden und seinen Ausspruch verkündet hat, neuerlich Schlußvorträge gehalten, die jedoch auf die noch zu entscheidenden Fragen einzuschränken sind.
 ## 7. Urteil des Gerichtshofes
+
 ### § 257 StPO.
 
 **§ 257 StPO.**  
  Nachdem der Vorsitzende die Verhandlung für geschlossen erklärt hat, zieht sich das Schöffengericht zur Urteilsfällung in das Beratungszimmer zurück. Der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt.
+
 ### § 258 StPO.
 
 **§ 258 (1) StPO.**  
@@ -38,11 +42,13 @@ Das Gericht hat die Beweismittel auf ihre Glaubwürdigkeit und Beweiskraft sowoh
 
 **§ 258 (3) StPO.**  
 Bei der Beurteilung der Aussage eines Zeugen, dem nach § 162 gestattet worden ist, bestimmte Fragen nicht zu beantworten, ist insbesondere zu prüfen, ob dem Gericht und den Beteiligten ausreichend Gelegenheit geboten war, sich mit der Glaubwürdigkeit des Zeugen und der Beweiskraft seiner Aussage auseinanderzusetzen.
+
 ### § 259 StPO.
 
 **§ 259 StPO.**  
  Der Angeklagte wird durch Urteil des Schöffengerichts von der Anklage freigesprochen:
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">wenn sich zeigt, daß das Strafverfahren ohne den Antrag eines gesetzlich berechtigten Anklägers eingeleitet oder gegen dessen Willen fortgesetzt worden sei;</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">wenn der Ankläger nach Eröffnung der Hauptverhandlung und ehe das Schöffengericht sich zur Schöpfung des Urteiles zurückzieht, von der Anklage zurücktritt;</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">wenn das Schöffengericht erkennt, daß die der Anklage zugrunde liegende Tat vom Gesetze nicht mit Strafe bedroht oder der Tatbestand nicht hergestellt oder nicht erwiesen sei, daß der Angeklagte die ihm zur Last gelegte Tat begangen habe, oder daß Umstände vorliegen, durch die die Strafbarkeit aufgehoben oder die Verfolgung aus anderen als den unter Z.&nbsp;1 und 2 angegebenen Gründen ausgeschlossen ist.</span></div></div></li></ol>
+
 ### § 260 StPO.
 
 **§ 260 (1) StPO.**  
@@ -61,6 +67,7 @@ Wird der Angeklagte wegen vorsätzlicher und fahrlässiger Taten
 
 **§ 260 (3) StPO.**  
 Ist die im Abs. 2 genannte Feststellung im Strafurteil unterblieben, so ist sie von Amts wegen oder auf Antrag eines zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten mit Beschluß nachzuholen. Gegen diesen Beschluß, der dem Ankläger und dem Angeklagten zuzustellen ist, steht jedem zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten die binnen vierzehn Tagen einzubringende Beschwerde an das Oberlandesgericht zu. Ist außer über die Beschwerde noch über eine von wem immer ergriffene Nichtigkeitsbeschwerde zu entscheiden, so entscheidet der Oberste Gerichtshof auch über die Beschwerde.
+
 ### § 261 StPO.
 
 **§ 261 (1) StPO.**  
@@ -68,10 +75,12 @@ Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen
 
 **§ 261 (2) StPO.**  
 Sobald dieses Urteil rechtskräftig ist, hat die Staatsanwaltschaft binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts das Ermittlungsverfahren fortzuführen oder die Anordnung der Hauptverhandlung vor dem Geschworenengericht zu beantragen, wenn weitere Ermittlungen nicht erforderlich sind. Im ersten Falle muß eine neue Anklageschrift eingebracht werden; außer diesem Fall aber ist bei der neuen Hauptverhandlung die ursprüngliche Anklageschrift und der nach diesem Paragraphen gefällte Ausspruch des Schöffengerichtes zu verlesen.
+
 ### § 262 StPO.
 
 **§ 262 StPO.**  
  Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen an sich oder in Verbindung mit den erst in der Hauptverhandlung hervorgetretenen Umständen eine andere als die in der Anklage bezeichnete, nicht einem Gerichte höherer Ordnung vorbehaltene strafbare Handlung begründen, so hat es die Beteiligten des Verfahrens über den geänderten rechtlichen Gesichtspunkt zu hören und über einen allfälligen Vertagungsantrag zu entscheiden. Das Urteil schöpft es nach seiner rechtlichen Überzeugung, ohne an die in der Anklageschrift enthaltene Bezeichnung der Tat gebunden zu sein.
+
 ### § 263 StPO.
 
 **§ 263 (1) StPO.**  
@@ -85,6 +94,7 @@ Nach Umständen kann das Schöffengericht auch, wenn es über die hinzugekommene
 
 **§ 263 (4) StPO.**  
 In beiden Fällen muss der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts von der Verfolgung zurücktreten (§ 209 Abs. 1), die Anklage einbringen oder das Ermittlungsverfahren fortführen.
+
 ### § 264 StPO.
 
 **§ 264 (1) StPO.**  
@@ -92,6 +102,7 @@ Wird gegen den Angeklagten ein Strafurteil gefällt, so steht dessen Vollstrecku
 
 **§ 264 (2) StPO.**  
 Macht der Ankläger von dem im § 263 erwähnten Vorbehalte Gebrauch, so kann das Schöffengericht anordnen, daß die Vollstreckung des unter diesem Vorbehalt erlassenen Urteiles bis zur Entscheidung über die neue Anklage auf sich zu beruhen habe. In diesem Falle sind beide Urteile hinsichtlich der Rechtsmittel so zu behandeln, als wären sie gleichzeitig gefällt worden.
+
 ### § 265 StPO.
 
 **§ 265 (1) StPO.**  
@@ -99,18 +110,22 @@ Liegen die zeitlichen Voraussetzungen für die bedingte Entlassung aus einer Fre
 
 **§ 265 (2) StPO.**  
 Für den Beschluß nach Abs. 1 und für das Verfahren nach einer solchen bedingten Entlassung gelten die Bestimmungen des 24. Hauptstückes dem Sinne nach.
+
 ### § 265a StPO.
 
 **§ 265a StPO.**  
  (Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 82)
+
 ### § 265b StPO.
 
 **§ 265b StPO.**  
  (Aufgehoben)
+
 ### § 265c StPO.
 
 **§ 265c StPO.**  
  (Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 82)
+
 ### § 266 StPO.
 
 **§ 266 (1) StPO.**  
@@ -118,19 +133,23 @@ Das Gericht kann im Strafurteil aussprechen, dass eine Anhaltung im elektronisch
 
 **§ 266 (2) StPO.**  
 Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs. 1 gefällt worden wäre, so hat das Gericht diesen aufzuheben.
+
 ### § 267 StPO.
 
 **§ 267 StPO.**  
  An die Anträge des Anklägers ist das Schöffengericht nur insoweit gebunden, daß es den Angeklagten nicht einer Tat schuldig erklären kann, auf die die Anklage weder ursprünglich gerichtet noch während der Hauptverhandlung ausgedehnt wurde (§ 4 Abs. 3).
 ## 8. Verkündung und Ausfertigung des Urteiles
+
 ### § 268 StPO.
 
 **§ 268 StPO.**  
  Unmittelbar nach dem Beschlusse des Schöffengerichts ist der Angeklagte wieder vorzuführen oder vorzurufen und ist in öffentlicher Sitzung vom Vorsitzenden das Urteil samt dessen wesentlichen Gründen unter Verlesung der angewendeten Gesetzesbestimmungen zu verkünden. Zugleich belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel.
+
 ### § 269 StPO.
 
 **§ 269 StPO.**  
  Hat sich der Angeklagte zur Urteilsverkündung nicht eingefunden, so kann der Vorsitzende ihn zu diesem Zwecke vorführen lassen oder anordnen, daß ihm das Urteil entweder durch einen hiezu abgeordneten Richter mündlich eröffnet oder in Abschrift zugestellt werde.
+
 ### § 270 StPO.
 
 **§ 270 (1) StPO.**  

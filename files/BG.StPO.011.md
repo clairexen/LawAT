@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 6. Abschnitt | Automationsunterstützter Datenabgleich
+
 ### § 141 StPO. Datenabgleich
 
 **§ 141 (1) StPO.**  
@@ -19,6 +20,7 @@ Sofern die Aufklärung eines mit mehr als zehn Jahren Freiheitsstrafe bedrohten 
 
 **§ 141 (4) StPO.**  
 Besondere Kategorien personenbezogener Daten (§ 39 DSG) dürfen in einen Datenabgleich nicht einbezogen werden. Dies gilt nicht für Daten über die Staatsangehörigkeit, Daten zur tatbildmäßigen Bezeichnung einer Tätergruppe sowie für Daten, die Staatsanwaltschaften oder Sicherheitsbehörden durch erkennungsdienstliche Maßnahmen, durch Durchsuchung einer Person, durch körperliche Untersuchung oder durch molekulargenetische Analyse rechtmäßig ermittelt haben, sofern diese Daten ausschließlich für einen Datenabgleich nach Abs. 2 verwendet werden. Daten von Personenvereinigungen, deren Zweck in unmittelbarem Zusammenhang mit einem der besonders geschützten Merkmale steht, dürfen in einen Datenabgleich in keinem Fall einbezogen werden.
+
 ### § 142 StPO. Durchführung
 
 **§ 142 (1) StPO.**  
@@ -38,6 +40,7 @@ Der Datenschutzbehörde steht gegen die gerichtliche Bewilligung einer Anordnung
 
 **§ 142 (5) StPO.**  
 Wird einer Beschwerde gegen die Bewilligung einer Anordnung Folge gegeben oder die Anordnung des automationsunterstützten Datenabgleichs aus anderen Gründen widerrufen, so ist zugleich anzuordnen, dass alle in den Datenabgleich einbezogenen und alle durch ihn gewonnenen Daten zu vernichten und personenbezogene Daten, die auf andere Datenträger übertragen wurden, unverzüglich zu löschen sind. Gleiches gilt, wenn der automationsunterstützte Datenabgleich ergibt, dass die Merkmale auf keine Person zutreffen.
+
 ### § 143 StPO. Mitwirkungspflicht
 
 **§ 143 (1) StPO.**  
@@ -46,6 +49,7 @@ Jeder Verantwortliche einer Datenverarbeitung, deren Daten in einen Abgleich nac
 **§ 143 (2) StPO.**  
 Die Verpflichtung nach Abs. 1 hat die Staatsanwaltschaft dem Verantwortlichen mit gesonderter Anordnung aufzutragen; diese Anordnung hat die entsprechende gerichtliche Bewilligung anzuführen. Die §§ 93 Abs. 2 und 112 sowie die Bestimmungen über die Durchsuchung gelten sinngemäß.
 ## 7. Abschnitt | Geistliche Amtsverschwiegenheit und Berufsgeheimnisse
+
 ### § 144 StPO. Schutz der geistlichen Amtsverschwiegenheit und von Berufsgeheimnissen
 
 **§ 144 (1) StPO.**  
@@ -57,6 +61,7 @@ Die Anordnung oder Durchführung der in diesem Hauptstück enthaltenen Ermittlun
 **§ 144 (3) StPO.**  
 Ein Umgehungsverbot nach Abs. 1 erster Satz oder Abs. 2 besteht insoweit nicht, als die betreffende Person selbst der Tat dringend verdächtig ist. In einem solchen Fall ist für die Anordnung und Durchführung einer Ermittlungsmaßnahme in den Fällen der § 135 Abs. 1, 2, 2a und 3 sowie § 136 Abs. 1 Z 2 und 3 eine Ermächtigung des Rechtsschutzbeauftragten (§ 147 Abs. 2) Voraussetzung.
 ## 8. Abschnitt | Besondere Durchführungsbestimmungen, Rechtsschutz und Schadenersatz
+
 ### § 145 StPO. Besondere Durchführungsbestimmungen
 
 **§ 145 (1) StPO.**  
@@ -67,6 +72,7 @@ Anordnungen und Genehmigungen dieser Ermittlungsmaßnahmen (Abs. 1), ihre geric
 
 **§ 145 (3) StPO.**  
 Solange in Bild- oder Schriftform übertragene Ergebnisse einer Ermittlungsmaßnahme in den Fällen der § 135 Abs. 2, 2a und 3 sowie § 136 Abs. 1 Z 2 und 3 nicht zum Akt genommen werden, sind sie samt den zugehörigen Anordnungen, gerichtlichen Bewilligungen und sonstigen Aktenstücken unter Verschluss aufzubewahren. Näheres hat der Bundesminister für Justiz durch Verordnung zu bestimmen.
+
 ### § 147 StPO.
 
 **§ 147 (1) StPO.**  
@@ -87,11 +93,13 @@ Die Anordnung und die Bewilligung der im Abs. 1 angeführten Ermittlungsmaßnah
 Nach Beendigung der Ermittlungsmaßnahme ist dem Rechtsschutzbeauftragten Gelegenheit zu geben, die gesamten Ergebnisse einzusehen und anzuhören, bevor diese zum Akt genommen werden (§ 145 Abs. 2). Er ist ferner berechtigt, die Vernichtung von Ergebnissen oder Teilen von ihnen (§ 139 Abs. 4) zu beantragen und sich von der ordnungsgemäßen Vernichtung dieser Ergebnisse zu überzeugen. Das Gleiche gilt für die ordnungsgemäße Löschung von Daten, die in einen Datenabgleich einbezogen oder durch ihn gewonnen wurden. Beabsichtigt die Staatsanwaltschaft, einem solchen Antrag des Rechtsschutzbeauftragten nicht nachzukommen, so hat sie unverzüglich die Entscheidung des Gerichts einzuholen.
 **FIXME** P: <p class="ErlText AlignJustify">_________________</p>
 **FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.&nbsp;1: Die Wendung „oder nach §&nbsp;135a“ tritt mit 1.&nbsp;April 2020 in Kraft und mit Ablauf des 31.&nbsp;März 2025 wieder außer Kraft (vgl. §&nbsp;514 Abs.&nbsp;37 Z&nbsp;3).</span></span></p>
+
 ### § 148 StPO. Schadenersatz
 
 **§ 148 StPO.**  
  Der Bund haftet für vermögensrechtliche Nachteile, die durch die Durchführung einer Überwachung von Personen nach § 136 Abs. 1 Z 3 oder eines Datenabgleichs nach § 141 entstanden sind. Der Ersatzanspruch ist ausgeschlossen, wenn der Geschädigte die Anordnung vorsätzlich herbeigeführt hat. Weitergehende Ansprüche bleiben unberührt. Auf das Verfahren ist das Amtshaftungsgesetz, BGBl. Nr. 20/1949, anzuwenden.
 ## 9. Abschnitt | Augenschein und Tatrekonstruktion
+
 ### § 149 StPO. Augenschein und Tatrekonstruktion
 
 **§ 149 (1) StPO.**  
@@ -104,6 +112,7 @@ Ein Augenschein kann durch die Kriminalpolizei durchgeführt werden. Wenn er bes
 
 **§ 149 (3) StPO.**  
 Eine Tatrekonstruktion hat auf Antrag der Staatsanwaltschaft durch das Gericht zu erfolgen (§ 104).
+
 ### § 150 StPO. Durchführung der Tatrekonstruktion
 
 **§ 150 (1) StPO.**  
@@ -112,11 +121,13 @@ Der Staatsanwaltschaft, dem Beschuldigten, dem Opfer, dem Privatbeteiligten und 
 **§ 150 (2) StPO.**  
 Der Beschuldigte kann von der Teilnahme vorübergehend ausgeschlossen werden, wenn seine Anwesenheit den Zweck des Verfahrens gefährden könnte oder besondere Interessen dies erfordern (§ 250 Abs. 1). Dem Opfer und dem Privatbeteiligten ist die Beteiligung vorübergehend zu versagen, wenn zu besorgen ist, dass seine Anwesenheit den Beschuldigten oder Zeugen bei der Ablegung einer freien und vollständigen Aussage beeinflussen könnte. In diesen Fällen ist den betroffenen Beteiligten sogleich eine Kopie des Protokolls zu übermitteln. Die Beteiligung des Verteidigers darf jedoch in keinem Fall eingeschränkt werden. Im Übrigen ist § 97 anzuwenden.
 ## 10. Abschnitt | Erkundigungen und Vernehmungen
+
 ### § 151 StPO. Definitionen
 
 **§ 151 StPO.**  
  Im Sinne dieses Gesetzes ist
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Erkundigung“ das Verlangen von Auskunft und das Entgegennehmen einer Mitteilung von einer Person,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Vernehmung“ das Befragen von Personen nach förmlicher Information über ihre Stellung und ihre Rechte im Verfahren.</div></div></li></ol>
+
 ### § 152 StPO. Erkundigungen
 
 **§ 152 (1) StPO.**  
@@ -127,6 +138,7 @@ Soweit die Kriminalpolizei nicht verdeckt ermittelt, hat sie bei Erkundigungen a
 
 **§ 152 (3) StPO.**  
 Auskünfte und sonstige Umstände, die durch Erkundigungen erlangt wurden und für das Verfahren von Bedeutung sein können, sind in einem Amtsvermerk festzuhalten.
+
 ### § 153 StPO. Vernehmungen
 
 **§ 153 (1) StPO.**  
@@ -140,6 +152,7 @@ Die Staatsanwaltschaft, in den Fällen der §§ 104, 105 und 107 das Gericht, k
 
 **§ 153 (4) StPO.**  
 Ist der Aufenthaltsort eines Zeugen oder Beschuldigten außerhalb des Sprengels der zuständigen Staatsanwaltschaft oder des zuständigen Gerichts gelegen, so ist die unmittelbare Vernehmung am Sitz der Staatsanwaltschaft oder des Gerichts, in deren oder dessen Sprengel sich der Zeuge oder der Beschuldigte befindet, unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung durchzuführen, es sei denn, dass es unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder sonst aus besonderen Gründen erforderlich ist, den Zeugen oder Beschuldigten vor die zuständige Staatsanwaltschaft oder vor das zuständige Gericht zu laden.
+
 ### § 154 StPO. Zeuge und Wahrheitspflicht
 
 **§ 154 (1) StPO.**  
@@ -147,6 +160,7 @@ Im Sinne dieses Gesetzes ist Zeuge eine vom Beschuldigten verschiedene Person, d
 
 **§ 154 (2) StPO.**  
 Zeugen sind verpflichtet, richtig und vollständig auszusagen.
+
 ### § 155 StPO. Verbot der Vernehmung als Zeuge
 
 **§ 155 (1) StPO.**  
@@ -158,6 +172,7 @@ Als Zeugen dürfen bei sonstiger Nichtigkeit nicht vernommen werden:
 
 **§ 155 (2) StPO.**  
 Eine Verpflichtung zur Verschwiegenheit nach Abs. 1 Z 2 besteht jedenfalls nicht, soweit der Zeuge im Dienste der Strafrechtspflege Wahrnehmungen zum Gegenstand des Verfahrens gemacht hat oder Anzeigepflicht (§ 78) besteht.
+
 ### § 156 StPO. Aussagebefreiung
 
 **§ 156 (1) StPO.**  
@@ -170,6 +185,7 @@ Nach Abs. 1 Z 1 ist eine erwachsene Person, die als Privatbeteiligte am Verfah
 
 **§ 156 (3) StPO.**  
 Besteht die Befreiung von der Aussage im Verfahren gegen mehrere Beschuldigte nur gegenüber einem von ihnen, so ist der Zeuge hinsichtlich der anderen nur dann befreit, wenn eine Trennung der Aussagen nicht möglich ist. Gleiches gilt, wenn sich der Befreiungsgrund nur auf einen von mehreren Sachverhalten bezieht.
+
 ### § 157 StPO. Aussageverweigerung
 
 **§ 157 (1) StPO.**  
@@ -183,7 +199,8 @@ Zur Verweigerung der Aussage sind berechtigt:
 **§ 157 (2) StPO.**  
 Das Recht der in Abs. 1 Z 2 bis 5 angeführten Personen, die Aussage zu verweigern, darf bei sonstiger Nichtigkeit nicht umgangen werden, insbesondere nicht durch Sicherstellung und Beschlagnahme von Unterlagen oder auf Datenträgern gespeicherten Informationen (Anm. 1) oder durch Vernehmung der Hilfskräfte oder der Personen, die zur Ausbildung an der berufsmäßigen Tätigkeit nach Abs. 1 Z 2 bis 4 teilnehmen. Dies gilt ebenso für Unterlagen und Informationen, die sich in der Verfügungsmacht des Beschuldigten oder eines Mitbeschuldigten befinden und zum Zwecke der Beratung oder Verteidigung des Beschuldigten durch eine in Abs. 1 Z 2 genannte Person von dieser oder vom Beschuldigten erstellt wurden.
 **FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(________________</span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;1 Z&nbsp;57 der Novelle <a href="/eli/bgbl/I/2024/157" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2024_I_157', 'BGBl. I Nr. 157/2024', '2025-06-03')">BGBl.&nbsp;I Nr.&nbsp;157/2024</a> lautet: „§&nbsp;157 Abs.&nbsp;2 wird nach der Wendung „oder auf Datenträgern gespeicherte Informationen“ die Wendung „(§&nbsp;111 Abs.&nbsp;2), durch Beschlagnahme von Datenträgern und Daten“ eingefügt.“. Die Anweisung konnte nicht durchgeführt werden.)</span></span></p>
+**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;1 Z&nbsp;57 der Novelle <a href="/eli/bgbl/I/2024/157" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2024_I_157', 'BGBl. I Nr. 157/2024', '2025-06-04')">BGBl.&nbsp;I Nr.&nbsp;157/2024</a> lautet: „§&nbsp;157 Abs.&nbsp;2 wird nach der Wendung „oder auf Datenträgern gespeicherte Informationen“ die Wendung „(§&nbsp;111 Abs.&nbsp;2), durch Beschlagnahme von Datenträgern und Daten“ eingefügt.“. Die Anweisung konnte nicht durchgeführt werden.)</span></span></p>
+
 ### § 158 StPO.
 
 **§ 158 (1) StPO.**  
@@ -194,6 +211,7 @@ Die Beantwortung einzelner Fragen können verweigern:
 
 **§ 158 (2) StPO.**  
 Die in Abs. 1 angeführten Personen können jedoch trotz Weigerung zur Aussage verpflichtet werden, wenn dies wegen der besonderen Bedeutung ihrer Aussage für den Gegenstand des Verfahrens unerlässlich ist.
+
 ### § 159 StPO. Information und Nichtigkeit
 
 **§ 159 (1) StPO.**  
@@ -204,6 +222,7 @@ Ein Zeuge, der einen Befreiungs- oder Verweigerungsgrund in Anspruch nehmen will
 
 **§ 159 (3) StPO.**  
 Hat ein Zeuge auf seine Befreiung von der Aussagepflicht nach § 156 Abs. 1 Z 1 nicht ausdrücklich verzichtet, so ist seine gesamte Aussage nichtig. Wurde ein Zeuge, der ein Recht auf Verweigerung der Aussage nach § 157 Abs. 1 Z 2 bis 5 hat, darüber nicht rechtzeitig informiert, so ist jener Teil seiner Aussage nichtig, auf den sich das Verweigerungsrecht bezieht. Das aufgenommene Protokoll ist insoweit zu vernichten.
+
 ### § 160 StPO. Durchführung der Vernehmung
 
 **§ 160 (1) StPO.**  
@@ -214,6 +233,7 @@ Auf Verlangen des Zeugen ist einer Person seines Vertrauens die Anwesenheit bei 
 
 **§ 160 (3) StPO.**  
 Der Vernehmung einer Person, die psychisch krank oder vergleichbar in ihrer Entscheidungsfähigkeit beschränkt ist oder die das vierzehnte Lebensjahr noch nicht zurückgelegt hat, ist jedenfalls eine Person ihres Vertrauens beizuziehen.
+
 ### § 161 StPO.
 
 **§ 161 (1) StPO.**  
@@ -224,10 +244,12 @@ Danach ist der Zeuge um eine zusammenhängende Darstellung seiner Wahrnehmungen 
 
 **§ 161 (3) StPO.**  
 Fragen, mit denen dem Zeugen Umstände vorgehalten werden, die erst durch seine Antwort festgestellt werden sollen, dürfen nur dann gestellt werden, wenn dies zum Verständnis des Zusammenhanges erforderlich ist; solche Fragen und die darauf gegebenen Antworten sind wörtlich zu protokollieren. Fragen nach allfälligen strafgerichtlichen Verfahren gegen den Zeugen und nach deren Ausgang sowie Fragen nach Umständen aus dem höchstpersönlichen Lebensbereich des Zeugen dürfen nicht gestellt werden, es sei denn, dass dies nach den besonderen Umständen des Falles unerlässlich ist.
+
 ### § 162 StPO. Anonyme Aussage
 
 **§ 162 StPO.**  
  Ist auf Grund bestimmter Tatsachen zu befürchten, dass der Zeuge sich oder einen Dritten durch die Bekanntgabe des Namens und anderer Angaben zur Person (§ 161 Abs. 1) oder durch Beantwortung von Fragen, die Rückschlüsse darauf zulassen, einer ernsten Gefahr für Leben, Gesundheit, körperliche Unversehrtheit oder Freiheit aussetzen würde, so kann ihm gestattet werden, solche Fragen nicht zu beantworten. In diesem Fall ist auch zulässig, dass der Zeuge seine äußere Erscheinung derart verändert, dass er nicht wieder erkannt werden kann. Es ist ihm jedoch nicht gestattet, sein Gesicht derart zu verhüllen, dass sein Mienenspiel nicht soweit wahrgenommen werden kann, als dies für die Beurteilung der Glaubwürdigkeit seiner Aussage unerlässlich ist.
+
 ### § 163 StPO. Gegenüberstellung
 
 **§ 163 (1) StPO.**  
@@ -241,6 +263,7 @@ Im Übrigen ist eine Konfrontation des Beschuldigten oder eines Zeugen mit ander
 
 **§ 163 (4) StPO.**  
 Sofern der Beschuldigte zur Gegenüberstellung beigezogen wird, ist auch seinem Verteidiger Gelegenheit zur Teilnahme zu geben.
+
 ### § 164 StPO. Vernehmung des Beschuldigten
 
 **§ 164 (1) StPO.**  
@@ -254,6 +277,7 @@ Der Beschuldigte ist zunächst über seine persönlichen Verhältnisse zu befrag
 
 **§ 164 (4) StPO.**  
 Es dürfen weder Versprechungen oder Vorspiegelungen noch Drohungen oder Zwangsmittel angewendet werden, um den Beschuldigten zu einem Geständnis oder zu anderen Angaben zu bewegen. Die Freiheit seiner Willensentschließung und seiner Willensbetätigung sowie sein Erinnerungsvermögen und seine Einsichtsfähigkeit dürfen durch keinerlei Maßnahmen oder gar Eingriffe in seine körperliche Integrität beeinträchtigt werden. Dem Beschuldigten gestellte Fragen müssen deutlich und klar verständlich und dürfen nicht unbestimmt, mehrdeutig oder verfänglich sein. Fragen, mit denen ihm Umstände vorgehalten werden, die erst durch seine Antwort festgestellt werden sollen, dürfen nur dann gestellt werden, wenn dies zum Verständnis des Zusammenhanges erforderlich ist; solche Fragen und die darauf gegebenen Antworten sind wörtlich zu protokollieren. Fragen, die eine vom Beschuldigten nicht zugestandene Tatsache als bereits zugestanden behandeln, sind nicht zulässig.
+
 ### § 165 StPO. Kontradiktorische Vernehmung des Beschuldigten oder eines Zeugen
 
 **§ 165 (1) StPO.**  
@@ -276,6 +300,7 @@ Erfolgt die Vernehmung unter Verwendung technischer Einrichtungen zur Wort- und 
 
 **§ 165 (6) StPO.**  
 Im Übrigen sind die Bestimmungen dieses Abschnitts sinngemäß anzuwenden.
+
 ### § 166 StPO. Beweisverbot
 
 **§ 166 (1) StPO.**  

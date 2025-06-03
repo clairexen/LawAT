@@ -6,10 +6,12 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 5. Abschnitt | Beschlüsse und Beschwerden
+
 ### § 85 StPO. Allgemeines
 
 **§ 85 StPO.**  
  Soweit im Einzelnen nicht etwas anderes bestimmt wird, gelten für Erledigungen von Anträgen gemäß § 101 Abs. 2, gerichtliche Beschlüsse (§ 35) und dagegen erhobene Beschwerden sowie das dabei einzuhaltende Verfahren die Bestimmungen dieses Abschnitts.
+
 ### § 86 StPO. Beschlüsse
 
 **§ 86 (1) StPO.**  
@@ -20,6 +22,7 @@ Jeder Beschluss ist schriftlich auszufertigen und den zur Beschwerde Berechtigte
 
 **§ 86 (3) StPO.**  
 Ausfertigung und Zustellung eines Beschlusses, der nach dem Gesetz mündlich zu verkünden ist, können unterbleiben, wenn die Berechtigten sogleich nach der Verkündung auf Beschwerde verzichten. In diesem Fall und soweit das Gesetz die Verkündung des Beschlusses in der Hauptverhandlung vorsieht, jedoch ein selbstständiges, die weitere Verhandlung hemmendes Rechtsmittel dagegen nicht zulässt, ist der wesentliche Inhalt des Beschlusses im Protokoll zu beurkunden.
+
 ### § 87 StPO. Beschwerden
 
 **§ 87 (1) StPO.**  
@@ -30,6 +33,7 @@ Der Staatsanwaltschaft steht auch Beschwerde zu, wenn ihre Anträge gemäß § 
 
 **§ 87 (3) StPO.**  
 Aufschiebende Wirkung hat eine Beschwerde nur dann, wenn das Gesetz dies ausdrücklich vorsieht.
+
 ### § 88 StPO. Verfahren über Beschwerden
 
 **§ 88 (1) StPO.**  
@@ -43,6 +47,7 @@ Die Beschwerde ist dem Rechtsmittelgericht ohne Verzug mit dem Akt vorzulegen. D
 
 **§ 88 (4) StPO.**  
 Eine Beschwerde, die innerhalb der Frist beim Rechtsmittelgericht oder im Fall des Abs. 1 bei der Staatsanwaltschaft, im Fall des Abs. 2 beim Gericht eingebracht wird, gilt als rechtzeitig.
+
 ### § 89 StPO. Verfahren vor dem Rechtsmittelgericht
 
 **§ 89 (1) StPO.**  
@@ -73,6 +78,7 @@ Das Rechtsmittelgericht kann vom Erstgericht und von der Staatsanwaltschaft weit
 **§ 89 (6) StPO.**  
 Gegen die Entscheidung des Rechtsmittelgerichts steht ein weiterer Rechtszug nicht zu.
 ## 6. Abschnitt | Vollstreckung von Geld- und Freiheitsstrafen
+
 ### § 90 StPO. Vollstreckung von Geld- und Freiheitsstrafen
 
 **§ 90 (1) StPO.**  
@@ -84,6 +90,7 @@ Ist eine nach diesem Gesetz ausgesprochene Geldstrafe ganz oder teilweise uneinb
 **§ 90 (3) StPO.**  
 Auf den Vollzug von Ersatzfreiheitsstrafen nach Abs. 2 und der in diesem Gesetz angedrohten Freiheitsstrafen und der Beugehaft sind die Bestimmungen des Strafvollzugsgesetzes über den Vollzug von Freiheitsstrafen, deren Strafzeit drei Monate nicht übersteigt, sinngemäß anzuwenden.
 ## 2. TEIL | Das Ermittlungsverfahren | 6. Hauptstück | Allgemeines | 1. Abschnitt | Zweck des Ermittlungsverfahrens
+
 ### § 91 StPO. Zweck des Ermittlungsverfahrens
 
 **§ 91 (1) StPO.**  
@@ -94,6 +101,7 @@ Ermittlung ist jede Tätigkeit der Kriminalpolizei, der Staatsanwaltschaft oder 
 
 **§ 91 (3) StPO.**  
 Erkundigungen (§ 151 Z 1) zur Klärung, ob auf Grund bestimmter Anhaltspunkte angenommen werden kann, dass ein Sachverhalt einem gesetzlichen Tatbild entspricht, sind keine Ermittlungen im Sinn des Abs. 2.
+
 ### § 92 StPO. Ermächtigung zur Strafverfolgung
 
 **§ 92 (1) StPO.**  
@@ -102,6 +110,7 @@ Soweit das Gesetz eine Ermächtigung zur Strafverfolgung voraussetzt, haben Krim
 **§ 92 (2) StPO.**  
 Die Ermächtigung muss sich auf eine bestimmte Person beziehen und spätestens bei Einleitung diversioneller Maßnahmen oder Einbringen der Anklage vorliegen. Sie kann bis zum Schluss des Beweisverfahrens erster Instanz zurückgenommen werden. Die Erklärung, als Privatbeteiligter am Verfahren mitzuwirken (§ 67), gilt als Ermächtigung.
 ## 2. Abschnitt | Zwangsgewalt und Beugemittel, Ordnungsstrafen
+
 ### § 93 StPO. Zwangsgewalt und Beugemittel
 
 **§ 93 (1) StPO.**  
@@ -118,15 +127,18 @@ Als Beugemittel kommt eine Geldstrafe bis zu 10 000 Euro und in wichtigen Fäl
 
 **§ 93 (5) StPO.**  
 Die Ausübung unmittelbaren Zwangs ist anzudrohen und anzukündigen, wenn die davon betroffene Person anwesend ist. Hievon darf nur abgesehen werden, wenn der Erfolg der Ermittlung oder der Beweisaufnahme dadurch gefährdet wäre. Für den Waffengebrauch gelten die Bestimmungen des Waffengebrauchsgesetzes 1969.
+
 ### § 94 StPO. Ordnungsstrafen
 
 **§ 94 StPO.**  
  Für die Aufrechterhaltung der Ordnung und für die Wahrung des Anstandes hat der Leiter der jeweiligen Amtshandlung zu sorgen. Er ist zu diesem Zweck berechtigt, jede Person, die sich trotz vorausgegangener Ermahnung und Androhung ihrer Wegweisung seinen Anordnungen widersetzt, gegenüber anwesenden Personen aggressiv oder sonst grob ungebührlich verhält oder auf andere Weise die Amtshandlung behindert, auf einige Zeit oder für die gesamte Dauer der Amtshandlung aus dieser wegzuweisen oder zu entfernen. Im Übrigen sind die §§ 233 Abs. 3 und 235 bis 236a im Ermittlungsverfahren sinngemäß anzuwenden. Über die Verhängung der dort erwähnten Ordnungsstrafen (§ 235, § 236 Abs. 1) und die Aufforderung, einen anderen Vertreter zu bestellen (§ 236 Abs. 2, § 236a), entscheidet das Gericht mit Beschluss.
 ## 3. Abschnitt | Protokollierung
+
 ### § 95 StPO. Amtsvermerk
 
 **§ 95 StPO.**  
  Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich festzuhalten, dass ihr wesentlicher Inhalt nachvollzogen werden kann. Ein solcher Amtsvermerk ist jedenfalls vom aufnehmenden Organ und allenfalls von anderen Personen zu unterfertigen.
+
 ### § 96 StPO. Protokoll
 
 **§ 96 (1) StPO.**  
@@ -149,6 +161,7 @@ Das Protokoll ist der vernommenen Person zur Durchsicht mit der Information vorz
 
 **§ 96 (5) StPO.**  
 Das Protokoll ist zum Akt zu nehmen. Soweit die vernommene Person zur Akteneinsicht berechtigt ist, ist ihr auf Verlangen sogleich gebührenfrei eine Abschrift oder Kopie auszufolgen, sofern dem schutzwürdige Interessen des Verfahrens oder Dritter nicht entgegen stehen; § 54 ist anzuwenden. Auf Kurzschriften und Tonaufnahmen (Abs. 2) ist § 271 Abs. 6 anzuwenden.
+
 ### § 97 StPO. Ton- und Bildaufnahme
 
 **§ 97 (1) StPO.**  
@@ -157,6 +170,7 @@ Nach ausdrücklicher Information der vernommenen Person ist es zulässig, eine T
 **§ 97 (2) StPO.**  
 Im Falle einer Aufnahme nach Abs. 1 kann an Stelle eines Protokolls eine schriftliche Zusammenfassung des Inhalts der Vernehmung erstellt werden, welche der Leiter der Amtshandlung unterfertigt und zum Akt nimmt. Auf diese Zusammenfassung sind im Übrigen die Vorschriften der §§ 96 Abs. 1 und 3 und 271 Abs. 6 anzuwenden.
 ## 7. Hauptstück | Aufgaben und Befugnisse der Kriminalpolizei, der Staatsanwaltschaft und des Gerichts | 1. Abschnitt | Allgemeines
+
 ### § 98 StPO. Allgemeines
 
 **§ 98 (1) StPO.**  
@@ -165,6 +179,7 @@ Kriminalpolizei und Staatsanwaltschaft haben das Ermittlungsverfahren nach Maßg
 **§ 98 (2) StPO.**  
 Das Gericht wird im Ermittlungsverfahren auf Antrag, von Amts wegen gemäß den §§ 104 und 105 Abs. 2 oder auf Grund eines Einspruchs tätig.
 ## 2. Abschnitt | Kriminalpolizei im Ermittlungsverfahren
+
 ### § 99 StPO. Ermittlungen
 
 **§ 99 (1) StPO.**  
@@ -183,6 +198,7 @@ Ein Aufschub kriminalpolizeilicher Ermittlungen ist zulässig, wenn
 
 **§ 99 (5) StPO.**  
 Die Kriminalpolizei hat die Staatsanwaltschaft von einem Aufschub nach Abs. 4 unverzüglich zu verständigen. Im Fall einer kontrollierten Lieferung, das ist der Transport von Gegenständen aus dem, in das oder durch das Bundesgebiet, ohne dass die Staatsanwaltschaft verpflichtet wäre, nach § 2 Abs. 1 vorzugehen, gelten die Bestimmungen der §§ 71 und 72 des Bundesgesetzes über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union (EU-JZG) sinngemäß.
+
 ### § 100 StPO. Berichte
 
 **§ 100 (1) StPO.**  
@@ -207,6 +223,7 @@ Die Kriminalpolizei hat der Staatsanwaltschaft auch zu berichten, wenn aus ihrer
 
 **§ 100 (4) StPO.**  
 Mit jedem Bericht sind der Staatsanwaltschaft, soweit dies noch nicht geschehen ist, alle für die Beurteilung der Sach- und Rechtslage erforderlichen kriminalpolizeilichen Akten zu übermitteln oder auf elektronischem Weg zugänglich zu machen.
+
 ### § 100a StPO. Berichte an die WKStA
 
 **§ 100a (1) StPO.**  

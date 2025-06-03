@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 1. Abschnitt | Allgemeine Bestimmungen
+
 ### § 1 VerG. Verein
 
 **§ 1 (1) VerG.**  
@@ -22,6 +23,7 @@ Ein Zweigverein ist ein seinem Hauptverein statutarisch untergeordneter Verein, 
 
 **§ 1 (5) VerG.**  
 Ein Verband ist ein Verein, in dem sich in der Regel Vereine zur Verfolgung gemeinsamer Interessen zusammenschließen. Ein Dachverband ist ein Verein zur Verfolgung gemeinsamer Interessen von Verbänden.
+
 ### § 2 VerG. Gründung des Vereins
 
 **§ 2 (1) VerG.**  
@@ -35,6 +37,7 @@ Hat ein Verein nicht innerhalb eines Jahres ab seiner Entstehung organschaftlich
 
 **§ 2 (4) VerG.**  
 Für Handlungen im Namen des Vereins vor seiner Entstehung haften die Handelnden persönlich zur ungeteilten Hand (Gesamtschuldner). Rechte und Pflichten, die im Namen des Vereins vor seiner Entstehung von den Gründern oder von bereits bestellten organschaftlichen Vertretern begründet wurden, werden mit der Entstehung des Vereins für diesen wirksam, ohne dass es einer Genehmigung durch Vereinsorgane oder Gläubiger bedarf.
+
 ### § 3 VerG. Statuten
 
 **§ 3 (1) VerG.**  
@@ -56,6 +59,7 @@ Die Statuten müssen jedenfalls enthalten:
 
 **§ 3 (3) VerG.**  
 Das Leitungsorgan eines Vereins ist verpflichtet, jedem Vereinsmitglied auf Verlangen die Statuten auszufolgen.
+
 ### § 4 VerG. Name, Sitz
 
 **§ 4 (1) VerG.**  
@@ -63,6 +67,7 @@ Der Name des Vereins muss einen Schluss auf den Vereinszweck zulassen und darf n
 
 **§ 4 (2) VerG.**  
 Der Sitz des Vereins muss im Inland liegen. Als Sitz ist der Ort zu bestimmen, an dem der Verein seine tatsächliche Hauptverwaltung hat.
+
 ### § 5 VerG. Organe, Prüfer
 
 **§ 5 (1) VerG.**  
@@ -79,6 +84,7 @@ Sehen die Statuten ein Aufsichtsorgan vor, so muss dieses aus mindestens drei na
 
 **§ 5 (5) VerG.**  
 Jeder Verein hat mindestens zwei Rechnungsprüfer zu bestellen, ein großer Verein im Sinne des § 22 Abs. 2 einen Abschlussprüfer. Rechnungsprüfer wie Abschlussprüfer müssen unabhängig und unbefangen sein, Abs. 4 vierter Satz gilt sinngemäß. Sofern die Statuten nicht anderes vorsehen, wird der Abschlussprüfer für ein Rechnungsjahr bestellt. Die Auswahl der Rechnungsprüfer und des Abschlussprüfers obliegt der Mitgliederversammlung. Ist eine Bestellung noch vor der nächsten Mitgliederversammlung notwendig, so hat das Aufsichtsorgan, fehlt ein solches, das Leitungsorgan den oder die Prüfer auszuwählen.
+
 ### § 6 VerG. Geschäftsführung, Vertretung
 
 **§ 6 (1) VerG.**  
@@ -92,10 +98,12 @@ Die organschaftliche Vertretungsbefugnis ist, von der Frage der Gesamt- oder Ein
 
 **§ 6 (4) VerG.**  
 Im eigenen Namen oder für einen anderen geschlossene Geschäfte eines organschaftlichen Vertreters mit dem Verein (Insichgeschäfte) bedürfen der Zustimmung eines anderen, zur Vertretung oder Geschäftsführung befugten Organwalters.
+
 ### § 7 VerG. Nichtigkeit und Anfechtbarkeit von Vereinsbeschlüssen
 
 **§ 7 VerG.**  
  Beschlüsse von Vereinsorganen sind nichtig, wenn dies Inhalt und Zweck eines verletzten Gesetzes oder die guten Sitten gebieten. Andere gesetz- oder statutenwidrige Beschlüsse bleiben gültig, sofern sie nicht binnen eines Jahres ab Beschlussfassung gerichtlich angefochten werden. Jedes von einem Vereinsbeschluss betroffene Vereinsmitglied ist zur Anfechtung berechtigt.
+
 ### § 8 VerG. Streitschlichtung
 
 **§ 8 (1) VerG.**  
@@ -103,6 +111,7 @@ Die Statuten haben vorzusehen, dass Streitigkeiten aus dem Vereinsverhältnis vo
 
 **§ 8 (2) VerG.**  
 Die Statuten haben die Zusammensetzung und die Art der Bestellung der Mitglieder der Schlichtungseinrichtung unter Bedachtnahme auf deren Unbefangenheit zu regeln. Den Streitparteien ist beiderseitiges Gehör zu gewähren.
+
 ### § 9 VerG. Vereinsbehörden, Verfahren
 
 **§ 9 (1) VerG.**  
@@ -113,11 +122,13 @@ Vereinsbehörde im Sinne dieses Bundesgesetzes ist die Bezirksverwaltungsbehörd
 
 **§ 9 (3) VerG.**  
 Die örtliche Zuständigkeit richtet sich, sofern nicht anderes bestimmt ist (§ 19 Abs. 2), nach dem in den Statuten angegebenen Vereinssitz.
+
 ### § 10 VerG. Vereinsversammlungen
 
 **§ 10 VerG.**  
  Für Versammlungen, die von einem Verein abgehalten werden, gilt das Versammlungsgesetz 1953, BGBl. Nr. 98/1953, mit der Maßgabe, dass die Mitglieder des Vereins als geladene Gäste gemäß § 2 Abs. 1 dieses Gesetzes anzusehen sind.
 ## 2. Abschnitt | Entstehung des Vereins
+
 ### § 11 VerG. Anzeige der Vereinserrichtung
 
 **§ 11 (1) VerG.**  
@@ -125,6 +136,7 @@ Die Errichtung eines Vereins (§ 2 Abs. 1) ist der Vereinsbehörde von den Gr�
 
 **§ 11 (2) VerG.**  
 Besteht der in den Statuten umschriebene Vereinszweck in der Ausübung eines Kultus, hat die Vereinsbehörde die Statuten unverzüglich an den Bundeskanzler zu übermitteln. Dieser hat zu prüfen, ob die umschriebene Ausübung dieses Kultus einen Eingriff in die inneren Angelegenheiten einer gesetzlich anerkannten Kirche oder Religionsgesellschaft darstellt. Das Ergebnis der Prüfung ist unverzüglich an die Vereinsbehörde zu übermitteln.
+
 ### § 12 VerG. Erklärung, dass die Vereinsgründung nicht gestattet ist
 
 **§ 12 (1) VerG.**  
@@ -141,6 +153,7 @@ Ein Bescheid gemäß Abs. 3 muss ohne unnötigen Aufschub schriftlich und unter
 
 **§ 12 (5) VerG.**  
 Ein Bescheid gemäß Abs. 1 gilt hinsichtlich der in Abs. 2 angeführten und allenfalls gemäß Abs. 3 verlängerten Frist auch dann als rechtzeitig erlassen, wenn seine Zustellung innerhalb dieser Frist an der in der Errichtungsanzeige angegebenen Abgabestelle versucht worden ist.
+
 ### § 13 VerG. Einladung zur Aufnahme der Vereinstätigkeit
 
 **§ 13 (1) VerG.**  
@@ -148,6 +161,7 @@ Ergeht binnen vier, im Fall einer Verlängerung gemäß § 12 Abs. 3 binnen l�
 
 **§ 13 (2) VerG.**  
 Schon vor Fristablauf kann an die Anzeiger mit Bescheid eine ausdrückliche Einladung zur Aufnahme der Vereinstätigkeit ergehen, sobald die Vereinsbehörde zu einer Erklärung gemäß § 12 Abs. 1 keinen Anlass sieht. Der Einladung ist eine unbeglaubigte Abschrift der Statuten und ein Auszug aus dem Vereinsregister anzuschließen.
+
 ### § 14 VerG. Änderung der Statuten, der organschaftlichen Vertreter und der Vereinsanschrift
 
 **§ 14 (1) VerG.**  
@@ -159,6 +173,7 @@ Der Verein hat alle seine organschaftlichen Vertreter unter Angabe ihrer statute
 **§ 14 (3) VerG.**  
 Der Verein hat der Vereinsbehörde auch jede Änderung seiner für Zustellungen maßgeblichen Anschrift binnen vier Wochen mitzuteilen.
 ## 3. Abschnitt | Vereinsregister und Datenverarbeitung
+
 ### § 15 VerG. Verarbeitung besonderer Kategorien personenbezogener Daten
 
 **§ 15 (1) VerG.**  
@@ -166,6 +181,7 @@ Personenbezogene Daten gemäß § 16 Abs. 1 dürfen die Vereinsbehörden im In
 
 **§ 15 (2) VerG.**  
 Eine Weiterverarbeitung besonderer Kategorien personenbezogener Daten gemäß § 19a durch die Vereinsbehörden ist weder im Lokalen noch im Zentralen Vereinsregister zulässig.
+
 ### § 16 VerG. Lokales Vereinsregister
 
 **§ 16 (1) VerG.**  
@@ -202,6 +218,7 @@ Bei den Landespolizeidirektionen geführte Datenverarbeitungen dürfen solange w
 
 **§ 16 (6) VerG.**  
 Protokolldaten über tatsächlich durchgeführte Verarbeitungsvorgänge, wie insbesondere Änderungen, Abfragen und Übermittlungen, sind drei Jahre lang aufzubewahren.
+
 ### § 17 VerG. Erteilung von Auskünften aus dem Lokalen Vereinsregister
 
 **§ 17 (1) VerG.**  
@@ -235,6 +252,7 @@ Wer eine Auskunft einholt, darf darauf vertrauen, dass sie richtig ist, es sei d
 
 **§ 17 (9) VerG.**  
 Auskünfte, die sich auf die Registerdaten aller oder mehrerer gemeinsamer Kriterien beziehen (Sammelabfrage), sind unzulässig. Sofern die Behörden das Register automationsunterstützt führen, darf nicht vorgesehen werden, dass die Gesamtmenge der gespeicherten Daten nach anderen als den in § 17 Abs. 1 genannten Auswahlkriterien geordnet werden kann. Insbesondere darf die Auswählbarkeit der Vereinsdaten aus der Gesamtmenge nach dem Namen einer physischen Person nicht vorgesehen werden.
+
 ### § 18 VerG. Zentrales Vereinsregister
 
 **§ 18 (1) VerG.**  
@@ -254,6 +272,7 @@ Die Protokollierungsregelungen des § 16 Abs. 6 finden auch auf das Zentrale V
 
 **§ 18 (4) VerG.**  
 Hinsichtlich der Verarbeitung personenbezogener Daten nach diesem Bundesgesetz besteht kein Widerspruchsrecht gemäß Art. 21 DSGVO sowie kein Recht auf Einschränkung der Verarbeitung gemäß Art. 18 DSGVO. Darüber sind die Betroffenen in geeigneter Weise zu informieren.
+
 ### § 19 VerG. Erteilung von Auskünften aus dem Zentralen Vereinsregister
 
 **§ 19 (1) VerG.**  
@@ -288,6 +307,7 @@ Nach Maßgabe der technischen Möglichkeiten können Änderungen im ZVR, die son
 
 **§ 19 (7) VerG.**  
 Der Österreichischen Nationalbank sind gegen Ersatz der dafür anfallenden Kosten die Daten aus dem Zentralen Vereinsregister zur Erfüllung ihrer gesetzlich oder unionsrechtlich übertragenen Aufgaben nach Maßgabe der technischen Möglichkeiten im Datenfernverkehr zu übermitteln.
+
 ### § 19a VerG. Übermittlung personenbezogener Daten
 
 **§ 19a (1) VerG.**  
@@ -299,10 +319,12 @@ Die Ermächtigung gemäß Abs. 1 umfasst auch die Übermittlung besonderer Kate
 **§ 19a (3) VerG.**  
 Eine Übermittlung gemäß Abs. 1 und 2 ist unzulässig, sofern es sich um personenbezogene Daten handelt, die durch eine körperliche oder molekulargenetische Untersuchung gemäß den §§ 123 und 124 StPO ermittelt worden sind.
 ## 4. Abschnitt | Vereinsgebarung
+
 ### § 20 VerG. Informationspflicht
 
 **§ 20 VerG.**  
  Das Leitungsorgan ist verpflichtet, in der Mitgliederversammlung die Mitglieder über die Tätigkeit und die finanzielle Gebarung des Vereins zu informieren. Wenn mindestens ein Zehntel der Mitglieder dies unter Angabe von Gründen verlangt, hat das Leitungsorgan eine solche Information den betreffenden Mitgliedern auch sonst binnen vier Wochen zu geben.
+
 ### § 21 VerG. Rechnungslegung
 
 **§ 21 (1) VerG.**  
@@ -319,6 +341,7 @@ Die Rechnungsprüfer haben dem Leitungsorgan und einem allenfalls bestehenden Au
 
 **§ 21 (5) VerG.**  
 Stellen die Rechnungsprüfer fest, dass das Leitungsorgan beharrlich und auf schwerwiegende Weise gegen die ihm obliegenden Rechnungslegungspflichten verstößt, ohne dass zu erwarten ist, dass im Verein in absehbarer Zeit für wirksame Abhilfe gesorgt wird, so haben sie vom Leitungsorgan die Einberufung einer Mitgliederversammlung zu verlangen. Sie können auch selbst eine Mitgliederversammlung einberufen.
+
 ### § 22 VerG. Qualifizierte Rechnungslegung für große Vereine
 
 **§ 22 (1) VerG.**  
@@ -336,10 +359,12 @@ Als Abschlussprüfer können Wirtschaftsprüfer oder Wirtschaftsprüfungsgesells
 **§ 22 (5) VerG.**  
 Stellt der Abschlussprüfer bei seiner Prüfung Tatsachen fest, die erkennen lassen, dass der Verein seine bestehenden Verpflichtungen nicht erfüllen kann, oder die erwarten lassen, dass der Verein in Zukunft zur Erfüllung seiner Verpflichtungen nicht in der Lage sein wird, so hat er dies der Vereinsbehörde mitzuteilen. Die Vereinsbehörde hat diesen Umstand im Vereinsregister ersichtlich zu machen. Die Eintragung ist wieder zu löschen, wenn der Abschlussprüfer mitteilt, dass die ihr zu Grunde liegenden Tatsachen nicht mehr bestehen. Die Eintragung ist in einer Weise zu löschen, dass sie – abweichend von § 16 Abs. 2 – nicht weiter abfragbar ist.
 ## 5. Abschnitt | Haftung
+
 ### § 23 VerG. Haftung für Verbindlichkeiten des Vereins
 
 **§ 23 VerG.**  
  Für Verbindlichkeiten des Vereins haftet der Verein mit seinem Vermögen. Organwalter und Vereinsmitglieder haften persönlich nur dann, wenn sich dies aus anderen gesetzlichen Vorschriften oder auf Grund persönlicher rechtsgeschäftlicher Verpflichtung ergibt.
+
 ### § 24 VerG. Haftung von Organwaltern und Rechnungsprüfern
 
 **§ 24 (1) VerG.**  
@@ -368,6 +393,7 @@ Unterlässt es der Organwalter oder Rechnungsprüfer, dem Verein den Streit zu v
 
 **§ 24 (7) VerG.**  
 Eine von einem Verein abgeschlossene Haftpflichtversicherung hat auch den in Abs. 5 genannten Anspruch eines Organwalters oder Rechnungsprüfers gegen den Verein zu decken.
+
 ### § 25 VerG. Geltendmachung von Ersatzansprüchen des Vereins
 
 **§ 25 (1) VerG.**  
@@ -378,15 +404,18 @@ Für den Fall, dass die Mitgliederversammlung die Bestellung eines Sondervertret
 
 **§ 25 (3) VerG.**  
 Dringt im Fall des Abs. 2 der Verein mit den erhobenen Ansprüchen nicht oder nicht zur Gänze durch, so tragen die betreffenden Mitglieder die aus der Rechtsverfolgung erwachsenden Kosten nach außen zur ungeteilten Hand (Gesamtschuldner) und im Innenverhältnis, sofern nicht anderes vereinbart ist, zu gleichen Teilen.
+
 ### § 26 VerG. Verzicht auf Ersatzansprüche durch den Verein
 
 **§ 26 VerG.**  
  Ein Verzicht auf oder ein Vergleich über Ersatzansprüche des Vereins gegen Organwalter oder Prüfer ist Gläubigern des Vereins gegenüber unwirksam. Anderes gilt nur, wenn der Ersatzpflichtige zahlungsunfähig oder überschuldet ist und sich zur Überwindung der Zahlungsunfähigkeit oder Überschuldung mit seinen Gläubigern vergleicht.
 ## 6. Abschnitt | Beendigung des Vereins
+
 ### § 27 VerG. Ende der Rechtspersönlichkeit
 
 **§ 27 VerG.**  
  Die Rechtspersönlichkeit eines Vereins endet mit der Eintragung seiner Auflösung im Vereinsregister; ist eine Abwicklung erforderlich, verliert er seine Rechtsfähigkeit jedoch erst mit Eintragung ihrer Beendigung.
+
 ### § 28 VerG. Freiwillige Auflösung
 
 **§ 28 (1) VerG.**  
@@ -397,6 +426,7 @@ Der Verein hat der Vereinsbehörde das Datum der freiwilligen Auflösung und, fa
 
 **§ 28 (3) VerG.**  
 Ist eine Abwicklung nicht erforderlich, so müssen die Eintragung der freiwilligen Auflösung im Vereinsregister und die anderen, zu diesem Zeitpunkt aktuell gewesenen Registerdaten - abweichend von § 17 Abs. 2 - noch ein Jahr nach Eintragung der Auflösung allgemein abfragbar bleiben (§ 17 Abs. 1). Bis zur Betriebsaufnahme des Zentralen Vereinsregisters ist die freiwillige Auflösung überdies vom Verein binnen vier Wochen nach der Auflösung in einer für amtliche Verlautbarungen bestimmten Zeitung zu veröffentlichen.
+
 ### § 29 VerG. Behördliche Auflösung
 
 **§ 29 (1) VerG.**  
@@ -410,6 +440,7 @@ Bei Vorhandensein eines Vereinsvermögens hat die Vereinsbehörde die angemessen
 
 **§ 29 (4) VerG.**  
 Schließlich hat die Vereinsbehörde bei Vorhandensein eines Vereinsvermögens dieses abzuwickeln. Wenn dies aus Gründen möglichster Sparsamkeit, Raschheit, Einfachheit oder Zweckmäßigkeit, insbesondere im berechtigten Interesse Dritter, erforderlich ist, hat sie einen von ihr verschiedenen Abwickler zu bestellen.
+
 ### § 30 VerG. Abwicklung, Nachabwicklung
 
 **§ 30 (1) VerG.**  
@@ -429,6 +460,7 @@ Der Abwickler hat die Beendigung der Abwicklung der Vereinsbehörde unverzüglic
 
 **§ 30 (6) VerG.**  
 Stellt sich nach Beendigung des Vereins (§ 27) heraus, dass (noch weitere) Abwicklungsmaßnahmen erforderlich sind, so ist gemäß §§ 29 Abs. 3 und 4 sowie 30 Abs. 1 bis 5 vorzugehen. Für die Zeit der Nachabwicklung lebt der Verein vorübergehend wieder auf. Die entsprechenden Eintragungen im Vereinsregister sind vorzunehmen; für die Eintragung der Beendigung der Nachabwicklung gilt Abs. 5 letzter Satz sinngemäß.
+
 ### § 30a VerG. Umwandlung eines Vereins in eine Genossenschaft
 
 **§ 30a (1) VerG.**  
@@ -440,12 +472,14 @@ Abweichend von § 7 beträgt die Frist für die Erhebung einer Klage gegen die 
 **§ 30a (3) VerG.**  
 Die Umwandlung wird gemäß § 91a Abs. 5 GenG mit der Eintragung der Genossenschaft in das Firmenbuch wirksam. Der Eintragungsbeschluss ist danach auch der zuständigen Vereinsbehörde zuzustellen. Mit der Eintragung der Genossenschaft gilt der Verein als freiwillig aufgelöst. Einer entsprechenden Eintragung im Vereinsregister kommt deklarative Wirkung zu.
 ## 7. Abschnitt | Straf-, Übergangs- und Schlussbestimmungen
+
 ### § 31 VerG. Strafbestimmung
 
 **§ 31 VerG.**  
  Wer
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">die Errichtung eines Vereins vor Aufnahme einer über die Vereinbarung von Statuten und die allfällige Bestellung der ersten organschaftlichen Vertreter hinausgehenden Vereinstätigkeit nicht gemäß §&nbsp;11 Abs.&nbsp;1 anzeigt oder</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">trotz Erklärung der Vereinsbehörde gemäß §&nbsp;12 Abs.&nbsp;1 eine Vereinstätigkeit ausübt oder auf der Grundlage geänderter Statuten fortsetzt (§&nbsp;14 Abs.&nbsp;1) oder</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">nach rechtskräftiger Auflösung des Vereins die Vereinstätigkeit fortsetzt oder</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">als zur Vertretung des Vereins berufener Organwalter</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a)</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">die Anzeige einer Statutenänderung unterlässt (§&nbsp;14 Abs.&nbsp;1) oder</span></div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b)</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">die organschaftlichen Vertreter des Vereins oder die Vereinsanschrift nicht gemäß §&nbsp;14 Abs.&nbsp;2 und 3 bekannt gibt oder</span></div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">c)</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">die freiwillige Auflösung des Vereins nicht gemäß §&nbsp;28 Abs.&nbsp;2 anzeigt oder die Veröffentlichung unterlässt (§&nbsp;28 Abs.&nbsp;3) oder</span></div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">d)</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">die Mitteilung der Beendigung der Abwicklung nach freiwilliger Auflösung des Vereins unterlässt (§&nbsp;30 Abs.&nbsp;5 in Verbindung mit §&nbsp;28 Abs.&nbsp;2) oder</span></div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">e)</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">die ZVR-Zahl nicht gemäß §&nbsp;18 Abs.&nbsp;2 letzter Satz führt oder</span></div></div></li></ol></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">5.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">als Abwickler die Mitteilung der Beendigung der Abwicklung nach freiwilliger Auflösung des Vereins unterlässt (§&nbsp;30 Abs.&nbsp;5)</span></div></div></li></ol>
 **FIXME** DIV: <div class="SchlussteilE0">begeht – wenn die Tat nicht von den Strafgerichten zu verfolgen ist – eine Verwaltungsübertretung und ist von der Bezirksverwaltungsbehörde, im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, von der Landespolizeidirektion, mit Geldstrafe bis zu 218&nbsp;Euro, im Wiederholungsfall mit Geldstrafe bis zu 726&nbsp;Euro zu bestrafen.</div>
+
 ### § 32 VerG. Verweisungen
 
 **§ 32 (1) VerG.**  
@@ -453,6 +487,7 @@ Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen w
 
 **§ 32 (2) VerG.**  
 Soweit in anderen Bundesgesetzen und Verordnungen auf Bestimmungen verwiesen ist, die durch dieses Bundesgesetz geändert oder aufgehoben werden, erhält die Verweisung ihren Inhalt aus den entsprechenden Bestimmungen dieses Bundesgesetzes.
+
 ### § 33 VerG. In-Kraft-Treten, Außer-Kraft-Treten und Übergangsbestimmungen
 
 **§ 33 (1) VerG.**  
@@ -507,8 +542,9 @@ Das Inhaltsverzeichnis, § 11, § 15, § 17 Abs. 4, § 19a samt Überschrif
 § 30a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 133/2024 tritt mit 1. Jänner 2025 in Kraft.
 **FIXME** P: <p class="Abstand AlignLeft"></p>
 **FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(__________________</span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: gemäß §&nbsp;17 Vereinsgesetz-Durchführungsverordnung, <a href="/eli/bgbl/II/2005/60" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2005_II_60', 'BGBl. II Nr. 60/2005', '2025-06-03')">BGBl.&nbsp;II Nr.&nbsp;60/2005</a>: Echtbetrieb ab 1.1.2006</span></span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;2: gemäß <a href="/eli/bgbl/II/2023/340" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2023_II_340', 'BGBl. II Nr. 340/2023', '2025-06-03')">BGBl.&nbsp;II Nr.&nbsp;340/2023</a>: 5.12.2023)</span></span></p>
+**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: gemäß §&nbsp;17 Vereinsgesetz-Durchführungsverordnung, <a href="/eli/bgbl/II/2005/60" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2005_II_60', 'BGBl. II Nr. 60/2005', '2025-06-04')">BGBl.&nbsp;II Nr.&nbsp;60/2005</a>: Echtbetrieb ab 1.1.2006</span></span></p>
+**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;2: gemäß <a href="/eli/bgbl/II/2023/340" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2023_II_340', 'BGBl. II Nr. 340/2023', '2025-06-04')">BGBl.&nbsp;II Nr.&nbsp;340/2023</a>: 5.12.2023)</span></span></p>
+
 ### § 34 VerG. Vollziehung
 
 **§ 34 VerG.**  

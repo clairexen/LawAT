@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 6. TEIL | Schlussbestimmungen
+
 ### § 514 StPO. In-Kraft-Treten
 
 **§ 514 (1) StPO.**  
@@ -210,6 +211,7 @@ Der Eintrag im Inhaltsverzeichnis zu § 196a, § 31 Abs. 1 Z 6 und 7, § 33
 
 **§ 514 (56) StPO.**  
 Die Einträge im Inhaltsverzeichnis zum 1. Abschnitt des 8. Hauptstücks, zu den §§ 115a bis 115l, zur Überschrift des 3. Teils, zu einem 10a. Hauptstück samt Überschrift, zu § 197a, § 197b und § 197c, § 1 Abs. 2, § 27, § 28 Abs. 2, § 31 Abs. 3 Z 6a und Abs. 6 Z 3, § 36 Abs. 2a, § 37 Abs. 4, § 47a Abs. 4a und 7, § 49 Abs. 1 Z 12 und 13, § 52 Abs. 1, Abs. 2 Z 4 und Abs. 3, § 53 Abs. 1, § 61 Abs. 2 Z 2 lit. a, § 66 Abs. 1 Z 1c, § 66b Abs. 1 lit. e, § 69 Abs. 3, § 71 Abs. 1, § 76 Abs. 6, § 77 Abs. 2, § 91 Abs. 2 und 3, § 100 Abs. 3a, § 102 Abs. 3, § 105 Abs. 3, § 108, die Überschrift des 1. Abschnitts des 8. Hauptstücks, § 109 Z 1 lit. a und b, Z 1a und Z 2a bis 2e, § 110 Abs. 1 Z 1, Abs. 3 und 4, § 111 Abs. 2 und 3, § 112 Abs. 1 und 2, § 112a Abs. 1, § 113 Abs. 2 und 4, § 114 Abs. 1, 1a und 2, § 115 Abs. 1, § 115a Abs. 1, § 115e Abs. 1 und 2, §§ 115f bis 115l samt Überschriften, § 116 Abs. 5, 6 und 7, § 126 Abs. 2a, 3a, 3b und 4, § 157 Abs. 1 Z 2 und Abs. 2, § 174 Abs. 1, die Überschrift des 3. Teils, § 190, § 195 Abs. 2,§ 196a Abs. 2, das 10a. Hauptstück, § 281 Abs. 1 Z 3, § 284 Abs. 2, § 286 Abs. 1 und 2, § 294 Abs. 5, § 296 Abs. 3, § 345 Abs. 1 Z 4, §§ 367 bis 369, § 373b, § 377, § 379, § 408 Abs. 2, § 444 Abs. 2, § 466 Abs. 3, § 468 Abs. 1 Z 3 und § 471 in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 treten mit 1. Jänner 2025 in Kraft; gleichzeitig treten § 31 Abs. 1 Z 5, § 108a samt Überschrift und § 286 Abs. 1a außer Kraft.
+
 ### § 515 StPO. Verweisungen
 
 **§ 515 (1) StPO.**  
@@ -217,6 +219,7 @@ Verweisungen in diesem Gesetz auf andere Rechtsvorschriften des Bundes oder auf 
 
 **§ 515 (2) StPO.**  
 Soweit in diesem Gesetz personenbezogene Bezeichnungen nur in männlicher Form angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise. Bei der Anwendung auf bestimmte Personen ist die jeweils geschlechtsspezifische Form zu verwenden.
+
 ### § 516 StPO. Übergangsbestimmungen
 
 **§ 516 (1) StPO.**  
@@ -260,6 +263,7 @@ Die Bestimmungen der § 32 Abs. 1 und Abs. 1a in der Fassung des Bundesgesetz
 
 **§ 516 (13) StPO.**  
 § 111 Abs. 2 und §§ 115f bis 115l in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 sind in jenen Strafverfahren anzuwenden, die ab dem 1. Jänner 2025 beginnen (§ 1 Abs. 2) sowie für alle Sicherstellungen gemäß § 111 Abs. 2 und Beschlagnahmen von Datenträgern und Daten (§ 109 Z 2a), die ab dem 1. Jänner 2025 angeordnet werden. In allen anderen Fällen gelten § 115i, § 115k und § 115l sinngemäß. § 126 Abs. 3a und § 127 Abs. 4a in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 sind auf Gutachtensaufträge anzuwenden, die nach dem 1. Jänner 2025 erteilt werden.
+
 ### § 516a StPO. Umsetzung von Richtlinien der Europäischen Union
 
 **§ 516a (1) StPO.**  
@@ -312,6 +316,7 @@ Die Bestimmungen der § 32 Abs. 1 und Abs. 1a in der Fassung des Bundesgesetz
 
 **§ 516a (16) StPO.**  
 § 69 Abs. 3, § 109 Z 1 lit. a, Z 1a, § 110 Abs. 3, § 113 Abs. 2, § 114 Abs. 1, Abs. 1a und Abs. 2, § 115 Abs. 1, § 115e Abs. 2, § 367, § 379, § 408 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 dienen der Umsetzung der Richtlinie 2024/1260/EU über die Abschöpfung und Einziehung von Vermögenswerten, ABl. Nr. L 1260 vom 24.04.2024 S 1. § 115i in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 dient der Umsetzung der Richtlinie 2016/680/EU zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates, ABl. Nr. L 119 vom 27.4.2016 S. 1. § 195 Abs. 2, § 197a, § 197b und § 197c in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 dienen der Umsetzung der Richtlinie 2012/29/EU über Mindeststandards für die Rechte, die Unterstützung und den Schutz von Opfern von Straftaten sowie zur Ersetzung des Rahmenbeschlusses 2001/220/JI, ABl. Nr. L 315 vom 14.11.2012 S. 57. § 286 Abs. 1 und 2, § 294 Abs. 5, § 296 Abs. 3 und § 471 in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 dienen der Umsetzung der Richtlinie 2016/343/EU über die Stärkung bestimmter Aspekte der Unschuldsvermutung und des Rechts auf Anwesenheit in der Verhandlung im Strafverfahren, ABl. Nr. L 65 vom 11.03.2016 S. 1.
+
 ### § 517 StPO. Vollziehung
 
 **§ 517 StPO.**  

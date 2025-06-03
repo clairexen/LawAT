@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 2. Verfahren bei Berufungen
+
 ### § 294 StPO.
 
 **§ 294 (1) StPO.**  
@@ -22,6 +23,7 @@ Das Oberlandesgericht kann die Berufung in nichtöffentlicher Sitzung zurückwei
 
 **§ 294 (5) StPO.**  
 Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschieden, so hat der Vorsitzende einen Gerichtstag zur öffentlichen Verhandlung über die Berufung anzuordnen. Für die Anberaumung und Durchführung des Gerichtstages gelten die Bestimmungen der §§ 286 und 287 dem Sinne nach mit der Maßgabe, dass der nicht verhaftete Angeklagte vorzuladen und auch die Vorführung des verhafteten Angeklagten zu veranlassen ist, es sei denn, dieser hätte durch seinen Verteidiger ausdrücklich darauf verzichtet oder es liegt ein Fall des § 286 Abs. 2 zweiter Satz vor. Ist die Berufung gegen den Ausspruch über die privatrechtlichen Ansprüche gerichtet, so ist auch der Privatbeteiligte vorzuladen. Die §§ 233 bis 237 gelten sinngemäß.
+
 ### § 295 StPO.
 
 **§ 295 (1) StPO.**  
@@ -32,6 +34,7 @@ Ist die Berufung lediglich zugunsten des Angeklagten ergriffen worden, so kann d
 
 **§ 295 (3) StPO.**  
 Gegen seine Entscheidung ist kein Rechtsmittel zulässig.
+
 ### § 296 StPO.
 
 **§ 296 (1) StPO.**  
@@ -43,6 +46,7 @@ Der Oberste Gerichtshof berät über die Berufung nur dann in nichtöffentlicher
 **§ 296 (3) StPO.**  
 Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschieden, so entscheidet der Oberste Gerichtshof über die Berufung beim Gerichtstag zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde. In diesem Fall ist zum Gerichtstag der nicht verhaftete Angeklagte vorzuladen und die Vorführung des verhafteten Angeklagten zu veranlassen, es sei denn, dieser hätte durch seinen Verteidiger ausdrücklich darauf verzichtet oder es liegt ein Fall des § 286 Abs. 2 zweiter Satz vor. Ist die Berufung gegen den Ausspruch über die privatrechtlichen Ansprüche gerichtet, so ist auch der Privatbeteiligte vorzuladen.
 ## 3. Gemeinsame Bestimmung
+
 ### § 296a StPO.
 
 **§ 296a StPO.**  
@@ -50,18 +54,22 @@ Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschiede
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">an dem in Untersuchungshaft angehaltenen Angeklagten eine Freiheitsstrafe oder eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme zu vollziehen oder</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">der Angeklagte in Freiheit zu setzen,</div></div></li></ol>
 **FIXME** DIV: <div class="SchlussteilE0"><span aria-hidden="true">so hat der Oberste Gerichtshof oder das Oberlandesgericht den Vorsitzenden des Schöffengerichtes davon sogleich unter Anschluß der erforderlichen Angaben zu verständigen, es sei denn, daß im Falle der Z&nbsp;2 die Entscheidung bei einem Gerichtstag in Anwesenheit des Angeklagten ergeht (§&nbsp;396).</span></div>
 ## 5. TEIL | Besondere Verfahren | 15. Hauptstück | Hauptverhandlung vor dem Landesgericht als Geschworenengericht und Rechtsmittel gegen dessen Urteile | I. Allgemeine Bestimmungen
+
 ### § 297 StPO.
 
 **§ 297 StPO.**  
  (Aufgehoben; BGBl. Nr. 423/1974, Art. I Z 92)
+
 ### § 298 StPO.
 
 **§ 298 StPO.**  
  (Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 92)
+
 ### § 299 StPO.
 
 **§ 299 StPO.**  
  (Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 92)
+
 ### § 301 StPO.
 
 **§ 301 (1) StPO.**  
@@ -73,6 +81,7 @@ Die Bildung der Listen, denen die Geschworenen zu entnehmen sind, die Heranziehu
 **§ 301 (3) StPO.**  
 § 221 Abs. 4 ist sinngemäß anzuwenden.
 ## II. Hauptverhandlung vor dem Geschworenengerichte | 1. Allgemeine Bestimmungen
+
 ### § 302 StPO.
 
 **§ 302 (1) StPO.**  
@@ -80,15 +89,18 @@ Die Hauptverhandlung richtet sich, soweit in diesem Hauptstücke nichts anderes 
 
 **§ 302 (2) StPO.**  
 Der Vorsitzende des Schwurgerichtshofes ist insbesondere verpflichtet, den Geschworenen auch außer den Fällen, für die es im Gesetz ausdrücklich vorgeschrieben ist, die zur Ausübung ihres Amtes erforderlichen Anleitungen zu geben und sie nötigenfalls an ihre Pflichten zu erinnern.
+
 ### § 303 StPO.
 
 **§ 303 StPO.**  
  Soweit nach den folgenden Vorschriften der Schwurgerichtshof gemeinsam mit den Geschworenen zu entscheiden hat, richten sich Abstimmung und Beschlußfassung nach den für die Schöffengerichte geltenden Bestimmungen.
 ## 2. Beginn der Hauptverhandlung
+
 ### § 304 StPO.
 
 **§ 304 StPO.**  
  Sobald die Geschworenen ihre Sitze in der alphabetischen Reihenfolge ihrer Namen, Ersatzgeschworene nach den übrigen Geschworenen, eingenommen haben, beginnt die Hauptverhandlung mit dem Aufrufe der Sache durch den Schriftführer. Der Vorsitzende stellt an den Angeklagten die im § 240 vorgeschriebenen Fragen und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung.
+
 ### § 305 StPO.
 
 **§ 305 (1) StPO.**  
@@ -100,10 +112,12 @@ Sodann wird jeder noch nicht beeidigte Geschworene einzeln vom Vorsitzenden aufg
 **§ 305 (3) StPO.**  
 Die Beeidigung gilt für die Dauer des Kalenderjahres. Sie ist im Verhandlungsprotokoll und fortlaufend in einem besonderen Abschnitte des Buches über die Beeidigung der Schöffen (§ 240a Abs. 3) zu beurkunden.
 ## 3. Beweisverfahren
+
 ### § 306 StPO.
 
 **§ 306 StPO.**  
  Nach der Beeidigung der Geschworenen läßt der Vorsitzende durch den Schriftführer die Zeugen und Sachverständigen aufrufen und trifft die im § 241 angeführten Verfügungen. Das Verfahren gegen ungehorsame Zeugen oder Sachverständige richtet sich nach den Vorschriften der §§ 242 und 243.
+
 ### § 308 StPO.
 
 **§ 308 (1) StPO.**  
@@ -111,6 +125,7 @@ Der Vorsitzende vernimmt hierauf den Angeklagten und leitet die Vorführung der 
 
 **§ 308 (2) StPO.**  
 Das Recht der Fragestellung (§ 249) steht auch dem Ersatzrichter und den Geschworenen mit Einschluß der Ersatzgeschworenen zu.
+
 ### § 309 StPO.
 
 **§ 309 (1) StPO.**  
@@ -119,6 +134,7 @@ Auch Geschworene einschließlich der Ersatzgeschworenen können Beweisaufnahmen 
 **§ 309 (2) StPO.**  
 Über ein solches Begehren entscheidet der Schwurgerichtshof.
 ## 4. Fragestellung an die Geschworenen
+
 ### § 310 StPO.
 
 **§ 310 (1) StPO.**  
@@ -132,6 +148,7 @@ Die Parteien sind berechtigt, eine Änderung oder Ergänzung der Fragen zu beant
 
 **§ 310 (4) StPO.**  
 Der Vorsitzende übergibt sodann mindestens zwei Ausfertigungen der Fragen den Geschworenen.
+
 ### § 311 StPO.
 
 **§ 311 (1) StPO.**  
@@ -139,6 +156,7 @@ Die Fragestellung an die Geschworenen entfällt, wenn der Schwurgerichtshof nach
 
 **§ 311 (2) StPO.**  
 Kann jedoch über diese Frage nicht entschieden werden, ohne einer den Geschworenen vorbehaltenen Feststellung entscheidender Tatsachen oder der rechtlichen Beurteilung der Tat durch die Geschworenen vorzugreifen, so ist vorerst der Wahrspruch der Geschworenen abzuwarten (§ 337).
+
 ### § 312 StPO.
 
 **§ 312 (1) StPO.**  
@@ -146,10 +164,12 @@ Die Hauptfrage ist darauf gerichtet, ob der Angeklagte schuldig ist, die der Ank
 
 **§ 312 (2) StPO.**  
 Treffen in der dem Angeklagten in der Anklage zur Last gelegten Tat die Merkmale mehrerer strafbarer Handlungen zusammen, ohne daß eine in der anderen aufgeht, so ist für jede der zusammentreffenden strafbaren Handlungen eine besondere Hauptfrage zu stellen.
+
 ### § 313 StPO.
 
 **§ 313 StPO.**  
  Sind in der Hauptverhandlung Tatsachen vorgebracht worden, die – wenn sie als erwiesen angenommen werden – die Strafbarkeit ausschließen oder aufheben würden, so ist eine entsprechende Frage nach dem Strafausschließungs- oder Strafaufhebungsgrunde (Zusatzfrage) zu stellen.
+
 ### § 314 StPO.
 
 **§ 314 (1) StPO.**  
@@ -157,6 +177,7 @@ Sind in der Hauptverhandlung Tatsachen vorgebracht worden, nach denen – wenn s
 
 **§ 314 (2) StPO.**  
 Eine Frage, nach der die dem Angeklagten zur Last gelegte Tat unter ein strengeres Strafgesetz als das in der Anklageschrift angegebene fiele, kann gestellt werden, sofern der Schwurgerichtshof nach Anhörung der Parteien die Vertagung der Hauptverhandlung oder die Ausscheidung des Verfahrens wegen dieser Tat nicht für notwendig erachtet.
+
 ### § 315 StPO.
 
 **§ 315 (1) StPO.**  
@@ -164,10 +185,12 @@ Ist der Angeklagte in der Hauptverhandlung noch einer anderen als der der Anklag
 
 **§ 315 (2) StPO.**  
 Ist die Verhandlung auf die neue Tat ausgedehnt worden, so sind auch wegen dieser Tat die entsprechenden Fragen zu stellen. Die Stellung solcher Fragen unterbleibt jedoch, wenn sich in der Hauptverhandlung ergibt, daß eine bessere Vorbereitung der Anklage oder Verteidigung notwendig ist. In diesem Falle hat der Schwurgerichtshof die Hauptverhandlung gegen den Angeklagten, dem die hinzugekommene Tat zur Last gelegt ist, abzubrechen und die Entscheidung über alle diesem Angeklagten zur Last liegenden strafbaren Handlungen einer neuen Hauptverhandlung vorzubehalten oder, falls er diesen Vorgang nicht für zweckmäßig erachtet, dem Ankläger auf dessen Verlangen die Verfolgung wegen der hinzugekommenen Tat im Urteile vorzubehalten.
+
 ### § 316 StPO.
 
 **§ 316 StPO.**  
  Erschwerungs- und Milderungsumstände sind nur unter der Voraussetzung Gegenstand einer Zusatzfrage an die Geschworenen, daß in der Hauptverhandlung Tatsachen vorgebracht worden sind, die – wenn sie als erwiesen angenommen werden – einen im Gesetze namentlich angeführten Erschwerungs- oder Milderungsumstand begründen würden, der nach dem Gesetze die Anwendung eines anderen Strafsatzes bedingt.
+
 ### § 317 StPO.
 
 **§ 317 (1) StPO.**  
@@ -179,6 +202,7 @@ Welche Tatsachen in einer Frage zusammenzufassen oder zum Gegenstande besonderer
 **§ 317 (3) StPO.**  
 Fragen, die nur für den Fall der Bejahung (Zusatzfragen) oder für den Fall der Verneinung einer anderen Frage (Eventualfragen) gestellt werden, sind als solche ausdrücklich zu bezeichnen.
 ## 5. Vorträge der Parteien; Schluß der Verhandlung
+
 ### § 318 StPO.
 
 **§ 318 (1) StPO.**  
@@ -186,11 +210,13 @@ Nach Verlesung der Fragen werden der Ankläger und der Privatbeteiligte, der Ang
 
 **§ 318 (2) StPO.**  
 In den Schlußvorträgen sind alle im Urteile zu entscheidenden Punkte zu behandeln.
+
 ### § 319 StPO.
 
 **§ 319 StPO.**  
  Hierauf erklärt der Vorsitzende die Verhandlung für geschlossen; der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt.
 ## 6. Wahl des Obmannes der Geschworenen; Rechtsbelehrung durch den Vorsitzenden
+
 ### § 320 StPO.
 
 **§ 320 (1) StPO.**  
@@ -198,6 +224,7 @@ Die Geschworenen begeben sich hierauf in das für sie bestimmte Beratungszimmer 
 
 **§ 320 (2) StPO.**  
 Der Ersatzrichter und die Ersatzgeschworenen dürfen im Beratungszimmer nur anwesend sein, sofern sie vor Schluß der Verhandlung an die Stelle eines verhinderten Mitgliedes des Geschworenengerichtes getreten sind.
+
 ### § 321 StPO.
 
 **§ 321 (1) StPO.**  
@@ -205,10 +232,12 @@ Der Vorsitzende verfaßt nach Beratung mit den übrigen Mitgliedern des Schwurge
 
 **§ 321 (2) StPO.**  
 Die Rechtsbelehrung muß – für jede Frage gesondert – eine Darlegung der gesetzlichen Merkmale der strafbaren Handlung, auf die die Haupt- oder Eventualfrage gerichtet ist, sowie eine Auslegung der in den einzelnen Fragen vorkommenden Ausdrücke des Gesetzes enthalten und das Verhältnis der einzelnen Fragen zueinander sowie die Folgen der Bejahung oder Verneinung jeder Frage klarlegen.
+
 ### § 322 StPO.
 
 **§ 322 StPO.**  
  Nach Ausfertigung der Rechtsbelehrung begibt sich der Schwurgerichtshof mit dem Schriftführer in das Beratungszimmer der Geschworenen. Der Vorsitzende läßt die Anklageschrift, den gemäß § 244 Abs. 1 vorgelesenen Beschluss des Oberlandesgerichts, die Beweisgegenstände, Augenscheinsprotokolle und die übrigen Akten mit Ausnahme der in der Hauptverhandlung nicht vorgelesenen Vernehmungsprotokolle in das Beratungszimmer schaffen.
+
 ### § 323 StPO.
 
 **§ 323 (1) StPO.**  

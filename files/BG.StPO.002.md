@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 3. Abschnitt | Gerichte
+
 ### § 29 StPO. Allgemeines
 
 **§ 29 (1) StPO.**  
@@ -16,6 +17,7 @@ Als Gerichte sind im Strafverfahren tätig:
 
 **§ 29 (2) StPO.**  
 Soweit sich die Zuständigkeit der Gerichte nach der Höhe der angedrohten Freiheitsstrafe richtet, sind die Beschränkung der Strafbemessung durch § 287 Abs. 1 letzter Satz StGB und die Möglichkeit einer Überschreitung des Höchstmaßes der Strafe nach § 313 StGB bei der Bestimmung der sachlichen Zuständigkeit zu berücksichtigen.
+
 ### § 30 StPO. Bezirksgericht
 
 **§ 30 (1) StPO.**  
@@ -43,6 +45,7 @@ Dem Bezirksgericht obliegt das Hauptverfahren wegen Straftaten, die nur mit eine
 
 **§ 30 (2) StPO.**  
 Das Bezirksgericht entscheidet durch Einzelrichter.
+
 ### § 31 StPO. Landesgericht
 
 **§ 31 (1) StPO.**  
@@ -97,6 +100,7 @@ Dem Landesgericht als Senat von drei Richtern obliegt
 1. das Verfahren über Rechtsmittel und Rechtsbehelfe gegen Urteile und gegen andere als in Abs. 5 angeführte Beschlüsse des Bezirksgerichts und über einen Kompetenzkonflikt untergeordneter Bezirksgerichte (§ 38),
 2. die Entscheidung über einen Antrag auf Wiederaufnahme nach § 357, soweit nicht das Bezirksgericht (§ 480) oder der Einzelrichter (§ 490) zuständig ist, und über Beschlüsse nach § 495 in den Fällen, in denen nach § 494a Abs. 2 eine Zuständigkeit des Einzelrichters ausgeschlossen wäre, und
 3. die Entscheidung über Anträge auf Fortführung (§§ 195 und 209a Abs. 6) und Anträge auf Verfolgung (§ 197c).
+
 ### § 32 StPO. Landesgericht als Geschworenen- und Schöffengericht
 
 **§ 32 (1) StPO.**  
@@ -124,6 +128,7 @@ Soweit in diesem Gesetz nichts anderes bestimmt wird, entscheidet außerhalb der
 
 **§ 32 (4) StPO.**  
 Die Geschworenen werden in dem vom Gesetz (15. Hauptstück) vorgesehenen Umfang tätig; die Schöffen üben in der Hauptverhandlung das Richteramt im vollen Umfang aus. Soweit im Einzelnen nichts anderes bestimmt wird, sind die für Richter geltenden Vorschriften auch auf Geschworene und Schöffen anzuwenden. Die Voraussetzungen und das Verfahren zur Berufung von Geschworenen und Schöffen sind im Geschworenen- und Schöffengesetz 1990, BGBl. Nr. 256, geregelt.
+
 ### § 32a StPO. Zuständigkeit für Wirtschaftsstrafsachen und Korruption
 
 **§ 32a (1) StPO.**  
@@ -131,6 +136,7 @@ Den beim Landesgericht für Strafsachen Wien eingerichteten besonderen Gerichtsa
 
 **§ 32a (2) StPO.**  
 Nach den Bestimmungen der §§ 31 und 32 entscheidet das Landesgericht durch Einzelrichter oder als Geschworenen- und Schöffengericht. § 213 Abs. 6 zweiter und dritter Satz sind nicht anzuwenden.
+
 ### § 33 StPO. Oberlandesgericht
 
 **§ 33 (1) StPO.**  
@@ -144,6 +150,7 @@ Dem Oberlandesgericht obliegt die Entscheidung
 
 **§ 33 (2) StPO.**  
 Der Einzelrichter des Oberlandesgerichts entscheidet über Beschwerden gegen Entscheidungen über den Pauschalkostenbeitrag gemäß § 196 Abs. 2, über den Betrag zu den Kosten der Verteidigung im Ermittlungsverfahren gemäß § 196a, über die Kosten des Strafverfahrens nach dem 18. Hauptstück und über die Bestimmung der Gebühren der Sachverständigen und Dolmetscher nach dem GebAG. In den übrigen Fällen entscheidet das Oberlandesgericht durch einen Senat von drei Richtern.
+
 ### § 34 StPO. Oberster Gerichtshof
 
 **§ 34 (1) StPO.**  
@@ -157,6 +164,7 @@ Dem Obersten Gerichtshof obliegt die Entscheidung
 
 **§ 34 (2) StPO.**  
 Im Übrigen bleiben die Bestimmungen des Bundesgesetzes über den Obersten Gerichtshof, BGBl. Nr. 328/1968, unberührt.
+
 ### § 35 StPO. Form gerichtlicher Entscheidungen
 
 **§ 35 (1) StPO.**  
@@ -164,6 +172,7 @@ Mit Urteil entscheiden die Gerichte im Haupt- und Rechtsmittelverfahren über Sc
 
 **§ 35 (2) StPO.**  
 Im Übrigen entscheiden die Gerichte mit Beschluss (§ 86), soweit sie nicht bloß eine auf den Fortgang des Verfahrens oder die Bekanntmachung einer gerichtlichen Entscheidung gerichtete Verfügung erlassen.
+
 ### § 36 StPO. Örtliche Zuständigkeit
 
 **§ 36 (1) StPO.**  
@@ -183,6 +192,7 @@ Ein Gericht bleibt auch dann für das Hauptverfahren örtlich zuständig, wenn e
 
 **§ 36 (5) StPO.**  
 Wenn sich zum Zeitpunkt der Einbringung der Anklage ein Angeklagter in Untersuchungshaft befindet und die Verhandlung und Entscheidung der Strafsache dem Bezirksgericht zusteht, ist das Bezirksgericht örtlich zuständig, an dessen Sitz sich die Staatsanwaltschaft befindet, die nach den §§ 25 bis 28 für das Ermittlungsverfahren zuständig war. Wird der Angeklagte nach diesem Zeitpunkt freigelassen, so ändert dies die Zuständigkeit nicht.
+
 ### § 37 StPO. Zuständigkeit des Zusammenhangs
 
 **§ 37 (1) StPO.**  
@@ -196,10 +206,12 @@ Sofern zu dem Zeitpunkt, zu dem die Anklage rechtswirksam wird, ein Hauptverfahr
 
 **§ 37 (4) StPO.**  
 Das Gericht kann auf Antrag der Staatsanwaltschaft oder eines Angeklagten oder von Amts wegen unter den Voraussetzungen des § 27 StPO eine getrennte Führung der Verfahren anordnen; § 36 Abs. 4 gilt.
+
 ### § 38 StPO. Kompetenzkonflikt
 
 **§ 38 StPO.**  
  Ein Gericht, das sich für unzuständig hält, hat bei ihm eingebrachte Anträge, Einsprüche und Beschwerden dem zuständigen zu überweisen; § 213 Abs. 6 bleibt unberührt. Bei Gefahr im Verzug hat jedes Gericht innerhalb seiner sachlichen Zuständigkeit vor der Überweisung unaufschiebbare Entscheidungen zu treffen und unaufschiebbare Beweisaufnahmen durchzuführen. Sofern auch das Gericht, dem überwiesen wird, seine Zuständigkeit bezweifelt, hat es die Entscheidung des gemeinsam übergeordneten Gerichts zu erwirken, gegen die ein Rechtsmittel nicht zusteht.
+
 ### § 39 StPO. Delegierung
 
 **§ 39 (1) StPO.**  
@@ -210,6 +222,7 @@ Ein wichtiger Grund im Sinne des Abs. 1 liegt auch in Verfahren vor, die von de
 
 **§ 39 (2) StPO.**  
 Ein Antrag auf Delegierung steht der Staatsanwaltschaft und dem Beschuldigten zu; das Gericht kann sie anregen. Der Antrag ist bei dem Gericht einzubringen, das für das Verfahren zuständig ist, und hat eine Begründung zu enthalten.
+
 ### § 40 StPO. Vorsitz und Abstimmung in den Senaten
 
 **§ 40 (1) StPO.**  
@@ -220,6 +233,7 @@ Jeder Abstimmung hat eine Beratung vorauszugehen. Sieht das Gesetz einen Bericht
 
 **§ 40 (3) StPO.**  
 Eine Stimmenthaltung ist außer im Fall des § 42 Abs. 3 nicht zulässig.
+
 ### § 41 StPO.
 
 **§ 41 (1) StPO.**  
@@ -230,6 +244,7 @@ Ergibt sich keine Mehrheit, weil mehr als zwei Meinungen vertreten werden, so ha
 
 **§ 41 (3) StPO.**  
 Entstehen unterschiedliche Ansichten darüber, welche von zwei Meinungen für den Angeklagten die günstigere ist, so ist zunächst darüber abzustimmen. Ergibt sich auch dabei keine Mehrheit, so gibt die Stimme des Vorsitzenden den Ausschlag.
+
 ### § 42 StPO.
 
 **§ 42 (1) StPO.**  

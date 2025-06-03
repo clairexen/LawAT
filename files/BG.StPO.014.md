@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 4. Abschnitt | Vollzug der Untersuchungshaft
+
 ### § 182 StPO. Allgemeines
 
 **§ 182 (1) StPO.**  
@@ -28,6 +29,7 @@ Im Übrigen sind, soweit dieses Gesetz im Einzelnen nichts anderes bestimmt, auf
 
 **§ 182 (5) StPO.**  
 Soweit im Einzelnen nichts anderes bestimmt wird, gelten die Bestimmungen über den Vollzug der Untersuchungshaft für alle Anhaltungen nach diesem Gesetz, die in einer Justizanstalt vollzogen werden.
+
 ### § 183 StPO. Haftort
 
 **§ 183 (1) StPO.**  
@@ -44,11 +46,13 @@ Vor einer Änderung des Haftortes sind der Beschuldigte, Staatsanwaltschaft und 
 
 **§ 183 (5) StPO.**  
 Nach Rechtswirksamkeit der Anklage ist der Angeklagte, soweit die Zuständigkeit eines anderen Landesgerichts begründet wird, unverzüglich in die Justizanstalt des nunmehr zuständigen Landesgerichts zu überstellen.
+
 ### § 184 StPO. Ausführungen
 
 **§ 184 StPO.**  
  Für Vernehmungen, Ausführungen und Überstellungen von Beschuldigten gelten die Bestimmungen der §§ 97 und 98 StVG sinngemäß mit der Maßgabe, dass
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Vernehmungen auch dann in der Anstalt durchzuführen sind, wenn sie nicht vom Gericht oder von der Staatsanwaltschaft durchgeführt werden,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">Ausführungen auf Ersuchen der Kriminalpolizei oder anderer Behörden (§&nbsp;98 Abs.&nbsp;1 StVG) nur auf Anordnung oder mit Zustimmung der Staatsanwaltschaft und nur zum Zweck der Teilnahme an Verhandlungen, Tatrekonstruktionen und anderen kontradiktorischen Einvernahmen, an Gegenüberstellungen, Augenscheinen sowie sonstigen Befundaufnahmen zulässig sind.</span></div></div></li></ol>
+
 ### § 185 StPO. Getrennte Anhaltung
 
 **§ 185 (1) StPO.**  
@@ -59,6 +63,7 @@ Soweit das zur Erreichung der Haftzwecke erforderlich ist, sind der Beteiligung 
 
 **§ 185 (3) StPO.**  
 Weibliche Beschuldigte sind in jedem Fall von männlichen Beschuldigten und männlichen Strafgefangenen getrennt unterzubringen.
+
 ### § 186 StPO. Kleidung und Bedarfsgegenstände
 
 **§ 186 (1) StPO.**  
@@ -66,6 +71,7 @@ Angehaltene Beschuldigte sind unter Achtung ihrer Persönlichkeit und ihres Ehrg
 
 **§ 186 (2) StPO.**  
 Angehaltene Beschuldigte sind berechtigt, sich auf eigene Kosten Bedarfsgegenstände, Dienstleistungen und andere Annehmlichkeiten zu verschaffen, soweit dies mit dem Haftzweck vereinbar ist und weder die Sicherheit gefährdet noch die Ordnung in der Anstalt erheblich beeinträchtigt oder Mithäftlinge belästigt.
+
 ### § 187 StPO. Arbeit und Arbeitsvergütung
 
 **§ 187 (1) StPO.**  
@@ -79,6 +85,7 @@ Die Arbeitsvergütung ist dem Beschuldigten nach Abzug des Vollzugskostenbeitrag
 
 **§ 187 (4) StPO.**  
 Angehaltene Beschuldigte dürfen sich auf ihre Kosten selbst beschäftigen, soweit dies mit dem Haftzweck vereinbar ist und die Ordnung in der Anstalt nicht stört. Aus dieser Beschäftigung erzielte Einkünfte sind dem Hausgeld gutzuschreiben.
+
 ### § 188 StPO. Verkehr mit der Außenwelt
 
 **§ 188 (1) StPO.**  
@@ -92,6 +99,7 @@ Angehaltene Beschuldigte sind berechtigt, auf eigene Kosten mit anderen Personen
 
 **§ 188 (3) StPO.**  
 Für die Überwachung des mündlichen und schriftlichen Verkehrs des angehaltenen Beschuldigten mit seinem Verteidiger gilt § 59 Abs. 3.
+
 ### § 189 StPO. Zuständigkeit für Entscheidungen
 
 **§ 189 (1) StPO.**  
@@ -103,10 +111,12 @@ Die Entscheidungen nach § 16 Abs. 2 Z 4 und 5 des Strafvollzugsgesetzes steh
 **§ 189 (3) StPO.**  
 Im Übrigen stehen alle Anordnungen und Entscheidungen hinsichtlich der Anhaltung in Untersuchungshaft dem Anstaltsleiter oder dem von diesem dazu bestellten Vollzugsbediensteten zu. Vor jeder Entscheidung nach den §§ 185 Abs. 2, 186 Abs. 2 und 187 Abs. 1 ist im Ermittlungsverfahren die Staatsanwaltschaft, nach Einbringung der Anklage das Gericht zu hören. Ordnungswidrigkeiten, die von angehaltenen Beschuldigten begangen wurden, sind der Staatsanwaltschaft und dem Gericht mitzuteilen. Das gleiche gilt von Vorfällen, von denen eine Beeinträchtigung der Haftzwecke zu befürchten ist.
 ## 3. TEIL | Beendigung des Ermittlungsverfahrens und Absehen von der Einleitung eines Ermittlungsverfahrens | 10. Hauptstück | Einstellung, Abbrechung und Fortführung des Ermittlungsverfahrens
+
 ### § 190 StPO. Einstellung des Ermittlungsverfahrens
 
 **§ 190 StPO.**  
  Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen und das Ermittlungsverfahren einzustellen, soweit und sobald sich ergibt, dass die dem Ermittlungsverfahren zu Grunde liegende Tat nicht mit gerichtlicher Strafe bedroht ist, die weitere Verfolgung des Beschuldigten sonst aus rechtlichen Gründen unzulässig wäre oder kein tatsächlicher Grund zu dessen weiterer Verfolgung besteht.
+
 ### § 191 StPO. Einstellung wegen Geringfügigkeit
 
 **§ 191 (1) StPO.**  
@@ -116,6 +126,7 @@ Von der Verfolgung einer Straftat, die nur mit Geldstrafe, mit einer Freiheitsst
 
 **§ 191 (2) StPO.**  
 Nach Einbringen der Anklage, im Verfahren vor dem Landesgericht als Geschworenen- oder Schöffengericht nach Rechtswirksamkeit der Anklageschrift wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht unter denselben Voraussetzungen (Abs. 1) das Verfahren bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen. § 209 Abs. 2 erster Satz gilt sinngemäß.
+
 ### § 192 StPO. Einstellung bei mehreren Straftaten
 
 **§ 192 (1) StPO.**  
@@ -126,6 +137,7 @@ Von der Verfolgung einzelner Straftaten kann die Staatsanwaltschaft endgültig o
 
 **§ 192 (2) StPO.**  
 Eine nach Abs. 1 vorbehaltene Verfolgung kann innerhalb dreier Monate nach rechtskräftigem Abschluss des inländischen oder innerhalb eines Jahres nach rechtskräftigem Abschluss des ausländischen Strafverfahrens wieder aufgenommen werden. Ein abermaliger Vorbehalt wegen einzelner Straftaten ist sodann unzulässig.
+
 ### § 193 StPO. Fortführung des Verfahrens
 
 **§ 193 (1) StPO.**  
@@ -138,6 +150,7 @@ Die Fortführung eines nach den §§ 190 oder 191 beendeten Ermittlungsverfahre
 
 **§ 193 (3) StPO.**  
 Die Fortführung eines nach § 192 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, wenn sie sich die spätere Verfolgung vorbehalten hat (§ 192 Abs. 2) oder die Voraussetzungen des Abs. 2 Z 2 vorliegen.
+
 ### § 194 StPO. Verständigungen
 
 **§ 194 (1) StPO.**  
@@ -150,6 +163,7 @@ In einer Verständigung von der Einstellung des Ermittlungsverfahrens ist anzuf�
 Von der Einstellung eines Ermittlungsverfahrens,
 1. das von der WKStA gemäß den Bestimmungen der §§ 20a oder 20b oder von einer anderen Staatsanwaltschaft wegen der in diesen Bestimmungen angeführten Vergehen oder Verbrechen geführt wurde und an dem wegen der Bedeutung der Straftat oder der Person des Beschuldigten ein besonderes öffentliches Interesse besteht, oder in dem noch nicht hinreichend geklärte Rechtsfragen von grundsätzlicher Bedeutung beurteilt wurden, oder
 2. das sonst wegen einer Straftat geführt wurde, für das im Hauptverfahren das Landesgericht als Geschworenen- oder Schöffengericht zuständig wäre und an dem kein Opfer im Sinne des § 65 Z 1 beteiligt war,
+
 ### § 195 StPO. Antrag auf Fortführung
 
 **§ 195 (1) StPO.**  
@@ -166,6 +180,7 @@ In den in § 194 Abs. 3 genannten Fällen steht überdies dem Rechtsschutzbeau
 
 **§ 195 (3) StPO.**  
 Erachtet die Staatsanwaltschaft den Antrag für berechtigt, so hat sie das Verfahren unabhängig von den Voraussetzungen des § 193 Abs. 2 Z 1 oder 2 fortzuführen. Andernfalls hat sie ihn mit dem Akt und einer Stellungnahme dem Gericht zu übermitteln.
+
 ### § 196 StPO.
 
 **§ 196 (1) StPO.**  
@@ -176,6 +191,7 @@ Anträge, die verspätet oder von einer nicht berechtigten Person eingebracht wu
 
 **§ 196 (3) StPO.**  
 Gibt das Gericht dem Antrag statt, so hat die Staatsanwaltschaft das Verfahren fortzuführen.
+
 ### § 196a StPO. Beitrag zu den Kosten der Verteidigung im Ermittlungsverfahren
 
 **§ 196a (1) StPO.**  
@@ -195,6 +211,7 @@ Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss, mit dem über 
 
 **§ 196a (6) StPO.**  
 Weitergehende Rechte des Beschuldigten nach diesem Bundesgesetz, dem Amtshaftungsgesetz, BGBl. Nr. 20/1949, und dem Strafrechtlichen Entschädigungsgesetz 2005, BGBl. I Nr. 125/2004, bleiben unberührt.
+
 ### § 197 StPO. Abbrechung des Ermittlungsverfahrens gegen Abwesende und gegen unbekannte Täter
 
 **§ 197 (1) StPO.**  

@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 4. TEIL | Haupt- und Rechtsmittelverfahren | 12. Hauptstück | Die Anklage | 1. Abschnitt | Allgemeines
+
 ### § 210 StPO. Die Anklage
 
 **§ 210 (1) StPO.**  
@@ -20,6 +21,7 @@ Die Festnahme des Angeklagten ist auf Antrag der Staatsanwaltschaft vom Gericht 
 **§ 210 (4) StPO.**  
 Außerhalb der Hauptverhandlung bestimmt sich die Zuständigkeit des Landesgerichts als Geschworenen- oder Schöffengericht nach § 32 Abs. 3.
 ## 2. Abschnitt | Die Anklageschrift
+
 ### § 211 StPO. Inhalt der Anklageschrift
 
 **§ 211 (1) StPO.**  
@@ -30,11 +32,13 @@ Die Anklageschrift hat anzuführen:
 
 **§ 211 (2) StPO.**  
 In der Anklageschrift hat die Staatsanwaltschaft ihre Anträge für das Hauptverfahren zu stellen und dabei insbesondere auch die Beweise anzuführen, die im Hauptverfahren aufgenommen werden sollen; die Zuständigkeit des angerufenen Gerichts ist erforderlichenfalls zu begründen. Schließlich ist der Sachverhalt nach den Ergebnissen des Ermittlungsverfahrens zusammenzufassen und zu beurteilen.
+
 ### § 212 StPO. Einspruch gegen die Anklageschrift
 
 **§ 212 StPO.**  
  Gegen die Anklageschrift steht dem Angeklagten Einspruch zu, wenn
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die zur Last gelegte Tat nicht mit gerichtlicher Strafe bedroht ist oder sonst ein Grund vorliegt, der die Verurteilung des Angeklagten aus rechtlichen Gründen ausschließt,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Dringlichkeit und Gewicht des Tatverdachts trotz hinreichend geklärten Sachverhalts nicht ausreichen, um eine Verurteilung des Angeklagten auch nur für möglich zu halten und von weiteren Ermittlungen eine Intensivierung des Verdachts nicht zu erwarten ist,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">der Sachverhalt nicht soweit geklärt ist, dass eine Verurteilung des Angeklagten nahe liegt,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">die Anklageschrift sonst an wesentlichen formellen Mängeln leidet (§&nbsp;211)</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">5.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die Anklageschrift ein für die angeklagte Straftat sachlich nicht zuständiges Gericht anruft,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">6.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die Anklageschrift ein örtlich nicht zuständiges Gericht anruft,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">7.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">der nach dem Gesetz erforderliche Antrag eines hiezu Berechtigten fehlt oder</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">8.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">die Staatsanwaltschaft das Verfahren zu Unrecht nachträglich gemäß §&nbsp;205 Abs.&nbsp;2 oder nach §&nbsp;38 Abs.&nbsp;1 oder 1a SMG fortgesetzt hat.</span></div></div></li></ol>
+
 ### § 213 StPO.
 
 **§ 213 (1) StPO.**  
@@ -54,6 +58,7 @@ Sobald die Anklageschrift rechtswirksam geworden ist, kann die örtliche Unzust�
 
 **§ 213 (6) StPO.**  
 Ein Einspruch ist dem Oberlandesgericht vorzulegen. Hat das Gericht Bedenken gegen seine Zuständigkeit, so hat es diese dem Oberlandesgericht unter Angabe der Gründe mitzuteilen, und zwar auch dann, wenn ein Einspruch nicht erhoben wurde. Für ein solches Begehren gelten die Vorschriften über den Einspruch sinngemäß.
+
 ### § 214 StPO. Verfahren vor dem Oberlandesgericht
 
 **§ 214 (1) StPO.**  
@@ -64,6 +69,7 @@ Treffen dieselben Gründe auch auf eine Person zu, die keinen Einspruch erhoben 
 
 **§ 214 (3) StPO.**  
 Wird der Einspruch von einem Angeklagten erhoben, der sich in Untersuchungshaft befindet, so hat das Oberlandesgericht von Amts wegen über die Haft zu entscheiden. Beschließt das Oberlandesgericht die Fortsetzung der Haft, so gilt § 174 Abs. 3 Z 1 bis 5 sinngemäß.
+
 ### § 215 StPO.
 
 **§ 215 (1) StPO.**  
@@ -84,10 +90,12 @@ Das Oberlandesgericht kann auch einzelne Anklagepunkte teils auf die eine, teils
 **§ 215 (6) StPO.**  
 Liegt keiner der Fälle der Abs. 2 bis 4 vor, so hat das Oberlandesgericht den Einspruch abzuweisen und die Rechtswirksamkeit der Anklageschrift festzustellen.
 ## 13. Hauptstück
+
 ### § 220 StPO. Vorbereitungen zur Hauptverhandlung
 
 **§ 220 StPO.**  
  Beteiligte des Hauptverfahrens sind neben der Staatsanwaltschaft (§ 210 Abs. 2) der Angeklagte (§ 48 Abs. 1 Z 2), der Haftungsbeteiligte (§ 64), der Privatankläger (§ 71), der Subsidiarankläger (§ 72) sowie der Privatbeteiligte (§ 67).
+
 ### § 221 StPO.
 
 **§ 221 (1) StPO.**  
@@ -101,6 +109,7 @@ Die Hauptverhandlung findet grundsätzlich am Sitz des Landesgerichts statt; zu 
 
 **§ 221 (4) StPO.**  
 Ist zu erwarten, dass die Hauptverhandlung von längerer Dauer sein wird, so ist für den Fall der Verhinderung eines Richters oder Schöffen die erforderliche Anzahl von Ersatzrichtern und Ersatzschöffen, und zwar nach der in der Geschäftsverteilung beziehungsweise Dienstliste (§§ 13 und 14 des Geschworenen- und Schöffengesetzes – GSchG, BGBl. Nr. 256/1990) zu bestimmenden Reihenfolge zu laden. Auf § 32 Abs. 2 ist Bedacht zu nehmen.
+
 ### § 222 StPO.
 
 **§ 222 (1) StPO.**  
@@ -111,10 +120,12 @@ Ist dem Antrag stattzugeben, so hat der Vorsitzende die Liste der neuen Beweismi
 
 **§ 222 (3) StPO.**  
 Dem Verteidiger steht es auch frei, eine schriftliche Gegenäußerung (§ 244 Abs. 3) zur Anklageschrift einzubringen, in die er die Anträge gemäß Abs. 1 aufzunehmen hat. Für eine solche Gegenäußerung gilt Abs. 1; stützt sich die Anklageschrift auf Befund und Gutachten eines Sachverständigen, so kann der Gegenäußerung eine Stellungnahme samt Schlussfolgerungen einer Person mit besonderem Fachwissen zur Begründung eines Beweisantrags nach Abs. 1 angeschlossen werden.
+
 ### § 223 StPO.
 
 **§ 223 StPO.**  
  (Aufgehoben)
+
 ### § 226 StPO.
 
 **§ 226 (1) StPO.**  
@@ -132,6 +143,7 @@ Wegen einer Verhinderung des Verteidigers findet eine Vertagung nur dann statt, 
 
 **§ 226 (4) StPO.**  
 Gegen einen Beschluss gemäß Abs. 1 steht den Beteiligten ein selbständiges, die weitere Verhandlung hemmendes Rechtsmittel nicht zu.
+
 ### § 227 StPO.
 
 **§ 227 (1) StPO.**  
@@ -140,6 +152,7 @@ Tritt die Staatsanwaltschaft vor Beginn der Hauptverhandlung von der Anklage zur
 **§ 227 (2) StPO.**  
 Die Staatsanwaltschaft hat das Recht, die von ihr eingebrachte Anklageschrift unter gleichzeitiger Einbringung einer neuen zurückzuziehen, wenn dies erforderlich ist, um eine gemeinsame Verfahrensführung wegen neuer Vorwürfe oder einer auf Grund neuer Tatsachen oder Beweismittel geänderten rechtlichen Beurteilung zu ermöglichen. Mit der neuen Anklageschrift ist sodann nach den im 12. Hauptstück enthaltenen Bestimmungen zu verfahren.
 ## 14. Hauptstück | Hauptverhandlung vor dem Landesgericht als Schöffengericht und Rechtsmittel gegen dessen Urteile | I. Hauptverhandlung und Urteil | 1. Öffentlichkeit der Hauptverhandlung
+
 ### § 228 StPO.
 
 **§ 228 (1) StPO.**  
@@ -153,6 +166,7 @@ Unmündige können als Zuhörer von der Hauptverhandlung ausgeschlossen werden, 
 
 **§ 228 (4) StPO.**  
 Fernseh- und Hörfunkaufnahmen und -übertragungen sowie Film- und Fotoaufnahmen von Verhandlungen der Gerichte sind unzulässig.
+
 ### § 229 StPO.
 
 **§ 229 (1) StPO.**  
@@ -169,6 +183,7 @@ Ein Beschluss gemäß Abs. 2 ist samt Gründen in öffentlicher Sitzung zu verk
 
 **§ 229 (4) StPO.**  
 Die Verkündung des Urteils (§§ 259, 260) hat stets in öffentlicher Sitzung zu erfolgen.
+
 ### § 230 StPO.
 
 **§ 230 (1) StPO.**  
@@ -176,10 +191,11 @@ Nach der öffentlichen Verkündung dieses Beschlusses müssen sich alle Zuhörer
 
 **§ 230 (2) StPO.**  
 Richter und Staatsanwälte des Dienststandes, Richteramtsanwärter und Rechtspraktikanten sowie die in § 48 Abs. 1 Z 5 genannten Personen dürfen niemals ausgeschlossen werden. Angeklagte, Opfer, Privatbeteiligte oder Privatankläger können verlangen, dass drei Personen ihres Vertrauens der Zutritt gestattet werde. § 160 Abs. 2 und 3 ist sinngemäß anzuwenden.
+
 ### § 230a StPO.
 
 **§ 230a StPO.**  
  Soweit die Öffentlichkeit einer Verhandlung ausgeschlossen worden ist, ist es untersagt, Mitteilungen daraus zu veröffentlichen. Auch kann das Gericht den anwesenden Personen die Geheimhaltung der Tatsachen zur Pflicht machen, die durch die Verhandlung zu ihrer Kenntnis gelangen. Dieser Beschluß ist im Verhandlungsprotokoll zu beurkunden.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-03')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;70)</span></span></p>
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-04')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;70)</span></span></p>
 
 **END-OF-FILE**

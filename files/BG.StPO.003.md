@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 4. Abschnitt | Ausschließung und Befangenheit
+
 ### § 43 StPO. Ausgeschlossenheit von Richtern
 
 **§ 43 (1) StPO.**  
@@ -22,6 +23,7 @@ Ein Richter eines Rechtsmittelgerichts ist überdies ausgeschlossen, wenn er sel
 
 **§ 43 (4) StPO.**  
 Ein Richter ist ebenso von der Entscheidung über einen Antrag auf Wiederaufnahme oder einen Antrag auf Erneuerung des Strafverfahrens (§ 363a) und von der Mitwirkung und Entscheidung im erneuerten Verfahren ausgeschlossen, wenn er im Verfahren bereits als Richter tätig gewesen ist.
+
 ### § 44 StPO. Anzeige der Ausgeschlossenheit und Antrag auf Ablehnung
 
 **§ 44 (1) StPO.**  
@@ -32,6 +34,7 @@ Ein Richter, dem ein Ausschließungsgrund bekannt wird, hat diesen sogleich dem 
 
 **§ 44 (3) StPO.**  
 Allen Beteiligten des Verfahrens steht der Antrag auf Ablehnung eines Richters wegen Ausschließung zu. Er ist bei dem Richter einzubringen, dem die Ausschließung gemäß Abs. 2 anzuzeigen wäre.
+
 ### § 45 StPO. Entscheidung über Ausschließung
 
 **§ 45 (1) StPO.**  
@@ -42,10 +45,12 @@ Der Antrag ist als unzulässig zurückzuweisen, wenn er von einer Person eingebr
 
 **§ 45 (3) StPO.**  
 Gegen einen Beschluss nach Abs. 2 steht ein selbstständiges Rechtsmittel nicht zu.
+
 ### § 46 StPO. Ausschließung von Geschworenen, Schöffen und Protokollführern
 
 **§ 46 StPO.**  
  Für die Ausschließung und Ablehnung von Geschworenen und Schöffen sind die Bestimmungen über Richter sinngemäß mit der Maßgabe anzuwenden, dass über die Ablehnung der Vorsitzende des Geschworenen- oder Schöffengerichts zu entscheiden hat. Für Protokollführer gelten die Ausschließungsgründe des § 43 Abs. 1; über ihre Ablehnung entscheidet der Richter oder der Vorsitzende des jeweiligen Senates.
+
 ### § 47 StPO. Befangenheit von Kriminalpolizei und Staatsanwaltschaft
 
 **§ 47 (1) StPO.**  
@@ -60,6 +65,7 @@ Bei Gefahr im Verzug hat, wenn die Vertretung durch ein anderes Organ nicht sogl
 **§ 47 (3) StPO.**  
 Über die Befangenheit hat der Leiter der Behörde, der das Organ angehört, im Fall der Befangenheit des Leiters dieser Behörde der Leiter der übergeordneten Behörde im Dienstaufsichtsweg zu entscheiden und das Erforderliche zu veranlassen.
 ## 5. Abschnitt
+
 ### § 47a StPO. Rechtsschutzbeauftragter
 
 **§ 47a (1) StPO.**  
@@ -86,6 +92,7 @@ Dem Rechtsschutzbeauftragten gebührt als Entschädigung für die Erfüllung sei
 **§ 47a (7) StPO.**  
 Bis zum 31. März eines jeden Jahres hat der Rechtschutzbeauftragte dem Bundesminister für Justiz einen Bericht über seine Tätigkeit und seine Wahrnehmungen im Rahmen seiner Aufgabenerfüllung (§ 23 Abs. 1a, § 115l, § 147, § 195 Abs. 2a, § 209a Abs. 6) im vorangegangenen Jahr zu übermitteln.
 ## 3. Hauptstück | Beschuldigter und Verteidiger | 1. Abschnitt | Allgemeines
+
 ### § 48 StPO. Definitionen
 
 **§ 48 (1) StPO.**  
@@ -99,6 +106,7 @@ Im Sinne dieses Gesetzes ist
 **§ 48 (2) StPO.**  
 Soweit die Bestimmungen dieses Gesetzes auf den Beschuldigten verweisen und im Einzelnen nichts anderes bestimmt wird, sind sie auch auf Verdächtige, Angeklagte und auf Personen anzuwenden, gegen die ein Verfahren zur Unterbringung in einem forensisch-therapeutischen Zentrum nach § 21 StGB geführt wird.
 ## 2. Abschnitt | Der Beschuldigte
+
 ### § 49 StPO. Rechte des Beschuldigten
 
 **§ 49 (1) StPO.**  
@@ -119,6 +127,7 @@ Der Beschuldigte hat insbesondere das Recht,
 
 **§ 49 (2) StPO.**  
 Der Beschuldigte hat das Recht, dass Opfern, Privatbeteiligten oder Privatanklägern Akteneinsicht (§ 68) nur insoweit gewährt wird, als dies zur Wahrung ihrer Interessen erforderlich ist.
+
 ### § 50 StPO. Rechtsbelehrung
 
 **§ 50 (1) StPO.**  
@@ -129,6 +138,7 @@ Die Rechtsbelehrung ist in einer Sprache, die der Beschuldigte versteht, und in 
 
 **§ 50 (3) StPO.**  
 Der Umstand der erteilten oder ergänzten Belehrung des Beschuldigten sowie eines Verzichts auf ein Recht des Beschuldigten ist schriftlich festzuhalten (§§ 95 und 96).
+
 ### § 51 StPO. Akteneinsicht
 
 **§ 51 (1) StPO.**  
@@ -139,6 +149,7 @@ Soweit die im § 162 angeführte Gefahr besteht, ist es zulässig, personenbezo
 
 **§ 51 (3) StPO.**  
 Einfache Auskünfte können auch mündlich erteilt werden. Hiefür gelten die Bestimmungen über Akteneinsicht sinngemäß.
+
 ### § 52 StPO.
 
 **§ 52 (1) StPO.**  
@@ -153,6 +164,7 @@ In folgenden Fällen hat der Beschuldigte keine Gebühren nach Abs. 1 zu entric
 
 **§ 52 (3) StPO.**  
 Dem Verfahrenshilfeverteidiger sind unverzüglich Kopien des Aktes von Amts wegen, im Haftfall durch das Gericht zuzustellen. Gleiches gilt für die Fälle des Abs. 2 Z 2 und 3. Der Verteidiger des in Haft befindlichen Beschuldigten kann beantragen, dass ihm durch die Staatsanwaltschaft Kopien oder Ausdrucke der in Abs. 2 Z 2 und 3 angeführten Aktenstücke auch in weiterer Folge von Amts wegen übermittelt werden.
+
 ### § 53 StPO. Verfahren bei Akteneinsicht
 
 **§ 53 (1) StPO.**  
@@ -160,10 +172,12 @@ Einsicht in den jeweiligen Akt kann im Ermittlungsverfahren bei der Staatsanwalt
 
 **§ 53 (2) StPO.**  
 Soweit Akteneinsicht zusteht, ist sie grundsätzlich während der Amtsstunden in den jeweiligen Amtsräumen zu ermöglichen. Im Rahmen der technischen Möglichkeiten kann sie auch über Bildschirm oder im Wege elektronischer Datenübertragung gewährt werden. Es ist unzulässig, dem Beschuldigten oder seinem Vertreter Akten oder Teile davon zur Herstellung von Kopien außerhalb des Amtsgebäudes mitzugeben.
+
 ### § 54 StPO. Verbot der Veröffentlichung
 
 **§ 54 StPO.**  
  Der Beschuldigte und sein Verteidiger sind berechtigt, Informationen, die sie im Verfahren in nicht öffentlicher Verhandlung oder im Zuge einer nicht öffentlichen Beweisaufnahme oder durch Akteneinsicht erlangt haben, im Interesse der Verteidigung und anderer überwiegender Interessen zu verwerten. Es ist ihnen jedoch untersagt, solche Informationen, soweit sie personenbezogene Daten anderer Beteiligter des Verfahrens oder Dritter enthalten und nicht in öffentlicher Verhandlung vorgekommen sind oder sonst öffentlich bekannt wurden, in einem Medienwerk oder sonst auf eine Weise zu veröffentlichen, dass die Mitteilung einer breiten Öffentlichkeit zugänglich wird, wenn dadurch schutzwürdige Geheimhaltungsinteressen (§ 1 Abs. 1 DSG) anderer Beteiligter des Verfahrens oder Dritter, die gegenüber dem öffentlichen Informationsinteresse überwiegen, verletzt würden.
+
 ### § 55 StPO. Beweisanträge
 
 **§ 55 (1) StPO.**  
@@ -180,6 +194,7 @@ Im Ermittlungsverfahren kann die Aufnahme eines Beweises der Hauptverhandlung vo
 
 **§ 55 (4) StPO.**  
 Die Kriminalpolizei hat im Ermittlungsverfahren den beantragten Beweis aufzunehmen oder den Antrag mit Anlassbericht (§ 100 Abs. 2 Z 2) der Staatsanwaltschaft vorzulegen. Die Staatsanwaltschaft hat ihrerseits die Beweisaufnahme zu veranlassen oder den Beschuldigten zu verständigen, aus welchen Gründen sie unterbleibt.
+
 ### § 56 StPO. Übersetzungshilfe
 
 **§ 56 (1) StPO.**  

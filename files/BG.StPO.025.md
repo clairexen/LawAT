@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 3. Abschnitt | Verfahren beim Verfall, beim erweiterten Verfall und bei der Einziehung
+
 ### § 443 StPO.
 
 **§ 443 (1) StPO.**  
@@ -16,6 +17,7 @@ Wenn die Ergebnisse des Strafverfahrens weder an sich noch nach Durchführung vo
 
 **§ 443 (3) StPO.**  
 Die Entscheidung über vermögensrechtliche Anordnungen steht, außer im Fall des § 445a, dem Ausspruch über die Strafe gleich und kann zugunsten und zum Nachteil des Verurteilten oder des Haftungsbeteiligten (§§ 64, 444) mit Berufung angefochten werden.
+
 ### § 444 StPO.
 
 **§ 444 (1) StPO.**  
@@ -23,6 +25,7 @@ Die Hauptverhandlung und die Urteilsverkündung können in Abwesenheit des Haftu
 
 **§ 444 (2) StPO.**  
 Hat ein Haftungsbeteiligter sein Recht nicht vor Rechtskraft der Entscheidung über den Verfall, den erweiterten Verfall oder die Einziehung geltend gemacht, so kann er seine Ansprüche auf den Gegenstand oder Vermögenswert oder dessen Verkaufs- oder Verwertungserlös (§ 408) binnen dreißig Jahren nach der Entscheidung gegen den Bund im Zivilrechtsweg geltend machen.
+
 ### § 445 StPO.
 
 **§ 445 (1) StPO.**  
@@ -39,6 +42,7 @@ Die vorstehenden Absätze gelten sinngemäß auch für eine Anordnung der Konfis
 
 **§ 445 (4) StPO.**  
 Das Urteil kann in sinngemäßer Anwendung der §§ 463 bis 468 (§ 489) zugunsten und zum Nachteil des Betroffenen mit Berufung angefochten werden; § 444 Abs. 1 letzter Satz gilt entsprechend.
+
 ### § 445a StPO.
 
 **§ 445a (1) StPO.**  
@@ -46,11 +50,13 @@ Das Urteil kann in sinngemäßer Anwendung der §§ 463 bis 468 (§ 489) zugun
 
 **§ 445a (2) StPO.**  
 In den Fällen, in denen das Verfahren durch die Staatsanwaltschaft nach den Bestimmungen des 10. oder 11. Hauptstücks, anderen auf sie verweisenden Vorschriften oder gemäß § 35 SMG beendet wird, hat die Staatsanwaltschaft nach Durchführung des in Abs. 1 vorgesehenen Verfahrens die Einziehung anzuordnen und das in § 408 Abs. 2 vorgesehene Verfahren durchzuführen, soweit nicht ein Haftungsbeteiligter die Entscheidung des Gerichts verlangt. § 444 Abs. 2 gilt sinngemäß.
+
 ### § 446 StPO.
 
 **§ 446 StPO.**  
  Ergeben sich die Voraussetzungen für das selbständige Verfahren erst in der Hauptverhandlung, so kann die Entscheidung auch in einem Urteil ergehen, in dem der Angeklagte freigesprochen oder der Antrag auf Anstaltsunterbringung abgewiesen wird.
 **FIXME** H4: <h4 class="UeberschrG1- AlignCenter">4.&nbsp;Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Verfahren bei der Ausschließung vom Wahlrecht</span></h4>
+
 ### § 446a StPO.
 
 **§ 446a (1) StPO.**  
@@ -59,15 +65,18 @@ In den Fällen, in denen das Verfahren durch die Staatsanwaltschaft nach den Bes
 **§ 446a (2) StPO.**  
 Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs. 1 gefällt worden wäre, so ist nach § 410 vorzugehen.
 ## 22. Hauptstück | Verfahren vor dem Bezirksgericht
+
 ### § 447 StPO.
 
 **§ 447 StPO.**  
  Für das Hauptverfahren vor dem Bezirksgericht gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird.
 ## 1. Abschnitt | Hauptverfahren
+
 ### § 450 StPO.
 
 **§ 450 StPO.**  
  Ist das Bezirksgericht der Ansicht, dass das Landesgericht zuständig sei, so hat es vor Anordnung der Hauptverhandlung seine sachliche Unzuständigkeit mit Beschluss auszusprechen. Sobald die Entscheidung rechtswirksam geworden ist, hat der Ankläger die für die Fortführung des Verfahrens erforderlichen Anträge zu stellen.
+
 ### § 451 StPO.
 
 **§ 451 (1) StPO.**  
@@ -81,6 +90,7 @@ Wird dem Richter zugleich der Angeklagte vorgeführt und gesteht er die ihm zur 
 
 **§ 451 (4) StPO.**  
 (Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+
 ### § 455 StPO.
 
 **§ 455 (1) StPO.**  
@@ -91,28 +101,34 @@ Ist der Angeklagte nicht verhaftet, so kann er sich, wenn er nicht persönlich e
 
 **§ 455 (3) StPO.**  
 Lässt sich der Angeklagte durch einen Machthaber vertreten, so kommt diesem in der Hauptverhandlung die Stellung des Angeklagten zu.
+
 ### § 456 StPO.
 
 **§ 456 StPO.**  
  In Privatanklagesachen ist die Öffentlichkeit auch auszuschließen, wenn der Ankläger einem darauf gerichteten Antrag des Angeklagten nicht entgegen tritt.
+
 ### § 457 StPO.
 
 **§ 457 StPO.**  
  Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr.
+
 ### § 458 StPO.
 
 **§ 458 StPO.**  
  Der Richter ist berechtigt, nach Schluss der Verhandlung die Fällung des Urteils bis auf den folgenden Tag auszusetzen. Im Übrigen gelten jedoch auch für die Verhandlung vor dem Bezirksgericht die Bestimmungen des 14. Hauptstückes.
 ## 2. Abschnitt
+
 ### § 463 StPO. Rechtsmittel gegen Urteile der Bezirksgerichte
 
 **§ 463 StPO.**  
  Gegen Urteile der Bezirksgerichte, die gegen einen Anwesenden ergangen sind, ist nur das Rechtsmittel der Berufung zulässig, und zwar an das Landesgericht, in dessen Sprengel das Bezirksgericht liegt.
+
 ### § 464 StPO.
 
 **§ 464 StPO.**  
  Die Berufung kann ergriffen werden:
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">wegen vorliegender Nichtigkeitsgründe;</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">wegen des Ausspruches über die Schuld und die Strafe, wegen des Strafausspruches jedoch nur unter den im §&nbsp;283 bezeichneten Voraussetzungen;</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">wegen des Ausspruches über die privatrechtlichen Ansprüche.</div></div></li></ol>
+
 ### § 465 StPO.
 
 **§ 465 (1) StPO.**  
@@ -123,6 +139,7 @@ Erben des Angeklagten, die nicht in einem der erwähnten Verhältnisse zum Angek
 
 **§ 465 (3) StPO.**  
 Zum Nachteile des Angeklagten kann die Berufung nur vom Ankläger und vom Privatbeteiligten, von diesem aber nur wegen Nichtigkeit unter den in § 282 Abs. 2 geregelten Voraussetzungen und wegen seiner privatrechtlichen Ansprüche ergriffen werden.
+
 ### § 466 StPO.
 
 **§ 466 (1) StPO.**  
@@ -145,6 +162,7 @@ Wenn der zu einer Freiheitsstrafe Verurteilte sich weder durch den Ausspruch üb
 
 **§ 466 (7) StPO.**  
 Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden.
+
 ### § 467 StPO.
 
 **§ 467 (1) StPO.**  
@@ -161,6 +179,7 @@ Geschieht die Anmeldung der Berufung mündlich, so hat der Richter, der das Prot
 
 **§ 467 (5) StPO.**  
 Die Berufung oder Berufungsausführung ist in zweifacher Ausfertigung vorzulegen oder aufzunehmen. Eine Ausfertigung ist dem Gegner mit dem Bedeuten mitzuteilen, daß er binnen vier Wochen seine Gegenausführung überreichen könne. Die Gegenausführung ist dem Beschwerdeführer zuzustellen; danach sind alle Akten dem Landesgericht – gegebenenfalls samt einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs. 5 erster Satz oder 62a Abs. 5 erster Satz VfGG – vorzulegen.
+
 ### § 468 StPO.
 
 **§ 468 (1) StPO.**  
@@ -174,22 +193,26 @@ Wegen Nichtigkeit kann die Berufung gegen Urteile der Bezirksgerichte, sofern si
 **§ 468 (2) StPO.**  
 Die unter Abs. 1 Z. 1 und 3 erwähnten Nichtigkeitsgründe können nur unter den in den §§ 281 und 282 Abs. 2 bezeichneten Bedingungen geltend gemacht werden; doch wird auch der Ankläger der Geltendmachung eines Nichtigkeitsgrundes deshalb nicht verlustig, weil er hinsichtlich eines Formgebrechens die Entscheidung des Richters nicht begehrt und sich die Beschwerde nicht sofort nach Verweigerung oder Verkündung der Entscheidung vorbehalten hat.
 **FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(________</span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;I Z&nbsp;198 lit.&nbsp;b der Novelle <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-03')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a> lautet: „Im Abs.&nbsp;1 Z&nbsp;2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt.“. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“.)</span><br></span></p>
+**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;I Z&nbsp;198 lit.&nbsp;b der Novelle <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-04')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a> lautet: „Im Abs.&nbsp;1 Z&nbsp;2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt.“. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“.)</span><br></span></p>
+
 ### § 469 StPO.
 
 **§ 469 StPO.**  
  Das Landesgericht berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder die Staatsanwaltschaft einen der im § 470 angeführten Beschlüsse beantragt.
+
 ### § 470 StPO.
 
 **§ 470 StPO.**  
  Bei der nichtöffentlichen Beratung kann das Landesgericht:
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die Berufung als unzulässig zurückweisen, wenn sie zu spät angemeldet oder von einer Person ergriffen worden ist, der das Berufungsrecht überhaupt nicht oder nicht in der Richtung zusteht, in der es in Anspruch genommen wird, oder die darauf verzichtet hat; ferner, wenn der Berufungswerber bei der Anmeldung der Berufung oder in ihrer Ausführung die Punkte des Erkenntnisses, durch die er sich beschwert findet, oder die Nichtigkeitsgründe, derentwegen allein die Berufung ergriffen worden ist, nicht deutlich und bestimmt bezeichnet hat, in welchen Fällen es gegebenenfalls diesen Beschluss dem Verfassungsgerichtshof zu übermitteln hat;</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">beschließen, Aufklärungen über behauptete Formverletzungen einzuholen, oder seine eigene Unzuständigkeit aussprechen und die Strafsache an das zuständige Landesgericht abtreten;</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">wenn schon vor der öffentlichen Verhandlung über die Berufung feststeht, daß das Urteil aufzuheben und die Verhandlung in erster Instanz zu wiederholen oder nach dem 11. Hauptstück oder §&nbsp;37 SMG vorzugehen ist, der Berufung stattgeben, das Urteil, soweit es angefochten wird, aufheben und die Sache an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Gerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht zurückweisen.</span></div></div></li></ol>
+
 ### § 471 StPO.
 
 **§ 471 StPO.**  
  Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhandlung sowie für die Entscheidung über die Berufung gelten §§ 233 bis 237, 286 Abs. 1 und 1a (Anm. 1), 287, 288 Abs. 2 Z 3 erster Satz, 289, 290, 293 Abs. 4, 294, 295 sowie 296a sinngemäß, soweit im Folgenden nicht anderes bestimmt wird.
 **FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(___________</span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;1 Z&nbsp;75 der Novelle <a href="/eli/bgbl/I/2024/157" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2024_I_157', 'BGBl. I Nr. 157/2024', '2025-06-03')">BGBl.&nbsp;I Nr.&nbsp;157/2024</a> lautet: „In §&nbsp;471 wird das Zitat „§&nbsp;286 Abs.&nbsp;1 und 1a“ durch das Zitat „§&nbsp;286 Abs.&nbsp;1 und 2 zweiter Satz“ ersetzt“.“. Die Anweisung konnte nicht durchgeführt werden.)</span></span></p>
+**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;1 Z&nbsp;75 der Novelle <a href="/eli/bgbl/I/2024/157" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2024_I_157', 'BGBl. I Nr. 157/2024', '2025-06-04')">BGBl.&nbsp;I Nr.&nbsp;157/2024</a> lautet: „In §&nbsp;471 wird das Zitat „§&nbsp;286 Abs.&nbsp;1 und 1a“ durch das Zitat „§&nbsp;286 Abs.&nbsp;1 und 2 zweiter Satz“ ersetzt“.“. Die Anweisung konnte nicht durchgeführt werden.)</span></span></p>
+
 ### § 473 StPO.
 
 **§ 473 (1) StPO.**  
@@ -206,10 +229,12 @@ Dem Angeklagten oder seinem Verteidiger gebührt jedenfalls das Recht der letzte
 
 **§ 473 (5) StPO.**  
 Hierauf zieht sich das Landesgericht zur Beratung und Beschlußfassung zurück.
+
 ### § 474 StPO.
 
 **§ 474 StPO.**  
  Nach Maßgabe der folgenden Bestimmungen erkennt das Landesgericht in der Sache selbst nach den für das Landesgericht als Schöffengericht geltenden Bestimmungen, es sei denn, dass die Berufung als unzulässig oder unbegründet zurückgewiesen wird oder sich das angerufene Landesgericht für unzuständig erklärt.
+
 ### § 475 StPO.
 
 **§ 475 (1) StPO.**  
@@ -223,10 +248,12 @@ Hat das Bezirksgericht bezüglich einer Tatsache, auf die sich die Anklage bezie
 
 **§ 475 (4) StPO.**  
 Hat das Bezirksgericht das Vorliegen der Voraussetzungen für eine Einstellung des Strafverfahrens nach dem 11. Hauptstück (§ 199) oder § 37 SMG zu Unrecht nicht angenommen, so verweist das Landesgericht die Sache an dasselbe oder an ein anderes Bezirksgericht mit dem Auftrag, nach den entsprechenden Bestimmungen vorzugehen.
+
 ### § 476 StPO.
 
 **§ 476 StPO.**  
  In den im § 475 Abs. 1 und 3 erwähnten Fällen steht es jedoch der Berufungsbehörde frei, sofort oder in einer späteren Sitzung, nötigenfalls unter Wiederholung oder Ergänzung der in erster Instanz gepflogenen Verhandlung und unter Verbesserung der mangelhaft befundenen Prozeßhandlung, in der Sache selbst zu erkennen.
+
 ### § 478 StPO.
 
 **§ 478 (1) StPO.**  
@@ -237,10 +264,12 @@ Gegen ein Urteil des Bezirksgerichtes, das gemäß § 427 in Abwesenheit des An
 
 **§ 478 (3) StPO.**  
 Findet das Bezirksgericht oder infolge der Beschwerde das Landesgericht den Einspruch begründet, so ist eine neue Verhandlung vor dem Bezirksgericht anzuordnen, bei der, wenn der Angeklagte erscheint, die Sache so verhandelt wird, wie im § 457 vorgeschrieben ist.
+
 ### § 479 StPO.
 
 **§ 479 StPO.**  
  Gegen die Urteile der Landesgerichte über eine gemäß den §§ 463, 464 und 478 an sie gelangte Berufung ist ein weiteres Rechtsmittel nicht zulässig.
+
 ### § 480 StPO.
 
 **§ 480 StPO.**  

@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 3. Abschnitt | Untersuchungshaft
+
 ### § 173 StPO. Zulässigkeit
 
 **§ 173 (1) StPO.**  
@@ -46,6 +47,7 @@ Als gelindere Mittel sind insbesondere anwendbar:
 7. vorläufige Bewährungshilfe nach § 179,
 8. die Leistung einer Sicherheit nach den §§ 180 und 181,
 9. mit Zustimmung des Beschuldigten die Weisung, sich einer Entwöhnungsbehandlung, sonst einer medizinischen Behandlung oder einer Psychotherapie (§ 51 Abs. 3 StGB) oder einer gesundheitsbezogenen Maßnahme (§ 11 Abs. 2 SMG) zu unterziehen.
+
 ### § 173a StPO. Hausarrest
 
 **§ 173a (1) StPO.**  
@@ -62,6 +64,7 @@ Das Gericht hat den Hausarrest zu widerrufen und den weiteren Vollzug der Unters
 
 **§ 173a (5) StPO.**  
 Wird der Hausarrest nicht nach Abs. 4 widerrufen, so gilt für den Fall der Rechtskraft des Urteils § 3 Abs. 2 StVG sinngemäß.
+
 ### § 174 StPO. Verhängung der Untersuchungshaft
 
 **§ 174 (1) StPO.**  
@@ -83,6 +86,7 @@ Ein Beschluss, mit dem die Untersuchungshaft verhängt wird, hat zu enthalten:
 
 **§ 174 (4) StPO.**  
 Eine Beschwerde des Beschuldigten gegen die Verhängung der Untersuchungshaft löst die Haftfrist nach § 175 Abs. 2 Z 2 aus. Ein darauf ergehender Beschluss des Oberlandesgerichts auf Fortsetzung der Untersuchungshaft löst die nächste Haftfrist aus; Abs. 3 Z 1 bis 5 gilt sinngemäß.
+
 ### § 175 StPO. Haftfristen
 
 **§ 175 (1) StPO.**  
@@ -102,6 +106,7 @@ Der Beschuldigte kann durch seinen Verteidiger auf die Durchführung einer bevor
 
 **§ 175 (5) StPO.**  
 Nach Einbringen der Anklage ist die Wirksamkeit eines Beschlusses auf Verhängung oder Fortsetzung der Untersuchungshaft durch die Haftfrist nicht mehr begrenzt; Haftverhandlungen finden nach diesem Zeitpunkt nur statt, wenn der Angeklagte seine Enthaftung beantragt und darüber nicht ohne Verzug in einer Hauptverhandlung entschieden werden kann. Die §§ 233 bis 237 gelten in diesem Fall sinngemäß.
+
 ### § 176 StPO. Haftverhandlung
 
 **§ 176 (1) StPO.**  
@@ -121,6 +126,7 @@ Zunächst trägt die Staatsanwaltschaft ihren Antrag auf Fortsetzung der Untersu
 
 **§ 176 (5) StPO.**  
 Eine Beschwerde gegen einen Beschluss nach Abs. 4 ist binnen drei Tagen nach Verkündung des Beschlusses einzubringen; § 174 Abs. 4 zweiter Satz ist anzuwenden.
+
 ### § 177 StPO. Aufhebung der Untersuchungshaft
 
 **§ 177 (1) StPO.**  
@@ -137,6 +143,7 @@ Ist die Staatsanwaltschaft der Ansicht, dass die Aufhebung gelinderer Mittel zu 
 
 **§ 177 (5) StPO.**  
 Wird der Beschuldigte freigelassen, so hat das Gericht nach § 172 Abs. 4 erster und zweiter Satz vorzugehen und auch die Kriminalpolizei von diesen Verständigungen zu informieren.
+
 ### § 178 StPO. Höchstdauer der Untersuchungshaft
 
 **§ 178 (1) StPO.**  
@@ -149,6 +156,7 @@ Bis zum Beginn der Hauptverhandlung darf die Untersuchungshaft folgende Fristen 
 
 **§ 178 (3) StPO.**  
 Muss ein wegen Fristablaufs freigelassener Angeklagter zum Zweck der Durchführung der Hauptverhandlung neuerlich in Haft genommen werden, so darf dies jeweils höchstens für die Dauer von sechs weiteren Wochen geschehen.
+
 ### § 179 StPO. Vorläufige Bewährungshilfe
 
 **§ 179 (1) StPO.**  
@@ -159,6 +167,7 @@ Hat der Beschuldigte einen gesetzlichen Vertreter, so ist diesem die Anordnung d
 
 **§ 179 (3) StPO.**  
 Die vorläufige Bewährungshilfe endet spätestens mit rechtskräftiger Beendigung des Strafverfahrens. Im Übrigen gelten die Bestimmungen über die Bewährungshilfe dem Sinne nach.
+
 ### § 180 StPO. Kaution
 
 **§ 180 (1) StPO.**  
@@ -175,6 +184,7 @@ Die Sicherheit ist vom Gericht auf Antrag der Staatsanwaltschaft oder von Amts w
 
 **§ 180 (5) StPO.**  
 Mit Rechtskraft des Beschlusses nach Abs. 4 ist die verfallene Sicherheit für den Bund einzuziehen, doch hat das Opfer das Recht zu verlangen, dass seine Entschädigungsansprüche aus der Sicherheit oder ihrem Verwertungserlös vorrangig befriedigt werden.
+
 ### § 181 StPO.
 
 **§ 181 (1) StPO.**  
@@ -185,6 +195,7 @@ Dasselbe ist der Fall, sobald das Strafverfahren rechtswirksam beendet ist, bei 
 
 **§ 181 (3) StPO.**  
 Über die Freigabe der Sicherheit entscheidet das Gericht.
+
 ### § 181a StPO. Flucht
 
 **§ 181a StPO.**  

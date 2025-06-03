@@ -3,7 +3,7 @@
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
 from playwright.sync_api import sync_playwright
-import time, getopt, sys, json
+import time, getopt, sys, json, os
 from ptpython.repl import embed
 
 # Remember to launch
@@ -67,7 +67,7 @@ elif len(args) != 1:
     usage()
     sys.exit(2)
 
-with open("norm_index.json", "r") as f:
+with open("index.json", "r") as f:
     normindex = json.load(f)
 
 if (normkey := args[0]) not in normindex:
@@ -123,9 +123,10 @@ if normdata["type"] in ("BG", "BVG"):
 
 #%% Save Index + Shutdown Playwright
 
-with open("norm_index.json", "w") as f:
-    json.dump(normindex, f, indent=4)
+with open("index.json", "w") as f:
+    json.dump(normindex, f, ensure_ascii=False, indent=4)
     print(file=f)
+os.system("set -ex; zip -v0j RisExFiles.zip index.json")
 
 if launchInteractiveRepl:
     embed(globals(), locals())

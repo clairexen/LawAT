@@ -6,10 +6,12 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Achter Abschnitt | Strafbare Handlungen gegen den religiösen Frieden und die Ruhe der Toten
+
 ### § 188 StGB. Herabwürdigung religiöser Lehren
 
 **§ 188 StGB.**  
  Wer öffentlich eine Person oder eine Sache, die den Gegenstand der Verehrung einer im Inland bestehenden Kirche oder Religionsgesellschaft bildet, oder eine Glaubenslehre, einen gesetzlich zulässigen Brauch oder eine gesetzlich zulässige Einrichtung einer solchen Kirche oder Religionsgesellschaft unter Umständen herabwürdigt oder verspottet, unter denen sein Verhalten geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+
 ### § 189 StGB. Störung einer Religionsübung
 
 **§ 189 (1) StGB.**  
@@ -20,6 +22,7 @@ Wer
 1. an einem Ort, der der gesetzlich zulässigen Religionsübung einer im Inland bestehenden Kirche oder Religionsgesellschaft gewidmet ist,
 2. bei dem gesetzlich zulässigen öffentlichen Gottesdienst oder einzelnen gesetzlich zulässigen öffentlichen gottesdienstlichen Handlungen einer im Inland bestehenden Kirche oder Religionsgesellschaft oder
 3. mit einem dem gesetzlich zulässigen Gottesdienst einer im Inland bestehenden Kirche oder Religionsgesellschaft unmittelbar gewidmeten Gegenstand
+
 ### § 190 StGB. Störung der Totenruhe
 
 **§ 190 (1) StGB.**  
@@ -27,15 +30,18 @@ Wer einen Leichnam oder Teile eines Leichnams oder die Asche eines Toten einem V
 
 **§ 190 (2) StGB.**  
 Wer Schmuck von einer Beisetzungs-, Aufbahrungs- oder Totengedenkstätte entfernt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+
 ### § 191 StGB. Störung einer Bestattungsfeier
 
 **§ 191 StGB.**  
  Wer wissentlich eine Bestattungsfeier durch einen Lärm, der geeignet ist, berechtigtes Ärgernis zu erregen, oder durch ein anderes solches Verhalten stört, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
 ## Neunter Abschnitt | Strafbare Handlungen gegen Ehe und Familie
+
 ### § 192 StGB. Mehrfache Ehe oder eingetragene Partnerschaft
 
 **§ 192 StGB.**  
  Wer eine neue Ehe schließt oder eine eingetragene Partnerschaft begründet, obwohl er verheiratet ist oder eine eingetragene Partnerschaft führt, oder wer mit einer verheirateten Person oder einer Person, die eine eingetragene Partnerschaft führt, eine Ehe schließt oder eine eingetragene Partnerschaft begründet, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
 ### § 193 StGB. Ehetäuschung
 
 **§ 193 (1) StGB.**  
@@ -46,6 +52,7 @@ Ebenso ist zu bestrafen, wer einen anderen durch Täuschung über Tatsachen, der
 
 **§ 193 (3) StGB.**  
 Der Täter ist nur dann zu bestrafen, wenn die Ehe wegen der verschwiegenen Tatsache für nichtig erklärt oder wegen der Täuschung aufgehoben worden ist. Auch ist er nur auf Verlangen des Verletzten zu verfolgen.
+
 ### § 193a StGB. Partnerschaftstäuschung
 
 **§ 193a (1) StGB.**  
@@ -53,6 +60,7 @@ Wer einen anderen durch Täuschung über Tatsachen, derentwegen die Auflösung d
 
 **§ 193a (2) StGB.**  
 Der Täter ist nur dann zu bestrafen, wenn die eingetragene Partnerschaft wegen der Täuschung erfolgreich aufgelöst worden ist. Auch ist er nur auf Verlangen des Verletzten zu verfolgen.
+
 ### § 194 StGB. Verbotene Adoptionsvermittlung
 
 **§ 194 (1) StGB.**  
@@ -65,6 +73,7 @@ Handelt der Täter, um sich oder einem Dritten einen Vermögensvorteil zu versch
 
 **§ 194 (3) StGB.**  
 Annehmende und Wahlkinder, zwischen denen die Adoption vermittelt wird, sind nicht als Beteiligte (§ 12 StGB) zu bestrafen.
+
 ### § 195 StGB. Kindesentziehung
 
 **§ 195 (1) StGB.**  
@@ -81,6 +90,7 @@ Der Täter ist nicht zu bestrafen, wenn er Grund zur Annahme hatte, daß ohne se
 
 **§ 195 (5) StGB.**  
 Eine Person unter sechzehn Jahren, die einen anderen dazu verleitet, sie dem Erziehungsberechtigten zu entziehen oder ihr Hilfe zu leisten, sich selbst dem Erziehungsberechtigten zu entziehen, ist nicht zu bestrafen.
+
 ### § 196 StGB. Vereitelung behördlich angeordneter Erziehungshilfen
 
 **§ 196 (1) StGB.**  
@@ -91,6 +101,7 @@ Der Täter ist nur mit Ermächtigung der Behörde zu verfolgen, die über die Fo
 
 **§ 196 (3) StGB.**  
 § 195 Abs. 5 gilt entsprechend.
+
 ### § 198 StGB. Verletzung der Unterhaltspflicht
 
 **§ 198 (1) StGB.**  
@@ -101,15 +112,18 @@ Ist der Täter rückfällig (§ 39) oder hat die Tat die Verwahrlosung oder ein
 
 **§ 198 (3) StGB.**  
 Der Täter ist nicht nach Abs. 1 zu bestrafen, wenn er bis zum Schluss der Verhandlung die vom Verfolgungsantrag umfassten Unterhaltsbeträge zur Gänze bezahlt.
+
 ### § 199 StGB. Vernachlässigung der Pflege, Erziehung oder Beaufsichtigung
 
 **§ 199 StGB.**  
  Wer die ihm auf Grund eines Gesetzes obliegende Pflege, Erziehung oder Beaufsichtigung einer minderjährigen Person gröblich vernachlässigt und dadurch, wenn auch nur fahrlässig, deren Verwahrlosung bewirkt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+
 ### § 200 StGB. Unterschiebung eines Kindes
 
 **§ 200 StGB.**  
  Wer ein Kind unterschiebt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 ## Zehnter Abschnitt | Strafbare Handlungen gegen die sexuelle Integrität und Selbstbestimmung
+
 ### § 201 StGB. Vergewaltigung
 
 **§ 201 (1) StGB.**  
@@ -117,6 +131,7 @@ Wer eine Person mit Gewalt, durch Entziehung der persönlichen Freiheit oder dur
 
 **§ 201 (2) StGB.**  
 Hat die Tat eine schwere Körperverletzung (§ 84 Abs. 1) oder eine Schwangerschaft der vergewaltigten Person zur Folge oder wird die vergewaltigte Person durch die Tat längere Zeit hindurch in einen qualvollen Zustand versetzt oder in besonderer Weise erniedrigt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat aber den Tod der vergewaltigten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
+
 ### § 202 StGB. Geschlechtliche Nötigung
 
 **§ 202 (1) StGB.**  
@@ -124,6 +139,7 @@ Wer außer den Fällen des § 201 eine Person mit Gewalt oder durch gefährlich
 
 **§ 202 (2) StGB.**  
 Hat die Tat eine schwere Körperverletzung (§ 84 Abs. 1) oder eine Schwangerschaft der genötigten Person zur Folge oder wird die genötigte Person durch die Tat längere Zeit hindurch in einen qualvollen Zustand versetzt oder in besonderer Weise erniedrigt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat aber den Tod der genötigten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
+
 ### § 205 StGB. Sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten Person
 
 **§ 205 (1) StGB.**  
@@ -134,6 +150,7 @@ Wer außer dem Fall des Abs. 1 eine wehrlose oder psychisch beeinträchtigte Pe
 
 **§ 205 (3) StGB.**  
 Hat die Tat eine schwere Körperverletzung (§ 84 Abs. 1) oder eine Schwangerschaft der missbrauchten Person zur Folge oder wird die missbrauchte Person durch die Tat längere Zeit hindurch in einen qualvollen Zustand versetzt oder in besonderer Weise erniedrigt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat aber den Tod der missbrauchten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
+
 ### § 205a StGB. Verletzung der sexuellen Selbstbestimmung
 
 **§ 205a (1) StGB.**  
@@ -141,6 +158,7 @@ Wer mit einer Person gegen deren Willen, unter Ausnützung einer Zwangslage oder
 
 **§ 205a (2) StGB.**  
 Ebenso ist zu bestrafen, wer eine Person auf die im Abs. 1 beschriebene Weise zur Vornahme oder Duldung des Beischlafes oder einer dem Beischlaf gleichzusetzenden geschlechtlichen Handlung mit einer anderen Person oder, um sich oder einen Dritten geschlechtlich zu erregen oder zu befriedigen, dazu veranlasst, eine dem Beischlaf gleichzusetzende geschlechtliche Handlung unfreiwillig an sich selbst vorzunehmen.
+
 ### § 206 StGB. Schwerer sexueller Mißbrauch von Unmündigen
 
 **§ 206 (1) StGB.**  
@@ -154,6 +172,7 @@ Hat die Tat eine schwere Körperverletzung (§ 84 Abs. 1) oder eine Schwangers
 
 **§ 206 (4) StGB.**  
 Übersteigt das Alter des Täters das Alter der unmündigen Person nicht um mehr als drei Jahre, wird die unmündige Person durch die Tat weder längere Zeit hindurch in einen qualvollen Zustand versetzt noch in besonderer Weise erniedrigt und hat die Tat weder eine schwere Körperverletzung (§ 84 Abs. 1) noch den Tod der unmündigen Person zur Folge, so ist der Täter nach Abs. 1 und 2 nicht zu bestrafen, es sei denn, die unmündige Person hätte das 13. Lebensjahr noch nicht vollendet.
+
 ### § 207 StGB. Sexueller Mißbrauch von Unmündigen
 
 **§ 207 (1) StGB.**  
@@ -167,6 +186,7 @@ Hat die Tat eine schwere Körperverletzung (§ 84 Abs. 1) zur Folge oder wird 
 
 **§ 207 (4) StGB.**  
 Übersteigt das Alter des Täters das Alter der unmündigen Person nicht um mehr als vier Jahre, wird die unmündige Person durch die Tat weder längere Zeit hindurch in einen qualvollen Zustand versetzt noch in besonderer Weise erniedrigt und ist keine der Folgen des Abs. 3 eingetreten, so ist der Täter nach Abs. 1 und 2 nicht zu bestrafen, es sei denn, die unmündige Person hätte das zwölfte Lebensjahr noch nicht vollendet.
+
 ### § 207a StGB. Bildliches sexualbezogenes Kindesmissbrauchsmaterial und bildliche sexualbezogene Darstellungen minderjähriger Personen
 
 **§ 207a (1) StGB.**  
@@ -215,6 +235,7 @@ Nach Abs. 1, Abs. 1a, Abs. 3, Abs. 3a und Abs. 3b ist nicht zu bestrafen, w
 Nicht zu bestrafen ist ferner, wer
 1. in den Fällen des Abs. 1, Abs. 1a, Abs. 2 erster Fall, Abs. 2a in Verbindung mit Abs. 2 erster Fall, Abs. 3 und Abs. 3b eine Abbildung oder Darstellung einer mündigen minderjährigen Person nach Abs. 4 Z 3 oder 4 von sich selbst herstellt, besitzt, oder anderen zu deren eigenem Gebrauch anbietet, verschafft, überlässt, vorführt oder sonst zugänglich macht oder
 2. eine Abbildung oder Darstellung einer unmündigen minderjährigen Person nach Abs. 4 von sich selbst besitzt.
+
 ### § 207b StGB. Sexueller Missbrauch von Jugendlichen
 
 **§ 207b (1) StGB.**  
@@ -225,6 +246,7 @@ Wer an einer Person, die das 18. Lebensjahr noch nicht vollendet hat, unter Ausn
 
 **§ 207b (3) StGB.**  
 Wer eine Person, die das 18. Lebensjahr noch nicht vollendet hat, unmittelbar durch ein Entgelt dazu verleitet, eine geschlechtliche Handlung an ihm oder einem Dritten vorzunehmen oder von ihm oder einem Dritten an sich vornehmen zu lassen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
 ### § 208 StGB. Sittliche Gefährdung von Personen unter sechzehn Jahren
 
 **§ 208 (1) StGB.**  
@@ -238,6 +260,7 @@ Wer, um sich oder einen Dritten geschlechtlich zu erregen oder zu befriedigen, b
 
 **§ 208 (4) StGB.**  
 Übersteigt das Alter des Täters im ersten Fall des Abs. 1 und im Abs. 2 das Alter der unmündigen Person nicht um mehr als vier Jahre, so ist der Täter nach Abs. 1 und 2 nicht zu bestrafen, es sei denn, die unmündige Person hätte das zwölfte Lebensjahr noch nicht vollendet.
+
 ### § 208a StGB. Anbahnung von Sexualkontakten zu Unmündigen
 
 **§ 208a (1) StGB.**  
@@ -250,6 +273,7 @@ Wer zu einer unmündigen Person in der Absicht, eine strafbare Handlung nach §�
 
 **§ 208a (2) StGB.**  
 Nach Abs. 1 und 1a ist nicht zu bestrafen, wer freiwillig und bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, sein Vorhaben aufgibt und der Behörde sein Verschulden offenbart.
+
 ### § 211 StGB. Blutschande
 
 **§ 211 (1) StGB.**  
@@ -263,6 +287,7 @@ Wer mit seinem Bruder oder mit seiner Schwester den Beischlaf vollzieht, ist mit
 
 **§ 211 (4) StGB.**  
 Wer zur Zeit der Tat das neunzehnte Lebensjahr noch nicht vollendet hat, ist wegen Blutschande nicht zu bestrafen, wenn er zur Tat verführt worden ist.
+
 ### § 212 StGB. Mißbrauch eines Autoritätsverhältnisses
 
 **§ 212 (1) StGB.**  
@@ -278,6 +303,7 @@ Ebenso ist zu bestrafen, wer
 
 **§ 212 (3) StGB.**  
 Wer eine sexuelle Belästigung nach § 218 Abs. 1a unter den Umständen des Abs. 1 oder 2 begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
 ### § 213 StGB. Kuppelei
 
 **§ 213 (1) StGB.**  
@@ -285,6 +311,7 @@ Wer eine Person, zu der er in einem der im § 212 bezeichneten Verhältnisse st
 
 **§ 213 (2) StGB.**  
 Handelt der Täter, um sich oder einem anderen einen Vermögensvorteil zu verschaffen, so ist er mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
 ### § 214 StGB. Entgeltliche Vermittlung von Sexualkontakten mit Minderjährigen
 
 **§ 214 (1) StGB.**  
@@ -292,10 +319,12 @@ Wer die persönliche Annäherung einer unmündigen mit einer anderen Person zur 
 
 **§ 214 (2) StGB.**  
 Wer außer dem Fall des Abs. 1 die persönliche Annäherung einer minderjährigen mit einer anderen Person zur Vornahme einer geschlechtlichen Handlung herbeiführt, um sich oder einem anderen einen Vermögensvorteil zu verschaffen, ist mit Freiheitsstrafe von sechs Monaten bis zu zwei Jahren zu bestrafen.
+
 ### § 215 StGB. Zuführen zur Prostitution
 
 **§ 215 StGB.**  
  Wer eine Person der Prostitution zuführt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+
 ### § 215a StGB. Förderung der Prostitution und pornographischer Darbietungen Minderjähriger
 
 **§ 215a (1) StGB.**  
@@ -309,6 +338,7 @@ Wer wissentlich eine pornographische Darbietung, an der eine mündige minderjäh
 
 **§ 215a (3) StGB.**  
 An einer pornographischen Darbietung wirkt mit, wer dabei eine auf sich selbst reduzierte, von anderen Lebensäußerungen losgelöste und der sexuellen Erregung eines Betrachters dienende geschlechtliche Handlung an sich selbst, an einer anderen Person oder mit einem Tier vornimmt, eine solche geschlechtliche Handlung an sich vornehmen lässt oder auf solche Weise seine Genitalien oder seine Schamgegend zur Schau stellt.
+
 ### § 216 StGB. Zuhälterei
 
 **§ 216 (1) StGB.**  
@@ -322,6 +352,7 @@ Wer die Tat (Abs. 1 und 2) als Mitglied einer kriminellen Vereinigung begeht, i
 
 **§ 216 (4) StGB.**  
 Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist auch zu bestrafen, wer durch Einschüchterung eine Person davon abhält, die Prostitution aufzugeben.
+
 ### § 217 StGB. Grenzüberschreitender Prostitutionshandel
 
 **§ 217 (1) StGB.**  
@@ -329,6 +360,7 @@ Wer eine Person, mag sie auch bereits der Prostitution nachgehen, der Prostituti
 
 **§ 217 (2) StGB.**  
 Wer eine Person (Abs. 1) mit dem Vorsatz, daß sie in einem anderen Staat als in dem, dessen Staatsangehörigkeit sie besitzt oder in dem sie ihren gewöhnlichen Aufenthalt hat, der Prostitution nachgehe, durch Täuschung über dieses Vorhaben verleitet oder mit Gewalt oder durch gefährliche Drohung nötigt, sich in einen anderen Staat zu begeben, oder sie mit Gewalt oder unter Ausnützung ihres Irrtums über dieses Vorhaben in einen anderen Staat befördert, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+
 ### § 218 StGB. Sexuelle Belästigung und öffentliche geschlechtliche Handlungen
 
 **§ 218 (1) StGB.**  
@@ -350,10 +382,12 @@ Wer eine sexuelle Belästigung nach Abs. 1 Z 1 oder Abs. 1a mit mindestens ei
 
 **§ 218 (3) StGB.**  
 Im Falle der Abs. 1 und 1a ist der Täter nur mit Ermächtigung der verletzten Person zu verfolgen.
+
 ### § 219 StGB. Ankündigung zur Herbeiführung unzüchtigen Verkehrs
 
 **§ 219 StGB.**  
  Wer öffentlich eine Ankündigung erläßt, die bestimmt ist, unzüchtigen Verkehr herbeizuführen, und die nach ihrem Inhalt geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+
 ### § 220b StGB. Tätigkeitsverbot
 
 **§ 220b (1) StGB.**  

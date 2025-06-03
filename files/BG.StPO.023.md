@@ -6,10 +6,12 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 18. Hauptstück | Kosten des Strafverfahrens
+
 ### § 380 StPO.
 
 **§ 380 StPO.**  
  Sofern die besonderen Vorschriften über die Gerichtsgebühren nichts anderes bestimmen, sind in Strafsachen keine Gebühren zu entrichten.
+
 ### § 381 StPO.
 
 **§ 381 (1) StPO.**  
@@ -29,30 +31,37 @@ Die Kosten des Strafverfahrens, die von der zum Kostenersatze verpflichteten Par
 Diese Kosten werden, soweit sich aus besonderen gesetzlichen Vorschriften nichts anderes ergibt, mit Ausnahme der unter Abs. 1 Z 3 und 7 bis 9 bezeichneten Kosten vom Bunde vorgeschossen, vorbehaltlich des Rückersatzes nach den Bestimmungen der §§ 389 bis
 **FIXME** P: <p class="ErlText AlignJustify">391.</p>
 **FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(3)</span><span><span aria-hidden="true">Der Pauschalkostenbeitrag (Abs.&nbsp;1 Z&nbsp;1) ist innerhalb der folgenden Grenzen zu bemessen (Abs.&nbsp;5):</span></span></div><ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">im Verfahren vor dem Landesgericht als Geschworenengericht von 500&nbsp;Euro bis 10&nbsp;000&nbsp;Euro</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">im Verfahren vor dem Landesgericht als Schöffengericht von 250&nbsp;Euro bis 5&nbsp;000&nbsp;Euro</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">im Verfahren vor dem Einzelrichter des Landesgerichts von 150&nbsp;Euro bis 3&nbsp;000&nbsp;Euro</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">im Verfahren vor dem Bezirksgericht von 50&nbsp;Euro bis 1&nbsp;000&nbsp;Euro</div></div></li></ol></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span>Spricht ein Landesgericht lediglich eine Verurteilung wegen einer in die Zuständigkeit der Bezirksgerichte fallenden strafbaren Handlung aus, so darf der Pauschalkostenbeitrag den für das Verfahren vor den Bezirksgerichten vorgesehenen Betrag nicht übersteigen. Im Verfahren vor den Bezirksgerichten auf Grund einer Privatanklage ist ein Pauschalkostenbeitrag nicht zu bestimmen, wenn keine Hauptverhandlung stattgefunden hat und auch keine Zeugen- oder Sachverständigengebühren aufgelaufen sind.</span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(5)</span><span><span aria-hidden="true">Bei Bemessung des Pauschalkostenbeitrages gemäß Abs.&nbsp;3 sind die Belastung der im Strafverfahren tätigen Behörden und Dienststellen und das Ausmaß der diesen erwachsenen, nicht besonders zu vergütenden Auslagen sowie das Vermögen, das Einkommen und die anderen für die wirtschaftliche Leistungsfähigkeit des Ersatzpflichtigen maßgebenden Umstände zu berücksichtigen.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(5a)</span><span><span aria-hidden="true">Bei Bemessung des Pauschalbetrages gemäß Abs.&nbsp;1 Z&nbsp;9 sind die Belastung der mit der Prozessbegleitung beauftragten Einrichtung und das Ausmaß ihrer Aufwendungen sowie die im Abs.&nbsp;5 bezeichneten Umstände der wirtschaftlichen Leistungsfähigkeit des Ersatzpflichtigen zu berücksichtigen.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(6)</span><span><span aria-hidden="true">Die Kosten für Übersetzungshilfe (§&nbsp;56) bilden keinen Teil der vom Angeklagten zu ersetzenden Kosten. Weitergehende Rechte, die sprachlichen Minderheiten bundesgesetzlich eingeräumt sind, bleiben unberührt.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(7)</span><span>Die durch eine Festnahme verursachten Kosten und die Kosten der Untersuchungshaft sind bei Bemessung des Pauschalkostenbeitrages nicht zu berücksichtigen.</span></div></div></li></ol>
+
 ### § 382 StPO.
 
 **§ 382 StPO.**  
  Die Gebühren der Organe der Kriminalpolizei für die Anfertigung von Kopien für Zwecke der Akteneinsicht, Zustellungen, Ladungen, Bewachung oder Beförderung des Beschuldigten oder anderer Personen werden durch besondere bundesgesetzliche Bestimmungen geregelt.
+
 ### § 383 StPO.
 
 **§ 383 StPO.**  
  (Aufgehoben)
+
 ### § 384 StPO.
 
 **§ 384 StPO.**  
  (Aufgehoben)
+
 ### § 385 StPO.
 
 **§ 385 StPO.**  
  (Aufgehoben)
+
 ### § 386 StPO.
 
 **§ 386 StPO.**  
  (Aufgehoben)
+
 ### § 387 StPO.
 
 **§ 387 StPO.**  
  (Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 3)
+
 ### § 388 StPO.
 
 **§ 388 (1) StPO.**  
@@ -63,6 +72,7 @@ Im Fall gemeinnütziger Leistungen oder eines Tatausgleichs kann die Staatsanwal
 
 **§ 388 (3) StPO.**  
 Für die Bemessung der Kostenbeiträge gilt § 381 Abs. 5 sinngemäß. Die Zahlung ist insoweit nachzusehen, als dadurch der zu einer einfachen Lebensführung notwendige Unterhalt des Beschuldigten und seiner Familie, für deren Unterhalt er zu sorgen hat, Schadensgutmachung, Tatfolgenausgleich oder die Erfüllung des Tatausgleichs gefährdet würde.
+
 ### § 389 StPO.
 
 **§ 389 (1) StPO.**  
@@ -73,6 +83,7 @@ Wird das Strafverfahren gegen einen Angeklagten wegen mehrerer Straftaten teils 
 
 **§ 389 (3) StPO.**  
 Die Verpflichtung zum Ersatz der Kosten trifft jedoch den rechtskräftig Verurteilten nur für seine Person; sie geht nicht auf die Erben über. Von mehreren Angeklagten ist jeder einzelne zur Tragung des Pauschalkostenbeitrages, der dem gegen ihn gefällten Erkenntnis entspricht, sowie der Kosten zu verurteilen, die durch seine Verteidigung oder durch besondere, nur bei ihm eingetretene Ereignisse oder durch sein besonderes Verschulden entstanden sind. Zur Bezahlung aller anderen Kosten des Strafverfahrens sind sämtliche Angeklagten zur ungeteilten Hand zu verurteilen, sofern das Gericht nicht besondere Gründe findet, eine Beschränkung dieser Haftung eintreten zu lassen.
+
 ### § 390 StPO.
 
 **§ 390 (1) StPO.**  
@@ -89,6 +100,7 @@ Die Staatsanwaltschaft kann nie zum Ersatze der Kosten verurteilt werden.
 
 **§ 390 (4) StPO.**  
 Wurde endlich das Strafverfahren durch eine wissentlich falsche Anzeige veranlaßt, so hat die Kosten der Anzeiger zu ersetzen.
+
 ### § 390a StPO.
 
 **§ 390a (1) StPO.**  
@@ -96,6 +108,7 @@ Den nach den §§ 389 und 390 zum Kostenersatze Verpflichteten fallen auch die 
 
 **§ 390a (2) StPO.**  
 Für die durch ein erfolgloses Begehren um Wiederaufnahme des Verfahrens verursachten Kosten haftet der Antragsteller.
+
 ### § 391 StPO.
 
 **§ 391 (1) StPO.**  
@@ -106,6 +119,7 @@ Ist nach den im Verfahren hervorgekommenen Umständen mit Grund anzunehmen, daß
 
 **§ 391 (3) StPO.**  
 Gegen Entscheidungen der Gerichte, womit ein Antrag abgelehnt wird, die Kosten für uneinbringlich zu erklären, ist kein Rechtsmittel zulässig.
+
 ### § 393 StPO.
 
 **§ 393 (1) StPO.**  
@@ -125,6 +139,7 @@ Wird ein Strafverfahren wegen übler Nachrede (§ 111 StGB), Vorwurf einer scho
 
 **§ 393 (5) StPO.**  
 Soweit jedoch der Privatbeteiligte mit seinen privatrechtlichen Ansprüchen auf den Zivilrechtsweg verwiesen worden ist, bilden die zur zweckentsprechenden Geltendmachung seiner Ansprüche im Strafverfahren aufgewendeten Kosten seines Vertreters einen Teil der Kosten des zivilgerichtlichen Verfahrens, in dem über den Anspruch erkannt wird.
+
 ### § 393a StPO. Beitrag zu den Kosten der Verteidigung
 
 **§ 393a (1) StPO.**  
@@ -144,10 +159,12 @@ Der Antrag ist bei sonstigem Ausschluss innerhalb von drei Jahren nach Verständ
 
 **§ 393a (5) StPO.**  
 § 196a Abs. 5 und 6 gilt sinngemäß.
+
 ### § 394 StPO.
 
 **§ 394 StPO.**  
  Gebührt dem Verteidiger oder dem Vertreter gemäß § 73 eine Belohnung, so ist ihre Bestimmung sowohl in dem Falle, wenn sich der Beschuldigte, der Privatankläger oder der Privatbeteiligte selbst einen solchen wählte, als auch dann, wenn dem Angeklagten ein Verteidiger von Amts wegen beigegeben wurde, dem freien Übereinkommen zwischen dem Vertreter und dem Zahlungspflichtigen überlassen.
+
 ### § 395 StPO.
 
 **§ 395 (1) StPO.**  
@@ -162,6 +179,7 @@ Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss gemäß Abs. 1
 **§ 395 (5) StPO.**  
 Die vorhergehenden Absätze sind auch anzuwenden, wenn zwischen dem von Amts wegen bestellten Verteidiger und dem von ihm vertretenen Angeklagten über die Entlohnung kein Übereinkommen erzielt wird. Das Gericht hat die Entlohnung des von Amts wegen bestellten Verteidigers festzusetzen und dem Angeklagten die Zahlung aufzutragen. Der rechtskräftige Beschluß ist vollstreckbar.
 ## 19. Hauptstück | Vollstreckung der Urteile
+
 ### § 396 StPO.
 
 **§ 396 (1) StPO.**  
@@ -172,20 +190,24 @@ Der auf freiem Fuß befindliche Angeklagte ist von der Rechtskraft zu verständi
 
 **§ 396 (3) StPO.**  
 Die Kriminalpolizei ist durch das Gericht, das in erster Instanz entschieden hat, von der Einstellung des Verfahrens sowie von einem Freispruch zu verständigen.
+
 ### § 397 StPO.
 
 **§ 397 StPO.**  
  Jedes Strafurteil ist ungesäumt in Vollzug zu setzen, sobald feststeht, daß der Vollstreckung kein gesetzliches Hindernis und insbesondere kein rechtzeitig und von einem hiezu Berechtigten ergriffenes Rechtsmittel entgegensteht, dem das Gesetz aufschiebende Wirkung beimißt (§ 284 Abs. 3, § 294 Abs. 1 und § 344). Ist ein Rechtsmittel zugunsten des verhafteten Angeklagten von solchen Personen ergriffen worden, die hiezu gegen seinen Willen nicht berechtigt sind, so ist der Angeklagte hievon in Kenntnis zu setzen und über den dadurch herbeigeführten Aufschub der Strafvollstreckung zu belehren. Dasselbe hat zu geschehen, wenn es zweifelhaft ist, ob der verhaftete Angeklagte der Einlegung des Rechtsmittels durch seinen Verteidiger zugestimmt habe. Die Anordnung des Vollzuges des Strafurteiles steht dem Vorsitzenden des erkennenden Gerichtes zu.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-03')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;5)</span></span></p>
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-04')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;5)</span></span></p>
+
 ### § 398 StPO.
 
 **§ 398 StPO.**  
  Jede Rechtswirkung eines Strafurteils beginnt, wenn nichts anderes bestimmt ist, mit seiner Rechtskraft.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-03')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;112)</span></span></p>
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-04')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;112)</span></span></p>
+
 ### § 399 StPO.
 
 **§ 399 StPO.**  
  Jedes Urteil gegen einen Beamten (§ 74 Abs. 1 Z 4 StGB) ist, sobald es rechtskräftig wurde, dem Leiter der Dienststelle bekannt zu machen.
+
 ### § 400 StPO.
 
 **§ 400 (1) StPO.**  
@@ -193,41 +215,50 @@ Die Kriminalpolizei ist durch das Gericht, das in erster Instanz entschieden hat
 
 **§ 400 (2) StPO.**  
 Einen Beschluß nach Abs. 1 hat der Vorsitzende auf Antrag oder von Amts wegen auch dann zu fassen, wenn im Urteil die Anrechnung einer Vorhaft oder einer im Ausland verbüßten Strafe (§ 66 StGB) unterblieben ist. Ist eine solche Anrechnung fehlerhaft erfolgt, so hat sie der Vorsitzende jederzeit zu berichtigen (§ 270 Abs. 3), zum Nachteil des Angeklagten jedoch nur, solange das Urteil nicht rechtskräftig ist. Die Abweisung eines darauf gerichteten Antrages sowie die vorgenommene Berichtigung können nach Maßgabe des § 270 Abs. 3 mit Beschwerde angefochten werden.
+
 ### § 401 StPO.
 
 **§ 401 StPO.**  
  (Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 6)
+
 ### § 401a StPO.
 
 **§ 401a StPO.**  
  (Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 6)
+
 ### § 402 StPO.
 
 **§ 402 StPO.**  
  Ist in einem Strafurteil auf den Verlust eines Rechtes erkannt worden oder ist in einem Gesetz vorgesehen, daß die Verurteilung einen solchen Verlust nach sich zieht oder nach sich ziehen kann, so hat das Strafgericht die rechtskräftige Verurteilung der in Betracht kommenden Stelle bekanntzumachen. Sofern dieser Stelle nicht schon nach anderen gesetzlichen Bestimmungen eine Urteilsausfertigung zugestellt werden muß, ist ihr eine solche Ausfertigung auf ihr Ersuchen zu übersenden.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-03')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;7)</span></span></p>
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-04')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;7)</span></span></p>
+
 ### § 403 StPO.
 
 **§ 403 StPO.**  
  (Aufgehoben; BGBl. Nr. 75/1968, Art. IV Z. 2)
+
 ### § 404 StPO.
 
 **§ 404 StPO.**  
  (Aufgehoben; BGBl. Nr. 75/1968, Art. IV Z. 2)
+
 ### § 405 StPO.
 
 **§ 405 StPO.**  
  Wie auf Freiheitsstrafen lautende Strafurteile zu vollziehen sind, bestimmen besondere Gesetze.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-03')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;8)</span></span></p>
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-04')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;8)</span></span></p>
+
 ### § 406 StPO.
 
 **§ 406 StPO.**  
  (Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 9)
+
 ### § 407 StPO.
 
 **§ 407 StPO.**  
  Von der Verurteilung einer Person, die nicht die österreichische Staatsbürgerschaft besitzt, ist die für die Ausübung der Fremdenpolizei zuständige Behörde unverzüglich zu verständigen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-03')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;114)</span></span></p>
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-04')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;114)</span></span></p>
+
 ### § 408 StPO.
 
 **§ 408 (1) StPO.**  
@@ -235,6 +266,7 @@ Ist der Verfall, der erweiterte Verfall, die Konfiskation oder die Einziehung vo
 
 **§ 408 (2) StPO.**  
 Ein verfallener, konfiszierter oder eingezogener Gegenstand oder Vermögenswert, der für wissenschaftliche, historische oder vergleichbare, im öffentlichen Interesse liegende Forschungszwecke von Interesse ist, ist einer anerkannten wissenschaftlichen Einrichtung zur Verfügung zu stellen. Im Übrigen sind Gegenstände oder Vermögenswerte, die zur Deckung des Sachaufwandes der Justiz unmittelbar herangezogen werden können, dazu zu verwenden, alle anderen Gegenstände oder Vermögenswerte aber auf die in § 377 angeordnete Weise zu veräußern. Gegenstände oder Vermögenswerte, die auf diese Weise weder verwendet noch verwertet werden können, sind zu vernichten.
+
 ### § 409 StPO.
 
 **§ 409 (1) StPO.**  
@@ -245,6 +277,7 @@ Wie die im Abs. 1 genannten Geldbeträge einzutreiben sind, wird im Gerichtlich
 
 **§ 409 (3) StPO.**  
 Ersatzfreiheitsstrafen sind wie andere Freiheitsstrafen nach den Bestimmungen des StVG anzuordnen und zu vollziehen.
+
 ### § 409a StPO.
 
 **§ 409a (1) StPO.**  
@@ -262,6 +295,7 @@ In die gewährte Aufschubsfrist werden Zeiten, in denen der Zahlungspflichtige a
 
 **§ 409a (4) StPO.**  
 Die Entrichtung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen darf nur mit der Maßgabe gestattet werden, daß alle noch aushaftenden Teilbeträge sofort fällig werden, wenn der Zahlungspflichtige mit mindestens zwei Ratenzahlungen in Verzug ist.
+
 ### § 409b StPO.
 
 **§ 409b (1) StPO.**  
@@ -269,6 +303,7 @@ Geldstrafen, verfallene Geldbeträge und Veräußerungserlöse (§§ 115e, 377)
 
 **§ 409b (2) StPO.**  
 20 vH der nach §§ 20, 20b StGB für verfallen erklärten Vermögenswerte fließen dem Bundesministerium für Inneres zu.
+
 ### § 410 StPO.
 
 **§ 410 (1) StPO.**  
@@ -276,6 +311,7 @@ Geldstrafen, verfallene Geldbeträge und Veräußerungserlöse (§§ 115e, 377)
 
 **§ 410 (3) StPO.**  
 Wenn der Zweck der Entscheidung nach Abs. 1 sonst ganz oder teilweise vereitelt werden könnte, hat das Gericht den Vollzug der Strafe, des Verfalls oder des erweiterten Verfalls bis zur Rechtskraft seiner Entscheidung vorläufig zu hemmen oder zu unterbrechen, es sei denn, daß ihm ein offenbar aussichtsloser Antrag vorliegt.
+
 ### § 411 StPO.
 
 **§ 411 StPO.**  

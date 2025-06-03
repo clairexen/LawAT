@@ -6,11 +6,13 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 8. Hauptstück | Ermittlungsmaßnahmen und Beweisaufnahme | 1. Abschnitt | Sicherstellung, Beschlagnahme, Beschlagnahme von Datenträgern und Daten, Auskunft aus dem Kontenregister und Auskunft über Bankkonten und Bankgeschäfte
+
 ### § 109 StPO. Definitionen
 
 **§ 109 StPO.**  
  Im Sinne dieses Gesetzes ist
-**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Sicherstellung“</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">die vorläufige Begründung der Verfügungsmacht über Gegenstände, Vermögenswerte und Daten und</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">das vorläufige Verbot der Herausgabe von Gegenständen oder anderen Vermögenswerten an Dritte (Drittverbot) und das vorläufige Verbot der Veräußerung oder Verpfändung solcher Gegenstände und Vermögenswerte,</div></div></li></ol></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1a.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Vermögenswerte“ Vermögenswerte jeder Art, ob körperlich oder unkörperlich, beweglich oder unbeweglich, einschließlich Vermögensrechte und Kryptowerte sowie Urkunden in jeder Form, die ein Recht auf solche Vermögenswerte oder Rechte daran belegen,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Beschlagnahme“</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">eine gerichtliche Entscheidung auf Begründung oder Fortsetzung einer Sicherstellung nach Z&nbsp;1 und</span></div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">das gerichtliche Verbot der Veräußerung, Belastung oder Verpfändung von Liegenschaften oder Rechten, die in einem öffentlichen Buch eingetragen sind,</div></div></li></ol></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2a.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Beschlagnahme von Datenträgern und Daten“ eine gerichtliche Entscheidung auf Begründung einer Sicherstellung von</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">Datenträgern und darauf gespeicherten Daten,</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">Daten, die an anderen Speicherorten als einem Datenträger gespeichert sind, soweit auf sie von diesem aus zugegriffen werden kann, oder</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">c.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">Daten, die auf Datenträgern oder an anderen Speicherorten gespeichert sind (lit.&nbsp;a und b), die zuvor nach Z&nbsp;1 lit.&nbsp;a sichergestellt wurden,</span></div></div></li></ol><div class="SchlussteilE1">zum Zweck der Auswertung von Daten,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2b.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Aufbereitung von Daten“ eine aus Beweisgründen erfolgende technische Aufbereitung, einschließlich der Wiederherstellung von Daten, und deren Einschränkung auf den der gerichtlichen Entscheidung nach Z&nbsp;2a in Bezug auf die Datenkategorien und den Zeitraum entsprechenden Umfang,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2c.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Originalsicherung“ eine unter Verwendung forensischer Sicherungsmechanismen gewonnene Kopie des Originaldatenbestandes,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2d.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Arbeitskopie“ eine Kopie der Originalsicherung, anhand derer die Aufbereitung von Daten (Z&nbsp;2b) erfolgt,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2e.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Ergebnis der Datenaufbereitung“ ein der gerichtlichen Entscheidung (Z&nbsp;2a) in Bezug auf die Datenkategorien und den Zeitraum entsprechender Datensatz,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Auskunft aus dem Kontenregister“ die Abfrage und Übermittlung von Daten aus dem Kontenregister (§§&nbsp;2 und 4 Kontenregister- und Konteneinschaugesetz, <a href="/eli/bgbl/I/2015/116" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_116', 'BGBl. I Nr. 116/2015', '2025-06-03')">BGBl.&nbsp;I Nr.&nbsp;116/2015</a>),</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Auskunft über Bankkonten und Bankgeschäfte“ die Herausgabe aller Unterlagen über die Identität des Inhabers einer Geschäftsverbindung und über seine Verfügungsberechtigung, die Einsicht in Urkunden und andere Unterlagen eines Kredit- oder Finanzinstituts über Art und Umfang einer Geschäftsverbindung und damit im Zusammenhang stehende Geschäftsvorgänge und sonstige Geschäftsvorfälle für einen bestimmten vergangenen oder zukünftigen Zeitraum.</div></div></li></ol>
+**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Sicherstellung“</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">die vorläufige Begründung der Verfügungsmacht über Gegenstände, Vermögenswerte und Daten und</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">das vorläufige Verbot der Herausgabe von Gegenständen oder anderen Vermögenswerten an Dritte (Drittverbot) und das vorläufige Verbot der Veräußerung oder Verpfändung solcher Gegenstände und Vermögenswerte,</div></div></li></ol></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1a.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Vermögenswerte“ Vermögenswerte jeder Art, ob körperlich oder unkörperlich, beweglich oder unbeweglich, einschließlich Vermögensrechte und Kryptowerte sowie Urkunden in jeder Form, die ein Recht auf solche Vermögenswerte oder Rechte daran belegen,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Beschlagnahme“</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">eine gerichtliche Entscheidung auf Begründung oder Fortsetzung einer Sicherstellung nach Z&nbsp;1 und</span></div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">das gerichtliche Verbot der Veräußerung, Belastung oder Verpfändung von Liegenschaften oder Rechten, die in einem öffentlichen Buch eingetragen sind,</div></div></li></ol></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2a.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Beschlagnahme von Datenträgern und Daten“ eine gerichtliche Entscheidung auf Begründung einer Sicherstellung von</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">Datenträgern und darauf gespeicherten Daten,</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">Daten, die an anderen Speicherorten als einem Datenträger gespeichert sind, soweit auf sie von diesem aus zugegriffen werden kann, oder</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">c.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">Daten, die auf Datenträgern oder an anderen Speicherorten gespeichert sind (lit.&nbsp;a und b), die zuvor nach Z&nbsp;1 lit.&nbsp;a sichergestellt wurden,</span></div></div></li></ol><div class="SchlussteilE1">zum Zweck der Auswertung von Daten,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2b.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Aufbereitung von Daten“ eine aus Beweisgründen erfolgende technische Aufbereitung, einschließlich der Wiederherstellung von Daten, und deren Einschränkung auf den der gerichtlichen Entscheidung nach Z&nbsp;2a in Bezug auf die Datenkategorien und den Zeitraum entsprechenden Umfang,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2c.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Originalsicherung“ eine unter Verwendung forensischer Sicherungsmechanismen gewonnene Kopie des Originaldatenbestandes,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2d.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Arbeitskopie“ eine Kopie der Originalsicherung, anhand derer die Aufbereitung von Daten (Z&nbsp;2b) erfolgt,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2e.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Ergebnis der Datenaufbereitung“ ein der gerichtlichen Entscheidung (Z&nbsp;2a) in Bezug auf die Datenkategorien und den Zeitraum entsprechender Datensatz,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Auskunft aus dem Kontenregister“ die Abfrage und Übermittlung von Daten aus dem Kontenregister (§§&nbsp;2 und 4 Kontenregister- und Konteneinschaugesetz, <a href="/eli/bgbl/I/2015/116" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_116', 'BGBl. I Nr. 116/2015', '2025-06-04')">BGBl.&nbsp;I Nr.&nbsp;116/2015</a>),</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Auskunft über Bankkonten und Bankgeschäfte“ die Herausgabe aller Unterlagen über die Identität des Inhabers einer Geschäftsverbindung und über seine Verfügungsberechtigung, die Einsicht in Urkunden und andere Unterlagen eines Kredit- oder Finanzinstituts über Art und Umfang einer Geschäftsverbindung und damit im Zusammenhang stehende Geschäftsvorgänge und sonstige Geschäftsvorfälle für einen bestimmten vergangenen oder zukünftigen Zeitraum.</div></div></li></ol>
+
 ### § 110 StPO. Sicherstellung
 
 **§ 110 (1) StPO.**  
@@ -46,6 +48,7 @@ Die Kriminalpolizei ist berechtigt, punktuelle Daten (§111 Abs. 2) von sich aus
 
 **§ 110 (4) StPO.**  
 Die Sicherstellung von Gegenständen oder Vermögenswerten aus Beweisgründen (Abs. 1 Z 1) ist nicht zulässig und jedenfalls auf Verlangen der betroffenen Person aufzuheben, soweit und sobald der Beweiszweck durch Bild-, Ton- oder sonstige Aufnahmen oder durch Kopien schriftlicher Aufzeichnungen oder automationsunterstützt verarbeiteter Daten erfüllt werden kann und nicht anzunehmen ist, dass die sichergestellten Gegenstände oder Vermögenswerte selbst oder die Originale der sichergestellten Informationen in der Hauptverhandlung in Augenschein zu nehmen sein werden.
+
 ### § 111 StPO.
 
 **§ 111 (1) StPO.**  
@@ -59,6 +62,7 @@ Personen, die nicht selbst der Tat beschuldigt sind, sind auf ihren Antrag die a
 
 **§ 111 (4) StPO.**  
 In jedem Fall ist der von der Sicherstellung betroffenen Person sogleich oder längstens binnen 24 Stunden eine Bestätigung über die Sicherstellung auszufolgen oder zuzustellen und sie über das Recht, Einspruch zu erheben (§ 106) und eine gerichtliche Entscheidung über die Aufhebung oder Fortsetzung der Sicherstellung zu beantragen (§ 115), zu informieren. Von einer Sicherstellung zur Sicherung einer Entscheidung über privatrechtliche Ansprüche (§ 110 Abs. 1 Z 2) ist, soweit möglich, auch das Opfer zu verständigen.
+
 ### § 112 StPO.
 
 **§ 112 (1) StPO.**  
@@ -69,6 +73,7 @@ Der Betroffene ist aufzufordern, binnen einer angemessenen, 14 Tage nicht unters
 
 **§ 112 (3) StPO.**  
 Gegen die Anordnung der Staatsanwaltschaft kann der Betroffene Einspruch erheben, in welchem Fall die Unterlagen dem Gericht vorzulegen sind, das zu entscheiden hat, ob und in welchem Umfang sie zum Akt genommen werden dürfen; Abs. 2 letzter Satz gilt. Einer Beschwerde gegen den Beschluss des Gerichts kommt aufschiebende Wirkung zu.
+
 ### § 112a StPO.
 
 **§ 112a (1) StPO.**  
@@ -86,6 +91,7 @@ Unterlässt die Behörde oder öffentliche Dienststelle eine solche Bezeichnung,
 
 **§ 112a (4) StPO.**  
 Der Behörde oder öffentlichen Dienststelle steht gegen den Beschluss des Gerichts Beschwerde zu; diese hat aufschiebende Wirkung.
+
 ### § 113 StPO.
 
 **§ 113 (1) StPO.**  
@@ -102,6 +108,7 @@ Die Staatsanwaltschaft hat im Fall einer Sicherstellung nach § 109 Z 1 lit. 
 
 **§ 113 (4) StPO.**  
 Im Fall einer Sicherstellung von Gegenständen oder Vermögenswerten (§ 109 Z 1 lit. a) findet eine Beschlagnahme auch auf Antrag nicht statt, wenn sich die Sicherstellung auf Gegenstände oder Vermögenswerte im Sinne des § 110 Abs. 3 Z 1 lit. a und d oder Z 2 bezieht oder der Sicherungszweck durch andere behördliche Maßnahmen erfüllt werden kann. In diesen Fällen hat die Staatsanwaltschaft die erforderlichen Verfügungen über die sichergestellten Gegenstände oder Vermögenswerte und ihre weitere Verwahrung zu treffen und gegebenenfalls die Sicherstellung aufzuheben.
+
 ### § 114 StPO.
 
 **§ 114 (1) StPO.**  
@@ -112,6 +119,7 @@ Sichergestellte Kryptowerte sind auf behördeneigene Infrastruktur der Kriminalp
 
 **§ 114 (2) StPO.**  
 Wenn der Grund für die weitere Verwahrung sichergestellter Gegenstände und Vermögenswerte wegfällt, sind diese sogleich jener Person auszufolgen, in deren Verfügungsmacht sie sichergestellt wurden, es sei denn, dass diese Person offensichtlich nicht berechtigt ist. In diesem Fall sind sie der berechtigten Person auszufolgen oder, wenn eine solche nicht ersichtlich ist und nicht ohne unverhältnismäßigen Aufwand festgestellt werden kann, nach § 1425 ABGB gerichtlich zu hinterlegen. Die hievon betroffenen Personen sind zu verständigen.
+
 ### § 115 StPO. Beschlagnahme
 
 **§ 115 (1) StPO.**  
@@ -134,6 +142,7 @@ In einem Beschluss, mit dem eine Beschlagnahme zur Sicherung einer gerichtlichen
 
 **§ 115 (6) StPO.**  
 Wenn und sobald die Voraussetzungen der Beschlagnahme nicht oder nicht mehr bestehen oder ein nach Abs. 5 bestimmter Geldbetrag erlegt wird, hat die Staatsanwaltschaft, nach dem Einbringen der Anklage das Gericht, die Beschlagnahme aufzuheben.
+
 ### § 115a StPO. Verwertung sichergestellter oder beschlagnahmter Vermögenswerte
 
 **§ 115a (1) StPO.**  
@@ -148,6 +157,7 @@ Die Verwertung ist unzulässig, soweit und solange
 
 **§ 115a (3) StPO.**  
 Über die Verwertung hat das Gericht auf Antrag der Staatsanwaltschaft, gegebenenfalls zugleich mit der Beschlagnahme zu entscheiden.
+
 ### § 115b StPO.
 
 **§ 115b (1) StPO.**  
@@ -158,6 +168,7 @@ Eine Verwertung hat das Gericht durch Edikt anzukündigen, das zu enthalten hat:
 
 **§ 115b (2) StPO.**  
 Das Edikt ist durch Aufnahme in die Ediktsdatei (§ 89j GOG) öffentlich bekannt zu machen. Eine schriftliche Ausfertigung ist der Staatsanwaltschaft, gegebenenfalls dem von der Anordnung Betroffenen sowie dem Drittschuldner zuzustellen, der zu verpflichten ist, alle Tatsachen, die einer Verwertung entgegenstehen könnten, dem Gericht unverzüglich mitzuteilen. Dabei entstehende angemessene und ortsübliche Kosten sind zu ersetzen (§ 111 Abs. 3).
+
 ### § 115c StPO.
 
 **§ 115c (1) StPO.**  
@@ -165,6 +176,7 @@ Ein Beschluss auf Verwertung ist durch Aufnahme in die Ediktsdatei (§ 89j GOG)
 
 **§ 115c (2) StPO.**  
 Eine rechtzeitig eingebrachte Beschwerde hat aufschiebende Wirkung.
+
 ### § 115d StPO.
 
 **§ 115d (1) StPO.**  
@@ -175,6 +187,7 @@ Kann nach Rechtskraft des Beschlusses auf Verwertung über den Verfall oder den 
 
 **§ 115d (3) StPO.**  
 Ein Ersatz für zu Gunsten des Bundes verwertete Vermögenswerte (§ 115a Abs. 1) ist nur in Geld zu leisten. Der Bund ist dabei wie ein redlicher Besitzer zu behandeln (§ 330 ABGB).
+
 ### § 115e StPO.
 
 **§ 115e (1) StPO.**  
@@ -185,6 +198,7 @@ Personen, die von der Veräußerung betroffen sind, sind vor der Verwertung, geg
 
 **§ 115e (3) StPO.**  
 Über die Verwertung hat das Gericht auf Antrag der Staatsanwaltschaft, gegebenenfalls zugleich mit der Beschlagnahme zu entscheiden.
+
 ### § 115f StPO. Beschlagnahme von Datenträgern und Daten
 
 **§ 115f (1) StPO.**  
@@ -216,6 +230,7 @@ In jedem Fall ist der von der Beschlagnahme von Datenträgern und Daten sowie ei
 
 **§ 115f (9) StPO.**  
 Wenn und sobald die Voraussetzungen der Beschlagnahme nicht oder nicht mehr bestehen, hat die Staatsanwaltschaft, nach Einbringen der Anklage das Gericht, die Beschlagnahme aufzuheben. Wird einer Beschwerde Folge gegeben, weil festgestellt wird, dass kein Anfangsverdacht (§ 1 Abs. 3) vorgelegen ist, so gilt § 89 Abs. 4.
+
 ### § 115g StPO.
 
 **§ 115g (1) StPO.**  
@@ -226,6 +241,7 @@ Sollen Datenträger und Daten beschlagnahmt werden (§ 109 Z 2a), so ist jede 
 
 **§ 115g (3) StPO.**  
 Über jede Sicherstellung eines Datenträgers nach § 115f Abs. 4 hat die Kriminalpolizei unverzüglich, längstens jedoch binnen 14 Tagen der Staatsanwaltschaft zu berichten (§ 100 Abs. 2 Z 2), welche im Nachhinein sogleich beim Gericht die Beschlagnahme von Datenträgern und Daten (§ 115f Abs. 1 bis 3) zu beantragen oder, wenn deren Voraussetzungen nicht vorliegen oder weggefallen sind, die Aufhebung der Sicherstellung anzuordnen hat. Wird die Bewilligung nicht erteilt, so haben Staatsanwaltschaft und Kriminalpolizei mit den ihnen zu Gebote stehenden rechtlichen Mitteln den der gerichtlichen Entscheidung entsprechenden Rechtszustand herzustellen und alle durch diese Ermittlungsmaßnahme gewonnenen Ergebnisse zu vernichten; einer Beschwerde der Staatsanwaltschaft gegen einen solchen Beschluss des Gerichts kommt aufschiebende Wirkung zu.
+
 ### § 115h StPO. Aufbereitung von Daten
 
 **§ 115h (1) StPO.**  
@@ -233,6 +249,7 @@ Eine Originalsicherung (§ 109 Z 2c) ist herzustellen, eine Arbeitskopie (§ 
 
 **§ 115h (2) StPO.**  
 Die Staatsanwaltschaft hat das Ergebnis der Datenaufbereitung (§ 109 Z 2e) dem Gericht bei Einbringung der Anklage zu übermitteln. Das Gericht hat diese nach rechtskräftigem Abschluss des Verfahrens zu löschen und die Löschung der Originalsicherung sowie der Arbeitskopie anzuordnen, soweit sie nicht in einem anderen, bereits anhängigen Strafverfahren als Beweismittel Verwendung finden. Gleiches gilt für die Staatsanwaltschaft im Fall der Einstellung des Verfahrens.
+
 ### § 115i StPO. Auswertung von Daten
 
 **§ 115i (1) StPO.**  
@@ -249,6 +266,7 @@ Bei der Auswertung von Daten sind die Persönlichkeitsrechte soweit wie möglich
 
 **§ 115i (5) StPO.**  
 Auf Antrag des Beschuldigten oder von Amts wegen sind Daten aus dem Ergebnis der Datenaufbereitung zu vernichten, wenn sie für ein Strafverfahren nicht von Bedeutung sein können oder als Beweismittel nicht verwendet werden dürfen. Dieses Antragsrecht steht auch den in Abs. 4 genannten betroffenen Personen zu.
+
 ### § 115j StPO.
 
 **§ 115j (1) StPO.**  
@@ -256,10 +274,12 @@ Als Beweismittel dürfen Ergebnisse einer Auswertung bei sonstiger Nichtigkeit n
 
 **§ 115j (2) StPO.**  
 Ergeben sich bei der Auswertung von Daten Hinweise auf die Begehung einer anderen strafbaren Handlung als derjenigen, die Anlass zur Beschlagnahme von Datenträgern und Daten gegeben hat, so ist mit diesen ein gesonderter Akt anzulegen, soweit die Verwendung als Beweismittel zulässig ist (Abs. 1, § 144, § 157 Abs. 2).
+
 ### § 115k StPO. Verwahrung von Datenträgern und Daten
 
 **§ 115k StPO.**  
  Die Originalsicherung und die Arbeitskopie sind auf geeignete Art und Weise gegen unbefugte Einsichtnahme oder Veränderung zu sichern und bis zur rechtskräftigen Beendigung des Strafverfahrens aufzubewahren; auf die Originalsicherung und Arbeitskopie darf außer im Fall des § 115f Abs. 5 nicht zugegriffen werden; im Übrigen ist eine Einsichtnahme unzulässig. Für die Verwahrung von Datenträgern, sofern sie nicht zurückgestellt werden können, und des Ergebnisses der Datenaufbereitung (§ 109 Z 2e) hat im Fall einer Aufbereitung der Daten durch die Kriminalpolizei bis zur Berichterstattung über die abschließende Auswertung der Daten (§ 115i) diese, danach die Staatsanwaltschaft zu sorgen.
+
 ### § 115l StPO. Rechtsschutz
 
 **§ 115l (1) StPO.**  
@@ -279,6 +299,7 @@ Der Rechtsschutzbeauftragte ist berechtigt, die Vernichtung von Daten (§ 115i 
 
 **§ 115l (6) StPO.**  
 Nach Beendigung der Ermittlungsmaßnahme ist dem Rechtsschutzbeauftragten Gelegenheit zu geben, den Aufbereitungsbericht und das Ergebnis der Datenaufbereitung (§ 109 Z 2e) einzusehen. Nach Beendigung des Strafverfahrens ist ihm Gelegenheit zu geben, sich von der ordnungsgemäßen Vernichtung der Originalsicherung, der Arbeitskopie und des Ergebnisses der Datenaufbereitung zu überzeugen.
+
 ### § 116 StPO. Auskunft aus dem Kontenregister und Auskunft über Bankkonten und Bankgeschäfte
 
 **§ 116 (1) StPO.**  

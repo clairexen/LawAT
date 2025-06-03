@@ -6,14 +6,17 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Achter Abschnitt | Begriffsbestimmungen
+
 ### § 68 StGB. Zeitberechnung
 
 **§ 68 StGB.**  
  Jahre und Monate sind nach dem Kalender zu berechnen. Zeiträume werden so berechnet, daß der Tag, auf den das Ereignis fällt, mit dem der Zeitraum beginnt, nicht mitgezählt wird. Sie enden mit dem Ablauf des letzten Tages.
+
 ### § 69 StGB. Öffentliche Begehung
 
 **§ 69 StGB.**  
  Eine Handlung wird nur dann öffentlich begangen, wenn sie unmittelbar von einem größeren Personenkreis wahrgenommen werden kann.
+
 ### § 70 StGB. Gewerbsmäßige Begehung
 
 **§ 70 (1) StGB.**  
@@ -27,10 +30,12 @@ Ein nicht bloß geringfügiges fortlaufendes Einkommen ist ein solches, das nach
 
 **§ 70 (3) StGB.**  
 Eine frühere Tat oder Verurteilung bleibt außer Betracht, wenn seit ihrer Begehung oder Rechtskraft bis zur folgenden Tat mehr als ein Jahr vergangen ist. In diese Frist werden Zeiten, in denen der Täter auf behördliche Anordnung angehalten worden ist, nicht eingerechnet.
+
 ### § 71 StGB. Schädliche Neigung
 
 **§ 71 StGB.**  
  Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind.
+
 ### § 72 StGB. Angehörige
 
 **§ 72 (1) StGB.**  
@@ -38,10 +43,12 @@ Unter Angehörigen einer Person sind ihre Verwandten und Verschwägerten in gera
 
 **§ 72 (2) StGB.**  
 Personen, die miteinander in Lebensgemeinschaft leben, werden wie Angehörige behandelt, Kinder und Enkel einer von ihnen werden wie Angehörige auch der anderen behandelt.
+
 ### § 73 StGB. Ausländische Verurteilungen
 
 **§ 73 StGB.**  
  Sofern das Gesetz nicht ausdrücklich auf die Verurteilung durch ein inländisches Gericht abstellt, stehen ausländische Verurteilungen inländischen gleich, wenn sie den Rechtsbrecher wegen einer Tat schuldig sprechen, die auch nach österreichischem Recht gerichtlich strafbar ist, und in einem den Grundsätzen des Art. 6 der europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, entsprechenden Verfahren ergangen sind.
+
 ### § 74 StGB. Andere Begriffsbestimmungen
 
 **§ 74 (1) StGB.**  
@@ -83,18 +90,22 @@ Im Sinne dieses Bundesgesetzes sind Daten sowohl personenbezogene und nicht pers
 **§ 74 (3) StGB.**  
 Unter leitenden Angestellten sind Angestellte eines Unternehmens, auf dessen Geschäftsführung ihnen ein maßgeblicher Einfluss zusteht, zu verstehen. Ihnen stehen Geschäftsführer, Mitglieder des Vorstands oder Aufsichtsrats und Prokuristen ohne Angestelltenverhältnis gleich.
 ## Besonderer Teil | Erster Abschnitt | Strafbare Handlungen gegen Leib und Leben
+
 ### § 75 StGB. Mord
 
 **§ 75 StGB.**  
  Wer einen anderen tötet, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
+
 ### § 76 StGB. Totschlag
 
 **§ 76 StGB.**  
  Wer sich in einer allgemein begreiflichen heftigen Gemütsbewegung dazu hinreißen läßt, einen anderen zu töten, ist mit Freiheitsstrafe von fünf bis zu zehn Jahren zu bestrafen.
+
 ### § 77 StGB. Tötung auf Verlangen
 
 **§ 77 StGB.**  
  Wer einen anderen auf dessen ernstliches und eindringliches Verlangen tötet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
 ### § 78 StGB. Mitwirkung an der Selbsttötung
 
 **§ 78 (1) StGB.**  
@@ -105,10 +116,12 @@ Ebenso ist zu bestrafen, wer
 1. einer minderjährigen Person,
 2. einer Person aus einem verwerflichen Beweggrund oder
 3. einer Person, die nicht an einer Krankheit im Sinne des § 6 Abs. 3 des Sterbeverfügungsgesetzes (StVfG), BGBl. I Nr. 242/2021, leidet oder die nicht gemäß § 7 StVfG ärztlich aufgeklärt wurde,
+
 ### § 79 StGB. Tötung eines Kindes bei der Geburt
 
 **§ 79 StGB.**  
  Eine Mutter, die das Kind während der Geburt oder solange sie noch unter der Einwirkung des Geburtsvorgangs steht, tötet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
 ### § 80 StGB. Fahrlässige Tötung
 
 **§ 80 (1) StGB.**  
@@ -116,6 +129,7 @@ Wer fahrlässig den Tod eines anderen herbeiführt, ist mit Freiheitsstrafe bis 
 
 **§ 80 (2) StGB.**  
 Hat die Tat den Tod mehrerer Menschen zur Folge, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+
 ### § 81 StGB. Grob fahrlässige Tötung
 
 **§ 81 (1) StGB.**  
@@ -126,6 +140,7 @@ Ebenso ist zu bestrafen, wer den Tod eines Menschen fahrlässig herbeiführt, na
 
 **§ 81 (3) StGB.**  
 Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer grob fahrlässig (§ 6 Abs. 3) oder in dem in Abs. 2 bezeichneten Fall den Tod einer größeren Zahl von Menschen herbeiführt.
+
 ### § 82 StGB. Aussetzung
 
 **§ 82 (1) StGB.**  
@@ -136,6 +151,7 @@ Ebenso ist zu bestrafen, wer das Leben eines anderen, der unter seiner Obhut ste
 
 **§ 82 (3) StGB.**  
 Hat die Tat den Tod des Gefährdeten zur Folge, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+
 ### § 83 StGB. Körperverletzung
 
 **§ 83 (1) StGB.**  
@@ -148,6 +164,7 @@ Ebenso ist zu bestrafen, wer einen anderen am Körper mißhandelt und dadurch fa
 Wer eine Körperverletzung nach Abs. 1 oder 2 an einer Person, die
 1. mit der Kontrolle der Einhaltung der Beförderungsbedingungen oder der Lenkung eines Beförderungsmittels einer dem öffentlichen Verkehr dienenden Anstalt betraut ist,
 2. in einem gesetzlich geregelten Gesundheitsberuf, in einer anerkannten Rettungsorganisation oder in der Verwaltung im Bereich eines solchen Berufes, insbesondere einer Krankenanstalt, oder als Organ der Feuerwehr tätig ist,
+
 ### § 84 StGB. Schwere Körperverletzung
 
 **§ 84 (1) StGB.**  
@@ -167,6 +184,7 @@ Ebenso ist zu bestrafen, wer eine Körperverletzung (§ 83 Abs. 1 oder Abs. 2
 1. auf eine Weise, mit der Lebensgefahr verbunden ist,
 2. mit mindestens zwei Personen in verabredeter Verbindung oder
 3. unter Zufügung besonderer Qualen.
+
 ### § 85 StGB. Körperverletzung mit schweren Dauerfolgen
 
 **§ 85 (1) StGB.**  
@@ -177,6 +195,7 @@ Wer einen anderen am Körper misshandelt und dadurch fahrlässig für immer oder
 4. ein schweres Leiden, Siechtum oder Berufsunfähigkeit des Geschädigten,
 **FIXME** P: <p class="SatznachNovao AlignJustify">herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.</p>
 **FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(2)</span><span><span aria-hidden="true">Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Dauerfolge (Abs.&nbsp;1) beim Verletzten herbeiführt.</span></span></div></div></li></ol>
+
 ### § 86 StGB. Körperverletzung mit tödlichem Ausgang
 
 **§ 86 (1) StGB.**  
@@ -184,6 +203,7 @@ Wer einen anderen am Körper misshandelt und dadurch fahrlässig dessen Tod herb
 
 **§ 86 (2) StGB.**  
 Wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch fahrlässig dessen Tod herbeiführt, ist mit Freiheitsstrafe von einem bis zu fünfzehn Jahren zu bestrafen.
+
 ### § 87 StGB. Absichtliche schwere Körperverletzung
 
 **§ 87 (1) StGB.**  
@@ -194,6 +214,7 @@ Wer die Tat an einem Beamten, Zeugen oder Sachverständigen während oder wegen 
 
 **§ 87 (2) StGB.**  
 Zieht die Tat nach Abs. 1 eine schwere Dauerfolge (§ 85) nach sich, so ist der Täter mit Freiheitsstrafe von einem bis zu fünfzehn Jahren, im Falle des Abs. 1a mit Freiheitsstrafe von zwei bis zu fünfzehn Jahren, hat die Tat den Tod des Geschädigten zur Folge, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen.
+
 ### § 88 StGB. Fahrlässige Körperverletzung
 
 **§ 88 (1) StGB.**  
@@ -206,10 +227,12 @@ Handelt der Täter nicht grob fahrlässig (§ 6 Abs. 3) und ist
 3. der Täter ein Angehöriger eines gesetzlich geregelten Gesundheitsberufes und die Körperverletzung in Ausübung seines Berufes zugefügt worden,
 **FIXME** P: <p class="SatznachNovao AlignJustify"><span aria-hidden="true">so ist der Täter nach Abs.&nbsp;1 nicht zu bestrafen.</span></p>
 **FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(3)</span><span><span aria-hidden="true">Wer grob fahrlässig (§&nbsp;6 Abs.&nbsp;3) oder in dem in §&nbsp;81 Abs.&nbsp;2 bezeichneten Fall einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span><span aria-hidden="true">Hat die Tat nach Abs.&nbsp;1 eine schwere Körperverletzung (§&nbsp;84 Abs.&nbsp;1) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen. Hat die Tat nach Abs.&nbsp;3 eine schwere Körperverletzung (§&nbsp;84 Abs.&nbsp;1) zur Folge, ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat sie jedoch eine schwere Körperverletzung (§&nbsp;84 Abs.&nbsp;1) einer größeren Zahl von Menschen zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.</span></span></div></div></li></ol>
+
 ### § 89 StGB. Gefährdung der körperlichen Sicherheit
 
 **§ 89 StGB.**  
  Wer vorsätzlich, grob fahrlässig (§ 6 Abs. 3) oder fahrlässig unter den in § 81 Abs. 2 umschriebenen Umständen, eine Gefahr für das Leben, die Gesundheit oder die körperliche Sicherheit eines anderen herbeiführt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+
 ### § 90 StGB. Einwilligung des Verletzten
 
 **§ 90 (1) StGB.**  
@@ -220,6 +243,7 @@ Die von einem Arzt an einer Person mit deren Einwilligung vorgenommene Sterilisa
 
 **§ 90 (3) StGB.**  
 In eine Genitalverstümmelung (§ 85 Abs. 1 Z 2a) kann nicht eingewilligt werden.
+
 ### § 91 StGB. Raufhandel
 
 **§ 91 (1) StGB.**  
@@ -233,12 +257,14 @@ Wer an einer Schlägerei oder einem Angriff mehrerer in einem Sicherheitsbereich
 
 **§ 91 (3) StGB.**  
 Der Täter, dem aus der Teilnahme kein Vorwurf gemacht werden kann, ist nicht zu bestrafen.
+
 ### § 91a StGB. Tätlicher Angriff auf mit bestimmten Aufgaben betraute Bedienstete einer dem öffentlichen Verkehr dienenden Anstalt oder Angehörige des Gesundheits- oder Rettungswesens oder Organe der Feuerwehr
 
 **§ 91a StGB.**  
  Wer eine Person,
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die mit der Kontrolle der Einhaltung der Beförderungsbedingungen oder der Lenkung eines Beförderungsmittels einer dem öffentlichen Verkehr dienenden Anstalt betraut ist, </div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">in einem gesetzlich geregelten Gesundheitsberuf, für eine anerkannte Rettungsorganisation oder in der Verwaltung im Bereich eines solchen Berufs, insbesondere einer Krankenanstalt, oder als Organ der Feuerwehr tätig ist,</div></div></li></ol>
 **FIXME** DIV: <div class="SchlussteilE0">während der Ausübung ihrer Tätigkeit tätlich angreift, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.</div>
+
 ### § 92 StGB. Quälen oder Vernachlässigen unmündiger, jüngerer oder wehrloser Personen
 
 **§ 92 (1) StGB.**  
@@ -249,6 +275,7 @@ Ebenso ist zu bestrafen, wer seine Verpflichtung zur Fürsorge oder Obhut einem 
 
 **§ 92 (3) StGB.**  
 Hat die Tat eine Körperverletzung mit schweren Dauerfolgen (§ 85) zur Folge, so ist der Täter mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, hat sie den Tod des Geschädigten zur Folge, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+
 ### § 93 StGB. Überanstrengung unmündiger, jüngerer oder schonungsbedürftiger Personen
 
 **§ 93 (1) StGB.**  
@@ -256,6 +283,7 @@ Wer einen anderen, der von ihm abhängig ist oder seiner Fürsorge oder Obhut un
 
 **§ 93 (2) StGB.**  
 Hat die Tat eine der im § 92 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+
 ### § 94 StGB. Imstichlassen eines Verletzten
 
 **§ 94 (1) StGB.**  
@@ -269,6 +297,7 @@ Der Täter ist entschuldigt, wenn ihm die Hilfeleistung nicht zuzumuten ist. Die
 
 **§ 94 (4) StGB.**  
 Der Täter ist nach Abs. 1 und 2 nicht zu bestrafen, wenn er schon wegen der Verletzung mit der gleichen oder einer strengeren Strafe bedroht ist.
+
 ### § 95 StGB. Unterlassung der Hilfeleistung
 
 **§ 95 (1) StGB.**  

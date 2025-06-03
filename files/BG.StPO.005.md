@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 3. Abschnitt | Privatankläger und Subsidiarankläger
+
 ### § 71 StPO. Privatankläger
 
 **§ 71 (1) StPO.**  
@@ -28,6 +29,7 @@ Im Hauptverfahren hat der Privatankläger grundsätzlich die gleichen Rechte wie
 
 **§ 71 (7) StPO.**  
 Kommt der Privatankläger nicht zur Hauptverhandlung oder stellt er nicht die erforderlichen Anträge, so wird angenommen, dass er auf die Verfolgung verzichtet habe. In diesen Fällen ist das Verfahren durch Beschluss einzustellen.
+
 ### § 72 StPO. Subsidiarankläger
 
 **§ 72 (1) StPO.**  
@@ -42,11 +44,13 @@ Tritt die Staatsanwaltschaft außerhalb der Hauptverhandlung von der Anklage zur
 **§ 72 (4) StPO.**  
 Der Subsidiarankläger hat im Hauptverfahren die gleichen Rechte wie der Privatankläger. Rechtsmittel gegen Urteile stehen ihm jedoch nur soweit zu, als der Privatbeteiligte sie zu erheben berechtigt ist. Die Staatsanwaltschaft kann sich jederzeit über den Gang des Verfahrens informieren und die Anklage wieder an sich ziehen; in diesem Fall stehen dem Subsidiarankläger wieder die Rechte des Privatbeteiligten zu.
 ## 4. Abschnitt | Vertreter
+
 ### § 73 StPO. Vertreter
 
 **§ 73 StPO.**  
  Vertreter stehen Haftungsbeteiligten, Opfern, Privatbeteiligten, Privatanklägern und Subsidiaranklägern beratend und unterstützend zur Seite. Sie üben, soweit in diesem Gesetz nichts anderes bestimmt wird, die Verfahrensrechte aus, die den Vertretenen zustehen. Als Vertreter kann eine zur Ausübung der Rechtsanwaltschaft berechtigte, eine nach § 25 Abs. 3 SPG anerkannte Opferschutzeinrichtung oder eine sonst geeignete Person bevollmächtigt werden.
 ## 5. Hauptstück | Gemeinsame Bestimmungen | 1. Abschnitt | Einsatz der Informationstechnik
+
 ### § 74 StPO. Verarbeitung personenbezogener Daten
 
 **§ 74 (1) StPO.**  
@@ -54,6 +58,7 @@ Kriminalpolizei, Staatsanwaltschaft und Gericht dürfen im Rahmen ihrer Aufgaben
 
 **§ 74 (2) StPO.**  
 Kriminalpolizei, Staatsanwaltschaft und Gericht haben beim Verarbeiten personenbezogener Daten den Grundsatz der Gesetz- und Verhältnismäßigkeit (§ 5) zu beachten. Jedenfalls haben sie schutzwürdige Interessen der betroffenen Personen an der Geheimhaltung zu wahren und vertraulicher Behandlung personenbezogener Daten Vorrang einzuräumen. Bei der Verarbeitung besonderer Kategorien (§ 39 DSG) und strafrechtlich relevanter personenbezogener Daten haben sie angemessene Vorkehrungen zur Wahrung der Geheimhaltungsinteressen der betroffenen Personen zu treffen.
+
 ### § 75 StPO. Berichtigen, Löschen und Sperren personenbezogener Daten
 
 **§ 75 (1) StPO.**  
@@ -70,6 +75,7 @@ Nach sechzig Jahren ab den in Abs. 2 angeführten Zeitpunkten sind alle persone
 **§ 75 (4) StPO.**  
 Personenbezogene Daten, die ausschließlich auf Grund einer Identitätsfeststellung (§ 118), einer körperlichen Untersuchung (§ 123) oder einer molekulargenetischen Analyse (§ 124) gewonnen wurden, dürfen nur solange verarbeitet werden, als wegen der Art der Ausführung der Tat, der Persönlichkeit der betroffenen Person oder auf Grund anderer Umstände zu befürchten ist, dass diese Person eine strafbare Handlung mit nicht bloß leichten Folgen begehen werde. Wird der Angeklagte rechtskräftig freigesprochen oder das Ermittlungsverfahren ohne Vorbehalt späterer Verfolgung eingestellt, so sind diese personenbezogenen Daten zu löschen. Die §§ 73 und 74 SPG bleiben hievon unberührt.
 ## 2. Abschnitt | Amts- und Rechtshilfe, Akteneinsicht
+
 ### § 76 StPO. Amts- und Rechtshilfe
 
 **§ 76 (1) StPO.**  
@@ -96,6 +102,7 @@ Vom Beginn und von der Beendigung eines Strafverfahrens gegen Beamte ist die Die
 Kriminalpolizei, Staatsanwaltschaften und Gerichte sind berechtigt, nach diesem Gesetz ermittelte personenbezogene Daten, die zulässig in einem Strafverfahren Verwendung finden können,
 1. zum Zweck der Vorbeugung einer mit beträchtlicher Strafe bedrohten Handlung (§ 17 SPG) gegen Leben, Gesundheit, Freiheit oder Sittlichkeit an die Teilnehmer einer sicherheitspolizeilichen Fallkonferenz (§ 22 Abs. 2 SPG);
 2. zum Zweck des vorbeugenden Schutzes vor verfassungsgefährdenden Angriffen (§ 6 Abs. 2 Staatsschutz- und Nachrichtendienst-Gesetz – SNG, BGBl. I Nr. 5/2016) an die Teilnehmer einer Fallkonferenz Staatsschutz (§ 6a Abs. 1 SNG)
+
 ### § 77 StPO. Akteneinsicht
 
 **§ 77 (1) StPO.**  
@@ -107,6 +114,7 @@ Zum Zweck einer nicht personenbezogenen Auswertung für wissenschaftliche oder h
 **§ 77 (3) StPO.**  
 § 54 ist sinngemäß anzuwenden.
 ## 3. Abschnitt | Anzeigepflicht, Anzeige- und Anhalterecht
+
 ### § 78 StPO. Anzeigepflicht
 
 **§ 78 (1) StPO.**  
@@ -119,10 +127,12 @@ Eine Pflicht zur Anzeige nach Abs. 1 besteht nicht,
 
 **§ 78 (3) StPO.**  
 Die Behörde oder öffentliche Dienststelle hat jedenfalls alles zu unternehmen, was zum Schutz des Opfers oder anderer Personen vor Gefährdung notwendig ist; erforderlichenfalls ist auch in den Fällen des Abs. 2 Anzeige zu erstatten.
+
 ### § 79 StPO.
 
 **§ 79 StPO.**  
  Soweit eine gesetzliche Anzeigepflicht besteht, sind der Kriminalpolizei, den Staatsanwaltschaften und den Gerichten zur Aufklärung einer Straftat einer bestimmten Person von Amts wegen oder auf Grund von Ersuchen Ablichtungen der Akten und sonstigen schriftlichen Aufzeichnungen zu übermitteln oder Akteneinsicht zu gewähren. Eine Berufung auf bestehende gesetzliche Verschwiegenheitspflichten ist insoweit unzulässig.
+
 ### § 80 StPO. Anzeige- und Anhalterecht
 
 **§ 80 (1) StPO.**  
@@ -131,6 +141,7 @@ Wer von der Begehung einer strafbaren Handlung Kenntnis erlangt, ist zur Anzeige
 **§ 80 (2) StPO.**  
 Wer auf Grund bestimmter Tatsachen annehmen kann, dass eine Person eine strafbare Handlung ausführe, unmittelbar zuvor ausgeführt habe oder dass wegen der Begehung einer strafbaren Handlung nach ihr gefahndet werde, ist berechtigt, diese Person auf verhältnismäßige Weise anzuhalten, jedoch zur unverzüglichen Anzeige an das nächst erreichbare Organ des öffentlichen Sicherheitsdienstes verpflichtet.
 ## 4. Abschnitt | Bekanntmachung, Zustellung und Fristen
+
 ### § 81 StPO. Bekanntmachung
 
 **§ 81 (1) StPO.**  
@@ -141,6 +152,7 @@ Mündliche Verkündungen sind zu protokollieren. Jeder Person, der mündlich ver
 
 **§ 81 (3) StPO.**  
 Der Staatsanwaltschaft und dem Gericht können die Akten zur Einsicht in die Erledigung übermittelt werden. In diesem Fall hat die Staatsanwaltschaft oder das Gericht den Tag des Einlangens der Akten und den Tag der Einsichtnahme nachvollziehbar in den Akten zu beurkunden.
+
 ### § 82 StPO. Zustellung
 
 **§ 82 (1) StPO.**  
@@ -151,6 +163,7 @@ Die §§ 8, 9 Abs. 2 erster Satz und Abs. 3 sowie 10 des Zustellgesetzes und 
 
 **§ 82 (3) StPO.**  
 Zustellungen haben durch unmittelbare Übergabe oder durch Zustelldienste (§ 2 Zustellgesetz) zu erfolgen. Die Kriminalpolizei ist nur dann um eine Zustellung zu ersuchen, wenn dies im Interesse der Strafrechtspflege unbedingt erforderlich ist.
+
 ### § 83 StPO. Arten der Zustellung
 
 **§ 83 (1) StPO.**  
@@ -167,6 +180,7 @@ Soweit der Beschuldigte oder ein anderer Beteiligter des Verfahrens durch einen 
 
 **§ 83 (5) StPO.**  
 Opfern kann durch öffentliche Bekanntmachung zugestellt werden, soweit die Voraussetzungen des § 25 des Zustellgesetzes vorliegen oder schon deren Ausforschung oder die Aufforderung zur Namhaftmachung eines Zustellungsbevollmächtigten (§ 82 Abs. 2) einen dem Beschleunigungsgebot (§ 9) widerstreitenden Verfahrensaufwand bedeuten würde. Die Bekanntmachung ist in die Ediktsdatei (§ 89j Abs. 1 GOG) aufzunehmen, wodurch die Zustellung als bewirkt gilt.
+
 ### § 84 StPO. Fristen
 
 **§ 84 (1) StPO.**  

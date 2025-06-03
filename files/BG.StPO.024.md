@@ -6,10 +6,12 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 20. Hauptstück | Verfahren gegen Abwesende
+
 ### § 412 StPO.
 
 **§ 412 StPO.**  
  (Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+
 ### § 427 StPO. Abwesenheitsverfahren
 
 **§ 427 (1) StPO.**  
@@ -20,15 +22,18 @@ Soweit die Hauptverhandlung in Abwesenheit des Angeklagten nicht durchgeführt w
 
 **§ 427 (3) StPO.**  
 Gegen das in Abwesenheit des Angeklagten gefällte Urteil kann dieser beim Landesgericht innerhalb von vierzehn Tagen Einspruch erheben. Die Nichtigkeitsbeschwerde und die Berufung gegen ein Abwesenheitsurteil können auch nach Ablauf der Anmeldungsfrist zusammen mit dem Einspruch angemeldet werden. Dem Einspruch ist stattzugeben, wenn nachgewiesen wird, daß der Angeklagte durch ein unabweisbares Hindernis abgehalten wurde, in der Hauptverhandlung zu erscheinen. In diesem Fall ist eine neue Hauptverhandlung anzuordnen. Über den Einspruch entscheidet das Oberlandesgericht nach Anhörung der Oberstaatsanwaltschaft in nichtöffentlicher Sitzung. Weist es den Einspruch zurück, so steht dem Angeklagten gegen das Urteil ein Rechtsmittel nicht mehr offen. Hat der Verurteilte zugleich mit dem Einspruche die Nichtigkeitsbeschwerde oder die Berufung ergriffen oder liegt eine von anderer Seite ergriffene Berufung oder Nichtigkeitsbeschwerde vor, so ist von dem Gerichte, dem die Akten nach Vorschrift der §§ 285 und 294 vorgelegt werden, vorerst über den Einspruch in nichtöffentlicher Sitzung nach Anhörung der Staatsanwaltschaft zu entscheiden; nur wenn der Einspruch zurückgewiesen wird, ist in die Prüfung der Berufung oder Nichtigkeitsbeschwerde einzugehen.
+
 ### § 428 StPO.
 
 **§ 428 StPO.**  
  Durch das Nichterscheinen eines Angeklagten und das dadurch veranlaßte Ungehorsamverfahren darf das Verfahren gegen die anwesenden Mitangeklagten nicht verzögert werden. Werden in solchen Fällen Gegenstände, die zur Überweisung der Angeklagten dienen können, den Eigentümern zurückgestellt, so kann diesen die Verpflichtung auferlegt werden, die Beweisstücke auf Begehren wieder beizubringen. Zugleich ist eine genaue Beschreibung der zurückgestellten Gegenstände zu den Akten zu bringen.
 ## 21. Hauptstück | Verfahren bei vorbeugenden Maßnahmen und beim Verfall, beim erweiterten Verfall, bei der Einziehung und bei der Ausschließung vom Wahlrecht | 1. Abschnitt | Verfahren zur Unterbringung in einem forensisch-therapeutischen Zentrum nach § 21 StGB
+
 ### § 429 StPO. Verfahren zur Unterbringung
 
 **§ 429 StPO.**  
  Für die Unterbringung eines Betroffenen (§ 48 Abs. 2) in einem forensisch-therapeutischen Zentrum (§ 21 StGB) gelten die Bestimmungen über das Strafverfahren sinngemäß, soweit im Folgenden nichts anderes bestimmt wird.
+
 ### § 430 StPO. Besonderheiten des Verfahrens
 
 **§ 430 (1) StPO.**  
@@ -41,6 +46,7 @@ Sobald aufgrund bestimmter Anhaltspunkte (§ 1 Abs. 3 StPO) angenommen werden
 
 **§ 430 (2) StPO.**  
 Das nach § 109 Jurisdiktionsnorm, RGBl. Nr. 111/1895, zuständige Gericht ist unverzüglich vom Verfahren und von dessen Beendigung, gegebenenfalls mit der Anregung, einen Erwachsenenvertreter zu bestellen, zu verständigen. Hat der Betroffene einen gesetzlichen Vertreter, so ist auch dieser zu verständigen.
+
 ### § 431 StPO. Vorläufige Unterbringung
 
 **§ 431 (1) StPO.**  
@@ -54,6 +60,7 @@ Dem Vollzug einer Unterbringung in einem forensisch-therapeutischen Zentrum ist 
 
 **§ 431 (4) StPO.**  
 § 172 Abs. 4 und § 181a gelten sinngemäß.
+
 ### § 432 StPO. Ort der vorläufigen Unterbringung
 
 **§ 432 (1) StPO.**  
@@ -67,6 +74,7 @@ Befindet sich der Betroffene in Untersuchungshaft, so ist er nach Entscheidung �
 
 **§ 432 (4) StPO.**  
 Vor einer Änderung des Unterbringungsortes nach Abs. 2 sind der Betroffene und dessen gesetzlicher Vertreter, die Staatsanwaltschaft und das Gericht zu hören; nach der Überstellung sind die Staatsanwaltschaft, das Gericht, der Verteidiger und der gesetzliche Vertreter des Betroffenen durch das nunmehr zuständige forensisch-therapeutische Zentrum unverzüglich zu verständigen.
+
 ### § 433 StPO. Vollzug der vorläufigen Unterbringung
 
 **§ 433 (1) StPO.**  
@@ -83,6 +91,7 @@ Kann auf Grund bestimmter Tatsachen angenommen werden, dass im Falle einer Unter
 
 **§ 433 (5) StPO.**  
 Im Falle eines Strafurteils (§ 21 Abs. 2 StGB, § 434b Abs. 1 zweiter Satz) ist die vorläufige Unterbringung auf Freiheits- und Geldstrafen anzurechnen (§ 38 StGB).
+
 ### § 434 StPO. Antrag auf Unterbringung
 
 **§ 434 (1) StPO.**  
@@ -90,10 +99,12 @@ Liegen hinreichende Gründe für die Unterbringung nach § 21 Abs. 1 StGB vor
 
 **§ 434 (2) StPO.**  
 Über den Antrag auf Unterbringung entscheidet das Landesgericht, das für ein Strafverfahren auf Grund einer Anklage oder eines Strafantrages gegen den Betroffenen wegen seiner Tat (§ 21 Abs. 3 StGB) zuständig ist oder zuständig wäre. Anstelle des Einzelrichters des Landesgerichts entscheidet jedoch das Landesgericht als Schöffengericht in der Besetzung mit zwei Berufsrichtern und zwei Schöffen (§ 32 Abs. 1a).
+
 ### § 434a StPO. Entscheidung durch Urteil
 
 **§ 434a StPO.**  
  Das Gericht entscheidet über die Unterbringung nach öffentlicher mündlicher Hauptverhandlung, die in sinngemäßer Anwendung der Bestimmungen des 14. und 15. Hauptstücks durchzuführen ist, durch Urteil.
+
 ### § 434b StPO. Gleichwertigkeit von Anklage und Antrag auf Unterbringung
 
 **§ 434b (1) StPO.**  
@@ -107,6 +118,7 @@ Das Gericht hat den Angeklagten oder Betroffenen in den Fällen des Abs. 1 übe
 
 **§ 434b (4) StPO.**  
 Eine Unterbringung darf nur dann ausgesprochen werden, wenn während der gesamten Hauptverhandlung die Voraussetzungen nach § 434 Abs. 2 zweiter Satz und § 434d Abs. 1 und 2 erfüllt waren, widrigenfalls die Hauptverhandlung zu vertagen (§ 276) und zu wiederholen (§ 276a zweiter Satz) ist.
+
 ### § 434c StPO. Rechte des gesetzlichen Vertreters
 
 **§ 434c (1) StPO.**  
@@ -120,6 +132,7 @@ Hat der Betroffene einen gesetzlichen Vertreter und ist dieser der Beteiligung a
 
 **§ 434c (4) StPO.**  
 Wird die vorläufige Unterbringung des Betroffenen angeordnet oder aufgehoben, so ist der gesetzliche Vertreter davon zu verständigen. Das Recht auf Besuch durch den gesetzlichen Vertreter steht einem vorläufig Angehaltenen in gleichem Umfang zu wie das Recht auf Besuch von einem Rechtsbeistand.
+
 ### § 434d StPO. Besonderheiten der Hauptverhandlung
 
 **§ 434d (1) StPO.**  
@@ -133,6 +146,7 @@ Ist in der Hauptverhandlung, in der über die Unterbringung einer Person entschi
 
 **§ 434d (4) StPO.**  
 Wird über mehrere Taten gleichzeitig erkannt und eine Unterbringung angeordnet, so ist im Urteil auszusprechen, welche Taten Anlass für die Unterbringung waren; die Unterbringung darf nur einmal angeordnet werden.
+
 ### § 434e StPO. Verfahren vor dem Landesgericht als Geschworenengericht
 
 **§ 434e (1) StPO.**  
@@ -140,6 +154,7 @@ Im Verfahren zur Unterbringung nach § 21 Abs. 1 StGB vor dem Landesgericht a
 
 **§ 434e (2) StPO.**  
 Über die Anordnung der Unterbringung entscheidet der Schwurgerichtshof gemeinsam mit den Geschworenen (§ 303).
+
 ### § 434f StPO. Rechtsmittel
 
 **§ 434f (1) StPO.**  
@@ -147,6 +162,7 @@ Das Urteil kann hinsichtlich des Ausspruchs über die Unterbringung in sinngemä
 
 **§ 434f (2) StPO.**  
 Für die Wiederaufnahme und die Erneuerung des Unterbringungsverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die Bestimmungen des 16. Hauptstücks sinngemäß.
+
 ### § 434g StPO. Verfahren beim vorläufigen Absehen vom Vollzug der Unterbringung
 
 **§ 434g (1) StPO.**  
@@ -170,6 +186,7 @@ Zugleich legt das Gericht mit Beschluss die Bedingungen für das vorläufige Abs
 **§ 434g (7) StPO.**  
 Wird eine Bedingung festgelegt, die die Interessen des Opfers unmittelbar berührt, so ist das Opfer über deren Inhalt und ihre Bedeutung zu verständigen.
 **FIXME** H4: <h4 class="UeberschrG1- AlignCenter">2.&nbsp;Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Verfahren zur Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach §&nbsp;22&nbsp;StGB oder in einer Anstalt für gefährliche Rückfallstäter nach §&nbsp;23&nbsp;StGB und zur Verhängung eines Tätigkeitsverbotes nach §&nbsp;220b&nbsp;StGB</span></h4>
+
 ### § 435 StPO.
 
 **§ 435 (1) StPO.**  
@@ -177,14 +194,17 @@ Wird eine Bedingung festgelegt, die die Interessen des Opfers unmittelbar berüh
 
 **§ 435 (2) StPO.**  
 Die Anordnung der Unterbringung in einer der in diesen Bestimmungen genannten Anstalten oder ihr Unterbleiben sowie die Anordnung eines Tätigkeitsverbotes oder deren Unterbleiben bilden einen Teil des Ausspruches über die Strafe und können zugunsten und zum Nachteil des Verurteilten mit Nichtigkeitsbeschwerde und mit Berufung angefochten werden.
+
 ### § 437 StPO.
 
 **§ 437 StPO.**  
  Einen Antrag auf Unterbringung in einer der in den § 22 und § 23 StGB vorgesehenen Anstalten oder auf Anordnung eines Tätigkeitsverbotes hat die Staatsanwaltschaft in der Anklage zu stellen. Das Gericht kann jedoch auch ohne einen solchen Antrag die Unterbringung oder das Tätigkeitsverbot anordnen.
+
 ### § 438 StPO.
 
 **§ 438 StPO.**  
  Liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 22 StGB gegeben seien, und Haftgründe (§ 173 Abs. 2 und 6) vor, kann der Beschuldigte aber nicht ohne Schwierigkeiten in einer Justizanstalt angehalten werden, so ist mit Beschluss anzuordnen, dass die Untersuchungshaft durch vorläufige Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher zu vollziehen ist. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden.
+
 ### § 439 StPO.
 
 **§ 439 (1) StPO.**  
@@ -195,10 +215,12 @@ Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher od
 
 **§ 439 (3) StPO.**  
 Sieht das Gericht von der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher wegen der Höhe der ausgesprochenen Strafe ab (§ 22 Abs. 2 StGB), so hat es diesen Umstand in den Entscheidungsgründen auszusprechen.
+
 ### § 440 StPO.
 
 **§ 440 StPO.**  
  Hat der Beschuldigte einen gesetzlichen Vertreter, so ist in einem Verfahren, in dem hinreichende Gründe für die Annahme der Voraussetzungen des § 22 oder § 23 StGB vorliegen, § 434c sinngemäß anzuwenden.
+
 ### § 441 StPO.
 
 **§ 441 (1) StPO.**  
@@ -206,6 +228,7 @@ Liegen hinreichende Gründe für die Annahme vor, dass die Voraussetzungen für 
 
 **§ 441 (2) StPO.**  
 § 439 Abs. 1 und 2 sowie § 440 gelten in diesem Fall sinngemäß.
+
 ### § 442 StPO.
 
 **§ 442 StPO.**  

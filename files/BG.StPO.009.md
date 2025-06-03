@@ -6,11 +6,13 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 2. Abschnitt | Identitätsfeststellung, Durchsuchung von Orten und Gegenständen, Durchsuchung von Personen, körperliche Untersuchung und molekulargenetische Untersuchung
+
 ### § 117 StPO. Definitionen
 
 **§ 117 StPO.**  
  Im Sinne dieses Gesetzes ist
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Identitätsfeststellung“ die Ermittlung und Feststellung von Daten (§&nbsp;36 Abs.&nbsp;2 Z&nbsp;1 DSG), die eine bestimmte Person unverwechselbar kennzeichnen,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Durchsuchung von Orten und Gegenständen“ das Durchsuchen</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">eines nicht allgemein zugänglichen Grundstückes, Raumes, Fahrzeuges oder Behältnisses,</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">einer Wohnung oder eines anderen Ortes, der durch das Hausrecht geschützt ist, und darin befindlicher Gegenstände,</div></div></li></ol></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Durchsuchung einer Person“</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">die Durchsuchung der Bekleidung einer Person und der Gegenstände, die sie bei sich hat,</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">die Besichtigung des unbekleideten Körpers einer Person,</div></div></li></ol></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„körperliche Untersuchung“ die Durchsuchung von Körperöffnungen, die Abnahme einer Blutprobe und jeder andere Eingriff in die körperliche Integrität von Personen,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">5.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„molekulargenetische Untersuchung“ die Ermittlung jener Bereiche in der DNA einer Person, die der Wiedererkennung dienen.</div></div></li></ol>
+
 ### § 118 StPO. Identitätsfeststellung
 
 **§ 118 (1) StPO.**  
@@ -24,6 +26,7 @@ Jedermann ist verpflichtet, auf eine den Umständen nach angemessene Weise an de
 
 **§ 118 (4) StPO.**  
 Wenn die Person an der Identitätsfeststellung nicht mitwirkt oder ihre Identität aus anderen Gründen nicht sogleich festgestellt werden kann, ist die Kriminalpolizei berechtigt, zur Feststellung der Identität eine Durchsuchung der Person nach § 117 Z 3 lit. a von sich aus durchzuführen.
+
 ### § 119 StPO. Durchsuchung von Orten und Gegenständen sowie von Personen
 
 **§ 119 (1) StPO.**  
@@ -34,6 +37,7 @@ Durchsuchung einer Person (§ 117 Z 3) ist zulässig, wenn diese
 1. festgenommen oder auf frischer Tat betreten wurde,
 2. einer Straftat verdächtig ist und auf Grund bestimmter Tatsachen anzunehmen ist, dass sie Gegenstände, die der Sicherstellung unterliegen, bei sich oder Spuren an sich habe,
 3. durch eine Straftat Verletzungen erlitten oder andere Veränderungen am Körper erfahren haben könnte, deren Feststellung für Zwecke eines Strafverfahrens erforderlich ist.
+
 ### § 120 StPO.
 
 **§ 120 (1) StPO.**  
@@ -41,6 +45,7 @@ Durchsuchungen von Orten und Gegenständen nach § 117 Z 2 lit. b und von Per
 
 **§ 120 (2) StPO.**  
 Durchsuchungen nach § 117 Z 2 lit. a und nach § 117 Z 3 lit. a kann die Kriminalpolizei von sich aus durchführen.
+
 ### § 121 StPO.
 
 **§ 121 (1) StPO.**  
@@ -51,6 +56,7 @@ Der Betroffene hat das Recht, bei einer Durchsuchung nach § 117 Z 2 anwesend 
 
 **§ 121 (3) StPO.**  
 Bei der Durchführung sind Aufsehen, Belästigungen und Störungen auf das unvermeidbare Maß zu beschränken. Die Eigentums- und Persönlichkeitsrechte sämtlicher Betroffener sind soweit wie möglich zu wahren. Eine Durchsuchung von Personen nach § 117 Z 3 lit. b ist stets von einer Person desselben Geschlechts oder von einem Arzt unter Achtung der Würde der zu untersuchenden Person vorzunehmen.
+
 ### § 122 StPO.
 
 **§ 122 (1) StPO.**  
@@ -61,6 +67,7 @@ Werden bei einer Durchsuchung Gegenstände gefunden, die auf die Begehung einer 
 
 **§ 122 (3) StPO.**  
 In jedem Fall ist dem Betroffenen sogleich oder längstens binnen 24 Stunden eine Bestätigung über die Durchsuchung und deren Ergebnis sowie gegebenenfalls die Anordnung der Staatsanwaltschaft samt gerichtlicher Entscheidung auszufolgen oder zuzustellen.
+
 ### § 123 StPO. Körperliche Untersuchung
 
 **§ 123 (1) StPO.**  
@@ -97,6 +104,7 @@ Als Beweismittel dürfen die Ergebnisse einer körperlichen Untersuchung nur ver
 
 **§ 123 (7) StPO.**  
 Ergebnisse einer körperlichen Untersuchung, die aus anderen als strafprozessualen Gründen durchgeführt wurde, dürfen in einem Strafverfahren nur als Beweismittel verwendet werden, wenn dies zum Nachweis einer Straftat, deretwegen die körperliche Untersuchung hätte angeordnet werden können, erforderlich ist.
+
 ### § 124 StPO. Molekulargenetische Untersuchung
 
 **§ 124 (1) StPO.**  
@@ -114,11 +122,13 @@ Untersuchungsmaterial, das einer bestimmten Person zugehört oder zugehören dü
 **§ 124 (5) StPO.**  
 Daten, die auf Grund dieser Bestimmung ermittelt wurden, sind den Sicherheitsbehörden auf deren Verlangen zu übermitteln, soweit Ermittlung und Verarbeitung dieser Daten nach sicherheitspolizeilichen Vorschriften (§§ 65 bis 67, 75 SPG) zulässig wäre.
 ## 3. Abschnitt | Sachverständige und Dolmetscher, Leichenbeschau und Obduktion
+
 ### § 125 StPO. Definitionen
 
 **§ 125 StPO.**  
  Im Sinne dieses Gesetzes ist
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Sachverständiger“ eine Person, die auf Grund besonderen Fachwissens in der Lage ist, beweiserhebliche Tatsachen festzustellen (Befundaufnahme) oder aus diesen rechtsrelevante Schlüsse zu ziehen und sie zu begründen (Gutachtenserstattung),</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Dolmetscher“ eine Person, die auf Grund besonderer Kenntnisse in der Lage ist, aus der Verfahrenssprache in eine andere Sprache oder von einer anderen in die Verfahrenssprache zu übersetzen,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Leichenbeschau“ die Besichtigung der äußeren Beschaffenheit einer Leiche,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Obduktion“ die Öffnung einer Leiche durch einen Sachverständigen zum Zweck der Feststellung von Anlass und Ursache des Todes oder von anderen für die Aufklärung einer Straftat wesentlichen Umständen.</div></div></li></ol>
+
 ### § 126 StPO. Sachverständige und Dolmetscher
 
 **§ 126 (1) StPO.**  
@@ -150,6 +160,7 @@ Für Sachverständige und Dolmetscher gelten die Befangenheitsgründe des § 47
 
 **§ 126 (5) StPO.**  
 Im Ermittlungsverfahren hat der Beschuldigte das Recht, binnen 14 Tagen ab Zustellung (Abs. 3), Kenntnis eines Befangenheitsgrundes oder Vorliegen begründeter Zweifel an der Sachkunde des Sachverständigen einen Antrag auf dessen Enthebung zu stellen, er kann auch die Bestellung im Rahmen gerichtlicher Beweisaufnahme verlangen und eine andere, nach den Kriterien der Sachkunde (Abs. 2) besser qualifizierte Person zur Bestellung vorschlagen. Will die Staatsanwaltschaft dem Begehren auf Umbestellung keine Folge geben oder wurde gerichtliche Beweisaufnahme verlangt, so hat sie den Antrag unverzüglich samt einer Stellungnahme dem Gericht vorzulegen. Wurde der Sachverständige durch das Gericht bestellt, so entscheidet es über einen Antrag nach dem ersten Satz mit Beschluss.
+
 ### § 127 StPO.
 
 **§ 127 (1) StPO.**  
@@ -166,6 +177,7 @@ Dolmetscher haben nach bestem Wissen und Gewissen zu übersetzen, Ladungen der S
 
 **§ 127 (5) StPO.**  
 Wenn ein Sachverständiger oder ein Dolmetscher die ihm gesetzte Frist zur Erstattung des Befundes oder Gutachtens oder der Übersetzung trotz Mahnung wesentlich überschreitet, kann er seines Amtes enthoben werden. Überdies kann das Gericht, wenn der Sachverständige oder Dolmetscher die Verzögerung verschuldet hat, über ihn eine Geldstrafe bis zu 10 000 Euro verhängen.
+
 ### § 128 StPO. Leichenbeschau und Obduktion
 
 **§ 128 (1) StPO.**  

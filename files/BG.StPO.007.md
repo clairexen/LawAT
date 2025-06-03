@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 3. Abschnitt | Staatsanwaltschaft im Ermittlungsverfahren
+
 ### § 101 StPO. Aufgaben
 
 **§ 101 (1) StPO.**  
@@ -19,6 +20,7 @@ Die Staatsanwaltschaft hat ihre Anträge nach Abs. 2 zu begründen und sie dem 
 
 **§ 101 (4) StPO.**  
 Die Staatsanwaltschaft prüft die Berichte der Kriminalpolizei und trifft die erforderlichen Anordnungen. Soweit dies aus rechtlichen oder tatsächlichen Gründen erforderlich ist, kann sie jederzeit weitere Ermittlungen und die Ausübung von Zwang durch die Kriminalpolizei anordnen.
+
 ### § 102 StPO. Anordnungen und Genehmigungen
 
 **§ 102 (1) StPO.**  
@@ -33,6 +35,7 @@ Eine Ausfertigung hat jedenfalls zu enthalten:
 
 **§ 102 (3) StPO.**  
 Im Fall einer im Rahmen der Rufbereitschaft bzw. des Journaldienstes (§§ 38, 39 GOG) erteilten gerichtlichen Bewilligung (§ 105 Abs. 1) hat die Anordnung der Staatsanwaltschaft an die Kriminalpolizei bis zum Ablauf des zweiten folgenden Werktages zu erfolgen, widrigenfalls die Bewilligung außer Kraft tritt.
+
 ### § 103 StPO. Ermittlungen
 
 **§ 103 (1) StPO.**  
@@ -41,6 +44,7 @@ Soweit dieses Gesetz im Einzelnen nichts anderes bestimmt, obliegt es der Krimin
 **§ 103 (2) StPO.**  
 Die Staatsanwaltschaft kann auch selbst Ermittlungen (§ 91 Abs. 2) durchführen oder durch einen Sachverständigen durchführen lassen.
 ## 4. Abschnitt | Gericht im Ermittlungsverfahren
+
 ### § 104 StPO. Gerichtliche Beweisaufnahme
 
 **§ 104 (1) StPO.**  
@@ -48,6 +52,7 @@ Das Gericht hat die Tatrekonstruktion nach den Bestimmungen des § 150 und die 
 
 **§ 104 (2) StPO.**  
 Soweit sich im Rahmen einer gerichtlichen Beweisaufnahme Umstände ergeben, die für die Beurteilung des Tatverdachts bedeutsam sind, kann das Gericht von Amts wegen oder auf Antrag weitere Beweise selbst aufnehmen. Gleiches gilt, wenn dies erforderlich ist, um die Gefahr abzuwenden, dass ein Beweismittel für eine erhebliche Tatsache verloren geht. In diesen Fällen hat das Gericht die Staatsanwaltschaft von der Beweisaufnahme zu verständigen. Die Protokolle über die Beweisaufnahmen hat das Gericht der Staatsanwaltschaft unverzüglich zu übermitteln. Das Gericht kann die Staatsanwaltschaft auch auf die Notwendigkeit der Durchführung bestimmter weiterer Ermittlungen aufmerksam machen.
+
 ### § 105 StPO. Bewilligung von Zwangsmitteln
 
 **§ 105 (1) StPO.**  
@@ -58,6 +63,7 @@ Soweit dies zur Entscheidung über einen Antrag nach Abs. 1 aus rechtlichen ode
 
 **§ 105 (3) StPO.**  
 Wird die Durchführung einer Zwangsmaßnahme durch das Gericht vorläufig mündlich bewilligt, hat das Gericht den wesentlichen Inhalt des Vorbringens der Staatsanwaltschaft und die Gründe für die Dringlichkeit in einem Amtsvermerk (§ 95) festzuhalten. Im Rahmen der Rufbereitschaft oder des Journaldienstes (§ 38, § 39 Gerichtsorganisationsgesetz – GOG, RGBl. 217/1896) darf eine Bewilligung von Zwangsmitteln nur erfolgen, wenn damit nicht bis zum Beginn der nächsten gerichtlichen Dienststunden zugewartet werden kann.
+
 ### § 106 StPO. Einspruch wegen Rechtsverletzung
 
 **§ 106 (1) StPO.**  
@@ -76,6 +82,7 @@ Die Staatsanwaltschaft hat zu prüfen, ob die behauptete Rechtsverletzung vorlie
 
 **§ 106 (5) StPO.**  
 Wenn die Staatsanwaltschaft dem Einspruch nicht,binnen vier Wochen entspricht oder der Einspruchswerber eine Entscheidung des Gerichts verlangt, hat die Staatsanwaltschaft den Einspruch unverzüglich an das Gericht weiter zu leiten. Stellungnahmen der Staatsanwaltschaft und der Kriminalpolizei hat das Gericht dem Einspruchswerber zur Äußerung binnen einer festzusetzenden, sieben Tage nicht übersteigenden Frist zuzustellen.
+
 ### § 107 StPO.
 
 **§ 107 (1) StPO.**  
@@ -89,6 +96,7 @@ Der Staatsanwaltschaft und dem Einspruchswerber steht Beschwerde zu; diese hat a
 
 **§ 107 (4) StPO.**  
 Im Falle, dass das Gericht dem Einspruch stattgibt, haben Staatsanwaltschaft und Kriminalpolizei den entsprechenden Rechtszustand mit den ihnen zu Gebote stehenden Mitteln herzustellen.
+
 ### § 108 StPO. Antrag auf Einstellung
 
 **§ 108 (1) StPO.**  

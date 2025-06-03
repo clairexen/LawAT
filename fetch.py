@@ -3,7 +3,7 @@
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
 from playwright.sync_api import sync_playwright, Locator
-import time, getopt, sys, json
+import time, getopt, sys, json, os
 from ptpython.repl import embed
 
 # Remember to launch
@@ -80,7 +80,7 @@ elif len(args) != 1:
     usage()
     sys.exit(2)
 
-with open("norm_index.json", "r") as f:
+with open("index.json", "r") as f:
     normindex = json.load(f)
 
 if (normkey := args[0]) not in normindex:
@@ -155,6 +155,7 @@ def processContentElement(el):
                 lines.append(f"## {txt}")
 
         case "H4" if "UeberschrPara" in cls:
+            lines.append("")
             lines.append(f"### {txt}")
 
         case "DIV" if "ParagraphMitAbsatzzahl" in cls:
@@ -164,6 +165,7 @@ def processContentElement(el):
                 lines.append(f"### {parName} {outBuffer[-1][4:]}")
                 del outBuffer[-1]
             else:
+                lines.append("")
                 lines.append(f"### {parName}")
             enumCnt = 0
             for item in el.locator(":scope div.content").all():
@@ -186,6 +188,7 @@ def processContentElement(el):
                 lines.append(f"### {parName} {outBuffer[-1][4:]}")
                 del outBuffer[-1]
             else:
+                lines.append("")
                 lines.append(f"### {parName}")
             lines += ["", f"**{parName}**  "] + el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
 
@@ -219,6 +222,7 @@ while blockIndex is not None and blockIndex < len(blocks):
     print("*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. " +
             "(Irrtümer und Fehler vorbehalten.)*", file=outFile)
     print("", file=outFile)
+    lineNum = 7
 
     # Process Content Blocks
     while blockIndex < len(blocks):
@@ -260,18 +264,22 @@ while blockIndex is not None and blockIndex < len(blocks):
             break
 
         for line in outBuffer:
+            lineNum += 1
             if not verboseMode and (line.startswith("#") or line.startswith("**FIXME** ")):
                 print(line)
             if line.startswith("#"):
-                indexData[-1][-1].append(line)
+                indexData[-1][-1].append([lineNum, line])
 
         print(tx, file=outFile)
 
         if "stop" in normdata:
+            stopList = normdata['stop']
+            if type(stopList) is str:
+                stopList = [stopList]
             for line in outBuffer:
-                for par in normdata['stop']:
+                for par in stopList:
                     if line.startswith(f"### {par} {normdata['title']}."):
-                        if par == normdata['stop'][-1]:
+                        if par == stopList[-1]:
                             blockIndex = None
                         blk = None
             if blk is None:
@@ -282,17 +290,30 @@ while blockIndex is not None and blockIndex < len(blocks):
             break
 
     if blockIndex is None or blockIndex >= len(blocks):
+        indexData[-1][-1].append([lineNum+2, "END-OF-FILE-SET"])
         print("\n**END-OF-FILE-SET**", file=outFile)
     else:
+        indexData[-1][-1].append([lineNum+2, "END-OF-FILE"])
         print("\n**END-OF-FILE**", file=outFile)
 
     if selectParagraph is None:
         outFile.close()
+        os.system(f"set -ex; zip -v0j RisExFiles.zip files/{normkey}.{fileIndex:03}.md")
 
 if selectParagraph is None:
     outFile = open(f"files/{normkey}.toc.json", "w")
-    json.dump(dict(indexData), outFile, indent=4)
+    if False:
+        json.dump(dict(indexData), outFile, ensure_ascii=False, indent=0)
+    else:
+        sep = "{"
+        for fn, items in indexData:
+            print(f"{sep}\n  \"{fn}\": [\n    ", end="", file=outFile)
+            print(",\n    ".join([json.dumps(item, ensure_ascii=False) for item in items]), file=outFile)
+            print("  ]", end="", file=outFile)
+            sep = ","
+        print("\n}", file=outFile)
     outFile.close()
+    os.system(f"set -ex; zip -v0j RisExFiles.zip files/{normkey}.toc.json")
 
 
 #%% Shutdown Playwright

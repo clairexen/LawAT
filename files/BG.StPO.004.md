@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 3. Abschnitt | Der Verteidiger
+
 ### § 57 StPO. Rechte des Verteidigers
 
 **§ 57 (1) StPO.**  
@@ -13,6 +14,7 @@ Der Verteidiger steht dem Beschuldigten beratend und unterstützend zur Seite. E
 
 **§ 57 (2) StPO.**  
 Der Verteidiger übt, soweit in diesem Gesetz nichts anderes bestimmt ist, die Verfahrensrechte aus, die dem Beschuldigten zustehen. Der Beschuldigte kann aber immer selbst Erklärungen abgeben; im Fall einander widersprechender Erklärungen gilt seine. Ein Verzicht auf Rechtsmittel gegen das Urteil, den der Beschuldigte nicht im Beisein seines Verteidigers und nach Beratung mit diesem abgibt, ist jedoch ohne Wirkung.
+
 ### § 58 StPO. Bevollmächtigung des Verteidigers
 
 **§ 58 (1) StPO.**  
@@ -26,6 +28,7 @@ Der Beschuldigte kann die Verteidigung vom gewählten Verteidiger jederzeit auf 
 
 **§ 58 (4) StPO.**  
 Für einen Minderjährigen und eine volljährige Person, die einen gesetzlichen Vertreter nach § 1034 Abs. 1 Z 2 oder 3 ABGB hat, kann der gesetzliche Vertreter selbst gegen ihren Willen einen Verteidiger bevollmächtigen.
+
 ### § 59 StPO.
 
 **§ 59 (1) StPO.**  
@@ -44,6 +47,7 @@ Sofern der Beschuldigte in den in Abs. 1 genannten Fällen nicht einen frei gew
 Die Kosten für die Beiziehung eines „Verteidigers in Bereitschaft“ (Abs. 4) hat der Beschuldigte nicht zu tragen, wenn er erklärt, dazu aus den in § 61 Abs. 2 erster Satz genannten Gründen außer Stande zu sein:
 1. für die Beiziehung zu der nach § 174 Abs. 1 durchzuführenden Vernehmung;
 2. wenn es sich um einen schutzbedürftigen Beschuldigten handelt (§ 61 Abs. 2 Z 2).
+
 ### § 60 StPO. Ausschluss des Verteidigers
 
 **§ 60 (1) StPO.**  
@@ -54,6 +58,7 @@ Der Ausschluss von der Verteidigung ist vom Gericht mit Beschluss auszusprechen;
 
 **§ 60 (3) StPO.**  
 Der Ausschluss ist aufzuheben, sobald seine Voraussetzungen weggefallen sind.
+
 ### § 61 StPO. Beigebung eines Verteidigers
 
 **§ 61 (1) StPO.**  
@@ -86,6 +91,7 @@ In den Fällen des Abs. 1 sind der Beschuldigte und sein gesetzlicher Vertreter
 
 **§ 61 (4) StPO.**  
 Die Beigebung eines Verfahrenshilfeverteidigers gilt, wenn das Gericht nicht im Einzelnen etwas anderes anordnet, für das gesamte weitere Verfahren bis zu dessen rechtskräftigem Abschluss sowie für ein allfälliges Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsbeschwerde oder eines Antrages auf Erneuerung des Strafverfahrens.
+
 ### § 62 StPO. Bestellung eines Verteidigers
 
 **§ 62 (1) StPO.**  
@@ -102,6 +108,7 @@ Mehreren Beschuldigten kann ein gemeinsamer Verteidiger beigegeben und bestellt 
 
 **§ 62 (4) StPO.**  
 Beigebung und Bestellung eines Verteidigers erlöschen jedenfalls mit dem Einschreiten eines bevollmächtigten Verteidigers (§ 58 Abs. 2).
+
 ### § 63 StPO. Fristenlauf
 
 **§ 63 (1) StPO.**  
@@ -110,6 +117,7 @@ Wird dem Beschuldigten innerhalb der für die Ausführung eines Rechtsmittels od
 **§ 63 (2) StPO.**  
 Wurde durch eine Zustellung an den Verteidiger eine Frist ausgelöst, so wird deren Lauf nicht dadurch unterbrochen oder gehemmt, dass die Vollmacht des Verteidigers zurückgelegt oder gekündigt wird. In diesem Fall hat der Verteidiger weiterhin die Interessen des Beschuldigten zu wahren und innerhalb der Frist erforderliche Prozesshandlungen nötigenfalls vorzunehmen, es sei denn, der Beschuldigte hätte ihm dies ausdrücklich untersagt.
 ## 4. Abschnitt | Haftungsbeteiligte
+
 ### § 64 StPO. Haftungsbeteiligte
 
 **§ 64 (1) StPO.**  
@@ -118,12 +126,14 @@ Haftungsbeteiligte sind Personen, die für Geldstrafen, Geldbußen oder für die
 **§ 64 (2) StPO.**  
 Haftungsbeteiligte können ihre Sache selbst führen oder sich vertreten lassen (§ 73).
 ## 4. Hauptstück | Opfer und ihre Rechte | 1. Abschnitt | Allgemeines
+
 ### § 65 StPO. Definitionen
 
 **§ 65 StPO.**  
  Im Sinne dieses Gesetzes ist
 **FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Opfer“</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">jede Person, die durch eine vorsätzlich begangene Straftat Gewalt oder gefährlicher Drohung ausgesetzt, in ihrer sexuellen Integrität und Selbstbestimmung beeinträchtigt oder deren persönliche Abhängigkeit durch eine solche Straftat ausgenützt worden sein könnte,</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">der Ehegatte, der eingetragene Partner, der Lebensgefährte, die Verwandten in gerader Linie, der Bruder oder die Schwester und sonstige Unterhaltsberechtigte einer Person, deren Tod durch eine Straftat herbeigeführt worden sein könnte, oder andere Angehörige, die Zeugen der Tat waren,</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">c.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">jede andere Person, die durch eine Straftat einen Schaden erlitten haben oder sonst in ihren strafrechtlich geschützten Rechtsgütern beeinträchtigt worden sein könnte,</div></div></li></ol></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Privatbeteiligter“ jedes Opfer, das erklärt, sich am Verfahren zu beteiligen, um Ersatz für den erlittenen Schaden oder die erlittene Beeinträchtigung zu begehren,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Privatankläger“ jede Person, die eine Anklage oder einen anderen Antrag auf Einleitung des Hauptverfahrens wegen einer nicht von Amts wegen zu verfolgenden Straftat bei Gericht einbringt (§&nbsp;71),</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Subsidiarankläger“ jeder Privatbeteiligte, der eine von der Staatsanwaltschaft zurückgezogene Anklage aufrecht hält.</div></div></li></ol>
 ## 2. Abschnitt | Opfer und Privatbeteiligte
+
 ### § 66 StPO. Opferrechte
 
 **§ 66 (1) StPO.**  
@@ -142,6 +152,7 @@ Opfer haben – unabhängig von ihrer Stellung als Privatbeteiligte – das Rech
 
 **§ 66 (3) StPO.**  
 Übersetzungshilfe ist in sinngemäßer Anwendung der Bestimmungen des § 56 zu gewähren. Als wesentliche Aktenstücke, die auf Verlangen des Opfers zu übersetzen sind, gelten die schriftliche Bestätigung der Anzeige (§ 80 Abs. 1), die Verständigung von der Einstellung des Ermittlungsverfahrens und deren Begründung (§ 194 Abs. 2) sowie eine Ausfertigung des Urteils und der Strafverfügung (§ 491); bei der Prüfung der Erforderlichkeit tritt an Stelle der Erforderlichkeit zur Wahrung der Verteidigungsrechte jene zur Wahrung der Rechte und Interessen des Opfers (§ 10).
+
 ### § 66a StPO. Besondere Schutzbedürftigkeit von Opfern
 
 **§ 66a (1) StPO.**  
@@ -165,6 +176,7 @@ Ist ein gesetzlicher Vertreter des minderjährigen Opfers der Straftat verdächt
 
 **§ 66a (4) StPO.**  
 Einem Opfer, dem auf Antrag Rechte nach Abs. 2 nicht gewährt werden, sind die Gründe dafür mitzuteilen.
+
 ### § 66b StPO. Prozessbegleitung
 
 **§ 66b (1) StPO.**  
@@ -180,6 +192,7 @@ Psychosoziale Prozessbegleitung umfasst die Vorbereitung der Betroffenen auf das
 
 **§ 66b (3) StPO.**  
 Die Bundesministerin für Justiz ist ermächtigt, bewährte geeignete Einrichtungen vertraglich zu beauftragen, den in Abs. 1 genannten Personen nach Prüfung der gesetzlichen Voraussetzungen Prozessbegleitung zu gewähren sowie durch Verordnung nähere Bestimmungen über die Voraussetzungen der Beauftragung solcher Einrichtungen und im Einvernehmen mit der Bundesministerin für Frauen und Integration im Bundeskanzleramt sowie der Bundesministerin für Arbeit, Familien und Jugend über Qualitätsstandards der Prozessbegleitung, insbesondere über die Aus- und Weiterbildung von Prozessbegleitern, zu erlassen.
+
 ### § 67 StPO. Privatbeteiligung
 
 **§ 67 (1) StPO.**  
@@ -210,6 +223,7 @@ Privatbeteiligte haben über die Rechte der Opfer (§ 66) hinaus das Recht,
 
 **§ 67 (7) StPO.**  
 Privatbeteiligten ist – soweit ihnen nicht juristische Prozessbegleitung zu gewähren ist (§ 66b) – Verfahrenshilfe durch unentgeltliche Beigebung eines Rechtsanwalts zu bewilligen, soweit die Vertretung durch einen Rechtsanwalt im Interesse der Rechtspflege, vor allem im Interesse einer zweckentsprechenden Durchsetzung ihrer Ansprüche zur Vermeidung eines nachfolgenden Zivilverfahrens erforderlich ist, und sie außerstande sind, die Kosten ihrer anwaltlichen Vertretung ohne Beeinträchtigung des notwendigen Unterhalts zu bestreiten. Als notwendiger Unterhalt ist derjenige anzusehen, den die Person für sich und ihre Familie, für deren Unterhalt sie zu sorgen hat, zu einer einfachen Lebensführung benötigt. Für die Beigebung und Bestellung eines solchen Vertreters gelten die Bestimmungen der § 61 Abs. 4, § 62 Abs. 1, 2 und 4 sowie § 63 Abs. 1 sinngemäß.
+
 ### § 68 StPO. Akteneinsicht
 
 **§ 68 (1) StPO.**  
@@ -220,6 +234,7 @@ Dieses Recht auf Akteneinsicht steht auch Opfern zu, die nicht als Privatbeteili
 
 **§ 68 (3) StPO.**  
 Das Verbot der Veröffentlichung nach § 54 gilt für Opfer, Privatbeteiligte und Privatankläger sinngemäß.
+
 ### § 69 StPO. Privatrechtliche Ansprüche
 
 **§ 69 (1) StPO.**  
@@ -230,6 +245,7 @@ Das Gericht hat im Hauptverfahren jederzeit einen Vergleich über privatrechtlic
 
 **§ 69 (3) StPO.**  
 Im Fall einer Sicherstellung nach § 110 Abs. 1 Z 2 hat die Staatsanwaltschaft die Rückgabe des Gegenstandes oder Vermögenswertes an das Opfer anzuordnen, wenn eine Beschlagnahme aus Beweisgründen nicht erforderlich ist und in die Rechte Dritter dadurch nicht eingegriffen wird.
+
 ### § 70 StPO. Recht auf Information
 
 **§ 70 (1) StPO.**  

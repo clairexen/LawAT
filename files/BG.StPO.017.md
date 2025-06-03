@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 2. Amtsverrichtungen des Vorsitzenden und des Schöffengerichts während der Hauptverhandlung
+
 ### § 232 StPO.
 
 **§ 232 (1) StPO.**  
@@ -19,6 +20,7 @@ Er vernimmt den Angeklagten und die Zeugen und bestimmt die Reihenfolge, in der 
 
 **§ 232 (4) StPO.**  
 Wenn mehrere Anklagepunkte vorliegen, kann er verfügen, daß über jeden oder über einzelne davon abgesondert zu verhandeln sei.
+
 ### § 233 StPO.
 
 **§ 233 (1) StPO.**  
@@ -29,14 +31,17 @@ Vor Gericht ist jedermann ein Sitz zu gestatten.
 
 **§ 233 (3) StPO.**  
 Zeichen des Beifalles oder der Mißbilligung sind untersagt. Der Vorsitzende ist berechtigt, Personen, die die Sitzung durch solche Zeichen oder auf eine andere Weise stören, zur Ordnung zu ermahnen und nötigenfalls einzelne oder alle Zuhörer aus dem Sitzungssaal entfernen zu lassen. Widersetzt sich jemand oder werden die Störungen wiederholt, so kann der Vorsitzende über die Widersetzlichen eine Ordnungsstrafe bis zu 1 000 Euro, wenn es aber zur Aufrechterhaltung der Ordnung unerläßlich ist, eine Freiheitsstrafe bis zu acht Tagen verhängen.
+
 ### § 234 StPO.
 
 **§ 234 StPO.**  
  Wenn der Angeklagte die Ordnung der Verhandlung durch ungeziemendes Benehmen stört und ungeachtet der Ermahnung des Vorsitzenden und der Androhung, daß er aus der Sitzung werde entfernt werden, nicht davon absteht, so kann er durch Beschluß des Schöffengerichts auf einige Zeit oder für die ganze Dauer der Verhandlung aus dieser entfernt, die Sitzung in seiner Abwesenheit fortgesetzt und ihm das Urteil durch ein Mitglied des Schöffengerichts in Gegenwart des Schriftführers verkündet werden.
+
 ### § 235 StPO.
 
 **§ 235 StPO.**  
  Der Vorsitzende hat darüber zu wachen, daß gegen niemand Beschimpfungen oder offenbar ungegründete oder zur Sache nicht gehörige Beschuldigungen vorgebracht werden. Haben sich Angeklagte, Privatankläger, Privatbeteiligte, Opfer, Haftungsbeteiligte, Zeugen oder Sachverständige solche Äußerungen erlaubt, so kann das Schöffengericht gegen sie auf Antrag des Betroffenen oder der Staatsanwaltschaft oder von Amts wegen gemäß §§ 233 Abs. 3 und 234 vorgehen. Gegebenenfalls ist der Betroffene über seine Rechte zu belehren.
+
 ### § 236 StPO.
 
 **§ 236 (1) StPO.**  
@@ -47,10 +52,12 @@ Setzt ein solcher Vertreter sein ungebührliches Benehmen fort, so kann ihm der 
 
 **§ 236 (3) StPO.**  
 Bei erschwerenden Umständen kann das Oberlandesgericht auf Antrag der Staatsanwaltschaft dem schuldigen Vertreter auch die Befugnis, als Vertreter in Strafsachen vor Gericht zu erscheinen, für die Dauer von einem bis zu sechs Monaten entziehen.
+
 ### § 236a StPO.
 
 **§ 236a StPO.**  
  Macht sich ein Vertreter eines Beteiligten des Verfahrens, der der Disziplinargewalt einer Standesbehörde unterliegt, des im § 235 umschriebenen Verhaltens schuldig oder verletzt er die dem Gerichte gebührende Achtung, so kann der Vorsitzende nach Abmahnung die im § 236 Abs. 2 vorgesehenen Maßnahmen treffen.
+
 ### § 237 StPO.
 
 **§ 237 (1) StPO.**  
@@ -61,6 +68,7 @@ Eine in den vorstehenden Bestimmungen vorgesehene Ordnungsstrafe ist nicht zu ve
 
 **§ 237 (3) StPO.**  
 (Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+
 ### § 238 StPO.
 
 **§ 238 (1) StPO.**  
@@ -72,14 +80,17 @@ Nach Abs. 1 ist auch vorzugehen, wenn von den Beteiligten des Verfahrens in der
 **§ 238 (3) StPO.**  
 Der Beschluss ist samt seinen Entscheidungsgründen sofort, jedenfalls jedoch vor Schluss der Verhandlung mündlich zu verkünden. Den Beteiligten steht ein selbständiges, die weitere Verhandlung hemmendes Rechtsmittel gegen ihn nicht zu (§ 86 Abs. 3).
 ## 3. Beginn der Hauptverhandlung
+
 ### § 239 StPO.
 
 **§ 239 StPO.**  
  Die Hauptverhandlung beginnt mit dem Aufruf der Sache. Der Angeklagte erscheint ungefesselt, jedoch, wenn er in Untersuchungshaft ist, in Begleitung einer Wache. In den in § 174 Abs. 1 geregelten Fällen kann bei Angeklagten, die in Untersuchungshaft angehalten werden, gemäß § 153 Abs. 4 vorgegangen werden. Die zur Beweisführung etwa erforderlichen Gegenstände, die dem Angeklagten oder den Zeugen zur Anerkennung vorzulegen sind, müssen vor dem Beginn der Verhandlung in den Gerichtssaal gebracht werden.
+
 ### § 240 StPO.
 
 **§ 240 StPO.**  
  Der Vorsitzende befragt hierauf den Angeklagten um seinen Vor- und Familiennamen sowie alle früher geführten Namen, Tag und Ort seiner Geburt, seine Staatsangehörigkeit, die Vornamen seiner Eltern, seinen Beruf, seine Anschrift und erforderlichenfalls über andere persönliche Verhältnisse und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung.
+
 ### § 240a StPO.
 
 **§ 240a (1) StPO.**  
@@ -90,6 +101,7 @@ Sodann wird jeder Schöffe einzeln vom Vorsitzenden aufgerufen und antwortet: �
 
 **§ 240a (3) StPO.**  
 Die Beeidigung gilt für die Dauer des Kalenderjahres; sie ist im Verhandlungsprotokoll und fortlaufend in einem besonderen Buche zu beurkunden.
+
 ### § 241 StPO.
 
 **§ 241 (1) StPO.**  
@@ -97,6 +109,7 @@ Hierauf werden die Zeugen und Sachverständigen aufgerufen, soweit sie nicht ers
 
 **§ 241 (2) StPO.**  
 Bei den Sachverständigen kann der Vorsitzende in allen Fällen, in denen er es für die Erforschung der Wahrheit zweckdienlich findet, verfügen, daß sie sowohl während der Vernehmung des Angeklagten als auch der Zeugen im Sitzungssaale bleiben.
+
 ### § 242 StPO.
 
 **§ 242 (1) StPO.**  
@@ -107,6 +120,7 @@ Ist die unverzügliche Vorführung nicht möglich, so ist über eine allfällige
 
 **§ 242 (3) StPO.**  
 Über den Ausgebliebenen ist mit Beschluss des Vorsitzenden eine Geldstrafe bis zu 1 000 Euro zu verhängen. Musste die Hauptverhandlung vertagt werden, so ist der Ausgebliebene überdies in diesem Beschluss zum Ersatz der durch sein Ausbleiben verursachten Kosten zu verpflichten. Soweit dies erforderlich ist, um Anwesenheit des Ausgebliebenen beim neuen Termin sicherzustellen, hat der Vorsitzende dessen Vorführung anzuordnen (§ 210 Abs. 3).
+
 ### § 243 StPO.
 
 **§ 243 (1) StPO.**  
@@ -117,6 +131,7 @@ Der Vorsitzende hat die verhängte Strafe nachzusehen, wenn der Zeuge oder Sachv
 
 **§ 243 (3) StPO.**  
 Wird der Beschwerde nicht durch eine im Abs. 2 erwähnten Maßnahme zur Gänze entsprochen, so hat sie der Vorsitzende dem Oberlandesgericht zur Entscheidung vorzulegen (§ 89). Im Übrigen ist gegen einen Beschluss gemäß Abs. 2 kein Rechtsmittel zulässig.
+
 ### § 244 StPO.
 
 **§ 244 (1) StPO.**  
@@ -128,6 +143,7 @@ Nach dem Vortrag der Anklage hat sich der Vorsitzende zu vergewissern, daß der 
 **§ 244 (3) StPO.**  
 Der Verteidiger hat das Recht, auf den Vortrag der Anklage mit einer Gegenäußerung zu erwidern.
 ## 4. Vernehmung des Angeklagten
+
 ### § 245 StPO.
 
 **§ 245 (1) StPO.**  
@@ -142,6 +158,7 @@ Für die Vernehmung des Angeklagten gilt § 164 Abs. 4.
 **§ 245 (3) StPO.**  
 Der Angeklagte darf sich während der Hauptverhandlung mit seinem Verteidiger besprechen, jedoch nicht über die Beantwortung einzelner Fragen beraten.
 ## 5. Beweisverfahren
+
 ### § 246 StPO.
 
 **§ 246 (1) StPO.**  
@@ -149,10 +166,12 @@ Nach der Vernehmung des Angeklagten sind die Beweise in der vom Vorsitzenden bes
 
 **§ 246 (2) StPO.**  
 Der Ankläger und der Angeklagte können im Laufe der Hauptverhandlung Beweismittel fallen lassen, jedoch nur, wenn der Gegner zustimmt.
+
 ### § 247 StPO.
 
 **§ 247 StPO.**  
  Zeugen und Sachverständige werden einzeln aufgerufen und in Anwesenheit der Beteiligten des Verfahrens vernommen. Sie sind vor ihrer Vernehmung zur Angabe der Wahrheit zu erinnern und über die Folgen einer falschen Aussage zu belehren.
+
 ### § 247a StPO.
 
 **§ 247a (1) StPO.**  
@@ -160,6 +179,7 @@ Ein Zeuge, der wegen seines Alters, wegen Krankheit oder Gebrechlichkeit oder au
 
 **§ 247a (2) StPO.**  
 Ein Zeuge, der wegen seines Aufenthalts im Ausland nicht in der Lage oder nicht willens ist, vor Gericht zu erscheinen, kann in gleicher Weise vernommen werden, sofern die zuständige ausländische Behörde Rechtshilfe leistet.
+
 ### § 248 StPO.
 
 **§ 248 (1) StPO.**  
@@ -170,6 +190,7 @@ Zeugen und Sachverständige haben nach ihrer Vernehmung so lange in der Sitzung 
 
 **§ 248 (3) StPO.**  
 Dem Angeklagten muss nach der Vernehmung eines jeden Zeugen, Sachverständigen oder Mitangeklagten die Möglichkeit zur Stellungnahme zu den jeweiligen Aussagen geboten werden.
+
 ### § 249 StPO.
 
 **§ 249 (1) StPO.**  
@@ -180,6 +201,7 @@ Der Vorsitzende hat unzulässige Fragen zurückzuweisen; Fragen, die sonst unang
 
 **§ 249 (3) StPO.**  
 Der Angeklagte kann zur Befragung eines Sachverständigen eine Person mit besonderem Fachwissen beiziehen, der ein Sitz neben dem Verteidiger zu gestatten ist. Diese darf den Verteidiger bei der Fragestellung unterstützen oder selbst Fragen zu Befund und Gutachten an den Sachverständigen richten.
+
 ### § 250 StPO.
 
 **§ 250 (1) StPO.**  
@@ -190,10 +212,12 @@ Ist diese Mitteilung unterblieben, so muß sie jedenfalls bei sonstiger Nichtigk
 
 **§ 250 (3) StPO.**  
 Opfer gemäß § 65 Z 1 lit. a und besonders schutzbedürftige Opfer (§ 66a) hat der Vorsitzende auf ihren Antrag auf die in § 165 Abs. 3 beschriebene Art und Weise zu vernehmen; im Übrigen hat er bei der Vernehmung von Zeugen § 165 sinngemäß anzuwenden. Dabei hat er auch den bei der Befragung nicht anwesenden Mitgliedern des Schöffengerichts Gelegenheit zu geben, die Vernehmung des Zeugen mitzuverfolgen und den Zeugen zu befragen.
+
 ### § 251 StPO.
 
 **§ 251 StPO.**  
  Die Beteiligten des Verfahrens können verlangen, dass sich Zeugen nach ihrer Vernehmung aus dem in § 248 Abs. 1 letzter Satz genannten Grund aus dem Sitzungssaal entfernen und später wieder aufgerufen und entweder allein oder in Gegenwart anderer Zeugen erneut vernommen werden. Der Vorsitzende kann dies auch von Amts wegen anordnen.
+
 ### § 252 StPO.
 
 **§ 252 (1) StPO.**  
@@ -215,10 +239,12 @@ Nach jeder Vorlesung und jedem Vortrag (Abs. 2a) ist der Angeklagte zu befragen
 
 **§ 252 (4) StPO.**  
 Die Bestimmungen des Abs. 1 dürfen bei sonstiger Nichtigkeit nicht umgangen werden.
+
 ### § 253 StPO.
 
 **§ 253 StPO.**  
  Im Laufe oder am Schlusse des Beweisverfahrens läßt der Vorsitzende dem Angeklagten und, soweit es nötig ist, den Zeugen und Sachverständigen die Gegenstände, die zur Aufklärung des Sachverhaltes dienen können, vorlegen und fordert sie auf, sich zu erklären, ob sie diese anerkennen.
+
 ### § 254 StPO.
 
 **§ 254 (1) StPO.**  

@@ -1,4 +1,4 @@
 .*.swp
 /.venv/
 /__pycache__/
-/files/*.zip
+/RisExFiles.zip

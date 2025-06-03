@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Vierter Abschnitt | Strafbemessung
+
 ### § 32 StGB. Allgemeine Grundsätze
 
 **§ 32 (1) StGB.**  
@@ -16,6 +17,7 @@ Bei Bemessung der Strafe hat das Gericht die Erschwerungs- und die Milderungsgr�
 
 **§ 32 (3) StGB.**  
 Im allgemeinen ist die Strafe umso strenger zu bemessen, je größer die Schädigung oder Gefährdung ist, die der Täter verschuldet hat oder die er zwar nicht herbeigeführt, aber auf die sich sein Verschulden erstreckt hat, je mehr Pflichten er durch seine Handlung verletzt, je reiflicher er seine Tat überlegt, je sorgfältiger er sie vorbereitet oder je rücksichtsloser er sie ausgeführt hat und je weniger Vorsicht gegen die Tat hat gebraucht werden können.
+
 ### § 33 StGB. Besondere Erschwerungsgründe
 
 **§ 33 (1) StGB.**  
@@ -41,6 +43,7 @@ Ein Erschwerungsgrund ist es auch, wenn der Täter eine vorsätzliche strafbare 
 
 **§ 33 (3) StGB.**  
 Ein Erschwerungsgrund ist es ferner auch, wenn der Täter einer strafbaren Handlung nach § 165 ein Verpflichteter im Sinne des Art. 2 der Richtlinie (EU) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung, ABl. Nr. L 141 vom 05.06.2015 S 73, in der Fassung der Richtlinie (EU) 2018/843, ABl. Nr. L 156 vom 19.06.2018 S 43, ist und die Straftat in Ausübung seiner beruflichen Tätigkeit, die unter diese Richtlinie fällt, begangen hat.
+
 ### § 34 StGB. Besondere Milderungsgründe
 
 **§ 34 (1) StGB.**  
@@ -67,14 +70,17 @@ Ein Milderungsgrund ist es insbesondere, wenn der Täter
 
 **§ 34 (2) StGB.**  
 Ein Milderungsgrund ist es auch, wenn das gegen den Täter geführte Verfahren aus einem nicht von ihm oder seinem Verteidiger zu vertretenden Grund unverhältnismäßig lange gedauert hat.
+
 ### § 35 StGB. Berauschung
 
 **§ 35 StGB.**  
  Hat der Täter in einem die Zurechnungsfähigkeit nicht ausschließenden Rauschzustand gehandelt, so ist dies nur insoweit mildernd, als die dadurch bedingte Herabsetzung der Zurechnungsfähigkeit nicht durch den Vorwurf aufgewogen wird, den der Genuß oder Gebrauch des berauschenden Mittels den Umständen nach begründet.
+
 ### § 36 StGB. Verhängung von Freiheitsstrafen über Personen unter einundzwanzig Jahren
 
 **§ 36 StGB.**  
  Für eine Person, die zur Zeit der Tat das einundzwanzigste Lebensjahr noch nicht vollendet hat, gelten die in § 19 JGG vorgesehenen Strafdrohungen.
+
 ### § 37 StGB. Verhängung von Geldstrafen an Stelle von Freiheitsstrafen
 
 **§ 37 (1) StGB.**  
@@ -82,6 +88,7 @@ Ist für eine Tat keine strengere Strafe als Freiheitsstrafe bis zu fünf Jahren
 
 **§ 37 (2) StGB.**  
 Ist für eine Tat eine strengere Freiheitsstrafe als nach Abs. 1, aber keine strengere als eine zehnjährige Freiheitsstrafe, angedroht, so ist die Verhängung einer Geldstrafe von nicht mehr als 720 Tagessätzen an Stelle einer Freiheitsstrafe von nicht mehr als einem Jahr nur zulässig, wenn es nicht der Verurteilung zu einer Freiheitsstrafe bedarf, um den Täter von weiteren strafbaren Handlungen abzuhalten, und die Verhängung einer Geldstrafe genügt, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken.
+
 ### § 38 StGB. Anrechnung der Vorhaft
 
 **§ 38 (1) StGB.**  
@@ -91,6 +98,7 @@ Die verwaltungsbehördliche und die gerichtliche Verwahrungshaft und die Untersu
 
 **§ 38 (2) StGB.**  
 Für die Anrechnung der Vorhaft auf eine Geldstrafe ist die Ersatzfreiheitsstrafe maßgebend.
+
 ### § 39 StGB. Strafschärfung bei Rückfall
 
 **§ 39 (1) StGB.**  
@@ -102,7 +110,8 @@ Ist der Täter schon zweimal wegen vorsätzlicher strafbarer Handlungen gegen Le
 **§ 39 (2) StGB.**  
 Eine frühere Strafe bleibt außer Betracht, wenn seit ihrer Verbüßung bis zur folgenden Tat mehr als fünf Jahre, bei einer Verurteilung wegen einer mit zehn oder mehr Jahren Freiheitsstrafe bedrohten strafbaren Handlung mehr als zehn Jahre, vergangen sind. In diese Frist werden Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, nicht eingerechnet. Ist die Strafe bedingt nachgesehen oder (Anm. 1) nur durch Anrechnung einer Vorhaft verbüßt worden, so beginnt die Frist erst mit Rechtskraft des Urteils.
 **FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(___________________</span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm. 1: Art.&nbsp;4 Z&nbsp;4a der Novelle <a href="/eli/bgbl/I/2019/105" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2019_I_105', 'BGBl. I Nr. 105/2019', '2025-06-03')">BGBl.&nbsp;I Nr.&nbsp;105/2019</a> lautet: „In §&nbsp;39 Abs.&nbsp;2 wird im zweiten Satz nach dem Wort „Strafe“ die Wendung „bedingt nachgesehen oder“ eingefügt.“ Richtig wäre: „... wird im dritten Satz ...“.)</span></span></p>
+**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm. 1: Art.&nbsp;4 Z&nbsp;4a der Novelle <a href="/eli/bgbl/I/2019/105" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2019_I_105', 'BGBl. I Nr. 105/2019', '2025-06-04')">BGBl.&nbsp;I Nr.&nbsp;105/2019</a> lautet: „In §&nbsp;39 Abs.&nbsp;2 wird im zweiten Satz nach dem Wort „Strafe“ die Wendung „bedingt nachgesehen oder“ eingefügt.“ Richtig wäre: „... wird im dritten Satz ...“.)</span></span></p>
+
 ### § 39a StGB. Änderung der Strafdrohung bei bestimmten Gewalttaten
 
 **§ 39a (1) StGB.**  
@@ -122,10 +131,12 @@ Demnach tritt an die Stelle der Androhung
 
 **§ 39a (3) StGB.**  
 Die Anwendung des § 39 bleibt hievon unberührt. Bei der Anwendung des § 41 ist von den nach Abs. 2 geänderten Strafdrohungen auszugehen.
+
 ### § 40 StGB. Strafbemessung bei nachträglicher Verurteilung
 
 **§ 40 StGB.**  
  Bei nachträglicher Verurteilung ist die Zusatzstrafe innerhalb der im § 31 bestimmten Grenzen so zu bemessen, daß die Summe der Strafen jener Strafe entspricht, die bei gemeinsamer Aburteilung zu verhängen wäre. Wäre bei gemeinsamer Aburteilung keine höhere Strafe als die im früheren Urteil verhängte auszusprechen, so ist von einer Zusatzstrafe abzusehen.
+
 ### § 41 StGB. Außerordentliche Strafmilderung bei Überwiegen der Milderungsgründe
 
 **§ 41 (1) StGB.**  
@@ -141,6 +152,7 @@ Unter den Voraussetzungen des Abs. 1 Z 3 und 4 muß jedoch auf Freiheitsstrafe
 
 **§ 41 (3) StGB.**  
 Die §§ 43 und 43a können auch angewendet werden, wenn auf eine Freiheitsstrafe von mehr als zwei beziehungsweise drei, aber nicht mehr als fünf Jahren erkannt wird oder zu erkennen wäre, sofern die Milderungsgründe die Erschwerungsgründe beträchtlich überwiegen und begründete Aussicht besteht, dass der Täter auch bei Verhängung einer solchen Strafe keine weiteren strafbaren Handlungen begehen werde.
+
 ### § 41a StGB. Außerordentliche Strafmilderung bei Zusammenarbeit mit den Strafverfolgungsbehörden
 
 **§ 41a (1) StGB.**  
@@ -155,6 +167,7 @@ Abs. 1 gilt für den Beteiligten einer Verabredung, Verbindung (Anm.: richtig: 
 **§ 41a (3) StGB.**  
 Bezieht sich das Wissen des Täters auf strafbare Handlungen, für die die österreichischen Strafgesetze nicht gelten, so ist Abs. 1 gleichwohl anzuwenden, soweit die Leistung von Rechtshilfe zulässig wäre.
 ## Fünfter Abschnitt | Bedingte Strafnachsicht und bedingte Entlassung, Weisungen und Bewährungshilfe
+
 ### § 43 StGB. Bedingte Strafnachsicht
 
 **§ 43 (1) StGB.**  
@@ -165,6 +178,7 @@ Wird die Nachsicht nicht widerrufen, so ist die Strafe endgültig nachzusehen. F
 
 **§ 43 (3) StGB.**  
 Die bedingte Nachsicht (Abs. 1) einer wegen Vergewaltigung (§ 201) verhängten Strafe ist ausgeschlossen.
+
 ### § 43a StGB. Bedingte Nachsicht eines Teiles der Strafe
 
 **§ 43a (1) StGB.**  
@@ -178,6 +192,7 @@ Wird auf eine Freiheitsstrafe von mehr als sechs Monaten, aber nicht mehr als zw
 
 **§ 43a (4) StGB.**  
 Wird auf eine Freiheitsstrafe von mehr als zwei, aber nicht mehr als drei Jahren erkannt und besteht eine hohe Wahrscheinlichkeit, daß der Rechtsbrecher keine weiteren strafbaren Handlungen begehen werde, so ist unter den Voraussetzungen des § 43 Abs. 1 ein Teil der Strafe bedingt nachzusehen. Abs. 3 letzter Satz ist anzuwenden.
+
 ### § 44 StGB. Bedingte Nachsicht bei Zusammentreffen mehrerer Strafen
 
 **§ 44 (1) StGB.**  
@@ -185,11 +200,13 @@ Werden eine Freiheitsstrafe und eine Geldstrafe nebeneinander verhängt, so sind
 
 **§ 44 (2) StGB.**  
 Nebenstrafen und Rechtsfolgen der Verurteilung können unabhängig von der Hauptstrafe bedingt nachgesehen werden.
+
 ### § 45 StGB. Bedingte Nachsicht von vorbeugenden Maßnahmen
 
 **§ 45 StGB.**  
  (Anm.: Abs. 1 aufgehoben durch Art. 1 Z 11, BGBl. I Nr. 223/2022)
 **FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(2)</span><span><span aria-hidden="true">Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher darf nur zugleich mit der Strafe und nur dann bedingt nachgesehen werden, wenn anzunehmen ist, dass die bloße Androhung der Unterbringung in Verbindung mit einer oder mehreren der in den §§&nbsp;50 bis 52 vorgesehenen Maßnahmen genügen werde, um die Gewöhnung des Rechtsbrechers an berauschende Mittel oder Suchtmittel zu überwinden. Die für die bedingte Strafnachsicht bestimmte Probezeit gilt auch für die bedingte Nachsicht der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(3)</span><span><span aria-hidden="true">§&nbsp;43 Abs.&nbsp;2 gilt dem Sinne nach.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span>Die bedingte Nachsicht anderer vorbeugender Maßnahmen ist unzulässig.</span></div></div></li></ol>
+
 ### § 46 StGB. Bedingte Entlassung aus einer Freiheitsstrafe
 
 **§ 46 (1) StGB.**  
@@ -206,6 +223,7 @@ Verbüßt ein Verurteilter mehrere Freiheitsstrafen, Strafteile oder Strafreste,
 
 **§ 46 (6) StGB.**  
 Ein zu einer lebenslangen Freiheitsstrafe Verurteilter darf nur bedingt entlassen werden, wenn er mindestens fünfzehn Jahre verbüßt hat und anzunehmen ist, dass er keine weiteren strafbaren Handlungen begehen werde.
+
 ### § 47 StGB. Entlassung aus einer mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme
 
 **§ 47 (1) StGB.**  
@@ -219,6 +237,7 @@ Wird der Rechtsbrecher aus einem forensisch-therapeutischen Zentrum oder aus ein
 
 **§ 47 (4) StGB.**  
 Die Entscheidung, daß die Überstellung des Rechtsbrechers in die Anstalt für gefährliche Rückfallstäter nicht mehr notwendig ist (§ 24 Abs. 2), steht einer bedingten Entlassung aus der Anstalt für gefährliche Rückfallstäter gleich.
+
 ### § 48 StGB. Probezeiten
 
 **§ 48 (1) StGB.**  
@@ -229,10 +248,12 @@ Die Probezeit bei der Entlassung aus einem forensisch-therapeutischen Zentrum un
 
 **§ 48 (3) StGB.**  
 Wird die bedingte Nachsicht des Strafrestes oder die bedingte Entlassung aus einer mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme nicht widerrufen, so ist sie für endgültig zu erklären. Fristen, deren Lauf beginnt, sobald die Strafe vollstreckt oder die vorbeugende Maßnahme vollzogen ist, sind in einem solchen Fall ab der bedingten Entlassung aus der Strafe oder aus der vorbeugenden Maßnahme zu berechnen.
+
 ### § 49 StGB. Berechnung der Probezeiten
 
 **§ 49 StGB.**  
  Die Probezeit beginnt mit der Rechtskraft der Entscheidung, mit der die bedingte Nachsicht (§§ 43 bis 45) oder die bedingte Entlassung (§§ 46 und 47) ausgesprochen worden ist. Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, werden in die Probezeit nicht eingerechnet. Wird ein Verurteilter aus dem nicht bedingt nachgesehenen Teil einer Freiheitsstrafe vor Ablauf der für den bedingt nachgesehenen Strafteil bestimmten Probezeit bedingt entlassen, so laufen beide Probezeiten nur gemeinsam ab.
+
 ### § 50 StGB. Erteilung von Weisungen und Anordnung der Bewährungshilfe
 
 **§ 50 (1) StGB.**  
@@ -248,6 +269,7 @@ Bewährungshilfe ist stets anzuordnen, wenn ein Verurteilter
 
 **§ 50 (3) StGB.**  
 Weisungen sowie die Anordnung der Bewährungshilfe gelten für die Dauer des vom Gericht bestimmten Zeitraums, höchstens jedoch bis zum Ende der Probezeit, soweit sie nicht vorher aufgehoben oder gegenstandslos werden. Im Fall des Abs. 2 Z 3 ist Bewährungshilfe zumindest für das erste Jahr und im Fall der Abs. 2 Z 4 zumindest für die ersten drei Jahre nach der Entlassung anzuordnen.
+
 ### § 51 StGB. Weisungen
 
 **§ 51 (1) StGB.**  
@@ -260,7 +282,8 @@ Dem Rechtsbrecher kann insbesondere aufgetragen werden, an einem bestimmten Ort,
 Mit seiner Zustimmung kann dem Rechtsbrecher unter den Voraussetzungen des Abs. 1 auch die Weisung erteilt werden, sich einer Entwöhnungsbehandlung, einer psychotherapeutischen oder
 **FIXME** P: <p class="ErlText AlignJustify">einer medizinischen Behandlung zu unterziehen. Die Weisung, sich</p>
 **FIXME** P: <p class="ErlText AlignJustify">einer medizinischen Behandlung zu unterziehen, die einen operativen Eingriff umfaßt, darf jedoch auch mit Zustimmung des Rechtsbrechers nicht erteilt werden.</p>
-**FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span><span aria-hidden="true">Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach §&nbsp;50 geboten scheint.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(5)</span><span><span aria-hidden="true">Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach §&nbsp;45 gilt §&nbsp;179a des Strafvollzugsgesetzes (StVG), <a href="/Dokumente/BgblPdf/1969_144_0/1969_144_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_144_0', 'BGBl. Nr. 144/1969', '2025-06-03')">BGBl. Nr.&nbsp;144/1969</a>, sinngemäß.</span></span></div></div></li></ol>
+**FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span><span aria-hidden="true">Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach §&nbsp;50 geboten scheint.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(5)</span><span><span aria-hidden="true">Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach §&nbsp;45 gilt §&nbsp;179a des Strafvollzugsgesetzes (StVG), <a href="/Dokumente/BgblPdf/1969_144_0/1969_144_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_144_0', 'BGBl. Nr. 144/1969', '2025-06-04')">BGBl. Nr.&nbsp;144/1969</a>, sinngemäß.</span></span></div></div></li></ol>
+
 ### § 52 StGB. Bewährungshilfe
 
 **§ 52 (1) StGB.**  
@@ -275,6 +298,7 @@ Der Bewährungshelfer hat dem Gericht über seine Tätigkeit und seine Wahrnehmu
 
 **§ 52 (3) StGB.**  
 Das Gericht hat während der Probezeit die Bewährungshilfe auch nachträglich anzuordnen oder sie aufzuheben, soweit dies nach § 50 geboten erscheint. In den Fällen des § 50 Abs. 2 Z 1 bis 3 ist jedenfalls nach Ablauf eines Jahres seit der Entlassung nach Einholung eines Berichtes des Bewährungshelfers und einer Stellungnahme des Leiters der zuständigen Geschäftsstelle für Bewährungshilfe zu entscheiden, ob die Anordnung der Bewährungshilfe weiterhin notwendig oder zweckmäßig ist.
+
 ### § 52a StGB. Gerichtliche Aufsicht bei Sexualstraftätern und sexuell motivierten Gewalttätern
 
 **§ 52a (1) StGB.**  
@@ -287,6 +311,7 @@ Das Gericht hat während der gerichtlichen Aufsicht das Verhalten des Rechtsbrec
 
 **§ 52a (3) StGB.**  
 Die Organe des öffentlichen Sicherheitsdienstes sind zur Erfüllung der den Sicherheitsbehörden gemäß Abs. 2 übertragenen Aufgaben zur Feststellung der Identität einer Person nach den Vorschriften des Sicherheitspolizeigesetzes ermächtigt, wenn aufgrund bestimmter Tatsachen anzunehmen ist, sie stehe unter gerichtlicher Aufsicht und habe die ihr erteilten Weisungen nicht befolgt oder sonst ein Verhalten gesetzt, das mit den Zwecken der gerichtlichen Aufsicht nicht vereinbar ist.
+
 ### § 52b StGB. Gerichtliche Aufsicht bei staatsfeindlichen und terroristischen Strafsachen sowie Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen
 
 **§ 52b (1) StGB.**  
@@ -320,6 +345,7 @@ Die Kosten der elektronischen Überwachung trägt der Bund.
 
 **§ 52b (9) StGB.**  
 Die Bundesministerin für Justiz ist ermächtigt, durch Verordnung Richtlinien über die Art und die Durchführung der elektronischen Überwachung zu erlassen.
+
 ### § 53 StGB. Widerruf der bedingten Strafnachsicht und der bedingten Entlassung aus einer Freiheitsstrafe
 
 **§ 53 (1) StGB.**  
@@ -336,6 +362,7 @@ Bestehen gegen Ende der ursprünglichen oder verlängerten Probezeit nach beding
 
 **§ 53 (5) StGB.**  
 Nach Abs. 4 kann auch in den Fällen vorgegangen werden, in denen nach § 52b gerichtliche Aufsicht nach bedingter Entlassung aus einer Freiheitsstrafe von mehr als achtzehn Monaten angeordnet wurde. Vor einer solchen Anordnung ist eine gerichtliche Fallkonferenz nach § 52b Abs. 3 StGB abzuhalten. Die Weisung einer elektronischen Überwachung darf höchstens zehn Jahre aufrechterhalten werden.
+
 ### § 54 StGB. Widerruf der bedingten Nachsicht und der bedingten Entlassung bei einer vorbeugenden Maßnahme
 
 **§ 54 (1) StGB.**  
@@ -355,6 +382,7 @@ Wird jedoch im Falle einer bedingten Entlassung aus einer der in den §§ 21 bi
 
 **§ 54 (6) StGB.**  
 Die bedingte Entlassung aus einer Anstalt für entwöhnungsbedürftige Rechtsbrecher ist nicht zu widerrufen, wenn die Fortsetzung der Behandlung von vornherein aussichtslos scheint.
+
 ### § 55 StGB. Widerruf bei nachträglicher Verurteilung
 
 **§ 55 (1) StGB.**  
@@ -365,6 +393,7 @@ Wurde die Strafe, ein Strafteil oder die Unterbringung in einer Anstalt für ent
 
 **§ 55 (3) StGB.**  
 Wird die bedingte Nachsicht nicht widerrufen, so dauert jede der zusammentreffenden Probezeiten bis zum Ablauf der Probezeit, die zuletzt endet, jedoch nicht länger als fünf Jahre.
+
 ### § 56 StGB. Widerrufsfristen
 
 **§ 56 StGB.**  

@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Vierzehnter Abschnitt | Hochverrat und andere Angriffe gegen den Staat
+
 ### § 242 StGB. Hochverrat
 
 **§ 242 (1) StGB.**  
@@ -13,6 +14,7 @@ Wer es unternimmt, mit Gewalt oder durch Drohung mit Gewalt die Verfassung der R
 
 **§ 242 (2) StGB.**  
 Ein Unternehmen im Sinn des Abs. 1 liegt auch schon bei einem Versuch vor.
+
 ### § 243 StGB. Tätige Reue
 
 **§ 243 (1) StGB.**  
@@ -20,6 +22,7 @@ Der Täter ist wegen Hochverrats nicht zu bestrafen, wenn er freiwillig die Ausf
 
 **§ 243 (2) StGB.**  
 Der Täter ist auch dann nicht zu bestrafen, wenn die Ausführung oder der Erfolg ohne sein Zutun unterbleibt, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich bemüht, die Ausführung zu verhindern oder den Erfolg abzuwenden.
+
 ### § 244 StGB. Vorbereitung eines Hochverrats
 
 **§ 244 (1) StGB.**  
@@ -27,6 +30,7 @@ Wer mit einem anderen die gemeinsame Begehung eines Hochverrats verabredet, ist 
 
 **§ 244 (2) StGB.**  
 Ebenso ist zu bestrafen, wer einen Hochverrat in anderer Weise vorbereitet und dadurch die Gefahr eines hochverräterischen Unternehmens herbeiführt oder erheblich vergrößert oder wer einen Hochverrat im Zusammenwirken mit einer ausländischen Macht vorbereitet.
+
 ### § 245 StGB. Tätige Reue
 
 **§ 245 (1) StGB.**  
@@ -34,6 +38,7 @@ Der Täter ist wegen Vorbereitung eines Hochverrats nicht zu bestrafen, wenn er 
 
 **§ 245 (2) StGB.**  
 § 243 Abs. 2 gilt entsprechend.
+
 ### § 246 StGB. Staatsfeindliche Verbindungen
 
 **§ 246 (1) StGB.**  
@@ -44,10 +49,12 @@ Ebenso ist zu bestrafen, wer sich in einer solchen Verbindung führend betätigt
 
 **§ 246 (3) StGB.**  
 Wer an einer solchen Verbindung sonst teilnimmt oder sie auf eine andere als die im Abs. 2 bezeichnete Weise unterstützt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
 ### § 247 StGB. Tätige Reue
 
 **§ 247 StGB.**  
  Nach § 246 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, alles, was ihm von der Verbindung und ihren Plänen bekannt ist, zu einer Zeit, da es noch geheim ist, einer solchen Behörde aufdeckt.
+
 ### § 247a StGB. Staatsfeindliche Bewegung
 
 **§ 247a (1) StGB.**  
@@ -64,6 +71,7 @@ Der Täter ist nach Abs. 1 und 2 nicht zu bestrafen, wenn die Tat nach einer an
 
 **§ 247a (5) StGB.**  
 Nach Abs. 1 und 2 ist nicht zu bestrafen, wer sich freiwillig und bevor die Behörde von seinem Verschulden erfahren hat, aus der Bewegung in einer Weise zurückzieht, die eindeutig zu erkennen gibt, dass die staatsfeindliche Ausrichtung nicht mehr unterstützt wird.
+
 ### § 247b StGB. Religiös motivierte extremistische Verbindung
 
 **§ 247b (1) StGB.**  
@@ -80,6 +88,7 @@ Der Täter ist nach Abs. 1 und 2 nicht zu bestrafen, wenn die Tat nach einer an
 
 **§ 247b (5) StGB.**  
 Nach Abs. 1 und 2 ist nicht zu bestrafen, wer sich freiwillig und bevor die Behörde von seinem Verschulden erfahren hat, aus der Verbindung in einer Weise zurückzieht, die eindeutig zu erkennen gibt, dass die religiös motivierte extremistische Ausrichtung nicht mehr unterstützt wird.
+
 ### § 248 StGB. Herabwürdigung des Staates und seiner Symbole
 
 **§ 248 (1) StGB.**  
@@ -88,19 +97,23 @@ Wer auf eine Art, daß die Tat einer breiten Öffentlichkeit bekannt wird, in ge
 **§ 248 (2) StGB.**  
 Wer in der im Abs. 1 bezeichneten Art in gehässiger Weise eine aus einem öffentlichen Anlaß oder bei einer allgemein zugänglichen Veranstaltung gezeigte Fahne der Republik Österreich oder eines ihrer Bundesländer, ein von einer österreichischen Behörde angebrachtes Hoheitszeichen, die Bundeshymne oder eine Landeshymne beschimpft, verächtlich macht oder sonst herabwürdigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 ## Fünfzehnter Abschnitt | Angriffe auf oberste Staatsorgane
+
 ### § 249 StGB. Gewalt und gefährliche Drohung gegen den Bundespräsidenten
 
 **§ 249 StGB.**  
  Wer es unternimmt (§ 242 Abs. 2), mit Gewalt oder durch gefährliche Drohung den Bundespräsidenten abzusetzen oder durch eines dieser Mittel zu nötigen oder zu hindern, seine Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+
 ### § 250 StGB. Nötigung eines verfassungsmäßigen Vertretungskörpers, einer Regierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs
 
 **§ 250 StGB.**  
  Wer es unternimmt (§ 242 Abs. 2), den Nationalrat, den Bundesrat, die Bundesversammlung, die Bundesregierung, einen Landtag, eine Landesregierung, den Verfassungsgerichtshof, den Verwaltungsgerichtshof oder den Obersten Gerichtshof mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder zu hindern, ihre Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+
 ### § 251 StGB. Nötigung von Mitgliedern eines verfassungsmäßigen Vertretungskörpers, einer Regierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs oder des Präsidenten des Rechnungshofs oder des Leiters eines Landesrechnungshofs
 
 **§ 251 StGB.**  
  Wer ein Mitglied des Nationalrats, des Bundesrats, der Bundesversammlung, der Bundesregierung, eines Landtags, einer Landesregierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs oder den Präsidenten des Rechnungshofs, den Leiter eines Landesrechnungshofs oder deren Stellvertreter mit Gewalt oder durch gefährliche Drohung nötigt oder hindert, seine Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren und im Fall einer schweren Nötigung (§ 106) mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 ## Sechzehnter Abschnitt | Landesverrat
+
 ### § 252 StGB. Verrat von Staatsgeheimnissen
 
 **§ 252 (1) StGB.**  
@@ -111,6 +124,7 @@ Wer der Öffentlichkeit ein Staatsgeheimnis bekannt oder zugänglich macht, ist 
 
 **§ 252 (3) StGB.**  
 Verfassungsgefährdende Tatsachen sind solche, die Bestrebungen offenbaren, in verfassungswidriger Weise den demokratischen, bundesstaatlichen oder rechtsstaatlichen Aufbau der Republik Österreich zu beseitigen, deren dauernde Neutralität aufzuheben oder ein verfassungsgesetzlich gewährleistetes Recht abzuschaffen oder einzuschränken oder wiederholt gegen ein solches Recht zu verstoßen.
+
 ### § 253 StGB. Preisgabe von Staatsgeheimnissen
 
 **§ 253 (1) StGB.**  
@@ -118,6 +132,7 @@ Wer zufolge einer ihn im besonderen treffenden rechtlichen Verpflichtung dazu ve
 
 **§ 253 (2) StGB.**  
 Betrifft das Staatsgeheimnis verfassungsgefährdende Tatsachen (§ 252 Abs. 3), so ist der Täter jedoch nur zu bestrafen, wenn er in der Absicht handelt, der Republik Österreich einen Nachteil zuzufügen. Die irrtümliche Annahme verfassungsgefährdender Tatsachen befreit den Täter nicht von Strafe.
+
 ### § 254 StGB. Ausspähung von Staatsgeheimnissen
 
 **§ 254 (1) StGB.**  
@@ -125,14 +140,17 @@ Wer ein Staatsgeheimnis mit dem Vorsatz zurückhält oder sich verschafft, es ei
 
 **§ 254 (2) StGB.**  
 § 253 Abs. 2 gilt entsprechend.
+
 ### § 255 StGB. Begriff des Staatsgeheimnisses
 
 **§ 255 StGB.**  
  Staatsgeheimnisse im Sinn dieses Abschnitts sind Tatsachen, Gegenstände oder Erkenntnisse, insbesondere Schriften, Zeichnungen, Modelle und Formeln, und Nachrichten darüber, die nur einem begrenzten Personenkreis zugänglich sind und vor einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung geheimgehalten werden müssen, um die Gefahr eines schweren Nachteils für die Landesverteidigung der Republik Österreich oder für die Beziehungen der Republik Österreich zu einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung hintanzuhalten.
+
 ### § 256 StGB. Geheimer Nachrichtendienst zum Nachteil Österreichs
 
 **§ 256 StGB.**  
  Wer zum Nachteil der Republik Österreich einen geheimen Nachrichtendienst einrichtet oder betreibt oder einen solchen Nachrichtendienst wie immer unterstützt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
 ### § 257 StGB. Begünstigung feindlicher Streitkräfte
 
 **§ 257 (1) StGB.**  
@@ -140,6 +158,7 @@ Ein Österreicher, der während eines Krieges oder eines bewaffneten Konfliktes,
 
 **§ 257 (2) StGB.**  
 Ebenso ist zu bestrafen, wer während eines Krieges oder eines bewaffneten Konfliktes, an denen die Republik Österreich beteiligt ist, oder bei unmittelbar drohender Gefahr eines solchen Krieges oder bewaffneten Konfliktes den feindlichen Streitkräften einen Vorteil verschafft oder dem österreichischen Bundesheer einen Nachteil zufügt. Ausländer sind nach dieser Bestimmung nur zu bestrafen, wenn sie die Tat begehen, während sie sich im Inland befinden.
+
 ### § 258 StGB. Landesverräterische Fälschung und Vernichtung von Beweisen
 
 **§ 258 (1) StGB.**  
@@ -150,15 +169,18 @@ Wer
 **§ 258 (2) StGB.**  
 Ebenso ist zu bestrafen, wer von einem solchen falschen oder verfälschten Beweismittel Gebrauch macht und dadurch die Interessen der Republik Österreich oder eines ihrer Bundesländer gefährdet.
 ## Siebzehnter Abschnitt | Strafbare Handlungen gegen das Bundesheer
+
 ### § 259 StGB. Beteiligung an militärischen strafbaren Handlungen
 
 **§ 259 StGB.**  
  Wer, ohne Soldat zu sein, einen anderen bestimmt, eine ausschließlich im Militärstrafgesetz mit einer drei Jahre übersteigenden Freiheitsstrafe bedrohte Handlung oder eine der in den §§ 16, 19 und 21 des Militärstrafgesetzes mit Strafe bedrohten Handlungen auszuführen oder sonst zur Ausführung einer solchen Handlung beiträgt, ist mit Freiheitsstrafe bis zu zwei Jahren, wer die Tat aber mit Beziehung auf die im § 18 des Militärstrafgesetzes mit Strafe bedrohte Handlung begeht, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
 ### § 260 StGB. Wehrmittelsabotage
 
 **§ 260 StGB.**  
  Wer ein Wehrmittel oder eine Einrichtung oder Anlage, die ausschließlich oder vorwiegend der Landesverteidigung oder dem Schutz der Zivilbevölkerung gegen Kriegsgefahren dient, oder einen dafür bestimmten Werkstoff entgegen einer übernommenen Verpflichtung nicht oder fehlerhaft herstellt oder liefert und dadurch wissentlich die Landesverteidigung, die Schlagkraft des Bundesheeres oder eines Teiles des Bundesheeres oder den Schutz der Zivilbevölkerung gefährdet, ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 ## Achtzehnter Abschnitt | Strafbare Handlungen bei Wahlen und Volksabstimmungen; Mandatskauf
+
 ### § 261 StGB. Geltungsbereich
 
 **§ 261 (1) StGB.**  
@@ -166,6 +188,7 @@ Die Bestimmungen dieses Abschnitts gelten, soweit im Folgenden nichts anderes be
 
 **§ 261 (2) StGB.**  
 Einer Wahl oder Volksabstimmung steht eine Volksbefragung, das Unterschreiben eines Wahlvorschlags oder einer Unterstützungserklärung für einen Wahlvorschlag, das Verfahren für ein Volksbegehren und die Abgabe einer Unterstützungsbekundung für eine Europäische Bürgerinitiative gleich.
+
 ### § 262 StGB. Wahlbehinderung
 
 **§ 262 (1) StGB.**  
@@ -173,6 +196,7 @@ Wer einen anderen mit Gewalt oder durch gefährliche Drohung nötigt oder hinder
 
 **§ 262 (2) StGB.**  
 Wer einen anderen auf andere Weise als durch Nötigung an der Ausübung seines Wahl- oder Stimmrechts hindert, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+
 ### § 263 StGB. Täuschung bei einer Wahl oder Volksabstimmung
 
 **§ 263 (1) StGB.**  
@@ -180,6 +204,7 @@ Wer durch Täuschung über Tatsachen bewirkt oder zu bewirken versucht, daß ein
 
 **§ 263 (2) StGB.**  
 Ebenso ist zu bestrafen, wer durch Täuschung über einen die Durchführung der Wahl oder Volksabstimmung betreffenden Umstand bewirkt oder zu bewirken versucht, daß ein anderer die Stimmabgabe unterläßt.
+
 ### § 264 StGB. Verbreitung falscher Nachrichten bei einer Wahl oder Volksabstimmung
 
 **§ 264 (1) StGB.**  
@@ -187,6 +212,7 @@ Wer öffentlich eine falsche Nachricht über einen Umstand, der geeignet ist, Wa
 
 **§ 264 (2) StGB.**  
 Wer sich dabei einer falschen oder verfälschten Urkunde bedient, um die falsche Nachricht glaubwürdig erscheinen zu lassen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
 ### § 265 StGB. Bestechung bei einer Wahl oder Volksabstimmung
 
 **§ 265 (1) StGB.**  
@@ -194,6 +220,7 @@ Wer einem Wahl- oder Stimmberechtigten ein Entgelt anbietet, verspricht oder gew
 
 **§ 265 (2) StGB.**  
 Ebenso ist ein Wahl- oder Stimmberechtigter zu bestrafen, der dafür, daß er in einem bestimmten Sinn, oder dafür, daß er nicht oder nicht in einem bestimmten Sinn wähle oder stimme, ein Entgelt fordert, annimmt oder sich versprechen läßt.
+
 ### § 265a StGB. Mandatskauf
 
 **§ 265a (1) StGB.**  
@@ -210,6 +237,7 @@ Zusagen, Vereinbarungen oder Leistungen betreffend zulässige Parteispenden nach
 
 **§ 265a (5) StGB.**  
 Der Täter ist nach den vorstehenden Absätzen nur dann zu bestrafen, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist.
+
 ### § 266 StGB. Fälschung bei einer Wahl oder Volksabstimmung
 
 **§ 266 (1) StGB.**  
@@ -217,10 +245,12 @@ Wer, ohne wahl- oder stimmberechtigt zu sein, oder namens eines anderen ohne ode
 
 **§ 266 (2) StGB.**  
 Wer das Ergebnis einer Wahl oder Volksabstimmung fälscht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
 ### § 267 StGB. Verhinderung einer Wahl oder Volksabstimmung
 
 **§ 267 StGB.**  
  Wer mit Gewalt oder durch gefährliche Drohung eine Wahl, eine Volksabstimmung oder die Feststellung oder Verkündung ihrer Ergebnisse verhindert oder absichtlich stört, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
 ### § 268 StGB. Verletzung des Wahl- oder Volksabstimmungsgeheimnisses
 
 **§ 268 StGB.**  

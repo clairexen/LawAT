@@ -6,6 +6,7 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 10a. Hauptstück | Absehen von der Einleitung eines Ermittlungsverfahrens
+
 ### § 197a StPO. Absehen von der Einleitung eines Ermittlungsverfahrens
 
 **§ 197a (1) StPO.**  
@@ -15,6 +16,7 @@ Die Staatsanwaltschaft hat von der Einleitung eines Ermittlungsverfahrens abzuse
 Geht die Staatsanwaltschaft nach Abs. 1 vor, kann sie ein Ermittlungsverfahren nur einleiten, solange die Strafbarkeit der Tat nicht verjährt ist, und
 1. das Gesetz verletzt oder unrichtig angewendet wurde oder
 2. neue Tatsachen oder Beweismittel beigebracht werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, einen Anfangsverdacht (§ 1 Abs. 3) zu begründen.
+
 ### § 197b StPO. Verständigungen
 
 **§ 197b (1) StPO.**  
@@ -22,11 +24,13 @@ Vom Absehen von der Einleitung eines Ermittlungsverfahrens nach § 197a Abs. 1
 
 **§ 197b (2) StPO.**  
 In der Verständigung ist anzuführen, aus welchem Grund von der Einleitung eines Ermittlungsverfahrens abgesehen wurde. § 194 Abs. 3 gilt sinngemäß. Überdies sind Personen, die zur Einbringung eines Antrags auf Verfolgung einer Straftat (§ 197c) berechtigt sind, über die Möglichkeit der Einbringung eines solchen Antrags und seine Voraussetzungen zu informieren.
+
 ### § 197c StPO. Antrag auf Verfolgung
 
 **§ 197c StPO.**  
  Im Fall eines Vorgehens nach § 197a Abs. 1 erster Fall sind Personen, die Opfer (§ 65 Z 1) einer Straftat sein könnten, berechtigt, einen Antrag auf Verfolgung dieser Straftat zu stellen. Für den Antrag und die Entscheidung darüber gelten § 195 und § 196 mit Ausnahme des Abs. 1 vorletzter und letzter Satz sinngemäß.
 ## 11. Hauptstück | Rücktritt von der Verfolgung (Diversion)
+
 ### § 198 StPO. Allgemeines
 
 **§ 198 (1) StPO.**  
@@ -44,10 +48,12 @@ Ein Vorgehen nach diesem Hauptstück ist jedoch nur zulässig, wenn
 
 **§ 198 (3) StPO.**  
 Nach diesem Hauptstück darf im Fall des Missbrauchs der Amtsgewalt nach § 302 Abs. 1 StGB nur vorgegangen werden, soweit der Beschuldigte durch die Tat keine oder eine bloß geringfügige oder sonst unbedeutende Schädigung an Rechten herbeigeführt hat und die Tat nicht auch nach §§ 304 oder 307 StGB mit Strafe bedroht ist. Im Übrigen ist ein Vorgehen nach diesem Hauptstück ausgeschlossen, soweit es sich um eine im Zehnten Abschnitt des Besonderen Teils des StGB geregelte strafbare Handlung handelt, die mit mehr als dreijähriger Freiheitsstrafe bedroht ist.
+
 ### § 199 StPO.
 
 **§ 199 StPO.**  
  Nach Einbringen der Anklage wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht die für die Staatsanwaltschaft geltenden Bestimmungen der §§ 198, 200 bis 209b sinngemäß anzuwenden und das Verfahren unter den für die Staatsanwaltschaft geltenden Voraussetzungen bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen.
+
 ### § 200 StPO. Zahlung eines Geldbetrages
 
 **§ 200 (1) StPO.**  
@@ -64,6 +70,7 @@ Die Staatsanwaltschaft hat dem Beschuldigten mitzuteilen, dass Anklage gegen ihn
 
 **§ 200 (5) StPO.**  
 Nach Leistung des Geldbetrages und allfälliger Schadensgutmachung hat die Staatsanwaltschaft von der Verfolgung zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist.
+
 ### § 201 StPO. Gemeinnützige Leistungen
 
 **§ 201 (1) StPO.**  
@@ -80,6 +87,7 @@ Die Staatsanwaltschaft hat dem Beschuldigten mitzuteilen, dass Anklage gegen ihn
 
 **§ 201 (5) StPO.**  
 Nach Erbringung der gemeinnützigen Leistungen und allfälligem Tatfolgenausgleich hat die Staatsanwaltschaft von der Verfolgung endgültig zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist.
+
 ### § 202 StPO.
 
 **§ 202 (1) StPO.**  
@@ -96,6 +104,7 @@ Der Bund hat den Schaden nur in Geld zu ersetzen. Von der Einrichtung, bei der d
 
 **§ 202 (5) StPO.**  
 Erleidet der Beschuldigte bei Erbringung gemeinnütziger Leistungen einen Unfall oder eine Krankheit, so gelten die Bestimmungen der §§ 76 bis 84 des Strafvollzugsgesetzes dem Sinne nach.
+
 ### § 203 StPO. Probezeit
 
 **§ 203 (1) StPO.**  
@@ -109,6 +118,7 @@ Die Staatsanwaltschaft hat dem Beschuldigten mitzuteilen, dass Anklage gegen ihn
 
 **§ 203 (4) StPO.**  
 Nach Ablauf der Probezeit und Erfüllung allfälliger Pflichten hat die Staatsanwaltschaft von der Verfolgung endgültig zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist.
+
 ### § 204 StPO. Tatausgleich
 
 **§ 204 (1) StPO.**  
@@ -122,6 +132,7 @@ Die Staatsanwaltschaft kann einen Konfliktregler ersuchen, das Opfer und den Bes
 
 **§ 204 (4) StPO.**  
 Der Konfliktregler hat der Staatsanwaltschaft über Ausgleichsvereinbarungen zu berichten und deren Erfüllung zu überprüfen. Einen abschließenden Bericht hat er zu erstatten, wenn der Beschuldigte seinen Verpflichtungen zumindest soweit nachgekommen ist, dass unter Berücksichtigung seines übrigen Verhaltens angenommen werden kann, er werde die Vereinbarungen weiter einhalten, oder wenn nicht mehr zu erwarten ist, dass ein Ausgleich zustande kommt.
+
 ### § 205 StPO. Nachträgliche Fortsetzung des Strafverfahrens
 
 **§ 205 (1) StPO.**  
@@ -141,6 +152,7 @@ Wenn der Beschuldigte den Geldbetrag nicht vollständig oder nicht rechtzeitig z
 
 **§ 205 (5) StPO.**  
 Verpflichtungen, die der Beschuldigte übernommen, und Zahlungen und sonstige Ausgleichsmaßnahmen, zu denen er sich bereit erklärt hat, werden mit der nachträglichen Fortsetzung des Verfahrens gegenstandslos. Die Bewährungshilfe endet; § 179 bleibt jedoch unberührt. Geldbeträge, die der Beschuldigte geleistet hat (§ 200), sind auf eine nicht bedingt nachgesehene Geldstrafe unter sinngemäßer Anwendung des § 38 Abs. 1 Z 1 StGB anzurechnen; im Übrigen sind sie zurückzuzahlen. Andere Leistungen sind nicht zu ersetzen, im Fall einer Verurteilung jedoch gleichfalls angemessen auf die Strafe anzurechnen. Dabei sind insbesondere Art und Dauer der Leistung zu berücksichtigen.
+
 ### § 206 StPO. Rechte und Interessen der Opfer
 
 **§ 206 (1) StPO.**  
@@ -148,10 +160,12 @@ Bei einem Vorgehen nach diesem Hauptstück sind stets die Interessen des Opfers,
 
 **§ 206 (2) StPO.**  
 Das Opfer ist jedenfalls zu verständigen, wenn sich der Beschuldigte bereit erklärt, aus der Tat entstandenen Schaden gutzumachen oder sonst zum Ausgleich der Folgen der Tat beizutragen. Gleiches gilt für den Fall, dass der Beschuldigte eine Pflicht übernimmt, welche die Interessen des Geschädigten unmittelbar berührt.
+
 ### § 207 StPO. Information des Beschuldigten
 
 **§ 207 StPO.**  
  Bei einem Vorgehen nach diesem Hauptstück ist der Beschuldigte eingehend über seine Rechte zu informieren, insbesondere über die Voraussetzungen für einen Rücktritt von der Verfolgung, über das Erfordernis seiner Zustimmung, über seine Möglichkeit, eine Fortsetzung des Verfahrens zu verlangen, über die sonstigen Umstände, die eine Fortsetzung des Verfahrens bewirken können (§ 205 Abs. 2) und über die Notwendigkeit eines Pauschalkostenbeitrags (§ 388).
+
 ### § 208 StPO. Gemeinsame Bestimmungen
 
 **§ 208 (1) StPO.**  
@@ -162,6 +176,7 @@ Auf begründeten Antrag des Beschuldigten kann ein nach § 200 festgesetzter Ge
 
 **§ 208 (3) StPO.**  
 Vom Rücktritt von der Verfolgung hat die Staatsanwaltschaft die Kriminalpolizei, den Beschuldigten, das Opfer und, sofern es mit dem Verfahren befasst war, das Gericht zu verständigen. Hat das Gericht das Verfahren gemäß § 199 eingestellt, obliegen die Verständigungen diesem. In der Verständigung sind die maßgebenden Umstände für die Erledigung in Schlagworten darzustellen.
+
 ### § 209 StPO.
 
 **§ 209 (1) StPO.**  
@@ -172,6 +187,7 @@ Gerichtliche Beschlüsse nach diesem Hauptstück sind in der Hauptverhandlung vo
 
 **§ 209 (3) StPO.**  
 Solange über eine Beschwerde gegen einen Beschluss, mit dem ein Antrag auf Einstellung des Strafverfahrens nach diesem Hauptstück abgewiesen wurde, noch nicht entschieden wurde, ist die Durchführung einer Hauptverhandlung nicht zulässig. Eine Beschwerde gegen die nachträgliche Fortsetzung des Strafverfahrens hat aufschiebende Wirkung.
+
 ### § 209a StPO. Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft
 
 **§ 209a (1) StPO.**  
@@ -199,6 +215,7 @@ Die Staatsanwaltschaft hat ihre Anordnung nach Abs. 4 dem Rechtsschutzbeauftrag
 
 **§ 209a (7) StPO.**  
 Im Verfahren gegen Verbände nach dem Verbandsverantwortlichkeitsgesetz (VbVG), BGBl. I Nr. 151/2005, ist sinngemäß mit der Maßgabe vorzugehen, dass die Bestimmungen des § 19 Abs. 1 Z 1 bis 3 VbVG anzuwenden sind. Der zu entrichtende Geldbetrag darf abweichend von § 19 Abs. 1 Z 1 VbVG einer Verbandsgeldbuße von 100 Tagessätzen entsprechen.
+
 ### § 209b StPO. Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft im Zusammenhang mit einer kartellrechtlichen Zuwiderhandlung
 
 **§ 209b (1) StPO.**  

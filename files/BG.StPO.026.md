@@ -6,14 +6,17 @@
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 23. Hauptstück | Verfahren vor dem Landesgericht als Einzelrichter
+
 ### § 483 StPO.
 
 **§ 483 StPO.**  
  (Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+
 ### § 484 StPO.
 
 **§ 484 StPO.**  
  Der Strafantrag (§ 210 Abs. 1) hat die im § 211 Abs. 1 angeführten Angaben zu enthalten und jene Beweise zu bezeichnen, deren Aufnahme in der Hauptverhandlung beantragt wird. Das Gericht hat den Strafantrag dem Angeklagten, gegebenenfalls samt einer Rechtsbelehrung gemäß § 50, insbesondere der Information, ob ein Fall notwendiger Verteidigung gegeben ist, unverzüglich zuzustellen. § 213 Abs. 3 gilt sinngemäß.
+
 ### § 485 StPO.
 
 **§ 485 (1) StPO.**  
@@ -28,6 +31,7 @@ Die Beschwerde der Staatsanwaltschaft gegen einen Beschluss nach Abs. 1 Z 1 od
 
 **§ 485 (2) StPO.**  
 Sobald ein Beschluss gemäß Abs. 1 Z 1 oder 2 rechtswirksam geworden ist, hat der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts die für die Fortführung des Verfahrens erforderlichen Anträge oder Anordnungen zu stellen.
+
 ### § 488 StPO.
 
 **§ 488 (1) StPO.**  
@@ -41,6 +45,7 @@ Ist das Landesgericht als Einzelrichter der Ansicht, dass das Landesgericht als 
 
 **§ 488 (4) StPO.**  
 (Anm.: aufgehoben durch BGBl. I Nr. 52/2009)
+
 ### § 489 StPO.
 
 **§ 489 (1) StPO.**  
@@ -51,11 +56,13 @@ Die Gerichtstage zur öffentlichen Verhandlung über die Berufung finden am Sitz
 
 **§ 489 (3) StPO.**  
 Von der Verhandlung und Entscheidung über eine Berufung sind auch Mitglieder des Oberlandesgerichts ausgeschlossen, die im vorangegangenen Verfahren an der Entscheidung über eine Beschwerde gegen die vom Landesgericht als Einzelrichter beschlossene Zurückweisung oder Einstellung (§ 485) beteiligt waren.
+
 ### § 490 StPO.
 
 **§ 490 StPO.**  
  Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16. Hauptstück enthaltenen Bestimmungen. In den Fällen der §§ 352 bis 356 entscheidet das Landesgericht als Einzelrichter über die Bewilligung der Wiederaufnahme.
 ## 23a. Hauptstück
+
 ### § 491 StPO. Mandatsverfahren
 
 **§ 491 (1) StPO.**  
@@ -92,15 +99,18 @@ Im Falle eines zulässigen Einspruchs ist die Hauptverhandlung anzuordnen (§§�
 
 **§ 491 (9) StPO.**  
 Wird ein Einspruch nicht erhoben oder ein solcher als unzulässig zurückgewiesen, so steht die Strafverfügung einem rechtskräftigen Urteil gleich und ist nach den Bestimmungen des 19. Hauptstückes zu vollstrecken.
+
 ### § 491a StPO.
 
 **§ 491a StPO.**  
  (Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 148)
+
 ### § 491b StPO.
 
 **§ 491b StPO.**  
  (Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 148)
 ## 24. Hauptstück | Verfahren bei bedingter Strafnachsicht, bedingter Nachsicht von vorbeugenden Maßnahmen, Erteilung von Weisungen und Anordnung der Bewährungshilfe | I. Bedingte Nachsicht einer Strafe, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher und einer Rechtsfolge
+
 ### § 492 StPO.
 
 **§ 492 (1) StPO.**  
@@ -108,6 +118,7 @@ Die bedingte Nachsicht einer Strafe, der Unterbringung in einer Anstalt für ent
 
 **§ 492 (2) StPO.**  
 Das Gericht hat den Verurteilten über den Sinn der bedingten Nachsicht zu belehren und ihm, sobald die Entscheidung darüber rechtskräftig geworden ist, eine Urkunde zuzustellen, die kurz und in einfachen Worten den wesentlichen Inhalt der Entscheidung, die ihm auferlegten Verpflichtungen und die Gründe angibt, aus denen die Nachsicht widerrufen werden kann.
+
 ### § 493 StPO.
 
 **§ 493 (1) StPO.**  
@@ -116,6 +127,7 @@ Die bedingte Nachsicht oder deren Unterbleiben bildet einen Teil des Ausspruches
 **§ 493 (2) StPO.**  
 Hat das Gericht durch die Entscheidung über die bedingte Nachsicht seine Befugnisse überschritten, so kann das Urteil wegen Nichtigkeit nach den §§ 281 Abs. 1 Z. 11, 345 Abs. 1 Z. 13 oder 468 Abs. 1 Z. 4 angefochten werden.
 ## II. Erteilung von Weisungen und Anordnung der Bewährungshilfe
+
 ### § 494 StPO.
 
 **§ 494 (1) StPO.**  
@@ -124,6 +136,7 @@ Hat das Gericht durch die Entscheidung über die bedingte Nachsicht seine Befugn
 **§ 494 (2) StPO.**  
 Wird dem Rechtsbrecher eine Weisung erteilt, welche die Interessen des Verletzten unmittelbar berührt, so ist dieser hievon zu verständigen.
 ## III. Widerruf einer bedingten Nachsicht
+
 ### § 494a StPO.
 
 **§ 494a (1) StPO.**  
@@ -150,10 +163,12 @@ In einem Beschluß, mit dem vom Widerruf einer bedingten Nachsicht oder bedingte
 
 **§ 494a (7) StPO.**  
 Das erkennende Gericht hat unverzüglich alle Gerichte zu verständigen, deren Vorentscheidungen von einer Entscheidung nach den vorstehenden Bestimmungen betroffen sind.
+
 ### § 494b StPO.
 
 **§ 494b StPO.**  
  Hat das erkennende Gericht bei der Urteilsfällung einen Ausspruch nach § 494a Abs. 1 Z 3 oder 4 zu Unrecht unterlassen oder im Fall eines Ausspruches nach § 494a Abs. 1 Z 2 die Probezeit nicht verlängert und hat der Ankläger das Unterbleiben einer solchen Entscheidung nicht angefochten, so darf ein nachträglicher Ausspruch der Strafe, ein Widerruf der bedingten Nachsicht oder Entlassung oder eine Verlängerung der Probezeit aus Anlaß der neuen Verurteilung nicht mehr erfolgen, sofern die frühere Verurteilung oder die bedingte Entlassung aktenkundig war.
+
 ### § 495 StPO.
 
 **§ 495 (1) StPO.**  
@@ -164,6 +179,7 @@ Die Beschlußfassung über einen Widerruf bei nachträglicher Verurteilung (§ 
 
 **§ 495 (3) StPO.**  
 Vor der Entscheidung hat das Gericht den Ankläger, den Verurteilten und den Bewährungshelfer zu hören und eine Strafregisterauskunft einzuholen. Von der Anhörung des Verurteilten kann abgesehen werden, wenn sich erweist, daß sie ohne unverhältnismäßigen Aufwand nicht durchführbar ist.
+
 ### § 496 StPO.
 
 **§ 496 (1) StPO.**  
@@ -172,6 +188,7 @@ Wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass die bedingte Nachsicht 
 **§ 496 (2) StPO.**  
 Wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass ein Verurteilter, der unter gerichtlicher Aufsicht nach § 52a oder § 52b StGB steht, ihm erteilte Weisungen nicht befolgt oder sich dem Einfluss des Bewährungshelfers entzieht, ist die Vorführung des Verurteilten zur sofortigen Erteilung einer förmlichen Mahnung zulässig. Zur Vorführung ist die Kriminalpolizei von sich aus berechtigt, wenn wegen Gefahr im Verzug eine Anordnung des Gerichts nicht rechtzeitig eingeholt werden kann.
 ## IV. Endgültige Nachsicht
+
 ### § 497 StPO.
 
 **§ 497 (1) StPO.**  
@@ -180,6 +197,7 @@ Der Ausspruch, daß die bedingte Nachsicht einer Strafe, der Unterbringung in ei
 **§ 497 (2) StPO.**  
 Vor der Entscheidung ist der Ankläger zu hören und eine Strafregisterauskunft einzuholen.
 ## V. Gemeinsame Bestimmungen
+
 ### § 498 StPO.
 
 **§ 498 (1) StPO.**  
@@ -191,10 +209,12 @@ Die Beschwerde steht zugunsten des Verurteilten diesem und allen anderen Persone
 **§ 498 (3) StPO.**  
 Die Beschwerde kann auch mit einer Nichtigkeitsbeschwerde oder Berufung gegen das Urteil verbunden werden, das zugleich mit dem angefochtenen Beschluß ergangen ist (§§ 494 und 494a). In diesem Fall ist die Beschwerde rechtzeitig eingebracht, wenn das Rechtsmittel, mit dessen Ausführung sie verbunden ist, rechtzeitig eingebracht wurde. Im übrigen ist eine zugunsten des Angeklagten ergriffene Berufung wegen des Ausspruchs über die Strafe auch als Beschwerde gegen den Beschluß zu betrachten. Wird die Beschwerde mit einem anderen Rechtsmittel verbunden oder wird sonst gegen das zugleich mit dem angefochtenen Beschluß ergangene Urteil Nichtigkeitsbeschwerde oder Berufung erhoben, so entscheidet das für deren Erledigung zuständige Gericht auch über die Beschwerde.
 ## 25. Hauptstück | Ausübung der Strafgerichtsbarkeit über Soldaten im Frieden
+
 ### § 499 StPO.
 
 **§ 499 StPO.**  
  Soldat im Sinne dieses Gesetzes ist jeder Angehörige des Präsenzstandes des Bundesheeres.
+
 ### § 500 StPO.
 
 **§ 500 (1) StPO.**  
@@ -202,6 +222,7 @@ Alle Soldaten unterstehen im Frieden der Strafgerichtsbarkeit der bürgerlichen 
 
 **§ 500 (2) StPO.**  
 Soweit im folgenden nichts anderes bestimmt ist, sind die allgemeinen Vorschriften über das Verfahren in Strafsachen auch auf Soldaten anzuwenden.
+
 ### § 501 StPO.
 
 **§ 501 (1) StPO.**  
@@ -209,6 +230,7 @@ Die Durchführung eines Strafverfahrens wegen einer Tat ist nicht allein deshalb
 
 **§ 501 (2) StPO.**  
 Wegen eines mit nicht mehr als sechsmonatiger Freiheitsstrafe bedrohten Vergehens nach dem Militärstrafgesetz darf ein Strafverfahren nicht geführt oder ein bereits begonnenes Strafverfahren vorläufig nicht fortgesetzt werden (§ 197), sobald Staatsanwaltschaft oder Gericht von der zuständigen Behörde mitgeteilt wurde, dass wegen der Tat ein militärisches Disziplinarverfahren durchgeführt wird. Handelt es sich um ein mit mehr als sechsmonatiger, aber nicht mehr als zweijähriger Freiheitsstrafe bedrohtes Vergehen nach dem Militärstrafgesetz, so kann die Staatsanwaltschaft oder das Gericht die Einleitung oder Fortsetzung des Verfahrens aufschieben, wenn dies im Hinblick auf ein wegen der Tat durchgeführtes militärisches Disziplinarverfahren zweckmäßig erscheint. Nach Abschluss des Disziplinarverfahrens hat die Staatsanwaltschaft in sinngemäßer Anwendung des § 263 Abs. 4 vorzugehen. Solange ein Verfahren nach diesem Bundesgesetz nicht eingeleitet oder fortgesetzt wird, ruht die Verjährung.
+
 ### § 502 StPO.
 
 **§ 502 (1) StPO.**  
@@ -218,6 +240,7 @@ Auch militärische Kommanden sowie jene Soldaten, die dem für die militärische
 
 **§ 502 (2) StPO.**  
 §§ 170 Abs. 3 und 172 gelten dem Sinne nach.
+
 ### § 503 StPO.
 
 **§ 503 (1) StPO.**  
@@ -231,14 +254,17 @@ Die Verurteilung eines Wehrpflichtigen der Reserve ist seinem Standeskörper bek
 
 **§ 503 (4) StPO.**  
 Die bevorstehende Entlassung eines Soldaten aus einer Strafvollzugsanstalt ist von dieser, die Entlassung aus einer Justizanstalt vom Gerichte dem nächstgelegenen militärischen Kommando anzuzeigen, damit die zur Übernahme notwendigen Verfügungen rechtzeitig getroffen werden können.
+
 ### § 504 StPO.
 
 **§ 504 StPO.**  
  Von Amtshandlungen der Kriminalpolizei, der Staatsanwaltschaft oder des Gerichts auf militärischen Liegenschaften ist der Kommandant vorher in Kenntnis zu setzen; auf sein Verlangen ist ein von ihm beigegebener Soldat zuzuziehen.
+
 ### § 505 StPO.
 
 **§ 505 StPO.**  
  Ladungen und Anordnungen, Entscheidungen und sonstige Schriftstücke sind Soldaten in der Regel durch das unmittelbar vorgesetzte Kommando zuzustellen. Dieses hat das rechtzeitige Erscheinen des Geladenen zu veranlassen und ihn nötigenfalls auch von Amts wegen zum Termin vorzuführen.
+
 ### § 506 StPO.
 
 **§ 506 (1) StPO.**  
