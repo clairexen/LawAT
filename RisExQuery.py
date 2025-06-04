@@ -4,7 +4,7 @@
 Utility library for accessing and searching RisExFiles.zip.
 """
 
-import zipfile, json, re, fnmatch
+import zipfile, json, os, re, fnmatch
 
 __all__ = [
     "ls",
@@ -16,13 +16,20 @@ __all__ = [
 fileList = None
 fileCache = dict()
 
+zipPath = None
+
+for fn in ["RisExFiles.zip", "/mnt/data/RisExFiles.zip"]:
+    if os.access(fn, os.F_OK):
+        zipPath = fn
+        break
+
 def ls():
     """
         Return the list of file names from RisExFiles.zip.
     """
     global fileList
     if fileList is None:
-        with zipfile.ZipFile("RisExFiles.zip") as z:
+        with zipfile.ZipFile(zipPath) as z:
             fileList = sorted([f.filename for f in z.filelist])
     return fileList
 
@@ -37,7 +44,7 @@ def get(fn: str):
         file is returned.
     """
     if fn not in fileCache:
-        with zipfile.ZipFile("RisExFiles.zip") as z:
+        with zipfile.ZipFile(zipPath) as z:
             with z.open(fn) as f:
                 if fn.endswith(".json"):
                     fileCache[fn] = json.load(f)
@@ -79,7 +86,7 @@ def pat(s: str) -> re.Pattern:
         return re.compile(handleRangePatterns(s[1:]))
     if s.startswith("="):
         return re.compile(re.escape(s[1:]))
-    return re.compile(handleRangePatterns(fnmatch.translate(s)))
+    return re.compile(handleRangePatterns(fnmatch.translate(s).removesuffix("\\Z")))
 
 def toc(searchPat: str, filePat: str = None):
     """
