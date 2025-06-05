@@ -131,8 +131,14 @@ langtitel = page.locator("h3") \
 }""")
 print(f"Langtitel: {langtitel}")
 
-# Remove changelog contentBlocks
-page.locator(".documentContent").nth(0).evaluate("el => el.remove()")
+
+# Extract last changelog
+infoBlocks = page.locator(".documentContent").nth(0)
+lastchange = infoBlocks.locator(":scope h3").get_by_text("Änderung") \
+                   .locator(":scope ~ div .ErlText").nth(-1).inner_text()
+
+# Remove changelog and metadata contentBlocks
+infoBlocks.evaluate("el => el.remove()")
 
 # Remove all "sr-only" elements from the DOM tree
 page.locator(".sr-only").evaluate_all("els => els.forEach(el => el.remove())")
@@ -218,11 +224,12 @@ while blockIndex is not None and blockIndex < len(blocks):
             assert False, "Unrecognized type"
     print(f"**Kurztitel:** {normdata['title']}  ", file=outFile)
     print(f"**Langtitel:** {langtitel}  ", file=outFile)
+    print(f"**Letzte Änderung:** {lastchange}  ", file=outFile)
     print(f"**Quelle:** {normdata['docurl']}  ", file=outFile)
     print("*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. " +
             "(Irrtümer und Fehler vorbehalten.)*", file=outFile)
     print("", file=outFile)
-    lineNum = 7
+    lineNum = 8
 
     # Process Content Blocks
     while blockIndex < len(blocks):
