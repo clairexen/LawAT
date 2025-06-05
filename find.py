@@ -7,7 +7,7 @@ import time, getopt, sys, json, os
 from ptpython.repl import embed
 
 # Remember to launch
-#   mitmproxy --mode regular --listen-port 8080 -s mitmp_cache.py
+#   mitmproxy --mode regular --listen-port 8080 -s mitmp.py
 # (or similar) when using useProxyMode.
 useProxyMode = True
 
@@ -30,7 +30,7 @@ def usage():
     print()
     print(f"The default <norm-key> is {defaultNorm}.")
     print()
-    print("Note: Run 'mitmproxy -s mitmp_cache.py' (or mitmweb) in another")
+    print("Note: Run 'mitmproxy -s mitmp.py' (or mitmweb) in another")
     print("terminal window for a simple local proxy when -P is not used.")
     print()
 
