@@ -2,38 +2,29 @@
 
 """
 Utility library for accessing and searching RisExFiles.zip.
+
+Import as follows in Chat-GPT(-like) script environments:
+exec(open("/mnt/data/RisExQuery.py").read().replace("#/#", 1))
 """
 
-import zipfile, json, os, re, fnmatch
+import zipfile, json, os, sys, re, fnmatch
 
-__all__ = [
-    "ls",
-    "get",
-    "pat",
-    "toc"
-]
+_rex_zipPath = "RisExFiles.zip"
+#/#_rex_zipPath = "/mnt/data/RisExFiles.zip"
 
-fileList = None
-fileCache = dict()
+_rex_zip = zipfile.ZipFile(_rex_zipPath)
+_rex_dir = set(sorted([f.filename for f in _rex_zip.filelist]))
+_rex_cache = dict()
 
-zipPath = None
-
-for fn in ["RisExFiles.zip", "/mnt/data/RisExFiles.zip"]:
-    if os.access(fn, os.F_OK):
-        zipPath = fn
-        break
-
-def ls():
+def ls(p: str = None):
     """
         Return the list of file names from RisExFiles.zip.
     """
-    global fileList
-    if fileList is None:
-        with zipfile.ZipFile(zipPath) as z:
-            fileList = sorted([f.filename for f in z.filelist])
-    return fileList
+    if p is not None:
+        return [fn for fn in _rex_dir if fnmatch.fnmatch(fn, p)]
+    return _rex_dir
 
-def get(fn: str):
+def fetch(key: str):
     """
         Fetch a file (by file name) from RisExFiles.zip.
 
@@ -43,14 +34,28 @@ def get(fn: str):
         Otherwise a list of the lines of the text
         file is returned.
     """
-    if fn not in fileCache:
-        with zipfile.ZipFile(zipPath) as z:
-            with z.open(fn) as f:
+
+    if key not in _rex_cache:
+        if ":" in key:
+            fn, ln = key.split(":", 1)
+            if "-" in ln:
+                fromLine, toLine = ln.split("-", 1)
+            else:
+                fromLine, toLine = ln, ln
+            _rex_cache[key] = "\n".join(fetch(fn)[int(fromLine)-1:int(toLine)])
+
+        else:
+            fn = key
+            if fn not in _rex_dir:
+                for ext in (".md", ".json"):
+                    if (fn + ext) in _rex_dir: fn += ext; break
+            with _rex_zip.open(fn) as f:
                 if fn.endswith(".json"):
-                    fileCache[fn] = json.load(f)
+                    _rex_cache[key] = json.load(f)
                 else:
-                    fileCache[fn] = [line.decode().removesuffix("\n") for line in f]
-    return fileCache[fn]
+                    _rex_cache[key] = [line.decode().removesuffix("\n") for line in f]
+
+    return _rex_cache[key]
 
 def pat(s: str) -> re.Pattern:
     """
@@ -88,7 +93,7 @@ def pat(s: str) -> re.Pattern:
         return re.compile(re.escape(s[1:]))
     return re.compile(handleRangePatterns(fnmatch.translate(s).removesuffix("\\Z")))
 
-def toc(searchPat: str, filePat: str = None):
+def get(searchPat: str, filePat: str = None):
     """
         Search for searchPat in the tables-of-contents .toc.json
         files selected by filePat, or all toc files when filePat
@@ -98,10 +103,6 @@ def toc(searchPat: str, filePat: str = None):
         filename without the .toc.json suffix.
 
         See pat() for details on the pattern syntax.
-
-        This functions returns a list of 4-tuples, one for each
-        found match:
-        [ (DataFileName, FirstLine, LastLine, Header, Data), ... ]
     """
 
     matches = list()
@@ -117,11 +118,19 @@ def toc(searchPat: str, filePat: str = None):
             if not filePat.fullmatch(fn.removesuffix(".toc.json")):
                 continue
 
-        for tf, items in get(fn).items():
+        for tf, items in fetch(fn).items():
             for i in range(len(items)-1):
                 if searchPat.search(items[i][1]):
                     n, m = items[i][0], items[i+1][0]-1
-                    tx = "\n".join(get(f"{tf}.md")[n-1:m])
-                    matches.append((f"{tf}.md", n, m, items[i][1], tx))
+                    tx = fetch(key := f"{tf}:{n}-{m}")
+                    tx = tx.replace("\n", f" | {key}\n", 1)
+                    matches.append(tx)
 
-    return matches
+    return "\n".join(matches)
+
+if __name__ == "__main__":
+    match sys.argv[1]:
+        case "zip":
+            os.system(f"rm -vf RisExFiles.zip; set -ex; zip -vXj RisExFiles.zip -r files index.json")
+        case "get":
+            print(get(*sys.argv[2:]))

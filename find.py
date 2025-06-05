@@ -126,7 +126,7 @@ if normdata["type"] in ("BG", "BVG"):
 with open("index.json", "w") as f:
     json.dump(normindex, f, ensure_ascii=False, indent=4)
     print(file=f)
-os.system("set -ex; zip -v0j RisExFiles.zip index.json")
+os.system("set -ex; zip -vXj RisExFiles.zip index.json")
 
 if launchInteractiveRepl:
     embed(globals(), locals())
