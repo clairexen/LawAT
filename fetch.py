@@ -188,8 +188,9 @@ def processContentElement(el, outbuf, parName = None):
                 outbuf.append(f"## {txt}")
 
         case "H4" if "UeberschrPara" in cls:
+            parName = txt.replace("§.", "§").removesuffix(".") + f" {normdata['title']}"
             outbuf.append("")
-            outbuf.append(f"### {txt}")
+            outbuf.append(f"### {parName}")
 
         case "P" if "Abs" in cls or \
                     "Abs_small_indent" in cls or \

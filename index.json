@@ -23,6 +23,8 @@
     "BG.ZPO": {
         "type": "BG",
         "title": "ZPO",
+        "split": 20000,
+        "stop": "§ 637",
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699"
     },
     "BG.VerG": {
