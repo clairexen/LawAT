@@ -16,6 +16,8 @@
     "BG.ABGB": {
         "type": "BG",
         "title": "ABGB",
+        "split": 20000,
+        "stop": "§ 1503",
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622"
     },
     "BG.ZPO": {
