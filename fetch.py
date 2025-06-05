@@ -185,19 +185,16 @@ def processContentElement(el):
             else:
                 lines.append("")
                 lines.append(f"### {parName}")
-            enumCnt = 0
             for item in el.locator(":scope div.content").all():
                 if item.locator(".Absatzzahl").count():
-                    enumCnt = 0
                     nr = item.locator(".Absatzzahl").inner_text()
-                    nrName = parBaseName + f" {nr} {normdata['title']}"
-                    lines += ["", f"**{nrName}.**  "] + item.locator(".Absatzzahl ~ *").inner_text().split("\n")
+                    parName = parBaseName + f" {nr} {normdata['title']}"
+                    lines += ["", f"`{parName}.`  "] + item.locator(".Absatzzahl ~ *").inner_text().split("\n")
                 elif item.locator(":scope div.AufzaehlungE1").count():
-                    enumCnt += 1
-                    lines[-1] += "  "
-                    lines.append(f"`{enumCnt}.` {item.inner_text()}")
+                    symName = item.locator("xpath=..").locator(":scope div.SymE1").inner_text().removesuffix(".")
+                    symName = parName.removesuffix(normdata['title']) + f"Z {symName} {normdata['title']}"
+                    lines.append(f"`{symName}.` {item.inner_text()}")
                 else:
-                    enumCnt = 0
                     lines.append(f"{item.tag_name()}: {item.outer_html()}")
 
         case "DIV" if el.locator(":scope h5.GldSymbol").count():
@@ -209,7 +206,7 @@ def processContentElement(el):
             else:
                 lines.append("")
                 lines.append(f"### {parName}")
-            lines += ["", f"**{parName}.**  "] + el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
+            lines += ["", f"`{parName}.`  "] + el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
 
         case _:
             lines.append(f"**FIXME** {el.tag_name()}: {el.outer_html()}")
@@ -321,10 +318,10 @@ while blockIndex is not None and blockIndex < len(blocks):
 
     if blockIndex is None or blockIndex >= len(blocks):
         indexData[-1][-1].append([lineNum+2, "END-OF-DATA-SET"])
-        print("\n**END-OF-DATA-SET**", file=outFile)
+        print("\n`END-OF-DATA-SET`", file=outFile)
     else:
         indexData[-1][-1].append([lineNum+2, "END-OF-DATA-FILE"])
-        print("\n**END-OF-DATA-FILE**", file=outFile)
+        print("\n`END-OF-DATA-FILE`", file=outFile)
 
     if selectParagraph is None:
         outFile.close()
