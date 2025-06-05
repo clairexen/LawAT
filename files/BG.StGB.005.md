@@ -23,9 +23,12 @@ Eine Frau, die den Abbruch ihrer Schwangerschaft selbst vornimmt oder durch eine
 
 `§ 97 (1) StGB.`  
 Die Tat ist nach § 96 nicht strafbar,  
-`§ 97 (1) Z 1 StGB.` wenn der Schwangerschaftsabbruch innerhalb der ersten drei Monate nach Beginn der Schwangerschaft nach vorhergehender ärztlicher Beratung von einem Arzt vorgenommen wird; oder  
-`§ 97 (1) Z 2 StGB.` wenn der Schwangerschaftsabbruch zur Abwendung einer nicht anders abwendbaren ernsten Gefahr für das Leben oder eines schweren Schadens für die körperliche oder seelische Gesundheit der Schwangeren erforderlich ist oder eine ernste Gefahr besteht, daß das Kind geistig oder körperlich schwer geschädigt sein werde, oder die Schwangere zur Zeit der Schwängerung unmündig gewesen ist und in allen diesen Fällen der Abbruch von einem Arzt vorgenommen wird; oder  
-`§ 97 (1) Z 3 StGB.` wenn der Schwangerschaftsabbruch zur Rettung der Schwangeren aus einer unmittelbaren, nicht anders abwendbaren Lebensgefahr unter Umständen vorgenommen wird, unter denen ärztliche Hilfe nicht rechtzeitig zu erlangen ist.
+`§ 97 (1) Z 1 StGB.`
+wenn der Schwangerschaftsabbruch innerhalb der ersten drei Monate nach Beginn der Schwangerschaft nach vorhergehender ärztlicher Beratung von einem Arzt vorgenommen wird; oder  
+`§ 97 (1) Z 2 StGB.`
+wenn der Schwangerschaftsabbruch zur Abwendung einer nicht anders abwendbaren ernsten Gefahr für das Leben oder eines schweren Schadens für die körperliche oder seelische Gesundheit der Schwangeren erforderlich ist oder eine ernste Gefahr besteht, daß das Kind geistig oder körperlich schwer geschädigt sein werde, oder die Schwangere zur Zeit der Schwängerung unmündig gewesen ist und in allen diesen Fällen der Abbruch von einem Arzt vorgenommen wird; oder  
+`§ 97 (1) Z 3 StGB.`
+wenn der Schwangerschaftsabbruch zur Rettung der Schwangeren aus einer unmittelbaren, nicht anders abwendbaren Lebensgefahr unter Umständen vorgenommen wird, unter denen ärztliche Hilfe nicht rechtzeitig zu erlangen ist.
 
 `§ 97 (2) StGB.`  
 Kein Arzt ist verpflichtet, einen Schwangerschaftsabbruch durchzuführen oder an ihm mitzuwirken, es sei denn, daß der Abbruch ohne Aufschub notwendig ist, um die Schwangere aus einer unmittelbar drohenden, nicht anders abwendbaren Lebensgefahr zu retten. Dies gilt auch für die in gesetzlich geregelten Gesundheitsberufen tätigen Personen.
@@ -40,6 +43,7 @@ Wer ohne Einwilligung der Schwangeren deren Schwangerschaft abbricht, ist mit Fr
 
 `§ 98 (2) StGB.`  
 Der Täter ist nach Abs. 1 nicht zu bestrafen, wenn der Schwangerschaftsabbruch zur Rettung der Schwangeren aus einer unmittelbaren, nicht anders abwendbaren Lebensgefahr unter Umständen vorgenommen wird, unter denen die Einwilligung der Schwangeren nicht rechtzeitig zu erlangen ist.
+
 ## Dritter Abschnitt # Strafbare Handlungen gegen die Freiheit
 
 ### § 99 StGB # Freiheitsentziehung
@@ -53,12 +57,12 @@ Wer die Freiheitsentziehung länger als einen Monat aufrecht erhält oder sie au
 ### § 100 StGB # Entführung einer geisteskranken oder wehrlosen Person
 
 `§ 100 StGB.`  
- Wer eine geisteskranke oder wehrlose Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+Wer eine geisteskranke oder wehrlose Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 ### § 101 StGB # Entführung einer unmündigen Person
 
 `§ 101 StGB.`  
- Wer eine unmündige Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+Wer eine unmündige Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 ### § 102 StGB # Erpresserische Entführung
 
@@ -67,8 +71,10 @@ Wer einen anderen ohne dessen Einwilligung mit Gewalt oder nachdem er die Einwil
 
 `§ 102 (2) StGB.`  
 Ebenso ist zu bestrafen, wer  
-`§ 102 (2) Z 1 StGB.` in der im Abs. 1 genannten Absicht eine unmündige, geisteskranke oder wegen ihres Zustands zum Widerstand unfähige Person entführt oder sich ihrer sonst bemächtigt oder  
-`§ 102 (2) Z 2 StGB.` unter Ausnützung einer ohne Nötigungsabsicht vorgenommenen Entführung oder sonstigen Bemächtigung einer Person einen Dritten zu einer Handlung, Duldung oder Unterlassung nötigt.
+`§ 102 (2) Z 1 StGB.`
+in der im Abs. 1 genannten Absicht eine unmündige, geisteskranke oder wegen ihres Zustands zum Widerstand unfähige Person entführt oder sich ihrer sonst bemächtigt oder  
+`§ 102 (2) Z 2 StGB.`
+unter Ausnützung einer ohne Nötigungsabsicht vorgenommenen Entführung oder sonstigen Bemächtigung einer Person einen Dritten zu einer Handlung, Duldung oder Unterlassung nötigt.
 
 `§ 102 (3) StGB.`  
 Hat die Tat den Tod der Person zur Folge, die entführt worden ist oder deren sich der Täter sonst bemächtigt hat, so ist der Täter mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
@@ -121,9 +127,12 @@ Die Tat ist nicht rechtswidrig, wenn die Anwendung der Gewalt oder Drohung als M
 
 `§ 106 (1) StGB.`  
 Wer eine Nötigung begeht, indem er  
-`§ 106 (1) Z 1 StGB.` mit dem Tod, mit einer erheblichen Verstümmelung oder einer auffallenden Verunstaltung, mit einer Entführung, mit einer Brandstiftung, mit einer Gefährdung durch Kernenergie, ionisierende Strahlen oder Sprengmittel oder mit der Vernichtung der wirtschaftlichen Existenz oder gesellschaftlichen Stellung droht,  
-`§ 106 (1) Z 2 StGB.` die genötigte oder eine andere Person, gegen die sich die Gewalt oder gefährliche Drohung richtet, durch diese Mittel längere Zeit hindurch in einen qualvollen Zustand versetzt oder  
-`§ 106 (1) Z 3 StGB.` die genötigte Person zur Prostitution oder zur Mitwirkung an einer pornographischen Darbietung (§ 215a Abs. 3) oder sonst zu einer Handlung, Duldung oder Unterlassung veranlasst, die besonders wichtige Interessen der genötigten oder einer dritten Person verletzt,  
+`§ 106 (1) Z 1 StGB.`
+mit dem Tod, mit einer erheblichen Verstümmelung oder einer auffallenden Verunstaltung, mit einer Entführung, mit einer Brandstiftung, mit einer Gefährdung durch Kernenergie, ionisierende Strahlen oder Sprengmittel oder mit der Vernichtung der wirtschaftlichen Existenz oder gesellschaftlichen Stellung droht,  
+`§ 106 (1) Z 2 StGB.`
+die genötigte oder eine andere Person, gegen die sich die Gewalt oder gefährliche Drohung richtet, durch diese Mittel längere Zeit hindurch in einen qualvollen Zustand versetzt oder  
+`§ 106 (1) Z 3 StGB.`
+die genötigte Person zur Prostitution oder zur Mitwirkung an einer pornographischen Darbietung (§ 215a Abs. 3) oder sonst zu einer Handlung, Duldung oder Unterlassung veranlasst, die besonders wichtige Interessen der genötigten oder einer dritten Person verletzt,  
 ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 `§ 106 (2) StGB.`  
@@ -153,6 +162,7 @@ Wer eine gefährliche Drohung begeht, indem er mit dem Tod, mit einer erhebliche
 
 `§ 107 (3) StGB.`  
 In den im § 106 Abs. 2 genannten Fällen ist die dort vorgesehene Strafe zu verhängen.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.:Abs.&nbsp;4 aufgehoben durch <a href="/eli/bgbl/I/2006/56" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2006_I_56', 'BGBl. I Nr. 56/2006', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;56/2006</a>)</span></span></p>
 
 ### § 107a StGB # Beharrliche Verfolgung
 
@@ -161,11 +171,16 @@ Wer eine Person widerrechtlich beharrlich verfolgt (Abs. 2), ist mit Freiheitss
 
 `§ 107a (2) StGB.`  
 Beharrlich verfolgt eine Person, wer in einer Weise, die geeignet ist, sie in ihrer Lebensführung unzumutbar zu beeinträchtigen, eine längere Zeit hindurch fortgesetzt  
-`§ 107a (2) Z 1 StGB.` ihre räumliche Nähe aufsucht,  
-`§ 107a (2) Z 2 StGB.` im Wege einer Telekommunikation oder unter Verwendung eines sonstigen Kommunikationsmittels oder über Dritte Kontakt zu ihr herstellt,  
-`§ 107a (2) Z 3 StGB.` unter Verwendung ihrer personenbezogenen Daten Waren oder Dienstleistungen für sie bestellt,  
-`§ 107a (2) Z 4 StGB.` unter Verwendung ihrer personenbezogenen Daten Dritte veranlasst, mit ihr Kontakt aufzunehmen oder  
-`§ 107a (2) Z 5 StGB.` Tatsachen oder Bildaufnahmen des höchstpersönlichen Lebensbereiches dieser Person ohne deren Zustimmung veröffentlicht.
+`§ 107a (2) Z 1 StGB.`
+ihre räumliche Nähe aufsucht,  
+`§ 107a (2) Z 2 StGB.`
+im Wege einer Telekommunikation oder unter Verwendung eines sonstigen Kommunikationsmittels oder über Dritte Kontakt zu ihr herstellt,  
+`§ 107a (2) Z 3 StGB.`
+unter Verwendung ihrer personenbezogenen Daten Waren oder Dienstleistungen für sie bestellt,  
+`§ 107a (2) Z 4 StGB.`
+unter Verwendung ihrer personenbezogenen Daten Dritte veranlasst, mit ihr Kontakt aufzunehmen oder  
+`§ 107a (2) Z 5 StGB.`
+Tatsachen oder Bildaufnahmen des höchstpersönlichen Lebensbereiches dieser Person ohne deren Zustimmung veröffentlicht.
 
 `§ 107a (3) StGB.`  
 Übersteigt der Tatzeitraum nach Abs. 1 ein Jahr oder hat die Tat den Selbstmord oder einen Selbstmordversuch der im Sinn des Abs. 2 verfolgten Person zur Folge, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
@@ -183,9 +198,12 @@ Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer 
 
 `§ 107b (3a) StGB.`  
 Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer  
-`§ 107b (3a) Z 1 StGB.` die Tat gegen eine unmündige oder wegen Gebrechlichkeit, Krankheit oder einer geistigen Behinderung wehrlose Person begeht,  
-`§ 107b (3a) Z 2 StGB.` eine Tat nach Abs. 3 auf qualvolle Weise begeht oder  
-`§ 107b (3a) Z 3 StGB.` im Rahmen einer fortgesetzten Gewaltausübung nach Abs. 3 wiederholt Straftaten gegen die sexuelle Selbstbestimmung und Integrität begeht.
+`§ 107b (3a) Z 1 StGB.`
+die Tat gegen eine unmündige oder wegen Gebrechlichkeit, Krankheit oder einer geistigen Behinderung wehrlose Person begeht,  
+`§ 107b (3a) Z 2 StGB.`
+eine Tat nach Abs. 3 auf qualvolle Weise begeht oder  
+`§ 107b (3a) Z 3 StGB.`
+im Rahmen einer fortgesetzten Gewaltausübung nach Abs. 3 wiederholt Straftaten gegen die sexuelle Selbstbestimmung und Integrität begeht.
 
 `§ 107b (4) StGB.`  
 Hat eine Tat nach Abs. 3 oder Abs. 3a Z 1 eine Körperverletzung mit schweren Dauerfolgen (§ 85) zur Folge oder wird die Gewalt nach Abs. 3 oder Abs. 3a Z 1 länger als ein Jahr ausgeübt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod der verletzten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
@@ -197,8 +215,10 @@ Der Täter ist nicht nach den vorstehenden Bestimmungen zu bestrafen, wenn die T
 
 `§ 107c (1) StGB.`  
 Wer im Wege einer Telekommunikation oder unter Verwendung eines Computersystems in einer Weise, die geeignet ist, eine Person in ihrer Lebensführung unzumutbar zu beeinträchtigen,  
-`§ 107c (1) Z 1 StGB.` eine strafbare Handlung gegen die Ehre einer Person für eine größere Zahl von Menschen für eine längere Zeit wahrnehmbar begeht oder  
-`§ 107c (1) Z 2 StGB.` eine Tatsache oder Bildaufnahme des höchstpersönlichen Lebensbereiches einer Person ohne deren Zustimmung für eine größere Zahl von Menschen für eine längere Zeit wahrnehmbar macht,  
+`§ 107c (1) Z 1 StGB.`
+eine strafbare Handlung gegen die Ehre einer Person für eine größere Zahl von Menschen für eine längere Zeit wahrnehmbar begeht oder  
+`§ 107c (1) Z 2 StGB.`
+eine Tatsache oder Bildaufnahme des höchstpersönlichen Lebensbereiches einer Person ohne deren Zustimmung für eine größere Zahl von Menschen für eine längere Zeit wahrnehmbar macht,  
 ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 `§ 107c (2) StGB.`  
@@ -225,9 +245,12 @@ Der Täter ist nur mit Ermächtigung des in seinen Rechten Verletzten zu verfolg
 
 `§ 109 (3) StGB.`  
 Wer auf die im Abs. 1 geschilderte Weise in ein Haus, eine Wohnstätte, einen abgeschlossenen Raum, der zum öffentlichen Dienst bestimmt ist oder zur Ausübung eines Berufes oder Gewerbes dient, oder in einen unmittelbar zu einem Haus gehörenden umfriedeten Raum eindringt, wobei  
-`§ 109 (3) Z 1 StGB.` er gegen eine dort befindliche Person oder Sache Gewalt zu üben beabsichtigt,  
-`§ 109 (3) Z 2 StGB.` er oder mit seinem Wissen ein anderer Beteiligter (§ 12) eine Waffe oder ein anderes Mittel bei sich führt, um den Widerstand einer Person zu überwinden oder zu verhindern, oder  
-`§ 109 (3) Z 3 StGB.` das Eindringen mehrerer Personen erzwungen wird, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+`§ 109 (3) Z 1 StGB.`
+er gegen eine dort befindliche Person oder Sache Gewalt zu üben beabsichtigt,  
+`§ 109 (3) Z 2 StGB.`
+er oder mit seinem Wissen ein anderer Beteiligter (§ 12) eine Waffe oder ein anderes Mittel bei sich führt, um den Widerstand einer Person zu überwinden oder zu verhindern, oder  
+`§ 109 (3) Z 3 StGB.`
+das Eindringen mehrerer Personen erzwungen wird, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 ### § 110 StGB # Eigenmächtige Heilbehandlung
 

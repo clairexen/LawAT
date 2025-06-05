@@ -2,255 +2,202 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 2. Amtsverrichtungen des Vorsitzenden und des Schöffengerichts während der Hauptverhandlung
+## 1. Verfahren bei Nichtigkeitsbeschwerden
 
-### § 232 StPO.
+### § 284 StPO
 
-**§ 232 (1) StPO.**  
-Der Vorsitzende leitet die Verhandlung.
+`§ 284 (1) StPO.`  
+Die Nichtigkeitsbeschwerde ist binnen drei Tagen nach Verkündung des Urteiles beim Landesgericht anzumelden. War der Angeklagte bei der Verkündung des Urteiles nicht gegenwärtig (§ 234), so ist sie binnen drei Tagen anzumelden, nachdem er vom Urteile verständigt wurde (§ 269).
 
-**§ 232 (2) StPO.**  
-Er ist verpflichtet, die Ermittlung der Wahrheit zu fördern, und hat dafür zu sorgen, daß Erörterungen unterbleiben, die die Hauptverhandlung ohne Nutzen für die Aufklärung der Sache verzögern würden.
+`§ 284 (2) StPO.`  
+Für den gesetzlichen Vertreter des Angeklagten läuft die Frist zur Anmeldung der Nichtigkeitsbeschwerde von demselben Tage, von dem an sie für den Angeklagten beginnt.
 
-**§ 232 (3) StPO.**  
-Er vernimmt den Angeklagten und die Zeugen und bestimmt die Reihenfolge, in der die Personen zu sprechen haben, die das Wort verlangen.
+`§ 284 (3) StPO.`  
+Die Anmeldung der Nichtigkeitsbeschwerde hat aufschiebende Wirkung. Die Entlassung eines freigesprochenen Angeklagten aus der Haft darf nur wegen einer Nichtigkeitsbeschwerde des Staatsanwaltes, und zwar bloß dann aufgeschoben werden, wenn diese sogleich bei Verkündung des Urteiles angemeldet wird und nach den Umständen die Annahme begründet ist, daß sich der Angeklagte dem Verfahren durch die Flucht entziehen werde. Gegen die Entlassung aus der Haft ist kein Rechtsmittel zulässig.
 
-**§ 232 (4) StPO.**  
-Wenn mehrere Anklagepunkte vorliegen, kann er verfügen, daß über jeden oder über einzelne davon abgesondert zu verhandeln sei.
+`§ 284 (4) StPO.`  
+Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden.
 
-### § 233 StPO.
+### § 285 StPO
 
-**§ 233 (1) StPO.**  
-Dem Vorsitzenden liegt die Erhaltung der Ruhe und Ordnung und des der Würde des Gerichtes entsprechenden Anstandes im Gerichtssaal ob.
+`§ 285 (1) StPO.`  
+Der Beschwerdeführer hat das Recht, binnen vier Wochen nach der Anmeldung der Nichtigkeitsbeschwerde, wenn ihm eine Urteilsabschrift aber erst nach der Anmeldung des Rechtsmittels zugestellt wurde, binnen vier Wochen nach der Zustellung eine Ausführung seiner Beschwerdegründe beim Gericht in zweifacher Ausfertigung zu überreichen. Er muss entweder in dieser Schrift oder bei Anmeldung seiner Beschwerde die Nichtigkeitsgründe einzeln und bestimmt bezeichnen, widrigens auf seine Beschwerde vom Obersten Gerichtshofe keine Rücksicht zu nehmen ist.
 
-**§ 233 (2) StPO.**  
-Vor Gericht ist jedermann ein Sitz zu gestatten.
+`§ 285 (2) StPO.`  
+Im Falle extremen Umfangs des Verfahrens hat das Landesgericht die in Abs. 1 genannte Frist auf Antrag des Beschwerdeführers um den Zeitraum zu verlängern, der – insbesondere im Hinblick auf eine ganz außergewöhnliche Dauer der Hauptverhandlung, einen solchen Umfang des Hauptverhandlungsprotokolls, des übrigen Akteninhalts und der Urteilsausfertigung – erforderlich ist, um eine ausreichende Vorbereitung der Verteidigung (Art. 6 Abs. 3 lit. b der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, und Art. 2 des 7. Zusatzprotokolls, BGBl. Nr. 628/1988) oder der Verfolgung der Anklage zu gewährleisten.
 
-**§ 233 (3) StPO.**  
-Zeichen des Beifalles oder der Mißbilligung sind untersagt. Der Vorsitzende ist berechtigt, Personen, die die Sitzung durch solche Zeichen oder auf eine andere Weise stören, zur Ordnung zu ermahnen und nötigenfalls einzelne oder alle Zuhörer aus dem Sitzungssaal entfernen zu lassen. Widersetzt sich jemand oder werden die Störungen wiederholt, so kann der Vorsitzende über die Widersetzlichen eine Ordnungsstrafe bis zu 1 000 Euro, wenn es aber zur Aufrechterhaltung der Ordnung unerläßlich ist, eine Freiheitsstrafe bis zu acht Tagen verhängen.
+`§ 285 (3) StPO.`  
+Ein Antrag nach Abs. 2 ist beim Landesgericht innerhalb der zur Ausführung der Beschwerde ansonsten zur Verfügung stehenden Frist schriftlich einzubringen. Über den Antrag entscheidet der Vorsitzende nach Maßgabe der in Abs. 2 genannten Kriterien und unter Bedachtnahme auf das Erfordernis einer angemessenen Dauer des Verfahrens (Art. 6 Abs. 1 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958); gegen seinen Beschluss steht eine Beschwerde nicht zu. Die Zeit von der Antragstellung bis zur Bekanntmachung des Beschlusses wird in die Frist zur Ausführung der Gründe der Nichtigkeitsbeschwerde nicht eingerechnet; diese beginnt jedenfalls nicht zu laufen, ehe der Beschluss über den Antrag bekannt gemacht ist.
 
-### § 234 StPO.
+`§ 285 (4) StPO.`  
+Hat der Beschwerdeführer eine Beschwerdeschrift eingebracht, so ist sie seinem Gegner mit der Belehrung zuzustellen, dass er binnen vier Wochen seine Gegenausführung überreichen könne. Diese Frist kann unter sinngemäßer Anwendung der Abs. 2 und 3 verlängert werden.
 
-**§ 234 StPO.**  
- Wenn der Angeklagte die Ordnung der Verhandlung durch ungeziemendes Benehmen stört und ungeachtet der Ermahnung des Vorsitzenden und der Androhung, daß er aus der Sitzung werde entfernt werden, nicht davon absteht, so kann er durch Beschluß des Schöffengerichts auf einige Zeit oder für die ganze Dauer der Verhandlung aus dieser entfernt, die Sitzung in seiner Abwesenheit fortgesetzt und ihm das Urteil durch ein Mitglied des Schöffengerichts in Gegenwart des Schriftführers verkündet werden.
+`§ 285 (5) StPO.`  
+Die Gegenausführung ist dem Beschwerdeführer zuzustellen. Danach sind alle Akten an den Obersten Gerichtshof zu senden, der darüber zu entscheiden hat.
 
-### § 235 StPO.
+### § 285a StPO
 
-**§ 235 StPO.**  
- Der Vorsitzende hat darüber zu wachen, daß gegen niemand Beschimpfungen oder offenbar ungegründete oder zur Sache nicht gehörige Beschuldigungen vorgebracht werden. Haben sich Angeklagte, Privatankläger, Privatbeteiligte, Opfer, Haftungsbeteiligte, Zeugen oder Sachverständige solche Äußerungen erlaubt, so kann das Schöffengericht gegen sie auf Antrag des Betroffenen oder der Staatsanwaltschaft oder von Amts wegen gemäß §§ 233 Abs. 3 und 234 vorgehen. Gegebenenfalls ist der Betroffene über seine Rechte zu belehren.
+`§ 285a StPO.`  
+Das Landesgericht, bei dem eine gegen ein Endurteil gerichtete Nichtigkeitsbeschwerde angemeldet wird, hat diese zurückzuweisen:  
+`§ 285a Z 1 StPO.`
+wenn sie zu spät angemeldet oder wenn sie von einer Person eingebracht wurde, der die Nichtigkeitsbeschwerde nicht zukommt oder die auf sie verzichtet hat;  
+`§ 285a Z 2 StPO.`
+wenn nicht bei der Anmeldung der Nichtigkeitsbeschwerde oder in ihrer Ausführung einer der im § 281 Abs. 1 Z 1 bis 11 oder im § 281a angegebenen Nichtigkeitsgründe deutlich und bestimmt bezeichnet, insbesondere wenn der Tatumstand, der den Nichtigkeitsgrund bilden soll, nicht ausdrücklich oder doch durch deutliche Hinweisung angeführt ist;  
+`§ 285a Z 3 StPO.`
+wenn die unter Z 2 geforderte Angabe, soweit es sich nicht um eine von der Staatsanwaltschaft erhobene Nichtigkeitsbeschwerde handelt, nicht entweder zu Protokoll oder in einer Eingabe gemacht wird, die von einem Verteidiger (§ 48 Abs. 1 Z 4) unterschrieben ist. Besteht der Mangel lediglich im Fehlen der Unterschrift eines berechtigten Verteidigers, so ist die Eingabe vorerst zur Behebung dieses Mangels und Wiedervorlage binnen vierzehn Tagen zurückzustellen.
 
-### § 236 StPO.
+### § 285b StPO
 
-**§ 236 (1) StPO.**  
-Macht sich ein Verteidiger (§ 48 Abs. 1 Z 5) oder ein Vertreter (§ 73), der nicht der Disziplinargewalt einer Standesbehörde unterliegt, eines solchen Verhaltens schuldig oder verletzt er die dem Gerichte gebührende Achtung, so kann er vom Schöffengericht mit einem Verweis oder einer Geldstrafe bis zum Betrage von 1 000 Euro belegt werden.
+`§ 285b (1) StPO.`  
+Der im § 285a erwähnte Beschluß ist vom Vorsitzenden zu fassen, und zwar in den im § 285a unter Z. 2 und 3 erwähnten Fällen nicht früher, als die Ausführung der Nichtigkeitsbeschwerde überreicht oder die hiezu bestimmte Frist abgelaufen ist.
 
-**§ 236 (2) StPO.**  
-Setzt ein solcher Vertreter sein ungebührliches Benehmen fort, so kann ihm der Vorsitzende das Wort entziehen und den Beteiligten zur Wahl eines anderen Vertreters auffordern. Kommt der Angeklagte einer solchen Aufforderung nicht nach, so kann ihm auch von Amts wegen ein Verteidiger beigegeben werden.
+`§ 285b (2) StPO.`  
+Gegen den Beschluß steht die Beschwerde an den Obersten Gerichtshof offen; sie ist binnen vierzehn Tagen nach Bekanntmachung des Beschlusses beim Landesgericht einzubringen und von diesem binnen weiteren drei Tagen an den Obersten Gerichtshof einzusenden.
 
-**§ 236 (3) StPO.**  
-Bei erschwerenden Umständen kann das Oberlandesgericht auf Antrag der Staatsanwaltschaft dem schuldigen Vertreter auch die Befugnis, als Vertreter in Strafsachen vor Gericht zu erscheinen, für die Dauer von einem bis zu sechs Monaten entziehen.
+`§ 285b (3) StPO.`  
+Diese Beschwerde hat keine aufschiebende Wirkung.
 
-### § 236a StPO.
+`§ 285b (4) StPO.`  
+Der Oberste Gerichtshof entscheidet über die Beschwerde in nichtöffentlicher Sitzung nach Anhörung des Generalprokurators.
 
-**§ 236a StPO.**  
- Macht sich ein Vertreter eines Beteiligten des Verfahrens, der der Disziplinargewalt einer Standesbehörde unterliegt, des im § 235 umschriebenen Verhaltens schuldig oder verletzt er die dem Gerichte gebührende Achtung, so kann der Vorsitzende nach Abmahnung die im § 236 Abs. 2 vorgesehenen Maßnahmen treffen.
+`§ 285b (5) StPO.`  
+Gibt der Oberste Gerichtshof der Beschwerde Folge, so läuft im Falle des § 285a Z. 1 die Frist zur Ausführung der Nichtigkeitsbeschwerde, sofern diese nicht schon erstattet ist, vom Tage der Bekanntmachung der Entscheidung des Obersten Gerichtshofes; dem Beschwerdeführer ist gleichzeitig mit dieser Bekanntmachung, wenn es nicht bereits geschehen ist, eine Ausfertigung des Urteiles zuzustellen; im übrigen ist nach § 285 vorzugehen.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;6 aufgehoben durch <a href="/Dokumente/BgblPdf/1987_605_0/1987_605_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1987_605_0', 'BGBl. Nr. 605/1987', '2025-06-05')">BGBl. Nr.&nbsp;605/1987</a>)</span></span></p>
 
-### § 237 StPO.
+### § 285c StPO
 
-**§ 237 (1) StPO.**  
-Die auf Grund der §§ 233 bis 235 und 236 Abs. 1 und 2 ergehenden Beschlüsse sind sofort zu vollstrecken.
+`§ 285c (1) StPO.`  
+Der Oberste Gerichtshof hat über die nach § 285 Abs. 5 an ihn gelangte Nichtigkeitsbeschwerde nur dann zuerst in nichtöffentlicher Sitzung nach Anhörung des Generalprokurators zu beraten, wenn der Generalprokurator oder der Berichterstatter einen der in den §§ 285d, 285e und 285f bezeichneten Beschlüsse beantragt.
 
-**§ 237 (2) StPO.**  
-Eine in den vorstehenden Bestimmungen vorgesehene Ordnungsstrafe ist nicht zu verhängen, soweit das Verhalten den Tatbestand einer gerichtlich strafbaren Handlung erfüllt (§§ 278 und 279), es sei denn, dass einer der in § 71 Abs. 2 zweiter Satz oder § 92 Abs. 1 zweiter Satz erwähnten Umstände eintritt.
+`§ 285c (2) StPO.`  
+Außerdem wird der Gerichtstag zur öffentlichen Verhandlung der Sache unter Beobachtung der hiefür im § 286 erteilten Vorschrift angeordnet, ohne daß es hiezu eines Beschlusses des Obersten Gerichtshofes bedarf.
 
-**§ 237 (3) StPO.**  
-(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+### § 285d StPO
 
-### § 238 StPO.
+`§ 285d (1) StPO.`  
+Bei der nichtöffentlichen Beratung kann die Nichtigkeitsbeschwerde sofort zurückgewiesen werden:  
+`§ 285d (1) Z 1 StPO.`
+wenn sie schon gemäß § 285a hätte zurückgewiesen werden sollen oder wenn der geltend gemachte Nichtigkeitsgrund bereits durch eine in derselben Sache ergangene Entscheidung des Obersten Gerichtshofes beseitigt ist;  
+`§ 285d (1) Z 2 StPO.`
+wenn die Nichtigkeitsbeschwerde sich auf die im § 281 Abs. 1 Z. 1 bis 8 und 11 oder im § 281a angegebenen Nichtigkeitsgründe stützt und der Oberste Gerichtshof einstimmig erachtet, daß die Beschwerde, ohne daß es einer weiteren Erörterung bedarf, als offenbar unbegründet zu verwerfen sei.
 
-**§ 238 (1) StPO.**  
-Über Beweisanträge (§ 55 Abs. 1 und 2), die in der Hauptverhandlung gestellt werden, entscheidet das Schöffengericht mit Beschluss (§ 40 Abs. 2 und § 116 Abs. 4 Geo), soweit ihnen der Vorsitzende (§ 254) nicht Folge zu geben gedenkt.
+`§ 285d (2) StPO.`  
+Der vorstehende Beschluß kann bei der nichtöffentlichen Beratung auch dann ergehen, wenn wegen anderer Nichtigkeitsgründe oder weil der Oberste Gerichtshof sich die Ausübung der ihm nach § 290 Abs. 1 zustehenden Befugnis vorbehalten will, ein Gerichtstag zur öffentlichen Verhandlung anzuberaumen ist.
 
-**§ 238 (2) StPO.**  
-Nach Abs. 1 ist auch vorzugehen, wenn von den Beteiligten des Verfahrens in der Hauptverhandlung sonst gegensätzliche Anträge gestellt werden oder der Vorsitzende einem unbestrittenen Antrag eines Beteiligten nicht Folge zu geben gedenkt.
+### § 285e StPO
 
-**§ 238 (3) StPO.**  
-Der Beschluss ist samt seinen Entscheidungsgründen sofort, jedenfalls jedoch vor Schluss der Verhandlung mündlich zu verkünden. Den Beteiligten steht ein selbständiges, die weitere Verhandlung hemmendes Rechtsmittel gegen ihn nicht zu (§ 86 Abs. 3).
-## 3. Beginn der Hauptverhandlung
+`§ 285e StPO.`  
+Bei der nichtöffentlichen Beratung über eine zum Vorteile des Angeklagten ergriffene Nichtigkeitsbeschwerde kann dieser,, sofort Folge gegeben werden, wenn sich zeigt, daß die Anordnung einer neuen Hauptverhandlung nicht zu vermeiden ist, eine Entscheidung des Obersten Gerichtshofes in der Sache selbst aber noch nicht einzutreten hat. Gleiches gilt, wenn nach dem 11. Hauptstück oder § 37 SMG vorzugehen sein wird.
 
-### § 239 StPO.
+### § 285f StPO
 
-**§ 239 StPO.**  
- Die Hauptverhandlung beginnt mit dem Aufruf der Sache. Der Angeklagte erscheint ungefesselt, jedoch, wenn er in Untersuchungshaft ist, in Begleitung einer Wache. In den in § 174 Abs. 1 geregelten Fällen kann bei Angeklagten, die in Untersuchungshaft angehalten werden, gemäß § 153 Abs. 4 vorgegangen werden. Die zur Beweisführung etwa erforderlichen Gegenstände, die dem Angeklagten oder den Zeugen zur Anerkennung vorzulegen sind, müssen vor dem Beginn der Verhandlung in den Gerichtssaal gebracht werden.
+`§ 285f StPO.`  
+Bei der nichtöffentlichen Beratung kann ferner die Einholung tatsächlicher Aufklärungen über behauptete Formverletzungen oder Verfahrensmängel angeordnet werden.
 
-### § 240 StPO.
+### § 285g StPO
 
-**§ 240 StPO.**  
- Der Vorsitzende befragt hierauf den Angeklagten um seinen Vor- und Familiennamen sowie alle früher geführten Namen, Tag und Ort seiner Geburt, seine Staatsangehörigkeit, die Vornamen seiner Eltern, seinen Beruf, seine Anschrift und erforderlichenfalls über andere persönliche Verhältnisse und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung.
+`§ 285g StPO.`  
+Den im § 285d erwähnten Beschluß kann der Oberste Gerichtshof auch bei der Beratung über eine auf Grund des § 285b an ihn gelangte Beschwerde fassen, wenn die Ausführung der Nichtigkeitsbeschwerde überreicht oder die Frist hiezu verstrichen ist.
 
-### § 240a StPO.
+### § 285h StPO
 
-**§ 240a (1) StPO.**  
-Nach der Ermahnung des Angeklagten sind die Schöffen, die in demselben Jahre noch nicht beeidigt worden sind, bei sonstiger Nichtigkeit zu beeidigen. Die Schöffen erheben sich von den Sitzen und der Vorsitzende richtet an sie folgende Anrede:
+`§ 285h StPO.`  
+Die Bestimmungen der §§ 285c bis 285g sind auch auf Nichtigkeitsbeschwerden nach § 281a anzuwenden.
 
-**§ 240a (2) StPO.**  
-Sodann wird jeder Schöffe einzeln vom Vorsitzenden aufgerufen und antwortet: „Ich schwöre, so wahr mir Gott helfe.“ Das Religionsbekenntnis der Schöffen macht hiebei keinen Unterschied. Nur solche, die keinem Religionsbekenntnis angehören oder deren Bekenntnis die Eidesleistung untersagt, werden durch Handschlag verpflichtet.
+### § 285i StPO
 
-**§ 240a (3) StPO.**  
-Die Beeidigung gilt für die Dauer des Kalenderjahres; sie ist im Verhandlungsprotokoll und fortlaufend in einem besonderen Buche zu beurkunden.
+`§ 285i StPO.`  
+Weist der Oberste Gerichtshof in nichtöffentlicher Sitzung die Nichtigkeitsbeschwerde oder die Beschwerde gegen deren Zurückweisung durch das Landesgericht zurück und war mit der Nichtigkeitsbeschwerde die Berufung verbunden, so entscheidet über diese das Oberlandesgericht. Dasselbe gilt, wenn der Nichtigkeitsbeschwerde eines Angeklagten sofort Folge gegeben wird (§ 285e) und der Oberste Gerichtshof nur noch über die Berufung in Ansehung eines anderen Angeklagten zu entscheiden hätte.
 
-### § 241 StPO.
+### § 285j StPO
 
-**§ 241 (1) StPO.**  
-Hierauf werden die Zeugen und Sachverständigen aufgerufen, soweit sie nicht erst für einen späteren Zeitpunkt vorgeladen worden sind; der Vorsitzende teilt ihnen mit, wo sie sich bis zu ihrer Vernehmung aufhalten können und zu welchem Zeitpunkt sie sich für die Vernehmung bereitzuhalten haben. Der Vorsitzende hat die nach den Umständen erforderlichen Vorkehrungen zu veranlassen, um Verabredungen und Besprechungen der Zeugen zu verhindern.
+`§ 285j StPO.`  
+Im Fall einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs. 5 erster Satz oder 62a Abs. 5 erster Satz VfGG hat das Landesgericht nach § 285a vorzugehen und eine Ausfertigung seines Beschlusses oder eines nach § 285b gefassten Beschlusses dem Verfassungsgerichtshof zu übermitteln und im Fall einer verbundenen Berufung die Verständigung des Verfassungsgerichtshofes dem Oberlandesgericht vorzulegen oder mitzuteilen, dass kein Grund für ein Vorgehen nach § 285a vorliegt.
 
-**§ 241 (2) StPO.**  
-Bei den Sachverständigen kann der Vorsitzende in allen Fällen, in denen er es für die Erforschung der Wahrheit zweckdienlich findet, verfügen, daß sie sowohl während der Vernehmung des Angeklagten als auch der Zeugen im Sitzungssaale bleiben.
+### § 286 StPO
 
-### § 242 StPO.
+`§ 286 (1) StPO.`  
+Vom Termin des Gerichtstags zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde sind die Beteiligten des Verfahrens zu verständigen. Der Angeklagte, sein Verteidiger sowie der allenfalls einschreitende Privatbeteiligte oder Privatankläger sind so rechtzeitig zu laden, dass ihnen eine Vorbereitungszeit von acht Tagen verbleibt. In der Ladung sind sie darauf aufmerksam zu machen, dass im Fall ihres Ausbleibens ihre Ausführungen und Beschwerden vorgetragen und der Entscheidung zu Grunde gelegt werden würden.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;1a aufgehoben durch Art.&nbsp;1 Z&nbsp;66, <a href="/eli/bgbl/I/2024/157" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2024_I_157', 'BGBl. I Nr. 157/2024', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;157/2024</a>)</span></span></p>
 
-**§ 242 (1) StPO.**  
-Wenn Zeugen oder Sachverständige, der an sie ergangenen Vorladung ungeachtet, bei der Hauptverhandlung nicht erscheinen, so kann der Vorsitzende deren unverzügliche Vorführung anordnen.
+`§ 286 (2) StPO.`  
+Ist der Angeklagte verhaftet, so ist dessen Vorführung zum Gerichtstag zu veranlassen, es sei denn, dieser hat durch seinen Verteidiger ausdrücklich darauf verzichtet. In den in § 174 Abs. 1 zweiter Satz geregelten Fällen kann gemäß § 153 Abs. 4 vorgegangen werden.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs. 3 aufgehoben durch <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a>)</span></span></p>
 
-**§ 242 (2) StPO.**  
-Ist die unverzügliche Vorführung nicht möglich, so ist über eine allfällige Verlesung der im Ermittlungsverfahren abgelegten Aussagen gemäß § 252 zu entscheiden oder aber die Hauptverhandlung zu vertagen.
+`§ 286 (4) StPO.`  
+Hat er noch keinen Verteidiger, so ist ihm von Amts wegen ein Rechtsanwalt als Verteidiger beizugeben (§ 61 Abs. 3). Liegen die Voraussetzungen des § 61 Abs. 2 vor, so ist dem Angeklagten nach dieser Gesetzesstelle ein Rechtsanwalt als Verteidiger beizugeben.
 
-**§ 242 (3) StPO.**  
-Über den Ausgebliebenen ist mit Beschluss des Vorsitzenden eine Geldstrafe bis zu 1 000 Euro zu verhängen. Musste die Hauptverhandlung vertagt werden, so ist der Ausgebliebene überdies in diesem Beschluss zum Ersatz der durch sein Ausbleiben verursachten Kosten zu verpflichten. Soweit dies erforderlich ist, um Anwesenheit des Ausgebliebenen beim neuen Termin sicherzustellen, hat der Vorsitzende dessen Vorführung anzuordnen (§ 210 Abs. 3).
+### § 287 StPO
 
-### § 243 StPO.
+`§ 287 (1) StPO.`  
+Die Verhandlung der Sache vor dem Obersten Gerichtshof am angesetzten Gerichtstag ist öffentlich nach den Vorschriften der §§ 228 bis 230a. Die §§ 233 bis 237 gelten sinngemäß.
 
-**§ 243 (1) StPO.**  
-Eine Beschwerde gegen einen Beschluss gemäß § 242 Abs. 3 ist beim erkennenden Schöffengericht einzubringen; ihr kommt aufschiebende Wirkung zu.
+`§ 287 (2) StPO.`  
+Zuerst trägt der Berichterstatter eine Darstellung des bisherigen Ganges des Strafverfahrens vor und bezeichnet die vom Beschwerdeführer aufgestellten Nichtigkeitsgründe und die sich daraus ergebenden Streitpunkte, ohne eine Ansicht über die zu fällende Entscheidung zu äußern.
 
-**§ 243 (2) StPO.**  
-Der Vorsitzende hat die verhängte Strafe nachzusehen, wenn der Zeuge oder Sachverständige bescheinigt, dass ihm die Ladung zur Hauptverhandlung nicht ordnungsgemäß zugestellt worden ist oder dass ihn ein unvorhergesehenes und unabwendbares Hindernis von der Teilnahme an der Hauptverhandlung abgehalten hat. Der Vorsitzende kann auch eine Milderung aussprechen, wenn die Bescheinigung erbracht wird, dass die Strafe oder der Kostenersatz zur Schuld oder den Folgen des Ausbleibens unverhältnismäßig wäre.
+`§ 287 (3) StPO.`  
+Hierauf erhält der Beschwerdeführer das Wort zur Begründung seiner Beschwerde und sodann sein Gegner zur Erwiderung. Dem Angeklagten oder seinem Verteidiger gebührt jedenfalls das Recht der letzten Äußerung. Ist ein Teil nicht erschienen, so wird dessen Beschwerdeschrift oder Gegenausführung vorgelesen. Hierauf zieht sich der Gerichtshof in sein Beratungszimmer zurück.
 
-**§ 243 (3) StPO.**  
-Wird der Beschwerde nicht durch eine im Abs. 2 erwähnten Maßnahme zur Gänze entsprochen, so hat sie der Vorsitzende dem Oberlandesgericht zur Entscheidung vorzulegen (§ 89). Im Übrigen ist gegen einen Beschluss gemäß Abs. 2 kein Rechtsmittel zulässig.
+### § 288 StPO
 
-### § 244 StPO.
+`§ 288 (1) StPO.`  
+Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde unbegründet, so hat er sie zu verwerfen.
 
-**§ 244 (1) StPO.**  
-Nachdem die Zeugen abgetreten sind, erteilt der Vorsitzende dem Ankläger das Wort zum Vortrag der Anklage. Im Vortrag sind alle Anklagepunkte anzuführen und so weit zu begründen, wie dies zum Verständnis der Anklage erforderlich erscheint. Bei mehreren Angeklagten ist hiebei auf jeden einzelnen von ihnen Bezug zu nehmen. Falls ein Beschluss des Oberlandesgerichts vorliegt, nach dem ein Anklagepunkt zu entfallen hat, ist auch dieser zu berücksichtigen.
+`§ 288 (2) StPO.`  
+Ist die Nichtigkeitsbeschwerde begründet, so ist das Urteil, soweit es angefochten und durch den Nichtigkeitsgrund berührt ist, aufzuheben und nach Verschiedenheit der Nichtigkeitsgründe gemäß den folgenden Vorschriften zu erkennen und weiter zu verfahren:  
+`§ 288 (2) Z 1 StPO.`
+Liegt einer der im § 281 Abs. 1 unter Z. 1 bis 5a angeführten Nichtigkeitsgründe vor, so ordnet der Oberste Gerichtshof eine neue Hauptverhandlung an und verweist die Sache nach seinem Ermessen entweder an dasselbe oder an ein anderes Landesgericht.  
+`§ 288 (2) Z 2 StPO.`
+Hat das Schöffengericht mit Unrecht seine Unzuständigkeit ausgesprochen oder die Anklage nicht erledigt (§ 281 Abs. 1 Z. 6 und 7), so trägt ihm der Oberste Gerichtshof auf, sich der Verhandlung und Urteilsfällung zu unterziehen, die sich im Falle der Z. 7 auf die unerledigt gebliebenen Anklagepunkte zu beschränken hat.  
+`§ 288 (2) Z 2a StPO.`
+Hat das Schöffengericht das Vorliegen der Voraussetzungen einer Einstellung des Verfahrens nach dem 11. Hauptstück oder § 37 SMG zu Unrecht nicht angenommen, so verweist der Oberste Gerichtshof die Sache an dasselbe oder an ein anderes Landesgericht, erforderlichenfalls auch an das zuständige Bezirksgericht, mit dem Auftrag, nach den Bestimmungen dieses Hauptstückes vorzugehen.  
+`§ 288 (2) Z 3 StPO.`
+In allen anderen Fällen erkennt der Oberste Gerichtshof in der Sache selbst, indem er seiner Entscheidung die Tatsachen zugrunde legt, die das Schöffengericht ohne Überschreitung der Anklage (§ 281 Abs. 1 Z. 8) festgestellt hat. Findet der Oberste Gerichtshof jedoch im Urteil und dessen Entscheidungsgründen die Tatsachen nicht festgestellt, die bei richtiger Anwendung des Gesetzes dem Erkenntnisse zugrunde zu legen wären, so verweist er die Sache zu neuer Verhandlung und Entscheidung an dasselbe oder an ein anderes Landesgericht, geeignetenfalls auch an das zuständige Bezirksgericht.
 
-**§ 244 (2) StPO.**  
-Nach dem Vortrag der Anklage hat sich der Vorsitzende zu vergewissern, daß der Angeklagte von Gegenstand und Umfang der Anklage ausreichend in Kenntnis gesetzt ist.
+### § 288a StPO
 
-**§ 244 (3) StPO.**  
-Der Verteidiger hat das Recht, auf den Vortrag der Anklage mit einer Gegenäußerung zu erwidern.
-## 4. Vernehmung des Angeklagten
+`§ 288a StPO.`  
+Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde nach § 281a gegründet, so vernichtet er die Hauptverhandlung, verweist die Sache zur nochmaligen Verhandlung vor das zuständige Landesgericht und verfügt die sonst nötige Verbesserung des Verfahrens.
 
-### § 245 StPO.
+### § 289 StPO
 
-**§ 245 (1) StPO.**  
-Hierauf wird der Angeklagte vom Vorsitzenden über den Inhalt der Anklage vernommen. Beantwortet der Angeklagte die Anklage mit der Erklärung, er sei nicht schuldig, so hat ihm der Vorsitzende zu eröffnen, daß er berechtigt sei, der Anklage eine zusammenhängende Erklärung des Sachverhaltes entgegenzustellen und nach Anführung jedes einzelnen Beweismittels seine Bemerkungen darüber vorzubringen. Weicht der Angeklagte von seinen früheren Aussagen ab, so ist er um die Gründe dieser Abweichung zu befragen. Der Vorsitzende kann in diesem Falle sowie dann, wenn der Angeklagte eine Antwort verweigert, das über die früheren Aussagen aufgenommene Protokoll ganz oder teilweise vorlesen sowie technische Aufnahmen über die Vernehmung des Beschuldigten (§ 172 Abs. 1) vorführen lassen.
+`§ 289 StPO.`  
+War die Nichtigkeitsbeschwerde nur gegen einzelne im Urteil enthaltene Verfügungen gerichtet und findet der Oberste Gerichtshof, daß diese vom Inhalte des ganzen Urteiles trennbar seien, so steht ihm auch frei, das angefochtene Urteil nur teilweise aufzuheben. Eben dies ist der Fall, wenn dem angefochtenen Urteile mehrere strafbare Handlungen zugrunde liegen und die Nichtigkeitsbeschwerde sich nur auf das Verfahren oder die Beurteilung hinsichtlich einzelner von ihnen beschränkt, zugleich aber die erforderliche teilweise Wiederholung des Verfahrens oder auch ohne diese ein neuer Ausspruch hinsichtlich dieser einzelnen strafbaren Handlung ausführbar erscheint.
 
-**§ 245 (1a) StPO.**  
-Der Angeklagte ist auch über die gegen ihn erhobenen privatrechtlichen Ansprüche (§§ 67 Abs. 1 und 1 Abs. 3) zu vernehmen und zur Erklärung aufzufordern, ob und in welchem Umfang er diese anerkennt (§ 69 Abs. 2).
+### § 290 StPO
 
-**§ 245 (2) StPO.**  
-Für die Vernehmung des Angeklagten gilt § 164 Abs. 4.
+`§ 290 (1) StPO.`  
+Der Oberste Gerichtshof hat sich auf die vom Beschwerdeführer ausdrücklich oder doch durch deutliche Hinweisung geltend gemachten Nichtigkeitsgründe zu beschränken. Überzeugt er sich jedoch aus Anlaß einer von wem immer ergriffenen Nichtigkeitsbeschwerde, daß zum Nachteile des Angeklagten das Strafgesetz unrichtig angewendet worden sei (§ 281 Abs. 1 Z. 9 bis 11) oder daß dieselben Gründe, auf denen seine Verfügung zugunsten eines Angeklagten beruht, auch einem Mitangeklagten zustatten kommen, der die Nichtigkeitsbeschwerde nicht ergriffen hat, so hat er von Amts wegen so vorzugehen, als wäre der in Frage kommende Nichtigkeitsgrund geltend gemacht worden. Ist der im § 281 Abs. 1 Z. 11 angeführte Nichtigkeitsgrund geltend gemacht worden, so ist so vorzugehen, als wäre auch die Berufung ergriffen worden.
 
-**§ 245 (3) StPO.**  
-Der Angeklagte darf sich während der Hauptverhandlung mit seinem Verteidiger besprechen, jedoch nicht über die Beantwortung einzelner Fragen beraten.
-## 5. Beweisverfahren
+`§ 290 (2) StPO.`  
+Ist die Nichtigkeitsbeschwerde lediglich zugunsten des Angeklagten ergriffen worden, so kann der Oberste Gerichtshof keine strengere Strafe über den Angeklagten verhängen, als das angefochtene Urteil ausgesprochen hatte.
 
-### § 246 StPO.
+### § 291 StPO
 
-**§ 246 (1) StPO.**  
-Nach der Vernehmung des Angeklagten sind die Beweise in der vom Vorsitzenden bestimmten Ordnung vorzuführen und in der Regel die vom Ankläger vorgebrachten Beweise zuerst aufzunehmen.
+`§ 291 StPO.`  
+Das Urteil des Obersten Gerichshofes ist, nachdem sich dieser in den Gerichtssaal zurückbegeben hat, samt den Entscheidungsgründen mündlich zu verkünden; hat der Angeklagte der Verhandlung beim Obersten Gerichtshofe nicht beigewohnt, so ist ihm ohne Verzug eine amtlich beglaubigte Abschrift des Urteiles durch das Landesgericht zuzustellen. Für die Ausfertigung des Urteiles und die Führung des Protokolls bei den Verhandlungen des Obersten Gerichtshofes sind die in den §§ 260, 268 bis 271 enthaltenen Vorschriften zu beobachten.
 
-**§ 246 (2) StPO.**  
-Der Ankläger und der Angeklagte können im Laufe der Hauptverhandlung Beweismittel fallen lassen, jedoch nur, wenn der Gegner zustimmt.
+### § 292 StPO
 
-### § 247 StPO.
+`§ 292 StPO.`  
+Das Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsbeschwerde richtet sich im allgemeinen nach den in den §§ 286 Abs. 1 bis 3 und 287 bis 291 enthaltenen Vorschriften. Dem Angeklagten (Verurteilten) oder seinem Verteidiger ist eine Gleichschrift der Nichtigkeitsbeschwerde mit dem Bedeuten mitzuteilen, daß er sich binnen einer festzusetzenden angemessenen Frist hiezu äußern könne; vom Gerichtstag ist er mit der Bemerkung in Kenntnis zu setzen, daß es ihm freistehe zu erscheinen. Ist der Aufenthaltsort des Angeklagten nicht bekannt und ohne besonderen Verfahrensaufwand nicht feststellbar, so kann die Zustellung an ihn unterbleiben. Das gleiche gilt für den Privatbeteiligten, sofern der Ausspruch über die privatrechtlichen Ansprüche von der Nichtigkeitsbeschwerde betroffen ist, und für die sonst Beteiligten, sofern ihre Rechte betroffen sind. Findet der Oberste Gerichtshof die zur Wahrung des Gesetzes erhobene Beschwerde gegründet, so hat er zu erkennen, daß in der fraglichen Strafsache durch den angefochtenen Beschluß oder Vorgang, durch das gepflogene Verfahren oder durch das erlassene Urteil das Gesetz verletzt worden sei. Dieser Ausspruch ist in der Regel ohne Wirkung auf den Angeklagten. Ist jedoch der Angeklagte durch ein solches nichtiges Urteil zu einer Strafe verurteilt worden, so steht es dem Obersten Gerichtshofe frei, nach seinem Ermessen entweder den Angeklagten freizusprechen oder einen milderen Strafsatz anzuwenden oder nach Umständen eine Erneuerung des gegen diesen gepflogenen Verfahrens anzuordnen.
 
-**§ 247 StPO.**  
- Zeugen und Sachverständige werden einzeln aufgerufen und in Anwesenheit der Beteiligten des Verfahrens vernommen. Sie sind vor ihrer Vernehmung zur Angabe der Wahrheit zu erinnern und über die Folgen einer falschen Aussage zu belehren.
+### § 293 StPO
 
-### § 247a StPO.
+`§ 293 (1) StPO.`  
+Das Gericht, an das die Sache nach den §§ 288 und 292 zu neuer Verhandlung verwiesen wird, hat dabei die ursprüngliche Anklage zugrunde zu legen, sofern nicht der Oberste Gerichtshof eine Abweichung angeordnet hat.
 
-**§ 247a (1) StPO.**  
-Ein Zeuge, der wegen seines Alters, wegen Krankheit oder Gebrechlichkeit oder aus sonstigen erheblichen Gründen nicht in der Lage ist, vor Gericht zu erscheinen, kann unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung vernommen werden. Gleiches gilt in dem in § 153 Abs. 4 geregelten Fall, soweit Ankläger und Verteidiger einverstanden sind oder dies übereinstimmend beantragen.
+`§ 293 (2) StPO.`  
+Es ist an die Rechtsansicht gebunden, von der der Oberste Gerichtshof bei seiner Entscheidung ausgegangen ist.
 
-**§ 247a (2) StPO.**  
-Ein Zeuge, der wegen seines Aufenthalts im Ausland nicht in der Lage oder nicht willens ist, vor Gericht zu erscheinen, kann in gleicher Weise vernommen werden, sofern die zuständige ausländische Behörde Rechtshilfe leistet.
+`§ 293 (3) StPO.`  
+Die Bestimmung des § 290 Abs. 2 ist auch für das auf Grund der neuen Hauptverhandlung ergehende Urteil maßgebend.
 
-### § 248 StPO.
+`§ 293 (4) StPO.`  
+Gegen dieses Urteil kann die Nichtigkeitsbeschwerde aus allen im § 281 erwähnten Gründen ergriffen werden, soweit diese nicht bereits durch eine in derselben Sache ergangene Entscheidung des Obersten Gerichtshofes beseitigt sind.
 
-**§ 248 (1) StPO.**  
-Der Vorsitzende hat bei der Vernehmung von Zeugen und Sachverständigen grundsätzlich nach den für Vernehmungen im Ermittlungsverfahren geltenden Bestimmungen vorzugehen. Ist zu besorgen, dass der zu vernehmende Zeuge durch die Anwesenheit von anderen Zeugen in einer freien und vollständigen Aussage beeinflusst werden könnte, so hat der Vorsitzende anzuordnen, dass die betreffenden Zeugen den Verhandlungsort verlassen.
-
-**§ 248 (2) StPO.**  
-Zeugen und Sachverständige haben nach ihrer Vernehmung so lange in der Sitzung anwesend zu bleiben, bis sie der Vorsitzende entlässt. Zeugen dürfen einander wegen ihrer Aussagen nicht zur Rede stellen.
-
-**§ 248 (3) StPO.**  
-Dem Angeklagten muss nach der Vernehmung eines jeden Zeugen, Sachverständigen oder Mitangeklagten die Möglichkeit zur Stellungnahme zu den jeweiligen Aussagen geboten werden.
-
-### § 249 StPO.
-
-**§ 249 (1) StPO.**  
-Außer dem Vorsitzenden sind auch die übrigen Mitglieder des Schöffengerichts, die Beteiligten des Verfahrens und Opfer sowie deren Vertreter befugt, an jede zu vernehmende Person, nachdem sie das Wort hiezu vom Vorsitzenden erhalten haben, Fragen zu stellen. Bei großem Verfahrensumfang ist dies nach Tunlichkeit zu thematisch zusammenhängenden Abschnitten zu gewähren.
-
-**§ 249 (2) StPO.**  
-Der Vorsitzende hat unzulässige Fragen zurückzuweisen; Fragen, die sonst unangemessen erscheinen, kann er untersagen.
-
-**§ 249 (3) StPO.**  
-Der Angeklagte kann zur Befragung eines Sachverständigen eine Person mit besonderem Fachwissen beiziehen, der ein Sitz neben dem Verteidiger zu gestatten ist. Diese darf den Verteidiger bei der Fragestellung unterstützen oder selbst Fragen zu Befund und Gutachten an den Sachverständigen richten.
-
-### § 250 StPO.
-
-**§ 250 (1) StPO.**  
-Der Vorsitzende ist befugt, ausnahmsweise den Angeklagten während der Abhörung eines Zeugen oder eines Mitangeklagten aus dem Sitzungssaal abtreten zu lassen. Er muß ihn aber, sobald er ihn nach seiner Wiedereinführung über den in seiner Abwesenheit verhandelten Gegenstand vernommen hat, von allem in Kenntnis setzen, was in seiner Abwesenheit vorgenommen wurde, insbesondere von den Aussagen, die inzwischen gemacht worden sind.
-
-**§ 250 (2) StPO.**  
-Ist diese Mitteilung unterblieben, so muß sie jedenfalls bei sonstiger Nichtigkeit vor Schluß des Beweisverfahrens nachgetragen werden.
-
-**§ 250 (3) StPO.**  
-Opfer gemäß § 65 Z 1 lit. a und besonders schutzbedürftige Opfer (§ 66a) hat der Vorsitzende auf ihren Antrag auf die in § 165 Abs. 3 beschriebene Art und Weise zu vernehmen; im Übrigen hat er bei der Vernehmung von Zeugen § 165 sinngemäß anzuwenden. Dabei hat er auch den bei der Befragung nicht anwesenden Mitgliedern des Schöffengerichts Gelegenheit zu geben, die Vernehmung des Zeugen mitzuverfolgen und den Zeugen zu befragen.
-
-### § 251 StPO.
-
-**§ 251 StPO.**  
- Die Beteiligten des Verfahrens können verlangen, dass sich Zeugen nach ihrer Vernehmung aus dem in § 248 Abs. 1 letzter Satz genannten Grund aus dem Sitzungssaal entfernen und später wieder aufgerufen und entweder allein oder in Gegenwart anderer Zeugen erneut vernommen werden. Der Vorsitzende kann dies auch von Amts wegen anordnen.
-
-### § 252 StPO.
-
-**§ 252 (1) StPO.**  
-Protokolle über die Vernehmung von Mitbeschuldigten und Zeugen, Protokolle über die Aufnahme von Beweisen, Amtsvermerke und andere amtliche Schriftstücke, in denen Aussagen von Zeugen oder Mitbeschuldigten festgehalten worden sind, Gutachten von Sachverständigen sowie Ton- und Bildaufnahmen über die Vernehmung von Mitbeschuldigten oder Zeugen dürfen bei sonstiger Nichtigkeit nur in den folgenden Fällen verlesen oder vorgeführt werden:
-1. wenn die Vernommenen in der Zwischenzeit gestorben sind; wenn ihr Aufenthalt unbekannt oder ihr persönliches Erscheinen wegen ihres Alters, wegen Krankheit oder Gebrechlichkeit oder wegen entfernten Aufenthaltes oder aus anderen erheblichen Gründen füglich nicht bewerkstelligt werden konnte;
-2. wenn die in der Hauptverhandlung Vernommenen in wesentlichen Punkten von ihren früher abgelegten Aussagen abweichen;
-3. wenn Zeugen die Aussage berechtigt verweigern (§§ 156, 157 und 158) und die Staatsanwaltschaft und der Angeklagte Gelegenheit hatten, sich an einer gerichtlichen Vernehmung zu beteiligen (§§ 165, 247);
-4. wenn Zeugen, ohne dazu berechtigt zu sein, oder wenn Mitangeklagte die Aussage verweigern; endlich
-5. wenn über die Vorlesung Ankläger und Angeklagter einverstanden sind.
-
-**§ 252 (2) StPO.**  
-Amtsvermerke über einen Augenschein (§ 149 Abs. 2) und Befunde, gegen den Angeklagten früher ergangene Straferkenntnisse sowie Urkunden und Schriftstücke anderer Art, die für die Sache von Bedeutung sind, müssen vorgelesen werden.
-
-**§ 252 (2a) StPO.**  
-Anstelle der Vorlesung oder Vorführung (Abs. 1 und 2) kann der Vorsitzende den erheblichen Inhalt der Aktenstücke vortragen, soweit die Beteiligten des Verfahrens zustimmen und die Aktenstücke sowohl allen Mitgliedern des Schöffengerichts als auch den Beteiligten zugänglich sind.
-
-**§ 252 (3) StPO.**  
-Nach jeder Vorlesung und jedem Vortrag (Abs. 2a) ist der Angeklagte zu befragen, ob er darüber etwas zu bemerken habe. Er kann dabei auch auf andere Teile der vorgetragenen Aktenstücke eingehen und die Vorlesung dieser oder anderer Aktenstücke verlangen, die für die Sache von Bedeutung sind.
-
-**§ 252 (4) StPO.**  
-Die Bestimmungen des Abs. 1 dürfen bei sonstiger Nichtigkeit nicht umgangen werden.
-
-### § 253 StPO.
-
-**§ 253 StPO.**  
- Im Laufe oder am Schlusse des Beweisverfahrens läßt der Vorsitzende dem Angeklagten und, soweit es nötig ist, den Zeugen und Sachverständigen die Gegenstände, die zur Aufklärung des Sachverhaltes dienen können, vorlegen und fordert sie auf, sich zu erklären, ob sie diese anerkennen.
-
-### § 254 StPO.
-
-**§ 254 (1) StPO.**  
-Der Vorsitzende ist ermächtigt, ohne Antrag der Beteiligten des Verfahrens Zeugen und Sachverständige, von denen nach dem Gange der Verhandlung Aufklärung über erhebliche Tatsachen zu erwarten ist, im Laufe des Verfahrens vorladen und nötigenfalls vorführen zu lassen und zu vernehmen.
-
-**§ 254 (2) StPO.**  
-Der Vorsitzende kann auch neue Sachverständige bestellen oder die Aufnahme anderer Beweise anordnen, insbesondere einen Augenschein in Anwesenheit der Beteiligten des Verfahrens durchführen oder durch den beisitzenden Richter vornehmen lassen. Soweit besondere Umstände eine Durchführung der Beweisaufnahme vor dem Schöffengericht nicht zulassen, ist über die Ergebnisse in der Hauptverhandlung zu berichten.
-
-**END-OF-FILE**
+`END-OF-DATA-FILE`

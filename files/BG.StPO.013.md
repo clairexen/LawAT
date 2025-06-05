@@ -2,203 +2,248 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 3. Abschnitt | Untersuchungshaft
+## 10a. Hauptstück # Absehen von der Einleitung eines Ermittlungsverfahrens
 
-### § 173 StPO. Zulässigkeit
+### § 197a StPO # Absehen von der Einleitung eines Ermittlungsverfahrens
 
-**§ 173 (1) StPO.**  
-Verhängung und Fortsetzung der Untersuchungshaft sind nur auf Antrag der Staatsanwaltschaft und nur dann zulässig, wenn der Beschuldigte einer bestimmten Straftat dringend verdächtig, vom Gericht zur Sache und zu den Voraussetzungen der Untersuchungshaft vernommen worden ist und einer der im Abs. 2 angeführten Haftgründe vorliegt. Sie darf nicht angeordnet oder fortgesetzt werden, wenn sie zur Bedeutung der Sache oder zu der zu erwartenden Strafe außer Verhältnis steht oder ihr Zweck durch Anwendung gelinderer Mittel (Abs. 5) erreicht werden kann.
+`§ 197a (1) StPO.`  
+Die Staatsanwaltschaft hat von der Einleitung eines Ermittlungsverfahrens abzusehen, wenn die Führung eines Ermittlungsverfahrens aus rechtlichen Gründen unzulässig wäre oder der angezeigte Sachverhalt sonst keinen Anfangsverdacht einer Straftat (§ 1 Abs. 3) begründet. Die §§ 25 bis 27 gelten sinngemäß.
 
-**§ 173 (2) StPO.**  
-Ein Haftgrund liegt vor, wenn auf Grund bestimmter Tatsachen die Gefahr besteht, der Beschuldigte werde auf freiem Fuß
-1. wegen Art und Ausmaß der ihm voraussichtlich bevorstehenden Strafe oder aus anderen Gründen flüchten oder sich verborgen halten,
-2. Zeugen, Sachverständige oder Mitbeschuldigte zu beeinflussen, Spuren der Tat zu beseitigen oder sonst die Ermittlung der Wahrheit zu erschweren versuchen,
-3. ungeachtet des wegen einer mit mehr als sechs Monaten Freiheitsstrafe bedrohten Straftat gegen ihn geführten Strafverfahrens
-a.
-eine strafbare Handlung mit schweren Folgen begehen, die gegen dasselbe Rechtsgut gerichtet ist wie die ihm angelastete Straftat mit schweren Folgen,
-b.
-eine strafbare Handlung mit nicht bloß leichten Folgen begehen, die gegen dasselbe Rechtsgut gerichtet ist wie die ihm angelastete strafbare Handlung, wenn er entweder wegen einer solchen Straftat bereits verurteilt worden ist oder wenn ihm nunmehr wiederholte oder fortgesetzte Handlungen angelastet werden,
-c.
-eine strafbare Handlung mit einer Strafdrohung von mehr als sechsmonatiger Freiheitsstrafe begehen, die ebenso wie die ihm angelastete strafbare Handlung gegen dasselbe Rechtsgut gerichtet ist wie die Straftaten, derentwegen er bereits zweimal verurteilt worden ist, oder
-d.
-die ihm angelastete versuchte oder angedrohte Tat (§ 74 Abs. 1 Z 5 StGB) ausführen.
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">eine strafbare Handlung mit schweren Folgen begehen, die gegen dasselbe Rechtsgut gerichtet ist wie die ihm angelastete Straftat mit schweren Folgen,</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">eine strafbare Handlung mit nicht bloß leichten Folgen begehen, die gegen dasselbe Rechtsgut gerichtet ist wie die ihm angelastete strafbare Handlung, wenn er entweder wegen einer solchen Straftat bereits verurteilt worden ist oder wenn ihm nunmehr wiederholte oder fortgesetzte Handlungen angelastet werden,</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">eine strafbare Handlung mit einer Strafdrohung von mehr als sechsmonatiger Freiheitsstrafe begehen, die ebenso wie die ihm angelastete strafbare Handlung gegen dasselbe Rechtsgut gerichtet ist wie die Straftaten, derentwegen er bereits zweimal verurteilt worden ist, oder</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">die ihm angelastete versuchte oder angedrohte Tat (§&nbsp;74 Abs.&nbsp;1 Z&nbsp;5 StGB) ausführen.</span></div></div>
+`§ 197a (2) StPO.`  
+Geht die Staatsanwaltschaft nach Abs. 1 vor, kann sie ein Ermittlungsverfahren nur einleiten, solange die Strafbarkeit der Tat nicht verjährt ist, und  
+`§ 197a (2) Z 1 StPO.`
+das Gesetz verletzt oder unrichtig angewendet wurde oder  
+`§ 197a (2) Z 2 StPO.`
+neue Tatsachen oder Beweismittel beigebracht werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, einen Anfangsverdacht (§ 1 Abs. 3) zu begründen.
 
-**§ 173 (3) StPO.**  
-Fluchtgefahr ist jedenfalls nicht anzunehmen, wenn der Beschuldigte einer Straftat verdächtig ist, die nicht strenger als mit fünfjähriger Freiheitsstrafe bedroht ist, er sich in geordneten Lebensverhältnissen befindet und einen festen Wohnsitz im Inland hat, es sei denn, er habe bereits Vorbereitungen zur Flucht getroffen. Bei Beurteilung von Tatbegehungsgefahr nach Abs. 2 Z 3 fällt es besonders ins Gewicht, wenn vom Beschuldigten eine Gefahr für Leib und Leben von Menschen oder die Gefahr der Begehung von Verbrechen in einer kriminellen Organisation oder terroristischen Vereinigung ausgeht. Im Übrigen ist bei Beurteilung dieses Haftgrundes zu berücksichtigen, inwieweit sich die Gefahr dadurch vermindert hat, dass sich die Verhältnisse, unter denen die dem Beschuldigten angelastete Tat begangen worden ist, geändert haben.
+### § 197b StPO # Verständigungen
 
-**§ 173 (4) StPO.**  
-Die Untersuchungshaft darf nicht verhängt, aufrecht erhalten oder fortgesetzt werden, wenn die Haftzwecke auch durch eine gleichzeitige Strafhaft oder Haft anderer Art erreicht werden können. Im Fall der Strafhaft hat die Staatsanwaltschaft die Abweichungen vom Vollzug anzuordnen, die für die Zwecke der Untersuchungshaft unentbehrlich sind. Wird die Untersuchungshaft dennoch verhängt, so tritt eine Unterbrechung des Strafvollzuges ein.
+`§ 197b (1) StPO.`  
+Vom Absehen von der Einleitung eines Ermittlungsverfahrens nach § 197a Abs. 1 erster Fall sind alle Personen zu verständigen, die im Fall der Führung eines Ermittlungsverfahrens nach diesem Gesetz von seiner Einstellung zu verständigen wären; die §§ 51 bis 53 und § 68 gelten sinngemäß.
 
-**§ 173 (5) StPO.**  
-Als gelindere Mittel sind insbesondere anwendbar:
-1. das Gelöbnis, bis zur rechtskräftigen Beendigung des Strafverfahrens weder zu fliehen noch sich verborgen zu halten noch sich ohne Genehmigung der Staatsanwaltschaft von seinem Aufenthaltsort zu entfernen,
-2. das Gelöbnis, keinen Versuch zu unternehmen, die Ermittlungen zu erschweren,
-3. in den Fällen des § 38a Abs. 1 SPG das Gelöbnis, jeden Kontakt mit dem Opfer zu unterlassen, und die Weisung, eine bestimmte Wohnung sowie bestimmte sonstige Örtlichkeiten nicht zu betreten und sich dem Opfer nicht anzunähern oder ein bereits erteiltes Betretungs- und Annäherungsverbot zum Schutz vor Gewalt nach § 38a Abs. 1 SPG oder eine einstweilige Verfügung nach § 382b EO nicht zu übertreten, samt Abnahme aller Schlüssel zur Wohnung,
-4. die Weisung, an einem bestimmten Ort, bei einer bestimmten Familie zu wohnen, eine bestimmte Wohnung, bestimmte Orte oder bestimmten Umgang zu meiden, sich alkoholischer Getränke oder anderer Suchtmittel zu enthalten oder einer geregelten Arbeit nachzugehen,
-5. die Weisung, jeden Wechsel des Aufenthaltes anzuzeigen oder sich in bestimmten Zeitabständen bei der Kriminalpolizei oder einer anderen Stelle zu melden,
-6. die vorübergehende Abnahme von Identitäts-, Kraftfahrzeugs- oder sonstigen Berechtigungsdokumenten,
-7. vorläufige Bewährungshilfe nach § 179,
-8. die Leistung einer Sicherheit nach den §§ 180 und 181,
-9. mit Zustimmung des Beschuldigten die Weisung, sich einer Entwöhnungsbehandlung, sonst einer medizinischen Behandlung oder einer Psychotherapie (§ 51 Abs. 3 StGB) oder einer gesundheitsbezogenen Maßnahme (§ 11 Abs. 2 SMG) zu unterziehen.
+`§ 197b (2) StPO.`  
+In der Verständigung ist anzuführen, aus welchem Grund von der Einleitung eines Ermittlungsverfahrens abgesehen wurde. § 194 Abs. 3 gilt sinngemäß. Überdies sind Personen, die zur Einbringung eines Antrags auf Verfolgung einer Straftat (§ 197c) berechtigt sind, über die Möglichkeit der Einbringung eines solchen Antrags und seine Voraussetzungen zu informieren.
 
-### § 173a StPO. Hausarrest
+### § 197c StPO # Antrag auf Verfolgung
 
-**§ 173a (1) StPO.**  
-Auf Antrag der Staatsanwaltschaft oder des Beschuldigten kann die Untersuchungshaft als Hausarrest fortgesetzt werden, der in der Unterkunft zu vollziehen ist, in welcher der Beschuldigte seinen inländischen Wohnsitz begründet hat. Die Anordnung des Hausarrests ist zulässig, wenn die Untersuchungshaft nicht gegen gelindere Mittel (§ 173 Abs. 5) aufgehoben, der Zweck der Anhaltung (§ 182 Abs. 1) aber auch durch diese Art des Vollzugs der Untersuchungshaft erreicht werden kann, weil sich der Beschuldigte in geordneten Lebensverhältnissen befindet und er zustimmt, sich durch geeignete Mittel der elektronischen Aufsicht (§ 156b Abs. 1 und 2 StVG) überwachen zu lassen. Im Übrigen gelten die Bestimmungen über die Fortsetzung, Aufhebung und Höchstdauer der Untersuchungshaft mit der Maßgabe sinngemäß, dass ab Anordnung des Hausarrests Haftverhandlungen von Amts wegen nicht mehr stattfinden und der Beschluss über die Fortsetzung oder Aufhebung der Untersuchungshaft ohne vorangegangene mündliche Verhandlung schriftlich ergehen kann.
+`§ 197c StPO.`  
+Im Fall eines Vorgehens nach § 197a Abs. 1 erster Fall sind Personen, die Opfer (§ 65 Z 1) einer Straftat sein könnten, berechtigt, einen Antrag auf Verfolgung dieser Straftat zu stellen. Für den Antrag und die Entscheidung darüber gelten § 195 und § 196 mit Ausnahme des Abs. 1 vorletzter und letzter Satz sinngemäß.
 
-**§ 173a (2) StPO.**  
-Über einen Antrag nach Abs. 1 ist in einer Haftverhandlung zu entscheiden (§ 176 Abs. 1). Gegebenenfalls hat das Gericht sogleich nach Antragstellung vorläufige Bewährungshilfe nach § 179 anzuordnen und die Bewährungshilfe zu beauftragen, dem Gericht spätestens in der Haftverhandlung über die Lebensverhältnisse des Beschuldigten und seine sozialen Bindungen, einschließlich der Möglichkeit, einer Beschäftigung oder Ausbildung ohne Gefährdung der Haftzwecke nachzugehen, sowie über die mit dem Beschuldigten vereinbarten Bedingungen für den Vollzug des Hausarrests zu berichten, deren Einhaltung der Beschuldigte in der Haftverhandlung durch Gelöbnis zu bekräftigen hat. Das Verlassen der Unterkunft ist außer zur Erreichung des Arbeits- oder Ausbildungsplatzes, zur Beschaffung des notwendigen Lebensbedarfs und zur Inanspruchnahme notwendiger medizinischer Hilfe auf der jeweils kürzesten Wegstrecke nicht zulässig.
+## 11. Hauptstück # Rücktritt von der Verfolgung (Diversion)
 
-**§ 173a (3) StPO.**  
-Wird dem Antrag Folge gegeben, so hat die Staatsanwaltschaft die Kriminalpolizei und die Sicherheitsbehörde des Ortes, an dem der Hausarrest vollzogen wird, zu verständigen und die Justizanstalt zu beauftragen, den Beschuldigten nach Einrichtung der zur elektronischen Aufsicht erforderlichen technischen Mittel in den Hausarrest zu überstellen.
+### § 198 StPO # Allgemeines
 
-**§ 173a (4) StPO.**  
-Das Gericht hat den Hausarrest zu widerrufen und den weiteren Vollzug der Untersuchungshaft in der Justizanstalt anzuordnen, wenn der Beschuldigte erklärt, seine Zustimmung zu widerrufen. Gleiches gilt auf Antrag der Staatsanwaltschaft, wenn der Beschuldigte seinem Gelöbnis zuwider die Bedingungen nicht einhält oder wenn sonst hervorkommt, dass die Haftzwecke durch den Hausarrest nicht erreicht werden können. Mit der Durchführung der Überstellung ist die Kriminalpolizei zu beauftragen.
+`§ 198 (1) StPO.`  
+Die Staatsanwaltschaft hat nach diesem Hauptstück vorzugehen und von Verfolgung einer Straftat zurückzutreten, wenn auf Grund hinreichend geklärten Sachverhalts feststeht, dass eine Einstellung des Verfahrens nach den §§ 190 bis 192 nicht in Betracht kommt, eine Bestrafung jedoch im Hinblick auf  
+`§ 198 (1) Z 1 StPO.`
+die Zahlung eines Geldbetrages (§ 200) oder  
+`§ 198 (1) Z 2 StPO.`
+die Erbringung gemeinnütziger Leistungen (§ 201) oder  
+`§ 198 (1) Z 3 StPO.`
+die Bestimmung einer Probezeit, in Verbindung mit Bewährungshilfe und der Erfüllung von Pflichten (§ 203), oder  
+`§ 198 (1) Z 4 StPO.`
+einen Tatausgleich (§ 204)  
+nicht geboten erscheint, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten oder der Begehung strafbarer Handlungen durch andere entgegenzuwirken.
 
-**§ 173a (5) StPO.**  
-Wird der Hausarrest nicht nach Abs. 4 widerrufen, so gilt für den Fall der Rechtskraft des Urteils § 3 Abs. 2 StVG sinngemäß.
+`§ 198 (2) StPO.`  
+Ein Vorgehen nach diesem Hauptstück ist jedoch nur zulässig, wenn  
+`§ 198 (2) Z 1 StPO.`
+die Tat nicht mit mehr als fünf Jahren Freiheitsstrafe bedroht ist,  
+`§ 198 (2) Z 2 StPO.`
+die Schuld des Beschuldigten nicht als schwer (§ 32 StGB) anzusehen wäre und  
+`§ 198 (2) Z 3 StPO.`
+die Tat nicht den Tod eines Menschen zur Folge gehabt hat, es sei denn, dass ein Angehöriger des Beschuldigten fahrlässig getötet worden ist und eine Bestrafung im Hinblick auf die durch den Tod des Angehörigen beim Beschuldigten verursachte schwere psychische Belastung nicht geboten erscheint.
 
-### § 174 StPO. Verhängung der Untersuchungshaft
+`§ 198 (3) StPO.`  
+Nach diesem Hauptstück darf im Fall des Missbrauchs der Amtsgewalt nach § 302 Abs. 1 StGB nur vorgegangen werden, soweit der Beschuldigte durch die Tat keine oder eine bloß geringfügige oder sonst unbedeutende Schädigung an Rechten herbeigeführt hat und die Tat nicht auch nach §§ 304 oder 307 StGB mit Strafe bedroht ist. Im Übrigen ist ein Vorgehen nach diesem Hauptstück ausgeschlossen, soweit es sich um eine im Zehnten Abschnitt des Besonderen Teils des StGB geregelte strafbare Handlung handelt, die mit mehr als dreijähriger Freiheitsstrafe bedroht ist.
 
-**§ 174 (1) StPO.**  
-Jeder festgenommene Beschuldigte ist vom Gericht unverzüglich nach seiner Einlieferung in die Justizanstalt zu den Voraussetzungen der Untersuchungshaft zu vernehmen. Wenn es zur Verhütung und Bekämpfung einer Pandemie oder anzeigepflichtiger Krankheiten nach dem Epidemiegesetz 1950, BGBl. Nr. 186/1950, nach Maßgabe einer Verordnung der Bundesministerin für Justiz notwendig erscheint, kann gemäß § 153 Abs. 4 vorgegangen werden. Dem Verteidiger und der Staatsanwaltschaft ist die Möglichkeit zur Teilnahme an dieser Vernehmung einzuräumen. Das Gericht kann aber vor seiner Entscheidung sofortige Ermittlungen vornehmen oder durch die Kriminalpolizei vornehmen lassen, wenn deren Ergebnis maßgebenden Einfluss auf die Beurteilung von Tatverdacht oder Haftgrund erwarten lässt. In jedem Fall hat das Gericht längstens binnen 48 Stunden nach der Einlieferung zu entscheiden, ob der Beschuldigte, allenfalls unter Anwendung gelinderer Mittel (§ 173 Abs. 5), freigelassen oder ob die Untersuchungshaft verhängt wird.
+### § 199 StPO
 
-**§ 174 (2) StPO.**  
-Der Beschluss nach Abs. 1 ist dem Beschuldigten sofort mündlich zu verkünden. Ein Beschluss auf Freilassung ist der Staatsanwaltschaft binnen 24 Stunden zuzustellen und der Kriminalpolizei zur Kenntnis zu bringen. Wird die Untersuchungshaft verhängt, so ist die Zustellung an den Beschuldigten binnen 24 Stunden zu veranlassen und unverzüglich eine Ausfertigung der Staatsanwaltschaft, dem Verteidiger, der Justizanstalt und einem gegebenenfalls bestellten Bewährungshelfer zu übermitteln. Der Beschuldigte kann auf die Zustellung nicht wirksam verzichten.
+`§ 199 StPO.`  
+Nach Einbringen der Anklage wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht die für die Staatsanwaltschaft geltenden Bestimmungen der §§ 198, 200 bis 209b sinngemäß anzuwenden und das Verfahren unter den für die Staatsanwaltschaft geltenden Voraussetzungen bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen.
 
-**§ 174 (3) StPO.**  
-Ein Beschluss, mit dem die Untersuchungshaft verhängt wird, hat zu enthalten:
-1. den Namen des Beschuldigten sowie weitere Angaben zur Person,
-2. die strafbare Handlung, deren Begehung der Beschuldigte dringend verdächtig ist, Zeit, Ort und Umstände ihrer Begehung sowie ihre gesetzliche Bezeichnung,
-3. den Haftgrund,
-4. die bestimmten Tatsachen, aus denen sich der dringende Tatverdacht und der Haftgrund ergeben, und aus welchen Gründen der Haftzweck durch Anwendung gelinderer Mittel nicht erreicht werden kann,
-5. die Mitteilung, bis zu welchem Tag der Beschluss längstens wirksam sei sowie dass vor einer allfälligen Fortsetzung der Haft eine Haftverhandlung stattfinden werde, sofern nicht einer der im Abs. 4 oder im § 175 Abs. 3, 4 oder 5 erwähnten Fälle eintritt,
-6. die Mitteilung, dass der Beschuldigte, soweit dies nicht bereits geschehen ist, einen Verteidiger, einen Angehörigen oder eine andere Vertrauensperson verständigen oder verständigen lassen könne,
-7. die Mitteilung, dass der Beschuldigte durch einen Verteidiger vertreten sein müsse, solange er sich in Untersuchungshaft befinde,
-8. die Mitteilung, dass dem Beschuldigten Beschwerde zustehe und dass er im Übrigen jederzeit seine Enthaftung oder die Anordnung des Hausarrests (§ 173a) beantragen könne.
+### § 200 StPO # Zahlung eines Geldbetrages
 
-**§ 174 (4) StPO.**  
-Eine Beschwerde des Beschuldigten gegen die Verhängung der Untersuchungshaft löst die Haftfrist nach § 175 Abs. 2 Z 2 aus. Ein darauf ergehender Beschluss des Oberlandesgerichts auf Fortsetzung der Untersuchungshaft löst die nächste Haftfrist aus; Abs. 3 Z 1 bis 5 gilt sinngemäß.
+`§ 200 (1) StPO.`  
+Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat zurücktreten, wenn der Beschuldigte einen Geldbetrag zu Gunsten des Bundes entrichtet.
 
-### § 175 StPO. Haftfristen
+`§ 200 (2) StPO.`  
+Der Geldbetrag darf den Betrag nicht übersteigen, der einer Geldstrafe von 180 Tagessätzen zuzüglich der im Fall einer Verurteilung zu ersetzenden Kosten des Strafverfahrens (§§ 389 Abs. 2 und 3, 391 Abs. 1) entspricht. Er ist innerhalb von 14 Tagen nach Zustellung der Mitteilung nach Abs. 4 zu bezahlen. Sofern dies den Beschuldigten unbillig hart träfe, kann ihm jedoch ein Zahlungsaufschub für längstens sechs Monate gewährt oder die Zahlung von Teilbeträgen innerhalb dieses Zeitraums gestattet werden.
 
-**§ 175 (1) StPO.**  
-Ein Beschluss, mit dem die Untersuchungshaft verhängt oder fortgesetzt wird, ist längstens für einen bestimmten Zeitraum wirksam (Haftfrist); der Ablauftag ist im Beschluss anzuführen. Vor Ablauf der Haftfrist ist eine Haftverhandlung durchzuführen oder der Beschuldigte zu enthaften.
+`§ 200 (3) StPO.`  
+Soweit nicht aus besonderen Gründen darauf verzichtet werden kann, ist der Rücktritt von der Verfolgung nach Zahlung eines Geldbetrages überdies davon abhängig zu machen, dass der Beschuldigte binnen einer zu bestimmenden Frist von höchstens sechs Monaten den aus der Tat entstandenen Schaden gutmacht und dies unverzüglich nachweist.
 
-**§ 175 (2) StPO.**  
-Die Haftfrist beträgt
-1. 14 Tage ab Verhängung der Untersuchungshaft,
-2. einen Monat ab erstmaliger Fortsetzung der Untersuchungshaft,
-3. zwei Monate ab weiterer Fortsetzung der Untersuchungshaft.
+`§ 200 (4) StPO.`  
+Die Staatsanwaltschaft hat dem Beschuldigten mitzuteilen, dass Anklage gegen ihn wegen einer bestimmten Straftat beabsichtigt sei, aber unterbleiben werde, wenn er einen festgesetzten Geldbetrag und gegebenenfalls Schadensgutmachung in bestimmter Höhe leiste. Des weiteren hat die Staatsanwaltschaft den Beschuldigten im Sinne des § 207 sowie über die Möglichkeit eines Zahlungsaufschubs (Abs. 2) zu informieren, soweit sie ihm einen solchen nicht von Amts wegen in Aussicht stellt.
 
-**§ 175 (3) StPO.**  
-Ist die Durchführung der Haftverhandlung vor Ablauf der Haftfrist wegen eines unvorhersehbaren oder unabwendbaren Ereignisses unmöglich, so kann die Haftverhandlung auf einen der drei dem Fristablauf folgenden Arbeitstage verlegt werden; in diesem Fall verlängert sich die Haftfrist entsprechend.
+`§ 200 (5) StPO.`  
+Nach Leistung des Geldbetrages und allfälliger Schadensgutmachung hat die Staatsanwaltschaft von der Verfolgung zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist.
 
-**§ 175 (4) StPO.**  
-Der Beschuldigte kann durch seinen Verteidiger auf die Durchführung einer bevorstehenden Haftverhandlung verzichten. In diesem Fall kann der Beschluss über die Aufhebung oder Fortsetzung der Untersuchungshaft (§ 176 Abs. 4) ohne vorangegangene mündliche Verhandlung schriftlich ergehen.
+### § 201 StPO # Gemeinnützige Leistungen
 
-**§ 175 (5) StPO.**  
-Nach Einbringen der Anklage ist die Wirksamkeit eines Beschlusses auf Verhängung oder Fortsetzung der Untersuchungshaft durch die Haftfrist nicht mehr begrenzt; Haftverhandlungen finden nach diesem Zeitpunkt nur statt, wenn der Angeklagte seine Enthaftung beantragt und darüber nicht ohne Verzug in einer Hauptverhandlung entschieden werden kann. Die §§ 233 bis 237 gelten in diesem Fall sinngemäß.
+`§ 201 (1) StPO.`  
+Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat vorläufig zurücktreten, wenn sich der Beschuldigte ausdrücklich bereit erklärt hat, innerhalb einer zu bestimmenden Frist von höchstens sechs Monaten unentgeltlich gemeinnützige Leistungen zu erbringen.
 
-### § 176 StPO. Haftverhandlung
+`§ 201 (2) StPO.`  
+Gemeinnützige Leistungen sollen die Bereitschaft des Beschuldigten zum Ausdruck bringen, für die Tat einzustehen. Sie sind in der Freizeit bei einer geeigneten Einrichtung zu erbringen, mit der das Einvernehmen herzustellen ist.
 
-**§ 176 (1) StPO.**  
-Eine Haftverhandlung hat das Gericht von Amts wegen anzuberaumen:
-1. vor Ablauf der Haftfrist,
-2. ohne Verzug, wenn der Beschuldigte seine Freilassung beantragt und sich die Staatsanwaltschaft dagegen ausspricht oder die Anordnung des Hausarrests (§ 173a) beantragt wird,
-3. sofern das Gericht Bedenken gegen die Fortsetzung der Untersuchungshaft hegt.
+`§ 201 (3) StPO.`  
+Soweit nicht aus besonderen Gründen darauf verzichtet werden kann, ist der Rücktritt von der Verfolgung nach gemeinnützigen Leistungen überdies davon abhängig zu machen, dass der Beschuldigte binnen einer zu bestimmenden Frist von höchstens sechs Monaten den aus der Tat entstandenen Schaden gutmacht oder sonst zum Ausgleich der Folgen der Tat beiträgt und dies unverzüglich nachweist.
 
-**§ 176 (2) StPO.**  
-Die Haftverhandlung leitet das Gericht; sie ist nicht öffentlich. Die Staatsanwaltschaft, der Beschuldigte, sein gesetzlicher Vertreter, sein Verteidiger, die Kriminalpolizei, soweit sie darum ersucht hat, und der Bewährungshelfer sind vom Termin zu verständigen.
+`§ 201 (4) StPO.`  
+Die Staatsanwaltschaft hat dem Beschuldigten mitzuteilen, dass Anklage gegen ihn wegen einer bestimmten Straftat beabsichtigt sei, aber vorläufig unterbleiben werde, wenn er sich bereit erklärt, binnen bestimmter Frist gemeinnützige Leistungen in nach Art und Ausmaß bestimmter Weise zu erbringen und gegebenenfalls Tatfolgenausgleich zu leisten. Die Staatsanwaltschaft hat den Beschuldigten dabei im Sinne des § 207 zu informieren; sie kann auch eine in der Sozialarbeit erfahrene Person um die Erteilung dieser Informationen sowie darum ersuchen, die gemeinnützigen Leistungen zu vermitteln (§ 29b des Bewährungshilfegesetzes). Die Einrichtung (Abs. 2) hat dem Beschuldigten oder dem Sozialarbeiter eine Bestätigung über die erbrachten Leistungen auszustellen, die unverzüglich vorzulegen ist.
 
-**§ 176 (3) StPO.**  
-Der Beschuldigte ist zur Verhandlung vorzuführen, es sei denn, dass dies wegen Krankheit nicht möglich ist. Er muss durch einen Verteidiger vertreten sein. Anstelle der Vorführung kann in den in § 174 Abs. 1 geregelten Fällen sowie bei Beschuldigten, die in einer Außenstelle der Justizanstalt des zuständigen Gerichts oder in einer anderen als der Justizanstalt des zuständigen Gerichts (§ 183) angehalten werden, gemäß § 153 Abs. 4 vorgegangen werden.
+`§ 201 (5) StPO.`  
+Nach Erbringung der gemeinnützigen Leistungen und allfälligem Tatfolgenausgleich hat die Staatsanwaltschaft von der Verfolgung endgültig zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist.
 
-**§ 176 (4) StPO.**  
-Zunächst trägt die Staatsanwaltschaft ihren Antrag auf Fortsetzung der Untersuchungshaft vor und begründet ihn. Der Beschuldigte, sein gesetzlicher Vertreter und sein Verteidiger haben das Recht zu erwidern. Der Bewährungshelfer kann sich zur Haftfrage äußern. Staatsanwaltschaft und Beschuldigter können ergänzende Feststellungen aus dem Akt begehren. Das Gericht kann von Amts wegen oder auf Anregung Zeugen vernehmen oder andere Beweise aufnehmen, soweit dies für die Beurteilung der Haftfrage erforderlich ist. Dem Beschuldigten oder seinem Verteidiger gebührt das Recht der letzten Äußerung. Sodann entscheidet das Gericht über die Aufhebung oder Fortsetzung der Untersuchungshaft. § 174 Abs. 3 Z 1 bis 5 und 8 gilt sinngemäß.
+### § 202 StPO
 
-**§ 176 (5) StPO.**  
-Eine Beschwerde gegen einen Beschluss nach Abs. 4 ist binnen drei Tagen nach Verkündung des Beschlusses einzubringen; § 174 Abs. 4 zweiter Satz ist anzuwenden.
+`§ 202 (1) StPO.`  
+Gemeinnützige Leistungen dürfen täglich nicht mehr als acht Stunden, wöchentlich nicht mehr als 40 Stunden und insgesamt nicht mehr als 240 Stunden in Anspruch nehmen; auf eine gleichzeitige Aus- und Fortbildung oder eine Berufstätigkeit des Beschuldigten ist Bedacht zu nehmen. Gemeinnützige Leistungen, die einen unzumutbaren Eingriff in die Persönlichkeitsrechte oder in die Lebensführung des Beschuldigten darstellen würden, sind unzulässig.
 
-### § 177 StPO. Aufhebung der Untersuchungshaft
+`§ 202 (2) StPO.`  
+Die Leiter der Staatsanwaltschaften haben jeweils eine Liste von Einrichtungen, die für die Erbringung gemeinnütziger Leistungen geeignet sind, zu führen und erforderlichenfalls zu ergänzen. In diese Liste ist auf Verlangen jedermann Einsicht zu gewähren.
 
-**§ 177 (1) StPO.**  
-Sämtliche am Strafverfahren beteiligten Behörden sind verpflichtet, darauf hinzuwirken, dass die Haft so kurz wie möglich dauere. Die Ermittlungen sind von Staatsanwaltschaft und Kriminalpolizei mit Nachdruck und unter besonderer Beschleunigung zu führen.
+`§ 202 (3) StPO.`  
+Fügt der Beschuldigte bei der Erbringung gemeinnütziger Leistungen der Einrichtung oder deren Träger einen Schaden zu, so ist auf seine Ersatzpflicht das Dienstnehmerhaftpflichtgesetz, BGBl. Nr. 80/1965, sinngemäß anzuwenden. Fügt der Beschuldigte einem Dritten einen Schaden zu, so haftet dafür neben ihm auch der Bund nach den Bestimmungen des bürgerlichen Rechts. Die Einrichtung oder deren Träger haftet in diesem Fall dem Geschädigten nicht.
 
-**§ 177 (2) StPO.**  
-Der Beschuldigte ist sogleich freizulassen und gelindere Mittel sind aufzuheben, sobald die Voraussetzungen der Anhaltung, der Untersuchungshaft oder der Anwendung gelinderer Mittel nicht mehr vorliegen oder ihre Dauer unverhältnismäßig wäre.
+`§ 202 (4) StPO.`  
+Der Bund hat den Schaden nur in Geld zu ersetzen. Von der Einrichtung, bei der die gemeinnützigen Leistungen erbracht wurden, oder deren Träger kann er Rückersatz begehren, insoweit diesen oder ihren Organen Vorsatz oder grobe Fahrlässigkeit, insbesondere durch Vernachlässigung der Aufsicht oder Anleitung, zur Last fällt. Auf das Verhältnis zwischen dem Bund und dem Beschuldigten ist das Dienstnehmerhaftpflichtgesetz, BGBl. Nr. 80/1965, sinngemäß anzuwenden.
 
-**§ 177 (3) StPO.**  
-Ist die Staatsanwaltschaft der Ansicht, dass die Untersuchungshaft aufzuheben sei, so beantragt sie dies beim Gericht, das den Beschuldigten sogleich freizulassen hat.
+`§ 202 (5) StPO.`  
+Erleidet der Beschuldigte bei Erbringung gemeinnütziger Leistungen einen Unfall oder eine Krankheit, so gelten die Bestimmungen der §§ 76 bis 84 des Strafvollzugsgesetzes dem Sinne nach.
 
-**§ 177 (4) StPO.**  
-Ist die Staatsanwaltschaft der Ansicht, dass die Aufhebung gelinderer Mittel zu verfügen sei, so beantragt sie dies beim Gericht, das daraufhin entsprechend zu verfügen hat. Beantragt die Staatsanwaltschaft eine Änderung oder der Beschuldigte eine Aufhebung oder Änderung gelinderer Mittel und spricht sich die Staatsanwaltschaft dagegen aus, so hat das Gericht zu entscheiden. Eine Beschwerde gegen diesen Beschluss ist binnen drei Tagen ab seiner Bekanntmachung einzubringen.
+### § 203 StPO # Probezeit
 
-**§ 177 (5) StPO.**  
-Wird der Beschuldigte freigelassen, so hat das Gericht nach § 172 Abs. 4 erster und zweiter Satz vorzugehen und auch die Kriminalpolizei von diesen Verständigungen zu informieren.
+`§ 203 (1) StPO.`  
+Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat unter Bestimmung einer Probezeit von einem Jahr bis zu zwei Jahren vorläufig zurücktreten. Der Lauf der Probezeit beginnt mit der Zustellung der Verständigung über den vorläufigen Rücktritt von der Verfolgung.
 
-### § 178 StPO. Höchstdauer der Untersuchungshaft
+`§ 203 (2) StPO.`  
+Soweit nicht aus besonderen Gründen darauf verzichtet werden kann, ist der vorläufige Rücktritt von der Verfolgung überdies davon abhängig zu machen, dass sich der Beschuldigte ausdrücklich bereit erklärt, während der Probezeit bestimmte Pflichten zu erfüllen, die als Weisungen (§ 51 StGB) erteilt werden könnten, und sich durch einen Bewährungshelfer (§ 52 StGB) betreuen zu lassen. Dabei kommt insbesondere die Pflicht in Betracht, den entstandenen Schaden nach Kräften gutzumachen oder sonst zum Ausgleich der Folgen der Tat beizutragen.
 
-**§ 178 (1) StPO.**  
-Bis zum Beginn der Hauptverhandlung darf die Untersuchungshaft folgende Fristen nicht übersteigen:
-1. zwei Monate, wenn der Beschuldigte nur aus dem Grunde der Verdunkelungsgefahr (§ 173 Abs. 2 Z 2), im Übrigen
-2. sechs Monate, wenn er wegen des Verdachts eines Vergehens, ein Jahr, wenn er wegen des Verdachts eines Verbrechens und zwei Jahre, wenn er wegen des Verdachts eines Verbrechens, das mit einer fünf Jahre übersteigenden Freiheitsstrafe bedroht ist, angehalten wird.
+`§ 203 (3) StPO.`  
+Die Staatsanwaltschaft hat dem Beschuldigten mitzuteilen, dass Anklage gegen ihn wegen einer bestimmten Straftat für eine bestimmte Probezeit vorläufig unterbleibe, und ihn im Sinne des § 207 zu informieren. Gegebenenfalls hat die Staatsanwaltschaft dem Beschuldigten mitzuteilen, dass dieser vorläufige Rücktritt von der Verfolgung voraussetze, dass er sich ausdrücklich bereit erklärt, bestimmte Pflichten auf sich zu nehmen und sich von einem Bewährungshelfer betreuen zu lassen (Abs. 2). In diesem Fall kann die Staatsanwaltschaft auch eine in der Sozialarbeit erfahrene Person um die Erteilung dieser Informationen sowie darum ersuchen, den Beschuldigten bei der Erfüllung solcher Pflichten zu betreuen (§ 29b des Bewährungshilfegesetzes).
 
-**§ 178 (2) StPO.**  
-Über sechs Monate hinaus darf die Untersuchungshaft jedoch nur dann aufrecht erhalten werden, wenn dies wegen besonderer Schwierigkeiten oder besonderen Umfangs der Ermittlungen im Hinblick auf das Gewicht des Haftgrundes unvermeidbar ist.
+`§ 203 (4) StPO.`  
+Nach Ablauf der Probezeit und Erfüllung allfälliger Pflichten hat die Staatsanwaltschaft von der Verfolgung endgültig zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist.
 
-**§ 178 (3) StPO.**  
-Muss ein wegen Fristablaufs freigelassener Angeklagter zum Zweck der Durchführung der Hauptverhandlung neuerlich in Haft genommen werden, so darf dies jeweils höchstens für die Dauer von sechs weiteren Wochen geschehen.
+### § 204 StPO # Tatausgleich
 
-### § 179 StPO. Vorläufige Bewährungshilfe
+`§ 204 (1) StPO.`  
+Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat zurücktreten oder im Fall eines Vorgehens nach Abs. 3 endgültig zurücktreten, wenn durch die Tat Rechtsgüter einer Person unmittelbar beeinträchtigt sein könnten und der Beschuldigte bereit ist, für die Tat einzustehen und sich mit deren Ursachen auseinander zu setzen, wenn er allfällige Folgen der Tat auf eine den Umständen nach geeignete Weise ausgleicht, insbesondere dadurch, dass er aus der Tat entstandenen Schaden gutmacht oder sonst zum Ausgleich der Folgen der Tat beiträgt, und wenn er erforderlichenfalls Verpflichtungen eingeht, die seine Bereitschaft bekunden, Verhaltensweisen, die zur Tat geführt haben, künftig zu unterlassen.
 
-**§ 179 (1) StPO.**  
-Vorläufige Bewährungshilfe ist anzuordnen, wenn der Beschuldigte dem zustimmt und es geboten scheint, dadurch seine Bemühungen um eine Lebensführung und Einstellung, die ihn in Zukunft von der Begehung strafbarer Handlungen abhalten werde, zu fördern.
+`§ 204 (2) StPO.`  
+Das Opfer und sein Vertreter sind in Bemühungen um einen Tatausgleich einzubeziehen, soweit sie dazu bereit sind. Das Zustandekommen eines Ausgleichs ist von der Zustimmung des Opfers abhängig, es sei denn, dass es diese aus Gründen nicht erteilt, die im Strafverfahren nicht berücksichtigungswürdig sind. Die berechtigten Interessen des Opfers sind jedenfalls zu berücksichtigen (§ 206).
 
-**§ 179 (2) StPO.**  
-Hat der Beschuldigte einen gesetzlichen Vertreter, so ist diesem die Anordnung der vorläufigen Bewährungshilfe mitzuteilen.
+`§ 204 (3) StPO.`  
+Die Staatsanwaltschaft kann einen Konfliktregler ersuchen, das Opfer und den Beschuldigten und ihre Vertreter über die Möglichkeit eines Tatausgleichs sowie im Sinne der §§ 206 und 207 zu informieren und bei ihren Bemühungen um einen solchen Ausgleich anzuleiten und zu unterstützen (§ 29a des Bewährungshilfegesetzes). In diesem Fall hat die Staatsanwaltschaft von der Verfolgung vorläufig zurückzutreten.
 
-**§ 179 (3) StPO.**  
-Die vorläufige Bewährungshilfe endet spätestens mit rechtskräftiger Beendigung des Strafverfahrens. Im Übrigen gelten die Bestimmungen über die Bewährungshilfe dem Sinne nach.
+`§ 204 (4) StPO.`  
+Der Konfliktregler hat der Staatsanwaltschaft über Ausgleichsvereinbarungen zu berichten und deren Erfüllung zu überprüfen. Einen abschließenden Bericht hat er zu erstatten, wenn der Beschuldigte seinen Verpflichtungen zumindest soweit nachgekommen ist, dass unter Berücksichtigung seines übrigen Verhaltens angenommen werden kann, er werde die Vereinbarungen weiter einhalten, oder wenn nicht mehr zu erwarten ist, dass ein Ausgleich zustande kommt.
 
-### § 180 StPO. Kaution
+### § 205 StPO # Nachträgliche Fortsetzung des Strafverfahrens
 
-**§ 180 (1) StPO.**  
-Gegen Kaution oder Bürgschaft sowie gegen Ablegung der im § 173 Abs. 5 Z 1 und 2 erwähnten Gelöbnisse kann der Beschuldigte freigelassen werden, sofern ausschließlich der Haftgrund der Fluchtgefahr (§ 173 Abs. 2 Z 1) vorliegt; dies hat zu erfolgen, wenn die Straftat nicht strenger als mit fünfjähriger Freiheitsstrafe bedroht ist.
+`§ 205 (1) StPO.`  
+Nach einem nicht bloß vorläufigen Rücktritt von der Verfolgung des Beschuldigten nach diesem Hauptstück (§§ 200 Abs. 5, 201 Abs. 5, 203 Abs. 4 und 204 Abs. 1) ist eine Fortsetzung des Strafverfahrens nur unter den Voraussetzungen der ordentlichen Wiederaufnahme zulässig. Vor einem solchen Rücktritt ist das Strafverfahren jedenfalls dann fortzusetzen, wenn der Beschuldigte dies verlangt.
 
-**§ 180 (2) StPO.**  
-Die Höhe der Sicherheitsleistung ist vom Gericht auf Antrag der Staatsanwaltschaft unter Bedachtnahme auf das Gewicht der dem Beschuldigten angelasteten Straftat, seine persönlichen und wirtschaftlichen Verhältnisse sowie das Vermögen der Person zu bestimmen, welche die Sicherheit leistet.
+`§ 205 (2) StPO.`  
+Hat die Staatsanwaltschaft dem Beschuldigten vorgeschlagen, einen Geldbetrag zu bezahlen (§ 200 Abs. 4), gemeinnützige Leistungen zu erbringen (§ 201 Abs. 4) oder eine Probezeit und allfällige Pflichten auf sich zu nehmen (§ 203 Abs. 3), oder ist die Staatsanwaltschaft von der Verfolgung der Straftat vorläufig zurückgetreten (§§ 201 Abs. 1, 203 Abs. 1, 204 Abs. 3), so hat sie das Strafverfahren fortzusetzen, wenn  
+`§ 205 (2) Z 1 StPO.`
+der Beschuldigte den Geldbetrag samt allfälliger Schadensgutmachung, oder die gemeinnützigen Leistungen samt allfälligem Tatfolgenausgleich nicht vollständig oder nicht rechtzeitig zahlt oder erbringt oder wenn eine Ausgleichsvereinbarung nicht zustande kommt oder diese vom Beschuldigten nicht erfüllt wird,  
+`§ 205 (2) Z 2 StPO.`
+der Beschuldigte übernommene Pflichten nicht hinreichend erfüllt, den Pauschalkostenbeitrag (§ 388 Abs. 1 und 2) nicht leistet oder sich beharrlich dem Einfluss des Bewährungshelfers entzieht oder  
+`§ 205 (2) Z 3 StPO.`
+gegen den Beschuldigten vor Ablauf der Probezeit oder vor Erstattung des abschließenden Berichts nach § 204 Abs. 4 wegen einer anderen Straftat ein Strafverfahren eingeleitet wird. In diesem Fall ist die nachträgliche Fortsetzung des Verfahrens zulässig, sobald gegen den Beschuldigten wegen der neuen oder neu hervorgekommenen Straftat Anklage eingebracht wird, und zwar auch noch während dreier Monate nach dem Einbringen, selbst wenn inzwischen die Probezeit abgelaufen ist. Das nachträglich fortgesetzte Strafverfahren ist jedoch nach Maßgabe der übrigen Voraussetzungen zu beenden, wenn das neue Strafverfahren auf andere Weise als durch einen Schuldspruch beendet wird.
 
-**§ 180 (3) StPO.**  
-Die Sicherheit ist entweder in barem Geld oder in mündelsicheren Wertpapieren, nach dem Börsekurs des Erlagstages berechnet, gerichtlich zu hinterlegen oder durch Belastung oder Verpfändung von Liegenschaften oder Rechten, die in einem öffentlichen Buch eingetragen sind, oder durch taugliche Bürgen (§ 1374 ABGB), die sich zugleich als Zahler verpflichten, zu leisten. Wenn besondere Umstände den Verdacht nahe legen, dass die angebotene Sicherheit aus einer Straftat des Beschuldigten herrührt, hat das Gericht vor der Annahme der Sicherheitsleistung Ermittlungen über die Redlichkeit der Herkunft zu veranlassen.
+`§ 205 (3) StPO.`  
+Von der Fortsetzung des Verfahrens kann jedoch abgesehen werden, wenn dies in den Fällen des Abs. 2 Z 1 aus besonderen Gründen vertretbar erscheint, in den Fällen des Abs. 2 Z 2 und 3 nach den Umständen nicht geboten ist, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten. Im Übrigen ist die Fortsetzung des Verfahrens in den im Abs. 2 angeführten Fällen außer unter den in Z 1 bis 3 angeführten Voraussetzungen nur zulässig, wenn der Beschuldigte den dort erwähnten Vorschlag der Staatsanwaltschaft nicht annimmt.
 
-**§ 180 (4) StPO.**  
-Die Sicherheit ist vom Gericht auf Antrag der Staatsanwaltschaft oder von Amts wegen mit Beschluss für verfallen zu erklären, wenn sich der Beschuldigte dem Verfahren oder, im Fall der Verurteilung zu einer nicht bedingt nachgesehenen Freiheitsstrafe, dem Antritt dieser Strafe entzieht, insbesondere dadurch, dass er sich ohne Erlaubnis von seinem Wohnort entfernt oder eine Ladung nicht befolgt. Diese Ladung und der Beschluss über den Verfall sind dem Beschuldigten im Falle seiner Nichtauffindung nach § 8 Abs. 2 des Zustellgesetzes zuzustellen.
+`§ 205 (4) StPO.`  
+Wenn der Beschuldigte den Geldbetrag nicht vollständig oder nicht rechtzeitig zahlen oder den übernommenen Verpflichtungen nicht vollständig oder nicht rechtzeitig nachkommen kann, weil ihn dies wegen einer erheblichen Änderung der für die Höhe des Geldbetrages oder die Art oder den Umfang der Verpflichtungen maßgeblichen Umstände unbillig hart träfe, so kann die Staatsanwaltschaft die Höhe des Geldbetrages oder die Verpflichtung angemessen ändern.
 
-**§ 180 (5) StPO.**  
-Mit Rechtskraft des Beschlusses nach Abs. 4 ist die verfallene Sicherheit für den Bund einzuziehen, doch hat das Opfer das Recht zu verlangen, dass seine Entschädigungsansprüche aus der Sicherheit oder ihrem Verwertungserlös vorrangig befriedigt werden.
+`§ 205 (5) StPO.`  
+Verpflichtungen, die der Beschuldigte übernommen, und Zahlungen und sonstige Ausgleichsmaßnahmen, zu denen er sich bereit erklärt hat, werden mit der nachträglichen Fortsetzung des Verfahrens gegenstandslos. Die Bewährungshilfe endet; § 179 bleibt jedoch unberührt. Geldbeträge, die der Beschuldigte geleistet hat (§ 200), sind auf eine nicht bedingt nachgesehene Geldstrafe unter sinngemäßer Anwendung des § 38 Abs. 1 Z 1 StGB anzurechnen; im Übrigen sind sie zurückzuzahlen. Andere Leistungen sind nicht zu ersetzen, im Fall einer Verurteilung jedoch gleichfalls angemessen auf die Strafe anzurechnen. Dabei sind insbesondere Art und Dauer der Leistung zu berücksichtigen.
 
-### § 181 StPO.
+### § 206 StPO # Rechte und Interessen der Opfer
 
-**§ 181 (1) StPO.**  
-Wenn der Beschuldigte nach seiner Freilassung gegen Sicherheit seine Flucht vorbereitet oder wenn neue Umstände hervorkommen, die seine Verhaftung erfordern, so ist er ungeachtet der Sicherheit festzunehmen, doch wird in diesen Fällen die Sicherheitsleistung frei.
+`§ 206 (1) StPO.`  
+Bei einem Vorgehen nach diesem Hauptstück sind stets die Interessen des Opfers, insbesondere jenes auf Wiedergutmachung zu prüfen und im größtmöglichen Ausmaß zu fördern. Das Opfer hat das Recht, eine Vertrauensperson beizuziehen. Jedenfalls sind Opfer unverzüglich im Sinne von § 70 Abs. 1 über ihre Rechte, insbesondere jenes auf Prozessbegleitung und die in Betracht kommenden Opferschutzeinrichtungen zu informieren. Soweit dies zur Wahrung ihrer Interessen und Rechte, insbesondere jenem auf Schadensgutmachung geboten erscheint, ist ihnen und ihrer Vertretung, jedenfalls im Fall eines erteilten Betretungs- und Annäherungsverbotes zum Schutz vor Gewalt nach § 38a Abs. 1 SPG und bei Opfern im Sinn des § 65 Z 1 lit. a vor einem Rücktritt von der Verfolgung ausreichend Zeit zur Stellungnahme zu geben.
 
-**§ 181 (2) StPO.**  
-Dasselbe ist der Fall, sobald das Strafverfahren rechtswirksam beendet ist, bei Verurteilung zu einer nicht bedingt nachgesehenen Freiheitsstrafe aber erst, sobald der Verurteilte die Strafe angetreten hat.
+`§ 206 (2) StPO.`  
+Das Opfer ist jedenfalls zu verständigen, wenn sich der Beschuldigte bereit erklärt, aus der Tat entstandenen Schaden gutzumachen oder sonst zum Ausgleich der Folgen der Tat beizutragen. Gleiches gilt für den Fall, dass der Beschuldigte eine Pflicht übernimmt, welche die Interessen des Geschädigten unmittelbar berührt.
 
-**§ 181 (3) StPO.**  
-Über die Freigabe der Sicherheit entscheidet das Gericht.
+### § 207 StPO # Information des Beschuldigten
 
-### § 181a StPO. Flucht
+`§ 207 StPO.`  
+Bei einem Vorgehen nach diesem Hauptstück ist der Beschuldigte eingehend über seine Rechte zu informieren, insbesondere über die Voraussetzungen für einen Rücktritt von der Verfolgung, über das Erfordernis seiner Zustimmung, über seine Möglichkeit, eine Fortsetzung des Verfahrens zu verlangen, über die sonstigen Umstände, die eine Fortsetzung des Verfahrens bewirken können (§ 205 Abs. 2) und über die Notwendigkeit eines Pauschalkostenbeitrags (§ 388).
 
-**§ 181a StPO.**  
- Soweit das Opfer dies beantragt hat, ist es von einer Flucht des in Untersuchungshaft angehaltenen Beschuldigten sowie von seiner Wiederergreifung sogleich zu verständigen. § 172 Abs. 4 zweiter Satz gilt sinngemäß. Die Justizanstalt hat die Staatsanwaltschaft unverzüglich von der Flucht und Wiedereinbringung zu verständigen; die Staatsanwaltschaft hat sodann das Opfer zu verständigen.
+### § 208 StPO # Gemeinsame Bestimmungen
 
-**END-OF-FILE**
+`§ 208 (1) StPO.`  
+Um die Voraussetzungen für ein Vorgehen nach diesem Hauptstück abzuklären, kann die Staatsanwaltschaft den Leiter der für den Tatausgleich zuständigen Einrichtung ersuchen, mit dem Opfer, mit dem Beschuldigten und gegebenenfalls auch mit jener Einrichtung, bei der gemeinnützige Leistungen zu erbringen oder eine Schulung oder ein Kurs zu besuchen wären, Verbindung aufzunehmen und sich dazu zu äußern, ob die Zahlung eines Geldbetrages, die Erbringung gemeinnütziger Leistungen, die Bestimmung einer Probezeit, die Übernahme bestimmter Pflichten, die Betreuung durch einen Bewährungshelfer oder ein Tatausgleich zweckmäßig wäre.
+
+`§ 208 (2) StPO.`  
+Auf begründeten Antrag des Beschuldigten kann ein nach § 200 festgesetzter Geldbetrag niedriger bemessen oder das gestellte Anbot geändert werden, wenn neu hervorgekommene oder nachträglich eingetretene Umstände ein solches Vorgehen erfordern.
+
+`§ 208 (3) StPO.`  
+Vom Rücktritt von der Verfolgung hat die Staatsanwaltschaft die Kriminalpolizei, den Beschuldigten, das Opfer und, sofern es mit dem Verfahren befasst war, das Gericht zu verständigen. Hat das Gericht das Verfahren gemäß § 199 eingestellt, obliegen die Verständigungen diesem. In der Verständigung sind die maßgebenden Umstände für die Erledigung in Schlagworten darzustellen.
+
+### § 209 StPO
+
+`§ 209 (1) StPO.`  
+Die Staatsanwaltschaft kann nach diesem Hauptstück von der Verfolgung zurücktreten, solange sie noch nicht Anklage eingebracht hat. Danach hat sie bei Gericht zu beantragen, das Verfahren einzustellen (§ 199).
+
+`§ 209 (2) StPO.`  
+Gerichtliche Beschlüsse nach diesem Hauptstück sind in der Hauptverhandlung vom erkennenden Gericht, sonst vom Vorsitzenden, in der Hauptverhandlung vor dem Geschworenengericht jedoch vom Schwurgerichtshof zu fassen. Bevor das Gericht dem Beschuldigten eine Mitteilung nach den §§ 200 Abs. 4, 201 Abs. 4, 203 Abs. 3 oder einen Beschluss, mit dem das Verfahren eingestellt wird, zustellt, hat es die Staatsanwaltschaft zu hören. Gegen einen solchen Beschluss steht nur der Staatsanwaltschaft Beschwerde zu; dem Beschuldigten ist dieser Beschluss erst dann zuzustellen, wenn er der Staatsanwaltschaft gegenüber in Rechtskraft erwachsen ist.
+
+`§ 209 (3) StPO.`  
+Solange über eine Beschwerde gegen einen Beschluss, mit dem ein Antrag auf Einstellung des Strafverfahrens nach diesem Hauptstück abgewiesen wurde, noch nicht entschieden wurde, ist die Durchführung einer Hauptverhandlung nicht zulässig. Eine Beschwerde gegen die nachträgliche Fortsetzung des Strafverfahrens hat aufschiebende Wirkung.
+
+### § 209a StPO # Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft
+
+`§ 209a (1) StPO.`  
+Der Täter einer Straftat,  
+`§ 209a (1) Z 1 StPO.`
+die der Zuständigkeit des Landesgerichts als Schöffen- oder Geschworenengericht (§ 31 Abs. 2 und 3) unterliegt,  
+`§ 209a (1) Z 2 StPO.`
+die der Zuständigkeit der WKStA (§ 20a) unterliegt oder die Kriterien des § 20b erfüllt, oder  
+`§ 209a (1) Z 3 StPO.`
+nach den §§ 277, 278, 278a oder 278b StGB oder einer Tat, die mit einer solchen Verabredung, Vereinigung oder Organisation im Zusammenhang steht,  
+hat nach Maßgabe der Abs. 2 und 3 das Recht, ein Vorgehen nach den §§ 199, 200 bis 203 und 205 bis 209 zu verlangen, wenn er freiwillig an die Staatsanwaltschaft oder die Kriminalpolizei herantritt, ein reumütiges Geständnis (§ 34 Abs. 1 Z 17 StGB) über seinen Tatbeitrag ablegt und sein Wissen über neue Tatsachen oder Beweismittel offenbart, deren Kenntnis wesentlich dazu beiträgt, die umfassende Aufklärung einer in den Z 1 bis 3 genannten Straftaten über seinen eigenen Tatbeitrag hinaus zu fördern oder eine Person auszuforschen, die an einer solchen Verabredung führend teilgenommen hat oder in einer solchen Vereinigung oder Organisation führend tätig war (Z 3).
+
+`§ 209a (2) StPO.`  
+Soweit der Täter wegen seiner Kenntnisse über in Abs. 1 genannte Taten noch nicht als Beschuldigter vernommen (§§ 48 Abs. 1 Z 2, 164, 165) und wegen dieser Taten kein Zwang gegen ihn ausgeübt wurde, hat die Staatsanwaltschaft von der Verfolgung der Straftat dieser Person vorläufig zurückzutreten, es sei denn, das Vorliegen der Voraussetzungen nach Abs. 1 ist von vornherein ausgeschlossen.
+
+`§ 209a (3) StPO.`  
+Sobald feststeht, dass die Voraussetzungen des Abs. 1 vorliegen und eine Bestrafung unter Berücksichtigung des Gewichts des Beitrags der Informationen zur Aufklärung oder Ausforschung im Verhältnis zu Art und Ausmaß seines Tatbeitrages nicht geboten erscheint, um ihn von der Begehung strafbarer Handlungen abzuhalten, hat die Staatsanwaltschaft dem Beschuldigten in sinngemäßer Anwendung der Bestimmungen der §§ 200 bis 203 und 205 bis 209 die Erbringung der dort vorgesehenen Leistungen und die weitere Zusammenarbeit bei der Aufklärung aufzutragen. Abweichend von § 200 Abs. 2 darf der zu entrichtende Geldbetrag einer Geldstrafe von 360 Tagessätzen entsprechen. Liegen jedoch die Voraussetzungen nicht vor, so hat die Staatsanwaltschaft das Verfahren fortzusetzen und bei Vorliegen der Voraussetzungen des § 41a StGB dessen Anwendung zu beantragen und dies auch dem Beschuldigten mitzuteilen.
+
+`§ 209a (4) StPO.`  
+Nach Erbringung der Leistungen hat die Staatsanwaltschaft das Ermittlungsverfahren unter dem Vorbehalt späterer Verfolgung einzustellen.
+
+`§ 209a (5) StPO.`  
+Wenn  
+`§ 209a (5) Z 1 StPO.`
+die eingegangene Verpflichtung zur Zusammenarbeit bei der Aufklärung verletzt wurde oder  
+`§ 209a (5) Z 2 StPO.`
+die zur Verfügung gestellten Unterlagen und Informationen falsch waren, keinen wesentlichen Beitrag im Sinn des Abs. 1 zu liefern vermochten oder nur zur Verschleierung der eigenen führenden Tätigkeit in einer in Abs. 1 Z 3 genannten Verabredung, Vereinigung oder Organisation gegeben wurden,  
+kann die nach Abs. 4 vorbehaltene Verfolgung wieder aufgenommen werden, es sei denn, dass die Staatsanwaltschaft die für die Wiederaufnahme erforderlichen Anordnungen nicht binnen einer Frist von vierzehn Tagen ab Zustellung der das Verfahren beendenden Entscheidung gestellt hat, in der einer der in Z 1 oder 2 umschriebenen Umstände festgestellt wurde.
+
+`§ 209a (6) StPO.`  
+Die Staatsanwaltschaft hat ihre Anordnung nach Abs. 4 dem Rechtsschutzbeauftragten samt einer Begründung für das Vorgehen zuzustellen. Der Rechtsschutzbeauftragte ist berechtigt, binnen drei Monaten die Fortführung des Verfahrens zu beantragen. Auf sein Verlangen ist ihm der Ermittlungsakt zu übersenden, in welchem Fall der Fristenlauf mit dem Einlangen des Aktes beginnt. §§ 195 Abs. 3 und 196 gelten sinngemäß.
+
+`§ 209a (7) StPO.`  
+Im Verfahren gegen Verbände nach dem Verbandsverantwortlichkeitsgesetz (VbVG), BGBl. I Nr. 151/2005, ist sinngemäß mit der Maßgabe vorzugehen, dass die Bestimmungen des § 19 Abs. 1 Z 1 bis 3 VbVG anzuwenden sind. Der zu entrichtende Geldbetrag darf abweichend von § 19 Abs. 1 Z 1 VbVG einer Verbandsgeldbuße von 100 Tagessätzen entsprechen.
+
+### § 209b StPO # Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft im Zusammenhang mit einer kartellrechtlichen Zuwiderhandlung
+
+`§ 209b (1) StPO.`  
+Der Bundeskartellanwalt hat die Staatsanwaltschaft von einem Vorgehen der Bundeswettbewerbsbehörde nach § 11b Abs. 1 oder 2 des Wettbewerbsgesetzes, BGBl. I Nr. 62/2002, oder von einem solchen Vorgehen der Europäischen Kommission oder von Wettbewerbsbehörden der anderen Mitgliedstaaten (§ 84 des Kartellgesetzes, BGBl. I Nr. 61/2005) zu verständigen, wenn es im Hinblick auf das Gewicht des Beitrags des Unternehmens zur Aufklärung einer Zuwiderhandlung im Sinne von § 11b Abs. 1 Z 3 Wettbewerbsgesetz und die aktive Mitwirkung der einzelnen Mitarbeiter daran unverhältnismäßig wäre, diese Mitarbeiter, die für das Unternehmen an einer solchen Zuwiderhandlung beteiligt waren, wegen einer durch eine solche Zuwiderhandlung begangenen Straftat zu verfolgen.
+
+`§ 209b (2) StPO.`  
+Die Staatsanwaltschaft hat sodann das Ermittlungsverfahren gegen die Mitarbeiter, die Staatsanwaltschaft und Gericht ihr gesamtes Wissen über die eigenen Taten und andere Tatsachen, die für die Aufklärung der durch die Zuwiderhandlung begangenen Straftaten von Bedeutung sind, offenbart haben, unter dem Vorbehalt späterer Verfolgung einzustellen. § 209a Abs. 5 und 6 gelten sinngemäß.
+
+`END-OF-DATA-FILE`

@@ -87,9 +87,12 @@ Hat die Tat eine der im § 170 Abs. 2 genannten Folgen, so sind die dort anged
 
 `§ 177a (1) StGB.`  
 Wer zur Massenvernichtung bestimmte und geeignete nukleare, radiologische, biologische oder chemische Kampfmittel  
-`§ 177a (1) Z 1 StGB.` herstellt, verarbeitet oder zum Zweck der Herstellung entwickelt,  
-`§ 177a (1) Z 2 StGB.` in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt oder  
-`§ 177a (1) Z 3 StGB.` erwirbt, besitzt oder einem anderen überläßt oder verschafft,  
+`§ 177a (1) Z 1 StGB.`
+herstellt, verarbeitet oder zum Zweck der Herstellung entwickelt,  
+`§ 177a (1) Z 2 StGB.`
+in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt oder  
+`§ 177a (1) Z 3 StGB.`
+erwirbt, besitzt oder einem anderen überläßt oder verschafft,  
 ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 `§ 177a (2) StGB.`  
@@ -102,10 +105,14 @@ Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Kernmateria
 
 `§ 177b (2) StGB.`  
 Ebenso ist zu bestrafen, wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag radioaktive Stoffe oder Strahleneinrichtungen so herstellt, bearbeitet, verarbeitet, verwendet, besitzt, beseitigt, befördert, in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt, dass dadurch  
-`§ 177b (2) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
-`§ 177b (2) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
-`§ 177b (2) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
-`§ 177b (2) Z 4 StGB.` ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
+`§ 177b (2) Z 1 StGB.`
+eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
+`§ 177b (2) Z 2 StGB.`
+eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
+`§ 177b (2) Z 3 StGB.`
+eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
+`§ 177b (2) Z 4 StGB.`
+ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
 entstehen kann.
 
 `§ 177b (3) StGB.`  
@@ -128,17 +135,17 @@ Wird durch die Tat die im § 171 Abs. 1 genannte Gefahr herbeigeführt, der Ti
 ### § 177d StGB # Vorsätzlicher unerlaubter Umgang mit Stoffen, die zum Abbau der Ozonschicht beitragen
 
 `§ 177d StGB.`  
- Wer Stoffe, die zum Abbau der Ozonschicht beitragen, entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag herstellt, einführt, ausführt, in Verkehr setzt oder verwendet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+Wer Stoffe, die zum Abbau der Ozonschicht beitragen, entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag herstellt, einführt, ausführt, in Verkehr setzt oder verwendet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 ### § 177e StGB # Grob fahrlässiger unerlaubter Umgang mit Stoffen, die zum Abbau der Ozonschicht beitragen
 
 `§ 177e StGB.`  
- Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 177d mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 177d mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 178 StGB # Vorsätzliche Gefährdung von Menschen durch übertragbare Krankheiten
 
 `§ 178 StGB.`  
- Wer eine Handlung begeht, die geeignet ist, die Gefahr der Verbreitung einer übertragbaren Krankheit unter Menschen herbeizuführen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wenn die Krankheit ihrer Art nach zu den wenn auch nur beschränkt anzeige- oder meldepflichtigen Krankheiten gehört.
+Wer eine Handlung begeht, die geeignet ist, die Gefahr der Verbreitung einer übertragbaren Krankheit unter Menschen herbeizuführen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wenn die Krankheit ihrer Art nach zu den wenn auch nur beschränkt anzeige- oder meldepflichtigen Krankheiten gehört.
 
 ### Fahrlässige Gefährdung von Menschen durch übertragbare Krankheiten
 **FIXME** P: <p class="Abstand AlignLeft"></p>
@@ -146,16 +153,20 @@ Wird durch die Tat die im § 171 Abs. 1 genannte Gefahr herbeigeführt, der Ti
 ### § 179 StGB
 
 `§ 179 StGB.`  
- Wer die im § 178 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+Wer die im § 178 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 ### § 180 StGB # Vorsätzliche Beeinträchtigung der Umwelt
 
 `§ 180 (1) StGB.`  
 Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag ein Gewässer, den Boden oder die Luft so verunreinigt oder sonst beeinträchtigt, dass dadurch  
-`§ 180 (1) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
-`§ 180 (1) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
-`§ 180 (1) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
-`§ 180 (1) Z 4 StGB.` ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt,  
+`§ 180 (1) Z 1 StGB.`
+eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
+`§ 180 (1) Z 2 StGB.`
+eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
+`§ 180 (1) Z 3 StGB.`
+eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
+`§ 180 (1) Z 4 StGB.`
+ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt,  
 entstehen kann, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 `§ 180 (2) StGB.`  
@@ -172,16 +183,20 @@ Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine la
 ### § 181a StGB # Schwere Beeinträchtigung durch Lärm
 
 `§ 181a StGB.`  
- Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Lärm in einem solchen Ausmaß oder unter solchen Umständen erzeugt, daß die Tat eine nachhaltige und schwere Beeinträchtigung des körperlichen Befindens vieler Menschen nach sich zieht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Lärm in einem solchen Ausmaß oder unter solchen Umständen erzeugt, daß die Tat eine nachhaltige und schwere Beeinträchtigung des körperlichen Befindens vieler Menschen nach sich zieht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 181b StGB # Vorsätzliches umweltgefährdendes Behandeln und Verbringen von Abfällen
 
 `§ 181b (1) StGB.`  
 Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Abfälle so sammelt, befördert, verwertet, beseitigt, diese Tätigkeiten betrieblich überwacht oder so kontrolliert, dass dadurch  
-`§ 181b (1) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
-`§ 181b (1) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
-`§ 181b (1) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
-`§ 181b (1) Z 4 StGB.` ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
+`§ 181b (1) Z 1 StGB.`
+eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
+`§ 181b (1) Z 2 StGB.`
+eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
+`§ 181b (1) Z 3 StGB.`
+eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
+`§ 181b (1) Z 4 StGB.`
+ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
 entstehen kann, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 181b (2) StGB.`  
@@ -205,10 +220,14 @@ Wer außer den Fällen der Abs. 1 und 2 grob fahrlässig (§ 6 Abs. 3) Abfäl
 
 `§ 181d (1) StGB.`  
 Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine Anlage, in der eine gefährliche Tätigkeit durchgeführt wird, so betreibt, dass dadurch  
-`§ 181d (1) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
-`§ 181d (1) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
-`§ 181d (1) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
-`§ 181d (1) Z 4 StGB.` ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
+`§ 181d (1) Z 1 StGB.`
+eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
+`§ 181d (1) Z 2 StGB.`
+eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
+`§ 181d (1) Z 3 StGB.`
+eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
+`§ 181d (1) Z 4 StGB.`
+ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
 entstehen kann, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 181d (2) StGB.`  
@@ -233,7 +252,7 @@ Geschützte wildlebende Tierarten sind die in Anhang IV lit. a) der Richtlinie
 ### § 181g StGB # Grob fahrlässige Schädigung des Tier- oder Pflanzenbestandes
 
 `§ 181g StGB.`  
- Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 181f mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 181f mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 ### § 181h StGB # Vorsätzliche Schädigung von Lebensräumen in geschützten Gebieten
 
@@ -246,14 +265,16 @@ Lebensraum innerhalb eines geschützten Gebiets ist jeder Lebensraum einer Art, 
 ### § 181i StGB # Grob fahrlässige Schädigung von Lebensräumen in geschützten Gebieten
 
 `§ 181i StGB.`  
- Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag die im § 181h mit Strafe bedrohte Handlung begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag die im § 181h mit Strafe bedrohte Handlung begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 ### § 182 StGB # Andere Gefährdungen des Tier- oder Pflanzenbestandes
 
 `§ 182 (1) StGB.`  
 Wer eine Handlung begeht, die geeignet ist,  
-`§ 182 (1) Z 1 StGB.` die Gefahr der Verbreitung einer Seuche unter Tieren herbeizuführen oder  
-`§ 182 (1) Z 2 StGB.` die Gefahr der Verbreitung eines für den Tier- oder Pflanzenbestand gefährlichen Krankheitserregers oder Schädlings herbeizuführen,  
+`§ 182 (1) Z 1 StGB.`
+die Gefahr der Verbreitung einer Seuche unter Tieren herbeizuführen oder  
+`§ 182 (1) Z 2 StGB.`
+die Gefahr der Verbreitung eines für den Tier- oder Pflanzenbestand gefährlichen Krankheitserregers oder Schädlings herbeizuführen,  
 ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 182 (2) StGB.`  
@@ -262,7 +283,7 @@ Ebenso ist zu bestrafen, wer entgegen einer Rechtsvorschrift oder einem behördl
 ### § 183 StGB # Fahrlässige Gefährdung des Tier- oder Pflanzenbestandes
 
 `§ 183 StGB.`  
- Wer eine der im § 182 mit Strafe bedrohten Handlungen fahrlässig begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer eine der im § 182 mit Strafe bedrohten Handlungen fahrlässig begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 183a StGB # Irrtum über Rechtsvorschriften und behördliche Aufträge
 
@@ -283,7 +304,7 @@ Wegen einer der in den §§ 180, 181 und 181b bis 183 mit Strafe bedrohten Hand
 ### § 184 StGB # Kurpfuscherei
 
 `§ 184 StGB.`  
- Wer, ohne die zur Ausübung des ärztlichen Berufes erforderliche Ausbildung erhalten zu haben, eine Tätigkeit, die den Ärzten vorbehalten ist, in bezug auf eine größere Zahl von Menschen gewerbsmäßig ausübt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+Wer, ohne die zur Ausübung des ärztlichen Berufes erforderliche Ausbildung erhalten zu haben, eine Tätigkeit, die den Ärzten vorbehalten ist, in bezug auf eine größere Zahl von Menschen gewerbsmäßig ausübt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
 
 ### § 185 StGB # Luftpiraterie
 
@@ -297,15 +318,20 @@ Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen (§ 84 Abs.
 
 `§ 186 (1) StGB.`  
 Wer auf solche Weise, daß dadurch die Sicherheit eines Luftfahrzeuges im Flug gefährdet werden kann,  
-`§ 186 (1) Z 1 StGB.` gegen eine an Bord des Luftfahrzeuges befindliche Person Gewalt übt oder ihr mit Gewalt droht,  
-`§ 186 (1) Z 2 StGB.` das im Einsatz befindliche Luftfahrzeug beschädigt oder  
-`§ 186 (1) Z 3 StGB.` Einrichtungen der Luftfahrt zerstört, beschädigt oder in ihrem Betrieb beeinträchtigt,  
+`§ 186 (1) Z 1 StGB.`
+gegen eine an Bord des Luftfahrzeuges befindliche Person Gewalt übt oder ihr mit Gewalt droht,  
+`§ 186 (1) Z 2 StGB.`
+das im Einsatz befindliche Luftfahrzeug beschädigt oder  
+`§ 186 (1) Z 3 StGB.`
+Einrichtungen der Luftfahrt zerstört, beschädigt oder in ihrem Betrieb beeinträchtigt,  
 ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 `§ 186 (2) StGB.`  
 Ebenso ist zu bestrafen,  
-`§ 186 (2) Z 1 StGB.` wer ein im Einsatz befindliches Luftfahrzeug zerstört oder derart beschädigt, daß es flugunfähig wird, oder  
-`§ 186 (2) Z 2 StGB.` wer durch eine wissentlich unrichtige Mitteilung eine Gefahr für die Sicherheit eines Luftfahrzeuges im Flug herbeiführt.
+`§ 186 (2) Z 1 StGB.`
+wer ein im Einsatz befindliches Luftfahrzeug zerstört oder derart beschädigt, daß es flugunfähig wird, oder  
+`§ 186 (2) Z 2 StGB.`
+wer durch eine wissentlich unrichtige Mitteilung eine Gefahr für die Sicherheit eines Luftfahrzeuges im Flug herbeiführt.
 
 `§ 186 (3) StGB.`  
 Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen (§ 84 Abs. 1) einer größeren Zahl von Menschen zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
@@ -313,6 +339,6 @@ Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen (§ 84 Abs.
 ### § 187 StGB # Hinderung der Bekämpfung einer Gemeingefahr
 
 `§ 187 StGB.`  
- Wer eine Maßnahme, die zur Abwendung einer gegenwärtigen Gefahr für Leib oder Leben (§ 89) einer größeren Zahl von Menschen oder für fremdes Eigentum in großem Ausmaß notwendig ist, vereitelt oder erschwert, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+Wer eine Maßnahme, die zur Abwendung einer gegenwärtigen Gefahr für Leib oder Leben (§ 89) einer größeren Zahl von Menschen oder für fremdes Eigentum in großem Ausmaß notwendig ist, vereitelt oder erschwert, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 `END-OF-DATA-FILE`

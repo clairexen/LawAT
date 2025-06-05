@@ -11,7 +11,7 @@
 ### § 188 StGB # Herabwürdigung religiöser Lehren
 
 `§ 188 StGB.`  
- Wer öffentlich eine Person oder eine Sache, die den Gegenstand der Verehrung einer im Inland bestehenden Kirche oder Religionsgesellschaft bildet, oder eine Glaubenslehre, einen gesetzlich zulässigen Brauch oder eine gesetzlich zulässige Einrichtung einer solchen Kirche oder Religionsgesellschaft unter Umständen herabwürdigt oder verspottet, unter denen sein Verhalten geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer öffentlich eine Person oder eine Sache, die den Gegenstand der Verehrung einer im Inland bestehenden Kirche oder Religionsgesellschaft bildet, oder eine Glaubenslehre, einen gesetzlich zulässigen Brauch oder eine gesetzlich zulässige Einrichtung einer solchen Kirche oder Religionsgesellschaft unter Umständen herabwürdigt oder verspottet, unter denen sein Verhalten geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 189 StGB # Störung einer Religionsübung
 
@@ -20,9 +20,12 @@ Wer mit Gewalt oder durch Drohung mit Gewalt den gesetzlich zulässigen Gottesdi
 
 `§ 189 (2) StGB.`  
 Wer  
-`§ 189 (2) Z 1 StGB.` an einem Ort, der der gesetzlich zulässigen Religionsübung einer im Inland bestehenden Kirche oder Religionsgesellschaft gewidmet ist,  
-`§ 189 (2) Z 2 StGB.` bei dem gesetzlich zulässigen öffentlichen Gottesdienst oder einzelnen gesetzlich zulässigen öffentlichen gottesdienstlichen Handlungen einer im Inland bestehenden Kirche oder Religionsgesellschaft oder  
-`§ 189 (2) Z 3 StGB.` mit einem dem gesetzlich zulässigen Gottesdienst einer im Inland bestehenden Kirche oder Religionsgesellschaft unmittelbar gewidmeten Gegenstand  
+`§ 189 (2) Z 1 StGB.`
+an einem Ort, der der gesetzlich zulässigen Religionsübung einer im Inland bestehenden Kirche oder Religionsgesellschaft gewidmet ist,  
+`§ 189 (2) Z 2 StGB.`
+bei dem gesetzlich zulässigen öffentlichen Gottesdienst oder einzelnen gesetzlich zulässigen öffentlichen gottesdienstlichen Handlungen einer im Inland bestehenden Kirche oder Religionsgesellschaft oder  
+`§ 189 (2) Z 3 StGB.`
+mit einem dem gesetzlich zulässigen Gottesdienst einer im Inland bestehenden Kirche oder Religionsgesellschaft unmittelbar gewidmeten Gegenstand  
 auf eine Weise Unfug treibt, die geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 190 StGB # Störung der Totenruhe
@@ -36,13 +39,14 @@ Wer Schmuck von einer Beisetzungs-, Aufbahrungs- oder Totengedenkstätte entfern
 ### § 191 StGB # Störung einer Bestattungsfeier
 
 `§ 191 StGB.`  
- Wer wissentlich eine Bestattungsfeier durch einen Lärm, der geeignet ist, berechtigtes Ärgernis zu erregen, oder durch ein anderes solches Verhalten stört, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+Wer wissentlich eine Bestattungsfeier durch einen Lärm, der geeignet ist, berechtigtes Ärgernis zu erregen, oder durch ein anderes solches Verhalten stört, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+
 ## Neunter Abschnitt # Strafbare Handlungen gegen Ehe und Familie
 
 ### § 192 StGB # Mehrfache Ehe oder eingetragene Partnerschaft
 
 `§ 192 StGB.`  
- Wer eine neue Ehe schließt oder eine eingetragene Partnerschaft begründet, obwohl er verheiratet ist oder eine eingetragene Partnerschaft führt, oder wer mit einer verheirateten Person oder einer Person, die eine eingetragene Partnerschaft führt, eine Ehe schließt oder eine eingetragene Partnerschaft begründet, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+Wer eine neue Ehe schließt oder eine eingetragene Partnerschaft begründet, obwohl er verheiratet ist oder eine eingetragene Partnerschaft führt, oder wer mit einer verheirateten Person oder einer Person, die eine eingetragene Partnerschaft führt, eine Ehe schließt oder eine eingetragene Partnerschaft begründet, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 ### § 193 StGB # Ehetäuschung
 
@@ -67,8 +71,10 @@ Der Täter ist nur dann zu bestrafen, wenn die eingetragene Partnerschaft wegen 
 
 `§ 194 (1) StGB.`  
 Wer  
-`§ 194 (1) Z 1 StGB.` bewirkt, dass eine zustimmungsberechtigte Person gegen Gewährung eines Vorteils für sich oder einen Dritten der Adoption einer minderjährigen Person durch eine andere Person zustimmt, oder  
-`§ 194 (1) Z 2 StGB.` sonst als Vermittler die Zustimmung einer zustimmungsberechtigten Person zur Adoption einer minderjährigen Person entgegen Art. 4 des Haager Übereinkommens über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption, BGBl. III 145/1999, herbeiführt,  
+`§ 194 (1) Z 1 StGB.`
+bewirkt, dass eine zustimmungsberechtigte Person gegen Gewährung eines Vorteils für sich oder einen Dritten der Adoption einer minderjährigen Person durch eine andere Person zustimmt, oder  
+`§ 194 (1) Z 2 StGB.`
+sonst als Vermittler die Zustimmung einer zustimmungsberechtigten Person zur Adoption einer minderjährigen Person entgegen Art. 4 des Haager Übereinkommens über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption, BGBl. III 145/1999, herbeiführt,  
 ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 194 (2) StGB.`  
@@ -119,12 +125,13 @@ Der Täter ist nicht nach Abs. 1 zu bestrafen, wenn er bis zum Schluss der Verh
 ### § 199 StGB # Vernachlässigung der Pflege, Erziehung oder Beaufsichtigung
 
 `§ 199 StGB.`  
- Wer die ihm auf Grund eines Gesetzes obliegende Pflege, Erziehung oder Beaufsichtigung einer minderjährigen Person gröblich vernachlässigt und dadurch, wenn auch nur fahrlässig, deren Verwahrlosung bewirkt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer die ihm auf Grund eines Gesetzes obliegende Pflege, Erziehung oder Beaufsichtigung einer minderjährigen Person gröblich vernachlässigt und dadurch, wenn auch nur fahrlässig, deren Verwahrlosung bewirkt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 200 StGB # Unterschiebung eines Kindes
 
 `§ 200 StGB.`  
- Wer ein Kind unterschiebt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+Wer ein Kind unterschiebt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
 ## Zehnter Abschnitt # Strafbare Handlungen gegen die sexuelle Integrität und Selbstbestimmung
 
 ### § 201 StGB # Vergewaltigung
@@ -194,8 +201,10 @@ Hat die Tat eine schwere Körperverletzung (§ 84 Abs. 1) zur Folge oder wird 
 
 `§ 207a (1) StGB.`  
 Wer eine Abbildung oder Darstellung nach Abs. 4  
-`§ 207a (1) Z 1 StGB.` herstellt oder  
-`§ 207a (1) Z 2 StGB.` einem anderen anbietet, verschafft, überlässt, vorführt oder sonst zugänglich macht,  
+`§ 207a (1) Z 1 StGB.`
+herstellt oder  
+`§ 207a (1) Z 2 StGB.`
+einem anderen anbietet, verschafft, überlässt, vorführt oder sonst zugänglich macht,  
 ist mit Freiheitsstrafe von sechs Monaten bis zu drei Jahren zu bestrafen.
 
 `§ 207a (1a) StGB.`  
@@ -218,27 +227,33 @@ Wer die Tat nach Abs. 3 oder Abs. 3a in Bezug auf viele Abbildungen oder Darst
 
 `§ 207a (4) StGB.`  
 Bildliches sexualbezogenes Kindesmissbrauchsmaterial und bildliche sexualbezogene Darstellungen minderjähriger Personen sind eine oder mehrere  
-`§ 207a (4) Z 1 StGB.` wirklichkeitsnahe Abbildungen einer geschlechtlichen Handlung an einer unmündigen Person oder einer unmündigen Person an sich selbst, an einer anderen Person oder mit einem Tier,  
-`§ 207a (4) Z 2 StGB.` wirklichkeitsnahe Abbildungen eines Geschehens mit einer unmündigen Person, dessen Betrachtung nach den Umständen den Eindruck vermittelt, dass es sich dabei um eine geschlechtliche Handlung an der unmündigen Person oder der unmündigen Person an sich selbst, an einer anderen Person oder mit einem Tier handelt,  
-`§ 207a (4) Z 3 StGB.` wirklichkeitsnahe Abbildungen
-a)
-einer geschlechtlichen Handlung im Sinne der Z 1 oder eines Geschehens im Sinne der Z 2, jedoch mit mündigen Minderjährigen, oder
-b)
-der Genitalien oder der Schamgegend Minderjähriger,
-soweit es sich um reißerisch verzerrte, auf sich selbst reduzierte und von anderen Lebensäußerungen losgelöste Abbildungen handelt, die der sexuellen Erregung des Betrachters dienen;
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">einer geschlechtlichen Handlung im Sinne der Z&nbsp;1 oder eines Geschehens im Sinne der Z&nbsp;2, jedoch mit mündigen Minderjährigen, oder</span></div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Genitalien oder der Schamgegend Minderjähriger,</div></div>  
-`§ 207a (4) Z 4 StGB.` bildliche Darstellungen, deren Betrachtung – zufolge Veränderung einer Abbildung oder ohne Verwendung einer solchen – nach den Umständen den Eindruck vermittelt, es handle sich um eine Abbildung nach den Z 1 bis 3.
+`§ 207a (4) Z 1 StGB.`
+wirklichkeitsnahe Abbildungen einer geschlechtlichen Handlung an einer unmündigen Person oder einer unmündigen Person an sich selbst, an einer anderen Person oder mit einem Tier,  
+`§ 207a (4) Z 2 StGB.`
+wirklichkeitsnahe Abbildungen eines Geschehens mit einer unmündigen Person, dessen Betrachtung nach den Umständen den Eindruck vermittelt, dass es sich dabei um eine geschlechtliche Handlung an der unmündigen Person oder der unmündigen Person an sich selbst, an einer anderen Person oder mit einem Tier handelt,  
+`§ 207a (4) Z 3 StGB.`
+wirklichkeitsnahe Abbildungen  
+`§ 207a (4) Z 3 lit. a) StGB.`
+einer geschlechtlichen Handlung im Sinne der Z 1 oder eines Geschehens im Sinne der Z 2, jedoch mit mündigen Minderjährigen, oder  
+`§ 207a (4) Z 3 lit. b) StGB.`
+der Genitalien oder der Schamgegend Minderjähriger,  
+soweit es sich um reißerisch verzerrte, auf sich selbst reduzierte und von anderen Lebensäußerungen losgelöste Abbildungen handelt, die der sexuellen Erregung des Betrachters dienen;  
+`§ 207a (4) Z 4 StGB.`
+bildliche Darstellungen, deren Betrachtung – zufolge Veränderung einer Abbildung oder ohne Verwendung einer solchen – nach den Umständen den Eindruck vermittelt, es handle sich um eine Abbildung nach den Z 1 bis 3.
 
 `§ 207a (5) StGB.`  
 Nach Abs. 1, Abs. 1a, Abs. 3, Abs. 3a und Abs. 3b ist nicht zu bestrafen, wer  
-`§ 207a (5) Z 1 StGB.` eine Abbildung einer mündigen minderjährigen Person nach Abs. 4 Z 3 mit deren Einwilligung und zu deren oder seinem eigenen Gebrauch herstellt oder besitzt oder  
-`§ 207a (5) Z 2 StGB.` eine Darstellung einer mündigen minderjährigen Person nach Abs. 4 Z 4 zu seinem eigenen Gebrauch herstellt oder besitzt, sofern mit der Tat keine Gefahr der Verbreitung der Darstellung verbunden ist.
+`§ 207a (5) Z 1 StGB.`
+eine Abbildung einer mündigen minderjährigen Person nach Abs. 4 Z 3 mit deren Einwilligung und zu deren oder seinem eigenen Gebrauch herstellt oder besitzt oder  
+`§ 207a (5) Z 2 StGB.`
+eine Darstellung einer mündigen minderjährigen Person nach Abs. 4 Z 4 zu seinem eigenen Gebrauch herstellt oder besitzt, sofern mit der Tat keine Gefahr der Verbreitung der Darstellung verbunden ist.
 
 `§ 207a (6) StGB.`  
 Nicht zu bestrafen ist ferner, wer  
-`§ 207a (6) Z 1 StGB.` in den Fällen des Abs. 1, Abs. 1a, Abs. 2 erster Fall, Abs. 2a in Verbindung mit Abs. 2 erster Fall, Abs. 3 und Abs. 3b eine Abbildung oder Darstellung einer mündigen minderjährigen Person nach Abs. 4 Z 3 oder 4 von sich selbst herstellt, besitzt, oder anderen zu deren eigenem Gebrauch anbietet, verschafft, überlässt, vorführt oder sonst zugänglich macht oder  
-`§ 207a (6) Z 2 StGB.` eine Abbildung oder Darstellung einer unmündigen minderjährigen Person nach Abs. 4 von sich selbst besitzt.
+`§ 207a (6) Z 1 StGB.`
+in den Fällen des Abs. 1, Abs. 1a, Abs. 2 erster Fall, Abs. 2a in Verbindung mit Abs. 2 erster Fall, Abs. 3 und Abs. 3b eine Abbildung oder Darstellung einer mündigen minderjährigen Person nach Abs. 4 Z 3 oder 4 von sich selbst herstellt, besitzt, oder anderen zu deren eigenem Gebrauch anbietet, verschafft, überlässt, vorführt oder sonst zugänglich macht oder  
+`§ 207a (6) Z 2 StGB.`
+eine Abbildung oder Darstellung einer unmündigen minderjährigen Person nach Abs. 4 von sich selbst besitzt.
 
 ### § 207b StGB # Sexueller Missbrauch von Jugendlichen
 
@@ -269,8 +284,10 @@ Wer, um sich oder einen Dritten geschlechtlich zu erregen oder zu befriedigen, b
 
 `§ 208a (1) StGB.`  
 Wer einer unmündigen Person in der Absicht, an ihr eine strafbare Handlung nach den §§ 201 bis 207a Abs. 1 Z 1 zu begehen,  
-`§ 208a (1) Z 1 StGB.` im Wege einer Telekommunikation, unter Verwendung eines Computersystems oder  
-`§ 208a (1) Z 2 StGB.` auf sonstige Art unter Täuschung über seine Absicht  
+`§ 208a (1) Z 1 StGB.`
+im Wege einer Telekommunikation, unter Verwendung eines Computersystems oder  
+`§ 208a (1) Z 2 StGB.`
+auf sonstige Art unter Täuschung über seine Absicht  
 ein persönliches Treffen vorschlägt oder ein solches mit ihr vereinbart und eine konkrete Vorbereitungshandlung zur Durchführung des persönlichen Treffens mit dieser Person setzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 208a (1a) StGB.`  
@@ -297,15 +314,20 @@ Wer zur Zeit der Tat das neunzehnte Lebensjahr noch nicht vollendet hat, ist weg
 
 `§ 212 (1) StGB.`  
 Wer  
-`§ 212 (1) Z 1 StGB.` mit einer mit ihm in absteigender Linie verwandten minderjährigen Person, seinem minderjährigen Wahlkind, Stiefkind oder Mündel oder  
-`§ 212 (1) Z 2 StGB.` mit einer minderjährigen Person, die seiner Erziehung, Ausbildung oder Aufsicht untersteht, unter Ausnützung seiner Stellung gegenüber dieser Person  
+`§ 212 (1) Z 1 StGB.`
+mit einer mit ihm in absteigender Linie verwandten minderjährigen Person, seinem minderjährigen Wahlkind, Stiefkind oder Mündel oder  
+`§ 212 (1) Z 2 StGB.`
+mit einer minderjährigen Person, die seiner Erziehung, Ausbildung oder Aufsicht untersteht, unter Ausnützung seiner Stellung gegenüber dieser Person  
 eine geschlechtliche Handlung vornimmt oder von einer solchen Person an sich vornehmen lässt oder, um sich oder einen Dritten geschlechtlich zu erregen oder zu befriedigen, dazu verleitet, eine geschlechtliche Handlung an sich selbst vorzunehmen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 `§ 212 (2) StGB.`  
 Ebenso ist zu bestrafen, wer  
-`§ 212 (2) Z 1 StGB.` als Angehöriger eines gesetzlich geregelten Gesundheitsberufes oder Seelsorger mit einer berufsmäßig betreuten Person,  
-`§ 212 (2) Z 2 StGB.` als Angestellter einer Erziehungsanstalt oder sonst als in einer Erziehungsanstalt Beschäftigter mit einer in der Anstalt betreuten Person oder  
-`§ 212 (2) Z 3 StGB.` als Beamter mit einer Person, die seiner amtlichen Obhut anvertraut ist,  
+`§ 212 (2) Z 1 StGB.`
+als Angehöriger eines gesetzlich geregelten Gesundheitsberufes oder Seelsorger mit einer berufsmäßig betreuten Person,  
+`§ 212 (2) Z 2 StGB.`
+als Angestellter einer Erziehungsanstalt oder sonst als in einer Erziehungsanstalt Beschäftigter mit einer in der Anstalt betreuten Person oder  
+`§ 212 (2) Z 3 StGB.`
+als Beamter mit einer Person, die seiner amtlichen Obhut anvertraut ist,  
 unter Ausnützung seiner Stellung dieser Person gegenüber eine geschlechtliche Handlung vornimmt oder von einer solchen Person an sich vornehmen lässt oder, um sich oder einen Dritten geschlechtlich zu erregen oder zu befriedigen, dazu verleitet, eine geschlechtliche Handlung an sich selbst vorzunehmen.
 
 `§ 212 (3) StGB.`  
@@ -330,7 +352,7 @@ Wer außer dem Fall des Abs. 1 die persönliche Annäherung einer minderjährig
 ### § 215 StGB # Zuführen zur Prostitution
 
 `§ 215 StGB.`  
- Wer eine Person der Prostitution zuführt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+Wer eine Person der Prostitution zuführt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 ### § 215a StGB # Förderung der Prostitution und pornographischer Darbietungen Minderjähriger
 
@@ -372,8 +394,10 @@ Wer eine Person (Abs. 1) mit dem Vorsatz, daß sie in einem anderen Staat als i
 
 `§ 218 (1) StGB.`  
 Wer eine Person durch eine geschlechtliche Handlung  
-`§ 218 (1) Z 1 StGB.` an ihr oder  
-`§ 218 (1) Z 2 StGB.` vor ihr unter Umständen, unter denen dies geeignet ist, berechtigtes Ärgernis zu erregen,  
+`§ 218 (1) Z 1 StGB.`
+an ihr oder  
+`§ 218 (1) Z 2 StGB.`
+vor ihr unter Umständen, unter denen dies geeignet ist, berechtigtes Ärgernis zu erregen,  
 belästigt, ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 `§ 218 (1a) StGB.`  
@@ -394,7 +418,7 @@ Im Falle der Abs. 1 und 1a ist der Täter nur mit Ermächtigung der verletzten 
 ### § 219 StGB # Ankündigung zur Herbeiführung unzüchtigen Verkehrs
 
 `§ 219 StGB.`  
- Wer öffentlich eine Ankündigung erläßt, die bestimmt ist, unzüchtigen Verkehr herbeizuführen, und die nach ihrem Inhalt geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer öffentlich eine Ankündigung erläßt, die bestimmt ist, unzüchtigen Verkehr herbeizuführen, und die nach ihrem Inhalt geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 220b StGB # Tätigkeitsverbot
 

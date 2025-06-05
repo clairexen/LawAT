@@ -12,9 +12,12 @@
 
 `§ 222 (1) StGB.`  
 Wer ein Tier  
-`§ 222 (1) Z 1 StGB.` roh misshandelt oder ihm unnötige Qualen zufügt,  
-`§ 222 (1) Z 2 StGB.` aussetzt, obwohl es in der Freiheit zu leben unfähig ist, oder  
-`§ 222 (1) Z 3 StGB.` mit dem Vorsatz, dass ein Tier Qualen erleide, auf ein anderes Tier hetzt,  
+`§ 222 (1) Z 1 StGB.`
+roh misshandelt oder ihm unnötige Qualen zufügt,  
+`§ 222 (1) Z 2 StGB.`
+aussetzt, obwohl es in der Freiheit zu leben unfähig ist, oder  
+`§ 222 (1) Z 3 StGB.`
+mit dem Vorsatz, dass ein Tier Qualen erleide, auf ein anderes Tier hetzt,  
 ist mit Freiheitsstrafe bis zu zwei Jahre zu bestrafen.
 
 `§ 222 (2) StGB.`  
@@ -22,6 +25,7 @@ Ebenso ist zu bestrafen, wer, wenn auch nur fahrlässig, im Zusammenhang mit der
 
 `§ 222 (3) StGB.`  
 Ebenso ist zu bestrafen, wer ein Wirbeltier mutwillig tötet.
+
 ## Zwölfter Abschnitt # Strafbare Handlungen gegen die Zuverlässigkeit von Urkunden und Beweiszeichen
 
 ### § 223 StGB # Urkundenfälschung
@@ -35,12 +39,12 @@ Ebenso ist zu bestrafen, wer eine falsche oder verfälschte Urkunde im Rechtsver
 ### § 224 StGB # Fälschung besonders geschützter Urkunden
 
 `§ 224 StGB.`  
- Wer eine der im § 223 mit Strafe bedrohten Handlungen in Beziehung auf eine inländische öffentliche Urkunde, eine ausländische öffentliche Urkunde, wenn sie durch Gesetz oder zwischenstaatlichen Vertrag inländischen öffentlichen Urkunden gleichgestellt ist, eine letztwillige Verfügung oder ein nicht im § 237 genanntes Wertpapier begeht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+Wer eine der im § 223 mit Strafe bedrohten Handlungen in Beziehung auf eine inländische öffentliche Urkunde, eine ausländische öffentliche Urkunde, wenn sie durch Gesetz oder zwischenstaatlichen Vertrag inländischen öffentlichen Urkunden gleichgestellt ist, eine letztwillige Verfügung oder ein nicht im § 237 genanntes Wertpapier begeht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 ### § 224a StGB # Annahme, Weitergabe oder Besitz falscher oder verfälschter besonders geschützter Urkunden
 
 `§ 224a StGB.`  
- Wer eine falsche oder verfälschte besonders geschützte Urkunde (§ 224) mit dem Vorsatz, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+Wer eine falsche oder verfälschte besonders geschützte Urkunde (§ 224) mit dem Vorsatz, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 ### § 225 StGB # Fälschung öffentlicher Beglaubigungszeichen
 
@@ -56,7 +60,7 @@ Als öffentliches Beglaubigungszeichen gilt jedes Zeichen, das ein Beamter inner
 ### § 225a StGB # Datenfälschung
 
 `§ 225a StGB.`  
- Wer durch Eingabe, Veränderung, Löschung oder Unterdrückung von Daten falsche Daten mit dem Vorsatz herstellt oder echte Daten mit dem Vorsatz verfälscht, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werden, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+Wer durch Eingabe, Veränderung, Löschung oder Unterdrückung von Daten falsche Daten mit dem Vorsatz herstellt oder echte Daten mit dem Vorsatz verfälscht, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werden, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 ### § 226 StGB # Tätige Reue
 
@@ -111,6 +115,7 @@ Ebenso ist zu bestrafen, wer einem anderen einen amtlichen Ausweis mit dem Vorsa
 
 `§ 231 (3) StGB.`  
 Nach Abs. 2 ist nicht zu bestrafen, wer freiwillig den Ausweis, bevor ihn ein Nichtberechtigter im Rechtsverkehr gebraucht hat, zurücknimmt oder auf andere Art die Gefahr beseitigt, daß der amtliche Ausweis in der im Abs. 2 bezeichneten Weise gebraucht werde.
+
 ## Dreizehnter Abschnitt # Strafbare Handlungen gegen die Sicherheit des Verkehrs mit Geld, Wertpapieren, Wertzeichen und unbaren Zahlungsmitteln
 
 ### § 232 StGB # Geldfälschung
@@ -128,8 +133,10 @@ Als Nachmachen von Geld gilt auch die Herstellung unter Nutzung der zur rechtmä
 
 `§ 233 (1) StGB.`  
 Wer nachgemachtes oder verfälschtes Geld  
-`§ 233 (1) Z 1 StGB.` mit dem Vorsatz, dass es als echt und unverfälscht ausgegeben werde, einführt, ausführt, befördert, außer dem im § 232 Abs. 2 genannten Fall von einem anderen übernimmt, sich sonst verschafft oder besitzt oder  
-`§ 233 (1) Z 2 StGB.` als echt und unverfälscht ausgibt,  
+`§ 233 (1) Z 1 StGB.`
+mit dem Vorsatz, dass es als echt und unverfälscht ausgegeben werde, einführt, ausführt, befördert, außer dem im § 232 Abs. 2 genannten Fall von einem anderen übernimmt, sich sonst verschafft oder besitzt oder  
+`§ 233 (1) Z 2 StGB.`
+als echt und unverfälscht ausgibt,  
 ist mit Freiheitsstrafe bis zu fünf Jahren zu bestrafen.
 
 `§ 233 (2) StGB.`  
@@ -142,14 +149,16 @@ Wer eine Geldmünze mit dem Vorsatz verringert, daß sie als vollwertig ausgegeb
 
 `§ 234 (2) StGB.`  
 Wer eine verringerte Geldmünze  
-`§ 234 (2) Z 1 StGB.` mit dem Vorsatz, daß sie als vollwertig ausgegeben werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder  
-`§ 234 (2) Z 2 StGB.` als vollwertig ausgibt,  
+`§ 234 (2) Z 1 StGB.`
+mit dem Vorsatz, daß sie als vollwertig ausgegeben werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder  
+`§ 234 (2) Z 2 StGB.`
+als vollwertig ausgibt,  
 ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen. Wer die Tat an verringerten Geldmünzen begeht, deren Nennwert 300 000 Euro übersteigt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 ### § 235 StGB # Ansichbringen, Verheimlichen oder Verhandeln des Münzabfalls
 
 `§ 235 StGB.`  
- Wer das von einem anderen durch die Verringerung von Geldmünzen (§ 234 Abs. 1) gewonnene Metall kauft, zum Pfand nimmt oder sonst an sich bringt, verheimlicht oder verhandelt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+Wer das von einem anderen durch die Verringerung von Geldmünzen (§ 234 Abs. 1) gewonnene Metall kauft, zum Pfand nimmt oder sonst an sich bringt, verheimlicht oder verhandelt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 ### § 236 StGB # Weitergabe von Falschgeld oder verringerten Geldmünzen
 
@@ -162,7 +171,7 @@ Ebenso ist zu bestrafen, wer eine der im Abs. 1 genannten Handlungen für einen
 ### § 237 StGB # Fälschung besonders geschützter Wertpapiere
 
 `§ 237 StGB.`  
- Nach den §§ 232, 233 oder 236 ist auch zu bestrafen, wer eine der dort mit Strafe bedrohten Handlungen in Beziehung auf Banknoten oder Geldmünzen, die nicht gesetzliche Zahlungsmittel sind, Pfandbriefe, Teilschuldverschreibungen, Aktien oder sonstige Anteilscheine, Zins-, Genuß-, Gewinnanteil- oder Erneuerungsscheine begeht, sofern diese Wertpapiere auf Inhaber lauten.
+Nach den §§ 232, 233 oder 236 ist auch zu bestrafen, wer eine der dort mit Strafe bedrohten Handlungen in Beziehung auf Banknoten oder Geldmünzen, die nicht gesetzliche Zahlungsmittel sind, Pfandbriefe, Teilschuldverschreibungen, Aktien oder sonstige Anteilscheine, Zins-, Genuß-, Gewinnanteil- oder Erneuerungsscheine begeht, sofern diese Wertpapiere auf Inhaber lauten.
 
 ### § 238 StGB # Wertzeichenfälschung
 
@@ -171,8 +180,10 @@ Wer ein amtliches Wertzeichen mit dem Vorsatz nachmacht oder verfälscht, daß e
 
 `§ 238 (2) StGB.`  
 Wer ein solches nachgemachtes oder verfälschtes Wertzeichen  
-`§ 238 (2) Z 1 StGB.` mit dem Vorsatz, daß es als echt und unverfälscht verwertet werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder  
-`§ 238 (2) Z 2 StGB.` als echt und unverfälscht verwertet,  
+`§ 238 (2) Z 1 StGB.`
+mit dem Vorsatz, daß es als echt und unverfälscht verwertet werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder  
+`§ 238 (2) Z 2 StGB.`
+als echt und unverfälscht verwertet,  
 ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 238 (3) StGB.`  
@@ -184,15 +195,18 @@ Die Wiederverwendung eines schon verwendeten amtlichen Wertzeichens und die Entf
 ### § 239 StGB # Vorbereitung einer Geld-, Wertpapier- oder Wertzeichenfälschung
 
 `§ 239 StGB.`  
- Wer mit dem Vorsatz, sich oder einem anderen die Begehung einer der nach den §§ 232, 234, 237 oder 238 mit Strafe bedrohten Handlungen zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, ein Hologramm oder einen anderen der Sicherung gegen Fälschung dienenden Bestandteil von Geld, eines besonders geschützten Wertpapieres oder eines amtlichen Wertzeichens anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+Wer mit dem Vorsatz, sich oder einem anderen die Begehung einer der nach den §§ 232, 234, 237 oder 238 mit Strafe bedrohten Handlungen zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, ein Hologramm oder einen anderen der Sicherung gegen Fälschung dienenden Bestandteil von Geld, eines besonders geschützten Wertpapieres oder eines amtlichen Wertzeichens anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 ### § 240 StGB # Tätige Reue
 
 `§ 240 (1) StGB.`  
 Wegen einer der in den §§ 232 bis 234 und 237 bis 239 mit Strafe bedrohten Handlungen ist nicht zu bestrafen, wer freiwillig  
-`§ 240 (1) Z 1 StGB.` seine dort bezeichnete Tätigkeit vor deren Abschluß aufgibt,  
-`§ 240 (1) Z 2 StGB.` das nachgemachte oder verfälschte Geld, solche Wertpapiere oder Wertzeichen oder die verringerten Geldmünzen sowie die Fälschungsgeräte (§ 239) vernichtet oder der Behörde (§ 151 Abs. 3) übergibt, soweit er diese Gegenstände noch besitzt, und  
-`§ 240 (1) Z 3 StGB.` durch Mitteilung an diese Behörde oder auf andere Art die Gefahr beseitigt, daß infolge seiner Tätigkeit oder der Tätigkeit anderer an dem Unternehmen Beteiligter nachgemachtes oder verfälschtes Geld oder ein solches Wertpapier als echt und unverfälscht oder eine verringerte Geldmünze als vollwertig in Verkehr gebracht oder ausgegeben oder ein nachgemachtes oder verfälschtes Wertzeichen als echt und unverfälscht verwertet wird, solange noch nicht versucht worden ist, einen dieser Erfolge herbeizuführen.
+`§ 240 (1) Z 1 StGB.`
+seine dort bezeichnete Tätigkeit vor deren Abschluß aufgibt,  
+`§ 240 (1) Z 2 StGB.`
+das nachgemachte oder verfälschte Geld, solche Wertpapiere oder Wertzeichen oder die verringerten Geldmünzen sowie die Fälschungsgeräte (§ 239) vernichtet oder der Behörde (§ 151 Abs. 3) übergibt, soweit er diese Gegenstände noch besitzt, und  
+`§ 240 (1) Z 3 StGB.`
+durch Mitteilung an diese Behörde oder auf andere Art die Gefahr beseitigt, daß infolge seiner Tätigkeit oder der Tätigkeit anderer an dem Unternehmen Beteiligter nachgemachtes oder verfälschtes Geld oder ein solches Wertpapier als echt und unverfälscht oder eine verringerte Geldmünze als vollwertig in Verkehr gebracht oder ausgegeben oder ein nachgemachtes oder verfälschtes Wertzeichen als echt und unverfälscht verwertet wird, solange noch nicht versucht worden ist, einen dieser Erfolge herbeizuführen.
 
 `§ 240 (2) StGB.`  
 Der Täter ist auch nicht zu bestrafen, wenn die im Abs. 1 bezeichneten Gefahren nicht bestehen oder ohne sein Zutun beseitigt werden, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich darum bemüht, sie zu beseitigen.
@@ -200,7 +214,7 @@ Der Täter ist auch nicht zu bestrafen, wenn die im Abs. 1 bezeichneten Gefahre
 ### § 241 StGB # Geld, Wertpapiere und Wertzeichen des Auslands
 
 `§ 241 StGB.`  
- Die Bestimmungen dieses Abschnitts gelten auch für Geld, Wertpapiere, Wertzeichen sowie zur Ausgabe als gesetzliches Zahlungsmittel bestimmte Banknoten und Geldmünzen des Auslands.
+Die Bestimmungen dieses Abschnitts gelten auch für Geld, Wertpapiere, Wertzeichen sowie zur Ausgabe als gesetzliches Zahlungsmittel bestimmte Banknoten und Geldmünzen des Auslands.
 
 ### § 241a StGB # Fälschung unbarer Zahlungsmittel
 
@@ -221,7 +235,7 @@ Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheits
 ### § 241c StGB # Vorbereitung der Fälschung oder Entfremdung unbarer Zahlungsmittel
 
 `§ 241c StGB.`  
- Wer mit dem Vorsatz, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) oder eine Entfremdung unbarer Zahlungsmittel nach § 241e Abs. 1 zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+Wer mit dem Vorsatz, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) oder eine Entfremdung unbarer Zahlungsmittel nach § 241e Abs. 1 zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 ### § 241d StGB # Tätige Reue
 
@@ -262,8 +276,11 @@ Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des T�
 
 `§ 241h (1) StGB.`  
 Wer Daten eines unbaren Zahlungsmittels mit dem Vorsatz ausspäht,  
-`§ 241h (1) Z 1 StGB.` dass er oder ein Dritter durch deren Verwendung im Rechtsverkehr unrechtmäßig bereichert werde oder  
-`§ 241h (1) Z 2 StGB.` sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) zu ermöglichen,
+`§ 241h (1) Z 1 StGB.`
+dass er oder ein Dritter durch deren Verwendung im Rechtsverkehr unrechtmäßig bereichert werde oder  
+`§ 241h (1) Z 2 StGB.`
+sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) zu ermöglichen,
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true">ist</span> mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.</p>
 
 `§ 241h (2) StGB.`  
 Wer die Tat gewerbsmäßig begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.

@@ -2,353 +2,273 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 9. Protokollführung
+## 7. Beratung und Abstimmung der Geschworenen
 
-### § 271 StPO.
+### § 324 StPO
 
-**§ 271 (1) StPO.**  
-Über die Hauptverhandlung ist bei sonstiger Nichtigkeit ein Protokoll aufzunehmen, für das – soweit im Folgenden nicht anderes bestimmt wird – § 96 Abs. 2 und 3 anzuwenden ist; es hat insbesondere zu enthalten:
-1. die Bezeichnung des Gerichts sowie Ort, Beginn und Ende der Hauptverhandlung,
-2. die Namen der Mitglieder des Schöffengerichts, der Beteiligten des Verfahrens und ihrer Vertreter und, wenn ein Schriftführer beigezogen wurde, dessen Namen,
-3. die Namen der beigezogenen Dolmetscher, der vernommenen Zeugen und Sachverständigen,
-4. alle wesentlichen Förmlichkeiten des Verfahrens,
-5. die Bezeichnung der verlesenen und vorgetragenen Schriftstücke (§ 252 Abs. 2a und 3),
-6. alle Anträge der Beteiligten des Verfahrens und die darüber getroffenen Entscheidungen,
-7. den Spruch des Urteils mit den in § 260 Abs. 1 Z 1 bis 3 bezeichneten Angaben.
+`§ 324 (1) StPO.`  
+Ist der Schwurgerichtshof einstimmig der Ansicht, daß seine Anwesenheit während der Beratung der Geschworenen zur besseren Aufklärung schwieriger Tat- oder Rechtsfragen zweckmäßig sei, so beschließt er, ohne einen darauf abzielenden Antrag zuzulassen, dieser Beratung ganz oder teilweise beizuwohnen.
 
-**§ 271 (1a) StPO.**  
-Unter den Voraussetzungen des § 270 Abs. 4 kann das Verhandlungsprotokoll durch einen vom Vorsitzenden zu unterschreibenden Vermerk ersetzt werden, der lediglich die in Abs. 1 Z 1 bis 3 angeführten Angaben enthält.
+`§ 324 (2) StPO.`  
+Vor dieser Beschlußfassung ist der Obmann der Geschworenen zu hören; dieser hat die Meinung der Geschworenen einzuholen. Spricht sich die Mehrheit der Geschworenen gegen die Teilnahme des Schwurgerichtshofes an der Beratung aus, so kann ein Beschluß im Sinne des Abs. 1 nicht gefaßt werden.
 
-**§ 271 (2) StPO.**  
-Dem Schriftführer kann bei entsprechender Eignung die selbstständige Abfassung der Verhandlungsmitschrift und deren Übertragung überlassen werden, ansonsten nach Abs. 4 zweiter Satz vorzugehen ist. Der Schriftführer darf sich zur Unterstützung eines technischen Hilfsmittels bedienen.
+`§ 324 (3) StPO.`  
+Ein Beschluß im Sinne des Abs. 1 ist vom Vorsitzenden den Geschworenen mitzuteilen. Eine schriftliche Ausfertigung dieses Beschlusses samt Gründen ist von den Mitgliedern des Schwurgerichtshofes zu unterfertigen und dem Hauptverhandlungsprotokoll anzuschließen. Ein Rechtsmittel steht gegen den Beschluß nicht offen.
 
-**§ 271 (3) StPO.**  
-Die Antworten des Angeklagten (§ 245) und die Aussagen von Zeugen und Sachverständigen sind ihrem wesentlichen Inhalt nach zusammengefasst in das Protokoll aufzunehmen, soweit nicht deren wörtliche Wiedergabe für die Urteilsfällung erforderlich erscheint. Werden Zeugen oder Sachverständige in der Hauptverhandlung nicht das erste Mal vernommen, so sind nur Abweichungen, Veränderungen oder Zusätze der bereits in den Akten enthaltenen Angaben in das Protokoll aufzunehmen.
+### § 325 StPO
 
-**§ 271 (4) StPO.**  
-Hat der Vorsitzende von der Beiziehung eines Schriftführers abgesehen, so sind die Angaben nach Abs. 1 Z 1 bis 3 in Vollschrift festzuhalten. Im Übrigen sind die Angaben über Verlauf und Inhalt der Hauptverhandlung nach Abs. 1 Z 4 bis 7 und Abs. 3 vom Vorsitzenden oder einem von ihm beauftragten richterlichen Mitglied des Schöffengerichts für die Anwesenden hörbar zu diktieren. Das Diktat ist unter Verwendung eines technischen Hilfsmittels aufzunehmen oder sofort zu übertragen.
+`§ 325 (1) StPO.`  
+Der Obmann leitet die Beratung der Geschworenen damit ein, daß er ihnen folgende Belehrung vorliest:
+**FIXME** P: <p class="Abs AlignJustify">„Das Gesetz fordert von den Geschworenen nur, daß sie alle für und wider den Angeklagten vorgebrachten Beweismittel sorgfältig und gewissenhaft prüfen und sich dann selbst fragen, welchen Eindruck in der Hauptverhandlung die wider den Angeklagten vorgeführten Beweise und die Gründe seiner Verteidigung auf sie gemacht haben.</p>
+**FIXME** P: <p class="Abs AlignJustify">Nach der durch diese Prüfung der Beweismittel gewonnenen Überzeugung allein haben die Geschworenen ihren Ausspruch über Schuld oder Nichtschuld des Angeklagten zu fällen. Sie dürfen dabei ihrem Eide gemäß der Stimme der Zu- oder Abneigung, der Furcht oder Schadenfreude kein Gehör geben, haben vielmehr mit Unparteilichkeit und Festigkeit so zu entscheiden, wie sie es vor Gott und ihrem Gewissen verantworten können.</p>
+**FIXME** P: <p class="Abs AlignJustify">Die Beratung und Abstimmung hat sich nur auf die den Geschworenen vorgelegten Fragen zu beschränken. Welche gesetzlichen Folgen den Angeklagten treffen, wenn er schuldig gesprochen wird, werden die Geschworenen gemeinsam mit dem Gerichtshof in einer späteren Beratung zu entscheiden haben.</p>
+**FIXME** P: <p class="Abs AlignJustify">Die Geschworenen haben sich bei ihrer Abstimmung ständig ihre beschworene Pflicht vor Augen zu halten, das Gesetz treu zu beobachten und ihm Geltung zu verschaffen. Sie sind dazu berufen, Recht zu sprechen, aber nicht berechtigt, Gnade zu üben.“</p>
 
-**§ 271 (5) StPO.**  
-Sachverständige haben auf Anordnung des Vorsitzenden Befund und Gutachten sowie deren Ergänzungen selbst auf die im Abs. 4 beschriebene Art zu diktieren.
+`§ 325 (2) StPO.`  
+Mehrere Abdrucke dieser Belehrung sowie der Bestimmungen der §§ 326, 329, 330, 331, 332 Abs. 1 bis 3 sowie des § 340 sollen im Beratungszimmer der Geschworenen angeschlagen sein.
 
-**§ 271 (6) StPO.**  
-Der Inhalt der Aufnahme oder der Mitschrift ist auf Verlangen eines Beteiligten des Verfahrens wiederzugeben. Tonaufnahme und Verhandlungsmitschrift sind unverzüglich in Vollschrift zu übertragen. Diese Übertragung sowie die bereits in Vollschrift aufgenommenen Angaben bilden das Verhandlungsprotokoll, das vom Vorsitzenden sowie, soweit ein solcher beigezogen wurde, vom Schriftführer zu unterschreiben ist. Eine Ausfertigung des Protokolls ist den Beteiligten, soweit sie nicht darauf verzichtet haben, ehestmöglich, spätestens aber zugleich mit der Urteilsausfertigung zuzustellen.
+### § 326 StPO
 
-**§ 271 (7) StPO.**  
-Für die Berichtigung von Schreib- und Rechenfehlern im Verhandlungsprotokoll gilt § 270 Abs. 3 erster Satz sinngemäß. Im Übrigen hat der Vorsitzende das Protokoll von Amts wegen oder auf Antrag einer zur Ergreifung von Berufung oder Nichtigkeitsbeschwerde berechtigten Partei nach Vornahme der erforderlichen Erhebungen durch Beschluss zu ergänzen oder zu berichtigen, soweit erhebliche Umstände oder Vorgänge im Protokoll der Hauptverhandlung zu Unrecht nicht erwähnt oder unrichtig wiedergegeben wurden. Der Antrag ist spätestens mit Ablauf der für die Ausführung einer gegen das Urteil angemeldeten Nichtigkeitsbeschwerde oder Berufung offen stehenden Frist einzubringen, ansonsten als unzulässig zurückzuweisen. Den Parteien ist Gelegenheit zur Stellungnahme zur in Aussicht genommenen oder begehrten Berichtigung oder Ergänzung und zu den Ergebnissen der gepflogenen Erhebungen binnen festzusetzender angemessener Frist einzuräumen. § 270 Abs. 3 zweiter bis vierter Satz gilt sinngemäß. Wird eine Ergänzung oder Berichtigung des Verhandlungsprotokolls nach Zustellung der Abschrift des Urteils an den Beschwerdeführer vorgenommen, so löst erst die neuerliche Zustellung die Fristen zur Ausführung angemeldeter Rechtsmittel (§§ 285 und 294) aus.
+`§ 326 StPO.`  
+Die Geschworenen dürfen ihr Beratungszimmer nicht verlassen, bevor sie ihren Ausspruch über die an sie gerichteten Fragen gefällt haben. Niemand darf während der Beratung und Abstimmung ohne Bewilligung des Vorsitzenden in ihr Beratungszimmer eintreten; auch ist den Geschworenen jeder Verkehr mit dritten Personen untersagt. Gegen Geschworene und dritte Personen, die diesem Verbot zuwiderhandeln, ist vom Schwurgerichtshof eine Ordnungsstrafe bis zu 1 000 Euro zu verhängen.
 
-### § 271a StPO.
+### § 327 StPO
 
-**§ 271a (1) StPO.**  
-Wenn der Vorsitzende es für zweckmäßig erachtet, kann die Protokollführung nach Maßgabe der den Gerichten zur Verfügung stehenden Ausstattung durch die Verwendung technischer Einrichtungen zur Wort- oder Bildaufnahme unterstützt werden. In diesem Fall ist der gesamte Verlauf der Hauptverhandlung unmittelbar aufzunehmen und dies allen Beteiligten zuvor bekannt zu machen. Abgesehen von den in § 271 Abs. 1 Z 1 bis 3 erwähnten Angaben kann der Vorsitzende Verhandlungsmitschrift oder Diktat auf die Anordnung beschränken, welche Teile der Aufnahme in Schriftform zu übertragen sind.
+`§ 327 (1) StPO.`  
+Entstehen bei den Geschworenen im Zuge der Beratung Zweifel über den Sinn der ihnen gestellten Fragen, über das von ihnen bei der Abstimmung zu beobachtende Verfahren oder über die Fassung einer Antwort, oder äußern die Geschworenen den Wunsch nach einer Ergänzung des Beweisverfahrens zur Aufklärung erheblicher Tatsachen oder nach Änderung oder Ergänzung der an sie gerichteten Fragen, so ersucht der Obmann der Geschworenen, wenn der Schwurgerichtshof nicht an der Beratung teilnimmt, den Vorsitzenden schriftlich, sich in das Beratungszimmer zu begeben. Der Schwurgerichtshof begibt sich hierauf mit dem Schriftführer in das Beratungszimmer. Der Vorsitzende erteilt den Geschworenen die erforderliche Belehrung.
 
-**§ 271a (2) StPO.**  
-Den Beteiligten des Verfahrens steht das Recht zu, die Wiedergabe der Aufnahme oder ihre Übersendung auf einem elektronischen Datenträger in einem allgemein gebräuchlichen Dateiformat zu verlangen. Zu übertragen ist eine solche Aufnahme nur, wenn es der Vorsitzende für zweckmäßig erachtet oder ein Beteiligter ein besonderes rechtliches Interesse daran glaubhaft macht und die vom Vorsitzenden zu bestimmenden Kosten der Übertragung übernimmt; § 77 Abs. 1 und 3 ist anzuwenden. Die Aufnahme ist als Beilage zum Akt zu nehmen.
+`§ 327 (2) StPO.`  
+Die Belehrung ist zu Protokoll zu nehmen und das Protokoll dem Hauptverhandlungsprotokoll anzuschließen.
 
-**§ 271a (3) StPO.**  
-Wurde der gesamte Verlauf der Hauptverhandlung nach Abs. 1 aufgenommen und verzichten die Beteiligten des Verfahrens auf ein Rechtsmittel oder melden sie innerhalb der hiefür offen stehenden Frist kein Rechtsmittel an, so kann das Verhandlungsprotokoll durch einen vom Vorsitzenden zu unterschreibenden Vermerk ersetzt werden, der lediglich die in § 271 Abs. 1 Z 1 bis 3 angeführten Angaben enthält. Sofern sie ein rechtliches Interesse glaubhaft machen, können die Beteiligten des Verfahrens binnen vierzehn Tagen nach Verkündung des Urteils die Herstellung des Protokolls und die Zustellung einer Ausfertigung verlangen.
+`§ 327 (3) StPO.`  
+Im übrigen wird über die Beratung der Geschworenen kein Protokoll geführt.
 
-### § 272 StPO.
+### § 328 StPO
 
-**§ 272 StPO.**  
- Über die Beratungen und Abstimmungen während und am Schlusse der Hauptverhandlung ist in den Fällen, wo sich das Gericht zur Beschlußfassung in das Beratungszimmer zurückgezogen hat, ein abgesondertes Protokoll zu führen.
-## 10. Vertagung der Hauptverhandlung
+`§ 328 StPO.`  
+Äußern die Geschworenen bei der Beratung den Wunsch nach einer Ergänzung des Beweisverfahrens zur Aufklärung erheblicher Tatsachen (§ 309) oder nach Änderung oder Ergänzung der an sie gerichteten Fragen, so ist die Verhandlung wieder zu eröffnen; sofern es sich um eine Ergänzung oder Änderung der Fragen handelt, gelten die Bestimmungen des § 310 Abs. 3 und 4 sinngemäß.
 
-### § 273 StPO.
+### § 329 StPO
 
-**§ 273 StPO.**  
- Die Hauptverhandlung darf, wenn sie begonnen hat, nur insoweit unterbrochen werden, als es der Vorsitzende zur nötigen Erholung der dabei beteiligten Personen oder zur unverzüglichen Herbeischaffung von Beweismitteln erforderlich findet; sie kann nach dem Ermessen des Schöffengerichts in dringenden Fällen auch an einem Sonn- oder Feiertage fortgesetzt werden.
+`§ 329 StPO.`  
+Der Abstimmung der Geschworenen darf bei sonstiger Nichtigkeit niemand beiwohnen.
 
-### § 274 StPO.
+### § 330 StPO
 
-**§ 274 StPO.**  
- Ist der Verteidiger, ungeachtet gehöriger Ladung, bei der Hauptverhandlung nicht erschienen oder hat er sich vor deren Schluß entfernt oder tritt der im § 236 Abs. 2 vorgesehene Fall ein, und kann ein anderer Verteidiger überhaupt nicht oder doch nicht ohne Beeinträchtigung der Verteidigung des Angeklagten bestellt werden, so ist die Verhandlung zu vertagen. Die Kosten der Bestellung eines anderen Vertreters und der Vertagung hat der schuldige Verteidiger zu tragen.
+`§ 330 (1) StPO.`  
+Der Obmann der Geschworenen läßt über die einzelnen Fragen der Reihe nach mündlich abstimmen, indem er jeden Geschworenen um seine Meinung befragt; er selbst gibt seine Stimme zuletzt ab.
 
-### § 275 StPO.
+`§ 330 (2) StPO.`  
+Die Geschworenen stimmen über jede Frage mit „ja“ oder „nein“ ab; doch ist ihnen auch gestattet, eine Frage nur teilweise zu bejahen. In diesem Fall ist die Beschränkung kurz beizufügen (zum Beispiel: „Ja, aber nicht mit diesen oder jenen in der Frage enthaltenen Umständen“).
 
-**§ 275 StPO.**  
- Erkrankt der Angeklagte während der Hauptverhandlung in dem Maße, daß er ihr nicht weiter beiwohnen kann, und willigt er nicht selbst ein, daß die Verhandlung in seiner Abwesenheit fortgesetzt und seine im Ermittlungsverfahren oder in einer früheren Hauptverhandlung abgelegte Aussage vorgelesen werde, so ist die Verhandlung zu vertagen. § 197 Abs. 2b gilt sinngemäß.
+### § 331 StPO
 
-### § 276 StPO.
+`§ 331 (1) StPO.`  
+Zur Bejahung der an die Geschworenen gerichteten Fragen ist absolute Stimmenmehrheit, das ist mehr als die Hälfte sämtlicher Stimmen, erforderlich; bei Stimmengleichheit gibt die dem Angeklagten günstigere Meinung den Ausschlag. Ist eine Schuldfrage zuungunsten des Angeklagten bejaht worden, so können sich die überstimmten Geschworenen der Abstimmung über die für diesen Fall gestellten Zusatzfragen enthalten; ihre Stimmen werden dann den dem Angeklagten günstigsten zugezählt.
 
-**§ 276 StPO.**  
- Für die Vertagung der Hauptverhandlung gilt § 226.
+`§ 331 (2) StPO.`  
+Der Obmann zählt die Stimmen und schreibt in zwei Niederschriften der Fragen neben jede Frage, je nachdem sie durch die Geschworenen beantwortet worden ist, „ja“ oder „nein“, mit den allfälligen Beschränkungen, unter Angabe des Stimmenverhältnisses und unterschreibt diese Aufzeichnung des Wahrspruches der Geschworenen. Es dürfen darin keine Radierungen vorkommen; Ausstreichungen, Randbemerkungen oder Einschaltungen müssen vom Obmanne durch eine von ihm unterschriebene Bemerkung ausdrücklich genehmigt sein.
 
-### § 276a StPO.
+`§ 331 (3) StPO.`  
+Nach Beendigung der Abstimmung hat der Obmann in einer kurzen Niederschrift, gesondert für jede Frage, die Erwägungen anzugeben, von denen die Mehrheit der Geschworenen bei der Beantwortung dieser Frage ausgegangen ist. Die Niederschrift ist im Einvernehmen mit diesen Geschworenen abzufassen und vom Obmanne zu unterfertigen.
 
-**§ 276a StPO.**  
- Ist die Verhandlung, nachdem sie begonnen hatte, vertagt worden (§§ 274 bis 276), so kann der Vorsitzende in der späteren Verhandlung die wesentlichen Ergebnisse der früheren nach dem Protokoll und den sonst zu berücksichtigenden Akten mündlich vortragen und die Fortsetzung der Verhandlung daran anknüpfen. Die Verhandlung ist jedoch zu wiederholen, wenn sich die Zusammensetzung des Gerichtes geändert hat oder seit der Vertagung mehr als zwei Monate verstrichen sind, es sei denn, dass beide Teile auf die Wiederholung wegen Überschreitung der Frist von zwei Monaten verzichten.
-## 11. Zwischenfälle
+`§ 331 (4) StPO.`  
+Der Obmann der Geschworenen benachrichtigt sodann den Vorsitzenden des Schwurgerichtshofes schriftlich von der Beendigung der Abstimmung.
 
-### § 277 StPO.
+## 8. Verbesserung des Wahrspruches der Geschworenen
 
-**§ 277 StPO.**  
- Ergibt sich aus der Hauptverhandlung mit Wahrscheinlichkeit, daß ein Zeuge wissentlich falsch ausgesagt habe, so kann der Vorsitzende über dessen Aussage ein Protokoll aufnehmen und nach geschehener Vorlesung und Genehmigung vom Zeugen unterfertigen lassen; er kann den Zeugen auch festnehmen und dem Einzelrichter des Landesgerichts vorführen lassen.
+### § 332 StPO
 
-### § 278 StPO.
+`§ 332 (1) StPO.`  
+Der Schwurgerichtshof begibt sich darauf mit dem Schriftführer, dem Ankläger und dem Verteidiger in das Beratungszimmer der Geschworenen.
 
-**§ 278 (1) StPO.**  
-Wird während der Hauptverhandlung im Sitzungssaal eine strafbare Handlung verübt und dabei der Täter auf frischer Tat betreten, so kann darüber mit Unterbrechung der Hauptverhandlung oder an deren Schluß auf Antrag des dazu berechtigten Anklägers sowie nach Vernehmung des Beschuldigten und der vorhandenen Zeugen vom versammelten Gerichte sogleich abgeurteilt werden. Rechtsmittel gegen ein solches Urteil haben keine aufschiebende Wirkung.
+`§ 332 (2) StPO.`  
+Der Obmann der Geschworenen übergibt eine von ihm unterschriebene Aufzeichnung des Wahrspruches und der im § 331 Abs. 3 bezeichneten Niederschrift dem Vorsitzenden. Dieser unterzeichnet sie, läßt sie vom Schriftführer vorlesen und von ihm mitfertigen.
 
-**§ 278 (2) StPO.**  
-Ist zur Aburteilung ein Gericht höherer Ordnung zuständig oder die sofortige Aburteilung nicht tunlich, so läßt der Vorsitzende den Täter dem Einzelrichter des Landesgerichts vorführen.
+`§ 332 (3) StPO.`  
+Nach der Verlesung kann in der Regel kein Geschworener von seiner Meinung abgehen.
 
-**§ 278 (3) StPO.**  
-Über einen solchen Vorgang ist ein besonderes Protokoll aufzunehmen.
+`§ 332 (4) StPO.`  
+Wird jedoch von einem oder mehreren Geschworenen behauptet, daß bei der Abstimmung ein Mißverständnis unterlaufen sei, oder kommt der Schwurgerichtshof nach Anhörung des Anklägers und des Verteidigers zu der Überzeugung, daß der Wahrspruch der Geschworenen undeutlich, unvollständig oder in sich widersprechend ist oder mit dem Inhalte der im § 331 Abs. 3 bezeichneten Niederschrift in Widerspruch steht, so trägt er den Geschworenen die Verbesserung des Wahrspruches auf.
 
-### § 279 StPO.
+`§ 332 (5) StPO.`  
+Hält in einem solchen Falle der Schwurgerichtshof eine Änderung oder Ergänzung der Fragen für wünschenswert oder wird eine solche vom Ankläger oder vom Verteidiger beantragt, so ist die Verhandlung wieder zu eröffnen und nach Vorschrift des § 310 Abs. 3 und 4 zu verfahren.
 
-**§ 279 StPO.**  
- Hat der Angeklagte während der Hauptverhandlung eine strafbare Handlung begangen, so sind die Bestimmungen des § 263 voll anzuwenden.
-## II. Rechtsmittel gegen das Urteil
+`§ 332 (6) StPO.`  
+Das über die Beratung des Schwurgerichtshofes (Abs. 4 und 5) aufgenommene Protokoll und der ursprüngliche Wahrspruch und die im § 331 Abs. 3 bezeichnete Niederschrift sind dem Hauptverhandlungsprotokoll anzuschließen.
 
-### § 280 StPO.
+### § 333 StPO
 
-**§ 280 StPO.**  
- Gegen die Urteile der Landesgerichte als Schöffengerichte (§ 31 Abs. 3) stehen nur die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen. Die Nichtigkeitsbeschwerde geht an den Obersten Gerichtshof, die Berufung an das Oberlandesgericht.
+`§ 333 StPO.`  
+Hält der Schwurgerichtshof eine Verbesserung des Wahrspruches für erforderlich oder ist in diesem Fall auch die Fragestellung geändert oder ergänzt worden, so eröffnet der Vorsitzende den Geschworenen, daß sie nur zur Änderung der beanstandeten Antworten (§ 332 Abs. 4) und zur Beantwortung der neu oder in geänderter Fassung vorgelegten Fragen (§ 332 Abs. 5) berechtigt sind. Die neuen oder geänderten Fragen sind dem Obmanne der Geschworenen in zwei Ausfertigungen zu übergeben.
 
-### § 281 StPO.
+## 9. Weiteres Verfahren bis zur gemeinsamen Beratung über die Strafe
 
-**§ 281 (1) StPO.**  
-Die Nichtigkeitsbeschwerde kann gegen ein freisprechendes Urteil nur zum Nachteile, gegen ein verurteilendes sowohl zum Vorteile als auch zum Nachteile des Angeklagten ergriffen werden, jedoch, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur wegen eines der folgenden Nichtigkeitsgründe:
-1. wenn das Schöffengericht nicht gehörig besetzt war, wenn nicht alle Richter der ganzen Verhandlung beiwohnten oder wenn sich ein ausgeschlossener Richter (§§ 43 und 46) an der Entscheidung beteiligte; es sei denn, daß der die Nichtigkeit begründende Tatumstand dem Beschwerdeführer noch vor oder während der Hauptverhandlung bekannt und von ihm nicht gleich beim Beginne der Hauptverhandlung oder sofort, nachdem er in dessen Kenntnis gelangt war, geltend gemacht wurde;
-2. wenn der Angeklagte nicht während der ganzen Hauptverhandlung durch einen Verteidiger vertreten war, obwohl dies zwingend vorgeschrieben war;
-3. wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren trotz Widerspruchs des Beschwerdeführers in der Hauptverhandlung verlesen wurde;
-4. wenn in der Hauptverhandlung eine Bestimmung verletzt oder missachtet worden ist, deren Einhaltung das Gesetz bei sonstiger Nichtigkeit anordnet (§§ 115j Abs. 1, 126 Abs. 4, 140 Abs. 1, 144 Abs. 1, 155 Abs. 1, 157 Abs. 2 und 159 Abs. 3, 221 Abs. 2, 228, 240a, 250, 252, 260, 271, 427, 434d Abs. 1 und 2 sowie 439 Abs. 1 und 2);
-5. wenn während der Hauptverhandlung über einen Antrag des Beschwerdeführers nicht erkannt worden ist oder wenn durch einen gegen seinen Antrag oder Widerspruch gefassten Beschluss Gesetze oder Grundsätze des Verfahrens hintangesetzt oder unrichtig angewendet worden sind, deren Beobachtung durch grundrechtliche Vorschriften, insbesondere durch Art. 6 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, oder sonst durch das Wesen eines die Strafverfolgung und die Verteidigung sichernden, fairen Verfahrens geboten ist;
-6. wenn der Ausspruch des Schöffengerichts über entscheidende Tatsachen (§ 270 Abs. 2 Z. 4 und 5) undeutlich, unvollständig oder mit sich selbst im Widerspruch ist; wenn für diesen Ausspruch keine oder nur offenbar unzureichende Gründe angegeben sind; oder wenn zwischen den Angaben der Entscheidungsgründe über den Inhalt einer bei den Akten befindlichen Urkunde oder über eine Aussage und der Urkunde oder dem Vernehmungs- oder Sitzungsprotokoll selbst ein erheblicher Widerspruch besteht;
-7. wenn sich aus den Akten erhebliche Bedenken gegen die Richtigkeit der dem Ausspruch über die Schuld zugrunde gelegten entscheidenden Tatsachen ergeben;
-8. wenn das Schöffengericht zu Unrecht seine Unzuständigkeit (§ 261) ausgesprochen hat;
-9. wenn das ergangene Endurteil die Anklage nicht erledigt oder
-10. diese gegen die Vorschrift der § 262, § 263, § 267 und § 434b Abs. 3 überschritten hat;
-11. wenn durch den Ausspruch über die Frage,
-a)
-ob die dem Angeklagten zur Last fallende Tat eine zur Zuständigkeit der Gerichte gehörige strafbare Handlung begründe,
-b)
-ob Umstände vorhanden seien, durch die die Strafbarkeit der Tat aufgehoben oder die Verfolgung wegen der Tat ausgeschlossen ist, endlich
-c)
-ob die nach dem Gesetz erforderliche Anklage fehle,
-ein Gesetz verletzt oder unrichtig angewendet wurde;
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">ob die dem Angeklagten zur Last fallende Tat eine zur Zuständigkeit der Gerichte gehörige strafbare Handlung begründe,</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">ob Umstände vorhanden seien, durch die die Strafbarkeit der Tat aufgehoben oder die Verfolgung wegen der Tat ausgeschlossen ist, endlich</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">ob die nach dem Gesetz erforderliche Anklage fehle,</div></div>
-1. wenn die der Entscheidung zugrunde liegende Tat durch unrichtige Gesetzesauslegung einem Strafgesetz unterzogen wurde, das darauf nicht anzuwenden ist;
-2. wenn nach der Bestimmung des § 199 über die Einstellung des Verfahrens, anderen auf sie verweisenden Vorschriften oder nach § 37 SMG vorzugehen gewesen wäre;
-3. wenn das Schöffengericht seine Strafbefugnis überschritten oder bei dem Ausspruch über die Strafe für die Strafbemessung maßgebende entscheidende Tatsachen offenbar unrichtig beurteilt oder in unvertretbarer Weise gegen Bestimmungen über die Strafbemessung verstoßen hat.
+### § 334 StPO
 
-**§ 281 (2) StPO.**  
-Die im Abs. 1 Z. 1a und 5a erwähnten Nichtigkeitsgründe können zum Nachteil des Angeklagten nicht geltend gemacht werden.
+`§ 334 (1) StPO.`  
+Ist der Schwurgerichtshof einstimmig der Ansicht, daß sich die Geschworenen bei ihrem Ausspruch in der Hauptsache geirrt haben, so beschließt er – ohne einen darauf abzielenden Antrag zuzulassen –, daß die Entscheidung ausgesetzt und die Sache dem Obersten Gerichtshofe vorgelegt werde. Betrifft der Irrtum der Geschworenen nur den Ausspruch über einen von mehreren Angeklagten oder den Ausspruch über einzelne von mehreren Anklagepunkten und bestehen gegen die gesonderte Verhandlung und Entscheidung keine Bedenken, so hat sich die Aussetzung der Entscheidung auf diesen Angeklagten oder diesen Anklagepunkt zu beschränken und bleibt ohne Einfluß auf die übrigen. Ist die Entscheidung über einen oder mehrere denselben Angeklagten betreffende Anklagepunkte ausgesetzt worden, so sind die Bestimmungen des § 264 dem Sinne nach anzuwenden.
 
-**§ 281 (3) StPO.**  
-Die unter Abs. 1 Z. 2, 3 und 4 erwähnten Nichtigkeitsgründe können zum Vorteile des Angeklagten nicht geltend gemacht werden, wenn unzweifelhaft erkennbar ist, daß die Formverletzung auf die Entscheidung keinen dem Angeklagten nachteiligen Einfluß üben konnte. Zum Nachteile des Angeklagten können sie, abgesehen von dem im § 282 Abs. 2 geregelten Fall, nur geltend gemacht werden, wenn erkennbar ist, daß die Formverletzung einen die Anklage beeinträchtigenden Einfluß auf die Entscheidung zu üben vermochte, und wenn außerdem der Ankläger sich ihr widersetzt, die Entscheidung des Schöffengerichts begehrt und sich sofort nach der Verweigerung oder Verkündung dieser Entscheidung die Nichtigkeitsbeschwerde vorbehalten hat.
+`§ 334 (2) StPO.`  
+Der Oberste Gerichtshof verweist die Sache vor ein anderes Geschworenengericht desselben oder eines anderen Sprengels, wenn aber nur noch über eine strafbare Handlung zu entscheiden ist, die für sich allein nicht vor das Geschworenengericht gehört, an das von ihm zu bezeichnende sachlich zuständige Gericht.
 
-### § 281a StPO.
+`§ 334 (3) StPO.`  
+Bei der wiederholten Verhandlung darf keiner der Richter den Vorsitz führen und keiner der Geschworenen zugelassen werden, die an der ersten Verhandlung teilgenommen haben.
 
-**§ 281a StPO.**  
- Der Umstand, dass ein unzuständiges Oberlandesgericht die Rechtswirksamkeit der Anklageschrift festgestellt hat (§ 215), kann mit einer gegen das Urteil gerichteten Nichtigkeitsbeschwerde geltend gemacht werden.
+`§ 334 (4) StPO.`  
+Stimmt der Wahrspruch des zweiten Geschworenengerichtes mit dem des ersten überein, so ist er dem Urteile zugrunde zu legen.
 
-### § 282 StPO.
+### § 335 StPO
 
-**§ 282 (1) StPO.**  
-Zugunsten des Angeklagten kann die Nichtigkeitsbeschwerde sowohl von ihm selbst als auch von seinem gesetzlichen Vertreter und von der Staatsanwaltschaft ergriffen werden. Soweit es sich um die Beurteilung der geltend gemachten Nichtigkeitsgründe handelt, ist die zugunsten des Angeklagten von anderen ergriffene Nichtigkeitsbeschwerde als von ihm selbst eingelegt anzusehen.
+`§ 335 StPO.`  
+Wird die Entscheidung nicht ausgesetzt, so ist der Wahrspruch der Geschworenen dem Urteile zugrunde zu legen.
 
-**§ 282 (2) StPO.**  
-Zum Nachteile des Angeklagten kann die Nichtigkeitsbeschwerde nur vom Staatsanwalt oder vom Privatankläger sowie vom Privatbeteiligten, jedoch von diesem nur im Fall eines Freispruchs und aus dem Grund des § 281 Abs. 1 Z 4 ergriffen werden. Der Privatbeteiligte kann den zuvor angeführten Nichtigkeitsgrund überdies nur insoweit geltend machen, als er wegen des Freispruchs auf den Zivilrechtsweg verwiesen wurde und erkennbar ist, dass die Abweisung eines von ihm in der Hauptverhandlung gestellten Antrags einen auf die Geltendmachung seiner privatrechtlichen Ansprüche nachteiligen Einfluss zu üben vermochte.
+### § 336 StPO
 
-### § 283 StPO.
+`§ 336 StPO.`  
+Haben die Geschworenen die Schuldfragen verneint oder Zusatzfragen (§ 313) bejaht, so fällt der Schwurgerichtshof sofort ein freisprechendes Urteil.
 
-**§ 283 (1) StPO.**  
-Die Berufung kann nur gegen den Ausspruch über die Strafe und gegen den Ausspruch über die privatrechtlichen Ansprüche ergriffen werden.
+### § 337 StPO
 
-**§ 283 (2) StPO.**  
-Wegen des Ausspruches über die Strafe kann die Berufung von allen zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten mit Ausnahme des Privatbeteiligten ergriffen werden. Eine unterbliebene oder fehlerhafte Anrechnung einer Vorhaft oder einer im Ausland verbüßten Strafe kann mit Berufung nur dann geltend gemacht werden, wenn die Berufung zugleich aus anderen Gründen ergriffen wird.
+`§ 337 StPO.`  
+Ebenso wird der Angeklagte durch Urteil des Schwurgerichtshofes freigesprochen, wenn ihn die Geschworenen zwar schuldig gesprochen haben, der Schwurgerichtshof jedoch der Meinung ist, daß bei Zugrundelegung der Tatsachen, die im Wahrspruche der Geschworenen festgestellt sind, und der rechtlichen Beurteilung, die die Geschworenen der Tat haben angedeihen lassen, die Verfolgung aus Gründen des Prozeßrechtes ausgeschlossen sei (§ 311), oder daß die Tat, die der Angeklagte nach dem Ausspruche der Geschworenen begangen hat, vom Gesetze nicht mit gerichtlicher Strafe bedroht sei.
 
-**§ 283 (3) StPO.**  
-Die im § 260 Abs. 2 erwähnte Feststellung kann zugunsten und zum Nachteil des Angeklagten mit Berufung angefochten werden.
+## 10. Gemeinsame Beratung über die Strafe
 
-**§ 283 (4) StPO.**  
-Gegen die Entscheidung über die privatrechtlichen Ansprüche können nur der Angeklagte und dessen gesetzlicher Vertreter und Erben Berufung einlegen. Gegen die Verweisung auf den Zivilrechtsweg können nach Maßgabe des § 366 Abs. 3 der Privatbeteiligte und seine Erben Berufung einlegen.
-## 1. Verfahren bei Nichtigkeitsbeschwerden
+### § 338 StPO
 
-### § 284 StPO.
+`§ 338 StPO.`  
+Ist der Angeklagte schuldig befunden worden und ist er nicht nach § 336 oder § 337 freizusprechen, so entscheidet der Schwurgerichtshof gemeinsam mit den Geschworenen (§ 303) über die zu verhängende Strafe und die etwa anzuwendenden Maßnahmen der Besserung und Sicherung sowie über die privatrechtlichen Ansprüche und die Kosten des Strafverfahrens.
 
-**§ 284 (1) StPO.**  
-Die Nichtigkeitsbeschwerde ist binnen drei Tagen nach Verkündung des Urteiles beim Landesgericht anzumelden. War der Angeklagte bei der Verkündung des Urteiles nicht gegenwärtig (§ 234), so ist sie binnen drei Tagen anzumelden, nachdem er vom Urteile verständigt wurde (§ 269).
+### § 339 StPO
 
-**§ 284 (2) StPO.**  
-Für den gesetzlichen Vertreter des Angeklagten läuft die Frist zur Anmeldung der Nichtigkeitsbeschwerde von demselben Tage, von dem an sie für den Angeklagten beginnt.
+`§ 339 StPO.`  
+(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 98)
 
-**§ 284 (3) StPO.**  
-Die Anmeldung der Nichtigkeitsbeschwerde hat aufschiebende Wirkung. Die Entlassung eines freigesprochenen Angeklagten aus der Haft darf nur wegen einer Nichtigkeitsbeschwerde des Staatsanwaltes, und zwar bloß dann aufgeschoben werden, wenn diese sogleich bei Verkündung des Urteiles angemeldet wird und nach den Umständen die Annahme begründet ist, daß sich der Angeklagte dem Verfahren durch die Flucht entziehen werde. Gegen die Entlassung aus der Haft ist kein Rechtsmittel zulässig.
+## 11. Verkündung des Wahrspruches und des Urteiles
 
-**§ 284 (4) StPO.**  
-Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden.
+### § 340 StPO
 
-### § 285 StPO.
+`§ 340 (1) StPO.`  
+Nach Wiedereröffnung der Sitzung läßt der Vorsitzende den Angeklagten vorführen oder vorrufen und fordert den Obmann der Geschworenen auf, den Wahrspruch mitzuteilen. Dieser erhebt sich und spricht:
+**FIXME** P: <p class="Abs AlignJustify">„Die Geschworenen haben nach Eid und Gewissen die an sie gestellten Fragen beantwortet, wie folgt:“</p>
 
-**§ 285 (1) StPO.**  
-Der Beschwerdeführer hat das Recht, binnen vier Wochen nach der Anmeldung der Nichtigkeitsbeschwerde, wenn ihm eine Urteilsabschrift aber erst nach der Anmeldung des Rechtsmittels zugestellt wurde, binnen vier Wochen nach der Zustellung eine Ausführung seiner Beschwerdegründe beim Gericht in zweifacher Ausfertigung zu überreichen. Er muss entweder in dieser Schrift oder bei Anmeldung seiner Beschwerde die Nichtigkeitsgründe einzeln und bestimmt bezeichnen, widrigens auf seine Beschwerde vom Obersten Gerichtshofe keine Rücksicht zu nehmen ist.
+`§ 340 (2) StPO.`  
+Der Obmann verliest sodann bei sonstiger Nichtigkeit in Gegenwart aller Geschworenen die an sie gerichteten Fragen und unmittelbar nach jeder den beigefügten Wahrspruch der Geschworenen.
 
-**§ 285 (2) StPO.**  
-Im Falle extremen Umfangs des Verfahrens hat das Landesgericht die in Abs. 1 genannte Frist auf Antrag des Beschwerdeführers um den Zeitraum zu verlängern, der – insbesondere im Hinblick auf eine ganz außergewöhnliche Dauer der Hauptverhandlung, einen solchen Umfang des Hauptverhandlungsprotokolls, des übrigen Akteninhalts und der Urteilsausfertigung – erforderlich ist, um eine ausreichende Vorbereitung der Verteidigung (Art. 6 Abs. 3 lit. b der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, und Art. 2 des 7. Zusatzprotokolls, BGBl. Nr. 628/1988) oder der Verfolgung der Anklage zu gewährleisten.
+### § 341 StPO
 
-**§ 285 (3) StPO.**  
-Ein Antrag nach Abs. 2 ist beim Landesgericht innerhalb der zur Ausführung der Beschwerde ansonsten zur Verfügung stehenden Frist schriftlich einzubringen. Über den Antrag entscheidet der Vorsitzende nach Maßgabe der in Abs. 2 genannten Kriterien und unter Bedachtnahme auf das Erfordernis einer angemessenen Dauer des Verfahrens (Art. 6 Abs. 1 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958); gegen seinen Beschluss steht eine Beschwerde nicht zu. Die Zeit von der Antragstellung bis zur Bekanntmachung des Beschlusses wird in die Frist zur Ausführung der Gründe der Nichtigkeitsbeschwerde nicht eingerechnet; diese beginnt jedenfalls nicht zu laufen, ehe der Beschluss über den Antrag bekannt gemacht ist.
+`§ 341 (1) StPO.`  
+Der Vorsitzende verkündet sodann in der öffentlichen Gerichtssitzung in Gegenwart des Anklägers, des Angeklagten (§§ 234, 269) und des Verteidigers das Urteil samt den wesentlichen Gründen oder den Beschluß auf Aussetzung der Entscheidung (§ 334), diesen ohne Begründung.
 
-**§ 285 (4) StPO.**  
-Hat der Beschwerdeführer eine Beschwerdeschrift eingebracht, so ist sie seinem Gegner mit der Belehrung zuzustellen, dass er binnen vier Wochen seine Gegenausführung überreichen könne. Diese Frist kann unter sinngemäßer Anwendung der Abs. 2 und 3 verlängert werden.
+`§ 341 (2) StPO.`  
+Anschließend belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel.
 
-**§ 285 (5) StPO.**  
-Die Gegenausführung ist dem Beschwerdeführer zuzustellen. Danach sind alle Akten an den Obersten Gerichtshof zu senden, der darüber zu entscheiden hat.
+## 12. Ausfertigung des Urteiles, Protokollführung
 
-### § 285a StPO.
+### § 342 StPO
 
-**§ 285a StPO.**  
- Das Landesgericht, bei dem eine gegen ein Endurteil gerichtete Nichtigkeitsbeschwerde angemeldet wird, hat diese zurückzuweisen:
-**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">wenn sie zu spät angemeldet oder wenn sie von einer Person eingebracht wurde, der die Nichtigkeitsbeschwerde nicht zukommt oder die auf sie verzichtet hat;</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">wenn nicht bei der Anmeldung der Nichtigkeitsbeschwerde oder in ihrer Ausführung einer der im §&nbsp;281 Abs.&nbsp;1 Z&nbsp;1 bis 11 oder im §&nbsp;281a angegebenen Nichtigkeitsgründe deutlich und bestimmt bezeichnet, insbesondere wenn der Tatumstand, der den Nichtigkeitsgrund bilden soll, nicht ausdrücklich oder doch durch deutliche Hinweisung angeführt ist;</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">wenn die unter Z&nbsp;2 geforderte Angabe, soweit es sich nicht um eine von der Staatsanwaltschaft erhobene Nichtigkeitsbeschwerde handelt, nicht entweder zu Protokoll oder in einer Eingabe gemacht wird, die von einem Verteidiger (§&nbsp;48 Abs.&nbsp;1 Z&nbsp;4) unterschrieben ist. Besteht der Mangel lediglich im Fehlen der Unterschrift eines berechtigten Verteidigers, so ist die Eingabe vorerst zur Behebung dieses Mangels und Wiedervorlage binnen vierzehn Tagen zurückzustellen.</span></div></div></li></ol>
+`§ 342 StPO.`  
+Das Urteil ist in der im § 270 Abs. 1 bis 3 vorgeschriebenen Weise auszufertigen. In der Ausfertigung sind auch die Namen der Geschworenen anzuführen, die der Ersatzgeschworenen jedoch nur dann, wenn diese vor Schluß der Verhandlung an die Stelle eines verhinderten Geschworenen getreten sind. Die Ausfertigung muß auch die an die Geschworenen gestellten Fragen und ihre Beantwortung enthalten. Auf die im § 331 Abs. 3 bezeichnete Niederschrift darf im Urteile kein Bezug genommen werden.
 
-### § 285b StPO.
+### § 343 StPO
 
-**§ 285b (1) StPO.**  
-Der im § 285a erwähnte Beschluß ist vom Vorsitzenden zu fassen, und zwar in den im § 285a unter Z. 2 und 3 erwähnten Fällen nicht früher, als die Ausführung der Nichtigkeitsbeschwerde überreicht oder die hiezu bestimmte Frist abgelaufen ist.
+`§ 343 (1) StPO.`  
+Für die Führung des Protokolls über die Hauptverhandlung sowie über die Beratungen und Abstimmungen des Schwurgerichtshofs oder des Geschworenengerichtes während und am Schlusse der Hauptverhandlung gelten die Vorschriften der §§ 271, 271a, 272 und 305 Abs. 3 mit der Maßgabe, dass stets ein Schriftführer beizuziehen und ein Protokollvermerk (§ 271 Abs. 1a) nicht zulässig ist.
 
-**§ 285b (2) StPO.**  
-Gegen den Beschluß steht die Beschwerde an den Obersten Gerichtshof offen; sie ist binnen vierzehn Tagen nach Bekanntmachung des Beschlusses beim Landesgericht einzubringen und von diesem binnen weiteren drei Tagen an den Obersten Gerichtshof einzusenden.
+`§ 343 (2) StPO.`  
+Das Hauptverhandlungsprotokoll muß auch die Namen der Geschworenen einschließlich der Ersatzgeschworenen enthalten. Ist infolge Verhinderung eines Geschworenen ein Ersatzgeschworener an dessen Stelle getreten, so ist das im Hauptverhandlungsprotokoll zu beurkunden.
 
-**§ 285b (3) StPO.**  
-Diese Beschwerde hat keine aufschiebende Wirkung.
+## III. Rechtsmittel gegen Urteile der Geschworenengerichte
 
-**§ 285b (4) StPO.**  
-Der Oberste Gerichtshof entscheidet über die Beschwerde in nichtöffentlicher Sitzung nach Anhörung des Generalprokurators.
+### § 344 StPO
 
-**§ 285b (5) StPO.**  
-Gibt der Oberste Gerichtshof der Beschwerde Folge, so läuft im Falle des § 285a Z. 1 die Frist zur Ausführung der Nichtigkeitsbeschwerde, sofern diese nicht schon erstattet ist, vom Tage der Bekanntmachung der Entscheidung des Obersten Gerichtshofes; dem Beschwerdeführer ist gleichzeitig mit dieser Bekanntmachung, wenn es nicht bereits geschehen ist, eine Ausfertigung des Urteiles zuzustellen; im übrigen ist nach § 285 vorzugehen.
+`§ 344 StPO.`  
+Gegen die Urteile der Geschworenengerichte stehen die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen. Die für Rechtsmittel gegen Urteile der Schöffengerichte und für das Verfahren über solche Rechtsmittel geltenden Vorschriften (§§ 280 bis 296a) sind auf Rechtsmittel gegen Urteile der Geschworenengerichte dem Sinne nach anzuwenden, soweit im folgenden nichts anderes bestimmt ist. An die Stelle der in den §§ 285a und 285d bezeichneten Nichtigkeitsgründe treten die folgenden Nichtigkeitsgründe des § 345 Abs. 1, und zwar im § 285a die der Z. 1 bis 13 und im § 285d die der Z. 1 bis 5, 10a und 13.
 
-### § 285c StPO.
+### § 345 StPO
 
-**§ 285c (1) StPO.**  
-Der Oberste Gerichtshof hat über die nach § 285 Abs. 5 an ihn gelangte Nichtigkeitsbeschwerde nur dann zuerst in nichtöffentlicher Sitzung nach Anhörung des Generalprokurators zu beraten, wenn der Generalprokurator oder der Berichterstatter einen der in den §§ 285d, 285e und 285f bezeichneten Beschlüsse beantragt.
+`§ 345 (1) StPO.`  
+Die Nichtigkeitsbeschwerde kann, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur wegen eines der folgenden Nichtigkeitsgründe ergriffen werden:  
+`§ 345 (1) Z 1 StPO.`
+wenn der Schwurgerichtshof oder die Geschworenenbank nicht gehörig besetzt war, wenn nicht alle Richter und Geschworenen der ganzen Verhandlung beigewohnt haben oder wenn sich ein ausgeschlossener Richter oder Geschworener (§§ 43 und 46) an der Verhandlung beteiligt hat; als nicht gehörig besetzt gilt die Geschworenenbank auch dann, wenn in einer Jugendstrafsache nicht Geschworene für Jugendstrafsachen oder nicht mindestens zwei im Lehrberufe tätige oder tätig gewesene Personen der Geschworenenbank angehört haben;  
+`§ 345 (1) Z 2 StPO.`
+wenn die Hauptverhandlung ohne Beiziehung eines Verteidigers geführt worden ist;  
+`§ 345 (1) Z 3 StPO.`
+wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren trotz Widerspruchs des Beschwerdeführers in der Hauptverhandlung verlesen wurde;  
+`§ 345 (1) Z 4 StPO.`
+wenn in der Hauptverhandlung eine Bestimmung verletzt oder missachtet worden ist, deren Einhaltung das Gesetz bei sonstiger Nichtigkeit anordnet (§§ 115j Abs. 1, 126 Abs. 4, 140 Abs. 1, 144 Abs. 1, 155 Abs. 1, 157 Abs. 2 und 159 Abs. 3, 221 Abs. 2, 228, 250, 252, 260, 271, 305, 310, 329, 340, 427, 434d Abs. 1 und 2 sowie 439 Abs. 1 und 2);  
+`§ 345 (1) Z 5 StPO.`
+wenn in der Hauptverhandlung über einen Antrag des Beschwerdeführers nicht erkannt worden ist oder wenn durch einen gegen seinen Antrag oder Widerspruch gefassten Beschluss Gesetze oder Grundsätze des Verfahrens hintangesetzt oder unrichtig angewendet worden sind, deren Beobachtung durch grundrechtliche Vorschriften, insbesondere durch Art. 6 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, oder sonst durch das Wesen eines die Strafverfolgung und die Verteidigung sichernden, fairen Verfahrens geboten ist;  
+`§ 345 (1) Z 6 StPO.`
+wenn eine der in den §§ 312 bis 317 enthaltenen Vorschriften verletzt worden ist;  
+`§ 345 (1) Z 7 StPO.`
+wenn an die Geschworenen eine Frage mit Verletzung der Vorschrift des § 267 gestellt und diese Frage bejaht worden ist;  
+`§ 345 (1) Z 8 StPO.`
+wenn der Vorsitzende den Geschworenen eine unrichtige Rechtsbelehrung erteilt hat (§§ 321, 323, 327);  
+`§ 345 (1) Z 9 StPO.`
+wenn die Antwort der Geschworenen auf die gestellten Fragen undeutlich, unvollständig oder in sich widersprechend ist;  
+`§ 345 (1) Z 10 StPO.`
+wenn der Schwurgerichtshof den Geschworenen die Verbesserung des Wahrspruches gegen den Widerspruch des Beschwerdeführers mit Unrecht aufgetragen oder, obgleich ein oder mehrere Geschworene ein bei der Abstimmung unterlaufenes Mißverständnis behauptet haben, mit Unrecht nicht aufgetragen hat (§ 332 Abs. 4);  
+`§ 345 (1) Z 10a StPO.`
+wenn sich aus den Akten erhebliche Bedenken gegen die Richtigkeit der im Wahrspruch der Geschworenen festgestellten entscheidenden Tatsachen ergeben;  
+`§ 345 (1) Z 11 StPO.`
+wenn durch die Entscheidung über die Frage,  
+`§ 345 (1) Z 11 lit. a) StPO.`
+ob die dem Angeklagten zur Last fallende Tat eine zur Zuständigkeit der Gerichte gehörige strafbare Handlung begründet oder  
+`§ 345 (1) Z 11 lit. b) StPO.`
+ob die Verfolgung der Tat aus Gründen des Prozeßrechtes ausgeschlossen ist,  
+ein Gesetz verletzt oder unrichtig angewendet worden ist;  
+`§ 345 (1) Z 12 StPO.`
+wenn die der Entscheidung zugrunde liegende Tat durch unrichtige Gesetzesauslegung einem Strafgesetz unterzogen worden ist, das darauf nicht anzuwenden ist;  
+`§ 345 (1) Z 12a StPO.`
+wenn nach der Bestimmung des § 199 über die Einstellung des Verfahrens, anderen auf sie verweisenden Vorschriften oder nach § 37 SMG vorzugehen gewesen wäre;  
+`§ 345 (1) Z 13 StPO.`
+wenn das Geschworenengericht seine Strafbefugnis überschritten oder bei dem Ausspruch über die Strafe für die Strafbemessung maßgebende entscheidende Tatsachen offenbar unrichtig beurteilt oder in unvertretbarer Weise gegen Bestimmungen über die Strafbemessung verstoßen hat.
 
-**§ 285c (2) StPO.**  
-Außerdem wird der Gerichtstag zur öffentlichen Verhandlung der Sache unter Beobachtung der hiefür im § 286 erteilten Vorschrift angeordnet, ohne daß es hiezu eines Beschlusses des Obersten Gerichtshofes bedarf.
+`§ 345 (2) StPO.`  
+Die in der Z. 1 des Abs. 1 angeführten Nichtigkeitsgründe können nur dann geltend gemacht werden, wenn der Beschwerdeführer den die Nichtigkeit begründenden Umstand gleich bei Beginn der Verhandlung oder, wenn er ihm erst später bekanntgeworden ist, sogleich, nachdem er ihm zur Kenntnis gekommen war, geltend gemacht hat.
 
-### § 285d StPO.
+`§ 345 (3) StPO.`  
+Die unter Abs. 1 Z. 3 bis 6 und 10 erwähnten Nichtigkeitsgründe können zum Vorteile des Angeklagten nicht geltend gemacht werden, wenn unzweifelhaft erkennbar ist, daß die Formverletzung auf die Entscheidung keinen dem Angeklagten nachteiligen Einfluß üben konnte.
 
-**§ 285d (1) StPO.**  
-Bei der nichtöffentlichen Beratung kann die Nichtigkeitsbeschwerde sofort zurückgewiesen werden:
-1. wenn sie schon gemäß § 285a hätte zurückgewiesen werden sollen oder wenn der geltend gemachte Nichtigkeitsgrund bereits durch eine in derselben Sache ergangene Entscheidung des Obersten Gerichtshofes beseitigt ist;
-2. wenn die Nichtigkeitsbeschwerde sich auf die im § 281 Abs. 1 Z. 1 bis 8 und 11 oder im § 281a angegebenen Nichtigkeitsgründe stützt und der Oberste Gerichtshof einstimmig erachtet, daß die Beschwerde, ohne daß es einer weiteren Erörterung bedarf, als offenbar unbegründet zu verwerfen sei.
+`§ 345 (4) StPO.`  
+Zum Nachteile des Angeklagten können die unter Abs. 1 Z. 2, 7 und 10a erwähnten Nichtigkeitsgründe niemals, die unter Abs. 1 Z. 3 bis 6 und 10 erwähnten aber nur dann geltend gemacht werden, wenn erkennbar ist, daß die Formverletzung einen die Anklage beeinträchtigenden Einfluß auf die Entscheidung üben konnte, wenn sich außerdem der Ankläger widersetzt, die Entscheidung des Schwurgerichtshofes begehrt und sich sofort nach der Verweigerung oder Verkündung dieser Entscheidung die Nichtigkeitsbeschwerde vorbehalten hat. § 282 Abs. 2 gilt sinngemäß.
 
-**§ 285d (2) StPO.**  
-Der vorstehende Beschluß kann bei der nichtöffentlichen Beratung auch dann ergehen, wenn wegen anderer Nichtigkeitsgründe oder weil der Oberste Gerichtshof sich die Ausübung der ihm nach § 290 Abs. 1 zustehenden Befugnis vorbehalten will, ein Gerichtstag zur öffentlichen Verhandlung anzuberaumen ist.
+### § 346 StPO
 
-### § 285e StPO.
+`§ 346 StPO.`  
+Der Ausspruch über die Strafe kann in den im § 283 angeführten Fällen mit Berufung angefochten werden.
 
-**§ 285e StPO.**  
- Bei der nichtöffentlichen Beratung über eine zum Vorteile des Angeklagten ergriffene Nichtigkeitsbeschwerde kann dieser,, sofort Folge gegeben werden, wenn sich zeigt, daß die Anordnung einer neuen Hauptverhandlung nicht zu vermeiden ist, eine Entscheidung des Obersten Gerichtshofes in der Sache selbst aber noch nicht einzutreten hat. Gleiches gilt, wenn nach dem 11. Hauptstück oder § 37 SMG vorzugehen sein wird.
+### § 348 StPO
 
-### § 285f StPO.
+`§ 348 StPO.`  
+Für den Gerichtstag beim Obersten Gerichtshof ist dem Angeklagten, wenn er keinen Verteidiger hat, ohne Rücksicht auf Art und Höhe der für die strafbare Handlung, die dem Angeklagten in der Anklageschrift oder im Urteil erster Instanz zur Last gelegt wird, angedrohten Strafe, ein Rechtsanwalt als Verteidiger beizugeben (§ 286 Abs. 4).
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1973_569_0/1973_569_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1973_569_0', 'BGBl. Nr. 569/1973', '2025-06-05')">BGBl. Nr.&nbsp;569/1973</a>, Art.&nbsp;III Z.&nbsp;7)</span></span></p>
 
-**§ 285f StPO.**  
- Bei der nichtöffentlichen Beratung kann ferner die Einholung tatsächlicher Aufklärungen über behauptete Formverletzungen oder Verfahrensmängel angeordnet werden.
+### § 349 StPO
 
-### § 285g StPO.
+`§ 349 (1) StPO.`  
+Liegt einer der im § 345 Abs. 1 Z. 1 bis 9 und 10a erwähnten Nichtigkeitsgründe vor, so hebt der Oberste Gerichtshof den Wahrspruch der Geschworenen und das darauf beruhende Urteil auf und verweist, sofern er nicht aus dem im § 345 Abs. 1 Z. 7 angeführten Grunde den Angeklagten freispricht, die Sache an das Geschworenengericht des von ihm zu bezeichnenden Landesgerichts zur nochmaligen Verhandlung und Entscheidung.
 
-**§ 285g StPO.**  
- Den im § 285d erwähnten Beschluß kann der Oberste Gerichtshof auch bei der Beratung über eine auf Grund des § 285b an ihn gelangte Beschwerde fassen, wenn die Ausführung der Nichtigkeitsbeschwerde überreicht oder die Frist hiezu verstrichen ist.
+`§ 349 (2) StPO.`  
+Werden nicht alle Teile des Wahrspruches vom geltend gemachten Nichtigkeitsgrund getroffen und ist eine Sonderung möglich, so läßt der Oberste Gerichtshof die nicht betroffenen Teile des Wahrspruches und des Urteiles von dieser Verfügung unberührt und trägt dem Gericht, an das die Sache verwiesen wird, auf, die unberührt gebliebenen Teile des Wahrspruches der Entscheidung mit zugrunde zu legen.
 
-### § 285h StPO.
+### § 350 StPO
 
-**§ 285h StPO.**  
- Die Bestimmungen der §§ 285c bis 285g sind auch auf Nichtigkeitsbeschwerden nach § 281a anzuwenden.
+`§ 350 (1) StPO.`  
+Liegt der im § 260 angeführte Nichtigkeitsgrund vor, so verweist der Oberste Gerichtshof die Sache an das Geschworenengericht, das das Urteil gefällt hat, mit dem Auftrage zurück, nach Tunlichkeit in der gleichen Zusammensetzung ein neues Urteil auf Grund des früheren Ausspruches der Geschworenen zu fällen.
 
-### § 285i StPO.
+`§ 350 (2) StPO.`  
+Liegt der im § 345 Abs. 1 Z. 10 bezeichnete Nichtigkeitsgrund vor, so hebt der Oberste Gerichtshof den Wahrspruch der Geschworenen, soweit er vom Nichtigkeitsgrunde betroffen ist, und das darauf beruhende Urteil auf. Ist den Geschworenen mit Unrecht die Verbesserung des Wahrspruches aufgetragen worden, so entscheidet er auf Grund des ursprünglichen Wahrspruches in der Sache selbst. Ist den Geschworenen die Verbesserung wegen eines von ihnen behaupteten Mißverständnisses mit Unrecht nicht aufgetragen worden, so verweist der Oberste Gerichtshof die Sache an das Geschworenengericht zur neuen Verhandlung und Entscheidung zurück.
 
-**§ 285i StPO.**  
- Weist der Oberste Gerichtshof in nichtöffentlicher Sitzung die Nichtigkeitsbeschwerde oder die Beschwerde gegen deren Zurückweisung durch das Landesgericht zurück und war mit der Nichtigkeitsbeschwerde die Berufung verbunden, so entscheidet über diese das Oberlandesgericht. Dasselbe gilt, wenn der Nichtigkeitsbeschwerde eines Angeklagten sofort Folge gegeben wird (§ 285e) und der Oberste Gerichtshof nur noch über die Berufung in Ansehung eines anderen Angeklagten zu entscheiden hätte.
+### § 351 StPO
 
-### § 285j StPO.
+`§ 351 StPO.`  
+Liegt einer der im § 345 Abs. 1 Z 11 bis 13 angeführten Nichtigkeitsgründe vor, so entscheidet der Oberste Gerichtshof in der Sache selbst. Sind jedoch die der Feststellung durch die Geschworenen vorbehaltenen Tatsachen, die er seiner Entscheidung zugrunde zu legen hätte, im Wahrspruche der Geschworenen nicht festgestellt, so verweist er die Sache an das Geschworenengericht des von ihm zu bezeichnenden Landesgerichts, wenn aber die strafbare Handlung bei richtiger Anwendung des Gesetzes nicht mehr vor das Geschworenengericht gehört, an das von ihm zu bezeichnende sachlich zuständige Gericht zur nochmaligen Verhandlung und Entscheidung.
 
-**§ 285j StPO.**  
- Im Fall einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs. 5 erster Satz oder 62a Abs. 5 erster Satz VfGG hat das Landesgericht nach § 285a vorzugehen und eine Ausfertigung seines Beschlusses oder eines nach § 285b gefassten Beschlusses dem Verfassungsgerichtshof zu übermitteln und im Fall einer verbundenen Berufung die Verständigung des Verfassungsgerichtshofes dem Oberlandesgericht vorzulegen oder mitzuteilen, dass kein Grund für ein Vorgehen nach § 285a vorliegt.
-
-### § 286 StPO.
-
-**§ 286 (1) StPO.**  
-Vom Termin des Gerichtstags zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde sind die Beteiligten des Verfahrens zu verständigen. Der Angeklagte, sein Verteidiger sowie der allenfalls einschreitende Privatbeteiligte oder Privatankläger sind so rechtzeitig zu laden, dass ihnen eine Vorbereitungszeit von acht Tagen verbleibt. In der Ladung sind sie darauf aufmerksam zu machen, dass im Fall ihres Ausbleibens ihre Ausführungen und Beschwerden vorgetragen und der Entscheidung zu Grunde gelegt werden würden.
-
-**§ 286 (2) StPO.**  
-Ist der Angeklagte verhaftet, so ist dessen Vorführung zum Gerichtstag zu veranlassen, es sei denn, dieser hat durch seinen Verteidiger ausdrücklich darauf verzichtet. In den in § 174 Abs. 1 zweiter Satz geregelten Fällen kann gemäß § 153 Abs. 4 vorgegangen werden.
-
-**§ 286 (4) StPO.**  
-Hat er noch keinen Verteidiger, so ist ihm von Amts wegen ein Rechtsanwalt als Verteidiger beizugeben (§ 61 Abs. 3). Liegen die Voraussetzungen des § 61 Abs. 2 vor, so ist dem Angeklagten nach dieser Gesetzesstelle ein Rechtsanwalt als Verteidiger beizugeben.
-
-### § 287 StPO.
-
-**§ 287 (1) StPO.**  
-Die Verhandlung der Sache vor dem Obersten Gerichtshof am angesetzten Gerichtstag ist öffentlich nach den Vorschriften der §§ 228 bis 230a. Die §§ 233 bis 237 gelten sinngemäß.
-
-**§ 287 (2) StPO.**  
-Zuerst trägt der Berichterstatter eine Darstellung des bisherigen Ganges des Strafverfahrens vor und bezeichnet die vom Beschwerdeführer aufgestellten Nichtigkeitsgründe und die sich daraus ergebenden Streitpunkte, ohne eine Ansicht über die zu fällende Entscheidung zu äußern.
-
-**§ 287 (3) StPO.**  
-Hierauf erhält der Beschwerdeführer das Wort zur Begründung seiner Beschwerde und sodann sein Gegner zur Erwiderung. Dem Angeklagten oder seinem Verteidiger gebührt jedenfalls das Recht der letzten Äußerung. Ist ein Teil nicht erschienen, so wird dessen Beschwerdeschrift oder Gegenausführung vorgelesen. Hierauf zieht sich der Gerichtshof in sein Beratungszimmer zurück.
-
-### § 288 StPO.
-
-**§ 288 (1) StPO.**  
-Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde unbegründet, so hat er sie zu verwerfen.
-
-**§ 288 (2) StPO.**  
-Ist die Nichtigkeitsbeschwerde begründet, so ist das Urteil, soweit es angefochten und durch den Nichtigkeitsgrund berührt ist, aufzuheben und nach Verschiedenheit der Nichtigkeitsgründe gemäß den folgenden Vorschriften zu erkennen und weiter zu verfahren:
-1. Liegt einer der im § 281 Abs. 1 unter Z 1 bis 5a angeführten Nichtigkeitsgründe vor, so ordnet der Oberste Gerichtshof eine neue Hauptverhandlung an und verweist die Sache nach seinem Ermessen entweder an dasselbe oder an ein anderes Landesgericht.
-2. Hat das Schöffengericht mit Unrecht seine Unzuständigkeit ausgesprochen oder die Anklage nicht erledigt (§ 281 Abs. 1 Z 6 und 7), so trägt ihm der Oberste Gerichtshof auf, sich der Verhandlung und Urteilsfällung zu unterziehen, die sich im Falle der Z 7 auf die unerledigt gebliebenen Anklagepunkte zu beschränken hat.
-3. Hat das Schöffengericht das Vorliegen der Voraussetzungen einer Einstellung des Verfahrens nach dem 11. Hauptstück oder § 37 SMG zu Unrecht nicht angenommen, so verweist der Oberste Gerichtshof die Sache an dasselbe oder an ein anderes Landesgericht, erforderlichenfalls auch an das zuständige Bezirksgericht, mit dem Auftrag, nach den Bestimmungen dieses Hauptstückes vorzugehen.
-4. In allen anderen Fällen erkennt der Oberste Gerichtshof in der Sache selbst, indem er seiner Entscheidung die Tatsachen zugrunde legt, die das Schöffengericht ohne Überschreitung der Anklage (§ 281 Abs. 1 Z 8) festgestellt hat. Findet der Oberste Gerichtshof jedoch im Urteil und dessen Entscheidungsgründen die Tatsachen nicht festgestellt, die bei richtiger Anwendung des Gesetzes dem Erkenntnisse zugrunde zu legen wären, so verweist er die Sache zu neuer Verhandlung und Entscheidung an dasselbe oder an ein anderes Landesgericht, geeignetenfalls auch an das zuständige Bezirksgericht.
-
-### § 288a StPO.
-
-**§ 288a StPO.**  
- Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde nach § 281a gegründet, so vernichtet er die Hauptverhandlung, verweist die Sache zur nochmaligen Verhandlung vor das zuständige Landesgericht und verfügt die sonst nötige Verbesserung des Verfahrens.
-
-### § 289 StPO.
-
-**§ 289 StPO.**  
- War die Nichtigkeitsbeschwerde nur gegen einzelne im Urteil enthaltene Verfügungen gerichtet und findet der Oberste Gerichtshof, daß diese vom Inhalte des ganzen Urteiles trennbar seien, so steht ihm auch frei, das angefochtene Urteil nur teilweise aufzuheben. Eben dies ist der Fall, wenn dem angefochtenen Urteile mehrere strafbare Handlungen zugrunde liegen und die Nichtigkeitsbeschwerde sich nur auf das Verfahren oder die Beurteilung hinsichtlich einzelner von ihnen beschränkt, zugleich aber die erforderliche teilweise Wiederholung des Verfahrens oder auch ohne diese ein neuer Ausspruch hinsichtlich dieser einzelnen strafbaren Handlung ausführbar erscheint.
-
-### § 290 StPO.
-
-**§ 290 (1) StPO.**  
-Der Oberste Gerichtshof hat sich auf die vom Beschwerdeführer ausdrücklich oder doch durch deutliche Hinweisung geltend gemachten Nichtigkeitsgründe zu beschränken. Überzeugt er sich jedoch aus Anlaß einer von wem immer ergriffenen Nichtigkeitsbeschwerde, daß zum Nachteile des Angeklagten das Strafgesetz unrichtig angewendet worden sei (§ 281 Abs. 1 Z 9 bis 11) oder daß dieselben Gründe, auf denen seine Verfügung zugunsten eines Angeklagten beruht, auch einem Mitangeklagten zustatten kommen, der die Nichtigkeitsbeschwerde nicht ergriffen hat, so hat er von Amts wegen so vorzugehen, als wäre der in Frage kommende Nichtigkeitsgrund geltend gemacht worden. Ist der im § 281 Abs. 1 Z 11 angeführte Nichtigkeitsgrund geltend gemacht worden, so ist so vorzugehen, als wäre auch die Berufung ergriffen worden.
-
-**§ 290 (2) StPO.**  
-Ist die Nichtigkeitsbeschwerde lediglich zugunsten des Angeklagten ergriffen worden, so kann der Oberste Gerichtshof keine strengere Strafe über den Angeklagten verhängen, als das angefochtene Urteil ausgesprochen hatte.
-
-### § 291 StPO.
-
-**§ 291 StPO.**  
- Das Urteil des Obersten Gerichshofes ist, nachdem sich dieser in den Gerichtssaal zurückbegeben hat, samt den Entscheidungsgründen mündlich zu verkünden; hat der Angeklagte der Verhandlung beim Obersten Gerichtshofe nicht beigewohnt, so ist ihm ohne Verzug eine amtlich beglaubigte Abschrift des Urteiles durch das Landesgericht zuzustellen. Für die Ausfertigung des Urteiles und die Führung des Protokolls bei den Verhandlungen des Obersten Gerichtshofes sind die in den §§ 260, 268 bis 271 enthaltenen Vorschriften zu beobachten.
-
-### § 292 StPO.
-
-**§ 292 StPO.**  
- Das Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsbeschwerde richtet sich im allgemeinen nach den in den §§ 286 Abs. 1 bis 3 und 287 bis 291 enthaltenen Vorschriften. Dem Angeklagten (Verurteilten) oder seinem Verteidiger ist eine Gleichschrift der Nichtigkeitsbeschwerde mit dem Bedeuten mitzuteilen, daß er sich binnen einer festzusetzenden angemessenen Frist hiezu äußern könne; vom Gerichtstag ist er mit der Bemerkung in Kenntnis zu setzen, daß es ihm freistehe zu erscheinen. Ist der Aufenthaltsort des Angeklagten nicht bekannt und ohne besonderen Verfahrensaufwand nicht feststellbar, so kann die Zustellung an ihn unterbleiben. Das gleiche gilt für den Privatbeteiligten, sofern der Ausspruch über die privatrechtlichen Ansprüche von der Nichtigkeitsbeschwerde betroffen ist, und für die sonst Beteiligten, sofern ihre Rechte betroffen sind. Findet der Oberste Gerichtshof die zur Wahrung des Gesetzes erhobene Beschwerde gegründet, so hat er zu erkennen, daß in der fraglichen Strafsache durch den angefochtenen Beschluß oder Vorgang, durch das gepflogene Verfahren oder durch das erlassene Urteil das Gesetz verletzt worden sei. Dieser Ausspruch ist in der Regel ohne Wirkung auf den Angeklagten. Ist jedoch der Angeklagte durch ein solches nichtiges Urteil zu einer Strafe verurteilt worden, so steht es dem Obersten Gerichtshofe frei, nach seinem Ermessen entweder den Angeklagten freizusprechen oder einen milderen Strafsatz anzuwenden oder nach Umständen eine Erneuerung des gegen diesen gepflogenen Verfahrens anzuordnen.
-
-### § 293 StPO.
-
-**§ 293 (1) StPO.**  
-Das Gericht, an das die Sache nach den §§ 288 und 292 zu neuer Verhandlung verwiesen wird, hat dabei die ursprüngliche Anklage zugrunde zu legen, sofern nicht der Oberste Gerichtshof eine Abweichung angeordnet hat.
-
-**§ 293 (2) StPO.**  
-Es ist an die Rechtsansicht gebunden, von der der Oberste Gerichtshof bei seiner Entscheidung ausgegangen ist.
-
-**§ 293 (3) StPO.**  
-Die Bestimmung des § 290 Abs. 2 ist auch für das auf Grund der neuen Hauptverhandlung ergehende Urteil maßgebend.
-
-**§ 293 (4) StPO.**  
-Gegen dieses Urteil kann die Nichtigkeitsbeschwerde aus allen im § 281 erwähnten Gründen ergriffen werden, soweit diese nicht bereits durch eine in derselben Sache ergangene Entscheidung des Obersten Gerichtshofes beseitigt sind.
-
-**END-OF-FILE**
+`END-OF-DATA-FILE`

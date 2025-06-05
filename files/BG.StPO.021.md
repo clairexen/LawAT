@@ -2,248 +2,369 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 7. Beratung und Abstimmung der Geschworenen
+## 18. Hauptstück # Kosten des Strafverfahrens
 
-### § 324 StPO.
+### § 380 StPO
 
-**§ 324 (1) StPO.**  
-Ist der Schwurgerichtshof einstimmig der Ansicht, daß seine Anwesenheit während der Beratung der Geschworenen zur besseren Aufklärung schwieriger Tat- oder Rechtsfragen zweckmäßig sei, so beschließt er, ohne einen darauf abzielenden Antrag zuzulassen, dieser Beratung ganz oder teilweise beizuwohnen.
+`§ 380 StPO.`  
+Sofern die besonderen Vorschriften über die Gerichtsgebühren nichts anderes bestimmen, sind in Strafsachen keine Gebühren zu entrichten.
 
-**§ 324 (2) StPO.**  
-Vor dieser Beschlußfassung ist der Obmann der Geschworenen zu hören; dieser hat die Meinung der Geschworenen einzuholen. Spricht sich die Mehrheit der Geschworenen gegen die Teilnahme des Schwurgerichtshofes an der Beratung aus, so kann ein Beschluß im Sinne des Abs. 1 nicht gefaßt werden.
+### § 381 StPO
 
-**§ 324 (3) StPO.**  
-Ein Beschluß im Sinne des Abs. 1 ist vom Vorsitzenden den Geschworenen mitzuteilen. Eine schriftliche Ausfertigung dieses Beschlusses samt Gründen ist von den Mitgliedern des Schwurgerichtshofes zu unterfertigen und dem Hauptverhandlungsprotokoll anzuschließen. Ein Rechtsmittel steht gegen den Beschluß nicht offen.
+`§ 381 (1) StPO.`  
+Die Kosten des Strafverfahrens, die von der zum Kostenersatze verpflichteten Partei zu ersetzen sind, umfassen:  
+`§ 381 (1) Z 1 StPO.`
+einen Pauschalkostenbeitrag als Anteil an den im Folgenden nicht besonders angeführten Kosten des Strafverfahrens, einschließlich der Kosten der Ermittlungen der Kriminalpolizei und der zur Durchführung von Anordnungen der Staatsanwaltschaft oder des Gerichts notwendigen Amtshandlungen;  
+`§ 381 (1) Z 2 StPO.`
+die Gebühren der Sachverständigen;  
+`§ 381 (1) Z 2a StPO.`
+soweit nicht nach Abs. 6 vorzugehen ist, die Gebühren der Dolmetscher, im Fall einer Bestellung nach § 126 Abs. 2a einen Pauschalbeitrag von 159 Euro;  
+`§ 381 (1) Z 3 StPO.`
+eine Vergütung für Auskünfte, Befunde und Gutachten von Behörden (Ämtern, Anstalten) in der Höhe, wie sie für solche Auskünfte, Befunde und Gutachten in Privatangelegenheiten zu entrichten wäre;  
+`§ 381 (1) Z 4 StPO.`
+die Kosten der Beförderung und Bewachung des Beschuldigten im Zusammenhang mit seiner Überstellung aus einem anderen Staat sowie die Kosten aus dem Ausland geladener Zeugen;  
+`§ 381 (1) Z 5 StPO.`
+die Kosten einer Sicherstellung, einer Auskunft über Bankkonten und über Bankgeschäfte oder der Beschlagnahme von Briefen, der Auskunft über Daten einer Nachrichtenübermittlung und der Überwachung von Nachrichten gemäß §§ 111 Abs. 3, 116 Abs. 6 letzter Satz und 138 Abs. 3, soweit diese Ermittlungsmaßnahmen einen erheblichen Beitrag zur Aufklärung der Tat geleistet haben;  
+`§ 381 (1) Z 6 StPO.`
+die Kosten der Vollstreckung des Strafurteiles einschließlich der Kosten der Überstellung von Strafgefangenen in den in- oder ausländischen Strafvollzug, ausgenommen die Kosten des Vollzuges einer Freiheitsstrafe;  
+`§ 381 (1) Z 7 StPO.`
+die im Strafverfahren zu entrichtenden Gerichtsgebühren;  
+`§ 381 (1) Z 8 StPO.`
+die Kosten der Verteidiger und anderer Vertreter;  
+`§ 381 (1) Z 9 StPO.`
+einen Pauschalbetrag als Anteil an den Kosten der Prozessbegleitung (§ 66b) bis zu 1 000 Euro.
 
-### § 325 StPO.
+`§ 381 (2) StPO.`  
+Diese Kosten werden, soweit sich aus besonderen gesetzlichen Vorschriften nichts anderes ergibt, mit Ausnahme der unter Abs. 1 Z 3 und 7 bis 9 bezeichneten Kosten vom Bunde vorgeschossen, vorbehaltlich des Rückersatzes nach den Bestimmungen der §§ 389 bis
+**FIXME** P: <p class="ErlText AlignJustify">391.</p>
 
-**§ 325 (1) StPO.**  
-Der Obmann leitet die Beratung der Geschworenen damit ein, daß er ihnen folgende Belehrung vorliest:
+`§ 381 (3) StPO.`  
+Der Pauschalkostenbeitrag (Abs. 1 Z 1) ist innerhalb der folgenden Grenzen zu bemessen (Abs. 5):  
+`§ 381 (3) Z 1 StPO.`
+im Verfahren vor dem Landesgericht als Geschworenengericht von 500 Euro bis 10 000 Euro  
+`§ 381 (3) Z 2 StPO.`
+im Verfahren vor dem Landesgericht als Schöffengericht von 250 Euro bis 5 000 Euro  
+`§ 381 (3) Z 3 StPO.`
+im Verfahren vor dem Einzelrichter des Landesgerichts von 150 Euro bis 3 000 Euro  
+`§ 381 (3) Z 4 StPO.`
+im Verfahren vor dem Bezirksgericht von 50 Euro bis 1 000 Euro
 
-**§ 325 (2) StPO.**  
-Mehrere Abdrucke dieser Belehrung sowie der Bestimmungen der §§ 326, 329, 330, 331, 332 Abs. 1 bis 3 sowie des § 340 sollen im Beratungszimmer der Geschworenen angeschlagen sein.
+`§ 381 (4) StPO.`  
+Spricht ein Landesgericht lediglich eine Verurteilung wegen einer in die Zuständigkeit der Bezirksgerichte fallenden strafbaren Handlung aus, so darf der Pauschalkostenbeitrag den für das Verfahren vor den Bezirksgerichten vorgesehenen Betrag nicht übersteigen. Im Verfahren vor den Bezirksgerichten auf Grund einer Privatanklage ist ein Pauschalkostenbeitrag nicht zu bestimmen, wenn keine Hauptverhandlung stattgefunden hat und auch keine Zeugen- oder Sachverständigengebühren aufgelaufen sind.
 
-### § 326 StPO.
+`§ 381 (5) StPO.`  
+Bei Bemessung des Pauschalkostenbeitrages gemäß Abs. 3 sind die Belastung der im Strafverfahren tätigen Behörden und Dienststellen und das Ausmaß der diesen erwachsenen, nicht besonders zu vergütenden Auslagen sowie das Vermögen, das Einkommen und die anderen für die wirtschaftliche Leistungsfähigkeit des Ersatzpflichtigen maßgebenden Umstände zu berücksichtigen.
 
-**§ 326 StPO.**  
- Die Geschworenen dürfen ihr Beratungszimmer nicht verlassen, bevor sie ihren Ausspruch über die an sie gerichteten Fragen gefällt haben. Niemand darf während der Beratung und Abstimmung ohne Bewilligung des Vorsitzenden in ihr Beratungszimmer eintreten; auch ist den Geschworenen jeder Verkehr mit dritten Personen untersagt. Gegen Geschworene und dritte Personen, die diesem Verbot zuwiderhandeln, ist vom Schwurgerichtshof eine Ordnungsstrafe bis zu 1 000 Euro zu verhängen.
+`§ 381 (5a) StPO.`  
+Bei Bemessung des Pauschalbetrages gemäß Abs. 1 Z 9 sind die Belastung der mit der Prozessbegleitung beauftragten Einrichtung und das Ausmaß ihrer Aufwendungen sowie die im Abs. 5 bezeichneten Umstände der wirtschaftlichen Leistungsfähigkeit des Ersatzpflichtigen zu berücksichtigen.
 
-### § 327 StPO.
+`§ 381 (6) StPO.`  
+Die Kosten für Übersetzungshilfe (§ 56) bilden keinen Teil der vom Angeklagten zu ersetzenden Kosten. Weitergehende Rechte, die sprachlichen Minderheiten bundesgesetzlich eingeräumt sind, bleiben unberührt.
 
-**§ 327 (1) StPO.**  
-Entstehen bei den Geschworenen im Zuge der Beratung Zweifel über den Sinn der ihnen gestellten Fragen, über das von ihnen bei der Abstimmung zu beobachtende Verfahren oder über die Fassung einer Antwort, oder äußern die Geschworenen den Wunsch nach einer Ergänzung des Beweisverfahrens zur Aufklärung erheblicher Tatsachen oder nach Änderung oder Ergänzung der an sie gerichteten Fragen, so ersucht der Obmann der Geschworenen, wenn der Schwurgerichtshof nicht an der Beratung teilnimmt, den Vorsitzenden schriftlich, sich in das Beratungszimmer zu begeben. Der Schwurgerichtshof begibt sich hierauf mit dem Schriftführer in das Beratungszimmer. Der Vorsitzende erteilt den Geschworenen die erforderliche Belehrung.
+`§ 381 (7) StPO.`  
+Die durch eine Festnahme verursachten Kosten und die Kosten der Untersuchungshaft sind bei Bemessung des Pauschalkostenbeitrages nicht zu berücksichtigen.
 
-**§ 327 (2) StPO.**  
-Die Belehrung ist zu Protokoll zu nehmen und das Protokoll dem Hauptverhandlungsprotokoll anzuschließen.
+### § 382 StPO
 
-**§ 327 (3) StPO.**  
-Im übrigen wird über die Beratung der Geschworenen kein Protokoll geführt.
+`§ 382 StPO.`  
+Die Gebühren der Organe der Kriminalpolizei für die Anfertigung von Kopien für Zwecke der Akteneinsicht, Zustellungen, Ladungen, Bewachung oder Beförderung des Beschuldigten oder anderer Personen werden durch besondere bundesgesetzliche Bestimmungen geregelt.
 
-### § 328 StPO.
+### § 383 StPO
 
-**§ 328 StPO.**  
- Äußern die Geschworenen bei der Beratung den Wunsch nach einer Ergänzung des Beweisverfahrens zur Aufklärung erheblicher Tatsachen (§ 309) oder nach Änderung oder Ergänzung der an sie gerichteten Fragen, so ist die Verhandlung wieder zu eröffnen; sofern es sich um eine Ergänzung oder Änderung der Fragen handelt, gelten die Bestimmungen des § 310 Abs. 3 und 4 sinngemäß.
+`§ 383 StPO.`  
+(Aufgehoben)
 
-### § 329 StPO.
+### § 384 StPO
 
-**§ 329 StPO.**  
- Der Abstimmung der Geschworenen darf bei sonstiger Nichtigkeit niemand beiwohnen.
+`§ 384 StPO.`  
+(Aufgehoben)
 
-### § 330 StPO.
+### § 385 StPO
 
-**§ 330 (1) StPO.**  
-Der Obmann der Geschworenen läßt über die einzelnen Fragen der Reihe nach mündlich abstimmen, indem er jeden Geschworenen um seine Meinung befragt; er selbst gibt seine Stimme zuletzt ab.
+`§ 385 StPO.`  
+(Aufgehoben)
 
-**§ 330 (2) StPO.**  
-Die Geschworenen stimmen über jede Frage mit „ja“ oder „nein“ ab; doch ist ihnen auch gestattet, eine Frage nur teilweise zu bejahen. In diesem Fall ist die Beschränkung kurz beizufügen (zum Beispiel: „Ja, aber nicht mit diesen oder jenen in der Frage enthaltenen Umständen“).
+### § 386 StPO
 
-### § 331 StPO.
+`§ 386 StPO.`  
+(Aufgehoben)
 
-**§ 331 (1) StPO.**  
-Zur Bejahung der an die Geschworenen gerichteten Fragen ist absolute Stimmenmehrheit, das ist mehr als die Hälfte sämtlicher Stimmen, erforderlich; bei Stimmengleichheit gibt die dem Angeklagten günstigere Meinung den Ausschlag. Ist eine Schuldfrage zuungunsten des Angeklagten bejaht worden, so können sich die überstimmten Geschworenen der Abstimmung über die für diesen Fall gestellten Zusatzfragen enthalten; ihre Stimmen werden dann den dem Angeklagten günstigsten zugezählt.
+### § 387 StPO
 
-**§ 331 (2) StPO.**  
-Der Obmann zählt die Stimmen und schreibt in zwei Niederschriften der Fragen neben jede Frage, je nachdem sie durch die Geschworenen beantwortet worden ist, „ja“ oder „nein“, mit den allfälligen Beschränkungen, unter Angabe des Stimmenverhältnisses und unterschreibt diese Aufzeichnung des Wahrspruches der Geschworenen. Es dürfen darin keine Radierungen vorkommen; Ausstreichungen, Randbemerkungen oder Einschaltungen müssen vom Obmanne durch eine von ihm unterschriebene Bemerkung ausdrücklich genehmigt sein.
+`§ 387 StPO.`  
+(Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 3)
 
-**§ 331 (3) StPO.**  
-Nach Beendigung der Abstimmung hat der Obmann in einer kurzen Niederschrift, gesondert für jede Frage, die Erwägungen anzugeben, von denen die Mehrheit der Geschworenen bei der Beantwortung dieser Frage ausgegangen ist. Die Niederschrift ist im Einvernehmen mit diesen Geschworenen abzufassen und vom Obmanne zu unterfertigen.
+### § 388 StPO
 
-**§ 331 (4) StPO.**  
-Der Obmann der Geschworenen benachrichtigt sodann den Vorsitzenden des Schwurgerichtshofes schriftlich von der Beendigung der Abstimmung.
-## 8. Verbesserung des Wahrspruches der Geschworenen
+`§ 388 (1) StPO.`  
+Der vorläufige Rücktritt von der Verfolgung und die vorläufige Einstellung des Verfahrens unter Bestimmung einer Probezeit setzen die Leistung eines Beitrages zu den nach § 381 Abs. 1 Z 1 bis 3 zu ersetzenden Kosten bis zu 250 Euro voraus.
 
-### § 332 StPO.
+`§ 388 (2) StPO.`  
+Im Fall gemeinnütziger Leistungen oder eines Tatausgleichs kann die Staatsanwaltschaft von der Verfolgung erst zurücktreten oder das Gericht das Strafverfahren erst einstellen, nachdem der Beschuldigte einen Pauschalkostenbeitrag bis zu 250 Euro bezahlt hat.
 
-**§ 332 (1) StPO.**  
-Der Schwurgerichtshof begibt sich darauf mit dem Schriftführer, dem Ankläger und dem Verteidiger in das Beratungszimmer der Geschworenen.
+`§ 388 (3) StPO.`  
+Für die Bemessung der Kostenbeiträge gilt § 381 Abs. 5 sinngemäß. Die Zahlung ist insoweit nachzusehen, als dadurch der zu einer einfachen Lebensführung notwendige Unterhalt des Beschuldigten und seiner Familie, für deren Unterhalt er zu sorgen hat, Schadensgutmachung, Tatfolgenausgleich oder die Erfüllung des Tatausgleichs gefährdet würde.
 
-**§ 332 (2) StPO.**  
-Der Obmann der Geschworenen übergibt eine von ihm unterschriebene Aufzeichnung des Wahrspruches und der im § 331 Abs. 3 bezeichneten Niederschrift dem Vorsitzenden. Dieser unterzeichnet sie, läßt sie vom Schriftführer vorlesen und von ihm mitfertigen.
+### § 389 StPO
 
-**§ 332 (3) StPO.**  
-Nach der Verlesung kann in der Regel kein Geschworener von seiner Meinung abgehen.
+`§ 389 (1) StPO.`  
+Im Fall eines Schuldspruchs ist der Angeklagte auch zum Ersatz der Kosten des Strafverfahrens zu verpflichten (§ 260 Abs. 1 Z 5).
 
-**§ 332 (4) StPO.**  
-Wird jedoch von einem oder mehreren Geschworenen behauptet, daß bei der Abstimmung ein Mißverständnis unterlaufen sei, oder kommt der Schwurgerichtshof nach Anhörung des Anklägers und des Verteidigers zu der Überzeugung, daß der Wahrspruch der Geschworenen undeutlich, unvollständig oder in sich widersprechend ist oder mit dem Inhalte der im § 331 Abs. 3 bezeichneten Niederschrift in Widerspruch steht, so trägt er den Geschworenen die Verbesserung des Wahrspruches auf.
+`§ 389 (2) StPO.`  
+Wird das Strafverfahren gegen einen Angeklagten wegen mehrerer Straftaten teils mit Schuld-, teils mit Freispruch erledigt, so ist der Angeklagte nur zum Ersatz jener Kosten zu verpflichten, die sich auf den Schuldspruch beziehen.
 
-**§ 332 (5) StPO.**  
-Hält in einem solchen Falle der Schwurgerichtshof eine Änderung oder Ergänzung der Fragen für wünschenswert oder wird eine solche vom Ankläger oder vom Verteidiger beantragt, so ist die Verhandlung wieder zu eröffnen und nach Vorschrift des § 310 Abs. 3 und 4 zu verfahren.
+`§ 389 (3) StPO.`  
+Die Verpflichtung zum Ersatz der Kosten trifft jedoch den rechtskräftig Verurteilten nur für seine Person; sie geht nicht auf die Erben über. Von mehreren Angeklagten ist jeder einzelne zur Tragung des Pauschalkostenbeitrages, der dem gegen ihn gefällten Erkenntnis entspricht, sowie der Kosten zu verurteilen, die durch seine Verteidigung oder durch besondere, nur bei ihm eingetretene Ereignisse oder durch sein besonderes Verschulden entstanden sind. Zur Bezahlung aller anderen Kosten des Strafverfahrens sind sämtliche Angeklagten zur ungeteilten Hand zu verurteilen, sofern das Gericht nicht besondere Gründe findet, eine Beschränkung dieser Haftung eintreten zu lassen.
 
-**§ 332 (6) StPO.**  
-Das über die Beratung des Schwurgerichtshofes (Abs. 4 und 5) aufgenommene Protokoll und der ursprüngliche Wahrspruch und die im § 331 Abs. 3 bezeichnete Niederschrift sind dem Hauptverhandlungsprotokoll anzuschließen.
+### § 390 StPO
 
-### § 333 StPO.
+`§ 390 (1) StPO.`  
+Wird das Strafverfahren auf andere Weise als durch einen Schuldspruch beendigt, so sind die Kosten in der Regel vom Bunde zu tragen. Soweit aber das Strafverfahren auf Begehren eines Privatanklägers oder gemäß § 72 lediglich auf Antrag des Privatbeteiligten stattgefunden hat, ist diesen der Ersatz aller infolge ihres Einschreitens aufgelaufenen Kosten in der das Verfahren für die Instanz erledigenden Entscheidung aufzutragen. Den Privatbeteiligten trifft jedoch kein Kostenersatz, wenn das Strafverfahren nach dem 11. Hauptstück beendet wird.
 
-**§ 333 StPO.**  
- Hält der Schwurgerichtshof eine Verbesserung des Wahrspruches für erforderlich oder ist in diesem Fall auch die Fragestellung geändert oder ergänzt worden, so eröffnet der Vorsitzende den Geschworenen, daß sie nur zur Änderung der beanstandeten Antworten (§ 332 Abs. 4) und zur Beantwortung der neu oder in geänderter Fassung vorgelegten Fragen (§ 332 Abs. 5) berechtigt sind. Die neuen oder geänderten Fragen sind dem Obmanne der Geschworenen in zwei Ausfertigungen zu übergeben.
-## 9. Weiteres Verfahren bis zur gemeinsamen Beratung über die Strafe
+`§ 390 (1a) StPO.`  
+In Strafverfahren wegen übler Nachrede (§ 111 StGB), Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung (§ 113 StGB), oder Beleidigung (§ 115 StGB), die im Wege einer Telekommunikation oder unter Verwendung eines Computersystems begangen wurden, ist der Privatankläger oder Antragsteller (§ 71 Abs. 1) nur zum Kostenersatz verpflichtet, wenn er den Vorwurf wissentlich falsch erhoben hat.
 
-### § 334 StPO.
+`§ 390 (2) StPO.`  
+Haben mehrere Privatankläger oder Privatbeteiligte wegen derselben Handlung erfolglos Bestrafung derselben Personen begehrt, so haften sie für die Kosten des Strafverfahrens zur ungeteilten Hand. Haben sie erfolglos die Bestrafung verschiedener Personen oder die Bestrafung derselben Personen wegen verschiedener Handlungen begehrt, so haftet jeder für die besonderen Kosten, die nur durch seinen Antrag entstanden sind, und für den Pauschalkostenbeitrag, der zu entrichten gewesen wäre, wenn seine Anklage den einzigen Gegenstand des Verfahrens gebildet hätte; die Anteile der einzelnen Ankläger an den gemeinsamen Kosten hat das Gericht nach dem Maß ihrer Beteiligung am Verfahren zu bestimmen.
 
-**§ 334 (1) StPO.**  
-Ist der Schwurgerichtshof einstimmig der Ansicht, daß sich die Geschworenen bei ihrem Ausspruch in der Hauptsache geirrt haben, so beschließt er – ohne einen darauf abzielenden Antrag zuzulassen –, daß die Entscheidung ausgesetzt und die Sache dem Obersten Gerichtshofe vorgelegt werde. Betrifft der Irrtum der Geschworenen nur den Ausspruch über einen von mehreren Angeklagten oder den Ausspruch über einzelne von mehreren Anklagepunkten und bestehen gegen die gesonderte Verhandlung und Entscheidung keine Bedenken, so hat sich die Aussetzung der Entscheidung auf diesen Angeklagten oder diesen Anklagepunkt zu beschränken und bleibt ohne Einfluß auf die übrigen. Ist die Entscheidung über einen oder mehrere denselben Angeklagten betreffende Anklagepunkte ausgesetzt worden, so sind die Bestimmungen des § 264 dem Sinne nach anzuwenden.
+`§ 390 (3) StPO.`  
+Die Staatsanwaltschaft kann nie zum Ersatze der Kosten verurteilt werden.
 
-**§ 334 (2) StPO.**  
-Der Oberste Gerichtshof verweist die Sache vor ein anderes Geschworenengericht desselben oder eines anderen Sprengels, wenn aber nur noch über eine strafbare Handlung zu entscheiden ist, die für sich allein nicht vor das Geschworenengericht gehört, an das von ihm zu bezeichnende sachlich zuständige Gericht.
+`§ 390 (4) StPO.`  
+Wurde endlich das Strafverfahren durch eine wissentlich falsche Anzeige veranlaßt, so hat die Kosten der Anzeiger zu ersetzen.
 
-**§ 334 (3) StPO.**  
-Bei der wiederholten Verhandlung darf keiner der Richter den Vorsitz führen und keiner der Geschworenen zugelassen werden, die an der ersten Verhandlung teilgenommen haben.
+### § 390a StPO
 
-**§ 334 (4) StPO.**  
-Stimmt der Wahrspruch des zweiten Geschworenengerichtes mit dem des ersten überein, so ist er dem Urteile zugrunde zu legen.
+`§ 390a (1) StPO.`  
+Den nach den §§ 389 und 390 zum Kostenersatze Verpflichteten fallen auch die Kosten des Rechtsmittelverfahrens zur Last, sofern sie nicht durch ein ganz erfolglos gebliebenes Rechtsmittel des Gegners verursacht worden sind. Ist ein solches Rechtsmittel vom Privatankläger oder vom Privatbeteiligten ergriffen worden, so ist ihm der Ersatz der dadurch verursachten Kosten unabhängig vom Ausgange des Verfahrens aufzuerlegen.
 
-### § 335 StPO.
+`§ 390a (2) StPO.`  
+Für die durch ein erfolgloses Begehren um Wiederaufnahme des Verfahrens verursachten Kosten haftet der Antragsteller.
 
-**§ 335 StPO.**  
- Wird die Entscheidung nicht ausgesetzt, so ist der Wahrspruch der Geschworenen dem Urteile zugrunde zu legen.
+### § 391 StPO
 
-### § 336 StPO.
+`§ 391 (1) StPO.`  
+Die Kosten des Strafverfahrens sind jedoch vom Ersatzpflichtigen nur insoweit einzutreiben, als dadurch weder der zu einer einfachen Lebensführung notwendige Unterhalt des Ersatzpflichtigen und seiner Familie, für deren Unterhalt er zu sorgen hat, noch die Erfüllung der aus der strafbaren Handlung entspringenden Pflicht zur Schadensgutmachung gefährdet wird. (BGBl. Nr. 423/1974, Art. I Z. 110)
 
-**§ 336 StPO.**  
- Haben die Geschworenen die Schuldfragen verneint oder Zusatzfragen (§ 313) bejaht, so fällt der Schwurgerichtshof sofort ein freisprechendes Urteil.
+`§ 391 (2) StPO.`  
+Ist nach den im Verfahren hervorgekommenen Umständen mit Grund anzunehmen, daß die Kosten des Strafverfahrens wegen Mittellosigkeit des Zahlungspflichtigen auch nicht bloß zum Teile hereingebracht werden können, so hat das Gericht, soweit tunlich, gleich bei Schöpfung des Erkenntnisses die Kosten für uneinbringlich zu erklären; andernfalls entfällt eine Entscheidung über die Einbringlichkeit der Kosten. Der Beschluß, womit die Kosten für uneinbringlich erklärt werden, kann jederzeit aufgehoben und, wenn später Umstände der bezeichneten Art hervorkommen, nachträglich gefaßt werden.
 
-### § 337 StPO.
+`§ 391 (3) StPO.`  
+Gegen Entscheidungen der Gerichte, womit ein Antrag abgelehnt wird, die Kosten für uneinbringlich zu erklären, ist kein Rechtsmittel zulässig.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-05')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;4)</span></span></p>
 
-**§ 337 StPO.**  
- Ebenso wird der Angeklagte durch Urteil des Schwurgerichtshofes freigesprochen, wenn ihn die Geschworenen zwar schuldig gesprochen haben, der Schwurgerichtshof jedoch der Meinung ist, daß bei Zugrundelegung der Tatsachen, die im Wahrspruche der Geschworenen festgestellt sind, und der rechtlichen Beurteilung, die die Geschworenen der Tat haben angedeihen lassen, die Verfolgung aus Gründen des Prozeßrechtes ausgeschlossen sei (§ 311), oder daß die Tat, die der Angeklagte nach dem Ausspruche der Geschworenen begangen hat, vom Gesetze nicht mit gerichtlicher Strafe bedroht sei.
-## 10. Gemeinsame Beratung über die Strafe
+### § 393 StPO
 
-### § 338 StPO.
+`§ 393 (1) StPO.`  
+Wer sich im Strafverfahren eines Vertreters bedient, hat in der Regel auch die für diese Vertretung auflaufenden Kosten, und zwar selbst in dem Falle zu zahlen, wenn ihm ein solcher Vertreter von Amts wegen beigegeben wird.
 
-**§ 338 StPO.**  
- Ist der Angeklagte schuldig befunden worden und ist er nicht nach § 336 oder § 337 freizusprechen, so entscheidet der Schwurgerichtshof gemeinsam mit den Geschworenen (§ 303) über die zu verhängende Strafe und die etwa anzuwendenden Maßnahmen der Besserung und Sicherung sowie über die privatrechtlichen Ansprüche und die Kosten des Strafverfahrens.
+`§ 393 (1a) StPO.`  
+Ein Angeklagter, dem ein Verteidiger nach § 61 Abs. 2 beigegeben wurde, hat einen Pauschalbeitrag zu dessen Kosten zu tragen, wenn ihm der Ersatz der Prozeßkosten überhaupt zur Last fällt und sein und seiner Familie, für deren Unterhalt er zu sorgen hat, zur einfachen Lebensführung notwendiger Unterhalt dadurch nicht beeinträchtigt wird. Für die Bemessung dieses Pauschalbeitrages gelten die im § 393a Abs. 1 angeführten Grundsätze und die dort genannten Höchstbeträge.
 
-### § 339 StPO.
+`§ 393 (2) StPO.`  
+Einem nach § 61 Abs. 2 beigegebenen Verteidiger sind, soweit nicht nach § 56 Abs. 2 vorzugehen ist, auf sein Verlangen die nötig gewesenen und wirklich bestrittenen baren Auslagen vom Bund zu vergüten. Zu diesen Auslagen gehören auch die Kosten eines Dolmetschers, soweit dessen Beiziehung zu den Besprechungen zwischen dem Verteidiger und dem Beschuldigten notwendig war; solche Kosten sind bis zu dem Ausmaß zu vergüten, das sich in sinngemäßer Anwendung der Bestimmungen des Gebührenanspruchsgesetzes 1975 ergibt.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;3 aufgehoben durch <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a>)</span></span></p>
 
-**§ 339 StPO.**  
- (Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 98)
-## 11. Verkündung des Wahrspruches und des Urteiles
+`§ 393 (4) StPO.`  
+In den Fällen, in denen dem Beschuldigten, dem Privatankläger, dem Privatbeteiligten (§ 72) oder dem, der eine wissentlich falsche Anzeige gemacht hat, der Ersatz der Prozeßkosten überhaupt zur Last fällt, haben diese Personen auch alle Kosten der Verteidigung und der Vertretung zu ersetzen.
 
-### § 340 StPO.
+`§ 393 (4a) StPO.`  
+Wird ein Strafverfahren wegen übler Nachrede (§ 111 StGB), Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung (§ 113 StGB) oder Beleidigung (§ 115 StGB), die im Wege einer Telekommunikation oder unter Verwendung eines Computersystems begangen wurden, auf andere Weise als durch einen Schuldspruch beendigt, so hat im Haupt- und Rechtsmittelverfahren der Privatankläger dem Angeklagten alle Kosten der Verteidigung zu ersetzen, sofern nicht ohnedies eine Ersatzpflicht nach Abs. 4 vorliegt.
 
-**§ 340 (1) StPO.**  
-Nach Wiedereröffnung der Sitzung läßt der Vorsitzende den Angeklagten vorführen oder vorrufen und fordert den Obmann der Geschworenen auf, den Wahrspruch mitzuteilen. Dieser erhebt sich und spricht:
+`§ 393 (5) StPO.`  
+Soweit jedoch der Privatbeteiligte mit seinen privatrechtlichen Ansprüchen auf den Zivilrechtsweg verwiesen worden ist, bilden die zur zweckentsprechenden Geltendmachung seiner Ansprüche im Strafverfahren aufgewendeten Kosten seines Vertreters einen Teil der Kosten des zivilgerichtlichen Verfahrens, in dem über den Anspruch erkannt wird.
 
-**§ 340 (2) StPO.**  
-Der Obmann verliest sodann bei sonstiger Nichtigkeit in Gegenwart aller Geschworenen die an sie gerichteten Fragen und unmittelbar nach jeder den beigefügten Wahrspruch der Geschworenen.
+### § 393a StPO # Beitrag zu den Kosten der Verteidigung
 
-### § 341 StPO.
+`§ 393a (1) StPO.`  
+Wird ein nicht lediglich auf Grund einer Privatanklage oder der Anklage eines Privatbeteiligten (§ 72) Angeklagter freigesprochen oder das Strafverfahren gemäß § 215 Abs. 2, § 227, § 451 Abs. 2 oder § 485 Abs. 1 Z 3 oder nach einer gemäß § 353, § 362 oder § 363a erfolgten Wiederaufnahme oder Erneuerung des Strafverfahrens eingestellt, so hat ihm der Bund auf Antrag einen Beitrag zu den Kosten der Verteidigung zu leisten. Der Beitrag umfasst die nötig gewesenen und vom Angeklagten bestrittenen baren Auslagen und außer im Fall des § 61 Abs. 2 auch einen Beitrag zu den Kosten des Verteidigers, dessen sich der Angeklagte bedient.
 
-**§ 341 (1) StPO.**  
-Der Vorsitzende verkündet sodann in der öffentlichen Gerichtssitzung in Gegenwart des Anklägers, des Angeklagten (§§ 234, 269) und des Verteidigers das Urteil samt den wesentlichen Gründen oder den Beschluß auf Aussetzung der Entscheidung (§ 334), diesen ohne Begründung.
+`§ 393a (2) StPO.`  
+Der Beitrag zu den Kosten der Verteidigung ist unter Bedachtnahme auf den Umfang des Verfahrens, die Komplexität der zu lösenden Tat- und Rechtsfragen und das Ausmaß des notwendigen oder zweckmäßigen Einsatzes des Verteidigers festzusetzen. Er darf folgende Beträge nicht übersteigen:  
+`§ 393a (2) Z 1 StPO.`
+im Verfahren vor dem Landesgericht als Schöffen- und Geschworenengericht 30 000 Euro,  
+`§ 393a (2) Z 2 StPO.`
+im Verfahren vor dem Einzelrichter des Landesgerichts 13 000 Euro,  
+`§ 393a (2) Z 3 StPO.`
+im Verfahren vor dem Bezirksgericht 5 000 Euro.  
+Im Fall längerer Dauer der Hauptverhandlung (§ 221 Abs. 4) kann das jeweilige Höchstmaß des Beitrags um die Hälfte überschritten und im Fall extremen Umfangs des Verfahrens (§ 285 Abs. 2) auf das Doppelte erhöht werden.
 
-**§ 341 (2) StPO.**  
-Anschließend belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel.
-## 12. Ausfertigung des Urteiles, Protokollführung
+`§ 393a (3) StPO.`  
+Der Ersatzanspruch ist ausgeschlossen, soweit der Angeklagte den das Verfahren begründenden Verdacht vorsätzlich herbeigeführt hat oder das Verfahren lediglich deshalb beendet worden ist, weil der Angeklagte die Tat im Zustand der Zurechnungsunfähigkeit begangen hat oder weil die Ermächtigung zur Strafverfolgung in der Hauptverhandlung zurückgenommen worden ist. Der Ersatzanspruch steht auch dann nicht zu, wenn die Strafbarkeit der Tat aus Gründen entfällt, die erst nach Einbringung der Anklageschrift oder des Antrages auf Bestrafung eingetreten sind.
 
-### § 342 StPO.
+`§ 393a (4) StPO.`  
+Der Antrag ist bei sonstigem Ausschluss innerhalb von drei Jahren nach Verständigung von der Entscheidung oder Verfügung zu stellen.
 
-**§ 342 StPO.**  
- Das Urteil ist in der im § 270 Abs. 1 bis 3 vorgeschriebenen Weise auszufertigen. In der Ausfertigung sind auch die Namen der Geschworenen anzuführen, die der Ersatzgeschworenen jedoch nur dann, wenn diese vor Schluß der Verhandlung an die Stelle eines verhinderten Geschworenen getreten sind. Die Ausfertigung muß auch die an die Geschworenen gestellten Fragen und ihre Beantwortung enthalten. Auf die im § 331 Abs. 3 bezeichnete Niederschrift darf im Urteile kein Bezug genommen werden.
+`§ 393a (5) StPO.`  
+§ 196a Abs. 5 und 6 gilt sinngemäß.
 
-### § 343 StPO.
+### § 394 StPO
 
-**§ 343 (1) StPO.**  
-Für die Führung des Protokolls über die Hauptverhandlung sowie über die Beratungen und Abstimmungen des Schwurgerichtshofs oder des Geschworenengerichtes während und am Schlusse der Hauptverhandlung gelten die Vorschriften der §§ 271, 271a, 272 und 305 Abs. 3 mit der Maßgabe, dass stets ein Schriftführer beizuziehen und ein Protokollvermerk (§ 271 Abs. 1a) nicht zulässig ist.
+`§ 394 StPO.`  
+Gebührt dem Verteidiger oder dem Vertreter gemäß § 73 eine Belohnung, so ist ihre Bestimmung sowohl in dem Falle, wenn sich der Beschuldigte, der Privatankläger oder der Privatbeteiligte selbst einen solchen wählte, als auch dann, wenn dem Angeklagten ein Verteidiger von Amts wegen beigegeben wurde, dem freien Übereinkommen zwischen dem Vertreter und dem Zahlungspflichtigen überlassen.
 
-**§ 343 (2) StPO.**  
-Das Hauptverhandlungsprotokoll muß auch die Namen der Geschworenen einschließlich der Ersatzgeschworenen enthalten. Ist infolge Verhinderung eines Geschworenen ein Ersatzgeschworener an dessen Stelle getreten, so ist das im Hauptverhandlungsprotokoll zu beurkunden.
-## III. Rechtsmittel gegen Urteile der Geschworenengerichte
+### § 395 StPO
 
-### § 344 StPO.
+`§ 395 (1) StPO.`  
+Wird über die Höhe der gemäß § 393 Abs. 4 oder Abs. 4a zu ersetzenden Kosten keine Einigung erzielt, so hat das Gericht, das in erster Instanz entschieden hat, auf Antrag eines der Beteiligten die zu ersetzenden Kosten mit Beschluss zu bestimmen. Vor der Bemessung der Gebühren ist dem Gegner des Antragstellers Gelegenheit zur Äußerung zu geben. Wird der Antrag von der zum Ersatze der Kosten verurteilten Partei gestellt, so hat das Gericht dem Gegner aufzutragen, seine Gebührenrechnung binnen einer angemessenen Frist vorzulegen, widrigenfalls die Gebühren auf Grund der vom Antragsteller beigebrachten und sonst dem Gerichte zur Verfügung stehenden Behelfe bestimmt würden.
 
-**§ 344 StPO.**  
- Gegen die Urteile der Geschworenengerichte stehen die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen. Die für Rechtsmittel gegen Urteile der Schöffengerichte und für das Verfahren über solche Rechtsmittel geltenden Vorschriften (§§ 280 bis 296a) sind auf Rechtsmittel gegen Urteile der Geschworenengerichte dem Sinne nach anzuwenden, soweit im folgenden nichts anderes bestimmt ist. An die Stelle der in den §§ 285a und 285d bezeichneten Nichtigkeitsgründe treten die folgenden Nichtigkeitsgründe des § 345 Abs. 1, und zwar im § 285a die der Z 1 bis 13 und im § 285d die der Z 1 bis 5, 10a und 13.
+`§ 395 (2) StPO.`  
+Bei der Bemessung der Gebühren ist auch zu prüfen, ob die vorgenommenen Vertretungshandlungen notwendig waren oder sonst nach der Beschaffenheit des Falles gerechtfertigt sind. Die Kosten des Bemessungsverfahrens sind als Kosten des Strafverfahrens anzusehen.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;3 aufgehoben durch <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a>)</span></span></p>
 
-### § 345 StPO.
+`§ 395 (4) StPO.`  
+Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss gemäß Abs. 1 kommt aufschiebende Wirkung zu.
 
-**§ 345 (1) StPO.**  
-Die Nichtigkeitsbeschwerde kann, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur wegen eines der folgenden Nichtigkeitsgründe ergriffen werden:
-1. wenn der Schwurgerichtshof oder die Geschworenenbank nicht gehörig besetzt war, wenn nicht alle Richter und Geschworenen der ganzen Verhandlung beigewohnt haben oder wenn sich ein ausgeschlossener Richter oder Geschworener (§§ 43 und 46) an der Verhandlung beteiligt hat; als nicht gehörig besetzt gilt die Geschworenenbank auch dann, wenn in einer Jugendstrafsache nicht Geschworene für Jugendstrafsachen oder nicht mindestens zwei im Lehrberufe tätige oder tätig gewesene Personen der Geschworenenbank angehört haben;
-2. wenn die Hauptverhandlung ohne Beiziehung eines Verteidigers geführt worden ist;
-3. wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren trotz Widerspruchs des Beschwerdeführers in der Hauptverhandlung verlesen wurde;
-4. wenn in der Hauptverhandlung eine Bestimmung verletzt oder missachtet worden ist, deren Einhaltung das Gesetz bei sonstiger Nichtigkeit anordnet (§§ 115j Abs. 1, 126 Abs. 4, 140 Abs. 1, 144 Abs. 1, 155 Abs. 1, 157 Abs. 2 und 159 Abs. 3, 221 Abs. 2, 228, 250, 252, 260, 271, 305, 310, 329, 340, 427, 434d Abs. 1 und 2 sowie 439 Abs. 1 und 2);
-5. wenn in der Hauptverhandlung über einen Antrag des Beschwerdeführers nicht erkannt worden ist oder wenn durch einen gegen seinen Antrag oder Widerspruch gefassten Beschluss Gesetze oder Grundsätze des Verfahrens hintangesetzt oder unrichtig angewendet worden sind, deren Beobachtung durch grundrechtliche Vorschriften, insbesondere durch Art. 6 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, oder sonst durch das Wesen eines die Strafverfolgung und die Verteidigung sichernden, fairen Verfahrens geboten ist;
-6. wenn eine der in den §§ 312 bis 317 enthaltenen Vorschriften verletzt worden ist;
-7. wenn an die Geschworenen eine Frage mit Verletzung der Vorschrift des § 267 gestellt und diese Frage bejaht worden ist;
-8. wenn der Vorsitzende den Geschworenen eine unrichtige Rechtsbelehrung erteilt hat (§§ 321, 323, 327);
-9. wenn die Antwort der Geschworenen auf die gestellten Fragen undeutlich, unvollständig oder in sich widersprechend ist;
-10. wenn der Schwurgerichtshof den Geschworenen die Verbesserung des Wahrspruches gegen den Widerspruch des Beschwerdeführers mit Unrecht aufgetragen oder, obgleich ein oder mehrere Geschworenen ein bei der Abstimmung unterlaufenes Mißverständnis behauptet haben, mit Unrecht nicht aufgetragen hat (§ 332 Abs. 4);
-11. wenn sich aus den Akten erhebliche Bedenken gegen die Richtigkeit der im Wahrspruch der Geschworenen festgestellten entscheidenden Tatsachen ergeben;
-12. wenn durch die Entscheidung über die Frage,
-a)
-ob die dem Angeklagten zur Last fallende Tat eine zur Zuständigkeit der Gerichte gehörige strafbare Handlung begründet oder
-b)
-ob die Verfolgung der Tat aus Gründen des Prozeßrechtes ausgeschlossen ist,
-ein Gesetz verletzt oder unrichtig angewendet worden ist;
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">ob die dem Angeklagten zur Last fallende Tat eine zur Zuständigkeit der Gerichte gehörige strafbare Handlung begründet oder</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">ob die Verfolgung der Tat aus Gründen des Prozeßrechtes ausgeschlossen ist,</div></div>
-1. wenn die der Entscheidung zugrunde liegende Tat durch unrichtige Gesetzesauslegung einem Strafgesetz unterzogen worden ist, das darauf nicht anzuwenden ist;
-2. wenn nach der Bestimmung des § 199 über die Einstellung des Verfahrens, anderen auf sie verweisenden Vorschriften oder nach § 37 SMG vorzugehen gewesen wäre;
-3. wenn das Geschworenengericht seine Strafbefugnis überschritten oder bei dem Ausspruch über die Strafe für die Strafbemessung maßgebende entscheidende Tatsachen offenbar unrichtig beurteilt oder in unvertretbarer Weise gegen Bestimmungen über die Strafbemessung verstoßen hat.
+`§ 395 (5) StPO.`  
+Die vorhergehenden Absätze sind auch anzuwenden, wenn zwischen dem von Amts wegen bestellten Verteidiger und dem von ihm vertretenen Angeklagten über die Entlohnung kein Übereinkommen erzielt wird. Das Gericht hat die Entlohnung des von Amts wegen bestellten Verteidigers festzusetzen und dem Angeklagten die Zahlung aufzutragen. Der rechtskräftige Beschluß ist vollstreckbar.
 
-**§ 345 (2) StPO.**  
-Die in der Z 1 des Abs. 1 angeführten Nichtigkeitsgründe können nur dann geltend gemacht werden, wenn der Beschwerdeführer den die Nichtigkeit begründenden Umstand gleich bei Beginn der Verhandlung oder, wenn er ihm erst später bekanntgeworden ist, sogleich, nachdem er ihm zur Kenntnis gekommen war, geltend gemacht hat.
+## 19. Hauptstück # Vollstreckung der Urteile
 
-**§ 345 (3) StPO.**  
-Die unter Abs. 1 Z 3 bis 6 und 10 erwähnten Nichtigkeitsgründe können zum Vorteile des Angeklagten nicht geltend gemacht werden, wenn unzweifelhaft erkennbar ist, daß die Formverletzung auf die Entscheidung keinen dem Angeklagten nachteiligen Einfluß üben konnte.
+### § 396 StPO
 
-**§ 345 (4) StPO.**  
-Zum Nachteile des Angeklagten können die unter Abs. 1 Z 2, 7 und 10a erwähnten Nichtigkeitsgründe niemals, die unter Abs. 1 Z 3 bis 6 und 10 erwähnten aber nur dann geltend gemacht werden, wenn erkennbar ist, daß die Formverletzung einen die Anklage beeinträchtigenden Einfluß auf die Entscheidung üben konnte, wenn sich außerdem der Ankläger widersetzt, die Entscheidung des Schwurgerichtshofes begehrt und sich sofort nach der Verweigerung oder Verkündung dieser Entscheidung die Nichtigkeitsbeschwerde vorbehalten hat. § 282 Abs. 2 gilt sinngemäß.
+`§ 396 (1) StPO.`  
+Jeder durch ein Urteil freigesprochene Angeklagte ist, wenn er verhaftet ist, sogleich nach der Verkündung des Urteiles in Freiheit zu setzen; es sei denn, daß die Ergreifung eines Rechtsmittels mit aufschiebender Wirkung oder andere gesetzliche Gründe seine fernere Verwahrung nötig machten.
 
-### § 346 StPO.
+`§ 396 (2) StPO.`  
+Der auf freiem Fuß befindliche Angeklagte ist von der Rechtskraft zu verständigen, sobald der Ankläger ein angemeldetes Rechtsmittel zurückgezogen hat.
 
-**§ 346 StPO.**  
- Der Ausspruch über die Strafe kann in den im § 283 angeführten Fällen mit Berufung angefochten werden.
+`§ 396 (3) StPO.`  
+Die Kriminalpolizei ist durch das Gericht, das in erster Instanz entschieden hat, von der Einstellung des Verfahrens sowie von einem Freispruch zu verständigen.
 
-### § 348 StPO.
+### § 397 StPO
 
-**§ 348 StPO.**  
- Für den Gerichtstag beim Obersten Gerichtshof ist dem Angeklagten, wenn er keinen Verteidiger hat, ohne Rücksicht auf Art und Höhe der für die strafbare Handlung, die dem Angeklagten in der Anklageschrift oder im Urteil erster Instanz zur Last gelegt wird, angedrohten Strafe, ein Rechtsanwalt als Verteidiger beizugeben (§ 286 Abs. 4).
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1973_569_0/1973_569_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1973_569_0', 'BGBl. Nr. 569/1973', '2025-06-04')">BGBl. Nr.&nbsp;569/1973</a>, Art.&nbsp;III Z.&nbsp;7)</span></span></p>
+`§ 397 StPO.`  
+Jedes Strafurteil ist ungesäumt in Vollzug zu setzen, sobald feststeht, daß der Vollstreckung kein gesetzliches Hindernis und insbesondere kein rechtzeitig und von einem hiezu Berechtigten ergriffenes Rechtsmittel entgegensteht, dem das Gesetz aufschiebende Wirkung beimißt (§ 284 Abs. 3, § 294 Abs. 1 und § 344). Ist ein Rechtsmittel zugunsten des verhafteten Angeklagten von solchen Personen ergriffen worden, die hiezu gegen seinen Willen nicht berechtigt sind, so ist der Angeklagte hievon in Kenntnis zu setzen und über den dadurch herbeigeführten Aufschub der Strafvollstreckung zu belehren. Dasselbe hat zu geschehen, wenn es zweifelhaft ist, ob der verhaftete Angeklagte der Einlegung des Rechtsmittels durch seinen Verteidiger zugestimmt habe. Die Anordnung des Vollzuges des Strafurteiles steht dem Vorsitzenden des erkennenden Gerichtes zu.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-05')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;5)</span></span></p>
 
-### § 349 StPO.
+### § 398 StPO
 
-**§ 349 (1) StPO.**  
-Liegt einer der im § 345 Abs. 1 Z 1 bis 9 und 10a erwähnten Nichtigkeitsgründe vor, so hebt der Oberste Gerichtshof den Wahrspruch der Geschworenen und das darauf beruhende Urteil auf und verweist, sofern er nicht aus dem im § 345 Abs. 1 Z 7 angeführten Grunde den Angeklagten freispricht, die Sache an das Geschworenengericht des von ihm zu bezeichnenden Landesgerichts zur nochmaligen Verhandlung und Entscheidung.
+`§ 398 StPO.`  
+Jede Rechtswirkung eines Strafurteils beginnt, wenn nichts anderes bestimmt ist, mit seiner Rechtskraft.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-05')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;112)</span></span></p>
 
-**§ 349 (2) StPO.**  
-Werden nicht alle Teile des Wahrspruches vom geltend gemachten Nichtigkeitsgrund getroffen und ist eine Sonderung möglich, so läßt der Oberste Gerichtshof die nicht betroffenen Teile des Wahrspruches und des Urteiles von dieser Verfügung unberührt und trägt dem Gericht, an das die Sache verwiesen wird, auf, die unberührt gebliebenen Teile des Wahrspruches der Entscheidung mit zugrunde zu liegen.
+### § 399 StPO
 
-### § 350 StPO.
+`§ 399 StPO.`  
+Jedes Urteil gegen einen Beamten (§ 74 Abs. 1 Z 4 StGB) ist, sobald es rechtskräftig wurde, dem Leiter der Dienststelle bekannt zu machen.
 
-**§ 350 (1) StPO.**  
-Liegt der im § 260 angeführte Nichtigkeitsgrund vor, so verweist der Oberste Gerichtshof die Sache an das Geschworenengericht, das das Urteil gefällt hat, mit dem Auftrage zurück, nach Tunlichkeit in der gleichen Zusammensetzung ein neues Urteil auf Grund des früheren Ausspruches der Geschworenen zu fällen.
+### § 400 StPO
 
-**§ 350 (2) StPO.**  
-Liegt der im § 345 Abs. 1 Z. 10 bezeichnete Nichtigkeitsgrund vor, so hebt der Oberste Gerichtshof den Wahrspruch der Geschworenen, soweit er vom Nichtigkeitsgrunde betroffen ist, und das darauf beruhende Urteil auf. Ist den Geschworenen mit Unrecht die Verbesserung des Wahrspruches aufgetragen worden, so entscheidet er auf Grund des ursprünglichen Wahrspruches in der Sache selbst. Ist den Geschworenen die Verbesserung wegen eines von ihnen behaupteten Mißverständnisses mit Unrecht nicht aufgetragen worden, so verweist der Oberste Gerichtshof die Sache an das Geschworenengericht zur neuen Verhandlung und Entscheidung zurück.
+`§ 400 (1) StPO.`  
+Über die Anrechnung einer vom Verurteilten nach der Fällung des Urteiles erster Instanz in Vorhaft zugebrachten Zeit (§ 38 StGB) hat der Vorsitzende des Gerichtes, das in erster Instanz erkannt hat, mit Beschluß zu entscheiden.
 
-### § 351 StPO.
+`§ 400 (2) StPO.`  
+Einen Beschluß nach Abs. 1 hat der Vorsitzende auf Antrag oder von Amts wegen auch dann zu fassen, wenn im Urteil die Anrechnung einer Vorhaft oder einer im Ausland verbüßten Strafe (§ 66 StGB) unterblieben ist. Ist eine solche Anrechnung fehlerhaft erfolgt, so hat sie der Vorsitzende jederzeit zu berichtigen (§ 270 Abs. 3), zum Nachteil des Angeklagten jedoch nur, solange das Urteil nicht rechtskräftig ist. Die Abweisung eines darauf gerichteten Antrages sowie die vorgenommene Berichtigung können nach Maßgabe des § 270 Abs. 3 mit Beschwerde angefochten werden.
 
-**§ 351 StPO.**  
- Liegt einer der im § 345 Abs. 1 Z 11 bis 13 angeführten Nichtigkeitsgründe vor, so entscheidet der Oberste Gerichtshof in der Sache selbst. Sind jedoch die der Feststellung durch die Geschworenen vorbehaltenen Tatsachen, die er seiner Entscheidung zugrunde zu legen hätte, im Wahrspruche der Geschworenen nicht festgestellt, so verweist er die Sache an das Geschworenengericht des von ihm zu bezeichnenden Landesgerichts, wenn aber die strafbare Handlung bei richtiger Anwendung des Gesetzes nicht mehr vor das Geschworenengericht gehört, an das von ihm zu bezeichnende sachlich zuständige Gericht zur nochmaligen Verhandlung und Entscheidung.
+### § 401 StPO
 
-**END-OF-FILE**
+`§ 401 StPO.`  
+(Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 6)
+
+### § 401a StPO
+
+`§ 401a StPO.`  
+(Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 6)
+
+### § 402 StPO
+
+`§ 402 StPO.`  
+Ist in einem Strafurteil auf den Verlust eines Rechtes erkannt worden oder ist in einem Gesetz vorgesehen, daß die Verurteilung einen solchen Verlust nach sich zieht oder nach sich ziehen kann, so hat das Strafgericht die rechtskräftige Verurteilung der in Betracht kommenden Stelle bekanntzumachen. Sofern dieser Stelle nicht schon nach anderen gesetzlichen Bestimmungen eine Urteilsausfertigung zugestellt werden muß, ist ihr eine solche Ausfertigung auf ihr Ersuchen zu übersenden.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-05')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;7)</span></span></p>
+
+### § 403 StPO
+
+`§ 403 StPO.`  
+(Aufgehoben; BGBl. Nr. 75/1968, Art. IV Z. 2)
+
+### § 404 StPO
+
+`§ 404 StPO.`  
+(Aufgehoben; BGBl. Nr. 75/1968, Art. IV Z. 2)
+
+### § 405 StPO
+
+`§ 405 StPO.`  
+Wie auf Freiheitsstrafen lautende Strafurteile zu vollziehen sind, bestimmen besondere Gesetze.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-05')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;8)</span></span></p>
+
+### § 406 StPO
+
+`§ 406 StPO.`  
+(Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 9)
+
+### § 407 StPO
+
+`§ 407 StPO.`  
+Von der Verurteilung einer Person, die nicht die österreichische Staatsbürgerschaft besitzt, ist die für die Ausübung der Fremdenpolizei zuständige Behörde unverzüglich zu verständigen.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-05')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;114)</span></span></p>
+
+### § 408 StPO
+
+`§ 408 (1) StPO.`  
+Ist der Verfall, der erweiterte Verfall, die Konfiskation oder die Einziehung von Vermögenswerten oder Gegenständen ausgesprochen und befinden sich diese nicht bereits in gerichtlicher Verwahrung, so ist der Verurteilte oder der Haftungsbeteiligte (§ 64) vom Strafgericht schriftlich aufzufordern, sie binnen vierzehn Tagen zu erlegen oder dem Gericht die Verfügungsmacht zu übertragen, widrigenfalls zwangsweise vorgegangen werden würde. Kommt der Verfügungsberechtigte dieser Aufforderung nicht nach, so ist die Einbringungsstelle um die Einleitung der Exekution zu ersuchen.
+
+`§ 408 (2) StPO.`  
+Ein verfallener, konfiszierter oder eingezogener Gegenstand oder Vermögenswert, der für wissenschaftliche, historische oder vergleichbare, im öffentlichen Interesse liegende Forschungszwecke von Interesse ist, ist einer anerkannten wissenschaftlichen Einrichtung zur Verfügung zu stellen. Im Übrigen sind Gegenstände oder Vermögenswerte, die zur Deckung des Sachaufwandes der Justiz unmittelbar herangezogen werden können, dazu zu verwenden, alle anderen Gegenstände oder Vermögenswerte aber auf die in § 377 angeordnete Weise zu veräußern. Gegenstände oder Vermögenswerte, die auf diese Weise weder verwendet noch verwertet werden können, sind zu vernichten.
+
+### § 409 StPO
+
+`§ 409 (1) StPO.`  
+Wenn der Verurteilte eine über ihn verhängte Geldstrafe nicht unverzüglich nach Eintritt der Rechtskraft erlegt, ist er schriftlich aufzufordern, die Strafe binnen vierzehn Tagen zu zahlen, widrigens sie zwangsweise eingetrieben werde. Gleiches gilt für den Verfall nach § 20 Abs. 3 StGB und die Konfiskation nach § 19a Abs. 1a StGB.
+
+`§ 409 (2) StPO.`  
+Wie die im Abs. 1 genannten Geldbeträge einzutreiben sind, wird im Gerichtlichen Einbringungsgesetz in der jeweils geltenden Fassung angeordnet. Die Auskunft aus dem Kontenregister oder die Auskunft über Bankkonten und Bankgeschäfte (§§ 116, 210 Abs. 3 StPO) ist auch dann zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass Vermögenswerte zur Vollstreckung einer Geldstrafe, einer Konfiskation (§ 19a StGB), eines Verfalls (§ 20 StGB), eines erweiterten Verfalls (§ 20b StGB) oder einer anderen gesetzlich vorgesehenen vermögensrechtlichen Anordnung aufgefunden werden können.
+
+`§ 409 (3) StPO.`  
+Ersatzfreiheitsstrafen sind wie andere Freiheitsstrafen nach den Bestimmungen des StVG anzuordnen und zu vollziehen.
+
+### § 409a StPO
+
+`§ 409a (1) StPO.`  
+Wenn die unverzügliche Zahlung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB den Zahlungspflichtigen unbillig hart träfe, hat der Vorsitzende auf Antrag durch Beschluß einen angemessenen Aufschub zu gewähren.
+
+`§ 409a (2) StPO.`  
+Der Aufschub darf jedoch  
+`§ 409a (2) Z 1 StPO.`
+bei Zahlung der ganzen Strafe oder des gesamten Geldbetrages nach § 20 StGB auf einmal oder bei Entrichtung einer 180 Tagessätze nicht übersteigenden Strafe in Teilbeträgen nicht länger sein als ein Jahr,  
+`§ 409a (2) Z 2 StPO.`
+bei Entrichtung einer 180, nicht aber 360 Tagessätze übersteigenden Strafe in Teilbeträgen nicht länger als zwei Jahre und  
+`§ 409a (2) Z 2a StPO.`
+bei Entrichtung einer 360 Tagessätze übersteigenden Strafe in Teilbeträgen nicht länger als drei Jahre sowie  
+`§ 409a (2) Z 3 StPO.`
+bei Entrichtung einer nicht in Tagessätzen bemessenen Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen nicht länger als fünf Jahre.
+
+`§ 409a (3) StPO.`  
+In die gewährte Aufschubsfrist werden Zeiten, in denen der Zahlungspflichtige auf behördliche Anordnung angehalten worden ist, nicht eingerechnet. Leistet der Zahlungspflichtige zur Schadloshaltung oder Genugtuung eines durch die strafbare Handlung Geschädigten Zahlungen, so ist dies bei der Entscheidung über einen Antrag auf Aufschub angemessen zu berücksichtigen. Mit Rücksicht auf Entschädigungszahlungen, die innerhalb der zur Zahlung der Geldstrafe oder des Geldbetrages nach § 20 StGB gewährten Frist geleistet werden, kann der Aufschub angemessen längstens aber um ein weiteres Jahr verlängert werden.
+
+`§ 409a (4) StPO.`  
+Die Entrichtung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen darf nur mit der Maßgabe gestattet werden, daß alle noch aushaftenden Teilbeträge sofort fällig werden, wenn der Zahlungspflichtige mit mindestens zwei Ratenzahlungen in Verzug ist.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;5 aufgehoben durch <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a>)</span></span></p>
+
+### § 409b StPO
+
+`§ 409b (1) StPO.`  
+Geldstrafen, verfallene Geldbeträge und Veräußerungserlöse (§§ 115e, 377) fließen dem Bund zu.
+
+`§ 409b (2) StPO.`  
+20 vH der nach §§ 20, 20b StGB für verfallen erklärten Vermögenswerte fließen dem Bundesministerium für Inneres zu.
+
+### § 410 StPO
+
+`§ 410 (1) StPO.`  
+Über die nachträgliche Strafmilderung, die Neubemessung des Tagessatzes sowie die Änderung der Entscheidung über den Verfall, den erweiterten Verfall (§ 31a StGB) oder über das Tätigkeitsverbot (§ 220b Abs. 3 StGB) entscheidet das Gericht, das in erster Instanz erkannt hat, auf Antrag oder von Amts wegen nach Erhebung der für die Entscheidung maßgebenden Umstände mit Beschluß.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;2 aufgehoben durch <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a>)</span></span></p>
+
+`§ 410 (3) StPO.`  
+Wenn der Zweck der Entscheidung nach Abs. 1 sonst ganz oder teilweise vereitelt werden könnte, hat das Gericht den Vollzug der Strafe, des Verfalls oder des erweiterten Verfalls bis zur Rechtskraft seiner Entscheidung vorläufig zu hemmen oder zu unterbrechen, es sei denn, daß ihm ein offenbar aussichtsloser Antrag vorliegt.
+
+### § 411 StPO
+
+`§ 411 StPO.`  
+Mit dem Tod des Verurteilten erlischt die Verbindlichkeit zur Zahlung von Geldstrafen, soweit sie noch nicht vollzogen worden sind. Dies gilt dem Sinne nach für den Verfalls- und Wertersatz.
+
+`END-OF-DATA-FILE`

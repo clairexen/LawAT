@@ -6,8 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-
 Der Nationalrat hat beschlossen:
+
 ## Allgemeiner Teil # Erster Abschnitt # Allgemeine Bestimmungen
 
 ### § 1 StGB # Keine Strafe ohne Gesetz
@@ -21,7 +21,7 @@ Eine schwerere als die zur Zeit der Begehung angedrohte Strafe darf nicht verhä
 ### § 2 StGB # Begehung durch Unterlassung
 
 `§ 2 StGB.`  
- Bedroht das Gesetz die Herbeiführung eines Erfolges mit Strafe, so ist auch strafbar, wer es unterläßt, ihn abzuwenden, obwohl er zufolge einer ihn im besonderen treffenden Verpflichtung durch die Rechtsordnung dazu verhalten ist und die Unterlassung der Erfolgsabwendung einer Verwirklichung des gesetzlichen Tatbildes durch ein Tun gleichzuhalten ist.
+Bedroht das Gesetz die Herbeiführung eines Erfolges mit Strafe, so ist auch strafbar, wer es unterläßt, ihn abzuwenden, obwohl er zufolge einer ihn im besonderen treffenden Verpflichtung durch die Rechtsordnung dazu verhalten ist und die Unterlassung der Erfolgsabwendung einer Verwirklichung des gesetzlichen Tatbildes durch ein Tun gleichzuhalten ist.
 
 ### § 3 StGB # Notwehr
 
@@ -34,7 +34,7 @@ Wer das gerechtfertigte Maß der Verteidigung überschreitet oder sich einer off
 ### § 4 StGB # Keine Strafe ohne Schuld
 
 `§ 4 StGB.`  
- Strafbar ist nur, wer schuldhaft handelt.
+Strafbar ist nur, wer schuldhaft handelt.
 
 ### § 5 StGB # Vorsatz
 
@@ -69,7 +69,7 @@ Eine schwerere Strafe, die an eine besondere Folge der Tat geknüpft ist, trifft
 ### § 8 StGB # Irrtümliche Annahme eines rechtfertigenden Sachverhaltes
 
 `§ 8 StGB.`  
- Wer irrtümlich einen Sachverhalt annimmt, der die Rechtswidrigkeit der Tat ausschließen würde, kann wegen vorsätzlicher Begehung nicht bestraft werden. Er ist wegen fahrlässiger Begehung zu bestrafen, wenn der Irrtum auf Fahrlässigkeit beruht und die fahrlässige Begehung mit Strafe bedroht ist.
+Wer irrtümlich einen Sachverhalt annimmt, der die Rechtswidrigkeit der Tat ausschließen würde, kann wegen vorsätzlicher Begehung nicht bestraft werden. Er ist wegen fahrlässiger Begehung zu bestrafen, wenn der Irrtum auf Fahrlässigkeit beruht und die fahrlässige Begehung mit Strafe bedroht ist.
 
 ### § 9 StGB # Rechtsirrtum
 
@@ -93,17 +93,17 @@ Der Täter ist nicht entschuldigt, wenn er sich der Gefahr ohne einen von der Re
 ### § 11 StGB # Zurechnungsunfähigkeit
 
 `§ 11 StGB.`  
- Wer zur Zeit der Tat wegen einer Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer tiefgreifenden Bewußtseinsstörung oder wegen einer anderen schweren, einem dieser Zustände gleichwertigen seelischen Störung unfähig ist, das Unrecht seiner Tat einzusehen oder nach dieser Einsicht zu handeln, handelt nicht schuldhaft.
+Wer zur Zeit der Tat wegen einer Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer tiefgreifenden Bewußtseinsstörung oder wegen einer anderen schweren, einem dieser Zustände gleichwertigen seelischen Störung unfähig ist, das Unrecht seiner Tat einzusehen oder nach dieser Einsicht zu handeln, handelt nicht schuldhaft.
 
 ### § 12 StGB # Behandlung aller Beteiligten als Täter
 
 `§ 12 StGB.`  
- Nicht nur der unmittelbare Täter begeht die strafbare Handlung, sondern auch jeder, der einen anderen dazu bestimmt, sie auszuführen, oder der sonst zu ihrer Ausführung beiträgt.
+Nicht nur der unmittelbare Täter begeht die strafbare Handlung, sondern auch jeder, der einen anderen dazu bestimmt, sie auszuführen, oder der sonst zu ihrer Ausführung beiträgt.
 
 ### § 13 StGB # Selbständige Strafbarkeit der Beteiligten
 
 `§ 13 StGB.`  
- Waren an der Tat mehrere beteiligt, so ist jeder von ihnen nach seiner Schuld zu bestrafen.
+Waren an der Tat mehrere beteiligt, so ist jeder von ihnen nach seiner Schuld zu bestrafen.
 
 ### § 14 StGB # Eigenschaften und Verhältnisse des Täters
 
@@ -131,6 +131,7 @@ Der Täter wird wegen des Versuches oder der Beteiligung daran nicht bestraft, w
 
 `§ 16 (2) StGB.`  
 Der Täter wird auch straflos, wenn die Ausführung oder der Erfolg ohne sein Zutun unterbleibt, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich bemüht, die Ausführung zu verhindern oder den Erfolg abzuwenden.
+
 ## Zweiter Abschnitt # Einteilung der strafbaren Handlungen
 
 ### § 17 StGB # Einteilung der strafbaren Handlungen
@@ -140,6 +141,7 @@ Verbrechen sind vorsätzliche Handlungen, die mit lebenslanger oder mit mehr als
 
 `§ 17 (2) StGB.`  
 Alle anderen strafbaren Handlungen sind Vergehen.
+
 ## Dritter Abschnitt # Strafen, Verfall und vorbeugende Maßnahmen
 
 ### § 18 StGB # Freiheitsstrafen
@@ -160,6 +162,7 @@ Der Tagessatz ist nach den persönlichen Verhältnissen und der wirtschaftlichen
 
 `§ 19 (3) StGB.`  
 Für den Fall der Uneinbringlichkeit der Geldstrafe ist eine Ersatzfreiheitsstrafe festzusetzen. Ein Tag Ersatzfreiheitsstrafe entspricht dabei zwei Tagessätzen.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;4 aufgehoben durch <a href="/Dokumente/BgblPdf/1996_762_0/1996_762_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1996_762_0', 'BGBl. Nr. 762/1996', '2025-06-05')">BGBl. Nr.&nbsp;762/1996</a>)</span></span></p>
 
 ### § 19a StGB # Konfiskation
 
@@ -193,9 +196,12 @@ Der Verfall gegenüber einem Dritten nach § 20 Abs. 2 und 3 ist ausgeschlosse
 
 `§ 20a (2) StGB.`  
 Der Verfall ist überdies ausgeschlossen:  
-`§ 20a (2) Z 1 StGB.` gegenüber einem Dritten, soweit dieser die Vermögenswerte in Unkenntnis der mit Strafe bedrohten Handlung entgeltlich erworben hat,  
-`§ 20a (2) Z 2 StGB.` soweit der Betroffene zivilrechtliche Ansprüche aus der Tat befriedigt oder für sie Sicherheit geleistet hat, oder  
-`§ 20a (2) Z 3 StGB.` soweit seine Wirkung durch andere rechtliche Maßnahmen erreicht wird.
+`§ 20a (2) Z 1 StGB.`
+gegenüber einem Dritten, soweit dieser die Vermögenswerte in Unkenntnis der mit Strafe bedrohten Handlung entgeltlich erworben hat,  
+`§ 20a (2) Z 2 StGB.`
+soweit der Betroffene zivilrechtliche Ansprüche aus der Tat befriedigt oder für sie Sicherheit geleistet hat, oder  
+`§ 20a (2) Z 3 StGB.`
+soweit seine Wirkung durch andere rechtliche Maßnahmen erreicht wird.
 
 `§ 20a (3) StGB.`  
 Vom Verfall ist abzusehen, soweit der für verfallen zu erklärende Vermögenswert oder die Aussicht auf dessen Einbringung außer Verhältnis zum Verfahrensaufwand steht, den der Verfall oder die Einbringung erfordern würde.
@@ -245,15 +251,21 @@ Von der Unterbringung ist abzusehen, wenn der Rechtsbrecher mehr als zwei Jahre 
 
 `§ 23 (1) StGB.`  
 Wird jemand nach Vollendung des vierundzwanzigsten Lebensjahres zu einer mindestens zweijährigen Freiheitsstrafe verurteilt, so hat das Gericht zugleich seine Unterbringung in einer Anstalt für gefährliche Rückfallstäter anzuordnen,  
-`§ 23 (1) Z 1 StGB.` wenn die Verurteilung ausschließlich oder überwiegend wegen einer oder mehrerer vorsätzlicher strafbarer Handlungen gegen Leib und Leben, gegen die Freiheit, gegen fremdes Vermögen unter Anwendung oder Androhung von Gewalt gegen eine Person, gegen die sexuelle Integrität und Selbstbestimmung, nach § 28a des Suchtmittelgesetzes oder wegen einer oder mehrerer vorsätzlicher gemeingefährlicher strafbarer Handlungen erfolgt,  
-`§ 23 (1) Z 2 StGB.` wenn er bereits zweimal ausschließlich oder überwiegend wegen Handlungen der in Z 1 genannten Art zu Freiheitsstrafen in der Dauer von jeweils mehr als sechs Monaten verurteilt worden ist und deshalb vor Begehung der nunmehr abgeurteilten Handlungen, jedoch nach Vollendung des neunzehnten Lebensjahres mindestens achtzehn Monate in Strafhaft zugebracht hat und  
-`§ 23 (1) Z 3 StGB.` wenn zu befürchten ist, daß er wegen seines Hanges zu strafbaren Handlungen der in Z 1 genannten Art oder weil er seinen Lebensunterhalt überwiegend durch solche strafbare Handlungen zu gewinnen pflegt, sonst weiterhin solche strafbare Handlungen mit schweren Folgen begehen werde.
+`§ 23 (1) Z 1 StGB.`
+wenn die Verurteilung ausschließlich oder überwiegend wegen einer oder mehrerer vorsätzlicher strafbarer Handlungen gegen Leib und Leben, gegen die Freiheit, gegen fremdes Vermögen unter Anwendung oder Androhung von Gewalt gegen eine Person, gegen die sexuelle Integrität und Selbstbestimmung, nach § 28a des Suchtmittelgesetzes oder wegen einer oder mehrerer vorsätzlicher gemeingefährlicher strafbarer Handlungen erfolgt,  
+`§ 23 (1) Z 2 StGB.`
+wenn er bereits zweimal ausschließlich oder überwiegend wegen Handlungen der in Z 1 genannten Art zu Freiheitsstrafen in der Dauer von jeweils mehr als sechs Monaten verurteilt worden ist und deshalb vor Begehung der nunmehr abgeurteilten Handlungen, jedoch nach Vollendung des neunzehnten Lebensjahres mindestens achtzehn Monate in Strafhaft zugebracht hat und  
+`§ 23 (1) Z 3 StGB.`
+wenn zu befürchten ist, daß er wegen seines Hanges zu strafbaren Handlungen der in Z 1 genannten Art oder weil er seinen Lebensunterhalt überwiegend durch solche strafbare Handlungen zu gewinnen pflegt, sonst weiterhin solche strafbare Handlungen mit schweren Folgen begehen werde.
 
 `§ 23 (1a) StGB.`  
 Wird jemand nach Vollendung des achtzehnten Lebensjahres zu einer mindestens achtzehnmonatigen Freiheitsstrafe verurteilt, so hat das Gericht zugleich seine Unterbringung in einer Anstalt für gefährliche Rückfallstäter anzuordnen,  
-`§ 23 (1a) Z 1 StGB.` wenn die Verurteilung ausschließlich oder überwiegend wegen einer oder mehrerer vorsätzlicher strafbarer Handlungen nach den §§ 278b bis 278f erfolgt,  
-`§ 23 (1a) Z 2 StGB.` wenn er bereits einmal ausschließlich oder überwiegend wegen Handlungen der in Z 1 genannten Art, einer strafbaren Handlung nach den §§ 75, 76, 84 Abs. 4 oder Abs. 5 Z 1 oder 3, 85 Abs. 2, 86 Abs. 2 oder 87 oder wegen einer vorsätzlichen gemeingefährlichen strafbaren Handlung nach Vollendung des 16. Lebensjahres zu einer unbedingten Freiheitsstrafe in der Dauer von mehr als einem Jahr verurteilt worden ist und  
-`§ 23 (1a) Z 3 StGB.` wenn zu befürchten ist, dass er wegen seines Hanges zu strafbaren Handlungen der in Z 1 genannten Art sonst weiterhin solche strafbare Handlungen mit schweren Folgen begehen werde.
+`§ 23 (1a) Z 1 StGB.`
+wenn die Verurteilung ausschließlich oder überwiegend wegen einer oder mehrerer vorsätzlicher strafbarer Handlungen nach den §§ 278b bis 278f erfolgt,  
+`§ 23 (1a) Z 2 StGB.`
+wenn er bereits einmal ausschließlich oder überwiegend wegen Handlungen der in Z 1 genannten Art, einer strafbaren Handlung nach den §§ 75, 76, 84 Abs. 4 oder Abs. 5 Z 1 oder 3, 85 Abs. 2, 86 Abs. 2 oder 87 oder wegen einer vorsätzlichen gemeingefährlichen strafbaren Handlung nach Vollendung des 16. Lebensjahres zu einer unbedingten Freiheitsstrafe in der Dauer von mehr als einem Jahr verurteilt worden ist und  
+`§ 23 (1a) Z 3 StGB.`
+wenn zu befürchten ist, dass er wegen seines Hanges zu strafbaren Handlungen der in Z 1 genannten Art sonst weiterhin solche strafbare Handlungen mit schweren Folgen begehen werde.
 
 `§ 23 (2) StGB.`  
 Von der Unterbringung ist abzusehen, wenn die Voraussetzungen für die strafrechtliche Unterbringung in einem forensisch-therapeutischen Zentrum vorliegen.
@@ -307,9 +319,12 @@ Liegen die Voraussetzungen der Einziehung vor, so sind die Gegenstände auch dan
 
 `§ 27 (1) StGB.`  
 Mit der Verurteilung durch ein inländisches Gericht wegen einer oder mehrerer mit Vorsatz begangener strafbarer Handlungen zu einer Freiheitsstrafe ist bei einem Beamten der Verlust des Amtes verbunden, wenn  
-`§ 27 (1) Z 1 StGB.` die verhängte Freiheitsstrafe ein Jahr übersteigt,  
-`§ 27 (1) Z 2 StGB.` die nicht bedingt nachgesehene Freiheitsstrafe sechs Monate übersteigt oder  
-`§ 27 (1) Z 3 StGB.` die Verurteilung auch oder ausschließlich wegen des Vergehens des Missbrauchs eines Autoritätsverhältnisses (§ 212 StGB) erfolgt ist.
+`§ 27 (1) Z 1 StGB.`
+die verhängte Freiheitsstrafe ein Jahr übersteigt,  
+`§ 27 (1) Z 2 StGB.`
+die nicht bedingt nachgesehene Freiheitsstrafe sechs Monate übersteigt oder  
+`§ 27 (1) Z 3 StGB.`
+die Verurteilung auch oder ausschließlich wegen des Vergehens des Missbrauchs eines Autoritätsverhältnisses (§ 212 StGB) erfolgt ist.
 
 `§ 27 (2) StGB.`  
 Zieht eine strafgerichtliche Verurteilung nach einem Bundesgesetz eine andere als die im Abs. 1 genannte Rechtsfolge nach sich, so endet die Rechtsfolge, wenn nichts anderes bestimmt ist, soweit sie nicht im Verlust besonderer auf Wahl, Verleihung oder Ernennung beruhender Rechte besteht, nach fünf Jahren. Die Frist beginnt, sobald die Strafe vollstreckt ist und vorbeugende Maßnahmen vollzogen oder weggefallen sind; ist die Strafe nur durch Anrechnung einer Vorhaft verbüßt worden, so beginnt die Frist mit Rechtskraft des Urteils.
@@ -331,12 +346,12 @@ Vorbeugende Maßnahmen sind anzuordnen, wenn die Voraussetzungen hiefür auf Gru
 ### § 29 StGB # Zusammenrechnung der Werte und Schadensbeträge
 
 `§ 29 StGB.`  
- Hängt die Höhe der Strafdrohung von dem ziffernmäßig bestimmten Wert einer Sache, gegen die sich die Handlung richtet, oder von der ziffernmäßig bestimmten Höhe des Schadens ab, den sie verursacht oder auf den sich der Vorsatz des Täters erstreckt, so ist, wenn der Täter mehrere Taten derselben Art begangen hat, die Summe der Werte oder Schadensbeträge maßgebend.
+Hängt die Höhe der Strafdrohung von dem ziffernmäßig bestimmten Wert einer Sache, gegen die sich die Handlung richtet, oder von der ziffernmäßig bestimmten Höhe des Schadens ab, den sie verursacht oder auf den sich der Vorsatz des Täters erstreckt, so ist, wenn der Täter mehrere Taten derselben Art begangen hat, die Summe der Werte oder Schadensbeträge maßgebend.
 
 ### § 30 StGB # Unzulässigkeit mehrfacher Erhöhung der im Gesetz bestimmten Obergrenze
 
 `§ 30 StGB.`  
- Eine Überschreitung der im Gesetz bestimmten Obergrenze einer Strafdrohung um die Hälfte ist immer nur einmal zulässig, mögen auch verschiedene Gründe, aus denen eine solche Überschreitung zulässig ist (§§ 39, 313), zusammentreffen.
+Eine Überschreitung der im Gesetz bestimmten Obergrenze einer Strafdrohung um die Hälfte ist immer nur einmal zulässig, mögen auch verschiedene Gründe, aus denen eine solche Überschreitung zulässig ist (§§ 39, 313), zusammentreffen.
 
 ### § 31 StGB # Strafe bei nachträglicher Verurteilung
 

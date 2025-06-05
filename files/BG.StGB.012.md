@@ -25,15 +25,18 @@ Nach Abs. 1 ist auch zu bestrafen, wer als Zeuge oder Sachverständiger eine de
 ### § 289 StGB # Falsche Beweisaussage vor einer Verwaltungsbehörde
 
 `§ 289 StGB.`  
- Wer außer in den Fällen des § 288 Abs. 3 und 4 vor einer Verwaltungsbehörde als Zeuge bei seiner förmlichen Vernehmung zur Sache falsch aussagt oder als Sachverständiger einen falschen Befund oder ein falsches Gutachten erstattet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+Wer außer in den Fällen des § 288 Abs. 3 und 4 vor einer Verwaltungsbehörde als Zeuge bei seiner förmlichen Vernehmung zur Sache falsch aussagt oder als Sachverständiger einen falschen Befund oder ein falsches Gutachten erstattet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 ### § 290 StGB # Aussagenotstand
 
 `§ 290 (1) StGB.`  
 Wer eine falsche Beweisaussage (§§ 288, 289) ablegt, um von sich oder einem Angehörigen Schande oder die Gefahr strafrechtlicher Verfolgung oder eines unmittelbaren und bedeutenden vermögensrechtlichen Nachteils abzuwenden, ist nicht zu bestrafen, wenn er von der Verbindlichkeit zur Ablegung eines Zeugnisses befreit war oder hätte befreit werden können und wenn er  
-`§ 290 (1) Z 1 StGB.` nicht wußte, daß dies der Fall war,  
-`§ 290 (1) Z 2 StGB.` den Befreiungsgrund nicht geoffenbart hat, um die schon aus der Offenbarung drohenden Folgen der bezeichneten Art abzuwenden, oder  
-`§ 290 (1) Z 3 StGB.` zur Ablegung der Aussage zu Unrecht verhalten worden ist.
+`§ 290 (1) Z 1 StGB.`
+nicht wußte, daß dies der Fall war,  
+`§ 290 (1) Z 2 StGB.`
+den Befreiungsgrund nicht geoffenbart hat, um die schon aus der Offenbarung drohenden Folgen der bezeichneten Art abzuwenden, oder  
+`§ 290 (1) Z 3 StGB.`
+zur Ablegung der Aussage zu Unrecht verhalten worden ist.
 
 `§ 290 (1a) StGB.`  
 Der Täter ist nach § 288 Abs. 3 ferner nicht zu bestrafen, wenn sich die Untersuchung des Ausschusses gemäß Art. 53 B-VG gegen ihn gerichtet und er eine falsche Beweisaussage abgelegt hat, um die Gefahr strafrechtlicher Verfolgung von sich abzuwenden.
@@ -47,7 +50,7 @@ Der Täter ist jedoch auch bei Vorliegen der Voraussetzungen des Abs. 1 zu best
 ### § 291 StGB # Tätige Reue
 
 `§ 291 StGB.`  
- Wegen einer nach den §§ 288 oder 289 mit Strafe bedrohten Handlung ist der Täter nicht zu bestrafen, wenn er die unwahre Erklärung vor Beendigung seiner Vernehmung richtigstellt.
+Wegen einer nach den §§ 288 oder 289 mit Strafe bedrohten Handlung ist der Täter nicht zu bestrafen, wenn er die unwahre Erklärung vor Beendigung seiner Vernehmung richtigstellt.
 
 ### § 292 StGB # Herbeiführung einer unrichtigen Beweisaussage
 
@@ -60,12 +63,12 @@ Wer auf die im Abs. 1 bezeichnete Weise bewirkt, daß jemand gutgläubig eine u
 ### § 292a StGB # Falsches Vermögensverzeichnis
 
 `§ 292a StGB.`  
- Wer im Zuge eines Exekutions- oder Insolvenzverfahrens vor Gericht oder vor einem Vollstreckungsorgan ein falsches oder unvollständiges Vermögensverzeichnis abgibt und dadurch die Befriedigung eines Gläubigers gefährdet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer im Zuge eines Exekutions- oder Insolvenzverfahrens vor Gericht oder vor einem Vollstreckungsorgan ein falsches oder unvollständiges Vermögensverzeichnis abgibt und dadurch die Befriedigung eines Gläubigers gefährdet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 292b StGB # Tätige Reue
 
 `§ 292b StGB.`  
- Wegen falschen Vermögensverzeichnisses (§ 292a) ist nicht zu bestrafen, wer freiwillig und bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, die falschen Angaben richtigstellt oder die unvollständigen ergänzt, sofern nicht bereits die Befriedigung eines Gläubigers vereitelt oder geschmälert wurde.
+Wegen falschen Vermögensverzeichnisses (§ 292a) ist nicht zu bestrafen, wer freiwillig und bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, die falschen Angaben richtigstellt oder die unvollständigen ergänzt, sofern nicht bereits die Befriedigung eines Gläubigers vereitelt oder geschmälert wurde.
 
 ### § 292c StGB # Unzulässige Bieterabsprachen in exekutiven Versteigerungsverfahren
 
@@ -94,12 +97,12 @@ Besteht die Gefahr eines solchen Gebrauches nicht oder ist sie ohne Zutun des T�
 ### § 295 StGB # Unterdrückung eines Beweismittels
 
 `§ 295 StGB.`  
- Wer ein Beweismittel, das zur Verwendung in einem gerichtlichen oder verwaltungsbehördlichen Verfahren oder in einem Ermittlungsverfahren nach der Strafprozessordnung oder nach der Verordnung (EU) 2017/1939 bestimmt ist und über das er nicht oder nicht allein verfügen darf, vernichtet, beschädigt oder unterdrückt, ist, wenn er mit dem Vorsatz handelt, zu verhindern, daß das Beweismittel im Verfahren gebraucht werde, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen, wenn die Tat nicht nach den §§ 229 oder 230 mit Strafe bedroht ist.
+Wer ein Beweismittel, das zur Verwendung in einem gerichtlichen oder verwaltungsbehördlichen Verfahren oder in einem Ermittlungsverfahren nach der Strafprozessordnung oder nach der Verordnung (EU) 2017/1939 bestimmt ist und über das er nicht oder nicht allein verfügen darf, vernichtet, beschädigt oder unterdrückt, ist, wenn er mit dem Vorsatz handelt, zu verhindern, daß das Beweismittel im Verfahren gebraucht werde, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen, wenn die Tat nicht nach den §§ 229 oder 230 mit Strafe bedroht ist.
 
 ### § 296 StGB # Tätige Reue
 
 `§ 296 StGB.`  
- Wegen Unterdrückung eines Beweismittels (§ 295) ist nicht zu bestrafen, wer freiwillig das Beweismittel dem Gericht, der Staatsanwaltschaft, der Europäischen Staatsanwaltschaft, der Verwaltungsbehörde oder der Kriminalpolizei (§ 18 StPO) zu einer Zeit vorlegt, da es bei der zu treffenden Entscheidung oder Verfügung noch berücksichtigt werden kann.
+Wegen Unterdrückung eines Beweismittels (§ 295) ist nicht zu bestrafen, wer freiwillig das Beweismittel dem Gericht, der Staatsanwaltschaft, der Europäischen Staatsanwaltschaft, der Verwaltungsbehörde oder der Kriminalpolizei (§ 18 StPO) zu einer Zeit vorlegt, da es bei der zu treffenden Entscheidung oder Verfügung noch berücksichtigt werden kann.
 
 ### § 297 StGB # Verleumdung
 
@@ -149,6 +152,7 @@ Ebenso ist zu bestrafen, wer auf eine im Abs. 1 bezeichnete Weise eine Mitteilu
 
 `§ 301 (3) StGB.`  
 Wer auf eine im Abs. 1 bezeichnete Weise eine Mitteilung über den Inhalt von Ergebnissen aus einer Auskunft über Vorratsdaten oder Daten einer Nachrichtenübermittlung oder einer Überwachung von Nachrichten oder aus einer optischen oder akustischen Überwachung von Personen unter Verwendung technischer Mittel (§ 134 Z 5 StPO) veröffentlicht, ist, wenn diese Ergebnisse nicht zuvor zum Akt genommen wurden (§ 145 Abs. 2 StPO), mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
 ## Zweiundzwanzigster Abschnitt # Strafbare Verletzungen der Amtspflicht, Korruption und verwandte strafbare Handlungen
 
 ### § 302 StGB # Mißbrauch der Amtsgewalt
@@ -162,7 +166,7 @@ Wer die Tat bei der Führung eines Amtsgeschäfts mit einer fremden Macht oder e
 ### § 303 StGB # Fahrlässige Verletzung der Freiheit der Person oder des Hausrechts
 
 `§ 303 StGB.`  
- Ein Beamter, der grob fahrlässig (§ 6 Abs. 3) durch eine gesetzwidrige Beeinträchtigung oder Entziehung der persönlichen Freiheit oder durch eine gesetzwidrige Hausdurchsuchung einen anderen an seinen Rechten schädigt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+Ein Beamter, der grob fahrlässig (§ 6 Abs. 3) durch eine gesetzwidrige Beeinträchtigung oder Entziehung der persönlichen Freiheit oder durch eine gesetzwidrige Hausdurchsuchung einen anderen an seinen Rechten schädigt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
 
 ### § 304 StGB # Bestechlichkeit
 
@@ -182,15 +186,19 @@ Wer ausschließlich nach § 74 Abs. 1 Z 4a lit. b letzte Alternative Amtstr�
 
 `§ 305 (1) StGB.`  
 Ein Amtsträger oder Schiedsrichter, der für die pflichtgemäße Vornahme oder Unterlassung eines Amtsgeschäfts für sich oder einen Dritten einen Vorteil fordert oder einen ungebührlichen Vorteil (Abs. 4) annimmt oder sich versprechen lässt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;2 aufgehoben durch <a href="/eli/bgbl/I/2012/61" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2012_I_61', 'BGBl. I Nr. 61/2012', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;61/2012</a>)</span></span></p>
 
 `§ 305 (3) StGB.`  
 Wer die Tat in Bezug auf einen 3.000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wer jedoch die Tat in Bezug auf einen 50.000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. Übersteigt der Wert des Vorteils 300 000 Euro, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 `§ 305 (4) StGB.`  
 Keine ungebührlichen Vorteile sind  
-`§ 305 (4) Z 1 StGB.` Vorteile, deren Annahme gesetzlich erlaubt ist, oder die im Rahmen von Veranstaltungen gewährt werden, an deren Teilnahme ein amtlich oder sachlich gerechtfertigtes Interesse besteht,  
-`§ 305 (4) Z 2 StGB.` Vorteile für gemeinnützige Zwecke (§ 35 BAO), auf deren Verwendung der Amtsträger, Schiedsrichter oder eine Person aus dem Familienkreis (§ 166 Abs. 1) des Amtsträgers oder Schiedsrichters keinen bestimmenden Einfluss ausübt, sowie  
-`§ 305 (4) Z 3 StGB.` in Ermangelung von Erlaubnisnormen im Sinne der Z 1 orts- oder landesübliche Aufmerksamkeiten geringen Werts, es sei denn, dass die Tat gewerbsmäßig begangen wird.
+`§ 305 (4) Z 1 StGB.`
+Vorteile, deren Annahme gesetzlich erlaubt ist, oder die im Rahmen von Veranstaltungen gewährt werden, an deren Teilnahme ein amtlich oder sachlich gerechtfertigtes Interesse besteht,  
+`§ 305 (4) Z 2 StGB.`
+Vorteile für gemeinnützige Zwecke (§ 35 BAO), auf deren Verwendung der Amtsträger, Schiedsrichter oder eine Person aus dem Familienkreis (§ 166 Abs. 1) des Amtsträgers oder Schiedsrichters keinen bestimmenden Einfluss ausübt, sowie  
+`§ 305 (4) Z 3 StGB.`
+in Ermangelung von Erlaubnisnormen im Sinne der Z 1 orts- oder landesübliche Aufmerksamkeiten geringen Werts, es sei denn, dass die Tat gewerbsmäßig begangen wird.
 
 `§ 305 (5) StGB.`  
 § 304 Abs. 3 gilt sinngemäß.
@@ -271,6 +279,7 @@ Wer die Tat in Bezug auf einen 3 000 Euro übersteigenden Vorteil begeht, ist 
 
 `§ 310 (1) StGB.`  
 Ein Beamter oder ehemaliger Beamter, der ein ihm ausschließlich kraft seines Amtes anvertrautes oder zugänglich gewordenes Geheimnis offenbart oder verwertet, dessen Offenbarung oder Verwertung geeignet ist, ein öffentliches oder ein berechtigtes privates Interesse zu verletzen, ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;2 aufgehoben durch <a href="/eli/bgbl/I/2014/101" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2014_I_101', 'BGBl. I Nr. 101/2014', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;101/2014</a>)</span></span></p>
 
 `§ 310 (2a) StGB.`  
 Ebenso ist zu bestrafen, wer - sei es auch nach seinem Ausscheiden aus dem Amt oder Dienstverhältnis - als Organwalter oder Bediensteter des Europäischen Polizeiamtes (Europol), als Verbindungsbeamter oder als zur Geheimhaltung besonders Verpflichteter (Art. 32 Abs. 2 des Europol-Übereinkommens, BGBl. III Nr. 123/1998) eine Tatsache oder Angelegenheit offenbart oder verwertet, die ihm ausschließlich kraft seines Amtes oder seiner Tätigkeit zugänglich geworden ist und deren Offenbarung oder Verwertung geeignet ist, ein öffentliches oder ein berechtigtes privates Interesse zu verletzen.
@@ -281,7 +290,7 @@ Offenbart der Täter ein Amtsgeheimnis, das verfassungsgefährdende Tatsachen (�
 ### § 311 StGB # Falsche Beurkundung und Beglaubigung im Amt
 
 `§ 311 StGB.`  
- Ein Beamter, der in einer öffentlichen Urkunde, deren Ausstellung in den Bereich seines Amtes fällt, ein Recht, ein Rechtsverhältnis oder eine Tatsache fälschlich beurkundet oder der an einer Sache ein öffentliches Beglaubigungszeichen, dessen Anbringung in den Bereich seines Amtes fällt, fälschlich anbringt, ist, wenn er mit dem Vorsatz handelt, daß die Urkunde im Rechtsverkehr zum Beweis des Rechtes, des Rechtsverhältnisses oder der Tatsache gebraucht oder die Sache im Rechtsverkehr gebraucht werde, wenn die Tat nicht nach § 302 mit Strafe bedroht ist, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+Ein Beamter, der in einer öffentlichen Urkunde, deren Ausstellung in den Bereich seines Amtes fällt, ein Recht, ein Rechtsverhältnis oder eine Tatsache fälschlich beurkundet oder der an einer Sache ein öffentliches Beglaubigungszeichen, dessen Anbringung in den Bereich seines Amtes fällt, fälschlich anbringt, ist, wenn er mit dem Vorsatz handelt, daß die Urkunde im Rechtsverkehr zum Beweis des Rechtes, des Rechtsverhältnisses oder der Tatsache gebraucht oder die Sache im Rechtsverkehr gebraucht werde, wenn die Tat nicht nach § 302 mit Strafe bedroht ist, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 ### § 312 StGB # Quälen oder Vernachlässigen eines Gefangenen
 
@@ -308,11 +317,11 @@ Amtsträger im Sinne dieser Bestimmung ist auch, wer im Falle der Abwesenheit od
 ### § 312b StGB # Verschwindenlassen einer Person
 
 `§ 312b StGB.`  
- Wer eine Person im Auftrag oder mit Billigung eines Staates oder einer politischen Organisation entführt oder ihr sonst die persönliche Freiheit entzieht und das Schicksal oder den Verbleib der verschwundenen Person verschleiert, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+Wer eine Person im Auftrag oder mit Billigung eines Staates oder einer politischen Organisation entführt oder ihr sonst die persönliche Freiheit entzieht und das Schicksal oder den Verbleib der verschwundenen Person verschleiert, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 ### § 313 StGB # Strafbare Handlungen unter Ausnützung einer Amtsstellung
 
 `§ 313 StGB.`  
- Wird eine auch sonst mit Strafe bedrohte vorsätzliche Handlung von einem Beamten unter Ausnützung der ihm durch seine Amtstätigkeit gebotenen Gelegenheit begangen, so kann bei ihm das Höchstmaß der angedrohten Freiheitsstrafe oder Geldstrafe um die Hälfte überschritten werden. Doch darf die zeitliche Freiheitsstrafe die Dauer von zwanzig Jahren nicht überschreiten.
+Wird eine auch sonst mit Strafe bedrohte vorsätzliche Handlung von einem Beamten unter Ausnützung der ihm durch seine Amtstätigkeit gebotenen Gelegenheit begangen, so kann bei ihm das Höchstmaß der angedrohten Freiheitsstrafe oder Geldstrafe um die Hälfte überschritten werden. Doch darf die zeitliche Freiheitsstrafe die Dauer von zwanzig Jahren nicht überschreiten.
 
 `END-OF-DATA-FILE`

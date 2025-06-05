@@ -2,333 +2,229 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 8. Hauptstück | Ermittlungsmaßnahmen und Beweisaufnahme | 1. Abschnitt | Sicherstellung, Beschlagnahme, Beschlagnahme von Datenträgern und Daten, Auskunft aus dem Kontenregister und Auskunft über Bankkonten und Bankgeschäfte
+## 2. Abschnitt # Identitätsfeststellung, Durchsuchung von Orten und Gegenständen, Durchsuchung von Personen, körperliche Untersuchung und molekulargenetische Untersuchung
 
-### § 109 StPO. Definitionen
+### § 117 StPO # Definitionen
 
-**§ 109 StPO.**  
- Im Sinne dieses Gesetzes ist
-**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Sicherstellung“</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">die vorläufige Begründung der Verfügungsmacht über Gegenstände, Vermögenswerte und Daten und</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">das vorläufige Verbot der Herausgabe von Gegenständen oder anderen Vermögenswerten an Dritte (Drittverbot) und das vorläufige Verbot der Veräußerung oder Verpfändung solcher Gegenstände und Vermögenswerte,</div></div></li></ol></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1a.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Vermögenswerte“ Vermögenswerte jeder Art, ob körperlich oder unkörperlich, beweglich oder unbeweglich, einschließlich Vermögensrechte und Kryptowerte sowie Urkunden in jeder Form, die ein Recht auf solche Vermögenswerte oder Rechte daran belegen,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Beschlagnahme“</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">eine gerichtliche Entscheidung auf Begründung oder Fortsetzung einer Sicherstellung nach Z&nbsp;1 und</span></div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">das gerichtliche Verbot der Veräußerung, Belastung oder Verpfändung von Liegenschaften oder Rechten, die in einem öffentlichen Buch eingetragen sind,</div></div></li></ol></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2a.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Beschlagnahme von Datenträgern und Daten“ eine gerichtliche Entscheidung auf Begründung einer Sicherstellung von</div><ol class="wai-list"><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">a.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">Datenträgern und darauf gespeicherten Daten,</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">b.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify">Daten, die an anderen Speicherorten als einem Datenträger gespeichert sind, soweit auf sie von diesem aus zugegriffen werden kann, oder</div></div></li><li aria-level="2"><div class="SymE2"><div class="AufzaehlungE2"><span aria-hidden="true">c.</span></div></div><div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">Daten, die auf Datenträgern oder an anderen Speicherorten gespeichert sind (lit.&nbsp;a und b), die zuvor nach Z&nbsp;1 lit.&nbsp;a sichergestellt wurden,</span></div></div></li></ol><div class="SchlussteilE1">zum Zweck der Auswertung von Daten,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2b.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Aufbereitung von Daten“ eine aus Beweisgründen erfolgende technische Aufbereitung, einschließlich der Wiederherstellung von Daten, und deren Einschränkung auf den der gerichtlichen Entscheidung nach Z&nbsp;2a in Bezug auf die Datenkategorien und den Zeitraum entsprechenden Umfang,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2c.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Originalsicherung“ eine unter Verwendung forensischer Sicherungsmechanismen gewonnene Kopie des Originaldatenbestandes,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2d.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Arbeitskopie“ eine Kopie der Originalsicherung, anhand derer die Aufbereitung von Daten (Z&nbsp;2b) erfolgt,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2e.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Ergebnis der Datenaufbereitung“ ein der gerichtlichen Entscheidung (Z&nbsp;2a) in Bezug auf die Datenkategorien und den Zeitraum entsprechender Datensatz,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">„Auskunft aus dem Kontenregister“ die Abfrage und Übermittlung von Daten aus dem Kontenregister (§§&nbsp;2 und 4 Kontenregister- und Konteneinschaugesetz, <a href="/eli/bgbl/I/2015/116" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_116', 'BGBl. I Nr. 116/2015', '2025-06-04')">BGBl.&nbsp;I Nr.&nbsp;116/2015</a>),</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Auskunft über Bankkonten und Bankgeschäfte“ die Herausgabe aller Unterlagen über die Identität des Inhabers einer Geschäftsverbindung und über seine Verfügungsberechtigung, die Einsicht in Urkunden und andere Unterlagen eines Kredit- oder Finanzinstituts über Art und Umfang einer Geschäftsverbindung und damit im Zusammenhang stehende Geschäftsvorgänge und sonstige Geschäftsvorfälle für einen bestimmten vergangenen oder zukünftigen Zeitraum.</div></div></li></ol>
+`§ 117 StPO.`  
+Im Sinne dieses Gesetzes ist  
+`§ 117 Z 1 StPO.`
+„Identitätsfeststellung“ die Ermittlung und Feststellung von Daten (§ 36 Abs. 2 Z 1 DSG), die eine bestimmte Person unverwechselbar kennzeichnen,  
+`§ 117 Z 2 StPO.`
+„Durchsuchung von Orten und Gegenständen“ das Durchsuchen  
+`§ 117 Z 2 lit. a StPO.`
+eines nicht allgemein zugänglichen Grundstückes, Raumes, Fahrzeuges oder Behältnisses,  
+`§ 117 Z 2 lit. b StPO.`
+einer Wohnung oder eines anderen Ortes, der durch das Hausrecht geschützt ist, und darin befindlicher Gegenstände,  
+`§ 117 Z 3 StPO.`
+„Durchsuchung einer Person“  
+`§ 117 Z 3 lit. a StPO.`
+die Durchsuchung der Bekleidung einer Person und der Gegenstände, die sie bei sich hat,  
+`§ 117 Z 3 lit. b StPO.`
+die Besichtigung des unbekleideten Körpers einer Person,  
+`§ 117 Z 4 StPO.`
+„körperliche Untersuchung“ die Durchsuchung von Körperöffnungen, die Abnahme einer Blutprobe und jeder andere Eingriff in die körperliche Integrität von Personen,  
+`§ 117 Z 5 StPO.`
+„molekulargenetische Untersuchung“ die Ermittlung jener Bereiche in der DNA einer Person, die der Wiedererkennung dienen.
+
+### § 118 StPO # Identitätsfeststellung
+
+`§ 118 (1) StPO.`  
+Identitätsfeststellung ist zulässig, wenn auf Grund bestimmter Tatsachen angenommen werden kann, dass eine Person an einer Straftat beteiligt ist, über die Umstände der Begehung Auskunft geben kann oder Spuren hinterlassen hat, die der Aufklärung dienen könnten.
+
+`§ 118 (2) StPO.`  
+Die Kriminalpolizei ist ermächtigt, zur Identitätsfeststellung die Namen einer Person, ihr Geschlecht, ihr Geburtsdatum, ihren Geburtsort, ihren Beruf und ihre Wohnanschrift zu ermitteln. Die Kriminalpolizei ist auch ermächtigt, die Größe einer Person festzustellen, sie zu fotografieren, ihre Stimme aufzunehmen und ihre Papillarlinienabdrücke abzunehmen, soweit dies zur Identitätsfeststellung erforderlich ist.
+
+`§ 118 (3) StPO.`  
+Jedermann ist verpflichtet, auf eine den Umständen nach angemessene Weise an der Feststellung seiner Identität mitzuwirken; die Kriminalpolizei hat ihm auf Aufforderung mitzuteilen, aus welchem Anlass diese Feststellung erfolgt.
+
+`§ 118 (4) StPO.`  
+Wenn die Person an der Identitätsfeststellung nicht mitwirkt oder ihre Identität aus anderen Gründen nicht sogleich festgestellt werden kann, ist die Kriminalpolizei berechtigt, zur Feststellung der Identität eine Durchsuchung der Person nach § 117 Z 3 lit. a von sich aus durchzuführen.
+
+### § 119 StPO # Durchsuchung von Orten und Gegenständen sowie von Personen
 
-### § 110 StPO. Sicherstellung
+`§ 119 (1) StPO.`  
+Durchsuchung von Orten und Gegenständen (§ 117 Z 2) ist zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass sich dort eine Person verbirgt, die einer Straftat verdächtig ist, oder Gegenstände oder Spuren befinden, die sicherzustellen oder auszuwerten sind.
 
-**§ 110 (1) StPO.**  
-Sicherstellung ist zulässig, wenn sie
-1. aus Beweisgründen, hinsichtlich Daten jedoch nur soweit, als es sich um punktuelle Daten oder Daten, die mittels Bild- und Tonaufzeichnungsgeräten an öffentlichen oder öffentlich zugänglichen Orten aufgenommen wurden, handelt,
-2. zur Sicherung privatrechtlicher Ansprüche oder
-3. zur Sicherung der Konfiskation (§ 19a StGB), des Verfalls (§ 20 StGB), des erweiterten Verfalls (§ 20b StGB), der Einziehung (§ 26 StGB) oder einer anderen gesetzlich vorgesehenen vermögensrechtlichen Anordnung
+`§ 119 (2) StPO.`  
+Durchsuchung einer Person (§ 117 Z 3) ist zulässig, wenn diese  
+`§ 119 (2) Z 1 StPO.`
+festgenommen oder auf frischer Tat betreten wurde,  
+`§ 119 (2) Z 2 StPO.`
+einer Straftat verdächtig ist und auf Grund bestimmter Tatsachen anzunehmen ist, dass sie Gegenstände, die der Sicherstellung unterliegen, bei sich oder Spuren an sich habe,  
+`§ 119 (2) Z 3 StPO.`
+durch eine Straftat Verletzungen erlitten oder andere Veränderungen am Körper erfahren haben könnte, deren Feststellung für Zwecke eines Strafverfahrens erforderlich ist.
 
-**§ 110 (2) StPO.**  
-Sicherstellung ist von der Staatsanwaltschaft anzuordnen und von der Kriminalpolizei durchzuführen.
+### § 120 StPO
+
+`§ 120 (1) StPO.`  
+Durchsuchungen von Orten und Gegenständen nach § 117 Z 2 lit. b und von Personen nach § 117 Z 3 lit. b sind von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen; bei Gefahr im Verzug ist die Kriminalpolizei allerdings berechtigt, diese Durchsuchungen vorläufig ohne Anordnung und Bewilligung vorzunehmen. Gleiches gilt in den Fällen des § 170 Abs. 1 Z 1 für die Durchsuchung von Personen nach § 117 Z 3 lit. b. Das Opfer darf jedoch in keinem Fall dazu gezwungen werden, sich gegen seinen Willen durchsuchen zu lassen (§§ 119 Abs. 2 Z 3 und 121 Abs. 1 letzter Satz).
+
+`§ 120 (2) StPO.`  
+Durchsuchungen nach § 117 Z 2 lit. a und nach § 117 Z 3 lit. a kann die Kriminalpolizei von sich aus durchführen.
 
-**§ 110 (3) StPO.**  
-Die Kriminalpolizei ist berechtigt, Gegenstände und Vermögenswerte (§ 109 Z 1 lit. a) von sich aus sicherzustellen,
-1. wenn sie
-a.
-in niemandes Verfügungsmacht stehen,
-b.
-dem Opfer durch die Straftat entzogen wurden,
-c.
-am Tatort aufgefunden wurden und zur Begehung der strafbaren Handlung verwendet oder dazu bestimmt worden sein könnten, oder
-d.
-geringwertig oder vorübergehend leicht ersetzbar sind,
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">in niemandes Verfügungsmacht stehen,</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">dem Opfer durch die Straftat entzogen wurden,</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">am Tatort aufgefunden wurden und zur Begehung der strafbaren Handlung verwendet oder dazu bestimmt worden sein könnten, oder</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">geringwertig oder vorübergehend leicht ersetzbar sind,</div></div>
-1. wenn ihr Besitz allgemein verboten ist (§ 445a Abs. 1),
-2. die im Rahmen einer Durchsuchung nach § 120 Abs. 2 aufgefunden werden oder mit denen eine Person, die aus dem Grunde des § 170 Abs. 1 Z 1 festgenommen wird, betreten wurde oder die im Rahmen ihrer Durchsuchung gemäß § 120 Abs. 1 zweiter Satz aufgefunden werden, oder
-3. in den Fällen des Artikels 18 der Verordnung (EU) Nr. 608/2013 zur Durchsetzung der Rechte geistigen Eigentums durch die Zollbehörden und zur Aufhebung der Verordnung (EG) Nr. 1383/2003 des Rates, ABl. Nr. L 181 vom 29.06.2013 S. 15.
+### § 121 StPO
+
+`§ 121 (1) StPO.`  
+Vor jeder Durchsuchung ist der Betroffene unter Angabe der hiefür maßgebenden Gründe aufzufordern, die Durchsuchung zuzulassen oder das Gesuchte freiwillig herauszugeben. Von dieser Aufforderung darf nur bei Gefahr im Verzug sowie im Fall des § 119 Abs. 2 Z 1 abgesehen werden. Die Anwendung von Zwang (§ 93) ist im Fall der Durchsuchung einer Person nach § 119 Abs. 2 Z 3 unzulässig.
+
+`§ 121 (2) StPO.`  
+Der Betroffene hat das Recht, bei einer Durchsuchung nach § 117 Z 2 anwesend zu sein, sowie einer solchen und einer Durchsuchung nach § 117 Z 3 lit. b eine Person seines Vertrauens zuzuziehen; für diese gilt § 160 Abs. 2 sinngemäß. Ist der Inhaber der Wohnung nicht zugegen, so kann ein erwachsener Mitbewohner seine Rechte ausüben. Ist auch das nicht möglich, so sind der Durchsuchung zwei unbeteiligte, vertrauenswürdige Personen beizuziehen. Davon darf nur bei Gefahr im Verzug abgesehen werden. Einer Durchsuchung in ausschließlich der Berufsausübung gewidmeten Räumen einer der in § 157 Abs. 1 Z 2 bis 4 erwähnten Personen ist von Amts wegen ein Vertreter der jeweiligen gesetzlichen Interessenvertretung beziehungsweise der Medieninhaber oder ein von ihm namhaft gemachter Vertreter beizuziehen.
 
-**§ 110 (3a) StPO.**  
-Die Kriminalpolizei ist berechtigt, punktuelle Daten (§111 Abs. 2) von sich aus sicherzustellen.
+`§ 121 (3) StPO.`  
+Bei der Durchführung sind Aufsehen, Belästigungen und Störungen auf das unvermeidbare Maß zu beschränken. Die Eigentums- und Persönlichkeitsrechte sämtlicher Betroffener sind soweit wie möglich zu wahren. Eine Durchsuchung von Personen nach § 117 Z 3 lit. b ist stets von einer Person desselben Geschlechts oder von einem Arzt unter Achtung der Würde der zu untersuchenden Person vorzunehmen.
 
-**§ 110 (4) StPO.**  
-Die Sicherstellung von Gegenständen oder Vermögenswerten aus Beweisgründen (Abs. 1 Z 1) ist nicht zulässig und jedenfalls auf Verlangen der betroffenen Person aufzuheben, soweit und sobald der Beweiszweck durch Bild-, Ton- oder sonstige Aufnahmen oder durch Kopien schriftlicher Aufzeichnungen oder automationsunterstützt verarbeiteter Daten erfüllt werden kann und nicht anzunehmen ist, dass die sichergestellten Gegenstände oder Vermögenswerte selbst oder die Originale der sichergestellten Informationen in der Hauptverhandlung in Augenschein zu nehmen sein werden.
+### § 122 StPO
 
-### § 111 StPO.
+`§ 122 (1) StPO.`  
+Über jede Durchsuchung nach § 120 Abs. 1 erster Satz letzter Halbsatz hat die Kriminalpolizei sobald wie möglich der Staatsanwaltschaft zu berichten (§ 100 Abs. 2 Z 2), welche im Nachhinein eine Entscheidung des Gerichts über die Zulässigkeit der Durchsuchung (§ 99 Abs. 3) zu beantragen hat. Wird die Bewilligung nicht erteilt, so haben Staatsanwaltschaft und Kriminalpolizei mit den ihnen zu Gebote stehenden rechtlichen Mitteln den der gerichtlichen Entscheidung entsprechenden Rechtszustand herzustellen.
 
-**§ 111 (1) StPO.**  
-Jede Person, die Gegenstände oder Vermögenswerte, die sichergestellt werden sollen, in ihrer Verfügungsmacht hat, ist verpflichtet (§ 93 Abs. 2), diese auf Verlangen der Kriminalpolizei herauszugeben oder die Sicherstellung auf andere Weise zu ermöglichen. Diese Pflicht kann erforderlichenfalls auch mittels Durchsuchung von Personen oder Wohnungen erzwungen werden; dabei sind die §§ 119 bis 122 sinngemäß anzuwenden.
+`§ 122 (2) StPO.`  
+Werden bei einer Durchsuchung Gegenstände gefunden, die auf die Begehung einer anderen als der Straftat schließen lassen, derentwegen die Durchsuchung vorgenommen wird, so sind sie zwar sicherzustellen; es muss jedoch hierüber ein besonderes Protokoll aufgenommen und sofort der Staatsanwaltschaft berichtet werden.
 
-**§ 111 (2) StPO.**  
-Sollen Daten, die mittels Bild- und Tonaufzeichnungsgeräten an öffentlichen oder öffentlich zugänglichen Orten aufgenommen wurden, sichergestellt werden, so ist jede Person verpflichtet (§ 93 Abs. 2), Zugang zu diesen zu gewähren und sie auf Verlangen in einem allgemein gebräuchlichen Dateiformat auszufolgen oder eine Kopie herzustellen zu lassen. Gleiches gilt für punktuelle Daten; Daten einer Nachrichtenübermittlung, geographische Standorte sowie gesendete, übermittelte oder empfangene Nachrichten sind davon ausgenommen.
+`§ 122 (3) StPO.`  
+In jedem Fall ist dem Betroffenen sogleich oder längstens binnen 24 Stunden eine Bestätigung über die Durchsuchung und deren Ergebnis sowie gegebenenfalls die Anordnung der Staatsanwaltschaft samt gerichtlicher Entscheidung auszufolgen oder zuzustellen.
 
-**§ 111 (3) StPO.**  
-Personen, die nicht selbst der Tat beschuldigt sind, sind auf ihren Antrag die angemessenen und ortsüblichen Kosten zu ersetzen, die ihr durch die Trennung von Urkunden oder sonstigen beweiserheblichen Gegenständen oder Vermögenswerten von anderen oder durch die Ausfolgung von Kopien notwendigerweise entstanden sind.
+### § 123 StPO # Körperliche Untersuchung
 
-**§ 111 (4) StPO.**  
-In jedem Fall ist der von der Sicherstellung betroffenen Person sogleich oder längstens binnen 24 Stunden eine Bestätigung über die Sicherstellung auszufolgen oder zuzustellen und sie über das Recht, Einspruch zu erheben (§ 106) und eine gerichtliche Entscheidung über die Aufhebung oder Fortsetzung der Sicherstellung zu beantragen (§ 115), zu informieren. Von einer Sicherstellung zur Sicherung einer Entscheidung über privatrechtliche Ansprüche (§ 110 Abs. 1 Z 2) ist, soweit möglich, auch das Opfer zu verständigen.
+`§ 123 (1) StPO.`  
+Eine körperliche Untersuchung ist zulässig, wenn  
+`§ 123 (1) Z 1 StPO.`
+auf Grund bestimmter Tatsachen anzunehmen ist, dass eine Person Spuren hinterlassen hat, deren Sicherstellung und Untersuchung für die Aufklärung einer Straftat wesentlich sind,  
+`§ 123 (1) Z 2 StPO.`
+auf Grund bestimmter Tatsachen anzunehmen ist, dass eine Person Gegenstände im Körper verbirgt, die der Sicherstellung unterliegen, oder  
+`§ 123 (1) Z 3 StPO.`
+Tatsachen, die für die Aufklärung einer Straftat oder die Beurteilung der Zurechnungsfähigkeit von maßgebender Bedeutung sind, auf andere Weise nicht festgestellt werden können.
 
-### § 112 StPO.
+`§ 123 (2) StPO.`  
+Eine körperliche Untersuchung nach Abs. 1 Z 1 ist auch an Personen zulässig, die einem durch bestimmte Merkmale individualisierbaren Personenkreis angehören, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass sich der Täter in diesem Personenkreis befindet und die Aufklärung einer mit mehr als fünf Jahren Freiheitsstrafe bedrohten Straftat oder eines Verbrechens nach dem 10. Abschnitt des Strafgesetzbuches andernfalls wesentlich erschwert wäre.
 
-**§ 112 (1) StPO.**  
-Widerspricht die von der Sicherstellung betroffene oder anwesende Person, auch wenn sie selbst der Tat beschuldigt ist, der Sicherstellung von schriftlichen Aufzeichnungen oder Daten (§ 111 Abs. 2) unter Berufung auf ein gesetzlich anerkanntes Recht auf Verschwiegenheit, das bei sonstiger Nichtigkeit nicht durch Sicherstellung umgangen werden darf, so sind diese Unterlagen auf geeignete Art und Weise gegen unbefugte Einsichtnahme oder Veränderung zu sichern und bei Gericht zu hinterlegen. Auf Antrag des Betroffenen sind die Unterlagen jedoch bei der Staatsanwaltschaft zu hinterlegen, die sie vom Ermittlungsakt getrennt aufzubewahren hat. In beiden Fällen dürfen die Unterlagen von Staatsanwaltschaft oder Kriminalpolizei nicht eingesehen werden, solange nicht über die Einsicht nach den folgenden Absätzen entschieden worden ist.
+`§ 123 (3) StPO.`  
+Eine körperliche Untersuchung ist von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen. Bei Gefahr im Verzug kann die Untersuchung auch auf Grund einer Anordnung der Staatsanwaltschaft durchgeführt werden, doch hat die Staatsanwaltschaft in diesem Fall unverzüglich die gerichtliche Bewilligung einzuholen. Wird diese nicht erteilt, so hat die Staatsanwaltschaft die Anordnung sofort zu widerrufen und das Ergebnis der körperlichen Untersuchung vernichten zu lassen. Einen Mundhöhlenabstrich kann die Kriminalpolizei jedoch von sich aus abnehmen.
 
-**§ 112 (2) StPO.**  
-Der Betroffene ist aufzufordern, binnen einer angemessenen, 14 Tage nicht unterschreitenden Frist jene Teile der Aufzeichnungen oder Daten (§ 111 Abs. 2) konkret zu bezeichnen, deren Offenlegung eine Umgehung seiner Verschwiegenheit bedeuten würde; zu diesem Zweck ist er berechtigt, in die hinterlegten Unterlagen Einsicht zu nehmen. Unterlässt der Betroffene eine solche Bezeichnung, so sind die Unterlagen zum Akt zu nehmen und auszuwerten. Anderenfalls hat das Gericht, im Fall eines Antrags nach Abs. 1 vorletzter Satz jedoch die Staatsanwaltschaft die Unterlagen unter Beiziehung des Betroffenen sowie gegebenenfalls geeigneter Hilfskräfte oder eines Sachverständigen zu sichten und anzuordnen, ob und in welchem Umfang sie zum Akt genommen werden dürfen. Unterlagen, die nicht zum Akt genommen werden, sind dem Betroffenen auszufolgen. Aus deren Sichtung gewonnene Erkenntnisse dürfen bei sonstiger Nichtigkeit nicht für weitere Ermittlungen oder als Beweis verwendet werden.
+`§ 123 (4) StPO.`  
+Operative Eingriffe und alle Eingriffe, die eine Gesundheitsschädigung von mehr als dreitägiger Dauer bewirken könnten, sind unzulässig. Andere Eingriffe dürfen vorgenommen werden, wenn die zu untersuchende Person nach vorheriger Aufklärung über die möglichen Folgen ausdrücklich zustimmt. Ohne Einwilligung des Betroffenen darf eine Blutabnahme oder ein vergleichbar geringfügiger Eingriff, bei dem der Eintritt von anderen als bloß unbedeutenden Folgen ausgeschlossen ist, vorgenommen werden, wenn  
+`§ 123 (4) Z 1 StPO.`
+die Person im Verdacht steht,  
+`§ 123 (4) Z 1 lit. a) StPO.`
+eine Straftat nach § 178 StGB oder  
+`§ 123 (4) Z 1 lit. b) StPO.`
+eine Straftat gegen Leib und Leben durch Ausübung einer gefährlichen Tätigkeit in alkoholisiertem oder sonst durch ein berauschendes Mittel beeinträchtigtem Zustand begangen zu haben, oder  
+`§ 123 (4) Z 2 StPO.`
+die körperliche Untersuchung des Beschuldigten zur Aufklärung einer mit mehr als fünf Jahren Freiheitsstrafe bedrohten Straftat oder eines Verbrechens nach dem 10. Abschnitt des Strafgesetzbuches erforderlich ist.
 
-**§ 112 (3) StPO.**  
-Gegen die Anordnung der Staatsanwaltschaft kann der Betroffene Einspruch erheben, in welchem Fall die Unterlagen dem Gericht vorzulegen sind, das zu entscheiden hat, ob und in welchem Umfang sie zum Akt genommen werden dürfen; Abs. 2 letzter Satz gilt. Einer Beschwerde gegen den Beschluss des Gerichts kommt aufschiebende Wirkung zu.
+`§ 123 (5) StPO.`  
+Jede körperliche Untersuchung ist von einem Arzt vorzunehmen; ein Mundhöhlenabstrich kann jedoch auch von einer anderen Person, die für diesen Zweck besonders geschult ist, abgenommen werden. Im Übrigen gelten die Bestimmungen der §§ 121 sowie 122 Abs. 1 letzter Satz und 3 über die Durchsuchung sinngemäß.
 
-### § 112a StPO.
+`§ 123 (6) StPO.`  
+Als Beweismittel dürfen die Ergebnisse einer körperlichen Untersuchung nur verwendet werden, wenn  
+`§ 123 (6) Z 1 StPO.`
+die Voraussetzungen für eine körperliche Untersuchung vorlagen,  
+`§ 123 (6) Z 2 StPO.`
+die körperliche Untersuchung rechtmäßig angeordnet worden ist und  
+`§ 123 (6) Z 3 StPO.`
+die Verwendung zum Nachweis einer Straftat, deretwegen die körperliche Untersuchung angeordnet wurde oder hätte angeordnet werden können, dient.
 
-**§ 112a (1) StPO.**  
-Widerspricht eine von einer Sicherstellung betroffene Behörde oder öffentliche Dienststelle der Sicherstellung von schriftlichen Aufzeichnungen oder Daten (§ 111 Abs. 2) unter Berufung darauf, dass diese
-1. Informationen enthalten, die aufgrund gesetzlicher Vorschriften oder der gemäß § 12 Bundesministeriengesetz 1986, BGBl. Nr. 76/1986, ergangenen Geheimschutzordnung des Bundes – GehSO klassifizierte nachrichtendienstliche Informationen sind, deren Geheimhaltung das Interesse an der Strafverfolgung im Einzelfall überwiegt, oder
-2. von ausländischen Sicherheitsbehörden oder Sicherheitsorganisationen (§ 2 Abs. 2 Polizeikooperationsgesetz – PolKG, BGBl. I Nr. 104/1997) klassifiziert übermittelte Informationen enthalten und nur mit deren vorheriger Zustimmung zu anderen als den der Übermittlung zugrundeliegenden Zwecken verarbeitet werden dürfen,
+`§ 123 (7) StPO.`  
+Ergebnisse einer körperlichen Untersuchung, die aus anderen als strafprozessualen Gründen durchgeführt wurde, dürfen in einem Strafverfahren nur als Beweismittel verwendet werden, wenn dies zum Nachweis einer Straftat, deretwegen die körperliche Untersuchung hätte angeordnet werden können, erforderlich ist.
 
-**§ 112a (2) StPO.**  
-Die Behörde oder öffentliche Dienststelle (Abs. 1) ist aufzufordern, binnen einer angemessenen, 14 Tage nicht unterschreitenden Frist jene Teile der Unterlagen konkret zu bezeichnen, deren Offenlegung einer der in Abs. 1 genannten Gründe entgegenstehen würde; zu diesem Zweck ist sie berechtigt, in die hinterlegten Unterlagen Einsicht zu nehmen. Überdies hat sie binnen der gesetzten Frist im Falle eines Widerspruchs aus dem Grund des
-1. Abs. 1 Z 1 das überwiegende Interesse an der Geheimhaltung im Einzelnen anzuführen und zu begründen,
-2. Abs. 1 Z 2 mitzuteilen, ob die ausländische Sicherheitsbehörde oder Sicherheitsorganisation der Verarbeitung für die in der Anordnung der Sicherstellung genannten Zwecke zugestimmt hat.
+### § 124 StPO # Molekulargenetische Untersuchung
 
-**§ 112a (3) StPO.**  
-Unterlässt die Behörde oder öffentliche Dienststelle eine solche Bezeichnung, so sind die Unterlagen zum Akt zu nehmen und auszuwerten. Anderenfalls hat das Gericht die Unterlagen unter Beiziehung der Behörde oder öffentlichen Dienststelle sowie gegebenenfalls geeigneter Hilfskräfte oder eines Sachverständigen zu sichten und anzuordnen, ob und in welchem Umfang sie zum Akt genommen werden dürfen. Unterlagen, die nicht zum Akt genommen werden, sind der Behörde oder öffentlichen Dienststelle auszufolgen. Aus deren Sichtung gewonnene Erkenntnisse dürfen bei sonstiger Nichtigkeit nicht für weitere Ermittlungen oder als Beweis verwendet werden.
+`§ 124 (1) StPO.`  
+Zur Aufklärung einer Straftat ist es zulässig, einerseits biologische Spuren und andererseits Material, das einer bestimmten Person zugehört oder zugehören dürfte, molekulargenetisch zu untersuchen, um die Spur einer Person zuzuordnen oder die Identität einer Person oder deren Abstammung festzustellen, und mit nach diesem Gesetz oder nach dem Sicherheitspolizeigesetz rechtmäßig gewonnenen Ergebnissen molekulargenetischer Untersuchungen abzugleichen.
 
-**§ 112a (4) StPO.**  
-Der Behörde oder öffentlichen Dienststelle steht gegen den Beschluss des Gerichts Beschwerde zu; diese hat aufschiebende Wirkung.
+`§ 124 (2) StPO.`  
+Eine molekulargenetische Untersuchung ist von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen, sofern es sich nicht bloß um eine biologische Tatortspur handelt; eine solche kann die Kriminalpolizei von sich aus untersuchen lassen.
 
-### § 113 StPO.
+`§ 124 (3) StPO.`  
+Mit der molekulargenetischen Untersuchung ist ein Sachverständiger aus dem Fachgebiet der Gerichtlichen Medizin oder der Forensischen Molekularbiologie zu beauftragen. Diesem ist das Untersuchungsmaterial in anonymisierter Form zu übergeben. Im Übrigen ist dafür Sorge zu tragen, dass Daten aus molekulargenetischen Untersuchungen nur insoweit einer bestimmten Person zugeordnet werden können, als dies für den Untersuchungszweck (Abs. 1 und 4) erforderlich ist.
 
-**§ 113 (1) StPO.**  
-Die Sicherstellung endet,
-1. wenn die Kriminalpolizei sie aufhebt (Abs. 2),
-2. wenn die Staatsanwaltschaft die Aufhebung anordnet (Abs. 3),
-3. wenn das Gericht die Beschlagnahme anordnet.
+`§ 124 (4) StPO.`  
+Untersuchungsmaterial, das einer bestimmten Person zugehört oder zugehören dürfte, und die Ergebnisse der Untersuchung dürfen nur so lange verwendet und verarbeitet werden, als die Zuordnung zur Spur oder die Feststellung der Identität oder der Abstammung nicht ausgeschlossen ist; danach sind sie zu vernichten. Sicherheitspolizeiliche Vorschriften (§§ 65 bis 67, 75 SPG) bleiben hievon unberührt.
 
-**§ 113 (2) StPO.**  
-Die Kriminalpolizei hat der Staatsanwaltschaft über jede Sicherstellung unverzüglich, längstens jedoch binnen 14 Tagen zu berichten (§ 100 Abs. 2 Z 2), soweit sie eine Sicherstellung nach § 110 Abs. 3 nicht zuvor wegen Fehlens oder Wegfalls der Voraussetzungen aufhebt. Dieser Bericht kann jedoch mit dem nächstfolgenden verbunden werden, wenn dadurch keine wesentlichen Interessen des Verfahrens oder von Personen beeinträchtigt werden und die sichergestellten Gegenstände und Vermögenswerte geringwertig sind, sich in niemandes Verfügungsmacht befinden oder ihr Besitz allgemein verboten ist (§ 445a Abs. 1). Im Fall des § 110 Abs. 3 Z 4 hat die Kriminalpolizei nach den Bestimmungen der §§ 3, 4 und 6 des Produktpirateriegesetzes 2004, BGBl. I Nr. 56/2004, vorzugehen.
+`§ 124 (5) StPO.`  
+Daten, die auf Grund dieser Bestimmung ermittelt wurden, sind den Sicherheitsbehörden auf deren Verlangen zu übermitteln, soweit Ermittlung und Verarbeitung dieser Daten nach sicherheitspolizeilichen Vorschriften (§§ 65 bis 67, 75 SPG) zulässig wäre.
 
-**§ 113 (3) StPO.**  
-Die Staatsanwaltschaft hat im Fall einer Sicherstellung nach § 109 Z 1 lit. b sogleich bei Gericht die Beschlagnahme zu beantragen oder, wenn deren Voraussetzungen nicht vorliegen oder weggefallen sind, die Aufhebung der Sicherstellung anzuordnen.
+## 3. Abschnitt # Sachverständige und Dolmetscher, Leichenbeschau und Obduktion
 
-**§ 113 (4) StPO.**  
-Im Fall einer Sicherstellung von Gegenständen oder Vermögenswerten (§ 109 Z 1 lit. a) findet eine Beschlagnahme auch auf Antrag nicht statt, wenn sich die Sicherstellung auf Gegenstände oder Vermögenswerte im Sinne des § 110 Abs. 3 Z 1 lit. a und d oder Z 2 bezieht oder der Sicherungszweck durch andere behördliche Maßnahmen erfüllt werden kann. In diesen Fällen hat die Staatsanwaltschaft die erforderlichen Verfügungen über die sichergestellten Gegenstände oder Vermögenswerte und ihre weitere Verwahrung zu treffen und gegebenenfalls die Sicherstellung aufzuheben.
+### § 125 StPO # Definitionen
 
-### § 114 StPO.
+`§ 125 StPO.`  
+Im Sinne dieses Gesetzes ist  
+`§ 125 Z 1 StPO.`
+„Sachverständiger“ eine Person, die auf Grund besonderen Fachwissens in der Lage ist, beweiserhebliche Tatsachen festzustellen (Befundaufnahme) oder aus diesen rechtsrelevante Schlüsse zu ziehen und sie zu begründen (Gutachtenserstattung),  
+`§ 125 Z 2 StPO.`
+„Dolmetscher“ eine Person, die auf Grund besonderer Kenntnisse in der Lage ist, aus der Verfahrenssprache in eine andere Sprache oder von einer anderen in die Verfahrenssprache zu übersetzen,  
+`§ 125 Z 3 StPO.`
+„Leichenbeschau“ die Besichtigung der äußeren Beschaffenheit einer Leiche,  
+`§ 125 Z 4 StPO.`
+„Obduktion“ die Öffnung einer Leiche durch einen Sachverständigen zum Zweck der Feststellung von Anlass und Ursache des Todes oder von anderen für die Aufklärung einer Straftat wesentlichen Umständen.
 
-**§ 114 (1) StPO.**  
-Für die Verwahrung sichergestellter Gegenstände und Vermögenswerte hat bis zur Berichterstattung über die Sicherstellung (§ 113 Abs. 2) die Kriminalpolizei, danach die Staatsanwaltschaft zu sorgen.
+### § 126 StPO # Sachverständige und Dolmetscher
 
-**§ 114 (1a) StPO.**  
-Sichergestellte Kryptowerte sind auf behördeneigene Infrastruktur der Kriminalpolizei zu transferieren und dort zu verwahren. Soweit dies aus rechtlichen oder tatsächlichen Gründen erforderlich ist, kann die Staatsanwaltschaft anordnen, dass die Verwahrung von Kryptowerten auch nach der Berichterstattung durch die Kriminalpolizei erfolgt.
+`§ 126 (1) StPO.`  
+Sachverständige sind zu bestellen, wenn für Ermittlungen oder für Beweisaufnahmen besonderes Fachwissen erforderlich ist, über welches die Strafverfolgungsbehörden durch ihre Organe, besondere Einrichtungen oder bei ihnen dauernd angestellte Personen nicht verfügen. Dolmetscher sind im Rahmen der Übersetzungshilfe und dann zu bestellen, wenn eine Person vernommen wird, die der Verfahrenssprache nicht kundig ist (§ 56), oder für die Ermittlungen wesentliche Schriftstücke in die Verfahrenssprache zu übersetzen sind.
 
-**§ 114 (2) StPO.**  
-Wenn der Grund für die weitere Verwahrung sichergestellter Gegenstände und Vermögenswerte wegfällt, sind diese sogleich jener Person auszufolgen, in deren Verfügungsmacht sie sichergestellt wurden, es sei denn, dass diese Person offensichtlich nicht berechtigt ist. In diesem Fall sind sie der berechtigten Person auszufolgen oder, wenn eine solche nicht ersichtlich ist und nicht ohne unverhältnismäßigen Aufwand festgestellt werden kann, nach § 1425 ABGB gerichtlich zu hinterlegen. Die hievon betroffenen Personen sind zu verständigen.
+`§ 126 (2) StPO.`  
+Als Sachverständige sind vor allem Personen zu bestellen, die in die Gerichtssachverständigen- und Gerichtsdolmetscherliste (§ 2 Abs. 1 des Bundesgesetzes über die allgemein beeideten und gerichtlichen zertifizierten Sachverständigen und Dolmetscher – SDG, BGBl. Nr. 137/1975) eingetragen sind. Werden andere Personen bestellt, so sind sie zuvor über ihre wesentlichen Rechte und Pflichten zu informieren.
 
-### § 115 StPO. Beschlagnahme
+`§ 126 (2a) StPO.`  
+Als Dolmetscher ist von der Staatsanwaltschaft oder vom Gericht eine vom Bundesministerium für Justiz oder in dessen Auftrag von der Justizbetreuungsagentur zur Verfügung gestellte geeignete Person zu bestellen. Zur Gewährleistung der Übersetzungshilfe durch die Kriminalpolizei hat diese eine vom Bundesministerium für Inneres oder in dessen Auftrag von einem Dienstleister zur Verfügung gestellte geeignete Person zu bestellen. Für diese Dolmetscher gilt § 127 Abs. 1 erster Satz nicht.
 
-**§ 115 (1) StPO.**  
-Beschlagnahme ist zulässig, wenn die sichergestellten Gegenstände und Vermögenswerte voraussichtlich
-1. im weiteren Verfahren als Beweismittel erforderlich sein werden,
-2. privatrechtlichen Ansprüchen unterliegen oder
-3. dazu dienen werden, eine gerichtliche Entscheidung auf Konfiskation (§ 19a StGB), auf Verfall (§ 20 StGB), auf erweiterten Verfall (§ 20b StGB), auf Einziehung (§ 26 StGB) oder eine andere gesetzlich vorgesehene vermögensrechtliche Anordnung zu sichern.
+`§ 126 (2b) StPO.`  
+Steht eine geeignete Person nach Abs. 2a nicht oder nicht rechtzeitig zur Verfügung oder besteht Grund zur Annahme, dass hinsichtlich aller nach Abs. 2a in Betracht kommenden Personen einer der Gründe des Abs. 4 vorliegt, so kann auch eine andere geeignete Person als Dolmetscher bestellt werden. Dabei ist vorrangig eine in die Gerichtssachverständigen- und Gerichtsdolmetscherliste (§ 2 Abs. 1 SDG) eingetragene Person zu bestellen, im Übrigen jedoch nach Abs. 2 letzter Satz vorzugehen. Wird eine solche Person durch die Kriminalpolizei als Dolmetscher bestellt, so richtet sich ihr Anspruch auf Abgeltung nach § 53b des Allgemeinen Verwaltungsverfahrensgesetzes (AVG), BGBl. Nr. 51/1991.
 
-**§ 115 (2) StPO.**  
-Über die Beschlagnahme hat das Gericht auf Antrag der Staatsanwaltschaft oder einer von der Sicherstellung betroffenen Person unverzüglich zu entscheiden.
+`§ 126 (2c) StPO.`  
+Bei der Wahl von Sachverständigen oder Dolmetschern und der Bestimmung des Umfangs ihres Auftrags ist nach den Grundsätzen der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit vorzugehen.
 
-**§ 115 (3) StPO.**  
-§ 110 Abs. 4 gilt sinngemäß. Gegebenenfalls ist die Beschlagnahme auf die dort angeführten Aufnahmen und Kopien zu beschränken.
+`§ 126 (3) StPO.`  
+Sachverständige sind von der Staatsanwaltschaft, für gerichtliche Ermittlungen oder Beweisaufnahmen (§§ 104, 105) und für das Hauptverfahren (§ 210 Abs. 2) jedoch vom Gericht zu bestellen. Werden Angehörige des wissenschaftlichen Personals einer Universitätseinheit als Sachverständige bestellt, so ist eine Ausfertigung des Auftrags auch dem Leiter der Einheit zuzustellen. Dem Beschuldigten ist eine Ausfertigung der Bestellung samt einer Information über seine Rechte nach Abs. 5 zuzustellen.
 
-**§ 115 (4) StPO.**  
-Für eine Beschlagnahme durch Drittverbot und Veräußerungs- oder Belastungsverbot (§ 109 Z 2 lit. b) gelten, sofern in diesem Gesetz nichts anderes bestimmt wird, die Bestimmungen der Exekutionsordnung über einstweilige Verfügungen sinngemäß.
+`§ 126 (3a) StPO.`  
+Sachverständige, die zum Zeitpunkt der Befassung oder der Bestellung durch die Staatsanwaltschaft oder das Gericht in mehr als zehn Verfahren die ihnen von der beauftragenden Stelle gesetzte oder bereits verlängerte Frist zur Erstattung eines schriftlichen Gutachtens überschritten haben, haben diesen Umstand der Staatsanwaltschaft oder dem Gericht unverzüglich mitzuteilen. Der Sachverständige kann dennoch bestellt werden, wenn er glaubhaft macht, dass für die in Aussicht genommene Frist zur Erstattung des Gutachtens hinreichend vorgekehrt ist, wenn dem Erfordernis der Beiziehung eines Sachverständigen sonst mit vertretbarem Aufwand nicht entsprochen werden könnte oder wenn eine unverzügliche Befundaufnahme notwendig scheint, um eine erhebliche Beeinträchtigung der Ermittlungen oder von Beweismitteln abzuwenden.
 
-**§ 115 (5) StPO.**  
-In einem Beschluss, mit dem eine Beschlagnahme zur Sicherung einer gerichtlichen Entscheidung auf Verfall (§ 20 StGB) oder auf erweiterten Verfall (§ 20b StGB) bewilligt wird, ist ein Geldbetrag zu bestimmen, in dem die für verfallen zu erklärenden Vermögenswerte Deckung finden.
+`§ 126 (3b) StPO.`  
+Dem Sachverständigen oder Dolmetscher ist eine angemessene Frist für die Erstattung von Befund, Gutachten oder Übersetzung zu setzen. Ist diesem die Einhaltung der Frist nicht möglich, so hat er dies der Staatsanwaltschaft oder dem Gericht binnen 14 Tagen ab Zustellung des Auftrags mitzuteilen und anzugeben, ob ihm eine Auftragserfüllung gegebenenfalls innerhalb einer längeren Frist möglich ist. Die Staatsanwaltschaft oder das Gericht kann die Frist sodann angemessen verlängern.
 
-**§ 115 (6) StPO.**  
-Wenn und sobald die Voraussetzungen der Beschlagnahme nicht oder nicht mehr bestehen oder ein nach Abs. 5 bestimmter Geldbetrag erlegt wird, hat die Staatsanwaltschaft, nach dem Einbringen der Anklage das Gericht, die Beschlagnahme aufzuheben.
+`§ 126 (4) StPO.`  
+Für Sachverständige und Dolmetscher gelten die Befangenheitsgründe des § 47 Abs. 1 sinngemäß. Soweit sie befangen sind oder ihre Sachkunde in Zweifel steht, sind sie von der Staatsanwaltschaft, im Fall einer Bestellung durch das Gericht von diesem, von Amts wegen oder auf Grund von Einwänden ihres Amtes zu entheben, bei Vorliegen eines Befangenheitsgrundes gemäß § 47 Abs. 1 Z 1 und 2 bei sonstiger Nichtigkeit. Im Hauptverfahren kann die Befangenheit eines Dolmetschers nicht bloß mit der Begründung geltend gemacht werden, dass er bereits im Ermittlungsverfahren tätig gewesen ist.
 
-### § 115a StPO. Verwertung sichergestellter oder beschlagnahmter Vermögenswerte
+`§ 126 (5) StPO.`  
+Im Ermittlungsverfahren hat der Beschuldigte das Recht, binnen 14 Tagen ab Zustellung (Abs. 3), Kenntnis eines Befangenheitsgrundes oder Vorliegen begründeter Zweifel an der Sachkunde des Sachverständigen einen Antrag auf dessen Enthebung zu stellen, er kann auch die Bestellung im Rahmen gerichtlicher Beweisaufnahme verlangen und eine andere, nach den Kriterien der Sachkunde (Abs. 2) besser qualifizierte Person zur Bestellung vorschlagen. Will die Staatsanwaltschaft dem Begehren auf Umbestellung keine Folge geben oder wurde gerichtliche Beweisaufnahme verlangt, so hat sie den Antrag unverzüglich samt einer Stellungnahme dem Gericht vorzulegen. Wurde der Sachverständige durch das Gericht bestellt, so entscheidet es über einen Antrag nach dem ersten Satz mit Beschluss.
 
-**§ 115a (1) StPO.**  
-Vermögenswerte, die gemäß § 110 Abs. 1 Z 3 sichergestellt wurden oder deren Beschlagnahme gemäß § 115 Abs. 1 Z 3 zulässig ist, sind einzuziehen oder zu veräußern (Verwertung), wenn
-1. über den Verfall oder den erweiterten Verfall nicht in einem Strafurteil (§§ 443 bis 444a) oder in einem selbstständigen Verfahren (§§ 445 bis 446) entschieden werden kann, weil der Beschuldigte oder ein Haftungsbeteiligter nicht ausgeforscht werden oder nicht vor Gericht gestellt werden kann und das Verfahren aus diesem Grund gemäß § 197 abzubrechen ist,
-2. seit der Sicherstellung oder Beschlagnahme mindestens zwei Jahre vergangen sind und das Edikt über die bevorstehende Verwertung (§ 115b) mindestens ein Jahr öffentlich bekannt gemacht war (§ 115b Abs. 2).
+### § 127 StPO
 
-**§ 115a (2) StPO.**  
-Die Verwertung ist unzulässig, soweit und solange
-1. eine Person, die nicht im Verdacht steht, sich an der strafbaren Handlung beteiligt zu haben, ein Recht auf den Vermögenswert (Abs. 1) glaubhaft gemacht hat, oder
-2. der Vermögenswert (Abs. 1) gerichtlich gepfändet ist.
+`§ 127 (1) StPO.`  
+Sachverständige und Dolmetscher haben Anspruch auf Gebühren nach dem Gebührenanspruchsgesetz 1975. Sofern nicht besondere Gründe entgegen stehen, ist ihnen die Anwesenheit bei Vernehmungen zu gestatten und im erforderlichen Umfang Akteneinsicht zu gewähren. Sie unterliegen der Amtsverschwiegenheit.
 
-**§ 115a (3) StPO.**  
-Über die Verwertung hat das Gericht auf Antrag der Staatsanwaltschaft, gegebenenfalls zugleich mit der Beschlagnahme zu entscheiden.
+`§ 127 (2) StPO.`  
+Sachverständige haben den Befund und das Gutachten nach bestem Wissen und Gewissen und nach den Regeln ihrer Wissenschaft oder Kunst oder ihres Gewerbes abzugeben. Sie haben Ladungen der Staatsanwaltschaft und des Gerichts zu befolgen und bei Verhandlungen, Vernehmungen und Tatrekonstruktionen Fragen zu beantworten.
 
-### § 115b StPO.
+`§ 127 (3) StPO.`  
+Ist der Befund unbestimmt oder das Gutachten widersprüchlich oder sonst mangelhaft oder weichen die Angaben zweier Sachverständiger über die von ihnen wahrgenommenen Tatsachen oder die hieraus gezogenen Schlüsse erheblich voneinander ab und lassen sich die Bedenken nicht durch Befragung beseitigen, so ist ein weiterer Sachverständiger beizuziehen. Handelt es sich um eine Begutachtung psychischer Zustände und Entwicklungen, so ist in einem solchen Fall das Gutachten eines Sachverständigen mit Lehrbefugnis an einer in- oder ausländischen Universität einzuholen.
 
-**§ 115b (1) StPO.**  
-Eine Verwertung hat das Gericht durch Edikt anzukündigen, das zu enthalten hat:
-1. die Bezeichnung des Drittschuldners,
-2. eine Beschreibung oder Bezeichnung des Vermögenswerts (§ 115a Abs. 1) nach Art, Umfang und Höhe,
-3. die Mitteilung, dass der Vermögenswert (§ 115a Abs. 1) nach Ablauf eines Jahres verwertet werde, sofern nicht bis dahin die Aufhebung der Sicherstellung oder Beschlagnahme beantragt werde.
+`§ 127 (4) StPO.`  
+Dolmetscher haben nach bestem Wissen und Gewissen zu übersetzen, Ladungen der Staatsanwaltschaft und des Gerichts zu befolgen und bei Verhandlungen, Vernehmungen und Tatrekonstruktionen Fragen zu beantworten.
 
-**§ 115b (2) StPO.**  
-Das Edikt ist durch Aufnahme in die Ediktsdatei (§ 89j GOG) öffentlich bekannt zu machen. Eine schriftliche Ausfertigung ist der Staatsanwaltschaft, gegebenenfalls dem von der Anordnung Betroffenen sowie dem Drittschuldner zuzustellen, der zu verpflichten ist, alle Tatsachen, die einer Verwertung entgegenstehen könnten, dem Gericht unverzüglich mitzuteilen. Dabei entstehende angemessene und ortsübliche Kosten sind zu ersetzen (§ 111 Abs. 3).
+`§ 127 (5) StPO.`  
+Wenn ein Sachverständiger oder ein Dolmetscher die ihm gesetzte Frist zur Erstattung des Befundes oder Gutachtens oder der Übersetzung trotz Mahnung wesentlich überschreitet, kann er seines Amtes enthoben werden. Überdies kann das Gericht, wenn der Sachverständige oder Dolmetscher die Verzögerung verschuldet hat, über ihn eine Geldstrafe bis zu 10 000 Euro verhängen.
 
-### § 115c StPO.
+### § 128 StPO # Leichenbeschau und Obduktion
 
-**§ 115c (1) StPO.**  
-Ein Beschluss auf Verwertung ist durch Aufnahme in die Ediktsdatei (§ 89j GOG) öffentlich bekannt zu machen. Die Zustellung gilt dadurch als bewirkt. Dieses Edikt hat zumindest dreißig Jahre lang in der Ediktsdatei abfragbar zu bleiben.
+`§ 128 (1) StPO.`  
+Sofern nicht ein natürlicher Tod feststeht, hat die Kriminalpolizei einen Arzt beizuziehen und grundsätzlich am Ort der Auffindung die äußere Beschaffenheit der Leiche zu besichtigen, der Staatsanwaltschaft über das Ergebnis der Leichenbeschau zu berichten und dafür zu sorgen, dass die Leiche für den Fall der Obduktion zur Verfügung steht.
 
-**§ 115c (2) StPO.**  
-Eine rechtzeitig eingebrachte Beschwerde hat aufschiebende Wirkung.
+`§ 128 (2) StPO.`  
+Eine Obduktion ist zulässig, wenn nicht ausgeschlossen werden kann, dass der Tod einer Person durch eine Straftat verursacht worden ist. Sie ist von der Staatsanwaltschaft anzuordnen, die mit der Durchführung eine Universitätseinheit für Gerichtliche Medizin oder einen Sachverständigen aus dem Fachgebiet der Gerichtsmedizin, der kein Angehöriger des wissenschaftlichen Personals einer solchen Einrichtung ist, zu beauftragen hat.
 
-### § 115d StPO.
+`§ 128 (2a) StPO.`  
+Im Fall einer Beauftragung einer Universitätseinheit hat die Leitung dieser Einheit die persönliche Verantwortung für die Obduktion im Sinne des § 127 Abs. 2 einem Angehörigen des wissenschaftlichen Personals dieser Einheit zu übertragen, der die persönlichen und fachlichen Voraussetzungen für die Eintragung in die Liste der allgemein beeideten und gerichtlich zertifizierten Sachverständigen erfüllt. Ersucht eine Staatsanwaltschaft oder ein Gericht um die Übertragung an eine bestimmte Person, so hat die Leitung diesem Ersuchen zu entsprechen, es sei denn, dass wichtige Gründe entgegenstehen. Ist dies der Fall, so hat die Leitung die Zustimmung der Staatsanwaltschaft oder des Gerichts zu einer anderweitigen Übertragung einzuholen. Die Universitätseinrichtung kann Gebühren in sinngemäßer Anwendung des Gebührensanspruchsgesetzes (GebAG), BGBl. Nr. 136/1975, geltend machen, wobei sie die Gebühr für Mühewaltung nach Abzug der Gebühren für die Nutzung der Untersuchungsräumlichkeiten, einschließlich der Infrastruktur der Person zu überweisen hat, der die Verantwortung für die Obduktion übertragen wurde.
 
-**§ 115d (1) StPO.**  
-Ein rechtskräftiger Beschluss auf Verwertung ist in sinngemäßer Anwendung des § 408 zu vollstrecken. In der Aufforderung nach § 408 Abs. 1 ist dem betroffenen Schuldner aufzutragen, dem Gericht alle den Vermögenswert (§ 115a Abs. 1) betreffenden Unterlagen vorzulegen.
+`§ 128 (3) StPO.`  
+Wenn dies zur Aufklärung einer Straftat erforderlich ist, ist auch die Exhumierung einer Leiche zum Zweck einer Obduktion (Abs. 2) zulässig. Sie ist von der Staatsanwaltschaft anzuordnen.
 
-**§ 115d (2) StPO.**  
-Kann nach Rechtskraft des Beschlusses auf Verwertung über den Verfall oder den erweiterten Verfall entschieden werden, so ist nach den §§ 443 bis 446 vorzugehen. Im Übrigen gilt § 444 Abs. 2 sinngemäß.
-
-**§ 115d (3) StPO.**  
-Ein Ersatz für zu Gunsten des Bundes verwertete Vermögenswerte (§ 115a Abs. 1) ist nur in Geld zu leisten. Der Bund ist dabei wie ein redlicher Besitzer zu behandeln (§ 330 ABGB).
-
-### § 115e StPO.
-
-**§ 115e (1) StPO.**  
-Unterliegen sichergestellte (§ 110 Abs. 1 Z 3) oder beschlagnahmte (§ 115 Abs. 1 Z 3) Gegenstände oder Vermögenswerte einem raschen Verderben, einer erheblichen Wertminderung oder Wertschwankung oder lassen sie sich nur mit unverhältnismäßigen Kosten aufbewahren, so kann das Gericht diese auf Antrag der Staatsanwaltschaft auf die im § 377 angeordnete Weise veräußern. Die Verwertung hat jedoch solange zu unterbleiben, als die Gegenstände für Beweiszwecke benötigt werden (§ 110 Abs. 4).
-
-**§ 115e (2) StPO.**  
-Personen, die von der Veräußerung betroffen sind, sind vor der Verwertung, gegebenenfalls unter sinngemäßer Anwendung des § 83 Abs. 5 zu verständigen. Der Erlös tritt an die Stelle der veräußerten Gegenstände und Vermögenswerte. Die Verwertung wegen unverhältnismäßiger Aufbewahrungskosten unterbleibt, wenn rechtzeitig ein zur Deckung dieser Kosten ausreichender Betrag erlegt wird.
-
-**§ 115e (3) StPO.**  
-Über die Verwertung hat das Gericht auf Antrag der Staatsanwaltschaft, gegebenenfalls zugleich mit der Beschlagnahme zu entscheiden.
-
-### § 115f StPO. Beschlagnahme von Datenträgern und Daten
-
-**§ 115f (1) StPO.**  
-Die Beschlagnahme von Datenträgern und Daten ist zulässig, wenn sie aus Beweisgründen erforderlich scheint und aufgrund bestimmter Tatsachen anzunehmen ist, dass dadurch Informationen ermittelt werden können, die für die Aufklärung einer Straftat wesentlich sind.
-
-**§ 115f (2) StPO.**  
-Die Beschlagnahme von Datenträgern und Daten ist durch die Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen und von der Kriminalpolizei durchzuführen.
-
-**§ 115f (3) StPO.**  
-Die Anordnung und die gerichtliche Bewilligung der Beschlagnahme von Datenträgern und Daten haben die Bezeichnung des Verfahrens, den Namen des Beschuldigten, soweit dieser bekannt ist, die Tat, deren der Beschuldigte verdächtig ist, und ihre gesetzliche Bezeichnung sowie die Tatsachen, aus denen sich ergibt, dass die Anordnung und Bewilligung zur Aufklärung der Tat voraussichtlich erforderlich und verhältnismäßig sind, anzuführen und über die Rechte des von der Anordnung und Bewilligung Betroffenen zu informieren; darüber hinaus haben sie die Umschreibung der Datenkategorien und Dateninhalte, die zu beschlagnahmen sind, und in Bezug auf welchen Zeitraum dies zu erfolgen hat, zu enthalten.
-
-**§ 115f (4) StPO.**  
-Die Kriminalpolizei ist berechtigt, Datenträger und Daten, die einer Beschlagnahme nach Abs. 1 unterliegen, bei Gefahr im Verzug von sich aus sicherzustellen,
-1. wenn andernfalls der Verlust des Datenträgers oder der darauf oder an anderen Speicherorten (§ 109 Z 2a lit. a und b) gespeicherten Daten zu befürchten wäre,
-2. in den Fällen der § 110 Abs. 3 und § 170 Abs. 1 Z 1, oder
-3. wenn zu erwarten ist, dass dadurch der Aufenthalt eines flüchtigen Beschuldigten, der einer vorsätzlich begangenen, mit mehr als einjähriger Freiheitsstrafe bedrohten strafbaren Handlung dringend verdächtig ist, ermittelt werden kann.
-
-**§ 115f (5) StPO.**  
-Eine neuerliche Anordnung und Bewilligung nach Abs. 3 ist zulässig, soweit auf Grund bestimmter Tatsachen oder Umstände anzunehmen ist, dass ein weiterer Zugriff auf die Originalsicherung (§ 109 Z 2c) oder Arbeitskopie (§ 109 Z 2d) erforderlich ist und die Voraussetzungen (Abs. 1) vorliegen.
-
-**§ 115f (6) StPO.**  
-Die Beschlagnahme von Datenträgern und Daten ist nicht zulässig und jedenfalls auf Verlangen der betroffenen Person aufzuheben, soweit und sobald der Beweiszweck durch Bild-, Ton- oder sonstige Aufnahmen oder durch Kopien automationsunterstützt verarbeiteter Daten erfüllt werden kann und nicht anzunehmen ist, dass der Datenträger selbst oder die Originale der beschlagnahmten Daten in der Hauptverhandlung in Augenschein zu nehmen sein werden.
-
-**§ 115f (7) StPO.**  
-Ein sofortiger Zugriff auf Datenträger und Daten und Einsichtnahme in diese ist zulässig, um im Rahmen der gerichtlichen Bewilligung die erforderlichen Daten (Abs. 3) zu sichern (§ 74 Abs. 2).
-
-**§ 115f (8) StPO.**  
-In jedem Fall ist der von der Beschlagnahme von Datenträgern und Daten sowie einer Sicherstellung nach Abs. 4 betroffenen Person sogleich oder längstens binnen 24 Stunden eine Bestätigung über die Sicherstellung auszufolgen oder zuzustellen und sie über das Recht zu informieren, eine gerichtliche Entscheidung über die Aufhebung oder Fortsetzung der Sicherstellung zu beantragen.
-
-**§ 115f (9) StPO.**  
-Wenn und sobald die Voraussetzungen der Beschlagnahme nicht oder nicht mehr bestehen, hat die Staatsanwaltschaft, nach Einbringen der Anklage das Gericht, die Beschlagnahme aufzuheben. Wird einer Beschwerde Folge gegeben, weil festgestellt wird, dass kein Anfangsverdacht (§ 1 Abs. 3) vorgelegen ist, so gilt § 89 Abs. 4.
-
-### § 115g StPO.
-
-**§ 115g (1) StPO.**  
-Sollen Datenträger und Daten beschlagnahmt werden (§ 109 Z 2a), so ist jede Person verpflichtet (§ 93 Abs. 2), Zugang zu diesen zu gewähren und auf Verlangen Daten in einem allgemein gebräuchlichen Dateiformat auszufolgen oder eine Kopie herstellen zu lassen. Überdies hat sie die Herstellung einer Originalsicherung (§ 109 Z 2c) der auf den Datenträgern oder an anderen Speicherorten gespeicherten Daten zu dulden; § 111 Abs. 3 gilt sinngemäß.
-
-**§ 115g (2) StPO.**  
-§ 112 und § 112a sind sinngemäß anzuwenden, wobei der Betroffene aufzufordern ist, jene Teile des Ergebnisses der Datenaufbereitung konkret zu bezeichnen, deren Offenlegung eine Umgehung seiner Verschwiegenheit bedeuten würde; zu diesem Zweck ist er berechtigt, Einsicht in dieses zu nehmen.
-
-**§ 115g (3) StPO.**  
-Über jede Sicherstellung eines Datenträgers nach § 115f Abs. 4 hat die Kriminalpolizei unverzüglich, längstens jedoch binnen 14 Tagen der Staatsanwaltschaft zu berichten (§ 100 Abs. 2 Z 2), welche im Nachhinein sogleich beim Gericht die Beschlagnahme von Datenträgern und Daten (§ 115f Abs. 1 bis 3) zu beantragen oder, wenn deren Voraussetzungen nicht vorliegen oder weggefallen sind, die Aufhebung der Sicherstellung anzuordnen hat. Wird die Bewilligung nicht erteilt, so haben Staatsanwaltschaft und Kriminalpolizei mit den ihnen zu Gebote stehenden rechtlichen Mitteln den der gerichtlichen Entscheidung entsprechenden Rechtszustand herzustellen und alle durch diese Ermittlungsmaßnahme gewonnenen Ergebnisse zu vernichten; einer Beschwerde der Staatsanwaltschaft gegen einen solchen Beschluss des Gerichts kommt aufschiebende Wirkung zu.
-
-### § 115h StPO. Aufbereitung von Daten
-
-**§ 115h (1) StPO.**  
-Eine Originalsicherung (§ 109 Z 2c) ist herzustellen, eine Arbeitskopie (§ 109 Z 2d) zu erstellen und anhand dieser die Daten im Umfang der gerichtlichen Bewilligung aufzubereiten (§ 109 Z 2b). Das Ergebnis der Datenaufbereitung (§ 109 Z 2e) ist in einem allgemein gebräuchlichen Dateiformat in strukturierter Form herzustellen, sodass die Daten elektronisch weiterverarbeitet werden können. Es ist ein Aufbereitungsbericht zu erstellen, der jedenfalls den Ablauf der Aufbereitung von Daten zu dokumentieren sowie den Umstand einer Wiederherstellung von Daten und die Kriterien für die erfolgte Einschränkung von Daten festzuhalten hat. Gleiches gilt, wenn Anlass besteht, nach § 101 Abs. 2 zweiter Satz oder § 103 Abs. 2 vorzugehen.
-
-**§ 115h (2) StPO.**  
-Die Staatsanwaltschaft hat das Ergebnis der Datenaufbereitung (§ 109 Z 2e) dem Gericht bei Einbringung der Anklage zu übermitteln. Das Gericht hat diese nach rechtskräftigem Abschluss des Verfahrens zu löschen und die Löschung der Originalsicherung sowie der Arbeitskopie anzuordnen, soweit sie nicht in einem anderen, bereits anhängigen Strafverfahren als Beweismittel Verwendung finden. Gleiches gilt für die Staatsanwaltschaft im Fall der Einstellung des Verfahrens.
-
-### § 115i StPO. Auswertung von Daten
-
-**§ 115i (1) StPO.**  
-Das Ergebnis der Datenaufbereitung (§ 109 Z 2e) ist inhaltlich auszuwerten; zu diesem Zweck können Suchparameter festgelegt werden. Die Suchparameter und die Anzahl der durch diese erzielten Suchtreffer sind im Akt zu dokumentieren. Die Staatsanwaltschaft hat diejenigen Ergebnisse der Auswertung zu den Akten zu nehmen, die für das Verfahren von Bedeutung sind und als Beweismittel verwendet werden dürfen (§ 115j Abs. 1, § 144, § 157 Abs. 2).
-
-**§ 115i (2) StPO.**  
-Der Beschuldigte und das Opfer haben das Recht, die Auswertung von Daten anhand weiterer Suchparameter zu beantragen (§ 55). Wurden ihre Datenträger und Daten beschlagnahmt, ist ihnen zu ermöglichen, das Ergebnis der Datenaufbereitung (§ 109 Z 2e) einzusehen; anderen Personen steht eine solche Einsichtnahme nicht zu. § 51 Abs. 2 gilt sinngemäß.
-
-**§ 115i (3) StPO.**  
-Auf Antrag des Beschuldigten sind weitere Ergebnisse der Auswertung zu den Akten zu nehmen, wenn diese für das weitere Verfahren von Bedeutung sind und als Beweismittel verwendet werden dürfen (§ 115j Abs. 1, § 144, § 157 Abs. 2).
-
-**§ 115i (4) StPO.**  
-Bei der Auswertung von Daten sind die Persönlichkeitsrechte soweit wie möglich zu wahren; die Auswertung ist auf das unvermeidbare Maß zu beschränken. Die von der Auswertung der Daten betroffenen Personen haben das Recht, das Ergebnis der Auswertung von Daten insoweit einzusehen, als ihre Daten betroffen sind. Über dieses und das ihnen nach Abs. 5 zustehende Recht hat die Staatsanwaltschaft diese Personen, sofern ihre Identität bekannt oder ohne besonderen Verfahrensaufwand feststellbar ist, zu informieren.
-
-**§ 115i (5) StPO.**  
-Auf Antrag des Beschuldigten oder von Amts wegen sind Daten aus dem Ergebnis der Datenaufbereitung zu vernichten, wenn sie für ein Strafverfahren nicht von Bedeutung sein können oder als Beweismittel nicht verwendet werden dürfen. Dieses Antragsrecht steht auch den in Abs. 4 genannten betroffenen Personen zu.
-
-### § 115j StPO.
-
-**§ 115j (1) StPO.**  
-Als Beweismittel dürfen Ergebnisse einer Auswertung bei sonstiger Nichtigkeit nur verwendet werden, wenn die Ermittlungsmaßnahme rechtmäßig angeordnet und bewilligt (§ 115f Abs. 2 und 4 sowie § 115g Abs. 3) wurde.
-
-**§ 115j (2) StPO.**  
-Ergeben sich bei der Auswertung von Daten Hinweise auf die Begehung einer anderen strafbaren Handlung als derjenigen, die Anlass zur Beschlagnahme von Datenträgern und Daten gegeben hat, so ist mit diesen ein gesonderter Akt anzulegen, soweit die Verwendung als Beweismittel zulässig ist (Abs. 1, § 144, § 157 Abs. 2).
-
-### § 115k StPO. Verwahrung von Datenträgern und Daten
-
-**§ 115k StPO.**  
- Die Originalsicherung und die Arbeitskopie sind auf geeignete Art und Weise gegen unbefugte Einsichtnahme oder Veränderung zu sichern und bis zur rechtskräftigen Beendigung des Strafverfahrens aufzubewahren; auf die Originalsicherung und Arbeitskopie darf außer im Fall des § 115f Abs. 5 nicht zugegriffen werden; im Übrigen ist eine Einsichtnahme unzulässig. Für die Verwahrung von Datenträgern, sofern sie nicht zurückgestellt werden können, und des Ergebnisses der Datenaufbereitung (§ 109 Z 2e) hat im Fall einer Aufbereitung der Daten durch die Kriminalpolizei bis zur Berichterstattung über die abschließende Auswertung der Daten (§ 115i) diese, danach die Staatsanwaltschaft zu sorgen.
-
-### § 115l StPO. Rechtsschutz
-
-**§ 115l (1) StPO.**  
-Dem Rechtsschutzbeauftragten obliegt die Prüfung und Kontrolle der Anordnung, Genehmigung, Bewilligung und Durchführung einer Beschlagnahme von Datenträgern und Daten (§ 109 Z 2a). Im Fall einer Antragstellung nach § 115f hat die Staatsanwaltschaft den Rechtsschutzbeauftragten samt einer Ausfertigung dieses Antrags und der Bewilligung ehestmöglich zu informieren. Richtet sich die Beschlagnahme von Datenträgern und Daten gegen eine Person, deren Vernehmung als Zeuge gemäß § 155 Abs. l Z l verboten ist, oder die gemäß § 157 Abs. 1 Z 2 bis 4 berechtigt ist, die Aussage zu verweigern, hat sie dem Rechtsschutzbeauftragten zugleich mit dem Antrag auf gerichtliche Bewilligung eine Ausfertigung dieses Antrags samt Kopien aller Aktenstücke, die für die Beurteilung der Anordnungsgründe von Bedeutung sein können, zu übermitteln und um Ermächtigung zur Antragstellung zu ersuchen. Eine Ermächtigung darf der Rechtsschutzbeauftragte nur erteilen, wenn besonders schwerwiegende Gründe vorliegen, die diesen Eingriff verhältnismäßig erscheinen lassen; § 144 Abs. 1 und Abs. 3 gilt sinngemäß.
-
-**§ 115l (2) StPO.**  
-Die Staatsanwaltschaft und die Kriminalpolizei haben dem Rechtsschutzbeauftragten bei der Wahrnehmung seiner Aufgaben jederzeit Einblick in alle erforderlichen Akten, Unterlagen und Daten zu gewähren, die der Dokumentation der Durchführung dienen, ihm auf Verlangen Kopien oder Ausfertigungen einzelner Aktenstücke unentgeltlich auszufolgen und alle erforderlichen Auskünfte zu erteilen; insofern kann ihm gegenüber Amtsverschwiegenheit nicht geltend gemacht werden.
-
-**§ 115l (3) StPO.**  
-Dem Rechtsschutzbeauftragten ist jederzeit Gelegenheit zu geben, die Aufbereitung von Daten (§ 115h) und die Auswertung von Daten (§ 115i) zu überwachen sowie alle Räume zu betreten, in denen Originalsicherungen, Arbeitskopien, Datenträger und Ergebnisse der Datenaufbereitung aufbewahrt sowie die Aufbereitung von Daten vorgenommen werden. Er hat insbesondere darauf zu achten, dass bei der Aufbereitung und der Auswertung von Daten die Anordnung und die gerichtliche Bewilligung nicht überschritten werden. Auf Anregung der Staatsanwaltschaft kann der Rechtsschutzbeauftragte die in dieser Bestimmung genannten Prüfungen vornehmen; ein Recht auf Anregung kommt auch dem Beschuldigten, dem Opfer und von der Ermittlungsmaßnahme Betroffenen zu (§ 55). Der Rechtsschutzbeauftragte hat mitzuteilen, ob er einer solchen Anregung nachkommt; diese Mitteilung hat eine Begründung zu enthalten.
-
-**§ 115l (4) StPO.**  
-Dem Rechtsschutzbeauftragten steht Beschwerde gegen die Bewilligung der im Abs. 1 genannten Ermittlungsmaßnahme und Einspruch gegen deren Anordnung und Durchführung zu; dieses Recht erlischt mit dem Ablauf der Rechtsmittelfrist des Beschuldigten.
-
-**§ 115l (5) StPO.**  
-Der Rechtsschutzbeauftragte ist berechtigt, die Vernichtung von Daten (§ 115i Abs. 5) zu beantragen. Beabsichtigt die Staatsanwaltschaft, einem solchen Antrag des Rechtsschutzbeauftragten nicht nachzukommen, so hat sie unverzüglich die Entscheidung des Gerichts einzuholen.
-
-**§ 115l (6) StPO.**  
-Nach Beendigung der Ermittlungsmaßnahme ist dem Rechtsschutzbeauftragten Gelegenheit zu geben, den Aufbereitungsbericht und das Ergebnis der Datenaufbereitung (§ 109 Z 2e) einzusehen. Nach Beendigung des Strafverfahrens ist ihm Gelegenheit zu geben, sich von der ordnungsgemäßen Vernichtung der Originalsicherung, der Arbeitskopie und des Ergebnisses der Datenaufbereitung zu überzeugen.
-
-### § 116 StPO. Auskunft aus dem Kontenregister und Auskunft über Bankkonten und Bankgeschäfte
-
-**§ 116 (1) StPO.**  
-Auskunft aus dem Kontenregister und Auskunft über Bankkonten und Bankgeschäfte sind zulässig, wenn sie zur Aufklärung einer vorsätzlich begangenen Straftat oder eines Vergehens, das in die Zuständigkeit des Landesgerichts fällt (§ 31 Abs. 2 bis 4) oder zur Aufklärung der Voraussetzungen einer Anordnung auf Auskunft nach Abs. 2 Z 2 in Verfahren wegen einer vorsätzlich begangenen Straftat, für die im Hauptverfahren das Landesgericht zuständig wäre (§ 31 Abs. 2 bis 4), erforderlich erscheinen.
-
-**§ 116 (2) StPO.**  
-Auskunft über Bankkonten und Bankgeschäfte ist darüber hinaus nur zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist,
-1. dass dadurch Gegenstände, Urkunden oder andere Unterlagen über eine Geschäftsverbindung oder damit im Zusammenhang stehende Transaktionen sichergestellt werden können, soweit dies für die Aufklärung der Straftat erforderlich ist,
-2. dass Gegenstände oder andere Vermögenswerte zur Sicherung der Konfiskation (§ 19a StGB), des Verfalls (§ 20 StGB), des erweiterten Verfalls (§ 20b StGB), der Einziehung (§ 26 StGB) oder einer anderen gesetzlich vorgesehenen vermögensrechtlichen Anordnung gemäß § 109 Z 1 lit. b sichergestellt werden können, oder
-3. dass eine mit der Straftat im Zusammenhang stehende Transaktion über die Geschäftsverbindung abgewickelt werde.
-
-**§ 116 (3) StPO.**  
-Auskunft aus dem Kontenregister ist von der Staatsanwaltschaft anzuordnen (§ 102 Abs. 2).
-
-**§ 116 (4) StPO.**  
-Auskunft über Bankkonten und Bankgeschäfte ist durch die Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen. Anordnung und Bewilligung der Auskunftserteilung haben zu enthalten:
-1. die Bezeichnung des Verfahrens und der Tat, die ihm zu Grunde liegt, sowie deren gesetzliche Bezeichnung,
-2. das Kredit- oder Finanzinstitut,
-3. die Umschreibung der sicherzustellenden Gegenstände, Urkunden (Unterlagen) oder Vermögenswerte,
-4. die Tatsachen, aus denen sich die Erforderlichkeit und Verhältnismäßigkeit (§ 5) der Anordnungen ergibt,
-5. im Fall einer Anordnung nach Abs. 2 Z 3 den von ihr umfassten Zeitraum.
-
-**§ 116 (5) StPO.**  
-Die Anordnung der Auskunft aus dem Kontenregister und die Anordnung der Auskunft über Bankkonten und Bankgeschäfte samt gerichtlicher Bewilligung sind dem Beschuldigten und den aus der Geschäftsverbindung verfügungsberechtigten Personen zuzustellen, sobald diese der Staatsanwaltschaft bekannt geworden sind. Die Zustellung kann jedoch aufgeschoben werden, solange durch sie der Zweck dieses oder eines anderen Verfahrens gefährdet wäre.
-
-**§ 116 (6) StPO.**  
-Kredit- oder Finanzinstitute und ihre Mitarbeiter sind verpflichtet, die Auskünfte zu erteilen sowie die Urkunden und Unterlagen einsehen zu lassen und herauszugeben. Dies hat auf einem elektronischen Datenträger in einem allgemein gebräuchlichen Dateiformat in strukturierter Form so zu erfolgen, dass die Daten elektronisch weiterverarbeitet werden können. Die Verpflichtung nach dem ersten Satz und ihren Umfang sowie jene, mit der Anordnung und Bewilligung verbundene Tatsachen und Vorgänge gegenüber Dritten geheim zu halten, hat die Staatsanwaltschaft dem Kredit- oder Finanzinstitut mit gesonderter Anordnung aufzutragen; diese Anordnung hat die entsprechende gerichtliche Bewilligung anzuführen. Die rechtliche Zulässigkeit der Auskunftserteilung und Mitwirkung gründet auf der gerichtlichen Bewilligung.
-
-**§ 116 (7) StPO.**  
-Wird einem Einspruch wegen Rechtsverletzung oder einer Beschwerde Folge gegeben, so gilt § 89 Abs. 4. Eine Durchsuchung des Kredit- oder Finanzinstituts bedarf stets einer Anordnung der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung. §§ 110 Abs. 4 und 111 Abs. 3 sind anzuwenden.
-
-**END-OF-FILE**
+`END-OF-DATA-FILE`

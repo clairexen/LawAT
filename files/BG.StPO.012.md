@@ -2,111 +2,258 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 9. Hauptstück | Fahndung, Festnahme und Untersuchungshaft | 1. Abschnitt | Fahndung
+## 4. Abschnitt # Vollzug der Untersuchungshaft
 
-### § 167 StPO. Definitionen
+### § 182 StPO # Allgemeines
 
-**§ 167 StPO.**  
- Im Sinne dieses Gesetzes ist
-**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Personenfahndung“ jede Maßnahme zur Ermittlung des Aufenthaltes einer Person und zur Festnahme des Beschuldigten auf Grund einer Anordnung der Staatsanwaltschaft,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">„Sachenfahndung“ jede Maßnahme zur Feststellung des Verbleibes einer Sache und zu ihrer Sicherstellung.</div></div></li></ol>
+`§ 182 (1) StPO.`  
+Zweck der Anhaltung eines Beschuldigten in Untersuchungshaft ist, dem Haftgrund (§ 173 Abs. 2) entgegenzuwirken.
 
-### § 168 StPO. Fahndung
+`§ 182 (2) StPO.`  
+Das Leben in Untersuchungshaft soll den allgemeinen Lebensverhältnissen soweit wie möglich angeglichen werden. Beschränkungen dürfen verhafteten Beschuldigten nur insoweit auferlegt werden, als dies gesetzlich zulässig und zur Erreichung des Haftzwecks (Abs. 1) oder zur Aufrechterhaltung der Sicherheit und Ordnung in der Justizanstalt notwendig ist.
 
-**§ 168 (1) StPO.**  
-Personenfahndung zur Aufenthaltsermittlung ist zulässig, wenn der Aufenthalt des Beschuldigten oder einer Person, deren Identität festgestellt oder die als Zeuge vernommen werden soll, unbekannt ist.
+`§ 182 (3) StPO.`  
+Beim Vollzug der Untersuchungshaft ist insbesondere darauf Bedacht zu nehmen, dass  
+`§ 182 (3) Z 1 StPO.`
+für Beschuldigte die Vermutung der Unschuld gilt,  
+`§ 182 (3) Z 2 StPO.`
+Beschuldigte ausreichend Gelegenheit zur Vorbereitung ihrer Verteidigung haben und  
+`§ 182 (3) Z 3 StPO.`
+schädlichen Folgen des Freiheitsentzuges auf geeignete Weise entgegengewirkt wird.
 
-**§ 168 (2) StPO.**  
-Personenfahndung zur Festnahme ist zulässig, wenn eine solche nicht vollzogen werden kann, weil der Beschuldigte flüchtig oder sein Aufenthalt unbekannt ist, oder weil er einer Ladung keine Folge geleistet hat und zu einer Vernehmung, einer anderen Beweisaufnahme oder zur Hauptverhandlung vorgeführt werden soll.
+`§ 182 (3a) StPO.`  
+Ein Waffengebrauch im Sinne des § 105 Abs. 6 Z 3 StVG ist nur zulässig, wenn der Beschuldigte wegen des Verdachts eines Verbrechens in Untersuchungshaft angehalten wird und auf Grund der Art oder Ausführung der vorgeworfenen Tat, der Persönlichkeit des Beschuldigten oder seines Vorlebens anzunehmen ist, dass er für die Sicherheit des Staates, von Leib und Leben, die sexuelle Integrität oder das Vermögen anderer Personen eine besondere Gefahr darstellt.
 
-**§ 168 (3) StPO.**  
-Sachenfahndung ist zulässig, wenn ein Gegenstand, der sichergestellt werden soll, nicht aufgefunden werden kann.
+`§ 182 (4) StPO.`  
+Im Übrigen sind, soweit dieses Gesetz im Einzelnen nichts anderes bestimmt, auf den Vollzug der Untersuchungshaft die Bestimmungen des Strafvollzugsgesetzes über den Vollzug von Freiheitsstrafen, deren Strafzeit 18 Monate nicht übersteigt, dem Sinn nach anzuwenden.
 
-### § 169 StPO.
+`§ 182 (5) StPO.`  
+Soweit im Einzelnen nichts anderes bestimmt wird, gelten die Bestimmungen über den Vollzug der Untersuchungshaft für alle Anhaltungen nach diesem Gesetz, die in einer Justizanstalt vollzogen werden.
 
-**§ 169 (1) StPO.**  
-Personenfahndung durch Ausschreibung zur Aufenthaltsermittlung oder zur Festnahme ist von der Staatsanwaltschaft anzuordnen. Über weitere Anordnung der Staatsanwaltschaft kann sie öffentlich bekannt gemacht werden, wenn die Ausforschung des Beschuldigten, weiterer Opfer oder die Auffindung einer anderen Person andernfalls wenig erfolgversprechend wäre und der Beschuldigte einer vorsätzlich begangenen Straftat, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht ist, dringend verdächtig ist. Abbildungen von Personen dürfen jedoch nur dann veröffentlicht oder zur Veröffentlichung in Medien oder sonst öffentlich zugänglichen Dateien freigegeben werden, wenn der damit angestrebte Vorteil den mit der Veröffentlichung verbundenen Eingriff in die Intimsphäre deutlich überwiegt oder die Veröffentlichung zum Schutz der Rechte und Interessen von durch den Beschuldigten gefährdeten Personen erforderlich scheint.
+### § 183 StPO # Haftort
 
-**§ 169 (1a) StPO.**  
-Eine Veröffentlichung von Abbildungen eines in Untersuchungshaft angehaltenen Beschuldigten ist auf Grund einer Anordnung der Staatsanwaltschaft unter den Voraussetzungen des Abs. 1 letzter Satz zulässig, soweit anderenfalls die Aufklärung weiterer Straftaten, deren Begehung er verdächtig ist, wesentlich erschwert wäre.
+`§ 183 (1) StPO.`  
+Beschuldigte sind in der Justizanstalt des für die Entscheidung über die Verhängung und Fortsetzung der Untersuchungshaft zuständigen Gerichts anzuhalten. Soweit dies – insbesondere im Interesse einer wirtschaftlichen Führung der Justizanstalten – notwendig ist, können weibliche Beschuldigte in der Justizanstalt eines benachbarten Gerichts angehalten werden.
 
-**§ 169 (2) StPO.**  
-Sachenfahndung kann die Kriminalpolizei von sich aus anordnen und durchführen; sie hat die erforderlichen Veröffentlichungen und anderen notwendigen Maßnahmen zu veranlassen.
-## 2. Abschnitt | Festnahme
+`§ 183 (2) StPO.`  
+Wenn dies zur Erreichung des Haftzwecks oder zur Wahrung der in § 182 enthaltenen Grundsätze notwendig ist, hat das Bundesministerium für Justiz die Zuständigkeit einer anderen Justizanstalt anzuordnen. Eine solche Anordnung kann mit Zustimmung des Beschuldigten auch zur Vermeidung eines Überbelags getroffen werden.
 
-### § 170 StPO. Zulässigkeit
+`§ 183 (3) StPO.`  
+Ab Beginn des Hauptverfahrens (§ 210 Abs. 2) kann das Bundesministerium für Justiz die Zuständigkeit einer anderen als der nach Abs. 1 bestimmten Justizanstalt innerhalb des Sprengels des zuständigen Oberlandesgerichts anordnen, wenn dies der besseren Auslastung der Vollzugseinrichtungen dient und durch die Überstellung weder eine Beeinträchtigung der Interessen des Angeklagten noch Nachteile für das Strafverfahren zu befürchten sind.
 
-**§ 170 (1) StPO.**  
-Die Festnahme einer Person, die der Begehung einer strafbaren Handlung verdächtig ist, ist zulässig,
-1. wenn sie auf frischer Tat betreten oder unmittelbar danach entweder glaubwürdig der Tatbegehung beschuldigt oder mit Gegenständen betreten wird, die auf ihre Beteiligung an der Tat hinweisen,
-2. wenn sie flüchtig ist oder sich verborgen hält oder wenn auf Grund bestimmter Tatsachen die Gefahr besteht, sie werde flüchten oder sich verborgen halten,
-3. wenn sie Zeugen, Sachverständige oder Mitbeschuldigte zu beeinflussen, Spuren der Tat zu beseitigen oder sonst die Ermittlung der Wahrheit zu erschweren versucht hat oder auf Grund bestimmter Tatsachen die Gefahr besteht, sie werde dies versuchen,
-4. wenn die Person einer mit mehr als sechs Monaten Freiheitsstrafe bedrohten Tat verdächtig und auf Grund bestimmter Tatsachen anzunehmen ist, sie werde eine eben solche, gegen dasselbe Rechtsgut gerichtete Tat begehen, oder die ihr angelastete versuchte oder angedrohte Tat (§ 74 Abs. 1 Z 5 StGB) ausführen.
+`§ 183 (4) StPO.`  
+Vor einer Änderung des Haftortes sind der Beschuldigte, Staatsanwaltschaft und Gericht zu hören; nach der Überstellung sind Staatsanwaltschaft, Gericht und der Verteidiger durch die nunmehr zuständige Justizanstalt unverzüglich zu verständigen.
 
-**§ 170 (2) StPO.**  
-Wenn es sich um ein Verbrechen handelt, bei dem nach dem Gesetz auf mindestens zehnjährige Freiheitsstrafe zu erkennen ist, muss die Festnahme angeordnet werden, es sei denn, dass auf Grund bestimmter Tatsachen anzunehmen ist, das Vorliegen aller im Abs. 1 Z 2 bis 4 angeführten Haftgründe sei auszuschließen.
+`§ 183 (5) StPO.`  
+Nach Rechtswirksamkeit der Anklage ist der Angeklagte, soweit die Zuständigkeit eines anderen Landesgerichts begründet wird, unverzüglich in die Justizanstalt des nunmehr zuständigen Landesgerichts zu überstellen.
 
-**§ 170 (3) StPO.**  
-Festnahme und Anhaltung sind nicht zulässig, soweit sie zur Bedeutung der Sache außer Verhältnis stehen (§ 5).
+### § 184 StPO # Ausführungen
 
-### § 171 StPO. Anordnung
+`§ 184 StPO.`  
+Für Vernehmungen, Ausführungen und Überstellungen von Beschuldigten gelten die Bestimmungen der §§ 97 und 98 StVG sinngemäß mit der Maßgabe, dass  
+`§ 184 Z 1 StPO.`
+Vernehmungen auch dann in der Anstalt durchzuführen sind, wenn sie nicht vom Gericht oder von der Staatsanwaltschaft durchgeführt werden,  
+`§ 184 Z 2 StPO.`
+Ausführungen auf Ersuchen der Kriminalpolizei oder anderer Behörden (§ 98 Abs. 1 StVG) nur auf Anordnung oder mit Zustimmung der Staatsanwaltschaft und nur zum Zweck der Teilnahme an Verhandlungen, Tatrekonstruktionen und anderen kontradiktorischen Einvernahmen, an Gegenüberstellungen, Augenscheinen sowie sonstigen Befundaufnahmen zulässig sind.
 
-**§ 171 (1) StPO.**  
-Die Festnahme ist durch die Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen und von der Kriminalpolizei durchzuführen.
+### § 185 StPO # Getrennte Anhaltung
 
-**§ 171 (2) StPO.**  
-Die Kriminalpolizei ist berechtigt, den Beschuldigten von sich aus festzunehmen
-1. in den Fällen des § 170 Abs. 1 Z 1 und
-2. in den Fällen des § 170 Abs. 1 Z 2 bis 4, wenn wegen Gefahr im Verzug eine Anordnung der Staatsanwaltschaft nicht rechtzeitig eingeholt werden kann.
+`§ 185 (1) StPO.`  
+Beschuldigte sollen nicht in Gemeinschaft mit Strafgefangenen untergebracht werden. Beschuldigte, die sich das erste Mal in Haft befinden oder die nach § 183 Abs. 3 in einer anderen Justizanstalt angehalten werden, sind jedenfalls getrennt von Strafgefangenen anzuhalten. Bei der Bewegung im Freien, bei der Arbeit, beim Gottesdienst und bei Veranstaltungen sowie bei der Krankenbetreuung kann jedoch von einer Trennung abgesehen werden, soweit eine solche nach den zur Verfügung stehenden Einrichtungen nicht möglich ist.
 
-**§ 171 (3) StPO.**  
-Im Fall des Abs. 1 ist dem Beschuldigten sogleich oder innerhalb von vierundzwanzig Stunden nach seiner Festnahme die Anordnung der Staatsanwaltschaft und deren gerichtliche Bewilligung zuzustellen; im Falle des Abs. 2 eine schriftliche Begründung der Kriminalpolizei über Tatverdacht und Haftgrund.
+`§ 185 (2) StPO.`  
+Soweit das zur Erreichung der Haftzwecke erforderlich ist, sind der Beteiligung an derselben Straftat verdächtige Beschuldigte so anzuhalten, dass sie nicht miteinander verkehren können. Solange die Staatsanwaltschaft hierüber keine Entscheidung getroffen hat, sind solche Beschuldigte jedenfalls getrennt anzuhalten.
 
-**§ 171 (4) StPO.**  
-Dem Beschuldigten ist sogleich oder unmittelbar nach seiner Festnahme schriftlich in einer für ihn verständlichen Art und Weise sowie in einer Sprache, die er versteht, Rechtsbelehrung (§ 50, § 59 Abs. 1) zu erteilen, die ihn darüber hinaus zu informieren hat, dass er
-1. soweit er nicht freizulassen ist (§ 172 Abs. 2), ohne unnötigen Aufschub in die Justizanstalt eingeliefert und dem Gericht zur Entscheidung über die Haft vorgeführt werden wird (§§ 172 Abs. 1 und 3 und 174 Abs. 1), sowie
-2. berechtigt ist,
-a.
-einen Angehörigen oder eine andere Vertrauensperson und einen Verteidiger unverzüglich von seiner Festnahme zu verständigen oder verständigen zu lassen (Art. 4 Abs. 7 BVG über den Schutz der persönlichen Freiheit),wobei ihm auf Verlangen die Kontaktaufnahme mit einem „Verteidiger in Bereitschaft“ (§ 59 Abs. 4) zu ermöglichen ist, dessen Kosten er unter den Voraussetzungen des § 59 Abs. 5 nicht zu tragen hat,
-b.
-Beschwerde gegen die gerichtliche Bewilligung der Festnahme zu erheben und im Übrigen jederzeit seine Freilassung zu beantragen,
-c.
-seine konsularische Vertretung unverzüglich verständigen zu lassen (Art. 36 des Wiener Übereinkommens über konsularische Beziehungen, BGBl. Nr. 318/1969),
-d.
-Zugang zu ärztlicher Betreuung zu erhalten (§§ 66 bis 74 StVG).
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">einen Angehörigen oder eine andere Vertrauensperson und einen Verteidiger unverzüglich von seiner Festnahme zu verständigen oder verständigen zu lassen (Art.&nbsp;4 Abs.&nbsp;7 BVG über den Schutz der persönlichen Freiheit),wobei ihm auf Verlangen die Kontaktaufnahme mit einem „Verteidiger in Bereitschaft“ (§&nbsp;59 Abs.&nbsp;4) zu ermöglichen ist, dessen Kosten er unter den Voraussetzungen des §&nbsp;59 Abs.&nbsp;5 nicht zu tragen hat,</span></div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">Beschwerde gegen die gerichtliche Bewilligung der Festnahme zu erheben und im Übrigen jederzeit seine Freilassung zu beantragen,</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">seine konsularische Vertretung unverzüglich verständigen zu lassen (Art.&nbsp;36 des Wiener Übereinkommens über konsularische Beziehungen, <a href="/Dokumente/BgblPdf/1969_318_0/1969_318_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_318_0', 'BGBl. Nr. 318/1969', '2025-06-04')">BGBl. Nr.&nbsp;318/1969</a>),</span></div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">Zugang zu ärztlicher Betreuung zu erhalten (§§&nbsp;66 bis 74 StVG).</span></div></div>
+`§ 185 (3) StPO.`  
+Weibliche Beschuldigte sind in jedem Fall von männlichen Beschuldigten und männlichen Strafgefangenen getrennt unterzubringen.
 
-### § 172 StPO. Durchführung
+### § 186 StPO # Kleidung und Bedarfsgegenstände
 
-**§ 172 (1) StPO.**  
-Vom Vollzug einer Anordnung auf Festnahme hat die Kriminalpolizei die Staatsanwaltschaft und diese das Gericht unverzüglich zu verständigen. Der Beschuldigte ist ohne unnötigen Aufschub, längstens aber binnen 48 Stunden ab Festnahme in die Justizanstalt des zuständigen Gerichts einzuliefern. Wenn dies, insbesondere wegen der Entfernung des Ortes der Festnahme nur mit unverhältnismäßigen Aufwand möglich oder wegen Erkrankung oder Verletzung des Beschuldigten nicht tunlich wäre, ist es zulässig, ihn der Justizanstalt eines unzuständigen Gerichts einzuliefern oder einer Krankenanstalt zu überstellen. In diesen Fällen kann das Gericht den Beschuldigten unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung vernehmen und ihm den Beschluss über die Untersuchungshaft auf gleiche Weise verkünden (§ 174).
+`§ 186 (1) StPO.`  
+Angehaltene Beschuldigte sind unter Achtung ihrer Persönlichkeit und ihres Ehrgefühls sowie mit möglichster Schonung ihrer Person zu behandeln. Sie sind berechtigt, eigene Kleidung zu tragen, soweit die regelmäßige Reinigung in der Anstalt möglich ist oder außerhalb der Anstalt durch deren Vermittlung besorgt werden kann. Verfügt ein angehaltener Beschuldigter über keine geeignete Kleidung, so ist ihm eine solche für Verhandlungen vor Gericht, für Ausführungen und für Überstellungen mit öffentlichen Verkehrsmitteln zur Verfügung zu stellen.
 
-**§ 172 (2) StPO.**  
-Hat die Kriminalpolizei den Beschuldigten von sich aus festgenommen, so hat sie ihn unverzüglich zur Sache, zum Tatverdacht und zum Haftgrund zu vernehmen. Sie hat ihn freizulassen, sobald sich ergibt, dass kein Grund zur weiteren Anhaltung vorhanden ist. Kann der Zweck der weiteren Anhaltung durch gelindere Mittel nach § 173 Abs. 5 Z 1 bis 7 erreicht werden, so hat die Kriminalpolizei dem Beschuldigten auf Anordnung der Staatsanwaltschaft unverzüglich die erforderlichen Weisungen zu erteilen, die Gelöbnisse von ihm entgegenzunehmen oder ihm die in § 173 Abs. 5 Z 3 und 6 erwähnten Schlüssel und Dokumente abzunehmen oder die aufgetragene Sicherheitsleistung nach § 172a einzuheben und ihn freizulassen. Die Ergebnisse der Ermittlungen samt den Protokollen über die erteilten Weisungen und die geleisteten Gelöbnisse sowie den abgenommenen Schlüsseln und Dokumenten sind der Staatsanwaltschaft binnen 48 Stunden nach der Festnahme zu übermitteln. Über die Aufrechterhaltung dieser gelinderen Mittel entscheidet das Gericht.
+`§ 186 (2) StPO.`  
+Angehaltene Beschuldigte sind berechtigt, sich auf eigene Kosten Bedarfsgegenstände, Dienstleistungen und andere Annehmlichkeiten zu verschaffen, soweit dies mit dem Haftzweck vereinbar ist und weder die Sicherheit gefährdet noch die Ordnung in der Anstalt erheblich beeinträchtigt oder Mithäftlinge belästigt.
 
-**§ 172 (3) StPO.**  
-Ist der Beschuldigte nicht nach Abs. 2 freizulassen, so hat ihn die Kriminalpolizei ohne unnötigen Aufschub, spätestens aber binnen 48 Stunden nach der Festnahme, in die Justizanstalt des zuständigen Gerichts einzuliefern oder – im Fall seiner Erkrankung (Abs. 1) – einer Krankenanstalt zu überstellen. Sie hat jedoch vor der Einlieferung rechtzeitig die Staatsanwaltschaft zu verständigen. Erklärt diese, keinen Antrag auf Verhängung der Untersuchungshaft zu stellen, so hat die Kriminalpolizei den Beschuldigten sogleich freizulassen.
+### § 187 StPO # Arbeit und Arbeitsvergütung
 
-**§ 172 (4) StPO.**  
-Soweit das Opfer dies beantragt hat, ist es von einer Freilassung des Beschuldigten nach dieser Bestimmung unter Angabe der hiefür maßgeblichen Gründe und der dem Beschuldigten auferlegten gelinderen Mittel sogleich zu verständigen. Opfer nach § 65 Abs. 1 Z 1 lit. a und besonders schutzbedürftige Opfer (§ 66a) sind jedoch unverzüglich von Amts wegen zu verständigen. Diese Verständigung obliegt der Staatsanwaltschaft, wenn sie nach Einlieferung in die Justizanstalt erklärt, keinen Antrag auf Verhängung der Untersuchungshaft zu stellen, im Übrigen jedoch der Kriminalpolizei.
+`§ 187 (1) StPO.`  
+Angehaltene Beschuldigte sind zur Arbeit nicht verpflichtet. Ein arbeitsfähiger Beschuldigter kann jedoch unter den für Strafgefangene geltenden Bedingungen (§§ 44 bis 55 StVG) arbeiten, wenn er sich dazu bereit erklärt und Nachteile für das Verfahren nicht zu befürchten sind.
 
-### § 172a StPO. Sicherheitsleistung
+`§ 187 (2) StPO.`  
+Die Arbeitsvergütung ist dem Beschuldigten nach Abzug des Vollzugskostenbeitrages (§ 32 Abs. 2 und 3 StVG) zur Gänze als Hausgeld gutzuschreiben. Im Fall eines Freispruchs, des Rücktritts von Verfolgung oder einer Einstellung des Strafverfahrens ist ihm der einbehaltene Vollzugskostenbeitrag auszuzahlen.
 
-**§ 172a (1) StPO.**  
-Der Auftrag an den Beschuldigten, eine angemessene Sicherheit zur Sicherstellung der Durchführung des Strafverfahrens, der Zahlung der zu erwartenden Geldstrafe und der Kosten des Verfahrens sowie der dem Opfer zustehenden Entschädigung (§ 67 Abs. 1) zu leisten, ist zulässig, wenn der Beschuldigte einer bestimmten Straftat dringend verdächtig ist sowie zur Sache, zum Tatverdacht und zu den Voraussetzungen der Sicherheitsleistung vernommen wurde und auf Grund bestimmter Tatsachen zu besorgen ist, dass sich der Beschuldigte dem Verfahren entziehen oder die Durchführung des Strafverfahrens sonst offenbar unmöglich oder wesentlich erschwert sein werde.
+`§ 187 (3) StPO.`  
+(Anm.: aufgehoben durch BGBl. I Nr. 111/2010)
 
-**§ 172a (2) StPO.**  
-Die Sicherheitsleistung und deren Höhe sind von der Staatsanwaltschaft anzuordnen und von der Kriminalpolizei durchzuführen. Für den Fall, dass die aufgetragene Sicherheitsleistung nicht unverzüglich in barem Geld erfolgt, hat die Kriminalpolizei Gegenstände zwangsweise sicherzustellen, die der Beschuldigte mit sich führt, die ihm allem Anschein nach gehören und deren Wert nach Möglichkeit die Höhe des zulässigen Betrags der Sicherheit nicht übersteigt. Die Kriminalpolizei hat der Staatsanwaltschaft die Ergebnisse der Ermittlungen samt der übergebenen Sicherheit oder den sichergestellten Gegenständen unverzüglich zu übermitteln.
+`§ 187 (4) StPO.`  
+Angehaltene Beschuldigte dürfen sich auf ihre Kosten selbst beschäftigen, soweit dies mit dem Haftzweck vereinbar ist und die Ordnung in der Anstalt nicht stört. Aus dieser Beschäftigung erzielte Einkünfte sind dem Hausgeld gutzuschreiben.
 
-**§ 172a (3) StPO.**  
-Die Sicherheit wird frei, sobald das Strafverfahren rechtswirksam beendet ist, im Fall der Verurteilung des Angeklagten jedoch erst, sobald er die Geldstrafe und die ihm auferlegten Kosten des Verfahrens und gegebenenfalls dem Privatbeteiligten die im Strafurteil zugesprochene Entschädigung gezahlt sowie im Fall einer nicht bedingt nachgesehenen Geld – oder Freiheitsstrafe die Freiheitsstrafe angetreten hat. Als Sicherheit sichergestellte Gegenstände und Vermögenswerte werden auch frei, sobald der Beschuldigte die aufgetragene Sicherheit in Geld erlegt oder ein Dritter, dem keine Beteiligung an der Tat zur Last liegt, Rechte an den Gegenständen oder Vermögenswerten glaubhaft macht.
+### § 188 StPO # Verkehr mit der Außenwelt
 
-**§ 172a (4) StPO.**  
-Die Sicherheit ist vom Gericht auf Antrag der Staatsanwaltschaft oder von Amts wegen mit Beschluss für verfallen zu erklären, wenn sich der Beschuldigte dem Verfahren oder der Vollstreckung der Strafe und der Kosten des Verfahrens oder der Zahlung der Entschädigung an den Privatbeteiligten entzieht, insbesondere dadurch, dass er eine Ladung oder die Aufforderung zum Strafantritt oder Zahlung der Geldstrafe oder der Kosten des Verfahrens nicht befolgt. § 180 Abs. 4 letzter Satz und Abs. 5 gelten sinngemäß.
+`§ 188 (1) StPO.`  
+Angehaltene Beschuldigte dürfen Besuche innerhalb der festgesetzten Besuchszeiten so oft und in dem zeitlichen Ausmaß empfangen, als die Abwicklung ohne unvertretbaren Aufwand gewährleistet werden kann. Im Übrigen gelten für den Empfang von Besuchen die §§ 85 bis 87 und 93 bis 96 StVG sinngemäß mit folgenden Maßgaben:  
+`§ 188 (1) Z 1 StPO.`
+Beschuldigten darf nicht verwehrt werden, wenigstens zweimal in jeder Woche einen Besuch in der Dauer von mindestens einer halben Stunde zu empfangen,  
+`§ 188 (1) Z 2 StPO.`
+auf den Inhalt des zwischen einem Beschuldigten und einem Besucher geführten Gesprächs hat sich die Überwachung nur zu erstrecken, wenn dies die Staatsanwaltschaft zur Sicherung des Haftzwecks oder der Anstaltsleiter zur Aufrechterhaltung der Sicherheit in der Anstalt anordnet,  
+`§ 188 (1) Z 3 StPO.`
+der Besuch bestimmter Personen, von denen eine Gefährdung des Zweckes der Untersuchungshaft oder der Sicherheit der Anstalt zu befürchten ist, kann untersagt oder abgebrochen werden.
 
-**END-OF-FILE**
+`§ 188 (2) StPO.`  
+Angehaltene Beschuldigte sind berechtigt, auf eigene Kosten mit anderen Personen und Stellen schriftlich zu verkehren und zu telefonieren, es sei denn, dass durch den außerordentlichen Umfang des Brief- oder Telefonverkehrs die Überwachung beeinträchtigt wird. In diesem Fall sind diejenigen Beschränkungen anzuordnen, die für eine einwandfreie Überwachung notwendig sind. Schreiben, von denen eine Beeinträchtigung des Haftzweckes zu befürchten ist, sind zurückzuhalten, soweit sich nicht aus den Bestimmungen der §§ 90a bis 90b und 96a des Strafvollzugsgesetzes über den schriftlichen Verkehr mit Behörden und Rechtsbeiständen etwas anderes ergibt. Schreiben angehaltener Beschuldigter an einen inländischen allgemeinen Vertretungskörper, ein inländisches Gericht, eine andere inländische Behörde oder an Organe der Europäischen Union sowie an den Europäischen Gerichtshof für Menschenrechte dürfen in keinem Fall zurückgehalten werden. Für die Überwachung des Inhalts von Telefongesprächen gilt Abs. 1 Z 2.
+
+`§ 188 (3) StPO.`  
+Für die Überwachung des mündlichen und schriftlichen Verkehrs des angehaltenen Beschuldigten mit seinem Verteidiger gilt § 59 Abs. 3.
+
+### § 189 StPO # Zuständigkeit für Entscheidungen
+
+`§ 189 (1) StPO.`  
+Die Entscheidung darüber, mit welchen Personen angehaltene Beschuldigte schriftlich und telefonisch verkehren und welche Besuche sie empfangen dürfen, die Überwachung ihres Brief- und Telefonverkehrs und ihrer Besuche sowie alle übrigen Anordnungen und Entscheidungen, die sich auf den Verkehr der angehaltenen Beschuldigten mit der Außenwelt (§§ 86 bis 100 des Strafvollzugsgesetzes) beziehen, stehen, mit Ausnahme der Überwachung der Paketsendungen, im Ermittlungsverfahren der Staatsanwaltschaft, im Hauptverfahren dem Gericht zu. Von der Überwachung des Brief- und Telefonverkehrs darf nur insoweit abgesehen werden, als davon keine Beeinträchtigung des Haftzweckes zu befürchten ist.
+
+`§ 189 (2) StPO.`  
+Die Entscheidungen nach § 16 Abs. 2 Z 4 und 5 des Strafvollzugsgesetzes stehen dem für die Entscheidung über die Verhängung und Fortsetzung der Untersuchungshaft zuständigen Gericht zu.
+
+`§ 189 (3) StPO.`  
+Im Übrigen stehen alle Anordnungen und Entscheidungen hinsichtlich der Anhaltung in Untersuchungshaft dem Anstaltsleiter oder dem von diesem dazu bestellten Vollzugsbediensteten zu. Vor jeder Entscheidung nach den §§ 185 Abs. 2, 186 Abs. 2 und 187 Abs. 1 ist im Ermittlungsverfahren die Staatsanwaltschaft, nach Einbringung der Anklage das Gericht zu hören. Ordnungswidrigkeiten, die von angehaltenen Beschuldigten begangen wurden, sind der Staatsanwaltschaft und dem Gericht mitzuteilen. Das gleiche gilt von Vorfällen, von denen eine Beeinträchtigung der Haftzwecke zu befürchten ist.
+
+## 3. TEIL # Beendigung des Ermittlungsverfahrens und Absehen von der Einleitung eines Ermittlungsverfahrens # 10. Hauptstück # Einstellung, Abbrechung und Fortführung des Ermittlungsverfahrens
+
+### § 190 StPO # Einstellung des Ermittlungsverfahrens
+
+`§ 190 StPO.`  
+Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen und das Ermittlungsverfahren einzustellen, soweit und sobald sich ergibt, dass die dem Ermittlungsverfahren zu Grunde liegende Tat nicht mit gerichtlicher Strafe bedroht ist, die weitere Verfolgung des Beschuldigten sonst aus rechtlichen Gründen unzulässig wäre oder kein tatsächlicher Grund zu dessen weiterer Verfolgung besteht.
+
+### § 191 StPO # Einstellung wegen Geringfügigkeit
+
+`§ 191 (1) StPO.`  
+Von der Verfolgung einer Straftat, die nur mit Geldstrafe, mit einer Freiheitsstrafe bedroht ist, deren Höchstmaß drei Jahre nicht übersteigt, oder mit einer solchen Freiheitsstrafe und Geldstrafe hat die Staatsanwaltschaft abzusehen und das Ermittlungsverfahren einzustellen, wenn  
+`§ 191 (1) Z 1 StPO.`
+in Abwägung der Schuld, der Folgen der Tat und des Verhaltens des Beschuldigten nach der Tat, insbesondere im Hinblick auf eine allfällige Schadensgutmachung, sowie weiterer Umstände, die auf die Strafbemessung Einfluss hätten, der Störwert der Tat als gering anzusehen wäre und  
+`§ 191 (1) Z 2 StPO.`
+eine Bestrafung oder ein Vorgehen nach dem 11. Hauptstück nicht geboten erscheint, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten oder der Begehung strafbarer Handlungen durch andere entgegen zu wirken.
+
+`§ 191 (2) StPO.`  
+Nach Einbringen der Anklage, im Verfahren vor dem Landesgericht als Geschworenen- oder Schöffengericht nach Rechtswirksamkeit der Anklageschrift wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht unter denselben Voraussetzungen (Abs. 1) das Verfahren bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen. § 209 Abs. 2 erster Satz gilt sinngemäß.
+
+### § 192 StPO # Einstellung bei mehreren Straftaten
+
+`§ 192 (1) StPO.`  
+Von der Verfolgung einzelner Straftaten kann die Staatsanwaltschaft endgültig oder unter Vorbehalt späterer Verfolgung absehen und das Ermittlungsverfahren insoweit einstellen, wenn dem Beschuldigten mehrere Straftaten zur Last liegen und  
+`§ 192 (1) Z 1 StPO.`
+dies voraussichtlich weder auf die Strafen oder vorbeugenden Maßnahmen, auf die mit der Verurteilung verbundenen Rechtsfolgen noch auf diversionelle Maßnahmen wesentlichen Einfluss hat oder  
+`§ 192 (1) Z 1a StPO.`
+die Ermittlungen zur Aufklärung des Verdachts jener Straftaten, deren Nachweis im Fall gemeinsamer Führung keinen Einfluss auf den anzuwendenden Strafrahmen hätte, mit einem beträchtlichen Aufwand verbunden wären und die Erledigung in der Hauptsache verzögern würden, oder  
+`§ 192 (1) Z 2 StPO.`
+der Beschuldigte schon im Ausland für die ihm zur Last liegende Straftat bestraft oder dort nach Diversion außer Verfolgung gesetzt worden ist und nicht anzunehmen ist, dass das inländische Gericht eine strengere Strafe verhängen werde oder er wegen Begehung anderer strafbarer Handlungen an einen anderen Staat ausgeliefert wird und die im Inland zu erwartenden Strafen oder vorbeugenden Maßnahmen gegenüber jenen, auf die voraussichtlich im Ausland erkannt werden wird, nicht ins Gewicht fallen.
+
+`§ 192 (2) StPO.`  
+Eine nach Abs. 1 vorbehaltene Verfolgung kann innerhalb dreier Monate nach rechtskräftigem Abschluss des inländischen oder innerhalb eines Jahres nach rechtskräftigem Abschluss des ausländischen Strafverfahrens wieder aufgenommen werden. Ein abermaliger Vorbehalt wegen einzelner Straftaten ist sodann unzulässig.
+
+### § 193 StPO # Fortführung des Verfahrens
+
+`§ 193 (1) StPO.`  
+Nach der Einstellung des Verfahrens sind weitere Ermittlungen gegen den Beschuldigten zu unterlassen; erforderlichenfalls hat die Staatsanwaltschaft seine Freilassung anzuordnen. Sofern jedoch für eine Entscheidung über die Fortführung des Verfahrens bestimmte Ermittlungen oder Beweisaufnahmen erforderlich sind, kann die Staatsanwaltschaft solche im Einzelnen anordnen oder durchführen.
+
+`§ 193 (2) StPO.`  
+Die Fortführung eines nach den §§ 190 oder 191 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, solange die Strafbarkeit der Tat nicht verjährt ist und wenn  
+`§ 193 (2) Z 1 StPO.`
+der Beschuldigte wegen dieser Tat nicht vernommen (§§ 164, 165) und kein Zwang gegen ihn ausgeübt wurde oder  
+`§ 193 (2) Z 2 StPO.`
+neue Tatsachen oder Beweismittel entstehen oder bekannt werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, die Bestrafung des Beschuldigten oder ein Vorgehen nach dem 11. Hauptstück zu begründen.
+
+`§ 193 (3) StPO.`  
+Die Fortführung eines nach § 192 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, wenn sie sich die spätere Verfolgung vorbehalten hat (§ 192 Abs. 2) oder die Voraussetzungen des Abs. 2 Z 2 vorliegen.
+
+### § 194 StPO # Verständigungen
+
+`§ 194 (1) StPO.`  
+Von der Einstellung und der Fortführung des Verfahrens hat die Staatsanwaltschaft neben dem Beschuldigten und der Kriminalpolizei alle Personen zu verständigen, die zur Einbringung eines Antrags auf Fortführung berechtigt sind (§ 195 Abs. 1). Das Gericht ist zu verständigen, wenn es mit dem Verfahren befasst war; ein Zustellnachweis ist in keinem Fall erforderlich.
+
+`§ 194 (2) StPO.`  
+In einer Verständigung von der Einstellung des Ermittlungsverfahrens ist anzuführen, aus welchem Grund (§§ 190 bis 192) das Verfahren eingestellt wurde; gegebenenfalls ist der Vorbehalt späterer Verfolgung (§ 192 Abs. 2) aufzunehmen. Überdies sind Personen, die zur Einbringung eines Antrags auf Fortführung berechtigt sind (§ 195 Abs. 1), über die Möglichkeit der Einbringung eines Antrags auf Fortführung und seine Voraussetzungen sowie darüber zu informieren, dass sie binnen 14 Tagen eine Begründung verlangen können, in welcher die Tatsachen und Erwägungen, die der Einstellung zu Grunde gelegt wurden, in gedrängter Darstellung anzuführen sind. Das Recht, eine solche Begründung zu verlangen, steht auch dem Beschuldigten zu, worüber er gleichfalls in der Verständigung nach dem ersten Satz zu informieren ist.
+
+`§ 194 (3) StPO.`  
+Von der Einstellung eines Ermittlungsverfahrens,  
+`§ 194 (3) Z 1 StPO.`
+das von der WKStA gemäß den Bestimmungen der §§ 20a oder 20b oder von einer anderen Staatsanwaltschaft wegen der in diesen Bestimmungen angeführten Vergehen oder Verbrechen geführt wurde und an dem wegen der Bedeutung der Straftat oder der Person des Beschuldigten ein besonderes öffentliches Interesse besteht, oder in dem noch nicht hinreichend geklärte Rechtsfragen von grundsätzlicher Bedeutung beurteilt wurden, oder  
+`§ 194 (3) Z 2 StPO.`
+das sonst wegen einer Straftat geführt wurde, für das im Hauptverfahren das Landesgericht als Geschworenen- oder Schöffengericht zuständig wäre und an dem kein Opfer im Sinne des § 65 Z 1 beteiligt war,  
+ist überdies der Rechtsschutzbeauftragte unter Anführung des Grundes der Einstellung (§§ 190 bis 192) samt einer Begründung nach Abs. 2 zu verständigen. Auf sein Verlangen ist ihm der Ermittlungsakt zu übersenden, in welchem Fall die Frist zur Einbringung eines Antrags auf Fortführung (§ 195 Abs. 2) mit dem Einlangen des Aktes auf sechs Monate verlängert wird.
+
+### § 195 StPO # Antrag auf Fortführung
+
+`§ 195 (1) StPO.`  
+Solange die Strafbarkeit der Tat nicht verjährt ist, hat das Gericht auf Antrag des Opfers die Fortführung eines nach den §§ 190 bis 192 beendeten Ermittlungsverfahrens durch die Staatsanwaltschaft anzuordnen, wenn  
+`§ 195 (1) Z 1 StPO.`
+das Gesetz verletzt oder unrichtig angewendet wurde,  
+`§ 195 (1) Z 2 StPO.`
+erhebliche Bedenken gegen die Richtigkeit der Tatsachen bestehen, die der Entscheidung über die Beendigung zu Grunde gelegt wurden, oder  
+`§ 195 (1) Z 3 StPO.`
+neue Tatsachen oder Beweismittel beigebracht werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, den Sachverhalt soweit zu klären, dass nach dem 11. oder 12. Hauptstück vorgegangen werden kann.
+
+`§ 195 (2) StPO.`  
+Der Antrag ist binnen vierzehn Tagen nach Verständigung von der Einstellung (§ 194) oder im Fall eines fristgerecht eingebrachten Verlangens nach § 194 Abs. 2 nach Zustellung der Einstellungsbegründung, wurde jedoch das Opfer von der Einstellung nicht verständigt, innerhalb von drei Monaten ab der Einstellung des Verfahrens bei der Staatsanwaltschaft einzubringen. Der Antrag eines minderjährigen Opfers bedarf keiner pflegschaftsgerichtlichen Genehmigung. Der Antrag hat das Verfahren, dessen Fortführung begehrt wird, zu bezeichnen. Überdies sind die Gründe einzeln und bestimmt zu bezeichnen, aus denen die Verletzung oder unrichtige Anwendung des Gesetzes oder die erheblichen Bedenken abzuleiten sind. Werden neue Tatsachen oder Beweismittel vorgebracht, so gilt § 55 Abs. 1 sinngemäß.
+
+`§ 195 (2a) StPO.`  
+In den in § 194 Abs. 3 genannten Fällen steht überdies dem Rechtsschutzbeauftragten das Recht auf Einbringung eines Antrags auf Fortführung des Ermittlungsverfahrens zu.
+
+`§ 195 (3) StPO.`  
+Erachtet die Staatsanwaltschaft den Antrag für berechtigt, so hat sie das Verfahren unabhängig von den Voraussetzungen des § 193 Abs. 2 Z 1 oder 2 fortzuführen. Andernfalls hat sie ihn mit dem Akt und einer Stellungnahme dem Gericht zu übermitteln.
+
+### § 196 StPO
+
+`§ 196 (1) StPO.`  
+Das Gericht entscheidet in nichtöffentlicher Sitzung, gegen seine Entscheidung steht ein Rechtsmittel nicht zu. Zuvor hat es dem Beschuldigten und dem Antragsteller Gelegenheit zur Äußerung zur Stellungnahme der Staatsanwaltschaft binnen angemessener Frist einzuräumen, wobei der Antragsteller gegebenenfalls auf die Pflicht zur bestimmten Bezeichnung der geltend gemachten Fortführungsgründe hinzuweisen ist. Vor seiner Entscheidung kann es auch die Kriminalpolizei mit Ermittlungen beauftragen oder von der Staatsanwaltschaft tatsächliche Aufklärungen über die behaupteten Rechtsverletzungen oder Verfahrensmängel verlangen. Gegebenenfalls kann es nach § 107 Abs. 2 vorgehen.
+
+`§ 196 (2) StPO.`  
+Anträge, die verspätet oder von einer nicht berechtigten Person eingebracht wurden, bereits rechtskräftig erledigt sind oder den Voraussetzungen des § 195 nicht entsprechen, hat das Gericht als unzulässig zurückzuweisen und im Übrigen in der Sache zu entscheiden. Wird ein Antrag zurück- oder abgewiesen, so ist die Zahlung eines Pauschalkostenbeitrags von 90 Euro aufzutragen. Haben mehrere Opfer wegen derselben Handlung erfolglos eine Fortführung beantragt, so haften sie für den Pauschalkostenbeitrag zur ungeteilten Hand. Minderjährigen Opfern und dem Rechtsschutzbeauftragten ist in keinem Fall ein Pauschalkostenbeitrag aufzuerlegen. § 391 gilt sinngemäß.
+
+`§ 196 (3) StPO.`  
+Gibt das Gericht dem Antrag statt, so hat die Staatsanwaltschaft das Verfahren fortzuführen.
+
+### § 196a StPO # Beitrag zu den Kosten der Verteidigung im Ermittlungsverfahren
+
+`§ 196a (1) StPO.`  
+Wird ein Ermittlungsverfahren gemäß § 108 oder § 190 eingestellt, so hat der Bund dem Beschuldigten auf Antrag einen Beitrag zu den Kosten der Verteidigung zu leisten. Der Beitrag umfasst die nötig gewesenen und vom Beschuldigten bestrittenen baren Auslagen und außer im Fall des § 61 Abs. 2 auch einen Beitrag zu den Kosten des Verteidigers, dessen sich der Beschuldigte bedient. Der Beitrag ist unter Bedachtnahme auf den Umfang der Ermittlungen, die Komplexität der zu lösenden Tat- und Rechtsfragen und das Ausmaß des notwendigen oder zweckmäßigen Einsatzes des Verteidigers festzusetzen. Er darf den Betrag von 6 000 Euro nicht übersteigen.
+
+`§ 196a (2) StPO.`  
+Das Höchstmaß des Beitrags kann bei Verfahren, die durch außergewöhnlichen Umfang oder besondere Komplexität gekennzeichnet sind, sowie im Falle der Überschreitung der Höchstdauer des Ermittlungsverfahrens (§ 108 Abs. 1) um die Hälfte überschritten und im Falle extremen Umfangs des Verfahrens auf das Doppelte erhöht werden.
+
+`§ 196a (3) StPO.`  
+Der Ersatzanspruch ist ausgeschlossen, soweit der Beschuldigte den das Verfahren begründenden Verdacht vorsätzlich herbeigeführt hat oder das Verfahren lediglich deshalb beendet worden ist, weil er die Tat im Zustand der Zurechnungsunfähigkeit begangen hat oder weil die Ermächtigung zur Strafverfolgung zurückgenommen worden ist. Der Ersatzanspruch steht auch dann nicht zu, wenn die Strafbarkeit aus Gründen entfällt, die erst nach Beginn des Strafverfahrens eingetreten sind.
+
+`§ 196a (4) StPO.`  
+Der Antrag ist bei sonstigem Ausschluss innerhalb von drei Jahren nach der Verständigung von der Einstellung des Ermittlungsverfahrens (§ 194) bei der Staatsanwaltschaft einzubringen. Die Staatsanwaltschaft hat den Antrag mit einer allfälligen Stellungnahme an das Gericht weiterzuleiten. Unzulässige oder verspätete Anträge hat das Gericht zurückzuweisen, im Übrigen jedoch in der Sache zu entscheiden.
+
+`§ 196a (5) StPO.`  
+Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss, mit dem über den Antrag entschieden worden ist, kommt aufschiebende Wirkung zu.
+
+`§ 196a (6) StPO.`  
+Weitergehende Rechte des Beschuldigten nach diesem Bundesgesetz, dem Amtshaftungsgesetz, BGBl. Nr. 20/1949, und dem Strafrechtlichen Entschädigungsgesetz 2005, BGBl. I Nr. 125/2004, bleiben unberührt.
+
+### § 197 StPO # Abbrechung des Ermittlungsverfahrens gegen Abwesende und gegen unbekannte Täter
+
+`§ 197 (1) StPO.`  
+Wenn der Beschuldigte flüchtig oder unbekannten Aufenthalts ist, ist das Ermittlungsverfahren soweit fortzuführen, als dies zur Sicherung von Spuren und Beweisen erforderlich ist. Ermittlungshandlungen und Beweisaufnahmen, bei denen der Beschuldigte das Recht hat, sich zu beteiligen (§§ 150, 165), können in diesem Fall auch in seiner Abwesenheit durchgeführt werden. Der Beschuldigte kann zur Ermittlung seines Aufenthalts oder zur Festnahme ausgeschrieben werden. Danach hat die Staatsanwaltschaft das Verfahren abzubrechen und nach Ausforschung des Beschuldigten fortzusetzen.
+
+`§ 197 (2) StPO.`  
+In Verfahren gegen unbekannte Täter ist Abs. 1 sinngemäß anzuwenden.
+
+`§ 197 (2a) StPO.`  
+Das Verfahren gegen eine Person, gegen die nach einer gesetzlichen Vorschrift die Verfolgung nicht eingeleitet oder fortgesetzt werden kann, ist abzubrechen und nach Wegfall des Hinderungsgrundes fortzusetzen. Maßnahmen zur Sicherung und Aufnahme von Beweisen dürfen nur vorgenommen werden, soweit dies nach den das Verfolgungshindernis betreffenden Bestimmungen zulässig ist.
+
+`§ 197 (2b) StPO.`  
+Wenn eine Vernehmung des Beschuldigten (§§ 164, 165 StPO) wegen dessen schwerwiegender Erkrankung nicht in absehbarer Zeit durchgeführt werden kann, ist sinngemäß nach Abs. 2a erster Satz vorzugehen.
+
+`§ 197 (3) StPO.`  
+Von der Abbrechung des Verfahrens gegen einen bekannten Täter und von der Fortsetzung oder Einleitung des Verfahrens sind die Kriminalpolizei und das Opfer zu verständigen.
+
+`§ 197 (4) StPO.`  
+Einem abwesenden oder flüchtigen Beschuldigten, der freiwillig erklärt, sich dem Verfahren stellen zu wollen, kann sicheres Geleit vom Bundesministerium für Justiz nach Stellungnahme der Oberstaatsanwaltschaft, in deren Sprengel die zuständige Staatsanwaltschaft ihren Sitz hat, allenfalls gegen Sicherheitsleistung sowie gegen Ablegung der im § 173 Abs. 5 Z 1 und 2 erwähnten Gelöbnisse mit der Wirkung erteilt werden, dass der Beschuldigte wegen der Straftat, für die das sichere Geleit erteilt wurde, bis zur Urteilsfällung in erster Instanz von der Haft befreit bleiben soll. Für die Sicherheitsleistung, ihren Verfall und den Verlust der Wirkung des sicheren Geleits gilt § 180 sinngemäß.
+
+`END-OF-DATA-FILE`

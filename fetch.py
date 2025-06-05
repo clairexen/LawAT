@@ -26,6 +26,11 @@ selectParagraph = None
 Locator.outer_html = lambda self: self.evaluate("el => el.outerHTML")
 Locator.tag_name = lambda self: self.evaluate("el => el.tagName")
 
+Locator.stripped_text = lambda self: "\n".join([line.strip() for line in self.inner_text().split("\n")])
+
+Locator.get_attrset = lambda self, name: set() if self.get_attribute(name) is None \
+                                               else set(self.get_attribute(name).split())
+
 
 #%% Usage + Getopt + Load Index
 
@@ -140,11 +145,11 @@ print(f"Langtitel: {langtitel}")
 # Extract last changelog
 infoBlocks = page.locator(".documentContent").nth(0)
 lastchange = infoBlocks.locator(":scope h3").get_by_text("Änderung") \
-                   .locator(":scope ~ div .ErlText").nth(-1).inner_text()
+                   .locator(":scope ~ div .ErlText").nth(-1).stripped_text()
 
 # Extract intro sentence
 if (p := infoBlocks.locator(":scope p.PromKlEinlSatz")).count() == 1:
-    introSentence = p.inner_text().strip()
+    introSentence = p.stripped_text().strip()
 else:
     introSentence = None
 
@@ -159,13 +164,8 @@ outBuffer = list()
 
 # Process a single child node of the current div.contentBlock
 def processContentElement(el, outbuf, parName = None):
-    cls = el.get_attribute("class")
-    if cls is None:
-        cls = set()
-    else:
-        cls = set(cls.split())
-
-    txt = el.inner_text().replace("\xa0", " ")
+    cls = el.get_attrset("class")
+    txt = el.stripped_text().replace("\xa0", " ")
 
     match el.tag_name():
         case "H4" if "UeberschrG1" in cls or "UeberschrG1-AfterG2" in cls:
@@ -182,44 +182,48 @@ def processContentElement(el, outbuf, parName = None):
             outbuf.append(f"### {txt}")
 
         case "DIV" if "Abs" in cls or \
-                      "Abs_small_indent" in cls or \
-                      "AufzaehlungE0" in cls or \
+                      "Abs_small_indent" in cls:
+            outbuf.append(el.locator(":scope > *:not(.Absatzzahl)").stripped_text())
+
+        case "DIV" if "AufzaehlungE0" in cls or \
                       "AufzaehlungE1" in cls or \
                       "AufzaehlungE2" in cls:
-            outbuf.append(el.inner_text())
+            outbuf.append(el.stripped_text())
 
         case "DIV" if "SchlussteilE0" in cls or \
                       "SchlussteilE1" in cls or \
                       "SchlussteilE2" in cls:
             if len(outbuf) and not outbuf[-1].endswith("  "): outbuf[-1] += "  "
-            outbuf.append(el.inner_text())
+            outbuf.append(el.stripped_text())
 
-        case "DIV" if "ParagraphMitAbsatzzahl" in cls:
-            parBaseName = el.locator(":scope h5.GldSymbol").inner_text()
-            parBaseName = parBaseName.replace("\xa0", " ").removesuffix(".")
-            parName = parBaseName + f" {normdata['title']}"
+        case "DIV" if el.locator(":scope h5.GldSymbol").count():
+            parName = el.locator(":scope h5.GldSymbol").stripped_text()
+            parName = parName.replace("\xa0", " ").removesuffix(".") + f" {normdata['title']}"
 
             if len(outbuf) and outbuf[-1].startswith("### "):
-                outbuf.append(f"### {parName} # {outbuf[-1][4:]}")
-                del outbuf[-2]
+                if not outbuf[-1].startswith(f"### {parName}"):
+                    outbuf.append(f"### {parName} # {outbuf[-1][4:]}")
+                    del outbuf[-2]
             else:
                 outbuf.append("")
                 outbuf.append(f"### {parName}")
 
-            for item in el.locator(":scope > ol > li > div.content").all():
-                nr = item.locator(".Absatzzahl").inner_text()
-                # item.locator(".Absatzzahl").evaluate("el => el.remove()")
-                parName = parBaseName + f" {nr} {normdata['title']}"
-                outbuf.append("")
-                outbuf.append(f"`{parName}.`  ")
-                for child in item.locator(":scope > *").all():
-                    processContentElement(child, outbuf, parName)
+            if "ParagraphMitAbsatzzahl" in cls:
+                for item in el.locator(":scope > *").all():
+                    if "GldSymbolFloatLeft" in item.get_attrset("class"): continue
+                    processContentElement(item, outbuf, parName)
+            else:
+                outbuf += ["", f"`{parName}.`  "]
+                items = el.locator(":scope .GldSymbol ~ *")
+                if items.count():
+                    outbuf.append(items.stripped_text())
 
         case "OL":
             for item in el.locator(":scope > li").all():
                 znr = item.locator(":scope > .SymE0, :scope > .SymE1, :scope > .SymE2")
                 if znr.count() == 0: znr = item.locator(".Absatzzahl")
-                znr = znr.inner_text().removesuffix(".")
+                znr = znr.stripped_text().removesuffix(".")
+
                 if znr.startswith("("):
                     subName = parName.removesuffix(normdata['title']) + f"{znr} {normdata['title']}"
                     outbuf += ["", f"`{subName}.`  "]
@@ -230,20 +234,10 @@ def processContentElement(el, outbuf, parName = None):
                         subName = parName.removesuffix(normdata['title']) + f"lit. {znr} {normdata['title']}"
                     if len(outbuf) and not outbuf[-1].endswith("  "): outbuf[-1] += "  "
                     outbuf.append(f"`{subName}.`")
-                for e in item.locator(":scope > div.content > *").all():
-                    processContentElement(e, outbuf, subName)
 
-        case "DIV" if el.locator(":scope h5.GldSymbol").count():
-            parName = el.locator(":scope h5.GldSymbol").inner_text()
-            parName = parName.replace("\xa0", " ").removesuffix(".") + f" {normdata['title']}"
-            if len(outbuf) and outbuf[-1].startswith("### "):
-                outbuf.append(f"### {parName} # {outbuf[-1][4:]}")
-                del outbuf[-2]
-            else:
-                outbuf.append("")
-                outbuf.append(f"### {parName}")
-            outbuf += ["", f"`{parName}.`  "]
-            outbuf += el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
+                for e in item.locator(":scope > div.content > *").all():
+                    if "GldSymbolFloatLeft" in item.get_attrset("class"): continue
+                    processContentElement(e, outbuf, subName)
 
         case _:
             outbuf.append(f"**FIXME** {el.tag_name()}: {el.outer_html()}")
@@ -317,6 +311,11 @@ while blockIndex is not None and blockIndex < len(blocks):
 
         if not useHeadlessMode:
             blk.evaluate("el => el.style.backgroundColor = ''")
+
+        if True:
+            unnormalizedOutBufLines = len(outBuffer)
+            outBuffer = sum([t.split("\n") for t in outBuffer], [])
+            assert unnormalizedOutBufLines == len(outBuffer)
 
         tx = "\n".join(outBuffer)
         fileSize += len(tx)

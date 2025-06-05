@@ -2,236 +2,301 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 20. Hauptstück | Verfahren gegen Abwesende
+## 23. Hauptstück # Verfahren vor dem Landesgericht als Einzelrichter
 
-### § 412 StPO.
+### § 483 StPO
 
-**§ 412 StPO.**  
- (Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+`§ 483 StPO.`  
+(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
 
-### § 427 StPO. Abwesenheitsverfahren
+### § 484 StPO
 
-**§ 427 (1) StPO.**  
-Ist der Angeklagte bei der Hauptverhandlung nicht erschienen, so darf bei sonstiger Nichtigkeit in seiner Abwesenheit die Hauptverhandlung nur dann durchgeführt und das Urteil gefällt werden, wenn es sich um ein Vergehen handelt, der Angeklagte gemäß §§ 164 oder 165 zum Anklagevorwurf vernommen wurde und ihm die Ladung zur Hauptverhandlung persönlich zugestellt wurde. Das Urteil ist in diesem Fall dem Angeklagten in seiner schriftlichen Ausfertigung zuzustellen.
+`§ 484 StPO.`  
+Der Strafantrag (§ 210 Abs. 1) hat die im § 211 Abs. 1 angeführten Angaben zu enthalten und jene Beweise zu bezeichnen, deren Aufnahme in der Hauptverhandlung beantragt wird. Das Gericht hat den Strafantrag dem Angeklagten, gegebenenfalls samt einer Rechtsbelehrung gemäß § 50, insbesondere der Information, ob ein Fall notwendiger Verteidigung gegeben ist, unverzüglich zuzustellen. § 213 Abs. 3 gilt sinngemäß.
 
-**§ 427 (2) StPO.**  
-Soweit die Hauptverhandlung in Abwesenheit des Angeklagten nicht durchgeführt werden kann, sei es, weil die Voraussetzungen gemäß Abs. 1 nicht vorliegen oder der Vorsitzende die Anwesenheit des Angeklagten zur umfassenden Beurteilung des Anklagevorwurfs für erforderlich hält, so ist die Hauptverhandlung gemäß § 226 zu vertagen und gegebenenfalls die Vorführung des Angeklagten anzuordnen. Ist der Angeklagte jedoch flüchtig oder unbekannten Aufenthalts, so ist gemäß § 197 Abs. 1 vorzugehen. § 197 Abs. 2b gilt sinngemäß.
+### § 485 StPO
 
-**§ 427 (3) StPO.**  
-Gegen das in Abwesenheit des Angeklagten gefällte Urteil kann dieser beim Landesgericht innerhalb von vierzehn Tagen Einspruch erheben. Die Nichtigkeitsbeschwerde und die Berufung gegen ein Abwesenheitsurteil können auch nach Ablauf der Anmeldungsfrist zusammen mit dem Einspruch angemeldet werden. Dem Einspruch ist stattzugeben, wenn nachgewiesen wird, daß der Angeklagte durch ein unabweisbares Hindernis abgehalten wurde, in der Hauptverhandlung zu erscheinen. In diesem Fall ist eine neue Hauptverhandlung anzuordnen. Über den Einspruch entscheidet das Oberlandesgericht nach Anhörung der Oberstaatsanwaltschaft in nichtöffentlicher Sitzung. Weist es den Einspruch zurück, so steht dem Angeklagten gegen das Urteil ein Rechtsmittel nicht mehr offen. Hat der Verurteilte zugleich mit dem Einspruche die Nichtigkeitsbeschwerde oder die Berufung ergriffen oder liegt eine von anderer Seite ergriffene Berufung oder Nichtigkeitsbeschwerde vor, so ist von dem Gerichte, dem die Akten nach Vorschrift der §§ 285 und 294 vorgelegt werden, vorerst über den Einspruch in nichtöffentlicher Sitzung nach Anhörung der Staatsanwaltschaft zu entscheiden; nur wenn der Einspruch zurückgewiesen wird, ist in die Prüfung der Berufung oder Nichtigkeitsbeschwerde einzugehen.
+`§ 485 (1) StPO.`  
+Das Gericht hat den Strafantrag vor Anordnung der Hauptverhandlung zu prüfen und  
+`§ 485 (1) Z 1 StPO.`
+im Fall seiner örtlichen oder sachlichen Unzuständigkeit gemäß § 450 vorzugehen;  
+`§ 485 (1) Z 2 StPO.`
+in den Fällen des § 212 Z 3, 4 und 8 den Strafantrag mit Beschluss zurückzuweisen;  
+`§ 485 (1) Z 3 StPO.`
+in den Fällen des § 212 Z 1, 2 und 7 den Strafantrag mit Beschluss zurückzuweisen und das Verfahren einzustellen;  
+`§ 485 (1) Z 4 StPO.`
+im Übrigen jedoch die Hauptverhandlung nach den für das Verfahren vor dem Landesgericht als Schöffengericht geltenden Bestimmungen anzuordnen.
 
-### § 428 StPO.
+`§ 485 (1a) StPO.`  
+Die Beschwerde der Staatsanwaltschaft gegen einen Beschluss nach Abs. 1 Z 1 oder Z 2 hat aufschiebende Wirkung.
 
-**§ 428 StPO.**  
- Durch das Nichterscheinen eines Angeklagten und das dadurch veranlaßte Ungehorsamverfahren darf das Verfahren gegen die anwesenden Mitangeklagten nicht verzögert werden. Werden in solchen Fällen Gegenstände, die zur Überweisung der Angeklagten dienen können, den Eigentümern zurückgestellt, so kann diesen die Verpflichtung auferlegt werden, die Beweisstücke auf Begehren wieder beizubringen. Zugleich ist eine genaue Beschreibung der zurückgestellten Gegenstände zu den Akten zu bringen.
-## 21. Hauptstück | Verfahren bei vorbeugenden Maßnahmen und beim Verfall, beim erweiterten Verfall, bei der Einziehung und bei der Ausschließung vom Wahlrecht | 1. Abschnitt | Verfahren zur Unterbringung in einem forensisch-therapeutischen Zentrum nach § 21 StGB
+`§ 485 (2) StPO.`  
+Sobald ein Beschluss gemäß Abs. 1 Z 1 oder 2 rechtswirksam geworden ist, hat der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts die für die Fortführung des Verfahrens erforderlichen Anträge oder Anordnungen zu stellen.
 
-### § 429 StPO. Verfahren zur Unterbringung
+### § 488 StPO
 
-**§ 429 StPO.**  
- Für die Unterbringung eines Betroffenen (§ 48 Abs. 2) in einem forensisch-therapeutischen Zentrum (§ 21 StGB) gelten die Bestimmungen über das Strafverfahren sinngemäß, soweit im Folgenden nichts anderes bestimmt wird.
+`§ 488 (1) StPO.`  
+Für das Hauptverfahren vor dem Landesgericht als Einzelrichter und für Rechtsmittel gegen dessen Urteile gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird. Der Einzelrichter erfüllt die Aufgaben des Vorsitzenden und des Schöffengerichts.
 
-### § 430 StPO. Besonderheiten des Verfahrens
+`§ 488 (2) StPO.`  
+Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr.
 
-**§ 430 (1) StPO.**  
-Sobald aufgrund bestimmter Anhaltspunkte (§ 1 Abs. 3 StPO) angenommen werden kann, dass die Voraussetzungen für die Unterbringung in einem forensisch-therapeutischen Zentrum vorliegen, gelten folgende Besonderheiten:
-1. Der Verteidiger ist berechtigt, im Verfahren zur Unterbringung nach § 21 Abs. 1 StGB zugunsten des Betroffenen auch gegen dessen Willen Anträge zu stellen.
-2. Der Betroffene ist durch einen Sachverständigen der Psychiatrie, vorzugsweise eines solchen, der auch für das Fachgebiet psychiatrische Kriminalprognostik eingetragen ist, zu untersuchen. Steht ein Sachverständiger der Psychiatrie nicht oder nicht rechtzeitig zur Verfügung, so kann ein Sachverständiger der klinischen Psychologie bestellt werden.
-3. Zu jeder Vernehmung des Betroffenen können ein oder mehrere Sachverständige im Sinne der Z 2 beigezogen werden.
-4. Verhängung und Fortsetzung der Untersuchungshaft sind unzulässig. Befindet sich der Betroffene bereits in Untersuchungshaft, so hat das Gericht von Amts wegen über die vorläufige Unterbringung zu entscheiden (§ 431).
-5. Im Verfahren zur Unterbringung nach § 21 Abs. 1 StGB ist ein Anschluss wegen privatrechtlicher Ansprüche unzulässig.
+`§ 488 (3) StPO.`  
+Ist das Landesgericht als Einzelrichter der Ansicht, dass das Landesgericht als Schöffen- oder Geschworenengericht zuständig ist, so hat es, nachdem die Beteiligten des Verfahrens zu den geänderten Umständen angehört wurden, mit Urteil seine Unzuständigkeit auszusprechen. Sobald dieses Urteil rechtskräftig wurde, hat der Ankläger die zur Fortführung des Verfahrens erforderlichen Anträge zu stellen.
 
-**§ 430 (2) StPO.**  
-Das nach § 109 Jurisdiktionsnorm, RGBl. Nr. 111/1895, zuständige Gericht ist unverzüglich vom Verfahren und von dessen Beendigung, gegebenenfalls mit der Anregung, einen Erwachsenenvertreter zu bestellen, zu verständigen. Hat der Betroffene einen gesetzlichen Vertreter, so ist auch dieser zu verständigen.
+`§ 488 (4) StPO.`  
+(Anm.: aufgehoben durch BGBl. I Nr. 52/2009)
 
-### § 431 StPO. Vorläufige Unterbringung
+### § 489 StPO
 
-**§ 431 (1) StPO.**  
-Ist der Betroffene einer strafbaren Handlung dringend verdächtig und liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 21 Abs. 1 oder 2 StGB gegeben seien, sowie einer der in § 173 Abs. 2 und 6 angeführten Haftgründe vor, so ist der Betroffene vorläufig in einem forensisch-therapeutischen Zentrum unterzubringen. Über die Zulässigkeit der vorläufigen Unterbringung ist in sinngemäßer Anwendung des § 173 Abs. 1, 3 und 5 sowie der §§ 174 bis 178 zu entscheiden.
+`§ 489 (1) StPO.`  
+Gegen die vom Landesgericht als Einzelrichter ausgesprochenen Urteile kann außer dem Einspruch gemäß § 427 Abs. 3 nur das Rechtsmittel der Berufung wegen der in § 281 Abs. 1 Z 1a bis 5 und 6 bis 11 und § 468 Abs. 1 Z 1 und 2 aufgezählten Nichtigkeitsgründe oder gegen die im § 464 Z 2 und 3 genannten Aussprüche ergriffen werden. Für das Verfahren gelten die §§ 281, 282 Abs. 2, 285 Abs. 2 bis Abs. 5, 465 bis 467, 469 bis 476 und 479 sinngemäß. Für den Nichtigkeitsgrund des § 281 Abs. 1 Z 3 gelten die in § 468 Abs. 1 Z 3 zitierten Bestimmungen.
 
-**§ 431 (2) StPO.**  
-Die vorläufige Unterbringung darf nicht angeordnet, aufrechterhalten oder fortgesetzt werden, wenn ihr Zweck durch den gleichzeitigen Vollzug einer Unterbringung in einem forensisch-therapeutischen Zentrum oder auch dadurch erreicht werden kann, dass der Betroffene ohne eine solche behandelt und betreut wird. Das Gericht kann den Leiter einer Geschäftsstelle der Bewährungshilfe vor der Entscheidung über das Absehen von der vorläufigen Unterbringung mit der Durchführung einer Sozialnetzkonferenz (§ 29e BewHG) und der Vorlage eines Plans für die Anwendung alternativer Maßnahmen und nach Entscheidung über das Absehen von der vorläufigen Unterbringung mit der Überwachung der festgelegten Bedingungen sowie der Berichterstattung an das Gericht beauftragen. §§ 157a bis 157e StVG über die Festlegung von Bedingungen für ein vorläufiges Absehen vom Vollzug einer Unterbringung gelten sinngemäß.
+`§ 489 (2) StPO.`  
+Die Gerichtstage zur öffentlichen Verhandlung über die Berufung finden am Sitz des Oberlandesgerichts statt. Doch kann der Vorsitzende mit Rücksicht auf den Aufenthalt der Beteiligten des Verfahrens oder nach Anhörung des Anklägers und des Angeklagten auch aus anderen wichtigen Gründen anordnen, dass der Gerichtstag an einem anderen im Sprengel des Oberlandesgerichts gelegenen Ort abgehalten wird. Einer solchen Anhörung bedarf es nicht, wenn sich der Angeklagte im Sprengel des Landesgerichts in Haft befindet, bei welchem der Gerichtstag abgehalten wird.
 
-**§ 431 (3) StPO.**  
-Dem Vollzug einer Unterbringung in einem forensisch-therapeutischen Zentrum ist in Verfahren zur Unterbringung nach § 21 Abs. 2 StGB der Vollzug einer Strafhaft gleichzusetzen. Die Staatsanwaltschaft hat in diesem Fall die Abweichungen vom Vollzug anzuordnen, die für die Zwecke der vorläufigen Unterbringung unentbehrlich sind. Wird die vorläufige Unterbringung dennoch angeordnet, so tritt eine Unterbrechung des Vollzugs der Unterbringung oder der Strafhaft ein.
+`§ 489 (3) StPO.`  
+Von der Verhandlung und Entscheidung über eine Berufung sind auch Mitglieder des Oberlandesgerichts ausgeschlossen, die im vorangegangenen Verfahren an der Entscheidung über eine Beschwerde gegen die vom Landesgericht als Einzelrichter beschlossene Zurückweisung oder Einstellung (§ 485) beteiligt waren.
 
-**§ 431 (4) StPO.**  
-§ 172 Abs. 4 und § 181a gelten sinngemäß.
+### § 490 StPO
 
-### § 432 StPO. Ort der vorläufigen Unterbringung
+`§ 490 StPO.`  
+Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16. Hauptstück enthaltenen Bestimmungen. In den Fällen der §§ 352 bis 356 entscheidet das Landesgericht als Einzelrichter über die Bewilligung der Wiederaufnahme.
 
-**§ 432 (1) StPO.**  
-Die vorläufige Unterbringung erfolgt in einem forensisch-therapeutischen Zentrum, wobei vorläufig Untergebrachte nicht in Gemeinschaft mit rechtskräftig Untergebrachten angehalten werden sollen. Sie kann in einer öffentlichen Krankenanstalt für Psychiatrie oder in einer öffentlichen Krankenanstalt mit einer Abteilung für Psychiatrie erfolgen, wenn dies zweckmäßig ist und der Betroffene dort angemessen behandelt und betreut werden kann. Die öffentlichen Krankenanstalten für Psychiatrie und die öffentlichen Krankenanstalten mit einer Abteilung für Psychiatrie sind verpflichtet, den Betroffenen aufzunehmen und für die erforderliche Sicherung seiner Person zu sorgen. § 71 Abs. 2 StVG gilt sinngemäß mit der Maßgabe, dass für den Fall, dass durch die strafrechtliche Unterbringung in öffentlichen Krankenanstalten zusätzliche Aufwendungen entstehen, der Bund mit dem Rechtsträger der Krankenanstalt eine Vereinbarung über die Vergütung solcher Aufwendungen abschließen kann.
+## 23a. Hauptstück
 
-**§ 432 (2) StPO.**  
-Der Betroffene ist in einem dem zuständigen Gericht möglichst nahe liegenden geeigneten forensisch-therapeutischen Zentrum unterzubringen. Näheres bestimmt die Bundesministerin für Justiz durch Verordnung. Die Bundesministerin für Justiz kann im Einzelfall den Vollzug in einem anderen forensisch-therapeutischen Zentrum oder in einer anderen öffentlichen Krankenanstalt für Psychiatrie oder einer anderen öffentlichen Krankenanstalt mit einer Abteilung für Psychiatrie anordnen, wenn dies im Interesse des Betroffenen oder zur Erreichung des Unterbringungszwecks geboten ist. Mit Zustimmung des Betroffenen kann eine solche Anordnung auch zur Vermeidung eines Überbelags getroffen werden. Beantragt der Betroffene eine Änderung des Unterbringungsortes, so hat die Bundesministerin für Justiz darüber binnen vier Wochen zu entscheiden; § 16a StVG gilt sinngemäß.
+### § 491 StPO # Mandatsverfahren
 
-**§ 432 (3) StPO.**  
-Befindet sich der Betroffene in Untersuchungshaft, so ist er nach Entscheidung über die vorläufige Unterbringung in das forensisch-therapeutische Zentrum zu überstellen, in dem die vorläufige Unterbringung zu vollziehen ist.
+`§ 491 (1) StPO.`  
+Im Verfahren vor dem Bezirksgericht und vor dem Landesgericht als Einzelrichter kann das Gericht auf Antrag der Staatsanwaltschaft die Strafe durch schriftliche Strafverfügung ohne vorausgehende Hauptverhandlung festsetzen, wenn  
+`§ 491 (1) Z 1 StPO.`
+es sich um ein Vergehen handelt und der Angeklagte gemäß §§ 164 oder 165 zum Anklagevorwurf vernommen wurde und nach Information über die Folgen ausdrücklich auf die Durchführung einer Hauptverhandlung verzichtet hat,  
+`§ 491 (1) Z 2 StPO.`
+kein Grund für ein Vorgehen nach §§ 191 Abs. 2, 199 oder anderen darauf verweisenden Vorschriften, §§ 450, 451 Abs. 2 oder 485 Abs. 1 Z 2 oder 3 sowie nach § 37 SMG vorliegt,  
+`§ 491 (1) Z 3 StPO.`
+die Ergebnisse des Ermittlungsverfahrens in Verbindung mit der Verantwortung des Angeklagten zur Beurteilung aller für die Schuld- und Straffrage entscheidenden Umstände ausreichen sowie die Rechte und gerechtfertigten Interessen des Opfers keine Beeinträchtigung erfahren.
 
-**§ 432 (4) StPO.**  
-Vor einer Änderung des Unterbringungsortes nach Abs. 2 sind der Betroffene und dessen gesetzlicher Vertreter, die Staatsanwaltschaft und das Gericht zu hören; nach der Überstellung sind die Staatsanwaltschaft, das Gericht, der Verteidiger und der gesetzliche Vertreter des Betroffenen durch das nunmehr zuständige forensisch-therapeutische Zentrum unverzüglich zu verständigen.
+`§ 491 (2) StPO.`  
+Mit Strafverfügung darf nur eine Geldstrafe oder – soweit der Angeklagte durch einen Verteidiger vertreten ist – eine ein Jahr nicht übersteigende, gemäß § 43 Abs. 1 StGB bedingt nachzusehende Freiheitsstrafe verhängt werden. Ein Ausspruch nach § 494a Abs. 1 Z 4 ist dem nach § 495 zuständigen Gericht vorzubehalten.
 
-### § 433 StPO. Vollzug der vorläufigen Unterbringung
+`§ 491 (3) StPO.`  
+Soweit das Gericht dies zur Klärung der Voraussetzungen nach Abs. 1 für erforderlich erachtet, kann es den Angeklagten und das Opfer vernehmen und gegebenenfalls nach § 69 vorgehen.
 
-**§ 433 (1) StPO.**  
-Für den Vollzug der vorläufigen Unterbringung gelten die Bestimmungen über den Vollzug der Unterbringung in einem forensisch-therapeutischen Zentrum nach §§ 164 bis 167a StVG sinngemäß.
+`§ 491 (4) StPO.`  
+Die Strafverfügung muss enthalten:  
+`§ 491 (4) Z 1 StPO.`
+die Bezeichnung des Gerichts und den Namen des Richters,  
+`§ 491 (4) Z 2 StPO.`
+den Vor- und den Familiennamen sowie alle früher geführten Namen, Tag und Ort der Geburt, die Staatsangehörigkeit und den Beruf des Angeklagten,  
+`§ 491 (4) Z 3 StPO.`
+den Ausspruch des Gerichts über die Schuld des Angeklagten mit allen in § 260 angeführten Punkten,  
+`§ 491 (4) Z 4 StPO.`
+die vom Gericht als erwiesen angenommenen Tatsachen in gedrängter Darstellung sowie die für die Strafbemessung und gegebenenfalls die für die Bemessung des Tagessatzes (§ 19 Abs. 2 StGB) maßgebenden Umstände in Schlagworten,  
+`§ 491 (4) Z 5 StPO.`
+eine Information über das Recht, einen Einspruch zu erheben mit dem deutlichen Hinweis, dass die Strafverfügung mit allen Wirkungen einer Verurteilung in Rechtskraft übergehen und vollstreckt werden würde, falls ein solcher nicht oder nicht rechtzeitig erhoben wird.
 
-**§ 433 (2) StPO.**  
-Für den Verkehr mit der Außenwelt gelten § 188 und § 189 sinngemäß.
+`§ 491 (5) StPO.`  
+Die Strafverfügung ist dem Angeklagten und gegebenenfalls seinem Verteidiger sowie dem Opfer und gegebenenfalls seinem Vertreter samt dem Strafantrag auf die in § 83 Abs. 3 bezeichnete Weise zuzustellen.
 
-**§ 433 (3) StPO.**  
-Der Betroffene ist mit dem Ziel zu behandeln und zu betreuen, seinen Zustand nach Möglichkeit so weit zu bessern, dass die Anordnung einer Unterbringung durch das erkennende Gericht entbehrlich wird oder vom Vollzug vorläufig abgesehen werden kann (§ 434g; § 157a StVG). Der Leiter des forensisch-therapeutischen Zentrums hat den Behandlungsplan und die entsprechende Umsetzungsdokumentation der Staatsanwaltschaft, nach Einbringung des Antrags auf Unterbringung oder der Anklageschrift dem Gericht zu übermitteln und über den bisherigen Behandlungserfolg zu berichten. Die Pflichten des Leiters des forensisch-therapeutischen Zentrums treffen im Fall der vorläufigen Unterbringung in einer öffentlichen Krankenanstalt für Psychiatrie oder in einer öffentlichen Krankenanstalt mit einer Abteilung für Psychiatrie den Leiter der Krankenanstalt bzw. der Abteilung.
+`§ 491 (6) StPO.`  
+Gegen die Strafverfügung können die Staatsanwaltschaft, der Angeklagte und das Opfer binnen vier Wochen ab Zustellung schriftlich Einspruch bei dem die Strafverfügung erlassenden Gericht erheben, wobei es genügt, dass aus dem Schriftstück die Absicht, Einspruch zu erheben, deutlich hervorgeht.
 
-**§ 433 (4) StPO.**  
-Kann auf Grund bestimmter Tatsachen angenommen werden, dass im Falle einer Unterbringung von deren Vollzug vorläufig abgesehen werden könnte (§ 157a StVG, § 434g), so hat das Gericht auf Antrag des Betroffenen oder der Staatsanwaltschaft, auf Anregung des Leiters des forensisch-therapeutischen Zentrums oder von Amts wegen bereits während der vorläufigen Unterbringung vorläufige Bewährungshilfe (§ 179) anzuordnen.
+`§ 491 (7) StPO.`  
+Das die Strafverfügung erlassende Gericht hat den Einspruch als unzulässig zurückzuweisen, wenn er verspätet ist oder wenn er von einer Person eingebracht wurde, der der Einspruch nicht zukommt oder die auf ihn verzichtet hat. Gegen diesen Beschluss steht die Beschwerde (§ 87) an das Rechtsmittelgericht zu; ihr kommt aufschiebende Wirkung zu.
 
-**§ 433 (5) StPO.**  
-Im Falle eines Strafurteils (§ 21 Abs. 2 StGB, § 434b Abs. 1 zweiter Satz) ist die vorläufige Unterbringung auf Freiheits- und Geldstrafen anzurechnen (§ 38 StGB).
+`§ 491 (8) StPO.`  
+Im Falle eines zulässigen Einspruchs ist die Hauptverhandlung anzuordnen (§§ 455, 488); § 43 Abs. 2 gilt sinngemäß.
 
-### § 434 StPO. Antrag auf Unterbringung
+`§ 491 (9) StPO.`  
+Wird ein Einspruch nicht erhoben oder ein solcher als unzulässig zurückgewiesen, so steht die Strafverfügung einem rechtskräftigen Urteil gleich und ist nach den Bestimmungen des 19. Hauptstückes zu vollstrecken.
 
-**§ 434 (1) StPO.**  
-Liegen hinreichende Gründe für die Unterbringung nach § 21 Abs. 1 StGB vor, so hat die Staatsanwaltschaft einen Antrag auf Unterbringung zu stellen. Für diesen Antrag gelten die Bestimmungen über die Anklageschrift (§§ 210 bis 215) sinngemäß. Im Fall des § 21 Abs. 2 StGB ist die Unterbringung in einem forensisch-therapeutischen Zentrum in der Anklageschrift zu beantragen.
+### § 491a StPO
 
-**§ 434 (2) StPO.**  
-Über den Antrag auf Unterbringung entscheidet das Landesgericht, das für ein Strafverfahren auf Grund einer Anklage oder eines Strafantrages gegen den Betroffenen wegen seiner Tat (§ 21 Abs. 3 StGB) zuständig ist oder zuständig wäre. Anstelle des Einzelrichters des Landesgerichts entscheidet jedoch das Landesgericht als Schöffengericht in der Besetzung mit zwei Berufsrichtern und zwei Schöffen (§ 32 Abs. 1a).
+`§ 491a StPO.`  
+(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 148)
 
-### § 434a StPO. Entscheidung durch Urteil
+### § 491b StPO
 
-**§ 434a StPO.**  
- Das Gericht entscheidet über die Unterbringung nach öffentlicher mündlicher Hauptverhandlung, die in sinngemäßer Anwendung der Bestimmungen des 14. und 15. Hauptstücks durchzuführen ist, durch Urteil.
+`§ 491b StPO.`  
+(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 148)
 
-### § 434b StPO. Gleichwertigkeit von Anklage und Antrag auf Unterbringung
+## 24. Hauptstück # Verfahren bei bedingter Strafnachsicht, bedingter Nachsicht von vorbeugenden Maßnahmen, Erteilung von Weisungen und Anordnung der Bewährungshilfe # I. Bedingte Nachsicht einer Strafe, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher und einer Rechtsfolge
 
-**§ 434b (1) StPO.**  
-Das Gericht kann eine Unterbringung bei Vorliegen der Voraussetzungen auch dann anordnen, wenn die Tat (§ 21 Abs. 3 StGB) Gegenstand einer Anklage ist und die Unterbringung in der Anklageschrift nicht beantragt wurde. In gleicher Weise kann das Gericht aufgrund eines Antrags auf Unterbringung auf eine Strafe oder eine Strafe und eine Unterbringung nach § 21 Abs. 2 StGB erkennen, wenn es zum Ergebnis kommt, dass der Betroffene wegen der Tat (§ 21 Abs. 3 StGB) bestraft werden kann oder die Voraussetzungen für eine Unterbringung nach § 21 Abs. 2 StGB vorliegen.
+### § 492 StPO
 
-**§ 434b (2) StPO.**  
-Ist das Landesgericht als Einzelrichter der Ansicht, dass die Voraussetzungen der Unterbringung vorliegen, so hat es, nachdem die Beteiligten des Verfahrens zu den geänderten Umständen gehört wurden, mit Urteil seine Unzuständigkeit auszusprechen. § 261 gilt sinngemäß.
+`§ 492 (1) StPO.`  
+Die bedingte Nachsicht einer Strafe, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher und einer Rechtsfolge ist in das Urteil aufzunehmen.
 
-**§ 434b (3) StPO.**  
-Das Gericht hat den Angeklagten oder Betroffenen in den Fällen des Abs. 1 über den geänderten rechtlichen Gesichtspunkt zu hören und über einen allfälligen Vertagungsantrag zu entscheiden. Für das Verfahren vor dem Landesgericht als Geschworenengericht gilt § 434e.
+`§ 492 (2) StPO.`  
+Das Gericht hat den Verurteilten über den Sinn der bedingten Nachsicht zu belehren und ihm, sobald die Entscheidung darüber rechtskräftig geworden ist, eine Urkunde zuzustellen, die kurz und in einfachen Worten den wesentlichen Inhalt der Entscheidung, die ihm auferlegten Verpflichtungen und die Gründe angibt, aus denen die Nachsicht widerrufen werden kann.
 
-**§ 434b (4) StPO.**  
-Eine Unterbringung darf nur dann ausgesprochen werden, wenn während der gesamten Hauptverhandlung die Voraussetzungen nach § 434 Abs. 2 zweiter Satz und § 434d Abs. 1 und 2 erfüllt waren, widrigenfalls die Hauptverhandlung zu vertagen (§ 276) und zu wiederholen (§ 276a zweiter Satz) ist.
+### § 493 StPO
 
-### § 434c StPO. Rechte des gesetzlichen Vertreters
+`§ 493 (1) StPO.`  
+Die bedingte Nachsicht oder deren Unterbleiben bildet einen Teil des Ausspruches über die Strafe und kann zugunsten und zum Nachteil des Verurteilten mit Berufung angefochten werden. Die Berufung hat nur, soweit es sich um die Vollstreckung der Strafe oder der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder um den Eintritt der Rechtsfolge handelt, aufschiebende Wirkung.
 
-**§ 434c (1) StPO.**  
-Hat der Betroffene einen gesetzlichen Vertreter, dessen Wirkungsbereich die Vertretung im Verfahren zur Unterbringung umfasst, so sind diesem die Anklage oder der Antrag auf Unterbringung sowie sämtliche gerichtlichen Entscheidungen auf dieselbe Weise bekanntzumachen wie dem Betroffenen. Der gesetzliche Vertreter ist zur Hauptverhandlung zu laden.
+`§ 493 (2) StPO.`  
+Hat das Gericht durch die Entscheidung über die bedingte Nachsicht seine Befugnisse überschritten, so kann das Urteil wegen Nichtigkeit nach den §§ 281 Abs. 1 Z. 11, 345 Abs. 1 Z. 13 oder 468 Abs. 1 Z. 4 angefochten werden.
 
-**§ 434c (2) StPO.**  
-Der gesetzliche Vertreter ist berechtigt, für den Betroffenen auch gegen dessen Willen Einspruch gegen die Anklageschrift oder den Antrag auf Unterbringung zu erheben (§§ 212 bis 215) und gegen das Urteil alle Rechtsmittel zu ergreifen, die dem Betroffenen zustehen. Die Frist zur Erhebung von Rechtsmitteln läuft für den gesetzlichen Vertreter ab dem Tag, an dem ihm die Entscheidung bekannt gemacht wird.
+## II. Erteilung von Weisungen und Anordnung der Bewährungshilfe
 
-**§ 434c (3) StPO.**  
-Hat der Betroffene einen gesetzlichen Vertreter und ist dieser der Beteiligung an der mit Strafe bedrohten Handlung des Betroffenen verdächtig oder überwiesen, kann er dem Betroffenen aus anderen Gründen im Verfahren nicht beistehen oder ist er zur Hauptverhandlung nicht erschienen, so hat der Verteidiger auch die Rechte des gesetzlichen Vertreters. Gleiches gilt, wenn der Betroffene in den Fällen des § 21 Abs. 1 StGB keinen gesetzlichen Vertreter hat.
+### § 494 StPO
 
-**§ 434c (4) StPO.**  
-Wird die vorläufige Unterbringung des Betroffenen angeordnet oder aufgehoben, so ist der gesetzliche Vertreter davon zu verständigen. Das Recht auf Besuch durch den gesetzlichen Vertreter steht einem vorläufig Angehaltenen in gleichem Umfang zu wie das Recht auf Besuch von einem Rechtsbeistand.
+`§ 494 (1) StPO.`  
+Über die Erteilung von Weisungen und die Anordnung der Bewährungshilfe entscheidet das Gericht mit Beschluß. Die Entscheidung obliegt in der Hauptverhandlung dem erkennenden Gericht, sonst dem Vorsitzenden.
 
-### § 434d StPO. Besonderheiten der Hauptverhandlung
+`§ 494 (2) StPO.`  
+Wird dem Rechtsbrecher eine Weisung erteilt, welche die Interessen des Verletzten unmittelbar berührt, so ist dieser hievon zu verständigen.
 
-**§ 434d (1) StPO.**  
-Während der gesamten Hauptverhandlung muss bei sonstiger Nichtigkeit ein Verteidiger des Betroffenen anwesend sein.
+## III. Widerruf einer bedingten Nachsicht
 
-**§ 434d (2) StPO.**  
-Der Hauptverhandlung ist bei sonstiger Nichtigkeit für die gesamte Dauer ein Sachverständiger (§ 430 Abs. 1 Z 2) beizuziehen.
+### § 494a StPO
 
-**§ 434d (3) StPO.**  
-Ist in der Hauptverhandlung, in der über die Unterbringung einer Person entschieden werden soll, entgegen Abs. 1 erster Satz kein Verteidiger anwesend oder ist dieser entgegen Abs. 2 kein Sachverständiger beigezogen, so ist sie zu vertagen (§ 276) und zu wiederholen (§ 276a zweiter Satz).
+`§ 494a (1) StPO.`  
+Wird jemand wegen einer strafbaren Handlung verurteilt, die er vor Ablauf der Probezeit nach einem Schuldspruch unter Vorbehalt der Strafe, einer bedingten Nachsicht oder bedingten Entlassung begangen hat, so hat das erkennende Gericht nach den folgenden Bestimmungen vorzugehen:  
+`§ 494a (1) Z 1 StPO.`
+Liegen die Voraussetzungen für ein Unterbleiben des nachträglichen Ausspruches der Strafe (§§ 15, 16 JGG) vor, so ist auszusprechen, daß die neue Verurteilung für einen solchen Ausspruch keinen Anlaß bildet.  
+`§ 494a (1) Z 2 StPO.`
+Liegen die Voraussetzungen für das Absehen vom Widerruf einer bedingten Nachsicht oder bedingten Entlassung vor, so ist auszusprechen, daß von einem Widerruf aus Anlaß der neuen Verurteilung abgesehen wird.  
+`§ 494a (1) Z 3 StPO.`
+Liegen die Voraussetzungen für einen nachträglichen Ausspruch der Strafe (§§ 15, 16 JGG) vor, so ist die Strafe in einem Ausspruch so zu bemessen, wie wenn die Verurteilung wegen beider strafbarer Handlungen gemeinsam erfolgt wäre; im übrigen ist auszusprechen, daß in dem Verfahren, in dem der Schuldspruch unter Vorbehalt der Strafe ergangen ist, ein nachträglicher Strafausspruch nicht mehr in Betracht kommt.  
+`§ 494a (1) Z 4 StPO.`
+Liegen die Voraussetzungen für den Widerruf einer bedingten Nachsicht oder bedingten Entlassung vor, so ist der Widerruf auszusprechen.
 
-**§ 434d (4) StPO.**  
-Wird über mehrere Taten gleichzeitig erkannt und eine Unterbringung angeordnet, so ist im Urteil auszusprechen, welche Taten Anlass für die Unterbringung waren; die Unterbringung darf nur einmal angeordnet werden.
+`§ 494a (2) StPO.`  
+Ein Ausspruch nach Abs. 1 Z 4 steht dem Einzelrichter beim Landesgericht nur bei Strafen und Strafresten zu, die das Ausmaß von je fünf Jahren nicht übersteigen, und dem Bezirksgericht nur bei Strafen und Strafresten, die das Ausmaß von je einem Jahr nicht übersteigen. Der Widerruf einer bedingten Entlassung aus einer Unterbringung nach § 21 Abs. 1 oder 2 StGB oder einer lebenslangen Freiheitsstrafe ist dem Landesgericht als Schöffen- oder Geschworenengericht vorbehalten. Soweit das erkennende Gericht sonach eine Entscheidung nach Abs. 1 Z 4 nicht treffen darf, hat es auszusprechen, daß die Entscheidung über den Widerruf dem Gericht vorbehalten bleibt, dem sonst die Entscheidung zukäme.
 
-### § 434e StPO. Verfahren vor dem Landesgericht als Geschworenengericht
+`§ 494a (3) StPO.`  
+Vor der Entscheidung hat das Gericht den Ankläger, den Angeklagten und den Bewährungshelfer zu hören und Einsicht in die Akten über die frühere Verurteilung zu nehmen. Von der Anhörung des Angeklagten kann abgesehen werden, wenn das Urteil in seiner Abwesenheit gefällt wird und ein Ausspruch nach Abs. 1 Z 1 oder 2 erfolgt. Von der Anhörung des Bewährungshelfers kann abgesehen werden, wenn das Gericht einen nachträglichen Strafausspruch oder einen Widerruf nicht in Betracht zieht. Anstelle der Einsicht in die Akten kann sich das Gericht mit der Einsicht in eine Abschrift des früheren Urteils begnügen, wenn dieses eine ausreichende Grundlage für die Entscheidung nach Abs. 1 darzustellen vermag.
 
-**§ 434e (1) StPO.**  
-Im Verfahren zur Unterbringung nach § 21 Abs. 1 StGB vor dem Landesgericht als Geschworenengericht ist den Geschworenen eine Zusatzfrage zu stellen, ob der Betroffene zur Zeit der Tat zurechnungsunfähig war. Für etwaige andere Zusatzfragen und das Verfahren über einen Antrag auf Unterbringung nach § 21 Abs. 2 StGB gilt § 313 sinngemäß.
+`§ 494a (4) StPO.`  
+Die Entscheidungen nach Abs. 1 mit Ausnahme des Strafausspruches nach Z 3 erster Satz sowie der Vorbehalt nach Abs. 2 ergehen mit Beschluß. Der Beschluß ist gemeinsam mit dem Urteil zu verkünden und auszufertigen. Der Beschluß und sein Unterbleiben können mit Beschwerde angefochten werden.
 
-**§ 434e (2) StPO.**  
-Über die Anordnung der Unterbringung entscheidet der Schwurgerichtshof gemeinsam mit den Geschworenen (§ 303).
+`§ 494a (5) StPO.`  
+(Anm.: aufgehoben durch BGBl. I Nr. 55/1999)
 
-### § 434f StPO. Rechtsmittel
+`§ 494a (6) StPO.`  
+In einem Beschluß, mit dem vom Widerruf einer bedingten Nachsicht oder bedingten Entlassung abgesehen wird, kann das erkennende Gericht auch die Probezeit verlängern; zugleich mit einem Ausspruch nach Abs. 1 Z 1 oder 2 können auch Weisungen erteilt, die Bewährungshilfe angeordnet und familien- oder jugendwohlfahrtsrechtliche Verfügungen getroffen werden (§§ 53 Abs. 3, 54 Abs. 2 StGB, 15 Abs. 2 JGG).
 
-**§ 434f (1) StPO.**  
-Das Urteil kann hinsichtlich des Ausspruchs über die Unterbringung in sinngemäßer Anwendung der § 281 und § 283, im Falle eines Urteils des Landesgerichts als Geschworenengericht in sinngemäßer Anwendung der § 345 und § 346, zugunsten und zum Nachteil des Betroffenen mit Nichtigkeitsbeschwerde und Berufung angefochten werden. Die Anmeldung der Nichtigkeitsbeschwerde oder der Berufung hat aufschiebende Wirkung.
+`§ 494a (7) StPO.`  
+Das erkennende Gericht hat unverzüglich alle Gerichte zu verständigen, deren Vorentscheidungen von einer Entscheidung nach den vorstehenden Bestimmungen betroffen sind.
 
-**§ 434f (2) StPO.**  
-Für die Wiederaufnahme und die Erneuerung des Unterbringungsverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die Bestimmungen des 16. Hauptstücks sinngemäß.
+### § 494b StPO
 
-### § 434g StPO. Verfahren beim vorläufigen Absehen vom Vollzug der Unterbringung
+`§ 494b StPO.`  
+Hat das erkennende Gericht bei der Urteilsfällung einen Ausspruch nach § 494a Abs. 1 Z 3 oder 4 zu Unrecht unterlassen oder im Fall eines Ausspruches nach § 494a Abs. 1 Z 2 die Probezeit nicht verlängert und hat der Ankläger das Unterbleiben einer solchen Entscheidung nicht angefochten, so darf ein nachträglicher Ausspruch der Strafe, ein Widerruf der bedingten Nachsicht oder Entlassung oder eine Verlängerung der Probezeit aus Anlaß der neuen Verurteilung nicht mehr erfolgen, sofern die frühere Verurteilung oder die bedingte Entlassung aktenkundig war.
 
-**§ 434g (1) StPO.**  
-Das Gericht hat von Amts wegen zu prüfen, ob vom Vollzug der Unterbringung nach § 157a StVG durch Festlegung von Bedingungen und Anordnung der Bewährungshilfe (§ 157b StVG) vorläufig abzusehen ist. Ist der Betroffene vorläufig untergebracht, so hat das Gericht den Leiter des forensisch-therapeutischen Zentrums, in dem der Betroffene vorläufig untergebracht ist, zu beauftragen, das Vorliegen der Voraussetzungen für ein vorläufiges Absehen von der Unterbringung – gegebenenfalls unter Ausrichtung einer Sozialnetzkonferenz (§ 29e BewHG) – zu erheben und darüber zu berichten, ob ein vorläufiges Absehen vom Vollzug der Unterbringung befürwortet werden kann sowie gegebenenfalls spätestens in der Hauptverhandlung einen Plan für die Anwendung alternativer Maßnahmen (§§ 157a bis 157e StVG) vorzulegen. § 433 Abs. 3 letzter Satz gilt sinngemäß. Wird der Betroffene sonst wegen seiner psychischen Störung ärztlich behandelt, so ist die behandelnde Stelle um eine entsprechende Stellungnahme zu ersuchen. Soweit dies zur Beurteilung des vorläufigen Absehens vom Vollzug der Unterbringung erforderlich ist, hat das Gericht Äußerungen von psychiatrischen Einrichtungen und von anderen Betreuungseinrichtungen, in denen der Betroffene zuletzt behandelt oder betreut wurde, einzuholen.
+### § 495 StPO
 
-**§ 434g (2) StPO.**  
-Das Gutachten des Sachverständigen (§ 430 Abs. 1 Z 2) hat sich auch darauf zu erstrecken, ob es alternative Behandlungs- oder Betreuungsmaßnahmen gibt, die ein vorläufiges Absehen vom Vollzug einer Unterbringung ermöglichen könnten (§ 157a StVG).
+`§ 495 (1) StPO.`  
+Außer in den Fällen des § 494a entscheidet über den Widerruf der bedingten Nachsicht einer Strafe oder eines Strafteiles, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder einer Rechtsfolge das Gericht in nichtöffentlicher Sitzung mit Beschluß, das in jenem Verfahren, in dem die bedingte Nachsicht ausgesprochen worden ist, in erster Instanz erkannt hat.
 
-**§ 434g (3) StPO.**  
-Ist vorläufige Bewährungshilfe angeordnet (§ 433 Abs. 4), so hat der Leiter einer Geschäftsstelle der Bewährungshilfe seinen Bericht spätestens bis zum Beginn der Hauptverhandlung vorzulegen, der Bewährungshelfer ist vor der Entscheidung zu hören.
+`§ 495 (2) StPO.`  
+Die Beschlußfassung über einen Widerruf bei nachträglicher Verurteilung (§ 55 StGB) obliegt unter Gerichten gleicher Ordnung jenem, dessen Urteil eine bedingte Nachsicht enthält und zuletzt rechtskräftig wurde; unter Gerichten verschiedener Ordnung entscheidet jenes höherer Ordnung, dessen Urteil eine bedingte Nachsicht enthält und zuletzt rechtskräftig wurde.
 
-**§ 434g (4) StPO.**  
-Soweit das Gericht dies für erforderlich hält, kann die Hauptverhandlung mit Zustimmung des Betroffenen zur Klärung der Voraussetzungen des Absehens vom Vollzug der Unterbringung für längstens zwei Monate vertagt werden.
+`§ 495 (3) StPO.`  
+Vor der Entscheidung hat das Gericht den Ankläger, den Verurteilten und den Bewährungshelfer zu hören und eine Strafregisterauskunft einzuholen. Von der Anhörung des Verurteilten kann abgesehen werden, wenn sich erweist, daß sie ohne unverhältnismäßigen Aufwand nicht durchführbar ist.
 
-**§ 434g (5) StPO.**  
-Das vorläufige Absehen vom Vollzug der Unterbringung in einem forensisch-therapeutischen Zentrum (§ 157a StVG) ist Teil des Ausspruches über die Unterbringung und kann zugunsten und zum Nachteil des Betroffenen mit Berufung angefochten werden.
+### § 496 StPO
 
-**§ 434g (6) StPO.**  
-Zugleich legt das Gericht mit Beschluss die Bedingungen für das vorläufige Absehen vom Vollzug der Unterbringung fest (§ 157a Abs. 4 StVG). Der Beschluss ist gesondert anfechtbar (§ 87).
+`§ 496 (1) StPO.`  
+Wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass die bedingte Nachsicht einer Strafe oder eines Strafteils widerrufen werde, und der Verurteilte aus diesem Grund flüchten werde (§ 173 Abs. 2 Z 1 und Abs. 3), ist seine Festnahme zulässig, zu der die Kriminalpolizei von sich aus berechtigt ist, wenn wegen Gefahr im Verzug eine Anordnung der Staatsanwaltschaft nicht rechtzeitig eingeholt werden kann. Für das weitere Verfahren gelten die im 9. Hauptstück enthaltenen Bestimmungen sinngemäß mit der Maßgabe, dass die Haftfrist einen Monat beträgt. Über drei Monate hinaus darf die Haft in keinem Fall aufrecht erhalten werden.
 
-**§ 434g (7) StPO.**  
-Wird eine Bedingung festgelegt, die die Interessen des Opfers unmittelbar berührt, so ist das Opfer über deren Inhalt und ihre Bedeutung zu verständigen.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">2.&nbsp;Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Verfahren zur Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach §&nbsp;22&nbsp;StGB oder in einer Anstalt für gefährliche Rückfallstäter nach §&nbsp;23&nbsp;StGB und zur Verhängung eines Tätigkeitsverbotes nach §&nbsp;220b&nbsp;StGB</span></h4>
+`§ 496 (2) StPO.`  
+Wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass ein Verurteilter, der unter gerichtlicher Aufsicht nach § 52a oder § 52b StGB steht, ihm erteilte Weisungen nicht befolgt oder sich dem Einfluss des Bewährungshelfers entzieht, ist die Vorführung des Verurteilten zur sofortigen Erteilung einer förmlichen Mahnung zulässig. Zur Vorführung ist die Kriminalpolizei von sich aus berechtigt, wenn wegen Gefahr im Verzug eine Anordnung des Gerichts nicht rechtzeitig eingeholt werden kann.
 
-### § 435 StPO.
+## IV. Endgültige Nachsicht
 
-**§ 435 (1) StPO.**  
-Über die Anwendung der in den § 22, § 23 und § 220b StGB vorgesehenen vorbeugenden Maßnahmen ist in der Regel (§ 441) im Strafurteil zu entscheiden.
+### § 497 StPO
 
-**§ 435 (2) StPO.**  
-Die Anordnung der Unterbringung in einer der in diesen Bestimmungen genannten Anstalten oder ihr Unterbleiben sowie die Anordnung eines Tätigkeitsverbotes oder deren Unterbleiben bilden einen Teil des Ausspruches über die Strafe und können zugunsten und zum Nachteil des Verurteilten mit Nichtigkeitsbeschwerde und mit Berufung angefochten werden.
+`§ 497 (1) StPO.`  
+Der Ausspruch, daß die bedingte Nachsicht einer Strafe, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder einer Rechtsfolge endgültig geworden ist, hat durch Beschluß des Vorsitzenden zu erfolgen.
 
-### § 437 StPO.
+`§ 497 (2) StPO.`  
+Vor der Entscheidung ist der Ankläger zu hören und eine Strafregisterauskunft einzuholen.
 
-**§ 437 StPO.**  
- Einen Antrag auf Unterbringung in einer der in den § 22 und § 23 StGB vorgesehenen Anstalten oder auf Anordnung eines Tätigkeitsverbotes hat die Staatsanwaltschaft in der Anklage zu stellen. Das Gericht kann jedoch auch ohne einen solchen Antrag die Unterbringung oder das Tätigkeitsverbot anordnen.
+## V. Gemeinsame Bestimmungen
 
-### § 438 StPO.
+### § 498 StPO
 
-**§ 438 StPO.**  
- Liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 22 StGB gegeben seien, und Haftgründe (§ 173 Abs. 2 und 6) vor, kann der Beschuldigte aber nicht ohne Schwierigkeiten in einer Justizanstalt angehalten werden, so ist mit Beschluss anzuordnen, dass die Untersuchungshaft durch vorläufige Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher zu vollziehen ist. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden.
+`§ 498 (1) StPO.`  
+(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
 
-### § 439 StPO.
+`§ 498 (2) StPO.`  
+Die Beschwerde steht zugunsten des Verurteilten diesem und allen anderen Personen zu, die zugunsten eines Angeklagten Nichtigkeitsbeschwerde erheben können, zum Nachteil des Verurteilten aber nur dem Ankläger. Im Fall der mündlichen Verkündung gilt § 86 Abs. 2 und 3 mit der Maßgabe, dass die Ausfertigung und Zustellung des Beschlusses auch unterbleiben können, wenn der Rechtsmittelwerber binnen drei Tagen nach mündlicher Verkündung des Beschlusses keine Beschwerde anmeldet. Bei mündlicher Verkündung und Anmeldung einer Beschwerde läuft die Frist zur Erstattung des Rechtsmittels ab Zustellung der schriftlichen Ausfertigung. Eine rechtzeitig erhobene Beschwerde hat aufschiebende Wirkung, es sei denn, dass sie gegen einen Beschluss gemäß § 496 gerichtet ist.
 
-**§ 439 (1) StPO.**  
-Die Anordnung der in den § 22 und § 23 StGB vorgesehenen vorbeugenden Maßnahmen ist nichtig, wenn nicht während der ganzen Hauptverhandlung ein Verteidiger des Beschuldigten anwesend war. Die Anordnung eines Tätigkeitsverbotes (§ 220b StGB) ist nichtig, wenn deren Voraussetzungen in der Hauptverhandlung nicht erörtert wurden.
+`§ 498 (3) StPO.`  
+Die Beschwerde kann auch mit einer Nichtigkeitsbeschwerde oder Berufung gegen das Urteil verbunden werden, das zugleich mit dem angefochtenen Beschluß ergangen ist (§§ 494 und 494a). In diesem Fall ist die Beschwerde rechtzeitig eingebracht, wenn das Rechtsmittel, mit dessen Ausführung sie verbunden ist, rechtzeitig eingebracht wurde. Im übrigen ist eine zugunsten des Angeklagten ergriffene Berufung wegen des Ausspruchs über die Strafe auch als Beschwerde gegen den Beschluß zu betrachten. Wird die Beschwerde mit einem anderen Rechtsmittel verbunden oder wird sonst gegen das zugleich mit dem angefochtenen Beschluß ergangene Urteil Nichtigkeitsbeschwerde oder Berufung erhoben, so entscheidet das für deren Erledigung zuständige Gericht auch über die Beschwerde.
 
-**§ 439 (2) StPO.**  
-Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder in einer Anstalt für gefährliche Rückfallstäter darf bei sonstiger Nichtigkeit überdies nur nach Beiziehung zumindest eines Sachverständigen (§ 430 Abs. 1 Z 2) angeordnet werden.
+## 25. Hauptstück # Ausübung der Strafgerichtsbarkeit über Soldaten im Frieden
 
-**§ 439 (3) StPO.**  
-Sieht das Gericht von der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher wegen der Höhe der ausgesprochenen Strafe ab (§ 22 Abs. 2 StGB), so hat es diesen Umstand in den Entscheidungsgründen auszusprechen.
+### § 499 StPO
 
-### § 440 StPO.
+`§ 499 StPO.`  
+Soldat im Sinne dieses Gesetzes ist jeder Angehörige des Präsenzstandes des Bundesheeres.
 
-**§ 440 StPO.**  
- Hat der Beschuldigte einen gesetzlichen Vertreter, so ist in einem Verfahren, in dem hinreichende Gründe für die Annahme der Voraussetzungen des § 22 oder § 23 StGB vorliegen, § 434c sinngemäß anzuwenden.
+### § 500 StPO
 
-### § 441 StPO.
+`§ 500 (1) StPO.`  
+Alle Soldaten unterstehen im Frieden der Strafgerichtsbarkeit der bürgerlichen Gerichte.
 
-**§ 441 (1) StPO.**  
-Liegen hinreichende Gründe für die Annahme vor, dass die Voraussetzungen für die selbständige Anordnung der in den § 22, § 23 und § 220b StGB vorgesehenen vorbeugenden Maßnahmen gegeben seien (§ 65 Abs. 5 StGB), so hat die Staatsanwaltschaft einen Antrag auf Anordnung einer der in diesen Bestimmungen genannten vorbeugenden Maßnahmen zu stellen. Für diesen Antrag gelten die Bestimmungen über die Anklageschrift dem Sinne nach.
+`§ 500 (2) StPO.`  
+Soweit im folgenden nichts anderes bestimmt ist, sind die allgemeinen Vorschriften über das Verfahren in Strafsachen auch auf Soldaten anzuwenden.
 
-**§ 441 (2) StPO.**  
-§ 439 Abs. 1 und 2 sowie § 440 gelten in diesem Fall sinngemäß.
+### § 501 StPO
 
-### § 442 StPO.
+`§ 501 (1) StPO.`  
+Die Durchführung eines Strafverfahrens wegen einer Tat ist nicht allein deshalb unzulässig, weil sie auch als Verstoß gegen eine besondere militärische Dienst- oder Standespflicht von den dafür zuständigen Behörden verfolgt werden kann.
 
-**§ 442 StPO.**  
- Liegt einer der im § 173 Abs. 2 genannten Haftgründe vor, so ist die vorläufige Anhaltung des Betroffenen in einer der im § 441 Abs. 1 genannten Anstalten anzuordnen. § 432 und § 433 gelten sinngemäß.
+`§ 501 (2) StPO.`  
+Wegen eines mit nicht mehr als sechsmonatiger Freiheitsstrafe bedrohten Vergehens nach dem Militärstrafgesetz darf ein Strafverfahren nicht geführt oder ein bereits begonnenes Strafverfahren vorläufig nicht fortgesetzt werden (§ 197), sobald Staatsanwaltschaft oder Gericht von der zuständigen Behörde mitgeteilt wurde, dass wegen der Tat ein militärisches Disziplinarverfahren durchgeführt wird. Handelt es sich um ein mit mehr als sechsmonatiger, aber nicht mehr als zweijähriger Freiheitsstrafe bedrohtes Vergehen nach dem Militärstrafgesetz, so kann die Staatsanwaltschaft oder das Gericht die Einleitung oder Fortsetzung des Verfahrens aufschieben, wenn dies im Hinblick auf ein wegen der Tat durchgeführtes militärisches Disziplinarverfahren zweckmäßig erscheint. Nach Abschluss des Disziplinarverfahrens hat die Staatsanwaltschaft in sinngemäßer Anwendung des § 263 Abs. 4 vorzugehen. Solange ein Verfahren nach diesem Bundesgesetz nicht eingeleitet oder fortgesetzt wird, ruht die Verjährung.
 
-**END-OF-FILE**
+### § 502 StPO
+
+`§ 502 (1) StPO.`  
+Auch militärische Kommanden sowie jene Soldaten, die dem für die militärische Sicherheit und Ordnung im Standort oder in der Unterkunft verantwortlichen Kommandanten (Garnisonskommandanten oder Kasernkommandanten) zum Zwecke der Besorgung dieser Aufgaben unterstellt sind, und, soweit sie nicht schon zu diesem Personenkreis zählen, Wachen können die Festnahme (§ 170) des Beschuldigten vornehmen,  
+`§ 502 (1) Z 1 StPO.`
+wenn der Beschuldigte auf einer militärischen Liegenschaft auf frischer Tat betreten wird oder  
+`§ 502 (1) Z 2 StPO.`
+wenn der Beschuldigte Soldat ist, einer der in § 170 Abs. 1 Z. 2 bis 4 angeführten Umstände vorliegt und wegen Gefahr im Verzug eine vom Gericht bewilligte Anordnung der Staatsanwaltschaft nicht rechtzeitig eingeholt werden kann.
+
+`§ 502 (2) StPO.`  
+§§ 170 Abs. 3 und 172 gelten dem Sinne nach.
+
+### § 503 StPO
+
+`§ 503 (1) StPO.`  
+Von jeder Ladung und von jeder Festnahme oder Freilassung eines Soldaten sowie von der Anordnung des Vollzuges der gegen Soldaten verhängten Freiheitsstrafen ist das unmittelbar vorgesetzte Kommando zu benachrichtigen; die Benachrichtigung von der Ladung hat zu entfallen, wenn diese durch das vorgesetzte Kommando zugestellt wird.
+
+`§ 503 (2) StPO.`  
+Die Einleitung des Strafverfahrens gegen einen Soldaten ist seinem Disziplinarvorgesetzten anzuzeigen. Diesem sind nach rechtskräftiger Beendigung des Strafverfahrens die Akten zur Einsicht zu übersenden.
+
+`§ 503 (3) StPO.`  
+Die Verurteilung eines Wehrpflichtigen der Reserve ist seinem Standeskörper bekanntzugeben.
+
+`§ 503 (4) StPO.`  
+Die bevorstehende Entlassung eines Soldaten aus einer Strafvollzugsanstalt ist von dieser, die Entlassung aus einer Justizanstalt vom Gerichte dem nächstgelegenen militärischen Kommando anzuzeigen, damit die zur Übernahme notwendigen Verfügungen rechtzeitig getroffen werden können.
+
+### § 504 StPO
+
+`§ 504 StPO.`  
+Von Amtshandlungen der Kriminalpolizei, der Staatsanwaltschaft oder des Gerichts auf militärischen Liegenschaften ist der Kommandant vorher in Kenntnis zu setzen; auf sein Verlangen ist ein von ihm beigegebener Soldat zuzuziehen.
+
+### § 505 StPO
+
+`§ 505 StPO.`  
+Ladungen und Anordnungen, Entscheidungen und sonstige Schriftstücke sind Soldaten in der Regel durch das unmittelbar vorgesetzte Kommando zuzustellen. Dieses hat das rechtzeitige Erscheinen des Geladenen zu veranlassen und ihn nötigenfalls auch von Amts wegen zum Termin vorzuführen.
+
+### § 506 StPO
+
+`§ 506 (1) StPO.`  
+Soldaten sind bei ihrer Vernehmung als Beschuldigte, Zeugen oder Sachverständige um ihren Standeskörper und Dienstgrad und, wenn sie als Beschuldigte vernommen werden, auch um den Tag zu befragen, an dem ihr Präsenz- oder Ausbildungsdienst begonnen hat.
+
+`§ 506 (2) StPO.`  
+Der Dienstgrad und der Standeskörper des Beschuldigten sind in allen Schriftstücken, die ihm oder militärischen Stellen (§ 503) zuzustellen sind oder durch die seine Fahndung veranlasst werden soll, anzuführen.
+
+`END-OF-DATA-FILE`

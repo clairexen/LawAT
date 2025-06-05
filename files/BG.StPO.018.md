@@ -2,174 +2,265 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 6. Vorträge der Parteien
+## 2. Verfahren bei Berufungen
 
-### § 255 StPO.
+### § 294 StPO
 
-**§ 255 (1) StPO.**  
-Nachdem der Vorsitzende das Beweisverfahren für geschlossen erklärt hat, erhält zuerst der Ankläger das Wort, um die Ergebnisse der Beweisführung zusammenzufassen und seine Anträge sowohl wegen der Schuld des Angeklagten als auch wegen der gegen ihn anzuwendenden Strafbestimmungen zu stellen und zu begründen. Einen bestimmten Antrag über die Bemessung der Strafe innerhalb des gesetzlichen Strafsatzes hat der Ankläger nicht zu stellen.
+`§ 294 (1) StPO.`  
+Die Berufung ist innerhalb der im § 284 bezeichneten Frist beim Landesgericht anzumelden. Sie hat aufschiebende Wirkung, es sei denn, daß der Angeklagte selbst erklärt, eine Freiheitsstrafe einstweilen antreten zu wollen.
 
-**§ 255 (2) StPO.**  
-Der Privatbeteiligte erhält zunächst nach dem Staatsanwalte das Wort.
+`§ 294 (2) StPO.`  
+Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden. Der Beschwerdeführer hat das Recht, binnen vier Wochen nach der Anmeldung der Berufung, wenn ihm eine Urteilsabschrift aber erst nach der Anmeldung des Rechtsmittels zugestellt wurde, binnen vier Wochen nach der Zustellung eine Ausführung seiner Beschwerdegründe beim Gericht in zweifacher Ausfertigung zu überreichen. Wurde dem Beschwerdeführer für die Ausführung der Nichtigkeitsbeschwerde gemäß § 285 Abs. 2 eine längere Frist gewährt, so gilt diese auch für die Ausführung der Berufung. Er muß entweder in dieser Schrift oder bei der Anmeldung erklären, ob er sich durch den Ausspruch über die Strafe oder durch den Ausspruch über die privatrechtlichen Ansprüche beschwert erachtet, widrigenfalls das Oberlandesgericht darauf keine Rücksicht zu nehmen hat; ist mehr als eine Strafe oder sonstige Unrechtsfolge ausgesprochen worden, so muß der Beschwerdeführer auch erklären, gegen welche von ihnen sich die Berufung richtet. Die Anmeldung, die die Berufungsgründe enthält, oder die rechtzeitig eingebrachte Ausführung ist dem Gegner mit dem Bedeuten mitzuteilen, daß er binnen vier Wochen seine Gegenausführung überreichen könne.
 
-**§ 255 (3) StPO.**  
-Dem Angeklagten und seinem Verteidiger steht das Recht zu, darauf zu antworten. Findet der Staatsanwalt, der Privatankläger oder der Privatbeteiligte hierauf etwas zu erwidern, so gebührt dem Angeklagten und seinem Verteidiger jedenfalls die Schlußrede.
+`§ 294 (3) StPO.`  
+Die Gegenausführung ist dem Beschwerdeführer zuzustellen. Danach sind alle Akten dem Oberlandesgericht vorzulegen, das über die Berufung nur dann in nichtöffentlicher Sitzung berät, wenn der Berichterstatter oder der Oberstaatsanwalt beantragt, die Berufung aus einem der im folgenden Absatz angeführten Gründe zurückzuweisen.
 
-### § 256 StPO.
+`§ 294 (4) StPO.`  
+Das Oberlandesgericht kann die Berufung in nichtöffentlicher Sitzung zurückweisen, wenn sie zu spät angemeldet oder von einer Person ergriffen worden ist, der das Berufungsrecht überhaupt nicht oder nicht in der Richtung zusteht, in der es in Anspruch genommen wird, oder die darauf verzichtet hat; ferner, wenn der Berufungswerber weder bei der Anmeldung der Berufung noch in ihrer Ausführung die Punkte des Erkenntnisses, durch die er sich beschwert findet, deutlich und bestimmt bezeichnet hat, auf die Berufung daher keine Rücksicht zu nehmen ist. Liegt dem Oberlandesgericht eine Verständigung des Verfassungsgerichtshofes vor (§ 285j), so hat der Vorsitzende diesem den Beschluss über die Zurückweisung zu übermitteln.
 
-**§ 256 (1) StPO.**  
-In der Regel ist in den Schlußvorträgen über alle im Urteile zu entscheidenden Fragen ungetrennt zu verhandeln.
+`§ 294 (5) StPO.`  
+Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschieden, so hat der Vorsitzende einen Gerichtstag zur öffentlichen Verhandlung über die Berufung anzuordnen. Für die Anberaumung und Durchführung des Gerichtstages gelten die Bestimmungen der §§ 286 und 287 dem Sinne nach mit der Maßgabe, dass der nicht verhaftete Angeklagte vorzuladen und auch die Vorführung des verhafteten Angeklagten zu veranlassen ist, es sei denn, dieser hätte durch seinen Verteidiger ausdrücklich darauf verzichtet oder es liegt ein Fall des § 286 Abs. 2 zweiter Satz vor. Ist die Berufung gegen den Ausspruch über die privatrechtlichen Ansprüche gerichtet, so ist auch der Privatbeteiligte vorzuladen. Die §§ 233 bis 237 gelten sinngemäß.
 
-**§ 256 (2) StPO.**  
-Doch steht es dem Vorsitzenden oder dem Schöffengericht (§ 238) frei, zu verfügen, daß die Schlußvorträge über die Schuldfrage von denen über die Strafbestimmungen, über die privatrechtlichen Ansprüche und über die Prozeßkosten zu trennen seien. In diesen Fällen werden, nachdem das Schöffengericht über die Schuld des Angeklagten entschieden und seinen Ausspruch verkündet hat, neuerlich Schlußvorträge gehalten, die jedoch auf die noch zu entscheidenden Fragen einzuschränken sind.
-## 7. Urteil des Gerichtshofes
+### § 295 StPO
 
-### § 257 StPO.
+`§ 295 (1) StPO.`  
+Das Oberlandesgericht hat sich bei seiner Entscheidung auf die der Berufung unterzogenen Punkte zu beschränken und dabei den Ausspruch des Gerichtes über die Schuld des Angeklagten und über das anzuwendende Strafgesetz zugrunde zu legen. Setzt es die Strafe zugunsten eines oder mehrerer Mitschuldiger aus Gründen herab, die auch anderen zustatten kommen, so hat es von Amts wegen so vorzugehen, als hätten auch diese Mitschuldigen die Berufung ergriffen.
 
-**§ 257 StPO.**  
- Nachdem der Vorsitzende die Verhandlung für geschlossen erklärt hat, zieht sich das Schöffengericht zur Urteilsfällung in das Beratungszimmer zurück. Der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt.
+`§ 295 (2) StPO.`  
+Ist die Berufung lediglich zugunsten des Angeklagten ergriffen worden, so kann das Oberlandesgericht keine strengere Strafe über den Angeklagten verhängen, als das erste Urteil ausgesprochen hatte. Auf Antrag des Angeklagten oder mit seiner Zustimmung kann jedoch an Stelle einer bedingt nachgesehenen Freiheitsstrafe eine Geldstrafe verhängt werden, die nicht bedingt nachgesehen wird.
 
-### § 258 StPO.
+`§ 295 (3) StPO.`  
+Gegen seine Entscheidung ist kein Rechtsmittel zulässig.
 
-**§ 258 (1) StPO.**  
-Das Gericht hat bei der Urteilsfällung nur auf das Rücksicht zu nehmen, was in der Hauptverhandlung vorgekommen ist. Aktenstücke können nur insoweit als Beweismittel dienen, als sie bei der Hauptverhandlung vorgelesen oder vom Vorsitzenden vorgetragen (§ 252 Abs. 2a) worden sind.
+### § 296 StPO
 
-**§ 258 (2) StPO.**  
-Das Gericht hat die Beweismittel auf ihre Glaubwürdigkeit und Beweiskraft sowohl einzeln als auch in ihrem inneren Zusammenhange sorgfältig und gewissenhaft zu prüfen. Über die Frage, ob eine Tatsache als erwiesen anzunehmen sei, entscheiden die Richter nicht nach gesetzlichen Beweisregeln, sondern nur nach ihrer freien, aus der gewissenhaften Prüfung aller für und wider vorgebrachten Beweismittel gewonnenen Überzeugung.
+`§ 296 (1) StPO.`  
+Ist außer über die Berufung auch über eine Nichtigkeitsbeschwerde zu entscheiden, die von der einen oder der anderen Seite ergriffen worden ist, so sind bei Vorlegung der Akten an den Obersten Gerichtshof auch die Aktenstücke beizulegen, die die Berufung betreffen. In diesem Fall entscheidet der Oberste Gerichtshof, sofern er nicht nach § 285i vorgeht, auch über die Berufung.
 
-**§ 258 (3) StPO.**  
-Bei der Beurteilung der Aussage eines Zeugen, dem nach § 162 gestattet worden ist, bestimmte Fragen nicht zu beantworten, ist insbesondere zu prüfen, ob dem Gericht und den Beteiligten ausreichend Gelegenheit geboten war, sich mit der Glaubwürdigkeit des Zeugen und der Beweiskraft seiner Aussage auseinanderzusetzen.
+`§ 296 (2) StPO.`  
+Der Oberste Gerichtshof berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder der Generalprokurator die Zurückweisung der Berufung aus einem der im § 294 Abs. 4 angeführten Gründe beantragt und nicht über die Nichtigkeitsbeschwerde bei einem Gerichtstag zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde entschieden werden muß.
 
-### § 259 StPO.
+`§ 296 (3) StPO.`  
+Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschieden, so entscheidet der Oberste Gerichtshof über die Berufung beim Gerichtstag zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde. In diesem Fall ist zum Gerichtstag der nicht verhaftete Angeklagte vorzuladen und die Vorführung des verhafteten Angeklagten zu veranlassen, es sei denn, dieser hätte durch seinen Verteidiger ausdrücklich darauf verzichtet oder es liegt ein Fall des § 286 Abs. 2 zweiter Satz vor. Ist die Berufung gegen den Ausspruch über die privatrechtlichen Ansprüche gerichtet, so ist auch der Privatbeteiligte vorzuladen.
 
-**§ 259 StPO.**  
- Der Angeklagte wird durch Urteil des Schöffengerichts von der Anklage freigesprochen:
-**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">wenn sich zeigt, daß das Strafverfahren ohne den Antrag eines gesetzlich berechtigten Anklägers eingeleitet oder gegen dessen Willen fortgesetzt worden sei;</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">wenn der Ankläger nach Eröffnung der Hauptverhandlung und ehe das Schöffengericht sich zur Schöpfung des Urteiles zurückzieht, von der Anklage zurücktritt;</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">wenn das Schöffengericht erkennt, daß die der Anklage zugrunde liegende Tat vom Gesetze nicht mit Strafe bedroht oder der Tatbestand nicht hergestellt oder nicht erwiesen sei, daß der Angeklagte die ihm zur Last gelegte Tat begangen habe, oder daß Umstände vorliegen, durch die die Strafbarkeit aufgehoben oder die Verfolgung aus anderen als den unter Z.&nbsp;1 und 2 angegebenen Gründen ausgeschlossen ist.</span></div></div></li></ol>
+## 3. Gemeinsame Bestimmung
 
-### § 260 StPO.
+### § 296a StPO
 
-**§ 260 (1) StPO.**  
-Wird der Angeklagte schuldig befunden, so muß das Strafurteil aussprechen:
-1. welcher Tat der Angeklagte schuldig befunden worden ist, und zwar unter ausdrücklicher Bezeichnung der einen bestimmten Strafsatz bedingenden Tatumstände;
-2. welche strafbare Handlung durch die als erwiesen angenommenen Tatsachen, deren der Angeklagte schuldig befunden worden ist, begründet wird, unter gleichzeitigem Ausspruch, ob die strafbare Handlung ein Verbrechen oder ein Vergehen ist;
-3. zu welcher Strafe der Angeklagte verurteilt wird;
-und zwar diese drei Punkte bei sonstiger Nichtigkeit; außerdem ist noch beizufügen:
-4. welche strafgesetzlichen Bestimmungen auf ihn angewendet wurden;
-5. die Entscheidung über die geltend gemachten Entschädigungsansprüche und über die Prozeßkosten.
+`§ 296a StPO.`  
+Ist nach der Entscheidung über eine Nichtigkeitsbeschwerde oder Berufung  
+`§ 296a Z 1 StPO.`
+an dem in Untersuchungshaft angehaltenen Angeklagten eine Freiheitsstrafe oder eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme zu vollziehen oder  
+`§ 296a Z 2 StPO.`
+der Angeklagte in Freiheit zu setzen,  
+so hat der Oberste Gerichtshof oder das Oberlandesgericht den Vorsitzenden des Schöffengerichtes davon sogleich unter Anschluß der erforderlichen Angaben zu verständigen, es sei denn, daß im Falle der Z. 2 die Entscheidung bei einem Gerichtstag in Anwesenheit des Angeklagten ergeht (§ 396).
 
-**§ 260 (2) StPO.**  
-Wird der Angeklagte wegen vorsätzlicher und fahrlässiger Taten
-1. zu einer mehr als einjährigen Freiheitsstrafe verurteilt, so ist im Anschluss an den Strafausspruch festzustellen, ob auf eine oder mehrere vorsätzlich begangene Straftaten eine mehr als einjährige Freiheitsstrafe entfällt, oder
-2. zu einer nicht bedingt nachgesehenen Freiheitsstrafe von mehr als sechs Monaten verurteilt, so ist im Anschluss an den Strafausspruch festzustellen, ob auf eine oder mehrere vorsätzlich begangene Straftaten eine nicht bedingt nachgesehene Freiheitsstrafe von mehr als sechs Monaten entfällt.
+## 5. TEIL # Besondere Verfahren # 15. Hauptstück # Hauptverhandlung vor dem Landesgericht als Geschworenengericht und Rechtsmittel gegen dessen Urteile # I. Allgemeine Bestimmungen
 
-**§ 260 (3) StPO.**  
-Ist die im Abs. 2 genannte Feststellung im Strafurteil unterblieben, so ist sie von Amts wegen oder auf Antrag eines zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten mit Beschluß nachzuholen. Gegen diesen Beschluß, der dem Ankläger und dem Angeklagten zuzustellen ist, steht jedem zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten die binnen vierzehn Tagen einzubringende Beschwerde an das Oberlandesgericht zu. Ist außer über die Beschwerde noch über eine von wem immer ergriffene Nichtigkeitsbeschwerde zu entscheiden, so entscheidet der Oberste Gerichtshof auch über die Beschwerde.
+### § 297 StPO
 
-### § 261 StPO.
+`§ 297 StPO.`  
+(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z 92)
 
-**§ 261 (1) StPO.**  
-Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen an sich oder in Verbindung mit den in der Hauptverhandlung hervorgetretenen Umständen eine zur Zuständigkeit des Geschworenengerichtes gehörige strafbare Handlung begründen, so spricht es seine Unzuständigkeit aus.
+### § 298 StPO
 
-**§ 261 (2) StPO.**  
-Sobald dieses Urteil rechtskräftig ist, hat die Staatsanwaltschaft binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts das Ermittlungsverfahren fortzuführen oder die Anordnung der Hauptverhandlung vor dem Geschworenengericht zu beantragen, wenn weitere Ermittlungen nicht erforderlich sind. Im ersten Falle muß eine neue Anklageschrift eingebracht werden; außer diesem Fall aber ist bei der neuen Hauptverhandlung die ursprüngliche Anklageschrift und der nach diesem Paragraphen gefällte Ausspruch des Schöffengerichtes zu verlesen.
+`§ 298 StPO.`  
+(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 92)
 
-### § 262 StPO.
+### § 299 StPO
 
-**§ 262 StPO.**  
- Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen an sich oder in Verbindung mit den erst in der Hauptverhandlung hervorgetretenen Umständen eine andere als die in der Anklage bezeichnete, nicht einem Gerichte höherer Ordnung vorbehaltene strafbare Handlung begründen, so hat es die Beteiligten des Verfahrens über den geänderten rechtlichen Gesichtspunkt zu hören und über einen allfälligen Vertagungsantrag zu entscheiden. Das Urteil schöpft es nach seiner rechtlichen Überzeugung, ohne an die in der Anklageschrift enthaltene Bezeichnung der Tat gebunden zu sein.
+`§ 299 StPO.`  
+(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 92)
 
-### § 263 StPO.
+### § 301 StPO
 
-**§ 263 (1) StPO.**  
-Wird der Angeklagte bei der Hauptverhandlung noch einer anderen Tat beschuldigt, als wegen der er angeklagt ist, so kann das Schöffengericht, wenn sie von Amts wegen zu verfolgen ist, auf Antrag des Staatsanwaltes oder des Opfers, in anderen Fällen aber nur auf Begehren des zur Privatanklage Berechtigten die Verhandlung und das Urteil auch auf diese Tat ausdehnen. Die Zustimmung des Angeklagten ist nur dann erforderlich, wenn er bei seiner Verurteilung wegen dieser Tat unter ein strengeres als das Strafgesetz fiele, das auf die in der Anklageschrift angeführte strafbare Handlung anzuwenden wäre.
+`§ 301 (1) StPO.`  
+Die Mitglieder des Schwurgerichtshofes, die Ersatzrichter und die Reihenfolge ihres Eintrittes werden durch die Geschäftsverteilung bestimmt. Als Vorsitzender und als dessen Ersatzmann sollen nur Richter bestimmt werden, die mindestens fünf Jahre als Richter bei einem Landesgericht in Strafsachen oder als Staatsanwälte tätig gewesen sind.
 
-**§ 263 (2) StPO.**  
-Verweigert in einem solchen Falle der Angeklagte seine Zustimmung zur sofortigen Aburteilung oder kann nicht sofort geurteilt werden, weil eine sorgfältigere Vorbereitung nötig erscheint oder weil das Schöffengericht zur Aburteilung über die hinzugekommene Straftat nicht zuständig ist, so hat sich das Urteil auf den Gegenstand der Anklage zu beschränken und dem Ankläger – auf sein Verlangen – die selbständige Verfolgung wegen der hinzugekommenen Tat vorzubehalten, außer welchem Falle wegen dieser Tat eine Verfolgung nicht mehr zulässig ist.
+`§ 301 (2) StPO.`  
+Die Bildung der Listen, denen die Geschworenen zu entnehmen sind, die Heranziehung der in diesen Listen verzeichneten Personen zum Dienst als Geschworene und die wegen Pflichtverletzungen der Geschworenen zulässigen Maßnahmen regelt ein besonderes Gesetz.
 
-**§ 263 (3) StPO.**  
-Nach Umständen kann das Schöffengericht auch, wenn es über die hinzugekommene Tat nicht sofort aburteilt, die Hauptverhandlung abbrechen und die Entscheidung über alle dem Angeklagten zur Last fallenden Straftaten einer neuen Hauptverhandlung vorbehalten.
+`§ 301 (3) StPO.`  
+§ 221 Abs. 4 ist sinngemäß anzuwenden.
 
-**§ 263 (4) StPO.**  
-In beiden Fällen muss der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts von der Verfolgung zurücktreten (§ 209 Abs. 1), die Anklage einbringen oder das Ermittlungsverfahren fortführen.
+## II. Hauptverhandlung vor dem Geschworenengerichte # 1. Allgemeine Bestimmungen
 
-### § 264 StPO.
+### § 302 StPO
 
-**§ 264 (1) StPO.**  
-Wird gegen den Angeklagten ein Strafurteil gefällt, so steht dessen Vollstreckung der Umstand nicht entgegen, daß die Verfolgung wegen einer anderen Straftat noch vorbehalten ist.
+`§ 302 (1) StPO.`  
+Die Hauptverhandlung richtet sich, soweit in diesem Hauptstücke nichts anderes bestimmt ist, nach den Vorschriften des 14. Hauptstückes. Was dort für das Schöffengericht und den Vorsitzenden bestimmt ist, gilt für den Schwurgerichtshof und dessen Vorsitzenden.
 
-**§ 264 (2) StPO.**  
-Macht der Ankläger von dem im § 263 erwähnten Vorbehalte Gebrauch, so kann das Schöffengericht anordnen, daß die Vollstreckung des unter diesem Vorbehalt erlassenen Urteiles bis zur Entscheidung über die neue Anklage auf sich zu beruhen habe. In diesem Falle sind beide Urteile hinsichtlich der Rechtsmittel so zu behandeln, als wären sie gleichzeitig gefällt worden.
+`§ 302 (2) StPO.`  
+Der Vorsitzende des Schwurgerichtshofes ist insbesondere verpflichtet, den Geschworenen auch außer den Fällen, für die es im Gesetz ausdrücklich vorgeschrieben ist, die zur Ausübung ihres Amtes erforderlichen Anleitungen zu geben und sie nötigenfalls an ihre Pflichten zu erinnern.
 
-### § 265 StPO.
+### § 303 StPO
 
-**§ 265 (1) StPO.**  
-Liegen die zeitlichen Voraussetzungen für die bedingte Entlassung aus einer Freiheitsstrafe infolge Anrechnung einer Vorhaft, einer im Ausland verbüßten Strafe oder des verbüßten Teils einer Freiheitsstrafe, auf die nach §§ 31, 40 StGB Bedacht zu nehmen ist, schon im Zeitpunkt des Urteils vor, so hat das Gericht dem Angeklagten den Rest der Strafe unter Bestimmung einer Probezeit mit Beschluss bedingt nachzusehen, wenn auch die übrigen im § 46 StGB genannten Voraussetzungen vorliegen. Gleiches gilt, wenn die Voraussetzungen im Zeitpunkt der Entscheidung über die Nichtigkeitsbeschwerde oder Berufung vorliegen.
+`§ 303 StPO.`  
+Soweit nach den folgenden Vorschriften der Schwurgerichtshof gemeinsam mit den Geschworenen zu entscheiden hat, richten sich Abstimmung und Beschlußfassung nach den für die Schöffengerichte geltenden Bestimmungen.
 
-**§ 265 (2) StPO.**  
-Für den Beschluß nach Abs. 1 und für das Verfahren nach einer solchen bedingten Entlassung gelten die Bestimmungen des 24. Hauptstückes dem Sinne nach.
+## 2. Beginn der Hauptverhandlung
 
-### § 265a StPO.
+### § 304 StPO
 
-**§ 265a StPO.**  
- (Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 82)
+`§ 304 StPO.`  
+Sobald die Geschworenen ihre Sitze in der alphabetischen Reihenfolge ihrer Namen, Ersatzgeschworene nach den übrigen Geschworenen, eingenommen haben, beginnt die Hauptverhandlung mit dem Aufrufe der Sache durch den Schriftführer. Der Vorsitzende stellt an den Angeklagten die im § 240 vorgeschriebenen Fragen und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung.
 
-### § 265b StPO.
+### § 305 StPO
 
-**§ 265b StPO.**  
- (Aufgehoben)
+`§ 305 (1) StPO.`  
+Hierauf beeidigt der Vorsitzende bei sonstiger Nichtigkeit die Geschworenen, die in demselben Jahre noch nicht beeidigt worden sind. Er gibt die Namen der schon beeidigten Geschworenen bekannt und erinnert diese an die Bedeutung des von ihnen abgelegten Eides. Sodann fordert er die Geschworenen auf, sich von den Sitzen zu erheben, und hält an sie folgende Anrede:
+**FIXME** P: <p class="Abs AlignJustify">„Sie schwören und geloben vor Gott, die Beweise, die gegen und für den Angeklagten werden vorgebracht werden, mit der gewissenhaftesten Aufmerksamkeit zu prüfen, nichts unerwogen zu lassen, was zum Vorteil oder zum Nachteil des Angeklagten gereichen kann, das Gesetz, dem Sie Geltung verschaffen sollen, treu zu beobachten, vor Ihrem Ausspruch über den Gegenstand der Verhandlung mit niemand außer mit den Mitgliedern des Schwurgerichtshofes und Ihren Mitgeschworenen Rücksprache zu nehmen, der Stimme der Zu- oder Abneigung, der Furcht oder der Schadenfreude kein Gehör zu geben, sondern sich mit Unparteilichkeit und Festigkeit nur nach den für und wider den Angeklagten vorgeführten Beweismitteln und Ihrer darauf gegründeten Überzeugung so zu entscheiden, wie Sie es vor Gott und Ihrem Gewissen verantworten können.“</p>
 
-### § 265c StPO.
+`§ 305 (2) StPO.`  
+Sodann wird jeder noch nicht beeidigte Geschworene einzeln vom Vorsitzenden aufgerufen und antwortet: „Ich schwöre, so wahr mir Gott helfe.“ Das Religionsbekenntnis der Geschworenen macht dabei keinen Unterschied. Nur Geschworene, die keinem Religionsbekenntnis angehören oder deren Bekenntnis die Eidesleistung untersagt, werden durch Handschlag verpflichtet.
 
-**§ 265c StPO.**  
- (Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 82)
+`§ 305 (3) StPO.`  
+Die Beeidigung gilt für die Dauer des Kalenderjahres. Sie ist im Verhandlungsprotokoll und fortlaufend in einem besonderen Abschnitte des Buches über die Beeidigung der Schöffen (§ 240a Abs. 3) zu beurkunden.
 
-### § 266 StPO.
+## 3. Beweisverfahren
 
-**§ 266 (1) StPO.**  
-Das Gericht kann im Strafurteil aussprechen, dass eine Anhaltung im elektronisch überwachten Hausarrest (§ 156b StVG) für einen bestimmten, längstens für den im § 46 Abs. 1 StGB genannten Zeitraum nicht in Betracht kommt, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass eine solche Anhaltung nicht genügen werde, um den Verurteilten von weiteren strafbaren Handlungen abzuhalten, oder es ausnahmsweise der Vollstreckung der Strafe in der Anstalt bedarf, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken. § 43 Abs. 1 letzter Satz StGB gilt dabei sinngemäß. Dieser Ausspruch oder sein Unterbleiben bildet einen Teil des Ausspruchs über die Strafe und kann zugunsten und zum Nachteil des Angeklagten mit Berufung angefochten werden.
+### § 306 StPO
 
-**§ 266 (2) StPO.**  
-Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs. 1 gefällt worden wäre, so hat das Gericht diesen aufzuheben.
+`§ 306 StPO.`  
+Nach der Beeidigung der Geschworenen läßt der Vorsitzende durch den Schriftführer die Zeugen und Sachverständigen aufrufen und trifft die im § 241 angeführten Verfügungen. Das Verfahren gegen ungehorsame Zeugen oder Sachverständige richtet sich nach den Vorschriften der §§ 242 und 243.
 
-### § 267 StPO.
+### § 308 StPO
 
-**§ 267 StPO.**  
- An die Anträge des Anklägers ist das Schöffengericht nur insoweit gebunden, daß es den Angeklagten nicht einer Tat schuldig erklären kann, auf die die Anklage weder ursprünglich gerichtet noch während der Hauptverhandlung ausgedehnt wurde (§ 4 Abs. 3).
-## 8. Verkündung und Ausfertigung des Urteiles
+`§ 308 (1) StPO.`  
+Der Vorsitzende vernimmt hierauf den Angeklagten und leitet die Vorführung der Beweismittel unter Beobachtung der in den §§ 245 bis 254 enthaltenen Anordnungen.
 
-### § 268 StPO.
+`§ 308 (2) StPO.`  
+Das Recht der Fragestellung (§ 249) steht auch dem Ersatzrichter und den Geschworenen mit Einschluß der Ersatzgeschworenen zu.
 
-**§ 268 StPO.**  
- Unmittelbar nach dem Beschlusse des Schöffengerichts ist der Angeklagte wieder vorzuführen oder vorzurufen und ist in öffentlicher Sitzung vom Vorsitzenden das Urteil samt dessen wesentlichen Gründen unter Verlesung der angewendeten Gesetzesbestimmungen zu verkünden. Zugleich belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel.
+### § 309 StPO
 
-### § 269 StPO.
+`§ 309 (1) StPO.`  
+Auch Geschworene einschließlich der Ersatzgeschworenen können Beweisaufnahmen zur Aufklärung von erheblichen Tatsachen, die Gegenüberstellung von Zeugen, deren Aussagen voneinander abweichen, und die nochmalige Vernehmung bereits abgehörter Zeugen (§ 251) begehren.
 
-**§ 269 StPO.**  
- Hat sich der Angeklagte zur Urteilsverkündung nicht eingefunden, so kann der Vorsitzende ihn zu diesem Zwecke vorführen lassen oder anordnen, daß ihm das Urteil entweder durch einen hiezu abgeordneten Richter mündlich eröffnet oder in Abschrift zugestellt werde.
+`§ 309 (2) StPO.`  
+Über ein solches Begehren entscheidet der Schwurgerichtshof.
 
-### § 270 StPO.
+## 4. Fragestellung an die Geschworenen
 
-**§ 270 (1) StPO.**  
-Jedes Urteil muß binnen vier Wochen vom Tage der Verkündung schriftlich ausgefertigt und vom Vorsitzenden unterschrieben werden.
+### § 310 StPO
 
-**§ 270 (2) StPO.**  
-Die Urteilsausfertigung muß enthalten:
-1. die Bezeichnung des Gerichtes und die Namen der anwesenden Mitglieder des Schöffengerichts sowie der Beteiligten des Verfahrens;
-2. den Vor- und den Familiennamen sowie alle früher geführten Namen, Tag und Ort der Geburt, die Staatsangehörigkeit und den Beruf des Angeklagten sowie den Namen des Verteidigers;
-3. den Tag der Hauptverhandlung und des ergehenden Urteiles;
-4. den Ausspruch des Schöffengerichts über die Schuld des Angeklagten, und zwar im Fall einer Verurteilung mit allen in § 260 angeführten Punkten; schließlich
-5. die Entscheidungsgründe. In diesen muß in gedrängter Darstellung, aber mit voller Bestimmtheit angegeben sein, welche Tatsachen und aus welchen Gründen das Schöffengericht sie als erwiesen oder als nicht erwiesen angenommen hat, von welchen Erwägungen es bei der Entscheidung der Rechtsfragen und bei Beseitigung der vorgebrachten Einwendungen geleitet wurde und, im Fall einer Verurteilung, welche Erschwerungs- und Milderungsumstände es gefunden hat. Im Falle einer Verurteilung zu einer in Tagessätzen bemessenen Geldstrafe sind die für die Bemessung des Tagessatzes maßgebenden Umstände (§ 19 Abs. 2 StGB) anzugeben. Bei einem freisprechenden Urteile haben die Entscheidungsgründe insbesondere deutlich anzugeben, aus welchem der im § 259 angegebenen Gründe sich das Schöffengericht zur Freisprechung bestimmt gefunden hat.
+`§ 310 (1) StPO.`  
+Nach Schluß des Beweisverfahrens stellt der Vorsitzende nach vorläufiger Beratung des Schwurgerichtshofes die an die Geschworenen zu richtenden Fragen fest. Sie sind schriftlich abzufassen, vom Vorsitzenden zu unterfertigen und bei sonstiger Nichtigkeit vorzulesen. Sowohl dem Ankläger als auch dem Verteidiger ist eine Niederschrift der Fragen zu übergeben.
 
-**§ 270 (3) StPO.**  
-Schreib- und Rechenfehler, ferner solche Formgebrechen und Auslassungen, die nicht die im § 260 Abs. 1 Z. 1 bis 3 und Abs. 2 erwähnten Punkte betreffen, hat der Vorsitzende jederzeit, allenfalls nach Anhörung der Beteiligten, zu berichtigen. Die Zurückweisung eines auf eine solche Berichtigung abzielenden Antrages sowie die vorgenommene Berichtigung können von jedem zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten oder sonst Beteiligten mit der binnen vierzehn Tagen einzubringenden Beschwerde an das Oberlandesgericht angefochten werden. Ist außer über die Beschwerde noch über eine von wem immer ergriffene Nichtigkeitsbeschwerde zu entscheiden, so entscheidet der Oberste Gerichtshof auch über die Beschwerde. Die beschlossene Verbesserung ist am Rande des Urteils beizusetzen und muß allen Ausfertigungen beigefügt werden.
+`§ 310 (2) StPO.`  
+Nach Verlesung der Fragen ist ein Rücktritt des Anklägers von der Anklage nicht mehr zulässig.
 
-**§ 270 (4) StPO.**  
-Verzichten die Beteiligten des Verfahrens auf ein Rechtsmittel oder melden sie innerhalb der dafür offen stehenden Frist kein Rechtsmittel an, so kann das Urteil in gekürzter Form ausgefertigt werden, es sei denn, dass eine zwei Jahre übersteigende Freiheitsstrafe verhängt oder eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme oder ein Tätigkeitsverbot (§ 220b StGB) angeordnet worden ist. Die gekürzte Urteilsausfertigung hat zu enthalten:
-1. die im Abs. 2 enthaltenen Angaben mit Ausnahme der Entscheidungsgründe;
-2. im Fall einer Verurteilung die vom Gericht als erwiesen angenommenen Tatsachen in gedrängter Darstellung sowie die für die Strafbemessung und gegebenenfalls die für die Bemessung des Tagessatzes (§ 19 Abs. 2 StGB) maßgebenden Umstände in Schlagworten;
-3. im Fall eines Freispruchs eine gedrängte Darstellung der dafür maßgebenden Gründe.
+`§ 310 (3) StPO.`  
+Die Parteien sind berechtigt, eine Änderung oder Ergänzung der Fragen zu beantragen. Über einen solchen Antrag entscheidet der Schwurgerichtshof; gibt er ihm statt, so müssen die Fragen von neuem schriftlich abgefaßt, vom Vorsitzenden unterfertigt und bei sonstiger Nichtigkeit nochmals vorgelesen werden.
 
-**END-OF-FILE**
+`§ 310 (4) StPO.`  
+Der Vorsitzende übergibt sodann mindestens zwei Ausfertigungen der Fragen den Geschworenen.
+
+### § 311 StPO
+
+`§ 311 (1) StPO.`  
+Die Fragestellung an die Geschworenen entfällt, wenn der Schwurgerichtshof nach Anhörung der Parteien erkennt, daß der Angeklagte freizusprechen sei, weil einer der im § 259 Z. 1 und 2 erwähnten Fälle vorliegt oder die Verfolgung aus anderen Gründen des Prozeßrechtes ausgeschlossen ist.
+
+`§ 311 (2) StPO.`  
+Kann jedoch über diese Frage nicht entschieden werden, ohne einer den Geschworenen vorbehaltenen Feststellung entscheidender Tatsachen oder der rechtlichen Beurteilung der Tat durch die Geschworenen vorzugreifen, so ist vorerst der Wahrspruch der Geschworenen abzuwarten (§ 337).
+
+### § 312 StPO
+
+`§ 312 (1) StPO.`  
+Die Hauptfrage ist darauf gerichtet, ob der Angeklagte schuldig ist, die der Anklage zugrunde liegende strafbare Handlung begangen zu haben. Dabei sind alle gesetzlichen Merkmale der strafbaren Handlung in die Frage aufzunehmen und die besonderen Umstände der Tat nach Ort, Zeit, Gegenstand usw. soweit beizufügen, als es zur deutlichen Bezeichnung der Tat oder für die Entscheidung über die Entschädigungsansprüche notwendig ist.
+
+`§ 312 (2) StPO.`  
+Treffen in der dem Angeklagten in der Anklage zur Last gelegten Tat die Merkmale mehrerer strafbarer Handlungen zusammen, ohne daß eine in der anderen aufgeht, so ist für jede der zusammentreffenden strafbaren Handlungen eine besondere Hauptfrage zu stellen.
+
+### § 313 StPO
+
+`§ 313 StPO.`  
+Sind in der Hauptverhandlung Tatsachen vorgebracht worden, die – wenn sie als erwiesen angenommen werden – die Strafbarkeit ausschließen oder aufheben würden, so ist eine entsprechende Frage nach dem Strafausschließungs- oder Strafaufhebungsgrunde (Zusatzfrage) zu stellen.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-05')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;94)</span></span></p>
+
+### § 314 StPO
+
+`§ 314 (1) StPO.`  
+Sind in der Hauptverhandlung Tatsachen vorgebracht worden, nach denen – wenn sie als erwiesen angenommen werden – ein eines vollendeten Verbrechens oder Vergehens Angeklagter nur des Versuches schuldig oder ein als unmittelbarer Täter Angeklagter als Täter anzusehen wäre, der einen anderen dazu bestimmt hat, die Tat auszuführen, oder der sonst zu ihrer Ausführung beigetragen hat, oder wonach die dem Angeklagten zur Last gelegte Tat unter ein anderes Strafgesetz fiele, das nicht strenger ist als das in der Anklageschrift angeführte, so sind entsprechende Schuldfragen (Eventualfragen) an die Geschworenen zu stellen.
+
+`§ 314 (2) StPO.`  
+Eine Frage, nach der die dem Angeklagten zur Last gelegte Tat unter ein strengeres Strafgesetz als das in der Anklageschrift angegebene fiele, kann gestellt werden, sofern der Schwurgerichtshof nach Anhörung der Parteien die Vertagung der Hauptverhandlung oder die Ausscheidung des Verfahrens wegen dieser Tat nicht für notwendig erachtet.
+
+### § 315 StPO
+
+`§ 315 (1) StPO.`  
+Ist der Angeklagte in der Hauptverhandlung noch einer anderen als der der Anklageschrift zugrunde liegenden Tat beschuldigt worden oder hat er während der Hauptverhandlung eine strafbare Handlung begangen, so sind die Bestimmungen der §§ 263 und 279 anzuwenden.
+
+`§ 315 (2) StPO.`  
+Ist die Verhandlung auf die neue Tat ausgedehnt worden, so sind auch wegen dieser Tat die entsprechenden Fragen zu stellen. Die Stellung solcher Fragen unterbleibt jedoch, wenn sich in der Hauptverhandlung ergibt, daß eine bessere Vorbereitung der Anklage oder Verteidigung notwendig ist. In diesem Falle hat der Schwurgerichtshof die Hauptverhandlung gegen den Angeklagten, dem die hinzugekommene Tat zur Last gelegt ist, abzubrechen und die Entscheidung über alle diesem Angeklagten zur Last liegenden strafbaren Handlungen einer neuen Hauptverhandlung vorzubehalten oder, falls er diesen Vorgang nicht für zweckmäßig erachtet, dem Ankläger auf dessen Verlangen die Verfolgung wegen der hinzugekommenen Tat im Urteile vorzubehalten.
+
+### § 316 StPO
+
+`§ 316 StPO.`  
+Erschwerungs- und Milderungsumstände sind nur unter der Voraussetzung Gegenstand einer Zusatzfrage an die Geschworenen, daß in der Hauptverhandlung Tatsachen vorgebracht worden sind, die – wenn sie als erwiesen angenommen werden – einen im Gesetze namentlich angeführten Erschwerungs- oder Milderungsumstand begründen würden, der nach dem Gesetze die Anwendung eines anderen Strafsatzes bedingt.
+
+### § 317 StPO
+
+`§ 317 (1) StPO.`  
+Die an die Geschworenen zu richtenden Fragen sind so zu fassen, daß sie sich mit Ja oder Nein beantworten lassen.
+
+`§ 317 (2) StPO.`  
+Welche Tatsachen in einer Frage zusammenzufassen oder zum Gegenstande besonderer Fragen zu machen sind, bleibt ebenso wie die Reihenfolge der Fragen der Beurteilung des Schwurgerichtshofes im einzelnen Fall überlassen.
+
+`§ 317 (3) StPO.`  
+Fragen, die nur für den Fall der Bejahung (Zusatzfragen) oder für den Fall der Verneinung einer anderen Frage (Eventualfragen) gestellt werden, sind als solche ausdrücklich zu bezeichnen.
+
+## 5. Vorträge der Parteien; Schluß der Verhandlung
+
+### § 318 StPO
+
+`§ 318 (1) StPO.`  
+Nach Verlesung der Fragen werden der Ankläger und der Privatbeteiligte, der Angeklagte und sein Verteidiger in der im § 255 bezeichneten Reihenfolge gehört.
+
+`§ 318 (2) StPO.`  
+In den Schlußvorträgen sind alle im Urteile zu entscheidenden Punkte zu behandeln.
+
+### § 319 StPO
+
+`§ 319 StPO.`  
+Hierauf erklärt der Vorsitzende die Verhandlung für geschlossen; der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt.
+
+## 6. Wahl des Obmannes der Geschworenen; Rechtsbelehrung durch den Vorsitzenden
+
+### § 320 StPO
+
+`§ 320 (1) StPO.`  
+Die Geschworenen begeben sich hierauf in das für sie bestimmte Beratungszimmer und wählen einen Obmann aus ihrer Mitte mit einfacher Stimmenmehrheit. Der Schwurgerichtshof zieht sich indessen in sein Beratungszimmer zurück.
+
+`§ 320 (2) StPO.`  
+Der Ersatzrichter und die Ersatzgeschworenen dürfen im Beratungszimmer nur anwesend sein, sofern sie vor Schluß der Verhandlung an die Stelle eines verhinderten Mitgliedes des Geschworenengerichtes getreten sind.
+
+### § 321 StPO
+
+`§ 321 (1) StPO.`  
+Der Vorsitzende verfaßt nach Beratung mit den übrigen Mitgliedern des Schwurgerichtshofes die den Geschworenen zu erteilende Rechtsbelehrung. Das Schriftstück ist von ihm zu unterfertigen und dem Protokoll über die Hauptverhandlung anzuschließen.
+
+`§ 321 (2) StPO.`  
+Die Rechtsbelehrung muß – für jede Frage gesondert – eine Darlegung der gesetzlichen Merkmale der strafbaren Handlung, auf die die Haupt- oder Eventualfrage gerichtet ist, sowie eine Auslegung der in den einzelnen Fragen vorkommenden Ausdrücke des Gesetzes enthalten und das Verhältnis der einzelnen Fragen zueinander sowie die Folgen der Bejahung oder Verneinung jeder Frage klarlegen.
+
+### § 322 StPO
+
+`§ 322 StPO.`  
+Nach Ausfertigung der Rechtsbelehrung begibt sich der Schwurgerichtshof mit dem Schriftführer in das Beratungszimmer der Geschworenen. Der Vorsitzende läßt die Anklageschrift, den gemäß § 244 Abs. 1 vorgelesenen Beschluss des Oberlandesgerichts, die Beweisgegenstände, Augenscheinsprotokolle und die übrigen Akten mit Ausnahme der in der Hauptverhandlung nicht vorgelesenen Vernehmungsprotokolle in das Beratungszimmer schaffen.
+
+### § 323 StPO
+
+`§ 323 (1) StPO.`  
+Im Beratungszimmer der Geschworenen erteilt ihnen der Vorsitzende die Rechtsbelehrung. Weicht er dabei von der Niederschrift (§ 321 Abs. 1) ab oder geht er über sie hinaus, insbesondere wegen Fragen der Geschworenen, so sind die Änderungen und Ergänzungen der Niederschrift über die Rechtsbelehrung in einem Anhange beizufügen, den der Vorsitzende unterfertigt.
+
+`§ 323 (2) StPO.`  
+Im Anschluß an die Rechtsbelehrung bespricht der Vorsitzende mit den Geschworenen die einzelnen Fragen; er führt die in die Fragen aufgenommenen gesetzlichen Merkmale der strafbaren Handlung auf den ihnen zugrunde liegenden Sachverhalt zurück, hebt die für die Beantwortung der Frage entscheidenden Tatsachen hervor, verweist auf die Verantwortung des Angeklagten und auf die in der Hauptverhandlung durchgeführten Beweise, ohne sich in eine Würdigung der Beweismittel einzulassen, und gibt die von den Geschworenen etwa begehrten Aufklärungen. Er bespricht mit den Geschworenen das Wesen der freien Beweiswürdigung (§ 258 Abs. 2). Ist einem Zeugen nach § 162 gestattet worden, bestimmte Fragen nicht zu beantworten, so fordert der Vorsitzende die Geschworenen auf, insbesondere zu prüfen, ob ihnen und den Beteiligten ausreichend Gelegenheit geboten war, sich mit der Glaubwürdigkeit des Zeugen und der Beweiskraft seiner Aussage auseinanderzusetzen. Er belehrt ferner den Obmann der Geschworenen über die ihm obliegenden Aufgaben, insbesondere über den Vorgang bei der Abstimmung und Aufzeichnung ihres Ergebnisses.
+
+`§ 323 (3) StPO.`  
+Am Schlusse seines Vortrages überzeugt sich der Vorsitzende, ob seine Belehrung von den Geschworenen verstanden worden ist, und ergänzt sie, wenn es zur Behebung von Zweifeln erforderlich ist. Er übergibt sodann dem Obmanne der Geschworenen die Niederschrift der Rechtsbelehrung und des allfälligen Anhanges zu ihr.
+
+`END-OF-DATA-FILE`

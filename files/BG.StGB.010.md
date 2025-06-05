@@ -54,7 +54,7 @@ Wer an einer solchen Verbindung sonst teilnimmt oder sie auf eine andere als die
 ### § 247 StGB # Tätige Reue
 
 `§ 247 StGB.`  
- Nach § 246 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, alles, was ihm von der Verbindung und ihren Plänen bekannt ist, zu einer Zeit, da es noch geheim ist, einer solchen Behörde aufdeckt.
+Nach § 246 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, alles, was ihm von der Verbindung und ihren Plänen bekannt ist, zu einer Zeit, da es noch geheim ist, einer solchen Behörde aufdeckt.
 
 ### § 247a StGB # Staatsfeindliche Bewegung
 
@@ -97,22 +97,24 @@ Wer auf eine Art, daß die Tat einer breiten Öffentlichkeit bekannt wird, in ge
 
 `§ 248 (2) StGB.`  
 Wer in der im Abs. 1 bezeichneten Art in gehässiger Weise eine aus einem öffentlichen Anlaß oder bei einer allgemein zugänglichen Veranstaltung gezeigte Fahne der Republik Österreich oder eines ihrer Bundesländer, ein von einer österreichischen Behörde angebrachtes Hoheitszeichen, die Bundeshymne oder eine Landeshymne beschimpft, verächtlich macht oder sonst herabwürdigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+
 ## Fünfzehnter Abschnitt # Angriffe auf oberste Staatsorgane
 
 ### § 249 StGB # Gewalt und gefährliche Drohung gegen den Bundespräsidenten
 
 `§ 249 StGB.`  
- Wer es unternimmt (§ 242 Abs. 2), mit Gewalt oder durch gefährliche Drohung den Bundespräsidenten abzusetzen oder durch eines dieser Mittel zu nötigen oder zu hindern, seine Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+Wer es unternimmt (§ 242 Abs. 2), mit Gewalt oder durch gefährliche Drohung den Bundespräsidenten abzusetzen oder durch eines dieser Mittel zu nötigen oder zu hindern, seine Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 ### § 250 StGB # Nötigung eines verfassungsmäßigen Vertretungskörpers, einer Regierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs
 
 `§ 250 StGB.`  
- Wer es unternimmt (§ 242 Abs. 2), den Nationalrat, den Bundesrat, die Bundesversammlung, die Bundesregierung, einen Landtag, eine Landesregierung, den Verfassungsgerichtshof, den Verwaltungsgerichtshof oder den Obersten Gerichtshof mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder zu hindern, ihre Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+Wer es unternimmt (§ 242 Abs. 2), den Nationalrat, den Bundesrat, die Bundesversammlung, die Bundesregierung, einen Landtag, eine Landesregierung, den Verfassungsgerichtshof, den Verwaltungsgerichtshof oder den Obersten Gerichtshof mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder zu hindern, ihre Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 ### § 251 StGB # Nötigung von Mitgliedern eines verfassungsmäßigen Vertretungskörpers, einer Regierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs oder des Präsidenten des Rechnungshofs oder des Leiters eines Landesrechnungshofs
 
 `§ 251 StGB.`  
- Wer ein Mitglied des Nationalrats, des Bundesrats, der Bundesversammlung, der Bundesregierung, eines Landtags, einer Landesregierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs oder den Präsidenten des Rechnungshofs, den Leiter eines Landesrechnungshofs oder deren Stellvertreter mit Gewalt oder durch gefährliche Drohung nötigt oder hindert, seine Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren und im Fall einer schweren Nötigung (§ 106) mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+Wer ein Mitglied des Nationalrats, des Bundesrats, der Bundesversammlung, der Bundesregierung, eines Landtags, einer Landesregierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs oder den Präsidenten des Rechnungshofs, den Leiter eines Landesrechnungshofs oder deren Stellvertreter mit Gewalt oder durch gefährliche Drohung nötigt oder hindert, seine Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren und im Fall einer schweren Nötigung (§ 106) mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+
 ## Sechzehnter Abschnitt # Landesverrat
 
 ### § 252 StGB # Verrat von Staatsgeheimnissen
@@ -145,12 +147,12 @@ Wer ein Staatsgeheimnis mit dem Vorsatz zurückhält oder sich verschafft, es ei
 ### § 255 StGB # Begriff des Staatsgeheimnisses
 
 `§ 255 StGB.`  
- Staatsgeheimnisse im Sinn dieses Abschnitts sind Tatsachen, Gegenstände oder Erkenntnisse, insbesondere Schriften, Zeichnungen, Modelle und Formeln, und Nachrichten darüber, die nur einem begrenzten Personenkreis zugänglich sind und vor einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung geheimgehalten werden müssen, um die Gefahr eines schweren Nachteils für die Landesverteidigung der Republik Österreich oder für die Beziehungen der Republik Österreich zu einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung hintanzuhalten.
+Staatsgeheimnisse im Sinn dieses Abschnitts sind Tatsachen, Gegenstände oder Erkenntnisse, insbesondere Schriften, Zeichnungen, Modelle und Formeln, und Nachrichten darüber, die nur einem begrenzten Personenkreis zugänglich sind und vor einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung geheimgehalten werden müssen, um die Gefahr eines schweren Nachteils für die Landesverteidigung der Republik Österreich oder für die Beziehungen der Republik Österreich zu einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung hintanzuhalten.
 
 ### § 256 StGB # Geheimer Nachrichtendienst zum Nachteil Österreichs
 
 `§ 256 StGB.`  
- Wer zum Nachteil der Republik Österreich einen geheimen Nachrichtendienst einrichtet oder betreibt oder einen solchen Nachrichtendienst wie immer unterstützt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+Wer zum Nachteil der Republik Österreich einen geheimen Nachrichtendienst einrichtet oder betreibt oder einen solchen Nachrichtendienst wie immer unterstützt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 ### § 257 StGB # Begünstigung feindlicher Streitkräfte
 
@@ -164,23 +166,27 @@ Ebenso ist zu bestrafen, wer während eines Krieges oder eines bewaffneten Konfl
 
 `§ 258 (1) StGB.`  
 Wer  
-`§ 258 (1) Z 1 StGB.` über ein Rechtsverhältnis zwischen der Republik Österreich oder einem ihrer Bundesländer und einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung oder  
-`§ 258 (1) Z 2 StGB.` über eine Tatsache, die für die Beziehungen zwischen der Republik Österreich oder einem ihrer Bundesländer und einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung von Bedeutung ist,  
+`§ 258 (1) Z 1 StGB.`
+über ein Rechtsverhältnis zwischen der Republik Österreich oder einem ihrer Bundesländer und einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung oder  
+`§ 258 (1) Z 2 StGB.`
+über eine Tatsache, die für die Beziehungen zwischen der Republik Österreich oder einem ihrer Bundesländer und einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung von Bedeutung ist,  
 ein falsches Beweismittel herstellt oder ein echtes verfälscht, vernichtet, beschädigt oder beseitigt und dadurch die Interessen der Republik Österreich oder eines ihrer Bundesländer gefährdet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 `§ 258 (2) StGB.`  
 Ebenso ist zu bestrafen, wer von einem solchen falschen oder verfälschten Beweismittel Gebrauch macht und dadurch die Interessen der Republik Österreich oder eines ihrer Bundesländer gefährdet.
+
 ## Siebzehnter Abschnitt # Strafbare Handlungen gegen das Bundesheer
 
 ### § 259 StGB # Beteiligung an militärischen strafbaren Handlungen
 
 `§ 259 StGB.`  
- Wer, ohne Soldat zu sein, einen anderen bestimmt, eine ausschließlich im Militärstrafgesetz mit einer drei Jahre übersteigenden Freiheitsstrafe bedrohte Handlung oder eine der in den §§ 16, 19 und 21 des Militärstrafgesetzes mit Strafe bedrohten Handlungen auszuführen oder sonst zur Ausführung einer solchen Handlung beiträgt, ist mit Freiheitsstrafe bis zu zwei Jahren, wer die Tat aber mit Beziehung auf die im § 18 des Militärstrafgesetzes mit Strafe bedrohte Handlung begeht, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+Wer, ohne Soldat zu sein, einen anderen bestimmt, eine ausschließlich im Militärstrafgesetz mit einer drei Jahre übersteigenden Freiheitsstrafe bedrohte Handlung oder eine der in den §§ 16, 19 und 21 des Militärstrafgesetzes mit Strafe bedrohten Handlungen auszuführen oder sonst zur Ausführung einer solchen Handlung beiträgt, ist mit Freiheitsstrafe bis zu zwei Jahren, wer die Tat aber mit Beziehung auf die im § 18 des Militärstrafgesetzes mit Strafe bedrohte Handlung begeht, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 ### § 260 StGB # Wehrmittelsabotage
 
 `§ 260 StGB.`  
- Wer ein Wehrmittel oder eine Einrichtung oder Anlage, die ausschließlich oder vorwiegend der Landesverteidigung oder dem Schutz der Zivilbevölkerung gegen Kriegsgefahren dient, oder einen dafür bestimmten Werkstoff entgegen einer übernommenen Verpflichtung nicht oder fehlerhaft herstellt oder liefert und dadurch wissentlich die Landesverteidigung, die Schlagkraft des Bundesheeres oder eines Teiles des Bundesheeres oder den Schutz der Zivilbevölkerung gefährdet, ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+Wer ein Wehrmittel oder eine Einrichtung oder Anlage, die ausschließlich oder vorwiegend der Landesverteidigung oder dem Schutz der Zivilbevölkerung gegen Kriegsgefahren dient, oder einen dafür bestimmten Werkstoff entgegen einer übernommenen Verpflichtung nicht oder fehlerhaft herstellt oder liefert und dadurch wissentlich die Landesverteidigung, die Schlagkraft des Bundesheeres oder eines Teiles des Bundesheeres oder den Schutz der Zivilbevölkerung gefährdet, ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
 ## Achtzehnter Abschnitt # Strafbare Handlungen bei Wahlen und Volksabstimmungen; Mandatskauf
 
 ### § 261 StGB # Geltungsbereich
@@ -251,11 +257,11 @@ Wer das Ergebnis einer Wahl oder Volksabstimmung fälscht, ist mit Freiheitsstra
 ### § 267 StGB # Verhinderung einer Wahl oder Volksabstimmung
 
 `§ 267 StGB.`  
- Wer mit Gewalt oder durch gefährliche Drohung eine Wahl, eine Volksabstimmung oder die Feststellung oder Verkündung ihrer Ergebnisse verhindert oder absichtlich stört, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+Wer mit Gewalt oder durch gefährliche Drohung eine Wahl, eine Volksabstimmung oder die Feststellung oder Verkündung ihrer Ergebnisse verhindert oder absichtlich stört, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 ### § 268 StGB # Verletzung des Wahl- oder Volksabstimmungsgeheimnisses
 
 `§ 268 StGB.`  
- Wer einer dem Schutz des Wahl- oder Abstimmungsgeheimnisses dienenden Vorschrift in der Absicht zuwiderhandelt, sich oder einem anderen Kenntnis davon zu verschaffen, wie jemand gewählt oder gestimmt hat, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer einer dem Schutz des Wahl- oder Abstimmungsgeheimnisses dienenden Vorschrift in der Absicht zuwiderhandelt, sich oder einem anderen Kenntnis davon zu verschaffen, wie jemand gewählt oder gestimmt hat, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 `END-OF-DATA-FILE`

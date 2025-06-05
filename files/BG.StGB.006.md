@@ -22,12 +22,12 @@ Der Täter ist nicht zu bestrafen, wenn die Behauptung als wahr erwiesen wird. I
 ### § 112 StGB # Wahrheitsbeweis und Beweis des guten Glaubens
 
 `§ 112 StGB.`  
- Der Wahrheitsbeweis und der Beweis des guten Glaubens sind nur aufzunehmen, wenn sich der Täter auf die Richtigkeit der Behauptung oder auf seinen guten Glauben beruft. Über Tatsachen des Privat- oder Familienlebens und über strafbare Handlungen, die nur auf Verlangen eines Dritten verfolgt werden, sind der Wahrheitsbeweis und der Beweis des guten Glaubens nicht zuzulassen.
+Der Wahrheitsbeweis und der Beweis des guten Glaubens sind nur aufzunehmen, wenn sich der Täter auf die Richtigkeit der Behauptung oder auf seinen guten Glauben beruft. Über Tatsachen des Privat- oder Familienlebens und über strafbare Handlungen, die nur auf Verlangen eines Dritten verfolgt werden, sind der Wahrheitsbeweis und der Beweis des guten Glaubens nicht zuzulassen.
 
 ### § 113 StGB # Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung
 
 `§ 113 StGB.`  
- Wer einem anderen in einer für einen Dritten wahrnehmbaren Weise eine strafbare Handlung vorwirft, für die die Strafe schon vollzogen oder wenn auch nur bedingt nachgesehen oder nachgelassen oder für die der Ausspruch der Strafe vorläufig aufgeschoben worden ist, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+Wer einem anderen in einer für einen Dritten wahrnehmbaren Weise eine strafbare Handlung vorwirft, für die die Strafe schon vollzogen oder wenn auch nur bedingt nachgesehen oder nachgelassen oder für die der Ausspruch der Strafe vorläufig aufgeschoben worden ist, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
 
 ### § 114 StGB # Straflosigkeit wegen Ausübung eines Rechtes oder Nötigung durch besondere Umstände
 
@@ -51,7 +51,7 @@ Wer sich nur durch Entrüstung über das Verhalten eines anderen dazu hinreißen
 ### § 116 StGB # Öffentliche Beleidigung eines verfassungsmäßigen Vertretungskörpers, des Bundesheeres oder einer Behörde
 
 `§ 116 StGB.`  
- Handlungen nach dem § 111 oder dem § 115 sind auch strafbar, wenn sie gegen den Nationalrat, den Bundesrat, die Bundesversammlung oder einen Landtag, gegen das Bundesheer, eine selbständige Abteilung des Bundesheeres oder gegen eine Behörde gerichtet sind und öffentlich begangen werden. Die Bestimmungen der §§ 111 Abs. 3, 112 und 114 gelten auch für solche strafbare Handlungen.
+Handlungen nach dem § 111 oder dem § 115 sind auch strafbar, wenn sie gegen den Nationalrat, den Bundesrat, die Bundesversammlung oder einen Landtag, gegen das Bundesheer, eine selbständige Abteilung des Bundesheeres oder gegen eine Behörde gerichtet sind und öffentlich begangen werden. Die Bestimmungen der §§ 111 Abs. 3, 112 und 114 gelten auch für solche strafbare Handlungen.
 
 ### § 117 StGB # Berechtigung zur Anklage
 
@@ -66,6 +66,8 @@ Der Täter ist wegen einer im § 115 mit Strafe bedrohten Handlung mit Ermächt
 
 `§ 117 (4) StGB.`  
 In den Fällen der Abs. 2 und 3 ist der Verletzte jederzeit berechtigt, sich der Anklage anzuschließen. Verfolgt die Staatsanwaltschaft eine solche strafbare Handlung nicht oder tritt sie von der Verfolgung zurück, so ist der Verletzte selbst zur Anklage berechtigt.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;5 aufgehoben durch <a href="/eli/bgbl/I/2009/98" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2009_I_98', 'BGBl. I Nr. 98/2009', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;98/2009</a>)</span></span></p>
+
 ## Fünfter Abschnitt # Verletzungen der Privatsphäre und bestimmter Berufsgeheimnisse
 
 ### § 118 StGB # Verletzung des Briefgeheimnisses und Unterdrückung von Briefen
@@ -75,8 +77,10 @@ Wer einen nicht zu seiner Kenntnisnahme bestimmten verschlossenen Brief oder ein
 
 `§ 118 (2) StGB.`  
 Ebenso ist zu bestrafen, wer, um sich oder einem anderen Unbefugten Kenntnis vom Inhalt eines nicht zu seiner Kenntnisnahme bestimmten Schriftstücks zu verschaffen,  
-`§ 118 (2) Z 1 StGB.` ein verschlossenes Behältnis, in dem sich ein solches Schriftstück befindet, öffnet oder  
-`§ 118 (2) Z 2 StGB.` ein technisches Mittel anwendet, um seinen Zweck ohne Öffnen des Verschlusses des Schriftstücks oder des Behältnisses (Z. 1) zu erreichen.
+`§ 118 (2) Z 1 StGB.`
+ein verschlossenes Behältnis, in dem sich ein solches Schriftstück befindet, öffnet oder  
+`§ 118 (2) Z 2 StGB.`
+ein technisches Mittel anwendet, um seinen Zweck ohne Öffnen des Verschlusses des Schriftstücks oder des Behältnisses (Z. 1) zu erreichen.
 
 `§ 118 (3) StGB.`  
 Ebenso ist zu bestrafen, wer einen Brief oder ein anderes Schriftstück (Abs. 1) vor Kenntnisnahme durch den Empfänger unterschlägt oder sonst unterdrückt.
@@ -88,8 +92,10 @@ Der Täter ist nur auf Verlangen des Verletzten zu verfolgen. Wird die Tat jedoc
 
 `§ 118a (1) StGB.`  
 Wer sich zu einem Computersystem, über das er nicht oder nicht allein verfügen darf, oder zu einem Teil eines solchen durch Überwindung einer spezifischen Sicherheitsvorkehrung im Computersystem in der Absicht Zugang verschafft,  
-`§ 118a (1) Z 1 StGB.` sich oder einem anderen Unbefugten Kenntnis von personenbezogenen Daten zu verschaffen, deren Kenntnis schutzwürdige Geheimhaltungsinteressen des Betroffenen verletzt, oder  
-`§ 118a (1) Z 2 StGB.` einem anderen durch die Verwendung von im System gespeicherten und nicht für ihn bestimmten Daten, deren Kenntnis er sich verschafft, oder durch die Verwendung des Computersystems einen Nachteil zuzufügen,  
+`§ 118a (1) Z 1 StGB.`
+sich oder einem anderen Unbefugten Kenntnis von personenbezogenen Daten zu verschaffen, deren Kenntnis schutzwürdige Geheimhaltungsinteressen des Betroffenen verletzt, oder  
+`§ 118a (1) Z 2 StGB.`
+einem anderen durch die Verwendung von im System gespeicherten und nicht für ihn bestimmten Daten, deren Kenntnis er sich verschafft, oder durch die Verwendung des Computersystems einen Nachteil zuzufügen,  
 ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 118a (2) StGB.`  
@@ -197,23 +203,31 @@ Wer ein Geschäfts- oder Betriebsgeheimnis mit dem Vorsatz auskundschaftet, daß
 
 `§ 124 (2) StGB.`  
 Ebenso ist zu bestrafen, wer ein Geschäfts- oder Betriebsgeheimnis, zu dessen Wahrung er verpflichtet ist, der Verwertung, Verwendung oder sonstigen Auswertung im Ausland preisgibt.
+
 ## Sechster Abschnitt # Strafbare Handlungen gegen fremdes Vermögen
 
 ### § 125 StGB # Sachbeschädigung
 
 `§ 125 StGB.`  
- Wer eine fremde Sache zerstört, beschädigt, verunstaltet oder unbrauchbar macht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer eine fremde Sache zerstört, beschädigt, verunstaltet oder unbrauchbar macht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 126 StGB # Schwere Sachbeschädigung
 
 `§ 126 (1) StGB.`  
 Mit Freiheitsstrafe bis zu zwei Jahren ist zu bestrafen, wer eine Sachbeschädigung begeht  
-`§ 126 (1) Z 1 StGB.` an einer Sache, die dem Gottesdienst oder der Verehrung durch eine im Inland bestehende Kirche oder Religionsgesellschaft gewidmet ist,  
-`§ 126 (1) Z 2 StGB.` an einem Grab, einer anderen Beisetzungsstätte, einem Grabmal oder an einer Totengedenkstätte, die sich in einem Friedhof oder einem der Religionsübung dienenden Raum befindet,  
-`§ 126 (1) Z 3 StGB.` an einem öffentlichen Denkmal oder an einem Gegenstand, der unter Denkmalschutz steht,  
-`§ 126 (1) Z 4 StGB.` an einer Sache von allgemein anerkanntem wissenschaftlichem, volkskundlichem, künstlerischem oder geschichtlichem Wert, die sich in einer allgemein zugänglichen Sammlung oder sonst an einem solchen Ort oder in einem öffentlichen Gebäude befindet,  
-`§ 126 (1) Z 5 StGB.` an einem wesentlichen Bestandteil der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) oder  
-`§ 126 (1) Z 7 StGB.` durch die der Täter an der Sache einen 5 000 Euro übersteigenden Schaden herbeiführt.
+`§ 126 (1) Z 1 StGB.`
+an einer Sache, die dem Gottesdienst oder der Verehrung durch eine im Inland bestehende Kirche oder Religionsgesellschaft gewidmet ist,  
+`§ 126 (1) Z 2 StGB.`
+an einem Grab, einer anderen Beisetzungsstätte, einem Grabmal oder an einer Totengedenkstätte, die sich in einem Friedhof oder einem der Religionsübung dienenden Raum befindet,  
+`§ 126 (1) Z 3 StGB.`
+an einem öffentlichen Denkmal oder an einem Gegenstand, der unter Denkmalschutz steht,  
+`§ 126 (1) Z 4 StGB.`
+an einer Sache von allgemein anerkanntem wissenschaftlichem, volkskundlichem, künstlerischem oder geschichtlichem Wert, die sich in einer allgemein zugänglichen Sammlung oder sonst an einem solchen Ort oder in einem öffentlichen Gebäude befindet,  
+`§ 126 (1) Z 5 StGB.`
+an einem wesentlichen Bestandteil der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) oder
+**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;6 aufgehoben durch <a href="/eli/bgbl/I/2015/154" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_154', 'BGBl. I Nr. 154/2015', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;154/2015</a>)</span></span></div>  
+`§ 126 (1) Z 7 StGB.`
+durch die der Täter an der Sache einen 5 000 Euro übersteigenden Schaden herbeiführt.
 
 `§ 126 (2) StGB.`  
 Wer durch die Tat an der Sache einen 300 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
@@ -231,9 +245,12 @@ Wer durch die Tat viele Computersysteme unter Verwendung eines Computerprogramms
 
 `§ 126a (4) StGB.`  
 Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer  
-`§ 126a (4) Z 1 StGB.` durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt,  
-`§ 126a (4) Z 2 StGB.` durch die Tat wesentliche Bestandteile der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) beeinträchtigt oder  
-`§ 126a (4) Z 3 StGB.` die Tat als Mitglied einer kriminellen Vereinigung begeht.
+`§ 126a (4) Z 1 StGB.`
+durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt,  
+`§ 126a (4) Z 2 StGB.`
+durch die Tat wesentliche Bestandteile der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) beeinträchtigt oder  
+`§ 126a (4) Z 3 StGB.`
+die Tat als Mitglied einer kriminellen Vereinigung begeht.
 
 ### § 126b StGB # Störung der Funktionsfähigkeit eines Computersystems
 
@@ -248,16 +265,21 @@ Wer durch die Tat viele Computersysteme unter Verwendung eines Computerprogramms
 
 `§ 126b (4) StGB.`  
 Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer  
-`§ 126b (4) Z 1 StGB.` durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt,  
-`§ 126b (4) Z 2 StGB.` die Tat gegen ein Computersystem verübt, das ein wesentlicher Bestandteil der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) ist, oder  
-`§ 126b (4) Z 3 StGB.` die Tat als Mitglied einer kriminellen Vereinigung begeht.
+`§ 126b (4) Z 1 StGB.`
+durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt,  
+`§ 126b (4) Z 2 StGB.`
+die Tat gegen ein Computersystem verübt, das ein wesentlicher Bestandteil der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) ist, oder  
+`§ 126b (4) Z 3 StGB.`
+die Tat als Mitglied einer kriminellen Vereinigung begeht.
 
 ### § 126c StGB # Missbrauch von Computerprogrammen oder Zugangsdaten
 
 `§ 126c (1) StGB.`  
 Wer  
-`§ 126c (1) Z 1 StGB.` ein Computerprogramm, das nach seiner besonderen Beschaffenheit ersichtlich zur Begehung einer Datenbeschädigung (§ 126a), einer Störung der Funktionsfähigkeit eines Computersystems (§ 126b) oder eines betrügerischen Datenverarbeitungsmissbrauchs (§ 148a) geschaffen oder adaptiert worden ist, oder eine vergleichbare solche Vorrichtung oder  
-`§ 126c (1) Z 2 StGB.` ein Computerpasswort, einen Zugangscode oder vergleichbare Daten, die den Zugriff auf ein Computersystem oder einen Teil davon ermöglichen,  
+`§ 126c (1) Z 1 StGB.`
+ein Computerprogramm, das nach seiner besonderen Beschaffenheit ersichtlich zur Begehung einer Datenbeschädigung (§ 126a), einer Störung der Funktionsfähigkeit eines Computersystems (§ 126b) oder eines betrügerischen Datenverarbeitungsmissbrauchs (§ 148a) geschaffen oder adaptiert worden ist, oder eine vergleichbare solche Vorrichtung oder  
+`§ 126c (1) Z 2 StGB.`
+ein Computerpasswort, einen Zugangscode oder vergleichbare Daten, die den Zugriff auf ein Computersystem oder einen Teil davon ermöglichen,  
 mit dem Vorsatz herstellt, einführt, vertreibt, veräußert, sonst zugänglich macht, sich verschafft oder besitzt, dass sie zur Begehung einer der in Z 1 genannten strafbaren Handlungen gebraucht werden, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 `§ 126c (1a) StGB.`  
@@ -272,17 +294,22 @@ Mit Freiheitsstrafe bis zu drei Jahren ist zu bestrafen, wer die Tat nach Abs. 
 ### § 127 StGB # Diebstahl
 
 `§ 127 StGB.`  
- Wer eine fremde bewegliche Sache einem anderen mit dem Vorsatz wegnimmt, sich oder einen Dritten durch deren Zueignung unrechtmäßig zu bereichern, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer eine fremde bewegliche Sache einem anderen mit dem Vorsatz wegnimmt, sich oder einen Dritten durch deren Zueignung unrechtmäßig zu bereichern, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 128 StGB # Schwerer Diebstahl
 
 `§ 128 (1) StGB.`  
 Mit Freiheitsstrafe bis zu drei Jahren ist zu bestrafen, wer einen Diebstahl begeht  
-`§ 128 (1) Z 1 StGB.` während einer Feuersbrunst, einer Überschwemmung oder einer allgemeinen oder doch dem Bestohlenen zugestoßenen Bedrängnis oder unter Ausnützung eines Zustands des Bestohlenen, der ihn hilflos macht,  
-`§ 128 (1) Z 2 StGB.` in einem der Religionsübung dienenden Raum oder an einer Sache, die dem Gottesdienst oder der Verehrung durch eine im Inland bestehende Kirche oder Religionsgesellschaft gewidmet ist,  
-`§ 128 (1) Z 3 StGB.` an einer Sache von allgemein anerkanntem wissenschaftlichem, volkskundlichem, künstlerischem oder geschichtlichem Wert, die sich in einer allgemein zugänglichen Sammlung oder sonst an einem solchen Ort oder in einem öffentlichen Gebäude befindet,  
-`§ 128 (1) Z 4 StGB.` an einem wesentlichen Bestandteil der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) oder  
-`§ 128 (1) Z 5 StGB.` an einer Sache, deren Wert 5 000 Euro übersteigt.
+`§ 128 (1) Z 1 StGB.`
+während einer Feuersbrunst, einer Überschwemmung oder einer allgemeinen oder doch dem Bestohlenen zugestoßenen Bedrängnis oder unter Ausnützung eines Zustands des Bestohlenen, der ihn hilflos macht,  
+`§ 128 (1) Z 2 StGB.`
+in einem der Religionsübung dienenden Raum oder an einer Sache, die dem Gottesdienst oder der Verehrung durch eine im Inland bestehende Kirche oder Religionsgesellschaft gewidmet ist,  
+`§ 128 (1) Z 3 StGB.`
+an einer Sache von allgemein anerkanntem wissenschaftlichem, volkskundlichem, künstlerischem oder geschichtlichem Wert, die sich in einer allgemein zugänglichen Sammlung oder sonst an einem solchen Ort oder in einem öffentlichen Gebäude befindet,  
+`§ 128 (1) Z 4 StGB.`
+an einem wesentlichen Bestandteil der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) oder  
+`§ 128 (1) Z 5 StGB.`
+an einer Sache, deren Wert 5 000 Euro übersteigt.
 
 `§ 128 (2) StGB.`  
 Wer eine Sache stiehlt, deren Wert 300 000 Euro übersteigt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
@@ -291,15 +318,21 @@ Wer eine Sache stiehlt, deren Wert 300 000 Euro übersteigt, ist mit Freiheits
 
 `§ 129 (1) StGB.`  
 Mit Freiheitsstrafe bis zu drei Jahren ist zu bestrafen, wer einen Diebstahl begeht, indem er zur Ausführung der Tat  
-`§ 129 (1) Z 1 StGB.` in ein Gebäude, in ein Transportmittel, einen Lagerplatz oder sonst in einen anderen umschlossenen Raum einbricht, einsteigt, mit einem nachgemachten oder widerrechtlich erlangten Schlüssel, einem anderen nicht zur ordnungsmäßigen Öffnung bestimmten Werkzeug oder einem widerrechtlich erlangten Zugangscode eindringt,  
-`§ 129 (1) Z 2 StGB.` ein Behältnis aufbricht oder mit einem der in Z 1 genannten Mittel öffnet,  
-`§ 129 (1) Z 3 StGB.` eine Sperrvorrichtung aufbricht oder mit einem der in Z 1 genannten Mittel öffnet oder  
-`§ 129 (1) Z 4 StGB.` eine Zugangssperre elektronisch außer Kraft setzt.
+`§ 129 (1) Z 1 StGB.`
+in ein Gebäude, in ein Transportmittel, einen Lagerplatz oder sonst in einen anderen umschlossenen Raum einbricht, einsteigt, mit einem nachgemachten oder widerrechtlich erlangten Schlüssel, einem anderen nicht zur ordnungsmäßigen Öffnung bestimmten Werkzeug oder einem widerrechtlich erlangten Zugangscode eindringt,  
+`§ 129 (1) Z 2 StGB.`
+ein Behältnis aufbricht oder mit einem der in Z 1 genannten Mittel öffnet,  
+`§ 129 (1) Z 3 StGB.`
+eine Sperrvorrichtung aufbricht oder mit einem der in Z 1 genannten Mittel öffnet oder  
+`§ 129 (1) Z 4 StGB.`
+eine Zugangssperre elektronisch außer Kraft setzt.
 
 `§ 129 (2) StGB.`  
 Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer einen Diebstahl begeht,  
-`§ 129 (2) Z 1 StGB.` indem er in eine Wohnstätte auf die in Abs. 1 Z 1 oder 4 genannte Art gelangt oder  
-`§ 129 (2) Z 2 StGB.` bei dem er oder mit seinem Wissen ein anderer Beteiligter (§ 12) eine Waffe oder ein anderes Mittel bei sich führt, um den Widerstand einer Person zu überwinden oder zu verhindern.
+`§ 129 (2) Z 1 StGB.`
+indem er in eine Wohnstätte auf die in Abs. 1 Z 1 oder 4 genannte Art gelangt oder  
+`§ 129 (2) Z 2 StGB.`
+bei dem er oder mit seinem Wissen ein anderer Beteiligter (§ 12) eine Waffe oder ein anderes Mittel bei sich führt, um den Widerstand einer Person zu überwinden oder zu verhindern.
 
 ### § 130 StGB # Gewerbsmäßiger Diebstahl und Diebstahl im Rahmen einer kriminellen Vereinigung
 
@@ -315,7 +348,7 @@ Wer auf die in Abs. 1 bezeichnete Weise einen Diebstahl nach § 129 Abs. 2 be
 ### § 131 StGB # Räuberischer Diebstahl
 
 `§ 131 StGB.`  
- Wer, bei einem Diebstahl auf frischer Tat betreten, Gewalt gegen eine Person anwendet oder sie mit einer gegenwärtigen Gefahr für Leib oder Leben (§ 89) bedroht, um sich oder einem Dritten die weggenommene Sache zu erhalten, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wenn die Gewaltanwendung jedoch eine Körperverletzung mit schweren Dauerfolgen (§ 85) oder den Tod eines Menschen zur Folge hat, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen.
+Wer, bei einem Diebstahl auf frischer Tat betreten, Gewalt gegen eine Person anwendet oder sie mit einer gegenwärtigen Gefahr für Leib oder Leben (§ 89) bedroht, um sich oder einem Dritten die weggenommene Sache zu erhalten, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wenn die Gewaltanwendung jedoch eine Körperverletzung mit schweren Dauerfolgen (§ 85) oder den Tod eines Menschen zur Folge hat, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen.
 
 ### § 132 StGB # Entziehung von Energie
 
@@ -369,24 +402,31 @@ Der Täter ist nicht zu bestrafen, wenn die Berechtigung, über das Fahrzeug zu 
 ### § 137 StGB # Eingriff in fremdes Jagd- oder Fischereirecht
 
 `§ 137 StGB.`  
- Wer unter Verletzung fremden Jagd- oder Fischereirechts dem Wild nachstellt, fischt, Wild oder Fische tötet, verletzt oder sich oder einem Dritten zueignet oder sonst eine Sache, die dem Jagd- oder Fischereirecht eines anderen unterliegt, zerstört, beschädigt oder sich oder einem Dritten zueignet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer unter Verletzung fremden Jagd- oder Fischereirechts dem Wild nachstellt, fischt, Wild oder Fische tötet, verletzt oder sich oder einem Dritten zueignet oder sonst eine Sache, die dem Jagd- oder Fischereirecht eines anderen unterliegt, zerstört, beschädigt oder sich oder einem Dritten zueignet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 138 StGB # Schwerer Eingriff in fremdes Jagd- oder Fischereirecht
 
 `§ 138 StGB.`  
- Mit Freiheitsstrafe bis zu drei Jahren ist zu bestrafen, wer die Tat
-**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">an Wild, an Fischen oder an anderen dem fremden Jagd- oder Fischereirecht unterliegenden Sachen in einem 5&nbsp;000&nbsp;Euro übersteigenden Wert,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">in der Schonzeit oder unter Anwendung von Eisen, von Giftködern, einer elektrischen Fanganlage, eines Sprengstoffs, in einer den Wild- oder Fischbestand gefährdenden Weise oder an Wild unter Anwendung von Schlingen,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">in Begleitung eines Beteiligten (§&nbsp;12) begeht und dabei entweder selbst eine Schußwaffe bei sich führt oder weiß, daß der Beteiligte eine Schußwaffe bei sich führt oder</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">gewerbsmäßig</div></div></li></ol>
-**FIXME** DIV: <div class="SchlussteilE0">begeht.</div>
+Mit Freiheitsstrafe bis zu drei Jahren ist zu bestrafen, wer die Tat  
+`§ 138 Z 1 StGB.`
+an Wild, an Fischen oder an anderen dem fremden Jagd- oder Fischereirecht unterliegenden Sachen in einem 5 000 Euro übersteigenden Wert,  
+`§ 138 Z 2 StGB.`
+in der Schonzeit oder unter Anwendung von Eisen, von Giftködern, einer elektrischen Fanganlage, eines Sprengstoffs, in einer den Wild- oder Fischbestand gefährdenden Weise oder an Wild unter Anwendung von Schlingen,  
+`§ 138 Z 3 StGB.`
+in Begleitung eines Beteiligten (§ 12) begeht und dabei entweder selbst eine Schußwaffe bei sich führt oder weiß, daß der Beteiligte eine Schußwaffe bei sich führt oder  
+`§ 138 Z 4 StGB.`
+gewerbsmäßig  
+begeht.
 
 ### § 139 StGB # Verfolgungsvoraussetzung
 
 `§ 139 StGB.`  
- Begeht der Täter den Eingriff in fremdes Jagdrecht an einem Ort, wo er die Jagd, oder den Eingriff in fremdes Fischereirecht an einem Ort, wo er die Fischerei in beschränktem Umfang ausüben darf, so ist er wegen der nach den §§ 137 und 138 strafbaren Handlungen nur mit Ermächtigung des Jagd- oder Fischereiberechtigten zu verfolgen.
+Begeht der Täter den Eingriff in fremdes Jagdrecht an einem Ort, wo er die Jagd, oder den Eingriff in fremdes Fischereirecht an einem Ort, wo er die Fischerei in beschränktem Umfang ausüben darf, so ist er wegen der nach den §§ 137 und 138 strafbaren Handlungen nur mit Ermächtigung des Jagd- oder Fischereiberechtigten zu verfolgen.
 
 ### § 140 StGB # Gewaltanwendung eines Wilderers
 
 `§ 140 StGB.`  
- Wer, bei einem Eingriff in fremdes Jagd- oder Fischereirecht auf frischer Tat betreten, Gewalt gegen eine Person anwendet oder sie mit einer gegenwärtigen Gefahr für Leib oder Leben (§ 89) bedroht, um sich oder einem Dritten die Beute zu erhalten, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wenn die Gewaltanwendung jedoch eine Körperverletzung mit schweren Dauerfolgen (§ 85) oder den Tod eines Menschen zur Folge hat, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen.
+Wer, bei einem Eingriff in fremdes Jagd- oder Fischereirecht auf frischer Tat betreten, Gewalt gegen eine Person anwendet oder sie mit einer gegenwärtigen Gefahr für Leib oder Leben (§ 89) bedroht, um sich oder einem Dritten die Beute zu erhalten, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wenn die Gewaltanwendung jedoch eine Körperverletzung mit schweren Dauerfolgen (§ 85) oder den Tod eines Menschen zur Folge hat, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen.
 
 ### § 141 StGB # Entwendung
 
@@ -430,14 +470,18 @@ Die Tat ist nicht rechtswidrig, wenn die Anwendung der Gewalt oder Drohung als M
 
 `§ 145 (1) StGB.`  
 Wer eine Erpressung begeht, indem er  
-`§ 145 (1) Z 1 StGB.` mit dem Tod, mit einer erheblichen Verstümmelung oder einer auffallenden Verunstaltung, mit einer Entführung, mit einer Brandstiftung, mit einer Gefährdung durch Kernenergie, ionisierende Strahlen oder Sprengmittel oder mit der Vernichtung der wirtschaftlichen Existenz oder gesellschaftlichen Stellung droht oder  
-`§ 145 (1) Z 2 StGB.` den Genötigten oder einen anderen, gegen den sich die Gewalt oder gefährliche Drohung richtet, durch diese Mittel längere Zeit hindurch in einen qualvollen Zustand versetzt,  
+`§ 145 (1) Z 1 StGB.`
+mit dem Tod, mit einer erheblichen Verstümmelung oder einer auffallenden Verunstaltung, mit einer Entführung, mit einer Brandstiftung, mit einer Gefährdung durch Kernenergie, ionisierende Strahlen oder Sprengmittel oder mit der Vernichtung der wirtschaftlichen Existenz oder gesellschaftlichen Stellung droht oder  
+`§ 145 (1) Z 2 StGB.`
+den Genötigten oder einen anderen, gegen den sich die Gewalt oder gefährliche Drohung richtet, durch diese Mittel längere Zeit hindurch in einen qualvollen Zustand versetzt,  
 ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 `§ 145 (2) StGB.`  
 Ebenso ist zu bestrafen, wer eine Erpressung  
-`§ 145 (2) Z 1 StGB.` gewerbsmäßig begeht oder  
-`§ 145 (2) Z 2 StGB.` gegen dieselbe Person längere Zeit hindurch fortsetzt.
+`§ 145 (2) Z 1 StGB.`
+gewerbsmäßig begeht oder  
+`§ 145 (2) Z 2 StGB.`
+gegen dieselbe Person längere Zeit hindurch fortsetzt.
 
 `§ 145 (3) StGB.`  
 Ebenso ist der Täter zu bestrafen, wenn die Tat einen Selbstmord oder Selbstmordversuch des Genötigten oder eines anderen zur Folge hat, gegen den sich die Gewalt oder gefährliche Drohung richtet.
@@ -445,14 +489,17 @@ Ebenso ist der Täter zu bestrafen, wenn die Tat einen Selbstmord oder Selbstmor
 ### § 146 StGB # Betrug
 
 `§ 146 StGB.`  
- Wer mit dem Vorsatz, durch das Verhalten des Getäuschten sich oder einen Dritten unrechtmäßig zu bereichern, jemanden durch Täuschung über Tatsachen zu einer Handlung, Duldung oder Unterlassung verleitet, die diesen oder einen anderen am Vermögen schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer mit dem Vorsatz, durch das Verhalten des Getäuschten sich oder einen Dritten unrechtmäßig zu bereichern, jemanden durch Täuschung über Tatsachen zu einer Handlung, Duldung oder Unterlassung verleitet, die diesen oder einen anderen am Vermögen schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 ### § 147 StGB # Schwerer Betrug
 
 `§ 147 (1) StGB.`  
 Wer einen Betrug begeht, indem er zur Täuschung  
-`§ 147 (1) Z 1 StGB.` eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfremdetes unbares Zahlungsmittel, ausgespähte Daten eines unbaren Zahlungsmittels, falsche oder verfälschte Daten, ein anderes solches Beweismittel oder ein unrichtiges Meßgerät benützt oder  
-`§ 147 (1) Z 3 StGB.` sich fälschlich für einen Beamten ausgibt,  
+`§ 147 (1) Z 1 StGB.`
+eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfremdetes unbares Zahlungsmittel, ausgespähte Daten eines unbaren Zahlungsmittels, falsche oder verfälschte Daten, ein anderes solches Beweismittel oder ein unrichtiges Meßgerät benützt oder
+**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;2 aufgehoben durch <a href="/eli/bgbl/I/2015/112" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_112', 'BGBl. I Nr. 112/2015', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;112/2015</a>)</span></span></div>  
+`§ 147 (1) Z 3 StGB.`
+sich fälschlich für einen Beamten ausgibt,  
 ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 `§ 147 (1a) StGB.`  
@@ -470,7 +517,7 @@ Wer durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt, ist
 ### § 148 StGB # Gewerbsmäßiger Betrug
 
 `§ 148 StGB.`  
- Wer einen Betrug gewerbsmäßig begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer jedoch einen schweren Betrug nach § 147 Abs. 1 bis 2 gewerbsmäßig begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+Wer einen Betrug gewerbsmäßig begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer jedoch einen schweren Betrug nach § 147 Abs. 1 bis 2 gewerbsmäßig begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 ### § 148a StGB # Betrügerischer Datenverarbeitungsmißbrauch
 
@@ -515,8 +562,10 @@ Wer die Tat zum Nachteil seines Ehegatten, seines eingetragenen Partners, eines 
 
 `§ 151 (1) StGB.`  
 Wer mit dem Vorsatz, sich oder einem anderen eine Versicherungsleistung zu verschaffen,  
-`§ 151 (1) Z 1 StGB.` eine gegen Zerstörung, Beschädigung, Verlust oder Diebstahl versicherte Sache zerstört, beschädigt oder beiseite schafft oder  
-`§ 151 (1) Z 2 StGB.` sich oder einen anderen am Körper verletzt oder an der Gesundheit schädigt oder verletzen oder schädigen läßt, ist, wenn die Tat nicht nach den §§ 146, 147 und 148 mit Strafe bedroht ist, mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+`§ 151 (1) Z 1 StGB.`
+eine gegen Zerstörung, Beschädigung, Verlust oder Diebstahl versicherte Sache zerstört, beschädigt oder beiseite schafft oder  
+`§ 151 (1) Z 2 StGB.`
+sich oder einen anderen am Körper verletzt oder an der Gesundheit schädigt oder verletzen oder schädigen läßt, ist, wenn die Tat nicht nach den §§ 146, 147 und 148 mit Strafe bedroht ist, mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 `§ 151 (2) StGB.`  
 Nach Abs. 1 ist nicht zu bestrafen, wer, bevor die Versicherungsleistung erbracht worden ist und bevor eine Behörde (Abs. 3) von seinem Verschulden erfahren hat, freiwillig von der weiteren Verfolgung seines Vorhabens Abstand nimmt.
@@ -546,7 +595,7 @@ Wer durch die Tat einen 5 000 Euro übersteigenden Schaden herbeiführt, ist m
 ### § 153a StGB # Geschenkannahme durch Machthaber
 
 `§ 153a StGB.`  
- Wer für die Ausübung der ihm durch Gesetz, behördlichen Auftrag oder Rechtsgeschäft eingeräumten Befugnis, über fremdes Vermögen zu verfügen oder einen anderen zu verpflichten, einen nicht bloß geringfügigen Vermögensvorteil angenommen hat und pflichtwidrig nicht abführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+Wer für die Ausübung der ihm durch Gesetz, behördlichen Auftrag oder Rechtsgeschäft eingeräumten Befugnis, über fremdes Vermögen zu verfügen oder einen anderen zu verpflichten, einen nicht bloß geringfügigen Vermögensvorteil angenommen hat und pflichtwidrig nicht abführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 ### § 153b StGB # Förderungsmißbrauch
 
@@ -575,8 +624,10 @@ Trifft die Pflicht zur Einzahlung der Beiträge eines Dienstnehmers zur Sozialve
 
 `§ 153c (3) StGB.`  
 Der Täter ist nicht zu bestrafen, wenn er bis zum Schluss der Verhandlung  
-`§ 153c (3) Z 1 StGB.` die ausstehenden Beiträge zur Gänze einzahlt oder  
-`§ 153c (3) Z 2 StGB.` sich dem berechtigten Sozialversicherungsträger gegenüber vertraglich zur Nachentrichtung der ausstehenden Beiträge binnen einer bestimmten Zeit verpflichtet.
+`§ 153c (3) Z 1 StGB.`
+die ausstehenden Beiträge zur Gänze einzahlt oder  
+`§ 153c (3) Z 2 StGB.`
+sich dem berechtigten Sozialversicherungsträger gegenüber vertraglich zur Nachentrichtung der ausstehenden Beiträge binnen einer bestimmten Zeit verpflichtet.
 
 `§ 153c (4) StGB.`  
 Die Strafbarkeit lebt wieder auf, wenn der Täter seine nach Abs. 3 Z 2 eingegangene Verpflichtung nicht einhält.
@@ -596,9 +647,12 @@ Wer die Tat nach Abs. 1 oder Abs. 2 gewerbsmäßig oder in Bezug auf eine grö
 
 `§ 153e (1) StGB.`  
 Wer gewerbsmäßig  
-`§ 153e (1) Z 1 StGB.` Personen zur selbstständigen oder unselbstständigen Erwerbstätigkeit ohne die erforderliche Anmeldung zur Sozialversicherung oder ohne die erforderliche Gewerbeberechtigung anwirbt, vermittelt oder überlässt,  
-`§ 153e (1) Z 2 StGB.` eine größere Zahl illegal erwerbstätiger Personen (Z 1) beschäftigt oder mit der selbstständigen Durchführung von Arbeiten beauftragt oder  
-`§ 153e (1) Z 3 StGB.` in einer Verbindung einer größeren Zahl illegal erwerbstätiger Personen (Z 1) führend tätig ist,  
+`§ 153e (1) Z 1 StGB.`
+Personen zur selbstständigen oder unselbstständigen Erwerbstätigkeit ohne die erforderliche Anmeldung zur Sozialversicherung oder ohne die erforderliche Gewerbeberechtigung anwirbt, vermittelt oder überlässt,  
+`§ 153e (1) Z 2 StGB.`
+eine größere Zahl illegal erwerbstätiger Personen (Z 1) beschäftigt oder mit der selbstständigen Durchführung von Arbeiten beauftragt oder  
+`§ 153e (1) Z 3 StGB.`
+in einer Verbindung einer größeren Zahl illegal erwerbstätiger Personen (Z 1) führend tätig ist,  
 ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 153e (2) StGB.`  
@@ -614,6 +668,7 @@ Ebenso ist zu bestrafen, wer eine solche Forderung, die auf ihn übergegangen is
 
 `§ 154 (3) StGB.`  
 Wer Geldwucher gewerbsmäßig begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;4 aufgehoben durch <a href="/eli/bgbl/I/2015/112" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_112', 'BGBl. I Nr. 112/2015', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;112/2015</a>)</span></span></p>
 
 ### § 155 StGB # Sachwucher
 
@@ -622,6 +677,7 @@ Wer außer den Fällen des § 154 gewerbsmäßig die Zwangslage, den Leichtsinn
 
 `§ 155 (2) StGB.`  
 Ebenso ist zu bestrafen, wer eine solche Forderung, die auf ihn übergegangen ist, gewerbsmäßig wucherisch verwertet.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;3 aufgehoben durch <a href="/eli/bgbl/I/2015/112" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_112', 'BGBl. I Nr. 112/2015', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;112/2015</a>)</span></span></p>
 
 ### § 156 StGB # Betrügerische Krida
 
@@ -634,7 +690,7 @@ Wer durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt, ist
 ### § 157 StGB # Schädigung fremder Gläubiger
 
 `§ 157 StGB.`  
- Ebenso ist zu bestrafen, wer ohne Einverständnis mit dem Schuldner einen Bestandteil des Vermögens des Schuldners verheimlicht, beiseite schafft, veräußert oder beschädigt oder ein nicht bestehendes Recht gegen das Vermögen des Schuldners geltend macht und dadurch die Befriedigung der Gläubiger oder wenigstens eines von ihnen vereitelt oder schmälert.
+Ebenso ist zu bestrafen, wer ohne Einverständnis mit dem Schuldner einen Bestandteil des Vermögens des Schuldners verheimlicht, beiseite schafft, veräußert oder beschädigt oder ein nicht bestehendes Recht gegen das Vermögen des Schuldners geltend macht und dadurch die Befriedigung der Gläubiger oder wenigstens eines von ihnen vereitelt oder schmälert.
 
 ### § 158 StGB # Begünstigung eines Gläubigers
 
@@ -657,25 +713,36 @@ Ebenso ist zu bestrafen, wer grob fahrlässig (§ 6 Abs. 3) seine wirtschaftli
 
 `§ 159 (4) StGB.`  
 Mit Freiheitsstrafe bis zu zwei Jahren ist zu bestrafen, wer  
-`§ 159 (4) Z 1 StGB.` im Fall des Abs. 1 einen 1 000 000 Euro übersteigenden Befriedigungsausfall seiner Gläubiger oder wenigstens eines von ihnen bewirkt,  
-`§ 159 (4) Z 2 StGB.` im Fall des Abs. 2 einen 1 000 000 Euro übersteigenden zusätzlichen Befriedigungsausfall seiner Gläubiger oder wenigstens eines von ihnen bewirkt oder  
-`§ 159 (4) Z 3 StGB.` durch eine der in den Abs. 1 oder 2 mit Strafe bedrohten Handlungen die wirtschaftliche Existenz vieler Menschen schädigt oder im Fall des Abs. 3 geschädigt hätte.
+`§ 159 (4) Z 1 StGB.`
+im Fall des Abs. 1 einen 1 000 000 Euro übersteigenden Befriedigungsausfall seiner Gläubiger oder wenigstens eines von ihnen bewirkt,  
+`§ 159 (4) Z 2 StGB.`
+im Fall des Abs. 2 einen 1 000 000 Euro übersteigenden zusätzlichen Befriedigungsausfall seiner Gläubiger oder wenigstens eines von ihnen bewirkt oder  
+`§ 159 (4) Z 3 StGB.`
+durch eine der in den Abs. 1 oder 2 mit Strafe bedrohten Handlungen die wirtschaftliche Existenz vieler Menschen schädigt oder im Fall des Abs. 3 geschädigt hätte.
 
 `§ 159 (5) StGB.`  
 Kridaträchtig handelt, wer entgegen Grundsätzen ordentlichen Wirtschaftens  
-`§ 159 (5) Z 1 StGB.` einen bedeutenden Bestandteil seines Vermögens zerstört, beschädigt, unbrauchbar macht, verschleudert oder verschenkt,  
-`§ 159 (5) Z 2 StGB.` durch ein außergewöhnlich gewagtes Geschäft, das nicht zu seinem gewöhnlichen Wirtschaftsbetrieb gehört, durch Spiel oder Wette übermäßig hohe Beträge ausgibt,  
-`§ 159 (5) Z 3 StGB.` übermäßigen, mit seinen Vermögensverhältnissen oder seiner wirtschaftlichen Leistungsfähigkeit in auffallendem Widerspruch stehenden Aufwand treibt,  
-`§ 159 (5) Z 4 StGB.` Geschäftsbücher oder geschäftliche Aufzeichnungen zu führen unterlässt oder so führt, dass ein zeitnaher Überblick über seine wahre Vermögens-, Finanz- und Ertragslage erheblich erschwert wird, oder sonstige geeignete und erforderliche Kontrollmaßnahmen, die ihm einen solchen Überblick verschaffen, unterlässt oder  
-`§ 159 (5) Z 5 StGB.` Jahresabschlüsse, zu deren Erstellung er verpflichtet ist, zu erstellen unterlässt oder auf eine solche Weise oder so spät erstellt, dass ein zeitnaher Überblick über seine wahre Vermögens-, Finanz- und Ertragslage erheblich erschwert wird.
+`§ 159 (5) Z 1 StGB.`
+einen bedeutenden Bestandteil seines Vermögens zerstört, beschädigt, unbrauchbar macht, verschleudert oder verschenkt,  
+`§ 159 (5) Z 2 StGB.`
+durch ein außergewöhnlich gewagtes Geschäft, das nicht zu seinem gewöhnlichen Wirtschaftsbetrieb gehört, durch Spiel oder Wette übermäßig hohe Beträge ausgibt,  
+`§ 159 (5) Z 3 StGB.`
+übermäßigen, mit seinen Vermögensverhältnissen oder seiner wirtschaftlichen Leistungsfähigkeit in auffallendem Widerspruch stehenden Aufwand treibt,  
+`§ 159 (5) Z 4 StGB.`
+Geschäftsbücher oder geschäftliche Aufzeichnungen zu führen unterlässt oder so führt, dass ein zeitnaher Überblick über seine wahre Vermögens-, Finanz- und Ertragslage erheblich erschwert wird, oder sonstige geeignete und erforderliche Kontrollmaßnahmen, die ihm einen solchen Überblick verschaffen, unterlässt oder  
+`§ 159 (5) Z 5 StGB.`
+Jahresabschlüsse, zu deren Erstellung er verpflichtet ist, zu erstellen unterlässt oder auf eine solche Weise oder so spät erstellt, dass ein zeitnaher Überblick über seine wahre Vermögens-, Finanz- und Ertragslage erheblich erschwert wird.
 
 ### § 160 StGB # Umtriebe während einer Geschäftsaufsicht oder im Insolvenzverfahren
 
 `§ 160 (1) StGB.`  
 Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen ist zu bestrafen:  
-`§ 160 (1) Z 1 StGB.` wer eine nicht zu Recht bestehende Forderung oder eine Forderung in einem nicht zu Recht bestehenden Umfang oder Rang geltend macht, um dadurch einen ihm nicht zustehenden Einfluß im Insolvenzverfahren zu erlangen;  
-`§ 160 (1) Z 2 StGB.` ein Gläubiger, der für die Ausübung seines Stimmrechts in einem bestimmten Sinn oder für das Unterlassen der Ausübung seines Stimmrechts für sich oder einen Dritten einen Vermögensvorteil annimmt oder sich versprechen läßt, und auch wer einem Gläubiger zu diesem Zweck einen Vermögensvorteil gewährt oder verspricht;  
-`§ 160 (1) Z 3 StGB.` ein Gläubiger, der für die Zustimmung zum Abschluss eines Sanierungsplans ohne Zustimmung der übrigen Gläubiger für sich oder einen Dritten einen Sondervorteil annimmt oder sich versprechen läßt, und auch wer einem Gläubiger zu diesem Zweck einen Sondervorteil gewährt oder verspricht.
+`§ 160 (1) Z 1 StGB.`
+wer eine nicht zu Recht bestehende Forderung oder eine Forderung in einem nicht zu Recht bestehenden Umfang oder Rang geltend macht, um dadurch einen ihm nicht zustehenden Einfluß im Insolvenzverfahren zu erlangen;  
+`§ 160 (1) Z 2 StGB.`
+ein Gläubiger, der für die Ausübung seines Stimmrechts in einem bestimmten Sinn oder für das Unterlassen der Ausübung seines Stimmrechts für sich oder einen Dritten einen Vermögensvorteil annimmt oder sich versprechen läßt, und auch wer einem Gläubiger zu diesem Zweck einen Vermögensvorteil gewährt oder verspricht;  
+`§ 160 (1) Z 3 StGB.`
+ein Gläubiger, der für die Zustimmung zum Abschluss eines Sanierungsplans ohne Zustimmung der übrigen Gläubiger für sich oder einen Dritten einen Sondervorteil annimmt oder sich versprechen läßt, und auch wer einem Gläubiger zu diesem Zweck einen Sondervorteil gewährt oder verspricht.
 
 `§ 160 (2) StGB.`  
 Ebenso sind eine zur Geschäftsaufsicht bestellte Person, der Insolvenzverwalter und ein Mitglied des Gläubigerausschusses im Insolvenzverfahren zu bestrafen, die für sich oder einen Dritten zum Nachteil der Gläubiger einen ihnen nicht gebührenden Vermögensvorteil annehmen oder sich versprechen lassen.
@@ -699,17 +766,22 @@ Wer durch die Tat einen 5 000 Euro übersteigenden Schaden herbeiführt, ist m
 ### § 163 StGB # Vollstreckungsvereitelung zugunsten eines anderen
 
 `§ 163 StGB.`  
- Ebenso ist zu bestrafen, wer ohne Einverständnis mit dem Schuldner einen Bestandteil des Vermögens des Schuldners verheimlicht, beiseite schafft, veräußert oder beschädigt oder ein nicht bestehendes Recht gegen das Vermögen des Schuldners geltend macht und dadurch die Befriedigung eines Gläubigers durch Zwangsvollstreckung oder in einem anhängigen Zwangsvollstreckungsverfahren vereitelt oder schmälert.
+Ebenso ist zu bestrafen, wer ohne Einverständnis mit dem Schuldner einen Bestandteil des Vermögens des Schuldners verheimlicht, beiseite schafft, veräußert oder beschädigt oder ein nicht bestehendes Recht gegen das Vermögen des Schuldners geltend macht und dadurch die Befriedigung eines Gläubigers durch Zwangsvollstreckung oder in einem anhängigen Zwangsvollstreckungsverfahren vereitelt oder schmälert.
 
 ### § 163a StGB # Unvertretbare Darstellung wesentlicher Informationen über bestimmte Verbände
 
 `§ 163a (1) StGB.`  
 Wer als Entscheidungsträger (§ 2 Abs. 1 Verbandsverantwortlichkeitsgesetz – VbVG, BGBl. I Nr. 151/2005) eines in § 163c angeführten Verbandes oder sonst als von einem Entscheidungsträger mit der Informationsdarstellung Beauftragter in  
-`§ 163a (1) Z 1 StGB.` einem Jahres- oder Konzernabschluss, einem Lage- oder Konzernlagebericht oder einem anderen an die Öffentlichkeit, an die Gesellschafter oder die Mitglieder, an ein aufsichtsberechtigtes Organ oder dessen Vorsitzenden gerichteten Bericht,  
-`§ 163a (1) Z 2 StGB.` einer öffentlichen Aufforderung zur Beteiligung an dem Verband,  
-`§ 163a (1) Z 3 StGB.` einem Vortrag oder einer Auskunft in der Haupt-, General- oder Mitgliederversammlung oder sonst einer Versammlung der Gesellschafter oder Mitglieder des Verbandes,  
-`§ 163a (1) Z 4 StGB.` Aufklärungen und Nachweisen (§ 272 Abs. 2 UGB) oder sonstigen Auskünften, die einem Prüfer (§ 163b Abs. 1) zu geben sind, oder  
-`§ 163a (1) Z 5 StGB.` einer Anmeldung zum Firmenbuch, die die Leistung von Einlagen auf das Gesellschaftskapital betrifft,  
+`§ 163a (1) Z 1 StGB.`
+einem Jahres- oder Konzernabschluss, einem Lage- oder Konzernlagebericht oder einem anderen an die Öffentlichkeit, an die Gesellschafter oder die Mitglieder, an ein aufsichtsberechtigtes Organ oder dessen Vorsitzenden gerichteten Bericht,  
+`§ 163a (1) Z 2 StGB.`
+einer öffentlichen Aufforderung zur Beteiligung an dem Verband,  
+`§ 163a (1) Z 3 StGB.`
+einem Vortrag oder einer Auskunft in der Haupt-, General- oder Mitgliederversammlung oder sonst einer Versammlung der Gesellschafter oder Mitglieder des Verbandes,  
+`§ 163a (1) Z 4 StGB.`
+Aufklärungen und Nachweisen (§ 272 Abs. 2 UGB) oder sonstigen Auskünften, die einem Prüfer (§ 163b Abs. 1) zu geben sind, oder  
+`§ 163a (1) Z 5 StGB.`
+einer Anmeldung zum Firmenbuch, die die Leistung von Einlagen auf das Gesellschaftskapital betrifft,  
 eine die Vermögens-, Finanz- oder Ertragslage des Verbandes betreffende oder für die Beurteilung der künftigen Entwicklung der Vermögens-, Finanz- oder Ertragslage bedeutsame wesentliche Information (§ 189a Z 10 Unternehmensgesetzbuch – UGB, dRGBl. S. 219/1897), einschließlich solcher Umstände, die die Beziehung des Verbandes zu mit ihm verbundenen Unternehmen betreffen, in unvertretbarer Weise falsch oder unvollständig darstellt, ist, wenn dies geeignet ist, einen erheblichen Schaden für den Verband, dessen Gesellschafter, Mitglieder oder Gläubiger oder für Anleger herbeizuführen, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 163a (2) StGB.`  
@@ -725,14 +797,18 @@ Wegen Beteiligung (§§ 12, 14) ist nicht zu bestrafen, wer schon nach § 163b
 
 `§ 163b (1) StGB.`  
 Wer als Abschlussprüfer, Gründungsprüfer, Sonderprüfer, Verschmelzungsprüfer, Spaltungsprüfer, Revisor, Stiftungsprüfer, Mitglied der Prüfungskommission (§ 40 ORF-Gesetz, BGBl. Nr. 379/1984) oder sonst als aufgrund verbandsrechtlicher Bestimmungen bestellter Prüfer mit vergleichbaren Funktionen eines in § 163c angeführten Verbandes in  
-`§ 163b (1) Z 1 StGB.` seinem Prüfungsbericht oder  
-`§ 163b (1) Z 2 StGB.` einem Vortrag oder einer Auskunft in der Haupt-, General- oder Mitgliederversammlung oder sonst einer Versammlung der Gesellschafter oder Mitglieder des Verbandes  
+`§ 163b (1) Z 1 StGB.`
+seinem Prüfungsbericht oder  
+`§ 163b (1) Z 2 StGB.`
+einem Vortrag oder einer Auskunft in der Haupt-, General- oder Mitgliederversammlung oder sonst einer Versammlung der Gesellschafter oder Mitglieder des Verbandes  
 in unvertretbarer Weise wesentliche Informationen (§ 163a Abs. 1) falsch oder unvollständig darstellt oder verschweigt, dass der Jahres- oder Konzernabschluss, der Lage- oder Konzernlagebericht oder sonst der geprüfte Abschluss, Vertrag oder Bericht wesentliche Informationen (§ 163a Abs. 1) in unvertretbarer Weise falsch oder unvollständig darstellt, ist, wenn dies geeignet ist, einen erheblichen Schaden für den Verband, dessen Gesellschafter, Mitglieder oder Gläubiger oder für Anleger herbeizuführen, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 163b (2) StGB.`  
 Ebenso ist zu bestrafen, wer als Prüfer (Abs. 1)  
-`§ 163b (2) Z 1 StGB.` in unvertretbarer Weise einen inhaltlich unrichtigen Bestätigungsvermerk erteilt, wenn dies geeignet ist, einen erheblichen Schaden für den Verband, dessen Gesellschafter, Mitglieder oder Gläubiger oder für Anleger herbeizuführen, oder  
-`§ 163b (2) Z 2 StGB.` einen Bericht nicht erstattet, der angesichts der drohenden Bestandsgefährdung des Verbandes gesetzlich geboten ist.
+`§ 163b (2) Z 1 StGB.`
+in unvertretbarer Weise einen inhaltlich unrichtigen Bestätigungsvermerk erteilt, wenn dies geeignet ist, einen erheblichen Schaden für den Verband, dessen Gesellschafter, Mitglieder oder Gläubiger oder für Anleger herbeizuführen, oder  
+`§ 163b (2) Z 2 StGB.`
+einen Bericht nicht erstattet, der angesichts der drohenden Bestandsgefährdung des Verbandes gesetzlich geboten ist.
 
 `§ 163b (3) StGB.`  
 Nach Abs. 2 Z 1 ist nicht zu bestrafen, wer schon wegen der falschen oder unvollständigen Darstellung nach Abs. 1 mit Strafe bedroht ist. Nach Abs. 1 ist nicht zu bestrafen, wer schon wegen der Nichterstattung des Berichtes nach Abs. 2 Z 2 mit Strafe bedroht ist.
@@ -746,18 +822,46 @@ Wegen Beteiligung (§§ 12, 14) ist nicht zu bestrafen, wer schon nach § 163a
 ### § 163c StGB # Verbände
 
 `§ 163c StGB.`  
- Die §§ 163a und 163b sind auf folgende Verbände anzuwenden:
-**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Gesellschaften mit beschränkter Haftung,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Aktiengesellschaften,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Europäische Gesellschaften (SE),</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Genossenschaften,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">5.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Europäische Genossenschaften (SCE),</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">6.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Versicherungsvereine auf Gegenseitigkeit,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">7.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">große Vereine im Sinne des §&nbsp;22 Abs.&nbsp;2 des Vereinsgesetzes&nbsp;2002, <a href="/Dokumente/BgblPdf/2002_66_1/2002_66_1.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '2002_66_1', 'BGBl. I Nr. 66/2002', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;66/2002</a>,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">8.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">offene Gesellschaften und Kommanditgesellschaften im Sinne des §&nbsp;189 Abs.&nbsp;1 Z&nbsp;2 lit.&nbsp;a UGB,</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">9.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Sparkassen,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">10.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Privatstiftungen,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">11.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die Stiftung nach dem ORF-Gesetz und</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">12.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">den in Z&nbsp;1 bis 11 genannten Verbänden vergleichbare ausländische Verbände, deren übertragbare Wertpapiere zum Handel an einem geregelten Markt im Inland zugelassen sind oder die im Hinblick auf eine Zweigniederlassung im Inland im Firmenbuch eingetragen sind (§&nbsp;12 UGB).</span></div></div></li></ol>
+Die §§ 163a und 163b sind auf folgende Verbände anzuwenden:  
+`§ 163c Z 1 StGB.`
+Gesellschaften mit beschränkter Haftung,  
+`§ 163c Z 2 StGB.`
+Aktiengesellschaften,  
+`§ 163c Z 3 StGB.`
+Europäische Gesellschaften (SE),  
+`§ 163c Z 4 StGB.`
+Genossenschaften,  
+`§ 163c Z 5 StGB.`
+Europäische Genossenschaften (SCE),  
+`§ 163c Z 6 StGB.`
+Versicherungsvereine auf Gegenseitigkeit,  
+`§ 163c Z 7 StGB.`
+große Vereine im Sinne des § 22 Abs. 2 des Vereinsgesetzes 2002, BGBl. I Nr. 66/2002,  
+`§ 163c Z 8 StGB.`
+offene Gesellschaften und Kommanditgesellschaften im Sinne des § 189 Abs. 1 Z 2 lit. a UGB,  
+`§ 163c Z 9 StGB.`
+Sparkassen,  
+`§ 163c Z 10 StGB.`
+Privatstiftungen,  
+`§ 163c Z 11 StGB.`
+die Stiftung nach dem ORF-Gesetz und  
+`§ 163c Z 12 StGB.`
+den in Z 1 bis 11 genannten Verbänden vergleichbare ausländische Verbände, deren übertragbare Wertpapiere zum Handel an einem geregelten Markt im Inland zugelassen sind oder die im Hinblick auf eine Zweigniederlassung im Inland im Firmenbuch eingetragen sind (§ 12 UGB).
 
 ### § 163d StGB # Tätige Reue
 
 `§ 163d (1) StGB.`  
 Nach § 163a ist nicht zu bestrafen, wer freiwillig die falschen Angaben richtig stellt oder die fehlenden Angaben nachträgt,  
-`§ 163d (1) Z 1 StGB.` im Fall eines Berichts an ein aufsichtsberechtigtes Organ (Abs. 1 Z 1), bevor die Sitzung des Organs beendet ist,  
-`§ 163d (1) Z 2 StGB.` in den Fällen des Abs. 1 Z 2, bevor sich jemand an dem Verband beteiligt hat,  
-`§ 163d (1) Z 3 StGB.` in den Fällen des Abs. 1 Z 3, bevor die Haupt-,General- oder Mitgliederversammlung oder sonst die Versammlung der Gesellschafter oder Mitglieder des Verbandes beendet ist,  
-`§ 163d (1) Z 4 StGB.` in den Fällen des Abs. 1 Z 4, bevor der betreffende Prüfer seinen Bericht vorgelegt hat, sowie  
-`§ 163d (1) Z 5 StGB.` in den Fällen des Abs. 1 Z 5, bevor die Eintragung im Firmenbuch angeordnet worden ist.
+`§ 163d (1) Z 1 StGB.`
+im Fall eines Berichts an ein aufsichtsberechtigtes Organ (Abs. 1 Z 1), bevor die Sitzung des Organs beendet ist,  
+`§ 163d (1) Z 2 StGB.`
+in den Fällen des Abs. 1 Z 2, bevor sich jemand an dem Verband beteiligt hat,  
+`§ 163d (1) Z 3 StGB.`
+in den Fällen des Abs. 1 Z 3, bevor die Haupt-,General- oder Mitgliederversammlung oder sonst die Versammlung der Gesellschafter oder Mitglieder des Verbandes beendet ist,  
+`§ 163d (1) Z 4 StGB.`
+in den Fällen des Abs. 1 Z 4, bevor der betreffende Prüfer seinen Bericht vorgelegt hat, sowie  
+`§ 163d (1) Z 5 StGB.`
+in den Fällen des Abs. 1 Z 5, bevor die Eintragung im Firmenbuch angeordnet worden ist.
 
 `§ 163d (2) StGB.`  
 Nach § 163b Abs. 1 Z 2 ist nicht zu bestrafen, wer freiwillig die verschwiegenen Angaben nachträgt, bevor die Haupt-,General- oder Mitgliederversammlung oder sonst die Versammlung der Gesellschafter oder Mitglieder des Verbandes beendet ist.
@@ -789,8 +893,10 @@ Wer eine Tat nach Abs. 5 begeht, ist nicht zu bestrafen, wenn die Vortat zum Na
 
 `§ 165 (1) StGB.`  
 Wer  
-`§ 165 (1) Z 1 StGB.` Vermögensbestandteile, die aus einer kriminellen Tätigkeit (Abs. 5) herrühren, mit dem Vorsatz, ihren illegalen Ursprung zu verheimlichen oder zu verschleiern oder eine andere Person, die an einer solchen kriminellen Tätigkeit beteiligt ist, zu unterstützen, damit diese den Rechtsfolgen ihrer Tat entgeht, umwandelt oder einem anderen überträgt, oder  
-`§ 165 (1) Z 2 StGB.` die wahre Natur, Herkunft, Lage, Verfügung oder Bewegung von Vermögensbestandteilen, die aus einer kriminellen Tätigkeit (Abs. 5) herrühren, verheimlicht oder verschleiert,  
+`§ 165 (1) Z 1 StGB.`
+Vermögensbestandteile, die aus einer kriminellen Tätigkeit (Abs. 5) herrühren, mit dem Vorsatz, ihren illegalen Ursprung zu verheimlichen oder zu verschleiern oder eine andere Person, die an einer solchen kriminellen Tätigkeit beteiligt ist, zu unterstützen, damit diese den Rechtsfolgen ihrer Tat entgeht, umwandelt oder einem anderen überträgt, oder  
+`§ 165 (1) Z 2 StGB.`
+die wahre Natur, Herkunft, Lage, Verfügung oder Bewegung von Vermögensbestandteilen, die aus einer kriminellen Tätigkeit (Abs. 5) herrühren, verheimlicht oder verschleiert,  
 ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 `§ 165 (2) StGB.`  
@@ -804,8 +910,10 @@ Wer die Tat in Bezug auf einen Vermögensbestandteil, dessen Wert 50 000 Euro 
 
 `§ 165 (5) StGB.`  
 Kriminelle Tätigkeiten sind mit mehr als einjähriger Freiheitsstrafe oder nach den §§ 223, 229, 289, 293, 295 oder den §§ 27 oder 30 des Suchtmittelgesetzes mit Strafe bedrohte Handlungen, wenn sie  
-`§ 165 (5) Z 1 StGB.` den österreichischen Strafgesetzen unterliegen und rechtswidrig begangen wurden oder  
-`§ 165 (5) Z 2 StGB.` im Ausland begangen wurden, ohne den österreichischen Strafgesetzen zu unterliegen, aber sowohl nach den österreichischen Strafgesetzen als auch – sofern es sich nicht um Taten nach Art. 2 Z 1 lit. a bis e und h der Richtlinie (EU) 2018/1673 über die strafrechtliche Bekämpfung der Geldwäsche, ABl. Nr. L 284 vom 12.11.2018 S 22, und geltendem Unionsrecht handelt – nach den Gesetzen des Tatorts den Tatbestand einer mit gerichtlicher Strafe bedrohten Handlung erfüllen und rechtswidrig begangen wurden. Es ist weder erforderlich, dass der Täter wegen der kriminellen Tätigkeit verurteilt werden kann, noch dass alle Sachverhaltselemente oder alle Umstände im Zusammenhang mit dieser Tätigkeit, wie etwa die Identität des Täters, feststehen.
+`§ 165 (5) Z 1 StGB.`
+den österreichischen Strafgesetzen unterliegen und rechtswidrig begangen wurden oder  
+`§ 165 (5) Z 2 StGB.`
+im Ausland begangen wurden, ohne den österreichischen Strafgesetzen zu unterliegen, aber sowohl nach den österreichischen Strafgesetzen als auch – sofern es sich nicht um Taten nach Art. 2 Z 1 lit. a bis e und h der Richtlinie (EU) 2018/1673 über die strafrechtliche Bekämpfung der Geldwäsche, ABl. Nr. L 284 vom 12.11.2018 S 22, und geltendem Unionsrecht handelt – nach den Gesetzen des Tatorts den Tatbestand einer mit gerichtlicher Strafe bedrohten Handlung erfüllen und rechtswidrig begangen wurden. Es ist weder erforderlich, dass der Täter wegen der kriminellen Tätigkeit verurteilt werden kann, noch dass alle Sachverhaltselemente oder alle Umstände im Zusammenhang mit dieser Tätigkeit, wie etwa die Identität des Täters, feststehen.
 
 `§ 165 (6) StGB.`  
 Vermögensbestandteile sind Vermögenswerte aller Art, ob körperlich oder unkörperlich, beweglich oder unbeweglich, materiell oder immateriell, und Rechtstitel oder Urkunden in jeder – einschließlich elektronischer oder digitaler – Form, die das Eigentumsrecht oder Rechte an solchen Vermögenswerten belegen, weiters Einheiten virtueller Währungen und die auf diese entfallenden Wertzuwächse oder durch diese belegte Rechte, nicht aber bloße Ersparnisse, wie etwa nicht eingetretene Wertverluste, Forderungsverzichte oder ersparte Aus- und Abgaben.
@@ -839,8 +947,10 @@ Die Strafbarkeit wegen Sachbeschädigung, Datenbeschädigung, Störung der Funkt
 
 `§ 167 (2) StGB.`  
 Dem Täter kommt tätige Reue zustatten, wenn er, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, wenngleich auf Andringen des Verletzten, so doch ohne hiezu gezwungen zu sein,  
-`§ 167 (2) Z 1 StGB.` den ganzen aus seiner Tat entstandenen Schaden gutmacht oder  
-`§ 167 (2) Z 2 StGB.` sich vertraglich verpflichtet, dem Verletzten binnen einer bestimmten Zeit solche Schadensgutmachung zu leisten. In letzterem Fall lebt die Strafbarkeit wieder auf, wenn der Täter seine Verpflichtung nicht einhält.
+`§ 167 (2) Z 1 StGB.`
+den ganzen aus seiner Tat entstandenen Schaden gutmacht oder  
+`§ 167 (2) Z 2 StGB.`
+sich vertraglich verpflichtet, dem Verletzten binnen einer bestimmten Zeit solche Schadensgutmachung zu leisten. In letzterem Fall lebt die Strafbarkeit wieder auf, wenn der Täter seine Verpflichtung nicht einhält.
 
 `§ 167 (3) StGB.`  
 Der Täter ist auch nicht zu bestrafen, wenn er den ganzen aus seiner Tat entstandenen Schaden im Zug einer Selbstanzeige, die der Behörde (§ 151 Abs. 3) sein Verschulden offenbart, durch Erlag bei dieser Behörde gutmacht.
@@ -860,9 +970,12 @@ Wer sich gewerbsmäßig an einem solchen Spiel beteiligt, ist mit Freiheitsstraf
 
 `§ 168a (1) StGB.`  
 Wer ein Gewinnerwartungssystem, dessen Teilnehmern gegen Einsatz ein Vermögensvorteil unter der Bedingung in Aussicht gestellt wird, daß diesem oder einem damit im Zusammenhang stehenden System unter den gleichen Bedingungen weitere Teilnehmer zugeführt werden, und bei dem die Erlangung des Vermögensvorteils ganz oder teilweise vom bedingungsgemäßen Verhalten jeweils weiterer Teilnehmer abhängt (Ketten- oder Pyramidenspiel),  
-`§ 168a (1) Z 1 StGB.` in Gang setzt oder veranstaltet oder  
-`§ 168a (1) Z 2 StGB.` durch Zusammenkünfte, Prospekte oder auf eine andere zur Anwerbung vieler Teilnehmer geeignete Weise verbreitet oder  
-`§ 168a (1) Z 3 StGB.` sonst die Verbreitung eines solchen Systems gewerbsmäßig fördert,  
+`§ 168a (1) Z 1 StGB.`
+in Gang setzt oder veranstaltet oder  
+`§ 168a (1) Z 2 StGB.`
+durch Zusammenkünfte, Prospekte oder auf eine andere zur Anwerbung vieler Teilnehmer geeignete Weise verbreitet oder  
+`§ 168a (1) Z 3 StGB.`
+sonst die Verbreitung eines solchen Systems gewerbsmäßig fördert,  
 ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen, es sei denn, daß das System bloß zu gemeinnützigen Zwecken veranstaltet wird oder bloß Einsätze geringen Wertes verlangt werden.
 
 `§ 168a (2) StGB.`  
@@ -880,8 +993,10 @@ Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig verhindert, dass der Auftrag
 
 `§ 168f (1) StGB.`  
 Wer in Bezug auf Ausgaben, die nicht in Zusammenhang mit einer Auftragsvergabe (Abs. 5) stehen, Mittel oder Vermögenswerte aus dem Gesamthaushalt der Europäischen Union oder aus den Haushalten, die von der Europäischen Union oder in deren Auftrag verwaltet werden,  
-`§ 168f (1) Z 1 StGB.` unter Verwendung oder Vorlage falscher, unrichtiger oder unvollständiger Erklärungen oder Unterlagen oder unter Verletzung einer spezifischen Informationspflicht unrechtmäßig erlangt oder zurückbehält, oder  
-`§ 168f (1) Z 2 StGB.` zu anderen Zwecken als jenen, für die sie ursprünglich gewährt wurden, missbräuchlich verwendet,  
+`§ 168f (1) Z 1 StGB.`
+unter Verwendung oder Vorlage falscher, unrichtiger oder unvollständiger Erklärungen oder Unterlagen oder unter Verletzung einer spezifischen Informationspflicht unrechtmäßig erlangt oder zurückbehält, oder  
+`§ 168f (1) Z 2 StGB.`
+zu anderen Zwecken als jenen, für die sie ursprünglich gewährt wurden, missbräuchlich verwendet,  
 ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 `§ 168f (2) StGB.`  

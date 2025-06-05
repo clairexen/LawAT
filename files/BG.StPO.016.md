@@ -2,200 +2,239 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 4. TEIL | Haupt- und Rechtsmittelverfahren | 12. Hauptstück | Die Anklage | 1. Abschnitt | Allgemeines
+## 8. Verkündung und Ausfertigung des Urteiles
 
-### § 210 StPO. Die Anklage
+### § 268 StPO
 
-**§ 210 (1) StPO.**  
-Wenn auf Grund ausreichend geklärten Sachverhalts eine Verurteilung nahe liegt und kein Grund für die Einstellung des Verfahrens oder den Rücktritt von Verfolgung vorliegt, hat die Staatsanwaltschaft bei dem für das Hauptverfahren zuständigen Gericht Anklage einzubringen; beim Landesgericht als Geschworenen- oder Schöffengericht mit Anklageschrift, beim Landesgericht als Einzelrichter und beim Bezirksgericht mit Strafantrag.
+`§ 268 StPO.`  
+Unmittelbar nach dem Beschlusse des Schöffengerichts ist der Angeklagte wieder vorzuführen oder vorzurufen und ist in öffentlicher Sitzung vom Vorsitzenden das Urteil samt dessen wesentlichen Gründen unter Verlesung der angewendeten Gesetzesbestimmungen zu verkünden. Zugleich belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel.
 
-**§ 210 (2) StPO.**  
-Durch das Einbringen der Anklage beginnt das Hauptverfahren, dessen Leitung dem Gericht obliegt. Die Staatsanwaltschaft wird zur Beteiligten des Verfahrens.
+### § 269 StPO
 
-**§ 210 (3) StPO.**  
-Die Festnahme des Angeklagten ist auf Antrag der Staatsanwaltschaft vom Gericht anzuordnen, auch andere Zwangsmittel und Beweisaufnahmen, die im Ermittlungsverfahren einer Anordnung oder Genehmigung der Staatsanwaltschaft bedürfen, sind nach Einbringen der Anklage durch das Gericht anzuordnen oder zu bewilligen. Die Durchführung obliegt weiterhin der Kriminalpolizei; Berichte und Verständigungen hat sie an das Gericht zu richten. Anträge auf Einstellung des Verfahrens (§ 108) sind nach dem Einbringen der Anklage nicht mehr zulässig, bereits eingebrachte werden gegenstandslos.
+`§ 269 StPO.`  
+Hat sich der Angeklagte zur Urteilsverkündung nicht eingefunden, so kann der Vorsitzende ihn zu diesem Zwecke vorführen lassen oder anordnen, daß ihm das Urteil entweder durch einen hiezu abgeordneten Richter mündlich eröffnet oder in Abschrift zugestellt werde.
 
-**§ 210 (4) StPO.**  
-Außerhalb der Hauptverhandlung bestimmt sich die Zuständigkeit des Landesgerichts als Geschworenen- oder Schöffengericht nach § 32 Abs. 3.
-## 2. Abschnitt | Die Anklageschrift
+### § 270 StPO
 
-### § 211 StPO. Inhalt der Anklageschrift
+`§ 270 (1) StPO.`  
+Jedes Urteil muß binnen vier Wochen vom Tage der Verkündung schriftlich ausgefertigt und vom Vorsitzenden unterschrieben werden.
 
-**§ 211 (1) StPO.**  
-Die Anklageschrift hat anzuführen:
-1. den Namen des Angeklagten sowie weitere Angaben zur Person,
-2. Zeit, Ort und die näheren Umstände der Begehung der dem Angeklagten zur Last gelegten Tat und die gesetzliche Bezeichnung der durch sie verwirklichten strafbaren Handlung,
-3. die übrigen anzuwendenden Strafgesetze.
+`§ 270 (2) StPO.`  
+Die Urteilsausfertigung muß enthalten:  
+`§ 270 (2) Z 1 StPO.`
+die Bezeichnung des Gerichtes und die Namen der anwesenden Mitglieder des Schöffengerichts sowie der Beteiligten des Verfahrens;  
+`§ 270 (2) Z 2 StPO.`
+den Vor- und den Familiennamen sowie alle früher geführten Namen, Tag und Ort der Geburt, die Staatsangehörigkeit und den Beruf des Angeklagten sowie den Namen des Verteidigers;  
+`§ 270 (2) Z 3 StPO.`
+den Tag der Hauptverhandlung und des ergehenden Urteiles;  
+`§ 270 (2) Z 4 StPO.`
+den Ausspruch des Schöffengerichts über die Schuld des Angeklagten, und zwar im Fall einer Verurteilung mit allen in § 260 angeführten Punkten; schließlich  
+`§ 270 (2) Z 5 StPO.`
+die Entscheidungsgründe. In diesen muß in gedrängter Darstellung, aber mit voller Bestimmtheit angegeben sein, welche Tatsachen und aus welchen Gründen das Schöffengericht sie als erwiesen oder als nicht erwiesen angenommen hat, von welchen Erwägungen es bei der Entscheidung der Rechtsfragen und bei Beseitigung der vorgebrachten Einwendungen geleitet wurde und, im Fall einer Verurteilung, welche Erschwerungs- und Milderungsumstände es gefunden hat. Im Falle einer Verurteilung zu einer in Tagessätzen bemessenen Geldstrafe sind die für die Bemessung des Tagessatzes maßgebenden Umstände (§ 19 Abs. 2 StGB) anzugeben. Bei einem freisprechenden Urteile haben die Entscheidungsgründe insbesondere deutlich anzugeben, aus welchem der im § 259 angegebenen Gründe sich das Schöffengericht zur Freisprechung bestimmt gefunden hat.
 
-**§ 211 (2) StPO.**  
-In der Anklageschrift hat die Staatsanwaltschaft ihre Anträge für das Hauptverfahren zu stellen und dabei insbesondere auch die Beweise anzuführen, die im Hauptverfahren aufgenommen werden sollen; die Zuständigkeit des angerufenen Gerichts ist erforderlichenfalls zu begründen. Schließlich ist der Sachverhalt nach den Ergebnissen des Ermittlungsverfahrens zusammenzufassen und zu beurteilen.
+`§ 270 (3) StPO.`  
+Schreib- und Rechenfehler, ferner solche Formgebrechen und Auslassungen, die nicht die im § 260 Abs. 1 Z. 1 bis 3 und Abs. 2 erwähnten Punkte betreffen, hat der Vorsitzende jederzeit, allenfalls nach Anhörung der Beteiligten, zu berichtigen. Die Zurückweisung eines auf eine solche Berichtigung abzielenden Antrages sowie die vorgenommene Berichtigung können von jedem zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten oder sonst Beteiligten mit der binnen vierzehn Tagen einzubringenden Beschwerde an das Oberlandesgericht angefochten werden. Ist außer über die Beschwerde noch über eine von wem immer ergriffene Nichtigkeitsbeschwerde zu entscheiden, so entscheidet der Oberste Gerichtshof auch über die Beschwerde. Die beschlossene Verbesserung ist am Rande des Urteils beizusetzen und muß allen Ausfertigungen beigefügt werden.
 
-### § 212 StPO. Einspruch gegen die Anklageschrift
+`§ 270 (4) StPO.`  
+Verzichten die Beteiligten des Verfahrens auf ein Rechtsmittel oder melden sie innerhalb der dafür offen stehenden Frist kein Rechtsmittel an, so kann das Urteil in gekürzter Form ausgefertigt werden, es sei denn, dass eine zwei Jahre übersteigende Freiheitsstrafe verhängt oder eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme oder ein Tätigkeitsverbot (§ 220b StGB) angeordnet worden ist. Die gekürzte Urteilsausfertigung hat zu enthalten:  
+`§ 270 (4) Z 1 StPO.`
+die im Abs. 2 enthaltenen Angaben mit Ausnahme der Entscheidungsgründe;  
+`§ 270 (4) Z 2 StPO.`
+im Fall einer Verurteilung die vom Gericht als erwiesen angenommenen Tatsachen in gedrängter Darstellung sowie die für die Strafbemessung und gegebenenfalls die für die Bemessung des Tagessatzes (§ 19 Abs. 2 StGB) maßgebenden Umstände in Schlagworten;  
+`§ 270 (4) Z 3 StPO.`
+im Fall eines Freispruchs eine gedrängte Darstellung der dafür maßgebenden Gründe.
 
-**§ 212 StPO.**  
- Gegen die Anklageschrift steht dem Angeklagten Einspruch zu, wenn
-**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die zur Last gelegte Tat nicht mit gerichtlicher Strafe bedroht ist oder sonst ein Grund vorliegt, der die Verurteilung des Angeklagten aus rechtlichen Gründen ausschließt,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">Dringlichkeit und Gewicht des Tatverdachts trotz hinreichend geklärten Sachverhalts nicht ausreichen, um eine Verurteilung des Angeklagten auch nur für möglich zu halten und von weiteren Ermittlungen eine Intensivierung des Verdachts nicht zu erwarten ist,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">der Sachverhalt nicht soweit geklärt ist, dass eine Verurteilung des Angeklagten nahe liegt,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">die Anklageschrift sonst an wesentlichen formellen Mängeln leidet (§&nbsp;211)</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">5.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die Anklageschrift ein für die angeklagte Straftat sachlich nicht zuständiges Gericht anruft,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">6.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">die Anklageschrift ein örtlich nicht zuständiges Gericht anruft,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">7.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">der nach dem Gesetz erforderliche Antrag eines hiezu Berechtigten fehlt oder</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">8.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">die Staatsanwaltschaft das Verfahren zu Unrecht nachträglich gemäß §&nbsp;205 Abs.&nbsp;2 oder nach §&nbsp;38 Abs.&nbsp;1 oder 1a SMG fortgesetzt hat.</span></div></div></li></ol>
+## 9. Protokollführung
 
-### § 213 StPO.
+### § 271 StPO
 
-**§ 213 (1) StPO.**  
-Das Gericht hat die Anklageschrift dem Angeklagten zuzustellen.
+`§ 271 (1) StPO.`  
+Über die Hauptverhandlung ist bei sonstiger Nichtigkeit ein Protokoll aufzunehmen, für das – soweit im Folgenden nicht anderes bestimmt wird – § 96 Abs. 2 und 3 anzuwenden ist; es hat insbesondere zu enthalten:  
+`§ 271 (1) Z 1 StPO.`
+die Bezeichnung des Gerichts sowie Ort, Beginn und Ende der Hauptverhandlung,  
+`§ 271 (1) Z 2 StPO.`
+die Namen der Mitglieder des Schöffengerichts, der Beteiligten des Verfahrens und ihrer Vertreter und, wenn ein Schriftführer beigezogen wurde, dessen Namen,  
+`§ 271 (1) Z 3 StPO.`
+die Namen der beigezogenen Dolmetscher, der vernommenen Zeugen und Sachverständigen,  
+`§ 271 (1) Z 4 StPO.`
+alle wesentlichen Förmlichkeiten des Verfahrens,  
+`§ 271 (1) Z 5 StPO.`
+die Bezeichnung der verlesenen und vorgetragenen Schriftstücke (§ 252 Abs. 2a und 3),  
+`§ 271 (1) Z 6 StPO.`
+alle Anträge der Beteiligten des Verfahrens und die darüber getroffenen Entscheidungen,  
+`§ 271 (1) Z 7 StPO.`
+den Spruch des Urteils mit den in § 260 Abs. 1 Z 1 bis 3 bezeichneten Angaben.  
+Den Beteiligten des Verfahrens steht es frei, die Feststellung einzelner Punkte im Protokoll zur Wahrung ihrer Rechte zu verlangen.
 
-**§ 213 (2) StPO.**  
-Der Angeklagte hat das Recht, gegen die Anklageschrift binnen 14 Tagen Einspruch bei Gericht zu erheben. Darüber ist er ebenso zu informieren wie über die seine Verteidigung betreffenden Vorschriften.
+`§ 271 (1a) StPO.`  
+Unter den Voraussetzungen des § 270 Abs. 4 kann das Verhandlungsprotokoll durch einen vom Vorsitzenden zu unterschreibenden Vermerk ersetzt werden, der lediglich die in Abs. 1 Z 1 bis 3 angeführten Angaben enthält.
 
-**§ 213 (3) StPO.**  
-Befindet sich der Angeklagte zum Zeitpunkt des Einbringens der Anklage in Haft oder wird er zugleich verhaftet, so ist die Anklageschrift, gegebenenfalls mit der Anordnung der Festnahme (§ 171 Abs. 1 und 2), sogleich ihm auszufolgen und seinem Verteidiger zuzustellen; die Frist zur Erhebung des Einspruchs richtet sich in diesem Fall nach der zuletzt bewirkten Zustellung.
+`§ 271 (2) StPO.`  
+Dem Schriftführer kann bei entsprechender Eignung die selbstständige Abfassung der Verhandlungsmitschrift und deren Übertragung überlassen werden, ansonsten nach Abs. 4 zweiter Satz vorzugehen ist. Der Schriftführer darf sich zur Unterstützung eines technischen Hilfsmittels bedienen.
 
-**§ 213 (4) StPO.**  
-Verzichtet der Angeklagte auf einen Einspruch oder erhebt er einen solchen nicht fristgerecht, so hat das Gericht, sofern es keine Bedenken gegen seine Zuständigkeit hat, mit Beschluss festzustellen, dass die Anklageschrift rechtswirksam sei, und ohne Verzug die Hauptverhandlung anzuordnen. § 199 bleibt unberührt.
+`§ 271 (3) StPO.`  
+Die Antworten des Angeklagten (§ 245) und die Aussagen von Zeugen und Sachverständigen sind ihrem wesentlichen Inhalt nach zusammengefasst in das Protokoll aufzunehmen, soweit nicht deren wörtliche Wiedergabe für die Urteilsfällung erforderlich erscheint. Werden Zeugen oder Sachverständige in der Hauptverhandlung nicht das erste Mal vernommen, so sind nur Abweichungen, Veränderungen oder Zusätze der bereits in den Akten enthaltenen Angaben in das Protokoll aufzunehmen.
 
-**§ 213 (5) StPO.**  
-Sobald die Anklageschrift rechtswirksam geworden ist, kann die örtliche Unzuständigkeit des Gerichts des Hauptverfahrens nicht mehr geltend gemacht werden.
+`§ 271 (4) StPO.`  
+Hat der Vorsitzende von der Beiziehung eines Schriftführers abgesehen, so sind die Angaben nach Abs. 1 Z 1 bis 3 in Vollschrift festzuhalten. Im Übrigen sind die Angaben über Verlauf und Inhalt der Hauptverhandlung nach Abs. 1 Z 4 bis 7 und Abs. 3 vom Vorsitzenden oder einem von ihm beauftragten richterlichen Mitglied des Schöffengerichts für die Anwesenden hörbar zu diktieren. Das Diktat ist unter Verwendung eines technischen Hilfsmittels aufzunehmen oder sofort zu übertragen.
 
-**§ 213 (6) StPO.**  
-Ein Einspruch ist dem Oberlandesgericht vorzulegen. Hat das Gericht Bedenken gegen seine Zuständigkeit, so hat es diese dem Oberlandesgericht unter Angabe der Gründe mitzuteilen, und zwar auch dann, wenn ein Einspruch nicht erhoben wurde. Für ein solches Begehren gelten die Vorschriften über den Einspruch sinngemäß.
+`§ 271 (5) StPO.`  
+Sachverständige haben auf Anordnung des Vorsitzenden Befund und Gutachten sowie deren Ergänzungen selbst auf die im Abs. 4 beschriebene Art zu diktieren.
 
-### § 214 StPO. Verfahren vor dem Oberlandesgericht
+`§ 271 (6) StPO.`  
+Der Inhalt der Aufnahme oder der Mitschrift ist auf Verlangen eines Beteiligten des Verfahrens wiederzugeben. Tonaufnahme und Verhandlungsmitschrift sind unverzüglich in Vollschrift zu übertragen. Diese Übertragung sowie die bereits in Vollschrift aufgenommenen Angaben bilden das Verhandlungsprotokoll, das vom Vorsitzenden sowie, soweit ein solcher beigezogen wurde, vom Schriftführer zu unterschreiben ist. Eine Ausfertigung des Protokolls ist den Beteiligten, soweit sie nicht darauf verzichtet haben, ehestmöglich, spätestens aber zugleich mit der Urteilsausfertigung zuzustellen.
 
-**§ 214 (1) StPO.**  
-Das Oberlandesgericht hat der Oberstaatsanwaltschaft Gelegenheit zu geben, sich zum Einspruch zu äußern; § 89 Abs. 5 letzter Satz gilt. Sodann hat es über den Einspruch in nicht öffentlicher Sitzung zu entscheiden; gegen seine Entscheidung steht ein Rechtsmittel nicht zu.
+`§ 271 (7) StPO.`  
+Für die Berichtigung von Schreib- und Rechenfehlern im Verhandlungsprotokoll gilt § 270 Abs. 3 erster Satz sinngemäß. Im Übrigen hat der Vorsitzende das Protokoll von Amts wegen oder auf Antrag einer zur Ergreifung von Berufung oder Nichtigkeitsbeschwerde berechtigten Partei nach Vornahme der erforderlichen Erhebungen durch Beschluss zu ergänzen oder zu berichtigen, soweit erhebliche Umstände oder Vorgänge im Protokoll der Hauptverhandlung zu Unrecht nicht erwähnt oder unrichtig wiedergegeben wurden. Der Antrag ist spätestens mit Ablauf der für die Ausführung einer gegen das Urteil angemeldeten Nichtigkeitsbeschwerde oder Berufung offen stehenden Frist einzubringen, ansonsten als unzulässig zurückzuweisen. Den Parteien ist Gelegenheit zur Stellungnahme zur in Aussicht genommenen oder begehrten Berichtigung oder Ergänzung und zu den Ergebnissen der gepflogenen Erhebungen binnen festzusetzender angemessener Frist einzuräumen. § 270 Abs. 3 zweiter bis vierter Satz gilt sinngemäß. Wird eine Ergänzung oder Berichtigung des Verhandlungsprotokolls nach Zustellung der Abschrift des Urteils an den Beschwerdeführer vorgenommen, so löst erst die neuerliche Zustellung die Fristen zur Ausführung angemeldeter Rechtsmittel (§§ 285 und 294) aus.
 
-**§ 214 (2) StPO.**  
-Treffen dieselben Gründe auch auf eine Person zu, die keinen Einspruch erhoben hat, so hat das Oberlandesgericht so vorzugehen, als ob ein solcher Einspruch vorläge.
+### § 271a StPO
 
-**§ 214 (3) StPO.**  
-Wird der Einspruch von einem Angeklagten erhoben, der sich in Untersuchungshaft befindet, so hat das Oberlandesgericht von Amts wegen über die Haft zu entscheiden. Beschließt das Oberlandesgericht die Fortsetzung der Haft, so gilt § 174 Abs. 3 Z 1 bis 5 sinngemäß.
+`§ 271a (1) StPO.`  
+Wenn der Vorsitzende es für zweckmäßig erachtet, kann die Protokollführung nach Maßgabe der den Gerichten zur Verfügung stehenden Ausstattung durch die Verwendung technischer Einrichtungen zur Wort- oder Bildaufnahme unterstützt werden. In diesem Fall ist der gesamte Verlauf der Hauptverhandlung unmittelbar aufzunehmen und dies allen Beteiligten zuvor bekannt zu machen. Abgesehen von den in § 271 Abs. 1 Z 1 bis 3 erwähnten Angaben kann der Vorsitzende Verhandlungsmitschrift oder Diktat auf die Anordnung beschränken, welche Teile der Aufnahme in Schriftform zu übertragen sind.
 
-### § 215 StPO.
+`§ 271a (2) StPO.`  
+Den Beteiligten des Verfahrens steht das Recht zu, die Wiedergabe der Aufnahme oder ihre Übersendung auf einem elektronischen Datenträger in einem allgemein gebräuchlichen Dateiformat zu verlangen. Zu übertragen ist eine solche Aufnahme nur, wenn es der Vorsitzende für zweckmäßig erachtet oder ein Beteiligter ein besonderes rechtliches Interesse daran glaubhaft macht und die vom Vorsitzenden zu bestimmenden Kosten der Übertragung übernimmt; § 77 Abs. 1 und 3 ist anzuwenden. Die Aufnahme ist als Beilage zum Akt zu nehmen.
 
-**§ 215 (1) StPO.**  
-Verspätete Einsprüche und solche, die von einer hiezu nicht berechtigten Person eingebracht wurden, hat das Oberlandesgericht als unzulässig zurückzuweisen.
+`§ 271a (3) StPO.`  
+Wurde der gesamte Verlauf der Hauptverhandlung nach Abs. 1 aufgenommen und verzichten die Beteiligten des Verfahrens auf ein Rechtsmittel oder melden sie innerhalb der hiefür offen stehenden Frist kein Rechtsmittel an, so kann das Verhandlungsprotokoll durch einen vom Vorsitzenden zu unterschreibenden Vermerk ersetzt werden, der lediglich die in § 271 Abs. 1 Z 1 bis 3 angeführten Angaben enthält. Sofern sie ein rechtliches Interesse glaubhaft machen, können die Beteiligten des Verfahrens binnen vierzehn Tagen nach Verkündung des Urteils die Herstellung des Protokolls und die Zustellung einer Ausfertigung verlangen.
 
-**§ 215 (2) StPO.**  
-In den Fällen des § 212 Z 1, 2 und 7 hat das Oberlandesgericht dem Einspruch Folge zu geben und das Verfahren einzustellen.
+### § 272 StPO
 
-**§ 215 (3) StPO.**  
-In den Fällen des § 212 Z 3, 4 und 8 hat das Oberlandesgericht die Anklageschrift zurückzuweisen; dadurch wird das Hauptverfahren beendet und das Ermittlungsverfahren wieder eröffnet.
+`§ 272 StPO.`  
+Über die Beratungen und Abstimmungen während und am Schlusse der Hauptverhandlung ist in den Fällen, wo sich das Gericht zur Beschlußfassung in das Beratungszimmer zurückgezogen hat, ein abgesondertes Protokoll zu führen.
 
-**§ 215 (4) StPO.**  
-In den Fällen des § 212 Z 5 und 6 hat das Oberlandesgericht die Sache dem zuständigen Gericht zuzuweisen. Hält es jedoch für möglich, dass ein im Sprengel eines anderen Oberlandesgerichts liegendes Gericht zuständig sei, so legt es den Einspruch dem Obersten Gerichtshof vor, der zunächst die Frage der Zuständigkeit zu klären hat, bevor er die Sache dem zuständigen Oberlandesgericht zur Entscheidung über den Einspruch übermittelt.
+## 10. Vertagung der Hauptverhandlung
 
-**§ 215 (5) StPO.**  
-Das Oberlandesgericht kann auch einzelne Anklagepunkte teils auf die eine, teils auf die andere Art erledigen. Mit seiner Begründung darf es der Entscheidung des erkennenden Gerichts in der Hauptsache nicht vorgreifen.
+### § 273 StPO
 
-**§ 215 (6) StPO.**  
-Liegt keiner der Fälle der Abs. 2 bis 4 vor, so hat das Oberlandesgericht den Einspruch abzuweisen und die Rechtswirksamkeit der Anklageschrift festzustellen.
-## 13. Hauptstück
+`§ 273 StPO.`  
+Die Hauptverhandlung darf, wenn sie begonnen hat, nur insoweit unterbrochen werden, als es der Vorsitzende zur nötigen Erholung der dabei beteiligten Personen oder zur unverzüglichen Herbeischaffung von Beweismitteln erforderlich findet; sie kann nach dem Ermessen des Schöffengerichts in dringenden Fällen auch an einem Sonn- oder Feiertage fortgesetzt werden.
 
-### § 220 StPO. Vorbereitungen zur Hauptverhandlung
+### § 274 StPO
 
-**§ 220 StPO.**  
- Beteiligte des Hauptverfahrens sind neben der Staatsanwaltschaft (§ 210 Abs. 2) der Angeklagte (§ 48 Abs. 1 Z 2), der Haftungsbeteiligte (§ 64), der Privatankläger (§ 71), der Subsidiarankläger (§ 72) sowie der Privatbeteiligte (§ 67).
+`§ 274 StPO.`  
+Ist der Verteidiger, ungeachtet gehöriger Ladung, bei der Hauptverhandlung nicht erschienen oder hat er sich vor deren Schluß entfernt oder tritt der im § 236 Abs. 2 vorgesehene Fall ein, und kann ein anderer Verteidiger überhaupt nicht oder doch nicht ohne Beeinträchtigung der Verteidigung des Angeklagten bestellt werden, so ist die Verhandlung zu vertagen. Die Kosten der Bestellung eines anderen Vertreters und der Vertagung hat der schuldige Verteidiger zu tragen.
 
-### § 221 StPO.
+### § 275 StPO
 
-**§ 221 (1) StPO.**  
-Zur Hauptverhandlung sind die Beteiligten sowie deren Vertreter zu laden. Die Ladung des Angeklagten hat die Androhung zu enthalten, dass im Falle seines Nichterscheinens je nach den Umständen entweder die Hauptverhandlung und Urteilsfällung in seiner Abwesenheit vorgenommen oder seine Vorführung angeordnet oder, falls dies nicht zeitgerecht möglich ist, die Hauptverhandlung auf seine Kosten vertagt und er zur Verhandlung vorgeführt wird. Vom Termin der Hauptverhandlung sind gegebenenfalls die Einrichtung, die Prozessbegleitung gewährt, und ein Bewährungshelfer sowie die Kriminalpolizei, soweit sie darum ersucht hat, zu verständigen. Opfer sind vom Termin der Hauptverhandlung nur zu verständigen, soweit sie dies im Rahmen einer Vernehmung nach § 165 verlangt haben und nicht ohnedies im Wege einer Ladung als Zeuge oder der ihnen gewährten Prozessbegleitung von diesem Termin Kenntnis erhalten. Erforderlichenfalls ist für die Bestellung eines Verteidigers und die Beiziehung eines Dolmetschers Vorsorge zu treffen (§§ 61 und 126). Die Ladung von Privatbeteiligten darf insoweit unterbleiben, als diese einem Auftrag gemäß § 10 des Zustellgesetzes nicht entsprochen oder auf ihr Recht, während der Hauptverhandlung anwesend zu sein, verzichtet haben. Gleiches gilt unabhängig von diesen Voraussetzungen, wenn eine Ausforschung des Aufenthalts von Opfern und Privatbeteiligten oder die Zustellung einer Ladung oder Verständigung an diese im Rechtshilfeweg zu einer erheblichen Verzögerung des Verfahrens, insbesondere einer bedeutenden Verlängerung der Haft des Angeklagten führen würde.
+`§ 275 StPO.`  
+Erkrankt der Angeklagte während der Hauptverhandlung in dem Maße, daß er ihr nicht weiter beiwohnen kann, und willigt er nicht selbst ein, daß die Verhandlung in seiner Abwesenheit fortgesetzt und seine im Ermittlungsverfahren oder in einer früheren Hauptverhandlung abgelegte Aussage vorgelesen werde, so ist die Verhandlung zu vertagen. § 197 Abs. 2b gilt sinngemäß.
 
-**§ 221 (2) StPO.**  
-Der Vorsitzende hat den Tag der Hauptverhandlung in der Art zu bestimmen, dass dem Angeklagten und seinem Verteidiger bei sonstiger Nichtigkeit von der Zustellung der Ladung (§§ 61 Abs. 3 und 63) eine Frist von wenigstens acht Tagen, im Fall des Abs. 4 jedoch 14 Tagen zur Vorbereitung der Verteidigung bleibt, sofern diese nicht selbst in eine Verkürzung dieser Frist einwilligen. Durch den Wechsel der Person des Verteidigers wird die dem Verteidiger zustehende Vorbereitungsfrist nicht verlängert. Die Ladung von Zeugen, Sachverständigen und Dolmetschern soll grundsätzlich so erfolgen, dass zwischen der Zustellung und dem Tag, an dem ihre Anwesenheit in der Hauptverhandlung erforderlich ist, eine Frist von wenigstens drei Tagen liegt.
+### § 276 StPO
 
-**§ 221 (3) StPO.**  
-Die Hauptverhandlung findet grundsätzlich am Sitz des Landesgerichts statt; zu Zwecken der Wahrheitsfindung kann der Vorsitzende die Hauptverhandlung an einem anderen im Sprengel des Landesgerichts gelegenen Ort durchführen.
+`§ 276 StPO.`  
+Für die Vertagung der Hauptverhandlung gilt § 226.
 
-**§ 221 (4) StPO.**  
-Ist zu erwarten, dass die Hauptverhandlung von längerer Dauer sein wird, so ist für den Fall der Verhinderung eines Richters oder Schöffen die erforderliche Anzahl von Ersatzrichtern und Ersatzschöffen, und zwar nach der in der Geschäftsverteilung beziehungsweise Dienstliste (§§ 13 und 14 des Geschworenen- und Schöffengesetzes – GSchG, BGBl. Nr. 256/1990) zu bestimmenden Reihenfolge zu laden. Auf § 32 Abs. 2 ist Bedacht zu nehmen.
+### § 276a StPO
 
-### § 222 StPO.
+`§ 276a StPO.`  
+Ist die Verhandlung, nachdem sie begonnen hatte, vertagt worden (§§ 274 bis 276), so kann der Vorsitzende in der späteren Verhandlung die wesentlichen Ergebnisse der früheren nach dem Protokoll und den sonst zu berücksichtigenden Akten mündlich vortragen und die Fortsetzung der Verhandlung daran anknüpfen. Die Verhandlung ist jedoch zu wiederholen, wenn sich die Zusammensetzung des Gerichtes geändert hat oder seit der Vertagung mehr als zwei Monate verstrichen sind, es sei denn, dass beide Teile auf die Wiederholung wegen Überschreitung der Frist von zwei Monaten verzichten.
 
-**§ 222 (1) StPO.**  
-Beweise, die nicht bereits nach der Anklageschrift oder dem über den Einspruch ergangenen Beschluss aufzunehmen sind, sollen Beteiligte des Verfahrens so rechtzeitig beantragen (§ 55 Abs. 1), dass die Beweisaufnahme noch zum Termin der Hauptverhandlung vorgenommen werden kann. Der Antrag ist in so vielen Ausfertigungen einzubringen, dass jedem der Beteiligten eine Ausfertigung zugestellt werden kann.
+## 11. Zwischenfälle
 
-**§ 222 (2) StPO.**  
-Ist dem Antrag stattzugeben, so hat der Vorsitzende die Liste der neuen Beweismittel samt jeweiligem Beweisthema den übrigen Beteiligten längstens drei Tage vor der Hauptverhandlung mitzuteilen. Im gegenteiligen Fall hat der Vorsitzende die Entscheidung über den Beweisantrag einer erneuten Antragstellung in der Hauptverhandlung vorzubehalten (§ 238) und davon den Antragsteller und die übrigen Beteiligten durch Zustellung einer Ausfertigung des Antrags (Abs. 1 letzter Satz) zu verständigen.
+### § 277 StPO
 
-**§ 222 (3) StPO.**  
-Dem Verteidiger steht es auch frei, eine schriftliche Gegenäußerung (§ 244 Abs. 3) zur Anklageschrift einzubringen, in die er die Anträge gemäß Abs. 1 aufzunehmen hat. Für eine solche Gegenäußerung gilt Abs. 1; stützt sich die Anklageschrift auf Befund und Gutachten eines Sachverständigen, so kann der Gegenäußerung eine Stellungnahme samt Schlussfolgerungen einer Person mit besonderem Fachwissen zur Begründung eines Beweisantrags nach Abs. 1 angeschlossen werden.
+`§ 277 StPO.`  
+Ergibt sich aus der Hauptverhandlung mit Wahrscheinlichkeit, daß ein Zeuge wissentlich falsch ausgesagt habe, so kann der Vorsitzende über dessen Aussage ein Protokoll aufnehmen und nach geschehener Vorlesung und Genehmigung vom Zeugen unterfertigen lassen; er kann den Zeugen auch festnehmen und dem Einzelrichter des Landesgerichts vorführen lassen.
 
-### § 223 StPO.
+### § 278 StPO
 
-**§ 223 StPO.**  
- (Aufgehoben)
+`§ 278 (1) StPO.`  
+Wird während der Hauptverhandlung im Sitzungssaal eine strafbare Handlung verübt und dabei der Täter auf frischer Tat betreten, so kann darüber mit Unterbrechung der Hauptverhandlung oder an deren Schluß auf Antrag des dazu berechtigten Anklägers sowie nach Vernehmung des Beschuldigten und der vorhandenen Zeugen vom versammelten Gerichte sogleich abgeurteilt werden. Rechtsmittel gegen ein solches Urteil haben keine aufschiebende Wirkung.
 
-### § 226 StPO.
+`§ 278 (2) StPO.`  
+Ist zur Aburteilung ein Gericht höherer Ordnung zuständig oder die sofortige Aburteilung nicht tunlich, so läßt der Vorsitzende den Täter dem Einzelrichter des Landesgerichts vorführen.
 
-**§ 226 (1) StPO.**  
-Die Hauptverhandlung kann auf Antrag eines Beteiligten des Verfahrens oder von Amts wegen durch Beschluss des Vorsitzenden vertagt werden, wenn
-1. sich dem rechtzeitigen Erscheinen eines Beteiligten ein für ihn unabwendbares oder doch ein sehr erhebliches Hindernis entgegenstellt;
-2. das Gericht durch anderweitige unaufschiebbare Amtshandlungen oder aus sonstigen wichtigen Gründen an der Durchführung der Hauptverhandlung verhindert ist;
-3. eine in der Hauptverhandlung nicht sofort durchführbare, für die Urteilsfällung jedoch wesentliche Beweisaufnahme angeordnet wird;
-4. die Hauptverhandlung aus anderen Gründen nicht geschlossen werden kann.
+`§ 278 (3) StPO.`  
+Über einen solchen Vorgang ist ein besonderes Protokoll aufzunehmen.
 
-**§ 226 (2) StPO.**  
-Ein Antrag auf Vertagung ist zu begründen, gegebenenfalls vorhandene Bescheinigungsmittel sind vorzulegen.
+### § 279 StPO
 
-**§ 226 (3) StPO.**  
-Wegen einer Verhinderung des Verteidigers findet eine Vertagung nur dann statt, wenn das Hindernis dem Angeklagten oder dem Gericht so spät bekannt wurde, dass ein anderer Verteidiger nicht mehr bestellt werden konnte. Wegen Verhinderung anderer Beteiligter als des Angeklagten findet eine Vertagung nur statt, soweit dies nicht zu einer erheblichen Verzögerung des Verfahrens, insbesondere einer bedeutenden Verlängerung der Haft des Angeklagten führen würde.
+`§ 279 StPO.`  
+Hat der Angeklagte während der Hauptverhandlung eine strafbare Handlung begangen, so sind die Bestimmungen des § 263 voll anzuwenden.
 
-**§ 226 (4) StPO.**  
-Gegen einen Beschluss gemäß Abs. 1 steht den Beteiligten ein selbständiges, die weitere Verhandlung hemmendes Rechtsmittel nicht zu.
+## II. Rechtsmittel gegen das Urteil
 
-### § 227 StPO.
+### § 280 StPO
 
-**§ 227 (1) StPO.**  
-Tritt die Staatsanwaltschaft vor Beginn der Hauptverhandlung von der Anklage zurück, so ist nach § 72 Abs. 3 vorzugehen, im Übrigen jedoch das Verfahren durch Beschluss des Vorsitzenden einzustellen.
+`§ 280 StPO.`  
+Gegen die Urteile der Landesgerichte als Schöffengerichte (§ 31 Abs. 3) stehen nur die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen. Die Nichtigkeitsbeschwerde geht an den Obersten Gerichtshof, die Berufung an das Oberlandesgericht.
 
-**§ 227 (2) StPO.**  
-Die Staatsanwaltschaft hat das Recht, die von ihr eingebrachte Anklageschrift unter gleichzeitiger Einbringung einer neuen zurückzuziehen, wenn dies erforderlich ist, um eine gemeinsame Verfahrensführung wegen neuer Vorwürfe oder einer auf Grund neuer Tatsachen oder Beweismittel geänderten rechtlichen Beurteilung zu ermöglichen. Mit der neuen Anklageschrift ist sodann nach den im 12. Hauptstück enthaltenen Bestimmungen zu verfahren.
-## 14. Hauptstück | Hauptverhandlung vor dem Landesgericht als Schöffengericht und Rechtsmittel gegen dessen Urteile | I. Hauptverhandlung und Urteil | 1. Öffentlichkeit der Hauptverhandlung
+### § 281 StPO
 
-### § 228 StPO.
+`§ 281 (1) StPO.`  
+Die Nichtigkeitsbeschwerde kann gegen ein freisprechendes Urteil nur zum Nachteile, gegen ein verurteilendes sowohl zum Vorteile als auch zum Nachteile des Angeklagten ergriffen werden, jedoch, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur wegen eines der folgenden Nichtigkeitsgründe:  
+`§ 281 (1) Z 1 StPO.`
+wenn das Schöffengericht nicht gehörig besetzt war, wenn nicht alle Richter der ganzen Verhandlung beiwohnten oder wenn sich ein ausgeschlossener Richter (§§ 43 und 46) an der Entscheidung beteiligte; es sei denn, daß der die Nichtigkeit begründende Tatumstand dem Beschwerdeführer noch vor oder während der Hauptverhandlung bekannt und von ihm nicht gleich beim Beginne der Hauptverhandlung oder sofort, nachdem er in dessen Kenntnis gelangt war, geltend gemacht wurde;  
+`§ 281 (1) Z 1a StPO.`
+wenn der Angeklagte nicht während der ganzen Hauptverhandlung durch einen Verteidiger vertreten war, obwohl dies zwingend vorgeschrieben war;  
+`§ 281 (1) Z 2 StPO.`
+wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren trotz Widerspruchs des Beschwerdeführers in der Hauptverhandlung verlesen wurde;  
+`§ 281 (1) Z 3 StPO.`
+wenn in der Hauptverhandlung eine Bestimmung verletzt oder missachtet worden ist, deren Einhaltung das Gesetz bei sonstiger Nichtigkeit anordnet (§§ 115j Abs. 1, 126 Abs. 4, 140 Abs. 1, 144 Abs. 1, 155 Abs. 1, 157 Abs. 2 und 159 Abs. 3, 221 Abs. 2, 228, 240a, 250, 252, 260, 271, 427, 434d Abs. 1 und 2 sowie 439 Abs. 1 und 2);  
+`§ 281 (1) Z 4 StPO.`
+wenn während der Hauptverhandlung über einen Antrag des Beschwerdeführers nicht erkannt worden ist oder wenn durch einen gegen seinen Antrag oder Widerspruch gefassten Beschluss Gesetze oder Grundsätze des Verfahrens hintangesetzt oder unrichtig angewendet worden sind, deren Beobachtung durch grundrechtliche Vorschriften, insbesondere durch Art. 6 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, oder sonst durch das Wesen eines die Strafverfolgung und die Verteidigung sichernden, fairen Verfahrens geboten ist;  
+`§ 281 (1) Z 5 StPO.`
+wenn der Ausspruch des Schöffengerichts über entscheidende Tatsachen (§ 270 Abs. 2 Z. 4 und 5) undeutlich, unvollständig oder mit sich selbst im Widerspruch ist; wenn für diesen Ausspruch keine oder nur offenbar unzureichende Gründe angegeben sind; oder wenn zwischen den Angaben der Entscheidungsgründe über den Inhalt einer bei den Akten befindlichen Urkunde oder über eine Aussage und der Urkunde oder dem Vernehmungs- oder Sitzungsprotokoll selbst ein erheblicher Widerspruch besteht;  
+`§ 281 (1) Z 5a StPO.`
+wenn sich aus den Akten erhebliche Bedenken gegen die Richtigkeit der dem Ausspruch über die Schuld zugrunde gelegten entscheidenden Tatsachen ergeben;  
+`§ 281 (1) Z 6 StPO.`
+wenn das Schöffengericht zu Unrecht seine Unzuständigkeit (§ 261) ausgesprochen hat;  
+`§ 281 (1) Z 7 StPO.`
+wenn das ergangene Endurteil die Anklage nicht erledigt oder  
+`§ 281 (1) Z 8 StPO.`
+diese gegen die Vorschrift der § 262, § 263, § 267 und § 434b Abs. 3 überschritten hat;  
+`§ 281 (1) Z 9 StPO.`
+wenn durch den Ausspruch über die Frage,  
+`§ 281 (1) Z 9 lit. a) StPO.`
+ob die dem Angeklagten zur Last fallende Tat eine zur Zuständigkeit der Gerichte gehörige strafbare Handlung begründe,  
+`§ 281 (1) Z 9 lit. b) StPO.`
+ob Umstände vorhanden seien, durch die die Strafbarkeit der Tat aufgehoben oder die Verfolgung wegen der Tat ausgeschlossen ist, endlich  
+`§ 281 (1) Z 9 lit. c) StPO.`
+ob die nach dem Gesetz erforderliche Anklage fehle,  
+ein Gesetz verletzt oder unrichtig angewendet wurde;  
+`§ 281 (1) Z 10 StPO.`
+wenn die der Entscheidung zugrunde liegende Tat durch unrichtige Gesetzesauslegung einem Strafgesetz unterzogen wurde, das darauf nicht anzuwenden ist;  
+`§ 281 (1) Z 10a StPO.`
+wenn nach der Bestimmung des § 199 über die Einstellung des Verfahrens, anderen auf sie verweisenden Vorschriften oder nach § 37 SMG vorzugehen gewesen wäre;  
+`§ 281 (1) Z 11 StPO.`
+wenn das Schöffengericht seine Strafbefugnis überschritten oder bei dem Ausspruch über die Strafe für die Strafbemessung maßgebende entscheidende Tatsachen offenbar unrichtig beurteilt oder in unvertretbarer Weise gegen Bestimmungen über die Strafbemessung verstoßen hat.
 
-**§ 228 (1) StPO.**  
-Die Hauptverhandlung ist öffentlich bei sonstiger Nichtigkeit.
+`§ 281 (2) StPO.`  
+Die im Abs. 1 Z. 1a und 5a erwähnten Nichtigkeitsgründe können zum Nachteil des Angeklagten nicht geltend gemacht werden.
 
-**§ 228 (2) StPO.**  
-An einer Hauptverhandlung dürfen nur unbewaffnete Personen als Beteiligte oder Zuhörer teilnehmen. Doch darf Personen, die wegen ihres öffentlichen Dienstes zum Tragen einer Waffe verpflichtet sind oder denen nach den §§ 2 und 8 des Gerichtsorganisationsgesetzes die Mitnahme einer Waffe gestattet worden ist, die Anwesenheit deswegen nicht verweigert werden.
+`§ 281 (3) StPO.`  
+Die unter Abs. 1 Z. 2, 3 und 4 erwähnten Nichtigkeitsgründe können zum Vorteile des Angeklagten nicht geltend gemacht werden, wenn unzweifelhaft erkennbar ist, daß die Formverletzung auf die Entscheidung keinen dem Angeklagten nachteiligen Einfluß üben konnte. Zum Nachteile des Angeklagten können sie, abgesehen von dem im § 282 Abs. 2 geregelten Fall, nur geltend gemacht werden, wenn erkennbar ist, daß die Formverletzung einen die Anklage beeinträchtigenden Einfluß auf die Entscheidung zu üben vermochte, und wenn außerdem der Ankläger sich ihr widersetzt, die Entscheidung des Schöffengerichts begehrt und sich sofort nach der Verweigerung oder Verkündung dieser Entscheidung die Nichtigkeitsbeschwerde vorbehalten hat.
 
-**§ 228 (3) StPO.**  
-Unmündige können als Zuhörer von der Hauptverhandlung ausgeschlossen werden, sofern durch ihre Anwesenheit eine Gefährdung ihrer persönlichen Entwicklung zu besorgen wäre.
+### § 281a StPO
 
-**§ 228 (4) StPO.**  
-Fernseh- und Hörfunkaufnahmen und -übertragungen sowie Film- und Fotoaufnahmen von Verhandlungen der Gerichte sind unzulässig.
+`§ 281a StPO.`  
+Der Umstand, dass ein unzuständiges Oberlandesgericht die Rechtswirksamkeit der Anklageschrift festgestellt hat (§ 215), kann mit einer gegen das Urteil gerichteten Nichtigkeitsbeschwerde geltend gemacht werden.
 
-### § 229 StPO.
+### § 282 StPO
 
-**§ 229 (1) StPO.**  
-Die Öffentlichkeit einer Hauptverhandlung darf von Amts wegen oder auf Antrag eines Beteiligten des Verfahrens oder eines Opfers ausgeschlossen werden:
-1. wegen Gefährdung der öffentlichen Ordnung oder der nationalen Sicherheit;
-2. vor Erörterung des persönlichen Lebens- oder Geheimnisbereiches eines Angeklagten, Opfers, Zeugen oder Dritten;
-3. zum Schutz der Identität eines Zeugen oder eines Dritten aus den in § 162 angeführten Gründen.
+`§ 282 (1) StPO.`  
+Zugunsten des Angeklagten kann die Nichtigkeitsbeschwerde sowohl von ihm selbst als auch von seinem gesetzlichen Vertreter und von der Staatsanwaltschaft ergriffen werden. Soweit es sich um die Beurteilung der geltend gemachten Nichtigkeitsgründe handelt, ist die zugunsten des Angeklagten von anderen ergriffene Nichtigkeitsbeschwerde als von ihm selbst eingelegt anzusehen.
 
-**§ 229 (2) StPO.**  
-Über einen Ausschluss gemäß Abs. 1 entscheidet das Schöffengericht in jeder Lage des Verfahrens mit Beschluss. Der Ausschluss kann das gesamte Verfahren oder einen Teil dessen umfassen, insoweit dies bei Überwiegen der schutzwürdigen Interessen (Abs. 1) geboten ist.
+`§ 282 (2) StPO.`  
+Zum Nachteile des Angeklagten kann die Nichtigkeitsbeschwerde nur vom Staatsanwalt oder vom Privatankläger sowie vom Privatbeteiligten, jedoch von diesem nur im Fall eines Freispruchs und aus dem Grund des § 281 Abs. 1 Z 4 ergriffen werden. Der Privatbeteiligte kann den zuvor angeführten Nichtigkeitsgrund überdies nur insoweit geltend machen, als er wegen des Freispruchs auf den Zivilrechtsweg verwiesen wurde und erkennbar ist, dass die Abweisung eines von ihm in der Hauptverhandlung gestellten Antrags einen auf die Geltendmachung seiner privatrechtlichen Ansprüche nachteiligen Einfluss zu üben vermochte.
 
-**§ 229 (3) StPO.**  
-Ein Beschluss gemäß Abs. 2 ist samt Gründen in öffentlicher Sitzung zu verkünden; gegen ihn steht ein selbständiges, die weitere Verhandlung hemmendes Rechtsmittel nicht zu.
+### § 283 StPO
 
-**§ 229 (4) StPO.**  
-Die Verkündung des Urteils (§§ 259, 260) hat stets in öffentlicher Sitzung zu erfolgen.
+`§ 283 (1) StPO.`  
+Die Berufung kann nur gegen den Ausspruch über die Strafe und gegen den Ausspruch über die privatrechtlichen Ansprüche ergriffen werden.
 
-### § 230 StPO.
+`§ 283 (2) StPO.`  
+Wegen des Ausspruches über die Strafe kann die Berufung von allen zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten mit Ausnahme des Privatbeteiligten ergriffen werden. Eine unterbliebene oder fehlerhafte Anrechnung einer Vorhaft oder einer im Ausland verbüßten Strafe kann mit Berufung nur dann geltend gemacht werden, wenn die Berufung zugleich aus anderen Gründen ergriffen wird.
 
-**§ 230 (1) StPO.**  
-Nach der öffentlichen Verkündung dieses Beschlusses müssen sich alle Zuhörer entfernen.
+`§ 283 (3) StPO.`  
+Die im § 260 Abs. 2 erwähnte Feststellung kann zugunsten und zum Nachteil des Angeklagten mit Berufung angefochten werden.
 
-**§ 230 (2) StPO.**  
-Richter und Staatsanwälte des Dienststandes, Richteramtsanwärter und Rechtspraktikanten sowie die in § 48 Abs. 1 Z 5 genannten Personen dürfen niemals ausgeschlossen werden. Angeklagte, Opfer, Privatbeteiligte oder Privatankläger können verlangen, dass drei Personen ihres Vertrauens der Zutritt gestattet werde. § 160 Abs. 2 und 3 ist sinngemäß anzuwenden.
+`§ 283 (4) StPO.`  
+Gegen die Entscheidung über die privatrechtlichen Ansprüche können nur der Angeklagte und dessen gesetzlicher Vertreter und Erben Berufung einlegen. Gegen die Verweisung auf den Zivilrechtsweg können nach Maßgabe des § 366 Abs. 3 der Privatbeteiligte und seine Erben Berufung einlegen.
 
-### § 230a StPO.
-
-**§ 230a StPO.**  
- Soweit die Öffentlichkeit einer Verhandlung ausgeschlossen worden ist, ist es untersagt, Mitteilungen daraus zu veröffentlichen. Auch kann das Gericht den anwesenden Personen die Geheimhaltung der Tatsachen zur Pflicht machen, die durch die Verhandlung zu ihrer Kenntnis gelangen. Dieser Beschluß ist im Verhandlungsprotokoll zu beurkunden.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-04')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;70)</span></span></p>
-
-**END-OF-FILE**
+`END-OF-DATA-FILE`

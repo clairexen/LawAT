@@ -23,24 +23,39 @@ Im allgemeinen ist die Strafe umso strenger zu bemessen, je größer die Schädi
 
 `§ 33 (1) StGB.`  
 Ein Erschwerungsgrund ist es insbesondere, wenn der Täter  
-`§ 33 (1) Z 1 StGB.` mehrere strafbare Handlungen derselben oder verschiedener Art begangen oder die strafbare Handlung durch längere Zeit fortgesetzt hat;  
-`§ 33 (1) Z 2 StGB.` schon wegen einer auf der gleichen schädlichen Neigung beruhenden Tat verurteilt worden ist;  
-`§ 33 (1) Z 3 StGB.` einen anderen zur strafbaren Handlung verführt hat;  
-`§ 33 (1) Z 4 StGB.` der Urheber oder Anstifter einer von mehreren begangenen strafbaren Handlung oder an einer solchen Tat führend beteiligt gewesen ist;  
-`§ 33 (1) Z 5 StGB.` aus rassistischen, fremdenfeindlichen oder anderen besonders verwerflichen Beweggründen, insbesondere solchen, die sich gegen eine der in § 283 Abs. 1 Z 1 genannten Gruppen von Personen oder ein Mitglied einer solchen Gruppe ausdrücklich wegen der Zugehörigkeit zu dieser Gruppe richten, gehandelt hat;  
-`§ 33 (1) Z 5a StGB.` aus religiös motivierten extremistischen Beweggründen gehandelt hat;  
-`§ 33 (1) Z 6 StGB.` heimtückisch, grausam oder in einer für das Opfer qualvollen Weise gehandelt hat;  
-`§ 33 (1) Z 7 StGB.` bei Begehung der Tat die Wehr- oder Hilflosigkeit eines anderen ausgenützt hat;  
-`§ 33 (1) Z 8 StGB.` die Tat unter Missbrauch der personenbezogenen Daten einer anderen Person begangen hat, um das Vertrauen eines Dritten zu gewinnen, wodurch dem rechtmäßigen Identitätseigentümer ein Schaden zugefügt wird.
+`§ 33 (1) Z 1 StGB.`
+mehrere strafbare Handlungen derselben oder verschiedener Art begangen oder die strafbare Handlung durch längere Zeit fortgesetzt hat;  
+`§ 33 (1) Z 2 StGB.`
+schon wegen einer auf der gleichen schädlichen Neigung beruhenden Tat verurteilt worden ist;  
+`§ 33 (1) Z 3 StGB.`
+einen anderen zur strafbaren Handlung verführt hat;  
+`§ 33 (1) Z 4 StGB.`
+der Urheber oder Anstifter einer von mehreren begangenen strafbaren Handlung oder an einer solchen Tat führend beteiligt gewesen ist;  
+`§ 33 (1) Z 5 StGB.`
+aus rassistischen, fremdenfeindlichen oder anderen besonders verwerflichen Beweggründen, insbesondere solchen, die sich gegen eine der in § 283 Abs. 1 Z 1 genannten Gruppen von Personen oder ein Mitglied einer solchen Gruppe ausdrücklich wegen der Zugehörigkeit zu dieser Gruppe richten, gehandelt hat;  
+`§ 33 (1) Z 5a StGB.`
+aus religiös motivierten extremistischen Beweggründen gehandelt hat;  
+`§ 33 (1) Z 6 StGB.`
+heimtückisch, grausam oder in einer für das Opfer qualvollen Weise gehandelt hat;  
+`§ 33 (1) Z 7 StGB.`
+bei Begehung der Tat die Wehr- oder Hilflosigkeit eines anderen ausgenützt hat;  
+`§ 33 (1) Z 8 StGB.`
+die Tat unter Missbrauch der personenbezogenen Daten einer anderen Person begangen hat, um das Vertrauen eines Dritten zu gewinnen, wodurch dem rechtmäßigen Identitätseigentümer ein Schaden zugefügt wird.
 
 `§ 33 (2) StGB.`  
 Ein Erschwerungsgrund ist es auch, wenn der Täter eine vorsätzliche strafbare Handlung nach dem ersten bis dritten oder zehnten Abschnitt des Besonderen Teils oder eine sonstige strafbare Handlung unter Anwendung von Gewalt oder gefährlicher Drohung  
-`§ 33 (2) Z 1 StGB.` als Volljähriger gegen eine minderjährige Person oder für diese wahrnehmbar gegen eine ihr nahestehende Person  
-`§ 33 (2) Z 2 StGB.` gegen eine Angehörige oder einen Angehörigen (§ 72), einschließlich einer früheren Ehefrau, eingetragenen Partnerin oder Lebensgefährtin oder eines früheren Ehemanns, eingetragenen Partners oder Lebensgefährten oder als mit dem Opfer zusammenlebende Person;  
-`§ 33 (2) Z 3 StGB.` unter Missbrauch einer Autoritätsstellung;  
-`§ 33 (2) Z 4 StGB.` gegen eine aufgrund besonderer Umstände schutzbedürftige Person unter Ausnützung deren besonderer Schutzbedürftigkeit;  
-`§ 33 (2) Z 5 StGB.` unter Einsatz eines außergewöhnlich hohen Ausmaßes an Gewalt oder nachdem der Tat eine solche Gewaltanwendung vorausgegangen ist;  
-`§ 33 (2) Z 6 StGB.` unter Einsatz oder Drohung mit einer Waffe  
+`§ 33 (2) Z 1 StGB.`
+als Volljähriger gegen eine minderjährige Person oder für diese wahrnehmbar gegen eine ihr nahestehende Person  
+`§ 33 (2) Z 2 StGB.`
+gegen eine Angehörige oder einen Angehörigen (§ 72), einschließlich einer früheren Ehefrau, eingetragenen Partnerin oder Lebensgefährtin oder eines früheren Ehemanns, eingetragenen Partners oder Lebensgefährten oder als mit dem Opfer zusammenlebende Person;  
+`§ 33 (2) Z 3 StGB.`
+unter Missbrauch einer Autoritätsstellung;  
+`§ 33 (2) Z 4 StGB.`
+gegen eine aufgrund besonderer Umstände schutzbedürftige Person unter Ausnützung deren besonderer Schutzbedürftigkeit;  
+`§ 33 (2) Z 5 StGB.`
+unter Einsatz eines außergewöhnlich hohen Ausmaßes an Gewalt oder nachdem der Tat eine solche Gewaltanwendung vorausgegangen ist;  
+`§ 33 (2) Z 6 StGB.`
+unter Einsatz oder Drohung mit einer Waffe  
 begangen hat.
 
 `§ 33 (3) StGB.`  
@@ -50,25 +65,44 @@ Ein Erschwerungsgrund ist es ferner auch, wenn der Täter einer strafbaren Handl
 
 `§ 34 (1) StGB.`  
 Ein Milderungsgrund ist es insbesondere, wenn der Täter  
-`§ 34 (1) Z 1 StGB.` die Tat nach Vollendung des achtzehnten, jedoch vor Vollendung des einundzwanzigsten Lebensjahres oder wenn er sie unter dem Einfluß eines abnormen Geisteszustands begangen hat, wenn er schwach an Verstand ist oder wenn seine Erziehung sehr vernachlässigt worden ist;  
-`§ 34 (1) Z 2 StGB.` bisher einen ordentlichen Lebenswandel geführt hat und die Tat mit seinem sonstigen Verhalten in auffallendem Widerspruch steht;  
-`§ 34 (1) Z 3 StGB.` die Tat aus achtenswerten Beweggründen begangen hat;  
-`§ 34 (1) Z 4 StGB.` die Tat unter der Einwirkung eines Dritten oder aus Furcht oder Gehorsam verübt hat;  
-`§ 34 (1) Z 5 StGB.` sich lediglich dadurch strafbar gemacht hat, daß er es in einem Fall, in dem das Gesetz die Herbeiführung eines Erfolges mit Strafe bedroht, unterlassen hat, den Erfolg abzuwenden;  
-`§ 34 (1) Z 6 StGB.` an einer von mehreren begangenen strafbaren Handlung nur in untergeordneter Weise beteiligt war;  
-`§ 34 (1) Z 7 StGB.` die Tat nur aus Unbesonnenheit begangen hat;  
-`§ 34 (1) Z 8 StGB.` sich in einer allgemein begreiflichen heftigen Gemütsbewegung zur Tat hat hinreißen lassen;  
-`§ 34 (1) Z 9 StGB.` die Tat mehr durch eine besonders verlockende Gelegenheit verleitet als mit vorgefaßter Absicht begangen hat;  
-`§ 34 (1) Z 10 StGB.` durch eine nicht auf Arbeitsscheu zurückzuführende drückende Notlage zur Tat bestimmt worden ist;  
-`§ 34 (1) Z 11 StGB.` die Tat unter Umständen begangen hat, die einem Schuldausschließungs- oder Rechtfertigungsgrund nahekommen;  
-`§ 34 (1) Z 12 StGB.` die Tat in einem die Schuld nicht ausschließenden Rechtsirrtum (§ 9) begangen hat, insbesondere wenn er wegen vorsätzlicher Begehung bestraft wird;  
-`§ 34 (1) Z 13 StGB.` trotz Vollendung der Tat keinen Schaden herbeigeführt hat oder es beim Versuch geblieben ist;  
-`§ 34 (1) Z 14 StGB.` sich der Zufügung eines größeren Schadens, obwohl ihm dazu die Gelegenheit offenstand, freiwillig enthalten hat oder wenn der Schaden vom Täter oder von einem Dritten für ihn gutgemacht worden ist;  
-`§ 34 (1) Z 15 StGB.` sich ernstlich bemüht hat, den verursachten Schaden gutzumachen oder weitere nachteilige Folgen zu verhindern;  
-`§ 34 (1) Z 16 StGB.` sich selbst gestellt hat, obwohl er leicht hätte entfliehen können oder es wahrscheinlich war, daß er unentdeckt bleiben werde;  
-`§ 34 (1) Z 17 StGB.` ein reumütiges Geständnis abgelegt oder durch seine Aussage wesentlich zur Wahrheitsfindung beigetragen hat;  
-`§ 34 (1) Z 18 StGB.` die Tat schon vor längerer Zeit begangen und sich seither wohlverhalten hat;  
-`§ 34 (1) Z 19 StGB.` dadurch betroffen ist, daß er oder eine ihm persönlich nahestehende Person durch die Tat oder als deren Folge eine beträchtliche Körperverletzung oder Gesundheitsschädigung oder sonstige gewichtige tatsächliche oder rechtliche Nachteile erlitten hat.
+`§ 34 (1) Z 1 StGB.`
+die Tat nach Vollendung des achtzehnten, jedoch vor Vollendung des einundzwanzigsten Lebensjahres oder wenn er sie unter dem Einfluß eines abnormen Geisteszustands begangen hat, wenn er schwach an Verstand ist oder wenn seine Erziehung sehr vernachlässigt worden ist;  
+`§ 34 (1) Z 2 StGB.`
+bisher einen ordentlichen Lebenswandel geführt hat und die Tat mit seinem sonstigen Verhalten in auffallendem Widerspruch steht;  
+`§ 34 (1) Z 3 StGB.`
+die Tat aus achtenswerten Beweggründen begangen hat;  
+`§ 34 (1) Z 4 StGB.`
+die Tat unter der Einwirkung eines Dritten oder aus Furcht oder Gehorsam verübt hat;  
+`§ 34 (1) Z 5 StGB.`
+sich lediglich dadurch strafbar gemacht hat, daß er es in einem Fall, in dem das Gesetz die Herbeiführung eines Erfolges mit Strafe bedroht, unterlassen hat, den Erfolg abzuwenden;  
+`§ 34 (1) Z 6 StGB.`
+an einer von mehreren begangenen strafbaren Handlung nur in untergeordneter Weise beteiligt war;  
+`§ 34 (1) Z 7 StGB.`
+die Tat nur aus Unbesonnenheit begangen hat;  
+`§ 34 (1) Z 8 StGB.`
+sich in einer allgemein begreiflichen heftigen Gemütsbewegung zur Tat hat hinreißen lassen;  
+`§ 34 (1) Z 9 StGB.`
+die Tat mehr durch eine besonders verlockende Gelegenheit verleitet als mit vorgefaßter Absicht begangen hat;  
+`§ 34 (1) Z 10 StGB.`
+durch eine nicht auf Arbeitsscheu zurückzuführende drückende Notlage zur Tat bestimmt worden ist;  
+`§ 34 (1) Z 11 StGB.`
+die Tat unter Umständen begangen hat, die einem Schuldausschließungs- oder Rechtfertigungsgrund nahekommen;  
+`§ 34 (1) Z 12 StGB.`
+die Tat in einem die Schuld nicht ausschließenden Rechtsirrtum (§ 9) begangen hat, insbesondere wenn er wegen vorsätzlicher Begehung bestraft wird;  
+`§ 34 (1) Z 13 StGB.`
+trotz Vollendung der Tat keinen Schaden herbeigeführt hat oder es beim Versuch geblieben ist;  
+`§ 34 (1) Z 14 StGB.`
+sich der Zufügung eines größeren Schadens, obwohl ihm dazu die Gelegenheit offenstand, freiwillig enthalten hat oder wenn der Schaden vom Täter oder von einem Dritten für ihn gutgemacht worden ist;  
+`§ 34 (1) Z 15 StGB.`
+sich ernstlich bemüht hat, den verursachten Schaden gutzumachen oder weitere nachteilige Folgen zu verhindern;  
+`§ 34 (1) Z 16 StGB.`
+sich selbst gestellt hat, obwohl er leicht hätte entfliehen können oder es wahrscheinlich war, daß er unentdeckt bleiben werde;  
+`§ 34 (1) Z 17 StGB.`
+ein reumütiges Geständnis abgelegt oder durch seine Aussage wesentlich zur Wahrheitsfindung beigetragen hat;  
+`§ 34 (1) Z 18 StGB.`
+die Tat schon vor längerer Zeit begangen und sich seither wohlverhalten hat;  
+`§ 34 (1) Z 19 StGB.`
+dadurch betroffen ist, daß er oder eine ihm persönlich nahestehende Person durch die Tat oder als deren Folge eine beträchtliche Körperverletzung oder Gesundheitsschädigung oder sonstige gewichtige tatsächliche oder rechtliche Nachteile erlitten hat.
 
 `§ 34 (2) StGB.`  
 Ein Milderungsgrund ist es auch, wenn das gegen den Täter geführte Verfahren aus einem nicht von ihm oder seinem Verteidiger zu vertretenden Grund unverhältnismäßig lange gedauert hat.
@@ -76,12 +110,12 @@ Ein Milderungsgrund ist es auch, wenn das gegen den Täter geführte Verfahren a
 ### § 35 StGB # Berauschung
 
 `§ 35 StGB.`  
- Hat der Täter in einem die Zurechnungsfähigkeit nicht ausschließenden Rauschzustand gehandelt, so ist dies nur insoweit mildernd, als die dadurch bedingte Herabsetzung der Zurechnungsfähigkeit nicht durch den Vorwurf aufgewogen wird, den der Genuß oder Gebrauch des berauschenden Mittels den Umständen nach begründet.
+Hat der Täter in einem die Zurechnungsfähigkeit nicht ausschließenden Rauschzustand gehandelt, so ist dies nur insoweit mildernd, als die dadurch bedingte Herabsetzung der Zurechnungsfähigkeit nicht durch den Vorwurf aufgewogen wird, den der Genuß oder Gebrauch des berauschenden Mittels den Umständen nach begründet.
 
 ### § 36 StGB # Verhängung von Freiheitsstrafen über Personen unter einundzwanzig Jahren
 
 `§ 36 StGB.`  
- Für eine Person, die zur Zeit der Tat das einundzwanzigste Lebensjahr noch nicht vollendet hat, gelten die in § 19 JGG vorgesehenen Strafdrohungen.
+Für eine Person, die zur Zeit der Tat das einundzwanzigste Lebensjahr noch nicht vollendet hat, gelten die in § 19 JGG vorgesehenen Strafdrohungen.
 
 ### § 37 StGB # Verhängung von Geldstrafen an Stelle von Freiheitsstrafen
 
@@ -95,8 +129,10 @@ Ist für eine Tat eine strengere Freiheitsstrafe als nach Abs. 1, aber keine st
 
 `§ 38 (1) StGB.`  
 Die verwaltungsbehördliche und die gerichtliche Verwahrungshaft und die Untersuchungshaft sind auf Freiheitsstrafen und Geldstrafen anzurechnen, wenn der Täter die Haft  
-`§ 38 (1) Z 1 StGB.` in einem Verfahren wegen der Tat, für die er bestraft wird, oder  
-`§ 38 (1) Z 2 StGB.` sonst nach der Begehung dieser Tat wegen des Verdachtes einer mit Strafe bedrohten Handlung  
+`§ 38 (1) Z 1 StGB.`
+in einem Verfahren wegen der Tat, für die er bestraft wird, oder  
+`§ 38 (1) Z 2 StGB.`
+sonst nach der Begehung dieser Tat wegen des Verdachtes einer mit Strafe bedrohten Handlung  
 erlitten hat, und zwar in beiden Fällen nur soweit die Haft nicht bereits auf eine andere Strafe angerechnet oder der Verhaftete dafür entschädigt worden ist.
 
 `§ 38 (2) StGB.`  
@@ -119,19 +155,28 @@ Eine frühere Strafe bleibt außer Betracht, wenn seit ihrer Verbüßung bis zur
 
 `§ 39a (1) StGB.`  
 Hat ein Täter eine vorsätzliche strafbare Handlung unter Anwendung von Gewalt oder gefährlicher Drohung  
-`§ 39a (1) Z 1 StGB.` als volljährige gegen eine unmündige Person,  
-`§ 39a (1) Z 2 StGB.` gegen eine aufgrund besonderer Umstände schutzbedürftige Person unter Ausnützung deren besonderer Schutzbedürftigkeit,  
-`§ 39a (1) Z 3 StGB.` unter Einsatz eines außergewöhnlich hohen Ausmaßes an Gewalt oder nachdem der Tat eine solche Gewaltanwendung vorausgegangen ist oder  
-`§ 39a (1) Z 4 StGB.` unter Einsatz oder Drohung mit einer Waffe oder  
-`§ 39a (1) Z 5 StGB.` mit mindestens einer weiteren Person in verabredeter Verbindung begangen,  
+`§ 39a (1) Z 1 StGB.`
+als volljährige gegen eine unmündige Person,  
+`§ 39a (1) Z 2 StGB.`
+gegen eine aufgrund besonderer Umstände schutzbedürftige Person unter Ausnützung deren besonderer Schutzbedürftigkeit,  
+`§ 39a (1) Z 3 StGB.`
+unter Einsatz eines außergewöhnlich hohen Ausmaßes an Gewalt oder nachdem der Tat eine solche Gewaltanwendung vorausgegangen ist oder  
+`§ 39a (1) Z 4 StGB.`
+unter Einsatz oder Drohung mit einer Waffe oder  
+`§ 39a (1) Z 5 StGB.`
+mit mindestens einer weiteren Person in verabredeter Verbindung begangen,  
 so treten die in Abs. 2 genannten Änderungen der Strafdrohung ein, wenn der jeweilige Umstand nicht schon die Strafdrohung bestimmt.
 
 `§ 39a (2) StGB.`  
 Demnach tritt an die Stelle der Androhung  
-`§ 39a (2) Z 1 StGB.` einer Freiheitsstrafe bis zu einem Jahr oder der Androhung einer solchen Freiheitsstrafe oder einer Geldstrafe bis zu 720 Tagessätzen die Androhung einer Freiheitsstrafe von zwei Monaten bis zu einem Jahr,  
-`§ 39a (2) Z 2 StGB.` einer Freiheitsstrafe, die kein Mindestmaß vorsieht und deren Höchstmaß ein Jahr übersteigt, die Androhung eines Mindestmaßes von drei Monaten Freiheitsstrafe,  
-`§ 39a (2) Z 3 StGB.` einer Freiheitsstrafe, deren Mindestmaß sechs Monate beträgt, die Androhung eines Mindestmaßes von einem Jahr Freiheitsstrafe,  
-`§ 39a (2) Z 4 StGB.` einer Freiheitsstrafe, deren Mindestmaß ein Jahr beträgt, die Androhung eines Mindestmaßes von zwei Jahren Freiheitsstrafe.
+`§ 39a (2) Z 1 StGB.`
+einer Freiheitsstrafe bis zu einem Jahr oder der Androhung einer solchen Freiheitsstrafe oder einer Geldstrafe bis zu 720 Tagessätzen die Androhung einer Freiheitsstrafe von zwei Monaten bis zu einem Jahr,  
+`§ 39a (2) Z 2 StGB.`
+einer Freiheitsstrafe, die kein Mindestmaß vorsieht und deren Höchstmaß ein Jahr übersteigt, die Androhung eines Mindestmaßes von drei Monaten Freiheitsstrafe,  
+`§ 39a (2) Z 3 StGB.`
+einer Freiheitsstrafe, deren Mindestmaß sechs Monate beträgt, die Androhung eines Mindestmaßes von einem Jahr Freiheitsstrafe,  
+`§ 39a (2) Z 4 StGB.`
+einer Freiheitsstrafe, deren Mindestmaß ein Jahr beträgt, die Androhung eines Mindestmaßes von zwei Jahren Freiheitsstrafe.
 
 `§ 39a (3) StGB.`  
 Die Anwendung des § 39 bleibt hievon unberührt. Bei der Anwendung des § 41 ist von den nach Abs. 2 geänderten Strafdrohungen auszugehen.
@@ -139,17 +184,22 @@ Die Anwendung des § 39 bleibt hievon unberührt. Bei der Anwendung des § 41 
 ### § 40 StGB # Strafbemessung bei nachträglicher Verurteilung
 
 `§ 40 StGB.`  
- Bei nachträglicher Verurteilung ist die Zusatzstrafe innerhalb der im § 31 bestimmten Grenzen so zu bemessen, daß die Summe der Strafen jener Strafe entspricht, die bei gemeinsamer Aburteilung zu verhängen wäre. Wäre bei gemeinsamer Aburteilung keine höhere Strafe als die im früheren Urteil verhängte auszusprechen, so ist von einer Zusatzstrafe abzusehen.
+Bei nachträglicher Verurteilung ist die Zusatzstrafe innerhalb der im § 31 bestimmten Grenzen so zu bemessen, daß die Summe der Strafen jener Strafe entspricht, die bei gemeinsamer Aburteilung zu verhängen wäre. Wäre bei gemeinsamer Aburteilung keine höhere Strafe als die im früheren Urteil verhängte auszusprechen, so ist von einer Zusatzstrafe abzusehen.
 
 ### § 41 StGB # Außerordentliche Strafmilderung bei Überwiegen der Milderungsgründe
 
 `§ 41 (1) StGB.`  
 Überwiegen die Milderungsgründe die Erschwerungsgründe beträchtlich, und besteht begründete Aussicht, daß der Täter auch bei Verhängung einer das gesetzliche Mindestmaß unterschreitenden Freiheitsstrafe keine weiteren strafbaren Handlungen begehen werde, so kann erkannt werden:  
-`§ 41 (1) Z 1 StGB.` wenn die Tat mit lebenslanger Freiheitsstrafe bedroht ist oder wenn sie mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe bedroht ist, auf Freiheitsstrafe nicht unter einem Jahr;  
-`§ 41 (1) Z 2 StGB.` wenn die Tat zwar nicht mit lebenslanger Freiheitsstrafe, aber mit Freiheitsstrafe von mindestens zehn Jahren bedroht ist, auf Freiheitsstrafe nicht unter sechs Monaten;  
-`§ 41 (1) Z 3 StGB.` wenn die Tat mit Freiheitsstrafe von mindestens fünf Jahren bedroht ist, auf Freiheitsstrafe nicht unter drei Monaten;  
-`§ 41 (1) Z 4 StGB.` wann die Tat mit Freiheitsstrafe von mindestens einem Jahr bedroht ist, auf Freiheitsstrafe nicht unter einem Monat;  
-`§ 41 (1) Z 5 StGB.` wenn die Tat mit geringerer Freiheitsstrafe bedroht ist, auf Freiheitsstrafe von mindestens einem Tag.
+`§ 41 (1) Z 1 StGB.`
+wenn die Tat mit lebenslanger Freiheitsstrafe bedroht ist oder wenn sie mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe bedroht ist, auf Freiheitsstrafe nicht unter einem Jahr;  
+`§ 41 (1) Z 2 StGB.`
+wenn die Tat zwar nicht mit lebenslanger Freiheitsstrafe, aber mit Freiheitsstrafe von mindestens zehn Jahren bedroht ist, auf Freiheitsstrafe nicht unter sechs Monaten;  
+`§ 41 (1) Z 3 StGB.`
+wenn die Tat mit Freiheitsstrafe von mindestens fünf Jahren bedroht ist, auf Freiheitsstrafe nicht unter drei Monaten;  
+`§ 41 (1) Z 4 StGB.`
+wann die Tat mit Freiheitsstrafe von mindestens einem Jahr bedroht ist, auf Freiheitsstrafe nicht unter einem Monat;  
+`§ 41 (1) Z 5 StGB.`
+wenn die Tat mit geringerer Freiheitsstrafe bedroht ist, auf Freiheitsstrafe von mindestens einem Tag.
 
 `§ 41 (2) StGB.`  
 Unter den Voraussetzungen des Abs. 1 Z 3 und 4 muß jedoch auf Freiheitsstrafe von mindestens sechs Monaten erkannt werden, wenn die Tat den Tod eines Menschen zur Folge gehabt hat (§ 7 Abs. 2), mag dieser Umstand auch schon die Strafdrohung bestimmen.
@@ -161,9 +211,12 @@ Die §§ 43 und 43a können auch angewendet werden, wenn auf eine Freiheitsstra
 
 `§ 41a (1) StGB.`  
 Offenbart der Täter einer nach den §§ 277, 278, 278a oder 278b strafbaren Handlung oder einer strafbaren Handlung, die mit einer solchen Verabredung, Vereinigung oder Organisation im Zusammenhang steht, einer Strafverfolgungsbehörde sein Wissen über Tatsachen, deren Kenntnis wesentlich dazu beiträgt,  
-`§ 41a (1) Z 1 StGB.` die aus der Verabredung, Vereinigung oder Organisation entstandene Gefahr zu beseitigen oder erheblich zu vermindern,  
-`§ 41a (1) Z 2 StGB.` die Aufklärung einer solchen strafbaren Handlung über seinen eigenen Tatbeitrag hinaus zu fördern oder  
-`§ 41a (1) Z 3 StGB.` eine Person auszuforschen, die an einer solchen Verabredung führend teilgenommen hat oder in einer solchen Vereinigung oder Organisation führend tätig war,  
+`§ 41a (1) Z 1 StGB.`
+die aus der Verabredung, Vereinigung oder Organisation entstandene Gefahr zu beseitigen oder erheblich zu vermindern,  
+`§ 41a (1) Z 2 StGB.`
+die Aufklärung einer solchen strafbaren Handlung über seinen eigenen Tatbeitrag hinaus zu fördern oder  
+`§ 41a (1) Z 3 StGB.`
+eine Person auszuforschen, die an einer solchen Verabredung führend teilgenommen hat oder in einer solchen Vereinigung oder Organisation führend tätig war,  
 so kann ein gesetzliches Mindestmaß der Strafe nach Maßgabe des § 41 unterschritten werden, wenn dies der Bedeutung der geoffenbarten Tatsachen im Verhältnis zur Schuld des Täters entspricht. § 41 Abs. 3 gilt entsprechend.
 
 `§ 41a (2) StGB.`  
@@ -171,6 +224,7 @@ Abs. 1 gilt für den Beteiligten einer Verabredung, Verbindung (Anm.: richtig: 
 
 `§ 41a (3) StGB.`  
 Bezieht sich das Wissen des Täters auf strafbare Handlungen, für die die österreichischen Strafgesetze nicht gelten, so ist Abs. 1 gleichwohl anzuwenden, soweit die Leistung von Rechtshilfe zulässig wäre.
+
 ## Fünfter Abschnitt # Bedingte Strafnachsicht und bedingte Entlassung, Weisungen und Bewährungshilfe
 
 ### § 43 StGB # Bedingte Strafnachsicht
@@ -197,6 +251,7 @@ Wird auf eine Freiheitsstrafe von mehr als sechs Monaten, aber nicht mehr als zw
 
 `§ 43a (4) StGB.`  
 Wird auf eine Freiheitsstrafe von mehr als zwei, aber nicht mehr als drei Jahren erkannt und besteht eine hohe Wahrscheinlichkeit, daß der Rechtsbrecher keine weiteren strafbaren Handlungen begehen werde, so ist unter den Voraussetzungen des § 43 Abs. 1 ein Teil der Strafe bedingt nachzusehen. Abs. 3 letzter Satz ist anzuwenden.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;5 aufgehoben durch <a href="/Dokumente/BgblPdf/1997_105_1/1997_105_1.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1997_105_1', 'BGBl. I Nr. 105/1997', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;105/1997</a>)</span></span></p>
 
 ### § 44 StGB # Bedingte Nachsicht bei Zusammentreffen mehrerer Strafen
 
@@ -209,8 +264,16 @@ Nebenstrafen und Rechtsfolgen der Verurteilung können unabhängig von der Haupt
 ### § 45 StGB # Bedingte Nachsicht von vorbeugenden Maßnahmen
 
 `§ 45 StGB.`  
- (Anm.: Abs. 1 aufgehoben durch Art. 1 Z 11, BGBl. I Nr. 223/2022)
-**FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(2)</span><span><span aria-hidden="true">Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher darf nur zugleich mit der Strafe und nur dann bedingt nachgesehen werden, wenn anzunehmen ist, dass die bloße Androhung der Unterbringung in Verbindung mit einer oder mehreren der in den §§&nbsp;50 bis 52 vorgesehenen Maßnahmen genügen werde, um die Gewöhnung des Rechtsbrechers an berauschende Mittel oder Suchtmittel zu überwinden. Die für die bedingte Strafnachsicht bestimmte Probezeit gilt auch für die bedingte Nachsicht der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(3)</span><span><span aria-hidden="true">§&nbsp;43 Abs.&nbsp;2 gilt dem Sinne nach.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span>Die bedingte Nachsicht anderer vorbeugender Maßnahmen ist unzulässig.</span></div></div></li></ol>
+(Anm.: Abs. 1 aufgehoben durch Art. 1 Z 11, BGBl. I Nr. 223/2022)
+
+`§ 45 (2) StGB.`  
+Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher darf nur zugleich mit der Strafe und nur dann bedingt nachgesehen werden, wenn anzunehmen ist, dass die bloße Androhung der Unterbringung in Verbindung mit einer oder mehreren der in den §§ 50 bis 52 vorgesehenen Maßnahmen genügen werde, um die Gewöhnung des Rechtsbrechers an berauschende Mittel oder Suchtmittel zu überwinden. Die für die bedingte Strafnachsicht bestimmte Probezeit gilt auch für die bedingte Nachsicht der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher.
+
+`§ 45 (3) StGB.`  
+§ 43 Abs. 2 gilt dem Sinne nach.
+
+`§ 45 (4) StGB.`  
+Die bedingte Nachsicht anderer vorbeugender Maßnahmen ist unzulässig.
 
 ### § 46 StGB # Bedingte Entlassung aus einer Freiheitsstrafe
 
@@ -219,6 +282,7 @@ Hat ein Verurteilter die Hälfte der im Urteil verhängten oder im Gnadenweg fes
 
 `§ 46 (2) StGB.`  
 Hat ein Verurteilter die Hälfte, aber noch nicht zwei Drittel einer Freiheitsstrafe verbüßt, so ist er trotz Vorliegens der Voraussetzungen nach Abs. 1 solange nicht bedingt zu entlassen, als es im Hinblick auf die Schwere der Tat ausnahmsweise des weiteren Vollzuges der Strafe bedarf, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken.
+**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs. 3 aufgehoben durch <a href="/eli/bgbl/I/2015/154" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_154', 'BGBl. I Nr. 154/2015', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;154/2015</a>)</span></span></p>
 
 `§ 46 (4) StGB.`  
 Bei Entscheidungen nach Abs. 1 ist auf den Umstand Bedacht zu nehmen, inwieweit durch den bisherigen Vollzug der Strafe, insbesondere auch durch eine während des Vollzugs begonnene freiwillige Behandlung im Sinne von § 51 Abs. 3, die der Verurteilte in Freiheit fortzusetzen bereit ist, eine Änderung der Verhältnisse, unter denen die Tat begangen wurde, eingetreten ist, oder durch Maßnahmen gemäß §§ 50 bis 52 erreicht werden kann.
@@ -257,7 +321,7 @@ Wird die bedingte Nachsicht des Strafrestes oder die bedingte Entlassung aus ein
 ### § 49 StGB # Berechnung der Probezeiten
 
 `§ 49 StGB.`  
- Die Probezeit beginnt mit der Rechtskraft der Entscheidung, mit der die bedingte Nachsicht (§§ 43 bis 45) oder die bedingte Entlassung (§§ 46 und 47) ausgesprochen worden ist. Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, werden in die Probezeit nicht eingerechnet. Wird ein Verurteilter aus dem nicht bedingt nachgesehenen Teil einer Freiheitsstrafe vor Ablauf der für den bedingt nachgesehenen Strafteil bestimmten Probezeit bedingt entlassen, so laufen beide Probezeiten nur gemeinsam ab.
+Die Probezeit beginnt mit der Rechtskraft der Entscheidung, mit der die bedingte Nachsicht (§§ 43 bis 45) oder die bedingte Entlassung (§§ 46 und 47) ausgesprochen worden ist. Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, werden in die Probezeit nicht eingerechnet. Wird ein Verurteilter aus dem nicht bedingt nachgesehenen Teil einer Freiheitsstrafe vor Ablauf der für den bedingt nachgesehenen Strafteil bestimmten Probezeit bedingt entlassen, so laufen beide Probezeiten nur gemeinsam ab.
 
 ### § 50 StGB # Erteilung von Weisungen und Anordnung der Bewährungshilfe
 
@@ -266,11 +330,16 @@ Wird einem Rechtsbrecher die Strafe oder die mit Freiheitsentziehung verbundene 
 
 `§ 50 (2) StGB.`  
 Bewährungshilfe ist stets anzuordnen, wenn ein Verurteilter  
-`§ 50 (2) Z 1 StGB.` vor Verbüßung von zwei Dritteln einer Freiheitsstrafe (§ 46 Abs. 1),  
-`§ 50 (2) Z 2 StGB.` aus einer Freiheitsstrafe wegen einer vor Vollendung des einundzwanzigsten Lebensjahres begangenen Tat,  
-`§ 50 (2) Z 2a StGB.` aus einer Freiheitsstrafe wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung,  
-`§ 50 (2) Z 3 StGB.` aus einer mehr als fünfjährigen Freiheitsstrafe oder  
-`§ 50 (2) Z 4 StGB.` aus lebenslanger Freiheitsstrafe  
+`§ 50 (2) Z 1 StGB.`
+vor Verbüßung von zwei Dritteln einer Freiheitsstrafe (§ 46 Abs. 1),  
+`§ 50 (2) Z 2 StGB.`
+aus einer Freiheitsstrafe wegen einer vor Vollendung des einundzwanzigsten Lebensjahres begangenen Tat,  
+`§ 50 (2) Z 2a StGB.`
+aus einer Freiheitsstrafe wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung,  
+`§ 50 (2) Z 3 StGB.`
+aus einer mehr als fünfjährigen Freiheitsstrafe oder  
+`§ 50 (2) Z 4 StGB.`
+aus lebenslanger Freiheitsstrafe  
 bedingt entlassen wird. In den Fällen der Z 1 bis 2 ist von der Anordnung der Bewährungshilfe nur abzusehen, wenn nach der Art der Tat, der Person des Rechtsbrechers und seiner Entwicklung angenommen werden kann, dass er auch ohne eine solche Anordnung keine weiteren strafbaren Handlungen begehen werde.
 
 `§ 50 (3) StGB.`  
@@ -288,7 +357,12 @@ Dem Rechtsbrecher kann insbesondere aufgetragen werden, an einem bestimmten Ort,
 Mit seiner Zustimmung kann dem Rechtsbrecher unter den Voraussetzungen des Abs. 1 auch die Weisung erteilt werden, sich einer Entwöhnungsbehandlung, einer psychotherapeutischen oder
 **FIXME** P: <p class="ErlText AlignJustify">einer medizinischen Behandlung zu unterziehen. Die Weisung, sich</p>
 **FIXME** P: <p class="ErlText AlignJustify">einer medizinischen Behandlung zu unterziehen, die einen operativen Eingriff umfaßt, darf jedoch auch mit Zustimmung des Rechtsbrechers nicht erteilt werden.</p>
-**FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span><span aria-hidden="true">Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach §&nbsp;50 geboten scheint.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(5)</span><span><span aria-hidden="true">Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach §&nbsp;45 gilt §&nbsp;179a des Strafvollzugsgesetzes (StVG), <a href="/Dokumente/BgblPdf/1969_144_0/1969_144_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_144_0', 'BGBl. Nr. 144/1969', '2025-06-05')">BGBl. Nr.&nbsp;144/1969</a>, sinngemäß.</span></span></div></div></li></ol>
+
+`§ 51 (4) StGB.`  
+Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach § 50 geboten scheint.
+
+`§ 51 (5) StGB.`  
+Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 45 gilt § 179a des Strafvollzugsgesetzes (StVG), BGBl. Nr. 144/1969, sinngemäß.
 
 ### § 52 StGB # Bewährungshilfe
 
@@ -297,10 +371,14 @@ Ordnet das Gericht die Bewährungshilfe an, so hat der Leiter der zuständigen G
 
 `§ 52 (2) StGB.`  
 Der Bewährungshelfer hat dem Gericht über seine Tätigkeit und seine Wahrnehmungen zu berichten,  
-`§ 52 (2) Z 1 StGB.` soweit dies das Gericht verlangt oder es erforderlich oder zweckmäßig ist, um den Zweck der Bewährungshilfe zu erreichen,  
-`§ 52 (2) Z 2 StGB.` wenn Anlaß besteht, die Bewährungshilfe aufzuheben,  
-`§ 52 (2) Z 3 StGB.` in jedem Fall aber sechs Monate nach Anordnung der Bewährungshilfe sowie bei deren Beendigung,  
-`§ 52 (2) Z 4 StGB.` während der gerichtlichen Aufsicht (§ 52a Abs. 2).
+`§ 52 (2) Z 1 StGB.`
+soweit dies das Gericht verlangt oder es erforderlich oder zweckmäßig ist, um den Zweck der Bewährungshilfe zu erreichen,  
+`§ 52 (2) Z 2 StGB.`
+wenn Anlaß besteht, die Bewährungshilfe aufzuheben,  
+`§ 52 (2) Z 3 StGB.`
+in jedem Fall aber sechs Monate nach Anordnung der Bewährungshilfe sowie bei deren Beendigung,  
+`§ 52 (2) Z 4 StGB.`
+während der gerichtlichen Aufsicht (§ 52a Abs. 2).
 
 `§ 52 (3) StGB.`  
 Das Gericht hat während der Probezeit die Bewährungshilfe auch nachträglich anzuordnen oder sie aufzuheben, soweit dies nach § 50 geboten erscheint. In den Fällen des § 50 Abs. 2 Z 1 bis 3 ist jedenfalls nach Ablauf eines Jahres seit der Entlassung nach Einholung eines Berichtes des Bewährungshelfers und einer Stellungnahme des Leiters der zuständigen Geschäftsstelle für Bewährungshilfe zu entscheiden, ob die Anordnung der Bewährungshilfe weiterhin notwendig oder zweckmäßig ist.
@@ -309,8 +387,10 @@ Das Gericht hat während der Probezeit die Bewährungshilfe auch nachträglich a
 
 `§ 52a (1) StGB.`  
 Wird ein Rechtsbrecher, der wegen einer strafbaren Handlung  
-`§ 52a (1) Z 1 StGB.` gegen die sexuelle Integrität und Selbstbestimmung oder  
-`§ 52a (1) Z 2 StGB.` gegen Leib und Leben oder die Freiheit, wenn diese Handlung begangen wurde, um sich geschlechtlich zu erregen oder zu befriedigen,  
+`§ 52a (1) Z 1 StGB.`
+gegen die sexuelle Integrität und Selbstbestimmung oder  
+`§ 52a (1) Z 2 StGB.`
+gegen Leib und Leben oder die Freiheit, wenn diese Handlung begangen wurde, um sich geschlechtlich zu erregen oder zu befriedigen,  
 zu einer Freiheitsstrafe verurteilt oder gegen den wegen einer solchen Handlung eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme angeordnet worden ist, bedingt entlassen, so ist er für die Dauer der Probezeit unter gerichtliche Aufsicht zu stellen, soweit die Überwachung des Verhaltens des Rechtsbrechers (Abs. 2), insbesondere hinsichtlich der Befolgung einer Weisung gemäß § 51 Abs. 3 oder einer Weisung, bestimmte Tätigkeiten nicht auszuüben, notwendig oder zweckmäßig ist, ihn von weiteren solchen mit Strafe bedrohten Handlungen abzuhalten.
 
 `§ 52a (2) StGB.`  
@@ -323,9 +403,12 @@ Die Organe des öffentlichen Sicherheitsdienstes sind zur Erfüllung der den Sic
 
 `§ 52b (1) StGB.`  
 Wird ein Rechtsbrecher, der  
-`§ 52b (1) Z 1 StGB.` wegen einer strafbaren Handlung nach dem Verbotsgesetz oder wegen staatsfeindlicher Verbindung (§ 246), staatsfeindlicher Bewegung (247a) oder religiös motivierter extremistischer Verbindung (§ 247b),  
-`§ 52b (1) Z 2 StGB.` wegen terroristischer Vereinigung (§ 278b), terroristischer Straftaten (§ 278c), Terrorismusfinanzierung (§ 278d), Ausbildung für terroristische Zwecke (§ 278e), Anleitung zur Begehung einer terroristischen Straftat (§ 278f), Reisen für terroristische Zwecke (§ 278g) oder Aufforderung zu terroristischen Straftaten und Gutheißung terroristischer Straftaten (§ 282a) („terroristische Strafsachen“) oder  
-`§ 52b (1) Z 3 StGB.` wegen einer strafbaren Handlung nach dem fünfundzwanzigsten Abschnitt  
+`§ 52b (1) Z 1 StGB.`
+wegen einer strafbaren Handlung nach dem Verbotsgesetz oder wegen staatsfeindlicher Verbindung (§ 246), staatsfeindlicher Bewegung (247a) oder religiös motivierter extremistischer Verbindung (§ 247b),  
+`§ 52b (1) Z 2 StGB.`
+wegen terroristischer Vereinigung (§ 278b), terroristischer Straftaten (§ 278c), Terrorismusfinanzierung (§ 278d), Ausbildung für terroristische Zwecke (§ 278e), Anleitung zur Begehung einer terroristischen Straftat (§ 278f), Reisen für terroristische Zwecke (§ 278g) oder Aufforderung zu terroristischen Straftaten und Gutheißung terroristischer Straftaten (§ 282a) („terroristische Strafsachen“) oder  
+`§ 52b (1) Z 3 StGB.`
+wegen einer strafbaren Handlung nach dem fünfundzwanzigsten Abschnitt  
 zu einer Freiheitsstrafe verurteilt oder gegen den wegen einer solchen Handlung eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme angeordnet worden ist, bedingt entlassen, so hat das Gericht für die Dauer der Probezeit gerichtliche Aufsicht anzuordnen, soweit die Überwachung des Verhaltens des Rechtsbrechers, insbesondere hinsichtlich der Befolgung einer Weisung gemäß § 51 Abs. 2 erster Satz oder Abs. 3 oder einer Weisung, bestimmte Tätigkeiten nicht auszuüben, notwendig oder zweckmäßig ist, ihn von weiteren solchen mit Strafe bedrohten Handlungen abzuhalten.
 
 `§ 52b (2) StGB.`  
@@ -342,8 +425,10 @@ Das Gericht hat die unbedingte Notwendigkeit der elektronischen Überwachung unb
 
 `§ 52b (6) StGB.`  
 Bei einer Weisung nach Abs. 4 werden mit Hilfe der vom Betroffenen mitgeführten technischen Mittel automatisiert Daten über dessen Aufenthaltsort sowie über etwaige Beeinträchtigungen der Datenerhebung erhoben und gespeichert. Unbeschadet des § 76 Abs. 2 StPO dürfen die Daten nur verwendet werden, soweit dies für die folgenden Zwecke erforderlich ist:  
-`§ 52b (6) Z 1 StGB.` zur Feststellung eines Verstoßes gegen ein in einer Weisung nach § 51 Abs. 2 oder 3 enthaltenes Gebot oder Verbot zum örtlichen Aufenthalt oder  
-`§ 52b (6) Z 2 StGB.` zur Ergreifung von Maßnahmen, die sich an einen Verstoß gegen eine Weisung anschließen können.
+`§ 52b (6) Z 1 StGB.`
+zur Feststellung eines Verstoßes gegen ein in einer Weisung nach § 51 Abs. 2 oder 3 enthaltenes Gebot oder Verbot zum örtlichen Aufenthalt oder  
+`§ 52b (6) Z 2 StGB.`
+zur Ergreifung von Maßnahmen, die sich an einen Verstoß gegen eine Weisung anschließen können.
 
 `§ 52b (7) StGB.`  
 Zur Einhaltung der Zweckbindung nach Abs. 6 zweiter Satz hat die Verarbeitung der Daten zur Feststellung von Verstößen nach Abs. 6 Z 1 automatisiert zu erfolgen und sind die Daten gegen unbefugte Kenntnisnahme besonders zu sichern. Diese Daten sind spätestens zwei Wochen nach ihrer Erhebung zu löschen, soweit sie nicht für die in Abs. 6 Z 1 und 2 genannten Zwecke verwendet werden. Bei jedem Abruf der Daten sind zumindest der Zeitpunkt, die abgerufenen Daten und der Bearbeiter zu protokollieren. Die überwachte Person ist über jeden Zugriff auf ihre Daten zu informieren. Die Protokolldaten dürfen nur für die Kontrolle der Zulässigkeit der Abrufe verwendet werden und sind nach zwölf Monaten zu löschen.
@@ -405,6 +490,6 @@ Wird die bedingte Nachsicht nicht widerrufen, so dauert jede der zusammentreffen
 ### § 56 StGB # Widerrufsfristen
 
 `§ 56 StGB.`  
- Die in den §§ 53 bis 55 vorgesehenen Verfügungen kann das Gericht nur in der Probezeit, wegen einer während dieser Zeit begangenen strafbaren Handlung jedoch auch innerhalb von sechs Monaten nach Ablauf der Probezeit oder nach Beendigung eines bei deren Ablauf gegen den Rechtsbrecher anhängigen Strafverfahrens treffen.
+Die in den §§ 53 bis 55 vorgesehenen Verfügungen kann das Gericht nur in der Probezeit, wegen einer während dieser Zeit begangenen strafbaren Handlung jedoch auch innerhalb von sechs Monaten nach Ablauf der Probezeit oder nach Beendigung eines bei deren Ablauf gegen den Rechtsbrecher anhängigen Strafverfahrens treffen.
 
 `END-OF-DATA-FILE`

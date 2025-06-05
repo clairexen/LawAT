@@ -2,319 +2,296 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 18. Hauptstück | Kosten des Strafverfahrens
+## 3. Abschnitt # Verfahren beim Verfall, beim erweiterten Verfall und bei der Einziehung
 
-### § 380 StPO.
+### § 443 StPO
 
-**§ 380 StPO.**  
- Sofern die besonderen Vorschriften über die Gerichtsgebühren nichts anderes bestimmen, sind in Strafsachen keine Gebühren zu entrichten.
+`§ 443 (1) StPO.`  
+Über den Verfall, den erweiterten Verfall, die Einziehung und andere vermögensrechtliche Anordnungen (Haftung für Geldstrafen, Verfalls- und Wertersatz) ist im Strafurteil zu entscheiden, soweit in diesem Abschnitt nichts anderes bestimmt wird.
 
-### § 381 StPO.
+`§ 443 (2) StPO.`  
+Wenn die Ergebnisse des Strafverfahrens weder an sich noch nach Durchführung von Beweisaufnahmen, die die Entscheidung in der Schuld- und Straffrage nicht erheblich verzögern, ausreichen, um über die im Abs. 1 angeführten vermögensrechtlichen Anordnungen verläßlich urteilen zu können, kann ihr Ausspruch durch Beschluß einer gesonderten Entscheidung (§§ 445, 445a) vorbehalten bleiben, außer welchem Falle eine solche Anordnung wegen der betroffenen Vermögenswerte oder Gegenstände nicht mehr zulässig ist.
 
-**§ 381 (1) StPO.**  
-Die Kosten des Strafverfahrens, die von der zum Kostenersatze verpflichteten Partei zu ersetzen sind, umfassen:
-1. einen Pauschalkostenbeitrag als Anteil an den im Folgenden nicht besonders angeführten Kosten des Strafverfahrens, einschließlich der Kosten der Ermittlungen der Kriminalpolizei und der zur Durchführung von Anordnungen der Staatsanwaltschaft oder des Gerichts notwendigen Amtshandlungen;
-2. die Gebühren der Sachverständigen;
-3. soweit nicht nach Abs. 6 vorzugehen ist, die Gebühren der Dolmetscher, im Fall einer Bestellung nach § 126 Abs. 2a einen Pauschalbeitrag von 159 Euro;
-4. eine Vergütung für Auskünfte, Befunde und Gutachten von Behörden (Ämtern, Anstalten) in der Höhe, wie sie für solche Auskünfte, Befunde und Gutachten in Privatangelegenheiten zu entrichten wäre;
-5. die Kosten der Beförderung und Bewachung des Beschuldigten im Zusammenhang mit seiner Überstellung aus einem anderen Staat sowie die Kosten aus dem Ausland geladener Zeugen;
-6. die Kosten einer Sicherstellung, einer Auskunft über Bankkonten und über Bankgeschäfte oder der Beschlagnahme von Briefen, der Auskunft über Daten einer Nachrichtenübermittlung und der Überwachung von Nachrichten gemäß §§ 111 Abs. 3, 116 Abs. 6 letzter Satz und 138 Abs. 3, soweit diese Ermittlungsmaßnahmen einen erheblichen Beitrag zur Aufklärung der Tat geleistet haben;
-7. die Kosten der Vollstreckung des Strafurteiles einschließlich der Kosten der Überstellung von Strafgefangenen in den in- oder ausländischen Strafvollzug, ausgenommen die Kosten des Vollzuges einer Freiheitsstrafe;
-8. die im Strafverfahren zu entrichtenden Gerichtsgebühren;
-9. die Kosten der Verteidiger und anderer Vertreter;
-10. einen Pauschalbetrag als Anteil an den Kosten der Prozessbegleitung (§ 66b) bis zu 1 000 Euro.
+`§ 443 (3) StPO.`  
+Die Entscheidung über vermögensrechtliche Anordnungen steht, außer im Fall des § 445a, dem Ausspruch über die Strafe gleich und kann zugunsten und zum Nachteil des Verurteilten oder des Haftungsbeteiligten (§§ 64, 444) mit Berufung angefochten werden.
 
-**§ 381 (2) StPO.**  
-Diese Kosten werden, soweit sich aus besonderen gesetzlichen Vorschriften nichts anderes ergibt, mit Ausnahme der unter Abs. 1 Z 3 und 7 bis 9 bezeichneten Kosten vom Bunde vorgeschossen, vorbehaltlich des Rückersatzes nach den Bestimmungen der §§ 389 bis
-**FIXME** P: <p class="ErlText AlignJustify">391.</p>
-**FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(3)</span><span><span aria-hidden="true">Der Pauschalkostenbeitrag (Abs.&nbsp;1 Z&nbsp;1) ist innerhalb der folgenden Grenzen zu bemessen (Abs.&nbsp;5):</span></span></div><ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">im Verfahren vor dem Landesgericht als Geschworenengericht von 500&nbsp;Euro bis 10&nbsp;000&nbsp;Euro</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">im Verfahren vor dem Landesgericht als Schöffengericht von 250&nbsp;Euro bis 5&nbsp;000&nbsp;Euro</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">im Verfahren vor dem Einzelrichter des Landesgerichts von 150&nbsp;Euro bis 3&nbsp;000&nbsp;Euro</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">4.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">im Verfahren vor dem Bezirksgericht von 50&nbsp;Euro bis 1&nbsp;000&nbsp;Euro</div></div></li></ol></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span>Spricht ein Landesgericht lediglich eine Verurteilung wegen einer in die Zuständigkeit der Bezirksgerichte fallenden strafbaren Handlung aus, so darf der Pauschalkostenbeitrag den für das Verfahren vor den Bezirksgerichten vorgesehenen Betrag nicht übersteigen. Im Verfahren vor den Bezirksgerichten auf Grund einer Privatanklage ist ein Pauschalkostenbeitrag nicht zu bestimmen, wenn keine Hauptverhandlung stattgefunden hat und auch keine Zeugen- oder Sachverständigengebühren aufgelaufen sind.</span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(5)</span><span><span aria-hidden="true">Bei Bemessung des Pauschalkostenbeitrages gemäß Abs.&nbsp;3 sind die Belastung der im Strafverfahren tätigen Behörden und Dienststellen und das Ausmaß der diesen erwachsenen, nicht besonders zu vergütenden Auslagen sowie das Vermögen, das Einkommen und die anderen für die wirtschaftliche Leistungsfähigkeit des Ersatzpflichtigen maßgebenden Umstände zu berücksichtigen.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(5a)</span><span><span aria-hidden="true">Bei Bemessung des Pauschalbetrages gemäß Abs.&nbsp;1 Z&nbsp;9 sind die Belastung der mit der Prozessbegleitung beauftragten Einrichtung und das Ausmaß ihrer Aufwendungen sowie die im Abs.&nbsp;5 bezeichneten Umstände der wirtschaftlichen Leistungsfähigkeit des Ersatzpflichtigen zu berücksichtigen.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(6)</span><span><span aria-hidden="true">Die Kosten für Übersetzungshilfe (§&nbsp;56) bilden keinen Teil der vom Angeklagten zu ersetzenden Kosten. Weitergehende Rechte, die sprachlichen Minderheiten bundesgesetzlich eingeräumt sind, bleiben unberührt.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(7)</span><span>Die durch eine Festnahme verursachten Kosten und die Kosten der Untersuchungshaft sind bei Bemessung des Pauschalkostenbeitrages nicht zu berücksichtigen.</span></div></div></li></ol>
+### § 444 StPO
 
-### § 382 StPO.
+`§ 444 (1) StPO.`  
+Die Hauptverhandlung und die Urteilsverkündung können in Abwesenheit des Haftungsbeteiligten (§ 64) vorgenommen werden, wenn dieser ordnungsgemäß zur Hauptverhandlung geladen wurde (§ 221 Abs. 2).
 
-**§ 382 StPO.**  
- Die Gebühren der Organe der Kriminalpolizei für die Anfertigung von Kopien für Zwecke der Akteneinsicht, Zustellungen, Ladungen, Bewachung oder Beförderung des Beschuldigten oder anderer Personen werden durch besondere bundesgesetzliche Bestimmungen geregelt.
+`§ 444 (2) StPO.`  
+Hat ein Haftungsbeteiligter sein Recht nicht vor Rechtskraft der Entscheidung über den Verfall, den erweiterten Verfall oder die Einziehung geltend gemacht, so kann er seine Ansprüche auf den Gegenstand oder Vermögenswert oder dessen Verkaufs- oder Verwertungserlös (§ 408) binnen dreißig Jahren nach der Entscheidung gegen den Bund im Zivilrechtsweg geltend machen.
 
-### § 383 StPO.
+### § 445 StPO
 
-**§ 383 StPO.**  
- (Aufgehoben)
+`§ 445 (1) StPO.`  
+Liegen hinreichende Gründe für die Annahme vor, daß die Voraussetzungen des Verfalls (§ 20 StGB), des erweiterten Verfalls (§ 20b StGB) oder der Einziehung (§ 26 StGB) gegeben seien, ohne daß darüber in einem Strafverfahren oder in einem auf Unterbringung in einer der in den §§ 21 bis 23 StGB genannten Anstalten gerichteten Verfahren entschieden werden kann, so hat der Ankläger einen selbständigen Antrag auf Erlassung einer solchen vermögensrechtlichen Anordnung zu stellen.
 
-### § 384 StPO.
+`§ 445 (2) StPO.`  
+Über einen Antrag auf Verfall oder auf erweiterten Verfall hat das Gericht, welches für die Verhandlung und Urteilsfällung wegen jener Tat, die die Anordnung begründen soll, zuständig war oder wäre, mangels einer solchen Zuständigkeit aber das Landesgericht, in dessen Sprengel sich der Vermögenswert oder Gegenstand befindet, in einem selbständigen Verfahren nach öffentlicher mündlicher Verhandlung durch Urteil zu entscheiden. Das Landesgericht entscheidet durch Einzelrichter. Hat ein Schöffen- oder Geschworenengericht über die Tat geurteilt, die die Anordnung begründen soll, oder die Entscheidung vorbehalten (§ 443 Abs. 2), so ist dessen Vorsitzender als Einzelrichter zuständig.
 
-**§ 384 StPO.**  
- (Aufgehoben)
+`§ 445 (2a) StPO.`  
+Die vorstehenden Absätze gelten sinngemäß auch für eine Anordnung der Konfiskation (§ 19a StGB), wenn das Verfahren wegen Straftaten, die mit dem Vorsatz der unrechtmäßigen Bereicherung oder der Erlangung eines Vorteils begangen wurden, wegen Krankheit oder Flucht nach § 197 abgebrochen wurde, jedoch auf Grund ausreichend geklärten Sachverhalts nahe liegt, dass im Fall einer Verurteilung eine Konfiskation (§ 19a StGB) ausgesprochen würde und der Angeklagte gemäß §§ 164 oder 165 zum Anklagevorwurf und zu den Voraussetzungen der Anordnung der Konfiskation vernommen wurde.
 
-### § 385 StPO.
+`§ 445 (3) StPO.`  
+Über einen Antrag auf Einziehung hat das Bezirksgericht des Tatortes, ist dieser aber nicht bekannt oder im Ausland gelegen, das Bezirksgericht, in dessen Sprengel sich der Gegenstand befindet, in einem selbständigen Verfahren nach öffentlicher mündlicher Verhandlung in der Regel (§ 445a) durch Urteil zu entscheiden. Die Bestimmungen über die Hauptverhandlung im Verfahren vor den Bezirksgerichten sowie § 444 sind dem Sinne nach anzuwenden.
 
-**§ 385 StPO.**  
- (Aufgehoben)
+`§ 445 (4) StPO.`  
+Das Urteil kann in sinngemäßer Anwendung der §§ 463 bis 468 (§ 489) zugunsten und zum Nachteil des Betroffenen mit Berufung angefochten werden; § 444 Abs. 1 letzter Satz gilt entsprechend.
 
-### § 386 StPO.
+### § 445a StPO
 
-**§ 386 StPO.**  
- (Aufgehoben)
+`§ 445a (1) StPO.`  
+Über einen Antrag auf Einziehung in einem selbständigen Verfahren kann das Bezirksgericht nach Anhörung des Anklägers und der Haftungsbeteiligten (§ 444) durch Beschluß entscheiden, wenn der Wert des von der Einziehung bedrohten Gegenstandes 1 000 Euro nicht übersteigt oder es sich um einen Gegenstand handelt, dessen Besitz allgemein verboten ist. Sofern der Aufenthaltsort des Haftungsbeteiligten im Ausland liegt oder ohne besonderen Verfahrensaufwand nicht feststellbar ist, kann von dessen Anhörung abgesehen werden.
 
-### § 387 StPO.
+`§ 445a (2) StPO.`  
+In den Fällen, in denen das Verfahren durch die Staatsanwaltschaft nach den Bestimmungen des 10. oder 11. Hauptstücks, anderen auf sie verweisenden Vorschriften oder gemäß § 35 SMG beendet wird, hat die Staatsanwaltschaft nach Durchführung des in Abs. 1 vorgesehenen Verfahrens die Einziehung anzuordnen und das in § 408 Abs. 2 vorgesehene Verfahren durchzuführen, soweit nicht ein Haftungsbeteiligter die Entscheidung des Gerichts verlangt. § 444 Abs. 2 gilt sinngemäß.
 
-**§ 387 StPO.**  
- (Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 3)
+### § 446 StPO
 
-### § 388 StPO.
+`§ 446 StPO.`  
+Ergeben sich die Voraussetzungen für das selbständige Verfahren erst in der Hauptverhandlung, so kann die Entscheidung auch in einem Urteil ergehen, in dem der Angeklagte freigesprochen oder der Antrag auf Anstaltsunterbringung abgewiesen wird.
+**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">4.&nbsp;Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Verfahren bei der Ausschließung vom Wahlrecht</span></h4>
 
-**§ 388 (1) StPO.**  
-Der vorläufige Rücktritt von der Verfolgung und die vorläufige Einstellung des Verfahrens unter Bestimmung einer Probezeit setzen die Leistung eines Beitrages zu den nach § 381 Abs. 1 Z 1 bis 3 zu ersetzenden Kosten bis zu 250 Euro voraus.
+### § 446a StPO
 
-**§ 388 (2) StPO.**  
-Im Fall gemeinnütziger Leistungen oder eines Tatausgleichs kann die Staatsanwaltschaft von der Verfolgung erst zurücktreten oder das Gericht das Strafverfahren erst einstellen, nachdem der Beschuldigte einen Pauschalkostenbeitrag bis zu 250 Euro bezahlt hat.
+`§ 446a (1) StPO.`  
+Über die Ausschließung vom Wahlrecht (§ 22 der Nationalrats-Wahlordnung 1992 – NRWO, BGBl. Nr. 471 und § 3 des Europa-Wählerevidenzgesetzes – EuWEG, BGBl. Nr. 118/1996) ist im Strafurteil zu entscheiden. Die Entscheidung steht dem Ausspruch über die Strafe gleich und kann zugunsten und zum Nachteil des Verurteilten mit Berufung angefochten werden.
 
-**§ 388 (3) StPO.**  
-Für die Bemessung der Kostenbeiträge gilt § 381 Abs. 5 sinngemäß. Die Zahlung ist insoweit nachzusehen, als dadurch der zu einer einfachen Lebensführung notwendige Unterhalt des Beschuldigten und seiner Familie, für deren Unterhalt er zu sorgen hat, Schadensgutmachung, Tatfolgenausgleich oder die Erfüllung des Tatausgleichs gefährdet würde.
+`§ 446a (2) StPO.`  
+Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs. 1 gefällt worden wäre, so ist nach § 410 vorzugehen.
 
-### § 389 StPO.
+## 22. Hauptstück # Verfahren vor dem Bezirksgericht
 
-**§ 389 (1) StPO.**  
-Im Fall eines Schuldspruchs ist der Angeklagte auch zum Ersatz der Kosten des Strafverfahrens zu verpflichten (§ 260 Abs. 1 Z 5).
+### § 447 StPO
 
-**§ 389 (2) StPO.**  
-Wird das Strafverfahren gegen einen Angeklagten wegen mehrerer Straftaten teils mit Schuld-, teils mit Freispruch erledigt, so ist der Angeklagte nur zum Ersatz jener Kosten zu verpflichten, die sich auf den Schuldspruch beziehen.
+`§ 447 StPO.`  
+Für das Hauptverfahren vor dem Bezirksgericht gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird.
 
-**§ 389 (3) StPO.**  
-Die Verpflichtung zum Ersatz der Kosten trifft jedoch den rechtskräftig Verurteilten nur für seine Person; sie geht nicht auf die Erben über. Von mehreren Angeklagten ist jeder einzelne zur Tragung des Pauschalkostenbeitrages, der dem gegen ihn gefällten Erkenntnis entspricht, sowie der Kosten zu verurteilen, die durch seine Verteidigung oder durch besondere, nur bei ihm eingetretene Ereignisse oder durch sein besonderes Verschulden entstanden sind. Zur Bezahlung aller anderen Kosten des Strafverfahrens sind sämtliche Angeklagten zur ungeteilten Hand zu verurteilen, sofern das Gericht nicht besondere Gründe findet, eine Beschränkung dieser Haftung eintreten zu lassen.
+## 1. Abschnitt # Hauptverfahren
 
-### § 390 StPO.
+### § 450 StPO
 
-**§ 390 (1) StPO.**  
-Wird das Strafverfahren auf andere Weise als durch einen Schuldspruch beendigt, so sind die Kosten in der Regel vom Bunde zu tragen. Soweit aber das Strafverfahren auf Begehren eines Privatanklägers oder gemäß § 72 lediglich auf Antrag des Privatbeteiligten stattgefunden hat, ist diesen der Ersatz aller infolge ihres Einschreitens aufgelaufenen Kosten in der das Verfahren für die Instanz erledigenden Entscheidung aufzutragen. Den Privatbeteiligten trifft jedoch kein Kostenersatz, wenn das Strafverfahren nach dem 11. Hauptstück beendet wird.
+`§ 450 StPO.`  
+Ist das Bezirksgericht der Ansicht, dass das Landesgericht zuständig sei, so hat es vor Anordnung der Hauptverhandlung seine sachliche Unzuständigkeit mit Beschluss auszusprechen. Sobald die Entscheidung rechtswirksam geworden ist, hat der Ankläger die für die Fortführung des Verfahrens erforderlichen Anträge zu stellen.
 
-**§ 390 (1a) StPO.**  
-In Strafverfahren wegen übler Nachrede (§ 111 StGB), Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung (§ 113 StGB), oder Beleidigung (§ 115 StGB), die im Wege einer Telekommunikation oder unter Verwendung eines Computersystems begangen wurden, ist der Privatankläger oder Antragsteller (§ 71 Abs. 1) nur zum Kostenersatz verpflichtet, wenn er den Vorwurf wissentlich falsch erhoben hat.
+### § 451 StPO
 
-**§ 390 (2) StPO.**  
-Haben mehrere Privatankläger oder Privatbeteiligte wegen derselben Handlung erfolglos Bestrafung derselben Personen begehrt, so haften sie für die Kosten des Strafverfahrens zur ungeteilten Hand. Haben sie erfolglos die Bestrafung verschiedener Personen oder die Bestrafung derselben Personen wegen verschiedener Handlungen begehrt, so haftet jeder für die besonderen Kosten, die nur durch seinen Antrag entstanden sind, und für den Pauschalkostenbeitrag, der zu entrichten gewesen wäre, wenn seine Anklage den einzigen Gegenstand des Verfahrens gebildet hätte; die Anteile der einzelnen Ankläger an den gemeinsamen Kosten hat das Gericht nach dem Maß ihrer Beteiligung am Verfahren zu bestimmen.
+`§ 451 (1) StPO.`  
+Der Strafantrag (§ 210 Abs. 1) hat die im § 211 Abs. 1 angeführten Angaben zu enthalten. Im Antrag sind ferner die Beweismittel anzugeben, deren sich der Ankläger bedienen will. Der Antrag ist in so vielen Ausfertigungen zu überreichen, daß jedem der Angeklagten eine Ausfertigung zugestellt und eine bei den Akten zurückbehalten werden kann; er ist dem Angeklagten unverzüglich zuzustellen.
 
-**§ 390 (3) StPO.**  
-Die Staatsanwaltschaft kann nie zum Ersatze der Kosten verurteilt werden.
+`§ 451 (2) StPO.`  
+Ist der Richter der Überzeugung, daß die dem Antrag zugrunde liegende Tat vom Gesetz nicht mit Strafe bedroht ist oder daß Umstände vorliegen, durch die die Strafbarkeit der Tat aufgehoben oder die Verfolgung wegen der Tat ausgeschlossen ist, so hat er das Verfahren mit Beschluß einzustellen.
 
-**§ 390 (4) StPO.**  
-Wurde endlich das Strafverfahren durch eine wissentlich falsche Anzeige veranlaßt, so hat die Kosten der Anzeiger zu ersetzen.
+`§ 451 (3) StPO.`  
+Wird dem Richter zugleich der Angeklagte vorgeführt und gesteht er die ihm zur Last gelegte Tat oder erscheinen der Ankläger und der Angeklagte zugleich vor dem Richter, und sind alle Beweismittel für die Anklage und Verteidigung zur Hand, so kann der Richter mit Zustimmung des Angeklagten sogleich die Verhandlung vornehmen (§ 456) und das Urteil fällen.
 
-### § 390a StPO.
+`§ 451 (4) StPO.`  
+(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
 
-**§ 390a (1) StPO.**  
-Den nach den §§ 389 und 390 zum Kostenersatze Verpflichteten fallen auch die Kosten des Rechtsmittelverfahrens zur Last, sofern sie nicht durch ein ganz erfolglos gebliebenes Rechtsmittel des Gegners verursacht worden sind. Ist ein solches Rechtsmittel vom Privatankläger oder vom Privatbeteiligten ergriffen worden, so ist ihm der Ersatz der dadurch verursachten Kosten unabhängig vom Ausgange des Verfahrens aufzuerlegen.
+### § 455 StPO
 
-**§ 390a (2) StPO.**  
-Für die durch ein erfolgloses Begehren um Wiederaufnahme des Verfahrens verursachten Kosten haftet der Antragsteller.
+`§ 455 (1) StPO.`  
+§ 221 ist mit der Maßgabe anzuwenden, dass an die Stelle einer Frist von acht Tagen eine solche von drei Tagen tritt, es sei denn, dass der Angeklagte auf eine Vorbereitungsfrist verzichtet.
 
-### § 391 StPO.
+`§ 455 (2) StPO.`  
+Ist der Angeklagte nicht verhaftet, so kann er sich, wenn er nicht persönlich erscheinen will, bei der Verhandlung durch einen Verteidiger als Machthaber vertreten lassen. Dem Gericht steht es jedoch auch in diesem Fall zu, den Angeklagten unter Androhung der vorgesehenen Zwangsfolgen zum persönlichen Erscheinen aufzufordern.
 
-**§ 391 (1) StPO.**  
-Die Kosten des Strafverfahrens sind jedoch vom Ersatzpflichtigen nur insoweit einzutreiben, als dadurch weder der zu einer einfachen Lebensführung notwendige Unterhalt des Ersatzpflichtigen und seiner Familie, für deren Unterhalt er zu sorgen hat, noch die Erfüllung der aus der strafbaren Handlung entspringenden Pflicht zur Schadensgutmachung gefährdet wird. (BGBl. Nr. 423/1974, Art. I Z. 110)
+`§ 455 (3) StPO.`  
+Lässt sich der Angeklagte durch einen Machthaber vertreten, so kommt diesem in der Hauptverhandlung die Stellung des Angeklagten zu.
 
-**§ 391 (2) StPO.**  
-Ist nach den im Verfahren hervorgekommenen Umständen mit Grund anzunehmen, daß die Kosten des Strafverfahrens wegen Mittellosigkeit des Zahlungspflichtigen auch nicht bloß zum Teile hereingebracht werden können, so hat das Gericht, soweit tunlich, gleich bei Schöpfung des Erkenntnisses die Kosten für uneinbringlich zu erklären; andernfalls entfällt eine Entscheidung über die Einbringlichkeit der Kosten. Der Beschluß, womit die Kosten für uneinbringlich erklärt werden, kann jederzeit aufgehoben und, wenn später Umstände der bezeichneten Art hervorkommen, nachträglich gefaßt werden.
+### § 456 StPO
 
-**§ 391 (3) StPO.**  
-Gegen Entscheidungen der Gerichte, womit ein Antrag abgelehnt wird, die Kosten für uneinbringlich zu erklären, ist kein Rechtsmittel zulässig.
+`§ 456 StPO.`  
+In Privatanklagesachen ist die Öffentlichkeit auch auszuschließen, wenn der Ankläger einem darauf gerichteten Antrag des Angeklagten nicht entgegen tritt.
 
-### § 393 StPO.
+### § 457 StPO
 
-**§ 393 (1) StPO.**  
-Wer sich im Strafverfahren eines Vertreters bedient, hat in der Regel auch die für diese Vertretung auflaufenden Kosten, und zwar selbst in dem Falle zu zahlen, wenn ihm ein solcher Vertreter von Amts wegen beigegeben wird.
+`§ 457 StPO.`  
+Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr.
 
-**§ 393 (1a) StPO.**  
-Ein Angeklagter, dem ein Verteidiger nach § 61 Abs. 2 beigegeben wurde, hat einen Pauschalbeitrag zu dessen Kosten zu tragen, wenn ihm der Ersatz der Prozeßkosten überhaupt zur Last fällt und sein und seiner Familie, für deren Unterhalt er zu sorgen hat, zur einfachen Lebensführung notwendiger Unterhalt dadurch nicht beeinträchtigt wird. Für die Bemessung dieses Pauschalbeitrages gelten die im § 393a Abs. 1 angeführten Grundsätze und die dort genannten Höchstbeträge.
+### § 458 StPO
 
-**§ 393 (2) StPO.**  
-Einem nach § 61 Abs. 2 beigegebenen Verteidiger sind, soweit nicht nach § 56 Abs. 2 vorzugehen ist, auf sein Verlangen die nötig gewesenen und wirklich bestrittenen baren Auslagen vom Bund zu vergüten. Zu diesen Auslagen gehören auch die Kosten eines Dolmetschers, soweit dessen Beiziehung zu den Besprechungen zwischen dem Verteidiger und dem Beschuldigten notwendig war; solche Kosten sind bis zu dem Ausmaß zu vergüten, das sich in sinngemäßer Anwendung der Bestimmungen des Gebührenanspruchsgesetzes 1975 ergibt.
+`§ 458 StPO.`  
+Der Richter ist berechtigt, nach Schluss der Verhandlung die Fällung des Urteils bis auf den folgenden Tag auszusetzen. Im Übrigen gelten jedoch auch für die Verhandlung vor dem Bezirksgericht die Bestimmungen des 14. Hauptstückes.
 
-**§ 393 (4) StPO.**  
-In den Fällen, in denen dem Beschuldigten, dem Privatankläger, dem Privatbeteiligten (§ 72) oder dem, der eine wissentlich falsche Anzeige gemacht hat, der Ersatz der Prozeßkosten überhaupt zur Last fällt, haben diese Personen auch alle Kosten der Verteidigung und der Vertretung zu ersetzen.
+## 2. Abschnitt
 
-**§ 393 (4a) StPO.**  
-Wird ein Strafverfahren wegen übler Nachrede (§ 111 StGB), Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung (§ 113 StGB) oder Beleidigung (§ 115 StGB), die im Wege einer Telekommunikation oder unter Verwendung eines Computersystems begangen wurden, auf andere Weise als durch einen Schuldspruch beendigt, so hat im Haupt- und Rechtsmittelverfahren der Privatankläger dem Angeklagten alle Kosten der Verteidigung zu ersetzen, sofern nicht ohnedies eine Ersatzpflicht nach Abs. 4 vorliegt.
+### § 463 StPO # Rechtsmittel gegen Urteile der Bezirksgerichte
 
-**§ 393 (5) StPO.**  
-Soweit jedoch der Privatbeteiligte mit seinen privatrechtlichen Ansprüchen auf den Zivilrechtsweg verwiesen worden ist, bilden die zur zweckentsprechenden Geltendmachung seiner Ansprüche im Strafverfahren aufgewendeten Kosten seines Vertreters einen Teil der Kosten des zivilgerichtlichen Verfahrens, in dem über den Anspruch erkannt wird.
+`§ 463 StPO.`  
+Gegen Urteile der Bezirksgerichte, die gegen einen Anwesenden ergangen sind, ist nur das Rechtsmittel der Berufung zulässig, und zwar an das Landesgericht, in dessen Sprengel das Bezirksgericht liegt.
 
-### § 393a StPO. Beitrag zu den Kosten der Verteidigung
+### § 464 StPO
 
-**§ 393a (1) StPO.**  
-Wird ein nicht lediglich auf Grund einer Privatanklage oder der Anklage eines Privatbeteiligten (§ 72) Angeklagter freigesprochen oder das Strafverfahren gemäß § 215 Abs. 2, § 227, § 451 Abs. 2 oder § 485 Abs. 1 Z 3 oder nach einer gemäß § 353, § 362 oder § 363a erfolgten Wiederaufnahme oder Erneuerung des Strafverfahrens eingestellt, so hat ihm der Bund auf Antrag einen Beitrag zu den Kosten der Verteidigung zu leisten. Der Beitrag umfasst die nötig gewesenen und vom Angeklagten bestrittenen baren Auslagen und außer im Fall des § 61 Abs. 2 auch einen Beitrag zu den Kosten des Verteidigers, dessen sich der Angeklagte bedient.
+`§ 464 StPO.`  
+Die Berufung kann ergriffen werden:  
+`§ 464 Z 1 StPO.`
+wegen vorliegender Nichtigkeitsgründe;  
+`§ 464 Z 2 StPO.`
+wegen des Ausspruches über die Schuld und die Strafe, wegen des Strafausspruches jedoch nur unter den im § 283 bezeichneten Voraussetzungen;  
+`§ 464 Z 3 StPO.`
+wegen des Ausspruches über die privatrechtlichen Ansprüche.
 
-**§ 393a (2) StPO.**  
-Der Beitrag zu den Kosten der Verteidigung ist unter Bedachtnahme auf den Umfang des Verfahrens, die Komplexität der zu lösenden Tat- und Rechtsfragen und das Ausmaß des notwendigen oder zweckmäßigen Einsatzes des Verteidigers festzusetzen. Er darf folgende Beträge nicht übersteigen:
-1. im Verfahren vor dem Landesgericht als Schöffen- und Geschworenengericht 30 000 Euro,
-2. im Verfahren vor dem Einzelrichter des Landesgerichts 13 000 Euro,
-3. im Verfahren vor dem Bezirksgericht 5 000 Euro.
+### § 465 StPO
 
-**§ 393a (3) StPO.**  
-Der Ersatzanspruch ist ausgeschlossen, soweit der Angeklagte den das Verfahren begründenden Verdacht vorsätzlich herbeigeführt hat oder das Verfahren lediglich deshalb beendet worden ist, weil der Angeklagte die Tat im Zustand der Zurechnungsunfähigkeit begangen hat oder weil die Ermächtigung zur Strafverfolgung in der Hauptverhandlung zurückgenommen worden ist. Der Ersatzanspruch steht auch dann nicht zu, wenn die Strafbarkeit der Tat aus Gründen entfällt, die erst nach Einbringung der Anklageschrift oder des Antrages auf Bestrafung eingetreten sind.
+`§ 465 (1) StPO.`  
+Zugunsten des Angeklagten kann die Berufung sowohl von ihm selbst als auch von seinem gesetzlichen Vertreter ergriffen werden. Die Staatsanwaltschaft kann stets auch gegen den Willen des Angeklagten zu dessen Gunsten die Berufung ergreifen.
 
-**§ 393a (4) StPO.**  
-Der Antrag ist bei sonstigem Ausschluss innerhalb von drei Jahren nach Verständigung von der Entscheidung oder Verfügung zu stellen.
+`§ 465 (2) StPO.`  
+Erben des Angeklagten, die nicht in einem der erwähnten Verhältnisse zum Angeklagten standen, können die Berufung nur wegen der im Urteil allenfalls enthaltenen Entscheidung über privatrechtliche Ansprüche ergreifen oder fortsetzen.
 
-**§ 393a (5) StPO.**  
-§ 196a Abs. 5 und 6 gilt sinngemäß.
+`§ 465 (3) StPO.`  
+Zum Nachteile des Angeklagten kann die Berufung nur vom Ankläger und vom Privatbeteiligten, von diesem aber nur wegen Nichtigkeit unter den in § 282 Abs. 2 geregelten Voraussetzungen und wegen seiner privatrechtlichen Ansprüche ergriffen werden.
 
-### § 394 StPO.
+### § 466 StPO
 
-**§ 394 StPO.**  
- Gebührt dem Verteidiger oder dem Vertreter gemäß § 73 eine Belohnung, so ist ihre Bestimmung sowohl in dem Falle, wenn sich der Beschuldigte, der Privatankläger oder der Privatbeteiligte selbst einen solchen wählte, als auch dann, wenn dem Angeklagten ein Verteidiger von Amts wegen beigegeben wurde, dem freien Übereinkommen zwischen dem Vertreter und dem Zahlungspflichtigen überlassen.
+`§ 466 (1) StPO.`  
+Die Berufung ist binnen drei Tagen nach Verkündung des Urteiles beim Bezirksgericht anzumelden. § 57 Abs. 2 gilt auch für einen Verzicht gegen einen gemeinsam mit dem Urteil verkündeten Beschluss nach den §§ 494 und 494a.
 
-### § 395 StPO.
+`§ 466 (2) StPO.`  
+War der Angeklagte bei der Verkündung des Urteiles nicht anwesend, so ist die Berufung binnen drei Tagen anzumelden, nachdem er vom Urteile verständigt wurde.
 
-**§ 395 (1) StPO.**  
-Wird über die Höhe der gemäß § 393 Abs. 4 oder Abs. 4a zu ersetzenden Kosten keine Einigung erzielt, so hat das Gericht, das in erster Instanz entschieden hat, auf Antrag eines der Beteiligten die zu ersetzenden Kosten mit Beschluss zu bestimmen. Vor der Bemessung der Gebühren ist dem Gegner des Antragstellers Gelegenheit zur Äußerung zu geben. Wird der Antrag von der zum Ersatze der Kosten verurteilten Partei gestellt, so hat das Gericht dem Gegner aufzutragen, seine Gebührenrechnung binnen einer angemessenen Frist vorzulegen, widrigenfalls die Gebühren auf Grund der vom Antragsteller beigebrachten und sonst dem Gerichte zur Verfügung stehenden Behelfe bestimmt würden.
+`§ 466 (3) StPO.`  
+Für den gesetzlichen Vertreter des Angeklagten läuft die Frist zur Anmeldung der Berufung von demselben Tage, von dem an sie für den Angeklagten beginnt.
 
-**§ 395 (2) StPO.**  
-Bei der Bemessung der Gebühren ist auch zu prüfen, ob die vorgenommenen Vertretungshandlungen notwendig waren oder sonst nach der Beschaffenheit des Falles gerechtfertigt sind. Die Kosten des Bemessungsverfahrens sind als Kosten des Strafverfahrens anzusehen.
+`§ 466 (4) StPO.`  
+Die Anmeldung der Berufung hat aufschiebende Wirkung.
 
-**§ 395 (4) StPO.**  
-Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss gemäß Abs. 1 kommt aufschiebende Wirkung zu.
+`§ 466 (5) StPO.`  
+Die Entlassung eines freigesprochenen Angeklagten aus der Haft darf nur wegen einer Berufung der Staatsanwaltschaft, und zwar bloß dann aufgeschoben werden, wenn diese sogleich bei Verkündung des Urteiles angemeldet wird und nach den Umständen die Annahme begründet ist, daß sich der Angeklagte dem Verfahren durch die Flucht entziehen werde. Gegen die Entlassung aus der Haft ist kein Rechtsmittel zulässig.
 
-**§ 395 (5) StPO.**  
-Die vorhergehenden Absätze sind auch anzuwenden, wenn zwischen dem von Amts wegen bestellten Verteidiger und dem von ihm vertretenen Angeklagten über die Entlohnung kein Übereinkommen erzielt wird. Das Gericht hat die Entlohnung des von Amts wegen bestellten Verteidigers festzusetzen und dem Angeklagten die Zahlung aufzutragen. Der rechtskräftige Beschluß ist vollstreckbar.
-## 19. Hauptstück | Vollstreckung der Urteile
+`§ 466 (6) StPO.`  
+Wenn der zu einer Freiheitsstrafe Verurteilte sich weder durch den Ausspruch über die Schuld noch durch den über die Strafart, sondern nur durch das Strafmaß beschwert erachtet, so kann er die Strafe einstweilen antreten. Eben dies gilt auch dann, wenn der Verurteilte keine Berufung ergriffen hat und der Ankläger seine Berufung nur gegen das Strafmaß richtet.
 
-### § 396 StPO.
+`§ 466 (7) StPO.`  
+Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden.
 
-**§ 396 (1) StPO.**  
-Jeder durch ein Urteil freigesprochene Angeklagte ist, wenn er verhaftet ist, sogleich nach der Verkündung des Urteiles in Freiheit zu setzen; es sei denn, daß die Ergreifung eines Rechtsmittels mit aufschiebender Wirkung oder andere gesetzliche Gründe seine fernere Verwahrung nötig machten.
+### § 467 StPO
 
-**§ 396 (2) StPO.**  
-Der auf freiem Fuß befindliche Angeklagte ist von der Rechtskraft zu verständigen, sobald der Ankläger ein angemeldetes Rechtsmittel zurückgezogen hat.
+`§ 467 (1) StPO.`  
+Der Beschwerdeführer hat das Recht, binnen vier Wochen nach der Anmeldung der Berufung, wenn ihm eine Urteilsabschrift aber erst nach der Anmeldung des Rechtsmittels zugestellt wurde, binnen vier Wochen nach der Zustellung eine Ausführung der Gründe seiner Berufung beim Bezirksgerichte zu überreichen und allenfalls neue Tatsachen oder Beweismittel unter genauer Angabe aller zur Beurteilung ihrer Erheblichkeit dienenden Umstände anzuzeigen.
 
-**§ 396 (3) StPO.**  
-Die Kriminalpolizei ist durch das Gericht, das in erster Instanz entschieden hat, von der Einstellung des Verfahrens sowie von einem Freispruch zu verständigen.
+`§ 467 (2) StPO.`  
+Er hat entweder bei der Anmeldung der Berufung oder in der Berufungsschrift ausdrücklich zu erklären, durch welchen Ausspruch (§ 464) er sich beschwert finde und welche Nichtigkeitsgründe er geltend machen wolle, widrigens auf die Berufung oder auf Nichtigkeitsgründe vom Landesgericht keine Rücksicht zu nehmen ist. Doch steht es der Berücksichtigung eines deutlich und bestimmt bezeichneten Beschwerdepunktes oder Nichtigkeitsgrundes nicht entgegen, daß sich der Beschwerdeführer in der gesetzlichen Benennung vergriffen hat.
 
-### § 397 StPO.
+`§ 467 (3) StPO.`  
+Die zugunsten des Angeklagten ergriffene Berufung wegen Nichtigkeit ist auch als Berufung gegen die Aussprüche über die Schuld und die Strafe zu betrachten, die Berufung wegen des Ausspruches über die Schuld auch als Berufung gegen den Strafausspruch.
 
-**§ 397 StPO.**  
- Jedes Strafurteil ist ungesäumt in Vollzug zu setzen, sobald feststeht, daß der Vollstreckung kein gesetzliches Hindernis und insbesondere kein rechtzeitig und von einem hiezu Berechtigten ergriffenes Rechtsmittel entgegensteht, dem das Gesetz aufschiebende Wirkung beimißt (§ 284 Abs. 3, § 294 Abs. 1 und § 344). Ist ein Rechtsmittel zugunsten des verhafteten Angeklagten von solchen Personen ergriffen worden, die hiezu gegen seinen Willen nicht berechtigt sind, so ist der Angeklagte hievon in Kenntnis zu setzen und über den dadurch herbeigeführten Aufschub der Strafvollstreckung zu belehren. Dasselbe hat zu geschehen, wenn es zweifelhaft ist, ob der verhaftete Angeklagte der Einlegung des Rechtsmittels durch seinen Verteidiger zugestimmt habe. Die Anordnung des Vollzuges des Strafurteiles steht dem Vorsitzenden des erkennenden Gerichtes zu.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-04')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;5)</span></span></p>
+`§ 467 (4) StPO.`  
+Geschieht die Anmeldung der Berufung mündlich, so hat der Richter, der das Protokoll hierüber aufnimmt, den Beschwerdeführer zur genauen Angabe der Beschwerdepunkte besonders aufzufordern und über die Rechtsfolgen der Unterlassung dieser Angabe zu belehren.
 
-### § 398 StPO.
+`§ 467 (5) StPO.`  
+Die Berufung oder Berufungsausführung ist in zweifacher Ausfertigung vorzulegen oder aufzunehmen. Eine Ausfertigung ist dem Gegner mit dem Bedeuten mitzuteilen, daß er binnen vier Wochen seine Gegenausführung überreichen könne. Die Gegenausführung ist dem Beschwerdeführer zuzustellen; danach sind alle Akten dem Landesgericht – gegebenenfalls samt einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs. 5 erster Satz oder 62a Abs. 5 erster Satz VfGG – vorzulegen.
 
-**§ 398 StPO.**  
- Jede Rechtswirkung eines Strafurteils beginnt, wenn nichts anderes bestimmt ist, mit seiner Rechtskraft.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-04')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;112)</span></span></p>
+### § 468 StPO
 
-### § 399 StPO.
+`§ 468 (1) StPO.`  
+Wegen Nichtigkeit kann die Berufung gegen Urteile der Bezirksgerichte, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur aus einem der folgenden Gründe ergriffen werden:  
+`§ 468 (1) Z 1 StPO.`
+wenn das Bezirksgericht örtlich unzuständig oder nicht gehörig besetzt war oder wenn ein gesetzlich ausgeschlossener Richter (§§ 43 und 46) das Urteil gefällt hat;  
+`§ 468 (1) Z 2 StPO.`
+wenn das Bezirksgericht nicht zuständig war, weil die Tat, über die es geurteilt hat, in die Zuständigkeit des Landesgerichts (Anm. 1) fällt;  
+`§ 468 (1) Z 2a StPO.`
+wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren in der Hauptverhandlung verlesen wurde;  
+`§ 468 (1) Z 3 StPO.`
+wenn eine Vorschrift verletzt oder vernachlässigt worden ist, deren Beobachtung das Gesetz bei sonstiger Nichtigkeit vorschreibt (§§ 115j Abs. 1, 126 Abs. 4, 140 Abs. 1, 144 Abs. 1, 155 Abs. 1, 157 Abs. 2 und 159 Abs. 3, 221 Abs. 2 (455 Abs. 1), 228, 250, 252, 260, 271, 427 sowie 439 Abs. 1 und 2), oder wenn einer der im § 281 Abs. 1 Z. 4 und 5 erwähnten Nichtigkeitsgründe vorliegt;  
+`§ 468 (1) Z 4 StPO.`
+aus den im § 281 Abs. 1 Z. 6 bis 11 angegebenen Gründen.
 
-**§ 399 StPO.**  
- Jedes Urteil gegen einen Beamten (§ 74 Abs. 1 Z 4 StGB) ist, sobald es rechtskräftig wurde, dem Leiter der Dienststelle bekannt zu machen.
+`§ 468 (2) StPO.`  
+Die unter Abs. 1 Z. 1 und 3 erwähnten Nichtigkeitsgründe können nur unter den in den §§ 281 und 282 Abs. 2 bezeichneten Bedingungen geltend gemacht werden; doch wird auch der Ankläger der Geltendmachung eines Nichtigkeitsgrundes deshalb nicht verlustig, weil er hinsichtlich eines Formgebrechens die Entscheidung des Richters nicht begehrt und sich die Beschwerde nicht sofort nach Verweigerung oder Verkündung der Entscheidung vorbehalten hat.
+**FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(________</span></p>
+**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;I Z&nbsp;198 lit.&nbsp;b der Novelle <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a> lautet: „Im Abs.&nbsp;1 Z&nbsp;2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt.“. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“.)</span><br></span></p>
 
-### § 400 StPO.
+### § 469 StPO
 
-**§ 400 (1) StPO.**  
-Über die Anrechnung einer vom Verurteilten nach der Fällung des Urteiles erster Instanz in Vorhaft zugebrachten Zeit (§ 38 StGB) hat der Vorsitzende des Gerichtes, das in erster Instanz erkannt hat, mit Beschluß zu entscheiden.
+`§ 469 StPO.`  
+Das Landesgericht berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder die Staatsanwaltschaft einen der im § 470 angeführten Beschlüsse beantragt.
 
-**§ 400 (2) StPO.**  
-Einen Beschluß nach Abs. 1 hat der Vorsitzende auf Antrag oder von Amts wegen auch dann zu fassen, wenn im Urteil die Anrechnung einer Vorhaft oder einer im Ausland verbüßten Strafe (§ 66 StGB) unterblieben ist. Ist eine solche Anrechnung fehlerhaft erfolgt, so hat sie der Vorsitzende jederzeit zu berichtigen (§ 270 Abs. 3), zum Nachteil des Angeklagten jedoch nur, solange das Urteil nicht rechtskräftig ist. Die Abweisung eines darauf gerichteten Antrages sowie die vorgenommene Berichtigung können nach Maßgabe des § 270 Abs. 3 mit Beschwerde angefochten werden.
+### § 470 StPO
 
-### § 401 StPO.
+`§ 470 StPO.`  
+Bei der nichtöffentlichen Beratung kann das Landesgericht:  
+`§ 470 Z 1 StPO.`
+die Berufung als unzulässig zurückweisen, wenn sie zu spät angemeldet oder von einer Person ergriffen worden ist, der das Berufungsrecht überhaupt nicht oder nicht in der Richtung zusteht, in der es in Anspruch genommen wird, oder die darauf verzichtet hat; ferner, wenn der Berufungswerber bei der Anmeldung der Berufung oder in ihrer Ausführung die Punkte des Erkenntnisses, durch die er sich beschwert findet, oder die Nichtigkeitsgründe, derentwegen allein die Berufung ergriffen worden ist, nicht deutlich und bestimmt bezeichnet hat, in welchen Fällen es gegebenenfalls diesen Beschluss dem Verfassungsgerichtshof zu übermitteln hat;  
+`§ 470 Z 2 StPO.`
+beschließen, Aufklärungen über behauptete Formverletzungen einzuholen, oder seine eigene Unzuständigkeit aussprechen und die Strafsache an das zuständige Landesgericht abtreten;  
+`§ 470 Z 3 StPO.`
+wenn schon vor der öffentlichen Verhandlung über die Berufung feststeht, daß das Urteil aufzuheben und die Verhandlung in erster Instanz zu wiederholen oder nach dem 11. Hauptstück oder § 37 SMG vorzugehen ist, der Berufung stattgeben, das Urteil, soweit es angefochten wird, aufheben und die Sache an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Gerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht zurückweisen.
 
-**§ 401 StPO.**  
- (Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 6)
+### § 471 StPO
 
-### § 401a StPO.
+`§ 471 StPO.`  
+Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhandlung sowie für die Entscheidung über die Berufung gelten §§ 233 bis 237, 286 Abs. 1 und 1a (Anm. 1), 287, 288 Abs. 2 Z 3 erster Satz, 289, 290, 293 Abs. 4, 294, 295 sowie 296a sinngemäß, soweit im Folgenden nicht anderes bestimmt wird.
+**FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(___________</span></p>
+**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;1 Z&nbsp;75 der Novelle <a href="/eli/bgbl/I/2024/157" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2024_I_157', 'BGBl. I Nr. 157/2024', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;157/2024</a> lautet: „In §&nbsp;471 wird das Zitat „§&nbsp;286 Abs.&nbsp;1 und 1a“ durch das Zitat „§&nbsp;286 Abs.&nbsp;1 und 2 zweiter Satz“ ersetzt“.“. Die Anweisung konnte nicht durchgeführt werden.)</span></span></p>
 
-**§ 401a StPO.**  
- (Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 6)
+### § 473 StPO
 
-### § 402 StPO.
+`§ 473 (1) StPO.`  
+Für die Vernehmung des Angeklagten, von Zeugen und Sachverständigen sind die für die Hauptverhandlung vor dem Landesgericht als Schöffengericht geltenden Bestimmungen anzuwenden. Das Protokoll der Hauptverhandlung kann ebenso verlesen werden wie das Urteil samt den Entscheidungsgründen.
 
-**§ 402 StPO.**  
- Ist in einem Strafurteil auf den Verlust eines Rechtes erkannt worden oder ist in einem Gesetz vorgesehen, daß die Verurteilung einen solchen Verlust nach sich zieht oder nach sich ziehen kann, so hat das Strafgericht die rechtskräftige Verurteilung der in Betracht kommenden Stelle bekanntzumachen. Sofern dieser Stelle nicht schon nach anderen gesetzlichen Bestimmungen eine Urteilsausfertigung zugestellt werden muß, ist ihr eine solche Ausfertigung auf ihr Ersuchen zu übersenden.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-04')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;7)</span></span></p>
+`§ 473 (2) StPO.`  
+Zeugen und Sachverständige, die bereits in der Hauptverhandlung vor dem Bezirksgerichte vernommen worden sind, sind nochmals abzuhören, wenn das Landesgericht gegen die Richtigkeit der auf ihre Aussagen gegründeten, im Urteil erster Instanz enthaltenen Feststellungen Bedenken hegt oder die Vernehmung neuer Zeugen oder Sachverständiger über dieselben Tatsachen notwendig findet. Außer diesem Falle hat das Landesgericht die in erster Instanz aufgenommenen Protokolle seiner Entscheidung zugrunde zu legen.
 
-### § 403 StPO.
+`§ 473 (3) StPO.`  
+Sodann wird der, der die Berufung einlegte, zu ihrer Begründung und sodann der Gegner zur Erwiderung aufgefordert.
 
-**§ 403 StPO.**  
- (Aufgehoben; BGBl. Nr. 75/1968, Art. IV Z. 2)
+`§ 473 (4) StPO.`  
+Dem Angeklagten oder seinem Verteidiger gebührt jedenfalls das Recht der letzten Äußerung.
 
-### § 404 StPO.
+`§ 473 (5) StPO.`  
+Hierauf zieht sich das Landesgericht zur Beratung und Beschlußfassung zurück.
 
-**§ 404 StPO.**  
- (Aufgehoben; BGBl. Nr. 75/1968, Art. IV Z. 2)
+### § 474 StPO
 
-### § 405 StPO.
+`§ 474 StPO.`  
+Nach Maßgabe der folgenden Bestimmungen erkennt das Landesgericht in der Sache selbst nach den für das Landesgericht als Schöffengericht geltenden Bestimmungen, es sei denn, dass die Berufung als unzulässig oder unbegründet zurückgewiesen wird oder sich das angerufene Landesgericht für unzuständig erklärt.
 
-**§ 405 StPO.**  
- Wie auf Freiheitsstrafen lautende Strafurteile zu vollziehen sind, bestimmen besondere Gesetze.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-04')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;8)</span></span></p>
+### § 475 StPO
 
-### § 406 StPO.
+`§ 475 (1) StPO.`  
+Wird das Urteil des Bezirksgerichtes wegen eines der im § 468 Abs. 1 unter Z. 1 und 3 angeführten Nichtigkeitsgründe aufgehoben, so verweist das Landesgericht die Sache zu neuer Verhandlung an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Bezirksgerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht.
 
-**§ 406 StPO.**  
- (Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 9)
+`§ 475 (2) StPO.`  
+Wird das Urteil des Bezirksgerichtes wegen des im § 468 Abs. 1 unter Z. 2 angeführten Nichtigkeitsgrundes aufgehoben, so ist die Sache nicht an das zuständige Gericht zu verweisen. Für das weitere Verfahren gilt § 263 Abs. 4 sinngemäß.
 
-### § 407 StPO.
+`§ 475 (3) StPO.`  
+Hat das Bezirksgericht bezüglich einer Tatsache, auf die sich die Anklage bezieht, mit Unrecht seine Nichtzuständigkeit ausgesprochen oder die Anklage nicht vollständig erledigt (§ 281 Abs. 1 Z. 6 und 7), so trägt ihm das Landesgericht auf, sich der Verhandlung und Urteilsfällung zu unterziehen, die sich in letztem Fall auf die unerledigt gebliebenen Anklagepunkte zu beschränken hat.
 
-**§ 407 StPO.**  
- Von der Verurteilung einer Person, die nicht die österreichische Staatsbürgerschaft besitzt, ist die für die Ausübung der Fremdenpolizei zuständige Behörde unverzüglich zu verständigen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-04')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;114)</span></span></p>
+`§ 475 (4) StPO.`  
+Hat das Bezirksgericht das Vorliegen der Voraussetzungen für eine Einstellung des Strafverfahrens nach dem 11. Hauptstück (§ 199) oder § 37 SMG zu Unrecht nicht angenommen, so verweist das Landesgericht die Sache an dasselbe oder an ein anderes Bezirksgericht mit dem Auftrag, nach den entsprechenden Bestimmungen vorzugehen.
 
-### § 408 StPO.
+### § 476 StPO
 
-**§ 408 (1) StPO.**  
-Ist der Verfall, der erweiterte Verfall, die Konfiskation oder die Einziehung von Vermögenswerten oder Gegenständen ausgesprochen und befinden sich diese nicht bereits in gerichtlicher Verwahrung, so ist der Verurteilte oder der Haftungsbeteiligte (§ 64) vom Strafgericht schriftlich aufzufordern, sie binnen vierzehn Tagen zu erlegen oder dem Gericht die Verfügungsmacht zu übertragen, widrigenfalls zwangsweise vorgegangen werden würde. Kommt der Verfügungsberechtigte dieser Aufforderung nicht nach, so ist die Einbringungsstelle um die Einleitung der Exekution zu ersuchen.
+`§ 476 StPO.`  
+In den im § 475 Abs. 1 und 3 erwähnten Fällen steht es jedoch der Berufungsbehörde frei, sofort oder in einer späteren Sitzung, nötigenfalls unter Wiederholung oder Ergänzung der in erster Instanz gepflogenen Verhandlung und unter Verbesserung der mangelhaft befundenen Prozeßhandlung, in der Sache selbst zu erkennen.
 
-**§ 408 (2) StPO.**  
-Ein verfallener, konfiszierter oder eingezogener Gegenstand oder Vermögenswert, der für wissenschaftliche, historische oder vergleichbare, im öffentlichen Interesse liegende Forschungszwecke von Interesse ist, ist einer anerkannten wissenschaftlichen Einrichtung zur Verfügung zu stellen. Im Übrigen sind Gegenstände oder Vermögenswerte, die zur Deckung des Sachaufwandes der Justiz unmittelbar herangezogen werden können, dazu zu verwenden, alle anderen Gegenstände oder Vermögenswerte aber auf die in § 377 angeordnete Weise zu veräußern. Gegenstände oder Vermögenswerte, die auf diese Weise weder verwendet noch verwertet werden können, sind zu vernichten.
+### § 478 StPO
 
-### § 409 StPO.
+`§ 478 (1) StPO.`  
+Gegen ein Urteil des Bezirksgerichtes, das gemäß § 427 in Abwesenheit des Angeklagten verkündet wurde, kann dieser binnen vierzehn Tagen von der Zustellung des Urteiles beim erkennenden Bezirksgericht Einspruch erheben, wenn ihm die Vorladung nicht gehörig zugestellt worden ist oder er nachweisen kann, daß er durch ein unabwendbares Hindernis abgehalten worden sei.
 
-**§ 409 (1) StPO.**  
-Wenn der Verurteilte eine über ihn verhängte Geldstrafe nicht unverzüglich nach Eintritt der Rechtskraft erlegt, ist er schriftlich aufzufordern, die Strafe binnen vierzehn Tagen zu zahlen, widrigens sie zwangsweise eingetrieben werde. Gleiches gilt für den Verfall nach § 20 Abs. 3 StGB und die Konfiskation nach § 19a Abs. 1a StGB.
+`§ 478 (2) StPO.`  
+Über diesen Einspruch hat das Bezirksgericht nach vorläufiger Vernehmung des Anklägers zu erkennen. Verwirft es den Einspruch, so steht dem Angeklagten das Rechtsmittel der Beschwerde an das Landesgericht (§ 31 Abs. 5 Z 1) binnen vierzehn Tagen zu. Der Angeklagte ist in diesem Falle berechtigt, mit diesem Rechtsmittel für den Fall der Verwerfung die Berufung zu verbinden, mit der nach den Bestimmungen der §§ 469 bis 474 zu verfahren ist.
 
-**§ 409 (2) StPO.**  
-Wie die im Abs. 1 genannten Geldbeträge einzutreiben sind, wird im Gerichtlichen Einbringungsgesetz in der jeweils geltenden Fassung angeordnet. Die Auskunft aus dem Kontenregister oder die Auskunft über Bankkonten und Bankgeschäfte (§§ 116, 210 Abs. 3 StPO) ist auch dann zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass Vermögenswerte zur Vollstreckung einer Geldstrafe, einer Konfiskation (§ 19a StGB), eines Verfalls (§ 20 StGB), eines erweiterten Verfalls (§ 20b StGB) oder einer anderen gesetzlich vorgesehenen vermögensrechtlichen Anordnung aufgefunden werden können.
+`§ 478 (3) StPO.`  
+Findet das Bezirksgericht oder infolge der Beschwerde das Landesgericht den Einspruch begründet, so ist eine neue Verhandlung vor dem Bezirksgericht anzuordnen, bei der, wenn der Angeklagte erscheint, die Sache so verhandelt wird, wie im § 457 vorgeschrieben ist.
 
-**§ 409 (3) StPO.**  
-Ersatzfreiheitsstrafen sind wie andere Freiheitsstrafen nach den Bestimmungen des StVG anzuordnen und zu vollziehen.
+### § 479 StPO
 
-### § 409a StPO.
+`§ 479 StPO.`  
+Gegen die Urteile der Landesgerichte über eine gemäß den §§ 463, 464 und 478 an sie gelangte Berufung ist ein weiteres Rechtsmittel nicht zulässig.
 
-**§ 409a (1) StPO.**  
-Wenn die unverzügliche Zahlung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB den Zahlungspflichtigen unbillig hart träfe, hat der Vorsitzende auf Antrag durch Beschluß einen angemessenen Aufschub zu gewähren.
+### § 480 StPO
 
-**§ 409a (2) StPO.**  
-Der Aufschub darf jedoch
-1. bei Zahlung der ganzen Strafe oder des gesamten Geldbetrages nach § 20 StGB auf einmal oder bei Entrichtung einer 180 Tagessätze nicht übersteigenden Strafe in Teilbeträgen nicht länger sein als ein Jahr,
-2. bei Entrichtung einer 180, nicht aber 360 Tagessätze übersteigenden Strafe in Teilbeträgen nicht länger als zwei Jahre und
-3. bei Entrichtung einer 360 Tagessätze übersteigenden Strafe in Teilbeträgen nicht länger als drei Jahre sowie
-4. bei Entrichtung einer nicht in Tagessätzen bemessenen Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen nicht länger als fünf Jahre.
+`§ 480 StPO.`  
+Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16. Hauptstück enthaltenen Bestimmungen. In den Fällen der §§ 352 bis 356 entscheidet das Bezirksgericht über die Bewilligung der Wiederaufnahme.
 
-**§ 409a (3) StPO.**  
-In die gewährte Aufschubsfrist werden Zeiten, in denen der Zahlungspflichtige auf behördliche Anordnung angehalten worden ist, nicht eingerechnet. Leistet der Zahlungspflichtige zur Schadloshaltung oder Genugtuung eines durch die strafbare Handlung Geschädigten Zahlungen, so ist dies bei der Entscheidung über einen Antrag auf Aufschub angemessen zu berücksichtigen. Mit Rücksicht auf Entschädigungszahlungen, die innerhalb der zur Zahlung der Geldstrafe oder des Geldbetrages nach § 20 StGB gewährten Frist geleistet werden, kann der Aufschub angemessen längstens aber um ein weiteres Jahr verlängert werden.
-
-**§ 409a (4) StPO.**  
-Die Entrichtung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen darf nur mit der Maßgabe gestattet werden, daß alle noch aushaftenden Teilbeträge sofort fällig werden, wenn der Zahlungspflichtige mit mindestens zwei Ratenzahlungen in Verzug ist.
-
-### § 409b StPO.
-
-**§ 409b (1) StPO.**  
-Geldstrafen, verfallene Geldbeträge und Veräußerungserlöse (§§ 115e, 377) fließen dem Bund zu.
-
-**§ 409b (2) StPO.**  
-20 vH der nach §§ 20, 20b StGB für verfallen erklärten Vermögenswerte fließen dem Bundesministerium für Inneres zu.
-
-### § 410 StPO.
-
-**§ 410 (1) StPO.**  
-Über die nachträgliche Strafmilderung, die Neubemessung des Tagessatzes sowie die Änderung der Entscheidung über den Verfall, den erweiterten Verfall (§ 31a StGB) oder über das Tätigkeitsverbot (§ 220b Abs. 3 StGB) entscheidet das Gericht, das in erster Instanz erkannt hat, auf Antrag oder von Amts wegen nach Erhebung der für die Entscheidung maßgebenden Umstände mit Beschluß.
-
-**§ 410 (3) StPO.**  
-Wenn der Zweck der Entscheidung nach Abs. 1 sonst ganz oder teilweise vereitelt werden könnte, hat das Gericht den Vollzug der Strafe, des Verfalls oder des erweiterten Verfalls bis zur Rechtskraft seiner Entscheidung vorläufig zu hemmen oder zu unterbrechen, es sei denn, daß ihm ein offenbar aussichtsloser Antrag vorliegt.
-
-### § 411 StPO.
-
-**§ 411 StPO.**  
- Mit dem Tod des Verurteilten erlischt die Verbindlichkeit zur Zahlung von Geldstrafen, soweit sie noch nicht vollzogen worden sind. Dies gilt dem Sinne nach für den Verfalls- und Wertersatz.
-
-**END-OF-FILE**
+`END-OF-DATA-FILE`
