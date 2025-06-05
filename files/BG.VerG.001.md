@@ -620,10 +620,10 @@ Das Inhaltsverzeichnis, § 11, § 15, § 17 Abs. 4, § 19a samt Überschrif
 
 `§ 33 (17) VerG.`  
 § 30a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 133/2024 tritt mit 1. Jänner 2025 in Kraft.
-**FIXME** P: <p class="Abstand AlignLeft"></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(__________________</span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: gemäß §&nbsp;17 Vereinsgesetz-Durchführungsverordnung, <a href="/eli/bgbl/II/2005/60" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2005_II_60', 'BGBl. II Nr. 60/2005', '2025-06-05')">BGBl.&nbsp;II Nr.&nbsp;60/2005</a>: Echtbetrieb ab 1.1.2006</span></span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;2: gemäß <a href="/eli/bgbl/II/2023/340" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2023_II_340', 'BGBl. II Nr. 340/2023', '2025-06-05')">BGBl.&nbsp;II Nr.&nbsp;340/2023</a>: 5.12.2023)</span></span></p>
+  
+(__________________  
+Anm. 1: gemäß § 17 Vereinsgesetz-Durchführungsverordnung, BGBl. II Nr. 60/2005: Echtbetrieb ab 1.1.2006  
+Anm. 2: gemäß BGBl. II Nr. 340/2023: 5.12.2023)
 
 ### § 34 VerG # Vollziehung
 
