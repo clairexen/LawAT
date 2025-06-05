@@ -193,6 +193,7 @@ def processContentElement(el):
                 elif item.locator(":scope div.AufzaehlungE1").count():
                     symName = item.locator("xpath=..").locator(":scope div.SymE1").inner_text().removesuffix(".")
                     symName = parName.removesuffix(normdata['title']) + f"Z {symName} {normdata['title']}"
+                    if len(lines) and not lines[-1].endswith("  "): lines[-1] += "  "
                     lines.append(f"`{symName}.` {item.inner_text()}")
                 else:
                     lines.append(f"{item.tag_name()}: {item.outer_html()}")

@@ -45,17 +45,17 @@ Für Handlungen im Namen des Vereins vor seiner Entstehung haften die Handelnden
 Die Gestaltung der Vereinsorganisation steht den Gründern und den zur späteren Beschlussfassung über Statutenänderungen berufenen Vereinsorganen im Rahmen der Gesetze frei.
 
 `§ 3 (2) VerG.`  
-Die Statuten müssen jedenfalls enthalten:
-`§ 3 (2) Z 1 VerG.` den Vereinsnamen,
-`§ 3 (2) Z 2 VerG.` den Vereinssitz,
-`§ 3 (2) Z 3 VerG.` eine klare und umfassende Umschreibung des Vereinszwecks,
-`§ 3 (2) Z 4 VerG.` die für die Verwirklichung des Zwecks vorgesehenen Tätigkeiten und die Art der Aufbringung finanzieller Mittel,
-`§ 3 (2) Z 5 VerG.` Bestimmungen über den Erwerb und die Beendigung der Mitgliedschaft,
-`§ 3 (2) Z 6 VerG.` die Rechte und Pflichten der Vereinsmitglieder,
-`§ 3 (2) Z 7 VerG.` die Organe des Vereins und ihre Aufgaben, insbesondere eine klare und umfassende Angabe, wer die Geschäfte des Vereins führt und wer den Verein nach außen vertritt,
-`§ 3 (2) Z 8 VerG.` die Art der Bestellung der Vereinsorgane und die Dauer ihrer Funktionsperiode,
-`§ 3 (2) Z 9 VerG.` die Erfordernisse für gültige Beschlussfassungen durch die Vereinsorgane,
-`§ 3 (2) Z 10 VerG.` die Art der Schlichtung von Streitigkeiten aus dem Vereinsverhältnis,
+Die Statuten müssen jedenfalls enthalten:  
+`§ 3 (2) Z 1 VerG.` den Vereinsnamen,  
+`§ 3 (2) Z 2 VerG.` den Vereinssitz,  
+`§ 3 (2) Z 3 VerG.` eine klare und umfassende Umschreibung des Vereinszwecks,  
+`§ 3 (2) Z 4 VerG.` die für die Verwirklichung des Zwecks vorgesehenen Tätigkeiten und die Art der Aufbringung finanzieller Mittel,  
+`§ 3 (2) Z 5 VerG.` Bestimmungen über den Erwerb und die Beendigung der Mitgliedschaft,  
+`§ 3 (2) Z 6 VerG.` die Rechte und Pflichten der Vereinsmitglieder,  
+`§ 3 (2) Z 7 VerG.` die Organe des Vereins und ihre Aufgaben, insbesondere eine klare und umfassende Angabe, wer die Geschäfte des Vereins führt und wer den Verein nach außen vertritt,  
+`§ 3 (2) Z 8 VerG.` die Art der Bestellung der Vereinsorgane und die Dauer ihrer Funktionsperiode,  
+`§ 3 (2) Z 9 VerG.` die Erfordernisse für gültige Beschlussfassungen durch die Vereinsorgane,  
+`§ 3 (2) Z 10 VerG.` die Art der Schlichtung von Streitigkeiten aus dem Vereinsverhältnis,  
 `§ 3 (2) Z 11 VerG.` Bestimmungen über die freiwillige Auflösung des Vereins und die Verwertung des Vereinsvermögens im Fall einer solchen Auflösung.
 
 `§ 3 (3) VerG.`  
@@ -186,23 +186,23 @@ Eine Weiterverarbeitung besonderer Kategorien personenbezogener Daten gemäß §
 ### § 16 VerG # Lokales Vereinsregister
 
 `§ 16 (1) VerG.`  
-Die Vereinsbehörden haben für die in ihrem örtlichen Wirkungsbereich ansässigen Vereine zur Erfüllung ihrer gesetzlich übertragenen Aufgaben folgende Vereinsdaten in einem Register zu verarbeiten:
-`§ 16 (1) Z 1 VerG.` den Namen der örtlich zuständigen Vereinsbehörde;
-`§ 16 (1) Z 2 VerG.` den Namen des Vereins;
-`§ 16 (1) Z 3 VerG.` die ZVR-Zahl des Vereins gemäß § 18 Abs. 2;
-`§ 16 (1) Z 4 VerG.` das Datum des Entstehens des Vereins;
-`§ 16 (1) Z 5 VerG.` den Sitz und die für Zustellungen maßgebliche Anschrift des Vereins;
-`§ 16 (1) Z 6 VerG.` die statutenmäßige Regelung der Vertretung des Vereins;
-`§ 16 (1) Z 7 VerG.` die Funktion und den Namen der organschaftlichen Vertreter des Vereins, bis zu ihrer ersten Bekanntgabe den Namen der die Errichtung des Vereins anzeigenden Gründer;
-`§ 16 (1) Z 8 VerG.` das Geburtsdatum, den Geburtsort und die für Zustellungen maßgebliche Anschrift der organschaftlichen Vertreter des Vereins, bis zu ihrer ersten Bekanntgabe das Geburtsdatum, den Geburtsort und die für Zustellungen maßgebliche Anschrift der die Errichtung des Vereins anzeigenden Gründer;
-`§ 16 (1) Z 9 VerG.` die für den Bereich des Vereinswesens erstellte verwaltungsbereichsspezifische Personenkennzeichnung der organschaftlichen Vertreter des Vereins, bis zu ihrer ersten Bekanntgabe die Personenkennzeichnung der die Errichtung des Vereins anzeigenden Gründer;
-`§ 16 (1) Z 10 VerG.` den Beginn der Vertretungsbefugnis der organschaftlichen Vertreter des Vereins und die statutenmäßige Dauer ihrer Funktionsperiode;
-`§ 16 (1) Z 11 VerG.` die Mitteilung des Abschlussprüfers im Sinne des § 22 Abs. 5 erster Satz;
-`§ 16 (1) Z 12 VerG.` die freiwillige Auflösung und die rechtskräftige behördliche Auflösung des Vereins;
-`§ 16 (1) Z 13 VerG.` die Abwicklung oder Nachabwicklung sowie den Namen des Abwicklers und den Beginn seiner Vertretungsbefugnis;
-`§ 16 (1) Z 14 VerG.` das Geburtsdatum, den Geburtsort und die für Zustellungen maßgebliche Anschrift des Abwicklers;
-`§ 16 (1) Z 15 VerG.` die für den Bereich des Vereinswesens erstellte verwaltungsbereichsspezifische Personenkennzeichnung des Abwicklers;
-`§ 16 (1) Z 16 VerG.` die Beendigung der Abwicklung oder Nachabwicklung;
+Die Vereinsbehörden haben für die in ihrem örtlichen Wirkungsbereich ansässigen Vereine zur Erfüllung ihrer gesetzlich übertragenen Aufgaben folgende Vereinsdaten in einem Register zu verarbeiten:  
+`§ 16 (1) Z 1 VerG.` den Namen der örtlich zuständigen Vereinsbehörde;  
+`§ 16 (1) Z 2 VerG.` den Namen des Vereins;  
+`§ 16 (1) Z 3 VerG.` die ZVR-Zahl des Vereins gemäß § 18 Abs. 2;  
+`§ 16 (1) Z 4 VerG.` das Datum des Entstehens des Vereins;  
+`§ 16 (1) Z 5 VerG.` den Sitz und die für Zustellungen maßgebliche Anschrift des Vereins;  
+`§ 16 (1) Z 6 VerG.` die statutenmäßige Regelung der Vertretung des Vereins;  
+`§ 16 (1) Z 7 VerG.` die Funktion und den Namen der organschaftlichen Vertreter des Vereins, bis zu ihrer ersten Bekanntgabe den Namen der die Errichtung des Vereins anzeigenden Gründer;  
+`§ 16 (1) Z 8 VerG.` das Geburtsdatum, den Geburtsort und die für Zustellungen maßgebliche Anschrift der organschaftlichen Vertreter des Vereins, bis zu ihrer ersten Bekanntgabe das Geburtsdatum, den Geburtsort und die für Zustellungen maßgebliche Anschrift der die Errichtung des Vereins anzeigenden Gründer;  
+`§ 16 (1) Z 9 VerG.` die für den Bereich des Vereinswesens erstellte verwaltungsbereichsspezifische Personenkennzeichnung der organschaftlichen Vertreter des Vereins, bis zu ihrer ersten Bekanntgabe die Personenkennzeichnung der die Errichtung des Vereins anzeigenden Gründer;  
+`§ 16 (1) Z 10 VerG.` den Beginn der Vertretungsbefugnis der organschaftlichen Vertreter des Vereins und die statutenmäßige Dauer ihrer Funktionsperiode;  
+`§ 16 (1) Z 11 VerG.` die Mitteilung des Abschlussprüfers im Sinne des § 22 Abs. 5 erster Satz;  
+`§ 16 (1) Z 12 VerG.` die freiwillige Auflösung und die rechtskräftige behördliche Auflösung des Vereins;  
+`§ 16 (1) Z 13 VerG.` die Abwicklung oder Nachabwicklung sowie den Namen des Abwicklers und den Beginn seiner Vertretungsbefugnis;  
+`§ 16 (1) Z 14 VerG.` das Geburtsdatum, den Geburtsort und die für Zustellungen maßgebliche Anschrift des Abwicklers;  
+`§ 16 (1) Z 15 VerG.` die für den Bereich des Vereinswesens erstellte verwaltungsbereichsspezifische Personenkennzeichnung des Abwicklers;  
+`§ 16 (1) Z 16 VerG.` die Beendigung der Abwicklung oder Nachabwicklung;  
 `§ 16 (1) Z 17 VerG.` das Bestehen einer Auskunftssperre.
 
 `§ 16 (2) VerG.`  
@@ -223,9 +223,9 @@ Protokolldaten über tatsächlich durchgeführte Verarbeitungsvorgänge, wie ins
 ### § 17 VerG # Erteilung von Auskünften aus dem Lokalen Vereinsregister
 
 `§ 17 (1) VerG.`  
-Die Vereinsbehörden haben auf Verlangen aus dem Lokalen Vereinsregister jedermann über die in § 16 Abs. 1 Z 1 bis 7, 10 bis 13 und 16 angeführten Daten eines nach
-`§ 17 (1) Z 1 VerG.` seiner ZVR-Zahl (§ 18 Abs. 2) oder
-`§ 17 (1) Z 2 VerG.` seinem Namen oder
+Die Vereinsbehörden haben auf Verlangen aus dem Lokalen Vereinsregister jedermann über die in § 16 Abs. 1 Z 1 bis 7, 10 bis 13 und 16 angeführten Daten eines nach  
+`§ 17 (1) Z 1 VerG.` seiner ZVR-Zahl (§ 18 Abs. 2) oder  
+`§ 17 (1) Z 2 VerG.` seinem Namen oder  
 `§ 17 (1) Z 3 VerG.` Namensbestandteilen, allenfalls ergänzt mit dem Vereinssitz,
 
 `§ 17 (2) VerG.`  
@@ -238,8 +238,8 @@ Die Auskunft ergeht mündlich oder in Form eines Vereinsregisterauszugs. Scheint
 Jeder im Vereinsregister eingetragene Verein kann im Fall einer außergewöhnlichen Gefährdung, insbesondere bei Vorliegen besonderer Kategorien personenbezogener Daten (§ 15 Abs. 1) bei der Vereinsbehörde beantragen, dass Auskünfte über ihn nicht erteilt werden (Auskunftssperre). Dem Antrag ist stattzugeben, soweit ein schutzwürdiges Interesse glaubhaft gemacht wird. Die Auskunftssperre kann für die Dauer von höchstens zwei Jahren verfügt oder verlängert werden.
 
 `§ 17 (5) VerG.`  
-Die Auskunftssperre ist zu widerrufen, sobald sich herausstellt, dass
-`§ 17 (5) Z 1 VerG.` sich der Antragsteller durch die Auskunftssperre rechtlichen Verpflichtungen entziehen will oder
+Die Auskunftssperre ist zu widerrufen, sobald sich herausstellt, dass  
+`§ 17 (5) Z 1 VerG.` sich der Antragsteller durch die Auskunftssperre rechtlichen Verpflichtungen entziehen will oder  
 `§ 17 (5) Z 2 VerG.` der Grund für die Verfügung der Auskunftssperre weggefallen ist.
 
 `§ 17 (6) VerG.`  
@@ -286,21 +286,21 @@ Der Bundesminister für Inneres ist ermächtigt, Organen von Gebietskörperschaf
 Unbeschadet der Bestimmungen des Abs. 2 ist der Bundesminister für Inneres ermächtigt, jedermann die gebührenfreie Abfrage der im ZVR verarbeiteten Daten gemäß § 16 Abs. 1 Z 1 bis 7, 10 bis 13 und 16 eines nach § 17 Abs. 1 Z 1 bis 3 eindeutig bestimmbaren Vereins, für den keine Auskunftssperre gemäß § 17 Abs. 4 besteht, im Weg des Datenfernverkehrs zu eröffnen (Online-Einzelabfrage).
 
 `§ 19 (4) VerG.`  
-Der Zeitpunkt der Aufnahme des Echtbetriebs des Zentralen Vereinsregisters sowie Näheres über die Vorgangsweise bei dem in Abs. 1 bis 3 vorgesehenen Verarbeiten von Daten im Hinblick auf die für die jeweilige Datenverarbeitung notwendigen Datensicherheitsmaßnahmen, sind vom Bundesminister für Inneres durch Verordnung festzulegen, wobei für das Verarbeiten von Daten gemäß Abs. 1a und 2 insbesondere vorzusehen ist, dass seitens des Empfängers sichergestellt wird, dass
-`§ 19 (4) Z 1 VerG.` in seinem Bereich ausdrücklich festgelegt wird, wer unter welchen Voraussetzungen eine Abfrage durchführen darf,
-`§ 19 (4) Z 2 VerG.` abfrageberechtigte Mitarbeiter über ihre nach Datenschutzvorschriften bestehenden Pflichten belehrt werden,
-`§ 19 (4) Z 3 VerG.` entsprechende Regelungen über die Abfrageberechtigungen und den Schutz vor Einsicht und Verarbeiten der Vereinsdaten durch Unbefugte getroffen werden,
-`§ 19 (4) Z 4 VerG.` durch technische oder programmgesteuerte Vorkehrungen Maßnahmen gegen unbefugte Abfragen ergriffen werden,
-`§ 19 (4) Z 5 VerG.` Aufzeichnungen geführt werden, damit tatsächlich durchgeführte Verarbeitungsvorgänge im Hinblick auf ihre Zulässigkeit im notwendigen Ausmaß nachvollzogen werden können,
-`§ 19 (4) Z 6 VerG.` Maßnahmen zum Schutz vor unberechtigtem Zutritt zu Räumlichkeiten, von denen aus Abfragen durchgeführt werden können, ergriffen werden und
+Der Zeitpunkt der Aufnahme des Echtbetriebs des Zentralen Vereinsregisters sowie Näheres über die Vorgangsweise bei dem in Abs. 1 bis 3 vorgesehenen Verarbeiten von Daten im Hinblick auf die für die jeweilige Datenverarbeitung notwendigen Datensicherheitsmaßnahmen, sind vom Bundesminister für Inneres durch Verordnung festzulegen, wobei für das Verarbeiten von Daten gemäß Abs. 1a und 2 insbesondere vorzusehen ist, dass seitens des Empfängers sichergestellt wird, dass  
+`§ 19 (4) Z 1 VerG.` in seinem Bereich ausdrücklich festgelegt wird, wer unter welchen Voraussetzungen eine Abfrage durchführen darf,  
+`§ 19 (4) Z 2 VerG.` abfrageberechtigte Mitarbeiter über ihre nach Datenschutzvorschriften bestehenden Pflichten belehrt werden,  
+`§ 19 (4) Z 3 VerG.` entsprechende Regelungen über die Abfrageberechtigungen und den Schutz vor Einsicht und Verarbeiten der Vereinsdaten durch Unbefugte getroffen werden,  
+`§ 19 (4) Z 4 VerG.` durch technische oder programmgesteuerte Vorkehrungen Maßnahmen gegen unbefugte Abfragen ergriffen werden,  
+`§ 19 (4) Z 5 VerG.` Aufzeichnungen geführt werden, damit tatsächlich durchgeführte Verarbeitungsvorgänge im Hinblick auf ihre Zulässigkeit im notwendigen Ausmaß nachvollzogen werden können,  
+`§ 19 (4) Z 6 VerG.` Maßnahmen zum Schutz vor unberechtigtem Zutritt zu Räumlichkeiten, von denen aus Abfragen durchgeführt werden können, ergriffen werden und  
 `§ 19 (4) Z 7 VerG.` eine Dokumentation über die gemäß Z 1 bis 6 getroffenen Maßnahmen geführt wird.
 
 `§ 19 (5) VerG.`  
-Eine auf Antrag eröffnete Abfrageberechtigung im Zentralen Vereinsregister ist vom Bundesminister für Inneres zu unterbinden, wenn
-`§ 19 (5) Z 1 VerG.` die Voraussetzungen, unter denen die Abfrageberechtigung erteilt wurde, nicht mehr vorliegen,
-`§ 19 (5) Z 1a VerG.` die damit ermittelten Daten zu anderen Zwecken als zur Erfüllung eines gesetzlichen Auftrages verarbeitet werden,
-`§ 19 (5) Z 2 VerG.` schutzwürdige Geheimhaltungsinteressen Betroffener von Auskünften verletzt wurden,
-`§ 19 (5) Z 3 VerG.` gegen Datensicherheitsmaßnahmen gemäß Abs. 4 Z 1 bis 7 verstoßen wurde oder
+Eine auf Antrag eröffnete Abfrageberechtigung im Zentralen Vereinsregister ist vom Bundesminister für Inneres zu unterbinden, wenn  
+`§ 19 (5) Z 1 VerG.` die Voraussetzungen, unter denen die Abfrageberechtigung erteilt wurde, nicht mehr vorliegen,  
+`§ 19 (5) Z 1a VerG.` die damit ermittelten Daten zu anderen Zwecken als zur Erfüllung eines gesetzlichen Auftrages verarbeitet werden,  
+`§ 19 (5) Z 2 VerG.` schutzwürdige Geheimhaltungsinteressen Betroffener von Auskünften verletzt wurden,  
+`§ 19 (5) Z 3 VerG.` gegen Datensicherheitsmaßnahmen gemäß Abs. 4 Z 1 bis 7 verstoßen wurde oder  
 `§ 19 (5) Z 4 VerG.` ausdrücklich auf sie verzichtet wird.
 
 `§ 19 (6) VerG.`  
@@ -372,12 +372,12 @@ Stellt der Abschlussprüfer bei seiner Prüfung Tatsachen fest, die erkennen las
 Verletzt ein Mitglied eines Vereinsorgans unter Missachtung der Sorgfalt eines ordentlichen und gewissenhaften Organwalters seine gesetzlichen oder statutarischen Pflichten oder rechtmäßige Beschlüsse eines zuständigen Vereinsorgans, so haftet es dem Verein für den daraus entstandenen Schaden nach den §§ 1293 ff ABGB; dies gilt sinngemäß auch für Rechnungsprüfer. Ist der Organwalter oder der Rechnungsprüfer unentgeltlich tätig, so haftet er nur bei Vorsatz oder grober Fahrlässigkeit, wenn nicht anderes vereinbart oder in den Statuten festgelegt ist. Vereinsmitglieder sind in ihrer Eigenschaft als Teilnehmer der Mitgliederversammlung keine Organwalter.
 
 `§ 24 (2) VerG.`  
-Organwalter können insbesondere schadenersatzpflichtig werden, wenn sie schuldhaft
-`§ 24 (2) Z 1 VerG.` Vereinsvermögen zweckwidrig verwendet,
-`§ 24 (2) Z 2 VerG.` Vereinsvorhaben ohne ausreichende finanzielle Sicherung in Angriff genommen,
-`§ 24 (2) Z 3 VerG.` ihre Verpflichtungen betreffend das Finanz- und Rechnungswesen des Vereins missachtet,
-`§ 24 (2) Z 4 VerG.` die Eröffnung des Insolvenzverfahrens über das Vereinsvermögen nicht rechtzeitig beantragt,
-`§ 24 (2) Z 5 VerG.` im Fall der Auflösung des Vereins dessen Abwicklung behindert oder vereitelt oder
+Organwalter können insbesondere schadenersatzpflichtig werden, wenn sie schuldhaft  
+`§ 24 (2) Z 1 VerG.` Vereinsvermögen zweckwidrig verwendet,  
+`§ 24 (2) Z 2 VerG.` Vereinsvorhaben ohne ausreichende finanzielle Sicherung in Angriff genommen,  
+`§ 24 (2) Z 3 VerG.` ihre Verpflichtungen betreffend das Finanz- und Rechnungswesen des Vereins missachtet,  
+`§ 24 (2) Z 4 VerG.` die Eröffnung des Insolvenzverfahrens über das Vereinsvermögen nicht rechtzeitig beantragt,  
+`§ 24 (2) Z 5 VerG.` im Fall der Auflösung des Vereins dessen Abwicklung behindert oder vereitelt oder  
 `§ 24 (2) Z 6 VerG.` ein Verhalten, das Schadenersatzpflichten des Vereins gegenüber Vereinsmitgliedern oder Dritten ausgelöst hat, gesetzt
 
 `§ 24 (3) VerG.`  
