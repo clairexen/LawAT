@@ -39,10 +39,10 @@ Tritt ein zum Tatbild gehörender Erfolg erst ein, nachdem die mit Strafe bedroh
 Begeht der Täter während der Verjährungsfrist neuerlich eine mit Strafe bedrohte Handlung, die auf der gleichen schädlichen Neigung beruht, so tritt die Verjährung nicht ein, bevor auch für diese Tat die Verjährungsfrist abgelaufen ist.
 
 `§ 58 (3) StGB.`  
-In die Verjährungsfrist werden nicht eingerechnet:
-`§ 58 (3) Z 1 StGB.` die Zeit, während der nach einer gesetzlichen Vorschrift die Verfolgung nicht eingeleitet oder fortgesetzt werden kann, soweit das Bundes-Verfassungsgesetz, BGBl. Nr. 1/1930, und Abs. 4 nichts anderes bestimmen;
-`§ 58 (3) Z 2 StGB.` die Zeit zwischen der erstmaligen Vernehmung als Beschuldigter, der erstmaligen Androhung oder Ausübung von Zwang gegen den Täter wegen der Tat (§§ 93 Abs. 1, 105 Abs. 1 StPO), der ersten staatsanwaltlichen Anordnung oder Antragstellung auf Durchführung oder Bewilligung von im 8. Hauptstück der StPO geregelten Ermittlungsmaßnahmen und Beweisaufnahmen zur Aufklärung des gegen den Täter gerichteten Verdachts, der Anordnung der Fahndung oder Festnahme, des Antrags auf Verhängung der Untersuchungshaft oder der Einbringung der Anklage, einschließlich vergleichbarer Maßnahmen der Europäischen Staatsanwaltschaft, und der rechtskräftigen Beendigung des Verfahrens;
-`§ 58 (3) Z 3 StGB.` die Zeit bis zur Vollendung des 28. Lebensjahres des Opfers einer strafbaren Handlung gegen Leib und Leben, gegen die Freiheit oder gegen die sexuelle Integrität und Selbstbestimmung, wenn das Opfer zur Zeit der Tatbegehung minderjährig war;
+In die Verjährungsfrist werden nicht eingerechnet:  
+`§ 58 (3) Z 1 StGB.` die Zeit, während der nach einer gesetzlichen Vorschrift die Verfolgung nicht eingeleitet oder fortgesetzt werden kann, soweit das Bundes-Verfassungsgesetz, BGBl. Nr. 1/1930, und Abs. 4 nichts anderes bestimmen;  
+`§ 58 (3) Z 2 StGB.` die Zeit zwischen der erstmaligen Vernehmung als Beschuldigter, der erstmaligen Androhung oder Ausübung von Zwang gegen den Täter wegen der Tat (§§ 93 Abs. 1, 105 Abs. 1 StPO), der ersten staatsanwaltlichen Anordnung oder Antragstellung auf Durchführung oder Bewilligung von im 8. Hauptstück der StPO geregelten Ermittlungsmaßnahmen und Beweisaufnahmen zur Aufklärung des gegen den Täter gerichteten Verdachts, der Anordnung der Fahndung oder Festnahme, des Antrags auf Verhängung der Untersuchungshaft oder der Einbringung der Anklage, einschließlich vergleichbarer Maßnahmen der Europäischen Staatsanwaltschaft, und der rechtskräftigen Beendigung des Verfahrens;  
+`§ 58 (3) Z 3 StGB.` die Zeit bis zur Vollendung des 28. Lebensjahres des Opfers einer strafbaren Handlung gegen Leib und Leben, gegen die Freiheit oder gegen die sexuelle Integrität und Selbstbestimmung, wenn das Opfer zur Zeit der Tatbegehung minderjährig war;  
 `§ 58 (3) Z 4 StGB.` die Probezeit nach § 203 Abs. 1 StPO, die Fristen zur Zahlung eines Geldbetrages samt allfälliger Schadensgutmachung und zur Erbringung gemeinnütziger Leistungen samt allfälligem Tatfolgenausgleich (§§ 200 Abs. 2 und 3, 201 Abs. 1 und 3 StPO), sowie die Zeit von der Stellung eines Ersuchens der Staatsanwaltschaft gemäß § 204 Abs. 3 StPO bis zur Mitteilung des Konfliktreglers über die Ausgleichsvereinbarungen und ihre Erfüllung (§ 204 Abs. 4 StPO).
 
 `§ 58 (3a) StGB.`  
@@ -75,10 +75,10 @@ Die Frist beträgt
 Wird gegen den Verurteilten in der Verjährungsfrist auf eine neue Strafe oder vorbeugende Maßnahme erkannt, so tritt die Verjährung der Vollstreckbarkeit nicht ein, bevor nicht auch die Vollstreckbarkeit dieser Strafe oder vorbeugenden Maßnahme erloschen ist.
 
 `§ 60 (2) StGB.`  
-In die Verjährungsfrist werden nicht eingerechnet:
-`§ 60 (2) Z 1 StGB.` die Probezeit im Fall einer bedingten Nachsicht der Strafe oder der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder im Fall einer bedingten Entlassung;
-`§ 60 (2) Z 2 StGB.` Zeiten, für die dem Verurteilten ein Aufschub des Vollzuges einer Freiheitsstrafe, es sei denn wegen Vollzugsuntauglichkeit, oder der Zahlung einer Geldstrafe gewährt worden ist;
-`§ 60 (2) Z 3 StGB.` Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist;
+In die Verjährungsfrist werden nicht eingerechnet:  
+`§ 60 (2) Z 1 StGB.` die Probezeit im Fall einer bedingten Nachsicht der Strafe oder der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder im Fall einer bedingten Entlassung;  
+`§ 60 (2) Z 2 StGB.` Zeiten, für die dem Verurteilten ein Aufschub des Vollzuges einer Freiheitsstrafe, es sei denn wegen Vollzugsuntauglichkeit, oder der Zahlung einer Geldstrafe gewährt worden ist;  
+`§ 60 (2) Z 3 StGB.` Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist;  
 `§ 60 (2) Z 4 StGB.` Zeiten, in denen sich der Verurteilte im Ausland aufgehalten hat.
 
 `§ 60 (3) StGB.`  
@@ -103,18 +103,18 @@ Der Vollzug der Freiheitsstrafe oder der mit Freiheitsentziehung verbundenen vor
 ### § 64 StGB # Strafbare Handlungen im Ausland, die ohne Rücksicht auf die Gesetze des Tatorts bestraft werden
 
 `§ 64 (1) StGB.`  
-Die österreichischen Strafgesetze gelten unabhängig von den Strafgesetzen des Tatorts für folgende im Ausland begangene Taten:
-`§ 64 (1) Z 1 StGB.` Auskundschaftung eines Geschäfts- oder Betriebsgeheimnisses zugunsten des Auslands (§ 124), Hochverrat (§ 242), Vorbereitung eines Hochverrats (§ 244), staatsfeindliche Verbindungen (§ 246), Angriffe auf oberste Staatsorgane (§§ 249 bis 251), Landesverrat (§§ 252 bis 258) und strafbare Handlungen gegen das Bundesheer (§§ 259 und 260);
-`§ 64 (1) Z 2 StGB.` strafbare Handlungen, die jemand gegen einen österreichischen Beamten (§ 74 Abs. 1 Z 4), einen österreichischen Amtsträger (§ 74 Abs. 1 Z 4a) oder einen österreichischen Schiedsrichter (§ 74 Abs. 1 Z 4c) während oder wegen der Vollziehung seiner Aufgaben und die jemand als österreichischer Beamter, österreichischer Amtsträger oder österreichischer Schiedsrichter begeht;
+Die österreichischen Strafgesetze gelten unabhängig von den Strafgesetzen des Tatorts für folgende im Ausland begangene Taten:  
+`§ 64 (1) Z 1 StGB.` Auskundschaftung eines Geschäfts- oder Betriebsgeheimnisses zugunsten des Auslands (§ 124), Hochverrat (§ 242), Vorbereitung eines Hochverrats (§ 244), staatsfeindliche Verbindungen (§ 246), Angriffe auf oberste Staatsorgane (§§ 249 bis 251), Landesverrat (§§ 252 bis 258) und strafbare Handlungen gegen das Bundesheer (§§ 259 und 260);  
+`§ 64 (1) Z 2 StGB.` strafbare Handlungen, die jemand gegen einen österreichischen Beamten (§ 74 Abs. 1 Z 4), einen österreichischen Amtsträger (§ 74 Abs. 1 Z 4a) oder einen österreichischen Schiedsrichter (§ 74 Abs. 1 Z 4c) während oder wegen der Vollziehung seiner Aufgaben und die jemand als österreichischer Beamter, österreichischer Amtsträger oder österreichischer Schiedsrichter begeht;  
 `§ 64 (1) Z 2a StGB.` außer dem Fall der Z 2 strafbare Verletzungen der Amtspflicht, Korruption und verwandte strafbare Handlungen (§§ 302 bis 309), wenn
 a)
 der Täter zur Zeit der Tat Österreicher war oder
 b)
 die Tat zugunsten eines österreichischen Amtsträgers oder österreichischen Schiedsrichters begangen wurde;
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter zur Zeit der Tat Österreicher war oder</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">die Tat zugunsten eines österreichischen Amtsträgers oder österreichischen Schiedsrichters begangen wurde;</div></div>
-`§ 64 (1) Z 3 StGB.` falsche Beweisaussage (§ 288) und unter Eid abgelegte oder mit einem Eid bekräftigte falsche Beweisaussage vor einer Verwaltungsbehörde (§ 289) in einem Ermittlungsverfahren nach der Strafprozessordnung oder nach der Verordnung (EU) 2017/1939 zur Durchführung einer Verstärkten Zusammenarbeit zur Errichtung der Europäischen Staatsanwaltschaft (EUStA), ABl. Nr. L 283 vom 31.10.2017 S. 1, sowie in einem Verfahren, das bei einem österreichischen Gericht oder einer österreichischen Verwaltungsbehörde anhängig ist;
-`§ 64 (1) Z 4 StGB.` Geldfälschung (§ 232), Weitergabe und Besitz nachgemachten oder verfälschten Geldes (§ 233), die nach § 232 strafbare Fälschung besonders geschützter Wertpapiere (§ 237), kriminelle Organisation (§ 278a) und die nach den §§ 28a, 31a sowie 32 Abs. 3 des Suchtmittelgesetzes strafbaren Handlungen, wenn durch die Tat österreichische Interessen verletzt worden sind oder der Täter nicht ausgeliefert werden kann;
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">die Tat zugunsten eines österreichischen Amtsträgers oder österreichischen Schiedsrichters begangen wurde;</div></div>  
+`§ 64 (1) Z 3 StGB.` falsche Beweisaussage (§ 288) und unter Eid abgelegte oder mit einem Eid bekräftigte falsche Beweisaussage vor einer Verwaltungsbehörde (§ 289) in einem Ermittlungsverfahren nach der Strafprozessordnung oder nach der Verordnung (EU) 2017/1939 zur Durchführung einer Verstärkten Zusammenarbeit zur Errichtung der Europäischen Staatsanwaltschaft (EUStA), ABl. Nr. L 283 vom 31.10.2017 S. 1, sowie in einem Verfahren, das bei einem österreichischen Gericht oder einer österreichischen Verwaltungsbehörde anhängig ist;  
+`§ 64 (1) Z 4 StGB.` Geldfälschung (§ 232), Weitergabe und Besitz nachgemachten oder verfälschten Geldes (§ 233), die nach § 232 strafbare Fälschung besonders geschützter Wertpapiere (§ 237), kriminelle Organisation (§ 278a) und die nach den §§ 28a, 31a sowie 32 Abs. 3 des Suchtmittelgesetzes strafbaren Handlungen, wenn durch die Tat österreichische Interessen verletzt worden sind oder der Täter nicht ausgeliefert werden kann;  
 `§ 64 (1) Z 4a StGB.` Genitalverstümmelung (§ 85 Abs. 1 Z 2a), erpresserische Entführung (§ 102), Überlieferung an eine ausländische Macht (§ 103), Sklavenhandel (§ 104), Menschenhandel (§ 104a), schwere Nötigung nach § 106 Abs. 1 Z 3, Zwangsheirat (§ 106a), verbotene Adoptionsvermittlung (§ 194), Vergewaltigung (§ 201), geschlechtliche Nötigung (§ 202), sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten Person (§ 205), schwerer sexueller Missbrauch von Unmündigen (§ 206), sexueller Missbrauch von Unmündigen (§ 207), bildliches sexualbezogenes Kindesmissbrauchsmaterial und bildliche sexualbezogene Darstellungen minderjähriger Personen nach § 207a Abs. 1, 1a, 2 und 2a, sexueller Missbrauch von Jugendlichen (§ 207b), Missbrauch eines Autoritätsverhältnisses nach § 212 Abs. 1, Förderung der Prostitution und pornographischer Darbietungen Minderjähriger (§ 215a), grenzüberschreitender Prostitutionshandel (§ 217), wenn
 a)
 der Täter oder das Opfer Österreicher ist oder seinen gewöhnlichen Aufenthalt im Inland hat,
@@ -124,8 +124,8 @@ c)
 der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter oder das Opfer Österreicher ist oder seinen gewöhnlichen Aufenthalt im Inland hat,</div></div>
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">durch die Tat sonstige österreichische Interessen verletzt worden sind oder</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;</div></div>
-`§ 64 (1) Z 4b StGB.` Herstellung und Verbreitung von Massenvernichtungswaffen (§ 177a), wenn der Täter Österreicher ist, in bezug auf die Entwicklung nuklearer oder radiologischer Kampfmittel jedoch nur, soweit die Tat nicht im Auftrag oder unter der Verantwortung einer Vertragspartei des Vertrages über die Nichtweiterverbreitung von Atomwaffen, BGBl. Nr. 258/1970, die Atomwaffenstaat ist, begangen worden ist;
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;</div></div>  
+`§ 64 (1) Z 4b StGB.` Herstellung und Verbreitung von Massenvernichtungswaffen (§ 177a), wenn der Täter Österreicher ist, in bezug auf die Entwicklung nuklearer oder radiologischer Kampfmittel jedoch nur, soweit die Tat nicht im Auftrag oder unter der Verantwortung einer Vertragspartei des Vertrages über die Nichtweiterverbreitung von Atomwaffen, BGBl. Nr. 258/1970, die Atomwaffenstaat ist, begangen worden ist;  
 `§ 64 (1) Z 4c StGB.` Folter (§ 312a), Verschwindenlassen einer Person (§ 312b) und strafbare Handlungen nach dem fünfundzwanzigsten Abschnitt, wenn
 a)
 der Täter oder das Opfer Österreicher ist,
@@ -135,7 +135,7 @@ c)
 der Täter zur Zeit der Tat Ausländer war und entweder seinen gewöhnlichen Aufenthalt im Inland hat oder sich in Österreich aufhält und nicht ausgeliefert werden kann.
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter oder das Opfer Österreicher ist,</div></div>
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">durch die Tat sonstige österreichische Interessen verletzt worden sind oder</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter zur Zeit der Tat Ausländer war und entweder seinen gewöhnlichen Aufenthalt im Inland hat oder sich in Österreich aufhält und nicht ausgeliefert werden kann.</div></div>
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter zur Zeit der Tat Ausländer war und entweder seinen gewöhnlichen Aufenthalt im Inland hat oder sich in Österreich aufhält und nicht ausgeliefert werden kann.</div></div>  
 `§ 64 (1) Z 5 StGB.` Luftpiraterie (§ 185), damit im Zusammenhang begangene strafbare Handlungen gegen Leib und Leben oder gegen die Freiheit und vorsätzliche Gefährdung der Sicherheit der Luftfahrt (§ 186), wenn
 a)
 die strafbare Handlung gegen ein österreichisches Luftfahrzeug gerichtet ist,
@@ -148,10 +148,10 @@ sich der Täter in Österreich aufhält und nicht ausgeliefert werden kann;
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">die strafbare Handlung gegen ein österreichisches Luftfahrzeug gerichtet ist,</div></div>
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">das Luftfahrzeug in Österreich landet und der Täter sich noch an Bord befindet,</div></div>
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">das Luftfahrzeug ohne Besatzung an jemanden vermietet ist, der seinen Geschäftssitz oder in Ermangelung eines solchen Sitzes seinen ständigen Aufenthalt in Österreich hat, oder</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">sich der Täter in Österreich aufhält und nicht ausgeliefert werden kann;</div></div>
-`§ 64 (1) Z 6 StGB.` sonstige strafbare Handlungen, zu deren Verfolgung Österreich, auch wenn sie im Ausland begangen worden sind, unabhängig von den Strafgesetzen des Tatorts verpflichtet ist;
-`§ 64 (1) Z 7 StGB.` strafbare Handlungen, die ein Österreicher gegen einen Österreicher begeht, wenn beide ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland haben;
-`§ 64 (1) Z 8 StGB.` Beteiligung (§ 12) an einer strafbaren Handlung, die der unmittelbare Täter im Inland begangen hat, sowie Hehlerei (§ 164) und Geldwäscherei (§ 165) in bezug auf eine im Inland begangene Tat;
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">sich der Täter in Österreich aufhält und nicht ausgeliefert werden kann;</div></div>  
+`§ 64 (1) Z 6 StGB.` sonstige strafbare Handlungen, zu deren Verfolgung Österreich, auch wenn sie im Ausland begangen worden sind, unabhängig von den Strafgesetzen des Tatorts verpflichtet ist;  
+`§ 64 (1) Z 7 StGB.` strafbare Handlungen, die ein Österreicher gegen einen Österreicher begeht, wenn beide ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland haben;  
+`§ 64 (1) Z 8 StGB.` Beteiligung (§ 12) an einer strafbaren Handlung, die der unmittelbare Täter im Inland begangen hat, sowie Hehlerei (§ 164) und Geldwäscherei (§ 165) in bezug auf eine im Inland begangene Tat;  
 `§ 64 (1) Z 9 StGB.` terroristische Vereinigung (§ 278b) und terroristische Straftaten (§ 278c) sowie damit im Zusammenhang begangene strafbare Handlungen nach den §§ 128 bis 131, 144 und 145 sowie 223 und 224, ferner Terrorismusfinanzierung (§ 278d), Ausbildung für terroristische Zwecke (§ 278e), Anleitung zur Begehung einer terroristischen Straftat (§ 278f), Reisen für terroristische Zwecke (§ 278g) und damit im Zusammenhang begangene strafbare Handlungen nach den §§ 223 und 224 sowie Aufforderung zu terroristischen Straftaten und Gutheißung terroristischer Straftaten (§ 282a), wenn
 a)
 der Täter zur Zeit der Tat Österreicher war oder wenn er die österreichische Staatsbürgerschaft später erworben hat und zur Zeit der Einleitung des Strafverfahrens noch besitzt,
@@ -170,7 +170,7 @@ DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter zur
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">die Tat zugunsten einer juristischen Person mit Sitz in Österreich begangen wurde,</div></div>
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">die Tat gegen den Nationalrat, den Bundesrat, die Bundesversammlung, die Bundesregierung, einen Landtag, eine Landesregierung, den Verfassungsgerichtshof, den Verwaltungsgerichtshof, den Obersten Gerichtshof, sonst ein Gericht oder eine Behörde oder gegen die Bevölkerung der Republik Österreich begangen wurde,</div></div>
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">die Tat gegen ein Organ der Europäischen Union oder eine gemäß den Verträgen zur Gründung der Europäischen Gemeinschaften oder dem Vertrag über die Europäische Union geschaffene Einrichtung mit Sitz in der Republik Österreich begangen wurde oder</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;</div></div>
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;</div></div>  
 `§ 64 (1) Z 11 StGB.` Unvertretbare Darstellung wesentlicher Informationen über bestimmte Verbände (§ 163a) und Unvertretbare Berichte von Prüfern bestimmter Verbände (§ 163b), wenn die Hauptniederlassung oder der Sitz des Verbandes im Inland liegt.
 
 `§ 64 (2) StGB.`  
@@ -179,8 +179,8 @@ Können die im Abs. 1 genannten Strafgesetze bloß deshalb nicht angewendet wer
 ### § 65 StGB # Strafbare Handlungen im Ausland, die nur bestraft werden, wenn sie nach den Gesetzen des Tatorts mit Strafe bedroht sind
 
 `§ 65 (1) StGB.`  
-Für andere als die in den §§ 63 und 64 bezeichneten Taten, die im Ausland begangen worden sind, gelten, sofern die Taten auch durch die Gesetze des Tatorts mit Strafe bedroht sind, die österreichischen Strafgesetze:
-`§ 65 (1) Z 1 StGB.` wenn der Täter zur Zeit der Tat Österreicher war oder wenn er die österreichische Staatsbürgerschaft später erworben hat und zur Zeit der Einleitung des Strafverfahrens noch besitzt;
+Für andere als die in den §§ 63 und 64 bezeichneten Taten, die im Ausland begangen worden sind, gelten, sofern die Taten auch durch die Gesetze des Tatorts mit Strafe bedroht sind, die österreichischen Strafgesetze:  
+`§ 65 (1) Z 1 StGB.` wenn der Täter zur Zeit der Tat Österreicher war oder wenn er die österreichische Staatsbürgerschaft später erworben hat und zur Zeit der Einleitung des Strafverfahrens noch besitzt;  
 `§ 65 (1) Z 2 StGB.` wenn der Täter zur Zeit der Tat Ausländer war, im Inland betreten wird und aus einem anderen Grund als wegen der Art oder Eigenschaft seiner Tat nicht an das Ausland ausgeliefert werden kann.
 
 `§ 65 (2) StGB.`  
@@ -190,10 +190,10 @@ Die Strafe ist so zu bestimmen, daß der Täter in der Gesamtauswirkung nicht un
 Besteht am Ort der Tat keine Strafgewalt, so genügt es, wenn die Tat nach den österreichischen Gesetzen strafbar ist.
 
 `§ 65 (4) StGB.`  
-Die Strafbarkeit entfällt jedoch:
-`§ 65 (4) Z 1 StGB.` wenn die Strafbarkeit der Tat nach den Gesetzen des Tatorts erloschen ist;
-`§ 65 (4) Z 2 StGB.` wenn der Täter von einem Gericht des Staates, in dem die Tat begangen worden ist, rechtskräftig freigesprochen oder sonst außer Verfolgung gesetzt worden ist;
-`§ 65 (4) Z 3 StGB.` wenn der Täter von einem ausländischen Gericht rechtskräftig verurteilt und die Strafe ganz vollstreckt oder, soweit sie nicht vollstreckt wurde, erlassen worden oder ihre Vollstreckbarkeit nach dem ausländischen Recht verjährt ist;
+Die Strafbarkeit entfällt jedoch:  
+`§ 65 (4) Z 1 StGB.` wenn die Strafbarkeit der Tat nach den Gesetzen des Tatorts erloschen ist;  
+`§ 65 (4) Z 2 StGB.` wenn der Täter von einem Gericht des Staates, in dem die Tat begangen worden ist, rechtskräftig freigesprochen oder sonst außer Verfolgung gesetzt worden ist;  
+`§ 65 (4) Z 3 StGB.` wenn der Täter von einem ausländischen Gericht rechtskräftig verurteilt und die Strafe ganz vollstreckt oder, soweit sie nicht vollstreckt wurde, erlassen worden oder ihre Vollstreckbarkeit nach dem ausländischen Recht verjährt ist;  
 `§ 65 (4) Z 4 StGB.` solange die Vollstreckung der vom ausländischen Gericht verhängten Strafe ganz oder teilweise ausgesetzt ist.
 
 `§ 65 (5) StGB.`  

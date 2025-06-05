@@ -21,9 +21,9 @@
 ### § 70 StGB # Gewerbsmäßige Begehung
 
 `§ 70 (1) StGB.`  
-Gewerbsmäßig begeht eine Tat, wer sie in der Absicht ausführt, sich durch ihre wiederkehrende Begehung längere Zeit hindurch ein nicht bloß geringfügiges fortlaufendes Einkommen zu verschaffen, und
-`§ 70 (1) Z 1 StGB.` unter Einsatz besonderer Fähigkeiten oder Mittel handelt, die eine wiederkehrende Begehung nahelegen, oder
-`§ 70 (1) Z 2 StGB.` zwei weitere solche Taten schon im Einzelnen geplant hat oder
+Gewerbsmäßig begeht eine Tat, wer sie in der Absicht ausführt, sich durch ihre wiederkehrende Begehung längere Zeit hindurch ein nicht bloß geringfügiges fortlaufendes Einkommen zu verschaffen, und  
+`§ 70 (1) Z 1 StGB.` unter Einsatz besonderer Fähigkeiten oder Mittel handelt, die eine wiederkehrende Begehung nahelegen, oder  
+`§ 70 (1) Z 2 StGB.` zwei weitere solche Taten schon im Einzelnen geplant hat oder  
 `§ 70 (1) Z 3 StGB.` bereits zwei solche Taten begangen hat oder einmal wegen einer solchen Tat verurteilt worden ist.
 
 `§ 70 (2) StGB.`  
@@ -53,10 +53,10 @@ Personen, die miteinander in Lebensgemeinschaft leben, werden wie Angehörige be
 ### § 74 StGB # Andere Begriffsbestimmungen
 
 `§ 74 (1) StGB.`  
-Im Sinn dieses Bundesgesetzes ist
-`§ 74 (1) Z 1 StGB.` unmündig: wer das vierzehnte Lebensjahr noch nicht vollendet hat;
-`§ 74 (1) Z 3 StGB.` minderjährig: wer das achtzehnte Lebensjahr noch nicht vollendet hat;
-`§ 74 (1) Z 4 StGB.` Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;
+Im Sinn dieses Bundesgesetzes ist  
+`§ 74 (1) Z 1 StGB.` unmündig: wer das vierzehnte Lebensjahr noch nicht vollendet hat;  
+`§ 74 (1) Z 3 StGB.` minderjährig: wer das achtzehnte Lebensjahr noch nicht vollendet hat;  
+`§ 74 (1) Z 4 StGB.` Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;  
 `§ 74 (1) Z 4a StGB.` Amtsträger: jeder, der
 (Anm.: lit. a aufgehoben durch BGBl. I Nr. 61/2012)
 b.
@@ -67,22 +67,22 @@ d)
 als Organ oder Bediensteter eines Unternehmens tätig ist, an dem eine oder mehrere inländische oder ausländische Gebietskörperschaften unmittelbar oder mittelbar mit mindestens 50 vH des Stamm-, Grund- oder Eigenkapitals beteiligt sind, das eine solche Gebietskörperschaft allein oder gemeinsam mit anderen solchen Gebietskörperschaften betreibt oder durch finanzielle oder sonstige wirtschaftliche oder organisatorische Maßnahmen tatsächlich beherrscht, jedenfalls aber jedes Unternehmens, dessen Gebarung der Überprüfung durch den Rechnungshof, dem Rechnungshof gleichartige Einrichtungen der Länder oder einer vergleichbaren internationalen oder ausländischen Kontrolleinrichtung unterliegt.
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere Person des öffentlichen Rechts, ausgenommen eine Kirche oder Religionsgesellschaft, für einen anderen Staat oder für eine internationale Organisation Aufgaben der Gesetzgebung, Verwaltung oder Justiz als deren Organ oder Dienstnehmer wahrnimmt, Unionsbeamter (Z&nbsp;4b) ist oder - für die Zwecke der §§&nbsp;168g, 304, 305, 307 und 307a - der öffentliche Aufgaben im Zusammenhang mit der Verwaltung der oder Entscheidungen über die finanziellen Interessen der Europäischen Union in Mitgliedstaaten oder Drittstaaten übertragen bekommen hat und diese Aufgaben wahrnimmt,</span></div></div>
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify"><span aria-hidden="true">sonst im Namen der in lit.&nbsp;b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder</span></div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">als Organ oder Bediensteter eines Unternehmens tätig ist, an dem eine oder mehrere inländische oder ausländische Gebietskörperschaften unmittelbar oder mittelbar mit mindestens 50&nbsp;vH des Stamm-, Grund- oder Eigenkapitals beteiligt sind, das eine solche Gebietskörperschaft allein oder gemeinsam mit anderen solchen Gebietskörperschaften betreibt oder durch finanzielle oder sonstige wirtschaftliche oder organisatorische Maßnahmen tatsächlich beherrscht, jedenfalls aber jedes Unternehmens, dessen Gebarung der Überprüfung durch den Rechnungshof, dem Rechnungshof gleichartige Einrichtungen der Länder oder einer vergleichbaren internationalen oder ausländischen Kontrolleinrichtung unterliegt.</div></div>
-`§ 74 (1) Z 4b StGB.` Unionsbeamter: jeder, der Beamter oder sonstiger Bediensteter im Sinne des Statuts der Beamten der Europäischen Union oder der Beschäftigungsbedingungen für die sonstigen Bediensteten der Europäischen Union ist oder der der Europäischen Union von den Mitgliedstaaten oder von öffentlichen oder privaten Einrichtungen zur Verfügung gestellt wird und dort mit Aufgaben betraut ist, die den Aufgaben der Beamten oder sonstigen Bediensteten der Europäischen Union entsprechen; Unionsbeamte sind auch, soweit das Statut nicht gilt, die Mitglieder der Organe, Einrichtungen und sonstigen Stellen der Europäischen Union, die nach dem Vertrag über die Arbeitsweise der Europäischen Union oder dem Vertrag über die Europäische Union errichtet wurden, und die Bediensteten dieser Einrichtungen;
-`§ 74 (1) Z 4c StGB.` Schiedsrichter: jeder Entscheidungsträger eines Schiedsgerichtes im Sinne der §§ 577 ff ZPO mit Sitz im Inland oder noch nicht bestimmtem Sitz (österreichischer Schiedsrichter) oder mit Sitz im Ausland;
-`§ 74 (1) Z 4d StGB.` Kandidat für ein Amt: jeder, der sich in einem Wahlkampf, einem Bewerbungs- oder Auswahlverfahren zu einer Funktion als Amtsträger (Z 4a) oder in einer vergleichbaren Position zur Erlangung einer von ihm angestrebten Funktion als oberstes Vollzugsorgan des Bundes oder eines Bundeslandes oder als Organ zur Kontrolle der Gesetzmäßigkeit der Vollziehung befindet, sofern die Erlangung der Funktion nicht gänzlich unwahrscheinlich ist;
-`§ 74 (1) Z 5 StGB.` gefährliche Drohung: eine Drohung mit einer Verletzung an Körper, Freiheit, Ehre, Vermögen oder des höchstpersönlichen Lebensbereiches durch Zugänglichmachen, Bekanntgeben oder Veröffentlichen von Tatsachen oder Bildaufnahmen, die geeignet ist, dem Bedrohten mit Rücksicht auf die Verhältnisse und seine persönliche Beschaffenheit oder die Wichtigkeit des angedrohten Übels begründete Besorgnisse einzuflößen, ohne Unterschied, ob das angedrohte Übel gegen den Bedrohten selbst, gegen dessen Angehörige oder gegen andere unter seinen Schutz gestellte oder ihm persönlich nahestehende Personen gerichtet ist;
-`§ 74 (1) Z 6 StGB.` Entgelt: jede einer Bewertung in Geld zugängliche Gegenleistung, auch wenn sie einer anderen Person zugute kommen soll als der, der sie angeboten oder gegeben wird;
-`§ 74 (1) Z 7 StGB.` Urkunde: eine Schrift, die errichtet worden ist, um ein Recht oder ein Rechtsverhältnis zu begründen, abzuändern oder aufzuheben oder eine Tatsache von rechtlicher Bedeutung zu beweisen;
-`§ 74 (1) Z 8 StGB.` Computersystem: sowohl einzelne als auch verbundene Vorrichtungen, die der automationsunterstützten Datenverarbeitung dienen;
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">als Organ oder Bediensteter eines Unternehmens tätig ist, an dem eine oder mehrere inländische oder ausländische Gebietskörperschaften unmittelbar oder mittelbar mit mindestens 50&nbsp;vH des Stamm-, Grund- oder Eigenkapitals beteiligt sind, das eine solche Gebietskörperschaft allein oder gemeinsam mit anderen solchen Gebietskörperschaften betreibt oder durch finanzielle oder sonstige wirtschaftliche oder organisatorische Maßnahmen tatsächlich beherrscht, jedenfalls aber jedes Unternehmens, dessen Gebarung der Überprüfung durch den Rechnungshof, dem Rechnungshof gleichartige Einrichtungen der Länder oder einer vergleichbaren internationalen oder ausländischen Kontrolleinrichtung unterliegt.</div></div>  
+`§ 74 (1) Z 4b StGB.` Unionsbeamter: jeder, der Beamter oder sonstiger Bediensteter im Sinne des Statuts der Beamten der Europäischen Union oder der Beschäftigungsbedingungen für die sonstigen Bediensteten der Europäischen Union ist oder der der Europäischen Union von den Mitgliedstaaten oder von öffentlichen oder privaten Einrichtungen zur Verfügung gestellt wird und dort mit Aufgaben betraut ist, die den Aufgaben der Beamten oder sonstigen Bediensteten der Europäischen Union entsprechen; Unionsbeamte sind auch, soweit das Statut nicht gilt, die Mitglieder der Organe, Einrichtungen und sonstigen Stellen der Europäischen Union, die nach dem Vertrag über die Arbeitsweise der Europäischen Union oder dem Vertrag über die Europäische Union errichtet wurden, und die Bediensteten dieser Einrichtungen;  
+`§ 74 (1) Z 4c StGB.` Schiedsrichter: jeder Entscheidungsträger eines Schiedsgerichtes im Sinne der §§ 577 ff ZPO mit Sitz im Inland oder noch nicht bestimmtem Sitz (österreichischer Schiedsrichter) oder mit Sitz im Ausland;  
+`§ 74 (1) Z 4d StGB.` Kandidat für ein Amt: jeder, der sich in einem Wahlkampf, einem Bewerbungs- oder Auswahlverfahren zu einer Funktion als Amtsträger (Z 4a) oder in einer vergleichbaren Position zur Erlangung einer von ihm angestrebten Funktion als oberstes Vollzugsorgan des Bundes oder eines Bundeslandes oder als Organ zur Kontrolle der Gesetzmäßigkeit der Vollziehung befindet, sofern die Erlangung der Funktion nicht gänzlich unwahrscheinlich ist;  
+`§ 74 (1) Z 5 StGB.` gefährliche Drohung: eine Drohung mit einer Verletzung an Körper, Freiheit, Ehre, Vermögen oder des höchstpersönlichen Lebensbereiches durch Zugänglichmachen, Bekanntgeben oder Veröffentlichen von Tatsachen oder Bildaufnahmen, die geeignet ist, dem Bedrohten mit Rücksicht auf die Verhältnisse und seine persönliche Beschaffenheit oder die Wichtigkeit des angedrohten Übels begründete Besorgnisse einzuflößen, ohne Unterschied, ob das angedrohte Übel gegen den Bedrohten selbst, gegen dessen Angehörige oder gegen andere unter seinen Schutz gestellte oder ihm persönlich nahestehende Personen gerichtet ist;  
+`§ 74 (1) Z 6 StGB.` Entgelt: jede einer Bewertung in Geld zugängliche Gegenleistung, auch wenn sie einer anderen Person zugute kommen soll als der, der sie angeboten oder gegeben wird;  
+`§ 74 (1) Z 7 StGB.` Urkunde: eine Schrift, die errichtet worden ist, um ein Recht oder ein Rechtsverhältnis zu begründen, abzuändern oder aufzuheben oder eine Tatsache von rechtlicher Bedeutung zu beweisen;  
+`§ 74 (1) Z 8 StGB.` Computersystem: sowohl einzelne als auch verbundene Vorrichtungen, die der automationsunterstützten Datenverarbeitung dienen;  
 `§ 74 (1) Z 9 StGB.` Prostitution: die Vornahme geschlechtlicher Handlungen oder die Duldung geschlechtlicher Handlungen am eigenen Körper gegen Entgelt durch
 a)
 eine minderjährige Person oder
 b)
 eine volljährige Person in der Absicht, sich oder einem Dritten durch die wiederkehrende Vornahme oder Duldung eine fortlaufende Einnahme zu verschaffen;
 DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">eine minderjährige Person oder</div></div>
-DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">eine volljährige Person in der Absicht, sich oder einem Dritten durch die wiederkehrende Vornahme oder Duldung eine fortlaufende Einnahme zu verschaffen;</div></div>
-`§ 74 (1) Z 10 StGB.` unbares Zahlungsmittel: nichtkörperliche oder körperliche Vorrichtungen, Gegenstände oder Aufzeichnungen oder deren Kombination, ausgenommen gesetzliche Zahlungsmittel, die vor Fälschung oder missbräuchlicher Verwendung geschützt sind und die für sich oder in Verbindung mit einem oder mehreren Verfahren dem Inhaber oder Nutzer ermöglichen, Geld oder monetäre Werte zu übertragen, auch mittels digitaler Tauschmittel;
+DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">eine volljährige Person in der Absicht, sich oder einem Dritten durch die wiederkehrende Vornahme oder Duldung eine fortlaufende Einnahme zu verschaffen;</div></div>  
+`§ 74 (1) Z 10 StGB.` unbares Zahlungsmittel: nichtkörperliche oder körperliche Vorrichtungen, Gegenstände oder Aufzeichnungen oder deren Kombination, ausgenommen gesetzliche Zahlungsmittel, die vor Fälschung oder missbräuchlicher Verwendung geschützt sind und die für sich oder in Verbindung mit einem oder mehreren Verfahren dem Inhaber oder Nutzer ermöglichen, Geld oder monetäre Werte zu übertragen, auch mittels digitaler Tauschmittel;  
 `§ 74 (1) Z 11 StGB.` kritische Infrastruktur: Einrichtungen, Anlagen, Systeme oder Teile davon, die eine wesentliche Bedeutung für die Aufrechterhaltung der öffentlichen Sicherheit, die Landesverteidigung oder den Schutz der Zivilbevölkerung gegen Kriegsgefahren, die Funktionsfähigkeit öffentlicher Informations- und Kommunikationstechnologie, die Verhütung oder Bekämpfung von Katastrophen, den öffentlichen Gesundheitsdienst, die öffentliche Versorgung mit Wasser, Energie sowie lebenswichtigen Gütern, das öffentliche Abfallentsorgungs- und Kanalwesen oder den öffentlichen Verkehr haben.
 
 `§ 74 (2) StGB.`  
@@ -113,10 +113,11 @@ Unter leitenden Angestellten sind Angestellte eines Unternehmens, auf dessen Ges
 Wer eine andere Person dazu verleitet, sich selbst zu töten, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 `§ 78 (2) StGB.`  
-Ebenso ist zu bestrafen, wer
-`§ 78 (2) Z 1 StGB.` einer minderjährigen Person,
-`§ 78 (2) Z 2 StGB.` einer Person aus einem verwerflichen Beweggrund oder
-`§ 78 (2) Z 3 StGB.` einer Person, die nicht an einer Krankheit im Sinne des § 6 Abs. 3 des Sterbeverfügungsgesetzes (StVfG), BGBl. I Nr. 242/2021, leidet oder die nicht gemäß § 7 StVfG ärztlich aufgeklärt wurde,
+Ebenso ist zu bestrafen, wer  
+`§ 78 (2) Z 1 StGB.` einer minderjährigen Person,  
+`§ 78 (2) Z 2 StGB.` einer Person aus einem verwerflichen Beweggrund oder  
+`§ 78 (2) Z 3 StGB.` einer Person, die nicht an einer Krankheit im Sinne des § 6 Abs. 3 des Sterbeverfügungsgesetzes (StVfG), BGBl. I Nr. 242/2021, leidet oder die nicht gemäß § 7 StVfG ärztlich aufgeklärt wurde,  
+dazu physisch Hilfe leistet, sich selbst zu töten.
 
 ### § 79 StGB # Tötung eines Kindes bei der Geburt
 
@@ -162,9 +163,10 @@ Wer einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit 
 Ebenso ist zu bestrafen, wer einen anderen am Körper mißhandelt und dadurch fahrlässig verletzt oder an der Gesundheit schädigt.
 
 `§ 83 (3) StGB.`  
-Wer eine Körperverletzung nach Abs. 1 oder 2 an einer Person, die
-`§ 83 (3) Z 1 StGB.` mit der Kontrolle der Einhaltung der Beförderungsbedingungen oder der Lenkung eines Beförderungsmittels einer dem öffentlichen Verkehr dienenden Anstalt betraut ist,
-`§ 83 (3) Z 2 StGB.` in einem gesetzlich geregelten Gesundheitsberuf, in einer anerkannten Rettungsorganisation oder in der Verwaltung im Bereich eines solchen Berufes, insbesondere einer Krankenanstalt, oder als Organ der Feuerwehr tätig ist,
+Wer eine Körperverletzung nach Abs. 1 oder 2 an einer Person, die  
+`§ 83 (3) Z 1 StGB.` mit der Kontrolle der Einhaltung der Beförderungsbedingungen oder der Lenkung eines Beförderungsmittels einer dem öffentlichen Verkehr dienenden Anstalt betraut ist,  
+`§ 83 (3) Z 2 StGB.` in einem gesetzlich geregelten Gesundheitsberuf, in einer anerkannten Rettungsorganisation oder in der Verwaltung im Bereich eines solchen Berufes, insbesondere einer Krankenanstalt, oder als Organ der Feuerwehr tätig ist,  
+während oder wegen der Ausübung ihrer Tätigkeit begeht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 ### § 84 StGB # Schwere Körperverletzung
 
@@ -181,18 +183,18 @@ Ebenso ist der Täter zu bestrafen, wenn er mindestens drei selbstständige Tate
 Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Körperverletzung oder Gesundheitsschädigung (Abs. 1) des anderen herbeiführt.
 
 `§ 84 (5) StGB.`  
-Ebenso ist zu bestrafen, wer eine Körperverletzung (§ 83 Abs. 1 oder Abs. 2) begeht
-`§ 84 (5) Z 1 StGB.` auf eine Weise, mit der Lebensgefahr verbunden ist,
-`§ 84 (5) Z 2 StGB.` mit mindestens zwei Personen in verabredeter Verbindung oder
+Ebenso ist zu bestrafen, wer eine Körperverletzung (§ 83 Abs. 1 oder Abs. 2) begeht  
+`§ 84 (5) Z 1 StGB.` auf eine Weise, mit der Lebensgefahr verbunden ist,  
+`§ 84 (5) Z 2 StGB.` mit mindestens zwei Personen in verabredeter Verbindung oder  
 `§ 84 (5) Z 3 StGB.` unter Zufügung besonderer Qualen.
 
 ### § 85 StGB # Körperverletzung mit schweren Dauerfolgen
 
 `§ 85 (1) StGB.`  
-Wer einen anderen am Körper misshandelt und dadurch fahrlässig für immer oder für lange Zeit
-`§ 85 (1) Z 1 StGB.` den Verlust oder eine schwere Schädigung der Sprache, des Sehvermögens, des Gehörs oder der Fortpflanzungsfähigkeit,
-`§ 85 (1) Z 2 StGB.` eine erhebliche Verstümmelung oder eine auffallende Verunstaltung,
-`§ 85 (1) Z 2a StGB.` eine Verstümmelung oder sonstige Verletzung der Genitalien, die geeignet ist, eine nachhaltige Beeinträchtigung des sexuellen Empfindens herbeizuführen, oder
+Wer einen anderen am Körper misshandelt und dadurch fahrlässig für immer oder für lange Zeit  
+`§ 85 (1) Z 1 StGB.` den Verlust oder eine schwere Schädigung der Sprache, des Sehvermögens, des Gehörs oder der Fortpflanzungsfähigkeit,  
+`§ 85 (1) Z 2 StGB.` eine erhebliche Verstümmelung oder eine auffallende Verunstaltung,  
+`§ 85 (1) Z 2a StGB.` eine Verstümmelung oder sonstige Verletzung der Genitalien, die geeignet ist, eine nachhaltige Beeinträchtigung des sexuellen Empfindens herbeizuführen, oder  
 `§ 85 (1) Z 3 StGB.` ein schweres Leiden, Siechtum oder Berufsunfähigkeit des Geschädigten,
 **FIXME** P: <p class="SatznachNovao AlignJustify">herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.</p>
 **FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(2)</span><span><span aria-hidden="true">Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Dauerfolge (Abs.&nbsp;1) beim Verletzten herbeiführt.</span></span></div></div></li></ol>
@@ -222,9 +224,9 @@ Zieht die Tat nach Abs. 1 eine schwere Dauerfolge (§ 85) nach sich, so ist de
 Wer fahrlässig einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
 
 `§ 88 (2) StGB.`  
-Handelt der Täter nicht grob fahrlässig (§ 6 Abs. 3) und ist
-`§ 88 (2) Z 1 StGB.` die verletzte Person mit dem Täter in auf- oder absteigender Linie verwandt oder verschwägert oder sein Ehegatte, sein eingetragener Partner, sein Bruder oder seine Schwester oder nach § 72 Abs. 2 wie ein Angehöriger des Täters zu behandeln,
-`§ 88 (2) Z 2 StGB.` aus der Tat keine Gesundheitsschädigung oder Berufsunfähigkeit einer anderen Person von mehr als vierzehntägiger Dauer erfolgt oder
+Handelt der Täter nicht grob fahrlässig (§ 6 Abs. 3) und ist  
+`§ 88 (2) Z 1 StGB.` die verletzte Person mit dem Täter in auf- oder absteigender Linie verwandt oder verschwägert oder sein Ehegatte, sein eingetragener Partner, sein Bruder oder seine Schwester oder nach § 72 Abs. 2 wie ein Angehöriger des Täters zu behandeln,  
+`§ 88 (2) Z 2 StGB.` aus der Tat keine Gesundheitsschädigung oder Berufsunfähigkeit einer anderen Person von mehr als vierzehntägiger Dauer erfolgt oder  
 `§ 88 (2) Z 3 StGB.` der Täter ein Angehöriger eines gesetzlich geregelten Gesundheitsberufes und die Körperverletzung in Ausübung seines Berufes zugefügt worden,
 **FIXME** P: <p class="SatznachNovao AlignJustify"><span aria-hidden="true">so ist der Täter nach Abs.&nbsp;1 nicht zu bestrafen.</span></p>
 **FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(3)</span><span><span aria-hidden="true">Wer grob fahrlässig (§&nbsp;6 Abs.&nbsp;3) oder in dem in §&nbsp;81 Abs.&nbsp;2 bezeichneten Fall einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.</span></span></div></div></li><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span><span aria-hidden="true">Hat die Tat nach Abs.&nbsp;1 eine schwere Körperverletzung (§&nbsp;84 Abs.&nbsp;1) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen. Hat die Tat nach Abs.&nbsp;3 eine schwere Körperverletzung (§&nbsp;84 Abs.&nbsp;1) zur Folge, ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat sie jedoch eine schwere Körperverletzung (§&nbsp;84 Abs.&nbsp;1) einer größeren Zahl von Menschen zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.</span></span></div></div></li></ol>

@@ -192,9 +192,9 @@ Soweit der Umfang der für verfallen zu erklärenden Vermögenswerte nicht oder 
 Der Verfall gegenüber einem Dritten nach § 20 Abs. 2 und 3 ist ausgeschlossen, soweit dieser die Vermögenswerte in Unkenntnis der mit Strafe bedrohten Handlung erworben hat.
 
 `§ 20a (2) StGB.`  
-Der Verfall ist überdies ausgeschlossen:
-`§ 20a (2) Z 1 StGB.` gegenüber einem Dritten, soweit dieser die Vermögenswerte in Unkenntnis der mit Strafe bedrohten Handlung entgeltlich erworben hat,
-`§ 20a (2) Z 2 StGB.` soweit der Betroffene zivilrechtliche Ansprüche aus der Tat befriedigt oder für sie Sicherheit geleistet hat, oder
+Der Verfall ist überdies ausgeschlossen:  
+`§ 20a (2) Z 1 StGB.` gegenüber einem Dritten, soweit dieser die Vermögenswerte in Unkenntnis der mit Strafe bedrohten Handlung entgeltlich erworben hat,  
+`§ 20a (2) Z 2 StGB.` soweit der Betroffene zivilrechtliche Ansprüche aus der Tat befriedigt oder für sie Sicherheit geleistet hat, oder  
 `§ 20a (2) Z 3 StGB.` soweit seine Wirkung durch andere rechtliche Maßnahmen erreicht wird.
 
 `§ 20a (3) StGB.`  
@@ -244,15 +244,15 @@ Von der Unterbringung ist abzusehen, wenn der Rechtsbrecher mehr als zwei Jahre 
 ### § 23 StGB # Unterbringung von gefährlichen Rückfallstätern und gefährlichen terroristischen Straftätern in einer Anstalt für gefährliche Rückfallstäter
 
 `§ 23 (1) StGB.`  
-Wird jemand nach Vollendung des vierundzwanzigsten Lebensjahres zu einer mindestens zweijährigen Freiheitsstrafe verurteilt, so hat das Gericht zugleich seine Unterbringung in einer Anstalt für gefährliche Rückfallstäter anzuordnen,
-`§ 23 (1) Z 1 StGB.` wenn die Verurteilung ausschließlich oder überwiegend wegen einer oder mehrerer vorsätzlicher strafbarer Handlungen gegen Leib und Leben, gegen die Freiheit, gegen fremdes Vermögen unter Anwendung oder Androhung von Gewalt gegen eine Person, gegen die sexuelle Integrität und Selbstbestimmung, nach § 28a des Suchtmittelgesetzes oder wegen einer oder mehrerer vorsätzlicher gemeingefährlicher strafbarer Handlungen erfolgt,
-`§ 23 (1) Z 2 StGB.` wenn er bereits zweimal ausschließlich oder überwiegend wegen Handlungen der in Z 1 genannten Art zu Freiheitsstrafen in der Dauer von jeweils mehr als sechs Monaten verurteilt worden ist und deshalb vor Begehung der nunmehr abgeurteilten Handlungen, jedoch nach Vollendung des neunzehnten Lebensjahres mindestens achtzehn Monate in Strafhaft zugebracht hat und
+Wird jemand nach Vollendung des vierundzwanzigsten Lebensjahres zu einer mindestens zweijährigen Freiheitsstrafe verurteilt, so hat das Gericht zugleich seine Unterbringung in einer Anstalt für gefährliche Rückfallstäter anzuordnen,  
+`§ 23 (1) Z 1 StGB.` wenn die Verurteilung ausschließlich oder überwiegend wegen einer oder mehrerer vorsätzlicher strafbarer Handlungen gegen Leib und Leben, gegen die Freiheit, gegen fremdes Vermögen unter Anwendung oder Androhung von Gewalt gegen eine Person, gegen die sexuelle Integrität und Selbstbestimmung, nach § 28a des Suchtmittelgesetzes oder wegen einer oder mehrerer vorsätzlicher gemeingefährlicher strafbarer Handlungen erfolgt,  
+`§ 23 (1) Z 2 StGB.` wenn er bereits zweimal ausschließlich oder überwiegend wegen Handlungen der in Z 1 genannten Art zu Freiheitsstrafen in der Dauer von jeweils mehr als sechs Monaten verurteilt worden ist und deshalb vor Begehung der nunmehr abgeurteilten Handlungen, jedoch nach Vollendung des neunzehnten Lebensjahres mindestens achtzehn Monate in Strafhaft zugebracht hat und  
 `§ 23 (1) Z 3 StGB.` wenn zu befürchten ist, daß er wegen seines Hanges zu strafbaren Handlungen der in Z 1 genannten Art oder weil er seinen Lebensunterhalt überwiegend durch solche strafbare Handlungen zu gewinnen pflegt, sonst weiterhin solche strafbare Handlungen mit schweren Folgen begehen werde.
 
 `§ 23 (1a) StGB.`  
-Wird jemand nach Vollendung des achtzehnten Lebensjahres zu einer mindestens achtzehnmonatigen Freiheitsstrafe verurteilt, so hat das Gericht zugleich seine Unterbringung in einer Anstalt für gefährliche Rückfallstäter anzuordnen,
-`§ 23 (1a) Z 1 StGB.` wenn die Verurteilung ausschließlich oder überwiegend wegen einer oder mehrerer vorsätzlicher strafbarer Handlungen nach den §§ 278b bis 278f erfolgt,
-`§ 23 (1a) Z 2 StGB.` wenn er bereits einmal ausschließlich oder überwiegend wegen Handlungen der in Z 1 genannten Art, einer strafbaren Handlung nach den §§ 75, 76, 84 Abs. 4 oder Abs. 5 Z 1 oder 3, 85 Abs. 2, 86 Abs. 2 oder 87 oder wegen einer vorsätzlichen gemeingefährlichen strafbaren Handlung nach Vollendung des 16. Lebensjahres zu einer unbedingten Freiheitsstrafe in der Dauer von mehr als einem Jahr verurteilt worden ist und
+Wird jemand nach Vollendung des achtzehnten Lebensjahres zu einer mindestens achtzehnmonatigen Freiheitsstrafe verurteilt, so hat das Gericht zugleich seine Unterbringung in einer Anstalt für gefährliche Rückfallstäter anzuordnen,  
+`§ 23 (1a) Z 1 StGB.` wenn die Verurteilung ausschließlich oder überwiegend wegen einer oder mehrerer vorsätzlicher strafbarer Handlungen nach den §§ 278b bis 278f erfolgt,  
+`§ 23 (1a) Z 2 StGB.` wenn er bereits einmal ausschließlich oder überwiegend wegen Handlungen der in Z 1 genannten Art, einer strafbaren Handlung nach den §§ 75, 76, 84 Abs. 4 oder Abs. 5 Z 1 oder 3, 85 Abs. 2, 86 Abs. 2 oder 87 oder wegen einer vorsätzlichen gemeingefährlichen strafbaren Handlung nach Vollendung des 16. Lebensjahres zu einer unbedingten Freiheitsstrafe in der Dauer von mehr als einem Jahr verurteilt worden ist und  
 `§ 23 (1a) Z 3 StGB.` wenn zu befürchten ist, dass er wegen seines Hanges zu strafbaren Handlungen der in Z 1 genannten Art sonst weiterhin solche strafbare Handlungen mit schweren Folgen begehen werde.
 
 `§ 23 (2) StGB.`  
@@ -306,9 +306,9 @@ Liegen die Voraussetzungen der Einziehung vor, so sind die Gegenstände auch dan
 ### § 27 StGB # Amtsverlust und andere Rechtsfolgen der Verurteilung
 
 `§ 27 (1) StGB.`  
-Mit der Verurteilung durch ein inländisches Gericht wegen einer oder mehrerer mit Vorsatz begangener strafbarer Handlungen zu einer Freiheitsstrafe ist bei einem Beamten der Verlust des Amtes verbunden, wenn
-`§ 27 (1) Z 1 StGB.` die verhängte Freiheitsstrafe ein Jahr übersteigt,
-`§ 27 (1) Z 2 StGB.` die nicht bedingt nachgesehene Freiheitsstrafe sechs Monate übersteigt oder
+Mit der Verurteilung durch ein inländisches Gericht wegen einer oder mehrerer mit Vorsatz begangener strafbarer Handlungen zu einer Freiheitsstrafe ist bei einem Beamten der Verlust des Amtes verbunden, wenn  
+`§ 27 (1) Z 1 StGB.` die verhängte Freiheitsstrafe ein Jahr übersteigt,  
+`§ 27 (1) Z 2 StGB.` die nicht bedingt nachgesehene Freiheitsstrafe sechs Monate übersteigt oder  
 `§ 27 (1) Z 3 StGB.` die Verurteilung auch oder ausschließlich wegen des Vergehens des Missbrauchs eines Autoritätsverhältnisses (§ 212 StGB) erfolgt ist.
 
 `§ 27 (2) StGB.`  

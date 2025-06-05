@@ -81,10 +81,11 @@ Nach Abs. 1 ist nicht zu bestrafen, wer sich freiwillig aus der Zusammenkunft z
 Wer die Bevölkerung oder einen großen Personenkreis durch eine Drohung mit einem Angriff auf Leben, Gesundheit, körperliche Unversehrtheit, Freiheit oder Vermögen in Furcht und Unruhe versetzt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 `§ 275 (2) StGB.`  
-Hat die Tat
-`§ 275 (2) Z 1 StGB.` eine schwere oder längere Zeit anhaltende Störung des öffentlichen Lebens,
-`§ 275 (2) Z 2 StGB.` eine schwere Schädigung des Wirtschaftslebens oder
-`§ 275 (2) Z 3 StGB.` den Tod eines Menschen oder die schwere Körperverletzung (§ 84 Abs. 1) einer größeren Zahl von Menschen zur Folge oder sind durch die Tat viele Menschen in Not versetzt worden,
+Hat die Tat  
+`§ 275 (2) Z 1 StGB.` eine schwere oder längere Zeit anhaltende Störung des öffentlichen Lebens,  
+`§ 275 (2) Z 2 StGB.` eine schwere Schädigung des Wirtschaftslebens oder  
+`§ 275 (2) Z 3 StGB.` den Tod eines Menschen oder die schwere Körperverletzung (§ 84 Abs. 1) einer größeren Zahl von Menschen zur Folge oder sind durch die Tat viele Menschen in Not versetzt worden,  
+so ist der Täter mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 `§ 275 (3) StGB.`  
 Hat die Tat aber den Tod einer größeren Zahl von Menschen nach sich gezogen, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
@@ -132,17 +133,18 @@ Eine terroristische Vereinigung ist ein auf längere Zeit angelegter Zusammensch
 ### § 278c StGB # Terroristische Straftaten
 
 `§ 278c (1) StGB.`  
-Terroristische Straftaten sind
-`§ 278c (1) Z 1 StGB.` Mord (§ 75),
-`§ 278c (1) Z 2 StGB.` Körperverletzungen nach den §§ 83 bis 87,
-`§ 278c (1) Z 3 StGB.` erpresserische Entführung (§ 102),
-`§ 278c (1) Z 4 StGB.` schwere Nötigung (§ 106),
-`§ 278c (1) Z 6 StGB.` schwere Sachbeschädigung (§ 126), Datenbeschädigung (§ 126a) und Störung der Funktionsfähigkeit eines Computersystems (§ 126b), wenn dadurch eine Gefahr für das Leben eines anderen oder für fremdes Eigentum in großem Ausmaß entstehen kann oder viele Computersysteme (§§ 126a Abs. 3, 126b Abs. 3) oder wesentliche Bestandteile der kritischen Infrastruktur (§§ 126a Abs. 4 Z 2, 126b Abs. 4 Z 2) beeinträchtigt werden,
-`§ 278c (1) Z 7 StGB.` vorsätzliche Gemeingefährdungsdelikte (§§ 169, 171, 173, 175, 176, 177a, 177b, 178) oder vorsätzliche Beeinträchtigung der Umwelt (§ 180),
-`§ 278c (1) Z 8 StGB.` Luftpiraterie (§ 185),
-`§ 278c (1) Z 9 StGB.` vorsätzliche Gefährdung der Sicherheit der Luftfahrt (§ 186),
-`§ 278c (1) Z 9a StGB.` Aufforderung zu terroristischen Straftaten und Gutheißung terroristischer Straftaten (§ 282a) oder
-`§ 278c (1) Z 10 StGB.` eine nach § 50 des Waffengesetzes 1996, § 43 des Sprengmittelgesetzes 2010 oder § 7 des Kriegsmaterialgesetzes vorsätzliche strafbare Handlung,
+Terroristische Straftaten sind  
+`§ 278c (1) Z 1 StGB.` Mord (§ 75),  
+`§ 278c (1) Z 2 StGB.` Körperverletzungen nach den §§ 83 bis 87,  
+`§ 278c (1) Z 3 StGB.` erpresserische Entführung (§ 102),  
+`§ 278c (1) Z 4 StGB.` schwere Nötigung (§ 106),  
+`§ 278c (1) Z 6 StGB.` schwere Sachbeschädigung (§ 126), Datenbeschädigung (§ 126a) und Störung der Funktionsfähigkeit eines Computersystems (§ 126b), wenn dadurch eine Gefahr für das Leben eines anderen oder für fremdes Eigentum in großem Ausmaß entstehen kann oder viele Computersysteme (§§ 126a Abs. 3, 126b Abs. 3) oder wesentliche Bestandteile der kritischen Infrastruktur (§§ 126a Abs. 4 Z 2, 126b Abs. 4 Z 2) beeinträchtigt werden,  
+`§ 278c (1) Z 7 StGB.` vorsätzliche Gemeingefährdungsdelikte (§§ 169, 171, 173, 175, 176, 177a, 177b, 178) oder vorsätzliche Beeinträchtigung der Umwelt (§ 180),  
+`§ 278c (1) Z 8 StGB.` Luftpiraterie (§ 185),  
+`§ 278c (1) Z 9 StGB.` vorsätzliche Gefährdung der Sicherheit der Luftfahrt (§ 186),  
+`§ 278c (1) Z 9a StGB.` Aufforderung zu terroristischen Straftaten und Gutheißung terroristischer Straftaten (§ 282a) oder  
+`§ 278c (1) Z 10 StGB.` eine nach § 50 des Waffengesetzes 1996, § 43 des Sprengmittelgesetzes 2010 oder § 7 des Kriegsmaterialgesetzes vorsätzliche strafbare Handlung,  
+wenn die Tat geeignet ist, eine schwere oder längere Zeit anhaltende Störung des öffentlichen Lebens oder eine schwere Schädigung des Wirtschaftslebens herbeizuführen, und mit dem Vorsatz begangen wird, die Bevölkerung auf schwerwiegende Weise einzuschüchtern, öffentliche Stellen oder eine internationale Organisation zu einer Handlung, Duldung oder Unterlassung zu nötigen oder die politischen, verfassungsrechtlichen, wirtschaftlichen oder sozialen Grundstrukturen eines Staates oder einer internationalen Organisation ernsthaft zu erschüttern oder zu zerstören.
 
 `§ 278c (2) StGB.`  
 Wer eine terroristische Straftat im Sinne des Abs. 1 begeht, ist nach dem auf die dort genannte Tat anwendbaren Gesetz zu bestrafen, wobei das Höchstmaß der jeweils angedrohten Strafe um die Hälfte, höchstens jedoch auf zwanzig Jahre, hinaufgesetzt wird.
@@ -156,21 +158,23 @@ Eine Tat nach Abs. 1 oder Abs. 2a gilt nicht als terroristische Straftat, wenn
 ### § 278d StGB # Terrorismusfinanzierung
 
 `§ 278d (1) StGB.`  
-Wer Vermögenswerte mit dem Vorsatz bereitstellt oder sammelt, dass sie, wenn auch nur zum Teil, zur Ausführung
-`§ 278d (1) Z 1 StGB.` einer Luftpiraterie (§ 185) oder einer vorsätzlichen Gefährdung der Sicherheit der Luftfahrt (§ 186),
-`§ 278d (1) Z 2 StGB.` einer erpresserischen Entführung (§ 102) oder einer Drohung damit,
-`§ 278d (1) Z 3 StGB.` eines Angriffs auf Leib, Leben oder Freiheit einer völkerrechtlich geschützten Person oder eines gewaltsamen Angriffs auf eine Wohnung, einen Dienstraum oder ein Beförderungsmittel einer solchen Person, der geeignet ist, Leib, Leben oder Freiheit dieser Person zu gefährden, oder einer Drohung damit,
-`§ 278d (1) Z 4 StGB.` einer vorsätzlichen Gefährdung durch Kernenergie oder ionisierende Strahlen (§ 171), einer Drohung damit, eines unerlaubten Umgangs mit Kernmaterial oder radioaktiven Stoffen (§ 177b), einer sonstigen strafbaren Handlung zur Erlangung von Kernmaterial oder radioaktiven Stoffen oder einer Drohung mit der Begehung eines Diebstahls oder Raubes von Kernmaterial oder radioaktiven Stoffen, um einen anderen zu einer Handlung, Duldung oder Unterlassung zu nötigen,
-`§ 278d (1) Z 5 StGB.` eines erheblichen Angriffs auf Leib oder Leben eines anderen auf einem Flughafen, der der internationalen Zivilluftfahrt dient, einer Zerstörung oder erheblichen Beschädigung eines solchen Flughafens oder eines darauf befindlichen Luftfahrzeugs oder einer Unterbrechung der Dienste des Flughafens, sofern die Tat unter Verwendung einer Waffe oder sonstigen Vorrichtung begangen wird und geeignet ist, die Sicherheit auf dem Flughafen zu gefährden,
-`§ 278d (1) Z 6 StGB.` einer strafbaren Handlung, die auf eine in den §§ 185 oder 186 geschilderte Weise gegen ein Schiff oder eine feste Plattform, gegen eine Person, die sich an Bord eines Schiffes oder auf einer festen Plattform befindet, gegen die Ladung eines Schiffes oder eine Schifffahrtseinrichtung begangen wird,
-`§ 278d (1) Z 7 StGB.` der Beförderung eines Sprengsatzes oder einer anderen tödlichen Vorrichtung an einen öffentlichen Ort, zu einer staatlichen oder öffentlichen Einrichtung, einem öffentlichen Verkehrssystem oder einer Versorgungseinrichtung oder des Einsatzes solcher Mittel mit dem Ziel, den Tod oder eine schwere Körperverletzung eines anderen oder eine weitgehende Zerstörung des Ortes, der Einrichtung oder des Systems zu verursachen, sofern die Zerstörung geeignet ist, einen erheblichen wirtschaftlichen Schaden herbeizuführen,
-`§ 278d (1) Z 8 StGB.` einer strafbaren Handlung, die den Tod oder eine schwere Körperverletzung einer Zivilperson oder einer anderen Person, die in einem bewaffneten Konflikt nicht aktiv an den Feindseligkeiten teilnimmt, herbeiführen soll, wenn diese Handlung auf Grund ihres Wesens oder der Umstände darauf abzielt, eine Bevölkerungsgruppe einzuschüchtern oder eine Regierung oder eine internationale Organisation zu einem Tun oder Unterlassen zu nötigen,
-`§ 278d (1) Z 9 StGB.` einer sonstigen strafbaren Handlung nach § 278c Abs. 1, einer strafbaren Handlung nach den §§ 278e, 278f oder 278g oder der Anwerbung eines anderen zur Begehung einer terroristischen Straftat nach § 278c Abs. 1 Z 1 bis 9 oder 10,
+Wer Vermögenswerte mit dem Vorsatz bereitstellt oder sammelt, dass sie, wenn auch nur zum Teil, zur Ausführung  
+`§ 278d (1) Z 1 StGB.` einer Luftpiraterie (§ 185) oder einer vorsätzlichen Gefährdung der Sicherheit der Luftfahrt (§ 186),  
+`§ 278d (1) Z 2 StGB.` einer erpresserischen Entführung (§ 102) oder einer Drohung damit,  
+`§ 278d (1) Z 3 StGB.` eines Angriffs auf Leib, Leben oder Freiheit einer völkerrechtlich geschützten Person oder eines gewaltsamen Angriffs auf eine Wohnung, einen Dienstraum oder ein Beförderungsmittel einer solchen Person, der geeignet ist, Leib, Leben oder Freiheit dieser Person zu gefährden, oder einer Drohung damit,  
+`§ 278d (1) Z 4 StGB.` einer vorsätzlichen Gefährdung durch Kernenergie oder ionisierende Strahlen (§ 171), einer Drohung damit, eines unerlaubten Umgangs mit Kernmaterial oder radioaktiven Stoffen (§ 177b), einer sonstigen strafbaren Handlung zur Erlangung von Kernmaterial oder radioaktiven Stoffen oder einer Drohung mit der Begehung eines Diebstahls oder Raubes von Kernmaterial oder radioaktiven Stoffen, um einen anderen zu einer Handlung, Duldung oder Unterlassung zu nötigen,  
+`§ 278d (1) Z 5 StGB.` eines erheblichen Angriffs auf Leib oder Leben eines anderen auf einem Flughafen, der der internationalen Zivilluftfahrt dient, einer Zerstörung oder erheblichen Beschädigung eines solchen Flughafens oder eines darauf befindlichen Luftfahrzeugs oder einer Unterbrechung der Dienste des Flughafens, sofern die Tat unter Verwendung einer Waffe oder sonstigen Vorrichtung begangen wird und geeignet ist, die Sicherheit auf dem Flughafen zu gefährden,  
+`§ 278d (1) Z 6 StGB.` einer strafbaren Handlung, die auf eine in den §§ 185 oder 186 geschilderte Weise gegen ein Schiff oder eine feste Plattform, gegen eine Person, die sich an Bord eines Schiffes oder auf einer festen Plattform befindet, gegen die Ladung eines Schiffes oder eine Schifffahrtseinrichtung begangen wird,  
+`§ 278d (1) Z 7 StGB.` der Beförderung eines Sprengsatzes oder einer anderen tödlichen Vorrichtung an einen öffentlichen Ort, zu einer staatlichen oder öffentlichen Einrichtung, einem öffentlichen Verkehrssystem oder einer Versorgungseinrichtung oder des Einsatzes solcher Mittel mit dem Ziel, den Tod oder eine schwere Körperverletzung eines anderen oder eine weitgehende Zerstörung des Ortes, der Einrichtung oder des Systems zu verursachen, sofern die Zerstörung geeignet ist, einen erheblichen wirtschaftlichen Schaden herbeizuführen,  
+`§ 278d (1) Z 8 StGB.` einer strafbaren Handlung, die den Tod oder eine schwere Körperverletzung einer Zivilperson oder einer anderen Person, die in einem bewaffneten Konflikt nicht aktiv an den Feindseligkeiten teilnimmt, herbeiführen soll, wenn diese Handlung auf Grund ihres Wesens oder der Umstände darauf abzielt, eine Bevölkerungsgruppe einzuschüchtern oder eine Regierung oder eine internationale Organisation zu einem Tun oder Unterlassen zu nötigen,  
+`§ 278d (1) Z 9 StGB.` einer sonstigen strafbaren Handlung nach § 278c Abs. 1, einer strafbaren Handlung nach den §§ 278e, 278f oder 278g oder der Anwerbung eines anderen zur Begehung einer terroristischen Straftat nach § 278c Abs. 1 Z 1 bis 9 oder 10,  
+verwendet werden, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 `§ 278d (1a) StGB.`  
-Ebenso ist zu bestrafen, wer Vermögenswerte für
-`§ 278d (1a) Z 1 StGB.` eine andere Person, von der er weiß, dass sie Handlungen nach Abs. 1 begeht, oder
-`§ 278d (1a) Z 2 StGB.` ein Mitglied einer terroristischen Vereinigung, von der er weiß, dass sie darauf ausgerichtet ist, Handlungen nach Abs. 1 zu begehen,
+Ebenso ist zu bestrafen, wer Vermögenswerte für  
+`§ 278d (1a) Z 1 StGB.` eine andere Person, von der er weiß, dass sie Handlungen nach Abs. 1 begeht, oder  
+`§ 278d (1a) Z 2 StGB.` ein Mitglied einer terroristischen Vereinigung, von der er weiß, dass sie darauf ausgerichtet ist, Handlungen nach Abs. 1 zu begehen,  
+bereitstellt oder sammelt.
 
 `§ 278d (2) StGB.`  
 Der Täter ist nach Abs. 1 oder Abs. 1a nicht zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist.
@@ -231,9 +235,9 @@ Ebenso ist zu bestrafen, wer auf die im Abs. 1 bezeichnete Weise eine terrorist
 ### § 283 StGB # Verhetzung
 
 `§ 283 (1) StGB.`  
-Wer öffentlich auf eine Weise, dass es vielen Menschen zugänglich wird,
-`§ 283 (1) Z 1 StGB.` zu Gewalt gegen eine Kirche oder Religionsgesellschaft oder eine andere nach den vorhandenen oder fehlenden Kriterien der Rasse, der Hautfarbe, der Sprache, der Religion oder Weltanschauung, der Staatsangehörigkeit, der Abstammung oder nationalen oder ethnischen Herkunft, des Geschlechts, einer Behinderung, des Alters oder der sexuellen Ausrichtung definierte Gruppe von Personen oder gegen ein Mitglied einer solchen Gruppe ausdrücklich wegen der Zugehörigkeit zu dieser Gruppe auffordert oder zu Hass gegen sie aufstachelt,
-`§ 283 (1) Z 2 StGB.` eine der in Z 1 bezeichneten Gruppen oder eine Person wegen der Zugehörigkeit zu einer solchen Gruppe in der Absicht, die Menschenwürde der Mitglieder der Gruppe oder der Person zu verletzen, in einer Weise beschimpft, die geeignet ist, die Gruppe oder Person in der öffentlichen Meinung verächtlich zu machen oder herabzusetzen, oder
+Wer öffentlich auf eine Weise, dass es vielen Menschen zugänglich wird,  
+`§ 283 (1) Z 1 StGB.` zu Gewalt gegen eine Kirche oder Religionsgesellschaft oder eine andere nach den vorhandenen oder fehlenden Kriterien der Rasse, der Hautfarbe, der Sprache, der Religion oder Weltanschauung, der Staatsangehörigkeit, der Abstammung oder nationalen oder ethnischen Herkunft, des Geschlechts, einer Behinderung, des Alters oder der sexuellen Ausrichtung definierte Gruppe von Personen oder gegen ein Mitglied einer solchen Gruppe ausdrücklich wegen der Zugehörigkeit zu dieser Gruppe auffordert oder zu Hass gegen sie aufstachelt,  
+`§ 283 (1) Z 2 StGB.` eine der in Z 1 bezeichneten Gruppen oder eine Person wegen der Zugehörigkeit zu einer solchen Gruppe in der Absicht, die Menschenwürde der Mitglieder der Gruppe oder der Person zu verletzen, in einer Weise beschimpft, die geeignet ist, die Gruppe oder Person in der öffentlichen Meinung verächtlich zu machen oder herabzusetzen, oder  
 `§ 283 (1) Z 3 StGB.` Verbrechen im Sinne der §§ 321 bis 321f sowie § 321k, die von einem inländischen oder einem internationalen Gericht rechtskräftig festgestellt wurden, billigt, leugnet, gröblich verharmlost oder rechtfertigt, wobei die Handlung gegen eine der in Z 1 bezeichneten Gruppen oder gegen ein Mitglied einer solchen Gruppe ausdrücklich wegen der Zugehörigkeit zu dieser Gruppe gerichtet ist und in einer Weise begangen wird, die geeignet ist, zu Gewalt oder Hass gegen solch eine Gruppe oder gegen ein Mitglied einer solchen Gruppe aufzustacheln,
 ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
@@ -263,9 +267,9 @@ Wer, wenn er nicht als an einer Handlung nach den Abs. 1 bis 3 Beteiligter (§�
 Wer es mit dem Vorsatz, daß vorsätzlich eine mit Strafe bedrohte Handlung begangen werde, unterläßt, ihre unmittelbar bevorstehende oder schon begonnene Ausführung zu verhindern oder in den Fällen, in denen eine Benachrichtigung die Verhinderung ermöglicht, der Behörde (§ 151 Abs. 3) oder dem Bedrohten mitzuteilen, ist, wenn die strafbare Handlung zumindest versucht worden und mit einer ein Jahr übersteigenden Freiheitsstrafe bedroht ist, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen. Die Strafe darf jedoch nach Art und Maß nicht strenger sein, als sie das Gesetz für die nicht verhinderte Tat androht.
 
 `§ 286 (2) StGB.`  
-Der Täter ist nach Abs. 1 nicht zu bestrafen, wenn er
-`§ 286 (2) Z 1 StGB.` die Verhinderung oder Benachrichtigung nicht leicht und ohne sich oder einen Angehörigen der Gefahr eines beträchtlichen Nachteils auszusetzen, bewirken konnte,
-`§ 286 (2) Z 2 StGB.` von der mit Strafe bedrohten Handlung ausschließlich durch eine Mitteilung Kenntnis erhalten hat, die ihm in seiner Eigenschaft als Seelsorger anvertraut worden ist oder
+Der Täter ist nach Abs. 1 nicht zu bestrafen, wenn er  
+`§ 286 (2) Z 1 StGB.` die Verhinderung oder Benachrichtigung nicht leicht und ohne sich oder einen Angehörigen der Gefahr eines beträchtlichen Nachteils auszusetzen, bewirken konnte,  
+`§ 286 (2) Z 2 StGB.` von der mit Strafe bedrohten Handlung ausschließlich durch eine Mitteilung Kenntnis erhalten hat, die ihm in seiner Eigenschaft als Seelsorger anvertraut worden ist oder  
 `§ 286 (2) Z 3 StGB.` durch die Verhinderung oder Benachrichtigung eine andere rechtlich anerkannte Verschwiegenheitspflicht verletzen würde und die aus der Verletzung dieser Pflicht drohenden Folgen schwerer gewogen hätten als die nachteiligen Folgen aus der Unterlassung der Verhinderung oder Bekanntmachung.
 
 ### § 287 StGB # Begehung einer mit Strafe bedrohten Handlung im Zustand voller Berauschung

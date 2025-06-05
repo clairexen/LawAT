@@ -11,10 +11,11 @@
 ### § 222 StGB # Tierquälerei
 
 `§ 222 (1) StGB.`  
-Wer ein Tier
-`§ 222 (1) Z 1 StGB.` roh misshandelt oder ihm unnötige Qualen zufügt,
-`§ 222 (1) Z 2 StGB.` aussetzt, obwohl es in der Freiheit zu leben unfähig ist, oder
-`§ 222 (1) Z 3 StGB.` mit dem Vorsatz, dass ein Tier Qualen erleide, auf ein anderes Tier hetzt,
+Wer ein Tier  
+`§ 222 (1) Z 1 StGB.` roh misshandelt oder ihm unnötige Qualen zufügt,  
+`§ 222 (1) Z 2 StGB.` aussetzt, obwohl es in der Freiheit zu leben unfähig ist, oder  
+`§ 222 (1) Z 3 StGB.` mit dem Vorsatz, dass ein Tier Qualen erleide, auf ein anderes Tier hetzt,  
+ist mit Freiheitsstrafe bis zu zwei Jahre zu bestrafen.
 
 `§ 222 (2) StGB.`  
 Ebenso ist zu bestrafen, wer, wenn auch nur fahrlässig, im Zusammenhang mit der Beförderung mehrerer Tiere diese dadurch, dass er Fütterung oder Tränke unterlässt, oder auf andere Weise längere Zeit hindurch einem qualvollen Zustand aussetzt.
@@ -126,9 +127,10 @@ Als Nachmachen von Geld gilt auch die Herstellung unter Nutzung der zur rechtmä
 ### § 233 StGB # Weitergabe und Besitz nachgemachten oder verfälschten Geldes
 
 `§ 233 (1) StGB.`  
-Wer nachgemachtes oder verfälschtes Geld
-`§ 233 (1) Z 1 StGB.` mit dem Vorsatz, dass es als echt und unverfälscht ausgegeben werde, einführt, ausführt, befördert, außer dem im § 232 Abs. 2 genannten Fall von einem anderen übernimmt, sich sonst verschafft oder besitzt oder
-`§ 233 (1) Z 2 StGB.` als echt und unverfälscht ausgibt,
+Wer nachgemachtes oder verfälschtes Geld  
+`§ 233 (1) Z 1 StGB.` mit dem Vorsatz, dass es als echt und unverfälscht ausgegeben werde, einführt, ausführt, befördert, außer dem im § 232 Abs. 2 genannten Fall von einem anderen übernimmt, sich sonst verschafft oder besitzt oder  
+`§ 233 (1) Z 2 StGB.` als echt und unverfälscht ausgibt,  
+ist mit Freiheitsstrafe bis zu fünf Jahren zu bestrafen.
 
 `§ 233 (2) StGB.`  
 Wer die Tat an nachgemachtem oder verfälschtem Geld im Nennwert von mehr als 300 000 Euro begeht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
@@ -139,9 +141,10 @@ Wer die Tat an nachgemachtem oder verfälschtem Geld im Nennwert von mehr als 30
 Wer eine Geldmünze mit dem Vorsatz verringert, daß sie als vollwertig ausgegeben werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 `§ 234 (2) StGB.`  
-Wer eine verringerte Geldmünze
-`§ 234 (2) Z 1 StGB.` mit dem Vorsatz, daß sie als vollwertig ausgegeben werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder
-`§ 234 (2) Z 2 StGB.` als vollwertig ausgibt,
+Wer eine verringerte Geldmünze  
+`§ 234 (2) Z 1 StGB.` mit dem Vorsatz, daß sie als vollwertig ausgegeben werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder  
+`§ 234 (2) Z 2 StGB.` als vollwertig ausgibt,  
+ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen. Wer die Tat an verringerten Geldmünzen begeht, deren Nennwert 300 000 Euro übersteigt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 ### § 235 StGB # Ansichbringen, Verheimlichen oder Verhandeln des Münzabfalls
 
@@ -167,9 +170,10 @@ Ebenso ist zu bestrafen, wer eine der im Abs. 1 genannten Handlungen für einen
 Wer ein amtliches Wertzeichen mit dem Vorsatz nachmacht oder verfälscht, daß es als echt und unverfälscht verwertet werde, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 `§ 238 (2) StGB.`  
-Wer ein solches nachgemachtes oder verfälschtes Wertzeichen
-`§ 238 (2) Z 1 StGB.` mit dem Vorsatz, daß es als echt und unverfälscht verwertet werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder
-`§ 238 (2) Z 2 StGB.` als echt und unverfälscht verwertet,
+Wer ein solches nachgemachtes oder verfälschtes Wertzeichen  
+`§ 238 (2) Z 1 StGB.` mit dem Vorsatz, daß es als echt und unverfälscht verwertet werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder  
+`§ 238 (2) Z 2 StGB.` als echt und unverfälscht verwertet,  
+ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 238 (3) StGB.`  
 Als amtliche Wertzeichen gelten auch amtliche Stempelabdrücke, durch die die Entrichtung einer Gebühr oder sonst einer Abgabe bescheinigt wird.
@@ -185,9 +189,9 @@ Die Wiederverwendung eines schon verwendeten amtlichen Wertzeichens und die Entf
 ### § 240 StGB # Tätige Reue
 
 `§ 240 (1) StGB.`  
-Wegen einer der in den §§ 232 bis 234 und 237 bis 239 mit Strafe bedrohten Handlungen ist nicht zu bestrafen, wer freiwillig
-`§ 240 (1) Z 1 StGB.` seine dort bezeichnete Tätigkeit vor deren Abschluß aufgibt,
-`§ 240 (1) Z 2 StGB.` das nachgemachte oder verfälschte Geld, solche Wertpapiere oder Wertzeichen oder die verringerten Geldmünzen sowie die Fälschungsgeräte (§ 239) vernichtet oder der Behörde (§ 151 Abs. 3) übergibt, soweit er diese Gegenstände noch besitzt, und
+Wegen einer der in den §§ 232 bis 234 und 237 bis 239 mit Strafe bedrohten Handlungen ist nicht zu bestrafen, wer freiwillig  
+`§ 240 (1) Z 1 StGB.` seine dort bezeichnete Tätigkeit vor deren Abschluß aufgibt,  
+`§ 240 (1) Z 2 StGB.` das nachgemachte oder verfälschte Geld, solche Wertpapiere oder Wertzeichen oder die verringerten Geldmünzen sowie die Fälschungsgeräte (§ 239) vernichtet oder der Behörde (§ 151 Abs. 3) übergibt, soweit er diese Gegenstände noch besitzt, und  
 `§ 240 (1) Z 3 StGB.` durch Mitteilung an diese Behörde oder auf andere Art die Gefahr beseitigt, daß infolge seiner Tätigkeit oder der Tätigkeit anderer an dem Unternehmen Beteiligter nachgemachtes oder verfälschtes Geld oder ein solches Wertpapier als echt und unverfälscht oder eine verringerte Geldmünze als vollwertig in Verkehr gebracht oder ausgegeben oder ein nachgemachtes oder verfälschtes Wertzeichen als echt und unverfälscht verwertet wird, solange noch nicht versucht worden ist, einen dieser Erfolge herbeizuführen.
 
 `§ 240 (2) StGB.`  
@@ -257,8 +261,8 @@ Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des T�
 ### § 241h StGB # Ausspähen von Daten eines unbaren Zahlungsmittels
 
 `§ 241h (1) StGB.`  
-Wer Daten eines unbaren Zahlungsmittels mit dem Vorsatz ausspäht,
-`§ 241h (1) Z 1 StGB.` dass er oder ein Dritter durch deren Verwendung im Rechtsverkehr unrechtmäßig bereichert werde oder
+Wer Daten eines unbaren Zahlungsmittels mit dem Vorsatz ausspäht,  
+`§ 241h (1) Z 1 StGB.` dass er oder ein Dritter durch deren Verwendung im Rechtsverkehr unrechtmäßig bereichert werde oder  
 `§ 241h (1) Z 2 StGB.` sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) zu ermöglichen,
 
 `§ 241h (2) StGB.`  

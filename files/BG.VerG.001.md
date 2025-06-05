@@ -226,7 +226,8 @@ Protokolldaten über tatsächlich durchgeführte Verarbeitungsvorgänge, wie ins
 Die Vereinsbehörden haben auf Verlangen aus dem Lokalen Vereinsregister jedermann über die in § 16 Abs. 1 Z 1 bis 7, 10 bis 13 und 16 angeführten Daten eines nach  
 `§ 17 (1) Z 1 VerG.` seiner ZVR-Zahl (§ 18 Abs. 2) oder  
 `§ 17 (1) Z 2 VerG.` seinem Namen oder  
-`§ 17 (1) Z 3 VerG.` Namensbestandteilen, allenfalls ergänzt mit dem Vereinssitz,
+`§ 17 (1) Z 3 VerG.` Namensbestandteilen, allenfalls ergänzt mit dem Vereinssitz,  
+eindeutig bestimmbaren Vereins (Einzelabfrage) Auskunft zu erteilen, soweit nicht auf Grund einer Auskunftssperre gegenüber Dritten gemäß Abs. 6 vorzugehen ist.
 
 `§ 17 (2) VerG.`  
 Auskunft über die in § 16 Abs. 1 Z 8 und 14 angeführten Daten sowie über historische Daten (§ 16 Abs. 2) eines Vereins ist jedermann, soweit nicht auf Grund einer Auskunftssperre gegenüber Dritten gemäß Abs. 6 vorzugehen ist, nur auf ausdrückliches Verlangen und nur bei Glaubhaftmachung eines berechtigten Interesses, an Private überdies nur bei Nachweis ihrer Identität zu erteilen. Dem Verein selbst ist auf sein Verlangen jedenfalls Auskunft zu erteilen; die Bestimmungen der §§ 17 und 17a AVG über die Akteneinsicht bleiben unberührt.
@@ -301,7 +302,8 @@ Eine auf Antrag eröffnete Abfrageberechtigung im Zentralen Vereinsregister ist 
 `§ 19 (5) Z 1a VerG.` die damit ermittelten Daten zu anderen Zwecken als zur Erfüllung eines gesetzlichen Auftrages verarbeitet werden,  
 `§ 19 (5) Z 2 VerG.` schutzwürdige Geheimhaltungsinteressen Betroffener von Auskünften verletzt wurden,  
 `§ 19 (5) Z 3 VerG.` gegen Datensicherheitsmaßnahmen gemäß Abs. 4 Z 1 bis 7 verstoßen wurde oder  
-`§ 19 (5) Z 4 VerG.` ausdrücklich auf sie verzichtet wird.
+`§ 19 (5) Z 4 VerG.` ausdrücklich auf sie verzichtet wird.  
+Einer gegen einen solchen Bescheid erhobenen Beschwerde kommt keine aufschiebende Wirkung zu.
 
 `§ 19 (6) VerG.`  
 Nach Maßgabe der technischen Möglichkeiten können Änderungen im ZVR, die sonst auf Grund von Mitteilungen gemäß § 14 Abs. 2 und 3 vorgenommen werden, durch einen vom Verein der Behörde namhaft gemachten organschaftlichen Vertreter unter Verwendung des Elektronischen Identitätsnachweises (E-ID) gemäß den §§ 4 ff des E-Government-Gesetzes (E-GovG), BGBl. I Nr. 10/2004, für die Behörde vorgenommen werden. Auf diese Weise durchgeführte Änderungen sind unverzüglich den lokalen Vereinsregistern zu übermitteln.
@@ -378,7 +380,8 @@ Organwalter können insbesondere schadenersatzpflichtig werden, wenn sie schuldh
 `§ 24 (2) Z 3 VerG.` ihre Verpflichtungen betreffend das Finanz- und Rechnungswesen des Vereins missachtet,  
 `§ 24 (2) Z 4 VerG.` die Eröffnung des Insolvenzverfahrens über das Vereinsvermögen nicht rechtzeitig beantragt,  
 `§ 24 (2) Z 5 VerG.` im Fall der Auflösung des Vereins dessen Abwicklung behindert oder vereitelt oder  
-`§ 24 (2) Z 6 VerG.` ein Verhalten, das Schadenersatzpflichten des Vereins gegenüber Vereinsmitgliedern oder Dritten ausgelöst hat, gesetzt
+`§ 24 (2) Z 6 VerG.` ein Verhalten, das Schadenersatzpflichten des Vereins gegenüber Vereinsmitgliedern oder Dritten ausgelöst hat, gesetzt  
+haben.
 
 `§ 24 (3) VerG.`  
 Die Ersatzpflicht tritt nicht ein, wenn die Handlung auf einem seinem Inhalt nach gesetzmäßigen und ordnungsgemäß zustande gekommenen Beschluss eines zur Entscheidung statutengemäß zuständigen Vereinsorgans beruht. Die Ersatzpflicht entfällt jedoch nicht, wenn der Organwalter dieses Vereinsorgan irregeführt hat.

@@ -185,7 +185,7 @@ def processContentElement(el):
             else:
                 lines.append("")
                 lines.append(f"### {parName}")
-            for item in el.locator(":scope div.content").all():
+            for item in el.locator(":scope div.content, :scope .SchlussteilE0").all():
                 if item.locator(".Absatzzahl").count():
                     nr = item.locator(".Absatzzahl").inner_text()
                     parName = parBaseName + f" {nr} {normdata['title']}"
@@ -195,6 +195,9 @@ def processContentElement(el):
                     symName = parName.removesuffix(normdata['title']) + f"Z {symName} {normdata['title']}"
                     if len(lines) and not lines[-1].endswith("  "): lines[-1] += "  "
                     lines.append(f"`{symName}.` {item.inner_text()}")
+                elif item.get_attribute("class") == "SchlussteilE0":
+                    if len(lines) and not lines[-1].endswith("  "): lines[-1] += "  "
+                    lines.append(f"{item.inner_text()}")
                 else:
                     lines.append(f"{item.tag_name()}: {item.outer_html()}")
 

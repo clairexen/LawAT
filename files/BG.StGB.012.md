@@ -30,9 +30,9 @@ Nach Abs. 1 ist auch zu bestrafen, wer als Zeuge oder Sachverständiger eine de
 ### § 290 StGB # Aussagenotstand
 
 `§ 290 (1) StGB.`  
-Wer eine falsche Beweisaussage (§§ 288, 289) ablegt, um von sich oder einem Angehörigen Schande oder die Gefahr strafrechtlicher Verfolgung oder eines unmittelbaren und bedeutenden vermögensrechtlichen Nachteils abzuwenden, ist nicht zu bestrafen, wenn er von der Verbindlichkeit zur Ablegung eines Zeugnisses befreit war oder hätte befreit werden können und wenn er
-`§ 290 (1) Z 1 StGB.` nicht wußte, daß dies der Fall war,
-`§ 290 (1) Z 2 StGB.` den Befreiungsgrund nicht geoffenbart hat, um die schon aus der Offenbarung drohenden Folgen der bezeichneten Art abzuwenden, oder
+Wer eine falsche Beweisaussage (§§ 288, 289) ablegt, um von sich oder einem Angehörigen Schande oder die Gefahr strafrechtlicher Verfolgung oder eines unmittelbaren und bedeutenden vermögensrechtlichen Nachteils abzuwenden, ist nicht zu bestrafen, wenn er von der Verbindlichkeit zur Ablegung eines Zeugnisses befreit war oder hätte befreit werden können und wenn er  
+`§ 290 (1) Z 1 StGB.` nicht wußte, daß dies der Fall war,  
+`§ 290 (1) Z 2 StGB.` den Befreiungsgrund nicht geoffenbart hat, um die schon aus der Offenbarung drohenden Folgen der bezeichneten Art abzuwenden, oder  
 `§ 290 (1) Z 3 StGB.` zur Ablegung der Aussage zu Unrecht verhalten worden ist.
 
 `§ 290 (1a) StGB.`  
@@ -187,9 +187,9 @@ Ein Amtsträger oder Schiedsrichter, der für die pflichtgemäße Vornahme oder 
 Wer die Tat in Bezug auf einen 3.000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wer jedoch die Tat in Bezug auf einen 50.000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. Übersteigt der Wert des Vorteils 300 000 Euro, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 `§ 305 (4) StGB.`  
-Keine ungebührlichen Vorteile sind
-`§ 305 (4) Z 1 StGB.` Vorteile, deren Annahme gesetzlich erlaubt ist, oder die im Rahmen von Veranstaltungen gewährt werden, an deren Teilnahme ein amtlich oder sachlich gerechtfertigtes Interesse besteht,
-`§ 305 (4) Z 2 StGB.` Vorteile für gemeinnützige Zwecke (§ 35 BAO), auf deren Verwendung der Amtsträger, Schiedsrichter oder eine Person aus dem Familienkreis (§ 166 Abs. 1) des Amtsträgers oder Schiedsrichters keinen bestimmenden Einfluss ausübt, sowie
+Keine ungebührlichen Vorteile sind  
+`§ 305 (4) Z 1 StGB.` Vorteile, deren Annahme gesetzlich erlaubt ist, oder die im Rahmen von Veranstaltungen gewährt werden, an deren Teilnahme ein amtlich oder sachlich gerechtfertigtes Interesse besteht,  
+`§ 305 (4) Z 2 StGB.` Vorteile für gemeinnützige Zwecke (§ 35 BAO), auf deren Verwendung der Amtsträger, Schiedsrichter oder eine Person aus dem Familienkreis (§ 166 Abs. 1) des Amtsträgers oder Schiedsrichters keinen bestimmenden Einfluss ausübt, sowie  
 `§ 305 (4) Z 3 StGB.` in Ermangelung von Erlaubnisnormen im Sinne der Z 1 orts- oder landesübliche Aufmerksamkeiten geringen Werts, es sei denn, dass die Tat gewerbsmäßig begangen wird.
 
 `§ 305 (5) StGB.`  

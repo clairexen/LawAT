@@ -86,10 +86,11 @@ Hat die Tat eine der im § 170 Abs. 2 genannten Folgen, so sind die dort anged
 ### § 177a StGB # Herstellung und Verbreitung von Massenvernichtungswaffen
 
 `§ 177a (1) StGB.`  
-Wer zur Massenvernichtung bestimmte und geeignete nukleare, radiologische, biologische oder chemische Kampfmittel
-`§ 177a (1) Z 1 StGB.` herstellt, verarbeitet oder zum Zweck der Herstellung entwickelt,
-`§ 177a (1) Z 2 StGB.` in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt oder
-`§ 177a (1) Z 3 StGB.` erwirbt, besitzt oder einem anderen überläßt oder verschafft,
+Wer zur Massenvernichtung bestimmte und geeignete nukleare, radiologische, biologische oder chemische Kampfmittel  
+`§ 177a (1) Z 1 StGB.` herstellt, verarbeitet oder zum Zweck der Herstellung entwickelt,  
+`§ 177a (1) Z 2 StGB.` in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt oder  
+`§ 177a (1) Z 3 StGB.` erwirbt, besitzt oder einem anderen überläßt oder verschafft,  
+ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 `§ 177a (2) StGB.`  
 Weiß der Täter, daß die Kampfmittel in ein Gebiet gelangen sollen, in dem ein Krieg oder ein bewaffneter Konflikt ausgebrochen ist oder unmittelbar auszubrechen droht, so ist er mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, weiß er aber, daß die Kampfmittel zum Einsatz gelangen sollen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
@@ -100,11 +101,12 @@ Weiß der Täter, daß die Kampfmittel in ein Gebiet gelangen sollen, in dem ein
 Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Kernmaterial herstellt, bearbeitet, verarbeitet, verwendet, besitzt, beseitigt, befördert, in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 `§ 177b (2) StGB.`  
-Ebenso ist zu bestrafen, wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag radioaktive Stoffe oder Strahleneinrichtungen so herstellt, bearbeitet, verarbeitet, verwendet, besitzt, beseitigt, befördert, in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt, dass dadurch
-`§ 177b (2) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,
-`§ 177b (2) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,
-`§ 177b (2) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder
-`§ 177b (2) Z 4 StGB.` ein Beseitigungsaufwand, der 50 000 Euro übersteigt,
+Ebenso ist zu bestrafen, wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag radioaktive Stoffe oder Strahleneinrichtungen so herstellt, bearbeitet, verarbeitet, verwendet, besitzt, beseitigt, befördert, in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt, dass dadurch  
+`§ 177b (2) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
+`§ 177b (2) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
+`§ 177b (2) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
+`§ 177b (2) Z 4 StGB.` ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
+entstehen kann.
 
 `§ 177b (3) StGB.`  
 Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Kernmaterial oder radioaktive Stoffe herstellt, bearbeitet, verarbeitet, verwendet, besitzt, beseitigt, befördert, in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt und dadurch die Gefahr herbeiführt, dass Kernmaterial oder radioaktive Stoffe der Herstellung oder Verarbeitung von zur Massenvernichtung geeigneten nuklearen oder radiologischen Kampfmitteln zugänglich werden, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. Ebenso ist zu bestrafen, wer eine der in Abs. 1 oder Abs. 2 erwähnten Handlungen gewerbsmäßig begeht.
@@ -149,11 +151,12 @@ Wird durch die Tat die im § 171 Abs. 1 genannte Gefahr herbeigeführt, der Ti
 ### § 180 StGB # Vorsätzliche Beeinträchtigung der Umwelt
 
 `§ 180 (1) StGB.`  
-Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag ein Gewässer, den Boden oder die Luft so verunreinigt oder sonst beeinträchtigt, dass dadurch
-`§ 180 (1) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,
-`§ 180 (1) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,
-`§ 180 (1) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder
-`§ 180 (1) Z 4 StGB.` ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt,
+Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag ein Gewässer, den Boden oder die Luft so verunreinigt oder sonst beeinträchtigt, dass dadurch  
+`§ 180 (1) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
+`§ 180 (1) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
+`§ 180 (1) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
+`§ 180 (1) Z 4 StGB.` ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt,  
+entstehen kann, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
 `§ 180 (2) StGB.`  
 Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt oder ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt, herbeigeführt, so ist der Täter mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. Hat die Tat eine der im § 169 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
@@ -174,11 +177,12 @@ Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine la
 ### § 181b StGB # Vorsätzliches umweltgefährdendes Behandeln und Verbringen von Abfällen
 
 `§ 181b (1) StGB.`  
-Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Abfälle so sammelt, befördert, verwertet, beseitigt, diese Tätigkeiten betrieblich überwacht oder so kontrolliert, dass dadurch
-`§ 181b (1) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,
-`§ 181b (1) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,
-`§ 181b (1) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder
-`§ 181b (1) Z 4 StGB.` ein Beseitigungsaufwand, der 50 000 Euro übersteigt,
+Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Abfälle so sammelt, befördert, verwertet, beseitigt, diese Tätigkeiten betrieblich überwacht oder so kontrolliert, dass dadurch  
+`§ 181b (1) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
+`§ 181b (1) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
+`§ 181b (1) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
+`§ 181b (1) Z 4 StGB.` ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
+entstehen kann, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 181b (2) StGB.`  
 Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder einen Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen. Hat die Tat eine der im § 169 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
@@ -200,11 +204,12 @@ Wer außer den Fällen der Abs. 1 und 2 grob fahrlässig (§ 6 Abs. 3) Abfäl
 ### § 181d StGB # Vorsätzliches umweltgefährdendes Betreiben von Anlagen
 
 `§ 181d (1) StGB.`  
-Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine Anlage, in der eine gefährliche Tätigkeit durchgeführt wird, so betreibt, dass dadurch
-`§ 181d (1) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,
-`§ 181d (1) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,
-`§ 181d (1) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder
-`§ 181d (1) Z 4 StGB.` ein Beseitigungsaufwand, der 50 000 Euro übersteigt,
+Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine Anlage, in der eine gefährliche Tätigkeit durchgeführt wird, so betreibt, dass dadurch  
+`§ 181d (1) Z 1 StGB.` eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
+`§ 181d (1) Z 2 StGB.` eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
+`§ 181d (1) Z 3 StGB.` eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
+`§ 181d (1) Z 4 StGB.` ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
+entstehen kann, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 181d (2) StGB.`  
 Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder ein Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen. Hat die Tat eine der im § 169 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
@@ -246,9 +251,10 @@ Lebensraum innerhalb eines geschützten Gebiets ist jeder Lebensraum einer Art, 
 ### § 182 StGB # Andere Gefährdungen des Tier- oder Pflanzenbestandes
 
 `§ 182 (1) StGB.`  
-Wer eine Handlung begeht, die geeignet ist,
-`§ 182 (1) Z 1 StGB.` die Gefahr der Verbreitung einer Seuche unter Tieren herbeizuführen oder
-`§ 182 (1) Z 2 StGB.` die Gefahr der Verbreitung eines für den Tier- oder Pflanzenbestand gefährlichen Krankheitserregers oder Schädlings herbeizuführen,
+Wer eine Handlung begeht, die geeignet ist,  
+`§ 182 (1) Z 1 StGB.` die Gefahr der Verbreitung einer Seuche unter Tieren herbeizuführen oder  
+`§ 182 (1) Z 2 StGB.` die Gefahr der Verbreitung eines für den Tier- oder Pflanzenbestand gefährlichen Krankheitserregers oder Schädlings herbeizuführen,  
+ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
 `§ 182 (2) StGB.`  
 Ebenso ist zu bestrafen, wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag auf andere als die im § 180 bezeichnete Weise eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß herbeiführt.
@@ -290,14 +296,15 @@ Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen (§ 84 Abs.
 ### § 186 StGB # Vorsätzliche Gefährdung der Sicherheit der Luftfahrt
 
 `§ 186 (1) StGB.`  
-Wer auf solche Weise, daß dadurch die Sicherheit eines Luftfahrzeuges im Flug gefährdet werden kann,
-`§ 186 (1) Z 1 StGB.` gegen eine an Bord des Luftfahrzeuges befindliche Person Gewalt übt oder ihr mit Gewalt droht,
-`§ 186 (1) Z 2 StGB.` das im Einsatz befindliche Luftfahrzeug beschädigt oder
-`§ 186 (1) Z 3 StGB.` Einrichtungen der Luftfahrt zerstört, beschädigt oder in ihrem Betrieb beeinträchtigt,
+Wer auf solche Weise, daß dadurch die Sicherheit eines Luftfahrzeuges im Flug gefährdet werden kann,  
+`§ 186 (1) Z 1 StGB.` gegen eine an Bord des Luftfahrzeuges befindliche Person Gewalt übt oder ihr mit Gewalt droht,  
+`§ 186 (1) Z 2 StGB.` das im Einsatz befindliche Luftfahrzeug beschädigt oder  
+`§ 186 (1) Z 3 StGB.` Einrichtungen der Luftfahrt zerstört, beschädigt oder in ihrem Betrieb beeinträchtigt,  
+ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
 `§ 186 (2) StGB.`  
-Ebenso ist zu bestrafen,
-`§ 186 (2) Z 1 StGB.` wer ein im Einsatz befindliches Luftfahrzeug zerstört oder derart beschädigt, daß es flugunfähig wird, oder
+Ebenso ist zu bestrafen,  
+`§ 186 (2) Z 1 StGB.` wer ein im Einsatz befindliches Luftfahrzeug zerstört oder derart beschädigt, daß es flugunfähig wird, oder  
 `§ 186 (2) Z 2 StGB.` wer durch eine wissentlich unrichtige Mitteilung eine Gefahr für die Sicherheit eines Luftfahrzeuges im Flug herbeiführt.
 
 `§ 186 (3) StGB.`  

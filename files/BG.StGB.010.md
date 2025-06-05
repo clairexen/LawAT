@@ -163,9 +163,10 @@ Ebenso ist zu bestrafen, wer während eines Krieges oder eines bewaffneten Konfl
 ### § 258 StGB # Landesverräterische Fälschung und Vernichtung von Beweisen
 
 `§ 258 (1) StGB.`  
-Wer
-`§ 258 (1) Z 1 StGB.` über ein Rechtsverhältnis zwischen der Republik Österreich oder einem ihrer Bundesländer und einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung oder
-`§ 258 (1) Z 2 StGB.` über eine Tatsache, die für die Beziehungen zwischen der Republik Österreich oder einem ihrer Bundesländer und einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung von Bedeutung ist,
+Wer  
+`§ 258 (1) Z 1 StGB.` über ein Rechtsverhältnis zwischen der Republik Österreich oder einem ihrer Bundesländer und einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung oder  
+`§ 258 (1) Z 2 StGB.` über eine Tatsache, die für die Beziehungen zwischen der Republik Österreich oder einem ihrer Bundesländer und einer fremden Macht oder einer über- oder zwischenstaatlichen Einrichtung von Bedeutung ist,  
+ein falsches Beweismittel herstellt oder ein echtes verfälscht, vernichtet, beschädigt oder beseitigt und dadurch die Interessen der Republik Österreich oder eines ihrer Bundesländer gefährdet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 `§ 258 (2) StGB.`  
 Ebenso ist zu bestrafen, wer von einem solchen falschen oder verfälschten Beweismittel Gebrauch macht und dadurch die Interessen der Republik Österreich oder eines ihrer Bundesländer gefährdet.
