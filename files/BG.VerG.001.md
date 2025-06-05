@@ -550,4 +550,4 @@ Das Inhaltsverzeichnis, § 11, § 15, § 17 Abs. 4, § 19a samt Überschrif
 **§ 34 VerG.**  
  Mit der Vollziehung dieses Bundesgesetzes sind hinsichtlich §§ 9 und 10, § 14 Abs. 2 und 3, §§ 15 bis 17 Abs. 7, § 17 Abs. 9, §§ 18 und 19, § 29, § 30 Abs. 5, § 31 der Bundesminister für Inneres, hinsichtlich § 2 Abs. 4, §§ 6 und 7, §§ 23 bis 26 der Bundesminister für Justiz, hinsichtlich § 11 Abs. 2 der Bundesminister für Inneres und der Bundeskanzler, hinsichtlich § 30 Abs. 4 der Bundesminister für Inneres und der Bundesminister für Finanzen, hinsichtlich aller übrigen Bestimmungen der Bundesminister für Inneres und der Bundesminister für Justiz betraut.
 
-**END-OF-FILE-SET**
+**END-OF-DATA-SET**
