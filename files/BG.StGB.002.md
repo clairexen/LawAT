@@ -147,9 +147,9 @@ Ist der Täter schon zweimal wegen Taten, die auf der gleichen schädlichen Neig
 Ist der Täter schon zweimal wegen vorsätzlicher strafbarer Handlungen gegen Leib und Leben, gegen die Freiheit oder gegen die sexuelle Integrität und Selbstbestimmung zu einer Freiheitsstrafe verurteilt worden, so erhöht sich, wenn er nach Vollendung des neunzehnten Lebensjahres neuerlich eine vorsätzliche strafbare Handlung gegen eines dieser Rechtsgüter begeht, das Höchstmaß der angedrohten Freiheitsstrafe oder Geldstrafe um die Hälfte, höchstens jedoch auf zwanzig Jahre.
 
 `§ 39 (2) StGB.`  
-Eine frühere Strafe bleibt außer Betracht, wenn seit ihrer Verbüßung bis zur folgenden Tat mehr als fünf Jahre, bei einer Verurteilung wegen einer mit zehn oder mehr Jahren Freiheitsstrafe bedrohten strafbaren Handlung mehr als zehn Jahre, vergangen sind. In diese Frist werden Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, nicht eingerechnet. Ist die Strafe bedingt nachgesehen oder (Anm. 1) nur durch Anrechnung einer Vorhaft verbüßt worden, so beginnt die Frist erst mit Rechtskraft des Urteils.
-**FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(___________________</span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm. 1: Art.&nbsp;4 Z&nbsp;4a der Novelle <a href="/eli/bgbl/I/2019/105" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2019_I_105', 'BGBl. I Nr. 105/2019', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;105/2019</a> lautet: „In §&nbsp;39 Abs.&nbsp;2 wird im zweiten Satz nach dem Wort „Strafe“ die Wendung „bedingt nachgesehen oder“ eingefügt.“ Richtig wäre: „... wird im dritten Satz ...“.)</span></span></p>
+Eine frühere Strafe bleibt außer Betracht, wenn seit ihrer Verbüßung bis zur folgenden Tat mehr als fünf Jahre, bei einer Verurteilung wegen einer mit zehn oder mehr Jahren Freiheitsstrafe bedrohten strafbaren Handlung mehr als zehn Jahre, vergangen sind. In diese Frist werden Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, nicht eingerechnet. Ist die Strafe bedingt nachgesehen oder (Anm. 1) nur durch Anrechnung einer Vorhaft verbüßt worden, so beginnt die Frist erst mit Rechtskraft des Urteils.  
+(___________________  
+Anm. 1: Art. 4 Z 4a der Novelle BGBl. I Nr. 105/2019 lautet: „In § 39 Abs. 2 wird im zweiten Satz nach dem Wort „Strafe“ die Wendung „bedingt nachgesehen oder“ eingefügt.“ Richtig wäre: „... wird im dritten Satz ...“.)
 
 ### § 39a StGB # Änderung der Strafdrohung bei bestimmten Gewalttaten
 
@@ -251,7 +251,7 @@ Wird auf eine Freiheitsstrafe von mehr als sechs Monaten, aber nicht mehr als zw
 
 `§ 43a (4) StGB.`  
 Wird auf eine Freiheitsstrafe von mehr als zwei, aber nicht mehr als drei Jahren erkannt und besteht eine hohe Wahrscheinlichkeit, daß der Rechtsbrecher keine weiteren strafbaren Handlungen begehen werde, so ist unter den Voraussetzungen des § 43 Abs. 1 ein Teil der Strafe bedingt nachzusehen. Abs. 3 letzter Satz ist anzuwenden.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;5 aufgehoben durch <a href="/Dokumente/BgblPdf/1997_105_1/1997_105_1.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1997_105_1', 'BGBl. I Nr. 105/1997', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;105/1997</a>)</span></span></p>
+(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 105/1997)
 
 ### § 44 StGB # Bedingte Nachsicht bei Zusammentreffen mehrerer Strafen
 
@@ -282,7 +282,7 @@ Hat ein Verurteilter die Hälfte der im Urteil verhängten oder im Gnadenweg fes
 
 `§ 46 (2) StGB.`  
 Hat ein Verurteilter die Hälfte, aber noch nicht zwei Drittel einer Freiheitsstrafe verbüßt, so ist er trotz Vorliegens der Voraussetzungen nach Abs. 1 solange nicht bedingt zu entlassen, als es im Hinblick auf die Schwere der Tat ausnahmsweise des weiteren Vollzuges der Strafe bedarf, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs. 3 aufgehoben durch <a href="/eli/bgbl/I/2015/154" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_154', 'BGBl. I Nr. 154/2015', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;154/2015</a>)</span></span></p>
+(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 154/2015)
 
 `§ 46 (4) StGB.`  
 Bei Entscheidungen nach Abs. 1 ist auf den Umstand Bedacht zu nehmen, inwieweit durch den bisherigen Vollzug der Strafe, insbesondere auch durch eine während des Vollzugs begonnene freiwillige Behandlung im Sinne von § 51 Abs. 3, die der Verurteilte in Freiheit fortzusetzen bereit ist, eine Änderung der Verhältnisse, unter denen die Tat begangen wurde, eingetreten ist, oder durch Maßnahmen gemäß §§ 50 bis 52 erreicht werden kann.
@@ -354,9 +354,9 @@ Als Weisungen kommen Gebote und Verbote in Betracht, deren Beachtung geeignet sc
 Dem Rechtsbrecher kann insbesondere aufgetragen werden, an einem bestimmten Ort, bei einer bestimmten Familie oder in einem bestimmten Heim zu wohnen, eine bestimmte Wohnung, bestimmte Orte oder einen bestimmten Umgang zu meiden, sich alkoholischer Getränke zu enthalten, einen geeigneten, seinen Kenntnissen, Fähigkeiten und Neigungen tunlichst entsprechenden Beruf zu erlernen oder auszuüben, jeden Wechsel seines Aufenthaltsortes oder Arbeitsplatzes anzuzeigen und sich in bestimmten Zeitabständen bei Gericht oder einer anderen Stelle zu melden. Den aus seiner Tat entstandenen Schaden nach Kräften gutzumachen, kann dem Rechtsbrecher auch dann aufgetragen werden, wenn das von Einfluß darauf ist, ob es der Vollstreckung der Strafe bedarf, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken.
 
 `§ 51 (3) StGB.`  
-Mit seiner Zustimmung kann dem Rechtsbrecher unter den Voraussetzungen des Abs. 1 auch die Weisung erteilt werden, sich einer Entwöhnungsbehandlung, einer psychotherapeutischen oder
-**FIXME** P: <p class="ErlText AlignJustify">einer medizinischen Behandlung zu unterziehen. Die Weisung, sich</p>
-**FIXME** P: <p class="ErlText AlignJustify">einer medizinischen Behandlung zu unterziehen, die einen operativen Eingriff umfaßt, darf jedoch auch mit Zustimmung des Rechtsbrechers nicht erteilt werden.</p>
+Mit seiner Zustimmung kann dem Rechtsbrecher unter den Voraussetzungen des Abs. 1 auch die Weisung erteilt werden, sich einer Entwöhnungsbehandlung, einer psychotherapeutischen oder  
+einer medizinischen Behandlung zu unterziehen. Die Weisung, sich  
+einer medizinischen Behandlung zu unterziehen, die einen operativen Eingriff umfaßt, darf jedoch auch mit Zustimmung des Rechtsbrechers nicht erteilt werden.
 
 `§ 51 (4) StGB.`  
 Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach § 50 geboten scheint.

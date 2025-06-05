@@ -162,7 +162,7 @@ Der Tagessatz ist nach den persönlichen Verhältnissen und der wirtschaftlichen
 
 `§ 19 (3) StGB.`  
 Für den Fall der Uneinbringlichkeit der Geldstrafe ist eine Ersatzfreiheitsstrafe festzusetzen. Ein Tag Ersatzfreiheitsstrafe entspricht dabei zwei Tagessätzen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;4 aufgehoben durch <a href="/Dokumente/BgblPdf/1996_762_0/1996_762_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1996_762_0', 'BGBl. Nr. 762/1996', '2025-06-05')">BGBl. Nr.&nbsp;762/1996</a>)</span></span></p>
+(Anm.: Abs. 4 aufgehoben durch BGBl. Nr. 762/1996)
 
 ### § 19a StGB # Konfiskation
 

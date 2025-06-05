@@ -58,8 +58,8 @@ Sofern das Gesetz nicht ausdrücklich auf die Verurteilung durch ein inländisch
 `§ 74 (1) StGB.`  
 Im Sinn dieses Bundesgesetzes ist  
 `§ 74 (1) Z 1 StGB.`
-unmündig: wer das vierzehnte Lebensjahr noch nicht vollendet hat;
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;2 aufgehoben durch <a href="/Dokumente/BgblPdf/2001_19_1/2001_19_1.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '2001_19_1', 'BGBl. I Nr. 19/2001', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;19/2001</a>)</span></span></div>  
+unmündig: wer das vierzehnte Lebensjahr noch nicht vollendet hat;  
+(Anm.: Z 2 aufgehoben durch BGBl. I Nr. 19/2001)  
 `§ 74 (1) Z 3 StGB.`
 minderjährig: wer das achtzehnte Lebensjahr noch nicht vollendet hat;  
 `§ 74 (1) Z 4 StGB.`

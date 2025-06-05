@@ -17,17 +17,17 @@ Strafbare Handlungen, die mit Freiheitsstrafe von zehn bis zu zwanzig Jahren ode
 Die Strafbarkeit anderer Taten erlischt durch Verjährung. Die Verjährungsfrist beginnt, sobald die mit Strafe bedrohte Tätigkeit abgeschlossen ist oder das mit Strafe bedrohte Verhalten aufhört.
 
 `§ 57 (3) StGB.`  
-Die Verjährungsfrist beträgt
-**FIXME** P: <p class="ErlText AlignJustify">zwanzig Jahre,</p>
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;">wenn die Handlung zwar nicht mit lebenslanger Freiheitsstrafe, aber mit mehr als zehnjähriger Freiheitsstrafe bedroht ist;</div>
-**FIXME** P: <p class="ErlText AlignJustify">zehn Jahre,</p>
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;">wenn die Handlung mit mehr als fünfjähriger, aber höchstens zehnjähriger Freiheitsstrafe bedroht ist;</div>
-**FIXME** P: <p class="ErlText AlignJustify">fünf Jahre,</p>
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;">wenn die Handlung mit mehr als einjähriger, aber höchstens fünfjähriger Freiheitsstrafe bedroht ist;</div>
-**FIXME** P: <p class="ErlText AlignJustify">drei Jahre,</p>
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;">wenn die Handlung mit mehr als sechsmonatiger, aber höchstens einjähriger Freiheitsstrafe bedroht ist;</div>
-**FIXME** P: <p class="ErlText AlignJustify">ein Jahr,</p>
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;">wenn die Handlung mit nicht mehr als sechsmonatiger Freiheitsstrafe oder nur mit Geldstrafe bedroht ist.</div>
+Die Verjährungsfrist beträgt  
+zwanzig Jahre,  
+wenn die Handlung zwar nicht mit lebenslanger Freiheitsstrafe, aber mit mehr als zehnjähriger Freiheitsstrafe bedroht ist;  
+zehn Jahre,  
+wenn die Handlung mit mehr als fünfjähriger, aber höchstens zehnjähriger Freiheitsstrafe bedroht ist;  
+fünf Jahre,  
+wenn die Handlung mit mehr als einjähriger, aber höchstens fünfjähriger Freiheitsstrafe bedroht ist;  
+drei Jahre,  
+wenn die Handlung mit mehr als sechsmonatiger, aber höchstens einjähriger Freiheitsstrafe bedroht ist;  
+ein Jahr,  
+wenn die Handlung mit nicht mehr als sechsmonatiger Freiheitsstrafe oder nur mit Geldstrafe bedroht ist.
 
 `§ 57 (4) StGB.`  
 Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende Maßnahmen unzulässig.
@@ -66,13 +66,13 @@ Die Vollstreckbarkeit einer lebenslangen Freiheitsstrafe, einer Freiheitsstrafe 
 Die Vollstreckbarkeit anderer Strafen, einer Abschöpfung der Bereicherung, eines Verfalls und vorbeugender Maßnahmen erlischt durch Verjährung. Die Frist für die Verjährung beginnt mit der Rechtskraft der Entscheidung, in der auf die Strafe, den Verfall oder die vorbeugende Maßnahme erkannt worden ist.
 
 `§ 59 (3) StGB.`  
-Die Frist beträgt
-**FIXME** P: <p class="ErlText AlignJustify">fünfzehn Jahre,</p>
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;">wenn auf Freiheitsstrafe von mehr als einem Jahr, aber nicht mehr als zehn Jahren erkannt worden ist;</div>
-**FIXME** P: <p class="ErlText AlignJustify">zehn Jahre,</p>
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;">wenn auf Freiheitsstrafe von mehr als drei Monaten, aber nicht mehr als einem Jahr oder auf eine Geldstrafe unter Festsetzung einer Ersatzfreiheitsstrafe von mehr als drei Monaten erkannt worden ist;</div>
-**FIXME** P: <p class="ErlText AlignJustify">fünf Jahre</p>
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;">in allen übrigen Fällen.</div>
+Die Frist beträgt  
+fünfzehn Jahre,  
+wenn auf Freiheitsstrafe von mehr als einem Jahr, aber nicht mehr als zehn Jahren erkannt worden ist;  
+zehn Jahre,  
+wenn auf Freiheitsstrafe von mehr als drei Monaten, aber nicht mehr als einem Jahr oder auf eine Geldstrafe unter Festsetzung einer Ersatzfreiheitsstrafe von mehr als drei Monaten erkannt worden ist;  
+fünf Jahre  
+in allen übrigen Fällen.
 
 `§ 59 (4) StGB.`  
 Ist gleichzeitig auf mehrere Strafen oder vorbeugende Maßnahmen erkannt worden, so richtet sich die Verjährung der Vollstreckbarkeit aller dieser Strafen oder Maßnahmen nach der Strafe oder Maßnahme, für die die längste Verjährungsfrist vorgesehen ist. Sind eine Freiheitsstrafe und eine Geldstrafe gleichzeitig verhängt worden, so ist zur Berechnung der Verjährungsfrist die Ersatzfreiheitsstrafe zur Freiheitsstrafe hinzuzurechnen.
@@ -178,8 +178,8 @@ die Tat gegen den Nationalrat, den Bundesrat, die Bundesversammlung, die Bundesr
 `§ 64 (1) Z 9 lit. e) StGB.`
 die Tat gegen ein Organ der Europäischen Union oder eine gemäß den Verträgen zur Gründung der Europäischen Gemeinschaften oder dem Vertrag über die Europäische Union geschaffene Einrichtung mit Sitz in der Republik Österreich begangen wurde oder  
 `§ 64 (1) Z 9 lit. f) StGB.`
-der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;10 aufgehoben durch Art.&nbsp;1 Z&nbsp;4, <a href="/eli/bgbl/I/2018/70" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2018_I_70', 'BGBl. I Nr. 70/2018', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;70/2018</a>)</span></span></div>  
+der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;  
+(Anm.: Z 10 aufgehoben durch Art. 1 Z 4, BGBl. I Nr. 70/2018)  
 `§ 64 (1) Z 11 StGB.`
 Unvertretbare Darstellung wesentlicher Informationen über bestimmte Verbände (§ 163a) und Unvertretbare Berichte von Prüfern bestimmter Verbände (§ 163b), wenn die Hauptniederlassung oder der Sitz des Verbandes im Inland liegt.
 

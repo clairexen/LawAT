@@ -162,7 +162,7 @@ Wer eine gefährliche Drohung begeht, indem er mit dem Tod, mit einer erhebliche
 
 `§ 107 (3) StGB.`  
 In den im § 106 Abs. 2 genannten Fällen ist die dort vorgesehene Strafe zu verhängen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.:Abs.&nbsp;4 aufgehoben durch <a href="/eli/bgbl/I/2006/56" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2006_I_56', 'BGBl. I Nr. 56/2006', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;56/2006</a>)</span></span></p>
+(Anm.:Abs. 4 aufgehoben durch BGBl. I Nr. 56/2006)
 
 ### § 107a StGB # Beharrliche Verfolgung
 

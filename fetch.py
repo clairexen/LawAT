@@ -168,7 +168,17 @@ def processContentElement(el, outbuf, parName = None):
     txt = el.stripped_text().replace("\xa0", " ")
 
     match el.tag_name():
-        case "H4" if "UeberschrG1" in cls or "UeberschrG1-AfterG2" in cls:
+        case "P" if "UeberschrG2" in cls:
+            txt = txt.replace('\n\n', ' # ').replace('\n', ' # ')
+            if len(outbuf) and outbuf[-1].startswith("## "):
+                outbuf.append(f"## {outbuf[-1][3:]} # {txt}")
+                del outbuf[-2]
+            else:
+                outbuf.append("")
+                outbuf.append(f"## {txt}")
+
+        case "H4" if "UeberschrG1" in cls or \
+                     "UeberschrG1-AfterG2" in cls:
             txt = txt.replace('\n\n', ' # ').replace('\n', ' # ')
             if len(outbuf) and outbuf[-1].startswith("## "):
                 outbuf.append(f"## {outbuf[-1][3:]} # {txt}")
@@ -181,6 +191,12 @@ def processContentElement(el, outbuf, parName = None):
             outbuf.append("")
             outbuf.append(f"### {txt}")
 
+        case "P" if "Abs" in cls or \
+                    "Abs_small_indent" in cls or \
+                    "SatznachNovao" in cls or \
+                    "Abstand" in cls:
+            outbuf.append(el.locator(":scope > *:not(.Absatzzahl)").stripped_text())
+
         case "DIV" if "Abs" in cls or \
                       "Abs_small_indent" in cls:
             outbuf.append(el.locator(":scope > *:not(.Absatzzahl)").stripped_text())
@@ -190,9 +206,14 @@ def processContentElement(el, outbuf, parName = None):
                       "AufzaehlungE2" in cls:
             outbuf.append(el.stripped_text())
 
+        case "P" if "ErlText" in cls:
+            if len(outbuf) and not outbuf[-1].endswith("  "): outbuf[-1] += "  "
+            outbuf.append(el.stripped_text())
+
         case "DIV" if "SchlussteilE0" in cls or \
                       "SchlussteilE1" in cls or \
-                      "SchlussteilE2" in cls:
+                      "SchlussteilE2" in cls or \
+                      "SchlussteilE0_5" in cls:
             if len(outbuf) and not outbuf[-1].endswith("  "): outbuf[-1] += "  "
             outbuf.append(el.stripped_text())
 

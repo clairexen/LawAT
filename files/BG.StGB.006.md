@@ -66,7 +66,7 @@ Der Täter ist wegen einer im § 115 mit Strafe bedrohten Handlung mit Ermächt
 
 `§ 117 (4) StGB.`  
 In den Fällen der Abs. 2 und 3 ist der Verletzte jederzeit berechtigt, sich der Anklage anzuschließen. Verfolgt die Staatsanwaltschaft eine solche strafbare Handlung nicht oder tritt sie von der Verfolgung zurück, so ist der Verletzte selbst zur Anklage berechtigt.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;5 aufgehoben durch <a href="/eli/bgbl/I/2009/98" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2009_I_98', 'BGBl. I Nr. 98/2009', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;98/2009</a>)</span></span></p>
+(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 98/2009)
 
 ## Fünfter Abschnitt # Verletzungen der Privatsphäre und bestimmter Berufsgeheimnisse
 
@@ -224,8 +224,8 @@ an einem öffentlichen Denkmal oder an einem Gegenstand, der unter Denkmalschutz
 `§ 126 (1) Z 4 StGB.`
 an einer Sache von allgemein anerkanntem wissenschaftlichem, volkskundlichem, künstlerischem oder geschichtlichem Wert, die sich in einer allgemein zugänglichen Sammlung oder sonst an einem solchen Ort oder in einem öffentlichen Gebäude befindet,  
 `§ 126 (1) Z 5 StGB.`
-an einem wesentlichen Bestandteil der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) oder
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;6 aufgehoben durch <a href="/eli/bgbl/I/2015/154" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_154', 'BGBl. I Nr. 154/2015', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;154/2015</a>)</span></span></div>  
+an einem wesentlichen Bestandteil der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) oder  
+(Anm.: Z 6 aufgehoben durch BGBl. I Nr. 154/2015)  
 `§ 126 (1) Z 7 StGB.`
 durch die der Täter an der Sache einen 5 000 Euro übersteigenden Schaden herbeiführt.
 
@@ -496,8 +496,8 @@ Wer mit dem Vorsatz, durch das Verhalten des Getäuschten sich oder einen Dritte
 `§ 147 (1) StGB.`  
 Wer einen Betrug begeht, indem er zur Täuschung  
 `§ 147 (1) Z 1 StGB.`
-eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfremdetes unbares Zahlungsmittel, ausgespähte Daten eines unbaren Zahlungsmittels, falsche oder verfälschte Daten, ein anderes solches Beweismittel oder ein unrichtiges Meßgerät benützt oder
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;2 aufgehoben durch <a href="/eli/bgbl/I/2015/112" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_112', 'BGBl. I Nr. 112/2015', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;112/2015</a>)</span></span></div>  
+eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfremdetes unbares Zahlungsmittel, ausgespähte Daten eines unbaren Zahlungsmittels, falsche oder verfälschte Daten, ein anderes solches Beweismittel oder ein unrichtiges Meßgerät benützt oder  
+(Anm.: Z 2 aufgehoben durch BGBl. I Nr. 112/2015)  
 `§ 147 (1) Z 3 StGB.`
 sich fälschlich für einen Beamten ausgibt,  
 ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
@@ -668,7 +668,7 @@ Ebenso ist zu bestrafen, wer eine solche Forderung, die auf ihn übergegangen is
 
 `§ 154 (3) StGB.`  
 Wer Geldwucher gewerbsmäßig begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;4 aufgehoben durch <a href="/eli/bgbl/I/2015/112" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_112', 'BGBl. I Nr. 112/2015', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;112/2015</a>)</span></span></p>
+(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 112/2015)
 
 ### § 155 StGB # Sachwucher
 
@@ -677,7 +677,7 @@ Wer außer den Fällen des § 154 gewerbsmäßig die Zwangslage, den Leichtsinn
 
 `§ 155 (2) StGB.`  
 Ebenso ist zu bestrafen, wer eine solche Forderung, die auf ihn übergegangen ist, gewerbsmäßig wucherisch verwertet.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;3 aufgehoben durch <a href="/eli/bgbl/I/2015/112" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2015_I_112', 'BGBl. I Nr. 112/2015', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;112/2015</a>)</span></span></p>
+(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 112/2015)
 
 ### § 156 StGB # Betrügerische Krida
 

@@ -150,8 +150,8 @@ Körperverletzungen nach den §§ 83 bis 87,
 `§ 278c (1) Z 3 StGB.`
 erpresserische Entführung (§ 102),  
 `§ 278c (1) Z 4 StGB.`
-schwere Nötigung (§ 106),
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;5 aufgehoben durch Art.&nbsp;1 Z&nbsp;1, <a href="/eli/bgbl/I/2023/40" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2023_I_40', 'BGBl. I Nr. 40/2023', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;40/2023</a>)</span></span></div>  
+schwere Nötigung (§ 106),  
+(Anm.: Z 5 aufgehoben durch Art. 1 Z 1, BGBl. I Nr. 40/2023)  
 `§ 278c (1) Z 6 StGB.`
 schwere Sachbeschädigung (§ 126), Datenbeschädigung (§ 126a) und Störung der Funktionsfähigkeit eines Computersystems (§ 126b), wenn dadurch eine Gefahr für das Leben eines anderen oder für fremdes Eigentum in großem Ausmaß entstehen kann oder viele Computersysteme (§§ 126a Abs. 3, 126b Abs. 3) oder wesentliche Bestandteile der kritischen Infrastruktur (§§ 126a Abs. 4 Z 2, 126b Abs. 4 Z 2) beeinträchtigt werden,  
 `§ 278c (1) Z 7 StGB.`

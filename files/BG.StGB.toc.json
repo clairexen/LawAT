@@ -481,9 +481,13 @@
     [266, "### § 321i StGB # Unterlassen der Meldung einer Straftat"],
     [271, "### § 321j StGB # Handeln auf Befehl oder sonstige Anordnung"],
     [276, "### § 321k StGB # Verbrechen der Aggression"],
-    [288, "### § 322 StGB # Inkrafttreten"],
-    [306, "### § 323 StGB # Übergangsbestimmungen"],
-    [320, "### § 324 StGB # Vollzugsklausel"],
-    [325, "END-OF-DATA-SET"]
+    [287, "END-OF-DATA-FILE"]
+  ],
+  "BG.StGB.014": [
+    [9, "## Schlußteil"],
+    [11, "### § 322 StGB # Inkrafttreten"],
+    [29, "### § 323 StGB # Übergangsbestimmungen"],
+    [43, "### § 324 StGB # Vollzugsklausel"],
+    [48, "END-OF-DATA-SET"]
   ]
 }

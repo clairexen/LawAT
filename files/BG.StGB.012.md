@@ -186,7 +186,7 @@ Wer ausschließlich nach § 74 Abs. 1 Z 4a lit. b letzte Alternative Amtstr�
 
 `§ 305 (1) StGB.`  
 Ein Amtsträger oder Schiedsrichter, der für die pflichtgemäße Vornahme oder Unterlassung eines Amtsgeschäfts für sich oder einen Dritten einen Vorteil fordert oder einen ungebührlichen Vorteil (Abs. 4) annimmt oder sich versprechen lässt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;2 aufgehoben durch <a href="/eli/bgbl/I/2012/61" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2012_I_61', 'BGBl. I Nr. 61/2012', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;61/2012</a>)</span></span></p>
+(Anm.: Abs. 2 aufgehoben durch BGBl. I Nr. 61/2012)
 
 `§ 305 (3) StGB.`  
 Wer die Tat in Bezug auf einen 3.000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wer jedoch die Tat in Bezug auf einen 50.000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. Übersteigt der Wert des Vorteils 300 000 Euro, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
@@ -279,7 +279,7 @@ Wer die Tat in Bezug auf einen 3 000 Euro übersteigenden Vorteil begeht, ist 
 
 `§ 310 (1) StGB.`  
 Ein Beamter oder ehemaliger Beamter, der ein ihm ausschließlich kraft seines Amtes anvertrautes oder zugänglich gewordenes Geheimnis offenbart oder verwertet, dessen Offenbarung oder Verwertung geeignet ist, ein öffentliches oder ein berechtigtes privates Interesse zu verletzen, ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;2 aufgehoben durch <a href="/eli/bgbl/I/2014/101" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2014_I_101', 'BGBl. I Nr. 101/2014', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;101/2014</a>)</span></span></p>
+(Anm.: Abs. 2 aufgehoben durch BGBl. I Nr. 101/2014)
 
 `§ 310 (2a) StGB.`  
 Ebenso ist zu bestrafen, wer - sei es auch nach seinem Ausscheiden aus dem Amt oder Dienstverhältnis - als Organwalter oder Bediensteter des Europäischen Polizeiamtes (Europol), als Verbindungsbeamter oder als zur Geheimhaltung besonders Verpflichteter (Art. 32 Abs. 2 des Europol-Übereinkommens, BGBl. III Nr. 123/1998) eine Tatsache oder Angelegenheit offenbart oder verwertet, die ihm ausschließlich kraft seines Amtes oder seiner Tätigkeit zugänglich geworden ist und deren Offenbarung oder Verwertung geeignet ist, ein öffentliches oder ein berechtigtes privates Interesse zu verletzen.
