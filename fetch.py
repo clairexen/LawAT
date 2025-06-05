@@ -158,64 +158,97 @@ indexData = list()
 outBuffer = list()
 
 # Process a single child node of the current div.contentBlock
-def processContentElement(el):
-    lines = list()
-    cls = set(el.get_attribute("class").split())
+def processContentElement(el, outbuf, parName = None):
+    cls = el.get_attribute("class")
+    if cls is None:
+        cls = set()
+    else:
+        cls = set(cls.split())
+
     txt = el.inner_text().replace("\xa0", " ")
 
     match el.tag_name():
         case "H4" if "UeberschrG1" in cls or "UeberschrG1-AfterG2" in cls:
             txt = txt.replace('\n\n', ' # ').replace('\n', ' # ')
-            if len(outBuffer) and outBuffer[-1].startswith("## "):
-                lines.append(f"## {outBuffer[-1][3:]} # {txt}")
-                del outBuffer[-1]
+            if len(outbuf) and outbuf[-1].startswith("## "):
+                outbuf.append(f"## {outbuf[-1][3:]} # {txt}")
+                del outbuf[-2]
             else:
-                lines.append(f"## {txt}")
+                outbuf.append("")
+                outbuf.append(f"## {txt}")
 
         case "H4" if "UeberschrPara" in cls:
-            lines.append("")
-            lines.append(f"### {txt}")
+            outbuf.append("")
+            outbuf.append(f"### {txt}")
+
+        case "DIV" if "Abs" in cls or \
+                      "Abs_small_indent" in cls or \
+                      "AufzaehlungE0" in cls or \
+                      "AufzaehlungE1" in cls or \
+                      "AufzaehlungE2" in cls:
+            outbuf.append(el.inner_text())
+
+        case "DIV" if "SchlussteilE0" in cls or \
+                      "SchlussteilE1" in cls or \
+                      "SchlussteilE2" in cls:
+            if len(outbuf) and not outbuf[-1].endswith("  "): outbuf[-1] += "  "
+            outbuf.append(el.inner_text())
 
         case "DIV" if "ParagraphMitAbsatzzahl" in cls:
-            parBaseName = el.locator(":scope h5.GldSymbol").inner_text().replace("\xa0", " ").removesuffix(".")
+            parBaseName = el.locator(":scope h5.GldSymbol").inner_text()
+            parBaseName = parBaseName.replace("\xa0", " ").removesuffix(".")
             parName = parBaseName + f" {normdata['title']}"
-            if len(outBuffer) and outBuffer[-1].startswith("### "):
-                lines.append(f"### {parName} # {outBuffer[-1][4:]}")
-                del outBuffer[-1]
+
+            if len(outbuf) and outbuf[-1].startswith("### "):
+                outbuf.append(f"### {parName} # {outbuf[-1][4:]}")
+                del outbuf[-2]
             else:
-                lines.append("")
-                lines.append(f"### {parName}")
-            for item in el.locator(":scope div.content, :scope .SchlussteilE0").all():
-                if item.locator(".Absatzzahl").count():
-                    nr = item.locator(".Absatzzahl").inner_text()
-                    parName = parBaseName + f" {nr} {normdata['title']}"
-                    lines += ["", f"`{parName}.`  "] + item.locator(".Absatzzahl ~ *").inner_text().split("\n")
-                elif item.locator(":scope div.AufzaehlungE1").count():
-                    symName = item.locator("xpath=..").locator(":scope div.SymE1").inner_text().removesuffix(".")
-                    symName = parName.removesuffix(normdata['title']) + f"Z {symName} {normdata['title']}"
-                    if len(lines) and not lines[-1].endswith("  "): lines[-1] += "  "
-                    lines.append(f"`{symName}.` {item.inner_text()}")
-                elif item.get_attribute("class") == "SchlussteilE0":
-                    if len(lines) and not lines[-1].endswith("  "): lines[-1] += "  "
-                    lines.append(f"{item.inner_text()}")
+                outbuf.append("")
+                outbuf.append(f"### {parName}")
+
+            for item in el.locator(":scope > ol > li > div.content").all():
+                nr = item.locator(".Absatzzahl").inner_text()
+                # item.locator(".Absatzzahl").evaluate("el => el.remove()")
+                parName = parBaseName + f" {nr} {normdata['title']}"
+                outbuf.append("")
+                outbuf.append(f"`{parName}.`  ")
+                for child in item.locator(":scope > *").all():
+                    processContentElement(child, outbuf, parName)
+
+        case "OL":
+            for item in el.locator(":scope > li").all():
+                znr = item.locator(":scope > .SymE0, :scope > .SymE1, :scope > .SymE2")
+                if znr.count() == 0: znr = item.locator(".Absatzzahl")
+                znr = znr.inner_text().removesuffix(".")
+                if znr.startswith("("):
+                    subName = parName.removesuffix(normdata['title']) + f"{znr} {normdata['title']}"
+                    outbuf += ["", f"`{subName}.`  "]
                 else:
-                    lines.append(f"{item.tag_name()}: {item.outer_html()}")
+                    if znr[0].isnumeric():
+                        subName = parName.removesuffix(normdata['title']) + f"Z {znr} {normdata['title']}"
+                    else:
+                        subName = parName.removesuffix(normdata['title']) + f"lit. {znr} {normdata['title']}"
+                    if len(outbuf) and not outbuf[-1].endswith("  "): outbuf[-1] += "  "
+                    outbuf.append(f"`{subName}.`")
+                for e in item.locator(":scope > div.content > *").all():
+                    processContentElement(e, outbuf, subName)
 
         case "DIV" if el.locator(":scope h5.GldSymbol").count():
             parName = el.locator(":scope h5.GldSymbol").inner_text()
             parName = parName.replace("\xa0", " ").removesuffix(".") + f" {normdata['title']}"
-            if len(outBuffer) and outBuffer[-1].startswith("### "):
-                lines.append(f"### {parName} # {outBuffer[-1][4:]}")
-                del outBuffer[-1]
+            if len(outbuf) and outbuf[-1].startswith("### "):
+                outbuf.append(f"### {parName} # {outbuf[-1][4:]}")
+                del outbuf[-2]
             else:
-                lines.append("")
-                lines.append(f"### {parName}")
-            lines += ["", f"`{parName}.`  "] + el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
+                outbuf.append("")
+                outbuf.append(f"### {parName}")
+            outbuf += ["", f"`{parName}.`  "]
+            outbuf += el.locator(":scope .GldSymbol ~ *").inner_text().split("\n")
 
         case _:
-            lines.append(f"**FIXME** {el.tag_name()}: {el.outer_html()}")
+            outbuf.append(f"**FIXME** {el.tag_name()}: {el.outer_html()}")
 
-    return lines
+    return parName
 
 if launchEarlyInteractiveRepl:
     embed(globals(), locals())
@@ -247,8 +280,7 @@ while blockIndex is not None and blockIndex < len(blocks):
     print(f"**Quelle:** {normdata['docurl']}  ", file=outFile)
     print("*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. " +
             "(Irrtümer und Fehler vorbehalten.)*", file=outFile)
-    print("", file=outFile)
-    lineNum = 8
+    lineNum = 7
 
     if introSentence is not None and fileIndex == 1:
         print("", file=outFile)
@@ -269,6 +301,7 @@ while blockIndex is not None and blockIndex < len(blocks):
             blk.evaluate("el => el.style.backgroundColor = 'lightblue'")
 
         outBuffer = list()
+        parName = None
 
         if verboseMode:
             print("------")
@@ -276,11 +309,10 @@ while blockIndex is not None and blockIndex < len(blocks):
         for el in blk.locator(":scope > *").all():
             if verboseMode:
                 print("<", f"{el.tag_name()}: {el.outer_html()}")
-            for line in processContentElement(el):
-                if verboseMode:
-                    print(">", line)
-                outBuffer.append(line)
+            parName = processContentElement(el, outBuffer, parName)
             if verboseMode:
+                for line in outBuffer:
+                    print("->", line)
                 print()
 
         if not useHeadlessMode:
@@ -289,7 +321,7 @@ while blockIndex is not None and blockIndex < len(blocks):
         tx = "\n".join(outBuffer)
         fileSize += len(tx)
 
-        if "split" in normdata and tx.startswith("## ") and \
+        if "split" in normdata and tx.startswith("\n## ") and \
                                    fileSize > normdata['split'] and fileSize > len(tx):
             blockIndex -= 1
             break
