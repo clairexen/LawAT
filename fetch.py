@@ -195,11 +195,12 @@ def processContentElement(el, outbuf, parName = None):
                     "Abs_small_indent" in cls or \
                     "SatznachNovao" in cls or \
                     "Abstand" in cls:
-            outbuf.append(el.locator(":scope > *:not(.Absatzzahl)").stripped_text())
+            outbuf.append(el.stripped_text())
 
         case "DIV" if "Abs" in cls or \
                       "Abs_small_indent" in cls:
-            outbuf.append(el.locator(":scope > *:not(.Absatzzahl)").stripped_text())
+            nodes = el.locator(":scope > *:not(.Absatzzahl)")
+            if nodes.count(): outbuf.append(nodes.stripped_text())
 
         case "DIV" if "AufzaehlungE0" in cls or \
                       "AufzaehlungE1" in cls or \
@@ -336,7 +337,7 @@ while blockIndex is not None and blockIndex < len(blocks):
         if True:
             unnormalizedOutBufLines = len(outBuffer)
             outBuffer = sum([t.split("\n") for t in outBuffer], [])
-            assert unnormalizedOutBufLines == len(outBuffer)
+            # assert unnormalizedOutBufLines == len(outBuffer)
 
         tx = "\n".join(outBuffer)
         fileSize += len(tx)

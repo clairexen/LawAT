@@ -100,8 +100,8 @@ die E-Mail-Adresse und die öffentliche IP-Adresse des Absenders einer E-Mail,
 `§ 134 Z 2b StPO.`
 „Anlassdatenspeicherung“ das Absehen von der Löschung der in Z 2 genannten Daten (§ 167 Abs. 2 Z 4 TKG 2021),  
 `§ 134 Z 3 StPO.`
-„Überwachung von Nachrichten“ das Überwachen von Nachrichten und Informationen, die von einer natürlichen Person über ein Kommunikationsnetz (§ 4 Z 1 TKG 2021) oder einen Dienst der Informationsgesellschaft (§ 1 Abs. 1 Z 2 des Notifikationsgesetzes) gesendet, übermittelt oder empfangen werden,
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;3a aufgehoben durch VfGH, <a href="/eli/bgbl/I/2019/113" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2019_I_113', 'BGBl. I Nr. 113/2019', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;113/2019</a>)</span></span></div>  
+„Überwachung von Nachrichten“ das Überwachen von Nachrichten und Informationen, die von einer natürlichen Person über ein Kommunikationsnetz (§ 4 Z 1 TKG 2021) oder einen Dienst der Informationsgesellschaft (§ 1 Abs. 1 Z 2 des Notifikationsgesetzes) gesendet, übermittelt oder empfangen werden,  
+(Anm.: Z 3a aufgehoben durch VfGH, BGBl. I Nr. 113/2019)  
 `§ 134 Z 4 StPO.`
 „optische und akustische Überwachung von Personen“ die Überwachung des Verhaltens von Personen unter Durchbrechung ihrer Privatsphäre und der Äußerungen von Personen, die nicht zur unmittelbaren Kenntnisnahme Dritter bestimmt sind, unter Verwendung technischer Mittel zur Bild- oder Tonübertragung und zur Bild- oder Tonaufnahme ohne Kenntnis der Betroffenen,  
 `§ 134 Z 5 StPO.`
@@ -181,7 +181,7 @@ Eine Überwachung ist nur zulässig, soweit die Verhältnismäßigkeit (§ 5) g
 
 `§ 137 (1) StPO.`  
 Eine Überwachung nach § 136 Abs. 1 Z 1 kann die Kriminalpolizei von sich aus durchführen. Eine Auskunft über Stammdaten nach § 135 Abs. 1a erster Fall ist auf Ersuchen von Kriminalpolizei, Staatsanwaltschaft oder Gericht zu erteilen. Eine Auskunft über Zugangsdaten nach § 135 Abs. 1a zweiter Fall sowie eine Anlassdatenspeicherung nach § 135 Abs. 2b ist von der Staatsanwaltschaft anzuordnen (§ 102). Die übrigen Ermittlungsmaßnahmen nach den §§ 135 bis 136 sind von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen, wobei das Eindringen in Räume nach § 136 Abs. 2 jeweils im Einzelnen einer gerichtlichen Bewilligung bedarf.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;2 aufgehoben durch Art.&nbsp;1 Z&nbsp;21, <a href="/eli/bgbl/I/2018/27" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2018_I_27', 'BGBl. I Nr. 27/2018', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;27/2018</a>)</span></span></p>
+(Anm.: Abs. 2 aufgehoben durch Art. 1 Z 21, BGBl. I Nr. 27/2018)
 
 `§ 137 (3) StPO.`  
 Eine Anlassdatenspeicherung nach § 135 Abs. 2b darf nur für jenen Zeitraum angeordnet werden, der zur Erreichung ihres Zwecks voraussichtlich erforderlich ist, längstens jedoch für zwölf Monate; eine neuerliche Anordnung ist nicht zulässig. Sonstige Ermittlungsmaßnahmen nach §§ 135 bis 136 dürfen nur für einen solchen künftigen, in den Fällen des § 135 Abs. 1a zweiter Fall und Abs. 2 auch vergangenen, Zeitraum angeordnet werden, der zur Erreichung ihres Zwecks voraussichtlich erforderlich ist. Eine neuerliche Anordnung ist jeweils zulässig, soweit auf Grund bestimmter Tatsachen anzunehmen ist, dass die weitere Durchführung der Ermittlungsmaßnahme Erfolg haben werde. Im Übrigen ist die Ermittlungsmaßnahme zu beenden, sobald ihre Voraussetzungen wegfallen.
@@ -244,6 +244,6 @@ in den Fällen der § 135 Abs. 1, Abs. 2 Z 2, 3 und 4, Abs. 2a, Abs. 3 Z�
 
 `§ 140 (2) StPO.`  
 Ergeben sich bei Prüfung der Ergebnisse Hinweise auf die Begehung einer anderen strafbaren Handlung als derjenigen, die Anlass zur Überwachung gegeben hat, so ist mit diesem Teil der Ergebnisse ein gesonderter Akt anzulegen, soweit die Verwendung als Beweismittel zulässig ist (Abs. 1, § 144, § 157 Abs. 2).
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;3 aufgehoben durch <a href="/eli/bgbl/I/2013/204" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2013_I_204', 'BGBl. I Nr. 204/2013', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;204/2013</a>)</span></span></p>
+(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 204/2013)
 
 `END-OF-DATA-FILE`

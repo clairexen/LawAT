@@ -148,7 +148,7 @@ Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem 
 Wer eine Handlung begeht, die geeignet ist, die Gefahr der Verbreitung einer übertragbaren Krankheit unter Menschen herbeizuführen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wenn die Krankheit ihrer Art nach zu den wenn auch nur beschränkt anzeige- oder meldepflichtigen Krankheiten gehört.
 
 ### Fahrlässige Gefährdung von Menschen durch übertragbare Krankheiten
-**FIXME** P: <p class="Abstand AlignLeft"></p>
+
 
 ### § 179 StGB
 

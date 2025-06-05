@@ -78,7 +78,7 @@ Anordnungen und Genehmigungen dieser Ermittlungsmaßnahmen (Abs. 1), ihre geric
 
 `§ 145 (3) StPO.`  
 Solange in Bild- oder Schriftform übertragene Ergebnisse einer Ermittlungsmaßnahme in den Fällen der § 135 Abs. 2, 2a und 3 sowie § 136 Abs. 1 Z 2 und 3 nicht zum Akt genommen werden, sind sie samt den zugehörigen Anordnungen, gerichtlichen Bewilligungen und sonstigen Aktenstücken unter Verschluss aufzubewahren. Näheres hat der Bundesminister für Justiz durch Verordnung zu bestimmen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;4 tritt mit Ablauf des 31.3.2025 außer Kraft)</span></span></p>
+(Anm.: Abs. 4 tritt mit Ablauf des 31.3.2025 außer Kraft)
 
 ### § 147 StPO
 
@@ -87,8 +87,8 @@ Dem Rechtsschutzbeauftragten obliegt die Prüfung und Kontrolle der Anordnung, G
 `§ 147 (1) Z 1 StPO.`
 einer verdeckten Ermittlung nach § 131 Abs. 2,  
 `§ 147 (1) Z 2 StPO.`
-des Abschlusses eines Scheingeschäfts nach § 132, wenn dieses von der Staatsanwaltschaft anzuordnen ist (§ 133 Abs. 1),
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;2a tritt mit Ablauf des 31.3.2025 außer Kraft)</span></span></div>  
+des Abschlusses eines Scheingeschäfts nach § 132, wenn dieses von der Staatsanwaltschaft anzuordnen ist (§ 133 Abs. 1),  
+(Anm.: Z 2a tritt mit Ablauf des 31.3.2025 außer Kraft)  
 `§ 147 (1) Z 3 StPO.`
 einer optischen und akustischen Überwachung von Personen nach § 136 Abs. 1 Z 3,  
 `§ 147 (1) Z 4 StPO.`
@@ -101,13 +101,13 @@ Beantragt die Staatsanwaltschaft die gerichtliche Bewilligung einer in Abs. 1 a
 
 `§ 147 (3) StPO.`  
 Die Anordnung und die Bewilligung der im Abs. 1 angeführten Ermittlungsmaßnahme hat die Staatsanwaltschaft samt Kopien aller Aktenstücke, die für die Beurteilung der Anordnungsgründe von Bedeutung sein können, unverzüglich dem Rechtsschutzbeauftragten zu übermitteln. Diesem steht gegen eine Anordnung nach Abs. 1 Z 1 oder 2 Einspruch, gegen die Bewilligung einer Ermittlungsmaßnahme nach Abs. 1 Z 2a bis 5 Beschwerde zu; dieses Recht erlischt mit dem Ablauf der Rechtsmittelfrist des Beschuldigten.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;3a tritt mit Ablauf des 31.3.2025 außer Kraft)</span></span></p>
+(Anm.: Abs. 3a tritt mit Ablauf des 31.3.2025 außer Kraft)
 
 `§ 147 (4) StPO.`  
 Nach Beendigung der Ermittlungsmaßnahme ist dem Rechtsschutzbeauftragten Gelegenheit zu geben, die gesamten Ergebnisse einzusehen und anzuhören, bevor diese zum Akt genommen werden (§ 145 Abs. 2). Er ist ferner berechtigt, die Vernichtung von Ergebnissen oder Teilen von ihnen (§ 139 Abs. 4) zu beantragen und sich von der ordnungsgemäßen Vernichtung dieser Ergebnisse zu überzeugen. Das Gleiche gilt für die ordnungsgemäße Löschung von Daten, die in einen Datenabgleich einbezogen oder durch ihn gewonnen wurden. Beabsichtigt die Staatsanwaltschaft, einem solchen Antrag des Rechtsschutzbeauftragten nicht nachzukommen, so hat sie unverzüglich die Entscheidung des Gerichts einzuholen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;5 aufgehoben durch <a href="/eli/bgbl/I/2010/108" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2010_I_108', 'BGBl. I Nr. 108/2010', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;108/2010</a>)</span></span></p>
-**FIXME** P: <p class="ErlText AlignJustify">_________________</p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.&nbsp;1: Die Wendung „oder nach §&nbsp;135a“ tritt mit 1.&nbsp;April 2020 in Kraft und mit Ablauf des 31.&nbsp;März 2025 wieder außer Kraft (vgl. §&nbsp;514 Abs.&nbsp;37 Z&nbsp;3).</span></span></p>
+(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 108/2010)  
+_________________  
+(Anm. 1: Die Wendung „oder nach § 135a“ tritt mit 1. April 2020 in Kraft und mit Ablauf des 31. März 2025 wieder außer Kraft (vgl. § 514 Abs. 37 Z 3).
 
 ### § 148 StPO # Schadenersatz
 
@@ -230,9 +230,9 @@ Medieninhaber (Herausgeber), Medienmitarbeiter und Arbeitnehmer eines Medienunte
 Wahlberechtigte darüber, wie sie ein gesetzlich für geheim erklärtes Wahl- oder Stimmrecht ausgeübt haben.
 
 `§ 157 (2) StPO.`  
-Das Recht der in Abs. 1 Z 2 bis 5 angeführten Personen, die Aussage zu verweigern, darf bei sonstiger Nichtigkeit nicht umgangen werden, insbesondere nicht durch Sicherstellung und Beschlagnahme von Unterlagen oder auf Datenträgern gespeicherten Informationen (Anm. 1) oder durch Vernehmung der Hilfskräfte oder der Personen, die zur Ausbildung an der berufsmäßigen Tätigkeit nach Abs. 1 Z 2 bis 4 teilnehmen. Dies gilt ebenso für Unterlagen und Informationen, die sich in der Verfügungsmacht des Beschuldigten oder eines Mitbeschuldigten befinden und zum Zwecke der Beratung oder Verteidigung des Beschuldigten durch eine in Abs. 1 Z 2 genannte Person von dieser oder vom Beschuldigten erstellt wurden.
-**FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(________________</span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;1 Z&nbsp;57 der Novelle <a href="/eli/bgbl/I/2024/157" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2024_I_157', 'BGBl. I Nr. 157/2024', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;157/2024</a> lautet: „§&nbsp;157 Abs.&nbsp;2 wird nach der Wendung „oder auf Datenträgern gespeicherte Informationen“ die Wendung „(§&nbsp;111 Abs.&nbsp;2), durch Beschlagnahme von Datenträgern und Daten“ eingefügt.“. Die Anweisung konnte nicht durchgeführt werden.)</span></span></p>
+Das Recht der in Abs. 1 Z 2 bis 5 angeführten Personen, die Aussage zu verweigern, darf bei sonstiger Nichtigkeit nicht umgangen werden, insbesondere nicht durch Sicherstellung und Beschlagnahme von Unterlagen oder auf Datenträgern gespeicherten Informationen (Anm. 1) oder durch Vernehmung der Hilfskräfte oder der Personen, die zur Ausbildung an der berufsmäßigen Tätigkeit nach Abs. 1 Z 2 bis 4 teilnehmen. Dies gilt ebenso für Unterlagen und Informationen, die sich in der Verfügungsmacht des Beschuldigten oder eines Mitbeschuldigten befinden und zum Zwecke der Beratung oder Verteidigung des Beschuldigten durch eine in Abs. 1 Z 2 genannte Person von dieser oder vom Beschuldigten erstellt wurden.  
+(________________  
+Anm. 1: Art. 1 Z 57 der Novelle BGBl. I Nr. 157/2024 lautet: „§ 157 Abs. 2 wird nach der Wendung „oder auf Datenträgern gespeicherte Informationen“ die Wendung „(§ 111 Abs. 2), durch Beschlagnahme von Datenträgern und Daten“ eingefügt.“. Die Anweisung konnte nicht durchgeführt werden.)
 
 ### § 158 StPO
 

@@ -23,10 +23,10 @@ Ein Beschluß im Sinne des Abs. 1 ist vom Vorsitzenden den Geschworenen mitzute
 
 `§ 325 (1) StPO.`  
 Der Obmann leitet die Beratung der Geschworenen damit ein, daß er ihnen folgende Belehrung vorliest:
-**FIXME** P: <p class="Abs AlignJustify">„Das Gesetz fordert von den Geschworenen nur, daß sie alle für und wider den Angeklagten vorgebrachten Beweismittel sorgfältig und gewissenhaft prüfen und sich dann selbst fragen, welchen Eindruck in der Hauptverhandlung die wider den Angeklagten vorgeführten Beweise und die Gründe seiner Verteidigung auf sie gemacht haben.</p>
-**FIXME** P: <p class="Abs AlignJustify">Nach der durch diese Prüfung der Beweismittel gewonnenen Überzeugung allein haben die Geschworenen ihren Ausspruch über Schuld oder Nichtschuld des Angeklagten zu fällen. Sie dürfen dabei ihrem Eide gemäß der Stimme der Zu- oder Abneigung, der Furcht oder Schadenfreude kein Gehör geben, haben vielmehr mit Unparteilichkeit und Festigkeit so zu entscheiden, wie sie es vor Gott und ihrem Gewissen verantworten können.</p>
-**FIXME** P: <p class="Abs AlignJustify">Die Beratung und Abstimmung hat sich nur auf die den Geschworenen vorgelegten Fragen zu beschränken. Welche gesetzlichen Folgen den Angeklagten treffen, wenn er schuldig gesprochen wird, werden die Geschworenen gemeinsam mit dem Gerichtshof in einer späteren Beratung zu entscheiden haben.</p>
-**FIXME** P: <p class="Abs AlignJustify">Die Geschworenen haben sich bei ihrer Abstimmung ständig ihre beschworene Pflicht vor Augen zu halten, das Gesetz treu zu beobachten und ihm Geltung zu verschaffen. Sie sind dazu berufen, Recht zu sprechen, aber nicht berechtigt, Gnade zu üben.“</p>
+„Das Gesetz fordert von den Geschworenen nur, daß sie alle für und wider den Angeklagten vorgebrachten Beweismittel sorgfältig und gewissenhaft prüfen und sich dann selbst fragen, welchen Eindruck in der Hauptverhandlung die wider den Angeklagten vorgeführten Beweise und die Gründe seiner Verteidigung auf sie gemacht haben.
+Nach der durch diese Prüfung der Beweismittel gewonnenen Überzeugung allein haben die Geschworenen ihren Ausspruch über Schuld oder Nichtschuld des Angeklagten zu fällen. Sie dürfen dabei ihrem Eide gemäß der Stimme der Zu- oder Abneigung, der Furcht oder Schadenfreude kein Gehör geben, haben vielmehr mit Unparteilichkeit und Festigkeit so zu entscheiden, wie sie es vor Gott und ihrem Gewissen verantworten können.
+Die Beratung und Abstimmung hat sich nur auf die den Geschworenen vorgelegten Fragen zu beschränken. Welche gesetzlichen Folgen den Angeklagten treffen, wenn er schuldig gesprochen wird, werden die Geschworenen gemeinsam mit dem Gerichtshof in einer späteren Beratung zu entscheiden haben.
+Die Geschworenen haben sich bei ihrer Abstimmung ständig ihre beschworene Pflicht vor Augen zu halten, das Gesetz treu zu beobachten und ihm Geltung zu verschaffen. Sie sind dazu berufen, Recht zu sprechen, aber nicht berechtigt, Gnade zu üben.“
 
 `§ 325 (2) StPO.`  
 Mehrere Abdrucke dieser Belehrung sowie der Bestimmungen der §§ 326, 329, 330, 331, 332 Abs. 1 bis 3 sowie des § 340 sollen im Beratungszimmer der Geschworenen angeschlagen sein.
@@ -155,7 +155,7 @@ Ist der Angeklagte schuldig befunden worden und ist er nicht nach § 336 oder �
 
 `§ 340 (1) StPO.`  
 Nach Wiedereröffnung der Sitzung läßt der Vorsitzende den Angeklagten vorführen oder vorrufen und fordert den Obmann der Geschworenen auf, den Wahrspruch mitzuteilen. Dieser erhebt sich und spricht:
-**FIXME** P: <p class="Abs AlignJustify">„Die Geschworenen haben nach Eid und Gewissen die an sie gestellten Fragen beantwortet, wie folgt:“</p>
+„Die Geschworenen haben nach Eid und Gewissen die an sie gestellten Fragen beantwortet, wie folgt:“
 
 `§ 340 (2) StPO.`  
 Der Obmann verliest sodann bei sonstiger Nichtigkeit in Gegenwart aller Geschworenen die an sie gerichteten Fragen und unmittelbar nach jeder den beigefügten Wahrspruch der Geschworenen.
@@ -248,7 +248,7 @@ Der Ausspruch über die Strafe kann in den im § 283 angeführten Fällen mit B
 
 `§ 348 StPO.`  
 Für den Gerichtstag beim Obersten Gerichtshof ist dem Angeklagten, wenn er keinen Verteidiger hat, ohne Rücksicht auf Art und Höhe der für die strafbare Handlung, die dem Angeklagten in der Anklageschrift oder im Urteil erster Instanz zur Last gelegt wird, angedrohten Strafe, ein Rechtsanwalt als Verteidiger beizugeben (§ 286 Abs. 4).
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1973_569_0/1973_569_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1973_569_0', 'BGBl. Nr. 569/1973', '2025-06-05')">BGBl. Nr.&nbsp;569/1973</a>, Art.&nbsp;III Z.&nbsp;7)</span></span></p>
+(BGBl. Nr. 569/1973, Art. III Z. 7)
 
 ### § 349 StPO
 

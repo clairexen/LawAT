@@ -280,7 +280,7 @@ Wer Daten eines unbaren Zahlungsmittels mit dem Vorsatz ausspäht,
 dass er oder ein Dritter durch deren Verwendung im Rechtsverkehr unrechtmäßig bereichert werde oder  
 `§ 241h (1) Z 2 StGB.`
 sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) zu ermöglichen,
-ist
+ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
 `§ 241h (2) StGB.`  
 Wer die Tat gewerbsmäßig begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.

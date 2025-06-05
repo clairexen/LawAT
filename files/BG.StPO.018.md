@@ -113,7 +113,7 @@ Sobald die Geschworenen ihre Sitze in der alphabetischen Reihenfolge ihrer Namen
 
 `§ 305 (1) StPO.`  
 Hierauf beeidigt der Vorsitzende bei sonstiger Nichtigkeit die Geschworenen, die in demselben Jahre noch nicht beeidigt worden sind. Er gibt die Namen der schon beeidigten Geschworenen bekannt und erinnert diese an die Bedeutung des von ihnen abgelegten Eides. Sodann fordert er die Geschworenen auf, sich von den Sitzen zu erheben, und hält an sie folgende Anrede:
-**FIXME** P: <p class="Abs AlignJustify">„Sie schwören und geloben vor Gott, die Beweise, die gegen und für den Angeklagten werden vorgebracht werden, mit der gewissenhaftesten Aufmerksamkeit zu prüfen, nichts unerwogen zu lassen, was zum Vorteil oder zum Nachteil des Angeklagten gereichen kann, das Gesetz, dem Sie Geltung verschaffen sollen, treu zu beobachten, vor Ihrem Ausspruch über den Gegenstand der Verhandlung mit niemand außer mit den Mitgliedern des Schwurgerichtshofes und Ihren Mitgeschworenen Rücksprache zu nehmen, der Stimme der Zu- oder Abneigung, der Furcht oder der Schadenfreude kein Gehör zu geben, sondern sich mit Unparteilichkeit und Festigkeit nur nach den für und wider den Angeklagten vorgeführten Beweismitteln und Ihrer darauf gegründeten Überzeugung so zu entscheiden, wie Sie es vor Gott und Ihrem Gewissen verantworten können.“</p>
+„Sie schwören und geloben vor Gott, die Beweise, die gegen und für den Angeklagten werden vorgebracht werden, mit der gewissenhaftesten Aufmerksamkeit zu prüfen, nichts unerwogen zu lassen, was zum Vorteil oder zum Nachteil des Angeklagten gereichen kann, das Gesetz, dem Sie Geltung verschaffen sollen, treu zu beobachten, vor Ihrem Ausspruch über den Gegenstand der Verhandlung mit niemand außer mit den Mitgliedern des Schwurgerichtshofes und Ihren Mitgeschworenen Rücksprache zu nehmen, der Stimme der Zu- oder Abneigung, der Furcht oder der Schadenfreude kein Gehör zu geben, sondern sich mit Unparteilichkeit und Festigkeit nur nach den für und wider den Angeklagten vorgeführten Beweismitteln und Ihrer darauf gegründeten Überzeugung so zu entscheiden, wie Sie es vor Gott und Ihrem Gewissen verantworten können.“
 
 `§ 305 (2) StPO.`  
 Sodann wird jeder noch nicht beeidigte Geschworene einzeln vom Vorsitzenden aufgerufen und antwortet: „Ich schwöre, so wahr mir Gott helfe.“ Das Religionsbekenntnis der Geschworenen macht dabei keinen Unterschied. Nur Geschworene, die keinem Religionsbekenntnis angehören oder deren Bekenntnis die Eidesleistung untersagt, werden durch Handschlag verpflichtet.
@@ -180,7 +180,7 @@ Treffen in der dem Angeklagten in der Anklage zur Last gelegten Tat die Merkmale
 
 `§ 313 StPO.`  
 Sind in der Hauptverhandlung Tatsachen vorgebracht worden, die – wenn sie als erwiesen angenommen werden – die Strafbarkeit ausschließen oder aufheben würden, so ist eine entsprechende Frage nach dem Strafausschließungs- oder Strafaufhebungsgrunde (Zusatzfrage) zu stellen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-05')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;94)</span></span></p>
+(BGBl. Nr. 423/1974, Art. I Z. 94)
 
 ### § 314 StPO
 

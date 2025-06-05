@@ -205,9 +205,10 @@ wenn eine Vorschrift verletzt oder vernachlässigt worden ist, deren Beobachtung
 aus den im § 281 Abs. 1 Z. 6 bis 11 angegebenen Gründen.
 
 `§ 468 (2) StPO.`  
-Die unter Abs. 1 Z. 1 und 3 erwähnten Nichtigkeitsgründe können nur unter den in den §§ 281 und 282 Abs. 2 bezeichneten Bedingungen geltend gemacht werden; doch wird auch der Ankläger der Geltendmachung eines Nichtigkeitsgrundes deshalb nicht verlustig, weil er hinsichtlich eines Formgebrechens die Entscheidung des Richters nicht begehrt und sich die Beschwerde nicht sofort nach Verweigerung oder Verkündung der Entscheidung vorbehalten hat.
-**FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(________</span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;I Z&nbsp;198 lit.&nbsp;b der Novelle <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a> lautet: „Im Abs.&nbsp;1 Z&nbsp;2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt.“. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“.)</span><br></span></p>
+Die unter Abs. 1 Z. 1 und 3 erwähnten Nichtigkeitsgründe können nur unter den in den §§ 281 und 282 Abs. 2 bezeichneten Bedingungen geltend gemacht werden; doch wird auch der Ankläger der Geltendmachung eines Nichtigkeitsgrundes deshalb nicht verlustig, weil er hinsichtlich eines Formgebrechens die Entscheidung des Richters nicht begehrt und sich die Beschwerde nicht sofort nach Verweigerung oder Verkündung der Entscheidung vorbehalten hat.  
+(________  
+Anm. 1: Art. I Z 198 lit. b der Novelle BGBl. I Nr. 93/2007 lautet: „Im Abs. 1 Z 2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt.“. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“.)
+
 
 ### § 469 StPO
 
@@ -228,9 +229,9 @@ wenn schon vor der öffentlichen Verhandlung über die Berufung feststeht, daß 
 ### § 471 StPO
 
 `§ 471 StPO.`  
-Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhandlung sowie für die Entscheidung über die Berufung gelten §§ 233 bis 237, 286 Abs. 1 und 1a (Anm. 1), 287, 288 Abs. 2 Z 3 erster Satz, 289, 290, 293 Abs. 4, 294, 295 sowie 296a sinngemäß, soweit im Folgenden nicht anderes bestimmt wird.
-**FIXME** P: <p class="ErlText AlignJustify"><span class="Kursiv">(___________</span></p>
-**FIXME** P: <p class="ErlText AlignJustify"><span aria-hidden="true"><span class="Kursiv">Anm.&nbsp;1: Art.&nbsp;1 Z&nbsp;75 der Novelle <a href="/eli/bgbl/I/2024/157" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2024_I_157', 'BGBl. I Nr. 157/2024', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;157/2024</a> lautet: „In §&nbsp;471 wird das Zitat „§&nbsp;286 Abs.&nbsp;1 und 1a“ durch das Zitat „§&nbsp;286 Abs.&nbsp;1 und 2 zweiter Satz“ ersetzt“.“. Die Anweisung konnte nicht durchgeführt werden.)</span></span></p>
+Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhandlung sowie für die Entscheidung über die Berufung gelten §§ 233 bis 237, 286 Abs. 1 und 1a (Anm. 1), 287, 288 Abs. 2 Z 3 erster Satz, 289, 290, 293 Abs. 4, 294, 295 sowie 296a sinngemäß, soweit im Folgenden nicht anderes bestimmt wird.  
+(___________  
+Anm. 1: Art. 1 Z 75 der Novelle BGBl. I Nr. 157/2024 lautet: „In § 471 wird das Zitat „§ 286 Abs. 1 und 1a“ durch das Zitat „§ 286 Abs. 1 und 2 zweiter Satz“ ersetzt“.“. Die Anweisung konnte nicht durchgeführt werden.)
 
 ### § 473 StPO
 

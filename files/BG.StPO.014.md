@@ -225,7 +225,7 @@ Richter und Staatsanwälte des Dienststandes, Richteramtsanwärter und Rechtspra
 
 `§ 230a StPO.`  
 Soweit die Öffentlichkeit einer Verhandlung ausgeschlossen worden ist, ist es untersagt, Mitteilungen daraus zu veröffentlichen. Auch kann das Gericht den anwesenden Personen die Geheimhaltung der Tatsachen zur Pflicht machen, die durch die Verhandlung zu ihrer Kenntnis gelangen. Dieser Beschluß ist im Verhandlungsprotokoll zu beurkunden.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-05')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;70)</span></span></p>
+(BGBl. Nr. 423/1974, Art. I Z. 70)
 
 ## 2. Amtsverrichtungen des Vorsitzenden und des Schöffengerichts während der Hauptverhandlung
 

@@ -57,8 +57,8 @@ des Vergehens des grob fahrlässigen umweltgefährdenden Betreibens von Anlagen 
 `§ 30 (1) Z 8a StPO.`
 des Vergehens der grob fahrlässigen Schädigung des Tier- oder Pflanzenbestandes (§ 181g StGB),  
 `§ 30 (1) Z 8b StPO.`
-des Vergehens der grob fahrlässigen Schädigung von Lebensräumen in geschützten Gebieten (§ 181i StGB)
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;9 aufgehoben durch Art.&nbsp;3 Z&nbsp;1, <a href="/eli/bgbl/I/2023/135" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2023_I_135', 'BGBl. I Nr. 135/2023', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;135/2023</a>)</span></span></div>  
+des Vergehens der grob fahrlässigen Schädigung von Lebensräumen in geschützten Gebieten (§ 181i StGB)  
+(Anm.: Z 9 aufgehoben durch Art. 3 Z 1, BGBl. I Nr. 135/2023)  
 `§ 30 (1) Z 9a StPO.`
 des Vergehens der staatsfeindlichen Bewegung (§ 247a Abs. 2 StGB),  
 `§ 30 (1) Z 9b StPO.`
@@ -82,8 +82,8 @@ das Verfahren zur Entscheidung über Anträge auf Beschlagnahme, Verwertung sich
 `§ 31 (1) Z 3 StPO.`
 die Entscheidung über Einsprüche wegen behaupteter Verletzung eines subjektiven Rechts durch die Staatsanwaltschaft oder die Kriminalpolizei (§§ 106 und 107),  
 `§ 31 (1) Z 4 StPO.`
-die Entscheidung über Anträge auf Einstellung des Ermittlungsverfahrens (§ 108),
-**FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;"><span aria-hidden="true"><span class="Kursiv">(Anm.: Z&nbsp;5 aufgehoben durch Art.&nbsp;1 Z&nbsp;8, <a href="/eli/bgbl/I/2024/157" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2024_I_157', 'BGBl. I Nr. 157/2024', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;157/2024</a>)</span></span></div>  
+die Entscheidung über Anträge auf Einstellung des Ermittlungsverfahrens (§ 108),  
+(Anm.: Z 5 aufgehoben durch Art. 1 Z 8, BGBl. I Nr. 157/2024)  
 `§ 31 (1) Z 6 StPO.`
 das Verfahren zur Entscheidung über Anträge auf Anordnungen zur Ausforschung des Beschuldigten (§ 71 Abs. 1 zweiter Satz),  
 `§ 31 (1) Z 7 StPO.`

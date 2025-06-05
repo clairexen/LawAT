@@ -289,7 +289,7 @@ Ergibt sich keine Zuständigkeit nach den Abs. 1 bis 3, so hat die Generalproku
 
 `§ 25 (5) StPO.`  
 Die Zuständigkeit der Staatsanwaltschaft für das Hauptverfahren richtet sich nach der des Gerichts (§ 36).
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;6 aufgehoben durch <a href="/eli/bgbl/I/2016/121" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2016_I_121', 'BGBl. I Nr. 121/2016', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;121/2016</a>)</span></span></p>
+(Anm.: Abs. 6 aufgehoben durch BGBl. I Nr. 121/2016)
 
 `§ 25 (7) StPO.`  
 Liegt der Ort, an dem die Straftat ausgeführt wurde oder ausgeführt werden sollte, in einem anderen Mitgliedstaat der Europäischen Union, so hat die Staatsanwaltschaft unverzüglich bei ihr einlangende Anzeigen eines Opfers mit Wohnsitz im Inland an die zuständige Behörde des anderen Mitgliedstaates weiterzuleiten, es sei denn, dass diese Straftat der inländischen Gerichtsbarkeit unterliegt. Von der Übermittlung kann abgesehen werden, wenn  

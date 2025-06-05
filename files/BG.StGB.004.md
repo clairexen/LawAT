@@ -222,7 +222,7 @@ eine erhebliche Verstümmelung oder eine auffallende Verunstaltung,
 eine Verstümmelung oder sonstige Verletzung der Genitalien, die geeignet ist, eine nachhaltige Beeinträchtigung des sexuellen Empfindens herbeizuführen, oder  
 `§ 85 (1) Z 3 StGB.`
 ein schweres Leiden, Siechtum oder Berufsunfähigkeit des Geschädigten,
-**FIXME** P: <p class="SatznachNovao AlignJustify">herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.</p>
+herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
 `§ 85 (2) StGB.`  
 Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Dauerfolge (Abs. 1) beim Verletzten herbeiführt.
@@ -259,7 +259,7 @@ die verletzte Person mit dem Täter in auf- oder absteigender Linie verwandt ode
 aus der Tat keine Gesundheitsschädigung oder Berufsunfähigkeit einer anderen Person von mehr als vierzehntägiger Dauer erfolgt oder  
 `§ 88 (2) Z 3 StGB.`
 der Täter ein Angehöriger eines gesetzlich geregelten Gesundheitsberufes und die Körperverletzung in Ausübung seines Berufes zugefügt worden,
-**FIXME** P: <p class="SatznachNovao AlignJustify"><span aria-hidden="true">so ist der Täter nach Abs.&nbsp;1 nicht zu bestrafen.</span></p>
+so ist der Täter nach Abs. 1 nicht zu bestrafen.
 
 `§ 88 (3) StGB.`  
 Wer grob fahrlässig (§ 6 Abs. 3) oder in dem in § 81 Abs. 2 bezeichneten Fall einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.

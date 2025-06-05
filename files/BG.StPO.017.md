@@ -66,7 +66,7 @@ Der Oberste Gerichtshof entscheidet über die Beschwerde in nichtöffentlicher S
 
 `§ 285b (5) StPO.`  
 Gibt der Oberste Gerichtshof der Beschwerde Folge, so läuft im Falle des § 285a Z. 1 die Frist zur Ausführung der Nichtigkeitsbeschwerde, sofern diese nicht schon erstattet ist, vom Tage der Bekanntmachung der Entscheidung des Obersten Gerichtshofes; dem Beschwerdeführer ist gleichzeitig mit dieser Bekanntmachung, wenn es nicht bereits geschehen ist, eine Ausfertigung des Urteiles zuzustellen; im übrigen ist nach § 285 vorzugehen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;6 aufgehoben durch <a href="/Dokumente/BgblPdf/1987_605_0/1987_605_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1987_605_0', 'BGBl. Nr. 605/1987', '2025-06-05')">BGBl. Nr.&nbsp;605/1987</a>)</span></span></p>
+(Anm.: Abs. 6 aufgehoben durch BGBl. Nr. 605/1987)
 
 ### § 285c StPO
 
@@ -122,11 +122,11 @@ Im Fall einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs.
 
 `§ 286 (1) StPO.`  
 Vom Termin des Gerichtstags zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde sind die Beteiligten des Verfahrens zu verständigen. Der Angeklagte, sein Verteidiger sowie der allenfalls einschreitende Privatbeteiligte oder Privatankläger sind so rechtzeitig zu laden, dass ihnen eine Vorbereitungszeit von acht Tagen verbleibt. In der Ladung sind sie darauf aufmerksam zu machen, dass im Fall ihres Ausbleibens ihre Ausführungen und Beschwerden vorgetragen und der Entscheidung zu Grunde gelegt werden würden.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;1a aufgehoben durch Art.&nbsp;1 Z&nbsp;66, <a href="/eli/bgbl/I/2024/157" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2024_I_157', 'BGBl. I Nr. 157/2024', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;157/2024</a>)</span></span></p>
+(Anm.: Abs. 1a aufgehoben durch Art. 1 Z 66, BGBl. I Nr. 157/2024)
 
 `§ 286 (2) StPO.`  
 Ist der Angeklagte verhaftet, so ist dessen Vorführung zum Gerichtstag zu veranlassen, es sei denn, dieser hat durch seinen Verteidiger ausdrücklich darauf verzichtet. In den in § 174 Abs. 1 zweiter Satz geregelten Fällen kann gemäß § 153 Abs. 4 vorgegangen werden.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs. 3 aufgehoben durch <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a>)</span></span></p>
+(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)
 
 `§ 286 (4) StPO.`  
 Hat er noch keinen Verteidiger, so ist ihm von Amts wegen ein Rechtsanwalt als Verteidiger beizugeben (§ 61 Abs. 3). Liegen die Voraussetzungen des § 61 Abs. 2 vor, so ist dem Angeklagten nach dieser Gesetzesstelle ein Rechtsanwalt als Verteidiger beizugeben.

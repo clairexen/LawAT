@@ -39,8 +39,8 @@ die Kosten der Verteidiger und anderer Vertreter;
 einen Pauschalbetrag als Anteil an den Kosten der Prozessbegleitung (§ 66b) bis zu 1 000 Euro.
 
 `§ 381 (2) StPO.`  
-Diese Kosten werden, soweit sich aus besonderen gesetzlichen Vorschriften nichts anderes ergibt, mit Ausnahme der unter Abs. 1 Z 3 und 7 bis 9 bezeichneten Kosten vom Bunde vorgeschossen, vorbehaltlich des Rückersatzes nach den Bestimmungen der §§ 389 bis
-**FIXME** P: <p class="ErlText AlignJustify">391.</p>
+Diese Kosten werden, soweit sich aus besonderen gesetzlichen Vorschriften nichts anderes ergibt, mit Ausnahme der unter Abs. 1 Z 3 und 7 bis 9 bezeichneten Kosten vom Bunde vorgeschossen, vorbehaltlich des Rückersatzes nach den Bestimmungen der §§ 389 bis  
+391.
 
 `§ 381 (3) StPO.`  
 Der Pauschalkostenbeitrag (Abs. 1 Z 1) ist innerhalb der folgenden Grenzen zu bemessen (Abs. 5):  
@@ -155,7 +155,7 @@ Ist nach den im Verfahren hervorgekommenen Umständen mit Grund anzunehmen, daß
 
 `§ 391 (3) StPO.`  
 Gegen Entscheidungen der Gerichte, womit ein Antrag abgelehnt wird, die Kosten für uneinbringlich zu erklären, ist kein Rechtsmittel zulässig.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-05')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;4)</span></span></p>
+(BGBl. Nr. 145/1969, Art. II Z. 4)
 
 ### § 393 StPO
 
@@ -167,7 +167,7 @@ Ein Angeklagter, dem ein Verteidiger nach § 61 Abs. 2 beigegeben wurde, hat e
 
 `§ 393 (2) StPO.`  
 Einem nach § 61 Abs. 2 beigegebenen Verteidiger sind, soweit nicht nach § 56 Abs. 2 vorzugehen ist, auf sein Verlangen die nötig gewesenen und wirklich bestrittenen baren Auslagen vom Bund zu vergüten. Zu diesen Auslagen gehören auch die Kosten eines Dolmetschers, soweit dessen Beiziehung zu den Besprechungen zwischen dem Verteidiger und dem Beschuldigten notwendig war; solche Kosten sind bis zu dem Ausmaß zu vergüten, das sich in sinngemäßer Anwendung der Bestimmungen des Gebührenanspruchsgesetzes 1975 ergibt.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;3 aufgehoben durch <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a>)</span></span></p>
+(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)
 
 `§ 393 (4) StPO.`  
 In den Fällen, in denen dem Beschuldigten, dem Privatankläger, dem Privatbeteiligten (§ 72) oder dem, der eine wissentlich falsche Anzeige gemacht hat, der Ersatz der Prozeßkosten überhaupt zur Last fällt, haben diese Personen auch alle Kosten der Verteidigung und der Vertretung zu ersetzen.
@@ -214,7 +214,7 @@ Wird über die Höhe der gemäß § 393 Abs. 4 oder Abs. 4a zu ersetzenden Ko
 
 `§ 395 (2) StPO.`  
 Bei der Bemessung der Gebühren ist auch zu prüfen, ob die vorgenommenen Vertretungshandlungen notwendig waren oder sonst nach der Beschaffenheit des Falles gerechtfertigt sind. Die Kosten des Bemessungsverfahrens sind als Kosten des Strafverfahrens anzusehen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;3 aufgehoben durch <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a>)</span></span></p>
+(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)
 
 `§ 395 (4) StPO.`  
 Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss gemäß Abs. 1 kommt aufschiebende Wirkung zu.
@@ -239,13 +239,13 @@ Die Kriminalpolizei ist durch das Gericht, das in erster Instanz entschieden hat
 
 `§ 397 StPO.`  
 Jedes Strafurteil ist ungesäumt in Vollzug zu setzen, sobald feststeht, daß der Vollstreckung kein gesetzliches Hindernis und insbesondere kein rechtzeitig und von einem hiezu Berechtigten ergriffenes Rechtsmittel entgegensteht, dem das Gesetz aufschiebende Wirkung beimißt (§ 284 Abs. 3, § 294 Abs. 1 und § 344). Ist ein Rechtsmittel zugunsten des verhafteten Angeklagten von solchen Personen ergriffen worden, die hiezu gegen seinen Willen nicht berechtigt sind, so ist der Angeklagte hievon in Kenntnis zu setzen und über den dadurch herbeigeführten Aufschub der Strafvollstreckung zu belehren. Dasselbe hat zu geschehen, wenn es zweifelhaft ist, ob der verhaftete Angeklagte der Einlegung des Rechtsmittels durch seinen Verteidiger zugestimmt habe. Die Anordnung des Vollzuges des Strafurteiles steht dem Vorsitzenden des erkennenden Gerichtes zu.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-05')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;5)</span></span></p>
+(BGBl. Nr. 145/1969, Art. II Z. 5)
 
 ### § 398 StPO
 
 `§ 398 StPO.`  
 Jede Rechtswirkung eines Strafurteils beginnt, wenn nichts anderes bestimmt ist, mit seiner Rechtskraft.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-05')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;112)</span></span></p>
+(BGBl. Nr. 423/1974, Art. I Z. 112)
 
 ### § 399 StPO
 
@@ -274,7 +274,7 @@ Einen Beschluß nach Abs. 1 hat der Vorsitzende auf Antrag oder von Amts wegen 
 
 `§ 402 StPO.`  
 Ist in einem Strafurteil auf den Verlust eines Rechtes erkannt worden oder ist in einem Gesetz vorgesehen, daß die Verurteilung einen solchen Verlust nach sich zieht oder nach sich ziehen kann, so hat das Strafgericht die rechtskräftige Verurteilung der in Betracht kommenden Stelle bekanntzumachen. Sofern dieser Stelle nicht schon nach anderen gesetzlichen Bestimmungen eine Urteilsausfertigung zugestellt werden muß, ist ihr eine solche Ausfertigung auf ihr Ersuchen zu übersenden.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-05')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;7)</span></span></p>
+(BGBl. Nr. 145/1969, Art. II Z. 7)
 
 ### § 403 StPO
 
@@ -290,7 +290,7 @@ Ist in einem Strafurteil auf den Verlust eines Rechtes erkannt worden oder ist i
 
 `§ 405 StPO.`  
 Wie auf Freiheitsstrafen lautende Strafurteile zu vollziehen sind, bestimmen besondere Gesetze.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1969_145_0/1969_145_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1969_145_0', 'BGBl. Nr. 145/1969', '2025-06-05')">BGBl. Nr.&nbsp;145/1969</a>, Art.&nbsp;II Z.&nbsp;8)</span></span></p>
+(BGBl. Nr. 145/1969, Art. II Z. 8)
 
 ### § 406 StPO
 
@@ -301,7 +301,7 @@ Wie auf Freiheitsstrafen lautende Strafurteile zu vollziehen sind, bestimmen bes
 
 `§ 407 StPO.`  
 Von der Verurteilung einer Person, die nicht die österreichische Staatsbürgerschaft besitzt, ist die für die Ausübung der Fremdenpolizei zuständige Behörde unverzüglich zu verständigen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(<a href="/Dokumente/BgblPdf/1974_423_0/1974_423_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1974_423_0', 'BGBl. Nr. 423/1974', '2025-06-05')">BGBl. Nr.&nbsp;423/1974</a>, Art.&nbsp;I Z.&nbsp;114)</span></span></p>
+(BGBl. Nr. 423/1974, Art. I Z. 114)
 
 ### § 408 StPO
 
@@ -343,7 +343,7 @@ In die gewährte Aufschubsfrist werden Zeiten, in denen der Zahlungspflichtige a
 
 `§ 409a (4) StPO.`  
 Die Entrichtung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen darf nur mit der Maßgabe gestattet werden, daß alle noch aushaftenden Teilbeträge sofort fällig werden, wenn der Zahlungspflichtige mit mindestens zwei Ratenzahlungen in Verzug ist.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;5 aufgehoben durch <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a>)</span></span></p>
+(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 93/2007)
 
 ### § 409b StPO
 
@@ -357,7 +357,7 @@ Geldstrafen, verfallene Geldbeträge und Veräußerungserlöse (§§ 115e, 377)
 
 `§ 410 (1) StPO.`  
 Über die nachträgliche Strafmilderung, die Neubemessung des Tagessatzes sowie die Änderung der Entscheidung über den Verfall, den erweiterten Verfall (§ 31a StGB) oder über das Tätigkeitsverbot (§ 220b Abs. 3 StGB) entscheidet das Gericht, das in erster Instanz erkannt hat, auf Antrag oder von Amts wegen nach Erhebung der für die Entscheidung maßgebenden Umstände mit Beschluß.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;2 aufgehoben durch <a href="/eli/bgbl/I/2007/93" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2007_I_93', 'BGBl. I Nr. 93/2007', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;93/2007</a>)</span></span></p>
+(Anm.: Abs. 2 aufgehoben durch BGBl. I Nr. 93/2007)
 
 `§ 410 (3) StPO.`  
 Wenn der Zweck der Entscheidung nach Abs. 1 sonst ganz oder teilweise vereitelt werden könnte, hat das Gericht den Vollzug der Strafe, des Verfalls oder des erweiterten Verfalls bis zur Rechtskraft seiner Entscheidung vorläufig zu hemmen oder zu unterbrechen, es sei denn, daß ihm ein offenbar aussichtsloser Antrag vorliegt.

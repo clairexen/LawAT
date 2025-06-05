@@ -169,7 +169,7 @@ vorläufige Bewährungshilfe nach § 179,
 die Leistung einer Sicherheit nach den §§ 180 und 181,  
 `§ 173 (5) Z 9 StPO.`
 mit Zustimmung des Beschuldigten die Weisung, sich einer Entwöhnungsbehandlung, sonst einer medizinischen Behandlung oder einer Psychotherapie (§ 51 Abs. 3 StGB) oder einer gesundheitsbezogenen Maßnahme (§ 11 Abs. 2 SMG) zu unterziehen.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Abs.&nbsp;6 aufgehoben durch VfGH, <a href="/eli/bgbl/I/2023/1" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2023_I_1', 'BGBl. I Nr. 1/2023', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;1/2023</a>)</span></span></p>
+(Abs. 6 aufgehoben durch VfGH, BGBl. I Nr. 1/2023)
 
 ### § 173a StPO # Hausarrest
 

@@ -79,7 +79,7 @@ Nach sechzig Jahren ab den in Abs. 2 angeführten Zeitpunkten sind alle persone
 
 `§ 75 (4) StPO.`  
 Personenbezogene Daten, die ausschließlich auf Grund einer Identitätsfeststellung (§ 118), einer körperlichen Untersuchung (§ 123) oder einer molekulargenetischen Analyse (§ 124) gewonnen wurden, dürfen nur solange verarbeitet werden, als wegen der Art der Ausführung der Tat, der Persönlichkeit der betroffenen Person oder auf Grund anderer Umstände zu befürchten ist, dass diese Person eine strafbare Handlung mit nicht bloß leichten Folgen begehen werde. Wird der Angeklagte rechtskräftig freigesprochen oder das Ermittlungsverfahren ohne Vorbehalt späterer Verfolgung eingestellt, so sind diese personenbezogenen Daten zu löschen. Die §§ 73 und 74 SPG bleiben hievon unberührt.
-**FIXME** P: <p class="Abs AlignJustify"><span aria-hidden="true"><span class="Kursiv">(Anm.: Abs.&nbsp;5 aufgehoben durch <a href="/eli/bgbl/I/2014/71" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblAuth', 'BGBLA_2014_I_71', 'BGBl. I Nr. 71/2014', '2025-06-05')">BGBl.&nbsp;I Nr.&nbsp;71/2014</a>)</span></span></p>
+(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 71/2014)
 
 ## 2. Abschnitt # Amts- und Rechtshilfe, Akteneinsicht
 
