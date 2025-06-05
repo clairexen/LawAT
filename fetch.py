@@ -15,6 +15,7 @@ verboseMode = False
 useHeadlessMode = True
 printHttpRequests = False
 launchInteractiveRepl = False
+launchEarlyInteractiveRepl = False
 
 defaultNorm = "BG.StGB"
 selectParagraph = None
@@ -35,6 +36,7 @@ def usage():
     print("    -P, --no-proxy ...... do not use local proxy on port 8080")
     print("    -H, --no-headless ... no headless mode (i.e. show browser window)")
     print("    -i, --interactive ... launch interactive REPL before shutting down")
+    print("    -e, --early ......... launch interactive REPL at an arlier time")
     print("    -r, --print-http .... print a log line for each HTTP request")
     print("    -s N, --select=N .... select a single paragraph")
     print("    -v, --verbose ....... verbose log outut")
@@ -46,9 +48,9 @@ def usage():
     print()
 
 try:
-    opts, args = getopt.getopt(sys.argv[1:], "hs:PHirv",
+    opts, args = getopt.getopt(sys.argv[1:], "hs:PHierv",
                                ["help", "select=", "no-proxy", "no-headless",
-                                "interactive", "print-http", "verbose"])
+                                "interactive", "early", "print-http", "verbose"])
 except getopt.GetoptError as err:
     # print help information and exit:
     print(err)  # will print something like "option -a not recognized"
@@ -67,6 +69,8 @@ for o, a in opts:
         printHttpRequests = True
     elif o in ("-i", "--interactive"):
         launchInteractiveRepl = True
+    elif o in ("-e", "--early"):
+        launchEarlyInteractiveRepl = True
     elif o in ("-v", "--verbose"):
         verboseMode = True
     elif o in ("-s", "--select"):
@@ -87,6 +91,7 @@ if (normkey := args[0]) not in normindex:
     assert False, "unrecognized shortname"
 normdata = normindex[normkey]
 
+os.system(f"mkdir -p files; rm -vf files/{normkey}.*")
 
 #%% Initialize Browser Context
 
@@ -137,13 +142,20 @@ infoBlocks = page.locator(".documentContent").nth(0)
 lastchange = infoBlocks.locator(":scope h3").get_by_text("Änderung") \
                    .locator(":scope ~ div .ErlText").nth(-1).inner_text()
 
-# Remove changelog and metadata contentBlocks
-infoBlocks.evaluate("el => el.remove()")
+# Extract intro sentence
+if (p := infoBlocks.locator(":scope p.PromKlEinlSatz")).count() == 1:
+    introSentence = p.inner_text().strip()
+else:
+    introSentence = None
 
 # Remove all "sr-only" elements from the DOM tree
 page.locator(".sr-only").evaluate_all("els => els.forEach(el => el.remove())")
 
-blocks = page.locator("div.contentBlock").all()
+# Initial State
+fileIndex = 0
+blockIndex = 0
+indexData = list()
+outBuffer = list()
 
 # Process a single child node of the current div.contentBlock
 def processContentElement(el):
@@ -203,9 +215,14 @@ def processContentElement(el):
 
     return lines
 
-fileIndex = 0
-blockIndex = 0
-indexData = list()
+if launchEarlyInteractiveRepl:
+    embed(globals(), locals())
+
+# Remove changelog and metadata contentBlocks
+infoBlocks.evaluate("el => el.remove()")
+
+blocks = page.locator("div.contentBlock").all()
+
 while blockIndex is not None and blockIndex < len(blocks):
     fileSize = 0
     fileIndex += 1
@@ -230,6 +247,11 @@ while blockIndex is not None and blockIndex < len(blocks):
             "(Irrtümer und Fehler vorbehalten.)*", file=outFile)
     print("", file=outFile)
     lineNum = 8
+
+    if introSentence is not None and fileIndex == 1:
+        print("", file=outFile)
+        print(introSentence, file=outFile)
+        lineNum += 2
 
     # Process Content Blocks
     while blockIndex < len(blocks):
@@ -285,7 +307,7 @@ while blockIndex is not None and blockIndex < len(blocks):
                 stopList = [stopList]
             for line in outBuffer:
                 for par in stopList:
-                    if line.startswith(f"### {par} {normdata['title']}."):
+                    if line.startswith(f"### {par} {normdata['title']}"):
                         if par == stopList[-1]:
                             blockIndex = None
                         blk = None

@@ -2,23 +2,24 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Dreiundzwanzigster Abschnitt | Amtsanmaßung und Erschleichung eines Amtes
+## Dreiundzwanzigster Abschnitt # Amtsanmaßung und Erschleichung eines Amtes
 
-### § 314 StGB. Amtsanmaßung
+### § 314 StGB # Amtsanmaßung
 
 **§ 314 StGB.**  
  Wer sich die Ausübung eines öffentlichen Amtes anmaßt oder, ohne dazu befugt zu sein, eine Handlung vornimmt, die nur kraft eines öffentlichen Amtes vorgenommen werden darf, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
-### § 315 StGB. Erschleichung eines Amtes
+### § 315 StGB # Erschleichung eines Amtes
 
 **§ 315 StGB.**  
  Wer wissentlich eine zur Übertragung eines öffentlichen Amtes berufene Stelle über eine Tatsache täuscht, die nach einem Gesetz oder einer Rechtsverordnung die Übertragung eines bestimmten öffentlichen Amtes ausschließen würde, und dadurch bewirkt, daß ihm dieses Amt übertragen wird, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-## Vierundzwanzigster Abschnitt | Störung der Beziehungen zum Ausland
+## Vierundzwanzigster Abschnitt # Störung der Beziehungen zum Ausland
 
-### § 316 StGB. Hochverräterische Angriffe gegen einen fremden Staat
+### § 316 StGB # Hochverräterische Angriffe gegen einen fremden Staat
 
 **§ 316 (1) StGB.**  
 Wer es im Inland unternimmt (§ 242 Abs. 2), mit Gewalt oder durch Drohung mit Gewalt die Verfassung eines fremden Staates zu ändern oder ein zu einem fremden Staat gehörendes Gebiet abzutrennen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
@@ -26,12 +27,12 @@ Wer es im Inland unternimmt (§ 242 Abs. 2), mit Gewalt oder durch Drohung mit
 **§ 316 (2) StGB.**  
 § 243 gilt entsprechend.
 
-### § 317 StGB. Herabwürdigung fremder Symbole
+### § 317 StGB # Herabwürdigung fremder Symbole
 
 **§ 317 StGB.**  
  Wer auf eine Art, daß die Tat einer breiten Öffentlichkeit bekannt wird, in gehässiger Weise eine Fahne oder ein Hoheitszeichen eines fremden Staates oder einer zwischenstaatlichen Einrichtung, die von einer inländischen Behörde oder von einer Vertretung des fremden Staates oder der zwischenstaatlichen Einrichtung nach den allgemeinen Regeln des Völkerrechts oder nach zwischenstaatlichen Vereinbarungen angebracht worden ist, oder die bei einem öffentlichen Anlaß vorgetragene Hymne eines fremden Staates beschimpft, verächtlich macht oder sonst herabwürdigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
-### § 318 StGB. Voraussetzungen der Bestrafung
+### § 318 StGB # Voraussetzungen der Bestrafung
 
 **§ 318 (1) StGB.**  
 Der Täter ist in den Fällen der §§ 316 und 317 nur mit Ermächtigung der Bundesregierung zu verfolgen.
@@ -42,12 +43,12 @@ Die Bestimmungen der §§ 316 und 317 sind nur anzuwenden, wenn die Republik Ö
 **§ 318 (3) StGB.**  
 Wegen der im § 317 mit Strafe bedrohten Handlungen gegen eine zwischenstaatliche Einrichtung ist der Täter nur zu bestrafen, wenn die Republik Österreich dieser Einrichtung angehört.
 
-### § 319 StGB. Militärischer Nachrichtendienst für einen fremden Staat
+### § 319 StGB # Militärischer Nachrichtendienst für einen fremden Staat
 
 **§ 319 StGB.**  
  Wer im Inland für eine fremde Macht oder eine über- oder zwischenstaatliche Einrichtung einen militärischen Nachrichtendienst einrichtet oder betreibt oder einen solchen Nachrichtendienst wie immer unterstützt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
-### § 320 StGB. Verbotene Unterstützung von Parteien bewaffneter Konflikte
+### § 320 StGB # Verbotene Unterstützung von Parteien bewaffneter Konflikte
 
 **§ 320 (1) StGB.**  
 Wer wissentlich im Inland während eines Krieges oder eines bewaffneten Konfliktes, an denen die Republik Österreich nicht beteiligt ist, oder bei unmittelbar drohender Gefahr eines solchen Krieges oder Konfliktes für eine der Parteien
@@ -63,9 +64,9 @@ Abs. 1 ist in den Fällen nicht anzuwenden, in denen
 2. ein Beschluss auf Grund des Titels V des Vertrages über die Europäische Union,
 3. ein Beschluss im Rahmen der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) oder
 4. eine sonstige Friedensoperation entsprechend den Grundsätzen der Satzung der Vereinten Nationen, wie etwa Maßnahmen zur Abwendung einer humanitären Katastrophe oder zur Unterbindung schwerer und systematischer Menschenrechtsverletzungen, im Rahmen einer internationalen Organisation
-## Fünfundzwanzigster Abschnitt | Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen
+## Fünfundzwanzigster Abschnitt # Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen
 
-### § 321 StGB. Völkermord
+### § 321 StGB # Völkermord
 
 **§ 321 (1) StGB.**  
 Wer in der Absicht, eine durch ihre Zugehörigkeit zu einer Kirche oder Religionsgesellschaft, zu einer Rasse, einem Volk, einem Volksstamm oder einem Staat bestimmte Gruppe als solche ganz oder teilweise zu vernichten, Mitglieder der Gruppe tötet, ihnen schwere körperliche (§ 84 Abs. 1) oder seelische Schäden zufügt, die Gruppe Lebensbedingungen unterwirft, die geeignet sind, den Tod aller Mitglieder oder eines Teiles der Gruppe herbeizuführen, Maßnahmen verhängt, die auf die Geburtenverhinderung innerhalb der Gruppe gerichtet sind, oder Kinder der Gruppe mit Gewalt oder durch Drohung mit Gewalt in eine andere Gruppe überführt, ist mit lebenslanger Freiheitsstrafe zu bestrafen.
@@ -73,7 +74,7 @@ Wer in der Absicht, eine durch ihre Zugehörigkeit zu einer Kirche oder Religion
 **§ 321 (2) StGB.**  
 Wer mit einem anderen die gemeinsame Ausführung einer der im Abs. 1 bezeichneten strafbaren Handlungen verabredet, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
-### § 321a StGB. Verbrechen gegen die Menschlichkeit
+### § 321a StGB # Verbrechen gegen die Menschlichkeit
 
 **§ 321a (1) StGB.**  
 Wer im Rahmen eines ausgedehnten oder systematischen Angriffs gegen eine Zivilbevölkerung
@@ -97,7 +98,7 @@ Wer im Rahmen eines in Abs. 1 bezeichneten Angriffs
 2. einer Person unter Verstoß gegen das Völkerrecht in schwerwiegender Weise die persönliche Freiheit entzieht oder
 3. eine identifizierbare Gruppe oder Gemeinschaft verfolgt, indem er ihr aus politischen, rassischen, nationalen, ethnischen, kulturellen oder religiösen Gründen, aus Gründen des Geschlechts oder aus anderen nach dem Völkerrecht als unzulässig anerkannten Gründen grundlegende Menschenrechte entzieht oder diese wesentlich einschränkt,
 
-### § 321b StGB. Kriegsverbrechen gegen Personen
+### § 321b StGB # Kriegsverbrechen gegen Personen
 
 **§ 321b (1) StGB.**  
 Wer im Zusammenhang mit einem bewaffneten Konflikt eine nach dem humanitären Völkerrecht zu schützende Person tötet (§ 75), ist mit lebenslanger Freiheitsstrafe zu bestrafen.
@@ -138,14 +139,14 @@ Wer im Zusammenhang mit einem internationalen bewaffneten Konflikt
 **§ 321b (6) StGB.**  
 Nach dem humanitären Völkerrecht zu schützende Personen sind geschützte Personen im Sinne der Genfer Abkommen zum Schutze der Opfer des Krieges, BGBl. Nr. 155/1953, und deren Zusatzprotokolle I und II (Zusatzprotokoll zu den Genfer Abkommen über den Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I) samt Anhängen und Zusatzprotokoll zu den Genfer Abkommen über den Schutz der Opfer nicht internationaler bewaffneter Konflikte (Protokoll II) samt Erklärung und Vorbehalten, BGBl. Nr. 527/1982) insbesondere Verwundete, Kranke, Schiffbrüchige, Angehörige der Streitkräfte und Kämpfer der gegnerischen Partei, die sich bedingungslos ergeben haben oder sonst außer Gefecht sind, Kriegsgefangene und Zivilpersonen, sofern und solange letztere nicht unmittelbar an Feindseligkeiten teilnehmen.
 
-### § 321c StGB. Kriegsverbrechen gegen Eigentum und sonstige Rechte
+### § 321c StGB # Kriegsverbrechen gegen Eigentum und sonstige Rechte
 
 **§ 321c StGB.**  
  Wer im Zusammenhang mit einem bewaffneten Konflikt
-**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">plündert oder, ohne dass dies durch die Erfordernisse des bewaffneten Konflikts geboten ist, sonst in erheblichem Umfang völkerrechtswidrig Sachen der gegnerischen Partei oder von deren Angehörigen zerstört, sich aneignet oder beschlagnahmt,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">Kulturgut im Sinne der Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten, <a href="/Dokumente/BgblPdf/1964_58_0/1964_58_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1964_58_0', 'BGBl. Nr. 58/1964', '2025-06-04')">BGBl. Nr.&nbsp;58/1964</a>, in großem Ausmaß zerstört oder sich aneignet, oder</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">völkerrechtswidrig anordnet, dass Rechte und Forderungen aller oder eines Teils der Angehörigen der gegnerischen Partei aufgehoben oder ausgesetzt werden oder vor Gericht nicht einklagbar sind,</div></div></li></ol>
+**FIXME** OL: <ol class="wai-list" style="margin-left: 27pt;"><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">1.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">plündert oder, ohne dass dies durch die Erfordernisse des bewaffneten Konflikts geboten ist, sonst in erheblichem Umfang völkerrechtswidrig Sachen der gegnerischen Partei oder von deren Angehörigen zerstört, sich aneignet oder beschlagnahmt,</div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">2.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify"><span aria-hidden="true">Kulturgut im Sinne der Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten, <a href="/Dokumente/BgblPdf/1964_58_0/1964_58_0.pdf" target="_blank" onclick="return LinkMarkup_ShowBgblInformation(this, 'BgblPdf', '1964_58_0', 'BGBl. Nr. 58/1964', '2025-06-05')">BGBl. Nr.&nbsp;58/1964</a>, in großem Ausmaß zerstört oder sich aneignet, oder</span></div></div></li><li aria-level="1"><div class="SymE1"><div class="AufzaehlungE1"><span aria-hidden="true">3.</span></div></div><div class="content"><div class="AufzaehlungE1 AlignJustify">völkerrechtswidrig anordnet, dass Rechte und Forderungen aller oder eines Teils der Angehörigen der gegnerischen Partei aufgehoben oder ausgesetzt werden oder vor Gericht nicht einklagbar sind,</div></div></li></ol>
 **FIXME** DIV: <div class="SchlussteilE0">ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.</div>
 
-### § 321d StGB. Kriegsverbrechen gegen internationale Missionen und Missbrauch von Schutz- und Nationalitätszeichen
+### § 321d StGB # Kriegsverbrechen gegen internationale Missionen und Missbrauch von Schutz- und Nationalitätszeichen
 
 **§ 321d (1) StGB.**  
 Wer im Zusammenhang mit einem bewaffneten Konflikt
@@ -155,7 +156,7 @@ Wer im Zusammenhang mit einem bewaffneten Konflikt
 **§ 321d (2) StGB.**  
 Wer im Zusammenhang mit einem bewaffneten Konflikt die durch die Genfer Abkommen zum Schutze der Opfer des Krieges oder deren Protokoll III anerkannten Schutzzeichen, die Parlamentärflagge oder die Flagge, die militärischen Abzeichen oder die Uniform des Feindes, neutraler oder anderer nicht am Konflikt beteiligter Staaten, oder der Vereinten Nationen missbraucht und dadurch die schwere Verletzung einer Person (§ 84 Abs. 1) verursacht, ist mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat den Tod einer Person zu Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
 
-### § 321e StGB. Kriegsverbrechen des Einsatzes verbotener Methoden der Kriegsführung
+### § 321e StGB # Kriegsverbrechen des Einsatzes verbotener Methoden der Kriegsführung
 
 **§ 321e (1) StGB.**  
 Wer im Zusammenhang mit einem bewaffneten Konflikt
@@ -174,7 +175,7 @@ Wer im Zusammenhang mit einem bewaffneten Konflikt
 **§ 321e (2) StGB.**  
 Hat eine Tat nach Abs. 1 Z 1 bis 10 die schwere Verletzung (§ 84 Abs. 1) einer nach dem humanitären Völkerrecht zu schützenden Person (§ 321b Abs. 6) zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie den Tod einer solchen Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
 
-### § 321f StGB. Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung
+### § 321f StGB # Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung
 
 **§ 321f (1) StGB.**  
 Wer im Zusammenhang mit einem bewaffneten Konflikt
@@ -185,7 +186,7 @@ Wer im Zusammenhang mit einem bewaffneten Konflikt
 **§ 321f (2) StGB.**  
 Hat die Tat die schwere Körperverletzung einer Person (§ 84 Abs. 1) zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie den Tod einer Person zur Folge oder sind die verwendeten Mittel (Abs. 1) zur Massenvernichtung bestimmt und geeignet, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
 
-### § 321g StGB. Verantwortlichkeit als Vorgesetzter
+### § 321g StGB # Verantwortlichkeit als Vorgesetzter
 
 **§ 321g (1) StGB.**  
 Wer es als Vorgesetzter (Abs. 2) unterlässt, einen Untergebenen, der seiner tatsächlichen Befehls- oder Führungsgewalt und Kontrolle untersteht, daran zu hindern, eine Tat nach diesem Abschnitt zu begehen, ist wie ein Täter der von dem Untergebenen begangenen Tat zu bestrafen.
@@ -193,7 +194,7 @@ Wer es als Vorgesetzter (Abs. 2) unterlässt, einen Untergebenen, der seiner ta
 **§ 321g (2) StGB.**  
 Vorgesetzte sind militärische oder zivile Vorgesetzte sowie Personen, die ohne militärischer oder ziviler Vorgesetzter zu sein, in einer Truppe, in einer zivilen Organisation oder in einem Unternehmen tatsächliche Führungsgewalt und Kontrolle ausüben.
 
-### § 321h StGB. Verletzung der Aufsichtspflicht
+### § 321h StGB # Verletzung der Aufsichtspflicht
 
 **§ 321h (1) StGB.**  
 Ein Vorgesetzter (§ 321g Abs. 2), der es unterlässt, einen Untergebenen, der seiner tatsächlichen Befehls- oder Führungsgewalt und Kontrolle untersteht, gehörig zu beaufsichtigen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen, wenn der Untergebene eine Tat nach diesem Abschnitt begeht, deren Bevorstehen dem Vorgesetzten erkennbar war und die er hätte verhindern können.
@@ -201,17 +202,17 @@ Ein Vorgesetzter (§ 321g Abs. 2), der es unterlässt, einen Untergebenen, der
 **§ 321h (2) StGB.**  
 Wer als Vorgesetzter (§ 321g Abs. 2) eine im Abs. 1 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
-### § 321i StGB. Unterlassen der Meldung einer Straftat
+### § 321i StGB # Unterlassen der Meldung einer Straftat
 
 **§ 321i StGB.**  
  Ein Vorgesetzter (§ 321g Abs. 2), der es unterlässt, eine Tat nach diesem Abschnitt, die ein Untergebener begangen hat, unverzüglich den für die Untersuchung oder Verfolgung solcher Taten zuständigen Stellen zur Kenntnis zu bringen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
-### § 321j StGB. Handeln auf Befehl oder sonstige Anordnung
+### § 321j StGB # Handeln auf Befehl oder sonstige Anordnung
 
 **§ 321j StGB.**  
  Der Täter ist wegen einer Tat nach den §§ 321b bis 321i nicht zu bestrafen, wenn er die Tat in Ausführung eines militärischen Befehls oder einer sonstigen Anordnung von vergleichbarer Bindungswirkung begeht, sofern der Täter nicht erkennt, dass der Befehl oder die Anordnung rechtswidrig ist und deren Rechtswidrigkeit auch nicht offensichtlich ist.
 
-### § 321k StGB. Verbrechen der Aggression
+### § 321k StGB # Verbrechen der Aggression
 
 **§ 321k (1) StGB.**  
 Wer tatsächlich in der Lage ist, das politische oder militärische Handeln eines Staates zu kontrollieren oder zu lenken, und eine Angriffshandlung, die ihrer Art, ihrer Schwere und ihrem Umfang nach eine offenkundige Verletzung der Satzung der Vereinten Nationen darstellt, einleitet oder ausführt, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
@@ -223,7 +224,7 @@ Wer unter den in Abs. 1 bezeichneten Voraussetzungen eine solche Angriffshandlu
 Im Sinne des Abs. 1 bedeutet „Angriffshandlung“ eine gegen die Souveränität, die territoriale Unversehrtheit oder die politische Unabhängigkeit eines Staates gerichtete oder sonst mit der Satzung der Vereinten Nationen unvereinbare Anwendung von Waffengewalt durch einen anderen Staat.
 **FIXME** P: <p class="UeberschrG2 AlignCenter">Schlußteil</p>
 
-### § 322 StGB. Inkrafttreten
+### § 322 StGB # Inkrafttreten
 
 **§ 322 (1) StGB.**  
 Dieses Bundesgesetz tritt mit dem 1. Jänner 1975 in Kraft.
@@ -239,7 +240,7 @@ Die §§ 50 und 52 Abs. 3 sind bis zum 31. Dezember 1978 auf Personen, die zu
 **§ 322 (4) StGB.**  
 Welche Bundesgesetze mit dem Tag des Inkrafttretens dieses Bundesgesetzes aufgehoben oder an die Bestimmungen dieses Bundesgesetzes angepaßt werden, bestimmen besondere Bundesgesetze.
 
-### § 323 StGB. Übergangsbestimmungen
+### § 323 StGB # Übergangsbestimmungen
 
 **§ 323 (1) StGB.**  
 Die §§ 27, 28, 31 bis 38 und 40 bis 56 sind auch auf Taten anzuwenden, auf die im übrigen die Gesetze anzuwenden sind, die vor dem Inkrafttreten dieses Bundesgesetzes gegolten haben.
@@ -253,9 +254,9 @@ Die Bestimmungen dieses Bundesgesetzes darüber, daß der Täter einer strafbare
 **§ 323 (4) StGB.**  
 Bei einer Tat, wegen der zum Zeitpunkt des Inkrafttretens des Strafprozessreformgesetzes, BGBl. I Nr. 19/2004, bereits gerichtliche Fahndungsmaßnahmen gegen den Beschuldigten eingeleitet waren oder Anklage eingebracht worden ist, wird die Zeit, während der wegen dieser Tat Fahndungsmaßnahmen aufrecht sind oder ein Hauptverfahren anhängig ist, nicht in die Verjährungsfrist eingerechnet.
 
-### § 324 StGB. Vollzugsklausel
+### § 324 StGB # Vollzugsklausel
 
 **§ 324 StGB.**  
  Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Justiz betraut.
 
-**END-OF-FILE-SET**
+**END-OF-DATA-SET**

@@ -2,12 +2,15 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Allgemeiner Teil | Erster Abschnitt | Allgemeine Bestimmungen
 
-### § 1 StGB. Keine Strafe ohne Gesetz
+Der Nationalrat hat beschlossen:
+## Allgemeiner Teil # Erster Abschnitt # Allgemeine Bestimmungen
+
+### § 1 StGB # Keine Strafe ohne Gesetz
 
 **§ 1 (1) StGB.**  
 Eine Strafe oder eine vorbeugende Maßnahme darf nur wegen einer Tat verhängt werden, die unter eine ausdrückliche gesetzliche Strafdrohung fällt und schon zur Zeit ihrer Begehung mit Strafe bedroht war.
@@ -15,12 +18,12 @@ Eine Strafe oder eine vorbeugende Maßnahme darf nur wegen einer Tat verhängt w
 **§ 1 (2) StGB.**  
 Eine schwerere als die zur Zeit der Begehung angedrohte Strafe darf nicht verhängt werden. Eine vorbeugende Maßnahme darf nur angeordnet werden, wenn zur Zeit der Begehung diese vorbeugende Maßnahme oder eine der Art nach vergleichbare Strafe oder vorbeugende Maßnahme vorgesehen war. Durch die Anordnung einer bloß der Art nach vergleichbaren vorbeugenden Maßnahme darf der Täter keiner ungünstigeren Behandlung unterworfen werden, als sie nach dem zur Zeit der Tat geltenden Gesetz zulässig war.
 
-### § 2 StGB. Begehung durch Unterlassung
+### § 2 StGB # Begehung durch Unterlassung
 
 **§ 2 StGB.**  
  Bedroht das Gesetz die Herbeiführung eines Erfolges mit Strafe, so ist auch strafbar, wer es unterläßt, ihn abzuwenden, obwohl er zufolge einer ihn im besonderen treffenden Verpflichtung durch die Rechtsordnung dazu verhalten ist und die Unterlassung der Erfolgsabwendung einer Verwirklichung des gesetzlichen Tatbildes durch ein Tun gleichzuhalten ist.
 
-### § 3 StGB. Notwehr
+### § 3 StGB # Notwehr
 
 **§ 3 (1) StGB.**  
 Nicht rechtswidrig handelt, wer sich nur der Verteidigung bedient, die notwendig ist, um einen gegenwärtigen oder unmittelbar drohenden rechtswidrigen Angriff auf Leben, Gesundheit, körperliche Unversehrtheit, sexuelle Integrität und Selbstbestimmung, Freiheit oder Vermögen von sich oder einem anderen abzuwehren. Die Handlung ist jedoch nicht gerechtfertigt, wenn es offensichtlich ist, daß dem Angegriffenen bloß ein geringer Nachteil droht und die Verteidigung, insbesondere wegen der Schwere der zur Abwehr nötigen Beeinträchtigung des Angreifers, unangemessen ist.
@@ -28,12 +31,12 @@ Nicht rechtswidrig handelt, wer sich nur der Verteidigung bedient, die notwendig
 **§ 3 (2) StGB.**  
 Wer das gerechtfertigte Maß der Verteidigung überschreitet oder sich einer offensichtlich unangemessenen Verteidigung (Abs. 1) bedient, ist, wenn dies lediglich aus Bestürzung, Furcht oder Schrecken geschieht, nur strafbar, wenn die Überschreitung auf Fahrlässigkeit beruht und die fahrlässige Handlung mit Strafe bedroht ist.
 
-### § 4 StGB. Keine Strafe ohne Schuld
+### § 4 StGB # Keine Strafe ohne Schuld
 
 **§ 4 StGB.**  
  Strafbar ist nur, wer schuldhaft handelt.
 
-### § 5 StGB. Vorsatz
+### § 5 StGB # Vorsatz
 
 **§ 5 (1) StGB.**  
 Vorsätzlich handelt, wer einen Sachverhalt verwirklichen will, der einem gesetzlichen Tatbild entspricht; dazu genügt es, daß der Täter diese Verwirklichung ernstlich für möglich hält und sich mit ihr abfindet.
@@ -44,7 +47,7 @@ Der Täter handelt absichtlich, wenn es ihm darauf ankommt, den Umstand oder Erf
 **§ 5 (3) StGB.**  
 Der Täter handelt wissentlich, wenn er den Umstand oder Erfolg, für den das Gesetz Wissentlichkeit voraussetzt, nicht bloß für möglich hält, sondern sein Vorliegen oder Eintreten für gewiß hält.
 
-### § 6 StGB. Fahrlässigkeit
+### § 6 StGB # Fahrlässigkeit
 
 **§ 6 (1) StGB.**  
 Fahrlässig handelt, wer die Sorgfalt außer acht läßt, zu der er nach den Umständen verpflichtet und nach seinen geistigen und körperlichen Verhältnissen befähigt ist und die ihm zuzumuten ist, und deshalb nicht erkennt, daß er einen Sachverhalt verwirklichen könne, der einem gesetzlichen Tatbild entspricht.
@@ -55,7 +58,7 @@ Fahrlässig handelt auch, wer es für möglich hält, daß er einen solchen Sach
 **§ 6 (3) StGB.**  
 Grob fahrlässig handelt, wer ungewöhnlich und auffallend sorgfaltswidrig handelt, sodass der Eintritt eines dem gesetzlichen Tatbild entsprechenden Sachverhaltes als geradezu wahrscheinlich vorhersehbar war.
 
-### § 7 StGB. Strafbarkeit vorsätzlichen und fahrlässigen Handelns
+### § 7 StGB # Strafbarkeit vorsätzlichen und fahrlässigen Handelns
 
 **§ 7 (1) StGB.**  
 Wenn das Gesetz nichts anderes bestimmt, ist nur vorsätzliches Handeln strafbar.
@@ -63,12 +66,12 @@ Wenn das Gesetz nichts anderes bestimmt, ist nur vorsätzliches Handeln strafbar
 **§ 7 (2) StGB.**  
 Eine schwerere Strafe, die an eine besondere Folge der Tat geknüpft ist, trifft den Täter nur, wenn er diese Folge wenigstens fahrlässig herbeigeführt hat.
 
-### § 8 StGB. Irrtümliche Annahme eines rechtfertigenden Sachverhaltes
+### § 8 StGB # Irrtümliche Annahme eines rechtfertigenden Sachverhaltes
 
 **§ 8 StGB.**  
  Wer irrtümlich einen Sachverhalt annimmt, der die Rechtswidrigkeit der Tat ausschließen würde, kann wegen vorsätzlicher Begehung nicht bestraft werden. Er ist wegen fahrlässiger Begehung zu bestrafen, wenn der Irrtum auf Fahrlässigkeit beruht und die fahrlässige Begehung mit Strafe bedroht ist.
 
-### § 9 StGB. Rechtsirrtum
+### § 9 StGB # Rechtsirrtum
 
 **§ 9 (1) StGB.**  
 Wer das Unrecht der Tat wegen eines Rechtsirrtums nicht erkennt, handelt nicht schuldhaft, wenn ihm der Irrtum nicht vorzuwerfen ist.
@@ -79,7 +82,7 @@ Der Rechtsirrtum ist dann vorzuwerfen, wenn das Unrecht für den Täter wie für
 **§ 9 (3) StGB.**  
 Ist der Irrtum vorzuwerfen, so ist, wenn der Täter vorsätzlich handelt, die für die vorsätzliche Tat vorgesehene Strafdrohung anzuwenden, wenn er fahrlässig handelt, die für die fahrlässige Tat.
 
-### § 10 StGB. Entschuldigender Notstand
+### § 10 StGB # Entschuldigender Notstand
 
 **§ 10 (1) StGB.**  
 Wer eine mit Strafe bedrohte Tat begeht, um einen unmittelbar drohenden bedeutenden Nachteil von sich oder einem anderen abzuwenden, ist entschuldigt, wenn der aus der Tat drohende Schaden nicht unverhältnismäßig schwerer wiegt als der Nachteil, den sie abwenden soll, und in der Lage des Täters von einem mit den rechtlich geschützten Werten verbundenen Menschen kein anderes Verhalten zu erwarten war.
@@ -87,22 +90,22 @@ Wer eine mit Strafe bedrohte Tat begeht, um einen unmittelbar drohenden bedeuten
 **§ 10 (2) StGB.**  
 Der Täter ist nicht entschuldigt, wenn er sich der Gefahr ohne einen von der Rechtsordnung anerkannten Grund bewußt ausgesetzt hat. Der Täter ist wegen fahrlässiger Begehung zu bestrafen, wenn er die Voraussetzungen, unter denen seine Handlung entschuldigt wäre, in einem Irrtum angenommen hat, der auf Fahrlässigkeit beruhte, und die fahrlässige Begehung mit Strafe bedroht ist.
 
-### § 11 StGB. Zurechnungsunfähigkeit
+### § 11 StGB # Zurechnungsunfähigkeit
 
 **§ 11 StGB.**  
  Wer zur Zeit der Tat wegen einer Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer tiefgreifenden Bewußtseinsstörung oder wegen einer anderen schweren, einem dieser Zustände gleichwertigen seelischen Störung unfähig ist, das Unrecht seiner Tat einzusehen oder nach dieser Einsicht zu handeln, handelt nicht schuldhaft.
 
-### § 12 StGB. Behandlung aller Beteiligten als Täter
+### § 12 StGB # Behandlung aller Beteiligten als Täter
 
 **§ 12 StGB.**  
  Nicht nur der unmittelbare Täter begeht die strafbare Handlung, sondern auch jeder, der einen anderen dazu bestimmt, sie auszuführen, oder der sonst zu ihrer Ausführung beiträgt.
 
-### § 13 StGB. Selbständige Strafbarkeit der Beteiligten
+### § 13 StGB # Selbständige Strafbarkeit der Beteiligten
 
 **§ 13 StGB.**  
  Waren an der Tat mehrere beteiligt, so ist jeder von ihnen nach seiner Schuld zu bestrafen.
 
-### § 14 StGB. Eigenschaften und Verhältnisse des Täters
+### § 14 StGB # Eigenschaften und Verhältnisse des Täters
 
 **§ 14 (1) StGB.**  
 Macht das Gesetz die Strafbarkeit oder die Höhe der Strafe von besonderen persönlichen Eigenschaften oder Verhältnissen des Täters abhängig, die das Unrecht der Tat betreffen, so ist das Gesetz auf alle Beteiligten anzuwenden, wenn diese Eigenschaften oder Verhältnisse auch nur bei einem von ihnen vorliegen. Hängt das Unrecht der Tat jedoch davon ab, daß der Träger der besonderen persönlichen Eigenschaften oder Verhältnisse die Tat unmittelbar ausführt oder sonst in bestimmter Weise an ihr mitwirkt, so muß auch diese Voraussetzung erfüllt sein.
@@ -110,7 +113,7 @@ Macht das Gesetz die Strafbarkeit oder die Höhe der Strafe von besonderen pers�
 **§ 14 (2) StGB.**  
 Betreffen die besonderen persönlichen Eigenschaften oder Verhältnisse hingegen ausschließlich die Schuld, so ist das Gesetz nur auf die Beteiligten anzuwenden, bei denen diese Eigenschaften oder Verhältnisse vorliegen.
 
-### § 15 StGB. Strafbarkeit des Versuches
+### § 15 StGB # Strafbarkeit des Versuches
 
 **§ 15 (1) StGB.**  
 Die Strafdrohungen gegen vorsätzliches Handeln gelten nicht nur für die vollendete Tat, sondern auch für den Versuch und für jede Beteiligung an einem Versuch.
@@ -121,25 +124,25 @@ Die Tat ist versucht, sobald der Täter seinen Entschluß, sie auszuführen oder
 **§ 15 (3) StGB.**  
 Der Versuch und die Beteiligung daran sind nicht strafbar, wenn die Vollendung der Tat mangels persönlicher Eigenschaften oder Verhältnisse, die das Gesetz beim Handelnden voraussetzt, oder nach der Art der Handlung oder des Gegenstands, an dem die Tat begangen wurde, unter keinen Umständen möglich war.
 
-### § 16 StGB. Rücktritt vom Versuch
+### § 16 StGB # Rücktritt vom Versuch
 
 **§ 16 (1) StGB.**  
 Der Täter wird wegen des Versuches oder der Beteiligung daran nicht bestraft, wenn er freiwillig die Ausführung aufgibt oder, falls mehrere daran beteiligt sind, verhindert oder wenn er freiwillig den Erfolg abwendet.
 
 **§ 16 (2) StGB.**  
 Der Täter wird auch straflos, wenn die Ausführung oder der Erfolg ohne sein Zutun unterbleibt, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich bemüht, die Ausführung zu verhindern oder den Erfolg abzuwenden.
-## Zweiter Abschnitt | Einteilung der strafbaren Handlungen
+## Zweiter Abschnitt # Einteilung der strafbaren Handlungen
 
-### § 17 StGB. Einteilung der strafbaren Handlungen
+### § 17 StGB # Einteilung der strafbaren Handlungen
 
 **§ 17 (1) StGB.**  
 Verbrechen sind vorsätzliche Handlungen, die mit lebenslanger oder mit mehr als dreijähriger Freiheitsstrafe bedroht sind.
 
 **§ 17 (2) StGB.**  
 Alle anderen strafbaren Handlungen sind Vergehen.
-## Dritter Abschnitt | Strafen, Verfall und vorbeugende Maßnahmen
+## Dritter Abschnitt # Strafen, Verfall und vorbeugende Maßnahmen
 
-### § 18 StGB. Freiheitsstrafen
+### § 18 StGB # Freiheitsstrafen
 
 **§ 18 (1) StGB.**  
 Freiheitsstrafen werden auf Lebensdauer oder auf bestimmte Zeit verhängt.
@@ -147,7 +150,7 @@ Freiheitsstrafen werden auf Lebensdauer oder auf bestimmte Zeit verhängt.
 **§ 18 (2) StGB.**  
 Die zeitliche Freiheitsstrafe beträgt mindestens einen Tag und höchstens zwanzig Jahre.
 
-### § 19 StGB. Geldstrafen
+### § 19 StGB # Geldstrafen
 
 **§ 19 (1) StGB.**  
 Die Geldstrafe ist in Tagessätzen zu bemessen. Sie beträgt mindestens zwei Tagessätze.
@@ -158,7 +161,7 @@ Der Tagessatz ist nach den persönlichen Verhältnissen und der wirtschaftlichen
 **§ 19 (3) StGB.**  
 Für den Fall der Uneinbringlichkeit der Geldstrafe ist eine Ersatzfreiheitsstrafe festzusetzen. Ein Tag Ersatzfreiheitsstrafe entspricht dabei zwei Tagessätzen.
 
-### § 19a StGB. Konfiskation
+### § 19a StGB # Konfiskation
 
 **§ 19a (1) StGB.**  
 Gegenstände, die der Täter zur Begehung einer vorsätzlichen Straftat verwendet hat, die von ihm dazu bestimmt worden waren, bei der Begehung dieser Straftat verwendet zu werden, oder die durch diese Handlung hervorgebracht worden sind, sind zu konfiszieren, wenn sie zur Zeit der Entscheidung erster Instanz im Eigentum des Täters stehen.
@@ -169,7 +172,7 @@ Die Konfiskation erstreckt sich auch auf die zur Zeit der Entscheidung erster In
 **§ 19a (2) StGB.**  
 Von der Konfiskation ist abzusehen, soweit sie zur Bedeutung der Tat oder zu dem den Täter treffenden Vorwurf außer Verhältnis steht.
 
-### § 20 StGB. Verfall
+### § 20 StGB # Verfall
 
 **§ 20 ( StGB.**  
 1) Das Gericht hat Vermögenswerte, die für die Begehung einer mit Strafe bedrohten Handlung oder durch sie erlangt wurden, für verfallen zu erklären.
@@ -183,7 +186,7 @@ Soweit die dem Verfall nach Abs. 1 oder 2 unterliegenden Vermögenswerte nicht 
 **§ 20 (4) StGB.**  
 Soweit der Umfang der für verfallen zu erklärenden Vermögenswerte nicht oder nur mit unverhältnismäßigem Aufwand ermittelt werden kann, hat das Gericht ihn nach seiner Überzeugung festzusetzen.
 
-### § 20a StGB. Unterbleiben des Verfalls
+### § 20a StGB # Unterbleiben des Verfalls
 
 **§ 20a (1) StGB.**  
 Der Verfall gegenüber einem Dritten nach § 20 Abs. 2 und 3 ist ausgeschlossen, soweit dieser die Vermögenswerte in Unkenntnis der mit Strafe bedrohten Handlung erworben hat.
@@ -197,7 +200,7 @@ Der Verfall ist überdies ausgeschlossen:
 **§ 20a (3) StGB.**  
 Vom Verfall ist abzusehen, soweit der für verfallen zu erklärende Vermögenswert oder die Aussicht auf dessen Einbringung außer Verhältnis zum Verfahrensaufwand steht, den der Verfall oder die Einbringung erfordern würde.
 
-### § 20b StGB. Erweiterter Verfall
+### § 20b StGB # Erweiterter Verfall
 
 **§ 20b ( StGB.**  
 1) Vermögenswerte, die der Verfügungsmacht einer kriminellen Organisation (§ 278a) oder einer terroristischen Vereinigung (§ 278b) unterliegen oder als Mittel der Terrorismusfinanzierung (§ 278d) bereitgestellt oder gesammelt wurden, sind für verfallen zu erklären.
@@ -211,7 +214,7 @@ Darüber hinaus sind auch Vermögenswerte, die aus einer mit Strafe bedrohten Ha
 **§ 20b (3 StGB.**  
 ) § 20 Abs. 2 bis Abs. 4 StGB gilt entsprechend.
 
-### § 20c StGB. Unterbleiben des erweiterten Verfalls
+### § 20c StGB # Unterbleiben des erweiterten Verfalls
 
 **§ 20c ( StGB.**  
 1) Der erweiterte Verfall nach § 20b Abs. 1 StGB ist ausgeschlossen, soweit an den betroffenen Vermögenswerten Rechtsansprüche von Personen bestehen, die an der kriminellen Organisation oder terroristischen Vereinigung oder Terrorismusfinanzierung nicht beteiligt sind.
@@ -219,7 +222,7 @@ Darüber hinaus sind auch Vermögenswerte, die aus einer mit Strafe bedrohten Ha
 **§ 20c (2 StGB.**  
 ) § 20a StGB gilt entsprechend.
 
-### § 21 StGB. Strafrechtliche Unterbringung in einem forensisch-therapeutischen Zentrum
+### § 21 StGB # Strafrechtliche Unterbringung in einem forensisch-therapeutischen Zentrum
 
 **§ 21 (1) StGB.**  
 Wer eine Tat nach Abs. 3 unter dem maßgeblichen Einfluss einer schwerwiegenden und nachhaltigen psychischen Störung begangen hat und nur deshalb nicht bestraft werden kann, weil er im Zeitpunkt der Tat wegen dieser Störung zurechnungsunfähig (§ 11) war, ist in einem forensisch-therapeutischen Zentrum unterzubringen, wenn nach seiner Person, nach seinem Zustand und nach der Art der Tat mit hoher Wahrscheinlichkeit zu befürchten ist, dass er sonst in absehbarer Zukunft unter dem maßgeblichen Einfluss seiner psychischen Störung eine mit Strafe bedrohte Handlung mit schweren Folgen begehen werde.
@@ -230,7 +233,7 @@ Besteht eine solche Befürchtung, so ist in einem forensisch-therapeutischen Zen
 **§ 21 (3) StGB.**  
 Anlass einer strafrechtlichen Unterbringung können nur Taten sein, die mit mehr als einem Jahr Freiheitsstrafe bedroht sind. Wenn die angedrohte Freiheitsstrafe dieser Tat drei Jahre nicht übersteigt, muss sich die Befürchtung nach Abs. 1 auf eine gegen Leib und Leben gerichtete mit mehr als zwei Jahren Freiheitsstrafe bedrohte Handlung oder auf eine gegen die sexuelle Integrität und Selbstbestimmung gerichtete mit mehr als einem Jahr Freiheitsstrafe bedrohte Handlung beziehen. Als Anlasstaten kommen mit Strafe bedrohte Handlungen gegen fremdes Vermögen nicht in Betracht, es sei denn, sie wurden unter Anwendung von Gewalt gegen eine Person oder unter Drohung mit einer gegenwärtigen Gefahr für Leib oder Leben (§ 89) begangen.
 
-### § 22 StGB. Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher
+### § 22 StGB # Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher
 
 **§ 22 (1) StGB.**  
 Wer dem Mißbrauch eines berauschenden Mittels oder Suchtmittels ergeben ist und wegen einer im Rausch oder sonst im Zusammenhang mit seiner Gewöhnung begangenen strafbaren Handlung oder wegen Begehung einer mit Strafe bedrohten Handlung im Zustand voller Berauschung (§ 287) verurteilt wird, ist vom Gericht in eine Anstalt für entwöhnungsbedürftige Rechtsbrecher einzuweisen, wenn nach seiner Person und nach der Art der Tat zu befürchten ist, daß er sonst im Zusammenhang mit seiner Gewöhnung an berauschende Mittel oder Suchtmittel eine mit Strafe bedrohte Handlung mit schweren Folgen oder doch mit Strafe bedrohte Handlungen mit nicht bloß leichten Folgen begehen werde.
@@ -238,7 +241,7 @@ Wer dem Mißbrauch eines berauschenden Mittels oder Suchtmittels ergeben ist und
 **§ 22 (2) StGB.**  
 Von der Unterbringung ist abzusehen, wenn der Rechtsbrecher mehr als zwei Jahre in Strafhaft zu verbüßen hat, die Voraussetzungen für seine strafrechtliche Unterbringung in einem forensisch-therapeutischen Zentrum vorliegen oder der Versuch einer Entwöhnung von vornherein aussichtslos scheint.
 
-### § 23 StGB. Unterbringung von gefährlichen Rückfallstätern und gefährlichen terroristischen Straftätern in einer Anstalt für gefährliche Rückfallstäter
+### § 23 StGB # Unterbringung von gefährlichen Rückfallstätern und gefährlichen terroristischen Straftätern in einer Anstalt für gefährliche Rückfallstäter
 
 **§ 23 (1) StGB.**  
 Wird jemand nach Vollendung des vierundzwanzigsten Lebensjahres zu einer mindestens zweijährigen Freiheitsstrafe verurteilt, so hat das Gericht zugleich seine Unterbringung in einer Anstalt für gefährliche Rückfallstäter anzuordnen,
@@ -264,7 +267,7 @@ Eine frühere Strafe bleibt außer Betracht, wenn seit ihrer Verbüßung bis zur
 **§ 23 (5) StGB.**  
 Ausländische Verurteilungen sind zu berücksichtigen, wenn die Voraussetzungen des § 73 vorliegen und anzunehmen ist, dass der Täter auch von einem inländischen Gericht zu einer Freiheitsstrafe von mehr als sechs Monaten (Abs. 1) beziehungsweise einem Jahr (Abs. 1a) verurteilt worden wäre und im Fall des Abs. 1 die zur Erfüllung der Voraussetzungen des Abs. 1 Z 2 erforderliche Zeit in Strafhaft zugebracht hätte.
 
-### § 24 StGB. Reihenfolge des Vollzugs von Freiheitsstrafen und mit Freiheitsentziehung verbundenen vorbeugenden Maßnahmen
+### § 24 StGB # Reihenfolge des Vollzugs von Freiheitsstrafen und mit Freiheitsentziehung verbundenen vorbeugenden Maßnahmen
 
 **§ 24 (1) StGB.**  
 Die Unterbringung in einem forensisch-therapeutischen Zentrum oder in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher ist vor einer Freiheitsstrafe zu vollziehen. Die Zeit der Anhaltung ist auf die Strafe anzurechnen. Dies gilt auch dann, wenn die Freiheitsstrafe nicht zugleich mit der Anordnung der Unterbringung verhängt wurde. Wird die Unterbringung vor dem Ablauf der Strafzeit aufgehoben, so ist der Rechtsbrecher in den Strafvollzug zu überstellen, es sei denn, dass ihm der Rest der Strafe bedingt oder unbedingt erlassen wird.
@@ -272,7 +275,7 @@ Die Unterbringung in einem forensisch-therapeutischen Zentrum oder in einer Anst
 **§ 24 (2) StGB.**  
 Die Unterbringung in einer Anstalt für gefährliche Rückfallstäter ist nach der Freiheitsstrafe zu vollziehen. Vor der Überstellung des Rechtsbrechers in die Anstalt für gefährliche Rückfallstäter hat das Gericht von Amts wegen zu prüfen, ob die Unterbringung noch notwendig ist.
 
-### § 25 StGB. Dauer der mit Freiheitsentziehung verbundenen vorbeugenden Maßnahmen
+### § 25 StGB # Dauer der mit Freiheitsentziehung verbundenen vorbeugenden Maßnahmen
 
 **§ 25 (1) StGB.**  
 Vorbeugende Maßnahmen sind auf unbestimmte Zeit anzuordnen. Sie sind so lange zu vollziehen, wie es ihr Zweck erfordert. Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher darf jedoch nicht länger als zwei Jahre dauern, die Unterbringung in einer Anstalt für gefährliche Rückfallstäter nicht länger als zehn Jahre.
@@ -289,7 +292,7 @@ Ob die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher
 **§ 25 (5) StGB.**  
 Die Fristen nach Abs. 3 und 4 beginnen mit der letzten Entscheidung erster Instanz.
 
-### § 26 StGB. Einziehung
+### § 26 StGB # Einziehung
 
 **§ 26 (1) StGB.**  
 Gegenstände, die der Täter zur Begehung der mit Strafe bedrohten Handlung verwendet hat, die von ihm dazu bestimmt worden waren, bei Begehung dieser Handlung verwendet zu werden, oder die durch diese Handlung hervorgebracht worden sind, sind einzuziehen, wenn dies nach der besonderen Beschaffenheit der Gegenstände geboten erscheint, um der Begehung mit Strafe bedrohter Handlungen entgegenzuwirken.
@@ -300,7 +303,7 @@ Von der Einziehung ist abzusehen, wenn der Berechtigte die besondere Beschaffenh
 **§ 26 (3) StGB.**  
 Liegen die Voraussetzungen der Einziehung vor, so sind die Gegenstände auch dann einzuziehen, wenn keine bestimmte Person wegen der mit Strafe bedrohten Handlung verfolgt oder verurteilt werden kann.
 
-### § 27 StGB. Amtsverlust und andere Rechtsfolgen der Verurteilung
+### § 27 StGB # Amtsverlust und andere Rechtsfolgen der Verurteilung
 
 **§ 27 (1) StGB.**  
 Mit der Verurteilung durch ein inländisches Gericht wegen einer oder mehrerer mit Vorsatz begangener strafbarer Handlungen zu einer Freiheitsstrafe ist bei einem Beamten der Verlust des Amtes verbunden, wenn
@@ -311,7 +314,7 @@ Mit der Verurteilung durch ein inländisches Gericht wegen einer oder mehrerer m
 **§ 27 (2) StGB.**  
 Zieht eine strafgerichtliche Verurteilung nach einem Bundesgesetz eine andere als die im Abs. 1 genannte Rechtsfolge nach sich, so endet die Rechtsfolge, wenn nichts anderes bestimmt ist, soweit sie nicht im Verlust besonderer auf Wahl, Verleihung oder Ernennung beruhender Rechte besteht, nach fünf Jahren. Die Frist beginnt, sobald die Strafe vollstreckt ist und vorbeugende Maßnahmen vollzogen oder weggefallen sind; ist die Strafe nur durch Anrechnung einer Vorhaft verbüßt worden, so beginnt die Frist mit Rechtskraft des Urteils.
 
-### § 28 StGB. Zusammentreffen strafbarer Handlungen
+### § 28 StGB # Zusammentreffen strafbarer Handlungen
 
 **§ 28 (1) StGB.**  
 Hat jemand durch eine Tat oder durch mehrere selbständige Taten mehrere strafbare Handlungen derselben oder verschiedener Art begangen und wird über diese strafbaren Handlungen gleichzeitig erkannt, so ist, wenn die zusammentreffenden Gesetze nur Freiheitsstrafen oder nur Geldstrafen vorsehen, auf eine einzige Freiheitsstrafe oder Geldstrafe zu erkennen. Diese Strafe ist nach dem Gesetz zu bestimmen, das die höchste Strafe androht. Von der außerordentlichen Strafmilderung abgesehen, darf jedoch keine geringere Strafe als die höchste der in den zusammentreffenden Gesetzen vorgesehenen Mindeststrafen verhängt werden.
@@ -325,17 +328,17 @@ Wäre nach Abs. 2 auf eine Freiheitsstrafe und auf eine Geldstrafe zu erkennen,
 **§ 28 (4) StGB.**  
 Vorbeugende Maßnahmen sind anzuordnen, wenn die Voraussetzungen hiefür auf Grund einer oder mehrerer der mit Strafe bedrohten Handlungen, über die gleichzeitig geurteilt wird, gegeben sind.
 
-### § 29 StGB. Zusammenrechnung der Werte und Schadensbeträge
+### § 29 StGB # Zusammenrechnung der Werte und Schadensbeträge
 
 **§ 29 StGB.**  
  Hängt die Höhe der Strafdrohung von dem ziffernmäßig bestimmten Wert einer Sache, gegen die sich die Handlung richtet, oder von der ziffernmäßig bestimmten Höhe des Schadens ab, den sie verursacht oder auf den sich der Vorsatz des Täters erstreckt, so ist, wenn der Täter mehrere Taten derselben Art begangen hat, die Summe der Werte oder Schadensbeträge maßgebend.
 
-### § 30 StGB. Unzulässigkeit mehrfacher Erhöhung der im Gesetz bestimmten Obergrenze
+### § 30 StGB # Unzulässigkeit mehrfacher Erhöhung der im Gesetz bestimmten Obergrenze
 
 **§ 30 StGB.**  
  Eine Überschreitung der im Gesetz bestimmten Obergrenze einer Strafdrohung um die Hälfte ist immer nur einmal zulässig, mögen auch verschiedene Gründe, aus denen eine solche Überschreitung zulässig ist (§§ 39, 313), zusammentreffen.
 
-### § 31 StGB. Strafe bei nachträglicher Verurteilung
+### § 31 StGB # Strafe bei nachträglicher Verurteilung
 
 **§ 31 (1) StGB.**  
 Wird jemand, der bereits zu einer Strafe verurteilt worden ist, wegen einer anderen Tat verurteilt, die nach der Zeit ihrer Begehung schon in dem früheren Verfahren hätte abgeurteilt werden können, so ist eine Zusatzstrafe zu verhängen. Diese darf das Höchstmaß der Strafe nicht übersteigen, die für die nun abzuurteilende Tat angedroht ist. Die Summe der Strafen darf die Strafe nicht übersteigen, die nach den Regeln über die Strafbemessung beim Zusammentreffen strafbarer Handlungen und über die Zusammenrechnung der Werte und Schadensbeträge zulässig wäre.
@@ -343,7 +346,7 @@ Wird jemand, der bereits zu einer Strafe verurteilt worden ist, wegen einer ande
 **§ 31 (2) StGB.**  
 Einer früheren inländischen Verurteilung steht eine frühere ausländische auch dann gleich, wenn die Voraussetzungen nach § 73 nicht vorliegen.
 
-### § 31a StGB. Nachträgliche Milderung der Strafe und des Verfalls
+### § 31a StGB # Nachträgliche Milderung der Strafe und des Verfalls
 
 **§ 31a (1) StGB.**  
 Wenn nachträglich Umstände eintreten oder bekannt werden, die zu einer milderen Bemessung der Strafe geführt hätten, hat das Gericht die Strafe angemessen zu mildern.
@@ -354,4 +357,4 @@ Verschlechtern sich nachträglich die persönlichen Verhältnisse oder die wirts
 **§ 31a (3) StGB.**  
 Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils nicht auf Verfall oder nur auf Verfall geringerer Vermögenswerte zu erkennen gewesen wäre, hat das Gericht die Entscheidung entsprechend zu ändern.
 
-**END-OF-FILE**
+**END-OF-DATA-FILE**

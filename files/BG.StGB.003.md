@@ -2,12 +2,13 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Sechster Abschnitt | Verjährung
+## Sechster Abschnitt # Verjährung
 
-### § 57 StGB. Verjährung der Strafbarkeit
+### § 57 StGB # Verjährung der Strafbarkeit
 
 **§ 57 (1) StGB.**  
 Strafbare Handlungen, die mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe bedroht sind, sowie strafbare Handlungen nach dem fünfundzwanzigsten Abschnitt verjähren nicht. Nach Ablauf einer Frist von zwanzig Jahren tritt jedoch an die Stelle der angedrohten lebenslangen Freiheitsstrafe eine Freiheitsstrafe von zehn bis zu zwanzig Jahren. Für die Frist gelten Abs. 2 und § 58 entsprechend.
@@ -29,7 +30,7 @@ Die Verjährungsfrist beträgt
 **FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;">wenn die Handlung mit nicht mehr als sechsmonatiger Freiheitsstrafe oder nur mit Geldstrafe bedroht ist.</div>
 **FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span>Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende Maßnahmen unzulässig.</span></div></div></li></ol>
 
-### § 58 StGB. Verlängerung der Verjährungsfrist
+### § 58 StGB # Verlängerung der Verjährungsfrist
 
 **§ 58 (1) StGB.**  
 Tritt ein zum Tatbild gehörender Erfolg erst ein, nachdem die mit Strafe bedrohte Tätigkeit abgeschlossen worden ist oder das mit Strafe bedrohte Verhalten aufgehört hat, so endet die Verjährungsfrist nicht, bevor sie entweder auch vom Eintritt des Erfolges ab verstrichen ist oder seit dem im § 57 Abs. 2 bezeichneten Zeitpunkt ihr Eineinhalbfaches, mindestens aber drei Jahre abgelaufen sind.
@@ -50,7 +51,7 @@ Eine nach den vorstehenden Absätzen eingetretene Hemmung der Verjährung bleibt
 **§ 58 (4) StGB.**  
 Wird die Tat nur auf Verlangen oder mit Ermächtigung eines dazu Berechtigten verfolgt, so wird der Lauf der Verjährung nicht dadurch gehemmt, daß die Verfolgung nicht verlangt oder die Ermächtigung nicht erteilt wird.
 
-### § 59 StGB. Verjährung der Vollstreckbarkeit
+### § 59 StGB # Verjährung der Vollstreckbarkeit
 
 **§ 59 (1) StGB.**  
 Die Vollstreckbarkeit einer lebenslangen Freiheitsstrafe, einer Freiheitsstrafe von mehr als zehn Jahren, einer wegen einer strafbaren Handlung nach dem fünfundzwanzigsten Abschnitt verhängten Strafe und einer Unterbringung in einem forensisch-therapeutischen Zentrum oder in einer Anstalt oder für gefährliche Rückfallstäter verjährt nicht.
@@ -68,7 +69,7 @@ Die Frist beträgt
 **FIXME** DIV: <div class="SchlussteilE0_5" style="margin-left: 27pt;">in allen übrigen Fällen.</div>
 **FIXME** OL: <ol class="wai-absatz-list"><li><div class="content"><div class="Abs AlignJustify"><span aria-hidden="true" class="Absatzzahl">(4)</span><span>Ist gleichzeitig auf mehrere Strafen oder vorbeugende Maßnahmen erkannt worden, so richtet sich die Verjährung der Vollstreckbarkeit aller dieser Strafen oder Maßnahmen nach der Strafe oder Maßnahme, für die die längste Verjährungsfrist vorgesehen ist. Sind eine Freiheitsstrafe und eine Geldstrafe gleichzeitig verhängt worden, so ist zur Berechnung der Verjährungsfrist die Ersatzfreiheitsstrafe zur Freiheitsstrafe hinzuzurechnen.</span></div></div></li></ol>
 
-### § 60 StGB. Verlängerung der Frist für die Vollstreckungsverjährung
+### § 60 StGB # Verlängerung der Frist für die Vollstreckungsverjährung
 
 **§ 60 (1) StGB.**  
 Wird gegen den Verurteilten in der Verjährungsfrist auf eine neue Strafe oder vorbeugende Maßnahme erkannt, so tritt die Verjährung der Vollstreckbarkeit nicht ein, bevor nicht auch die Vollstreckbarkeit dieser Strafe oder vorbeugenden Maßnahme erloschen ist.
@@ -82,24 +83,24 @@ In die Verjährungsfrist werden nicht eingerechnet:
 
 **§ 60 (3) StGB.**  
 Der Vollzug der Freiheitsstrafe oder der mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme unterbricht die Verjährung. Hört die Unterbrechung auf, ohne daß der Verurteilte endgültig entlassen wird, so beginnt die Verjährungsfrist unbeschadet der Bestimmungen des Abs. 2 von neuem zu laufen.
-## Siebenter Abschnitt | Geltungsbereich
+## Siebenter Abschnitt # Geltungsbereich
 
-### § 61 StGB. Zeitliche Geltung
+### § 61 StGB # Zeitliche Geltung
 
 **§ 61 StGB.**  
  Die Strafgesetze sind auf Taten anzuwenden, die nach dem Inkrafttreten begangen worden sind. Auf früher begangene Taten sind sie dann anzuwenden, wenn die Gesetze, die zur Zeit der Tat gegolten haben, für den Täter in ihrer Gesamtauswirkung nicht günstiger waren.
 
-### § 62 StGB. Strafbare Handlungen im Inland
+### § 62 StGB # Strafbare Handlungen im Inland
 
 **§ 62 StGB.**  
  Die österreichischen Strafgesetze gelten für alle Taten, die im Inland begangen worden sind.
 
-### § 63 StGB. Strafbare Handlungen an Bord österreichischer Schiffe oder Luftfahrzeuge
+### § 63 StGB # Strafbare Handlungen an Bord österreichischer Schiffe oder Luftfahrzeuge
 
 **§ 63 StGB.**  
  Die österreichischen Strafgesetze gelten auch für Taten, die auf einem österreichischen Schiff oder Luftfahrzeug begangen worden sind, unabhängig davon, wo sich dieses befindet.
 
-### § 64 StGB. Strafbare Handlungen im Ausland, die ohne Rücksicht auf die Gesetze des Tatorts bestraft werden
+### § 64 StGB # Strafbare Handlungen im Ausland, die ohne Rücksicht auf die Gesetze des Tatorts bestraft werden
 
 **§ 64 (1) StGB.**  
 Die österreichischen Strafgesetze gelten unabhängig von den Strafgesetzen des Tatorts für folgende im Ausland begangene Taten:
@@ -175,7 +176,7 @@ DIV: <div class="content"><div class="AufzaehlungE2 AlignJustify">der Täter zur
 **§ 64 (2) StGB.**  
 Können die im Abs. 1 genannten Strafgesetze bloß deshalb nicht angewendet werden, weil sich die Tat als eine mit strengerer Strafe bedrohte Handlung darstellt, so ist die im Ausland begangene Tat gleichwohl unabhängig von den Strafgesetzen des Tatorts nach den österreichischen Strafgesetzen zu bestrafen.
 
-### § 65 StGB. Strafbare Handlungen im Ausland, die nur bestraft werden, wenn sie nach den Gesetzen des Tatorts mit Strafe bedroht sind
+### § 65 StGB # Strafbare Handlungen im Ausland, die nur bestraft werden, wenn sie nach den Gesetzen des Tatorts mit Strafe bedroht sind
 
 **§ 65 (1) StGB.**  
 Für andere als die in den §§ 63 und 64 bezeichneten Taten, die im Ausland begangen worden sind, gelten, sofern die Taten auch durch die Gesetze des Tatorts mit Strafe bedroht sind, die österreichischen Strafgesetze:
@@ -198,17 +199,17 @@ Die Strafbarkeit entfällt jedoch:
 **§ 65 (5) StGB.**  
 Nach den österreichischen Gesetzen vorgesehene vorbeugende Maßnahmen sind, wenn die Voraussetzungen hiefür zutreffen, gegen einen Österreicher auch dann anzuordnen, wenn er aus einem der Gründe des vorhergehenden Absatzes im Inland nicht bestraft werden kann.
 
-### § 65a StGB. Erweiterter Geltungsbereich des Verfalls und der Einziehung bei Auslandstaten
+### § 65a StGB # Erweiterter Geltungsbereich des Verfalls und der Einziehung bei Auslandstaten
 
 **§ 65a StGB.**  
  Der Verfall und die Einziehung treffen auch im Inland befindliche Vermögenswerte und Gegenstände in Bezug auf Taten, die auch durch die Gesetze des Tatorts mit Strafe bedroht sind, aber nach den §§ 62 bis 65 nicht den österreichischen Strafgesetzen unterliegen.
 
-### § 66 StGB. Anrechnung im Ausland erlittener Strafen
+### § 66 StGB # Anrechnung im Ausland erlittener Strafen
 
 **§ 66 StGB.**  
  Hat der Täter für die Tat, derentwegen er im Inland bestraft wird, schon im Ausland eine Strafe verbüßt, so ist sie auf die im Inland verhängte Strafe anzurechnen.
 
-### § 67 StGB. Zeit und Ort der Tat
+### § 67 StGB # Zeit und Ort der Tat
 
 **§ 67 (1) StGB.**  
 Eine mit Strafe bedrohte Handlung hat der Täter zu der Zeit begangen, da er gehandelt hat oder hätte handeln sollen; wann der Erfolg eintritt, ist nicht maßgebend.
@@ -216,4 +217,4 @@ Eine mit Strafe bedrohte Handlung hat der Täter zu der Zeit begangen, da er geh
 **§ 67 (2) StGB.**  
 Eine mit Strafe bedrohte Handlung hat der Täter an jedem Ort begangen, an dem er gehandelt hat oder hätte handeln sollen oder ein dem Tatbild entsprechender Erfolg ganz oder zum Teil eingetreten ist oder nach der Vorstellung des Täters hätte eintreten sollen.
 
-**END-OF-FILE**
+**END-OF-DATA-FILE**
