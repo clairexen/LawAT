@@ -194,7 +194,8 @@ def processContentElement(el):
                     lines += ["", f"**{nrName}.**  "] + item.locator(".Absatzzahl ~ *").inner_text().split("\n")
                 elif item.locator(":scope div.AufzaehlungE1").count():
                     enumCnt += 1
-                    lines.append(f"{enumCnt}. {item.inner_text()}")
+                    lines[-1] += "  "
+                    lines.append(f"`{enumCnt}.` {item.inner_text()}")
                 else:
                     enumCnt = 0
                     lines.append(f"{item.tag_name()}: {item.outer_html()}")
