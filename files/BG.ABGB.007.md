@@ -6,6 +6,150 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+## VI. Gerichtliche Kontrolle
+
+### § 259 ABGB
+
+`§ 259 (1) ABGB.`  
+Ein Erwachsenenvertreter hat dem Gericht jährlich über die Gestaltung und Häufigkeit seiner persönlichen Kontakte mit der vertretenen Person, ihren Wohnort, ihr geistiges und körperliches Befinden und die für sie im vergangenen Jahr besorgten und im kommenden Jahr zu besorgenden Angelegenheiten zu berichten. Näheres wird in den Verfahrensgesetzen bestimmt.
+
+`§ 259 (2) ABGB.`  
+Ein Erwachsenenvertreter, der mit der Verwaltung des Vermögens oder des Einkommens der vertretenen Person betraut ist, hat dem Gericht bei Antritt der Vermögenssorge nach gründlicher Erforschung des Vermögensstandes das Vermögen im Einzelnen anzugeben und in weiterer Folge Rechnung zu legen. Das Gericht hat seine Tätigkeit zur Vermeidung einer Gefährdung des Wohles der vertretenen Person zu überwachen und die dazu notwendigen Aufträge zu erteilen. Näheres wird in den Verfahrensgesetzen bestimmt.
+
+`§ 259 (3) ABGB.`  
+Ein Vorsorgebevollmächtigter oder Erwachsenenvertreter ist verpflichtet, die Vollmachtsurkunde sowie die nach § 140h NO erforderlichen ärztlichen Zeugnisse bis zur Beendigung seiner Vertretung aufzubewahren und auf Verlangen des Gerichts diesem zu übermitteln.
+
+`§ 259 (4) ABGB.`  
+Ist das Wohl einer vertretenen Person gefährdet, so hat das Gericht jederzeit von Amts wegen die zur Sicherung des Wohles nötigen Verfügungen zu treffen.
+
+## Zweiter Abschnitt # Vorsorgevollmacht
+
+### § 260 ABGB # Vollmacht für den Vorsorgefall
+
+`§ 260 ABGB.`  
+Eine Vorsorgevollmacht ist eine Vollmacht, die nach ihrem Inhalt dann wirksam werden soll, wenn der Vollmachtgeber die zur Besorgung der anvertrauten Angelegenheiten erforderliche Entscheidungsfähigkeit verliert. Der Vollmachtgeber kann auch die Umwandlung einer bestehenden Vollmacht in eine Vorsorgevollmacht bei Eintritt des Vorsorgefalls anordnen.
+
+### § 261 ABGB # Wirkungsbereich
+
+`§ 261 ABGB.`  
+Die Vorsorgevollmacht kann für einzelne Angelegenheiten oder für Arten von Angelegenheiten erteilt werden.
+
+### § 262 ABGB # Form
+
+`§ 262 (1) ABGB.`  
+Die Vorsorgevollmacht ist vor einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein (§ 1 ErwSchVG) höchstpersönlich und schriftlich zu errichten.
+
+`§ 262 (2) ABGB.`  
+Der Vollmachtgeber ist über  
+`§ 262 (2) Z 1 ABGB.`
+die Rechtsfolgen einer Vorsorgevollmacht,  
+`§ 262 (2) Z 2 ABGB.`
+die Möglichkeit, allgemein oder in bestimmten Angelegenheiten die Weitergabe der Vorsorgevollmacht zu untersagen oder eine gemeinsame Vertretung durch zwei oder mehrere Bevollmächtigte vorzusehen, sowie  
+`§ 262 (2) Z 3 ABGB.`
+die Möglichkeit des jederzeitigen Widerrufs  
+persönlich zu belehren. Der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins hat die Vornahme dieser Belehrung in der Vollmachtsurkunde zu dokumentieren.
+
+### § 263 ABGB # Registrierung
+
+`§ 263 (1) ABGB.`  
+Die Vorsorgevollmacht und der Eintritt des Vorsorgefalls sind von einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein (§ 1 ErwSchVG) im Österreichischen Zentralen Vertretungsverzeichnis einzutragen. Der Eintritt des Vorsorgefalls darf nur insoweit eingetragen werden, als der Vollmachtgeber die zur Besorgung der anvertrauten Angelegenheiten erforderliche Entscheidungsfähigkeit verloren hat.
+
+`§ 263 (2) ABGB.`  
+Hegt der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins begründete Zweifel am Vorliegen der Entscheidungsfähigkeit des Vollmachtgebers im Zeitpunkt der Errichtung der Vorsorgevollmacht, am Eintritt des Vorsorgefalls oder an der Eignung des Bevollmächtigten, so hat er die Errichtung der Vorsorgevollmacht bzw. die Eintragung des Vorsorgefalls abzulehnen und bei begründeten Anhaltspunkten für eine Gefährdung des Wohles der volljährigen Person unverzüglich das Pflegschaftsgericht zu verständigen.
+
+`§ 263 (3) ABGB.`  
+Erlangt die volljährige Person ihre Entscheidungsfähigkeit wieder, so ist dies auf ihr Verlangen oder jenes ihres Vertreters im Österreichischen Zentralen Vertretungsverzeichnis als Wegfall des Vorsorgefalls einzutragen. Die Abs. 1 und 2 gelten sinngemäß.
+
+## Dritter Abschnitt # Gewählter Erwachsenenvertreter
+
+### § 264 ABGB # Voraussetzungen
+
+`§ 264 ABGB.`  
+Soweit eine volljährige Person ihre Angelegenheiten aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit nicht für sich selbst besorgen kann, dafür keinen Vertreter hat und eine Vorsorgevollmacht nicht mehr errichten kann, aber noch fähig ist, die Bedeutung und Folgen einer Bevollmächtigung in Grundzügen zu verstehen, ihren Willen danach zu bestimmen und sich entsprechend zu verhalten, kann sie eine oder mehrere ihr nahe stehende Personen als Erwachsenenvertreter zur Besorgung dieser Angelegenheiten auswählen.
+
+### § 265 ABGB # Wirkungsbereich
+
+`§ 265 (1) ABGB.`  
+Die volljährige Person und ihr gewählter Erwachsenenvertreter haben eine Vereinbarung (§ 1002) zu schließen und dabei die Vertretungsbefugnisse des Erwachsenenvertreters festzulegen.
+
+`§ 265 (2) ABGB.`  
+Die Vereinbarung über die gewählte Erwachsenenvertretung kann – ausgenommen die Vertretung vor Gericht – vorsehen, dass der Erwachsenenvertreter nur im Einvernehmen mit der vertretenen Person rechtswirksam Vertretungshandlungen vornehmen kann. Ebenso kann die Vereinbarung – ausgenommen die Vertretung vor Gericht – vorsehen, dass die vertretene Person selbst nur mit Genehmigung des Erwachsenenvertreters rechtswirksam Erklärungen abgeben kann.
+
+`§ 265 (3) ABGB.`  
+Die Vertretungsbefugnisse können einzelne Angelegenheiten oder Arten von Angelegenheiten betreffen.
+
+`§ 265 (4) ABGB.`  
+Die Übertragung der Angelegenheiten umfasst, soweit nichts anderes vereinbart ist, immer auch die Vertretung vor Gericht. In allen Fällen kann die Vertretungsbefugnis aber auch auf die Ausübung von Einsichts- und Auskunftsrechten beschränkt werden.
+
+### § 266 ABGB # Form
+
+`§ 266 (1) ABGB.`  
+Die Vereinbarung einer gewählten Erwachsenenvertretung muss höchstpersönlich und schriftlich vor einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein (§ 1 ErwSchVG) errichtet werden.
+
+`§ 266 (2) ABGB.`  
+Vor dem Abschluss der Vereinbarung sind die volljährige Person und der Erwachsenenvertreter über das Wesen und die Folgen der Erwachsenenvertretung, die Möglichkeit des jederzeitigen Widerrufs sowie die Rechte und Pflichten des gewählten Erwachsenenvertreters persönlich zu belehren. Der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins hat die Vornahme dieser Belehrung in der Vereinbarung zu dokumentieren.
+
+### § 267 ABGB # Registrierung
+
+`§ 267 (1) ABGB.`  
+Die Vereinbarung über die gewählte Erwachsenenvertretung ist von einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein (§ 1 ErwSchVG) im Österreichischen Zentralen Vertretungsverzeichnis einzutragen.
+
+`§ 267 (2) ABGB.`  
+Hegt der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins am Vorliegen der Voraussetzungen der gewählten Erwachsenenvertretung oder an der Eignung der Person, die als Erwachsenenvertreter eingetragen werden soll, begründete Zweifel, so hat er die Eintragung abzulehnen und bei begründeten Anhaltspunkten für eine Gefährdung des Wohles der volljährigen Person unverzüglich das Pflegschaftsgericht zu verständigen.
+
+## Vierter Abschnitt # Gesetzlicher Erwachsenenvertreter
+
+### § 268 ABGB # Voraussetzungen
+
+`§ 268 (1) ABGB.`  
+Eine volljährige Person kann in den in § 269 angeführten Angelegenheiten von einem oder mehreren nächsten Angehörigen vertreten werden, soweit sie  
+`§ 268 (1) Z 1 ABGB.`
+diese Angelegenheiten aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit nicht ohne Gefahr eines Nachteils für sich selbst besorgen kann,  
+`§ 268 (1) Z 2 ABGB.`
+dafür keinen Vertreter hat,  
+`§ 268 (1) Z 3 ABGB.`
+einen solchen nicht mehr wählen kann oder will und  
+`§ 268 (1) Z 4 ABGB.`
+der gesetzlichen Erwachsenenvertretung nicht vorab widersprochen hat und dies im Österreichischen Zentralen Vertretungsregister registriert wurde.
+
+`§ 268 (2) ABGB.`  
+Nächste Angehörige sind die Eltern und Großeltern, volljährige Kinder und Enkelkinder, Geschwister, Nichten und Neffen der volljährigen Person, ihr Ehegatte oder eingetragener Partner und ihr Lebensgefährte, wenn dieser mit ihr seit mindestens drei Jahren im gemeinsamen Haushalt lebt, sowie die von der volljährigen Person in einer Erwachsenenvertreter-Verfügung bezeichnete Person.
+
+### § 269 ABGB # Wirkungsbereich
+
+`§ 269 (1) ABGB.`  
+Die Vertretungsbefugnisse können folgende Bereiche betreffen:  
+`§ 269 (1) Z 1 ABGB.`
+Vertretung in Verwaltungsverfahren und verwaltungsgerichtlichen Verfahren,  
+`§ 269 (1) Z 2 ABGB.`
+Vertretung in gerichtlichen Verfahren,  
+`§ 269 (1) Z 3 ABGB.`
+Verwaltung von Einkünften, Vermögen und Verbindlichkeiten,  
+`§ 269 (1) Z 4 ABGB.`
+Abschluss von Rechtsgeschäften zur Deckung des Pflege- und Betreuungsbedarfs,  
+`§ 269 (1) Z 5 ABGB.`
+Entscheidung über medizinische Behandlungen und Abschluss von damit im Zusammenhang stehenden Verträgen,  
+`§ 269 (1) Z 6 ABGB.`
+Änderung des Wohnortes und Abschluss von Heimverträgen,  
+`§ 269 (1) Z 7 ABGB.`
+Vertretung in nicht in Z 5 und 6 genannten personenrechtlichen Angelegenheiten sowie  
+`§ 269 (1) Z 8 ABGB.`
+Abschluss von nicht in Z 4 bis 6 genannten Rechtsgeschäften.
+
+`§ 269 (2) ABGB.`  
+Vom Wirkungsbereich der in Abs. 1 Z 3 bis 8 geregelten Angelegenheiten ist immer auch die Vertretung vor Gericht und die Befugnis mitumfasst, über laufende Einkünfte und das Vermögen der vertretenen Person insoweit zu verfügen, als diese zur Besorgung der Rechtsgeschäfte erforderlich ist.
+
+### § 270 ABGB # Registrierung
+
+`§ 270 (1) ABGB.`  
+Die gesetzliche Erwachsenenvertretung ist von einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein (§ 1 ErwSchVG) im Österreichischen Zentralen Vertretungsverzeichnis einzutragen.
+
+`§ 270 (2) ABGB.`  
+Hegt der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins am Vorliegen der Voraussetzungen der gesetzlichen Erwachsenenvertretung oder an der Eignung der Person, die als Erwachsenenvertreter eingetragen werden soll, begründete Zweifel, so hat er die Eintragung abzulehnen und bei begründeten Anhaltspunkten für eine Gefährdung des Wohles der volljährigen Person unverzüglich das Pflegschaftsgericht zu verständigen.
+
+`§ 270 (3) ABGB.`  
+Vor der Eintragung der gesetzlichen Erwachsenenvertretung sind der Erwachsenenvertreter und die volljährige Person über das Wesen und die Folgen der Erwachsenenvertretung, über die Möglichkeit des jederzeitigen Widerspruchs sowie über die Rechte und Pflichten des gesetzlichen Erwachsenenvertreters persönlich zu belehren. Der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins hat die Vornahme dieser Belehrung zu dokumentieren.
+
 ## Fünfter Abschnitt # Gerichtlicher Erwachsenenvertreter
 
 ### § 271 ABGB # Voraussetzungen
@@ -178,137 +322,5 @@ Das Gericht hat den Kurator auf Antrag oder von Amts wegen zu entheben, wenn die
 
 `§ 284 (3) ABGB.`  
 Das Gericht hat in angemessenen Zeitabständen zu prüfen, ob die Kuratel zu ändern oder zu beenden ist.
-
-## Zweyter Theil # des # bürgerlichen Gesetzbuches. # Von dem Sachenrechte. # Von Sachen und ihrer rechtlichen Eintheilung.
-
-### § 285 ABGB # Begriff von Sachen im rechtlichen Sinne.
-
-`§ 285 ABGB.`  
-Alles, was von der Person unterschieden ist, und zum Gebrauche der Menschen dient, wird im rechtlichen Sinne eine Sache genannt.
-
-### § 285a ABGB
-
-`§ 285a ABGB.`  
-Tiere sind keine Sachen; sie werden durch besondere Gesetze geschützt. Die für Sachen geltenden Vorschriften sind auf Tiere nur insoweit anzuwenden, als keine abweichenden Regelungen bestehen.
-
-### § 286 ABGB # Eintheilung der Sachen nach Verschiedenheit des Subjectes, dem sie gehören.
-
-`§ 286 ABGB.`  
-Die Sachen in dem Staatsgebiethe sind entweder ein Staats- oder ein Privat-Gut. Das Letztere gehört einzelnen oder moralischen Personen, kleinern Gesellschaften, oder ganzen Gemeinden.
-
-### § 287 ABGB # Freystehende Sachen; öffentliches Gut und Staatsvermögen.
-
-`§ 287 ABGB.`  
-Sachen, welche allen Mitgliedern des Staates zur Zueignung überlassen sind, heißen freystehende Sachen. Jenen, die ihnen nur zum Gebrauche verstattet werden, als: Landstraßen, Ströme, Flüsse, Seehäfen und Meeresufer, heißen ein allgemeines oder öffentliches Gut. Was zur Bedeckung der Staatsbedürfnisse bestimmt ist, als: das Münz- oder Post- und andere Regalien, Kammergüter-, Berg- und Salzwerke, Steuern und Zölle, wird das Staatsvermögen genannt.
-
-### § 288 ABGB # Gemeindegut, Gemeindevermögen.
-
-`§ 288 ABGB.`  
-Auf gleiche Weise machen die Sachen, welche nach der Landesverfassung zum Gebrauche eines jeden Mitgliedes einer Gemeinde dienen, das Gemeindegut; diejenigen aber, deren Einkünfte zur Bestreitung der Gemeindeauslagen bestimmt sind, das Gemeindevermögen aus.
-
-### § 289 ABGB # Privat-Gut des Landesfürsten.
-
-`§ 289 ABGB.`  
-Auch dasjenige Vermögen des Landesfürsten, welches er nicht als Oberhaupt des Staates besitzt, wird als ein Privat-Gut betrachtet.
-
-### § 290 ABGB # Allgemeine Vorschrift in Rücksicht dieser verschiedenen Arten der Güter.
-
-`§ 290 ABGB.`  
-Die in diesem Privat-Rechte enthaltenen Vorschriften über die Art, wie Sachen rechtmäßig erworben, erhalten und auf Andere übertragen werden können, sind in der Regel auch von den Verwaltern der Staats- und Gemeindegüter, oder des Staats- und Gemeindevermögens zu beobachten. Die in Hinsicht auf die Verwaltung und den Gebrauch dieser Güter sich beziehenden Abweichungen und besondern Vorschriften sind in dem Staatsrechte und in den politischen Verordnungen enthalten.
-
-### § 291 ABGB # Eintheilung der Sachen nach dem Unterschiede ihrer Beschaffenheit.
-
-`§ 291 ABGB.`  
-Die Sachen werden nach dem Unterschiede ihrer Beschaffenheit eingetheilt: in körperliche und unkörperliche; in bewegliche und unbewegliche; in verbrauchbare und unverbrauchbare; in schätzbare und unschätzbare.
-
-### § 292 ABGB # Körperliche und unkörperliche Sachen;
-
-`§ 292 ABGB.`  
-Körperliche Sachen sind diejenigen, welche in die Sinne fallen; sonst heißen sie unkörperliche; z. B. das Recht zu jagen, zu fischen und alle andere Rechte.
-
-### § 293 ABGB # bewegliche und unbewegliche.
-
-`§ 293 ABGB.`  
-Sachen, welche ohne Verletzung ihrer Substanz von einer Stelle zur andern versetzt werden können, sind beweglich; im entgegengesetzten Falle sind sie unbeweglich. Sachen, die an sich beweglich sind, werden im rechtlichen Sinne für unbeweglich gehalten, wenn sie vermöge des Gesetzes oder der Bestimmung des Eigenthümers das Zugehör einer unbeweglichen Sache ausmachen.
-
-### § 294 ABGB # Zugehör überhaupt.
-
-`§ 294 ABGB.`  
-Unter Zugehör versteht man dasjenige, was mit einer Sache in fortdauernde Verbindung gesetzt wird. Dahin gehören nicht nur der Zuwachs einer Sache, so lange er von derselben nicht abgesondert ist, sondern auch die Nebensachen, ohne welche die Hauptsache nicht gebraucht werden kann, oder die das Gesetz oder der Eigenthümer zum fortdauernden Gebrauche der Hauptsache bestimmt hat.
-
-### § 295 ABGB # insbesondere bey Grundstücken und Teichen;
-
-`§ 295 ABGB.`  
-Gras, Bäume, Früchte und alle brauchbare Dinge, welche die Erde auf ihrer Oberfläche hervorbringt, bleiben so lange ein unbewegliches Vermögen, als sie nicht von Grund und Boden abgesondert worden sind. Selbst die Fische in einem Teiche, und das Wild in einem Walde werden erst dann ein bewegliches Gut, wenn der Teich gefischet, und das Wild gefangen oder erlegt worden ist.
-
-### § 296 ABGB
-
-`§ 296 ABGB.`  
-Auch das Getreide, das Holz, das Viehfutter und alle übrige, obgleich schon eingebrachte Erzeugnisse, so wie alles Vieh und alle zu einem liegenden Gute gehörige Werkzeuge und Geräthschaften werden in so fern für unbewegliche Sachen gehalten, als sie zur Fortsetzung des ordentlichen Wirthschaftsbetriebes erforderlich sind.
-
-### § 297 ABGB # und bey Gebäuden.
-
-`§ 297 ABGB.`  
-Eben so gehören zu den unbeweglichen Sachen diejenigen, welche auf Grund und Boden in der Absicht aufgeführt werden, daß sie stets darauf bleiben sollen, als: Häuser und andere Gebäude mit dem in senkrechter Linie darüber befindlichen Luftraume; ferner: nicht nur Alles, was erd- mauer- niet- und nagelfest ist, als: Braupfannen, Branntweinkessel und eingezimmerte Schränke, sondern auch diejenigen Dinge, die zum anhaltenden Gebrauche eines Ganzen bestimmt sind: z. B. Brunneneimer, Seile, Ketten, Löschgeräthe und dergleichen.
-
-### § 297a ABGB # Maschinen.
-
-`§ 297a ABGB.`  
-Werden mit einer unbeweglichen Sache Maschinen in Verbindung gebracht, so gelten sie nicht als Zugehör, wenn mit Zustimmung des Eigentümers der Liegenschaft im öffentlichen Buch angemerkt wird, daß die Maschinen Eigentum eines anderen sind. Werden sie als Ersatz an Stelle solcher Maschinen angebracht, die als Zugehör anzusehen waren, so ist zu dieser Anmerkung auch die Zustimmung der früher eingetragenen bücherlich Berechtigten erforderlich. Die Anmerkung verliert mit Ablauf von fünf Jahren nach der Eintragung ihre Wirkung; durch das Insolvenz- oder Zwangsversteigerungsverfahren wird der Ablauf der Frist gehemmt.
-
-### § 298 ABGB # Rechte sind insgemein als bewegliche Sachen anzusehen;
-
-`§ 298 ABGB.`  
-Rechte werden den beweglichen Sachen beygezählt, wenn sie nicht mit dem Besitze einer unbeweglichen Sache verbunden, oder durch die Landesverfassung für eine unbewegliche Sache erkläret sind.
-
-### § 299 ABGB # auch die vorgemerkten Forderungen.
-
-`§ 299 ABGB.`  
-Schuldforderungen werden durch die Sicherstellung auf ein unbewegliches Gut nicht in ein unbewegliches Vermögen verwandelt.
-
-### § 300 ABGB # Kellereigentum
-
-`§ 300 ABGB.`  
-An Räumen und Bauwerken, die sich unter der Erdoberfläche der Liegenschaft eines anderen befinden und nicht der Fundierung von über der Erdoberfläche errichteten Bauwerken dienen, wie Kellern, Tiefgaragen und industriellen oder wirtschaftlichen Zwecken gewidmeten Stollen, kann mit Einwilligung des Liegenschaftseigentümers gesondert Eigentum begründet werden.
-
-### § 301 ABGB # Verbrauchbare und unverbrauchbare Sachen.
-
-`§ 301 ABGB.`  
-Sachen, welche ohne ihre Zerstörung oder Verzehrung den gewöhnlichen Nutzen nicht gewähren, heißen verbrauchbare; die von entgegengesetzter Beschaffenheit aber, unverbrauchbare Sachen.
-
-### § 302 ABGB # Gesamtsache (universitas rerum).
-
-`§ 302 ABGB.`  
-Ein Inbegriff von mehreren besondern Sachen, die als Eine Sache angesehen, und mit einem gemeinschaftlichen Nahmen bezeichnet zu werden pflegen, macht eine Gesammtsache aus, und wird als ein Ganzes betrachtet.
-
-### § 303 ABGB # Schätzbare und unschätzbare.
-
-`§ 303 ABGB.`  
-Schätzbare Sachen sind diejenigen, deren Werth durch Vergleichung mit andern zum Verkehre bestimmt werden kann; darunter gehören auch Dienstleistungen, Hand- und Kopfarbeiten. Sachen hingegen, deren Werth durch keine Vergleichung mit andern im Verkehre befindlichen Sachen bestimmt werden kann, heißen unschätzbare.
-
-### § 304 ABGB # Maßstab der gerichtlichen Schätzung.
-
-`§ 304 ABGB.`  
-Der bestimmte Werth einer Sache heißt ihr Preis. Wenn eine Sache vom Gerichte zu schätzen ist, so muß die Schätzung nach einer bestimmten Summe Geldes geschehen.
-
-### § 305 ABGB # Ordentlicher und außerordentlicher Preis.
-
-`§ 305 ABGB.`  
-Wird eine Sache nach dem Nutzen geschätzt, den sie mit Rücksicht auf Zeit und Ort gewöhnlich und allgemein leistet, so fällt der ordentliche und gemeine Preis aus; nimmt man aber auf die besondern Verhältnisse und auf die in zufälligen Eigenschaften der Sache gegründete besondere Vorliebe desjenigen, dem der Werth ersetzt werden muß, Rücksicht, so entsteht ein außerordentlicher Preis.
-
-### § 306 ABGB # Welcher bey gerichtlichen Schätzungen zur Richtschnur zu nehmen.
-
-`§ 306 ABGB.`  
-In allen Fällen, wo nichts Anderes entweder bedungen, oder von dem Gesetze verordnet wird, muß bey der Schätzung einer Sache der gemeine Preis zur Richtschnur genommen werden.
-
-### § 307 ABGB # Begriffe vom dinglichen und persönlichen Sachenrechte.
-
-`§ 307 ABGB.`  
-Rechte, welche einer Person über eine Sache ohne Rücksicht auf gewisse Personen zustehen, werden dingliche Rechte genannt. Rechte, welche zu einer Sache nur gegen gewisse Personen unmittelbar aus einem Gesetze, oder aus einer verbindlichen Handlung entstehen, heißen persönliche Sachenrechte.
-
-### § 308 ABGB
-
-`§ 308 ABGB.`  
-Dingliche Sachenrechte sind das Recht des Besitzes, des Eigentums, des Pfandes und der Dienstbarkeit.
 
 `END-OF-DATA-FILE`

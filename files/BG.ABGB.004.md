@@ -6,6 +6,62 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+## Fünfter Abschnitt # Sonstige Rechte und Pflichten
+
+### § 186 ABGB # Persönliche Kontakte
+
+`§ 186 ABGB.`  
+Jeder Elternteil eines minderjährigen Kindes hat mit dem Kind eine persönliche Beziehung einschließlich der persönlichen Kontakte (§ 187) zu pflegen.
+
+### § 187 ABGB
+
+`§ 187 (1) ABGB.`  
+Das Kind und jeder Elternteil haben das Recht auf regelmäßige und den Bedürfnissen des Kindes entsprechende persönliche Kontakte. Die persönlichen Kontakte sollen das Kind und die Eltern einvernehmlich regeln. Soweit ein solches Einvernehmen nicht erzielt wird, hat das Gericht auf Antrag des Kindes oder eines Elternteils diese Kontakte in einer dem Wohl des Kindes entsprechenden Weise zu regeln und die Pflichten festzulegen. Die Regelung hat die Anbahnung und Wahrung des besonderen Naheverhältnisses zwischen Eltern und Kind sicherzustellen und soll möglichst sowohl Zeiten der Freizeit als auch die Betreuung im Alltag des Kindes umfassen. Das Alter, die Bedürfnisse und die Wünsche des Kindes sowie die Intensität der bisherigen Beziehung sind besonders zu berücksichtigen.
+
+`§ 187 (2) ABGB.`  
+Das Gericht hat nötigenfalls die persönlichen Kontakte einzuschränken oder zu untersagen, insbesondere soweit dies aufgrund der Anwendung von Gewalt gegen das Kind oder eine wichtige Bezugsperson geboten erscheint oder der Elternteil, der mit dem minderjährigen Kind nicht im gemeinsamen Haushalt lebt, seine Verpflichtung aus § 159 nicht erfüllt.
+
+### § 188 ABGB
+
+`§ 188 (1) ABGB.`  
+Zwischen Enkeln und ihren Großeltern gilt § 187 entsprechend. Die persönlichen Kontakte der Großeltern sind jedoch auch so weit einzuschränken oder zu untersagen, als sonst das Familienleben der Eltern (eines Elternteils) oder deren Beziehung zu dem Kind gestört würde.
+
+`§ 188 (2) ABGB.`  
+Wenn persönliche Kontakte des minderjährigen Kindes mit einem hiezu bereiten Dritten dem Wohl des Kindes dienen, hat das Gericht auf Antrag des Kindes, eines Elternteils oder des Dritten, sofern dieser zu dem Kind in einem besonderen persönlichen oder familiären Verhältnis steht oder gestanden ist, die zur Regelung der persönlichen Kontakte nötigen Verfügungen zu treffen. Solche Verfügungen hat es auf Antrag des Kinder- und Jugendhilfeträgers oder von Amts wegen zu treffen, wenn ansonsten das Kindeswohl gefährdet wäre.
+
+### § 189 ABGB # Informations-, Äußerungs- und Vertretungsrecht
+
+`§ 189 (1) ABGB.`  
+Ein nicht mit der Obsorge betrauter Elternteil  
+`§ 189 (1) Z 1 ABGB.`
+ist durch die mit der Obsorge betraute Person von wichtigen Angelegenheiten, insbesondere von beabsichtigten Maßnahmen nach § 167 Abs. 2 und 3, rechtzeitig zu verständigen und kann sich hiezu in angemessener Frist äußern,  
+`§ 189 (1) Z 2 ABGB.`
+hat den mit der Obsorge betrauten Elternteil in Angelegenheiten des täglichen Lebens zu vertreten sowie das Kind zu pflegen und zu erziehen, soweit das die Umstände erfordern und sich das Kind rechtmäßig bei ihm aufhält.  
+Eine Äußerung nach Z 1 ist in jedem Fall zu berücksichtigen, wenn der darin ausgedrückte Wunsch dem Wohl des Kindes besser entspricht.
+
+`§ 189 (2) ABGB.`  
+Wenn der nicht mit der Obsorge betraute Elternteil bei der Wahrnehmung seiner Rechte und Pflichten nach Abs. 1 das Wohl des Kindes gefährdet oder diese Rechte rechtsmissbräuchlich oder in einer für den anderen Elternteil oder das Kind nicht zumutbaren Weise in Anspruch nimmt, hat das Gericht diese Rechte auf Antrag, sofern das Wohl des Kindes gefährdet wird, auch von Amts wegen, einzuschränken oder zu entziehen. Die Rechte nach Abs. 1 entfallen, wenn der mit der Obsorge nicht betraute Elternteil grundlos das Recht des Kindes auf persönliche Kontakte ablehnt.
+
+`§ 189 (3) ABGB.`  
+Finden trotz Bereitschaft des nicht mit der Obsorge betrauten Elternteils persönliche Kontakte mit dem Kind nicht regelmäßig statt, so steht ihm das Verständigungs- und Äußerungsrecht (Abs. 1 Z 1) auch in minderwichtigen Angelegenheiten zu, sofern es sich dabei nicht bloß um Angelegenheiten des täglichen Lebens handelt.
+
+`§ 189 (4) ABGB.`  
+Wenn der mit der Obsorge betraute Elternteil die Rechte des anderen nach Abs. 1 beharrlich verletzt, hat das Gericht auf Antrag, sofern das Wohl des Kindes gefährdet wird, auch von Amts wegen, die angemessenen Verfügungen zu treffen.
+
+`§ 189 (5) ABGB.`  
+Diese Bestimmung gilt sinngemäß auch für einen mit der Obsorge betrauten Elternteil.
+
+### § 190 ABGB # Vereinbarungen über die Obsorge, die persönlichen Kontakte und den Unterhalt
+
+`§ 190 (1) ABGB.`  
+Die Eltern haben bei Vereinbarungen über die Obsorge, die persönlichen Kontakte sowie die Betreuung des Kindes das Wohl des Kindes bestmöglich zu wahren.
+
+`§ 190 (2) ABGB.`  
+Die Bestimmung der Obsorge (§ 177 Abs. 2) und vor Gericht geschlossene Vereinbarungen nach Abs. 1 bedürfen zu ihrer Rechtswirksamkeit keiner gerichtlichen Genehmigung. Das Gericht hat die Bestimmung der Obsorge und Vereinbarungen der Eltern aber für unwirksam zu erklären und zugleich eine davon abweichende Anordnung zu treffen, wenn ansonsten das Kindeswohl gefährdet wäre.
+
+`§ 190 (3) ABGB.`  
+Vor Gericht geschlossene Vereinbarungen über die Höhe gesetzlicher Unterhaltsleistungen bedürfen zur ihrer Rechtswirksamkeit keiner gerichtlichen Genehmigung und sind für den Unterhaltsverpflichteten verbindlich.
+
 ## Sechster Abschnitt # Annahme an Kindesstatt
 
 ### § 191 ABGB
@@ -250,150 +306,5 @@ Eine einstweilige Verfügung nach den §§ 382b, 382c und 382d EO sowie deren V
 
 `§ 212 ABGB.`  
 Sofern nicht anderes angeordnet ist, fallen die Aufgaben dem Bundesland als Kinder- und Jugendhilfeträger zu, in dem das minderjährige Kind seinen gewöhnlichen Aufenthalt, mangels eines solchen im Inland seinen Aufenthalt hat. Fehlt ein Aufenthalt im Inland, so ist, sofern das minderjährige Kind österreichischer Staatsbürger ist, für im Inland zu besorgende Aufgaben das Bundesland als Kinder- und Jugendhilfeträger zuständig, in dem der Minderjährige seinen letzten Aufenthalt gehabt hat, dann dasjenige, in dem ein Elternteil seinen Aufenthalt hat oder zuletzt gehabt hat. Wechselt das minderjährige Kind seinen Aufenthalt in ein anderes Bundesland, so kann der Kinder- und Jugendhilfeträger seine Aufgaben dem anderen mit dessen Zustimmung übertragen. Hievon ist das Gericht zu verständigen, wenn es mit den Angelegenheiten des minderjährigen Kindes bereits befasst war.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Besondere Pflichten und Rechte anderer mit der Obsorge betrauter Personen</h4>
-
-### § 213 ABGB # a) in Angelegenheiten der Pflege und Erziehung
-
-`§ 213 (1) ABGB.`  
-Ist eine andere Person mit der Obsorge betraut, so hat sie, soweit nicht anderes bestimmt ist, in wichtigen, die Person des Kindes betreffenden Angelegenheiten, insbesondere in den Angelegenheiten des § 167 Abs. 2, die Genehmigung des Gerichtes einzuholen. Ohne Genehmigung getroffene Maßnahmen oder Vertretungshandlungen sind unzulässig und unwirksam, sofern nicht Gefahr im Verzug vorliegt.
-
-`§ 213 (2) ABGB.`  
-Einer medizinischen Behandlung, die gewöhnlich mit einer schweren oder nachhaltigen Beeinträchtigung der körperlichen Unversehrtheit oder der Persönlichkeit verbunden ist, kann die mit der Obsorge betraute Person nur zustimmen, wenn ein vom behandelnden Arzt unabhängiger Arzt in einem ärztlichen Zeugnis bestätigt, dass das Kind nicht über die erforderliche Entscheidungsfähigkeit verfügt und die Vornahme der Behandlung zur Wahrung seines Wohles erforderlich ist. Wenn ein solches Zeugnis nicht vorliegt oder das Kind zu erkennen gibt, dass es die Behandlung ablehnt, bedarf die Zustimmung der Genehmigung des Gerichts. Erteilt die mit der Obsorge betraute Person die Zustimmung zu einer medizinischen Behandlung nicht und wird dadurch das Wohl des Kindes gefährdet, so kann das Gericht die Zustimmung ersetzen oder die Obsorge an eine andere Person übertragen.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">b) in Angelegenheiten der Vermögensverwaltung</h4>
-
-### § 214 ABGB # Überwachung der Vermögensverwaltung
-
-`§ 214 (1) ABGB.`  
-Die mit der gesetzlichen Vertretung in Angelegenheiten der Vermögensverwaltung betraute Person hat bei Antritt der Obsorge nach gründlicher Erforschung des Vermögensstandes dem Gericht gegenüber das Vermögen im Einzelnen anzugeben und – ausgenommen ein Kinder- und Jugendhilfeträger – in weiterer Folge Rechnung zu legen. Das Gericht hat die Tätigkeit des gesetzlichen Vertreters zur Vermeidung einer Gefährdung des Wohls des Kindes zu überwachen und die dazu notwendigen Aufträge zu erteilen. Näheres wird in den Verfahrensgesetzen bestimmt.
-
-`§ 214 (2) ABGB.`  
-Auf Vertretungshandlungen und Einwilligungen in Vermögensangelegenheiten ist § 167 Abs. 3 und § 168 sinngemäß anzuwenden.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Anlegung von Mündelgeld</h4>
-
-### § 215 ABGB # Allgemeine Grundsätze
-
-`§ 215 (1) ABGB.`  
-Soweit Bargeld und Geld auf Zahlungskonten eines Kindes (Mündelgeld) nicht, dem Gesetz entsprechend, für besondere Zwecke zu verwenden ist, ist es unverzüglich sicher und möglichst fruchtbringend durch Spareinlagen, den Erwerb von Wertpapieren (Forderungen), die Gewährung von Krediten, den Erwerb von Liegenschaften oder in anderer Weise nach den folgenden Bestimmungen anzulegen.
-
-`§ 215 (2) ABGB.`  
-Ist es wirtschaftlich zweckmäßig, so ist Mündelgeld auf mehrere dieser Arten anzulegen.
-
-### § 216 ABGB # Mündelsichere Spareinlagen
-
-`§ 216 ABGB.`  
-Spareinlagen bei einem Kreditinstitut, das zur Entgegennahme von Spareinlagen berechtigt ist, sind zur Anlegung von Mündelgeld geeignet, wenn  
-`§ 216 Z 1 ABGB.`
-die Spareinlagen auf den Namen des Kindes lauten und ausdrücklich die Bezeichnung „Mündelgeld“ tragen, und  
-`§ 216 Z 2 ABGB.`
-für die Verzinsung und Rückzahlung der Mündelspareinlagen ein vom Kreditinstitut gebildeter, jederzeit mit der jeweiligen Höhe solcher Einlagen übereinstimmender unbelasteter Deckungsstock haftet, und  
-`§ 216 Z 3 ABGB.`
-der Deckungsstock ausschließlich in mündelsicheren Wertpapieren (§ 217), in Hypothekarforderungen mit gesetzmäßiger Sicherheit (§ 218), in Forderungen, für die der Bund oder ein Land haftet, oder in Bargeld besteht.
-
-### § 217 ABGB # Mündelsichere Wertpapiere und Forderungen
-
-`§ 217 ABGB.`  
-Der Erwerb folgender Wertpapiere und Forderungen ist zur Anlegung von Mündelgeld geeignet:  
-`§ 217 Z 1 ABGB.`
-Teilschuldverschreibungen von Anleihen, für deren Verzinsung und Rückzahlung der Bund oder eines der Länder haftet;  
-`§ 217 Z 2 ABGB.`
-Forderungen, die in das Hauptbuch der Staatsschuld eingetragen sind;  
-`§ 217 Z 3 ABGB.`
-Pfandbriefe und Kommunalschuldverschreibungen der nach den gesetzlichen Vorschriften zur Ausgabe solcher Wertpapiere zugelassenem inländischen Kreditinstitut;  
-`§ 217 Z 4 ABGB.`
-von einem inländischen Kreditinstitut ausgegebene Teilschuldverschreibungen, sofern das Kreditinstitut verpflichtet ist, die Ansprüche aus diesen Teilschuldverschreibungen vorzugsweise zu befriedigen und als Sicherheit für diese Befriedigung Forderungen des Kreditinstitutes, für die der Bund haftet, Wertpapiere oder Forderungen gemäß den Z 1 bis 3 und 5 oder Bargeld zu bestellen, und dies auf den Teilschuldverschreibungen ausdrücklich ersichtlich gemacht ist;  
-`§ 217 Z 5 ABGB.`
-sonstige Wertpapiere, sofern sie durch besondere gesetzliche Vorschriften zur Anlegung von Mündelgeld geeignet erklärt worden sind.
-
-### § 218 ABGB # Mündelsichere Kredite
-
-`§ 218 (1) ABGB.`  
-Kredite sind zur Anlegung von Mündelgeld geeignet, wenn zu ihrer Sicherstellung an einer inländischen Liegenschaft eine Hypothek bestellt wird und die Liegenschaft samt ihrem Zubehör während der Laufzeit des Kredites ausreichend feuerversichert ist. Liegenschaften, deren Wert sich wegen eines darauf befindlichen Abbaubetriebs ständig und beträchtlich vermindert, sind nicht geeignet.
-
-`§ 218 (2) ABGB.`  
-Es darf jedoch eine Liegenschaft nicht über die Hälfte des Verkehrswertes belastet werden. Bei Weingärten, Wäldern und anderen Liegenschaften, deren Ertrag auf ähnlichen dauernden Anpflanzungen beruht, ist die Belastungsgrenze ohne Berücksichtigung des Wertes der Kulturgattung vom Grundwert zu errechnen. Ebenso ist bei industriell oder gewerblich genutzten Liegenschaften vom bloßen Grundwert auszugehen, doch sind von diesem die Kosten der Freimachung der Liegenschaft von industriell oder gewerblich genutzten Baulichkeiten abzuziehen.
-
-### § 219 ABGB # Mündelsichere Liegenschaften
-
-`§ 219 (1) ABGB.`  
-Der Erwerb inländischer Liegenschaften ist zur Anlegung von Mündelgeld geeignet, wenn sich ihr Wert nicht wegen eines darauf befindlichen Abbaubetriebs ständig und beträchtlich vermindert oder sie nicht ausschließlich oder überwiegend industriellen oder gewerblichen Zwecken dienen.
-
-`§ 219 (2) ABGB.`  
-Der Kaufpreis soll in der Regel den Verkehrswert nicht übersteigen.
-
-### § 220 ABGB # Andere Anlageformen
-
-`§ 220 (1) ABGB.`  
-Eine andere Anlegung von Mündelgeld ist zulässig, wenn sie nach den Verhältnissen des Einzelfalls den Grundsätzen einer sicheren und wirtschaftlichen Vermögensverwaltung entspricht. Dem Eintreten eines größeren Schadens durch Verwirklichung von Risiken ist tunlichst durch deren Streuung entgegenzuwirken.
-
-`§ 220 (2) ABGB.`  
-Bei Wertpapieren und Forderungen, die in den §§ 216 bis 218 nicht genannt sind, muss dafür vorgesorgt sein, dass sie laufend sachkundig auf ihre Sicherheit und Wirtschaftlichkeit hin verwaltet werden und ein Verkauf, falls er durch die Marktentwicklung geboten sein sollte, unverzüglich vorgenommen wird; die Haftung des Verwalters dem Kind gegenüber muss gesichert sein. Bei Einlagen, die eine regelmäßige Einzahlung voraussetzen, muss sichergestellt sein, dass diese aus dem Vermögen des Kindes geleistet werden können.
-
-`§ 220 (3) ABGB.`  
-Bei Liegenschaften, die im § 219 nicht genannt sind, muss ihr Erwerb dem Kind mit Beziehung auf die gegenwärtige oder künftige Berufsausübung oder sonst zum offenbaren Vorteil gereichen; der Kaufpreis darf den Verkehrswert nicht übersteigen.
-
-### § 221 ABGB
-
-`§ 221 ABGB.`  
-Der gesetzliche Vertreter hat jedenfalls dann eine andere Anlegung von im Sinn des § 220 angelegtem Vermögen zu veranlassen, wenn ansonsten mit überwiegender Wahrscheinlichkeit damit zu rechnen ist, dass ein für das Kind unter Berücksichtigung seiner Lebensverhältnisse nicht unbeträchtliches Vermögen dauerhaft geschmälert werden wird und die Umschichtung dem Wohl des Kindes entspricht.
-
-### § 222 ABGB # Veräußerung von beweglichem Vermögen
-
-`§ 222 ABGB.`  
-Bewegliches Vermögen, außer Mündelgeld oder im Sinn der §§ 216 bis 220 veranlagtes Vermögen, darf nur soweit verwertet werden, als dies zur Befriedigung der gegenwärtigen oder zukünftigen Bedürfnisse des Kindes nötig ist oder sonst dem Wohl des Kindes entspricht.
-
-### § 223 ABGB # Veräußerung von unbeweglichem Gut
-
-`§ 223 ABGB.`  
-Ein unbewegliches Gut oder ein Anteil an einem solchen darf nur im Notfall oder zum offenbaren Vorteil des Kindes veräußert werden.
-
-### § 224 ABGB # Entgegennahme von Zahlungen
-
-`§ 224 ABGB.`  
-Der gesetzliche Vertreter kann 10 000 Euro übersteigende Zahlungen an das Kind nur entgegennehmen und darüber quittieren, wenn er dazu vom Gericht im Einzelfall oder allgemein ermächtigt wurde oder eine gerichtliche Genehmigung des Wechsels der Anlageform vorliegt. Fehlt eine solche Ermächtigung oder Genehmigung, so wird der Schuldner durch Zahlung an den Vertreter von seiner Schuld nur befreit, wenn das Gezahlte noch im Vermögen des Kindes vorhanden ist oder für dessen Zwecke verwendet wurde.
-
-### § 225 ABGB # Änderungen in der Obsorge
-
-`§ 225 ABGB.`  
-Die Obsorge des Kinder- und Jugendhilfeträgers (§ 207) endet, sofern der Umstand, der die Eltern von der Ausübung der Obsorge ausgeschlossen hat, weggefallen ist; im ersten Fall des § 207 bedarf es hiezu jedoch der Übertragung der Obsorge an die Eltern durch das Gericht.
-
-### § 226 ABGB
-
-`§ 226 ABGB.`  
-Das Gericht hat die Obsorge an eine andere Person zu übertragen, wenn das Wohl des minderjährigen Kindes dies erfordert, insbesondere wenn die mit der Obsorge betraute Person ihre Verpflichtungen aus § 159 nicht erfüllt, einer der Umstände des § 205 Abs. 2 eintritt oder bekannt wird oder die Person, die bisher mit der Obsorge betraut war, stirbt.
-
-### § 227 ABGB # Haftung
-
-`§ 227 (1) ABGB.`  
-Die nach § 204 mit der Obsorge betrauten Personen haften dem Kind gegenüber für jeden durch ihr Verschulden verursachten Schaden.
-
-`§ 227 (2) ABGB.`  
-Soweit sich die mit der Obsorge betraute Person zu ihrer Ausübung rechtmäßig anderer Personen bedient, haftet sie nur insoweit, als sie schuldhaft eine untüchtige oder gefährliche Person ausgewählt, deren Tätigkeit nur unzureichend überwacht oder die Geltendmachung von Ersatzansprüchen des minderjährigen Kindes gegen diese Personen schuldhaft unterlassen hat.
-
-### § 228 ABGB
-
-`§ 228 ABGB.`  
-Der Richter kann die Ersatzpflicht nach § 227 insoweit mäßigen oder ganz erlassen, als sie die mit der Obsorge betraute Person unter Berücksichtigung aller Umstände, insbesondere des Grades des Verschuldens oder eines besonderen Naheverhältnisses zwischen dem Kind und der mit der Obsorge betrauten Person, unbillig hart träfe.
-
-### § 229 ABGB # Entschädigung
-
-`§ 229 (1) ABGB.`  
-Der nach § 204 mit der Obsorge betrauten Person gebührt unter Bedachtnahme auf Art und Umfang ihrer Tätigkeit und des damit gewöhnlich verbundenen Aufwands an Zeit und Mühe eine jährliche Entschädigung, soweit dadurch die Befriedigung der Lebensbedürfnisse des Kindes nicht gefährdet wird.
-
-`§ 229 (2) ABGB.`  
-Sofern das Gericht nicht aus besonderen Gründen eine geringere Entschädigung für angemessen findet, beträgt sie fünf vom Hundert sämtlicher Einkünfte nach Abzug der hievon zu entrichtenden gesetzlichen Steuern und Abgaben. Bezüge, die kraft besonderer gesetzlicher Anordnung zur Deckung bestimmter Aufwendungen dienen, sind nicht als Einkünfte zu berücksichtigen. Übersteigt der Wert des Vermögens des Kindes 15 000 Euro, so kann das Gericht überdies pro Jahr bis zu zwei vom Hundert des Mehrbetrags als Entschädigung gewähren, soweit sich die mit der Obsorge betraute Person um die Erhaltung des Vermögens oder dessen Verwendung zur Deckung von Bedürfnissen des Kindes besonders verdient gemacht hat. Betrifft die Obsorge nur einen Teilbereich der Obsorge oder dauert die Tätigkeit der mit der Obsorge betrauten Person nicht ein volles Jahr, so vermindert sich der Anspruch auf Entschädigung entsprechend.
-
-`§ 229 (3) ABGB.`  
-Bei besonders umfangreichen und erfolgreichen Bemühungen der mit der Obsorge betrauten Person kann das Gericht die Entschädigung auch höher als nach Abs. 2 erster Satz bemessen, jedoch nicht höher als zehn vom Hundert der Einkünfte.
-
-### § 230 ABGB # Entgelt und Aufwandsersatz
-
-`§ 230 (1) ABGB.`  
-Nützt die mit der Obsorge betraute Person für Angelegenheiten, deren Besorgung sonst einem Dritten übertragen werden müsste, ihre besonderen beruflichen Kenntnisse und Fähigkeiten, so hat sie hiefür einen Anspruch auf angemessenes Entgelt. Dieser Anspruch besteht für die Kosten einer rechtsfreundlichen Vertretung jedoch nicht, soweit beim Kind die Voraussetzungen für die Bewilligung der Verfahrenshilfe gegeben sind oder diese Kosten nach gesetzlichen Vorschriften vom Gegner ersetzt werden.
-
-`§ 230 (2) ABGB.`  
-Zur zweckentsprechenden Ausübung der Obsorge notwendige Barauslagen, tatsächliche Aufwendungen und die Kosten der Versicherung der Haftpflicht nach § 227 sind der mit der Obsorge betrauten Person vom Kind jedenfalls zu erstatten, soweit sie nach gesetzlichen Vorschriften nicht unmittelbar von Dritten getragen werden.
-
-`§ 230 (3) ABGB.`  
-Ansprüche nach den Abs. 1 und 2 bestehen insoweit nicht, als durch sie die Befriedigung der Lebensbedürfnisse des Kindes gefährdet wäre.
 
 `END-OF-DATA-FILE`

@@ -6,475 +6,502 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Zwey u. zwanzigstes Hauptstück. # Von der Bevollmächtigung und andern Arten der Geschäftsführung.
+## Erfordernisse eines gültigen Vertrages:
 
-### § 1002 ABGB # Bevollmächtigungsvertrag.
+### § 865 ABGB # 1) Fähigkeiten der Personen.
 
-`§ 1002 ABGB.`  
-Der Vertrag, wodurch jemand ein ihm aufgetragenes Geschäft im Nahmen des Andern zur Besorgung übernimmt, heißt Bevollmächtigungsvertrag.
+`§ 865 (1) ABGB.`  
+Geschäftsfähigkeit ist die Fähigkeit einer Person, sich durch eigenes Handeln rechtsgeschäftlich zu berechtigen und zu verpflichten. Sie setzt voraus, dass die Person entscheidungsfähig ist und wird bei Volljährigen vermutet; bei Minderjährigen sind die §§ 170 und 171, bei Volljährigen ist der § 242 Abs. 2 zu beachten.
 
-### § 1003 ABGB
+`§ 865 (2) ABGB.`  
+Ein bloß zu ihrem Vorteil gemachtes Versprechen kann jede Person annehmen.
 
-`§ 1003 ABGB.`  
-Personen, welche zur Besorgung bestimmter Geschäfte öffentlich bestellt worden, sind schuldig, über einen darauf sich beziehenden Auftrag ohne Zögerung gegen den Auftragenden sich ausdrücklich zu erklären, ob sie denselben annehmen oder nicht; widrigen Falls bleiben sie dem Auftragenden für den dadurch veranlaßten Nachtheil verantwortlich.
+`§ 865 (3) ABGB.`  
+Rechtsgeschäftliches Handeln von nicht geschäftsfähigen Volljährigen ist zur Gänze unwirksam, es sei denn, sie haben für das betreffende Rechtsgeschäft einen vertretungsbefugten Vorsorgebevollmächtigten oder Erwachsenenvertreter. In diesem Fall ist das rechtsgeschäftliche Handeln mit Genehmigung des Vertreters und gegebenenfalls auch des Gerichts wirksam. Abs. 2 und § 242 Abs. 3 bleiben unberührt.
 
-### § 1004 ABGB # Eintheilung der Bevollmächtigung in eine unentgeldliche oder entgeldliche;
+`§ 865 (4) ABGB.`  
+Rechtsgeschäftliches Handeln von Minderjährigen unter sieben Jahren ist zur Gänze unwirksam. Bei anderen Minderjährigen ist das rechtsgeschäftliche Handeln mit Genehmigung ihres Vertreters und gegebenenfalls auch des Gerichts wirksam. Abs. 2 sowie die §§ 170 und 171 bleiben unberührt.
 
-`§ 1004 ABGB.`  
-Wird für die Besorgung eines fremden Geschäftes entweder ausdrücklich, oder nach dem Stande des Geschäftsträgers auch nur stillschweigend eine Belohnung bedungen; so gehört der Vertrag zu den entgeldlichen, außer dem aber zu den unentgeldlichen.
+`§ 865 (5) ABGB.`  
+Bis die nach Abs. 3 und 4 erforderlichen Genehmigungen erteilt werden, ist der andere Teil an seine Vertragserklärung gebunden, er kann aber für die Erteilung der Genehmigung durch den Vertreter eine angemessene Frist setzen.
 
-### § 1005 ABGB # mündliche oder schriftliche;
+### § 867 ABGB
 
-`§ 1005 ABGB.`  
-Bevollmächtigungsverträge können mündlich oder schriftlich geschlossen werden. Die von dem Gewaltgeber dem Gewalthaber hierüber ausgestellte Urkunde wird Vollmacht genannt.
+`§ 867 ABGB.`  
+Was zur Gültigkeit eines Vertrages mit einer unter der besondern Vorsorge der öffentlichen Verwaltung stehenden Gemeinde, (§. 27) oder ihren einzelnen Gliedern und Stellvertretern erfordert werde, ist aus der Verfassung derselben und den politischen Gesetzen zu entnehmen (§ 290).
 
-### § 1006 ABGB # allgemeine oder besondere;
+### § 869 ABGB # 2) Wahre Einwilligung.
 
-`§ 1006 ABGB.`  
-Es gibt allgemeine und besondere Vollmachten, je nachdem jemanden die Besorgung aller, oder nur einiger Geschäfte anvertraut wird. Die besonderen Vollmachten können bloß gerichtliche oder bloß außergerichtliche Geschäfte überhaupt; oder sie können einzelne Angelegenheiten der einen oder der andern Gattung zum Gegenstande haben.
+`§ 869 ABGB.`  
+Die Einwilligung in einen Vertrag muß frey, ernstlich, bestimmt und verständlich erkläret werden. Ist die Erklärung unverständlich; ganz unbestimmt; oder erfolgt die Annahme unter andern Bestimmungen, als unter welchen das Versprechen geschehen ist; so entsteht kein Vertrag. Wer sich, um einen Andern zu bevortheilen, undeutlicher Ausdrücke bedient, oder eine Scheinhandlung unternimmt, leistet Genugthuung.
 
-### § 1007 ABGB # unumschränkte, oder beschränkte;
+### § 870 ABGB
 
-`§ 1007 ABGB.`  
-Vollmachten werden entweder mit unumschränkter oder mit beschränkter Freyheit zu handeln ertheilet. Durch die erstere wird der Gewalthaber berechtiget, das Geschäft nach seinem besten Wissen und Gewissen zu leiten; durch die letztere aber werden ihm die Gränzen, wie weit, und die Art, wie er dasselbe betreiben soll, vorgeschrieben.
+`§ 870 ABGB.`  
+Wer von dem anderen Teile durch List oder durch ungerechte und gegründete Furcht (§ 55) zu einem Vertrage veranlaßt worden, ist ihn zu halten nicht verbunden.
 
-### § 1008 ABGB
+### § 871 ABGB
 
-`§ 1008 ABGB.`  
-Folgende Geschäfte: Wenn im Nahmen eines Andern Sachen veräußert, oder entgeldlich übernommen; Anleihen oder Darleihen geschlossen; Geld oder Geldeswerth erhoben; Processe anhängig gemacht; Eide aufgetragen, angenommen oder zurückgeschoben, oder Vergleiche getroffen werden sollen, erfordern eine besondere, auf diese Gattungen der Geschäfte lautende Vollmacht. Wenn aber eine Erbschaft unbedingt angenommen oder ausgeschlagen; Gesellschaftsverträge errichtet; Schenkungen gemacht; das Befugniß, einen Schiedsrichter zu wählen, eingeräumt, oder Rechte unentgeldlich aufgegeben werden sollen; ist eine besondere, auf das einzelne Geschäft ausgestellte Vollmacht nothwendig. Allgemeine, selbst unbeschränkte Vollmachten sind in diesen Fällen nur hinreichend, wenn die Gattung des Geschäftes in der Vollmacht ausgedrücket worden ist.
+`§ 871 (1) ABGB.`  
+War ein Teil über den Inhalt der von ihm abgegebenen oder dem anderen zugegangenen Erklärung in einem Irrtum befangen, der die Hauptsache oder eine wesentliche Beschaffenheit derselben betrifft, worauf die Absicht vorzüglich gerichtet und erklärt wurde, so entsteht für ihn keine Verbindlichkeit, falls der Irrtum durch den anderen veranlaßt war, oder diesem aus den Umständen offenbar auffallen mußte oder noch rechtzeitig aufgeklärt wurde.
 
-### § 1009 ABGB # Rechte und Verbindlichkeiten des Gewalthabers;
+`§ 871 (2) ABGB.`  
+Ein Irrtum eines Teiles über einen Umstand, über den ihn der andere nach geltenden Rechtsvorschriften aufzuklären gehabt hätte, gilt immer als Irrtum über den Inhalt des Vertrages und nicht bloß als solcher über den Bewegungsgrund oder den Endzweck (§ 901).
 
-`§ 1009 ABGB.`  
-Der Gewalthaber ist verpflichtet, das Geschäft seinem Versprechen und der erhaltenen Vollmacht gemäß, emsig und redlich zu besorgen, und allen aus dem Geschäfte entspringenden Nutzen dem Machtgeber zu überlassen. Er ist, ob er gleich eine beschränkte Vollmacht hat, berechtiget, alle Mittel anzuwenden, die mit der Natur des Geschäftes nothwendig verbunden, oder der erklärten Absicht des Machtgebers gemäß sind. Ueberschreitet er aber die Gränzen der Vollmacht; so haftet er für die Folgen.
+### § 872 ABGB
 
-### § 1010 ABGB
+`§ 872 ABGB.`  
+Betrifft aber der Irrthum weder die Hauptsache, noch eine wesentliche Beschaffenheit derselben, sondern einen Nebenumstand; so bleibt der Vertrag, in so fern beyde Theile in den Hauptgegenstand gewilliget, und den Nebenumstand nicht als vorzügliche Absicht erkläret haben, noch immer gültig: allein dem Irregeführten ist von dem Urheber des Irrthumes die angemessene Vergütung zu leisten.
 
-`§ 1010 ABGB.`  
-Trägt der Gewalthaber das Geschäft ohne Noth einem Dritten auf; so haftet er ganz allein für den Erfolg. Wird ihm aber die Bestellung eines Stellvertreters in der Vollmacht ausdrücklich gestattet, oder durch die Umstände unvermeidlich; so verantwortet er nur ein bey der Auswahl der Person begangenes Verschulden.
+### § 873 ABGB
 
-### § 1011 ABGB
+`§ 873 ABGB.`  
+Eben diese Grundsätze sind auch auf den Irrthum in der Person desjenigen, welchem ein Versprechen gemacht worden ist, anzuwenden; in so fern ohne den Irrthum der Vertrag entweder gar nicht, oder doch nicht auf solche Art errichtet worden wäre. Als Irrtum in der Person gilt jedenfalls der Irrtum über das Vorhandensein einer erforderlichen verwaltungsrechtlichen Befugnis zur Erbringung der Leistung.
 
-`§ 1011 ABGB.`  
-Wird mehreren Bevollmächtigten zugleich ein Geschäft aufgetragen; so ist die Mitwirkung Aller zur Gültigkeit des Geschäftes, und Verpflichtung des Machtgebers nothwendig; wenn nicht ausdrücklich Einem oder Mehreren aus ihnen die volle Befugniß in der Vollmacht ertheilt worden ist.
+### § 874 ABGB
 
-### § 1012 ABGB
+`§ 874 ABGB.`  
+In jedem Falle muß derjenige, welcher einen Vertrag durch List oder ungerechte Furcht bewirket hat, für die nachtheiligen Folgen Genugthuung leisten.
 
-`§ 1012 ABGB.`  
-Der Gewalthaber ist schuldig, dem Machtgeber den durch sein Verschulden verursachten Schaden zu ersetzen, und die bey dem Geschäfte vorkommenden Rechnungen, so oft dieser es verlangt, vorzulegen.
+### § 875 ABGB
 
-### § 1013 ABGB
+`§ 875 ABGB.`  
+Ist einer der Vertragschließenden von einem Dritten durch List oder durch ungerechte und gegründete Furcht zu einem Vertrage bewogen; oder zu einer irrtümlichen Erklärung veranlaßt worden; so ist der Vertrag gültig. Nur in dem Falle, daß der andere Teil an der Handlung des Dritten teilnahm oder von derselben offenbar wissen mußte, kommen die §§ 870 bis 874 zur Anwendung.
 
-`§ 1013 ABGB.`  
-Gewalthaber sind, außer dem im §. 1004 enthaltenen Falle, nicht befugt, ihrer Bemühung wegen eine Belohnung zu fordern. Es ist ihnen nicht erlaubt, ohne Willen des Machtgebers in Rücksicht auf die Geschäftsverwaltung von einem Dritten Geschenke anzunehmen. Die erhaltenen werden zur Armen-Casse eingezogen.
+### § 876 ABGB
 
-### § 1014 ABGB # des Gewaltgebers;
+`§ 876 ABGB.`  
+Die vorstehenden Bestimmungen (§§ 869 bis 875) finden entsprechende Anwendung auf sonstige Willenserklärungen, welche einer anderen Person gegenüber abzugeben sind.
 
-`§ 1014 ABGB.`  
-Der Gewaltgeber ist verbunden, dem Gewalthaber allen zur Besorgung des Geschäftes nothwendig oder nützlich gemachten Aufwand, selbst bey fehlgeschlagenem Erfolge, zu ersetzen, und ihm auf Verlangen zur Bestreitung der baren Auslagen auch einen angemessenen Vorschuß zu leisten; er muß ferner allen durch sein Verschulden entstandenen, oder mit der Erfüllung des Auftrages verbundenen Schaden vergüten.
+### § 877 ABGB
 
-### § 1015 ABGB
+`§ 877 ABGB.`  
+Wer die Aufhebung eines Vertrages aus Mangel der Einwilligung verlangt, muß dagegen auch alles zurückstellen, was er aus einem solchen Vertrage zu seinem Vortheile erhalten hat.
 
-`§ 1015 ABGB.`  
-Leidet der Gewalthaber bey der Geschäftsführung nur zufälliger Weise Schaden; so kann er in dem Falle, daß er das Geschäft unentgeldlich zu besorgen übernahm, einen solchen Betrag fordern, welcher ihm bey einem entgeldlichen Vertrage zur Vergütung der Bemühung nach dem höchsten Schätzungswerthe gebührt haben würde.
+### § 878 ABGB # 3. Möglichkeit und Erlaubtheit
 
-### § 1016 ABGB
+`§ 878 ABGB.`  
+Was geradezu unmöglich ist, kann nicht Gegenstand eines gültigen Vertrages werden. Ist Mögliches und Unmögliches zugleich bedungen, so bleibt der Vertrag in ersterem Teile gültig, wenn anders aus dem Vertrage nicht hervorgeht, daß kein Punkt von dem anderen abgesondert werden könne. Wer bei Abschließung des Vertrages die Unmöglichkeit kannte oder kennen mußte, hat dem anderen Teile, falls von diesem nicht dasselbe gilt, den Schaden zu ersetzen, den er durch das Vertrauen auf die Gültigkeit des Vertrages erlitten hat.
 
-`§ 1016 ABGB.`  
-Ueberschreitet der Gewalthaber die Gränzen seiner Vollmacht; so ist der Gewaltgeber nur in so fern verbunden, als er das Geschäft genehmigt, oder den aus dem Geschäfte entstandenen Vortheil sich zuwendet.
+### § 879 ABGB
 
-### § 1017 ABGB # in Rücksicht eines Dritten.
+`§ 879 (1) ABGB.`  
+Ein Vertrag, der gegen ein gesetzliches Verbot oder gegen die guten Sitten verstößt, ist nichtig.
 
-`§ 1017 ABGB.`  
-In so fern der Gewalthaber nach dem Inhalte der Vollmacht den Gewaltgeber vorstellt, kann er ihm Rechte erwerben und Verbindlichkeiten auflegen. Hat er also innerhalb der Gränzen der offenen Vollmacht mit einem Dritten einen Vertrag geschlossen; so kommen die dadurch gegründeten Rechte und Verbindlichkeiten dem Gewaltgeber und dem Dritten; nicht aber dem Gewalthaber zu. Die dem Gewalthaber ertheilte geheime Vollmacht hat auf die Rechte des Dritten keinen Einfluß.
+`§ 879 (2) ABGB.`  
+Insbesondere sind folgende Verträge nichtig:  
+`§ 879 (2) Z 1 ABGB.`
+wenn etwas für die Unterhandlung eines Ehevertrages bedungen wird;  
+`§ 879 (2) Z 1a ABGB.`
+wenn etwas für die Vermittlung einer medizinisch unterstützten Fortpflanzung bedungen wird;  
+`§ 879 (2) Z 2 ABGB.`
+wenn ein Rechtsfreund eine ihm anvertraute Streitsache ganz  
+oder teilweise an sich löst oder sich einen bestimmten Teil des Betrages versprechen läßt, der der Partei zuerkannt wird;  
+`§ 879 (2) Z 3 ABGB.`
+wenn eine Erbschaft oder ein Vermächtnis, die man von einer dritten Person erhofft, noch bei Lebzeiten derselben veräußert wird;  
+`§ 879 (2) Z 4 ABGB.`
+wenn jemand den Leichtsinn, die Zwangslage, Verstandesschwäche, Unerfahrenheit oder Gemütsaufregung eines anderen dadurch ausbeutet, daß er sich oder einem Dritten für eine Leistung eine Gegenleistung versprechen oder gewähren läßt, deren Vermögenswert zu dem Werte der Leistung in auffallendem Mißverhältnisse steht.
 
-### § 1018 ABGB
+`§ 879 (3) ABGB.`  
+Eine in Allgemeinen Geschäftsbedingungen oder Vertragsformblättern enthaltene Vertragsbestimmung, die nicht eine der beiderseitigen Hauptleistungen festlegt, ist jedenfalls nichtig, wenn sie unter Berücksichtigung aller Umstände des Falles einen Teil gröblich benachteiligt.
 
-`§ 1018 ABGB.`  
-Auch in dem Falle, daß der Gewaltgeber einen solchen Gewalthaber, der sich selbst zu verbinden unfähig ist, aufgestellt hat, sind die innerhalb der Gränzen der Vollmacht geschlossenen Geschäfte sowohl für den Gewaltgeber, als für den Dritten verbindlich.
+### § 880 ABGB
 
-### § 1019 ABGB
+`§ 880 ABGB.`  
+Wird der Gegenstand, worüber ein Vertrag geschlossen worden, vor dessen Uebergabe dem Verkehre entzogen; so ist es eben so viel, als wenn man den Vertrag nicht geschlossen hätte.
 
-`§ 1019 ABGB.`  
-Ist der Gewalthaber zu dem von ihm geschlossenen Geschäft nicht oder nicht ausreichend bevollmächtigt, so ist er, wenn der Gewaltgeber weder das Geschäft genehmigt noch sich den aus dem Geschäft entstandenen Vorteil zuwendet (§ 1016), dem anderen Teil zum Ersatz des Schadens verpflichtet, den dieser im Vertrauen auf die Vertretungsmacht erleidet. Der Gewalthaber haftet jedoch nicht über den Betrag des Interesses hinaus, das der andere Teil an der Wirksamkeit des Vertrages hat.
+### § 880a ABGB
 
-### § 1020 ABGB # Auflösung des Vertrages durch den Widerruf.
+`§ 880a ABGB.`  
+Hat jemand einem andern eine Leistung eines Dritten versprochen, so gilt dies als Zusage seiner Verwendung bei dem Dritten; ist er aber für den Erfolg eingestanden, so haftet er für volle Genugtuung, wenn die Leistung des Dritten ausbleibt.
 
-`§ 1020 ABGB.`  
-Es steht dem Machtgeber frey; die Vollmacht nach Belieben zu widerrufen; doch muß er dem Gewalthaber nicht nur die in der Zwischenzeit gehabten Kosten und den sonst erlittenen Schaden ersetzen; sondern auch einen der Bemühung angemessenen Theil der Belohnung entrichten. Dieses findet auch dann Statt, wenn die Vollendung des Geschäftes durch einen Zufall verhindert worden ist.
+### § 881 ABGB # Verträge zugunsten Dritter
 
-### § 1021 ABGB # die Aufkündung;
+`§ 881 (1) ABGB.`  
+Hat sich jemand eine Leistung an einen Dritten versprechen lassen, so kann er fordern, daß an den Dritten geleistet werde.
 
-`§ 1021 ABGB.`  
-Auch der Machthaber kann die angenommene Vollmacht aufkünden. Wenn er sie aber vor Vollendung des ihm insbesondere aufgetragenen, oder vermöge der allgemeinen Vollmacht angefangenen Geschäftes aufkündet; so muß er, dafern nicht ein unvorgesehenes und unvermeidliches Hinderniß eingetreten ist, allen daraus entstandenen Schaden ersetzen.
+`§ 881 (2) ABGB.`  
+Ob und in welchem Zeitpunkt auch der Dritte unmittelbar das Recht erwirbt, vom Versprechenden Erfüllung zu fordern, ist aus der Vereinbarung und der Natur und dem Zwecke des Vertrages zu beurteilen. Im Zweifel erwirbt der Dritte dieses Recht, wenn die Leistung hauptsächlich ihm zum Vorteile gereichen soll.
 
-### § 1022 ABGB # den Tod.
+`§ 881 (3) ABGB.`  
+Das Recht auf die bei einer Gutsabtretung vom Übernehmer zugunsten eines Dritten versprochenen Leistungen gilt mangels anderer Vereinbarung dem Dritten als mit der Übergabe des Gutes erworben.
 
-`§ 1022 ABGB.`  
-In der Regel wird die Vollmacht sowohl durch den Tod des Gewaltgebers als des Gewalthabers aufgehoben. Läßt sich aber das angefangene Geschäft ohne offenbaren Nachtheil der Erben nicht unterbrechen, oder erstreckt sich die Vollmacht selbst auf den Sterbfall des Gewaltgebers; so hat der Gewalthaber das Recht und die Pflicht, das Geschäft zu vollenden.
+### § 882 ABGB
 
-### § 1023 ABGB
+`§ 882 (1) ABGB.`  
+Weist der Dritte das aus dem Vertrag erworbene Recht zurück, so gilt das Recht als nicht erworben.
 
-`§ 1023 ABGB.`  
-Die von einem Körper (Gemeinschaft) ausgestellten und übernommenen Vollmachten werden durch die Erlöschung der Gemeinschaft aufgehoben.
+`§ 882 (2) ABGB.`  
+Einwendungen aus dem Vertrage stehen dem Versprechenden auch gegen den Dritten zu.
 
-### § 1024 ABGB # oder ein Insolvenzverfahren
+### § 883 ABGB # Form der Verträge.
 
-`§ 1024 ABGB.`  
-Wird über das Vermögen des Machtgebers das Insolvenzverfahren eröffnet, so sind Vertretungshandlungen des Machthabers ab der Bekanntmachung der Insolvenzeröffnung nicht rechtswirksam. Durch die Eröffnung des Insolvenzverfahrens über das Vermögen des Machthabers erlischt dessen Vollmacht.
+`§ 883 ABGB.`  
+Ein Vertrag kann mündlich oder schriftlich; vor Gerichte oder außerhalb desselben; mit oder ohne Zeugen errichtet werden. Diese Verschiedenheit der Form macht, außer den im Gesetze bestimmten Fällen, in Ansehung der Verbindlichkeit keinen Unterschied.
 
-### § 1025 ABGB # In wiefern die Verbindlichkeit fortdauere.
+### § 884 ABGB
 
-`§ 1025 ABGB.`  
-Wird die Vollmacht durch Widerruf, Aufkündung, oder durch den Tod des Gewaltgebers oder Gewalthabers aufgehoben; so müssen doch die Geschäfte, welche keinen Aufschub leiden, so lange fortgesetzt werden, bis von dem Machtgeber oder dessen Erben eine andere Verfügung getroffen worden ist, oder füglich getroffen werden konnte.
+`§ 884 ABGB.`  
+Haben die Parteien für einen Vertrag die Anwendung einer bestimmten Form vorbehalten, so wird vermutet, daß sie vor Erfüllung dieser Form nicht gebunden sein wollen.
 
-### § 1026 ABGB
+### § 885 ABGB
 
-`§ 1026 ABGB.`  
-Auch bleiben die mit einem Dritten, dem die Aufhebung der Vollmacht ohne sein Verschulden unbekannt war, geschlossenen Verträge verbindlich, und der Gewaltgeber kann sich nur bey dem Gewalthaber, der die Aufhebung verschwiegen hat, wegen seines Schadens erhohlen.
+`§ 885 ABGB.`  
+Ist zwar noch nicht die förmliche Urkunde, aber doch ein Aufsatz über die Hauptpunkte errichtet und von den Parteien unterfertigt worden (Punktation), so gründet auch schon ein solcher Aufsatz diejenigen Rechte und Verbindlichkeiten, welche darin ausgedrückt sind.
 
-### § 1027 ABGB # Stillschweigende Bevollmächtigung der Dienstpersonen.
+### § 886 ABGB
 
-`§ 1027 ABGB.`  
-Die in diesem Hauptstücke enthaltenen Vorschriften haben auch ihre Anwendung auf die Eigenthümer einer Handlung, eines Schiffes, Kaufladens oder andern Gewerbes, welche die Verwaltung einem Factor, Schiffer, Ladendiener oder andern Geschäftsträgern anvertrauen.
+`§ 886 ABGB.`  
+Ein Vertrag, für den Gesetz oder Parteiwille Schriftlichkeit bestimmt, kommt durch die Unterschrift der Parteien oder, falls sie des Schreibens unkundig oder wegen Gebrechens unfähig sind, durch Beisetzung ihres gerichtlich oder notariell beglaubigten Handzeichens oder Beisetzung des Handzeichens vor zwei Zeugen, deren einer den Namen der Partei unterfertigt, zustande. Der schriftliche Abschluß des Vertrages wird durch gerichtliche oder notarielle Beurkundung ersetzt. Eine Nachbildung der eigenhändigen Unterschrift auf mechanischem Wege ist nur da genügend, wo sie im Geschäftsverkehr üblich ist.
 
-### § 1028 ABGB
+### § 888 ABGB # Gemeinschaftliche Verbindlichkeit oder Berechtigung.
 
-`§ 1028 ABGB.`  
-Die Rechte solcher Geschäftsführer sind vorzüglich aus der Urkunde ihrer Bestellung, dergleichen unter Handelsleuten das ordentlich kundgemachte Befugniß der Unterzeichnung (Firma) ist, zu beurtheilen.
+`§ 888 ABGB.`  
+Wenn zwey oder mehrere Personen jemanden eben dasselbe Recht zu einer Sache versprechen, oder es von ihm annehmen; so wird sowohl die Forderung, als die Schuld nach den Grundsätzen der Gemeinschaft des Eigenthumes getheilt.
 
-### § 1029 ABGB
+### § 889 ABGB
 
-`§ 1029 (1) ABGB.`  
-Ist die Vollmacht nicht schriftlich gegeben worden; so wird ihr Umfang aus dem Gegenstande, und aus der Natur des Geschäftes beurtheilet. Wer einem Andern eine Verwaltung anvertraut hat, von dem wird vermuthet, daß er ihm auch die Macht eingeräumt habe, alles dasjenige zu thun, was die Verwaltung selbst erfordert und was gewöhnlich damit verbunden ist (§. 1009).
+`§ 889 ABGB.`  
+Außer den in dem Gesetze bestimmten Fällen haftet also aus mehrern Mitschuldnern einer theilbaren Sache jeder nur für seinen Antheil, und eben so muß von mehrern Mitgenossen einer theilbaren Sache, jeder sich mit dem ihm gebührenden Theile begnügen.
 
-`§ 1029 (2) ABGB.`  
-Der Überbringer einer Quittung gilt als ermächtigt, die Leistung zu empfangen, sofern nicht dem Leistenden bekannte Umstände der Annahme einer solchen Ermächtigung entgegenstehen.
+### § 890 ABGB
 
-### § 1030 ABGB
+`§ 890 ABGB.`  
+Betrifft es hingegen untheilbare Sachen; so kann ein Gläubiger, wenn er der einzige ist, solche von einem jeden Mitschuldner fordern. Wenn aber mehrere Gläubiger und nur Ein Schuldner da sind; so ist dieser die Sache einem einzelnen Mitgläubiger, ohne Sicherstellung heraus zu geben, nicht verpflichtet; er kann auf die Uebereinkunft aller Mitgläubiger dringen, oder die gerichtliche Verwahrung der Sache verlangen.
 
-`§ 1030 ABGB.`  
-Gestattet der Eigenthümer einer Handlung, oder eines Gewerbes seinem Diener oder Lehrlinge, Waaren im Laden oder außer demselben zu verkaufen; so wird vermuthet, daß sie bevollmächtigt seyn, die Bezahlung zu empfangen, und Quittungen dagegen auszustellen.
+### § 891 ABGB # Correalität.
 
-### § 1031 ABGB
+`§ 891 ABGB.`  
+Versprechen mehrere Personen ein und dasselbe Ganze zur ungetheilten Hand dergestalt, daß sich Einer für Alle, und Alle für Einen ausdrücklich verbinden; so haftet jede einzelne Person für das Ganze. Es hängt dann von dem Gläubiger ab, ob er von allen, oder von einigen Mitschuldnern das Ganze, oder nach von ihm gewählten Antheilen; oder ob er es von einem Einzigen fordern wolle. Selbst nach erhobener Klage bleibt ihm, wenn er von derselben absteht, diese Wahl vorbehalten; und, wenn er von einem oder dem andern Mitschuldner nur zum Theile befriediget wird; so kann er das Rückständige von den übrigen fordern.
 
-`§ 1031 ABGB.`  
-Die Vollmacht, Waaren im Nahmen des Eigenthümers zu verkaufen, erstreckt sich aber nicht auf das Recht, in seinem Nahmen Waaren einzukaufen; auch dürfen Fuhrleute weder den Werth der ihnen anvertrauten Güter beziehen, noch Geld darauf anleihen, wenn es nicht ausdrücklich in Frachtbriefen bestimmt worden ist.
+### § 892 ABGB
 
-### § 1032 ABGB
+`§ 892 ABGB.`  
+Hat hingegen Einer mehrern Personen eben dasselbe Ganze zugesagt, und sind diese ausdrücklich berechtiget worden, es zur ungetheilten Hand fordern zu können; so muß der Schuldner das Ganze demjenigen dieser Gläubiger entrichten, der ihn zuerst darum angeht.
 
-`§ 1032 ABGB.`  
-Dienstgeber und Familienhäupter sind nicht verbunden, das, was von ihren Dienstpersonen oder andern Hausgenossen in ihrem Nahmen auf Borg genommen wird, zu bezahlen. Der Borger muß in solchen Fällen den gemachten Auftrag erweisen.
+### § 893 ABGB
 
-### § 1033 ABGB
+`§ 893 ABGB.`  
+Sobald ein Mitschuldner dem Gläubiger das Ganze entrichtet hat, darf dieser von den übrigen Mitschuldnern nichts mehr fordern; und sobald ein Mitgläubiger von dem Schuldner ganz befriediget worden ist, haben die übrigen Mitgläubiger keinen Anspruch mehr.
 
-`§ 1033 ABGB.`  
-Besteht aber zwischen dem Borgnehmer und dem Borggeber ein ordentliches Einschreibebuch, worin die ausgeborgten Sachen aufgezeichnet werden; so gilt die Vermuthung, daß der Ueberbringer dieses Buches bevollmächtiget sey, die Waare auf Borg zu nehmen.
+### § 894 ABGB
 
-### § 1034 ABGB # Gesetzliche Vertretung
+`§ 894 ABGB.`  
+Ein Mitschuldner kann dadurch, daß er mit dem Gläubiger lästigere Bedingungen eingeht, den übrigen keinen Nachtheil zuziehen, und die Nachsicht oder Befreyung, welche ein Mitschuldner für seine Person erhält, kommt den übrigen nicht zu Statten.
 
-`§ 1034 (1) ABGB.`  
-Als gesetzlicher Vertreter einer Person wird bezeichnet:  
-`§ 1034 (1) Z 1 ABGB.`
-wer für ein minderjähriges Kind im Rahmen der Obsorge oder sonst im Einzelfall gesetzlich mit dessen Vertretung betraut ist;  
-`§ 1034 (1) Z 2 ABGB.`
-ein Vorsorgebevollmächtigter, sobald die Vorsorgevollmacht wirksam ist (§ 245 Abs. 1);  
-`§ 1034 (1) Z 3 ABGB.`
-ein gewählter und ein gesetzlicher Erwachsenenvertreter nach der Registrierung im Österreichischen Zentralen Vertretungsverzeichnis sowie ein gerichtlicher Erwachsenenvertreter und  
-`§ 1034 (1) Z 4 ABGB.`
-ein Kurator (§ 277).
+### § 895 ABGB
 
-`§ 1034 (2) ABGB.`  
-Sofern nichts anderes angeordnet ist, wird eine durch Gerichtsentscheidung angeordnete gesetzliche Vertretung mit Rechtskraft der Entscheidung wirksam.
+`§ 895 ABGB.`  
+Wie weit aus mehrern Mitgläubigern, welchen eben dasselbe Ganze zur ungetheilten Hand zugesagt worden ist, derjenige, welcher die ganze Forderung für sich erhalten hat, den übrigen Gläubigern hafte, muß aus den besondern, zwischen den Mitgläubigern bestehenden, rechtlichen Verhältnissen bestimmet werden. Besteht kein solches Verhältniß; so ist einer dem andern keine Rechenschaft schuldig.
 
-### § 1035 ABGB # Geschäftsführung ohne Auftrag;
+### § 896 ABGB
 
-`§ 1035 ABGB.`  
-Wer weder durch ausdrücklichen oder stillschweigenden Vertrag, noch vom Gerichte, noch aus dem Gesetze das Befugniß erhalten hat, darf der Regel nach sich in das Geschäft eines Andern nicht mengen. Hätte er sich dessen angemaßt; so ist er für alle Folgen verantwortlich.
+`§ 896 ABGB.`  
+Ein Mitschuldner zur ungetheilten Hand, welcher die ganze Schuld aus dem Seinigen abgetragen hat, ist berechtiget, auch ohne geschehene Rechtsabtretung, von den übrigen den Ersatz, und zwar, wenn kein anderes besonderes Verhältniß unter ihnen besteht, zu gleichen Theilen zu fordern. War einer aus ihnen unfähig, sich zu verpflichten, oder ist er unvermögend, seiner Verpflichtung Genüge zu leisten; so muß ein solcher ausfallender Antheil ebenfalls von allen Mitverpflichteten übernommen werden. Die erhaltene Befreyung eines Mitverpflichteten kann den übrigen bey der Forderung des Ersatzes nicht nachtheilig seyn. (§. 894).
 
-### § 1036 ABGB # im Nothfalle;
+## Nebenbestimmungen bey Verträgen:
 
-`§ 1036 ABGB.`  
-Wer, obgleich unberufen, ein fremdes Geschäft zur Abwendung eines bevorstehenden Schadens besorgt, dem ist derjenige, dessen Geschäft er besorgt hat, den nothwendigen und zweckmäßig gemachten Aufwand zu ersetzen schuldig; wenn gleich die Bemühung ohne Verschulden fruchtlos geblieben ist (§. 403).
+### § 897 ABGB # 1) Bedingungen;
 
-### § 1037 ABGB # oder zum Nutzen des Andern;
+`§ 897 ABGB.`  
+In Ansehung der Bedingungen bey Verträgen gelten überhaupt die nähmlichen Vorschriften, welche über die den Erklärungen des letzten Willens beygesetzten Bedingungen aufgestellt worden sind.
 
-`§ 1037 ABGB.`  
-Wer fremde Geschäfte bloß, um den Nutzen des Andern zu befördern, übernehmen will, soll sich um dessen Einwilligung bewerben. Hat der Geschäftsführer zwar diese Vorschrift unterlassen, aber das Geschäft auf seine Kosten zu des Andern klarem, überwiegenden Vortheile geführet; so müssen ihm von diesem die darauf verwendeten Kosten ersetzt werden.
+### § 898 ABGB
 
-### § 1038 ABGB
+`§ 898 ABGB.`  
+Verabredungen unter solchen Bedingungen, welche bey einem letzten Willen für nicht beygesetzt angesehen werden, sind ungültig.
 
-`§ 1038 ABGB.`  
-Ist aber der überwiegende Vortheil nicht klar; oder hat der Geschäftsführer eigenmächtig so wichtige Veränderungen in einer fremden Sache vorgenommen, daß die Sache dem Andern zu dem Zwecke, wozu er sie bisher benützte, unbrauchbar wird, so ist dieser zu keinem Ersatze verbunden; er kann vielmehr verlangen, daß der Geschäftsführer auf eigene Kosten die Sache in den vorigen Stand zurücksetze, oder, wenn das nicht möglich ist, ihm volle Genugthuung leiste.
+### § 899 ABGB
 
-### § 1039 ABGB
+`§ 899 ABGB.`  
+Ist die in einem Vertrage vorgeschriebene Bedingung schon vor dem Vertrage eingetroffen; so muß sie nach dem Vertrage nur dann wiederhohlet werden, wenn sie in einer Handlung dessen, der das Recht erwerben soll, besteht, und von ihm wiederhohlet werden kann.
 
-`§ 1039 ABGB.`  
-Wer ein fremdes Geschäft ohne Auftrag auf sich genommen hat, muß es bis zur Vollendung fortsetzen, und gleich einem Bevollmächtigten genaue Rechnung darüber ablegen.
+### § 900 ABGB
 
-### § 1040 ABGB # gegen den Willen des Andern.
+`§ 900 ABGB.`  
+Ein unter einer aufschiebenden Bedingung zugesagtes Recht geht auch auf die Erben über.
 
-`§ 1040 ABGB.`  
-Wenn jemand gegen den gültig erklärten Willen des Eigenthümers sich eines fremden Geschäftes anmaßet, oder den rechtmäßigen Bevollmächtigten durch eine solche Einmengung an der Besorgung des Geschäftes verhindert; so verantwortet er nicht nur den hieraus erwachsenen Schaden und entgangenen Gewinn, sondern er verliert auch den gemachten Aufwand; in so fern er nicht in Natur zurückgenommen werden kann.
+### § 901 ABGB # 2) Bewegungsgrund;
 
-### § 1041 ABGB # Verwendung einer Sache zum Nutzen des Andern.
+`§ 901 ABGB.`  
+Haben die Parteyen den Bewegungsgrund, oder den Endzweck ihrer Einwilligung ausdrücklich zur Bedingung gemacht; so wird der Bewegungsgrund oder Endzweck wie eine andere Bedingung angesehen. Außer dem haben dergleichen Aeußerungen auf die Gültigkeit entgeldlicher Verträge keinen Einfluß. Bey den unentgeldlichen aber sind die bey den letzten Anordnungen gegebenen Vorschriften anzuwenden.
 
-`§ 1041 ABGB.`  
-Wenn ohne Geschäftsführung eine Sache zum Nutzen eines Andern verwendet worden ist; kann der Eigenthümer sie in Natur, oder, wenn dieß nicht mehr geschehen kann, den Werth verlangen, den sie zur Zeit der Verwendung gehabt hat, obgleich der Nutzen in der Folge vereitelt worden ist.
+### § 902 ABGB # 3) Zeit, Ort und Art der Erfüllung;
 
-### § 1042 ABGB
+`§ 902 (1) ABGB.`  
+Eine durch Vertrag oder Gesetz bestimmte Frist ist vorbehaltlich anderer Festsetzung so zu berechnen, daß bei einer nach Tagen bestimmten Frist der Tag nicht mitgezählt wird, in welchen das Ereignis fällt, von dem der Fristenlauf beginnt.
 
-`§ 1042 ABGB.`  
-Wer für einen Andern einen Aufwand macht, den dieser nach dem Gesetze selbst hätte machen müssen, hat das Recht, den Ersatz zu fordern.
+`§ 902 (2) ABGB.`  
+Das Ende einer nach Wochen, Monaten oder Jahren bestimmten Frist fällt auf denjenigen Tag der letzten Woche oder des letzten Monats, welcher nach seiner Benennung oder Zahl dem Tage des Ereignisses entspricht, mit dem der Lauf der Frist beginnt, wenn aber dieser Tag in dem letzten Monat fehlt, auf den letzten Tag dieses Monats.
 
-### § 1043 ABGB
+`§ 902 (3) ABGB.`  
+Unter einem halben Monate sind fünfzehn Tage zu verstehen, unter die Mitte eines Monats der fünfzehnte dieses Monats.
 
-`§ 1043 ABGB.`  
-Hat jemand in einem Nothfalle, um einen größern Schaden von sich und Andern abzuwenden, sein Eigenthum aufgeopfert; so müssen ihn Alle, welche daraus Vortheil zogen, verhältnißmäßig entschädigen. Die ausführlichere Anwendung dieser Vorschrift auf Seegefahren ist ein Gegenstand der Seegesetze.
+### § 903 ABGB
 
-### § 1044 ABGB
+`§ 903 ABGB.`  
+Ein Recht, dessen Erwerbung an einen bestimmten Tag gebunden ist, wird mit dem Anfang dieses Tages erworben. Die Rechtsfolgen der Nichterfüllung einer Verbindlichkeit oder eines Versäumnisses treten erst mit dem Ablauf des letzten Tages der Frist ein. Fällt der für die Abgabe einer Erklärung oder für eine Leistung bestimmte letzte Tag auf einen Sonntag oder anerkannten Feiertag, so tritt an dessen Stelle, vorbehaltlich gegenteiliger Vereinbarung, der nächstfolgende Werktag.
 
-`§ 1044 ABGB.`  
-Die Vertheilung der Kriegsschäden wird nach besondern Vorschriften von den politischen Behörden bestimmt.
+### § 904 ABGB
 
-## Drey u. zwanzigstes Hauptstück. # Von dem Tauschvertrage.
+`§ 904 ABGB.`  
+Ist keine gewisse Zeit für die Erfüllung des Vertrages bestimmt worden; so kann sie sogleich, nähmlich ohne unnöthigen Aufschub, gefordert werden. Hat der Verpflichtete die Erfüllungszeit seiner Willkühr vorbehalten; so muß man entweder seinen Tod abwarten, und sich an die Erben halten; oder, wenn es um eine bloß persönliche, nicht vererbliche, Pflicht zu thun ist, die Erfüllungszeit von dem Richter nach Billigkeit festsetzen lassen. Letzteres findet auch dann Statt, wenn der Verpflichtete die Erfüllung, nach Möglichkeit, oder Thunlichkeit versprochen hat. Uebrigens müssen die Vorschriften, welche oben (§§ 704 – 706) in Rücksicht der den letzten Anordnungen beygerückten Zeitbestimmung gegeben werden, auch hier angewendet werden.
 
-### § 1045 ABGB # Tausch.
+### § 905 ABGB
 
-`§ 1045 ABGB.`  
-Der Tausch ist ein Vertrag, wodurch eine Sache gegen eine andere Sache überlassen wird. Die wirkliche Uebergabe ist nicht zur Errichtung; sondern nur zur Erfüllung des Tauschvertrages, und zur Erwerbung des Eigenthumes nothwendig.
+`§ 905 (1) ABGB.`  
+Kann der Erfüllungsort weder aus der Verabredung noch aus der Natur oder dem Zwecke des Geschäftes bestimmt werden, so ist an dem Orte zu leisten, wo der Schuldner zur Zeit des Vertragsabschlusses seinen Wohnsitz hatte, oder, wenn die Verbindlichkeit im Betriebe des gewerblichen oder geschäftlichen Unternehmens des Schuldners entstand, am Orte der Niederlassung. Für das Maß und das Gewicht ist der Ort der Erfüllung maßgeblich.
 
-### § 1046 ABGB
+`§ 905 (2) ABGB.`  
+Aus der Übernahme der Kosten der Versendung durch den Schuldner allein folgt noch nicht, dass der Ort, an den die Versendung zu erfolgen hat, für den Schuldner als Erfüllungsort zu gelten hat.
 
-`§ 1046 ABGB.`  
-Das Geld ist kein Gegenstand des Tauschvertrages; doch lassen sich Gold und Silber als eine Waare, und selbst als Münz-Sorten in so weit vertauschen; als sie nur gegen andere Münz-Sorten, goldene nähmlich gegen silberne, kleinere gegen größere Stücke verwechselt werden sollen.
+`§ 905 (3) ABGB.`  
+Die Gefahr für eine mit Willen des Gläubigers an einen anderen Ort als den Erfüllungsort übersendete Sache geht mit dem Zeitpunkt der Übergabe (§ 429) an den Gläubiger über.
 
-### § 1047 ABGB # Rechte und Pflichten der Tauschenden;
+### § 905a ABGB
 
-`§ 1047 ABGB.`  
-Tauschende sind vermöge des Vertrages verpflichtet, die vertauschten Sachen der Verabredung gemäß mit ihren Bestandteilen und mit allem Zugehör zu rechter Zeit, am gehörigen Ort und in eben dem Zustande, in welchem sie sich bei Schließung des Vertrages befunden haben, zum freien Besitze zu übergeben und zu übernehmen.
+`§ 905a ABGB.`  
+Wird eine nur der Gattung nach bestimmte Sache geschuldet, so ist diese in mittlerer Art und Güte zu leisten.
 
-### § 1048 ABGB # insbesondere in Rücksicht der Gefahr,
+### § 906 ABGB
 
-`§ 1048 ABGB.`  
-Ist eine Zeit bedungen, zu welcher die Uebergabe geschehen soll, und wird in der Zwischenzeit entweder die vertauschte bestimmte Sache durch Verboth außer Verkehr gesetzt, oder zufälliger Weise ganz, oder doch über die Hälfte am Werthe zu Grunde gerichtet, so ist der Tausch für nicht geschlossen anzusehen.
+`§ 906 (1) ABGB.`  
+Kann das Versprechen auf mehrere Arten erfüllt werden, so hat der Schuldner die Wahl. Er kann aber von der einmal getroffenen Wahl für sich allein nicht abgehen.
 
-### § 1049 ABGB
+`§ 906 (2) ABGB.`  
+Hat der Gläubiger die Wahl und ist er mit ihr in Verzug, so kann der Schuldner die Wahl an Stelle des Gläubigers treffen oder nach den §§ 918 und 919 vorgehen. Wenn er die Wahl an Stelle des Gläubigers trifft, hat er diesen davon zu verständigen und ihm zugleich eine angemessene Frist zur Vornahme einer anderen Wahl zu setzen. Trifft der Gläubiger keine solche Wahl, so ist die Wahl des Schuldners maßgebend. In jedem Fall gebührt dem Schuldner der Ersatz des Schadens.
 
-`§ 1049 ABGB.`  
-Andere in dieser Zwischenzeit durch Zufall erfolgte Verschlimmerungen der Sache und Lasten gehen auf die Rechnung des Besitzers. Sind jedoch Sachen in Pausch und Bogen behandelt worden; so trägt der Uebernehmer den zufälligen Untergang einzelner Stücke, wenn anders hierdurch das Ganze nicht über die Hälfte am Werthe verändert worden ist.
+### § 907 ABGB
 
-### § 1050 ABGB # und der Nutzungen vor der Übergabe.
+`§ 907 ABGB.`  
+Wird ein Vertrag ausdrücklich mit Vorbehalt der Wahl geschlossen, und dieselbe durch zufälligen Untergang eines oder mehrerer Wahlstücke vereitelt; so ist der Theil, dem die Wahl zusteht, an den Vertrag nicht gebunden. Unterläuft aber ein Verschulden des Verpflichteten; so muß er dem Berechtigten für die Vereitlung der Wahl haften.
 
-`§ 1050 ABGB.`  
-Dem Besitzer gebühren die Nutzungen der vertauschten Sache bis zur bedungenen Zeit der Uebergabe. Von dieser Zeit an gebühren sie, sammt dem Zuwachse, dem Uebernehmer, obgleich die Sache noch nicht übergeben worden ist.
+### § 907a ABGB
 
-### § 1051 ABGB
+`§ 907a (1) ABGB.`  
+Eine Geldschuld ist am Wohnsitz oder an der Niederlassung des Gläubigers zu erfüllen, indem der Geldbetrag dort übergeben oder auf ein vom Gläubiger bekanntgegebenes Bankkonto überwiesen wird. Haben sich nach der Entstehung der Forderung der Wohnsitz oder die Niederlassung des Gläubigers oder dessen Bankverbindung geändert, so trägt der Gläubiger eine dadurch bewirkte Erhöhung der Gefahr und der Kosten für die Erfüllung.
 
-`§ 1051 ABGB.`  
-Ist keine Zeit zur Uebergabe der bestimmten Sache bedungen, und fällt keinem Theile ein Versehen zur Last; so sind die obigen Vorschriften wegen Gefahr und Nutzungen (§§. 1048 – 1050) auf den Zeitpunct der Uebergabe selbst anzuwenden; in so fern die Parteyen nicht etwas Anderes festgesetzt haben.
+`§ 907a (2) ABGB.`  
+Wird eine Geldschuld durch Banküberweisung erfüllt, so hat der Schuldner den Überweisungsauftrag so rechtzeitig zu erteilen, dass der geschuldete Betrag bei Fälligkeit auf dem Konto des Gläubigers wertgestellt ist. Wenn der Fälligkeitstermin nicht schon im Vorhinein bestimmt ist, sondern die Fälligkeit erst durch Erbringung der Gegenleistung, Rechnungsstellung, Zahlungsaufforderung oder einen gleichartigen Umstand ausgelöst wird, hat der Schuldner den Überweisungsauftrag ohne unnötigen Aufschub nach Eintritt des für die Fälligkeit maßgeblichen Umstands zu erteilen. Der Schuldner trägt die Gefahr für die Verzögerung oder das Unterbleiben der Gutschrift auf dem Konto des Gläubigers, soweit die Ursache dafür nicht beim Bankinstitut des Gläubigers liegt.
 
-### § 1052 ABGB
+### § 907b ABGB
 
-`§ 1052 ABGB.`  
-Wer auf die Übergabe dringen will, muß seine Verbindlichkeit erfüllt haben oder sie zu erfüllen bereit sein. Auch der zur Vorausleistung Verpflichtete kann seine Leistung bis zur Bewirkung oder Sicherstellung der Gegenleistung verweigern, wenn diese durch schlechte Vermögensverhältnisse des anderen Teiles gefährdet ist, die ihm zur Zeit des Vertragsabschlusses nicht bekannt sein mußten.
+`§ 907b (1) ABGB.`  
+Ist eine in ausländischer Währung ausgedrückte Geldschuld im Inland zu zahlen, so kann die Zahlung in inländischer Währung erfolgen, es sei denn, dass die Zahlung in ausländischer Währung ausdrücklich bedungen worden ist.
 
-## Vier u. zwanzigstes Hauptstück. # Von dem Kaufvertrage.
+`§ 907b (2) ABGB.`  
+Die Umrechnung erfolgt nach dem zur Zeit der Zahlung am Zahlungsort maßgeblichen Kurswert. Wenn der Schuldner die Zahlung verzögert, hat der Gläubiger die Wahl zwischen dem bei Fälligkeit und dem zur Zeit der Zahlung maßgeblichen Kurswert.
 
-### § 1053 ABGB # Kaufvertrag.
+### § 908 ABGB # 4) Angeld;
 
-`§ 1053 ABGB.`  
-Durch den Kaufvertrag wird eine Sache um eine bestimmte Summe Geldes einem Andern überlassen. Er gehört, wie der Tausch, zu den Titeln ein Eigenthum zu erwerben. Die Erwerbung erfolgt erst durch die Uebergabe des Kaufgegenstandes. Bis zur Uebergabe behält der Verkäufer das Eigenthumsrecht.
+`§ 908 ABGB.`  
+Was bey Abschließung eines Vertrages voraus gegeben wird, ist, außer dem Falle einer besondern Verabredung, nur als ein Zeichen der Abschließung, oder als eine Sicherstellung für die Erfüllung des Vertrages zu betrachten, und heißt Angeld. Wird der Vertrag durch Schuld einer Partey nicht erfüllet; so kann die schuldlose Partey das von ihr empfangene Angeld behalten, oder den doppelten Betrag des von ihr gegebenen Angeldes zurückfordern. Will sie sich aber damit nicht begnügen, so kann sie auf die Erfüllung; oder, wenn diese nicht mehr möglich ist, auf den Ersatz dringen.
 
-### § 1054 ABGB # Erfordernisse des Kaufvertrages.
+### § 909 ABGB # 5) Reugeld;
 
-`§ 1054 ABGB.`  
-Wie die Einwilligung des Käufers und Verkäufers beschaffen seyn müsse, und welche Sachen gekauft und verkauft werden dürfen, dieses wird nach den Regeln der Verträge überhaupt bestimmt. Der Kaufpreis muß im barem Gelde bestehen, und darf weder unbestimmt, noch gesetzwidrig seyn.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Der Kaufpreis muß</h4>
+`§ 909 ABGB.`  
+Wird bey Schließung eines Vertrages ein Betrag bestimmt, welchen ein oder der andere Theil in dem Falle, daß er von dem Vertrage vor der Erfüllung zurücktreten will, entrichten muß; so wird der Vertrag gegen Reugeld geschlossen. In diesem Falle muß entweder der Vertrag erfüllt, oder das Reugeld bezahlet werden. Wer den Vertrag auch nur zum Theile erfüllet; oder das, was von dem Andern auch nur zum Theile zur Erfüllung geleistet worden ist, angenommen hat, kann selbst gegen Entrichtung des Reugeldes nicht mehr zurücktreten.
 
-### § 1055 ABGB # a) in barem Gelde bestehen;
+### § 910 ABGB
 
-`§ 1055 ABGB.`  
-Wird eine Sache theils gegen Geld, theils gegen eine andere Sache veräußert, so wird der Vertrag, je nachdem der Werth am Gelde mehr oder weniger, als der gemeine Werth der gegebenen Sache beträgt, zum Kaufe oder Tausche, und bey gleichem Werthe der Sache, zum Kaufe gerechnet.
+`§ 910 ABGB.`  
+Wenn ein Angeld gegeben, und zugleich das Befugniß des Rücktrittes ohne Bestimmung eines besondern Reugeldes bedungen wird; so vertritt das Angeld die Stelle des Reugeldes. Im Falle des Rücktrittes verliert also der Geber das Angeld; oder der Empfänger stellt das Doppelte zurück.
 
-### § 1056 ABGB # b) bestimmt;
+### § 911 ABGB
 
-`§ 1056 ABGB.`  
-Käufer und Verkäufer können die Festsetzung des Preises auch einer dritten bestimmten Person überlassen. Wird von dieser in dem bedungenen Zeitraume nichts festgesetzt; oder will im Falle, daß kein Zeitraum bedungen worden ist, ein Theil vor der Bestimmung des Preises zurücktreten; so wird der Kaufvertrag als nicht geschlossen angesehen.
+`§ 911 ABGB.`  
+Wer nicht durch bloßen Zufall, sondern durch sein Verschulden an der Erfüllung des Vertrages verhindert wird, muß ebenfalls das Reugeld entrichten.
 
-### § 1057 ABGB
+### § 912 ABGB # 6) Nebengebühren.
 
-`§ 1057 ABGB.`  
-Wird die Bestimmung des Preises mehreren Personen überlassen, so entscheidet die Mehrheit der Stimmen. Fallen die Stimmen so verschieden aus, daß der Preis nicht einmahl durch wirkliche Mehrheit der Stimmen festgesetzt wird; so ist der Kauf für nicht eingegangen zu achten.
+`§ 912 ABGB.`  
+Der Gläubiger ist von seinem Schuldner außer der Hauptschuld zuweilen auch Nebengebühren zu fordern berechtiget. Sie bestehen in dem Zuwachse, und in den Früchten der Hauptsache, in den bestimmten oder in den Zögerungs-Zinsen; oder in dem Ersatze des verursachten Schadens; oder dessen, was dem Andern daran liegt, daß die Verbindlichkeit nicht gehörig erfüllet worden; endlich in dem Betrage, welchen ein Theil sich auf diesen Fall bedungen hat.
 
-### § 1058 ABGB
+### § 913 ABGB
 
-`§ 1058 ABGB.`  
-Auch der Werth, welcher bey einer früheren Veräußerung bedungen worden ist, kann zur Bestimmung des Preises dienen. Hat man den ordentlichen Marktpreis zum Grunde gelegt, so wird der mittlere Marktpreis des Ortes und der Zeit, wo und in welcher der Vertrag erfüllet werden muß, angenommen.
+`§ 913 ABGB.`  
+In wie weit mit einem dinglichen Rechte das Recht auf den Zuwachs, oder auf die Früchte verbunden sey, ist in dem ersten und vierten Hauptstücke des zweyten Theiles bestimmet worden. Wegen eines bloß persönlichen Rechtes hat der Berechtigte noch keinen Anspruch auf Nebengebühren. In wie weit dem Gläubiger ein Recht auf diese zukomme, ist theils aus den besondern Arten und Bestimmungen der Verträge; theils aus dem Hauptstücke, von dem Rechte des Schadenersatzes und der Genugthuung, zu entnehmen.
 
-### § 1059 ABGB # c) nicht gesetzwidrig sein.
+### § 914 ABGB # Auslegungsregeln bey Verträgen.
 
-`§ 1059 ABGB.`  
-(Anm.: Aufgehoben durch § 33 Z 7, BGBl. Nr. 140/1979.)
+`§ 914 ABGB.`  
+Bei Auslegung von Verträgen ist nicht an dem buchstäblichen Sinne des Ausdrucks zu haften, sondern die Absicht der Parteien zu erforschen und der Vertrag so zu verstehen, wie es der Übung des redlichen Verkehrs entspricht.
 
-### § 1060 ABGB
+### § 915 ABGB
 
-`§ 1060 ABGB.`  
-Außer diesem Falle kann der Kauf sowohl von dem Käufer als Verkäufer nur wegen Verletzung über die Hälfte bestritten werden (§§. 934 – 935). Diese Beschwerde findet auch dann Statt, wenn der Ausspruch des Kaufpreises einem Dritten überlassen worden ist.
+`§ 915 ABGB.`  
+Bey einseitig verbindlichen Verträgen wird im Zweifel angenommen, daß sich der Verpflichtete eher die geringere als die schwerere Last auflegen wollte; bey zweyseitig verbindlichen wird eine undeutliche Aeußerung zum Nachtheile desjenigen erkläret, der sich derselben bedienet hat (§. 869).
 
-### § 1061 ABGB # Pflichten des Verkäufers,
+### § 916 ABGB
 
-`§ 1061 ABGB.`  
-Der Verkäufer ist schuldig, die Sache bis zur Zeit der Uebergabe sorgfältig zu verwahren und sie dem Käufer nach eben den Vorschriften zu übergeben, welche oben bey dem Tausche (§. 1047) aufgestellt worden sind.
+`§ 916 (1) ABGB.`  
+Eine Willenserklärung, die einem anderen gegenüber mit dessen Einverständnis zum Schein abgegeben wird, ist nichtig. Soll dadurch ein anderes Geschäft verborgen werden, so ist dieses nach seiner wahren Beschaffenheit zu beurteilen.
 
-### § 1062 ABGB # und des Käufers.
+`§ 916 (2) ABGB.`  
+Einem Dritten, der im Vertrauen auf die Erklärung Rechte erworben hat, kann die Einrede des Scheingeschäftes nicht entgegengesetzt werden.
 
-`§ 1062 ABGB.`  
-Der Käufer hingegen ist verbunden, die Sache sogleich, oder zur bedungenen Zeit zu übernehmen, zugleich aber auch das Kaufgeld bar abzuführen; widrigen Falls ist der Verkäufer ihm die Uebergabe der Sache zu verweigern berechtiget.
+### § 917 ABGB # Allgemeine Bestimmungen über entgeltliche Verträge und Geschäfte
 
-### § 1063 ABGB
+`§ 917 ABGB.`  
+Bei einem entgeltlichen Vertrage werden entweder Sachen mit Sachen, oder Handlungen, worunter auch die Unterlassungen gehören, mit Handlungen, oder endlich Sachen mit Handlungen und Handlungen mit Sachen vergolten.
 
-`§ 1063 ABGB.`  
-Wird die Sache dem Käufer von dem Verkäufer ohne das Kaufgeld zu erhalten, übergeben; so ist die Sache auf Borg verkauft, und das Eigenthum derselben geht gleich auf den Käufer über.
+### § 917a ABGB
 
-### § 1063a ABGB
+`§ 917a ABGB.`  
+Ist zum Schutz eines Vertragspartners gesetzlich bestimmt, daß kein höheres oder kein niedrigeres als ein bestimmtes Entgelt vereinbart werden darf, so ist eine Entgeltvereinbarung soweit unwirksam, als sie dieses Höchstmaß über- beziehungsweise dieses Mindestmaß unterschreitet. Im zweiten Fall gilt das festgelegte Mindestentgelt als vereinbart.
 
-`§ 1063a ABGB.`  
-Die Kosten der Übergabe der verkauften Ware, insbesondere die Kosten des Messens und des Wägens, fallen dem Verkäufer zur Last, die Kosten der Abnahme und der Versendung der Sache an einen anderen Ort als den Erfüllungsort aber dem Käufer.
+### § 918 ABGB
 
-### § 1063b ABGB
+`§ 918 (1) ABGB.`  
+Wenn ein entgeltlicher Vertrag von einem Teil entweder nicht zur gehörigen Zeit, am gehörigen Ort oder auf die bedungene Weise erfüllt wird, kann der andere entweder Erfüllung und Schadenersatz wegen der Verspätung begehren oder unter Festsetzung einer angemessenen Frist zur Nachholung den Rücktritt vom Vertrag erklären.
 
-`§ 1063b ABGB.`  
-Wenn dem Käufer beim Kauf einer beweglichen Sache die nähere Bestimmung der Form, des Maßes oder ähnlicher Verhältnisse vorbehalten ist, ist er verpflichtet, die vorbehaltene Bestimmung zu treffen. Im Übrigen gilt § 906 Abs. 2 sinngemäß.
+`§ 918 (2) ABGB.`  
+Ist die Erfüllung für beide Seiten teilbar, so kann wegen Verzögerung einer Teilleistung der Rücktritt nur hinsichtlich der einzelnen oder auch aller noch ausstehenden Teilleistungen erklärt werden.
 
-### § 1064 ABGB # Gefahr und Nutzen des Kaufgegenstandes.
+### § 919 ABGB
 
-`§ 1064 ABGB.`  
-In Rücksicht der Gefahr und Nutzungen einer zwar gekauften, aber noch nicht übergebenen Sache gelten die nähmlichen Vorschriften, die bey dem Tauschvertrage gegeben worden sind (§§. 1048 – 1051).
+`§ 919 ABGB.`  
+Ist die Erfüllung zu einer festbestimmten Zeit oder binnen einer festbestimmten Frist bei sonstigem Rücktritt bedungen, so muß der Rücktrittsberechtigte, wenn er auf der Erfüllung bestehen will, das nach Ablauf der Zeit dem andern ohne Verzug anzeigen; unterläßt er dies, so kann er später nicht mehr auf der Erfüllung bestehen. Dasselbe gilt, wenn die Natur des Geschäftes oder der dem Verpflichteten bekannte Zweck der Leistung entnehmen läßt, daß die verspätete Leistung oder, im Falle der Verspätung einer Teilleistung, die noch übrigen Leistungen für den Empfänger kein Interesse haben.
 
-### § 1065 ABGB # Kauf einer gehofften Sache.
+### § 920 ABGB
 
-`§ 1065 ABGB.`  
-Wenn Sachen, die noch zu erwarten stehen, gekauft werden; so sind die in dem Hauptstücke von gewagten Geschäften gegebenen Anordnungen anzuwenden.
+`§ 920 ABGB.`  
+Wird die Erfüllung durch Verschulden des Verpflichteten oder einen von ihm zu vertretenden Zufall vereitelt, so kann der andere Teil entweder Schadenersatz wegen Nichterfüllung fordern oder vom Vertrage zurücktreten. Bei teilweiser Vereitlung steht ihm der Rücktritt zu, falls die Natur des Geschäftes oder der dem Verpflichteten bekannte Zweck der Leistung entnehmen läßt, daß die teilweise Erfüllung für ihn kein Interesse hat.
 
-### § 1066 ABGB # Allgemeine Vorschrift.
+### § 921 ABGB
 
-`§ 1066 ABGB.`  
-In allen bey einem Kaufvertrage vorkommenden Fällen, welche in dem Gesetze nicht ausdrücklich entschieden werden, sind die in den Hauptstücken von Verträgen überhaupt, und von dem Tauschvertrage insbesondere aufgestellten Vorschriften anzuwenden.
+`§ 921 ABGB.`  
+Der Rücktritt vom Vertrage läßt den Anspruch auf Ersatz des durch verschuldete Nichterfüllung verursachten Schadens unberührt. Das bereits empfangene Entgelt ist auf solche Art zurückzustellen oder zu vergüten, daß kein Teil aus dem Schaden des anderen Gewinn zieht.
 
-### § 1067 ABGB # Besondere Arten oder Nebenverträge eines Kaufvertrages.
+### § 922 ABGB # Gewährleistung
 
-`§ 1067 ABGB.`  
-Besondere Arten oder Nebenverträge eines Kaufvertrages sind: der Vorbehalt des Wiederkaufes, des Rückverkaufes, des Vorkaufes; der Verkauf auf die Probe; der Verkauf mit Vorbehalt eines bessern Käufers; und der Verkaufsauftrag.
+`§ 922 (1) ABGB.`  
+Wer einem anderen eine Sache gegen Entgelt überlässt, leistet Gewähr, dass sie dem Vertrag entspricht. Er haftet also dafür, dass die Sache die bedungenen oder gewöhnlich vorausgesetzten Eigenschaften hat, dass sie seiner Beschreibung, einer Probe oder einem Muster entspricht und dass sie der Natur des Geschäftes oder der getroffenen Verabredung gemäß verwendet werden kann.
 
-### § 1068 ABGB # Verkauf mit Vorbehalt des Wiederkaufes.
+`§ 922 (2) ABGB.`  
+Ob die Sache dem Vertrag entspricht, ist auch danach zu beurteilen, was der Übernehmer auf Grund der über sie gemachten öffentlichen Äußerungen des Übergebers oder des Herstellers, vor allem in der Werbung und in den der Sache beigefügten Angaben, erwarten kann; das gilt auch für öffentliche Äußerungen einer Person, die die Sache in den Europäischen Wirtschaftsraum eingeführt hat oder die sich durch die Anbringung ihres Namens, ihrer Marke oder eines anderen Kennzeichens an der Sache als Hersteller bezeichnet. Solche öffentlichen Äußerungen binden den Übergeber jedoch nicht, wenn er sie weder kannte noch kennen konnte, wenn sie beim Abschluss des Vertrags berichtigt waren oder wenn sie den Vertragsabschluss nicht beeinflusst haben konnten.
 
-`§ 1068 ABGB.`  
-Das Recht eine verkaufte Sache wieder einzulösen, heißt das Recht des Wiederkaufes. Ist dieses Recht dem Verkäufer überhaupt und ohne nähere Bestimmung eingeräumt, so wird von einer Seite das Kaufstück in einem nicht verschlimmerten Zustande; von der andern Seite aber das erlegte Kaufgeld zurück gegeben, und die inzwischen beyderseits aus dem Gelde und der Sache gezogenen Nutzungen bleiben gegen einander aufgehoben.
+### § 923 ABGB # Fälle der Gewährleistung.
 
-### § 1069 ABGB
+`§ 923 ABGB.`  
+Wer also der Sache Eigenschaften beylegt, die sie nicht hat, und die ausdrücklich oder vermöge der Natur des Geschäftes stillschweigend bedungen worden sind; wer ungewöhnliche Mängel, oder Lasten derselben verschweigt; wer eine nicht mehr vorhandene, oder eine fremde Sache als die seinige veräußert; wer fälschlich vorgibt, daß die Sache zu einem bestimmten Gebrauche tauglich; oder daß sie auch von den gewöhnlichen Mängeln und Lasten frey sey; der hat, wenn das Widerspiel hervorkommt, dafür zu haften.
 
-`§ 1069 ABGB.`  
-Hat der Käufer das Kaufstück aus dem Seinigen verbessert; oder zu dessen Erhaltung außerordentliche Kosten verwendet, so gebührt ihm gleich einem redlichen Besitzer der Ersatz; er haftet aber auch dafür, wenn durch sein Verschulden der Werth verändert, oder die Zurückgabe vereitelt worden ist.
+### § 924 ABGB # Vermutung der Mangelhaftigkeit
 
-### § 1070 ABGB
+`§ 924 ABGB.`  
+Der Übergeber leistet Gewähr für Mängel, die bei der Übergabe vorhanden sind. Dies wird bis zum Beweis des Gegenteils vermutet, wenn der Mangel innerhalb von sechs Monaten nach der Übergabe hervorkommt. Die Vermutung tritt nicht ein, wenn sie mit der Art der Sache oder des Mangels unvereinbar ist.
 
-`§ 1070 ABGB.`  
-Der Vorbehalt des Wiederkaufes findet nur bei unbeweglichen Sachen statt und gebührt dem Verkäufer nur für seine Lebenszeit. Er kann sein Recht weder auf die Erben noch auf einen anderen übertragen. Ist das Recht in die öffentlichen Bücher einverleibt, so kann die Sache auch einem Dritten abgefordert werden und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt.
+### § 925 ABGB
 
-### § 1071 ABGB # Kauf mit Vorbehalt des Rückverkaufes.
+`§ 925 ABGB.`  
+Durch Verordnung wird bestimmt, inwiefern die Vermutung eintritt, daß ein Tier schon vor der Übergabe krank gewesen ist, wenn innerhalb bestimmter Fristen gewisse Krankheiten und Mängel hervorkommen.
 
-`§ 1071 ABGB.`  
-Den nähmlichen Beschränkungen unterliegt das von dem Käufer ausbedungene Recht, die Sache dem Verkäufer wieder zurück zu verkaufen; und es sind auf dasselbe die für den Wiederkauf ertheilten Vorschriften anzuwenden. Ist aber die Bedingung des Wiederverkaufs oder Wiederkaufs verstellt, und eigentlich um ein Pfandrecht oder ein Borggeschäft zu verbergen, gebraucht worden, so tritt die Vorschrift des §. 916 ein.
+### § 926 ABGB
 
-### § 1072 ABGB # Vorbehalt des Vorkaufsrechtes.
+`§ 926 ABGB.`  
+Von der rechtlichen Vermutung, daß der Mangel schon vor der Übergabe des Tieres vorhanden war, kann aber der Übernehmer nur dann Gebrauch machen, wenn dem Übergeber oder in dessen Abwesenheit dem Gemeindevorsteher sogleich von dem bemerkten Fehler Nachricht gibt oder das Tier durch einen Sachverständigen untersuchen läßt oder die gerichtliche Beweisaufnahme zur Sicherung des Beweises beantragt.
 
-`§ 1072 ABGB.`  
-Wer eine Sache mit der Bedingung verkauft, daß der Käufer, wenn er solche wieder verkaufen will, ihm die Einlösung anbiethen soll, der hat das Vorkaufsrecht.
+### § 927 ABGB
 
-### § 1073 ABGB
+`§ 927 ABGB.`  
+Vernachlässigt der Übernehmer diese Vorsicht, so liegt ihm der Beweis ob, daß das Tier schon vor der Übergabe mangelhaft war. Immer steht aber auch dem Übergeber der Beweis offen, daß der gerügte Mangel erst nach der Übergabe eingetreten sei.
 
-`§ 1073 ABGB.`  
-Das Vorkaufsrecht ist in der Regel ein persönliches Recht. In Rücksicht auf unbewegliche Güter kann es durch Eintragung in die öffentlichen Bücher in ein dingliches verwandelt werden.
+### § 928 ABGB
 
-### § 1074 ABGB
+`§ 928 ABGB.`  
+Fallen die Mängel einer Sache in die Augen oder sind die auf der Sache haftenden Lasten aus den öffentlichen Büchern zu ersehen, so findet außer dem Falle arglistigen Verschweigens des Mangels oder einer ausdrücklichen Zusage, daß die Sache von allen Fehlern und Lasten frei sei, keine Gewährleistung statt (§ 443). Schulden und Rückstände, welche auf der Sache haften, müssen stets vertreten werden.
 
-`§ 1074 ABGB.`  
-Auch kann das Vorkaufsrecht weder einem Dritten abgetreten, noch auf die Erben des Berechtigten übertragen werden.
+### § 929 ABGB
 
-### § 1075 ABGB
+`§ 929 ABGB.`  
+Wer eine fremde Sache wissentlich an sich bringt, hat eben so wenig Anspruch auf eine Gewährleistung, als derjenige, welcher ausdrücklich darauf Verzicht gethan hat.
 
-`§ 1075 ABGB.`  
-Der Berechtigte muß bewegliche Sachen binnen vier und zwanzig Stunden; unbewegliche aber binnen dreyßig Tagen, nach der geschehenen Anbiethung, wirklich einlösen. Nach Verlauf dieser Zeit ist das Vorkaufsrecht erloschen.
+### § 930 ABGB
 
-### § 1076 ABGB
+`§ 930 ABGB.`  
+Werden Sachen in Pausch und Bogen, nähmlich so, wie sie stehen und liegen, ohne Zahl, Maß und Gewicht übergeben; so ist der Uebergeber, außer dem Falle, daß eine von ihm fälschlich vorgegebene, oder von dem Empfänger bedungene Beschaffenheit mangelt, für die daran entdeckten Fehler nicht verantwortlich.
 
-`§ 1076 ABGB.`  
-Das Vorkaufsrecht hat im Falle einer gerichtlichen Feilbiethung der mit diesem Rechte belasteten Sachen keine andere Wirkung, als daß der den öffentlichen Büchern einverleibte Berechtigte zur Feilbiethung insbesondere vorgeladen werden muß.
+### § 931 ABGB # Bedingung der Gewährleistung.
 
-### § 1077 ABGB
+`§ 931 ABGB.`  
+Wenn der Übernehmer wegen eines von einem Dritten auf die Sache erhobenen Anspruches von der Gewährleistung Gebrauch machen will, so muß er seinem Vormann den Streit verkündigen. Unterläßt er dies, so verliert er zwar noch nicht das Recht der Schadloshaltung, aber sein Vormann kann ihm alle wider den Dritten unausgeführt gebliebenen Einwendungen entgegensetzen und sich dadurch von der Entschädigung in dem Maße befreien, als erkannt wird, daß diese Einwendungen, wenn von ihnen der gehörige Gebrauch gemacht worden wäre, eine andere Entscheidung gegen den Dritten veranlaßt haben würden.
 
-`§ 1077 ABGB.`  
-Der zur Einlösung Berechtigte, muß außer dem Falle einer andern Verabredung, den vollständigen Preis, welcher von einem Dritten angebothen worden ist, entrichten. Kann er die außer dem gewöhnlichen Kaufpreise angebothenen Nebenbedingungen nicht erfüllen, und lassen sie sich auch durch einen Schätzungswerth nicht ausgleichen; so kann das Vorkaufsrecht nicht ausgeübt werden.
+### § 932 ABGB # Rechte aus der Gewährleistung
 
-### § 1078 ABGB
+`§ 932 (1) ABGB.`  
+Der Übernehmer kann wegen eines Mangels entweder die Verbesserung (Nachbesserung oder Nachtrag des Fehlenden) oder den Austausch der Sache verlangen oder den Preis mindern oder den Vertrag auflösen.
 
-`§ 1078 ABGB.`  
-Das Vorkaufsrecht läßt sich auf andere Veräußerungsarten ohne eine besondere Verabredung nicht ausdehnen.
+`§ 932 (2) ABGB.`  
+Zunächst kann der Übernehmer nur die Verbesserung oder den Austausch der Sache verlangen, es sei denn, dass die Verbesserung oder der Austausch unmöglich ist oder für den Übergeber, verglichen mit der anderen Abhilfe, mit einem unverhältnismäßig hohen Aufwand verbunden wäre. Ob dies der Fall ist, richtet sich auch nach dem Wert der mangelfreien Sache, der Schwere des Mangels und den mit der anderen Abhilfe für den Übernehmer verbundenen Unannehmlichkeiten.
 
-### § 1079 ABGB
+`§ 932 (3) ABGB.`  
+Die Verbesserung oder der Austausch ist in angemessener Frist und mit möglichst geringen Unannehmlichkeiten für den Übernehmer zu bewirken, wobei die Art der Sache und der mit ihr verfolgte Zweck zu berücksichtigen sind. Die Kosten der Verbesserung oder des Austausches hat der Übergeber zu tragen.
 
-`§ 1079 ABGB.`  
-Hat der Besitzer dem Berechtigten die Einlösung nicht angebothen, so muß er ihm für allen Schaden haften. Im Falle eines dinglichen Vorkaufsrechtes kann die veräußerte Sache dem Dritten abgefordert werden, und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt.
+`§ 932 (4) ABGB.`  
+Sind sowohl die Verbesserung als auch der Austausch unmöglich oder für den Übergeber mit einem unverhältnismäßig hohen Aufwand verbunden, so hat der Übernehmer das Recht auf Preisminderung oder, sofern es sich nicht um einen geringfügigen Mangel handelt, das Recht auf Auflösung des Vertrags. Dasselbe gilt, wenn der Übergeber die Verbesserung oder den Austausch verweigert oder nicht in angemessener Frist vornimmt, wenn diese Abhilfen für den Übernehmer mit erheblichen Unannehmlichkeiten verbunden wären oder wenn sie ihm aus triftigen, in der Person des Übergebers liegenden Gründen unzumutbar sind.
 
-### § 1080 ABGB # Kauf auf die Probe.
+### § 932a ABGB
 
-`§ 1080 ABGB.`  
-Der Kauf auf Probe ist unter der im Belieben des Käufers stehenden Bedingung geschlossen, daß er die Ware genehmige. Die Bedingung ist im Zweifel eine aufschiebende; der Käufer ist vor der Genehmigung an den Kauf nicht gebunden, der Verkäufer hört auf, gebunden zu sein, wenn der Käufer bis zum Ablaufe der Probezeit nicht genehmigt.
+`§ 932a ABGB.`  
+Während des Rechtsstreites über die Aufhebung des Vertrages wegen eines Viehmangels hat das Gericht auf Antrag einer der Parteien, sobald die Besichtigung nicht mehr erforderlich ist, durch einstweilige Verfügung den gerichtlichen Verkauf des Tieres und die gerichtliche Hinterlegung des Erlöses anzuordnen.
 
-### § 1081 ABGB
+### § 933 ABGB # Gewährleistungsfrist; Verjährung
 
-`§ 1081 ABGB.`  
-Ist die Sache zum Zwecke der Besichtigung oder Probe bereits übergeben, so gilt Stillschweigen des Käufers bis nach Ablauf der Probezeit als Genehmigung.
+`§ 933 (1) ABGB.`  
+Der Übergeber leistet Gewähr für jeden Mangel, der bei Übergabe der Sache vorliegt und innerhalb von zwei Jahren, bei einer unbeweglichen Sache innerhalb von drei Jahren nach diesem Zeitpunkt hervorkommt. Bei Rechtsmängeln leistet der Übergeber Gewähr, wenn der Mangel bei Übergabe der Sache vorliegt.
 
-### § 1082 ABGB
+`§ 933 (2) ABGB.`  
+Bei Viehmängeln beträgt die Frist sechs Wochen. Sie beginnt bei Mängeln, für die eine Vermutungsfrist besteht, erst nach deren Ablauf.
 
-`§ 1082 ABGB.`  
-Ist bei einem Kauf auf Probe keine Probezeit vereinbart worden, so kann der Verkäufer dem Käufer eine angemessene Frist als Probezeit setzen.
+`§ 933 (3) ABGB.`  
+Die Rechte des Übernehmers aus der Gewährleistung sowie die Ansprüche aus einer Preisminderung oder Vertragsauflösung verjähren drei Monate nach Ablauf der Gewährleistungsfrist. Im Fall von Rechtsmängeln tritt die Verjährung zwei Jahre, bei einer unbeweglichen Sache drei Jahre nach dem Zeitpunkt ein, zu dem der Mangel dem Übernehmer bekannt wird. Wenn der Übernehmer dem Übergeber den Mangel innerhalb der Verjährungsfrist anzeigt, kann er den Mangel zeitlich unbeschränkt durch Einrede gegen die Entgeltforderung des Übergebers geltend machen.
 
-### § 1083 ABGB # Verkauf mit Vorbehalt eines besseren Käufers.
+`§ 933 (4) ABGB.`  
+Die Parteien können eine Verkürzung oder Verlängerung der in Abs. 1 bis 3 vorgesehenen Fristen vereinbaren.
 
-`§ 1083 ABGB.`  
-Wird das Kaufgeschäft mit dem Vorbehalte verabredet, daß der Verkäufer, wenn sich binnen einer bestimmten Zeit ein besserer Käufer meldet, denselben vorzuziehen befugt sey; so bleibt in dem Falle, daß das Kaufstück nicht übergeben worden, die Wirklichkeit des Vertrages bis zum Eintritte der Bedingung aufgeschoben.
+### § 933a ABGB # Schadenersatz
 
-### § 1084 ABGB
+`§ 933a (1) ABGB.`  
+Hat der Übergeber den Mangel verschuldet, so kann der Übernehmer auch Schadenersatz fordern.
 
-`§ 1084 ABGB.`  
-Ist das Kaufstück übergeben worden, so ist der Kaufvertrag abgeschlossen; er wird aber durch den Eintritt der Bedingung wieder aufgelöset. Bey dem Mangel einer ausdrücklichen Zeitbestimmung wird der bey dem Kaufe auf die Probe angenommene Zeitraum vermuthet.
+`§ 933a (2) ABGB.`  
+Wegen des Mangels selbst kann der Übernehmer auch als Schadenersatz zunächst nur die Verbesserung oder den Austausch verlangen. Er kann jedoch Geldersatz verlangen, wenn sowohl die Verbesserung als auch der Austausch unmöglich ist oder für den Übergeber mit einem unverhältnismäßig hohen Aufwand verbunden wäre. Dasselbe gilt, wenn der Übergeber die Verbesserung oder den Austausch verweigert oder nicht in angemessener Frist vornimmt, wenn diese Abhilfen für den Übernehmer mit erheblichen Unannehmlichkeiten verbunden wären oder wenn sie ihm aus triftigen, in der Person des Übergebers liegenden Gründen unzumutbar sind.
 
-### § 1085 ABGB
+`§ 933a (3) ABGB.`  
+Nach Ablauf von zehn Jahren ab der Übergabe der Sache obliegt für einen Ersatzanspruch wegen der Mangelhaftigkeit selbst und wegen eines durch diese verursachten weiteren Schadens dem Übernehmer der Beweis des Verschuldens des Übergebers.
 
-`§ 1085 ABGB.`  
-Ob der neue Käufer besser sey, beurtheilet der Verkäufer. Er kann den zweyten Käufer, wenn der erste auch noch mehr zahlen wollte, vorziehen. Bey der Auflösung des Vertrages heben sich die Nutzungen der Sache und des Geldes gegen einander auf. In Rücksicht der Verbesserungen oder Verschlimmerungen wird der Käufer gleich einem redlichen Besitzer behandelt.
+### § 933b ABGB # Rückgriff des gewährleistungspflichtigen Übergebers
 
-### § 1086 ABGB # Verkaufsauftrag.
+`§ 933b (1) ABGB.`  
+Hat ein Unternehmer einem Verbraucher Gewähr geleistet, so kann er von seinem Vormann, sofern auch dieser Unternehmer ist, auch nach Ablauf der Fristen des § 933 die Gewährleistung fordern. Dasselbe gilt für frühere Übergeber im Verhältnis zu ihren Vormännern, wenn sie selbst wegen der Gewährleistungsrechte des letzten Übernehmers ihrem Nachmann Gewähr geleistet haben. Der Anspruch ist mit den dem Übergeber aus dessen Gewährleistungspflicht entstandenen Nachteilen beschränkt.
 
-`§ 1086 ABGB.`  
-Wenn jemand seine bewegliche Sache einem Andern für einen gewissen Preis zum Verkaufe übergibt, mit der Bedingung, daß ihm der Uebernehmer binnen einer festgesetzten Zeit entweder das bestimmte Kaufgeld liefern oder die Sache zurückstellen soll; so ist der Uebergeber vor Verlauf der Zeit die Sache zurück zu fordern nicht berechtiget; der Uebernehmer aber muß nach deren Ablauf das bestimmte Kaufgeld entrichten.
+`§ 933b (2) ABGB.`  
+Hat der Übergeber durch Verbesserung oder Austausch Gewähr geleistet, so umfasst sein Anspruch nach Abs. 1 auch den Ersatz des ihm durch die Verbesserung oder den Austausch entstandenen Aufwands, sofern er unverzüglich nach Bekanntgabe des Mangels durch den Übernehmer seinen Vormann zur Herstellung des mangelfreien Zustands aufgefordert hat und der Vormann dieser Aufforderung nicht innerhalb einer angemessenen Frist nachgekommen ist.
 
-### § 1087 ABGB
+`§ 933b (3) ABGB.`  
+Ansprüche nach Abs. 1 verjähren drei Monate nach Erfüllung der eigenen Gewährleistungspflicht, spätestens aber fünf Jahre, nachdem der Rückgriffspflichtige seine Leistung erbracht hat. Die Verjährung wird durch eine Streitverkündigung für die Dauer des Rechtsstreits gehemmt.
 
-`§ 1087 ABGB.`  
-Während der festgesetzten Zeit bleibt der Uebergeber Eigenthümer, der Uebernehmer haftet ihm für den durch sein Verschulden verursachten Schaden, und es werden ihm bey Zurückstellung der Sache nur solche Kosten vergütet, die dem Uebergeber zum Nutzen gereichen.
+`§ 933b (4) ABGB.`  
+Eine Vereinbarung, mit der ein Anspruch nach Abs. 1 ausgeschlossen oder beschränkt wird, ist nur verbindlich, wenn sie im Einzelnen ausgehandelt worden ist und den Übergeber unter Berücksichtigung aller Umstände des Falles nicht gröblich benachteiligt.
 
-### § 1088 ABGB
+### § 934 ABGB # Schadloshaltung wegen Verkürzung über die Hälfte.
 
-`§ 1088 ABGB.`  
-Ist die Sache unbeweglich; oder ist der Preis, oder die Zahlungsfrist nicht bestimmt; so wird der Uebernehmer wie ein Gewalthaber angesehen. In keinem Falle kann die zum Verkaufe anvertraute Sache dem Dritten, welcher sie von dem Uebernehmer redlicher Weise an sich gebracht hat, abgefordert werden (§. 367).
+`§ 934 ABGB.`  
+Hat bey zweyseitig verbindlichen Geschäften ein Theil nicht einmahl die Hälfte dessen, was er dem andern gegeben hat, von diesem an dem gemeinen Werthe erhalten, so räumt das Gesetz dem verletzten Theile das Recht ein, die Aufhebung, und die Herstellung in den vorigen Stand zu fordern. Dem andern Theile steht aber bevor, das Geschäft dadurch aufrecht zu erhalten, daß er den Abgang bis zum gemeinen Werthe zu ersetzen bereit ist. Das Mißverhältniß des Werthes wird nach dem Zeitpuncte des geschlossenen Geschäftes bestimmt.
 
-### § 1089 ABGB
+### § 935 ABGB
 
-`§ 1089 ABGB.`  
-Auch bey gerichtlichen Verkäufen finden die über Verträge, und den Tausch- und Kaufvertrag insbesondere aufgestellten Vorschriften in der Regel Statt; in so fern nicht in diesem Gesetze, oder in der Gerichtsordnung eigene Anordnungen enthalten sind.
+`§ 935 ABGB.`  
+Die Anwendung des § 934 kann vertraglich nicht ausgeschlossen werden; er ist jedoch dann nicht anzuwenden, wenn jemand erklärt hat, die Sache aus besonderer Vorliebe um einen außerordentlichen Werth zu übernehmen; wenn er, obgleich ihm der wahre Werth bekannt war, sich dennoch zu dem unverhältnißmäßigen Werthe verstanden hat; ferner, wenn aus dem Verhältnisse der Personen zu vermuthen ist, daß sie einen, aus einem entgeldlichen und unentgeldlichen vermischten, Vertrag schließen wollten; wenn sich der eigentliche Werth nicht mehr erheben läßt; endlich, wenn die Sache von dem Gerichte versteigert worden ist.
+
+### § 936 ABGB # Von der Verabredung eines künftigen Vertrages.
+
+`§ 936 ABGB.`  
+Die Verabredung, künftig erst einen Vertrag schließen zu wollen, ist nur dann verbindlich, wenn sowohl die Zeit der Abschließung, als die wesentlichen Stücke des Vertrages bestimmt, und die Umstände inzwischen nicht dergestalt verändert worden sind, daß dadurch der ausdrücklich bestimmte, oder aus den Umständen hervorleuchtende Zweck vereitelt, oder das Zutrauen des einen oder andern Theiles verloren wird. Ueberhaupt muß auf die Vollziehung solcher Zusagen längstens in einem Jahre nach dem bedungenen Zeitpuncte gedrungen werden; widrigen Falls ist das Recht erloschen.
+
+### § 937 ABGB # Von dem Verzicht auf Einwendungen.
+
+`§ 937 ABGB.`  
+Allgemeine, unbestimmte Verzichtleistungen auf Einwendungen gegen die Gültigkeit eines Vertrages sind ohne Wirkung.
 
 `END-OF-DATA-FILE`

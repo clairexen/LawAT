@@ -6,313 +6,332 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Zwölftes Hauptstück # Von der Einschränkung und Aufhebung des letzten Willens # I. Allgemeines
+## II. Anforderungen an den letzten Willen
 
-### § 695 ABGB
+### § 564 ABGB # Höchstpersönliche Willenserklärung
 
-`§ 695 ABGB.`  
-Der letztwillig Verfügende kann die Rechte der Erben oder Vermächtnisnehmer einschränken, etwa durch eine Bedingung, eine Befristung oder eine Auflage, sowie seine Beweggründe und den Zweck seiner Anordnung schildern. Er kann seine letztwillige Verfügung auch ändern oder ganz aufheben.
+`§ 564 ABGB.`  
+Man kann seinen letzten Willen nur selbst erklären, den Erben nur selbst einsetzen und diese Erklärungen nicht einer dritten Person überlassen. Auch genügt die bloße Bejahung des Vorschlags einer dritten Person nicht.
 
-## II. Arten der Einschränkung
+### § 565 ABGB # Bestimmtheit und Mangelfreiheit
 
-### § 696 ABGB # 1. Bedingung
+`§ 565 ABGB.`  
+Der letzte Wille muss bestimmt, mit Überlegung, ernst sowie frei von Drohung, List und wesentlichem Irrtum erklärt werden.
 
-`§ 696 ABGB.`  
-Eine Bedingung ist ein ungewisses Ereignis, von dem ein Recht abhängig gemacht wird. Die Bedingung ist bejahend oder verneinend, je nachdem, ob sie sich auf den Eintritt oder Nichteintritt des Ereignisses bezieht. Sie ist aufschiebend, wenn das zugedachte Recht erst nach ihrer Erfüllung wirksam wird, und auflösend, wenn das zugedachte Recht bei ihrem Eintritt verloren geht.
+### § 566 ABGB # Testierfähigkeit
 
-### § 697 ABGB # a) Unverständliche und gesetz- oder sittenwidrige Bedingungen
+`§ 566 ABGB.`  
+Testierfähig ist, wer die Bedeutung und die Folgen seiner letztwilligen Verfügung verstehen und sich entsprechend verhalten kann.
 
-`§ 697 ABGB.`  
-Unverständliche, unbestimmte sowie gesetz- oder sittenwidrige Bedingungen gelten als nicht beigesetzt.
+### § 567 ABGB
 
-### § 698 ABGB # b) Unmögliche Bedingungen
+`§ 567 ABGB.`  
+Hat der Verstorbene seinen letzten Willen in einem die Testierfähigkeit ausschließenden Zustand erklärt, etwa unter dem Einfluss einer psychischen Krankheit oder im Rausch, so ist die letztwillige Verfügung ungültig.
 
-`§ 698 ABGB.`  
-Die Anordnung, durch die einer Person unter einer aufschiebenden unmöglichen Bedingung ein Recht zukommen soll, ist ungültig, selbst wenn die Erfüllung der Bedingung erst in der Folge unmöglich und die Unmöglichkeit dem Verstorbenen bekannt geworden war. Eine auflösende unmögliche Bedingung ist als nicht beigesetzt anzusehen.
+### § 568 ABGB
 
-### § 699 ABGB # c) Mögliche und erlaubte Bedingungen
+`§ 568 ABGB.`  
+Wer behauptet, dass ein sonst nach § 566 testierunfähiger Verstorbener bei Erklärung des letzten Willens testierfähig war (lichter Augenblick), hat dies zu beweisen.
 
-`§ 699 ABGB.`  
-Sind die Bedingungen möglich und erlaubt, so kann das davon abhängende Recht nur durch ihre genaue Erfüllung erworben werden, mögen sie vom Zufall oder vom Willen des bedachten Erben, Vermächtnisnehmers oder eines Dritten abhängen.
+### § 569 ABGB # Alter
 
-### § 701 ABGB # d) Erfüllung der Bedingung zu Lebzeiten des Verstorbenen
+`§ 569 ABGB.`  
+Unmündige Personen sind testierunfähig. Mündige Minderjährige können – ausgenommen im Notfall (§ 584) – nur mündlich vor Gericht oder Notar testieren. Das Gericht oder der Notar hat sich davon zu überzeugen, dass die Erklärung des letzten Willens frei und überlegt erfolgt. Die Erklärung des letzten Willens und das Ergebnis der Erhebungen sind in einem Protokoll festzuhalten.
 
-`§ 701 ABGB.`  
-Ist die im letzten Willen vorgeschriebene Bedingung schon zu Lebzeiten des Verstorbenen erfüllt worden, so muss sie nach dessen Tod nur dann neuerlich erfüllt werden, wenn sie in einer Handlung des Erben oder Vermächtnisnehmers besteht, die von ihm wiederholt werden kann.
+### § 570 ABGB # Wesentlicher Irrtum
 
-### § 702 ABGB # e) Keine Erfüllung der Bedingung durch Nachberufene
+`§ 570 ABGB.`  
+Ein wesentlicher Irrtum des Verstorbenen macht die Anordnung ungültig. Der Irrtum ist insbesondere wesentlich, wenn der Verstorbene die bedachte Person oder die zugewendete Sache verfehlt hat.
 
-`§ 702 ABGB.`  
-Eine den Erben oder Vermächtnisnehmer einschränkende Bedingung ist ohne ausdrückliche Erklärung des Verstorbenen nicht auf den von diesem nachberufenen Erben oder Vermächtnisnehmer auszudehnen.
+### § 571 ABGB # Falsche Bezeichnung
 
-### § 703 ABGB # f) Wirkung einer möglichen aufschiebenden Bedingung
+`§ 571 ABGB.`  
+Wenn sich zeigt, dass der Verstorbene die bedachte Person oder die zugewendete Sache nur unrichtig benannt oder beschrieben hat, ist die Verfügung gültig.
 
-`§ 703 ABGB.`  
-Um eine unter einer aufschiebenden Bedingung zugedachte Verlassenschaft zu erwerben, muss die bedachte Person den Eintritt der Bedingung erleben und in diesem Zeitpunkt erbfähig sein.
+### § 572 ABGB # Motivirrtum
 
-### § 705 ABGB # 2. Befristung
+`§ 572 ABGB.`  
+Auch wenn sich der vom Verstorbenen angegebene Beweggrund als falsch herausstellt, bleibt die Verfügung gültig, es sei denn, dass sein Wille einzig und allein auf diesem irrigen Beweggrund beruht hat.
 
-`§ 705 ABGB.`  
-Ist der Eintritt des Ereignisses, auf das der Verstorbene das zugedachte Recht eingeschränkt hat, gewiss, so geht das zugedachte Recht wie andere unbedingte Rechte auch auf die Erben der bedachten Person über. In einem solchen Fall wird nur die Übergabe bis zum gesetzten Termin aufgeschoben.
+### § 575 ABGB # Zeitpunkt für die Beurteilung der Gültigkeit
 
-### § 706 ABGB
+`§ 575 ABGB.`  
+Die Voraussetzungen der Gültigkeit einer letztwilligen Verfügung müssen bei deren Errichtung vorliegen.
 
-`§ 706 ABGB.`  
-Ein unmöglicher Anfangstermin macht die Anordnung ungültig. Ein unmöglicher Endtermin gilt als nicht beigesetzt. Wenn sich der Verstorbene in der Berechnung der Zeit geirrt hat, ist die Befristung nach seinem mutmaßlichen Willen zu bestimmen.
+### § 576 ABGB
 
-### § 707 ABGB # Vorberechtigung
+`§ 576 ABGB.`  
+Eine anfänglich ungültige letztwillige Verfügung wird durch den späteren Wegfall des Hindernisses nicht gültig. Wird in diesem Fall keine neue Verfügung getroffen, so tritt die gesetzliche Erbfolge ein.
 
-`§ 707 ABGB.`  
-Solange das Recht des Erben wegen einer noch nicht erfüllten Bedingung oder wegen einer Befristung in Schwebe bleibt, gelten zwischen dem gesetzlichen und dem eingesetzten Erben im Hinblick auf den einstweiligen Besitz und Genuss der Verlassenschaft die gleichen Rechte und Pflichten wie bei der Nacherbschaft. Dies gilt sinngemäß für das Verhältnis zwischen dem Erben und dem bedingt oder befristet bedachten Vermächtnisnehmer.
+## III. Form der letztwilligen Verfügung
 
-### § 708 ABGB # Nachberechtigung
+### § 577 ABGB # Arten
 
-`§ 708 ABGB.`  
-Wer eine Erbschaft oder ein Vermächtnis unter einer verneinenden oder auflösenden Bedingung oder nur auf eine gewisse Zeit erhält, hat gegen den, dem die Erbschaft oder das Vermächtnis bei Eintritt der Bedingung oder des bestimmten Zeitpunktes zufällt, die gleichen Rechte und Pflichten, die einem Vorerben oder Vorvermächtnisnehmer gegen den Nacherben oder Nachvermächtnisnehmer zukommen (§§ 613 und 652).
+`§ 577 ABGB.`  
+Eine letztwillige Verfügung kann nach Maßgabe der folgenden Bestimmungen außergerichtlich oder gerichtlich, schriftlich oder mündlich und schriftlich mit oder ohne Zeugen errichtet werden.
 
-### § 709 ABGB # 3. Auflage
+### § 578 ABGB # Eigenhändige Verfügung
 
-`§ 709 ABGB.`  
-Hat der Verstorbene die Verlassenschaft einer Person unter einer Auflage zugewendet, so muss der Belastete die Auflage möglichst genau erfüllen.
+`§ 578 ABGB.`  
+Wer schriftlich ohne Zeugen letztwillig verfügen will, muss die Verfügung eigenhändig schreiben und eigenhändig mit seinem Namen unterschreiben. Die Beisetzung von Ort und Datum der Errichtung ist zwar nicht notwendig, aber ratsam.
 
-### § 710 ABGB
+### § 579 ABGB # Fremdhändige Verfügung
 
-`§ 710 ABGB.`  
-Wenn der Belastete die Auflage aus seinem Alleinverschulden nicht oder nicht vollständig erfüllt hat, ist die Auflage im Zweifel als auflösende Bedingung (§ 696) zu behandeln.
+`§ 579 (1) ABGB.`  
+Eine von ihm nicht eigenhändig geschriebene letztwillige Verfügung muss der Verfügende in Gegenwart von drei gleichzeitig anwesenden Zeugen eigenhändig unterschreiben und mit einem eigenhändig geschriebenen Zusatz versehen, dass die Urkunde seinen letzten Willen enthält.
 
-### § 711 ABGB
+`§ 579 (2) ABGB.`  
+Die Zeugen, deren Identität aus der Urkunde hervorgehen muss, haben auf der Urkunde mit einem auf ihre Eigenschaft als Zeugen hinweisenden und eigenhändig geschriebenen Zusatz zu unterschreiben. Den Inhalt der letztwilligen Verfügung müssen sie nicht kennen.
 
-`§ 711 ABGB.`  
-Ob der Verstorbene mit der Schilderung der Beweggründe oder des Zwecks seiner Verfügung eine Verpflichtung auferlegen wollte oder seine Erklärung nur ein Rat, ein Wunsch oder eine Bitte ist, dessen oder deren Nichteinhaltung keinen Nachteil bewirkt, ist durch Auslegung zu ermitteln.
+### § 580 ABGB
 
-### § 712 ABGB # Strafvermächtnis und Bestreitungsverbot
+`§ 580 (1) ABGB.`  
+Wenn der letztwillig Verfügende nicht schreiben kann, muss er statt der Unterschrift und des eigenhändigen Zusatzes sein Handzeichen in Gegenwart der in § 579 genannten Zeugen eigenhändig setzen und ausdrücklich vor ihnen erklären, dass die Urkunde sein letzter Wille ist. Die Anführung des Namens des letztwillig Verfügenden durch einen Zeugen ist zwar nicht notwendig, aber ratsam.
 
-`§ 712 (1) ABGB.`  
-Die Anordnung des Verstorbenen, dass der Erbe einem Dritten ein Vermächtnis entrichten soll, wenn er eine Auflage nicht befolgt, ist insoweit gültig, als die Auflage möglich und erlaubt ist.
+`§ 580 (2) ABGB.`  
+Wer nicht lesen kann, muss sich die fremdhändige Verfügung von einem Zeugen in Gegenwart der beiden anderen Zeugen, die den Inhalt eingesehen haben, vorlesen lassen und bekräftigen, dass dieser seinem Willen entspricht.
 
-`§ 712 (2) ABGB.`  
-Eine Anordnung des Verstorbenen, mit der er dem Erben oder Vermächtnisnehmer unter angedrohter Entziehung eines Vorteils verboten hat, den letzten Willen zu bestreiten, ist insoweit unwirksam, als nur die Echtheit oder der Sinn der letztwilligen Verfügung und die Auslegung des Bestreitungsverbots angefochten, sittenwidrige oder gesetzlich verbotene Anordnungen bekämpft oder Verstöße gegen zwingende Formvorschriften eingewendet werden.
+### § 581 ABGB # Gerichtliche Verfügung
 
-## III. Aufhebung letztwilliger Verfügungen
+`§ 581 (1) ABGB.`  
+Eine letztwillige Verfügung kann auch vor Gericht schriftlich oder mündlich errichtet werden.
 
-### § 713 ABGB # 1. durch Errichtung eines späteren Testaments
+`§ 581 (2) ABGB.`  
+Die schriftliche Verfügung muss der Verfügende eigenhändig unterschreiben und dem Gericht persönlich übergeben. Das Gericht hat ihn darüber zu belehren, dass die Verfügung eigenhändig unterschrieben sein muss, die Verfügung gerichtlich zu versiegeln und auf dem Umschlag anzumerken, wessen letzter Wille darin enthalten ist. Über die Amtshandlung ist ein Protokoll aufzunehmen. Die letztwillige Verfügung ist gegen Ausstellung einer Empfangsbestätigung gerichtlich zu hinterlegen.
 
-`§ 713 (1) ABGB.`  
-Ein früheres Testament wird durch ein späteres gültiges Testament nicht nur in der Erbeinsetzung, sondern auch in den übrigen Anordnungen aufgehoben, sofern der Verstorbene in der späteren Verfügung nicht zu erkennen gegeben hat, dass die frühere ganz oder zum Teil weiter bestehen soll. Dies gilt auch dann, wenn der Erbe im späteren Testament nur zu einem Teil der Erbschaft berufen wurde. Der übrig bleibende Teil fällt nicht den im früheren Testament eingesetzten, sondern den gesetzlichen Erben zu.
+`§ 581 (3) ABGB.`  
+Will der letztwillig Verfügende seinen letzten Willen mündlich erklären, so ist über die Erklärung ein Protokoll aufzunehmen und dieses versiegelt zu hinterlegen.
 
-`§ 713 (2) ABGB.`  
-Frühere letztwillige Verfügungen ohne Erbeinsetzung (§ 552 Abs. 2) werden im Zweifel nur durch ein späteres Testament, mit dem über die gesamte Verlassenschaft verfügt wird, aufgehoben.
+### § 582 ABGB
 
-### § 714 ABGB # oder einer sonstigen späteren letztwilligen Verfügung
+`§ 582 (1) ABGB.`  
+Das Gericht, das die schriftliche oder mündliche Erklärung des letzten Willens aufnimmt, muss zumindest aus zwei Gerichtsbediensteten bestehen, wobei eine Person an diesem Gericht als Richter tätig sein muss. Der zweite Gerichtsbedienstete kann durch zwei andere Zeugen ersetzt werden.
 
-`§ 714 ABGB.`  
-Durch eine spätere letztwillige Verfügung ohne Erbeinsetzung werden frühere Vermächtnisse oder andere letztwillige Verfügungen ohne Erbeinsetzung nur insoweit aufgehoben, als sie ihr widersprechen.
+`§ 582 (2) ABGB.`  
+Im Notfall kann sich das Gericht zu der Person begeben, die eine letztwillige Verfügung errichten will, und seinen letzten Willen zu Protokoll nehmen.
 
-### § 715 ABGB
+### § 583 ABGB # Notarielle Verfügung
 
-`§ 715 ABGB.`  
-Kann nicht festgestellt werden, welche von mehreren letztwilligen Verfügungen früher oder später errichtet wurde, so gelten alle, soweit sie nebeneinander bestehen können. Die Bestimmungen des Sechzehnten Hauptstücks gelten entsprechend.
+`§ 583 ABGB.`  
+Eine letztwillige Verfügung kann weiters vor zwei Notaren oder vor einem Notar und zwei Zeugen schriftlich oder mündlich errichtet werden. Die §§ 67 und 70 bis 75 Notariatsordnung sind anzuwenden.
 
-### § 716 ABGB # Unbeachtlichkeit der früher erklärten Unabänderlichkeit
+### § 584 ABGB # Nottestament
 
-`§ 716 ABGB.`  
-Die Erklärung in einer letztwilligen Verfügung, wonach jede spätere letztwillige Verfügung überhaupt oder dann unwirksam sein soll, wenn sie nicht in einer besonderen Form errichtet oder besonders gekennzeichnet wird, gilt als nicht beigesetzt.
+`§ 584 (1) ABGB.`  
+Droht aus Sicht des letztwillig Verfügenden unmittelbar die begründete Gefahr, dass er stirbt oder die Testierfähigkeit verliert, bevor er seinen letzten Willen auf andere Weise zu erklären vermag, so kann er seinen letzten Willen in Gegenwart von zwei Zeugen fremdhändig (§ 579) oder mündlich erklären. Eine solche mündliche letztwillige Verfügung muss durch die übereinstimmenden Aussagen der Zeugen bestätigt werden, widrigenfalls diese Erklärung des letzten Willens ungültig ist.
 
-### 2. durch Widerruf
+`§ 584 (2) ABGB.`  
+Ein so erklärter letzter Wille verliert drei Monate nach Wegfall der Gefahr seine Gültigkeit und gilt als nicht errichtet. Im Zweifel ist damit auch der durch das Nottestament erfolgte Widerruf einer früheren letztwilligen Verfügung (§§ 713 und 714) aufgehoben.
 
-### § 717 ABGB # a) Allgemeines
+### § 585 ABGB # Verweisende Verfügung
 
-`§ 717 ABGB.`  
-Will der letztwillig Verfügende seine Verfügung aufheben, ohne eine neue zu errichten, so muss er sie ausdrücklich oder stillschweigend widerrufen.
+`§ 585 ABGB.`  
+Eine Verfügung des Verstorbenen durch Verweis auf einen Zettel oder auf eine andere Urkunde ist nur wirksam, wenn eine solche Urkunde alle Gültigkeitserfordernisse einer letztwilligen Verfügung erfüllt. Sonst können derartige schriftliche Bemerkungen des Verstorbenen nur zur Auslegung seines Willens herangezogen werden.
 
-### § 718 ABGB
+### § 586 ABGB # Gemeinschaftliche letztwillige Verfügungen
 
-`§ 718 ABGB.`  
-Der Widerruf kann nur im Zustand der Testierfähigkeit gültig erfolgen.
+`§ 586 (1) ABGB.`  
+In der Regel gilt ein und dieselbe schriftliche letztwillige Verfügung nur für einen Verstorbenen.
 
-### § 719 ABGB # b) Ausdrücklicher Widerruf
+`§ 586 (2) ABGB.`  
+Allerdings können Ehegatten oder eingetragene Partner in einem Testament einander gegenseitig oder andere Personen als Erben einsetzen. Ein solches Testament ist widerruflich. Aus dem Widerruf der gegenseitigen Erbeinsetzung durch einen Teil kann auf den Widerruf dieser Erbeinsetzung durch den anderen geschlossen werden.
 
-`§ 719 ABGB.`  
-Der ausdrückliche Widerruf einer letztwilligen Verfügung kann nur in einer solchen Form erfolgen, die zur Errichtung einer letztwilligen Verfügung nötig ist.
+### § 587 ABGB # Zeugen
 
-### § 721 ABGB # c) Stillschweigender Widerruf
+`§ 587 ABGB.`  
+Unmündige Minderjährige, Personen, die auf Grund einer körperlichen oder geistigen Beeinträchtigung nicht fähig sind, entsprechend der jeweiligen Testamentsform einen letzten Willen zu bezeugen, sowie Personen, die die Sprache des letztwillig Verfügenden nicht verstehen, können nicht Zeugen letztwilliger Verfügungen sein. Mündige Minderjährige können nur Zeugen eines Nottestaments sein.
 
-`§ 721 ABGB.`  
-Wer seine letztwillige Verfügung zerstört, etwa indem er sie zerreißt, zerschneidet, verbrennt oder die Unterschrift oder den ganzen Inhalt durchstreicht, widerruft sie. Wenn von mehreren gleichlautenden Urkunden nur eine zerstört wird, so ist daraus im Zweifel nicht auf einen Widerruf der letztwilligen Verfügung zu schließen.
+### § 588 ABGB
 
-### § 722 ABGB
+`§ 588 (1) ABGB.`  
+Ein Erbe oder Vermächtnisnehmer ist für die ihm zugedachte Zuwendung kein fähiger Zeuge, ebenso wenig sein Ehegatte, eingetragener Partner oder Lebensgefährte, seine Eltern, Kinder, Geschwister sowie die Eltern, Kinder und Geschwister des Ehegatten, eingetragenen Partners oder Lebensgefährten des Erben oder Vermächtnisnehmers.
 
-`§ 722 ABGB.`  
-Wenn die Urkunde nur zufällig zerstört wird oder verloren geht, bleibt der letzte Wille wirksam, sofern der Zufall oder Verlust und der Inhalt der Urkunde bewiesen werden.
+`§ 588 (2) ABGB.`  
+Zeugnisunfähig sind auch gesetzliche Vertreter, vertretungsbefugte Organe, Gesellschafter, Machthaber und Dienstnehmer bedachter Personen oder rechtsfähiger Gesellschaften.
 
-### § 723 ABGB
+### § 589 ABGB
 
-`§ 723 ABGB.`  
-Hat der Verstorbene eine spätere letztwillige Verfügung zerstört, eine frühere Verfügung aber unversehrt gelassen, so tritt im Zweifel diese frühere Anordnung wieder in Kraft. Eine frühere mündliche Verfügung, ausgenommen die mündliche gerichtliche oder mündliche notarielle Verfügung, lebt dadurch aber nicht wieder auf.
+`§ 589 ABGB.`  
+Die Bestimmungen über die Fähigkeit und Unbefangenheit der Zeugen sind auch auf die Gerichtsbediensteten und Notare anzuwenden, die den letzten Willen aufnehmen.
 
-### § 724 ABGB # d) Vermuteter Widerruf
+### § 590 ABGB # Ausgeschlossenheit des Verfassers
 
-`§ 724 (1) ABGB.`  
-Der Widerruf eines Vermächtnisses wird vermutet, wenn der Verstorbene  
-`§ 724 (1) Z 1 ABGB.`
-die vermachte Forderung eingetrieben oder sonst zum Erlöschen gebracht hat,  
-`§ 724 (1) Z 2 ABGB.`
-die zugedachte Sache veräußert und nicht wieder zurück erhalten hat oder  
-`§ 724 (1) Z 3 ABGB.`
-die Sache derart umgestaltet hat, dass sie ihre vorige Gestalt und Bezeichnung verliert.
+`§ 590 ABGB.`  
+Der Verfasser einer nicht vom letztwillig Verfügenden handschriftlich geschriebenen Erklärung kann zugleich Zeuge sein, ist aber, wenn der Verfügende nicht lesen kann, vom Vorlesen des letzten Willens ausgeschlossen.
 
-`§ 724 (2) ABGB.`  
-Wenn aber der Schuldner die Forderung aus eigenem Antrieb berichtigt hat, die Veräußerung des Vermächtnisses auf gerichtliche oder behördliche Anordnung erfolgt ist oder die Sache ohne Einwilligung des Verstorbenen umgestaltet worden ist, bleibt das Vermächtnis wirksam.
+### § 591 ABGB
 
-### § 725 ABGB # 3. durch Verlust der Angehörigenstellung
+`§ 591 ABGB.`  
+Für den bedachten Verfasser einer letztwilligen Verfügung und ihm nahestehende bedachte Personen oder Gesellschaften gilt § 588 entsprechend.
 
-`§ 725 (1) ABGB.`  
-Mit Auflösung der Ehe, der eingetragenen Partnerschaft oder der Lebensgemeinschaft zu Lebzeiten des Verstorbenen werden davor errichtete letztwillige Verfügungen, soweit sie den früheren Ehegatten, eingetragenen Partner oder Lebensgefährten betreffen, aufgehoben, es sei denn, dass der Verstorbene ausdrücklich das Gegenteil angeordnet hat. Das Gleiche gilt für die Aufhebung der Abstammung oder den Widerruf oder die Aufhebung der Adoption, auch wenn sie nach dem Erbfall erfolgt, für letztwillige Verfügungen zugunsten des früheren Angehörigen.
+### § 601 ABGB # Formungültige letztwillige Verfügungen
 
-`§ 725 (2) ABGB.`  
-Die letztwillige Anordnung wird im Zweifel auch dann aufgehoben, wenn der Verstorbene oder die letztwillig bedachte Person das gerichtliche Verfahren zur Auflösung der Ehe oder eingetragenen Partnerschaft oder zum Widerruf oder zur Aufhebung der Adoption eingeleitet hat. Das Gleiche gilt auch für den Fall, dass der Verstorbene das gerichtliche Abstammungsverfahren eingeleitet hat, wenn sich in der Folge herausstellt, dass der vermeintliche Angehörige tatsächlich nicht vom Verstorbenen abstammt.
+`§ 601 ABGB.`  
+Wurde bei Errichtung einer letztwilligen Verfügung eine zwingende Formvorschrift nicht eingehalten, so ist die letztwillige Verfügung ungültig.
 
-### § 726 ABGB # 4. durch Ausfall des eingesetzten Erben
+## IV. Vereinbarungen von Todes wegen
 
-`§ 726 ABGB.`  
-Wenn weder ein Erbe noch ein Nacherbe die Erbschaft annehmen will oder kann, fällt das Erbrecht auf die gesetzlichen Erben. Diese sind verpflichtet, die übrigen Verfügungen des Verstorbenen zu befolgen.
+### § 602 ABGB # Erbverträge
 
-## Dreizehntes Hauptstück # Von der gesetzlichen Erbfolge # I. Grundsätze
+`§ 602 ABGB.`  
+Erbverträge können nur zwischen Ehegatten, eingetragenen Partnern sowie Personen, die sich verlobt oder die eingetragene Partnerschaft versprochen haben, gültig geschlossen werden. Die Vorschriften hierüber sind im Achtundzwanzigsten Hauptstück enthalten.
 
-### § 727 ABGB # Fälle der gesetzlichen Erbfolge
+### § 603 ABGB # Schenkung auf den Todesfall
 
-`§ 727 ABGB.`  
-Wenn der Verstorbene seinen letzten Willen nicht gültig erklärt oder nicht über sein gesamtes Vermögen verfügt hat oder wenn die eingesetzten Erben die Verlassenschaft nicht annehmen können oder wollen, kommt es ganz oder zum Teil zur gesetzlichen Erbfolge.
+`§ 603 ABGB.`  
+Eine Schenkung auf den Todesfall ist auch nach dem Tod des Geschenkgebers als Vertrag anzusehen, wenn er sich kein Widerrufsrecht vertraglich vorbehalten hat und der Vertrag als Notariatsakt aufgenommen wurde. Die Bestimmungen des Achtzehnten Hauptstücks von Schenkungen und § 1253 sind anzuwenden.
 
-### § 728 ABGB
+## Zehntes Hauptstück # Von der Ersatz- und Nacherbschaft
 
-`§ 728 ABGB.`  
-Mangels einer gültigen Erklärung des letzten Willens fällt die gesamte Verlassenschaft den gesetzlichen Erben zu. Hat der Verstorbene über einen Teil seines Vermögens nicht gültig verfügt, so kommt allein dieser den gesetzlichen Erben zu.
+### § 604 ABGB # Ersatzerbschaft
 
-### § 729 ABGB # Verkürzter Pflichtteil und Folgen einer Enterbung
+`§ 604 (1) ABGB.`  
+Für den Fall, dass der eingesetzte oder gesetzliche Erbe die Erbschaft nicht erlangt, können ein Ersatzerbe, und wenn auch dieser sie nicht erlangt, ein zweiter oder auch noch weitere Ersatzerben berufen werden.
 
-`§ 729 (1) ABGB.`  
-Ist eine pflichtteilsberechtigte Person durch eine letztwillige Verfügung verkürzt worden, so kann sie sich auf das Gesetz berufen und den ihr gebührenden Pflichtteil fordern.
+`§ 604 (2) ABGB.`  
+Ersatzerben gehen Anwachsungsberechtigten (§ 560) jedenfalls vor.
 
-`§ 729 (2) ABGB.`  
-Hat der Verstorbene die gänzliche oder teilweise Entziehung des Pflichtteils verfügt, so wird vermutet, dass er der enterbten Person auch deren gesetzlichen Erbteil entziehen wollte.
+### § 605 ABGB # Vermutete Ersatzerbschaft
 
-`§ 729 (3) ABGB.`  
-Bei gesetzlicher Erbfolge erben die Nachkommen der enterbten Person an deren Stelle, auch wenn diese den Verstorbenen überlebt hat.
+`§ 605 ABGB.`  
+Es wird vermutet, dass der Verstorbene die Nachkommen eingesetzter Kinder zu Ersatzerben einsetzen wollte.
 
-### § 730 ABGB # Gesetzliche Erben
+### § 606 ABGB # Rechte und Pflichten des Ersatzerben
 
-`§ 730 ABGB.`  
-Gesetzliche Erben sind die in nächster Linie mit dem Verstorbenen Verwandten und sein Ehegatte oder eingetragener Partner.
+`§ 606 ABGB.`  
+Die Rechte und Pflichten des Erben kommen auch dem an seine Stelle tretenden Ersatzerben zu, sofern sie nicht nach dem ausdrücklichen Willen des Verstorbenen oder nach den Umständen des Falles allein die Person des Erben betreffen. Für einschränkende Bedingungen gilt § 702.
 
-## II. Gesetzliches Erbrecht der Verwandten
+### § 607 ABGB # Gegenseitige Ersatzerbschaft
 
-### § 731 ABGB
+`§ 607 ABGB.`  
+Sind allein Miterben gegenseitig zu Ersatzerben berufen, so wird vermutet, dass der Verstorbene die in der Einsetzung bestimmten Teile auch auf die Ersatzerbschaft ausdehnen wollte. Ist aber in der Ersatzerbschaft außer den Miterben auch eine andere Person zum Ersatzerben berufen, so fällt der frei gewordene Erbteil allen zu gleichen Teilen zu.
 
-`§ 731 (1) ABGB.`  
-Zur ersten Linie gehören diejenigen Verwandten, die vom Verstorbenen abstammen, also seine Kinder und deren Nachkommen.
+### § 608 ABGB # Nacherbschaft
 
-`§ 731 (2) ABGB.`  
-Zur zweiten Linie gehören die Eltern des Verstorbenen und deren Nachkommen, also seine Geschwister und deren Nachkommen.
+`§ 608 (1) ABGB.`  
+Der letztwillig Verfügende kann einen Erben so einsetzen, dass dieser erst nach einem anderen Erben erbt. Der Nacherbe ist im Zweifel auch Ersatzerbe.
 
-`§ 731 (3) ABGB.`  
-Zur dritten Linie gehören die Großeltern des Verstorbenen und deren Nachkommen, also seine Onkel und Tanten und deren Nachkommen.
+`§ 608 (2) ABGB.`  
+Hat der Verstorbene nichts anderes verfügt, so tritt der Nacherbfall mit dem Tod des Vorerben ein.
 
-`§ 731 (4) ABGB.`  
-In der vierten Linie sind nur die Urgroßeltern des Verstorbenen zur Erbfolge berufen.
+### § 609 ABGB # Nacherbschaft auf den Überrest
 
-### § 732 ABGB # 1. Linie: Kinder
+`§ 609 ABGB.`  
+Eine Nacherbschaft auf den Überrest liegt vor, wenn der Nacherbe nach dem Willen des Verstorbenen nur das erhalten soll, was beim Ableben des Vorerben noch übrig ist.
 
-`§ 732 ABGB.`  
-Wenn der Verstorbene Kinder hat, fällt ihnen die gesamte Verlassenschaft zu, mögen sie zu seinen Lebzeiten oder nach seinem Tod geboren sein. Mehreren Kindern fällt die Verlassenschaft zu gleichen Teilen zu. Enkel von noch lebenden Kindern und Urenkel von noch lebenden Enkeln haben kein Recht zur Erbfolge.
+### § 610 ABGB # Umdeutung von Testieranordnungen
 
-### § 733 ABGB
+`§ 610 (1) ABGB.`  
+Hat der letztwillig Verfügende dem Erben verboten oder zugunsten einer bestimmten Person geboten, über die Verlassenschaft zu testieren, so ist dies im Zweifel in eine Nacherbschaft auf den Überrest umzudeuten, und zwar im Fall des Verbots zugunsten der gesetzlichen Erben, im Fall des Gebots zugunsten der bestimmten Person.
 
-`§ 733 ABGB.`  
-Wenn ein Nachkomme des Verstorbenen vor ihm gestorben ist und seinerseits Nachkommen hinterlassen hat, fällt der Anteil, der dem verstorbenen Nachkommen gebührt hätte, dessen Kindern zu gleichen Teilen zu.
+`§ 610 (2) ABGB.`  
+Das Verbot, eine Sache zu veräußern, schließt im Zweifel das Recht, darüber letztwillig zu verfügen, nicht aus.
 
-### § 734 ABGB
+### § 611 ABGB # Nacherbschaft bei Zeitgenossen
 
-`§ 734 ABGB.`  
-Auf diese Art wird eine Verlassenschaft nicht nur dann geteilt, wenn Enkel von verstorbenen Kindern mit noch lebenden Kindern oder entferntere Nachkommen mit näheren Nachkommen des Verstorbenen zusammen treffen, sondern auch dann, wenn die Verlassenschaft bloß zwischen Enkeln von verschiedenen Kindern oder zwischen Urenkeln von verschiedenen Enkeln zu teilen ist. Es können also die von jedem Kind hinterlassenen Enkel und die von jedem Enkel hinterlassenen Urenkel nie mehr und nie weniger erhalten, als das verstorbene Kind oder der verstorbene Enkel erhalten hätte, wenn es oder er am Leben geblieben wäre.
+`§ 611 ABGB.`  
+Wenn die Nacherben Zeitgenossen des letztwillig Verfügenden sind, kann er sie ohne zahlenmäßige Beschränkung als Nacherben einsetzen. Zeitgenossen sind natürliche Personen, die zum Zeitpunkt der Errichtung der Nacherbschaft bereits gezeugt (§ 22) oder geboren sind.
 
-### § 735 ABGB # 2. Linie: Eltern und ihre Nachkommen
+### § 612 ABGB # Einschränkung der Nacherbschaft
 
-`§ 735 ABGB.`  
-Ist kein Nachkomme des Verstorbenen vorhanden, so fällt die Verlassenschaft den mit ihm in zweiter Linie Verwandten, also seinen Eltern und deren Nachkommen zu. Leben noch beide Eltern, so gebührt ihnen die ganze Verlassenschaft zu gleichen Teilen. Ist ein Elternteil verstorben, so treten dessen Nachkommen in sein Recht ein. Die Hälfte, die dem Verstorbenen gebührt hätte, wird nach den §§ 732 bis 734 geteilt.
+`§ 612 ABGB.`  
+Sind die Nacherben im Zeitpunkt der Errichtung der letztwilligen Verfügung noch keine Zeitgenossen des Verfügenden, so ist die Nacherbschaft bei Geld und anderen beweglichen Sachen auf zwei Nacherbfälle, bei unbeweglichen Sachen auf einen Nacherbfall beschränkt.
 
-### § 736 ABGB
+### § 613 ABGB # Rechte des Vorerben
 
-`§ 736 ABGB.`  
-Wenn beide Eltern des Verstorbenen verstorben sind, wird die eine Hälfte der Verlassenschaft, die dem einen Elternteil zugefallen wäre, unter dessen Nachkommen, die andere Hälfte aber unter den Nachkommen des anderen nach den §§ 732 bis 734 geteilt. Haben die Eltern nur gemeinsame Kinder oder deren Nachkommen hinterlassen, so teilen diese die beiden Hälften unter sich gleich. Sind aber außer diesen noch Kinder nur eines Elternteils vorhanden, so erhalten diese und deren Nachkommen nur den ihnen von der Hälfte gebührenden Anteil.
+`§ 613 (1) ABGB.`  
+Bis zum Eintritt der Nacherbschaft kommt dem eingesetzten Vorerben das eingeschränkte Eigentumsrecht mit den Rechten und Verbindlichkeiten eines Fruchtnießers zu.
 
-### § 737 ABGB
+`§ 613 (2) ABGB.`  
+Verfügungen über Sachen der von der Nacherbschaft erfassten Verlassenschaft sind mit der Zustimmung des Nacherben zulässig, sonst nur zur Erfüllung von Verbindlichkeiten der Verlassenschaft, zur Vermeidung von Schäden an derselben oder soweit sie im Rahmen der ordentlichen Verwaltung erfolgen.
 
-`§ 737 ABGB.`  
-Hat ein verstorbener Elternteil des Verstorbenen keine Nachkommen hinterlassen, so fällt die gesamte Verlassenschaft dem anderen noch lebenden Elternteil zu. Ist auch dieser verstorben, so wird die gesamte Verlassenschaft unter seinen Kindern und Nachkommen nach den bereits angeführten Grundsätzen verteilt.
+`§ 613 (3) ABGB.`  
+Erlangt der Vorerbe durch die Verfügung über eine Sache der von der Nacherbschaft erfassten Verlassenschaft Geld oder eine andere Sache, so wird diese Ersatzsache im Zweifel Teil der Verlassenschaft.
 
-### § 738 ABGB # 3. Linie: Großeltern und ihre Nachkommen
+`§ 613 (4) ABGB.`  
+Ist jedoch die angeordnete Nacherbschaft eine solche auf den Überrest, so kann der Vorerbe wie jeder Eigentümer über Sachen der Verlassenschaft unter Lebenden verfügen.
 
-`§ 738 ABGB.`  
-Sind die Eltern des Verstorbenen ohne Nachkommen verstorben, so fällt die Verlassenschaft der dritten Linie, also den Großeltern und ihren Nachkommen zu. Die Verlassenschaft wird dann in zwei gleiche Teile geteilt. Die eine Hälfte gebührt den Eltern des einen Elternteils des Verstorbenen und ihren Nachkommen, die andere den Eltern des anderen und ihren Nachkommen.
+### § 614 ABGB # Auslegung einer Ersatz- oder Nacherbschaft
 
-### § 739 ABGB
+`§ 614 ABGB.`  
+Ist eine Ersatz- oder Nacherbschaft undeutlich ausgedrückt, so ist sie auf eine solche Art auszulegen, dass die Freiheit des Erben, über das Eigentum zu verfügen, am wenigsten eingeschränkt wird. Dies gilt auch für die Frage, ob überhaupt eine Ersatz- oder Nacherbschaft angeordnet wurde.
 
-`§ 739 ABGB.`  
-Jede dieser Hälften wird unter den Großeltern der einen und der anderen Seite, wenn sie beide noch leben, gleich geteilt. Ist ein Großelternteil oder sind beide Großeltern von der einen oder anderen Seite gestorben, so wird die dieser Seite zugefallene Hälfte zwischen den Kindern und Nachkommen dieser Großeltern nach den Grundsätzen geteilt, nach denen in der zweiten Linie die ganze Verlassenschaft zwischen den Kindern und Nachkommen der Eltern des Verstorbenen geteilt wird (§§ 735 bis 737).
+### § 615 ABGB # Erlöschen der Ersatz- und Nacherbschaft
 
-### § 740 ABGB
+`§ 615 (1) ABGB.`  
+Eine Ersatzerbschaft erlischt im Zweifel, sobald der eingesetzte Erbe die Erbschaft angetreten hat. Eine Nacherbschaft erlischt, wenn kein berufener Nacherbe mehr vorhanden ist oder wenn sie unter einer aufschiebenden Bedingung errichtet wurde, die endgültig nicht eintreten kann.
 
-`§ 740 ABGB.`  
-Sind von der Seite eines Elternteils beide Großeltern ohne Nachkommen verstorben, so fällt den von der anderen Seite noch lebenden Großeltern oder nach deren Tod deren Kindern und Nachkommen die gesamte Verlassenschaft zu.
+`§ 615 (2) ABGB.`  
+Das Recht eines Nacherben geht im Zweifel auch dann auf seine Erben über (§ 537 Abs. 1), wenn er den Eintritt des Nacherbfalls nicht erlebt.
 
-### § 741 ABGB # 4. Linie: Urgroßeltern
+### § 616 ABGB
 
-`§ 741 (1) ABGB.`  
-Nach gänzlichem Ausfall der dritten Linie sind die Urgroßeltern des Verstorbenen zur gesetzlichen Erbfolge berufen. Auf die Großeltern des einen Elternteils des Verstorbenen entfällt die eine Hälfte der Verlassenschaft, auf die Großeltern des anderen Elternteils die andere Hälfte. Jede Hälfte der Verlassenschaft teilen sich die beiden Großelternpaare zu gleichen Teilen. Ist ein Teil eines Großelternpaares nicht vorhanden, so fällt das auf diesen Teil entfallende Achtel der Verlassenschaft an den überlebenden Teil dieses Großelternpaares. Fehlt ein Großelternpaar, so ist zu seinem Viertel das andere Großelternpaar desselben Elternteiles des Verstorbenen berufen.
+`§ 616 (1) ABGB.`  
+Ist für eine vermeintlich testierunfähige Person ein Nacherbe bestimmt, so ist die Nacherbschaft im Zweifel ungültig, wenn diese Person im Zeitpunkt der Errichtung der letztwilligen Verfügung testierfähig war.
 
-`§ 741 (2) ABGB.`  
-Fehlen die Großelternpaare des einen Elternteils des Verstorbenen, so sind zu der auf sie entfallenden Verlassenschaftshälfte die Großelternpaare des anderen Elternteils in demselben Ausmaß wie zu der ihnen unmittelbar zufallenden Verlassenschaftshälfte berufen.
+`§ 616 (2) ABGB.`  
+Ist für eine tatsächlich testierunfähige Person ein Nacherbe bestimmt, so erlischt die Nacherbschaft im Zweifel, wenn diese Person die Testierfähigkeit später erlangt. Die Nacherbschaft lebt nicht wieder auf, wenn sie später wieder testierunfähig wird.
 
-### § 742 ABGB # Mehrfache Verwandtschaft
+### § 617 ABGB
 
-`§ 742 ABGB.`  
-Wenn jemand mit dem Verstorbenen mehrfach verwandt ist, genießt er von jeder Seite das Erbrecht, das ihm als einem Verwandten von dieser Seite gebührt.
+`§ 617 ABGB.`  
+Die von einem letztwillig Verfügenden seinem Kind in einem Zeitpunkt angeordnete Ersatz- oder Nacherbschaft, in dem dieses noch keine Kinder hatte, erlischt im Zweifel, wenn es später doch erbfähige Kinder hinterlassen hat.
 
-### § 743 ABGB # Ausschluss von entfernten Verwandten
+## Elftes Hauptstück # Vermächtnisse # I. Grundsätze
 
-`§ 743 ABGB.`  
-Auf diese vier Linien der Verwandtschaft (§ 731) wird die gesetzliche Erbfolge eingeschränkt.
+### § 647 ABGB # Berufung zum Vermächtnisnehmer
 
-## III. Gesetzliches Erbrecht des Ehegatten und eingetragenen Partners
+`§ 647 (1) ABGB.`  
+Ein Vermächtnis (§ 535) gründet sich auf einen Erb- oder Vermächtnisvertrag, auf den gültig erklärten Willen des Verstorbenen oder auf das Gesetz.
 
-### § 744 ABGB
+`§ 647 (2) ABGB.`  
+Die Bestimmungen über die Vererblichkeit des Erbrechts (§ 537) und die Erbfähigkeit (§§ 538 bis 543) sowie über die Ausschlagung der Erbschaft (§§ 803 ff.) sind entsprechend anzuwenden.
 
-`§ 744 (1) ABGB.`  
-Der Ehegatte oder eingetragene Partner des Verstorbenen ist neben Kindern des Verstorbenen und deren Nachkommen zu einem Drittel der Verlassenschaft, neben Eltern des Verstorbenen zu zwei Dritteln der Verlassenschaft und in den übrigen Fällen zur Gänze gesetzlicher Erbe. Ist ein Elternteil vorverstorben, so fällt auch dessen Anteil dem Ehegatten oder dem eingetragenen Partner zu.
+### § 648 ABGB # Erbe und Vermächtnisnehmer
 
-`§ 744 (2) ABGB.`  
-Auf den Erbteil des Ehegatten oder eingetragenen Partners ist alles anzurechnen, was er durch Ehe- oder Partnerschaftspakt oder Erbvertrag aus dem Vermögen des Verstorbenen erhält.
+`§ 648 (1) ABGB.`  
+Einem Erben kann auch ein Vermächtnis zugedacht werden. Insoweit wird der Erbe als Vermächtnisnehmer behandelt. Im Zweifel ist ein solches Vermächtnis nicht auf den Anteil des begünstigten Erben anzurechnen und belastet alle Erben nach ihrer Erbquote (Vorausvermächtnis).
 
-### § 745 ABGB # Gesetzliches Vorausvermächtnis
+`§ 648 (2) ABGB.`  
+Wenn die Anrechnung des Vermächtnisses auf den Erbteil ausdrücklich angeordnet wurde oder sich aus der Auslegung des letzten Willens ergibt (Hineinvermächtnis), liegt darin im Zweifel eine Teilungsanordnung.
 
-`§ 745 (1) ABGB.`  
-Sofern der Ehegatte oder eingetragene Partner nicht rechtmäßig enterbt worden ist, gebühren ihm als gesetzliches Vorausvermächtnis das Recht, in der Ehe- oder Partnerschaftswohnung weiter zu wohnen, und die zum ehelichen oder partnerschaftlichen Haushalt gehörenden beweglichen Sachen, soweit sie zu dessen Fortführung entsprechend den bisherigen Lebensverhältnissen erforderlich sind.
+`§ 648 (3) ABGB.`  
+Übersteigt der Wert des Hineinvermächtnisses den letztwillig zugedachten Erbteil, so erhöht sich im Zweifel der Erbteil dieses Erben entsprechend. Im selben Ausmaß vermindern sich die Erbteile der übrigen eingesetzten Erben verhältnismäßig. Im Zweifel kommt es auf den Wert des Hineinvermächtnisses im Zeitpunkt der Errichtung der letztwilligen Verfügung an.
 
-`§ 745 (2) ABGB.`  
-Dem Lebensgefährten des Verstorbenen steht ein solches gesetzliches Vermächtnis zu, sofern er mit dem Verstorbenen als dessen Lebensgefährte zumindest in den letzten drei Jahren im gemeinsamen Haushalt gelebt hat und der Verstorbene im Zeitpunkt des Todes weder verheiratet war noch in einer eingetragenen Partnerschaft gelebt hat. Die in Abs. 1 erwähnten Rechte enden ein Jahr nach dem Tod des Verstorbenen.
+### § 649 ABGB # Vermächtnisschuldner
 
-### § 746 ABGB # Auflösung der Ehe oder Partnerschaft
+`§ 649 (1) ABGB.`  
+Aufgrund des Vermächtnisses erwirbt der Vermächtnisnehmer eine Forderung gegen die Verlassenschaft und nach der Einantwortung gegen die Erben.
 
-`§ 746 (1) ABGB.`  
-Nach Auflösung der Ehe oder eingetragenen Partnerschaft zu Lebzeiten des Verstorbenen steht dem früheren Ehegatten oder eingetragenen Partner weder ein gesetzliches Erbrecht noch das gesetzliche Vorausvermächtnis zu.
+`§ 649 (2) ABGB.`  
+Im Zweifel haften die Erben zur ungeteilten Hand. Sie haben im Zweifel untereinander im Verhältnis ihrer Erbteile zur Leistung des Vermächtnisses beizutragen, selbst wenn die Sache eines Miterben vermacht worden ist. Die Leistung des Vermächtnisses kann aber auch einem Miterben allein oder einem Vermächtnisnehmer aufgetragen werden.
 
-`§ 746 (2) ABGB.`  
-Das gesetzliche Erbrecht und das gesetzliche Vorausvermächtnis stehen dem überlebenden Ehegatten oder eingetragenen Partner auch dann nicht zu, wenn in einem im Zeitpunkt des Erbfalls anhängigen Verfahren über die Auflösung der Ehe oder eingetragenen Partnerschaft eine Vereinbarung über die Aufteilung des Gebrauchsvermögens und der Ersparnisse für den Fall der Rechtskraft der Auflösungsentscheidung vorliegt. Eine solche Vereinbarung gilt im Zweifel auch für die Auflösung der Ehe oder eingetragenen Partnerschaft durch den Tod eines Ehegatten oder eingetragenen Partners.
+### § 650 ABGB # Untervermächtnis
 
-### § 747 ABGB # Anspruch auf Unterhalt
+`§ 650 ABGB.`  
+Ein Vermächtnisnehmer kann sich von der vollständigen Erfüllung des ihm aufgetragenen weiteren Vermächtnisses nicht mit der Begründung befreien, dass es den Wert des ihm zugedachten Vermächtnisses übersteigt. Nimmt er das Vermächtnis nicht an, so muss derjenige, dem es zufällt, das Untervermächtnis erfüllen oder das ihm zugefallene Vermächtnis dem darauf gewiesenen Untervermächtnisnehmer herausgeben.
 
-`§ 747 ABGB.`  
-Der Ehegatte oder eingetragene Partner hat, außer in den Fällen der §§ 746 und 777, gegen die Verlassenschaft und nach Einantwortung gegen die Erben bis zum Wert der Verlassenschaft einen Anspruch auf Unterhalt nach den sinngemäß anzuwendenden Grundsätzen des § 94 oder des § 12 EPG, solange er nicht wieder eine Ehe oder eingetragene Partnerschaft eingeht. Auf diesen Anspruch ist alles anzurechnen, was der Ehegatte oder eingetragene Partner nach dem Verstorbenen durch vertragliche oder letztwillige Zuwendung, als gesetzlichen Erbteil, als Pflichtteil und durch öffentlich-rechtliche oder privatrechtliche Leistung erhält, desgleichen eigenes Vermögen des Ehegatten oder eingetragenen Partners sowie Erträgnisse einer von ihm tatsächlich ausgeübten oder einer solchen Erwerbstätigkeit, die von ihm den Umständen nach erwartet werden kann.
+### § 651 ABGB # Verteilungsvermächtnis
+
+`§ 651 ABGB.`  
+Wer ein Vermächtnis einer gewissen Personengruppe, etwa seinen Verwandten, seinen Dienstnehmern oder bedürftigen Menschen, zukommen lassen will, kann die Verteilung, welchen Personen was zukommen soll, dem Erben oder einem Dritten überlassen. Ist dazu nichts bestimmt, so kann der Erbe die Verteilung vornehmen.
+
+### § 652 ABGB # Ersatz- und Nachvermächtnis
+
+`§ 652 ABGB.`  
+Es kann auch ein Ersatz- oder Nachvermächtnis angeordnet werden; die Bestimmungen des Zehnten Hauptstücks sind darauf sinngemäß anzuwenden.
+
+### § 653 ABGB # Gegenstand eines Vermächtnisses
+
+`§ 653 (1) ABGB.`  
+Jede Sache, die im Verkehr steht, vererblich ist und den Inhalt einer selbstständigen Forderung bilden kann, kann Gegenstand eines Vermächtnisses sein.
+
+`§ 653 (2) ABGB.`  
+Ist die vermachte Sache verpfändet oder sonst wie belastet, so hat der Vermächtnisnehmer auch die darauf haftenden Lasten zu übernehmen.
+
+### § 654 ABGB # Unmöglichkeit
+
+`§ 654 ABGB.`  
+Ist die Leistung des Vermächtnisses ohne Verschulden des Vermächtnisschuldners oder eines Dritten unmöglich, so erhält der Vermächtnisnehmer keinen Ersatz. Werden aber verkehrsfähige Sachen vermacht, die der Vermächtnisnehmer aus rechtlichen Gründen nicht erwerben kann, so gebührt ihm der Verkehrswert.
 
 `END-OF-DATA-FILE`

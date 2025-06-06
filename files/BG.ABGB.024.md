@@ -6,486 +6,315 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Drittes Hauptstück. # Von Aufhebung der Rechte u. Verbindlichkeiten.
+## 4. Abschnitt # Gesellschafternachfolge
 
-### § 1411 ABGB # Aufhebung der Rechte und Verbindlichkeiten.
+### § 1201 ABGB # Rechtsübergang
 
-`§ 1411 ABGB.`  
-Rechte und Verbindlichkeiten stehen in einem solchen Zusammenhange, daß mit Erlöschung des Rechtes die Verbindlichkeit, und mit Erlöschung der letzteren das Recht aufgehoben wird.
+`§ 1201 (1) ABGB.`  
+Sofern nichts anderes vereinbart wurde, gehen zum Zeitpunkt des Eintritts oder Ausscheidens eines Gesellschafters sowie zum Zeitpunkt des Gesellschafterwechsels durch Rechtsgeschäft unter Lebenden die gesellschaftsbezogenen, nicht höchstpersönlichen Rechtsverhältnisse im Verhältnis der Beteiligungen von den bisherigen Gesellschaftern auf den eintretenden Gesellschafter, vom ausscheidenden auf die verbleibenden Gesellschafter oder beim Gesellschafterwechsel vom ausscheidenden auf den eintretenden Gesellschafter über (Gesellschafternachfolge). Für gesellschaftsbezogene Verbindlichkeiten bestellte Sicherheiten bleiben für diese Verbindlichkeiten aufrecht. Der ausscheidende Gesellschafter haftet nach Maßgabe des § 1202 Abs. 2 für die gesellschaftsbezogenen Verbindlichkeiten weiter.
 
-### § 1412 ABGB # 1) Durch die Zahlung.
+`§ 1201 (2) ABGB.`  
+Bei Sachen des Gesellschaftsvermögens, die im Miteigentum der Gesellschafter stehen, gilt die Übergabe als vollzogen, sobald der Eintritt, Austritt oder Wechsel wirksam geworden ist. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
 
-`§ 1412 ABGB.`  
-Die Verbindlichkeit wird vorzüglich durch die Zahlung, das ist, durch die Leistung dessen, was man zu leisten schuldig ist, aufgelöset (§. 469).
+`§ 1201 (3) ABGB.`  
+Ein Dritter kann der im Zuge einer Gesellschafternachfolge von Gesetzes wegen eintretenden Übernahme seines Vertragsverhältnisses binnen dreier Monate nach Verständigung davon durch einen Gesellschafter gegenüber dem ausscheidenden, dem eintretenden oder einem anderen vom Vertragsverhältnis erfassten Gesellschafter widersprechen; in der Verständigung ist auf das Widerspruchsrecht hinzuweisen. Dies gilt auch für den Besteller einer für gesellschaftsbezogene Verbindlichkeiten gewährten Sicherheit. Im Fall eines wirksamen Widerspruchs besteht das Vertragsverhältnis auch noch mit dem ausgeschiedenen Gesellschafter fort.
 
-### § 1413 ABGB # Wie die Zahlung zu leisten.
+`§ 1201 (4) ABGB.`  
+Wurde dem Dritten nicht nachweislich mitgeteilt, ob das Vertragsverhältnis vom Erwerber übernommen wurde, oder kann der Dritte dieser Übernahme noch widersprechen, so kann er sowohl gegenüber dem ausscheidenden als auch gegenüber dem nachfolgenden Gesellschafter auf das Vertragsverhältnis bezogene Erklärungen abgeben und seine Verbindlichkeiten erfüllen. Dies gilt auch für den Besteller einer für gesellschaftsbezogene Verbindlichkeiten gewährten Sicherheit.
 
-`§ 1413 ABGB.`  
-Gegen seinen Willen kann weder der Gläubiger gezwungen werden, etwas anderes anzunehmen, als er zu fordern hat, noch der Schuldner, etwas anders zu leisten, als er zu leisten verbunden ist. Dieses gilt auch von der Zeit, dem Orte und der Art, die Verbindlichkeit zu erfüllen.
+### § 1202 ABGB # Haftung des eintretenden und des ausscheidenden Gesellschafters
 
-### § 1414 ABGB
+`§ 1202 (1) ABGB.`  
+Der eintretende Gesellschafter haftet nur insofern für vor seinem Eintritt begründete gesellschaftsbezogene Verbindlichkeiten, als er jenen gesellschaftsbezogenen Rechtsverhältnissen beitritt, auf denen die Verbindlichkeiten beruhen.
 
-`§ 1414 ABGB.`  
-Wird, weil der Gläubiger und der Schuldner einverstanden sind, oder weil die Zahlung selbst unmöglich ist, etwas anderes an Zahlungs Statt gegeben; so ist die Handlung als ein entgeldliches Geschäft zu betrachten.
+`§ 1202 (2) ABGB.`  
+Der ausscheidende Gesellschafter haftet für gesellschaftsbezogene Verbindlichkeiten gegenüber Dritten, die vor seinem Ausscheiden aus der Gesellschaft begründet wurden, auch dann weiter, wenn er aus dem Rechtsverhältnis ausgeschieden ist (§ 1201 Abs. 3). Soweit der Dritte einer Entlassung des Ausscheidenden aus der Haftung nicht zustimmt, haftet dieser für die Verbindlichkeiten nur, soweit sie innerhalb von fünf Jahren nach seinem Ausscheiden fällig werden. Ansprüche daraus verjähren innerhalb der für die jeweilige Verbindlichkeit geltenden Verjährungsfrist, längstens jedoch innerhalb von drei Jahren.
 
-### § 1415 ABGB
+### § 1203 ABGB # Auseinandersetzung mit dem ausscheidenden Gesellschafter
 
-`§ 1415 ABGB.`  
-Der Gläubiger ist nicht schuldig, die Zahlung einer Schuldpost theilweise, oder auf Abschlag anzunehmen. Sind aber verschiedene Posten zu zahlen; so wird diejenige für abgetragen gehalten, welche der Schuldner, mit Einwilligung des Gläubigers tilgen zu wollen, sich ausdrücklich erkläret hat.
+`§ 1203 (1) ABGB.`  
+Dem ausscheidenden Gesellschafter sind die Sachen, die er den Gesellschaftern zur Benutzung überlassen hat, zurückzugeben. Für eine durch Zufall abhanden gekommene oder verschlechterte Sache kann er keinen Ersatz verlangen.
 
-### § 1416 ABGB
+`§ 1203 (2) ABGB.`  
+Dem ausscheidenden Gesellschafter ist in Geld auszuzahlen, was er bei der Auseinandersetzung erhielte, wenn die Gesellschaft zur Zeit seines Ausscheidens aufgelöst worden wäre. Der Wert des Gesellschaftsvermögens ist, soweit erforderlich, durch Schätzung zu ermitteln.
 
-`§ 1416 ABGB.`  
-Wird die Willensmeinung des Schuldners bezweifelt, oder von dem Gläubiger widersprochen; so sollen zuerst die Zinsen, dann das Capital, von mehreren Capitalien aber dasjenige, welches schon eingefordert, oder wenigstens fällig ist, und nach diesem dasjenige, welches schuldig zu bleiben dem Schuldner am meisten beschwerlich fällt, abgerechnet werden.
+`§ 1203 (3) ABGB.`  
+Der ausscheidende Gesellschafter ist von den gesellschaftsbezogenen Verbindlichkeiten zu befreien, für die er den Gläubigern haftet. Ist eine Schuld noch nicht fällig, so können ihm die anderen Gesellschafter Sicherheit leisten, statt ihn zu befreien.
 
-### § 1417 ABGB # wann;
+`§ 1203 (4) ABGB.`  
+Verbleibt dem ausscheidenden Gesellschafter eine Verbindlichkeit aus dem Gesellschaftsverhältnis, so ist er verpflichtet, einen Ausgleich in entsprechender Höhe an die Gesellschafter zu zahlen.
 
-`§ 1417 ABGB.`  
-Wenn die Zahlungsfrist auf keine Art bestimmt ist; so tritt die Verbindlichkeit, die Schuld zu zahlen, erst mit dem Tage ein, an welchem die Einmahnung geschehen ist (§. 904). Für die Zahlungsfrist bei Erfüllung einer Geldschuld durch Banküberweisung gilt § 907a Abs. 2.
+### § 1204 ABGB # Beteiligung des Ausscheidenden an schwebenden Geschäften
 
-### § 1418 ABGB
+`§ 1204 (1) ABGB.`  
+Der ausgeschiedene Gesellschafter nimmt am Gewinn und am Verlust teil, der sich aus den zur Zeit seines Ausscheidens schwebenden Geschäften ergibt. Die übrigen Gesellschafter sind berechtigt, diese Geschäfte so zu beenden, wie es ihnen am vorteilhaftesten erscheint.
 
-`§ 1418 ABGB.`  
-In gewissen Fällen wird die Zahlungsfrist durch die Natur der Sache bestimmt. Alimente werden wenigstens auf einen Monath voraus bezahlt. Stirbt der Verpflegte während dieser Zeit; so sind dessen Erben nicht schuldig, etwas von der Vorausbezahlung zurück zu geben.
+`§ 1204 (2) ABGB.`  
+Der ausgeschiedene Gesellschafter kann am Schluss jedes Geschäftsjahres Rechenschaft über die inzwischen beendeten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen.
 
-### § 1419 ABGB
+### § 1205 ABGB # Fortsetzung mit den Erben
 
-`§ 1419 ABGB.`  
-Hat der Gläubiger gezögert, die Zahlung anzunehmen; so fallen die widrigen Folgen auf ihn.
+`§ 1205 (1) ABGB.`  
+Ist im Gesellschaftsvertrag bestimmt, dass im Fall des Todes eines Gesellschafters die Gesellschaft mit seinen Erben fortgesetzt werden soll, so besteht sie nach dem Tod dieses Gesellschafters mit seiner Verlassenschaft und nach deren Einantwortung mit den Erben fort. Jeder Erbe kann sein Verbleiben in der Gesellschaft davon abhängig machen, dass ihm unter Belassung des bisherigen Gewinnanteils die Stellung eines Kommanditisten in einer neu zu gründenden Kommanditgesellschaft (§ 1206) eingeräumt und der auf ihn fallende Teil der Einlage des Verstorbenen als seine Kommanditeinlage anerkannt wird.
 
-### § 1420 ABGB
+`§ 1205 (2) ABGB.`  
+Nehmen die übrigen Gesellschafter einen dahingehenden Antrag des Erben nicht an, so ist dieser befugt, ohne Einhaltung einer Kündigungsfrist sein Ausscheiden aus der Gesellschaft zu erklären.
 
-`§ 1420 ABGB.`  
-Wenn der Ort und die Art der Leistung nicht bestimmt sind, so müssen die oben (§ 905 Abs. 1 und 2, § 906, § 907a Abs. 1, § 907b) aufgestellten Vorschriften angewendet werden.
+`§ 1205 (3) ABGB.`  
+Die in Abs. 1 und 2 bezeichneten Rechte können von den Erben nur innerhalb einer Frist von drei Monaten nach der Einantwortung der Verlassenschaft geltend gemacht werden. Ist ein Erbe geschäftsunfähig und ist für ihn kein gesetzlicher Vertreter bestellt, so läuft diese Frist erst ab der Bestellung eines solchen oder ab dem Eintritt der Geschäftsfähigkeit des Erben.
 
-### § 1421 ABGB # von wem;
+`§ 1205 (4) ABGB.`  
+Scheidet innerhalb der Frist des Abs. 3 der Erbe aus der Gesellschaft aus oder wird innerhalb der Frist die Gesellschaft aufgelöst oder dem Erben die Stellung eines Kommanditisten eingeräumt, so haftet er für die bis dahin entstandenen gesellschaftsbezogenen Verbindlichkeiten nur nach Maßgabe der die Haftung des Erben für Verbindlichkeiten der Verlassenschaft betreffenden Vorschriften.
 
-`§ 1421 ABGB.`  
-Auch eine Person, die sonst unfähig ist, ihr Vermögen zu verwalten, kann eine richtige und verfallene Schuld rechtmäßig abtragen, und sich ihrer Verbindlichkeit entledigen. Hätte sie aber eine noch ungewisse, oder nicht verfallene Schuld abgetragen, so ist ihr gesetzlicher Vertreter berechtigt, das Geleistete zurückzufordern.
+`§ 1205 (5) ABGB.`  
+Der Gesellschaftsvertrag kann die Anwendung der Vorschriften der Abs. 1 bis 4 nicht ausschließen; es kann jedoch für den Fall, dass der Erbe sein Verbleiben von der Einräumung der Stellung eines Kommanditisten abhängig macht, sein Gewinnanteil anders als der des Verstorbenen bestimmt werden.
 
-### § 1422 ABGB
+## 5. Abschnitt # Umwandlung
 
-`§ 1422 ABGB.`  
-Wer die Schuld eines anderen, für die er nicht haftet (§ 1358), bezahlt, kann vor oder bei der Zahlung vom Gläubiger die Abtretung seiner Rechte verlangen; hat er dies getan, so wirkt die Zahlung als Einlösung der Forderung.
+### § 1206 ABGB # Umwandlung in eine offene Gesellschaft oder Kommanditgesellschaft
 
-### § 1423 ABGB
+`§ 1206 (1) ABGB.`  
+Die Gesellschafter können die Errichtung einer offenen Gesellschaft oder einer Kommanditgesellschaft und zugleich die Einbringung des der Gesellschaft gewidmeten Vermögens in die offene Gesellschaft oder Kommanditgesellschaft beschließen. In diesem Fall geht das der Gesellschaft gewidmete Vermögen einschließlich aller Rechte und Pflichten mit der Eintragung der offenen Gesellschaft oder Kommanditgesellschaft im Firmenbuch im Weg der Gesamtrechtsnachfolge auf diese Gesellschaft über. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
 
-`§ 1423 ABGB.`  
-Wird die Einlösung mit Einverständnis des Schuldners angeboten, so muß der Gläubiger die Zahlung annehmen; doch hat er außer dem Falle des Betruges für die Einbringlichkeit und Richtigkeit der Forderung nicht zu haften. Ohne Einwilligung des Schuldners kann dem Gläubiger von einem Dritten in der Regel (§ 462) die Zahlung nicht aufgedrängt werden.
+`§ 1206 (2) ABGB.`  
+Die Umwandlung erfordert einen einstimmigen Gesellschafterbeschluss. Die Gesellschafter legen fest, ob die Gesellschaft in eine offene Gesellschaft oder in eine Kommanditgesellschaft umgewandelt werden soll. Sie bestimmen die für die Eintragung erforderlichen Merkmale der neuen Gesellschaft.
 
-### § 1424 ABGB # an wen;
+`§ 1206 (3) ABGB.`  
+Der Umwandlungsbeschluss enthält das von den geschäftsführenden Gesellschaftern aufgestellte Verzeichnis des Gesellschaftsvermögens (§ 1178 Abs. 1). Was im Vermögensverzeichnis nicht angeführt ist, verbleibt den Gesellschaftern wie bisher.
 
-`§ 1424 ABGB.`  
-Der Schuldbetrag muß dem Gläubiger oder dessen zum Empfange geeigneten Machthaber, oder demjenigen geleistet werden, den das Gericht als Eigenthümer der Forderung erkannt hat. Was jemand an eine Person bezahlt hat, die ihr Vermögen nicht selbst verwalten darf, ist er in so weit wieder zu zahlen verbunden, als das Bezahlte nicht wirklich vorhanden, oder zum Nutzen des Empfängers verwendet worden ist.
+### § 1207 ABGB # Wirkung gegenüber Dritten
 
-### § 1425 ABGB # Gerichtliche Hinterlegung der Schuld.
+`§ 1207 (1) ABGB.`  
+Die Gesellschafter haften nach der Umwandlung für die vorher begründeten Verbindlichkeiten auch als Gesellschafter bürgerlichen Rechts weiter.
 
-`§ 1425 ABGB.`  
-Kann eine Schuld aus dem Grunde, weil der Gläubiger unbekannt, abwesend, oder mit dem Angebothenen unzufrieden ist, oder aus andern wichtigen Gründen nicht bezahlet werden; so steht dem Schuldner bevor, die abzutragende Sache bey dem Gerichte zu hinterlegen; oder, wenn sie dazu nicht geeignet ist, die gerichtliche Einleitung zu deren Verwahrung anzusuchen. Jede dieser Handlungen; wenn sie rechtmäßig geschehen und dem Gläubiger bekannt gemacht worden ist, befreyt den Schuldner von seiner Verbindlichkeit, und wälzt die Gefahr der geleisteten Sache auf den Gläubiger.
+`§ 1207 (2) ABGB.`  
+Solange ein Dritter von der Umwandlung nicht verständigt wurde und sie ihm auch sonst nicht bekannt geworden ist, kann er seine Leistung mit schuldbefreiender Wirkung so erbringen, als würde die Gesellschaft bürgerlichen Rechts noch bestehen.
 
-### § 1426 ABGB # Quittungen.
+## 6. Abschnitt # Auflösung
 
-`§ 1426 ABGB.`  
-Der Zahler ist in allen Fällen berechtiget, von dem Befriedigten eine Quittung, nähmlich ein schriftliches Zeugniß der erfüllten Verbindlichkeit, zu verlangen. In der Quittung muß der Nahme des Schuldners und des Gläubigers, so wie der Ort, die Zeit und der Gegenstand der getilgten Schuld ausgedrückt, und sie muß von dem Gläubiger, oder dessen Machthaber unterschrieben werden. Die Kosten der Quittung hat, wenn nichts anderes vereinbart ist, der Gläubiger zu tragen.
+### § 1208 ABGB # Auflösungsgründe
 
-### § 1427 ABGB
+`§ 1208 ABGB.`  
+Die Gesellschaft wird aufgelöst:  
+`§ 1208 Z 1 ABGB.`
+durch den Ablauf der Zeit, für die sie eingegangen ist;  
+`§ 1208 Z 2 ABGB.`
+durch Beschluss der Gesellschafter;  
+`§ 1208 Z 3 ABGB.`
+durch die rechtskräftige Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters, durch die Abänderung der Bezeichnung Sanierungsverfahren in Konkursverfahren oder durch die rechtskräftige Nichteröffnung oder Aufhebung des Insolvenzverfahrens mangels kostendeckenden Vermögens;  
+`§ 1208 Z 4 ABGB.`
+durch Kündigung oder durch gerichtliche Entscheidung;  
+`§ 1208 Z 5 ABGB.`
+durch den Tod eines Gesellschafters, sofern sich aus dem Gesellschaftsvertrag nichts anderes ergibt.
 
-`§ 1427 ABGB.`  
-Eine Quittung über das bezahlte Capital gründet die Vermuthung, daß auch die Zinsen davon bezahlt worden seyn.
+### § 1209 ABGB # Kündigung durch einen Gesellschafter
 
-### § 1428 ABGB
+`§ 1209 (1) ABGB.`  
+Die Kündigung der Gesellschaft durch einen Gesellschafter kann, wenn die Gesellschaft für unbestimmte Zeit eingegangen ist, nur für den Schluss eines Geschäftsjahres erfolgen; sie muss mindestens sechs Monate vor diesem Zeitpunkt stattfinden.
+(2) Eine Vereinbarung, durch die das Kündigungsrecht ausgeschlossen oder in anderer Weise als durch angemessene Verlängerung der Kündigungsfrist erschwert wird, ist nichtig. Dies gilt nicht für Innengesellschaften (§ 1176 Abs. 1).
 
-`§ 1428 ABGB.`  
-Besitzt der Gläubiger von dem Schuldner einen Schuldschein; so ist er nebst Ausstellung einer Quittung verbunden, denselben zurück zu geben, oder die allenfalls geleistete Abschlagszahlung auf dem Schuldscheine selbst abschreiben zu lassen. Der zurück erhaltene Schuldschein ohne Quittung gründet für den Schuldner die rechtliche Vermuthung der geleisteten Zahlung; er schließt aber den Gegenbeweis nicht aus. Ist der Schuldschein, welcher zurück gegeben werden soll, in Verlust gerathen; so ist der Zahlende berechtiget, Sicherstellung zu fordern, oder den Betrag gerichtlich zu hinterlegen, und zu verlangen, daß der Gläubiger die Tödtung des Schuldscheines der Gerichtsordnung gemäß bewirke.
+### § 1210 ABGB # Auflösung durch gerichtliche Entscheidung
 
-### § 1429 ABGB
+`§ 1210 (1) ABGB.`  
+Aufgrund der Klage eines Gesellschafters kann die Auflösung der Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft ohne Kündigung durch gerichtliche Entscheidung ausgesprochen werden, wenn ein wichtiger Grund vorliegt.
 
-`§ 1429 ABGB.`  
-Eine Quittung, die der Gläubiger dem Schuldner für eine abgetragene neuere Schuldpost ausgestellt hat, beweiset zwar nicht, daß auch andere ältere Posten abgetragen worden seyn: wenn es aber gewisse Gefälle, Renten, oder solche Zahlungen betrifft, welche, wie Geld- Grund- Haus- oder Capitals-Zinsen, aus eben demselben Titel und zu einer gewissen Zeit geleistet werden sollen; so wird vermuthet, daß derjenige, welcher sich mit der Quittung des letzt verfallenen Termines ausweiset, auch die früher verfallenen berichtiget habe.
+`§ 1210 (2) ABGB.`  
+Ein solcher Grund ist insbesondere vorhanden, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder aus grober Fahrlässigkeit verletzt oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
 
-### § 1430 ABGB
+`§ 1210 (3) ABGB.`  
+Eine Vereinbarung, durch die das Recht des Gesellschafters, die Auflösung der Gesellschaft zu verlangen, ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
 
-`§ 1430 ABGB.`  
-Eben so wird von Handels- und Gewerbsleuten, welche mit ihren Abnehmern (Kunden) zu gewissen Fristen die Rechnungen abzuschließen pflegen, vermuthet, daß ihnen, wenn sie über die Rechnung aus einer späteren Frist quittirt haben, auch die früheren Rechnungen bezahlt seyn.
+### § 1211 ABGB # Gesellschaft auf Lebenszeit, Befristung
 
-### § 1431 ABGB # Zahlung einer Nichtschuld.
+`§ 1211 ABGB.`  
+Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablauf der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinn der §§ 1209 und 1210 einer für unbestimmte Zeit eingegangen Gesellschaft gleich.
 
-`§ 1431 ABGB.`  
-Wenn jemanden aus einem Irrthume, wäre es auch ein Rechtsirrthum, eine Sache oder eine Handlung geleistet worden, wozu er gegen den Leistenden kein Recht hat; so kann in der Regel im ersten Falle die Sache zurückgefordert, im zweyten aber ein dem verschafften Nutzen angemessener Lohn verlangt werden.
+### § 1213 ABGB # Ausschluss statt Auflösung
 
-### § 1432 ABGB
+`§ 1213 (1) ABGB.`  
+Tritt in der Person eines Gesellschafters ein Umstand ein, der nach § 1210 für jeden der übrigen Gesellschafter das Recht begründet, die Auflösung der Gesellschaft zu verlangen, so kann vom Gericht aufgrund einer Klage aller übrigen Gesellschafter anstatt der Auflösung der Ausschluss dieses Gesellschafters aus der Gesellschaft ausgesprochen werden. Der Ausschließungsklage steht nicht entgegen, dass nach dem Ausschluss nur ein Gesellschafter verbleibt.
 
-`§ 1432 ABGB.`  
-Doch können Zahlungen einer verjährten, oder einer solchen Schuld, welche nur aus Mangel der Förmlichkeiten ungültig ist, oder zu deren Eintreibung das Gesetz bloß das Klagerecht versagt, eben so wenig zurückgefordert werden, als wenn jemand eine Zahlung leistet, von der er weiß, daß er sie nicht schuldig ist.
+`§ 1213 (2) ABGB.`  
+Für die Auseinandersetzung zwischen den verbleibenden Gesellschaftern und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkt maßgeblich, in dem die Klage auf Ausschließung erhoben wird.
 
-### § 1433 ABGB
+### § 1214 ABGB # Fortsetzungsbeschluss
 
-`§ 1433 ABGB.`  
-Diese Vorschrift (§ 1432) kann aber auf den Fall, in dem eine minderjährige, eine nicht geschäftsfähige volljährige oder eine andere Person bezahlt hat, die nicht frei über ihr Eigentum verfügen kann, nicht angewendet werden.
+`§ 1214 (1) ABGB.`  
+Die Gesellschafter können bei Auflösung der Gesellschaft deren Fortsetzung beschließen. In den Fällen des § 1208 Z 3, 4 oder 5, der Kündigung der Gesellschaft nach § 339 Abs. 1 EO und der Auflösung der Gesellschaft durch das Gericht (§ 1210 Abs. 1) steht dieses Recht den übrigen Gesellschaftern zu. In diesen Fällen scheidet der Gesellschafter, in dessen Person der Auflösungsgrund eingetreten ist, infolge des Fortsetzungsbeschlusses aus der Gesellschaft aus.
 
-### § 1434 ABGB
+`§ 1214 (2) ABGB.`  
+Im Fall der Kündigung nach § 339 Abs. 1 EO scheidet der betreffende Gesellschafter mit dem Ende des Geschäftsjahres aus der Gesellschaft aus; in den übrigen Fällen mit dem Wirksamwerden des Beschlusses.
 
-`§ 1434 ABGB.`  
-Die Zurückstellung des Bezahlten kann auch dann begehret werden, wenn die Schuldforderung auf was immer für eine Art noch ungewiß ist; oder wenn sie noch von der Erfüllung einer beygesetzten Bedingung abhängt. Die Bezahlung einer richtigen und unbedingten Schuld kann aber deßwegen nicht zurückgefordert werden, weil die Zahlungsfrist noch nicht verfallen ist.
+`§ 1214 (3) ABGB.`  
+Im Fall der Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters ist Abs. 1 mit der Maßgabe anzuwenden, dass eine Erklärung gegenüber dem Masseverwalter zu erfolgen hat und der Schuldner mit dem Zeitpunkt der Konkurseröffnung als aus der Gesellschaft ausgeschieden gilt.
 
-### § 1435 ABGB
+### § 1215 ABGB # Übergang des Gesellschaftsvermögens
 
-`§ 1435 ABGB.`  
-Auch Sachen, die als eine wahre Schuldigkeit gegeben worden sind, kann der Geber von dem Empfänger zurück fordern, wenn der rechtliche Grund, sie zu behalten, aufgehört hat.
+`§ 1215 (1) ABGB.`  
+Verbleibt nur noch ein Gesellschafter, so erlischt die Gesellschaft ohne Liquidation. Das Gesellschaftsvermögen geht im Weg der Gesamtrechtsnachfolge auf diesen über. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
 
-### § 1436 ABGB
+`§ 1215 (2) ABGB.`  
+Der ausscheidende Gesellschafter ist gemäß §§ 1203 und 1204 abzufinden.
 
-`§ 1436 ABGB.`  
-War jemand verbunden, aus zwey Sachen nur Eine nach seiner Willkühr zu geben, und hat er aus Irrthum beyde gegeben; so hängt es von ihm ab, die eine oder die andere zurück zu fordern.
+### § 1216 ABGB # Bekanntgabe der Auflösung der Außengesellschaft
 
-### § 1437 ABGB
+`§ 1216 ABGB.`  
+Die Auflösung einer Außengesellschaft ist, soweit möglich, den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf verkehrsübliche Weise bekannt zu machen.
 
-`§ 1437 ABGB.`  
-Der Empfänger einer bezahlten Nichtschuld wird als ein redlicher oder unredlicher Besitzer angesehen, je nachdem er den Irrthum des Gebers gewußt hat, oder aus den Umständen vermuthen mußte, oder nicht. Von einem minderjährigen oder nicht geschäftsfähigen volljährigen Empfänger kann der Geber das irrtümlich Bezahlte (§ 1431) nur insoweit zurückfordern, als es beim Empfänger wirklich vorhanden oder zum Nutzen des Empfängers verwendet worden ist.
+## 7. Abschnitt # Liquidation
 
-### § 1438 ABGB # 2) Compensation.
+### § 1216a ABGB # Nachwirkung des Gesellschaftsvertrages
 
-`§ 1438 ABGB.`  
-Wenn Forderungen gegenseitig zusammentreffen, die richtig, gleichartig, und so beschaffen sind, daß eine Sache, die dem Einen als Gläubiger gebührt, von diesem auch als Schuldner dem Andern entrichtet werden kann; so entsteht, in so weit die Forderungen sich gegen einander ausgleichen, eine gegenseitige Aufhebung der Verbindlichkeiten (Compensation), welche schon für sich die gegenseitige Zahlung bewirket.
+`§ 1216a (1) ABGB.`  
+Trotz Auflösung der Gesellschaft bestehen die gesellschaftsvertraglichen Rechte und Pflichten der Gesellschafter zueinander soweit fort, als dies für die Liquidation erforderlich ist und sich aus den folgenden Bestimmungen nichts anderes ergibt. Gesellschaftsbezogene Rechtsverhältnisse der Gesellschafter zu Dritten werden in ihrem Fortbestand durch die Auflösung und Liquidation der Gesellschaft nur dann berührt, wenn dies mit dem Dritten vereinbart wurde.
 
-### § 1439 ABGB
+`§ 1216a (2) ABGB.`  
+Die Gesellschafter können anstelle der Liquidation eine andere Art der Auseinandersetzung vereinbaren. Ist die Gesellschaft durch Kündigung nach § 339 Abs. 1 EO oder durch die Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters aufgelöst, so kann die Liquidation nur mit Zustimmung des Verwalters oder des Masseverwalters unterbleiben.
 
-`§ 1439 ABGB.`  
-Zwischen einer richtigen und nicht richtigen, so wie zwischen einer fälligen und noch nicht fälligen Forderung findet die Compensation nicht Statt. In wie fern gegen eine Insolvenzmasse die Compensation Statt finde, wird in der Insolvenzordnung bestimmt.
+### § 1216b ABGB # Bestellung der Liquidatoren
 
-### § 1440 ABGB
+`§ 1216b (1) ABGB.`  
+Nach der Auflösung der Gesellschaft haben, sofern der Gesellschaftsvertrag nicht anderes bestimmt, die Gesellschafter als Liquidatoren das Gesellschaftsvermögen abzuwickeln. Mehrere Erben eines Gesellschafters haben einen gemeinsamen Vertreter zu bestellen. Ist über das Vermögen eines Gesellschafters das Konkursverfahren oder das Sanierungsverfahren eröffnet und dem Gesellschafter die Eigenverwaltung entzogen, so tritt der Insolvenzverwalter an die Stelle des Gesellschafters.
 
-`§ 1440 ABGB.`  
-Ebenso lassen sich Forderungen, welche ungleichartige oder bestimmte und unbestimmte Sachen zum Gegenstande haben, gegeneinander nicht aufheben. Eigenmächtig oder listig entzogene, entlehnte, in Verwahrung oder in Bestand genommene Stücke sind überhaupt kein Gegenstand der Zurückbehaltung oder der Kompensation.
+`§ 1216b (2) ABGB.`  
+Auf Antrag eines Beteiligten kann aus wichtigen Gründen die Ernennung von Liquidatoren durch das Gericht erfolgen, in dessen Sprengel einer der Gesellschafter seinen Wohnsitz oder Sitz hat. Das Gericht kann in einem solchen Fall Personen zu Liquidatoren ernennen, die nicht zu den Gesellschaftern gehören. Als Beteiligter gilt außer den Gesellschaftern auch der Verwalter, durch den die Kündigung der Gesellschaft erfolgt ist.
 
-### § 1441 ABGB
+`§ 1216b (3) ABGB.`  
+Die Abberufung von Liquidatoren geschieht durch einstimmigen Beschluss der Beteiligten; sie kann auf Antrag eines Beteiligten aus wichtigen Gründen auch durch das Gericht erfolgen.
 
-`§ 1441 ABGB.`  
-Ein Schuldner kann seinem Gläubiger dasjenige nicht in Aufrechnung bringen, was dieser einem Dritten und der Dritte dem Schuldner zu zahlen hat. Selbst eine Summe, die jemand an eine Staats-Casse zu fordern hat, kann gegen eine Zahlung, die er an eine andere Staats-Casse leisten muß, nicht abgerechnet werden.
+`§ 1216b (4) ABGB.`  
+Die Gesellschafter sind verpflichtet, die Liquidation und die Liquidatoren soweit möglich den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf ortsübliche Weise bekannt zu machen.
 
-### § 1442 ABGB
+### § 1216c ABGB # Rechte und Pflichten der Liquidatoren
 
-`§ 1442 ABGB.`  
-Wenn eine Forderung allmählich auf mehrere übertragen wird; so kann der Schuldner zwar die Forderung, welche er zur Zeit der Abtretung an den ersten Inhaber derselben hatte, so wie auch jene, die ihm gegen den letzten Inhaber zusteht, in Abrechnung bringen; nicht aber auch diejenige, welche ihm an einen der Zwischeninhaber zustand.
+`§ 1216c (1) ABGB.`  
+Die Liquidatoren haben die laufenden Geschäfte zu beenden, die gesellschaftsbezogenen Forderungen einzuziehen und die Gesellschaftsgläubiger zu befriedigen. Zur Beendigung schwebender Geschäfte können die Liquidatoren auch neue Geschäfte eingehen.
 
-### § 1443 ABGB
+`§ 1216c (2) ABGB.`  
+Den Gesellschaftern sind die Gegenstände, die sie der Gesellschaft zur Benutzung überlassen haben, zurückzugeben. Für einen durch Zufall abhanden gekommenen oder verschlechterten Gegenstand gebührt ihnen gegenüber den anderen Gesellschaftern kein Ersatz.
 
-`§ 1443 ABGB.`  
-Gegen eine den öffentlichen Büchern einverleibte Forderung kann die Einwendung der Compensation einem Cessionar nur dann entgegen gesetzt werden, wenn die Gegenforderung ebenfalls und zwar bey der Forderung selbst eingetragen, oder dem Cessionar bey Uebernehmung der letztern bekannt gemacht worden ist.
+### § 1216d ABGB # Handeln der Liquidatoren
 
-### § 1444 ABGB # 3) Entsagung.
+`§ 1216d ABGB.`  
+Die Liquidatoren vertreten die Gesellschafter gerichtlich und außergerichtlich als Gesamtvertreter, sofern die Gesellschafter nicht einvernehmlich etwas anderes vereinbaren. Die Liquidatoren können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen. Jeder Liquidator ist alleine befugt, gesellschaftsbezogene Erklärungen entgegenzunehmen.
 
-`§ 1444 ABGB.`  
-In allen Fällen, in welchen der Gläubiger berechtiget ist, sich seines Rechtes zu begeben, kann er demselben auch zum Vortheile seines Schuldners entsagen, und hierdurch die Verbindlichkeit des Schuldners aufheben.
+### § 1216e ABGB # Aufteilung und Ausgleich unter den Gesellschaftern
 
-### § 1445 ABGB # 4) Vereinigung.
+`§ 1216e (1) ABGB.`  
+Das nach Berücksichtigung der Schulden verbleibende Gesellschaftsvermögen ist nach dem Verhältnis der Beteiligung der Gesellschafter unter Berücksichtigung ihrer Guthaben und Verbindlichkeiten aus dem Gesellschaftsverhältnis unter die Gesellschafter zu verteilen.
 
-`§ 1445 ABGB.`  
-So oft auf was immer für eine Art das Recht mit der Verbindlichkeit in Einer Person vereiniget wird, erlöschen beyde; außer, wenn es dem Gläubiger noch frey steht, eine Absonderung seiner Rechte zu verlangen, (§§. 802 und 812), oder wenn Verhältnisse von ganz verschiedener Art eintreten. Daher wird durch die Nachfolge des Schuldners in die Verlassenschaft seines Gläubigers in den Rechten der Erbschaftsgläubiger, der Miterben oder Vermächtnisnehmer, und durch die Beerbung des Schuldners und Bürgen in den Rechten des Gläubigers nichts geändert.
+`§ 1216e (2) ABGB.`  
+Das während der Liquidation entbehrliche Geld wird vorläufig verteilt. Zur Deckung noch nicht fälliger oder streitiger Verbindlichkeiten sowie zur Sicherung der den Gesellschaftern bei der Schlussverteilung zukommenden Beträge ist das Erforderliche zurückzubehalten. § 1196 Abs. 1 ist während der Liquidation nicht anzuwenden.
 
-### § 1446 ABGB
+`§ 1216e (3) ABGB.`  
+Entsteht über die Verteilung des Gesellschaftsvermögens Streit unter den Gesellschaftern, so haben die Liquidatoren die Verteilung bis zur Entscheidung des Streites auszusetzen.
 
-`§ 1446 ABGB.`  
-Rechte und Verbindlichkeiten, welche den öffentlichen Büchern einverleibt sind, werden durch die Vereinigung nicht aufgehoben, bis die Löschung aus den öffentlichen Büchern erfolgt ist (§ 526). Bis dahin kann das eingetragene Pfandrecht vom Eigentümer oder im Wege der Zwangsvollstreckung auf einen Dritten übertragen werden (§§ 469 bis 470).
+`§ 1216e (4) ABGB.`  
+Reicht das Gesellschaftsvermögen zur Deckung der Guthaben von Gesellschaftern aus dem Gesellschaftsverhältnis nicht aus, so sind die übrigen Gesellschafter ihnen gegenüber verpflichtet, für den Betrag im Verhältnis ihrer Verbindlichkeiten aus dem Gesellschaftsverhältnis aufzukommen. Kann von einem Gesellschafter der auf ihn entfallende Betrag nicht erlangt werden, so wird der Ausfall auf die übrigen Gesellschafter wie ein Verlust verteilt.
 
-### § 1447 ABGB # 5) Untergang der Sache.
+## Achtundzwanzigstes Hauptstück # Von den Ehepakten und dem Anspruch auf Ausstattung
 
-`§ 1447 ABGB.`  
-Der zufällige gänzliche Untergang einer bestimmten Sache hebt alle Verbindlichkeit, selbst die, den Werth derselben zu vergüten, auf. Dieser Grundsatz gilt auch für diejenigen Fälle, in welchen die Erfüllung der Verbindlichkeit, oder die Zahlung einer Schuld durch einen andern Zufall unmöglich wird. In jedem Falle muß aber der Schuldner das, was er um die Verbindlichkeit in Erfüllung zu bringen, erhalten hat, zwar gleich einem redlichen Besitzer, jedoch auf solche Art zurückstellen oder vergüten, daß er aus dem Schaden des Andern keinen Gewinn zieht.
+### § 1217 ABGB # Ehepakte
 
-### § 1448 ABGB # 6) Tod.
+`§ 1217 (1) ABGB.`  
+Ehepakte heißen diejenigen Verträge, welche in der Absicht auf die eheliche Verbindung über das Vermögen geschlossen werden. Sie haben vorzüglich die Gütergemeinschaft und den Erbvertrag zum Gegenstand.
 
-`§ 1448 ABGB.`  
-Durch den Tod erlöschen nur solche Rechte und Verbindlichkeiten, welche auf die Person eingeschränkt sind, oder die bloß persönliche Handlungen des Verstorbenen betreffen.
+`§ 1217 (2) ABGB.`  
+Die Bestimmungen dieses Hauptstücks sind auf eingetragene Partner sinngemäß anzuwenden.
 
-### § 1449 ABGB # 7) Verlauf der Zeit.
+### § 1220 ABGB # Ausstattung
 
-`§ 1449 ABGB.`  
-Rechte und Verbindlichkeiten erlöschen auch durch den Verlauf der Zeit, worauf sie durch einen letzten Willen, Vertrag, richterlichen Ausspruch, oder durch das Gesetz beschränkt sind. Auf welche Art sie durch die von dem Gesetze bestimmte Verjährung aufgehoben werden, wird in dem folgenden Hauptstücke festgesetzt.
+`§ 1220 ABGB.`  
+Besitzt ein Kind kein eigenes, zu einer angemessenen Ausstattung hinlängliches Vermögen, so sind Eltern oder Großeltern nach der Reihenfolge und nach den Grundsätzen, nach denen sie für den Unterhalt der Kinder zu sorgen haben, verpflichtet, den Kindern oder Enkelkindern bei ihrer Verehelichung eine Ausstattung zu geben oder dazu verhältnismäßig beizutragen.
 
-### § 1450 ABGB # Von der Einsetzung in den vorigen Stand.
+### § 1221 ABGB
 
-`§ 1450 ABGB.`  
-Die bürgerlichen Gesetze, nach welchen widerrechtliche Handlungen und Geschäfte, wenn die Verjährung nicht im Wege steht, unmittelbar bestritten werden können, gestatten keine Einsetzung in den vorigen Stand. Die zum gerichtlichen Verfahren gehörigen Fälle der Einsetzung in den vorigen Stand, sind in der Gerichtsordnung bestimmt.
+`§ 1221 ABGB.`  
+Berufen sich Eltern oder Großeltern auf ihr Unvermögen zur Bestellung einer angemessenen Ausstattung, so hat das Gericht auf Antrag des Ausstattungsberechtigten, jedoch ohne strenge Untersuchung des Vermögensstands, darüber zu entscheiden.
 
-## Viertes Hauptstück. # Von der Verjährung und Ersitzung.
+### § 1222 ABGB
 
-### § 1451 ABGB # Verjährung.
+`§ 1222 ABGB.`  
+Wenn ein Kind ohne Wissen oder gegen den Willen seiner Eltern geheiratet hat und das Gericht die Ursache der Missbilligung begründet findet, sind die Eltern selbst in dem Falle, dass sie in der Folge die Ehe genehmigen, nicht schuldig, ihm eine Ausstattung zu geben.
 
-`§ 1451 ABGB.`  
-Die Verjährung ist der Verlust eines Rechtes, welches während der von dem Gesetze bestimmten Zeit nicht ausgeübt worden ist.
+### § 1223 ABGB
 
-### § 1452 ABGB # Ersitzung.
+`§ 1223 ABGB.`  
+Hat ein Kind seine Ausstattung schon erhalten und sie, wenn auch ohne sein Verschulden, verloren, so ist es nicht mehr – selbst nicht bei Eingehung einer weiteren Ehe – berechtigt, eine neue zu fordern.
 
-`§ 1452 ABGB.`  
-Wird das verjährte Recht vermöge des gesetzlichen Besitzes zugleich auf jemand Andern übertragen; so heißt es ein ersessenes Recht, und die Erwerbungsart Ersitzung.
+### § 1233 ABGB # Gütergemeinschaft
 
-### § 1453 ABGB # Wer verjähren und ersitzen kann.
+`§ 1233 ABGB.`  
+Die eheliche Verbindung allein begründet noch keine Gemeinschaft der Güter zwischen den Eheleuten. Dazu wird ein besonderer Vertrag erfordert, dessen Umfang und rechtliche Form nach den §§. 1177 und 1178 des vorigen Hauptstückes beurtheilet wird.
 
-`§ 1453 ABGB.`  
-Jeder, der sonst zu erwerben fähig ist, kann auch ein Eigenthum oder andere Rechte durch Ersitzung erwerben.
+### § 1234 ABGB
 
-### § 1454 ABGB # Gegen wen;
+`§ 1234 ABGB.`  
+Die Gütergemeinschaft unter Ehegatten wird in der Regel nur auf den Todesfall verstanden. Sie gibt dem Ehegatten das Recht auf die Hälfte dessen, was von den der Gemeinschaft wechselseitig unterzogenen Gütern nach Ableben des andern Ehegatten noch vorhanden seyn wird.
 
-`§ 1454 ABGB.`  
-Die Verjährung und Ersitzung kann gegen alle Privat-Personen, welche ihre Rechte selbst auszuüben fähig sind, Statt finden. Gegen Minderjährige und volljährige Personen, wenn diese aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit an der Durchsetzung ihrer Rechte gehindert sind; gegen Kirchen, Gemeinden und andere moralische Körper; gegen Verwalter des öffentlichen Vermögens und gegen diejenigen, welche ohne ihr Verschulden abwesend sind, wird sie nur unter den unten (§§. 1494, 1472 und 1475) folgenden Beschränkungen gestattet.
+### § 1235 ABGB
 
-### § 1455 ABGB # Welche Gegenstände.
+`§ 1235 ABGB.`  
+Bey einer Gemeinschaft, die sich auf das ganze Vermögen bezieht, sind vor der Theilung alle Schulden ohne Ausnahme; bey einer Gemeinschaft aber, die bloß das gegenwärtige, oder bloß das künftige Vermögen zum Gegenstande hat, nur diejenigen Schulden abzuziehen, die zum Nutzen des gemeinschaftlichen Gutes verwendet worden sind.
 
-`§ 1455 ABGB.`  
-Was sich erwerben läßt, kann auch ersessen werden. Sachen hingegen, welche man vermöge ihrer wesentlichen Beschaffenheit, oder vermöge der Gesetze nicht besitzen kann; ferner Sachen und Rechte, welche schlechterdings unveräußerlich sind, sind kein Gegenstand der Ersitzung.
+### § 1236 ABGB
 
-### § 1456 ABGB
+`§ 1236 ABGB.`  
+Besitzt ein Ehegatte ein unbewegliches Gut, und wird das Recht des andern Ehegatten zur Gemeinschaft in die öffentlichen Bücher eingetragen; so erhält dieser durch die Eintragung auf die Hälfte der Substanz des Gutes ein dingliches Recht, vermöge dessen der eine Ehegatte über diese Hälfte keine Anordnung machen kann; auf die Nutzungen aber während der Ehe erhält er durch die Einverleibung keinen Anspruch. Nach dem Tode des Ehegatten gebührt dem überlebenden Theile sogleich das freye Eigenthum seines Antheiles. Doch kann eine solche Einverleibung den auf das Gut früher eingetragenen Gläubigern nicht zum Nachtheile gereichen.
 
-`§ 1456 ABGB.`  
-Aus diesem Grunde können weder die dem Staatsoberhaupte als solchem allein zukommenden Rechte, z. B. das Recht, Zölle anzulegen, Münzen zu prägen, Steuern auszuschreiben, und andere Hoheitsrechte (Regalien) durch Ersitzung erworben, noch die diesen Rechten entsprechenden Schuldigkeiten verjährt werden.
+### § 1237 ABGB # Gesetzlicher ehelicher Güterstand
 
-### § 1457 ABGB
+`§ 1237 ABGB.`  
+Haben Eheleute über die Verwendung ihres Vermögens keine besondere Uebereinkunft getroffen, so behält jeder Ehegatte sein voriges Eigenthumsrecht, und auf das, was ein jeder Theil während der Ehe erwirbt, und auf was immer für eine Art überkommt, hat der andere, solange die Ehe besteht, keinen Anspruch.
 
-`§ 1457 ABGB.`  
-Andere dem Staatsoberhaupte zukommende, doch nicht ausschließend vorbehaltene Rechte, z. B. auf Waldungen, Jagden, Fischereyen u. d.gl., können zwar überhaupt von andern Staatsbürgern, doch nur binnen einem längern als dem gewöhnlichen Zeitraume (§. 1472) ersessen werden.
+### § 1246 ABGB # Schenkungen unter Ehegatten und Verlobten;
 
-### § 1458 ABGB
+`§ 1246 ABGB.`  
+Die Gültigkeit oder Ungültigkeit der Schenkungen zwischen Ehegatten wird nach den für die Schenkungen überhaupt bestehenden Gesetzen beurtheilt.
 
-`§ 1458 ABGB.`  
-Die Rechte eines Ehegatten, eines eingetragenen Partners, der Eltern, eines Kindes und andere Personenrechte sind kein Gegenstand der Ersitzung. Doch kommt denjenigen, welche dergleichen Rechte redlicher Weise ausüben, die schuldlose Unwissenheit zur einstweiligen Behauptung und Ausübung ihrer vermeinten Rechte zustatten.
+### § 1247 ABGB
 
-### § 1459 ABGB
+`§ 1247 ABGB.`  
+Was ein Mann seiner Ehegattinn an Schmuck, Edelsteinen und andern Kostbarkeiten zum Putze gegeben hat, wird im Zweifel nicht für gelehnt; sondern für geschenkt angesehen. Wenn aber ein verlobter Theil dem andern; oder auch ein Dritter dem einen oder andern Theile in Rücksicht auf die künftige Ehe etwas zusichert oder schenket; so kann, wenn die Ehe ohne Verschulden des Geschenkgebers nicht erfolgt, die Schenkung widerrufen werden.
 
-`§ 1459 ABGB.`  
-Die Rechte eines Menschen über seine Handlungen und über sein Eigenthum, z. B. eine Waare da oder dort zu kaufen, seine Wiesen oder sein Wasser zu benutzen, unterliegen, außer dem Falle, daß das Gesetz mit der binnen einem Zeitraume unterlassenen Ausübung ausdrücklich den Verlust derselben verknüpfet, keiner Verjährung. Hat aber eine Person der andern die Ausübung eines solchen Rechtes untersagt, oder sie daran verhindert; so fängt der Besitz des Untersagungsrechtes von Seite der Einen gegen die Freyheit der Andern von dem Augenblicke an, als sich diese dem Verbothe, oder der Verhinderung gefüget hat, und es wird dadurch, wenn alle übrige Erfordernisse eintreffen, die Verjährung oder die Ersitzung bewirket (§§.. 313 u. 351).
+### § 1249 ABGB # Erbverträge
 
-### Erfordernisse zur Ersitzung:
+`§ 1249 ABGB.`  
+Zwischen Ehegatten kann auch ein Erbvertrag, wodurch die künftige Erbschaft oder ein Teil derselben versprochen und das Versprechen angenommen wird, geschlossen werden (§ 602). Ein solcher Vertrag muss als Notariatsakt und mit allen Erfordernissen eines schriftlichen Testamentes errichtet werden.
 
-### § 1460 ABGB # 1) Besitz;
+### § 1251 ABGB # Bedingungen
 
-`§ 1460 ABGB.`  
-Zur Ersitzung wird nebst der Fähigkeit der Person und des Gegenstandes erfordert: daß jemand die Sache oder das Recht, die auf diese Art erworben werden sollen, wirklich besitze; daß sein Besitz rechtmäßig, redlich und echt sey, und durch die ganze von dem Gesetze bestimmte Zeit fortgesetzt werde. (§. 309, 316, 326 und 345).
+`§ 1251 ABGB.`  
+Die Bestimmungen über Bedingungen bei Verträgen sind auch auf Erbverträge anzuwenden.
 
-### § 1461 ABGB # Und zwar a) ein rechtmäßiger;
+### § 1252 ABGB # Wirkungen des Erbvertrags
 
-`§ 1461 ABGB.`  
-Jeder Besitz, der sich auf einen solchen Titel gründet, welcher zur Uebernahme des Eigenthumes, wenn solches dem Uebergeber gebührt hätte, hinlänglich gewesen wäre, ist rechtmäßig und zur Ersitzung hinreichend. Dergleichen sind, z. B. das Vermächtniß, die Schenkung, das Darleihen, der Kauf und Verkauf, der Tausch, die Zahlung, u.s.w.
+`§ 1252 ABGB.`  
+Ein Erbvertrag hindert einen Vertragspartner nicht, zu Lebzeiten über sein Vermögen nach Belieben zu verfügen. Aus dem Erbvertrag entstehende Rechte setzen den Tod eines Vertragsteils voraus und können vor Erbanfall nicht auf andere übertragen werden. Aufgrund der künftigen Erbschaft kann keine Sicherstellung gefordert werden.
 
-### § 1462 ABGB
+### § 1253 ABGB
 
-`§ 1462 ABGB.`  
-Verpfändete, geliehene, in Verwahrung, oder zur Fruchtnießung gegebene Sachen können von Gläubigern, Entlehnern und Verwahrern oder Fruchtnießern, aus Mangel eines rechtmäßigen Titels, niemahls ersessen werden. Ihre Erben stellen die Verstorbenen vor, und haben nicht mehr Titel als dieselben. Nur dem dritten rechtmäßigen Besitzer kann die Ersitzungszeit zu Statten kommen.
+`§ 1253 ABGB.`  
+Durch den Erbvertrag kann ein Vertragspartner auf das Recht zu testieren nicht gänzlich verzichten. Ein reines Viertel, das weder durch Pflichtteile noch durch andere Forderungen belastet sein darf, muss zur freien letztwilligen Verfügung stehen. Hat der Verstorbene darüber nicht verfügt, so fällt dieses Viertel nicht dem Vertragserben, auch wenn ihm im Erbvertrag die ganze Verlassenschaft versprochen wurde, sondern den gesetzlichen Erben zu.
 
-### § 1463 ABGB # b) redlicher,
+### § 1254 ABGB
 
-`§ 1463 ABGB.`  
-Der Besitz muß redlich seyn. Die Unredlichkeit des vorigen Besitzers hindert aber einen redlichen Nachfolger oder Erben nicht, die Ersitzung von dem Tage seines Besitzes anzufangen (§. 1493).
+`§ 1254 ABGB.`  
+Ein Erbvertrag kann nicht einseitig widerrufen, aber aus vertragsrechtlichen Gründen entkräftet werden. Die Rechte von Pflichtteilsberechtigten bleiben vom Erbvertrag unberührt.
 
-### § 1464 ABGB # c) echter.
+### § 1262 ABGB
 
-`§ 1464 ABGB.`  
-Der Besitz muß auch echt seyn. Wenn jemand sich einer Sache mit Gewalt oder List bemächtiget, oder in den Besitz heimlich einschleicht, oder eine Sache nur bittweise besitzt; so kann weder er selbst, noch können seine Erben dieselbe verjähren.
+`§ 1262 ABGB.`  
+Ist zwischen den Ehegatten eine Gemeinschaft der Güter bedungen; so hört dieselbe durch den Concurs des einen oder des andern Ehegatten auf, und das zwischen ihnen gemeinschaftliche Vermögen wird, wie bey dem Tode, getheilt.
 
-### § 1465 ABGB # 2) Verlauf der Zeit.
+### § 1265 ABGB # Nichtigerklärung der Ehe
 
-`§ 1465 ABGB.`  
-Zur Ersitzung und Verjährung ist auch der in dem Gesetze vorgeschriebene Verlauf der Zeit nothwendig. Außer dem durch die Gesetze für einige besondere Fälle festgesetzten Zeitraume, wird hier das in allen übrigen Fällen zur Ersitzung oder Verjährung nöthige Zeitmaß überhaupt bestimmt. Es kommt dabey sowohl auf die Verschiedenheit der Rechte und der Sachen, als der Personen an.
+`§ 1265 ABGB.`  
+Wird eine Ehe für ungültig erklärt; so zerfallen auch die Ehe-Pacte; das Vermögen kommt, in so fern es vorhanden ist, in den vorigen Stand zurück. Der schuldtragende Theil hat aber den schuldlosen Theile Entschädigung zu leisten.
 
-### § 1466 ABGB # Ersitzungszeit. Ordentliche;
+### § 1266 ABGB # Scheidung oder Aufhebung der Ehe
 
-`§ 1466 ABGB.`  
-Das Eigenthumsrecht, dessen Gegenstand eine bewegliche Sache ist, wird durch einen dreyjährigen rechtlichen Besitz ersessen.
-
-### § 1468 ABGB
-
-`§ 1468 ABGB.`  
-Wo noch keine ordentlichen öffentlichen Bücher eingeführt sind, und die Erwerbung unbeweglicher Sachen aus den Gerichts-Acten und andern Urkunden zu erweisen ist, oder wenn die Sache auf den Nahmen desjenigen, der die Besitzrechte darüber ausübet, nicht eingetragen ist; wird die Ersitzung erst nach dreyßig Jahren vollendet.
-
-### § 1470 ABGB
-
-`§ 1470 ABGB.`  
-Wo noch keine ordentlichen öffentlichen Bücher bestehen, oder ein solches Recht denselben nicht einverleibt ist, kann es der redliche Inhaber erst nach dreyßig Jahren ersitzen.
-
-### § 1471 ABGB
-
-`§ 1471 ABGB.`  
-Bey Rechten, die selten ausgeübt werden können, z. B. bey dem Rechte, eine Pfründe zu vergeben, oder jemanden bey Herstellung einer Brücke zum Beytrage anzuhalten, muß derjenige, welcher die Ersitzung behauptet, nebst einem Verlaufe von dreyßig Jahren, zugleich erweisen, daß der Fall zur Ausübung binnen dieser Zeit wenigstens drey Mahl sich ergeben, und er jedes Mahl dieses Recht ausgeübt habe.
-
-### § 1472 ABGB # Außerordentliche.
-
-`§ 1472 ABGB.`  
-Gegen den Fiscus, das ist: gegen die Verwalter der Staatsgüter und des Staatsvermögens, in so weit die Verjährung Platz greift (§§. 287, 289 u. 1456 – 1457), ferner gegen die Verwalter der Güter der Kirchen, Gemeinden und anderer erlaubten Körper, reicht die gemeine ordentliche Ersitzungszeit nicht zu. Der Besitz beweglicher Sachen, so wie auch der Besitz der unbeweglichen, oder der darauf ausgeübten Dienstbarkeiten und anderer Rechte, wenn sie auf den Nahmen des Besitzers den öffentlichen Büchern einverleibt sind, muß durch sechs Jahre fortgesetzt werden. Rechte solcher Art, die auf den Nahmen des Besitzers in die öffentlichen Bücher nicht einverleibt sind, und alle übrige Rechte lassen sich gegen den Fiscus und die hier angeführten begünstigten Personen nur durch den Besitz von vierzig Jahren erwerben.
-
-### § 1473 ABGB
-
-`§ 1473 ABGB.`  
-Wer mit einer von dem Gesetze in Ansehung der Verjährungszeit begünstigten Person in Gemeinschaft steht, dem kommt die nähmliche Begünstigung zu Statten. Begünstigungen der längeren Verjährungsfrist haben auch gegen andere, darin ebenfalls begünstigte Personen ihre Wirkung.
-
-### § 1475 ABGB
-
-`§ 1475 ABGB.`  
-Der Aufenthalt des Eigenthümers außer der Provinz, in welcher sich die Sache befindet, steht der ordentliche Ersitzung und Verjährung in so weit entgegen, daß die Zeit einer willkührlichen und schuldlosen Abwesenheit nur zur Hälfte, folglich ein Jahr nur für sechs Monathe gerechnet wird. Doch soll auf kurze Zeiträume der Abwesenheit, welche durch kein volles Jahr ununterbrochen gedauert haben, nicht Bedacht genommen, und überhaupt die Zeit nie weiter als bis auf dreyßig Jahre zusammen ausgedehnet werden. Schuldbare Abwesenheit genießt keine Ausnahme von der ordentlichen Verjährungszeit.
-
-### § 1476 ABGB
-
-`§ 1476 ABGB.`  
-Auch derjenige, welcher eine bewegliche Sache unmittelbar von einem unechten oder von einem unredlichen Besitzer an sich gebracht hat, oder seinen Vormann anzugeben nicht vermag; muß den Verlauf der sonst ordentlichen Ersitzungszeit doppelt abwarten.
-
-### § 1477 ABGB
-
-`§ 1477 ABGB.`  
-Wer die Ersitzung auf einen Zeitraum von dreyßig oder vierzig Jahren stützt, bedarf keiner Angabe des rechtmäßigen Titels. Die gegen ihn erwiesene Unredlichkeit des Besitzes schließt aber auch in diesem längeren Zeitraume die Ersitzung aus.
-
-### § 1478 ABGB # Verjährungszeit. Allgemeine.
-
-`§ 1478 ABGB.`  
-In so fern jede Ersitzung eine Verjährung in sich begreift, werden beyde mit den vorgeschriebenen Erfordernissen in Einem Zeitraume vollendet. Zur eigentlichen Verjährung aber ist der bloße Nichtgebrauch eines Rechtes, das an sich schon hätte ausgeübt werden können, durch dreyßig Jahre hinlänglich.
-
-### § 1479 ABGB
-
-`§ 1479 ABGB.`  
-Alle Rechte gegen einen Dritten, sie mögen den öffentlichen Büchern einverleibt seyn oder nicht, erlöschen also in der Regel längstens durch den dreyßigjährigen Nichtgebrauch, oder durch ein so lange Zeit beobachtetes Stillschweigen.
-
-### § 1480 ABGB
-
-`§ 1480 ABGB.`  
-Forderungen von rückständigen jährlichen Leistungen, insbesondere Zinsen, Renten, Unterhaltsbeiträgen, Ausgedingsleistungen, sowie zur Kapitalstilgung vereinbarten Annuitäten erlöschen in drei Jahren; das Recht selbst wird durch einen Nichtgebrauch von dreißig Jahren verjährt.
-
-### § 1481 ABGB # Ausnahmen:
-
-`§ 1481 ABGB.`  
-Die in dem Familien- und überhaupt in dem Personen-Rechte gegründeten Verbindlichkeiten, z. B. den Kindern den unentbehrlichen Unterhalt zu verschaffen, so wie diejenigen, welche dem oben (§. 1459) angeführten Rechte, mit seinem Eigenthume frey zu schalten, zusagen, z. B. die Verbindlichkeit, die Theilung einer gemeinschaftlichen Sache oder die Gränzbestimmung vornehmen zu lassen, können nicht verjährt werden.
-
-### § 1482 ABGB
-
-`§ 1482 ABGB.`  
-Auf gleiche Weise wird derjenige, welcher ein Recht auf einem fremden Grunde in Ansehung des Ganzen oder auf verschiedene beliebige Arten ausüben konnte, bloß dadurch, daß er es durch noch so lange Zeit nur auf einem Theile des Grundes oder nur auf eine bestimmte Weise ausübte, in seinem Rechte nicht eingeschränkt; sondern die Beschränkung muß durch Erwerbung oder Ersitzung des Untersagungs- oder Hinderungsrechtes bewirkt werden (§. 351). Eben dieses ist auch auf den Fall anzuwenden, wenn jemand ein gegen alle Mitglieder einer Gemeinde zustehendes Recht bisher nur gegen gewisse Mitglieder derselben ausgeübt hat.
-
-### § 1483 ABGB
-
-`§ 1483 ABGB.`  
-So lange der Gläubiger das Pfand in Händen hat, kann ihm die unterlassene Ausübung des Pfandrechtes nicht eingewendet und das Pfandrecht nicht verjährt werden. Auch das Recht des Schuldners, sein Pfand einzulösen, bleibt unverjährt. In so fern aber die Forderung den Werth des Pfandes übersteigt, kann sie inzwischen durch Verjährung erlöschen.
-
-### § 1484 ABGB
-
-`§ 1484 ABGB.`  
-Zur Verjährung solcher Rechte, die nur selten ausgeübt werden können, wird erfordert, daß während der Verjährungszeit von dreyßig Jahren von drey Gelegenheiten, ein solches Recht auszuüben, kein Gebrauch gemacht worden sey (§. 1471).
-
-### § 1485 ABGB
-
-`§ 1485 (1) ABGB.`  
-In Rücksicht der in dem § 1472 begünstigten Personen werden, wie zur Ersitzung, also auch zur Verjährung, vierzig Jahre erfordert.
-
-`§ 1485 (2) ABGB.`  
-Die allgemeine Regel, daß ein Recht wegen des Nichtgebrauches erst nach Verlauf von dreißig oder vierzig Jahren verloren gehe, ist nur auf diejenigen Fälle anwendbar, für welche das Gesetz nicht einen kürzeren Zeitraum ausgemessen hat (§ 1465).
-
-### § 1486 ABGB # Besondere Verjährungszeit
-
-`§ 1486 ABGB.`  
-In drei Jahren sind verjährt: die Forderungen  
-`§ 1486 Z 1 ABGB.`
-für Lieferung von Sachen oder Ausführung von Arbeiten oder sonstige Leistungen in einem gewerblichen, kaufmännischen oder sonstigen geschäftlichen Betriebe;  
-`§ 1486 Z 2 ABGB.`
-für Lieferung land- und forstwirtschaftlicher Erzeugnisse in einem Betriebe der Land- und Forstwirtschaft;  
-`§ 1486 Z 3 ABGB.`
-für die Übernahme zur Beköstigung, Pflege, Heilung, zur Erziehung oder zum Unterricht durch Personen, die sich damit befassen, oder in Anstalten, die diesem Zwecke dienen;  
-`§ 1486 Z 4 ABGB.`
-von Miet- und Pachtzinsen;  
-`§ 1486 Z 5 ABGB.`
-der Dienstnehmer wegen des Entgelts und des Auslagenersatzes aus den Dienstverträgen von Hilfsarbeitern, Taglöhnern, Dienstboten und allen Privatbediensteten, sowie der Dienstgeber wegen der auf solche Forderungen gewährten Vorschüsse;  
-`§ 1486 Z 6 ABGB.`
-der Ärzte, Tierärzte, Hebammen, der Privatlehrer, der Rechtsanwälte, Notare, Patentanwälte und aller anderen zur Besorgung gewisser Angelegenheiten öffentlich bestellten Personen wegen Entlohnung ihrer Leistungen und Ersatzes ihrer Auslagen, sowie der Parteien wegen der Vorschüsse an diese Personen;  
-`§ 1486 Z 7 ABGB.`
-von Ausstattungen.
-
-### § 1486a ABGB
-
-`§ 1486a ABGB.`  
-Der Anspruch eines Ehegatten auf Abgeltung seiner Mitwirkung im Erwerb des anderen (§ 98) verjährt in sechs Jahren vom Ende des Monats, in dem die Leistung erbracht worden ist.
-
-### § 1487 ABGB
-
-`§ 1487 ABGB.`  
-Die Rechte, eine Schenkung wegen Undankbarkeit des Beschenkten zu widerrufen einen entgeltlichen Vertrag wegen Verletzung über die Hälfte aufzuheben, oder die vorgenommene Teilung eines gemeinschaftlichen Gutes zu bestreiten; und die Forderung wegen einer bei dem Vertrage unterlaufenen Furcht oder eines Irrtums, wobei sich der andere vertragmachende Teil keiner List schuldig gemacht hat, müssen binnen drei Jahren geltend gemacht werden. Nach Verlauf dieser Zeit sind sie verjährt.
-
-### § 1487a ABGB # Verjährung erbrechtlicher Ansprüche
-
-`§ 1487a (1) ABGB.`  
-Das Recht, eine Erklärung des letzten Willens umzustoßen, den Geldpflichtteil zu fordern, letztwillige Bedingungen oder Belastungen von Zuwendungen anzufechten, nach erfolgter Einantwortung ein besseres oder gleiches Recht geltend zu machen, den Geschenknehmer wegen Verkürzung des Pflichtteils in Anspruch zu nehmen oder sonstige Rechte aus einem Geschäft von Todes wegen zu fordern, muss binnen drei Jahren ab Kenntnis der für das Bestehen des Anspruchs maßgebenden Tatsachen gerichtlich geltend gemacht werden. Unabhängig von dieser Kenntnis verjähren diese Rechte dreißig Jahre nach dem Tod des Verstorbenen.
-
-`§ 1487a (2) ABGB.`  
-Abs. 1 gilt sinngemäß für die Aneignung durch den Bund.
-
-### § 1488 ABGB
-
-`§ 1488 ABGB.`  
-Das Recht der Dienstbarkeit wird durch den Nichtgebrauch verjährt, wenn sich der verpflichtete Theil der Ausübung der Servitut widersetzt, und der Berechtigte durch drey auf einander folgende Jahre sein Recht nicht geltend gemacht hat.
-
-### § 1489 ABGB
-
-`§ 1489 ABGB.`  
-Jede Entschädigungsklage ist in drei Jahren von der Zeit an verjährt, zu welcher der Schade und die Person des Beschädigers dem Beschädigten bekannt wurde, der Schade mag durch Übertretung einer Vertragspflicht oder ohne Beziehung auf einen Vertrag verursacht worden sein. Ist dem Beschädigten der Schade oder die Person des Beschädigers nicht bekannt geworden oder ist der Schade aus einer oder mehreren gerichtlich strafbaren Handlungen, die nur vorsätzlich begangen werden können und mit mehr als einjähriger Freiheitsstrafe bedroht sind, entstanden, so erlischt das Klagerecht nur nach dreißig Jahren.
-
-### § 1491 ABGB
-
-`§ 1491 ABGB.`  
-Einige Rechte sind von den Gesetzen auf eine noch kürzere Zeit eingeschränkt. Hierüber kommen die Vorschriften an den Orten, wo diese Rechte abgehandelt werden, vor.
-
-### § 1492 ABGB
-
-`§ 1492 ABGB.`  
-Wie lange das Wechselrecht einem Wechselbriefe zu Statten komme, ist in der Wechselordnung bestimmt.
-
-### § 1493 ABGB # Einrechnung der Verjährungszeit des Vorfahrers.
-
-`§ 1493 ABGB.`  
-Wer eine Sache von einem rechtmäßigen und redlichen Besitzer redlich übernimmt, der ist als Nachfolger berechtiget, die Ersitzungszeit seines Vorfahrers mit einzurechnen (§. 1463). Eben dieses gilt auch von der Verjährungszeit. Bey einer Ersitzung von dreyßig oder vierzig Jahren findet diese Einrechnung auch ohne einen rechtmäßigen Titel, und bey der eigentlichen Verjährung selbst ohne guten Glauben, oder schuldlose Unwissenheit Statt.
-
-### § 1494 ABGB # Hemmung der Verjährung.
-
-`§ 1494 (1) ABGB.`  
-Ist eine volljährige Person aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit an der Durchsetzung ihrer Rechte gehindert, so beginnt die Ersitzungs- oder Verjährungszeit erst zu laufen, wenn sie die Entscheidungsfähigkeit wieder erlangt oder ein gesetzlicher Vertreter die Rechte wahrnehmen kann.
-
-`§ 1494 (2) ABGB.`  
-Gegen eine minderjährige Person beginnt die Ersitzungs- und Verjährungszeit so lange nicht zu laufen, als sie keinen gesetzlichen Vertreter hat oder ihr gesetzlicher Vertreter an der Wahrnehmung ihrer Rechte gehindert ist. Unabhängig davon beginnt die Frist nach § 1489 Satz 2 zweiter Fall vor Vollendung des achtzehnten Lebensjahres des Geschädigten nicht zu laufen.
-
-`§ 1494 (3) ABGB.`  
-Die einmal angefangene Ersitzungs- oder Verjährungszeit läuft zwar fort; sie kann aber nie früher als zwei Jahre nach Wegfall der Hindernisse enden.
-
-### § 1495 ABGB
-
-`§ 1495 ABGB.`  
-Auch zwischen Ehegatten oder eingetragenen Partnern sowie zwischen gesetzlichen Vertretern (§ 1034) und den von ihnen Vertretenen kann, solange die Ehe, die eingetragene Partnerschaft oder das Vertretungsverhältnis andauert, die Ersitzung oder Verjährung weder anfangen noch fortgesetzt werden. Das gilt nicht für die Ansprüche eines Ehegatten oder eines eingetragenen Partners auf Abgeltung der Mitwirkung im Erwerb des anderen Teils, doch wird die Verjährung so lange gehemmt, als zwischen den Ehegatten oder eingetragenen Partnern ein gerichtliches Verfahren zur Entscheidung über einen Anspruch auf Abgeltung anhängig ist und gehörig fortgesetzt wird.
-
-### § 1496 ABGB
-
-`§ 1496 ABGB.`  
-Durch Abwesenheit in Civil- oder Kriegsdiensten, oder durch gänzlichen Stillstand der Rechtspflege, z. B. in Pest- oder Kriegszeiten, wird nicht nur der Anfang, sondern so lange dieses Hinderniß dauert, auch die Fortsetzung der Ersitzung oder Verjährung gehemmet.
-
-### § 1497 ABGB # Unterbrechung der Verjährung.
-
-`§ 1497 ABGB.`  
-Die Ersitzung sowohl, als die Verjährung wird unterbrochen, wenn derjenige, welcher sich auf dieselbe berufen will, vor dem Verlaufe der Verjährungszeit entweder ausdrücklich oder stillschweigend das Recht des Andern anerkannt hat; oder wenn er von dem Berechtigten belangt, und die Klage gehörig fortgesetzt wird. Wird aber die Klage durch einen rechtskräftigen Spruch für unstatthaft erklärt; so ist die Verjährung für ununterbrochen zu halten.
-
-### § 1498 ABGB # Wirkung der Ersitzung oder Verjährung.
-
-`§ 1498 ABGB.`  
-Wer eine Sache oder ein Recht ersessen hat, kann gegen den bisherigen Eigenthümer bey dem Gerichte die Zuerkennung des Eigenthumes ansuchen, und das zuerkannte Recht, wofern es einen Gegenstand der öffentlichen Bücher ausmacht, den letzteren einverleiben lassen.
-
-### § 1499 ABGB
-
-`§ 1499 ABGB.`  
-Auf gleiche Art kann nach Verlauf der Verjährung der Verpflichtete die Löschung seiner in den öffentlichen Büchern eingetragenen Verbindlichkeit, oder die Nichtigerklärung des dem Berechtigten bisher zugestandenen Rechtes und der darüber ausgestellten Urkunden erwirken.
-
-### § 1500 ABGB
-
-`§ 1500 ABGB.`  
-Das aus der Ersitzung oder Verjährung erworbene Recht kann aber demjenigen, welcher im Vertrauen auf die öffentlichen Bücher noch vor der Einverleibung desselben eine Sache oder ein Recht an sich gebracht hat, zu keinem Nachtheile gereichen.
-
-### § 1501 ABGB
-
-`§ 1501 ABGB.`  
-Auf die Verjährung ist, ohne Einwendung der Parteyen, von Amts wegen kein Bedacht zu nehmen.
-
-### § 1502 ABGB # Entsagung oder Verlängerung der Verjährung.
-
-`§ 1502 ABGB.`  
-Der Verjährung kann weder im voraus entsagt, noch kann eine längere Verjährungsfrist, als durch die Gesetze bestimmt ist, bedungen werden.
+`§ 1266 ABGB.`  
+Im Fall einer Scheidung oder Aufhebung der Ehe mit gleichteiligem oder ohne Verschulden oder einer Scheidung im Einvernehmen sind die Ehepakte für beide Teile erloschen, sofern keine andere Vereinbarung getroffen wurde. Ansonsten gebührt dem schuldlosen oder minderschuldigen Ehegatten nicht nur volle Genugtuung, sondern ab dem Zeitpunkt der Scheidung alles dasjenige, was ihm in den Ehepakten auf den Fall des Überlebens bedungen worden ist. Das Vermögen, worüber eine Gütergemeinschaft bestanden hat, wird wie im Falle des Todes geteilt, und das Recht aus einem Erbvertrag bleibt dem Schuldlosen oder Minderschuldigen auf den Todesfall vorbehalten.
 
 `END-OF-DATA-FILE`

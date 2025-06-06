@@ -6,325 +6,370 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## IV. Außerordentliches Erbrecht und Aneignung durch den Bund
+## II. Arten von Vermächtnissen
 
-### § 748 ABGB # Außerordentliches Erbrecht des Lebensgefährten
+### § 656 ABGB # 1. Gattungsvermächtnisse
 
-`§ 748 (1) ABGB.`  
-Gelangt kein gesetzlicher Erbe zur Verlassenschaft, so fällt dem Lebensgefährten des Verstorbenen die ganze Erbschaft zu, sofern er mit dem Verstorbenen als dessen Lebensgefährte zumindest in den letzten drei Jahren vor dem Tod des Verstorbenen im gemeinsamen Haushalt gelebt hat.
+`§ 656 ABGB.`  
+Wenn eine oder mehrere Sachen einer Gattung ohne eine nähere Bestimmung vermacht werden und sich mehrere solche Sachen in der Verlassenschaft befinden, kann die Wahl dem Erben, einem Dritten oder dem Vermächtnisnehmer überlassen werden. Im Zweifel steht dem Erben die Wahl zu. Der Erbe und der Dritte müssen ein Stück wählen, das unter Beachtung des letzten Willens den Bedürfnissen des Vermächtnisnehmers entspricht. Der Vermächtnisnehmer kann auch das beste Stück wählen.
 
-`§ 748 (2) ABGB.`  
-Vom Erfordernis eines gemeinsamen Haushalts ist dann abzusehen, wenn diesem erhebliche Gründe, etwa gesundheitlicher oder beruflicher Art, entgegenstanden, ansonsten aber eine für Lebensgefährten typische besondere Verbundenheit bestand.
+### § 657 ABGB
 
-### § 749 ABGB # Außerordentliches Erbrecht der Vermächtnisnehmer
+`§ 657 ABGB.`  
+Wenn eine oder mehrere Sachen einer Gattung nach dem Willen des Verstorbenen dessen Eigentum entstammen sollen, sich aber nicht in der Verlassenschaft befinden, ist das Vermächtnis ungültig. Finden sie sich nicht in der bestimmten Zahl, so muss sich der Vermächtnisnehmer mit den vorhandenen begnügen.
 
-`§ 749 ABGB.`  
-Gelangt weder ein gesetzlicher Erbe noch der Lebensgefährte des Verstorbenen zur Verlassenschaft, so werden die vom Verstorbenen bedachten Vermächtnisnehmer verhältnismäßig als Erben betrachtet.
+### § 658 ABGB
 
-### § 750 ABGB # Aneignung durch den Bund
+`§ 658 (1) ABGB.`  
+Wenn hingegen solche Sachen nach dem Willen des Verstorbenen nicht ausdrücklich aus seinem Eigentum stammen sollen und sich nicht in der Verlassenschaft befinden, muss sie der Erbe dem Vermächtnisnehmer in einer dessen Bedürfnissen entsprechenden Eigenschaft verschaffen.
 
-`§ 750 (1) ABGB.`  
-Wenn kein zur Erbfolge Berechtigter vorhanden ist und auch sonst niemand die Verlassenschaft erwirbt, hat der Bund das Recht, sie sich anzueignen.
+`§ 658 (2) ABGB.`  
+Ein Geldvermächtnis verpflichtet den Erben zur Zahlung der bestimmten Summe ohne Rücksicht darauf, ob Bargeld in der Verlassenschaft vorhanden ist oder nicht.
 
-`§ 750 (2) ABGB.`  
-Soweit eine Verlassenschaft, die sich im Zeitpunkt des Todes des Verstorbenen in Österreich befindet, weder auf einen durch Verfügung von Todes wegen eingesetzten Erben oder Vermächtnisnehmer noch auf eine natürliche Person als gesetzlicher Erbe übergeht, hat der Bund das Recht, sie sich anzueignen, auch wenn sich die Erbfolge nicht nach österreichischem Recht richtet.
+### § 659 ABGB
 
-### § 751 ABGB # Abweichungen von der allgemeinen Erbfolge
+`§ 659 ABGB.`  
+Kann oder will der Dritte oder der wahlberechtigte Vermächtnisnehmer nicht wählen, so hat das Gericht das Vermächtnis mit Rücksicht auf die Bedürfnisse des Vermächtnisnehmers zu bestimmen.
 
-`§ 751 ABGB.`  
-Abweichungen von der in diesem Hauptstück bestimmten gesetzlichen Erbfolge, insbesondere für land- und forstwirtschaftliche Betriebe, sind gesondert geregelt.
+### § 660 ABGB # 2. Vermächtnis einer bestimmten Sache
 
-## V. Anrechnung beim Erbteil
+`§ 660 (1) ABGB.`  
+Der Vermächtnisnehmer kann die Erfüllung des Vermächtnisses einer bestimmten Sache nicht zugleich in Natur und dem Wert nach verlangen, auch wenn der Verstorbene ihm diese Sache mehrfach, sei dies in einer oder in mehreren letztwilligen Verfügungen, vermacht hat. Andere Vermächtnisse, die eine Sache derselben Art oder denselben Betrag betreffen, gebühren dem Vermächtnisnehmer im Zweifel so oft, wie sie der Verstorbene wiederholt hat.
 
-### § 752 ABGB
+`§ 660 (2) ABGB.`  
+Wie beim Gattungsvermächtnis kann auch einem Erben, Vermächtnisnehmer oder Dritten die Wahl überlassen werden, aus mehreren bestimmten Sachen auszuwählen.
 
-`§ 752 ABGB.`  
-Bei der gewillkürten und bei der gesetzlichen Erbfolge muss sich der Erbe eine Schenkung unter Lebenden (§ 781) anrechnen lassen, wenn der Verstorbene das letztwillig angeordnet oder mit dem Geschenknehmer vereinbart hat. Dieser Vertrag und seine Aufhebung bedürfen der Schriftform, bei Abschluss erst nach erfolgter Schenkung aber der Formvorschriften für einen Erbverzicht.
+### § 661 ABGB
 
-### § 753 ABGB
+`§ 661 ABGB.`  
+Das Vermächtnis ist ungültig, wenn die vermachte Sache im Zeitpunkt der Errichtung der letztwilligen Verfügung schon im Eigentum des Vermächtnisnehmers stand. Hat er sie später erworben, so gebührt ihm der Verkehrswert. Wenn er sie aber vom Verstorbenen vor dessen Tod unentgeltlich erhalten hat, gilt das Vermächtnis als aufgehoben.
 
-`§ 753 ABGB.`  
-Bei der gesetzlichen Erbfolge der Kinder muss sich ein Kind auf Verlangen eines anderen Kindes eine Schenkung unter Lebenden (§ 781) anrechnen lassen, es sei denn, dass der Verstorbene die Schenkung aus Einkünften ohne Schmälerung des Stammvermögens gemacht hat oder den Erlass dieser Anrechnung letztwillig verfügt oder mit dem Geschenknehmer vereinbart hat. Dieser Vertrag und seine Aufhebung bedürfen der Schriftform.
+### § 662 ABGB # 3. Vermächtnis einer fremden Sache
 
-### § 754 ABGB
+`§ 662 (1) ABGB.`  
+Das Vermächtnis einer fremden Sache, die weder dem Vermächtnisgeber noch dem Erben noch dem Vermächtnisnehmer, der sie einem Dritten leisten soll, gehört, ist unwirksam. Gebührt diesen Personen ein Anteil oder Recht an der Sache, so umfasst das Vermächtnis nur diesen Anteil oder dieses Recht.
 
-`§ 754 ABGB.`  
-Einem Nachkommen wird nicht nur das, was er selbst, sondern auch das, was seine Vorfahren, an deren Stelle er tritt, auf solche Art empfangen haben, auf den Erbteil angerechnet. Auch wer einen Erbteil im Wege der Anwachsung erhält (§ 560), hat sich Schenkungen an denjenigen, dessen frei gewordenen Erbteil er übernimmt, anrechnen zu lassen.
+`§ 662 (2) ABGB.`  
+Wenn der Verstorbene ausdrücklich angeordnet hat, dass eine bestimmte fremde Sache gekauft und dem Vermächtnisnehmer geleistet werden soll (Verschaffungsvermächtnis) und der Eigentümer diese Sache nicht um den Verkehrswert veräußern will, ist dem Vermächtnisnehmer dieser Wert zu leisten.
 
-### § 755 ABGB # Rechenmethode
+### § 663 ABGB # 4. Vermächtnis einer Forderung
 
-`§ 755 (1) ABGB.`  
-Das bei der Anrechnung zu berücksichtigende Vermögen ist auf den Zeitpunkt zu bewerten, in dem die Schenkung wirklich gemacht wurde. Dieser Wert ist sodann auf den Todeszeitpunkt nach einem von der Statistik Austria verlautbarten Verbraucherpreisindex aufzuwerten und der Verlassenschaft hinzuzurechnen.
+`§ 663 ABGB.`  
+Das Vermächtnis einer Forderung, die der Verstorbene gegen den Vermächtnisnehmer hatte (Befreiungsvermächtnis), verpflichtet den Erben, die Forderung samt den rückständigen Zinsen zu erlassen.
 
-`§ 755 (2) ABGB.`  
-Von dem Erbteil des anrechnungspflichtigen Erben ist das anzurechnende Vermögen abzuziehen. Der anrechnungspflichtige Erbe ist nicht zur Herausgabe seines Geschenks verpflichtet.
+### § 664 ABGB
 
-## Vierzehntes Hauptstück # Vom Pflichtteil und der Anrechnung auf den Pflichtteil # I. Allgemeines
+`§ 664 ABGB.`  
+Hat der Verstorbene dem Vermächtnisnehmer eine Forderung vermacht, die ihm gegen einen Dritten zustand (Forderungsvermächtnis), so muss der Erbe die Forderung samt den rückständigen und weiter laufenden Zinsen dem Vermächtnisnehmer abtreten.
 
-### § 756 ABGB # 1. Pflichtteilsberechtigung
+### § 665 ABGB
 
-`§ 756 ABGB.`  
-Der Pflichtteil ist der Anteil am Wert des Vermögens des Verstorbenen, der dem Pflichtteilsberechtigten zukommen soll.
+`§ 665 ABGB.`  
+Das Vermächtnis der Schuld, die der Verstorbene dem Vermächtnisnehmer gegenüber zu erfüllen hatte (Schuldvermächtnis), bewirkt, dass der Erbe die vom Verstorbenen bestimmte oder vom Vermächtnisnehmer ausgewiesene Schuld anerkennen und sie, ohne Rücksicht auf die mit der Schuld verbundenen Bedingungen oder Fristen, längstens binnen der zur Leistung der übrigen Vermächtnisse bestimmten Frist erfüllen muss.
 
-### § 757 ABGB
+### § 666 ABGB
 
-`§ 757 ABGB.`  
-Pflichtteilsberechtigt sind die Nachkommen sowie der Ehegatte oder eingetragene Partner des Verstorbenen.
+`§ 666 ABGB.`  
+Das Befreiungsvermächtnis umfasst im Zweifel nicht die erst nach Errichtung des Vermächtnisses entstandenen Schulden. Hat der Verstorbene durch ein Vermächtnis ein Pfandrecht oder eine Bürgschaft erlassen, so folgt daraus nicht, dass er auch die Schuld erlassen hat. Hat er die Zahlungsfristen verlängert, so müssen die Zinsen weiter bezahlt werden.
 
-### § 758 ABGB
+### § 667 ABGB
 
-`§ 758 (1) ABGB.`  
-Einer in § 757 angeführten Person steht ein Pflichtteil zu, wenn ihr bei gesetzlicher Erbfolge ein Erbrecht zustünde, sie nicht enterbt wurde und nicht auf den Pflichtteil verzichtet worden ist.
+`§ 667 ABGB.`  
+Wenn der Verstorbene einer Person den gleichen Betrag vermacht hat, den er ihr geschuldet hat, wird nicht vermutet, dass er die Schuld mit dem Vermächtnis erfüllen wollte.
 
-`§ 758 (2) ABGB.`  
-Den Nachkommen einer erbunfähigen, enterbten oder vorverstorbenen Person steht ein Pflichtteil zu, wenn sie die Voraussetzungen des Abs. 1 erfüllen. Der Verzicht auf den Pflichtteil und die Ausschlagung der Erbschaft erstrecken sich im Zweifel auch auf die Nachkommen. Die Nachkommen eines vorverstorbenen Pflichtteilsberechtigten, dessen Pflichtteil gemindert worden ist, müssen sich mit dem geminderten Pflichtteil begnügen, wenn auch für sie die Voraussetzungen für die Minderung vorliegen (§ 776 Abs. 1 und 2).
+### § 672 ABGB # 5. Vermächtnis des Unterhalts oder der Ausbildung
 
-`§ 758 (3) ABGB.`  
-Eine in ihrem Pflichtteil verkürzte Person kann sich auch dann auf ihre Pflichtteilsberechtigung stützen, wenn ihr ein Erbrecht aus einem Erbvertrag, einem letzten Willen oder dem Gesetz gebührt.
+`§ 672 (1) ABGB.`  
+Das Vermächtnis des Unterhalts umfasst im Zweifel Nahrung, Kleidung, Wohnung, die nötige Ausbildung und die übrigen Bedürfnisse des Vermächtnisnehmers. Das Ausmaß richtet sich im Zweifel nach den bisherigen Lebensverhältnissen des Vermächtnisnehmers.
 
-### § 759 ABGB # 2. Höhe
+`§ 672 (2) ABGB.`  
+Das Unterhaltsvermächtnis gewährt im Zweifel Unterhalt bis zur Selbsterhaltungsfähigkeit des Vermächtnisnehmers, wenn dieser im Zeitpunkt der Errichtung des Vermächtnisses nicht selbsterhaltungsfähig war. Das einem selbsterhaltungsfähigen Vermächtnisnehmer eingeräumte Unterhaltsvermächtnis gewährt im Zweifel Unterhalt bis zum Lebensende.
 
-`§ 759 ABGB.`  
-Als Pflichtteil gebührt jeder pflichtteilsberechtigten Person die Hälfte dessen, was ihr nach der gesetzlichen Erbfolge zustünde.
+### § 673 ABGB
 
-### § 760 ABGB
+`§ 673 ABGB.`  
+Das Vermächtnis der Ausbildung umfasst im Zweifel alle Kosten einer den Fähigkeiten und Neigungen des Vermächtnisnehmers entsprechenden Ausbildung nach denselben Grundsätzen, wie sie für die Verpflichtung von Eltern gegenüber ihren Kindern gelten. Die Kosten des notwendigen Lebensunterhalts sind im Zweifel insoweit mit umfasst, als dem Vermächtnisnehmer wegen seiner Ausbildung eine Erwerbstätigkeit nicht zuzumuten ist.
 
-`§ 760 (1) ABGB.`  
-Wenn einer der in § 757 angeführten Personen infolge Pflichtteilsverzichtes oder Ausschlagung der Erbschaft kein Pflichtteil zusteht, erhöht dies im Zweifel die Pflichtteile der anderen Pflichtteilsberechtigten nicht.
+### § 674 ABGB # 6. Vermächtnis der Möbel und des Hausrats
 
-`§ 760 (2) ABGB.`  
-Wenn aber einer der in § 757 angeführten Personen aus anderen Gründen kein oder nur ein geminderter Pflichtteil zusteht und an ihrer Stelle auch keine Nachkommen den Pflichtteil erhalten, erhöhen sich die Pflichtteile der anderen Pflichtteilsberechtigten anteilig; die §§ 733 und 734 sind anzuwenden.
+`§ 674 ABGB.`  
+Unter den Möbeln oder der Einrichtung werden nur die zum gewöhnlichen Gebrauch der Wohnung, unter dem Hausrat die zur Führung des Haushalts erforderlichen Sachen verstanden. Sachen zum Betrieb eines Unternehmens fallen im Zweifel nicht darunter.
 
-### 3. Erfüllungsarten
+### § 675 ABGB # 7. Vermächtnis eines Behältnisses
 
-### § 761 ABGB # Leistung und Deckung des Pflichtteils
+`§ 675 ABGB.`  
+Wenn der Verstorbene ein Behältnis vermacht hat, das nicht für sich selbst besteht (etwa eine Schublade), so wird vermutet, dass nur diejenigen Sachen erfasst sind, die sich bei seinem Ableben darin befinden und zu deren Aufbewahrung das Behältnis seiner Natur nach bestimmt oder vom Verstorbenen gewöhnlich verwendet worden ist.
 
-`§ 761 (1) ABGB.`  
-Der Pflichtteil ist in Geld zu leisten. Er kann aber auch durch eine Zuwendung auf den Todesfall des Verstorbenen (§ 780) oder eine Schenkung unter Lebenden (§ 781) gedeckt werden.
+### § 676 ABGB
 
-`§ 761 (2) ABGB.`  
-Wenn der Verstorbene jemanden auf den Pflichtteil gesetzt hat, wird vermutet, dass er ihm einen Geldanspruch und nicht ein Vermächtnis zuwenden wollte.
+`§ 676 ABGB.`  
+Besteht das Behältnis dagegen für sich selbst (etwa ein Kasten), so hat der Vermächtnisnehmer im Zweifel nur auf das Behältnis, nicht aber auf die darin befindlichen Sachen Anspruch.
 
-### § 762 ABGB # Bedingungen und Belastungen
+### § 677 ABGB # 8. Pflegevermächtnis
 
-`§ 762 ABGB.`  
-Haften einer Zuwendung oder Schenkung im Sinn der §§ 780 und 781 Bedingungen oder Belastungen an, die der Verwertung des zugewendeten Vermögens entgegenstehen, so hindert dies nicht deren Eignung zur Pflichtteilsdeckung; ein dadurch fehlender oder verminderter Nutzen ist aber bei der Bewertung der Zuwendung oder Schenkung zu berücksichtigen.
+`§ 677 (1) ABGB.`  
+Einer dem Verstorbenen nahe stehenden Person, die diesen in den letzten drei Jahren vor seinem Tod mindestens sechs Monate in nicht bloß geringfügigem Ausmaß gepflegt hat, gebührt dafür ein gesetzliches Vermächtnis, soweit nicht eine Zuwendung gewährt oder ein Entgelt vereinbart wurde.
 
-### § 763 ABGB # Geldpflichtteil
+`§ 677 (2) ABGB.`  
+Pflege ist jede Tätigkeit, die dazu dient, einer pflegebedürftigen Person soweit wie möglich die notwendige Betreuung und Hilfe zu sichern sowie die Möglichkeit zu verbessern, ein selbstbestimmtes, bedürfnisorientiertes Leben zu führen.
 
-`§ 763 ABGB.`  
-Soweit der Pflichtteil durch eine Zuwendung oder Schenkung im Sinn der §§ 780 und 781 nicht oder nicht voll gedeckt wird, kann der Pflichtteilsberechtigte den Pflichtteil selbst oder dessen Ergänzung in Geld fordern.
+`§ 677 (3) ABGB.`  
+Nahe stehend sind Personen aus dem Kreis der gesetzlichen Erben des Verstorbenen, deren Ehegatte, eingetragener Partner oder Lebensgefährte und deren Kinder sowie der Lebensgefährte des Verstorbenen und dessen Kinder.
 
-### § 764 ABGB # 4. Pflichtteilsschuldner
+### § 678 ABGB
 
-`§ 764 (1) ABGB.`  
-Der Pflichtteilsanspruch ist von der Verlassenschaft und nach der Einantwortung von den Erben zu erfüllen.
+`§ 678 (1) ABGB.`  
+Die Höhe des Vermächtnisses richtet sich nach Art, Dauer und Umfang der Leistungen.
 
-`§ 764 (2) ABGB.`  
-Wenn der Pflichtteil durch eine Zuwendung oder Schenkung im Sinn der §§ 780 und 781 nicht oder nicht voll gedeckt wird, haben neben den Erben auch die Vermächtnisnehmer höchstens bis zum Wert der Verlassenschaft zu seiner Bedeckung verhältnismäßig beizutragen, nicht jedoch der Ehegatte oder eingetragene Partner mit dem gesetzlichen Vorausvermächtnis, der Lebensgefährte mit einem solchen gesetzlichen Vermächtnis und der Begünstigte aus einem Pflegevermächtnis.
+`§ 678 (2) ABGB.`  
+Das Vermächtnis gebührt jedenfalls neben dem Pflichtteil, neben anderen Leistungen aus der Verlassenschaft nur dann nicht, wenn der Verstorbene das verfügt hat. Das Vermächtnis kann nur bei Vorliegen eines Enterbungsgrundes entzogen werden.
 
-### § 765 ABGB # 5. Anfall und Fälligkeit
+## 9. Auslegung bestimmter Begriffe
 
-`§ 765 (1) ABGB.`  
-Der Pflichtteilsberechtigte erwirbt den Anspruch für sich und seine Nachfolger mit dem Tod des Verstorbenen.
+### § 681 ABGB # a) Kinder
 
-`§ 765 (2) ABGB.`  
-Den Geldpflichtteil kann der Pflichtteilsberechtigte erst ein Jahr nach dem Tod des Verstorbenen fordern.
+`§ 681 ABGB.`  
+Unter dem Wort Kinder werden, wenn der Verstorbene die Kinder eines anderen bedacht hat, nur dessen Söhne und Töchter, wenn er aber seine eigenen Kinder bedacht hat, auch die an deren Stelle tretenden Nachkommen verstanden, die beim Ableben des Verstorbenen schon gezeugt waren.
 
-### § 766 ABGB # Stundung
+### § 682 ABGB # b) Verwandte
 
-`§ 766 (1) ABGB.`  
-Der letztwillig Verfügende kann die Stundung des Pflichtteilsanspruchs auf höchstens fünf Jahre nach seinem Tod oder die Zahlung in Teilbeträgen innerhalb dieses Zeitraums anordnen. Ebenso kann er die Deckung des Pflichtteils durch eine Zuwendung ganz oder zum Teil auf diesen Zeitraum erstrecken.
+`§ 682 ABGB.`  
+Ein ohne nähere Bestimmung für die Verwandten ausgesetztes Vermächtnis wird den nach der gesetzlichen Erbfolge nächsten Verwandten zugewendet. § 555 ist sinngemäß anzuwenden.
 
-`§ 766 (2) ABGB.`  
-In den Fällen des Abs. 1 kann der Pflichtteilsberechtigte den gesamten oder restlichen Geldpflichtteil erst mit Ende dieses Zeitraums fordern, es sei denn, dass ihn dies unter Berücksichtigung aller Umstände unbillig hart träfe. Die Interessen und die Vermögenslage des Pflichtteilsschuldners sind angemessen zu berücksichtigen.
+### § 683 ABGB # c) Dienstnehmer
 
-`§ 766 (3) ABGB.`  
-In besonders berücksichtigungswürdigen Fällen kann der in Abs. 1 genannte Zeitraum auf insgesamt höchstens zehn Jahre durch das Gericht verlängert werden.
+`§ 683 ABGB.`  
+Hat der Verstorbene seinen Dienstnehmern ein Vermächtnis hinterlassen und sie bloß durch das Dienstverhältnis bezeichnet, so wird vermutet, dass es diejenigen erhalten sollen, die im Zeitpunkt seines Ablebens in einem Dienstverhältnis zu ihm stehen.
 
-### § 767 ABGB
+## III. Erwerb von Vermächtnissen
 
-`§ 767 (1) ABGB.`  
-Der Pflichtteilsanspruch ist auf Verlangen eines Pflichtteilsschuldners auch gerichtlich zu stunden, soweit diesen die Erfüllung unter Berücksichtigung aller Umstände unbillig hart träfe. Dies kann insbesondere der Fall sein, wenn er mangels ausreichenden anderen Vermögens die Wohnung, die ihm zur Befriedigung seines dringenden Wohnbedürfnisses dient, oder ein Unternehmen, das seine wirtschaftliche Lebensgrundlage darstellt, veräußern müsste. Ebenso ist der Geldpflichtteilsanspruch auf Verlangen eines Pflichtteilsschuldners zu stunden, wenn dessen sofortige Entrichtung den Fortbestand eines Unternehmens erheblich gefährdet. Die Interessen des Pflichtteilsberechtigten sind angemessen zu berücksichtigen.
+### § 684 ABGB # Anfallstag und Erwerbsvoraussetzungen bei Vermächtnissen
 
-`§ 767 (2) ABGB.`  
-Das Gericht kann den Pflichtteilsanspruch auf höchstens fünf Jahre nach dem Tod des Verstorbenen stunden oder die Zahlung in Teilbeträgen innerhalb dieses Zeitraums bewilligen.
+`§ 684 (1) ABGB.`  
+Der Vermächtnisnehmer erwirbt in der Regel (§ 699) mit dem Tod des Vermächtnisgebers für sich und seine Nachfolger das Recht auf das Vermächtnis.
 
-`§ 767 (3) ABGB.`  
-In besonders berücksichtigungswürdigen Fällen kann der in Abs. 2 genannte Zeitraum auf insgesamt höchstens zehn Jahre durch das Gericht verlängert werden.
+`§ 684 (2) ABGB.`  
+Das Eigentum an der vermachten Sache wird nach den Bestimmungen des Fünften Hauptstücks über den Erwerb des Eigentums erlangt.
 
-### § 768 ABGB # Sicherstellung des Pflichtteilsanspruchs und Anpassung einer Stundungsregelung
+### § 685 ABGB # Fälligkeit des Vermächtnisses
 
-`§ 768 ABGB.`  
-Das Gericht kann auf Antrag die Sicherstellung des Pflichtteilsanspruchs anordnen und bei einer erheblichen Änderung der Umstände eine Stundungsregelung ändern oder aufheben. Der Pflichtteilsschuldner und der Pflichtteilsberechtigte haben einander über eine wesentliche Änderung der Umstände unverzüglich zu informieren.
+`§ 685 ABGB.`  
+Das Vermächtnis ist im Zweifel sogleich mit dem Tod des Vermächtnisgebers zu erfüllen. Geldvermächtnisse und Vermächtnisse von Sachen, die sich nicht in der Verlassenschaft befinden, können erst nach Ablauf eines Jahres nach dem Tod des Vermächtnisgebers geltend gemacht werden.
 
-## II. Ausschluss von der Pflichtteilsberechtigung
+### § 686 ABGB
 
-### 1. Enterbung
+`§ 686 ABGB.`  
+Beim Vermächtnis von Sachen aus der Verlassenschaft gebühren dem Vermächtnisnehmer auch die seit dem Tod des Vermächtnisgebers laufenden Zinsen und entstandenen Nutzungen sowie jeder andere Zuwachs. Er trägt hingegen alle auf dem Vermächtnis haftenden Lasten und selbst den Verlust, wenn es ohne Verschulden eines Dritten gemindert oder die Leistung gänzlich unmöglich wird.
 
-### § 769 ABGB # Allgemeines
+### § 687 ABGB
 
-`§ 769 ABGB.`  
-Enterbung ist die gänzliche oder teilweise Entziehung des Pflichtteils durch letztwillige Verfügung.
+`§ 687 ABGB.`  
+Wenn der Verstorbene dem Vermächtnisnehmer ein Rentenvermächtnis, also einen bestimmten, jährlich, monatlich oder sonst in periodischen Zeiträumen zu leistenden Betrag vermacht hat, erhält der Vermächtnisnehmer ein Recht auf den ganzen Betrag für den Zeitraum, dessen Anfang er erlebt hat. Den Betrag selbst kann er jedoch erst mit Ende des Zeitraums fordern. Der erste Zeitraum beginnt mit dem Tod des Vermächtnisgebers.
 
-### § 770 ABGB # Enterbungsgründe
+### § 688 ABGB # Recht des Vermächtnisnehmers auf Sicherstellung
 
-`§ 770 ABGB.`  
-Ein Pflichtteilsberechtigter kann enterbt werden, wenn er  
-`§ 770 Z 1 ABGB.`
-gegen den Verstorbenen eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,  
-`§ 770 Z 2 ABGB.`
-gegen den Ehegatten, eingetragenen Partner, Lebensgefährten oder Verwandten in gerader Linie, die Geschwister des Verstorbenen und deren Kinder, Ehegatten, eingetragenen Partner oder Lebensgefährten sowie die Stiefkinder des Verstorbenen eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,  
-`§ 770 Z 3 ABGB.`
-absichtlich die Verwirklichung des wahren letzten Willens des Verstorbenen vereitelt oder zu vereiteln versucht hat (§ 540),  
-`§ 770 Z 4 ABGB.`
-dem Verstorbenen in verwerflicher Weise schweres seelisches Leid zugefügt hat,  
-`§ 770 Z 5 ABGB.`
-sonst seine familienrechtlichen Pflichten gegenüber dem Verstorbenen gröblich vernachlässigt hat, oder  
-`§ 770 Z 6 ABGB.`
-wegen einer oder mehrerer mit Vorsatz begangener strafbarer Handlungen zu einer lebenslangen oder zwanzigjährigen Freiheitsstrafe verurteilt worden ist.
+`§ 688 ABGB.`  
+In allen Fällen, in denen ein Gläubiger von einem Schuldner Sicherstellung fordern kann, kann auch ein Vermächtnisnehmer die Sicherstellung seines Vermächtnisses verlangen.
 
-### § 771 ABGB # Enterbung aus guter Absicht
+### § 689 ABGB # Wem ein frei gewordenes Vermächtnis zufällt
 
-`§ 771 ABGB.`  
-Wenn auf Grund der Verschuldung oder des verschwenderischen Lebensstils eines Pflichtteilsberechtigten die Gefahr besteht, dass der ihm gebührende Pflichtteil ganz oder größtenteils seinen Kindern entgehen wird, kann ihm der Pflichtteil zugunsten seiner Kinder entzogen werden.
+`§ 689 ABGB.`  
+Ein Vermächtnis, das der Vermächtnisnehmer nicht annehmen kann oder will, fällt dem Nachberufenen zu (§ 652). Wenn kein Nachberufener vorhanden ist und das gesamte Vermächtnis mehreren Personen zugedacht worden ist, wächst der Anteil, den einer von ihnen nicht erhält, den übrigen Vermächtnisnehmern zu. Außer diesen beiden Fällen bleibt ein frei gewordenes Vermächtnis in der Verlassenschaft.
 
-### § 772 ABGB # Art der Erklärung und Ursächlichkeit des Grundes
+### § 690 ABGB # Recht des Erben, wenn die Lasten die Verlassenschaft erschöpfen
 
-`§ 772 (1) ABGB.`  
-Die Enterbung kann ausdrücklich oder stillschweigend durch Übergehung in der letztwilligen Verfügung erfolgen.
+`§ 690 ABGB.`  
+Wenn die gesamte Verlassenschaft durch Vermächtnisse erschöpft ist, kann der beschränkt haftende Erbe nur die Vergütung seiner zum Besten der Verlassenschaft gemachten Auslagen und eine seinen Bemühungen angemessene Belohnung fordern. Will er die Verlassenschaft nicht selbst verwalten, so muss er die Bestellung eines Kurators beantragen.
 
-`§ 772 (2) ABGB.`  
-Der Enterbungsgrund muss für die Enterbung durch den Verstorbenen ursächlich gewesen sein.
+### § 691 ABGB
 
-### § 773 ABGB # Widerruf der Enterbung und Verzeihung
+`§ 691 ABGB.`  
+Können nicht alle Vermächtnisnehmer aus der Verlassenschaft befriedigt werden, so wird das Vermächtnis des Unterhalts vor allen anderen entrichtet; diesem Vermächtnisnehmer gebührt der Unterhalt mit dem Erbfall.
 
-`§ 773 (1) ABGB.`  
-Die Enterbung kann widerrufen werden, und zwar ausdrücklich oder stillschweigend durch die nachträgliche letztwillige Bedenkung des vorher Enterbten oder durch den Widerruf der letztwilligen Verfügung, welche die Enterbung anordnet.
+### § 692 ABGB # Recht des Erben, wenn die Lasten die Verlassenschaft übersteigen
 
-`§ 773 (2) ABGB.`  
-Konnte der Verstorbene die Enterbung auf Grund fehlender Testierfähigkeit nicht mehr widerrufen, so ist die Enterbung unwirksam, wenn der Verstorbene zu erkennen gegeben hat, dass er dem Enterbten verziehen hat.
+`§ 692 ABGB.`  
+Reicht die Verlassenschaft nicht zur Zahlung der Schulden und anderer pflichtmäßiger Auslagen sowie zur Leistung aller Vermächtnisse aus, so erleiden die Vermächtnisnehmer bei beschränkter Haftung der Erben (§ 802) einen verhältnismäßigen Abzug. Der beschränkt haftende Erbe kann, so lange eine solche Gefahr besteht, die Vermächtnisse auch nur gegen Sicherstellung leisten.
 
-### § 774 ABGB # Beweislast
+### § 693 ABGB
 
-`§ 774 (1) ABGB.`  
-Das Vorliegen eines Enterbungsgrundes muss der Pflichtteilsschuldner beweisen.
+`§ 693 ABGB.`  
+Haben die Vermächtnisnehmer die Vermächtnisse bereits empfangen, so wird der verhältnismäßige Abzug nach dem Wert, den das Vermächtnis zum Zeitpunkt des Empfangs hatte, und den daraus gezogenen Nutzungen bestimmt.
 
-`§ 774 (2) ABGB.`  
-Bei Vorliegen eines Enterbungsgrundes wird vermutet, dass dieser für die ausdrückliche oder stillschweigende Enterbung ursächlich war.
+### § 694 ABGB
 
-### § 775 ABGB # Enterbung ohne Grund und Übergehung
+`§ 694 ABGB.`  
+Der Vermächtnisnehmer kann zur Vermeidung einer Zahlung an die Verlassenschaft das Vermächtnis oder den in § 693 angeführten Wert und die bezogenen Nutzungen in die Verlassenschaft zurückstellen; in Rücksicht auf die Verbesserungen und Verschlechterungen wird er als ein redlicher Besitzer behandelt.
 
-`§ 775 (1) ABGB.`  
-Hat der Verstorbene den Pflichtteilsberechtigten wegen eines bestimmten Verhaltens, das keinen Enterbungsgrund darstellt, ausdrücklich oder stillschweigend enterbt, so wird vermutet, dass er ihn auf den Pflichtteil setzen und nicht mit einem Erbteil bedenken wollte.
+## Zwölftes Hauptstück # Von der Einschränkung und Aufhebung des letzten Willens # I. Allgemeines
 
-`§ 775 (2) ABGB.`  
-Wenn der Verstorbene Kinder und deren Nachkommen hatte, von deren Geburt er bei Errichtung einer letztwilligen Verfügung nicht wusste, wird vermutet, dass er ihnen letztwillig etwas zukommen lassen wollte. Hatte er daneben noch andere Kinder, so wird vermutet, dass er das ihm nicht bekannte Kind zumindest gleich bedacht hätte wie das am mindesten bedachte Kind. Wenn das ihm nicht bekannte Kind sein einziges war, gilt die letztwillige Verfügung als widerrufen, es sei denn, dass der Verstorbene diese Verfügung auch in Kenntnis von seinem Kind errichtet hätte.
+### § 695 ABGB
 
-### § 776 ABGB # 2. Pflichtteilsminderung
+`§ 695 ABGB.`  
+Der letztwillig Verfügende kann die Rechte der Erben oder Vermächtnisnehmer einschränken, etwa durch eine Bedingung, eine Befristung oder eine Auflage, sowie seine Beweggründe und den Zweck seiner Anordnung schildern. Er kann seine letztwillige Verfügung auch ändern oder ganz aufheben.
 
-`§ 776 (1) ABGB.`  
-Der Verfügende kann den Pflichtteil letztwillig auf die Hälfte mindern, wenn er und der Pflichtteilsberechtigte zu keiner Zeit oder zumindest über einen längeren Zeitraum vor dem Tod des Verfügenden nicht in einem Naheverhältnis standen, wie es zwischen solchen Familienangehörigen gewöhnlich besteht.
+## II. Arten der Einschränkung
 
-`§ 776 (2) ABGB.`  
-Das Recht auf Pflichtteilsminderung steht nicht zu, wenn der Verstorbene den Kontakt grundlos gemieden oder berechtigten Anlass für den fehlenden Kontakt gegeben hat.
+### § 696 ABGB # 1. Bedingung
 
-`§ 776 (3) ABGB.`  
-Die §§ 773 und 774 gelten sinngemäß für die Pflichtteilsminderung; die Pflichtteilsminderung kann auch stillschweigend durch Übergehung in der letztwilligen Verfügung angeordnet worden sein.
+`§ 696 ABGB.`  
+Eine Bedingung ist ein ungewisses Ereignis, von dem ein Recht abhängig gemacht wird. Die Bedingung ist bejahend oder verneinend, je nachdem, ob sie sich auf den Eintritt oder Nichteintritt des Ereignisses bezieht. Sie ist aufschiebend, wenn das zugedachte Recht erst nach ihrer Erfüllung wirksam wird, und auflösend, wenn das zugedachte Recht bei ihrem Eintritt verloren geht.
 
-### § 777 ABGB # 3. Notwendiger Unterhalt des Pflichtteilsberechtigten
+### § 697 ABGB # a) Unverständliche und gesetz- oder sittenwidrige Bedingungen
 
-`§ 777 ABGB.`  
-Selbst wenn ein Pflichtteilsberechtigter erbunwürdig oder enterbt worden ist, steht ihm doch stets der notwendige Unterhalt zu.
+`§ 697 ABGB.`  
+Unverständliche, unbestimmte sowie gesetz- oder sittenwidrige Bedingungen gelten als nicht beigesetzt.
 
-## III. Pflichtteilsermittlung
+### § 698 ABGB # b) Unmögliche Bedingungen
 
-### § 778 ABGB # 1. Ermittlung und Berechnung des Pflichtteils
+`§ 698 ABGB.`  
+Die Anordnung, durch die einer Person unter einer aufschiebenden unmöglichen Bedingung ein Recht zukommen soll, ist ungültig, selbst wenn die Erfüllung der Bedingung erst in der Folge unmöglich und die Unmöglichkeit dem Verstorbenen bekannt geworden war. Eine auflösende unmögliche Bedingung ist als nicht beigesetzt anzusehen.
 
-`§ 778 (1) ABGB.`  
-Auf Antrag eines Pflichtteilsberechtigten wird zur Ermittlung des Pflichtteils die gesamte Verlassenschaft genau beschrieben und geschätzt.
+### § 699 ABGB # c) Mögliche und erlaubte Bedingungen
 
-`§ 778 (2) ABGB.`  
-Die Schätzung hat auf den Todestag des Verstorbenen abzustellen. Bis zur Erfüllung des Geldpflichtteils stehen dem Pflichtteilsberechtigten die gesetzlichen Zinsen zu.
+`§ 699 ABGB.`  
+Sind die Bedingungen möglich und erlaubt, so kann das davon abhängende Recht nur durch ihre genaue Erfüllung erworben werden, mögen sie vom Zufall oder vom Willen des bedachten Erben, Vermächtnisnehmers oder eines Dritten abhängen.
 
-### § 779 ABGB
+### § 701 ABGB # d) Erfüllung der Bedingung zu Lebzeiten des Verstorbenen
 
-`§ 779 (1) ABGB.`  
-Schulden und andere Lasten, die schon zu Lebzeiten des Verstorbenen auf dem Vermögen hafteten, werden von der Verlassenschaft ebenso abgezogen wie alle nach dem Erbfall und vor der Einantwortung entstandenen und mit der Besorgung, Verwaltung und Abhandlung der Verlassenschaft verbundenen Kosten.
+`§ 701 ABGB.`  
+Ist die im letzten Willen vorgeschriebene Bedingung schon zu Lebzeiten des Verstorbenen erfüllt worden, so muss sie nach dessen Tod nur dann neuerlich erfüllt werden, wenn sie in einer Handlung des Erben oder Vermächtnisnehmers besteht, die von ihm wiederholt werden kann.
 
-`§ 779 (2) ABGB.`  
-Der Pflichtteil wird aber ohne Rücksicht auf Vermächtnisse und andere aus dem letzten Willen entspringende Lasten berechnet.
+### § 702 ABGB # e) Keine Erfüllung der Bedingung durch Nachberufene
 
-### § 780 ABGB # 2. Anrechnung von Zuwendungen auf den Todesfall
+`§ 702 ABGB.`  
+Eine den Erben oder Vermächtnisnehmer einschränkende Bedingung ist ohne ausdrückliche Erklärung des Verstorbenen nicht auf den von diesem nachberufenen Erben oder Vermächtnisnehmer auszudehnen.
 
-`§ 780 (1) ABGB.`  
-Alles, was der Pflichtteilsberechtigte als Erbteil, Vermächtnis oder nach dem Erbfall als Begünstigter einer vom Verstorbenen errichteten Privatstiftung oder vergleichbaren Vermögensmasse erhält, wird auf den Geldpflichtteil angerechnet, also von diesem abgezogen.
+### § 703 ABGB # f) Wirkung einer möglichen aufschiebenden Bedingung
 
-`§ 780 (2) ABGB.`  
-Zuwendungen auf den Todesfall sind auf den Zeitpunkt des Todes des Verstorbenen zu bewerten.
+`§ 703 ABGB.`  
+Um eine unter einer aufschiebenden Bedingung zugedachte Verlassenschaft zu erwerben, muss die bedachte Person den Eintritt der Bedingung erleben und in diesem Zeitpunkt erbfähig sein.
 
-### § 781 ABGB # 3. Hinzu- und Anrechnung von Schenkungen unter Lebenden
+### § 705 ABGB # 2. Befristung
 
-`§ 781 (1) ABGB.`  
-Schenkungen, die der Pflichtteilsberechtigte oder auch ein Dritter vom Verstorbenen zu dessen Lebzeiten oder auf den Todesfall erhalten hat, sind der Verlassenschaft nach Maßgabe der folgenden Bestimmungen hinzuzurechnen und auf einen allfälligen Geldpflichtteil des Geschenknehmers anzurechnen.
+`§ 705 ABGB.`  
+Ist der Eintritt des Ereignisses, auf das der Verstorbene das zugedachte Recht eingeschränkt hat, gewiss, so geht das zugedachte Recht wie andere unbedingte Rechte auch auf die Erben der bedachten Person über. In einem solchen Fall wird nur die Übergabe bis zum gesetzten Termin aufgeschoben.
 
-`§ 781 (2) ABGB.`  
-Als Schenkung in diesem Sinn gelten auch  
-`§ 781 (2) Z 1 ABGB.`
-die Ausstattung eines Kindes,  
-`§ 781 (2) Z 2 ABGB.`
-ein Vorschuss auf den Pflichtteil,  
-`§ 781 (2) Z 3 ABGB.`
-die Abfindung für einen Erb- oder Pflichtteilsverzicht,  
-`§ 781 (2) Z 4 ABGB.`
-die Vermögenswidmung an eine Privatstiftung,  
-`§ 781 (2) Z 5 ABGB.`
-die Einräumung der Stellung als Begünstigter einer Privatstiftung, soweit ihr der Verstorbene sein Vermögen gewidmet hat, sowie  
-`§ 781 (2) Z 6 ABGB.`
-jede andere Leistung, die nach ihrem wirtschaftlichen Gehalt einem unentgeltlichen Rechtsgeschäft unter Lebenden gleichkommt.
+### § 706 ABGB
 
-### § 782 ABGB # Schenkungen an nicht pflichtteilsberechtigte Personen
+`§ 706 ABGB.`  
+Ein unmöglicher Anfangstermin macht die Anordnung ungültig. Ein unmöglicher Endtermin gilt als nicht beigesetzt. Wenn sich der Verstorbene in der Berechnung der Zeit geirrt hat, ist die Befristung nach seinem mutmaßlichen Willen zu bestimmen.
 
-`§ 782 (1) ABGB.`  
-Auf Verlangen eines Pflichtteilsberechtigten sind Schenkungen, die der Verstorbene in den letzten beiden Jahren vor seinem Tod an Personen, die nicht dem Kreis der Pflichtteilsberechtigten angehören (§ 757), wirklich gemacht hat, bei der Berechnung der Verlassenschaft hinzuzurechnen.
+### § 707 ABGB # Vorberechtigung
 
-`§ 782 (2) ABGB.`  
-Dieses Recht steht einem Nachkommen nur bei Schenkungen zu, die der Verstorbene zu einer Zeit gemacht hat, zu der er ein pflichtteilsberechtigtes Kind gehabt hat, dem Ehegatten oder eingetragenen Partner nur bei Schenkungen, die während seiner Ehe oder eingetragenen Partnerschaft mit dem Verstorbenen gemacht worden sind.
+`§ 707 ABGB.`  
+Solange das Recht des Erben wegen einer noch nicht erfüllten Bedingung oder wegen einer Befristung in Schwebe bleibt, gelten zwischen dem gesetzlichen und dem eingesetzten Erben im Hinblick auf den einstweiligen Besitz und Genuss der Verlassenschaft die gleichen Rechte und Pflichten wie bei der Nacherbschaft. Dies gilt sinngemäß für das Verhältnis zwischen dem Erben und dem bedingt oder befristet bedachten Vermächtnisnehmer.
 
-### § 783 ABGB # Schenkungen an Pflichtteilsberechtigte
+### § 708 ABGB # Nachberechtigung
 
-`§ 783 (1) ABGB.`  
-Auf Verlangen eines Pflichtteilsberechtigten oder eines Erben sind Schenkungen an Personen, die dem Kreis der Pflichtteilsberechtigten angehören (§ 757), der Verlassenschaft hinzuzurechnen und auf den Pflichtteil der beschenkten Person oder derjenigen Person, die an deren Stelle tritt, anzurechnen. Ein Geschenknehmer, der im Zeitpunkt der Schenkung allgemein zum Kreis der pflichtteilsberechtigten Personen gehörte (§ 757) und dem deshalb kein Pflichtteil zukommt, weil er auf seinen Pflichtteil verzichtet hat oder die Erbschaft ausgeschlagen hat, kann ebenfalls die Hinzu- und Anrechnung von Schenkungen an Pflichtteilsberechtigte verlangen.
+`§ 708 ABGB.`  
+Wer eine Erbschaft oder ein Vermächtnis unter einer verneinenden oder auflösenden Bedingung oder nur auf eine gewisse Zeit erhält, hat gegen den, dem die Erbschaft oder das Vermächtnis bei Eintritt der Bedingung oder des bestimmten Zeitpunktes zufällt, die gleichen Rechte und Pflichten, die einem Vorerben oder Vorvermächtnisnehmer gegen den Nacherben oder Nachvermächtnisnehmer zukommen (§§ 613 und 652).
 
-`§ 783 (2) ABGB.`  
-Die Hinzu- und Anrechnung kann auch ein Vermächtnisnehmer verlangen, soweit er zur Pflichtteilserfüllung beizutragen hat oder einen verhältnismäßigen Abzug erleidet.
+### § 709 ABGB # 3. Auflage
 
-### § 784 ABGB # Ausnahmen
+`§ 709 ABGB.`  
+Hat der Verstorbene die Verlassenschaft einer Person unter einer Auflage zugewendet, so muss der Belastete die Auflage möglichst genau erfüllen.
 
-`§ 784 ABGB.`  
-Schenkungen, die der Verstorbene aus Einkünften ohne Schmälerung des Stammvermögens, zu gemeinnützigen Zwecken, in Entsprechung einer sittlichen Pflicht oder aus Gründen des Anstandes gemacht hat, sind weder hinzu- noch anzurechnen, sofern der Verstorbene und der Geschenknehmer nichts anderes vereinbart haben.
+### § 710 ABGB
 
-### § 785 ABGB
+`§ 710 ABGB.`  
+Wenn der Belastete die Auflage aus seinem Alleinverschulden nicht oder nicht vollständig erfüllt hat, ist die Auflage im Zweifel als auflösende Bedingung (§ 696) zu behandeln.
 
-`§ 785 ABGB.`  
-Schenkungen an einen Pflichtteilsberechtigten sind auf dessen Pflichtteil insoweit nicht anzurechnen, als der Verstorbene den Erlass dieser Anrechnung letztwillig verfügt oder mit ihm vereinbart hat. In einem solchen Fall ist die von der Anrechnung befreite Zuwendung bei der Ermittlung des Pflichtteils dieses von der Anrechnung befreiten Pflichtteilsberechtigten nicht hinzuzurechnen. Der Vertrag über den Erlass der Anrechnung bedarf der Schriftform; die Aufhebung dieses Vertrags bedarf der Formvorschriften für einen Pflichtteilsverzicht.
+### § 711 ABGB
 
-### § 786 ABGB # Auskunftsanspruch
+`§ 711 ABGB.`  
+Ob der Verstorbene mit der Schilderung der Beweggründe oder des Zwecks seiner Verfügung eine Verpflichtung auferlegen wollte oder seine Erklärung nur ein Rat, ein Wunsch oder eine Bitte ist, dessen oder deren Nichteinhaltung keinen Nachteil bewirkt, ist durch Auslegung zu ermitteln.
 
-`§ 786 ABGB.`  
-Wer berechtigt ist, die Hinzurechnung bestimmter Schenkungen zu verlangen, hat in Bezug auf diese einen Auskunftsanspruch gegen die Verlassenschaft, die Erben und den Geschenknehmer.
+### § 712 ABGB # Strafvermächtnis und Bestreitungsverbot
 
-### § 787 ABGB # Rechenmethode
+`§ 712 (1) ABGB.`  
+Die Anordnung des Verstorbenen, dass der Erbe einem Dritten ein Vermächtnis entrichten soll, wenn er eine Auflage nicht befolgt, ist insoweit gültig, als die Auflage möglich und erlaubt ist.
 
-`§ 787 (1) ABGB.`  
-Eine Schenkung, die der Verlassenschaft nach den vorstehenden Bestimmungen hinzugerechnet wird, ist ihr rechnerisch hinzuzuschlagen. Von der dadurch vergrößerten Verlassenschaft sind die Pflichtteile zu ermitteln.
+`§ 712 (2) ABGB.`  
+Eine Anordnung des Verstorbenen, mit der er dem Erben oder Vermächtnisnehmer unter angedrohter Entziehung eines Vorteils verboten hat, den letzten Willen zu bestreiten, ist insoweit unwirksam, als nur die Echtheit oder der Sinn der letztwilligen Verfügung und die Auslegung des Bestreitungsverbots angefochten, sittenwidrige oder gesetzlich verbotene Anordnungen bekämpft oder Verstöße gegen zwingende Formvorschriften eingewendet werden.
 
-`§ 787 (2) ABGB.`  
-Von einem auf solche Art und Weise vergrößerten Pflichtteil ist die Schenkung an den pflichtteilsberechtigten Geschenknehmer, soweit sie auf seinen Pflichtteil anzurechnen ist, abzuziehen.
+## III. Aufhebung letztwilliger Verfügungen
 
-### § 788 ABGB # Bewertung der Schenkung
+### § 713 ABGB # 1. durch Errichtung eines späteren Testaments
 
-`§ 788 ABGB.`  
-Die geschenkte Sache ist auf den Zeitpunkt zu bewerten, in dem die Schenkung wirklich gemacht wurde. Dieser Wert ist sodann auf den Todeszeitpunkt nach einem von der Statistik Austria verlautbarten Verbraucherpreisindex anzupassen.
+`§ 713 (1) ABGB.`  
+Ein früheres Testament wird durch ein späteres gültiges Testament nicht nur in der Erbeinsetzung, sondern auch in den übrigen Anordnungen aufgehoben, sofern der Verstorbene in der späteren Verfügung nicht zu erkennen gegeben hat, dass die frühere ganz oder zum Teil weiter bestehen soll. Dies gilt auch dann, wenn der Erbe im späteren Testament nur zu einem Teil der Erbschaft berufen wurde. Der übrig bleibende Teil fällt nicht den im früheren Testament eingesetzten, sondern den gesetzlichen Erben zu.
+
+`§ 713 (2) ABGB.`  
+Frühere letztwillige Verfügungen ohne Erbeinsetzung (§ 552 Abs. 2) werden im Zweifel nur durch ein späteres Testament, mit dem über die gesamte Verlassenschaft verfügt wird, aufgehoben.
+
+### § 714 ABGB # oder einer sonstigen späteren letztwilligen Verfügung
+
+`§ 714 ABGB.`  
+Durch eine spätere letztwillige Verfügung ohne Erbeinsetzung werden frühere Vermächtnisse oder andere letztwillige Verfügungen ohne Erbeinsetzung nur insoweit aufgehoben, als sie ihr widersprechen.
+
+### § 715 ABGB
+
+`§ 715 ABGB.`  
+Kann nicht festgestellt werden, welche von mehreren letztwilligen Verfügungen früher oder später errichtet wurde, so gelten alle, soweit sie nebeneinander bestehen können. Die Bestimmungen des Sechzehnten Hauptstücks gelten entsprechend.
+
+### § 716 ABGB # Unbeachtlichkeit der früher erklärten Unabänderlichkeit
+
+`§ 716 ABGB.`  
+Die Erklärung in einer letztwilligen Verfügung, wonach jede spätere letztwillige Verfügung überhaupt oder dann unwirksam sein soll, wenn sie nicht in einer besonderen Form errichtet oder besonders gekennzeichnet wird, gilt als nicht beigesetzt.
+
+### 2. durch Widerruf
+
+### § 717 ABGB # a) Allgemeines
+
+`§ 717 ABGB.`  
+Will der letztwillig Verfügende seine Verfügung aufheben, ohne eine neue zu errichten, so muss er sie ausdrücklich oder stillschweigend widerrufen.
+
+### § 718 ABGB
+
+`§ 718 ABGB.`  
+Der Widerruf kann nur im Zustand der Testierfähigkeit gültig erfolgen.
+
+### § 719 ABGB # b) Ausdrücklicher Widerruf
+
+`§ 719 ABGB.`  
+Der ausdrückliche Widerruf einer letztwilligen Verfügung kann nur in einer solchen Form erfolgen, die zur Errichtung einer letztwilligen Verfügung nötig ist.
+
+### § 721 ABGB # c) Stillschweigender Widerruf
+
+`§ 721 ABGB.`  
+Wer seine letztwillige Verfügung zerstört, etwa indem er sie zerreißt, zerschneidet, verbrennt oder die Unterschrift oder den ganzen Inhalt durchstreicht, widerruft sie. Wenn von mehreren gleichlautenden Urkunden nur eine zerstört wird, so ist daraus im Zweifel nicht auf einen Widerruf der letztwilligen Verfügung zu schließen.
+
+### § 722 ABGB
+
+`§ 722 ABGB.`  
+Wenn die Urkunde nur zufällig zerstört wird oder verloren geht, bleibt der letzte Wille wirksam, sofern der Zufall oder Verlust und der Inhalt der Urkunde bewiesen werden.
+
+### § 723 ABGB
+
+`§ 723 ABGB.`  
+Hat der Verstorbene eine spätere letztwillige Verfügung zerstört, eine frühere Verfügung aber unversehrt gelassen, so tritt im Zweifel diese frühere Anordnung wieder in Kraft. Eine frühere mündliche Verfügung, ausgenommen die mündliche gerichtliche oder mündliche notarielle Verfügung, lebt dadurch aber nicht wieder auf.
+
+### § 724 ABGB # d) Vermuteter Widerruf
+
+`§ 724 (1) ABGB.`  
+Der Widerruf eines Vermächtnisses wird vermutet, wenn der Verstorbene  
+`§ 724 (1) Z 1 ABGB.`
+die vermachte Forderung eingetrieben oder sonst zum Erlöschen gebracht hat,  
+`§ 724 (1) Z 2 ABGB.`
+die zugedachte Sache veräußert und nicht wieder zurück erhalten hat oder  
+`§ 724 (1) Z 3 ABGB.`
+die Sache derart umgestaltet hat, dass sie ihre vorige Gestalt und Bezeichnung verliert.
+
+`§ 724 (2) ABGB.`  
+Wenn aber der Schuldner die Forderung aus eigenem Antrieb berichtigt hat, die Veräußerung des Vermächtnisses auf gerichtliche oder behördliche Anordnung erfolgt ist oder die Sache ohne Einwilligung des Verstorbenen umgestaltet worden ist, bleibt das Vermächtnis wirksam.
+
+### § 725 ABGB # 3. durch Verlust der Angehörigenstellung
+
+`§ 725 (1) ABGB.`  
+Mit Auflösung der Ehe, der eingetragenen Partnerschaft oder der Lebensgemeinschaft zu Lebzeiten des Verstorbenen werden davor errichtete letztwillige Verfügungen, soweit sie den früheren Ehegatten, eingetragenen Partner oder Lebensgefährten betreffen, aufgehoben, es sei denn, dass der Verstorbene ausdrücklich das Gegenteil angeordnet hat. Das Gleiche gilt für die Aufhebung der Abstammung oder den Widerruf oder die Aufhebung der Adoption, auch wenn sie nach dem Erbfall erfolgt, für letztwillige Verfügungen zugunsten des früheren Angehörigen.
+
+`§ 725 (2) ABGB.`  
+Die letztwillige Anordnung wird im Zweifel auch dann aufgehoben, wenn der Verstorbene oder die letztwillig bedachte Person das gerichtliche Verfahren zur Auflösung der Ehe oder eingetragenen Partnerschaft oder zum Widerruf oder zur Aufhebung der Adoption eingeleitet hat. Das Gleiche gilt auch für den Fall, dass der Verstorbene das gerichtliche Abstammungsverfahren eingeleitet hat, wenn sich in der Folge herausstellt, dass der vermeintliche Angehörige tatsächlich nicht vom Verstorbenen abstammt.
+
+### § 726 ABGB # 4. durch Ausfall des eingesetzten Erben
+
+`§ 726 ABGB.`  
+Wenn weder ein Erbe noch ein Nacherbe die Erbschaft annehmen will oder kann, fällt das Erbrecht auf die gesetzlichen Erben. Diese sind verpflichtet, die übrigen Verfügungen des Verstorbenen zu befolgen.
 
 `END-OF-DATA-FILE`

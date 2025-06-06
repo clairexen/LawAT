@@ -47,7 +47,8 @@ Nur dem Gesetzgeber steht die Macht zu, ein Gesetz auf eine allgemein verbindlic
 
 `§ 9 ABGB.`  
 Gesetze behalten so lange ihre Kraft, bis sie von dem Gesetzgeber abgeändert oder ausdrücklich aufgehoben werden.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Andere Arten der Vorschriften, als:</h4>
+
+## Andere Arten der Vorschriften, als:
 
 ### § 10 ABGB # a) Gewohnheiten.
 
@@ -80,7 +81,8 @@ Die in dem bürgerlichen Gesetzbuche enthaltenen Vorschriften haben das Personen
 
 `§ 15 ABGB.`  
 Die Personen-Rechte beziehen sich theils auf persönliche Eigenschaften und Verhältnisse; theils gründen sie sich in dem Familien-Verhältnisse.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter"><span aria-hidden="true">I. Aus dem Charakter der Persönlichkeit.</span></h4>
+
+## I. Aus dem Charakter der Persönlichkeit.
 
 ### § 16 ABGB # Angeborne Rechte.
 
@@ -149,7 +151,8 @@ Handlungsfähigkeit ist die Fähigkeit einer Person, sich im jeweiligen rechtlic
 
 `§ 24 (2) ABGB.`  
 Entscheidungsfähig ist, wer die Bedeutung und die Folgen seines Handelns im jeweiligen Zusammenhang verstehen, seinen Willen danach bestimmen und sich entsprechend verhalten kann. Dies wird im Zweifel bei Volljährigen vermutet.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter"><span aria-hidden="true">IV. Aus dem Verhältnisse einer moralischen Person.</span></h4>
+
+## IV. Aus dem Verhältnisse einer moralischen Person.
 
 ### § 26 ABGB
 
@@ -160,7 +163,8 @@ Die Rechte der Mitglieder einer erlaubten Gesellschaft unter sich werden durch d
 
 `§ 27 ABGB.`  
 In wie fern Gemeinden in Rücksicht ihrer Rechte unter einer besonderen Vorsorge der öffentlichen Verwaltung stehen, ist in den politischen Gesetzen enthalten.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter"><span aria-hidden="true">V. Aus dem Verhältnisse eines Staatsbürgers.</span></h4>
+
+## V. Aus dem Verhältnisse eines Staatsbürgers.
 
 ### § 28 ABGB
 
@@ -176,13 +180,15 @@ Den Fremden kommen überhaupt gleiche bürgerliche Rechte und Verbindlichkeiten 
 
 `§ 38 ABGB.`  
 Die Gesandten, die öffentlichen Geschäftsträger und die in ihren Diensten stehenden Personen genießen die in dem Völkerrechte und in den öffentlichen Verträgen gegründeten Befreyungen.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter"><span aria-hidden="true">VI. Personen-Rechte aus dem Religionsverhältnisse.</span></h4>
+
+## VI. Personen-Rechte aus dem Religionsverhältnisse.
 
 ### § 39 ABGB
 
 `§ 39 ABGB.`  
 Die Verschiedenheit der Religion hat auf die Privat-Rechte keinen Einfluß, außer in so fern dieses bey einigen Gegenständen durch die Gesetze ins besondere angeordnet wird.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter"><span aria-hidden="true">VII. Aus dem Familien-Verhältnisse Familie, Verwandtschaft und Schwägerschaft.</span></h4>
+
+## VII. Aus dem Familien-Verhältnisse Familie, Verwandtschaft und Schwägerschaft.
 
 ### § 40 ABGB
 
@@ -198,7 +204,8 @@ Die Grade der Verwandtschaft zwischen zwey Personen sind nach der Zahl der Zeugu
 
 `§ 42 ABGB.`  
 Unter den Nahmen Aeltern werden in der Regel ohne Unterschied des Grades alle Verwandte in der aufsteigenden; und unter dem Nahmen Kinder, alle Verwandte in der absteigenden Linie begriffen.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter"><span aria-hidden="true">VIII. Schutz des Namens</span></h4>
+
+## VIII. Schutz des Namens
 
 ### § 43 ABGB
 

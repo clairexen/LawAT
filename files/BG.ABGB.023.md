@@ -6,397 +6,245 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Dritter Theil
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">des</h4>
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">bürgerlichen Gesetzbuches.</h4>
+## Siebenundzwanzigstes Hauptstück # Von der Gesellschaft bürgerlichen Rechts # 1. Abschnitt # Allgemeine Bestimmungen
 
-## Von den gemeinschaftlichen Bestimmungen der Personen- und Sachenrechte. # Erstes Hauptstück. # Von Befestigung der Rechte und Verbindlichkeiten.
+### § 1175 ABGB # Begriff und Rechtsnatur der Gesellschaft bürgerlichen Rechts
 
-### § 1342 ABGB # Gemeinschaftliche Bestimmungen der Rechte.
+`§ 1175 (1) ABGB.`  
+Schließen sich zwei oder mehrere Personen durch einen Vertrag zusammen, um durch eine bestimmte Tätigkeit einen gemeinsamen Zweck zu verfolgen, so bilden sie eine Gesellschaft. Sofern sie keine andere Gesellschaftsform wählen, bilden sie eine Gesellschaft bürgerlichen Rechts im Sinn dieses Hauptstücks.
 
-`§ 1342 ABGB.`  
-Sowohl Personenrechte als Sachenrechte, und daraus entspringende Verbindlichkeiten können gleichförmig befestiget, umgeändert und aufgehoben werden.
+`§ 1175 (2) ABGB.`  
+Die Gesellschaft bürgerlichen Rechts ist nicht rechtsfähig.
 
-### § 1343 ABGB # Arten der Befestigung eines Rechtes:
+`§ 1175 (3) ABGB.`  
+Sie kann jeden erlaubten Zweck verfolgen und jede erlaubte Tätigkeit zum Gegenstand haben.
 
-`§ 1343 ABGB.`  
-Die rechtlichen Arten der Sicherstellung einer Verbindlichkeit und der Befestigung eines Rechtes, durch welche dem Berechtigten ein neues Recht eingeräumet wird, sind: die Verpflichtung eines Dritten für den Schuldner, und die Verpfändung.
+`§ 1175 (4) ABGB.`  
+Die Bestimmungen dieses Hauptstücks sind auch auf andere Gesellschaften anzuwenden, soweit für diese keine besonderen Vorschriften bestehen und die Anwendung dieser Bestimmungen auch unter Berücksichtigung der für die jeweilige Gesellschaft geltenden Grundsätze angemessen ist.
 
-### § 1344 ABGB # I) durch Verpflichtung eines Dritten.
+### § 1176 ABGB # Innen- und Außengesellschaft
 
-`§ 1344 ABGB.`  
-Ein Dritter kann sich dem Gläubiger für den Schuldner auf dreyerley Art verpflichten: ein Mahl, wenn er mit Einwilligung des Gläubigers die Schuld als Alleinzahler übernimmt; dann, wenn er der Verbindlichkeit als Mitschuldner beytritt; endlich, wenn er sich für die Befriedigung des Gläubigers auf den Fall verbindet, daß der erste Schuldner die Verbindlichkeit nicht erfülle.
+`§ 1176 (1) ABGB.`  
+Die Gesellschafter können die Gesellschaft auf ihr Verhältnis untereinander beschränken (Innengesellschaft) oder gemeinschaftlich im Rechtsverkehr auftreten (Außengesellschaft). Ist der Gegenstand der Gesellschaft der Betrieb eines Unternehmens oder führen die Gesellschafter einen gemeinsamen Gesellschaftsnamen (§ 1177), so wird vermutet, dass die Gesellschafter eine Außengesellschaft vereinbaren wollten.
 
-### § 1345 ABGB
+`§ 1176 (2) ABGB.`  
+Haben die Gesellschafter in den Fällen des Abs. 1 zweiter Satz eine Außengesellschaft vertraglich ausgeschlossen, so kann dieser Umstand einem Dritten nur entgegengehalten werden, wenn dieser wusste oder hätte wissen müssen, dass es sich bloß um eine Innengesellschaft handelt.
 
-`§ 1345 ABGB.`  
-Wenn jemand mit Einwilligung des Gläubigers die ganze Schuld eines Andern übernimmt; so geschieht keine Befestigung, sondern eine Umänderung der Verbindlichkeit, wovon in dem folgenden Hauptstücke gehandelt wird.
+### § 1177 ABGB # Gesellschaftsname
 
-### § 1346 ABGB # a) Als Bürge;
+`§ 1177 (1) ABGB.`  
+Wenn die Gesellschafter unter einem gemeinsamen Namen auftreten, muss dieser auf das Bestehen einer solchen Gesellschaft hindeuten, zur Kennzeichnung der Gesellschaft geeignet sein und Unterscheidungskraft besitzen. Er darf über die Verhältnisse der Gesellschaft nicht in die Irre führen.
 
-`§ 1346 (1) ABGB.`  
-Wer sich zur Befriedigung des Gläubigers auf den Fall verpflichtet, daß der erste Schuldner die Verbindlichkeit nicht erfülle, wird ein Bürge, und das zwischen ihm und dem Gläubiger getroffene Uebereinkommen ein Bürgschaftsvertrag genannt. Hier bleibt der erste Schuldner noch immer der Hauptschuldner, und der Bürge kommt nur als Nachschuldner hinzu.
+`§ 1177 (2) ABGB.`  
+Wer in Angelegenheiten der Gesellschaft für alle Gesellschafter gemeinsam auftritt, hat jedem, der ein rechtliches Interesse daran hat, die Identität und die Anschrift der Gesellschafter offenzulegen.
 
-`§ 1346 (2) ABGB.`  
-Zur Gültigkeit des Bürgschaftsvertrages ist erforderlich, daß die Verpflichtungserklärung des Bürgen schriftlich abgegeben wird.
+### § 1178 ABGB # Gesellschaftsvermögen
 
-### § 1347 ABGB # b) Als Mitschuldner;
+`§ 1178 (1) ABGB.`  
+Zum Gesellschaftsvermögen gehören das der Gesellschaft gewidmete Eigentum, die sonstigen gesellschaftsbezogenen Sachenrechte, die gesellschaftsbezogenen Vertragsverhältnisse, Forderungen und Verbindlichkeiten und die gesellschaftsbezogenen Immaterialgüterrechte sowie der jeweils daraus verschaffte Nutzen, die daraus gewonnenen Früchte und alles, was an Stelle bestehender Vermögenswerte zufließt.
 
-`§ 1347 ABGB.`  
-Wenn jemand, ohne die den Bürgen zu Statten kommende Bedingung, einer Verbindlichkeit als Mitschuldner beytritt; so entsteht eine Gemeinschaft mehrerer Mitschuldner; deren rechtliche Folgen nach den in dem Hauptstücke von Verträgen überhaupt gegebenen Vorschriften zu beurtheilen sind (§§. 888 – 896).
+`§ 1178 (2) ABGB.`  
+Vom Gesellschaftsvermögen zu unterscheiden ist das sonstige Vermögen der einzelnen Gesellschafter. Gegen eine Forderung, die zum Gesellschaftsvermögen gehört, kann der Schuldner nicht mit einer ihm gegen einen einzelnen Gesellschafter zustehenden Forderung aufrechnen.
 
-### § 1348 ABGB # Entschädigungsbürge.
+### § 1179 ABGB # Einbringung des Gesellschaftsvermögens
 
-`§ 1348 ABGB.`  
-Wer dem Bürgen auf den Fall, daß derselbe durch seine Bürgschaft zu Schaden kommen sollte, Entschädigung zusagt, heißt Entschädigungsbürge.
+`§ 1179 (1) ABGB.`  
+Der Gesellschaftsvertrag ist ein Titel für die Bildung und den Erwerb von Gesellschaftsvermögen. Dessen Einbringung bedarf der jeweils allgemein erforderlichen Übergabe oder Verfügung.
 
-### § 1349 ABGB # Wer sich verbürgen könne.
+`§ 1179 (2) ABGB.`  
+Wenn nach dem Gesellschaftsvertrag das ganze Vermögen einzubringen ist, so ist darunter nur das gegenwärtige zu verstehen. Soll aber auch das künftige Vermögen eingebracht werden, so ist darunter nicht das geerbte oder das geschenkte zu verstehen.
 
-`§ 1349 ABGB.`  
-Fremde Verbindlichkeiten kann ohne Unterschied des Geschlechtes jedermann auf sich nehmen, dem die freye Verwaltung seines Vermögens zusteht.
+### § 1180 ABGB # Vermögensordnung
 
-### § 1350 ABGB # Für welche Verbindlichkeiten.
+`§ 1180 (1) ABGB.`  
+Soweit nichts anderes vereinbart ist, stehen körperliche Sachen, die von Gesellschaftern in das Gesellschaftsvermögen übertragen oder für das Gesellschaftsvermögen (§ 1178 Abs. 1) erworben worden sind, im Miteigentum der Gesellschafter; unkörperliche Sachen, insbesondere schuldrechtliche Forderungen, sind den Gesellschaftern zur gesamten Hand zugeordnet.
 
-`§ 1350 ABGB.`  
-Eine Bürgschaft kann nicht nur über Summen und Sachen, sondern auch über erlaubte Handlungen und Unterlassungen in Beziehung auf den Vortheil oder Nachtheil, welcher aus denselben für den Sichergestellten entstehen kann, geleistet werden.
+`§ 1180 (2) ABGB.`  
+Im Gesellschaftsvertrag können der Gesellschaft Sachen auch bloß zum Gebrauch zur Verfügung gestellt oder im Innenverhältnis so behandelt werden, als ob sie allen gemeinsam gehörten.
 
-### § 1351 ABGB
+## 2. Abschnitt # Rechtsverhältnisse der Gesellschafter untereinander
 
-`§ 1351 ABGB.`  
-Verbindlichkeiten, welche nie zu Recht bestanden haben, oder schon aufgehoben sind, können weder übernommen, noch bekräftiget werden.
+### § 1181 ABGB # Gestaltungsfreiheit
 
-### § 1352 ABGB
+`§ 1181 ABGB.`  
+Die Rechtsverhältnisse der Gesellschafter untereinander richten sich nach dem Gesellschaftsvertrag; die Vorschriften dieses Abschnitts finden nur insoweit Anwendung, als nicht durch den Gesellschaftsvertrag anderes bestimmt ist.
 
-`§ 1352 ABGB.`  
-Wer sich für eine Person verbürgt, die sich vermöge ihrer persönlichen Eigenschaft nicht verbinden kann, ist, obschon ihm diese Eigenschaft unbekannt war, gleich einem ungetheilten Mitschuldner verpflichtet (§. 896).
+### § 1182 ABGB # Gesellschaftsanteil und Beiträge der Gesellschafter
 
-### § 1353 ABGB # Umfang der Bürgschaft
+`§ 1182 (1) ABGB.`  
+Der Gesellschaftsanteil ist die Summe der gesellschaftsvertraglichen Rechte und Pflichten eines Gesellschafters gegenüber allen übrigen Gesellschaftern. Ein Gesellschafter kann nicht ohne Zustimmung aller Gesellschafter über seinen Gesellschaftsanteil verfügen.
 
-`§ 1353 ABGB.`  
-Die Bürgschaft kann nicht weiter ausgedehnt werden, als sich der Bürge ausdrücklich erkläret hat. Wer sich für ein zinsbares Capital verbürget, haftet nur für jene rückständigen Zinsen, welche der Gläubiger noch nicht einzutreiben berechtiget war.
+`§ 1182 (2) ABGB.`  
+Das Ausmaß der Kapitalbeteiligung der Gesellschafter an der Gesellschaft bestimmt sich nach dem Verhältnis des Wertes der vereinbarten Einlagen (Kapitalanteil). Im Zweifel sind die Gesellschafter zu gleichen Teilen beteiligt. Soweit nichts anderes vereinbart ist, sind die Gesellschafter im gleichen Ausmaß zur Mitwirkung an der Förderung des Gesellschaftszwecks verpflichtet.
 
-### § 1354 ABGB
+`§ 1182 (3) ABGB.`  
+Der Beitrag eines Gesellschafters kann sich auch auf die Leistung von Diensten beschränken (Arbeitsgesellschafter). Einem solchen Gesellschafter kann im Gesellschaftsvertrag eine Beteiligungsquote zuerkannt werden, so als ob er einen Kapitalanteil geleistet hätte. Andernfalls steht ihm für seine Mitwirkung bloß ein angemessener Betrag des Jahresgewinns zu (§ 1195 Abs. 4).
 
-`§ 1354 ABGB.`  
-Von der Einwendung, wodurch ein Schuldner nach Vorschrift der Gesetze die Beybehaltung eines Theiles seines Vermögens zu seinem Unterhalte zu fordern berechtiget ist, kann der Bürge nicht Gebrauch machen.
+### § 1183 ABGB # Verzinsungspflicht
 
-### § 1355 ABGB # Wirkung.
+`§ 1183 (1) ABGB.`  
+Ein Gesellschafter, der seine Geldeinlage nicht zur rechten Zeit einzahlt, eingenommenes Gesellschaftsgeld nicht zur rechten Zeit an das Gesellschaftsvermögen abführt oder unbefugt Geld aus dem Gesellschaftsvermögen entnimmt, hat Zinsen von dem Tag an zu entrichten, an dem die Zahlung oder die Ablieferung hätte geschehen sollen oder die Herausnahme des Geldes erfolgt ist.
 
-`§ 1355 ABGB.`  
-Der Bürge kann in der Regel erst dann belanget werden, wenn der Hauptschuldner auf des Gläubigers gerichtliche oder außergerichtliche Einmahnung seine Verbindlichkeit nicht erfüllet hat.
+`§ 1183 (2) ABGB.`  
+Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
-### § 1356 ABGB
+### § 1184 ABGB # Nachschuss
 
-`§ 1356 ABGB.`  
-Der Bürge kann aber, selbst wenn er sich ausdrücklich nur für den Fall verbürget hat, daß der Hauptschuldner zu zahlen unvermögend sey, zuerst belanget werden, wenn über das Vermögen des Hauptschuldners das Insolvenzverfahren eröffnet wurde oder wenn der Hauptschuldner zu der Zeit, als die Zahlung geleistet werden sollte, unbekannten Aufenthaltes, und der Gläubiger keiner Nachlässigkeit zu beschuldigen ist.
+`§ 1184 (1) ABGB.`  
+Die Gesellschafter sind nicht verpflichtet, Nachschüsse zur vertraglich zugesagten Einlage zu leisten.
 
-### § 1357 ABGB
+`§ 1184 (2) ABGB.`  
+Auch ohne Vereinbarung im Gesellschaftsvertrag können die Gesellschafter mit Stimmenmehrheit (§ 1192 Abs. 2) die Leistung von Nachschüssen im Verhältnis ihrer Kapitalanteile beschließen, wenn die Fortführung der Gesellschaft sonst nicht möglich wäre. Ein Gesellschafter, der dem Beschluss nicht zugestimmt hat und den Nachschuss nicht leistet, kann innerhalb angemessener Frist aus der Gesellschaft austreten oder aufgrund einer Klage der übrigen Gesellschafter vom Gericht aus der Gesellschaft ausgeschlossen werden. Auf das Austrittsrecht kann im Vorhinein nicht verzichtet werden. Für die Auseinandersetzung mit dem ausgetretenen oder ausgeschlossenen Gesellschafter und für die Ermittlung seiner Beteiligung an schwebenden Geschäften ist der Zeitpunkt der Beschlussfassung über die Nachschusspflicht maßgeblich.
 
-`§ 1357 ABGB.`  
-Wer sich als Bürge und Zahler verpflichtet hat, haftet als ungetheilter Mitschuldner für die ganze Schuld; es hängt von der Willkühr des Gläubigers ab, ob er zuerst den Hauptschuldner, oder den Bürgen oder beyde zugleich belangen wolle (§. 891).
+### § 1185 ABGB # Ersatz für Aufwendungen und Verluste, Herausgabepflicht
 
-### § 1358 ABGB
+`§ 1185 (1) ABGB.`  
+Macht der Gesellschafter in den Gesellschaftsangelegenheiten Aufwendungen, die er den Umständen nach für erforderlich halten darf, oder erleidet er unmittelbar durch seine Geschäftsführung oder aus Gefahren, die mit ihr untrennbar verbunden sind, Verluste in seinem sonstigen Vermögen, so sind ihm, wenn er nicht sogleich Ersatz aus dem Gesellschaftsvermögen erhält, die übrigen Gesellschafter entsprechend ihrem Anteil zum Ersatz verpflichtet. Aufgewendetes Geld ist von der Zeit der Aufwendungen an zu verzinsen.
 
-`§ 1358 ABGB.`  
-Wer eine fremde Schuld bezahlt, für die er persönlich oder mit bestimmten Vermögensstücken haftet, tritt in die Rechte des Gläubigers und ist befugt, von dem Schuldner den Ersatz der bezahlten Schuld zu fordern. Zu diesem Ende ist der befriedigte Gläubiger verbunden, dem Zahler alle vorhandenen Rechtsbehelfe und Sicherungsmittel auszuliefern.
+`§ 1185 (2) ABGB.`  
+Für die Aufwendungen, die zur Erledigung der Gesellschaftsangelegenheiten nötig sind und nicht aus dem Gesellschaftsvermögen getragen werden können, kann ein Gesellschafter von den übrigen Gesellschaftern entsprechend ihrem Anteil verhältnismäßig einen Vorschuss verlangen.
 
-### § 1359 ABGB
+`§ 1185 (3) ABGB.`  
+Ein Gesellschafter hat alles, was er zur Führung der Geschäfte erhält und was er aus der Geschäftsführung erlangt, an das Gesellschaftsvermögen abzuführen.
 
-`§ 1359 ABGB.`  
-Haben für den nähmlichen ganzen Betrag mehrere Personen Bürgschaft geleistet; so haftet jede für den ganzen Betrag. Hat aber Eine von ihnen die ganze Schuld abgetragen; so gebührt ihr gleich dem Mitschuldner (§. 896) das Recht des Rückersatzes gegen die übrigen.
+### § 1186 ABGB # Mitwirkung, Interessenwahrung und Gleichbehandlung
 
-### § 1360 ABGB
+`§ 1186 (1) ABGB.`  
+Die Gesellschafter haben an der gesellschaftlichen Willensbildung und den zu treffenden Maßnahmen nach Kräften und mit gebotener Sorgfalt mitzuwirken, den Gesellschaftszweck redlich zu fördern und alles zu unterlassen, was den Gesellschaftsinteressen schadet.
 
-`§ 1360 ABGB.`  
-Wenn dem Gläubiger vor, oder bey Leistung der Bürgschaft noch außer derselben von dem Hauptschuldner, oder einem Dritten ein Pfand gegeben wird; so steht ihm zwar noch immer frey, den Bürgen der Ordnung nach (§. 1355) zu belangen; aber er ist nicht befugt, zu dessen Nachtheil sich des Pfandes zu begeben.
+`§ 1186 (2) ABGB.`  
+Die Gesellschafter sind unter gleichen Voraussetzungen gleich zu behandeln.
 
-### § 1361 ABGB
+### § 1187 ABGB # Verbot schädlicher Nebengeschäfte
 
-`§ 1361 ABGB.`  
-Hat der Bürge oder Zahler den Gläubiger befriediget, ohne sich mit dem Hauptschuldner einzuverstehen; so kann dieser Alles gegen jene einwenden, was er gegen den Gläubiger hätte einwenden können.
+`§ 1187 ABGB.`  
+Die Gesellschafter dürfen kein der Gesellschaft schädliches Nebengeschäft unternehmen. Für unternehmerisch tätige Gesellschaften gelten überdies die unternehmensrechtlichen Vorschriften über Wettbewerbsverbote und deren Rechtsfolgen.
 
-### § 1362 ABGB
+### § 1188 ABGB # Durchsetzung von Gesellschaftsansprüchen
 
-`§ 1362 ABGB.`  
-Der Bürge kann von dem Entschädigungsbürgen nur dann Entschädigung verlangen, wenn er sich den Schaden nicht durch sein eigenes Verschulden zugezogen hat.
+`§ 1188 ABGB.`  
+Die Erfüllung gesellschaftsbezogener Verpflichtungen eines Gesellschafters kann von jedem Gesellschafter zugunsten aller Gesellschafter gemeinsam eingefordert werden. Davon abweichende Vereinbarungen sind unwirksam.
 
-### § 1363 ABGB # Arten der Erlöschung der Bürgschaft.
+### § 1189 ABGB # Geschäftsführung
 
-`§ 1363 ABGB.`  
-Die Verbindlichkeit des Bürgen hört verhältnißmäßig mit der Verbindlichkeit des Schuldners auf. Hat sich der Bürge nur auf eine gewisse Zeit verpflichtet; so haftet er nur für diesen Zeitraum. Die Entlassung eines Mitbürgen kommt diesem zwar gegen den Gläubiger; aber nicht gegen die übrigen Mitbürgen zu Statten (§. 896).
+`§ 1189 (1) ABGB.`  
+Zur Führung der Geschäfte der Gesellschaft sind alle Gesellschafter berechtigt und verpflichtet.
 
-### § 1364 ABGB
+`§ 1189 (2) ABGB.`  
+Überträgt der Gesellschaftsvertrag die Geschäftsführung einem einzelnen Gesellschafter oder mehreren Gesellschaftern, so sind die übrigen Gesellschafter von der Geschäftsführung ausgeschlossen.
 
-`§ 1364 ABGB.`  
-Durch den Verlauf der Zeit, binnen welcher der Schuldner hätte zahlen sollen, wird der Bürge, wenn auch der Gläubiger auf die Befriedigung nicht gedrungen hat, noch nicht von seiner Bürgschaft befreyet, allein er ist befugt, von dem Schuldner, wenn er mit dessen Einwilligung Bürgschaft geleistet hat, zu verlangen, daß er ihm Sicherheit verschaffe. Auch der Gläubiger ist dem Bürgen in so weit verantwortlich, als dieser wegen dessen Saumseligkeit in Eintreibung der Schuld an Erhohlung des Ersatzes zu Schaden kommt.
+`§ 1189 (3) ABGB.`  
+Die Geschäfte sind so sorgfältig zu führen, wie es Art und Umfang der Gesellschaft erfordern. Die geschäftsführenden Gesellschafter sind verpflichtet, über das Gesellschaftsvermögen, insbesondere über die Einnahmen und Ausgaben, die notwendigen Aufzeichnungen zu führen und soweit erforderlich ein Rechnungswesen einzurichten.
 
-### § 1365 ABGB
+`§ 1189 (4) ABGB.`  
+Ein Gesellschafter darf im Zweifel die Führung der Geschäfte nicht einem Dritten übertragen. Ist die Übertragung gestattet, so hat er nur ein ihm bei der Übertragung zur Last fallendes Verschulden zu vertreten. Das Verschulden eines Gehilfen hat er in gleichem Umfang zu vertreten wie eigenes Verschulden.
 
-`§ 1365 ABGB.`  
-Wenn gegen den Schuldner ein gegründetes Besorgniß der Zahlungsunfähigkeit oder der Entfernung aus den Erbländern, für welche dieses Gesetzbuch vorgeschrieben ist, eintritt; so steht dem Bürgen das Recht zu, von dem Schuldner die Sicherstellung der verbürgten Schuld zu verlangen.
+### § 1190 ABGB # Geschäftsführung durch mehrere Gesellschafter, Weisungsgebundenheit
 
-### § 1366 ABGB
+`§ 1190 (1) ABGB.`  
+Steht die Geschäftsführung allen oder mehreren Gesellschaftern zu, so ist im Rahmen der gewöhnlichen Geschäfte jeder von ihnen allein zu handeln berechtigt; widerspricht jedoch ein anderer geschäftsführender Gesellschafter der Vornahme einer Handlung, so muss diese unterbleiben.
 
-`§ 1366 ABGB.`  
-Wenn das verbürgte Geschäft beendiget ist; so kann die Abrechnung und die Aufhebung der Bürgschaft gefordert werden.
+`§ 1190 (2) ABGB.`  
+Ist im Gesellschaftsvertrag bestimmt, dass die Gesellschafter, denen die Geschäftsführung zusteht, nur zusammen handeln können, so bedarf es für jedes Geschäft der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist.
 
-### § 1367 ABGB
+`§ 1190 (3) ABGB.`  
+Ist ein Gesellschafter an die Weisungen der übrigen Gesellschafter gebunden, so kann er von den ihm erteilten Weisungen abweichen, wenn er den Umständen nach annehmen darf, dass die übrigen Gesellschafter bei Kenntnis der Sachlage die Abweichung billigen würden. Er hat die Abweichung den übrigen Gesellschaftern anzuzeigen und ihre Entscheidung abzuwarten, wenn nicht Gefahr im Verzug ist.
 
-`§ 1367 ABGB.`  
-Ist der Bürgschaftsvertrag weder durch eine Hypothek, noch durch ein Faustpfand befestiget; so erlischt er binnen drey Jahren nach dem Tode des Bürgen, wenn der Gläubiger in der Zwischenzeit unterlassen hat, von dem Erben die verfallene Schuld gerichtlich oder außergerichtlich einzumahnen.
+### § 1191 ABGB # Umfang der Geschäftsführungsbefugnis
 
-### § 1368 ABGB # II.) Durch Pfandvertrag.
+`§ 1191 (1) ABGB.`  
+Die Befugnis zur Geschäftsführung erstreckt sich auf alle Handlungen, die der gewöhnliche Geschäftsbetrieb der Gesellschaft mit sich bringt.
 
-`§ 1368 ABGB.`  
-Pfandvertrag heißt derjenige Vertrag, wodurch der Schuldner, oder ein Anderer anstatt seiner auf eine Sache dem Gläubiger das Pfandrecht wirklich einräumet, folglich ihm das bewegliche Pfandstück übergibt, oder das unbewegliche durch die Pfandbücher verschreibt. Der Vertrag, ein Pfand übergeben zu wollen, ist noch kein Pfandvertrag.
+`§ 1191 (2) ABGB.`  
+Zur Vornahme von Handlungen, die darüber hinausgehen (außergewöhnliche Geschäfte), ist ein einstimmiger Beschluss aller Gesellschafter erforderlich.
 
-### § 1369 ABGB # Wirkung des Pfandvertrages.
+`§ 1191 (3) ABGB.`  
+Zur Einräumung einer Vollmacht gemäß § 1008 bedarf es der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist. Der Widerruf einer solchen Vollmacht kann von jedem der zur Erteilung oder zur Mitwirkung bei der Erteilung befugten Gesellschafter erfolgen.
 
-`§ 1369 ABGB.`  
-Was bey Verträgen überhaupt Rechtens ist, gilt auch bey dem Pfandvertrage; er ist zweyseitig verbindlich. Der Pfandnehmer muß das Handpfand wohl verwahren und es dem Verpfänder, so bald dieser die Befriedigung leistet, zurück geben. Betrifft es eine Hypothek; so muß der befriedigte Gläubiger den Verpfänder in den Stand setzen, die Löschung der Verbindlichkeit aus den Hypotheken-Büchern bewirken zu können. Die mit dem Pfandbesitze verknüpften Rechte und Verbindlichkeiten des Pfandgebers und Pfandnehmers sind im sechsten Hauptstücke des zweyten Theiles bestimmt worden.
+### § 1192 ABGB # Gesellschafterbeschlüsse
 
-### § 1370 ABGB
+`§ 1192 (1) ABGB.`  
+Gesellschafterbeschlüsse erfordern die Zustimmung aller zur Mitwirkung bei der Beschlussfassung berufenen Gesellschafter.
 
-`§ 1370 ABGB.`  
-Der Handpfandnehmer ist verbunden, dem Pfandgeber einen Pfandschein auszustellen, und darin die unterscheidenden Kennzeichen des Pfandes zu beschreiben. Auch können die wesentlichen Bedingungen des Pfandvertrages in dem Pfandscheine angeführet werden.
+`§ 1192 (2) ABGB.`  
+Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, so bestimmt sie sich nach den abgegebenen gültigen Stimmen. Das Stimmgewicht entspricht den Beteiligungsverhältnissen. Sind nicht alle Gesellschafter am Kapital beteiligt, wird die Mehrheit nach Köpfen berechnet. Arbeitsgesellschafter, denen der Gesellschaftsvertrag einen am Wert ihrer Arbeit orientierten Kapitalanteil zubilligt, gelten als am Kapital beteiligt.
 
-### § 1371 ABGB # Unerlaubte Bedingungen.
+### § 1193 ABGB # Entziehung und Kündigung der Geschäftsführungsbefugnis
 
-`§ 1371 ABGB.`  
-Alle der Natur des Pfand- und Darleihensvertrages entgegen stehende Bedingungen und Nebenverträge sind ungültig. Dahin gehören die Verabredungen: daß nach der Verfallzeit der Schuldforderung das Pfandstück dem Gläubiger zufalle; daß er es nach Willkühr, oder in einem schon im voraus bestimmten Preise veräußern, oder für sich behalten könne; daß der Schuldner das Pfand niemahls einlösen, oder ein liegendes Gut keinem Andern verschreiben, oder daß der Gläubiger nach der Verfallzeit die Veräußerung des Pfandes nicht verlangen dürfe.
+`§ 1193 (1) ABGB.`  
+Die Befugnis eines Gesellschafters zur Geschäftsführung kann einem Gesellschafter aufgrund einer Klage aller übrigen Gesellschafter durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsgemäßen Geschäftsführung.
 
-### § 1372 ABGB
+`§ 1193 (2) ABGB.`  
+Ein Gesellschafter kann seine Befugnis zur Geschäftsführung kündigen, wenn ein wichtiger Grund vorliegt. Auf dieses Recht kann nicht verzichtet werden. Die Geschäftsführung darf nur in der Art gekündigt werden, dass die Gesellschafter für die Führung der Geschäfte anderweitig Vorsorge treffen können, es sei denn, dass der wichtige Grund auch die unzeitige Kündigung rechtfertigt.
 
-`§ 1372 ABGB.`  
-Der Nebenvertrag, daß dem Gläubiger die Fruchtnießung der verpfändeten Sache zustehen solle, ist ohne rechtliche Wirkung. Ist dem Gläubiger der bloße Gebrauch eines beweglichen Pfandstückes eingeräumt worden (§. 459), so muß diese Benützung auf eine dem Schuldner unschädliche Art geschehen.
+### § 1194 ABGB # Kontrollrechte der Gesellschafter
 
-### § 1373 ABGB # Auf welche Art in der Regel Sicherstellung zu leisten ist.
+`§ 1194 (1) ABGB.`  
+Ein geschäftsführender Gesellschafter ist verpflichtet, jedem anderen Gesellschafter die erforderlichen Nachrichten zu geben, auf Verlangen über den Stand der Geschäfte Auskunft zu erteilen und Rechenschaft abzulegen. Ein Gesellschafter kann sich, auch wenn er von der Geschäftsführung ausgeschlossen ist, von den Angelegenheiten der Gesellschaft persönlich unterrichten, die Aufzeichnungen der Gesellschaft einsehen und sich aus ihnen eine Abrechnung anfertigen oder die Vorlage einer solchen Abrechnung fordern.
 
-`§ 1373 ABGB.`  
-Wer verbunden ist, eine Sicherstellung zu leisten, muß diese Verbindlichkeit durch ein Handpfand, oder durch eine Hypothek erfüllen. Nur in dem Falle, daß er ein Pfand zu geben außer Stande ist, werden taugliche Bürgen angenommen.
+`§ 1194 (2) ABGB.`  
+Eine Vereinbarung, durch die dieses Recht ausgeschlossen oder beschränkt wird, ist unwirksam.
 
-### § 1374 ABGB
+### § 1195 ABGB # Gewinn und Verlust
 
-`§ 1374 ABGB.`  
-Niemand ist verpflichtet, eine Sache, die zur Sicherstellung dienen soll, in einem höheren Wert als der Hälfte ihres Verkehrswertes zum Pfand anzunehmen. Wer ein angemessenes Vermögen besitzt und im Inland geklagt werden kann, ist ein tauglicher Bürge.
+`§ 1195 (1) ABGB.`  
+Am Schluss jedes Geschäftsjahres wird auf Grund einer Jahresabrechnung der Gewinn oder Verlust ermittelt und der Anteil jedes Gesellschafters daran berechnet.
 
-## Zweytes Hauptstück. # Von Umänderung der Rechte und Verbindlichkeiten.
+`§ 1195 (2) ABGB.`  
+Sofern alle Gesellschafter in gleichem Ausmaß zur Mitwirkung verpflichtet sind, wird der Gewinn und Verlust eines Geschäftsjahres den Gesellschaftern im Verhältnis ihrer Kapitalanteile zugewiesen (§ 1182 Abs. 2). Enthält der Gesellschaftsvertrag eine abweichende Bestimmung nur über den Anteil am Gewinn oder über den Anteil am Verlust, so gilt sie im Zweifel für Gewinn und Verlust.
 
-### § 1375 ABGB # Umänderung der Rechte und Verbindlichkeiten;
+`§ 1195 (3) ABGB.`  
+Sind die Gesellschafter nicht in gleichem Ausmaß zur Mitwirkung verpflichtet, so ist dies bei der Zuweisung des Gewinns angemessen zu berücksichtigen.
 
-`§ 1375 ABGB.`  
-Es hängt von dem Willen des Gläubigers und des Schuldners ab, ihre gegenseitigen willkührlichen Rechte und Verbindlichkeiten umzuändern. Die Umänderung kann ohne, oder mit Hinzukunft einer dritten Person, und zwar entweder eines neuen Gläubigers, oder eines neuen Schuldners geschehen.
+`§ 1195 (4) ABGB.`  
+Einem Arbeitsgesellschafter, dem für seine Dienste keine Beteiligung an der Gesellschaft gewährt wird, ist ein den Umständen nach angemessener Betrag des Jahresgewinns zuzuweisen. Der diesen Betrag übersteigende Teil des Jahresgewinns wird sodann den Gesellschaftern im Verhältnis ihrer Beteiligung zugewiesen.
 
-### § 1376 ABGB # 1) durch Novation;
+`§ 1195 (5) ABGB.`  
+Die Gesellschafterstellung steht der Vereinbarung eines Entgelts für der Gesellschaft geleistete Dienste nicht entgegen.
 
-`§ 1376 ABGB.`  
-Die Umänderung ohne Hinzukunft einer dritten Person findet Statt, wenn der Rechtsgrund, oder wenn der Hauptgegenstand einer Forderung verwechselt wird, folglich die alte Verbindlichkeit in eine neue übergeht.
+### § 1196 ABGB # Gewinnausschüttung und Entnahmen
 
-### § 1377 ABGB
+`§ 1196 (1) ABGB.`  
+Jeder Gesellschafter hat Anspruch auf Auszahlung seines Gewinnanteils. Der Anspruch kann nicht geltend gemacht werden, soweit die Auszahlung zum offenbaren Schaden der Gesellschaft gereicht, die Gesellschafter etwas anderes beschließen oder der Gesellschafter vereinbarungswidrig seine Einlage nicht geleistet hat.
 
-`§ 1377 ABGB.`  
-Eine solche Umänderung heißt Neuerungsvertrag (Novation). Vermöge dieses Vertrages hört die vorige Hauptverbindlichkeit auf, und die neue nimmt zugleich ihren Anfang.
+`§ 1196 (2) ABGB.`  
+Im Übrigen ist ein Gesellschafter nicht befugt, ohne Einwilligung der anderen Gesellschafter Entnahmen zu tätigen.
 
-### § 1378 ABGB
+## 3. Abschnitt # Rechtsverhältnisse zu Dritten
 
-`§ 1378 ABGB.`  
-Die mit der vorigen Hauptverbindlichkeit verknüpften Bürgschafts- Pfand- und anderen Rechte erlöschen durch den Neuerungsvertrag, wenn die Theilnehmer nicht durch ein besonderes Einverständniß hierüber etwas Anderes festgesetzt haben.
+### § 1197 ABGB # Vertretung
 
-### § 1379 ABGB
+`§ 1197 (1) ABGB.`  
+Wenn der Gesellschaftsvertrag einer Außengesellschaft nichts anderes vorsieht, deckt sich die Befugnis zur Vertretung aller Gesellschafter in Gesellschaftsangelegenheiten mit der Befugnis zur Geschäftsführung.
 
-`§ 1379 ABGB.`  
-Die näheren Bestimmungen, wo, wann und wie eine schon vorhandene Verbindlichkeit erfüllet werden soll, und andere Nebenbestimmungen, wodurch in Rücksicht auf den Hauptgegenstand oder Rechtsgrund keine Umänderungen geschieht, sind eben so wenig als ein Neuerungsvertrag anzusehen, als die bloße Ausstellung eines neuen Schuldscheines, oder einer andern dahin gehörigen Urkunde. Auch kann eine solche Abänderung in den Nebenbestimmungen einem Dritten, welcher derselben nicht beygezogen worden ist, keine neue Last auflegen. Im Zweifel wird die alte Verbindlichkeit nicht für aufgelöst gehalten, so lange sie mit der neuen noch wohl bestehen kann.
+`§ 1197 (2) ABGB.`  
+Bei einer unternehmerisch tätigen Außengesellschaft werden alle Gesellschafter aus dem Handeln eines Gesellschafters im Namen der Gesellschaft auch dann berechtigt und verpflichtet, wenn dieser Gesellschafter nicht, nicht allein oder nur beschränkt vertretungsbefugt war, der Dritte den Mangel der Vertretungsbefugnis aber weder kannte noch kennen musste. Dasselbe gilt für nicht unternehmerisch tätige Außengesellschaften, wenn sich die Gesellschafter als Unternehmer an der Gesellschaft beteiligen.
 
-### § 1380 ABGB # 2) Vergleich.
+`§ 1197 (3) ABGB.`  
+Bei Gesamtvertretung genügt die Abgabe einer gesellschaftsbezogenen Willenserklärung gegenüber einem der zur Mitwirkung an der Vertretung befugten Gesellschafter (passive Einzelvertretung).
 
-`§ 1380 ABGB.`  
-Ein Neuerungsvertrag, durch welchen streitige, oder zweifelhafte Rechte dergestalt bestimmt werden, daß jede Partey sich wechselseitig etwas zu geben, zu thun, oder zu unterlassen verbindet, heißt Vergleich. Der Vergleich gehört zu den zweyseitig verbindlichen Verträgen, und wird nach eben denselben Grundsätzen beurtheilet.
+`§ 1197 (4) ABGB.`  
+Wer, ohne Gesellschafter zu sein, mit der Vertretung in Gesellschaftsangelegenheiten betraut wird, vertritt die Gesellschafter nach Maßgabe der erteilten Vollmacht.
 
-### § 1381 ABGB
+### § 1198 ABGB # Entziehung der Vertretungsmacht
 
-`§ 1381 ABGB.`  
-Wer dem Verpflichteten mit dessen Einwilligung ein unstreitiges oder zweifelhaftes Recht unentgeldlich erläßt, macht eine Schenkung (§. 939).
+`§ 1198 ABGB.`  
+Die Vertretungsmacht kann einem Gesellschafter aufgrund einer Klage aller übrigen Gesellschafter durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsgemäßen Vertretung der Gesellschaft.
 
-### § 1382 ABGB # Ungültigkeit eines Vergleiches in Rücksicht des Gegenstandes;
+### § 1199 ABGB # Haftung der Gesellschafter
 
-`§ 1382 ABGB.`  
-Es gibt zweifelhafte Fälle, welche durch einen Vergleich nicht beygelegt werden dürfen. Dahin gehört der zwischen Eheleuten über die Gültigkeit ihrer Ehe entstandene Streit. Diesen kann nur der durch das Gesetz bestimmte Gerichtsstand entscheiden.
+`§ 1199 (1) ABGB.`  
+Für gesellschaftsbezogene Verbindlichkeiten gegenüber Dritten haften die Gesellschafter als Gesamtschuldner, wenn mit diesen nichts anderes vereinbart ist.
 
-### § 1383 ABGB
+`§ 1199 (2) ABGB.`  
+Aus Rechtsgeschäften, die ein Gesellschafter auf Rechnung der Gesellschaft, aber im eigenen Namen abschließt, wird er allein dem Dritten gegenüber berechtigt und verpflichtet.
 
-`§ 1383 ABGB.`  
-Ueber den Inhalt einer letzten Anordnung kann vor deren Bekanntmachung kein Vergleich errichtet werden. Die hierüber entstandene Wette wird nach den Grundsätzen von Glücksverträgen beurtheilt.
+### § 1200 ABGB # Einwendungen des Gesellschafters
 
-### § 1384 ABGB
+`§ 1200 (1) ABGB.`  
+Wird ein Gesellschafter wegen einer gesellschaftsbezogenen Verbindlichkeit in Anspruch genommen, so kann er Einwendungen, die nicht in seiner Person begründet sind, nur insoweit geltend machen, als sie von den Gesellschaftern gemeinsam erhoben werden können.
 
-`§ 1384 ABGB.`  
-Vergleiche über Gesetzübertretungen sind nur in Hinsicht auf die Privat-Genugthuung gültig; die gesetzmäßige Untersuchung und Bestrafung kann dadurch bloß dann abgewendet werden, wenn die Uebertretungen von der Art sind, daß die Behörde nur auf Verlangen der Parteyen ihr Amt zu handeln angewiesen ist.
-
-### § 1385 ABGB # oder anderer Mängel.
-
-`§ 1385 ABGB.`  
-Ein Irrthum kann den Vergleich nur in so weit ungültig machen, als er die Wesenheit der Person, oder des Gegenstandes betrifft.
-
-### § 1386 ABGB
-
-`§ 1386 ABGB.`  
-Aus dem Grunde einer Verletzung über die Hälfte kann ein redlich errichteter Vergleich nicht angefochten werden.
-
-### § 1387 ABGB
-
-`§ 1387 ABGB.`  
-Eben so wenig können neu gefundene Urkunden, wenn sie auch den gänzlichen Mangel eines Rechtes auf Seite einer Partey entdeckten, einen redlich eingegangenen Vergleich entkräften.
-
-### § 1388 ABGB
-
-`§ 1388 ABGB.`  
-Ein offenbarer Rechnungsverstoß, oder ein Fehler, welcher bey dem Abschlusse eines Vergleiches in dem Summiren oder Abziehen begangen wird, schadet keinem der vertragmachenden Theile.
-
-### § 1389 ABGB # Umfang des Vergleiches.
-
-`§ 1389 ABGB.`  
-Ein Vergleich, welcher über eine besondere Streitigkeit geschlossen worden ist, erstreckt sich nicht auf andere Fälle. Selbst allgemeine, auf alle Streitigkeiten überhaupt lautende Vergleiche sind auf solche Rechte nicht anwendbar, die geflissentlich verheimlichet worden sind, oder auf welche die sich vergleichenden Parteyen nicht denken konnten.
-
-### § 1390 ABGB # Wirkung in Rücksicht der Nebenverbindlichkeiten.
-
-`§ 1390 ABGB.`  
-Bürgen und Pfänder, welche zur Sicherheit des ganzen noch streitigen Rechtes gegeben worden sind, haften auch für den Theil, der durch den Vergleich bestimmt worden ist. Doch bleiben dem Bürgen und einem dritten Verpfänder, welche dem Vergleiche nicht beygestimmt haben, alle Einwendungen gegen den Gläubiger vorbehalten, welche ohne geschlossenen Vergleich der Forderung hätten entgegengesetzt werden können.
-
-### § 1391 ABGB
-
-`§ 1391 ABGB.`  
-Der Vertrag, wodurch Parteyen zur Entscheidung streitiger Rechte einen Schiedsrichter bestellen, erhält seine Bestimmung in der Gerichtsordnung.
-
-### § 1392 ABGB # 3) Cession.
-
-`§ 1392 ABGB.`  
-Wenn eine Forderung von einer Person an die andere übertragen, und von dieser angenommen wird; so entsteht die Umänderung des Rechtes mit Hinzukunft eines neuen Gläubigers. Eine solche Handlung heißt Abtretung (Cession), und kann mit, oder ohne Entgeld geschlossen werden.
-
-### § 1393 ABGB # Gegenstände der Cession.
-
-`§ 1393 ABGB.`  
-Alle veräußerliche Rechte sind ein Gegenstand der Abtretung. Rechte, die der Person ankleben, folglich mit ihr erlöschen, können nicht abgetreten werden. Schuldscheine, die auf den Ueberbringer lauten, werden schon durch die Uebergabe abgetreten, und bedürfen nebst dem Besitze keines andern Beweises der Abtretung.
-
-### § 1394 ABGB # Wirkung.
-
-`§ 1394 ABGB.`  
-Die Rechte des Uebernehmers sind mit den Rechten des Ueberträgers in Rücksicht auf die überlassene Forderung eben dieselben.
-
-### § 1395 ABGB
-
-`§ 1395 ABGB.`  
-Durch den Abtretungsvertrag entsteht nur zwischen dem Ueberträger (Cedent) und dem Uebernehmer der Forderung (Cessionar); nicht aber zwischen dem Letzten und dem übernommenen Schuldner (Cessus) eine neue Verbindlichkeit. Daher ist der Schuldner, so lange ihm der Uebernehmer nicht bekannt wird, berechtiget, den ersten Gläubiger zu bezahlen, oder sich sonst mit ihm abzufinden.
-
-### § 1396 ABGB
-
-`§ 1396 ABGB.`  
-Dieses kann der Schuldner nicht mehr, so bald ihm der Uebernehmer bekannt gemacht worden ist; allein es bleibt ihm das Recht, seine Einwendungen gegen die Forderung anzubringen. Hat er die Forderung gegen den redlichen Uebernehmer für richtig erkannt; so ist er verbunden, denselben als seinen Gläubiger zu befriedigen.
-
-### § 1396a ABGB # Zessionsverbot
-
-`§ 1396a (1) ABGB.`  
-Eine Vereinbarung, dass eine Geldforderung zwischen Unternehmern aus unternehmerischen Geschäften nicht abgetreten werden darf (Zessionsverbot), ist nur verbindlich, wenn sie im Einzelnen ausgehandelt worden ist und den Gläubiger unter Berücksichtigung aller Umstände des Falles nicht gröblich benachteiligt. Auch ein solches Zessionsverbot steht der Wirksamkeit einer Abtretung aber nicht entgegen; sobald die Abtretung und der Übernehmer dem Schuldner bekannt gemacht worden sind, kann dieser nicht mehr mit schuldbefreiender Wirkung an den Überträger leisten, es sei denn, dass ihm dabei nur leichte Fahrlässigkeit zur Last fällt.
-
-`§ 1396a (2) ABGB.`  
-Rechte des Schuldners gegen den Überträger wegen der Verletzung eines verbindlichen Zessionsverbots bleiben unberührt, sie können aber gegen die Forderung nicht eingewendet werden. Der Übernehmer haftet dem Schuldner nicht allein deshalb, weil er das Zessionsverbot gekannt hat.
-
-`§ 1396a (3) ABGB.`  
-Die Abs. 1 und 2 gelten nicht für Zessionsverbote, die zwischen einer juristischen Person des öffentlichen Rechts oder einer von dieser gegründeten Einrichtung und einem Förderungswerber vereinbart werden.
-
-### § 1397 ABGB # Haftung des Cedenten.
-
-`§ 1397 ABGB.`  
-Wer eine Forderung ohne Entgeld abtritt, also verschenkt, haftet nicht weiter für dieselbe. Kommt aber die Abtretung auf eine entgeldliche Art zu Stande; so haftet der Ueberträger dem Uebernehmer sowohl für die Richtigkeit, als für die Einbringlichkeit der Forderung, jedoch nie für mehr, als er von dem Uebernehmer erhalten hat.
-
-### § 1398 ABGB
-
-`§ 1398 ABGB.`  
-In so fern der Uebernehmer über die Einbringlichkeit der Forderung aus den öffentlichen Pfandbüchern sich belehren konnte, gebührt ihm in Rücksicht der Uneinbringlichkeit keine Entschädigung. Auch für eine zur Zeit der Abtretung einbringliche, und durch einen bloßen Zufall oder durch Versehen des Uebernehmers uneinbringlich gewordene Forderung haftet der Ueberträger nicht.
-
-### § 1399 ABGB
-
-`§ 1399 ABGB.`  
-Ein Versehen dieser Art begeht der Uebernehmer, wenn er die Forderung zur Zeit, als sie aufgekündiget werden kann, nicht aufkündiget, oder nach verfallener Zahlungsfrist nicht eintreibt; wenn er dem Schuldner nachsieht; wenn er die noch mögliche Sicherheit zu rechter Zeit sich zu verschaffen versäumt, oder die gerichtliche Execution zu betreiben unterläßt.
-
-### § 1400 ABGB # 4) Anweisung (Assignation).
-
-`§ 1400 ABGB.`  
-Durch die Anweisung auf eine Leistung eines Dritten wird der Empfänger der Anweisung (Assignatar) zur Einhebung der Leistung bei dem Angewiesenen (Assignat) und der letztere zur Leistung an ersteren für Rechnung des Anweisenden (Assignant) ermächtigt. Einen unmittelbaren Anspruch erlangt der Anweisungsempfänger gegen den Angewiesenen erst, wenn die Erklärung des Angewiesenen über die Annahme der Anweisung ihm zugekommen ist.
-
-### § 1401 ABGB
-
-`§ 1401 (1) ABGB.`  
-Insoweit der Angewiesene das zu Leistende dem Anweisenden bereits schuldet, ist er diesem gegenüber verpflichtet, der Anweisung Folge zu leisten. Wenn durch die Anweisung eine Schuld des Anweisenden bei dem Empfänger, der die Anweisung angenommen hat, getilgt werden soll, ist der Empfänger verpflichtet, den Angewiesenen zur Leistung aufzufordern.
-
-`§ 1401 (2) ABGB.`  
-Will der Empfänger von der Anweisung keinen Gebrauch machen oder verweigert der Angewiesene die Annahme oder die Leistung, so hat der Empfänger dies dem Anweisenden ohne Verzug anzuzeigen.
-
-`§ 1401 (3) ABGB.`  
-Die Tilgung der Schuld erfolgt, wenn nichts anderes vereinbart ist, erst durch die Leistung.
-
-### § 1402 ABGB
-
-`§ 1402 ABGB.`  
-Hat der Angewiesene die Anweisung dem Empfänger gegenüber angenommen, so kann er diesem nur solche Einwendungen entgegensetzen, welche die Gültigkeit der Annahme betreffen oder sich aus dem Inhalte der Anweisung oder aus seinen persönlichen Beziehungen zum Empfänger ergeben.
-
-### § 1403 ABGB
-
-`§ 1403 (1) ABGB.`  
-Solange der Angewiesene die Anweisung noch nicht dem Empfänger gegenüber angenommen hat, kann sie der Anweisende widerrufen. Besteht zwischen dem Anweisenden und dem Angewiesenen kein anderer Rechtsgrund, so gelten für das Rechtsverhältnis zwischen beiden die Vorschriften über den Bevollmächtigungsvertrag; die Anweisung erlischt jedoch nicht durch den Tod des Anweisenden oder Angewiesenen. Inwiefern die Aufhebung der Anweisung auch gegenüber dem Empfänger rechtswirksam ist, bestimmt sich nach dem zwischen diesem und dem Anweisenden obwaltenden Rechtsverhältnis.
-
-`§ 1403 (2) ABGB.`  
-Der Anspruch des Empfängers gegen den Angewiesenen verjährt in drei Jahren.
-
-### § 1404 ABGB # 5. Schuldübernahme
-
-`§ 1404 ABGB.`  
-Wer einem Schuldner verspricht, die Leistung an dessen Gläubiger zu bewirken (Erfüllungsübernahme), haftet dem Schuldner dafür, daß der Gläubiger ihn nicht in Anspruch nehme. Dem Gläubiger erwächst daraus unmittelbar kein Recht.
-
-### § 1405 ABGB
-
-`§ 1405 ABGB.`  
-Wer einem Schuldner erklärt, seine Schuld zu übernehmen (Schuldübernahme), tritt als Schuldner an dessen Stelle, wenn der Gläubiger einwilligt. Bis diese Einwilligung erfolgt oder falls sie verweigert wird, haftet er wie bei Erfüllungsübernahme (§ 1404). Die Einwilligung des Gläubigers kann entweder dem Schuldner oder dem Übernehmer erklärt werden.
-
-### § 1406 ABGB
-
-`§ 1406 (1) ABGB.`  
-Auch ohne Vereinbarung mit dem Schuldner kann ein Dritter durch Vertrag mit dem Gläubiger die Schuld übernehmen.
-
-`§ 1406 (2) ABGB.`  
-Im Zweifel ist aber die dem Gläubiger erklärte Übernahme als Haftung neben dem bisherigen Schuldner, nicht an dessen Stelle zu verstehen.
-
-### § 1407 ABGB
-
-`§ 1407 (1) ABGB.`  
-Die Verbindlichkeiten des Übernehmers sind mit den Verbindlichkeiten des bisherigen Schuldners in Rücksicht auf die übernommene Schuld ebendieselben. Der Übernehmer kann dem Gläubiger die aus dem Rechtsverhältnis zwischen diesem und dem bisherigen Schuldner entspringenden Einwendungen entgegensetzen.
-
-`§ 1407 (2) ABGB.`  
-Die Nebenrechte der Forderung werden durch den Schuldnerwechsel nicht berührt. Bürgen und von dritten Personen bestellte Pfänder haften jedoch nur dann fort, wenn der Bürge oder Verpfänder dem Schuldnerwechsel zugestimmt hat.
-
-### § 1408 ABGB
-
-`§ 1408 ABGB.`  
-Übernimmt bei Veräußerung einer Liegenschaft der Erwerber ein auf ihr haftendes Pfandrecht, so ist dies im Zweifel als Schuldübernahme zu verstehen. Der Veräußerer kann, nach vollzogener Übertragung des Eigentums, den Gläubiger zur Annahme des neuen Schuldners an seiner Stelle schriftlich mit der Wirkung auffordern, daß die Einwilligung als erteilt gilt, wenn sie nicht binnen sechs Monaten versagt wird. Auf diese Wirkung muß in der Aufforderung ausdrücklich hingewiesen sein.
-
-### § 1409 ABGB
-
-`§ 1409 (1) ABGB.`  
-Übernimmt jemand ein Vermögen oder ein Unternehmen, so ist er unbeschadet der fortdauernden Haftung des Veräußerers den Gläubigern aus den zum Vermögen oder Unternehmen gehörigen Schulden, die er bei der Übergabe kannte oder kennen mußte, unmittelbar verpflichtet. Er wird aber von der Haftung insoweit frei, als er an solchen Schulden schon so viel berichtigt hat, wie der Wert des übernommenen Vermögens oder Unternehmens beträgt.
-
-`§ 1409 (2) ABGB.`  
-Ist jedoch ein naher Angehöriger des Veräußerers (§ 32 IO) der Übernehmer, so trifft ihn diese Verpflichtung, soweit er nicht beweist, daß ihm die Schulden bei der Übergabe weder bekannt waren noch bekannt sein mußten.
-
-`§ 1409 (3) ABGB.`  
-Entgegenstehende Vereinbarungen zwischen Veräußerer und Übernehmer zum Nachteile der Gläubiger sind diesen gegenüber unwirksam.
-
-### § 1409a ABGB
-
-`§ 1409a ABGB.`  
-Wer ein Vermögen oder ein Unternehmen im Weg eines Zwangsvollstreckungsverfahrens, eines Insolvenzverfahrens oder einer Überwachung des Schuldners durch einen Treuhänder der Gläubiger erwirbt, haftet nicht nach § 1409 Abs. 1 und 2.
-
-### § 1410 ABGB
-
-`§ 1410 ABGB.`  
-Wird der Eintritt des neuen Schuldners an Stelle des bisherigen Schuldners in der Weise verabredet, daß an die Stelle des aufgehobenen Schuldverhältnisses eine Verpflichtung des neuen Schuldners aus selbständigem Rechtsgrunde oder unter Änderung des Hauptgegenstandes der Forderung gesetzt wird, so treten nicht die Wirkungen der Schuldübernahme, sondern eines Neuerungsvertrages (§§ 1377, 1378) ein.
+`§ 1200 (2) ABGB.`  
+Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange den Gesellschaftern gemeinsam das Recht zusteht, das ihrer Verbindlichkeit zugrunde liegende Rechtsgeschäft anzufechten oder ihre Verbindlichkeit durch Aufrechnung mit einer fälligen Forderung zu erfüllen.
 
 `END-OF-DATA-FILE`

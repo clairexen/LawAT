@@ -6,183 +6,344 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Fünftes Hauptstück
+## Neun u. zwanzigstes Hauptstück. # Von den Glücksverträgen.
 
-### § 1503 ABGB # Inkrafttreten und Übergangsbestimmungen ab 1. Februar 2013
+### § 1267 ABGB # Glücksverträge.
 
-`§ 1503 (1) ABGB.`  
-Für das Inkrafttreten des Kindschafts- und Namensrechts-Änderungsgesetzes 2013, BGBl. I 15/2013, gilt Folgendes:  
-`§ 1503 (1) Z 1 ABGB.`
-Das Kindschafts- und Namensrechts-Änderungsgesetzes 2013 tritt, soweit im Folgenden nichts anderes bestimmt ist, mit 1. Februar 2013 in Kraft.  
-`§ 1503 (1) Z 2 ABGB.`
-Die §§ 93 bis 93c in der Fassung dieses Bundesgesetzes sind auf Ehegatten anzuwenden, die die Ehe nach dem 31. März 2013 schließen.  
-`§ 1503 (1) Z 3 ABGB.`
-Die §§ 148 Abs. 3 und 152 in der Fassung dieses Bundesgesetzes sind auf zu gerichtlichem Protokoll erklärte Zustimmungen entsprechend anzuwenden.  
-`§ 1503 (1) Z 4 ABGB.`
-Die §§ 155 bis 157 in der Fassung dieses Bundesgesetzes sind auf Kinder anzuwenden, deren Geburt oder Annahme an Kindesstatt nach dem 31. März 2013 beurkundet wird. § 139 in der Fassung des NamRÄG 1995, BGBl. Nr. 25/1995, ist auf Kinder anzuwenden, deren Geburt vor dem 1. April 2013 beurkundet wird.  
-`§ 1503 (1) Z 5 ABGB.`
-Ehegatten, die die Ehe vor dem 1. April 2013 geschlossen haben, können ihre Namen ab dem 1. September 2013 nach den Regeln dieses Bundesgesetzes bestimmen. Gleichermaßen können für Kinder, deren Geburt oder Annahme an Kindesstatt vor diesem Zeitpunkt beurkundet worden ist, die Namen ab dem 1. September 2013 nach den Regeln dieses Bundesgesetzes bestimmt werden.  
-`§ 1503 (1) Z 6 ABGB.`
-Unbeschadet der Z 6 sind die §§ 93 Abs. 2 und 155 Abs. 2 in der Fassung dieses Bundesgesetzes anzuwenden, wenn die Änderung des Familiennamens des Ehegatten oder der Eltern oder eines Elternteils nach dem 31. März 2013 beurkundet wird.  
-`§ 1503 (1) Z 7 ABGB.`
-Rechte und Pflichten zum Gebrauch eines Namens, die auf Grund eines vor dem 1. April 2013 erfolgten namensrechtlich bedeutsamen Ereignisses erworben oder entstanden sind, bleiben unberührt.  
-`§ 1503 (1) Z 8 ABGB.`
-§ 142 samt Überschrift in der Fassung dieses Bundesgesetzes ist, außer in vor dem auf die Kundmachung folgenden Tag anhängig gemachten gerichtlichen Verfahren auch auf Anerkenntnisse anzuwenden, die vor dem Inkrafttreten des § 142 erklärt worden sind. § 142 tritt mit dem auf die Kundmachung dieses Bundesgesetzes im Bundesgesetzblatt folgenden Tag in Kraft.  
-`§ 1503 (1) Z 9 ABGB.`
-Verordnungen zur Durchführung dieses Bundesgesetzes können ab dem auf die Kundmachung im Bundesgesetzblatt folgenden Tag an erlassen werden; sie treten frühestens mit 1. Februar 2013 in Kraft.
+`§ 1267 ABGB.`  
+Ein Vertrag, wodurch die Hoffnung eines noch ungewissen Vortheiles versprochen und angenommen wird, ist ein Glücksvertrag. Er gehört, je nachdem etwas dagegen versprochen wird oder nicht, zu den entgeltlichen oder unentgeldlichen Verträgen.
 
-`§ 1503 (1) Z 9 (2) 1 ABGB.`  
-Die §§ 905, 907a, 1417 und 1420 in der Fassung des Zahlungsverzugsgesetzes, BGBl. I Nr. 50/2013, sowie die Änderung der Paragraphenbezeichnung des bisherigen § 905a in § 907b und des bisherigen § 905b in § 905a durch dieses Bundesgesetz treten mit 16. März 2013 in Kraft. Die genannten Bestimmungen sind in der Fassung des Zahlungsverzugsgesetzes auf Rechtsverhältnisse anzuwenden, die ab dem 16. März 2013 begründet werden. Auf Rechtsverhältnisse, die vor dem 16. März 2013 begründet wurden, sind die bisherigen Bestimmungen weiter anzuwenden; wenn solche früher begründeten Rechtsverhältnisse jedoch wiederholte Geldleistungen vorsehen, gelten die neuen Bestimmungen für diejenigen Zahlungen, die ab dem 16. März 2013 fällig werden.  
-`§ 1503 (1) Z 9 Z 2 ABGB.`
-§ 1100 in der Fassung des Zahlungsverzugsgesetzes, BGBl. I Nr. 50/2013, tritt mit 16. März 2013 in Kraft und ist in dieser Fassung auch auf Verträge anzuwenden, die vor diesem Zeitpunkt geschlossen wurden.
+### § 1268 ABGB
 
-`§ 1503 (3) ABGB.`  
-§§ 197, 199 und 201 in der Fassung des Adoptionsrechts-Änderungsgesetzes 2013, BGBl. I Nr. 179/2013, treten mit 1. August 2013 in Kraft. Sie sind in dieser Fassung auch auf Annahmen an Kindes statt anzuwenden, bei denen der schriftliche Vertrag vor dem 31. Juli 2013 geschlossen wurde.
+`§ 1268 ABGB.`  
+Bey Glücksverträgen findet das Rechtmittel wegen Verkürzung über die Hälfte des Werthes nicht Statt.
 
-`§ 1503 (4) ABGB.`  
-Die §§ 429, 905 und 1420 in der Fassung des Verbraucherrechte-Richtlinie-Umsetzungsgesetzes, BGBl. I Nr. 33/2014, treten mit 13. Juni 2014 in Kraft.
+### § 1269 ABGB # Arten der Glücksverträge;
 
-`§ 1503 (5) ABGB.`  
-Für das Inkrafttreten des GesbR-Reformgesetzes, BGBl. I Nr. 83/2014, gilt Folgendes:  
-`§ 1503 (5) Z 1 ABGB.`
-§ 826 und die§§ 1175 bis 1216e in der Fassung des GesbR-Reformgesetzes treten mit 1. Jänner 2015 in Kraft. Soweit im Folgenden nichts anderes bestimmt ist, sind auf Sachverhalte, die sich vor diesem Zeitpunkt ereignet haben, die bisher geltenden Bestimmungen des 27. Hauptstücks des zweiten Teils weiter anzuwenden.  
-`§ 1503 (5) Z 2 ABGB.`
-Unbeschadet des Vorrangs gesellschaftsvertraglicher Vereinbarungen (§ 1181 in der Fassung des GesbR-Reformgesetzes) gelten die §§ 1182 bis 1196, die §§ 1203 bis 1205, die §§ 1208 bis 1211, § 1213 und § 1214 Abs. 1 in der Fassung des GesbR-Reformgesetzes ab 1. Juli 2016 für Gesellschaften bürgerlichen Rechts, die vor dem 1. Jänner 2015 gebildet wurden, wenn bis zum Ablauf des 30. Juni 2016 keiner der Gesellschafter gegenüber den übrigen Gesellschaftern erklärt, die Anwendung des zuvor geltenden Rechts beibehalten zu wollen.  
-`§ 1503 (5) Z 3 ABGB.`
-Ab 1. Jänner 2022 gelten die §§ 1182 bis 1196, die §§ 1203 bis 1205, die §§ 1208 bis 1211, § 1213 und § 1214 Abs. 1 in der Fassung des GesbR-Reformgesetzes unbeschadet des Vorrangs gesellschaftsvertraglicher Vereinbarungen (§ 1181 in der Fassung des GesbR-Reformgesetzes) jedenfalls auch für Gesellschaften bürgerlichen Rechts, die vor dem 1. Jänner 2015 gebildet wurden.
+`§ 1269 ABGB.`  
+Glücksverträge sind: die Wette; das Spiel und das Los; alle über gehoffte Rechte, oder über künftige noch unbestimmte Sachen errichtete Kauf- und andere Verträge; ferner, die Leibrenten; die gesellschaftlichen Versorgungsanstalten; endlich die Versicherungs- und Bodmereyverträge.
 
-`§ 1503 (6) ABGB.`  
-§§ 144 und 145 Abs. 1 in der Fassung des Fortpflanzungsmedizinrechts-Änderungsgesetzes 2015, BGBl. I Nr. 35/2015, treten mit 1. Jänner 2015 in Kraft und sind auf ab dem 1. Jänner 2015 geborene und im Wege medizinisch unterstützter Fortpflanzung gezeugte Kinder anzuwenden.
+### § 1270 ABGB # 1) die Wette;
 
-`§ 1503 (7) ABGB.`  
-Für das Inkrafttreten des Erbrechts-Änderungsgesetzes 2015, BGBl. I Nr. 87/2015 (ErbRÄG 2015), gilt Folgendes:  
-`§ 1503 (7) Z 1 ABGB.`
-Die §§ 199, 233, 269, 308, 531 bis 543, 546 bis 560, 563 bis 572, 575 bis 591, 601 bis 617, 647 bis 654, 656 bis 667, 672 bis 678, 681 bis 699, 701 bis 703, 705 bis 719, 721 bis 749, 750 Abs. 1, die §§ 751 bis 792, 797 bis 809, die Überschriften vor § 810, die §§ 811 bis 817, 819 bis 821, 823, 824, 1205, 1249, 1251 bis 1254, 1278 bis 1283, 1462, 1487 und 1487a samt Überschriften in der Fassung des ErbRÄG 2015 und der Entfall der §§ 544, 545, 561, 562, 573, 594 bis 597, 646, 655, 668, 679, 680, 700, 704, 720, 793 bis 796, 818, 822, 951, 952, 956, 1248, 1250 und 1266 letzter Satz samt Überschriften treten mit 1. Jänner 2017 in Kraft.  
-`§ 1503 (7) Z 2 ABGB.`
-Soweit im Folgenden nichts anderes bestimmt ist, sind die nach Z 1 mit 1. Jänner 2017 in Kraft tretenden Bestimmungen anzuwenden, wenn der Verstorbene nach dem 31. Dezember 2016 verstorben ist.  
-`§ 1503 (7) Z 3 ABGB.`
-§ 551 Abs. 1 in der Fassung des ErbRÄG 2015 ist auf nach dem 31. Dezember 2016 vorgenommene Aufhebungen von Erbverzichten anzuwenden.  
-`§ 1503 (7) Z 4 ABGB.`  
-`§ 1503 (7) Z 4 lit. a) ABGB.`
-Anordnungen der Gerichte nach § 568 in der bis 31. Dezember 2016 geltenden Fassung, wonach eine Person unter Sachwalterschaft nur mündlich vor Gericht oder Notar testieren kann, verlieren mit 1. Jänner 2017 ihre Gültigkeit.  
-`§ 1503 (7) Z 4 lit. b) ABGB.`
-Gleiches gilt insoweit für die vor dem 1. Jänner 2005 erlassenen gerichtlichen Beschlüsse über die Bestellung eines Sachwalters, mit denen die Einschränkung der Testierfreiheit der behinderten Person verbunden war. Art. IV § 8 Familien- und Erbrechts-Änderungsgesetz 2004, BGBl. I Nr. 58/2004, wird mit Ablauf des 31. Dezember 2016 aufgehoben.  
-`§ 1503 (7) Z 4 lit. c) ABGB.`
-Die auf Grundlage der in lit. a und b genannten Bestimmungen errichteten letztwilligen Verfügungen bleiben aufrecht.  
-`§ 1503 (7) Z 5 ABGB.`
-Die §§ 577 bis 591 und 603 in der Fassung des ErbRÄG 2015 sind auf letztwillige Verfügungen und Schenkungen auf den Todesfall anzuwenden, die nach dem 31. Dezember 2016 errichtet wurden.  
-`§ 1503 (7) Z 6 ABGB.`
-§ 750 Abs. 2 in der Fassung des ErbRÄG 2015 tritt mit 17. August 2015 in Kraft und ist anzuwenden, wenn der Verstorbene an oder nach diesem Tag gestorben ist.  
-`§ 1503 (7) Z 7 ABGB.`
-Die §§ 752 und 753 sowie § 785 in der Fassung des ErbRÄG 2015 sind auf nach dem 31. Dezember 2016 vorgenommene Anrechnungsvereinbarungen und Anrechnungsaufhebungen anzuwenden.  
-`§ 1503 (7) Z 8 ABGB.`
-Die §§ 797 bis 809, 811 bis 817, 819 bis 821, 823, 824 in der Fassung des ErbRÄG 2015 sind anzuwenden, wenn das Verlassenschaftsverfahren nach dem 31. Dezember 2016 anhängig gemacht worden ist.  
-`§ 1503 (7) Z 9 ABGB.`
-§ 1487a in der Fassung des ErbRÄG 2015 ist ab dem 1. Jänner 2017 auf das Recht, eine Erklärung des letzten Willens umzustoßen, den Geldpflichtteil zu fordern, letztwillige Bedingungen oder Belastungen von Zuwendungen anzufechten, nach erfolgter Einantwortung ein besseres oder gleichwertiges Recht geltend zu machen, den Geschenknehmer wegen Verkürzung des Pflichtteils in Anspruch zu nehmen oder sonstige Rechte aus einem Geschäft von Todes wegen zu fordern, anzuwenden, wenn dieses Recht am 1. Jänner 2017 nach dem bis dahin geltenden Recht nicht bereits verjährt ist. Der Lauf der in § 1487a vorgesehenen kenntnisabhängigen Frist beginnt in solchen Fällen mit dem 1. Jänner 2017.
+`§ 1270 ABGB.`  
+Wenn über ein beyden Theilen noch unbekanntes Ereigniß ein bestimmter Preis zwischen ihnen für denjenigen, dessen Behauptung der Erfolg entspricht, verabredet wird: so entsteht eine Wette. Hatte der gewinnende Theil von dem Ausgange Gewißheit, und verheimlichte er sie dem andern Theile; so macht er sich einer Arglist schuldig, und die Wette ist ungültig; der verlierende Theil aber, dem der Ausgang vorher bekannt war, ist als ein Geschenkgeber anzusehen.
 
-`§ 1503 (8) ABGB.`  
-§ 1209 in der Fassung des Bundesgesetzes BGBl. I Nr. 43/2016 tritt mit 1. Juli 2016 in Kraft Abs. 5 ist auch auf dessen nunmehrige Fassung anzuwenden.
+### § 1271 ABGB
 
-`§ 1503 (9) ABGB.`  
-Für das Inkrafttreten des 2. Erwachsenenschutz-Gesetzes, BGBl. I Nr. 59/2017 (2. ErwSchG), gilt Folgendes:  
-`§ 1503 (9) Z 1 ABGB.`
-Die §§ 21, 24, 141, 146, 147 Abs. 1 bis 3, 153, 154, 156, 158, 164, 172, 173, 176, 191, 192, 194 bis 196 Abs. 1 Z 1 und Abs. 2, 200 bis 202, 205, 207 zweiter Satz, 213 bis 216, 218, 220 bis 224, 228 bis 230, 239 bis 284, 310, 865, 1034, 1421, 1433, 1437, 1454, 1494 und 1495 samt Überschriften und die Überschriften vor §§ 142, 217, 218 und 219 in der Fassung des 2. ErwSchG sowie der Entfall des § 175 und der §§ 284a bis 284h samt Überschriften treten mit 1. Juli 2018 in Kraft.  
-`§ 1503 (9) Z 2 ABGB.`
-Die §§ 147 Abs. 4, 149, 181, 185, 188, 196 Abs. 1 Z 4, 207 erster Satz bis 212 und 225 in der Fassung des Art. 1 Z 8 treten mit dem auf die Kundmachung dieses Bundesgesetzes folgenden Tag in Kraft.  
-`§ 1503 (9) Z 3 ABGB.`
-Die §§ 705, 752, 758 und 1445 in der Fassung des 2. ErwSchG treten mit 2. 1. 2017 in Kraft; Abs. 7 in der Fassung des Erbrechts-Änderungsgesetzes 2015, BGBl. I Nr. 87/2015, bleibt ansonsten unberührt.  
-`§ 1503 (9) Z 4 ABGB.`
-Soweit im Folgenden nichts anderes bestimmt ist, sind die nach Z 1 mit 1. Juli 2018 in Kraft tretenden Bestimmungen auf Sachverhalte anzuwenden, die sich nach dem 30. Juni 2018 ereignen oder über diesen Zeitpunkt hinaus andauern.  
-`§ 1503 (9) Z 5 ABGB.`
-Die §§ 158 und 207 in der Fassung des 2. ErwSchG sind auf die Ausübung und Betrauung mit der Obsorge nach dem 30. Juni 2018 anzuwenden.  
-`§ 1503 (9) Z 6 ABGB.`
-Die §§ 164, 214 bis 224 sowie 228 und 229 in der Fassung des 2. ErwSchG sind nach dem 30. Juni 2018 auf die Verwaltung von Vermögen anzuwenden.  
-`§ 1503 (9) Z 7 ABGB.`
-Die Aufhebung des § 175 in der Fassung des 2. ErwSchG ist auch in gerichtlichen Verfahren anzuwenden, die am 1. Juli 2018 noch anhängig sind; Anordnungen der Gerichte nach § 175 in der bis 30. Juni 2018 geltenden Fassung verlieren mit 1. Juli 2018 ihre Gültigkeit.  
-`§ 1503 (9) Z 8 ABGB.`
-Die §§ 252 bis 256 in der Fassung des 2. ErwSchG sind auf medizinische Behandlungen, Sterilisationen und Forschungen anzuwenden, die nach dem 30. Juni 2018 begonnen oder abgebrochen werden. § 257 in der Fassung des 2. ErwSchG ist anzuwenden, wenn die Wohnortänderung nach dem 30. Juni 2018 erfolgt.  
-`§ 1503 (9) Z 9 ABGB.`
-Bei der Auswahl des gerichtlichen Erwachsenenvertreters ist auf Sachwalterverfügungen im Sinn des § 279 Abs. 1 in der bis zum 2. ErwSchG geltenden Fassung auch nach dem 30. Juni 2018 Bedacht zu nehmen.  
-`§ 1503 (9) Z 10 ABGB.`
-Sachwalter, die vor dem 1. Juli 2018 bestellt wurden, sind nach dem 30. Juni 2018 gerichtliche Erwachsenenvertreter. Für sie gelten die Vorschriften des sechsten Hauptstücks des ersten Teils in der Fassung des 2. ErwSchG, soweit in den Z 11 bis 14 nichts anderes bestimmt ist.  
-`§ 1503 (9) Z 11 ABGB.`
-Die §§ 274 und 275 in der Fassung des 2. ErwSchG sind – außer in einem Erneuerungsverfahren nach Z 14 – auf gerichtliche Erwachsenenvertreter im Sinn der Z 10 nicht anzuwenden.  
-`§ 1503 (9) Z 12 ABGB.`
-Bis zum 30. Juni 2019 besteht im Fall einer gerichtlichen Erwachsenenvertretung im Sinn der Z 10 auch ohne gerichtliche Anordnung im gesamten Wirkungsbereich des ehemaligen Sachwalters und nunmehrigen gerichtlichen Erwachsenenvertreters ein Genehmigungsvorbehalt im Sinn des § 242 Abs. 2 in der Fassung des 2. ErwSchG. Nach dem 30. Juni 2019 besteht für Personen, für die vor dem 1. Juli 2018 ein Sachwalter bestellt worden ist, nur ein Genehmigungsvorbehalt, wenn und soweit er gerichtlich angeordnet wird.  
-`§ 1503 (9) Z 13 ABGB.`
-Stellen gerichtliche Erwachsenenvertreter im Sinn der Z 10 nach dem 30. Juni 2018 einen Antrag auf Gewährung von Entgelt, Entschädigung oder Aufwandersatz, so ist dieser Anspruch nach § 276 in der Fassung des 2. ErwSchG zu beurteilen, wenn zumindest die Hälfte des Abrechnungszeitraumes nach dem 30. Juni 2018 liegt. Liegt mehr als die Hälfte des Abrechnungszeitraumes vor dem 30. Juni 2018, so ist § 276 in der Fassung bis zum 30. Juni 2018 anzuwenden.  
-`§ 1503 (9) Z 14 ABGB.`
-Das Gericht hat nach dem 30. Juni 2018 unter sinngemäßer Anwendung des § 278 Abs. 3 in der bis zum 2. ErwSchG geltenden Fassung für alle gerichtlichen Erwachsenenvertretungen im Sinn der Z 10 von Amts wegen ein Erneuerungsverfahren einzuleiten. Eine gerichtliche Erwachsenenvertretung im Sinn der Z 10 endet jedenfalls mit 1. Jänner 2024, es sei denn, es wurde davor ein Erneuerungsverfahren eingeleitet; diesfalls bleibt die Erwachsenenvertretung bis zur rechtskräftigen Entscheidung über die Erneuerung aufrecht.  
-`§ 1503 (9) Z 15 ABGB.`
-Vorsorgevollmachten, die vor dem 1. Juli 2018 wirksam errichtet worden sind, behalten ihre Gültigkeit. Der Eintritt des Vorsorgefalls kann für diese nach dem 30. Juni 2018 nur nach Maßgabe des § 263 in der Fassung des 2. ErwSchG im Österreichischen Zentralen Vertretungsverzeichnis eingetragen werden. Auf solche Vorsorgevollmachten sind die Vorschriften des sechsten Hauptstücks des ersten Teils in der Fassung des 2. ErwSchG anzuwenden. Vorsorgevollmachten, deren Wirksamwerden vor dem 1. Juli 2018 im Österreichischen Zentralen Vertretungsverzeichnis registriert wurden, sind so zu behandeln, als wäre die Registrierung nach diesem Zeitpunkt erfolgt.  
-`§ 1503 (9) Z 16 ABGB.`
-Als gesetzlicher Erwachsenenvertreter kommt eine Person nicht in Betracht, gegen die sich ein vor dem 1. Juli 2018 im Österreichischen Vertretungsverzeichnis eingetragener Widerspruch gegen die Vertretungsbefugnis nächster Angehöriger richtet. Personen, die in vor dem 1. Juli 2018 errichteten Sachwalterverfügungen genannt wurden, gelten nicht als nächste Angehörige im Sinn des § 268 Abs. 2 letzter Fall in der Fassung des 2. ErwSchG.  
-`§ 1503 (9) Z 17 ABGB.`
-Vertretungsbefugnisse nächster Angehöriger, die vor dem 1. Juli 2018 registriert worden sind, bleiben bestehen und enden spätestens mit Ablauf des 30. Juni 2021. Auf solche Angehörigenvertretungen sind nach dem 30. Juni 2018 weiterhin die §§ 284b bis 284e in der bis zum 2. ErwSchG geltenden Fassung sowie zusätzlich § 246 Abs. 3 in der Fassung des 2. ErwSchG anzuwenden.  
-`§ 1503 (9) Z 18 ABGB.`
-Die §§ 277 bis 284 in der Fassung des 2. ErwSchG sind anzuwenden, wenn ein Kurator nach dem 30. Juni 2018 bestellt wird.  
-`§ 1503 (9) Z 19 ABGB.`
-Kuratoren, die vor dem 1. Juli 2018 bestellt worden sind, bleiben wirksam bestellt. Auf ihre Rechte und Pflichten sind nach dem 30. Juni 2018 die §§ 281 bis 284 in der Fassung des 2. ErwSchG anzuwenden. Z 13 gilt sinngemäß.  
-`§ 1503 (9) Z 20 ABGB.`
-Die §§ 1494 und 1495 in der Fassung des 2. ErwSchG sind anzuwenden, wenn eine Ersitzungs- und Verjährungszeit am 1. Juli 2018 noch nicht geendet hat oder nach dem 30. Juni 2018 zu laufen beginnt.
+`§ 1271 ABGB.`  
+Redliche und sonst erlaubte Wetten sind in so weit verbindlich, als der bedungene Preis nicht bloß versprochen; sondern wirklich entrichtet, oder hinterlegt worden ist. Gerichtlich kann der Preis nicht gefordert werden.
 
-`§ 1503 (10) ABGB.`  
-§ 1164 Abs. 1 in der Fassung des Bundesgesetzes, BGBl. I Nr. 153/2017, tritt mit 1. Juli 2018 in Kraft. Mit Ablauf des 30. Juni 2018 tritt § 1154b Abs. 6 außer Kraft. § 1159 in der Fassung des Bundesgesetzes, BGBl. I Nr. 153/2017, tritt mit 1. Jänner 2021 in Kraft und ist auf Beendigungen anzuwenden, die nach dem 31. Dezember 2020 ausgesprochen werden. Mit diesem Zeitpunkt treten auch § 1158 Abs. 4 und § 1159a bis § 1159c dieses Bundesgesetzes sowie § 77 der Gewerbeordnung 1859, RGBl. Nr. 227/1859, außer Kraft. Sie sind jedoch weiterhin auf Beendigungen anzuwenden, die vor dem 1. Jänner 2021 ausgesprochen wurden.
+### § 1272 ABGB # 2) das Spiel;
 
-`§ 1503 (11) ABGB.`  
-§§ 165, 214, 249, 256 und 588 in der Fassung des Bundesgesetzes BGBl. I Nr. 58/2018, treten mit 1. August 2018 in Kraft.
+`§ 1272 ABGB.`  
+Jedes Spiel ist eine Art von Wette. Die für Wetten festgesetzten Rechte gelten auch für Spiele. Welche Spiele überhaupt, oder für besondere Classen verbothen; wie Personen, die verbothene Spiele treiben, und diejenigen, die ihnen dazu Unterschleif geben, zu bestrafen sind, bestimmen die politischen Gesetze.
 
-`§ 1503 (12) ABGB.`  
-§ 1320 in der Fassung des Bundesgesetzes BGBl. I Nr. 69/2019 tritt mit dem der Kundmachung folgenden Tag in Kraft. Die Bestimmung ist in dieser Fassung auf schädigende Ereignisse anzuwenden, die nach diesem Zeitpunkt eintreten. Der Bundesminister für Verfassung, Reformen, Deregulierung und Justiz hat dem Nationalrat drei Jahre nach dem Inkrafttreten dieser Regelung einen Bericht über deren Auswirkungen vorzulegen.
+### § 1273 ABGB # 3) Los;
 
-`§ 1503 (13) ABGB.`  
-Die §§ 1154b Abs. 6 und 1164 in der Fassung des Bundesgesetzes BGBl. I Nr. 74/2019 treten mit 1. September 2019 in Kraft.
+`§ 1273 ABGB.`  
+Ein zwischen Privat-Personen auf eine Wette oder auf ein Spiel abzielendes Los wird nach den für Wetten und Spiele festgesetzten Vorschriften beurtheilet. Soll aber eine Theilung, eine Wahl, oder eine Streitigkeit durch das Los entschieden werden; so treten dabey die Rechte der übrigen Verträge ein.
 
-`§ 1503 (14) ABGB.`  
-§ 211 Abs. 2 in der Fassung des Gewaltschutzgesetzes 2019, BGBl. I Nr. 105/2019, tritt mit dem der Kundmachung folgenden Tag in Kraft. § 1494 Abs. 2 in der Fassung dieses Bundesgesetzes tritt mit 01.01.2020 in Kraft und ist auf alle Schadenersatzansprüche anzuwenden, die zu diesem Zeitpunkt noch nicht verjährt sind.
+### § 1274 ABGB
 
-`§ 1503 (15) ABGB.`  
-§ 1155 Abs. 3 und 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2020 treten rückwirkend mit dem 15. März 2020 in Kraft und mit 31. Dezember 2020 außer Kraft.
+`§ 1274 ABGB.`  
+Staats-Lotterien sind nicht nach der Eigenschaft der Wette und des Spieles; sondern nach den jedes Mahl darüber kundgemachten Plänen, zu beurtheilen.
 
-`§ 1503 (16) ABGB.`  
-Abweichend von Abs. 10 tritt § 1159 in der Fassung des Bundesgesetzes BGBl. I Nr. 153/2017 mit 1. Juli 2021 in Kraft und ist auf Beendigungen anzuwenden, die nach dem 30. Juni 2021 ausgesprochen werden. Mit diesem Zeitpunkt treten auch § 1158 Abs. 4 und § 1159a bis § 1159c dieses Bundesgesetzes sowie § 77 der Gewerbeordnung 1859, RGBl. Nr. 227/1859, außer Kraft. Sie sind jedoch weiterhin auf Beendigungen anzuwenden, die vor dem 1. Juli 2021 ausgesprochen wurden. Dies gilt auch für die Verlängerung der Kündigungsfristen in den Landarbeitsordnungen der Bundesländer und in Vorarlberg im Land- und Forstarbeitsgesetz, die zum Zeitpunkt des Inkrafttretens dieses Bundesgesetzes in Kraft sind, soweit in diesen die Änderung der Kündigungsfristen durch das Bundesgesetz BGBl. I Nr. 153/2017 nachvollzogen wurde.
+### § 1275 ABGB # 4) Hoffnungskauf.
 
-`§ 1503 (17) ABGB.`  
-§ 17a, § 20 und § 1328a Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 148/2020 treten mit 1. Jänner 2021 in Kraft. § 20 Abs. 2 und § 1328a Abs. 2 sind auf Fälle anzuwenden, in denen die verletzende Handlung nach dem 31. Dezember 2020 gesetzt wurde.
+`§ 1275 ABGB.`  
+Wer für ein bestimmtes Maß von einem künftigen Erträgnisse einen verhältnißmäßigen Preis verspricht, schließt einen ordentlichen Kaufvertrag.
 
-`§ 1503 (18) ABGB.`  
-§ 211, § 1214 Abs. 1 und 2, § 1216a Abs. 2 und § 1216b Abs. 2 in der Fassung des Bundesgesetzes Gesamtreform des Exekutionsrechts – GREx, BGBl. I Nr. 86/2021, treten mit 1. Juli 2021 in Kraft. § 1212 tritt mit Ablauf des 30. Juni 2021 außer Kraft.
+### § 1276 ABGB
 
-`§ 1503 (19) ABGB.`  
-Abweichend von Abs. 15 tritt § 1159 in der Fassung des Bundesgesetzes, BGBl. I Nr. 153/2017, mit 1. Oktober 2021 in Kraft und ist auf Beendigungen anzuwenden, die nach dem 30. September 2021 ausgesprochen werden. Mit diesem Zeitpunkt treten auch § 1158 Abs. 4 und § 1159a bis § 1159c dieses Bundesgesetzes sowie § 77 der Gewerbeordnung 1859, RGBl. Nr. 227/1859, außer Kraft. Sie sind jedoch weiterhin auf Beendigungen anzuwenden, die vor dem 1. Oktober 2021 ausgesprochen wurden.
+`§ 1276 ABGB.`  
+Wer die künftigen Nutzungen einer Sache in Pausch und Bogen; oder wer die Hoffnung derselben in einem bestimmten Preise kauft, errichtet einen Glücksvertrag; er trägt die Gefahr der ganz vereitelten Erwartung; es gebühren ihm aber auch alle ordentliche erzielte Nutzungen.
 
-`§ 1503 (20) ABGB.`  
-Die §§ 932, 933 samt Überschrift, 933b samt Überschrift und 1503 in der Fassung des Bundesgesetzes BGBl. I Nr. 175/2021 treten mit 1. Jänner 2022 in Kraft und sind in dieser Fassung auf Verträge anzuwenden, die nach dem 31. Dezember 2021 geschlossen werden.
+### § 1277 ABGB # insbesondere eines Kuxes;
 
-`§ 1503 (21) ABGB.`  
-§ 395 in der Fassung des Bundesgesetzes BGBl. I Nr. 38/2023 tritt mit 1. Mai 2023 in Kraft und ist auf alle Fundgegenstände anzuwenden, die ab diesem Zeitpunkt der Fundbehörde angezeigt werden.
+`§ 1277 ABGB.`  
+Der Antheil an einem Bergwerke heißt Kux. Der Kauf eines Kuxes gehört zu den gewagten Verträgen. Der Verkäufer haftet nur für die Richtigkeit des Kuxes, und der Käufer hat sich nach den Gesetzen über den Bergbau zu benehmen.
 
-`§ 1503 (22) ABGB.`  
-§ 1154b Abs. 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 115/2023, tritt mit 1. November 2023 in Kraft und findet auf Dienstverhinderungen Anwendung, die ab diesem Inkrafttreten erfolgen.
+### § 1278 ABGB # Erbschaftskauf
 
-`§ 1503 (23) ABGB.`  
-Für das Inkrafttreten des Abstammungsrechts-Anpassungsgesetzes 2023, BGBl. I Nr. 180/2023 (AbAG 2023), gilt Folgendes:  
-`§ 1503 (23) Z 1 ABGB.`
-Die §§ 144, 145, § 148 Abs. 3a und 5, § 152a, § 154 Abs. 1 Z 2 und Z 3 lit. a, § 154a samt Überschriften in der Fassung des AbAG 2023 treten mit 1. Jänner 2024 in Kraft.  
-`§ 1503 (23) Z 2 ABGB.`
-Soweit nichts anderes bestimmt ist, bleiben vor dem 1. Jänner 2024 bestehende Abstammungsverhältnisse durch das Inkrafttreten des AbAG 2023 unberührt.  
-`§ 1503 (23) Z 3 ABGB.`
-§ 144 Abs. 2 Z 2 ist auch auf vor dem 1. Jänner 2024 geborene Kinder anzuwenden.  
-`§ 1503 (23) Z 4 ABGB.`
-Die Wirksamkeit eines Anerkenntnisses nach § 144 Abs. 1 Z 2 und Abs. 2 Z 2 ist nach den Bestimmungen in der Fassung des AbAG 2023 zu beurteilen, wenn die Urkunde über die Bezeichnung der anerkennenden Person dem Standesbeamten nach dem Zeitpunkt des Inkrafttretens zukommt.
+`§ 1278 (1) ABGB.`  
+Der Käufer einer vom Verkäufer angetretenen oder ihm wenigstens angefallenen Erbschaft tritt nicht allein in die Rechte, sondern auch in die Verbindlichkeiten des Verkäufers als Erben ein, soweit diese nicht höchstpersönlich sind. Wenn dem Kauf kein Inventar zugrunde gelegt wird, ist auch der Erbschaftskauf ein Glücksvertrag.
 
-`§ 1503 (24) ABGB.`  
-§ 20 Abs. 3 in der Fassung des DSA-Begleitgesetzes, BGBl. I Nr. 182/2023, tritt mit 17. Februar 2024 in Kraft. § 1490 tritt mit Ablauf des 16. Februar 2024 außer Kraft. Die anzuwendenden Bestimmungen in der Fassung des DSA-Begleitgesetzes wirken nicht auf Ansprüche zurück, die mit Ablauf des 16. Februar 2024 unter Anwendung des § 1490 in der bis dahin geltenden Fassung bereits verjährt sind.
+`§ 1278 (2) ABGB.`  
+Der Erbschaftskauf bedarf zu seiner Gültigkeit eines Notariatsakts oder der Beurkundung durch gerichtliches Protokoll.
 
-`§ 1503 (25) ABGB.`  
-§ 1164a in der Fassung des Bundesgesetzes BGBl. I Nr. 11/2024 tritt mit dem auf die Kundmachung folgenden Tag in Kraft und gilt für ab diesem Zeitpunkt abgeschlossene freie Dienstverträge.
+### § 1279 ABGB
 
-`§ 1503 (25) ABGB.`  
-§ 1319b in der Fassung des Bundesgesetzes BGBl. I Nr. 33/2024 tritt mit 1. Mai 2024 in Kraft und ist in dieser Fassung auf Schadensereignisse anzuwenden, die nach dem 30. April 2024 eintreten.
+`§ 1279 ABGB.`  
+Auf Sachen, die dem Verkäufer nicht als Erben, sondern aus einem anderen Grund, etwa als Vorausvermächtnis, als Ersatz- oder Nacherbschaft oder als Schuldforderung aus der Verlassenschaft gebühren und ihm auch ohne Erbrecht gebührt hätten, hat der Erbschaftskäufer keinen Anspruch. Dagegen erhält er alles, was der Erbschaft selbst zuwächst, insbesondere durch den Ausfall eines Vermächtnisnehmers, eines Miterben oder auf was immer für eine andere Art, soweit der Verkäufer darauf Anspruch gehabt hätte.
 
-`END-OF-DATA-SET`
+### § 1280 ABGB
+
+`§ 1280 ABGB.`  
+Alles, was der Erbe aus dem Erbrecht erhält, wie etwa die bezogenen Früchte und Forderungen, zählt zur Verlassenschaft. Alle Aufwendungen, die er selbst für den Antritt der Erbschaft oder für die Verlassenschaft gemacht hat, werden hingegen von der Verlassenschaft abgezogen. Dazu gehören die bezahlten Schulden, die schon abgeführten Vermächtnisse, Steuern, Abgaben und Gerichtsgebühren und, wenn nicht ausdrücklich etwas anderes vereinbart wurde, auch die Begräbniskosten.
+
+### § 1281 ABGB
+
+`§ 1281 ABGB.`  
+Sofern der Verkäufer die Verlassenschaft vor der Übergabe verwaltet hat, haftet er dem Käufer dafür wie ein anderer Verwalter.
+
+### § 1282 ABGB
+
+`§ 1282 ABGB.`  
+Die Erbschaftsgläubiger und Vermächtnisnehmer können sich mit ihren Ansprüchen sowohl an den Käufer der Erbschaft als auch an den Erben selbst halten. Ihre Rechte werden so wie jene der Erbschaftsschuldner durch den Verkauf der Erbschaft nicht geändert. Die Erbantrittserklärung des Verkäufers gilt auch für den Käufer.
+
+### § 1283 ABGB
+
+`§ 1283 ABGB.`  
+Wurde dem Verkauf der Erbschaft ein Inventar zugrunde gelegt, so haftet der Verkäufer für dasselbe. Andernfalls haftet er für die Richtigkeit seines Erbrechts, wie er es angegeben hat, und für jeden dem Käufer durch sein Verschulden zugefügten Schaden.
+
+### § 1284 ABGB # 5) Leibrente;
+
+`§ 1284 ABGB.`  
+Wird jemanden für Geld, oder gegen eine für Geld geschätzte Sache auf die Lebensdauer einer gewissen Person eine bestimmte jährliche Entrichtung versprochen; so ist es ein Leibrentenvertrag.
+
+### § 1285 ABGB
+
+`§ 1285 ABGB.`  
+Die Dauer der Leibrente kann von dem Leben des einen oder andern Theiles, oder auch eines Dritten abhängen. Sie wird im Zweifel vierteljährig vorhinein entrichtet; und nimmt in allen Fällen mit dem Leben desjenigen, auf dessen Kopf sie beruht, ihr Ende.
+
+### § 1286 ABGB
+
+`§ 1286 ABGB.`  
+Weder die Gläubiger, noch die Kinder desjenigen, welcher sich eine Leibrente bedingt, sind berechtiget, den Vertrag umzustoßen. Doch steht den Erstern frey, ihre Befriedigung aus den Leibrenten zu suchen; den Letztern aber, die Hinterlegung eines entbehrlichen Theiles der Rente zu fordern, um sich den ihnen nach dem Gesetze gebührenden Unterhalt darauf versichern zu lassen.
+
+### § 1287 ABGB # 6) gesellschaftliche Versorgungsanstalten;
+
+`§ 1287 ABGB.`  
+Der Vertrag, wodurch vermittelst einer Einlage ein gemeinschaftlicher Versorgungsfond für die Mitglieder, ihre Gattinnen oder Waisen errichtet wird, ist aus der Natur und dem Zwecke einer solchen Anstalt, und den darüber festgesetzten Bedingungen, zu beurtheilen.
+
+### § 1288 ABGB # 7) Versicherungsvertrag;
+
+`§ 1288 ABGB.`  
+Wenn jemand die Gefahr des Schadens, welcher einen Andern ohne dessen Verschulden treffen könnte, auf sich nimmt, und ihm gegen einen gewissen Preis den bedungenen Ersatz zu leisten verspricht; so entsteht der Versicherungsvertrag. Der Versicherer haftet dabey für den zufälligen Schaden, und der Versicherte für den versprochenen Preis.
+
+### § 1289 ABGB
+
+`§ 1289 ABGB.`  
+Der gewöhnliche Gegenstand dieses Vertrages sind Waaren, die zu Wasser oder zu Lande verführt werden. Es können aber auch andere Sachen, z. B. Häuser und Grundstücke gegen Feuer- Wasser- und andere Gefahren versichert werden.
+
+### § 1290 ABGB
+
+`§ 1290 ABGB.`  
+Ereignet sich der zufällige Schade, wofür die Entschädigung versichert worden ist; so muß der Versicherte, wenn kein unüberwindliches Hinderniß dazwischen kommt, oder nichts anderes verabredet worden ist, dem Versicherer, wenn sie sich im nähmlichen Orte befinden, binnen drey Tagen, sonst aber in derjenigen Zeitfrist davon Nachricht geben, welche zur Bekanntmachung der Annahme eines von einem Abwesenden gemachten Versprechens bestimmt worden ist (§. 862). Unterläßt er die Anzeige; kann er den Unfall nicht erweisen; oder kann der Versicherer beweisen, daß der Schade aus Verschulden des Versicherten entstanden ist; so hat dieser auch keinen Anspruch auf die versicherte Summe.
+
+### § 1291 ABGB
+
+`§ 1291 ABGB.`  
+Wenn der Untergang der Sache dem Versicherten; oder der gefahrlose Zustand derselben dem Versicherer zur Zeit des geschlossenen Vertrages schon bekannt war; so ist der Vertrag ungültig.
+
+### § 1292 ABGB # 8) Bodmerey- und See-Assecuranzen.
+
+`§ 1292 ABGB.`  
+Die Bestimmungen in Rücksicht der Versicherungen zur See; so wie die Vorschriften über den Bodmerey-Vertrag sind ein Gegenstand der Seegesetze.
+
+## Dreyßigstes Hauptstück. # Von dem Rechte des Schadensersatzes und der Genugthuung.
+
+### § 1293 ABGB # Schade.
+
+`§ 1293 ABGB.`  
+Schade heißt jeder Nachtheil, welcher jemanden an Vermögen, Rechten oder seiner Person zugefüget worden ist. Davon unterscheidet sich der Entgang des Gewinnes, den jemand nach dem gewöhnlichen Laufe der Dinge zu erwarten hat.
+
+### § 1294 ABGB # Quellen der Beschädigung.
+
+`§ 1294 ABGB.`  
+Der Schade entspringt entweder aus einer widerrechtlichen Handlung, oder Unterlassung eines Anderen; oder aus einem Zufalle. Die widerrechtliche Beschädigung wird entweder willkührlich, oder unwillkührlich zugefügt. Die willkührliche Beschädigung aber gründet sich theils in einer bösen Absicht, wenn der Schade mit Wissen und Willen; theils in einem Versehen, wenn er aus schuldbarer Unwissenheit, oder aus Mangel der gehörigen Aufmerksamkeit, oder des gehörigen Fleißes verursachet worden ist. Beydes wird ein Verschulden genannt.
+
+## Von der Verbindlichkeit zum Schadenersatze:
+
+### § 1295 ABGB # 1) von dem Schaden aus Verschulden;
+
+`§ 1295 (1) ABGB.`  
+Jedermann ist berechtigt, von dem Beschädiger den Ersatz des Schadens, welchen dieser ihm aus Verschulden zugefügt hat, zu fordern; der Schaden mag durch Übertretung einer Vertragspflicht oder ohne Beziehung auf einen Vertrag verursacht worden sein.
+
+`§ 1295 (2) ABGB.`  
+Auch wer in einer gegen die guten Sitten verstoßenden Weise absichtlich Schaden zufügt, ist dafür verantwortlich, jedoch falls dies in Ausübung eines Rechtes geschah, nur dann, wenn die Ausübung des Rechtes offenbar den Zweck hatte, den anderen zu schädigen.
+
+### § 1296 ABGB
+
+`§ 1296 ABGB.`  
+Im Zweifel gilt die Vermuthung, daß ein Schade ohne Verschulden eines Anderen entstanden sey.
+
+### § 1297 ABGB
+
+`§ 1297 ABGB.`  
+Es wird aber auch vermuthet, daß jeder welcher den Verstandesgebrauch besitzt, eines solchen Grades des Fleißes und der Aufmerksamkeit fähig sey, welcher bey gewöhnlichen Fähigkeiten angewendet werden kann. Wer bey Handlungen, woraus eine Verkürzung der Rechte eines Anderen entsteht, diesen Grad des Fleißes oder der Aufmerksamkeit unterläßt, macht sich eines Versehens schuldig.
+
+### § 1298 ABGB
+
+`§ 1298 ABGB.`  
+Wer vorgibt, daß er an der Erfüllung seiner vertragsmäßigen oder gesetzlichen Verbindlichkeit ohne sein Verschulden verhindert worden sey, dem liegt der Beweis ob. Soweit er auf Grund vertraglicher Vereinbarung nur für grobe Fahrlässigkeit haftet, muß er auch beweisen, daß es an dieser Voraussetzung fehlt.
+
+### § 1299 ABGB # insbesondere: a) der Sachverständigen;
+
+`§ 1299 ABGB.`  
+Wer sich zu einem Amte, zu einer Kunst, zu einem Gewerbe oder Handwerke öffentlich bekennet; oder wer ohne Noth freywillig ein Geschäft übernimmt, dessen Ausführung eigene Kunstkenntnisse, oder einen nicht gewöhnlichen Fleiß erfordert, gibt dadurch zu erkennen, daß er sich den nothwendigen Fleiß und die erforderlichen, nicht gewöhnlichen Kenntnisse zutraue; er muß daher den Mangel derselben vertreten. Hat aber derjenige, welcher ihm das Geschäft überließ, die Unerfahrenheit desselben gewußt; oder, bey gewöhnlicher Aufmerksamkeit wissen können; so fällt zugleich dem Letzteren ein Versehen zur Last.
+
+### § 1300 ABGB
+
+`§ 1300 ABGB.`  
+Ein Sachverständiger ist auch dann verantwortlich, wenn er gegen Belohnung in Angelegenheiten seiner Kunst oder Wissenschaft aus Versehen einen nachtheiligen Rath ertheilet. Außer diesem Falle haftet ein Rathgeber nur für den Schaden, welchen er wissentlich durch Ertheilung des Rathes dem Anderen verursachet hat.
+
+### § 1301 ABGB # oder b) mehrere Theilnehmer;
+
+`§ 1301 ABGB.`  
+Für einen widerrechtlich zugefügten Schaden können mehrere Personen verantwortlich werden, indem sie gemeinschaftlich, unmittelbarer oder mittelbarer Weise, durch Verleiten, Drohen, Befehlen, Helfen, Verhehlen u. dgl.; oder, auch nur durch Unterlassung der besonderen Verbindlichkeit, das Uebel zu verhindern, dazu beygetragen haben.
+
+### § 1302 ABGB
+
+`§ 1302 ABGB.`  
+In einem solchen Falle verantwortet, wenn die Beschädigung in einem Versehen gegründet ist, und die Antheile sich bestimmen lassen, jeder nur den durch sein Versehen verursachten Schaden. Wenn aber der Schade vorsätzlich zugefügt worden ist; oder, wenn die Antheile der Einzelnen an der Beschädigung sich nicht bestimmen lassen, so haften Alle für Einen, und Einer für Alle; doch bleibt demjenigen, welcher den Schaden ersetzt hat, der Rückersatz gegen die Uebrigen vorbehalten.
+
+### § 1303 ABGB
+
+`§ 1303 ABGB.`  
+In wie weit mehrere Mitschuldner bloß aus der unterlassenen Erfüllung ihrer Verbindlichkeit zu haften haben, ist aus der Beschaffenheit des Vertrages zu beurtheilen.
+
+### § 1304 ABGB
+
+`§ 1304 ABGB.`  
+Wenn bey einer Beschädigung zugleich ein Verschulden von Seite des Beschädigten eintritt; so trägt er mit dem Beschädiger den Schaden verhältnißmäßig; und, wenn sich das Verhältniß nicht bestimmen läßt, zu gleichen Theilen.
+
+### § 1305 ABGB # 2) aus dem Gebrauche des Rechtes;
+
+`§ 1305 ABGB.`  
+Wer von seinem Rechte innerhalb der rechtlichen Schranken (§ 1295, Absatz 2) Gebrauch macht, hat den für einen anderen daraus entspringenden Nachteil nicht zu verantworten.
+
+### § 1306 ABGB # 3. aus einer schuldlosen oder unwillkührlichen Handlung;
+
+`§ 1306 ABGB.`  
+Den Schaden, welchen jemand ohne Verschulden oder durch eine unwillkührliche Handlung verursachet hat, ist er in der Regel zu ersetzen nicht schuldig.
+
+### § 1306a ABGB
+
+`§ 1306a ABGB.`  
+Wenn jemand im Notstand einen Schaden verursacht, um eine unmittelbar drohende Gefahr von sich oder anderen abzuwenden, hat der Richter unter Erwägung, ob der Beschädigte die Abwehr aus Rücksicht auf die dem anderen drohende Gefahr unterlassen hat, sowie des Verhältnisses der Größe der Beschädigung zu dieser Gefahr oder endlich des Vermögens des Beschädigers und des Beschädigten zu erkennen, ob und in welchem Umfange der Schaden zu ersetzen ist.
+
+### § 1307 ABGB
+
+`§ 1307 ABGB.`  
+Wenn sich jemand aus eigenem Verschulden in einen Zustand der Sinnesverwirrung oder in einen Notstand versetzt hat, so ist auch der in demselben verursachte Schade seinem Verschulden zuzuschreiben. Eben dieses gilt auch von einem Dritten, der durch sein Verschulden diese Lage bei dem Beschädiger veranlaßt hat.
+
+### § 1308 ABGB
+
+`§ 1308 ABGB.`  
+Wenn Personen, die den Gebrauch der Vernunft nicht haben, oder Unmündige jemanden beschädigen, der durch irgendein Verschulden hierzu selbst Veranlassung gegeben hat, so kann er keinen Ersatz ansprechen.
+
+### § 1309 ABGB
+
+`§ 1309 ABGB.`  
+Außer diesem Falle gebührt ihm der Ersatz von denjenigen Personen, denen der Schade wegen Vernachlässigung der ihnen über solche Personen anvertrauten Obsorge beygemessen werden kann.
+
+### § 1310 ABGB
+
+`§ 1310 ABGB.`  
+Kann der Beschädigte auf solche Art den Ersatz nicht erhalten, so soll der Richter mit Erwägung des Umstandes, ob dem Beschädiger, ungeachtet er gewöhnlich seines Verstandes nicht mächtig ist, in dem bestimmten Falle nicht dennoch ein Verschulden zur Last liege; oder, ob der Beschädigte aus Schonung des Beschädigers die Vertheidigung unterlassen habe; oder endlich, mit Rücksicht auf das Vermögen des Beschädigers und des Beschädigten, auf den ganzen Ersatz, oder doch einen billigen Theil desselben erkennen.
+
+### § 1311 ABGB # 4. durch Zufall;
+
+`§ 1311 ABGB.`  
+Der bloße Zufall trifft denjenigen, in dessen Vermögen oder Person er sich ereignet. Hat aber jemand den Zufall durch ein Verschulden veranlaßt; hat er ein Gesetz, das den zufälligen Beschädigungen vorzubeugen sucht, übertreten; oder sich ohne Noth in fremde Geschäfte gemengt, so haftet er für allen Nachtheil, welcher außer dem nicht erfolgt wäre.
+
+### § 1312 ABGB
+
+`§ 1312 ABGB.`  
+Wer in einem Nothfalle jemanden einen Dienst geleistet hat, dem wird der Schade, welchen er nicht verhüthet hat, nicht zugerechnet; es wäre denn, daß er einen Anderen, der noch mehr geleistet haben würde, durch seine Schuld daran verhindert hätte. Aber auch in diesem Falle kann er den sicher verschafften Nutzen gegen den verursachten Schaden in Rechnung bringen.
+
+### § 1313 ABGB # 5) durch fremde Handlungen;
+
+`§ 1313 ABGB.`  
+Für fremde, widerrechtliche Handlungen, woran jemand keinen Theil genommen hat, ist er in der Regel auch nicht verantwortlich. Selbst in den Fällen, wo die Gesetze das Gegentheil anordnen, bleibt ihm der Rückersatz gegen den Schuldtragenden vorbehalten.
+
+### § 1313a ABGB
+
+`§ 1313a ABGB.`  
+Wer einem andern zu einer Leistung verpflichtet ist, haftet ihm für das Verschulden seines gesetzlichen Vertreters sowie der Personen, deren er sich zur Erfüllung bedient, wie für sein eigenes.
+
+### § 1314 ABGB
+
+`§ 1314 ABGB.`  
+Wer eine Dienstperson ohne Zeugnis aufnimmt oder wissentlich eine durch ihre Leibes- oder Gemütsbeschaffenheit gefährliche Person im Dienste behält oder ihr Aufenthalt gibt, haftet dem Hausherrn und den Hausgenossen für den Ersatz des durch die gefährliche Beschaffenheit dieser Personen verursachten Schadens.
+
+### § 1315 ABGB
+
+`§ 1315 ABGB.`  
+Überhaupt haftet derjenige, welcher sich einer untüchtigen oder wissentlich einer gefährlichen Person zur Besorgung seiner Angelegenheiten bedient, für den Schaden, den sie in dieser Eigenschaft einem Dritten zufügt.
+
+### § 1316 ABGB
+
+`§ 1316 ABGB.`  
+Gastwirte, die Fremde beherbergen, sowie die anderen in § 970 bezeichneten Personen, ferner Fuhrleute haften für den Schaden, welchen ihre eigenen oder die von ihnen zugewiesenen Dienstpersonen an den eingebrachten oder übernommenen Sachen einem Gast oder Reisenden in ihrem Hause, ihrer Anstalt oder ihrem Fahrzeuge verursachen.
+
+### § 1317 ABGB
+
+`§ 1317 ABGB.`  
+In wie fern bey öffentlichen Versendungsanstalten für den Schaden eine Haftung übernommen werde, bestimmen die besonderen Vorschriften.
+
+### § 1318 ABGB
+
+`§ 1318 ABGB.`  
+Wird jemand durch das Herabfallen einer gefährlich aufgehängten oder gestellten Sache, oder durch Herauswerfen oder Herausgießen aus einer Wohnung beschädiget; so haftet derjenige, aus dessen Wohnung geworfen oder gegossen worden, oder die Sache herabgefallen ist, für den Schaden.
+
+### § 1319 ABGB # 6. Durch ein Bauwerk
+
+`§ 1319 ABGB.`  
+Wird durch Einsturz oder Ablösung von Teilen eines Gebäudes oder eines anderen auf einem Grundstück aufgeführten Werkes jemand verletzt oder sonst ein Schaden verursacht, so ist der Besitzer des Gebäudes oder Werkes zum Ersatze verpflichtet, wenn die Ereignung die Folge der mangelhaften Beschaffenheit des Werkes ist und er nicht beweist, daß er alle zur Abwendung der Gefahr erforderliche Sorgfalt angewendet habe.
+
+### § 1319a ABGB # 6a. durch einen Weg;
+
+`§ 1319a (1) ABGB.`  
+Wird durch den mangelhaften Zustand eines Weges ein Mensch getötet, an seinem Körper oder an seiner Gesundheit verletzt oder eine Sache beschädigt, so haftet derjenige für den Ersatz des Schadens, der für den ordnungsgemäßen Zustand des Weges als Halter verantwortlich ist, sofern er oder einer seiner Leute den Mangel vorsätzlich oder grobfahrlässig verschuldet hat. Ist der Schaden bei einer unerlaubten, besonders auch widmungswidrigen, Benützung des Weges entstanden und ist die Unerlaubtheit dem Benützer entweder nach der Art des Weges oder durch entsprechende Verbotszeichen, eine Abschrankung oder eine sonstige Absperrung des Weges erkennbar gewesen, so kann sich der Geschädigte auf den mangelhaften Zustand des Weges nicht berufen.
+
+`§ 1319a (2) ABGB.`  
+Ein Weg im Sinn des Abs. 1 ist eine Landfläche, die von jedermann unter den gleichen Bedingungen für den Verkehr jeder Art oder für bestimmte Arten des Verkehres benützt werden darf, auch wenn sie nur für einen eingeschränkten Benützerkreis bestimmt ist; zu einem Weg gehören auch die in seinem Zug befindlichen und dem Verkehr dienenden Anlagen, wie besonders Brücken, Stützmauern, Futtermauern, Durchlässe, Gräben und Pflanzungen. Ob der Zustand eines Weges mangelhaft ist, richtet sich danach, was nach der Art des Weges, besonders nach seiner Widmung, für seine Anlage und Betreuung angemessen und zumutbar ist.
+
+`§ 1319a (3) ABGB.`  
+Ist der mangelhafte Zustand durch Leute des Haftpflichtigen verschuldet worden, so haften auch sie nur bei Vorsatz oder grober Fahrlässigkeit.
+
+### § 1319b ABGB # 6b. durch einen Baum
+
+`§ 1319b (1) ABGB.`  
+Wird durch das Umstürzen eines Baumes oder durch das Herabfallen von Ästen ein Mensch getötet oder an seinem Körper oder seiner Gesundheit verletzt oder eine Sache beschädigt, so haftet der Halter des Baumes für den Ersatz des Schadens, wenn er diesen durch Vernachlässigen der erforderlichen Sorgfalt bei der Prüfung und Sicherung des Baumes verursacht hat.
+
+`§ 1319b (2) ABGB.`  
+Die Sorgfaltspflichten des Baumhalters hängen insbesondere vom Standort und der damit verbundenen Gefahr, von der Größe, dem Wuchs und dem Zustand des Baumes sowie von der Zumutbarkeit von Prüfungs- und Sicherungsmaßnahmen ab. Besteht an einem möglichst naturbelassenen Zustand eines Baumes ein besonderes Interesse, wie etwa bei einem Naturdenkmal, in Nationalparks oder sonstigen Schutzgebieten oder wegen der Bedeutung des Baumes für die natürliche Umgebung, so ist das bei der Beurteilung der dem Baumhalter zumutbaren Maßnahmen angemessen zu berücksichtigen.
+
+`§ 1319b (3) ABGB.`  
+Auf einen Schadenersatzanspruch nach dieser Bestimmung sind die allgemeinen Regelungen über die Beweislast anzuwenden.
+
+`§ 1319b (4) ABGB.`  
+§ 176 Forstgesetz 1975 bleibt unberührt.
+
+### § 1320 ABGB # 7. Durch ein Tier
+
+`§ 1320 (1) ABGB.`  
+Wird jemand durch ein Tier beschädigt, so ist derjenige dafür verantwortlich, der es dazu angetrieben, gereizt oder zu verwahren vernachlässigt hat. Derjenige, der das Tier hält, ist verantwortlich, wenn er nicht beweist, daß er für die erforderliche Verwahrung oder Beaufsichtigung gesorgt hatte.
+
+`§ 1320 (2) ABGB.`  
+In der Alm- und Weidewirtschaft kann der Halter bei Beurteilung der Frage, welche Verwahrung erforderlich ist, auf anerkannte Standards der Tierhaltung zurückgreifen. Andernfalls hat er die im Hinblick auf die ihm bekannte Gefährlichkeit der Tiere, die ihm zumutbaren Möglichkeiten zur Vermeidung solcher Gefahren und die erwartbare Eigenverantwortung anderer Personen gebotenen Maßnahmen zu ergreifen. Die erwartbare Eigenverantwortung der Besucher von Almen und Weiden richtet sich nach den durch die Alm- und Weidewirtschaft drohenden Gefahren, der Verkehrsübung und anwendbaren Verhaltensregeln.
+
+### § 1321 ABGB
+
+`§ 1321 ABGB.`  
+Wer auf seinem Grund und Boden fremdes Vieh antrifft, ist deßwegen noch nicht berechtiget, es zu töten. Er kann es durch anpassende Gewalt verjagen, oder wenn er dadurch Schaden gelitten hat, das Recht der Privat-Pfändung über so viele Stücke Viehes ausüben, als zu seiner Entschädigung hinreichet. Doch muß er binnen acht Tagen sich mit dem Eigenthümer abfinden, oder seine Klage vor den Richter bringen; widrigen Falls aber das gepfändete Vieh zurückstellen.
+
+### § 1322 ABGB
+
+`§ 1322 ABGB.`  
+Das gepfändete Vieh muß auch zurückgestellet werden, wenn der Eigenthümer eine andere angemessene Sicherheit leistet.
+
+### § 1323 ABGB # Arten des Schadenersatzes.
+
+`§ 1323 ABGB.`  
+Um den Ersatz eines verursachten Schadens zu leisten, muß Alles in den vorigen Stand zurückversetzt, oder, wenn dieses nicht thunlich ist, der Schätzungswerth vergütet werden. Betrifft der Ersatz nur den erlittenen Schaden, so wird er eigentlich eine Schadloshaltung; wofern er sich aber auch auf den entgangenen Gewinn und die Tilgung der verursachten Beleidigung erstreckt, volle Genugthuung genannt.
+
+### § 1324 ABGB
+
+`§ 1324 ABGB.`  
+In dem Falle eines aus böser Absicht oder aus einer auffallenden Sorglosigkeit verursachten Schadens ist der Beschädigte volle Genugthung (Anm.: richtig: Genugthuung); in den übrigen Fällen aber nur die eigentliche Schadloshaltung zu fordern berechtiget. Hiernach ist in den Fällen, wo im Gesetze der allgemeine Ausdruck: Ersatz, vorkommt, zu beurtheilen, welche Art des Ersatzes zu leisten sey.
+
+`END-OF-DATA-FILE`

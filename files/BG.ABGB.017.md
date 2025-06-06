@@ -6,313 +6,290 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Achtzehntes Hauptstück. # Von Schenkungen.
+## III. Einantwortung und ihre Folgen
 
-### § 938 ABGB # Schenkung.
+### § 819 ABGB # Einantwortung
 
-`§ 938 ABGB.`  
-Ein Vertrag, wodurch eine Sache jemanden unentgeldlich überlassen wird, heißt eine Schenkung.
+`§ 819 ABGB.`  
+Sobald die Erbantrittserklärungen abgegeben wurden, die Erben und ihre Quoten feststehen und die übrigen Voraussetzungen erfüllt sind, wird den Erben die Erbschaft eingeantwortet und die Abhandlung beendet. Die Erben haben ihr durch die Einantwortung begründetes Eigentum an unbeweglichen Sachen in die öffentlichen Bücher eintragen zu lassen (§ 436).
 
-### § 939 ABGB # In wie fern eine Verzichtleistung eine Schenkung sey.
+### § 820 ABGB # Haftung mehrerer Erben
 
-`§ 939 ABGB.`  
-Wer auf ein gehofftes, oder wirklich angefallenes, oder zweyfelhaftes Recht Verzicht thut, ohne es einem Andern ordentlich abzutreten, oder dasselbe dem Verpflichteten mit dessen Einwilligung zu erlassen, ist für keinen Geschenkgeber anzusehen.
+`§ 820 ABGB.`  
+Mehrere Erben, die eine Erbschaft unbedingt angetreten haben, haften Erbschaftsgläubigern und Vermächtnisnehmern zur ungeteilten Hand. Im Verhältnis zueinander haften sie nach dem Verhältnis ihrer Erbteile.
 
-### § 940 ABGB # Belohnende Schenkung.
+### § 821 ABGB
 
-`§ 940 ABGB.`  
-Es verändert die Wesenheit der Schenkung nicht, wenn sie aus Erkenntlichkeit; oder in Rücksicht auf die Verdienste des Beschenkten; oder als eine besondere Belohnung desselben gemacht worden ist; nur darf er vorher kein Klagerecht darauf gehabt haben.
+`§ 821 ABGB.`  
+Wenn ein Inventar errichtet wurde und die Schuld teilbar ist, haftet jeder Miterbe persönlich nur für denjenigen Teil einer Forderung, der seiner Erbquote entspricht. Ist die Schuld unteilbar, so haften die Erben trotz Inventarisierung zur ungeteilten Hand, insgesamt jedoch höchstens bis zum Wert der eingeantworteten Verlassenschaft.
 
-### § 941 ABGB
+### § 823 ABGB # Erbschafts- und Aneignungsklage
 
-`§ 941 ABGB.`  
-Hat der Beschenkte ein Klagerecht auf die Belohnung gehabt, entweder, weil sie unter den Parteyen schon bedungen, oder durch das Gesetz vorgeschrieben war; so hört das Geschäft auf, eine Schenkung zu seyn, und ist als ein entgeldlicher Vertrag anzusehen.
+`§ 823 (1) ABGB.`  
+Auch nach Einantwortung kann der Erwerber der Verlassenschaft von jeder Person, die ein besseres oder gleichwertiges Erbrecht behauptet, auf Herausgabe der Erbschaft oder des seiner Berechtigung entsprechenden Teils der Erbschaft belangt werden. Das Eigentum an einzelnen Erbschaftstücken wird aber nicht mit der Erbschafts-, sondern mit der Eigentumsklage geltend gemacht.
 
-### § 942 ABGB # Wechselseitige Schenkungen.
+`§ 823 (2) ABGB.`  
+Der Bund kann in sinngemäßer Anwendung des Abs. 1 gegen den eingeantworteten Erben das Recht, sich die Verlassenschaft anzueignen, geltend machen.
 
-`§ 942 ABGB.`  
-Sind Schenkungen vorher dergestalt bedungen, daß der Schenkende wieder beschenkt werden muß; so entsteht keine wahre Schenkung im Ganzen; sondern nur in Ansehung des übersteigenden Werthes.
+### § 824 ABGB # Wirkung der Erbschafts- und Aneignungsklage
 
-### § 943 ABGB # Form des Schenkungsvertrages.
+`§ 824 ABGB.`  
+Wenn der Beklagte ganz oder zum Teil zur Herausgabe der Verlassenschaft verurteilt wird, sind die Ansprüche auf die Zurückstellung der von ihm gezogenen Früchte oder auf die Vergütung der von ihm getätigten Aufwendungen und Kosten nach denjenigen Grundsätzen zu beurteilen, die für den redlichen oder unredlichen Besitzer im Hauptstück vom Besitz festgesetzt sind. Ein dritter redlicher Erwerber ist für die in der Zwischenzeit erworbenen Erbstücke niemandem verantwortlich.
 
-`§ 943 ABGB.`  
-Aus einem bloß mündlichen, ohne wirkliche Uebergabe geschlossenen Schenkungsvertrage erwächst dem Geschenknehmer kein Klagerecht. Dieses Recht muß durch eine schriftliche Urkunde begründet werden.
+## Sechzehntes Hauptstück. # Von der Gemeinschaft des Eigenthumes und anderer dinglichen Rechte.
 
-### § 944 ABGB # und Maß einer Schenkung.
+### § 825 ABGB # Ursprung einer Gemeinschaft.
 
-`§ 944 ABGB.`  
-Ein unbeschränkter Eigenthümer kann mit Beobachtung der gesetzlichen Vorschriften auch sein ganzes gegenwärtiges Vermögen verschenken. Ein Vertrag aber, wodurch das künftige Vermögen verschenket wird, besteht nur in so weit, als er die Hälfte dieses Vermögens nicht übersteigt.
+`§ 825 ABGB.`  
+So oft das Eigenthum der nähmlichen Sache, oder ein und dasselbe Recht mehreren Personen ungetheilt zukommt; besteht eine Gemeinschaft. Sie gründet sich auf eine zufällige Ereignung; auf ein Gesetz; auf eine letzte Willenserklärung; oder auf einen Vertrag.
 
-### § 945 ABGB # In wie fern der Geber für das Geschenkte hafte.
+### § 826 ABGB
 
-`§ 945 ABGB.`  
-Wer wissentlich eine fremde Sache verschenkt, und dem Geschenknehmer diesen Umstand verschweigt, haftet für die nachtheiligen Folgen.
+`§ 826 ABGB.`  
+Nach Verschiedenheit der Quellen, aus denen eine Gemeinschaft entspringt, erhalten auch die Rechte und Pflichten der Theilhaber ihre nähere Bestimmung. Für eine bloße Miteigentumsgemeinschaft gelten die Bestimmungen des siebenundzwanzigsten Hauptstücks nur dann, wenn die Miteigentümer ausdrücklich vereinbaren, als Gesellschafter einer Gesellschaft bürgerlichen Rechts zusammenwirken zu wollen.
 
-### § 946 ABGB # Unwiderruflichkeit der Schenkungen.
+### § 827 ABGB
 
-`§ 946 ABGB.`  
-Schenkungsverträge dürfen in der Regel nicht widerrufen werden.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Ausnahmen:</h4>
+`§ 827 ABGB.`  
+Wer einen Antheil an einer gemeinschaftlichen Sache anspricht, der muß sein Recht, wenn es von den übrigen Theilnehmern widersprochen wird, beweisen.
 
-### § 947 ABGB # 1) wegen Dürftigkeit;
+### § 828 ABGB # Gemeinschaftliche Rechte der Theilhaber.
 
-`§ 947 ABGB.`  
-Geräth der Geschenkgeber in der Folge in solche Dürftigkeit, daß es ihm an dem nöthigen Unterhalte gebricht; so ist er befugt, jährlich von dem geschenkten Betrage die gesetzlichen Zinsen, in so weit die geschenkte Sache, oder derselben Werth noch vorhanden ist, und ihm der nöthige Unterhalt mangelt, von dem Beschenkten zu fordern, wenn sich anders dieser nicht selbst in gleich dürftigen Umständen befindet. Aus mehrern Geschenknehmern ist der frühere nur in so weit verbunden, als die Beyträge der spätern zum Unterhalte nicht zureichen.
+`§ 828 (1) ABGB.`  
+So lange alle Theilhaber einverstanden sind, stellen sie nur Eine Person vor, und haben das Recht, mit der gemeinschaftlichen Sache nach Belieben zu schalten. Sobald sie uneinig sind, kann kein Theilhaber in der gemeinschaftlichen Sache eine Veränderung vernehmen, wodurch über den Antheil des Andern verfügt würde.
 
-### § 948 ABGB # 2) Undankes;
+`§ 828 (2) ABGB.`  
+Eine gerichtliche oder vertraglich vereinbarte Benützungsregelung zwischen den Teilhabern einer unbeweglichen Sache wirkt auch für deren Rechtsnachfolger, wenn sie im Grundbuch angemerkt ist.
 
-`§ 948 ABGB.`  
-Wenn der Beschenkte sich gegen seinen Wohlthäter eines groben Undankes schuldig macht, kann die Schenkung widerrufen werden. Unter grobem Undanke wird eine Verletzung am Leibe, an Ehre, an Freyheit, oder am Vermögen verstanden, welche von der Art ist, daß gegen den Verletzer von Amts wegen, oder auf Verlangen des Verletzten nach dem Strafgesetze verfahren werden kann.
+### § 829 ABGB # Rechte des Theilhabers auf seinen Antheil.
 
-### § 949 ABGB
+`§ 829 ABGB.`  
+Jeder Theilhaber ist vollständiger Eigenthümer seines Antheiles. In so fern er die Rechte seiner Mitgenossen nicht verletzt, kann er denselben, oder die Nutzungen davon willkührlich und unabhängig verpfänden, vermachen, oder sonst veräußern (§. 361).
 
-`§ 949 ABGB.`  
-Der Undank macht den Undankbaren für seine Person zum unredlichen Besitzer, und gibt selbst dem Erben des Verletzten, in so fern der letztere den Undank nicht verziehen hat, und noch etwas von dem Geschenke in Natur oder Werthe vorhanden ist, ein Recht zur Widerrufungsklage auch gegen den Erben des Verletzers.
+### § 830 ABGB
 
-### § 950 ABGB # 3) Verkürzung des schuldigen Unterhalts;
+`§ 830 ABGB.`  
+Jeder Theilhaber ist befugt, auf Ablegung der Rechnung und auf Vertheilung des Ertrages zu dringen. Er kann in der Regel auch die Aufhebung der Gemeinschaft verlangen; doch nicht zur Unzeit, oder zum Nachtheile der Uebrigen. Er muß sich daher einen, den Umständen angemessenen, nicht wohl vermeidlichen Aufschub gefallen lassen.
 
-`§ 950 ABGB.`  
-Wer jemanden den Unterhalt zu reichen schuldig ist, kann dessen Recht durch Beschenkung eines Dritten nicht verletzen. Der auf solche Art Verkürzte ist befugt, den Beschenkten um die Ergänzung desjenigen zu belangen, was ihm der Schenkende nun nicht mehr zu leisten vermag. Bey mehrern Geschenknehmern ist die obige (§. 947) Vorschrift anzuwenden.
+### § 831 ABGB
 
-### § 953 ABGB # 5) der Gläubiger;
+`§ 831 ABGB.`  
+Hat sich ein Theilhaber zur Fortsetzung der Gemeinschaft verbunden, so kann er zwar vor Verlauf der Zeit nicht austreten; allein diese Verbindlichkeit wird, wie andere Verbindlichkeiten, aufgehoben, und erstreckt sich nicht auf die Erben, wenn diese nicht selbst dazu eingewilliget haben.
 
-`§ 953 ABGB.`  
-Unter eben dieser (§. 952) Beschränkung können auch diejenigen Geschenke zurückgefordert werden, wodurch die zur Zeit der Schenkung schon vorhandenen Gläubiger verkürzt worden sind. Auf Gläubiger, deren Forderungen jünger sind, als die Schenkung, erstreckt sich dieses Recht nur dann, wenn der Beschenkte eines hinterlistigen Einverständnisses überwiesen werden kann.
+### § 832 ABGB
 
-### § 954 ABGB # 6) wegen nachgeborner Kinder.
+`§ 832 ABGB.`  
+Auch die Anordnung eines Dritten, wodurch eine Sache zur Gemeinschaft bestimmt wird, muß zwar von den ersten Theilhabern, nicht auch von ihren Erben befolgt werden. Eine Verbindlichkeit zu einer immerwährenden Gemeinschaft kann nicht bestehen.
 
-`§ 954 ABGB.`  
-Dadurch, daß einem kinderlosen Geschenkgeber nach geschlossenem Schenkungsvertrage Kinder geboren werden, erwächst weder ihm, noch den nachgebornen Kindern das Recht, die Schenkung zu widerrufen. Doch kann er, oder das nachgeborne Kind, im Nothfalle sowohl gegen den Beschenkten, als gegen dessen Erben das oben angeführte Recht auf die gesetzlichen Zinsen des geschenkten Betrages geltend machen (§. 947).
+## Rechte der Theilhaber in der gemeinschaftlichen Sache:
 
-### § 955 ABGB # Welche Schenkungen auf die Erben nicht übergehen.
+### § 833 ABGB # a) In Rücksicht des Hauptstammes;
 
-`§ 955 ABGB.`  
-Hat der Geschenkgeber dem Beschenkten eine Unterstützung in gewissen Fristen zugesichert, so erwächst für die Erben derselben weder ein Recht, noch eine Verbindlichkeit; es müßte denn in dem Schenkungsvertrage ausdrücklich anders bedungen worden seyn.
+`§ 833 ABGB.`  
+Der Besitz und die Verwaltung der gemeinschaftlichen Sache kommt allen Theilhabern insgesammt zu. In Angelegenheiten, welche nur die ordentliche Verwaltung und Benützung des Hauptstammes betreffen, entscheidet die Mehrheit der Stimmen, welche nicht nach den Personen, sondern nach Verhältniß der Antheile der Theilnehmer gezählet werden.
 
-## Neunzehntes Hauptstück. # Von dem Verwahrungsvertrage.
+### § 834 ABGB
 
-### § 957 ABGB # Verwahrungsvertrag;
+`§ 834 ABGB.`  
+Bey wichtigen Veränderungen aber, welche zur Erhaltung oder bessern Benützung des Hauptstammes vorgeschlagen werden, können die Ueberstimmten Sicherstellung für künftigen Schaden; oder, wenn diese verweigert wird, den Austritt aus der Gemeinschaft verlangen.
 
-`§ 957 ABGB.`  
-Wenn jemand eine fremde Sache in seine Obsorge übernimmt; so entsteht ein Verwahrungsvertrag. Das angenommene Versprechen, eine fremde, noch nicht übergebene Sache in die Obsorge zu übernehmen, macht zwar den versprechenden Theil verbindlich; es ist aber noch kein Verwahrungsvertrag.
+### § 835 ABGB
 
-### § 958 ABGB
+`§ 835 ABGB.`  
+Wollen sie nicht austreten; oder geschähe der Austritt zur Unzeit; so soll das Los, ein Schiedsmann, oder, wofern sie sich darüber nicht einhellig vereinigen, der Richter entscheiden, ob die Veränderung unbedingt oder gegen Sicherstellung Statt finden soll oder nicht. Diese Arten der Entscheidung treten auch bey gleichen Stimmen der Mitglieder ein.
 
-`§ 958 ABGB.`  
-Durch den Verwahrungsvertrag erwirbt der Uebernehmer weder Eigenthum, noch Besitz, noch Gebrauchsrecht; er ist bloßer Inhaber mit der Pflicht, die ihm anvertraute Sache vor Schaden zu sichern.
+### § 836 ABGB
 
-### § 959 ABGB # Wann er in einen Darlehens- oder Leihvertrag;
+`§ 836 ABGB.`  
+Ist ein Verwalter der gemeinschaftlichen Sachen zu bestellen; so entscheidet über dessen Auswahl die Mehrheit der Stimmen, und in deren Abgang der Richter.
 
-`§ 959 ABGB.`  
-Wird dem Verwahrer auf sein Verlangen, oder durch freywilliges Anerbiethen des Hinterlegers der Gebrauch gestattet; so hört im ersten Falle der Vertrag gleich nach der Verwilligung; im zweyten aber von dem Augenblicke, da das Anerbiethen angenommen, oder von der hinterlegten Sache wirklich Gebrauch gemacht worden ist, auf, ein Verwahrungsvertrag zu seyn; er wird bey verbrauchbaren Sachen in einen Darleihens-, bey unverbrauchbaren in einen Leihvertrag umgeändert, und es treten die damit verbundenen Rechte und Pflichten ein.
+### § 837 ABGB
 
-### § 960 ABGB # oder in eine Bevollmächtigung übergehe.
+`§ 837 ABGB.`  
+Der Verwalter des gemeinschaftlichen Gutes wird als ein Machthaber angesehen. Er ist einerseits verbunden, ordentliche Rechnung abzulegen; andererseits aber befugt, alle nützlich gemachte Auslagen in Abrechnung zu bringen. Dieses gilt auch in dem Falle, daß ein Theilgenosse ein gemeinschaftliches Gut ohne Auftrag der übrigen Theilnehmer verwaltet.
 
-`§ 960 ABGB.`  
-Es können bewegliche und unbewegliche Sachen in Obsorge gegeben werden. Wird aber dem Uebernehmer zugleich ein anderes, auf die anvertraute Sache sich beziehendes, Geschäft aufgetragen; so wird er als ein Gewalthaber angesehen.
+### § 838 ABGB
 
-### § 961 ABGB # Pflichten und Rechte des Verwahrers;
+`§ 838 ABGB.`  
+Wird die Verwaltung Mehrern überlassen; so entscheidet auch unter ihnen die Mehrheit der Stimmen.
 
-`§ 961 ABGB.`  
-Die Hauptpflicht des Verwahrers ist: die ihm anvertraute Sache durch die bestimmte Zeit sorgfältig zu bewahren, und nach Verlauf derselben dem Hinterleger in eben dem Zustande, in welchem er sie übernommen hat, und mit allem Zuwachse zurückzustellen.
+### § 838a ABGB
 
-### § 962 ABGB
+`§ 838a ABGB.`  
+Streitigkeiten zwischen den Teilhabern über die mit der Verwaltung und Benützung der gemeinschaftlichen Sache unmittelbar zusammenhängenden Rechte und Pflichten sind im Verfahren außer Streitsachen zu entscheiden.
 
-`§ 962 ABGB.`  
-Der Verwahrer muß dem Hinterleger auf Verlangen die Sache auch noch vor Verlauf der Zeit zurückstellen, und kann nur den Ersatz des ihm etwa verursachten Schadens begehren. Er kann hingegen die ihm anvertraute Sache nicht früher zurückgeben; es wäre denn, daß ein unvorhergesehener Umstand ihn außer Stand setzte, die Sache mit Sicherheit oder ohne seinen eigenen Nachtheil zu verwahren.
+### § 839 ABGB # b) der Nutzungen und Lasten;
 
-### § 963 ABGB
+`§ 839 ABGB.`  
+Die gemeinschaftlichen Nutzungen und Lasten werden nach Verhältniß der Antheile ausgemessen. Im Zweifel wird jeder Antheil gleich groß angesehen; wer das Gegentheil behauptet, muß es beweisen.
 
-`§ 963 ABGB.`  
-Ist die Verwahrungszeit weder ausdrücklich bestimmt worden, noch sonst aus Nebenumständen abzunehmen; so kann die Verwahrung nach Belieben aufgekündet werden.
+### § 840 ABGB
 
-### § 964 ABGB
+`§ 840 ABGB.`  
+Ordentlicher Weise sind die erzielten Nutzungen in Natur zu theilen. Ist aber diese Vertheilungsart nicht thunlich; so ist jeder berechtigt, auf die öffentliche Feilbiethung zu dringen. Der gelöste Werth wird den Theilhabern verhältnißmäßig entrichtet.
 
-`§ 964 ABGB.`  
-Der Verwahrer haftet dem Hinterleger für den aus der Unterlassung der pflichtmäßigen Obsorge verursachten Schaden, aber nicht für den Zufall; selbst dann nicht, wenn er die anvertraute, obschon kostbarere Sache, mit Aufopferung seiner eigenen hätte retten können.
+### § 841 ABGB # c) der Theilung.
 
-### § 965 ABGB
+`§ 841 ABGB.`  
+Bey der nach aufgehobener Gemeinschaft vorzunehmenden Theilung der gemeinschaftlichen Sache gilt keine Mehrheit der Stimmen. Die Theilung muß zur Zufriedenheit eines jeden Sachgenossen vorgenommen werden. Können sie nicht einig werden; so entscheidet das Los, oder ein Schiedsmann, oder, wenn sie sich über die Bestimmung der einen oder andern dieser Entscheidungsarten nicht einhellig vereinigen, der Richter.
 
-`§ 965 ABGB.`  
-Hat aber der Verwahrer von der hinterlegten Sache Gebrauch gemacht; hat er sie ohne Noth und ohne Erlaubniß des Hinterlegers einem Dritten in Verwahrung gegeben; oder die Zurückstellung verzögert, und die Sache leidet einen Schaden, welchem sie bey dem Hinterleger nicht ausgesetzt gewesen wäre; so kann er keinen Zufall vorschützen, und die Beschädigung wird ihm zugerechnet.
+### § 842 ABGB
 
-### § 966 ABGB
+`§ 842 ABGB.`  
+Ein Schiedsmann oder der Richter entscheidet auch, ob bey der Theilung liegender Gründe oder Gebäude ein Theilgenosse, zur Benützung seines Antheiles, einer Servitut bedürfe, und unter welcher Bedingung sie ihm zu verwilligen sey.
 
-`§ 966 ABGB.`  
-Wenn Sachen verschlossen oder versiegelt hinterlegt, und in der Folge das Schloß oder Siegel verletzt worden; so ist der Hinterleger, wenn er einen Abgang behauptet, zur Beschwörung seines Schadens, in so fern derselbe nach seinem Stande, Gewerbe, Vermögen und den übrigen Umständen wahrscheinlich ist, nach Vorschrift der Gerichtsordnung zuzulassen; es wäre denn, daß der Verwahrer beweisen könnte, daß die Verletzung des Schlosses oder Siegels ohne sein Verschulden geschehen sey. Das Nähmliche hat auch dann zu gelten, wenn sämmtliche auf solche Art hinterlegte Sachen in Verlust gerathen sind.
+### § 843 ABGB
 
-### § 967 ABGB # und des Hinterlegers.
+`§ 843 ABGB.`  
+Kann eine gemeinschaftliche Sache entweder gar nicht, oder nicht ohne beträchtliche Verminderung des Werthes getheilt werden; so ist sie, und zwar wenn auch nur Ein Theilgenosse es verlangt, vermittelst gerichtlicher Feilbiethung zu verkaufen, und der Kaufschilling unter die Theilhaber zu vertheilen.
 
-`§ 967 ABGB.`  
-Der Hinterleger ist verpflichtet, dem Verwahrer den schuldbarer Weise zugefügten Schaden, und die zur Erhaltung der verwahrten Sache, oder zur Vermehrung der fortdauernden Nutzungen verwendeten Kosten zu ersetzen. Hat der Verwahrer im Nothfalle, um das hinterlegte Gut zu retten, seine eigenen Sachen aufgeopfert; so kann er einen angemessenen Ersatz fordern. Die wechselseitigen Forderungen des Verwahres und Hinterlegers einer beweglichen Sache können aber nur binnen dreyßig Tagen von Zeit der Zurückstellung angebracht werden.
+### § 844 ABGB
 
-### § 968 ABGB # Sequester.
+`§ 844 ABGB.`  
+Servituten, Grenzzeichen und die zum gemeinschaftlichen Gebrauche nötigen Urkunden sind keiner Teilung fähig. Die Urkunden werden, wenn sonst nichts im Wege steht, bei dem ältesten Teilhaber niedergelegt. Die übrigen erhalten auf ihre Kosten beglaubigte Abschriften. Die Grunddienstbarkeiten bestehen mangels Vereinbarung zugunsten aller Teile fort; jedoch darf die Dienstbarkeit dadurch nicht erweitert oder für das dienstbare Gut beschwerlicher werden. Kommt die Ausübung der Dienstbarkeit nur einzelnen Teilen zugute, so erlischt das Recht hinsichtlich der übrigen Teile.
 
-`§ 968 ABGB.`  
-Wird eine in Anspruch genommene Sache von den streitenden Parteyen oder vom Gerichte jemanden in Verwahrung gegeben; so heißt der Verwahrer, Sequester. Die Rechte und Verbindlichkeiten des Sequesters werden nach den hier festgesetzten Grundsätzen beurtheilt.
+### § 845 ABGB
 
-### § 969 ABGB # Ob dem Verwahrer ein Lohn gebühre.
+`§ 845 ABGB.`  
+Bei Teilungen der Grundstücke sind die gegenseitigen Grenzen durch entsprechende Grenzzeichen auf eine deutliche und unwandelbare Art zu bezeichnen.
 
-`§ 969 ABGB.`  
-Ein Lohn kann für die Aufbewahrung nur dann gefordert werden, wenn er ausdrücklich, oder nach dem Stande des Aufbewahrers stillschweigend bedungen worden ist.
+### § 846 ABGB
 
-### § 970 ABGB # Gastaufnahme
+`§ 846 ABGB.`  
+Ueber die gemachte Theilung sind Urkunden zu errichten. Ein Theilhaber einer unbeweglichen Sache erhält auch erst dadurch ein dingliches Recht auf seinen Antheil, daß die darüber errichtete Urkunde den öffentlichen Büchern einverleibt wird. (§. 436)
 
-`§ 970 (1) ABGB.`  
-Gastwirte, die Fremde beherbergen, haften als Verwahrer für die von den aufgenommenen Gästen eingebrachten Sachen, sofern sie nicht beweisen, daß der Schaden weder durch sie oder einen ihrer Leute verschuldet noch durch fremde, in dem Hause aus- und eingehende Personen verursacht ist. Hat bei der Entstehung des Schadens ein Verschulden des Beschädigten mitgewirkt, so hat der Richter nach den Umständen zu entscheiden, ob und in welcher Höhe ein Ersatz gebührt.
+### § 847 ABGB
 
-`§ 970 (2) ABGB.`  
-Als eingebracht gelten die Sachen, die dem Wirte oder einem seiner Leute übergeben oder an einen von diesen angewiesenen oder hierzu bestimmten Orte gebracht sind. Ebenso haften Unternehmer, die Stallungen und Aufbewahrungsräume halten, für die bei ihnen eingestellten Tiere und Fahrzeuge und die auf diesen befindlichen Sachen.
+`§ 847 ABGB.`  
+Die bloße Teilung was immer für eines gemeinschaftlichen Gutes kann einem Dritten nicht zum Nachteile gereichen; alle ihm zustehenden Pfand-, Servituts- und anderen dinglichen Rechte werden nach wie vor der Teilung ausgeübt. Trifft jedoch die Ausübung einer Grunddienstbarkeit nur ein Teilstück, so erlischt das Recht hinsichtlich der übrigen Teile.
 
-`§ 970 (3) ABGB.`  
-Den Wirten werden gleichgehalten die Besitzer von Badeanstalten in Rücksicht auf die üblicherweise eingebrachten Sachen der Badegäste.
+### § 848 ABGB
 
-### § 970a ABGB
+`§ 848 ABGB.`  
+Auch persönliche Rechte, die einem Dritten gegen eine Gemeinschaft zustehen, haben ungeachtet des erfolgten Austrittes ihre vorige Kraft. Ebenso kann derjenige, welcher an eine Gemeinschaft schuldig ist, die Zahlung nicht an einzelne Teilnehmer entrichten. Solche Schulden müssen an die ganze Gemeinschaft oder an jenen, der sie ordentlich vorstellt, abgetragen werden.
 
-`§ 970a ABGB.`  
-Ablehnung der Haftung durch Anschlag ist ohne rechtliche Wirkung. Für Kostbarkeiten, Geld und Wertpapiere haftet der Gastwirt nur bis zum Betrage von 550 Euro, es sei denn, daß er diese Sachen in Kenntnis ihrer Beschaffenheit zur Aufbewahrung übernommen hat oder daß der Schaden von ihm selbst oder seinen Leuten verschuldet ist.
+### § 848a ABGB
 
-### § 970b ABGB
+`§ 848a ABGB.`  
+Gewährt eine Dienstbarkeit oder eine andere dingliche Last einen Anspruch auf Nutzungen, so kann bei Teilung des herrschenden Grundstückes jeder Berechtigte und bei Teilung des belasteten Grundstückes jeder Belastete eine gerichtliche Regelung der Ausübung begehren. Die Ausübung ist mit Rücksicht auf die Natur und Zweckbestimmung des Rechtes sowie auf das Größenverhältnis und die wirtschaftliche Besonderheit der einzelnen Liegenschaftsteile ohne Erschwerung der Last so zu regeln, wie es allen Interessen billigerweise entspricht.
 
-`§ 970b ABGB.`  
-Der Ersatzanspruch aus der Gastaufnahme erlischt, wenn der Beschädigte nach erlangter Kenntnis von dem Schaden nicht ohne Verzug dem Wirte die Anzeige macht. Dies gilt jedoch nicht, wenn die Sachen vom Wirte zur Aufbewahrung übernommen waren.
+### § 849 ABGB
 
-### § 970c ABGB
+`§ 849 ABGB.`  
+Was bisher von der Gemeinschaft überhaupt bestimmt worden ist, läßt sich auch auf die einer Familie, als einer Gemeinschaft, zustehenden Rechte und Sachen, z. B. Stiftungen, Fideicommisse u. dgl. anwenden.
 
-`§ 970c ABGB.`  
-Den im § 970 bezeichneten Personen steht das Recht zu, zur Sicherung ihrer Forderungen aus der Beherbergung und Verpflegung sowie ihrer Auslagen für die Gäste die eingebrachten Sachen zurückzuhalten.
+### § 850 ABGB # Erneuerung und Berichtigung der Grenzen
 
-## Zwanzigstes Hauptstück. # Von dem Leihvertrage.
+`§ 850 ABGB.`  
+Wenn die Grenzzeichen zwischen zwei Grundstücken durch was immer für Umstände so verletzt worden sind, daß sie ganz unkenntlich werden könnten, oder wenn die Grenzen wirklich unkennbar oder streitig sind, so hat jeder der Nachbarn das Recht, die gerichtliche Erneuerung oder Berichtigung der Grenze zu verlangen. Zu diesem Behufe sind die Nachbarn zu einer Verhandlung im Verfahren außer Streitsachen mit dem Bedeuten zu laden, daß trotz Ausbleibens des Geladenen die Grenze festgesetzt und vermarkt werden wird.
 
-### § 971 ABGB # c) Leihvertrag.
+### § 851 ABGB
 
-`§ 971 ABGB.`  
-Wenn jemanden eine unverbrauchbare Sache bloß zum unentgeldlichen Gebrauche auf eine bestimmte Zeit übergeben wird; so entsteht ein Leihvertrag. Der Vertrag, wodurch man jemanden eine Sache zu leihen verspricht, ohne sie zu übergeben, ist zwar verbindlich, aber noch kein Leihvertrag.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Rechte und Pflichten des Entlehners.</h4>
+`§ 851 (1) ABGB.`  
+Sind die Grenzen wirklich unkennbar geworden oder streitig, so werden sie nach dem letzten ruhigen Besitzstande festgesetzt. Läßt sich dieser nicht feststellen, so hat das Gericht die streitige Fläche nach billigem Ermessen zu verteilen.
 
-### § 972 ABGB # 1) in Rücksicht des Gebrauches;
+`§ 851 (2) ABGB.`  
+Jeder Partei bleibt es vorbehalten, ihr besseres Recht im Prozeßweg geltend zu machen.
 
-`§ 972 ABGB.`  
-Der Entlehner erwirbt das Recht, den ordentlichen oder näher bestimmten Gebrauch von der Sache zu machen. Nach Verlauf der Zeit ist er verpflichtet, eben dieselbe Sache zurückzustellen.
+### § 852 ABGB
 
-### § 973 ABGB # 2) der Zurückstellung;
+`§ 852 ABGB.`  
+Die wichtigsten Behelfe bey einer Gränzberichtigung sind: die Ausmessung und Beschreibung, oder auch die Abzeichnung des streitigen Grundes; dann, die sich darauf beziehenden öffentlichen Bücher und andere Urkunden; endlich, die Aussagen sachkündiger Zeugen, und das von Sachverständigen nach vorgenommenem Augenscheine gegebene Gutachten.
 
-`§ 973 ABGB.`  
-Wenn keine Zeit zur Zurückgabe festgesetzt, wohl aber die Absicht des Gebrauches bestimmt worden ist; so ist der Entlehner verbunden, mit dem Gebrauche nicht zu zögern, und die Sache so bald als möglich zurück zu geben.
+### § 853 ABGB
 
-### § 974 ABGB
+`§ 853 (1) ABGB.`  
+Die Kosten des Verfahrens sind von den Nachbarn nach Maß ihrer Grenzlinien zu bestreiten. Der Antragsteller hat die Kosten des Verfahrens zu tragen, wenn sich aus der Verhandlung ergibt, daß die Grenzerneuerung oder Grenzberichtigung nicht notwendig war, weil die Grenze nicht bestritten oder hinlänglich kenntlich gewesen ist, oder weil die anderen Beteiligten zur außergerichtlichen Vermarkung bereit waren.
 
-`§ 974 ABGB.`  
-Hat man weder die Dauer, noch die Absicht des Gebrauches bestimmt; so entsteht kein wahrer Vertrag, sondern ein unverbindliches Bittleihen (Precarium), und der Verleiher kann die entlehnte Sache nach Willkühr zurückfordern.
+`§ 853 (2) ABGB.`  
+Wenn das Verfahren durch Störung des ruhigen Besitzes veranlaßt wurde, kann das Gericht die Kosten ganz oder teilweise der Partei auferlegen, die den Streit veranlaßt hat.
 
-### § 975 ABGB
+### § 853a ABGB
 
-`§ 975 ABGB.`  
-Bey einem Streite über die Dauer des Gebrauches muß der Entlehner das Recht auf den längern Gebrauch beweisen.
+`§ 853a ABGB.`  
+Für Grenzen von Grundstücken, die im Grenzkataster enthalten sind, finden die Bestimmungen der §§ 850 bis 853 keine Anwendung.
 
-### § 976 ABGB
+### § 854 ABGB # Vermuthete Gemeinschaft.
 
-`§ 976 ABGB.`  
-Wenn gleich die verlehnte Sache vor Verlauf der Zeit und vor geendigtem Gebrauche dem Verleiher selbst unentbehrlich wird; so hat er ohne ausdrückliche Verabredung doch kein Recht, die Sache früher zurück zu nehmen.
+`§ 854 ABGB.`  
+Erdfurchen, Zäune, Hecken, Planken, Mauern, Privat-Bäche, Canäle, Plätze und andere dergleichen Scheidewände, die sich zwischen benachbarten Grundstücken befinden, werden für ein gemeinschaftliches Eigenthum angesehen, wenn nicht Wapen (Anm.: richtig: Wappen), Auf- oder Inschriften, oder andere Kennzeichen und Behelfe das Gegentheil beweisen.
 
-### § 977 ABGB
+### § 855 ABGB
 
-`§ 977 ABGB.`  
-Der Entlehner ist zwar in der Regel berechtiget, die entlehnte Sache auch vor der bestimmten Zeit zurück zu geben: fällt aber die frühere Zurückgabe dem Verleiher beschwerlich; so kann sie wider seinen Willen nicht Statt finden.
+`§ 855 ABGB.`  
+Jeder Mitgenosse kann eine gemeinschaftliche Mauer auf seiner Seite bis zur Hälfte in der Dicke benützen, auch Blindthüren und Wandschränke dort anbringen, wo auf der entgegengesetzten Seite noch keine angebracht sind. Doch darf das Gebäude durch einen Schorstein, Feuerherd oder andere Anlagen nicht in Gefahr gesetzt, und der Nachbar auf keine Art in dem Gebrauche seines Antheiles gehindert werden.
 
-### § 978 ABGB # 3) der Beschädigung;
+### § 856 ABGB
 
-`§ 978 ABGB.`  
-Wenn der Entlehner die geliehene Sache anders gebraucht, als es bedungen war, oder den Gebrauch derselben eigenmächtig einem Dritten gestattet; so ist er dem Verleiher verantwortlich; und dieser auch berechtiget, die Sache sogleich zurück zu fordern.
+`§ 856 ABGB.`  
+Alle Miteigenthümer tragen zur Erhaltung solcher gemeinschaftlichen Scheidewände verhältnißmäßig bey. Wo sie doppelt vorhanden sind; oder das Eigenthum getheilt ist, bestreitet jeder die Unterhaltungskosten für das, was ihm allein gehört.
 
-### § 979 ABGB
+### § 857 ABGB
 
-`§ 979 ABGB.`  
-Wird die geliehene Sache beschädiget, oder zu Grunde gerichtet; so muß der Entlehner nicht nur den zunächst durch sein Verschulden verursachten, sondern auch den zufälligen Schaden, den er durch eine widerrechtliche Handlung veranlaßt hat, so wie der Verwahrer einer Sache ersetzen (§. 965).
+`§ 857 ABGB.`  
+Ist die Stellung einer Scheidewand von der Art, daß die Ziegel, Latten oder Steine nur auf einer Seite vorlaufen oder abhängen; oder sind die Pfeiler, Säulen, Ständer, Bachställe auf Einer Seite eingegraben; so ist im Zweifel auf dieser Seite das ungetheilte Eigenthum der Scheidewand, wenn nicht aus einer beyderseitigen Belastung, Einfügung, aus anderen Kennzeichen oder sonstigen Beweisen das Gegentheil erhellet. Auch derjenige wird für den ausschließenden Besitzer einer Mauer gehalten, welcher eine in der Richtung gleich fortlaufende Mauer von gleicher Höhe und Dicke unstreitig besitzt.
 
-### § 980 ABGB
+### § 858 ABGB
 
-`§ 980 ABGB.`  
-Dadurch, daß der Entlehner für ein verlornes Lehnstück den Werth erlegt, hat er noch kein Recht, dasselbe, wenn es wieder gefunden wird, gegen den Willen des Eigenthümers für sich zu behalten, wenn dieser bereit ist, den empfangenen Werth zurück zu geben.
+`§ 858 ABGB.`  
+In der Regel ist der ausschließende Besitzer nicht schuldig, seine verfallene Mauer oder Planke neu aufzuführen; nur dann muß er sie in gutem Stande erhalten, wenn durch die Oeffnung für den Gränznachbar Schaden zu befürchten stünde. Es ist aber jeder Eigenthümer verbunden, auf der rechten Seite seines Haupteinganges für die nöthige Einschließung seines Raumes, und für die Abtheilung von dem fremden Raume zu sorgen.
 
-### § 981 ABGB # 4) der Erhaltungskosten.
+## Zweyter Theil. # Zweyte Abtheilung. # Von den persönlichen Sachenrechten. # Siebzehntes Hauptstück. # Von Verträgen und Rechtsgeschäften überhaupt.
 
-`§ 981 ABGB.`  
-Die mit dem Gebrauche ordentlicher Weise verbundenen Kosten muß der Entlehner selbst bestreiten. Die außerordentlichen Erhaltungskosten hat er zwar, dafern er die Sache dem Verleiher nicht zur eigenen Besorgung überlassen kann oder will, inzwischen vorzuschießen; doch werden sie ihm gleich einem redlichen Besitzer vergütet.
+### § 859 ABGB # Grund der persönlichen Sachenrechte.
 
-### § 982 ABGB # Beschränkung der wechselseitigen Klagen.
+`§ 859 ABGB.`  
+Die persönlichen Sachenrechte, vermöge welcher eine Person einer andern zu einer Leistung verbunden ist, gründen sich unmittelbar auf ein Gesetz; oder auf ein Rechtsgeschäft; oder auf eine erlittene Beschädigung.
 
-`§ 982 ABGB.`  
-Wenn der Verleiher nach der Zurücknahme des Lehnstückes dessen Mißbrauch, oder übertriebene Abnutzung innerhalb dreyßig Tagen nicht gerüget; oder, wenn der Entlehner nach der Zurückgabe von den auf die Sache verwendeten außerordentlichen Kosten binnen eben diesem Zeitraume keine Meldung gemacht hat; so ist die Klage erloschen.
+### § 860 ABGB # Auslobung
 
-## Ein u. zwanzigstes Hauptstück. # Von dem Darleihensvertrage.
+`§ 860 ABGB.`  
+Die nicht an bestimmte Personen gerichtete Zusage einer Belohnung für eine Leistung oder einen Erfolg (Auslobung) wird durch die öffentliche Bekanntmachung verbindlich. Eine Auslobung, die eine Preisbewerbung zum Gegenstande hat, ist nur gültig, wenn in der Bekanntmachung eine Frist für die Bewerbung bestimmt ist.
 
-### § 983 ABGB # Darlehensvertrag
+### § 860a ABGB
 
-`§ 983 ABGB.`  
-Im Darlehensvertrag verpflichtet sich der Darlehensgeber, dem Darlehensnehmer vertretbare Sachen mit der Bestimmung zu übergeben, dass der Darlehensnehmer über die Sachen nach seinem Belieben verfügen kann. Der Darlehensnehmer ist verpflichtet, dem Darlehensgeber spätestens nach Vertragsende ebenso viele Sachen derselben Gattung und Güte zurückzugeben.
+`§ 860a ABGB.`  
+Bis zur Vollendung der Leistung kann die Auslobung in derselben Form, in welcher sie bekannt gemacht war, oder einer gleich wirksamen Form, oder durch besondere Mitteilung widerrufen werden, wenn anders darauf in der Bekanntmachung nicht ausdrücklich oder durch Bestimmung einer Frist verzichtet ist. Der Widerruf ist aber unwirksam gegenüber demjenigen, der die Leistung im Hinblick auf die Auslobung vollbracht hat, wenn er dartut, daß der Widerruf ihm zu dieser Zeit ohne sein Verschulden nicht bekannt geworden war.
 
-### § 984 ABGB # Arten des Darlehensvertrags
+### § 860b ABGB
 
-`§ 984 (1) ABGB.`  
-Gegenstand eines Darlehensvertrags können Geld oder andere vertretbare Sachen sein. Ein Darlehen kann entweder unentgeltlich oder gegen Entgelt gewährt werden. Wenn die Parteien nichts über ein Entgelt vereinbaren, gilt der Darlehensvertrag im Zweifel als entgeltlich.
+`§ 860b ABGB.`  
+Ist die Leistung von mehreren Personen vollbracht worden, so gebührt, falls nicht aus der Auslobung ein anderer Wille hervorgeht, die Belohnung demjenigen, der die Leistung zuerst vollbracht hat, und bei gleichzeitiger Vollendung allen zu gleichen Theilen.
 
-`§ 984 (2) ABGB.`  
-Ein unentgeltlicher Darlehensvertrag ohne Übergabe der Sachen ist nur wirksam, wenn der Darlehensgeber seine Vertragserklärung schriftlich abgibt.
+### § 861 ABGB # Abschließung des Vertrages.
 
-### § 985 ABGB # Steigerung und Minderung des Werts
+`§ 861 ABGB.`  
+Wer sich erkläret, daß er jemanden sein Recht übertragen, das heißt, daß er ihm etwas gestatten, etwas geben, daß er für ihn etwas thun, oder seinetwegen etwas unterlassen wolle, macht ein Versprechen; nimmt aber der Andere das Versprechen gültig an, so kommt durch den übereinstimmenden Willen beyder Theile ein Vertrag zu Stande. So lange die Unterhandlungen dauern, und das Versprechen noch nicht gemacht, oder weder zum voraus, noch nachher angenommen ist, entsteht kein Vertrag.
 
-`§ 985 ABGB.`  
-Der Darlehensnehmer hat, sofern nichts anderes vereinbart ist, bei der Rückgabe der Sachen einen in der Zwischenzeit eingetretenen Wertverlust nicht auszugleichen. Gleichermaßen kann er sich auch nicht auf eine Wertsteigerung zur Minderung seiner Rückgabepflicht berufen.
+### § 862 ABGB
 
-### § 986 ABGB # Dauer und Auflösung des Darlehensvertrags
+`§ 862 ABGB.`  
+Das Versprechen (Antrag) muß innerhalb der vom Antragsteller bestimmten Frist angenommen werden. In Ermanglung einer solchen muß der einem Anwesenden oder mittels Fernsprechers von Person zu Person gemachte Antrag sogleich, der sonst einem Abwesenden gemachte Antrag längstens bis zu dem Zeitpunkte angenommen werden, in welchem der Antragsteller unter der Voraussetzung, daß sein Antrag rechtzeitig angekommen sei, bei rechtzeitiger und ordnungsmäßiger Absendung der Antwort deren Eintreffen erwarten darf; widrigenfalls ist der Antrag erloschen. Vor Ablauf der Annahmefrist kann der Antrag nicht zurückgenommen werden. Er erlischt auch nicht, wenn ein Teil während der Annahmefrist stirbt oder handlungsunfähig wird, sofern nicht ein anderer Wille des Antragstellers aus den Umständen hervorgeht.
 
-`§ 986 (1) ABGB.`  
-Der Darlehensvertrag kann auf eine im Voraus bestimmte oder auf unbestimmte Zeit geschlossen werden.
+### § 862a ABGB
 
-`§ 986 (2) ABGB.`  
-Ein auf unbestimmte Zeit geschlossener Darlehensvertrag kann von jedem Vertragsteil unter Einhaltung einer einmonatigen Kündigungsfrist gekündigt werden.
+`§ 862a ABGB.`  
+Als rechtzeitig gilt die Annahme, wenn die Erklärung innerhalb der Annahmefrist dem Antragsteller zugekommen ist. Trotz ihrer Verspätung kommt jedoch der Vertrag zustande, wenn der Antragsteller erkennen mußte, daß die Annahmeerklärung rechtzeitig abgesendet wurde, und gleichwohl seinen Rücktritt dem andern nicht unverzüglich anzeigt.
 
-`§ 986 (3) ABGB.`  
-Ein auf bestimmte Zeit geschlossener Darlehensvertrag endet durch Zeitablauf.
+### § 863 ABGB
 
-### § 987 ABGB # Außerordentliche Kündigung des Darlehensvertrags
+`§ 863 (1) ABGB.`  
+Man kann seinen Willen nicht nur ausdrücklich durch Worte und allgemein angenommene Zeichen; sondern auch stillschweigend durch solche Handlungen erklären, welche mit Überlegung aller Umstände keinen vernünftigen Grund, daran zu zweifeln, übrig lassen.
 
-`§ 987 ABGB.`  
-Jeder Vertragsteil kann den Darlehensvertrag jederzeit ohne Einhaltung einer Kündigungsfrist kündigen, wenn ihm die Aufrechterhaltung des Vertrags aus wichtigen Gründen unzumutbar ist.
+`§ 863 (2) ABGB.`  
+In bezug auf die Bedeutung und Wirkung von Handlungen und Unterlassungen ist auf die im redlichen Verkehr geltenden Gewohnheiten und Gebräuche Rücksicht zu nehmen.
 
-### § 988 ABGB # Kreditvertrag
+### § 864 ABGB
 
-`§ 988 ABGB.`  
-Der entgeltliche Darlehensvertrag über Geld heißt Kreditvertrag; dazu zählt auch ein Vertrag, mit dem ein Geldbetrag zum Abruf zur Verfügung gestellt wird. Die Parteien dieses Vertrags heißen Kreditgeber und Kreditnehmer. Das Entgelt besteht in der Regel in den vom Kreditnehmer zu zahlenden Zinsen; für diese gilt § 1000 Abs. 1.
+`§ 864 (1) ABGB.`  
+Ist eine ausdrückliche Erklärung der Annahme nach der Natur des Geschäftes oder der Verkehrssitte nicht zu erwarten, so kommt der Vertrag zustande, wenn dem Antrag innerhalb der hierfür bestimmten oder den Umständen angemessenen Frist tatsächlich entsprochen worden ist.
 
-### § 989 ABGB # Befristung und Ende des Kreditvertrags
+`§ 864 (2) ABGB.`  
+Das Behalten, Verwenden oder Verbrauchen einer Sache, die dem Empfänger ohne seine Veranlassung übersandt worden ist, gilt nicht als Annahme eines Antrags. Der Empfänger ist nicht verpflichtet, die Sache zu verwahren oder zurückzuleiten, er darf sich ihrer auch entledigen. Muß ihm jedoch nach den Umständen auffallen, daß die Sache irrtümlich an ihn gelangt ist, so hat er in angemessener Frist dies dem Absender mitzuteilen oder die Sache an den Absender zurückzuleiten.
 
-`§ 989 (1) ABGB.`  
-Beim Kreditvertrag kann sich eine bestimmte Vertragsdauer nicht bloß aus der datumsmäßigen Festlegung eines Endtermins ergeben, sondern auch aus den Vereinbarungen über den Kreditbetrag sowie über die Art der Rückzahlung des Kredits und die zu leistenden Zinsen.
+### § 864a ABGB
 
-`§ 989 (2) ABGB.`  
-Nach Ende des Kreditvertrags hat der Kreditnehmer den Kreditbetrag samt den noch zu leistenden Zinsen zurückzuzahlen.
-
-### § 990 ABGB # Unwirksame Vereinbarungen über das Kündigungsrecht des Kreditgebers
-
-`§ 990 ABGB.`  
-Vereinbarungen, durch die dem Kreditgeber ein nicht an sachlich gerechtfertigte Gründe geknüpftes Recht zur vorzeitigen Kündigung eines auf bestimmte Zeit geschlossenen und seinerseits schon erfüllten Kreditvertrags eingeräumt wird, sind nicht wirksam.
-
-### § 991 ABGB # Verweigerung der Kreditauszahlung
-
-`§ 991 ABGB.`  
-Der Kreditgeber kann die Auszahlung des Kreditbetrags verweigern, wenn sich nach Vertragsabschluss Umstände ergeben, die eine Verschlechterung der Vermögenslage des Kreditnehmers oder eine Entwertung bedungener Sicherheiten in einem solchen Ausmaß erweisen, dass die Rückzahlung des Kredits oder die Entrichtung der Zinsen selbst bei Verwertung der Sicherheiten gefährdet sind.
-
-### § 1000 ABGB # Zinsen und Zinseszinsen
-
-`§ 1000 (1) ABGB.`  
-An Zinsen, die ohne Bestimmung der Höhe vereinbart worden sind oder aus dem Gesetz gebühren, sind, sofern gesetzlich nicht anderes bestimmt ist, vier vom Hundert auf ein Jahr zu entrichten.
-
-`§ 1000 (2) ABGB.`  
-Der Gläubiger einer Geldforderung kann Zinsen von Zinsen verlangen, wenn die Parteien dies ausdrücklich vereinbart haben. Sonst kann er, sofern fällige Zinsen eingeklagt werden, Zinseszinsen vom Tag der Streitanhängigkeit an fordern. Wurde über die Höhe der Zinseszinsen keine Vereinbarung getroffen, so sind ebenfalls vier vom Hundert auf ein Jahr zu entrichten.
-
-`§ 1000 (3) ABGB.`  
-Haben die Parteien über die Frist zur Zahlung der Zinsen keine Vereinbarung getroffen, so sind diese bei der Zurückzahlung des Kapitals oder, sofern der Vertrag auf mehrere Jahre abgeschlossen worden ist, jährlich zu zahlen.
+`§ 864a ABGB.`  
+Bestimmungen ungewöhnlichen Inhaltes in Allgemeinen Geschäftsbedingungen oder Vertragsformblättern, die ein Vertragsteil verwendet hat, werden nicht Vertragsbestandteil, wenn sie dem anderen Teil nachteilig sind und er mit ihnen auch nach den Umständen, vor allem nach dem äußeren Erscheinungsbild der Urkunde, nicht zu rechnen brauchte; es sei denn, der eine Vertragsteil hat den anderen besonders darauf hingewiesen.
 
 `END-OF-DATA-FILE`

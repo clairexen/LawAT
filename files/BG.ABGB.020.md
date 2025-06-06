@@ -6,395 +6,289 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Siebenundzwanzigstes Hauptstück # Von der Gesellschaft bürgerlichen Rechts # 1. Abschnitt # Allgemeine Bestimmungen
+## Zwey u. zwanzigstes Hauptstück. # Von der Bevollmächtigung und andern Arten der Geschäftsführung.
 
-### § 1175 ABGB # Begriff und Rechtsnatur der Gesellschaft bürgerlichen Rechts
+### § 1002 ABGB # Bevollmächtigungsvertrag.
 
-`§ 1175 (1) ABGB.`  
-Schließen sich zwei oder mehrere Personen durch einen Vertrag zusammen, um durch eine bestimmte Tätigkeit einen gemeinsamen Zweck zu verfolgen, so bilden sie eine Gesellschaft. Sofern sie keine andere Gesellschaftsform wählen, bilden sie eine Gesellschaft bürgerlichen Rechts im Sinn dieses Hauptstücks.
+`§ 1002 ABGB.`  
+Der Vertrag, wodurch jemand ein ihm aufgetragenes Geschäft im Nahmen des Andern zur Besorgung übernimmt, heißt Bevollmächtigungsvertrag.
 
-`§ 1175 (2) ABGB.`  
-Die Gesellschaft bürgerlichen Rechts ist nicht rechtsfähig.
+### § 1003 ABGB
 
-`§ 1175 (3) ABGB.`  
-Sie kann jeden erlaubten Zweck verfolgen und jede erlaubte Tätigkeit zum Gegenstand haben.
+`§ 1003 ABGB.`  
+Personen, welche zur Besorgung bestimmter Geschäfte öffentlich bestellt worden, sind schuldig, über einen darauf sich beziehenden Auftrag ohne Zögerung gegen den Auftragenden sich ausdrücklich zu erklären, ob sie denselben annehmen oder nicht; widrigen Falls bleiben sie dem Auftragenden für den dadurch veranlaßten Nachtheil verantwortlich.
 
-`§ 1175 (4) ABGB.`  
-Die Bestimmungen dieses Hauptstücks sind auch auf andere Gesellschaften anzuwenden, soweit für diese keine besonderen Vorschriften bestehen und die Anwendung dieser Bestimmungen auch unter Berücksichtigung der für die jeweilige Gesellschaft geltenden Grundsätze angemessen ist.
+### § 1004 ABGB # Eintheilung der Bevollmächtigung in eine unentgeldliche oder entgeldliche;
 
-### § 1176 ABGB # Innen- und Außengesellschaft
+`§ 1004 ABGB.`  
+Wird für die Besorgung eines fremden Geschäftes entweder ausdrücklich, oder nach dem Stande des Geschäftsträgers auch nur stillschweigend eine Belohnung bedungen; so gehört der Vertrag zu den entgeldlichen, außer dem aber zu den unentgeldlichen.
 
-`§ 1176 (1) ABGB.`  
-Die Gesellschafter können die Gesellschaft auf ihr Verhältnis untereinander beschränken (Innengesellschaft) oder gemeinschaftlich im Rechtsverkehr auftreten (Außengesellschaft). Ist der Gegenstand der Gesellschaft der Betrieb eines Unternehmens oder führen die Gesellschafter einen gemeinsamen Gesellschaftsnamen (§ 1177), so wird vermutet, dass die Gesellschafter eine Außengesellschaft vereinbaren wollten.
+### § 1005 ABGB # mündliche oder schriftliche;
 
-`§ 1176 (2) ABGB.`  
-Haben die Gesellschafter in den Fällen des Abs. 1 zweiter Satz eine Außengesellschaft vertraglich ausgeschlossen, so kann dieser Umstand einem Dritten nur entgegengehalten werden, wenn dieser wusste oder hätte wissen müssen, dass es sich bloß um eine Innengesellschaft handelt.
+`§ 1005 ABGB.`  
+Bevollmächtigungsverträge können mündlich oder schriftlich geschlossen werden. Die von dem Gewaltgeber dem Gewalthaber hierüber ausgestellte Urkunde wird Vollmacht genannt.
 
-### § 1177 ABGB # Gesellschaftsname
+### § 1006 ABGB # allgemeine oder besondere;
 
-`§ 1177 (1) ABGB.`  
-Wenn die Gesellschafter unter einem gemeinsamen Namen auftreten, muss dieser auf das Bestehen einer solchen Gesellschaft hindeuten, zur Kennzeichnung der Gesellschaft geeignet sein und Unterscheidungskraft besitzen. Er darf über die Verhältnisse der Gesellschaft nicht in die Irre führen.
+`§ 1006 ABGB.`  
+Es gibt allgemeine und besondere Vollmachten, je nachdem jemanden die Besorgung aller, oder nur einiger Geschäfte anvertraut wird. Die besonderen Vollmachten können bloß gerichtliche oder bloß außergerichtliche Geschäfte überhaupt; oder sie können einzelne Angelegenheiten der einen oder der andern Gattung zum Gegenstande haben.
 
-`§ 1177 (2) ABGB.`  
-Wer in Angelegenheiten der Gesellschaft für alle Gesellschafter gemeinsam auftritt, hat jedem, der ein rechtliches Interesse daran hat, die Identität und die Anschrift der Gesellschafter offenzulegen.
+### § 1007 ABGB # unumschränkte, oder beschränkte;
 
-### § 1178 ABGB # Gesellschaftsvermögen
+`§ 1007 ABGB.`  
+Vollmachten werden entweder mit unumschränkter oder mit beschränkter Freyheit zu handeln ertheilet. Durch die erstere wird der Gewalthaber berechtiget, das Geschäft nach seinem besten Wissen und Gewissen zu leiten; durch die letztere aber werden ihm die Gränzen, wie weit, und die Art, wie er dasselbe betreiben soll, vorgeschrieben.
 
-`§ 1178 (1) ABGB.`  
-Zum Gesellschaftsvermögen gehören das der Gesellschaft gewidmete Eigentum, die sonstigen gesellschaftsbezogenen Sachenrechte, die gesellschaftsbezogenen Vertragsverhältnisse, Forderungen und Verbindlichkeiten und die gesellschaftsbezogenen Immaterialgüterrechte sowie der jeweils daraus verschaffte Nutzen, die daraus gewonnenen Früchte und alles, was an Stelle bestehender Vermögenswerte zufließt.
+### § 1008 ABGB
 
-`§ 1178 (2) ABGB.`  
-Vom Gesellschaftsvermögen zu unterscheiden ist das sonstige Vermögen der einzelnen Gesellschafter. Gegen eine Forderung, die zum Gesellschaftsvermögen gehört, kann der Schuldner nicht mit einer ihm gegen einen einzelnen Gesellschafter zustehenden Forderung aufrechnen.
+`§ 1008 ABGB.`  
+Folgende Geschäfte: Wenn im Nahmen eines Andern Sachen veräußert, oder entgeldlich übernommen; Anleihen oder Darleihen geschlossen; Geld oder Geldeswerth erhoben; Processe anhängig gemacht; Eide aufgetragen, angenommen oder zurückgeschoben, oder Vergleiche getroffen werden sollen, erfordern eine besondere, auf diese Gattungen der Geschäfte lautende Vollmacht. Wenn aber eine Erbschaft unbedingt angenommen oder ausgeschlagen; Gesellschaftsverträge errichtet; Schenkungen gemacht; das Befugniß, einen Schiedsrichter zu wählen, eingeräumt, oder Rechte unentgeldlich aufgegeben werden sollen; ist eine besondere, auf das einzelne Geschäft ausgestellte Vollmacht nothwendig. Allgemeine, selbst unbeschränkte Vollmachten sind in diesen Fällen nur hinreichend, wenn die Gattung des Geschäftes in der Vollmacht ausgedrücket worden ist.
 
-### § 1179 ABGB # Einbringung des Gesellschaftsvermögens
+### § 1009 ABGB # Rechte und Verbindlichkeiten des Gewalthabers;
 
-`§ 1179 (1) ABGB.`  
-Der Gesellschaftsvertrag ist ein Titel für die Bildung und den Erwerb von Gesellschaftsvermögen. Dessen Einbringung bedarf der jeweils allgemein erforderlichen Übergabe oder Verfügung.
+`§ 1009 ABGB.`  
+Der Gewalthaber ist verpflichtet, das Geschäft seinem Versprechen und der erhaltenen Vollmacht gemäß, emsig und redlich zu besorgen, und allen aus dem Geschäfte entspringenden Nutzen dem Machtgeber zu überlassen. Er ist, ob er gleich eine beschränkte Vollmacht hat, berechtiget, alle Mittel anzuwenden, die mit der Natur des Geschäftes nothwendig verbunden, oder der erklärten Absicht des Machtgebers gemäß sind. Ueberschreitet er aber die Gränzen der Vollmacht; so haftet er für die Folgen.
 
-`§ 1179 (2) ABGB.`  
-Wenn nach dem Gesellschaftsvertrag das ganze Vermögen einzubringen ist, so ist darunter nur das gegenwärtige zu verstehen. Soll aber auch das künftige Vermögen eingebracht werden, so ist darunter nicht das geerbte oder das geschenkte zu verstehen.
+### § 1010 ABGB
 
-### § 1180 ABGB # Vermögensordnung
+`§ 1010 ABGB.`  
+Trägt der Gewalthaber das Geschäft ohne Noth einem Dritten auf; so haftet er ganz allein für den Erfolg. Wird ihm aber die Bestellung eines Stellvertreters in der Vollmacht ausdrücklich gestattet, oder durch die Umstände unvermeidlich; so verantwortet er nur ein bey der Auswahl der Person begangenes Verschulden.
 
-`§ 1180 (1) ABGB.`  
-Soweit nichts anderes vereinbart ist, stehen körperliche Sachen, die von Gesellschaftern in das Gesellschaftsvermögen übertragen oder für das Gesellschaftsvermögen (§ 1178 Abs. 1) erworben worden sind, im Miteigentum der Gesellschafter; unkörperliche Sachen, insbesondere schuldrechtliche Forderungen, sind den Gesellschaftern zur gesamten Hand zugeordnet.
+### § 1011 ABGB
 
-`§ 1180 (2) ABGB.`  
-Im Gesellschaftsvertrag können der Gesellschaft Sachen auch bloß zum Gebrauch zur Verfügung gestellt oder im Innenverhältnis so behandelt werden, als ob sie allen gemeinsam gehörten.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">2. Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Rechtsverhältnisse der Gesellschafter untereinander</span></h4>
+`§ 1011 ABGB.`  
+Wird mehreren Bevollmächtigten zugleich ein Geschäft aufgetragen; so ist die Mitwirkung Aller zur Gültigkeit des Geschäftes, und Verpflichtung des Machtgebers nothwendig; wenn nicht ausdrücklich Einem oder Mehreren aus ihnen die volle Befugniß in der Vollmacht ertheilt worden ist.
 
-### § 1181 ABGB # Gestaltungsfreiheit
+### § 1012 ABGB
 
-`§ 1181 ABGB.`  
-Die Rechtsverhältnisse der Gesellschafter untereinander richten sich nach dem Gesellschaftsvertrag; die Vorschriften dieses Abschnitts finden nur insoweit Anwendung, als nicht durch den Gesellschaftsvertrag anderes bestimmt ist.
+`§ 1012 ABGB.`  
+Der Gewalthaber ist schuldig, dem Machtgeber den durch sein Verschulden verursachten Schaden zu ersetzen, und die bey dem Geschäfte vorkommenden Rechnungen, so oft dieser es verlangt, vorzulegen.
 
-### § 1182 ABGB # Gesellschaftsanteil und Beiträge der Gesellschafter
+### § 1013 ABGB
 
-`§ 1182 (1) ABGB.`  
-Der Gesellschaftsanteil ist die Summe der gesellschaftsvertraglichen Rechte und Pflichten eines Gesellschafters gegenüber allen übrigen Gesellschaftern. Ein Gesellschafter kann nicht ohne Zustimmung aller Gesellschafter über seinen Gesellschaftsanteil verfügen.
+`§ 1013 ABGB.`  
+Gewalthaber sind, außer dem im §. 1004 enthaltenen Falle, nicht befugt, ihrer Bemühung wegen eine Belohnung zu fordern. Es ist ihnen nicht erlaubt, ohne Willen des Machtgebers in Rücksicht auf die Geschäftsverwaltung von einem Dritten Geschenke anzunehmen. Die erhaltenen werden zur Armen-Casse eingezogen.
 
-`§ 1182 (2) ABGB.`  
-Das Ausmaß der Kapitalbeteiligung der Gesellschafter an der Gesellschaft bestimmt sich nach dem Verhältnis des Wertes der vereinbarten Einlagen (Kapitalanteil). Im Zweifel sind die Gesellschafter zu gleichen Teilen beteiligt. Soweit nichts anderes vereinbart ist, sind die Gesellschafter im gleichen Ausmaß zur Mitwirkung an der Förderung des Gesellschaftszwecks verpflichtet.
+### § 1014 ABGB # des Gewaltgebers;
 
-`§ 1182 (3) ABGB.`  
-Der Beitrag eines Gesellschafters kann sich auch auf die Leistung von Diensten beschränken (Arbeitsgesellschafter). Einem solchen Gesellschafter kann im Gesellschaftsvertrag eine Beteiligungsquote zuerkannt werden, so als ob er einen Kapitalanteil geleistet hätte. Andernfalls steht ihm für seine Mitwirkung bloß ein angemessener Betrag des Jahresgewinns zu (§ 1195 Abs. 4).
+`§ 1014 ABGB.`  
+Der Gewaltgeber ist verbunden, dem Gewalthaber allen zur Besorgung des Geschäftes nothwendig oder nützlich gemachten Aufwand, selbst bey fehlgeschlagenem Erfolge, zu ersetzen, und ihm auf Verlangen zur Bestreitung der baren Auslagen auch einen angemessenen Vorschuß zu leisten; er muß ferner allen durch sein Verschulden entstandenen, oder mit der Erfüllung des Auftrages verbundenen Schaden vergüten.
 
-### § 1183 ABGB # Verzinsungspflicht
+### § 1015 ABGB
 
-`§ 1183 (1) ABGB.`  
-Ein Gesellschafter, der seine Geldeinlage nicht zur rechten Zeit einzahlt, eingenommenes Gesellschaftsgeld nicht zur rechten Zeit an das Gesellschaftsvermögen abführt oder unbefugt Geld aus dem Gesellschaftsvermögen entnimmt, hat Zinsen von dem Tag an zu entrichten, an dem die Zahlung oder die Ablieferung hätte geschehen sollen oder die Herausnahme des Geldes erfolgt ist.
+`§ 1015 ABGB.`  
+Leidet der Gewalthaber bey der Geschäftsführung nur zufälliger Weise Schaden; so kann er in dem Falle, daß er das Geschäft unentgeldlich zu besorgen übernahm, einen solchen Betrag fordern, welcher ihm bey einem entgeldlichen Vertrage zur Vergütung der Bemühung nach dem höchsten Schätzungswerthe gebührt haben würde.
 
-`§ 1183 (2) ABGB.`  
-Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
+### § 1016 ABGB
 
-### § 1184 ABGB # Nachschuss
+`§ 1016 ABGB.`  
+Ueberschreitet der Gewalthaber die Gränzen seiner Vollmacht; so ist der Gewaltgeber nur in so fern verbunden, als er das Geschäft genehmigt, oder den aus dem Geschäfte entstandenen Vortheil sich zuwendet.
 
-`§ 1184 (1) ABGB.`  
-Die Gesellschafter sind nicht verpflichtet, Nachschüsse zur vertraglich zugesagten Einlage zu leisten.
+### § 1017 ABGB # in Rücksicht eines Dritten.
 
-`§ 1184 (2) ABGB.`  
-Auch ohne Vereinbarung im Gesellschaftsvertrag können die Gesellschafter mit Stimmenmehrheit (§ 1192 Abs. 2) die Leistung von Nachschüssen im Verhältnis ihrer Kapitalanteile beschließen, wenn die Fortführung der Gesellschaft sonst nicht möglich wäre. Ein Gesellschafter, der dem Beschluss nicht zugestimmt hat und den Nachschuss nicht leistet, kann innerhalb angemessener Frist aus der Gesellschaft austreten oder aufgrund einer Klage der übrigen Gesellschafter vom Gericht aus der Gesellschaft ausgeschlossen werden. Auf das Austrittsrecht kann im Vorhinein nicht verzichtet werden. Für die Auseinandersetzung mit dem ausgetretenen oder ausgeschlossenen Gesellschafter und für die Ermittlung seiner Beteiligung an schwebenden Geschäften ist der Zeitpunkt der Beschlussfassung über die Nachschusspflicht maßgeblich.
+`§ 1017 ABGB.`  
+In so fern der Gewalthaber nach dem Inhalte der Vollmacht den Gewaltgeber vorstellt, kann er ihm Rechte erwerben und Verbindlichkeiten auflegen. Hat er also innerhalb der Gränzen der offenen Vollmacht mit einem Dritten einen Vertrag geschlossen; so kommen die dadurch gegründeten Rechte und Verbindlichkeiten dem Gewaltgeber und dem Dritten; nicht aber dem Gewalthaber zu. Die dem Gewalthaber ertheilte geheime Vollmacht hat auf die Rechte des Dritten keinen Einfluß.
 
-### § 1185 ABGB # Ersatz für Aufwendungen und Verluste, Herausgabepflicht
+### § 1018 ABGB
 
-`§ 1185 (1) ABGB.`  
-Macht der Gesellschafter in den Gesellschaftsangelegenheiten Aufwendungen, die er den Umständen nach für erforderlich halten darf, oder erleidet er unmittelbar durch seine Geschäftsführung oder aus Gefahren, die mit ihr untrennbar verbunden sind, Verluste in seinem sonstigen Vermögen, so sind ihm, wenn er nicht sogleich Ersatz aus dem Gesellschaftsvermögen erhält, die übrigen Gesellschafter entsprechend ihrem Anteil zum Ersatz verpflichtet. Aufgewendetes Geld ist von der Zeit der Aufwendungen an zu verzinsen.
+`§ 1018 ABGB.`  
+Auch in dem Falle, daß der Gewaltgeber einen solchen Gewalthaber, der sich selbst zu verbinden unfähig ist, aufgestellt hat, sind die innerhalb der Gränzen der Vollmacht geschlossenen Geschäfte sowohl für den Gewaltgeber, als für den Dritten verbindlich.
 
-`§ 1185 (2) ABGB.`  
-Für die Aufwendungen, die zur Erledigung der Gesellschaftsangelegenheiten nötig sind und nicht aus dem Gesellschaftsvermögen getragen werden können, kann ein Gesellschafter von den übrigen Gesellschaftern entsprechend ihrem Anteil verhältnismäßig einen Vorschuss verlangen.
+### § 1019 ABGB
 
-`§ 1185 (3) ABGB.`  
-Ein Gesellschafter hat alles, was er zur Führung der Geschäfte erhält und was er aus der Geschäftsführung erlangt, an das Gesellschaftsvermögen abzuführen.
+`§ 1019 ABGB.`  
+Ist der Gewalthaber zu dem von ihm geschlossenen Geschäft nicht oder nicht ausreichend bevollmächtigt, so ist er, wenn der Gewaltgeber weder das Geschäft genehmigt noch sich den aus dem Geschäft entstandenen Vorteil zuwendet (§ 1016), dem anderen Teil zum Ersatz des Schadens verpflichtet, den dieser im Vertrauen auf die Vertretungsmacht erleidet. Der Gewalthaber haftet jedoch nicht über den Betrag des Interesses hinaus, das der andere Teil an der Wirksamkeit des Vertrages hat.
 
-### § 1186 ABGB # Mitwirkung, Interessenwahrung und Gleichbehandlung
+### § 1020 ABGB # Auflösung des Vertrages durch den Widerruf.
 
-`§ 1186 (1) ABGB.`  
-Die Gesellschafter haben an der gesellschaftlichen Willensbildung und den zu treffenden Maßnahmen nach Kräften und mit gebotener Sorgfalt mitzuwirken, den Gesellschaftszweck redlich zu fördern und alles zu unterlassen, was den Gesellschaftsinteressen schadet.
+`§ 1020 ABGB.`  
+Es steht dem Machtgeber frey; die Vollmacht nach Belieben zu widerrufen; doch muß er dem Gewalthaber nicht nur die in der Zwischenzeit gehabten Kosten und den sonst erlittenen Schaden ersetzen; sondern auch einen der Bemühung angemessenen Theil der Belohnung entrichten. Dieses findet auch dann Statt, wenn die Vollendung des Geschäftes durch einen Zufall verhindert worden ist.
 
-`§ 1186 (2) ABGB.`  
-Die Gesellschafter sind unter gleichen Voraussetzungen gleich zu behandeln.
+### § 1021 ABGB # die Aufkündung;
 
-### § 1187 ABGB # Verbot schädlicher Nebengeschäfte
+`§ 1021 ABGB.`  
+Auch der Machthaber kann die angenommene Vollmacht aufkünden. Wenn er sie aber vor Vollendung des ihm insbesondere aufgetragenen, oder vermöge der allgemeinen Vollmacht angefangenen Geschäftes aufkündet; so muß er, dafern nicht ein unvorgesehenes und unvermeidliches Hinderniß eingetreten ist, allen daraus entstandenen Schaden ersetzen.
 
-`§ 1187 ABGB.`  
-Die Gesellschafter dürfen kein der Gesellschaft schädliches Nebengeschäft unternehmen. Für unternehmerisch tätige Gesellschaften gelten überdies die unternehmensrechtlichen Vorschriften über Wettbewerbsverbote und deren Rechtsfolgen.
+### § 1022 ABGB # den Tod.
 
-### § 1188 ABGB # Durchsetzung von Gesellschaftsansprüchen
+`§ 1022 ABGB.`  
+In der Regel wird die Vollmacht sowohl durch den Tod des Gewaltgebers als des Gewalthabers aufgehoben. Läßt sich aber das angefangene Geschäft ohne offenbaren Nachtheil der Erben nicht unterbrechen, oder erstreckt sich die Vollmacht selbst auf den Sterbfall des Gewaltgebers; so hat der Gewalthaber das Recht und die Pflicht, das Geschäft zu vollenden.
 
-`§ 1188 ABGB.`  
-Die Erfüllung gesellschaftsbezogener Verpflichtungen eines Gesellschafters kann von jedem Gesellschafter zugunsten aller Gesellschafter gemeinsam eingefordert werden. Davon abweichende Vereinbarungen sind unwirksam.
+### § 1023 ABGB
 
-### § 1189 ABGB # Geschäftsführung
+`§ 1023 ABGB.`  
+Die von einem Körper (Gemeinschaft) ausgestellten und übernommenen Vollmachten werden durch die Erlöschung der Gemeinschaft aufgehoben.
 
-`§ 1189 (1) ABGB.`  
-Zur Führung der Geschäfte der Gesellschaft sind alle Gesellschafter berechtigt und verpflichtet.
+### § 1024 ABGB # oder ein Insolvenzverfahren
 
-`§ 1189 (2) ABGB.`  
-Überträgt der Gesellschaftsvertrag die Geschäftsführung einem einzelnen Gesellschafter oder mehreren Gesellschaftern, so sind die übrigen Gesellschafter von der Geschäftsführung ausgeschlossen.
+`§ 1024 ABGB.`  
+Wird über das Vermögen des Machtgebers das Insolvenzverfahren eröffnet, so sind Vertretungshandlungen des Machthabers ab der Bekanntmachung der Insolvenzeröffnung nicht rechtswirksam. Durch die Eröffnung des Insolvenzverfahrens über das Vermögen des Machthabers erlischt dessen Vollmacht.
 
-`§ 1189 (3) ABGB.`  
-Die Geschäfte sind so sorgfältig zu führen, wie es Art und Umfang der Gesellschaft erfordern. Die geschäftsführenden Gesellschafter sind verpflichtet, über das Gesellschaftsvermögen, insbesondere über die Einnahmen und Ausgaben, die notwendigen Aufzeichnungen zu führen und soweit erforderlich ein Rechnungswesen einzurichten.
+### § 1025 ABGB # In wiefern die Verbindlichkeit fortdauere.
 
-`§ 1189 (4) ABGB.`  
-Ein Gesellschafter darf im Zweifel die Führung der Geschäfte nicht einem Dritten übertragen. Ist die Übertragung gestattet, so hat er nur ein ihm bei der Übertragung zur Last fallendes Verschulden zu vertreten. Das Verschulden eines Gehilfen hat er in gleichem Umfang zu vertreten wie eigenes Verschulden.
+`§ 1025 ABGB.`  
+Wird die Vollmacht durch Widerruf, Aufkündung, oder durch den Tod des Gewaltgebers oder Gewalthabers aufgehoben; so müssen doch die Geschäfte, welche keinen Aufschub leiden, so lange fortgesetzt werden, bis von dem Machtgeber oder dessen Erben eine andere Verfügung getroffen worden ist, oder füglich getroffen werden konnte.
 
-### § 1190 ABGB # Geschäftsführung durch mehrere Gesellschafter, Weisungsgebundenheit
+### § 1026 ABGB
 
-`§ 1190 (1) ABGB.`  
-Steht die Geschäftsführung allen oder mehreren Gesellschaftern zu, so ist im Rahmen der gewöhnlichen Geschäfte jeder von ihnen allein zu handeln berechtigt; widerspricht jedoch ein anderer geschäftsführender Gesellschafter der Vornahme einer Handlung, so muss diese unterbleiben.
+`§ 1026 ABGB.`  
+Auch bleiben die mit einem Dritten, dem die Aufhebung der Vollmacht ohne sein Verschulden unbekannt war, geschlossenen Verträge verbindlich, und der Gewaltgeber kann sich nur bey dem Gewalthaber, der die Aufhebung verschwiegen hat, wegen seines Schadens erhohlen.
 
-`§ 1190 (2) ABGB.`  
-Ist im Gesellschaftsvertrag bestimmt, dass die Gesellschafter, denen die Geschäftsführung zusteht, nur zusammen handeln können, so bedarf es für jedes Geschäft der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist.
+### § 1027 ABGB # Stillschweigende Bevollmächtigung der Dienstpersonen.
 
-`§ 1190 (3) ABGB.`  
-Ist ein Gesellschafter an die Weisungen der übrigen Gesellschafter gebunden, so kann er von den ihm erteilten Weisungen abweichen, wenn er den Umständen nach annehmen darf, dass die übrigen Gesellschafter bei Kenntnis der Sachlage die Abweichung billigen würden. Er hat die Abweichung den übrigen Gesellschaftern anzuzeigen und ihre Entscheidung abzuwarten, wenn nicht Gefahr im Verzug ist.
+`§ 1027 ABGB.`  
+Die in diesem Hauptstücke enthaltenen Vorschriften haben auch ihre Anwendung auf die Eigenthümer einer Handlung, eines Schiffes, Kaufladens oder andern Gewerbes, welche die Verwaltung einem Factor, Schiffer, Ladendiener oder andern Geschäftsträgern anvertrauen.
 
-### § 1191 ABGB # Umfang der Geschäftsführungsbefugnis
+### § 1028 ABGB
 
-`§ 1191 (1) ABGB.`  
-Die Befugnis zur Geschäftsführung erstreckt sich auf alle Handlungen, die der gewöhnliche Geschäftsbetrieb der Gesellschaft mit sich bringt.
+`§ 1028 ABGB.`  
+Die Rechte solcher Geschäftsführer sind vorzüglich aus der Urkunde ihrer Bestellung, dergleichen unter Handelsleuten das ordentlich kundgemachte Befugniß der Unterzeichnung (Firma) ist, zu beurtheilen.
 
-`§ 1191 (2) ABGB.`  
-Zur Vornahme von Handlungen, die darüber hinausgehen (außergewöhnliche Geschäfte), ist ein einstimmiger Beschluss aller Gesellschafter erforderlich.
+### § 1029 ABGB
 
-`§ 1191 (3) ABGB.`  
-Zur Einräumung einer Vollmacht gemäß § 1008 bedarf es der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist. Der Widerruf einer solchen Vollmacht kann von jedem der zur Erteilung oder zur Mitwirkung bei der Erteilung befugten Gesellschafter erfolgen.
+`§ 1029 (1) ABGB.`  
+Ist die Vollmacht nicht schriftlich gegeben worden; so wird ihr Umfang aus dem Gegenstande, und aus der Natur des Geschäftes beurtheilet. Wer einem Andern eine Verwaltung anvertraut hat, von dem wird vermuthet, daß er ihm auch die Macht eingeräumt habe, alles dasjenige zu thun, was die Verwaltung selbst erfordert und was gewöhnlich damit verbunden ist (§. 1009).
 
-### § 1192 ABGB # Gesellschafterbeschlüsse
+`§ 1029 (2) ABGB.`  
+Der Überbringer einer Quittung gilt als ermächtigt, die Leistung zu empfangen, sofern nicht dem Leistenden bekannte Umstände der Annahme einer solchen Ermächtigung entgegenstehen.
 
-`§ 1192 (1) ABGB.`  
-Gesellschafterbeschlüsse erfordern die Zustimmung aller zur Mitwirkung bei der Beschlussfassung berufenen Gesellschafter.
+### § 1030 ABGB
 
-`§ 1192 (2) ABGB.`  
-Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, so bestimmt sie sich nach den abgegebenen gültigen Stimmen. Das Stimmgewicht entspricht den Beteiligungsverhältnissen. Sind nicht alle Gesellschafter am Kapital beteiligt, wird die Mehrheit nach Köpfen berechnet. Arbeitsgesellschafter, denen der Gesellschaftsvertrag einen am Wert ihrer Arbeit orientierten Kapitalanteil zubilligt, gelten als am Kapital beteiligt.
+`§ 1030 ABGB.`  
+Gestattet der Eigenthümer einer Handlung, oder eines Gewerbes seinem Diener oder Lehrlinge, Waaren im Laden oder außer demselben zu verkaufen; so wird vermuthet, daß sie bevollmächtigt seyn, die Bezahlung zu empfangen, und Quittungen dagegen auszustellen.
 
-### § 1193 ABGB # Entziehung und Kündigung der Geschäftsführungsbefugnis
+### § 1031 ABGB
 
-`§ 1193 (1) ABGB.`  
-Die Befugnis eines Gesellschafters zur Geschäftsführung kann einem Gesellschafter aufgrund einer Klage aller übrigen Gesellschafter durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsgemäßen Geschäftsführung.
+`§ 1031 ABGB.`  
+Die Vollmacht, Waaren im Nahmen des Eigenthümers zu verkaufen, erstreckt sich aber nicht auf das Recht, in seinem Nahmen Waaren einzukaufen; auch dürfen Fuhrleute weder den Werth der ihnen anvertrauten Güter beziehen, noch Geld darauf anleihen, wenn es nicht ausdrücklich in Frachtbriefen bestimmt worden ist.
 
-`§ 1193 (2) ABGB.`  
-Ein Gesellschafter kann seine Befugnis zur Geschäftsführung kündigen, wenn ein wichtiger Grund vorliegt. Auf dieses Recht kann nicht verzichtet werden. Die Geschäftsführung darf nur in der Art gekündigt werden, dass die Gesellschafter für die Führung der Geschäfte anderweitig Vorsorge treffen können, es sei denn, dass der wichtige Grund auch die unzeitige Kündigung rechtfertigt.
+### § 1032 ABGB
 
-### § 1194 ABGB # Kontrollrechte der Gesellschafter
+`§ 1032 ABGB.`  
+Dienstgeber und Familienhäupter sind nicht verbunden, das, was von ihren Dienstpersonen oder andern Hausgenossen in ihrem Nahmen auf Borg genommen wird, zu bezahlen. Der Borger muß in solchen Fällen den gemachten Auftrag erweisen.
 
-`§ 1194 (1) ABGB.`  
-Ein geschäftsführender Gesellschafter ist verpflichtet, jedem anderen Gesellschafter die erforderlichen Nachrichten zu geben, auf Verlangen über den Stand der Geschäfte Auskunft zu erteilen und Rechenschaft abzulegen. Ein Gesellschafter kann sich, auch wenn er von der Geschäftsführung ausgeschlossen ist, von den Angelegenheiten der Gesellschaft persönlich unterrichten, die Aufzeichnungen der Gesellschaft einsehen und sich aus ihnen eine Abrechnung anfertigen oder die Vorlage einer solchen Abrechnung fordern.
+### § 1033 ABGB
 
-`§ 1194 (2) ABGB.`  
-Eine Vereinbarung, durch die dieses Recht ausgeschlossen oder beschränkt wird, ist unwirksam.
+`§ 1033 ABGB.`  
+Besteht aber zwischen dem Borgnehmer und dem Borggeber ein ordentliches Einschreibebuch, worin die ausgeborgten Sachen aufgezeichnet werden; so gilt die Vermuthung, daß der Ueberbringer dieses Buches bevollmächtiget sey, die Waare auf Borg zu nehmen.
 
-### § 1195 ABGB # Gewinn und Verlust
+### § 1034 ABGB # Gesetzliche Vertretung
 
-`§ 1195 (1) ABGB.`  
-Am Schluss jedes Geschäftsjahres wird auf Grund einer Jahresabrechnung der Gewinn oder Verlust ermittelt und der Anteil jedes Gesellschafters daran berechnet.
+`§ 1034 (1) ABGB.`  
+Als gesetzlicher Vertreter einer Person wird bezeichnet:  
+`§ 1034 (1) Z 1 ABGB.`
+wer für ein minderjähriges Kind im Rahmen der Obsorge oder sonst im Einzelfall gesetzlich mit dessen Vertretung betraut ist;  
+`§ 1034 (1) Z 2 ABGB.`
+ein Vorsorgebevollmächtigter, sobald die Vorsorgevollmacht wirksam ist (§ 245 Abs. 1);  
+`§ 1034 (1) Z 3 ABGB.`
+ein gewählter und ein gesetzlicher Erwachsenenvertreter nach der Registrierung im Österreichischen Zentralen Vertretungsverzeichnis sowie ein gerichtlicher Erwachsenenvertreter und  
+`§ 1034 (1) Z 4 ABGB.`
+ein Kurator (§ 277).
 
-`§ 1195 (2) ABGB.`  
-Sofern alle Gesellschafter in gleichem Ausmaß zur Mitwirkung verpflichtet sind, wird der Gewinn und Verlust eines Geschäftsjahres den Gesellschaftern im Verhältnis ihrer Kapitalanteile zugewiesen (§ 1182 Abs. 2). Enthält der Gesellschaftsvertrag eine abweichende Bestimmung nur über den Anteil am Gewinn oder über den Anteil am Verlust, so gilt sie im Zweifel für Gewinn und Verlust.
+`§ 1034 (2) ABGB.`  
+Sofern nichts anderes angeordnet ist, wird eine durch Gerichtsentscheidung angeordnete gesetzliche Vertretung mit Rechtskraft der Entscheidung wirksam.
 
-`§ 1195 (3) ABGB.`  
-Sind die Gesellschafter nicht in gleichem Ausmaß zur Mitwirkung verpflichtet, so ist dies bei der Zuweisung des Gewinns angemessen zu berücksichtigen.
+### § 1035 ABGB # Geschäftsführung ohne Auftrag;
 
-`§ 1195 (4) ABGB.`  
-Einem Arbeitsgesellschafter, dem für seine Dienste keine Beteiligung an der Gesellschaft gewährt wird, ist ein den Umständen nach angemessener Betrag des Jahresgewinns zuzuweisen. Der diesen Betrag übersteigende Teil des Jahresgewinns wird sodann den Gesellschaftern im Verhältnis ihrer Beteiligung zugewiesen.
+`§ 1035 ABGB.`  
+Wer weder durch ausdrücklichen oder stillschweigenden Vertrag, noch vom Gerichte, noch aus dem Gesetze das Befugniß erhalten hat, darf der Regel nach sich in das Geschäft eines Andern nicht mengen. Hätte er sich dessen angemaßt; so ist er für alle Folgen verantwortlich.
 
-`§ 1195 (5) ABGB.`  
-Die Gesellschafterstellung steht der Vereinbarung eines Entgelts für der Gesellschaft geleistete Dienste nicht entgegen.
+### § 1036 ABGB # im Nothfalle;
 
-### § 1196 ABGB # Gewinnausschüttung und Entnahmen
+`§ 1036 ABGB.`  
+Wer, obgleich unberufen, ein fremdes Geschäft zur Abwendung eines bevorstehenden Schadens besorgt, dem ist derjenige, dessen Geschäft er besorgt hat, den nothwendigen und zweckmäßig gemachten Aufwand zu ersetzen schuldig; wenn gleich die Bemühung ohne Verschulden fruchtlos geblieben ist (§. 403).
 
-`§ 1196 (1) ABGB.`  
-Jeder Gesellschafter hat Anspruch auf Auszahlung seines Gewinnanteils. Der Anspruch kann nicht geltend gemacht werden, soweit die Auszahlung zum offenbaren Schaden der Gesellschaft gereicht, die Gesellschafter etwas anderes beschließen oder der Gesellschafter vereinbarungswidrig seine Einlage nicht geleistet hat.
+### § 1037 ABGB # oder zum Nutzen des Andern;
 
-`§ 1196 (2) ABGB.`  
-Im Übrigen ist ein Gesellschafter nicht befugt, ohne Einwilligung der anderen Gesellschafter Entnahmen zu tätigen.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">3. Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Rechtsverhältnisse zu Dritten</span></h4>
+`§ 1037 ABGB.`  
+Wer fremde Geschäfte bloß, um den Nutzen des Andern zu befördern, übernehmen will, soll sich um dessen Einwilligung bewerben. Hat der Geschäftsführer zwar diese Vorschrift unterlassen, aber das Geschäft auf seine Kosten zu des Andern klarem, überwiegenden Vortheile geführet; so müssen ihm von diesem die darauf verwendeten Kosten ersetzt werden.
 
-### § 1197 ABGB # Vertretung
+### § 1038 ABGB
 
-`§ 1197 (1) ABGB.`  
-Wenn der Gesellschaftsvertrag einer Außengesellschaft nichts anderes vorsieht, deckt sich die Befugnis zur Vertretung aller Gesellschafter in Gesellschaftsangelegenheiten mit der Befugnis zur Geschäftsführung.
+`§ 1038 ABGB.`  
+Ist aber der überwiegende Vortheil nicht klar; oder hat der Geschäftsführer eigenmächtig so wichtige Veränderungen in einer fremden Sache vorgenommen, daß die Sache dem Andern zu dem Zwecke, wozu er sie bisher benützte, unbrauchbar wird, so ist dieser zu keinem Ersatze verbunden; er kann vielmehr verlangen, daß der Geschäftsführer auf eigene Kosten die Sache in den vorigen Stand zurücksetze, oder, wenn das nicht möglich ist, ihm volle Genugthuung leiste.
 
-`§ 1197 (2) ABGB.`  
-Bei einer unternehmerisch tätigen Außengesellschaft werden alle Gesellschafter aus dem Handeln eines Gesellschafters im Namen der Gesellschaft auch dann berechtigt und verpflichtet, wenn dieser Gesellschafter nicht, nicht allein oder nur beschränkt vertretungsbefugt war, der Dritte den Mangel der Vertretungsbefugnis aber weder kannte noch kennen musste. Dasselbe gilt für nicht unternehmerisch tätige Außengesellschaften, wenn sich die Gesellschafter als Unternehmer an der Gesellschaft beteiligen.
+### § 1039 ABGB
 
-`§ 1197 (3) ABGB.`  
-Bei Gesamtvertretung genügt die Abgabe einer gesellschaftsbezogenen Willenserklärung gegenüber einem der zur Mitwirkung an der Vertretung befugten Gesellschafter (passive Einzelvertretung).
+`§ 1039 ABGB.`  
+Wer ein fremdes Geschäft ohne Auftrag auf sich genommen hat, muß es bis zur Vollendung fortsetzen, und gleich einem Bevollmächtigten genaue Rechnung darüber ablegen.
 
-`§ 1197 (4) ABGB.`  
-Wer, ohne Gesellschafter zu sein, mit der Vertretung in Gesellschaftsangelegenheiten betraut wird, vertritt die Gesellschafter nach Maßgabe der erteilten Vollmacht.
+### § 1040 ABGB # gegen den Willen des Andern.
 
-### § 1198 ABGB # Entziehung der Vertretungsmacht
+`§ 1040 ABGB.`  
+Wenn jemand gegen den gültig erklärten Willen des Eigenthümers sich eines fremden Geschäftes anmaßet, oder den rechtmäßigen Bevollmächtigten durch eine solche Einmengung an der Besorgung des Geschäftes verhindert; so verantwortet er nicht nur den hieraus erwachsenen Schaden und entgangenen Gewinn, sondern er verliert auch den gemachten Aufwand; in so fern er nicht in Natur zurückgenommen werden kann.
 
-`§ 1198 ABGB.`  
-Die Vertretungsmacht kann einem Gesellschafter aufgrund einer Klage aller übrigen Gesellschafter durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsgemäßen Vertretung der Gesellschaft.
+### § 1041 ABGB # Verwendung einer Sache zum Nutzen des Andern.
 
-### § 1199 ABGB # Haftung der Gesellschafter
+`§ 1041 ABGB.`  
+Wenn ohne Geschäftsführung eine Sache zum Nutzen eines Andern verwendet worden ist; kann der Eigenthümer sie in Natur, oder, wenn dieß nicht mehr geschehen kann, den Werth verlangen, den sie zur Zeit der Verwendung gehabt hat, obgleich der Nutzen in der Folge vereitelt worden ist.
 
-`§ 1199 (1) ABGB.`  
-Für gesellschaftsbezogene Verbindlichkeiten gegenüber Dritten haften die Gesellschafter als Gesamtschuldner, wenn mit diesen nichts anderes vereinbart ist.
+### § 1042 ABGB
 
-`§ 1199 (2) ABGB.`  
-Aus Rechtsgeschäften, die ein Gesellschafter auf Rechnung der Gesellschaft, aber im eigenen Namen abschließt, wird er allein dem Dritten gegenüber berechtigt und verpflichtet.
+`§ 1042 ABGB.`  
+Wer für einen Andern einen Aufwand macht, den dieser nach dem Gesetze selbst hätte machen müssen, hat das Recht, den Ersatz zu fordern.
 
-### § 1200 ABGB # Einwendungen des Gesellschafters
+### § 1043 ABGB
 
-`§ 1200 (1) ABGB.`  
-Wird ein Gesellschafter wegen einer gesellschaftsbezogenen Verbindlichkeit in Anspruch genommen, so kann er Einwendungen, die nicht in seiner Person begründet sind, nur insoweit geltend machen, als sie von den Gesellschaftern gemeinsam erhoben werden können.
+`§ 1043 ABGB.`  
+Hat jemand in einem Nothfalle, um einen größern Schaden von sich und Andern abzuwenden, sein Eigenthum aufgeopfert; so müssen ihn Alle, welche daraus Vortheil zogen, verhältnißmäßig entschädigen. Die ausführlichere Anwendung dieser Vorschrift auf Seegefahren ist ein Gegenstand der Seegesetze.
 
-`§ 1200 (2) ABGB.`  
-Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange den Gesellschaftern gemeinsam das Recht zusteht, das ihrer Verbindlichkeit zugrunde liegende Rechtsgeschäft anzufechten oder ihre Verbindlichkeit durch Aufrechnung mit einer fälligen Forderung zu erfüllen.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">4. Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Gesellschafternachfolge</span></h4>
+### § 1044 ABGB
 
-### § 1201 ABGB # Rechtsübergang
+`§ 1044 ABGB.`  
+Die Vertheilung der Kriegsschäden wird nach besondern Vorschriften von den politischen Behörden bestimmt.
 
-`§ 1201 (1) ABGB.`  
-Sofern nichts anderes vereinbart wurde, gehen zum Zeitpunkt des Eintritts oder Ausscheidens eines Gesellschafters sowie zum Zeitpunkt des Gesellschafterwechsels durch Rechtsgeschäft unter Lebenden die gesellschaftsbezogenen, nicht höchstpersönlichen Rechtsverhältnisse im Verhältnis der Beteiligungen von den bisherigen Gesellschaftern auf den eintretenden Gesellschafter, vom ausscheidenden auf die verbleibenden Gesellschafter oder beim Gesellschafterwechsel vom ausscheidenden auf den eintretenden Gesellschafter über (Gesellschafternachfolge). Für gesellschaftsbezogene Verbindlichkeiten bestellte Sicherheiten bleiben für diese Verbindlichkeiten aufrecht. Der ausscheidende Gesellschafter haftet nach Maßgabe des § 1202 Abs. 2 für die gesellschaftsbezogenen Verbindlichkeiten weiter.
+## Drey u. zwanzigstes Hauptstück. # Von dem Tauschvertrage.
 
-`§ 1201 (2) ABGB.`  
-Bei Sachen des Gesellschaftsvermögens, die im Miteigentum der Gesellschafter stehen, gilt die Übergabe als vollzogen, sobald der Eintritt, Austritt oder Wechsel wirksam geworden ist. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
+### § 1045 ABGB # Tausch.
 
-`§ 1201 (3) ABGB.`  
-Ein Dritter kann der im Zuge einer Gesellschafternachfolge von Gesetzes wegen eintretenden Übernahme seines Vertragsverhältnisses binnen dreier Monate nach Verständigung davon durch einen Gesellschafter gegenüber dem ausscheidenden, dem eintretenden oder einem anderen vom Vertragsverhältnis erfassten Gesellschafter widersprechen; in der Verständigung ist auf das Widerspruchsrecht hinzuweisen. Dies gilt auch für den Besteller einer für gesellschaftsbezogene Verbindlichkeiten gewährten Sicherheit. Im Fall eines wirksamen Widerspruchs besteht das Vertragsverhältnis auch noch mit dem ausgeschiedenen Gesellschafter fort.
+`§ 1045 ABGB.`  
+Der Tausch ist ein Vertrag, wodurch eine Sache gegen eine andere Sache überlassen wird. Die wirkliche Uebergabe ist nicht zur Errichtung; sondern nur zur Erfüllung des Tauschvertrages, und zur Erwerbung des Eigenthumes nothwendig.
 
-`§ 1201 (4) ABGB.`  
-Wurde dem Dritten nicht nachweislich mitgeteilt, ob das Vertragsverhältnis vom Erwerber übernommen wurde, oder kann der Dritte dieser Übernahme noch widersprechen, so kann er sowohl gegenüber dem ausscheidenden als auch gegenüber dem nachfolgenden Gesellschafter auf das Vertragsverhältnis bezogene Erklärungen abgeben und seine Verbindlichkeiten erfüllen. Dies gilt auch für den Besteller einer für gesellschaftsbezogene Verbindlichkeiten gewährten Sicherheit.
+### § 1046 ABGB
 
-### § 1202 ABGB # Haftung des eintretenden und des ausscheidenden Gesellschafters
+`§ 1046 ABGB.`  
+Das Geld ist kein Gegenstand des Tauschvertrages; doch lassen sich Gold und Silber als eine Waare, und selbst als Münz-Sorten in so weit vertauschen; als sie nur gegen andere Münz-Sorten, goldene nähmlich gegen silberne, kleinere gegen größere Stücke verwechselt werden sollen.
 
-`§ 1202 (1) ABGB.`  
-Der eintretende Gesellschafter haftet nur insofern für vor seinem Eintritt begründete gesellschaftsbezogene Verbindlichkeiten, als er jenen gesellschaftsbezogenen Rechtsverhältnissen beitritt, auf denen die Verbindlichkeiten beruhen.
+### § 1047 ABGB # Rechte und Pflichten der Tauschenden;
 
-`§ 1202 (2) ABGB.`  
-Der ausscheidende Gesellschafter haftet für gesellschaftsbezogene Verbindlichkeiten gegenüber Dritten, die vor seinem Ausscheiden aus der Gesellschaft begründet wurden, auch dann weiter, wenn er aus dem Rechtsverhältnis ausgeschieden ist (§ 1201 Abs. 3). Soweit der Dritte einer Entlassung des Ausscheidenden aus der Haftung nicht zustimmt, haftet dieser für die Verbindlichkeiten nur, soweit sie innerhalb von fünf Jahren nach seinem Ausscheiden fällig werden. Ansprüche daraus verjähren innerhalb der für die jeweilige Verbindlichkeit geltenden Verjährungsfrist, längstens jedoch innerhalb von drei Jahren.
+`§ 1047 ABGB.`  
+Tauschende sind vermöge des Vertrages verpflichtet, die vertauschten Sachen der Verabredung gemäß mit ihren Bestandteilen und mit allem Zugehör zu rechter Zeit, am gehörigen Ort und in eben dem Zustande, in welchem sie sich bei Schließung des Vertrages befunden haben, zum freien Besitze zu übergeben und zu übernehmen.
 
-### § 1203 ABGB # Auseinandersetzung mit dem ausscheidenden Gesellschafter
+### § 1048 ABGB # insbesondere in Rücksicht der Gefahr,
 
-`§ 1203 (1) ABGB.`  
-Dem ausscheidenden Gesellschafter sind die Sachen, die er den Gesellschaftern zur Benutzung überlassen hat, zurückzugeben. Für eine durch Zufall abhanden gekommene oder verschlechterte Sache kann er keinen Ersatz verlangen.
+`§ 1048 ABGB.`  
+Ist eine Zeit bedungen, zu welcher die Uebergabe geschehen soll, und wird in der Zwischenzeit entweder die vertauschte bestimmte Sache durch Verboth außer Verkehr gesetzt, oder zufälliger Weise ganz, oder doch über die Hälfte am Werthe zu Grunde gerichtet, so ist der Tausch für nicht geschlossen anzusehen.
 
-`§ 1203 (2) ABGB.`  
-Dem ausscheidenden Gesellschafter ist in Geld auszuzahlen, was er bei der Auseinandersetzung erhielte, wenn die Gesellschaft zur Zeit seines Ausscheidens aufgelöst worden wäre. Der Wert des Gesellschaftsvermögens ist, soweit erforderlich, durch Schätzung zu ermitteln.
+### § 1049 ABGB
 
-`§ 1203 (3) ABGB.`  
-Der ausscheidende Gesellschafter ist von den gesellschaftsbezogenen Verbindlichkeiten zu befreien, für die er den Gläubigern haftet. Ist eine Schuld noch nicht fällig, so können ihm die anderen Gesellschafter Sicherheit leisten, statt ihn zu befreien.
+`§ 1049 ABGB.`  
+Andere in dieser Zwischenzeit durch Zufall erfolgte Verschlimmerungen der Sache und Lasten gehen auf die Rechnung des Besitzers. Sind jedoch Sachen in Pausch und Bogen behandelt worden; so trägt der Uebernehmer den zufälligen Untergang einzelner Stücke, wenn anders hierdurch das Ganze nicht über die Hälfte am Werthe verändert worden ist.
 
-`§ 1203 (4) ABGB.`  
-Verbleibt dem ausscheidenden Gesellschafter eine Verbindlichkeit aus dem Gesellschaftsverhältnis, so ist er verpflichtet, einen Ausgleich in entsprechender Höhe an die Gesellschafter zu zahlen.
+### § 1050 ABGB # und der Nutzungen vor der Übergabe.
 
-### § 1204 ABGB # Beteiligung des Ausscheidenden an schwebenden Geschäften
+`§ 1050 ABGB.`  
+Dem Besitzer gebühren die Nutzungen der vertauschten Sache bis zur bedungenen Zeit der Uebergabe. Von dieser Zeit an gebühren sie, sammt dem Zuwachse, dem Uebernehmer, obgleich die Sache noch nicht übergeben worden ist.
 
-`§ 1204 (1) ABGB.`  
-Der ausgeschiedene Gesellschafter nimmt am Gewinn und am Verlust teil, der sich aus den zur Zeit seines Ausscheidens schwebenden Geschäften ergibt. Die übrigen Gesellschafter sind berechtigt, diese Geschäfte so zu beenden, wie es ihnen am vorteilhaftesten erscheint.
+### § 1051 ABGB
 
-`§ 1204 (2) ABGB.`  
-Der ausgeschiedene Gesellschafter kann am Schluss jedes Geschäftsjahres Rechenschaft über die inzwischen beendeten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen.
+`§ 1051 ABGB.`  
+Ist keine Zeit zur Uebergabe der bestimmten Sache bedungen, und fällt keinem Theile ein Versehen zur Last; so sind die obigen Vorschriften wegen Gefahr und Nutzungen (§§. 1048 – 1050) auf den Zeitpunct der Uebergabe selbst anzuwenden; in so fern die Parteyen nicht etwas Anderes festgesetzt haben.
 
-### § 1205 ABGB # Fortsetzung mit den Erben
+### § 1052 ABGB
 
-`§ 1205 (1) ABGB.`  
-Ist im Gesellschaftsvertrag bestimmt, dass im Fall des Todes eines Gesellschafters die Gesellschaft mit seinen Erben fortgesetzt werden soll, so besteht sie nach dem Tod dieses Gesellschafters mit seiner Verlassenschaft und nach deren Einantwortung mit den Erben fort. Jeder Erbe kann sein Verbleiben in der Gesellschaft davon abhängig machen, dass ihm unter Belassung des bisherigen Gewinnanteils die Stellung eines Kommanditisten in einer neu zu gründenden Kommanditgesellschaft (§ 1206) eingeräumt und der auf ihn fallende Teil der Einlage des Verstorbenen als seine Kommanditeinlage anerkannt wird.
+`§ 1052 ABGB.`  
+Wer auf die Übergabe dringen will, muß seine Verbindlichkeit erfüllt haben oder sie zu erfüllen bereit sein. Auch der zur Vorausleistung Verpflichtete kann seine Leistung bis zur Bewirkung oder Sicherstellung der Gegenleistung verweigern, wenn diese durch schlechte Vermögensverhältnisse des anderen Teiles gefährdet ist, die ihm zur Zeit des Vertragsabschlusses nicht bekannt sein mußten.
 
-`§ 1205 (2) ABGB.`  
-Nehmen die übrigen Gesellschafter einen dahingehenden Antrag des Erben nicht an, so ist dieser befugt, ohne Einhaltung einer Kündigungsfrist sein Ausscheiden aus der Gesellschaft zu erklären.
+## Vier u. zwanzigstes Hauptstück. # Von dem Kaufvertrage.
 
-`§ 1205 (3) ABGB.`  
-Die in Abs. 1 und 2 bezeichneten Rechte können von den Erben nur innerhalb einer Frist von drei Monaten nach der Einantwortung der Verlassenschaft geltend gemacht werden. Ist ein Erbe geschäftsunfähig und ist für ihn kein gesetzlicher Vertreter bestellt, so läuft diese Frist erst ab der Bestellung eines solchen oder ab dem Eintritt der Geschäftsfähigkeit des Erben.
+### § 1053 ABGB # Kaufvertrag.
 
-`§ 1205 (4) ABGB.`  
-Scheidet innerhalb der Frist des Abs. 3 der Erbe aus der Gesellschaft aus oder wird innerhalb der Frist die Gesellschaft aufgelöst oder dem Erben die Stellung eines Kommanditisten eingeräumt, so haftet er für die bis dahin entstandenen gesellschaftsbezogenen Verbindlichkeiten nur nach Maßgabe der die Haftung des Erben für Verbindlichkeiten der Verlassenschaft betreffenden Vorschriften.
+`§ 1053 ABGB.`  
+Durch den Kaufvertrag wird eine Sache um eine bestimmte Summe Geldes einem Andern überlassen. Er gehört, wie der Tausch, zu den Titeln ein Eigenthum zu erwerben. Die Erwerbung erfolgt erst durch die Uebergabe des Kaufgegenstandes. Bis zur Uebergabe behält der Verkäufer das Eigenthumsrecht.
 
-`§ 1205 (5) ABGB.`  
-Der Gesellschaftsvertrag kann die Anwendung der Vorschriften der Abs. 1 bis 4 nicht ausschließen; es kann jedoch für den Fall, dass der Erbe sein Verbleiben von der Einräumung der Stellung eines Kommanditisten abhängig macht, sein Gewinnanteil anders als der des Verstorbenen bestimmt werden.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">5. Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Umwandlung</span></h4>
+### § 1054 ABGB # Erfordernisse des Kaufvertrages.
 
-### § 1206 ABGB # Umwandlung in eine offene Gesellschaft oder Kommanditgesellschaft
-
-`§ 1206 (1) ABGB.`  
-Die Gesellschafter können die Errichtung einer offenen Gesellschaft oder einer Kommanditgesellschaft und zugleich die Einbringung des der Gesellschaft gewidmeten Vermögens in die offene Gesellschaft oder Kommanditgesellschaft beschließen. In diesem Fall geht das der Gesellschaft gewidmete Vermögen einschließlich aller Rechte und Pflichten mit der Eintragung der offenen Gesellschaft oder Kommanditgesellschaft im Firmenbuch im Weg der Gesamtrechtsnachfolge auf diese Gesellschaft über. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
-
-`§ 1206 (2) ABGB.`  
-Die Umwandlung erfordert einen einstimmigen Gesellschafterbeschluss. Die Gesellschafter legen fest, ob die Gesellschaft in eine offene Gesellschaft oder in eine Kommanditgesellschaft umgewandelt werden soll. Sie bestimmen die für die Eintragung erforderlichen Merkmale der neuen Gesellschaft.
-
-`§ 1206 (3) ABGB.`  
-Der Umwandlungsbeschluss enthält das von den geschäftsführenden Gesellschaftern aufgestellte Verzeichnis des Gesellschaftsvermögens (§ 1178 Abs. 1). Was im Vermögensverzeichnis nicht angeführt ist, verbleibt den Gesellschaftern wie bisher.
-
-### § 1207 ABGB # Wirkung gegenüber Dritten
-
-`§ 1207 (1) ABGB.`  
-Die Gesellschafter haften nach der Umwandlung für die vorher begründeten Verbindlichkeiten auch als Gesellschafter bürgerlichen Rechts weiter.
-
-`§ 1207 (2) ABGB.`  
-Solange ein Dritter von der Umwandlung nicht verständigt wurde und sie ihm auch sonst nicht bekannt geworden ist, kann er seine Leistung mit schuldbefreiender Wirkung so erbringen, als würde die Gesellschaft bürgerlichen Rechts noch bestehen.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">6. Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Auflösung</span></h4>
-
-### § 1208 ABGB # Auflösungsgründe
-
-`§ 1208 ABGB.`  
-Die Gesellschaft wird aufgelöst:  
-`§ 1208 Z 1 ABGB.`
-durch den Ablauf der Zeit, für die sie eingegangen ist;  
-`§ 1208 Z 2 ABGB.`
-durch Beschluss der Gesellschafter;  
-`§ 1208 Z 3 ABGB.`
-durch die rechtskräftige Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters, durch die Abänderung der Bezeichnung Sanierungsverfahren in Konkursverfahren oder durch die rechtskräftige Nichteröffnung oder Aufhebung des Insolvenzverfahrens mangels kostendeckenden Vermögens;  
-`§ 1208 Z 4 ABGB.`
-durch Kündigung oder durch gerichtliche Entscheidung;  
-`§ 1208 Z 5 ABGB.`
-durch den Tod eines Gesellschafters, sofern sich aus dem Gesellschaftsvertrag nichts anderes ergibt.
-
-### § 1209 ABGB # Kündigung durch einen Gesellschafter
-
-`§ 1209 (1) ABGB.`  
-Die Kündigung der Gesellschaft durch einen Gesellschafter kann, wenn die Gesellschaft für unbestimmte Zeit eingegangen ist, nur für den Schluss eines Geschäftsjahres erfolgen; sie muss mindestens sechs Monate vor diesem Zeitpunkt stattfinden.
-(2) Eine Vereinbarung, durch die das Kündigungsrecht ausgeschlossen oder in anderer Weise als durch angemessene Verlängerung der Kündigungsfrist erschwert wird, ist nichtig. Dies gilt nicht für Innengesellschaften (§ 1176 Abs. 1).
-
-### § 1210 ABGB # Auflösung durch gerichtliche Entscheidung
-
-`§ 1210 (1) ABGB.`  
-Aufgrund der Klage eines Gesellschafters kann die Auflösung der Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft ohne Kündigung durch gerichtliche Entscheidung ausgesprochen werden, wenn ein wichtiger Grund vorliegt.
-
-`§ 1210 (2) ABGB.`  
-Ein solcher Grund ist insbesondere vorhanden, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder aus grober Fahrlässigkeit verletzt oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
-
-`§ 1210 (3) ABGB.`  
-Eine Vereinbarung, durch die das Recht des Gesellschafters, die Auflösung der Gesellschaft zu verlangen, ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
-
-### § 1211 ABGB # Gesellschaft auf Lebenszeit, Befristung
-
-`§ 1211 ABGB.`  
-Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablauf der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinn der §§ 1209 und 1210 einer für unbestimmte Zeit eingegangen Gesellschaft gleich.
-
-### § 1213 ABGB # Ausschluss statt Auflösung
-
-`§ 1213 (1) ABGB.`  
-Tritt in der Person eines Gesellschafters ein Umstand ein, der nach § 1210 für jeden der übrigen Gesellschafter das Recht begründet, die Auflösung der Gesellschaft zu verlangen, so kann vom Gericht aufgrund einer Klage aller übrigen Gesellschafter anstatt der Auflösung der Ausschluss dieses Gesellschafters aus der Gesellschaft ausgesprochen werden. Der Ausschließungsklage steht nicht entgegen, dass nach dem Ausschluss nur ein Gesellschafter verbleibt.
-
-`§ 1213 (2) ABGB.`  
-Für die Auseinandersetzung zwischen den verbleibenden Gesellschaftern und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkt maßgeblich, in dem die Klage auf Ausschließung erhoben wird.
-
-### § 1214 ABGB # Fortsetzungsbeschluss
-
-`§ 1214 (1) ABGB.`  
-Die Gesellschafter können bei Auflösung der Gesellschaft deren Fortsetzung beschließen. In den Fällen des § 1208 Z 3, 4 oder 5, der Kündigung der Gesellschaft nach § 339 Abs. 1 EO und der Auflösung der Gesellschaft durch das Gericht (§ 1210 Abs. 1) steht dieses Recht den übrigen Gesellschaftern zu. In diesen Fällen scheidet der Gesellschafter, in dessen Person der Auflösungsgrund eingetreten ist, infolge des Fortsetzungsbeschlusses aus der Gesellschaft aus.
-
-`§ 1214 (2) ABGB.`  
-Im Fall der Kündigung nach § 339 Abs. 1 EO scheidet der betreffende Gesellschafter mit dem Ende des Geschäftsjahres aus der Gesellschaft aus; in den übrigen Fällen mit dem Wirksamwerden des Beschlusses.
-
-`§ 1214 (3) ABGB.`  
-Im Fall der Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters ist Abs. 1 mit der Maßgabe anzuwenden, dass eine Erklärung gegenüber dem Masseverwalter zu erfolgen hat und der Schuldner mit dem Zeitpunkt der Konkurseröffnung als aus der Gesellschaft ausgeschieden gilt.
-
-### § 1215 ABGB # Übergang des Gesellschaftsvermögens
-
-`§ 1215 (1) ABGB.`  
-Verbleibt nur noch ein Gesellschafter, so erlischt die Gesellschaft ohne Liquidation. Das Gesellschaftsvermögen geht im Weg der Gesamtrechtsnachfolge auf diesen über. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
-
-`§ 1215 (2) ABGB.`  
-Der ausscheidende Gesellschafter ist gemäß §§ 1203 und 1204 abzufinden.
-
-### § 1216 ABGB # Bekanntgabe der Auflösung der Außengesellschaft
-
-`§ 1216 ABGB.`  
-Die Auflösung einer Außengesellschaft ist, soweit möglich, den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf verkehrsübliche Weise bekannt zu machen.
+`§ 1054 ABGB.`  
+Wie die Einwilligung des Käufers und Verkäufers beschaffen seyn müsse, und welche Sachen gekauft und verkauft werden dürfen, dieses wird nach den Regeln der Verträge überhaupt bestimmt. Der Kaufpreis muß im barem Gelde bestehen, und darf weder unbestimmt, noch gesetzwidrig seyn.
 
 `END-OF-DATA-FILE`

@@ -96,7 +96,10 @@ if (normkey := args[0]) not in normindex:
     assert False, "unrecognized shortname"
 normdata = normindex[normkey]
 
-os.system(f"mkdir -p files; rm -vf files/{normkey}.*")
+os.system(f"""
+mkdir -p files
+rm -vf files/{normkey}.[0-9][0-9][0-9].md files/{normkey}.toc.json
+""")
 
 #%% Initialize Browser Context
 
@@ -237,19 +240,19 @@ def processContentElement(el, outbuf, parName = None):
         return any([item in s for item in a])
 
     match el.tag_name():
-        case "P" if "UeberschrG2" in cls:
+        case "P" if any_in(cls, "UeberschrG2"):
             handleHeader()
 
-        case "H4" if any_in(cls, "UeberschrG1", "UeberschrG1-AfterG2"):
+        case "H4" if any_in(cls, "UeberschrG1", "UeberschrG1-", "UeberschrG1-AfterG2", "UeberschrArt"):
             handleHeader()
 
-        case "H4" if "UeberschrPara" in cls:
+        case "H4" if any_in(cls, "UeberschrPara"):
             handleParHeader()
 
         case "P" if any_in(cls, "Abs", "Abs_small_indent", "SatznachNovao", "Abstand"):
             handleText()
 
-        case "P" if "ErlText" in cls:
+        case "P" if any_in(cls, "ErlText"):
             handleText(True)
 
         case "DIV" if any_in(cls, "Abs", "Abs_small_indent"):
@@ -388,7 +391,6 @@ while blockIndex is not None and blockIndex < len(blocks):
 
     if selectParagraph is None:
         outFile.close()
-        os.system(f"set -ex; zip -vXj RisExFiles.zip files/{normkey}.{fileIndex:03}.md")
 
 if selectParagraph is None:
     outFile = open(f"files/{normkey}.toc.json", "w")
@@ -403,7 +405,11 @@ if selectParagraph is None:
             sep = ","
         print("\n}", file=outFile)
     outFile.close()
-    os.system(f"set -ex; zip -vXj RisExFiles.zip files/{normkey}.toc.json")
+
+os.system(f"""
+[ -f RisExFiles.zip ] && zip -vd RisExFiles.zip "{normkey}.[0-9][0-9][0-9].md" "{normkey}.toc.json"
+set -ex; zip -vXj RisExFiles.zip files/{normkey}.[0-9][0-9][0-9].md files/{normkey}.toc.json
+""")
 
 
 #%% Shutdown Playwright

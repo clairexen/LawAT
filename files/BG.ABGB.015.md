@@ -6,402 +6,294 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## IV. Haftung des Geschenknehmers
+## Dreizehntes Hauptstück # Von der gesetzlichen Erbfolge # I. Grundsätze
 
-### § 789 ABGB
+### § 727 ABGB # Fälle der gesetzlichen Erbfolge
 
-`§ 789 (1) ABGB.`  
-Wenn bei Bestimmung der Pflichtteile Schenkungen hinzu- oder angerechnet werden, die Verlassenschaft aber zur Deckung der Pflichtteile nicht ausreicht, kann der verkürzte Pflichtteilsberechtigte vom Geschenknehmer die Zahlung des Fehlbetrags verlangen. Dies gilt nicht für die Ausstattung, die ein Kind erhalten hat, soweit es auf diese nach § 1220 einen Anspruch hatte.
+`§ 727 ABGB.`  
+Wenn der Verstorbene seinen letzten Willen nicht gültig erklärt oder nicht über sein gesamtes Vermögen verfügt hat oder wenn die eingesetzten Erben die Verlassenschaft nicht annehmen können oder wollen, kommt es ganz oder zum Teil zur gesetzlichen Erbfolge.
 
-`§ 789 (2) ABGB.`  
-Mehrere Geschenknehmer haften für den Ausfall am Pflichtteil anteilig im Verhältnis des Wertes ihrer Geschenke.
+### § 728 ABGB
 
-`§ 789 (3) ABGB.`  
-Bezahlt der Geschenknehmer den Fehlbetrag oder den Anteil, für den er nach Abs. 2 einzustehen hat, nicht, so haftet er nur mit der zugewendeten Sache.
+`§ 728 ABGB.`  
+Mangels einer gültigen Erklärung des letzten Willens fällt die gesamte Verlassenschaft den gesetzlichen Erben zu. Hat der Verstorbene über einen Teil seines Vermögens nicht gültig verfügt, so kommt allein dieser den gesetzlichen Erben zu.
 
-### § 790 ABGB
+### § 729 ABGB # Verkürzter Pflichtteil und Folgen einer Enterbung
 
-`§ 790 (1) ABGB.`  
-Besitzt der Geschenknehmer die zugewendete Sache oder ihren Wert nicht mehr oder hat sich ihr Wert vermindert, so haftet er mit seinem gesamten Vermögen, wenn er diesen Verlust unredlich zugelassen hat.
+`§ 729 (1) ABGB.`  
+Ist eine pflichtteilsberechtigte Person durch eine letztwillige Verfügung verkürzt worden, so kann sie sich auf das Gesetz berufen und den ihr gebührenden Pflichtteil fordern.
 
-`§ 790 (2) ABGB.`  
-Auf den Anspruch auf Zahlung des Fehlbetrags sind §§ 766 bis 768 über die Stundung des Pflichtteils sinngemäß anzuwenden.
+`§ 729 (2) ABGB.`  
+Hat der Verstorbene die gänzliche oder teilweise Entziehung des Pflichtteils verfügt, so wird vermutet, dass er der enterbten Person auch deren gesetzlichen Erbteil entziehen wollte.
 
-### § 791 ABGB
+`§ 729 (3) ABGB.`  
+Bei gesetzlicher Erbfolge erben die Nachkommen der enterbten Person an deren Stelle, auch wenn diese den Verstorbenen überlebt hat.
 
-`§ 791 (1) ABGB.`  
-Ein pflichtteilsberechtigter Geschenknehmer (§ 758) haftet einem anderen verkürzten Pflichtteilsberechtigten nur insoweit, als er infolge der Schenkung mehr als den ihm bei Berücksichtigung der hinzuzurechnenden Schenkungen gebührenden Pflichtteil erhalten hat.
+### § 730 ABGB # Gesetzliche Erben
 
-`§ 791 (2) ABGB.`  
-Ist der Geschenknehmer vorverstorben, hat er auf seinen Pflichtteil verzichtet oder die Erbschaft ausgeschlagen, so steht ihm oder seinen Erben die Haftungsfreistellung in Höhe seines hypothetischen Pflichtteils, der zum Todeszeitpunkt des Verstorbenen zu berechnen ist, zu. Die Schenkung ist selbst dann hinzuzurechnen, wenn der Verstorbene die Anrechnung auf den Pflichtteil erlassen hat.
+`§ 730 ABGB.`  
+Gesetzliche Erben sind die in nächster Linie mit dem Verstorbenen Verwandten und sein Ehegatte oder eingetragener Partner.
 
-`§ 791 (3) ABGB.`  
-Soweit der Geschenknehmer oder dessen Erbe eine Haftungsbeschränkung bereits geltend gemacht hat, kann eine Person, der der Pflichtteil anstelle des Pflichtteilsberechtigten zufällt oder deren Pflichtteil durch den Wegfall des Pflichtteilsberechtigten erhöht wird, keine weitere solche Haftungsbeschränkung geltend machen.
+## II. Gesetzliches Erbrecht der Verwandten
 
-### § 792 ABGB
+### § 731 ABGB
 
-`§ 792 ABGB.`  
-Wenn der Geschenknehmer im Zeitpunkt der Schenkung nicht zum Kreis der pflichtteilsberechtigten Personen gehörte (§ 757), haftet er nicht, wenn der Verstorbene die Schenkung mehr als zwei Jahre vor seinem Tod wirklich gemacht hat.
+`§ 731 (1) ABGB.`  
+Zur ersten Linie gehören diejenigen Verwandten, die vom Verstorbenen abstammen, also seine Kinder und deren Nachkommen.
 
-## Fünfzehntes Hauptstück # Erwerb einer Erbschaft
+`§ 731 (2) ABGB.`  
+Zur zweiten Linie gehören die Eltern des Verstorbenen und deren Nachkommen, also seine Geschwister und deren Nachkommen.
 
-### I. Voraussetzungen für den Erwerb einer Erbschaft
+`§ 731 (3) ABGB.`  
+Zur dritten Linie gehören die Großeltern des Verstorbenen und deren Nachkommen, also seine Onkel und Tanten und deren Nachkommen.
 
-### § 797 ABGB # Einantwortungsprinzip
+`§ 731 (4) ABGB.`  
+In der vierten Linie sind nur die Urgroßeltern des Verstorbenen zur Erbfolge berufen.
 
-`§ 797 (1) ABGB.`  
-Niemand darf eine Erbschaft eigenmächtig in Besitz nehmen. Der Erwerb einer Erbschaft erfolgt in der Regel nach Durchführung des Verlassenschaftsverfahrens durch die Einantwortung der Verlassenschaft, das ist die Übergabe in den rechtlichen Besitz der Erben.
+### § 732 ABGB # 1. Linie: Kinder
 
-`§ 797 (2) ABGB.`  
-Wie weit das Gericht nach einem Todesfall von Amts wegen vorzugehen hat und welche Fristen und Sicherungsmittel bei der Abhandlung zu beachten sind, bestimmen die Verfahrensgesetze. Sie regeln auch, wie ein Erbe oder Gläubiger Ansprüche gegen die Verlassenschaft geltend machen kann.
+`§ 732 ABGB.`  
+Wenn der Verstorbene Kinder hat, fällt ihnen die gesamte Verlassenschaft zu, mögen sie zu seinen Lebzeiten oder nach seinem Tod geboren sein. Mehreren Kindern fällt die Verlassenschaft zu gleichen Teilen zu. Enkel von noch lebenden Kindern und Urenkel von noch lebenden Enkeln haben kein Recht zur Erbfolge.
 
-### § 798 ABGB # Überlassung der Verlassenschaft
+### § 733 ABGB
 
-`§ 798 ABGB.`  
-Überlässt das Gericht eine überschuldete Verlassenschaft an Zahlungs statt, so bildet der Überlassungsbeschluss den Titel zum Erwerb. Das Gleiche gilt für die gerichtlich erteilte Ermächtigung, Verlassenschaftsvermögen zu übernehmen.
+`§ 733 ABGB.`  
+Wenn ein Nachkomme des Verstorbenen vor ihm gestorben ist und seinerseits Nachkommen hinterlassen hat, fällt der Anteil, der dem verstorbenen Nachkommen gebührt hätte, dessen Kindern zu gleichen Teilen zu.
 
-### § 799 ABGB # Nachweis des Rechtstitels; Erbantrittserklärung
+### § 734 ABGB
 
-`§ 799 ABGB.`  
-Wer eine Erbschaft erwerben will, muss dem Gericht den Rechtstitel (Erbvertrag, letztwillige Verfügung oder Gesetz) nachweisen und ausdrücklich erklären, die Erbschaft anzutreten.
+`§ 734 ABGB.`  
+Auf diese Art wird eine Verlassenschaft nicht nur dann geteilt, wenn Enkel von verstorbenen Kindern mit noch lebenden Kindern oder entferntere Nachkommen mit näheren Nachkommen des Verstorbenen zusammen treffen, sondern auch dann, wenn die Verlassenschaft bloß zwischen Enkeln von verschiedenen Kindern oder zwischen Urenkeln von verschiedenen Enkeln zu teilen ist. Es können also die von jedem Kind hinterlassenen Enkel und die von jedem Enkel hinterlassenen Urenkel nie mehr und nie weniger erhalten, als das verstorbene Kind oder der verstorbene Enkel erhalten hätte, wenn es oder er am Leben geblieben wäre.
 
-### § 800 ABGB # Bedingte und unbedingte Erbantrittserklärung
+### § 735 ABGB # 2. Linie: Eltern und ihre Nachkommen
 
-`§ 800 ABGB.`  
-Die Erbantrittserklärung kann unbedingt oder bedingt, also unter dem Vorbehalt der Errichtung eines Inventars, abgegeben werden.
+`§ 735 ABGB.`  
+Ist kein Nachkomme des Verstorbenen vorhanden, so fällt die Verlassenschaft den mit ihm in zweiter Linie Verwandten, also seinen Eltern und deren Nachkommen zu. Leben noch beide Eltern, so gebührt ihnen die ganze Verlassenschaft zu gleichen Teilen. Ist ein Elternteil verstorben, so treten dessen Nachkommen in sein Recht ein. Die Hälfte, die dem Verstorbenen gebührt hätte, wird nach den §§ 732 bis 734 geteilt.
 
-### § 801 ABGB # Wirkung der unbedingten Erbantrittserklärung
+### § 736 ABGB
 
-`§ 801 ABGB.`  
-Die unbedingte Erbantrittserklärung bewirkt, dass der Erbe persönlich allen Gläubigern des Verstorbenen für ihre Forderungen und allen Vermächtnisnehmern für ihre Vermächtnisse haftet, selbst wenn die Verlassenschaft zur Deckung dieser Lasten nicht hinreicht.
+`§ 736 ABGB.`  
+Wenn beide Eltern des Verstorbenen verstorben sind, wird die eine Hälfte der Verlassenschaft, die dem einen Elternteil zugefallen wäre, unter dessen Nachkommen, die andere Hälfte aber unter den Nachkommen des anderen nach den §§ 732 bis 734 geteilt. Haben die Eltern nur gemeinsame Kinder oder deren Nachkommen hinterlassen, so teilen diese die beiden Hälften unter sich gleich. Sind aber außer diesen noch Kinder nur eines Elternteils vorhanden, so erhalten diese und deren Nachkommen nur den ihnen von der Hälfte gebührenden Anteil.
 
-### § 802 ABGB # Wirkung der bedingten Erbantrittserklärung
+### § 737 ABGB
 
-`§ 802 ABGB.`  
-Wird die Erbschaft mit Vorbehalt des Inventars angetreten, so hat das Gericht auf Kosten der Verlassenschaft ein Inventar zu errichten. Ein solcher Erbe haftet den Gläubigern und Vermächtnisnehmern nur so weit, als die Verlassenschaft für ihre und auch seine eigenen Forderungen, das Erbrecht ausgenommen, hinreicht.
+`§ 737 ABGB.`  
+Hat ein verstorbener Elternteil des Verstorbenen keine Nachkommen hinterlassen, so fällt die gesamte Verlassenschaft dem anderen noch lebenden Elternteil zu. Ist auch dieser verstorben, so wird die gesamte Verlassenschaft unter seinen Kindern und Nachkommen nach den bereits angeführten Grundsätzen verteilt.
 
-### § 803 ABGB # Berechtigung zum Antritt oder zur Ausschlagung der Erbschaft
+### § 738 ABGB # 3. Linie: Großeltern und ihre Nachkommen
 
-`§ 803 (1) ABGB.`  
-Letztwillige Anordnungen, wonach der Erbe die Erbschaft nur unbedingt antreten darf oder bei Abgabe einer bedingten Erbantrittserklärung oder bei Antragstellung auf Inventarisierung der Verlassenschaft verliert, sind ungültig und gelten als nicht beigesetzt.
+`§ 738 ABGB.`  
+Sind die Eltern des Verstorbenen ohne Nachkommen verstorben, so fällt die Verlassenschaft der dritten Linie, also den Großeltern und ihren Nachkommen zu. Die Verlassenschaft wird dann in zwei gleiche Teile geteilt. Die eine Hälfte gebührt den Eltern des einen Elternteils des Verstorbenen und ihren Nachkommen, die andere den Eltern des anderen und ihren Nachkommen.
 
-`§ 803 (2) ABGB.`  
-Auf das Recht, eine Erbschaft bedingt oder unbedingt anzutreten, sie auszuschlagen oder die Errichtung eines Inventars zu verlangen, kann im Voraus nicht verzichtet werden.
+### § 739 ABGB
 
-### § 804 ABGB
+`§ 739 ABGB.`  
+Jede dieser Hälften wird unter den Großeltern der einen und der anderen Seite, wenn sie beide noch leben, gleich geteilt. Ist ein Großelternteil oder sind beide Großeltern von der einen oder anderen Seite gestorben, so wird die dieser Seite zugefallene Hälfte zwischen den Kindern und Nachkommen dieser Großeltern nach den Grundsätzen geteilt, nach denen in der zweiten Linie die ganze Verlassenschaft zwischen den Kindern und Nachkommen der Eltern des Verstorbenen geteilt wird (§§ 735 bis 737).
 
-`§ 804 ABGB.`  
-Auch ein Pflichtteilsberechtigter kann die Errichtung des Inventars beantragen.
+### § 740 ABGB
 
-### § 805 ABGB
+`§ 740 ABGB.`  
+Sind von der Seite eines Elternteils beide Großeltern ohne Nachkommen verstorben, so fällt den von der anderen Seite noch lebenden Großeltern oder nach deren Tod deren Kindern und Nachkommen die gesamte Verlassenschaft zu.
 
-`§ 805 ABGB.`  
-Der Erbe kann die Erbschaft auch ausschlagen.
+### § 741 ABGB # 4. Linie: Urgroßeltern
 
-### § 806 ABGB
+`§ 741 (1) ABGB.`  
+Nach gänzlichem Ausfall der dritten Linie sind die Urgroßeltern des Verstorbenen zur gesetzlichen Erbfolge berufen. Auf die Großeltern des einen Elternteils des Verstorbenen entfällt die eine Hälfte der Verlassenschaft, auf die Großeltern des anderen Elternteils die andere Hälfte. Jede Hälfte der Verlassenschaft teilen sich die beiden Großelternpaare zu gleichen Teilen. Ist ein Teil eines Großelternpaares nicht vorhanden, so fällt das auf diesen Teil entfallende Achtel der Verlassenschaft an den überlebenden Teil dieses Großelternpaares. Fehlt ein Großelternpaar, so ist zu seinem Viertel das andere Großelternpaar desselben Elternteiles des Verstorbenen berufen.
 
-`§ 806 ABGB.`  
-Der Erbe kann weder die Ausschlagung noch seine Erbantrittserklärung widerrufen noch seine unbedingte in eine bedingte Erbantrittserklärung ändern und sich die Errichtung des Inventars vorbehalten.
+`§ 741 (2) ABGB.`  
+Fehlen die Großelternpaare des einen Elternteils des Verstorbenen, so sind zu der auf sie entfallenden Verlassenschaftshälfte die Großelternpaare des anderen Elternteils in demselben Ausmaß wie zu der ihnen unmittelbar zufallenden Verlassenschaftshälfte berufen.
 
-### § 807 ABGB
+### § 742 ABGB # Mehrfache Verwandtschaft
 
-`§ 807 ABGB.`  
-Wenn auch nur ein Miterbe eine bedingte Erbantrittserklärung abgibt, so ist ein Inventar zu errichten, das der Verlassenschaftsabhandlung zu Grunde zu legen ist. Nach Errichtung eines Inventars genießt auch ein Erbe, der eine unbedingte Erbantrittserklärung abgegeben hat, die damit verbundene Haftungsbeschränkung.
+`§ 742 ABGB.`  
+Wenn jemand mit dem Verstorbenen mehrfach verwandt ist, genießt er von jeder Seite das Erbrecht, das ihm als einem Verwandten von dieser Seite gebührt.
 
-### § 808 ABGB
+### § 743 ABGB # Ausschluss von entfernten Verwandten
 
-`§ 808 (1) ABGB.`  
-Wird eine Person zum Erben eingesetzt, der auch ohne letztwillige Verfügung das Erbrecht ganz oder zum Teil gebührt hätte, so ist sie nicht befugt, sich auf die gesetzliche Erbfolge zu berufen, wenn dadurch vom Verstorbenen getroffene Anordnungen unausgeführt blieben. In einem solchen Fall muss sie die Erbschaft entweder aus dem letzten Willen antreten oder sie zur Gänze ausschlagen.
+`§ 743 ABGB.`  
+Auf diese vier Linien der Verwandtschaft (§ 731) wird die gesetzliche Erbfolge eingeschränkt.
 
-`§ 808 (2) ABGB.`  
-Eine pflichtteilsberechtigte Person kann die Erbschaft nicht unter dem Vorbehalt ihres Pflichtteiles ausschlagen.
+## III. Gesetzliches Erbrecht des Ehegatten und eingetragenen Partners
 
-### § 809 ABGB # Übertragung des Erbrechts
+### § 744 ABGB
 
-`§ 809 ABGB.`  
-Stirbt der Erbe, bevor er die angefallene Erbschaft angetreten oder ausgeschlagen hat, so treten seine Erben in das Recht, die Erbschaft anzunehmen oder auszuschlagen, ein (§ 537).
+`§ 744 (1) ABGB.`  
+Der Ehegatte oder eingetragene Partner des Verstorbenen ist neben Kindern des Verstorbenen und deren Nachkommen zu einem Drittel der Verlassenschaft, neben Eltern des Verstorbenen zu zwei Dritteln der Verlassenschaft und in den übrigen Fällen zur Gänze gesetzlicher Erbe. Ist ein Elternteil vorverstorben, so fällt auch dessen Anteil dem Ehegatten oder dem eingetragenen Partner zu.
 
-## II. Vorkehrungen vor Einantwortung
+`§ 744 (2) ABGB.`  
+Auf den Erbteil des Ehegatten oder eingetragenen Partners ist alles anzurechnen, was er durch Ehe- oder Partnerschaftspakt oder Erbvertrag aus dem Vermögen des Verstorbenen erhält.
 
-### § 810 ABGB # 1. Verwaltung
+### § 745 ABGB # Gesetzliches Vorausvermächtnis
 
-`§ 810 (1) ABGB.`  
-Der Erbe, der bei Antretung der Erbschaft sein Erbrecht hinreichend ausweist, hat das Recht, das Verlassenschaftsvermögen zu benützen, zu verwalten und die Verlassenschaft zu vertreten, solange das Verlassenschaftsgericht nichts anderes anordnet. Trifft dies auf mehrere Personen zu, so üben sie dieses Recht gemeinsam aus, soweit sie nichts anderes vereinbaren.
+`§ 745 (1) ABGB.`  
+Sofern der Ehegatte oder eingetragene Partner nicht rechtmäßig enterbt worden ist, gebühren ihm als gesetzliches Vorausvermächtnis das Recht, in der Ehe- oder Partnerschaftswohnung weiter zu wohnen, und die zum ehelichen oder partnerschaftlichen Haushalt gehörenden beweglichen Sachen, soweit sie zu dessen Fortführung entsprechend den bisherigen Lebensverhältnissen erforderlich sind.
 
-`§ 810 (2) ABGB.`  
-Verwaltungs- und Vertretungshandlungen vor Abgabe von Erbantrittserklärungen zur gesamten Verlassenschaft sowie alle Veräußerungen von Gegenständen aus dem Verlassenschaftsvermögen bedürfen der Genehmigung des Verlassenschaftsgerichts, wenn sie nicht zum ordentlichen Wirtschaftsbetrieb gehören. Die Genehmigung ist zu versagen, wenn die Handlung für die Verlassenschaft offenbar nachteilig wäre.
+`§ 745 (2) ABGB.`  
+Dem Lebensgefährten des Verstorbenen steht ein solches gesetzliches Vermächtnis zu, sofern er mit dem Verstorbenen als dessen Lebensgefährte zumindest in den letzten drei Jahren im gemeinsamen Haushalt gelebt hat und der Verstorbene im Zeitpunkt des Todes weder verheiratet war noch in einer eingetragenen Partnerschaft gelebt hat. Die in Abs. 1 erwähnten Rechte enden ein Jahr nach dem Tod des Verstorbenen.
 
-`§ 810 (3) ABGB.`  
-Ist nach der Aktenlage die Errichtung eines Inventars zu erwarten, so dürfen Vermögensgegenstände, deren Veräußerung nicht zum ordentlichen Wirtschaftsbetrieb gehört, erst veräußert werden, nachdem sie in ein Inventar (Teilinventar) aufgenommen worden sind.
+### § 746 ABGB # Auflösung der Ehe oder Partnerschaft
 
-### § 811 ABGB # 2. Sicherstellung oder Befriedigung der Gläubiger
+`§ 746 (1) ABGB.`  
+Nach Auflösung der Ehe oder eingetragenen Partnerschaft zu Lebzeiten des Verstorbenen steht dem früheren Ehegatten oder eingetragenen Partner weder ein gesetzliches Erbrecht noch das gesetzliche Vorausvermächtnis zu.
 
-`§ 811 ABGB.`  
-Die Gläubiger können die Befriedigung oder Sicherstellung ihrer Forderungen gegen die Verlassenschaft bereits vor Abgabe einer Erbantrittserklärung verlangen und zur Vertretung der Verlassenschaft die Bestellung eines Kurators beantragen.
+`§ 746 (2) ABGB.`  
+Das gesetzliche Erbrecht und das gesetzliche Vorausvermächtnis stehen dem überlebenden Ehegatten oder eingetragenen Partner auch dann nicht zu, wenn in einem im Zeitpunkt des Erbfalls anhängigen Verfahren über die Auflösung der Ehe oder eingetragenen Partnerschaft eine Vereinbarung über die Aufteilung des Gebrauchsvermögens und der Ersparnisse für den Fall der Rechtskraft der Auflösungsentscheidung vorliegt. Eine solche Vereinbarung gilt im Zweifel auch für die Auflösung der Ehe oder eingetragenen Partnerschaft durch den Tod eines Ehegatten oder eingetragenen Partners.
 
-### § 812 ABGB # 3. Absonderung der Verlassenschaft vom Vermögen des Erben
+### § 747 ABGB # Anspruch auf Unterhalt
 
-`§ 812 (1) ABGB.`  
-Wenn die Forderung eines Gläubigers der Verlassenschaft durch Vermengung der Verlassenschaft mit dem Vermögen des Erben gefährdet wäre, kann der Gläubiger vor der Einantwortung beantragen, dass ein seiner Forderung entsprechender Teil der Verlassenschaft vom Vermögen des Erben abgesondert, vom Gericht verwahrt oder von einem Kurator verwaltet wird, bis sein Anspruch berichtigt ist.
+`§ 747 ABGB.`  
+Der Ehegatte oder eingetragene Partner hat, außer in den Fällen der §§ 746 und 777, gegen die Verlassenschaft und nach Einantwortung gegen die Erben bis zum Wert der Verlassenschaft einen Anspruch auf Unterhalt nach den sinngemäß anzuwendenden Grundsätzen des § 94 oder des § 12 EPG, solange er nicht wieder eine Ehe oder eingetragene Partnerschaft eingeht. Auf diesen Anspruch ist alles anzurechnen, was der Ehegatte oder eingetragene Partner nach dem Verstorbenen durch vertragliche oder letztwillige Zuwendung, als gesetzlichen Erbteil, als Pflichtteil und durch öffentlich-rechtliche oder privatrechtliche Leistung erhält, desgleichen eigenes Vermögen des Ehegatten oder eingetragenen Partners sowie Erträgnisse einer von ihm tatsächlich ausgeübten oder einer solchen Erwerbstätigkeit, die von ihm den Umständen nach erwartet werden kann.
 
-`§ 812 (2) ABGB.`  
-In einem solchen Fall haftet der Erbe den Separationsgläubigern auch nach Abgabe einer unbedingten Erbantrittserklärung nur mit der abgesonderten Verlassenschaft, den übrigen Gläubigern aber wie ein bedingt erbantrittserklärter Erbe.
+## IV. Außerordentliches Erbrecht und Aneignung durch den Bund
 
-`§ 812 (3) ABGB.`  
-Die Absonderung kann durch eine angemessene Sicherheitsleistung des Erben, die auch der Verlassenschaft entnommen werden kann, abgewendet oder aufgehoben werden. Die Absonderung ist weiters von Amts wegen oder auf Antrag aufzuheben, wenn sie zu Unrecht bewilligt wurde, ihre Voraussetzungen weggefallen sind oder die Separationsgläubiger ihre Ansprüche nicht ohne Verzug gehörig betreiben.
+### § 748 ABGB # Außerordentliches Erbrecht des Lebensgefährten
 
-### § 813 ABGB # 4. Aufforderung der Verlassenschaftsgläubiger
+`§ 748 (1) ABGB.`  
+Gelangt kein gesetzlicher Erbe zur Verlassenschaft, so fällt dem Lebensgefährten des Verstorbenen die ganze Erbschaft zu, sofern er mit dem Verstorbenen als dessen Lebensgefährte zumindest in den letzten drei Jahren vor dem Tod des Verstorbenen im gemeinsamen Haushalt gelebt hat.
 
-`§ 813 ABGB.`  
-Der Erbe oder Verlassenschaftskurator kann zur Feststellung des Schuldenstandes beantragen, dass mit Edikt alle Gläubiger aufgefordert werden, ihre Forderungen binnen einer zu bestimmenden angemessenen Frist anzumelden. Dieses Edikt hat den Hinweis zu enthalten, dass bis zum Ablauf der Frist mit der Befriedigung der Gläubiger innegehalten werden kann.
+`§ 748 (2) ABGB.`  
+Vom Erfordernis eines gemeinsamen Haushalts ist dann abzusehen, wenn diesem erhebliche Gründe, etwa gesundheitlicher oder beruflicher Art, entgegenstanden, ansonsten aber eine für Lebensgefährten typische besondere Verbundenheit bestand.
 
-### § 814 ABGB # Wirkung der Aufforderung oder ihrer Unterlassung
+### § 749 ABGB # Außerordentliches Erbrecht der Vermächtnisnehmer
 
-`§ 814 ABGB.`  
-Die gerichtliche Aufforderung bewirkt, dass den Gläubigern, die ihre Forderung nicht fristgerecht angemeldet haben, gegen die Verlassenschaft kein weiterer Anspruch zusteht, wenn sie durch Befriedigung der angemeldeten Forderungen erschöpft ist. Das gilt nicht, soweit die Forderung pfandrechtlich gesichert ist.
+`§ 749 ABGB.`  
+Gelangt weder ein gesetzlicher Erbe noch der Lebensgefährte des Verstorbenen zur Verlassenschaft, so werden die vom Verstorbenen bedachten Vermächtnisnehmer verhältnismäßig als Erben betrachtet.
 
-### § 815 ABGB
+### § 750 ABGB # Aneignung durch den Bund
 
-`§ 815 ABGB.`  
-Wenn der Erbe die Aufforderung unterlässt oder nur einige Gläubiger befriedigt, ohne auf die Rechte der anderen Rücksicht zu nehmen, und deshalb einige Gläubiger wegen Überschuldung der Verlassenschaft unbefriedigt bleiben, haftet der Erbe diesen Gläubigern, ungeachtet einer bedingten Erbantrittserklärung, mit seinem ganzen Vermögen für denjenigen Betrag, den sie bei gehöriger Aufforderung oder Befriedigung erhalten hätten.
+`§ 750 (1) ABGB.`  
+Wenn kein zur Erbfolge Berechtigter vorhanden ist und auch sonst niemand die Verlassenschaft erwirbt, hat der Bund das Recht, sie sich anzueignen.
 
-### 5. Nachweis über die Erfüllung des letzten Willens
+`§ 750 (2) ABGB.`  
+Soweit eine Verlassenschaft, die sich im Zeitpunkt des Todes des Verstorbenen in Österreich befindet, weder auf einen durch Verfügung von Todes wegen eingesetzten Erben oder Vermächtnisnehmer noch auf eine natürliche Person als gesetzlicher Erbe übergeht, hat der Bund das Recht, sie sich anzueignen, auch wenn sich die Erbfolge nicht nach österreichischem Recht richtet.
 
-### § 816 ABGB # Testamentsvollstrecker
+### § 751 ABGB # Abweichungen von der allgemeinen Erbfolge
 
-`§ 816 ABGB.`  
-Der Verstorbene kann letztwillig einen Vollstrecker seines letzten Willens ernennen. Übernimmt der Testamentsvollstrecker diese Aufgabe, so hat er entweder als Machthaber die Anordnungen des Verstorbenen selbst zu vollziehen oder deren Einhaltung zu überwachen und den säumigen Erben zur Vollziehung derselben zu veranlassen.
+`§ 751 ABGB.`  
+Abweichungen von der in diesem Hauptstück bestimmten gesetzlichen Erbfolge, insbesondere für land- und forstwirtschaftliche Betriebe, sind gesondert geregelt.
 
-### § 817 ABGB # Nachweis der Testamentserfüllung
+## V. Anrechnung beim Erbteil
 
-`§ 817 ABGB.`  
-Ist kein Testamentsvollstrecker ernannt oder nimmt dieser seine Ernennung nicht an, so hat der Erbe dem Gericht nachzuweisen, dass er den Willen des Verstorbenen möglichst erfüllt oder Sicherheit geleistet hat.
+### § 752 ABGB
 
-## III. Einantwortung und ihre Folgen
+`§ 752 ABGB.`  
+Bei der gewillkürten und bei der gesetzlichen Erbfolge muss sich der Erbe eine Schenkung unter Lebenden (§ 781) anrechnen lassen, wenn der Verstorbene das letztwillig angeordnet oder mit dem Geschenknehmer vereinbart hat. Dieser Vertrag und seine Aufhebung bedürfen der Schriftform, bei Abschluss erst nach erfolgter Schenkung aber der Formvorschriften für einen Erbverzicht.
 
-### § 819 ABGB # Einantwortung
+### § 753 ABGB
 
-`§ 819 ABGB.`  
-Sobald die Erbantrittserklärungen abgegeben wurden, die Erben und ihre Quoten feststehen und die übrigen Voraussetzungen erfüllt sind, wird den Erben die Erbschaft eingeantwortet und die Abhandlung beendet. Die Erben haben ihr durch die Einantwortung begründetes Eigentum an unbeweglichen Sachen in die öffentlichen Bücher eintragen zu lassen (§ 436).
+`§ 753 ABGB.`  
+Bei der gesetzlichen Erbfolge der Kinder muss sich ein Kind auf Verlangen eines anderen Kindes eine Schenkung unter Lebenden (§ 781) anrechnen lassen, es sei denn, dass der Verstorbene die Schenkung aus Einkünften ohne Schmälerung des Stammvermögens gemacht hat oder den Erlass dieser Anrechnung letztwillig verfügt oder mit dem Geschenknehmer vereinbart hat. Dieser Vertrag und seine Aufhebung bedürfen der Schriftform.
 
-### § 820 ABGB # Haftung mehrerer Erben
+### § 754 ABGB
 
-`§ 820 ABGB.`  
-Mehrere Erben, die eine Erbschaft unbedingt angetreten haben, haften Erbschaftsgläubigern und Vermächtnisnehmern zur ungeteilten Hand. Im Verhältnis zueinander haften sie nach dem Verhältnis ihrer Erbteile.
+`§ 754 ABGB.`  
+Einem Nachkommen wird nicht nur das, was er selbst, sondern auch das, was seine Vorfahren, an deren Stelle er tritt, auf solche Art empfangen haben, auf den Erbteil angerechnet. Auch wer einen Erbteil im Wege der Anwachsung erhält (§ 560), hat sich Schenkungen an denjenigen, dessen frei gewordenen Erbteil er übernimmt, anrechnen zu lassen.
 
-### § 821 ABGB
+### § 755 ABGB # Rechenmethode
 
-`§ 821 ABGB.`  
-Wenn ein Inventar errichtet wurde und die Schuld teilbar ist, haftet jeder Miterbe persönlich nur für denjenigen Teil einer Forderung, der seiner Erbquote entspricht. Ist die Schuld unteilbar, so haften die Erben trotz Inventarisierung zur ungeteilten Hand, insgesamt jedoch höchstens bis zum Wert der eingeantworteten Verlassenschaft.
+`§ 755 (1) ABGB.`  
+Das bei der Anrechnung zu berücksichtigende Vermögen ist auf den Zeitpunkt zu bewerten, in dem die Schenkung wirklich gemacht wurde. Dieser Wert ist sodann auf den Todeszeitpunkt nach einem von der Statistik Austria verlautbarten Verbraucherpreisindex aufzuwerten und der Verlassenschaft hinzuzurechnen.
 
-### § 823 ABGB # Erbschafts- und Aneignungsklage
+`§ 755 (2) ABGB.`  
+Von dem Erbteil des anrechnungspflichtigen Erben ist das anzurechnende Vermögen abzuziehen. Der anrechnungspflichtige Erbe ist nicht zur Herausgabe seines Geschenks verpflichtet.
 
-`§ 823 (1) ABGB.`  
-Auch nach Einantwortung kann der Erwerber der Verlassenschaft von jeder Person, die ein besseres oder gleichwertiges Erbrecht behauptet, auf Herausgabe der Erbschaft oder des seiner Berechtigung entsprechenden Teils der Erbschaft belangt werden. Das Eigentum an einzelnen Erbschaftstücken wird aber nicht mit der Erbschafts-, sondern mit der Eigentumsklage geltend gemacht.
+## Vierzehntes Hauptstück # Vom Pflichtteil und der Anrechnung auf den Pflichtteil # I. Allgemeines
 
-`§ 823 (2) ABGB.`  
-Der Bund kann in sinngemäßer Anwendung des Abs. 1 gegen den eingeantworteten Erben das Recht, sich die Verlassenschaft anzueignen, geltend machen.
+### § 756 ABGB # 1. Pflichtteilsberechtigung
 
-### § 824 ABGB # Wirkung der Erbschafts- und Aneignungsklage
+`§ 756 ABGB.`  
+Der Pflichtteil ist der Anteil am Wert des Vermögens des Verstorbenen, der dem Pflichtteilsberechtigten zukommen soll.
 
-`§ 824 ABGB.`  
-Wenn der Beklagte ganz oder zum Teil zur Herausgabe der Verlassenschaft verurteilt wird, sind die Ansprüche auf die Zurückstellung der von ihm gezogenen Früchte oder auf die Vergütung der von ihm getätigten Aufwendungen und Kosten nach denjenigen Grundsätzen zu beurteilen, die für den redlichen oder unredlichen Besitzer im Hauptstück vom Besitz festgesetzt sind. Ein dritter redlicher Erwerber ist für die in der Zwischenzeit erworbenen Erbstücke niemandem verantwortlich.
+### § 757 ABGB
 
-## Sechzehntes Hauptstück. # Von der Gemeinschaft des Eigenthumes und anderer dinglichen Rechte.
+`§ 757 ABGB.`  
+Pflichtteilsberechtigt sind die Nachkommen sowie der Ehegatte oder eingetragene Partner des Verstorbenen.
 
-### § 825 ABGB # Ursprung einer Gemeinschaft.
+### § 758 ABGB
 
-`§ 825 ABGB.`  
-So oft das Eigenthum der nähmlichen Sache, oder ein und dasselbe Recht mehreren Personen ungetheilt zukommt; besteht eine Gemeinschaft. Sie gründet sich auf eine zufällige Ereignung; auf ein Gesetz; auf eine letzte Willenserklärung; oder auf einen Vertrag.
+`§ 758 (1) ABGB.`  
+Einer in § 757 angeführten Person steht ein Pflichtteil zu, wenn ihr bei gesetzlicher Erbfolge ein Erbrecht zustünde, sie nicht enterbt wurde und nicht auf den Pflichtteil verzichtet worden ist.
 
-### § 826 ABGB
+`§ 758 (2) ABGB.`  
+Den Nachkommen einer erbunfähigen, enterbten oder vorverstorbenen Person steht ein Pflichtteil zu, wenn sie die Voraussetzungen des Abs. 1 erfüllen. Der Verzicht auf den Pflichtteil und die Ausschlagung der Erbschaft erstrecken sich im Zweifel auch auf die Nachkommen. Die Nachkommen eines vorverstorbenen Pflichtteilsberechtigten, dessen Pflichtteil gemindert worden ist, müssen sich mit dem geminderten Pflichtteil begnügen, wenn auch für sie die Voraussetzungen für die Minderung vorliegen (§ 776 Abs. 1 und 2).
 
-`§ 826 ABGB.`  
-Nach Verschiedenheit der Quellen, aus denen eine Gemeinschaft entspringt, erhalten auch die Rechte und Pflichten der Theilhaber ihre nähere Bestimmung. Für eine bloße Miteigentumsgemeinschaft gelten die Bestimmungen des siebenundzwanzigsten Hauptstücks nur dann, wenn die Miteigentümer ausdrücklich vereinbaren, als Gesellschafter einer Gesellschaft bürgerlichen Rechts zusammenwirken zu wollen.
+`§ 758 (3) ABGB.`  
+Eine in ihrem Pflichtteil verkürzte Person kann sich auch dann auf ihre Pflichtteilsberechtigung stützen, wenn ihr ein Erbrecht aus einem Erbvertrag, einem letzten Willen oder dem Gesetz gebührt.
 
-### § 827 ABGB
+### § 759 ABGB # 2. Höhe
 
-`§ 827 ABGB.`  
-Wer einen Antheil an einer gemeinschaftlichen Sache anspricht, der muß sein Recht, wenn es von den übrigen Theilnehmern widersprochen wird, beweisen.
+`§ 759 ABGB.`  
+Als Pflichtteil gebührt jeder pflichtteilsberechtigten Person die Hälfte dessen, was ihr nach der gesetzlichen Erbfolge zustünde.
 
-### § 828 ABGB # Gemeinschaftliche Rechte der Theilhaber.
+### § 760 ABGB
 
-`§ 828 (1) ABGB.`  
-So lange alle Theilhaber einverstanden sind, stellen sie nur Eine Person vor, und haben das Recht, mit der gemeinschaftlichen Sache nach Belieben zu schalten. Sobald sie uneinig sind, kann kein Theilhaber in der gemeinschaftlichen Sache eine Veränderung vernehmen, wodurch über den Antheil des Andern verfügt würde.
+`§ 760 (1) ABGB.`  
+Wenn einer der in § 757 angeführten Personen infolge Pflichtteilsverzichtes oder Ausschlagung der Erbschaft kein Pflichtteil zusteht, erhöht dies im Zweifel die Pflichtteile der anderen Pflichtteilsberechtigten nicht.
 
-`§ 828 (2) ABGB.`  
-Eine gerichtliche oder vertraglich vereinbarte Benützungsregelung zwischen den Teilhabern einer unbeweglichen Sache wirkt auch für deren Rechtsnachfolger, wenn sie im Grundbuch angemerkt ist.
+`§ 760 (2) ABGB.`  
+Wenn aber einer der in § 757 angeführten Personen aus anderen Gründen kein oder nur ein geminderter Pflichtteil zusteht und an ihrer Stelle auch keine Nachkommen den Pflichtteil erhalten, erhöhen sich die Pflichtteile der anderen Pflichtteilsberechtigten anteilig; die §§ 733 und 734 sind anzuwenden.
 
-### § 829 ABGB # Rechte des Theilhabers auf seinen Antheil.
+### 3. Erfüllungsarten
 
-`§ 829 ABGB.`  
-Jeder Theilhaber ist vollständiger Eigenthümer seines Antheiles. In so fern er die Rechte seiner Mitgenossen nicht verletzt, kann er denselben, oder die Nutzungen davon willkührlich und unabhängig verpfänden, vermachen, oder sonst veräußern (§. 361).
+### § 761 ABGB # Leistung und Deckung des Pflichtteils
 
-### § 830 ABGB
+`§ 761 (1) ABGB.`  
+Der Pflichtteil ist in Geld zu leisten. Er kann aber auch durch eine Zuwendung auf den Todesfall des Verstorbenen (§ 780) oder eine Schenkung unter Lebenden (§ 781) gedeckt werden.
 
-`§ 830 ABGB.`  
-Jeder Theilhaber ist befugt, auf Ablegung der Rechnung und auf Vertheilung des Ertrages zu dringen. Er kann in der Regel auch die Aufhebung der Gemeinschaft verlangen; doch nicht zur Unzeit, oder zum Nachtheile der Uebrigen. Er muß sich daher einen, den Umständen angemessenen, nicht wohl vermeidlichen Aufschub gefallen lassen.
+`§ 761 (2) ABGB.`  
+Wenn der Verstorbene jemanden auf den Pflichtteil gesetzt hat, wird vermutet, dass er ihm einen Geldanspruch und nicht ein Vermächtnis zuwenden wollte.
 
-### § 831 ABGB
+### § 762 ABGB # Bedingungen und Belastungen
 
-`§ 831 ABGB.`  
-Hat sich ein Theilhaber zur Fortsetzung der Gemeinschaft verbunden, so kann er zwar vor Verlauf der Zeit nicht austreten; allein diese Verbindlichkeit wird, wie andere Verbindlichkeiten, aufgehoben, und erstreckt sich nicht auf die Erben, wenn diese nicht selbst dazu eingewilliget haben.
+`§ 762 ABGB.`  
+Haften einer Zuwendung oder Schenkung im Sinn der §§ 780 und 781 Bedingungen oder Belastungen an, die der Verwertung des zugewendeten Vermögens entgegenstehen, so hindert dies nicht deren Eignung zur Pflichtteilsdeckung; ein dadurch fehlender oder verminderter Nutzen ist aber bei der Bewertung der Zuwendung oder Schenkung zu berücksichtigen.
 
-### § 832 ABGB
+### § 763 ABGB # Geldpflichtteil
 
-`§ 832 ABGB.`  
-Auch die Anordnung eines Dritten, wodurch eine Sache zur Gemeinschaft bestimmt wird, muß zwar von den ersten Theilhabern, nicht auch von ihren Erben befolgt werden. Eine Verbindlichkeit zu einer immerwährenden Gemeinschaft kann nicht bestehen.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Rechte der Theilhaber in der gemeinschaftlichen Sache:</h4>
+`§ 763 ABGB.`  
+Soweit der Pflichtteil durch eine Zuwendung oder Schenkung im Sinn der §§ 780 und 781 nicht oder nicht voll gedeckt wird, kann der Pflichtteilsberechtigte den Pflichtteil selbst oder dessen Ergänzung in Geld fordern.
 
-### § 833 ABGB # a) In Rücksicht des Hauptstammes;
+### § 764 ABGB # 4. Pflichtteilsschuldner
 
-`§ 833 ABGB.`  
-Der Besitz und die Verwaltung der gemeinschaftlichen Sache kommt allen Theilhabern insgesammt zu. In Angelegenheiten, welche nur die ordentliche Verwaltung und Benützung des Hauptstammes betreffen, entscheidet die Mehrheit der Stimmen, welche nicht nach den Personen, sondern nach Verhältniß der Antheile der Theilnehmer gezählet werden.
+`§ 764 (1) ABGB.`  
+Der Pflichtteilsanspruch ist von der Verlassenschaft und nach der Einantwortung von den Erben zu erfüllen.
 
-### § 834 ABGB
+`§ 764 (2) ABGB.`  
+Wenn der Pflichtteil durch eine Zuwendung oder Schenkung im Sinn der §§ 780 und 781 nicht oder nicht voll gedeckt wird, haben neben den Erben auch die Vermächtnisnehmer höchstens bis zum Wert der Verlassenschaft zu seiner Bedeckung verhältnismäßig beizutragen, nicht jedoch der Ehegatte oder eingetragene Partner mit dem gesetzlichen Vorausvermächtnis, der Lebensgefährte mit einem solchen gesetzlichen Vermächtnis und der Begünstigte aus einem Pflegevermächtnis.
 
-`§ 834 ABGB.`  
-Bey wichtigen Veränderungen aber, welche zur Erhaltung oder bessern Benützung des Hauptstammes vorgeschlagen werden, können die Ueberstimmten Sicherstellung für künftigen Schaden; oder, wenn diese verweigert wird, den Austritt aus der Gemeinschaft verlangen.
+### § 765 ABGB # 5. Anfall und Fälligkeit
 
-### § 835 ABGB
+`§ 765 (1) ABGB.`  
+Der Pflichtteilsberechtigte erwirbt den Anspruch für sich und seine Nachfolger mit dem Tod des Verstorbenen.
 
-`§ 835 ABGB.`  
-Wollen sie nicht austreten; oder geschähe der Austritt zur Unzeit; so soll das Los, ein Schiedsmann, oder, wofern sie sich darüber nicht einhellig vereinigen, der Richter entscheiden, ob die Veränderung unbedingt oder gegen Sicherstellung Statt finden soll oder nicht. Diese Arten der Entscheidung treten auch bey gleichen Stimmen der Mitglieder ein.
+`§ 765 (2) ABGB.`  
+Den Geldpflichtteil kann der Pflichtteilsberechtigte erst ein Jahr nach dem Tod des Verstorbenen fordern.
 
-### § 836 ABGB
+### § 766 ABGB # Stundung
 
-`§ 836 ABGB.`  
-Ist ein Verwalter der gemeinschaftlichen Sachen zu bestellen; so entscheidet über dessen Auswahl die Mehrheit der Stimmen, und in deren Abgang der Richter.
+`§ 766 (1) ABGB.`  
+Der letztwillig Verfügende kann die Stundung des Pflichtteilsanspruchs auf höchstens fünf Jahre nach seinem Tod oder die Zahlung in Teilbeträgen innerhalb dieses Zeitraums anordnen. Ebenso kann er die Deckung des Pflichtteils durch eine Zuwendung ganz oder zum Teil auf diesen Zeitraum erstrecken.
 
-### § 837 ABGB
+`§ 766 (2) ABGB.`  
+In den Fällen des Abs. 1 kann der Pflichtteilsberechtigte den gesamten oder restlichen Geldpflichtteil erst mit Ende dieses Zeitraums fordern, es sei denn, dass ihn dies unter Berücksichtigung aller Umstände unbillig hart träfe. Die Interessen und die Vermögenslage des Pflichtteilsschuldners sind angemessen zu berücksichtigen.
 
-`§ 837 ABGB.`  
-Der Verwalter des gemeinschaftlichen Gutes wird als ein Machthaber angesehen. Er ist einerseits verbunden, ordentliche Rechnung abzulegen; andererseits aber befugt, alle nützlich gemachte Auslagen in Abrechnung zu bringen. Dieses gilt auch in dem Falle, daß ein Theilgenosse ein gemeinschaftliches Gut ohne Auftrag der übrigen Theilnehmer verwaltet.
+`§ 766 (3) ABGB.`  
+In besonders berücksichtigungswürdigen Fällen kann der in Abs. 1 genannte Zeitraum auf insgesamt höchstens zehn Jahre durch das Gericht verlängert werden.
 
-### § 838 ABGB
+### § 767 ABGB
 
-`§ 838 ABGB.`  
-Wird die Verwaltung Mehrern überlassen; so entscheidet auch unter ihnen die Mehrheit der Stimmen.
+`§ 767 (1) ABGB.`  
+Der Pflichtteilsanspruch ist auf Verlangen eines Pflichtteilsschuldners auch gerichtlich zu stunden, soweit diesen die Erfüllung unter Berücksichtigung aller Umstände unbillig hart träfe. Dies kann insbesondere der Fall sein, wenn er mangels ausreichenden anderen Vermögens die Wohnung, die ihm zur Befriedigung seines dringenden Wohnbedürfnisses dient, oder ein Unternehmen, das seine wirtschaftliche Lebensgrundlage darstellt, veräußern müsste. Ebenso ist der Geldpflichtteilsanspruch auf Verlangen eines Pflichtteilsschuldners zu stunden, wenn dessen sofortige Entrichtung den Fortbestand eines Unternehmens erheblich gefährdet. Die Interessen des Pflichtteilsberechtigten sind angemessen zu berücksichtigen.
 
-### § 838a ABGB
+`§ 767 (2) ABGB.`  
+Das Gericht kann den Pflichtteilsanspruch auf höchstens fünf Jahre nach dem Tod des Verstorbenen stunden oder die Zahlung in Teilbeträgen innerhalb dieses Zeitraums bewilligen.
 
-`§ 838a ABGB.`  
-Streitigkeiten zwischen den Teilhabern über die mit der Verwaltung und Benützung der gemeinschaftlichen Sache unmittelbar zusammenhängenden Rechte und Pflichten sind im Verfahren außer Streitsachen zu entscheiden.
+`§ 767 (3) ABGB.`  
+In besonders berücksichtigungswürdigen Fällen kann der in Abs. 2 genannte Zeitraum auf insgesamt höchstens zehn Jahre durch das Gericht verlängert werden.
 
-### § 839 ABGB # b) der Nutzungen und Lasten;
+### § 768 ABGB # Sicherstellung des Pflichtteilsanspruchs und Anpassung einer Stundungsregelung
 
-`§ 839 ABGB.`  
-Die gemeinschaftlichen Nutzungen und Lasten werden nach Verhältniß der Antheile ausgemessen. Im Zweifel wird jeder Antheil gleich groß angesehen; wer das Gegentheil behauptet, muß es beweisen.
-
-### § 840 ABGB
-
-`§ 840 ABGB.`  
-Ordentlicher Weise sind die erzielten Nutzungen in Natur zu theilen. Ist aber diese Vertheilungsart nicht thunlich; so ist jeder berechtigt, auf die öffentliche Feilbiethung zu dringen. Der gelöste Werth wird den Theilhabern verhältnißmäßig entrichtet.
-
-### § 841 ABGB # c) der Theilung.
-
-`§ 841 ABGB.`  
-Bey der nach aufgehobener Gemeinschaft vorzunehmenden Theilung der gemeinschaftlichen Sache gilt keine Mehrheit der Stimmen. Die Theilung muß zur Zufriedenheit eines jeden Sachgenossen vorgenommen werden. Können sie nicht einig werden; so entscheidet das Los, oder ein Schiedsmann, oder, wenn sie sich über die Bestimmung der einen oder andern dieser Entscheidungsarten nicht einhellig vereinigen, der Richter.
-
-### § 842 ABGB
-
-`§ 842 ABGB.`  
-Ein Schiedsmann oder der Richter entscheidet auch, ob bey der Theilung liegender Gründe oder Gebäude ein Theilgenosse, zur Benützung seines Antheiles, einer Servitut bedürfe, und unter welcher Bedingung sie ihm zu verwilligen sey.
-
-### § 843 ABGB
-
-`§ 843 ABGB.`  
-Kann eine gemeinschaftliche Sache entweder gar nicht, oder nicht ohne beträchtliche Verminderung des Werthes getheilt werden; so ist sie, und zwar wenn auch nur Ein Theilgenosse es verlangt, vermittelst gerichtlicher Feilbiethung zu verkaufen, und der Kaufschilling unter die Theilhaber zu vertheilen.
-
-### § 844 ABGB
-
-`§ 844 ABGB.`  
-Servituten, Grenzzeichen und die zum gemeinschaftlichen Gebrauche nötigen Urkunden sind keiner Teilung fähig. Die Urkunden werden, wenn sonst nichts im Wege steht, bei dem ältesten Teilhaber niedergelegt. Die übrigen erhalten auf ihre Kosten beglaubigte Abschriften. Die Grunddienstbarkeiten bestehen mangels Vereinbarung zugunsten aller Teile fort; jedoch darf die Dienstbarkeit dadurch nicht erweitert oder für das dienstbare Gut beschwerlicher werden. Kommt die Ausübung der Dienstbarkeit nur einzelnen Teilen zugute, so erlischt das Recht hinsichtlich der übrigen Teile.
-
-### § 845 ABGB
-
-`§ 845 ABGB.`  
-Bei Teilungen der Grundstücke sind die gegenseitigen Grenzen durch entsprechende Grenzzeichen auf eine deutliche und unwandelbare Art zu bezeichnen.
-
-### § 846 ABGB
-
-`§ 846 ABGB.`  
-Ueber die gemachte Theilung sind Urkunden zu errichten. Ein Theilhaber einer unbeweglichen Sache erhält auch erst dadurch ein dingliches Recht auf seinen Antheil, daß die darüber errichtete Urkunde den öffentlichen Büchern einverleibt wird. (§. 436)
-
-### § 847 ABGB
-
-`§ 847 ABGB.`  
-Die bloße Teilung was immer für eines gemeinschaftlichen Gutes kann einem Dritten nicht zum Nachteile gereichen; alle ihm zustehenden Pfand-, Servituts- und anderen dinglichen Rechte werden nach wie vor der Teilung ausgeübt. Trifft jedoch die Ausübung einer Grunddienstbarkeit nur ein Teilstück, so erlischt das Recht hinsichtlich der übrigen Teile.
-
-### § 848 ABGB
-
-`§ 848 ABGB.`  
-Auch persönliche Rechte, die einem Dritten gegen eine Gemeinschaft zustehen, haben ungeachtet des erfolgten Austrittes ihre vorige Kraft. Ebenso kann derjenige, welcher an eine Gemeinschaft schuldig ist, die Zahlung nicht an einzelne Teilnehmer entrichten. Solche Schulden müssen an die ganze Gemeinschaft oder an jenen, der sie ordentlich vorstellt, abgetragen werden.
-
-### § 848a ABGB
-
-`§ 848a ABGB.`  
-Gewährt eine Dienstbarkeit oder eine andere dingliche Last einen Anspruch auf Nutzungen, so kann bei Teilung des herrschenden Grundstückes jeder Berechtigte und bei Teilung des belasteten Grundstückes jeder Belastete eine gerichtliche Regelung der Ausübung begehren. Die Ausübung ist mit Rücksicht auf die Natur und Zweckbestimmung des Rechtes sowie auf das Größenverhältnis und die wirtschaftliche Besonderheit der einzelnen Liegenschaftsteile ohne Erschwerung der Last so zu regeln, wie es allen Interessen billigerweise entspricht.
-
-### § 849 ABGB
-
-`§ 849 ABGB.`  
-Was bisher von der Gemeinschaft überhaupt bestimmt worden ist, läßt sich auch auf die einer Familie, als einer Gemeinschaft, zustehenden Rechte und Sachen, z. B. Stiftungen, Fideicommisse u. dgl. anwenden.
-
-### § 850 ABGB # Erneuerung und Berichtigung der Grenzen
-
-`§ 850 ABGB.`  
-Wenn die Grenzzeichen zwischen zwei Grundstücken durch was immer für Umstände so verletzt worden sind, daß sie ganz unkenntlich werden könnten, oder wenn die Grenzen wirklich unkennbar oder streitig sind, so hat jeder der Nachbarn das Recht, die gerichtliche Erneuerung oder Berichtigung der Grenze zu verlangen. Zu diesem Behufe sind die Nachbarn zu einer Verhandlung im Verfahren außer Streitsachen mit dem Bedeuten zu laden, daß trotz Ausbleibens des Geladenen die Grenze festgesetzt und vermarkt werden wird.
-
-### § 851 ABGB
-
-`§ 851 (1) ABGB.`  
-Sind die Grenzen wirklich unkennbar geworden oder streitig, so werden sie nach dem letzten ruhigen Besitzstande festgesetzt. Läßt sich dieser nicht feststellen, so hat das Gericht die streitige Fläche nach billigem Ermessen zu verteilen.
-
-`§ 851 (2) ABGB.`  
-Jeder Partei bleibt es vorbehalten, ihr besseres Recht im Prozeßweg geltend zu machen.
-
-### § 852 ABGB
-
-`§ 852 ABGB.`  
-Die wichtigsten Behelfe bey einer Gränzberichtigung sind: die Ausmessung und Beschreibung, oder auch die Abzeichnung des streitigen Grundes; dann, die sich darauf beziehenden öffentlichen Bücher und andere Urkunden; endlich, die Aussagen sachkündiger Zeugen, und das von Sachverständigen nach vorgenommenem Augenscheine gegebene Gutachten.
-
-### § 853 ABGB
-
-`§ 853 (1) ABGB.`  
-Die Kosten des Verfahrens sind von den Nachbarn nach Maß ihrer Grenzlinien zu bestreiten. Der Antragsteller hat die Kosten des Verfahrens zu tragen, wenn sich aus der Verhandlung ergibt, daß die Grenzerneuerung oder Grenzberichtigung nicht notwendig war, weil die Grenze nicht bestritten oder hinlänglich kenntlich gewesen ist, oder weil die anderen Beteiligten zur außergerichtlichen Vermarkung bereit waren.
-
-`§ 853 (2) ABGB.`  
-Wenn das Verfahren durch Störung des ruhigen Besitzes veranlaßt wurde, kann das Gericht die Kosten ganz oder teilweise der Partei auferlegen, die den Streit veranlaßt hat.
-
-### § 853a ABGB
-
-`§ 853a ABGB.`  
-Für Grenzen von Grundstücken, die im Grenzkataster enthalten sind, finden die Bestimmungen der §§ 850 bis 853 keine Anwendung.
-
-### § 854 ABGB # Vermuthete Gemeinschaft.
-
-`§ 854 ABGB.`  
-Erdfurchen, Zäune, Hecken, Planken, Mauern, Privat-Bäche, Canäle, Plätze und andere dergleichen Scheidewände, die sich zwischen benachbarten Grundstücken befinden, werden für ein gemeinschaftliches Eigenthum angesehen, wenn nicht Wapen (Anm.: richtig: Wappen), Auf- oder Inschriften, oder andere Kennzeichen und Behelfe das Gegentheil beweisen.
-
-### § 855 ABGB
-
-`§ 855 ABGB.`  
-Jeder Mitgenosse kann eine gemeinschaftliche Mauer auf seiner Seite bis zur Hälfte in der Dicke benützen, auch Blindthüren und Wandschränke dort anbringen, wo auf der entgegengesetzten Seite noch keine angebracht sind. Doch darf das Gebäude durch einen Schorstein, Feuerherd oder andere Anlagen nicht in Gefahr gesetzt, und der Nachbar auf keine Art in dem Gebrauche seines Antheiles gehindert werden.
-
-### § 856 ABGB
-
-`§ 856 ABGB.`  
-Alle Miteigenthümer tragen zur Erhaltung solcher gemeinschaftlichen Scheidewände verhältnißmäßig bey. Wo sie doppelt vorhanden sind; oder das Eigenthum getheilt ist, bestreitet jeder die Unterhaltungskosten für das, was ihm allein gehört.
-
-### § 857 ABGB
-
-`§ 857 ABGB.`  
-Ist die Stellung einer Scheidewand von der Art, daß die Ziegel, Latten oder Steine nur auf einer Seite vorlaufen oder abhängen; oder sind die Pfeiler, Säulen, Ständer, Bachställe auf Einer Seite eingegraben; so ist im Zweifel auf dieser Seite das ungetheilte Eigenthum der Scheidewand, wenn nicht aus einer beyderseitigen Belastung, Einfügung, aus anderen Kennzeichen oder sonstigen Beweisen das Gegentheil erhellet. Auch derjenige wird für den ausschließenden Besitzer einer Mauer gehalten, welcher eine in der Richtung gleich fortlaufende Mauer von gleicher Höhe und Dicke unstreitig besitzt.
-
-### § 858 ABGB
-
-`§ 858 ABGB.`  
-In der Regel ist der ausschließende Besitzer nicht schuldig, seine verfallene Mauer oder Planke neu aufzuführen; nur dann muß er sie in gutem Stande erhalten, wenn durch die Oeffnung für den Gränznachbar Schaden zu befürchten stünde. Es ist aber jeder Eigenthümer verbunden, auf der rechten Seite seines Haupteinganges für die nöthige Einschließung seines Raumes, und für die Abtheilung von dem fremden Raume zu sorgen.
+`§ 768 ABGB.`  
+Das Gericht kann auf Antrag die Sicherstellung des Pflichtteilsanspruchs anordnen und bei einer erheblichen Änderung der Umstände eine Stundungsregelung ändern oder aufheben. Der Pflichtteilsschuldner und der Pflichtteilsberechtigte haben einander über eine wesentliche Änderung der Umstände unverzüglich zu informieren.
 
 `END-OF-DATA-FILE`

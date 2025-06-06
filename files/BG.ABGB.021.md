@@ -6,295 +6,314 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## 7. Abschnitt # Liquidation
+## Der Kaufpreis muß
 
-### § 1216a ABGB # Nachwirkung des Gesellschaftsvertrages
+### § 1055 ABGB # a) in barem Gelde bestehen;
 
-`§ 1216a (1) ABGB.`  
-Trotz Auflösung der Gesellschaft bestehen die gesellschaftsvertraglichen Rechte und Pflichten der Gesellschafter zueinander soweit fort, als dies für die Liquidation erforderlich ist und sich aus den folgenden Bestimmungen nichts anderes ergibt. Gesellschaftsbezogene Rechtsverhältnisse der Gesellschafter zu Dritten werden in ihrem Fortbestand durch die Auflösung und Liquidation der Gesellschaft nur dann berührt, wenn dies mit dem Dritten vereinbart wurde.
+`§ 1055 ABGB.`  
+Wird eine Sache theils gegen Geld, theils gegen eine andere Sache veräußert, so wird der Vertrag, je nachdem der Werth am Gelde mehr oder weniger, als der gemeine Werth der gegebenen Sache beträgt, zum Kaufe oder Tausche, und bey gleichem Werthe der Sache, zum Kaufe gerechnet.
 
-`§ 1216a (2) ABGB.`  
-Die Gesellschafter können anstelle der Liquidation eine andere Art der Auseinandersetzung vereinbaren. Ist die Gesellschaft durch Kündigung nach § 339 Abs. 1 EO oder durch die Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters aufgelöst, so kann die Liquidation nur mit Zustimmung des Verwalters oder des Masseverwalters unterbleiben.
+### § 1056 ABGB # b) bestimmt;
 
-### § 1216b ABGB # Bestellung der Liquidatoren
+`§ 1056 ABGB.`  
+Käufer und Verkäufer können die Festsetzung des Preises auch einer dritten bestimmten Person überlassen. Wird von dieser in dem bedungenen Zeitraume nichts festgesetzt; oder will im Falle, daß kein Zeitraum bedungen worden ist, ein Theil vor der Bestimmung des Preises zurücktreten; so wird der Kaufvertrag als nicht geschlossen angesehen.
 
-`§ 1216b (1) ABGB.`  
-Nach der Auflösung der Gesellschaft haben, sofern der Gesellschaftsvertrag nicht anderes bestimmt, die Gesellschafter als Liquidatoren das Gesellschaftsvermögen abzuwickeln. Mehrere Erben eines Gesellschafters haben einen gemeinsamen Vertreter zu bestellen. Ist über das Vermögen eines Gesellschafters das Konkursverfahren oder das Sanierungsverfahren eröffnet und dem Gesellschafter die Eigenverwaltung entzogen, so tritt der Insolvenzverwalter an die Stelle des Gesellschafters.
+### § 1057 ABGB
 
-`§ 1216b (2) ABGB.`  
-Auf Antrag eines Beteiligten kann aus wichtigen Gründen die Ernennung von Liquidatoren durch das Gericht erfolgen, in dessen Sprengel einer der Gesellschafter seinen Wohnsitz oder Sitz hat. Das Gericht kann in einem solchen Fall Personen zu Liquidatoren ernennen, die nicht zu den Gesellschaftern gehören. Als Beteiligter gilt außer den Gesellschaftern auch der Verwalter, durch den die Kündigung der Gesellschaft erfolgt ist.
+`§ 1057 ABGB.`  
+Wird die Bestimmung des Preises mehreren Personen überlassen, so entscheidet die Mehrheit der Stimmen. Fallen die Stimmen so verschieden aus, daß der Preis nicht einmahl durch wirkliche Mehrheit der Stimmen festgesetzt wird; so ist der Kauf für nicht eingegangen zu achten.
 
-`§ 1216b (3) ABGB.`  
-Die Abberufung von Liquidatoren geschieht durch einstimmigen Beschluss der Beteiligten; sie kann auf Antrag eines Beteiligten aus wichtigen Gründen auch durch das Gericht erfolgen.
+### § 1058 ABGB
 
-`§ 1216b (4) ABGB.`  
-Die Gesellschafter sind verpflichtet, die Liquidation und die Liquidatoren soweit möglich den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf ortsübliche Weise bekannt zu machen.
+`§ 1058 ABGB.`  
+Auch der Werth, welcher bey einer früheren Veräußerung bedungen worden ist, kann zur Bestimmung des Preises dienen. Hat man den ordentlichen Marktpreis zum Grunde gelegt, so wird der mittlere Marktpreis des Ortes und der Zeit, wo und in welcher der Vertrag erfüllet werden muß, angenommen.
 
-### § 1216c ABGB # Rechte und Pflichten der Liquidatoren
+### § 1059 ABGB # c) nicht gesetzwidrig sein.
 
-`§ 1216c (1) ABGB.`  
-Die Liquidatoren haben die laufenden Geschäfte zu beenden, die gesellschaftsbezogenen Forderungen einzuziehen und die Gesellschaftsgläubiger zu befriedigen. Zur Beendigung schwebender Geschäfte können die Liquidatoren auch neue Geschäfte eingehen.
+`§ 1059 ABGB.`  
+(Anm.: Aufgehoben durch § 33 Z 7, BGBl. Nr. 140/1979.)
 
-`§ 1216c (2) ABGB.`  
-Den Gesellschaftern sind die Gegenstände, die sie der Gesellschaft zur Benutzung überlassen haben, zurückzugeben. Für einen durch Zufall abhanden gekommenen oder verschlechterten Gegenstand gebührt ihnen gegenüber den anderen Gesellschaftern kein Ersatz.
+### § 1060 ABGB
 
-### § 1216d ABGB # Handeln der Liquidatoren
+`§ 1060 ABGB.`  
+Außer diesem Falle kann der Kauf sowohl von dem Käufer als Verkäufer nur wegen Verletzung über die Hälfte bestritten werden (§§. 934 – 935). Diese Beschwerde findet auch dann Statt, wenn der Ausspruch des Kaufpreises einem Dritten überlassen worden ist.
 
-`§ 1216d ABGB.`  
-Die Liquidatoren vertreten die Gesellschafter gerichtlich und außergerichtlich als Gesamtvertreter, sofern die Gesellschafter nicht einvernehmlich etwas anderes vereinbaren. Die Liquidatoren können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen. Jeder Liquidator ist alleine befugt, gesellschaftsbezogene Erklärungen entgegenzunehmen.
+### § 1061 ABGB # Pflichten des Verkäufers,
 
-### § 1216e ABGB # Aufteilung und Ausgleich unter den Gesellschaftern
+`§ 1061 ABGB.`  
+Der Verkäufer ist schuldig, die Sache bis zur Zeit der Uebergabe sorgfältig zu verwahren und sie dem Käufer nach eben den Vorschriften zu übergeben, welche oben bey dem Tausche (§. 1047) aufgestellt worden sind.
 
-`§ 1216e (1) ABGB.`  
-Das nach Berücksichtigung der Schulden verbleibende Gesellschaftsvermögen ist nach dem Verhältnis der Beteiligung der Gesellschafter unter Berücksichtigung ihrer Guthaben und Verbindlichkeiten aus dem Gesellschaftsverhältnis unter die Gesellschafter zu verteilen.
+### § 1062 ABGB # und des Käufers.
 
-`§ 1216e (2) ABGB.`  
-Das während der Liquidation entbehrliche Geld wird vorläufig verteilt. Zur Deckung noch nicht fälliger oder streitiger Verbindlichkeiten sowie zur Sicherung der den Gesellschaftern bei der Schlussverteilung zukommenden Beträge ist das Erforderliche zurückzubehalten. § 1196 Abs. 1 ist während der Liquidation nicht anzuwenden.
+`§ 1062 ABGB.`  
+Der Käufer hingegen ist verbunden, die Sache sogleich, oder zur bedungenen Zeit zu übernehmen, zugleich aber auch das Kaufgeld bar abzuführen; widrigen Falls ist der Verkäufer ihm die Uebergabe der Sache zu verweigern berechtiget.
 
-`§ 1216e (3) ABGB.`  
-Entsteht über die Verteilung des Gesellschaftsvermögens Streit unter den Gesellschaftern, so haben die Liquidatoren die Verteilung bis zur Entscheidung des Streites auszusetzen.
+### § 1063 ABGB
 
-`§ 1216e (4) ABGB.`  
-Reicht das Gesellschaftsvermögen zur Deckung der Guthaben von Gesellschaftern aus dem Gesellschaftsverhältnis nicht aus, so sind die übrigen Gesellschafter ihnen gegenüber verpflichtet, für den Betrag im Verhältnis ihrer Verbindlichkeiten aus dem Gesellschaftsverhältnis aufzukommen. Kann von einem Gesellschafter der auf ihn entfallende Betrag nicht erlangt werden, so wird der Ausfall auf die übrigen Gesellschafter wie ein Verlust verteilt.
+`§ 1063 ABGB.`  
+Wird die Sache dem Käufer von dem Verkäufer ohne das Kaufgeld zu erhalten, übergeben; so ist die Sache auf Borg verkauft, und das Eigenthum derselben geht gleich auf den Käufer über.
 
-## Achtundzwanzigstes Hauptstück # Von den Ehepakten und dem Anspruch auf Ausstattung
+### § 1063a ABGB
 
-### § 1217 ABGB # Ehepakte
+`§ 1063a ABGB.`  
+Die Kosten der Übergabe der verkauften Ware, insbesondere die Kosten des Messens und des Wägens, fallen dem Verkäufer zur Last, die Kosten der Abnahme und der Versendung der Sache an einen anderen Ort als den Erfüllungsort aber dem Käufer.
 
-`§ 1217 (1) ABGB.`  
-Ehepakte heißen diejenigen Verträge, welche in der Absicht auf die eheliche Verbindung über das Vermögen geschlossen werden. Sie haben vorzüglich die Gütergemeinschaft und den Erbvertrag zum Gegenstand.
+### § 1063b ABGB
 
-`§ 1217 (2) ABGB.`  
-Die Bestimmungen dieses Hauptstücks sind auf eingetragene Partner sinngemäß anzuwenden.
+`§ 1063b ABGB.`  
+Wenn dem Käufer beim Kauf einer beweglichen Sache die nähere Bestimmung der Form, des Maßes oder ähnlicher Verhältnisse vorbehalten ist, ist er verpflichtet, die vorbehaltene Bestimmung zu treffen. Im Übrigen gilt § 906 Abs. 2 sinngemäß.
 
-### § 1220 ABGB # Ausstattung
+### § 1064 ABGB # Gefahr und Nutzen des Kaufgegenstandes.
 
-`§ 1220 ABGB.`  
-Besitzt ein Kind kein eigenes, zu einer angemessenen Ausstattung hinlängliches Vermögen, so sind Eltern oder Großeltern nach der Reihenfolge und nach den Grundsätzen, nach denen sie für den Unterhalt der Kinder zu sorgen haben, verpflichtet, den Kindern oder Enkelkindern bei ihrer Verehelichung eine Ausstattung zu geben oder dazu verhältnismäßig beizutragen.
+`§ 1064 ABGB.`  
+In Rücksicht der Gefahr und Nutzungen einer zwar gekauften, aber noch nicht übergebenen Sache gelten die nähmlichen Vorschriften, die bey dem Tauschvertrage gegeben worden sind (§§. 1048 – 1051).
 
-### § 1221 ABGB
+### § 1065 ABGB # Kauf einer gehofften Sache.
 
-`§ 1221 ABGB.`  
-Berufen sich Eltern oder Großeltern auf ihr Unvermögen zur Bestellung einer angemessenen Ausstattung, so hat das Gericht auf Antrag des Ausstattungsberechtigten, jedoch ohne strenge Untersuchung des Vermögensstands, darüber zu entscheiden.
+`§ 1065 ABGB.`  
+Wenn Sachen, die noch zu erwarten stehen, gekauft werden; so sind die in dem Hauptstücke von gewagten Geschäften gegebenen Anordnungen anzuwenden.
 
-### § 1222 ABGB
+### § 1066 ABGB # Allgemeine Vorschrift.
 
-`§ 1222 ABGB.`  
-Wenn ein Kind ohne Wissen oder gegen den Willen seiner Eltern geheiratet hat und das Gericht die Ursache der Missbilligung begründet findet, sind die Eltern selbst in dem Falle, dass sie in der Folge die Ehe genehmigen, nicht schuldig, ihm eine Ausstattung zu geben.
+`§ 1066 ABGB.`  
+In allen bey einem Kaufvertrage vorkommenden Fällen, welche in dem Gesetze nicht ausdrücklich entschieden werden, sind die in den Hauptstücken von Verträgen überhaupt, und von dem Tauschvertrage insbesondere aufgestellten Vorschriften anzuwenden.
 
-### § 1223 ABGB
+### § 1067 ABGB # Besondere Arten oder Nebenverträge eines Kaufvertrages.
 
-`§ 1223 ABGB.`  
-Hat ein Kind seine Ausstattung schon erhalten und sie, wenn auch ohne sein Verschulden, verloren, so ist es nicht mehr – selbst nicht bei Eingehung einer weiteren Ehe – berechtigt, eine neue zu fordern.
+`§ 1067 ABGB.`  
+Besondere Arten oder Nebenverträge eines Kaufvertrages sind: der Vorbehalt des Wiederkaufes, des Rückverkaufes, des Vorkaufes; der Verkauf auf die Probe; der Verkauf mit Vorbehalt eines bessern Käufers; und der Verkaufsauftrag.
 
-### § 1233 ABGB # Gütergemeinschaft
+### § 1068 ABGB # Verkauf mit Vorbehalt des Wiederkaufes.
 
-`§ 1233 ABGB.`  
-Die eheliche Verbindung allein begründet noch keine Gemeinschaft der Güter zwischen den Eheleuten. Dazu wird ein besonderer Vertrag erfordert, dessen Umfang und rechtliche Form nach den §§. 1177 und 1178 des vorigen Hauptstückes beurtheilet wird.
+`§ 1068 ABGB.`  
+Das Recht eine verkaufte Sache wieder einzulösen, heißt das Recht des Wiederkaufes. Ist dieses Recht dem Verkäufer überhaupt und ohne nähere Bestimmung eingeräumt, so wird von einer Seite das Kaufstück in einem nicht verschlimmerten Zustande; von der andern Seite aber das erlegte Kaufgeld zurück gegeben, und die inzwischen beyderseits aus dem Gelde und der Sache gezogenen Nutzungen bleiben gegen einander aufgehoben.
 
-### § 1234 ABGB
+### § 1069 ABGB
 
-`§ 1234 ABGB.`  
-Die Gütergemeinschaft unter Ehegatten wird in der Regel nur auf den Todesfall verstanden. Sie gibt dem Ehegatten das Recht auf die Hälfte dessen, was von den der Gemeinschaft wechselseitig unterzogenen Gütern nach Ableben des andern Ehegatten noch vorhanden seyn wird.
+`§ 1069 ABGB.`  
+Hat der Käufer das Kaufstück aus dem Seinigen verbessert; oder zu dessen Erhaltung außerordentliche Kosten verwendet, so gebührt ihm gleich einem redlichen Besitzer der Ersatz; er haftet aber auch dafür, wenn durch sein Verschulden der Werth verändert, oder die Zurückgabe vereitelt worden ist.
 
-### § 1235 ABGB
+### § 1070 ABGB
 
-`§ 1235 ABGB.`  
-Bey einer Gemeinschaft, die sich auf das ganze Vermögen bezieht, sind vor der Theilung alle Schulden ohne Ausnahme; bey einer Gemeinschaft aber, die bloß das gegenwärtige, oder bloß das künftige Vermögen zum Gegenstande hat, nur diejenigen Schulden abzuziehen, die zum Nutzen des gemeinschaftlichen Gutes verwendet worden sind.
+`§ 1070 ABGB.`  
+Der Vorbehalt des Wiederkaufes findet nur bei unbeweglichen Sachen statt und gebührt dem Verkäufer nur für seine Lebenszeit. Er kann sein Recht weder auf die Erben noch auf einen anderen übertragen. Ist das Recht in die öffentlichen Bücher einverleibt, so kann die Sache auch einem Dritten abgefordert werden und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt.
 
-### § 1236 ABGB
+### § 1071 ABGB # Kauf mit Vorbehalt des Rückverkaufes.
 
-`§ 1236 ABGB.`  
-Besitzt ein Ehegatte ein unbewegliches Gut, und wird das Recht des andern Ehegatten zur Gemeinschaft in die öffentlichen Bücher eingetragen; so erhält dieser durch die Eintragung auf die Hälfte der Substanz des Gutes ein dingliches Recht, vermöge dessen der eine Ehegatte über diese Hälfte keine Anordnung machen kann; auf die Nutzungen aber während der Ehe erhält er durch die Einverleibung keinen Anspruch. Nach dem Tode des Ehegatten gebührt dem überlebenden Theile sogleich das freye Eigenthum seines Antheiles. Doch kann eine solche Einverleibung den auf das Gut früher eingetragenen Gläubigern nicht zum Nachtheile gereichen.
+`§ 1071 ABGB.`  
+Den nähmlichen Beschränkungen unterliegt das von dem Käufer ausbedungene Recht, die Sache dem Verkäufer wieder zurück zu verkaufen; und es sind auf dasselbe die für den Wiederkauf ertheilten Vorschriften anzuwenden. Ist aber die Bedingung des Wiederverkaufs oder Wiederkaufs verstellt, und eigentlich um ein Pfandrecht oder ein Borggeschäft zu verbergen, gebraucht worden, so tritt die Vorschrift des §. 916 ein.
 
-### § 1237 ABGB # Gesetzlicher ehelicher Güterstand
+### § 1072 ABGB # Vorbehalt des Vorkaufsrechtes.
 
-`§ 1237 ABGB.`  
-Haben Eheleute über die Verwendung ihres Vermögens keine besondere Uebereinkunft getroffen, so behält jeder Ehegatte sein voriges Eigenthumsrecht, und auf das, was ein jeder Theil während der Ehe erwirbt, und auf was immer für eine Art überkommt, hat der andere, solange die Ehe besteht, keinen Anspruch.
+`§ 1072 ABGB.`  
+Wer eine Sache mit der Bedingung verkauft, daß der Käufer, wenn er solche wieder verkaufen will, ihm die Einlösung anbiethen soll, der hat das Vorkaufsrecht.
 
-### § 1246 ABGB # Schenkungen unter Ehegatten und Verlobten;
+### § 1073 ABGB
 
-`§ 1246 ABGB.`  
-Die Gültigkeit oder Ungültigkeit der Schenkungen zwischen Ehegatten wird nach den für die Schenkungen überhaupt bestehenden Gesetzen beurtheilt.
+`§ 1073 ABGB.`  
+Das Vorkaufsrecht ist in der Regel ein persönliches Recht. In Rücksicht auf unbewegliche Güter kann es durch Eintragung in die öffentlichen Bücher in ein dingliches verwandelt werden.
 
-### § 1247 ABGB
+### § 1074 ABGB
 
-`§ 1247 ABGB.`  
-Was ein Mann seiner Ehegattinn an Schmuck, Edelsteinen und andern Kostbarkeiten zum Putze gegeben hat, wird im Zweifel nicht für gelehnt; sondern für geschenkt angesehen. Wenn aber ein verlobter Theil dem andern; oder auch ein Dritter dem einen oder andern Theile in Rücksicht auf die künftige Ehe etwas zusichert oder schenket; so kann, wenn die Ehe ohne Verschulden des Geschenkgebers nicht erfolgt, die Schenkung widerrufen werden.
+`§ 1074 ABGB.`  
+Auch kann das Vorkaufsrecht weder einem Dritten abgetreten, noch auf die Erben des Berechtigten übertragen werden.
 
-### § 1249 ABGB # Erbverträge
+### § 1075 ABGB
 
-`§ 1249 ABGB.`  
-Zwischen Ehegatten kann auch ein Erbvertrag, wodurch die künftige Erbschaft oder ein Teil derselben versprochen und das Versprechen angenommen wird, geschlossen werden (§ 602). Ein solcher Vertrag muss als Notariatsakt und mit allen Erfordernissen eines schriftlichen Testamentes errichtet werden.
+`§ 1075 ABGB.`  
+Der Berechtigte muß bewegliche Sachen binnen vier und zwanzig Stunden; unbewegliche aber binnen dreyßig Tagen, nach der geschehenen Anbiethung, wirklich einlösen. Nach Verlauf dieser Zeit ist das Vorkaufsrecht erloschen.
 
-### § 1251 ABGB # Bedingungen
+### § 1076 ABGB
 
-`§ 1251 ABGB.`  
-Die Bestimmungen über Bedingungen bei Verträgen sind auch auf Erbverträge anzuwenden.
+`§ 1076 ABGB.`  
+Das Vorkaufsrecht hat im Falle einer gerichtlichen Feilbiethung der mit diesem Rechte belasteten Sachen keine andere Wirkung, als daß der den öffentlichen Büchern einverleibte Berechtigte zur Feilbiethung insbesondere vorgeladen werden muß.
 
-### § 1252 ABGB # Wirkungen des Erbvertrags
+### § 1077 ABGB
 
-`§ 1252 ABGB.`  
-Ein Erbvertrag hindert einen Vertragspartner nicht, zu Lebzeiten über sein Vermögen nach Belieben zu verfügen. Aus dem Erbvertrag entstehende Rechte setzen den Tod eines Vertragsteils voraus und können vor Erbanfall nicht auf andere übertragen werden. Aufgrund der künftigen Erbschaft kann keine Sicherstellung gefordert werden.
+`§ 1077 ABGB.`  
+Der zur Einlösung Berechtigte, muß außer dem Falle einer andern Verabredung, den vollständigen Preis, welcher von einem Dritten angebothen worden ist, entrichten. Kann er die außer dem gewöhnlichen Kaufpreise angebothenen Nebenbedingungen nicht erfüllen, und lassen sie sich auch durch einen Schätzungswerth nicht ausgleichen; so kann das Vorkaufsrecht nicht ausgeübt werden.
 
-### § 1253 ABGB
+### § 1078 ABGB
 
-`§ 1253 ABGB.`  
-Durch den Erbvertrag kann ein Vertragspartner auf das Recht zu testieren nicht gänzlich verzichten. Ein reines Viertel, das weder durch Pflichtteile noch durch andere Forderungen belastet sein darf, muss zur freien letztwilligen Verfügung stehen. Hat der Verstorbene darüber nicht verfügt, so fällt dieses Viertel nicht dem Vertragserben, auch wenn ihm im Erbvertrag die ganze Verlassenschaft versprochen wurde, sondern den gesetzlichen Erben zu.
+`§ 1078 ABGB.`  
+Das Vorkaufsrecht läßt sich auf andere Veräußerungsarten ohne eine besondere Verabredung nicht ausdehnen.
 
-### § 1254 ABGB
+### § 1079 ABGB
 
-`§ 1254 ABGB.`  
-Ein Erbvertrag kann nicht einseitig widerrufen, aber aus vertragsrechtlichen Gründen entkräftet werden. Die Rechte von Pflichtteilsberechtigten bleiben vom Erbvertrag unberührt.
+`§ 1079 ABGB.`  
+Hat der Besitzer dem Berechtigten die Einlösung nicht angebothen, so muß er ihm für allen Schaden haften. Im Falle eines dinglichen Vorkaufsrechtes kann die veräußerte Sache dem Dritten abgefordert werden, und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt.
 
-### § 1262 ABGB
+### § 1080 ABGB # Kauf auf die Probe.
 
-`§ 1262 ABGB.`  
-Ist zwischen den Ehegatten eine Gemeinschaft der Güter bedungen; so hört dieselbe durch den Concurs des einen oder des andern Ehegatten auf, und das zwischen ihnen gemeinschaftliche Vermögen wird, wie bey dem Tode, getheilt.
+`§ 1080 ABGB.`  
+Der Kauf auf Probe ist unter der im Belieben des Käufers stehenden Bedingung geschlossen, daß er die Ware genehmige. Die Bedingung ist im Zweifel eine aufschiebende; der Käufer ist vor der Genehmigung an den Kauf nicht gebunden, der Verkäufer hört auf, gebunden zu sein, wenn der Käufer bis zum Ablaufe der Probezeit nicht genehmigt.
 
-### § 1265 ABGB # Nichtigerklärung der Ehe
+### § 1081 ABGB
 
-`§ 1265 ABGB.`  
-Wird eine Ehe für ungültig erklärt; so zerfallen auch die Ehe-Pacte; das Vermögen kommt, in so fern es vorhanden ist, in den vorigen Stand zurück. Der schuldtragende Theil hat aber den schuldlosen Theile Entschädigung zu leisten.
+`§ 1081 ABGB.`  
+Ist die Sache zum Zwecke der Besichtigung oder Probe bereits übergeben, so gilt Stillschweigen des Käufers bis nach Ablauf der Probezeit als Genehmigung.
 
-### § 1266 ABGB # Scheidung oder Aufhebung der Ehe
+### § 1082 ABGB
 
-`§ 1266 ABGB.`  
-Im Fall einer Scheidung oder Aufhebung der Ehe mit gleichteiligem oder ohne Verschulden oder einer Scheidung im Einvernehmen sind die Ehepakte für beide Teile erloschen, sofern keine andere Vereinbarung getroffen wurde. Ansonsten gebührt dem schuldlosen oder minderschuldigen Ehegatten nicht nur volle Genugtuung, sondern ab dem Zeitpunkt der Scheidung alles dasjenige, was ihm in den Ehepakten auf den Fall des Überlebens bedungen worden ist. Das Vermögen, worüber eine Gütergemeinschaft bestanden hat, wird wie im Falle des Todes geteilt, und das Recht aus einem Erbvertrag bleibt dem Schuldlosen oder Minderschuldigen auf den Todesfall vorbehalten.
+`§ 1082 ABGB.`  
+Ist bei einem Kauf auf Probe keine Probezeit vereinbart worden, so kann der Verkäufer dem Käufer eine angemessene Frist als Probezeit setzen.
 
-## Neun u. zwanzigstes Hauptstück. # Von den Glücksverträgen.
+### § 1083 ABGB # Verkauf mit Vorbehalt eines besseren Käufers.
 
-### § 1267 ABGB # Glücksverträge.
+`§ 1083 ABGB.`  
+Wird das Kaufgeschäft mit dem Vorbehalte verabredet, daß der Verkäufer, wenn sich binnen einer bestimmten Zeit ein besserer Käufer meldet, denselben vorzuziehen befugt sey; so bleibt in dem Falle, daß das Kaufstück nicht übergeben worden, die Wirklichkeit des Vertrages bis zum Eintritte der Bedingung aufgeschoben.
 
-`§ 1267 ABGB.`  
-Ein Vertrag, wodurch die Hoffnung eines noch ungewissen Vortheiles versprochen und angenommen wird, ist ein Glücksvertrag. Er gehört, je nachdem etwas dagegen versprochen wird oder nicht, zu den entgeltlichen oder unentgeldlichen Verträgen.
+### § 1084 ABGB
 
-### § 1268 ABGB
+`§ 1084 ABGB.`  
+Ist das Kaufstück übergeben worden, so ist der Kaufvertrag abgeschlossen; er wird aber durch den Eintritt der Bedingung wieder aufgelöset. Bey dem Mangel einer ausdrücklichen Zeitbestimmung wird der bey dem Kaufe auf die Probe angenommene Zeitraum vermuthet.
 
-`§ 1268 ABGB.`  
-Bey Glücksverträgen findet das Rechtmittel wegen Verkürzung über die Hälfte des Werthes nicht Statt.
+### § 1085 ABGB
 
-### § 1269 ABGB # Arten der Glücksverträge;
+`§ 1085 ABGB.`  
+Ob der neue Käufer besser sey, beurtheilet der Verkäufer. Er kann den zweyten Käufer, wenn der erste auch noch mehr zahlen wollte, vorziehen. Bey der Auflösung des Vertrages heben sich die Nutzungen der Sache und des Geldes gegen einander auf. In Rücksicht der Verbesserungen oder Verschlimmerungen wird der Käufer gleich einem redlichen Besitzer behandelt.
 
-`§ 1269 ABGB.`  
-Glücksverträge sind: die Wette; das Spiel und das Los; alle über gehoffte Rechte, oder über künftige noch unbestimmte Sachen errichtete Kauf- und andere Verträge; ferner, die Leibrenten; die gesellschaftlichen Versorgungsanstalten; endlich die Versicherungs- und Bodmereyverträge.
+### § 1086 ABGB # Verkaufsauftrag.
 
-### § 1270 ABGB # 1) die Wette;
+`§ 1086 ABGB.`  
+Wenn jemand seine bewegliche Sache einem Andern für einen gewissen Preis zum Verkaufe übergibt, mit der Bedingung, daß ihm der Uebernehmer binnen einer festgesetzten Zeit entweder das bestimmte Kaufgeld liefern oder die Sache zurückstellen soll; so ist der Uebergeber vor Verlauf der Zeit die Sache zurück zu fordern nicht berechtiget; der Uebernehmer aber muß nach deren Ablauf das bestimmte Kaufgeld entrichten.
 
-`§ 1270 ABGB.`  
-Wenn über ein beyden Theilen noch unbekanntes Ereigniß ein bestimmter Preis zwischen ihnen für denjenigen, dessen Behauptung der Erfolg entspricht, verabredet wird: so entsteht eine Wette. Hatte der gewinnende Theil von dem Ausgange Gewißheit, und verheimlichte er sie dem andern Theile; so macht er sich einer Arglist schuldig, und die Wette ist ungültig; der verlierende Theil aber, dem der Ausgang vorher bekannt war, ist als ein Geschenkgeber anzusehen.
+### § 1087 ABGB
 
-### § 1271 ABGB
+`§ 1087 ABGB.`  
+Während der festgesetzten Zeit bleibt der Uebergeber Eigenthümer, der Uebernehmer haftet ihm für den durch sein Verschulden verursachten Schaden, und es werden ihm bey Zurückstellung der Sache nur solche Kosten vergütet, die dem Uebergeber zum Nutzen gereichen.
 
-`§ 1271 ABGB.`  
-Redliche und sonst erlaubte Wetten sind in so weit verbindlich, als der bedungene Preis nicht bloß versprochen; sondern wirklich entrichtet, oder hinterlegt worden ist. Gerichtlich kann der Preis nicht gefordert werden.
+### § 1088 ABGB
 
-### § 1272 ABGB # 2) das Spiel;
+`§ 1088 ABGB.`  
+Ist die Sache unbeweglich; oder ist der Preis, oder die Zahlungsfrist nicht bestimmt; so wird der Uebernehmer wie ein Gewalthaber angesehen. In keinem Falle kann die zum Verkaufe anvertraute Sache dem Dritten, welcher sie von dem Uebernehmer redlicher Weise an sich gebracht hat, abgefordert werden (§. 367).
 
-`§ 1272 ABGB.`  
-Jedes Spiel ist eine Art von Wette. Die für Wetten festgesetzten Rechte gelten auch für Spiele. Welche Spiele überhaupt, oder für besondere Classen verbothen; wie Personen, die verbothene Spiele treiben, und diejenigen, die ihnen dazu Unterschleif geben, zu bestrafen sind, bestimmen die politischen Gesetze.
+### § 1089 ABGB
 
-### § 1273 ABGB # 3) Los;
+`§ 1089 ABGB.`  
+Auch bey gerichtlichen Verkäufen finden die über Verträge, und den Tausch- und Kaufvertrag insbesondere aufgestellten Vorschriften in der Regel Statt; in so fern nicht in diesem Gesetze, oder in der Gerichtsordnung eigene Anordnungen enthalten sind.
 
-`§ 1273 ABGB.`  
-Ein zwischen Privat-Personen auf eine Wette oder auf ein Spiel abzielendes Los wird nach den für Wetten und Spiele festgesetzten Vorschriften beurtheilet. Soll aber eine Theilung, eine Wahl, oder eine Streitigkeit durch das Los entschieden werden; so treten dabey die Rechte der übrigen Verträge ein.
+## Fünf u. zwanzigstes Hauptstück. # Von Bestand- Erbpacht- und Erbzins-Verträgen.
 
-### § 1274 ABGB
+### § 1090 ABGB # Bestandvertrag.
 
-`§ 1274 ABGB.`  
-Staats-Lotterien sind nicht nach der Eigenschaft der Wette und des Spieles; sondern nach den jedes Mahl darüber kundgemachten Plänen, zu beurtheilen.
+`§ 1090 ABGB.`  
+Der Vertrag, wodurch jemand den Gebrauch einer unverbrauchbaren Sache auf eine gewisse Zeit und gegen einen bestimmten Preis erhält, heißt überhaupt Bestandvertrag.
 
-### § 1275 ABGB # 4) Hoffnungskauf.
+### § 1091 ABGB # I) Mieth- und Pachtvertrag.
 
-`§ 1275 ABGB.`  
-Wer für ein bestimmtes Maß von einem künftigen Erträgnisse einen verhältnißmäßigen Preis verspricht, schließt einen ordentlichen Kaufvertrag.
+`§ 1091 ABGB.`  
+Der Bestandvertrag wird, wenn sich die in Bestand gegebene Sache ohne weitere Bearbeitung gebrauchen läßt, ein Miethvertrag; wenn sie aber nur durch Fleiß und Mühe benützt werden kann, ein Pachtvertrag genannt. Werden durch einen Vertrag Sachen von der ersten und zweyten Art zugleich in Bestand gegeben; so ist der Vertrag nach der Beschaffenheit der Hauptsache zu beurtheilen.
 
-### § 1276 ABGB
+### § 1092 ABGB # Erfordernisse.
 
-`§ 1276 ABGB.`  
-Wer die künftigen Nutzungen einer Sache in Pausch und Bogen; oder wer die Hoffnung derselben in einem bestimmten Preise kauft, errichtet einen Glücksvertrag; er trägt die Gefahr der ganz vereitelten Erwartung; es gebühren ihm aber auch alle ordentliche erzielte Nutzungen.
+`§ 1092 ABGB.`  
+Mieth- und Pachtverträge können über die nähmlichen Gegenstände und auf die nähmliche Art, als der Kaufvertrag geschlossen werden. Der Mieth- und Pachtzins wird, wenn keine andere Uebereinkunft getroffen worden ist, wie das Kaufgeld entrichtet.
 
-### § 1277 ABGB # insbesondere eines Kuxes;
+### § 1093 ABGB
 
-`§ 1277 ABGB.`  
-Der Antheil an einem Bergwerke heißt Kux. Der Kauf eines Kuxes gehört zu den gewagten Verträgen. Der Verkäufer haftet nur für die Richtigkeit des Kuxes, und der Käufer hat sich nach den Gesetzen über den Bergbau zu benehmen.
+`§ 1093 ABGB.`  
+Der Eigenthümer kann sowohl seine beweglichen und unbeweglichen Sachen, als seine Rechte in Bestand geben; er kann aber auch in den Fall kommen, den Gebrauch seiner eigenen Sache, wenn er einem Dritten gebührt, in Bestand zu nehmen.
 
-### § 1278 ABGB # Erbschaftskauf
+### § 1094 ABGB # Wirkung.
 
-`§ 1278 (1) ABGB.`  
-Der Käufer einer vom Verkäufer angetretenen oder ihm wenigstens angefallenen Erbschaft tritt nicht allein in die Rechte, sondern auch in die Verbindlichkeiten des Verkäufers als Erben ein, soweit diese nicht höchstpersönlich sind. Wenn dem Kauf kein Inventar zugrunde gelegt wird, ist auch der Erbschaftskauf ein Glücksvertrag.
+`§ 1094 ABGB.`  
+Sind die vertragschließenden Theile über das Wesentliche des Bestandes, nähmlich über die Sache und den Preis, übereingekommen; so ist der Vertrag vollkommen abgeschlossen, und der Gebrauch der Sache für gekauft anzusehen.
 
-`§ 1278 (2) ABGB.`  
-Der Erbschaftskauf bedarf zu seiner Gültigkeit eines Notariatsakts oder der Beurkundung durch gerichtliches Protokoll.
+### § 1095 ABGB
 
-### § 1279 ABGB
+`§ 1095 ABGB.`  
+Wenn ein Bestandvertrag in die öffentlichen Bücher eingetragen ist; so ist das Recht des Bestandnehmers als ein dingliches Recht zu betrachten, welches sich auch der nachfolgende Besitzer auf die noch übrige Zeit gefallen lassen muß.
 
-`§ 1279 ABGB.`  
-Auf Sachen, die dem Verkäufer nicht als Erben, sondern aus einem anderen Grund, etwa als Vorausvermächtnis, als Ersatz- oder Nacherbschaft oder als Schuldforderung aus der Verlassenschaft gebühren und ihm auch ohne Erbrecht gebührt hätten, hat der Erbschaftskäufer keinen Anspruch. Dagegen erhält er alles, was der Erbschaft selbst zuwächst, insbesondere durch den Ausfall eines Vermächtnisnehmers, eines Miterben oder auf was immer für eine andere Art, soweit der Verkäufer darauf Anspruch gehabt hätte.
+## Wechselseitige Rechte:
 
-### § 1280 ABGB
+### § 1096 ABGB # 1) In Hinsicht auf Ueberlassung; Erhaltung; Benützung.
 
-`§ 1280 ABGB.`  
-Alles, was der Erbe aus dem Erbrecht erhält, wie etwa die bezogenen Früchte und Forderungen, zählt zur Verlassenschaft. Alle Aufwendungen, die er selbst für den Antritt der Erbschaft oder für die Verlassenschaft gemacht hat, werden hingegen von der Verlassenschaft abgezogen. Dazu gehören die bezahlten Schulden, die schon abgeführten Vermächtnisse, Steuern, Abgaben und Gerichtsgebühren und, wenn nicht ausdrücklich etwas anderes vereinbart wurde, auch die Begräbniskosten.
+`§ 1096 (1) ABGB.`  
+Vermieter und Verpächter sind verpflichtet, das Bestandstück auf eigene Kosten in brauchbarem Stande zu übergeben und zu erhalten und die Bestandinhaber in dem bedungenen Gebrauche oder Genusse nicht zu stören. Ist das Bestandstück bei der Übergabe derart mangelhaft oder wird es während der Bestandzeit ohne Schuld des Bestandnehmers derart mangelhaft, daß es zu dem bedungenen Gebrauche nicht taugt, so ist der Bestandnehmer für die Dauer und in dem Maße der Unbrauchbarkeit von der Entrichtung des Zinses befreit. Auf diese Befreiung kann bei der Miete unbeweglicher Sachen im voraus nicht verzichtet werden.
 
-### § 1281 ABGB
+`§ 1096 (2) ABGB.`  
+Der Pächter hat die gewöhnlichen Ausbesserungen der Wirtschaftsgebäude nur insoweit selbst zu tragen, als sie mit den Materialien des Gutes und den Diensten, die er nach der Beschaffenheit des Gutes zu fordern berechtigt ist, bestritten werden können.
 
-`§ 1281 ABGB.`  
-Sofern der Verkäufer die Verlassenschaft vor der Übergabe verwaltet hat, haftet er dem Käufer dafür wie ein anderer Verwalter.
+### § 1097 ABGB
 
-### § 1282 ABGB
+`§ 1097 ABGB.`  
+Werden Ausbesserungen nötig, welche dem Bestandgeber obliegen, so ist der Bestandnehmer bei sonstigem Schadenersatz verpflichtet, dem Bestandgeber ohne Verzug Anzeige zu machen. Der Bestandnehmer wird als ein Geschäftsführer ohne Auftrag betrachtet, wenn er auf das Bestandstück einen dem Bestandgeber obliegenden Aufwand (§ 1036) oder einen nützlichen Aufwand (§ 1037) gemacht hat; er muß aber den Ersatz längstens binnen sechs Monaten nach Zurückstellung des Bestandstückes gerichtlich fordern, sonst ist die Klage erloschen.
 
-`§ 1282 ABGB.`  
-Die Erbschaftsgläubiger und Vermächtnisnehmer können sich mit ihren Ansprüchen sowohl an den Käufer der Erbschaft als auch an den Erben selbst halten. Ihre Rechte werden so wie jene der Erbschaftsschuldner durch den Verkauf der Erbschaft nicht geändert. Die Erbantrittserklärung des Verkäufers gilt auch für den Käufer.
+### § 1098 ABGB
 
-### § 1283 ABGB
+`§ 1098 ABGB.`  
+Mieter und Pächter sind berechtiget, die Miet- und Pachtstücke dem Vertrage gemäß durch die bestimmte Zeit zu gebrauchen und zu benützen, oder auch in Afterbestand zu geben, wenn es ohne Nachteil des Eigentümers geschehen kann und im Vertrage nicht ausdrücklich untersagt worden ist.
 
-`§ 1283 ABGB.`  
-Wurde dem Verkauf der Erbschaft ein Inventar zugrunde gelegt, so haftet der Verkäufer für dasselbe. Andernfalls haftet er für die Richtigkeit seines Erbrechts, wie er es angegeben hat, und für jeden dem Käufer durch sein Verschulden zugefügten Schaden.
+### § 1099 ABGB # 2) Lasten;
 
-### § 1284 ABGB # 5) Leibrente;
+`§ 1099 ABGB.`  
+Bey Vermiethungen trägt alle Lasten und Abgaben der Vermiether. Bey eigentlichen Pachtungen, wenn sie in Pausch und Bogen geschehen, übernimmt der Pächter mit Ausschluß der eingetragenen Hypothecar-Lasten, alle übrige; wird aber die Pachtung nach einem Anschlage geschlossen, so trägt er jene Lasten, welche von dem Ertrage abgezogen worden sind, oder bloß von den Früchten, und nicht von dem Grunde selbst entrichtet werden müssen.
 
-`§ 1284 ABGB.`  
-Wird jemanden für Geld, oder gegen eine für Geld geschätzte Sache auf die Lebensdauer einer gewissen Person eine bestimmte jährliche Entrichtung versprochen; so ist es ein Leibrentenvertrag.
+### § 1100 ABGB # 3) Zins.
 
-### § 1285 ABGB
+`§ 1100 ABGB.`  
+Ist nichts anderes vereinbart oder ortsüblich, so ist der Zins, wenn eine Sache auf ein oder mehrere Jahre in Bestand genommen wird, halbjährlich, bei einer kürzeren Bestandzeit hingegen nach Verlauf derselben zu entrichten. Bei der Raummiete ist der Zins monatlich, und zwar jeweils am Fünften des Monats, zu entrichten.
 
-`§ 1285 ABGB.`  
-Die Dauer der Leibrente kann von dem Leben des einen oder andern Theiles, oder auch eines Dritten abhängen. Sie wird im Zweifel vierteljährig vorhinein entrichtet; und nimmt in allen Fällen mit dem Leben desjenigen, auf dessen Kopf sie beruht, ihr Ende.
+### § 1101 ABGB
 
-### § 1286 ABGB
+`§ 1101 (1) ABGB.`  
+Zur Sicherstellung des Bestandzinses hat der Vermieter einer unbeweglichen Sache das Pfandrecht an den eingebrachten, dem Mieter oder seinen mit ihm in gemeinschaftlichem Haushalte lebenden Familienmitgliedern gehörigen Einrichtungsstücken und Fahrnissen, soweit sie nicht der Pfändung entzogen sind. Das Pfandrecht erlischt, wenn die Gegenstände vor ihrer pfandweisen Beschreibung entfernt werden, es sei denn, daß dies infolge einer gerichtlichen Verfügung geschieht und der Vermieter binnen drei Tagen nach dem Vollzuge sein Recht bei Gericht anmeldet.
 
-`§ 1286 ABGB.`  
-Weder die Gläubiger, noch die Kinder desjenigen, welcher sich eine Leibrente bedingt, sind berechtiget, den Vertrag umzustoßen. Doch steht den Erstern frey, ihre Befriedigung aus den Leibrenten zu suchen; den Letztern aber, die Hinterlegung eines entbehrlichen Theiles der Rente zu fordern, um sich den ihnen nach dem Gesetze gebührenden Unterhalt darauf versichern zu lassen.
+`§ 1101 (2) ABGB.`  
+Zieht der Mieter aus oder werden Sachen verschleppt, ohne daß der Zins entrichtet oder sichergestellt ist, so kann der Vermieter die Sachen auf eigene Gefahr zurückbehalten, doch muß er binnen drei Tagen um die pfandweise Beschreibung ansuchen oder die Sachen herausgeben.
 
-### § 1287 ABGB # 6) gesellschaftliche Versorgungsanstalten;
+`§ 1101 (3) ABGB.`  
+Dem Verpächter eines Grundstückes steht in gleichem Umfange und mit gleicher Wirkung das Pfandrecht an dem auf dem Pachtgute vorhandenen Vieh und den Wirtschaftsgerätschaften und den darauf noch befindlichen Früchten zu.
 
-`§ 1287 ABGB.`  
-Der Vertrag, wodurch vermittelst einer Einlage ein gemeinschaftlicher Versorgungsfond für die Mitglieder, ihre Gattinnen oder Waisen errichtet wird, ist aus der Natur und dem Zwecke einer solchen Anstalt, und den darüber festgesetzten Bedingungen, zu beurtheilen.
+### § 1102 ABGB
 
-### § 1288 ABGB # 7) Versicherungsvertrag;
+`§ 1102 ABGB.`  
+Der Bestandgeber kann sich zwar die Vorausbezahlung des Bestandzinses bedingen. Hat aber der Bestandnehmer mehr als eine Fristzahlung voraus geleistet, so kann er dieselbe einem später eingetragenen Gläubiger oder neuen Eigentümer nur dann entgegensetzen, wenn sie in dem öffentlichen Buch ersichtlich gemacht ist.
 
-`§ 1288 ABGB.`  
-Wenn jemand die Gefahr des Schadens, welcher einen Andern ohne dessen Verschulden treffen könnte, auf sich nimmt, und ihm gegen einen gewissen Preis den bedungenen Ersatz zu leisten verspricht; so entsteht der Versicherungsvertrag. Der Versicherer haftet dabey für den zufälligen Schaden, und der Versicherte für den versprochenen Preis.
+### § 1103 ABGB # Zins in Früchten.
 
-### § 1289 ABGB
+`§ 1103 ABGB.`  
+Wenn der Eigenthümer sein Gut mit der Bedingung überläßt, daß der Uebernehmer die Wirthschaft betreiben, und dem Uebergeber einen auf die ganze Nutzung sich beziehenden Theil, z. B. ein Drittheil oder die Hälfte der Früchte geben solle; so entsteht kein Pacht-, sondern ein Gesellschaftsvertrag, welcher nach den darüber aufgestellten Regeln beurtheilet wird.
 
-`§ 1289 ABGB.`  
-Der gewöhnliche Gegenstand dieses Vertrages sind Waaren, die zu Wasser oder zu Lande verführt werden. Es können aber auch andere Sachen, z. B. Häuser und Grundstücke gegen Feuer- Wasser- und andere Gefahren versichert werden.
+### § 1104 ABGB # Fälle und Bedingungen einer Erlassung des Zinses.
 
-### § 1290 ABGB
+`§ 1104 ABGB.`  
+Wenn die in Bestand genommene Sache wegen außerordentlicher Zufälle, als Feuer, Krieg oder Seuche, großer Überschwemmungen, Wetterschläge, oder wegen gänzlichen Mißwachses gar nicht gebraucht oder benutzt werden kann, so ist der Bestandgeber zur Wiederherstellung nicht verpflichtet, doch ist auch kein Miet- oder Pachtzins zu entrichten.
 
-`§ 1290 ABGB.`  
-Ereignet sich der zufällige Schade, wofür die Entschädigung versichert worden ist; so muß der Versicherte, wenn kein unüberwindliches Hinderniß dazwischen kommt, oder nichts anderes verabredet worden ist, dem Versicherer, wenn sie sich im nähmlichen Orte befinden, binnen drey Tagen, sonst aber in derjenigen Zeitfrist davon Nachricht geben, welche zur Bekanntmachung der Annahme eines von einem Abwesenden gemachten Versprechens bestimmt worden ist (§. 862). Unterläßt er die Anzeige; kann er den Unfall nicht erweisen; oder kann der Versicherer beweisen, daß der Schade aus Verschulden des Versicherten entstanden ist; so hat dieser auch keinen Anspruch auf die versicherte Summe.
+### § 1105 ABGB
 
-### § 1291 ABGB
+`§ 1105 ABGB.`  
+Behält der Mieter trotz eines solchen Zufalls einen beschränkten Gebrauch des Mietstückes, so wird ihm auch ein verhältnismäßiger Teil des Mietzinses erlassen. Dem Pächter gebührt ein Erlaß an dem Pachtzinse, wenn durch außerordentliche Zufälle die Nutzungen des nur auf ein Jahr gepachteten Gutes um mehr als die Hälfte des gewöhnlichen Ertrages gefallen sind. Der Verpächter ist so viel zu erlassen schuldig, als durch diesen Abfall an dem Pachtzinse mangelt.
 
-`§ 1291 ABGB.`  
-Wenn der Untergang der Sache dem Versicherten; oder der gefahrlose Zustand derselben dem Versicherer zur Zeit des geschlossenen Vertrages schon bekannt war; so ist der Vertrag ungültig.
+### § 1106 ABGB
 
-### § 1292 ABGB # 8) Bodmerey- und See-Assecuranzen.
+`§ 1106 ABGB.`  
+Hat der Bestandnehmer unbestimmt alle Gefahren auf sich genommen; so werden darunter nur die Feuer-, und Wasserschäden und Wetterschläge verstanden. Andere außerordentliche Unglücksfälle kommen nicht auf seine Gefahr. Verbindet er sich aber ausdrücklich, auch alle andere außerordentliche Unglücksfälle zu tragen; so wird deßwegen noch nicht vermuthet, daß er auch für den zufälligen Untergang des ganzen Pachtstückes haften wolle.
 
-`§ 1292 ABGB.`  
-Die Bestimmungen in Rücksicht der Versicherungen zur See; so wie die Vorschriften über den Bodmerey-Vertrag sind ein Gegenstand der Seegesetze.
+### § 1107 ABGB
+
+`§ 1107 ABGB.`  
+Wird der Gebrauch oder Genuß des Bestandstückes nicht wegen dessen Beschädigung oder sonst entstandener Unbrauchbarkeit, sondern aus einem dem Bestandnehmer zugestoßenen Hindernisse oder Unglücksfalle vereitelt, oder waren zur Zeit der Beschädigung die Früchte von dem Grunde schon abgesondert, so fällt die widrige Ereignung dem Bestandnehmer allein zur Last. Er muß den Zins doch entrichten. Der Bestandgeber muß sich aber den ersparten Aufwand und die Vorteile, die er durch anderweitige Verwertung des Bestandstückes erlangt, anrechnen.
+
+### § 1108 ABGB
+
+`§ 1108 ABGB.`  
+Behauptet der Pächter den Erlaß des ganzen Pachtzinses oder eines Theiles davon entweder aus dem Vertrage oder aus dem Gesetze; so muß er dem Verpächter ohne Zeitverlust den geschehenen Unglücksfall anzeigen, und die Begebenheit, wenn sie nicht landkündig ist, gerichtlich, oder wenigstens durch zwey sachkündige Männer erheben lassen; ohne diese Vorsicht wird er nicht angehört.
+
+### § 1109 ABGB # 4) Zurückstellung;
+
+`§ 1109 ABGB.`  
+Nach geendigtem Bestandvertrage muß der Bestandnehmer die Sache dem etwa errichteten Inventarium gemäß oder doch in dem Zustand, in welchem er sie übernommen hat, gepachtete Grundstücke aber mit Rücksicht auf die Jahreszeit, in welcher der Pacht geendigt worden ist, in gewöhnlicher wirtschaftlicher Kultur zurückstellen. Weder ein Zurückbehaltungsrecht oder die Einwendung der Kompensation noch selbst des früheren Eigentumsrechtes kann ihn vor der Zurückstellung schützen.
+
+### § 1110 ABGB
+
+`§ 1110 ABGB.`  
+Wenn bey dem Bestandvertrage kein Inventarium errichtet worden ist; so tritt die nähmliche Vermuthung, wie bey der Fruchtnießung (§. 518) ein.
+
+### § 1111 ABGB
+
+`§ 1111 ABGB.`  
+Wird das Mieth- oder Pachtstück beschädiget, oder durch Mißbrauch abgenützt; so haften Miether und Pächter sowohl für ihr eigenes, als des Afterbestandnehmers Verschulden, nicht aber für den Zufall. Doch muß der Bestandgeber den Ersatz aus dieser Haftung längstens binnen Einem Jahre nach Zurückstellung des Bestandstückes gerichtlich fordern; sonst ist das Recht erloschen.
 
 `END-OF-DATA-FILE`

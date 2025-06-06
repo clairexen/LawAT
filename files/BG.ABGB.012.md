@@ -6,364 +6,350 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## IV. Vereinbarungen von Todes wegen
+## Gesetzliche Bestimmung:
 
-### § 602 ABGB # Erbverträge
+### § 499 ABGB # a) über die Gattung des Triebviehes;
 
-`§ 602 ABGB.`  
-Erbverträge können nur zwischen Ehegatten, eingetragenen Partnern sowie Personen, die sich verlobt oder die eingetragene Partnerschaft versprochen haben, gültig geschlossen werden. Die Vorschriften hierüber sind im Achtundzwanzigsten Hauptstück enthalten.
+`§ 499 ABGB.`  
+Das Weiderecht erstrecket sich, in so weit die politischen, und im Forstwesen gegebenen Verordnungen nicht entgegenstehen, auf jede Gattung von Zug-, Rind- und Schafvieh, aber nicht auf Schweine und Federvieh; eben so wenig in waldigen Gegenden auf Ziegen. Unreines, ungesundes und fremdes Vieh ist stets von der Weide ausgeschlossen.
 
-### § 603 ABGB # Schenkung auf den Todesfall
+### § 500 ABGB # b) dessen Anzahl;
 
-`§ 603 ABGB.`  
-Eine Schenkung auf den Todesfall ist auch nach dem Tod des Geschenkgebers als Vertrag anzusehen, wenn er sich kein Widerrufsrecht vertraglich vorbehalten hat und der Vertrag als Notariatsakt aufgenommen wurde. Die Bestimmungen des Achtzehnten Hauptstücks von Schenkungen und § 1253 sind anzuwenden.
+`§ 500 ABGB.`  
+Hat die Anzahl des Triebviehes während der letzten dreyßig Jahre abgewechselt; so muß aus dem Triebe der drey ersten Jahre die Mittelzahl angenommen werden. Erhellet auch diese nicht; so ist theils auf den Umfang, theils auf die Beschaffenheit der Weide billige Rücksicht zu nehmen, und dem Berechtigten wenigstens nicht gestattet, daß er mehr Vieh auf der fremden Weide halte, als er mit dem auf dem herrschenden Grunde erzeugten Futter durchwintern kann. Säugevieh wird nicht zur bestimmten Anzahl gerechnet.
 
-## Zehntes Hauptstück # Von der Ersatz- und Nacherbschaft
+### § 501 ABGB # c) Triftzeit;
 
-### § 604 ABGB # Ersatzerbschaft
+`§ 501 ABGB.`  
+Die Triftzeit wird zwar überhaupt durch den in jeder Feldmarke eingeführten unangefochtenen Gebrauch bestimmt: allein in keinem Falle darf der vermöge politischer Bestimmungen geordnete Wirthschaftsbetrieb durch die Behüthung verhindert, oder erschweret werden.
 
-`§ 604 (1) ABGB.`  
-Für den Fall, dass der eingesetzte oder gesetzliche Erbe die Erbschaft nicht erlangt, können ein Ersatzerbe, und wenn auch dieser sie nicht erlangt, ein zweiter oder auch noch weitere Ersatzerben berufen werden.
+### § 502 ABGB # d) Maß des Genusses.
 
-`§ 604 (2) ABGB.`  
-Ersatzerben gehen Anwachsungsberechtigten (§ 560) jedenfalls vor.
+`§ 502 ABGB.`  
+Der Genuß des Weiderechtes erstreckt sich auf keine andere Benutzung. Der Berechtigte darf weder Gras mähen, noch in der Regel den Eigenthümer des Grundstückes von der Mitweide ausschließen, am wenigsten aber die Substanz der Weide verletzen. Wenn ein Schade zu befürchten ist, muß er sein Vieh von einem Hirten hüthen lassen.
 
-### § 605 ABGB # Vermutete Ersatzerbschaft
+### § 503 ABGB # Anwendung dieser Bestimmungen auf andere Servituten.
 
-`§ 605 ABGB.`  
-Es wird vermutet, dass der Verstorbene die Nachkommen eingesetzter Kinder zu Ersatzerben einsetzen wollte.
+`§ 503 ABGB.`  
+Was bisher in Rücksicht auf das Weiderecht vorgeschrieben worden, ist verhältnißmäßig auch auf die Rechte des Thierfanges, des Holzschlages, des Steinbrechens und die übrigen Servituten anzuwenden. Glaubt jemand diese Rechte auf das Miteigenthum gründen zu können; so sind die darüber entstehenden Streitigkeiten nach den, in dem Hauptstücke von der Gemeinschaft des Eigenthumes, enthaltenen Grundsätzen zu entscheiden.
 
-### § 606 ABGB # Rechte und Pflichten des Ersatzerben
+## Persönliche Dienstbarkeiten; insbesondere:
 
-`§ 606 ABGB.`  
-Die Rechte und Pflichten des Erben kommen auch dem an seine Stelle tretenden Ersatzerben zu, sofern sie nicht nach dem ausdrücklichen Willen des Verstorbenen oder nach den Umständen des Falles allein die Person des Erben betreffen. Für einschränkende Bedingungen gilt § 702.
+### § 504 ABGB # 1) das Recht des Gebrauches;
 
-### § 607 ABGB # Gegenseitige Ersatzerbschaft
+`§ 504 ABGB.`  
+Die Ausübung persönlicher Servituten wird, wenn nichts anderes verabredet worden ist, nach folgenden Grundsätzen bestimmt: Die Servitut des Gebrauches besteht darin, daß jemand befugt ist, eine fremde Sache, ohne Verletzung der Substanz, bloß zu seinem Bedürfnisse zu benützen.
 
-`§ 607 ABGB.`  
-Sind allein Miterben gegenseitig zu Ersatzerben berufen, so wird vermutet, dass der Verstorbene die in der Einsetzung bestimmten Teile auch auf die Ersatzerbschaft ausdehnen wollte. Ist aber in der Ersatzerbschaft außer den Miterben auch eine andere Person zum Ersatzerben berufen, so fällt der frei gewordene Erbteil allen zu gleichen Teilen zu.
+### § 505 ABGB # Bestimmung in Rücksicht der Nutzungen;
 
-### § 608 ABGB # Nacherbschaft
+`§ 505 ABGB.`  
+Wer also das Gebrauchsrecht einer Sache hat, der darf, ohne Rücksicht auf sein übriges Vermögen, den seinem Stande, seinem Gewerbe, und seinem Hauswesen angemessenen Nutzen davon ziehen.
 
-`§ 608 (1) ABGB.`  
-Der letztwillig Verfügende kann einen Erben so einsetzen, dass dieser erst nach einem anderen Erben erbt. Der Nacherbe ist im Zweifel auch Ersatzerbe.
+### § 506 ABGB
 
-`§ 608 (2) ABGB.`  
-Hat der Verstorbene nichts anderes verfügt, so tritt der Nacherbfall mit dem Tod des Vorerben ein.
+`§ 506 ABGB.`  
+Das Bedürfniß ist nach dem Zeitpuncte der Bewilligung des Gebrauches zu bestimmen. Nachfolgende Veränderungen in dem Stande oder Gewerbe des Berechtigten geben keinen Anspruch auf einen ausgedehnteren Gebrauch.
 
-### § 609 ABGB # Nacherbschaft auf den Überrest
+### § 507 ABGB # der Substanz;
 
-`§ 609 ABGB.`  
-Eine Nacherbschaft auf den Überrest liegt vor, wenn der Nacherbe nach dem Willen des Verstorbenen nur das erhalten soll, was beim Ableben des Vorerben noch übrig ist.
+`§ 507 ABGB.`  
+Der Berechtigte darf die Substanz der ihm zum Gebrauche bewilligten Sache nicht verändern; er darf auch das Recht an keinen andern übertragen.
 
-### § 610 ABGB # Umdeutung von Testieranordnungen
+### § 508 ABGB # und der Lasten;
 
-`§ 610 (1) ABGB.`  
-Hat der letztwillig Verfügende dem Erben verboten oder zugunsten einer bestimmten Person geboten, über die Verlassenschaft zu testieren, so ist dies im Zweifel in eine Nacherbschaft auf den Überrest umzudeuten, und zwar im Fall des Verbots zugunsten der gesetzlichen Erben, im Fall des Gebots zugunsten der bestimmten Person.
+`§ 508 ABGB.`  
+Alle Benützungen, die sich ohne Störung des Gebrauchsberechtigten aus der Sache schöpfen lassen, kommen dem Eigenthümer zu Statten. Dieser ist aber verbunden, alle ordentliche und außerordentliche, auf der Sache haftende Lasten zu tragen, und sie auf seine Kosten in gutem Stande zu erhalten. Nur wenn die Kosten denjenigen Nutzen übersteigen, der dem Eigenthümer übrig bleibt, muß der Berechtigte den Ueberschuß tragen, oder vom Gebrauche abstehen.
 
-`§ 610 (2) ABGB.`  
-Das Verbot, eine Sache zu veräußern, schließt im Zweifel das Recht, darüber letztwillig zu verfügen, nicht aus.
+### § 509 ABGB # 2) der Fruchtnießung.
 
-### § 611 ABGB # Nacherbschaft bei Zeitgenossen
+`§ 509 ABGB.`  
+Die Fruchtnießung ist das Recht, eine fremde Sache, mit Schonung der Substanz, ohne alle Einschränkung zu genießen.
 
-`§ 611 ABGB.`  
-Wenn die Nacherben Zeitgenossen des letztwillig Verfügenden sind, kann er sie ohne zahlenmäßige Beschränkung als Nacherben einsetzen. Zeitgenossen sind natürliche Personen, die zum Zeitpunkt der Errichtung der Nacherbschaft bereits gezeugt (§ 22) oder geboren sind.
+### § 510 ABGB # In wie fern sie sich auf verbrauchbare Sachen erstrecken könne.
 
-### § 612 ABGB # Einschränkung der Nacherbschaft
+`§ 510 ABGB.`  
+Verbrauchbare Sachen sind an sich selbst kein Gegenstand des Gebrauches oder der Fruchtnießung, sondern nur ihr Werth. Mit dem baren Gelde kann der Berechtigte nach Belieben verfügen; Wird aber ein bereits anliegendes Capital zum Fruchtgenusse oder Gebrauche bewilliget; so kann der Berechtigte nur die Zinsen fordern.
 
-`§ 612 ABGB.`  
-Sind die Nacherben im Zeitpunkt der Errichtung der letztwilligen Verfügung noch keine Zeitgenossen des Verfügenden, so ist die Nacherbschaft bei Geld und anderen beweglichen Sachen auf zwei Nacherbfälle, bei unbeweglichen Sachen auf einen Nacherbfall beschränkt.
+### § 511 ABGB # Rechte und Verbindlichkeiten des Fruchtnießers.
 
-### § 613 ABGB # Rechte des Vorerben
+`§ 511 ABGB.`  
+Der Fruchtnießer hat ein Recht auf den vollen, sowohl gewöhnlichen als ungewöhnlichen, Ertrag; ihm gehört daher auch die mit Beobachtung der bestehenden Bergwerksordnung erhaltene reine Ausbeute von Bergwerksantheilen, und das forstmäßig geschlagene Holz. Auf einen Schatz, welcher in dem zur Fruchtnießung bestimmten Grunde gefunden wird, hat er keinen Anspruch.
 
-`§ 613 (1) ABGB.`  
-Bis zum Eintritt der Nacherbschaft kommt dem eingesetzten Vorerben das eingeschränkte Eigentumsrecht mit den Rechten und Verbindlichkeiten eines Fruchtnießers zu.
+## Insbesondere:
 
-`§ 613 (2) ABGB.`  
-Verfügungen über Sachen der von der Nacherbschaft erfassten Verlassenschaft sind mit der Zustimmung des Nacherben zulässig, sonst nur zur Erfüllung von Verbindlichkeiten der Verlassenschaft, zur Vermeidung von Schäden an derselben oder soweit sie im Rahmen der ordentlichen Verwaltung erfolgen.
+### § 512 ABGB # a) in Rücksicht der auf der Sache haftenden Lasten;
 
-`§ 613 (3) ABGB.`  
-Erlangt der Vorerbe durch die Verfügung über eine Sache der von der Nacherbschaft erfassten Verlassenschaft Geld oder eine andere Sache, so wird diese Ersatzsache im Zweifel Teil der Verlassenschaft.
+`§ 512 ABGB.`  
+Als ein reiner Ertrag kann aber nur das angesehen werden, was nach Abzug aller nöthigen Auslagen übrig bleibt. Der Fruchtnießer übernimmt also alle Lasten, welche zur Zeit der bewilligten Fruchtnießung mit der dienstbaren Sache verbunden waren, mithin auch die Zinsen der darauf eingetragenen Capitalien. Auf ihn fallen alle ordentliche und außerordentliche, von der Sache zu leistende Schuldigkeiten, in so fern sie aus den während der Dauer der Fruchtnießung gezogenen Nutzungen bestritten werden können; er trägt auch die Kosten, ohne welche die Früchte nicht erzielet werden.
 
-`§ 613 (4) ABGB.`  
-Ist jedoch die angeordnete Nacherbschaft eine solche auf den Überrest, so kann der Vorerbe wie jeder Eigentümer über Sachen der Verlassenschaft unter Lebenden verfügen.
+### § 513 ABGB # b) der Erhaltung der Sache;
 
-### § 614 ABGB # Auslegung einer Ersatz- oder Nacherbschaft
+`§ 513 ABGB.`  
+Der Fruchtnießer ist verbunden, die dienstbare Sache als ein guter Haushälter in dem Stande, in welchem er sie übernommen hat, zu erhalten, und aus dem Ertrage die Ausbesserungen, Ergänzungen und Herstellungen zu besorgen. Wird dessen ungeachtet der Werth der dienstbaren Sache bloß durch den rechtmäßigen Genuß ohne Verschulden des Fruchtnießers verringert; so ist er dafür nicht verantwortlich.
 
-`§ 614 ABGB.`  
-Ist eine Ersatz- oder Nacherbschaft undeutlich ausgedrückt, so ist sie auf eine solche Art auszulegen, dass die Freiheit des Erben, über das Eigentum zu verfügen, am wenigsten eingeschränkt wird. Dies gilt auch für die Frage, ob überhaupt eine Ersatz- oder Nacherbschaft angeordnet wurde.
+### § 514 ABGB # c) der Bauführungen;
 
-### § 615 ABGB # Erlöschen der Ersatz- und Nacherbschaft
+`§ 514 ABGB.`  
+Wenn der Eigenthümer Bauführungen, die durch das Alter des Gebäudes, oder durch einen Zufall nothwenig gemacht werden, auf Anzeige des Fruchtnießers auf seine Kosten besorgt; ist ihm der Fruchtnießer, nach Maß der dadurch verbesserten Fruchtnießung, die Zinsen des verwendeten Capitals zu vergüten schuldig.
 
-`§ 615 (1) ABGB.`  
-Eine Ersatzerbschaft erlischt im Zweifel, sobald der eingesetzte Erbe die Erbschaft angetreten hat. Eine Nacherbschaft erlischt, wenn kein berufener Nacherbe mehr vorhanden ist oder wenn sie unter einer aufschiebenden Bedingung errichtet wurde, die endgültig nicht eintreten kann.
+### § 515 ABGB
 
-`§ 615 (2) ABGB.`  
-Das Recht eines Nacherben geht im Zweifel auch dann auf seine Erben über (§ 537 Abs. 1), wenn er den Eintritt des Nacherbfalls nicht erlebt.
+`§ 515 ABGB.`  
+Kann oder will der Eigenthümer dazu sich nicht verstehen; so ist der Fruchtnießer berechtigt, entweder den Bau zu führen, und nach geendigter Fruchtnießung, gleich einem redlichen Besitzer, den Ersatz zu fordern; oder, für die durch Unterbleibung des Baues vermißte Fruchtnießung, eine angemessene Vergütung zu verlangen.
 
-### § 616 ABGB
+### § 516 ABGB
 
-`§ 616 (1) ABGB.`  
-Ist für eine vermeintlich testierunfähige Person ein Nacherbe bestimmt, so ist die Nacherbschaft im Zweifel ungültig, wenn diese Person im Zeitpunkt der Errichtung der letztwilligen Verfügung testierfähig war.
+`§ 516 ABGB.`  
+Bauführungen, welche nicht nothwendig, obgleich sonst zur Vermehrung des Ertrages gedeihlich sind, ist der Fruchtnießer nicht verbunden, ohne vollständige Entschädigung, zu gestatten.
 
-`§ 616 (2) ABGB.`  
-Ist für eine tatsächlich testierunfähige Person ein Nacherbe bestimmt, so erlischt die Nacherbschaft im Zweifel, wenn diese Person die Testierfähigkeit später erlangt. Die Nacherbschaft lebt nicht wieder auf, wenn sie später wieder testierunfähig wird.
+### § 517 ABGB # d) der Meliorations-Kosten.
 
-### § 617 ABGB
+`§ 517 ABGB.`  
+Was der Fruchtnießer ohne Einwilligung des Eigenthümers zur Vermehrung fortdauernder Nutzungen verwendet hat, kann er zurücknehmen; eine Vergütung der aus der Verbesserung noch bestehenden Nutzungen aber kann er nur fordern, in so fern sie ein Geschäftsführer ohne Auftrag zu fordern berechtigt ist.
 
-`§ 617 ABGB.`  
-Die von einem letztwillig Verfügenden seinem Kind in einem Zeitpunkt angeordnete Ersatz- oder Nacherbschaft, in dem dieses noch keine Kinder hatte, erlischt im Zweifel, wenn es später doch erbfähige Kinder hinterlassen hat.
+### § 518 ABGB # Beweismittel darüber.
 
-## Elftes Hauptstück # Vermächtnisse # I. Grundsätze
+`§ 518 ABGB.`  
+Zur Erleichterung des Beweises der gegenseitigen Forderungen, sollen der Eigenthümer und der Fruchtnießer eine beglaubte Beschreibung aller dienstbaren Sachen aufnehmen lassen. Ist sie unterlassen worden; so wird vermuthet, daß der Fruchtnießer die Sache sammt allen zur ordentlichen Benützung derselben erforderlichen Stücken in brauchbarem Zustande von mittlerer Beschaffenheit erhalten habe.
 
-### § 647 ABGB # Berufung zum Vermächtnisnehmer
+### § 519 ABGB # Zutheilung der Nutzungen bey Erlöschung der Fruchtnießung.
 
-`§ 647 (1) ABGB.`  
-Ein Vermächtnis (§ 535) gründet sich auf einen Erb- oder Vermächtnisvertrag, auf den gültig erklärten Willen des Verstorbenen oder auf das Gesetz.
+`§ 519 ABGB.`  
+Nach geendigter Fruchtnießung gehören die noch stehenden Früchte dem Eigenthümer; doch muß er die auf deren Erzielung verwendeten Kosten dem Fruchtnießer oder dessen Erben, gleich einem redlichen Besitzer, ersetzen. Auf andere Nutzungen haben der Fruchtnießer oder dessen Erben den Anspruch nach Maß der Dauer der Fruchtnießung.
 
-`§ 647 (2) ABGB.`  
-Die Bestimmungen über die Vererblichkeit des Erbrechts (§ 537) und die Erbfähigkeit (§§ 538 bis 543) sowie über die Ausschlagung der Erbschaft (§§ 803 ff.) sind entsprechend anzuwenden.
+### § 520 ABGB # In wie fern der Gebrauchsberechtigte oder der Fruchtnießer zur Sicherstellung verbunden sey.
 
-### § 648 ABGB # Erbe und Vermächtnisnehmer
+`§ 520 ABGB.`  
+In der Regel kann der Eigenthümer von dem Gebrauchsberechtigten oder Fruchtnießer nur bey einer sich äußernden Gefahr die Sicherstellung der Substanz verlangen. Wird sie nicht geleistet; so soll die Sache entweder dem Eigenthümer gegen eine billige Abfindung überlassen, oder nach Umständen in gerichtliche Verwaltung gegeben werden.
 
-`§ 648 (1) ABGB.`  
-Einem Erben kann auch ein Vermächtnis zugedacht werden. Insoweit wird der Erbe als Vermächtnisnehmer behandelt. Im Zweifel ist ein solches Vermächtnis nicht auf den Anteil des begünstigten Erben anzurechnen und belastet alle Erben nach ihrer Erbquote (Vorausvermächtnis).
+### § 521 ABGB # 3) Dienstbarkeit der Wohnung.
 
-`§ 648 (2) ABGB.`  
-Wenn die Anrechnung des Vermächtnisses auf den Erbteil ausdrücklich angeordnet wurde oder sich aus der Auslegung des letzten Willens ergibt (Hineinvermächtnis), liegt darin im Zweifel eine Teilungsanordnung.
+`§ 521 ABGB.`  
+Die Servitut der Wohnung ist das Recht, die bewohnbaren Theile eines Hauses zu seinem Bedürfnisse zu benützen. Sie ist also eine Servitut des Gebrauches von dem Wohngebäude. Werden aber jemanden alle bewohnbare Theile des Hauses, mit Schonung der Substanz, ohne Einschränkung zu genießen überlassen; so ist es eine Fruchtnießung des Wohngebäudes. Hiernach sind die oben gegebenen Vorschriften auf das rechtliche Verhältniß zwischen dem Berechtigten und dem Eigenthümer anzuwenden.
 
-`§ 648 (3) ABGB.`  
-Übersteigt der Wert des Hineinvermächtnisses den letztwillig zugedachten Erbteil, so erhöht sich im Zweifel der Erbteil dieses Erben entsprechend. Im selben Ausmaß vermindern sich die Erbteile der übrigen eingesetzten Erben verhältnismäßig. Im Zweifel kommt es auf den Wert des Hineinvermächtnisses im Zeitpunkt der Errichtung der letztwilligen Verfügung an.
+### § 522 ABGB
 
-### § 649 ABGB # Vermächtnisschuldner
+`§ 522 ABGB.`  
+In jedem Falle behält der Eigenthümer das Recht, über alle Theile des Hauses, die nicht zur eigentlichen Wohnung gehören, zu verfügen; auch darf ihm die nöthige Aufsicht über sein Haus nicht erschweret werden.
 
-`§ 649 (1) ABGB.`  
-Aufgrund des Vermächtnisses erwirbt der Vermächtnisnehmer eine Forderung gegen die Verlassenschaft und nach der Einantwortung gegen die Erben.
+### § 523 ABGB # Klagerecht in Rücksicht der Servituten.
 
-`§ 649 (2) ABGB.`  
-Im Zweifel haften die Erben zur ungeteilten Hand. Sie haben im Zweifel untereinander im Verhältnis ihrer Erbteile zur Leistung des Vermächtnisses beizutragen, selbst wenn die Sache eines Miterben vermacht worden ist. Die Leistung des Vermächtnisses kann aber auch einem Miterben allein oder einem Vermächtnisnehmer aufgetragen werden.
+`§ 523 ABGB.`  
+In Ansehung der Servituten findet ein doppeltes Klagerecht Statt. Man kann gegen den Eigenthümer das Recht der Servitut behaupten; oder, der Eigenthümer kann sich über die Anmaßung einer Servitut beschweren. Im ersten Falle muß der Kläger die Erwerbung der Servitut oder wenigstens den Besitz derselben als eines dinglichen Rechtes; im zweyten Falle muß er die Anmaßung der Servitut in seiner Sache beweisen.
 
-### § 650 ABGB # Untervermächtnis
+## Erlöschung der Dienstbarkeiten.
 
-`§ 650 ABGB.`  
-Ein Vermächtnisnehmer kann sich von der vollständigen Erfüllung des ihm aufgetragenen weiteren Vermächtnisses nicht mit der Begründung befreien, dass es den Wert des ihm zugedachten Vermächtnisses übersteigt. Nimmt er das Vermächtnis nicht an, so muss derjenige, dem es zufällt, das Untervermächtnis erfüllen oder das ihm zugefallene Vermächtnis dem darauf gewiesenen Untervermächtnisnehmer herausgeben.
+### § 524 ABGB # im Allgemeinen.
 
-### § 651 ABGB # Verteilungsvermächtnis
+`§ 524 ABGB.`  
+Die Servituten erlöschen im Allgemeinen auf diejenigen Arten, wodurch nach dem dritten und vierten Hauptstücke des dritten Theiles Rechte und Verbindlichkeiten überhaupt aufgehoben werden.
 
-`§ 651 ABGB.`  
-Wer ein Vermächtnis einer gewissen Personengruppe, etwa seinen Verwandten, seinen Dienstnehmern oder bedürftigen Menschen, zukommen lassen will, kann die Verteilung, welchen Personen was zukommen soll, dem Erben oder einem Dritten überlassen. Ist dazu nichts bestimmt, so kann der Erbe die Verteilung vornehmen.
+## Besondere Anordnung bey deren Erlöschung:
 
-### § 652 ABGB # Ersatz- und Nachvermächtnis
+### § 525 ABGB # a) durch den Untergang des dienstbaren oder herrschenden Grundes;
 
-`§ 652 ABGB.`  
-Es kann auch ein Ersatz- oder Nachvermächtnis angeordnet werden; die Bestimmungen des Zehnten Hauptstücks sind darauf sinngemäß anzuwenden.
+`§ 525 ABGB.`  
+Der Untergang des dienstbaren oder des herrschenden Grundes stellt zwar die Dienstbarkeit ein; sobald aber der Grund, oder das Gebäude wieder in den vorigen Stand gesetzt ist, erhält die Servitut wieder ihre vorige Kraft.
 
-### § 653 ABGB # Gegenstand eines Vermächtnisses
+### § 526 ABGB # b) durch Vereinigung;
 
-`§ 653 (1) ABGB.`  
-Jede Sache, die im Verkehr steht, vererblich ist und den Inhalt einer selbstständigen Forderung bilden kann, kann Gegenstand eines Vermächtnisses sein.
+`§ 526 ABGB.`  
+Wenn das Eigenthum des dienstbaren und des herrschenden Grundes in Einer Person vereinigt wird, hört die Dienstbarkeit von selbst auf. Wird aber in der Folge Einer dieser vereinigten Gründe wieder veräußert, ohne daß inzwischen in den öffentlichen Büchern die Dienstbarkeit gelöschet worden; so ist der neue Besitzer des herrschenden Grundes befugt, die Servitut auszuüben.
 
-`§ 653 (2) ABGB.`  
-Ist die vermachte Sache verpfändet oder sonst wie belastet, so hat der Vermächtnisnehmer auch die darauf haftenden Lasten zu übernehmen.
+### § 527 ABGB # c) durch Zeitverlauf.
 
-### § 654 ABGB # Unmöglichkeit
+`§ 527 ABGB.`  
+Hat das bloß zeitliche Recht desjenigen, der die Servitut bestellt hat, oder die Zeit, auf welche sie beschränkt worden ist, dem Servituts-Inhaber aus öffentlichen Büchern, oder auf eine andere Art bekannt seyn können; so hört nach Verlauf dieser Zeit die Servitut von selbst auf.
 
-`§ 654 ABGB.`  
-Ist die Leistung des Vermächtnisses ohne Verschulden des Vermächtnisschuldners oder eines Dritten unmöglich, so erhält der Vermächtnisnehmer keinen Ersatz. Werden aber verkehrsfähige Sachen vermacht, die der Vermächtnisnehmer aus rechtlichen Gründen nicht erwerben kann, so gebührt ihm der Verkehrswert.
+### § 528 ABGB
 
-## II. Arten von Vermächtnissen
+`§ 528 ABGB.`  
+Eine Servitut, welche jemanden bis zur Zeit, da ein Dritter ein bestimmtes Alter erreicht, verliehen wird, erlischt erst zu der bestimmten Zeit, obschon der Dritte vor diesem Alter verstorben ist.
 
-### § 656 ABGB # 1. Gattungsvermächtnisse
+### § 529 ABGB # Erlöschung der persönlichen Servituten insbesondere.
 
-`§ 656 ABGB.`  
-Wenn eine oder mehrere Sachen einer Gattung ohne eine nähere Bestimmung vermacht werden und sich mehrere solche Sachen in der Verlassenschaft befinden, kann die Wahl dem Erben, einem Dritten oder dem Vermächtnisnehmer überlassen werden. Im Zweifel steht dem Erben die Wahl zu. Der Erbe und der Dritte müssen ein Stück wählen, das unter Beachtung des letzten Willens den Bedürfnissen des Vermächtnisnehmers entspricht. Der Vermächtnisnehmer kann auch das beste Stück wählen.
+`§ 529 ABGB.`  
+Persönliche Servituten hören mit dem Tode auf. Werden sie ausdrücklich auf die Erben ausgedehnt; so sind im Zweifel nur die ersten gesetzlichen Erben darunter verstanden. Das einer Familie verliehene Recht aber geht auf alle Mitglieder derselben über. Die von einer Gemeinde oder einer andern moralischen Person erworbene persönliche Servitut dauert so lange, als die moralische Person besteht.
 
-### § 657 ABGB
+### § 530 ABGB # Unanwendbarkeit auf beständige Renten.
 
-`§ 657 ABGB.`  
-Wenn eine oder mehrere Sachen einer Gattung nach dem Willen des Verstorbenen dessen Eigentum entstammen sollen, sich aber nicht in der Verlassenschaft befinden, ist das Vermächtnis ungültig. Finden sie sich nicht in der bestimmten Zahl, so muss sich der Vermächtnisnehmer mit den vorhandenen begnügen.
+`§ 530 ABGB.`  
+Beständige jährliche Renten sind keine persönliche Servitut, und können also ihrer Natur nach auf alle Nachfolger übertragen werden.
 
-### § 658 ABGB
+## Achtes Hauptstück # Vom Erbrecht allgemein # I. Begriffe
 
-`§ 658 (1) ABGB.`  
-Wenn hingegen solche Sachen nach dem Willen des Verstorbenen nicht ausdrücklich aus seinem Eigentum stammen sollen und sich nicht in der Verlassenschaft befinden, muss sie der Erbe dem Vermächtnisnehmer in einer dessen Bedürfnissen entsprechenden Eigenschaft verschaffen.
+### § 531 ABGB # Verlassenschaft
 
-`§ 658 (2) ABGB.`  
-Ein Geldvermächtnis verpflichtet den Erben zur Zahlung der bestimmten Summe ohne Rücksicht darauf, ob Bargeld in der Verlassenschaft vorhanden ist oder nicht.
+`§ 531 ABGB.`  
+Die Rechte und Verbindlichkeiten eines Verstorbenen bilden, soweit sie nicht höchstpersönlicher Art sind, dessen Verlassenschaft.
 
-### § 659 ABGB
+### § 532 ABGB # Erbrecht
 
-`§ 659 ABGB.`  
-Kann oder will der Dritte oder der wahlberechtigte Vermächtnisnehmer nicht wählen, so hat das Gericht das Vermächtnis mit Rücksicht auf die Bedürfnisse des Vermächtnisnehmers zu bestimmen.
+`§ 532 ABGB.`  
+Das Erbrecht ist das absolute Recht, die ganze Verlassenschaft oder einen bestimmten Teil davon zu erwerben. Diejenige Person, der das Erbrecht gebührt, wird Erbe genannt.
 
-### § 660 ABGB # 2. Vermächtnis einer bestimmten Sache
+### § 533 ABGB # Erbrechtstitel
 
-`§ 660 (1) ABGB.`  
-Der Vermächtnisnehmer kann die Erfüllung des Vermächtnisses einer bestimmten Sache nicht zugleich in Natur und dem Wert nach verlangen, auch wenn der Verstorbene ihm diese Sache mehrfach, sei dies in einer oder in mehreren letztwilligen Verfügungen, vermacht hat. Andere Vermächtnisse, die eine Sache derselben Art oder denselben Betrag betreffen, gebühren dem Vermächtnisnehmer im Zweifel so oft, wie sie der Verstorbene wiederholt hat.
+`§ 533 ABGB.`  
+Das Erbrecht gründet sich auf einen Erbvertrag, auf den letzten Willen des Verstorbenen oder auf das Gesetz.
 
-`§ 660 (2) ABGB.`  
-Wie beim Gattungsvermächtnis kann auch einem Erben, Vermächtnisnehmer oder Dritten die Wahl überlassen werden, aus mehreren bestimmten Sachen auszuwählen.
+### § 534 ABGB # Mehrere Berufungsgründe
 
-### § 661 ABGB
+`§ 534 ABGB.`  
+Die angeführten Erbrechtstitel können auch nebeneinander bestehen, sodass einem Erben ein bestimmter Teil der Verlassenschaft aus dem letzten Willen, einem anderen ein Teil aus dem Erbvertrag und einem dritten ein Teil aus dem Gesetz gebühren können.
 
-`§ 661 ABGB.`  
-Das Vermächtnis ist ungültig, wenn die vermachte Sache im Zeitpunkt der Errichtung der letztwilligen Verfügung schon im Eigentum des Vermächtnisnehmers stand. Hat er sie später erworben, so gebührt ihm der Verkehrswert. Wenn er sie aber vom Verstorbenen vor dessen Tod unentgeltlich erhalten hat, gilt das Vermächtnis als aufgehoben.
+### § 535 ABGB # Unterschied zwischen Erbschaft und Vermächtnis
 
-### § 662 ABGB # 3. Vermächtnis einer fremden Sache
+`§ 535 ABGB.`  
+Wird einer Person nicht ein Erbteil, der sich auf die ganze Verlassenschaft bezieht, sondern eine bestimmte Sache, eine oder mehrere Sachen einer Gattung, ein Betrag oder ein Recht zugedacht, so ist das Zugedachte, auch wenn sein Wert einen erheblichen Teil der Verlassenschaft ausmacht, ein Vermächtnis. Diejenige Person, der es hinterlassen wurde, ist nicht Erbe, sondern Vermächtnisnehmer.
 
-`§ 662 (1) ABGB.`  
-Das Vermächtnis einer fremden Sache, die weder dem Vermächtnisgeber noch dem Erben noch dem Vermächtnisnehmer, der sie einem Dritten leisten soll, gehört, ist unwirksam. Gebührt diesen Personen ein Anteil oder Recht an der Sache, so umfasst das Vermächtnis nur diesen Anteil oder dieses Recht.
+## II. Entstehung des Erbrechts
 
-`§ 662 (2) ABGB.`  
-Wenn der Verstorbene ausdrücklich angeordnet hat, dass eine bestimmte fremde Sache gekauft und dem Vermächtnisnehmer geleistet werden soll (Verschaffungsvermächtnis) und der Eigentümer diese Sache nicht um den Verkehrswert veräußern will, ist dem Vermächtnisnehmer dieser Wert zu leisten.
+### § 536 ABGB # Erbanfall
 
-### § 663 ABGB # 4. Vermächtnis einer Forderung
+`§ 536 (1) ABGB.`  
+Der Erbe erwirbt das Erbrecht (Erbanfall) mit dem Tod des Verstorbenen (Erbfall) oder mit dem Eintritt einer aufschiebenden Bedingung (§§ 696 und 703).
 
-`§ 663 ABGB.`  
-Das Vermächtnis einer Forderung, die der Verstorbene gegen den Vermächtnisnehmer hatte (Befreiungsvermächtnis), verpflichtet den Erben, die Forderung samt den rückständigen Zinsen zu erlassen.
+`§ 536 (2) ABGB.`  
+Wenn ein möglicher Erbe vor dem Erbanfall verstirbt, erwirbt er kein Erbrecht; es kann daher auch nicht auf seine Erben übergehen.
 
-### § 664 ABGB
+### § 537 ABGB # Vererblichkeit des Erbrechts
 
-`§ 664 ABGB.`  
-Hat der Verstorbene dem Vermächtnisnehmer eine Forderung vermacht, die ihm gegen einen Dritten zustand (Forderungsvermächtnis), so muss der Erbe die Forderung samt den rückständigen und weiter laufenden Zinsen dem Vermächtnisnehmer abtreten.
+`§ 537 (1) ABGB.`  
+Wenn der Erbe den Verstorbenen überlebt hat, geht das Erbrecht auch vor Einantwortung der Erbschaft auf seine Erben (Erbeserben) über, es sei denn, dass der Verstorbene dies ausgeschlossen hat, die Erbschaft ausgeschlagen wurde oder das Erbrecht auf eine andere Art erloschen ist.
 
-### § 665 ABGB
+`§ 537 (2) ABGB.`  
+Die Erbeserben gehen Anwachsungsberechtigten (§ 560) jedenfalls und Ersatzerben (§ 604) dann vor, wenn der Erbe nach Abgabe seiner Erbantrittserklärung verstirbt.
 
-`§ 665 ABGB.`  
-Das Vermächtnis der Schuld, die der Verstorbene dem Vermächtnisnehmer gegenüber zu erfüllen hatte (Schuldvermächtnis), bewirkt, dass der Erbe die vom Verstorbenen bestimmte oder vom Vermächtnisnehmer ausgewiesene Schuld anerkennen und sie, ohne Rücksicht auf die mit der Schuld verbundenen Bedingungen oder Fristen, längstens binnen der zur Leistung der übrigen Vermächtnisse bestimmten Frist erfüllen muss.
+### § 538 ABGB # Erbfähigkeit
 
-### § 666 ABGB
+`§ 538 ABGB.`  
+Erbfähig ist, wer rechtsfähig und erbwürdig ist.
 
-`§ 666 ABGB.`  
-Das Befreiungsvermächtnis umfasst im Zweifel nicht die erst nach Errichtung des Vermächtnisses entstandenen Schulden. Hat der Verstorbene durch ein Vermächtnis ein Pfandrecht oder eine Bürgschaft erlassen, so folgt daraus nicht, dass er auch die Schuld erlassen hat. Hat er die Zahlungsfristen verlängert, so müssen die Zinsen weiter bezahlt werden.
+### § 539 ABGB # Gründe für die Erbunwürdigkeit
 
-### § 667 ABGB
+`§ 539 ABGB.`  
+Wer gegen den Verstorbenen oder die Verlassenschaft eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist, ist erbunwürdig, sofern der Verstorbene nicht zu erkennen gegeben hat, dass er ihm verziehen hat.
 
-`§ 667 ABGB.`  
-Wenn der Verstorbene einer Person den gleichen Betrag vermacht hat, den er ihr geschuldet hat, wird nicht vermutet, dass er die Schuld mit dem Vermächtnis erfüllen wollte.
+### § 540 ABGB
 
-### § 672 ABGB # 5. Vermächtnis des Unterhalts oder der Ausbildung
+`§ 540 ABGB.`  
+Wer absichtlich die Verwirklichung des wahren letzten Willens des Verstorbenen vereitelt oder zu vereiteln versucht hat, etwa indem er ihn zur Erklärung des letzten Willens gezwungen oder arglistig verleitet, ihn an der Erklärung oder Änderung des letzten Willens gehindert oder einen bereits errichteten letzten Willen unterdrückt hat, ist erbunwürdig, sofern der Verstorbene nicht zu erkennen gegeben hat, dass er ihm verziehen hat. Er haftet für jeden einem Dritten dadurch zugefügten Schaden.
 
-`§ 672 (1) ABGB.`  
-Das Vermächtnis des Unterhalts umfasst im Zweifel Nahrung, Kleidung, Wohnung, die nötige Ausbildung und die übrigen Bedürfnisse des Vermächtnisnehmers. Das Ausmaß richtet sich im Zweifel nach den bisherigen Lebensverhältnissen des Vermächtnisnehmers.
+### § 541 ABGB
 
-`§ 672 (2) ABGB.`  
-Das Unterhaltsvermächtnis gewährt im Zweifel Unterhalt bis zur Selbsterhaltungsfähigkeit des Vermächtnisnehmers, wenn dieser im Zeitpunkt der Errichtung des Vermächtnisses nicht selbsterhaltungsfähig war. Das einem selbsterhaltungsfähigen Vermächtnisnehmer eingeräumte Unterhaltsvermächtnis gewährt im Zweifel Unterhalt bis zum Lebensende.
+`§ 541 ABGB.`  
+Wer  
+`§ 541 Z 1 ABGB.`
+gegen den Ehegatten, eingetragenen Partner oder Lebensgefährten des Verstorbenen oder gegen dessen Verwandte in gerader Linie eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,  
+`§ 541 Z 2 ABGB.`
+dem Verstorbenen in verwerflicher Weise schweres seelisches Leid zugefügt hat oder  
+`§ 541 Z 3 ABGB.`
+sonst gegenüber dem Verstorbenen seine Pflichten aus dem Rechtsverhältnis zwischen Eltern und Kindern gröblich vernachlässigt hat,  
+ist erbunwürdig, wenn der Verstorbene aufgrund seiner Testierunfähigkeit, aus Unkenntnis oder aus sonstigen Gründen nicht in der Lage war, ihn zu enterben, und er auch nicht zu erkennen gegeben hat, dass er ihm verziehen hat.
 
-### § 673 ABGB
+### § 542 ABGB # Eintrittsrecht bei Erbunwürdigkeit
 
-`§ 673 ABGB.`  
-Das Vermächtnis der Ausbildung umfasst im Zweifel alle Kosten einer den Fähigkeiten und Neigungen des Vermächtnisnehmers entsprechenden Ausbildung nach denselben Grundsätzen, wie sie für die Verpflichtung von Eltern gegenüber ihren Kindern gelten. Die Kosten des notwendigen Lebensunterhalts sind im Zweifel insoweit mit umfasst, als dem Vermächtnisnehmer wegen seiner Ausbildung eine Erwerbstätigkeit nicht zuzumuten ist.
+`§ 542 ABGB.`  
+Bei gesetzlicher Erbfolge treten die Nachkommen der erbunwürdigen Person an deren Stelle, auch wenn diese den Verstorbenen überlebt hat.
 
-### § 674 ABGB # 6. Vermächtnis der Möbel und des Hausrats
+### § 543 ABGB # Beurteilung der Erbfähigkeit
 
-`§ 674 ABGB.`  
-Unter den Möbeln oder der Einrichtung werden nur die zum gewöhnlichen Gebrauch der Wohnung, unter dem Hausrat die zur Führung des Haushalts erforderlichen Sachen verstanden. Sachen zum Betrieb eines Unternehmens fallen im Zweifel nicht darunter.
+`§ 543 (1) ABGB.`  
+Die Erbfähigkeit muss im Zeitpunkt des Erbanfalls vorliegen. Eine später erlangte Erbfähigkeit ist unbeachtlich und berechtigt daher nicht, anderen das zu entziehen, was ihnen bereits rechtmäßig zugekommen ist.
 
-### § 675 ABGB # 7. Vermächtnis eines Behältnisses
+`§ 543 (2) ABGB.`  
+Wer nach dem Erbanfall eine gerichtlich strafbare Handlung gegen die Verlassenschaft im Sinn des § 539 begeht oder die Verwirklichung des wahren letzten Willens des Verstorbenen vereitelt oder zu vereiteln versucht (§ 540), verliert nachträglich seine Erbfähigkeit.
 
-`§ 675 ABGB.`  
-Wenn der Verstorbene ein Behältnis vermacht hat, das nicht für sich selbst besteht (etwa eine Schublade), so wird vermutet, dass nur diejenigen Sachen erfasst sind, die sich bei seinem Ableben darin befinden und zu deren Aufbewahrung das Behältnis seiner Natur nach bestimmt oder vom Verstorbenen gewöhnlich verwendet worden ist.
+### § 546 ABGB # Verlassenschaft als juristische Person
 
-### § 676 ABGB
+`§ 546 ABGB.`  
+Mit dem Tod setzt die Verlassenschaft als juristische Person die Rechtsposition des Verstorbenen fort.
 
-`§ 676 ABGB.`  
-Besteht das Behältnis dagegen für sich selbst (etwa ein Kasten), so hat der Vermächtnisnehmer im Zweifel nur auf das Behältnis, nicht aber auf die darin befindlichen Sachen Anspruch.
+### § 547 ABGB # Gesamtrechtsnachfolge
 
-### § 677 ABGB # 8. Pflegevermächtnis
+`§ 547 ABGB.`  
+Mit der Einantwortung folgt der Erbe der Rechtsposition der Verlassenschaft nach; dasselbe gilt mit Übergabebeschluss für die Aneignung durch den Bund.
 
-`§ 677 (1) ABGB.`  
-Einer dem Verstorbenen nahe stehenden Person, die diesen in den letzten drei Jahren vor seinem Tod mindestens sechs Monate in nicht bloß geringfügigem Ausmaß gepflegt hat, gebührt dafür ein gesetzliches Vermächtnis, soweit nicht eine Zuwendung gewährt oder ein Entgelt vereinbart wurde.
+### § 548 ABGB # Verbindlichkeiten
 
-`§ 677 (2) ABGB.`  
-Pflege ist jede Tätigkeit, die dazu dient, einer pflegebedürftigen Person soweit wie möglich die notwendige Betreuung und Hilfe zu sichern sowie die Möglichkeit zu verbessern, ein selbstbestimmtes, bedürfnisorientiertes Leben zu führen.
+`§ 548 ABGB.`  
+Verbindlichkeiten, die der Verstorbene aus seinem Vermögen zu leisten gehabt hätte, übernimmt sein Erbe. Geldstrafen gehen nicht auf den Erben über.
 
-`§ 677 (3) ABGB.`  
-Nahe stehend sind Personen aus dem Kreis der gesetzlichen Erben des Verstorbenen, deren Ehegatte, eingetragener Partner oder Lebensgefährte und deren Kinder sowie der Lebensgefährte des Verstorbenen und dessen Kinder.
+### § 549 ABGB # Begräbniskosten
 
-### § 678 ABGB
+`§ 549 ABGB.`  
+Zu den auf einer Verlassenschaft haftenden Lasten gehören auch die Kosten für ein ortsübliches und den Lebensverhältnissen sowie dem Vermögen des Verstorbenen angemessenes Begräbnis.
 
-`§ 678 (1) ABGB.`  
-Die Höhe des Vermächtnisses richtet sich nach Art, Dauer und Umfang der Leistungen.
+### § 550 ABGB # Erbengemeinschaft
 
-`§ 678 (2) ABGB.`  
-Das Vermächtnis gebührt jedenfalls neben dem Pflichtteil, neben anderen Leistungen aus der Verlassenschaft nur dann nicht, wenn der Verstorbene das verfügt hat. Das Vermächtnis kann nur bei Vorliegen eines Enterbungsgrundes entzogen werden.
+`§ 550 ABGB.`  
+Mehrere Erben bilden in Ansehung ihres gemeinschaftlichen Erbrechts eine Erbengemeinschaft. Der Anteil eines dieser Miterben richtet sich nach seiner Erbquote. Im Übrigen sind die Bestimmungen des Fünfzehnten und Sechzehnten Hauptstücks entsprechend anzuwenden.
 
-## 9. Auslegung bestimmter Begriffe
+### § 551 ABGB # Erbverzicht
 
-### § 681 ABGB # a) Kinder
+`§ 551 (1) ABGB.`  
+Wer über sein Erbrecht gültig verfügen kann, kann auch durch Vertrag mit dem Verstorbenen im Voraus darauf verzichten. Der Vertrag bedarf zu seiner Gültigkeit der Aufnahme eines Notariatsakts oder der Beurkundung durch gerichtliches Protokoll; die Aufhebung des Vertrags bedarf der Schriftform.
 
-`§ 681 ABGB.`  
-Unter dem Wort Kinder werden, wenn der Verstorbene die Kinder eines anderen bedacht hat, nur dessen Söhne und Töchter, wenn er aber seine eigenen Kinder bedacht hat, auch die an deren Stelle tretenden Nachkommen verstanden, die beim Ableben des Verstorbenen schon gezeugt waren.
+`§ 551 (2) ABGB.`  
+Soweit nichts anderes vereinbart ist, erstreckt sich ein solcher Verzicht auch auf den Pflichtteil und auf die Nachkommen.
 
-### § 682 ABGB # b) Verwandte
+## Neuntes Hauptstück # Gewillkürte Erbfolge # I. Grundsätze
 
-`§ 682 ABGB.`  
-Ein ohne nähere Bestimmung für die Verwandten ausgesetztes Vermächtnis wird den nach der gesetzlichen Erbfolge nächsten Verwandten zugewendet. § 555 ist sinngemäß anzuwenden.
+### § 552 ABGB # Letztwillige Verfügung
 
-### § 683 ABGB # c) Dienstnehmer
+`§ 552 (1) ABGB.`  
+Mit einer letztwilligen Verfügung wird das Schicksal der künftigen Verlassenschaft auf den Todesfall geregelt. Eine letztwillige Verfügung kann jederzeit widerrufen werden.
 
-`§ 683 ABGB.`  
-Hat der Verstorbene seinen Dienstnehmern ein Vermächtnis hinterlassen und sie bloß durch das Dienstverhältnis bezeichnet, so wird vermutet, dass es diejenigen erhalten sollen, die im Zeitpunkt seines Ablebens in einem Dienstverhältnis zu ihm stehen.
+`§ 552 (2) ABGB.`  
+Wird über die Erbfolge verfügt, so liegt ein Testament vor. Es können aber auch sonstige letztwillige Verfügungen getroffen werden, insbesondere über Vermächtnisse, Auflagen oder die Einsetzung von Testamentsvollstreckern.
 
-## III. Erwerb von Vermächtnissen
+### § 553 ABGB # Auslegung letztwilliger Verfügungen
 
-### § 684 ABGB # Anfallstag und Erwerbsvoraussetzungen bei Vermächtnissen
+`§ 553 ABGB.`  
+Wörter sind nach ihrer gewöhnlichen Bedeutung auszulegen, außer der Verstorbene hat mit gewissen Ausdrücken einen besonderen Sinn verbunden. Maßgeblich ist der wahre Wille des Verstorbenen, der im Wortlaut der Verfügung zumindest angedeutet sein muss. Die Auslegung soll so erfolgen, dass der vom Verstorbenen angestrebte Erfolg eintritt und dass die letztwillige Verfügung als solche zumindest teilweise aufrecht bleiben kann. Die §§ 681 bis 683 sind anzuwenden.
 
-`§ 684 (1) ABGB.`  
-Der Vermächtnisnehmer erwirbt in der Regel (§ 699) mit dem Tod des Vermächtnisgebers für sich und seine Nachfolger das Recht auf das Vermächtnis.
+### § 554 ABGB # Einsetzung eines einzigen Erben
 
-`§ 684 (2) ABGB.`  
-Das Eigentum an der vermachten Sache wird nach den Bestimmungen des Fünften Hauptstücks über den Erwerb des Eigentums erlangt.
+`§ 554 ABGB.`  
+Hat der Verstorbene nur eine Person unbestimmt, also ohne ihren Erbteil festzulegen, als Erben eingesetzt, so erhält sie die gesamte Verlassenschaft. Hat er einer Person nur einen bestimmten Erbteil zugedacht, so fällt der übrige Teil an die gesetzlichen Erben.
 
-### § 685 ABGB # Fälligkeit des Vermächtnisses
+### § 555 ABGB # Einsetzung mehrerer Erben
 
-`§ 685 ABGB.`  
-Das Vermächtnis ist im Zweifel sogleich mit dem Tod des Vermächtnisgebers zu erfüllen. Geldvermächtnisse und Vermächtnisse von Sachen, die sich nicht in der Verlassenschaft befinden, können erst nach Ablauf eines Jahres nach dem Tod des Vermächtnisgebers geltend gemacht werden.
+`§ 555 ABGB.`  
+Hat der Verstorbene mehrere Personen unbestimmt als Erben eingesetzt, so erben sie zu gleichen Teilen.
 
-### § 686 ABGB
+### § 556 ABGB
 
-`§ 686 ABGB.`  
-Beim Vermächtnis von Sachen aus der Verlassenschaft gebühren dem Vermächtnisnehmer auch die seit dem Tod des Vermächtnisgebers laufenden Zinsen und entstandenen Nutzungen sowie jeder andere Zuwachs. Er trägt hingegen alle auf dem Vermächtnis haftenden Lasten und selbst den Verlust, wenn es ohne Verschulden eines Dritten gemindert oder die Leistung gänzlich unmöglich wird.
+`§ 556 ABGB.`  
+Hat der Verstorbene mehrere Personen als Erben zu bestimmten, die Verlassenschaft nicht erschöpfenden Erbteilen eingesetzt, so fällt der übrige Teil an die gesetzlichen Erben. Hat der Verstorbene die Erben zur gesamten Verlassenschaft berufen, so schließt dies im Zweifel das gesetzliche Erbrecht aus, selbst wenn der Verstorbene sich verrechnet oder die Erbstücke unvollständig aufgezählt hat.
 
-### § 687 ABGB
+### § 557 ABGB # Bestimmte und unbestimmte Einsetzung nebeneinander
 
-`§ 687 ABGB.`  
-Wenn der Verstorbene dem Vermächtnisnehmer ein Rentenvermächtnis, also einen bestimmten, jährlich, monatlich oder sonst in periodischen Zeiträumen zu leistenden Betrag vermacht hat, erhält der Vermächtnisnehmer ein Recht auf den ganzen Betrag für den Zeitraum, dessen Anfang er erlebt hat. Den Betrag selbst kann er jedoch erst mit Ende des Zeitraums fordern. Der erste Zeitraum beginnt mit dem Tod des Vermächtnisgebers.
+`§ 557 ABGB.`  
+Hat der Verstorbene nur den Anteil eines oder mehrerer Erben bestimmt, die Anteile der übrigen Erben aber nicht, so erhalten diese den Rest zu gleichen Teilen.
 
-### § 688 ABGB # Recht des Vermächtnisnehmers auf Sicherstellung
+### § 558 ABGB
 
-`§ 688 ABGB.`  
-In allen Fällen, in denen ein Gläubiger von einem Schuldner Sicherstellung fordern kann, kann auch ein Vermächtnisnehmer die Sicherstellung seines Vermächtnisses verlangen.
+`§ 558 ABGB.`  
+Wenn danach für einen unbestimmt eingesetzten Erben nichts übrig bleibt, muss für ihn von sämtlichen bestimmten Teilen der anderen Erben verhältnismäßig so viel abgezogen werden, dass er den gleichen Anteil erhält wie der am geringsten bedachte Erbe.
 
-### § 689 ABGB # Wem ein frei gewordenes Vermächtnis zufällt
+### § 559 ABGB # Erbeinsetzung mehrerer Personen zu unbestimmten Anteilen
 
-`§ 689 ABGB.`  
-Ein Vermächtnis, das der Vermächtnisnehmer nicht annehmen kann oder will, fällt dem Nachberufenen zu (§ 652). Wenn kein Nachberufener vorhanden ist und das gesamte Vermächtnis mehreren Personen zugedacht worden ist, wächst der Anteil, den einer von ihnen nicht erhält, den übrigen Vermächtnisnehmern zu. Außer diesen beiden Fällen bleibt ein frei gewordenes Vermächtnis in der Verlassenschaft.
+`§ 559 ABGB.`  
+Sind unter mehreren unbestimmt eingesetzten Erben auch solche Personen, die nach der gesetzlichen Erbfolge als eine Person anzusehen sind (etwa die Kinder des einen Bruders gegenüber dem anderen Bruder des Verstorbenen), so gelten sie im Zweifel auch bei testamentarischer Einsetzung als eine Person. Hat der Verstorbene als Erben bestimmbare Personen eingesetzt, so wird vermutet, dass er sie nebeneinander zu einzelnen Anteilen als Erben einsetzen wollte. Wird eine Mehrheit unbestimmbarer Personen eingesetzt, so ist sie im Zweifel als eine Person zu betrachten.
 
-### § 690 ABGB # Recht des Erben, wenn die Lasten die Verlassenschaft erschöpfen
+### § 560 ABGB # Anwachsung
 
-`§ 690 ABGB.`  
-Wenn die gesamte Verlassenschaft durch Vermächtnisse erschöpft ist, kann der beschränkt haftende Erbe nur die Vergütung seiner zum Besten der Verlassenschaft gemachten Auslagen und eine seinen Bemühungen angemessene Belohnung fordern. Will er die Verlassenschaft nicht selbst verwalten, so muss er die Bestellung eines Kurators beantragen.
+`§ 560 (1) ABGB.`  
+Wenn der Verstorbene über die gesamte Verlassenschaft verfügt und mehrere Erben eingesetzt hat, einer der Erben aber von seinem Erbrecht keinen Gebrauch machen kann oder will und für diesen kein Ersatzerbe bestimmt ist, wächst der frei gewordene Teil im Zweifel den übrigen eingesetzten Erben im Verhältnis ihrer Erbteile an. Gleiches gilt, wenn die Einsetzung eines von mehreren Erben unwirksam ist.
 
-### § 691 ABGB
+`§ 560 (2) ABGB.`  
+Kommt es zu keiner Anwachsung, so fällt der frei gewordene Teil an die gesetzlichen Erben.
 
-`§ 691 ABGB.`  
-Können nicht alle Vermächtnisnehmer aus der Verlassenschaft befriedigt werden, so wird das Vermächtnis des Unterhalts vor allen anderen entrichtet; diesem Vermächtnisnehmer gebührt der Unterhalt mit dem Erbfall.
+### § 563 ABGB
 
-### § 692 ABGB # Recht des Erben, wenn die Lasten die Verlassenschaft übersteigen
-
-`§ 692 ABGB.`  
-Reicht die Verlassenschaft nicht zur Zahlung der Schulden und anderer pflichtmäßiger Auslagen sowie zur Leistung aller Vermächtnisse aus, so erleiden die Vermächtnisnehmer bei beschränkter Haftung der Erben (§ 802) einen verhältnismäßigen Abzug. Der beschränkt haftende Erbe kann, so lange eine solche Gefahr besteht, die Vermächtnisse auch nur gegen Sicherstellung leisten.
-
-### § 693 ABGB
-
-`§ 693 ABGB.`  
-Haben die Vermächtnisnehmer die Vermächtnisse bereits empfangen, so wird der verhältnismäßige Abzug nach dem Wert, den das Vermächtnis zum Zeitpunkt des Empfangs hatte, und den daraus gezogenen Nutzungen bestimmt.
-
-### § 694 ABGB
-
-`§ 694 ABGB.`  
-Der Vermächtnisnehmer kann zur Vermeidung einer Zahlung an die Verlassenschaft das Vermächtnis oder den in § 693 angeführten Wert und die bezogenen Nutzungen in die Verlassenschaft zurückstellen; in Rücksicht auf die Verbesserungen und Verschlechterungen wird er als ein redlicher Besitzer behandelt.
+`§ 563 ABGB.`  
+Wer den frei gewordenen Erbteil erhält, übernimmt auch die damit verknüpften Lasten, soweit sie nicht in höchstpersönlichen Verpflichtungen des eingesetzten Erben bestehen.
 
 `END-OF-DATA-FILE`

@@ -52,9 +52,8 @@ Dritte dürfen in die elterlichen Rechte nur insoweit eingreifen, als ihnen dies
 
 `§ 139 (2) ABGB.`  
 Eine mit einem Elternteil und dessen minderjährigem Kind nicht nur vorübergehend im gemeinsamen Haushalt lebende volljährige Person, die in einem familiären Verhältnis zum Elternteil steht, hat alles den Umständen nach Zumutbare zu tun, um das Kindeswohl zu schützen. Soweit es die Umstände erfordern, vertritt sie den Elternteil auch in Obsorgeangelegenheiten des täglichen Lebens.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">Zweiter Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Abstammung des Kindes</span></h4>
 
-## a) Allgemeines
+## Zweiter Abschnitt # Abstammung des Kindes # a) Allgemeines
 
 ### § 140 ABGB
 
@@ -79,7 +78,8 @@ Der gesetzliche Vertreter hat sich vom Wohl der vertretenen Person leiten zu las
 
 `§ 142 ABGB.`  
 Nach dem Tod der betroffenen Person kann die Feststellung der Abstammung, deren Änderung oder die Feststellung der Nichtabstammung von den Rechtsnachfolgern oder gegen diese bewirkt werden.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">b) Abstammung von der Mutter</h4>
+
+## b) Abstammung von der Mutter
 
 ### § 143 ABGB
 
@@ -241,7 +241,8 @@ Es ist ratsam, aber nicht zwingend notwendig, dass die Mutter und die zustimmend
 
 `§ 154a (3) ABGB.`  
 Die § 16 und § 22 Abs. 1 Z 4 und Abs. 2 Z 1 sowie § 25 FMedG sind auf jede nicht-medizinisch unterstützte Fortpflanzung sinngemäß anzuwenden.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">Dritter Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Name</span></h4>
+
+## Dritter Abschnitt # Name
 
 ### § 155 ABGB
 

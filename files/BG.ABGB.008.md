@@ -6,13 +6,146 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+## Zweyter Theil # des # bürgerlichen Gesetzbuches. # Von dem Sachenrechte. # Von Sachen und ihrer rechtlichen Eintheilung.
+
+### § 285 ABGB # Begriff von Sachen im rechtlichen Sinne.
+
+`§ 285 ABGB.`  
+Alles, was von der Person unterschieden ist, und zum Gebrauche der Menschen dient, wird im rechtlichen Sinne eine Sache genannt.
+
+### § 285a ABGB
+
+`§ 285a ABGB.`  
+Tiere sind keine Sachen; sie werden durch besondere Gesetze geschützt. Die für Sachen geltenden Vorschriften sind auf Tiere nur insoweit anzuwenden, als keine abweichenden Regelungen bestehen.
+
+### § 286 ABGB # Eintheilung der Sachen nach Verschiedenheit des Subjectes, dem sie gehören.
+
+`§ 286 ABGB.`  
+Die Sachen in dem Staatsgebiethe sind entweder ein Staats- oder ein Privat-Gut. Das Letztere gehört einzelnen oder moralischen Personen, kleinern Gesellschaften, oder ganzen Gemeinden.
+
+### § 287 ABGB # Freystehende Sachen; öffentliches Gut und Staatsvermögen.
+
+`§ 287 ABGB.`  
+Sachen, welche allen Mitgliedern des Staates zur Zueignung überlassen sind, heißen freystehende Sachen. Jenen, die ihnen nur zum Gebrauche verstattet werden, als: Landstraßen, Ströme, Flüsse, Seehäfen und Meeresufer, heißen ein allgemeines oder öffentliches Gut. Was zur Bedeckung der Staatsbedürfnisse bestimmt ist, als: das Münz- oder Post- und andere Regalien, Kammergüter-, Berg- und Salzwerke, Steuern und Zölle, wird das Staatsvermögen genannt.
+
+### § 288 ABGB # Gemeindegut, Gemeindevermögen.
+
+`§ 288 ABGB.`  
+Auf gleiche Weise machen die Sachen, welche nach der Landesverfassung zum Gebrauche eines jeden Mitgliedes einer Gemeinde dienen, das Gemeindegut; diejenigen aber, deren Einkünfte zur Bestreitung der Gemeindeauslagen bestimmt sind, das Gemeindevermögen aus.
+
+### § 289 ABGB # Privat-Gut des Landesfürsten.
+
+`§ 289 ABGB.`  
+Auch dasjenige Vermögen des Landesfürsten, welches er nicht als Oberhaupt des Staates besitzt, wird als ein Privat-Gut betrachtet.
+
+### § 290 ABGB # Allgemeine Vorschrift in Rücksicht dieser verschiedenen Arten der Güter.
+
+`§ 290 ABGB.`  
+Die in diesem Privat-Rechte enthaltenen Vorschriften über die Art, wie Sachen rechtmäßig erworben, erhalten und auf Andere übertragen werden können, sind in der Regel auch von den Verwaltern der Staats- und Gemeindegüter, oder des Staats- und Gemeindevermögens zu beobachten. Die in Hinsicht auf die Verwaltung und den Gebrauch dieser Güter sich beziehenden Abweichungen und besondern Vorschriften sind in dem Staatsrechte und in den politischen Verordnungen enthalten.
+
+### § 291 ABGB # Eintheilung der Sachen nach dem Unterschiede ihrer Beschaffenheit.
+
+`§ 291 ABGB.`  
+Die Sachen werden nach dem Unterschiede ihrer Beschaffenheit eingetheilt: in körperliche und unkörperliche; in bewegliche und unbewegliche; in verbrauchbare und unverbrauchbare; in schätzbare und unschätzbare.
+
+### § 292 ABGB # Körperliche und unkörperliche Sachen;
+
+`§ 292 ABGB.`  
+Körperliche Sachen sind diejenigen, welche in die Sinne fallen; sonst heißen sie unkörperliche; z. B. das Recht zu jagen, zu fischen und alle andere Rechte.
+
+### § 293 ABGB # bewegliche und unbewegliche.
+
+`§ 293 ABGB.`  
+Sachen, welche ohne Verletzung ihrer Substanz von einer Stelle zur andern versetzt werden können, sind beweglich; im entgegengesetzten Falle sind sie unbeweglich. Sachen, die an sich beweglich sind, werden im rechtlichen Sinne für unbeweglich gehalten, wenn sie vermöge des Gesetzes oder der Bestimmung des Eigenthümers das Zugehör einer unbeweglichen Sache ausmachen.
+
+### § 294 ABGB # Zugehör überhaupt.
+
+`§ 294 ABGB.`  
+Unter Zugehör versteht man dasjenige, was mit einer Sache in fortdauernde Verbindung gesetzt wird. Dahin gehören nicht nur der Zuwachs einer Sache, so lange er von derselben nicht abgesondert ist, sondern auch die Nebensachen, ohne welche die Hauptsache nicht gebraucht werden kann, oder die das Gesetz oder der Eigenthümer zum fortdauernden Gebrauche der Hauptsache bestimmt hat.
+
+### § 295 ABGB # insbesondere bey Grundstücken und Teichen;
+
+`§ 295 ABGB.`  
+Gras, Bäume, Früchte und alle brauchbare Dinge, welche die Erde auf ihrer Oberfläche hervorbringt, bleiben so lange ein unbewegliches Vermögen, als sie nicht von Grund und Boden abgesondert worden sind. Selbst die Fische in einem Teiche, und das Wild in einem Walde werden erst dann ein bewegliches Gut, wenn der Teich gefischet, und das Wild gefangen oder erlegt worden ist.
+
+### § 296 ABGB
+
+`§ 296 ABGB.`  
+Auch das Getreide, das Holz, das Viehfutter und alle übrige, obgleich schon eingebrachte Erzeugnisse, so wie alles Vieh und alle zu einem liegenden Gute gehörige Werkzeuge und Geräthschaften werden in so fern für unbewegliche Sachen gehalten, als sie zur Fortsetzung des ordentlichen Wirthschaftsbetriebes erforderlich sind.
+
+### § 297 ABGB # und bey Gebäuden.
+
+`§ 297 ABGB.`  
+Eben so gehören zu den unbeweglichen Sachen diejenigen, welche auf Grund und Boden in der Absicht aufgeführt werden, daß sie stets darauf bleiben sollen, als: Häuser und andere Gebäude mit dem in senkrechter Linie darüber befindlichen Luftraume; ferner: nicht nur Alles, was erd- mauer- niet- und nagelfest ist, als: Braupfannen, Branntweinkessel und eingezimmerte Schränke, sondern auch diejenigen Dinge, die zum anhaltenden Gebrauche eines Ganzen bestimmt sind: z. B. Brunneneimer, Seile, Ketten, Löschgeräthe und dergleichen.
+
+### § 297a ABGB # Maschinen.
+
+`§ 297a ABGB.`  
+Werden mit einer unbeweglichen Sache Maschinen in Verbindung gebracht, so gelten sie nicht als Zugehör, wenn mit Zustimmung des Eigentümers der Liegenschaft im öffentlichen Buch angemerkt wird, daß die Maschinen Eigentum eines anderen sind. Werden sie als Ersatz an Stelle solcher Maschinen angebracht, die als Zugehör anzusehen waren, so ist zu dieser Anmerkung auch die Zustimmung der früher eingetragenen bücherlich Berechtigten erforderlich. Die Anmerkung verliert mit Ablauf von fünf Jahren nach der Eintragung ihre Wirkung; durch das Insolvenz- oder Zwangsversteigerungsverfahren wird der Ablauf der Frist gehemmt.
+
+### § 298 ABGB # Rechte sind insgemein als bewegliche Sachen anzusehen;
+
+`§ 298 ABGB.`  
+Rechte werden den beweglichen Sachen beygezählt, wenn sie nicht mit dem Besitze einer unbeweglichen Sache verbunden, oder durch die Landesverfassung für eine unbewegliche Sache erkläret sind.
+
+### § 299 ABGB # auch die vorgemerkten Forderungen.
+
+`§ 299 ABGB.`  
+Schuldforderungen werden durch die Sicherstellung auf ein unbewegliches Gut nicht in ein unbewegliches Vermögen verwandelt.
+
+### § 300 ABGB # Kellereigentum
+
+`§ 300 ABGB.`  
+An Räumen und Bauwerken, die sich unter der Erdoberfläche der Liegenschaft eines anderen befinden und nicht der Fundierung von über der Erdoberfläche errichteten Bauwerken dienen, wie Kellern, Tiefgaragen und industriellen oder wirtschaftlichen Zwecken gewidmeten Stollen, kann mit Einwilligung des Liegenschaftseigentümers gesondert Eigentum begründet werden.
+
+### § 301 ABGB # Verbrauchbare und unverbrauchbare Sachen.
+
+`§ 301 ABGB.`  
+Sachen, welche ohne ihre Zerstörung oder Verzehrung den gewöhnlichen Nutzen nicht gewähren, heißen verbrauchbare; die von entgegengesetzter Beschaffenheit aber, unverbrauchbare Sachen.
+
+### § 302 ABGB # Gesamtsache (universitas rerum).
+
+`§ 302 ABGB.`  
+Ein Inbegriff von mehreren besondern Sachen, die als Eine Sache angesehen, und mit einem gemeinschaftlichen Nahmen bezeichnet zu werden pflegen, macht eine Gesammtsache aus, und wird als ein Ganzes betrachtet.
+
+### § 303 ABGB # Schätzbare und unschätzbare.
+
+`§ 303 ABGB.`  
+Schätzbare Sachen sind diejenigen, deren Werth durch Vergleichung mit andern zum Verkehre bestimmt werden kann; darunter gehören auch Dienstleistungen, Hand- und Kopfarbeiten. Sachen hingegen, deren Werth durch keine Vergleichung mit andern im Verkehre befindlichen Sachen bestimmt werden kann, heißen unschätzbare.
+
+### § 304 ABGB # Maßstab der gerichtlichen Schätzung.
+
+`§ 304 ABGB.`  
+Der bestimmte Werth einer Sache heißt ihr Preis. Wenn eine Sache vom Gerichte zu schätzen ist, so muß die Schätzung nach einer bestimmten Summe Geldes geschehen.
+
+### § 305 ABGB # Ordentlicher und außerordentlicher Preis.
+
+`§ 305 ABGB.`  
+Wird eine Sache nach dem Nutzen geschätzt, den sie mit Rücksicht auf Zeit und Ort gewöhnlich und allgemein leistet, so fällt der ordentliche und gemeine Preis aus; nimmt man aber auf die besondern Verhältnisse und auf die in zufälligen Eigenschaften der Sache gegründete besondere Vorliebe desjenigen, dem der Werth ersetzt werden muß, Rücksicht, so entsteht ein außerordentlicher Preis.
+
+### § 306 ABGB # Welcher bey gerichtlichen Schätzungen zur Richtschnur zu nehmen.
+
+`§ 306 ABGB.`  
+In allen Fällen, wo nichts Anderes entweder bedungen, oder von dem Gesetze verordnet wird, muß bey der Schätzung einer Sache der gemeine Preis zur Richtschnur genommen werden.
+
+### § 307 ABGB # Begriffe vom dinglichen und persönlichen Sachenrechte.
+
+`§ 307 ABGB.`  
+Rechte, welche einer Person über eine Sache ohne Rücksicht auf gewisse Personen zustehen, werden dingliche Rechte genannt. Rechte, welche zu einer Sache nur gegen gewisse Personen unmittelbar aus einem Gesetze, oder aus einer verbindlichen Handlung entstehen, heißen persönliche Sachenrechte.
+
+### § 308 ABGB
+
+`§ 308 ABGB.`  
+Dingliche Sachenrechte sind das Recht des Besitzes, des Eigentums, des Pfandes und der Dienstbarkeit.
+
 ## Erste Abtheilung # des Sachenrechtes. # Von den dinglichen Rechten. # Erstes Hauptstück. # Von dem Besitze.
 
 ### § 309 ABGB # Inhaber. Besitzer.
 
 `§ 309 ABGB.`  
 Wer eine Sache in seiner Macht oder Gewahrsame hat, heißt ihr Inhaber. Hat der Inhaber einer Sache den Willen, sie als die seinige zu behalten, so ist er ihr Besitzer.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Erwerbung des Besitzes.</h4>
+
+## Erwerbung des Besitzes.
 
 ### § 310 ABGB # Fähigkeit der Person zur Besitzerwerbung.
 
@@ -108,8 +241,8 @@ Besitzt eine Person die Sache selbst, eine andere aber das Recht auf alle oder a
 
 `§ 328 ABGB.`  
 Die Redlichkeit oder Unredlichkeit des Besitzes muß im Falle eines Rechtsstreites durch richterlichen Ausspruch entschieden werden. Im Zweifel ist die Vermuthung für die Redlichkeit des Besitzes.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Fortdauer des Besitzes.</h4>
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Rechte des redlichen Besitzes:</h4>
+
+## Fortdauer des Besitzes. # Rechte des redlichen Besitzes:
 
 ### § 329 ABGB # a) in Rücksicht der Substanz der Sache;
 
@@ -185,205 +318,5 @@ Was in den vorhergehenden §§.in Rücksicht einer neuen Bauführung verordnet w
 
 `§ 343 ABGB.`  
 Kann der Besitzer eines dinglichen Rechtes beweisen, daß ein bereits vorhandener fremder Bau oder eine andere fremde Sache dem Einsturze nahe sey, und ihm offenbarer Schaden drohe; so ist er befugt, gerichtlich auf Sicherstellung zu dringen, wenn anders die politische Behörde nicht bereits hinlänglich für die öffentliche Sicherheit gesorgt hat.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Rechtsmittel zur Erhaltung des Besitzstandes:</h4>
-
-### § 344 ABGB # a) bey dringender Gefahr;
-
-`§ 344 ABGB.`  
-Zu den Rechten des Besitzes gehört auch das Recht, sich in seinem Besitze zu schützen, und in dem Falle, daß die richterliche Hülfe zu spät kommen würde, Gewalt mit angemessener Gewalt abzutreiben (§. 19). Uebrigens hat die politische Behörde für die Erhaltung der öffentlichen Ruhe, so wie das Strafgericht für die Bestrafung öffentlicher Gewaltthätigkeiten zu sorgen.
-
-### § 345 ABGB # d) gegen den unechten Besitzer;
-
-`§ 345 ABGB.`  
-Wenn sich jemand in den Besitz eindringt, oder durch List oder Bitte heimlich einschleicht, und das, was man ihm aus Gefälligkeit, ohne sich einer fortdauernden Verbindlichkeit zu unterziehen gestattet, in ein fortwährendes Recht zu verwandeln sucht; so wird der an sich unrechtmäßige und unredliche Besitz noch überdieß unecht; in entgegengesetzten Fällen wird der Besitz für echt angesehen.
-
-### § 346 ABGB
-
-`§ 346 ABGB.`  
-Gegen jeden unechten Besitzer kann so wohl die Zurücksetzung in die vorige Lage, als auch die Schadloshaltung eingeklagt werden. Beydes muß das Gericht nach rechtlicher Verhandlung, selbst ohne Rücksicht auf ein stärkeres Recht, welches der Geklagte auf die Sache haben könnte, verordnen.
-
-### § 347 ABGB # c) beym Zweifel über die Echtheit des Besitzes.
-
-`§ 347 ABGB.`  
-Zeigt es sich nicht gleich auf der Stelle, wer sich in einem echten Besitze befinde, und in wie fern der eine oder der andere Theil auf gerichtliche Unterstützung Anspruch habe; so wird die im Streite verfangene Sache so lange der Gewahrsame des Gerichtes oder eines Dritten anvertraut, bis der Streit über den Besitz verhandelt und entschieden worden ist. Der Sachfällige kann auch nach dieser Entscheidung die Klage aus einem vermeintlich stärkeren Rechte auf die Sache noch anhängig machen.
-
-### § 348 ABGB # Verwahrungsmittel des Inhabers gegen mehrere zusammentreffende Besitzwerber.
-
-`§ 348 ABGB.`  
-Wenn der bloße Inhaber von mehreren Besitzwerbern zugleich um die Uebergabe der Sache angegangen wird, und sich Einer darunter befindet, in dessen Nahmen die Sache aufbewahrt wurde; so wird sie vorzüglich diesem übergeben, und die Uebergabe den Uebrigen bekannt gemacht. Kommt dieser Umstand Keinem zu Statten, so wird die Sache der Gewahrsame des Richters oder eines Dritten anvertraut. Der Richter hat die Rechtsgründe der Besitzwerber zu prüfen, und darüber zu entscheiden.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Erlöschung des Besitzes:</h4>
-
-### § 349 ABGB # a) körperlicher Sachen;
-
-`§ 349 ABGB.`  
-Der Besitz einer körperlichen Sache geht insgemein verloren, wenn dieselbe ohne Hoffnung, wieder gefunden zu werden, in Verlust geräth; wenn sie freywillig verlassen wird; oder, in fremden Besitz kommt.
-
-### § 350 ABGB # b) der in die öffentlichen Bücher eingetragenen Rechte;
-
-`§ 350 ABGB.`  
-Der Besitz derjenigen Rechte und unbeweglichen Sachen, welche einen Gegenstand der öffentlichen Bücher ausmachen, erlischt, wenn sie aus den landtäflichen, Stadt- oder Grundbüchern gelöscht; oder, wenn sie auf den Nahmen eines Anderen eingetragen werden.
-
-### § 351 ABGB # c) anderer Rechte.
-
-`§ 351 ABGB.`  
-Bey andern Rechten hört der Besitz auf, wenn der Gegentheil das, was er sonst geleistet hat, nicht mehr leisten zu wollen erkläret; wenn er die Ausübung des Rechtes eines Andern nicht mehr duldet; oder wenn er das Verboth, etwas zu unterlassen, nicht mehr achtet, der Besitzer aber in allen diesen Fällen es dabey bewenden läßt, und die Erhaltung des Besitzes nicht einklagt. Durch den bloßen Nichtgebrauch eines Rechtes geht der Besitz, außer den im Gesetze bestimmten Verjährungsfällen, nicht verloren.
-
-### § 352 ABGB
-
-`§ 352 ABGB.`  
-So lange noch Hoffnung vorhanden ist, eine verlorne Sache zu erhalten, kann man sich durch den bloßen Willen in ihrem Besitze erhalten. Die Abwesenheit des Besitzers oder die eintretende Unfähigkeit einen Besitz zu erwerben, heben den bereits erworbenen Besitz nicht auf.
-
-## Zweytes Hauptstück. # Von dem Eigenthumsrechte.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Begriff des Eigenthumes;</h4>
-
-### § 353 ABGB # Eigenthum im objectiven Sinne.
-
-`§ 353 ABGB.`  
-Alles, was jemanden zugehöret, alle seine körperlichen und unkörperlichen Sachen, heißen sein Eigenthum.
-
-### § 354 ABGB # im subjectiven.
-
-`§ 354 ABGB.`  
-Als ein Recht betrachtet, ist Eigenthum das Befugniß, mit der Substanz und den Nutzungen einer Sache nach Willkühr zu schalten, und jeden Andern davon auszuschließen.
-
-### § 355 ABGB # Objective und subjective Möglichkeit der Erwerbung des Eigenthumes.
-
-`§ 355 ABGB.`  
-Alle Sachen sind insgemein Gegenstände des Eigenthumsrechtes, und jedermann, den die Gesetze nicht ausdrücklich ausschließen, ist befugt, dasselbe durch sich selbst oder durch einen andern in seinem Nahmen zu erwerben.
-
-### § 356 ABGB
-
-`§ 356 ABGB.`  
-Wer also behauptet, daß der Person, die etwas erwerben will, in Rücksicht ihrer persönlichen Fähigkeit, oder in Rücksicht auf die Sache, die erworben werden soll, ein gesetzliches Hinderniß entgegen stehe, dem liegt der Beweis ob.
-
-### § 358 ABGB
-
-`§ 358 ABGB.`  
-Alle Arten der Beschränkungen durch das Gesetz oder durch den Willen des Eigenthümers heben die Vollständigkeit des Eigenthumes nicht auf.
-
-### § 361 ABGB # Miteigenthum.
-
-`§ 361 ABGB.`  
-Wenn eine noch ungetheilte Sache mehrern Personen zugleich zugehört; so entsteht ein gemeinschaftliches Eigenthum. In Beziehung auf das Ganze werden die Miteigenthümer für eine einzige Person angesehen; in so weit ihnen aber gewisse, obgleich unabgesonderte Theile angewiesen sind, hat jeder Miteigenthümer das vollständige Eigenthum des ihm gehörigen Theiles.
-
-### § 362 ABGB # Rechte des Eigenthümers.
-
-`§ 362 ABGB.`  
-Kraft des Rechtes, frey über sein Eigenthum zu verfügen, kann der vollständige Eigenthümer in der Regel seine Sache nach Willkühr benützen oder unbenützt lassen; er kann sie vertilgen, ganz oder zum Theile auf Andere übertragen, oder unbedingt sich derselben begeben, das ist, sie verlassen.
-
-### § 363 ABGB # Beschränkungen derselben.
-
-`§ 363 ABGB.`  
-Eben diese Rechte genießen auch unvollständige, sowohl Ober- als Nutzungseigenthümer; nur darf der Eine nichts vornehmen, was mit dem Rechte des Andern im Widerspruche steht.
-
-### § 364 ABGB
-
-`§ 364 (1) ABGB.`  
-Ueberhaupt findet die Ausübung des Eigenthumsrechtes nur in so fern Statt, als dadurch weder in die Rechte eines Dritten ein Eingriff geschieht, noch die in den Gesetzen zur Erhaltung und Beförderung des allgemeinen Wohles vorgeschriebenen Einschränkungen übertreten werden. Im Besonderen haben die Eigentümer benachbarter Grundstücke bei der Ausübung ihrer Rechte aufeinander Rücksicht zu nehmen.
-
-`§ 364 (2) ABGB.`  
-Der Eigentümer eines Grundstückes kann dem Nachbarn die von dessen Grund ausgehenden Einwirkungen durch Abwässer, Rauch, Gase, Wärme, Geruch, Geräusch, Erschütterung und ähnliche insoweit untersagen, als sie das nach den örtlichen Verhältnissen gewöhnliche Maß überschreiten und die ortsübliche Benutzung des Grundstückes wesentlich beeinträchtigen. Unmittelbare Zuleitung ist ohne besonderen Rechtstitel unter allen Umständen unzulässig.
-
-`§ 364 (3) ABGB.`  
-Ebenso kann der Grundstückseigentümer einem Nachbarn die von dessen Bäumen oder anderen Pflanzen ausgehenden Einwirkungen durch den Entzug von Licht oder Luft insoweit untersagen, als diese das Maß des Abs. 2 überschreiten und zu einer unzumutbaren Beeinträchtigung der Benutzung des Grundstücks führen. Bundes- und landesgesetzliche Regelungen über den Schutz von oder vor Bäumen und anderen Pflanzen, insbesondere über den Wald-, Flur-, Feld-, Ortsbild-, Natur- und Baumschutz, bleiben unberührt.
-
-### § 364a ABGB
-
-`§ 364a ABGB.`  
-Wird jedoch die Beeinträchtigung durch eine Bergwerksanlage oder eine behördlich genehmigte Anlage auf dem nachbarlichen Grund in einer dieses Maß überschreitenden Weise verursacht, so ist der Grundbesitzer nur berechtigt, den Ersatz des zugefügten Schadens gerichtlich zu verlangen, auch wenn der Schaden durch Umstände verursacht wird, auf die bei der behördlichen Verhandlung keine Rücksicht genommen wurde.
-
-### § 364b ABGB
-
-`§ 364b ABGB.`  
-Ein Grundstück darf nicht in der Weise vertieft werden, daß der Boden oder das Gebäude des Nachbars die erforderliche Stütze verliert, es sei denn, daß der Besitzer des Grundstückes für eine genügende anderweitige Befestigung Vorsorge trifft.
-
-### § 364c ABGB
-
-`§ 364c ABGB.`  
-Ein vertragsmäßiges oder letztwilliges Veräußerungs- oder Belastungsverbot hinsichtlich einer Sache oder eines dinglichen Rechtes verpflichtet nur den ersten Eigentümer, nicht aber seine Erben oder sonstigen Rechtsnachfolger. Gegen Dritte wirkt es dann, wenn es zwischen Ehegatten, eingetragenen Partnern, Eltern und Kindern, Wahl- oder Pflegekindern oder deren Ehegatten oder eingetragenen Partnern begründet und im öffentlichen Buche eingetragen wurde.
-
-### § 365 ABGB
-
-`§ 365 ABGB.`  
-Wenn es das allgemeine Beste erheischt, muß ein Mitglied des Staates gegen eine angemessene Schadloshaltung selbst das vollständige Eigenthum einer Sache abtreten.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Klagen aus dem Eigenthumsrechte.</h4>
-
-### § 366 ABGB # a) Eigentliche Eigenthumsklage; wem und gegen wen sie gebühre?
-
-`§ 366 ABGB.`  
-Mit dem Rechte des Eigenthümers jeden Andern von dem Besitze seiner Sache auszuschließen, ist auch das Recht verbunden, seine ihm vorenthaltene Sache von jedem Inhaber durch die Eigenthumsklage gerichtlich zu fordern. Doch steht dieses Recht demjenigen nicht zu, welcher eine Sache zur Zeit, da er noch nicht Eigenthümer war, in seinem eigenen Nahmen veräußert, in der Folge aber das Eigenthum derselben erlangt hat.
-
-### § 367 ABGB # Gutgläubiger Erwerb
-
-`§ 367 (1) ABGB.`  
-Die Eigentumsklage gegen den rechtmäßigen und redlichen Besitzer einer beweglichen Sache ist abzuweisen, wenn er beweist, dass er die Sache gegen Entgelt in einer öffentlichen Versteigerung, von einem Unternehmer im gewöhnlichen Betrieb seines Unternehmens oder von jemandem erworben hat, dem sie der vorige Eigentümer anvertraut hatte. In diesen Fällen erwirbt der rechtmäßige und redliche Besitzer das Eigentum. Der Anspruch des vorigen Eigentümers auf Schadenersatz gegen seinen Vertrauensmann oder gegen andere Personen bleibt unberührt.
-
-`§ 367 (2) ABGB.`  
-Ist die Sache mit dem Recht eines Dritten belastet, so erlischt dieses Recht mit dem Erwerb des Eigentums durch den rechtmäßigen und redlichen Besitzer, es sei denn, dass dieser in Ansehung dieses Rechtes nicht redlich ist.
-
-### § 368 ABGB
-
-`§ 368 (1) ABGB.`  
-Der Besitzer ist redlich, wenn er weder weiß noch vermuten muss, dass die Sache nicht dem Veräußerer gehört. Beim Erwerb von einem Unternehmer im gewöhnlichen Betrieb seines Unternehmens genügt der gute Glaube an die Befugnis des Veräußerers, über die Sache zu verfügen.
-
-`§ 368 (2) ABGB.`  
-Beweist der Eigentümer, dass der Besitzer aus der Natur der Sache, aus ihrem auffällig geringen Preis, aus den ihm bekannten persönlichen Eigenschaften seines Vormanns, aus dessen Unternehmen oder aus anderen Umständen einen gegründeten Verdacht hätte schöpfen müssen, so hat der Besitzer die Sache dem Eigentümer zu überlassen.
-
-### § 369 ABGB # Was dem Kläger zu beweisen obliege?
-
-`§ 369 ABGB.`  
-Wer die Eigenthumsklage übernimmt, muß den Beweis führen, daß der Geklagte die eingeklagte Sache in seiner Macht habe, und daß diese Sache sein Eigenthum sey.
-
-### § 370 ABGB
-
-`§ 370 ABGB.`  
-Wer eine bewegliche Sache gerichtlich zurückfordert, muß sie durch Merkmahle beschreiben, wodurch sie von allen ähnlichen Sachen gleicher Gattung ausgezeichnet wird.
-
-### § 371 ABGB
-
-`§ 371 ABGB.`  
-Sachen, die sich auf diese Art nicht unterscheiden lassen, wie bares Geld mit anderm baren Gelde vermenget, oder auf den Ueberbringer lautende Schuldbriefe, sind also in der Regel kein Gegenstand der Eigenthumsklage; wenn nicht solche Umstände eintreten, aus denen der Kläger sein Eigenthumsrecht beweisen kann, und aus denen der Geklagte wissen mußte, daß er die Sache sich zuzuwenden nicht berechtiget sey.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">b) Eigenthumsklage aus dem rechtlich vermuteten Eigenthume des Klägers.</h4>
-
-### § 372 ABGB # Gegen welchen Besitzer diese Vermuthung eintrete?
-
-`§ 372 ABGB.`  
-Wenn der Kläger mit dem Beweise des erworbenen Eigenthumes einer ihm vorenthaltenen Sache zwar nicht ausreicht, aber den gültigen Titel, und die echte Art, wodurch er zu ihrem Besitze gelangt ist, dargethan hat; so wird er doch in Rücksicht eines jeden Besitzers, der keinen, oder nur einen schwächern Titel seines Besitzes anzugeben vermag, für den wahren Eigenthümer gehalten.
-
-### § 373 ABGB
-
-`§ 373 ABGB.`  
-Wenn also der Geklagte die Sache auf eine unredliche oder unrechtmäßige Weise besitzt; wenn er keinen oder nur einen verdächtigen Vormann anzugeben vermag; oder, wenn er die Sache ohne Entgeld, der Kläger aber gegen Entgeld erhalten hat; so muß er dem Kläger weichen.
-
-### § 374 ABGB
-
-`§ 374 ABGB.`  
-Haben der Geklagte und der Kläger einen gleichen Titel ihres echten Besitzes, so gebühret dem Geklagten kraft des Besitzes der Vorzug.
-
-### § 375 ABGB
-
-`§ 375 ABGB.`  
-Wer eine Sache in fremdem Nahmen besitzt, kann sich gegen die Eigenthumsklage dadurch schützen, daß er seinen Vormann nahmhaft macht, und sich darüber ausweiset.
-**FIXME** H4: <h4 class="UeberschrArt AlignCenter">Gesetzliche Folge:</h4>
-
-### § 376 ABGB # a) der Abläugnung des Besitzes;
-
-`§ 376 ABGB.`  
-Wer den Besitz einer Sache vor Gericht läugnet, und dessen überwiesen wird, muß dem Kläger deßwegen allein schon den Besitz abtreten; doch behält er das Recht, in der Folge seine Eigenthumsklage anzustellen.
-
-### § 377 ABGB # b) des vorgegebenen Besitzes;
-
-`§ 377 ABGB.`  
-Wer eine Sache, die er nicht besitzt, zu besitzen vorgibt, und den Kläger dadurch irre führt, haftet für allen daraus entstehenden Schaden.
-
-### § 378 ABGB # c) des aufgegebenen Besitzes der streitigen Sache.
-
-`§ 378 ABGB.`  
-Wer eine Sache im Besitze hatte, und nach zugestellter Klage fahren ließ, muß sie dem Kläger, wenn dieser sich nicht an den wirklichen Inhaber halten will, auf seine Kosten zurück verschaffen, oder den außerordentlichen Werth derselben ersetzen.
-
-### § 379 ABGB # Was der Besitzer dem Eigenthümer erstatte.
-
-`§ 379 ABGB.`  
-Was sowohl der redliche als unredliche Besitzer dem Eigenthümer in Ansehung des entgangenen Nutzens, oder des erlittenen Schadens zu ersetzen habe, ist in dem vorigen Hauptstücke bestimmt worden.
 
 `END-OF-DATA-FILE`
