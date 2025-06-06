@@ -167,100 +167,103 @@ def processContentElement(el, outbuf, parName = None):
     cls = el.get_attrset("class")
     txt = el.stripped_text().replace("\xa0", " ")
 
-    match el.tag_name():
-        case "P" if "UeberschrG2" in cls:
-            txt = txt.replace('\n\n', ' # ').replace('\n', ' # ')
-            if len(outbuf) and outbuf[-1].startswith("## "):
-                outbuf.append(f"## {outbuf[-1][3:]} # {txt}")
-                del outbuf[-2]
-            else:
-                outbuf.append("")
-                outbuf.append(f"## {txt}")
+    def handleHeader():
+        tx = txt.replace('\n\n', ' # ').replace('\n', ' # ')
+        if len(outbuf) and outbuf[-1].startswith("## "):
+            outbuf.append(f"## {outbuf[-1][3:]} # {tx}")
+            del outbuf[-2]
+        else:
+            outbuf.append("")
+            outbuf.append(f"## {tx}")
 
-        case "H4" if "UeberschrG1" in cls or \
-                     "UeberschrG1-AfterG2" in cls:
-            txt = txt.replace('\n\n', ' # ').replace('\n', ' # ')
-            if len(outbuf) and outbuf[-1].startswith("## "):
-                outbuf.append(f"## {outbuf[-1][3:]} # {txt}")
-                del outbuf[-2]
-            else:
-                outbuf.append("")
-                outbuf.append(f"## {txt}")
+    def handleParHeader():
+        outbuf.append("")
+        outbuf.append(f"### {txt}")
 
-        case "H4" if "UeberschrPara" in cls:
-            parName = txt.replace("§.", "§").removesuffix(".") + f" {normdata['title']}"
+    def handleGldSymbolDiv():
+        nonlocal parName, outbuf
+        parName = el.locator(":scope h5.GldSymbol").stripped_text()
+        parName = parName.replace("\xa0", " ").removesuffix(".") + f" {normdata['title']}"
+
+        if len(outbuf) and outbuf[-1].startswith("### "):
+            if not outbuf[-1].startswith(f"### {parName}"):
+                outbuf.append(f"### {parName} # {outbuf[-1][4:]}")
+                del outbuf[-2]
+        else:
             outbuf.append("")
             outbuf.append(f"### {parName}")
 
-        case "P" if "Abs" in cls or \
-                    "Abs_small_indent" in cls or \
-                    "SatznachNovao" in cls or \
-                    "Abstand" in cls:
-            outbuf.append(el.stripped_text())
+        if "ParagraphMitAbsatzzahl" in cls:
+            for item in el.locator(":scope > *").all():
+                if not "GldSymbolFloatLeft" in item.get_attrset("class"):
+                    processContentElement(item, outbuf, parName)
+        else:
+            outbuf += ["", f"`{parName}.`  "]
+            if (items := el.locator(":scope .GldSymbol ~ *")).count():
+                outbuf.append(items.stripped_text())
 
-        case "DIV" if "Abs" in cls or \
-                      "Abs_small_indent" in cls:
+    def handleList():
+        nonlocal outbuf
+        for item in el.locator(":scope > li").all():
+            znr = item.locator(":scope > .SymE0, :scope > .SymE1, :scope > .SymE2")
+            if znr.count() == 0: znr = item.locator(".Absatzzahl")
+            znr = znr.stripped_text().removesuffix(".")
+
+            if znr.startswith("("):
+                subName = parName.removesuffix(normdata['title']) + f"{znr} {normdata['title']}"
+                outbuf += ["", f"`{subName}.`  "]
+            else:
+                if znr[0].isnumeric():
+                    subName = parName.removesuffix(normdata['title']) + f"Z {znr} {normdata['title']}"
+                else:
+                    subName = parName.removesuffix(normdata['title']) + f"lit. {znr} {normdata['title']}"
+                if len(outbuf) and not outbuf[-1].endswith("  "): outbuf[-1] += "  "
+                outbuf.append(f"`{subName}.`")
+
+            for e in item.locator(":scope > div.content > *").all():
+                if "GldSymbolFloatLeft" in item.get_attrset("class"): continue
+                processContentElement(e, outbuf, subName)
+
+    def handleText(br = False):
+        nonlocal outbuf
+        if br and len(outbuf) and not outbuf[-1].endswith("  "):
+            outbuf[-1] += "  "
+        outbuf.append(el.stripped_text())
+
+    def any_in(s, *a):
+        return any([item in s for item in a])
+
+    match el.tag_name():
+        case "P" if "UeberschrG2" in cls:
+            handleHeader()
+
+        case "H4" if any_in(cls, "UeberschrG1", "UeberschrG1-AfterG2"):
+            handleHeader()
+
+        case "H4" if "UeberschrPara" in cls:
+            handleParHeader()
+
+        case "P" if any_in(cls, "Abs", "Abs_small_indent", "SatznachNovao", "Abstand"):
+            handleText()
+
+        case "P" if "ErlText" in cls:
+            handleText(True)
+
+        case "DIV" if any_in(cls, "Abs", "Abs_small_indent"):
             nodes = el.locator(":scope > *:not(.Absatzzahl)")
             if nodes.count(): outbuf.append(nodes.stripped_text())
 
-        case "DIV" if "AufzaehlungE0" in cls or \
-                      "AufzaehlungE1" in cls or \
-                      "AufzaehlungE2" in cls:
-            outbuf.append(el.stripped_text())
+        case "DIV" if any_in(cls, "AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2"):
+            handleText()
 
-        case "P" if "ErlText" in cls:
-            if len(outbuf) and not outbuf[-1].endswith("  "): outbuf[-1] += "  "
-            outbuf.append(el.stripped_text())
-
-        case "DIV" if "SchlussteilE0" in cls or \
-                      "SchlussteilE1" in cls or \
-                      "SchlussteilE2" in cls or \
-                      "SchlussteilE0_5" in cls:
-            if len(outbuf) and not outbuf[-1].endswith("  "): outbuf[-1] += "  "
-            outbuf.append(el.stripped_text())
+        case "DIV" if any_in(cls, "SchlussteilE0", "SchlussteilE1", "SchlussteilE2", "SchlussteilE0_5"):
+            handleText(True)
 
         case "DIV" if el.locator(":scope h5.GldSymbol").count():
-            parName = el.locator(":scope h5.GldSymbol").stripped_text()
-            parName = parName.replace("\xa0", " ").removesuffix(".") + f" {normdata['title']}"
-
-            if len(outbuf) and outbuf[-1].startswith("### "):
-                if not outbuf[-1].startswith(f"### {parName}"):
-                    outbuf.append(f"### {parName} # {outbuf[-1][4:]}")
-                    del outbuf[-2]
-            else:
-                outbuf.append("")
-                outbuf.append(f"### {parName}")
-
-            if "ParagraphMitAbsatzzahl" in cls:
-                for item in el.locator(":scope > *").all():
-                    if "GldSymbolFloatLeft" in item.get_attrset("class"): continue
-                    processContentElement(item, outbuf, parName)
-            else:
-                outbuf += ["", f"`{parName}.`  "]
-                items = el.locator(":scope .GldSymbol ~ *")
-                if items.count():
-                    outbuf.append(items.stripped_text())
+            handleGldSymbolDiv()
 
         case "OL":
-            for item in el.locator(":scope > li").all():
-                znr = item.locator(":scope > .SymE0, :scope > .SymE1, :scope > .SymE2")
-                if znr.count() == 0: znr = item.locator(".Absatzzahl")
-                znr = znr.stripped_text().removesuffix(".")
-
-                if znr.startswith("("):
-                    subName = parName.removesuffix(normdata['title']) + f"{znr} {normdata['title']}"
-                    outbuf += ["", f"`{subName}.`  "]
-                else:
-                    if znr[0].isnumeric():
-                        subName = parName.removesuffix(normdata['title']) + f"Z {znr} {normdata['title']}"
-                    else:
-                        subName = parName.removesuffix(normdata['title']) + f"lit. {znr} {normdata['title']}"
-                    if len(outbuf) and not outbuf[-1].endswith("  "): outbuf[-1] += "  "
-                    outbuf.append(f"`{subName}.`")
-
-                for e in item.locator(":scope > div.content > *").all():
-                    if "GldSymbolFloatLeft" in item.get_attrset("class"): continue
-                    processContentElement(e, outbuf, subName)
+            handleList()
 
         case _:
             outbuf.append(f"**FIXME** {el.tag_name()}: {el.outer_html()}")
