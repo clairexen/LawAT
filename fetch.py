@@ -407,7 +407,7 @@ if selectParagraph is None:
     outFile.close()
 
 os.system(f"""
-[ -f RisExFiles.zip ] && zip -vd RisExFiles.zip "{normkey}.[0-9][0-9][0-9].md" "{normkey}.toc.json"
+[ -f RisExFiles.zip ] && zip -d RisExFiles.zip "{normkey}.[0-9][0-9][0-9].md" "{normkey}.toc.json"
 set -ex; zip -vXj RisExFiles.zip files/{normkey}.[0-9][0-9][0-9].md files/{normkey}.toc.json
 """)
 

@@ -192,53 +192,5 @@ Zugleich legt das Gericht mit Beschluss die Bedingungen für das vorläufige Abs
 
 `§ 434g (7) StPO.`  
 Wird eine Bedingung festgelegt, die die Interessen des Opfers unmittelbar berührt, so ist das Opfer über deren Inhalt und ihre Bedeutung zu verständigen.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">2.&nbsp;Abschnitt<br><span class="UeberschrG2 AlignCenter" style="display:block">Verfahren zur Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach §&nbsp;22&nbsp;StGB oder in einer Anstalt für gefährliche Rückfallstäter nach §&nbsp;23&nbsp;StGB und zur Verhängung eines Tätigkeitsverbotes nach §&nbsp;220b&nbsp;StGB</span></h4>
-
-### § 435 StPO
-
-`§ 435 (1) StPO.`  
-Über die Anwendung der in den § 22, § 23 und § 220b StGB vorgesehenen vorbeugenden Maßnahmen ist in der Regel (§ 441) im Strafurteil zu entscheiden.
-
-`§ 435 (2) StPO.`  
-Die Anordnung der Unterbringung in einer der in diesen Bestimmungen genannten Anstalten oder ihr Unterbleiben sowie die Anordnung eines Tätigkeitsverbotes oder deren Unterbleiben bilden einen Teil des Ausspruches über die Strafe und können zugunsten und zum Nachteil des Verurteilten mit Nichtigkeitsbeschwerde und mit Berufung angefochten werden.
-
-### § 437 StPO
-
-`§ 437 StPO.`  
-Einen Antrag auf Unterbringung in einer der in den § 22 und § 23 StGB vorgesehenen Anstalten oder auf Anordnung eines Tätigkeitsverbotes hat die Staatsanwaltschaft in der Anklage zu stellen. Das Gericht kann jedoch auch ohne einen solchen Antrag die Unterbringung oder das Tätigkeitsverbot anordnen.
-
-### § 438 StPO
-
-`§ 438 StPO.`  
-Liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 22 StGB gegeben seien, und Haftgründe (§ 173 Abs. 2 und 6) vor, kann der Beschuldigte aber nicht ohne Schwierigkeiten in einer Justizanstalt angehalten werden, so ist mit Beschluss anzuordnen, dass die Untersuchungshaft durch vorläufige Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher zu vollziehen ist. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden.
-
-### § 439 StPO
-
-`§ 439 (1) StPO.`  
-Die Anordnung der in den § 22 und § 23 StGB vorgesehenen vorbeugenden Maßnahmen ist nichtig, wenn nicht während der ganzen Hauptverhandlung ein Verteidiger des Beschuldigten anwesend war. Die Anordnung eines Tätigkeitsverbotes (§ 220b StGB) ist nichtig, wenn deren Voraussetzungen in der Hauptverhandlung nicht erörtert wurden.
-
-`§ 439 (2) StPO.`  
-Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder in einer Anstalt für gefährliche Rückfallstäter darf bei sonstiger Nichtigkeit überdies nur nach Beiziehung zumindest eines Sachverständigen (§ 430 Abs. 1 Z 2) angeordnet werden.
-
-`§ 439 (3) StPO.`  
-Sieht das Gericht von der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher wegen der Höhe der ausgesprochenen Strafe ab (§ 22 Abs. 2 StGB), so hat es diesen Umstand in den Entscheidungsgründen auszusprechen.
-
-### § 440 StPO
-
-`§ 440 StPO.`  
-Hat der Beschuldigte einen gesetzlichen Vertreter, so ist in einem Verfahren, in dem hinreichende Gründe für die Annahme der Voraussetzungen des § 22 oder § 23 StGB vorliegen, § 434c sinngemäß anzuwenden.
-
-### § 441 StPO
-
-`§ 441 (1) StPO.`  
-Liegen hinreichende Gründe für die Annahme vor, dass die Voraussetzungen für die selbständige Anordnung der in den § 22, § 23 und § 220b StGB vorgesehenen vorbeugenden Maßnahmen gegeben seien (§ 65 Abs. 5 StGB), so hat die Staatsanwaltschaft einen Antrag auf Anordnung einer der in diesen Bestimmungen genannten vorbeugenden Maßnahmen zu stellen. Für diesen Antrag gelten die Bestimmungen über die Anklageschrift dem Sinne nach.
-
-`§ 441 (2) StPO.`  
-§ 439 Abs. 1 und 2 sowie § 440 gelten in diesem Fall sinngemäß.
-
-### § 442 StPO
-
-`§ 442 StPO.`  
-Liegt einer der im § 173 Abs. 2 genannten Haftgründe vor, so ist die vorläufige Anhaltung des Betroffenen in einer der im § 441 Abs. 1 genannten Anstalten anzuordnen. § 432 und § 433 gelten sinngemäß.
 
 `END-OF-DATA-FILE`
