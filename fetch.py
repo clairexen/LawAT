@@ -224,11 +224,14 @@ def processContentElement(el, outbuf, parName = None):
                 if "GldSymbolFloatLeft" in item.get_attrset("class"): continue
                 processContentElement(e, outbuf, subName)
 
-    def handleText(br = False):
+    def handleText(br = False, absHack = False):
         nonlocal outbuf
         if br and len(outbuf) and not outbuf[-1].endswith("  "):
             outbuf[-1] += "  "
-        outbuf.append(el.stripped_text())
+        tx = el.stripped_text()
+        if absHack and (n := el.locator(":scope > .Absatzzahl")).count():
+            tx = tx.removeprefix(n.stripped_text())
+        outbuf.append(tx)
 
     def any_in(s, *a):
         return any([item in s for item in a])
@@ -250,8 +253,7 @@ def processContentElement(el, outbuf, parName = None):
             handleText(True)
 
         case "DIV" if any_in(cls, "Abs", "Abs_small_indent"):
-            nodes = el.locator(":scope > *:not(.Absatzzahl)")
-            if nodes.count(): outbuf.append(nodes.stripped_text())
+            handleText(False, True)
 
         case "DIV" if any_in(cls, "AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2"):
             handleText()
