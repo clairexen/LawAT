@@ -96,10 +96,11 @@ if (normkey := args[0]) not in normindex:
     assert False, "unrecognized shortname"
 normdata = normindex[normkey]
 
-os.system(f"""
-mkdir -p files
-rm -vf files/{normkey}.[0-9][0-9][0-9].md files/{normkey}.toc.json
-""")
+if selectParagraph is None:
+    os.system(f"""
+        mkdir -p files
+        rm -vf files/{normkey}.[0-9][0-9][0-9].md files/{normkey}.toc.json
+    """)
 
 #%% Initialize Browser Context
 
@@ -410,10 +411,11 @@ if selectParagraph is None:
         print("\n}", file=outFile)
     outFile.close()
 
-os.system(f"""
-[ -f RisExFiles.zip ] && zip -d RisExFiles.zip "{normkey}.[0-9][0-9][0-9].md" "{normkey}.toc.json"
-set -ex; zip -vXj RisExFiles.zip files/{normkey}.[0-9][0-9][0-9].md files/{normkey}.toc.json
-""")
+if selectParagraph is None:
+    os.system(f"""
+        [ -f RisExFiles.zip ] && zip -d RisExFiles.zip "{normkey}.[0-9][0-9][0-9].md" "{normkey}.toc.json"
+        set -ex; zip -vXj RisExFiles.zip files/{normkey}.[0-9][0-9][0-9].md files/{normkey}.toc.json
+    """)
 
 
 #%% Shutdown Playwright
