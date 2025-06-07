@@ -180,6 +180,10 @@ def processContentElement(el, outbuf, parName = None):
             outbuf.append(f"## {tx}")
 
     def handleParHeader():
+        nonlocal parName, txt
+        if txt.startswith("§") and "." in txt:
+            parName = txt.split(".", 1)[0].replace("\xa0", " ") + f" {normdata['title']}"
+            txt = f"{parName} # {txt.split('.', 1)[1]}"
         outbuf.append("")
         outbuf.append(f"### {txt}")
 
