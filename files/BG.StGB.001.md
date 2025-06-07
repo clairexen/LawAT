@@ -177,8 +177,8 @@ Von der Konfiskation ist abzusehen, soweit sie zur Bedeutung der Tat oder zu dem
 
 ### § 20 StGB # Verfall
 
-`§ 20 ( StGB.`  
-1) Das Gericht hat Vermögenswerte, die für die Begehung einer mit Strafe bedrohten Handlung oder durch sie erlangt wurden, für verfallen zu erklären.
+`§ 20 (1) StGB.`  
+Das Gericht hat Vermögenswerte, die für die Begehung einer mit Strafe bedrohten Handlung oder durch sie erlangt wurden, für verfallen zu erklären.
 
 `§ 20 (2) StGB.`  
 Der Verfall erstreckt sich auch auf Nutzungen und Ersatzwerte der nach Abs. 1 für verfallen zu erklärenden Vermögenswerte.
@@ -208,25 +208,25 @@ Vom Verfall ist abzusehen, soweit der für verfallen zu erklärende Vermögenswe
 
 ### § 20b StGB # Erweiterter Verfall
 
-`§ 20b ( StGB.`  
-1) Vermögenswerte, die der Verfügungsmacht einer kriminellen Organisation (§ 278a) oder einer terroristischen Vereinigung (§ 278b) unterliegen oder als Mittel der Terrorismusfinanzierung (§ 278d) bereitgestellt oder gesammelt wurden, sind für verfallen zu erklären.
+`§ 20b (1) StGB.`  
+Vermögenswerte, die der Verfügungsmacht einer kriminellen Organisation (§ 278a) oder einer terroristischen Vereinigung (§ 278b) unterliegen oder als Mittel der Terrorismusfinanzierung (§ 278d) bereitgestellt oder gesammelt wurden, sind für verfallen zu erklären.
 
-`§ 20b (2 StGB.`  
-) Ist eine rechtswidrige Tat nach den §§ 278 oder 278c, für deren Begehung oder durch die Vermögenswerte erlangt wurden, oder ein solches Verbrechen begangen worden, sind auch jene Vermögenswerte für verfallen zu erklären, die in einem zeitlichen Zusammenhang mit dieser Tat erlangt wurden, sofern die Annahme naheliegt, dass sie aus einer rechtswidrigen Tat stammen und ihre rechtmäßige Herkunft nicht glaubhaft gemacht werden kann.
+`§ 20b (2) StGB.`  
+Ist eine rechtswidrige Tat nach den §§ 278 oder 278c, für deren Begehung oder durch die Vermögenswerte erlangt wurden, oder ein solches Verbrechen begangen worden, sind auch jene Vermögenswerte für verfallen zu erklären, die in einem zeitlichen Zusammenhang mit dieser Tat erlangt wurden, sofern die Annahme naheliegt, dass sie aus einer rechtswidrigen Tat stammen und ihre rechtmäßige Herkunft nicht glaubhaft gemacht werden kann.
 
 `§ 20b (2a) StGB.`  
 Darüber hinaus sind auch Vermögenswerte, die aus einer mit Strafe bedrohten Handlung stammen und in einem Verfahren wegen einer Straftat nach §§ 104, 104a, 165, 207a, 215a Abs. 1 oder 2, 216, 217, 246, 277 bis 280, 302, 304 bis 309 oder nach dem fünfundzwanzigsten Abschnitt, nach § 28a des Suchtmittelgesetzes – SMG, BGBl. I Nr. 112/1997, nach den §§ 39 oder 40 des Finanzstrafgesetzes – FinStrG, BGBl. Nr. 129/1958, oder nach § 114 des Fremdenpolizeigesetzes –FPG, BGBl. I Nr. 100/2005, sichergestellt oder beschlagnahmt wurden, für verfallen zu erklären, wenn der Betroffene nicht wegen dieser Straftat verfolgt oder verurteilt werden kann. Bei der Entscheidung über den Verfall kann das Gericht seine Überzeugung davon, dass der Vermögenswert aus einer mit Strafe bedrohten Handlung stammt, insbesondere auf einen auffallenden Widerspruch zwischen dem Vermögenswert und den rechtmäßigen Einkünften des Betroffenen stützen, wobei insbesondere auch die Umstände des Auffindens des Vermögenswertes, die sonstigen persönlichen und wirtschaftlichen Verhältnisse des Betroffenen sowie die Ermittlungsergebnisse zu der Tat, die Anlass für das Verfahren war, berücksichtigt werden können.
 
-`§ 20b (3 StGB.`  
-) § 20 Abs. 2 bis Abs. 4 StGB gilt entsprechend.
+`§ 20b (3) StGB.`  
+§ 20 Abs. 2 bis Abs. 4 StGB gilt entsprechend.
 
 ### § 20c StGB # Unterbleiben des erweiterten Verfalls
 
-`§ 20c ( StGB.`  
-1) Der erweiterte Verfall nach § 20b Abs. 1 StGB ist ausgeschlossen, soweit an den betroffenen Vermögenswerten Rechtsansprüche von Personen bestehen, die an der kriminellen Organisation oder terroristischen Vereinigung oder Terrorismusfinanzierung nicht beteiligt sind.
+`§ 20c (1) StGB.`  
+Der erweiterte Verfall nach § 20b Abs. 1 StGB ist ausgeschlossen, soweit an den betroffenen Vermögenswerten Rechtsansprüche von Personen bestehen, die an der kriminellen Organisation oder terroristischen Vereinigung oder Terrorismusfinanzierung nicht beteiligt sind.
 
-`§ 20c (2 StGB.`  
-) § 20a StGB gilt entsprechend.
+`§ 20c (2) StGB.`  
+§ 20a StGB gilt entsprechend.
 
 ### § 21 StGB # Strafrechtliche Unterbringung in einem forensisch-therapeutischen Zentrum
 
