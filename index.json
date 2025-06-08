@@ -35,6 +35,8 @@
     "BG.StVO": {
         "type": "BG",
         "title": "StVO",
+        "split": 20000,
+        "stop": "§ 106",
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336"
     }
 }

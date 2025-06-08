@@ -292,10 +292,10 @@ while blockIndex is not None and blockIndex < len(blocks):
     fileSize = 0
     fileIndex += 1
     indexData.append([f"{normkey}.{fileIndex:03}", []])
-    print(f"-- {normkey}.{fileIndex:03}.md --")
     if selectParagraph is not None:
         outFile = sys.stdout
     else:
+        print(f"-- {normkey}.{fileIndex:03}.md --")
         outFile = open(f"files/{normkey}.{fileIndex:03}.md", "w")
 
     print(f"# {normkey}.{fileIndex:03}", file=outFile)
@@ -323,7 +323,7 @@ while blockIndex is not None and blockIndex < len(blocks):
         blockIndex += 1
 
         if selectParagraph is not None:
-            if f">§&nbsp;{selectParagraph}.<" not in blk.inner_html():
+            if f">§&nbsp;{selectParagraph}." not in blk.inner_html():
                 continue
 
         if not useHeadlessMode:
