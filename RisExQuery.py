@@ -24,7 +24,7 @@ Formatbeschreibung (zipped) Markdown+JSON-Datensätze in RisExFiles.zip
 - Paragraphenbeginn: "### § <nr> StGB. # <titel>" (Markdown H3)
 - Paragraph ohne Absätze: "`§ <nr> StGB.`␣␣\n<text>" (Markdown "quoted code", 2x space + newline)
 - Bzw. für jeden Absatz: "`§ <nr> (<abs>) StGB.`␣␣\n<text>" (Markdown "quoted code", 2x space + newline)
-- Unterpunkte: "`§ <nr> (<abs>) Z <Z> lit. <lit> StGB.`␣␣\n<text>"
+- Unterpunkte: "`§ <nr> (<abs>) Z <Z> lit. <lit> StGB.`\n<text>" (ohne 2x space)
 - TOC (`.toc.json`) referenziert exakt die Zeilennummern der Überschriften im Markdown
 - Trennung der Paragraphen durch nächste "### §"-Zeile oder "## "-Heading oder Dateiende
 - Unicode-Zeichen (ä, ß, etc.) und geschützte Leerzeichen (\xa0) möglich

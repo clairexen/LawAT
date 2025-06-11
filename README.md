@@ -45,13 +45,13 @@ Klausel schreiben muss.)*
 
 `§ 2 (1) BussiG.`  
 Wer  
-`§ 2 (1) Z 1 BussiG.`  
+`§ 2 (1) Z 1 BussiG.`
 ganz besonders  
-`§ 2 (1) Z 1 lit. a) BussiG.`  
+`§ 2 (1) Z 1 lit. a) BussiG.`
 fleissig oder  
-`§ 2 (1) Z 1 lit. b) BussiG.`  
+`§ 2 (1) Z 1 lit. b) BussiG.`
 bemüht war, oder  
-`§ 2 (1) Z 2 BussiG.`  
+`§ 2 (1) Z 2 BussiG.`
 einfach nur so ganz lieb ist,  
 der hat sich ein Bussi von der Kaiserin verdient.
 
