@@ -6,7 +6,7 @@
 Utility library for accessing and searching RisExFiles.zip.
 
 Import as follows in Chat-GPT(-like) script environments:
-exec(open("/mnt/data/RisExQuery.py").read().replace("#/#", 1))
+exec(open("/mnt/data/RisExQuery.py").read().replace("#/#", "", 1))
 
 
 Formatbeschreibung (zipped) Markdown+JSON-Datensätze in RisExFiles.zip
@@ -30,7 +30,7 @@ RisExQuery – Kurzdokumentation
 from RisExQuery import *
 
 # or load and execute the uploaded Python file directly
-exec(open("/mnt/data/RisExQuery.py").read().replace("#/#", 1))
+exec(open("/mnt/data/RisExQuery.py").read().replace("#/#", "", 1))
 ```
 
 Example Session:
