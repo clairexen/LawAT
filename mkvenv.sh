@@ -5,6 +5,7 @@ source .venv/bin/activate
 pip install playwright
 pip install requests
 pip install ptpython
+pip install rich
 # pip install spyder
 playwright install
 set +x
