@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.023](BG.StPO.023.md))*
 
 ## 23. Hauptstück # Verfahren vor dem Landesgericht als Einzelrichter
 
@@ -299,4 +301,4 @@ Soldaten sind bei ihrer Vernehmung als Beschuldigte, Zeugen oder Sachverständig
 `§ 506 (2) StPO.`  
 Der Dienstgrad und der Standeskörper des Beschuldigten sind in allen Schriftstücken, die ihm oder militärischen Stellen (§ 503) zuzustellen sind oder durch die seine Fahndung veranlasst werden soll, anzuführen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.025](BG.StPO.025.md))*

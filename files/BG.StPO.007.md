@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.006](BG.StPO.006.md))*
 
 ## 3. Abschnitt # Staatsanwaltschaft im Ermittlungsverfahren
 
@@ -527,4 +529,4 @@ Kredit- oder Finanzinstitute und ihre Mitarbeiter sind verpflichtet, die Auskün
 `§ 116 (7) StPO.`  
 Wird einem Einspruch wegen Rechtsverletzung oder einer Beschwerde Folge gegeben, so gilt § 89 Abs. 4. Eine Durchsuchung des Kredit- oder Finanzinstituts bedarf stets einer Anordnung der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung. §§ 110 Abs. 4 und 111 Abs. 3 sind anzuwenden.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.008](BG.StPO.008.md))*

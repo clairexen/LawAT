@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.013](BG.StPO.013.md))*
 
 ## 4. TEIL # Haupt- und Rechtsmittelverfahren # 12. Hauptstück # Die Anklage # 1. Abschnitt # Allgemeines
 
@@ -302,4 +304,4 @@ Nach Abs. 1 ist auch vorzugehen, wenn von den Beteiligten des Verfahrens in der
 `§ 238 (3) StPO.`  
 Der Beschluss ist samt seinen Entscheidungsgründen sofort, jedenfalls jedoch vor Schluss der Verhandlung mündlich zu verkünden. Den Beteiligten steht ein selbständiges, die weitere Verhandlung hemmendes Rechtsmittel gegen ihn nicht zu (§ 86 Abs. 3).
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.015](BG.StPO.015.md))*

@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.005](BG.ZPO.005.md))*
 
 ## Dritter Abschnitt. # Mündliche Verhandlung. # Erster Titel. # Öffentlichkeit.
 
@@ -80,8 +82,7 @@ Jede Partei hat ihre Vorträge so zeitgerecht und vollständig zu erstatten, das
 `§ 179 ZPO.`  
 Die Parteien können bis zum Schluss der mündlichen Verhandlung neue auf den Gegenstand dieser Verhandlung bezügliche tatsächliche Behauptungen und Beweismittel vorbringen. Solches Vorbringen kann jedoch vom Gericht auf Antrag oder von Amts wegen zurückgewiesen werden, wenn es, insbesondere im Hinblick auf die Erörterung des Sach- und Rechtsvorbringens (§ 182a), grob schuldhaft nicht früher vorgebracht wurde und seine Zulassung die Erledigung des Verfahrens erheblich verzögern würde. Gegen den Beschluss ist ein abgesondertes Rechtsmittel nicht zulässig.
 
-## Processleitung.
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">1. Durch den Vorsitzenden.</h4>
+## Processleitung. # 1. Durch den Vorsitzenden.
 
 ### § 180 ZPO
 
@@ -240,4 +241,4 @@ Diese Bestimmung findet keine Anwendung, wenn eine Vorschrift verletzt wurde, au
 `§ 196 (3) ZPO.`  
 Erfolgt die Rüge während einer mündlichen Verhandlung und wird derselben nicht gleich bei der Verhandlung durch Behebung der behaupteten Verletzung entsprochen, so ist sie im Protokolle zu bemerken.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.007](BG.ZPO.007.md))*

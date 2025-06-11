@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.008](BG.ABGB.008.md))*
 
 ## Rechtsmittel zur Erhaltung des Besitzstandes:
 
@@ -358,4 +360,4 @@ Ueber das Recht der Beute und der von dem Feinde zurück erbeuteten Sachen, sind
 `§ 403 ABGB.`  
 Wer eine fremde bewegliche Sache von dem unvermeidlichen Verluste oder Untergange rettet, ist berechtigt, von dem rückfordernden Eigenthümer den Ersatz seines Aufwandes, und eine verhältnismäßige Belohnung von höchstens Zehen von Hundert zu fordern.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.010](BG.ABGB.010.md))*

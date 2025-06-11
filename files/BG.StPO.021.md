@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.020](BG.StPO.020.md))*
 
 ## 18. Hauptstück # Kosten des Strafverfahrens
 
@@ -367,4 +369,4 @@ Wenn der Zweck der Entscheidung nach Abs. 1 sonst ganz oder teilweise vereitelt
 `§ 411 StPO.`  
 Mit dem Tod des Verurteilten erlischt die Verbindlichkeit zur Zahlung von Geldstrafen, soweit sie noch nicht vollzogen worden sind. Dies gilt dem Sinne nach für den Verfalls- und Wertersatz.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.022](BG.StPO.022.md))*

@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.012](BG.ZPO.012.md))*
 
 ## Kostenvorschuß.
 
@@ -245,9 +247,9 @@ Die im Sinne der beiden ersten Absätze erlassenen Urtheile sind in Betreff der 
 `§ 393 (4) ZPO.`  
 In Ansehung der Kosten hat die Vorschrift des § 52 Abs. 4 sinngemäße Anwendung zu finden.
 
-### § 393a ZPO # Zwischenurteil zur Verjährung ZPO
+### § 393a ZPO # Zwischenurteil zur Verjährung
 
 `§ 393a ZPO.`  
 Wenn in einem Rechtsstreit der Einwand der Verjährung des geltend gemachten Anspruchs erhoben wird, kann das Gericht von Amts wegen oder auf Antrag über diesen Einwand gesondert mit Urteil entscheiden, soweit die Klage nicht aus diesem Grund abzuweisen ist. § 393 Abs. 3 erster und zweiter Satz sind sinngemäß anzuwenden.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.014](BG.ZPO.014.md))*

@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.022](BG.ABGB.022.md))*
 
 ## Siebenundzwanzigstes Hauptstück # Von der Gesellschaft bürgerlichen Rechts # 1. Abschnitt # Allgemeine Bestimmungen
 
@@ -247,4 +249,4 @@ Wird ein Gesellschafter wegen einer gesellschaftsbezogenen Verbindlichkeit in An
 `§ 1200 (2) ABGB.`  
 Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange den Gesellschaftern gemeinsam das Recht zusteht, das ihrer Verbindlichkeit zugrunde liegende Rechtsgeschäft anzufechten oder ihre Verbindlichkeit durch Aufrechnung mit einer fälligen Forderung zu erfüllen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.024](BG.ABGB.024.md))*

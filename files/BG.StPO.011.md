@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.010](BG.StPO.010.md))*
 
 ## 9. Hauptstück # Fahndung, Festnahme und Untersuchungshaft # 1. Abschnitt # Fahndung
 
@@ -340,4 +342,4 @@ Dasselbe ist der Fall, sobald das Strafverfahren rechtswirksam beendet ist, bei 
 `§ 181a StPO.`  
 Soweit das Opfer dies beantragt hat, ist es von einer Flucht des in Untersuchungshaft angehaltenen Beschuldigten sowie von seiner Wiederergreifung sogleich zu verständigen. § 172 Abs. 4 zweiter Satz gilt sinngemäß. Die Justizanstalt hat die Staatsanwaltschaft unverzüglich von der Flucht und Wiedereinbringung zu verständigen; die Staatsanwaltschaft hat sodann das Opfer zu verständigen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.012](BG.StPO.012.md))*

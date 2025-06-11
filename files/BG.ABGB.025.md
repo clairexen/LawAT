@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.024](BG.ABGB.024.md))*
 
 ## Neun u. zwanzigstes Hauptstück. # Von den Glücksverträgen.
 
@@ -346,4 +348,4 @@ Um den Ersatz eines verursachten Schadens zu leisten, muß Alles in den vorigen 
 `§ 1324 ABGB.`  
 In dem Falle eines aus böser Absicht oder aus einer auffallenden Sorglosigkeit verursachten Schadens ist der Beschädigte volle Genugthung (Anm.: richtig: Genugthuung); in den übrigen Fällen aber nur die eigentliche Schadloshaltung zu fordern berechtiget. Hiernach ist in den Fällen, wo im Gesetze der allgemeine Ausdruck: Ersatz, vorkommt, zu beurtheilen, welche Art des Ersatzes zu leisten sey.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.026](BG.ABGB.026.md))*

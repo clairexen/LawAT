@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.009](BG.ABGB.009.md))*
 
 ## Viertes Hauptstück. # Von Erwerbung des Eigenthumes durch Zuwachs.
 
@@ -311,4 +313,4 @@ Ist die Sache mit dem Recht eines Dritten belastet, so geht das Pfandrecht des r
 `§ 457 ABGB.`  
 Das Pfandrecht erstreckt sich auf alle zu dem freyen Eigenthume des Verpfänders gehörige Theile, auf Zuwachs und Zugehör des Pfandes, folglich auch auf die Früchte, in so lange sie noch nicht abgesondert oder bezogen sind. Wenn also ein Schuldner einem Gläubiger sein Gut, und einem andern später die Früchte desselben verpfändet; so ist die spätere Verpfändung nur in Rücksicht auf die schon abgesonderten und bezogenen Früchte wirksam.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.011](BG.ABGB.011.md))*

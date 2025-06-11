@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.011](BG.ZPO.011.md))*
 
 ## Vernehmung.
 
@@ -245,4 +247,4 @@ Die dem Vorsitzenden nach §. 183 zustehende Befugnis, von amtswegen eine Beguta
 `§ 364 ZPO.`  
 Das Gericht kann in Fällen, in welchen der Gegenstand zu seiner Beurteilung fachmännische Kenntnisse erfordert oder in welchen das Bestehen von geschäftlichen Gebräuchen in Frage kommt, ohne Zuziehung von Sachverständigen entscheiden, wenn die eigene Fachkunde oder das eigene Wissen der Richter diese Zuziehung überflüssig macht und die Parteien zustimmen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.013](BG.ZPO.013.md))*

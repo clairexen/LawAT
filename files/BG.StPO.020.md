@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.019](BG.StPO.019.md))*
 
 ## 16. Hauptstück # Wiederaufnahme und Erneuerung des Strafverfahrens sowie Wiedereinsetzung in den vorigen Stand # I. Wiederaufnahme des Verfahrens
 
@@ -330,4 +332,4 @@ Wenn binnen der Ediktalfrist niemand ein Recht auf die beschriebenen Gegenständ
 `§ 379 StPO.`  
 Gegenstände und Vermögenswerte, die dem Beschuldigten nicht ausgefolgt werden, sind auf die im § 377 angeordnete Weise zu veräußern. Der Kaufpreis ist an die Bundeskasse abzugeben. Dem Berechtigten steht jedoch frei, seine Ansprüche auf den Kaufpreis gegen den Bund binnen dreißig Jahren vom Tage der dritten Einschaltung des Ediktes im Zivilrechtswege geltend zu machen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.021](BG.StPO.021.md))*

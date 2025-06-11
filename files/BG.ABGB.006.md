@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.005](BG.ABGB.005.md))*
 
 ## II. Auswahl und Dauer der Vertretung
 
@@ -234,4 +236,4 @@ Vertretungshandlungen eines Erwachsenenvertreters in Vermögensangelegenheiten b
 `§ 258 (5) ABGB.`  
 Ist ein Vorsorgebevollmächtigter mit der Verwaltung des Vermögens oder des Einkommens der vertretenen Person betraut, so gelten die §§ 215 bis 221, soweit dies in der Vorsorgevollmacht verfügt wurde.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.007](BG.ABGB.007.md))*

@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.008](BG.ZPO.008.md))*
 
 ## Fortsetzung der Streitverhandlung
 
@@ -145,7 +147,7 @@ Die Beweise, die das Gericht für erheblich hält, sind im Lauf der Verhandlung 
 `§ 276 (2) ZPO.`  
 Wird die Aufnahme eines Beweises außerhalb der Verhandlungstagsatzung durch einen beauftragten oder ersuchten Richter nothwendig, so ist vom Processgerichte das Erforderliche zu verfügen.
 
-### § 277 ZPO # Verwendung technischer Einrichtungen zur Wort- und Bildübertragung bei der Beweisaufnahme ZPO
+### § 277 ZPO # Verwendung technischer Einrichtungen zur Wort- und Bildübertragung bei der Beweisaufnahme
 
 `§ 277 ZPO.`  
 Das Gericht hat nach Maßgabe der technischen Möglichkeiten statt der Einvernahme durch einen ersuchten Richter eine unmittelbare Beweisaufnahme unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung durchzuführen, es sei denn, die Einvernahme durch einen beauftragten oder ersuchten Richter ist unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder aus besonderen Gründen erforderlich.
@@ -258,4 +260,4 @@ Wenn diese Darlegung nach Ansicht einer der Parteien in erheblichen Punkten vom 
 `§ 287 (3) ZPO.`  
 Den Parteien bleibt es unbenommen, schon vor dieser Darlegung des Vorsitzenden in ihren Vorträgen auf den Inhalt der Beweisaufnahme-Acten Bezug zu nehmen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.010](BG.ZPO.010.md))*

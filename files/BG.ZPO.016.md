@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.015](BG.ZPO.015.md))*
 
 ## Besondere Bestimmungen für das Verfahren in Ehesachen
 
@@ -274,4 +276,4 @@ Außer in den Fällen des § 471 ist die Berufung vor Anordnung einer Tagsatzun
 `§ 479a (2) ZPO.`  
 Der Berufungsenat entscheidet, wie das Berufungsgericht im weiteren Verfahren zusammenzusetzen ist. Die Entscheidung ist nicht besonders auszufertigen, sondern in die Berufungsentscheidung aufzunehmen. Sie unterliegt keiner Anfechtung.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.017](BG.ZPO.017.md))*

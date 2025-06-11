@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.006](BG.ZPO.006.md))*
 
 ## Dritter Titel. # Sitzungspolizei.
 
@@ -70,7 +72,7 @@ Den Parteien sind auf ihr Verlangen und auf ihre Kosten Ausfertigungen des Vergl
 
 ## Fünfter Titel. # Protokolle. # Verhandlungsprotokolle.
 
-### § 207 ZPO # Verhandlungsprotokoll ZPO
+### § 207 ZPO # Verhandlungsprotokoll
 
 `§ 207 (1) ZPO.`  
 Über jede mündliche Verhandlung vor Gericht ist ein Protokoll (Verhandlungsprotokoll) aufzunehmen. Kann eine Verhandlung nicht an einem Tag zu Ende geführt werden, so ist für jede einzelne Tagsatzung ein Protokoll aufzunehmen. Eine Ausfertigung des Protokolls ist den Parteien, ausgenommen im Fall des § 209 Abs. 5, von Amts wegen zuzustellen.
@@ -78,7 +80,7 @@ Den Parteien sind auf ihr Verlangen und auf ihre Kosten Ausfertigungen des Vergl
 `§ 207 (2) ZPO.`  
 Bei Streitverhandlungen, bei denen ein durch Urteilsvermerk (§ 418 Abs. 1) beurkundetes Versäumungsurteil gefällt wird, wird das Verhandlungsprotokoll durch den Urteilsvermerk ersetzt. Der Kläger kann gegen die Angaben des Urteilsvermerks Widerspruch im Sinne des § 210 einlegen.
 
-### § 208 ZPO # Inhalt des Verhandlungsprotokolls ZPO
+### § 208 ZPO # Inhalt des Verhandlungsprotokolls
 
 `§ 208 (1) ZPO.`  
 Das Protokoll hat außer den durch das Gesetz im einzelnen angeordneten Aufzeichnungen und Angaben jedenfalls zu enthalten:  
@@ -101,7 +103,7 @@ Das Gericht kann auf Antrag oder von Amts wegen anordnen, dass einzelne Teile de
 `§ 208 (5) ZPO.`  
 In der Verhandlung abgegebene Erklärungen und gestellte Anträge der Parteien sowie verkündete gerichtliche Entscheidungen können auch in besonderen Schriftstücken dem Protokoll als Anlagen beigefügt werden. In diesem Fall ist nur die Tatsache zu protokollieren, dass die Erklärung abgegeben, der Antrag gestellt oder die Entscheidung verkündet und dem Protokoll angefügt wurde.
 
-### § 209 ZPO # Protokollierung ZPO
+### § 209 ZPO # Protokollierung
 
 `§ 209 (1) ZPO.`  
 Die Protokollierung kann durch Diktat des die Verhandlung leitenden Richters unter Verwendung eines Tonträgers, Beiziehung eines Schriftführers oder durch eigenständige Aufzeichnung (Mitschrift) durch den die Verhandlung leitenden Richter oder einen Schriftführer erfolgen.
@@ -118,7 +120,7 @@ Von dem nicht in Vollschrift aufgenommenen Teil des Protokolls ist eine Übertra
 `§ 209 (5) ZPO.`  
 Die Übertragung in Vollschrift entfällt, wenn die Rechtssache durch Vergleich, Zurücknahme der Klage oder Anerkenntnis- oder Verzichtsurteil bei dieser Tagsatzung erledigt wird und die Parteien keine Ausfertigung des gesamten Protokolls beantragen. In einem solchen Fall sind entweder der Vergleich, die Erklärung der Zurücknahme der Klage, das Anerkenntnis oder der Verzicht in Vollschrift zu protokollieren oder diese Teile des Protokolls in Vollschrift zu übertragen und das Teilprotokoll den Parteien zuzustellen.
 
-### § 210 ZPO # Unrichtigkeiten des Protokolls, Widerspruch ZPO
+### § 210 ZPO # Unrichtigkeiten des Protokolls, Widerspruch
 
 `§ 210 (1) ZPO.`  
 Die Parteien haben spätestens am Ende der Tagsatzung auf jene Punkte aufmerksam zu machen, in welchen die im Protokoll enthaltene Darlegung des Verhandlungsinhalts dem tatsächlichen Verlauf und Inhalt der Verhandlung nicht entspricht. Das aufgenommene Protokoll ist den Parteien auf ihren Antrag vorzuspielen oder zur Durchsicht vorzulegen oder vorzulesen. Eine dem Gericht notwendig scheinende Richtigstellung des Protokollinhalts hat durch Ausbesserung des Protokolls zu geschehen. Spricht sich eine Partei gegen die Berichtigung aus, so hat das Gericht hierüber einen Beschluss zu fassen. Bleiben die Erklärungen der Parteien unberücksichtigt, so kann gegen die bezüglichen Angaben des Verhandlungsprotokolls Widerspruch eingelegt werden. Die konkreten Einwendungen gegen die Protokollierung sind im Protokoll festzuhalten. Bei Vertretung durch einen Rechtsanwalt kann vom Gericht angeordnet werden, dass der Widerspruch vom Rechtsanwalt schriftlich abgefasst wird; er wird dem Protokoll als Anhang beigefügt.
@@ -135,7 +137,7 @@ Offenbare Unrichtigkeiten der Aufnahme oder der Übertragung des Protokolls kön
 `§ 210 (5) ZPO.`  
 Gegen die die Protokollierung betreffenden Beschlüsse und Verfügungen ist ein abgesondertes Rechtsmittel nicht zulässig.
 
-### § 211 ZPO # Beweiskraft des Protokolls ZPO
+### § 211 ZPO # Beweiskraft des Protokolls
 
 `§ 211 (1) ZPO.`  
 Soweit nicht ein ausdrücklicher Widerspruch einer Partei vorliegt, liefert das in Entsprechung der vorstehenden Vorschriften errichtete Protokoll über den Verlauf und Inhalt der Verhandlung vollen Beweis.
@@ -146,12 +148,12 @@ Die Beobachtung der für die mündliche Verhandlung vorgeschriebenen Förmlichke
 `§ 211 (3) ZPO.`  
 Die Beweiskraft der protokollarischen Beurkundung wird durch einen Wechsel in der Person des Richters nicht berührt.
 
-### § 212 ZPO # Außerhalb einer Verhandlung aufgenommene Protokolle ZPO
+### § 212 ZPO # Außerhalb einer Verhandlung aufgenommene Protokolle
 
 `§ 212 ZPO.`  
 Die vorstehenden Bestimmungen dieses Titels gelten auch für Protokolle, die außerhalb einer mündlichen Verhandlung aufgenommen werden.
 
-### § 213 ZPO # Bedeutung des Protokollinhalts ZPO
+### § 213 ZPO # Bedeutung des Protokollinhalts
 
 `§ 213 ZPO.`  
 Der Inhalt des Verhandlungsprotokolls, des im Laufe eines Rechtsstreites durch einen beauftragten oder ersuchten Richter aufgenommenen Protokolls und des außerhalb einer Verhandlung aufgenommenen Protokolls samt deren jeweiligen Anlagen, die dem erkennenden Gericht vorliegen, sind von Amts wegen zu beachten.
@@ -287,4 +289,4 @@ Das Fehlen der inländischen Gerichtsbarkeit, sofern es nicht geheilt ist (§ 1
 `§ 230a ZPO.`  
 Wird die sachliche oder örtliche Unzuständigkeit des angerufenen Gerichts ausgesprochen und die Klage zurückgewiesen, ohne daß der Kläger Gelegenheit hatte, einen Überweisungsantrag nach § 261 Abs. 6 zu stellen, und beantragt der Kläger binnen der Notfrist von vierzehn Tagen nach der Zustellung dieses Beschlusses die Überweisung der Klage an ein anderes Gericht, so hat das ursprünglich angerufene Gericht die Zurückweisung aufzuheben und die Klage dem vom Kläger namhaft gemachten Gericht zu überweisen, wenn es das andere Gericht nicht für offenbar unzuständig erachtet. Gegen diesen Beschluß ist, mit Ausnahme der Entscheidung über die Kosten eines allfälligen Zuständigkeitsstreites, ein Rechtsmittel nicht zulässig. Die Gerichtsanhängigkeit wird durch diese Überweisung nicht aufgehoben. Das Gericht, an das die Klage überwiesen worden ist, kann einen Mangel seiner Zuständigkeit nur noch wahrnehmen, wenn der Beklagte rechtzeitig die Einrede der Unzuständigkeit erhebt.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.008](BG.ZPO.008.md))*

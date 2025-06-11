@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.022](BG.StPO.022.md))*
 
 ## 2. Abschnitt # Verfahren zur Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 22 StGB oder in einer Anstalt für gefährliche Rückfallstäter nach § 23 StGB und zur Verhängung eines Tätigkeitsverbotes nach § 220b StGB
 
@@ -345,4 +347,4 @@ Gegen die Urteile der Landesgerichte über eine gemäß den §§ 463, 464 und 4
 `§ 480 StPO.`  
 Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16. Hauptstück enthaltenen Bestimmungen. In den Fällen der §§ 352 bis 356 entscheidet das Bezirksgericht über die Bewilligung der Wiederaufnahme.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.024](BG.StPO.024.md))*

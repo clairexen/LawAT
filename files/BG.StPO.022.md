@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.021](BG.StPO.021.md))*
 
 ## 20. Hauptstück # Verfahren gegen Abwesende
 
@@ -193,4 +195,4 @@ Zugleich legt das Gericht mit Beschluss die Bedingungen für das vorläufige Abs
 `§ 434g (7) StPO.`  
 Wird eine Bedingung festgelegt, die die Interessen des Opfers unmittelbar berührt, so ist das Opfer über deren Inhalt und ihre Bedeutung zu verständigen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.023](BG.StPO.023.md))*

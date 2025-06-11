@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.002](BG.ZPO.002.md))*
 
 ## Siebenter Titel # Verfahrenshilfe
 
@@ -301,4 +303,4 @@ Enthält ein Schriftsatz beleidigende Äußerungen im Sinn des § 86, so ist er
 `§ 86a (2) ZPO.`  
 Besteht ein Schriftsatz aus verworrenen, unklaren, sinn- oder zwecklosen Ausführungen und lässt er das Begehren nicht erkennen, oder erschöpft er sich in der Wiederholung bereits erledigter Streitpunkte oder schon vorgebrachter Behauptungen, so ist er ohne Verbesserungsversuch zurückzuweisen. Abs. 1 zweiter bis vierter Satz sind mit der Maßgabe sinngemäß anzuwenden, dass der Hinweis in den Zurückweisungsbeschluss aufzunehmen ist.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.004](BG.ZPO.004.md))*

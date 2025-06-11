@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.025](BG.ABGB.025.md))*
 
 ## Insbesondere
 
@@ -285,4 +287,4 @@ Wer verbunden ist, eine Sicherstellung zu leisten, muß diese Verbindlichkeit du
 `§ 1374 ABGB.`  
 Niemand ist verpflichtet, eine Sache, die zur Sicherstellung dienen soll, in einem höheren Wert als der Hälfte ihres Verkehrswertes zum Pfand anzunehmen. Wer ein angemessenes Vermögen besitzt und im Inland geklagt werden kann, ist ein tauglicher Bürge.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.027](BG.ABGB.027.md))*

@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.011](BG.StPO.011.md))*
 
 ## 4. Abschnitt # Vollzug der Untersuchungshaft
 
@@ -256,4 +258,4 @@ Von der Abbrechung des Verfahrens gegen einen bekannten Täter und von der Forts
 `§ 197 (4) StPO.`  
 Einem abwesenden oder flüchtigen Beschuldigten, der freiwillig erklärt, sich dem Verfahren stellen zu wollen, kann sicheres Geleit vom Bundesministerium für Justiz nach Stellungnahme der Oberstaatsanwaltschaft, in deren Sprengel die zuständige Staatsanwaltschaft ihren Sitz hat, allenfalls gegen Sicherheitsleistung sowie gegen Ablegung der im § 173 Abs. 5 Z 1 und 2 erwähnten Gelöbnisse mit der Wirkung erteilt werden, dass der Beschuldigte wegen der Straftat, für die das sichere Geleit erteilt wurde, bis zur Urteilsfällung in erster Instanz von der Haft befreit bleiben soll. Für die Sicherheitsleistung, ihren Verfall und den Verlust der Wirkung des sicheren Geleits gilt § 180 sinngemäß.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.013](BG.StPO.013.md))*

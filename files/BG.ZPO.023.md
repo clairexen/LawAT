@@ -4,11 +4,13 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.022](BG.ZPO.022.md))*
 
 ## Achter Titel
 
-### § 614 ZPO # Anerkennung und Vollstreckbarerklärung ausländischer Schiedssprüche ZPO
+### § 614 ZPO # Anerkennung und Vollstreckbarerklärung ausländischer Schiedssprüche
 
 `§ 614 (1) ZPO.`  
 Die Anerkennung und Vollstreckbarerklärung ausländischer Schiedssprüche richten sich nach den Bestimmungen der Exekutionsordnung, soweit nicht nach Völkerrecht oder in Rechtsakten der Europäischen Union anderes bestimmt ist. Das Formerfordernis für die Schiedsvereinbarung gilt auch dann als erfüllt, wenn die Schiedsvereinbarung sowohl den Formvorschriften des § 583 als auch den Formvorschriften des auf die Schiedsvereinbarung anwendbaren Rechts entspricht.
@@ -18,12 +20,12 @@ Die Vorlage der Urschrift oder einer beglaubigten Abschrift der Schiedsvereinbar
 
 ## Neunter Titel # Gerichtliches Verfahren
 
-### § 615 ZPO # Zuständigkeit ZPO
+### § 615 ZPO # Zuständigkeit
 
 `§ 615 ZPO.`  
 Für die Klage auf Aufhebung eines Schiedsspruchs und die Klage auf Feststellung des Bestehens oder Nichtbestehens eines Schiedsspruchs sowie für Verfahren in Angelegenheiten nach dem dritten Titel ist der Oberste Gerichtshof zuständig.
 
-### § 616 ZPO # Verfahren ZPO
+### § 616 ZPO # Verfahren
 
 `§ 616 (1) ZPO.`  
 Das Verfahren über die Klage auf Aufhebung eines Schiedsspruchs und die Klage auf Feststellung des Bestehens oder Nichtbestehens eines Schiedsspruchs richtet sich nach den Bestimmungen dieses Gesetzes über das Verfahren vor den Gerichtshöfen erster Instanz, das Verfahren in Angelegenheiten nach dem dritten Titel richtet sich nach den Bestimmungen des Außerstreitgesetzes über das Verfahren erster Instanz.
@@ -33,7 +35,7 @@ Auf Antrag einer Partei kann die Öffentlichkeit auch ausgeschlossen werden, wen
 
 ## Zehnter Titel # Sonderbestimmungen
 
-### § 617 ZPO # Konsumenten ZPO
+### § 617 ZPO # Konsumenten
 
 `§ 617 (1) ZPO.`  
 Schiedsvereinbarungen zwischen einem Unternehmer und einem Verbraucher können wirksam nur für bereits entstandene Streitigkeiten abgeschlossen werden.
@@ -72,7 +74,7 @@ Das Verfahren über die Klage auf Aufhebung eines Schiedsspruchs und die Klage a
 `§ 617 (11) ZPO.`  
 Auf Antrag einer Partei kann die Öffentlichkeit auch ausgeschlossen werden, wenn ein berechtigtes Interesse daran dargetan wird.
 
-### § 618 ZPO # Arbeitsrechtssachen ZPO
+### § 618 ZPO # Arbeitsrechtssachen
 
 `§ 618 ZPO.`  
 Für Schiedsverfahren in Arbeitsrechtssachen nach § 50 Abs. 1 ASGG gilt § 617 Abs. 2 bis Abs. 8 und Abs. 10 und 11 sinngemäß, wobei an die Stelle der die Gerichtsbarkeit in bürgerlichen Rechtssachen ausübenden Landesgerichte die Landesgerichte als Arbeits- und Sozialgerichte treten, an die Stelle des Handelsgerichts Wien das Arbeits- und Sozialgericht Wien; das Verfahren über die Klage auf Aufhebung eines Schiedsspruchs und die Klage auf Feststellung des Bestehens oder Nichtbestehens eines Schiedsspruchs richtet sich nach den Bestimmungen des Arbeits- und Sozialgerichtsgesetzes. Der Oberste Gerichtshof entscheidet durch einen nach den Grundsätzen der §§ 10 ff. ASGG zusammengesetzten Senat.
@@ -125,12 +127,12 @@ Zur Sicherung des Unterlassungsanspruchs gemäß § 5 Abs. 1 QEG können einst
 
 ## Zweiter Titel # Verbandsklage auf Abhilfe
 
-### § 623 ZPO # Anwendungsbereich ZPO
+### § 623 ZPO # Anwendungsbereich
 
 `§ 623 ZPO.`  
 Die Bestimmungen dieses Titels sind anzuwenden, wenn eine Qualifizierte Einrichtung eine Verbandsklage auf Abhilfe gemäß § 5 Abs. 3 Z 1 lit b und Z 2 QEG gegen einen Unternehmer erhebt.
 
-### § 624 ZPO # Verbandsklage auf Abhilfe ZPO
+### § 624 ZPO # Verbandsklage auf Abhilfe
 
 `§ 624 (1) ZPO.`  
 Die Klage hat ein bestimmtes Begehren auf Abhilfe von zumindest 50 Verbrauchern auf Grund von im Wesentlichen gleichartigen Sachverhalten gegen denselben Unternehmer zu enthalten, das von der Qualifizierten Einrichtung geltend gemacht wird, und die Tatsachen, auf welche sich die Ansprüche in Haupt- und Nebensachen gründen, im Einzelnen kurz und vollständig anzugeben.
@@ -147,12 +149,12 @@ Die Klage muss vom Satzungszweck der Qualifizierten Einrichtung umfasst sein. In
 `§ 624 (5) ZPO.`  
 In einem Verfahren über eine Verbandsklage auf Abhilfe reicht es aus, wenn in der Klage oder der Beitrittserklärung die Ansprüche soweit substantiiert sind, dass diejenigen Tatsachen und Beweisanbote enthalten sind, die der Qualifizierten Einrichtung mit zumutbarem Aufwand zugänglich sind und die die Plausibilität der Ansprüche ausreichend stützen.
 
-### § 625 ZPO # Prüfung der Verbandsklage auf Abhilfe ZPO
+### § 625 ZPO # Prüfung der Verbandsklage auf Abhilfe
 
 `§ 625 ZPO.`  
 Die Behandlung von Prozesseinreden gegen Einzelansprüche kann zurückgestellt werden, solange durch die begehrte Entscheidung die nötige Anzahl an Verbrauchern nicht berührt ist und wenn die Entscheidung über die Durchführung eines Verbandsklageverfahrens schon vorher spruchreif ist.
 
-### § 626 ZPO # Entscheidung über die Durchführung eines Verbandsklageverfahrens auf Abhilfe ZPO
+### § 626 ZPO # Entscheidung über die Durchführung eines Verbandsklageverfahrens auf Abhilfe
 
 `§ 626 (1) ZPO.`  
 Das Fehlen einer allgemeinen oder besonderen Voraussetzung für das Verbandsklageverfahren hat das Gericht von Amts wegen oder auf Einrede durch Zurückweisung der Klage wahrzunehmen. Andernfalls hat es die Durchführung des Verfahrens mit Beschluss anzuordnen. Über die Ansprüche auf Abhilfe einzelner Verbraucher ist erst nach Rechtskraft der Entscheidung über allfällige Zwischenfeststellungsanträge zu entscheiden.
@@ -160,7 +162,7 @@ Das Fehlen einer allgemeinen oder besonderen Voraussetzung für das Verbandsklag
 `§ 626 (2) ZPO.`  
 Wird die Durchführung des Verfahrens angeordnet, so ist in dem Beschluss auch auszusprechen, welche Streitpunkte zunächst gemeinsam verhandelt und vorweg entschieden werden sollen.
 
-### § 627 ZPO # Veröffentlichung der Entscheidung ZPO
+### § 627 ZPO # Veröffentlichung der Entscheidung
 
 `§ 627 (1) ZPO.`  
 Das Gericht hat die Entscheidung über die Durchführung eines Verbandsklageverfahrens nach ihrer Rechtskraft in der Ediktsdatei zu veröffentlichen.
@@ -184,7 +186,7 @@ zu veröffentlichen.
 `§ 627 (3) ZPO.`  
 Die Veröffentlichungen sind von Amts wegen zu löschen, wenn seit ihrer Aufnahme in die Ediktsdatei vier Monate vergangen sind.
 
-### § 628 ZPO # Beitritt ZPO
+### § 628 ZPO # Beitritt
 
 `§ 628 (1) ZPO.`  
 Einer Verbandsklage auf Abhilfe kann jeder Verbraucher im Wege der Qualifizierten Einrichtung beitreten, dessen Anspruch auf einem im Wesentlichen gleichartigen Sachverhalt beruht und für den dieselben Tatfragen entscheidungserheblich sind. Der Beitritt kann von der Qualifizierten Einrichtung ohne Angabe von Gründen abgelehnt werden.
@@ -201,7 +203,7 @@ Der Beitritt hat die Wirkung, dass der Anspruch, mit dem ein Verbraucher der Ver
 `§ 628 (5) ZPO.`  
 Eine Zurücknahme des Beitritts ist unzulässig.
 
-### § 629 ZPO # Besondere Bestimmungen zur Prozessfähigkeit der Qualifizierten Einrichtung ZPO
+### § 629 ZPO # Besondere Bestimmungen zur Prozessfähigkeit der Qualifizierten Einrichtung
 
 `§ 629 (1) ZPO.`  
 Ergeben sich in einem Verbandsklageverfahren auf Abhilfe Bedenken, ob eine Qualifizierte Einrichtung die für sie vorgeschriebenen Kriterien einhält, so hat das Gericht diese Bedenken an die zuständige Aufsicht weiterzuleiten.
@@ -215,7 +217,7 @@ Wird der klagenden Qualifizierten Einrichtung die Anerkennung als Qualifizierte 
 `§ 629 (4) ZPO.`  
 Mit Beendigung des Verfahrens gemäß Abs. 3 endet die Streitanhängigkeit der Ansprüche der dem Verfahren beigetretenen Verbraucher und die Hemmung der Verjährung dieser Ansprüche.
 
-### § 630 ZPO # Besondere Bestimmungen über Zuständigkeit und Gerichtsbesetzung ZPO
+### § 630 ZPO # Besondere Bestimmungen über Zuständigkeit und Gerichtsbesetzung
 
 `§ 630 (1) ZPO.`  
 Für die Durchführung des Verbandsklageverfahrens auf Abhilfe ist in erster Instanz ohne Rücksicht auf den Wert des Streitgegenstands ausschließlich das Handelsgericht Wien zuständig. In diesen Rechtssachen kommt dem Handelsgericht Wien auch die ausschließliche Zuständigkeit für einstweilige Verfügungen zu.
@@ -226,7 +228,7 @@ Die Änderung dieses Gerichtsstands durch Vereinbarung der Parteien ist unzuläs
 `§ 630 (3) ZPO.`  
 Im Verbandsklageverfahren auf Abhilfe sind § 7 Abs. 2 erster Satz und § 8 Abs. 2 JN nicht anzuwenden.
 
-### § 631 ZPO # Besondere Bestimmungen über den Vergleich ZPO
+### § 631 ZPO # Besondere Bestimmungen über den Vergleich
 
 `§ 631 (1) ZPO.`  
 Ein Vergleich zwischen der Qualifizierten Einrichtung und der beklagten Partei muss zu seiner Wirksamkeit vom Gericht bestätigt werden.
@@ -240,17 +242,17 @@ Ein gerichtlich bestätigter Vergleich bindet auch die beigetretenen Verbraucher
 `§ 631 (4) ZPO.`  
 Die durch einen Vergleich erwirkte Abhilfe erfolgt unbeschadet etwaiger weiterer den Verbrauchern gemäß dem Unionsrecht oder dem nationalen Recht zustehender Abhilfe, die nicht Gegenstand dieses Vergleichs war.
 
-### § 632 ZPO # Besondere Bestimmungen über den Kostenersatz ZPO
+### § 632 ZPO # Besondere Bestimmungen über den Kostenersatz
 
 `§ 632 ZPO.`  
 Hat ein Verbraucher, der dem Verfahren beigetreten ist, durch Vorsatz Verfahrenskosten verursacht, so kann das Gericht auf Antrag einer Partei aussprechen, dass der Verbraucher für diese Verfahrenskosten solidarisch mit jener Partei haftet, die zu ihrem Ersatz verurteilt wird. Dieser Antrag ist spätestens mit der Vorlage des Kostenverzeichnisses zu stellen, das die betreffenden Kosten enthält.
 
-### § 633 ZPO # Besonderheiten der Entscheidung ZPO
+### § 633 ZPO # Besonderheiten der Entscheidung
 
 `§ 633 ZPO.`  
 Wenn das Gericht in einem Urteil oder in einem Beschluss der beklagten Partei die Verpflichtung zu einer Leistung auferlegt, so hat es zugleich auszusprechen, dass schuldbefreiend nur an die Qualifizierte Einrichtung geleistet werden kann, wenn und soweit diese das bis zum Schluss der mündlichen Verhandlung erster Instanz beantragt hat.
 
-### § 634 ZPO # Veröffentlichungen ZPO
+### § 634 ZPO # Veröffentlichungen
 
 `§ 634 (1) ZPO.`  
 Das Gericht hat die Entscheidungen über  
@@ -267,9 +269,9 @@ in der Ediktsdatei zu veröffentlichen.
 `§ 634 (2) ZPO.`  
 Das Gericht kann über Abs. 1 hinaus auch weitere Entscheidungen oder Informationen im Verbandsklageverfahren auf Abhilfe in der Ediktsdatei veröffentlichen, wenn der Zweck des Verfahrens dies erfordert.
 
-### § 635 ZPO # Verjährung ZPO
+### § 635 ZPO # Verjährung
 
 `§ 635 ZPO.`  
 Der Beitritt eines Verbrauchers zu einer Verbandsklage auf Abhilfe hemmt die Verjährung des im Beitritt geltend gemachten Anspruchs. Der Beitritt hemmt den Ablauf von Verjährungsfristen rückwirkend mit dem Zeitpunkt der Einbringung der Verbandsklage auf Abhilfe bei Gericht. Nach Zurückweisung einer Verbandsklage auf Abhilfe verbleibt einem Verbraucher, der mit einem Anspruch bereits beigetreten war, jedenfalls noch eine Frist von drei Monaten ab Rechtskraft der Zurückweisungsentscheidung, um den Anspruch in einem Einzelverfahren oder durch Beitritt zu einer Verbandsklage geltend machen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.024](BG.ZPO.024.md))*

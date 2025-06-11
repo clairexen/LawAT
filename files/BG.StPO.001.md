@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Inhaltsverzeichnis: [BG.StPO.toc](BG.StPO.toc.md))*
 
 ## 1. Teil # Allgemeines und Grundsätze des Verfahrens # 1. Hauptstück # Das Strafverfahren und seine Grundsätze
 
@@ -335,4 +337,4 @@ Nach Abs. 1 ist unter den dort beschriebenen Umständen auch vorzugehen, wenn d
 `§ 28a StPO.`  
 Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen WKStA und anderen Staatsanwaltschaften gemäß § 28 zu entscheiden, welchen von ihnen die Zuständigkeit zukommt. Gleiches gilt für den Fall, dass der WKStA ein Verfahren aus den in § 28 Abs. 1 oder Abs. 2 genannten Gründen abgenommen werden soll.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.002](BG.StPO.002.md))*

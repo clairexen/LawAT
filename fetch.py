@@ -19,6 +19,7 @@ useHeadlessMode = True
 printHttpRequests = False
 launchInteractiveRepl = False
 launchEarlyInteractiveRepl = False
+deleteOldObjects = False
 
 defaultNorm = "BG.StGB"
 selectParagraph = None
@@ -129,13 +130,16 @@ filePatterns = [
     f"{normkey}.[0-9][0-9][0-9].md",
     f"{normkey}.toc.json",
     f"{normkey}.toc.md",
-    f"{normkey}.obj.*"
 ]
+if deleteOldObjects:
+    filePatterns.append(f"{normkey}.obj.*")
 if selectParagraph is None:
     os.system(f"""
         mkdir -p files
         rm -vf files/{' files/'.join(filePatterns)}
     """)
+if not deleteOldObjects:
+    filePatterns.append(f"{normkey}.obj.*")
 
 
 #%% Initialize Browser Context
@@ -219,9 +223,12 @@ def processContentElement(el, outbuf, parName = None):
 
     def handleParHeader():
         nonlocal parName, txt
-        if txt.startswith("§") and "." in txt:
-            parName = txt.split(".", 1)[0].replace("\xa0", " ") + f" {normdata['title']}"
-            txt = f"{parName} # {txt.split('.', 1)[1]}"
+        if txt.startswith("§"):
+            parName = txt.split()[:2]
+            for p in parName:
+                txt = txt.removeprefix(p).lstrip()
+            parName = " ".join(parName).replace(".", "") + f" {normdata['title']}"
+            txt = f"{parName} # {txt}" if txt != "" else parName
         outbuf.append("")
         outbuf.append(f"### {txt}")
 

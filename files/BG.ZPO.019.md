@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.018](BG.ZPO.018.md))*
 
 ## Verfahren bei dem Recursgerichte.
 
@@ -63,8 +65,7 @@ Findet das Rekursgericht, daß ein gegen den Beschluß eines Gerichts zweiter In
 `§ 528a ZPO.`  
 Auf die Entscheidungen des Obersten Gerichtshofs über Rekurse ist auch der § 510 Abs. 1 letzter Satz und Abs. 3 sinngemäß anzuwenden.
 
-## Vierter Abschnitt
-**FIXME** H4: <h4 class="UeberschrG1- AlignCenter">Parteiantrag auf Prüfung der Gesetzmäßigkeit von Verordnungen und Kundmachungen über die Wiederverlautbarung eines Gesetzes (Staatsvertrages), der Verfassungsmäßigkeit von Gesetzen und der Rechtmäßigkeit von Staatsverträgen</h4>
+## Vierter Abschnitt # Parteiantrag auf Prüfung der Gesetzmäßigkeit von Verordnungen und Kundmachungen über die Wiederverlautbarung eines Gesetzes (Staatsvertrages), der Verfassungsmäßigkeit von Gesetzen und der Rechtmäßigkeit von Staatsverträgen
 
 ### § 528b ZPO
 
@@ -253,4 +254,4 @@ Sofern nicht nach den vorstehenden Bestimmungen infolge Einbringung der Wiederau
 `§ 547 (2) ZPO.`  
 Auf die Vollstreckbarkeit einer angefochtenen rechtskräftigen Entscheidung ist die Einbringung einer Nichtigkeitsklage oder einer Wiederaufnahmsklage ohne Einfluss.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.020](BG.ZPO.020.md))*

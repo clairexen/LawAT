@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.010](BG.ZPO.010.md))*
 
 ## Echtheitsbeweis.
 
@@ -252,4 +254,4 @@ Wenn die Vernehmung eines Zeugen vergeblich versucht wurde und zu besorgen ist, 
 `§ 335 (2) ZPO.`  
 In Betreff der nachträglichen Vernehmung des Zeugen hat die Vorschrift des §. 279 Absatz 2, zu gelten.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.012](BG.ZPO.012.md))*

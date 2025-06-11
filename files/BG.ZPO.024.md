@@ -4,11 +4,13 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.023](BG.ZPO.023.md))*
 
 ## Siebenter Teil # Schlussbestimmungen
 
-### § 636 ZPO # In- und Außerkrafttreten; Übergangsbestimmungen ZPO
+### § 636 ZPO # In- und Außerkrafttreten; Übergangsbestimmungen
 
 `§ 636 (1) ZPO.`  
 Die §§ 502, 549 und die Änderungen der Abschnittsbezeichnungen in der Fassung des Bundesgesetzes BGBl. I Nr. 148/2020, treten mit 1. Jänner 2021 in Kraft. Die §§ 502 und 549 sind auf Klagen anzuwenden, die nach dem 31. Dezember 2020 eingebracht werden. § 502 Abs. 5 Z 5 in der Fassung des Bundesgesetzes 148/2020 tritt mit Ablauf des 31. Dezember 2030 außer Kraft und ist auf Verfahren, in denen die Klage nach dem 31. Dezember 2030 eingebracht wird, nicht mehr anzuwenden.
@@ -48,7 +50,7 @@ Die §§ 414, 417, 418 und 426 in der Fassung der ZVN 2022 sind auf Urteile anz
 `§ 636 (4) ZPO.`  
 Der Fünfte Abschnitt des Sechsten Theils, die Überschrift des Siebenden Teils, Bezeichnung und Überschrift des § 636 sowie § 637 samt Überschrift in der Fassung der Verbandsklagen-Richtlinie- Umsetzungs-Novelle, BGBl. I Nr. 85/2024, treten mit dem auf die Kundmachung folgenden Tag in Kraft. Der Fünfte Abschnitt des Sechsten Theils ist auf Verfahren anzuwenden, in denen die Klage nach dem Tag der Kundmachung eingebracht wird. Mit dieser Novelle wird die Richtlinie 2020/1828/EU des Europäischen Parlaments und des Rates über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG, ABl. Nr. L 409 vom 4. Dezember 2022 S. 1, umgesetzt
 
-### § 637 ZPO # Umsetzungshinweise ZPO
+### § 637 ZPO # Umsetzungshinweise
 
 `§ 637 ZPO.`  
 Mit der Verbandsklagen-Richtlinie-Umsetzungs-Novelle, BGBl. I Nr. 85/2024, wird die Richtlinie 2020/1828/EU des Europäischen Parlaments und des Rates über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG, ABl. Nr. L 409 vom 4. Dezember 2022 S. 1 umgesetzt.

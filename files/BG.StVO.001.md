@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Inhaltsverzeichnis: [BG.StVO.toc](BG.StVO.toc.md))*
+
 Der Nationalrat hat beschlossen:
 
 ## I. ABSCHNITT. # Allgemeines.

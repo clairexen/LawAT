@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.007](BG.StPO.007.md))*
 
 ## 2. Abschnitt # Identitätsfeststellung, Durchsuchung von Orten und Gegenständen, Durchsuchung von Personen, körperliche Untersuchung und molekulargenetische Untersuchung
 
@@ -227,4 +229,4 @@ Im Fall einer Beauftragung einer Universitätseinheit hat die Leitung dieser Ein
 `§ 128 (3) StPO.`  
 Wenn dies zur Aufklärung einer Straftat erforderlich ist, ist auch die Exhumierung einer Leiche zum Zweck einer Obduktion (Abs. 2) zulässig. Sie ist von der Staatsanwaltschaft anzuordnen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.009](BG.StPO.009.md))*

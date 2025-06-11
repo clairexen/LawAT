@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.014](BG.ZPO.014.md))*
 
 ## Berichtigung des Urtheiles.
 
@@ -121,7 +123,7 @@ Wer eine Klage zu erheben beabsichtigt, ist berechtigt, vor deren Einbringung be
 `§ 433 (2) ZPO.`  
 Gegen die Entscheidung über einen solchen Antrag ist ein Rechtsmittel nicht zulässig.
 
-### § 433a ZPO # Mediationsvergleich und Vergleiche nach dem Alternative-Streitbeilegung-Gesetz ZPO
+### § 433a ZPO # Mediationsvergleich und Vergleiche nach dem Alternative-Streitbeilegung-Gesetz
 
 `§ 433a ZPO.`  
 Über den Inhalt der in einem Mediationsverfahren oder in einem Schlichtungsverfahren über Verbraucherstreitigkeiten nach dem Alternative-Streitbeilegung-Gesetz, BGBl. I Nr. 105/2015, über eine Zivilsache erzielten schriftlichen Vereinbarung kann vor jedem Bezirksgericht ein gerichtlicher Vergleich geschlossen werden.
@@ -245,4 +247,4 @@ Der Richter kann während der Verhandlung die Anwendung einer oder mehrerer der 
 ### § 459 ZPO
 Die Entscheidung hat sogleich nach geschlossener Verhandlung mittels Beschlusses (Endbeschluss) zu erfolgen und sich darauf zu beschränken, eine einstweilige Norm für den thatsächlichen Besitzstand aufzustellen oder provisorisch nach dem Gesetze (§§. 340 bis 343a. b. G. B.) eine Untersagung oder Sicherstellung auszusprechen. Die spätere gerichtliche Geltendmachung des Rechtes zum Besitze und der davon abhängigen Ansprüche wird dadurch nicht gehindert. In der Begründung des Beschlusses ist auch eine gedrängte Darstellung des Sachverhaltes zu geben. Die Frist zur Erfüllung der dem Verurtheilten auferlegten Verbindlichkeit hat der Richter nach den Umständen des einzelnen Falles zu bestimmen. Der § 417 a gilt sinngemäß.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.016](BG.ZPO.016.md))*

@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.016](BG.ZPO.016.md))*
 
 ## Anberaumung der Berufungsverhandlung.
 
@@ -265,4 +267,4 @@ Das Revisionsgericht überprüft das Urtheil des Berufungsgerichtes innerhalb de
 `§ 504 (2) ZPO.`  
 Neue thatsächliche Behauptungen oder Beweise können in der Revisionsinstanz nur zur Unterstützung oder Bekämpfung der Behauptung vorgebracht werden, dass das Urtheil des Berufungsgerichtes wegen eines der im §. 477 bezeichneten Mängel nichtig sei, oder dass das Berufungsverfahren an einem Mangel leide, welcher die erschöpfende Erörterung und gründliche Beurtheilung der Streitsache zu hindern vermochte.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.018](BG.ZPO.018.md))*

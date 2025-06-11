@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.019](BG.ZPO.019.md))*
 
 ## Sechster Theil. # Besondere Arten des Verfahrens. # Erster Abschnitt # Europäisches Bagatellverfahren
 
@@ -27,7 +29,7 @@ Das für das Europäische Bagatellverfahren zuständige Gericht erster Instanz i
 
 ## Zweiter Abschnitt # Mandatsverfahren
 
-### § 549 ZPO # Verfahren wegen erheblicher Verletzung von Persönlichkeitsrechten in einem elektronischen Kommunikationsnetz ZPO
+### § 549 ZPO # Verfahren wegen erheblicher Verletzung von Persönlichkeitsrechten in einem elektronischen Kommunikationsnetz
 
 `§ 549 (1) ZPO.`  
 In Rechtstreitigkeiten über Klagen, in denen ausschließlich Ansprüche auf Unterlassung wegen einer erheblichen, eine natürliche Person in ihrer Menschenwürde beeinträchtigenden Verletzung von Persönlichkeitsrechten in einem elektronischen Kommunikationsnetz geltend gemacht werden, hat das Gericht auf Antrag der klagenden Partei ohne vorhergehende mündliche Verhandlung und ohne Vernehmung der beklagten Partei einen Unterlassungsauftrag zu erlassen, wenn sich der behauptete Anspruch aus den Angaben in der Klage schlüssig ableiten lässt. Der Klage ist ein Nachweis aus dem elektronischen Kommunikationsnetz anzuschließen, der die rechtsverletzenden Inhalte darstellt oder ersichtlich macht.
@@ -226,4 +228,4 @@ Gegen die gerichtlichen Aufträge zur Übergabe oder Übernahme des Bestandgegen
 `§ 575 (3) ZPO.`  
 Eine gerichtliche Kündigung oder ein Auftrag zur Übergabe oder Übernahme des Bestandgegenstandes, wider welche nicht rechtzeitig Einwendungen erhoben wurden, desgleichen die über solche Einwendungen ergangenen rechtskräftigen Urtheile treten, vorbehaltlich des über den Kostenersatz ergangenen Ausspruches, außer Kraft, wenn nicht binnen sechs Monaten nach dem Eintritte der in diesen Aufträgen oder im Urtheile für die Räumung oder Übernahme des Bestandgegenstandes bestimmten Zeit wegen dieser Räumung oder Übernahme Execution beantragt wird.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.021](BG.ZPO.021.md))*

@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.015](BG.ABGB.015.md))*
 
 ## II. Ausschluss von der Pflichtteilsberechtigung
 
@@ -346,4 +348,4 @@ Der Verstorbene kann letztwillig einen Vollstrecker seines letzten Willens ernen
 `§ 817 ABGB.`  
 Ist kein Testamentsvollstrecker ernannt oder nimmt dieser seine Ernennung nicht an, so hat der Erbe dem Gericht nachzuweisen, dass er den Willen des Verstorbenen möglichst erfüllt oder Sicherheit geleistet hat.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.017](BG.ABGB.017.md))*

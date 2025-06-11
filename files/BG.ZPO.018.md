@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.017](BG.ZPO.017.md))*
 
 ## Erhebung der Revision.
 
@@ -285,4 +287,4 @@ Gleiche Befugnis steht dem Vorsteher des Gerichtes, dem Vorsitzenden des Senates
 ### § 525 ZPO
 Insofern im Verfahren über eine Klage wegen Störung des Besitzstandes die während der Verhandlung getroffenen einstweiligen Vorkehrungen durch die Vollstreckung des Endbeschlusses nicht berührt werden, hat der Richter erster Instanz nach seinem Ermessen zu bestimmen, ob dieselben während der Anhängigkeit des Recurses fortdauern sollen oder schon vor Erledigung des Recurses aufzuheben seien.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.019](BG.ZPO.019.md))*

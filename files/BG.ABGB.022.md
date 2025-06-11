@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.021](BG.ABGB.021.md))*
 
 ## 5) Auflösung des Bestandvertrages:
 
@@ -368,4 +370,4 @@ Was jemand wissentlich zur Bewirkung einer unmöglichen oder unerlaubten Handlun
 `§ 1174 (2) ABGB.`  
 Ein zum Zweck eines verbotenen Spieles gegebenes Darlehen kann nicht zurückgefordert werden.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.023](BG.ABGB.023.md))*

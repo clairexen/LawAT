@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.013](BG.ZPO.013.md))*
 
 ## Urtheil auf Grund von Verzicht.
 
@@ -250,4 +252,4 @@ Der Auszug eines Urtheiles muss nebst dem Urtheilsspruche auch die in §. 417, Z
 `§ 418 (3) ZPO.`  
 Vor Zustellung der schriftlichen Urtheilsausfertigungen an die Parteien können Auszüge und Abschriften des Urtheiles nicht ertheilt werden.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.015](BG.ZPO.015.md))*

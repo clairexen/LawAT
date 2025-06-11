@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.016](BG.StPO.016.md))*
 
 ## 1. Verfahren bei Nichtigkeitsbeschwerden
 
@@ -200,4 +202,4 @@ Die Bestimmung des § 290 Abs. 2 ist auch für das auf Grund der neuen Hauptve
 `§ 293 (4) StPO.`  
 Gegen dieses Urteil kann die Nichtigkeitsbeschwerde aus allen im § 281 erwähnten Gründen ergriffen werden, soweit diese nicht bereits durch eine in derselben Sache ergangene Entscheidung des Obersten Gerichtshofes beseitigt sind.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.018](BG.StPO.018.md))*

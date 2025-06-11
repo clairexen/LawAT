@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Inhaltsverzeichnis: [BG.ABGB.toc](BG.ABGB.toc.md))*
 
 ## Einleitung. # Von den bürgerlichen Gesetzen überhaupt.
 
@@ -340,4 +342,4 @@ Ansprüche auf Abgeltung der Mitwirkung eines Ehegatten im Erwerb des anderen (�
 `§ 100 ABGB.`  
 Der § 98 berührt nicht vertragliche Ansprüche eines Ehegatten an den anderen aus einem Mit- oder Zusammenwirken im Erwerb. Solche Ansprüche schließen einen Anspruch nach § 98 aus; bei einem Dienstverhältnis bleibt dem Ehegatten jedoch der Anspruch nach § 98 gewahrt, soweit er seine Ansprüche aus dem Dienstverhältnis übersteigt.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.002](BG.ABGB.002.md))*

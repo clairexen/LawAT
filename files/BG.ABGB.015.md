@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.014](BG.ABGB.014.md))*
 
 ## Dreizehntes Hauptstück # Von der gesetzlichen Erbfolge # I. Grundsätze
 
@@ -296,4 +298,4 @@ In besonders berücksichtigungswürdigen Fällen kann der in Abs. 2 genannte Ze
 `§ 768 ABGB.`  
 Das Gericht kann auf Antrag die Sicherstellung des Pflichtteilsanspruchs anordnen und bei einer erheblichen Änderung der Umstände eine Stundungsregelung ändern oder aufheben. Der Pflichtteilsschuldner und der Pflichtteilsberechtigte haben einander über eine wesentliche Änderung der Umstände unverzüglich zu informieren.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.016](BG.ABGB.016.md))*

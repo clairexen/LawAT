@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.004](BG.ZPO.004.md))*
 
 ## Gemeinsame Bestimmungen.
 
@@ -245,4 +247,4 @@ Das Ruhen des Verfahrens dauert so lange, bis von einer der Parteien die Anberau
 ### § 170 ZPO
 Wenn bei einer zur mündlichen Verhandlung anberaumten Tagsatzung keine der Parteien erscheint, hat dies, soweit nicht solches Ausbleiben nach den Bestimmungen dieses Gesetzes ohne Einfluss auf den Fortgang des Processes ist, das Ruhen des Verfahrens zur Folge. Die Wiedereinsetzung in den vorigen Stand ist nicht ausgeschlossen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.006](BG.ZPO.006.md))*

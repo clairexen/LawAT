@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.007](BG.ABGB.007.md))*
 
 ## Zweyter Theil # des # bürgerlichen Gesetzbuches. # Von dem Sachenrechte. # Von Sachen und ihrer rechtlichen Eintheilung.
 
@@ -319,4 +321,4 @@ Was in den vorhergehenden §§.in Rücksicht einer neuen Bauführung verordnet w
 `§ 343 ABGB.`  
 Kann der Besitzer eines dinglichen Rechtes beweisen, daß ein bereits vorhandener fremder Bau oder eine andere fremde Sache dem Einsturze nahe sey, und ihm offenbarer Schaden drohe; so ist er befugt, gerichtlich auf Sicherstellung zu dringen, wenn anders die politische Behörde nicht bereits hinlänglich für die öffentliche Sicherheit gesorgt hat.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.009](BG.ABGB.009.md))*

@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.014](BG.StPO.014.md))*
 
 ## 3. Beginn der Hauptverhandlung
 
@@ -335,4 +337,4 @@ Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen 
 `§ 267 StPO.`  
 An die Anträge des Anklägers ist das Schöffengericht nur insoweit gebunden, daß es den Angeklagten nicht einer Tat schuldig erklären kann, auf die die Anklage weder ursprünglich gerichtet noch während der Hauptverhandlung ausgedehnt wurde (§ 4 Abs. 3).
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.016](BG.StPO.016.md))*

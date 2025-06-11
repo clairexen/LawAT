@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.010](BG.ABGB.010.md))*
 
 ## Rechte und Verbindlichkeiten des Pfandgläubigers:
 
@@ -312,4 +314,4 @@ Wer das Recht hat, Wasser von fremdem Grunde auf den seinigen; oder von seinem G
 `§ 498 ABGB.`  
 Ist bey Erwerbung des Weiderechtes die Gattung und die Anzahl des Triebviehes; ferner, die Zeit und das Maß des Genusses nicht bestimmt worden; so ist der ruhige dreyßigjährige Besitz zu schützen. In zweifelhaften Fällen dienen folgende Vorschriften zur Richtschnur.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.012](BG.ABGB.012.md))*

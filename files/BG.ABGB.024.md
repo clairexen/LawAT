@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.023](BG.ABGB.023.md))*
 
 ## 4. Abschnitt # Gesellschafternachfolge
 
@@ -317,4 +319,4 @@ Wird eine Ehe für ungültig erklärt; so zerfallen auch die Ehe-Pacte; das Verm
 `§ 1266 ABGB.`  
 Im Fall einer Scheidung oder Aufhebung der Ehe mit gleichteiligem oder ohne Verschulden oder einer Scheidung im Einvernehmen sind die Ehepakte für beide Teile erloschen, sofern keine andere Vereinbarung getroffen wurde. Ansonsten gebührt dem schuldlosen oder minderschuldigen Ehegatten nicht nur volle Genugtuung, sondern ab dem Zeitpunkt der Scheidung alles dasjenige, was ihm in den Ehepakten auf den Fall des Überlebens bedungen worden ist. Das Vermögen, worüber eine Gütergemeinschaft bestanden hat, wird wie im Falle des Todes geteilt, und das Recht aus einem Erbvertrag bleibt dem Schuldlosen oder Minderschuldigen auf den Todesfall vorbehalten.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.025](BG.ABGB.025.md))*

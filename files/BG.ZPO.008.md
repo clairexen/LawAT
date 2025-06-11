@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.007](BG.ZPO.007.md))*
 
 ## Streitanhängigkeit.
 
@@ -200,7 +202,7 @@ An die Stelle der Zustellung der Klage tritt die Zustellung des Zahlungsbefehls,
 Ergeht ein Auftrag zur Verbesserung einer Eingabe (§ 84), weil sich der Kläger nicht des hiefür eingeführten Formblatts bedient hat, so ist diesem Auftrag das entsprechende Formblatt anzuschließen.
 (Anm.: Z 4 und 5 aufgehoben durch BGBl. I Nr. 128/2004)
 
-### § 252 ZPO # Europäisches Mahnverfahren ZPO
+### § 252 ZPO # Europäisches Mahnverfahren
 
 `§ 252 (1) ZPO.`  
 Soweit die Verordnung (EG) Nr. 1896/2006 zur Einführung eines Europäischen Mahnverfahrens, ABl. Nr. L 399 vom 30.12.2006 S. 1, nicht anderes anordnet, sind die für den jeweiligen Verfahrensgegenstand geltenden Verfahrensvorschriften anzuwenden.
@@ -225,7 +227,7 @@ Wird der Antrag nach Art. 10 der Verordnung geändert, so gilt er für den verb
 
 ## Mündliche Streitverhandlung. (Anm. 1)
 
-### § 257 ZPO # Einleitung der Streitverhandlung ZPO
+### § 257 ZPO # Einleitung der Streitverhandlung
 
 `§ 257 (1) ZPO.`  
 Nach rechtzeitiger Überreichung der Klagebeantwortung oder Erhebung des Einspruchs hat der Vorsitzende des Senates, dem die Rechtssache zugewiesen ist, die vorbereitende Tagsatzung zur mündlichen Verhandlung anzuberaumen. Die vorbereitende Tagsatzung zur mündlichen Verhandlung ist so anzuberaumen, dass den Parteien von der Zustellung der Ladung an mindestens eine Frist von drei Wochen zur Vorbereitung für die Streitverhandlung offen bleibt.
@@ -241,7 +243,7 @@ Gegen die in dieser Bestimmung vorgesehenen Anordnungen ist ein Rechtsmittel nic
 (______________  
 Anm. 1: Es wird davon ausgegangen, dass diese seit der Stammfassung existierende Zwischenüberschrift nicht durch die Neufassung der §§ 257 und 258 „samt Überschriften“ (Art. II Z 40 der Zivilverfahrens-Novelle 2002, BGBl. I Nr. 76/2002) entfallen ist. Dies ist aber nicht unstrittig.)
 
-### § 258 ZPO # Vorbereitende Tagsatzung ZPO
+### § 258 ZPO # Vorbereitende Tagsatzung
 
 `§ 258 (1) ZPO.`  
 Die vorbereitende Tagsatzung als Teil der mündlichen Streitverhandlung dient  
@@ -259,4 +261,4 @@ soweit zweckmäßig - auch der Einvernahme der Parteien und Durchführung des we
 `§ 258 (2) ZPO.`  
 Die Parteien und ihre Vertreter haben dafür zu sorgen, dass in der vorbereitenden Tagsatzung der Sachverhalt und allfällige Vergleichsmöglichkeiten umfassend erörtert werden können. Zu diesem Zweck ist die Partei oder, soweit diese zur Aufklärung des Sachverhalts nicht beitragen kann, eine informierte Person zur Unterstützung des Vertreters stellig zu machen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.009](BG.ZPO.009.md))*

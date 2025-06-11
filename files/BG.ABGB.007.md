@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.006](BG.ABGB.006.md))*
 
 ## VI. Gerichtliche Kontrolle
 
@@ -323,4 +325,4 @@ Das Gericht hat den Kurator auf Antrag oder von Amts wegen zu entheben, wenn die
 `§ 284 (3) ABGB.`  
 Das Gericht hat in angemessenen Zeitabständen zu prüfen, ob die Kuratel zu ändern oder zu beenden ist.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.008](BG.ABGB.008.md))*

@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.009](BG.StPO.009.md))*
 
 ## 6. Abschnitt # Automationsunterstützter Datenabgleich
 
@@ -349,4 +351,4 @@ sonst durch unerlaubte Einwirkung auf die Freiheit der Willensentschließung ode
 `§ 166 (2) StPO.`  
 Aussagen, die auf die im Abs. 1 beschriebene Art und Weise zustande gekommen sind oder gewonnen wurden, sind nichtig.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.011](BG.StPO.011.md))*

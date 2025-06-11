@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.020](BG.ABGB.020.md))*
 
 ## Der Kaufpreis muß
 
@@ -316,4 +318,4 @@ Wenn bey dem Bestandvertrage kein Inventarium errichtet worden ist; so tritt die
 `§ 1111 ABGB.`  
 Wird das Mieth- oder Pachtstück beschädiget, oder durch Mißbrauch abgenützt; so haften Miether und Pächter sowohl für ihr eigenes, als des Afterbestandnehmers Verschulden, nicht aber für den Zufall. Doch muß der Bestandgeber den Ersatz aus dieser Haftung längstens binnen Einem Jahre nach Zurückstellung des Bestandstückes gerichtlich fordern; sonst ist das Recht erloschen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.022](BG.ABGB.022.md))*

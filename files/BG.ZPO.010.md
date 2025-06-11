@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.009](BG.ZPO.009.md))*
 
 ## Verfahren bei der Beweisaufnahme.
 
@@ -24,7 +26,7 @@ Die Parteien können bei der Beweisaufnahme zugegen sein; sie können an die Zeu
 `§ 289 (2) ZPO.`  
 Mit der Beweisaufnahme ist, soweit dies nach Lage der Sache geschehen kann, vorzugehen, wenn auch keine der verständigten Parteien erschienen ist. Es kann jedoch vom erkennenden Gerichte, oder, so lange die Beweisaufnahme noch nicht beendet ist, auch von dem beauftragten oder ersuchten Richter eine Ergänzung der Beweisaufnahme zugelassen werden, wenn die Partei glaubhaft macht, dass ihr durch ein unvorhergesehenes Ereignis verursachtes Nichterscheinen eine wesentliche Unvollständigkeit der Beweisaufnahme zur Folge hatte und wenn zugleich die Ergänzung der Beweisaufnahme ohne erhebliche Verzögerung des Rechtsstreites stattfinden kann.
 
-### § 289a ZPO # Abgesonderte Vernehmung ZPO
+### § 289a ZPO # Abgesonderte Vernehmung
 
 `§ 289a (1) ZPO.`  
 Steht der Gegenstand des Zivilprozesses in sachlichem Zusammenhang mit einem Strafverfahren, so ist bei der Vernehmung einer Person, die in diesem Strafverfahren Opfer im Sinn des § 65 Z 1 lit. a StPO ist, auf deren Antrag die Teilnahme der Parteien des Verfahrens und ihrer Vertreter an der Vernehmung derart zu beschränken, dass diese die Vernehmung unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung mitverfolgen und ihr Fragerecht ausüben können, ohne bei der Befragung anwesend zu sein. Ist das Opfer ein unmündiger Minderjähriger, so ist ein geeigneter Sachverständiger mit der Befragung zum Gegenstand des Strafverfahrens zu beauftragen.
@@ -35,7 +37,7 @@ Das Gericht kann auf Antrag eine Person auf die in Abs. 1 beschriebene Art und 
 `§ 289a (3) ZPO.`  
 Gegen Entscheidungen nach Abs. 1 und 2 ist kein Rechtsmittel zulässig.
 
-### § 289b ZPO # Vernehmung minderjähriger Personen ZPO
+### § 289b ZPO # Vernehmung minderjähriger Personen
 
 `§ 289b (1) ZPO.`  
 Ist die zu vernehmende Person minderjährig, so kann das Gericht auf Antrag oder von Amts wegen von ihrer Vernehmung zur Gänze oder zu einzelnen Themenbereichen absehen, wenn durch die Vernehmung das Wohl der minderjährigen Person unter Berücksichtigung ihrer geistigen Reife, des Gegenstands der Vernehmung und ihres Naheverhältnisses zu den Prozessparteien gefährdet würde.
@@ -60,7 +62,7 @@ Gegen Beschlüsse, durch welche angebotene Beweise zurückgewiesen, Beweisaufnah
 `§ 291 (2) ZPO.`  
 Beschlüsse, durch welche die stenographische Aufzeichnung einer Beweisaufnahme gestattet, dem Beweisführer die Bestellung eines Ersuchschreibens gemäß §. 283, Absatz 1, übertragen, oder für die Beweisaufnahme oder für die Vorlage der Acten über eine außerhalb des Geltungsgebietes dieses Gesetzes stattfindende Beweisaufnahme eine Frist bestimmt wird, ferner Beschlüsse, durch welche die Ergänzung oder Wiederholung einer Beweisaufnahme angeordnet wird, können durch ein Rechtsmittel überhaupt nicht angefochten werden.
 
-### § 291a ZPO # Beweisaufnahme im Ausland ZPO
+### § 291a ZPO # Beweisaufnahme im Ausland
 
 `§ 291a (1) ZPO.`  
 Liegen die Voraussetzungen für die Beweisaufnahme durch ein ersuchtes ausländisches Gericht vor, so kann das Prozessgericht auf Antrag einer Partei im Ausland an der Beweisaufnahme des ersuchten Gerichtes teilnehmen oder an dessen Stelle selbst Beweis aufnehmen, wenn  
@@ -234,4 +236,4 @@ Der Gegner des Beweisführers kann jedoch noch vor Ablauf dieser Frist die Forts
 `§ 309 (3) ZPO.`  
 Die Vorlegung der Urkunde geschieht auf Kosten des Beweisführers.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.011](BG.ZPO.011.md))*

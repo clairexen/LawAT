@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.004](BG.StPO.004.md))*
 
 ## 3. Abschnitt # Privatankläger und Subsidiarankläger
 
@@ -215,4 +217,4 @@ Samstage, Sonntage, gesetzliche Feiertage und der Karfreitag sind ohne Einfluss 
 `§ 84 (2) StPO.`  
 Soweit im Einzelnen nichts anderes bestimmt wird, können Rechtsmittel, Rechtsbehelfe und alle sonstigen Eingaben an die Kriminalpolizei, die Staatsanwaltschaft oder das Gericht schriftlich, per Telefax oder im elektronischen Rechtsverkehr (§ 89a GOG) eingebracht werden. Sofern sie an eine Frist gebunden sind, sind sie auch dann rechtzeitig, wenn sie innerhalb dieser Frist bei der Behörde eingebracht werden, die darüber zu entscheiden hat. Die näheren Vorschriften über die geschäftliche Behandlung solcher Eingaben werden durch Verordnung geregelt.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.006](BG.StPO.006.md))*

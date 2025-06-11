@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.020](BG.ZPO.020.md))*
 
 ## Verträge gegen Entrichtung eines Zinses in Früchten.
 
@@ -13,7 +15,7 @@ Die Bestimmungen dieses Abschnittes finden auch auf die im §. 1103 a. b. G. B.
 
 ## Vierter Abschnitt # Schiedsverfahren # Erster Titel # Allgemeine Bestimmungen
 
-### § 577 ZPO # Anwendungsbereich ZPO
+### § 577 ZPO # Anwendungsbereich
 
 `§ 577 (1) ZPO.`  
 Die Bestimmungen dieses Abschnitts sind anzuwenden, wenn der Sitz des Schiedsgerichts in Österreich liegt.
@@ -27,17 +29,17 @@ Solange der Sitz des Schiedsgerichts noch nicht bestimmt ist, besteht die inlän
 `§ 577 (4) ZPO.`  
 Die Bestimmungen dieses Abschnitts sind nicht auf Einrichtungen nach dem Vereinsgesetz zur Schlichtung von Streitigkeiten aus dem Vereinsverhältnis anwendbar.
 
-### § 578 ZPO # Gerichtliche Tätigkeit ZPO
+### § 578 ZPO # Gerichtliche Tätigkeit
 
 `§ 578 ZPO.`  
 Das Gericht darf in den in diesem Abschnitt geregelten Angelegenheiten nur tätig werden, soweit dieser Abschnitt es vorsieht.
 
-### § 579 ZPO # Rügepflicht ZPO
+### § 579 ZPO # Rügepflicht
 
 `§ 579 ZPO.`  
 Hat das Schiedsgericht einer Verfahrensbestimmung dieses Abschnitts, von der die Parteien abweichen können, oder einem vereinbarten Verfahrenserfordernis des Schiedsverfahrens nicht entsprochen, so kann eine Partei den Mangel später nicht mehr geltend machen, wenn sie ihn nicht unverzüglich ab Kenntnis oder innerhalb der dafür vorgesehenen Frist gerügt hat.
 
-### § 580 ZPO # Empfang schriftlicher Mitteilungen ZPO
+### § 580 ZPO # Empfang schriftlicher Mitteilungen
 
 `§ 580 (1) ZPO.`  
 Haben die Parteien nichts anderes vereinbart, so gilt eine schriftliche Mitteilung an dem Tag als empfangen, an dem sie dem Empfänger oder einer zum Empfang berechtigten Person persönlich ausgehändigt wurde oder, wenn dies nicht möglich war, an dem sie am Sitz, Wohnsitz oder gewöhnlichen Aufenthalt des Empfängers sonst übergeben wurde.
@@ -50,7 +52,7 @@ Abs. 1 und 2 gelten nicht für Mitteilungen in gerichtlichen Verfahren.
 
 ## Zweiter Titel # Schiedsvereinbarung
 
-### § 581 ZPO # Begriff ZPO
+### § 581 ZPO # Begriff
 
 `§ 581 (1) ZPO.`  
 Die Schiedsvereinbarung ist eine Vereinbarung der Parteien, alle oder einzelne Streitigkeiten, die zwischen ihnen in Bezug auf ein bestimmtes Rechtsverhältnis vertraglicher oder nichtvertraglicher Art entstanden sind oder künftig entstehen, der Entscheidung durch ein Schiedsgericht zu unterwerfen. Die Schiedsvereinbarung kann in Form einer selbständigen Vereinbarung oder in Form einer Klausel in einem Vertrag geschlossen werden.
@@ -58,7 +60,7 @@ Die Schiedsvereinbarung ist eine Vereinbarung der Parteien, alle oder einzelne S
 `§ 581 (2) ZPO.`  
 Die Bestimmungen dieses Abschnitts sind auch auf Schiedsgerichte sinngemäß anzuwenden, die in gesetzlich zulässiger Weise durch letztwillige Verfügung oder andere nicht auf Vereinbarung der Parteien beruhende Rechtsgeschäfte oder durch Statuten angeordnet werden.
 
-### § 582 ZPO # Schiedsfähigkeit ZPO
+### § 582 ZPO # Schiedsfähigkeit
 
 `§ 582 (1) ZPO.`  
 Jeder vermögensrechtliche Anspruch, über den von den ordentlichen Gerichten zu entscheiden ist, kann Gegenstand einer Schiedsvereinbarung sein. Eine Schiedsvereinbarung über nicht vermögensrechtliche Ansprüche hat insofern rechtliche Wirkung, als die Parteien über den Gegenstand des Streits einen Vergleich abzuschließen fähig sind.
@@ -66,7 +68,7 @@ Jeder vermögensrechtliche Anspruch, über den von den ordentlichen Gerichten zu
 `§ 582 (2) ZPO.`  
 Familienrechtliche Ansprüche sowie alle Ansprüche aus Verträgen, die dem Mietrechtsgesetz oder dem Wohnungsgemeinnützigkeitsgesetz auch nur teilweise unterliegen, einschließlich der Streitigkeiten über die Eingehung, das Bestehen, die Auflösung und die rechtliche Einordnung solcher Verträge, und alle wohnungseigentumsrechtlichen Ansprüche können nicht Gegenstand einer Schiedsvereinbarung sein. Gesetzliche Vorschriften außerhalb dieses Abschnitts, nach denen Streitigkeiten einem Schiedsverfahren nicht oder nur unter bestimmten Voraussetzungen unterworfen werden dürfen, bleiben unberührt.
 
-### § 583 ZPO # Form der Schiedsvereinbarung ZPO
+### § 583 ZPO # Form der Schiedsvereinbarung
 
 `§ 583 (1) ZPO.`  
 Die Schiedsvereinbarung muss entweder in einem von den Parteien unterzeichneten Schriftstück oder in zwischen ihnen gewechselten Schreiben, Telefaxen, e-mails oder anderen Formen der Nachrichtenübermittlung enthalten sein, die einen Nachweis der Vereinbarung sicherstellen.
@@ -77,7 +79,7 @@ Nimmt ein den Formerfordernissen des Abs. 1 entsprechender Vertrag auf ein Schr
 `§ 583 (3) ZPO.`  
 Ein Formmangel der Schiedsvereinbarung wird im Schiedsverfahren durch Einlassung in die Sache geheilt, wenn er nicht spätestens zugleich mit der Einlassung gerügt wird.
 
-### § 584 ZPO # Schiedsvereinbarung und Klage vor Gericht ZPO
+### § 584 ZPO # Schiedsvereinbarung und Klage vor Gericht
 
 `§ 584 (1) ZPO.`  
 Wird vor einem Gericht Klage in einer Angelegenheit erhoben, die Gegenstand einer Schiedsvereinbarung ist, so hat das Gericht die Klage zurückzuweisen, sofern der Beklagte nicht zur Sache vorbringt oder mündlich verhandelt, ohne dies zu rügen. Dies gilt nicht, wenn das Gericht feststellt, dass die Schiedsvereinbarung nicht vorhanden oder undurchführbar ist. Ist ein solches Verfahren noch vor einem Gericht anhängig, so kann ein Schiedsverfahren dennoch eingeleitet oder fortgesetzt werden und ein Schiedsspruch ergehen.
@@ -94,14 +96,14 @@ Wird eine Klage von einem Gericht wegen Zuständigkeit eines Schiedsgerichtes od
 `§ 584 (5) ZPO.`  
 Eine Partei, die sich zu einem früheren Zeitpunkt in einem Verfahren auf das Vorhandensein einer Schiedsvereinbarung berufen hat, kann später nicht mehr geltend machen, dass diese nicht vorliegt, es sei denn, die maßgebenden Umstände haben sich seither geändert.
 
-### § 585 ZPO # Schiedsvereinbarung und einstweilige gerichtliche Maßnahmen ZPO
+### § 585 ZPO # Schiedsvereinbarung und einstweilige gerichtliche Maßnahmen
 
 `§ 585 ZPO.`  
 Eine Schiedsvereinbarung schließt nicht aus, dass eine Partei vor oder während des Schiedsverfahrens bei einem Gericht eine vorläufige oder sichernde Maßnahme beantragt und dass das Gericht eine solche Maßnahme anordnet.
 
 ## Dritter Titel # Bildung des Schiedsgerichts
 
-### § 586 ZPO # Zusammensetzung des Schiedsgerichts ZPO
+### § 586 ZPO # Zusammensetzung des Schiedsgerichts
 
 `§ 586 (1) ZPO.`  
 Die Parteien können die Anzahl der Schiedsrichter frei vereinbaren. Haben die Parteien jedoch eine gerade Zahl von Schiedsrichtern vereinbart, so haben diese eine weitere Person als Vorsitzenden zu bestellen.
@@ -109,7 +111,7 @@ Die Parteien können die Anzahl der Schiedsrichter frei vereinbaren. Haben die P
 `§ 586 (2) ZPO.`  
 Haben die Parteien nichts anderes vereinbart, so sind drei Schiedsrichter zu bestellen.
 
-### § 587 ZPO # Bestellung der Schiedsrichter ZPO
+### § 587 ZPO # Bestellung der Schiedsrichter
 
 `§ 587 (1) ZPO.`  
 Die Parteien können das Verfahren zur Bestellung des Schiedsrichters oder der Schiedsrichter frei vereinbaren.
@@ -155,7 +157,7 @@ Das Gericht hat bei der Bestellung eines Schiedsrichters alle nach der Parteiver
 `§ 587 (9) ZPO.`  
 Gegen eine Entscheidung, mit der ein Schiedsrichter bestellt wird, ist kein Rechtsmittel zulässig.
 
-### § 588 ZPO # Ablehnungsgründe ZPO
+### § 588 ZPO # Ablehnungsgründe
 
 `§ 588 (1) ZPO.`  
 Will eine Person ein Schiedsrichteramt übernehmen, so hat sie alle Umstände offen zu legen, die Zweifel an ihrer Unparteilichkeit oder Unabhängigkeit wecken können oder der Parteienvereinbarung widersprechen. Ein Schiedsrichter hat vom Zeitpunkt seiner Bestellung an und während des Schiedsverfahrens den Parteien unverzüglich solche Umstände offen zu legen, wenn er sie ihnen nicht schon vorher mitgeteilt hat.
@@ -163,7 +165,7 @@ Will eine Person ein Schiedsrichteramt übernehmen, so hat sie alle Umstände of
 `§ 588 (2) ZPO.`  
 Ein Schiedsrichter kann nur abgelehnt werden, wenn Umstände vorliegen, die berechtigte Zweifel an seiner Unparteilichkeit oder Unabhängigkeit wecken, oder wenn er die zwischen den Parteien vereinbarten Voraussetzungen nicht erfüllt. Eine Partei kann einen Schiedsrichter, den sie bestellt hat oder an dessen Bestellung sie mitgewirkt hat, nur aus Gründen ablehnen, die ihr erst nach der Bestellung oder Mitwirkung daran bekannt geworden sind.
 
-### § 589 ZPO # Ablehnungsverfahren ZPO
+### § 589 ZPO # Ablehnungsverfahren
 
 `§ 589 (1) ZPO.`  
 Die Parteien können vorbehaltlich des Abs. 3 ein Verfahren für die Ablehnung eines Schiedsrichters frei vereinbaren.
@@ -174,7 +176,7 @@ Fehlt eine solche Vereinbarung, so hat die Partei, die einen Schiedsrichter able
 `§ 589 (3) ZPO.`  
 Bleibt eine Ablehnung nach dem von den Parteien vereinbarten Verfahren oder nach dem in Abs. 2 vorgesehenen Verfahren erfolglos, so kann die ablehnende Partei binnen vier Wochen, nachdem ihr die Entscheidung, mit der die Ablehnung verweigert wurde, zugegangen ist, bei Gericht eine Entscheidung über die Ablehnung beantragen. Gegen diese Entscheidung ist kein Rechtsmittel zulässig. Während ein solcher Antrag anhängig ist, kann das Schiedsgericht einschließlich des abgelehnten Schiedsrichters das Schiedsverfahren fortsetzen und einen Schiedsspruch erlassen.
 
-### § 590 ZPO # Vorzeitige Beendigung des Schiedsrichteramts ZPO
+### § 590 ZPO # Vorzeitige Beendigung des Schiedsrichteramts
 
 `§ 590 (1) ZPO.`  
 Das Amt eines Schiedsrichters endet, wenn die Parteien dies vereinbaren oder wenn der Schiedsrichter zurücktritt. Vorbehaltlich des Abs. 2 können die Parteien auch ein Verfahren für die Beendigung des Schiedsrichteramts vereinbaren.
@@ -192,7 +194,7 @@ Gegen diese Entscheidung ist ein Rechtsmittel nicht zulässig.
 `§ 590 (3) ZPO.`  
 Tritt ein Schiedsrichter nach Abs. 1 oder nach § 589 Abs. 2 zurück oder stimmt eine Partei der Beendigung des Amtes eines Schiedsrichters zu, so bedeutet das nicht die Anerkennung der in Abs. 2 oder § 588 Abs. 2 genannten Gründe.
 
-### § 591 ZPO # Bestellung eines Ersatzschiedsrichters ZPO
+### § 591 ZPO # Bestellung eines Ersatzschiedsrichters
 
 `§ 591 (1) ZPO.`  
 Endet das Amt eines Schiedsrichters vorzeitig, so ist ein Ersatzschiedsrichter zu bestellen. Die Bestellung erfolgt nach den Regeln, die auf die Bestellung des zu ersetzenden Schiedsrichters anzuwenden waren.
@@ -202,7 +204,7 @@ Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht die Ver
 
 ## Vierter Titel # Zuständigkeit des Schiedsgerichts
 
-### § 592 ZPO # Befugnis des Schiedsgerichts zur Entscheidung über die eigene Zuständigkeit ZPO
+### § 592 ZPO # Befugnis des Schiedsgerichts zur Entscheidung über die eigene Zuständigkeit
 
 `§ 592 (1) ZPO.`  
 Das Schiedsgericht entscheidet selbst über seine Zuständigkeit. Die Entscheidung kann mit der Entscheidung in der Sache getroffen werden, aber auch gesondert in einem eigenen Schiedsspruch.
@@ -213,7 +215,7 @@ Die Einrede der Unzuständigkeit des Schiedsgerichts ist spätestens mit dem ers
 `§ 592 (3) ZPO.`  
 Auch wenn eine Klage auf Aufhebung eines Schiedsspruches, mit welchem das Schiedsgericht seine Zuständigkeit bejaht hat, noch bei Gericht anhängig ist, kann das Schiedsgericht vorerst das Schiedsverfahren fortsetzen und auch einen Schiedsspruch fällen.
 
-### § 593 ZPO # Anordnung vorläufiger oder sichernder Maßnahmen ZPO
+### § 593 ZPO # Anordnung vorläufiger oder sichernder Maßnahmen
 
 `§ 593 (1) ZPO.`  
 Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht auf Antrag einer Partei vorläufige oder sichernde Maßnahmen gegen eine andere Partei nach deren Anhörung anordnen, die es in Bezug auf den Streitgegenstand für erforderlich hält, weil sonst die Durchsetzung des Anspruchs vereitelt oder erheblich erschwert werden würde oder ein unwiederbringlicher Schaden droht. Das Schiedsgericht kann von jeder Partei im Zusammenhang mit einer solchen Maßnahme angemessene Sicherheit fordern.
@@ -249,4 +251,4 @@ ein Fall von § 399 Abs. 1 Z 1 bis 4 EO vorliegt, sofern ein solcher Umstand 
 `§ 593 (6) Z 4 ZPO.`
 eine Sicherheit nach Abs. 1 geleistet wurde, welche die Vollziehung der Maßnahme entbehrlich macht.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.022](BG.ZPO.022.md))*

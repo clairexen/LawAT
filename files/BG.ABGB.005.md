@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.004](BG.ABGB.004.md))*
 
 ## Besondere Pflichten und Rechte anderer mit der Obsorge betrauter Personen
 
@@ -236,4 +238,4 @@ Soweit dies zur Abwendung einer ernstlichen und erheblichen Gefahr für die vert
 `§ 242 (3) ABGB.`  
 Schließt eine volljährige Person, die nicht entscheidungsfähig ist, ein Rechtsgeschäft des täglichen Lebens, das ihre Lebensverhältnisse nicht übersteigt, so wird dieses – sofern in diesem Bereich kein Genehmigungsvorbehalt nach Abs. 2 angeordnet wurde – mit der Erfüllung der sie treffenden Pflichten rückwirkend rechtswirksam.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.006](BG.ABGB.006.md))*

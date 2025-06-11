@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.017](BG.StPO.017.md))*
 
 ## 2. Verfahren bei Berufungen
 
@@ -263,4 +265,4 @@ Im Anschluß an die Rechtsbelehrung bespricht der Vorsitzende mit den Geschworen
 `§ 323 (3) StPO.`  
 Am Schlusse seines Vortrages überzeugt sich der Vorsitzende, ob seine Belehrung von den Geschworenen verstanden worden ist, und ergänzt sie, wenn es zur Behebung von Zweifeln erforderlich ist. Er übergibt sodann dem Obmanne der Geschworenen die Niederschrift der Rechtsbelehrung und des allfälligen Anhanges zu ihr.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.019](BG.StPO.019.md))*

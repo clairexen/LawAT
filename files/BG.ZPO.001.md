@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Inhaltsverzeichnis: [BG.ZPO.toc](BG.ZPO.toc.md))*
 
 Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
@@ -323,4 +325,4 @@ Mit Ausnahme des Beschlusses über den Ersatz der Kosten und Schäden können di
 ### § 39 ZPO
 Soweit dieses Gesetz nicht unterscheidet, sind dessen Bestimmungen über die Parteien auch auf deren Bevollmächtigte zu beziehen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.002](BG.ZPO.002.md))*

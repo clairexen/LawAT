@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.003](BG.ABGB.003.md))*
 
 ## Fünfter Abschnitt # Sonstige Rechte und Pflichten
 
@@ -307,4 +309,4 @@ Eine einstweilige Verfügung nach den §§ 382b, 382c und 382d EO sowie deren V
 `§ 212 ABGB.`  
 Sofern nicht anderes angeordnet ist, fallen die Aufgaben dem Bundesland als Kinder- und Jugendhilfeträger zu, in dem das minderjährige Kind seinen gewöhnlichen Aufenthalt, mangels eines solchen im Inland seinen Aufenthalt hat. Fehlt ein Aufenthalt im Inland, so ist, sofern das minderjährige Kind österreichischer Staatsbürger ist, für im Inland zu besorgende Aufgaben das Bundesland als Kinder- und Jugendhilfeträger zuständig, in dem der Minderjährige seinen letzten Aufenthalt gehabt hat, dann dasjenige, in dem ein Elternteil seinen Aufenthalt hat oder zuletzt gehabt hat. Wechselt das minderjährige Kind seinen Aufenthalt in ein anderes Bundesland, so kann der Kinder- und Jugendhilfeträger seine Aufgaben dem anderen mit dessen Zustimmung übertragen. Hievon ist das Gericht zu verständigen, wenn es mit den Angelegenheiten des minderjährigen Kindes bereits befasst war.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.005](BG.ABGB.005.md))*

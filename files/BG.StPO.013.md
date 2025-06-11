@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.012](BG.StPO.012.md))*
 
 ## 10a. Hauptstück # Absehen von der Einleitung eines Ermittlungsverfahrens
 
@@ -246,4 +248,4 @@ Der Bundeskartellanwalt hat die Staatsanwaltschaft von einem Vorgehen der Bundes
 `§ 209b (2) StPO.`  
 Die Staatsanwaltschaft hat sodann das Ermittlungsverfahren gegen die Mitarbeiter, die Staatsanwaltschaft und Gericht ihr gesamtes Wissen über die eigenen Taten und andere Tatsachen, die für die Aufklärung der durch die Zuwiderhandlung begangenen Straftaten von Bedeutung sind, offenbart haben, unter dem Vorbehalt späterer Verfolgung einzustellen. § 209a Abs. 5 und 6 gelten sinngemäß.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.014](BG.StPO.014.md))*

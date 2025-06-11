@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.005](BG.StPO.005.md))*
 
 ## 5. Abschnitt # Beschlüsse und Beschwerden
 
@@ -259,4 +261,4 @@ Die Kriminalpolizei hat der WKStA über jeden Verdacht einer im § 20a Abs. 1 
 `§ 100a (2) StPO.`  
 Die WKStA kann aus Zweckmäßigkeitsgründen und zur Vermeidung von Verzögerungen andere Staatsanwaltschaften um Durchführung einzelner Ermittlungs- oder sonstiger Amtshandlungen ersuchen. Diese sind verpflichtet, die WKStA in vollem Umfang zu unterstützen und Hilfe bei der Strafverfolgung zu leisten.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.007](BG.StPO.007.md))*

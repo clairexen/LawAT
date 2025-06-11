@@ -1,15 +1,15 @@
 {
   "BG.StVO.001": [
-    [11, "## I. ABSCHNITT. # Allgemeines."],
-    [13, "### § 1 StVO #  Geltungsbereich."],
-    [21, "### § 2 StVO #  Begriffsbestimmungen."],
-    [126, "### § 3 StVO #  Vertrauensgrundsatz."],
-    [134, "### § 4 StVO #  Verkehrsunfälle."],
-    [166, "### § 5 StVO #  Besondere Sicherungsmaßnahmen gegen Beeinträchtigung durch Alkohol."],
-    [246, "### § 5a StVO"],
-    [260, "### § 5b StVO # Zwangsmaßnahmen bei Alkoholisierung"],
-    [268, "### § 6 StVO #  Benützung schienengleicher Eisenbahnübergänge."],
-    [271, "END-OF-DATA-FILE"]
+    [13, "## I. ABSCHNITT. # Allgemeines."],
+    [15, "### § 1 StVO #  Geltungsbereich."],
+    [23, "### § 2 StVO #  Begriffsbestimmungen."],
+    [128, "### § 3 StVO #  Vertrauensgrundsatz."],
+    [136, "### § 4 StVO #  Verkehrsunfälle."],
+    [168, "### § 5 StVO #  Besondere Sicherungsmaßnahmen gegen Beeinträchtigung durch Alkohol."],
+    [248, "### § 5a StVO"],
+    [262, "### § 5b StVO # Zwangsmaßnahmen bei Alkoholisierung"],
+    [270, "### § 6 StVO #  Benützung schienengleicher Eisenbahnübergänge."],
+    [273, "END-OF-DATA-FILE"]
   ],
   "BG.StVO.002": [
     [11, "## II. ABSCHNITT. # Fahrregeln."],

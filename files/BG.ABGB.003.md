@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.002](BG.ABGB.002.md))*
 
 ## Vierter Abschnitt # Obsorge
 
@@ -232,4 +234,4 @@ Die Übertragung ist aufzuheben, wenn dies dem Wohl des Kindes entspricht. Gleic
 `§ 185 (4) ABGB.`  
 Das Gericht hat vor seiner Entscheidung die Eltern, den gesetzlichen Vertreter, weitere Erziehungsberechtigte, den Kinder- und Jugendhilfeträger und jedenfalls das bereits zehnjährige Kind zu hören. § 196 Abs. 2 gilt sinngemäß.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.004](BG.ABGB.004.md))*

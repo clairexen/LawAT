@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.001](BG.ZPO.001.md))*
 
 ## Fünfter Titel. # Processkosten.
 
@@ -223,4 +225,4 @@ Nach rechtzeitigem Erlage der Sicherheitssumme oder Ableistung des Eides ist das
 `§ 62 (2) ZPO.`  
 Ergibt sich im Laufe des Rechtsstreites, dass die geleistete Sicherheit nicht hinreicht, so kann der Beklagte die Ergänzung derselben beantragen, sofern nicht ein zur Deckung ausreichender Theil des erhobenen Anspruches unbestritten ist. Einem solchen Antrage kommt aufschiebende Wirkung nicht zu; der Beschluss, wodurch die Ergänzung der Sicherheit angeordnet wird, ist nach eingetretener Rechtskraft vollstreckbar.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.003](BG.ZPO.003.md))*

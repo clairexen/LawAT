@@ -4,7 +4,9 @@
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ZPO.003](BG.ZPO.003.md))*
 
 ## Zweiter Titel. # Zustellungen.
 
@@ -157,7 +159,7 @@ Die Zustellung gilt mit Aufnahme des Inhalts des Ediktes in die Ediktsdatei und 
 `§ 118 (2) ZPO.`  
 Die Kosten der Bekanntmachung und der Curatorsbestellung sind unbeschadet eines Anspruches auf Ersatz von der Partei zu bestreiten, durch deren Processhandlung beides veranlasst wurde.
 
-### § 119 ZPO # Löschen der Daten in der Ediktsdatei ZPO
+### § 119 ZPO # Löschen der Daten in der Ediktsdatei
 
 `§ 119 (1) ZPO.`  
 Das Edikt über die Bestellung eines Kurators ist zu löschen, sobald der Kurator rechtskräftig seines Amtes enthoben wurde oder die Kuratel sonst erloschen ist.
@@ -328,4 +330,4 @@ Wenn nicht wegen einer Veränderung in der Besetzung des Gerichtes eine neuerlic
 ### § 139 ZPO
 Wenn die Zustellung eines vorbereitenden Schriftsatzes oder einer Protokollsabschrift, über welche eine Ladung erging, derart verzögert wird, dass die zwischen der Zustellung der Ladung und der anberaumten Tagsatzung liegende Frist dem Gegner eine genügende Vorbereitung für die mündliche Verhandlung oder in den Fällen des Anwaltsprocesses die rechtzeitige Bestellung eines Rechtsanwalts nicht mehr gestattet, und wenn zugleich der Gegner an dieser Verzögerung der Zustellung keine Schuld trägt, so hat das Gericht oder im Verfahren vor Gerichtshöfen der Vorsitzende des Senates, vor welchem die Verhandlung stattfinden soll, die anberaumte Tagsatzung auf Antrag oder von amtswegen, noch vor ihrer Abhaltung zu erstrecken. Hievon sind alle zur Tagsatzung geladenen Personen ohne Aufschub zu verständigen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.005](BG.ZPO.005.md))*

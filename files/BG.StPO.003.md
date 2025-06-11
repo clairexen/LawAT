@@ -4,7 +4,9 @@
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StPO.002](BG.StPO.002.md))*
 
 ## 4. Abschnitt # Ausschließung und Befangenheit
 
@@ -253,4 +255,4 @@ Ein Verzicht des Beschuldigten auf schriftliche Übersetzung ist nur zulässig, 
 `§ 56 (7) StPO.`  
 Ist der Beschuldigte gehörlos oder stumm, so ist ein Dolmetscher für die Gebärdensprache beizuziehen, sofern sich der Beschuldigte in dieser verständigen kann. Andernfalls ist zu versuchen, mit dem Beschuldigten schriftlich oder auf andere geeignete Art, in der sich der Beschuldigte verständlich machen kann, zu verkehren.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StPO.004](BG.StPO.004.md))*

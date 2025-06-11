@@ -4,7 +4,9 @@
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.ABGB.026](BG.ABGB.026.md))*
 
 ## Zweytes Hauptstück. # Von Umänderung der Rechte und Verbindlichkeiten.
 
@@ -427,4 +429,4 @@ Rechte und Verbindlichkeiten erlöschen auch durch den Verlauf der Zeit, worauf 
 `§ 1450 ABGB.`  
 Die bürgerlichen Gesetze, nach welchen widerrechtliche Handlungen und Geschäfte, wenn die Verjährung nicht im Wege steht, unmittelbar bestritten werden können, gestatten keine Einsetzung in den vorigen Stand. Die zum gerichtlichen Verfahren gehörigen Fälle der Einsetzung in den vorigen Stand, sind in der Gerichtsordnung bestimmt.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.028](BG.ABGB.028.md))*
