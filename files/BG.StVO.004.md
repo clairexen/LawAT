@@ -4,7 +4,9 @@
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StVO.003](BG.StVO.003.md))*
 
 ## IV. ABSCHNITT. # Regelung und Sicherung des Verkehrs. # A. Gemeinsame Bestimmungen.
 
@@ -216,4 +218,4 @@ ihre Befolgung ohne Gefährdung von Personen und ohne Beschädigung von Sachen m
 `§ 41 (3) StVO.`  
 Die Straßenbenützer, denen Hilfszeichen gegeben werden, haben sie nur zu befolgen, wenn dies ohne Gefährdung von Personen und ohne Beschädigung von Sachen möglich ist.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StVO.005](BG.StVO.005.md))*

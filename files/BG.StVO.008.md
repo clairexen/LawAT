@@ -4,7 +4,9 @@
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StVO.007](BG.StVO.007.md))*
 
 ## VII. ABSCHNITT. # Besondere Vorschriften für den Fuhrwerksverkehr.
 
@@ -255,4 +257,4 @@ andere Straßenbenützer zu gefährden, insbesondere mit Gegenständen, die scha
 `§ 78 lit. b) StVO.`
 den Fußgängerverkehr mutwillig zu behindern.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StVO.009](BG.StVO.009.md))*

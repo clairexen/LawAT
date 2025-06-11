@@ -4,7 +4,9 @@
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StVO.001](BG.StVO.001.md))*
 
 ## II. ABSCHNITT. # Fahrregeln.
 
@@ -504,4 +506,4 @@ Für Kurzparkzonen, in denen für das Abstellen eines mehrspurigen Fahrzeuges au
 `§ 25 (5) StVO.`  
 Die Behörde hat unter Bedachtnahme auf den Zweck einer nach § 43 Abs. 2a verordneten Regelung durch Verordnung das zur Kontrolle notwendige Hilfsmittel zu bestimmen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StVO.003](BG.StVO.003.md))*

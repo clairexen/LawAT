@@ -4,7 +4,9 @@
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StVO.002](BG.StVO.002.md))*
 
 ## III. ABSCHNITT # Bevorzugte Straßenbenützer.
 
@@ -187,4 +189,4 @@ Bei Wirtschaftsfuhren dürfen außerhalb von Ortsgebieten auch Wege, die ausschl
 `§ 30 (6) StVO.`  
 Im Betriebe eines land- und forstwirtschaftlichen Unternehmens gelten für die Beförderung eigener Erzeugnisse mit eigenen Fahrzeugen bis zur nächsten Eisenbahn- oder Schiffsstation oder bis zur nächsten Sammelstelle land- und forstwirtschaftlicher Erzeugnisse die Bestimmungen der Abs. 2 bis 5 sinngemäß, doch hat die Behörde eine solche Beförderung zu verbieten oder im erforderlichen Ausmaße einzuschränken, wenn es aus Gründen der Verkehrssicherheit geboten ist.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StVO.004](BG.StVO.004.md))*

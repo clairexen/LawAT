@@ -4,7 +4,7 @@
 **Langtitel:** Bundesgesetz über Vereine (Vereinsgesetz 2002 – VerG)  
 **Letzte Änderung:** BGBl. I Nr. 133/2024 (NR: GP XXVII IA 4123/A AB 2622 S. 274. BR: AB 11571 S. 970.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## 1. Abschnitt # Allgemeine Bestimmungen
 

@@ -4,7 +4,9 @@
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StVO.004](BG.StVO.004.md))*
 
 ## C. Allgemeine Regelung und Sicherung des Verkehrs.
 
@@ -318,4 +320,4 @@ Stockt der Verkehr auf einer Richtungsfahrbahn in einem Abschnitt mit mindestens
 `§ 47 StVO.`  
 Autostraßen sind Vorrangstraßen; für sie gelten die im § 46 Abs. 1, 3, 4 und 6 enthaltenen Bestimmungen über den Verkehr auf Autobahnen sinngemäß.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StVO.006](BG.StVO.006.md))*

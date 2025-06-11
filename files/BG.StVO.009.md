@@ -4,7 +4,9 @@
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+*(Fortsetzg. v. [BG.StVO.008](BG.StVO.008.md))*
 
 ## IX. ABSCHNITT. # Verkehr nicht eingespannter Tiere.
 
@@ -211,4 +213,4 @@ Kinder unter 12 Jahren dürfen auf Straßen mit öffentlichem Verkehr, außer i
 `§ 88b (5) StVO.`  
 Elektrisch betriebene Klein- und Miniroller sind mit einer wirksamen Bremsvorrichtung, mit Rückstrahlern oder Rückstrahlfolien, die nach vorne in weiß, nach hinten in rot und zur Seite in gelb wirken sowie bei Dunkelheit und schlechter Sicht mit weißem Licht nach vorne und rotem Rücklicht auszurüsten.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StVO.010](BG.StVO.010.md))*

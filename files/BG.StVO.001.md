@@ -4,7 +4,7 @@
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
-*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 Der Nationalrat hat beschlossen:
 
@@ -268,4 +268,4 @@ Die Organe der Straßenaufsicht sind weiters berechtigt, Personen an der Lenkung
 ### § 6 StVO #  Benützung schienengleicher Eisenbahnübergänge.
 Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und bei der Übersetzung solcher Übergänge sowie für die Beachtung der den schienengleichen Eisenbahnübergang sichernden Zeichen gelten die eisenbahnrechtlichen Vorschriften.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StVO.002](BG.StVO.002.md))*

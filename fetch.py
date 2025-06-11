@@ -3,10 +3,11 @@
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
 from playwright.sync_api import sync_playwright, Locator
-import time, getopt, sys, json, os
+import time, getopt, sys, json, os, re
 from urllib.parse import urljoin
 from ptpython.repl import embed
 from pathlib import Path
+import unicodedata
 
 # Remember to launch
 #   mitmproxy --mode regular --listen-port 8080 -s mitmp.py
@@ -32,6 +33,32 @@ Locator.stripped_text = lambda self: "\n".join([line.strip() for line in self.in
 
 Locator.get_attrset = lambda self, name: set() if self.get_attribute(name) is None \
                                                else set(self.get_attribute(name).split())
+
+
+#%% Various Utility Functions
+
+def markdownHeaderToAnchor(header: str) -> str:
+    anchor = unicodedata.normalize("NFKD", header)  # normalize unicode (e.g., ä → ä)
+    anchor = anchor.lower()  # convert to lowercase
+    anchor = re.sub(r"[^\w\s\-]", "", anchor)  # remove punctuation except hyphens and spaces
+    anchor = re.sub(r"\s+", "-", anchor)  # replace spaces with hyphens
+    anchor = re.sub(r"-{2,}", "-", anchor)  # collapse multiple hyphens
+    anchor = anchor.strip("-")  # strip leading/trailing hyphens
+    return anchor
+
+def fetchObject(img_src):
+    filename = f"{normkey}.obj.{img_src.replace('/', '.')}"
+    filename = filename.replace(".~.Dokumente.Bundesnormen.", ".BN.")
+    filename = filename.replace(".hauptdokument.", ".H.")
+    assert ".~." not in filename
+
+    img_url = urljoin(page.url, img_src)
+    response = page.request.get(img_url)
+    assert response.ok, f"Failed to fetch image: {response.status}"
+    if not (p := Path(f"files/{filename}")).is_file():
+        p.write_bytes(response.body())
+        os.system(f"set -ex; zip -vXj RisExFiles.zip files/{filename}")
+    return filename
 
 
 #%% Usage + Getopt + Load Index
@@ -98,10 +125,16 @@ if (normkey := args[0]) not in normindex:
     assert False, "unrecognized shortname"
 normdata = normindex[normkey]
 
+filePatterns = [
+    f"{normkey}.[0-9][0-9][0-9].md",
+    f"{normkey}.toc.json",
+    f"{normkey}.toc.md",
+    f"{normkey}.obj.*"
+]
 if selectParagraph is None:
     os.system(f"""
         mkdir -p files
-        rm -vf files/{normkey}.[0-9][0-9][0-9].md files/{normkey}.toc.json
+        rm -vf files/{' files/'.join(filePatterns)}
     """)
 
 
@@ -132,21 +165,6 @@ if printHttpRequests:
 
 
 #%% Actual Playwright Script
-
-def fetchObject(img_src):
-    if img_src.startswith("~/Dokumente/Bundesnormen/"):
-        filename = f"Obj.BN.{img_src.removeprefix('~/Dokumente/Bundesnormen/').replace('/', '.')}"
-    else:
-        assert False, f"Unrecognized object path: {img_src}"
-    filename = filename.replace(".hauptdokument.", ".H.")
-
-    img_url = urljoin(page.url, img_src)
-    response = page.request.get(img_url)
-    assert response.ok, f"Failed to fetch image: {response.status}"
-    if not (p := Path(f"files/{filename}")).is_file():
-        p.write_bytes(response.body())
-        os.system(f"set -ex; zip -vXj RisExFiles.zip files/{filename}")
-    return filename
 
 # Load Document
 print(f"Loading {normkey} from {normdata['docurl']}")
@@ -325,6 +343,22 @@ infoBlocks.evaluate("el => el.remove()")
 
 blocks = page.locator("div.contentBlock").all()
 
+metaDataLines = list()
+match normdata['type']:
+    case "BG":
+        metaDataLines.append(f"**Typ:** Bundesgesetz  ")
+    case _:
+        assert False, "Unrecognized type"
+titles = [normdata['title']]
+if "extratitles" in normdata:
+    titles += normdata['extratitles']
+metaDataLines.append(f"**Kurztitel:** {', '.join(titles)}  ")
+metaDataLines.append(f"**Langtitel:** {langtitel}  ")
+metaDataLines.append(f"**Letzte Änderung:** {lastchange}  ")
+metaDataLines.append(f"**Quelle:** {normdata['docurl']}  ")
+metaDataLines.append("*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. " +
+                     "(Irrtümer und Fehler vorbehalten.)*")
+
 while blockIndex is not None and blockIndex < len(blocks):
     fileSize = 0
     fileIndex += 1
@@ -336,21 +370,11 @@ while blockIndex is not None and blockIndex < len(blocks):
         outFile = open(f"files/{normkey}.{fileIndex:03}.md", "w")
 
     print(f"# {normkey}.{fileIndex:03}", file=outFile)
-    match normdata['type']:
-        case "BG":
-            print(f"**Typ:** Bundesgesetz  ", file=outFile)
-        case _:
-            assert False, "Unrecognized type"
-    titles = [normdata['title']]
-    if "extratitles" in normdata:
-        titles += normdata['extratitles']
-    print(f"**Kurztitel:** {', '.join(titles)}  ", file=outFile)
-    print(f"**Langtitel:** {langtitel}  ", file=outFile)
-    print(f"**Letzte Änderung:** {lastchange}  ", file=outFile)
-    print(f"**Quelle:** {normdata['docurl']}  ", file=outFile)
-    print("*Mit RisEx für RisEn-GPT zu MarkDown konvertiert. " +
-            "(Irrtümer und Fehler vorbehalten.)*", file=outFile)
-    lineNum = 7
+    lineNum = 1
+
+    for line in metaDataLines:
+        print(line, file=outFile)
+        lineNum += 1
 
     if fileIndex == 1:
         if introSentence is not None:
@@ -456,10 +480,32 @@ if selectParagraph is None:
         print("\n}", file=outFile)
     outFile.close()
 
+    outFile = open(f"files/{normkey}.toc.md", "w")
+    print(f"# {normkey} TOC", file=outFile)
+    for line in metaDataLines:
+        print(line, file=outFile)
+    if introSentence is not None:
+        print("", file=outFile)
+        print(introSentence, file=outFile)
+
+    print("", file=outFile)
+    print("## Inhaltsverzeichnis", file=outFile)
+    for fn, items in indexData:
+        for _, txt in items:
+            if txt.startswith("## "):
+                for line in txt.removeprefix('## ').split(" # "):
+                    print("", file=outFile)
+                    print(f"**{line}**  ", file=outFile)
+            elif txt.startswith("### "):
+                print(f"* [{txt.removeprefix('### ')}]({fn}.md#{markdownHeaderToAnchor(txt)})", file=outFile)
+
+    print("\n`END-OF-TOC`", file=outFile)
+    outFile.close()
+
 if selectParagraph is None:
     os.system(f"""
-        [ -f RisExFiles.zip ] && zip -d RisExFiles.zip "{normkey}.[0-9][0-9][0-9].md" "{normkey}.toc.json"
-        set -ex; zip -vXj RisExFiles.zip files/{normkey}.[0-9][0-9][0-9].md files/{normkey}.toc.json
+        [ -f RisExFiles.zip ] && zip -d RisExFiles.zip "{'" "'.join(filePatterns)}"
+        set -ex; zip -vXj RisExFiles.zip files/{' files/'.join(filePatterns)}
     """)
 
 
