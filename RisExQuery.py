@@ -5,23 +5,28 @@
 _rex_zipPath = "RisExFiles.zip"
 #/#_rex_zipPath = "/mnt/data/RisExFiles.zip"
 
-"""
+def intro():
+    """
+        Return the introduction message for RisExQuery.py.
+    """
+    return """
 Utility library for accessing and searching RisExFiles.zip.
 
 Import as follows in Chat-GPT(-like) script environments:
+```
 exec(open("/mnt/data/RisExQuery.py").read().replace("#/#", "", 1))
-
+```
 
 Formatbeschreibung (zipped) Markdown+JSON-Datensätze in RisExFiles.zip
 ======================================================================
 
-_ Längere Normen sind in Blöcke zu je ca. 20 kB zerteilt
+- Längere Normen sind in Blöcke zu je ca. 20 kB zerteilt
 - Paragraphenbeginn: "### § <nr> StGB. # <titel>" (Markdown H3)
-- Paragraphen: "`§ <nr> StGB.`␣␣\n<text>" (Markdown "quoted code", 2x space + newline)
-- Absätze: "`§ <nr> (<abs>) StGB.`␣␣\n<text>" (Markdown "quoted code", 2x space + newline)
+- Paragraph ohne Absätze: "`§ <nr> StGB.`␣␣\n<text>" (Markdown "quoted code", 2x space + newline)
+- Bzw. für jeden Absatz: "`§ <nr> (<abs>) StGB.`␣␣\n<text>" (Markdown "quoted code", 2x space + newline)
 - Unterpunkte: "`§ <nr> (<abs>) Z <Z> lit. <lit> StGB.`␣␣\n<text>"
-- TOC (`.toc.json`) referenziert exakt die Zeilennummern der "###"-Überschriften im Markdown
-- Trennung der Paragraphen durch nächste "### §"-Zeile oder Dateiende
+- TOC (`.toc.json`) referenziert exakt die Zeilennummern der Überschriften im Markdown
+- Trennung der Paragraphen durch nächste "### §"-Zeile oder "## "-Heading oder Dateiende
 - Unicode-Zeichen (ä, ß, etc.) und geschützte Leerzeichen (\xa0) möglich
 
 
@@ -61,6 +66,23 @@ Example Session:
 
 `§ 71 StGB.`
 Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind.
+
+>>> tx(grep("Urkund", get("", "BG.StGB"))) # Volltextsuche nach "Urkund" im StGB
+
+## Achter Abschnitt # Begriffsbestimmungen| BG.StGB.004:11-12
+
+### § 74 StGB # Andere Begriffsbestimmungen| BG.StGB.004:58-108
+
+Urkunde: eine Schrift, die errichtet worden ist, um ein Recht oder ein Rechtsverhältnis zu begründen, abzuändern oder aufzuheben oder eine Tatsache von rechtlicher Bedeutung zu beweisen;
+
+## Sechster Abschnitt # Strafbare Handlungen gegen fremdes Vermögen| BG.StGB.006:209-210
+
+### § 147 StGB # Schwerer Betrug| BG.StGB.006:496-518
+
+eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfremdetes unbares Zahlungsmittel, ausgespähte Daten eines unbaren Zahlungsmittels, falsche oder verfälschte Daten, ein anderes solches Beweismittel oder ein unrichtiges Meßgerät benützt oder
+
+### § 165 StGB # Geldwäscherei| BG.StGB.006:894-925
+...
 ```
 
 Zweck:
@@ -69,6 +91,9 @@ RisExQuery.py ermöglicht den Zugriff auf Gesetzesdateien im ZIP-Archiv "RisExFi
 
 Funktionen:
 -----------
+- intro():
+  → Gibt diesen Einführungstext zurück.
+
 - ls(filePat=None):
   → Gibt eine Liste aller (matchender) Dateinamen im Archiv zurück.
 
@@ -86,6 +111,9 @@ Funktionen:
 - get(searchPat, filePat=None):
   → Durchsucht .toc.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Zitiert die gefundenden Paragraphen vollständig.
+
+- grep(grepPat, s):
+  → Durchsucht die string(s) im zweiten Argument nach dem pattern.
 
 - tx(data):
   → Ausgabe auf der Konsole in plain ASCII
@@ -244,6 +272,46 @@ def get(searchPat: str, filePat: str = None):
         outLines.append(fetch(key).replace("\n", f"| {key}\n", 1))
     return "\n".join(outLines)
 
+def grep(grepPat: str, s: str):
+    """
+        Search for a pattern in the string(s) provided in the second argument.
+
+        Return a list of the matching lines, as well as the relevant headers
+        for the sections containing matching lines.
+    """
+    if type(s) is not str:
+        s = "\n".join([f"{t[0]} | {t[1]}" if type(t) is tuple else t for t in s])
+
+    matches = list()
+    grepPat = pat(grepPat)
+
+    lastLineMatched = False
+    lastH2, lastH3 = None, None
+    for line in s.split("\n"):
+        if line.startswith("## "):
+            lastH2, lastH3 = line, None
+            lastLineMatched = False
+        if line.startswith("### "):
+            lastH3 = line
+            lastLineMatched = False
+        if grepPat.search(line):
+            if lastH2 is not None:
+                matches.append("")
+                matches.append(lastH2)
+            if lastH3 is not None:
+                matches.append("")
+                matches.append(lastH3)
+            if line != lastH2 and line != lastH3:
+                if not lastLineMatched:
+                    matches.append("")
+                matches.append(line)
+            lastH2, lastH3 = None, None
+            lastLineMatched = True
+        else:
+            lastLineMatched = False
+
+    return matches
+
 def tx(s: str):
     """
         Print (markdown or any other) text to the console as-is
@@ -268,7 +336,9 @@ def md(s: str):
     from rich.console import Console, ConsoleOptions, RenderResult
     from rich.markdown import Markdown
     from rich.markdown import Heading
+    from rich.panel import Panel
     from rich.text import Text
+    from rich import box
 
     def replacement__rich_console__(
         self, console: Console, options: ConsoleOptions
@@ -298,6 +368,8 @@ def md(s: str):
 
 if __name__ == "__main__" and len(sys.argv) > 1:
     match sys.argv[1]:
+        case "intro":
+            md(intro())
         case "ls":
             for line in ls(*sys.argv[2:]):
                 print(line)
@@ -307,7 +379,9 @@ if __name__ == "__main__" and len(sys.argv) > 1:
             print(pat(*sys.argv[2:]).pattern)
         case "toc":
             tx(toc(*sys.argv[2:]))
-        case "get":
+        case "grep":
+            tx(grep(sys.argv[2], get(*sys.argv[3:])))
+        case "tx":
             tx(get(*sys.argv[2:]))
         case "md":
             md(get(*sys.argv[2:]))
