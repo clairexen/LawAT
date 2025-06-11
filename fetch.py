@@ -341,7 +341,10 @@ while blockIndex is not None and blockIndex < len(blocks):
             print(f"**Typ:** Bundesgesetz  ", file=outFile)
         case _:
             assert False, "Unrecognized type"
-    print(f"**Kurztitel:** {normdata['title']}  ", file=outFile)
+    titles = [normdata['title']]
+    if "extratitles" in normdata:
+        titles += normdata['extratitles']
+    print(f"**Kurztitel:** {', '.join(titles)}  ", file=outFile)
     print(f"**Langtitel:** {langtitel}  ", file=outFile)
     print(f"**Letzte Änderung:** {lastchange}  ", file=outFile)
     print(f"**Quelle:** {normdata['docurl']}  ", file=outFile)
@@ -349,9 +352,14 @@ while blockIndex is not None and blockIndex < len(blocks):
             "(Irrtümer und Fehler vorbehalten.)*", file=outFile)
     lineNum = 7
 
-    if introSentence is not None and fileIndex == 1:
+    if fileIndex == 1:
+        if introSentence is not None:
+            print("", file=outFile)
+            print(introSentence, file=outFile)
+            lineNum += 2
+    else:
         print("", file=outFile)
-        print(introSentence, file=outFile)
+        print(f"*(Fortsetzg. v. [{normkey}.{fileIndex-1:03}]({normkey}.{fileIndex-1:03}.md))*", file=outFile)
         lineNum += 2
 
     # Process Content Blocks
@@ -429,7 +437,7 @@ while blockIndex is not None and blockIndex < len(blocks):
         print("\n`END-OF-DATA-SET`", file=outFile)
     else:
         indexData[-1][-1].append([lineNum+2, "END-OF-DATA-FILE"])
-        print("\n`END-OF-DATA-FILE`", file=outFile)
+        print(f"\n`END-OF-DATA-FILE` *(fortges. in [{normkey}.{fileIndex+1:03}]({normkey}.{fileIndex+1:03}.md))*", file=outFile)
 
     if selectParagraph is None:
         outFile.close()
