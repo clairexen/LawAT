@@ -2,6 +2,9 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
+_rex_zipPath = "RisExFiles.zip"
+#/#_rex_zipPath = "/mnt/data/RisExFiles.zip"
+
 """
 Utility library for accessing and searching RisExFiles.zip.
 
@@ -102,9 +105,6 @@ Merksatz: "Immer zuerst toc() oder get() – nie raten."
 """
 
 import zipfile, json, os, sys, re, fnmatch
-
-_rex_zipPath = "RisExFiles.zip"
-#/#_rex_zipPath = "/mnt/data/RisExFiles.zip"
 
 _rex_zip = zipfile.ZipFile(_rex_zipPath)
 _rex_dir = set([f.filename for f in _rex_zip.filelist])
