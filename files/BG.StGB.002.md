@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.001](BG.StGB.001.md))*
+
 ## Vierter Abschnitt # Strafbemessung
 
 ### § 32 StGB # Allgemeine Grundsätze
@@ -492,4 +494,4 @@ Wird die bedingte Nachsicht nicht widerrufen, so dauert jede der zusammentreffen
 `§ 56 StGB.`  
 Die in den §§ 53 bis 55 vorgesehenen Verfügungen kann das Gericht nur in der Probezeit, wegen einer während dieser Zeit begangenen strafbaren Handlung jedoch auch innerhalb von sechs Monaten nach Ablauf der Probezeit oder nach Beendigung eines bei deren Ablauf gegen den Rechtsbrecher anhängigen Strafverfahrens treffen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.003](BG.StGB.003.md))*

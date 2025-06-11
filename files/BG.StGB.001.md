@@ -372,4 +372,4 @@ Verschlechtern sich nachträglich die persönlichen Verhältnisse oder die wirts
 `§ 31a (3) StGB.`  
 Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils nicht auf Verfall oder nur auf Verfall geringerer Vermögenswerte zu erkennen gewesen wäre, hat das Gericht die Entscheidung entsprechend zu ändern.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.002](BG.StGB.002.md))*

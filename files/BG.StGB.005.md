@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.004](BG.StGB.004.md))*
+
 ## Zweiter Abschnitt # Schwangerschaftsabbruch
 
 ### § 96 StGB # Schwangerschaftsabbruch
@@ -263,4 +265,4 @@ Hat der Täter die Einwilligung des Behandelten in der Annahme nicht eingeholt, 
 `§ 110 (3) StGB.`  
 Der Täter ist nur auf Verlangen des eigenmächtig Behandelten zu verfolgen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.006](BG.StGB.006.md))*

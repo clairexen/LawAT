@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.011](BG.StGB.011.md))*
+
 ## Einundzwanzigster Abschnitt # Strafbare Handlungen gegen die Rechtspflege
 
 ### § 288 StGB # Falsche Beweisaussage
@@ -324,4 +326,4 @@ Wer eine Person im Auftrag oder mit Billigung eines Staates oder einer politisch
 `§ 313 StGB.`  
 Wird eine auch sonst mit Strafe bedrohte vorsätzliche Handlung von einem Beamten unter Ausnützung der ihm durch seine Amtstätigkeit gebotenen Gelegenheit begangen, so kann bei ihm das Höchstmaß der angedrohten Freiheitsstrafe oder Geldstrafe um die Hälfte überschritten werden. Doch darf die zeitliche Freiheitsstrafe die Dauer von zwanzig Jahren nicht überschreiten.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.013](BG.StGB.013.md))*

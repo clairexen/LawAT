@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.003](BG.StGB.003.md))*
+
 ## Achter Abschnitt # Begriffsbestimmungen
 
 ### § 68 StGB # Zeitberechnung
@@ -348,4 +350,4 @@ Wer es bei einem Unglücksfall oder einer Gemeingefahr (§ 176) unterläßt, di
 `§ 95 (2) StGB.`  
 Die Hilfeleistung ist insbesondere dann nicht zuzumuten, wenn sie nur unter Gefahr für Leib oder Leben oder unter Verletzung anderer ins Gewicht fallender Interessen möglich wäre.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.005](BG.StGB.005.md))*

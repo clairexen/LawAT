@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.010](BG.StGB.010.md))*
+
 ## Neunzehnter Abschnitt # Strafbare Handlungen gegen die Staatsgewalt
 
 ### § 269 StGB # Widerstand gegen die Staatsgewalt
@@ -324,4 +326,4 @@ Wer sich, wenn auch nur fahrlässig, durch den Genuß von Alkohol oder den Gebra
 `§ 287 (2) StGB.`  
 Der Täter ist nur auf Verlangen oder mit Ermächtigung zu verfolgen, wenn die im Rausch begangene mit Strafe bedrohte Handlung nur auf Verlangen, auf Antrag oder mit Ermächtigung zu verfolgen ist.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.012](BG.StGB.012.md))*

@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.007](BG.StGB.007.md))*
+
 ## Achter Abschnitt # Strafbare Handlungen gegen den religiösen Frieden und die Ruhe der Toten
 
 ### § 188 StGB # Herabwürdigung religiöser Lehren
@@ -434,4 +436,4 @@ Das Tätigkeitsverbot beginnt mit Rechtskraft der Entscheidung, mit der das Verb
 `§ 220b (4) StGB.`  
 Wer einer Tätigkeit nachgeht, obwohl ihm deren Ausübung nach den vorstehenden Bestimmungen untersagt wurde, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.009](BG.StGB.009.md))*

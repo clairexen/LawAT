@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.002](BG.StGB.002.md))*
+
 ## Sechster Abschnitt # Verjährung
 
 ### § 57 StGB # Verjährung der Strafbarkeit
@@ -233,4 +235,4 @@ Eine mit Strafe bedrohte Handlung hat der Täter zu der Zeit begangen, da er geh
 `§ 67 (2) StGB.`  
 Eine mit Strafe bedrohte Handlung hat der Täter an jedem Ort begangen, an dem er gehandelt hat oder hätte handeln sollen oder ein dem Tatbild entsprechender Erfolg ganz oder zum Teil eingetreten ist oder nach der Vorstellung des Täters hätte eintreten sollen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.004](BG.StGB.004.md))*

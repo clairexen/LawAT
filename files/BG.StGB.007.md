@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.006](BG.StGB.006.md))*
+
 ## Siebenter Abschnitt # Gemeingefährliche strafbare Handlungen und strafbare Handlungen gegen die Umwelt
 
 ### § 169 StGB # Brandstiftung
@@ -341,4 +343,4 @@ Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen (§ 84 Abs.
 `§ 187 StGB.`  
 Wer eine Maßnahme, die zur Abwendung einer gegenwärtigen Gefahr für Leib oder Leben (§ 89) einer größeren Zahl von Menschen oder für fremdes Eigentum in großem Ausmaß notwendig ist, vereitelt oder erschwert, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.008](BG.StGB.008.md))*

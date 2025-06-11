@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.005](BG.StGB.005.md))*
+
 ## Vierter Abschnitt # Strafbare Handlungen gegen die Ehre
 
 ### § 111 StGB # Üble Nachrede
@@ -1022,4 +1024,4 @@ Wer durch die Tat einen 5 000 Euro übersteigenden Schaden herbeiführt oder d
 `§ 168g (3) StGB.`  
 Wer durch die Tat einen 100 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wer durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.007](BG.StGB.007.md))*

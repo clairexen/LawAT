@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.009](BG.StGB.009.md))*
+
 ## Vierzehnter Abschnitt # Hochverrat und andere Angriffe gegen den Staat
 
 ### § 242 StGB # Hochverrat
@@ -264,4 +266,4 @@ Wer mit Gewalt oder durch gefährliche Drohung eine Wahl, eine Volksabstimmung o
 `§ 268 StGB.`  
 Wer einer dem Schutz des Wahl- oder Abstimmungsgeheimnisses dienenden Vorschrift in der Absicht zuwiderhandelt, sich oder einem anderen Kenntnis davon zu verschaffen, wie jemand gewählt oder gestimmt hat, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.011](BG.StGB.011.md))*

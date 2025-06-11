@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 *Mit RisEx für RisEn-GPT zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Fortsetzg. v. [BG.StGB.012](BG.StGB.012.md))*
+
 ## Dreiundzwanzigster Abschnitt # Amtsanmaßung und Erschleichung eines Amtes
 
 ### § 314 StGB # Amtsanmaßung
@@ -284,4 +286,4 @@ Wer unter den in Abs. 1 bezeichneten Voraussetzungen eine solche Angriffshandlu
 `§ 321k (3) StGB.`  
 Im Sinne des Abs. 1 bedeutet „Angriffshandlung“ eine gegen die Souveränität, die territoriale Unversehrtheit oder die politische Unabhängigkeit eines Staates gerichtete oder sonst mit der Satzung der Vereinten Nationen unvereinbare Anwendung von Waffengewalt durch einen anderen Staat.
 
-`END-OF-DATA-FILE`
+`END-OF-DATA-FILE` *(fortges. in [BG.StGB.014](BG.StGB.014.md))*
