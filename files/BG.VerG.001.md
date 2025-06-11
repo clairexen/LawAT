@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+*(Inhaltsverzeichnis: [BG.VerG.toc](BG.VerG.toc.md))*
+
 ## 1. Abschnitt # Allgemeine Bestimmungen
 
 ### § 1 VerG # Verein

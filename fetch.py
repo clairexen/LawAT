@@ -377,6 +377,9 @@ while blockIndex is not None and blockIndex < len(blocks):
         lineNum += 1
 
     if fileIndex == 1:
+        print("", file=outFile)
+        print(f"*(Inhaltsverzeichnis: [{normkey}.toc]({normkey}.toc.md))*", file=outFile)
+        lineNum += 2
         if introSentence is not None:
             print("", file=outFile)
             print(introSentence, file=outFile)
