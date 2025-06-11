@@ -39,12 +39,11 @@ Locator.get_attrset = lambda self, name: set() if self.get_attribute(name) is No
 #%% Various Utility Functions
 
 def markdownHeaderToAnchor(header: str) -> str:
-    anchor = unicodedata.normalize("NFKD", header)  # normalize unicode (e.g., ä → ä)
+    anchor = unicodedata.normalize("NFC", header)  # normalize unicode (e.g., ä → ä)
     anchor = anchor.lower()  # convert to lowercase
-    anchor = re.sub(r"[^\w\s\-]", "", anchor)  # remove punctuation except hyphens and spaces
     anchor = re.sub(r"\s+", "-", anchor)  # replace spaces with hyphens
-    anchor = re.sub(r"-{2,}", "-", anchor)  # collapse multiple hyphens
-    anchor = anchor.strip("-")  # strip leading/trailing hyphens
+    anchor = re.sub(r"[^\w\s\-]", "", anchor)  # remove punctuation except hyphens and spaces
+    anchor = anchor.removeprefix("-") # remove one (and only one) leading hyphen
     return anchor
 
 def fetchObject(img_src):
