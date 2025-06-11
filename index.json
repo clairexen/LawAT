@@ -31,6 +31,7 @@
         "type": "BG",
         "title": "VerG",
         "extratitles": ["VerG 2002"],
+        "promulgationsklausel": "Der Nationalrat hat beschlossen:",
         "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917"
     },
     "BG.StVO": {

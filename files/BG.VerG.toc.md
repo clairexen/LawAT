@@ -6,6 +6,8 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
+Der Nationalrat hat beschlossen:
+
 ## Inhaltsverzeichnis
 
 **1. Abschnitt**  

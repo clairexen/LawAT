@@ -8,6 +8,8 @@
 
 *(Inhaltsverzeichnis: [BG.VerG.toc](BG.VerG.toc.md))*
 
+Der Nationalrat hat beschlossen:
+
 ## 1. Abschnitt # Allgemeine Bestimmungen
 
 ### § 1 VerG # Verein

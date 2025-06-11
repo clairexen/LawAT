@@ -189,6 +189,8 @@ lastchange = infoBlocks.locator(":scope h3").get_by_text("Änderung") \
 # Extract intro sentence
 if (p := infoBlocks.locator(":scope p.PromKlEinlSatz")).count() == 1:
     introSentence = p.stripped_text().strip()
+elif "promulgationsklausel" in normdata:
+    introSentence = normdata['promulgationsklausel']
 else:
     introSentence = None
 
