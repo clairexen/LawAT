@@ -80,7 +80,8 @@ Funktionen:
 
 - toc(searchPat, filePat=None):
   → Durchsucht .toc.json-Dateien nach Überschriften, die dem Muster entsprechen.
-     Gibt eine liste der gefundenden Überschriften zurück.
+     Gibt eine liste der gefundenden Überschriften zurück.  WICHTIG: Die Dateinamen
+     beginnen mit dem Typ des Gesetzes. Also zB "BG.StGB", nicht nur "StGB".
 
 - get(searchPat, filePat=None):
   → Durchsucht .toc.json-Dateien nach Überschriften, die dem Muster entsprechen.
