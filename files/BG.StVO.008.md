@@ -10,7 +10,7 @@
 
 ## VII. ABSCHNITT. # Besondere Vorschriften für den Fuhrwerksverkehr.
 
-### § 70 StVO #  Lenkung von Fuhrwerken.
+### § 70 StVO # Lenkung von Fuhrwerken.
 
 `§ 70 (1) StVO.`  
 Der Lenker eines Fuhrwerks muss, sofern sich aus den Bestimmungen über Wirtschaftsfuhren nichts anderes ergibt, mindestens 16 Jahre alt sein; abweichend hiervon ist das Lenken von Gespannen im Rahmen der Ausbildung an einer landwirtschaftlichen Fachschule im Beisein von geprüften Fahrinstruktoren oder Fahrlehrern ab dem vollendeten 15. Lebensjahr zulässig.
@@ -24,7 +24,7 @@ Der Besitzer eines Fuhrwerkes hat dafür zu sorgen, daß es nur im vorschriftsm�
 `§ 70 (4) StVO.`  
 Werden auf einem Fuhrwerk Personen befördert, so hat der Lenker dafür zu sorgen, daß sie so untergebracht sind, daß sie den sicheren Betrieb des Fuhrwerkes und die Verkehrssicherheit nicht beeinträchtigen und gefahrlos befördert werden können.
 
-### § 71 StVO #  Maße und Gewichte.
+### § 71 StVO # Maße und Gewichte.
 
 `§ 71 (1) StVO.`  
 Die Länge eines Fuhrwerkes darf bei Möbel-, Theaterkulissen- und Langgutwagen ohne Deichsel, bei anderen Fuhrwerken mit der Deichsel 10 m nicht überschreiten. Die Ladung darf bei Möbel-, Theaterkulissen- und Langgutwagen nicht länger als 16 m sein und bei anderen Fuhrwerken um nicht mehr als die Hälfte des Achsabstandes über die Hinterachse hinausragen.
@@ -44,7 +44,7 @@ Das Gesamtgewicht (§ 2 Abs. 1 Z 20) eines Fuhrwerkes darf unter Bedachtnahme
 `§ 71 (5) StVO.`  
 Die im Abs. 4 angeführten Gesamtgewichte dürfen bei mehr als zweispännigen Fuhrwerken überschritten werden, doch darf das Gesamtgewicht keinesfalls 10 t übersteigen.
 
-### § 72 StVO #  Beschaffenheit und Ausstattung des Fuhrwerkes.
+### § 72 StVO # Beschaffenheit und Ausstattung des Fuhrwerkes.
 
 `§ 72 (1) StVO.`  
 Der Lenker eines Fuhrwerkes, das nicht durch eine Zugmaschine fortbewegt wird, darf keine Vorrichtungen zur Abgabe von Schall- oder Blinkzeichen (§ 22) verwenden. Glocken und Schellen an Zugtieren und Schlitten werden von diesem Verbot nicht berührt.
@@ -61,7 +61,7 @@ Zur Verstärkung der Wirkung der Bremsvorrichtungen (Abs. 3) dürfen Radschuhe 
 `§ 72 (5) StVO.`  
 Radfelgen, Radreifen und Radschuhe, die wulstartige Erhöhungen, hervorstehende Nägel oder Schrauben aufweisen oder sonst geeignet sind, die Fahrbahn zu beschädigen, dürfen nicht verwendet werden. Durch das Ziehen von Maschinen und Geräten darf die Fahrbahn nicht beschädigt werden.
 
-### § 73 StVO #  Beleuchtung des Fuhrwerkes.
+### § 73 StVO # Beleuchtung des Fuhrwerkes.
 
 `§ 73 (1) StVO.`  
 Zur Beleuchtung eines Fuhrwerkes (§ 60) sind zwei Lampen zu verwenden, die beide nach vorne weiß und nach hinten rot leuchten. Die Lichter müssen deutlich erkennbar sein und die Breite des Fahrzeuges erkennen lassen; sie können auch an der Ladung angebracht werden, wenn dies zweckmäßiger ist. Bei Handwagen, Handkarren und Handschlitten genügt jedoch eine Lampe, die nach vorne weiß und nach hinten rot leuchtet; kann die Lampe an solchen Fahrzeugen oder an deren Ladungen nicht deutlich sichtbar angebracht werden, so ist sie hinter dem Fahrzeug gut sichtbar zu tragen.
@@ -78,7 +78,7 @@ Am vorderen Ende der Deichsel sind weiße oder gelbe Rückstrahler beweglich auf
 `§ 73 (5) StVO.`  
 Die Beleuchtungseinrichtungen und Rückstrahler müssen in einem solchen Zustand gehalten werden, daß sie voll wirksam sind.
 
-### § 74 StVO #  Bespannung.
+### § 74 StVO # Bespannung.
 
 `§ 74 (1) StVO.`  
 Die Zugtiere müssen zum Ziehen des Fuhrwerkes tauglich sein. Lahme oder übermüdete Tiere sowie solche, deren Eignung zum Ziehen eines Fuhrwerkes insbesondere durch äußerlich erkennbare Leiden oder Wunden herabgemindert ist, dürfen nicht als Zugtiere verwendet werden.
@@ -92,7 +92,7 @@ Werden Tiere uneingespannt an einem Fuhrwerk mitgeführt, so sind sie an ein Zug
 `§ 74 (4) StVO.`  
 Geschirr und Zügel müssen zweckmäßig sein und sich in gutem Zustand befinden. Die Verwendung von Gabelzügeln ist verboten.
 
-### § 75 StVO #  Ankoppeln.
+### § 75 StVO # Ankoppeln.
 
 `§ 75 (1) StVO.`  
 An ein Fuhrwerk darf nur ein weiteres Fuhrwerk angekoppelt werden. Dies gilt jedoch nur dann, wenn beide Fuhrwerke mit besonders leichtem Gut oder nur mäßig beladen sind oder wenn das zweite Fuhrwerk unbeladen, ein zweirädriger Karren oder ein Handwagen ist. Das Fuhrwerk ist so anzukoppeln, daß es nicht losreißen kann.
@@ -105,7 +105,7 @@ Die Bestimmungen der Abs. 1 und 2 gelten auch für das Ankoppeln von Fuhrwerken
 
 ## VIII. ABSCHNITT. # Fußgängerverkehr.
 
-### § 76 StVO #  Fußverkehr
+### § 76 StVO # Fußverkehr
 
 `§ 76 (1) StVO.`  
 Fußgänger haben, auch wenn sie Kinderwagen oder Rollstühle schieben oder ziehen, auf Gehsteigen oder Gehwegen zu gehen, sofern dies zumutbar ist; beim Betreten der Fahrbahn ist auf den übrigen Verkehr achtzugeben. Sind Gehsteige oder Gehwege nicht vorhanden, so haben Fußgänger das Straßenbankett und, wenn auch dieses fehlt, den äußersten Fahrbahnrand zu benützen; hiebei haben sie auf Freilandstraßen, außer im Falle der Unzumutbarkeit, auf dem linken Straßenbankett (auf dem linken Fahrbahnrand) zu gehen. Benützer von selbstfahrenden Rollstühlen dürfen Gehsteige, Gehwege und Fußgängerzonen in Schrittgeschwindigkeit befahren.
@@ -141,7 +141,7 @@ Mit anderen als den im Abs. 1 genannten Kleinfahrzeugen und von Lastenträgern 
 `§ 76 (10) StVO.`  
 entfällt.
 
-### § 76a StVO #  Fußgängerzone
+### § 76a StVO # Fußgängerzone
 
 `§ 76a (1) StVO.`  
 Die Behörde kann, wenn es die Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs, insbesondere des Fußgängerverkehrs, die Entflechtung des Verkehrs oder die Lage, Widmung oder Beschaffenheit eines Gebäudes oder Gebietes erfordert, durch Verordnung Straßenstellen oder Gebiete dauernd oder zeitweilig dem Fußgängerverkehr vorbehalten (Fußgängerzone). Vor Erlassung einer solchen Verordnung ist die Eisenbahnbehörde anzuhören, wenn auf der betroffenen Straßenstelle oder in dem betroffenen Gebiet Schienenfahrzeuge verkehren. In einer solchen Fußgängerzone ist jeglicher Fahrzeugverkehr verboten, sofern sich aus den folgenden Bestimmungen nichts anderes ergibt; das Schieben eines Fahrrades ist erlaubt. Die Bestimmungen des § 45 über Ausnahmen in Einzelfällen bleiben unberührt.
@@ -185,7 +185,7 @@ Die Lenker von Fahrzeugen dürfen in eine Fußgängerzone nur an den hiefür vor
 `§ 76a (7) StVO.`  
 Fußgänger dürfen in Fußgängerzonen auch die Fahrbahn benützen. Sie dürfen dabei aber den erlaubten Fahrzeugverkehr nicht mutwillig behindern.
 
-### § 76b StVO #  Wohnstraße
+### § 76b StVO # Wohnstraße
 
 `§ 76b (1) StVO.`  
 Die Behörde kann, wenn es die Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs, insbesondere des Fußgängerverkehrs, die Entflechtung des Verkehrs oder die Lage, Widmung oder Beschaffenheit eines Gebäudes oder Gebietes erfordert, durch Verordnung Straßenstellen oder Gebiete dauernd oder zeitweilig zu Wohnstraßen erklären. In einer solchen Wohnstraße ist der Fahrzeugverkehr verboten; ausgenommen davon sind der Fahrradverkehr, das Befahren mit Fahrzeugen des Straßendienstes, der Müllabfuhr, des öffentlichen Sicherheitsdienstes, der Strafvollzugsverwaltung und der Feuerwehr in Ausübung des Dienstes sowie das Befahren zum Zwecke des Zu- und Abfahrens.
@@ -222,7 +222,7 @@ Für die Kundmachung einer Verordnung nach Abs. 1 gelten die Bestimmungen des �
 `§ 76c (6) StVO.`  
 Wenn es der Leichtigkeit und Flüssigkeit des Verkehrs dient und aus Gründen der Sicherheit des Verkehrs keine Bedenken dagegen bestehen, kann die Behörde in der Verordnung nach Abs. 1 die erlaubte Höchstgeschwindigkeit auf 30 km/h erhöhen.
 
-### § 76d StVO #  Schulstraße
+### § 76d StVO # Schulstraße
 
 `§ 76d (1) StVO.`  
 Die Behörde kann, wenn es der Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs, insbesondere des Fußgängerverkehrs, dient, durch Verordnung Straßenstellen oder Gebiete in der unmittelbaren Umgebung von Schulgebäuden, zu Schulstraßen erklären. Bei der Verordnung ist insbesondere auf Schultage sowie die Tageszeiten von Schulbeginn und Schulende Bedacht zu nehmen.
@@ -239,7 +239,7 @@ Die Lenker von Fahrzeugen dürfen Fußgänger nicht behindern oder gefährden, h
 `§ 76d (5) StVO.`  
 Für die Kundmachung einer Verordnung nach Abs. 1 gelten die Bestimmungen des § 44 Abs. 1 mit der Maßgabe, dass am Anfang und am Ende einer Schulstraße die betreffenden Hinweiszeichen (§ 53 Abs. 1 Z 26a und 29) anzubringen sind.
 
-### § 77 StVO #  Geschlossene Züge von Fußgängern.
+### § 77 StVO # Geschlossene Züge von Fußgängern.
 
 `§ 77 (1) StVO.`  
 Geschlossene Züge von Fußgängern, insbesondere geschlossene Verbände des Bundesheeres oder des Sicherheitsdienstes, Prozessionen, Leichenbegängnisse und sonstige Umzüge haben die Fahrbahn zu benützen. Für geschlossene Kinder- oder Schülergruppen gilt dies jedoch nur dann, wenn Gehsteige, Gehwege oder Straßenbankette nicht vorhanden sind. Geschlossene Züge von Fußgängern dürfen über Brücken und Stege nicht im Gleichschritt marschieren. Bei der Benützung der Fahrbahn durch solche Züge gelten die Bestimmungen des II. Abschnittes sowie die Bestimmungen über die Bedeutung der Arm- oder Lichtzeichen sinngemäß.
@@ -250,7 +250,7 @@ Bei Dämmerung, Dunkelheit, Nebel oder wenn es die Witterung sonst erfordert, is
 `§ 77 (3) StVO.`  
 Ein geschlossener Zug von Fußgängern darf auch durch mitfahrende Fahrzeuge beleuchtet werden. In einem solchen Falle gelten die Bestimmungen des Abs. 2 sinngemäß. Das linke Licht muß in einer Linie mit den links gehenden Personen liegen.
 
-### § 78 StVO #  Verhalten auf Verkehrsflächen mit Fußverkehr
+### § 78 StVO # Verhalten auf Verkehrsflächen mit Fußverkehr
 Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:  
 `§ 78 lit. a) StVO.`
 andere Straßenbenützer zu gefährden, insbesondere mit Gegenständen, die scharf, spitz oder sonst gefährlich sind sowie  

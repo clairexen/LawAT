@@ -56,7 +56,7 @@ einfach nur so ganz lieb ist,
 der hat sich ein Bussi von der Kaiserin verdient.
 
 `§ 2 (2) BussiG.`  
-Sich ein Bussi verdient zu haben begründet aber keinen Anschpruch auf ein Bussi oder Ersatz.
+Sich ein Bussi verdient zu haben begründet aber keinen Anschpruch auf ein Bussi oder einen Ersatz.
 
 `§ 2 (2a) BussiG.`  
 Wer sich ein Bussi verdient und keines bekommen hat, darf aber etwas traurig dreinschaun.

@@ -10,7 +10,7 @@
 
 ## D. Straßenverkehrszeichen.
 
-### § 48 StVO #  Anbringung der Straßenverkehrszeichen.
+### § 48 StVO # Anbringung der Straßenverkehrszeichen.
 
 `§ 48 (1) StVO.`  
 Die Straßenverkehrszeichen (§§ 50, 52 und 53) sind als Schilder aus festem Material unter Bedachtnahme auf die Art der Straße und unter Berücksichtigung der auf ihr üblichen Verkehrsverhältnisse, namentlich der darauf üblichen Geschwindigkeit von Fahrzeugen, in einer solchen Art und Größe anzubringen, daß sie von den Lenkern herannahender Fahrzeuge leicht und rechtzeitig erkannt werden können. Im Verlauf derselben Straße sind womöglich Straßenverkehrszeichen mit gleichen Abmessungen zu verwenden.
@@ -40,7 +40,7 @@ Der Abstand zwischen dem unteren Rand eines Straßenverkehrszeichens und der Fah
 `§ 48 (6) StVO.`  
 Wenn es die Verkehrssicherheit erfordert, insbesondere bei unübersichtlichem Straßenverlauf, sind in angemessener Entfernung vor einem nach den Bestimmungen der §§ 49, 50, 52 oder 53 angebrachten Straßenverkehrszeichen ein oder mehrere gleiche Zeichen - ausgenommen beim Zeichen „Halt“ - anzubringen, unter denen auf einer Zusatztafel nach § 54 Abs. 5 lit. a die Entfernung bis zu der Straßenstelle anzugeben ist, auf die sich das Straßenverkehrszeichen bezieht. Dies gilt insbesondere für die Gefahrenzeichen „Fußgängerübergang“ und „Voranzeiger für Verkehrsampel“, für die Vorschriftszeichen „Vorrang geben“ und „Wartepflicht bei Gegenverkehr“ sowie für das Hinweiszeichen „Krankenhaus“. Wird das Vorschriftszeichen „Halt“ vorangekündigt, so ist hiefür das Vorschriftszeichen „Vorrang geben“ mit einer Zusatztafel nach § 54 Abs. 5 lit. c zu verwenden.
 
-### § 49 StVO #  Allgemeines über Gefahrenzeichen.
+### § 49 StVO # Allgemeines über Gefahrenzeichen.
 
 `§ 49 (1) StVO.`  
 Die Gefahrenzeichen kündigen an, daß sich in der Fahrtrichtung auf der Fahrbahn Gefahrenstellen befinden. Die Lenker von Fahrzeugen haben sich in geeigneter Weise, erforderlichenfalls durch Verminderung der Geschwindigkeit, der angekündigten Gefahr entsprechend zu verhalten.
@@ -54,7 +54,7 @@ Wenn es jedoch der Verkehrssicherheit besser entspricht, sind die Gefahrenzeiche
 `§ 49 (4) StVO.`  
 Wenn sich Gefahrenstellen über einen längeren Straßenabschnitt erstrecken (wie etwa Gefälle, Schleudergefahr, Steinschlag, Wildwechsel u. a.) und dies nicht erkennbar ist oder nicht vermutet werden kann, so ist auf einer Zusatztafel nach § 54 Abs. 5 lit. b die Länge der Gefahrenstelle anzugeben. Innerhalb einer längeren Gefahrenstelle ist das betreffende Gefahrenzeichen zu wiederholen, wenn dies die Verkehrssicherheit erfordert.
 
-### § 50 StVO #  Die Gefahrenzeichen.
+### § 50 StVO # Die Gefahrenzeichen.
 Die Gefahrenzeichen sind  
 **1. „QUERRINNE“ oder „AUFWÖLBUNG“**  
 ![BG.StVO.obj.BN.NOR40081328.image001.png](BG.StVO.obj.BN.NOR40081328.image001.png "~/Dokumente/Bundesnormen/NOR40081328/image001.png")  
@@ -168,7 +168,7 @@ Dieses Zeichen kündigt eine Lichtsignalanlage an. Es ist nur dann anzubringen, 
 ![BG.StVO.obj.BN.NOR40081328.image037.png](BG.StVO.obj.BN.NOR40081328.image037.png "~/Dokumente/Bundesnormen/NOR40081328/image037.png")  
 Dieses Zeichen kündigt andere als in Z 1 bis 15 angeführte Gefahrenstellen an. Auf einer Zusatztafel unter dem Zeichen kann die Gefahr näher bezeichnet werden, wie etwa Bankett nicht befahrbar, Holzbringung, Lawinengefahr, Wasserschutzgebiet u. dgl.
 
-### § 51 StVO #  Allgemeines über Vorschriftszeichen.
+### § 51 StVO # Allgemeines über Vorschriftszeichen.
 
 `§ 51 (1) StVO.`  
 Die Vorschriftszeichen sind vor der Stelle, für die sie gelten, anzubringen. Gilt die Vorschrift für eine längere Straßenstrecke, so ist das Ende der Strecke durch ein gleiches Zeichen, unter dem eine Zusatztafel mit der Aufschrift „ENDE“ anzubringen ist, kenntlich zu machen, sofern sich aus den Bestimmungen des § 52 nichts anderes ergibt. Innerhalb dieser Strecke ist das Zeichen zu wiederholen, wenn es die Verkehrssicherheit erfordert. Gilt ein Überholverbot oder eine Geschwindigkeitsbeschränkung für eine Straßenstrecke von mehr als 1 km, so ist bei den betreffenden Vorschriftszeichen die Länge der Strecke mit einer Zusatztafel nach § 54 Abs. 5 lit. b anzugeben, wenn es die Verkehrssicherheit erfordert; dies gilt für allfällige Wiederholungszeichen sinngemäß.
@@ -185,7 +185,7 @@ Für die Anbringung von Vorschriftszeichen, die sich auf ein ganzes Ortsgebiet o
 `§ 51 (5) StVO.`  
 Mündet in einen Straßenabschnitt, für den durch Vorschriftszeichen Verkehrsbeschränkungen kundgemacht sind, eine andere Straße ein, so können diese Beschränkungen auch schon auf der einmündenden Straße durch die betreffenden Vorschriftszeichen mit einer Zusatztafel mit Pfeilen angezeigt werden. Solche Zeichen sind im Ortsgebiet höchstens 20 m und auf Freilandstraßen höchstens 50 m vor der Einmündung anzubringen.
 
-### § 52 StVO #  Die Vorschriftszeichen
+### § 52 StVO # Die Vorschriftszeichen
 Die Vorschriftszeichen sind  
 `§ 52 lit. a) StVO.`
 Verbots- oder Beschränkungszeichen,  
@@ -388,7 +388,7 @@ Dieses Zeichen zeigt den Beginn und den Verlauf einer Vorrangstraße an. Wenn ei
 ![BG.StVO.obj.BN.NOR40261453.H.img59is.png](BG.StVO.obj.BN.NOR40261453.H.img59is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img59is.png")  
 Dieses Zeichen zeigt das Ende einer Vorrangstraße an.
 
-### § 53 StVO #  Die Hinweiszeichen
+### § 53 StVO # Die Hinweiszeichen
 
 `§ 53 (1) StVO.`  
 Die Hinweiszeichen weisen auf verkehrswichtige Umstände hin. Hinweiszeichen sind die folgenden Zeichen:  
@@ -634,7 +634,7 @@ Diese Zeichen zeigen einen Geh- und Radweg an, der von Radfahrern benützt werde
 „Ende einer Fahrradstraße, einer Schulstraße, eines Radweges oder eines Geh- und Radweges ohne Benützungspflicht“  
 Ein roter Querbalken von links unten nach rechts oben in den Zeichen nach Z 26, 26a, 27, 28 und 29 zeigt das Ende der jeweiligen Fahrradstraße, Schulstraße oder Radfahranlage an.
 
-### § 54 StVO #  Zusatztafeln.
+### § 54 StVO # Zusatztafeln.
 
 `§ 54 (1) StVO.`  
 Unter den in den §§ 50, 52 und 53 genannten Straßenverkehrszeichen sowie unter den in § 38 genannten Lichtzeichen können auf Zusatztafeln weitere, das Straßenverkehrszeichen oder Lichtzeichen erläuternde oder wichtige, sich auf das Straßenverkehrszeichen oder Lichtzeichen beziehende, dieses erweiternde oder einschränkende oder der Sicherheit oder Leichtigkeit des Verkehrs dienliche Angaben gemacht werden.

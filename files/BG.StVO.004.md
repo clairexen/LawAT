@@ -10,7 +10,7 @@
 
 ## IV. ABSCHNITT. # Regelung und Sicherung des Verkehrs. # A. Gemeinsame Bestimmungen.
 
-### § 31 StVO #  Einrichtungen zur Regelung und Sicherung des Verkehrs.
+### § 31 StVO # Einrichtungen zur Regelung und Sicherung des Verkehrs.
 
 `§ 31 (1) StVO.`  
 Einrichtungen zur Regelung und Sicherung des Verkehrs (insbesondere Verkehrsampeln, Signalscheiben, Straßenverkehrszeichen, Verkehrsleiteinrichtungen, Leiteinrichtungen für Menschen mit Sehbehinderung, Sockel für Verkehrsposten, Verkehrstürme, Schutzinseln, Sperrketten, Geländer, Begrenzungspfeiler, Randsteine, radableitende Randbegrenzungen, Straßenbeleuchtungseinrichtungen, Schneegatter, Verkehrsspiegel und das allenfalls mit solchen Einrichtungen verbundene Rückstrahlmaterial) dürfen nicht beschädigt oder unbefugt angebracht, entfernt, verdeckt oder in ihrer Lage oder Bedeutung verändert werden.
@@ -21,7 +21,7 @@ Es ist verboten, an den in Abs. 1 bezeichneten Einrichtungen Beschriftungen, bi
 `§ 31 (3) StVO.`  
 Die Behörde ist berechtigt, unbefugt an den in Abs. 1 bezeichneten Einrichtungen angebrachte Beschriftungen, bildliche Darstellungen, Anschläge, geschäftliche Anpreisungen oder dgl. auf Kosten des für die Anbringung Verantwortlichen ohne weiteres Verfahren entfernen zu lassen.
 
-### § 32 StVO #  Anbringungspflicht und Kosten.
+### § 32 StVO # Anbringungspflicht und Kosten.
 
 `§ 32 (1) StVO.`  
 Die Einrichtungen zur Regelung und Sicherung des Verkehrs sind, sofern sich aus den folgenden Absätzen nichts anderes ergibt, vom Straßenerhalter auf seine Kosten anzubringen und zu erhalten. Die Kosten der Anbringung und Erhaltung dieser Einrichtungen auf und an Kreuzungen sind von den beteiligten Straßenerhaltern entsprechend dem Ausmaß des Verkehrs auf jeder Straße zu tragen. Die Erhaltung der Einrichtungen umfaßt auch ihre allenfalls notwendige Beleuchtung. Hinsichtlich des Hinweiszeichens „Gottesdienste“ gilt § 53 Abs. 1 Z 3a und hinsichtlich der Hinweiszeichen „Pannenhilfe“, „Verkehrsfunk“ und „Tankstelle“ § 84 Abs. 1.
@@ -47,7 +47,7 @@ Sind aus Anlass von Arbeiten auf oder neben der Straße (§ 90) Einrichtungen z
 `§ 32 (7) StVO.`  
 Die Bestimmungen der Abs. 1 bis 6 gelten nicht für das Zeichen „Andreaskreuz“ (§ 50 Z 6d); hiefür sind die eisenbahnrechtlichen Vorschriften maßgebend.
 
-### § 33 StVO #  Einrichtungen auf benachbarten Grundstücken zur Regelung und Sicherung des Verkehrs
+### § 33 StVO # Einrichtungen auf benachbarten Grundstücken zur Regelung und Sicherung des Verkehrs
 
 `§ 33 (1) StVO.`  
 Ist die Anbringung der Einrichtungen zur Sicherung und Regelung des Verkehrs auf Straßengrund nicht zweckentsprechend oder wegen der Beschaffenheit der Straße oder ihrer Anlage nicht möglich, so sind diese Einrichtungen unter tunlichster Vermeidung von Wirtschaftserschwernissen auf den Liegenschaften neben der Straße anzubringen. Die Eigentümer dieser Liegenschaften sind, wenn mit ihnen hierüber keine Einigung erzielt wurde, von der Behörde durch Bescheid zu verpflichten, die Anbringung zu dulden.
@@ -55,7 +55,7 @@ Ist die Anbringung der Einrichtungen zur Sicherung und Regelung des Verkehrs auf
 `§ 33 (2) StVO.`  
 Der Eigentümer der Liegenschaft ist, wenn durch die Anbringung der Einrichtungen die bestimmungsgemäße Verwendung der Liegenschaft erheblich beeinträchtigt wird, von demjenigen, der die Kosten der Anbringung zu tragen hat, zu entschädigen. Werden Ersatzansprüche innerhalb von sechs Monaten, gerechnet vom Zeitpunkt, in dem der Eigentümer der Liegenschaft von der Anbringung Kenntnis erlangt hat, nicht anerkannt, so hat auf seinen Antrag das Gericht im Verfahren außer Streitsachen zu entscheiden.
 
-### § 34 StVO #  Ausstattung der Einrichtungen zur Regelung und Sicherung des Verkehrs.
+### § 34 StVO # Ausstattung der Einrichtungen zur Regelung und Sicherung des Verkehrs.
 
 `§ 34 (1) StVO.`  
 Der Bundesminister für Verkehr, Innovation und Technologie hat, soweit dies erforderlich oder zweckmäßig ist, unter Bedachtnahme auf die Erfordernisse der Sicherheit des Straßenverkehrs durch Verordnung die näheren Vorschriften über die Ausführung der Einrichtungen zur Regelung und Sicherung des Verkehrs (§ 31 Abs. 1) zu erlassen und insbesondere die Abmessungen (§ 48) und die Farben sowie die Beschaffenheit und Ausstattung der Straßenverkehrszeichen und Verkehrsleiteinrichtungen (§§ 55 ff.) zu bestimmen.
@@ -72,7 +72,7 @@ Straßenverkehrszeichen, die den fließenden Kraftfahrzeugverkehr betreffen, mü
 `§ 34 (5) StVO.`  
 Zum Zwecke der Erprobung im Rahmen der Durchführung wissenschaftlicher Untersuchungen kann der Bundesminister für Verkehr, Innovation und Technologie durch Verordnung für eine bestimmte Zeit eine von den Bestimmungen dieses Gesetzes abweichende Ausführung von Einrichtungen zur Regelung und Sicherung des Verkehrs festlegen, wenn dagegen aus Gründen der Verkehrssicherheit keine Bedenken bestehen und eine solche Untersuchung im überwiegenden Interesse des Straßenverkehrs gelegen ist; der Zeitraum der Erprobung darf fünf Jahre ab dem In-Kraft-Treten der Verordnung nicht überschreiten.
 
-### § 35 StVO #  Vermeidung von Verkehrsbeeinträchtigungen.
+### § 35 StVO # Vermeidung von Verkehrsbeeinträchtigungen.
 
 `§ 35 (1) StVO.`  
 Die Behörde hat, wenn es die Sicherheit des Straßenverkehrs erfordert, die Besitzer von Gegenständen, die auf der Straße oder auf Liegenschaften in der Umgebung der Straße angebracht sind und durch ihre Beschaffenheit oder Lage oder durch die Art ihrer Anbringung oder ihrer Anordnung geeignet sind, die Sicherheit des Straßenverkehrs zu beeinträchtigen, durch Bescheid zu verpflichten,  
@@ -89,7 +89,7 @@ Die Behörde hat auf Antrag dessen, der einen im Abs. 1 bezeichneten Gegenstand
 
 ## B. Armzeichen und Lichtzeichen.
 
-### § 36 StVO #  Zeichengebung.
+### § 36 StVO # Zeichengebung.
 
 `§ 36 (1) StVO.`  
 Die Behörde hat zur Wahrung der Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs auf Straßen mit öffentlichem Verkehr unter Bedachtnahme auf die Verkehrserfordernisse zu bestimmen, ob und an welcher Stelle der Verkehr durch Armzeichen oder durch Lichtzeichen zu regeln ist. Sie darf jedoch eine Verkehrsregelung durch Lichtzeichen (§ 38), die von Haupt- oder Nebenbahnen im Sinne es Eisenbahngesetzes 1957 aus sichtbar sind, nur dann anordnen, wenn die Eisenbahnbehörde festgestellt hat, daß dagegen keine Bedenken nach § 39 Abs. 1 des Eisenbahngesetzes 1957, BGBl. Nr. 60/1957, bestehen.
@@ -103,7 +103,7 @@ Werden auf einer Straßenstelle die Lichtzeichen automatisch oder von Straßenbe
 `§ 36 (4) StVO.`  
 Wenn der Verkehr durch Armzeichen oder Lichtzeichen geregelt wird, so gehen diese sowohl den Straßenverkehrszeichen als auch den Bodenmarkierungen vor.
 
-### § 37 StVO #  Bedeutung der Armzeichen.
+### § 37 StVO # Bedeutung der Armzeichen.
 
 `§ 37 (1) StVO.`  
 Hält ein auf der Fahrbahn stehender Verkehrsposten einen Arm senkrecht nach oben, so gilt dies als Zeichen für „Halt“. Bei diesem Zeichen haben die Lenker herannahender Fahrzeuge vor dem Verkehrsposten anzuhalten. Wird dieses Zeichen auf einer Kreuzung gegeben, so haben die Lenker herannahender Fahrzeuge vor einem Schutzweg, einer Radfahrerüberfahrt oder einer Haltelinie, sonst vor der Kreuzung anzuhalten oder, wenn ihnen das Anhalten nicht mehr möglich ist, die Kreuzung zu durchfahren. Fahrzeuglenker, die sich bei diesem Zeichen mit ihren Fahrzeugen bereits auf der Kreuzung befinden, haben sie so rasch wie dies möglich und erlaubt ist, zu verlassen. Beim Einbiegen nach links ist den entgegenkommenden geradeausfahrenden sowie den entgegenkommenden nach rechts einbiegenden Fahrzeugen der Vorrang zu geben. Fahrzeuge, die von Hauptfahrbahnen kommen, haben den Vorrang gegenüber Fahrzeugen, die aus Nebenfahrbahnen kommen.
@@ -126,7 +126,7 @@ Ein Verkehrsposten darf, nachdem er die Armzeichen gemäß Abs. 3 und 5 gegeben
 `§ 37 (7) StVO.`  
 Bewegt ein Verkehrsposten einen Arm auf und ab, so bedeutet dies, daß die Fahrgeschwindigkeit zu verringern ist.
 
-### § 38 StVO #  Bedeutung der Lichtzeichen
+### § 38 StVO # Bedeutung der Lichtzeichen
 
 `§ 38 (1) StVO.`  
 Gelbes nicht blinkendes Licht gilt unbeschadet der Vorschriften des § 53 Z 10a über das Einbiegen der Straßenbahn bei gelbem Licht als Zeichen für „Halt“. Bei diesem Zeichen haben die Lenker herannahender Fahrzeuge unbeschadet der Bestimmungen des Abs. 7 anzuhalten:  
@@ -187,7 +187,7 @@ Im Bereich eines Grenzüberganges dürfen auch Lichtzeichen verwendet werden, di
 `§ 38 (10) StVO.`  
 Für die Fahrstreifensignalisierung sind Lichtzeichen mit roten gekreuzten Schrägbalken, grün nach unten zeigendem Pfeil und gelb blinkendem halb links oder halb rechts nach unten zeigendem Pfeil auf nicht leuchtendem Hintergrund zu verwenden. Solche Zeichen sind für jeden Fahrstreifen oberhalb des Fahrstreifens anzubringen. Bei Lichtzeichen dieser Art bedeuten rote gekreuzte Schrägbalken, daß der betreffende Fahrstreifen gesperrt ist, der grün nach unten zeigende Pfeil, daß der Verkehr auf dem betreffenden Fahrstreifen gestattet ist und der gelb blinkende halb links oder halb rechts nach unten zeigende Pfeil, daß Fahrzeuglenker den betreffenden Fahrstreifen ehestmöglich in der angezeigten Richtung verlassen müssen.
 
-### § 39 StVO #  Anordnung der Lichtzeichen
+### § 39 StVO # Anordnung der Lichtzeichen
 
 `§ 39 (1) StVO.`  
 Die Lichtzeichen sind entweder untereinander in der Reihenfolge oben rot, in der Mitte gelb und unten grün oder in Ausnahmefällen nebeneinander in der Reihenfolge links rot, in der Mitte gelb und rechts grün anzuordnen.
@@ -195,7 +195,7 @@ Die Lichtzeichen sind entweder untereinander in der Reihenfolge oben rot, in der
 `§ 39 (2) StVO.`  
 Die Anlagen zur Abgabe von Lichtzeichen sind deutlich erkennbar anzubringen. Sind mehrere Fahrstreifen vorhanden, so ist sowohl eine getrennte als auch eine unterschiedliche Regelung für einzelne Fahrstreifen oder Fahrtrichtungen zulässig (Spurensignalisation). Der Abstand zwischen dem unteren Rand des Gehäuses einer Lichtsignalanlage und der Fahrbahn darf bei Anordnung am Fahrbahnrand nicht weniger als 2 m und nicht mehr als 3,50 m, bei Anordnung oberhalb der Fahrbahn nicht weniger als 4,50 m und nur in Ausnahmefällen mehr als 5,50 m betragen. Die Anbringung zusätzlicher Signale an anderen Stellen ist zulässig.
 
-### § 40 StVO #  Signalscheiben.
+### § 40 StVO # Signalscheiben.
 
 `§ 40 (1) StVO.`  
 Die Zeichen „Halt“ oder „Freie Fahrt“ nach den §§ 37 Abs. 3 und 5 und 38 Abs. 4 und 5 können, wenn eine solche Zeichengebung an einer Straßenstelle zur Aufrechterhaltung der Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs vorübergehend erforderlich ist, mittels besonderer, den genannten Arm- oder Lichtzeichen im wesentlichen entsprechenden Hilfseinrichtungen, insbesondere mittels roter und grüner Signalscheiben, gegeben werden.
@@ -203,7 +203,7 @@ Die Zeichen „Halt“ oder „Freie Fahrt“ nach den §§ 37 Abs. 3 und 5 un
 `§ 40 (2) StVO.`  
 Wenn bei Arbeiten auf der Straße nur ein Fahrstreifen befahrbar ist, hat die Behörde unter Bedachtnahme auf die Verkehrssicherheit zu bestimmen, ob und inwieweit der Verkehr durch die in Abs. 1 bezeichneten Hilfsmittel besonders zu regeln ist. Sofern aus Gründen der Verkehrssicherheit keine erheblichen Bedenken entgegenstehen, kann die Behörde mit einer solchen Regelung des Verkehrs ein mit der Durchführung der Straßenbauarbeiten betrautes Unternehmen beauftragen.
 
-### § 41 StVO #  Hilfszeichen.
+### § 41 StVO # Hilfszeichen.
 
 `§ 41 (1) StVO.`  
 Wird der Verkehr durch Armzeichen oder Lichtzeichen geregelt, so sind die Organe der Straßenaufsicht berechtigt, durch leicht verständliche und gut wahrnehmbare Zeichen Straßenbenützern von einer solchen Regelung abweichende Anordnungen zu geben (Hilfszeichen). Im Bereich eines Grenzüberganges dürfen solche Hilfszeichen auch die mit der Grenzabfertigung betrauten Organe geben.

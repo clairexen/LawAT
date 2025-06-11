@@ -10,7 +10,7 @@
 
 ## III. ABSCHNITT # Bevorzugte Straßenbenützer.
 
-### § 26 StVO #  Einsatzfahrzeuge.
+### § 26 StVO # Einsatzfahrzeuge.
 
 `§ 26 (1) StVO.`  
 Die Lenker von Fahrzeugen, die nach den kraftfahrrechtlichen oder straßenpolizeilichen Vorschriften mit Leuchten mit blauem Licht oder blauem Drehlicht und mit Vorrichtungen zum Abgeben von Warnzeichen mit aufeinanderfolgenden verschieden hohen Tönen ausgestattet sind, dürfen diese Signale nur bei Gefahr im Verzuge, zum Beispiel bei Fahrten zum und vom Ort der dringenden Hilfeleistung oder zum Ort des sonstigen dringenden Einsatzes verwenden. Außerdem dürfen die angeführten Signale soweit als notwendig nur noch zur Abwicklung eines protokollarisch festgelegten Programms für Staatsbesuche oder sonstige Staatsakte sowie in Erfüllung völkerrechtlicher Verpflichtungen verwendet werden. Die Leuchten mit blauem Licht oder blauem Drehlicht dürfen aus Gründen der Verkehrssicherheit auch am Ort der Hilfeleistung oder des sonstigen Einsatzes oder bei einer behördlich vorgeschriebenen Transportbegleitung verwendet werden.
@@ -35,7 +35,7 @@ Sonstige Einsatzfahrzeuge.
 `§ 26 (5) StVO.`  
 Alle Straßenbenützer haben einem herannahenden Einsatzfahrzeug Platz zu machen. Kein Lenker eines anderen Fahrzeuges darf unmittelbar hinter einem Einsatzfahrzeug nachfahren oder, außer um ihm Platz zu machen, vor ihm in eine Kreuzung einfahren.
 
-### § 26a StVO #  Fahrzeuge im öffentlichen Dienst
+### § 26a StVO # Fahrzeuge im öffentlichen Dienst
 
 `§ 26a (1) StVO.`  
 Die Lenker von Fahrzeugen des öffentlichen Sicherheitsdienstes, des Entminungsdienstes, der Militärpolizei, der militärischen Nachrichtendienste, der Strafvollzugsverwaltung, des Rettungsdienstes, der Feuerwehr und der Finanzverwaltung sind bei Fahrten, soweit dies für die ordnungsgemäße Ausübung des Dienstes erforderlich ist, an Halte- und Parkverbote, an Geschwindigkeitsbeschränkungen, an Fahrverbote gemäß § 52 lit. a Z 1, Z 6a, Z 6b, Z 6c, Z 6d, Z 7a, Z 7b, Z 8a, Z 8b, und Z 8c und an die Verbote bezüglich des Zufahrens zum linken Fahrbahnrand nicht gebunden. Sie dürfen auch Fahrstreifen und Straßen für Omnibusse und, sofern es sich um einspurige Fahrzeuge mit einer Bauartgeschwindigkeit von höchstens 45 km/h handelt, auch Radfahranlagen benützen. Die Lenker von Fahrzeugen des öffentlichen Sicherheitsdienstes dürfen Radfahranlagen auch dann benutzen, wenn dies für die ordnungsgemäße Ausübung des Dienstes unerlässlich ist. Sie dürfen dabei aber nicht Personen gefährden, Sachen beschädigen oder den Radverkehr übermäßig behindern.
@@ -66,7 +66,7 @@ von Fahrzeugen der Fernmeldebüros oder
 von Fahrzeugen, die im Auftrag eines der unter Z 1 bis 3 genannten Dienstanbieter fahren,  
 sind bei der Zustellung und Abholung von Postsendungen, bei der Instandhaltung von Telekommunikations- oder Fernmeldeeinrichtungen, bei der Zustellung und Abholung von Bargeld oder Edelmetallen sowie bei Einsätzen der Funküberwachung an Halte- und Parkverbote nicht gebunden, sofern dies der Betriebseinsatz erfordert und der übrige Verkehr dadurch nicht wesentlich beeinträchtigt wird.
 
-### § 27 StVO #  Fahrzeuge des Straßendienstes, der Müllabfuhr und der Kanalwartung
+### § 27 StVO # Fahrzeuge des Straßendienstes, der Müllabfuhr und der Kanalwartung
 
 `§ 27 (1) StVO.`  
 Die Lenker von Fahrzeugen des Straßendienstes, wie Streufahrzeuge, Schneeräumfahrzeuge und -geräte, Arbeitsmaschinen und sonstige Fahrzeuge, die für den Straßenbau, die Straßenerhaltung, die Straßenpflege, die Straßenreinigung oder die Instandhaltung von Einrichtungen zur Regelung und Sicherung des Verkehrs, der öffentlichen Beleuchtung oder der Straßenbahnanlagen verwendet werden, sind bei Arbeitsfahrten an die Bestimmungen über das Verhalten bei Bodenmarkierungen und über das Einordnen sowie an Zufahrtsbeschränkungen, an Halte- und Parkverbote und an die Verbote bezüglich des Zufahrens zum linken Fahrbahnrand nicht gebunden. Sie dürfen auch durch Nebenfahrbahnen durchfahren sowie an Schutzinseln in Einbahnstraßen oder in einer Fahrbahnhälfte, für die das Gebot, rechts vorbeizufahren, angeordnet ist, links vorbeifahren und dürfen die Betriebszufahrten und -abfahrten sowie die Betriebsumkehren einer Autobahn befahren. Weiters dürfen die Lenker von Fahrzeugen des Straßendienstes auch auf der linken Fahrbahnseite fahren, wenn durch die Ausstattung dieser Fahrzeuge oder durch sonstige Maßnahmen in ausreichender Weise für die Sicherheit anderer Straßenbenützer gesorgt ist.
@@ -83,7 +83,7 @@ Die Lenker von Fahrzeugen des Straßendienstes und der Müllabfuhr haben bei Arb
 `§ 27 (5) StVO.`  
 Soweit dies zur Erreichung des Zwecks der jeweiligen Arbeitsfahrt notwendig ist, sind auch die Lenker von Fahrzeugen der Kanalwartung und -revision bei Arbeitsfahrten an die Bestimmungen über das Verhalten bei Bodenmarkierungen und über das Einordnen sowie an Zufahrtsbeschränkungen, an Halte- und Parkverbote und an die Verbote bezüglich des Zufahrens zum linken Fahrbahnrand nicht gebunden. Sie dürfen dabei auch durch Nebenfahrbahnen durchfahren und das Fahrzeug erforderlichenfalls abweichend von den Bestimmungen des § 23 Abs. 2 aufstellen. Abs. 4 ist anzuwenden.
 
-### § 28 StVO #  Schienenfahrzeuge.
+### § 28 StVO # Schienenfahrzeuge.
 
 `§ 28 (1) StVO.`  
 Die Führer von Schienenfahrzeugen sind von der Einhaltung der straßenpolizeilichen Vorschriften insoweit befreit, als die Befolgung dieser Vorschriften wegen der Bindung dieser Fahrzeuge an Gleise nicht möglich ist.
@@ -91,7 +91,7 @@ Die Führer von Schienenfahrzeugen sind von der Einhaltung der straßenpolizeili
 `§ 28 (2) StVO.`  
 Sofern sich aus den Bestimmungen des § 19 Abs. 2 bis 6 über den Vorrang nichts anderes ergibt, haben beim Herannahen eines Schienenfahrzeuges andere Straßenbenützer die Gleise jedenfalls so rasch wie möglich zu verlassen, um dem Schienenfahrzeug Platz zu machen; beim Halten auf Gleisen müssen die Lenker während der Betriebszeiten der Schienenfahrzeuge im Fahrzeug verbleiben, um dieser Verpflichtung nachkommen zu können. Unmittelbar vor und unmittelbar nach dem Vorüberfahren eines Schienenfahrzeuges dürfen die Gleise nicht überquert werden. Bodenmarkierungen für das Einordnen der Fahrzeuge vor Kreuzungen sind ungeachtet der Bestimmungen dieses Absatzes zu beachten. Bodenschwellen oder ähnliche bauliche Einrichtungen, die entlang von Gleisen angebracht sind, dürfen nicht überfahren werden.
 
-### § 29 StVO #  Geschlossene Züge von Straßenbenützern.
+### § 29 StVO # Geschlossene Züge von Straßenbenützern.
 
 `§ 29 (1) StVO.`  
 Geschlossene Züge von Straßenbenützern, insbesondere Kinder- und Schülergruppen in Begleitung einer Aufsichtsperson, geschlossene Verbände des Bundesheeres oder des Sicherheitsdienstes (einschließlich der dazugehörigen Fahrzeuge), Prozessionen und Leichenzüge, dürfen nur von Lenkern von Einsatzfahrzeugen (§ 2 Abs. 1 Z 25) und, wenn dies aus Gründen der Sicherheit und Leichtigkeit des Verkehrs dringend erforderlich ist und keine andere Maßnahme ausreicht, von Organen der Straßenaufsicht unterbrochen oder in ihrer Fortbewegung behindert werden.
@@ -118,7 +118,7 @@ die zur Gewährleistung von Ordnung, Sicherheit, Leichtigkeit und Flüssigkeit d
 `§ 29 (4) StVO.`  
 Die Bestimmungen des Abs. 3 gelten sinngemäß für Kolonnen der Feuerwehren auf einer Einsatzübungs- oder Einsatzfahrt; in diesem Falle werden die nach Abs. 3 den Soldaten zustehenden Rechte von besonders geschulten und ausgerüsteten Feuerwehrmännern ausgeübt.
 
-### § 29a StVO #  Kinder
+### § 29a StVO # Kinder
 
 `§ 29a (1) StVO.`  
 Vermag der Lenker eines Fahrzeuges zu erkennen, daß Kinder die Fahrbahn einzeln oder in Gruppen, sei es beaufsichtigt oder unbeaufsichtigt, überqueren oder überqueren wollen, so hat er ihnen das unbehinderte und ungefährdete Überqueren der Fahrbahn zu ermöglichen und hat zu diesem Zweck, falls erforderlich, anzuhalten. Die Bestimmungen des § 76 werden dadurch nicht berührt.
@@ -169,7 +169,7 @@ Die Bestimmungen der Abs. 2 bis 4 gelten auch für Inhaber eines Ausweises, der
 `§ 29b (6) StVO.`  
 Ausweise, die vor dem 1. Jänner 2001 ausgestellt worden sind und der Verordnung des Bundesministers für Verkehr vom 16. November 1976, BGBl. Nr. 655/1976, zuletzt geändert durch BGBl. Nr. 80/1990, entsprechen, verlieren ihre Gültigkeit mit 31. Dezember 2015. Ausweise, die nach dem 1. Jänner 2001 ausgestellt worden sind und der Verordnung des Bundesministers für Verkehr, Innovation und Technologie über den Ausweis für dauernd stark gehbehinderte Personen (Gehbehindertenausweisverordnung), BGBl. II Nr. 252/2000, entsprechen, bleiben weiterhin gültig.
 
-### § 30 StVO #  Wirtschaftsfuhren.
+### § 30 StVO # Wirtschaftsfuhren.
 
 `§ 30 (1) StVO.`  
 Als Wirtschaftsfuhre gilt die Beförderung von Gütern im Betriebe eines land- und forstwirtschaftlichen Unternehmens innerhalb seines örtlichen Bereiches, insbesondere zwischen den zu diesem Unternehmen gehörenden Liegenschaften mit Fahrzeugen eines land- und forstwirtschaftlichen Unternehmens.

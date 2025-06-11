@@ -10,7 +10,7 @@
 
 ## II. ABSCHNITT. # Fahrregeln.
 
-### § 7 StVO #  Allgemeine Fahrordnung.
+### § 7 StVO # Allgemeine Fahrordnung.
 
 `§ 7 (1) StVO.`  
 Der Lenker eines Fahrzeuges hat, sofern sich aus diesem Bundesgesetz nichts anderes ergibt, so weit rechts zu fahren, wie ihm dies unter Bedachtnahme auf die Leichtigkeit und Flüssigkeit des Verkehrs zumutbar und dies ohne Gefährdung, Behinderung oder Belästigung anderer Straßenbenützer, ohne eigene Gefährdung und ohne Beschädigung von Sachen möglich ist. Gleise von Schienenfahrzeugen, die an beiden Rändern der Fahrbahn liegen, dürfen jedoch nicht in der Längsrichtung befahren werden, wenn der übrige Teil der Fahrbahn genügend Platz bietet.
@@ -33,7 +33,7 @@ Einbahnstraßen dürfen nur in der durch das Hinweiszeichen nach § 53 Abs. 1 
 `§ 7 (6) StVO.`  
 Mit Kraftfahrzeugen ist es verboten, dieselbe Straße oder dieselben Straßenzüge innerhalb eines örtlichen Bereiches ohne zwingenden Grund mehrmals hintereinander zu befahren oder den Motor am Stand länger als unbedingt notwendig laufen zu lassen.
 
-### § 8 StVO #  Fahrordnung auf Straßen mit besonderen Anlagen.
+### § 8 StVO # Fahrordnung auf Straßen mit besonderen Anlagen.
 
 `§ 8 (1) StVO.`  
 Nebenfahrbahnen sind zum Ziehen oder Schieben von Handwagen, Handkarren oder Handschlitten sowie zum Schieben von einspurigen Fahrzeugen zu benützen. Radfahrer dürfen in Nebenfahrbahnen auch fahren, wenn kein Radfahrstreifen, Radweg oder Geh- und Radweg vorhanden ist. Sonst dürfen Nebenfahrbahnen, sofern sich aus Straßenverkehrszeichen oder Bodenmarkierungen nichts anderes ergibt, nur zum Zu- oder Abfahren benützt werden. Nebenfahrbahnen dürfen nur in der dem zunächst gelegenen Fahrstreifen der Hauptfahrbahn entsprechenden Fahrtrichtung befahren werden, sofern sich aus Straßenverkehrszeichen nichts anderes ergibt.
@@ -82,7 +82,7 @@ umzukehren.
 `§ 8b (2) StVO.`  
 Muss wegen einer Panne, in Notfällen oder bei Gefahr angehalten werden, ist das Fahrzeug, soweit möglich, in den durch Hinweiszeichen gemäß § 53 Abs. 1 Z 1c gekennzeichneten Pannenbuchten abzustellen.
 
-### § 9 StVO #  Verhalten bei Bodenmarkierungen.
+### § 9 StVO # Verhalten bei Bodenmarkierungen.
 
 `§ 9 (1) StVO.`  
 Sperrlinien (§ 55 Abs. 2) dürfen nicht überfahren, Sperrflächen (§ 55 Abs. 4) nicht befahren werden. Befinden sich eine Sperrlinie und eine Leitlinie nebeneinander, so hat der Lenker eines Fahrzeuges die Sperrlinie dann zu beachten, wenn sie dem von ihm benützten Fahrstreifen näher liegt.
@@ -111,7 +111,7 @@ Wird die Aufstellung der Fahrzeuge zum Halten oder Parken durch Bodenmarkierunge
 `§ 9 (8) StVO.`  
 Im Fall des § 55 Abs. 6 2. Satz haben sich die Verkehrsteilnehmer ausschließlich entsprechend den vorübergehend geltenden Bodenmarkierungen zu verhalten.
 
-### § 10 StVO #  Ausweichen.
+### § 10 StVO # Ausweichen.
 
 `§ 10 (1) StVO.`  
 Der Lenker eines Fahrzeuges hat einem entgegenkommenden Fahrzeug rechtzeitig und ausreichend nach rechts auszuweichen. Einem entgegenkommenden Schienenfahrzeug ist jedoch, wenn der Abstand zwischen ihm und dem Fahrbahnrand ein Ausweichen nach rechts nicht zuläßt, unter Bedachtnahme auf den Gegenverkehr nach links auszuweichen.
@@ -119,7 +119,7 @@ Der Lenker eines Fahrzeuges hat einem entgegenkommenden Fahrzeug rechtzeitig und
 `§ 10 (2) StVO.`  
 Kann nicht oder nicht ausreichend ausgewichen werden, so sind die einander begegnenden Fahrzeuge anzuhalten. In einem solchen Fall muß jenes Fahrzeug zurückgefahren werden, mit dem dies wegen seiner Art und wegen der örtlichen Verhältnisse leichter möglich ist.
 
-### § 11 StVO #  Änderung der Fahrtrichtung und Wechsel des Fahrstreifens.
+### § 11 StVO # Änderung der Fahrtrichtung und Wechsel des Fahrstreifens.
 
 `§ 11 (1) StVO.`  
 Der Lenker eines Fahrzeuges darf die Fahrtrichtung nur ändern oder den Fahrstreifen wechseln, nachdem er sich davon überzeugt hat, daß dies ohne Gefährdung oder Behinderung anderer Straßenbenützer möglich ist.
@@ -136,7 +136,7 @@ Ob und in welcher Weise die Führer von Schienenfahrzeugen die Fahrtrichtungsän
 `§ 11 (5) StVO.`  
 Wenn auf Straßen mit mehr als einem Fahrstreifen für die betreffende Fahrtrichtung das durchgehende Befahren eines Fahrstreifens nicht möglich oder nicht zulässig ist oder ein Fahrstreifen endet, ist den am Weiterfahren gehinderten Fahrzeugen der Wechsel auf den zunächst gelegen verbleibenden Fahrstreifen in der Weise zu ermöglichen, dass diese Fahrzeuge jeweils im Wechsel einem auf dem durchgehenden Fahrstreifen fahrenden Fahrzeug nachfolgen können (Reißverschlusssystem). Das Reißverschlusssystem ist auch anzuwenden, wenn die beschriebenen Umstände in Bezug auf einen Radfahrstreifen oder innerhalb des Ortsgebietes auf einen parallel einmündenden Radweg, nach dessen Verlassen der Radfahrer die Fahrtrichtung beibehält, auftreten.
 
-### § 12 StVO #  Einordnen.
+### § 12 StVO # Einordnen.
 
 `§ 12 (1) StVO.`  
 Beabsichtigt der Lenker eines Fahrzeuges nach links einzubiegen, so hat er das Fahrzeug, nachdem er sich davon überzeugt hat, daß niemand zum Überholen angesetzt hat, auf den der Fahrbahnmitte zunächst gelegenen Fahrstreifen seiner Fahrtrichtung, auf Einbahnstraßen jedoch auf den linken Fahrstreifen der Fahrbahn zu lenken. Radfahrer können durch Hinweiszeichen von dieser Einordnungsverpflichtung befreit werden; sie haben sich entsprechend den Hinweiszeichen zu verhalten.
@@ -153,7 +153,7 @@ Die Bestimmungen der Abs. 1 bis 3 gelten nur insoweit, als es die Fahrbahnbreit
 `§ 12 (5) StVO.`  
 Müssen Fahrzeuge vor Kreuzungen, Straßenengen, schienengleichen Eisenbahnübergängen und dergleichen angehalten werden, so dürfen die Lenker einspuriger, später ankommender Fahrzeuge nur dann neben oder zwischen den bereits angehaltenen Fahrzeugen vorfahren, um sich mit ihren Fahrzeugen weiter vorne aufzustellen, wenn für das Vorfahren ausreichend Platz vorhanden ist und die Lenker von Fahrzeugen, die ihre Absicht zum Einbiegen angezeigt haben, dadurch beim Einbiegen nicht behindert werden.
 
-### § 13 StVO #  Einbiegen, Einfahren und Ausfahren.
+### § 13 StVO # Einbiegen, Einfahren und Ausfahren.
 
 `§ 13 (1) StVO.`  
 Nach rechts ist in kurzem, nach links in weitem Bogen einzubiegen.
@@ -170,7 +170,7 @@ Wenn es die Verkehrssicherheit erfordert, hat sich der Lenker beim Einfahren in 
 `§ 13 (4) StVO.`  
 Beim Einbiegen in eine Fahrbahn hat der Lenker eines Fahrzeuges, das kein Schienenfahrzeug ist, einem Fußgänger, der die Fahrbahn bereits betreten hat, das unbehinderte und ungefährdete Überqueren dieser Fahrbahn zu ermöglichen.
 
-### § 14 StVO #  Umkehren und Rückwärtsfahren.
+### § 14 StVO # Umkehren und Rückwärtsfahren.
 
 `§ 14 (1) StVO.`  
 Der Lenker eines Fahrzeuges darf mit diesem nur umkehren, wenn dadurch andere Straßenbenützer weder gefährdet noch behindert werden.
@@ -194,7 +194,7 @@ Wenn es die Verkehrssicherheit erfordert, muß sich der Lenker beim Rückwärtsf
 `§ 14 (4) StVO.`  
 Ob und inwieweit das Umkehren im Bereich schienengleicher Eisenbahnübergänge verboten ist, ergibt sich aus den eisenbahnrechtlichen Vorschriften.
 
-### § 15 StVO #  Überholen.
+### § 15 StVO # Überholen.
 
 `§ 15 (1) StVO.`  
 Außer in den Fällen der Abs. 2 und 2a darf der Lenker eines Fahrzeuges nur links überholen.
@@ -218,7 +218,7 @@ Beim Überholen ist ein der Verkehrssicherheit und der Fahrgeschwindigkeit entsp
 `§ 15 (5) StVO.`  
 Der Lenker eines Fahrzeuges, das überholt wird, darf die Geschwindigkeit nicht erhöhen, sobald ihm der Überholvorgang angezeigt worden ist (Abs. 3) oder er den Überholvorgang nach den Verkehrsverhältnissen sonst wahrgenommen haben mußte. Dies gilt nicht für die Führer von Schienenfahrzeugen.
 
-### § 16 StVO #  Überholverbote.
+### § 16 StVO # Überholverbote.
 
 `§ 16 (1) StVO.`  
 Der Lenker eines Fahrzeuges darf nicht überholen:  
@@ -249,7 +249,7 @@ auf anderen Straßen, wenn die Fahrbahn durch eine Sperrlinie (§ 55 Abs. 2) g
 `§ 16 (3) StVO.`  
 Ob und inwieweit das Überholen im Bereich schienengleicher Eisenbahnübergänge verboten ist, richtet sich nach den eisenbahnrechtlichen Vorschriften.
 
-### § 17 StVO #  Vorbeifahren.
+### § 17 StVO # Vorbeifahren.
 
 `§ 17 (1) StVO.`  
 Das Vorbeifahren ist nur gestattet, wenn dadurch andere Straßenbenützer, insbesondere entgegenkommende, weder gefährdet noch behindert werden. Für die Anzeige des Vorbeifahrens, die Einhaltung eines Sicherheitsabstandes und das Vorbeifahren an Schienenfahrzeugen gelten die beim Überholen zu beachtenden Vorschriften (§ 15). An einem entsprechend eingeordneten Fahrzeug, dessen Lenker die Absicht nach links einzubiegen anzeigt (§ 13 Abs. 2), ist rechts vorbeizufahren.
@@ -273,7 +273,7 @@ zu ermöglichen, ist verboten.
 `§ 17 (4) StVO.`  
 An Fahrzeugen, die gemäß § 18 Abs. 3 anhalten, darf nur vorbeigefahren werden, wenn wenigstens zwei Fahrstreifen für die betreffende Fahrtrichtung vorhanden sind, auf Fahrbahnen mit Gegenverkehr die Fahrbahnmitte oder eine zur Trennung der Fahrtrichtungen angebrachte Sperrlinie nicht überfahren wird und für den weiteren Fahrstreifen nicht auch schon die Voraussetzungen des § 18 Abs. 3 gegeben sind.
 
-### § 18 StVO #  Hintereinanderfahren.
+### § 18 StVO # Hintereinanderfahren.
 
 `§ 18 (1) StVO.`  
 Der Lenker eines Fahrzeuges hat stets einen solchen Abstand vom nächsten vor ihm fahrenden Fahrzeug einzuhalten, daß ihm jederzeit das rechtzeitige Anhalten möglich ist, auch wenn das vordere Fahrzeug plötzlich abgebremst wird.
@@ -287,7 +287,7 @@ Müssen die Lenker hintereinanderfahrender Fahrzeuge anhalten und reicht die Rei
 `§ 18 (4) StVO.`  
 Der Lenker eines Fahrzeuges mit größeren Längsabmessungen (Lastfahrzeuge, Kraftwagenzüge, Omnibusse u. dgl.) hat auf Freilandstraßen nach einem solchen Fahrzeug einen Abstand von mindestens 50 m einzuhalten.
 
-### § 19 StVO #  Vorrang.
+### § 19 StVO # Vorrang.
 
 `§ 19 (1) StVO.`  
 Fahrzeuge, die von rechts kommen, haben, sofern die folgenden Absätze nichts anderes bestimmen, den Vorrang; Schienenfahrzeuge jedoch auch dann, wenn sie von links kommen.
@@ -319,7 +319,7 @@ Wer keinen Vorrang hat (der Wartepflichtige), darf durch Kreuzen, Einbiegen oder
 `§ 19 (8) StVO.`  
 Der Lenker eines Fahrzeuges darf auf seinen Vorrang verzichten, wobei ein solcher Verzicht dem Wartepflichtigen deutlich erkennbar zu machen ist. Das Zum-Stillstand-Bringen eines Fahrzeuges, ausgenommen eines Schienenfahrzeuges in Haltestellen, aus welchem Grund immer, insbesondere auch in Befolgung eines gesetzlichen Gebotes, gilt als Verzicht auf den Vorrang. Der Wartepflichtige darf nicht annehmen, daß ein Vorrangberechtigter auf seinen Vorrang verzichten werde, und er darf insbesondere auch nicht annehmen, daß bei Vorrangverzicht eines Vorrangberechtigten ein anderer Vorrangberechtigter gleichfalls auf seinen Vorrang verzichten werde, es sei denn, dem Wartepflichtigen ist der Vorrangverzicht von Vorrangberechtigten zweifelsfrei erkennbar.
 
-### § 20 StVO #  Fahrgeschwindigkeit.
+### § 20 StVO # Fahrgeschwindigkeit.
 
 `§ 20 (1) StVO.`  
 Der Lenker eines Fahrzeuges hat die Fahrgeschwindigkeit den gegebenen oder durch Straßenverkehrszeichen angekündigten Umständen, insbesondere den Straßen-, Verkehrs- und Sichtverhältnissen, sowie den Eigenschaften von Fahrzeug und Ladung anzupassen. Er darf auch nicht so schnell fahren, daß er andere Straßenbenützer oder an der Straße gelegene Sachen beschmutzt oder Vieh verletzt, wenn dies vermeidbar ist. Er darf auch nicht ohne zwingenden Grund so langsam fahren, daß er den übrigen Verkehr behindert.
@@ -339,7 +339,7 @@ Zur Durchführung wissenschaftlicher Untersuchungen darf eine Verordnung nach Ab
 `§ 20 (4) StVO.`  
 Die Bestimmungen des Abs. 1 werden durch die Regelungen nach Abs. 2 bis 3 nicht berührt.
 
-### § 21 StVO #  Verminderung der Fahrgeschwindigkeit.
+### § 21 StVO # Verminderung der Fahrgeschwindigkeit.
 
 `§ 21 (1) StVO.`  
 Der Lenker darf das Fahrzeug nicht jäh und für den Lenker eines nachfolgenden Fahrzeuges überraschend abbremsen, wenn andere Straßenbenützer dadurch gefährdet oder behindert werden, es sei denn, daß es die Verkehrssicherheit erfordert.
@@ -353,7 +353,7 @@ Lenker von Kraftfahrzeugen mit einem höchst zulässigen Gesamtgewicht von über
 `§ 21 (4) StVO.`  
 Ob und in welcher Weise die Führer von Schienenfahrzeugen die Geschwindigkeitsverminderung anzuzeigen haben, ergibt sich aus den eisenbahnrechtlichen Vorschriften.
 
-### § 22 StVO #  Warnzeichen.
+### § 22 StVO # Warnzeichen.
 
 `§ 22 (1) StVO.`  
 Wenn es die Verkehrssicherheit erfordert, hat der Lenker eines Fahrzeuges andere Straßenbenützer mit der zum Abgeben von akustischen Warnzeichen bestimmten Vorrichtung durch deutliche Schallzeichen, sofern solche Vorrichtungen nicht vorhanden oder gestört sind, durch deutliche Zurufe zu warnen. Der Lenker darf auch durch Blinkzeichen warnen, wenn sie ausreichen und nicht blenden.
@@ -364,7 +364,7 @@ Die Abgabe von Schallzeichen (Abs. 1) ist unbeschadet der Bestimmungen über da
 `§ 22 (3) StVO.`  
 Der Lenker, der mit einem Kraftfahrzeug mit mehr als insgesamt 9 Sitzplätzen ausschließlich einen Schülertransport gemäß § 106 Abs. 6 zweiter Satz KFG 1967 durchführt, hat dafür zu sorgen, daß an diesem Kraftfahrzeug während der Dauer der ausschließlichen Verwendung für Schülertransporte hinten eine Tafel gemäß § 17 Abs. 2a angebracht ist. In allen anderen Fällen ist die Tafel zu entfernen oder abzudecken. Er hat die Alarmblinkanlage und mindestens zwei am Kraftfahrzeug angebrachte, von hinten sichtbare gelbrote Warnleuchten einzuschalten, wenn das Kraftfahrzeug stillsteht und Schüler ein- oder aussteigen.
 
-### § 23 StVO #  Halten und Parken.
+### § 23 StVO # Halten und Parken.
 
 `§ 23 (1) StVO.`  
 Der Lenker hat das Fahrzeug zum Halten oder Parken unter Bedachtnahme auf die beste Ausnützung des vorhandenen Platzes so aufzustellen, daß kein Straßenbenützer gefährdet und kein Lenker eines anderen Fahrzeuges am Vorbeifahren oder am Wegfahren gehindert wird. Das Hineinragen von Teilen des aufgestellten Fahrzeuges auf Verkehrsflächen, die dem Fußgängerverkehr oder dem Fahrradverkehr vorbehalten sind, ist verboten. Ausgenommen davon ist im Falle von Verkehrsflächen des Fußgängerverkehrs ein Hineinragen in geringfügigem Ausmaß (z. B. Seitenspiegel, Stoßstange) sowie für Ladetätigkeiten bis zu 10 Minuten. In jedem Fall hat dabei der freibleibende Querschnitt mindestens 1, 5 m zu betragen. Weiters hat auf Verkehrsflächen des Fußgängerverkehrs ein Querschnitt von mindestens 1, 5 m in Fällen der Aufstellung oder Anbringung von Gegenständen und Einbauten freizubleiben; die Aufstellung von temporären Hindernissen wie Gerüsten oder Leitern zur Durchführung von Bau- oder Reparaturmaßnahmen ist zulässig.
@@ -390,7 +390,7 @@ Bevor der Lenker das Fahrzeug verläßt, hat er es so zu sichern, daß es nicht 
 `§ 23 (6) StVO.`  
 Unbespannte Fuhrwerke, Anhänger ohne Zugfahrzeug sowie Transportbehälter zur Güterbeförderung (wie Container, Lademulden u. dgl.) dürfen nur während des Beladens oder Entladens auf der Fahrbahn stehengelassen werden, es sei denn, die genannten Fahrzeuge und Behälter können nach der Ladetätigkeit nicht sofort entfernt werden, das Entfernen wäre eine unbillige Wirtschaftserschwernis oder es liegen sonstige wichtige Gründe für das Stehenlassen vor. Für das Aufstellen der genannten Fahrzeuge und Behälter gelten die Bestimmungen über das Halten und Parken sinngemäß. Bei unbespannten Fuhrwerken ist die Deichsel abzunehmen oder gesichert in eine solche Stellung zu bringen, daß niemand gefährdet oder behindert wird.
 
-### § 24 StVO #  Halte- und Parkverbote.
+### § 24 StVO # Halte- und Parkverbote.
 
 `§ 24 (1) StVO.`  
 Das Halten und das Parken ist verboten:  
@@ -486,7 +486,7 @@ Die Behörde kann, soweit dies unter Bedachtnahme auf die Erfordernisse des ruhe
 `§ 24 (8) StVO.`  
 Wenn eine Beeinträchtigung der Umwelt nicht gegeben oder zu erwarten ist, kann die Behörde allgemein oder für bestimmte Gebiete Ausnahmen von dem im Abs. 3 lit. f angeführten Verbot bewilligen. Eine solche Entscheidung ist durch Anschlag auf der Amtstafel der Behörde kundzumachen.
 
-### § 25 StVO #  Kurzparkzonen
+### § 25 StVO # Kurzparkzonen
 
 `§ 25 (1) StVO.`  
 Wenn und insoweit es zu bestimmten Zeiten aus ortsbedingten Gründen (auch im Interesse der Wohnbevölkerung) oder zur Erleichterung der Verkehrslage erforderlich ist, kann die Behörde durch Verordnung für bestimmte Straßen oder Straßenstrecken oder für Straßen innerhalb eines bestimmten Gebietes das Parken zeitlich beschränken (Kurzparkzone). Die Kurzparkdauer darf nicht weniger als 30 Minuten und nicht mehr als 3 Stunden betragen.

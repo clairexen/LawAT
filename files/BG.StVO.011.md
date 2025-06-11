@@ -100,7 +100,7 @@ Die Behörde darf durch Verwendung bildverarbeitender technischer Einrichtungen 
 `§ 98g (2) StVO.`  
 Als Verwaltungsübertretung im Sinne des Abs. 1 gelten Verstöße gegen § 102 Abs. 3 5. Satz sowie § 106 Abs. 1, 2, 5, 7 und 12 KFG.
 
-### § 99 StVO #  Strafbestimmungen.
+### § 99 StVO # Strafbestimmungen.
 
 `§ 99 (1) StVO.`  
 Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 1600 Euro bis 5900 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe von zwei bis sechs Wochen, zu bestrafen,  
@@ -306,7 +306,7 @@ Weist eine vom Lenker verschiedene Person dingliche Rechte an einem gemäß § 
 `§ 99d (2) StVO.`  
 Liegen die Voraussetzungen des § 99b Abs. 1 Z 1 oder 2 oder § 99c Abs. 1 Z 1 oder 2 vor, werden jedoch von einer vom Lenker verschiedenen Person dingliche Rechte am Fahrzeug nachgewiesen, so darf der Lenker dieses Fahrzeug nicht mehr lenken; dieses Lenkverbot ist von der Behörde mit Bescheid zu verhängen und im Führerscheinregister zu vermerken. Der Zulassungsbesitzer des Fahrzeugs ist von der Behörde vom Lenkverbot zu verständigen.
 
-### § 100 StVO #  Besondere Vorschriften für das Strafverfahren.
+### § 100 StVO # Besondere Vorschriften für das Strafverfahren.
 
 `§ 100 (1) StVO.`  
 Ist eine Person einer Verwaltungsübertretung nach § 99 schuldig, derentwegen sie bereits einmal bestraft worden ist, so kann an Stelle der Geldstrafe eine Freiheitsstrafe im Ausmaß der für die betreffende Tat angedrohten Ersatzfreiheitsstrafe verhängt werden; ist eine solche Person bereits zweimal bestraft worden, so können die Geldstrafe und die Freiheitsstrafe auch nebeneinander verhängt werden. Bei Übertretungen nach § 99 Abs. 3 und 4 ist die Verhängung einer Freiheitsstrafe nach den vorstehenden Bestimmungen aber nur zulässig, wenn es ihrer bedarf, um die betreffende Person von weiteren Verwaltungsübertretungen der gleichen Art abzuhalten.
@@ -376,7 +376,7 @@ Werden Angelegenheiten der Straßenpolizei, die bisher gemäß § 95 von Landes
 `§ 100 (11) StVO.`  
 Abweichend von Abs. 10 fließen 30 vH der Strafgelder aus jenen Verwaltungsübertretungen, die 2019 von Organen der Bundespolizei auf Bundesstraßen wahrgenommen werden, der Gebietskörperschaft zu, die den Aufwand für diese Organe zu tragen hat. Die Strafgelder sind für die Abdeckung des Personal- und Sachaufwandes, der aus dem Einsatz der Organe auf dem Gebiet der Verkehrsüberwachung entsteht, und für die Beschaffung und Erhaltung von Einrichtungen zur Verkehrsüberwachung zu verwenden.
 
-### § 101 StVO #  Verkehrsunterricht.
+### § 101 StVO # Verkehrsunterricht.
 
 `§ 101 (1) StVO.`  
 Wer als Lenker eines Fahrzeuges wegen einer Übertretung dieses Bundesgesetzes bestraft oder ermahnt (§ 21 des Verwaltungsstrafgesetzes 1991 – VStG, BGBl. Nr. 52/1991) wurde, kann von der Behörde seines Hauptwohnsitzes durch Bescheid zur Teilnahme an einem von ihr abzuhaltenden Verkehrsunterricht bis zu einer Gesamtdauer von sechs Stunden verpflichtet werden, wenn sein Verhalten im Straßenverkehr insbesondere mit Rücksicht auf wiederholte Beanstandungen vermuten läßt, daß er die Verkehrsvorschriften nicht beherrscht.
@@ -387,7 +387,7 @@ Zur Teilnahme am Verkehrsunterricht kann der Lenker eines Fahrzeuges bei Vorlieg
 `§ 101 (3) StVO.`  
 Der Verkehrsunterricht kann auch an Sonn- oder Feiertagen abgehalten werden, darf aber an solchen Tagen nicht länger als zwei Stunden dauern. Die Bestimmung des § 20 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 – AVG, BGBl. Nr. 51/1991, ist anzuwenden.
 
-### § 102 StVO #  Abgrenzung zu anderen Rechtsvorschriften.
+### § 102 StVO # Abgrenzung zu anderen Rechtsvorschriften.
 Durch dieses Bundesgesetz werden die Straßenverwaltungsgesetze sowie eisenbahnrechtliche und arbeitsrechtliche Vorschriften nicht berührt.
 
 ### § 102a StVO # Verweisungen
@@ -395,7 +395,7 @@ Durch dieses Bundesgesetz werden die Straßenverwaltungsgesetze sowie eisenbahnr
 `§ 102a StVO.`  
 Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese, sofern nichts anderes ausdrücklich angeordnet ist, in ihrer jeweils geltenden Fassung anzuwenden.
 
-### § 103 StVO #  Inkrafttreten und Aufhebung.
+### § 103 StVO # Inkrafttreten und Aufhebung.
 
 `§ 103 (1) StVO.`  
 Dieses Bundesgesetz tritt, sofern sich aus Abs. 2 nichts anderes ergibt, am 1. Jänner 1961 in Kraft. Die §§ 4 Abs. 5b und 105 Abs. 1 in der Fassung des Bundesgesetzes BGBl. Nr. 201/1996 treten mit 1. Juli 1996 in Kraft.
@@ -498,7 +498,7 @@ Die §§ 99 Abs. 2f und 2g, 99a, 99b, 99c und 99d in der Fassung des Bundesges
 `§ 103 (28) StVO.`  
 § 2 Abs. 1 Z 12a, § 24 Abs. 1 lit. o, § 26a Abs. 1, § 38 Abs. 6a, § 43 Abs. 2 und 4a, § 44b Abs. 5, § 53 Abs. 1 Z 2d, § 94c Abs. 3, § 94d Z 8d, § 97 Abs. 1 und § 100 Abs. 10a in der Fassung des Bundesgesetzes BGBl. I Nr. 52/2024 treten am 1. Juli 2024 in Kraft; gleichzeitig tritt § 52 lit. b Z 18 außer Kraft.
 
-### § 104 StVO #  Übergangsbestimmungen.
+### § 104 StVO # Übergangsbestimmungen.
 
 `§ 104 (1) StVO.`  
 Soweit die bisher in Verwendung stehenden Einrichtungen zur Regelung und Sicherung des Verkehrs den Vorschriften dieses Bundesgesetzes nicht entsprechen, sind sie bis zum 31. Dezember 1964 durch die diesem Bundesgesetz entsprechenden Einrichtungen zu ersetzen und bis dahin zu beachten.
@@ -542,7 +542,7 @@ Bodenmarkierungen, die den Bestimmungen dieses Bundesgesetzes in der Fassung des
 `§ 104 (14) StVO.`  
 Straßenverkehrszeichen, deren Anbringung den Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. /2022 nicht entspricht, sind bei einer allfälligen Neuanbringung entsprechend den Bestimmungen dieses Bundesgesetzes anzubringen. Bis dahin sind Straßenverkehrszeichen nach den Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl. I Nr. 154/2021 zu beachten.
 
-### § 105 StVO #  Vollziehung.
+### § 105 StVO # Vollziehung.
 
 `§ 105 (1) StVO.`  
 Mit der Vollziehung der §§ 4 Abs. 5b und 95 ist der Bundesminister für Verkehr, Innovation und Technologie im Einvernehmen mit dem Bundesminister für Inneres betraut.

@@ -10,7 +10,7 @@
 
 ## C. Allgemeine Regelung und Sicherung des Verkehrs.
 
-### § 42 StVO #  Fahrverbot für Lastkraftfahrzeuge
+### § 42 StVO # Fahrverbot für Lastkraftfahrzeuge
 
 `§ 42 (1) StVO.`  
 An Samstagen von 15 Uhr bis 24 Uhr und an Sonntagen und gesetzlichen Feiertagen von 00 Uhr bis 22 Uhr ist das Befahren von Straßen mit Lastkraftwagen mit Anhänger verboten, wenn das höchste zulässige Gesamtgewicht des Lastkraftwagens oder des Anhängers mehr als 3,5 t beträgt.
@@ -58,7 +58,7 @@ Für die Kundmachung von Verordnungen gemäß Abs. 7 und 8 gilt § 44 sinngem�
 Rechtsvorschriften, mit denen weitergehende Fahrverbote oder Geschwindigkeitsbeschränkungen angeordnet werden, bleiben unberührt.
 (Anm.: Abs. 11 und 12 mit Ablauf des 31.12.2021 außer Kraft getreten)
 
-### § 43 StVO #  Verkehrsverbote, Verkehrserleichterungen und Hinweise.
+### § 43 StVO # Verkehrsverbote, Verkehrserleichterungen und Hinweise.
 
 `§ 43 (1) StVO.`  
 Die Behörde hat für bestimmte Straßen oder Straßenstrecken oder für Straßen innerhalb eines bestimmten Gebietes durch Verordnung  
@@ -133,7 +133,7 @@ Die Behörde hat bei der Erlassung von Verordnungen gemäß Abs. 1 lit. b Beda
 `§ 43 (11) StVO.`  
 Wenn Bedenken aus Gründen der Sicherheit des Straßenverkehrs nicht entgegenstehen, hat die Behörde von einem von ihr erlassenen Halteverbot (Abs. 1) das rasche Auf- oder Abladen geringer Warenmengen im Zustell- oder Abholdienst gewerblicher Betriebe sowie das rasche Einsteigen oder das rasche Aussteigen auf Antrag der gesetzlichen Interessenvertretung der in Betracht kommenden Gewerbebetriebe allgemein auszunehmen.
 
-### § 44 StVO #  Kundmachung der Verordnungen.
+### § 44 StVO # Kundmachung der Verordnungen.
 
 `§ 44 (1) StVO.`  
 Die im § 43 bezeichneten Verordnungen sind, sofern sich aus den folgenden Absätzen nichts anderes ergibt, durch Straßenverkehrszeichen oder Bodenmarkierungen kundzumachen und treten mit deren Anbringung in Kraft. Der Zeitpunkt der erfolgten Anbringung ist in einem Aktenvermerk (§ 16 AVG) festzuhalten. Parteien im Sinne des § 8 AVG ist die Einsicht in einen solchen Aktenvermerk und die Abschriftnahme zu gestatten. Als Straßenverkehrszeichen zur Kundmachung von im § 43 bezeichneten Verordnungen kommen die Vorschriftszeichen sowie die Hinweiszeichen „Autobahn“, „Ende der Autobahn“, „Autostraße“, „Ende der Autostraße“, „Einbahnstraße“, „Ortstafel“, „Ortsende“, „Internationaler Hauptverkehrsweg“, „Straße mit Vorrang“, „Straße ohne Vorrang“, „Straße für Omnibusse“ und „Fahrstreifen für Omnibusse“ in Betracht. Als Bodenmarkierungen zur Kundmachung von im § 43 bezeichneten Verordnungen kommen Markierungen, die ein Verbot oder Gebot bedeuten, wie etwa Sperrlinien, Haltelinien vor Kreuzungen, Richtungspfeile, Sperrflächen, Zickzacklinien, Schutzwegmarkierungen oder Radfahrerüberfahrtmarkierungen in Betracht.
@@ -159,7 +159,7 @@ Verordnungen, die sich durch ein Vorschriftszeichen ausdrücken lassen und für 
 `§ 44 (5) StVO.`  
 Verordnungen, die vom Bundesminister für Verkehr, Innovation und Technologie, von einer Landesregierung oder von einer Bezirksverwaltungsbehörde erlassen werden, sind, sofern sie nicht anders rechtzeitig und wirksam kundgemacht werden können, durch Verlautbarungen in der Presse oder im Rundfunk oder im Fernsehen kundzumachen.
 
-### § 44a StVO #  Vorbereitende Verkehrsmaßnahmen
+### § 44a StVO # Vorbereitende Verkehrsmaßnahmen
 
 `§ 44a (1) StVO.`  
 Wenn auf Grund von Verkehrsbeobachtungen, Verkehrszählungen oder Verkehrserfahrungen aus Anlaß vorhersehbarer Ereignisse oder Umstände Verkehrsverhältnisse zu erwarten sind, für deren Bewältigung besondere Verkehrsmaßnahmen (Verkehrsverbote, Verkehrsbeschränkungen, Verkehrserleichterungen) notwendig sind, hat die Behörde diese unter Bedachtnahme auf die Sicherheit, Leichtigkeit und Flüssigkeit des sich bewegenden und die Ordnung des ruhenden Verkehrs durch Verordnung zu bestimmen.
@@ -178,7 +178,7 @@ die in Betracht kommenden Verkehrsmaßnahmen, wie Geschwindigkeitsbeschränkunge
 `§ 44a (3) StVO.`  
 Verordnungen nach Abs. 1 treten mit der Anbringung oder Sichtbarmachung der ihnen entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen in Kraft. Die Behörde hat die Person, Dienststelle oder Unternehmung zu bestimmen, welche die Straßenverkehrszeichen oder Bodenmarkierungen anzubringen oder sichtbar zu machen hat. Die Aufstellung oder Sichtbarmachung der Straßenverkehrszeichen oder die Anbringung der Bodenmarkierungen ist der Behörde unverzüglich zur Kenntnis zu bringen; diese hat den Zeitpunkt der erfolgten Anbringung oder Sichtbarmachung in einem Aktenvermerk (§ 16 AVG) festzuhalten.
 
-### § 44b StVO #  Unaufschiebbare Verkehrsbeschränkungen
+### § 44b StVO # Unaufschiebbare Verkehrsbeschränkungen
 
 `§ 44b (1) StVO.`  
 Im Falle der Unaufschiebbarkeit dürfen die Organe der Straßenaufsicht, des Straßenerhalters, der Feuerwehr, des Bundesheeres oder des Gebrechendienstes öffentlicher Versorgungs- oder Entsorgungsunternehmen (zB Gasgebrechendienste) nach Erfordernis eine besondere Verkehrsregelung durch Anweisungen an die Straßenbenützer oder durch Anbringung von Verkehrsampeln oder Signalscheiben veranlassen oder eine der in § 43 Abs. 1 lit. b Z 1 und 2 bezeichneten Maßnahmen durch Anbringung der entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen mit der Wirkung treffen, als ob die Veranlassung oder Maßnahme von der Behörde getroffen worden wäre. Dies gilt insbesondere,  
@@ -239,7 +239,7 @@ Randlinien gelten im Bereich und zu Zeiten einer Pannenstreifenfreigabe nicht al
 `§ 44d (4) StVO.`  
 Der Straßenerhalter hat sicherzustellen, dass der Zeitpunkt und die Dauer der Anzeige selbsttätig durch das System aufgezeichnet werden; diese Aufzeichnungen sind entweder in elektronisch lesbarer Form zu speichern oder in Form von Ausdrucken aufzubewahren. Parteien im Sinne des § 8 AVG ist auf Verlangen ein Ausdruck der Aufzeichnungen oder eine Kopie des Ausdruckes auszufolgen
 
-### § 45 StVO #  Ausnahmen in Einzelfällen.
+### § 45 StVO # Ausnahmen in Einzelfällen.
 
 `§ 45 (1) StVO.`  
 Die Behörde kann auf Antrag durch Bescheid die Benützung von Straßen mit einem Fahrzeug oder einer Ladung mit größeren als den zulässigen Maßen und Gewichten bewilligen, wenn das Vorhaben im besonderen Interesse der österreichischen Volkswirtschaft liegt, sich anders nicht durchführen läßt und keine erheblichen Erschwerungen des Verkehrs und keine wesentlichen Überlastungen der Straße verursacht. Antragsberechtigt sind der Fahrzeugbesitzer oder die Person, für welche die Beförderung durchgeführt werden soll. Liegt bereits eine entsprechende kraftfahrrechtliche Bewilligung vor, so ist eine Bewilligung nach diesem Absatz nicht erforderlich.
@@ -276,7 +276,7 @@ entweder die Tätigkeit des Antragstellers ohne Bewilligung erheblich erschwert 
 `§ 45 (5) StVO.`  
 Behördliche Erledigungen gemäß den vorstehenden Absätzen können im Wege der automationsunterstützten Datenverarbeitung ohne Unterschrift hergestellt und ausgefertigt werden.
 
-### § 46 StVO #  Autobahnen.
+### § 46 StVO # Autobahnen.
 
 `§ 46 (1) StVO.`  
 Autobahnen dürfen nur mit Kraftfahrzeugen benützt werden, die eine Bauartgeschwindigkeit von mindestens 60 km/h aufweisen und mit denen diese Geschwindigkeit überschritten werden darf; dies gilt nicht für Fahrzeuge des Straßendienstes. Jeder andere Verkehr, insbesondere der Fußgängerverkehr, der Verkehr mit Fahrrädern, Motorfahrrädern und Fuhrwerken, der Viehtrieb und das Reiten, ist auf der Autobahn verboten. Im Bereich eines Grenzüberganges darf die Autobahn betreten werden, um Tätigkeiten zu verrichten, die mit der Grenzabfertigung zusammenhängen oder einem vordringlichen Bedürfnis der Straßenbenützer dienen (wie Geldwechsel, Aufsuchen von Informationsstellen u. dgl.); das gleiche gilt für den Bereich einer Mautstelle sinngemäß. Die Autobahn darf weiters betreten werden:  

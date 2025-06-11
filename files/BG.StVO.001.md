@@ -12,7 +12,7 @@ Der Nationalrat hat beschlossen:
 
 ## I. ABSCHNITT. # Allgemeines.
 
-### § 1 StVO #  Geltungsbereich.
+### § 1 StVO # Geltungsbereich.
 
 `§ 1 (1) StVO.`  
 Dieses Bundesgesetz gilt für Straßen mit öffentlichem Verkehr. Als solche gelten Straßen, die von jedermann unter den gleichen Bedingungen benützt werden können.
@@ -20,7 +20,7 @@ Dieses Bundesgesetz gilt für Straßen mit öffentlichem Verkehr. Als solche gel
 `§ 1 (2) StVO.`  
 Für Straßen ohne öffentlichen Verkehr gilt dieses Bundesgesetz insoweit, als andere Rechtsvorschriften oder die Straßenerhalter nichts anderes bestimmen. Die Befugnisse der Behörden und Organe der Straßenaufsicht erstrecken sich auf diese Straßen nicht.
 
-### § 2 StVO #  Begriffsbestimmungen.
+### § 2 StVO # Begriffsbestimmungen.
 
 `§ 2 (1) StVO.`  
 Im Sinne dieses Bundesgesetzes gilt als  
@@ -125,7 +125,7 @@ Die Begriffsbestimmungen für Kraftfahrzeuge sind in den kraftfahrrechtlichen Vo
 `§ 2 (3) StVO.`  
 Soweit sich Bestimmungen dieses Bundesgesetzes auf den Kraftfahrlinienverkehr, Unternehmen oder Fahrzeuge des Kraftfahrlinienverkehrs oder Lenker von Fahrzeugen des Kraftfahrlinienverkehrs beziehen, gelten diese auch für Oberleitungsomnibusse, den Verkehr mit und Lenker von Oberleitungsomnibussen sowie Unternehmen, die Oberleitungsomnibusse im regionalen Linienverkehr einsetzen.
 
-### § 3 StVO #  Vertrauensgrundsatz.
+### § 3 StVO # Vertrauensgrundsatz.
 
 `§ 3 (1) StVO.`  
 Die Teilnahme am Straßenverkehr erfordert ständige Vorsicht und gegenseitige Rücksichtnahme; dessen ungeachtet darf jeder Straßenbenützer vertrauen, dass andere Personen die für die Benützung der Straße maßgeblichen Rechtsvorschriften befolgen, außer er müsste annehmen, dass es sich um Kinder, Menschen mit Sehbehinderung mit weißem Stock oder gelber Armbinde, Menschen mit offensichtlicher körperlicher Beeinträchtigung oder um Personen handelt, aus deren augenfälligem Gehaben geschlossen werden muss, dass sie unfähig sind, die Gefahren des Straßenverkehrs einzusehen oder sich dieser Einsicht gemäß zu verhalten.
@@ -133,7 +133,7 @@ Die Teilnahme am Straßenverkehr erfordert ständige Vorsicht und gegenseitige R
 `§ 3 (2) StVO.`  
 Der Lenker eines Fahrzeuges hat sich gegenüber Personen, gegenüber denen der Vertrauensgrundsatz gemäß Abs. 1 nicht gilt, insbesondere durch Verminderung der Fahrgeschwindigkeit und durch Bremsbereitschaft so zu verhalten, daß eine Gefährdung dieser Personen ausgeschlossen ist.
 
-### § 4 StVO #  Verkehrsunfälle.
+### § 4 StVO # Verkehrsunfälle.
 
 `§ 4 (1) StVO.`  
 Alle Personen, deren Verhalten am Unfallsort mit einem Verkehrsunfall in ursächlichem Zusammenhange steht, haben  
@@ -165,7 +165,7 @@ Für Verständigungen nach Abs. 5 und Meldungen gemäß Abs. 5a ist eine Gebü
 `§ 4 (6) StVO.`  
 Aus einer Verletzung der Hilfeleistungspflicht können keine Ersatzansprüche nach dem bürgerlichen Recht abgeleitet werden.
 
-### § 5 StVO #  Besondere Sicherungsmaßnahmen gegen Beeinträchtigung durch Alkohol.
+### § 5 StVO # Besondere Sicherungsmaßnahmen gegen Beeinträchtigung durch Alkohol.
 
 `§ 5 (1) StVO.`  
 Wer sich in einem durch Alkohol oder Suchtgift beeinträchtigten Zustand befindet, darf ein Fahrzeug weder lenken noch in Betrieb nehmen. Bei einem Alkoholgehalt des Blutes von 0,8 g/l (0,8 Promille) oder darüber oder bei einem Alkoholgehalt der Atemluft von 0,4 mg/l oder darüber gilt der Zustand einer Person jedenfalls als von Alkohol beeinträchtigt.
@@ -267,7 +267,7 @@ Die Organe der Straßenaufsicht sind berechtigt, Personen, die sich offenbar in 
 `§ 5b (2) StVO.`  
 Die Organe der Straßenaufsicht sind weiters berechtigt, Personen an der Lenkung oder Inbetriebnahme eines Fahrzeuges zu hindern, deren Fahrlehrer (§ 114 Abs. 4 und 4a KFG 1967), Begleiter (§§ 122 Abs. 2 und 5 KFG 1967 oder 19 Abs. 3 und 6 FSG) oder Ausbildner (§ 122a Abs. 2 KFG 1967) sich offenbar in einem durch Alkohol oder Suchtgift beeinträchtigten Zustand befinden oder bei deren Fahrlehrer, Begleiter oder Ausbildner der Alkoholgehalt des Blutes 0,5 g/l (0,5 Promille) oder mehr oder der Alkoholgehalt der Atemluft 0,25 mg/l oder mehr beträgt. Zu diesem Zweck sind, falls erforderlich, je nach Lage des Falles und Art des Fahrzeuges, Zwangsmaßnahmen, wie etwa Abnahme der Fahrzeugschlüssel, Absperren oder Einstellung des Fahrzeuges, Anlegen von technischen Sperren und dergleichen, anzuwenden. Solche Zwangsmaßnahmen sind unverzüglich aufzuheben, wenn beim Fahrlehrer, Begleiter oder Ausbildner der durch Alkohol oder Suchtgift beeinträchtigte Zustand nicht mehr gegeben und ihm auch nicht ein zum Lenken des betreffenden Fahrzeuges allenfalls nötiger Führerschein nach den kraftfahrrechtlichen Vorschriften abgenommen ist oder wenn eine andere Person, bei der keine Hinderungsgründe gegeben sind, entweder beabsichtigt, das Fahrzeug selbst in Betrieb zu nehmen und zu lenken, oder die Aufgaben des Fahrlehrers, Begleiters oder Ausbildners wahrzunehmen.
 
-### § 6 StVO #  Benützung schienengleicher Eisenbahnübergänge.
+### § 6 StVO # Benützung schienengleicher Eisenbahnübergänge.
 Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und bei der Übersetzung solcher Übergänge sowie für die Beachtung der den schienengleichen Eisenbahnübergang sichernden Zeichen gelten die eisenbahnrechtlichen Vorschriften.
 
 `END-OF-DATA-FILE` *(fortges. in [BG.StVO.002](BG.StVO.002.md))*
