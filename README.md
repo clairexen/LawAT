@@ -22,7 +22,6 @@ Das sieht dann zB so aus:
 
 ----
 
-# PG.BussiG.001
 **Typ:** Phantasiegesetz  
 **Kurztitel:** BussiG  
 **Langtitel:** k. u. k. Bussigesetz (BussiG)  
