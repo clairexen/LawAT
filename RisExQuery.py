@@ -119,14 +119,14 @@ Funktionen:
   → Ausgabe auf der Konsole in plain ASCII
 
 - hd(data):
-  → Ausgabe auf der header aus dem Markdown text
+  → Ausgabe der Überschriften aus dem Markdown text
 
 - md(data):
   → Ausgabe von vormattiertem Markdown auf der Konsole mit ANSI escape codes (mit rich.markdown)
 
 WICHTIG:
 --------
-Immer zuerst die Datenbank (RisExFiles.zip) befragen, bevor internes Wissen verwendet wird.
+Immer zuerst die Datenbank (RisExQuery.py und RisExFiles.zip) befragen, bevor internes Wissen verwendet wird.
 Normbegriffe können ähnlich, aber unterschiedlich zwischen Ländern oder Paragrafen sein.
 Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem Recht korrekt zitiert wird.
 
@@ -369,7 +369,7 @@ def md(s: str):
 if __name__ == "__main__" and len(sys.argv) > 1:
     match sys.argv[1]:
         case "intro":
-            md(intro())
+            tx(intro())
         case "ls":
             for line in ls(*sys.argv[2:]):
                 print(line)

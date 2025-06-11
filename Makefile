@@ -13,12 +13,22 @@ help:
 	@echo "  make zip ......... (re-)create RisExFiles.zip"
 	@echo "  make purge ....... remove .venv and RisExFiles.zip"
 	@echo ""
+	@echo "Interactive ptpython shell (with RisExQuery.py pre-loaded):"
+	@echo "  make shell ....... interactive shell"
+	@echo "  make intro ....... shell, with intro() message"
+	@echo ""
 	@echo "Running a query:"
 	@echo "  make Q=\"<RisExQuery.py Args>\""
 	@echo ""
 	@echo "For example:"
 	@echo "  make Q=\"toc Urkunden\""
 	@echo ""
+
+shell: venv zip
+	.venv/bin/ptpython -i RisExQuery.py
+
+intro: venv zip
+	.venv/bin/ptpython -i RisExQuery.py intro
 
 venv: .venv/bin/activate
 .venv/bin/activate: # mkvenv.sh
@@ -32,4 +42,4 @@ RisExFiles.zip: index.json files/*
 purge:
 	rm -rf .venv RisExFiles.zip
 
-.PHONY: query help venv zip purge
+.PHONY: query help shell intro venv zip purge
