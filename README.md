@@ -24,10 +24,10 @@ Das sieht dann zB so aus:
 
 # PG.BussiG.001
 **Typ:** Phantasiegesetz  
-**Kurztitel:** BussiG
-**Langtitel:** k. u. k. Bussigesetz (BussiG)
-**Letzte Änderung:** BGBl. I Nr. 1/2345
-**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=-1
+**Kurztitel:** BussiG  
+**Langtitel:** k. u. k. Bussigesetz (BussiG)  
+**Letzte Änderung:** BGBl. I Nr. 1/2345  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=-1  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 Die Kaiserin hat angetrunken gescherzt:
@@ -49,9 +49,9 @@ Wer
 `§ 2 (1) Z 1 BussiG.`  
 ganz besonders  
 `§ 2 (1) Z 1 lit. a) BussiG.`  
-fleissig oder
+fleissig oder  
 `§ 2 (1) Z 1 lit. b) BussiG.`  
-bemüht war, oder
+bemüht war, oder  
 `§ 2 (1) Z 2 BussiG.`  
 einfach nur so ganz lieb ist,  
 der hat sich ein Bussi von der Kaiserin verdient.
