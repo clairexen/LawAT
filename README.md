@@ -7,12 +7,12 @@ TBD
 ## Liste der Normen
 
 ### Bundesrecht
-* [StGB](https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.toc.md)
-* [StPO](https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.toc.md)
-* [ABGB](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.toc.md)
-* [ZPO](https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.toc.md)
-* [VerG](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.toc.md)
-* [StVO](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.toc.md)
+* [Strafgesetzbuch (StGB)](https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.toc.md)
+* [Strafprozeßordnung (StPO)](https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.toc.md)
+* [Allgemeines bürgerliches Gesetzbuch (ABGB)](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.toc.md)
+* [Zivilprozessordnung (ZPO)](https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.toc.md)
+* [Vereinsgesetz (VerG)](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.toc.md)
+* [Straßenverkehrsordnung (StVO)](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.toc.md)
 
 ## Formatbeschreibung
 
