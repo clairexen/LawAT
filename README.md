@@ -1,4 +1,4 @@
-# RisEx - Extrahiere MarkDown für ganze Normen aus RIS HTML Text
+# RisEx - Von RIS HTML zu Mensch- und Maschinenfreundlichem MarkDown
 
 ## Einleitung
 
