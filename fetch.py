@@ -4,7 +4,9 @@
 
 from playwright.sync_api import sync_playwright, Locator
 import time, getopt, sys, json, os
+from urllib.parse import urljoin
 from ptpython.repl import embed
+from pathlib import Path
 
 # Remember to launch
 #   mitmproxy --mode regular --listen-port 8080 -s mitmp.py
@@ -102,6 +104,7 @@ if selectParagraph is None:
         rm -vf files/{normkey}.[0-9][0-9][0-9].md files/{normkey}.toc.json
     """)
 
+
 #%% Initialize Browser Context
 
 playwright = sync_playwright().start()
@@ -130,6 +133,21 @@ if printHttpRequests:
 
 #%% Actual Playwright Script
 
+def fetchObject(img_src):
+    if img_src.startswith("~/Dokumente/Bundesnormen/"):
+        filename = f"Obj.BN.{img_src.removeprefix('~/Dokumente/Bundesnormen/').replace('/', '.')}"
+    else:
+        assert False, f"Unrecognized object path: {img_src}"
+    filename = filename.replace(".hauptdokument.", ".H.")
+
+    img_url = urljoin(page.url, img_src)
+    response = page.request.get(img_url)
+    assert response.ok, f"Failed to fetch image: {response.status}"
+    if not (p := Path(f"files/{filename}")).is_file():
+        p.write_bytes(response.body())
+        os.system(f"set -ex; zip -vXj RisExFiles.zip files/{filename}")
+    return filename
+
 # Load Document
 print(f"Loading {normkey} from {normdata['docurl']}")
 page.goto(normdata["docurl"])
@@ -144,7 +162,6 @@ langtitel = page.locator("h3") \
   return node ? node.textContent.trim() : null;
 }""")
 print(f"Langtitel: {langtitel}")
-
 
 # Extract last changelog
 infoBlocks = page.locator(".documentContent").nth(0)
@@ -232,14 +249,28 @@ def processContentElement(el, outbuf, parName = None):
                 if "GldSymbolFloatLeft" in item.get_attrset("class"): continue
                 processContentElement(e, outbuf, subName)
 
-    def handleText(br = False, absHack = False):
+    def handleText(br = False, absHack = False, bold = False):
         nonlocal outbuf
         if br and len(outbuf) and not outbuf[-1].endswith("  "):
             outbuf[-1] += "  "
         tx = el.stripped_text()
         if absHack and (n := el.locator(":scope > .Absatzzahl")).count():
             tx = tx.removeprefix(n.stripped_text())
+        if bold:
+            tx = f"**{tx}**"
         outbuf.append(tx)
+
+    def handleObjects():
+        nonlocal outbuf
+        if len(outbuf) and not outbuf[-1].endswith("  "):
+            outbuf[-1] += "  "
+        md = list()
+        for ob in el.locator(":scope > *").all():
+            assert ob.tag_name() == "IMG"
+            src = ob.get_attribute('src')
+            filename = fetchObject(src)
+            md.append(f"![{filename}]({filename} \"{src}\")")
+        outbuf.append(f"{' '.join(md)}  ");
 
     def any_in(s, *a):
         return any([item in s for item in a])
@@ -254,11 +285,17 @@ def processContentElement(el, outbuf, parName = None):
         case "H4" if any_in(cls, "UeberschrPara"):
             handleParHeader()
 
+        case "H4" if any_in(cls, "ErlUeberschrL"):
+            handleText(True, False, True)
+
         case "P" if any_in(cls, "Abs", "Abs_small_indent", "SatznachNovao", "Abstand"):
             handleText()
 
         case "P" if any_in(cls, "ErlText"):
             handleText(True)
+
+        case "P" if any_in(cls, "AbbildungoderObjekt"):
+            handleObjects()
 
         case "DIV" if any_in(cls, "Abs", "Abs_small_indent"):
             handleText(False, True)
