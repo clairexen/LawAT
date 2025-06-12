@@ -10,9 +10,11 @@ Use with `from RisEnQuery import *`.
 Run `tx(intro())` (or `md(intro())`) for an introduction
 """
 
-_rex_disableMain = False
-_rex_zipPath = "RisExFiles.zip"
-#/#_rex_zipPath = "/mnt/data/RisExFiles.zip"; _rex_disableMain = True
+_rex_src, _rex_disableMain = None, True
+#/#_rex_src, _rex_disableMain = "RisExFiles.zip", False  # replace(count=1)
+#/#_rex_src, _rex_disableMain = "RisExFiles.json", False # replace(count=2)
+#/#_rex_src, _rex_disableMain = "/mnd/data/RisExFiles.zip", False  # replace(count=3)
+#/#_rex_src, _rex_disableMain = "/mnd/data/RisExFiles.json", False # replace(count=4)
 
 def intro():
     """
@@ -23,7 +25,8 @@ Utility library for accessing and searching RisExFiles.zip.
 
 Import as follows in Chat-GPT(-like) script environments:
 ```
-exec(open("/mnt/data/RisEnQuery.py").read().replace("#/#", "", 1))
+exec(open("/mnt/data/RisEnQuery.py").read().replace("#/#", "", count=3))  # Use /mnd/data/RisExFiles.zip
+exec(open("/mnt/data/RisEnQuery.py").read().replace("#/#", "", count=4))  # Use /mnd/data/RisExFiles.json
 ```
 
 Formatbeschreibung (zipped) Markdown+JSON-Datensätze in RisExFiles.zip
@@ -221,10 +224,28 @@ Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem 
 Merksatz: "Immer zuerst toc() oder get() – nie raten!"
 """
 
-import zipfile, json, os, sys, re, fnmatch
+import zipfile, json, os, sys, re, glob, fnmatch
 
-_rex_zip = zipfile.ZipFile(_rex_zipPath)
-_rex_dir = set([f.filename for f in _rex_zip.filelist])
+if _rex_src is None:
+    _rex_dir = {"index.json"} | {fn.removeprefix("files/") for fn in glob.glob("files/*")}
+    _rex_rd_text = lambda fn: open(fn if glob.glob(fn) else f"files/{fn}").read()
+    _rex_rd_json = lambda fn: json.load(open(fn if glob.glob(fn) else f"files/{fn}"))
+
+elif _rex_src.endswith(".zip"):
+    _rex_zip = zipfile.ZipFile(_rex_zipPath)
+    _rex_dir = set([f.filename for f in _rex_zip.filelist])
+    _rex_rd_text = lambda fn: _rex_zip.open(fn if glob.glob(fn) else f"files/{fn}").read().decode()
+    _rex_rd_json = lambda fn: json.load(_rex_zip.open(fn if glob.glob(fn) else f"files/{fn}"))
+
+elif _rex_src.endswith(".json"):
+    _rex_json = json.load(open(_rex_src))
+    _rex_dir = set(_rex_json.keys())
+    _rex_rd_text = lambda fn: _rex_json[fn]
+    _rex_rd_json = lambda fn: _rex_json[fn]
+
+else:
+    assert False, f"Unrecognized files extension: {_rex_src}"
+
 _rex_ls_cache = { None: (_rex_dir_sorted := sorted(_rex_dir)) }
 _rex_fetch_cache = dict()
 _rex_selected = None
@@ -278,11 +299,13 @@ def fetch(key: str):
             if fn not in _rex_dir:
                 for ext in (".json", ".md"):
                     if (fn + ext) in _rex_dir: fn += ext; break
-            with _rex_zip.open(fn) as f:
-                if fn.endswith(".json"):
-                    _rex_fetch_cache[key] = json.load(f)
-                else:
-                    _rex_fetch_cache[key] = [line.decode().removesuffix("\n") for line in f]
+            if fn.endswith(".json"):
+                _rex_fetch_cache[key] = _rex_rd_json(fn)
+            else:
+                data = _rex_rd_text(fn)
+                if type(data) is str:
+                    data = data.split("\n")
+                _rex_fetch_cache[key] = data
 
     return _rex_fetch_cache[key]
 
@@ -333,8 +356,15 @@ def pat(s: str) -> re.Pattern:
     return re.compile(matchFullTextTag + handleRangePatterns(fnmatch.translate(s).removesuffix("\\Z")))
 
 class _rex_sel_context:
-    def __init__(self, oldRexSelected):
+    def __init__(self, oldRexSelected, newRexSelected):
         self.oldRexSelected = oldRexSelected
+        self.newRexSelected = newRexSelected
+
+    def __str__(self):
+        return " ".join(f"{pf}*" for pf in self.newRexSelected)
+
+    def __iter__(self):
+        return [f"{pf}*" for pf in self.newRexSelected].__iter__()
 
     def __enter__(self):
         return self
@@ -358,11 +388,11 @@ def sel(*p):
     """
 
     global _rex_selected
-    retCtx = _rex_sel_context(_rex_selected)
+    oldRexSelected = _rex_selected
     _rex_selected = None
 
     if len(p) == 0:
-        return retCtx
+        return _rex_sel_context(oldRexSelected, _rex_selected)
 
     newRexSelected = set()
     tocFiles = ls(r"/[A-Z]+\.[A-Za-z]+\.*\.toc\.json")
@@ -374,7 +404,7 @@ def sel(*p):
                 newRexSelected.add(".".join(fn.split(".")[:2]) + ".")
 
     _rex_selected = tuple(sorted(newRexSelected))
-    return retCtx
+    return _rex_sel_context(oldRexSelected, _rex_selected)
 
 def toc(searchPat: str, filePat: str = None):
     """
