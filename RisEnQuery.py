@@ -7,14 +7,14 @@ _rex_zipPath = "RisExFiles.zip"
 
 def intro():
     """
-        Return the introduction message for RisExQuery.py.
+        Return the introduction message for RisEnQuery.py.
     """
     return """
 Utility library for accessing and searching RisExFiles.zip.
 
 Import as follows in Chat-GPT(-like) script environments:
 ```
-exec(open("/mnt/data/RisExQuery.py").read().replace("#/#", "", 1))
+exec(open("/mnt/data/RisEnQuery.py").read().replace("#/#", "", 1))
 ```
 
 Formatbeschreibung (zipped) Markdown+JSON-Datensätze in RisExFiles.zip
@@ -30,21 +30,21 @@ Formatbeschreibung (zipped) Markdown+JSON-Datensätze in RisExFiles.zip
 - Unicode-Zeichen (ä, ß, etc.) und geschützte Leerzeichen (\xa0) möglich
 
 
-RisExQuery – Kurzdokumentation
+RisEnQuery – Kurzdokumentation
 ==============================
 
 ```
 # Either import it as module from the current working directory
-from RisExQuery import *
+from RisEnQuery import *
 
 # or load and execute the uploaded Python file directly
-exec(open("/mnt/data/RisExQuery.py").read().replace("#/#", "", 1))
+exec(open("/mnt/data/RisEnQuery.py").read().replace("#/#", "", 1))
 ```
 
 Example Session:
 
 ```
->>> from RisExQuery import *
+>>> from RisEnQuery import *
 >>> tx(toc("Begr", "BG.StGB"))
 ## Achter Abschnitt # Begriffsbestimmungen | BG.StGB.004:11-12
 ### § 74 StGB # Andere Begriffsbestimmungen | BG.StGB.004:58-108
@@ -126,7 +126,7 @@ eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfrem
 
 Zweck:
 ------
-RisExQuery.py ermöglicht den Zugriff auf Gesetzesdateien im ZIP-Archiv "RisExFiles.zip". Es erlaubt strukturierte Suchen in Inhaltsverzeichnissen (.toc.json) und den Abruf von Gesetzestexten (.md).
+RisEnQuery.py ermöglicht den Zugriff auf Gesetzesdateien im ZIP-Archiv "RisExFiles.zip". Es erlaubt strukturierte Suchen in Inhaltsverzeichnissen (.toc.json) und den Abruf von Gesetzestexten (.md).
 
 Funktionen:
 -----------
@@ -180,7 +180,7 @@ Funktionen:
 
 WICHTIG:
 --------
-Immer zuerst die Datenbank (RisExQuery.py und RisExFiles.zip) befragen, bevor internes Wissen verwendet wird.
+Immer zuerst die Datenbank (RisEnQuery.py und RisExFiles.zip) befragen, bevor internes Wissen verwendet wird.
 Normbegriffe können ähnlich, aber unterschiedlich zwischen Ländern oder Paragrafen sein.
 Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem Recht korrekt zitiert wird.
 

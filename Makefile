@@ -3,7 +3,7 @@
 
 ifneq ($Q,)
 query: venv zip
-	.venv/bin/python3 RisExQuery.py $Q
+	.venv/bin/python3 RisEnQuery.py $Q
 endif
 
 help:
@@ -13,22 +13,22 @@ help:
 	@echo "  make zip ......... (re-)create RisExFiles.zip"
 	@echo "  make purge ....... remove .venv and RisExFiles.zip"
 	@echo ""
-	@echo "Interactive ptpython shell (with RisExQuery.py pre-loaded):"
+	@echo "Interactive ptpython shell (with RisEnQuery.py pre-loaded):"
 	@echo "  make shell ....... interactive shell"
 	@echo "  make intro ....... shell, with intro() message"
 	@echo ""
 	@echo "Running a query:"
-	@echo "  make Q=\"<RisExQuery.py Args>\""
+	@echo "  make Q=\"<RisEnQuery.py Args>\""
 	@echo ""
 	@echo "For example:"
 	@echo "  make Q=\"toc Urkunden\""
 	@echo ""
 
 shell: venv zip
-	.venv/bin/ptpython -i RisExQuery.py
+	.venv/bin/ptpython -i RisEnQuery.py
 
 intro: venv zip
-	.venv/bin/ptpython -i RisExQuery.py intro
+	.venv/bin/ptpython -i RisEnQuery.py intro
 
 venv: .venv/bin/activate
 .venv/bin/activate: # mkvenv.sh
