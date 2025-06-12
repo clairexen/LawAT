@@ -294,6 +294,9 @@ def processContentElement(el, outbuf, parName = None):
             tx = tx.removeprefix(n.stripped_text())
         if bold:
             tx = f"**{tx}**  "
+        for k in el.locator(":scope .Kursiv").all():
+            kt = k.stripped_text()
+            tx = tx.replace(kt, f"*{kt}*")
         outbuf.append(tx)
 
     def handleObjects():
