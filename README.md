@@ -1,7 +1,5 @@
 # RisEx - Von RIS HTML zu Mensch- und Maschinenfreundlichem MarkDown
 
-## Einleitung
-
 TBD
 
 ## Liste der Normen
@@ -14,7 +12,11 @@ TBD
 * [Vereinsgesetz (VerG)](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.toc.md)
 * [Straßenverkehrsordnung (StVO)](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.toc.md)
 
-## Formatbeschreibung
+# RisEn - AI-Freundliche Python Library zum Zugriff auf die RisEx Files
+
+TBD
+
+# RisEx/RisEn Markdown Formatbeschreibung
 
 TBD
 
