@@ -61,6 +61,16 @@ Example Session:
 ### § 74 StGB # Andere Begriffsbestimmungen
 ## Besonderer Teil # Erster Abschnitt # Strafbare Handlungen gegen Leib und Leben
 
+>>> sel("BG.StGB", "BG.StPO")
+>>> toc("+Eltern")[:3]
+[('### § 72 StGB # Angehörige', 'BG.StGB.004:45-52'), ('### § 240 StPO', 'BG.StPO.015:18-22')]
+
+>>> sel("BG.ABGB")
+>>> toc("+Eltern")[:3]
+[('## Drittes Hauptstück # Rechte zwischen Eltern und Kindern # Erster Abschnitt # Allgemeine Bestimmungen', 'BG.ABGB.002:11-12'), ('### § 137 ABGB # Allgemeine Grundsätze', 'BG.ABGB.002:13-20'), ('### § 138 ABGB # Kindeswohl', 'BG.ABGB.002:21-49')]
+
+>>> sel() # Reset Selection
+
 >>> tx(get("§ 71 StGB"))
 ### § 71 StGB # Schädliche Neigung | BG.StGB.004:40-44
 
@@ -132,6 +142,10 @@ Funktionen:
 - pat(pattern):
   → Erstellt ein Regex-Objekt aus einem Shell-Muster, Fix-String (=) oder RegEx (/).
 
+- sel(*p):
+  → Selektiert die Liste der Normen die bei toc(), get(), und find() verwendet werden
+     wenn filePat den Wert None hat. (Reset mit sel() ohne argumente.)
+
 - toc(searchPat, filePat=None):
   → Durchsucht .toc.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Gibt eine liste der gefundenden Überschriften zurück.  WICHTIG: Die Dateinamen
@@ -179,6 +193,7 @@ _rex_zip = zipfile.ZipFile(_rex_zipPath)
 _rex_dir = set([f.filename for f in _rex_zip.filelist])
 _rex_ls_cache = { None: (_rex_dir_sorted := sorted(_rex_dir)) }
 _rex_fetch_cache = dict()
+_rex_selected = None
 
 def ls(p: str = None):
     """
@@ -277,6 +292,31 @@ def pat(s: str) -> re.Pattern:
         return re.compile(matchFullTextTag + re.escape(s[1:]))
     return re.compile(matchFullTextTag + handleRangePatterns(fnmatch.translate(s).removesuffix("\\Z")))
 
+def sel(*p):
+    """
+        Select a list of norms.
+
+        This list of files is used whenever the filePat argument to toc(),
+        get(), or find() is left None.
+
+        Running sel() without arguments resets the list of selected files.
+    """
+
+    global _rex_selected
+    if len(p) == 0:
+        _rex_selected = None
+        return None
+
+    _rex_selected = set()
+
+    tocFiles = ls(r"/[A-Z]+\.[A-Za-z]+\.*\.toc\.json")
+    for pat in p:
+        if type(pat) is set:
+            _rex_selected += pat
+        else:
+            for fn in ls(pat):
+                _rex_selected.add(".".join(fn.split(".")[:2]) + ".toc.json")
+
 def toc(searchPat: str, filePat: str = None):
     """
         Search for searchPat in the tables-of-contents .toc.json
@@ -302,10 +342,15 @@ def toc(searchPat: str, filePat: str = None):
 
     tocFiles = ls(r"/[A-Z]+\.[A-Za-z]+\.*\.toc\.json")
     if filePat is not None:
-        tocFiles = set()
-        for fn in ls(filePat):
-            tocFiles.add(".".join(fn.split(".")[:2]) + ".toc.json")
-        tocFiles = sorted(tocFiles)
+        if type(filePat) is set:
+            tocFiles = filePat
+        else:
+            tocFiles = set()
+            for fn in ls(filePat):
+                tocFiles.add(".".join(fn.split(".")[:2]) + ".toc.json")
+            tocFiles = sorted(tocFiles)
+    elif _rex_selected is not None:
+        tocFiles = _rex_selected
 
     for fn in tocFiles:
         for tf, items in fetch(fn).items():
@@ -381,12 +426,16 @@ def grep(grepPat: str, s: str):
 
 def untag(s: str):
     """
-        Return the string(s) with tags like
+        Return the string(s) with tags such as
            `§ 74 (1) Z 4a StGB.` and
            `§ 74 (1) Z 4a lit. b StGB.`
-        replaced with something like
+        replaced with something such as
            `  4a.` and
            `    b)`
+
+        We should always cite norms to the user in
+        the output format of untag(), not with the
+        full tags included in the markdown text.
     """
 
     if type(s) is not str:
