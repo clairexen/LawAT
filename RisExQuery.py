@@ -67,6 +67,28 @@ Example Session:
 `§ 71 StGB.`
 Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind.
 
+>>> tx(get(" § 74 StGB ").split("\n")[9:18])
+`§ 74 (1) Z 4 StGB.`
+Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;
+`§ 74 (1) Z 4a StGB.`
+Amtsträger: jeder, der
+(Anm.: lit. a aufgehoben durch BGBl. I Nr. 61/2012)
+`§ 74 (1) Z 4a lit. b StGB.`
+für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere Person des öffentlichen Rechts, ausgenommen eine Kirche oder Religionsgesellschaft, für einen anderen Staat oder für eine internationale Organisation Aufgaben der Gesetzgebung, Verwaltung oder Justiz als deren Organ oder Dienstnehmer wahrnimmt, Unionsbeamter (Z 4b) ist oder - für die Zwecke der §§ 168g, 304, 305, 307 und 307a - der öffentliche Aufgaben im Zusammenhang mit der Verwaltung der oder Entscheidungen über die finanziellen Interessen der Europäischen Union in Mitgliedstaaten oder Drittstaaten übertragen bekommen hat und diese Aufgaben wahrnimmt,
+`§ 74 (1) Z 4a lit. c StGB.`
+sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder
+
+>>> tx(untag(get(" § 74 StGB ").split("\n")[9:18]))
+`  4.`
+Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;
+`  4a.`
+Amtsträger: jeder, der
+(Anm.: lit. a aufgehoben durch BGBl. I Nr. 61/2012)
+`    b)`
+für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere Person des öffentlichen Rechts, ausgenommen eine Kirche oder Religionsgesellschaft, für einen anderen Staat oder für eine internationale Organisation Aufgaben der Gesetzgebung, Verwaltung oder Justiz als deren Organ oder Dienstnehmer wahrnimmt, Unionsbeamter (Z 4b) ist oder - für die Zwecke der §§ 168g, 304, 305, 307 und 307a - der öffentliche Aufgaben im Zusammenhang mit der Verwaltung der oder Entscheidungen über die finanziellen Interessen der Europäischen Union in Mitgliedstaaten oder Drittstaaten übertragen bekommen hat und diese Aufgaben wahrnimmt,
+`    c)`
+sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder
+
 >>> tx(grep("Urkund", get("", "BG.StGB"))) # Volltextsuche nach "Urkund" im StGB
 
 ## Achter Abschnitt # Begriffsbestimmungen| BG.StGB.004:11-12
@@ -112,8 +134,16 @@ Funktionen:
   → Durchsucht .toc.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Zitiert die gefundenden Paragraphen vollständig.
 
-- grep(grepPat, s):
+- grep(grepPat, data):
   → Durchsucht die string(s) im zweiten Argument nach dem pattern.
+
+- untag(data):
+  → Gibt die Eingabe mit den Citation-Tags für Aufzählungspunkte (wie
+     zB `§ 74 (1) Z 4a StGB.` und `§ 74 (1) Z 4a lit. b StGB.`) mit
+     dem entsprechenden Originaltext der Norm (also zB `  4a.` und
+     `    b)`) ersetzt zurück. Die Ausgabe von untag(), bzw. das
+     Ausgabeformat von untag(), ist, wie die Normen dem Anwender
+     zitiert werden sollten.
 
 - tx(data):
   → Ausgabe auf der Konsole in plain ASCII
@@ -312,6 +342,43 @@ def grep(grepPat: str, s: str):
 
     return matches
 
+def untag(s: str):
+    """
+        Return the string(s) with tags like
+           `§ 74 (1) Z 4a StGB.` and
+           `§ 74 (1) Z 4a lit. b StGB.`
+        replaced with something like
+           `  4a.` and
+           `    b)`
+    """
+
+    if type(s) is not str:
+        return [untag(t) for t in s]
+
+    outLines = list()
+    for line in s.split("\n"):
+        if not line.startswith("`") or not "`" in line[1:]:
+            outLines.append(line)
+            continue
+
+        _, tag, text = line.split("`", 2)
+        tagFields = tag.split()
+        if not tag.startswith("§") or len(tagFields) <= 4:
+            outLines.append(line)
+            continue
+
+        item = tagFields[-2]
+        item = item.removesuffix(".")
+        item = item.removesuffix(")")
+
+        lvl = (len(tagFields)-3) // 2
+        if lvl == 1: item += "."
+        elif lvl == 2: item += ")"
+        else: assert False
+        outLines.append(f"`{'  '*lvl}{item}`{text}")
+
+    return "\n".join(outLines)
+
 def tx(s: str):
     """
         Print (markdown or any other) text to the console as-is
@@ -381,7 +448,11 @@ if __name__ == "__main__" and len(sys.argv) > 1:
             tx(toc(*sys.argv[2:]))
         case "grep":
             tx(grep(sys.argv[2], get(*sys.argv[3:])))
+        case "untag":
+            tx(untag(get(*sys.argv[2:])))
         case "tx":
             tx(get(*sys.argv[2:]))
         case "md":
             md(get(*sys.argv[2:]))
+        case _:
+            assert False
