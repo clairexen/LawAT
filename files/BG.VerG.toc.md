@@ -1,4 +1,4 @@
-# BG.VerG TOC
+# BG.VerG.TOC — Vereinsgesetz (VerG)
 **Typ:** Bundesgesetz  
 **Kurztitel:** VerG, VerG 2002  
 **Langtitel:** Bundesgesetz über Vereine (Vereinsgesetz 2002 – VerG)  
