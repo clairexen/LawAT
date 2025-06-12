@@ -34,7 +34,8 @@
 	"BG.VerG": {
 		"type": "BG",
 		"title": "VerG",
-		"extratitles": ["VerG 2002"],
+		"split": 20000,
+		"extratitles": ["VerG_2002"],
 		"caption": "Vereinsgesetz (VerG)",
 		"promulgationsklausel": "Der Nationalrat hat beschlossen:",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917"
@@ -46,5 +47,13 @@
 		"stop": "§ 106",
 		"caption": "Straßenverkehrsordnung (StVO)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336"
+	},
+	"BG.AVG": {
+		"type": "BG",
+		"title": "AVG",
+		"split": 20000,
+		"stop": "§ 82",
+		"caption": "Allgemeines Verwaltungsverfahrensgesetz (AVG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768"
 	}
 }

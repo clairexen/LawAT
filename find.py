@@ -102,6 +102,7 @@ if printHttpRequests:
 normdata = {
     "type": normkey.split(".", 1)[0],
     "title": normkey.split(".", 1)[1],
+    "split": 20000
 }
 
 if normdata["type"] in ("BG", "BVG"):
