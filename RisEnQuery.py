@@ -527,25 +527,48 @@ def md(s: str):
     Console().print(Markdown(s))
     Heading.__rich_console__ = original__rich_console__
 
+def txintro(*a): tx(intro(*a))
+def txls(*a):    tx(ls(*a))
+def txfetch(*a): tx(fetch(*a))
+def txtoc(*a):   tx(toc(*a))
+def txget(*a):   tx(get(*a))
+def txgrep(*a):  tx(grep(*a))
+def txuntag(*a): tx(untag(*a))
+
+def hdintro(*a): hd(intro(*a))
+def hdls(*a):    hd(ls(*a))
+def hdfetch(*a): hd(fetch(*a))
+def hdtoc(*a):   hd(toc(*a))
+def hdget(*a):   hd(get(*a))
+def hdgrep(*a):  hd(grep(*a))
+def hduntag(*a): hd(untag(*a))
+
+def mdintro(*a): md(intro(*a))
+def mdls(*a):    md(ls(*a))
+def mdfetch(*a): md(fetch(*a))
+def mdtoc(*a):   md(toc(*a))
+def mdget(*a):   md(get(*a))
+def mdgrep(*a):  md(grep(*a))
+def mduntag(*a): md(untag(*a))
+
 if __name__ == "__main__" and len(sys.argv) > 1:
     match sys.argv[1]:
         case "intro":
-            tx(intro())
+            txintro()
         case "ls":
-            for line in ls(*sys.argv[2:]):
-                print(line)
+            txls(*sys.argv[2:])
         case "fetch":
-            print(fetch(*sys.argv[2:]))
+            txfetch(*sys.argv[2:])
         case "pat":
             print(pat(*sys.argv[2:]).pattern)
         case "toc":
-            tx(toc(*sys.argv[2:]))
+            txtoc(*sys.argv[2:])
         case "grep":
-            tx(grep(sys.argv[2], get(*sys.argv[3:])))
+            txgrep(sys.argv[2], get(*sys.argv[3:]))
         case "untag":
-            tx(untag(get(*sys.argv[2:])))
-        case "tx":
-            tx(get(*sys.argv[2:]))
+            txuntag(get(*sys.argv[2:]))
+        case "get":
+            txget(*sys.argv[2:])
         case "md":
             md(get(*sys.argv[2:]))
         case _:
