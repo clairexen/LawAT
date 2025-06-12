@@ -80,6 +80,31 @@ Example Session:
 
 >>> sel() # Reset Selection
 
+>>> with sel("BG.StPO", "BG.StGB"): utoc("+Anzeig") # Change selection temporarily
+### § 25 StPO # Örtliche Zuständigkeit | BG.StPO.001:278-302
+### § 25a StPO # Abtretung | BG.StPO.001:303-310
+### § 44 StPO # Anzeige der Ausgeschlossenheit und Antrag auf Ablehnung | BG.StPO.003:33-43
+### § 66 StPO # Opferrechte | BG.StPO.004:169-200
+## 3. Abschnitt # Anzeigepflicht, Anzeige- und Anhalterecht | BG.StPO.005:131-132
+### § 78 StPO # Anzeigepflicht | BG.StPO.005:133-147
+### § 79 StPO | BG.StPO.005:148-152
+### § 80 StPO # Anzeige- und Anhalterecht | BG.StPO.005:153-160
+### § 99 StPO # Ermittlungen | BG.StPO.006:202-222
+### § 100 StPO # Berichte | BG.StPO.006:223-255
+### § 108 StPO # Antrag auf Einstellung | BG.StPO.007:111-137
+### § 147 StPO | BG.StPO.010:85-113
+### § 155 StPO # Verbot der Vernehmung als Zeuge | BG.StPO.010:188-203
+### § 390 StPO | BG.StPO.021:125-141
+### § 393 StPO | BG.StPO.021:162-182
+### § 298 StGB # Vortäuschung einer mit Strafe bedrohten Handlung | BG.StGB.012:117-124
+
+
+>>> with sel("BG.StPO", "BG.StGB", "BG.ABGB"): uls("*.toc.md")
+BG.ABGB.toc.md
+BG.StGB.toc.md
+BG.StPO.toc.md
+
+
 >>> tx(get("§ 71 StGB"))
 ### § 71 StGB # Schädliche Neigung | BG.StGB.004:40-44
 
@@ -208,16 +233,22 @@ def ls(p: str = None):
     """
         Return the list of file names from RisExFiles.zip.
     """
-    if p not in _rex_ls_cache:
-        filePat = pat(p)
+    if (key := (p, _rex_selected)) not in _rex_ls_cache:
+        filePat = pat(p) if p is not None else None
         fileList = list()
         for fn in _rex_dir_sorted:
+            if _rex_selected is not None:
+                for pf in _rex_selected:
+                    if fn.startswith(pf):
+                        break
+                else:
+                    continue
             for suffix in ["", ".md", ".json", ".toc.json"]:
-                if filePat.fullmatch(fn.removesuffix(suffix)):
+                if filePat is None or filePat.fullmatch(fn.removesuffix(suffix)):
                     fileList.append(fn)
                     break
-        _rex_ls_cache[p] = fileList
-    return _rex_ls_cache[p]
+        _rex_ls_cache[key] = fileList
+    return _rex_ls_cache[key]
 
 def fetch(key: str):
     """
@@ -301,6 +332,18 @@ def pat(s: str) -> re.Pattern:
         return re.compile(matchFullTextTag + re.escape(s[1:]))
     return re.compile(matchFullTextTag + handleRangePatterns(fnmatch.translate(s).removesuffix("\\Z")))
 
+class _rex_sel_context:
+    def __init__(self, oldRexSelected):
+        self.oldRexSelected = oldRexSelected
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, exc_type, exc_value, traceback):
+        global _rex_selected
+        _rex_selected = self.oldRexSelected
+        return False
+
 def sel(*p):
     """
         Select a list of norms.
@@ -309,22 +352,29 @@ def sel(*p):
         get(), or find() is left None.
 
         Running sel() without arguments resets the list of selected files.
+
+        Returns a context manager that restores the previous selection
+        in its __exit__() callback.
     """
 
     global _rex_selected
+    retCtx = _rex_sel_context(_rex_selected)
+    _rex_selected = None
+
     if len(p) == 0:
-        _rex_selected = None
-        return None
+        return retCtx
 
-    _rex_selected = set()
-
+    newRexSelected = set()
     tocFiles = ls(r"/[A-Z]+\.[A-Za-z]+\.*\.toc\.json")
     for pat in p:
         if type(pat) is set:
-            _rex_selected += pat
+            newRexSelected += pat
         else:
             for fn in ls(pat):
-                _rex_selected.add(".".join(fn.split(".")[:2]) + ".toc.json")
+                newRexSelected.add(".".join(fn.split(".")[:2]) + ".")
+
+    _rex_selected = tuple(sorted(newRexSelected))
+    return retCtx
 
 def toc(searchPat: str, filePat: str = None):
     """
@@ -359,7 +409,7 @@ def toc(searchPat: str, filePat: str = None):
                 tocFiles.add(".".join(fn.split(".")[:2]) + ".toc.json")
             tocFiles = sorted(tocFiles)
     elif _rex_selected is not None:
-        tocFiles = _rex_selected
+        tocFiles = {f"{pf}toc.json" for pf in _rex_selected}
 
     for fn in tocFiles:
         for tf, items in fetch(fn).items():
@@ -433,7 +483,7 @@ def grep(grepPat: str, s: str):
 
     return matches
 
-def untag(s: str):
+def untag(*a):
     """
         Return the string(s) with tags such as
            `§ 74 (1) Z 4a StGB.` and
@@ -446,6 +496,22 @@ def untag(s: str):
         the output format of untag(), not with the
         full tags included in the markdown text.
     """
+
+    if len(a) == 0:
+        return ""
+
+    if len(a) > 1:
+        outList = list()
+        for s in a:
+            if type(r := untag(s)) is str:
+                outList.append(r)
+            else:
+                for t in r:
+                    outList.append(r)
+        return outList
+
+    assert len(a) == 1
+    s = a[0]
 
     if type(s) is not str:
         return [untag(t) for t in s]
@@ -480,7 +546,7 @@ def tx(*a):
     """
     for s in a:
         if type(s) is not str:
-            s = "\n".join([f"{t[0]} | {t[1]}" if type(t) is tuple else t for t in s]) + "\n"
+            s = "\n".join([t if type(t) is str else f"{t[0]} | {t[1]}" for t in s]) + "\n"
         print(s)
 
 def hd(a):
@@ -532,37 +598,32 @@ def md(a):
 
     Heading.__rich_console__ = original__rich_console__
 
-def u(*a):
-    for s in a:
-        txuntag(s)
-
+def u(*a): txuntag(*a)
+def uls(*a): tx(ls(*a))
 def ufetch(*a): u(fetch(*a))
 def utoc(*a):   u(toc(*a))
 def uget(*a):   u(get(*a))
 def ugrep(*a):  u(grep(*a))
 
-def txintro(*a): tx(intro(*a))
-def txls(*a):    tx(ls(*a))
 def txfetch(*a): tx(fetch(*a))
 def txtoc(*a):   tx(toc(*a))
 def txget(*a):   tx(get(*a))
 def txgrep(*a):  tx(grep(*a))
-def txuntag(*a): tx(untag(*a))
 
-def hdintro(*a): hd(intro(*a))
-def hdls(*a):    hd(ls(*a))
 def hdfetch(*a): hd(fetch(*a))
 def hdtoc(*a):   hd(toc(*a))
 def hdget(*a):   hd(get(*a))
 def hdgrep(*a):  hd(grep(*a))
-def hduntag(*a): hd(untag(*a))
 
-def mdintro(*a): md(intro(*a))
-def mdls(*a):    md(ls(*a))
 def mdfetch(*a): md(fetch(*a))
 def mdtoc(*a):   md(toc(*a))
 def mdget(*a):   md(get(*a))
 def mdgrep(*a):  md(grep(*a))
+
+def txintro(*a): tx(intro(*a))
+def mdintro(*a): md(intro(*a))
+
+def txuntag(*a): tx(untag(*a))
 def mduntag(*a): md(untag(*a))
 
 if __name__ == "__main__" and len(sys.argv) > 1 and not _rex_disableMain:
@@ -570,11 +631,11 @@ if __name__ == "__main__" and len(sys.argv) > 1 and not _rex_disableMain:
         case "intro":
             txintro()
         case "ls":
-            txls(*sys.argv[2:])
+            uls(*sys.argv[2:])
         case "fetch":
             txfetch(*sys.argv[2:])
         case "pat":
-            print(pat(*sys.argv[2:]).pattern)
+            tx(pat(*sys.argv[2:]).pattern)
         case "toc":
             txtoc(*sys.argv[2:])
         case "grep":
