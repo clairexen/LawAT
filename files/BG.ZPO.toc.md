@@ -1,12 +1,12 @@
-# BG.ZPO TOC
+# BG.ZPO.TOC — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.toc.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
-
-Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Inhaltsverzeichnis
 
@@ -1095,4 +1095,4 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 * [§ 636 ZPO # In- und Außerkrafttreten; Übergangsbestimmungen](BG.ZPO.024.md#-636-zpo--in--und-außerkrafttreten-übergangsbestimmungen)
 * [§ 637 ZPO # Umsetzungshinweise](BG.ZPO.024.md#-637-zpo--umsetzungshinweise)
 
-`END-OF-TOC`
+`END-OF-TOC` *(fortges. in [BG.ZPO.001](BG.ZPO.001.md))*

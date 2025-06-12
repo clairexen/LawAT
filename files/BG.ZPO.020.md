@@ -1,9 +1,11 @@
-# BG.ZPO.020
+# BG.ZPO.020 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.020.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.019](BG.ZPO.019.md))*
@@ -169,7 +171,7 @@ Wenn das Bestandverhältnis für mehr als sechs Monate eingegangen ist, kann die
 
 `§ 567 (3) ZPO.`  
 Die Bestimmung des §. 564 ist auch auf die Zustellung solcher Anträge anzuwenden.
-(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 30/2009)
+*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 30/2009)*
 
 ## Verhältnis zum Afterbestandnehmer.
 
@@ -220,7 +222,7 @@ Die Exekution kann auf Grund rechtskräftig gewordener Urteile, Aufkündigungen 
 Die Bestimmungen des §. 573 sind auch dann anzuwenden, wenn ein Bestandvertrag ohne vorausgegangene gerichtliche oder außergerichtliche Aufkündigung infolge einer Klage durch Urtheil für aufgehoben oder erloschen erklärt wird.
 
 ### § 575 ZPO
-(Anm.: Abs. 1 aufgehoben durch Art. III Z 28, BGBl. Nr. 282/1955)
+*(Anm.: Abs. 1 aufgehoben durch Art. III Z 28, BGBl. Nr. 282/1955)*
 
 `§ 575 (2) ZPO.`  
 Gegen die gerichtlichen Aufträge zur Übergabe oder Übernahme des Bestandgegenstandes, die auf Grund von Aufkündigungen oder infolge eines gemäß §. 567 gestellten Ansuchens ergehen, ist vorbehaltlich der dagegen zu erhebenden Einwendungen ein Rechtsmittel nicht zulässig.

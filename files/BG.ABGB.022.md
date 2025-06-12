@@ -1,9 +1,11 @@
-# BG.ABGB.022
+# BG.ABGB.022 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ABGB  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.022.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ABGB.021](BG.ABGB.021.md))*
@@ -131,7 +133,7 @@ Auch für Dienstleistungen, die nicht zustande gekommen sind, gebührt dem Diens
 
 `§ 1155 (2) ABGB.`  
 Wurde er infolge solcher Umstände durch Zeitverlust bei der Dienstleistung verkürzt, so gebührt ihm angemessene Entschädigung.
-(Anm.: Abs. 3 und 4 mit Ablauf des 31.12.2020 außer Kraft getreten)
+*(Anm.: Abs. 3 und 4 mit Ablauf des 31.12.2020 außer Kraft getreten)*
 
 ### § 1156 ABGB # Erlöschen der Ansprüche.
 
@@ -156,7 +158,7 @@ Ein auf Probe oder nur für die Zeit eines vorübergehenden Bedarfes vereinbarte
 
 `§ 1158 (3) ABGB.`  
 Ein für die Lebenszeit einer Person oder für länger als fünf Jahre vereinbartes Dienstverhältnis kann von dem Dienstnehmer nach Ablauf von fünf Jahren unter Einhaltung einer Kündigungsfrist von sechs Monaten gelöst werden.
-(Anm.: Abs. 4 aufgehoben durch Art. 6 Z 2, BGBl. I Nr. 153/2017)
+*(Anm.: Abs. 4 aufgehoben durch Art. 6 Z 2, BGBl. I Nr. 153/2017)*
 
 ### § 1159 ABGB # Kündigung
 

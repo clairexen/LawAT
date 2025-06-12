@@ -1,9 +1,11 @@
-# BG.StPO.006
+# BG.StPO.006 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.006.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.005](BG.StPO.005.md))*

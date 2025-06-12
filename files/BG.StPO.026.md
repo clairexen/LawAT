@@ -1,9 +1,11 @@
-# BG.StPO.026
+# BG.StPO.026 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.026.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.025](BG.StPO.025.md))*
@@ -165,7 +167,7 @@ Die Einträge zu den §§ 74 und 75 im Inhaltsverzeichnis, § 54, die Übersch
 Der Eintrag des Titels von § 66a im Inhaltsverzeichnis sowie § 56 Abs. 3, § 66 Abs. 2 § 70 Abs. 1, § 115 Abs. 1 Z 3, § 155 Abs. 1 Z 3 und § 516a Abs. 8 bis 10 treten mit 1. November 2018 in Kraft.
 
 `§ 514 (41) StPO.`  
-§ 20 Abs. 1 Z 1 und 6 (Anm.: richtig: § 20a Abs. 1 Z 1 und 6) in der Fassung des Bundesgesetzes BGBl. I Nr. 111/2019 treten mit 28.12.2019 in Kraft.
+§ 20 Abs. 1 Z 1 und 6 *(Anm.: richtig: § 20a Abs. 1 Z 1 und 6)* in der Fassung des Bundesgesetzes BGBl. I Nr. 111/2019 treten mit 28.12.2019 in Kraft.
 
 `§ 514 (42) StPO.`  
 § 174 Abs. 1, § 176 Abs. 3 und § 239 treten mit dem der Kundmachung des bezeichneten Bundesgesetzes folgenden Tag in Kraft.
@@ -195,7 +197,7 @@ Der Eintrag des Titels von § 66b im Inhaltsverzeichnis sowie § 30 Abs. 1 Z�
 § 209a Abs. 1 und § 209b in der Fassung des Bundesgesetzes BGBl. I Nr. 243/2021 treten mit 1. Jänner 2022 in Kraft. § 209b in der Fassung des genannten Bundesgesetzes ist auf Verfahren anzuwenden, in denen die Verständigung des Bundeskartellanwalts gemäß § 209b Abs. 1 nach dem 31. Dezember 2021 bei der Staatsanwaltschaft eingelangt ist; für andere Verfahren gilt weiterhin § 209b in der Fassung des Bundesgesetzes BGBl. I Nr. 27/2018. § 209a und § 209b in der Fassung des Bundesgesetzes BGBl. I Nr. 243/2021 treten mit Ablauf des 31. Dezember 2028 außer Kraft.
 
 `§ 514 (51) StPO.`  
-Die Einträge im Inhaltsverzeichnis zum 21. Hauptstück, § 48 Abs. 2, § 61 Abs. 1 Z 2, § 66a Abs. 2 Z 5, § 281 Abs. 1 Z 3 und 5 (Anm.: offensichtlich gemeint Z 3 und Z 8), § 345 Abs. 1 Z 4, die Abschnittsbezeichnung und Abschnittsüberschrift zum 1. Abschnitt des 21. Hauptstücks, §§ 429 bis 434g, die Abschnittsbezeichnung und Abschnittsüberschrift zum 2. Abschnitt des 21. Hauptstücks, § 435 Abs. 1, § 437, § 438, § 439 Abs. 1 und 2, § 440, § 441, § 442, die Abschnittsbezeichnung und Abschnittsüberschrift zum 3. und 4. Abschnitt des 21. Hauptstücks, § 492 Abs. 1, § 494a Abs. 2, § 495 Abs. 1 und § 497 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 223/2022, treten mit 1. März 2023 in Kraft; gleichzeitig tritt § 436 außer Kraft.
+Die Einträge im Inhaltsverzeichnis zum 21. Hauptstück, § 48 Abs. 2, § 61 Abs. 1 Z 2, § 66a Abs. 2 Z 5, § 281 Abs. 1 Z 3 und 5 *(Anm.: offensichtlich gemeint Z 3 und Z 8)*, § 345 Abs. 1 Z 4, die Abschnittsbezeichnung und Abschnittsüberschrift zum 1. Abschnitt des 21. Hauptstücks, §§ 429 bis 434g, die Abschnittsbezeichnung und Abschnittsüberschrift zum 2. Abschnitt des 21. Hauptstücks, § 435 Abs. 1, § 437, § 438, § 439 Abs. 1 und 2, § 440, § 441, § 442, die Abschnittsbezeichnung und Abschnittsüberschrift zum 3. und 4. Abschnitt des 21. Hauptstücks, § 492 Abs. 1, § 494a Abs. 2, § 495 Abs. 1 und § 497 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 223/2022, treten mit 1. März 2023 in Kraft; gleichzeitig tritt § 436 außer Kraft.
 
 `§ 514 (52) StPO.`  
 § 30 Abs. 1 Z 9 in der Fassung des Bundesgesetzes BGBl. I Nr. 135/2023, tritt mit Ablauf des 30. November 2023 außer Kraft.
@@ -224,7 +226,7 @@ Soweit in diesem Gesetz personenbezogene Bezeichnungen nur in männlicher Form a
 
 `§ 516 (1) StPO.`  
 Die durch das Strafprozessreformgesetz und das Bundesgesetz, BGBl. I Nr. 93/2007, geänderten Verfahrensbestimmungen dieses Bundesgesetzes sind in Strafverfahren nicht anzuwenden, in denen vor ihrem In-Kraft-Treten das Urteil in erster Instanz gefällt worden ist. Nach Aufhebung eines solchen Urteils ist jedoch im Sinne der neuen Verfahrensbestimmungen vorzugehen.
-(Anm.: Abs. 1a und 1b aufgehoben durch BGBl. I Nr. 40/2009)
+*(Anm.: Abs. 1a und 1b aufgehoben durch BGBl. I Nr. 40/2009)*
 
 `§ 516 (2) StPO.`  
 Zum Zeitpunkt des In-Kraft-Tretens des Strafprozessreformgesetzes bei Gericht anhängige Anträge auf gerichtliche Vorerhebungen sind nach den durch das Strafprozessreformgesetz aufgehobenen Verfahrensbestimmungen zu erledigen. Wäre für die Erledigung nach den durch das Strafprozessreformgesetz aufgehobenen Bestimmungen eine Anordnung oder Genehmigung der Ratskammer erforderlich, so tritt an ihre Stelle der gemäß § 31 Abs. 1 Z 2 zuständige Einzelrichter des Landesgerichts. Über sonstige Anträge, Entscheidungen und Beschwerden, für deren Erledigung die Ratskammer gemäß den durch das Strafprozessreformgesetz und Strafprozessreformbegleitgesetz I, BGBl. I Nr. 93/2007, geänderten Verfahrensbestimmungen zuständig wäre, hat an ihrer Stelle das Landesgericht als Senat von drei Richtern gemäß § 31 Abs. 5 nach den neuen Verfahrensbestimmungen zu entscheiden. Voruntersuchungen werden mit dem In-Kraft-Treten des Strafprozessreformgesetzes von Gesetzes wegen beendet. Das Gericht hat die Akten, nachdem es die allenfalls zur Entscheidung über die Fortsetzung der Untersuchungshaft erforderlichen Verfügungen und Entscheidungen getroffen hat, der Staatsanwaltschaft zu übersenden. In Verfahren, die nur auf Verlangen des Verletzten zu verfolgen sind, ist der Privatankläger vom Gericht mit Beschluss aufzufordern, binnen angemessen festzusetzender Frist die Anklageschrift oder einen selbstständigen Antrag auf Erlassung vermögensrechtlicher Anordnungen nach § 445 einzubringen (§ 71 Abs. 6).

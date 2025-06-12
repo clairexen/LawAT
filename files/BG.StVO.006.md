@@ -1,9 +1,11 @@
-# BG.StVO.006
+# BG.StVO.006 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.006.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StVO.005](BG.StVO.005.md))*
@@ -88,7 +90,7 @@ Dieses Zeichen kann an Stelle des Zeichens nach Z 3 und nach Maßgabe der Besti
 **4. „KREUZUNG MIT STRASSE OHNE VORRANG“**  
 ![BG.StVO.obj.BN.NOR40081328.image008.png](BG.StVO.obj.BN.NOR40081328.image008.png "~/Dokumente/Bundesnormen/NOR40081328/image008.png")  
 Dieses Zeichen zeigt eine Kreuzung mit einer Straße ohne Vorrang an und bedeutet, dass das in der Richtung des starken Striches fahrende Fahrzeug den Vorrang hat (§ 19).  
-(Anm.: 5 aufgehoben durch Art I Z 55 BG, BGBl. Nr. 412/1976.)
+*(Anm.: 5 aufgehoben durch Art I Z 55 BG, BGBl. Nr. 412/1976.)*
 
 **6a. „BAHNÜBERGANG MIT SCHRANKEN“**  
 ![BG.StVO.obj.BN.NOR40081328.image009.png](BG.StVO.obj.BN.NOR40081328.image009.png "~/Dokumente/Bundesnormen/NOR40081328/image009.png")  
@@ -109,7 +111,7 @@ Diese Zeichen kündigen Eisenbahnübergänge an und sind beiderseits der Straße
 ![BG.StVO.obj.BN.NOR40081328.image017.png](BG.StVO.obj.BN.NOR40081328.image017.png "~/Dokumente/Bundesnormen/NOR40081328/image017.png")  
 ![BG.StVO.obj.BN.NOR40081328.image018.png](BG.StVO.obj.BN.NOR40081328.image018.png "~/Dokumente/Bundesnormen/NOR40081328/image018.png")  
 Dieses Zeichen zeigt einen Bahnübergang an. Näheres über die Anbringung dieses Zeichens und über das Verhalten der Straßenbenützer bei einem solchen Zeichen ergibt sich aus eisenbahnrechtlichen Vorschriften.  
-(Anm.: 6e aufgehoben durch Art I Z 34 BG, BGBl. Nr. 204/1964)
+*(Anm.: 6e aufgehoben durch Art I Z 34 BG, BGBl. Nr. 204/1964)*
 
 **7. „GEFÄHRLICHES GEFÄLLE“**  
 ![BG.StVO.obj.BN.NOR40081328.image019.png](BG.StVO.obj.BN.NOR40081328.image019.png "~/Dokumente/Bundesnormen/NOR40081328/image019.png")  
@@ -292,7 +294,7 @@ Dieses Zeichen zeigt an, dass das Fahren mit Lastkraftfahrzeugen mit Anhänger v
 **7c. „FAHRVERBOT FÜR FUHRWERKE“**  
 ![BG.StVO.obj.BN.NOR40261453.H.img19is.png](BG.StVO.obj.BN.NOR40261453.H.img19is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img19is.png")  
 Dieses Zeichen zeigt an, dass die Einfahrt für Fuhrwerke (§ 2 Abs. 1 Z 21) verboten ist.  
-7d. entfällt
+7d. *entfällt*
 
 **7e. „FAHRVERBOT FÜR KRAFTFAHRZEUGE MIT GEFÄHRLICHEN GÜTERN“**  
 ![BG.StVO.obj.BN.NOR40261453.H.img20is.png](BG.StVO.obj.BN.NOR40261453.H.img20is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img20is.png")  
@@ -433,12 +435,12 @@ Diese Zeichen zeigen einen Geh- und Radweg an, und zwar ein Zeichen nach a) eine
 **17b. „REITWEG“**  
 ![BG.StVO.obj.BN.NOR40261453.H.img52is.png](BG.StVO.obj.BN.NOR40261453.H.img52is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img52is.png")  
 Dieses Zeichen zeigt einen Reitweg an.  
-(Anm.: Z 18 aufgehoben durch BGBl. I Nr. 52/2024)
+*(Anm.: Z 18 aufgehoben durch BGBl. I Nr. 52/2024)*
 
 **19. „VORGESCHRIEBENE MINDESTGESCHWINDIGKEIT“**  
 ![BG.StVO.obj.BN.NOR40261453.H.img53is.png](BG.StVO.obj.BN.NOR40261453.H.img53is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img53is.png")  
 Dieses Zeichen zeigt an, dass die Lenker von Fahrzeugen unbeschadet der Bestimmungen des § 20 über die Fahrgeschwindigkeit ab dem Standort des Zeichens nicht langsamer fahren dürfen, als mit der im Zeichen angegebenen Anzahl von Kilometern pro Stunde.  
-(Anm.: 20 aufgehoben durch BGBl. Nr. 518/1994)
+*(Anm.: 20 aufgehoben durch BGBl. Nr. 518/1994)*
 
 **21. „UMKEHRGEBOT“**  
 ![BG.StVO.obj.BN.NOR40261453.H.img54is.png](BG.StVO.obj.BN.NOR40261453.H.img54is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img54is.png")  
@@ -719,7 +721,7 @@ Dieses Zeichen zeigt den Verlauf eines internationalen Hauptverkehrsweges an. Ei
 **19. „STRASSE MIT VORRANG“**  
 ![BG.StVO.obj.BN.NOR40261454.H.img65is.png](BG.StVO.obj.BN.NOR40261454.H.img65is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img65is.png")  
 Dieses Zeichen zeigt die Nummer (§ 43 Abs. 5) einer Vorrangstraße an.  
-(Anm.: 20 aufgehoben durch BGBl. I Nr. 50/2002)
+*(Anm.: 20 aufgehoben durch BGBl. I Nr. 50/2002)*
 
 **21. „STRASSE OHNE VORRANG“**  
 ![BG.StVO.obj.BN.NOR40261454.H.img66is.png](BG.StVO.obj.BN.NOR40261454.H.img66is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img66is.png")  

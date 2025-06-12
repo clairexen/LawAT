@@ -1,9 +1,11 @@
-# BG.StGB.005
+# BG.StGB.005 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.005.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StGB.004](BG.StGB.004.md))*
@@ -164,7 +166,7 @@ Wer eine gefährliche Drohung begeht, indem er mit dem Tod, mit einer erhebliche
 
 `§ 107 (3) StGB.`  
 In den im § 106 Abs. 2 genannten Fällen ist die dort vorgesehene Strafe zu verhängen.
-(Anm.:Abs. 4 aufgehoben durch BGBl. I Nr. 56/2006)
+*(Anm.:Abs. 4 aufgehoben durch BGBl. I Nr. 56/2006)*
 
 ### § 107a StGB # Beharrliche Verfolgung
 

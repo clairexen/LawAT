@@ -1,9 +1,11 @@
-# BG.ABGB TOC
+# BG.ABGB.TOC — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ABGB  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.toc.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Inhaltsverzeichnis
@@ -1787,4 +1789,4 @@
 **Fünftes Hauptstück**  
 * [§ 1503 ABGB # Inkrafttreten und Übergangsbestimmungen ab 1. Februar 2013](BG.ABGB.029.md#-1503-abgb--inkrafttreten-und-übergangsbestimmungen-ab-1-februar-2013)
 
-`END-OF-TOC`
+`END-OF-TOC` *(fortges. in [BG.ABGB.001](BG.ABGB.001.md))*

@@ -1,9 +1,11 @@
-# BG.ABGB.004
+# BG.ABGB.004 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ABGB  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.004.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ABGB.003](BG.ABGB.003.md))*
@@ -224,7 +226,7 @@ Mit dem Eintritt der Rechtskraft des Aufhebungsbeschlusses erlöschen die durch 
 
 `§ 202 (2) ABGB.`  
 Mit diesem Zeitpunkt leben die familienrechtlichen Beziehungen zwischen den leiblichen Eltern und deren Verwandten einerseits und dem Wahlkind und dessen Nachkommen andererseits, soweit sie nach dem § 197 erloschen sind, wieder auf.
-(Anm.: Abs. 3 aufgehoben durch Art. 1 Z 34, BGBl. I Nr. 59/2017)
+*(Anm.: Abs. 3 aufgehoben durch Art. 1 Z 34, BGBl. I Nr. 59/2017)*
 
 ### § 203 ABGB
 

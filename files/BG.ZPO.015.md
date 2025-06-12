@@ -1,9 +1,11 @@
-# BG.ZPO.015
+# BG.ZPO.015 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.015.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.014](BG.ZPO.014.md))*
@@ -171,7 +173,7 @@ Die im zweiten Teil enthaltenen Vorschriften über die Verpflichtung des Beklagt
 
 `§ 440 (3) ZPO.`  
 Sind die Parteien durch Rechtsanwälte vertreten, so kann ihnen der Wechsel vorbereitender Schriftsätze aufgetragen werden.
-(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 76/2002)
+*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 76/2002)*
 
 `§ 440 (5) ZPO.`  
 Der Auftrag zur schriftlichen Feststellung von Anträgen und Erklärungen (§. 265) kann vom Richter nur denjenigen Parteien ertheilt werden, welche bei der mündlichen Verhandlung durch Rechtsanwälte vertreten sind.
@@ -239,7 +241,7 @@ Auf Grund des in der Klage gestellten Begehrens, im Sinne der §§. 340 bis 342�
 
 `§ 457 (1) ZPO.`  
 Die Verhandlung ist auf die Erörterung und den Beweis der Thatsache des letzten Besitzstandes und der erfolgten Störung zu beschränken, und es sind alle Erörterungen über das Recht zum Besitze, über Titel, Redlichkeit und Unredlichkeit des Besitzes oder über etwaige Entschädigungsansprüche auszuschließen.
-(Anm.: Abs. 2 aufgehoben durch Art. IV Z 76, BGBl. Nr. 135/1986)
+*(Anm.: Abs. 2 aufgehoben durch Art. IV Z 76, BGBl. Nr. 135/1986)*
 
 ### § 458 ZPO
 Der Richter kann während der Verhandlung die Anwendung einer oder mehrerer der im Gesetze über das Executions- und Sicherungsverfahren zugelassenen einstweiligen Vorkehrungen anordnen, sofern dies zur Abwendung der dringenden Gefahr widerrechtlicher Beschädigung, zur Verhütung von Gewaltthätigkeiten oder zur Hintanhaltung eines unwiederbringlichen Schadens nöthig erscheint. Die Erlassung einer derartigen Verfügung kann von der Leistung einer angemessenen Sicherstellung abhängig gemacht werden.

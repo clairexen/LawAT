@@ -1,9 +1,11 @@
-# BG.StVO.009
+# BG.StVO.009 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.009.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StVO.008](BG.StVO.008.md))*
@@ -305,7 +307,7 @@ Ein Anspruch auf Entschädigung für die Ausästung oder Beseitigung (Abs. 1) b
 
 `§ 91 (3) StVO.`  
 An Einfriedungen, die von einer Straße nicht mehr als zwei Meter entfernt sind, dürfen spitze Gegenstände, wie Stacheldraht und Glasscherben, nur in einer Höhe von mehr als zwei Metern über der Straße und nur so angebracht werden, daß eine Gefährdung der Straßenbenützer nicht möglich ist.
-(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 93/2009)
+*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 93/2009)*
 
 `§ 91 (5) StVO.`  
 Frisch gestrichene Gegenstände auf oder an der Straße müssen, solange sie abfärben, auffallend kenntlich gemacht werden.

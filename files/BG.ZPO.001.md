@@ -1,9 +1,11 @@
-# BG.ZPO.001
+# BG.ZPO.001 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.001.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Inhaltsverzeichnis: [BG.ZPO.toc](BG.ZPO.toc.md))*
@@ -142,7 +144,7 @@ Die Nebenintervention kann in jeder Lage des Rechtsstreites bis zu dessen rechts
 
 `§ 18 (3) ZPO.`  
 Solange dem Zurückweisungsantrage nicht rechtskräftig stattgegeben ist, muss der Intervenient dem Hauptverfahren zugezogen werden und können Processhandlungen desselben nicht ausgeschlossen werden.
-(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 30/2009)
+*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 30/2009)*
 
 ### § 19 ZPO
 

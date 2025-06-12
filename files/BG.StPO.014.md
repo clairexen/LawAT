@@ -1,9 +1,11 @@
-# BG.StPO.014
+# BG.StPO.014 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.014.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.013](BG.StPO.013.md))*
@@ -227,7 +229,7 @@ Richter und Staatsanwälte des Dienststandes, Richteramtsanwärter und Rechtspra
 
 `§ 230a StPO.`  
 Soweit die Öffentlichkeit einer Verhandlung ausgeschlossen worden ist, ist es untersagt, Mitteilungen daraus zu veröffentlichen. Auch kann das Gericht den anwesenden Personen die Geheimhaltung der Tatsachen zur Pflicht machen, die durch die Verhandlung zu ihrer Kenntnis gelangen. Dieser Beschluß ist im Verhandlungsprotokoll zu beurkunden.
-(BGBl. Nr. 423/1974, Art. I Z. 70)
+*(BGBl. Nr. 423/1974, Art. I Z. 70)*
 
 ## 2. Amtsverrichtungen des Vorsitzenden und des Schöffengerichts während der Hauptverhandlung
 
@@ -291,7 +293,7 @@ Die auf Grund der §§ 233 bis 235 und 236 Abs. 1 und 2 ergehenden Beschlüsse
 Eine in den vorstehenden Bestimmungen vorgesehene Ordnungsstrafe ist nicht zu verhängen, soweit das Verhalten den Tatbestand einer gerichtlich strafbaren Handlung erfüllt (§§ 278 und 279), es sei denn, dass einer der in § 71 Abs. 2 zweiter Satz oder § 92 Abs. 1 zweiter Satz erwähnten Umstände eintritt.
 
 `§ 237 (3) StPO.`  
-(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+*(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*
 
 ### § 238 StPO
 

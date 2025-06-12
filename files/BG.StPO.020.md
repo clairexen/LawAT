@@ -1,9 +1,11 @@
-# BG.StPO.020
+# BG.StPO.020 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.020.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.019](BG.StPO.019.md))*
@@ -170,7 +172,7 @@ die versäumte schriftliche Verfahrenshandlung zugleich mit dem Antrag nachholen
 `§ 364 (2) StPO.`  
 Über die Wiedereinsetzung entscheidet:  
 `§ 364 (2) Z 1 StPO.`
-(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)  
+*(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*  
 `§ 364 (2) Z 2 StPO.`
 im Falle des Einspruchs gegen das Abwesenheitsurteil eines Bezirksgerichts das Bezirksgericht;  
 `§ 364 (2) Z 3 StPO.`
@@ -183,7 +185,7 @@ Der Antrag ist bei dem Gericht einzubringen, bei dem die Verfahrenshandlung vers
 Dem Antrag kommt aufschiebende Wirkung nicht zu; das Gericht, bei dem der Antrag einzubringen ist, kann aber die Vollstreckung hemmen, sofern dies nach den Umständen des Falles angemessen erscheint. Wird die Wiedereinsetzung bewilligt, so sind die Folgen des Versäumnisses zu beseitigen und das Verfahren fortzusetzen.
 
 `§ 364 (5) StPO.`  
-(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+*(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*
 
 `§ 364 (6) StPO.`  
 Gegen die Versäumung der Frist für einen Wiedereinsetzungsantrag (Abs. 1 Z 2) ist eine Wiedereinsetzung in den vorigen Stand nicht zulässig.

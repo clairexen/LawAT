@@ -1,9 +1,11 @@
-# BG.ZPO.008
+# BG.ZPO.008 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.008.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.007](BG.ZPO.007.md))*
@@ -195,12 +197,12 @@ Der Bundesminister für Justiz wird ermächtigt, zur Ermöglichung einer zweckm�
 
 `§ 251 ZPO.`  
 Für das Mahnverfahren, das mit Hilfe automationsunterstützter Datenverarbeitung durchgeführt wird, gelten folgende Besonderheiten:
-(Anm.: Z 1 aufgehoben durch Art. 2 Z 21, BGBl. I Nr. 61/2022)  
+*(Anm.: Z 1 aufgehoben durch Art. 2 Z 21, BGBl. I Nr. 61/2022)*  
 `§ 251 Z 2 ZPO.`
 An die Stelle der Zustellung der Klage tritt die Zustellung des Zahlungsbefehls, wenn dieser den Klagsinhalt vollständig wiedergibt oder ihm eine Abschrift der Klage sowie Abschriften ihrer Beilagen angeschlossen sind; das gilt sinngemäß für andere Anträge im Mahnverfahren und die hierüber ergehenden Beschlüsse.  
 `§ 251 Z 3 ZPO.`
 Ergeht ein Auftrag zur Verbesserung einer Eingabe (§ 84), weil sich der Kläger nicht des hiefür eingeführten Formblatts bedient hat, so ist diesem Auftrag das entsprechende Formblatt anzuschließen.
-(Anm.: Z 4 und 5 aufgehoben durch BGBl. I Nr. 128/2004)
+*(Anm.: Z 4 und 5 aufgehoben durch BGBl. I Nr. 128/2004)*
 
 ### § 252 ZPO # Europäisches Mahnverfahren
 
@@ -240,8 +242,8 @@ Die Parteien können einander in der Klage oder Klagebeantwortung noch nicht ent
 
 `§ 257 (4) ZPO.`  
 Gegen die in dieser Bestimmung vorgesehenen Anordnungen ist ein Rechtsmittel nicht zulässig.  
-(______________  
-Anm. 1: Es wird davon ausgegangen, dass diese seit der Stammfassung existierende Zwischenüberschrift nicht durch die Neufassung der §§ 257 und 258 „samt Überschriften“ (Art. II Z 40 der Zivilverfahrens-Novelle 2002, BGBl. I Nr. 76/2002) entfallen ist. Dies ist aber nicht unstrittig.)
+*(______________*  
+*Anm. 1: Es wird davon ausgegangen, dass diese seit der Stammfassung existierende Zwischenüberschrift nicht durch die Neufassung der §§ 257 und 258 „samt Überschriften“ (Art. II Z 40 der Zivilverfahrens-Novelle 2002, BGBl. I Nr. 76/2002) entfallen ist. Dies ist aber nicht unstrittig.)*
 
 ### § 258 ZPO # Vorbereitende Tagsatzung
 

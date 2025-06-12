@@ -1,12 +1,12 @@
-# BG.StGB TOC
+# BG.StGB.TOC — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.toc.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
-
-Der Nationalrat hat beschlossen:
 
 ## Inhaltsverzeichnis
 
@@ -563,4 +563,4 @@ Der Nationalrat hat beschlossen:
 * [§ 323 StGB # Übergangsbestimmungen](BG.StGB.014.md#-323-stgb--übergangsbestimmungen)
 * [§ 324 StGB # Vollzugsklausel](BG.StGB.014.md#-324-stgb--vollzugsklausel)
 
-`END-OF-TOC`
+`END-OF-TOC` *(fortges. in [BG.StGB.001](BG.StGB.001.md))*

@@ -1,9 +1,11 @@
-# BG.StPO TOC
+# BG.StPO.TOC — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.toc.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Inhaltsverzeichnis
@@ -954,4 +956,4 @@
 * [§ 516a StPO # Umsetzung von Richtlinien der Europäischen Union](BG.StPO.026.md#-516a-stpo--umsetzung-von-richtlinien-der-europäischen-union)
 * [§ 517 StPO # Vollziehung](BG.StPO.026.md#-517-stpo--vollziehung)
 
-`END-OF-TOC`
+`END-OF-TOC` *(fortges. in [BG.StPO.001](BG.StPO.001.md))*

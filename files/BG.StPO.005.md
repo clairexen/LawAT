@@ -1,9 +1,11 @@
-# BG.StPO.005
+# BG.StPO.005 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.005.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.004](BG.StPO.004.md))*
@@ -81,7 +83,7 @@ Nach sechzig Jahren ab den in Abs. 2 angeführten Zeitpunkten sind alle persone
 
 `§ 75 (4) StPO.`  
 Personenbezogene Daten, die ausschließlich auf Grund einer Identitätsfeststellung (§ 118), einer körperlichen Untersuchung (§ 123) oder einer molekulargenetischen Analyse (§ 124) gewonnen wurden, dürfen nur solange verarbeitet werden, als wegen der Art der Ausführung der Tat, der Persönlichkeit der betroffenen Person oder auf Grund anderer Umstände zu befürchten ist, dass diese Person eine strafbare Handlung mit nicht bloß leichten Folgen begehen werde. Wird der Angeklagte rechtskräftig freigesprochen oder das Ermittlungsverfahren ohne Vorbehalt späterer Verfolgung eingestellt, so sind diese personenbezogenen Daten zu löschen. Die §§ 73 und 74 SPG bleiben hievon unberührt.
-(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 71/2014)
+*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 71/2014)*
 
 ## 2. Abschnitt # Amts- und Rechtshilfe, Akteneinsicht
 

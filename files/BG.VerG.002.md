@@ -224,7 +224,7 @@ Vereinsstatuten der zu diesem Zeitpunkt bestehenden Vereine sind – soweit erfo
 Die Bestimmungen über die Rechnungslegung (§ 21) und über die qualifizierte Rechnungslegung für große Vereine (§ 22) sind erstmalig auf Rechnungsjahre anzuwenden, die nach dem 31. Dezember 2002 beginnen. Die Rechtsfolgen der Größenmerkmale gemäß § 22 Abs. 1 und 2 treten ein, wenn diese Merkmale an den beiden dem 1. Jänner 2005 vorangehenden Abschlussstichtagen zutreffen; hat ein Verein ein vom Kalenderjahr abweichendes Rechnungsjahr (§ 21 Abs. 1 letzter Satz), entsprechend später.
 
 `§ 33 (5) VerG.`  
-§ 19 in der Fassung des Artikels 6 des Bundesgesetzes BGBl. I Nr. 10/2004 tritt mit 1. März 2004 in Kraft. Die §§ 18 Abs. 3 und 31 Z 4 lit. e in der Fassung des Artikels 6 des Bundesgesetzes BGBl. I Nr. 10/2004 treten drei Monate nach dem durch Verordnung des Bundesministers für Inneres gemäß § 19 Abs. 4 festzulegenden Zeitpunkt der Aufnahme des Echtbetriebes des Zentralen Vereinsregisters in Kraft (Anm. 1).
+§ 19 in der Fassung des Artikels 6 des Bundesgesetzes BGBl. I Nr. 10/2004 tritt mit 1. März 2004 in Kraft. Die §§ 18 Abs. 3 und 31 Z 4 lit. e in der Fassung des Artikels 6 des Bundesgesetzes BGBl. I Nr. 10/2004 treten drei Monate nach dem durch Verordnung des Bundesministers für Inneres gemäß § 19 Abs. 4 festzulegenden Zeitpunkt der Aufnahme des Echtbetriebes des Zentralen Vereinsregisters in Kraft *(Anm. 1)*.
 
 `§ 33 (6) VerG.`  
 § 22 Abs. 1 und 2 und § 24 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 124/2005 treten mit 1. Jänner 2007 in Kraft.
@@ -257,14 +257,14 @@ Die Überschrift zum 3. Abschnitt samt Eintrag im Inhaltsverzeichnis, § 15 sa
 Das Inhaltsverzeichnis, § 11, § 15, § 17 Abs. 4, § 19a samt Überschrift und § 34 in der Fassung des Bundesgesetzes BGBl. I Nr. 211/2021 treten mit dem der Kundmachung folgenden Monatsersten in Kraft.
 
 `§ 33 (16) VerG.`  
-§ 19 Abs. 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 211/2021 tritt mit Ablauf des Tages der Kundmachung in Kraft und findet erst ab dem Zeitpunkt Anwendung, den der Bundesminister für Inneres gemäß § 24 Abs. 6 letzter Satz E-GovG im Bundesgesetzblatt kundmacht (Anm. 2). § 25 Abs. 3 erster Satz E-GovG gilt.
+§ 19 Abs. 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 211/2021 tritt mit Ablauf des Tages der Kundmachung in Kraft und findet erst ab dem Zeitpunkt Anwendung, den der Bundesminister für Inneres gemäß § 24 Abs. 6 letzter Satz E-GovG im Bundesgesetzblatt kundmacht *(Anm. 2)*. § 25 Abs. 3 erster Satz E-GovG gilt.
 
 `§ 33 (17) VerG.`  
 § 30a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 133/2024 tritt mit 1. Jänner 2025 in Kraft.
   
-(__________________  
-Anm. 1: gemäß § 17 Vereinsgesetz-Durchführungsverordnung, BGBl. II Nr. 60/2005: Echtbetrieb ab 1.1.2006  
-Anm. 2: gemäß BGBl. II Nr. 340/2023: 5.12.2023)
+*(__________________*  
+*Anm. 1: gemäß § 17 Vereinsgesetz-Durchführungsverordnung, BGBl. II Nr. 60/2005: Echtbetrieb ab 1.1.2006*  
+*Anm. 2: gemäß BGBl. II Nr. 340/2023: 5.12.2023)*
 
 ### § 34 VerG # Vollziehung
 

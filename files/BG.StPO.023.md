@@ -1,9 +1,11 @@
-# BG.StPO.023
+# BG.StPO.023 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.023.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.022](BG.StPO.022.md))*
@@ -144,7 +146,7 @@ Ist der Richter der Überzeugung, daß die dem Antrag zugrunde liegende Tat vom 
 Wird dem Richter zugleich der Angeklagte vorgeführt und gesteht er die ihm zur Last gelegte Tat oder erscheinen der Ankläger und der Angeklagte zugleich vor dem Richter, und sind alle Beweismittel für die Anklage und Verteidigung zur Hand, so kann der Richter mit Zustimmung des Angeklagten sogleich die Verhandlung vornehmen (§ 456) und das Urteil fällen.
 
 `§ 451 (4) StPO.`  
-(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+*(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*
 
 ### § 455 StPO
 
@@ -248,7 +250,7 @@ Wegen Nichtigkeit kann die Berufung gegen Urteile der Bezirksgerichte, sofern si
 `§ 468 (1) Z 1 StPO.`
 wenn das Bezirksgericht örtlich unzuständig oder nicht gehörig besetzt war oder wenn ein gesetzlich ausgeschlossener Richter (§§ 43 und 46) das Urteil gefällt hat;  
 `§ 468 (1) Z 2 StPO.`
-wenn das Bezirksgericht nicht zuständig war, weil die Tat, über die es geurteilt hat, in die Zuständigkeit des Landesgerichts (Anm. 1) fällt;  
+wenn das Bezirksgericht nicht zuständig war, weil die Tat, über die es geurteilt hat, in die Zuständigkeit des Landesgerichts *(Anm. 1)* fällt;  
 `§ 468 (1) Z 2a StPO.`
 wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren in der Hauptverhandlung verlesen wurde;  
 `§ 468 (1) Z 3 StPO.`
@@ -258,8 +260,8 @@ aus den im § 281 Abs. 1 Z. 6 bis 11 angegebenen Gründen.
 
 `§ 468 (2) StPO.`  
 Die unter Abs. 1 Z. 1 und 3 erwähnten Nichtigkeitsgründe können nur unter den in den §§ 281 und 282 Abs. 2 bezeichneten Bedingungen geltend gemacht werden; doch wird auch der Ankläger der Geltendmachung eines Nichtigkeitsgrundes deshalb nicht verlustig, weil er hinsichtlich eines Formgebrechens die Entscheidung des Richters nicht begehrt und sich die Beschwerde nicht sofort nach Verweigerung oder Verkündung der Entscheidung vorbehalten hat.  
-(________  
-Anm. 1: Art. I Z 198 lit. b der Novelle BGBl. I Nr. 93/2007 lautet: „Im Abs. 1 Z 2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt.“. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“.)
+*(________*  
+*Anm. 1: Art. I Z 198 lit. b der Novelle BGBl. I Nr. 93/2007 lautet: „Im Abs. 1 Z 2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt.“. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“.)*
 
 
 ### § 469 StPO
@@ -282,8 +284,8 @@ wenn schon vor der öffentlichen Verhandlung über die Berufung feststeht, daß 
 
 `§ 471 StPO.`  
 Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhandlung sowie für die Entscheidung über die Berufung gelten §§ 233 bis 237, 286 Abs. 1 und 1a (Anm. 1), 287, 288 Abs. 2 Z 3 erster Satz, 289, 290, 293 Abs. 4, 294, 295 sowie 296a sinngemäß, soweit im Folgenden nicht anderes bestimmt wird.  
-(___________  
-Anm. 1: Art. 1 Z 75 der Novelle BGBl. I Nr. 157/2024 lautet: „In § 471 wird das Zitat „§ 286 Abs. 1 und 1a“ durch das Zitat „§ 286 Abs. 1 und 2 zweiter Satz“ ersetzt“.“. Die Anweisung konnte nicht durchgeführt werden.)
+*(___________*  
+*Anm. 1: Art. 1 Z 75 der Novelle BGBl. I Nr. 157/2024 lautet: „In § 471 wird das Zitat „§ 286 Abs. 1 und 1a“ durch das Zitat „§ 286 Abs. 1 und 2 zweiter Satz“ ersetzt“.“. Die Anweisung konnte nicht durchgeführt werden.)*
 
 ### § 473 StPO
 

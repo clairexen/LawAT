@@ -1,9 +1,11 @@
-# BG.ZPO.007
+# BG.ZPO.007 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.007.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.006](BG.ZPO.006.md))*
@@ -170,7 +172,7 @@ Die Parteien können in sämtliche ihre Rechtssache betreffenden, bei Gericht be
 
 `§ 219 (2) ZPO.`  
 Mit Zustimmung beider Parteien können auch dritte Personen in gleicher Weise Einsicht nehmen und auf ihre Kosten Abschriften (Kopien) und Auszüge (Ausdrucke) erhalten, soweit dem nicht überwiegende berechtigte Interessen eines anderen oder überwiegende öffentliche Interessen im Sinne des Art. 23 Abs. 1 DSGVO entgegenstehen. Fehlt eine solche Zustimmung, so steht einem Dritten die Einsicht und Abschriftnahme überdies nur insoweit zu, als er ein rechtliches Interesse glaubhaft macht.
-(Anm.: Abs. 3 aufgehoben durch Art. 2 Z 18, BGBl. I Nr. 61/2022)
+*(Anm.: Abs. 3 aufgehoben durch Art. 2 Z 18, BGBl. I Nr. 61/2022)*
 
 `§ 219 (4) ZPO.`  
 Zum Zweck der nicht personenbezogenen Auswertung für die Statistik, für wissenschaftliche Arbeiten oder für vergleichbare, im öffentlichen Interesse liegende Untersuchungen können das Bundesministerium für Justiz und die Vorsteher der Gerichte auf Ersuchen des Leiters einer anerkannten wissenschaftlichen Einrichtung die Einsicht in Akten, die Herstellung von Abschriften (Ablichtungen) und die Übermittlung von Daten aus solchen bewilligen. Die so erlangten Daten dürfen nicht für andere Zwecke verwendet werden.
@@ -184,7 +186,7 @@ Eine Ordnungsstrafe darf den Betrag von 2 000 Euro, eine Mutwillensstrafe den 
 
 `§ 220 (2) ZPO.`  
 Die nach den Bestimmungen dieses Gesetzes gegen eine Person verhängten Geldstrafen fließen dem Bund zu.
-(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 98/2001)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 98/2001)*
 
 `§ 220 (4) ZPO.`  
 Strafverfügungen sind von amtswegen zu vollziehen.
@@ -271,7 +273,7 @@ dass die zur Bewahrheitung thatsächlicher Behauptungen in der Klage namhaft gem
 
 `§ 229 (2) ZPO.`  
 Dem unter Z 2 erwähnten Antrage ist nur dann stattzugeben, wenn sich die Partei die betreffenden Urkunden, Auskunftssachen oder Augenscheinsgegenstände nach den bestehenden gesetzlichen Vorschriften ohne Mitwirkung des Gerichtes nicht zu verschaffen vermag, oder wenn ihr deren Ausfolgung von der Behörde oder dem Notar in ungerechtfertigter Weise verweigert wurde.
-(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 76/2002)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 76/2002)*
 
 ### § 230 ZPO
 

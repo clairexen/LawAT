@@ -2,6 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AVG  
 **Langtitel:** Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.toc.md  

@@ -1,9 +1,11 @@
-# BG.StPO.018
+# BG.StPO.018 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.018.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.017](BG.StPO.017.md))*
@@ -182,7 +184,7 @@ Treffen in der dem Angeklagten in der Anklage zur Last gelegten Tat die Merkmale
 
 `§ 313 StPO.`  
 Sind in der Hauptverhandlung Tatsachen vorgebracht worden, die – wenn sie als erwiesen angenommen werden – die Strafbarkeit ausschließen oder aufheben würden, so ist eine entsprechende Frage nach dem Strafausschließungs- oder Strafaufhebungsgrunde (Zusatzfrage) zu stellen.
-(BGBl. Nr. 423/1974, Art. I Z. 94)
+*(BGBl. Nr. 423/1974, Art. I Z. 94)*
 
 ### § 314 StPO
 

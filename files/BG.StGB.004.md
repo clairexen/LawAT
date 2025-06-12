@@ -1,9 +1,11 @@
-# BG.StGB.004
+# BG.StGB.004 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.004.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StGB.003](BG.StGB.003.md))*
@@ -61,14 +63,14 @@ Sofern das Gesetz nicht ausdrücklich auf die Verurteilung durch ein inländisch
 Im Sinn dieses Bundesgesetzes ist  
 `§ 74 (1) Z 1 StGB.`
 unmündig: wer das vierzehnte Lebensjahr noch nicht vollendet hat;  
-(Anm.: Z 2 aufgehoben durch BGBl. I Nr. 19/2001)  
+*(Anm.: Z 2 aufgehoben durch BGBl. I Nr. 19/2001)*  
 `§ 74 (1) Z 3 StGB.`
 minderjährig: wer das achtzehnte Lebensjahr noch nicht vollendet hat;  
 `§ 74 (1) Z 4 StGB.`
 Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;  
 `§ 74 (1) Z 4a StGB.`
 Amtsträger: jeder, der  
-(Anm.: lit. a aufgehoben durch BGBl. I Nr. 61/2012)  
+*(Anm.: lit. a aufgehoben durch BGBl. I Nr. 61/2012)*  
 `§ 74 (1) Z 4a lit. b StGB.`
 für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere Person des öffentlichen Rechts, ausgenommen eine Kirche oder Religionsgesellschaft, für einen anderen Staat oder für eine internationale Organisation Aufgaben der Gesetzgebung, Verwaltung oder Justiz als deren Organ oder Dienstnehmer wahrnimmt, Unionsbeamter (Z 4b) ist oder - für die Zwecke der §§ 168g, 304, 305, 307 und 307a - der öffentliche Aufgaben im Zusammenhang mit der Verwaltung der oder Entscheidungen über die finanziellen Interessen der Europäischen Union in Mitgliedstaaten oder Drittstaaten übertragen bekommen hat und diese Aufgaben wahrnimmt,  
 `§ 74 (1) Z 4a lit. c StGB.`

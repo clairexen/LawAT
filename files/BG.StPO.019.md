@@ -1,9 +1,11 @@
-# BG.StPO.019
+# BG.StPO.019 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.019.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.018](BG.StPO.018.md))*
@@ -250,7 +252,7 @@ Der Ausspruch über die Strafe kann in den im § 283 angeführten Fällen mit B
 
 `§ 348 StPO.`  
 Für den Gerichtstag beim Obersten Gerichtshof ist dem Angeklagten, wenn er keinen Verteidiger hat, ohne Rücksicht auf Art und Höhe der für die strafbare Handlung, die dem Angeklagten in der Anklageschrift oder im Urteil erster Instanz zur Last gelegt wird, angedrohten Strafe, ein Rechtsanwalt als Verteidiger beizugeben (§ 286 Abs. 4).
-(BGBl. Nr. 569/1973, Art. III Z. 7)
+*(BGBl. Nr. 569/1973, Art. III Z. 7)*
 
 ### § 349 StPO
 

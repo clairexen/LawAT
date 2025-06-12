@@ -1,9 +1,11 @@
-# BG.StPO.012
+# BG.StPO.012 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.012.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.011](BG.StPO.011.md))*
@@ -90,7 +92,7 @@ Angehaltene Beschuldigte sind zur Arbeit nicht verpflichtet. Ein arbeitsfähiger
 Die Arbeitsvergütung ist dem Beschuldigten nach Abzug des Vollzugskostenbeitrages (§ 32 Abs. 2 und 3 StVG) zur Gänze als Hausgeld gutzuschreiben. Im Fall eines Freispruchs, des Rücktritts von Verfolgung oder einer Einstellung des Strafverfahrens ist ihm der einbehaltene Vollzugskostenbeitrag auszuzahlen.
 
 `§ 187 (3) StPO.`  
-(Anm.: aufgehoben durch BGBl. I Nr. 111/2010)
+*(Anm.: aufgehoben durch BGBl. I Nr. 111/2010)*
 
 `§ 187 (4) StPO.`  
 Angehaltene Beschuldigte dürfen sich auf ihre Kosten selbst beschäftigen, soweit dies mit dem Haftzweck vereinbar ist und die Ordnung in der Anstalt nicht stört. Aus dieser Beschäftigung erzielte Einkünfte sind dem Hausgeld gutzuschreiben.

@@ -1,9 +1,11 @@
-# BG.StGB.012
+# BG.StGB.012 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.012.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StGB.011](BG.StGB.011.md))*
@@ -188,7 +190,7 @@ Wer ausschließlich nach § 74 Abs. 1 Z 4a lit. b letzte Alternative Amtstr�
 
 `§ 305 (1) StGB.`  
 Ein Amtsträger oder Schiedsrichter, der für die pflichtgemäße Vornahme oder Unterlassung eines Amtsgeschäfts für sich oder einen Dritten einen Vorteil fordert oder einen ungebührlichen Vorteil (Abs. 4) annimmt oder sich versprechen lässt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-(Anm.: Abs. 2 aufgehoben durch BGBl. I Nr. 61/2012)
+*(Anm.: Abs. 2 aufgehoben durch BGBl. I Nr. 61/2012)*
 
 `§ 305 (3) StGB.`  
 Wer die Tat in Bezug auf einen 3.000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wer jedoch die Tat in Bezug auf einen 50.000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. Übersteigt der Wert des Vorteils 300 000 Euro, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
@@ -281,7 +283,7 @@ Wer die Tat in Bezug auf einen 3 000 Euro übersteigenden Vorteil begeht, ist 
 
 `§ 310 (1) StGB.`  
 Ein Beamter oder ehemaliger Beamter, der ein ihm ausschließlich kraft seines Amtes anvertrautes oder zugänglich gewordenes Geheimnis offenbart oder verwertet, dessen Offenbarung oder Verwertung geeignet ist, ein öffentliches oder ein berechtigtes privates Interesse zu verletzen, ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-(Anm.: Abs. 2 aufgehoben durch BGBl. I Nr. 101/2014)
+*(Anm.: Abs. 2 aufgehoben durch BGBl. I Nr. 101/2014)*
 
 `§ 310 (2a) StGB.`  
 Ebenso ist zu bestrafen, wer - sei es auch nach seinem Ausscheiden aus dem Amt oder Dienstverhältnis - als Organwalter oder Bediensteter des Europäischen Polizeiamtes (Europol), als Verbindungsbeamter oder als zur Geheimhaltung besonders Verpflichteter (Art. 32 Abs. 2 des Europol-Übereinkommens, BGBl. III Nr. 123/1998) eine Tatsache oder Angelegenheit offenbart oder verwertet, die ihm ausschließlich kraft seines Amtes oder seiner Tätigkeit zugänglich geworden ist und deren Offenbarung oder Verwertung geeignet ist, ein öffentliches oder ein berechtigtes privates Interesse zu verletzen.

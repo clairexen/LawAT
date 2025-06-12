@@ -1,9 +1,11 @@
-# BG.StPO.017
+# BG.StPO.017 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.017.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.016](BG.StPO.016.md))*
@@ -68,7 +70,7 @@ Der Oberste Gerichtshof entscheidet über die Beschwerde in nichtöffentlicher S
 
 `§ 285b (5) StPO.`  
 Gibt der Oberste Gerichtshof der Beschwerde Folge, so läuft im Falle des § 285a Z. 1 die Frist zur Ausführung der Nichtigkeitsbeschwerde, sofern diese nicht schon erstattet ist, vom Tage der Bekanntmachung der Entscheidung des Obersten Gerichtshofes; dem Beschwerdeführer ist gleichzeitig mit dieser Bekanntmachung, wenn es nicht bereits geschehen ist, eine Ausfertigung des Urteiles zuzustellen; im übrigen ist nach § 285 vorzugehen.
-(Anm.: Abs. 6 aufgehoben durch BGBl. Nr. 605/1987)
+*(Anm.: Abs. 6 aufgehoben durch BGBl. Nr. 605/1987)*
 
 ### § 285c StPO
 
@@ -124,11 +126,11 @@ Im Fall einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs.
 
 `§ 286 (1) StPO.`  
 Vom Termin des Gerichtstags zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde sind die Beteiligten des Verfahrens zu verständigen. Der Angeklagte, sein Verteidiger sowie der allenfalls einschreitende Privatbeteiligte oder Privatankläger sind so rechtzeitig zu laden, dass ihnen eine Vorbereitungszeit von acht Tagen verbleibt. In der Ladung sind sie darauf aufmerksam zu machen, dass im Fall ihres Ausbleibens ihre Ausführungen und Beschwerden vorgetragen und der Entscheidung zu Grunde gelegt werden würden.
-(Anm.: Abs. 1a aufgehoben durch Art. 1 Z 66, BGBl. I Nr. 157/2024)
+*(Anm.: Abs. 1a aufgehoben durch Art. 1 Z 66, BGBl. I Nr. 157/2024)*
 
 `§ 286 (2) StPO.`  
 Ist der Angeklagte verhaftet, so ist dessen Vorführung zum Gerichtstag zu veranlassen, es sei denn, dieser hat durch seinen Verteidiger ausdrücklich darauf verzichtet. In den in § 174 Abs. 1 zweiter Satz geregelten Fällen kann gemäß § 153 Abs. 4 vorgegangen werden.
-(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)*
 
 `§ 286 (4) StPO.`  
 Hat er noch keinen Verteidiger, so ist ihm von Amts wegen ein Rechtsanwalt als Verteidiger beizugeben (§ 61 Abs. 3). Liegen die Voraussetzungen des § 61 Abs. 2 vor, so ist dem Angeklagten nach dieser Gesetzesstelle ein Rechtsanwalt als Verteidiger beizugeben.

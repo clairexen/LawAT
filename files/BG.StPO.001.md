@@ -1,9 +1,11 @@
-# BG.StPO.001
+# BG.StPO.001 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.001.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Inhaltsverzeichnis: [BG.StPO.toc](BG.StPO.toc.md))*
@@ -291,7 +293,7 @@ Ergibt sich keine Zuständigkeit nach den Abs. 1 bis 3, so hat die Generalproku
 
 `§ 25 (5) StPO.`  
 Die Zuständigkeit der Staatsanwaltschaft für das Hauptverfahren richtet sich nach der des Gerichts (§ 36).
-(Anm.: Abs. 6 aufgehoben durch BGBl. I Nr. 121/2016)
+*(Anm.: Abs. 6 aufgehoben durch BGBl. I Nr. 121/2016)*
 
 `§ 25 (7) StPO.`  
 Liegt der Ort, an dem die Straftat ausgeführt wurde oder ausgeführt werden sollte, in einem anderen Mitgliedstaat der Europäischen Union, so hat die Staatsanwaltschaft unverzüglich bei ihr einlangende Anzeigen eines Opfers mit Wohnsitz im Inland an die zuständige Behörde des anderen Mitgliedstaates weiterzuleiten, es sei denn, dass diese Straftat der inländischen Gerichtsbarkeit unterliegt. Von der Übermittlung kann abgesehen werden, wenn  

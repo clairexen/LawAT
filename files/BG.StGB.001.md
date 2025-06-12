@@ -1,9 +1,11 @@
-# BG.StGB.001
+# BG.StGB.001 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.001.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Inhaltsverzeichnis: [BG.StGB.toc](BG.StGB.toc.md))*
@@ -164,7 +166,7 @@ Der Tagessatz ist nach den persönlichen Verhältnissen und der wirtschaftlichen
 
 `§ 19 (3) StGB.`  
 Für den Fall der Uneinbringlichkeit der Geldstrafe ist eine Ersatzfreiheitsstrafe festzusetzen. Ein Tag Ersatzfreiheitsstrafe entspricht dabei zwei Tagessätzen.
-(Anm.: Abs. 4 aufgehoben durch BGBl. Nr. 762/1996)
+*(Anm.: Abs. 4 aufgehoben durch BGBl. Nr. 762/1996)*
 
 ### § 19a StGB # Konfiskation
 

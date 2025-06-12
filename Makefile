@@ -11,6 +11,7 @@ help:
 	@echo "Usage:"
 	@echo "  make venv ........ create Python .venv/"
 	@echo "  make zip ......... (re-)create RisExFiles.zip"
+	@echo "  make json ........ (re-)create RisExData.json"
 	@echo "  make purge ....... remove .venv and RisExFiles.zip"
 	@echo ""
 	@echo "Interactive ptpython shell (with RisEnQuery.py pre-loaded):"
@@ -43,7 +44,17 @@ json: RisExData.json
 RisExData.json: venv index.json files/*
 	.venv/bin/python3 mkjson.py
 
+define fetch_body
+files/$N.toc.md: venv index.json
+	./fetch.py $N
+
+endef
+
+NORM_LIST := $(shell jq -r 'keys[]' index.json)
+fetch: $(foreach N,$(NORM_LIST),files/$N.toc.md)
+$(eval $(foreach N,$(NORM_LIST),$(fetch_body)))
+
 purge:
 	rm -rf .venv RisExFiles.zip RisExData.json
 
-.PHONY: query help shell intro venv zip purge
+.PHONY: query help shell intro venv zip json fetch purge

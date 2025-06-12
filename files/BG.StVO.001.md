@@ -1,9 +1,11 @@
-# BG.StVO.001
+# BG.StVO.001 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.001.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Inhaltsverzeichnis: [BG.StVO.toc](BG.StVO.toc.md))*
@@ -215,7 +217,7 @@ Wer zum Zweck der Feststellung des Grades der Beeinträchtigung durch Alkohol zu
 
 `§ 5 (6) StVO.`  
 (Verfassungsbestimmung) An Personen, die gemäß Abs. 4a zu einem Arzt gebracht werden, ist eine Blutabnahme zum Zweck der Bestimmung des Blutalkoholgehaltes vorzunehmen; die Betroffenen haben diese Blutabnahme vornehmen zu lassen.
-(Anm.:Abs. 7 aufgehoben durch BGBl. I Nr. 92/1998)
+*(Anm.:Abs. 7 aufgehoben durch BGBl. I Nr. 92/1998)*
 
 `§ 5 (8) StVO.`  
 Ein bei einer öffentlichen Krankenanstalt diensthabender Arzt hat eine Blutabnahme zum Zweck der Bestimmung des Blutalkoholgehaltes vorzunehmen, wenn eine Person  

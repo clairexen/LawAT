@@ -1,9 +1,11 @@
-# BG.StPO.002
+# BG.StPO.002 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.002.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.001](BG.StPO.001.md))*
@@ -60,7 +62,7 @@ des Vergehens des grob fahrlässigen umweltgefährdenden Betreibens von Anlagen 
 des Vergehens der grob fahrlässigen Schädigung des Tier- oder Pflanzenbestandes (§ 181g StGB),  
 `§ 30 (1) Z 8b StPO.`
 des Vergehens der grob fahrlässigen Schädigung von Lebensräumen in geschützten Gebieten (§ 181i StGB)  
-(Anm.: Z 9 aufgehoben durch Art. 3 Z 1, BGBl. I Nr. 135/2023)  
+*(Anm.: Z 9 aufgehoben durch Art. 3 Z 1, BGBl. I Nr. 135/2023)*  
 `§ 30 (1) Z 9a StPO.`
 des Vergehens der staatsfeindlichen Bewegung (§ 247a Abs. 2 StGB),  
 `§ 30 (1) Z 9b StPO.`
@@ -85,7 +87,7 @@ das Verfahren zur Entscheidung über Anträge auf Beschlagnahme, Verwertung sich
 die Entscheidung über Einsprüche wegen behaupteter Verletzung eines subjektiven Rechts durch die Staatsanwaltschaft oder die Kriminalpolizei (§§ 106 und 107),  
 `§ 31 (1) Z 4 StPO.`
 die Entscheidung über Anträge auf Einstellung des Ermittlungsverfahrens (§ 108),  
-(Anm.: Z 5 aufgehoben durch Art. 1 Z 8, BGBl. I Nr. 157/2024)  
+*(Anm.: Z 5 aufgehoben durch Art. 1 Z 8, BGBl. I Nr. 157/2024)*  
 `§ 31 (1) Z 6 StPO.`
 das Verfahren zur Entscheidung über Anträge auf Anordnungen zur Ausforschung des Beschuldigten (§ 71 Abs. 1 zweiter Satz),  
 `§ 31 (1) Z 7 StPO.`
@@ -217,7 +219,7 @@ Dem Oberlandesgericht obliegt die Entscheidung
 `§ 33 (1) Z 2 StPO.`
 über Berufungen gegen Urteile des Landesgerichts als Geschworenen- oder Schöffengericht,  
 `§ 33 (1) Z 3 StPO.`
-(Anm.: aufgehoben durch BGBl. I Nr. 52/2009)  
+*(Anm.: aufgehoben durch BGBl. I Nr. 52/2009)*  
 `§ 33 (1) Z 4 StPO.`
 über den Einspruch gegen die Anklageschrift (§ 212),  
 `§ 33 (1) Z 5 StPO.`

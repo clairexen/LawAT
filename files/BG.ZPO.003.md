@@ -1,9 +1,11 @@
-# BG.ZPO.003
+# BG.ZPO.003 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.003.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.002](BG.ZPO.002.md))*
@@ -17,7 +19,7 @@ Verfahrenshilfe ist einer Partei so weit zur Gänze oder zum Teil zu bewilligen 
 
 `§ 63 (2) ZPO.`  
 Einer juristischen Person oder einem sonstigen parteifähigen Gebilde ist die Verfahrenshilfe zu bewilligen, wenn die zur Führung des Verfahrens erforderlichen Mittel weder von ihr (ihm) noch von den an der Führung des Verfahrens wirtschaftlich Beteiligten aufgebracht werden können und die beabsichtigte Rechtsverfolgung oder Rechtsverteidigung nicht als offenbar mutwillig oder aussichtslos erscheint; das gleiche gilt für ein behördlich bestelltes Organ oder einen gesetzlichen Vertreter, die für eine Vermögensmasse auftreten, wenn die zur Führung des Verfahrens erforderlichen Mittel weder aus der Vermögensmasse noch von den an der Führung des Verfahrens wirtschaftlich Beteiligten aufgebracht werden können.
-(Anm.: Abs. 3 aufgehoben durch BGBl. Nr. 135/1983)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. Nr. 135/1983)*
 
 `§ 63 (4) ZPO.`  
 Die Bestimmungen über die Verfahrenshilfe gelten auch für den Nebenintervenienten.

@@ -2,6 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AVG  
 **Langtitel:** Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.004.md  
@@ -71,7 +72,7 @@ In dem die Wiederaufnahme bewilligenden oder verfügenden Bescheid ist, sofern n
 
 `§ 70 (2) AVG.`  
 Frühere Erhebungen und Beweisaufnahmen, die durch die Wiederaufnahmsgründe nicht betroffen werden, sind keinesfalls zu wiederholen.
-(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 33/2013)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 33/2013)*
 
 ### § 71 AVG # Wiedereinsetzung in den vorigen Stand
 
@@ -110,7 +111,7 @@ Durch den Antrag auf Wiedereinsetzung gegen die Versäumung der mündlichen Verh
 
 `§ 72 (3) AVG.`  
 Hat eine Partei Wiedereinsetzung gegen die Versäumung der mündlichen Verhandlung beantragt und gegen den Bescheid Berufung eingelegt, so ist auf die Erledigung der Berufung erst einzugehen, wenn der Antrag auf Wiedereinsetzung abgewiesen worden ist.
-(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 33/2013)
+*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 33/2013)*
 
 ## 3. Abschnitt: Entscheidungspflicht
 
@@ -246,7 +247,7 @@ Mit der Vollziehung dieses Bundesgesetzes ist die Bundesregierung betraut.
 
 `§ 82 (4) AVG.`  
 § 63 Abs. 5 in der Fassung des Bundesgesetzes BGBl. Nr. 471/1995 gilt für Bescheide, die nach dem 30. Juni 1995 erlassen werden. § 67c Abs. 3 in der Fassung des Bundesgesetzes BGBl. Nr. 471/1995 gilt für Verwaltungsakte, die nach dem 30. Juni 1995 gesetzt werden.
-(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 137/2001)
+*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 137/2001)*
 
 `§ 82 (6) AVG.`  
 Die §§ 3 Z 3, 10 Abs. 1, 13 samt Überschrift, 14 samt Überschrift, 18 Abs. 3 und 4, 20, 34 Abs. 2, 35, 36 Abs. 2, 37 zweiter Satz, 39 Abs. 2 und 3, 41 Abs. 1, 42, 43, 44, 44a bis 44g samt Überschrift, 51a bis 51d samt Überschrift, 53a samt Überschrift, 53b samt Überschrift, 56, 59 Abs. 1 erster und zweiter Satz, 61 Abs. 1 zweiter Satz, 61a, 63 Abs. 2, 64a, 66 Abs. 1 und 2, 67a samt Überschrift, 67b samt Überschrift, der neu bezeichnete § 67c Abs. 3, § 67d samt Überschrift, die Überschrift zu § 67e, die Überschrift zu § 67f, die §§ 67g samt Überschrift, 69 Abs. 2, 71 Abs. 1 Z 2, 71 Abs. 6 zweiter Satz, 73, 76 Abs. 1 erster Satz und 76a in der Fassung des Bundesgesetzes BGBl. I Nr. 158/1998 treten mit 1. Jänner 1999 in Kraft. Die §§ 61 Abs. 5, 67c Abs. 3 und 5, 67f Abs. 3, 67h samt Überschrift sowie die Telekopie-Verordnung, BGBl. Nr. 110/1991, treten mit Ablauf des 31. Dezember 1998 außer Kraft.

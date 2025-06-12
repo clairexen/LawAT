@@ -2,6 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AVG  
 **Langtitel:** Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.001.md  
@@ -146,7 +147,7 @@ Anbringen können in jeder Lage des Verfahrens zurückgezogen werden.
 Der verfahrenseinleitende Antrag kann in jeder Lage des Verfahrens bis zu einer allfälligen Schließung des Ermittlungsverfahrens (§ 39 Abs. 3) geändert werden. Durch die Antragsänderung darf die Sache ihrem Wesen nach nicht geändert und die sachliche und örtliche Zuständigkeit nicht berührt werden.
 
 `§ 13 (9) AVG.`  
-(Anm.: aufgehoben durch BGBl. I Nr. 10/2004)
+*(Anm.: aufgehoben durch BGBl. I Nr. 10/2004)*
 
 ### § 13a AVG # Rechtsbelehrung
 
@@ -164,7 +165,7 @@ Jede Niederschrift hat außerdem zu enthalten:
 Ort, Zeit und Gegenstand der Amtshandlung und, wenn schon frühere darauf bezügliche Amtshandlungen vorliegen, erforderlichenfalls eine kurze Darstellung des Standes der Sache;  
 `§ 14 (2) Z 2 AVG.`
 die Bezeichnung der Behörde und die Namen des Leiters der Amtshandlung und der sonst mitwirkenden amtlichen Organe, der anwesenden Beteiligten und ihrer Vertreter sowie der etwa vernommenen Zeugen und Sachverständigen.  
-(Anm.: Z 3 aufgehoben durch BGBl. I Nr. 5/2008)
+*(Anm.: Z 3 aufgehoben durch BGBl. I Nr. 5/2008)*
 
 `§ 14 (3) AVG.`  
 Die Niederschrift ist den vernommenen oder sonst beigezogenen Personen, wenn sie nicht darauf verzichten, zur Durchsicht vorzulegen oder vorzulesen; wenn ein Schallträger verwendet (Abs. 7) oder die Niederschrift elektronisch erstellt wird, kann ihr Inhalt auch auf andere Weise wiedergegeben werden. Der Leiter der Amtshandlung kann auch ohne Verzicht von einer Wiedergabe absehen; die beigezogenen Personen können diesfalls bis zum Schluß der Amtshandlung die Zustellung einer Ausfertigung verlangen und binnen zwei Wochen ab Zustellung Einwendungen wegen behaupteter Unvollständigkeit oder Unrichtigkeit der Niederschrift erheben.
@@ -180,7 +181,7 @@ Den beigezogenen Personen ist auf Verlangen eine Ausfertigung der Niederschrift 
 
 `§ 14 (7) AVG.`  
 Die Niederschrift oder Teile davon können unter Verwendung eines Schallträgers oder in Kurzschrift aufgenommen werden. Die Angaben gemäß Abs. 2, die Feststellung, daß für die übrigen Teile der Niederschrift ein Schallträger verwendet wird, und die Tatsache der Verkündung eines mündlichen Bescheides sind in Vollschrift festzuhalten. Die Aufzeichnung und die in Kurzschrift aufgenommenen Teile der Niederschrift sind unverzüglich in Vollschrift zu übertragen. Die beigezogenen Personen können bis zum Schluß der Amtshandlung die Zustellung einer Ausfertigung der Übertragung verlangen und binnen zwei Wochen ab Zustellung Einwendungen wegen behaupteter Unvollständigkeit oder Unrichtigkeit der Übertragung erheben. Wird eine solche Zustellung beantragt, so darf die Aufzeichnung frühestens einen Monat nach Ablauf der Einwendungsfrist, ansonsten frühestens einen Monat nach erfolgter Übertragung gelöscht werden.
-(Anm.: Abs. 8 aufgehoben durch BGBl. I Nr. 10/2004)
+*(Anm.: Abs. 8 aufgehoben durch BGBl. I Nr. 10/2004)*
 
 ### § 15 AVG
 

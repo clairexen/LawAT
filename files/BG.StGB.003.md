@@ -1,9 +1,11 @@
-# BG.StGB.003
+# BG.StGB.003 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.003.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StGB.002](BG.StGB.002.md))*
@@ -181,7 +183,7 @@ die Tat gegen den Nationalrat, den Bundesrat, die Bundesversammlung, die Bundesr
 die Tat gegen ein Organ der Europäischen Union oder eine gemäß den Verträgen zur Gründung der Europäischen Gemeinschaften oder dem Vertrag über die Europäische Union geschaffene Einrichtung mit Sitz in der Republik Österreich begangen wurde oder  
 `§ 64 (1) Z 9 lit. f) StGB.`
 der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;  
-(Anm.: Z 10 aufgehoben durch Art. 1 Z 4, BGBl. I Nr. 70/2018)  
+*(Anm.: Z 10 aufgehoben durch Art. 1 Z 4, BGBl. I Nr. 70/2018)*  
 `§ 64 (1) Z 11 StGB.`
 Unvertretbare Darstellung wesentlicher Informationen über bestimmte Verbände (§ 163a) und Unvertretbare Berichte von Prüfern bestimmter Verbände (§ 163b), wenn die Hauptniederlassung oder der Sitz des Verbandes im Inland liegt.
 

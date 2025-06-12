@@ -1,9 +1,11 @@
-# BG.StPO.024
+# BG.StPO.024 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.024.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.023](BG.StPO.023.md))*
@@ -49,9 +51,7 @@ Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahr
 
 `§ 488 (3) StPO.`  
 Ist das Landesgericht als Einzelrichter der Ansicht, dass das Landesgericht als Schöffen- oder Geschworenengericht zuständig ist, so hat es, nachdem die Beteiligten des Verfahrens zu den geänderten Umständen angehört wurden, mit Urteil seine Unzuständigkeit auszusprechen. Sobald dieses Urteil rechtskräftig wurde, hat der Ankläger die zur Fortführung des Verfahrens erforderlichen Anträge zu stellen.
-
-`§ 488 (4) StPO.`  
-(Anm.: aufgehoben durch BGBl. I Nr. 52/2009)
+*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 52/2009)*
 
 ### § 489 StPO
 
@@ -179,7 +179,7 @@ Vor der Entscheidung hat das Gericht den Ankläger, den Angeklagten und den Bew�
 Die Entscheidungen nach Abs. 1 mit Ausnahme des Strafausspruches nach Z 3 erster Satz sowie der Vorbehalt nach Abs. 2 ergehen mit Beschluß. Der Beschluß ist gemeinsam mit dem Urteil zu verkünden und auszufertigen. Der Beschluß und sein Unterbleiben können mit Beschwerde angefochten werden.
 
 `§ 494a (5) StPO.`  
-(Anm.: aufgehoben durch BGBl. I Nr. 55/1999)
+*(Anm.: aufgehoben durch BGBl. I Nr. 55/1999)*
 
 `§ 494a (6) StPO.`  
 In einem Beschluß, mit dem vom Widerruf einer bedingten Nachsicht oder bedingten Entlassung abgesehen wird, kann das erkennende Gericht auch die Probezeit verlängern; zugleich mit einem Ausspruch nach Abs. 1 Z 1 oder 2 können auch Weisungen erteilt, die Bewährungshilfe angeordnet und familien- oder jugendwohlfahrtsrechtliche Verfügungen getroffen werden (§§ 53 Abs. 3, 54 Abs. 2 StGB, 15 Abs. 2 JGG).
@@ -226,7 +226,7 @@ Vor der Entscheidung ist der Ankläger zu hören und eine Strafregisterauskunft 
 ### § 498 StPO
 
 `§ 498 (1) StPO.`  
-(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+*(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*
 
 `§ 498 (2) StPO.`  
 Die Beschwerde steht zugunsten des Verurteilten diesem und allen anderen Personen zu, die zugunsten eines Angeklagten Nichtigkeitsbeschwerde erheben können, zum Nachteil des Verurteilten aber nur dem Ankläger. Im Fall der mündlichen Verkündung gilt § 86 Abs. 2 und 3 mit der Maßgabe, dass die Ausfertigung und Zustellung des Beschlusses auch unterbleiben können, wenn der Rechtsmittelwerber binnen drei Tagen nach mündlicher Verkündung des Beschlusses keine Beschwerde anmeldet. Bei mündlicher Verkündung und Anmeldung einer Beschwerde läuft die Frist zur Erstattung des Rechtsmittels ab Zustellung der schriftlichen Ausfertigung. Eine rechtzeitig erhobene Beschwerde hat aufschiebende Wirkung, es sei denn, dass sie gegen einen Beschluss gemäß § 496 gerichtet ist.

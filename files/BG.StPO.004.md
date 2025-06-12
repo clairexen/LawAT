@@ -1,9 +1,11 @@
-# BG.StPO.004
+# BG.StPO.004 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.004.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.003](BG.StPO.003.md))*
@@ -192,11 +194,11 @@ an einer kontradiktorischen Vernehmung von Zeugen und Beschuldigten (§ 165) un
 während der Hauptverhandlung anwesend zu sein und Angeklagte, Zeugen und Sachverständige zu befragen sowie zu ihren Ansprüchen gehört zu werden,  
 `§ 66 (1) Z 8 StPO.`
 die Fortführung eines durch die Staatsanwaltschaft eingestellten Verfahrens zu verlangen (§ 195 Abs. 1).
-(Anm.: Abs. 2 aufgehoben durch Art. 10 Z 5, BGBl. I Nr. 148/2020)
+*(Anm.: Abs. 2 aufgehoben durch Art. 10 Z 5, BGBl. I Nr. 148/2020)*
 
 `§ 66 (3) StPO.`  
 Übersetzungshilfe ist in sinngemäßer Anwendung der Bestimmungen des § 56 zu gewähren. Als wesentliche Aktenstücke, die auf Verlangen des Opfers zu übersetzen sind, gelten die schriftliche Bestätigung der Anzeige (§ 80 Abs. 1), die Verständigung von der Einstellung des Ermittlungsverfahrens und deren Begründung (§ 194 Abs. 2) sowie eine Ausfertigung des Urteils und der Strafverfügung (§ 491); bei der Prüfung der Erforderlichkeit tritt an Stelle der Erforderlichkeit zur Wahrung der Verteidigungsrechte jene zur Wahrung der Rechte und Interessen des Opfers (§ 10).
-(Anm.: Abs. 4 aufgehoben durch Art. 10 Z 5, BGBl. I Nr. 148/2020)
+*(Anm.: Abs. 4 aufgehoben durch Art. 10 Z 5, BGBl. I Nr. 148/2020)*
 
 ### § 66a StPO # Besondere Schutzbedürftigkeit von Opfern
 

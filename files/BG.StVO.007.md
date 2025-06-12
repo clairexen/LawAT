@@ -1,9 +1,11 @@
-# BG.StVO.007
+# BG.StVO.007 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.007.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StVO.006](BG.StVO.006.md))*
@@ -35,7 +37,7 @@ Bodenmarkierungen können dem jeweiligen Stand der Wissenschaft und Technik ents
 
 `§ 55 (8) StVO.`  
 Abweichend von Abs. 6 sind die in § 24 Abs. 1 lit. p und 3 lit. a genannten Linien in gelber Farbe auszuführen; die in § 24 Abs. 3 lit. a angeführten Linien sind überdies abweichend von Abs. 2 als unterbrochene Linien auszuführen. Die genannten Linien sind außerhalb einer allenfalls vorhandenen Randlinie anzubringen und können bei Vorhandensein eines Gehsteigs auch auf diesem in einer Entfernung von nicht mehr als 0,30 m zum Fahrbahnrand angebracht werden.
-(Anm.: Abs. 9 aufgehoben durch BGBl. Nr. 518/1994)
+*(Anm.: Abs. 9 aufgehoben durch BGBl. Nr. 518/1994)*
 
 ### § 56 StVO # Schutzwegmarkierungen.
 
@@ -260,6 +262,6 @@ Für die Lenker von Motorfahrrädern gelten die Bestimmungen des § 68 Abs. 3 
 Das Nebeneinanderfahren mit anderen Motorfahrrädern oder Fahrrädern,  
 `§ 69 lit. b) StVO.`
 Motorfahrräder neben einem anderen Motorfahrrad oder Fahrrad zu schieben,  
-(Anm.: lit. c aufgehoben durch BGBl. I Nr. 122/2022)
+*(Anm.: lit. c aufgehoben durch BGBl. I Nr. 122/2022)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.StVO.008](BG.StVO.008.md))*

@@ -1,9 +1,11 @@
-# BG.StVO.010
+# BG.StVO.010 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.010.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StVO.009](BG.StVO.009.md))*
@@ -68,7 +70,7 @@ für die Feststellung von unfallverhütenden Maßnahmen gemäß § 96 Abs. 1.
 
 `§ 94b (2) StVO.`  
 Die Bezirksverwaltungsbehörde ist ferner Behörde im Sinne dieses Bundesgesetzes für Personen, die ihren Hauptwohnsitz im örtlichen Wirkungsbereich der Behörde haben  
-(Anm.: lit. a aufgehoben durch BGBl. I Nr. 39/2013)  
+*(Anm.: lit. a aufgehoben durch BGBl. I Nr. 39/2013)*  
 `§ 94b (2) lit. b) StVO.`
 für die Erteilung einer Bewilligung sowie die Ausstellung eines Radfahrausweises nach § 65 Abs. 2.
 
@@ -208,7 +210,7 @@ die Sicherung des Schulweges (§§ 29a und 97a), sofern sich nicht die Zuständ
 
 `§ 95 (1a) StVO.`  
 Im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, obliegen der Landespolizeidirektion die in Abs. 1 lit. a bis h genannten Aufgaben, ausgenommen die Ausübung des Verwaltungsstrafrechtes hinsichtlich Übertretungen der §§ 8 Abs. 4, 9 Abs. 7, 23 bis 25 und 26a Abs. 3 sowie der Kurzparkzonen-Überwachungsverordnung.
-(Anm.: Abs. 1b und 1c aufgehoben durch BGBl. I Nr. 52/2005)
+*(Anm.: Abs. 1b und 1c aufgehoben durch BGBl. I Nr. 52/2005)*
 
 `§ 95 (2) StVO.`  
 Die Landespolizeidirektionen dürfen die ihnen obliegenden Angelegenheiten nicht auf die Gemeinde (§ 94 Abs. 3) übertragen.
@@ -223,7 +225,7 @@ Ereignen sich an einer Straßenstelle oder -strecke, unter besonderer Berücksic
 
 `§ 96 (1a) StVO.`  
 Als unfallverhütend festgestellte Maßnahmen sind unverzüglich zu verwirklichen; ist das nicht möglich, so hat die Stelle, die für die Ergreifung der Maßnahme zuständig ist, der feststellenden Behörde und der Landesregierung die Umstände mitzuteilen, die diesen Maßnahmen entgegenstehen. Ist jedoch die Landesregierung oder der Bundesminister für Verkehr, Innovation und Technologie für die Ergreifung der Maßnahme zuständig, so sind die der Maßnahme entgegenstehenden Umstände in einem Aktenvermerk (§ 16 AVG) festzuhalten.
-(Anm.: Abs. 1b aufgehoben durch BGBl. I Nr. 123/2015)
+*(Anm.: Abs. 1b aufgehoben durch BGBl. I Nr. 123/2015)*
 
 `§ 96 (2) StVO.`  
 Die Behörde hat mindestens alle fünf Jahre unter Beiziehung des Straßenerhalters alle angebrachten Einrichtungen zur Regelung und Sicherung des Verkehrs daraufhin zu überprüfen, ob sie noch erforderlich sind. Nicht mehr erforderliche Einrichtungen dieser Art sind zu entfernen.
@@ -242,7 +244,7 @@ Sofern es die Sicherheit, Leichtigkeit und Flüssigkeit des Straßenverkehrs erf
 
 `§ 96 (7) StVO.`  
 Die Behörde hat ein Verzeichnis aller Personen zu führen, die in ihrem örtlichen Wirkungsbereich den Hauptwohnsitz haben und innerhalb der letzten fünf Jahre wegen einer Übertretung nach § 99 Abs. 1 bis 2 oder § 37a FSG bestraft worden sind. Hat eine Person ihren Hauptwohnsitz nicht innerhalb des örtlichen Wirkungsbereiches der Behörde, die das Strafverfahren durchführt, so hat diese die Bestrafung nach Rechtskraft der Behörde des Hauptwohnsitzes bekanntzugeben.
-(Anm.: Abs. 8 aufgehoben durch BGBl. Nr. 518/1994)
+*(Anm.: Abs. 8 aufgehoben durch BGBl. Nr. 518/1994)*
 
 ### § 97 StVO # Organe der Straßenaufsicht
 

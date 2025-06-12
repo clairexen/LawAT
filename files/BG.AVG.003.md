@@ -2,6 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AVG  
 **Langtitel:** Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.003.md  
@@ -113,7 +114,7 @@ Die Gebühr ist von der Behörde, die den Sachverständigen herangezogen hat, mi
 
 `§ 53a (3) AVG.`  
 Die Gebühr ist dem nichtamtlichen Sachverständigen kostenfrei zu zahlen. Bestimmt die Behörde eine höhere Gebühr, als dem nichtamtlichen Sachverständigen gezahlt wurde, so ist der Mehrbetrag dem nichtamtlichen Sachverständigen kostenfrei nachzuzahlen. Bestimmt die Behörde eine niedrigere Gebühr oder übersteigt der dem nichtamtlichen Sachverständigen gezahlte Vorschuss die von ihr bestimmte Gebühr, so ist der nichtamtliche Sachverständige zur Rückzahlung des zu viel gezahlten Betrages zu verpflichten.
-(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 33/2013)
+*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 33/2013)*
 
 ### § 53b AVG # Gebühren der nichtamtlichen Dolmetscher
 
@@ -198,7 +199,7 @@ Ist in dem Bescheid eine längere als die gesetzliche Frist angegeben, so gilt d
 
 `§ 61 (4) AVG.`  
 Enthält der Bescheid keine oder eine unrichtige Angabe über die Behörde, bei der das Rechtsmittel einzubringen ist, so ist das Rechtsmittel auch dann richtig eingebracht, wenn es bei der Behörde, die den Bescheid erlassen hat, oder bei der angegebenen Behörde eingebracht wurde.
-(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 158/1998)
+*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 158/1998)*
 
 ### § 62 AVG
 

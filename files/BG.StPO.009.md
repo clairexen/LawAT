@@ -1,9 +1,11 @@
-# BG.StPO.009
+# BG.StPO.009 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.009.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.008](BG.StPO.008.md))*
@@ -103,7 +105,7 @@ die E-Mail-Adresse und die öffentliche IP-Adresse des Absenders einer E-Mail,
 „Anlassdatenspeicherung“ das Absehen von der Löschung der in Z 2 genannten Daten (§ 167 Abs. 2 Z 4 TKG 2021),  
 `§ 134 Z 3 StPO.`
 „Überwachung von Nachrichten“ das Überwachen von Nachrichten und Informationen, die von einer natürlichen Person über ein Kommunikationsnetz (§ 4 Z 1 TKG 2021) oder einen Dienst der Informationsgesellschaft (§ 1 Abs. 1 Z 2 des Notifikationsgesetzes) gesendet, übermittelt oder empfangen werden,  
-(Anm.: Z 3a aufgehoben durch VfGH, BGBl. I Nr. 113/2019)  
+*(Anm.: Z 3a aufgehoben durch VfGH, BGBl. I Nr. 113/2019)*  
 `§ 134 Z 4 StPO.`
 „optische und akustische Überwachung von Personen“ die Überwachung des Verhaltens von Personen unter Durchbrechung ihrer Privatsphäre und der Äußerungen von Personen, die nicht zur unmittelbaren Kenntnisnahme Dritter bestimmt sind, unter Verwendung technischer Mittel zur Bild- oder Tonübertragung und zur Bild- oder Tonaufnahme ohne Kenntnis der Betroffenen,  
 `§ 134 Z 5 StPO.`
@@ -183,7 +185,7 @@ Eine Überwachung ist nur zulässig, soweit die Verhältnismäßigkeit (§ 5) g
 
 `§ 137 (1) StPO.`  
 Eine Überwachung nach § 136 Abs. 1 Z 1 kann die Kriminalpolizei von sich aus durchführen. Eine Auskunft über Stammdaten nach § 135 Abs. 1a erster Fall ist auf Ersuchen von Kriminalpolizei, Staatsanwaltschaft oder Gericht zu erteilen. Eine Auskunft über Zugangsdaten nach § 135 Abs. 1a zweiter Fall sowie eine Anlassdatenspeicherung nach § 135 Abs. 2b ist von der Staatsanwaltschaft anzuordnen (§ 102). Die übrigen Ermittlungsmaßnahmen nach den §§ 135 bis 136 sind von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen, wobei das Eindringen in Räume nach § 136 Abs. 2 jeweils im Einzelnen einer gerichtlichen Bewilligung bedarf.
-(Anm.: Abs. 2 aufgehoben durch Art. 1 Z 21, BGBl. I Nr. 27/2018)
+*(Anm.: Abs. 2 aufgehoben durch Art. 1 Z 21, BGBl. I Nr. 27/2018)*
 
 `§ 137 (3) StPO.`  
 Eine Anlassdatenspeicherung nach § 135 Abs. 2b darf nur für jenen Zeitraum angeordnet werden, der zur Erreichung ihres Zwecks voraussichtlich erforderlich ist, längstens jedoch für zwölf Monate; eine neuerliche Anordnung ist nicht zulässig. Sonstige Ermittlungsmaßnahmen nach §§ 135 bis 136 dürfen nur für einen solchen künftigen, in den Fällen des § 135 Abs. 1a zweiter Fall und Abs. 2 auch vergangenen, Zeitraum angeordnet werden, der zur Erreichung ihres Zwecks voraussichtlich erforderlich ist. Eine neuerliche Anordnung ist jeweils zulässig, soweit auf Grund bestimmter Tatsachen anzunehmen ist, dass die weitere Durchführung der Ermittlungsmaßnahme Erfolg haben werde. Im Übrigen ist die Ermittlungsmaßnahme zu beenden, sobald ihre Voraussetzungen wegfallen.
@@ -246,6 +248,6 @@ in den Fällen der § 135 Abs. 1, Abs. 2 Z 2, 3 und 4, Abs. 2a, Abs. 3 Z�
 
 `§ 140 (2) StPO.`  
 Ergeben sich bei Prüfung der Ergebnisse Hinweise auf die Begehung einer anderen strafbaren Handlung als derjenigen, die Anlass zur Überwachung gegeben hat, so ist mit diesem Teil der Ergebnisse ein gesonderter Akt anzulegen, soweit die Verwendung als Beweismittel zulässig ist (Abs. 1, § 144, § 157 Abs. 2).
-(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 204/2013)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 204/2013)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.StPO.010](BG.StPO.010.md))*

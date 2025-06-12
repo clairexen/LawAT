@@ -1,9 +1,11 @@
-# BG.ZPO.006
+# BG.ZPO.006 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.006.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.005](BG.ZPO.005.md))*
@@ -145,7 +147,7 @@ Wird eine Frage vom Vorsitzenden als unangemessen zurückgewiesen oder die Zulä
 
 `§ 185 (1) ZPO.`  
 Ist eine ohne Bevollmächtigten zur mündlichen Verhandlung erschienene Partei einer verständlichen Äußerung über den Gegenstand des Rechtsstreites oder der mündlichen Verhandlung nicht fähig, so ist die Tagsatzung vom Vorsitzenden auf thunlichst kurze Zeit zu erstrecken und die betreffende Partei anzuweisen, bei der neuerlichen Tagsatzung unter Vertretung eines geeigneten Bevollmächtigten, erforderlichenfalls eines Rechtsanwalts zu erscheinen, widrigens sie als ausgeblieben angesehen werden würde. Eine wiederholte Erstreckung der Tagsatzung kann aus diesem Grunde nicht stattfinden.
-(Anm.: Abs. 1a aufgehoben durch BGBl. I Nr. 30/2009)
+*(Anm.: Abs. 1a aufgehoben durch BGBl. I Nr. 30/2009)*
 
 `§ 185 (2) ZPO.`  
 Die vorstehenden Bestimmungen haben auch dann sinngemäße Anwendung zu finden, wenn der Bevollmächtigte einer Partei einer verständlichen Äußerung über den Gegenstand des Rechtsstreites oder der mündlichen Verhandlung unfähig ist und entweder die Partei selbst nicht anwesend ist oder die Verhandlung mit ihr mit Rücksicht auf die Bestimmungen des §. 27, Absatz 1, nicht durchgeführt werden kann.

@@ -1,9 +1,11 @@
-# BG.ZPO.004
+# BG.ZPO.004 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.004.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.003](BG.ZPO.003.md))*
@@ -149,7 +151,7 @@ Die Bestellung des Curators, dessen Name und Wohnort und eine kurze Angabe des I
 
 `§ 117 (2) ZPO.`  
 Der Inhalt des Edikts ist in die Ediktsdatei aufzunehmen. Wenn dies im einzelnen Fall zweckmäßig erscheint und nicht mit einem im Vergleich zum Streitgegenstand zu großen Kostenaufwand verbunden ist, kann auf Antrag oder von Amts wegen angeordnet werden, dass das Edikt auch in Zeitungen eingeschaltet wird. Gegen diese Anordnung ist ein Rechtsmittel nicht zulässig. Im Verfahren vor Gerichtshöfen steht diese Anordnung dem Vorsitzenden des Senates zu, dem die Rechtssache zugewiesen ist. Die Bekanntmachung des Edikts ist von Amts wegen zu bewirken.
-(Anm.: Abs. 3 aufgehoben durch BGBl. Nr. 135/1983)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. Nr. 135/1983)*
 
 ### § 118 ZPO
 

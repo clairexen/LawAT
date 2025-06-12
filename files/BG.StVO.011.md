@@ -1,9 +1,11 @@
-# BG.StVO.011
+# BG.StVO.011 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.011.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StVO.010](BG.StVO.010.md))*
@@ -121,7 +123,7 @@ Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 800 Euro b
 Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 36 Euro bis 2 180 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe von 24 Stunden bis sechs Wochen, zu bestrafen,  
 `§ 99 (2) lit. a) StVO.`
 der Lenker eines Fahrzeuges, dessen Verhalten am Unfallsort mit einem Verkehrsunfall in ursächlichem Zusammenhang steht, sofern er den Bestimmungen des § 4 Abs. 1 und 2 zuwiderhandelt, insbesondere nicht anhält, nicht Hilfe leistet oder herbeiholt oder nicht die nächste Polizeidienststelle verständigt,  
-(Anm.: lit. b aufgehoben durch Abs. 1 VfGH, BGBl. Nr. 228/1963.)  
+*(Anm.: lit. b aufgehoben durch Abs. 1 VfGH, BGBl. Nr. 228/1963.)*  
 `§ 99 (2) lit. c) StVO.`
 wer als Lenker eines Fahrzeuges, zB beim Überholen, als Wartepflichtiger oder in Hinblick auf eine allgemeine oder durch Straßenverkehrszeichen kundgemachte Geschwindigkeitsbeschränkung, unter besonders gefährlichen Verhältnissen oder mit besonderer Rücksichtslosigkeit gegenüber anderen Straßenbenützern gegen die Vorschriften dieses Bundesgesetzes oder der auf Grund dieses Bundesgesetzes erlassenen Verordnungen verstößt, sofern nicht eine Übertretung nach Abs. 2d oder 2e vorliegt,  
 `§ 99 (2) lit. d) StVO.`
@@ -215,7 +217,7 @@ wer an Einfriedungen spitze Gegenstände anbringt oder frisch gestrichene Gegens
 wer Straßen gröblich verunreinigt oder als Besitzer oder Verwahrer eines Hundes die in § 92 bezeichnete Sorgfaltpflicht verletzt,  
 `§ 99 (4) lit. h) StVO.`
 wer entgegen der sich für ihn aus § 93 ergebenden Verpflichtung nicht für die Säuberung oder Bestreuung der Straße sorgt,  
-(Anm.: lit. i aufgehoben durch BGBl. Nr. 518/1994)
+*(Anm.: lit. i aufgehoben durch BGBl. Nr. 518/1994)*
 
 `§ 99 (4a) StVO.`  
 Wer als Radfahrer die in § 68 Abs. 3 lit. e angeführte Verpflichtung nicht erfüllt, begeht, wenn dies bei einer Anhaltung gemäß § 97 Abs. 5 StVO 1960 festgestellt wird, eine Verwaltungsübertretung, welche mit einer Organstrafverfügung gemäß § 50 VStG mit einer Geldstrafe von 50 Euro zu ahnden ist. Wenn die Zahlung des Strafbetrages verweigert wird, ist von der Behörde eine Geldstrafe bis zu 72 Euro, im Falle der Uneinbringlichkeit eine Freiheitsstrafe bis zu 24 Stunden, zu verhängen.
@@ -411,7 +413,7 @@ Der § 95 dieses Bundesgesetzes, in der Fassung BGBl. Nr. 518/1994, tritt in d
 
 `§ 103 (2c) StVO.`  
 Dieses Bundesgesetz, BGBl. I Nr. 92/1998, ausgenommen § 95 Abs. 1b und 1c, tritt mit xx. xxxxxxxx 1998 in Kraft. § 95 Abs. 1b und 1c, in der Fassung BGBl. I Nr. 92/1998, tritt in den einzelnen Ländern mit dem Inkrafttreten des entsprechenden Landesgesetzes, frühestens jedoch mit xx. xxxxxxxx 1998 in Kraft; die Zuständigkeit zur Ausübung des Verwaltungsstrafrechtes für die bis zum Inkrafttreten des jeweils entsprechenden Landesgesetzes begangenen Übertretungen richtet sich nach den bisherigen Vorschriften.
-(Anm.: Abs. 2d durch Art. 2 § 2 Abs. 2 Z 4, BGBl. I Nr. 2/2008, als nicht mehr geltend festgestellt)
+*(Anm.: Abs. 2d durch Art. 2 § 2 Abs. 2 Z 4, BGBl. I Nr. 2/2008, als nicht mehr geltend festgestellt)*
 
 `§ 103 (2e) StVO.`  
 § 100 Abs. 3a letzter Satz in der Fassung des Bundesgesetzes BGBl. I Nr. 142/2000 tritt mit 1. Jänner 2001 in Kraft.
@@ -427,7 +429,7 @@ Mit dem Inkrafttreten dieses Bundesgesetzes tritt das Straßenpolizeigesetz vom 
 
 `§ 103 (4) StVO.`  
 Die §§ 5 Abs. 8, 11 und 12 sowie 5a Abs. 1 dieses Bundesgesetzes, in der Fassung BGBl. I Nr. 128/2002, treten mit 1. Jänner 2003 in Kraft.
-(Anm.: Abs. 5 durch Art. 2 § 2 Abs. 2 Z 4, BGBl. I Nr. 2/2008, als nicht mehr geltend festgestellt)
+*(Anm.: Abs. 5 durch Art. 2 § 2 Abs. 2 Z 4, BGBl. I Nr. 2/2008, als nicht mehr geltend festgestellt)*
 
 `§ 103 (6) StVO.`  
 § 100 Abs. 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2003 tritt mit 1. Juli 2003 in Kraft.
@@ -487,7 +489,7 @@ Die Überschrift zu § 29b sowie dessen Abs. 1 und 6, § 43 Abs. 1 lit. d, 
 § 99 Abs. 2d und 2e in der Fassung des Bundesgesetzes BGBl. I Nr. 154/2021 tritt mit 1. September 2021 in Kraft.
 
 `§ 103 (25) StVO.`  
-§ 2 Abs. 1 Z 25, § 7 Abs. 7 (Anm.: offensichtlich gemeint § 7 Abs. 6), § 8 Abs. 4 Z 1, § 8a Abs. 3, § 11 Abs. 5, § 15 Abs. 4, § 17 Abs. 2, § 19 Abs. 6a, § 21 Abs. 3, § 23 Abs. 1, § 24 Abs. 1 lit. i Z 3 und 4, § 26 Abs. 1, § 26a Abs. 1, § 26a Abs. 1a und 1b, § 36 Abs. 2 und 3, § 38 Abs. 5a und 5b, § 43 Abs. 8 und 9, § 45 Abs. 4 und 4a, § 48 Abs. 5, § 53 Abs. 1 Z 2c, 6b, 11a, 11b 13e, 13f, 13g, 26a, 29, § 54 Abs. 5 lit. n, § 67 Abs. 2, § 68, § 68 Abs. 2 und 3a, § 69 Abs. 2 lit. c, § 76, § 76a Abs. 5 lit c, § 76b Abs. 1, § 76 d, § 78, § 89a Abs. 2a lit. e, § 93 Abs. 3, § 95 Abs. 1 lit. b, § 100 Abs. 3, § 104 Abs. 14 treten mit 1. Oktober 2022 in Kraft.
+§ 2 Abs. 1 Z 25, § 7 Abs. 7 *(Anm.: offensichtlich gemeint § 7 Abs. 6)*, § 8 Abs. 4 Z 1, § 8a Abs. 3, § 11 Abs. 5, § 15 Abs. 4, § 17 Abs. 2, § 19 Abs. 6a, § 21 Abs. 3, § 23 Abs. 1, § 24 Abs. 1 lit. i Z 3 und 4, § 26 Abs. 1, § 26a Abs. 1, § 26a Abs. 1a und 1b, § 36 Abs. 2 und 3, § 38 Abs. 5a und 5b, § 43 Abs. 8 und 9, § 45 Abs. 4 und 4a, § 48 Abs. 5, § 53 Abs. 1 Z 2c, 6b, 11a, 11b 13e, 13f, 13g, 26a, 29, § 54 Abs. 5 lit. n, § 67 Abs. 2, § 68, § 68 Abs. 2 und 3a, § 69 Abs. 2 lit. c, § 76, § 76a Abs. 5 lit c, § 76b Abs. 1, § 76 d, § 78, § 89a Abs. 2a lit. e, § 93 Abs. 3, § 95 Abs. 1 lit. b, § 100 Abs. 3, § 104 Abs. 14 treten mit 1. Oktober 2022 in Kraft.
 
 `§ 103 (26) StVO.`  
 Die §§ 99 Abs. 2f und 2g, 99a, 99b, 99c und 99d in der Fassung des Bundesgesetzes BGBl. I Nr. 90/2023 treten am 1. März 2024 in Kraft.

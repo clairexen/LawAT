@@ -1,9 +1,11 @@
-# BG.StGB.011
+# BG.StGB.011 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.011.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StGB.010](BG.StGB.010.md))*
@@ -153,7 +155,7 @@ Körperverletzungen nach den §§ 83 bis 87,
 erpresserische Entführung (§ 102),  
 `§ 278c (1) Z 4 StGB.`
 schwere Nötigung (§ 106),  
-(Anm.: Z 5 aufgehoben durch Art. 1 Z 1, BGBl. I Nr. 40/2023)  
+*(Anm.: Z 5 aufgehoben durch Art. 1 Z 1, BGBl. I Nr. 40/2023)*  
 `§ 278c (1) Z 6 StGB.`
 schwere Sachbeschädigung (§ 126), Datenbeschädigung (§ 126a) und Störung der Funktionsfähigkeit eines Computersystems (§ 126b), wenn dadurch eine Gefahr für das Leben eines anderen oder für fremdes Eigentum in großem Ausmaß entstehen kann oder viele Computersysteme (§§ 126a Abs. 3, 126b Abs. 3) oder wesentliche Bestandteile der kritischen Infrastruktur (§§ 126a Abs. 4 Z 2, 126b Abs. 4 Z 2) beeinträchtigt werden,  
 `§ 278c (1) Z 7 StGB.`

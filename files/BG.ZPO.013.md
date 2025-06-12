@@ -1,9 +1,11 @@
-# BG.ZPO.013
+# BG.ZPO.013 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.013.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.012](BG.ZPO.012.md))*
@@ -127,7 +129,7 @@ Die Anwendung von Zwangsmaßregeln, um eine Partei, die zum Zwecke der Beweisfü
 Welchen Einfluss es auf die Herstellung des Beweises habe, wenn die Partei ohne genügende Gründe die Aussage oder die Beantwortung einzelner Fragen ablehnt, wenn die zum Zwecke der unbeeideten oder beeideten Vernehmung geladene Partei nicht erscheint, oder wenn die eidliche Aussage einer Partei von den bei ihrer vorausgegangenen unbeeideten Vernehmung abgegebenen Erklärungen in erheblichen Punkten abweicht, hat das Gericht unter sorgfältiger Würdigung aller Umstände zu beurtheilen.
 
 ### § 382 ZPO
-(Anm.: Abs. 1 aufgehoben durch BGBl. Nr. 2/1958)
+*(Anm.: Abs. 1 aufgehoben durch BGBl. Nr. 2/1958)*
 
 `§ 382 (2) ZPO.`  
 Die Vorschriften der §§. 372 bis 381 gelten sinngemäß auch für die wegen Vorlage einer Beweisurkunde, einer Auskunftssache oder eines Augenscheinsgegenstandes angeordnete Vernehmung und eidliche Abhörung einer Partei.

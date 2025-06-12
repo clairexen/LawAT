@@ -1,9 +1,11 @@
-# BG.ZPO.016
+# BG.ZPO.016 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.016.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.015](BG.ZPO.015.md))*
@@ -32,7 +34,7 @@ Im Protokoll sind auch die Geburtsdaten und die Religion der Parteien, Anzahl un
 Ist eine Partei nicht durch einen Rechtsanwalt vertreten und hat sie keine Beratung über die gesamten Scheidungsfolgen, einschließlich der sozialversicherungsrechtlichen Folgen und der Voraussetzungen eines Ausspruchs über die Haftung für Kredite, in Anspruch genommen, so hat das Gericht auf entsprechende Beratungsangebote und allgemein auf die Nachteile hinzuweisen, die durch ungenügende Kenntnisse über diese Folgen entstehen können. Die Tagsatzung ist zu erstrecken, um der Partei Gelegenheit zur Einholung einer Beratung zu geben, es sei denn, dass dadurch der Prozess unverhältnismäßig verzögert oder offensichtlich verschleppt werden soll. Eine neuerliche Erstreckung aus diesem Grund ist unzulässig. Das Gericht hat die nächste Verhandlung für einen Termin tunlichst innerhalb von sechs Wochen anzuberaumen.  
 `§ 460 Z 7 ZPO.`
 Im Verfahren wegen Scheidung der Ehe hat das Gericht am Beginn der mündlichen Streitverhandlung zunächst eine Versöhnung der Ehegatten anzustreben (Versöhnungsversuch) und überdies in jeder Lage des Verfahrens, soweit tunlich, auf eine Versöhnung hinzuwirken.
-(Anm.: Z 7a aufgehoben durch BGBl. I Nr. 29/2003)  
+*(Anm.: Z 7a aufgehoben durch BGBl. I Nr. 29/2003)*  
 `§ 460 Z 8 ZPO.`
 Stirbt einer der Ehegatten vor der Rechtskraft des Urteils (§ 416 Abs. 1), so ist der Rechtsstreit in Ansehung der Hauptsache als erledigt anzusehen. Er kann nur mehr wegen der Verfahrenskosten fortgesetzt werden. Ein bereits ergangenes Urteil ist wirkungslos.  
 `§ 460 Z 8a ZPO.`

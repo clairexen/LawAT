@@ -1,9 +1,11 @@
-# BG.StGB.006
+# BG.StGB.006 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.006.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StGB.005](BG.StGB.005.md))*
@@ -68,7 +70,7 @@ Der Täter ist wegen einer im § 115 mit Strafe bedrohten Handlung mit Ermächt
 
 `§ 117 (4) StGB.`  
 In den Fällen der Abs. 2 und 3 ist der Verletzte jederzeit berechtigt, sich der Anklage anzuschließen. Verfolgt die Staatsanwaltschaft eine solche strafbare Handlung nicht oder tritt sie von der Verfolgung zurück, so ist der Verletzte selbst zur Anklage berechtigt.
-(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 98/2009)
+*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 98/2009)*
 
 ## Fünfter Abschnitt # Verletzungen der Privatsphäre und bestimmter Berufsgeheimnisse
 
@@ -227,7 +229,7 @@ an einem öffentlichen Denkmal oder an einem Gegenstand, der unter Denkmalschutz
 an einer Sache von allgemein anerkanntem wissenschaftlichem, volkskundlichem, künstlerischem oder geschichtlichem Wert, die sich in einer allgemein zugänglichen Sammlung oder sonst an einem solchen Ort oder in einem öffentlichen Gebäude befindet,  
 `§ 126 (1) Z 5 StGB.`
 an einem wesentlichen Bestandteil der kritischen Infrastruktur (§ 74 Abs. 1 Z 11) oder  
-(Anm.: Z 6 aufgehoben durch BGBl. I Nr. 154/2015)  
+*(Anm.: Z 6 aufgehoben durch BGBl. I Nr. 154/2015)*  
 `§ 126 (1) Z 7 StGB.`
 durch die der Täter an der Sache einen 5 000 Euro übersteigenden Schaden herbeiführt.
 
@@ -499,7 +501,7 @@ Wer mit dem Vorsatz, durch das Verhalten des Getäuschten sich oder einen Dritte
 Wer einen Betrug begeht, indem er zur Täuschung  
 `§ 147 (1) Z 1 StGB.`
 eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfremdetes unbares Zahlungsmittel, ausgespähte Daten eines unbaren Zahlungsmittels, falsche oder verfälschte Daten, ein anderes solches Beweismittel oder ein unrichtiges Meßgerät benützt oder  
-(Anm.: Z 2 aufgehoben durch BGBl. I Nr. 112/2015)  
+*(Anm.: Z 2 aufgehoben durch BGBl. I Nr. 112/2015)*  
 `§ 147 (1) Z 3 StGB.`
 sich fälschlich für einen Beamten ausgibt,  
 ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
@@ -586,7 +588,7 @@ Der Täter ist nur auf Verlangen des Verletzten zu verfolgen.
 ### § 153 StGB # Untreue
 
 `§ 153 (1) StGB.`  
-Wer seine Befugnis, über fremdes Vermögen zu verfügen oder einen anderen zu verpflichten, wissentlich missbraucht und dadurch den anderen am Vermögen schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+Wer seine Befugnis*,* über fremdes Vermögen zu verfügen oder einen anderen zu verpflichten*,* wissentlich missbraucht und dadurch den anderen am Vermögen schädigt*,* ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
 `§ 153 (2) StGB.`  
 Seine Befugnis missbraucht, wer in unvertretbarer Weise gegen solche Regeln verstößt, die dem Vermögensschutz des wirtschaftlich Berechtigten dienen.
@@ -670,7 +672,7 @@ Ebenso ist zu bestrafen, wer eine solche Forderung, die auf ihn übergegangen is
 
 `§ 154 (3) StGB.`  
 Wer Geldwucher gewerbsmäßig begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 112/2015)
+*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 112/2015)*
 
 ### § 155 StGB # Sachwucher
 
@@ -679,7 +681,7 @@ Wer außer den Fällen des § 154 gewerbsmäßig die Zwangslage, den Leichtsinn
 
 `§ 155 (2) StGB.`  
 Ebenso ist zu bestrafen, wer eine solche Forderung, die auf ihn übergegangen ist, gewerbsmäßig wucherisch verwertet.
-(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 112/2015)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 112/2015)*
 
 ### § 156 StGB # Betrügerische Krida
 

@@ -1,9 +1,11 @@
-# BG.StVO.005
+# BG.StVO.005 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.005.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StVO.004](BG.StVO.004.md))*
@@ -56,7 +58,7 @@ Für die Kundmachung von Verordnungen gemäß Abs. 7 und 8 gilt § 44 sinngem�
 
 `§ 42 (10) StVO.`  
 Rechtsvorschriften, mit denen weitergehende Fahrverbote oder Geschwindigkeitsbeschränkungen angeordnet werden, bleiben unberührt.
-(Anm.: Abs. 11 und 12 mit Ablauf des 31.12.2021 außer Kraft getreten)
+*(Anm.: Abs. 11 und 12 mit Ablauf des 31.12.2021 außer Kraft getreten)*
 
 ### § 43 StVO # Verkehrsverbote, Verkehrserleichterungen und Hinweise.
 
@@ -128,7 +130,7 @@ Ein allgemeines Fahrverbot darf die Behörde nur erlassen (Abs. 1 lit. b Z 1)
 Die Behörde kann durch Verordnung für ein gesamtes Ortsgebiet, Teile von Ortsgebieten oder näher bestimmte Gebiete für Lastkraftfahrzeuge ohne Assistenzsysteme mit einem höchsten zulässigen Gesamtgewicht von über 7,5 t zur Vermeidung des toten Winkels Rechtsabbiegeverbote erlassen, sofern dies aufgrund der örtlichen oder verkehrsmäßigen Gegebenheiten nach dem Stand der Wissenschaft zur Erhöhung der Verkehrssicherheit oder aus anderen wichtigen Gründen geeignet erscheint. Ist ein Assistenzsystem nicht vorhanden, kann die Hilfestellung durch einen volljährigen Beifahrer dieses ersetzen. Sofern dadurch der Zweck der Verordnung nicht gefährdet wird, sind einzelne Straßen, Straßenabschnitte oder Straßenarten vom Geltungsbereich der Verordnung auszunehmen.
 
 `§ 43 (9) StVO.`  
-Die Behörde hat bei der Erlassung von Verordnungen gemäß Abs. 1 lit. b Bedacht zu nehmen, ob die Maßnahme dem Fahrradverkehr bzw. Fußgängerverkehr dient, sofern sich die Verordnung auf Straßen bezieht, auf denen nicht motorisierter Verkehr zulässig ist.(Anm.: Abs. 10 aufgehoben durch BGBl. I Nr. 52/2005)
+Die Behörde hat bei der Erlassung von Verordnungen gemäß Abs. 1 lit. b Bedacht zu nehmen, ob die Maßnahme dem Fahrradverkehr bzw. Fußgängerverkehr dient, sofern sich die Verordnung auf Straßen bezieht, auf denen nicht motorisierter Verkehr zulässig ist.*(Anm.: Abs. 10 aufgehoben durch BGBl. I Nr. 52/2005)*
 
 `§ 43 (11) StVO.`  
 Wenn Bedenken aus Gründen der Sicherheit des Straßenverkehrs nicht entgegenstehen, hat die Behörde von einem von ihr erlassenen Halteverbot (Abs. 1) das rasche Auf- oder Abladen geringer Warenmengen im Zustell- oder Abholdienst gewerblicher Betriebe sowie das rasche Einsteigen oder das rasche Aussteigen auf Antrag der gesetzlichen Interessenvertretung der in Betracht kommenden Gewerbebetriebe allgemein auszunehmen.

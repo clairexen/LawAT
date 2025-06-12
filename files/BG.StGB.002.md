@@ -1,9 +1,11 @@
-# BG.StGB.002
+# BG.StGB.002 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.002.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StGB.001](BG.StGB.001.md))*
@@ -149,9 +151,9 @@ Ist der Täter schon zweimal wegen Taten, die auf der gleichen schädlichen Neig
 Ist der Täter schon zweimal wegen vorsätzlicher strafbarer Handlungen gegen Leib und Leben, gegen die Freiheit oder gegen die sexuelle Integrität und Selbstbestimmung zu einer Freiheitsstrafe verurteilt worden, so erhöht sich, wenn er nach Vollendung des neunzehnten Lebensjahres neuerlich eine vorsätzliche strafbare Handlung gegen eines dieser Rechtsgüter begeht, das Höchstmaß der angedrohten Freiheitsstrafe oder Geldstrafe um die Hälfte, höchstens jedoch auf zwanzig Jahre.
 
 `§ 39 (2) StGB.`  
-Eine frühere Strafe bleibt außer Betracht, wenn seit ihrer Verbüßung bis zur folgenden Tat mehr als fünf Jahre, bei einer Verurteilung wegen einer mit zehn oder mehr Jahren Freiheitsstrafe bedrohten strafbaren Handlung mehr als zehn Jahre, vergangen sind. In diese Frist werden Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, nicht eingerechnet. Ist die Strafe bedingt nachgesehen oder (Anm. 1) nur durch Anrechnung einer Vorhaft verbüßt worden, so beginnt die Frist erst mit Rechtskraft des Urteils.  
-(___________________  
-Anm. 1: Art. 4 Z 4a der Novelle BGBl. I Nr. 105/2019 lautet: „In § 39 Abs. 2 wird im zweiten Satz nach dem Wort „Strafe“ die Wendung „bedingt nachgesehen oder“ eingefügt.“ Richtig wäre: „... wird im dritten Satz ...“.)
+Eine frühere Strafe bleibt außer Betracht, wenn seit ihrer Verbüßung bis zur folgenden Tat mehr als fünf Jahre, bei einer Verurteilung wegen einer mit zehn oder mehr Jahren Freiheitsstrafe bedrohten strafbaren Handlung mehr als zehn Jahre, vergangen sind. In diese Frist werden Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, nicht eingerechnet. Ist die Strafe bedingt nachgesehen oder *(Anm. 1)* nur durch Anrechnung einer Vorhaft verbüßt worden, so beginnt die Frist erst mit Rechtskraft des Urteils.  
+*(___________________*  
+*Anm. 1: Art. 4 Z 4a der Novelle BGBl. I Nr. 105/2019 lautet: „In § 39 Abs. 2 wird im zweiten Satz nach dem Wort „Strafe“ die Wendung „bedingt nachgesehen oder“ eingefügt.“ Richtig wäre: „... wird im dritten Satz ...“.)*
 
 ### § 39a StGB # Änderung der Strafdrohung bei bestimmten Gewalttaten
 
@@ -222,7 +224,7 @@ eine Person auszuforschen, die an einer solchen Verabredung führend teilgenomme
 so kann ein gesetzliches Mindestmaß der Strafe nach Maßgabe des § 41 unterschritten werden, wenn dies der Bedeutung der geoffenbarten Tatsachen im Verhältnis zur Schuld des Täters entspricht. § 41 Abs. 3 gilt entsprechend.
 
 `§ 41a (2) StGB.`  
-Abs. 1 gilt für den Beteiligten einer Verabredung, Verbindung (Anm.: richtig: Vereinigung) oder Organisation, die nach dem Verbotsgesetz strafbar ist, und für den Täter einer strafbaren Handlung, die mit einer solchen Verabredung, Verbindung (Anm.: richtig: Vereinigung) oder Organisation im Zusammenhang steht, entsprechend.
+Abs. 1 gilt für den Beteiligten einer Verabredung, Verbindung **(Anm.: richtig: Vereinigung)** oder Organisation, die nach dem Verbotsgesetz strafbar ist, und für den Täter einer strafbaren Handlung, die mit einer solchen Verabredung, Verbindung **(Anm.: richtig: Vereinigung)** oder Organisation im Zusammenhang steht, entsprechend.
 
 `§ 41a (3) StGB.`  
 Bezieht sich das Wissen des Täters auf strafbare Handlungen, für die die österreichischen Strafgesetze nicht gelten, so ist Abs. 1 gleichwohl anzuwenden, soweit die Leistung von Rechtshilfe zulässig wäre.
@@ -253,7 +255,7 @@ Wird auf eine Freiheitsstrafe von mehr als sechs Monaten, aber nicht mehr als zw
 
 `§ 43a (4) StGB.`  
 Wird auf eine Freiheitsstrafe von mehr als zwei, aber nicht mehr als drei Jahren erkannt und besteht eine hohe Wahrscheinlichkeit, daß der Rechtsbrecher keine weiteren strafbaren Handlungen begehen werde, so ist unter den Voraussetzungen des § 43 Abs. 1 ein Teil der Strafe bedingt nachzusehen. Abs. 3 letzter Satz ist anzuwenden.
-(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 105/1997)
+*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 105/1997)*
 
 ### § 44 StGB # Bedingte Nachsicht bei Zusammentreffen mehrerer Strafen
 
@@ -284,7 +286,7 @@ Hat ein Verurteilter die Hälfte der im Urteil verhängten oder im Gnadenweg fes
 
 `§ 46 (2) StGB.`  
 Hat ein Verurteilter die Hälfte, aber noch nicht zwei Drittel einer Freiheitsstrafe verbüßt, so ist er trotz Vorliegens der Voraussetzungen nach Abs. 1 solange nicht bedingt zu entlassen, als es im Hinblick auf die Schwere der Tat ausnahmsweise des weiteren Vollzuges der Strafe bedarf, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken.
-(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 154/2015)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 154/2015)*
 
 `§ 46 (4) StGB.`  
 Bei Entscheidungen nach Abs. 1 ist auf den Umstand Bedacht zu nehmen, inwieweit durch den bisherigen Vollzug der Strafe, insbesondere auch durch eine während des Vollzugs begonnene freiwillige Behandlung im Sinne von § 51 Abs. 3, die der Verurteilte in Freiheit fortzusetzen bereit ist, eine Änderung der Verhältnisse, unter denen die Tat begangen wurde, eingetreten ist, oder durch Maßnahmen gemäß §§ 50 bis 52 erreicht werden kann.

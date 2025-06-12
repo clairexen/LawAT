@@ -1,9 +1,11 @@
-# BG.StPO.021
+# BG.StPO.021 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.021.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.020](BG.StPO.020.md))*
@@ -41,8 +43,7 @@ die Kosten der Verteidiger und anderer Vertreter;
 einen Pauschalbetrag als Anteil an den Kosten der Prozessbegleitung (§ 66b) bis zu 1 000 Euro.
 
 `§ 381 (2) StPO.`  
-Diese Kosten werden, soweit sich aus besonderen gesetzlichen Vorschriften nichts anderes ergibt, mit Ausnahme der unter Abs. 1 Z 3 und 7 bis 9 bezeichneten Kosten vom Bunde vorgeschossen, vorbehaltlich des Rückersatzes nach den Bestimmungen der §§ 389 bis  
-391.
+Diese Kosten werden, soweit sich aus besonderen gesetzlichen Vorschriften nichts anderes ergibt, mit Ausnahme der unter Abs. 1 Z. 3 und 7 bis 9 bezeichneten Kosten vom Bunde vorgeschossen, vorbehaltlich des Rückersatzes nach den Bestimmungen der §§ 389 bis 391.
 
 `§ 381 (3) StPO.`  
 Der Pauschalkostenbeitrag (Abs. 1 Z 1) ist innerhalb der folgenden Grenzen zu bemessen (Abs. 5):  
@@ -150,14 +151,14 @@ Für die durch ein erfolgloses Begehren um Wiederaufnahme des Verfahrens verursa
 ### § 391 StPO
 
 `§ 391 (1) StPO.`  
-Die Kosten des Strafverfahrens sind jedoch vom Ersatzpflichtigen nur insoweit einzutreiben, als dadurch weder der zu einer einfachen Lebensführung notwendige Unterhalt des Ersatzpflichtigen und seiner Familie, für deren Unterhalt er zu sorgen hat, noch die Erfüllung der aus der strafbaren Handlung entspringenden Pflicht zur Schadensgutmachung gefährdet wird. (BGBl. Nr. 423/1974, Art. I Z. 110)
+Die Kosten des Strafverfahrens sind jedoch vom Ersatzpflichtigen nur insoweit einzutreiben, als dadurch weder der zu einer einfachen Lebensführung notwendige Unterhalt des Ersatzpflichtigen und seiner Familie, für deren Unterhalt er zu sorgen hat, noch die Erfüllung der aus der strafbaren Handlung entspringenden Pflicht zur Schadensgutmachung gefährdet wird. *(BGBl. Nr. 423/1974, Art. I Z. 110)*
 
 `§ 391 (2) StPO.`  
 Ist nach den im Verfahren hervorgekommenen Umständen mit Grund anzunehmen, daß die Kosten des Strafverfahrens wegen Mittellosigkeit des Zahlungspflichtigen auch nicht bloß zum Teile hereingebracht werden können, so hat das Gericht, soweit tunlich, gleich bei Schöpfung des Erkenntnisses die Kosten für uneinbringlich zu erklären; andernfalls entfällt eine Entscheidung über die Einbringlichkeit der Kosten. Der Beschluß, womit die Kosten für uneinbringlich erklärt werden, kann jederzeit aufgehoben und, wenn später Umstände der bezeichneten Art hervorkommen, nachträglich gefaßt werden.
 
 `§ 391 (3) StPO.`  
 Gegen Entscheidungen der Gerichte, womit ein Antrag abgelehnt wird, die Kosten für uneinbringlich zu erklären, ist kein Rechtsmittel zulässig.
-(BGBl. Nr. 145/1969, Art. II Z. 4)
+*(BGBl. Nr. 145/1969, Art. II Z. 4)*
 
 ### § 393 StPO
 
@@ -169,7 +170,7 @@ Ein Angeklagter, dem ein Verteidiger nach § 61 Abs. 2 beigegeben wurde, hat e
 
 `§ 393 (2) StPO.`  
 Einem nach § 61 Abs. 2 beigegebenen Verteidiger sind, soweit nicht nach § 56 Abs. 2 vorzugehen ist, auf sein Verlangen die nötig gewesenen und wirklich bestrittenen baren Auslagen vom Bund zu vergüten. Zu diesen Auslagen gehören auch die Kosten eines Dolmetschers, soweit dessen Beiziehung zu den Besprechungen zwischen dem Verteidiger und dem Beschuldigten notwendig war; solche Kosten sind bis zu dem Ausmaß zu vergüten, das sich in sinngemäßer Anwendung der Bestimmungen des Gebührenanspruchsgesetzes 1975 ergibt.
-(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)*
 
 `§ 393 (4) StPO.`  
 In den Fällen, in denen dem Beschuldigten, dem Privatankläger, dem Privatbeteiligten (§ 72) oder dem, der eine wissentlich falsche Anzeige gemacht hat, der Ersatz der Prozeßkosten überhaupt zur Last fällt, haben diese Personen auch alle Kosten der Verteidigung und der Vertretung zu ersetzen.
@@ -216,7 +217,7 @@ Wird über die Höhe der gemäß § 393 Abs. 4 oder Abs. 4a zu ersetzenden Ko
 
 `§ 395 (2) StPO.`  
 Bei der Bemessung der Gebühren ist auch zu prüfen, ob die vorgenommenen Vertretungshandlungen notwendig waren oder sonst nach der Beschaffenheit des Falles gerechtfertigt sind. Die Kosten des Bemessungsverfahrens sind als Kosten des Strafverfahrens anzusehen.
-(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)*
 
 `§ 395 (4) StPO.`  
 Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss gemäß Abs. 1 kommt aufschiebende Wirkung zu.
@@ -241,13 +242,13 @@ Die Kriminalpolizei ist durch das Gericht, das in erster Instanz entschieden hat
 
 `§ 397 StPO.`  
 Jedes Strafurteil ist ungesäumt in Vollzug zu setzen, sobald feststeht, daß der Vollstreckung kein gesetzliches Hindernis und insbesondere kein rechtzeitig und von einem hiezu Berechtigten ergriffenes Rechtsmittel entgegensteht, dem das Gesetz aufschiebende Wirkung beimißt (§ 284 Abs. 3, § 294 Abs. 1 und § 344). Ist ein Rechtsmittel zugunsten des verhafteten Angeklagten von solchen Personen ergriffen worden, die hiezu gegen seinen Willen nicht berechtigt sind, so ist der Angeklagte hievon in Kenntnis zu setzen und über den dadurch herbeigeführten Aufschub der Strafvollstreckung zu belehren. Dasselbe hat zu geschehen, wenn es zweifelhaft ist, ob der verhaftete Angeklagte der Einlegung des Rechtsmittels durch seinen Verteidiger zugestimmt habe. Die Anordnung des Vollzuges des Strafurteiles steht dem Vorsitzenden des erkennenden Gerichtes zu.
-(BGBl. Nr. 145/1969, Art. II Z. 5)
+*(BGBl. Nr. 145/1969, Art. II Z. 5)*
 
 ### § 398 StPO
 
 `§ 398 StPO.`  
 Jede Rechtswirkung eines Strafurteils beginnt, wenn nichts anderes bestimmt ist, mit seiner Rechtskraft.
-(BGBl. Nr. 423/1974, Art. I Z. 112)
+*(BGBl. Nr. 423/1974, Art. I Z. 112)*
 
 ### § 399 StPO
 
@@ -276,7 +277,7 @@ Einen Beschluß nach Abs. 1 hat der Vorsitzende auf Antrag oder von Amts wegen 
 
 `§ 402 StPO.`  
 Ist in einem Strafurteil auf den Verlust eines Rechtes erkannt worden oder ist in einem Gesetz vorgesehen, daß die Verurteilung einen solchen Verlust nach sich zieht oder nach sich ziehen kann, so hat das Strafgericht die rechtskräftige Verurteilung der in Betracht kommenden Stelle bekanntzumachen. Sofern dieser Stelle nicht schon nach anderen gesetzlichen Bestimmungen eine Urteilsausfertigung zugestellt werden muß, ist ihr eine solche Ausfertigung auf ihr Ersuchen zu übersenden.
-(BGBl. Nr. 145/1969, Art. II Z. 7)
+*(BGBl. Nr. 145/1969, Art. II Z. 7)*
 
 ### § 403 StPO
 
@@ -292,7 +293,7 @@ Ist in einem Strafurteil auf den Verlust eines Rechtes erkannt worden oder ist i
 
 `§ 405 StPO.`  
 Wie auf Freiheitsstrafen lautende Strafurteile zu vollziehen sind, bestimmen besondere Gesetze.
-(BGBl. Nr. 145/1969, Art. II Z. 8)
+*(BGBl. Nr. 145/1969, Art. II Z. 8)*
 
 ### § 406 StPO
 
@@ -303,7 +304,7 @@ Wie auf Freiheitsstrafen lautende Strafurteile zu vollziehen sind, bestimmen bes
 
 `§ 407 StPO.`  
 Von der Verurteilung einer Person, die nicht die österreichische Staatsbürgerschaft besitzt, ist die für die Ausübung der Fremdenpolizei zuständige Behörde unverzüglich zu verständigen.
-(BGBl. Nr. 423/1974, Art. I Z. 114)
+*(BGBl. Nr. 423/1974, Art. I Z. 114)*
 
 ### § 408 StPO
 
@@ -345,7 +346,7 @@ In die gewährte Aufschubsfrist werden Zeiten, in denen der Zahlungspflichtige a
 
 `§ 409a (4) StPO.`  
 Die Entrichtung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen darf nur mit der Maßgabe gestattet werden, daß alle noch aushaftenden Teilbeträge sofort fällig werden, wenn der Zahlungspflichtige mit mindestens zwei Ratenzahlungen in Verzug ist.
-(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 93/2007)
+*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 93/2007)*
 
 ### § 409b StPO
 
@@ -359,7 +360,7 @@ Geldstrafen, verfallene Geldbeträge und Veräußerungserlöse (§§ 115e, 377)
 
 `§ 410 (1) StPO.`  
 Über die nachträgliche Strafmilderung, die Neubemessung des Tagessatzes sowie die Änderung der Entscheidung über den Verfall, den erweiterten Verfall (§ 31a StGB) oder über das Tätigkeitsverbot (§ 220b Abs. 3 StGB) entscheidet das Gericht, das in erster Instanz erkannt hat, auf Antrag oder von Amts wegen nach Erhebung der für die Entscheidung maßgebenden Umstände mit Beschluß.
-(Anm.: Abs. 2 aufgehoben durch BGBl. I Nr. 93/2007)
+*(Anm.: Abs. 2 aufgehoben durch BGBl. I Nr. 93/2007)*
 
 `§ 410 (3) StPO.`  
 Wenn der Zweck der Entscheidung nach Abs. 1 sonst ganz oder teilweise vereitelt werden könnte, hat das Gericht den Vollzug der Strafe, des Verfalls oder des erweiterten Verfalls bis zur Rechtskraft seiner Entscheidung vorläufig zu hemmen oder zu unterbrechen, es sei denn, daß ihm ein offenbar aussichtsloser Antrag vorliegt.

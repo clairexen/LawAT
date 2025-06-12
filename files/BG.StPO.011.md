@@ -1,9 +1,11 @@
-# BG.StPO.011
+# BG.StPO.011 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.011.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.StPO.010](BG.StPO.010.md))*
@@ -171,7 +173,7 @@ vorläufige Bewährungshilfe nach § 179,
 die Leistung einer Sicherheit nach den §§ 180 und 181,  
 `§ 173 (5) Z 9 StPO.`
 mit Zustimmung des Beschuldigten die Weisung, sich einer Entwöhnungsbehandlung, sonst einer medizinischen Behandlung oder einer Psychotherapie (§ 51 Abs. 3 StGB) oder einer gesundheitsbezogenen Maßnahme (§ 11 Abs. 2 SMG) zu unterziehen.
-(Abs. 6 aufgehoben durch VfGH, BGBl. I Nr. 1/2023)
+*(Abs. 6 aufgehoben durch VfGH, BGBl. I Nr. 1/2023)*
 
 ### § 173a StPO # Hausarrest
 

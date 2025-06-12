@@ -1,9 +1,11 @@
-# BG.ZPO.014
+# BG.ZPO.014 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.014.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.013](BG.ZPO.013.md))*
@@ -239,7 +241,7 @@ Ist ein Urteil in Anwesenheit beider Parteien mündlich verkündet worden (§ 4
 
 `§ 417a (2) ZPO.`  
 Der Abs. 1 darf nur angewendet werden, wenn der Vorsitzende die gekürzte schriftliche Abfassung des Urteils binnen vierzehn Tagen ab jenem Zeitpunkt zur Ausfertigung abgibt, ab dem für jede Partei die Berufungsanmeldungsfrist (§ 461 Abs. 2) abgelaufen ist.
-(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 140/1997)
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 140/1997)*
 
 ### § 418 ZPO
 

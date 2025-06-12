@@ -1,9 +1,11 @@
-# BG.ZPO.017
+# BG.ZPO.017 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
+**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.017.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *(Fortsetzg. v. [BG.ZPO.016](BG.ZPO.016.md))*
@@ -99,7 +101,7 @@ Wurde in erster Instanz ein Sachverständigenbeweis geführt, so kann der Berufu
 Erwägt das Berufungsgericht von den Feststellungen des Erstgerichts abzuweichen, so darf es nur dann von der neuerlichen Aufnahme eines in erster Instanz unmittelbar aufgenommenen Beweises Abstand nehmen und sich mit der Verlesung des Protokolls hierüber begnügen, wenn es vorher den Parteien bekanntgegeben hat, daß es gegen die Würdigung dieses Beweises durch das Erstgericht Bedenken habe, und ihnen Gelegenheit gegeben hat, eine neuerliche Aufnahme dieses Beweises durch das Berufungsgericht zu beantragen.
 
 ### § 489 ZPO
-(Anm.: Abs. 1 aufgehoben durch Art. IV Z 89, BGBl. Nr. 135/1983)
+*(Anm.: Abs. 1 aufgehoben durch Art. IV Z 89, BGBl. Nr. 135/1983)*
 
 `§ 489 (2) ZPO.`  
 Wird vom Berufungssenate die neuerliche eidliche Einvernehmung einer bereits in erster Instanz eidlich abgehörten Partei angeordnet, so ist dieselbe unter Erinnerung an den in erster Instanz abgelegten Eid zu vernehmen.
@@ -117,7 +119,7 @@ Im Fall des Ausbleibens einer Partei ist über die Berufung dennoch zu verhandel
 
 `§ 493 (1) ZPO.`  
 In das Protokoll über die mündliche Berufungsverhandlung ist der Inhalt des thatsächlichen Vorbringens und der Beweisanbietungen der Parteien nur insoweit aufzunehmen, als derselbe von den Angaben der erstrichterlichen Processacten über den Verhandlungsinhalt abweicht.
-(Anm.: Abs. 2 aufgehoben durch Art. IV Z 13, BGBl. Nr. 743/1921)
+*(Anm.: Abs. 2 aufgehoben durch Art. IV Z 13, BGBl. Nr. 743/1921)*
 
 ## Berufungsentscheidung.
 
