@@ -96,9 +96,6 @@ Der Nationalrat hat beschlossen:
 * [§ 50 StVO # Die Gefahrenzeichen.](BG.StVO.006.md#-50-stvo--die-gefahrenzeichen)
 * [§ 51 StVO # Allgemeines über Vorschriftszeichen.](BG.StVO.006.md#-51-stvo--allgemeines-über-vorschriftszeichen)
 * [§ 52 StVO # Die Vorschriftszeichen](BG.StVO.006.md#-52-stvo--die-vorschriftszeichen)
-* [a) Verbots- oder Beschränkungszeichen  ](BG.StVO.006.md#a-verbots--oder-beschränkungszeichen-)
-* [b) Gebotszeichen.  ](BG.StVO.006.md#b-gebotszeichen-)
-* [c) Vorrangzeichen  ](BG.StVO.006.md#c-vorrangzeichen-)
 * [§ 53 StVO # Die Hinweiszeichen](BG.StVO.006.md#-53-stvo--die-hinweiszeichen)
 * [§ 54 StVO # Zusatztafeln.](BG.StVO.006.md#-54-stvo--zusatztafeln)
 

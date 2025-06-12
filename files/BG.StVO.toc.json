@@ -83,14 +83,11 @@
     [13, "### § 48 StVO # Anbringung der Straßenverkehrszeichen."],
     [43, "### § 49 StVO # Allgemeines über Gefahrenzeichen."],
     [57, "### § 50 StVO # Die Gefahrenzeichen."],
-    [171, "### § 51 StVO # Allgemeines über Vorschriftszeichen."],
-    [188, "### § 52 StVO # Die Vorschriftszeichen"],
-    [197, "### a) Verbots- oder Beschränkungszeichen  "],
-    [338, "### b) Gebotszeichen.  "],
-    [377, "### c) Vorrangzeichen  "],
-    [391, "### § 53 StVO # Die Hinweiszeichen"],
-    [637, "### § 54 StVO # Zusatztafeln."],
-    [709, "END-OF-DATA-FILE"]
+    [197, "### § 51 StVO # Allgemeines über Vorschriftszeichen."],
+    [214, "### § 52 StVO # Die Vorschriftszeichen"],
+    [472, "### § 53 StVO # Die Hinweiszeichen"],
+    [783, "### § 54 StVO # Zusatztafeln."],
+    [855, "END-OF-DATA-FILE"]
   ],
   "BG.StVO.007": [
     [11, "## E. Verkehrsleiteinrichtungen."],

@@ -277,13 +277,17 @@ def processContentElement(el, outbuf, parName = None):
 
     def handleText(br = False, absHack = False, bold = False):
         nonlocal outbuf
-        if br and len(outbuf) and not outbuf[-1].endswith("  "):
-            outbuf[-1] += "  "
+        if br == "p":
+            if len(outbuf) and not outbuf[-1] == "":
+                outbuf.append("")
+        elif br:
+            if len(outbuf) and not outbuf[-1].endswith("  "):
+                outbuf[-1] += "  "
         tx = el.stripped_text()
         if absHack and (n := el.locator(":scope > .Absatzzahl")).count():
             tx = tx.removeprefix(n.stripped_text())
         if bold:
-            tx = f"**{tx}**"
+            tx = f"**{tx}**  "
         outbuf.append(tx)
 
     def handleObjects():
@@ -309,10 +313,13 @@ def processContentElement(el, outbuf, parName = None):
             handleHeader()
 
         case "H4" if any_in(cls, "UeberschrPara"):
-            handleParHeader()
+            if parName is None:
+                handleParHeader()
+            else:
+                handleText("p", False, True)
 
         case "H4" if any_in(cls, "ErlUeberschrL"):
-            handleText(True, False, True)
+            handleText("p", False, True)
 
         case "P" if any_in(cls, "Abs", "Abs_small_indent", "SatznachNovao", "Abstand"):
             handleText()
