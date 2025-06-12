@@ -10,11 +10,11 @@ Use with `from RisEnQuery import *`.
 Run `tx(intro())` (or `md(intro())`) for an introduction
 """
 
-_rex_src, _rex_disableMain = None, True
-#/#_rex_src, _rex_disableMain = "RisExFiles.zip", False  # replace(count=1)
-#/#_rex_src, _rex_disableMain = "RisExFiles.json", False # replace(count=2)
-#/#_rex_src, _rex_disableMain = "/mnd/data/RisExFiles.zip", False  # replace(count=3)
-#/#_rex_src, _rex_disableMain = "/mnd/data/RisExFiles.json", False # replace(count=4)
+_rex_src, _rex_repcnt = None, 0
+#/#_rex_src, _rex_repcnt = "RisExFiles.zip", 1  # replace(count=1)
+#/#_rex_src, _rex_repcnt = "RisExFiles.json", 2 # replace(count=2)
+#/#_rex_src, _rex_repcnt = "/mnd/data/RisExFiles.zip", 3  # replace(count=3)
+#/#_rex_src, _rex_repcnt = "/mnd/data/RisExFiles.json", 4 # replace(count=4)
 
 def intro():
     """
@@ -170,8 +170,8 @@ Funktionen:
 - intro():
   → Gibt diesen Einführungstext zurück.
 
-- ls(filePat=None):
-  → Gibt eine Liste aller (matchender) Dateinamen im Archiv zurück.
+- ls(normPat=None):
+  → Gibt eine Liste aller (matchender) Normen im Archiv zurück.
 
 - fetch(filename):
   → Lädt eine Datei (Text oder JSON) aus dem Archiv. Ergebnisse werden im Cache gespeichert.
@@ -181,18 +181,18 @@ Funktionen:
 
 - sel(*p):
   → Selektiert die Liste der Normen die bei toc(), get(), und find() verwendet werden
-     wenn filePat den Wert None hat. (Reset mit sel() ohne argumente.)
+     wenn normPat den Wert None hat. (Reset mit sel() ohne argumente.)
 
-- toc(searchPat, filePat=None):
+- toc(searchPat, normPat=None):
   → Durchsucht .toc.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Gibt eine liste der gefundenden Überschriften zurück.  WICHTIG: Die Dateinamen
      beginnen mit dem Typ des Gesetzes. Also zB "BG.StGB", nicht nur "StGB".
 
-- get(searchPat, filePat=None):
+- get(searchPat, normPat=None):
   → Durchsucht .toc.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Zitiert die gefundenden Paragraphen vollständig.
 
-- find(searchPat, filePat=None):
+- find(searchPat, normPat=None):
   → Ähnlich toc() und get(), aber gibt ein set von fetch keys zurück.
 
 - grep(grepPat, data):
@@ -246,29 +246,46 @@ elif _rex_src.endswith(".json"):
 else:
     assert False, f"Unrecognized files extension: {_rex_src}"
 
-_rex_ls_cache = { None: (_rex_dir_sorted := sorted(_rex_dir)) }
+_rex_trace = False
+_rex_ls_cache = dict()
 _rex_fetch_cache = dict()
 _rex_selected = None
+_rex_index = _rex_rd_json("index.json")
+_rex_sorted_norms = tuple(sorted(_rex_index.keys()))
+
+def reload(count=None):
+    """
+        Reload RisEnQuery.py (and clear caches)
+    """
+    if count is None:
+        count = _rex_repcnt
+    if _rex_repcnt in (0, 1, 2):
+        pySrcFile = "RisEnQuery.py"
+    elif _rex_repcnt in (3, 4):
+        pySrcFile = "/mnt/data/RisEnQuery.py"
+    exec(open(pySrcFile).read().replace("#/#", "", count), globals())
 
 def ls(p: str = None):
     """
-        Return the list of file names from RisExFiles.zip.
+        Return the list of currently selected norms.
     """
+
+    if p is None:
+        if _rex_selected is not None:
+            return _rex_selected
+        return _rex_sorted_norms
+
     if (key := (p, _rex_selected)) not in _rex_ls_cache:
-        filePat = pat(p) if p is not None else None
-        fileList = list()
-        for fn in _rex_dir_sorted:
-            if _rex_selected is not None:
-                for pf in _rex_selected:
-                    if fn.startswith(pf):
-                        break
-                else:
-                    continue
-            for suffix in ["", ".md", ".json", ".toc.json"]:
-                if filePat is None or filePat.fullmatch(fn.removesuffix(suffix)):
-                    fileList.append(fn)
-                    break
-        _rex_ls_cache[key] = fileList
+        normPat = pat(p) if p is not None else None
+        normList = list()
+        for n in ls():
+            if normPat is None or normPat.fullmatch(n):
+                normList.append(n)
+        if len(normList) == 0 and "." not in p:
+            for n in ls():
+                if normPat is None or normPat.fullmatch(n.split(".", 1)[1]):
+                    normList.append(n)
+        _rex_ls_cache[key] = tuple(normList)
     return _rex_ls_cache[key]
 
 def fetch(key: str):
@@ -299,9 +316,14 @@ def fetch(key: str):
             if fn not in _rex_dir:
                 for ext in (".json", ".md"):
                     if (fn + ext) in _rex_dir: fn += ext; break
+            src = _rex_src if _rex_src is not None else "files/"
             if fn.endswith(".json"):
+                if _rex_trace:
+                    print(f"Fetching JSON from '{src}': {fn}", file=sys.stderr)
                 _rex_fetch_cache[key] = _rex_rd_json(fn)
             else:
+                if _rex_trace:
+                    print(f"Fetching TEXT from '{src}': {fn}", file=sys.stderr)
                 data = _rex_rd_text(fn)
                 if type(data) is str:
                     data = data.split("\n")
@@ -378,7 +400,7 @@ def sel(*p):
     """
         Select a list of norms.
 
-        This list of files is used whenever the filePat argument to toc(),
+        This list of files is used whenever the normPat argument to toc(),
         get(), or find() is left None.
 
         Running sel() without arguments resets the list of selected files.
@@ -395,24 +417,25 @@ def sel(*p):
         return _rex_sel_context(oldRexSelected, _rex_selected)
 
     newRexSelected = set()
-    tocFiles = ls(r"/[A-Z]+\.[A-Za-z]+\.*\.toc\.json")
     for pat in p:
         if type(pat) is set:
             newRexSelected += pat
+        elif type(pat) is tuple:
+            newRexSelected += set(pat)
         else:
-            for fn in ls(pat):
-                newRexSelected.add(".".join(fn.split(".")[:2]) + ".")
+            for n in ls(pat):
+                newRexSelected.add(n)
 
     _rex_selected = tuple(sorted(newRexSelected))
     return _rex_sel_context(oldRexSelected, _rex_selected)
 
-def toc(searchPat: str, filePat: str = None):
+def toc(searchPat: str, normPat: str = None):
     """
         Search for searchPat in the tables-of-contents .toc.json
-        files selected by filePat, or all toc files when filePat
+        files selected by normPat, or all toc files when normPat
         is None.
 
-        If filePat is specified, it may apply to the part of the
+        If normPat is specified, it may apply to the part of the
         TOC JSON filename without the .toc.json suffix or any of
         the files that belong to a norm.
 
@@ -429,20 +452,16 @@ def toc(searchPat: str, filePat: str = None):
         searchPat = pat(searchPat)
         fullTextMode = searchPat.pattern.startswith("(?#MatchFullTextTag)")
 
-    tocFiles = ls(r"/[A-Z]+\.[A-Za-z]+\.*\.toc\.json")
-    if filePat is not None:
-        if type(filePat) is set:
-            tocFiles = filePat
+    if normPat is not None:
+        if type(normPat) is set or type(normPat) is tuple:
+            normList = tuple(sorted(normPat))
         else:
-            tocFiles = set()
-            for fn in ls(filePat):
-                tocFiles.add(".".join(fn.split(".")[:2]) + ".toc.json")
-            tocFiles = sorted(tocFiles)
-    elif _rex_selected is not None:
-        tocFiles = {f"{pf}toc.json" for pf in _rex_selected}
+            normList = ls(normPat)
+    else:
+        normList = ls()
 
-    for fn in tocFiles:
-        for tf, items in fetch(fn).items():
+    for norm in normList:
+        for tf, items in fetch(f"{norm}.toc.json").items():
             for i in range(len(items)-1):
                 n, m = items[i][0], items[i+1][0]-1
                 key = f"{tf}:{n}-{m}"
@@ -457,19 +476,19 @@ def toc(searchPat: str, filePat: str = None):
 
     return matches
 
-def find(searchPat: str, filePat: str = None):
+def find(searchPat: str, normPat: str = None):
     """
         Like toc() but return a set of fetch keys.
     """
-    return {key for _, key in toc(searchPat, filePat)}
+    return {key for _, key in toc(searchPat, normPat)}
 
-def get(searchPat: str, filePat: str = None):
+def get(searchPat: str, normPat: str = None):
     """
         Like toc() but return the full Markdown
         text for all matching paragraphs.
     """
     outLines = list()
-    for _, key in toc(searchPat, filePat):
+    for _, key in toc(searchPat, normPat):
         outLines.append(fetch(key).replace("\n", f" | {key}\n", 1))
     return "\n".join(outLines)
 
@@ -669,7 +688,7 @@ def mdtoc(*a):   md(toc(*a))
 def mdget(*a):   md(get(*a))
 def mdgrep(*a):  md(grep(*a))
 
-if __name__ == "__main__" and len(sys.argv) > 1 and not _rex_disableMain:
+if __name__ == "__main__" and len(sys.argv) > 1 and _rex_repcnt == 0:
     match sys.argv[1]:
         case "intro":
             txintro()
