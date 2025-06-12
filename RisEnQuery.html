@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- Recommended meta tags -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<!-- PyScript CSS -->
+<link rel="stylesheet" href="https://pyscript.net/releases/2025.5.1/core.css">
+<!-- This script tag bootstraps PyScript -->
+<script type="module" src="https://pyscript.net/releases/2025.5.1/core.js"></script>
+</head>
+<body>
+
+<h1>RisEnQuery Shell (Python REPL)</h1>
+
+<!-- begin terminal window -->
+<div id="new-terminal">
+<script id="python-terminal" type="mpy" terminal>
+import code
+code.interact()
+</script>
+<!-- {'files':{'RisExFiles.zip':'/*'}} -->
+<script type="mpy" src="RisEnQuery.py" config='{"files":{"RisEnFiles.json":"/RisEnFiles.json"}}'></script>
+</div>
+
+<div class="old-terminal" id="old-terminal">
+    <div class="menu">
+	<div class="window-buttons close"></div>
+	<div class="window-buttons minimize"></div>
+	<div class="window-buttons zoom"></div>
+    </div>
+    <div class="screen">
+	<div class="code"></div>
+    </div>
+</div>
+<!-- end terminal window -->
+</body></html>

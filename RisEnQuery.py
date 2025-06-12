@@ -224,18 +224,20 @@ Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem 
 Merksatz: "Immer zuerst toc() oder get() – nie raten!"
 """
 
-import zipfile, json, os, sys, re, glob, fnmatch
+import json, os, sys, re, fnmatch
 
 if _rex_src is None:
+    import glob
     _rex_dir = {"index.json"} | {fn.removeprefix("files/") for fn in glob.glob("files/*")}
-    _rex_rd_text = lambda fn: open(fn if glob.glob(fn) else f"files/{fn}").read()
-    _rex_rd_json = lambda fn: json.load(open(fn if glob.glob(fn) else f"files/{fn}"))
+    _rex_rd_text = lambda fn: open(fn if fn == "index.json" else f"files/{fn}").read()
+    _rex_rd_json = lambda fn: json.load(open(fn if fn == "index.json" else f"files/{fn}"))
 
 elif _rex_src.endswith(".zip"):
+    import zipfile
     _rex_zip = zipfile.ZipFile(_rex_zipPath)
     _rex_dir = set([f.filename for f in _rex_zip.filelist])
-    _rex_rd_text = lambda fn: _rex_zip.open(fn if glob.glob(fn) else f"files/{fn}").read().decode()
-    _rex_rd_json = lambda fn: json.load(_rex_zip.open(fn if glob.glob(fn) else f"files/{fn}"))
+    _rex_rd_text = lambda fn: _rex_zip.open(fn).read().decode()
+    _rex_rd_json = lambda fn: json.load(_rex_zip.open(fn))
 
 elif _rex_src.endswith(".json"):
     _rex_json = json.load(open(_rex_src))
@@ -689,24 +691,23 @@ def mdget(*a):   md(get(*a))
 def mdgrep(*a):  md(grep(*a))
 
 if __name__ == "__main__" and len(sys.argv) > 1 and _rex_repcnt == 0:
-    match sys.argv[1]:
-        case "intro":
-            txintro()
-        case "ls":
-            uls(*sys.argv[2:])
-        case "fetch":
-            txfetch(*sys.argv[2:])
-        case "pat":
-            tx(pat(*sys.argv[2:]).pattern)
-        case "toc":
-            txtoc(*sys.argv[2:])
-        case "grep":
-            txgrep(sys.argv[2], get(*sys.argv[3:]))
-        case "untag":
-            tx(untag(get(*sys.argv[2:])))
-        case "get":
-            txget(*sys.argv[2:])
-        case "md":
-            md(get(*sys.argv[2:]))
-        case _:
-            assert False
+    if sys.argv[1] == "intro":
+        txintro()
+    elif sys.argv[1] == "ls":
+        uls(*sys.argv[2:])
+    elif sys.argv[1] == "fetch":
+        txfetch(*sys.argv[2:])
+    elif sys.argv[1] == "pat":
+        tx(pat(*sys.argv[2:]).pattern)
+    elif sys.argv[1] == "toc":
+        txtoc(*sys.argv[2:])
+    elif sys.argv[1] == "grep":
+        txgrep(sys.argv[2], get(*sys.argv[3:]))
+    elif sys.argv[1] == "untag":
+        tx(untag(get(*sys.argv[2:])))
+    elif sys.argv[1] == "get":
+        txget(*sys.argv[2:])
+    elif sys.argv[1] == "md":
+        md(get(*sys.argv[2:]))
+    else:
+        assert False
