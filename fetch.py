@@ -197,6 +197,12 @@ elif "promulgationsklausel" in normdata:
 else:
     introSentence = None
 
+# Extract Date
+dateStr = page.locator("#Title").inner_text().split()[-3:]
+assert dateStr[0] == "Fassung"
+assert dateStr[1] == "vom"
+dateStr = dateStr[2]
+
 # Remove all "sr-only" elements from the DOM tree
 page.locator(".sr-only").evaluate_all("els => els.forEach(el => el.remove())")
 
@@ -369,6 +375,7 @@ if "extratitles" in normdata:
     titles += normdata['extratitles']
 metaDataLines.append(f"**Kurztitel:** {', '.join(titles)}  ")
 metaDataLines.append(f"**Langtitel:** {langtitel}  ")
+metaDataLines.append(f"**Gesamte Rechtsvorschrift in der Fassung vom:** {dateStr}  ")
 metaDataLines.append(f"**Letzte Änderung:** {lastchange}  ")
 metaDataLines.append(f"**Quelle:** {normdata['docurl']}  ")
 metaDataLines.append(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/@RisExFile@  ")

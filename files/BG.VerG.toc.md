@@ -1,7 +1,8 @@
 # BG.VerG.TOC — Vereinsgesetz (VerG)
 **Typ:** Bundesgesetz  
-**Kurztitel:** VerG, VerG 2002  
+**Kurztitel:** VerG, VerG_2002  
 **Langtitel:** Bundesgesetz über Vereine (Vereinsgesetz 2002 – VerG)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 133/2024 (NR: GP XXVII IA 4123/A AB 2622 S. 274. BR: AB 11571 S. 970.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.toc.md  
@@ -44,33 +45,33 @@
 **4. Abschnitt**  
 
 **Vereinsgebarung**  
-* [§ 20 VerG # Informationspflicht](BG.VerG.001.md#-20-verg--informationspflicht)
-* [§ 21 VerG # Rechnungslegung](BG.VerG.001.md#-21-verg--rechnungslegung)
-* [§ 22 VerG # Qualifizierte Rechnungslegung für große Vereine](BG.VerG.001.md#-22-verg--qualifizierte-rechnungslegung-für-große-vereine)
+* [§ 20 VerG # Informationspflicht](BG.VerG.002.md#-20-verg--informationspflicht)
+* [§ 21 VerG # Rechnungslegung](BG.VerG.002.md#-21-verg--rechnungslegung)
+* [§ 22 VerG # Qualifizierte Rechnungslegung für große Vereine](BG.VerG.002.md#-22-verg--qualifizierte-rechnungslegung-für-große-vereine)
 
 **5. Abschnitt**  
 
 **Haftung**  
-* [§ 23 VerG # Haftung für Verbindlichkeiten des Vereins](BG.VerG.001.md#-23-verg--haftung-für-verbindlichkeiten-des-vereins)
-* [§ 24 VerG # Haftung von Organwaltern und Rechnungsprüfern](BG.VerG.001.md#-24-verg--haftung-von-organwaltern-und-rechnungsprüfern)
-* [§ 25 VerG # Geltendmachung von Ersatzansprüchen des Vereins](BG.VerG.001.md#-25-verg--geltendmachung-von-ersatzansprüchen-des-vereins)
-* [§ 26 VerG # Verzicht auf Ersatzansprüche durch den Verein](BG.VerG.001.md#-26-verg--verzicht-auf-ersatzansprüche-durch-den-verein)
+* [§ 23 VerG # Haftung für Verbindlichkeiten des Vereins](BG.VerG.002.md#-23-verg--haftung-für-verbindlichkeiten-des-vereins)
+* [§ 24 VerG # Haftung von Organwaltern und Rechnungsprüfern](BG.VerG.002.md#-24-verg--haftung-von-organwaltern-und-rechnungsprüfern)
+* [§ 25 VerG # Geltendmachung von Ersatzansprüchen des Vereins](BG.VerG.002.md#-25-verg--geltendmachung-von-ersatzansprüchen-des-vereins)
+* [§ 26 VerG # Verzicht auf Ersatzansprüche durch den Verein](BG.VerG.002.md#-26-verg--verzicht-auf-ersatzansprüche-durch-den-verein)
 
 **6. Abschnitt**  
 
 **Beendigung des Vereins**  
-* [§ 27 VerG # Ende der Rechtspersönlichkeit](BG.VerG.001.md#-27-verg--ende-der-rechtspersönlichkeit)
-* [§ 28 VerG # Freiwillige Auflösung](BG.VerG.001.md#-28-verg--freiwillige-auflösung)
-* [§ 29 VerG # Behördliche Auflösung](BG.VerG.001.md#-29-verg--behördliche-auflösung)
-* [§ 30 VerG # Abwicklung, Nachabwicklung](BG.VerG.001.md#-30-verg--abwicklung-nachabwicklung)
-* [§ 30a VerG # Umwandlung eines Vereins in eine Genossenschaft](BG.VerG.001.md#-30a-verg--umwandlung-eines-vereins-in-eine-genossenschaft)
+* [§ 27 VerG # Ende der Rechtspersönlichkeit](BG.VerG.002.md#-27-verg--ende-der-rechtspersönlichkeit)
+* [§ 28 VerG # Freiwillige Auflösung](BG.VerG.002.md#-28-verg--freiwillige-auflösung)
+* [§ 29 VerG # Behördliche Auflösung](BG.VerG.002.md#-29-verg--behördliche-auflösung)
+* [§ 30 VerG # Abwicklung, Nachabwicklung](BG.VerG.002.md#-30-verg--abwicklung-nachabwicklung)
+* [§ 30a VerG # Umwandlung eines Vereins in eine Genossenschaft](BG.VerG.002.md#-30a-verg--umwandlung-eines-vereins-in-eine-genossenschaft)
 
 **7. Abschnitt**  
 
 **Straf-, Übergangs- und Schlussbestimmungen**  
-* [§ 31 VerG # Strafbestimmung](BG.VerG.001.md#-31-verg--strafbestimmung)
-* [§ 32 VerG # Verweisungen](BG.VerG.001.md#-32-verg--verweisungen)
-* [§ 33 VerG # In-Kraft-Treten, Außer-Kraft-Treten und Übergangsbestimmungen](BG.VerG.001.md#-33-verg--in-kraft-treten-außer-kraft-treten-und-übergangsbestimmungen)
-* [§ 34 VerG # Vollziehung](BG.VerG.001.md#-34-verg--vollziehung)
+* [§ 31 VerG # Strafbestimmung](BG.VerG.002.md#-31-verg--strafbestimmung)
+* [§ 32 VerG # Verweisungen](BG.VerG.002.md#-32-verg--verweisungen)
+* [§ 33 VerG # In-Kraft-Treten, Außer-Kraft-Treten und Übergangsbestimmungen](BG.VerG.002.md#-33-verg--in-kraft-treten-außer-kraft-treten-und-übergangsbestimmungen)
+* [§ 34 VerG # Vollziehung](BG.VerG.002.md#-34-verg--vollziehung)
 
 `END-OF-TOC` *(fortges. in [BG.VerG.001](BG.VerG.001.md))*
