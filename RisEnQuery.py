@@ -254,6 +254,7 @@ _rex_fetch_cache = dict()
 _rex_selected = None
 _rex_index = _rex_rd_json("index.json")
 _rex_sorted_norms = tuple(sorted(_rex_index.keys()))
+_rex_is_upy = sys.implementation.name == 'micropython'
 
 def reload(count=None):
     """

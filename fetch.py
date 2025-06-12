@@ -371,6 +371,7 @@ metaDataLines.append(f"**Kurztitel:** {', '.join(titles)}  ")
 metaDataLines.append(f"**Langtitel:** {langtitel}  ")
 metaDataLines.append(f"**Letzte Änderung:** {lastchange}  ")
 metaDataLines.append(f"**Quelle:** {normdata['docurl']}  ")
+metaDataLines.append(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/@RisExFile@  ")
 metaDataLines.append("*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. " +
                      "(Irrtümer und Fehler vorbehalten.)*")
 
@@ -384,11 +385,11 @@ while blockIndex is not None and blockIndex < len(blocks):
         print(f"-- {normkey}.{fileIndex:03}.md --")
         outFile = open(f"files/{normkey}.{fileIndex:03}.md", "w")
 
-    print(f"# {normkey}.{fileIndex:03}", file=outFile)
+    print(f"# {normkey}.{fileIndex:03} — {normdata['caption']}", file=outFile)
     lineNum = 1
 
     for line in metaDataLines:
-        print(line, file=outFile)
+        print(line.replace("@RisExFile@", f"{normkey}.{fileIndex:03}.md"), file=outFile)
         lineNum += 1
 
     if fileIndex == 1:
@@ -499,9 +500,9 @@ if selectParagraph is None:
     outFile.close()
 
     outFile = open(f"files/{normkey}.toc.md", "w")
-    print(f"# {normkey} TOC", file=outFile)
+    print(f"# {normkey}.TOC — {normdata['caption']}", file=outFile)
     for line in metaDataLines:
-        print(line, file=outFile)
+        print(line.replace("@RisExFile@", f"{normkey}.toc.md"), file=outFile)
 
     print("", file=outFile)
     print("## Inhaltsverzeichnis", file=outFile)
