@@ -6,8 +6,6 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-Der Nationalrat hat beschlossen:
-
 ## Inhaltsverzeichnis
 
 **1. Abschnitt**  
@@ -74,4 +72,4 @@ Der Nationalrat hat beschlossen:
 * [§ 33 VerG # In-Kraft-Treten, Außer-Kraft-Treten und Übergangsbestimmungen](BG.VerG.001.md#-33-verg--in-kraft-treten-außer-kraft-treten-und-übergangsbestimmungen)
 * [§ 34 VerG # Vollziehung](BG.VerG.001.md#-34-verg--vollziehung)
 
-`END-OF-TOC`
+`END-OF-TOC` *(fortges. in [BG.VerG.001](BG.VerG.001.md))*

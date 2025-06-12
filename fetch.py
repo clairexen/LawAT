@@ -502,9 +502,6 @@ if selectParagraph is None:
     print(f"# {normkey} TOC", file=outFile)
     for line in metaDataLines:
         print(line, file=outFile)
-    if introSentence is not None:
-        print("", file=outFile)
-        print(introSentence, file=outFile)
 
     print("", file=outFile)
     print("## Inhaltsverzeichnis", file=outFile)
@@ -517,7 +514,7 @@ if selectParagraph is None:
             elif txt.startswith("### "):
                 print(f"* [{txt.removeprefix('### ')}]({fn}.md#{markdownHeaderToAnchor(txt)})", file=outFile)
 
-    print("\n`END-OF-TOC`", file=outFile)
+    print(f"\n`END-OF-TOC` *(fortges. in [{normkey}.001]({normkey}.001.md))*", file=outFile)
     outFile.close()
 
 if selectParagraph is None:
