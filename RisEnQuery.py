@@ -559,7 +559,7 @@ def hd(a):
         for line in s:
             if line.startswith("#"): print(line)
 
-def md(a):
+def md(*a):
     """
         Render markdown text to the console using rich.markdown
     """
@@ -598,33 +598,46 @@ def md(a):
 
     Heading.__rich_console__ = original__rich_console__
 
-def u(*a): txuntag(*a)
+# Output Helper Functions:
+# print ('untagged') plain (markdown) text
+def u(*a): tx(untag(*a))
 def uls(*a): tx(ls(*a))
+def uintro(*a): tx(intro(*a))
 def ufetch(*a): u(fetch(*a))
 def utoc(*a):   u(toc(*a))
 def uget(*a):   u(get(*a))
 def ugrep(*a):  u(grep(*a))
 
+# Output Helper Functions:
+# print ('untagged') rendered markdown text
+def v(*a): md(untag(*a))
+def vls(*a): tx(ls(*a))
+def vintro(*a): md(intro(*a))
+def vfetch(*a): v(fetch(*a))
+def vtoc(*a):   v(toc(*a))
+def vget(*a):   v(get(*a))
+def vgrep(*a):  v(grep(*a))
+
+# Output Helper Functions:
+# print plain (markdown) text
 def txfetch(*a): tx(fetch(*a))
 def txtoc(*a):   tx(toc(*a))
 def txget(*a):   tx(get(*a))
 def txgrep(*a):  tx(grep(*a))
 
+# Output Helper Functions:
+# print headers from markdown text
 def hdfetch(*a): hd(fetch(*a))
 def hdtoc(*a):   hd(toc(*a))
 def hdget(*a):   hd(get(*a))
 def hdgrep(*a):  hd(grep(*a))
 
+# Output Helper Functions:
+# print rendered markdown text
 def mdfetch(*a): md(fetch(*a))
 def mdtoc(*a):   md(toc(*a))
 def mdget(*a):   md(get(*a))
 def mdgrep(*a):  md(grep(*a))
-
-def txintro(*a): tx(intro(*a))
-def mdintro(*a): md(intro(*a))
-
-def txuntag(*a): tx(untag(*a))
-def mduntag(*a): md(untag(*a))
 
 if __name__ == "__main__" and len(sys.argv) > 1 and not _rex_disableMain:
     match sys.argv[1]:
@@ -641,7 +654,7 @@ if __name__ == "__main__" and len(sys.argv) > 1 and not _rex_disableMain:
         case "grep":
             txgrep(sys.argv[2], get(*sys.argv[3:]))
         case "untag":
-            txuntag(get(*sys.argv[2:]))
+            tx(untag(get(*sys.argv[2:])))
         case "get":
             txget(*sys.argv[2:])
         case "md":
