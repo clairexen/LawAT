@@ -11,17 +11,31 @@
 </head>
 <body>
 
-<h1>RisEnQuery Shell (Python REPL)</h1>
+<h1>RisEnQuery Shell (Using MicroPython REPL)</h1>
 
 <!-- begin terminal window -->
 <div id="new-terminal">
-<script id="python-terminal" type="mpy" terminal>
+<script id="python-terminal" type="mpy" terminal config='{
+	"packages": [
+	],
+	"files": {
+		"RisEnQuery.py": "/RisEnQuery.py",
+		"RisExData.json": "/RisExData.json"
+	}
+}'>
+print("Loading RisEnQuery.py and RisEnData.json.")
+exec(open("RisEnQuery.py").read().replace("#/#", "", 2))
+print("READY. Launching Python REPL.")
+
+print()
+print('# Usage Example: Liste der StGB §§ mit "verfälscht" und "Urkund" im Text')
+print('with sel("BG.StGB"): utoc(find("+verfälscht") & find("+Urkund"))')
+print()
+print('Run tx(intro()) to display a longer introduction to the RisEnQuery environment.')
+
 import code
 code.interact()
 </script>
-<!-- {'files':{'RisExFiles.zip':'/*'}} -->
-<script type="mpy" src="RisEnQuery.py" config='{"files":{"RisEnFiles.json":"/RisEnFiles.json"}}'></script>
-</div>
 
 <div class="old-terminal" id="old-terminal">
     <div class="menu">

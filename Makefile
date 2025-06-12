@@ -39,7 +39,11 @@ RisExFiles.zip: index.json files/*
 	rm -vf RisExFiles.zip
 	zip -vXj RisExFiles.zip -r files index.json
 
+json: RisExData.json
+RisExData.json: venv index.json files/*
+	.venv/bin/python3 mkjson.py
+
 purge:
-	rm -rf .venv RisExFiles.zip
+	rm -rf .venv RisExFiles.zip RisExData.json
 
 .PHONY: query help shell intro venv zip purge

@@ -11,10 +11,10 @@ Run `tx(intro())` (or `md(intro())`) for an introduction
 """
 
 _rex_src, _rex_repcnt = None, 0
-#/#_rex_src, _rex_repcnt = "RisExFiles.zip", 1  # replace(count=1)
-#/#_rex_src, _rex_repcnt = "RisExFiles.json", 2 # replace(count=2)
-#/#_rex_src, _rex_repcnt = "/mnd/data/RisExFiles.zip", 3  # replace(count=3)
-#/#_rex_src, _rex_repcnt = "/mnd/data/RisExFiles.json", 4 # replace(count=4)
+#/#_rex_src, _rex_repcnt = "RisExFiles.zip", 1 # replace(count=1)
+#/#_rex_src, _rex_repcnt = "RisExData.json", 2 # replace(count=2)
+#/#_rex_src, _rex_repcnt = "/mnd/data/RisExFiles.zip", 3 # replace(count=3)
+#/#_rex_src, _rex_repcnt = "/mnd/data/RisExData.json", 4 # replace(count=4)
 
 def intro():
     """
