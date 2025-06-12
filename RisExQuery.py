@@ -62,7 +62,7 @@ Example Session:
 ## Besonderer Teil # Erster Abschnitt # Strafbare Handlungen gegen Leib und Leben
 
 >>> tx(get("§ 71 StGB"))
-### § 71 StGB # Schädliche Neigung| BG.StGB.004:40-44
+### § 71 StGB # Schädliche Neigung | BG.StGB.004:40-44
 
 `§ 71 StGB.`
 Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind.
@@ -91,19 +91,19 @@ sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehu
 
 >>> tx(grep("Urkund", get("", "BG.StGB"))) # Volltextsuche nach "Urkund" im StGB
 
-## Achter Abschnitt # Begriffsbestimmungen| BG.StGB.004:11-12
+## Achter Abschnitt # Begriffsbestimmungen | BG.StGB.004:11-12
 
-### § 74 StGB # Andere Begriffsbestimmungen| BG.StGB.004:58-108
+### § 74 StGB # Andere Begriffsbestimmungen | BG.StGB.004:58-108
 
 Urkunde: eine Schrift, die errichtet worden ist, um ein Recht oder ein Rechtsverhältnis zu begründen, abzuändern oder aufzuheben oder eine Tatsache von rechtlicher Bedeutung zu beweisen;
 
-## Sechster Abschnitt # Strafbare Handlungen gegen fremdes Vermögen| BG.StGB.006:209-210
+## Sechster Abschnitt # Strafbare Handlungen gegen fremdes Vermögen | BG.StGB.006:209-210
 
-### § 147 StGB # Schwerer Betrug| BG.StGB.006:496-518
+### § 147 StGB # Schwerer Betrug | BG.StGB.006:496-518
 
 eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfremdetes unbares Zahlungsmittel, ausgespähte Daten eines unbaren Zahlungsmittels, falsche oder verfälschte Daten, ein anderes solches Beweismittel oder ein unrichtiges Meßgerät benützt oder
 
-### § 165 StGB # Geldwäscherei| BG.StGB.006:894-925
+### § 165 StGB # Geldwäscherei | BG.StGB.006:894-925
 ...
 ```
 
@@ -299,7 +299,7 @@ def get(searchPat: str, filePat: str = None):
     """
     outLines = list()
     for _, key in toc(searchPat, filePat):
-        outLines.append(fetch(key).replace("\n", f"| {key}\n", 1))
+        outLines.append(fetch(key).replace("\n", f" | {key}\n", 1))
     return "\n".join(outLines)
 
 def grep(grepPat: str, s: str):
