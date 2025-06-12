@@ -1,50 +1,50 @@
 {
-    "BG.StGB": {
-        "type": "BG",
-        "title": "StGB",
-        "split": 20000,
-        "stop": "§ 324",
-        "caption": "Strafgesetzbuch (StGB)",
-        "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296"
-    },
-    "BG.StPO": {
-        "type": "BG",
-        "title": "StPO",
-        "split": 20000,
-        "stop": "§ 517",
-        "caption": "Strafprozeßordnung (StPO)",
-        "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326"
-    },
-    "BG.ABGB": {
-        "type": "BG",
-        "title": "ABGB",
-        "split": 20000,
-        "stop": "§ 1503",
-        "caption": "Allgemeines bürgerliches Gesetzbuch (ABGB)",
-        "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622"
-    },
-    "BG.ZPO": {
-        "type": "BG",
-        "title": "ZPO",
-        "split": 20000,
-        "stop": "§ 637",
-        "caption": "Zivilprozessordnung (ZPO)",
-        "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699"
-    },
-    "BG.VerG": {
-        "type": "BG",
-        "title": "VerG",
-        "extratitles": ["VerG 2002"],
-        "caption": "Vereinsgesetz (VerG)",
-        "promulgationsklausel": "Der Nationalrat hat beschlossen:",
-        "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917"
-    },
-    "BG.StVO": {
-        "type": "BG",
-        "title": "StVO",
-        "split": 20000,
-        "stop": "§ 106",
-        "caption": "Straßenverkehrsordnung (StVO)",
-        "docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336"
-    }
+	"BG.StGB": {
+		"type": "BG",
+		"title": "StGB",
+		"split": 20000,
+		"stop": "§ 324",
+		"caption": "Strafgesetzbuch (StGB)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296"
+	},
+	"BG.StPO": {
+		"type": "BG",
+		"title": "StPO",
+		"split": 20000,
+		"stop": "§ 517",
+		"caption": "Strafprozeßordnung (StPO)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326"
+	},
+	"BG.ABGB": {
+		"type": "BG",
+		"title": "ABGB",
+		"split": 20000,
+		"stop": "§ 1503",
+		"caption": "Allgemeines bürgerliches Gesetzbuch (ABGB)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622"
+	},
+	"BG.ZPO": {
+		"type": "BG",
+		"title": "ZPO",
+		"split": 20000,
+		"stop": "§ 637",
+		"caption": "Zivilprozessordnung (ZPO)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699"
+	},
+	"BG.VerG": {
+		"type": "BG",
+		"title": "VerG",
+		"extratitles": ["VerG 2002"],
+		"caption": "Vereinsgesetz (VerG)",
+		"promulgationsklausel": "Der Nationalrat hat beschlossen:",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917"
+	},
+	"BG.StVO": {
+		"type": "BG",
+		"title": "StVO",
+		"split": 20000,
+		"stop": "§ 106",
+		"caption": "Straßenverkehrsordnung (StVO)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336"
+	}
 }

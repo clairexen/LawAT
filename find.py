@@ -63,16 +63,12 @@ for o, a in opts:
 
 if len(args) == 0:
     args = [defaultNorm]
-elif len(args) != 1:
+
+if len(args) != 1:
     usage()
     sys.exit(2)
 
-with open("index.json", "r") as f:
-    normindex = json.load(f)
-
-if (normkey := args[0]) not in normindex:
-    assert False, "unrecognized shortname"
-normdata = normindex[normkey]
+normkey = args[0]
 
 
 #%% Initialize Browser Context
@@ -103,6 +99,11 @@ if printHttpRequests:
 
 #%% Actual Playwright Script
 
+normdata = {
+    "type": normkey.split(".", 1)[0],
+    "title": normkey.split(".", 1)[1],
+}
+
 if normdata["type"] in ("BG", "BVG"):
     # Fill out search form
     page.goto("https://ris.bka.gv.at/Bundesrecht/")
@@ -118,14 +119,31 @@ if normdata["type"] in ("BG", "BVG"):
     page.wait_for_load_state()
 
     print(f"Document URL for {normkey}:", page.url)
-    normdata["docurl"] = page.url
+    docurl = page.url
+
+print("Opening {docurl}")
+os.system(f"xdg-open '{docurl}'")
+time.sleep(0.5)
+
+normdata["stop"] = input("Letzter paragraph (zB '§ 123a')? ")
+normdata["caption"] = input("Caption? ")
+normdata["docurl"] = docurl
 
 
 #%% Save Index + Shutdown Playwright
 
-with open("index.json", "w") as f:
-    json.dump(normindex, f, ensure_ascii=False, indent=4)
-    print(file=f)
+if True:
+    lines = open("index.json").read().split("\n")
+    assert lines[-1] == ""
+    assert lines[-2] == "}"
+    assert lines[-3] == "\t}"
+    del lines[-3:]
+    lines += ["\t},", f"\t\"{normkey}\": {{"]
+    lines += [f"\t\t\"{key}\": \"{value}\"," for key, value in normdata.items()]
+    lines[-1] = lines[-1].removesuffix(",")
+    lines += ["\t}", "}", ""]
+    open("index.json", "w").write("\n".join(lines))
+
 os.system("set -ex; zip -vXj RisExFiles.zip index.json")
 
 if launchInteractiveRepl:
