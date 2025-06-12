@@ -6,8 +6,6 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-Der Nationalrat hat beschlossen:
-
 ## Inhaltsverzeichnis
 
 **I. ABSCHNITT.**  
@@ -215,4 +213,4 @@ Der Nationalrat hat beschlossen:
 * [§ 105 StVO # Vollziehung.](BG.StVO.011.md#-105-stvo--vollziehung)
 * [§ 106 StVO # Bezugnahme auf Richtlinien](BG.StVO.011.md#-106-stvo--bezugnahme-auf-richtlinien)
 
-`END-OF-TOC`
+`END-OF-TOC` *(fortges. in [BG.StVO.001](BG.StVO.001.md))*
