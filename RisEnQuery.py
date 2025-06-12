@@ -240,8 +240,8 @@ elif _rex_src.endswith(".zip"):
 elif _rex_src.endswith(".json"):
     _rex_json = json.load(open(_rex_src))
     _rex_dir = set(_rex_json.keys())
-    _rex_rd_text = lambda fn: _rex_json[fn]
-    _rex_rd_json = lambda fn: _rex_json[fn]
+    _rex_rd_text = _rex_json.get
+    _rex_rd_json = _rex_json.get
 
 else:
     assert False, f"Unrecognized files extension: {_rex_src}"
