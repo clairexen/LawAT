@@ -2,6 +2,14 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
+"""
+# RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
+# Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
+
+Use with `from RisEnQuery import *`.
+Run `tx(intro())` (or `md(intro())`) for an introduction
+"""
+
 _rex_zipPath = "RisExFiles.zip"
 #/#_rex_zipPath = "/mnt/data/RisExFiles.zip"
 
@@ -484,7 +492,7 @@ def hd(s: str):
 
 def md(s: str):
     """
-        Render markdown text to the console using rich
+        Render markdown text to the console using rich.markdown
     """
     from rich.console import Console, ConsoleOptions, RenderResult
     from rich.markdown import Markdown
