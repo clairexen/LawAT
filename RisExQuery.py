@@ -89,6 +89,13 @@ für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere 
 `    c)`
 sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder
 
+>>> tx(toc(find("+verfälscht", "BG.StGB") & find("+Urkund", "BG.StGB"))) # Liste der StGB Paragraphen mit "verfälscht" und "Urkund" im Text
+### § 147 StGB # Schwerer Betrug | BG.StGB.006:496-518
+### § 223 StGB # Urkundenfälschung | BG.StGB.009:33-40
+### § 224a StGB # Annahme, Weitergabe oder Besitz falscher oder verfälschter besonders geschützter Urkunden | BG.StGB.009:46-50
+### § 226 StGB # Tätige Reue | BG.StGB.009:67-74
+### § 264 StGB # Verbreitung falscher Nachrichten bei einer Wahl oder Volksabstimmung | BG.StGB.010:218-225
+
 >>> tx(grep("Urkund", get("", "BG.StGB"))) # Volltextsuche nach "Urkund" im StGB
 
 ## Achter Abschnitt # Begriffsbestimmungen | BG.StGB.004:11-12
@@ -134,6 +141,9 @@ Funktionen:
   → Durchsucht .toc.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Zitiert die gefundenden Paragraphen vollständig.
 
+- find(searchPat, filePat=None):
+  → Ähnlich toc() und get(), aber gibt ein set von fetch keys zurück.
+
 - grep(grepPat, data):
   → Durchsucht die string(s) im zweiten Argument nach dem pattern.
 
@@ -160,7 +170,7 @@ Immer zuerst die Datenbank (RisExQuery.py und RisExFiles.zip) befragen, bevor in
 Normbegriffe können ähnlich, aber unterschiedlich zwischen Ländern oder Paragrafen sein.
 Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem Recht korrekt zitiert wird.
 
-Merksatz: "Immer zuerst toc() oder get() – nie raten."
+Merksatz: "Immer zuerst toc() oder get() – nie raten!"
 """
 
 import zipfile, json, os, sys, re, fnmatch
@@ -226,21 +236,25 @@ def pat(s: str) -> re.Pattern:
         Compile the given shell pattern or regex into
         a re.Pattern object and return it.
 
-        If 's' starts with a forward slash (/) then that
-        forward slash is removed from 's' and the remaining
-        string is treated as a regex.
+        If the pattern starts with a forward slash (/) then
+        that forward slash is removed from 's' and the
+        remaining string is treated as a regex.
+
+        If the pattern starts with an equal-sign (=) then
+        the remaining string is a fixed string, not
+        a pattern off any kind.
 
         Otherwise the string in 's' is treated as a
         shell pattern and is converted to a regex via
         fnmatch.translate().
 
+        If the pattern is prefixed with a plus sign (+) then
+        the pattern is applied to the entire text of the
+        sections being searched, not just the section header.
+
         In either case the special syntax <FROM-TO>
         (for example <12-345>) matches all integers
         in the specified range.
-
-        If 's' starts with an equal-sign (=) then
-        the remaining string is a fixed string, not
-        a pattern off any kind.
     """
 
     if type(s) is re.Pattern:
@@ -254,11 +268,14 @@ def pat(s: str) -> re.Pattern:
             return rangeRegex(min(n, m), max(n, m))
         return re.sub(r"<(\d+)\\?-(\d+)>", replacer, s)
 
+    matchFullTextTag = "(?#MatchFullTextTag)" if s.startswith("+") else ""
+    s = s.removeprefix("+")
+
     if s.startswith("/"):
-        return re.compile(handleRangePatterns(s[1:]))
+        return re.compile(matchFullTextTag + handleRangePatterns(s[1:]))
     if s.startswith("="):
-        return re.compile(re.escape(s[1:]))
-    return re.compile(handleRangePatterns(fnmatch.translate(s).removesuffix("\\Z")))
+        return re.compile(matchFullTextTag + re.escape(s[1:]))
+    return re.compile(matchFullTextTag + handleRangePatterns(fnmatch.translate(s).removesuffix("\\Z")))
 
 def toc(searchPat: str, filePat: str = None):
     """
@@ -271,10 +288,17 @@ def toc(searchPat: str, filePat: str = None):
         the files that belong to a norm.
 
         See pat() for details on the pattern syntax.
+
+        In addition, searchPat may also be a set of fetch keys,
+        such as returned by find().
     """
 
+    setMode = type(searchPat) is set
+
     matches = list()
-    searchPat = pat(searchPat)
+    if not setMode:
+        searchPat = pat(searchPat)
+        fullTextMode = searchPat.pattern.startswith("(?#MatchFullTextTag)")
 
     tocFiles = ls(r"/[A-Z]+\.[A-Za-z]+\.*\.toc\.json")
     if filePat is not None:
@@ -286,11 +310,24 @@ def toc(searchPat: str, filePat: str = None):
     for fn in tocFiles:
         for tf, items in fetch(fn).items():
             for i in range(len(items)-1):
-                if searchPat.search(items[i][1]):
-                    n, m = items[i][0], items[i+1][0]-1
-                    matches.append((items[i][1], f"{tf}:{n}-{m}"))
+                n, m = items[i][0], items[i+1][0]-1
+                key = f"{tf}:{n}-{m}"
+                if setMode:
+                    if key in searchPat:
+                        matches.append((items[i][1], key))
+                elif fullTextMode:
+                    if searchPat.search(fetch(key)):
+                        matches.append((items[i][1], key))
+                elif searchPat.search(items[i][1]):
+                    matches.append((items[i][1], key))
 
     return matches
+
+def find(searchPat: str, filePat: str = None):
+    """
+        Like toc() but return a set of fetch keys.
+    """
+    return {key for _, key in toc(searchPat, filePat)}
 
 def get(searchPat: str, filePat: str = None):
     """
