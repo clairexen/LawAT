@@ -10,8 +10,9 @@ Use with `from RisEnQuery import *`.
 Run `tx(intro())` (or `md(intro())`) for an introduction
 """
 
+_rex_disableMain = False
 _rex_zipPath = "RisExFiles.zip"
-#/#_rex_zipPath = "/mnt/data/RisExFiles.zip"
+#/#_rex_zipPath = "/mnt/data/RisExFiles.zip"; _rex_disableMain = True
 
 def intro():
     """
@@ -473,24 +474,26 @@ def untag(s: str):
 
     return "\n".join(outLines)
 
-def tx(s: str):
+def tx(*a):
     """
         Print (markdown or any other) text to the console as-is
     """
-    if type(s) is not str:
-        s = "\n".join([f"{t[0]} | {t[1]}" if type(t) is tuple else t for t in s]) + "\n"
-    print(s)
+    for s in a:
+        if type(s) is not str:
+            s = "\n".join([f"{t[0]} | {t[1]}" if type(t) is tuple else t for t in s]) + "\n"
+        print(s)
 
-def hd(s: str):
+def hd(a):
     """
         Print only the headers from the given markdown text
     """
-    if type(s) is str:
-        s = s.split("\n")
-    for line in s:
-        if line.startswith("#"): print(line)
+    for s in a:
+        if type(s) is str:
+            s = s.split("\n")
+        for line in s:
+            if line.startswith("#"): print(line)
 
-def md(s: str):
+def md(a):
     """
         Render markdown text to the console using rich.markdown
     """
@@ -519,13 +522,24 @@ def md(s: str):
                 yield Text("")
             yield text
 
-    if type(s) is not str:
-        s = "\n".join([f"{t[0]} | {t[1]}" if type(t) is tuple else t for t in s]) + "\n"
-
     original__rich_console__ = Heading.__rich_console__
     Heading.__rich_console__ = replacement__rich_console__
-    Console().print(Markdown(s))
+
+    for s in a:
+        if type(s) is not str:
+            s = "\n".join([f"{t[0]} | {t[1]}" if type(t) is tuple else t for t in s]) + "\n"
+        Console().print(Markdown(s))
+
     Heading.__rich_console__ = original__rich_console__
+
+def u(*a):
+    for s in a:
+        txuntag(s)
+
+def ufetch(*a): u(fetch(*a))
+def utoc(*a):   u(toc(*a))
+def uget(*a):   u(get(*a))
+def ugrep(*a):  u(grep(*a))
 
 def txintro(*a): tx(intro(*a))
 def txls(*a):    tx(ls(*a))
@@ -551,7 +565,7 @@ def mdget(*a):   md(get(*a))
 def mdgrep(*a):  md(grep(*a))
 def mduntag(*a): md(untag(*a))
 
-if __name__ == "__main__" and len(sys.argv) > 1:
+if __name__ == "__main__" and len(sys.argv) > 1 and not _rex_disableMain:
     match sys.argv[1]:
         case "intro":
             txintro()
