@@ -106,23 +106,29 @@ class RisExAST {
 		// this.set("path", getCssSelector(baseElement));
 	}
 
-	set(key, value, overwrite=false) {
-		if (overwrite || !(key in this.properties))
-			this.properties[key] = value;
+	set(key, value) {
+		this.properties[key] = value;
 	}
 
-	get(key, defaultValue=null) {
+	get(key, defaultValue=undefined) {
 		if (key in this.properties)
 			return this.properties[key];
 		return defaultValue;
 	}
 
 	visitElement(el) {
+		if (el.tagName == "H5" && el.classList.contains("GldSymbol"))
+			return;
+
+		if (el.tagName == "DIV" && el.classList.contains("MarginTop4"))
+			return el.querySelectorAll(":scope > *").
+					forEach(child => this.visitElement(child));
+
 		let ast = new RisExAST(this, el);
 
 		if (el.tagName == "H4") {
 			if (el.classList.contains("UeberschrPara"))
-				return ast.parseParHeading();
+				return ast.parseTitle();
 			return ast.parseHeading();
 		}
 
@@ -151,8 +157,8 @@ class RisExAST {
 		this.set("text", getVisibleTextTree(this.baseElement));
 	}
 
-	parseParHeading() {
-		this.set("type", "ParHead");
+	parseTitle() {
+		this.set("type", "Title");
 		this.set("text", getVisibleTextTree(this.baseElement));
 	}
 
@@ -194,16 +200,16 @@ class RisExAST {
 		this.set("text", getVisibleTextTree(this.baseElement));
 	}
 
-	parseBlock() {
-		this.set("type", "Blk");
+	parsePar() {
+		this.set("type", "Par");
 		this.contentElement = this.baseElement.querySelector(
 				":scope > div.embeddedContent > div > div.contentBlock");
 		this.contentElement.querySelectorAll(":scope > *").forEach(item =>
 				this.visitElement(item));
 	}
 
-	getTextTree(a, indent="", skipFirstSpace=false) {
-		let s = ["["];
+	getTextTree(a, indent="", skipFirstSpace=false, unpack=false) {
+		let s = [unpack ? "" : "["];
 		for (let t of a) {
 			s.push(",\n  " + indent);
 			if (Array.isArray(t))
@@ -211,7 +217,8 @@ class RisExAST {
 			else
 				s.push("\"" + t + "\"");
 		}
-		s.push("\n" + indent + "]");
+		if (!unpack)
+			s.push("\n" + indent + "]");
 
 		s = s.join("");
 		if (skipFirstSpace)
@@ -224,7 +231,43 @@ class RisExAST {
 		return s;
 	}
 
-	getJSON(indent="") {
+	getJSON(verbose=false, indent="") {
+		if (!verbose) {
+			let tag;
+
+			if (this.get("type") == "Par")
+				tag = "Par " + this.get("par")
+
+			if (this.get("type") == "Head" || this.get("type") == "Title")
+				tag = this.get("type")
+
+			if (this.get("type") == "AbsLst" || this.get("type") == "NumLst" ||
+					this.get("type") == "LitLst" || this.get("type") == "Txt")
+				tag = this.get("type")
+
+			if (this.get("type") == "Item")
+				tag = "Item " + this.get("sym")
+
+			if (tag) {
+				let s = [indent + "[\"" + tag + "\""];
+
+				if ("text" in this.properties) {
+					s.push(this.getTextTree(this.properties["text"], indent, false, true));
+				}
+
+				if (this.children.length) {
+					for (let i = 0; i < this.children.length; i++) {
+						const child = this.children[i];
+						s.push(",\n" + this.children[i].
+								getJSON(verbose, indent + "  "));
+					}
+				}
+
+				s.push("]");
+				return s.join("");
+			}
+		}
+
 		let s = [indent + "{\"type\": \"" + this.get("type") + "\""];
 
 		for (const key in this.properties) {
@@ -243,7 +286,7 @@ class RisExAST {
 			for (let i = 0; i < this.children.length; i++) {
 				const child = this.children[i];
 				s.push(i ? ",\n" : "\n");
-				s.push(this.children[i].getJSON(indent + "  "));
+				s.push(this.children[i].getJSON(verbose, indent + "  "));
 			}
 			s.push("\n" + indent + "]");
 		}
@@ -256,8 +299,8 @@ class RisExAST {
 function risExtractor(parName) {
 	let el = risContentBlocks[parName];
 	let ast = new RisExAST(null, el);
-	ast.set("parName", parName);
-	ast.parseBlock();
+	ast.set("par", parName);
+	ast.parsePar();
 	risExtractor.debugAst = ast;
 	return ast.getJSON();
 }
