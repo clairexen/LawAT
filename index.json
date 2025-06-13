@@ -45,6 +45,10 @@
 		"title": "StVO",
 		"split": 20000,
 		"stop": "§ 106",
+		"force_erl_ueberschr": [
+			"2c.\n„Kennzeichnung eines Schutzweges und einer Radfahrerüberfahrt“",
+			"2d.\nUnterführung", "a)", "b)", "c)", "d)"
+		],
 		"caption": "Straßenverkehrsordnung (StVO)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336"
 	},

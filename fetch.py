@@ -3,7 +3,7 @@
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
 from playwright.sync_api import sync_playwright, Locator
-import time, getopt, sys, json, os, re
+import time, getopt, sys, json, os, re, fnmatch
 from urllib.parse import urljoin
 from ptpython.repl import embed
 from pathlib import Path
@@ -124,6 +124,13 @@ with open("index.json", "r") as f:
 if (normkey := args[0]) not in normindex:
     assert False, "unrecognized shortname"
 normdata = normindex[normkey]
+
+force_erl_ueberschr = None
+if 'force_erl_ueberschr' in normdata:
+    force_erl_ueberschr = re.compile("|".join([
+        fnmatch.translate(p) # .removesuffix("\\Z")
+        for p in normdata['force_erl_ueberschr']
+    ]))
 
 filePatterns = [
     f"{normkey}.[0-9][0-9][0-9].md",
@@ -261,6 +268,11 @@ def processContentElement(el, outbuf, parName = None):
 
     def handleList():
         nonlocal outbuf
+        if force_erl_ueberschr is not None and \
+                el.locator(":scope > li").count() == 1 and \
+                force_erl_ueberschr.match(txt):
+            handleText("p", False, True, txtOverwrite=txt.replace("\n", " "))
+            return
         for item in el.locator(":scope > li").all():
             znr = item.locator(":scope > .SymE0, :scope > .SymE1, :scope > .SymE2")
             if znr.count() == 0: znr = item.locator(".Absatzzahl")
@@ -281,7 +293,7 @@ def processContentElement(el, outbuf, parName = None):
                 if "GldSymbolFloatLeft" in item.get_attrset("class"): continue
                 processContentElement(e, outbuf, subName)
 
-    def handleText(br = False, absHack = False, bold = False):
+    def handleText(br = False, absHack = False, bold = False, txtOverwrite = None):
         nonlocal outbuf
         if br == "p":
             if len(outbuf) and not outbuf[-1] == "":
@@ -289,7 +301,7 @@ def processContentElement(el, outbuf, parName = None):
         elif br:
             if len(outbuf) and not outbuf[-1].endswith("  "):
                 outbuf[-1] += "  "
-        tx = el.stripped_text()
+        tx = el.stripped_text() if txtOverwrite is None else txtOverwrite
         if absHack and (n := el.locator(":scope > .Absatzzahl")).count():
             tx = tx.removeprefix(n.stripped_text())
         if bold:

@@ -122,14 +122,14 @@ Dieses Zeichen kündigt ein starkes Gefälle der Straße an. Das Gefälle ist in
 Dieses Zeichen kündigt eine starke Steigung der Straße an. Die Steigung ist in Prozenten anzugeben und hat sich auf den steilsten Teil der Strecke zu beziehen.
 
 **8. „FAHRBAHNVERENGUNG“**  
-`§ 50 lit. a) StVO.`
-  
+
+**a)**  
 ![BG.StVO.obj.BN.NOR40081328.image021.png](BG.StVO.obj.BN.NOR40081328.image021.png "~/Dokumente/Bundesnormen/NOR40081328/image021.png")  
-`§ 50 lit. b) StVO.`
-  
+
+**b)**  
 ![BG.StVO.obj.BN.NOR40081328.image022.png](BG.StVO.obj.BN.NOR40081328.image022.png "~/Dokumente/Bundesnormen/NOR40081328/image022.png")  
-`§ 50 lit. c) StVO.`
-  
+
+**c)**  
 ![BG.StVO.obj.BN.NOR40081328.image023.png](BG.StVO.obj.BN.NOR40081328.image023.png "~/Dokumente/Bundesnormen/NOR40081328/image023.png")  
 Diese Zeichen kündigen  
 `§ 50 lit. a) StVO.`
@@ -424,11 +424,11 @@ Dieses Zeichen zeigt an, dass Lenker von einspurigen Fahrrädern nur den Radweg 
 Dieses Zeichen zeigt einen Gehweg an.
 
 **17a. „GEH- UND RADWEG“**  
-`§ 52 lit. a) StVO.`
-  
+
+**a)**  
 ![BG.StVO.obj.BN.NOR40261453.H.img50is.png](BG.StVO.obj.BN.NOR40261453.H.img50is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img50is.png")  
-`§ 52 lit. b) StVO.`
-  
+
+**b)**  
 ![BG.StVO.obj.BN.NOR40261453.H.img51is.png](BG.StVO.obj.BN.NOR40261453.H.img51is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img51is.png")  
 Diese Zeichen zeigen einen Geh- und Radweg an, und zwar ein Zeichen nach a) einen für Fußgänger und Radfahrer gemeinsam zu benützenden Geh- und Radweg und ein Zeichen nach b) einen Geh- und Radweg, bei dem der Fußgänger- und Fahrradverkehr getrennt geführt werden, wobei die Symbole im Zeichen nach b) der tatsächlichen Verkehrsführung entsprechend anzuordnen sind (Fußgänger rechts, Fahrrad links oder umgekehrt).
 
@@ -499,13 +499,13 @@ Dieses Zeichen kennzeichnet einen Schutzweg (§ 2 Abs. 1 Z 12), bei dem stän
 
 **2b. „KENNZEICHNUNG EINER RADFAHRERÜBERFAHRT“**  
 ![BG.StVO.obj.BN.NOR40261454.H.img6is.png](BG.StVO.obj.BN.NOR40261454.H.img6is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img6is.png")  
-Dieses Zeichen kennzeichnet eine Radfahrerüberfahrt (§ 2 Abs. 1 Z 12a), bei der ständig betriebene Lichtzeichen zur Regelung des Verkehrs oder zur Abgabe blinkenden gelben Lichtes nicht vorhanden sind. Für die Anbringung dieses Zeichens gelten die diesbezüglichen Bestimmungen der Z 2a sinngemäß.  
-`§ 53 Z 2c StVO.`
-„Kennzeichnung eines Schutzweges und einer Radfahrerüberfahrt“  
+Dieses Zeichen kennzeichnet eine Radfahrerüberfahrt (§ 2 Abs. 1 Z 12a), bei der ständig betriebene Lichtzeichen zur Regelung des Verkehrs oder zur Abgabe blinkenden gelben Lichtes nicht vorhanden sind. Für die Anbringung dieses Zeichens gelten die diesbezüglichen Bestimmungen der Z 2a sinngemäß.
+
+**2c. „Kennzeichnung eines Schutzweges und einer Radfahrerüberfahrt“**  
 ![BG.StVO.obj.BN.NOR40261454.H.img7is.jpg](BG.StVO.obj.BN.NOR40261454.H.img7is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img7is.jpg")  
-Dieses Zeichen kennzeichnet die Fortsetzung eines Geh- und Radwegs sowie eines gemeinsam geführten Geh- und Radwegs für die Überquerung der Fahrbahn durch Fußgänger und Radfahrer. Für die Anbringung dieses Zeichens gelten die Bestimmungen der Z 2a sinngemäß.  
-`§ 53 Z 2d StVO.`
-Unterführung  
+Dieses Zeichen kennzeichnet die Fortsetzung eines Geh- und Radwegs sowie eines gemeinsam geführten Geh- und Radwegs für die Überquerung der Fahrbahn durch Fußgänger und Radfahrer. Für die Anbringung dieses Zeichens gelten die Bestimmungen der Z 2a sinngemäß.
+
+**2d. Unterführung**  
 ![BG.StVO.obj.BN.NOR40261454.H.img8is.png](BG.StVO.obj.BN.NOR40261454.H.img8is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img8is.png")  
 Dieses Zeichen kennzeichnet eine Fußgängerunterführung.
 
@@ -659,27 +659,27 @@ Dieses Zeichen zeigt vor einer Kreuzung den Weg zu einer Autobahn oder Autostra�
 Diese Zeichen zeigen im Bereich einer Kreuzung den Weg zu einer Autobahn oder Autostraße an. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten läßt.
 
 **15a. „VORWEGWEISER - AUTOBAHN ODER AUTOSTRASSE“**  
-`§ 53 lit. a) StVO.`
-  
+
+**a)**  
 ![BG.StVO.obj.BN.NOR40261454.H.img50is.jpg](BG.StVO.obj.BN.NOR40261454.H.img50is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img50is.jpg")  
-`§ 53 lit. b) StVO.`
-  
+
+**b)**  
 ![BG.StVO.obj.BN.NOR40261454.H.img51is.jpg](BG.StVO.obj.BN.NOR40261454.H.img51is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img51is.jpg")  
-`§ 53 lit. c) StVO.`
-  
+
+**c)**  
 ![BG.StVO.obj.BN.NOR40261454.H.img52is.png](BG.StVO.obj.BN.NOR40261454.H.img52is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img52is.png")  
-`§ 53 lit. d) StVO.`
-  
+
+**d)**  
 ![BG.StVO.obj.BN.NOR40261454.H.img53is.jpg](BG.StVO.obj.BN.NOR40261454.H.img53is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img53is.jpg")  
 Diese Zeichen zeigen den weiteren Verlauf einer Autobahn oder Autostraße und die nächste Ausfahrt an. Ein Zeichen nach a) ist etwa 1000 m, ein Zeichen nach b) etwa 700 m oder, wenn ein Zeichen nach c) nicht angebracht wird, etwa 500 m, ein Zeichen nach c) etwa 400 m vor dem Beginn einer Ausfahrt aus einer Autobahn oder Autostraße anzubringen; ein Zeichen nach d) ist etwa 1000 m vor dem Beginn einer Ausfahrt zu einer anderen Autobahn oder Autostraße anzubringen.  
 Die Aufschriften (und allfällige Symbole) auf einem Zeichen nach c) - ausgenommen die Bezeichnung der Anschlußstelle - hat die Landesregierung auf Antrag von Fremdenverkehrsorganisationen oder von Gemeinden unter Bedachtnahme darauf zu bestimmen, dass die Information einem vordringlichen Bedürfnis der Straßenbenützer dient oder für diese immerhin von erheblichem Interesse ist. Die Kosten für die Anbringung und Erhaltung eines Zeichens nach c) sind von demjenigen zu tragen, der die Anbringung dieses Zeichens beantragt.
 
 **15b. „AUSFAHRTSWEGWEISER - AUTOBAHN ODER AUTOSTRASSE“**  
-`§ 53 lit. a) StVO.`
-  
+
+**a)**  
 ![BG.StVO.obj.BN.NOR40261454.H.img54is.png](BG.StVO.obj.BN.NOR40261454.H.img54is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img54is.png")  
-`§ 53 lit. b) StVO.`
-  
+
+**b)**  
 ![BG.StVO.obj.BN.NOR40261454.H.img55is.png](BG.StVO.obj.BN.NOR40261454.H.img55is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img55is.png")  
 ![BG.StVO.obj.BN.NOR40261454.H.img56is.png](BG.StVO.obj.BN.NOR40261454.H.img56is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img56is.png")  
 Diese Zeichen zeigen eine Ausfahrt aus einer Autobahn oder Autostraße an. Ein Zeichen nach a) ist am Beginn der Ausfahrt, ein Zeichen nach b) am Ende der Ausfahrt auf der linken Seite anzubringen.
@@ -697,11 +697,11 @@ Dieses Zeichen kündigt den Verlauf einer Umleitung an. Im Zeichen kann angegebe
 Diese Zeichen zeigen eine Umleitung des Verkehrs an. Ist auf einem solchen Zeichen ein Symbol für eine bestimmte Fahrzeugart angebracht, so bedeutet dies, dass die Umleitung nur für Fahrzeuge der betreffenden Fahrzeugart gilt.
 
 **16c. „WECHSEL DER RICHTUNGSFAHRBAHN“**  
-`§ 53 lit. a) StVO.`
-  
+
+**a)**  
 ![BG.StVO.obj.BN.NOR40261454.H.img60is.png](BG.StVO.obj.BN.NOR40261454.H.img60is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img60is.png")  
-`§ 53 lit. b) StVO.`
-  
+
+**b)**  
 ![BG.StVO.obj.BN.NOR40261454.H.img61is.png](BG.StVO.obj.BN.NOR40261454.H.img61is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img61is.png")  
 Diese Zeichen kündigen auf Straßen mit Richtungsfahrbahnen einen Wechsel der Richtungsfahrbahn an, und zwar ein Zeichen nach a) die Überleitung des Verkehrs von einer dann gesperrten Richtungsfahrbahn auf die Gegenfahrbahn, ein Zeichen nach b) die Rückleitung zum getrennten Richtungsverkehr. Auf den Zeichen ist die Anzahl und der Verlauf der zur Verfügung stehenden Fahrstreifen anzuzeigen. In den Pfeilen können auch Hinweise auf Beschränkungen oder Verbote enthalten sein. Auf den Zeichen können auch Entfernungsangaben angebracht werden.
 
@@ -797,21 +797,21 @@ Die Zusatztafeln sind Straßenverkehrszeichen. Sie sind, sofern sich aus den Bes
 Zusatztafeln dürfen nicht verwendet werden, wenn ihre Bedeutung durch ein anderes Straßenverkehrszeichen (§§ 50, 52 und 53) zum Ausdruck gebracht werden kann.
 
 `§ 54 (5) StVO.`  
-Die nachstehenden Zusatztafeln bedeuten:  
-`§ 54 (5) lit. a) StVO.`
-  
+Die nachstehenden Zusatztafeln bedeuten:
+
+**a)**  
 ![BG.StVO.obj.BN.NOR40245684.image001.png](BG.StVO.obj.BN.NOR40245684.image001.png "~/Dokumente/Bundesnormen/NOR40245684/image001.png")  
-Eine solche Zusatztafel gibt die Entfernung bis zu der Straßenstelle an, auf die sich das betreffende Straßenverkehrszeichen bezieht.  
-`§ 54 lit. b) StVO.`
-  
+Eine solche Zusatztafel gibt die Entfernung bis zu der Straßenstelle an, auf die sich das betreffende Straßenverkehrszeichen bezieht.
+
+**b)**  
 ![BG.StVO.obj.BN.NOR40245684.image002.png](BG.StVO.obj.BN.NOR40245684.image002.png "~/Dokumente/Bundesnormen/NOR40245684/image002.png")  
-Eine solche Zusatztafel gibt die Länge eines Straßenabschnittes an, für den das betreffende Straßenverkehrszeichen gilt, wie etwa eine längere Gefahrenstelle, die Länge einer Verbots- oder Beschränkungsstrecke u. dgl.  
-`§ 54 lit. c) StVO.`
-  
+Eine solche Zusatztafel gibt die Länge eines Straßenabschnittes an, für den das betreffende Straßenverkehrszeichen gilt, wie etwa eine längere Gefahrenstelle, die Länge einer Verbots- oder Beschränkungsstrecke u. dgl.
+
+**c)**  
 ![BG.StVO.obj.BN.NOR40245684.image003.png](BG.StVO.obj.BN.NOR40245684.image003.png "~/Dokumente/Bundesnormen/NOR40245684/image003.png")  
-Eine solche Zusatztafel unter dem Zeichen „Vorrang geben“ kündigt das Zeichen „Halt“ an (§ 48 Abs. 6).  
-`§ 54 lit. d) StVO.`
-  
+Eine solche Zusatztafel unter dem Zeichen „Vorrang geben“ kündigt das Zeichen „Halt“ an (§ 48 Abs. 6).
+
+**d)**  
 ![BG.StVO.obj.BN.NOR40245684.image004.png](BG.StVO.obj.BN.NOR40245684.image004.png "~/Dokumente/Bundesnormen/NOR40245684/image004.png")  
 Eine solche Zusatztafel unter den Zeichen „Vorrang geben“ oder „Halt“ zeigt an, dass die Querstraße eine Vorrangstraße ist.  
 `§ 54 lit. e) StVO.`
