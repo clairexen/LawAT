@@ -52,10 +52,10 @@ def fetchObject(img_src):
     filename = filename.replace(".hauptdokument.", ".H.")
     assert ".~." not in filename
 
-    img_url = urljoin(page.url, img_src)
-    response = page.request.get(img_url)
-    assert response.ok, f"Failed to fetch image: {response.status}"
     if not (p := Path(f"files/{filename}")).is_file():
+        img_url = urljoin(page.url, img_src)
+        response = page.request.get(img_url)
+        assert response.ok, f"Failed to fetch image: {response.status}"
         p.write_bytes(response.body())
         os.system(f"set -ex; zip -vXj RisExFiles.zip files/{filename}")
     return filename
@@ -125,11 +125,19 @@ if (normkey := args[0]) not in normindex:
     assert False, "unrecognized shortname"
 normdata = normindex[normkey]
 
+force_erl_item = None
+if 'force_erl_item' in normdata:
+    force_erl_item = re.compile("|".join([
+        f"(?:{p[1:]})" if p.startswith("/") else
+        fnmatch.translate(p).removesuffix("\\Z")
+        for p in normdata['force_erl_item']
+    ]))
+
 force_erl_ueberschr = None
 if 'force_erl_ueberschr' in normdata:
     force_erl_ueberschr = re.compile("|".join([
-        f"(?:{p[1:]})" if p.startswith("/") else
-        fnmatch.translate(p) # .removesuffix("\\Z")
+        f"(?:{p[1:]})\\Z" if p.startswith("/") else
+        fnmatch.translate(p)
         for p in normdata['force_erl_ueberschr']
     ]))
 
@@ -269,12 +277,19 @@ def processContentElement(el, outbuf, parName = None):
 
     def handleList():
         nonlocal outbuf
-        if force_erl_ueberschr is not None and \
-                el.locator(":scope > li").count() == 1 and \
-                force_erl_ueberschr.match(txt):
-            handleText("p", False, True, txtOverwrite=txt.replace("\n", " "))
-            return
         for item in el.locator(":scope > li").all():
+            if force_erl_item is not None and \
+                    force_erl_item.match(tx := item.stripped_text().replace("\xa0", " ")):
+                pf = item.locator(":scope > .SymE0, :scope > .SymE1, :scope > .SymE2").stripped_text()
+                tx = tx.removeprefix(pf).replace("\n", " ").strip()
+                handleText("p", False, False, txtOverwrite=f"**{pf}** {tx}")
+                continue
+
+            if force_erl_ueberschr is not None and \
+                    force_erl_ueberschr.match(tx := item.stripped_text().replace("\xa0", " ")):
+                handleText("p", False, True, txtOverwrite=tx.replace("\n", " "))
+                continue
+
             znr = item.locator(":scope > .SymE0, :scope > .SymE1, :scope > .SymE2")
             if znr.count() == 0: znr = item.locator(".Absatzzahl")
             znr = znr.stripped_text().removesuffix(".")

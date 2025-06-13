@@ -45,6 +45,11 @@
 		"title": "StVO",
 		"split": 20000,
 		"stop": "§ 106",
+		"force_erl_item": [
+			"a)\nEine Zusatztafel mit der Angabe bestimmter Stunden*",
+			"b)\neine Zusatztafel mit der Angabe bestimmter Tage*",
+			"c)\neine Zusatztafel mit Pfeilen den Verlauf des*"
+		],
 		"force_erl_ueberschr": [
 			"2c.\n„Kennzeichnung eines Schutzweges und einer Radfahrerüberfahrt“",
 			"2d.\nUnterführung", "[a-z])", "/ *n\\)\\Z"

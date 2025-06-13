@@ -361,12 +361,12 @@ Dieses Zeichen zeigt eine Zollstelle an, bei der zwecks Zollkontrolle anzuhalten
 Dieses Zeichen zeigt mit der Zusatztafel „ANFANG“ den Beginn und mit der Zusatztafel „ENDE“ das Ende eines Straßenabschnittes an, in dem das Parken verboten ist. Das Verbot bezieht sich auf die Straßenseite, auf der sich dieses Zeichen befindet.
 
 **Folgende unter dem Zeichen angebrachte Zusatztafeln zeigen an:**  
-`§ 52 lit. a) StVO.`
-Eine Zusatztafel mit der Angabe bestimmter Stunden, dass das Verbot während der angegebenen Stunden gilt;  
-`§ 52 lit. b) StVO.`
-eine Zusatztafel mit der Angabe bestimmter Tage, dass das Verbot an den angegebenen Tagen gilt; beginnt das Verbot nicht um 00 Uhr oder endet es nicht um 24 Uhr, so ist auf der Zusatztafel überdies auch noch der Zeitpunkt des Beginnes oder des Endes des Verbotes anzugeben;  
-`§ 52 lit. c) StVO.`
-eine Zusatztafel mit Pfeilen den Verlauf des Straßenabschnittes, in dem das Verbot gilt; solche Pfeile können statt auf einer Zusatztafel auch im Zeichen selbst angebracht werden, sind dort aber in weißer Farbe auszuführen. Wenn der Geltungsbereich des Verbotes auf diese Weise unmißverständlich zum Ausdruck gebracht werden kann, so genügt ein Vorschriftszeichen.
+
+**a)** Eine Zusatztafel mit der Angabe bestimmter Stunden, dass das Verbot während der angegebenen Stunden gilt;
+
+**b)** eine Zusatztafel mit der Angabe bestimmter Tage, dass das Verbot an den angegebenen Tagen gilt; beginnt das Verbot nicht um 00 Uhr oder endet es nicht um 24 Uhr, so ist auf der Zusatztafel überdies auch noch der Zeitpunkt des Beginnes oder des Endes des Verbotes anzugeben;
+
+**c)** eine Zusatztafel mit Pfeilen den Verlauf des Straßenabschnittes, in dem das Verbot gilt; solche Pfeile können statt auf einer Zusatztafel auch im Zeichen selbst angebracht werden, sind dort aber in weißer Farbe auszuführen. Wenn der Geltungsbereich des Verbotes auf diese Weise unmißverständlich zum Ausdruck gebracht werden kann, so genügt ein Vorschriftszeichen.
 Die Anbringung weiterer Angaben auf den unter lit. a bis c angeführten Zusatztafeln sowie die Anbringung von Zusatztafeln mit anderen Angaben ist unbeschadet des § 51 Abs. 3 zulässig.
 
 **13b. „HALTEN UND PARKEN VERBOTEN“**  
