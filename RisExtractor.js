@@ -53,25 +53,36 @@ function getVisibleTextTree(el) {
 	if (el.classList.contains("GldSymbol"))
 		return [];
 
-	let tag = null, snippets = [];
-	for (let child of el.childNodes) {
-		for (let snip of getVisibleTextTree(child))
-			snippets.push(snip);
+	let tag = null, snippets = [], visitChildren = true;
+
+	function addSnippet(s) {
+		if (Array.isArray(s) || !snippets.length ||
+				Array.isArray(snippets[snippets.length-1]))
+			snippets.push(s);
+		else
+			snippets[snippets.length-1] += s;
 	}
 
 	if (el.classList.contains("Absatzzahl")) {
 		tag = "AbsZ";
-		snippets.push(" ");
+		visitChildren = false;
+		addSnippet(el.textContent);
+		addSnippet(" ");
 	}
 
 	if (el.classList.contains("Kursiv")) {
 		tag = "Anm";
-		snippets.push(" ");
+	}
+
+	if (visitChildren) {
+		for (let child of el.childNodes) {
+			for (let snip of getVisibleTextTree(child))
+				addSnippet(snip);
+		}
 	}
 
 	if (tag !== null)
 		snippets = [[tag].concat(snippets)];
-	console.log(snippets);
 	return snippets;
 }
 
@@ -92,6 +103,7 @@ class RisExAST {
 		this.baseElement = baseElement;
 		this.properties = {};
 		this.children = [];
+		// this.set("path", getCssSelector(baseElement));
 	}
 
 	set(key, value) {
@@ -105,33 +117,54 @@ class RisExAST {
 	}
 
 	visitBlockListItem(pState, el) {
+		let ast = new RisExAST(this, el);
+
 		if (el.tagName == "H4") {
-			let ast = new RisExAST(this, el);
 			if (el.classList.contains("UeberschrPara"))
 				return ast.parseParHeading(pState);
 			return ast.parseHeading(pState);
 		}
 
-		let ast = new RisExAST(this, el);
+		if (el.tagName == "DIV") {
+			if (el.classList.contains("ParagraphMitAbsatzzahl"))
+				return ast.parseAbsPar(pState);
+			if (el.classList.contains("Abs_small_indent") ||
+					el.classList.contains("Abs"))
+				return ast.parseAbs(pState);
+		}
+
 		ast.set("type", "unknown");
 		ast.set("text", getVisibleTextTree(el));
 		ast.set("tag", el.tagName);
 		ast.set("class", el.getAttribute("class"));
-		return ast;
 	}
 
 	parseHeading(pState) {
-		this.set("type", "heading");
+		this.set("type", "Head");
 		this.set("text", getVisibleTextTree(this.baseElement));
 	}
 
 	parseParHeading(pState) {
-		this.set("type", "par-heading");
+		this.set("type", "ParHead");
+		this.set("text", getVisibleTextTree(this.baseElement));
+	}
+
+	parseAbsPar(pState) {
+		this.set("type", "AbsPar");
+		this.baseElement.querySelectorAll(":scope > ol > li > div.content").
+				forEach(contentElement => {
+			contentElement.querySelectorAll(":scope > *").
+					forEach(item => this.visitBlockListItem(pState, item));
+		});
+	}
+
+	parseAbs(pState) {
+		this.set("type", "Abs");
 		this.set("text", getVisibleTextTree(this.baseElement));
 	}
 
 	parseBlock(pState) {
-		this.set("type", "block");
+		this.set("type", "Blk");
 		this.contentElement = this.baseElement.querySelector(
 				":scope > div.embeddedContent > div > div.contentBlock");
 		this.contentElement.querySelectorAll(":scope > *").forEach(item =>
@@ -176,10 +209,10 @@ class RisExAST {
 
 		if (this.children.length) {
 			s.push(", \"children\": [");
-			for (const i in this.children) {
+			for (let i = 0; i < this.children.length; i++) {
 				const child = this.children[i];
 				s.push(i ? ",\n" : "\n");
-				s.push(child.getJSON(indent + "  "));
+				s.push(this.children[i].getJSON(indent + "  "));
 			}
 			s.push("\n" + indent + "]");
 		}
