@@ -27,20 +27,45 @@ function getCssSelector(el) {
 	return path.join(" > ");
 }
 
+function foldSoftPreserve(str, maxWidth = 80) {
+	const lines = [];
+	let lineStart = 0;
+	let lastBreak = -1;
+
+	for (let i = 0; i < str.length; i++) {
+		const char = str[i];
+
+		// Record last possible break point (after a space)
+		if (char === ' ') lastBreak = i;
+
+		// If current line exceeds maxWidth
+		if (i - lineStart >= maxWidth) {
+			if (lastBreak > lineStart) {
+				lines.push(str.slice(lineStart, lastBreak + 1));
+				lineStart = lastBreak + 1;
+				i = lineStart - 1; // restart from next char
+			} else {
+				// No space found, hard-break
+				lines.push(str.slice(lineStart, i));
+				lineStart = i;
+				lastBreak = -1;
+			}
+		}
+	}
+
+	// Add remaining text
+	if (lineStart < str.length)
+		lines.push(str.slice(lineStart));
+
+	return lines;
+}
+
+
 function isVisible(el) {
 	if (!el) return false;
-	const style = window.getComputedStyle(el);
-	const rect = el.getBoundingClientRect();
-	return (
-		style.display !== "none" &&
-		style.visibility !== "hidden" &&
-		style.opacity !== "0" &&
-		rect.width > 0 &&
-		rect.height > 0 &&
-		rect.bottom > 0 &&
-		rect.right > 0 &&
-		el.offsetParent !== null
-	);
+	if (el.classList.contains("sr-only"))
+		return false;
+	return true;
 }
 
 function getVisibleTextTree(el) {
@@ -49,6 +74,9 @@ function getVisibleTextTree(el) {
 
 	if (el.nodeType != 1 || !isVisible(el))
 		return [];
+
+	if (el.tagName == "BR")
+		return ["\n"];
 
 	if (el.classList.contains("GldSymbol"))
 		return [];
@@ -63,16 +91,11 @@ function getVisibleTextTree(el) {
 			snippets[snippets.length-1] += s;
 	}
 
-	if (el.classList.contains("Absatzzahl")) {
+	if (el.classList.contains("Absatzzahl"))
 		visitChildren = false;
-		// tag = "Sym";
-		// addSnippet(el.textContent);
-		// addSnippet(" ");
-	}
 
-	if (el.classList.contains("Kursiv")) {
+	if (el.classList.contains("Kursiv"))
 		tag = "Anm";
-	}
 
 	if (visitChildren) {
 		for (let child of el.childNodes) {
@@ -103,6 +126,7 @@ class RisExAST {
 		this.baseElement = baseElement;
 		this.properties = {};
 		this.children = [];
+		this.text = [];
 		// this.set("path", getCssSelector(baseElement));
 	}
 
@@ -139,7 +163,7 @@ class RisExAST {
 					el.classList.contains("AufzaehlungE1") ||
 					el.classList.contains("SchlussteilE0_5") ||
 					el.classList.contains("Abs"))
-				return ast.parseTxt();
+				return ast.parseText();
 		}
 
 		if (el.tagName == "OL" && el.classList.contains("wai-list"))
@@ -149,17 +173,24 @@ class RisExAST {
 		ast.set("path", getCssSelector(el));
 		ast.set("tag", el.tagName);
 		ast.set("class", el.getAttribute("class"));
-		ast.set("text", getVisibleTextTree(el));
+		ast.text = getVisibleTextTree(el);
 	}
 
 	parseHeading() {
+		let s = getVisibleTextTree(this.baseElement)[0].split("\n");
 		this.set("type", "Head");
-		this.set("text", getVisibleTextTree(this.baseElement));
+		this.text = [s[0]];
+
+		for (let i = 1; i < s.length; i++) {
+			let ast = new RisExAST(this.parentObj, this.baseElement);
+			ast.set("type", "Head");
+			ast.text = [s[i]];
+		}
 	}
 
 	parseTitle() {
 		this.set("type", "Title");
-		this.set("text", getVisibleTextTree(this.baseElement));
+		this.text = getVisibleTextTree(this.baseElement);
 	}
 
 	parseItem() {
@@ -187,120 +218,112 @@ class RisExAST {
 	}
 
 	parseLst() {
-		this.set("type", "NumLst");
+		this.set("type", "Lst");
 		this.baseElement.querySelectorAll(":scope > li > div.content").
 				forEach(el => {
 			let ast = new RisExAST(this, el);
 			ast.parseItem();
+			if (ast.get("sym").match(/^[0-9]+[a-z]*\.$/))
+				this.set("type", "NumLst");
+			if (ast.get("sym").match(/^[a-z]+[0-9]*\)$/))
+				this.set("type", "LitLst");
 		});
 	}
 
-	parseTxt() {
-		this.set("type", "Txt");
-		this.set("text", getVisibleTextTree(this.baseElement));
+	parseText() {
+		this.set("type", "Text");
+		this.text = getVisibleTextTree(this.baseElement);
+
+		if (el?.previousElementSibling?.classList?.contains("GldSymbol") &&
+				this.text.length && typeof this.text[0] === "string")
+			this.text[0] = this.text[0].trimStart();
 	}
 
 	parsePar() {
 		this.set("type", "Par");
+		this.set("id", this.baseElement.querySelector(":scope > div.embeddedContent").
+				getAttribute("id").split("_").slice(-2).join("_"))
 		this.contentElement = this.baseElement.querySelector(
 				":scope > div.embeddedContent > div > div.contentBlock");
 		this.contentElement.querySelectorAll(":scope > *").forEach(item =>
 				this.visitElement(item));
 	}
 
-	getTextTree(a, indent="", skipFirstSpace=false, unpack=false) {
-		let s = [unpack ? "" : "["];
-		for (let t of a) {
-			s.push(",\n  " + indent);
-			if (Array.isArray(t))
-				s.push(this.getTextTree(t, indent + "  ", true))
-			else
-				s.push("\"" + t + "\"");
-		}
-		if (!unpack)
-			s.push("\n" + indent + "]");
+	getJSON(verbose=false) {
+		let tag = this.properties, s = [];
 
-		s = s.join("");
-		if (skipFirstSpace)
-			s = s.replace("[,\n  " + indent, "[");
-		s = s.replaceAll("[,", "[");
-		if (skipFirstSpace && (a+"").length < 60) {
-			s = s.replaceAll(",\n  " + indent, ", ");
-			s = s.replaceAll("\n" + indent + "]", "]");
-		}
-		return s;
-	}
-
-	getJSON(verbose=false, indent="") {
 		if (!verbose) {
-			let tag;
-
 			if (this.get("type") == "Par")
-				tag = "Par " + this.get("par")
+				tag = "Par " + this.get("par") + " #" + this.get("id");
 
 			if (this.get("type") == "Head" || this.get("type") == "Title")
-				tag = this.get("type")
+				tag = this.get("type");
 
 			if (this.get("type") == "AbsLst" || this.get("type") == "NumLst" ||
-					this.get("type") == "LitLst" || this.get("type") == "Txt")
-				tag = this.get("type")
+					this.get("type") == "LitLst" || this.get("type") == "Text")
+				tag = this.get("type");
 
 			if (this.get("type") == "Item")
-				tag = "Item " + this.get("sym")
-
-			if (tag) {
-				let s = [indent + "[\"" + tag + "\""];
-
-				if ("text" in this.properties) {
-					s.push(this.getTextTree(this.properties["text"], indent, false, true));
-				}
-
-				if (this.children.length) {
-					for (let i = 0; i < this.children.length; i++) {
-						const child = this.children[i];
-						s.push(",\n" + this.children[i].
-								getJSON(verbose, indent + "  "));
-					}
-				}
-
-				s.push("]");
-				return s.join("");
-			}
+				tag = "Item " + this.get("sym");
 		}
 
-		let s = [indent + "{\"type\": \"" + this.get("type") + "\""];
+		s.push(tag);
 
-		for (const key in this.properties) {
-			if (key == "type") continue;
-			if (key == "text") continue;
-			s.push(", \"" + key + "\": \"" + this.properties[key] + "\"");
-		}
+		for (let item of this.text)
+			s.push(item);
 
-		if ("text" in this.properties) {
-			s.push(", \"text\": ");
-			s.push(this.getTextTree(this.properties["text"], indent));
-		}
+		for (let child of this.children)
+			s.push(child.getJSON(verbose));
 
-		if (this.children.length) {
-			s.push(", \"children\": [");
-			for (let i = 0; i < this.children.length; i++) {
-				const child = this.children[i];
-				s.push(i ? ",\n" : "\n");
-				s.push(this.children[i].getJSON(verbose, indent + "  "));
-			}
-			s.push("\n" + indent + "]");
-		}
-
-		s.push("}");
-		return s.join("");
+		return s;
 	}
 }
 
-function risExtractor(parName) {
+function risExtractor(parName=null, stopPar=null, docName=null, verbose=false) {
+	if (!parName) {
+		let doc = ["RisDoc" + (docName ? " " + docName : ""),
+			["Meta Langtitel", "..."],
+			["Meta FassungVom", "..."],
+			["Meta LastChange", "..."],
+			["Meta RisSrcLink", "..."],
+			["Meta Promulgation", "..."]
+		];
+		for (let p of risParList) {
+			if (p !== "§ 0")
+				doc.push(risExtractor(p, null, null, verbose));
+			if (p === stopPar)
+				break;
+		}
+		return doc;
+	}
 	let el = risContentBlocks[parName];
 	let ast = new RisExAST(null, el);
 	ast.set("par", parName);
 	ast.parsePar();
-	risExtractor.debugAst = ast;
-	return ast.getJSON();
+	// risExtractor.debugAst = ast;
+	return ast.getJSON(verbose);
+}
+
+function prettyJSON(data, indent="", autofold=false) {
+	if (autofold && typeof data === "string" && data.length > 80) {
+		let lines = [];
+		for (let line of foldSoftPreserve(data))
+			lines.push(indent + JSON.stringify(line))
+		return lines.join(",\n");
+	}
+
+	if (!Array.isArray(data) || !data.length ||
+			(autofold && JSON.stringify(data).length < 80))
+		return indent + JSON.stringify(data);
+
+	if (data[0] == "Text")
+		autofold = true
+
+	let s = [indent + "[" + JSON.stringify(data[0])];
+	for (let i = 1; i < data.length; i++)
+		s.push(",\n" + prettyJSON(data[i],
+				indent + "    ", autofold));
+	s.push("]");
+
+	return s.join("")
 }
