@@ -128,6 +128,7 @@ normdata = normindex[normkey]
 force_erl_ueberschr = None
 if 'force_erl_ueberschr' in normdata:
     force_erl_ueberschr = re.compile("|".join([
+        f"(?:{p[1:]})" if p.startswith("/") else
         fnmatch.translate(p) # .removesuffix("\\Z")
         for p in normdata['force_erl_ueberschr']
     ]))
@@ -346,7 +347,11 @@ def processContentElement(el, outbuf, parName = None):
             handleText()
 
         case "P" if any_in(cls, "ErlText"):
-            handleText(True)
+            if force_erl_ueberschr is not None and \
+                    force_erl_ueberschr.match(txt):
+                handleText("p", False, True, txtOverwrite=txt.replace("\n", " "))
+            else:
+                handleText(True)
 
         case "P" if any_in(cls, "AbbildungoderObjekt"):
             handleObjects()

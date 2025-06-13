@@ -813,44 +813,45 @@ Eine solche Zusatztafel unter dem Zeichen „Vorrang geben“ kündigt das Zeich
 
 **d)**  
 ![BG.StVO.obj.BN.NOR40245684.image004.png](BG.StVO.obj.BN.NOR40245684.image004.png "~/Dokumente/Bundesnormen/NOR40245684/image004.png")  
-Eine solche Zusatztafel unter den Zeichen „Vorrang geben“ oder „Halt“ zeigt an, dass die Querstraße eine Vorrangstraße ist.  
-`§ 54 lit. e) StVO.`
-  
+Eine solche Zusatztafel unter den Zeichen „Vorrang geben“ oder „Halt“ zeigt an, dass die Querstraße eine Vorrangstraße ist.
+
+**e)**  
 ![BG.StVO.obj.BN.NOR40245684.image005.png](BG.StVO.obj.BN.NOR40245684.image005.png "~/Dokumente/Bundesnormen/NOR40245684/image005.png")  
-Eine solche Zusatztafel unter den Zeichen „Vorrang geben“, „Halt“ oder „Vorrangstraße“ zeigt an, dass eine Straße mit Vorrang einen besonderen Verlauf nimmt (§ 19 Abs. 4).  
-`§ 54 lit. f) StVO.`
-  
+Eine solche Zusatztafel unter den Zeichen „Vorrang geben“, „Halt“ oder „Vorrangstraße“ zeigt an, dass eine Straße mit Vorrang einen besonderen Verlauf nimmt (§ 19 Abs. 4).
+
+**f)**  
 ![BG.StVO.obj.BN.NOR40245684.image006.jpg](BG.StVO.obj.BN.NOR40245684.image006.jpg "~/Dokumente/Bundesnormen/NOR40245684/image006.jpg")  
-Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei Schneelage oder Eisbildung auf der Fahrbahn zu beachten ist.  
-`§ 54 lit. g) StVO.`
-  
+Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei Schneelage oder Eisbildung auf der Fahrbahn zu beachten ist.
+
+**g)**  
 ![BG.StVO.obj.BN.NOR40245684.image007.png](BG.StVO.obj.BN.NOR40245684.image007.png "~/Dokumente/Bundesnormen/NOR40245684/image007.png")  
-Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei nasser Fahrbahn zu beachten ist. Die Symbole der Zusatztafeln nach lit. f und g dürfen auch auf einer Zusatztafel nebeneinander angebracht werden.  
-`§ 54 lit. h) StVO.`
-  
+Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei nasser Fahrbahn zu beachten ist. Die Symbole der Zusatztafeln nach lit. f und g dürfen auch auf einer Zusatztafel nebeneinander angebracht werden.
+
+**h)**  
 ![BG.StVO.obj.BN.NOR40245684.image008.png](BG.StVO.obj.BN.NOR40245684.image008.png "~/Dokumente/Bundesnormen/NOR40245684/image008.png")  
-Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt an, dass das Halte- und Parkverbot nicht für Fahrzeuge gilt, die nach der Bestimmung des § 29b Abs. 4 gekennzeichnet sind.  
-`§ 54 lit. i) StVO.`
-  
+Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt an, dass das Halte- und Parkverbot nicht für Fahrzeuge gilt, die nach der Bestimmung des § 29b Abs. 4 gekennzeichnet sind.
+
+**i)**  
 ![BG.StVO.obj.BN.NOR40245684.image009.png](BG.StVO.obj.BN.NOR40245684.image009.png "~/Dokumente/Bundesnormen/NOR40245684/image009.png")  
-Eine solche Zusatztafel unter dem Zeichen „Überholen verboten“ zeigt an, dass Zugmaschinen, Motorkarren, selbstfahrende Arbeitsmaschinen und vierrädrige Leichtkraftfahrzeuge überholt werden dürfen.  
-`§ 54 lit. j) StVO.`
-  
+Eine solche Zusatztafel unter dem Zeichen „Überholen verboten“ zeigt an, dass Zugmaschinen, Motorkarren, selbstfahrende Arbeitsmaschinen und vierrädrige Leichtkraftfahrzeuge überholt werden dürfen.
+
+**j)**  
 ![BG.StVO.obj.BN.NOR40245684.image010.png](BG.StVO.obj.BN.NOR40245684.image010.png "~/Dokumente/Bundesnormen/NOR40245684/image010.png")  
-Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt eine Abschleppzone (§ 89a Abs. 2 lit. b) an.  
-`§ 54 lit. k) StVO.`
-  
+Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt eine Abschleppzone (§ 89a Abs. 2 lit. b) an.
+
+**k)**  
 ![BG.StVO.obj.BN.NOR40245684.image011.png](BG.StVO.obj.BN.NOR40245684.image011.png "~/Dokumente/Bundesnormen/NOR40245684/image011.png")  
-Diese Zusatztafel darf nur verwendet werden, wenn auf einer Fahrbahn mit mehreren Fahrstreifen für dieselbe Fahrtrichtung Straßenverkehrszeichen oberhalb eines Fahrstreifens angebracht sind; sie zeigt an, dass das Straßenverkehrszeichen nur für diesen Fahrstreifen gilt.  
-`§ 54 lit. l) StVO.`
-  
+Diese Zusatztafel darf nur verwendet werden, wenn auf einer Fahrbahn mit mehreren Fahrstreifen für dieselbe Fahrtrichtung Straßenverkehrszeichen oberhalb eines Fahrstreifens angebracht sind; sie zeigt an, dass das Straßenverkehrszeichen nur für diesen Fahrstreifen gilt.
+
+**l)**  
 ![BG.StVO.obj.BN.NOR40245684.image012.png](BG.StVO.obj.BN.NOR40245684.image012.png "~/Dokumente/Bundesnormen/NOR40245684/image012.png")  
-Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwendet werden, das auf einer Verkehrsinsel, einem Fahrbahnteiler oder einer ähnlichen baulichen Einrichtung, die die Fahrbahn in mehrere Fahrstreifen für dieselbe Fahrtrichtung aufteilt, angebracht ist. Sie zeigt an, dass das Straßenverkehrszeichen nur für den Fahrstreifen gilt, der links an der Trennungseinrichtung vorbeiführt.  
-`§ 54 lit. m) StVO.`
-  
+Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwendet werden, das auf einer Verkehrsinsel, einem Fahrbahnteiler oder einer ähnlichen baulichen Einrichtung, die die Fahrbahn in mehrere Fahrstreifen für dieselbe Fahrtrichtung aufteilt, angebracht ist. Sie zeigt an, dass das Straßenverkehrszeichen nur für den Fahrstreifen gilt, der links an der Trennungseinrichtung vorbeiführt.
+
+**m)**  
 ![BG.StVO.obj.BN.NOR40245684.image013.jpg](BG.StVO.obj.BN.NOR40245684.image013.jpg "~/Dokumente/Bundesnormen/NOR40245684/image013.jpg")  
-Eine solche Zusatztafel unter dem Zeichen ‚Halten und Parken verboten‘ zeigt an, dass das Halte- und Parkverbot nicht für ein von außen aufladbares Kraftfahrzeug mit einem Antriebsstrang, der mindestens einen nicht-peripheren elektrischen Motor als Energiewandler mit einem elektrisch aufladbaren Energiespeichersystem, das extern aufgeladen werden kann, enthält (Elektrofahrzeug), während des Ladevorgangs gilt.  
-n)  
+Eine solche Zusatztafel unter dem Zeichen ‚Halten und Parken verboten‘ zeigt an, dass das Halte- und Parkverbot nicht für ein von außen aufladbares Kraftfahrzeug mit einem Antriebsstrang, der mindestens einen nicht-peripheren elektrischen Motor als Energiewandler mit einem elektrisch aufladbaren Energiespeichersystem, das extern aufgeladen werden kann, enthält (Elektrofahrzeug), während des Ladevorgangs gilt.
+
+**n)**  
 ![BG.StVO.obj.BN.NOR40245684.image014.png](BG.StVO.obj.BN.NOR40245684.image014.png "~/Dokumente/Bundesnormen/NOR40245684/image014.png") ![BG.StVO.obj.BN.NOR40245684.image015.jpg](BG.StVO.obj.BN.NOR40245684.image015.jpg "~/Dokumente/Bundesnormen/NOR40245684/image015.jpg")  
 Eine solche Zusatztafel neben einem roten Lichtzeichen zeigt an, dass i. S. von § 38 Abs. 5a die Lenker von Fahrrädern trotz rotem Licht rechts abbiegen bzw. bei T-Kreuzungen geradeaus fahren dürfen.
 
