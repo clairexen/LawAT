@@ -64,10 +64,10 @@ function getVisibleTextTree(el) {
 	}
 
 	if (el.classList.contains("Absatzzahl")) {
-		tag = "AbsZ";
 		visitChildren = false;
-		addSnippet(el.textContent);
-		addSnippet(" ");
+		// tag = "Sym";
+		// addSnippet(el.textContent);
+		// addSnippet(" ");
 	}
 
 	if (el.classList.contains("Kursiv")) {
@@ -106,8 +106,9 @@ class RisExAST {
 		// this.set("path", getCssSelector(baseElement));
 	}
 
-	set(key, value) {
-		this.properties[key] = value;
+	set(key, value, overwrite=false) {
+		if (overwrite || !(key in this.properties))
+			this.properties[key] = value;
 	}
 
 	get(key, defaultValue=null) {
@@ -116,59 +117,89 @@ class RisExAST {
 		return defaultValue;
 	}
 
-	visitBlockListItem(pState, el) {
+	visitElement(el) {
 		let ast = new RisExAST(this, el);
 
 		if (el.tagName == "H4") {
 			if (el.classList.contains("UeberschrPara"))
-				return ast.parseParHeading(pState);
-			return ast.parseHeading(pState);
+				return ast.parseParHeading();
+			return ast.parseHeading();
 		}
 
-		if (el.tagName == "DIV") {
+		if (el.tagName == "DIV" || el.tagName == "P") {
 			if (el.classList.contains("ParagraphMitAbsatzzahl"))
-				return ast.parseAbsPar(pState);
+				return ast.parseAbsLst();
 			if (el.classList.contains("Abs_small_indent") ||
+					el.classList.contains("AufzaehlungE1") ||
+					el.classList.contains("SchlussteilE0_5") ||
 					el.classList.contains("Abs"))
-				return ast.parseAbs(pState);
+				return ast.parseTxt();
 		}
 
-		ast.set("type", "unknown");
-		ast.set("text", getVisibleTextTree(el));
+		if (el.tagName == "OL" && el.classList.contains("wai-list"))
+			return ast.parseLst();
+
+		ast.set("type", "Unknown");
+		ast.set("path", getCssSelector(el));
 		ast.set("tag", el.tagName);
 		ast.set("class", el.getAttribute("class"));
+		ast.set("text", getVisibleTextTree(el));
 	}
 
-	parseHeading(pState) {
+	parseHeading() {
 		this.set("type", "Head");
 		this.set("text", getVisibleTextTree(this.baseElement));
 	}
 
-	parseParHeading(pState) {
+	parseParHeading() {
 		this.set("type", "ParHead");
 		this.set("text", getVisibleTextTree(this.baseElement));
 	}
 
-	parseAbsPar(pState) {
-		this.set("type", "AbsPar");
+	parseItem() {
+		this.set("type", "Item");
+
+		let el = this.baseElement?.previousSibling;
+		if (el?.classList?.contains("SymE1") && el?.firstElementChild?.firstElementChild)
+			this.set("sym", el.firstElementChild.firstElementChild.textContent);
+
+		el = this.baseElement?.firstChild?.firstChild;
+		if (el?.classList?.contains("Absatzzahl"))
+			this.set("sym", el.textContent);
+
+		this.baseElement.querySelectorAll(":scope > *").
+				forEach(el => this.visitElement(el));
+	}
+
+	parseAbsLst() {
+		this.set("type", "AbsLst");
 		this.baseElement.querySelectorAll(":scope > ol > li > div.content").
-				forEach(contentElement => {
-			contentElement.querySelectorAll(":scope > *").
-					forEach(item => this.visitBlockListItem(pState, item));
+				forEach(el => {
+			let ast = new RisExAST(this, el);
+			ast.parseItem();
 		});
 	}
 
-	parseAbs(pState) {
-		this.set("type", "Abs");
+	parseLst() {
+		this.set("type", "NumLst");
+		this.baseElement.querySelectorAll(":scope > li > div.content").
+				forEach(el => {
+			let ast = new RisExAST(this, el);
+			ast.parseItem();
+		});
+	}
+
+	parseTxt() {
+		this.set("type", "Txt");
 		this.set("text", getVisibleTextTree(this.baseElement));
 	}
 
-	parseBlock(pState) {
+	parseBlock() {
 		this.set("type", "Blk");
 		this.contentElement = this.baseElement.querySelector(
 				":scope > div.embeddedContent > div > div.contentBlock");
 		this.contentElement.querySelectorAll(":scope > *").forEach(item =>
-				this.visitBlockListItem(pState, item));
+				this.visitElement(item));
 	}
 
 	getTextTree(a, indent="", skipFirstSpace=false) {
@@ -223,11 +254,10 @@ class RisExAST {
 }
 
 function risExtractor(parName) {
-	let pState = { "parName": parName };
 	let el = risContentBlocks[parName];
 	let ast = new RisExAST(null, el);
 	ast.set("parName", parName);
-	ast.parseBlock(risExtractor.pState, 1);
-	risExtractor.debugData = [ast, pState];
+	ast.parseBlock();
+	risExtractor.debugAst = ast;
 	return ast.getJSON();
 }
