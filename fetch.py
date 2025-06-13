@@ -188,6 +188,7 @@ if printHttpRequests:
 # Load Document
 print(f"Loading {normkey} from {normdata['docurl']}")
 page.goto(normdata["docurl"])
+page.add_script_tag(path="RisExtractor.js")
 
 langtitel = page.locator("h3") \
  .get_by_text("Langtitel", exact=True) \
