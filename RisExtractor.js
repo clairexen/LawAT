@@ -28,12 +28,15 @@ function getCssSelector(el) {
 }
 
 class RisExAST {
-	constructor(baseEl, bodyEl) {
-		this.baseElement = baseEl;
-		this.bodyElement = bodyEl;
+	constructor(baseElement, bodyElement) {
+		this.baseSelector = getCssSelector(baseElement);
+		this.bodySelector = getCssSelector(bodyElement);
 		this.properties = {};
 		this.children = [];
 	}
+
+	getBaseElement() { return document.querySelector(this.baseSelector); }
+	getBodyElement() { return document.querySelector(this.bodySelector); }
 
 	set(key, value) {
 		this.properties[key] = value;
