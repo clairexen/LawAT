@@ -27,26 +27,6 @@ function getCssSelector(el) {
 	return path.join(" > ");
 }
 
-function traverseDomTree_worker(el, stackData, callback) {
-	let udata = callback(el, stackData);
-	if (!udata) return;
-	stackData.push(udata);
-	if ("childrenCallback" in udata)
-		callback = udata["childrenCallback"];
-	let retValues = [];
-	el.childNodes.forEach(child => {
-		retValues.push(traverseDomTree_worker(child, stackData, callback));
-	});
-	if ("exitCallback" in udata)
-		retValues = udata["exitCallback"](el, stackData, retValues);
-	stackData.pop();
-	return retValues;
-}
-
-function traverseDomTree(rootElement, callback) {
-	return traverseDomTree_worker(rootElement, [], callback);
-}
-
 function isVisible(el) {
 	if (!el) return false;
 	const style = window.getComputedStyle(el);
@@ -63,22 +43,36 @@ function isVisible(el) {
 	);
 }
 
-function getVisibleNormText(rootElement) {
-	let visibleSnippets = [];
-	traverseDomTree(rootElement, (el, sd) => {
-		if (el.nodeType == 1 && isVisible(el)) {
-			if (el.classList.contains("Absatzzahl"))
-				return {
-					"exitCallback": (el, stackData, retValues) => {
-						visibleSnippets.push(' ');
-					}
-				};
-			return {};
-		}
-		if (el.nodeType == 3)
-			visibleSnippets.push(el.nodeValue);
-	});
-	return visibleSnippets.join("");
+function getVisibleTextTree(el) {
+	if (el.nodeType == 3)
+		return el.nodeValue.length ? [el.nodeValue] : [];
+
+	if (el.nodeType != 1 || !isVisible(el))
+		return [];
+
+	if (el.classList.contains("GldSymbol"))
+		return [];
+
+	let tag = null, snippets = [];
+	for (let child of el.childNodes) {
+		for (let snip of getVisibleTextTree(child))
+			snippets.push(snip);
+	}
+
+	if (el.classList.contains("Absatzzahl")) {
+		tag = "AbsZ";
+		snippets.push(" ");
+	}
+
+	if (el.classList.contains("Kursiv")) {
+		tag = "Anm";
+		snippets.push(" ");
+	}
+
+	if (tag !== null)
+		snippets = [[tag].concat(snippets)];
+	console.log(snippets);
+	return snippets;
 }
 
 risParList = []
@@ -120,7 +114,7 @@ class RisExAST {
 
 		let ast = new RisExAST(this, el);
 		ast.set("type", "unknown");
-		ast.set("text", getVisibleNormText(el));
+		ast.set("text", getVisibleTextTree(el));
 		ast.set("tag", el.tagName);
 		ast.set("class", el.getAttribute("class"));
 		return ast;
@@ -128,12 +122,12 @@ class RisExAST {
 
 	parseHeading(pState) {
 		this.set("type", "heading");
-		this.set("text", getVisibleNormText(this.baseElement));
+		this.set("text", getVisibleTextTree(this.baseElement));
 	}
 
 	parseParHeading(pState) {
 		this.set("type", "par-heading");
-		this.set("text", getVisibleNormText(this.baseElement));
+		this.set("text", getVisibleTextTree(this.baseElement));
 	}
 
 	parseBlock(pState) {
@@ -144,8 +138,30 @@ class RisExAST {
 				this.visitBlockListItem(pState, item));
 	}
 
+	getTextTree(a, indent="", skipFirstSpace=false) {
+		let s = ["["];
+		for (let t of a) {
+			s.push(",\n  " + indent);
+			if (Array.isArray(t))
+				s.push(this.getTextTree(t, indent + "  ", true))
+			else
+				s.push("\"" + t + "\"");
+		}
+		s.push("\n" + indent + "]");
+
+		s = s.join("");
+		if (skipFirstSpace)
+			s = s.replace("[,\n  " + indent, "[");
+		s = s.replaceAll("[,", "[");
+		if (skipFirstSpace && (a+"").length < 60) {
+			s = s.replaceAll(",\n  " + indent, ", ");
+			s = s.replaceAll("\n" + indent + "]", "]");
+		}
+		return s;
+	}
+
 	getJSON(indent="") {
-		let s = [indent + "{ \"type\": \"" + this.get("type") + "\""];
+		let s = [indent + "{\"type\": \"" + this.get("type") + "\""];
 
 		for (const key in this.properties) {
 			if (key == "type") continue;
@@ -154,9 +170,8 @@ class RisExAST {
 		}
 
 		if ("text" in this.properties) {
-			s.push(", \"text\": [");
-			s.push("\n" + indent + "  \"" + this.properties["text"] + "\"");
-			s.push("\n" + indent + "]");
+			s.push(", \"text\": ");
+			s.push(this.getTextTree(this.properties["text"], indent));
 		}
 
 		if (this.children.length) {
@@ -168,6 +183,7 @@ class RisExAST {
 			}
 			s.push("\n" + indent + "]");
 		}
+
 		s.push("}");
 		return s.join("");
 	}
