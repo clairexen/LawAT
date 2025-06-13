@@ -11,6 +11,7 @@ TBD
 * [Zivilprozessordnung (ZPO)](https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.toc.md)
 * [Vereinsgesetz (VerG)](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.toc.md)
 * [Straßenverkehrsordnung (StVO)](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.toc.md)
+* [Allgemeines Verwaltungsverfahrensgesetz (AVG)](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.toc.md)
 
 # RisEn - AI-Freundliche Python Library zum Zugriff auf die RisEx Files
 
@@ -64,3 +65,40 @@ Sich ein Bussi von der Kaiserin verdient zu haben begründet aber keinen Anschpr
 Wer sich ein Bussi von der Kaiserin verdient und keines bekommen hat, darf aber etwas traurig dreinschaun.
 
 `END-OF-DATA-SET`
+
+# Rechtliches
+
+Die Texte der Normen im `files/` Ordner, die dazugehörigen Abbildungen, sowie
+die Kommentare aus dem RIS sind gemeinfrei, denn sie fallen unter den § 7 (1)
+UrhG und genießen daher keinen urheberrechtlichen Schutz.
+
+Die JSON und ZIP RisEx Datenbank-Files zum download beinhalten lediglich die
+selben gemeinfreien Daten und können daher ohne Lizenz frei genutzt und
+verbreitet werden.
+
+Die RisEx und RisEn Projekte sind unabhänig und nicht affiliiert mit dem RIS.
+Die Verwendung von "RIS" in den Projektbezeichnungen soll lediglich darauf
+hinweisen, dass die Texte der Normen (sowie die Abbildungen und Kommentare)
+aus dem RIS stammen.
+
+Die RisEx und RisEn Software selbst, d.h. die Files und Scripts in diesem
+Verzeichnis, und nicht im `files/` Ordner, sind Freie Software unter der ISC
+Lizenz:
+
+```
+ISC License
+
+Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+```
