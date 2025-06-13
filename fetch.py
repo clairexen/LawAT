@@ -317,11 +317,18 @@ def processContentElement(el, outbuf, parName = None):
         if len(outbuf) and not outbuf[-1].endswith("  "):
             outbuf[-1] += "  "
         md = list()
-        for ob in el.locator(":scope > *").all():
-            assert ob.tag_name() == "IMG"
-            src = ob.get_attribute('src')
-            filename = fetchObject(src)
-            md.append(f"![{filename}]({filename} \"{src}\")")
+        for i in range(el.evaluate("el => el.childNodes.length")):
+            match el.evaluate(f"el => el.childNodes[{i}].nodeType"):
+                case 1:
+                    assert el.evaluate(f"el => el.childNodes[{i}].tagName") == "IMG"
+                    src = el.evaluate(f"el => el.childNodes[{i}].getAttribute('src')")
+                    filename = fetchObject(src)
+                    md.append(f"![{filename}]({filename} \"{src}\")")
+                case 3:
+                    tx = el.evaluate(f"el => el.childNodes[{i}].nodeValue").replace("\xa0", " ").strip()
+                    if len(tx): md.append(f"**{tx}**")
+                case _:
+                    assert False
         outbuf.append(f"{' '.join(md)}  ");
 
     def any_in(s, *a):

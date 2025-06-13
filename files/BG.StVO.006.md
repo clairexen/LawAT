@@ -775,8 +775,8 @@ Dieses Zeichen zeigt den Beginn einer Schulstraße an und bedeutet, dass hier di
 Dieses Zeichen zeigt einen Radweg an, der von Radfahrern benützt werden darf, aber nicht muss.
 
 **28. „GEH- UND RADWEG OHNE BENÜTZUNGSPFLICHT“**  
-![BG.StVO.obj.BN.NOR40261454.H.img83is.jpg](BG.StVO.obj.BN.NOR40261454.H.img83is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img83is.jpg")  
-![BG.StVO.obj.BN.NOR40261454.H.img84is.jpg](BG.StVO.obj.BN.NOR40261454.H.img84is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img84is.jpg")  
+**a)** ![BG.StVO.obj.BN.NOR40261454.H.img83is.jpg](BG.StVO.obj.BN.NOR40261454.H.img83is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img83is.jpg")  
+**b)** ![BG.StVO.obj.BN.NOR40261454.H.img84is.jpg](BG.StVO.obj.BN.NOR40261454.H.img84is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img84is.jpg")  
 Diese Zeichen zeigen einen Geh- und Radweg an, der von Radfahrern benützt werden darf, aber nicht muss, und zwar ein Zeichen nach a) einen für die gemeinsame Benützung durch Fußgänger und Radfahrer bestimmten Geh- und Radweg und ein Zeichen nach b) einen Geh- und Radweg, bei dem der Fußgänger- und Fahrradverkehr getrennt geführt werden, wobei die Symbole im Zeichen nach b) der tatsächlichen Verkehrsführung entsprechend anzuordnen sind (Fußgänger rechts, Fahrrad links oder umgekehrt).  
 `§ 53 Z 29 StVO.`
 „Ende einer Fahrradstraße, einer Schulstraße, eines Radweges oder eines Geh- und Radweges ohne Benützungspflicht“  
