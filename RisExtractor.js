@@ -27,25 +27,23 @@ function getCssSelector(el) {
 	return path.join(" > ");
 }
 
-function injectLabelStyle(s, c=red) {
+function injectLabelStyle(s, c="red") {
 	let cssTemplate = `
 .@name@ {
-	border: 2px solid @color@;
-	position: relative;
-	padding: 5px;
-	margin: 5px;
+		border: 2px solid @color@;
+		position: relative;
+		padding: 5px;
+		margin: 5px;
 }
 
 .@name@::after {
-	content: "@label@";
-	color: @color@;
-	font-weight: bold;
-	margin-left: 0.5em;
-	position: absolute;
-	top: 0.7em;
-	left: 100%;
-	transform: translateY(-50%);
-	white-space: nowrap;
+		content: "@label@";
+		color: @color@;
+		font-weight: bold;
+		position: absolute;
+		top: var(--@name@-label-top, 0);
+		left: var(--@name@-label-left, 100%);
+		white-space: nowrap;
 }
 `;
 
@@ -53,9 +51,9 @@ function injectLabelStyle(s, c=red) {
 
 	if (!document.getElementById("css-" + n)) {
 		let css = cssTemplate;
-		css = css.replaceAll("@name@", n);
-		css = css.replaceAll("@label@", s);
-		css = css.replaceAll("@color@", c);
+		css = css.replaceAll(/@name@/g, n);
+		css = css.replaceAll(/@label@/g, s);
+		css = css.replaceAll(/@color@/g, c);
 		const style = document.createElement("style");
 		style.setAttribute("id", "css-" + n);
 		style.textContent = css;
@@ -67,7 +65,21 @@ function injectLabelStyle(s, c=red) {
 
 function highlightElement(el, s, c="red") {
 	if (!(el instanceof Element)) return;
-	el.classList.add(injectLabelStyle(s, c));
+	const className = injectLabelStyle(s, c);
+	if (!el.classList.contains(className)) {
+		el.classList.add(className);
+		requestAnimationFrame(() => {
+			const page = document.getElementById("page");
+			if (!page) return;
+			const pageRect = page.getBoundingClientRect();
+			const elRect = el.getBoundingClientRect();
+			const scrollLeft = window.scrollX || document.documentElement.scrollLeft;
+			const labelLeft = pageRect.right + scrollLeft + parseFloat(getComputedStyle(document.documentElement).fontSize || "16") * 1;
+			const offsetLeft = labelLeft - (elRect.left + scrollLeft);
+			el.style.setProperty(`--${className}-label-left`, `${offsetLeft}px`);
+			el.style.setProperty(`--${className}-label-top`, `0px`);
+		});
+	}
 }
 
 function foldSoftPreserve(str, maxWidth = 80) {
@@ -333,15 +345,44 @@ class RisExAST {
 	}
 }
 
+function getMetaLangtitel() {
+	return ["Meta Langtitel", "..."];
+}
+
+function getMetaFassungVom() {
+	return ["Meta FassungVom", "..."];
+}
+
+function getMetaLastChange() {
+	return ["Meta LastChange", "..."];
+}
+
+function getMetaRisSrcLink() {
+	return ["Meta RisSrcLink", "..."];
+}
+
+function getMetaParAnchors() {
+	return ["Meta ParAnchors", "..."];
+}
+
+function getMetaLocalChanges() {
+	return ["Meta LocalChanges" /* none applied yet */ ];
+}
+
+function getMetaPromulgation() {
+	return ["Meta Promulgation", "..."];
+}
+
 function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, annotate=false) {
 	if (!parName) {
-		let doc = ["RisDoc" + (docName ? " " + docName : ""),
-			["Meta Langtitel", "..."],
-			["Meta FassungVom", "..."],
-			["Meta LastChange", "..."],
-			["Meta RisSrcLink", "..."],
-			["Meta Promulgation", "..."]
-		];
+		let doc = ["RisDoc" + (docName ? " " + docName : "")];
+		doc.push(getMetaLangtitel());
+		doc.push(getMetaFassungVom());
+		doc.push(getMetaLastChange());
+		doc.push(getMetaRisSrcLink());
+		doc.push(getMetaParAnchors());
+		doc.push(getMetaLocalChanges());
+		doc.push(getMetaPromulgation());
 		for (let p of risParList) {
 			if (p !== "§ 0")
 				doc.push(risExtractor(p, null, null, verbose, annotate));
