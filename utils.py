@@ -53,8 +53,7 @@ def updateFlags(*opts):
 #################################
 
 # Python version of prettyJSON() from RisExtractor.js
-def pretty_json(data, indent="", autofold=False):
-    import json
+def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
     def fold_soft_preserve(s, width=80):
         out, start, last_space = [], 0, -1
         for i, c in enumerate(s):
@@ -72,20 +71,54 @@ def pretty_json(data, indent="", autofold=False):
         return out
 
     if autofold and isinstance(data, str) and len(data) > 80:
-        return ',\n'.join(json.dumps(line) for line in fold_soft_preserve(data))
+        return ',\n'.join(json.dumps(line, ensure_ascii=False) for line in fold_soft_preserve(data))
 
     if not isinstance(data, list) or not data or \
-       (autofold and len(json.dumps(data)) < 80):
-        return indent + json.dumps(data)
+       (autofold and len(json.dumps(data, ensure_ascii=False)) < 80):
+        return indent + json.dumps(data, ensure_ascii=False)
 
     if data[0] == "Text":
         autofold = True
 
-    s = [indent + "[" + json.dumps(data[0])]
+    s = [indent + "[" + json.dumps(data[0], ensure_ascii=False)]
     for item in data[1:]:
-        s.append(",\n" + pretty_json(item, indent + "    ", autofold))
-    s.append("]")
+        s.append(",\n" + prettyJSON(item, indent + "    ", autofold, False))
+    s.append("\n" if addFinalNewline else "]")
     return ''.join(s)
+
+def fixPrettyJSON(text):
+    dbgMode = False
+    result = []
+    stack = [0]
+
+    for line in text.split("\n"):
+        line = line.rstrip("],")
+        stripped = line.lstrip()
+        if not len(stripped): continue
+        indent = len(line) - len(stripped)
+
+        while indent < stack[-1]:
+            stack.pop()
+            if dbgMode or not result:
+                result.append(' ' * stack[-1] + ']')
+            else:
+                result[-1] += "]"
+
+        result.append(line)
+
+        if indent > (stack[-1] if stack else 0):
+            stack.append(indent)
+
+    while stack[-1]:
+        stack.pop()
+        if dbgMode or not result:
+            result.append(' ' * stack[-1] + ']')
+        else:
+            result[-1] += "]"
+
+    if dbgMode:
+        return "\n".join(result)
+    return ",\n".join(result) + "\n"
 
 def markdownHeaderToAnchor(header: str) -> str:
     anchor = unicodedata.normalize("NFC", header)  # normalize unicode (e.g., ä → ä)
@@ -178,6 +211,30 @@ def playwrightRequest(img_src):
 # RisDoc -> Markdown Engine
 ###########################
 
+class RisDocMarkdownEngine:
+    def __init__(self, risDoc, idxDat):
+        self.risDoc = risDoc
+        self.idxDat = idxDat
+
+        self.meta = {
+            item[0].removeprefix("Meta "): item for item in self.risDoc
+                    if type(item) is list and len(item) and item[0].startswith("Meta ")
+        }
+        self.pars = {
+            item[0].removeprefix("Par "): item for item in self.risDoc
+                    if type(item) is list and len(item) and item[0].startswith("Par ")
+        }
+
+        self.lines = []
+        self.lineNumStack = []
+
+    def pushLineNum(self):
+        self.lineNumStack.append(len(self.lines))
+
+    def popLineNum(self):
+        numLines = len(self.lines) - self.lineNumStack.pop()
+        return "\n".join(self.lines[len(self.lines)-numLines:])
+
 
 # CLI Interface
 ###############
@@ -210,6 +267,47 @@ def cli_fetch(*args):
 
     print("DONE.")
     stopPlaywright()
+
+def cli_render(*args):
+    normindex = json.load(open("index.json"))
+    if not len(args): args = normindex.keys()
+
+    for normkey in args:
+        print(f"Loading {normkey} RisDocfrom files/{normkey}.ris.json")
+        engine = RisDocMarkdownEngine(
+                json.load(open(f"files/{normkey}.ris.json")),
+                normindex[normkey])
+
+        if flags.interactive:
+            embed(globals(), locals())
+
+    print("DONE.")
+
+def cli_risdoc(*args):
+    optFixJSON = False
+    optFmtJSON = False
+    doStdIo = True
+
+    def handleArg(arg):
+        txt = (open(arg) if arg != "-" else sys.stdin).read()
+
+        if optFixJSON:
+            txt = fixPrettyJSON(txt)
+
+        if optFmtJSON:
+            txt = prettyJSON(json.loads(txt))
+
+        (open(arg, "w") if arg != "-" else sys.stdout).write(txt)
+
+    for arg in args:
+        if optNo := arg.startswith("--no-"): del arg[2:3]
+        if arg == "--fix": optFixJSON = not optNo; continue
+        if arg == "--fmt": optFmtJSON = not optNo; continue
+        doStdIo = False
+        handleArg(arg)
+
+    if doStdIo:
+        handleArg("-")
 
 def cli_mkjson():
     data = dict()

@@ -62,7 +62,7 @@ fetch: $(foreach N,$(NORM_LIST),files/$N.toc.md)
 $(eval $(foreach N,$(NORM_LIST),$(fetch_body)))
 
 purge:
-	rm -rf .venv RisExData.json
+	rm -rf .venv RisExData.json __pycache__/ __rishtml__/
 	rm -rf RisExMarkup.zip RisExBigDocs.zip RisExFiles.zip
 
 .PHONY: query help shell intro venv zip json fetch purge
