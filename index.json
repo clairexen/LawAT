@@ -13,6 +13,7 @@
 		"split": 20000,
 		"stop": "§ 517",
 		"caption": "Strafprozeßordnung (StPO)",
+		"promulgationsklausel": "Der Nationalrat hat beschlossen:",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326"
 	},
 	"BG.ABGB": {
@@ -21,6 +22,7 @@
 		"split": 20000,
 		"stop": "§ 1503",
 		"caption": "Allgemeines bürgerliches Gesetzbuch (ABGB)",
+		"promulgationsklausel": "",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622"
 	},
 	"BG.ZPO": {

@@ -95,6 +95,10 @@ def markdownHeaderToAnchor(header: str) -> str:
     anchor = anchor.removeprefix("-") # remove one (and only one) leading hyphen
     return anchor
 
+def markdownEscape(text):
+    # Escape all Markdown special characters, including @ and >
+    return re.sub(r'([\\`*_{}[\]()#+\-.!|>~@>])', r'\\\1', text)
+
 def docTypeToLongName(typ):
     match typ:
         case "BG": return "Bundesgesetz"
@@ -169,6 +173,10 @@ def playwrightRequest(img_src):
         assert response.ok, f"Failed to fetch image: {response.status}"
         p.write_bytes(response.body())
     return filename
+
+
+# RisDoc -> Markdown Engine
+###########################
 
 
 # CLI Interface

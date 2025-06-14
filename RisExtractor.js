@@ -408,8 +408,8 @@ function getMetaParAnchors(stopPar) {
 			break;
 	}
 
-	id = el.nextElementSibling.querySelector(":scope > div.embeddedContent").id;
-	data.push("END #" + id);
+	id = el.nextElementSibling?.querySelector(":scope > div.embeddedContent")?.id;
+	data.push("END #" + (id ?? "footer"));
 	return data;
 }
 
