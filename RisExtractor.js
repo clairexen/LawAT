@@ -27,6 +27,49 @@ function getCssSelector(el) {
 	return path.join(" > ");
 }
 
+function injectLabelStyle(s, c=red) {
+	let cssTemplate = `
+.@name@ {
+	border: 2px solid @color@;
+	position: relative;
+	padding: 5px;
+	margin: 5px;
+}
+
+.@name@::after {
+	content: "@label@";
+	color: @color@;
+	font-weight: bold;
+	margin-left: 0.5em;
+	position: absolute;
+	top: 0.7em;
+	left: 100%;
+	transform: translateY(-50%);
+	white-space: nowrap;
+}
+`;
+
+	const n = s.toLowerCase().replaceAll(" ", "-") + "-highlight-" + c;
+
+	if (!document.getElementById("css-" + n)) {
+		let css = cssTemplate;
+		css = css.replaceAll("@name@", n);
+		css = css.replaceAll("@label@", s);
+		css = css.replaceAll("@color@", c);
+		const style = document.createElement("style");
+		style.setAttribute("id", "css-" + n);
+		style.textContent = css;
+		document.head.appendChild(style);
+	}
+
+	return n;
+}
+
+function highlightElement(el, s, c="red") {
+	if (!(el instanceof Element)) return;
+	el.classList.add(injectLabelStyle(s, c));
+}
+
 function foldSoftPreserve(str, maxWidth = 80) {
 	const lines = [];
 	let lineStart = 0;
@@ -234,7 +277,7 @@ class RisExAST {
 		this.set("type", "Text");
 		this.text = getVisibleTextTree(this.baseElement);
 
-		if (el?.previousElementSibling?.classList?.contains("GldSymbol") &&
+		if (this.baseElement?.previousElementSibling?.classList?.contains("GldSymbol") &&
 				this.text.length && typeof this.text[0] === "string")
 			this.text[0] = this.text[0].trimStart();
 	}
@@ -249,22 +292,33 @@ class RisExAST {
 				this.visitElement(item));
 	}
 
-	getJSON(verbose=false) {
-		let tag = this.properties, s = [];
+	getJSON(verbose=false, annotate=false) {
+		let tag = this.properties, color = "blue", s = [];
 
 		if (!verbose) {
 			if (this.get("type") == "Par")
 				tag = "Par " + this.get("par") + " #" + this.get("id");
 
-			if (this.get("type") == "Head" || this.get("type") == "Title")
+			if (this.get("type") == "Head" || this.get("type") == "Title") {
 				tag = this.get("type");
+				color = "cyan";
+			}
 
 			if (this.get("type") == "AbsLst" || this.get("type") == "NumLst" ||
-					this.get("type") == "LitLst" || this.get("type") == "Text")
+					this.get("type") == "LitLst" || this.get("type") == "Text") {
 				tag = this.get("type");
+				color = null;
+			}
 
-			if (this.get("type") == "Item")
+			if (this.get("type") == "Item") {
 				tag = "Item " + this.get("sym");
+				color = "green";
+			}
+		}
+
+		if (annotate && color !== null) {
+			if (typeof tag !== "string") color = "red";
+			highlightElement(this.baseElement, this.get("type"), color);
 		}
 
 		s.push(tag);
@@ -273,13 +327,13 @@ class RisExAST {
 			s.push(item);
 
 		for (let child of this.children)
-			s.push(child.getJSON(verbose));
+			s.push(child.getJSON(verbose, annotate));
 
 		return s;
 	}
 }
 
-function risExtractor(parName=null, stopPar=null, docName=null, verbose=false) {
+function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, annotate=false) {
 	if (!parName) {
 		let doc = ["RisDoc" + (docName ? " " + docName : ""),
 			["Meta Langtitel", "..."],
@@ -290,7 +344,7 @@ function risExtractor(parName=null, stopPar=null, docName=null, verbose=false) {
 		];
 		for (let p of risParList) {
 			if (p !== "§ 0")
-				doc.push(risExtractor(p, null, null, verbose));
+				doc.push(risExtractor(p, null, null, verbose, annotate));
 			if (p === stopPar)
 				break;
 		}
@@ -301,7 +355,7 @@ function risExtractor(parName=null, stopPar=null, docName=null, verbose=false) {
 	ast.set("par", parName);
 	ast.parsePar();
 	// risExtractor.debugAst = ast;
-	return ast.getJSON(verbose);
+	return ast.getJSON(verbose, annotate);
 }
 
 function prettyJSON(data, indent="", autofold=false) {
