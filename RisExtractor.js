@@ -367,7 +367,12 @@ class RisExAST {
 }
 
 function getMetaLangtitel() {
-	return ["Meta Langtitel", "..."];
+	let langtitel = null;
+	document.querySelectorAll("h3").forEach(el => {
+		if (langtitel === null && el.textContent == "Langtitel")
+			langtitel = el.nextSibling.nodeValue.trim();
+	});
+	return ["Meta Langtitel", langtitel];
 }
 
 function getMetaFassungVom() {
@@ -379,7 +384,7 @@ function getMetaLastChange() {
 }
 
 function getMetaRisSrcLink() {
-	return ["Meta RisSrcLink", "..."];
+	return ["Meta RisSrcLink", document.URL.split("#")[0]];
 }
 
 function getMetaParAnchors(stopPar) {
