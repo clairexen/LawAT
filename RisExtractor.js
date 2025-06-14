@@ -148,7 +148,8 @@ function prettyJSON(data, indent="", autofold=false) {
 			(autofold && JSON.stringify(data).length < 80))
 		return indent + JSON.stringify(data);
 
-	if (data[0] == "Text")
+	if (typeof data[0] == "string" &&
+			(data[0] == "Text" || data[0].startsWith("Text ")))
 		autofold = true
 
 	let s = [indent + "[" + JSON.stringify(data[0])];
@@ -356,13 +357,18 @@ class RisExAST {
 			if (this.get("type") == "Par")
 				tag = "Par " + this.get("par");
 
-			if (this.get("type") == "Head" || this.get("type") == "Title") {
+			if (this.get("type") == "Head" || this.get("type") == "Title" ||
+					this.get("type") == "Text") {
 				tag = this.get("type");
+				this.baseElement.classList.forEach(cls => {
+					if (cls != "AlignCenter" && cls != "AlignJustify")
+						tag += " " + cls;
+				});
 				color = "cyan";
 			}
 
 			if (this.get("type") == "AbsLst" || this.get("type") == "NumLst" ||
-					this.get("type") == "LitLst" || this.get("type") == "Text") {
+					this.get("type") == "LitLst") {
 				tag = this.get("type");
 				color = null;
 			}
