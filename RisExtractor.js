@@ -115,6 +115,29 @@ function foldSoftPreserve(str, maxWidth = 80) {
 	return lines;
 }
 
+function prettyJSON(data, indent="", autofold=false) {
+	if (autofold && typeof data === "string" && data.length > 80) {
+		let lines = [];
+		for (let line of foldSoftPreserve(data))
+			lines.push(indent + JSON.stringify(line))
+		return lines.join(",\n");
+	}
+
+	if (!Array.isArray(data) || !data.length ||
+			(autofold && JSON.stringify(data).length < 80))
+		return indent + JSON.stringify(data);
+
+	if (data[0] == "Text")
+		autofold = true
+
+	let s = [indent + "[" + JSON.stringify(data[0])];
+	for (let i = 1; i < data.length; i++)
+		s.push(",\n" + prettyJSON(data[i],
+				indent + "    ", autofold));
+	s.push("]");
+
+	return s.join("")
+}
 
 function isVisible(el) {
 	if (!el) return false;
@@ -399,26 +422,3 @@ function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, a
 	return ast.getJSON(verbose, annotate);
 }
 
-function prettyJSON(data, indent="", autofold=false) {
-	if (autofold && typeof data === "string" && data.length > 80) {
-		let lines = [];
-		for (let line of foldSoftPreserve(data))
-			lines.push(indent + JSON.stringify(line))
-		return lines.join(",\n");
-	}
-
-	if (!Array.isArray(data) || !data.length ||
-			(autofold && JSON.stringify(data).length < 80))
-		return indent + JSON.stringify(data);
-
-	if (data[0] == "Text")
-		autofold = true
-
-	let s = [indent + "[" + JSON.stringify(data[0])];
-	for (let i = 1; i < data.length; i++)
-		s.push(",\n" + prettyJSON(data[i],
-				indent + "    ", autofold));
-	s.push("]");
-
-	return s.join("")
-}

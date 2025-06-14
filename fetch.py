@@ -8,6 +8,7 @@ from urllib.parse import urljoin
 from ptpython.repl import embed
 from pathlib import Path
 import unicodedata
+from utils import *
 
 # Remember to launch
 #   mitmproxy --mode regular --listen-port 8080 -s mitmp.py
@@ -189,6 +190,17 @@ if printHttpRequests:
 print(f"Loading {normkey} from {normdata['docurl']}")
 page.goto(normdata["docurl"])
 page.add_script_tag(path="RisExtractor.js")
+
+print(f"Extracting files/{normkey}.ris.json")
+stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
+risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopParJs}, '{normkey}'))")
+open(f"files/{normkey}.ris.json", "w").write(risDocJsonText)
+
+if False:
+    print("DONE.")
+    browser.close()
+    playwright.stop()
+    sys.exit(0)
 
 langtitel = page.locator("h3") \
  .get_by_text("Langtitel", exact=True) \
