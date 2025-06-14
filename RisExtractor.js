@@ -1,6 +1,27 @@
 // RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 // Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
+function logElementTreeWithIds(root, indent = "") {
+	if (!(root instanceof Element)) return;
+
+	if (root.id) {
+		const tag = root.tagName.toLowerCase();
+		const classes = [...root.classList].map(cls => `.${cls}`).join("");
+		console.log(`${indent}${tag}${classes}#${root.id}`);
+	}
+
+	for (const child of root.children) {
+		logElementTreeWithIdsOnly(child, indent + "	 ");
+	}
+}
+
+function inCls(el, ...args) {
+	for (let arg of args)
+		if (el.classList.contains(arg))
+			return true;
+	return false;
+}
+
 function getCssSelector(el) {
 	if (!(el instanceof Element)) return null;
 	const path = [];
@@ -219,33 +240,36 @@ class RisExAST {
 	}
 
 	visitElement(el) {
-		if (el.tagName == "H5" && el.classList.contains("GldSymbol"))
+		if (el.tagName == "H5" && inCls(el, "GldSymbol"))
 			return;
 
-		if (el.tagName == "DIV" && el.classList.contains("MarginTop4"))
+		if (el.tagName == "DIV" && inCls(el, "MarginTop4"))
 			return el.querySelectorAll(":scope > *").
 					forEach(child => this.visitElement(child));
 
 		let ast = new RisExAST(this, el);
 
-		if (el.tagName == "H4") {
-			if (el.classList.contains("UeberschrPara"))
+		if (el.tagName == "H4" || inCls(el, "UeberschrG2")) {
+			if (inCls(el, "UeberschrPara"))
 				return ast.parseTitle();
 			return ast.parseHeading();
 		}
 
 		if (el.tagName == "DIV" || el.tagName == "P") {
-			if (el.classList.contains("ParagraphMitAbsatzzahl"))
+			if (inCls(el, "ParagraphMitAbsatzzahl"))
 				return ast.parseAbsLst();
-			if (el.classList.contains("Abs_small_indent") ||
-					el.classList.contains("AufzaehlungE1") ||
-					el.classList.contains("SchlussteilE0_5") ||
-					el.classList.contains("Abs"))
+			if (inCls(el, "Abs", "Abs_small_indent", "SatznachNovao", "ErlText",
+					"AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2",
+					"SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
+					"SchlussteilE0_5"))
 				return ast.parseText();
 		}
 
-		if (el.tagName == "OL" && el.classList.contains("wai-list"))
+		if (el.tagName == "OL" && inCls(el, "wai-list", "wai-absatz-list"))
 			return ast.parseLst();
+
+		if (inCls(el, "Abstand"))
+			return ast.set("type", "Break");
 
 		ast.set("type", "Unknown");
 		ast.set("path", getCssSelector(el));
