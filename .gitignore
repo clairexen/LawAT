@@ -1,5 +1,7 @@
 .*.swp
 /.venv/
 /__pycache__/
+/RisExBigDocs.zip
+/RisExMarkup.zip
 /RisExFiles.zip
 /RisExData.json

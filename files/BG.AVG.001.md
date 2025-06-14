@@ -10,6 +10,8 @@
 
 *(Inhaltsverzeichnis: [BG.AVG.toc](BG.AVG.toc.md))*
 
+Der Nationalrat hat beschlossen:
+
 ## I. Teil: Allgemeine Bestimmungen # 1. Abschnitt: Behörden
 
 ### § 1 AVG # Zuständigkeit

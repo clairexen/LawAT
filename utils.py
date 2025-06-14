@@ -211,6 +211,18 @@ def cli_fetch(*args):
     print("DONE.")
     stopPlaywright()
 
+def cli_mkjson():
+    data = dict()
+
+    for fn in ["index.json"] + glob.glob("files/*.json") + glob.glob("files/*.md"):
+        if fn.endswith(".json"):
+            data[fn.removeprefix("files/")] = json.load(open(fn))
+        else:
+            data[fn.removeprefix("files/")] = open(fn).read().split("\n")
+
+    with open("RisExData.json", "w") as f:
+        json.dump(data, f)
+
 def main(*args):
     while len(args) and args[0].startswith("--"):
         updateFlags(args[0])

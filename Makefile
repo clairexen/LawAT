@@ -10,9 +10,9 @@ help:
 	@echo ""
 	@echo "Usage:"
 	@echo "  make venv ........ create Python .venv/"
-	@echo "  make zip ......... (re-)create RisExFiles.zip"
+	@echo "  make zip ......... (re-)create RisEx*.zip"
 	@echo "  make json ........ (re-)create RisExData.json"
-	@echo "  make purge ....... remove .venv and RisExFiles.zip"
+	@echo "  make purge ....... remove these (re-)created output files"
 	@echo ""
 	@echo "Interactive ptpython shell (with RisEnQuery.py pre-loaded):"
 	@echo "  make shell ....... interactive shell"
@@ -32,20 +32,27 @@ intro: venv zip
 	.venv/bin/ptpython -i RisEnQuery.py intro
 
 venv: .venv/bin/activate
-.venv/bin/activate: # mkvenv.sh
-	bash mkvenv.sh
+.venv/bin/activate:
+	python3 -m venv .venv
+	.venv/bin/pip install playwright
+	.venv/bin/pip install requests
+	.venv/bin/pip install ptpython
+	.venv/bin/pip install rich
+	.venv/bin/playwright install
 
 zip: RisExFiles.zip
 RisExFiles.zip: index.json files/*
-	rm -vf RisExFiles.zip
-	zip -vXj RisExFiles.zip -r files index.json
+	rm -vf RisExMarkup.zip RisExBigDocs.zip RisExFiles.zip
+	zip -vXj RisExBigDocs.zip -r files index.json -i index.json "*.big.md"
+	zip -vXj RisExMarkup.zip  -r files index.json -i index.json "*.ris.json"
+	zip -vXj RisExFiles.zip   -r files index.json -x "*.ris.json" "*.big.md"
 
 json: RisExData.json
 RisExData.json: venv index.json files/*
-	.venv/bin/python3 mkjson.py
+	./utils.py mkjson
 
 define fetch_body
-files/$N.toc.md: venv index.json
+files/$N.toc.md: # venv index.json
 	./fetch.py $N
 
 endef
@@ -55,6 +62,7 @@ fetch: $(foreach N,$(NORM_LIST),files/$N.toc.md)
 $(eval $(foreach N,$(NORM_LIST),$(fetch_body)))
 
 purge:
-	rm -rf .venv RisExFiles.zip RisExData.json
+	rm -rf .venv RisExData.json
+	rm -rf RisExMarkup.zip RisExBigDocs.zip RisExFiles.zip
 
 .PHONY: query help shell intro venv zip json fetch purge
