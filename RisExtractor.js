@@ -136,7 +136,7 @@ function foldSoftPreserve(str, maxWidth = 80) {
 	return lines;
 }
 
-function prettyJSON(data, indent="", autofold=false) {
+function prettyJSON(data, indent="", autofold=false, addFinalNewline=true) {
 	if (autofold && typeof data === "string" && data.length > 80) {
 		let lines = [];
 		for (let line of foldSoftPreserve(data))
@@ -155,8 +155,8 @@ function prettyJSON(data, indent="", autofold=false) {
 	let s = [indent + "[" + JSON.stringify(data[0])];
 	for (let i = 1; i < data.length; i++)
 		s.push(",\n" + prettyJSON(data[i],
-				indent + "    ", autofold));
-	s.push("]");
+				indent + "    ", autofold, false));
+	s.push(addFinalNewline ? "]\n" : "]");
 
 	return s.join("")
 }

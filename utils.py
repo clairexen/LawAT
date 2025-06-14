@@ -289,6 +289,9 @@ def cli_risdoc(*args):
     doStdIo = True
 
     def handleArg(arg):
+        if arg != "-" and not os.access(arg, os.F_OK) and \
+                os.access(fn := f"files/{arg}.ris.json", os.F_OK): arg = fn
+
         txt = (open(arg) if arg != "-" else sys.stdin).read()
 
         if optFixJSON:
