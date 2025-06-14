@@ -63,6 +63,7 @@
 		"split": 20000,
 		"stop": "§ 82",
 		"caption": "Allgemeines Verwaltungsverfahrensgesetz (AVG)",
+		"promulgationsklausel": "Der Nationalrat hat beschlossen:",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768"
 	}
 }

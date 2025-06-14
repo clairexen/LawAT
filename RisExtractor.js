@@ -376,11 +376,16 @@ function getMetaLangtitel() {
 }
 
 function getMetaFassungVom() {
-	return ["Meta FassungVom", "..."];
+	return ["Meta FassungVom", document.querySelector("#Title").textContent.
+			replace(/.*, Fassung vom /s, "").trim()];
 }
 
 function getMetaLastChange() {
-	return ["Meta LastChange", "..."];
+	let lastChange;
+	document.querySelectorAll("div#content > div.document > div.documentContent:first-child h3").
+			forEach(el => { if (el.textContent == "Änderung") lastChange = el.nextElementSibling.
+			firstElementChild.lastElementChild.textContent; })
+	return ["Meta LastChange", lastChange];
 }
 
 function getMetaRisSrcLink() {
@@ -413,7 +418,7 @@ function getMetaLocalChanges() {
 }
 
 function getMetaPromulgation() {
-	return ["Meta Promulgation", "..."];
+	return ["Meta Promulgation", document.querySelector(".PromKlEinlSatz")?.textContent ?? risUserPromKl];
 }
 
 function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, annotate=false) {
@@ -441,4 +446,3 @@ function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, a
 	// risExtractor.debugAst = ast;
 	return ast.getJSON(verbose, annotate);
 }
-

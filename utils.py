@@ -187,6 +187,11 @@ def cli_fetch(*args):
         page.goto(normdata["docurl"])
         page.add_script_tag(path="RisExtractor.js")
 
+        if 'promulgationsklausel' in normdata:
+            t = normdata['promulgationsklausel'].\
+                    replace('\\', '\\\\').replace('"', '\\"')
+            page.evaluate(f'risUserPromKl = "{t}"')
+
         if flags.interactive:
             embed(globals(), locals())
 
