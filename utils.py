@@ -17,6 +17,7 @@ from utils import *
 
 FlagDefaults = {
     "headless": True,
+    "interactive": False,
     "proxy": "http://127.0.0.1:8080",
     "loghttp": False
 }
@@ -185,6 +186,9 @@ def cli_fetch(*args):
         print(f"Loading {normkey} from {normdata['docurl']}")
         page.goto(normdata["docurl"])
         page.add_script_tag(path="RisExtractor.js")
+
+        if flags.interactive:
+            embed(globals(), locals())
 
         print(f"Extracting files/{normkey}.ris.json")
         stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"

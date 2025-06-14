@@ -301,9 +301,9 @@ class RisExAST {
 				forEach(el => {
 			let ast = new RisExAST(this, el);
 			ast.parseItem();
-			if (ast.get("sym").match(/^[0-9]+[a-z]*\.$/))
+			if (ast.get("sym")?.match(/^[0-9]+[a-z]*\.$/))
 				this.set("type", "NumLst");
-			if (ast.get("sym").match(/^[a-z]+[0-9]*\)$/))
+			if (ast.get("sym")?.match(/^[a-z]+[0-9]*\)$/))
 				this.set("type", "LitLst");
 		});
 	}
@@ -319,8 +319,6 @@ class RisExAST {
 
 	parsePar() {
 		this.set("type", "Par");
-		this.set("id", this.baseElement.querySelector(":scope > div.embeddedContent").
-				getAttribute("id").split("_").slice(-2).join("_"))
 		this.contentElement = this.baseElement.querySelector(
 				":scope > div.embeddedContent > div > div.contentBlock");
 		this.contentElement.querySelectorAll(":scope > *").forEach(item =>
@@ -332,7 +330,7 @@ class RisExAST {
 
 		if (!verbose) {
 			if (this.get("type") == "Par")
-				tag = "Par " + this.get("par") + " #" + this.get("id");
+				tag = "Par " + this.get("par");
 
 			if (this.get("type") == "Head" || this.get("type") == "Title") {
 				tag = this.get("type");
@@ -384,8 +382,25 @@ function getMetaRisSrcLink() {
 	return ["Meta RisSrcLink", "..."];
 }
 
-function getMetaParAnchors() {
-	return ["Meta ParAnchors", "..."];
+function getMetaParAnchors(stopPar) {
+	let el, id, data = ["Meta ParAnchors"];
+
+	for (let p of risParList) {
+		if (p === "§ 0")
+			continue;
+
+		el = risContentBlocks[p];
+		console.log(p, el);
+		id = el.querySelector(":scope > div.embeddedContent").id;
+		data.push(p + " #" + id);
+
+		if (p === stopPar)
+			break;
+	}
+
+	id = el.nextElementSibling.querySelector(":scope > div.embeddedContent").id;
+	data.push("END #" + id);
+	return data;
 }
 
 function getMetaLocalChanges() {
@@ -403,7 +418,7 @@ function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, a
 		doc.push(getMetaFassungVom());
 		doc.push(getMetaLastChange());
 		doc.push(getMetaRisSrcLink());
-		doc.push(getMetaParAnchors());
+		doc.push(getMetaParAnchors(stopPar));
 		doc.push(getMetaLocalChanges());
 		doc.push(getMetaPromulgation());
 		for (let p of risParList) {
