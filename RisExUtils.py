@@ -17,6 +17,7 @@ import unicodedata
 normindex = json.load(open("index.json"))
 
 GlobalFlagDefaults = {
+    "esc": True,
     "show": False,
     "embed": False,
     "loghttp": False,
@@ -181,6 +182,7 @@ def markdownHeaderToAnchor(header: str) -> str:
     return anchor
 
 def markdownEscape(text):
+    if not flags.esc: return text
     # Escape all Markdown special characters, including @ and >
     return re.sub(r'([\\`*_{}[\]()#+\-.!|>~@>])', r'\\\1', text)
 
@@ -315,6 +317,20 @@ class RisDocMarkdownEngine:
     def pop(self):
         return self.lines.pop()
 
+    def append(self, line):
+        self.lines[-1] += line
+
+    def smallBreak(self):
+        if self.lines[-1] == "": return
+        if self.lines[-1].endswith("  "): return
+        self.append("  ")
+
+    def largeBreak(self):
+        if self.lines[-1] == "": return
+        if self.lines[-1].endswith("  "):
+            self.lines[-1] = self.lines[-1].removesuffix("  ")
+        self.push("")
+
     def genFileHeader(self, partIdx=None):
         # # BG.VerG.TOC — Vereinsgesetz (VerG)
         # **Typ:** Bundesgesetz
@@ -336,25 +352,32 @@ class RisDocMarkdownEngine:
         self.pushLineNum()
 
         self.push(f"# {self.normkey}.{partSuff.upper()} — {self.normdata['caption']}")
-        self.push(f"**Typ:** {docTypeToLongName(self.normdata['type'])}")
-        self.push(f"**Quelle:** {self.normdata['docurl']}")
-        self.push(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/{self.normkey}.{partSuff}.md")
+        self.push(f"**Typ:** {docTypeToLongName(self.normdata['type'])}  ")
+        self.push(f"**Quelle:** {self.normdata['docurl']}  ")
+        self.push(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/{self.normkey}.{partSuff}.md  ")
         self.push(f"*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
 
         return self.popLineNum()
 
-    def genText(self, item):
+    def genText(self, item, *, nobr=False):
         self.pushLineNum()
         head, *tail = item
         tag = head.split()
 
         match tag[0]:
-            case "Text": self.push(renderText(item))
-            case "NumLst": self.genLst(item)
-            case "LitLst": self.genLst(item)
-            case "Lst": self.genLst(item)
+            case "Text":
+                if not nobr and tag[1] in ("SchlussteilE0", "ErlText"):
+                    self.smallBreak()
+                self.push(renderText(item))
+
+            case "Break":
+                self.largeBreak()
+
             case _:
-                print(f"> Unsupported Tag in genText(): {tag}")
+                if tag[0] in ("NumLst", "LitLst", "Lst"):
+                    self.genLst(item)
+                else:
+                    assert False, f"Unsupported Tag in genText(): {tag}"
 
         # for t in tail: self.genItem(t)
 
@@ -366,10 +389,20 @@ class RisDocMarkdownEngine:
         tag = head.split()
 
         assert tag[0] == "Item"
-        self.citepath.append(head)
+        cite = head.removeprefix("Item ")
+        match typ:
+            case "NumLst" if re.fullmatch(r"[0-9]+[a-z]*\.", cite):
+                cite = f"Z {cite[:-1]}"
+            case "LitLst" if re.fullmatch(r"[a-z]+[0-9]*\)", cite):
+                cite = f"lit. {cite[:-1]}"
+        self.citepath.append(cite)
 
-        # self.push(f"`{head.removeprefix('Item ')}`")
-        self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}`")
+        if typ == "AbsLst":
+            self.largeBreak()
+            self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
+        else:
+            self.smallBreak()
+            self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`")
 
         for t in tail:
             self.genText(t)
@@ -394,6 +427,7 @@ class RisDocMarkdownEngine:
         self.citepath.append(parDoc[0].removeprefix("Par "))
         parTitle = f"{' '.join(self.citepath)} {self.normdata['title']}"
 
+        lastTyp = None
         for item in parDoc[1:]:
             if type(item[0]) is dict:
                 print(item)
@@ -404,20 +438,40 @@ class RisDocMarkdownEngine:
 
             match tag[0]:
                 case "Head":
-                    self.push(f"## {renderText(item)}")
+                    if lastTyp == "Head":
+                        self.append(f" # {renderText(item)}")
+                    else:
+                        self.largeBreak()
+                        self.push(f"## {renderText(item)}")
                 case "Title":
                     assert parTitle is not None
                     parTitle = f"{parTitle} # {renderText(item)}"
                 case _:
                     if parTitle is not None:
+                        self.largeBreak()
                         self.push(f"### {parTitle}")
-                        parTitle = None
+                        if tag[0] != "Text":
+                            parTitle = None
 
                     if tag[0] == "Text":
-                        self.push(renderText(item))
+                        if parTitle is not None:
+                            self.largeBreak()
+                            self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
+                            parTitle = None
+                            self.genText(item, nobr=True)
+                        else:
+                            self.genText(item)
+
+                    elif tag[0] == "Break":
+                        self.largeBreak()
 
                     elif tag[0] in ("AbsLst", "NumLst", "LitLst", "Lst"):
                         self.genLst(item)
+
+                    else:
+                        assert False, f"Unsupported Tag in genText(): {tag}"
+
+            lastTyp = tag[0]
 
         self.citepath.pop()
         return self.popLineNum()
@@ -430,6 +484,8 @@ class RisDocMarkdownEngine:
             if tag[0] != "Par":
                 continue
             self.genPar(item)
+        self.largeBreak()
+        self.push("`END-OF-DATA-SET`")
         return self.popLineNum()
 
 # CLI Interface
@@ -578,7 +634,7 @@ def cli_mkjson():
         json.dump(data, f)
 
 def cli_shell():
-    flags.embed = True
+    updateFlags("--embed")
     embed()
 
 def main(*args):

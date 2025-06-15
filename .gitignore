@@ -1,6 +1,7 @@
 .*.swp
 /.venv/
 /__pycache__/
+/bakfiles/
 /RisExBigDocs.zip
 /RisExMarkup.zip
 /RisExFiles.zip

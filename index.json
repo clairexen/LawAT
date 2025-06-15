@@ -2,7 +2,6 @@
 	"BG.StGB": {
 		"type": "BG",
 		"title": "StGB",
-		"split": 20000,
 		"stop": "§ 324",
 		"caption": "Strafgesetzbuch (StGB)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296"
@@ -10,7 +9,6 @@
 	"BG.StPO": {
 		"type": "BG",
 		"title": "StPO",
-		"split": 20000,
 		"stop": "§ 517",
 		"caption": "Strafprozeßordnung (StPO)",
 		"promulgationsklausel": "Der Nationalrat hat beschlossen:",
@@ -19,7 +17,6 @@
 	"BG.ABGB": {
 		"type": "BG",
 		"title": "ABGB",
-		"split": 20000,
 		"stop": "§ 1503",
 		"caption": "Allgemeines bürgerliches Gesetzbuch (ABGB)",
 		"promulgationsklausel": "",
@@ -28,7 +25,6 @@
 	"BG.ZPO": {
 		"type": "BG",
 		"title": "ZPO",
-		"split": 20000,
 		"stop": "§ 637",
 		"caption": "Zivilprozessordnung (ZPO)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699"
@@ -36,7 +32,6 @@
 	"BG.VerG": {
 		"type": "BG",
 		"title": "VerG",
-		"split": 20000,
 		"extratitles": ["VerG_2002"],
 		"caption": "Vereinsgesetz (VerG)",
 		"promulgationsklausel": "Der Nationalrat hat beschlossen:",
@@ -45,7 +40,6 @@
 	"BG.StVO": {
 		"type": "BG",
 		"title": "StVO",
-		"split": 20000,
 		"stop": "§ 106",
 		"force_erl_item": [
 			"a)\nEine Zusatztafel mit der Angabe bestimmter Stunden*",
@@ -62,7 +56,6 @@
 	"BG.AVG": {
 		"type": "BG",
 		"title": "AVG",
-		"split": 20000,
 		"stop": "§ 82",
 		"caption": "Allgemeines Verwaltungsverfahrensgesetz (AVG)",
 		"promulgationsklausel": "Der Nationalrat hat beschlossen:",
@@ -71,7 +64,6 @@
 	"BG.JN": {
 		"type": "BG",
 		"title": "JN",
-		"split": "20000",
 		"stop": "§ 123",
 		"caption": "Jurisdiktionsnorm (JN)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697"

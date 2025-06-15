@@ -370,7 +370,7 @@ class RisExAST {
 				color = "cyan";
 			}
 
-			if (this.typeIn("AbsLst", "NumLst", "LitLst", "Lst")) {
+			if (this.typeIn("AbsLst", "NumLst", "LitLst", "Lst", "Break")) {
 				tag = this.get("type");
 				color = null;
 			}
