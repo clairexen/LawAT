@@ -219,6 +219,41 @@ document.querySelectorAll("div.document > div.documentContent").forEach(el => {
 });
 
 class RisExAST {
+	risClsToRisExTyp = (() => {
+		let tab = {
+			"Head": {
+				"Erl": ["ErlUeberschrL"],
+				"Art": ["UeberschrArt"],
+				"": ["UeberschrG1", "UeberschrG1-",
+				     "UeberschrG2","UeberschrG1-AfterG2" ]
+			},
+			"Title": {
+				"": ["UeberschrPara"]
+			},
+			"Text": {
+				"Aufz": ["AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2"],
+				"End": ["SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
+					"SchlussteilE0_5", "SatznachNovao"],
+				"Erl": ["ErlText"],
+				"": ["Abs", "Abs_small_indent"]
+			},
+			"": ["AlignCenter", "AlignJustify"]
+		};
+		let db = {};
+		for (let tag in tab) {
+			if (tag == "")
+				continue;
+			db[tag] = {};
+			for (let typ in tab[tag]) {
+				for (let cls of tab[""])
+					db[tag][cls] = "";
+				for (let cls of tab[tag][typ])
+					db[tag][cls] = typ;
+			}
+		}
+		return db;
+	})();
+
 	constructor(parentObj, baseElement) {
 		this.parentObj = parentObj;
 		if (this.parentObj !== null)
@@ -363,11 +398,27 @@ class RisExAST {
 
 			if (this.typeIn("Head", "Title", "Text")) {
 				tag = this.get("type");
+				let tagTyp = "";
 				this.baseElement.classList.forEach(cls => {
-					if (cls != "AlignCenter" && cls != "AlignJustify")
-						tag += " " + cls;
+					if (cls in this.risClsToRisExTyp[tag]) {
+						let typ = this.risClsToRisExTyp[tag][cls];
+						if (typ != "") tagTyp += " " + typ;
+					} else
+						tagTyp += " ?" + cls;
 				});
+				tag += tagTyp;
 				color = "cyan";
+			}
+
+			if (tag == "Head" || tag == "Title") {
+				for (let c of this.parentObj.children) {
+					if (c === this)
+						break;
+					if (c.typeIn("Head", "Title"))
+						continue;
+					tag += " Erl";
+					break;
+				}
 			}
 
 			if (this.typeIn("AbsLst", "NumLst", "LitLst", "Lst", "Break")) {
@@ -473,8 +524,8 @@ function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, a
 	}
 	let el = risContentBlocks[parName];
 	let ast = new RisExAST(null, el);
+	risExtractor.debugAst = ast;
 	ast.set("par", parName);
 	ast.parsePar();
-	// risExtractor.debugAst = ast;
 	return ast.getJSON(verbose, annotate);
 }

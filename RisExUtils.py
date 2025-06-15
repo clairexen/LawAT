@@ -314,6 +314,11 @@ class RisDocMarkdownEngine:
     def push(self, line):
         self.lines.append(line)
 
+    def pushHdr(self, line):
+        self.largeBreak();
+        self.lines.append(line)
+        self.largeBreak();
+
     def pop(self):
         return self.lines.pop()
 
@@ -366,7 +371,7 @@ class RisDocMarkdownEngine:
 
         match tag[0]:
             case "Text":
-                if not nobr and tag[1] in ("SchlussteilE0", "ErlText"):
+                if not nobr and len(tag) > 1 and tag[1] in ("End", "Erl"):
                     self.smallBreak()
                 self.push(renderText(item))
 
@@ -383,7 +388,7 @@ class RisDocMarkdownEngine:
 
         return self.popLineNum()
 
-    def genItem(self, item, typ):
+    def genItem(self, item, typ, br=True):
         self.pushLineNum()
         head, *tail = item
         tag = head.split()
@@ -397,7 +402,10 @@ class RisDocMarkdownEngine:
                 cite = f"lit. {cite[:-1]}"
         self.citepath.append(cite)
 
-        if typ == "AbsLst":
+        if br:
+            self.largeBreak()
+
+        if typ == "AbsLst" or (br and typ == "Lst" and len(self.citepath) == 2):
             self.largeBreak()
             self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
         else:
@@ -410,13 +418,13 @@ class RisDocMarkdownEngine:
         self.citepath.pop()
         return self.popLineNum()
 
-    def genLst(self, item):
+    def genLst(self, item, *, br=False):
         self.pushLineNum()
         head, *tail = item
         tag = head.split()
 
         for t in tail:
-            self.genItem(t, tag[0])
+            self.genItem(t, tag[0], br)
 
         return self.popLineNum()
 
@@ -430,7 +438,8 @@ class RisDocMarkdownEngine:
         lastTyp = None
         for item in parDoc[1:]:
             if type(item[0]) is dict:
-                print(item)
+                #  assert False, f"Unsupported Tag in genText(): {tag}"
+                #print(f"Unsuppoerted {item=}")
                 continue
 
             head, *tail = item
@@ -440,16 +449,19 @@ class RisDocMarkdownEngine:
                 case "Head":
                     if lastTyp == "Head":
                         self.append(f" # {renderText(item)}")
+                    elif len(tag) > 1 and tag[1] == "Erl":
+                        self.pushHdr(f"#### {renderText(item)}")
                     else:
-                        self.largeBreak()
-                        self.push(f"## {renderText(item)}")
+                        self.pushHdr(f"## {renderText(item)}")
                 case "Title":
-                    assert parTitle is not None
-                    parTitle = f"{parTitle} # {renderText(item)}"
+                    if len(tag) > 1 and tag[1] == "Erl":
+                        self.pushHdr(f"#### {renderText(item)}")
+                    else:
+                        assert parTitle is not None
+                        parTitle = f"{parTitle} # {renderText(item)}"
                 case _:
                     if parTitle is not None:
-                        self.largeBreak()
-                        self.push(f"### {parTitle}")
+                        self.pushHdr(f"### {parTitle}")
                         if tag[0] != "Text":
                             parTitle = None
 
@@ -460,19 +472,21 @@ class RisDocMarkdownEngine:
                             parTitle = None
                             self.genText(item, nobr=True)
                         else:
+                            self.largeBreak()
                             self.genText(item)
 
                     elif tag[0] == "Break":
                         self.largeBreak()
 
                     elif tag[0] in ("AbsLst", "NumLst", "LitLst", "Lst"):
-                        self.genLst(item)
+                        self.genLst(item, br=True)
 
                     else:
                         assert False, f"Unsupported Tag in genText(): {tag}"
 
             lastTyp = tag[0]
 
+        self.largeBreak()
         self.citepath.pop()
         return self.popLineNum()
 
