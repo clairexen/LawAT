@@ -240,6 +240,10 @@ class RisExAST {
 		return defaultValue;
 	}
 
+	typeIn(...args) {
+		return args.indexOf(this.get("type")) >= 0;
+	}
+
 	visitElement(el) {
 		if (el.tagName == "H5" && inCls(el, "GldSymbol"))
 			return;
@@ -354,11 +358,10 @@ class RisExAST {
 		let tag = this.properties, color = "blue", s = [];
 
 		if (!verbose) {
-			if (this.get("type") == "Par")
+			if (this.typeIn("Par"))
 				tag = "Par " + this.get("par");
 
-			if (this.get("type") == "Head" || this.get("type") == "Title" ||
-					this.get("type") == "Text") {
+			if (this.typeIn("Head", "Title", "Text")) {
 				tag = this.get("type");
 				this.baseElement.classList.forEach(cls => {
 					if (cls != "AlignCenter" && cls != "AlignJustify")
@@ -367,13 +370,12 @@ class RisExAST {
 				color = "cyan";
 			}
 
-			if (this.get("type") == "AbsLst" || this.get("type") == "NumLst" ||
-					this.get("type") == "LitLst") {
+			if (this.typeIn("AbsLst", "NumLst", "LitLst", "Lst")) {
 				tag = this.get("type");
 				color = null;
 			}
 
-			if (this.get("type") == "Item") {
+			if (this.typeIn("Item")) {
 				tag = "Item " + this.get("sym");
 				color = "green";
 			}

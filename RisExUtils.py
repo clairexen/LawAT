@@ -2,8 +2,8 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
-import ptpython, inspect
 import re, glob, fnmatch
+import ptpython, inspect, traceback
 import time, sys, json, os, tempfile
 from collections import namedtuple
 from urllib.parse import urljoin
@@ -58,8 +58,8 @@ def updateFlags(*opts):
     return opts
 
 
-# Various Other Utility Functions
-#################################
+# ptpython and other debug helpers
+##################################
 
 def pr(*args):
     for arg in args:
@@ -68,19 +68,31 @@ def pr(*args):
         else:
             pr(*arg)
 
+def ptpy_configure(repl):
+    if False:
+        for n in dir(repl):
+            if n.startswith("_"): continue
+            print(n, getattr(repl, n))
+    repl.swap_light_and_dark = True
+
 def embed():
     if not flags.embed:
         return
 
-    def configure(repl):
-        if False:
-            for n in dir(repl):
-                if n.startswith("_"): continue
-                print(n, getattr(repl, n))
-        repl.swap_light_and_dark = True
     caller = inspect.currentframe().f_back
-    print(f"Called embed() from {caller.f_code.co_filename}:{caller.f_lineno}.")
-    ptpython.repl.embed(caller.f_globals, caller.f_locals, configure=configure)
+    print(f"\nCalled embed() from {caller.f_code.co_filename}:{caller.f_lineno} — dropping to ptpython:")
+    ptpython.repl.embed(caller.f_globals, caller.f_locals, configure=ptpy_configure)
+
+def excepthook(typ, value, tb):
+    traceback.print_exception(typ, value, tb)
+    print("\nUncaught exception — dropping to ptpython:")
+    ptpython.repl.embed(globals(), locals(), configure=ptpy_configure)
+
+#sys.excepthook = excepthook
+
+
+# Various Other Utility Functions
+#################################
 
 # Python version of prettyJSON() from RisExtractor.js
 def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
@@ -249,6 +261,26 @@ def playwrightRequest(img_src):
 # RisDoc -> Markdown Engine
 ###########################
 
+def renderText(item, inAnm=False):
+    if type(item) is str:
+        return markdownEscape(item)
+
+    head, *tail = item
+    tag, s = head.split(), []
+
+    if tag[0] == "Anm":
+        assert inAnm is False
+        inAnm = True
+        s.append("*")
+
+    for t in tail:
+        s.append(renderText(t, inAnm))
+
+    if tag[0] == "Anm":
+        s.append("*")
+
+    return "".join(s)
+
 class RisDocMarkdownEngine:
     def __init__(self, risDoc):
         self.risDoc = risDoc
@@ -266,6 +298,7 @@ class RisDocMarkdownEngine:
 
         self.lines = []
         self.lineNumStack = []
+        self.citepath = []
 
     def pushLineNum(self):
         self.lineNumStack.append(len(self.lines))
@@ -306,6 +339,89 @@ class RisDocMarkdownEngine:
         self.push(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/{self.normkey}.{partSuff}.md")
         self.push(f"*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
 
+        return self.popLineNum()
+
+    def genText(self, item):
+        self.pushLineNum()
+        head, *tail = item
+        tag = head.split()
+
+        self.push(f"> {tag}")
+
+        # for t in tail: self.genItem(t)
+
+        return self.popLineNum()
+
+    def genItem(self, item, typ):
+        self.pushLineNum()
+        head, *tail = item
+        tag = head.split()
+
+        assert tag[0] == "Item"
+        self.citepath.append(head)
+
+        # self.push(f"`{head.removeprefix('Item ')}`")
+        self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}`")
+
+        for t in tail:
+            self.genText(t)
+
+        self.citepath.pop()
+        return self.popLineNum()
+
+    def genLst(self, item):
+        self.pushLineNum()
+        head, *tail = item
+        tag = head.split()
+
+        for t in tail:
+            self.genItem(t, tag[0])
+
+        return self.popLineNum()
+
+    def genPar(self, parDoc):
+        self.pushLineNum()
+
+        assert not self.citepath
+        self.citepath.append(parDoc[0].removeprefix("Par "))
+        parTitle = f"{' '.join(self.citepath)} {self.normdata['title']}"
+
+        for item in parDoc[1:]:
+            if type(item[0]) is dict:
+                print(item)
+                continue
+
+            head, *tail = item
+            tag = head.split()
+
+            match tag[0]:
+                case "Head":
+                    self.push(f"## {renderText(item)}")
+                case "Title":
+                    assert parTitle is not None
+                    parTitle = f"{parTitle} # {renderText(item)}"
+                case _:
+                    if parTitle is not None:
+                        self.push(f"### {parTitle}")
+                        parTitle = None
+
+                    if tag[0] == "Text":
+                        self.push(renderText(item))
+
+                    elif tag[0] in ("AbsLst", "NumLst", "LitLst", "Lst"):
+                        self.genLst(item)
+
+        self.citepath.pop()
+        return self.popLineNum()
+
+    def genFile(self, partIdx=None):
+        self.pushLineNum()
+        self.genFileHeader(partIdx)
+        for item in self.risDoc[1:]:
+            tag = item[0].split()
+            if tag[0] != "Par":
+                continue
+            self.genPar(item)
         return self.popLineNum()
 
 # CLI Interface
@@ -396,7 +512,7 @@ def cli_render(*args):
         print(f"Loading {normkey} RisDoc from files/{normkey}.ris.json")
         engine = RisDocMarkdownEngine(json.load(open(f"files/{normkey}.ris.json")))
 
-        pr(engine.genFileHeader())
+        pr(engine.genFile())
         embed()
 
     print("DONE.")
