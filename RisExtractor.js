@@ -149,7 +149,8 @@ function prettyJSON(data, indent="", autofold=false, addFinalNewline=true) {
 		return indent + JSON.stringify(data);
 
 	if (typeof data[0] == "string" &&
-			(data[0] == "Text" || data[0].startsWith("Text ")))
+			(data[0] == "Text" || data[0].startsWith("Text ") ||
+			 data[0] == "ErlTxt" || data[0].startsWith("ErlTxt ")))
 		autofold = true;
 
 	let s = [indent + "[" + JSON.stringify(data[0])];
@@ -239,6 +240,8 @@ class RisExAST {
 			},
 			"": ["AlignCenter", "AlignJustify"]
 		};
+		tab["ErlHdr"] = tab["Head"];
+		tab["ErlTxt"] = tab["Text"];
 		let db = {};
 		for (let tag in tab) {
 			if (tag == "")
@@ -303,6 +306,8 @@ class RisExAST {
 					"SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
 					"SchlussteilE0_5"))
 				return ast.parseText();
+			if (inCls(el, "AbbildungoderObjekt"))
+				return ast.parseMedia();
 		}
 
 		if (el.tagName == "OL" && inCls(el, "wai-list", "wai-absatz-list"))
@@ -381,6 +386,29 @@ class RisExAST {
 			this.text[0] = this.text[0].trimStart();
 	}
 
+	parseMedia() {
+		this.set("type", "Media");
+		for (let el = this.baseElement.firstChild; el; el = el.nextSibling) {
+			if (el.nodeType === 3 && el.nodeValue.trim() != "") {
+				let ast = new RisExAST(this, el);
+				ast.set("type", "Text");
+				ast.text = [el.nodeValue.trim()];
+				console.log(el.nodeValue.trim());
+			}
+			if (el.nodeType === 1) {
+				if (el.tagName == "IMG") {
+					let ast = new RisExAST(this, el);
+					ast.set("type", "Img");
+					ast.text.push(el.getAttribute("src"));
+				}
+			}
+		}
+
+		if (this.baseElement?.previousElementSibling?.classList?.contains("GldSymbol") &&
+				this.text.length && typeof this.text[0] === "string")
+			this.text[0] = this.text[0].trimStart();
+	}
+
 	parsePar() {
 		this.set("type", "Par");
 		this.contentElement = this.baseElement.querySelector(
@@ -397,31 +425,37 @@ class RisExAST {
 				tag = "Par " + this.get("par");
 
 			if (this.typeIn("Head", "Title", "Text")) {
-				tag = this.get("type");
-				let tagTyp = "";
-				this.baseElement.classList.forEach(cls => {
-					if (cls in this.risClsToRisExTyp[tag]) {
-						let typ = this.risClsToRisExTyp[tag][cls];
-						if (typ != "") tagTyp += " " + typ;
-					} else
-						tagTyp += " ?" + cls;
-				});
-				tag += tagTyp;
-				color = "cyan";
-			}
-
-			if (tag == "Head" || tag == "Title") {
+				let inParPretext = true;
 				for (let c of this.parentObj.children) {
 					if (c === this)
 						break;
 					if (c.typeIn("Head", "Title"))
 						continue;
-					tag += " Erl";
+					inParPretext = false;
 					break;
 				}
+
+				tag = this.get("type");
+				let tagTyp = "";
+				let isHeaderOrTitle = this.typeIn("Head", "Title");
+				if (isHeaderOrTitle && !inParPretext)
+					tag = "ErlHdr";
+				this.baseElement?.classList?.forEach(cls => {
+					if (cls in this.risClsToRisExTyp[tag]) {
+						let typ = this.risClsToRisExTyp[tag][cls];
+						if (typ == "Erl" && isHeaderOrTitle) return;
+						if (typ != "") tagTyp += " " + typ;
+					} else
+						tagTyp += " ?" + cls;
+				});
+				if (tag == "Text Erl")
+					tag = "ErlTxt";
+				tag += tagTyp;
+				color = "cyan";
 			}
 
-			if (this.typeIn("AbsLst", "NumLst", "LitLst", "Lst", "Break")) {
+			if (this.typeIn("AbsLst", "NumLst", "LitLst", "Lst",
+			                "Break", "Media", "Img")) {
 				tag = this.get("type");
 				color = null;
 			}
@@ -483,7 +517,6 @@ function getMetaParAnchors(stopPar) {
 			continue;
 
 		el = risContentBlocks[p];
-		console.log(p, el);
 		id = el.querySelector(":scope > div.embeddedContent").id;
 		data.push(p + " #" + id);
 
@@ -524,7 +557,7 @@ function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, a
 	}
 	let el = risContentBlocks[parName];
 	let ast = new RisExAST(null, el);
-	risExtractor.debugAst = ast;
+	window.dbgAst = ast;
 	ast.set("par", parName);
 	ast.parsePar();
 	return ast.getJSON(verbose, annotate);

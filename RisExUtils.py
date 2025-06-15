@@ -19,7 +19,9 @@ normindex = json.load(open("index.json"))
 GlobalFlagDefaults = {
     "esc": True,
     "show": False,
+    "strict": True,
     "embed": False,
+    "logjs": True,
     "loghttp": False,
     "proxy": "http://127.0.0.1:8080",
 }
@@ -123,7 +125,7 @@ def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
             (autofold and len(json.dumps(data, separators=",:", ensure_ascii=False)) < 80):
         return indent + json.dumps(data, separators=",:", ensure_ascii=False)
 
-    if isinstance(data[0], str) and (data[0] == "Text" or data[0].startswith("Text ")):
+    if isinstance(data[0], str) and data[0].split()[0] in ("Text", "ErlTxt"):
         autofold = True
 
     s = [indent + "[" + json.dumps(data[0], separators=",:", ensure_ascii=False)]
@@ -224,6 +226,9 @@ def startPlaywright():
     if flags.loghttp:
         page.on("request", lambda request: print(f"> {request.method} {request.url}"))
 
+    if flags.logjs:
+        page.on("console", lambda msg: print(f"[{msg.type}] {msg.text}"))
+
     global playwright_instance, playwright_page
     playwright_instance = playwright
     playwright_page = page
@@ -265,14 +270,15 @@ def playwrightRequest(img_src):
 # RisDoc -> Markdown Engine
 ###########################
 
-def renderText(item, inAnm=False):
+def renderText(item, inAnm=False, plain=False):
     if type(item) is str:
+        if plain: return intem
         return markdownEscape(item)
 
     head, *tail = item
     tag, s = head.split(), []
 
-    if tag[0] == "Anm":
+    if tag[0] == "Anm" and not plain:
         assert inAnm is False
         inAnm = True
         s.append("*")
@@ -280,7 +286,7 @@ def renderText(item, inAnm=False):
     for t in tail:
         s.append(renderText(t, inAnm))
 
-    if tag[0] == "Anm":
+    if tag[0] == "Anm" and not plain:
         s.append("*")
 
     return "".join(s)
@@ -303,6 +309,7 @@ class RisDocMarkdownEngine:
         self.lines = []
         self.lineNumStack = []
         self.citepath = []
+        self.media = {}
 
     def pushLineNum(self):
         self.lineNumStack.append(len(self.lines))
@@ -323,7 +330,10 @@ class RisDocMarkdownEngine:
         return self.lines.pop()
 
     def append(self, line):
-        self.lines[-1] += line
+        if self.lines[-1] == "":
+            self.lines[-1] = line.lstrip()
+        else:
+            self.lines[-1] += line
 
     def smallBreak(self):
         if self.lines[-1] == "": return
@@ -371,7 +381,13 @@ class RisDocMarkdownEngine:
 
         match tag[0]:
             case "Text":
-                if not nobr and len(tag) > 1 and tag[1] in ("End", "Erl"):
+                if not nobr:
+                    if len(tag) > 1 and tag[1] == "End":
+                        self.smallBreak()
+                self.push(renderText(item))
+
+            case "ErlTxt":
+                if not nobr:
                     self.smallBreak()
                 self.push(renderText(item))
 
@@ -382,9 +398,10 @@ class RisDocMarkdownEngine:
                 if tag[0] in ("NumLst", "LitLst", "Lst"):
                     self.genLst(item)
                 else:
-                    assert False, f"Unsupported Tag in genText(): {tag}"
-
-        # for t in tail: self.genItem(t)
+                    if flags.strict:
+                        assert False, f"Unsupported Tag in genText(): {tag}"
+                    else:
+                        print(f"Unsupported Tag in genText(): {tag}")
 
         return self.popLineNum()
 
@@ -428,18 +445,44 @@ class RisDocMarkdownEngine:
 
         return self.popLineNum()
 
+    def genImage(self, item):
+        self.pushLineNum()
+        self.push(f"> IMG: {item[1]}")
+
+        return self.popLineNum()
+
+    def genMedia(self, item):
+        self.pushLineNum()
+        head, *tail = item
+
+        self.push("")
+        for t in tail:
+            if t[0] == "Text":
+                self.append(f" **{markdownEscape(t[1])}**")
+            elif t[0] == "Img":
+                fn = f"{self.normkey}.obj.{t[1].replace('/', '.')}"
+                fn = fn.replace(".~.Dokumente.Bundesnormen.", ".BN.")
+                fn = fn.replace(".hauptdokument.", ".H.")
+                self.append(f" ![{fn}]({fn} \"{t[1]}\")")
+                self.media[fn] = t[1]
+        self.smallBreak()
+
+        return self.popLineNum()
+
     def genPar(self, parDoc):
         self.pushLineNum()
 
         assert not self.citepath
         self.citepath.append(parDoc[0].removeprefix("Par "))
         parTitle = f"{' '.join(self.citepath)} {self.normdata['title']}"
+        parRegEx = f"^\\s*{' '.join(self.citepath).replace(' ', r'[\.\s\u00a0]*')}\\b\\.?\\s*"
 
         lastTyp = None
         for item in parDoc[1:]:
             if type(item[0]) is dict:
-                #  assert False, f"Unsupported Tag in genText(): {tag}"
-                #print(f"Unsuppoerted {item=}")
+                if flags.strict:
+                    assert False, f"Unknown Tag in genPar(): {tag}"
+                print(f"Unknown Tag in genPar(): {tag}")
                 continue
 
             head, *tail = item
@@ -449,23 +492,23 @@ class RisDocMarkdownEngine:
                 case "Head":
                     if lastTyp == "Head":
                         self.append(f" # {renderText(item)}")
-                    elif len(tag) > 1 and tag[1] == "Erl":
-                        self.pushHdr(f"#### {renderText(item)}")
                     else:
-                        self.pushHdr(f"## {renderText(item)}")
+                        self.largeBreak()
+                        self.push(f"## {renderText(item)}")
                 case "Title":
-                    if len(tag) > 1 and tag[1] == "Erl":
-                        self.pushHdr(f"#### {renderText(item)}")
-                    else:
-                        assert parTitle is not None
-                        parTitle = f"{parTitle} # {renderText(item)}"
+                    assert parTitle is not None
+                    t = renderText(item, plain=True)
+                    t = re.sub(parRegEx, '', t).rstrip('. ')
+                    parTitle = f"{parTitle} # {markdownEscape(t)}"
+                case "ErlHdr":
+                    self.pushHdr(f"#### {renderText(item)}")
                 case _:
                     if parTitle is not None:
                         self.pushHdr(f"### {parTitle}")
                         if tag[0] != "Text":
                             parTitle = None
 
-                    if tag[0] == "Text":
+                    if tag[0] in ("Text", "ErlTxt"):
                         if parTitle is not None:
                             self.largeBreak()
                             self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
@@ -478,11 +521,17 @@ class RisDocMarkdownEngine:
                     elif tag[0] == "Break":
                         self.largeBreak()
 
+                    elif tag[0] == "Media":
+                        self.genMedia(item)
+
                     elif tag[0] in ("AbsLst", "NumLst", "LitLst", "Lst"):
                         self.genLst(item, br=True)
 
                     else:
-                        assert False, f"Unsupported Tag in genText(): {tag}"
+                        if flags.strict:
+                            assert False, f"Unsupported Tag in genPar(): {tag}"
+                        else:
+                            print(f"Unsupported Tag in genPar(): {tag}")
 
             lastTyp = tag[0]
 
