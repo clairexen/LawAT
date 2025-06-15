@@ -17,10 +17,10 @@ import unicodedata
 normindex = json.load(open("index.json"))
 
 GlobalFlagDefaults = {
-    "headless": True,
-    "interactive": False,
+    "show": False,
+    "embed": False,
+    "loghttp": False,
     "proxy": "http://127.0.0.1:8080",
-    "loghttp": False
 }
 
 FlagsType = namedtuple("FlagsType", GlobalFlagDefaults.keys(),
@@ -69,6 +69,9 @@ def pr(*args):
             pr(*arg)
 
 def embed():
+    if not flags.embed:
+        return
+
     def configure(repl):
         if False:
             for n in dir(repl):
@@ -76,6 +79,7 @@ def embed():
                 print(n, getattr(repl, n))
         repl.swap_light_and_dark = True
     caller = inspect.currentframe().f_back
+    print(f"Called embed() from {caller.f_code.co_filename}:{caller.f_lineno}.")
     ptpython.repl.embed(caller.f_globals, caller.f_locals, configure=configure)
 
 # Python version of prettyJSON() from RisExtractor.js
@@ -185,7 +189,7 @@ def startPlaywright():
 
     if flags.proxy:
         browser = playwright.chromium.launch(
-            headless=flags.headless,
+            headless=not flags.show,
             proxy={"server": flags.proxy},
             args=["--ignore-certificate-errors"],
         )
@@ -194,7 +198,7 @@ def startPlaywright():
         )
     else:
         browser = playwright.chromium.launch(
-            headless=flags.headless,
+            headless=not flags.show,
         )
         context = browser.new_context(
         )
@@ -374,8 +378,7 @@ def cli_fetch(*args):
                     replace('\\', '\\\\').replace('"', '\\"')
             page.evaluate(f'risUserPromKl = "{t}"')
 
-        if flags.interactive:
-            embed()
+        embed()
 
         print(f"Extracting files/{normkey}.ris.json")
         stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
@@ -394,9 +397,7 @@ def cli_render(*args):
         engine = RisDocMarkdownEngine(json.load(open(f"files/{normkey}.ris.json")))
 
         pr(engine.genFileHeader())
-
-        if flags.interactive:
-            embed()
+        embed()
 
     print("DONE.")
 
@@ -451,6 +452,7 @@ def cli_mkjson():
         json.dump(data, f)
 
 def cli_shell():
+    flags.embed = True
     embed()
 
 def main(*args):
