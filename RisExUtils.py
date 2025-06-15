@@ -39,6 +39,10 @@ def updateFlags(*opts):
     while opts and opts[0].startswith("--"):
         o, *opts = opts
 
+        if o == "--trap":
+            sys.excepthook = excepthook
+            continue
+
         key, val = o.removeprefix("--"), None
         if "=" in key: key, val = key.split("=", 1)
 
@@ -87,8 +91,6 @@ def excepthook(typ, value, tb):
     traceback.print_exception(typ, value, tb)
     print("\nUncaught exception — dropping to ptpython:")
     ptpython.repl.embed(globals(), locals(), configure=ptpy_configure)
-
-#sys.excepthook = excepthook
 
 
 # Various Other Utility Functions
@@ -346,7 +348,13 @@ class RisDocMarkdownEngine:
         head, *tail = item
         tag = head.split()
 
-        self.push(f"> {tag}")
+        match tag[0]:
+            case "Text": self.push(renderText(item))
+            case "NumLst": self.genLst(item)
+            case "LitLst": self.genLst(item)
+            case "Lst": self.genLst(item)
+            case _:
+                print(f"> Unsupported Tag in genText(): {tag}")
 
         # for t in tail: self.genItem(t)
 
@@ -512,8 +520,10 @@ def cli_render(*args):
         print(f"Loading {normkey} RisDoc from files/{normkey}.ris.json")
         engine = RisDocMarkdownEngine(json.load(open(f"files/{normkey}.ris.json")))
 
-        pr(engine.genFile())
         embed()
+
+        with open(f"files/{normkey}.big.md", "w") as f:
+            for line in engine.genFile(): print(line, file=f)
 
     print("DONE.")
 
