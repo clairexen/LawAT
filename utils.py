@@ -71,13 +71,14 @@ def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
         return out
 
     if autofold and isinstance(data, str) and len(data) > 80:
-        return ',\n'.join(json.dumps(line, separators=",:", ensure_ascii=False) for line in fold_soft_preserve(data))
+        return ',\n'.join(indent + json.dumps(line, separators=",:", ensure_ascii=False)
+                for line in fold_soft_preserve(data))
 
     if not isinstance(data, list) or not data or \
-       (autofold and len(json.dumps(data, separators=",:", ensure_ascii=False)) < 80):
+            (autofold and len(json.dumps(data, separators=",:", ensure_ascii=False)) < 80):
         return indent + json.dumps(data, separators=",:", ensure_ascii=False)
 
-    if data[0] == "Text" or data[0].startswith("Text "):
+    if isinstance(data[0], str) and (data[0] == "Text" or data[0].startswith("Text ")):
         autofold = True
 
     s = [indent + "[" + json.dumps(data[0], separators=",:", ensure_ascii=False)]
@@ -280,7 +281,7 @@ def cli_render(*args):
     if not len(args): args = normindex.keys()
 
     for normkey in args:
-        print(f"Loading {normkey} RisDocfrom files/{normkey}.ris.json")
+        print(f"Loading {normkey} RisDoc from files/{normkey}.ris.json")
         engine = RisDocMarkdownEngine(
                 json.load(open(f"files/{normkey}.ris.json")),
                 normindex[normkey])
@@ -293,8 +294,9 @@ def cli_render(*args):
 def cli_risdoc(*args):
     optFix = False
     optFmt = False
+    optUpd = False
     optDiff = False
-    doStdIo = True
+    doAll = True
 
     def handleArg(arg):
         if arg != "-" and not os.access(arg, os.F_OK) and \
@@ -313,19 +315,23 @@ def cli_risdoc(*args):
                 fp.write(txt.encode())
                 fp.close()
                 os.system(f"diff -u '{arg}' {fp.name}")
-        else:
-            (open(arg, "w") if arg != "-" else sys.stdout).write(txt)
+
+        if optUpd or not optDiff:
+            (open(arg, "w") if optUpd and arg != "-" else sys.stdout).write(txt)
 
     for arg in args:
         if optNo := arg.startswith("--no-"): del arg[2:3]
         if arg == "--fix": optFix = not optNo; continue
         if arg == "--fmt": optFmt = not optNo; continue
+        if arg == "--upd": optUpd = not optNo; continue
         if arg == "--diff": optDiff = not optNo; continue
-        doStdIo = False
         handleArg(arg)
+        doAll = False
 
-    if doStdIo:
-        handleArg("-")
+    if doAll:
+        for arg in json.load(open("index.json")).keys():
+            print(f"Processing {arg} RisDoc from files/{arg}.ris.json")
+            handleArg(arg)
 
 def cli_mkjson():
     data = dict()

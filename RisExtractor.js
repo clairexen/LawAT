@@ -150,7 +150,7 @@ function prettyJSON(data, indent="", autofold=false, addFinalNewline=true) {
 
 	if (typeof data[0] == "string" &&
 			(data[0] == "Text" || data[0].startsWith("Text ")))
-		autofold = true
+		autofold = true;
 
 	let s = [indent + "[" + JSON.stringify(data[0])];
 	for (let i = 1; i < data.length; i++)
@@ -158,7 +158,7 @@ function prettyJSON(data, indent="", autofold=false, addFinalNewline=true) {
 				indent + "    ", autofold, false));
 	s.push(addFinalNewline ? "]\n" : "]");
 
-	return s.join("")
+	return s.join("");
 }
 
 function isVisible(el) {
