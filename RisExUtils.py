@@ -9,7 +9,6 @@ from urllib.parse import urljoin
 from ptpython.repl import embed
 from pathlib import Path
 import unicodedata
-from utils import *
 
 
 # Global flags and command line options

@@ -8,7 +8,7 @@ from urllib.parse import urljoin
 from ptpython.repl import embed
 from pathlib import Path
 import unicodedata
-from utils import *
+from RisExUtils import *
 
 # Remember to launch
 #   mitmproxy --mode regular --listen-port 8080 -s mitmp.py

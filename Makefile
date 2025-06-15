@@ -49,7 +49,7 @@ RisExFiles.zip: index.json files/*
 
 json: RisExData.json
 RisExData.json: venv index.json files/*
-	./utils.py mkjson
+	./RisExUtils.py mkjson
 
 define fetch_body
 files/$N.toc.md: # venv index.json
