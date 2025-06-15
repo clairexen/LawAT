@@ -2,11 +2,11 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
+import ptpython, inspect
 import re, glob, fnmatch
 import time, sys, json, os, tempfile
 from collections import namedtuple
 from urllib.parse import urljoin
-from ptpython.repl import embed
 from pathlib import Path
 import unicodedata
 
@@ -14,21 +14,29 @@ import unicodedata
 # Global flags and command line options
 #######################################
 
-FlagDefaults = {
+GlobalFlagDefaults = {
     "headless": True,
     "interactive": False,
     "proxy": "http://127.0.0.1:8080",
     "loghttp": False
 }
 
-FlagsType = namedtuple("FlagsType", FlagDefaults.keys(),
-        defaults=FlagDefaults.values())
+FlagsType = namedtuple("FlagsType", GlobalFlagDefaults.keys(),
+        defaults=GlobalFlagDefaults.values())
 flags = FlagsType()
+
+def addFlag(name, defVal):
+    global FlagsType, flags
+    FlagsType = namedtuple("FlagsType", (*FlagsType._fields, name),
+            defaults=(*FlagsType._field_defaults.values(), defVal))
+    flags = FlagsType(**flags._asdict())
 
 def updateFlags(*opts):
     global flags
 
-    for o in opts:
+    while opts and opts[0].startswith("--"):
+        o, *opts = opts
+
         key, val = o.removeprefix("--"), None
         if "=" in key: key, val = key.split("=", 1)
 
@@ -45,11 +53,21 @@ def updateFlags(*opts):
         else:
             flags = flags._replace(**{key: eval(val)})
 
-    return flags
+    return opts
 
 
 # Various Other Utility Functions
 #################################
+
+def embed():
+    def configure(repl):
+        if False:
+            for n in dir(repl):
+                if n.startswith("_"): continue
+                print(n, getattr(repl, n))
+        repl.swap_light_and_dark = True
+    caller = inspect.currentframe().f_back
+    ptpython.repl.embed(caller.f_globals, caller.f_locals, configure=configure)
 
 # Python version of prettyJSON() from RisExtractor.js
 def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
@@ -265,7 +283,7 @@ def cli_fetch(*args):
             page.evaluate(f'risUserPromKl = "{t}"')
 
         if flags.interactive:
-            embed(globals(), locals())
+            embed()
 
         print(f"Extracting files/{normkey}.ris.json")
         stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
@@ -286,51 +304,47 @@ def cli_render(*args):
                 normindex[normkey])
 
         if flags.interactive:
-            embed(globals(), locals())
+            embed()
 
     print("DONE.")
 
 def cli_risdoc(*args):
-    optFix = False
-    optFmt = False
-    optUpd = False
-    optDiff = False
-    doAll = True
+    addFlag("fix", False)
+    addFlag("fmt", False)
+    addFlag("upd", False)
+    addFlag("diff", False)
 
     def handleArg(arg):
+        print(f"Processing {arg} RisDoc from files/{arg}.ris.json", file=sys.stderr)
+
         if arg != "-" and not os.access(arg, os.F_OK) and \
                 os.access(fn := f"files/{arg}.ris.json", os.F_OK): arg = fn
 
         txt = (open(arg) if arg != "-" else sys.stdin).read()
 
-        if optFix:
+        if flags.fix:
             txt = fixPrettyJSON(txt)
 
-        if optFmt:
+        if flags.fmt:
             txt = prettyJSON(json.loads(txt))
 
-        if optDiff:
+        if flags.diff:
             with tempfile.NamedTemporaryFile(delete_on_close=False) as fp:
                 fp.write(txt.encode())
                 fp.close()
                 os.system(f"diff -u '{arg}' {fp.name}")
 
-        if optUpd or not optDiff:
-            (open(arg, "w") if optUpd and arg != "-" else sys.stdout).write(txt)
+        if flags.upd or not flags.diff:
+            (open(arg, "w") if flags.upd and arg != "-" else sys.stdout).write(txt)
 
-    for arg in args:
-        if optNo := arg.startswith("--no-"): del arg[2:3]
-        if arg == "--fix": optFix = not optNo; continue
-        if arg == "--fmt": optFmt = not optNo; continue
-        if arg == "--upd": optUpd = not optNo; continue
-        if arg == "--diff": optDiff = not optNo; continue
-        handleArg(arg)
-        doAll = False
+    args = updateFlags(*args)
 
-    if doAll:
-        for arg in json.load(open("index.json")).keys():
-            print(f"Processing {arg} RisDoc from files/{arg}.ris.json")
-            handleArg(arg)
+    if not args:
+        args = (*json.load(open("index.json")).keys(),)
+
+    while args:
+        handleArg(args[0])
+        args = updateFlags(*args[1:])
 
 def cli_mkjson():
     data = dict()
@@ -344,10 +358,11 @@ def cli_mkjson():
     with open("RisExData.json", "w") as f:
         json.dump(data, f)
 
+def cli_shell():
+    embed()
+
 def main(*args):
-    while len(args) and args[0].startswith("--"):
-        updateFlags(args[0])
-        args = args[1:]
+    args = updateFlags(*args)
     assert len(args) and f"cli_{args[0]}" in globals()
     return globals()[f"cli_{args[0]}"](*args[1:])
 
