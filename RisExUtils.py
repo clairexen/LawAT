@@ -2,13 +2,13 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
-import re, glob, fnmatch
+import re, glob, fnmatch, requests
 import ptpython, inspect, traceback
 import time, sys, json, os, tempfile
+import unicodedata, urllib3
 from collections import namedtuple
 from urllib.parse import urljoin
 from pathlib import Path
-import unicodedata
 
 
 # Global flags and command line options
@@ -20,9 +20,11 @@ GlobalFlagDefaults = {
     "esc": True,
     "show": False,
     "strict": True,
+    "down": False,
     "embed": False,
     "logjs": True,
     "loghttp": False,
+    "logdown": True,
     "proxy": "http://127.0.0.1:8080",
 }
 
@@ -98,6 +100,16 @@ def excepthook(typ, value, tb):
 
 # Various Other Utility Functions
 #################################
+
+def downloadFile(file, url, par):
+    if not flags.down: return
+    if os.access(f"files/{file}", os.F_OK): return
+    if flags.logdown: print(f"[{par}] {file} <- {url}")
+    urllib3.disable_warnings()
+    proxies = { "http": flags.proxy, "https": flags.proxy } if flags.proxy else {}
+    response = requests.get(url, proxies=proxies, verify=False)
+    response.raise_for_status()
+    open(f"files/{file}", "wb").write(response.content)
 
 # Python version of prettyJSON() from RisExtractor.js
 def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
@@ -250,21 +262,6 @@ Locator.stripped_text = lambda self: "\n".join([line.strip() for line in self.in
 
 Locator.get_attrset = lambda self, name: set() if self.get_attribute(name) is None \
                                                else set(self.get_attribute(name).split())
-
-# Other Playwright-Based Utility Functions
-
-def playwrightRequest(img_src):
-    filename = f"{normkey}.obj.{img_src.replace('/', '.')}"
-    filename = filename.replace(".~.Dokumente.Bundesnormen.", ".BN.")
-    filename = filename.replace(".hauptdokument.", ".H.")
-    assert ".~." not in filename
-
-    if not (p := Path(f"files/{filename}")).is_file():
-        img_url = urljoin(page.url, img_src)
-        response = playwright_page.request.get(img_url)
-        assert response.ok, f"Failed to fetch image: {response.status}"
-        p.write_bytes(response.body())
-    return filename
 
 
 # RisDoc -> Markdown Engine
@@ -465,6 +462,9 @@ class RisDocMarkdownEngine:
                 fn = fn.replace(".hauptdokument.", ".H.")
                 self.append(f" ![{fn}]({fn} \"{t[1]}\")")
                 self.media[fn] = t[1]
+                downloadFile(fn,
+                        urljoin(self.normdata['docurl'], t[1]),
+                        f"{self.citepath[0]} {self.normdata['title']}")
         self.smallBreak()
 
         return self.popLineNum()
@@ -604,10 +604,12 @@ def cli_find(normkey):
     stopPlaywright()
 
 def cli_fetch(*args):
-    page = startPlaywright()
+    args = updateFlags(*args)
 
     if not len(args):
         args = normindex.keys()
+
+    page = startPlaywright()
 
     for normkey in args:
         normdata = normindex[normkey]
@@ -632,6 +634,8 @@ def cli_fetch(*args):
     stopPlaywright()
 
 def cli_render(*args):
+    args = updateFlags(*args)
+
     if not len(args):
         args = normindex.keys()
 
@@ -683,6 +687,19 @@ def cli_risdoc(*args):
     while args:
         handleArg(args[0])
         args = updateFlags(*args[1:])
+
+def cli_down(*args):
+    args = updateFlags("--down", *args)
+
+    if not args:
+        args = (*normindex.keys(),)
+
+    for normkey in args:
+        print(f"Downloading media for {normkey}...")
+        engine = RisDocMarkdownEngine(json.load(open(f"files/{normkey}.ris.json")))
+        engine.genFile()
+
+    print("DONE.")
 
 def cli_mkjson():
     data = dict()
