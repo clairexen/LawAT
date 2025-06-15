@@ -3,7 +3,7 @@
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
 import re, glob, fnmatch
-import time, sys, json, os
+import time, sys, json, os, tempfile
 from collections import namedtuple
 from urllib.parse import urljoin
 from ptpython.repl import embed
@@ -71,19 +71,19 @@ def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
         return out
 
     if autofold and isinstance(data, str) and len(data) > 80:
-        return ',\n'.join(json.dumps(line, ensure_ascii=False) for line in fold_soft_preserve(data))
+        return ',\n'.join(json.dumps(line, separators=",:", ensure_ascii=False) for line in fold_soft_preserve(data))
 
     if not isinstance(data, list) or not data or \
-       (autofold and len(json.dumps(data, ensure_ascii=False)) < 80):
-        return indent + json.dumps(data, ensure_ascii=False)
+       (autofold and len(json.dumps(data, separators=",:", ensure_ascii=False)) < 80):
+        return indent + json.dumps(data, separators=",:", ensure_ascii=False)
 
-    if data[0] == "Text":
+    if data[0] == "Text" or data[0].startswith("Text "):
         autofold = True
 
-    s = [indent + "[" + json.dumps(data[0], ensure_ascii=False)]
+    s = [indent + "[" + json.dumps(data[0], separators=",:", ensure_ascii=False)]
     for item in data[1:]:
         s.append(",\n" + prettyJSON(item, indent + "    ", autofold, False))
-    s.append("\n" if addFinalNewline else "]")
+    s.append("]\n" if addFinalNewline else "]")
     return ''.join(s)
 
 def fixPrettyJSON(text):
@@ -92,7 +92,14 @@ def fixPrettyJSON(text):
     stack = [0]
 
     for line in text.split("\n"):
-        line = line.rstrip("],")
+        line = line.rstrip(",\t ")
+        brOnly = re.sub(r'"([^"\\]|\\.)+"|[^\[\]]+', "_", line)
+        while line.endswith("]") and brOnly.endswith("]"):
+            if brOnly.count("[") >= brOnly.count("]"):
+                break
+            line = line.removesuffix("]")
+            brOnly = brOnly.removesuffix("]")
+
         stripped = line.lstrip()
         if not len(stripped): continue
         indent = len(line) - len(stripped)
@@ -284,8 +291,9 @@ def cli_render(*args):
     print("DONE.")
 
 def cli_risdoc(*args):
-    optFixJSON = False
-    optFmtJSON = False
+    optFix = False
+    optFmt = False
+    optDiff = False
     doStdIo = True
 
     def handleArg(arg):
@@ -294,18 +302,25 @@ def cli_risdoc(*args):
 
         txt = (open(arg) if arg != "-" else sys.stdin).read()
 
-        if optFixJSON:
+        if optFix:
             txt = fixPrettyJSON(txt)
 
-        if optFmtJSON:
+        if optFmt:
             txt = prettyJSON(json.loads(txt))
 
-        (open(arg, "w") if arg != "-" else sys.stdout).write(txt)
+        if optDiff:
+            with tempfile.NamedTemporaryFile(delete_on_close=False) as fp:
+                fp.write(txt.encode())
+                fp.close()
+                os.system(f"diff -u '{arg}' {fp.name}")
+        else:
+            (open(arg, "w") if arg != "-" else sys.stdout).write(txt)
 
     for arg in args:
         if optNo := arg.startswith("--no-"): del arg[2:3]
-        if arg == "--fix": optFixJSON = not optNo; continue
-        if arg == "--fmt": optFmtJSON = not optNo; continue
+        if arg == "--fix": optFix = not optNo; continue
+        if arg == "--fmt": optFmt = not optNo; continue
+        if arg == "--diff": optDiff = not optNo; continue
         doStdIo = False
         handleArg(arg)
 
