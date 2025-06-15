@@ -14,6 +14,8 @@ import unicodedata
 # Global flags and command line options
 #######################################
 
+normindex = json.load(open("index.json"))
+
 GlobalFlagDefaults = {
     "headless": True,
     "interactive": False,
@@ -58,6 +60,13 @@ def updateFlags(*opts):
 
 # Various Other Utility Functions
 #################################
+
+def pr(*args):
+    for arg in args:
+        if type(arg) is str:
+            print(arg)
+        else:
+            pr(*arg)
 
 def embed():
     def configure(repl):
@@ -237,9 +246,10 @@ def playwrightRequest(img_src):
 ###########################
 
 class RisDocMarkdownEngine:
-    def __init__(self, risDoc, idxDat):
+    def __init__(self, risDoc):
         self.risDoc = risDoc
-        self.idxDat = idxDat
+        self.normkey = risDoc[0].removeprefix("RisDoc ")
+        self.normdata = normindex[self.normkey]
 
         self.meta = {
             item[0].removeprefix("Meta "): item for item in self.risDoc
@@ -258,17 +268,99 @@ class RisDocMarkdownEngine:
 
     def popLineNum(self):
         numLines = len(self.lines) - self.lineNumStack.pop()
-        return "\n".join(self.lines[len(self.lines)-numLines:])
+        return self.lines[len(self.lines)-numLines:]
 
+    def push(self, line):
+        self.lines.append(line)
+
+    def pop(self):
+        return self.lines.pop()
+
+    def genFileHeader(self, partIdx=None):
+        # # BG.VerG.TOC — Vereinsgesetz (VerG)
+        # **Typ:** Bundesgesetz
+        # **Kurztitel:** VerG, VerG_2002
+        # **Langtitel:** Bundesgesetz über Vereine (Vereinsgesetz 2002 – VerG)
+        # **Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025
+        # **Letzte Änderung:** BGBl. I Nr. 133/2024 (NR: GP XXVII IA 4123/A AB 2622 S. 274. BR: AB 11571 S. 970.)
+        # **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917
+        # **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.toc.md
+        # *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+
+        if partIdx is None:
+            partSuff = "big"
+        elif partIdx:
+            partSuff = f"{partIdx:03}"
+        else:
+            partSuff = "toc"
+
+        self.pushLineNum()
+
+        self.push(f"# {self.normkey}.{partSuff.upper()} — {self.normdata['caption']}")
+        self.push(f"**Typ:** {docTypeToLongName(self.normdata['type'])}")
+        self.push(f"**Quelle:** {self.normdata['docurl']}")
+        self.push(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/{self.normkey}.{partSuff}.md")
+        self.push(f"*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
+
+        return self.popLineNum()
 
 # CLI Interface
 ###############
 
+def cli_find(normkey):
+    page = startPlaywright()
+
+    normdata = {
+        "type": normkey.split(".", 1)[0],
+        "title": normkey.split(".", 1)[1],
+        "split": 20000
+    }
+
+    if normdata["type"] in ("BG", "BVG"):
+        # Fill out search form
+        page.goto("https://ris.bka.gv.at/Bundesrecht/")
+        page.locator("#MainContent_TitelField_Value").fill(normdata["title"])
+        page.locator("#MainContent_VonParagrafField_Value").fill("0")
+        page.locator("#MainContent_TypField_Value").fill(normdata["type"])
+        page.locator("#MainContent_SearchButton").click()
+
+        # Click through to complete norm
+        with page.context.expect_page() as new_page_info:
+            page.locator("a").get_by_text("heute", exact=True).click()
+        page = new_page_info.value
+        page.wait_for_load_state()
+
+        print(f"Document URL for {normkey}:", page.url)
+        docurl = page.url
+
+    print("Opening {docurl}")
+    os.system(f"xdg-open '{docurl}'")
+    time.sleep(0.5)
+
+    normdata["stop"] = input("Letzter paragraph (zB '§ 123a')? ")
+    normdata["caption"] = input("Caption? ")
+    normdata["docurl"] = docurl
+
+    # Update Index JSON
+    lines = open("index.json").read().split("\n")
+    assert lines[-1] == ""
+    assert lines[-2] == "}"
+    assert lines[-3] == "\t}"
+    del lines[-3:]
+    lines += ["\t},", f"\t\"{normkey}\": {{"]
+    lines += [f"\t\t\"{key}\": \"{value}\"," for key, value in normdata.items()]
+    lines[-1] = lines[-1].removesuffix(",")
+    lines += ["\t}", "}", ""]
+    open("index.json", "w").write("\n".join(lines))
+
+    print("DONE.")
+    stopPlaywright()
+
 def cli_fetch(*args):
     page = startPlaywright()
 
-    normindex = json.load(open("index.json"))
-    if not len(args): args = normindex.keys()
+    if not len(args):
+        args = normindex.keys()
 
     for normkey in args:
         normdata = normindex[normkey]
@@ -294,14 +386,14 @@ def cli_fetch(*args):
     stopPlaywright()
 
 def cli_render(*args):
-    normindex = json.load(open("index.json"))
-    if not len(args): args = normindex.keys()
+    if not len(args):
+        args = normindex.keys()
 
     for normkey in args:
         print(f"Loading {normkey} RisDoc from files/{normkey}.ris.json")
-        engine = RisDocMarkdownEngine(
-                json.load(open(f"files/{normkey}.ris.json")),
-                normindex[normkey])
+        engine = RisDocMarkdownEngine(json.load(open(f"files/{normkey}.ris.json")))
+
+        pr(engine.genFileHeader())
 
         if flags.interactive:
             embed()
@@ -340,7 +432,7 @@ def cli_risdoc(*args):
     args = updateFlags(*args)
 
     if not args:
-        args = (*json.load(open("index.json")).keys(),)
+        args = (*normindex.keys(),)
 
     while args:
         handleArg(args[0])
