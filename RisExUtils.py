@@ -26,6 +26,7 @@ GlobalFlagDefaults = {
     "logjs": True,
     "loghttp": False,
     "logdown": True,
+    "verbose": False,
     "limit": 30000,
     "proxy": "http://127.0.0.1:8080",
 }
@@ -76,7 +77,7 @@ from pprint import pp
 term_width = shutil.get_terminal_size().columns
 
 # Run `./RisExUtils.py render --prdemo BG.VerG` for a demo
-def pr(*args, indent_head="", indent_body="", indent_tail="", lvl=2):
+def pr(*args, indent_head="", indent_body="", indent_tail="", depth=1):
     next_indent_head = indent_head + " `- "
     next_indent_body = indent_body + " |  "
     next_indent_tail = indent_body + "    "
@@ -91,12 +92,11 @@ def pr(*args, indent_head="", indent_body="", indent_tail="", lvl=2):
             this_head = next_indent_head + label
             this_tail = next_indent_tail + " "*len(label)
             this_body = next_indent_body + " "*len(label) if countdn else this_tail
-            pr(item, indent_head=this_head, indent_body=this_body, indent_tail=this_tail, lvl=lvl-1)
+            pr(item, indent_head=this_head, indent_body=this_body, indent_tail=this_tail, depth=depth-1)
     while args and args[-1] is ...:
-        args = args[:-1]
-        lvl += 2
+        args = args[:-1]; depth += 1
     for arg in args:
-        if lvl > 0 and isinstance(arg, (list, dict, set, types.GeneratorType)):
+        if depth > 0 and isinstance(arg, (list, dict, set, types.GeneratorType)):
             print(indent_head + f"{type(arg)}:")
             next_indent_head = indent_body + " `- "
             if hasattr(arg, 'items'):
@@ -513,15 +513,16 @@ class RisDocMarkdownEngine:
                 case "Head":
                     startNewSection = True
                     if lastTyp == "Head":
-                        self.append(f" # {renderText(item)}")
+                        self.append(f" # {renderText(item, plain=True)}")
                     else:
                         self.largeBreak()
-                        self.push(f"## {renderText(item)}")
+                        self.push(f"## {renderText(item, plain=True)}")
                 case "Title":
                     assert parTitle is not None
                     t = renderText(item, plain=True)
                     t = re.sub(parRegEx, '', t).rstrip('. ')
-                    parTitle = f"{parTitle} # {markdownEscape(t)}"
+                    #parTitle = f"{parTitle} # {markdownEscape(t)}"
+                    parTitle = f"{parTitle} # {t}"
                 case "ErlHdr":
                     self.pushHdr(f"#### {renderText(item)}")
                 case _:
@@ -607,6 +608,17 @@ class RisDocMarkdownEngine:
                 self.parts[-1].pars += s.pars
         return self.body
 
+    def genToc(self, lines, partIdx=None, linkfn=""):
+        for line in lines:
+            line = line.replace("\\", "")
+            if line.startswith("## "):
+                line = line.removeprefix("## ")
+                self.largeBreak()
+                self.push(f"**{line}**  ")
+            if line.startswith("### "):
+                line = line.removeprefix("### ")
+                self.push(f"* [{line}]({linkfn}#{markdownHeaderToAnchor(line)})  ")
+
     def genFileHeader(self, partIdx, partSuff):
         self.pushLineNum()
 
@@ -625,7 +637,27 @@ class RisDocMarkdownEngine:
         self.push(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/{self.normkey}{partSuff}.md  ")
         self.push(f"*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
 
-        self.pushHdr(self.meta['Promulgation'][-1])
+        if partIdx is not None:
+            self.largeBreak()
+            self.push(f"*Das ist die \"AI-Friendly\" multi-part Variante dieser Rechtsvorschrift mit kompakter " +
+                      f"Formatierung. Siehe [{self.normkey}.md]({self.normkey}.md) für die \"Human-Friendly\" " +
+                      f"single-page Variante dieser Norm mit hübscherer Formatierung.*")
+
+        if partIdx:
+            self.pushHdr(f"*(Fortsetzg. v. [{self.normkey}.{partIdx-1:03}]({self.normkey}.{partIdx-1:03}.md))*")
+
+        if not partIdx:
+            self.pushHdr("## Inhaltsverzeichnis")
+            if partIdx is None:
+                self.genToc(self.body, partIdx)
+            elif partIdx == 0:
+                for i in range(len(self.parts)):
+                    firstLine = self.parmap[self.parts[i].pars[0]].firstLine
+                    lastLine = self.parmap[self.parts[i].pars[-1]].lastLine
+                    self.genToc(self.lines[firstLine:lastLine+1], partIdx, f"{self.normkey}.{i+1:03}.md")
+
+        if partIdx is None or partIdx == 1:
+            self.pushHdr(self.meta['Promulgation'][-1])
         return self.popLineNum()
 
     def genFile(self, partIdx=None):
@@ -633,10 +665,8 @@ class RisDocMarkdownEngine:
 
         if partIdx is None:
             partSuff = ""
-        elif partIdx:
-            partSuff = f".{partIdx:03}"
         else:
-            partSuff = ".toc"
+            partSuff = f".{partIdx:03}"
 
         k = f"{self.normkey}{partSuff}"
 
@@ -645,18 +675,25 @@ class RisDocMarkdownEngine:
             firstLine = len(self.lines)
 
             self.genFileHeader(partIdx, partSuff)
-            if partIdx is None:
-                self.lines += self.body
-            else:
-                for p in self.parts[partIdx-1].pars:
-                    p = self.parmap[p]
-                    self.largeBreak()
-                    self.push("----")
-                    self.lines += self.lines[p.firstLine:p.lastLine+1]
-                    self.push("----")
 
-            self.largeBreak()
-            self.push("`END-OF-DATA-SET`")
+            pars = self.parts[partIdx-1].pars if partIdx else \
+                    self.pars if partIdx is None else []
+
+            for p in pars:
+                if isinstance(p, str):
+                    p = self.parmap[p]
+                self.largeBreak()
+                #self.push("----")
+                self.lines += self.lines[p.firstLine:p.lastLine+1]
+                #self.push("----")
+
+            if partIdx is not None:
+                self.largeBreak()
+                if partIdx < len(self.parts):
+                    self.push(f"`END-OF-DATA-FILE` *(fortges. in [{self.normkey}.{partIdx+1:03}]({self.normkey}.{partIdx+1:03}.md))*")
+                else:
+                    self.push(f"`END-OF-DATA-SET`")
+
             lastLine = len(self.lines)-1
             byteCount = sum(len(self.lines[i]) for i in range(firstLine, lastLine+1))
 
@@ -759,18 +796,26 @@ def cli_render(*args):
         #print(f"Loading {normkey} RisDoc from files/{normkey}.ris.json")
         engine = RisDocMarkdownEngine(json.load(open(f"files/{normkey}.ris.json")))
 
-        print(f"[{normkey}] Generating files:\n{' '*15} BIG", end="")
-        with open(f"files/{normkey}.big.md", "w") as f:
+        if not flags.verbose:
+            print(f"[{normkey}] Generating files:\n{' '*15} BIG", end="")
+        else:
+            print(f"Writing files/{normkey}.md.")
+
+        with open(f"files/{normkey}.md", "w") as f:
             for line in engine.genFile(): print(line, file=f)
 
         for i in range(0, len(engine.parts)+1):
-            if i % 10 == 9:
-                print(f"\n{' '*15}", end="")
-            print(f" {i:03}" if i > 0 else " TOC", end="")
+            if not flags.verbose:
+                if i % 10 == 9:
+                    print(f"\n{' '*15}", end="")
+                print(f" {i:03}" if i > 0 else " TOC", end="")
+            else:
+                print(f"Writing files/{normkey}.{i:03}.md.")
             with open(f"files/{normkey}.{i:03}.md", "w") as f:
                 for line in engine.genFile(i): print(line, file=f)
 
-        print()
+        if not flags.verbose:
+            print()
 
         if flags.prdemo:
             pr({"hello_world": engine.parts, "foo": {"first": engine.sections,
