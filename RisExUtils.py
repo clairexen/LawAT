@@ -6,7 +6,8 @@ import re, glob, fnmatch, requests
 import ptpython, inspect, traceback
 import time, sys, json, os, tempfile
 import unicodedata, urllib3
-from collections import namedtuple
+from types import SimpleNamespace
+from collections import namedtuple, defaultdict
 from urllib.parse import urljoin
 from pathlib import Path
 
@@ -72,10 +73,10 @@ def updateFlags(*opts):
 
 def pr(*args):
     for arg in args:
-        if type(arg) is str:
-            print(arg)
-        else:
+        if type(arg) is list:
             pr(*arg)
+        else:
+            print(arg)
 
 def ptpy_configure(repl):
     if False:
@@ -306,6 +307,9 @@ class RisDocMarkdownEngine:
         self.lines = []
         self.lineNumStack = []
         self.citepath = []
+        self.pars = []
+        self.parmap = {}
+        self.sections = []
         self.media = {}
 
     def pushLineNum(self):
@@ -471,6 +475,8 @@ class RisDocMarkdownEngine:
 
     def genPar(self, parDoc):
         self.pushLineNum()
+        firstLine = len(self.lines)
+        startNewSection = False
 
         assert not self.citepath
         self.citepath.append(parDoc[0].removeprefix("Par "))
@@ -490,6 +496,7 @@ class RisDocMarkdownEngine:
 
             match tag[0]:
                 case "Head":
+                    startNewSection = True
                     if lastTyp == "Head":
                         self.append(f" # {renderText(item)}")
                     else:
@@ -540,8 +547,32 @@ class RisDocMarkdownEngine:
             lastTyp = tag[0]
 
         self.largeBreak()
+        lastLine = len(self.lines)-1
+
+        if not self.sections or \
+                (startNewSection and self.sections[-1].pars):
+            self.sections.append(SimpleNamespace(
+                pars=[], byteCount=0
+            ))
+
+        parinfo = SimpleNamespace(
+            name=self.citepath[0],
+            section=len(self.sections)-1,
+            indexInDoc=len(self.pars),
+            indexInSection=len(self.sections[-1].pars),
+            firstLine=firstLine,
+            lastLine=lastLine,
+            byteCount=None
+        )
+        self.pars.append(parinfo)
+        self.parmap[parinfo.name] = parinfo
+        self.sections[-1].pars.append(parinfo.name)
+
         self.citepath.pop()
-        return self.popLineNum()
+        t = self.popLineNum()
+        parinfo.byteCount = sum([len(l) for l in t])
+        self.sections[-1].byteCount += parinfo.byteCount
+        return t
 
     def genFile(self, partIdx=None):
         self.pushLineNum()
@@ -647,10 +678,10 @@ def cli_render(*args):
         print(f"Loading {normkey} RisDoc from files/{normkey}.ris.json")
         engine = RisDocMarkdownEngine(json.load(open(f"files/{normkey}.ris.json")))
 
-        embed()
-
         with open(f"files/{normkey}.big.md", "w") as f:
             for line in engine.genFile(): print(line, file=f)
+
+        embed()
 
     print("DONE.")
 
