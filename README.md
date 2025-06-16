@@ -5,13 +5,13 @@ TBD
 ## Liste der Normen
 
 ### Bundesrecht
-* [Strafgesetzbuch (StGB)](https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.toc.md)
-* [Strafprozeßordnung (StPO)](https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.toc.md)
-* [Allgemeines bürgerliches Gesetzbuch (ABGB)](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.toc.md)
-* [Zivilprozessordnung (ZPO)](https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.toc.md)
-* [Vereinsgesetz (VerG)](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.toc.md)
-* [Straßenverkehrsordnung (StVO)](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.toc.md)
-* [Allgemeines Verwaltungsverfahrensgesetz (AVG)](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.toc.md)
+* [Strafgesetzbuch (StGB)](https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.md)
+* [Strafprozeßordnung (StPO)](https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.md)
+* [Allgemeines bürgerliches Gesetzbuch (ABGB)](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md)
+* [Zivilprozessordnung (ZPO)](https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.md)
+* [Vereinsgesetz (VerG)](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md)
+* [Straßenverkehrsordnung (StVO)](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md)
+* [Allgemeines Verwaltungsverfahrensgesetz (AVG)](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md)
 
 # RisEn - AI-Freundliche Python Library zum Zugriff auf die RisEx Files
 
