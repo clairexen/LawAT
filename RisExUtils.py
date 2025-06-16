@@ -578,7 +578,7 @@ class RisDocMarkdownEngine:
         kurztitel = [self.normdata['title']]
         if "extratitles" in self.normdata:
             kurztitel += self.normdata['extratitles']
-            kurztitel = ", ".join(kurztitel)
+        kurztitel = ", ".join(kurztitel)
 
         self.push(f"# {self.normkey}{partSuff.upper()} — {self.normdata['caption']}")
         self.push(f"**Typ:** {docTypeToLongName(self.normdata['type'])}  ")
