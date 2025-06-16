@@ -30,7 +30,7 @@ GlobalFlagDefaults = {
     "forai": True,
     "limit": 30000,
     "proxy": "http://127.0.0.1:8080",
-    "filesdir": "newfiles"
+    "filesdir": "files"
 }
 
 FlagsType = namedtuple("FlagsType", GlobalFlagDefaults.keys(),
@@ -410,7 +410,12 @@ class RisDocMarkdownEngine:
                 if not nobr:
                     if len(tag) > 1 and tag[1] == "End":
                         self.smallBreak()
-                self.push(renderText(item))
+                tx = renderText(item)
+                if not flags.forai:
+                    if len(tag) > 1 and tag[1] == "End":
+                        self.largeBreak()
+                        tx = f"&nbsp; {tx}"
+                self.push(tx)
 
             case "ErlTxt":
                 if not nobr:
@@ -445,18 +450,29 @@ class RisDocMarkdownEngine:
                 cite = f"lit. {cite[:-1]}"
         self.citepath.append(cite)
 
-        if br:
+        if br or not flags.forai:
             self.largeBreak()
 
-        if typ == "AbsLst" or (br and typ == "Lst" and len(self.citepath) == 2):
-            self.largeBreak()
-            self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
+        firstPatchLine = None
+        if not flags.forai:
+            firstPatchLine = len(self.lines)
         else:
-            self.smallBreak()
-            self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`")
+            if typ == "AbsLst" or (br and typ == "Lst" and len(self.citepath) == 2):
+                self.largeBreak()
+                self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
+            else:
+                self.smallBreak()
+                self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`")
 
         for t in tail:
             self.genText(t)
+
+        if firstPatchLine is not None:
+            self.lines[firstPatchLine] = f"`{head.removeprefix('Item ')}` {self.lines[firstPatchLine]}"
+            for i in range(firstPatchLine, len(self.lines)):
+                if not self.lines[i].startswith(">"):
+                    self.lines[i] = f" {self.lines[i]}"
+                self.lines[i] = f">{self.lines[i]}"
 
         self.citepath.pop()
         return self.popLineNum()
@@ -548,7 +564,8 @@ class RisDocMarkdownEngine:
                     if tag[0] in ("Text", "ErlTxt"):
                         if parTitle is not None:
                             self.largeBreak()
-                            self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
+                            if flags.forai:
+                                self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
                             parTitle = None
                             self.genText(item, nobr=True)
                         else:
