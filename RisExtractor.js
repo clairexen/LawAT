@@ -16,6 +16,7 @@ function logElementTreeWithIds(root, indent = "") {
 }
 
 function inCls(el, ...args) {
+	if (!(el instanceof Element)) return false;
 	for (let arg of args)
 		if (el.classList.contains(arg))
 			return true;
@@ -215,6 +216,7 @@ risContentBlocks = {}
 document.querySelectorAll("div.document > div.documentContent").forEach(el => {
 	const parName = el.querySelector(":scope > h2.onlyScreenreader:first-child").
 			textContent.trimStart().trimEnd();
+	// if (parName != "§ 31") return;
 	risContentBlocks[parName] = el;
 	risParList.push(parName);
 });
@@ -344,11 +346,12 @@ class RisExAST {
 		this.set("type", "Item");
 
 		let el = this.baseElement?.previousSibling;
-		if (el?.classList?.contains("SymE1") && el?.firstElementChild?.firstElementChild)
+		if (inCls(el, "SymE1", "SymE2") &&
+				el?.firstElementChild?.firstElementChild)
 			this.set("sym", el.firstElementChild.firstElementChild.textContent);
 
 		el = this.baseElement?.firstChild?.firstChild;
-		if (el?.classList?.contains("Absatzzahl"))
+		if (inCls(el, "Absatzzahl"))
 			this.set("sym", el.textContent);
 
 		this.baseElement.querySelectorAll(":scope > *").
@@ -393,7 +396,6 @@ class RisExAST {
 				let ast = new RisExAST(this, el);
 				ast.set("type", "Text");
 				ast.text = [el.nodeValue.trim()];
-				console.log(el.nodeValue.trim());
 			}
 			if (el.nodeType === 1) {
 				if (el.tagName == "IMG") {
@@ -448,9 +450,9 @@ class RisExAST {
 					} else
 						tagTyp += " ?" + cls;
 				});
+				tag += tagTyp;
 				if (tag == "Text Erl")
 					tag = "ErlTxt";
-				tag += tagTyp;
 				color = "cyan";
 			}
 

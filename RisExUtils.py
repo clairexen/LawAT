@@ -344,16 +344,6 @@ class RisDocMarkdownEngine:
         self.push("")
 
     def genFileHeader(self, partIdx=None):
-        # # BG.VerG.TOC — Vereinsgesetz (VerG)
-        # **Typ:** Bundesgesetz
-        # **Kurztitel:** VerG, VerG_2002
-        # **Langtitel:** Bundesgesetz über Vereine (Vereinsgesetz 2002 – VerG)
-        # **Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025
-        # **Letzte Änderung:** BGBl. I Nr. 133/2024 (NR: GP XXVII IA 4123/A AB 2622 S. 274. BR: AB 11571 S. 970.)
-        # **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917
-        # **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.toc.md
-        # *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
-
         if partIdx is None:
             partSuff = "big"
         elif partIdx:
@@ -363,12 +353,22 @@ class RisDocMarkdownEngine:
 
         self.pushLineNum()
 
+        kurztitel = [self.normdata['title']]
+        if "extratitles" in self.normdata:
+            kurztitel += self.normdata['extratitles']
+            kurztitel = ", ".join(kurztitel)
+
         self.push(f"# {self.normkey}.{partSuff.upper()} — {self.normdata['caption']}")
         self.push(f"**Typ:** {docTypeToLongName(self.normdata['type'])}  ")
+        self.push(f"**Kurztitel:** {kurztitel}  ")
+        self.push(f"**Langtitel:** {self.meta['Langtitel'][-1]}  ")
+        self.push(f"**Gesamte Rechtsvorschrift in der Fassung vom:** {self.meta['FassungVom'][-1]}  ")
+        self.push(f"**Letzte Änderung:** {self.meta['LastChange'][-1]}  ")
         self.push(f"**Quelle:** {self.normdata['docurl']}  ")
         self.push(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/{self.normkey}.{partSuff}.md  ")
         self.push(f"*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
 
+        self.pushHdr(self.meta['Promulgation'][-1])
         return self.popLineNum()
 
     def genText(self, item, *, nobr=False):
@@ -515,7 +515,11 @@ class RisDocMarkdownEngine:
                             parTitle = None
                             self.genText(item, nobr=True)
                         else:
-                            self.largeBreak()
+                            if tag[0] == "Text" and not \
+                                    (len(tag) > 1 and tag[1] == "End"):
+                                self.largeBreak()
+                            else:
+                                self.smallBreak()
                             self.genText(item)
 
                     elif tag[0] == "Break":
@@ -525,7 +529,7 @@ class RisDocMarkdownEngine:
                         self.genMedia(item)
 
                     elif tag[0] in ("AbsLst", "NumLst", "LitLst", "Lst"):
-                        self.genLst(item, br=True)
+                        self.genLst(item, br=(tag[0] in ("AbsLst", "Lst")))
 
                     else:
                         if flags.strict:
