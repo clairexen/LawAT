@@ -29,6 +29,7 @@ GlobalFlagDefaults = {
     "verbose": False,
     "limit": 30000,
     "proxy": "http://127.0.0.1:8080",
+    "filesdir": "newfiles"
 }
 
 FlagsType = namedtuple("FlagsType", GlobalFlagDefaults.keys(),
@@ -140,13 +141,13 @@ def excepthook(typ, value, tb):
 
 def downloadFile(file, url, par):
     if not flags.down: return
-    if os.access(f"files/{file}", os.F_OK): return
+    if os.access(f"{flags.filesdir}/{file}", os.F_OK): return
     if flags.logdown: print(f"[{par}] {file} <- {url}")
     urllib3.disable_warnings()
     proxies = { "http": flags.proxy, "https": flags.proxy } if flags.proxy else {}
     response = requests.get(url, proxies=proxies, verify=False)
     response.raise_for_status()
-    open(f"files/{file}", "wb").write(response.content)
+    open(f"{flags.filesdir}/{file}", "wb").write(response.content)
 
 def foldSoftPreserve(s, width=80):
     out, start, last_space = [], 0, -1
@@ -761,6 +762,9 @@ def cli_fetch(*args):
     if not len(args):
         args = normindex.keys()
 
+    if not os.access(flags.filesdir, os.F_OK):
+        os.mkdir(flags.filesdir)
+
     page = startPlaywright()
 
     for normkey in args:
@@ -777,10 +781,10 @@ def cli_fetch(*args):
 
         embed()
 
-        print(f"Extracting files/{normkey}.ris.json")
+        print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.ris.json")
         stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
         risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopParJs}, '{normkey}'))")
-        open(f"files/{normkey}.ris.json", "w").write(risDocJsonText)
+        open(f"{flags.filesdir}/{normkey}.ris.json", "w").write(risDocJsonText)
 
     print("DONE.")
     stopPlaywright()
@@ -793,15 +797,15 @@ def cli_render(*args):
         args = normindex.keys()
 
     for normkey in args:
-        #print(f"Loading {normkey} RisDoc from files/{normkey}.ris.json")
-        engine = RisDocMarkdownEngine(json.load(open(f"files/{normkey}.ris.json")))
+        #print(f"Loading {normkey} RisDoc from {flags.filesdir}/{normkey}.ris.json")
+        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.ris.json")))
 
         if not flags.verbose:
             print(f"[{normkey}] Generating files:\n{' '*15} BIG", end="")
         else:
-            print(f"Writing files/{normkey}.md.")
+            print(f"Writing {flags.filesdir}/{normkey}.md.")
 
-        with open(f"files/{normkey}.md", "w") as f:
+        with open(f"{flags.filesdir}/{normkey}.md", "w") as f:
             for line in engine.genFile(): print(line, file=f)
 
         for i in range(0, len(engine.parts)+1):
@@ -810,8 +814,8 @@ def cli_render(*args):
                     print(f"\n{' '*15}", end="")
                 print(f" {i:03}" if i > 0 else " TOC", end="")
             else:
-                print(f"Writing files/{normkey}.{i:03}.md.")
-            with open(f"files/{normkey}.{i:03}.md", "w") as f:
+                print(f"Writing {flags.filesdir}/{normkey}.{i:03}.md.")
+            with open(f"{flags.filesdir}/{normkey}.{i:03}.md", "w") as f:
                 for line in engine.genFile(i): print(line, file=f)
 
         if not flags.verbose:
@@ -833,10 +837,10 @@ def cli_risdoc(*args):
     addFlag("diff", False)
 
     def handleArg(arg):
-        print(f"Processing {arg} RisDoc from files/{arg}.ris.json", file=sys.stderr)
+        print(f"Processing {arg} RisDoc from {flags.filesdir}/{arg}.ris.json", file=sys.stderr)
 
         if arg != "-" and not os.access(arg, os.F_OK) and \
-                os.access(fn := f"files/{arg}.ris.json", os.F_OK): arg = fn
+                os.access(fn := f"{flags.filesdir}/{arg}.ris.json", os.F_OK): arg = fn
 
         txt = (open(arg) if arg != "-" else sys.stdin).read()
 
@@ -872,7 +876,7 @@ def cli_down(*args):
 
     for normkey in args:
         print(f"Downloading media for {normkey}...")
-        engine = RisDocMarkdownEngine(json.load(open(f"files/{normkey}.ris.json")))
+        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.ris.json")))
         engine.genFile()
 
     print("DONE.")
@@ -880,11 +884,11 @@ def cli_down(*args):
 def cli_mkjson():
     data = dict()
 
-    for fn in ["index.json"] + glob.glob("files/*.json") + glob.glob("files/*.md"):
+    for fn in ["index.json"] + glob.glob("{flags.filesdir}/*.json") + glob.glob("{flags.filesdir}/*.md"):
         if fn.endswith(".json"):
-            data[fn.removeprefix("files/")] = json.load(open(fn))
+            data[fn.removeprefix("{flags.filesdir}/")] = json.load(open(fn))
         else:
-            data[fn.removeprefix("files/")] = open(fn).read().split("\n")
+            data[fn.removeprefix("{flags.filesdir}/")] = open(fn).read().split("\n")
 
     with open("RisExData.json", "w") as f:
         json.dump(data, f)
