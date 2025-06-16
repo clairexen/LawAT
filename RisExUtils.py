@@ -26,6 +26,7 @@ GlobalFlagDefaults = {
     "logjs": True,
     "loghttp": False,
     "logdown": True,
+    "limit": 30000,
     "proxy": "http://127.0.0.1:8080",
 }
 
@@ -291,6 +292,8 @@ def renderText(item, inAnm=False, plain=False):
 
 class RisDocMarkdownEngine:
     def __init__(self, risDoc):
+        globals()["_dbg_engine"] = self
+
         self.risDoc = risDoc
         self.normkey = risDoc[0].removeprefix("RisDoc ")
         self.normdata = normindex[self.normkey]
@@ -311,6 +314,9 @@ class RisDocMarkdownEngine:
         self.parmap = {}
         self.sections = []
         self.media = {}
+
+        self.body = None
+        self.files = {}
 
     def pushLineNum(self):
         self.lineNumStack.append(len(self.lines))
@@ -337,43 +343,17 @@ class RisDocMarkdownEngine:
             self.lines[-1] += line
 
     def smallBreak(self):
+        if not self.lines: return
         if self.lines[-1] == "": return
         if self.lines[-1].endswith("  "): return
         self.append("  ")
 
     def largeBreak(self):
+        if not self.lines: return
         if self.lines[-1] == "": return
         if self.lines[-1].endswith("  "):
             self.lines[-1] = self.lines[-1].removesuffix("  ")
         self.push("")
-
-    def genFileHeader(self, partIdx=None):
-        if partIdx is None:
-            partSuff = "big"
-        elif partIdx:
-            partSuff = f"{partIdx:03}"
-        else:
-            partSuff = "toc"
-
-        self.pushLineNum()
-
-        kurztitel = [self.normdata['title']]
-        if "extratitles" in self.normdata:
-            kurztitel += self.normdata['extratitles']
-            kurztitel = ", ".join(kurztitel)
-
-        self.push(f"# {self.normkey}.{partSuff.upper()} — {self.normdata['caption']}")
-        self.push(f"**Typ:** {docTypeToLongName(self.normdata['type'])}  ")
-        self.push(f"**Kurztitel:** {kurztitel}  ")
-        self.push(f"**Langtitel:** {self.meta['Langtitel'][-1]}  ")
-        self.push(f"**Gesamte Rechtsvorschrift in der Fassung vom:** {self.meta['FassungVom'][-1]}  ")
-        self.push(f"**Letzte Änderung:** {self.meta['LastChange'][-1]}  ")
-        self.push(f"**Quelle:** {self.normdata['docurl']}  ")
-        self.push(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/{self.normkey}.{partSuff}.md  ")
-        self.push(f"*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
-
-        self.pushHdr(self.meta['Promulgation'][-1])
-        return self.popLineNum()
 
     def genText(self, item, *, nobr=False):
         self.pushLineNum()
@@ -547,12 +527,13 @@ class RisDocMarkdownEngine:
             lastTyp = tag[0]
 
         self.largeBreak()
-        lastLine = len(self.lines)-1
+        lastLine = len(self.lines)-2 # not including the empty line we just pushed
+        byteCount = sum(len(self.lines[i]) for i in range(firstLine, lastLine+1))
 
         if not self.sections or \
                 (startNewSection and self.sections[-1].pars):
             self.sections.append(SimpleNamespace(
-                pars=[], byteCount=0
+                idx=len(self.sections), pars=[], byteCount=0
             ))
 
         parinfo = SimpleNamespace(
@@ -562,29 +543,93 @@ class RisDocMarkdownEngine:
             indexInSection=len(self.sections[-1].pars),
             firstLine=firstLine,
             lastLine=lastLine,
-            byteCount=None
+            byteCount=byteCount
         )
         self.pars.append(parinfo)
         self.parmap[parinfo.name] = parinfo
         self.sections[-1].pars.append(parinfo.name)
+        self.sections[-1].byteCount += parinfo.byteCount
 
         self.citepath.pop()
-        t = self.popLineNum()
-        parinfo.byteCount = sum([len(l) for l in t])
-        self.sections[-1].byteCount += parinfo.byteCount
-        return t
+        return self.popLineNum()
+
+    def genBody(self):
+        if self.body is None:
+            self.pushLineNum()
+            for item in self.risDoc[1:]:
+                tag = item[0].split()
+                if tag[0] != "Par":
+                    continue
+                self.genPar(item)
+            self.body = self.popLineNum()
+
+            self.parts = []
+            for s in self.sections:
+                if not self.parts or self.parts[-1].byteCount + s.byteCount > flags.limit:
+                    self.parts.append(SimpleNamespace(sections=[], pars=[], byteCount=0))
+                self.parts[-1].byteCount += s.byteCount
+                self.parts[-1].sections.append(s.idx)
+                self.parts[-1].pars += s.pars
+        return self.body
+
+    def genFileHeader(self, partIdx, partSuff):
+        self.pushLineNum()
+
+        kurztitel = [self.normdata['title']]
+        if "extratitles" in self.normdata:
+            kurztitel += self.normdata['extratitles']
+            kurztitel = ", ".join(kurztitel)
+
+        self.push(f"# {self.normkey}{partSuff.upper()} — {self.normdata['caption']}")
+        self.push(f"**Typ:** {docTypeToLongName(self.normdata['type'])}  ")
+        self.push(f"**Kurztitel:** {kurztitel}  ")
+        self.push(f"**Langtitel:** {self.meta['Langtitel'][-1]}  ")
+        self.push(f"**Gesamte Rechtsvorschrift in der Fassung vom:** {self.meta['FassungVom'][-1]}  ")
+        self.push(f"**Letzte Änderung:** {self.meta['LastChange'][-1]}  ")
+        self.push(f"**Quelle:** {self.normdata['docurl']}  ")
+        self.push(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/{self.normkey}{partSuff}.md  ")
+        self.push(f"*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
+
+        self.pushHdr(self.meta['Promulgation'][-1])
+        return self.popLineNum()
 
     def genFile(self, partIdx=None):
-        self.pushLineNum()
-        self.genFileHeader(partIdx)
-        for item in self.risDoc[1:]:
-            tag = item[0].split()
-            if tag[0] != "Par":
-                continue
-            self.genPar(item)
-        self.largeBreak()
-        self.push("`END-OF-DATA-SET`")
-        return self.popLineNum()
+        body = self.genBody()
+
+        if partIdx is None:
+            partSuff = ""
+        elif partIdx:
+            partSuff = f".{partIdx:03}"
+        else:
+            partSuff = ".toc"
+
+        k = f"{self.normkey}{partSuff}"
+
+        if k not in self.files:
+            self.pushLineNum()
+            firstLine = len(self.lines)
+
+            self.genFileHeader(partIdx, partSuff)
+            if partIdx is None:
+                self.lines += self.body
+            else:
+                for p in self.parts[partIdx-1].pars:
+                    p = self.parmap[p]
+                    self.largeBreak()
+                    self.push("----")
+                    self.lines += self.lines[p.firstLine:p.lastLine+1]
+                    self.push("----")
+
+            self.largeBreak()
+            self.push("`END-OF-DATA-SET`")
+            lastLine = len(self.lines)-1
+            byteCount = sum(len(self.lines[i]) for i in range(firstLine, lastLine+1))
+
+            t = self.popLineNum()
+            self.files[k] = SimpleNamespace(name=k, byteCount=byteCount,
+                    firstLine=firstLine, lastLine=lastLine, text=t)
+
+        return self.files[k].text
 
 # CLI Interface
 ###############
@@ -675,12 +720,21 @@ def cli_render(*args):
         args = normindex.keys()
 
     for normkey in args:
-        print(f"Loading {normkey} RisDoc from files/{normkey}.ris.json")
+        #print(f"Loading {normkey} RisDoc from files/{normkey}.ris.json")
         engine = RisDocMarkdownEngine(json.load(open(f"files/{normkey}.ris.json")))
 
+        print(f"[{normkey}] Generating files:\n{' '*15} BIG", end="")
         with open(f"files/{normkey}.big.md", "w") as f:
             for line in engine.genFile(): print(line, file=f)
 
+        for i in range(0, len(engine.parts)+1):
+            if i % 10 == 9:
+                print(f"\n{' '*15}", end="")
+            print(f" {i:03}" if i > 0 else " TOC", end="")
+            with open(f"files/{normkey}.{i:03}.md", "w") as f:
+                for line in engine.genFile(i): print(line, file=f)
+
+        print()
         embed()
 
     print("DONE.")

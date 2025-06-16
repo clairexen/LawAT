@@ -1,244 +1,272 @@
 # BG.StPO.016 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.016.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StPO.015](BG.StPO.015.md))*
+Der Nationalrat hat beschlossen:
 
-## 8. Verkündung und Ausfertigung des Urteiles
+----
+## 11. Hauptstück # Rücktritt von der Verfolgung (Diversion)
 
-### § 268 StPO
+### § 198 StPO # Allgemeines
 
-`§ 268 StPO.`  
-Unmittelbar nach dem Beschlusse des Schöffengerichts ist der Angeklagte wieder vorzuführen oder vorzurufen und ist in öffentlicher Sitzung vom Vorsitzenden das Urteil samt dessen wesentlichen Gründen unter Verlesung der angewendeten Gesetzesbestimmungen zu verkünden. Zugleich belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel.
+`§ 198 (1) StPO.`  
+Die Staatsanwaltschaft hat nach diesem Hauptstück vorzugehen und von Verfolgung einer Straftat zurückzutreten, wenn auf Grund hinreichend geklärten Sachverhalts feststeht, dass eine Einstellung des Verfahrens nach den §§ 190 bis 192 nicht in Betracht kommt, eine Bestrafung jedoch im Hinblick auf  
+`§ 198 (1) Z 1 StPO.`
+die Zahlung eines Geldbetrages (§ 200) oder  
+`§ 198 (1) Z 2 StPO.`
+die Erbringung gemeinnütziger Leistungen (§ 201) oder  
+`§ 198 (1) Z 3 StPO.`
+die Bestimmung einer Probezeit, in Verbindung mit Bewährungshilfe und der Erfüllung von Pflichten (§ 203), oder  
+`§ 198 (1) Z 4 StPO.`
+einen Tatausgleich (§ 204)  
+nicht geboten erscheint, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten oder der Begehung strafbarer Handlungen durch andere entgegenzuwirken.
 
-### § 269 StPO
+`§ 198 (2) StPO.`  
+Ein Vorgehen nach diesem Hauptstück ist jedoch nur zulässig, wenn  
+`§ 198 (2) Z 1 StPO.`
+die Tat nicht mit mehr als fünf Jahren Freiheitsstrafe bedroht ist,  
+`§ 198 (2) Z 2 StPO.`
+die Schuld des Beschuldigten nicht als schwer (§ 32 StGB) anzusehen wäre und  
+`§ 198 (2) Z 3 StPO.`
+die Tat nicht den Tod eines Menschen zur Folge gehabt hat, es sei denn, dass ein Angehöriger des Beschuldigten fahrlässig getötet worden ist und eine Bestrafung im Hinblick auf die durch den Tod des Angehörigen beim Beschuldigten verursachte schwere psychische Belastung nicht geboten erscheint.
 
-`§ 269 StPO.`  
-Hat sich der Angeklagte zur Urteilsverkündung nicht eingefunden, so kann der Vorsitzende ihn zu diesem Zwecke vorführen lassen oder anordnen, daß ihm das Urteil entweder durch einen hiezu abgeordneten Richter mündlich eröffnet oder in Abschrift zugestellt werde.
+`§ 198 (3) StPO.`  
+Nach diesem Hauptstück darf im Fall des Missbrauchs der Amtsgewalt nach § 302 Abs. 1 StGB nur vorgegangen werden, soweit der Beschuldigte durch die Tat keine oder eine bloß geringfügige oder sonst unbedeutende Schädigung an Rechten herbeigeführt hat und die Tat nicht auch nach §§ 304 oder 307 StGB mit Strafe bedroht ist. Im Übrigen ist ein Vorgehen nach diesem Hauptstück ausgeschlossen, soweit es sich um eine im Zehnten Abschnitt des Besonderen Teils des StGB geregelte strafbare Handlung handelt, die mit mehr als dreijähriger Freiheitsstrafe bedroht ist.
+----
 
-### § 270 StPO
+----
+### § 199 StPO
 
-`§ 270 (1) StPO.`  
-Jedes Urteil muß binnen vier Wochen vom Tage der Verkündung schriftlich ausgefertigt und vom Vorsitzenden unterschrieben werden.
+`§ 199 StPO.`  
+Nach Einbringen der Anklage wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht die für die Staatsanwaltschaft geltenden Bestimmungen der §§ 198, 200 bis 209b sinngemäß anzuwenden und das Verfahren unter den für die Staatsanwaltschaft geltenden Voraussetzungen bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen.
+----
 
-`§ 270 (2) StPO.`  
-Die Urteilsausfertigung muß enthalten:  
-`§ 270 (2) Z 1 StPO.`
-die Bezeichnung des Gerichtes und die Namen der anwesenden Mitglieder des Schöffengerichts sowie der Beteiligten des Verfahrens;  
-`§ 270 (2) Z 2 StPO.`
-den Vor- und den Familiennamen sowie alle früher geführten Namen, Tag und Ort der Geburt, die Staatsangehörigkeit und den Beruf des Angeklagten sowie den Namen des Verteidigers;  
-`§ 270 (2) Z 3 StPO.`
-den Tag der Hauptverhandlung und des ergehenden Urteiles;  
-`§ 270 (2) Z 4 StPO.`
-den Ausspruch des Schöffengerichts über die Schuld des Angeklagten, und zwar im Fall einer Verurteilung mit allen in § 260 angeführten Punkten; schließlich  
-`§ 270 (2) Z 5 StPO.`
-die Entscheidungsgründe. In diesen muß in gedrängter Darstellung, aber mit voller Bestimmtheit angegeben sein, welche Tatsachen und aus welchen Gründen das Schöffengericht sie als erwiesen oder als nicht erwiesen angenommen hat, von welchen Erwägungen es bei der Entscheidung der Rechtsfragen und bei Beseitigung der vorgebrachten Einwendungen geleitet wurde und, im Fall einer Verurteilung, welche Erschwerungs- und Milderungsumstände es gefunden hat. Im Falle einer Verurteilung zu einer in Tagessätzen bemessenen Geldstrafe sind die für die Bemessung des Tagessatzes maßgebenden Umstände (§ 19 Abs. 2 StGB) anzugeben. Bei einem freisprechenden Urteile haben die Entscheidungsgründe insbesondere deutlich anzugeben, aus welchem der im § 259 angegebenen Gründe sich das Schöffengericht zur Freisprechung bestimmt gefunden hat.
+----
+### § 200 StPO # Zahlung eines Geldbetrages
 
-`§ 270 (3) StPO.`  
-Schreib- und Rechenfehler, ferner solche Formgebrechen und Auslassungen, die nicht die im § 260 Abs. 1 Z. 1 bis 3 und Abs. 2 erwähnten Punkte betreffen, hat der Vorsitzende jederzeit, allenfalls nach Anhörung der Beteiligten, zu berichtigen. Die Zurückweisung eines auf eine solche Berichtigung abzielenden Antrages sowie die vorgenommene Berichtigung können von jedem zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten oder sonst Beteiligten mit der binnen vierzehn Tagen einzubringenden Beschwerde an das Oberlandesgericht angefochten werden. Ist außer über die Beschwerde noch über eine von wem immer ergriffene Nichtigkeitsbeschwerde zu entscheiden, so entscheidet der Oberste Gerichtshof auch über die Beschwerde. Die beschlossene Verbesserung ist am Rande des Urteils beizusetzen und muß allen Ausfertigungen beigefügt werden.
+`§ 200 (1) StPO.`  
+Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat zurücktreten, wenn der Beschuldigte einen Geldbetrag zu Gunsten des Bundes entrichtet.
 
-`§ 270 (4) StPO.`  
-Verzichten die Beteiligten des Verfahrens auf ein Rechtsmittel oder melden sie innerhalb der dafür offen stehenden Frist kein Rechtsmittel an, so kann das Urteil in gekürzter Form ausgefertigt werden, es sei denn, dass eine zwei Jahre übersteigende Freiheitsstrafe verhängt oder eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme oder ein Tätigkeitsverbot (§ 220b StGB) angeordnet worden ist. Die gekürzte Urteilsausfertigung hat zu enthalten:  
-`§ 270 (4) Z 1 StPO.`
-die im Abs. 2 enthaltenen Angaben mit Ausnahme der Entscheidungsgründe;  
-`§ 270 (4) Z 2 StPO.`
-im Fall einer Verurteilung die vom Gericht als erwiesen angenommenen Tatsachen in gedrängter Darstellung sowie die für die Strafbemessung und gegebenenfalls die für die Bemessung des Tagessatzes (§ 19 Abs. 2 StGB) maßgebenden Umstände in Schlagworten;  
-`§ 270 (4) Z 3 StPO.`
-im Fall eines Freispruchs eine gedrängte Darstellung der dafür maßgebenden Gründe.
+`§ 200 (2) StPO.`  
+Der Geldbetrag darf den Betrag nicht übersteigen, der einer Geldstrafe von 180 Tagessätzen zuzüglich der im Fall einer Verurteilung zu ersetzenden Kosten des Strafverfahrens (§§ 389 Abs. 2 und 3, 391 Abs. 1) entspricht. Er ist innerhalb von 14 Tagen nach Zustellung der Mitteilung nach Abs. 4 zu bezahlen. Sofern dies den Beschuldigten unbillig hart träfe, kann ihm jedoch ein Zahlungsaufschub für längstens sechs Monate gewährt oder die Zahlung von Teilbeträgen innerhalb dieses Zeitraums gestattet werden.
 
-## 9. Protokollführung
+`§ 200 (3) StPO.`  
+Soweit nicht aus besonderen Gründen darauf verzichtet werden kann, ist der Rücktritt von der Verfolgung nach Zahlung eines Geldbetrages überdies davon abhängig zu machen, dass der Beschuldigte binnen einer zu bestimmenden Frist von höchstens sechs Monaten den aus der Tat entstandenen Schaden gutmacht und dies unverzüglich nachweist.
 
-### § 271 StPO
+`§ 200 (4) StPO.`  
+Die Staatsanwaltschaft hat dem Beschuldigten mitzuteilen, dass Anklage gegen ihn wegen einer bestimmten Straftat beabsichtigt sei, aber unterbleiben werde, wenn er einen festgesetzten Geldbetrag und gegebenenfalls Schadensgutmachung in bestimmter Höhe leiste. Des weiteren hat die Staatsanwaltschaft den Beschuldigten im Sinne des § 207 sowie über die Möglichkeit eines Zahlungsaufschubs (Abs. 2) zu informieren, soweit sie ihm einen solchen nicht von Amts wegen in Aussicht stellt.
 
-`§ 271 (1) StPO.`  
-Über die Hauptverhandlung ist bei sonstiger Nichtigkeit ein Protokoll aufzunehmen, für das – soweit im Folgenden nicht anderes bestimmt wird – § 96 Abs. 2 und 3 anzuwenden ist; es hat insbesondere zu enthalten:  
-`§ 271 (1) Z 1 StPO.`
-die Bezeichnung des Gerichts sowie Ort, Beginn und Ende der Hauptverhandlung,  
-`§ 271 (1) Z 2 StPO.`
-die Namen der Mitglieder des Schöffengerichts, der Beteiligten des Verfahrens und ihrer Vertreter und, wenn ein Schriftführer beigezogen wurde, dessen Namen,  
-`§ 271 (1) Z 3 StPO.`
-die Namen der beigezogenen Dolmetscher, der vernommenen Zeugen und Sachverständigen,  
-`§ 271 (1) Z 4 StPO.`
-alle wesentlichen Förmlichkeiten des Verfahrens,  
-`§ 271 (1) Z 5 StPO.`
-die Bezeichnung der verlesenen und vorgetragenen Schriftstücke (§ 252 Abs. 2a und 3),  
-`§ 271 (1) Z 6 StPO.`
-alle Anträge der Beteiligten des Verfahrens und die darüber getroffenen Entscheidungen,  
-`§ 271 (1) Z 7 StPO.`
-den Spruch des Urteils mit den in § 260 Abs. 1 Z 1 bis 3 bezeichneten Angaben.  
-Den Beteiligten des Verfahrens steht es frei, die Feststellung einzelner Punkte im Protokoll zur Wahrung ihrer Rechte zu verlangen.
+`§ 200 (5) StPO.`  
+Nach Leistung des Geldbetrages und allfälliger Schadensgutmachung hat die Staatsanwaltschaft von der Verfolgung zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist.
+----
 
-`§ 271 (1a) StPO.`  
-Unter den Voraussetzungen des § 270 Abs. 4 kann das Verhandlungsprotokoll durch einen vom Vorsitzenden zu unterschreibenden Vermerk ersetzt werden, der lediglich die in Abs. 1 Z 1 bis 3 angeführten Angaben enthält.
+----
+### § 201 StPO # Gemeinnützige Leistungen
 
-`§ 271 (2) StPO.`  
-Dem Schriftführer kann bei entsprechender Eignung die selbstständige Abfassung der Verhandlungsmitschrift und deren Übertragung überlassen werden, ansonsten nach Abs. 4 zweiter Satz vorzugehen ist. Der Schriftführer darf sich zur Unterstützung eines technischen Hilfsmittels bedienen.
+`§ 201 (1) StPO.`  
+Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat vorläufig zurücktreten, wenn sich der Beschuldigte ausdrücklich bereit erklärt hat, innerhalb einer zu bestimmenden Frist von höchstens sechs Monaten unentgeltlich gemeinnützige Leistungen zu erbringen.
 
-`§ 271 (3) StPO.`  
-Die Antworten des Angeklagten (§ 245) und die Aussagen von Zeugen und Sachverständigen sind ihrem wesentlichen Inhalt nach zusammengefasst in das Protokoll aufzunehmen, soweit nicht deren wörtliche Wiedergabe für die Urteilsfällung erforderlich erscheint. Werden Zeugen oder Sachverständige in der Hauptverhandlung nicht das erste Mal vernommen, so sind nur Abweichungen, Veränderungen oder Zusätze der bereits in den Akten enthaltenen Angaben in das Protokoll aufzunehmen.
+`§ 201 (2) StPO.`  
+Gemeinnützige Leistungen sollen die Bereitschaft des Beschuldigten zum Ausdruck bringen, für die Tat einzustehen. Sie sind in der Freizeit bei einer geeigneten Einrichtung zu erbringen, mit der das Einvernehmen herzustellen ist.
 
-`§ 271 (4) StPO.`  
-Hat der Vorsitzende von der Beiziehung eines Schriftführers abgesehen, so sind die Angaben nach Abs. 1 Z 1 bis 3 in Vollschrift festzuhalten. Im Übrigen sind die Angaben über Verlauf und Inhalt der Hauptverhandlung nach Abs. 1 Z 4 bis 7 und Abs. 3 vom Vorsitzenden oder einem von ihm beauftragten richterlichen Mitglied des Schöffengerichts für die Anwesenden hörbar zu diktieren. Das Diktat ist unter Verwendung eines technischen Hilfsmittels aufzunehmen oder sofort zu übertragen.
+`§ 201 (3) StPO.`  
+Soweit nicht aus besonderen Gründen darauf verzichtet werden kann, ist der Rücktritt von der Verfolgung nach gemeinnützigen Leistungen überdies davon abhängig zu machen, dass der Beschuldigte binnen einer zu bestimmenden Frist von höchstens sechs Monaten den aus der Tat entstandenen Schaden gutmacht oder sonst zum Ausgleich der Folgen der Tat beiträgt und dies unverzüglich nachweist.
 
-`§ 271 (5) StPO.`  
-Sachverständige haben auf Anordnung des Vorsitzenden Befund und Gutachten sowie deren Ergänzungen selbst auf die im Abs. 4 beschriebene Art zu diktieren.
+`§ 201 (4) StPO.`  
+Die Staatsanwaltschaft hat dem Beschuldigten mitzuteilen, dass Anklage gegen ihn wegen einer bestimmten Straftat beabsichtigt sei, aber vorläufig unterbleiben werde, wenn er sich bereit erklärt, binnen bestimmter Frist gemeinnützige Leistungen in nach Art und Ausmaß bestimmter Weise zu erbringen und gegebenenfalls Tatfolgenausgleich zu leisten. Die Staatsanwaltschaft hat den Beschuldigten dabei im Sinne des § 207 zu informieren; sie kann auch eine in der Sozialarbeit erfahrene Person um die Erteilung dieser Informationen sowie darum ersuchen, die gemeinnützigen Leistungen zu vermitteln (§ 29b des Bewährungshilfegesetzes). Die Einrichtung (Abs. 2) hat dem Beschuldigten oder dem Sozialarbeiter eine Bestätigung über die erbrachten Leistungen auszustellen, die unverzüglich vorzulegen ist.
 
-`§ 271 (6) StPO.`  
-Der Inhalt der Aufnahme oder der Mitschrift ist auf Verlangen eines Beteiligten des Verfahrens wiederzugeben. Tonaufnahme und Verhandlungsmitschrift sind unverzüglich in Vollschrift zu übertragen. Diese Übertragung sowie die bereits in Vollschrift aufgenommenen Angaben bilden das Verhandlungsprotokoll, das vom Vorsitzenden sowie, soweit ein solcher beigezogen wurde, vom Schriftführer zu unterschreiben ist. Eine Ausfertigung des Protokolls ist den Beteiligten, soweit sie nicht darauf verzichtet haben, ehestmöglich, spätestens aber zugleich mit der Urteilsausfertigung zuzustellen.
+`§ 201 (5) StPO.`  
+Nach Erbringung der gemeinnützigen Leistungen und allfälligem Tatfolgenausgleich hat die Staatsanwaltschaft von der Verfolgung endgültig zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist.
+----
 
-`§ 271 (7) StPO.`  
-Für die Berichtigung von Schreib- und Rechenfehlern im Verhandlungsprotokoll gilt § 270 Abs. 3 erster Satz sinngemäß. Im Übrigen hat der Vorsitzende das Protokoll von Amts wegen oder auf Antrag einer zur Ergreifung von Berufung oder Nichtigkeitsbeschwerde berechtigten Partei nach Vornahme der erforderlichen Erhebungen durch Beschluss zu ergänzen oder zu berichtigen, soweit erhebliche Umstände oder Vorgänge im Protokoll der Hauptverhandlung zu Unrecht nicht erwähnt oder unrichtig wiedergegeben wurden. Der Antrag ist spätestens mit Ablauf der für die Ausführung einer gegen das Urteil angemeldeten Nichtigkeitsbeschwerde oder Berufung offen stehenden Frist einzubringen, ansonsten als unzulässig zurückzuweisen. Den Parteien ist Gelegenheit zur Stellungnahme zur in Aussicht genommenen oder begehrten Berichtigung oder Ergänzung und zu den Ergebnissen der gepflogenen Erhebungen binnen festzusetzender angemessener Frist einzuräumen. § 270 Abs. 3 zweiter bis vierter Satz gilt sinngemäß. Wird eine Ergänzung oder Berichtigung des Verhandlungsprotokolls nach Zustellung der Abschrift des Urteils an den Beschwerdeführer vorgenommen, so löst erst die neuerliche Zustellung die Fristen zur Ausführung angemeldeter Rechtsmittel (§§ 285 und 294) aus.
+----
+### § 202 StPO
 
-### § 271a StPO
+`§ 202 (1) StPO.`  
+Gemeinnützige Leistungen dürfen täglich nicht mehr als acht Stunden, wöchentlich nicht mehr als 40 Stunden und insgesamt nicht mehr als 240 Stunden in Anspruch nehmen; auf eine gleichzeitige Aus- und Fortbildung oder eine Berufstätigkeit des Beschuldigten ist Bedacht zu nehmen. Gemeinnützige Leistungen, die einen unzumutbaren Eingriff in die Persönlichkeitsrechte oder in die Lebensführung des Beschuldigten darstellen würden, sind unzulässig.
 
-`§ 271a (1) StPO.`  
-Wenn der Vorsitzende es für zweckmäßig erachtet, kann die Protokollführung nach Maßgabe der den Gerichten zur Verfügung stehenden Ausstattung durch die Verwendung technischer Einrichtungen zur Wort- oder Bildaufnahme unterstützt werden. In diesem Fall ist der gesamte Verlauf der Hauptverhandlung unmittelbar aufzunehmen und dies allen Beteiligten zuvor bekannt zu machen. Abgesehen von den in § 271 Abs. 1 Z 1 bis 3 erwähnten Angaben kann der Vorsitzende Verhandlungsmitschrift oder Diktat auf die Anordnung beschränken, welche Teile der Aufnahme in Schriftform zu übertragen sind.
+`§ 202 (2) StPO.`  
+Die Leiter der Staatsanwaltschaften haben jeweils eine Liste von Einrichtungen, die für die Erbringung gemeinnütziger Leistungen geeignet sind, zu führen und erforderlichenfalls zu ergänzen. In diese Liste ist auf Verlangen jedermann Einsicht zu gewähren.
 
-`§ 271a (2) StPO.`  
-Den Beteiligten des Verfahrens steht das Recht zu, die Wiedergabe der Aufnahme oder ihre Übersendung auf einem elektronischen Datenträger in einem allgemein gebräuchlichen Dateiformat zu verlangen. Zu übertragen ist eine solche Aufnahme nur, wenn es der Vorsitzende für zweckmäßig erachtet oder ein Beteiligter ein besonderes rechtliches Interesse daran glaubhaft macht und die vom Vorsitzenden zu bestimmenden Kosten der Übertragung übernimmt; § 77 Abs. 1 und 3 ist anzuwenden. Die Aufnahme ist als Beilage zum Akt zu nehmen.
+`§ 202 (3) StPO.`  
+Fügt der Beschuldigte bei der Erbringung gemeinnütziger Leistungen der Einrichtung oder deren Träger einen Schaden zu, so ist auf seine Ersatzpflicht das Dienstnehmerhaftpflichtgesetz, BGBl. Nr. 80/1965, sinngemäß anzuwenden. Fügt der Beschuldigte einem Dritten einen Schaden zu, so haftet dafür neben ihm auch der Bund nach den Bestimmungen des bürgerlichen Rechts. Die Einrichtung oder deren Träger haftet in diesem Fall dem Geschädigten nicht.
 
-`§ 271a (3) StPO.`  
-Wurde der gesamte Verlauf der Hauptverhandlung nach Abs. 1 aufgenommen und verzichten die Beteiligten des Verfahrens auf ein Rechtsmittel oder melden sie innerhalb der hiefür offen stehenden Frist kein Rechtsmittel an, so kann das Verhandlungsprotokoll durch einen vom Vorsitzenden zu unterschreibenden Vermerk ersetzt werden, der lediglich die in § 271 Abs. 1 Z 1 bis 3 angeführten Angaben enthält. Sofern sie ein rechtliches Interesse glaubhaft machen, können die Beteiligten des Verfahrens binnen vierzehn Tagen nach Verkündung des Urteils die Herstellung des Protokolls und die Zustellung einer Ausfertigung verlangen.
+`§ 202 (4) StPO.`  
+Der Bund hat den Schaden nur in Geld zu ersetzen. Von der Einrichtung, bei der die gemeinnützigen Leistungen erbracht wurden, oder deren Träger kann er Rückersatz begehren, insoweit diesen oder ihren Organen Vorsatz oder grobe Fahrlässigkeit, insbesondere durch Vernachlässigung der Aufsicht oder Anleitung, zur Last fällt. Auf das Verhältnis zwischen dem Bund und dem Beschuldigten ist das Dienstnehmerhaftpflichtgesetz, BGBl. Nr. 80/1965, sinngemäß anzuwenden.
 
-### § 272 StPO
+`§ 202 (5) StPO.`  
+Erleidet der Beschuldigte bei Erbringung gemeinnütziger Leistungen einen Unfall oder eine Krankheit, so gelten die Bestimmungen der §§ 76 bis 84 des Strafvollzugsgesetzes dem Sinne nach.
+----
 
-`§ 272 StPO.`  
-Über die Beratungen und Abstimmungen während und am Schlusse der Hauptverhandlung ist in den Fällen, wo sich das Gericht zur Beschlußfassung in das Beratungszimmer zurückgezogen hat, ein abgesondertes Protokoll zu führen.
+----
+### § 203 StPO # Probezeit
 
-## 10. Vertagung der Hauptverhandlung
+`§ 203 (1) StPO.`  
+Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat unter Bestimmung einer Probezeit von einem Jahr bis zu zwei Jahren vorläufig zurücktreten. Der Lauf der Probezeit beginnt mit der Zustellung der Verständigung über den vorläufigen Rücktritt von der Verfolgung.
 
-### § 273 StPO
+`§ 203 (2) StPO.`  
+Soweit nicht aus besonderen Gründen darauf verzichtet werden kann, ist der vorläufige Rücktritt von der Verfolgung überdies davon abhängig zu machen, dass sich der Beschuldigte ausdrücklich bereit erklärt, während der Probezeit bestimmte Pflichten zu erfüllen, die als Weisungen (§ 51 StGB) erteilt werden könnten, und sich durch einen Bewährungshelfer (§ 52 StGB) betreuen zu lassen. Dabei kommt insbesondere die Pflicht in Betracht, den entstandenen Schaden nach Kräften gutzumachen oder sonst zum Ausgleich der Folgen der Tat beizutragen.
 
-`§ 273 StPO.`  
-Die Hauptverhandlung darf, wenn sie begonnen hat, nur insoweit unterbrochen werden, als es der Vorsitzende zur nötigen Erholung der dabei beteiligten Personen oder zur unverzüglichen Herbeischaffung von Beweismitteln erforderlich findet; sie kann nach dem Ermessen des Schöffengerichts in dringenden Fällen auch an einem Sonn- oder Feiertage fortgesetzt werden.
+`§ 203 (3) StPO.`  
+Die Staatsanwaltschaft hat dem Beschuldigten mitzuteilen, dass Anklage gegen ihn wegen einer bestimmten Straftat für eine bestimmte Probezeit vorläufig unterbleibe, und ihn im Sinne des § 207 zu informieren. Gegebenenfalls hat die Staatsanwaltschaft dem Beschuldigten mitzuteilen, dass dieser vorläufige Rücktritt von der Verfolgung voraussetze, dass er sich ausdrücklich bereit erklärt, bestimmte Pflichten auf sich zu nehmen und sich von einem Bewährungshelfer betreuen zu lassen (Abs. 2). In diesem Fall kann die Staatsanwaltschaft auch eine in der Sozialarbeit erfahrene Person um die Erteilung dieser Informationen sowie darum ersuchen, den Beschuldigten bei der Erfüllung solcher Pflichten zu betreuen (§ 29b des Bewährungshilfegesetzes).
 
-### § 274 StPO
+`§ 203 (4) StPO.`  
+Nach Ablauf der Probezeit und Erfüllung allfälliger Pflichten hat die Staatsanwaltschaft von der Verfolgung endgültig zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist.
+----
 
-`§ 274 StPO.`  
-Ist der Verteidiger, ungeachtet gehöriger Ladung, bei der Hauptverhandlung nicht erschienen oder hat er sich vor deren Schluß entfernt oder tritt der im § 236 Abs. 2 vorgesehene Fall ein, und kann ein anderer Verteidiger überhaupt nicht oder doch nicht ohne Beeinträchtigung der Verteidigung des Angeklagten bestellt werden, so ist die Verhandlung zu vertagen. Die Kosten der Bestellung eines anderen Vertreters und der Vertagung hat der schuldige Verteidiger zu tragen.
+----
+### § 204 StPO # Tatausgleich
 
-### § 275 StPO
+`§ 204 (1) StPO.`  
+Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat zurücktreten oder im Fall eines Vorgehens nach Abs. 3 endgültig zurücktreten, wenn durch die Tat Rechtsgüter einer Person unmittelbar beeinträchtigt sein könnten und der Beschuldigte bereit ist, für die Tat einzustehen und sich mit deren Ursachen auseinander zu setzen, wenn er allfällige Folgen der Tat auf eine den Umständen nach geeignete Weise ausgleicht, insbesondere dadurch, dass er aus der Tat entstandenen Schaden gutmacht oder sonst zum Ausgleich der Folgen der Tat beiträgt, und wenn er erforderlichenfalls Verpflichtungen eingeht, die seine Bereitschaft bekunden, Verhaltensweisen, die zur Tat geführt haben, künftig zu unterlassen.
 
-`§ 275 StPO.`  
-Erkrankt der Angeklagte während der Hauptverhandlung in dem Maße, daß er ihr nicht weiter beiwohnen kann, und willigt er nicht selbst ein, daß die Verhandlung in seiner Abwesenheit fortgesetzt und seine im Ermittlungsverfahren oder in einer früheren Hauptverhandlung abgelegte Aussage vorgelesen werde, so ist die Verhandlung zu vertagen. § 197 Abs. 2b gilt sinngemäß.
+`§ 204 (2) StPO.`  
+Das Opfer und sein Vertreter sind in Bemühungen um einen Tatausgleich einzubeziehen, soweit sie dazu bereit sind. Das Zustandekommen eines Ausgleichs ist von der Zustimmung des Opfers abhängig, es sei denn, dass es diese aus Gründen nicht erteilt, die im Strafverfahren nicht berücksichtigungswürdig sind. Die berechtigten Interessen des Opfers sind jedenfalls zu berücksichtigen (§ 206).
 
-### § 276 StPO
+`§ 204 (3) StPO.`  
+Die Staatsanwaltschaft kann einen Konfliktregler ersuchen, das Opfer und den Beschuldigten und ihre Vertreter über die Möglichkeit eines Tatausgleichs sowie im Sinne der §§ 206 und 207 zu informieren und bei ihren Bemühungen um einen solchen Ausgleich anzuleiten und zu unterstützen (§ 29a des Bewährungshilfegesetzes). In diesem Fall hat die Staatsanwaltschaft von der Verfolgung vorläufig zurückzutreten.
 
-`§ 276 StPO.`  
-Für die Vertagung der Hauptverhandlung gilt § 226.
+`§ 204 (4) StPO.`  
+Der Konfliktregler hat der Staatsanwaltschaft über Ausgleichsvereinbarungen zu berichten und deren Erfüllung zu überprüfen. Einen abschließenden Bericht hat er zu erstatten, wenn der Beschuldigte seinen Verpflichtungen zumindest soweit nachgekommen ist, dass unter Berücksichtigung seines übrigen Verhaltens angenommen werden kann, er werde die Vereinbarungen weiter einhalten, oder wenn nicht mehr zu erwarten ist, dass ein Ausgleich zustande kommt.
+----
 
-### § 276a StPO
+----
+### § 205 StPO # Nachträgliche Fortsetzung des Strafverfahrens
 
-`§ 276a StPO.`  
-Ist die Verhandlung, nachdem sie begonnen hatte, vertagt worden (§§ 274 bis 276), so kann der Vorsitzende in der späteren Verhandlung die wesentlichen Ergebnisse der früheren nach dem Protokoll und den sonst zu berücksichtigenden Akten mündlich vortragen und die Fortsetzung der Verhandlung daran anknüpfen. Die Verhandlung ist jedoch zu wiederholen, wenn sich die Zusammensetzung des Gerichtes geändert hat oder seit der Vertagung mehr als zwei Monate verstrichen sind, es sei denn, dass beide Teile auf die Wiederholung wegen Überschreitung der Frist von zwei Monaten verzichten.
+`§ 205 (1) StPO.`  
+Nach einem nicht bloß vorläufigen Rücktritt von der Verfolgung des Beschuldigten nach diesem Hauptstück (§§ 200 Abs. 5, 201 Abs. 5, 203 Abs. 4 und 204 Abs. 1) ist eine Fortsetzung des Strafverfahrens nur unter den Voraussetzungen der ordentlichen Wiederaufnahme zulässig. Vor einem solchen Rücktritt ist das Strafverfahren jedenfalls dann fortzusetzen, wenn der Beschuldigte dies verlangt.
 
-## 11. Zwischenfälle
+`§ 205 (2) StPO.`  
+Hat die Staatsanwaltschaft dem Beschuldigten vorgeschlagen, einen Geldbetrag zu bezahlen (§ 200 Abs. 4), gemeinnützige Leistungen zu erbringen (§ 201 Abs. 4) oder eine Probezeit und allfällige Pflichten auf sich zu nehmen (§ 203 Abs. 3), oder ist die Staatsanwaltschaft von der Verfolgung der Straftat vorläufig zurückgetreten (§§ 201 Abs. 1, 203 Abs. 1, 204 Abs. 3), so hat sie das Strafverfahren fortzusetzen, wenn  
+`§ 205 (2) Z 1 StPO.`
+der Beschuldigte den Geldbetrag samt allfälliger Schadensgutmachung, oder die gemeinnützigen Leistungen samt allfälligem Tatfolgenausgleich nicht vollständig oder nicht rechtzeitig zahlt oder erbringt oder wenn eine Ausgleichsvereinbarung nicht zustande kommt oder diese vom Beschuldigten nicht erfüllt wird,  
+`§ 205 (2) Z 2 StPO.`
+der Beschuldigte übernommene Pflichten nicht hinreichend erfüllt, den Pauschalkostenbeitrag (§ 388 Abs. 1 und 2) nicht leistet oder sich beharrlich dem Einfluss des Bewährungshelfers entzieht oder  
+`§ 205 (2) Z 3 StPO.`
+gegen den Beschuldigten vor Ablauf der Probezeit oder vor Erstattung des abschließenden Berichts nach § 204 Abs. 4 wegen einer anderen Straftat ein Strafverfahren eingeleitet wird. In diesem Fall ist die nachträgliche Fortsetzung des Verfahrens zulässig, sobald gegen den Beschuldigten wegen der neuen oder neu hervorgekommenen Straftat Anklage eingebracht wird, und zwar auch noch während dreier Monate nach dem Einbringen, selbst wenn inzwischen die Probezeit abgelaufen ist. Das nachträglich fortgesetzte Strafverfahren ist jedoch nach Maßgabe der übrigen Voraussetzungen zu beenden, wenn das neue Strafverfahren auf andere Weise als durch einen Schuldspruch beendet wird.
 
-### § 277 StPO
+`§ 205 (3) StPO.`  
+Von der Fortsetzung des Verfahrens kann jedoch abgesehen werden, wenn dies in den Fällen des Abs. 2 Z 1 aus besonderen Gründen vertretbar erscheint, in den Fällen des Abs. 2 Z 2 und 3 nach den Umständen nicht geboten ist, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten. Im Übrigen ist die Fortsetzung des Verfahrens in den im Abs. 2 angeführten Fällen außer unter den in Z 1 bis 3 angeführten Voraussetzungen nur zulässig, wenn der Beschuldigte den dort erwähnten Vorschlag der Staatsanwaltschaft nicht annimmt.
 
-`§ 277 StPO.`  
-Ergibt sich aus der Hauptverhandlung mit Wahrscheinlichkeit, daß ein Zeuge wissentlich falsch ausgesagt habe, so kann der Vorsitzende über dessen Aussage ein Protokoll aufnehmen und nach geschehener Vorlesung und Genehmigung vom Zeugen unterfertigen lassen; er kann den Zeugen auch festnehmen und dem Einzelrichter des Landesgerichts vorführen lassen.
+`§ 205 (4) StPO.`  
+Wenn der Beschuldigte den Geldbetrag nicht vollständig oder nicht rechtzeitig zahlen oder den übernommenen Verpflichtungen nicht vollständig oder nicht rechtzeitig nachkommen kann, weil ihn dies wegen einer erheblichen Änderung der für die Höhe des Geldbetrages oder die Art oder den Umfang der Verpflichtungen maßgeblichen Umstände unbillig hart träfe, so kann die Staatsanwaltschaft die Höhe des Geldbetrages oder die Verpflichtung angemessen ändern.
 
-### § 278 StPO
+`§ 205 (5) StPO.`  
+Verpflichtungen, die der Beschuldigte übernommen, und Zahlungen und sonstige Ausgleichsmaßnahmen, zu denen er sich bereit erklärt hat, werden mit der nachträglichen Fortsetzung des Verfahrens gegenstandslos. Die Bewährungshilfe endet; § 179 bleibt jedoch unberührt. Geldbeträge, die der Beschuldigte geleistet hat (§ 200), sind auf eine nicht bedingt nachgesehene Geldstrafe unter sinngemäßer Anwendung des § 38 Abs. 1 Z 1 StGB anzurechnen; im Übrigen sind sie zurückzuzahlen. Andere Leistungen sind nicht zu ersetzen, im Fall einer Verurteilung jedoch gleichfalls angemessen auf die Strafe anzurechnen. Dabei sind insbesondere Art und Dauer der Leistung zu berücksichtigen.
+----
 
-`§ 278 (1) StPO.`  
-Wird während der Hauptverhandlung im Sitzungssaal eine strafbare Handlung verübt und dabei der Täter auf frischer Tat betreten, so kann darüber mit Unterbrechung der Hauptverhandlung oder an deren Schluß auf Antrag des dazu berechtigten Anklägers sowie nach Vernehmung des Beschuldigten und der vorhandenen Zeugen vom versammelten Gerichte sogleich abgeurteilt werden. Rechtsmittel gegen ein solches Urteil haben keine aufschiebende Wirkung.
+----
+### § 206 StPO # Rechte und Interessen der Opfer
 
-`§ 278 (2) StPO.`  
-Ist zur Aburteilung ein Gericht höherer Ordnung zuständig oder die sofortige Aburteilung nicht tunlich, so läßt der Vorsitzende den Täter dem Einzelrichter des Landesgerichts vorführen.
+`§ 206 (1) StPO.`  
+Bei einem Vorgehen nach diesem Hauptstück sind stets die Interessen des Opfers, insbesondere jenes auf Wiedergutmachung zu prüfen und im größtmöglichen Ausmaß zu fördern. Das Opfer hat das Recht, eine Vertrauensperson beizuziehen. Jedenfalls sind Opfer unverzüglich im Sinne von § 70 Abs. 1 über ihre Rechte, insbesondere jenes auf Prozessbegleitung und die in Betracht kommenden Opferschutzeinrichtungen zu informieren. Soweit dies zur Wahrung ihrer Interessen und Rechte, insbesondere jenem auf Schadensgutmachung geboten erscheint, ist ihnen und ihrer Vertretung, jedenfalls im Fall eines erteilten Betretungs- und Annäherungsverbotes zum Schutz vor Gewalt nach § 38a Abs. 1 SPG und bei Opfern im Sinn des § 65 Z 1 lit. a vor einem Rücktritt von der Verfolgung ausreichend Zeit zur Stellungnahme zu geben.
 
-`§ 278 (3) StPO.`  
-Über einen solchen Vorgang ist ein besonderes Protokoll aufzunehmen.
+`§ 206 (2) StPO.`  
+Das Opfer ist jedenfalls zu verständigen, wenn sich der Beschuldigte bereit erklärt, aus der Tat entstandenen Schaden gutzumachen oder sonst zum Ausgleich der Folgen der Tat beizutragen. Gleiches gilt für den Fall, dass der Beschuldigte eine Pflicht übernimmt, welche die Interessen des Geschädigten unmittelbar berührt.
+----
 
-### § 279 StPO
+----
+### § 207 StPO # Information des Beschuldigten
 
-`§ 279 StPO.`  
-Hat der Angeklagte während der Hauptverhandlung eine strafbare Handlung begangen, so sind die Bestimmungen des § 263 voll anzuwenden.
+`§ 207 StPO.`  
+Bei einem Vorgehen nach diesem Hauptstück ist der Beschuldigte eingehend über seine Rechte zu informieren, insbesondere über die Voraussetzungen für einen Rücktritt von der Verfolgung, über das Erfordernis seiner Zustimmung, über seine Möglichkeit, eine Fortsetzung des Verfahrens zu verlangen, über die sonstigen Umstände, die eine Fortsetzung des Verfahrens bewirken können (§ 205 Abs. 2) und über die Notwendigkeit eines Pauschalkostenbeitrags (§ 388).
+----
 
-## II. Rechtsmittel gegen das Urteil
+----
+### § 208 StPO # Gemeinsame Bestimmungen
 
-### § 280 StPO
+`§ 208 (1) StPO.`  
+Um die Voraussetzungen für ein Vorgehen nach diesem Hauptstück abzuklären, kann die Staatsanwaltschaft den Leiter der für den Tatausgleich zuständigen Einrichtung ersuchen, mit dem Opfer, mit dem Beschuldigten und gegebenenfalls auch mit jener Einrichtung, bei der gemeinnützige Leistungen zu erbringen oder eine Schulung oder ein Kurs zu besuchen wären, Verbindung aufzunehmen und sich dazu zu äußern, ob die Zahlung eines Geldbetrages, die Erbringung gemeinnütziger Leistungen, die Bestimmung einer Probezeit, die Übernahme bestimmter Pflichten, die Betreuung durch einen Bewährungshelfer oder ein Tatausgleich zweckmäßig wäre.
 
-`§ 280 StPO.`  
-Gegen die Urteile der Landesgerichte als Schöffengerichte (§ 31 Abs. 3) stehen nur die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen. Die Nichtigkeitsbeschwerde geht an den Obersten Gerichtshof, die Berufung an das Oberlandesgericht.
+`§ 208 (2) StPO.`  
+Auf begründeten Antrag des Beschuldigten kann ein nach § 200 festgesetzter Geldbetrag niedriger bemessen oder das gestellte Anbot geändert werden, wenn neu hervorgekommene oder nachträglich eingetretene Umstände ein solches Vorgehen erfordern.
 
-### § 281 StPO
+`§ 208 (3) StPO.`  
+Vom Rücktritt von der Verfolgung hat die Staatsanwaltschaft die Kriminalpolizei, den Beschuldigten, das Opfer und, sofern es mit dem Verfahren befasst war, das Gericht zu verständigen. Hat das Gericht das Verfahren gemäß § 199 eingestellt, obliegen die Verständigungen diesem. In der Verständigung sind die maßgebenden Umstände für die Erledigung in Schlagworten darzustellen.
+----
 
-`§ 281 (1) StPO.`  
-Die Nichtigkeitsbeschwerde kann gegen ein freisprechendes Urteil nur zum Nachteile, gegen ein verurteilendes sowohl zum Vorteile als auch zum Nachteile des Angeklagten ergriffen werden, jedoch, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur wegen eines der folgenden Nichtigkeitsgründe:  
-`§ 281 (1) Z 1 StPO.`
-wenn das Schöffengericht nicht gehörig besetzt war, wenn nicht alle Richter der ganzen Verhandlung beiwohnten oder wenn sich ein ausgeschlossener Richter (§§ 43 und 46) an der Entscheidung beteiligte; es sei denn, daß der die Nichtigkeit begründende Tatumstand dem Beschwerdeführer noch vor oder während der Hauptverhandlung bekannt und von ihm nicht gleich beim Beginne der Hauptverhandlung oder sofort, nachdem er in dessen Kenntnis gelangt war, geltend gemacht wurde;  
-`§ 281 (1) Z 1a StPO.`
-wenn der Angeklagte nicht während der ganzen Hauptverhandlung durch einen Verteidiger vertreten war, obwohl dies zwingend vorgeschrieben war;  
-`§ 281 (1) Z 2 StPO.`
-wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren trotz Widerspruchs des Beschwerdeführers in der Hauptverhandlung verlesen wurde;  
-`§ 281 (1) Z 3 StPO.`
-wenn in der Hauptverhandlung eine Bestimmung verletzt oder missachtet worden ist, deren Einhaltung das Gesetz bei sonstiger Nichtigkeit anordnet (§§ 115j Abs. 1, 126 Abs. 4, 140 Abs. 1, 144 Abs. 1, 155 Abs. 1, 157 Abs. 2 und 159 Abs. 3, 221 Abs. 2, 228, 240a, 250, 252, 260, 271, 427, 434d Abs. 1 und 2 sowie 439 Abs. 1 und 2);  
-`§ 281 (1) Z 4 StPO.`
-wenn während der Hauptverhandlung über einen Antrag des Beschwerdeführers nicht erkannt worden ist oder wenn durch einen gegen seinen Antrag oder Widerspruch gefassten Beschluss Gesetze oder Grundsätze des Verfahrens hintangesetzt oder unrichtig angewendet worden sind, deren Beobachtung durch grundrechtliche Vorschriften, insbesondere durch Art. 6 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, oder sonst durch das Wesen eines die Strafverfolgung und die Verteidigung sichernden, fairen Verfahrens geboten ist;  
-`§ 281 (1) Z 5 StPO.`
-wenn der Ausspruch des Schöffengerichts über entscheidende Tatsachen (§ 270 Abs. 2 Z. 4 und 5) undeutlich, unvollständig oder mit sich selbst im Widerspruch ist; wenn für diesen Ausspruch keine oder nur offenbar unzureichende Gründe angegeben sind; oder wenn zwischen den Angaben der Entscheidungsgründe über den Inhalt einer bei den Akten befindlichen Urkunde oder über eine Aussage und der Urkunde oder dem Vernehmungs- oder Sitzungsprotokoll selbst ein erheblicher Widerspruch besteht;  
-`§ 281 (1) Z 5a StPO.`
-wenn sich aus den Akten erhebliche Bedenken gegen die Richtigkeit der dem Ausspruch über die Schuld zugrunde gelegten entscheidenden Tatsachen ergeben;  
-`§ 281 (1) Z 6 StPO.`
-wenn das Schöffengericht zu Unrecht seine Unzuständigkeit (§ 261) ausgesprochen hat;  
-`§ 281 (1) Z 7 StPO.`
-wenn das ergangene Endurteil die Anklage nicht erledigt oder  
-`§ 281 (1) Z 8 StPO.`
-diese gegen die Vorschrift der § 262, § 263, § 267 und § 434b Abs. 3 überschritten hat;  
-`§ 281 (1) Z 9 StPO.`
-wenn durch den Ausspruch über die Frage,  
-`§ 281 (1) Z 9 lit. a) StPO.`
-ob die dem Angeklagten zur Last fallende Tat eine zur Zuständigkeit der Gerichte gehörige strafbare Handlung begründe,  
-`§ 281 (1) Z 9 lit. b) StPO.`
-ob Umstände vorhanden seien, durch die die Strafbarkeit der Tat aufgehoben oder die Verfolgung wegen der Tat ausgeschlossen ist, endlich  
-`§ 281 (1) Z 9 lit. c) StPO.`
-ob die nach dem Gesetz erforderliche Anklage fehle,  
-ein Gesetz verletzt oder unrichtig angewendet wurde;  
-`§ 281 (1) Z 10 StPO.`
-wenn die der Entscheidung zugrunde liegende Tat durch unrichtige Gesetzesauslegung einem Strafgesetz unterzogen wurde, das darauf nicht anzuwenden ist;  
-`§ 281 (1) Z 10a StPO.`
-wenn nach der Bestimmung des § 199 über die Einstellung des Verfahrens, anderen auf sie verweisenden Vorschriften oder nach § 37 SMG vorzugehen gewesen wäre;  
-`§ 281 (1) Z 11 StPO.`
-wenn das Schöffengericht seine Strafbefugnis überschritten oder bei dem Ausspruch über die Strafe für die Strafbemessung maßgebende entscheidende Tatsachen offenbar unrichtig beurteilt oder in unvertretbarer Weise gegen Bestimmungen über die Strafbemessung verstoßen hat.
+----
+### § 209 StPO
 
-`§ 281 (2) StPO.`  
-Die im Abs. 1 Z. 1a und 5a erwähnten Nichtigkeitsgründe können zum Nachteil des Angeklagten nicht geltend gemacht werden.
+`§ 209 (1) StPO.`  
+Die Staatsanwaltschaft kann nach diesem Hauptstück von der Verfolgung zurücktreten, solange sie noch nicht Anklage eingebracht hat. Danach hat sie bei Gericht zu beantragen, das Verfahren einzustellen (§ 199).
 
-`§ 281 (3) StPO.`  
-Die unter Abs. 1 Z. 2, 3 und 4 erwähnten Nichtigkeitsgründe können zum Vorteile des Angeklagten nicht geltend gemacht werden, wenn unzweifelhaft erkennbar ist, daß die Formverletzung auf die Entscheidung keinen dem Angeklagten nachteiligen Einfluß üben konnte. Zum Nachteile des Angeklagten können sie, abgesehen von dem im § 282 Abs. 2 geregelten Fall, nur geltend gemacht werden, wenn erkennbar ist, daß die Formverletzung einen die Anklage beeinträchtigenden Einfluß auf die Entscheidung zu üben vermochte, und wenn außerdem der Ankläger sich ihr widersetzt, die Entscheidung des Schöffengerichts begehrt und sich sofort nach der Verweigerung oder Verkündung dieser Entscheidung die Nichtigkeitsbeschwerde vorbehalten hat.
+`§ 209 (2) StPO.`  
+Gerichtliche Beschlüsse nach diesem Hauptstück sind in der Hauptverhandlung vom erkennenden Gericht, sonst vom Vorsitzenden, in der Hauptverhandlung vor dem Geschworenengericht jedoch vom Schwurgerichtshof zu fassen. Bevor das Gericht dem Beschuldigten eine Mitteilung nach den §§ 200 Abs. 4, 201 Abs. 4, 203 Abs. 3 oder einen Beschluss, mit dem das Verfahren eingestellt wird, zustellt, hat es die Staatsanwaltschaft zu hören. Gegen einen solchen Beschluss steht nur der Staatsanwaltschaft Beschwerde zu; dem Beschuldigten ist dieser Beschluss erst dann zuzustellen, wenn er der Staatsanwaltschaft gegenüber in Rechtskraft erwachsen ist.
 
-### § 281a StPO
+`§ 209 (3) StPO.`  
+Solange über eine Beschwerde gegen einen Beschluss, mit dem ein Antrag auf Einstellung des Strafverfahrens nach diesem Hauptstück abgewiesen wurde, noch nicht entschieden wurde, ist die Durchführung einer Hauptverhandlung nicht zulässig. Eine Beschwerde gegen die nachträgliche Fortsetzung des Strafverfahrens hat aufschiebende Wirkung.
+----
 
-`§ 281a StPO.`  
-Der Umstand, dass ein unzuständiges Oberlandesgericht die Rechtswirksamkeit der Anklageschrift festgestellt hat (§ 215), kann mit einer gegen das Urteil gerichteten Nichtigkeitsbeschwerde geltend gemacht werden.
+----
+### § 209a StPO # Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft
 
-### § 282 StPO
+`§ 209a (1) StPO.`  
+Der Täter einer Straftat,  
+`§ 209a (1) Z 1 StPO.`
+die der Zuständigkeit des Landesgerichts als Schöffen- oder Geschworenengericht (§ 31 Abs. 2 und 3) unterliegt,  
+`§ 209a (1) Z 2 StPO.`
+die der Zuständigkeit der WKStA (§ 20a) unterliegt oder die Kriterien des § 20b erfüllt, oder  
+`§ 209a (1) Z 3 StPO.`
+nach den §§ 277, 278, 278a oder 278b StGB oder einer Tat, die mit einer solchen Verabredung, Vereinigung oder Organisation im Zusammenhang steht,  
+hat nach Maßgabe der Abs. 2 und 3 das Recht, ein Vorgehen nach den §§ 199, 200 bis 203 und 205 bis 209 zu verlangen, wenn er freiwillig an die Staatsanwaltschaft oder die Kriminalpolizei herantritt, ein reumütiges Geständnis (§ 34 Abs. 1 Z 17 StGB) über seinen Tatbeitrag ablegt und sein Wissen über neue Tatsachen oder Beweismittel offenbart, deren Kenntnis wesentlich dazu beiträgt, die umfassende Aufklärung einer in den Z 1 bis 3 genannten Straftaten über seinen eigenen Tatbeitrag hinaus zu fördern oder eine Person auszuforschen, die an einer solchen Verabredung führend teilgenommen hat oder in einer solchen Vereinigung oder Organisation führend tätig war (Z 3).
 
-`§ 282 (1) StPO.`  
-Zugunsten des Angeklagten kann die Nichtigkeitsbeschwerde sowohl von ihm selbst als auch von seinem gesetzlichen Vertreter und von der Staatsanwaltschaft ergriffen werden. Soweit es sich um die Beurteilung der geltend gemachten Nichtigkeitsgründe handelt, ist die zugunsten des Angeklagten von anderen ergriffene Nichtigkeitsbeschwerde als von ihm selbst eingelegt anzusehen.
+`§ 209a (2) StPO.`  
+Soweit der Täter wegen seiner Kenntnisse über in Abs. 1 genannte Taten noch nicht als Beschuldigter vernommen (§§ 48 Abs. 1 Z 2, 164, 165) und wegen dieser Taten kein Zwang gegen ihn ausgeübt wurde, hat die Staatsanwaltschaft von der Verfolgung der Straftat dieser Person vorläufig zurückzutreten, es sei denn, das Vorliegen der Voraussetzungen nach Abs. 1 ist von vornherein ausgeschlossen.
 
-`§ 282 (2) StPO.`  
-Zum Nachteile des Angeklagten kann die Nichtigkeitsbeschwerde nur vom Staatsanwalt oder vom Privatankläger sowie vom Privatbeteiligten, jedoch von diesem nur im Fall eines Freispruchs und aus dem Grund des § 281 Abs. 1 Z 4 ergriffen werden. Der Privatbeteiligte kann den zuvor angeführten Nichtigkeitsgrund überdies nur insoweit geltend machen, als er wegen des Freispruchs auf den Zivilrechtsweg verwiesen wurde und erkennbar ist, dass die Abweisung eines von ihm in der Hauptverhandlung gestellten Antrags einen auf die Geltendmachung seiner privatrechtlichen Ansprüche nachteiligen Einfluss zu üben vermochte.
+`§ 209a (3) StPO.`  
+Sobald feststeht, dass die Voraussetzungen des Abs. 1 vorliegen und eine Bestrafung unter Berücksichtigung des Gewichts des Beitrags der Informationen zur Aufklärung oder Ausforschung im Verhältnis zu Art und Ausmaß seines Tatbeitrages nicht geboten erscheint, um ihn von der Begehung strafbarer Handlungen abzuhalten, hat die Staatsanwaltschaft dem Beschuldigten in sinngemäßer Anwendung der Bestimmungen der §§ 200 bis 203 und 205 bis 209 die Erbringung der dort vorgesehenen Leistungen und die weitere Zusammenarbeit bei der Aufklärung aufzutragen. Abweichend von § 200 Abs. 2 darf der zu entrichtende Geldbetrag einer Geldstrafe von 360 Tagessätzen entsprechen. Liegen jedoch die Voraussetzungen nicht vor, so hat die Staatsanwaltschaft das Verfahren fortzusetzen und bei Vorliegen der Voraussetzungen des § 41a StGB dessen Anwendung zu beantragen und dies auch dem Beschuldigten mitzuteilen.
 
-### § 283 StPO
+`§ 209a (4) StPO.`  
+Nach Erbringung der Leistungen hat die Staatsanwaltschaft das Ermittlungsverfahren unter dem Vorbehalt späterer Verfolgung einzustellen.
 
-`§ 283 (1) StPO.`  
-Die Berufung kann nur gegen den Ausspruch über die Strafe und gegen den Ausspruch über die privatrechtlichen Ansprüche ergriffen werden.
+`§ 209a (5) StPO.`  
+Wenn  
+`§ 209a (5) Z 1 StPO.`
+die eingegangene Verpflichtung zur Zusammenarbeit bei der Aufklärung verletzt wurde oder  
+`§ 209a (5) Z 2 StPO.`
+die zur Verfügung gestellten Unterlagen und Informationen falsch waren, keinen wesentlichen Beitrag im Sinn des Abs. 1 zu liefern vermochten oder nur zur Verschleierung der eigenen führenden Tätigkeit in einer in Abs. 1 Z 3 genannten Verabredung, Vereinigung oder Organisation gegeben wurden,  
+kann die nach Abs. 4 vorbehaltene Verfolgung wieder aufgenommen werden, es sei denn, dass die Staatsanwaltschaft die für die Wiederaufnahme erforderlichen Anordnungen nicht binnen einer Frist von vierzehn Tagen ab Zustellung der das Verfahren beendenden Entscheidung gestellt hat, in der einer der in Z 1 oder 2 umschriebenen Umstände festgestellt wurde.
 
-`§ 283 (2) StPO.`  
-Wegen des Ausspruches über die Strafe kann die Berufung von allen zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten mit Ausnahme des Privatbeteiligten ergriffen werden. Eine unterbliebene oder fehlerhafte Anrechnung einer Vorhaft oder einer im Ausland verbüßten Strafe kann mit Berufung nur dann geltend gemacht werden, wenn die Berufung zugleich aus anderen Gründen ergriffen wird.
+`§ 209a (6) StPO.`  
+Die Staatsanwaltschaft hat ihre Anordnung nach Abs. 4 dem Rechtsschutzbeauftragten samt einer Begründung für das Vorgehen zuzustellen. Der Rechtsschutzbeauftragte ist berechtigt, binnen drei Monaten die Fortführung des Verfahrens zu beantragen. Auf sein Verlangen ist ihm der Ermittlungsakt zu übersenden, in welchem Fall der Fristenlauf mit dem Einlangen des Aktes beginnt. §§ 195 Abs. 3 und 196 gelten sinngemäß.
 
-`§ 283 (3) StPO.`  
-Die im § 260 Abs. 2 erwähnte Feststellung kann zugunsten und zum Nachteil des Angeklagten mit Berufung angefochten werden.
+`§ 209a (7) StPO.`  
+Im Verfahren gegen Verbände nach dem Verbandsverantwortlichkeitsgesetz (VbVG), BGBl. I Nr. 151/2005, ist sinngemäß mit der Maßgabe vorzugehen, dass die Bestimmungen des § 19 Abs. 1 Z 1 bis 3 VbVG anzuwenden sind. Der zu entrichtende Geldbetrag darf abweichend von § 19 Abs. 1 Z 1 VbVG einer Verbandsgeldbuße von 100 Tagessätzen entsprechen.
+----
 
-`§ 283 (4) StPO.`  
-Gegen die Entscheidung über die privatrechtlichen Ansprüche können nur der Angeklagte und dessen gesetzlicher Vertreter und Erben Berufung einlegen. Gegen die Verweisung auf den Zivilrechtsweg können nach Maßgabe des § 366 Abs. 3 der Privatbeteiligte und seine Erben Berufung einlegen.
+----
+### § 209b StPO # Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft im Zusammenhang mit einer kartellrechtlichen Zuwiderhandlung
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StPO.017](BG.StPO.017.md))*
+`§ 209b (1) StPO.`  
+Der Bundeskartellanwalt hat die Staatsanwaltschaft von einem Vorgehen der Bundeswettbewerbsbehörde nach § 11b Abs. 1 oder 2 des Wettbewerbsgesetzes, BGBl. I Nr. 62/2002, oder von einem solchen Vorgehen der Europäischen Kommission oder von Wettbewerbsbehörden der anderen Mitgliedstaaten (§ 84 des Kartellgesetzes, BGBl. I Nr. 61/2005) zu verständigen, wenn es im Hinblick auf das Gewicht des Beitrags des Unternehmens zur Aufklärung einer Zuwiderhandlung im Sinne von § 11b Abs. 1 Z 3 Wettbewerbsgesetz und die aktive Mitwirkung der einzelnen Mitarbeiter daran unverhältnismäßig wäre, diese Mitarbeiter, die für das Unternehmen an einer solchen Zuwiderhandlung beteiligt waren, wegen einer durch eine solche Zuwiderhandlung begangenen Straftat zu verfolgen.
+
+`§ 209b (2) StPO.`  
+Die Staatsanwaltschaft hat sodann das Ermittlungsverfahren gegen die Mitarbeiter, die Staatsanwaltschaft und Gericht ihr gesamtes Wissen über die eigenen Taten und andere Tatsachen, die für die Aufklärung der durch die Zuwiderhandlung begangenen Straftaten von Bedeutung sind, offenbart haben, unter dem Vorbehalt späterer Verfolgung einzustellen. § 209a Abs. 5 und 6 gelten sinngemäß.
+----
+
+----
+## 4. TEIL # Haupt- und Rechtsmittelverfahren # 12. Hauptstück # Die Anklage # 1. Abschnitt # Allgemeines
+
+### § 210 StPO # Die Anklage
+
+`§ 210 (1) StPO.`  
+Wenn auf Grund ausreichend geklärten Sachverhalts eine Verurteilung nahe liegt und kein Grund für die Einstellung des Verfahrens oder den Rücktritt von Verfolgung vorliegt, hat die Staatsanwaltschaft bei dem für das Hauptverfahren zuständigen Gericht Anklage einzubringen; beim Landesgericht als Geschworenen- oder Schöffengericht mit Anklageschrift, beim Landesgericht als Einzelrichter und beim Bezirksgericht mit Strafantrag.
+
+`§ 210 (2) StPO.`  
+Durch das Einbringen der Anklage beginnt das Hauptverfahren, dessen Leitung dem Gericht obliegt. Die Staatsanwaltschaft wird zur Beteiligten des Verfahrens.
+
+`§ 210 (3) StPO.`  
+Die Festnahme des Angeklagten ist auf Antrag der Staatsanwaltschaft vom Gericht anzuordnen, auch andere Zwangsmittel und Beweisaufnahmen, die im Ermittlungsverfahren einer Anordnung oder Genehmigung der Staatsanwaltschaft bedürfen, sind nach Einbringen der Anklage durch das Gericht anzuordnen oder zu bewilligen. Die Durchführung obliegt weiterhin der Kriminalpolizei; Berichte und Verständigungen hat sie an das Gericht zu richten. Anträge auf Einstellung des Verfahrens (§ 108) sind nach dem Einbringen der Anklage nicht mehr zulässig, bereits eingebrachte werden gegenstandslos.
+
+`§ 210 (4) StPO.`  
+Außerhalb der Hauptverhandlung bestimmt sich die Zuständigkeit des Landesgerichts als Geschworenen- oder Schöffengericht nach § 32 Abs. 3.
+----
+
+`END-OF-DATA-SET`

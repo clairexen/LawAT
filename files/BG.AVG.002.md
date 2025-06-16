@@ -1,166 +1,32 @@
 # BG.AVG.002 — Allgemeines Verwaltungsverfahrensgesetz (AVG)
 **Typ:** Bundesgesetz  
-**Kurztitel:** AVG  
+**Kurztitel:** ['AVG']  
 **Langtitel:** Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.002.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.AVG.001](BG.AVG.001.md))*
+Der Nationalrat hat beschlossen:
 
-## 4. Abschnitt: Zustellungen
-
-### § 21 AVG
-
-`§ 21 AVG.`  
-Zustellungen sind nach dem Zustellgesetz – ZustG, BGBl. Nr. 200/1982, vorzunehmen.
-
-### § 22 AVG
-
-`§ 22 AVG.`  
-Wenn wichtige Gründe hiefür vorliegen, ist eine schriftliche Ausfertigung mit Zustellnachweis zuzustellen. Bei Vorliegen besonders wichtiger Gründe oder wenn es gesetzlich vorgesehen ist, ist die Zustellung zu eigenen Handen des Empfängers zu bewirken.
-
-### § 23 AVG
-
-`§ 23 AVG.`  
-(Entfällt; Art. III Abs. 2 der Kundmachung)
-
-### § 24 AVG
-
-`§ 24 AVG.`  
-(Entfällt; Art. III Abs. 2 der Kundmachung)
-
-### § 25 AVG
-
-`§ 25 AVG.`  
-(Entfällt; Art. III Abs. 2 der Kundmachung)
-
-### § 26 AVG
-
-`§ 26 AVG.`  
-(Entfällt; Art. III Abs. 2 der Kundmachung)
-
-### § 27 AVG
-
-`§ 27 AVG.`  
-(Entfällt; Art. III Abs. 2 der Kundmachung)
-
-### § 28 AVG
-
-`§ 28 AVG.`  
-(Entfällt; Art. III Abs. 2 der Kundmachung)
-
-### § 29 AVG
-
-`§ 29 AVG.`  
-(Entfällt; Art. III Abs. 2 der Kundmachung)
-
-### § 30 AVG
-
-`§ 30 AVG.`  
-(Entfällt; Art. III Abs. 2 der Kundmachung)
-
-### § 31 AVG
-
-`§ 31 AVG.`  
-(Entfällt; Art. III Abs. 2 der Kundmachung)
-
-## 5. Abschnitt: Fristen
-
-### § 32 AVG
-
-`§ 32 (1) AVG.`  
-Bei der Berechnung von Fristen, die nach Tagen bestimmt sind, wird der Tag nicht mitgerechnet, in den der Zeitpunkt oder das Ereignis fällt, wonach sich der Anfang der Frist richten soll.
-
-`§ 32 (2) AVG.`  
-Nach Wochen, Monaten oder Jahren bestimmte Fristen enden mit dem Ablauf desjenigen Tages der letzten Woche oder des letzten Monats, der durch seine Benennung oder Zahl dem Tag entspricht, an dem die Frist begonnen hat. Fehlt dieser Tag im letzten Monat, so endet die Frist mit Ablauf des letzten Tages dieses Monats.
-
-### § 33 AVG
-
-`§ 33 (1) AVG.`  
-Beginn und Lauf einer Frist werden durch Samstage, Sonntage oder gesetzliche Feiertage nicht behindert.
-
-`§ 33 (2) AVG.`  
-Fällt das Ende einer Frist auf einen Samstag, Sonntag, gesetzlichen Feiertag, Karfreitag oder 24. Dezember, so ist der nächste Tag, der nicht einer der vorgenannten Tage ist, als letzter Tag der Frist anzusehen.
-
-`§ 33 (3) AVG.`  
-In die Frist werden nicht eingerechnet:  
-`§ 33 (3) Z 1 AVG.`
-die Tage von der Übergabe an einen Zustelldienst im Sinne des § 2 Z 7 ZustG zur Übermittlung an die Behörde bis zum Einlangen bei dieser (Postlauf);  
-`§ 33 (3) Z 2 AVG.`
-die Zeit von der Versendung eines Anbringens im elektronischen Verkehr an die Behörde bis zum Einlangen bei dieser.
-
-`§ 33 (4) AVG.`  
-Durch Gesetz oder Verordnung festgesetzte Fristen können, wenn nicht ausdrücklich anderes bestimmt ist, nicht geändert werden.
-
-## 6. Abschnitt: Ordnungs- und Mutwillensstrafen
-
-### § 34 AVG # Ordnungsstrafen
-
-`§ 34 (1) AVG.`  
-Das Verwaltungsorgan, das eine Verhandlung, Vernehmung, einen Augenschein oder eine Beweisaufnahme leitet, hat für die Aufrechterhaltung der Ordnung und für die Wahrung des Anstandes zu sorgen.
-
-`§ 34 (2) AVG.`  
-Personen, die die Amtshandlung stören oder durch ungeziemendes Benehmen den Anstand verletzen, sind zu ermahnen; bleibt die Ermahnung erfolglos, so kann ihnen nach vorausgegangener Androhung das Wort entzogen, ihre Entfernung verfügt und ihnen die Bestellung eines Bevollmächtigten aufgetragen werden oder gegen sie eine Ordnungsstrafe bis 726 Euro verhängt werden.
-
-`§ 34 (3) AVG.`  
-Die gleichen Ordnungsstrafen können von der Behörde gegen Personen verhängt werden, die sich in schriftlichen Eingaben einer beleidigenden Schreibweise bedienen.
-
-`§ 34 (4) AVG.`  
-Gegen öffentliche Organe und gegen Bevollmächtigte, die zur berufsmäßigen Parteienvertretung befugt sind, ist, wenn sie einem Disziplinarrecht unterstehen, keine Ordnungsstrafe zu verhängen, sondern lediglich die Anzeige an die Disziplinarbehörde zu erstatten.
-
-`§ 34 (5) AVG.`  
-Die Verhängung einer Ordnungsstrafe schließt die strafgerichtliche Verfolgung wegen derselben Handlung nicht aus.
-
-### § 35 AVG # Mutwillensstrafen
-
-`§ 35 AVG.`  
-Gegen Personen, die offenbar mutwillig die Tätigkeit der Behörde in Anspruch nehmen oder in der Absicht einer Verschleppung der Angelegenheit unrichtige Angaben machen, kann die Behörde eine Mutwillensstrafe bis 726 Euro verhängen.
-
-### § 36 AVG # Widmung und Vollzug der Ordnungs- und Mutwillensstrafen
-
-`§ 36 AVG.`  
-Die Ordnungs- und Mutwillensstrafen fließen der Gebietskörperschaft zu, die den Aufwand der Behörde zu tragen hat. Die Bestimmungen des Verwaltungsstrafgesetzes über den Strafvollzug sind sinngemäß anzuwenden.
-
-## 7. Abschnitt: Begriffsbestimmungen
-
-### § 36a AVG # Angehörige
-
-`§ 36a (1) AVG.`  
-Angehörige im Sinne dieses Bundesgesetzes sind  
-`§ 36a (1) Z 1 AVG.`
-der Ehegatte,  
-`§ 36a (1) Z 2 AVG.`
-die Verwandten in gerader Linie und die Verwandten zweiten, dritten und vierten Grades in der Seitenlinie,  
-`§ 36a (1) Z 3 AVG.`
-die Verschwägerten in gerader Linie und die Verschwägerten zweiten Grades in der Seitenlinie,  
-`§ 36a (1) Z 4 AVG.`
-die Wahleltern und Wahlkinder und die Pflegeeltern und Pflegekinder,  
-`§ 36a (1) Z 5 AVG.`
-Personen, die miteinander in Lebensgemeinschaft leben, sowie Kinder und Enkel einer dieser Personen im Verhältnis zur anderen Person sowie  
-`§ 36a (1) Z 6 AVG.`
-der eingetragene Partner.
-
-`§ 36a (2) AVG.`  
-Abs. 1 Z 3 gilt für eingetragene Partner sinngemäß.
-
-`§ 36a (3) AVG.`  
-Die durch eine Ehe, Lebensgemeinschaft oder eingetragene Partnerschaft begründete Eigenschaft einer Person als Angehöriger bleibt aufrecht, auch wenn die Ehe, die Lebensgemeinschaft oder die eingetragene Partnerschaft nicht mehr besteht.
-
+----
 ## II. Teil: Ermittlungsverfahren # 1. Abschnitt: Zweck und Gang des Ermittlungsverfahrens
 
 ### § 37 AVG # Allgemeine Grundsätze
 
 `§ 37 AVG.`  
 Zweck des Ermittlungsverfahrens ist, den für die Erledigung einer Verwaltungssache maßgebenden Sachverhalt festzustellen und den Parteien Gelegenheit zur Geltendmachung ihrer Rechte und rechtlichen Interessen zu geben. Nach einer Antragsänderung (§ 13 Abs. 8) hat die Behörde das Ermittlungsverfahren insoweit zu ergänzen, als dies im Hinblick auf seinen Zweck notwendig ist.
+----
 
+----
 ### § 38 AVG
 
 `§ 38 AVG.`  
 Sofern die Gesetze nicht anderes bestimmen, ist die Behörde berechtigt, im Ermittlungsverfahren auftauchende Vorfragen, die als Hauptfragen von anderen Verwaltungsbehörden oder von den Gerichten zu entscheiden wären, nach der über die maßgebenden Verhältnisse gewonnenen eigenen Anschauung zu beurteilen und diese Beurteilung ihrem Bescheid zugrunde zu legen. Sie kann aber auch das Verfahren bis zur rechtskräftigen Entscheidung der Vorfrage aussetzen, wenn die Vorfrage schon den Gegenstand eines anhängigen Verfahrens bei der zuständigen Verwaltungsbehörde bzw. beim zuständigen Gericht bildet oder ein solches Verfahren gleichzeitig anhängig gemacht wird.
+----
 
+----
 ### § 38a AVG
 
 `§ 38a (1) AVG.`  
@@ -168,7 +34,9 @@ Hat die Behörde dem Gerichtshof der Europäischen Union eine Frage zur Vorabent
 
 `§ 38a (2) AVG.`  
 Erachtet die Behörde die noch nicht ergangene Vorabentscheidung für ihre Entscheidung in der Sache als nicht mehr erforderlich, so hat sie ihren Antrag unverzüglich zurückzuziehen.
+----
 
+----
 ### § 39 AVG
 
 `§ 39 (1) AVG.`  
@@ -191,7 +59,9 @@ Das Ermittlungsverfahren ist auf Antrag fortzusetzen, wenn eine Partei glaubhaft
 
 `§ 39 (5) AVG.`  
 Soweit in den Verwaltungsvorschriften nicht anderes bestimmt ist, gilt das Ermittlungsverfahren als nicht geschlossen, wenn der Bescheid nicht binnen acht Wochen ab jenem Zeitpunkt, zu dem erstmals einer Partei gegenüber das Ermittlungsverfahren für geschlossen erklärt worden ist, gegenüber einer Partei erlassen wird.
+----
 
+----
 ### § 39a AVG # Dolmetscher und Übersetzer
 
 `§ 39a (1) AVG.`  
@@ -199,7 +69,9 @@ Ist eine Partei oder eine zu vernehmende Person der deutschen Sprache nicht hinr
 
 `§ 39a (2) AVG.`  
 Als Dolmetscher im Sinne dieses Bundesgesetzes gelten auch die Übersetzer.
+----
 
+----
 ### § 40 AVG # Mündliche Verhandlung
 
 `§ 40 (1) AVG.`  
@@ -207,7 +79,9 @@ Mündliche Verhandlungen sind unter Zuziehung aller bekannten Beteiligten sowie 
 
 `§ 40 (2) AVG.`  
 Die Behörde hat darüber zu wachen, daß die Vornahme eines Augenscheins nicht zur Verletzung eines Kunst-, Betriebs- oder Geschäftsgeheimnisses mißbraucht werde.
+----
 
+----
 ### § 41 AVG
 
 `§ 41 (1) AVG.`  
@@ -215,7 +89,9 @@ Die Anberaumung einer mündlichen Verhandlung hat durch persönliche Verständig
 
 `§ 41 (2) AVG.`  
 Die Verhandlung ist so anzuberaumen, dass die Teilnehmer rechtzeitig und vorbereitet erscheinen können. Die Verständigung (Kundmachung) über die Anberaumung der Verhandlung hat die für Ladungen vorgeschriebenen Angaben einschließlich des Hinweises auf die gemäß § 42 eintretenden Folgen zu enthalten. Sie kann unter Hinweis auf die gemäß § 39 Abs. 3 eintretenden Folgen die Aufforderung an die Parteien enthalten, binnen einer angemessenen, vier Wochen möglichst nicht übersteigenden Frist alle ihnen bekannten Tatsachen und Beweismittel geltend zu machen. Falls für Zwecke der Verhandlung Pläne oder sonstige Behelfe zur Einsicht der Beteiligten aufzulegen sind, ist dies bei der Anberaumung der Verhandlung unter Angabe von Zeit und Ort der Einsichtnahme bekanntzugeben.
+----
 
+----
 ### § 42 AVG
 
 `§ 42 (1) AVG.`  
@@ -232,7 +108,9 @@ Eine Person, die glaubhaft macht, daß sie durch ein unvorhergesehenes oder unab
 
 `§ 42 (4) AVG.`  
 Versäumt derjenige, über dessen Antrag das Verfahren eingeleitet wurde, die Verhandlung, so kann sie entweder in seiner Abwesenheit durchgeführt oder auf seine Kosten auf einen anderen Termin verlegt werden.
+----
 
+----
 ### § 43 AVG
 
 `§ 43 (1) AVG.`  
@@ -249,7 +127,9 @@ Jeder Partei muß insbesondere Gelegenheit geboten werden, alle zur Sache gehör
 
 `§ 43 (5) AVG.`  
 Stehen einander zwei oder mehrere Parteien mit einander widersprechenden Ansprüchen gegenüber, so hat der Verhandlungsleiter auf das Zustandekommen eines Ausgleichs dieser Ansprüche mit den öffentlichen und den von anderen Beteiligten geltend gemachten Interessen hinzuwirken.
+----
 
+----
 ### § 43a AVG
 
 `§ 43a (1) AVG.`  
@@ -260,7 +140,9 @@ Schriftliche Äußerungen und Mitteilungen von Beteiligten, Niederschriften übe
 
 `§ 43a (3) AVG.`  
 Sobald die zulässigen Vorbringen aller Beteiligten aufgenommen sind und die Beweisaufnahme beendet ist, hat der Verhandlungsleiter die Verhandlung, gegebenenfalls nach Wiedergabe der Verhandlungsschrift (§ 14 Abs. 3) und nach mündlicher Verkündung des Bescheides (§ 62 Abs. 2), für geschlossen zu erklären.
+----
 
+----
 ### § 44 AVG
 
 `§ 44 (1) AVG.`  
@@ -274,7 +156,9 @@ In der Verständigung ist anzugeben, ob der Beteiligte persönlich zu erscheinen
 
 `§ 44 (4) AVG.`  
 Niederschriften über Verhandlungen unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung bedürfen nur der Unterschrift des Verhandlungsleiters und der persönlich erschienenen beigezogenen Personen.
+----
 
+----
 ### § 44a AVG # Großverfahren
 
 `§ 44a (1) AVG.`  
@@ -293,7 +177,9 @@ den Hinweis, daß die Kundmachungen und Zustellungen im Verfahren durch Edikt vo
 
 `§ 44a (3) AVG.`  
 Das Edikt ist im redaktionellen Teil zweier im Bundesland weitverbreiteter Tageszeitungen und im „Amtsblatt zur Wiener Zeitung“ zu verlautbaren. Ist in den Verwaltungsvorschriften für die Kundmachung der mündlichen Verhandlung eine besondere Form vorgesehen, so ist der Inhalt des Edikts darüber hinaus in dieser Form kundzumachen; im übrigen kann die Behörde jede geeignete Form der Kundmachung wählen. In der Zeit vom 15. Juli bis 25. August und vom 24. Dezember bis 6. Jänner ist die Kundmachung durch Edikt nicht zulässig.
+----
 
+----
 ### § 44b AVG
 
 `§ 44b (1) AVG.`  
@@ -301,7 +187,9 @@ Wurde ein Antrag durch Edikt kundgemacht, so hat dies zur Folge, daß Personen i
 
 `§ 44b (2) AVG.`  
 Der Antrag, die Antragsunterlagen und die vorliegenden Gutachten der Sachverständigen sind, soweit sie nicht von der Akteneinsicht ausgenommen sind, während der Einwendungsfrist bei der Behörde und bei der Gemeinde zur öffentlichen Einsicht aufzulegen. Die Beteiligten können sich hievon Abschriften selbst anfertigen oder auf ihre Kosten Kopien oder Ausdrucke erstellen lassen. Soweit die Behörde die die Sache betreffenden Akten elektronisch führt, kann den Beteiligten auf Verlangen die Akteneinsicht in jeder technisch möglichen Form gewährt werden. Erforderlichenfalls hat die Behörde der Gemeinde eine ausreichende Anzahl von Kopien oder Ausdrucken zur Verfügung zu stellen.
+----
 
+----
 ### § 44c AVG
 
 `§ 44c (1) AVG.`  
@@ -312,7 +200,9 @@ Zur öffentlichen Erörterung können Sachverständige beigezogen werden. Es ist
 
 `§ 44c (3) AVG.`  
 Über die öffentliche Erörterung ist eine Niederschrift nicht zu erstellen.
+----
 
+----
 ### § 44d AVG
 
 `§ 44d (1) AVG.`  
@@ -324,7 +214,9 @@ Das Edikt hat zu enthalten:
 den Gegenstand der Verhandlung, eine Beschreibung des Vorhabens und einen etwaigen Zeitplan;  
 `§ 44d (2) Z 2 AVG.`
 Ort und Zeit der Verhandlung.
+----
 
+----
 ### § 44e AVG
 
 `§ 44e (1) AVG.`  
@@ -335,7 +227,9 @@ Die durch Edikt anberaumte mündliche Verhandlung ist öffentlich.
 
 `§ 44e (3) AVG.`  
 Die Verhandlungsschrift ist spätestens eine Woche nach Schluß der mündlichen Verhandlung bei der Behörde und bei der Gemeinde während der Amtsstunden mindestens drei Wochen zur öffentlichen Einsicht aufzulegen. Wurde eine Aufzeichnung oder ein Stenogramm in Vollschrift übertragen, so können die Beteiligten während der Einsichtsfrist bei der Behörde Einwendungen wegen behaupteter Unvollständigkeit oder Unrichtigkeit der Übertragung erheben. Die Beteiligten können sich von der Verhandlungsschrift Abschriften selbst anfertigen oder auf ihre Kosten Kopien oder Ausdrucke erstellen lassen. Erforderlichenfalls hat die Behörde der Gemeinde eine ausreichende Anzahl von Kopien oder Ausdrucken zur Verfügung zu stellen. Nach Maßgabe der vorhandenen technischen Möglichkeiten hat die Behörde die Verhandlungsschrift im Internet bereitzustellen.
+----
 
+----
 ### § 44f AVG
 
 `§ 44f (1) AVG.`  
@@ -343,10 +237,13 @@ Ist der Antrag gemäß § 44a Abs. 1 kundgemacht worden, so kann die Behörde 
 
 `§ 44f (2) AVG.`  
 Die Behörde hat das Schriftstück während der Amtsstunden mindestens acht Wochen zur öffentlichen Einsicht aufzulegen. Sie hat den Beteiligten auf Verlangen Ausfertigungen des Schriftstückes auszufolgen und den Parteien auf Verlangen unverzüglich zuzusenden. Nach Maßgabe der vorhandenen technischen Möglichkeiten hat sie das Schriftstück im Internet bereitzustellen.
+----
 
+----
 ### § 44g AVG
 
 `§ 44g AVG.`  
 Die Kosten der Verlautbarung des Edikts im „Amtsblatt zur Wiener Zeitung“ sind von Amts wegen zu tragen.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.AVG.003](BG.AVG.003.md))*
+`END-OF-DATA-SET`

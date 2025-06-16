@@ -1,252 +1,414 @@
 # BG.ZPO.012 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ZPO  
+**Kurztitel:** ['ZPO']  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.012.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ZPO.011](BG.ZPO.011.md))*
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
-## Vernehmung.
+----
+## Versäumungsurteil
 
-### § 336 ZPO
+### § 396 ZPO
 
-`§ 336 (1) ZPO.`  
-Zeugen, welche wegen einer falschen Beweisaussage verurtheilt worden sind, oder welche zur Zeit ihrer Abhörung das vierzehnte Lebensjahr noch nicht zurückgelegt haben, endlich Personen, welche wegen mangelnder Verstandesreife oder wegen Verstandesschwäche von dem Wesen und der Bedeutung des Eides keine genügende Vorstellung haben, dürfen nicht beeidet werden.
+`§ 396 (1) ZPO.`  
+Erstattet der Beklagte die Klagebeantwortung nicht rechtzeitig, so ist auf Antrag des Klägers ein Versäumungsurteil zu fällen. Sein auf den Gegenstand des Rechtsstreites bezügliches tatsächliches Vorbringen ist für wahr zu halten, soweit es nicht durch die vorliegenden Beweise widerlegt wird, und auf dieser Grundlage über das Klagebegehren zu erkennen.
 
-`§ 336 (2) ZPO.`  
-Das Gericht kann die Beeidigung eines Zeugen unterlassen, wenn keine der Parteien vor der Beendigung der Vernehmung des Zeugen die Beeidigung beantragt.
+`§ 396 (2) ZPO.`  
+Bleibt eine der Parteien nach rechtzeitig erstatteter Klagebeantwortung oder nach rechtzeitigem Einspruch von einer Tagsatzung aus, bevor sie sich durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, so ist auf Antrag der erschienenen Partei ein Versäumungsurteil nach Abs. 1 zu fällen.
 
-`§ 336 (3) ZPO.`  
-Die unrechtmäßige Verweigerung des Eides zieht dieselben Folgen wie die ungerechtfertigte Verweigerung der Aussage nach sich.
+`§ 396 (2a) ZPO.`  
+Mit dem Antrag auf Erlassung eines Versäumungsurteils ist ein zur Herstellung einer Ausfertigung in gekürzter Form geeigneter Schriftsatz (Rubrik) vorzulegen.
 
-### § 337 ZPO
+`§ 396 (3) ZPO.`  
+Hat aber der Beklagte eine noch wahrzunehmende Prozesseinrede erhoben, so kann ein Versäumungsurteil nicht vor ihrer Verwerfung gefällt werden.
 
-`§ 337 (1) ZPO.`  
-Der Zeuge ist vor seiner Abhörung zu beeiden. Zur Aufklärung über die persönlichen Verhältnisse des Zeugen, über die Zulässigkeit seiner Abhörung oder Beeidigung und über den Umstand, ob er eine für die Ermittlung des Sachverhaltes dienliche Aussage abzulegen vermöge, kann jedoch vor der Beeidigung des Zeugen eine Befragung desselben vorgenommen werden.
+`§ 396 (4) ZPO.`  
+Die Folgen der Versäumung (§ 144) treten von selbst ein. § 145 ist nicht anzuwenden.
+----
 
-`§ 337 (2) ZPO.`  
-Auf Grund dieser Befragung kann das Gericht nach Anhörung der Parteien beschließen, dass die Abhörung des Zeugen zu unterbleiben habe, oder es kann sich vorbehalten, über die Beeidigung des Zeugen erst nach erfolgter Abhörung desselben Beschluss zu fassen. Der beauftragte oder ersuchte Richter muß in jedem Falle die Abhörung des Zeugen vornehmen; er kann jedoch die Entscheidung über die Beeidigung des Zeugen bis nach erfolgter Abhörung aufschieben oder dieselbe dem erkennenden Gerichte vorbehalten.
+----
+### § 397 ZPO
 
-`§ 337 (3) ZPO.`  
-Wenn sich ein Zeuge der Beantwortung von Fragen nicht entschlägt, hinsichtlich deren er die Aussage gemäß §. 321, Z 1 und 2, zu verweigern berechtigt wäre, kann sich das erkennende Gericht oder der die Vernehmung leitende beauftragte oder ersuchte Richter gleichfalls vorbehalten, über die Ablegung des Eides erst nach erfolgter Abhörung des Zeugen zu entscheiden.
+`§ 397 ZPO.`  
+Über einen Antrag auf Erlassung eines Versäumungs-, Verzichts- oder Anerkenntnisurteils entscheidet der Vorsitzende des Senats. Im Fall des § 396 Abs. 1 ist über den Antrag auf Erlassung eines Versäumungsurteils durch den Vorsitzenden als Einzelrichter binnen acht Tagen ohne Anberaumung einer Verhandlung zu erkennen.
+----
 
-### § 338 ZPO
+----
+### § 397a ZPO
 
-`§ 338 (1) ZPO.`  
-In allen Fällen, in welchen erst nach Abhörung der Zeugen über die Beeidigung entschieden werden soll, ist der Zeuge vor der Abhörung an die Pflicht zur Angabe der Wahrheit, an die Heiligkeit und Bedeutung des vorbehaltenen Eides, sowie an die strafrechtlichen Folgen einer falschen Beweisaussage zu erinnern.
+`§ 397a (1) ZPO.`  
+Gegen ein Versäumungsurteil wegen nicht rechtzeitig erstatteter Klagebeantwortung steht dem Säumigen der mit vorbereitendem Schriftsatz zu erhebende Widerspruch zu; das Recht auf Wiedereinsetzung in den vorigen Stand (§§ 146 ff) bleibt unberührt. Der vom Beklagten erhobene Widerspruch hat zu enthalten, was als Inhalt der Klagebeantwortung vorgeschrieben ist; er kann auch weiteres Anbringen enthalten.
 
-`§ 338 (2) ZPO.`  
-Nach Ablegung der Aussage kann mit Rücksicht auf die Unerheblichkeit derselben oder auf das ihr zukommende geringe Maß von Glaubwürdigkeit vom erkennenden Gerichte oder von dem die Vernehmung leitenden beauftragten oder ersuchten Richter ausgesprochen werden, dass die Beeidigung unterbleibe.
+`§ 397a (2) ZPO.`  
+Die Widerspruchsfrist beträgt vierzehn Tage; sie kann nicht verlängert werden; sie beginnt mit dem Tag nach der Zustellung der schriftlichen Ausfertigung des Versäumungsurteils an den Säumigen.
 
-`§ 338 (3) ZPO.`  
-Wenn die Vernehmung durch einen beauftragten oder ersuchten Richter geschah, kann das erkennende Gericht nach Einlangen einer unbeeideten Zeugenaussage die nachträgliche Beeidigung derselben verfügen.
+`§ 397a (3) ZPO.`  
+Ist der Widerspruch verspätet eingebracht, so ist er vom Prozessgericht mit Beschluss zurückzuweisen. Sonst hat das Prozessgericht eine vorbereitende Tagsatzung anzuberaumen; der Widerspruch des Beklagten ist hierbei als rechtzeitig überreichte Klagebeantwortung zu behandeln. Zu Beginn der Streitverhandlung ist das Versäumungsurteil mit Beschluss aufzuheben, auch wenn die dafür anberaumte Tagsatzung nach § 170 nicht durchgeführt wird; der Zustellung einer schriftlichen Ausfertigung dieses Beschlusses bedarf es nicht, ein Rechtsmittel ist gegen ihn nicht zulässig.
 
-### § 339 ZPO
+`§ 397a (4) ZPO.`  
+Derjenigen Partei, die den Widerspruch erhoben hat, ist der Ersatz aller Kosten aufzuerlegen, die durch ihre Versäumung und die Verhandlung über den Widerspruch verursacht worden sind.
 
-`§ 339 (1) ZPO.`  
-Den Zeugen ist vor ihrer Vernehmung bekannt zu geben, über welche Fragen die Aussage von einem Zeugen verweigert werden darf (§. 321).
+`§ 397a (5) ZPO.`  
+Der Widerspruch kann längstens bis zum Ergehen eines der im Abs. 3 genannten Beschlüsse zurückgenommen werden; auf seine Zurücknahme sind die Vorschriften über die Zurücknahme der Klage sinngemäß anzuwenden.
+----
 
-`§ 339 (2) ZPO.`  
-Die Zeugen sind einzeln in Abwesenheit der später abzuhörenden Zeugen zu vernehmen. Die Reihenfolge, in welcher die Abhörung stattzufinden hat, bestimmt bei Vernehmungen vor dem erkennenden Gerichte der Vorsitzende, sonst der beauftragte oder ersuchte Richter.
+----
+### § 398 ZPO
 
-`§ 339 (3) ZPO.`  
-Vor Beendigung der Vernehmung aller vorgeladenen Zeugen darf sich keiner derselben ohne richterliche Erlaubnis entfernen.
+`§ 398 (1) ZPO.`  
+Stellt der Gegner des Säumigen keinen Antrag auf Erlassung eines Versäumungsurteils, weil trotz Säumnis einer Partei auf neues tatsächliches Vorbringen Bedacht genommen werden soll, so ist dieses der säumigen Partei zur Kenntnis zu bringen. Durch die Übermittlung tritt der Rechtsstreit in die Lage zurück, in welcher er sich vor dem Eintritt der Säumnis befunden hat. Eine weitere Säumnis des Gegners steht sodann der Berücksichtigung des neuen Vorbringens bei der Fällung des Versäumungsurteils nicht mehr entgegen.
 
-`§ 339 (4) ZPO.`  
-Zeugen, deren Aussagen von einander abweichen, können einander gegenübergestellt werden.
+`§ 398 (2) ZPO.`  
+Stellt der Gegner des Säumigen keinen Antrag auf Erlassung eines Versäumungsurteils, erstattet er aber auch kein neues tatsächliches Vorbringen, so sind die Bestimmungen über das Ruhen des Verfahrens (§§ 168 bis 170) sinngemäß anzuwenden.
+----
 
-### § 340 ZPO
+----
+### § 399 ZPO
 
-`§ 340 (1) ZPO.`  
-Die Vernehmung des Zeugen beginnt damit, daß der Zeuge über Namen, Tag der Geburt, Beschäftigung und Wohnort befragt wird. Bei Vorliegen der Voraussetzungen des § 76 Abs. 2 hat eine Befragung zum Wohnort zu unterbleiben. Erforderlichenfalls sind ihm auch Fragen über solche Umstände, welche seine Glaubwürdigkeit in der vorliegenden Sache betreffen, insbesondere über seine Beziehungen zu den Parteien, vorzulegen. Vor seiner Beeidigung ist der Zeuge auch nach seiner Religion zu befragen.
+`§ 399 ZPO.`  
+Das Fernbleiben einer Partei, welche sich bereits durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, von einer Tagsatzung hindert weder den Fortgang des Verfahrens noch berechtigt es die andere Partei dazu, die Fällung eines Versäumungsurteils zu beantragen.
+----
 
-`§ 340 (2) ZPO.`  
-Bei der Abhörung hat der Vorsitzende oder der die Vernehmung leitende beauftragte oder ersuchte Richter an den Zeugen über diejenigen Thatsachen, deren Beweis durch seine Aussage hergestellt werden soll, sowie zur Erforschung des Grundes, auf welchem das Wissen des Zeugen beruht, die geeigneten Fragen zu stellen. Außer dem Vorsitzenden können, wenn die Vernehmung vor dem erkennenden Gerichte stattfindet, auch die übrigen Mitglieder des Senates an den Zeugen Fragen richten.
+----
+### § 400 ZPO # 
 
-### § 341 ZPO
+`§ 400 ZPO.`  
+Die Bestimmungen der §§. 396 bis 399 sind auch dann anzuwenden, wenn eine der Parteien wegen unangemessenen Betragens aus dem Gerichtssaale entfernt wird.
+----
 
-`§ 341 (1) ZPO.`  
-Über die Betheiligung der Parteien an der Zeugenvernehmung gelten die Bestimmungen des §. 289.
+----
+### § 401 ZPO # 
 
-`§ 341 (2) ZPO.`  
-In Ansehung derjenigen Personen, welche infolge bestehender Anordnungen nicht verpflichtet sind, zur Abgabe einer Zeugenaussage in bürgerlichen Rechtsangelegenheiten im Gerichtshause zu erscheinen, ist das Fragerecht der Parteien durch rechtzeitige Mittheilung schriftlicher Fragen an den mit der Vernehmung beauftragten Richter auszuüben.
+`§ 401 (1) ZPO.`  
+Der Umstand, dass die Tagsatzung von einer Partei versäumt wird, ändert nichts an der Anwendung der Bestimmungen, welche festsetzen, was das Gericht von amtswegen zu berücksichtigen hat, und enthebt auch den Gegner nicht der Verpflichtung, diejenigen Nachweisungen zu liefern, welche in Betreff der von amtswegen zu berücksichtigenden Umstände erforderlich sind.
 
-### § 342 ZPO
+`§ 401 (2) ZPO.`  
+Desgleichen steht die Säumnis einer Partei der Aufnahme von Beweisen vor dem erkennenden Gerichte, sowie dem Vortrage der Ergebnisse einer nicht vor dem erkennenden Gerichte erfolgten Beweisaufnahme nicht entgegen.
+----
 
-`§ 342 (1) ZPO.`  
-Wird die Zulässigkeit einer Frage bestritten oder erachtet der Vorsitzende eine Frage als unangemessen zurückzuweisen, so entscheidet hierüber auf Antrag der Senat. Diese Entscheidung steht auch einem beauftragten oder ersuchten Richter zu; sie gilt jedoch in diesem Falle als eine bloß vorläufige und kann durch das erkennende Gericht abgeändert werden.
+----
+### § 402 ZPO # 
 
-`§ 342 (2) ZPO.`  
-Findet das erkennende Gericht, dass eine bei der Vernehmung vor einem beauftragten oder ersuchten Richter gestellte Frage unzulässig war, so kann dasselbe aussprechen, dass die auf diese Frage ertheilte Antwort im weiteren Laufe des Verfahrens unberücksichtigt bleibe.
+`§ 402 (1) ZPO.`  
+Der Antrag, wegen Säumnis einer Partei das Urtheil zu fällen (§ 396), ist zurückzuweisen:  
+`§ 402 (1) Z 1 ZPO.`
+wenn der Nachweis fehlt, daß die nicht erschienene Partei zur Tagsatzung ordnungsmäßig geladen wurde. Der Richter kann sich jedoch auf Antrag der erschienenen Partei die Urteilsfällung bis zu einem von ihm zu bestimmenden Tage vorbehalten und die Verhandlung schließen. Ergibt sich aus dem innerhalb der bestimmten Frist einlangenden Zustellungsscheine oder aus den Erhebungen über die Zustellung, daß die Ladung der säumigen Partei so rechtzeitig zugestellt wurde, daß sie zur Verhandlung erscheinen konnte, so ist binnen acht Tagen nach Einlangen des Zustellungsscheines oder nach Abschluß der Erhebungen über die Zustellung das Versäumungsurteil zu fällen.  
+`§ 402 (1) Z 2 ZPO.`
+wenn es bei Gericht offenkundig ist, dass die nicht erschienene Partei durch Naturereignisse oder andere unabwendbare Zufälle am Erscheinen gehindert ist;  
+`§ 402 (1) Z 3 ZPO.`
+wenn die erschienene Partei die wegen eines von amtswegen zu berücksichtigenden Umstandes vom Gerichte geforderte Nachweisung bei der Tagsatzung nicht zu beschaffen vermag.
 
-### § 343 ZPO
+`§ 402 (2) ZPO.`  
+Der Antrag, gegen Streitgenossen wegen Säumnis das Urtheil zu fällen, ist bei dem Vorhandensein einer nach §. 14 zu beurtheilenden Streitgenossenschaft zurückzuweisen, wenn auch nur betreffs eines der Streitgenossen der Nachweis der Ladung fehlt oder eines der in Z 2 angeführten Hindernisse obwaltet.
 
-`§ 343 (1) ZPO.`  
-Die Aussage des Zeugen ist nach ihrem wesentlichen Inhalte, sofern es aber nothwendig erscheint, ihrem Wortlaute nach in dem über die Tagsatzung geführten Protokolle aufzuzeichnen. Wurde der Zeuge in einer Verhandlungstagsatzung abgehört, so hat diese Aufzeichnung im Verhandlungsprotokolle zu geschehen.
+`§ 402 (3) ZPO.`  
+Wenn dem Antrage, wegen Säumnis einer Partei das Urtheil zu fällen, nicht stattgegeben wird, ist die Tagsatzung von amtswegen auf angemessene Zeit zu erstrecken und auch die säumige Partei zur neuen Tagsatzung wieder zu laden.
+----
 
-`§ 343 (2) ZPO.`  
-Das Aufgezeichnete ist dem Zeugen und den bei der Vernehmung anwesenden Parteien zur Einsicht vorzulegen oder auf Verlangen vorzulesen.
+----
+### § 403 ZPO # 
 
-`§ 343 (3) ZPO.`  
-In dem Protokolle ist zu bemerken, ob der Zeuge vor oder nach seiner Abhörung beeidet wurde, ob dessen Beeidigung unterblieben ist oder der Entscheidung des erkennenden Gerichtes vorbehalten wurde, ob die Parteien und welche derselben bei der Abhörung zugegen waren, endlich ob und welche Einwendungen von den Parteien oder vom Zeugen gegen das Protokoll erhoben wurden.
+`§ 403 ZPO.`  
+Wird der Antrag, wegen Säumnis einer Partei das Urtheil zu fällen, durch Beschluss zurückgewiesen, dieser Beschluss aber infolge Recurses aufgehoben, so kann das Urtheil ohne Anberaumung einer neuen Tagsatzung gefällt werden.
+----
 
-### § 344 ZPO
+----
+## Urtheilsinhalt.
 
-`§ 344 (1) ZPO.`  
-Das erkennende Gericht kann auf Antrag oder von amtswegen die wiederholte Vernehmung von Zeugen insbesondere anordnen, wenn es die vom beauftragten oder ersuchten Richter für gerechtfertigt erkannte Weigerung der Aussage oder der Beantwortung einzelner Fragen für unzulässig erachtet, wenn Zeugen nicht ordnungsgemäß oder nicht vollständig vernommen wurden, wenn die Aussage in Bezug auf wesentliche Punkte an Unklarheit, Unbestimmtheit oder Zweideutigkeit leidet, oder wenn die Zeugen selbst eine Ergänzung oder Berichtigung ihrer Aussagen für nothwendig erachten.
+### § 404 ZPO # 
 
-`§ 344 (2) ZPO.`  
-Bei wiederholter oder nachträglicher Vernehmung kann angeordnet werden, dass statt der nochmaligen Beeidigung der Zeuge die Richtigkeit seiner Aussage unter Berufung auf den früher abgelegten Eid zu versichern habe.
+`§ 404 (1) ZPO.`  
+Das in der Hauptsache gefällte Urtheil hat alle die Hauptsache betreffenden Anträge zu erledigen, sofern nicht über einzelne dieser Anträge bereits früher entschieden wurde oder dieselben einer abgesonderten Erledigung vorbehalten werden.
 
-### § 345 ZPO
-Die Partei kann auf einen Zeugen, welchen sie vorgeschlagen hat, verzichten. Der Gegner kann jedoch verlangen, dass der Zeuge, falls er bereits zur Vernehmung erschienen ist, ungeachtet dieses Verzichtes vernommen oder dessen Vernehmung, wenn sie bereits begonnen hat, fortgesetzt werde.
+`§ 404 (2) ZPO.`  
+Mehrere Rechtsstreitigkeiten, die nach § 187 zu gemeinsamer Verhandlung verbunden wurden, können durch ein gemeinschaftliches Urteil entschieden werden, wenn die Verbindung der Verhandlung nicht schon vor Fällung des Urteiles aufgehoben oder nicht über einen der verbundenen Prozesse gemäß § 390 durch besonderes Urteil entschieden wurde.
+----
 
-## Form des Anbringens.
+----
+### § 405 ZPO # 
 
-### § 348 ZPO
-Anzeigen, Gesuche und Recurse eines Zeugen können außerhalb der Tagsatzung mittels Schriftsatzes angebracht oder mündlich zu gerichtlichem Protokoll erklärt werden.
+`§ 405 ZPO.`  
+Das Gericht ist nicht befugt, einer Partei etwas zuzusprechen, was nicht beantragt ist. Dies gilt insbesondere von Früchten, Zinsen und anderen Nebenforderungen.
+----
 
-## Rechtsmittel.
+----
+### § 406 ZPO # 
 
-### § 349 ZPO
+`§ 406 ZPO.`  
+Die Verurtheilung zu einer Leistung ist nur zulässig, wenn die Fälligkeit zur Zeit der Urtheilsschöpfung bereits eingetreten ist. Bei Ansprüchen auf Alimente kann auch zu Leistungen verurtheilt werden, welche erst nach Erlassung des Urtheiles fällig werden.
+----
 
-`§ 349 (1) ZPO.`  
-Gegen die Entscheidung über die Rechtmäßigkeit der Weigerung einer Aussage, der Ableistung des Eides oder der Beantwortung einzelner Fragen, gegen den Beschluss, dass die Abhörung eines Zeugen zufolge §. 337 zu unterbleiben hat, sowie gegen die im Sinne der §§. 339 bis 342 bei der Vernehmung gefassten Beschlüsse und getroffenen Verfügungen findet ein abgesondertes Rechtsmittel nicht statt.
+----
+### § 407 ZPO # 
 
-`§ 349 (2) ZPO.`  
-Die Entscheidung des erkennenden Gerichtes über den Fortgang des Verfahrens bei Weigerung der Aussage oder der Eidesleistung durch einen Zeugen und über die Fortsetzung der Verhandlung in den Fällen der §§ 332 und 335, die Beschlüsse, durch welche die Ladung eines Zeugen oder dessen Vorführung angeordnet wird, sowie die über die Beeidigung eines Zeugen gefaßten Beschlüsse können durch ein Rechtsmittel nicht angefochten werden.
+`§ 407 (1) ZPO.`  
+Bei Verurtheilung zur Entrichtung einer Geldrente wegen Tödtung, Körperverletzung oder Freiheitsentziehung kann das Gericht, wenn eine Sicherstellung der künftigen Zahlungen offenbar nothwendig erscheint, auf Antrag im Urtheile auch auf Sicherheitsleistung erkennen. Wenngleich im Processe ein solcher Antrag nicht gestellt wurde, kann der Berechtigte nachträglich im Wege der Klage Sicherheitsleistung verlangen, falls die Vermögensverhältnisse des Verpflichteten sich inzwischen erheblich verschlechtert haben.
 
-## Sachverständige Zeugen.
+`§ 407 (2) ZPO.`  
+Unter derselben Voraussetzung kann der Berechtigte eine Erhöhung der im Urtheile bestimmten Sicherheit mittels Klage begehren.
+----
 
-### § 350 ZPO
-Die Vorschriften über den Zeugenbeweis finden auch Anwendung, insoweit zum Beweise vergangener Thatsachen oder Zustände, zu deren Wahrnehmung eine besondere Sachkunde erforderlich war, solche sachkundige Personen zu vernehmen sind.
+----
+### § 408 ZPO # 
 
-## Fünfter Titel. # Beweis durch Sachverständige. # Bestellung der Sachverständigen.
+`§ 408 (1) ZPO.`  
+Findet das Gericht, dass die unterliegende Partei offenbar muthwillig Process geführt hat, so kann es dieselbe auf Antrag der siegenden Partei zur Leistung eines entsprechenden Entschädigungsbetrages verurtheilen.
 
-### § 351 ZPO
+`§ 408 (2) ZPO.`  
+Durch die Verhandlung über diesen Antrag darf die Entscheidung in der Hauptsache nicht aufgehalten werden.
 
-`§ 351 (1) ZPO.`  
-Wird die Aufnahme eines Beweises durch Sachverständige nothwendig, so hat das erkennende Gericht einen oder mehrere Sachverständige, sofort nach Einvernehmung der Parteien über deren Person, zu bestellen. Hiebei ist, sofern nicht besondere Umstände etwas anderes nothwendig machen, vor allem auf die für Gutachten der erforderten Art öffentlich bestellten Sachverständigen Bedacht zu nehmen.
+`§ 408 (3) ZPO.`  
+Dieser Entschädigungsbetrag ist vom Gericht nach freier Überzeugung zu bestimmen.
+----
 
-`§ 351 (2) ZPO.`  
-Das Gericht kann an Stelle des oder der zuerst bestellten Sachverständigen andere ernennen.
+----
+### § 409 ZPO # 
 
-### § 352 ZPO
+`§ 409 (1) ZPO.`  
+Wenn in einem Urtheile die Verbindlichkeit zu einer Leistung auferlegt wird, ist zugleich auch die Frist für diese Leistung zu bestimmen. Diese Frist beträgt, sofern in diesem Gesetze nicht etwas anderes bestimmt ist, vierzehn Tage.
 
-`§ 352 (1) ZPO.`  
-Wenn ein durch Sachverständige zu besichtigender Gegenstand nicht vor das erkennende Gericht gebracht werden kann, oder die Aufnahme des Sachverständigenbeweises vor demselben aus anderen Gründen erheblichen Schwierigkeiten unterliegen würde, so kann dieselbe durch einen beauftragten oder ersuchten Richter erfolgen.
+`§ 409 (2) ZPO.`  
+Wird jedoch die Pflicht zur Verrichtung einer Arbeit oder eines Geschäftes auferlegt, so hat das Gericht zur Erfüllung der Verbindlichkeit mit Berücksichtigung der persönlichen Verhältnisse des Verpflichteten eine angemessene Frist zu bestimmen. Hiebei ist insbesondere auch darauf zu achten, dass der Verpflichtete durch die zu verrichtende Handlung nicht an der rechtzeitigen Vornahme der Saat-, Schnitt- oder Weinlesearbeiten gehindert wird.
 
-`§ 352 (2) ZPO.`  
-Die Bestimmung der Anzahl der Sachverständigen sowie die Auswahl der Sachverständigen kann in diesem Falle dem mit der Beweisaufnahme betrauten Richter überlassen werden; ferner kann die Auswahl, wenn dies zur Vermeidung von Verzögerungen oder eines unverhältnismäßigen Aufwandes dienlich erscheint, ohne vorgängige Vernehmung der Parteien geschehen. Die Namen der bestellten Sachverständigen sind den Parteien vom beauftragten oder ersuchten Richter gleichzeitig mit der Verständigung vor der zur Beweisaufnahme bestimmten Tagsatzung bekannt zu geben.
+`§ 409 (3) ZPO.`  
+Die Fristen sind, wenn gegen das Urteil innerhalb der Rechtsmittelfrist kein Rechtsmittel eingelegt oder wenn das eingelegte Rechtsmittel vor der Entscheidung der höheren Instanz zurückgenommen (§ 484) wurde, von dem Tage an zu berechnen, mit dem das Urteil gegenüber der zur Leistung verpflichteten Person wirksam geworden ist (§ 416), sonst von dem Tage nach Eintritt der Rechtskraft.
+----
 
-### § 353 ZPO
+----
+### § 410 ZPO # 
 
-`§ 353 (1) ZPO.`  
-Der Bestellung zum Sachverständigen hat derjenige Folge zu leisten, welcher zur Erstattung von Gutachten der erforderten Art öffentlich bestellt ist oder welcher die Wissenschaft, die Kunst oder das Gewerbe, deren Kenntnis Voraussetzung der geforderten Begutachtung ist, öffentlich als Erwerb ausübt oder zu deren Ausübung öffentlich angestellt oder ermächtigt ist.
+`§ 410 ZPO.`  
+Wird in einem Urtheile ein Gegenstand zuerkannt, der nicht in einem Geldbetrage besteht, so ist zugleich auszusprechen, dass sich der Beklagte durch Zahlung des Geldbetrages, welchen der Kläger in der Klage oder während der Verhandlung anstatt dieses Gegenstandes anzunehmen sich bereit erklärt hat, von der Leistung dieses Gegenstandes befreien könne.
+----
 
-`§ 353 (2) ZPO.`  
-Aus denselben Gründen, welche einen Zeugen zur Verweigerung der Aussage berechtigen, kann die Enthebung von der Bestellung als Sachverständiger begehrt werden.
+----
+## Rechtskraft des Urtheiles.
 
-`§ 353 (3) ZPO.`  
-Öffentliche Beamten sind überdies auch dann zu entheben, wenn ihnen die Verwendung als Sachverständige von ihren Vorgesetzten aus dienstlichen Rücksichten untersagt wird oder wenn sie durch besondere Anordnungen der Pflicht, sich als Sachverständige verwenden zu lassen, enthoben sind.
+### § 411 ZPO # 
 
-## Folgen von Weigerung und Säumnis
+`§ 411 (1) ZPO.`  
+Durch ein Rechtsmittel nicht mehr anfechtbare Urtheile sind der Rechtskraft insoweit theilhaft, als in dem Urtheile über einen durch Klage oder Widerklage geltend gemachten Anspruch oder über ein im Laufe des Processes streitig gewordenes Rechtsverhältnis oder Recht entschieden ist, hinsichtlich dessen gemäß §§. 236 oder 259 die Feststellung des Bestehens oder Nichtbestehens begehrt wurde. Die Entscheidung über den Bestand oder Nichtbestand einer vom Beklagten zur Compensation geltend gemachten Gegenforderung ist der Rechtskraft nur bis zur Höhe des Betrages theilhaft, mit welchem aufgerechnet werden soll.
 
-### § 354 ZPO
+`§ 411 (2) ZPO.`  
+Die Rechtskraft des Urtheiles ist von amtswegen zu berücksichtigen.
+----
 
-`§ 354 (1) ZPO.`  
-Wenn ein zur Erstattung des Gutachtens bestellter Sachverständiger die Abgabe des Gutachtens ohne genügenden Grund verweigert, ohne genügende Entschuldigung das Gutachten nicht in der festgesetzten Frist erstattet oder trotz ordnungsgemäßer Ladung bei der zur Beweisaufnahme bestimmten Tagsatzung nicht erscheint, ist ihm der Ersatz der durch seine Weigerung oder seine Säumnis verursachten Kosten durch Beschluß aufzuerlegen; außerdem ist der Sachverständige in eine Ordnungsstrafe oder bei mutwilliger Verweigerung der Abgabe des Gutachtens in eine Mutwillensstrafe zu verfällen. In bezug auf diese Beschlußfassungen sind die §§ 326, 333 und 334 sinngemäß anzuwenden.
+----
+## Urtheilsfällung, Urtheilsverkündung und Zustellung des Urtheiles.
 
-`§ 354 (2) ZPO.`  
-In den Fällen des Abs. 1 kann auch ein anderer Sachverständiger bestellt werden.
+### § 412 ZPO # 
 
-`§ 354 (3) ZPO.`  
-Der seine Pflichten verletzende Sachverständige haftet nebst dem Kostenersatze für allen weiteren den Parteien durch die ihm zur Last fallende Vereitlung oder Verzögerung der Beweisführung verursachten Schaden.
+`§ 412 (1) ZPO.`  
+Das Urtheil kann nur von denjenigen Richtern gefällt werden, welche an der dem Urtheile zugrunde liegenden mündlichen Verhandlung theilgenommen haben.
 
-## Ablehnung.
+`§ 412 (2) ZPO.`  
+Muß vor der Urtheilsschöpfung eine Änderung in der Person des Vorsitzenden oder eines der übrigen Senatsmitglieder eintreten, so ist die mündliche Verhandlung vor dem geänderten Senate mit Benützung der Klage, der zu den Acten gebrachten Beweise und des Verhandlungsprotokolles von neuem durchzuführen.
+----
 
-### § 355 ZPO
+----
+### § 413 ZPO # 
 
-`§ 355 (1) ZPO.`  
-Sachverständige können aus denselben Gründen abgelehnt werden, welche zur Ablehnung eines Richters berechtigen; jedoch kann die Ablehnung nicht darauf gegründet werden, dass der Sachverständige früher in derselben Rechtssache als Zeuge vernommen wurde.
+`§ 413 ZPO.`  
+Die Berathung und Abstimmung der Richter ist nicht öffentlich. In schwierigeren Fällen kann der Vorsitzende für diese Berathung einen Berichterstatter bestellen.
+----
 
-`§ 355 (2) ZPO.`  
-Die Ablehnungserklärung ist bei dem Processgerichte, wenn aber die Auswahl der Sachverständigen dem beauftragten oder ersuchten Richter überlassen wurde, bei diesem vor dem Beginne der Beweisaufnahme, und bei schriftlicher Begutachtung vor erfolgter Einreichung des Gutachtens mittels Schriftsatz oder mündlich anzubringen. Später kann eine Ablehnung nur dann erfolgen, wenn die Partei glaubhaft macht, dass sie den Ablehnungsgrund vorher nicht erfahren oder wegen eines für sie unübersteiglichen Hindernisses nicht rechtzeitig geltend machen konnte.
+----
+### § 414 ZPO # 
 
-`§ 355 (3) ZPO.`  
-Ist im Falle einer solchen nachträglichen Ablehnung die durch einen beauftragten oder ersuchten Richter vorzunehmende Beweisaufnahme schon beendet, so kann die Ablehnung nur bei dem Processgerichte vorgebracht werden.
+`§ 414 (1) ZPO.`  
+Das Urtheil ist auf Grund der mündlichen Verhandlung, und zwar wenn möglich, sogleich nach Schluss derselben zu fällen und zu verkünden. Mit dem Urtheile sind die Entscheidungsgründe zu verkünden. Die Verkündung des Urtheiles ist von der Anwesenheit beider Parteien unabhängig. Bei Versäumungsurteilen kann die Verkündung durch die Bekanntgabe, daß das Urteil nach dem Antrage gefällt wird, ersetzt werden.
 
-### § 356 ZPO
+`§ 414 (2) ZPO.`  
+Der Senat kann sich bei der Verkündung, selbst wenn das Urtheil schon in vollständiger schriftlicher Fassung vorliegt, auf die Bekanntgabe des Wortlautes des Urtheilsspruches und auf die Mittheilung der wesentlichsten Entscheidungsgründe beschränken. Die Festsetzung des Kostenbetrages kann bei der Verkündung des Urtheiles der Ausfertigung desselben vorbehalten bleiben und einem Senatsmitgliede übertragen werden. Noch in der Tagsatzung, in der das Urteil verkündet worden ist, ist den Parteien, welche nicht durch einen Rechtsanwalt vertreten sind, ein Schriftstück auszuhändigen, das den verkündeten Urteilsspruch und eine Belehrung über das Erfordernis der Anmeldung einer beabsichtigten Berufung (§ 461 Abs. 2) enthält.
 
-`§ 356 (1) ZPO.`  
-Gleichzeitig mit der Ablehnung sind die Gründe der Ablehnung anzugeben. Die Entscheidung über die Ablehnung steht dem erkennenden Gerichte oder dem beauftragten oder ersuchten Richter zu, je nachdem die Ablehnung zufolge §. 355 bei ersterem oder letzterem angebracht wurde.
+`§ 414 (3) ZPO.`  
+Der Vorsitzende hat das Urteil in schriftlicher Abfassung binnen vier Wochen nach der Verkündung zur Ausfertigung abzugeben (§ 416 Abs. 2).
 
-`§ 356 (2) ZPO.`  
-Die Entscheidung erfolgt, wenn die Ablehnung nicht bei einer Tagsatzung vorgebracht wird, ohne vorhergehende mündliche Verhandlung. Die ablehnende Partei hat die von ihr angegebenen Gründe der Ablehnung auf Verlangen des Gerichtes vor der Entscheidung glaubhaft zu machen. Wird der Ablehnung stattgegeben, so ist ohne Aufschub die Bestellung eines anderen Sachverständigen zu veranlassen.
+`§ 414 (4) ZPO.`  
+Ist das mit der Abfassung eines in Gegenwart aller Parteien verkündeten Urteils betraute Mitglied eines Senates daran dauernd verhindert, so hat ein anderes Mitglied des Senates das Urteil abzufassen. Sind an der schriftlichen Abfassung alle Mitglieder des Senates dauernd verhindert oder ist ein Einzelrichter an der schriftlichen Abfassung eines in Gegenwart aller Parteien verkündeten Urteils dauernd verhindert, so kann ein solches Urteil von einem anderen Richter auf Grund aller ihm zur Verfügung stehenden Informationen, insbesondere der Beurkundungen in den Protokollen und deren Beilagen, der unzweifelhaft bei der Urteilsverkündung benützten Notizen (Aufschreibungen), der Eintragungen in den Registern oder der Auskünfte der bei der Verkündung anwesenden Personen abgefasst werden, wenn gegen das verkündete Urteil kein Rechtsmittel angemeldet oder die Rechtsmittelanmeldung zurückgezogen oder auf ein Rechtsmittel verzichtet wurde oder das verkündete Urteil ein Versäumungs-, Anerkenntnis- oder Verzichtsurteil ist. In allen anderen Fällen hat das Gericht auszusprechen, dass das verkündete Urteil als nicht gefällt anzusehen ist.
+----
 
-## Beweisaufnahme
+----
+### § 415 ZPO # 
 
-### § 357 ZPO
+`§ 415 ZPO.`  
+Wenn das Urteil nicht sofort nach Schluß der mündlichen Verhandlung gefällt werden kann, ist es binnen vier Wochen nach Schluß der Verhandlung, wenn ein abgelehnter Richter die Verhandlung gemäß § 25 JN bis zur Endentscheidung fortgeführt hat, binnen vier Wochen nach rechtskräftiger Zurückweisung der Ablehnung und im Falle des § 193 Abs. 3 binnen vier Wochen nach dem Einlangen der Akten über die ausständige Beweisaufnahme zu fällen und vom Vorsitzenden in schriftlicher Abfassung samt den vollständigen Entscheidungsgründen zur Ausfertigung abzugeben (§ 416 Abs. 2). Verkündet wird das Urteil in diesen Fällen nicht.
+----
 
-`§ 357 (1) ZPO.`  
-Das erkennende Gericht oder der mit der Leitung der Beweisaufnahme betraute Richter kann auch die schriftliche Begutachtung anordnen. Dabei hat das Gericht dem Sachverständigen eine angemessene Frist zu setzen, binnen der er das schriftliche Gutachten zu erstatten hat. Ist die Einhaltung der dem Sachverständigen vom Gericht gesetzten Frist für diesen nicht möglich, so hat er dies dem Gericht binnen 14 Tagen ab Zustellung des Auftrags mitzuteilen und anzugeben, ob überhaupt und innerhalb welcher Frist ihm die Erstattung des Gutachtens möglich ist. Das Gericht kann dem Sachverständigen die Frist verlängern.
+----
+### § 416 ZPO # 
 
-`§ 357 (1a) ZPO.`  
-Sachverständige, die zum Zeitpunkt der Befassung oder der Bestellung durch das Gericht in mehr als zehn Verfahren die ihnen von der beauftragenden Stelle gesetzte oder bereits verlängerte Frist zur Erstattung eines schriftlichen Gutachtens überschritten haben, haben diesen Umstand dem Gericht unverzüglich mitzuteilen und diesem gegenüber gegebenenfalls zugleich glaubhaft zu machen, dass für die Einhaltung der vom Gericht in Aussicht genommenen oder gesetzten Frist zur Gutachtenserstattung hinreichend vorgekehrt ist.
+`§ 416 (1) ZPO.`  
+Das Urtheil wird den Parteien gegenüber erst mit der Zustellung der schriftlichen Urtheilsausfertigung wirksam.
 
-`§ 357 (2) ZPO.`  
-Wird das Gutachten schriftlich erstattet, so sind die Sachverständigen verpflichtet, auf Verlangen über das schriftliche Gutachten mündliche Aufklärungen zu geben oder dieses bei der mündlichen Verhandlung zu erläutern.
+`§ 416 (2) ZPO.`  
+Das Gericht ist jedoch an seine Entscheidung gebunden, sobald dieselbe verkündet oder im Falle des §. 415 in schriftlicher Abfassung zur Ausfertigung abgegeben ist.
 
-### § 358 ZPO
+`§ 416 (3) ZPO.`  
+Ein in Anwesenheit beider Parteien verkündetes Urteil auf Grund von Verzicht oder Anerkenntnis wird mit der Verkündung den Parteien gegenüber wirksam und ist in schriftlicher Ausfertigung nur auf Verlangen der Parteien zuzustellen. Das dem Klagebegehren stattgebende Versäumungsurteil wird dem Kläger gegenüber mit der Verkündung (§ 414 Absatz 1) wirksam, eine Ausfertigung dieses Urteils wird dem Kläger nur auf sein Verlangen behändigt.
+----
 
-`§ 358 (1) ZPO.`  
-Jeder Sachverständige hat vor dem Beginne der Beweisaufnahme den Sachverständigeneid zu leisten. Von der Beeidigung des Sachverständigen kann abgesehen werden, wenn beide Parteien auf die Beeidigung verzichten.
+----
+## Schriftliche Ausfertigung.
 
-`§ 358 (2) ZPO.`  
-Ist der Sachverständige für die Erstattung von Gutachten der erforderten Art im allgemeinen beeidet, so genügt die Erinnerung und Berufung auf den geleisteten Eid.
+### § 417 ZPO # 
 
-### § 359 ZPO
+`§ 417 (1) ZPO.`  
+Das Urteil hat in schriftlicher Ausfertigung zu enthalten:  
+`§ 417 (1) Z 1 ZPO.`
+die Bezeichnung des Gerichtes und die Namen der Richter, die bei der Entscheidung mitgewirkt haben; wenn ein Landesgericht ein Urteil der besonderen Gerichtsbarkeit in Handelssachen oder ein selbständiges Handelsgericht ein Urteil der allgemeinen Gerichtsbarkeit fällt, ist auch dies anzuführen.  
+`§ 417 (1) Z 2 ZPO.`
+die Bezeichnung der Parteien nach Namen (Vor- und Zunamen), soweit von den Parteien bekanntgegeben Beschäftigung und Geburtsdatum oder Firmenbuchnummer, Wohnort und Parteistellung sowie die Bezeichnung ihrer Vertreter; in Personenstandssachen sind jedenfalls Geburtsdatum und Geburtsort der Parteien anzuführen; in den Fällen des § 75a hat die Angabe des Wohnortes zu entfallen;  
+`§ 417 (1) Z 3 ZPO.`
+den Urteilsspruch;  
+`§ 417 (1) Z 4 ZPO.`
+die Entscheidungsgründe.
 
-`§ 359 (1) ZPO.`  
-Den Sachverständigen sind diejenigen bei Gericht befindlichen Gegenstände, Actenstücke und Hilfsmittel mitzutheilen, welche für die Beantwortung der denselben vorgelegten Fragen erforderlich sind.
+`§ 417 (2) ZPO.`  
+Der Urteilsspruch und die Entscheidungsgründe sind äußerlich zu sondern. Die Entscheidungsgründe haben in gedrängter Darstellung zu enthalten: das wesentliche Vorbringen und die Anträge der Parteien, die Außerstreitstellungen, die Tatsachenfeststellungen, die Beweiswürdigung und die rechtliche Beurteilung.
 
-`§ 359 (2) ZPO.`  
-Benötigt der Sachverständige die Mitwirkung der Parteien oder dritter Personen und wird ihm diese auf seine Aufforderung nicht unverzüglich geleistet, so hat der Sachverständige dies dem Gericht unter genauer Auflistung der erforderlichen Mitwirkungshandlungen und der entgegenstehenden Hindernisse mitzuteilen. Das Gericht hat sodann mit abgesondert nicht anfechtbarem Beschluss den Parteien das Erforderliche aufzutragen und ihnen hiefür eine angemessene Frist zu setzen. Dieser Zeitraum ist in die dem Sachverständigen für die Begutachtung gesetzte Frist nicht einzurechnen. Kommen die Parteien der Aufforderung des Gerichts nicht fristgerecht nach, so hat der Sachverständige sein Gutachten ohne Berücksichtigung des Fehlenden zu erstatten. Werden die fehlenden Informationen noch vor Ausarbeitung des Gutachtens nachgebracht, so hat sie der Sachverständige sogleich zu berücksichtigen, ansonsten hat er ein Ergänzungsgutachen zu erstatten. Die Kosten dieses Gutachtens tragen unabhängig vom Verfahrensausgang die säumigen Parteien zur ungeteilten Hand.
+`§ 417 (3) ZPO.`  
+Das auf Grund der §§ 179, 180 Abs. 2, 275, Abs. 2, und 278, Abs. 2, vom Gerichte für unstatthaft erklärte Vorbringen, sowie jene Beweise, deren Benutzung wegen des fruchtlosen Verstreichens einer für die Beweisaufnahme bestimmten Frist nicht gestattet wurde, sind im Urteil anzuführen.
 
-### § 360 ZPO
+`§ 417 (4) ZPO.`  
+Versäumungs-, Verzicht- und Anerkenntnisurteile können in gekürzter Form und mit Benutzung einer Ausfertigung der Klage oder einer Rubrik ausgefertigt werden. Die näheren Vorschriften werden durch Verordnung erlassen.
+----
 
-`§ 360 (1) ZPO.`  
-Kann eine gründliche und erschöpfende Begutachtung nicht sogleich erfolgen, so hat der die Beweisaufnahme leitende Richter für die Abgabe des Gutachtens eine Frist oder eine besondere Tagsatzung zu bestimmen.
+----
+### § 417a ZPO
 
-`§ 360 (2) ZPO.`  
-Von dem Einlangen des schriftlichen Gutachtens sind die Parteien in Kenntnis zu setzen (§. 286).
+`§ 417a (1) ZPO.`  
+Ist ein Urteil in Anwesenheit beider Parteien mündlich verkündet worden (§ 414) und hat keine der Parteien rechtzeitig eine Berufung gegen das Urteil angemeldet (§ 461 Abs. 2), so können in der schriftlichen Ausfertigung des Urteils die Entscheidungsgründe auf das wesentliche Vorbringen der Parteien und das, was das Gericht davon der Entscheidung zugrundegelegt hat, beschränkt werden, soweit diese Angaben zur Beurteilung der Rechtskraftwirkung des Urteils notwendig sind (gekürzte Urteilsausfertigung).
 
-### § 361 ZPO
-Sind zur Abgabe eines Gutachtens mehrere Sachverständige bestellt, so können sie dasselbe gemeinsam erstatten, wenn ihre Ansichten übereinstimmen. Sind sie verschiedener Ansicht, so hat jeder Sachverständige seine Ansicht und die für dieselbe sprechenden Gründe besonders darzulegen.
+`§ 417a (2) ZPO.`  
+Der Abs. 1 darf nur angewendet werden, wenn der Vorsitzende die gekürzte schriftliche Abfassung des Urteils binnen vierzehn Tagen ab jenem Zeitpunkt zur Ausfertigung abgibt, ab dem für jede Partei die Berufungsanmeldungsfrist (§ 461 Abs. 2) abgelaufen ist.
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 140/1997)*
+----
 
-### § 362 ZPO
+----
+### § 418 ZPO # 
 
-`§ 362 (1) ZPO.`  
-Das Gutachten ist stets zu begründen. Vor Darlegung seiner Ansicht hat der Sachverständige in denjenigen Fällen, in welchen der Abgabe seines Gutachtens die Besichtigung von Personen, Sachen, Örtlichkeiten u. dgl. vorausging und die Kenntnis ihrer Beschaffenheit für das Verständnis und die Würdigung des Gutachtens von Belang ist, eine Beschreibung der besichtigten Gegenstände zu geben (Befund).
+`§ 418 (1) ZPO.`  
+Die für die Gerichtsacten bestimmte schriftliche Abfassung des Urtheiles ist vom Vorsitzenden des Senates zu unterschreiben. Ist der Vorsitzende dauernd verhindert, die Abfassung des Urteiles zu unterschreiben, so unterschreibt für ihn ein anderes Mitglied des Senates mit dem Vermerk: „Unterschrieben durch ... an Stelle des dauernd verhinderten Vorsitzenden ...“. Dem nach § 414 Abs. 4 von einem anderen Richter abgefassten Urteil ist der Vermerk anzufügen: „Abgefasst durch ... an Stelle des dauernd verhinderten Vorsitzenden/Richters ... .“ Wird durch Versäumungsurteil nach dem Begehren des Klägers oder durch Verzicht- oder Anerkenntnisurteil erkannt, so kann die für die Gerichtsakten bestimmte Abfassung des Urteils durch den vom Richter zu unterschreibenden Urteilsvermerk ersetzt werden. Die näheren Vorschriften über den Urteilsvermerk werden durch Verordnung erlassen.
 
-`§ 362 (2) ZPO.`  
-Erscheint das abgegebene Gutachten ungenügend oder wurden von den Sachverständigen verschiedene Ansichten ausgesprochen, so kann das Gericht auf Antrag oder von amtswegen anordnen, dass eine neuerliche Begutachtung durch dieselben oder durch andere Sachverständige oder doch mit Zuziehung anderer Sachverständiger stattfinde. Eine solche Anordnung ist insbesondere auch dann zulässig, wenn ein Sachverständiger nach Abgabe des Gutachtens mit Erfolg abgelehnt wurde. Zu diesen Anordnungen ist auch der beauftragte oder ersuchte Richter berechtigt.
+`§ 418 (2) ZPO.`  
+Der Auszug eines Urtheiles muss nebst dem Urtheilsspruche auch die in §. 417, Z 1 und 2 bezeichneten Angaben enthalten.
 
-### § 363 ZPO
+`§ 418 (3) ZPO.`  
+Vor Zustellung der schriftlichen Urtheilsausfertigungen an die Parteien können Auszüge und Abschriften des Urtheiles nicht ertheilt werden.
+----
 
-`§ 363 (1) ZPO.`  
-Die Partei, welche den Beweis durch Sachverständige angeboten hat, kann auf denselben verzichten. Der Gegner kann jedoch verlangen, dass die angeordnete Beweisaufnahme demungeachtet vorgenommen werde, wenn entweder die Beweisaufnahme bereits begonnen hat oder wenigstens die Sachverständigen zum Zwecke der Beweisaufnahme schon bei Gericht erschienen sind.
+----
+## Berichtigung des Urtheiles.
 
-`§ 363 (2) ZPO.`  
-Die dem Vorsitzenden nach §. 183 zustehende Befugnis, von amtswegen eine Begutachtung durch Sachverständige anzuordnen, wird durch einen Verzicht der Parteien nicht berührt.
+### § 419 ZPO # 
 
-### § 364 ZPO
+`§ 419 (1) ZPO.`  
+Das Gericht, das das Urteil gefällt hat, kann jederzeit Schreib- und Rechnungsfehler oder andere offenbare Unrichtigkeiten in dem Urteil oder in dessen Ausfertigungen oder Abweichungen der Ausfertigung von der gefällten Entscheidung berichtigen und die Angaben, die entgegen der Vorschrift des § 417 Abs. 3, übergangen wurden, einfügen.
 
-`§ 364 ZPO.`  
-Das Gericht kann in Fällen, in welchen der Gegenstand zu seiner Beurteilung fachmännische Kenntnisse erfordert oder in welchen das Bestehen von geschäftlichen Gebräuchen in Frage kommt, ohne Zuziehung von Sachverständigen entscheiden, wenn die eigene Fachkunde oder das eigene Wissen der Richter diese Zuziehung überflüssig macht und die Parteien zustimmen.
+`§ 419 (2) ZPO.`  
+Das Gericht kann über die Berichtigung ohne vorhergehende mündliche Verhandlung entscheiden. Gegen den Beschluß, womit der Antrag auf Berichtigung zurückgewiesen wird, findet ein abgesondertes Rechtsmittel nicht statt.
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.013](BG.ZPO.013.md))*
+`§ 419 (3) ZPO.`  
+Die Vornahme einer Berichtigung kann auch in höherer Instanz angeordnet werden.
+
+`§ 419 (4) ZPO.`  
+Eine Berichtigung ist der Urschrift des Urteiles beizusetzen. Ist dies unmöglich oder untunlich, so kann auch eine berichtigte Urschrift des Urteiles hergestellt werden. Den Parteien ist eine Ausfertigung der berichtigten Urschrift zuzustellen. Soweit eine Abforderung der Ausfertigungen möglich und tunlich ist, ist die Berichtigung in den dazu abgeforderten Ausfertigungen ersichtlich zu machen.
+----
+
+----
+## Ergänzung des Urtheiles.
+
+### § 423 ZPO # 
+
+`§ 423 (1) ZPO.`  
+Wenn in dem Urtheile ein Anspruch, über welchen zu entscheiden war, übergangen, oder wenn in einem Urtheile über die von einer Partei begehrte Erstattung der Processkosten nicht oder nur unvollständig erkannt wurde, ist das Urtheil durch eine nachträgliche Entscheidung zu ergänzen (Ergänzungsurtheil).
+
+`§ 423 (2) ZPO.`  
+Der Antrag auf Ergänzung ist bei dem Prozeßgericht binnen vierzehn Tagen nach Zustellung des Urteils anzubringen.
+
+`§ 423 (3) ZPO.`  
+Das Gericht entscheidet nach vorhergehender mündlicher Verhandlung, wenn es eine solche für notwendig hält. Diese Verhandlung ist auf den nicht erledigten Theil des Rechtsstreites zu beschränken. Die Abweisung des Antrages auf Ergänzung erfolgt mittels Beschluss.
+----
+
+----
+### § 424 ZPO # 
+
+`§ 424 ZPO.`  
+Die Verhandlung über die Ergänzung des Urteiles hat auf den Lauf der Rechtsmittelfristen keinen Einfluß.
+----
+
+----
+## Zweiter Titel. # Beschlüsse.
+
+### § 425 ZPO # 
+
+`§ 425 (1) ZPO.`  
+Sofern nach den Bestimmungen dieses Gesetzes nicht ein Urtheil zu fällen ist, erfolgen die Entscheidungen, Anordnungen und Verfügungen durch Beschluss.
+
+`§ 425 (2) ZPO.`  
+An seine Beschlüsse ist das Gericht insoweit gebunden, als dieselben nicht bloß processleitender Natur sind.
+
+`§ 425 (3) ZPO.`  
+Die Vorschriften des §. 412 sind auf Beschlüsse des Gerichtes sinngemäß anzuwenden.
+----
+
+----
+### § 426 ZPO # 
+
+`§ 426 (1) ZPO.`  
+Alle während der Verhandlung oder Beweisaufnahme vom Senate, von dem Vorsitzenden oder von einem beauftragten oder ersuchten Richter gefassten Beschlüsse sind zu verkünden. Diese Beschlüsse sind den bei der Verkündung anwesenden Parteien in schriftlicher Ausfertigung zuzustellen, wenn der Partei ein Rechtsmittel gegen den Beschluss oder das Recht zur sofortigen Executionsführung auf Grund des Beschlusses zusteht.
+
+`§ 426 (2) ZPO.`  
+An Parteien, welche bei der Verkündung nicht anwesend waren, ist in diesen Fällen und nebstdem in allen Fällen, in welchen die Leitung des Verfahrens es erfordert, die Zustellung einer schriftlichen Ausfertigung zu bewirken.
+
+`§ 426 (2a) ZPO.`  
+Soweit verkündete Beschlüsse schriftlich abzufassen sind, gilt § 414 Abs. 4 sinngemäß.
+
+`§ 426 (3) ZPO.`  
+Wenn die Zustellung einer schriftlichen Ausfertigung nicht zu erfolgen hat, so begründet die mündliche Verkündung die Wirkungen der Zustellung.
+----
+
+----
+### § 427 ZPO # 
+
+`§ 427 (1) ZPO.`  
+Außerhalb der Tagsatzungen gefasste Beschlüsse sind den Parteien durch Zustellung einer schriftlichen Ausfertigung (Bescheid) bekannt zu geben.
+
+`§ 427 (2) ZPO.`  
+Ein Bescheid, durch welchen ein Antrag einer Partei ohne vorhergehende Vernehmung des Gegners abgewiesen wird, ist dem Gegner nur auf Ansuchen des Antragstellers zuzustellen.
+----
+
+----
+### § 428 ZPO # 
+
+`§ 428 (1) ZPO.`  
+Beschlüsse über widerstreitende Anträge und Beschlüsse, durch welche ein Antrag abgewiesen wird, müssen begründet werden.
+
+`§ 428 (2) ZPO.`  
+Hiebei sind die Anträge, über welche im Beschlusse entschieden wird, und der Sachverhalt, falls nicht beides aus dem gleichzeitig mitgetheilten Schriftsatze oder aus der Protokollsabschrift zu entnehmen ist, in die Begründung insoweit aufzunehmen, als es zum Verständnis des Ausspruches oder der Verfügung erforderlich ist.
+----
+
+----
+### § 429 ZPO # 
+
+`§ 429 (1) ZPO.`  
+Die Urschrift des Beschlusses ist, wenn der Beschluss von einem Senate gefasst wurde, von dem Vorsitzenden, außerdem aber von dem Richter zu unterschreiben, welcher den Beschluss gefasst hat.
+
+`§ 429 (2) ZPO.`  
+Die schriftliche Ausfertigung eines Beschlusses hat auch die in §. 417, Z 1 und 2, bezeichneten Angaben zu enthalten.
+----
+
+----
+### § 430 ZPO # 
+
+`§ 430 ZPO.`  
+In Ansehung der Ertheilung von Ausfertigungen und Auszügen, dann der Berichtigung von Beschlüssen und der Ergänzung derselben, wenn über einen Antrag der Partei theilweise nicht erkannt wurde oder wenn der beantragte Ausspruch über die Erstattung der Processkosten fehlt oder unvollständig ist, gelten die Vorschriften der §§. 418, 419, 423 und 424.
+----
+
+`END-OF-DATA-SET`

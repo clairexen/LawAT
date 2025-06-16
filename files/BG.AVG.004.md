@@ -1,131 +1,16 @@
 # BG.AVG.004 — Allgemeines Verwaltungsverfahrensgesetz (AVG)
 **Typ:** Bundesgesetz  
-**Kurztitel:** AVG  
+**Kurztitel:** ['AVG']  
 **Langtitel:** Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.004.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.AVG.003](BG.AVG.003.md))*
+Der Nationalrat hat beschlossen:
 
-## 2. Abschnitt: Sonstige Abänderung von Bescheiden
-
-### § 68 AVG # Abänderung und Behebung von Amts wegen
-
-`§ 68 (1) AVG.`  
-Anbringen von Beteiligten, die außer den Fällen der §§ 69 und 71 die Abänderung eines der Berufung nicht oder nicht mehr unterliegenden Bescheides begehren, sind, wenn die Behörde nicht den Anlaß zu einer Verfügung gemäß den Abs. 2 bis 4 findet, wegen entschiedener Sache zurückzuweisen.
-
-`§ 68 (2) AVG.`  
-Von Amts wegen können Bescheide, aus denen niemandem ein Recht erwachsen ist, sowohl von der Behörde, die den Bescheid erlassen hat, als auch in Ausübung des Aufsichtsrechtes von der sachlich in Betracht kommenden Oberbehörde aufgehoben oder abgeändert werden.
-
-`§ 68 (3) AVG.`  
-Andere Bescheide kann die Behörde, die den Bescheid in letzter Instanz erlassen hat, oder die sachlich in Betracht kommende Oberbehörde im öffentlichen Interesse insoweit abändern, als dies zur Beseitigung von das Leben oder die Gesundheit von Menschen gefährdenden Mißständen oder zur Abwehr schwerer volkswirtschaftlicher Schädigungen notwendig und unvermeidlich ist. In allen Fällen hat die Behörde mit möglichster Schonung erworbener Rechte vorzugehen.
-
-`§ 68 (4) AVG.`  
-Außerdem können Bescheide von Amts wegen in Ausübung des Aufsichtsrechtes von der sachlich in Betracht kommenden Oberbehörde als nichtig erklärt werden, wenn der Bescheid  
-`§ 68 (4) Z 1 AVG.`
-von einer unzuständigen Behörde oder von einer nicht richtig zusammengesetzten Kollegialbehörde erlassen wurde,  
-`§ 68 (4) Z 2 AVG.`
-einen strafgesetzwidrigen Erfolg herbeiführen würde,  
-`§ 68 (4) Z 3 AVG.`
-tatsächlich undurchführbar ist oder  
-`§ 68 (4) Z 4 AVG.`
-an einem durch gesetzliche Vorschrift ausdrücklich mit Nichtigkeit bedrohten Fehler leidet.
-
-`§ 68 (5) AVG.`  
-Nach Ablauf von drei Jahren nach dem in § 63 Abs. 5 bezeichneten Zeitpunkt ist eine Nichtigerklärung aus den Gründen des Abs. 4 Z 1 nicht mehr zulässig.
-
-`§ 68 (6) AVG.`  
-Die der Behörde in den Verwaltungsvorschriften eingeräumten Befugnisse zur Zurücknahme oder Einschränkung einer Berechtigung außerhalb eines Berufungsverfahrens bleiben unberührt.
-
-`§ 68 (7) AVG.`  
-Auf die Ausübung des der Behörde gemäß den Abs. 2 bis 4 zustehenden Abänderungs- und Behebungsrechts steht niemandem ein Anspruch zu. Mutwillige Aufsichtsbeschwerden und Abänderungsanträge sind nach § 35 zu ahnden.
-
-### § 69 AVG # Wiederaufnahme des Verfahrens
-
-`§ 69 (1) AVG.`  
-Dem Antrag einer Partei auf Wiederaufnahme eines durch Bescheid abgeschlossenen Verfahrens ist stattzugeben, wenn ein Rechtsmittel gegen den Bescheid nicht oder nicht mehr zulässig ist und:  
-`§ 69 (1) Z 1 AVG.`
-der Bescheid durch Fälschung einer Urkunde, falsches Zeugnis oder eine andere gerichtlich strafbare Handlung herbeigeführt oder sonstwie erschlichen worden ist oder  
-`§ 69 (1) Z 2 AVG.`
-neue Tatsachen oder Beweismittel hervorkommen, die im Verfahren ohne Verschulden der Partei nicht geltend gemacht werden konnten und allein oder in Verbindung mit dem sonstigen Ergebnis des Verfahrens voraussichtlich einen im Hauptinhalt des Spruches anders lautenden Bescheid herbeigeführt hätten, oder  
-`§ 69 (1) Z 3 AVG.`
-der Bescheid gemäß § 38 von Vorfragen abhängig war und nachträglich über eine solche Vorfrage von der zuständigen Verwaltungsbehörde bzw. vom zuständigen Gericht in wesentlichen Punkten anders entschieden wurde;  
-`§ 69 (1) Z 4 AVG.`
-nachträglich ein Bescheid oder eine gerichtliche Entscheidung bekannt wird, der bzw. die einer Aufhebung oder Abänderung auf Antrag einer Partei nicht unterliegt und die im Verfahren die Einwendung der entschiedenen Sache begründet hätte.
-
-`§ 69 (2) AVG.`  
-Der Antrag auf Wiederaufnahme ist binnen zwei Wochen bei der Behörde einzubringen, die den Bescheid in erster Instanz erlassen hat. Die Frist beginnt mit dem Zeitpunkt, in dem der Antragsteller von dem Wiederaufnahmegrund Kenntnis erlangt hat, wenn dies jedoch nach der Verkündung des mündlichen Bescheides und vor Zustellung der schriftlichen Ausfertigung geschehen ist, erst mit diesem Zeitpunkt. Nach Ablauf von drei Jahren nach Erlassung des Bescheides kann der Antrag auf Wiederaufnahme nicht mehr gestellt werden. Die Umstände, aus welchen sich die Einhaltung der gesetzlichen Frist ergibt, sind vom Antragsteller glaubhaft zu machen.
-
-`§ 69 (3) AVG.`  
-Unter den Voraussetzungen des Abs. 1 kann die Wiederaufnahme des Verfahrens auch von Amts wegen verfügt werden. Nach Ablauf von drei Jahren nach Erlassung des Bescheides kann die Wiederaufnahme auch von Amts wegen nur mehr aus den Gründen des Abs. 1 Z 1 stattfinden.
-
-`§ 69 (4) AVG.`  
-Die Entscheidung über die Wiederaufnahme steht der Behörde zu, die den Bescheid in letzter Instanz erlassen hat.
-
-### § 70 AVG
-
-`§ 70 (1) AVG.`  
-In dem die Wiederaufnahme bewilligenden oder verfügenden Bescheid ist, sofern nicht schon auf Grund der vorliegenden Akten ein neuer Bescheid erlassen werden kann, auszusprechen, inwieweit und in welcher Instanz das Verfahren wieder aufzunehmen ist.
-
-`§ 70 (2) AVG.`  
-Frühere Erhebungen und Beweisaufnahmen, die durch die Wiederaufnahmsgründe nicht betroffen werden, sind keinesfalls zu wiederholen.
-*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 33/2013)*
-
-### § 71 AVG # Wiedereinsetzung in den vorigen Stand
-
-`§ 71 (1) AVG.`  
-Gegen die Versäumung einer Frist oder einer mündlichen Verhandlung ist auf Antrag der Partei, die durch die Versäumung einen Rechtsnachteil erleidet, die Wiedereinsetzung in den vorigen Stand zu bewilligen, wenn:  
-`§ 71 (1) Z 1 AVG.`
-die Partei glaubhaft macht, daß sie durch ein unvorhergesehenes oder unabwendbares Ereignis verhindert war, die Frist einzuhalten oder an der ganzen Verhandlung teilzunehmen und sie kein Verschulden oder nur ein minderer Grad des Versehens trifft, oder  
-`§ 71 (1) Z 2 AVG.`
-die Partei die Rechtsmittelfrist versäumt hat, weil der Bescheid keine Rechtsmittelbelehrung, keine Rechtsmittelfrist oder fälschlich die Angabe enthält, daß kein Rechtsmittel zulässig sei.
-
-`§ 71 (2) AVG.`  
-Der Antrag auf Wiedereinsetzung muß binnen zwei Wochen nach dem Wegfall des Hindernisses oder nach dem Zeitpunkt, in dem die Partei von der Zulässigkeit des Rechtsmittels Kenntnis erlangt hat, gestellt werden.
-
-`§ 71 (3) AVG.`  
-Im Fall der Versäumung einer Frist hat die Partei die versäumte Handlung gleichzeitig mit dem Wiedereinsetzungsantrag nachzuholen.
-
-`§ 71 (4) AVG.`  
-Zur Entscheidung über den Antrag auf Wiedereinsetzung ist die Behörde berufen, bei der die versäumte Handlung vorzunehmen war oder die die versäumte Verhandlung angeordnet oder die unrichtige Rechtsmittelbelehrung erteilt hat.
-
-`§ 71 (5) AVG.`  
-Gegen die Versäumung der Frist zur Stellung des Wiedereinsetzungsantrages findet keine Wiedereinsetzung in den vorigen Stand statt.
-
-`§ 71 (6) AVG.`  
-Die Behörde kann dem Antrag auf Wiedereinsetzung aufschiebende Wirkung zuerkennen.
-
-`§ 71 (7) AVG.`  
-Der Wiedereinsetzungsantrag kann nicht auf Umstände gestützt werden, die die Behörde schon früher für unzureichend befunden hat, um die Verlängerung der versäumten Frist oder die Verlegung der versäumten Verhandlung zu bewilligen.
-
-### § 72 AVG
-
-`§ 72 (1) AVG.`  
-Durch die Bewilligung der Wiedereinsetzung tritt das Verfahren in die Lage zurück, in der es sich vor dem Eintritt der Versäumung befunden hat.
-
-`§ 72 (2) AVG.`  
-Durch den Antrag auf Wiedereinsetzung gegen die Versäumung der mündlichen Verhandlung wird die Frist zur Anfechtung des infolge der Versäumung erlassenen Bescheides nicht verlängert.
-
-`§ 72 (3) AVG.`  
-Hat eine Partei Wiedereinsetzung gegen die Versäumung der mündlichen Verhandlung beantragt und gegen den Bescheid Berufung eingelegt, so ist auf die Erledigung der Berufung erst einzugehen, wenn der Antrag auf Wiedereinsetzung abgewiesen worden ist.
-*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 33/2013)*
-
-## 3. Abschnitt: Entscheidungspflicht
-
-### § 73 AVG
-
-`§ 73 (1) AVG.`  
-Die Behörden sind verpflichtet, wenn in den Verwaltungsvorschriften nicht anderes bestimmt ist, über Anträge von Parteien (§ 8) und Berufungen ohne unnötigen Aufschub, spätestens aber sechs Monate nach deren Einlangen den Bescheid zu erlassen. Sofern sich in verbundenen Verfahren (§ 39 Abs. 2b) aus den anzuwendenden Rechtsvorschriften unterschiedliche Entscheidungsfristen ergeben, ist die zuletzt ablaufende maßgeblich.
-
-`§ 73 (2) AVG.`  
-Wird ein Bescheid, gegen den Berufung erhoben werden kann, nicht innerhalb der Entscheidungsfrist erlassen, so geht auf schriftlichen Antrag der Partei die Zuständigkeit zur Entscheidung auf die Berufungsbehörde über (Devolutionsantrag). Der Devolutionsantrag ist bei der Berufungsbehörde einzubringen. Er ist abzuweisen, wenn die Verzögerung nicht auf ein überwiegendes Verschulden der Behörde zurückzuführen ist.
-
-`§ 73 (3) AVG.`  
-Für die Berufungsbehörde beginnt die Entscheidungsfrist mit dem Tag des Einlangens des Devolutionsantrages zu laufen.
-
+----
 ## V. Teil: Kosten
 
 ### § 74 AVG # Kosten der Beteiligten
@@ -135,7 +20,9 @@ Jeder Beteiligte hat die ihm im Verwaltungsverfahren erwachsenden Kosten selbst 
 
 `§ 74 (2) AVG.`  
 Inwiefern einem Beteiligten ein Kostenersatzanspruch gegen einen anderen Beteiligten zusteht, bestimmen die Verwaltungsvorschriften. Der Kostenersatzanspruch ist so zeitgerecht zu stellen, daß der Ausspruch über die Kosten in den Bescheid aufgenommen werden kann. Die Höhe der zu ersetzenden Kosten wird von der Behörde bestimmt und kann von dieser auch in einem Pauschalbetrag festgesetzt werden.
+----
 
+----
 ### § 75 AVG # Kosten der Behörden
 
 `§ 75 (1) AVG.`  
@@ -146,7 +33,9 @@ Die Heranziehung der Beteiligten zu anderen als den in den §§ 76 bis 78 vorge
 
 `§ 75 (3) AVG.`  
 Die gesetzlichen Bestimmungen über die Stempel- und Rechtsgebühren des Bundes bleiben unberührt.
+----
 
+----
 ### § 76 AVG
 
 `§ 76 (1) AVG.`  
@@ -163,7 +52,9 @@ Ist eine Amtshandlung nicht ohne größere Barauslagen durchführbar, so kann di
 
 `§ 76 (5) AVG.`  
 Die Kosten, die der Behörde aus ihrer Verpflichtung nach § 17a erwachsen, sowie die den Sachverständigen und Dolmetschern zustehenden Gebühren sind – falls hiefür nicht die Beteiligten des Verfahrens aufzukommen haben – von jenem Rechtsträger zu tragen, in dessen Namen die Behörde in der Angelegenheit gehandelt hat.
+----
 
+----
 ### § 77 AVG
 
 `§ 77 (1) AVG.`  
@@ -183,7 +74,9 @@ Entsenden andere am Verfahren beteiligte Verwaltungsbehörden Amtsorgane, so sin
 
 `§ 77 (6) AVG.`  
 § 76 Abs. 4 gilt auch für die Kommissionsgebühren.
+----
 
+----
 ### § 78 AVG
 
 `§ 78 (1) AVG.`  
@@ -200,7 +93,9 @@ Die Bundesverwaltungsabgaben sind von der Behörde einzuheben und fließen der G
 
 `§ 78 (5) AVG.`  
 Die Art der Einhebung ist für die Bundesbehörden durch Verordnung der Bundesregierung, für die Behörden der Länder und Gemeinden durch Verordnung der Landesregierung zu regeln.
+----
 
+----
 ### § 78a AVG
 
 `§ 78a AVG.`  
@@ -211,29 +106,39 @@ die Erteilung von Rechtsbelehrungen und die Erstellung von Kopien oder Ausdrucke
 die Bestimmung der Gebühren der nichtamtlichen Sachverständigen und nichtamtlichen Dolmetscher und  
 `§ 78a Z 3 AVG.`
 Amtshandlungen, die durch Katastrophenschäden (insbesondere Hochwasser-, Erdrutsch-, Vermurungs- und Lawinenschäden) veranlasst worden sind.
+----
 
+----
 ### § 79 AVG
 
 `§ 79 AVG.`  
 Die in den §§ 76 bis 78 vorgesehenen Leistungen sind nur insoweit einzuheben, als dadurch der notwendige Unterhalt des Beteiligten und der Personen, für die er nach dem Gesetz zu sorgen hat, nicht gefährdet wird.
+----
 
+----
 ## VI. Teil: Schlußbestimmungen
 
 ### § 80 AVG # Verweisungen
 
 `§ 80 AVG.`  
 Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden.
+----
 
+----
 ### § 80a AVG # Sprachliche Gleichbehandlung
 
 `§ 80a AVG.`  
 Soweit sich die in diesem Bundesgesetz verwendeten Bezeichnungen auf natürliche Personen beziehen, gilt die gewählte Form für beide Geschlechter. Bei der Anwendung dieser Bezeichnungen auf bestimmte natürliche Personen ist die jeweils geschlechtsspezifische Form zu verwenden.
+----
 
+----
 ### § 81 AVG # Vollziehung
 
 `§ 81 AVG.`  
 Mit der Vollziehung dieses Bundesgesetzes ist die Bundesregierung betraut.
+----
 
+----
 ### § 82 AVG # Inkrafttreten
 
 `§ 82 (1) AVG.`  
@@ -331,5 +236,6 @@ In der Fassung des Bundesgesetzes BGBl. I Nr. 33/2013 treten in Kraft:
 
 `§ 82 (25) AVG.`  
 § 55a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 tritt mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft.
+----
 
 `END-OF-DATA-SET`

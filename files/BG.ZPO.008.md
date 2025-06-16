@@ -1,113 +1,16 @@
 # BG.ZPO.008 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ZPO  
+**Kurztitel:** ['ZPO']  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.008.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ZPO.007](BG.ZPO.007.md))*
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
-## Streitanhängigkeit.
-
-### § 232 ZPO
-
-`§ 232 (1) ZPO.`  
-Die Rechtshängigkeit der Streitsache (Streitanhängigkeit) wird durch die Zustellung der Klageschrift an den Beklagten begründet. Zur Wahrung einer Frist sowie zur Unterbrechung des Ablaufes einer Frist genügt, wenn nichts anderes vorgeschrieben ist, die Überreichung der Klage bei Gericht.
-
-`§ 232 (2) ZPO.`  
-Wird von einer Partei erst im Laufe des Processes ein Anspruch erhoben, so tritt die Streitanhängigkeit in Ansehung dieses Anspruches mit dem Zeitpunkte ein, in welchem derselbe bei der mündlichen Verhandlung geltend gemacht wurde.
-
-### § 233 ZPO
-
-`§ 233 (1) ZPO.`  
-Die Streitanhängigkeit hat die Wirkung, dass während ihrer Dauer über den geltend gemachten Anspruch weder bei demselben noch bei einem anderen Gerichte ein Rechtsstreit durchgeführt werden darf. Eine während der Streitanhängigkeit wegen des nämlichen Anspruches angebrachte Klage ist auf Antrag oder von amtswegen zurückzuweisen.
-
-`§ 233 (2) ZPO.`  
-Nach dem Eintritte der Streitanhängigkeit kann der Beklagte, wenn die sonstigen gesetzlichen Bedingungen des Gerichtsstandes der Widerklage vorhanden sind, bei dem Gerichte der Klage insolange eine Widerklage anbringen, als nicht die mündliche Verhandlung in erster Instanz geschlossen ist.
-
-### § 234 ZPO
-Die Veräußerung einer in Streit verfangenen Sache oder Forderung hat auf den Process keinen Einfluss. Der Erwerber ist nicht berechtigt, ohne Zustimmung des Gegners als Hauptpartei in den Process einzutreten.
-
-## Klagsänderung.
-
-### § 235 ZPO
-
-`§ 235 (1) ZPO.`  
-Zu einer Änderung der bei Gericht überreichten Klage, und namentlich zu einer Erweiterung des Klagebegehrens, durch welche die Zuständigkeit des Processgerichtes nicht ausgeschlossen wird, ist der Kläger vor Eintritt der Streitanhängigkeit stets berechtigt.
-
-`§ 235 (2) ZPO.`  
-Nach Eintritt der Streitanhängigkeit bedarf es hiezu der Einwilligung des Gegners; mit dieser Einwilligung ist eine Änderung der Klage auch dann zulässig, wenn das Prozeßgericht für die geänderte Klage nicht zuständig wäre, sofern es durch Parteienvereinbarung zuständig gemacht werden könnte oder die Unzuständigkeit nach § 104 Abs. 3 JN geheilt wird. Die Einwilligung des Gegners ist als vorhanden anzunehmen, wenn er, ohne gegen die Änderung eine Einwendung zu erheben, über die geänderte Klage verhandelt.
-
-`§ 235 (3) ZPO.`  
-Das Gericht kann eine Änderung selbst nach Eintritt der Streitanhängigkeit und ungeachtet der Einwendungen des Gegners zulassen, wenn durch die Änderung die Zuständigkeit des Prozeßgerichtes nicht überschritten wird und aus ihr eine erhebliche Erschwerung oder Verzögerung der Verhandlung nicht zu besorgen ist.
-
-`§ 235 (4) ZPO.`  
-Als eine Änderung der Klage ist es nicht anzusehen, wenn ohne Änderung des Klagegrundes die thatsächlichen Angaben der Klage und die in derselben angebotenen Beweise geändert, ergänzt, erläutert oder berichtigt werden, oder wenn, gleichfalls ohne Änderung des Klagegrundes, das Klagebegehren in der Hauptsache oder in Beziehung auf Nebenforderungen beschränkt oder statt des ursprünglich geforderten Gegenstandes ein anderer Gegenstand oder das Interesse gefordert wird.
-
-`§ 235 (5) ZPO.`  
-Es ist weder eine Änderung der Klage noch eine Änderung der Partei, wenn die Parteibezeichnung auf diejenige Person richtiggestellt wird, von der oder gegen die nach dem Inhalt der Klage in einer jeden Zweifel ausschließenden Weise, etwa durch die Anführung der Bezeichnung ihres Unternehmens, das Klagebegehren erhoben worden ist. Eine solche Berichtigung ist in jeder Lage des Verfahrens auf Antrag oder von Amts wegen vorzunehmen, gegebenenfalls durch die Anwendung der §§ 84 und 85.
-
-## Zwischenantrag auf Feststellung.
-
-### § 236 ZPO
-
-`§ 236 (1) ZPO.`  
-Der Kläger kann ohne Zustimmung des Beklagten bis zum Schlusse der mündlichen Verhandlung, über welche das Urtheil ergeht, den Antrag stellen, dass ein im Laufe des Processes streitig gewordenes Rechtsverhältnis oder Recht, von dessen Bestehen oder Nichtbestehen die Entscheidung über das Klagebegehren ganz oder zum Theile abhängt, in dem über die Klage ergehenden oder in einem demselben vorausgehenden Urtheile festgestellt werde.
-
-`§ 236 (2) ZPO.`  
-Diese Bestimmung kommt nicht zur Anwendung, wenn über den Gegenstand des neuen Antrages nur in einem besonderen, für Angelegenheiten dieser Art ausschließlich vorgeschriebenen Verfahren verhandelt werden kann, oder wenn die Vorschriften über die sachliche Zuständigkeit der Gerichte der beantragten Entscheidung entgegenstehen.
-
-`§ 236 (3) ZPO.`  
-Ein neuer Antrag kann auch eine Anerkennung von Akten oder Urkunden, die im Ausland errichtet wurden (§§ 403 ff EO) zum Gegenstand haben; in diesem Fall ist der Abs. 2 nicht anzuwenden.
-
-## Zurücknahme der Klage.
-
-### § 237 ZPO
-
-`§ 237 (1) ZPO.`  
-Die Klage kann ohne Zustimmung des Beklagten nur bis zum Einlangen der Klagebeantwortung oder des Einspruchs gegen den Zahlungsbefehl zurückgenommen werden. Wenn gleichzeitig auf den Anspruch verzichtet wird, kann die Klage ohne Zustimmung des Beklagten bis zum Schlusse der mündlichen Streitverhandlung zurückgenommen werden.
-
-`§ 237 (2) ZPO.`  
-Die Zurücknahme der Klage geschieht durch einen dem Beklagten zuzustellenden Schriftsatz oder durch eine bei der mündlichen Verhandlung abgegebene Erklärung. Die Zustellung des Schriftsatzes erfolgt auf Grund einer Verfügung des Vorsitzenden ohne vorgängige Beschlussfassung des Senates.
-
-`§ 237 (3) ZPO.`  
-Die Zurücknahme der Klage hat zur Folge, daß die Klage als nicht angebracht anzusehen ist und, wenn die Parteien nichts anderes vereinbaren, der Kläger dem Beklagten alle diesem nicht bereits rechtskräftig auferlegten Prozeßkosten zu ersetzen hat. Der Antrag auf Kostenersatz ist bei sonstigem Ausschluß, wenn die Klage bei der mündlichen Verhandlung zurückgenommen wird und der Beklagte anwesend ist, in dieser, sonst binnen einer Notfrist von vier Wochen nach der Verständigung des Beklagten von der Zurücknahme der Klage durch das Gericht zu stellen. Über den Antrag auf Zuerkennung des Kostenersatzes entscheidet der Vorsitzende durch Beschluß.
-
-`§ 237 (4) ZPO.`  
-Die zurückgenommene Klage kann neuerlich angebracht werden, wenn nicht bei deren Zurücknahme auf den geltend gemachten Anspruch verzichtet wurde.
-
-### § 238 ZPO
-Die in §. 237 bezeichneten Rechtsfolgen treten auch dann ein, wenn eine Klage in Gemäßheit der Bestimmungen dieses Gesetzes als zurückgenommen zu gelten hat.
-
-## Beantwortung der Klage
-
-### § 239 ZPO
-
-`§ 239 (1) ZPO.`  
-Die nach § 230 Abs. 1 aufgetragene Beantwortung der Klage hat mittels vorbereitenden Schriftsatzes zu geschehen. Sie hat ein bestimmtes Begehren zu enthalten und, soweit der Klagsanspruch bestritten wird, Anträge gestellt und Einreden erhoben werden, die Tatsachen und Umstände, auf welche sich die Einwendungen, Anträge und Einreden der beklagten Partei gründen, im Einzelnen kurz und vollständig anzugeben sowie die Beweismittel, deren sich der Beklagte zum Nachweis seiner tatsächlichen Behauptungen bei der Verhandlung zu bedienen beabsichtigt, im Einzelnen genau zu bezeichnen.
-
-`§ 239 (2) ZPO.`  
-In dem Schriftsatz kann der Beklagte auch einen oder mehrere der im § 229 angeführten Anträge stellen.
-
-`§ 239 (3) ZPO.`  
-Die Klagebeantwortung dient weiters  
-`§ 239 (3) Z 1 ZPO.`
-zur Anmeldung der Einreden des Fehlens der inländischen Gerichtsbarkeit, der Unzulässigkeit des Rechtsweges, des Fehlens der sachlichen oder örtlichen Zuständigkeit, der Streitanhängigkeit, der rechtskräftig entschiedenen Streitsache und des Fehlens sonstiger Prozessvoraussetzungen,  
-`§ 239 (3) Z 2 ZPO.`
-zur Benennung des Auktors,  
-`§ 239 (3) Z 3 ZPO.`
-zur Stellung des Antrages auf Sicherheitsleistung für Prozesskosten und  
-`§ 239 (3) Z 4 ZPO.`
-zur Abgabe eines Anerkenntnisses.
-
-### § 240 ZPO
-
-`§ 240 ZPO.`  
-Wird die Einrede der sachlichen oder örtlichen Unzuständigkeit des Gerichtes nicht in der Klagebeantwortung geltend gemacht, so kann deren Fehlen nur noch berücksichtigt werden, wenn das Gericht auch durch ausdrückliche Vereinbarung der Parteien nicht zuständig gemacht werden könnte und die Unzuständigkeit noch nicht geheilt ist (§ 104 JN).
-
+----
 ## Mahnverfahren
 
 ### § 244 ZPO
@@ -125,7 +28,9 @@ die Forderung nach den Angaben in der Klage oder offenkundig (§ 269) nicht kla
 der Beklagte seinen Wohnsitz, gewöhnlichen Aufenthalt oder Sitz im Ausland hat;  
 `§ 244 (2) Z 4 ZPO.`
 die Klage unschlüssig ist.
+----
 
+----
 ### § 245 ZPO
 
 `§ 245 (1) ZPO.`  
@@ -139,7 +44,9 @@ Wird der Anweisung trotz vorheriger Bekanntgabe des drohenden Nachteils nicht od
 
 `§ 245 (4) ZPO.`  
 Gegen die nach Abs. 2 ergangenen Beschlüsse ist ein abgesondertes Rechtsmittel nicht statthaft.
+----
 
+----
 ### § 246 ZPO
 
 `§ 246 ZPO.`  
@@ -154,7 +61,9 @@ den Beisatz, dass der Zahlungsbefehl nur durch Erhebung des Einspruchs außer Kr
 die Belehrung, dass der Einspruch den Inhalt der Klagebeantwortung haben muss und die Vertretung durch einen Rechtsanwalt geboten ist;  
 `§ 246 Z 5 ZPO.`
 den Hinweis, dass im Fall der Erhebung des Einspruchs das ordentliche Verfahren über die Klage stattfinden wird.
+----
 
+----
 ### § 247 ZPO
 
 `§ 247 (1) ZPO.`  
@@ -165,7 +74,9 @@ Der Zahlungsbefehl ist dem Beklagten mit der Klage zuzustellen.
 
 `§ 247 (3) ZPO.`  
 Gegen die Erlassung des Zahlungsbefehls ist ein Rechtsmittel nicht zulässig, doch kann die im Zahlungsbefehl enthaltene Kostenentscheidung mit Rekurs angefochten werden.
+----
 
+----
 ### § 248 ZPO
 
 `§ 248 (1) ZPO.`  
@@ -173,7 +84,9 @@ Gegen den Zahlungsbefehl steht dem Beklagten der Einspruch zu. Dieser hat den In
 
 `§ 248 (2) ZPO.`  
 Die Einspruchsfrist beträgt vier Wochen; sie kann nicht verlängert werden. Sie beginnt mit der Zustellung der schriftlichen Ausfertigung des Zahlungsbefehls an den Beklagten.
+----
 
+----
 ### § 249 ZPO
 
 `§ 249 (1) ZPO.`  
@@ -184,7 +97,9 @@ Ist ordnungsgemäß Einspruch erhoben worden, so hat der Vorsitzende nach den §
 
 `§ 249 (3) ZPO.`  
 Auf die Zurücknahme des Einspruchs finden die Vorschriften über die Zurücknahme der Berufung (§ 484) entsprechende Anwendung.
+----
 
+----
 ### § 250 ZPO
 
 `§ 250 (1) ZPO.`  
@@ -192,18 +107,24 @@ Das Mahnverfahren kann mit Hilfe automationsunterstützter Datenverarbeitung dur
 
 `§ 250 (2) ZPO.`  
 Der Bundesminister für Justiz wird ermächtigt, zur Ermöglichung einer zweckmäßigeren Behandlung der Eingaben (§ 74) im Mahnverfahren mit Verordnung Formblätter einzuführen, deren sich der Kläger bei solchen Eingaben zu bedienen hat. Diese Formblätter sind so auszugestalten, dass sie der Kläger auch leicht und sicher verwenden kann.
+----
 
+----
 ### § 251 ZPO
 
 `§ 251 ZPO.`  
 Für das Mahnverfahren, das mit Hilfe automationsunterstützter Datenverarbeitung durchgeführt wird, gelten folgende Besonderheiten:
+
 *(Anm.: Z 1 aufgehoben durch Art. 2 Z 21, BGBl. I Nr. 61/2022)*  
 `§ 251 Z 2 ZPO.`
 An die Stelle der Zustellung der Klage tritt die Zustellung des Zahlungsbefehls, wenn dieser den Klagsinhalt vollständig wiedergibt oder ihm eine Abschrift der Klage sowie Abschriften ihrer Beilagen angeschlossen sind; das gilt sinngemäß für andere Anträge im Mahnverfahren und die hierüber ergehenden Beschlüsse.  
 `§ 251 Z 3 ZPO.`
 Ergeht ein Auftrag zur Verbesserung einer Eingabe (§ 84), weil sich der Kläger nicht des hiefür eingeführten Formblatts bedient hat, so ist diesem Auftrag das entsprechende Formblatt anzuschließen.
-*(Anm.: Z 4 und 5 aufgehoben durch BGBl. I Nr. 128/2004)*
 
+*(Anm.: Z 4 und 5 aufgehoben durch BGBl. I Nr. 128/2004)*
+----
+
+----
 ### § 252 ZPO # Europäisches Mahnverfahren
 
 `§ 252 (1) ZPO.`  
@@ -226,8 +147,10 @@ Auf die Frist zur Erhebung eines Einspruchs gegen einen Europäischen Zahlungsbe
 
 `§ 252 (7) ZPO.`  
 Wird der Antrag nach Art. 10 der Verordnung geändert, so gilt er für den verbleibenden Teil der Forderung als ohne Verzicht auf den Anspruch zurückgenommen.
+----
 
-## Mündliche Streitverhandlung. (Anm. 1)
+----
+## Mündliche Streitverhandlung. 
 
 ### § 257 ZPO # Einleitung der Streitverhandlung
 
@@ -241,10 +164,14 @@ Zur Vorbereitung dieser Verhandlung notwendige Anordnungen sind so früh wie mö
 Die Parteien können einander in der Klage oder Klagebeantwortung noch nicht enthaltene Anträge, Angriffs- und Verteidigungsmittel, Behauptungen und Beweise, welche sie geltend machen wollen, durch besonderen, spätestens eine Woche vor der vorbereitenden Tagsatzung bei Gericht und beim Gegner einlangenden, vorbereitenden Schriftsatz mitteilen. Bis zu diesem Zeitpunkt können die Parteien auch Anträge im Sinn des § 229 mittels Schriftsatzes stellen. Der Vorsitzende hat hierüber die ihm nötig scheinenden Anordnungen ohne Aufschub zu erlassen.
 
 `§ 257 (4) ZPO.`  
-Gegen die in dieser Bestimmung vorgesehenen Anordnungen ist ein Rechtsmittel nicht zulässig.  
-*(______________*  
-*Anm. 1: Es wird davon ausgegangen, dass diese seit der Stammfassung existierende Zwischenüberschrift nicht durch die Neufassung der §§ 257 und 258 „samt Überschriften“ (Art. II Z 40 der Zivilverfahrens-Novelle 2002, BGBl. I Nr. 76/2002) entfallen ist. Dies ist aber nicht unstrittig.)*
+Gegen die in dieser Bestimmung vorgesehenen Anordnungen ist ein Rechtsmittel nicht zulässig.
 
+*(______________*
+
+*Anm. 1: Es wird davon ausgegangen, dass diese seit der Stammfassung existierende Zwischenüberschrift nicht durch die Neufassung der §§ 257 und 258 „samt Überschriften“ (Art. II Z 40 der Zivilverfahrens-Novelle 2002, BGBl. I Nr. 76/2002) entfallen ist. Dies ist aber nicht unstrittig.)*
+----
+
+----
 ### § 258 ZPO # Vorbereitende Tagsatzung
 
 `§ 258 (1) ZPO.`  
@@ -262,5 +189,245 @@ soweit zweckmäßig - auch der Einvernahme der Parteien und Durchführung des we
 
 `§ 258 (2) ZPO.`  
 Die Parteien und ihre Vertreter haben dafür zu sorgen, dass in der vorbereitenden Tagsatzung der Sachverhalt und allfällige Vergleichsmöglichkeiten umfassend erörtert werden können. Zu diesem Zweck ist die Partei oder, soweit diese zur Aufklärung des Sachverhalts nicht beitragen kann, eine informierte Person zur Unterstützung des Vertreters stellig zu machen.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.009](BG.ZPO.009.md))*
+----
+## Fortsetzung der Streitverhandlung
+
+### § 259 ZPO # 
+
+`§ 259 (1) ZPO.`  
+Die Streitverhandlung erfolgt nach den allgemeinen Vorschriften über die mündliche Verhandlung; sie umfasst auch die Erörterung des Sach- und Rechtsvorbringens, die Beweisaufnahme und die Erörterung ihrer Ergebnisse.
+
+`§ 259 (2) ZPO.`  
+Während der mündlichen Streitverhandlung kann der Beklagte, ohne der Zustimmung des Klägers zu bedürfen, einen Antrag auf Feststellung im Sinne des §. 236 stellen.
+
+`§ 259 (3) ZPO.`  
+In der Verhandlung vor dem Einzelrichter eines Landesgerichtes kann der Antrag gestellt werden, in das Urteil einen Beisatz aufzunehmen, daß es in Ausübung der besonderen Gerichtsbarkeit in Handelsrechtssachen in der Verhandlung vor dem Einzelrichter eines selbständigen Handelsgerichtes, daß es in Ausübung der allgemeinen Gerichtsbarkeit gefällt wird. Der beantragte Beisatz ist in das Urteil aufzunehmen, wenn ihn der Richter für zutreffend erachtet.
+----
+
+----
+### § 260 ZPO # 
+
+`§ 260 (1) ZPO.`  
+Die Partei, welche eine der in Abs. 2 oder in § 239 Abs. 3 Z 1 bezeichneten Einreden erhebt, ist nicht berechtigt, deshalb die Einlassung in die Verhandlung zur Hauptsache oder, wenn die Einreden erst während der mündlichen Streitverhandlung geltend gemacht werden, die weitere Teilnahme an der Verhandlung zur Hauptsache zu verweigern.
+
+`§ 260 (2) ZPO.`  
+Daß das erkennende Gericht nicht vorschriftsmäßig besetzt ist (§ 477 Abs. 1 Z 2) kann nicht mehr berücksichtigt werden, wenn sich beide Parteien in die mündliche Streitverhandlung eingelassen haben, ohne diesen Umstand geltend zu machen.
+----
+
+----
+### § 261 ZPO
+
+`§ 261 (1) ZPO.`  
+Über Einreden nach § 239 Abs. 3 Z 1 oder nach § 260 Abs. 2 hat das Gericht mit Beschluss zu entscheiden. Die Entscheidung kann in die über die Hauptsache ergehende Entscheidung aufgenommen werden.
+
+`§ 261 (2) ZPO.`  
+Eine mündliche Verhandlung über die Einrede ist nur anzuberaumen, wenn das Gericht dies im einzelnen Fall für erforderlich hält.
+
+`§ 261 (3) ZPO.`  
+Wird der Ausspruch über die Einrede in die über die Hauptsache ergehende Entscheidung aufgenommen, so kann er nur mittels des gegen die Entscheidung in der Hauptsache offen stehenden Rechtsmittels angefochten werden.
+
+`§ 261 (4) ZPO.`  
+Verwirft das Gericht die Einrede mit abgesondertem Beschluss, ohne sogleich zur Verhandlung in der Hauptsache überzugehen, so hat es nach Rechtskraft des Beschlusses von Amts wegen eine Tagsatzung zur mündlichen Streitverhandlung in der Hauptsache anzuberaumen.
+
+`§ 261 (5) ZPO.`  
+Die vorstehenden Absätze sind auch anzuwenden, wenn das Gericht Fragen des Vorliegens von Prozessvoraussetzungen nach Streitanhängigkeit von Amts wegen aufwirft und zum Gegenstand der Erörterung macht.
+
+`§ 261 (6) ZPO.`  
+Wenn der Beklagte das Fehlen der sachlichen oder örtlichen Zuständigkeit einwendet oder das Gericht seine Zuständigkeit von Amts wegen prüft, kann der Kläger den Antrag stellen, dass das Gericht für den Fall, dass es seine Unzuständigkeit ausspricht, die Klage an das vom Kläger namhaft gemachte Gericht überweise. Diesem Antrag hat das Gericht stattzugeben, wenn es das andere Gericht nicht für offenbar unzuständig erachtet. Die Überweisung ist mit dem Beschluss über die Unzuständigkeit zu verbinden. Gegen diesen Beschluss ist mit Ausnahme der Entscheidung über die Kosten des Zuständigkeitsstreites ein Rechtsmittel nicht zulässig. Die Streitanhängigkeit wird durch diese Überweisung nicht aufgehoben. Die neue Verhandlung ist mit Benützung des über die erste Verhandlung aufgenommenen Verhandlungsprotokolls und aller sonstigen Prozessakten durchzuführen und im Sinne des § 138 einzuleiten. Die Einrede des Fehlens der inländischen Gerichtsbarkeit oder der sachlichen oder örtlichen Zuständigkeit kann der Beklagte bei dieser Verhandlung nur erheben, bevor er sich in die Verhandlung zur Hauptsache einlässt (§ 104 JN), und nicht auf Gründe stützen, die mit seinen früheren Behauptungen in Widerspruch stehen.
+----
+
+----
+## Feststellungen zu Protokoll.
+
+### § 265 ZPO # 
+
+`§ 265 (1) ZPO.`  
+Der Vorsitzende kann anordnen, dass Anträge und Erklärungen, die zufolge §§. 208 und 209 in das Verhandlungsprotokoll aufzunehmen sind, von der Partei, welche den Antrag gestellt oder die Erklärung abgegeben hat, niedergeschrieben und dem Vorsitzenden übergeben werden. Den Parteien kann auch dann, wenn die Vorlage einer Niederschrift vom Vorsitzenden nicht angeordnet wurde, auf Antrag gestattet werden, die oben bezeichneten Anträge und Erklärungen durch die Überreichung kurzer Niederschriften festzustellen.
+
+`§ 265 (2) ZPO.`  
+Die Niederschrift hat sogleich bei der mündlichen Verhandlung zu geschehen. Die dem Vorsitzenden überreichten Schriftstücke sind dem Verhandlungsprotokolle als Anlagen beizufügen.
+
+`§ 265 (3) ZPO.`  
+Die angeordneten oder zugelassenen schriftlichen Feststellungen sind vorzulesen; über deren Richtigkeit entscheidet der Senat.
+
+`§ 265 (4) ZPO.`  
+Der Beschluss, durch welchen solche schriftliche Feststellung angeordnet oder zugelassen wird, sowie die über die Richtigkeit einer schriftlichen Feststellung ergehende Entscheidung kann durch ein Rechtsmittel nicht angefochten werden.
+----
+
+----
+## Zweiter Titel. # Allgemeine Bestimmungen über den Beweis und die Beweisaufnahme. # Beweis.
+
+### § 266 ZPO # 
+
+`§ 266 (1) ZPO.`  
+Die von einer Partei behaupteten Thatsachen bedürfen insoweit keines Beweises, als sie vom Gegner in einem vorbereitenden Schriftsatze, im Laufe des Rechtsstreites bei einer mündlichen Verhandlung oder im Protokolle eines beauftragten oder ersuchten Richters ausdrücklich zugestanden werden. Zur Wirksamkeit eines gerichtlichen Thatsachengeständnisses ist dessen Annahme seitens des Gegners nicht erforderlich.
+
+`§ 266 (2) ZPO.`  
+Inwieferne ein solches Geständnis durch demselben von der Partei beigefügte Zusätze und Einschränkungen aufgehoben oder in seiner Wirksamkeit beeinträchtigt wird, und welchen Einfluss ein Widerruf auf die Wirksamkeit des Geständnisses hat, ist vom Gerichte nach seinem durch sorgfältige Erwägung aller Umstände geleiteten Ermessen zu beurtheilen.
+
+`§ 266 (3) ZPO.`  
+In gleicher Weise hat das Gericht zu beurtheilen, inwieferne zufolge eines außergerichtlichen Geständnisses die Nothwendigkeit des Beweises entfalle.
+----
+
+----
+### § 267 ZPO # 
+
+`§ 267 (1) ZPO.`  
+Ob thatsächliche Behauptungen einer Partei mangels eines ausdrücklichen Geständnisses des Gegners als zugestanden anzusehen seien, hat das Gericht unter sorgfältiger Berücksichtigung des gesammten Inhaltes des gegnerischen Vorbringens zu beurtheilen.
+
+`§ 267 (2) ZPO.`  
+In gleicher Weise hat das Gericht insbesondere auch zu beurtheilen, ob die Erklärung mit Nichtwissen oder Nichterinnern als eine die Annahme eines Zugeständnisses ausschließende oder aber ein Zugeständnis in sich schließende Erklärung anzusehen sei.
+----
+
+----
+### § 269 ZPO # 
+
+`§ 269 ZPO.`  
+Thatsachen, welche bei dem Gerichte offenkundig sind, bedürfen keines Beweises.
+----
+
+----
+### § 270 ZPO # 
+
+`§ 270 ZPO.`  
+Thatsachen, für deren Vorhandensein das Gesetz eine Vermuthung aufstellt, bedürfen keines Beweises. Der Beweis des Gegentheiles ist zulässig, sofern das Gesetz denselben nicht ausschließt. Dieser Gegenbeweis kann auch durch Vernehmung der Parteien gemäß §§. 371 ff. geführt werden.
+----
+
+----
+### § 271 ZPO # 
+
+`§ 271 (1) ZPO.`  
+Das in einem anderen Staatsgebiete geltende Recht, Gewohnheitsrechte, Privilegien und Statuten bedürfen des Beweises nur insofern, als sie dem Gerichte unbekannt sind.
+
+`§ 271 (2) ZPO.`  
+Bei Ermittlung dieser Rechtsnormen ist das Gericht auf die von den Parteien angebotenen Beweise nicht beschränkt; es kann alle zu diesem Zwecke ihm nöthig scheinenden Erhebungen von amtswegen einleiten und insbesondere, soweit erforderlich, das Einschreiten des Justizministers in Anspruch nehmen.
+----
+
+----
+### § 272 ZPO # 
+
+`§ 272 (1) ZPO.`  
+Das Gericht hat, soferne in diesem Gesetze nicht etwas anderes bestimmt ist, unter sorgfältiger Berücksichtigung der Ergebnisse der gesammten Verhandlung und Beweisführung nach freier Überzeugung zu beurtheilen, ob eine thatsächliche Angabe für wahr zu halten sei oder nicht.
+
+`§ 272 (2) ZPO.`  
+Es hat insbesondere in gleicher Weise zu entscheiden, welchen Einfluss es auf die Beurtheilung des Falles hat, wenn eine Partei die Beantwortung von Fragen verweigert, welche durch den Vorsitzenden oder mit dessen oder des Senates Zustimmung an sie gestellt werden.
+
+`§ 272 (3) ZPO.`  
+Die Umstände und Erwägungen, welche für die Überzeugung des Gerichtes maßgebend waren, sind in der Begründung der Entscheidung anzugeben.
+----
+
+----
+### § 273 ZPO # 
+
+`§ 273 (1) ZPO.`  
+Wenn feststeht, dass einer Partei der Ersatz eines Schadens oder des Interesses gebürt oder dass sie sonst eine Forderung zu stellen hat, der Beweis über den streitigen Betrag des zu ersetzenden Schadens oder Interesses oder der Forderung aber gar nicht oder nur mit unverhältnismäßigen Schwierigkeiten zu erbringen ist, so kann das Gericht auf Antrag oder von amtswegen selbst mit Übergehung eines von der Partei angebotenen Beweises diesen Betrag nach freier Überzeugung festsetzen. Der Festsetzung des Betrages kann auch die eidliche Vernehmung einer der Parteien über die für die Bestimmung des Betrages maßgebenden Umstände vorausgehen.
+
+`§ 273 (2) ZPO.`  
+Sind von mehreren in derselben Klage geltend gemachten Ansprüchen einzelne, im Verhältnis zum Gesamtbetrag unbedeutende streitig und ist die vollständige Aufklärung aller für sie maßgebenden Umstände mit Schwierigkeiten verbunden, die zur Bedeutung der streitigen Ansprüche in keinem Verhältnisse stehen, so kann das Gericht darüber in der gleichen Weise (Absatz 1) nach freier Überzeugung entscheiden. Gleiches gilt auch für einzelne Ansprüche, wenn der begehrte Betrag jeweils 1 000 Euro nicht übersteigt.
+----
+
+----
+## Glaubhaftmachung (Bescheinigung).
+
+### § 274 ZPO # 
+
+`§ 274 (1) ZPO.`  
+Wer eine thatsächliche Behauptung glaubhaft zu machen hat (Bescheinigung), kann sich hiezu aller Beweismittel mit Ausnahme der eidlichen Vernehmung der Parteien bedienen. Eine Beweisaufnahme, die sich nicht sofort ausführen lässt, eignet sich nicht zum Zwecke der Glaubhaftmachung.
+
+`§ 274 (2) ZPO.`  
+Eine behufs Glaubhaftmachung eines Umstandes erfolgende Beweisaufnahme ist an die besonderen, für das Beweisverfahren bestehenden Vorschriften nicht gebunden.
+----
+
+----
+## Beweisaufnahme.
+
+### § 275 ZPO # 
+
+`§ 275 (1) ZPO.`  
+Von den Parteien angebotene, jedoch dem Gerichte unerheblich scheinende Beweise sind ausdrücklich zurückzuweisen.
+
+`§ 275 (2) ZPO.`  
+Die Aufnahme angebotener Beweise kann vom Gericht auf Antrag oder von Amts wegen verweigert werden, wenn bei sorgfältiger Berücksichtigung aller Umstände kein vernünftiger Zweifel darüber besteht, daß durch das Beweisanbot der Prozeß verschleppt werden soll, und die Aufnahme der Beweise die Erledigung des Prozesses erheblich verzögern würde.
+----
+
+----
+### § 276 ZPO # 
+
+`§ 276 (1) ZPO.`  
+Die Beweise, die das Gericht für erheblich hält, sind im Lauf der Verhandlung vor dem erkennenden Gericht aufzunehmen, sofern nicht das Gericht gemäß den Bestimmungen dieses Gesetzes eine Beweisaufnahme außerhalb der Verhandlungstagsatzung anordnet.
+
+`§ 276 (2) ZPO.`  
+Wird die Aufnahme eines Beweises außerhalb der Verhandlungstagsatzung durch einen beauftragten oder ersuchten Richter nothwendig, so ist vom Processgerichte das Erforderliche zu verfügen.
+----
+
+----
+### § 277 ZPO # Verwendung technischer Einrichtungen zur Wort- und Bildübertragung bei der Beweisaufnahme
+
+`§ 277 ZPO.`  
+Das Gericht hat nach Maßgabe der technischen Möglichkeiten statt der Einvernahme durch einen ersuchten Richter eine unmittelbare Beweisaufnahme unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung durchzuführen, es sei denn, die Einvernahme durch einen beauftragten oder ersuchten Richter ist unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder aus besonderen Gründen erforderlich.
+----
+
+----
+### § 278 ZPO # 
+
+`§ 278 (1) ZPO.`  
+Alle nicht sogleich bei der Verhandlung selbst ausführbaren und insbesondere die außerhalb der Verhandlungstagsatzung durch einen beauftragten oder ersuchten Richter vorzunehmenden Beweisaufnahmen sind, sofern nicht die Umstände einen anderen Vorgang nothwendig machen oder dem Gerichte zweckmäßig erscheinen lassen, erst nach vollständiger Erörterung des Sachverhaltes anzuordnen.
+
+`§ 278 (2) ZPO.`  
+Behufs Erörterung der Ergebnisse solcher Beweisaufnahmen ist nach deren Vollendung, wenn nicht die Voraussetzungen des §. 193 Absatz 3, vorliegen, die Verhandlung vor dem erkennenden Gerichte von amtswegen wieder aufzunehmen.
+----
+
+----
+### § 279 ZPO # 
+
+`§ 279 (1) ZPO.`  
+Steht der Aufnahme des Beweises ein Hindernis von ungewisser Dauer entgegen, ist die Ausführbarkeit einer Beweisaufnahme zweifelhaft, oder soll die Beweisaufnahme außerhalb des Geltungsgebietes dieses Gesetzes erfolgen, so hat das Gericht auf Antrag eine Frist zu bestimmen, nach deren fruchtlosem Ablauf die Verhandlung auf Begehren einer der Parteien ohne Rücksicht auf die ausstehende Beweisaufnahme fortgesetzt wird.
+
+`§ 279 (2) ZPO.`  
+Bei der fortgesetzten mündlichen Verhandlung kann dann dieser Beweis nur benützt werden, wenn dadurch das Verfahren nicht verzögert wird.
+----
+
+----
+### § 280 ZPO # 
+
+`§ 280 (1) ZPO.`  
+Das Processgericht kann auf Antrag gestatten, dass die Beweisaufnahme von einem oder mehreren beeideten Stenographen aufgezeichnet werde. Ein Stenograph, welcher nicht im allgemeinen für diese Aufgabe beeidet ist, hat einen Eid dahin zu leisten, dass er das mündlich Vorgebrachte treu aufzeichnen und das Aufgezeichnete richtig übertragen werde. Die Beeidigung entfällt, wenn ein gerichtlicher Beamter als Stenograph bestellt wird.
+
+`§ 280 (2) ZPO.`  
+Die Bestellung der Stenographen erfolgt auf Vorschlag des Antragstellers durch den Vorsitzenden.
+
+`§ 280 (3) ZPO.`  
+Die Übertragung der stenographischen Aufzeichnung in gewöhnliche Schrift ist binnen achtundvierzig Stunden nach der Aufzeichnung dem Vorsitzenden oder dem mit der Beweisaufnahme betrauten Richter zu übergeben und den Acten beizulegen.
+
+`§ 280 (4) ZPO.`  
+Sofern die stenographische Aufzeichnung nicht von beiden Parteien übereinstimmend beantragt wird, hat die antragstellende Partei sämmtliche dadurch verursachten Kosten zu bestreiten, ohne selbst für den Fall ihres Sieges Anspruch auf Erstattung dieser Kosten erheben zu können.
+----
+
+----
+### § 281 ZPO # 
+
+`§ 281 (1) ZPO.`  
+Wenn zum Zwecke einer vor dem erkennenden Gerichte erfolgenden Beweisaufnahme eine Tagsatzung erstreckt werden muss, ist die Tagsatzung, in welcher die Beweisaufnahme stattfinden soll, zugleich zur Fortsetzung der mündlichen Verhandlung zu bestimmen.
+
+`§ 281 (2) ZPO.`  
+Muss jedoch die Beweisaufnahme durch einen beauftragten oder ersuchten Richter geschehen und lässt sich der Zeitpunkt der Beendigung derselben nicht mit Sicherheit bestimmen, so ist die Tagsatzung zur Fortsetzung der mündlichen Verhandlung vor dem erkennenden Gerichte nach dem Einlangen der Beweisaufnahme-Acten und Protokolle durch den Vorsitzenden von amtswegen anzuberaumen und den Parteien bekannt zu geben.
+----
+
+----
+### § 281a ZPO
+
+`§ 281a ZPO.`  
+Ist über streitige Tatsachen bereits in einem gerichtlichen Verfahren ein Beweis aufgenommen worden, so kann das Protokoll hierüber oder ein schriftliches Sachverständigengutachten als Beweismittel verwendet und von einer neuerlichen Beweisaufnahme Abstand genommen werden, wenn  
+`§ 281a Z 1 ZPO.`
+die Parteien an diesem gerichtlichen Verfahren beteiligt waren und  
+`§ 281a Z 1 undefined ZPO.`
+nicht eine der Parteien ausdrücklich das Gegenteil beantragt oder  
+`§ 281a Z 1 undefined ZPO.`
+das Beweismittel nicht mehr zur Verfügung steht;  
+`§ 281a Z 2 ZPO.`
+die an diesem gerichtlichen Verfahren nicht beteiligt gewesenen Parteien dem ausdrücklich zustimmen.
+----
+
+`END-OF-DATA-SET`

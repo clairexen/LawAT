@@ -1,291 +1,443 @@
 # BG.StGB.013 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StGB  
+**Kurztitel:** ['StGB']  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.013.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StGB.012](BG.StGB.012.md))*
+Der Nationalrat hat beschlossen:
 
-## Dreiundzwanzigster Abschnitt # Amtsanmaßung und Erschleichung eines Amtes
+----
+## Zwölfter Abschnitt # Strafbare Handlungen gegen die Zuverlässigkeit von Urkunden und Beweiszeichen
 
-### § 314 StGB # Amtsanmaßung
+### § 223 StGB # Urkundenfälschung
 
-`§ 314 StGB.`  
-Wer sich die Ausübung eines öffentlichen Amtes anmaßt oder, ohne dazu befugt zu sein, eine Handlung vornimmt, die nur kraft eines öffentlichen Amtes vorgenommen werden darf, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+`§ 223 (1) StGB.`  
+Wer eine falsche Urkunde mit dem Vorsatz herstellt oder eine echte Urkunde mit dem Vorsatz verfälscht, daß sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
-### § 315 StGB # Erschleichung eines Amtes
+`§ 223 (2) StGB.`  
+Ebenso ist zu bestrafen, wer eine falsche oder verfälschte Urkunde im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht.
+----
 
-`§ 315 StGB.`  
-Wer wissentlich eine zur Übertragung eines öffentlichen Amtes berufene Stelle über eine Tatsache täuscht, die nach einem Gesetz oder einer Rechtsverordnung die Übertragung eines bestimmten öffentlichen Amtes ausschließen würde, und dadurch bewirkt, daß ihm dieses Amt übertragen wird, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+----
+### § 224 StGB # Fälschung besonders geschützter Urkunden
 
-## Vierundzwanzigster Abschnitt # Störung der Beziehungen zum Ausland
+`§ 224 StGB.`  
+Wer eine der im § 223 mit Strafe bedrohten Handlungen in Beziehung auf eine inländische öffentliche Urkunde, eine ausländische öffentliche Urkunde, wenn sie durch Gesetz oder zwischenstaatlichen Vertrag inländischen öffentlichen Urkunden gleichgestellt ist, eine letztwillige Verfügung oder ein nicht im § 237 genanntes Wertpapier begeht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+----
 
-### § 316 StGB # Hochverräterische Angriffe gegen einen fremden Staat
+----
+### § 224a StGB # Annahme, Weitergabe oder Besitz falscher oder verfälschter besonders geschützter Urkunden
 
-`§ 316 (1) StGB.`  
-Wer es im Inland unternimmt (§ 242 Abs. 2), mit Gewalt oder durch Drohung mit Gewalt die Verfassung eines fremden Staates zu ändern oder ein zu einem fremden Staat gehörendes Gebiet abzutrennen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+`§ 224a StGB.`  
+Wer eine falsche oder verfälschte besonders geschützte Urkunde (§ 224) mit dem Vorsatz, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+----
 
-`§ 316 (2) StGB.`  
-§ 243 gilt entsprechend.
+----
+### § 225 StGB # Fälschung öffentlicher Beglaubigungszeichen
 
-### § 317 StGB # Herabwürdigung fremder Symbole
+`§ 225 (1) StGB.`  
+Wer an einer Sache ein öffentliches Beglaubigungszeichen nachmacht oder verfälscht, einem öffentlichen Beglaubigungszeichen eine andere Sache unterschiebt oder eine mit einem solchen Zeichen versehene Sache wesentlich verändert, ist, wenn er mit dem Vorsatz handelt, daß die Sache im Rechtsverkehr gebraucht werde, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
-`§ 317 StGB.`  
-Wer auf eine Art, daß die Tat einer breiten Öffentlichkeit bekannt wird, in gehässiger Weise eine Fahne oder ein Hoheitszeichen eines fremden Staates oder einer zwischenstaatlichen Einrichtung, die von einer inländischen Behörde oder von einer Vertretung des fremden Staates oder der zwischenstaatlichen Einrichtung nach den allgemeinen Regeln des Völkerrechts oder nach zwischenstaatlichen Vereinbarungen angebracht worden ist, oder die bei einem öffentlichen Anlaß vorgetragene Hymne eines fremden Staates beschimpft, verächtlich macht oder sonst herabwürdigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+`§ 225 (2) StGB.`  
+Ebenso ist zu bestrafen, wer eine mit einem nachgemachten oder verfälschten öffentlichen Beglaubigungszeichen versehene, eine einem öffentlichen Beglaubigungszeichen unterschobene oder eine nach der Anbringung eines solchen Zeichens wesentlich veränderte Sache im Rechtsverkehr gebraucht.
 
-### § 318 StGB # Voraussetzungen der Bestrafung
+`§ 225 (3) StGB.`  
+Als öffentliches Beglaubigungszeichen gilt jedes Zeichen, das ein Beamter innerhalb seiner Amtsbefugnisse oder eine mit öffentlichem Glauben versehene Person innerhalb des ihr zugewiesenen Geschäftskreises an einer Sache in der vorgeschriebenen Form angebracht hat, um eine auf die Sache bezügliche Tatsache zu bestätigen.
+----
 
-`§ 318 (1) StGB.`  
-Der Täter ist in den Fällen der §§ 316 und 317 nur mit Ermächtigung der Bundesregierung zu verfolgen.
+----
+### § 225a StGB # Datenfälschung
 
-`§ 318 (2) StGB.`  
-Die Bestimmungen der §§ 316 und 317 sind nur anzuwenden, wenn die Republik Österreich zu dem verletzten Staat diplomatische Beziehungen unterhält und die Gegenseitigkeit nach Mitteilung des Bundesministeriums für auswärtige Angelegenheiten verbürgt ist.
+`§ 225a StGB.`  
+Wer durch Eingabe, Veränderung, Löschung oder Unterdrückung von Daten falsche Daten mit dem Vorsatz herstellt oder echte Daten mit dem Vorsatz verfälscht, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werden, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+----
 
-`§ 318 (3) StGB.`  
-Wegen der im § 317 mit Strafe bedrohten Handlungen gegen eine zwischenstaatliche Einrichtung ist der Täter nur zu bestrafen, wenn die Republik Österreich dieser Einrichtung angehört.
+----
+### § 226 StGB # Tätige Reue
 
-### § 319 StGB # Militärischer Nachrichtendienst für einen fremden Staat
+`§ 226 (1) StGB.`  
+Nach den §§ 223 bis 225a ist nicht zu bestrafen, wer freiwillig, bevor die falsche oder verfälschte Urkunde, die mit dem nachgemachten oder verfälschten öffentlichen Beglaubigungszeichen versehene oder die einem öffentlichen Beglaubigungszeichen unterschobene oder die nach Anbringung eines solchen Zeichens wesentlich veränderte Sache oder die falschen oder verfälschten Daten im Rechtsverkehr gebraucht worden sind, durch Vernichtung der Urkunde, des Beglaubigungszeichens oder der Daten oder auf andere Art die Gefahr beseitigt, dass die Urkunde, die Sache oder die Daten in der in den §§ 223 bis 225a bezeichneten Weise gebraucht werden.
 
-`§ 319 StGB.`  
-Wer im Inland für eine fremde Macht oder eine über- oder zwischenstaatliche Einrichtung einen militärischen Nachrichtendienst einrichtet oder betreibt oder einen solchen Nachrichtendienst wie immer unterstützt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+`§ 226 (2) StGB.`  
+Besteht die Gefahr eines solchen Gebrauches nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen.
+----
 
-### § 320 StGB # Verbotene Unterstützung von Parteien bewaffneter Konflikte
+----
+### § 227 StGB # Vorbereitung der Fälschung öffentlicher Urkunden oder Beglaubigungszeichen
 
-`§ 320 (1) StGB.`  
-Wer wissentlich im Inland während eines Krieges oder eines bewaffneten Konfliktes, an denen die Republik Österreich nicht beteiligt ist, oder bei unmittelbar drohender Gefahr eines solchen Krieges oder Konfliktes für eine der Parteien  
-`§ 320 (1) Z 1 StGB.`
-eine militärische Formation oder ein Wasser-, ein Land- oder ein Luftfahrzeug einer der Parteien zur Teilnahme an den kriegerischen Unternehmungen ausrüstet oder bewaffnet,  
-`§ 320 (1) Z 2 StGB.`
-ein Freiwilligenkorps bildet oder unterhält oder eine Werbestelle hiefür oder für den Wehrdienst einer der Parteien errichtet oder betreibt,  
-`§ 320 (1) Z 3 StGB.`
-Kampfmittel entgegen den bestehenden Vorschriften aus dem Inland ausführt oder durch das Inland durchführt,  
-`§ 320 (1) Z 4 StGB.`
-für militärische Zwecke einen Finanzkredit gewährt oder eine öffentliche Sammlung veranstaltet oder  
-`§ 320 (1) Z 5 StGB.`
-unbefugt eine militärische Nachricht übermittelt oder zu diesem Zweck eine Fernmeldeanlage errichtet oder gebraucht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+`§ 227 (1) StGB.`  
+Wer mit dem Vorsatz, sich oder einem anderen eine Urkundenfälschung in Beziehung auf eine inländische öffentliche Urkunde oder eine ausländische öffentliche Urkunde, wenn sie durch Gesetz oder zwischenstaatlichen Vertrag inländischen öffentlichen Urkunden gleichgestellt ist (§ 224), oder eine Fälschung öffentlicher Beglaubigungszeichen (§ 225) zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
-`§ 320 (2) StGB.`  
-Abs. 1 ist in den Fällen nicht anzuwenden, in denen  
-`§ 320 (2) Z 1 StGB.`
-ein Beschluss des Sicherheitsrates der Vereinten Nationen,  
-`§ 320 (2) Z 2 StGB.`
-ein Beschluss auf Grund des Titels V des Vertrages über die Europäische Union,  
-`§ 320 (2) Z 3 StGB.`
-ein Beschluss im Rahmen der Organisation für Sicherheit und Zusammenarbeit in Europa (OSZE) oder  
-`§ 320 (2) Z 4 StGB.`
-eine sonstige Friedensoperation entsprechend den Grundsätzen der Satzung der Vereinten Nationen, wie etwa Maßnahmen zur Abwendung einer humanitären Katastrophe oder zur Unterbindung schwerer und systematischer Menschenrechtsverletzungen, im Rahmen einer internationalen Organisation  
-durchgeführt wird.
+`§ 227 (2) StGB.`  
+Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig, bevor das Mittel oder Werkzeug zur Begehung einer der dort genannten strafbaren Handlungen gebraucht worden ist, durch dessen Vernichtung oder auf andere Art die Gefahr eines solchen Gebrauches beseitigt. § 226 Abs. 2 gilt entsprechend.
+----
 
-## Fünfundzwanzigster Abschnitt # Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen
+----
+### § 228 StGB # Mittelbare unrichtige Beurkundung oder Beglaubigung
 
-### § 321 StGB # Völkermord
+`§ 228 (1) StGB.`  
+Wer bewirkt, daß gutgläubig ein Recht, ein Rechtsverhältnis oder eine Tatsache in einer inländischen öffentlichen Urkunde unrichtig beurkundet oder an einer Sache ein unrichtiges öffentliches Beglaubigungszeichen angebracht wird, ist, wenn er mit dem Vorsatz handelt, daß die Urkunde im Rechtsverkehr zum Beweis des Rechtes, des Rechtsverhältnisses oder der Tatsache gebraucht werde oder die Sache im Rechtsverkehr gebraucht werde, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
-`§ 321 (1) StGB.`  
-Wer in der Absicht, eine durch ihre Zugehörigkeit zu einer Kirche oder Religionsgesellschaft, zu einer Rasse, einem Volk, einem Volksstamm oder einem Staat bestimmte Gruppe als solche ganz oder teilweise zu vernichten, Mitglieder der Gruppe tötet, ihnen schwere körperliche (§ 84 Abs. 1) oder seelische Schäden zufügt, die Gruppe Lebensbedingungen unterwirft, die geeignet sind, den Tod aller Mitglieder oder eines Teiles der Gruppe herbeizuführen, Maßnahmen verhängt, die auf die Geburtenverhinderung innerhalb der Gruppe gerichtet sind, oder Kinder der Gruppe mit Gewalt oder durch Drohung mit Gewalt in eine andere Gruppe überführt, ist mit lebenslanger Freiheitsstrafe zu bestrafen.
+`§ 228 (2) StGB.`  
+Ebenso ist zu bestrafen, wer eine gutgläubig hergestellte unrichtige inländische öffentliche Urkunde, deren Unrichtigkeit von ihm oder einem Dritten vorsätzlich bewirkt wurde, im Rechtsverkehr zum Beweis des Rechtes, des Rechtsverhältnisses oder der Tatsache gebraucht, oder wer eine Sache, die gutgläubig mit einem unrichtigen öffentlichen Beglaubigungszeichen versehen wurde, dessen unrichtige Anbringung von ihm oder einem Dritten vorsätzlich bewirkt wurde, im Rechtsverkehr gebraucht.
 
-`§ 321 (2) StGB.`  
-Wer mit einem anderen die gemeinsame Ausführung einer der im Abs. 1 bezeichneten strafbaren Handlungen verabredet, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+`§ 228 (3) StGB.`  
+§ 226 gilt entsprechend.
+----
 
-### § 321a StGB # Verbrechen gegen die Menschlichkeit
+----
+### § 229 StGB # Urkundenunterdrückung
 
-`§ 321a (1) StGB.`  
-Wer im Rahmen eines ausgedehnten oder systematischen Angriffs gegen eine Zivilbevölkerung  
-`§ 321a (1) Z 1 StGB.`
-eine Person tötet (§ 75) oder  
-`§ 321a (1) Z 2 StGB.`
-in der Absicht, eine Bevölkerung ganz oder teilweise zu vernichten, diese oder Teile hiervon unter Lebensbedingungen stellt, die geeignet sind, deren Vernichtung ganz oder teilweise herbeizuführen,  
-ist mit lebenslanger Freiheitsstrafe zu bestrafen.
+`§ 229 (1) StGB.`  
+Wer eine Urkunde, über die er nicht oder nicht allein verfügen darf, vernichtet, beschädigt oder unterdrückt, ist, wenn er mit dem Vorsatz handelt, zu verhindern, daß sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
-`§ 321a (2) StGB.`  
-Wer im Rahmen eines in Abs. 1 bezeichneten Angriffs Sklaverei (§ 104) treibt, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe, hat die Tat den Tod einer Person zur Folge, mit lebenslanger Freiheitsstrafe zu bestrafen.
+`§ 229 (2) StGB.`  
+Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig die Unterdrückung der Urkunde, bevor diese im Rechtsverkehr gebraucht werden sollte, rückgängig macht oder auf andere Art bewirkt, daß die Tat den Beweis, dem die Urkunde dienen sollte, nicht behindert.
+----
 
-`§ 321a (3) StGB.`  
-Wer im Rahmen eines in Abs.1 bezeichneten Angriffs  
-`§ 321a (3) Z 1 StGB.`
-Menschenhandel (§ 104a) ausübt,  
-`§ 321a (3) Z 2 StGB.`
-die Bevölkerung unter Verstoß gegen das Völkerrecht aus dem Gebiet, in dem sie sich rechtmäßig aufhält, vertreibt oder zwangsweise in ein anderes Gebiet überführt,  
-`§ 321a (3) Z 3 StGB.`
-einer Person, die sich in seinem Gewahrsam oder in sonstiger Weise unter seiner Kontrolle befindet, große körperliche oder seelische Schmerzen oder Leiden zufügt, sofern sich diese nicht lediglich aus einer rechtlich zulässigen Sanktion ergeben, dazu gehören oder damit verbunden sind,  
-`§ 321a (3) Z 4 StGB.`
-eine Person vergewaltigt (§ 201) oder geschlechtlich nötigt (§ 202), sie zur Prostitution nötigt (§ 106 Abs. 3), der Fortpflanzungsfähigkeit beraubt (§ 85 Z 1) oder in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen oder andere schwere Verstöße gegen das Völkerrecht zu begehen, eine unter Anwendung von Zwang geschwängerte Frau gefangen hält oder  
-`§ 321a (3) Z 5 StGB.`
-eine Person verschwinden lässt (§ 312b)  
-ist mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat den Tod einer Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
+----
+### § 230 StGB # Versetzung von Grenzzeichen
 
-`§ 321a (4) StGB.`  
-Wer im Rahmen eines in Abs. 1 bezeichneten Angriffs  
-`§ 321a (4) Z 1 StGB.`
-einer Person eine schwere Körperverletzung (§ 84 Abs. 1) zufügt,  
-`§ 321a (4) Z 2 StGB.`
-einer Person unter Verstoß gegen das Völkerrecht in schwerwiegender Weise die persönliche Freiheit entzieht oder  
-`§ 321a (4) Z 3 StGB.`
-eine identifizierbare Gruppe oder Gemeinschaft verfolgt, indem er ihr aus politischen, rassischen, nationalen, ethnischen, kulturellen oder religiösen Gründen, aus Gründen des Geschlechts oder aus anderen nach dem Völkerrecht als unzulässig anerkannten Gründen grundlegende Menschenrechte entzieht oder diese wesentlich einschränkt,  
-ist mit Freiheitsstrafe von einem bis zu zehn Jahren, hat die Tat den Tod einer Person zur Folge oder wird sie in der Absicht begangen, ein institutionalisiertes Regime der systematischen Unterdrückung und Beherrschung einer rassischen Gruppe durch eine andere aufrechtzuerhalten, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen.
+`§ 230 (1) StGB.`  
+Wer ein zur Bezeichnung der Grenze oder des Wasserstands bestimmtes Zeichen mit dem Vorsatz, ein Beweismittel für eine Tatsache von rechtlicher Bedeutung zu schaffen oder zu unterdrücken, unrichtig setzt, verrückt, beseitigt oder unkenntlich macht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
-### § 321b StGB # Kriegsverbrechen gegen Personen
+`§ 230 (2) StGB.`  
+Nach Abs. 1 ist nicht zu bestrafen, wer freiwillig das Zeichen, bevor es als Beweismittel herangezogen werden sollte oder herangezogen worden ist, berichtigt oder wiederherstellt oder auf andere Art bewirkt, daß die Tat den Beweis, dem das Zeichen dienen sollte, nicht behindert.
+----
 
-`§ 321b (1) StGB.`  
-Wer im Zusammenhang mit einem bewaffneten Konflikt eine nach dem humanitären Völkerrecht zu schützende Person tötet (§ 75), ist mit lebenslanger Freiheitsstrafe zu bestrafen.
+----
+### § 231 StGB # Gebrauch fremder Ausweise
 
-`§ 321b (2) StGB.`  
-Wer im Zusammenhang mit einem bewaffneten Konflikt eine nach dem humanitären Völkerrecht zu schützende Person als Geisel nimmt, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen, hat die Tat den Tod des Opfers zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe.
+`§ 231 (1) StGB.`  
+Wer einen amtlichen Ausweis, der für einen anderen ausgestellt ist, im Rechtsverkehr gebraucht, als wäre er für ihn ausgestellt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
-`§ 321b (3) StGB.`  
-Wer im Zusammenhang mit einem bewaffneten Konflikt  
-`§ 321b (3) Z 1 StGB.`
-einer nach dem humanitären Völkerrecht zu schützenden Person, die sich in seinem Gewahrsam oder in sonstiger Weise unter seiner Kontrolle befindet, große körperliche oder seelische Schmerzen oder Leiden zufügt, sofern sich diese nicht lediglich aus einer rechtlich zulässigen Sanktion ergeben, dazu gehören oder damit verbunden sind, oder  
-`§ 321b (3) Z 2 StGB.`
-eine nach dem humanitären Völkerrecht zu schützende Person vergewaltigt (§ 201) oder geschlechtlich nötigt (§ 202), sie zur Prostitution nötigt (§ 106 Abs. 3), der Fortpflanzungsfähigkeit beraubt (§ 85 Z 1) oder in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen, eine unter Anwendung von Zwang geschwängerte Frau gefangen hält,  
-ist mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat den Tod des Opfers zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
+`§ 231 (2) StGB.`  
+Ebenso ist zu bestrafen, wer einem anderen einen amtlichen Ausweis mit dem Vorsatz überläßt, daß er von einem Nichtberechtigten im Rechtsverkehr gebraucht werde, als wäre er für ihn ausgestellt.
 
-`§ 321b (4) StGB.`  
-Wer im Zusammenhang mit einem bewaffneten Konflikt  
-`§ 321b (4) Z 1 StGB.`
-einer nach dem humanitären Völkerrecht zu schützenden Person große körperliche oder seelische Qualen oder eine schwere Körperverletzung (§ 84 Abs. 1) zufügt,  
-`§ 321b (4) Z 2 StGB.`
-Personen unter 15 Jahren für Streitkräfte zwangsverpflichtet oder in diese eingliedert oder Personen unter 18 Jahren für bewaffnete Gruppen zwangsverpflichtet oder in diese eingliedert oder Personen unter 18 Jahren zur aktiven Teilnahme an Feindseligkeiten verwendet,  
-`§ 321b (4) Z 3 StGB.`
-die Gesamtheit oder einen Teil der Zivilbevölkerung vertreibt oder zwangsweise in ein anderes Gebiet überführt oder diese Vertreibung oder Überführung anordnet, sofern es sich nicht um eine vorübergehende Verlegung handelt, die im Hinblick auf die Sicherheit der betreffenden Zivilpersonen oder aus zwingenden militärischen Gründen geboten ist,  
-`§ 321b (4) Z 4 StGB.`
-gegen eine nach dem humanitären Völkerrecht zu schützende Person eine erhebliche Strafe verhängt oder vollstreckt, ohne dass diese Person in einem unparteiischen ordentlichen Gerichtsverfahren, das die völkerrechtlich erforderlichen Rechtsgarantien bietet, abgeurteilt worden ist,  
-`§ 321b (4) Z 5 StGB.`
-eine nach dem humanitären Völkerrecht zu schützende Person, die sich in der Gewalt einer anderen Konfliktpartei befindet, in die Gefahr des Todes oder einer schweren Gesundheitsschädigung bringt, indem er selbst mit deren Einwilligung  
-`§ 321b (4) Z 5 lit. a) StGB.`
-an einer solchen Person Versuche vornimmt, die weder medizinisch notwendig sind noch in ihrem Interesse durchgeführt werden,  
-`§ 321b (4) Z 5 lit. b) StGB.`
-einer solchen Person Gewebe oder Organe für Übertragungszwecke entnimmt, sofern es sich nicht um die Entnahme von Blut oder Haut zu therapeutischen Zwecken im Einklang mit den allgemein anerkannten medizinischen Grundsätzen handelt, in welche die Person zuvor freiwillig und ausdrücklich eingewilligt hat, oder  
-`§ 321b (4) Z 5 lit. c) StGB.`
-eine solche Person auf sonstige Weise einem medizinischen Verfahren unterzieht, das nicht durch ihren Gesundheitszustand geboten ist und das nicht mit den allgemein anerkannten medizinischen Grundsätzen im Einklang steht, oder  
-`§ 321b (4) Z 6 StGB.`
-eine nach dem humanitären Völkerrecht zu schützende Person in schwerwiegender Weise entwürdigend oder erniedrigend behandelt,  
-ist mit Freiheitsstrafe von einem bis zu zehn Jahren, hat die Tat den Tod des Opfers zur Folge, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen.
+`§ 231 (3) StGB.`  
+Nach Abs. 2 ist nicht zu bestrafen, wer freiwillig den Ausweis, bevor ihn ein Nichtberechtigter im Rechtsverkehr gebraucht hat, zurücknimmt oder auf andere Art die Gefahr beseitigt, daß der amtliche Ausweis in der im Abs. 2 bezeichneten Weise gebraucht werde.
+----
 
-`§ 321b (5) StGB.`  
-Wer im Zusammenhang mit einem internationalen bewaffneten Konflikt  
-`§ 321b (5) Z 1 StGB.`
-eine nach dem humanitären Völkerrecht zu schützende Person widerrechtlich verschleppt oder gefangenhält (§ 99) oder ihre Heimschaffung ungerechtfertigt verzögert,  
-`§ 321b (5) Z 2 StGB.`
-als Angehöriger einer Besatzungsmacht einen Teil der eigenen Zivilbevölkerung in das besetzte Gebiet überführt oder die Gesamtheit oder einen Teil der Bevölkerung des besetzten Gebiets innerhalb desselben oder aus diesem Gebiet vertreibt oder überführt,  
-`§ 321b (5) Z 3 StGB.`
-eine nach dem humanitären Völkerrecht zu schützende Person zum Dienst in den Streitkräften einer feindlichen Macht nötigt (§ 105) oder  
-`§ 321b (5) Z 4 StGB.`
-einen Angehörigen der gegnerischen Partei nötigt (§ 105), an Kriegshandlungen gegen sein eigenes Land teilzunehmen,  
-ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+----
+## Dreizehnter Abschnitt # Strafbare Handlungen gegen die Sicherheit des Verkehrs mit Geld, Wertpapieren, Wertzeichen und unbaren Zahlungsmitteln
 
-`§ 321b (6) StGB.`  
-Nach dem humanitären Völkerrecht zu schützende Personen sind geschützte Personen im Sinne der Genfer Abkommen zum Schutze der Opfer des Krieges, BGBl. Nr. 155/1953, und deren Zusatzprotokolle I und II (Zusatzprotokoll zu den Genfer Abkommen über den Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I) samt Anhängen und Zusatzprotokoll zu den Genfer Abkommen über den Schutz der Opfer nicht internationaler bewaffneter Konflikte (Protokoll II) samt Erklärung und Vorbehalten, BGBl. Nr. 527/1982) insbesondere Verwundete, Kranke, Schiffbrüchige, Angehörige der Streitkräfte und Kämpfer der gegnerischen Partei, die sich bedingungslos ergeben haben oder sonst außer Gefecht sind, Kriegsgefangene und Zivilpersonen, sofern und solange letztere nicht unmittelbar an Feindseligkeiten teilnehmen.
+### § 232 StGB # Geldfälschung
 
-### § 321c StGB # Kriegsverbrechen gegen Eigentum und sonstige Rechte
+`§ 232 (1) StGB.`  
+Wer Geld mit dem Vorsatz nachmacht oder verfälscht, daß es als echt und unverfälscht in Verkehr gebracht werde, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
-`§ 321c StGB.`  
-Wer im Zusammenhang mit einem bewaffneten Konflikt  
-`§ 321c Z 1 StGB.`
-plündert oder, ohne dass dies durch die Erfordernisse des bewaffneten Konflikts geboten ist, sonst in erheblichem Umfang völkerrechtswidrig Sachen der gegnerischen Partei oder von deren Angehörigen zerstört, sich aneignet oder beschlagnahmt,  
-`§ 321c Z 2 StGB.`
-Kulturgut im Sinne der Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten, BGBl. Nr. 58/1964, in großem Ausmaß zerstört oder sich aneignet, oder  
-`§ 321c Z 3 StGB.`
-völkerrechtswidrig anordnet, dass Rechte und Forderungen aller oder eines Teils der Angehörigen der gegnerischen Partei aufgehoben oder ausgesetzt werden oder vor Gericht nicht einklagbar sind,  
-ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+`§ 232 (2) StGB.`  
+Ebenso ist zu bestrafen, wer solches nachgemachtes oder verfälschtes Geld im Einverständnis mit einem an der Fälschung Beteiligten (§ 12) oder einem Mittelsmann mit dem Vorsatz übernimmt, es als echt und unverfälscht in Verkehr zu bringen.
 
-### § 321d StGB # Kriegsverbrechen gegen internationale Missionen und Missbrauch von Schutz- und Nationalitätszeichen
+`§ 232 (3) StGB.`  
+Als Nachmachen von Geld gilt auch die Herstellung unter Nutzung der zur rechtmäßigen Herstellung bestimmten Einrichtungen oder Materialien, jedoch unter Missachtung der Rechte oder der Bedingungen, nach denen die zuständigen Stellen zur Geldausgabe befugt sind, und ohne die Zustimmung dieser Stellen.
+----
 
-`§ 321d (1) StGB.`  
-Wer im Zusammenhang mit einem bewaffneten Konflikt  
-`§ 321d (1) Z 1 StGB.`
-einen Angriff gegen Personen, Einrichtungen, Material, Einheiten oder Fahrzeuge richtet, die an einer humanitären Hilfsmission oder an einer friedenssichernden Mission in Übereinstimmung mit der Satzung der Vereinten Nationen beteiligt sind, solange sie Anspruch auf den Schutz haben, der Zivilpersonen oder zivilen Objekten nach dem humanitären Völkerrecht gewährt wird, oder  
-`§ 321d (1) Z 2 StGB.`
-einen Angriff gegen Personen, Gebäude, Material, Sanitätseinheiten oder Sanitätstransportmittel richtet, die in Übereinstimmung mit dem humanitären Völkerrecht mit den Schutzzeichen der Genfer Abkommen zum Schutze der Opfer des Krieges oder deren Zusatzprotokolle I und II (Zusatzprotokoll zu den Genfer Abkommen über den Schutz der Opfer internationaler bewaffneter Konflikte - Protokoll I samt Anhängen und Zusatzprotokoll zu den Genfer Abkommen über den Schutz der Opfer nicht internationaler bewaffneter Konflikte - Protokoll II samt Erklärung und Vorbehalten) sowie des Zusatzprotokolls zu den Genfer Abkommen vom 12. August 1949 über die Annahme eines zusätzlichen Schutzzeichens (Protokoll III), BGBl. III Nr. 137/2009, gekennzeichnet sind,  
-ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+----
+### § 233 StGB # Weitergabe und Besitz nachgemachten oder verfälschten Geldes
 
-`§ 321d (2) StGB.`  
-Wer im Zusammenhang mit einem bewaffneten Konflikt die durch die Genfer Abkommen zum Schutze der Opfer des Krieges oder deren Protokoll III anerkannten Schutzzeichen, die Parlamentärflagge oder die Flagge, die militärischen Abzeichen oder die Uniform des Feindes, neutraler oder anderer nicht am Konflikt beteiligter Staaten, oder der Vereinten Nationen missbraucht und dadurch die schwere Verletzung einer Person (§ 84 Abs. 1) verursacht, ist mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat den Tod einer Person zu Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
+`§ 233 (1) StGB.`  
+Wer nachgemachtes oder verfälschtes Geld  
+`§ 233 (1) Z 1 StGB.`
+mit dem Vorsatz, dass es als echt und unverfälscht ausgegeben werde, einführt, ausführt, befördert, außer dem im § 232 Abs. 2 genannten Fall von einem anderen übernimmt, sich sonst verschafft oder besitzt oder  
+`§ 233 (1) Z 2 StGB.`
+als echt und unverfälscht ausgibt,  
+ist mit Freiheitsstrafe bis zu fünf Jahren zu bestrafen.
 
-### § 321e StGB # Kriegsverbrechen des Einsatzes verbotener Methoden der Kriegsführung
+`§ 233 (2) StGB.`  
+Wer die Tat an nachgemachtem oder verfälschtem Geld im Nennwert von mehr als 300 000 Euro begeht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+----
 
-`§ 321e (1) StGB.`  
-Wer im Zusammenhang mit einem bewaffneten Konflikt  
-`§ 321e (1) Z 1 StGB.`
-einen Angriff gegen die Zivilbevölkerung als solche oder gegen einzelne Zivilpersonen richtet, die an den Feindseligkeiten nicht unmittelbar teilnehmen,  
-`§ 321e (1) Z 2 StGB.`
-einen Angriff gegen zivile Objekte, einschließlich Kulturgut, richtet, solange sie durch das humanitäre Völkerrecht als solche geschützt sind,  
-`§ 321e (1) Z 3 StGB.`
-einen Angriff auf unverteidigte Orte oder entmilitarisierte Zonen durchführt,  
-`§ 321e (1) Z 4 StGB.`
-Kulturgut unter verstärktem Schutz oder dessen unmittelbare Umgebung zur Unterstützung militärischer Handlungen verwendet,  
-`§ 321e (1) Z 5 StGB.`
-einen Angriff durchführt, wobei er weiß (§ 5 Abs. 3), dass der Angriff die Tötung oder Verletzung von Zivilpersonen oder die Beschädigung ziviler Objekte in einem Ausmaß verursachen wird, das in keinem Verhältnis zu dem insgesamt erwarteten konkreten und unmittelbaren militärischen Vorteil steht,  
-`§ 321e (1) Z 6 StGB.`
-einen Angriff gegen Staudämme, Deiche und Kernkraftwerke richtet, sofern sie nicht zivile Objekte im Sinne der Z 2 sind, in Kenntnis davon, dass der Angriff die Tötung oder Verletzung von Zivilpersonen oder die Beschädigung ziviler Objekte in einem Ausmaß verursachen wird, das in keinem Verhältnis zu dem insgesamt erwarteten konkreten und unmittelbaren militärischen Vorteil steht,  
-`§ 321e (1) Z 7 StGB.`
-einen Angriff durchführt, in Kenntnis davon, dass der Angriff weitreichende, langfristige und schwere Schäden an der natürlichen Umwelt verursachen wird,  
-`§ 321e (1) Z 8 StGB.`
-eine nach dem humanitären Völkerrecht zu schützende Person (§ 321b Abs. 6) als Schutzschild benutzt, um den Gegner von Kriegshandlungen gegen bestimmte Ziele abzuhalten,  
-`§ 321e (1) Z 9 StGB.`
-das Aushungern von Zivilpersonen als Methode der Kriegsführung einsetzt, indem er ihnen die für sie lebensnotwendigen Gegenstände vorenthält oder Hilfslieferungen unter Verstoß gegen das humanitäre Völkerrecht behindert,  
-`§ 321e (1) Z 10 StGB.`
-als Vorgesetzter (§ 321g Abs. 2) einem Untergebenen, der seiner tatsächlichen Befehls- oder Führungsgewalt und Kontrolle untersteht, anordnet oder erklärt, dass kein Pardon gegeben wird, oder  
-`§ 321e (1) Z 11 StGB.`
-einen Angehörigen der gegnerischen Streitkräfte oder einen Kämpfer der gegnerischen Partei heimtückisch tötet oder verwundet,  
-ist in den Fällen der Z 1 bis 10 mit Freiheitsstrafe von einem bis zu zehn Jahren und im Fall der Z 11 mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen.
+----
+### § 234 StGB # Verringerung von Geldmünzen und Weitergabe verringerter Geldmünzen
 
-`§ 321e (2) StGB.`  
-Hat eine Tat nach Abs. 1 Z 1 bis 10 die schwere Verletzung (§ 84 Abs. 1) einer nach dem humanitären Völkerrecht zu schützenden Person (§ 321b Abs. 6) zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie den Tod einer solchen Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
+`§ 234 (1) StGB.`  
+Wer eine Geldmünze mit dem Vorsatz verringert, daß sie als vollwertig ausgegeben werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
-### § 321f StGB # Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung
+`§ 234 (2) StGB.`  
+Wer eine verringerte Geldmünze  
+`§ 234 (2) Z 1 StGB.`
+mit dem Vorsatz, daß sie als vollwertig ausgegeben werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder  
+`§ 234 (2) Z 2 StGB.`
+als vollwertig ausgibt,  
+ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen. Wer die Tat an verringerten Geldmünzen begeht, deren Nennwert 300 000 Euro übersteigt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+----
 
-`§ 321f (1) StGB.`  
-Wer im Zusammenhang mit einem bewaffneten Konflikt  
-`§ 321f (1) Z 1 StGB.`
-Gift oder vergiftete Kampfmittel verwendet,  
-`§ 321f (1) Z 2 StGB.`
-biologische oder chemische Kampfmittel verwendet oder  
-`§ 321f (1) Z 3 StGB.`
-Geschosse verwendet, die sich leicht im Körper des Menschen ausdehnen oder flachdrücken, insbesondere Geschosse mit einem harten Mantel, der den Kern nicht ganz umschließt oder mit Einschnitten versehen ist,  
-ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+----
+### § 235 StGB # Ansichbringen, Verheimlichen oder Verhandeln des Münzabfalls
 
-`§ 321f (2) StGB.`  
-Hat die Tat die schwere Körperverletzung einer Person (§ 84 Abs. 1) zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie den Tod einer Person zur Folge oder sind die verwendeten Mittel (Abs. 1) zur Massenvernichtung bestimmt und geeignet, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
+`§ 235 StGB.`  
+Wer das von einem anderen durch die Verringerung von Geldmünzen (§ 234 Abs. 1) gewonnene Metall kauft, zum Pfand nimmt oder sonst an sich bringt, verheimlicht oder verhandelt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+----
 
-### § 321g StGB # Verantwortlichkeit als Vorgesetzter
+----
+### § 236 StGB # Weitergabe von Falschgeld oder verringerten Geldmünzen
 
-`§ 321g (1) StGB.`  
-Wer es als Vorgesetzter (Abs. 2) unterlässt, einen Untergebenen, der seiner tatsächlichen Befehls- oder Führungsgewalt und Kontrolle untersteht, daran zu hindern, eine Tat nach diesem Abschnitt zu begehen, ist wie ein Täter der von dem Untergebenen begangenen Tat zu bestrafen.
+`§ 236 (1) StGB.`  
+Wer nachgemachtes oder verfälschtes Geld oder eine verringerte Geldmünze als echt und unverfälscht oder als vollwertig weitergibt, ist, wenn er oder ein anderer für ihn das Geld oder die Münze gutgläubig als echt und unverfälscht oder als vollwertig empfangen hat, ohne sich dadurch strafbar zu machen, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
-`§ 321g (2) StGB.`  
-Vorgesetzte sind militärische oder zivile Vorgesetzte sowie Personen, die ohne militärischer oder ziviler Vorgesetzter zu sein, in einer Truppe, in einer zivilen Organisation oder in einem Unternehmen tatsächliche Führungsgewalt und Kontrolle ausüben.
+`§ 236 (2) StGB.`  
+Ebenso ist zu bestrafen, wer eine der im Abs. 1 genannten Handlungen für einen anderen begeht, der, ohne sich dadurch strafbar zu machen, das Geld oder die Münze gutgläubig als echt und unverfälscht oder als vollwertig empfangen hat.
+----
 
-### § 321h StGB # Verletzung der Aufsichtspflicht
+----
+### § 237 StGB # Fälschung besonders geschützter Wertpapiere
 
-`§ 321h (1) StGB.`  
-Ein Vorgesetzter (§ 321g Abs. 2), der es unterlässt, einen Untergebenen, der seiner tatsächlichen Befehls- oder Führungsgewalt und Kontrolle untersteht, gehörig zu beaufsichtigen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen, wenn der Untergebene eine Tat nach diesem Abschnitt begeht, deren Bevorstehen dem Vorgesetzten erkennbar war und die er hätte verhindern können.
+`§ 237 StGB.`  
+Nach den §§ 232, 233 oder 236 ist auch zu bestrafen, wer eine der dort mit Strafe bedrohten Handlungen in Beziehung auf Banknoten oder Geldmünzen, die nicht gesetzliche Zahlungsmittel sind, Pfandbriefe, Teilschuldverschreibungen, Aktien oder sonstige Anteilscheine, Zins-, Genuß-, Gewinnanteil- oder Erneuerungsscheine begeht, sofern diese Wertpapiere auf Inhaber lauten.
+----
 
-`§ 321h (2) StGB.`  
-Wer als Vorgesetzter (§ 321g Abs. 2) eine im Abs. 1 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+----
+### § 238 StGB # Wertzeichenfälschung
 
-### § 321i StGB # Unterlassen der Meldung einer Straftat
+`§ 238 (1) StGB.`  
+Wer ein amtliches Wertzeichen mit dem Vorsatz nachmacht oder verfälscht, daß es als echt und unverfälscht verwertet werde, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
-`§ 321i StGB.`  
-Ein Vorgesetzter (§ 321g Abs. 2), der es unterlässt, eine Tat nach diesem Abschnitt, die ein Untergebener begangen hat, unverzüglich den für die Untersuchung oder Verfolgung solcher Taten zuständigen Stellen zur Kenntnis zu bringen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+`§ 238 (2) StGB.`  
+Wer ein solches nachgemachtes oder verfälschtes Wertzeichen  
+`§ 238 (2) Z 1 StGB.`
+mit dem Vorsatz, daß es als echt und unverfälscht verwertet werde, von einem anderen übernimmt oder sich auf andere Weise verschafft oder  
+`§ 238 (2) Z 2 StGB.`
+als echt und unverfälscht verwertet,  
+ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
 
-### § 321j StGB # Handeln auf Befehl oder sonstige Anordnung
+`§ 238 (3) StGB.`  
+Als amtliche Wertzeichen gelten auch amtliche Stempelabdrücke, durch die die Entrichtung einer Gebühr oder sonst einer Abgabe bescheinigt wird.
 
-`§ 321j StGB.`  
-Der Täter ist wegen einer Tat nach den §§ 321b bis 321i nicht zu bestrafen, wenn er die Tat in Ausführung eines militärischen Befehls oder einer sonstigen Anordnung von vergleichbarer Bindungswirkung begeht, sofern der Täter nicht erkennt, dass der Befehl oder die Anordnung rechtswidrig ist und deren Rechtswidrigkeit auch nicht offensichtlich ist.
+`§ 238 (4) StGB.`  
+Die Wiederverwendung eines schon verwendeten amtlichen Wertzeichens und die Entfernung des Entwertungsstempels von einem schon verwendeten amtlichen Wertzeichen sind gerichtlich nicht strafbar.
+----
 
-### § 321k StGB # Verbrechen der Aggression
+----
+### § 239 StGB # Vorbereitung einer Geld-, Wertpapier- oder Wertzeichenfälschung
 
-`§ 321k (1) StGB.`  
-Wer tatsächlich in der Lage ist, das politische oder militärische Handeln eines Staates zu kontrollieren oder zu lenken, und eine Angriffshandlung, die ihrer Art, ihrer Schwere und ihrem Umfang nach eine offenkundige Verletzung der Satzung der Vereinten Nationen darstellt, einleitet oder ausführt, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
+`§ 239 StGB.`  
+Wer mit dem Vorsatz, sich oder einem anderen die Begehung einer der nach den §§ 232, 234, 237 oder 238 mit Strafe bedrohten Handlungen zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, ein Hologramm oder einen anderen der Sicherung gegen Fälschung dienenden Bestandteil von Geld, eines besonders geschützten Wertpapieres oder eines amtlichen Wertzeichens anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+----
 
-`§ 321k (2) StGB.`  
-Wer unter den in Abs. 1 bezeichneten Voraussetzungen eine solche Angriffshandlung plant oder vorbereitet, ist mit Freiheitsstrafe von fünf bis zu zehn Jahren zu bestrafen.
+----
+### § 240 StGB # Tätige Reue
 
-`§ 321k (3) StGB.`  
-Im Sinne des Abs. 1 bedeutet „Angriffshandlung“ eine gegen die Souveränität, die territoriale Unversehrtheit oder die politische Unabhängigkeit eines Staates gerichtete oder sonst mit der Satzung der Vereinten Nationen unvereinbare Anwendung von Waffengewalt durch einen anderen Staat.
+`§ 240 (1) StGB.`  
+Wegen einer der in den §§ 232 bis 234 und 237 bis 239 mit Strafe bedrohten Handlungen ist nicht zu bestrafen, wer freiwillig  
+`§ 240 (1) Z 1 StGB.`
+seine dort bezeichnete Tätigkeit vor deren Abschluß aufgibt,  
+`§ 240 (1) Z 2 StGB.`
+das nachgemachte oder verfälschte Geld, solche Wertpapiere oder Wertzeichen oder die verringerten Geldmünzen sowie die Fälschungsgeräte (§ 239) vernichtet oder der Behörde (§ 151 Abs. 3) übergibt, soweit er diese Gegenstände noch besitzt, und  
+`§ 240 (1) Z 3 StGB.`
+durch Mitteilung an diese Behörde oder auf andere Art die Gefahr beseitigt, daß infolge seiner Tätigkeit oder der Tätigkeit anderer an dem Unternehmen Beteiligter nachgemachtes oder verfälschtes Geld oder ein solches Wertpapier als echt und unverfälscht oder eine verringerte Geldmünze als vollwertig in Verkehr gebracht oder ausgegeben oder ein nachgemachtes oder verfälschtes Wertzeichen als echt und unverfälscht verwertet wird, solange noch nicht versucht worden ist, einen dieser Erfolge herbeizuführen.
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StGB.014](BG.StGB.014.md))*
+`§ 240 (2) StGB.`  
+Der Täter ist auch nicht zu bestrafen, wenn die im Abs. 1 bezeichneten Gefahren nicht bestehen oder ohne sein Zutun beseitigt werden, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich darum bemüht, sie zu beseitigen.
+----
+
+----
+### § 241 StGB # Geld, Wertpapiere und Wertzeichen des Auslands
+
+`§ 241 StGB.`  
+Die Bestimmungen dieses Abschnitts gelten auch für Geld, Wertpapiere, Wertzeichen sowie zur Ausgabe als gesetzliches Zahlungsmittel bestimmte Banknoten und Geldmünzen des Auslands.
+----
+
+----
+### § 241a StGB # Fälschung unbarer Zahlungsmittel
+
+`§ 241a (1) StGB.`  
+Wer ein falsches unbares Zahlungsmittel mit dem Vorsatz herstellt oder ein echtes unbares Zahlungsmittel mit dem Vorsatz verfälscht, dass es im Rechtsverkehr wie ein echtes verwendet werde, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
+`§ 241a (2) StGB.`  
+Wer die Tat gewerbsmäßig oder als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+----
+
+----
+### § 241b StGB # Annahme, Weitergabe oder Besitz falscher oder verfälschter unbarer Zahlungsmittel
+
+`§ 241b (1) StGB.`  
+Wer ein falsches oder verfälschtes unbares Zahlungsmittel mit dem Vorsatz, dass es im Rechtsverkehr wie ein echtes verwendet werde, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt, einführt, ausführt, verbreitet, bereitstellt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+`§ 241b (2) StGB.`  
+Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+----
+
+----
+### § 241c StGB # Vorbereitung der Fälschung oder Entfremdung unbarer Zahlungsmittel
+
+`§ 241c StGB.`  
+Wer mit dem Vorsatz, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) oder eine Entfremdung unbarer Zahlungsmittel nach § 241e Abs. 1 zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+----
+
+----
+### § 241d StGB # Tätige Reue
+
+`§ 241d (1) StGB.`  
+Wegen einer der in den §§ 241a bis 241c mit Strafe bedrohten Handlungen ist nicht zu bestrafen, wer freiwillig, bevor das falsche oder verfälschte unbare Zahlungsmittel im Rechtsverkehr verwendet worden ist, durch Vernichtung des unbaren Zahlungsmittels, oder, bevor das Mittel oder Werkzeug zur Fälschung eines unbaren Zahlungsmittels verwendet worden ist, durch Vernichtung des Mittels oder Werkzeuges, oder auf andere Art die Gefahr einer solchen Verwendung beseitigt.
+
+`§ 241d (2) StGB.`  
+Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen.
+----
+
+----
+### § 241e StGB # Entfremdung unbarer Zahlungsmittel
+
+`§ 241e (1) StGB.`  
+Wer sich ein unbares Zahlungsmittel, über das er nicht oder nicht allein verfügen darf, mit dem Vorsatz verschafft, dass er oder ein Dritter durch dessen Verwendung im Rechtsverkehr unrechtmäßig bereichert werde, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen. Ebenso ist zu bestrafen, wer sich ein unbares Zahlungsmittel, über das er nicht oder nicht allein verfügen darf, mit dem Vorsatz verschafft, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) zu ermöglichen.
+
+`§ 241e (2) StGB.`  
+Wer die Tat gewerbsmäßig oder als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
+`§ 241e (3) StGB.`  
+Wer ein unbares Zahlungsmittel, über das er nicht oder nicht allein verfügen darf, mit dem Vorsatz, dessen Verwendung im Rechtsverkehr zu verhindern, vernichtet, beschädigt oder unterdrückt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+----
+
+----
+### § 241f StGB # Annahme, Weitergabe oder Besitz entfremdeter unbarer Zahlungsmittel
+
+`§ 241f (1) StGB.`  
+Wer ein entfremdetes unbares Zahlungsmittel mit dem Vorsatz, dass er oder ein Dritter durch dessen Verwendung unrechtmäßig bereichert werde, oder mit dem Vorsatz, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) zu ermöglichen, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt, einführt, ausführt, verbreitet, bereitstellt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+`§ 241f (2) StGB.`  
+Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+----
+
+----
+### § 241g StGB # Tätige Reue
+
+`§ 241g (1) StGB.`  
+Nach den §§ 241e und 241f ist nicht zu bestrafen, wer freiwillig, bevor das entfremdete unbare Zahlungsmittel im Rechtsverkehr oder zur Fälschung eines unbaren Zahlungsmittels verwendet worden ist, durch Übergabe an die Behörde (§ 151 Abs. 3) oder auf andere Art die Gefahr einer solchen Verwendung beseitigt.
+
+`§ 241g (2) StGB.`  
+Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen.
+----
+
+----
+### § 241h StGB # Ausspähen von Daten eines unbaren Zahlungsmittels
+
+`§ 241h (1) StGB.`  
+Wer Daten eines unbaren Zahlungsmittels mit dem Vorsatz ausspäht,  
+`§ 241h (1) Z 1 StGB.`
+dass er oder ein Dritter durch deren Verwendung im Rechtsverkehr unrechtmäßig bereichert werde oder  
+`§ 241h (1) Z 2 StGB.`
+sich oder einem anderen eine Fälschung unbarer Zahlungsmittel (§ 241a) zu ermöglichen,
+ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+`§ 241h (2) StGB.`  
+Wer die Tat gewerbsmäßig begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
+`§ 241h (3) StGB.`  
+Der Täter ist nicht zu bestrafen, wenn er freiwillig, bevor die ausgespähten Daten im Sinne des Abs. 1 Z 1 oder 2 verwendet wurden, die Gefahr ihrer Verwendung durch Verständigung der Behörde, des Berechtigten oder auf andere Weise beseitigt. Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen.
+----
+
+----
+## Vierzehnter Abschnitt # Hochverrat und andere Angriffe gegen den Staat
+
+### § 242 StGB # Hochverrat
+
+`§ 242 (1) StGB.`  
+Wer es unternimmt, mit Gewalt oder durch Drohung mit Gewalt die Verfassung der Republik Österreich oder eines ihrer Bundesländer zu ändern oder ein zur Republik Österreich gehörendes Gebiet abzutrennen, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
+
+`§ 242 (2) StGB.`  
+Ein Unternehmen im Sinn des Abs. 1 liegt auch schon bei einem Versuch vor.
+----
+
+----
+### § 243 StGB # Tätige Reue
+
+`§ 243 (1) StGB.`  
+Der Täter ist wegen Hochverrats nicht zu bestrafen, wenn er freiwillig die Ausführung aufgibt oder diese, falls mehrere an dem Vorhaben beteiligt sind, verhindert oder wenn er freiwillig den Erfolg abwendet.
+
+`§ 243 (2) StGB.`  
+Der Täter ist auch dann nicht zu bestrafen, wenn die Ausführung oder der Erfolg ohne sein Zutun unterbleibt, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich bemüht, die Ausführung zu verhindern oder den Erfolg abzuwenden.
+----
+
+----
+### § 244 StGB # Vorbereitung eines Hochverrats
+
+`§ 244 (1) StGB.`  
+Wer mit einem anderen die gemeinsame Begehung eines Hochverrats verabredet, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+
+`§ 244 (2) StGB.`  
+Ebenso ist zu bestrafen, wer einen Hochverrat in anderer Weise vorbereitet und dadurch die Gefahr eines hochverräterischen Unternehmens herbeiführt oder erheblich vergrößert oder wer einen Hochverrat im Zusammenwirken mit einer ausländischen Macht vorbereitet.
+----
+
+----
+### § 245 StGB # Tätige Reue
+
+`§ 245 (1) StGB.`  
+Der Täter ist wegen Vorbereitung eines Hochverrats nicht zu bestrafen, wenn er freiwillig seine Tätigkeit aufgibt oder, falls mehrere an der Vorbereitung beteiligt sind, den Hochverrat verhindert.
+
+`§ 245 (2) StGB.`  
+§ 243 Abs. 2 gilt entsprechend.
+----
+
+----
+### § 246 StGB # Staatsfeindliche Verbindungen
+
+`§ 246 (1) StGB.`  
+Wer eine Verbindung gründet, deren wenn auch nicht ausschließlicher Zweck es ist, auf gesetzwidrige Weise die Unabhängigkeit, die in der Verfassung festgelegte Staatsform oder eine verfassungsmäßige Einrichtung der Republik Österreich oder eines ihrer Bundesländer zu erschüttern, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
+`§ 246 (2) StGB.`  
+Ebenso ist zu bestrafen, wer sich in einer solchen Verbindung führend betätigt, für sie Mitglieder wirbt oder sie mit Geldmitteln oder sonst in erheblicher Weise unterstützt.
+
+`§ 246 (3) StGB.`  
+Wer an einer solchen Verbindung sonst teilnimmt oder sie auf eine andere als die im Abs. 2 bezeichnete Weise unterstützt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+----
+
+----
+### § 247 StGB # Tätige Reue
+
+`§ 247 StGB.`  
+Nach § 246 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, alles, was ihm von der Verbindung und ihren Plänen bekannt ist, zu einer Zeit, da es noch geheim ist, einer solchen Behörde aufdeckt.
+----
+
+----
+### § 247a StGB # Staatsfeindliche Bewegung
+
+`§ 247a (1) StGB.`  
+Wer eine staatsfeindliche Bewegung gründet oder sich in einer solchen führend betätigt, ist, wenn er oder ein anderer Teilnehmer eine ernstzunehmende Handlung ausgeführt oder zu ihr beigetragen hat, in der sich die staatsfeindliche Ausrichtung eindeutig manifestiert, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+
+`§ 247a (2) StGB.`  
+Wer an einer solchen Bewegung mit dem Vorsatz teilnimmt, dadurch die Begehung von staatsfeindlichen Handlungen zu fördern, oder sie mit erheblichen Geldmitteln oder sonst in erheblicher Weise unterstützt, ist unter der Bedingung des Abs. 1 mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+`§ 247a (3) StGB.`  
+Eine staatsfeindliche Bewegung ist eine Gruppe vieler Menschen, die darauf ausgerichtet ist, die Hoheitsrechte der Republik Österreich (Bund, Länder, Gemeinden oder sonstige Selbstverwaltung) rundweg abzulehnen oder sich fortgesetzt die Ausübung solcher oder behaupteter Hoheitsrechte selbst anzumaßen, und deren Zweck es ist, fortgesetzt auf eine Weise, durch die sich die staatsfeindliche Ausrichtung eindeutig manifestiert, gesetzwidrig die Vollziehung von Gesetzen, Verordnungen oder sonstigen hoheitlichen Entscheidungen der Behörden zu verhindern oder die angemaßten oder behaupteten Hoheitsrechte durchzusetzen.
+
+`§ 247a (4) StGB.`  
+Der Täter ist nach Abs. 1 und 2 nicht zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist.
+
+`§ 247a (5) StGB.`  
+Nach Abs. 1 und 2 ist nicht zu bestrafen, wer sich freiwillig und bevor die Behörde von seinem Verschulden erfahren hat, aus der Bewegung in einer Weise zurückzieht, die eindeutig zu erkennen gibt, dass die staatsfeindliche Ausrichtung nicht mehr unterstützt wird.
+----
+
+----
+### § 247b StGB # Religiös motivierte extremistische Verbindung
+
+`§ 247b (1) StGB.`  
+Wer eine religiös motivierte extremistische Verbindung gründet oder sich in einer solchen führend betätigt, ist, wenn er oder ein anderer Teilnehmer eine ernstzunehmende gesetzwidrige Handlung ausgeführt oder zu ihr beigetragen hat, in der sich die religiös motivierte extremistische Ausrichtung eindeutig manifestiert, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+
+`§ 247b (2) StGB.`  
+Wer an einer solchen Verbindung mit dem Vorsatz teilnimmt, dadurch die Begehung von religiös motivierten extremistischen Handlungen zu fördern, oder sie mit erheblichen Geldmitteln oder sonst in erheblicher Weise unterstützt, ist unter der Bedingung des Abs. 1 mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+`§ 247b (3) StGB.`  
+Eine religiös motivierte extremistische Verbindung ist eine solche, die fortgesetzt auf gesetzwidrige Art und Weise die wesentlichen Elemente der demokratischen rechtsstaatlichen Grundordnung der Republik durch eine ausschließlich religiös begründete Gesellschafts- und Staatsordnung zu ersetzen versucht, indem sie die Vollziehung von Gesetzen, Verordnungen oder sonstigen hoheitlichen Entscheidungen zu verhindern oder sich religiös begründete Hoheitsrechte anzumaßen oder solche Rechte durchzusetzen versucht.
+
+`§ 247b (4) StGB.`  
+Der Täter ist nach Abs. 1 und 2 nicht zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist.
+
+`§ 247b (5) StGB.`  
+Nach Abs. 1 und 2 ist nicht zu bestrafen, wer sich freiwillig und bevor die Behörde von seinem Verschulden erfahren hat, aus der Verbindung in einer Weise zurückzieht, die eindeutig zu erkennen gibt, dass die religiös motivierte extremistische Ausrichtung nicht mehr unterstützt wird.
+----
+
+----
+### § 248 StGB # Herabwürdigung des Staates und seiner Symbole
+
+`§ 248 (1) StGB.`  
+Wer auf eine Art, daß die Tat einer breiten Öffentlichkeit bekannt wird, in gehässiger Weise die Republik Österreich oder eines ihrer Bundesländer beschimpft oder verächtlich macht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+`§ 248 (2) StGB.`  
+Wer in der im Abs. 1 bezeichneten Art in gehässiger Weise eine aus einem öffentlichen Anlaß oder bei einer allgemein zugänglichen Veranstaltung gezeigte Fahne der Republik Österreich oder eines ihrer Bundesländer, ein von einer österreichischen Behörde angebrachtes Hoheitszeichen, die Bundeshymne oder eine Landeshymne beschimpft, verächtlich macht oder sonst herabwürdigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+----
+
+`END-OF-DATA-SET`

@@ -1,257 +1,386 @@
 # BG.ZPO.013 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ZPO  
+**Kurztitel:** ['ZPO']  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.013.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ZPO.012](BG.ZPO.012.md))*
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
-## Kostenvorschuß.
+----
+## Dritter Theil. # Verfahren vor den Bezirksgerichten.
 
-### § 365 ZPO
+### § 431 ZPO # 
 
-`§ 365 ZPO.`  
-Wenn dem Beweisführer nicht die Verfahrenshilfe bewilligt ist, hat der Vorsitzende oder der beauftragte oder ersuchte Richter anzuordnen, daß ein von ihm zu bestimmender Betrag zur Deckung des mit der Aufnahme des Beweises durch Sachverständige verbundenen Aufwandes vom Beweisführer innerhalb einer bestimmten Frist vorschußweise zu erlegen ist. § 332 Abs. 2 ist sinngemäß anzuwenden.
+`§ 431 (1) ZPO.`  
+Auf das Verfahren vor den Bezirksgerichten finden, sofern nichts anderes bestimmt ist, die Vorschriften über das Verfahren vor den Gerichtshöfen erster Instanz Anwendung.
 
-## Rechtsmittel.
+`§ 431 (2) ZPO.`  
+Die durch die Vorschriften des zweiten Theiles für den Senat oder dessen Vorsitzenden begründeten Befugnisse und Obliegenheiten sind im Verfahren vor Bezirksgerichten durch den Einzelrichter auszuüben.
+----
 
-### § 366 ZPO
+----
+### § 432 ZPO # 
 
-`§ 366 (1) ZPO.`  
-Gegen den Beschluss, durch welchen die Ablehnung eines Sachverständigen verworfen oder eine schriftliche Begutachtung angeordnet wird, findet ein abgesondertes Rechtsmittel nicht statt.
+`§ 432 (1) ZPO.`  
+Der Richter hat Parteien, welche rechtsunkundig und nicht durch Rechtsanwälte vertreten sind, erforderlichenfalls die zur Vornahme ihrer Processhandlungen nöthige Anleitung zu geben und dieselben über die mit ihren Handlungen oder Unterlassungen verbundenen Rechtsfolgen zu belehren.
 
-`§ 366 (2) ZPO.`  
-Die Entscheidung über die Anzahl der zu bestellenden Sachverständigen, der Beschluss, durch welchen die Bestellung der Sachverständigen dem beauftragten oder ersuchten Richter überlassen (§. 352) oder ein Sachverständiger wegen Ablehnung enthoben wird, die über die Beeidigung eines Sachverständigen gefassten Beschlüsse, endlich die Beschlüsse, durch welche für die Abgabe des Gutachtens gemäß §. 360 eine Tagsatzung anberaumt oder eine Frist bestimmt wird, können durch ein Rechtsmittel nicht angefochten werden.
+`§ 432 (2) ZPO.`  
+Insbesondere hat der Richter solche Parteien bei Verkündung seiner Entscheidungen auf die Frist, binnen welcher eine Entscheidung durch ein Rechtsmittel angefochten werden kann, und auf die gesetzlichen Bestimmungen, welche die Bestellung eines Rechtsanwalts als Processbevollmächtigten für die Ergreifung des Rechtsmittels vorschreiben, aufmerksam zu machen.
 
-### § 367 ZPO
-Soweit im Vorstehenden nichts anderes bestimmt ist, finden auf den Beweis durch Sachverständige und insbesondere auch auf deren Vernehmung und die Protokollirung des bei einer Tagsatzung abgegebenen Befundes und Gutachtens die Vorschriften über den Beweis durch Zeugen entsprechend Anwendung.
+`§ 432 (3) ZPO.`  
+Einer Partei, die sich in einem Schriftsatz nicht verständlich auszudrücken vermag, ist unter Setzung einer angemessenen Frist der Auftrag zu erteilen, den Schriftsatz nach Bestellung eines geeigneten Bevollmächtigten, erforderlichenfalls eines Rechtsanwalts, neuerlich einzubringen, andernfalls der Schriftsatz als nicht eingebracht anzusehen ist. § 84 Abs. 3 gilt sinngemäß.
+----
 
-## Sechster Titel. # Beweis durch Augenschein.
+----
+### § 433 ZPO # 
 
-### § 368 ZPO
+`§ 433 (1) ZPO.`  
+Wer eine Klage zu erheben beabsichtigt, ist berechtigt, vor deren Einbringung bei dem Bezirksgerichte des Wohnsitzes des Gegners dessen Ladung zum Zwecke des Vergleichsversuches zu beantragen. An Orten, an welchen mehrere Bezirksgerichte bestehen, kann eine solche Ladung außerdem an alle Personen ergehen, die an diesem Orte, wenngleich außerhalb des Sprengels des zuständigen Bezirksgerichtes, ihren Wohnsitz haben.
 
-`§ 368 (1) ZPO.`  
-Zur Aufklärung der Sache kann das Gericht auf Antrag oder von amtswegen die Vornahme eines Augenscheines, nöthigenfalls mit Zuziehung eines oder mehrerer Sachverständigen, anordnen.
+`§ 433 (2) ZPO.`  
+Gegen die Entscheidung über einen solchen Antrag ist ein Rechtsmittel nicht zulässig.
+----
 
-`§ 368 (2) ZPO.`  
-Wenn der zu besichtigende Gegenstand nicht vor das erkennende Gericht gebracht werden kann, oder die Vornahme des Augenscheines vor demselben aus anderen Gründen erheblichen Schwierigkeiten unterliegen würde, so kann dieselbe durch einen beauftragten oder durch einen ersuchten Richter erfolgen. In diesem Falle kann dem mit der Vornahme des Augenscheines betrauten Richter die Entscheidung über die Zuziehung der Sachverständigen und die Ernennung derselben überlassen werden. Gegen diese Beschlüsse ist ein Rechtsmittel nicht zulässig.
+----
+### § 433a ZPO # Mediationsvergleich und Vergleiche nach dem Alternative-Streitbeilegung-Gesetz
 
-`§ 368 (3) ZPO.`  
-Wenn die Vornahme des Augenscheines voraussichtlich einen Kostenaufwand verursachen wird, kann der Vorsitzende oder der beauftragte oder ersuchte Richter anordnen, dass der Beweisführer einen entsprechenden Betrag zur Deckung dieses Aufwandes vorschussweise erlege (§. 332 Absatz 2).
+`§ 433a ZPO.`  
+Über den Inhalt der in einem Mediationsverfahren oder in einem Schlichtungsverfahren über Verbraucherstreitigkeiten nach dem Alternative-Streitbeilegung-Gesetz, BGBl. I Nr. 105/2015, über eine Zivilsache erzielten schriftlichen Vereinbarung kann vor jedem Bezirksgericht ein gerichtlicher Vergleich geschlossen werden.
+----
 
-### § 369 ZPO
-Ist eine Sache zu besichtigen, welche sich nach den Angaben des Beweisführers in dem Besitze der Gegenpartei oder in der Verwahrung einer öffentlichen Behörde oder eines Notars befindet, so sind die Bestimmungen der §§. 301 und 303 bis 307 mit der Maßgabe anzuwenden, dass die Beurtheilung, welchen Einfluss die Verweigerung der Vorzeigung und Herausgabe der Sache seitens des Gegners, die absichtliche oder doch durch den Gegner veranlasste Beseitigung oder Beschädigung der Sache oder die Verweigerung einer Aussage darüber habe, dem durch sorgfältige Würdigung aller Umstände geleiteten richterlichen Ermessen überlassen bleibt.
+----
+### § 434 ZPO # 
 
-### § 370 ZPO
+`§ 434 (1) ZPO.`  
+Die Klage, sowie alle außerhalb der mündlichen Verhandlung vorzubringenden Gesuche, Anträge und Mittheilungen können die Parteien, wenn sie nicht durch Rechtsanwalt vertreten sind, zu Protokoll anbringen.
 
-`§ 370 (1) ZPO.`  
-Gegen Beschlüsse und Verfügungen bei der Vornahme des Augenscheines findet ein abgesondertes Rechtsmittel nicht statt. Dies gilt auch von dem Beschlusse, durch welchen ein Antrag auf Zuziehung von Sachverständigen verworfen wurde.
+`§ 434 (2) ZPO.`  
+Klagen und Widersprüche gegen ein Versäumungsurteil können von einer Partei auch beim Bezirksgericht ihres Aufenthalts mündlich zu Protokoll erklärt werden; dieses Bezirksgericht hat das Protokoll dem Prozeßgericht unverzüglich zu übersenden.
+----
 
-`§ 370 (2) ZPO.`  
-Das Ergebnis des Augenscheines ist in dem Verhandlungsprotokolle, wenn aber der Augenschein außerhalb der Verhandlungstagsatzung vorgenommen wird, in einem besonderen Protokolle, und zwar in der Regel unmittelbar nach der Vornahme des Augenscheines, aufzuzeichnen.
+----
+### § 435 ZPO # 
 
-`§ 370 (3) ZPO.`  
-In dem Protokolle ist zu bemerken, ob die Parteien und welche derselben bei Vornahme des Augenscheines anwesend waren, sowie ob und welche Einwendungen von ihnen bei der Vornahme des Augenscheines oder gegen das Protokoll erhoben wurden.
+`§ 435 (1) ZPO.`  
+Wenn die schriftlich überreichte Klage nach Ansicht des Richters in irgend einem Punkte einer Ergänzung oder Aufklärung bedarf, oder wenn sich gegen die Einleitung des Verfahrens Bedenken ergeben, hat der Richter dem Kläger, wenn derselbe nicht durch einen Rechtsanwalt vertreten ist, vor Erledigung der Klage, zu den entsprechenden Vervollständigungen oder Richtigstellungen die nöthige Anleitung zu geben.
 
-## Siebenter Titel. # Beweis durch Vernehmung der Parteien.
+`§ 435 (2) ZPO.`  
+Erscheint die mündlich zu Protokoll gegebene Klage wegen Unzulässigkeit des Rechtsweges, Unzuständigkeit des Gerichtes, wegen Mangels der persönlichen Befugnis zur Klage oder wegen mangelnder Processfähigkeit des Beklagten unzulässig, so ist hierüber dem Kläger mündlich oder auf Verlangen schriftlich Belehrung zu ertheilen. Ebenso ist, wenn die Klage offenbar unbegründet erscheint, dem Kläger mündlich eine angemessene Belehrung zu ertheilen. Die Aufnahme der Klage darf jedoch nicht verweigert werden, wenn der Kläger trotz der Belehrung auf der Protokollirung besteht.
+----
 
-### § 371 ZPO
+----
+### § 436 ZPO # 
 
-`§ 371 ZPO.`  
-Der Beweis über streitige, für die Entscheidung erhebliche Tatsachen kann auch durch die Vernehmung der Parteien geführt werden; die Anordnung dieser Beweisführung kann auf Antrag oder von Amts wegen erfolgen.
+`§ 436 ZPO.`  
+Die Tagsatzung zur mündlichen Verhandlung über die Klage kann in dringenden Fällen und insbesondere bei Klagen wegen Besitzstörung auf den nämlichen Tag anberaumt werden, an welchem die Klage bei Gericht angebracht wurde.
+----
 
-### § 372 ZPO
-Parteien, in Ansehung deren Vernehmung oder Beeidigung einer der Ausschließungsgründe des § 320 vorliegt, dürfen nicht zum Zwecke der Beweisführung abgehört werden.
+----
+### § 437 ZPO # 
 
-### § 373 ZPO
+`§ 437 ZPO.`  
+Der Kläger ist durch Zustellung einer Ausfertigung des über die Klage ergehenden Beschlusses mit der Aufforderung zur mündlichen Verhandlung zu laden, die während der Verhandlung in Augenschein zu nehmenden Gegenstände und die sich auf den Rechtsstreit beziehenden, dem Gerichte noch nicht vorliegenden Urkunden zur Tagsatzung mitzubringen. In der Ladung ist dem Kläger bekannt zu geben, welche Nachtheile das Gesetz mit dem Versäumen der Tagsatzung verbindet.
+----
 
-`§ 373 (1) ZPO.`  
-Wird der Rechtsstreit von dem gesetzlichen Vertreter einer schutzberechtigen Person geführt, so bleibt es dem Ermessen des Gerichtes überlassen, die Vernehmung des gesetzlichen Vertreters oder, sofern dies nach §. 372 statthaft erscheint, der schutzberechtigten Person oder beider zu verfügen.
+----
+### § 438 ZPO # 
 
-`§ 373 (2) ZPO.`  
-Ist über das Vermögen einer Partei ein Insolvenzverfahren eröffnet und betrifft der Rechtsstreit einen in die Insolvenzmasse fallenden Anspruch, so können der Schuldner oder der Insolvenzverwalter oder beide als Partei vernommen werden.
+`§ 438 ZPO.`  
+Die Ladung des Beklagten geschieht durch Zustellung einer schriftlichen Ausfertigung des über die Klage ergehenden Beschlusses unter gleichzeitiger Mittheilung eines Exemplares der schriftlichen Klage oder einer Abschrift des über die Klage aufgenommenen Protokolles. Bei protokollarischer Ergänzung oder Richtigstellung der schriftlichen Klage ist dem Beklagten auch eine Abschrift dieses Protokolles zuzustellen. Der Beklagte ist zugleich aufzufordern, die sich auf den Rechtsstreit beziehenden Augenscheinsgegenstände und Urkunden zur Tagsatzung mitzubringen und wegen der Vorlage der im Besitze des Gegners oder in Verwahrung einer öffentlichen Behörde oder eines Notars befindlichen Beweisurkunden und Augenscheinsgegenstände, sowie wegen etwaiger gerichtlicher Vorladung von Zeugen noch vor der für die mündliche Verhandlung anberaumten Tagsatzung seine Anträge zu stellen. In der Ladung ist dem Beklagten bekannt zu geben, welche Nachtheile das Gesetz mit dem Versäumen der Tagsatzung verbindet.
+----
 
-`§ 373 (3) ZPO.`  
-In Rechtsstreitigkeiten einer offene Gesellschaft sind alle Gesellschafter, in Rechtsstreitigkeiten einer Commanditgesellschaft alle persönlich haftenden Gesellschafter und, wenn der Rechtsstreit von einer anderen Gesellschaft, einer Genossenschaft, einer Gemeinde, einem Vereine oder sonst von einem nicht zu den physischen Personen gehörigen Rechtssubjecte geführt wird, dessen gesetzliche Vertreter in Bezug auf die Vernehmung als Partei zu behandeln.
+----
+### § 439 ZPO # 
 
-`§ 373 (4) ZPO.`  
-Können hienach oder, weil auf Seiten einer Partei Streitgenossen auftreten, mehrere Personen vernommen werden, so hat das Gericht zu bestimmen, ob alle oder welche unter diesen Personen abzuhören sind.
+`§ 439 (1) ZPO.`  
+An bestimmten Gerichtstagen, welche im voraus festzusetzen und durch Anschlag am Gerichtshause bekannt zu machen sind, kann der Kläger mit der Gegenpartei auch ohne Vorladung vor Gericht erscheinen, um einen Rechtsstreit anhängig zu machen und darüber zu verhandeln.
 
-### § 374 ZPO
-Das Gericht hat unter sorgfältiger Würdigung aller Umstände zu beurtheilen, ob die Beweisführung durch Vernehmung der Parteien ganz zu entfallen habe, wenn es die Überzeugung gewonnen hat, dass die Partei, welcher der Beweis der streitigen Thatsache obliegt, von derselben keine Kenntnis hat, oder wenn die Abhörung dieser Partei nach den Bestimmungen des §. 372 unstatthaft ist.
+`§ 439 (2) ZPO.`  
+In diesem Falle ist das Klagebegehren in dem Verhandlungsprotokolle aufzuzeichnen.
+----
 
-### § 375 ZPO
+----
+### § 440 ZPO # 
 
-`§ 375 (1) ZPO.`  
-Die Beweisführung durch Vernehmung der Partei wird durch Beschluss angeordnet. Gegen diesen Beschluss ist ein abgesondertes Rechtsmittel nicht zulässig. Die Beweisführung geschieht dadurch, dass das Gericht an die zu vernehmende Partei über die Thatsachen, deren Beweis durch die Vernehmung hergestellt werden soll, die geeigneten Fragen stellt. Für diese Befragung der Partei haben die Vorschriften der §§. 340 bis 343 sinngemäß zu gelten.
+`§ 440 (1) ZPO.`  
+Im bezirksgerichtlichen Verfahren soll tunlichst schon in der vorbereitenden Tagsatzung das Beweisverfahren durchgeführt werden. Ist aber insbesondere nach dem Inhalt der Klage anzunehmen, dass sich der Beklagte nicht in den Streit einlassen werde, so kann die vorbereitende Tagsatzung auf die in § 258 Abs. 1 Z 1 und 2 genannten Punkte beschränkt werden; § 258 Abs. 2 ist in diesem Fall nicht anzuwenden.
 
-`§ 375 (2) ZPO.`  
-Diese Befragung hat vor dem erkennenden Gerichte zu geschehen. Die Beweisaufnahme durch einen ersuchten Richter ist nur zulässig, wenn dem persönlichen Erscheinen der Partei unübersteigliche Hindernisse entgegenstehen, oder dasselbe unverhältnismäßige Kosten verursachen würde.
+`§ 440 (2) ZPO.`  
+Die im zweiten Teil enthaltenen Vorschriften über die Verpflichtung des Beklagten zur Beantwortung der Klage mittels vorbereitenden Schriftsatzes sind im Verfahren vor Bezirksgerichten nicht anzuwenden.
 
-### § 376 ZPO
+`§ 440 (3) ZPO.`  
+Sind die Parteien durch Rechtsanwälte vertreten, so kann ihnen der Wechsel vorbereitender Schriftsätze aufgetragen werden.
+*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 76/2002)*
 
-`§ 376 (1) ZPO.`  
-Die Parteien sind zuerst ohne Beeidigung zu befragen; der unbeeideten Vernehmung kann die Abhörung unter Eid folgen.
+`§ 440 (5) ZPO.`  
+Der Auftrag zur schriftlichen Feststellung von Anträgen und Erklärungen (§. 265) kann vom Richter nur denjenigen Parteien ertheilt werden, welche bei der mündlichen Verhandlung durch Rechtsanwälte vertreten sind.
 
-`§ 376 (2) ZPO.`  
-Bei der unbeeideten Vernehmung sind, wenn beide Parteien erschienen sind, in der Regel beide über die zu beweisenden Thatsachen zu befragen. Vor der unbeeideten Vernehmung hat das Gericht die Parteien aufmerksam zu machen, dass sie unter Umständen verhalten werden können, über ihre Aussagen einen Eid abzulegen.
+`§ 440 (6) ZPO.`  
+Die Höhe eines aufgetragenen Kostenvorschusses kann schon dann angefochten werden (§ 332 Abs. 2), wenn der Gesamtbetrag der einer Partei aufgetragenen Vorschüsse 2 000 Euro übersteigt.
+----
 
-### § 377 ZPO
+----
+### § 441 ZPO
 
-`§ 377 (1) ZPO.`  
-Wenn das Ergebnis der unbeeideten Befragung nicht ausreicht, um das Gericht von der Wahrheit oder Unwahrheit der zu beweisenden Thatsachen zu überzeugen, so kann das Gericht die eidliche Vernehmung anordnen. Parteien, bei denen die Ausschließungsgründe des § 336 Abs. 1 zutreffen, dürfen nicht beeidet werden.
+`§ 441 ZPO.`  
+Die Einrede der Unzuständigkeit des Gerichtes hat der Beklagte vorzubringen, bevor er sich in die Verhandlung über die Hauptsache einlässt. Nach Einlassung des Beklagten zur Hauptsache kann die Unzuständigkeit des Gerichtes nur unter den Voraussetzungen des § 240 berücksichtigt werden.
+----
 
-`§ 377 (2) ZPO.`  
-Hiebei kann das Gericht aus der unbeeideten Aussage einzelne Behauptungen hervorheben, welche die Partei nunmehr unter Eid zu wiederholen hat; desgleichen kann das Gericht bei Anordnung der eidlichen Vernehmung die Fassung bestimmen, in welcher die eidliche Aussage über einzelne Umstände zu erfolgen habe. Gegen diese Beschlüsse ist ein abgesondertes Rechtsmittel nicht zulässig.
+----
+### § 442 ZPO
 
-`§ 377 (3) ZPO.`  
-Die Partei ist vor ihrer eidlichen Abhörung an die Pflicht zur Angabe der Wahrheit, an die Heiligkeit und Bedeutung des Eides, sowie an die strafrechtlichen Folgen eines falschen Eides zu erinnern. Die erfolgte Eideserinnerung ist im Protokolle festzustellen.
+`§ 442 ZPO.`  
+Bleibt eine der Parteien von einer Tagsatzung aus, bevor sie sich durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, so ist auf Antrag der erschienenen Partei ein Versäumungsurteil nach § 396 zu fällen.
+----
 
-### § 379 ZPO
-Das Gericht kann die Verhandlung zum Zwecke der eidlichen Befragung einer Partei vertagen, wenn es angemessen erscheint, der zu vernehmenden Partei eine Überlegungsfrist zu gewähren.
+----
+### § 442a ZPO
 
-### § 380 ZPO
+`§ 442a (1) ZPO.`  
+Gegen ein Versäumungsurteil kann Widerspruch nach § 397a erhoben werden, es sei denn, die Partei hat in diesem Verfahren schon einmal Widerspruch gegen ein Versäumungsurteil erhoben. Der Widerspruch ist ausgeschlossen, wenn in dem Verfahren bereits Einspruch gegen einen Zahlungsbefehl oder Einwendungen im Mandatsverfahren oder im Bestandverfahren erhoben wurden.
 
-`§ 380 (1) ZPO.`  
-Die Bestimmungen über den Beweis durch Zeugen finden auch auf die Vernehmung der Parteien zum Zwecke der Beweisführung Anwendung, soweit in diesem Abschnitte nicht abweichende Anordnungen enthalten sind. Durch den im §. 321, Z 2, bezeichneten Grund wird jedoch die Verweigerung der Aussage von Seite einer abzuhörenden Partei nicht gerechtfertigt.
+`§ 442a (2) ZPO.`  
+Der Beklagte hat Anspruch auf Ersatz der Kosten eines von ihm erhobenen Widerspruchs (§ 397a Abs. 4) nur, wenn ihm das Gericht nach § 440 Abs. 3 aufgetragen hatte, das darin Enthaltene in einem Schriftsatz vorzubringen.
+----
 
-`§ 380 (2) ZPO.`  
-Durch das Nichterscheinen einer der Parteien bei der zur Vernehmung nach §. 375 angeordneten Tagsatzung oder durch die Verweigerung der Aussage seitens einer der erschienenen Parteien wird die Vernehmung des anwesenden Gegners nicht gehindert.
+----
+### § 443 ZPO # 
 
-`§ 380 (3) ZPO.`  
-Die Anwendung von Zwangsmaßregeln, um eine Partei, die zum Zwecke der Beweisführung ohne Beeidigung oder beeidet befragt werden soll, zum Erscheinen vor Gericht oder zur Aussage zu verhalten, ist unstatthaft.
+`§ 443 ZPO.`  
+Die Protokollirung des thatsächlichen und Beweisvorbringens der Parteien hat, falls nicht vorbereitende Schriftsätze vorliegen (§. 210 Absatz 1), in der Regel auf die in §. 211 bezeichnete Art zu geschehen.
+----
+
+----
+### § 446 ZPO # 
+
+`§ 446 ZPO.`  
+Wenn ein nicht ausschließlich zur Ausübung der Gerichtsbarkeit in Handelssachen berufenes Bezirksgericht ein Urteil der Gerichtsbarkeit in Handelsrechtssachen oder ein besonderes Bezirksgericht für Handelssachen ein Urteil der allgemeinen Gerichtsbarkeit fällt, hat es dies auf Antrag (§ 258 Absatz 3) im Urteil anzuführen.
+----
+
+----
+### § 447 ZPO # 
+
+`§ 447 ZPO.`  
+In den Ausfertigungen der Urtheile ist insbesondere hervorzuheben, dass für die Ergreifung eines Rechtsmittels gegen das Urtheil, sowie für das Rechtsmittelverfahren überhaupt die Vertretung durch einen Rechtsanwalt erforderlich ist.
+----
+
+----
+### § 448 ZPO
+
+`§ 448 ZPO.`  
+Für das bezirksgerichtliche Mahnverfahren gelten folgende Besonderheiten:  
+`§ 448 Z 1 ZPO.`
+Für die Erhebung des Einspruchs bedarf es nicht der Vertretung durch einen Rechtsanwalt; Gleiches gilt für die Zurücknahme des Einspruchs. Schriftliche Einsprüche können auch in einfacher Ausfertigung und ohne Beibringung von Rubriken überreicht werden; es genügt, dass aus dem Schriftstück die Absicht, Einspruch zu erheben, deutlich hervorgeht.  
+`§ 448 Z 2 ZPO.`
+Der Beklagte, der nicht durch einen Rechtsanwalt vertreten ist, kann Einsprüche und Anträge auf Bewilligung der Wiedereinsetzung in den vorigen Stand auch beim Bezirksgericht seines Aufenthalts mündlich zu Protokoll geben; dieses hat das Protokoll dem Prozessgericht unverzüglich zu übersenden.  
+`§ 448 Z 3 ZPO.`
+Ist der Einspruch begründet, so ist dem Kläger eine Ausfertigung oder eine Abschrift des Schriftsatzes oder des ihn ersetzenden Protokolls zuzustellen.  
+`§ 448 Z 4 ZPO.`
+Ist ordnungsgemäß Einspruch erhoben worden, so hat das Gericht nach den §§ 440 ff vorzugehen.
+----
+
+----
+## Besondere Bestimmungen für das Verfahren über Besitzstörungsklagen.
+
+### § 454 ZPO # 
+
+`§ 454 (1) ZPO.`  
+Im Verfahren über Klagen wegen Störung des Besitzstandes bei Sachen und bei Rechten, in welchen das Klagebegehren nur auf den Schutz und die Wiederherstellung des letzten Besitzstandes gerichtet ist und welche innerhalb dreißig Tagen anhängig zu machen sind, nachdem der Kläger von der Störung Kenntnis erlangte, haben die nachfolgenden besonderen Bestimmungen (§§. 455 bis 460) zu gelten.
+
+`§ 454 (2) ZPO.`  
+Schriftlich überreichte Klagen sind von außen als Besitzstörungsklagen zu bezeichnen.
+----
+
+----
+### § 455 ZPO # 
+
+`§ 455 ZPO.`  
+Bei der Anberaumung der Tagsatzungen und Fristen ist stets auf die Dringlichkeit der Erledigung besonderer Bedacht zu nehmen.
+----
+
+----
+### § 456 ZPO # 
+
+`§ 456 ZPO.`  
+Auf Grund des in der Klage gestellten Begehrens, im Sinne der §§. 340 bis 342 a. b. G. B. ein Verbot zu erlassen, hat der Richter sogleich bei Erledigung der Klage ohne Einvernehmung des Gegners das Erforderliche zu verfügen.
+----
+
+----
+### § 457 ZPO # 
 
-### § 381 ZPO
-Welchen Einfluss es auf die Herstellung des Beweises habe, wenn die Partei ohne genügende Gründe die Aussage oder die Beantwortung einzelner Fragen ablehnt, wenn die zum Zwecke der unbeeideten oder beeideten Vernehmung geladene Partei nicht erscheint, oder wenn die eidliche Aussage einer Partei von den bei ihrer vorausgegangenen unbeeideten Vernehmung abgegebenen Erklärungen in erheblichen Punkten abweicht, hat das Gericht unter sorgfältiger Würdigung aller Umstände zu beurtheilen.
+`§ 457 (1) ZPO.`  
+Die Verhandlung ist auf die Erörterung und den Beweis der Thatsache des letzten Besitzstandes und der erfolgten Störung zu beschränken, und es sind alle Erörterungen über das Recht zum Besitze, über Titel, Redlichkeit und Unredlichkeit des Besitzes oder über etwaige Entschädigungsansprüche auszuschließen.
+*(Anm.: Abs. 2 aufgehoben durch Art. IV Z 76, BGBl. Nr. 135/1986)*
+----
 
-### § 382 ZPO
-*(Anm.: Abs. 1 aufgehoben durch BGBl. Nr. 2/1958)*
+----
+### § 458 ZPO # 
 
-`§ 382 (2) ZPO.`  
-Die Vorschriften der §§. 372 bis 381 gelten sinngemäß auch für die wegen Vorlage einer Beweisurkunde, einer Auskunftssache oder eines Augenscheinsgegenstandes angeordnete Vernehmung und eidliche Abhörung einer Partei.
+`§ 458 ZPO.`  
+Der Richter kann während der Verhandlung die Anwendung einer oder mehrerer der im Gesetze über das Executions- und Sicherungsverfahren zugelassenen einstweiligen Vorkehrungen anordnen, sofern dies zur Abwendung der dringenden Gefahr widerrechtlicher Beschädigung, zur Verhütung von Gewaltthätigkeiten oder zur Hintanhaltung eines unwiederbringlichen Schadens nöthig erscheint. Die Erlassung einer derartigen Verfügung kann von der Leistung einer angemessenen Sicherstellung abhängig gemacht werden.
+----
 
-### § 383 ZPO
-Wenn eine Partei eine Erklärung abgegeben hat, in welcher sie sich erbietet, die zu beweisenden Umstände im Processe eidlich zu bestätigen, die eidliche Abhörung dieser Partei jedoch wegen ihres früheren Todes nicht stattfinden kann, so hat das Gericht die Erklärung nach §. 272 zu würdigen.
+----
+### § 459 ZPO # 
 
-## Achter Titel. # Sicherung von Beweisen.
+`§ 459 ZPO.`  
+Die Entscheidung hat sogleich nach geschlossener Verhandlung mittels Beschlusses (Endbeschluss) zu erfolgen und sich darauf zu beschränken, eine einstweilige Norm für den thatsächlichen Besitzstand aufzustellen oder provisorisch nach dem Gesetze (§§. 340 bis 343a. b. G. B.) eine Untersagung oder Sicherstellung auszusprechen. Die spätere gerichtliche Geltendmachung des Rechtes zum Besitze und der davon abhängigen Ansprüche wird dadurch nicht gehindert. In der Begründung des Beschlusses ist auch eine gedrängte Darstellung des Sachverhaltes zu geben. Die Frist zur Erfüllung der dem Verurtheilten auferlegten Verbindlichkeit hat der Richter nach den Umständen des einzelnen Falles zu bestimmen. Der § 417 a gilt sinngemäß.
+----
 
-### § 384 ZPO
+----
+## Besondere Bestimmungen für das Verfahren in Ehesachen
 
-`§ 384 (1) ZPO.`  
-Die Vornahme eines Augenscheines oder die Vernehmung von Zeugen und Sachverständigen kann zur Sicherung einer Beweisführung in jeder Lage des Rechtsstreites und selbst noch vor Beginn desselben beantragt werden, wenn zu besorgen ist, dass das Beweismittel sonst verloren oder die Benützung desselben erschwert werde.
+### § 460 ZPO
 
-`§ 384 (2) ZPO.`  
-Diese Beweisaufnahmen können auch, ohne daß die Voraussetzungen des Abs. 1 vorliegen, angeordnet werden, wenn der gegenwärtige Zustand einer Sache festgestellt werden soll und der Antragsteller ein rechtliches Interesse an dieser Feststellung hat.
+`§ 460 ZPO.`  
+In Ehesachen (§ 49 Abs. 2 Z 2a JN) und Verfahren in anderen nicht rein vermögensrechtlichen aus dem gegenseitigen Verhältnis zwischen Ehegatten entspringenden Streitigkeiten (§ 49 Abs. 2 Z 2b JN) gelten folgende besondere Bestimmungen:  
+`§ 460 Z 1 ZPO.`
+Das Gericht soll die Parteien zum persönlichen Erscheinen auffordern, wenn nicht wichtige Gründe dagegen sprechen. Das Erscheinen der Parteien ist erforderlichenfalls nach § 87 GOG durchzusetzen.  
+`§ 460 Z 1a ZPO.`
+Parteien dürfen nur dann unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort- und Bildübertragung an einer nach § 132a anberaumten Tagsatzung teilnehmen, wenn sie durch einen Rechtsanwalt vertreten sind.  
+`§ 460 Z 2 ZPO.`
+Zur vorbereitenden Tagsatzung ist die Partei, nicht aber eine informierte Person nach § 258 Abs. 2 stellig zu machen.  
+`§ 460 Z 3 ZPO.`
+Die Verhandlung ist nicht öffentlich.  
+`§ 460 Z 4 ZPO.`
+Im Verfahren über die Nichtigerklärung oder die Feststellung des Bestehens oder Nichtbestehens einer Ehe hat das Gericht von Amts wegen dafür zu sorgen, daß alle für die Entscheidung maßgeblichen tatsächlichen Umstände aufgeklärt werden; der § 183 Abs. 2 gilt nicht. Das Gericht kann nicht erwiesene Tatsachenvorbringen unberücksichtigt lassen und von der Aufnahme von Beweisen Abstand nehmen, wenn solche Tatsachen der Beweise von einer Partei verspätet vorgebracht beziehungsweise angeboten werden und bei sorgfältiger Berücksichtigung aller Umstände kein vernünftiger Zweifel besteht, dass damit das Verfahren verschleppt werden soll und die Zulassung des Vorbringens oder der Beweise die Erledigung des Verfahrens erheblich verzögern würde. § 179 gilt nicht.  
+`§ 460 Z 5 ZPO.`
+Erscheint der Kläger zur mündlichen Verhandlung nicht, so ist die Klage auf Antrag des Beklagten vom Gericht als ohne Verzicht auf den Anspruch zurückgenommen zu erklären.  
+`§ 460 Z 6 ZPO.`
+Im Protokoll sind auch die Geburtsdaten und die Religion der Parteien, Anzahl und Alter ihrer Kinder und der Zeitpunkt des Abschlusses ihrer Ehe festzuhalten sowie, ob Ehepakte errichtet worden sind.  
+`§ 460 Z 6a ZPO.`
+Ist eine Partei nicht durch einen Rechtsanwalt vertreten und hat sie keine Beratung über die gesamten Scheidungsfolgen, einschließlich der sozialversicherungsrechtlichen Folgen und der Voraussetzungen eines Ausspruchs über die Haftung für Kredite, in Anspruch genommen, so hat das Gericht auf entsprechende Beratungsangebote und allgemein auf die Nachteile hinzuweisen, die durch ungenügende Kenntnisse über diese Folgen entstehen können. Die Tagsatzung ist zu erstrecken, um der Partei Gelegenheit zur Einholung einer Beratung zu geben, es sei denn, dass dadurch der Prozess unverhältnismäßig verzögert oder offensichtlich verschleppt werden soll. Eine neuerliche Erstreckung aus diesem Grund ist unzulässig. Das Gericht hat die nächste Verhandlung für einen Termin tunlichst innerhalb von sechs Wochen anzuberaumen.  
+`§ 460 Z 7 ZPO.`
+Im Verfahren wegen Scheidung der Ehe hat das Gericht am Beginn der mündlichen Streitverhandlung zunächst eine Versöhnung der Ehegatten anzustreben (Versöhnungsversuch) und überdies in jeder Lage des Verfahrens, soweit tunlich, auf eine Versöhnung hinzuwirken.
+
+*(Anm.: Z 7a aufgehoben durch BGBl. I Nr. 29/2003)*  
+`§ 460 Z 8 ZPO.`
+Stirbt einer der Ehegatten vor der Rechtskraft des Urteils (§ 416 Abs. 1), so ist der Rechtsstreit in Ansehung der Hauptsache als erledigt anzusehen. Er kann nur mehr wegen der Verfahrenskosten fortgesetzt werden. Ein bereits ergangenes Urteil ist wirkungslos.  
+`§ 460 Z 8a ZPO.`
+Auf ihr Verlangen ist den Ehegatten jederzeit auch eine Ausfertigung der Entscheidung über die Auflösung der Ehe auszustellen, die keine Entscheidungsgründe enthält.  
+`§ 460 Z 9 ZPO.`
+Urteile auf Grund eines Verzichtes oder eines Anerkenntnisses sowie Vergleiche sind unzulässig, der § 442 ist nicht anzuwenden.  
+`§ 460 Z 10 ZPO.`
+Wird ein Antrag auf Scheidung nach § 55a EheG gestellt, so ist ein wegen Ehescheidung anhängiger Rechtsstreit zu unterbrechen. Wird dem Scheidungsantrag stattgegeben, so gilt die Scheidungsklage mit Eintritt der Rechtskraft des Scheidungsbeschlusses als zurückgenommen; die Prozeßkosten sind gegeneinander aufzuheben. Wird der Scheidungsantrag zurückgezogen oder rechtskräftig abgewiesen, so ist das unterbrochene Scheidungsverfahren auf Antrag wiederaufzunehmen.  
+`§ 460 Z 10a ZPO.`
+Die für das Verfahren über die Klage auf Scheidung einer Ehe bewilligte Verfahrenshilfe erstreckt sich auch auf ein Verfahren über den Antrag auf Scheidung nach § 55a EheG, der während des wegen Ehescheidung anhängigen Rechtsstreits gestellt wird.  
+`§ 460 Z 11 ZPO.`
+Verliert ein Ehegatte durch eine Entscheidung über die Auflösung der Ehe offenbar den Schutz der gesetzlichen Krankenversicherung, so hat das Gericht mit Zustimmung dieses Ehegatten den zuständigen Sozialversicherungsträger im Weg des Dachverbandes der Sozialversicherungsträger zu verständigen. Die Verständigung hat den Familien- und Vornamen, das Geburtsdatum, die Anschrift sowie die Sozialversicherungsnummer des Ehegatten zu enthalten. Der Versicherungsträger hat dem Ehegatten Informationen über die sozialversicherungsrechtlichen Folgen der Eheauflösung und die Möglichkeit der Fortsetzung des Versicherungsschutzes zu übermitteln.
+----
 
-`§ 384 (3) ZPO.`  
-Der Antrag ist bei dem Processgerichte, in dringenden Fällen aber sowie wenn ein Rechtsstreit noch nicht anhängig ist, bei dem Bezirksgerichte anzubringen, in dessen Sprengel die Sachen, welche in Augenschein zu nehmen sind oder die Grundlage des Sachverständigenbeweises zu bilden haben, oder die zu vernehmenden Personen sich befinden. Der Antrag kann zu gerichtlichem Protokoll angebracht werden.
+----
+## Vierter Theil. # Rechtsmittel. # Erster Abschnitt. # Berufung. # Zulässigkeit.
 
-### § 385 ZPO
+### § 461 ZPO # 
 
-`§ 385 (1) ZPO.`  
-Die antragstellende Partei hat die Thatsachen, über welche die Beweisaufnahme erfolgen soll, sowie die Beweismittel unter Benennung der zu vernehmenden Zeugen und der allenfalls vorgeschlagenen Sachverständigen anzugeben. Die Gründe, die den Antrag nach § 384 Abs. 1 oder 2 rechtfertigen, sind von der antragstellenden Partei darzulegen.
+`§ 461 (1) ZPO.`  
+Gegen die in erster Instanz gefällten Urtheile findet die Berufung statt.
 
-`§ 385 (2) ZPO.`  
-Die antragstellende Partei hat ferner den Gegner zu benennen. Hievon kann nur dann abgesehen werden, wenn sich aus den von der Partei dargelegten Umständen ergibt, dass sie nach Lage der Sache außerstande ist, den Gegner zu bezeichnen.
+`§ 461 (2) ZPO.`  
+Gegen ein in Anwesenheit beider Parteien mündlich verkündetes Urteil (§ 414) kann Berufung von einer Partei nur erhoben werden, die diese sofort nach der Verkündung des Urteils mündlich oder binnen vierzehn Tagen ab der Zustellung der Protokollsabschrift über jene Tagsatzung zur mündlichen Verhandlung, in der das Urteil verkündet worden ist, in einem bei dem Prozeßgericht erster Instanz überreichten Schriftsatz angemeldet hat. Wird in dieser Frist ein Antrag im Sinn des § 464 Abs. 3 gestellt, so gilt er als Anmeldung der Berufung.
+----
 
-### § 386 ZPO
+----
+### § 462 ZPO # 
 
-`§ 386 (1) ZPO.`  
-Über den Antrag ist ohne vorhergehende mündliche Verhandlung durch Beschluss zu entscheiden. Vor der Entscheidung ist jedoch, sofern nicht Gefahr am Verzuge ist, der Gegner zu vernehmen, falls derselbe bekannt und seine Zustimmung nicht bereits nachgewiesen ist. Der antragstellenden Partei kann vor der Entscheidung aufgetragen werden, die Umstände glaubhaft zu machen, welche die Sicherung des Beweises nothwendig machen.
+`§ 462 (1) ZPO.`  
+Das Berufungsgericht überprüft die Entscheidung des Gerichtes erster Instanz innerhalb der Grenzen der Berufungsanträge.
 
-`§ 386 (2) ZPO.`  
-Zur Entscheidung ist bei Gerichtshöfen der Vorsteher des Gerichtshofes oder der Vorsitzende des Senates berufen, welchem die Rechtssache zugewiesen ist. Er fällt die Entscheidung als Einzelrichter.
+`§ 462 (2) ZPO.`  
+Der Beurtheilung des Berufungsgerichtes unterliegen jedoch gleichzeitig auch diejenigen Beschlüsse, welche in dem dem Urtheile vorausgegangenen Verfahren erlassen wurden, sofern nicht deren Anfechtung nach dem Gesetze ausgeschlossen ist oder dieselben infolge Unterlassung der rechtzeitigen Rüge (§. 196), des Recurses oder durch die über den eingebrachten Recurs ergangene Entscheidung unabänderlich geworden sind.
+----
 
-`§ 386 (3) ZPO.`  
-In dem dem Antrage stattgebenden Beschlusse hat das Gericht die Thatsachen, über welche die Beweisaufnahme erfolgen soll, sowie die Beweismittel unter Benennung der zu vernehmenden Zeugen und unter Bestellung der Sachverständigen zu bezeichnen. Zugleich sind die zum Vollzuge der Beweisaufnahme nöthigen Anordnungen zu treffen. Für den unbekannten Gegner kann das Gericht zur Wahrnehmung seiner Rechte bei der Beweisaufnahme einen Curator bestellen.
+----
+## Allgemeine Bestimmungen über das Berufungsverfahren.
 
-`§ 386 (4) ZPO.`  
-Der Beschluss, welcher dem Antrage stattgibt, kann durch ein Rechtsmittel nicht angefochten werden.
+### § 463 ZPO # 
 
-### § 387 ZPO
+`§ 463 (1) ZPO.`  
+Auf das Berufungsverfahren sind die Vorschriften über das Verfahren vor Gerichtshöfen erster Instanz insoweit anzuwenden, als sich nicht aus den nachfolgenden Bestimmungen Abweichungen ergeben.
 
-`§ 387 (1) ZPO.`  
-Der Gegner ist unter Zustellung des Beschlusses und, falls er über den Antrag nicht früher gehört wurde, auch eines Exemplars des von der antragstellenden Partei überreichten Schriftsatzes oder einer Abschrift des über ihren Antrag aufgenommenen Protokolles zu der für die Beweisaufnahme bestimmten Tagsatzung zu laden.
+`§ 463 (2) ZPO.`  
+Im Berufungsverfahren müssen die Parteien durch Rechtsanwälte vertreten sein.
+----
 
-`§ 387 (2) ZPO.`  
-In dringenden Fällen kann jedoch noch vor Zustellung des Beschlusses an den bekannten Gegner mit der Beweisaufnahme begonnen werden. Die Bewilligung hiezu kann auf Antrag gleichzeitig mit der Entscheidung über den Antrag auf Zulassung der Beweisaufnahme ertheilt werden. Gegen die Gewährung oder Verweigerung dieser Bewilligung ist ein Rechtsmittel unzulässig.
+----
+## Berufungsfrist.
 
-### § 388 ZPO
+### § 464 ZPO # 
 
-`§ 388 (1) ZPO.`  
-Die Beweisaufnahme erfolgt nach den Vorschriften des zweiten, vierten, fünften und sechsten Titels dieses Abschnittes.
+`§ 464 (1) ZPO.`  
+Die Berufungsfrist beträgt vier Wochen, sie kann nicht verlängert werden.
 
-`§ 388 (2) ZPO.`  
-Das die Beweisaufnahme betreffende Protokoll wird bei dem Gerichte verwahrt, welches die Beweisaufnahme angeordnet hat. Wenn der Rechtsstreit bei einem anderen Gerichte anhängig ist oder anhängig wird, ist das Protokoll dem Processgerichte auf dessen Ersuchen oder auf Antrag einer der Parteien zu übersenden.
+`§ 464 (2) ZPO.`  
+Sie beginnt für jede Partei mit der an sie erfolgten Zustellung der schriftlichen Ausfertigung des Urteils; § 416 Abs. 3 bleibt jedoch unberührt.
 
-`§ 388 (3) ZPO.`  
-Die Kosten der Beweisaufnahme werden von der antragstellenden Partei bestritten, unbeschadet eines ihr zustehenden Ersatzanspruches. Dem Gegner sind die nothwendigen Kosten für seine Betheiligung bei der Beweisaufnahme unbeschadet der Entscheidung in der Hauptsache zu ersetzen.
+`§ 464 (3) ZPO.`  
+Hat eine die Verfahrenshilfe genießende oder beantragende Partei innerhalb dieser Frist die Beigebung eines Rechtsanwalts beantragt, so beginnt für sie die Berufungsfrist mit der Zustellung des Bescheides über die Bestellung des Rechtsanwalts und einer schriftlichen Urteilsausfertigung an ihn; der Bescheid ist durch das Gericht zuzustellen. Wird der rechtzeitig gestellte Antrag auf Beigebung eines Rechtsanwalts abgewiesen, so beginnt die Berufungsfrist mit dem Eintritt der Rechtskraft des abweisenden Beschlusses. Der § 73 Abs. 3 gilt sinngemäß.
+----
 
-### § 389 ZPO
+----
+## Erhebung der Berufung.
 
-`§ 389 (1) ZPO.`  
-Jede Partei kann im Verlaufe des Rechtsstreites die zur Sicherung eines Beweises erfolgte Beweisaufnahme benützen.
+### § 465 ZPO # 
 
-`§ 389 (2) ZPO.`  
-Welcher Einfluss der Einwendung einzuräumen sei, dass die Beweisaufnahme nicht nach den Bestimmungen stattgefunden hat, welche für eine im Laufe des Processes erfolgende Beweisaufnahme gelten, oder dass der Gegner von der Beweisaufnahme nicht oder nicht rechtzeitig verständigt wurde, hat das erkennende Gericht nach §. 272 zu würdigen.
+`§ 465 ZPO.`  
+Die Berufung wird durch Überreichung eines vorbereitenden Schriftsatzes (Berufungsschrift) bei dem Processgerichte erster Instanz erhoben.
+----
 
-`§ 389 (3) ZPO.`  
-Im Verlaufe des Rechtsstreites kann eine Ergänzung oder Wiederholung der Beweisaufnahme angeordnet werden.
+----
+### § 466 ZPO # 
 
-## Zweiter Abschnitt. # Urtheile und Beschlüsse. # Erster Titel. # Urtheile. # Endurtheil.
+`§ 466 ZPO.`  
+Durch die rechtzeitige Erhebung der Berufung wird der Eintritt der Rechtskraft und Vollstreckbarkeit des angefochtenen Urtheiles im Umfange der Berufungsanträge bis zur Erledigung des Rechtsmittels gehemmt.
+----
 
-### § 390 ZPO
+----
+### § 467 ZPO # 
 
-`§ 390 (1) ZPO.`  
-Wenn der Rechtsstreit nach den Ergebnissen der durchgeführten Verhandlung und der stattgefundenen Beweisaufnahme zur Endentscheidung reif ist, hat das Gericht diese Entscheidung durch Urtheil zu fällen (Endurtheil).
+`§ 467 ZPO.`  
+Die Berufungsschrift muss nebst den allgemeinen Erfordernissen eines vorbereitenden Schriftsatzes enthalten:  
+`§ 467 Z 1 ZPO.`
+die Bezeichnung des Berufungsgerichtes;  
+`§ 467 Z 2 ZPO.`
+die Bezeichnung des Urtheiles, gegen welches Berufung erhoben wird;  
+`§ 467 Z 3 ZPO.`
+die bestimmte Erklärung, inwieweit das Urtheil angefochten wird, die ebenso bestimmte kurze Bezeichnung der Gründe der Anfechtung (Berufungsgründe), und die Erklärung, ob die Aufhebung oder eine Abänderung des Urtheiles, und welche beantragt werde (Berufungsantrag);  
+`§ 467 Z 4 ZPO.`
+das thatsächliche Vorbringen und die Beweismittel, durch welche die Wahrheit der Berufungsgründe erwiesen werden kann;  
+`§ 467 Z 5 ZPO.`
+die Unterschrift eines Rechtsanwalts.
+----
 
-`§ 390 (2) ZPO.`  
-Dasselbe gilt, wenn von mehreren zum Zwecke gleichzeitiger Verhandlung verbundenen Processen nur einer zur Endentscheidung reif ist.
+----
+### § 468 ZPO # 
 
-## Theilurtheil.
+`§ 468 (1) ZPO.`  
+Im Falle rechtzeitiger Erhebung der Berufung wird die Berufungsschrift dem Gegner des Berufungswerbers unter Bekanntgabe des Berufungsgerichtes zugestellt. Verspätet erhobene Berufungen oder mangels rechtzeitiger Anmeldung der Berufung (§ 461 Abs. 2) unzulässige Berufungen sind vom Prozeßgericht erster Instanz zurückzuweisen.
 
-### § 391 ZPO
+`§ 468 (2) ZPO.`  
+Der Berufungsgegner kann binnen der Notfrist von vier Wochen nach der Zustellung der Berufungsschrift bei dem Prozeßgericht erster Instanz eine Berufungsbeantwortung mittels Schriftsatzes einbringen. Soweit sich der Berufungswerber nicht ausdrücklich auf Feststellungen des Erstgerichts bezieht, ist der Berufungsgegner - vorbehaltlich des § 473a - nicht gehalten, für ihn nachteilige Feststellungen oder zu seinen Lasten vorgefallene Verfahrensfehler mit der Berufungsbeantwortung zu rügen. Will der Berufungsgegner zur Widerlegung der in der Berufungsschrift angegebenen Anfechtungsgründe neue, im bisherigen Verfahren noch nicht vorgebrachte Umstände und Beweise benützen, so hat er das bezügliche tatsächliche und Beweisvorbringen bei sonstigem Ausschluß in dieser Berufungsbeantwortung bekanntzugeben.
 
-`§ 391 (1) ZPO.`  
-Sind einzelne von mehreren in derselben Klage geltend gemachten Ansprüchen oder ist ein Teil eines Anspruches durch ausdrückliche Anerkennung von Seiten des Beklagten außer Streit gestellt oder zur Endentscheidung reif, so kann das Gericht in Ansehung dieses Anspruches oder des Teiles sofort zum Schluß der Verhandlung und zur Urteilsfällung schreiten (Teilurteil).
+`§ 468 (3) ZPO.`  
+Auf die Berufungsbeantwortung sind der § 464 Abs. 3 sowie der § 467 Z 4 und 5 sinngemäß anzuwenden.
 
-`§ 391 (2) ZPO.`  
-Ein Theilurteil kann auch erlassen werden, wenn bei erhobener Widerklage nur die Klage oder Widerklage zur Endentscheidung reif ist.
+`§ 468 (4) ZPO.`  
+Von der Einbringung der Berufungsbeantwortung ist der Berufungswerber durch Übersendung einer Ausfertigung derselben zu verständigen.
+----
 
-`§ 391 (3) ZPO.`  
-Hat der Beklagte mittels Einrede eine Gegenforderung geltend gemacht, welche mit der in der Klage geltend gemachten Forderung nicht im rechtlichen Zusammenhange steht, so kann, wenn nur die Verhandlung über den Klagsanspruch zur Entscheidung reif ist, über denselben durch Theilurtheil erkannt werden. Die Verhandlung über die Gegenforderung ist ohne Unterbrechung fortzusetzen.
+----
+### § 469 ZPO # 
 
-### § 392 ZPO
+`§ 469 (1) ZPO.`  
+Nach rechtzeitigem Einlangen der Berufungsbeantwortung oder nach fruchtlosem Ablauf der hiefür offenstehenden Frist hat das Prozeßgericht erster Instanz dem Berufungsgericht die Berufungsschrift und die etwa eingelangte Berufungsbeantwortung mit allen den Rechtsstreit betreffenden Prozeßakten und besonders mit den Ausweisen über die Zustellung des Urteils und der Berufungsschrift vorzulegen. Gibt der Inhalt der Berufungsschrift oder der Berufungsbeantwortung zu einer Erledigung des Prozeßgerichtes erster Instanz Anlaß, so ist diese vorher zu treffen; werden Zustellmängel behauptet, so sind vorher die notwendigen Erhebungen durchzuführen.
 
-`§ 392 (1) ZPO.`  
-Jedes Theilurtheil ist in Betreff der Rechtsmittel und der Execution als ein selbständiges Urtheil zu betrachten.
+`§ 469 (2) ZPO.`  
+Wurde der Rechtsstreit durch das angefochtene Urtheil nicht vollständig erledigt und soll die Verhandlung über die noch unerledigten Punkte während des Berufungsverfahrens fortgesetzt werden, so sind dem Berufungsgerichte amtliche Abschriften der auf den Gegenstand des Berufungsverfahrens bezüglichen Theile derjenigen Processacten vorzulegen, welche zugleich für das Verfahren in erster Instanz benöthigt werden.
 
-`§ 392 (2) ZPO.`  
-Die Bestimmungen des §. 52, Absatz 2 gelten auch in Ansehung der Nebengebüren des Anspruches oder Theilanspruches, über welche mittels Theilurtheils erkannt wurde.
+`§ 469 (3) ZPO.`  
+Richtet sich eine auf den Nichtigkeitsgrund des § 477 Abs. 1 Z 4 gestützte Berufung gegen ein Versäumungsurteil (§ 396), so kann das Gericht, dessen Urteil angefochten wird, der Berufung selbst stattgeben. Gegen die Entscheidung ist ein Rechtsmittel nicht zulässig.
+----
 
-## Zwischenurtheil.
-
-### § 393 ZPO
-
-`§ 393 (1) ZPO.`  
-Wenn in einem Rechtsstreite ein Anspruch nach Grund und Betrag streitig und die Verhandlung zunächst bloß in Ansehung des Grundes zur Entscheidung reif ist, kann das Gericht vorab über den Grund des Anspruches durch Urtheil entscheiden (Zwischenurtheil), auch wenn noch strittig ist, ob der Anspruch überhaupt mit irgendeinem Betrag zu Recht besteht.
-
-`§ 393 (2) ZPO.`  
-Ferner kann durch ein der Entscheidung der Hauptsache vorausgehendes Zwischenurtheil im Falle der §§. 236 und 259 über das Bestehen oder Nichtbestehen eines Rechtsverhältnisses oder Rechtes entschieden werden, sobald die Verhandlung über den Feststellungsantrag zur Entscheidung reif ist.
-
-`§ 393 (3) ZPO.`  
-Die im Sinne der beiden ersten Absätze erlassenen Urtheile sind in Betreff der Rechtsmittel als Endurtheile anzusehen. Durch die Erhebung der Berufung oder Revision gegen ein gemäß Absatz 1 erlassenes Zwischenurtheil wird die weitere Verhandlung über die Klage bis zum Eintritte der Rechtskraft des erlassenen Zwischenurtheiles gehemmt. In allen anderen Fällen nimmt ungeachtet der Berufung oder Revision gegen das Zwischenurtheil die Verhandlung der Hauptsache ihren Fortgang. Das Gericht kann jedoch, wenn ein für die Entscheidung der Hauptsache wesentliches Rechtsverhältnis oder Recht für nicht begründet erkannt wurde, anordnen, dass die weitere Verhandlung über die Klage bis zum Eintritte der Rechtskraft des erlassenen Zwischenurtheiles auszusetzen sei. Diese Anordnung kann durch ein Rechtsmittel nicht angefochten werden.
-
-`§ 393 (4) ZPO.`  
-In Ansehung der Kosten hat die Vorschrift des § 52 Abs. 4 sinngemäße Anwendung zu finden.
-
-### § 393a ZPO # Zwischenurteil zur Verjährung
-
-`§ 393a ZPO.`  
-Wenn in einem Rechtsstreit der Einwand der Verjährung des geltend gemachten Anspruchs erhoben wird, kann das Gericht von Amts wegen oder auf Antrag über diesen Einwand gesondert mit Urteil entscheiden, soweit die Klage nicht aus diesem Grund abzuweisen ist. § 393 Abs. 3 erster und zweiter Satz sind sinngemäß anzuwenden.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.014](BG.ZPO.014.md))*
+`END-OF-DATA-SET`

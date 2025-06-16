@@ -1,292 +1,390 @@
 # BG.ABGB.026 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.026.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.025](BG.ABGB.025.md))*
 
-## Insbesondere
+----
+## Viertes Hauptstück. # Von der Verjährung und Ersitzung.
 
-### § 1325 ABGB # 1) bey Verletzungen an dem Körper;
+### § 1451 ABGB # Verjährung
 
-`§ 1325 ABGB.`  
-Wer jemanden an seinem Körper verletzet, bestreitet die Heilungskosten des Verletzten; ersetzet ihm den entgangenen, oder wenn der Beschädigte zum Erwerb unfähig wird, auch den künftig entgehenden Verdienst und bezahlt ihm auf Verlangen überdieß ein den erhobenen Umständen angemessenes Schmerzengeld.
+`§ 1451 ABGB.`  
+Die Verjährung ist der Verlust eines Rechtes, welches während der von dem Gesetze bestimmten Zeit nicht ausgeübt worden ist.
+----
 
-### § 1326 ABGB
+----
+### § 1452 ABGB # Ersitzung
 
-`§ 1326 ABGB.`  
-Ist die verletzte Person durch die Mißhandlung verunstaltet worden; so muß, zumahl wenn sie weiblichen Geschlechtes ist, in so fern auf diesen Umstand Rücksicht genommen werden, als ihr besseres Fortkommen dadurch verhindert werden kann.
+`§ 1452 ABGB.`  
+Wird das verjährte Recht vermöge des gesetzlichen Besitzes zugleich auf jemand Andern übertragen; so heißt es ein ersessenes Recht, und die Erwerbungsart Ersitzung.
+----
 
-### § 1327 ABGB
+----
+### § 1453 ABGB # Wer verjähren und ersitzen kann
 
-`§ 1327 ABGB.`  
-Erfolgt aus einer körperlichen Verletzung der Tod, so müssen nicht nur alle Kosten, sondern auch den Hinterbliebenen, für deren Unterhalt der Getötete nach dem Gesetze zu sorgen hatte, das, was ihnen dadurch entgangen ist, ersetzt werden.
+`§ 1453 ABGB.`  
+Jeder, der sonst zu erwerben fähig ist, kann auch ein Eigenthum oder andere Rechte durch Ersitzung erwerben.
+----
 
-### § 1328 ABGB # 1a. an der geschlechtlichen Selbstbestimmung
+----
+### § 1454 ABGB # Gegen wen;
 
-`§ 1328 ABGB.`  
-Wer jemanden durch eine strafbare Handlung oder sonst durch Hinterlist, Drohung oder Ausnutzung eines Abhängigkeits- oder Autoritätsverhältnisses zur Beiwohnung oder sonst zu geschlechtlichen Handlungen mißbraucht, hat ihm den erlittenen Schaden und den entgangenen Gewinn zu ersetzen sowie eine angemessene Entschädigung für die erlittene Beeinträchtigung zu leisten.
+`§ 1454 ABGB.`  
+Die Verjährung und Ersitzung kann gegen alle Privat-Personen, welche ihre Rechte selbst auszuüben fähig sind, Statt finden. Gegen Minderjährige und volljährige Personen, wenn diese aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit an der Durchsetzung ihrer Rechte gehindert sind; gegen Kirchen, Gemeinden und andere moralische Körper; gegen Verwalter des öffentlichen Vermögens und gegen diejenigen, welche ohne ihr Verschulden abwesend sind, wird sie nur unter den unten (§§. 1494, 1472 und 1475) folgenden Beschränkungen gestattet.
+----
 
-### § 1328a ABGB # 1b. am Recht auf Wahrung der Privatsphäre
+----
+### § 1455 ABGB # Welche Gegenstände
 
-`§ 1328a (1) ABGB.`  
-Wer rechtswidrig und schuldhaft in die Privatsphäre eines Menschen eingreift oder Umstände aus der Privatsphäre eines Menschen offenbart oder verwertet, hat ihm den dadurch entstandenen Schaden zu ersetzen. Bei erheblichen Verletzungen der Privatsphäre, etwa wenn Umstände daraus in einer Weise verwertet werden, die geeignet ist, den Menschen in der Öffentlichkeit bloßzustellen, umfasst der Ersatzanspruch auch eine Entschädigung für die erlittene persönliche Beeinträchtigung.
+`§ 1455 ABGB.`  
+Was sich erwerben läßt, kann auch ersessen werden. Sachen hingegen, welche man vermöge ihrer wesentlichen Beschaffenheit, oder vermöge der Gesetze nicht besitzen kann; ferner Sachen und Rechte, welche schlechterdings unveräußerlich sind, sind kein Gegenstand der Ersitzung.
+----
 
-`§ 1328a (2) ABGB.`  
-Abs. 1 ist nicht anzuwenden, sofern eine Verletzung der Privatsphäre nach besonderen Bestimmungen zu beurteilen ist. Die Verantwortung für Verletzungen der Privatsphäre durch Medien richtet sich bei Dazwischentreten eines medienrechtlich Verantwortlichen allein nach den Bestimmungen des Mediengesetzes, BGBl. Nr. 314/1981, in der jeweils geltenden Fassung.
+----
+### § 1456 ABGB
 
-### § 1329 ABGB # 2) an der persönlichen Freyheit;
+`§ 1456 ABGB.`  
+Aus diesem Grunde können weder die dem Staatsoberhaupte als solchem allein zukommenden Rechte, z. B. das Recht, Zölle anzulegen, Münzen zu prägen, Steuern auszuschreiben, und andere Hoheitsrechte (Regalien) durch Ersitzung erworben, noch die diesen Rechten entsprechenden Schuldigkeiten verjährt werden.
+----
 
-`§ 1329 ABGB.`  
-Wer jemanden durch gewaltsame Entführung, durch Privatgefangennehmung oder vorsätzlich durch einen widerrechtlichen Arrest seiner Freiheit beraubt, ist verpflichtet, dem Verletzten die vorige Freiheit zu verschaffen und volle Genugtuung zu leisten. Kann er ihm die Freiheit nicht mehr verschaffen, so muß er den Hinterbliebenen, wie bei der Tötung, Ersatz leisten.
+----
+### § 1457 ABGB
 
-### § 1330 ABGB # 3) an der Ehre;
+`§ 1457 ABGB.`  
+Andere dem Staatsoberhaupte zukommende, doch nicht ausschließend vorbehaltene Rechte, z. B. auf Waldungen, Jagden, Fischereyen u. d.gl., können zwar überhaupt von andern Staatsbürgern, doch nur binnen einem längern als dem gewöhnlichen Zeitraume (§. 1472) ersessen werden.
+----
 
-`§ 1330 (1) ABGB.`  
-Wenn jemandem durch Ehrenbeleidigung ein wirklicher Schade oder Entgang des Gewinnes verursacht worden ist, so ist er berechtigt, den Ersatz zu fordern.
+----
+### § 1458 ABGB
 
-`§ 1330 (2) ABGB.`  
-Dies gilt auch, wenn jemand Tatsachen verbreitet, die den Kredit, den Erwerb oder das Fortkommen eines anderen gefährden und deren Unwahrheit er kannte oder kennen mußte. In diesem Falle kann auch der Widerruf und die Veröffentlichung desselben verlangt werden. Für eine nicht öffentlich vorgebrachte Mitteilung, deren Unwahrheit der Mitteilende nicht kennt, haftet er nicht, wenn er oder der Empfänger der Mitteilung an ihr ein berechtigtes Interesse hatte.
+`§ 1458 ABGB.`  
+Die Rechte eines Ehegatten, eines eingetragenen Partners, der Eltern, eines Kindes und andere Personenrechte sind kein Gegenstand der Ersitzung. Doch kommt denjenigen, welche dergleichen Rechte redlicher Weise ausüben, die schuldlose Unwissenheit zur einstweiligen Behauptung und Ausübung ihrer vermeinten Rechte zustatten.
+----
 
-### § 1331 ABGB # 4) an dem Vermögen.
+----
+### § 1459 ABGB
 
-`§ 1331 ABGB.`  
-Wird jemand an seinem Vermögen vorsätzlich oder durch auffallende Sorglosigkeit eines Anderen beschädiget; so ist er auch den entgangenen Gewinn, und, wen der Schade vermittelst einer durch ein Strafgesetz verbothenen Handlung oder aus Muthwillen und Schadenfreude verursachet worden ist, den Werth der besonderen Vorliebe zu fordern berechtiget.
+`§ 1459 ABGB.`  
+Die Rechte eines Menschen über seine Handlungen und über sein Eigenthum, z. B. eine Waare da oder dort zu kaufen, seine Wiesen oder sein Wasser zu benutzen, unterliegen, außer dem Falle, daß das Gesetz mit der binnen einem Zeitraume unterlassenen Ausübung ausdrücklich den Verlust derselben verknüpfet, keiner Verjährung. Hat aber eine Person der andern die Ausübung eines solchen Rechtes untersagt, oder sie daran verhindert; so fängt der Besitz des Untersagungsrechtes von Seite der Einen gegen die Freyheit der Andern von dem Augenblicke an, als sich diese dem Verbothe, oder der Verhinderung gefüget hat, und es wird dadurch, wenn alle übrige Erfordernisse eintreffen, die Verjährung oder die Ersitzung bewirket (§§.. 313 u. 351).
+----
 
-### § 1332 ABGB
+----
+### § 1460 ABGB # Erfordernisse zur Ersitzung: # 1) Besitz;
 
-`§ 1332 ABGB.`  
-Der Schade, welcher aus einem minderen Grade des Versehens oder der Nachlässigkeit verursachet worden ist, wird nach dem gemeinen Werthe, den die Sache zur Zeit der Beschädigung hatte, ersetzet.
+`§ 1460 ABGB.`  
+Zur Ersitzung wird nebst der Fähigkeit der Person und des Gegenstandes erfordert: daß jemand die Sache oder das Recht, die auf diese Art erworben werden sollen, wirklich besitze; daß sein Besitz rechtmäßig, redlich und echt sey, und durch die ganze von dem Gesetze bestimmte Zeit fortgesetzt werde. (§. 309, 316, 326 und 345).
+----
 
-### § 1332a ABGB
+----
+### § 1461 ABGB # Und zwar a) ein rechtmäßiger;
 
-`§ 1332a ABGB.`  
-Wird ein Tier verletzt, so gebühren die tatsächlich aufgewendeten Kosten der Heilung oder der versuchten Heilung auch dann, wenn sie den Wert des Tieres übersteigen, soweit auch ein verständiger Tierhalter in der Lage des Geschädigten diese Kosten aufgewendet hätte.
+`§ 1461 ABGB.`  
+Jeder Besitz, der sich auf einen solchen Titel gründet, welcher zur Uebernahme des Eigenthumes, wenn solches dem Uebergeber gebührt hätte, hinlänglich gewesen wäre, ist rechtmäßig und zur Ersitzung hinreichend. Dergleichen sind, z. B. das Vermächtniß, die Schenkung, das Darleihen, der Kauf und Verkauf, der Tausch, die Zahlung, u.s.w.
+----
 
-## Besonders durch die Verzögerung der Zahlung.
+----
+### § 1462 ABGB
 
-### § 1333 ABGB # Gesetzliche Zinsen und weitere Schäden
+`§ 1462 ABGB.`  
+Verpfändete, geliehene, in Verwahrung, oder zur Fruchtnießung gegebene Sachen können von Gläubigern, Entlehnern und Verwahrern oder Fruchtnießern, aus Mangel eines rechtmäßigen Titels, niemahls ersessen werden. Ihre Erben stellen die Verstorbenen vor, und haben nicht mehr Titel als dieselben. Nur dem dritten rechtmäßigen Besitzer kann die Ersitzungszeit zu Statten kommen.
+----
 
-`§ 1333 (1) ABGB.`  
-Der Schaden, den der Schuldner seinem Gläubiger durch die Verzögerung der Zahlung einer Geldforderung zugefügt hat, wird durch die gesetzlichen Zinsen (§ 1000 Abs. 1) vergütet.
+----
+### § 1463 ABGB # b) redlicher,
 
-`§ 1333 (2) ABGB.`  
-Der Gläubiger kann außer den gesetzlichen Zinsen auch den Ersatz anderer, vom Schuldner verschuldeter und ihm erwachsener Schäden geltend machen, insbesondere die notwendigen Kosten zweckentsprechender außergerichtlicher Betreibungs- oder Einbringungsmaßnahmen, soweit diese in einem angemessenen Verhältnis zur betriebenen Forderung stehen.
+`§ 1463 ABGB.`  
+Der Besitz muß redlich seyn. Die Unredlichkeit des vorigen Besitzers hindert aber einen redlichen Nachfolger oder Erben nicht, die Ersitzung von dem Tage seines Besitzes anzufangen (§. 1493).
+----
 
-### § 1334 ABGB
+----
+### § 1464 ABGB # c) echter
 
-`§ 1334 ABGB.`  
-Eine Verzögerung fällt einem Schuldner zur Last, wenn er den durch Gesetz oder Vertrag bestimmten Zahlungstag nicht einhält. Sofern die Parteien nicht anderes vereinbart haben, hat der Schuldner seine Leistung bei vertragsgemäßer Erbringung der Gegenleistung ohne unnötigen Aufschub nach der Erfüllung durch den Gläubiger oder, wenn die Parteien ein solches Verfahren vereinbart haben, nach der Abnahme oder Überprüfung der Leistung des Gläubigers oder, wenn die Forderung der Höhe nach noch nicht feststeht, nach dem Eingang der Rechnung oder einer gleichwertigen Zahlungsaufforderung zu erbringen. Ist die Zahlungszeit sonst nicht bestimmt, so trägt der Schuldner die Folgen der Zahlungsverzögerung, wenn er sich nach dem Tag der gerichtlichen oder außergerichtlichen Einmahnung nicht mit dem Gläubiger abgefunden hat.
+`§ 1464 ABGB.`  
+Der Besitz muß auch echt seyn. Wenn jemand sich einer Sache mit Gewalt oder List bemächtiget, oder in den Besitz heimlich einschleicht, oder eine Sache nur bittweise besitzt; so kann weder er selbst, noch können seine Erben dieselbe verjähren.
+----
 
-### § 1335 ABGB
+----
+### § 1465 ABGB # 2) Verlauf der Zeit
 
-`§ 1335 ABGB.`  
-Hat der Gläubiger die Zinsen ohne gerichtliche Einmahnung bis auf den Betrag der Hauptschuld steigen lassen, so erlischt das Recht, vom Kapital weitere Zinsen zu fordern. Vom Tag der Streitanhängigkeit an können jedoch neuerdings Zinsen verlangt werden.
+`§ 1465 ABGB.`  
+Zur Ersitzung und Verjährung ist auch der in dem Gesetze vorgeschriebene Verlauf der Zeit nothwendig. Außer dem durch die Gesetze für einige besondere Fälle festgesetzten Zeitraume, wird hier das in allen übrigen Fällen zur Ersitzung oder Verjährung nöthige Zeitmaß überhaupt bestimmt. Es kommt dabey sowohl auf die Verschiedenheit der Rechte und der Sachen, als der Personen an.
+----
 
-### § 1336 ABGB # Bedingung des Vergütungsvertrages (Conventional-Strafe).
+----
+### § 1466 ABGB # Ersitzungszeit. Ordentliche;
 
-`§ 1336 (1) ABGB.`  
-Die vertragschließenden Teile können eine besondere Übereinkunft treffen, daß auf den Fall des entweder gar nicht oder nicht auf gehörige Art oder zu spät erfüllten Versprechens ein bestimmter Geld- oder anderer Betrag entrichtet werden solle (§ 912). Der Schuldner erlangt mangels besonderer Vereinbarung nicht das Recht, sich durch Bezahlung des Vergütungsbetrages von der Erfüllung zu befreien. Wurde die Konventionalstrafe für die Nichteinhaltung der Erfüllungszeit oder des Erfüllungsortes versprochen, so kann sie neben der Erfüllung gefordert werden.
+`§ 1466 ABGB.`  
+Das Eigenthumsrecht, dessen Gegenstand eine bewegliche Sache ist, wird durch einen dreyjährigen rechtlichen Besitz ersessen.
+----
 
-`§ 1336 (2) ABGB.`  
-In allen Fällen ist der Vergütungsbetrag, wenn er vom Schuldner als übermäßig erwiesen wird, von dem Richter, allenfalls nach Einvernehmung von Sachverständigen, zu mäßigen.
+----
+### § 1468 ABGB
 
-`§ 1336 (3) ABGB.`  
-Der Gläubiger kann neben einer Konventionalstrafe den Ersatz eines diese übersteigenden Schadens geltend machen. Ist der Schuldner ein Verbraucher im Sinne des § 1 Abs. 1 Z 2 und Abs. 3 KSchG, so muss dies im Einzelnen ausgehandelt werden.
+`§ 1468 ABGB.`  
+Wo noch keine ordentlichen öffentlichen Bücher eingeführt sind, und die Erwerbung unbeweglicher Sachen aus den Gerichts-Acten und andern Urkunden zu erweisen ist, oder wenn die Sache auf den Nahmen desjenigen, der die Besitzrechte darüber ausübet, nicht eingetragen ist; wird die Ersitzung erst nach dreyßig Jahren vollendet.
+----
 
-### § 1337 ABGB # Verbindlichkeit der Erben des Beschädigers.
+----
+### § 1470 ABGB
 
-`§ 1337 ABGB.`  
-Die Verbindlichkeit zum Ersatze des Schadens und des entgangenen Gewinnes, oder zur Entrichtung des bedungenen Vergütungsbetrages haftet auf dem Vermögen, und geht auf die Erben über.
+`§ 1470 ABGB.`  
+Wo noch keine ordentlichen öffentlichen Bücher bestehen, oder ein solches Recht denselben nicht einverleibt ist, kann es der redliche Inhaber erst nach dreyßig Jahren ersitzen.
+----
 
-### § 1338 ABGB # Rechtsmittel der Entschädigung.
+----
+### § 1471 ABGB
 
-`§ 1338 ABGB.`  
-Das Recht zum Schadenersatze muß in der Regel, wie jedes andere Privat-Recht, bey dem ordentlichen Richter angebracht werden. Hat der Beschädiger zugleich ein Strafgesetz übertreten; so trifft ihn auch die verhängte Strafe. Die Verhandlung über den Schadensersatz aber gehöret auch in diesem Falle, in sofern sie nicht durch die Strafgesetze dem Strafgerichte oder der politischen Behörde aufgetragen ist, zu dem Civil-Gerichte.
+`§ 1471 ABGB.`  
+Bey Rechten, die selten ausgeübt werden können, z. B. bey dem Rechte, eine Pfründe zu vergeben, oder jemanden bey Herstellung einer Brücke zum Beytrage anzuhalten, muß derjenige, welcher die Ersitzung behauptet, nebst einem Verlaufe von dreyßig Jahren, zugleich erweisen, daß der Fall zur Ausübung binnen dieser Zeit wenigstens drey Mahl sich ergeben, und er jedes Mahl dieses Recht ausgeübt habe.
+----
 
-### § 1340 ABGB
+----
+### § 1472 ABGB # Außerordentliche
 
-`§ 1340 ABGB.`  
-Diese Behörden haben in dem Falle, daß sich die Entschädigung unmittelbar bestimmen läßt, sogleich darüber nach den in diesem Hauptstücke ertheilten Vorschriften zu erkennen. Wenn aber der Ersatz des Schadens nicht unmittelbar bestimmt werden kann, ist in dem Erkenntnisse überhaupt auszudrücken, daß dem Beschädigtem die Entschädigung im Wege Rechtens zu suchen vorbehalten bleibe. Dieser Weg ist auch in Criminal-Fällen dem Beschädigten, und in anderen Fällen beyden Theilen dann vorbehalten, wenn sie mit der von der Strafbehörde erfolgten Bestimmung des Ersatzes sich nicht befriedigen wollten.
+`§ 1472 ABGB.`  
+Gegen den Fiscus, das ist: gegen die Verwalter der Staatsgüter und des Staatsvermögens, in so weit die Verjährung Platz greift (§§. 287, 289 u. 1456 – 1457), ferner gegen die Verwalter der Güter der Kirchen, Gemeinden und anderer erlaubten Körper, reicht die gemeine ordentliche Ersitzungszeit nicht zu. Der Besitz beweglicher Sachen, so wie auch der Besitz der unbeweglichen, oder der darauf ausgeübten Dienstbarkeiten und anderer Rechte, wenn sie auf den Nahmen des Besitzers den öffentlichen Büchern einverleibt sind, muß durch sechs Jahre fortgesetzt werden. Rechte solcher Art, die auf den Nahmen des Besitzers in die öffentlichen Bücher nicht einverleibt sind, und alle übrige Rechte lassen sich gegen den Fiscus und die hier angeführten begünstigten Personen nur durch den Besitz von vierzig Jahren erwerben.
+----
 
-### § 1341 ABGB
+----
+### § 1473 ABGB
 
-`§ 1341 ABGB.`  
-Gegen das Verschulden eines Richters beschwert man sich bey der höheren Behörde. Diese untersuchet und beurtheilet die Beschwerde von Amts wegen.
+`§ 1473 ABGB.`  
+Wer mit einer von dem Gesetze in Ansehung der Verjährungszeit begünstigten Person in Gemeinschaft steht, dem kommt die nähmliche Begünstigung zu Statten. Begünstigungen der längeren Verjährungsfrist haben auch gegen andere, darin ebenfalls begünstigte Personen ihre Wirkung.
+----
 
-## Dritter Theil # des # bürgerlichen Gesetzbuches. # Von den gemeinschaftlichen Bestimmungen der Personen- und Sachenrechte. # Erstes Hauptstück. # Von Befestigung der Rechte und Verbindlichkeiten.
+----
+### § 1475 ABGB
 
-### § 1342 ABGB # Gemeinschaftliche Bestimmungen der Rechte.
+`§ 1475 ABGB.`  
+Der Aufenthalt des Eigenthümers außer der Provinz, in welcher sich die Sache befindet, steht der ordentliche Ersitzung und Verjährung in so weit entgegen, daß die Zeit einer willkührlichen und schuldlosen Abwesenheit nur zur Hälfte, folglich ein Jahr nur für sechs Monathe gerechnet wird. Doch soll auf kurze Zeiträume der Abwesenheit, welche durch kein volles Jahr ununterbrochen gedauert haben, nicht Bedacht genommen, und überhaupt die Zeit nie weiter als bis auf dreyßig Jahre zusammen ausgedehnet werden. Schuldbare Abwesenheit genießt keine Ausnahme von der ordentlichen Verjährungszeit.
+----
 
-`§ 1342 ABGB.`  
-Sowohl Personenrechte als Sachenrechte, und daraus entspringende Verbindlichkeiten können gleichförmig befestiget, umgeändert und aufgehoben werden.
+----
+### § 1476 ABGB
 
-### § 1343 ABGB # Arten der Befestigung eines Rechtes:
+`§ 1476 ABGB.`  
+Auch derjenige, welcher eine bewegliche Sache unmittelbar von einem unechten oder von einem unredlichen Besitzer an sich gebracht hat, oder seinen Vormann anzugeben nicht vermag; muß den Verlauf der sonst ordentlichen Ersitzungszeit doppelt abwarten.
+----
 
-`§ 1343 ABGB.`  
-Die rechtlichen Arten der Sicherstellung einer Verbindlichkeit und der Befestigung eines Rechtes, durch welche dem Berechtigten ein neues Recht eingeräumet wird, sind: die Verpflichtung eines Dritten für den Schuldner, und die Verpfändung.
+----
+### § 1477 ABGB
 
-### § 1344 ABGB # I) durch Verpflichtung eines Dritten.
+`§ 1477 ABGB.`  
+Wer die Ersitzung auf einen Zeitraum von dreyßig oder vierzig Jahren stützt, bedarf keiner Angabe des rechtmäßigen Titels. Die gegen ihn erwiesene Unredlichkeit des Besitzes schließt aber auch in diesem längeren Zeitraume die Ersitzung aus.
+----
 
-`§ 1344 ABGB.`  
-Ein Dritter kann sich dem Gläubiger für den Schuldner auf dreyerley Art verpflichten: ein Mahl, wenn er mit Einwilligung des Gläubigers die Schuld als Alleinzahler übernimmt; dann, wenn er der Verbindlichkeit als Mitschuldner beytritt; endlich, wenn er sich für die Befriedigung des Gläubigers auf den Fall verbindet, daß der erste Schuldner die Verbindlichkeit nicht erfülle.
+----
+### § 1478 ABGB # Verjährungszeit. Allgemeine
 
-### § 1345 ABGB
+`§ 1478 ABGB.`  
+In so fern jede Ersitzung eine Verjährung in sich begreift, werden beyde mit den vorgeschriebenen Erfordernissen in Einem Zeitraume vollendet. Zur eigentlichen Verjährung aber ist der bloße Nichtgebrauch eines Rechtes, das an sich schon hätte ausgeübt werden können, durch dreyßig Jahre hinlänglich.
+----
 
-`§ 1345 ABGB.`  
-Wenn jemand mit Einwilligung des Gläubigers die ganze Schuld eines Andern übernimmt; so geschieht keine Befestigung, sondern eine Umänderung der Verbindlichkeit, wovon in dem folgenden Hauptstücke gehandelt wird.
+----
+### § 1479 ABGB
 
-### § 1346 ABGB # a) Als Bürge;
+`§ 1479 ABGB.`  
+Alle Rechte gegen einen Dritten, sie mögen den öffentlichen Büchern einverleibt seyn oder nicht, erlöschen also in der Regel längstens durch den dreyßigjährigen Nichtgebrauch, oder durch ein so lange Zeit beobachtetes Stillschweigen.
+----
 
-`§ 1346 (1) ABGB.`  
-Wer sich zur Befriedigung des Gläubigers auf den Fall verpflichtet, daß der erste Schuldner die Verbindlichkeit nicht erfülle, wird ein Bürge, und das zwischen ihm und dem Gläubiger getroffene Uebereinkommen ein Bürgschaftsvertrag genannt. Hier bleibt der erste Schuldner noch immer der Hauptschuldner, und der Bürge kommt nur als Nachschuldner hinzu.
+----
+### § 1480 ABGB
 
-`§ 1346 (2) ABGB.`  
-Zur Gültigkeit des Bürgschaftsvertrages ist erforderlich, daß die Verpflichtungserklärung des Bürgen schriftlich abgegeben wird.
+`§ 1480 ABGB.`  
+Forderungen von rückständigen jährlichen Leistungen, insbesondere Zinsen, Renten, Unterhaltsbeiträgen, Ausgedingsleistungen, sowie zur Kapitalstilgung vereinbarten Annuitäten erlöschen in drei Jahren; das Recht selbst wird durch einen Nichtgebrauch von dreißig Jahren verjährt.
+----
 
-### § 1347 ABGB # b) Als Mitschuldner;
+----
+### § 1481 ABGB # Ausnahmen:
 
-`§ 1347 ABGB.`  
-Wenn jemand, ohne die den Bürgen zu Statten kommende Bedingung, einer Verbindlichkeit als Mitschuldner beytritt; so entsteht eine Gemeinschaft mehrerer Mitschuldner; deren rechtliche Folgen nach den in dem Hauptstücke von Verträgen überhaupt gegebenen Vorschriften zu beurtheilen sind (§§. 888 – 896).
+`§ 1481 ABGB.`  
+Die in dem Familien- und überhaupt in dem Personen-Rechte gegründeten Verbindlichkeiten, z. B. den Kindern den unentbehrlichen Unterhalt zu verschaffen, so wie diejenigen, welche dem oben (§. 1459) angeführten Rechte, mit seinem Eigenthume frey zu schalten, zusagen, z. B. die Verbindlichkeit, die Theilung einer gemeinschaftlichen Sache oder die Gränzbestimmung vornehmen zu lassen, können nicht verjährt werden.
+----
 
-### § 1348 ABGB # Entschädigungsbürge.
+----
+### § 1482 ABGB
 
-`§ 1348 ABGB.`  
-Wer dem Bürgen auf den Fall, daß derselbe durch seine Bürgschaft zu Schaden kommen sollte, Entschädigung zusagt, heißt Entschädigungsbürge.
+`§ 1482 ABGB.`  
+Auf gleiche Weise wird derjenige, welcher ein Recht auf einem fremden Grunde in Ansehung des Ganzen oder auf verschiedene beliebige Arten ausüben konnte, bloß dadurch, daß er es durch noch so lange Zeit nur auf einem Theile des Grundes oder nur auf eine bestimmte Weise ausübte, in seinem Rechte nicht eingeschränkt; sondern die Beschränkung muß durch Erwerbung oder Ersitzung des Untersagungs- oder Hinderungsrechtes bewirkt werden (§. 351). Eben dieses ist auch auf den Fall anzuwenden, wenn jemand ein gegen alle Mitglieder einer Gemeinde zustehendes Recht bisher nur gegen gewisse Mitglieder derselben ausgeübt hat.
+----
 
-### § 1349 ABGB # Wer sich verbürgen könne.
+----
+### § 1483 ABGB
 
-`§ 1349 ABGB.`  
-Fremde Verbindlichkeiten kann ohne Unterschied des Geschlechtes jedermann auf sich nehmen, dem die freye Verwaltung seines Vermögens zusteht.
+`§ 1483 ABGB.`  
+So lange der Gläubiger das Pfand in Händen hat, kann ihm die unterlassene Ausübung des Pfandrechtes nicht eingewendet und das Pfandrecht nicht verjährt werden. Auch das Recht des Schuldners, sein Pfand einzulösen, bleibt unverjährt. In so fern aber die Forderung den Werth des Pfandes übersteigt, kann sie inzwischen durch Verjährung erlöschen.
+----
 
-### § 1350 ABGB # Für welche Verbindlichkeiten.
+----
+### § 1484 ABGB
 
-`§ 1350 ABGB.`  
-Eine Bürgschaft kann nicht nur über Summen und Sachen, sondern auch über erlaubte Handlungen und Unterlassungen in Beziehung auf den Vortheil oder Nachtheil, welcher aus denselben für den Sichergestellten entstehen kann, geleistet werden.
+`§ 1484 ABGB.`  
+Zur Verjährung solcher Rechte, die nur selten ausgeübt werden können, wird erfordert, daß während der Verjährungszeit von dreyßig Jahren von drey Gelegenheiten, ein solches Recht auszuüben, kein Gebrauch gemacht worden sey (§. 1471).
+----
 
-### § 1351 ABGB
+----
+### § 1485 ABGB
 
-`§ 1351 ABGB.`  
-Verbindlichkeiten, welche nie zu Recht bestanden haben, oder schon aufgehoben sind, können weder übernommen, noch bekräftiget werden.
+`§ 1485 (1) ABGB.`  
+In Rücksicht der in dem § 1472 begünstigten Personen werden, wie zur Ersitzung, also auch zur Verjährung, vierzig Jahre erfordert.
 
-### § 1352 ABGB
+`§ 1485 (2) ABGB.`  
+Die allgemeine Regel, daß ein Recht wegen des Nichtgebrauches erst nach Verlauf von dreißig oder vierzig Jahren verloren gehe, ist nur auf diejenigen Fälle anwendbar, für welche das Gesetz nicht einen kürzeren Zeitraum ausgemessen hat (§ 1465).
+----
 
-`§ 1352 ABGB.`  
-Wer sich für eine Person verbürgt, die sich vermöge ihrer persönlichen Eigenschaft nicht verbinden kann, ist, obschon ihm diese Eigenschaft unbekannt war, gleich einem ungetheilten Mitschuldner verpflichtet (§. 896).
+----
+### § 1486 ABGB # Besondere Verjährungszeit
 
-### § 1353 ABGB # Umfang der Bürgschaft
+`§ 1486 ABGB.`  
+In drei Jahren sind verjährt: die Forderungen  
+`§ 1486 Z 1 ABGB.`
+für Lieferung von Sachen oder Ausführung von Arbeiten oder sonstige Leistungen in einem gewerblichen, kaufmännischen oder sonstigen geschäftlichen Betriebe;  
+`§ 1486 Z 2 ABGB.`
+für Lieferung land- und forstwirtschaftlicher Erzeugnisse in einem Betriebe der Land- und Forstwirtschaft;  
+`§ 1486 Z 3 ABGB.`
+für die Übernahme zur Beköstigung, Pflege, Heilung, zur Erziehung oder zum Unterricht durch Personen, die sich damit befassen, oder in Anstalten, die diesem Zwecke dienen;  
+`§ 1486 Z 4 ABGB.`
+von Miet- und Pachtzinsen;  
+`§ 1486 Z 5 ABGB.`
+der Dienstnehmer wegen des Entgelts und des Auslagenersatzes aus den Dienstverträgen von Hilfsarbeitern, Taglöhnern, Dienstboten und allen Privatbediensteten, sowie der Dienstgeber wegen der auf solche Forderungen gewährten Vorschüsse;  
+`§ 1486 Z 6 ABGB.`
+der Ärzte, Tierärzte, Hebammen, der Privatlehrer, der Rechtsanwälte, Notare, Patentanwälte und aller anderen zur Besorgung gewisser Angelegenheiten öffentlich bestellten Personen wegen Entlohnung ihrer Leistungen und Ersatzes ihrer Auslagen, sowie der Parteien wegen der Vorschüsse an diese Personen;  
+`§ 1486 Z 7 ABGB.`
+von Ausstattungen.
+----
 
-`§ 1353 ABGB.`  
-Die Bürgschaft kann nicht weiter ausgedehnt werden, als sich der Bürge ausdrücklich erkläret hat. Wer sich für ein zinsbares Capital verbürget, haftet nur für jene rückständigen Zinsen, welche der Gläubiger noch nicht einzutreiben berechtiget war.
+----
+### § 1486a ABGB
 
-### § 1354 ABGB
+`§ 1486a ABGB.`  
+Der Anspruch eines Ehegatten auf Abgeltung seiner Mitwirkung im Erwerb des anderen (§ 98) verjährt in sechs Jahren vom Ende des Monats, in dem die Leistung erbracht worden ist.
+----
 
-`§ 1354 ABGB.`  
-Von der Einwendung, wodurch ein Schuldner nach Vorschrift der Gesetze die Beybehaltung eines Theiles seines Vermögens zu seinem Unterhalte zu fordern berechtiget ist, kann der Bürge nicht Gebrauch machen.
+----
+### § 1487 ABGB
 
-### § 1355 ABGB # Wirkung.
+`§ 1487 ABGB.`  
+Die Rechte, eine Schenkung wegen Undankbarkeit des Beschenkten zu widerrufen einen entgeltlichen Vertrag wegen Verletzung über die Hälfte aufzuheben, oder die vorgenommene Teilung eines gemeinschaftlichen Gutes zu bestreiten; und die Forderung wegen einer bei dem Vertrage unterlaufenen Furcht oder eines Irrtums, wobei sich der andere vertragmachende Teil keiner List schuldig gemacht hat, müssen binnen drei Jahren geltend gemacht werden. Nach Verlauf dieser Zeit sind sie verjährt.
+----
 
-`§ 1355 ABGB.`  
-Der Bürge kann in der Regel erst dann belanget werden, wenn der Hauptschuldner auf des Gläubigers gerichtliche oder außergerichtliche Einmahnung seine Verbindlichkeit nicht erfüllet hat.
+----
+### § 1487a ABGB # Verjährung erbrechtlicher Ansprüche
 
-### § 1356 ABGB
+`§ 1487a (1) ABGB.`  
+Das Recht, eine Erklärung des letzten Willens umzustoßen, den Geldpflichtteil zu fordern, letztwillige Bedingungen oder Belastungen von Zuwendungen anzufechten, nach erfolgter Einantwortung ein besseres oder gleiches Recht geltend zu machen, den Geschenknehmer wegen Verkürzung des Pflichtteils in Anspruch zu nehmen oder sonstige Rechte aus einem Geschäft von Todes wegen zu fordern, muss binnen drei Jahren ab Kenntnis der für das Bestehen des Anspruchs maßgebenden Tatsachen gerichtlich geltend gemacht werden. Unabhängig von dieser Kenntnis verjähren diese Rechte dreißig Jahre nach dem Tod des Verstorbenen.
 
-`§ 1356 ABGB.`  
-Der Bürge kann aber, selbst wenn er sich ausdrücklich nur für den Fall verbürget hat, daß der Hauptschuldner zu zahlen unvermögend sey, zuerst belanget werden, wenn über das Vermögen des Hauptschuldners das Insolvenzverfahren eröffnet wurde oder wenn der Hauptschuldner zu der Zeit, als die Zahlung geleistet werden sollte, unbekannten Aufenthaltes, und der Gläubiger keiner Nachlässigkeit zu beschuldigen ist.
+`§ 1487a (2) ABGB.`  
+Abs. 1 gilt sinngemäß für die Aneignung durch den Bund.
+----
 
-### § 1357 ABGB
+----
+### § 1488 ABGB
 
-`§ 1357 ABGB.`  
-Wer sich als Bürge und Zahler verpflichtet hat, haftet als ungetheilter Mitschuldner für die ganze Schuld; es hängt von der Willkühr des Gläubigers ab, ob er zuerst den Hauptschuldner, oder den Bürgen oder beyde zugleich belangen wolle (§. 891).
+`§ 1488 ABGB.`  
+Das Recht der Dienstbarkeit wird durch den Nichtgebrauch verjährt, wenn sich der verpflichtete Theil der Ausübung der Servitut widersetzt, und der Berechtigte durch drey auf einander folgende Jahre sein Recht nicht geltend gemacht hat.
+----
 
-### § 1358 ABGB
+----
+### § 1489 ABGB
 
-`§ 1358 ABGB.`  
-Wer eine fremde Schuld bezahlt, für die er persönlich oder mit bestimmten Vermögensstücken haftet, tritt in die Rechte des Gläubigers und ist befugt, von dem Schuldner den Ersatz der bezahlten Schuld zu fordern. Zu diesem Ende ist der befriedigte Gläubiger verbunden, dem Zahler alle vorhandenen Rechtsbehelfe und Sicherungsmittel auszuliefern.
+`§ 1489 ABGB.`  
+Jede Entschädigungsklage ist in drei Jahren von der Zeit an verjährt, zu welcher der Schade und die Person des Beschädigers dem Beschädigten bekannt wurde, der Schade mag durch Übertretung einer Vertragspflicht oder ohne Beziehung auf einen Vertrag verursacht worden sein. Ist dem Beschädigten der Schade oder die Person des Beschädigers nicht bekannt geworden oder ist der Schade aus einer oder mehreren gerichtlich strafbaren Handlungen, die nur vorsätzlich begangen werden können und mit mehr als einjähriger Freiheitsstrafe bedroht sind, entstanden, so erlischt das Klagerecht nur nach dreißig Jahren.
+----
 
-### § 1359 ABGB
+----
+### § 1491 ABGB
 
-`§ 1359 ABGB.`  
-Haben für den nähmlichen ganzen Betrag mehrere Personen Bürgschaft geleistet; so haftet jede für den ganzen Betrag. Hat aber Eine von ihnen die ganze Schuld abgetragen; so gebührt ihr gleich dem Mitschuldner (§. 896) das Recht des Rückersatzes gegen die übrigen.
+`§ 1491 ABGB.`  
+Einige Rechte sind von den Gesetzen auf eine noch kürzere Zeit eingeschränkt. Hierüber kommen die Vorschriften an den Orten, wo diese Rechte abgehandelt werden, vor.
+----
 
-### § 1360 ABGB
+----
+### § 1492 ABGB
 
-`§ 1360 ABGB.`  
-Wenn dem Gläubiger vor, oder bey Leistung der Bürgschaft noch außer derselben von dem Hauptschuldner, oder einem Dritten ein Pfand gegeben wird; so steht ihm zwar noch immer frey, den Bürgen der Ordnung nach (§. 1355) zu belangen; aber er ist nicht befugt, zu dessen Nachtheil sich des Pfandes zu begeben.
+`§ 1492 ABGB.`  
+Wie lange das Wechselrecht einem Wechselbriefe zu Statten komme, ist in der Wechselordnung bestimmt.
+----
 
-### § 1361 ABGB
+----
+### § 1493 ABGB # Einrechnung der Verjährungszeit des Vorfahrers
 
-`§ 1361 ABGB.`  
-Hat der Bürge oder Zahler den Gläubiger befriediget, ohne sich mit dem Hauptschuldner einzuverstehen; so kann dieser Alles gegen jene einwenden, was er gegen den Gläubiger hätte einwenden können.
+`§ 1493 ABGB.`  
+Wer eine Sache von einem rechtmäßigen und redlichen Besitzer redlich übernimmt, der ist als Nachfolger berechtiget, die Ersitzungszeit seines Vorfahrers mit einzurechnen (§. 1463). Eben dieses gilt auch von der Verjährungszeit. Bey einer Ersitzung von dreyßig oder vierzig Jahren findet diese Einrechnung auch ohne einen rechtmäßigen Titel, und bey der eigentlichen Verjährung selbst ohne guten Glauben, oder schuldlose Unwissenheit Statt.
+----
 
-### § 1362 ABGB
+----
+### § 1494 ABGB # Hemmung der Verjährung
 
-`§ 1362 ABGB.`  
-Der Bürge kann von dem Entschädigungsbürgen nur dann Entschädigung verlangen, wenn er sich den Schaden nicht durch sein eigenes Verschulden zugezogen hat.
+`§ 1494 (1) ABGB.`  
+Ist eine volljährige Person aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit an der Durchsetzung ihrer Rechte gehindert, so beginnt die Ersitzungs- oder Verjährungszeit erst zu laufen, wenn sie die Entscheidungsfähigkeit wieder erlangt oder ein gesetzlicher Vertreter die Rechte wahrnehmen kann.
 
-### § 1363 ABGB # Arten der Erlöschung der Bürgschaft.
+`§ 1494 (2) ABGB.`  
+Gegen eine minderjährige Person beginnt die Ersitzungs- und Verjährungszeit so lange nicht zu laufen, als sie keinen gesetzlichen Vertreter hat oder ihr gesetzlicher Vertreter an der Wahrnehmung ihrer Rechte gehindert ist. Unabhängig davon beginnt die Frist nach § 1489 Satz 2 zweiter Fall vor Vollendung des achtzehnten Lebensjahres des Geschädigten nicht zu laufen.
 
-`§ 1363 ABGB.`  
-Die Verbindlichkeit des Bürgen hört verhältnißmäßig mit der Verbindlichkeit des Schuldners auf. Hat sich der Bürge nur auf eine gewisse Zeit verpflichtet; so haftet er nur für diesen Zeitraum. Die Entlassung eines Mitbürgen kommt diesem zwar gegen den Gläubiger; aber nicht gegen die übrigen Mitbürgen zu Statten (§. 896).
+`§ 1494 (3) ABGB.`  
+Die einmal angefangene Ersitzungs- oder Verjährungszeit läuft zwar fort; sie kann aber nie früher als zwei Jahre nach Wegfall der Hindernisse enden.
+----
 
-### § 1364 ABGB
+----
+### § 1495 ABGB
 
-`§ 1364 ABGB.`  
-Durch den Verlauf der Zeit, binnen welcher der Schuldner hätte zahlen sollen, wird der Bürge, wenn auch der Gläubiger auf die Befriedigung nicht gedrungen hat, noch nicht von seiner Bürgschaft befreyet, allein er ist befugt, von dem Schuldner, wenn er mit dessen Einwilligung Bürgschaft geleistet hat, zu verlangen, daß er ihm Sicherheit verschaffe. Auch der Gläubiger ist dem Bürgen in so weit verantwortlich, als dieser wegen dessen Saumseligkeit in Eintreibung der Schuld an Erhohlung des Ersatzes zu Schaden kommt.
+`§ 1495 ABGB.`  
+Auch zwischen Ehegatten oder eingetragenen Partnern sowie zwischen gesetzlichen Vertretern (§ 1034) und den von ihnen Vertretenen kann, solange die Ehe, die eingetragene Partnerschaft oder das Vertretungsverhältnis andauert, die Ersitzung oder Verjährung weder anfangen noch fortgesetzt werden. Das gilt nicht für die Ansprüche eines Ehegatten oder eines eingetragenen Partners auf Abgeltung der Mitwirkung im Erwerb des anderen Teils, doch wird die Verjährung so lange gehemmt, als zwischen den Ehegatten oder eingetragenen Partnern ein gerichtliches Verfahren zur Entscheidung über einen Anspruch auf Abgeltung anhängig ist und gehörig fortgesetzt wird.
+----
 
-### § 1365 ABGB
+----
+### § 1496 ABGB
 
-`§ 1365 ABGB.`  
-Wenn gegen den Schuldner ein gegründetes Besorgniß der Zahlungsunfähigkeit oder der Entfernung aus den Erbländern, für welche dieses Gesetzbuch vorgeschrieben ist, eintritt; so steht dem Bürgen das Recht zu, von dem Schuldner die Sicherstellung der verbürgten Schuld zu verlangen.
+`§ 1496 ABGB.`  
+Durch Abwesenheit in Civil- oder Kriegsdiensten, oder durch gänzlichen Stillstand der Rechtspflege, z. B. in Pest- oder Kriegszeiten, wird nicht nur der Anfang, sondern so lange dieses Hinderniß dauert, auch die Fortsetzung der Ersitzung oder Verjährung gehemmet.
+----
 
-### § 1366 ABGB
+----
+### § 1497 ABGB # Unterbrechung der Verjährung
 
-`§ 1366 ABGB.`  
-Wenn das verbürgte Geschäft beendiget ist; so kann die Abrechnung und die Aufhebung der Bürgschaft gefordert werden.
+`§ 1497 ABGB.`  
+Die Ersitzung sowohl, als die Verjährung wird unterbrochen, wenn derjenige, welcher sich auf dieselbe berufen will, vor dem Verlaufe der Verjährungszeit entweder ausdrücklich oder stillschweigend das Recht des Andern anerkannt hat; oder wenn er von dem Berechtigten belangt, und die Klage gehörig fortgesetzt wird. Wird aber die Klage durch einen rechtskräftigen Spruch für unstatthaft erklärt; so ist die Verjährung für ununterbrochen zu halten.
+----
 
-### § 1367 ABGB
+----
+### § 1498 ABGB # Wirkung der Ersitzung oder Verjährung
 
-`§ 1367 ABGB.`  
-Ist der Bürgschaftsvertrag weder durch eine Hypothek, noch durch ein Faustpfand befestiget; so erlischt er binnen drey Jahren nach dem Tode des Bürgen, wenn der Gläubiger in der Zwischenzeit unterlassen hat, von dem Erben die verfallene Schuld gerichtlich oder außergerichtlich einzumahnen.
+`§ 1498 ABGB.`  
+Wer eine Sache oder ein Recht ersessen hat, kann gegen den bisherigen Eigenthümer bey dem Gerichte die Zuerkennung des Eigenthumes ansuchen, und das zuerkannte Recht, wofern es einen Gegenstand der öffentlichen Bücher ausmacht, den letzteren einverleiben lassen.
+----
 
-### § 1368 ABGB # II.) Durch Pfandvertrag.
+----
+### § 1499 ABGB
 
-`§ 1368 ABGB.`  
-Pfandvertrag heißt derjenige Vertrag, wodurch der Schuldner, oder ein Anderer anstatt seiner auf eine Sache dem Gläubiger das Pfandrecht wirklich einräumet, folglich ihm das bewegliche Pfandstück übergibt, oder das unbewegliche durch die Pfandbücher verschreibt. Der Vertrag, ein Pfand übergeben zu wollen, ist noch kein Pfandvertrag.
+`§ 1499 ABGB.`  
+Auf gleiche Art kann nach Verlauf der Verjährung der Verpflichtete die Löschung seiner in den öffentlichen Büchern eingetragenen Verbindlichkeit, oder die Nichtigerklärung des dem Berechtigten bisher zugestandenen Rechtes und der darüber ausgestellten Urkunden erwirken.
+----
 
-### § 1369 ABGB # Wirkung des Pfandvertrages.
+----
+### § 1500 ABGB
 
-`§ 1369 ABGB.`  
-Was bey Verträgen überhaupt Rechtens ist, gilt auch bey dem Pfandvertrage; er ist zweyseitig verbindlich. Der Pfandnehmer muß das Handpfand wohl verwahren und es dem Verpfänder, so bald dieser die Befriedigung leistet, zurück geben. Betrifft es eine Hypothek; so muß der befriedigte Gläubiger den Verpfänder in den Stand setzen, die Löschung der Verbindlichkeit aus den Hypotheken-Büchern bewirken zu können. Die mit dem Pfandbesitze verknüpften Rechte und Verbindlichkeiten des Pfandgebers und Pfandnehmers sind im sechsten Hauptstücke des zweyten Theiles bestimmt worden.
+`§ 1500 ABGB.`  
+Das aus der Ersitzung oder Verjährung erworbene Recht kann aber demjenigen, welcher im Vertrauen auf die öffentlichen Bücher noch vor der Einverleibung desselben eine Sache oder ein Recht an sich gebracht hat, zu keinem Nachtheile gereichen.
+----
 
-### § 1370 ABGB
+----
+### § 1501 ABGB
 
-`§ 1370 ABGB.`  
-Der Handpfandnehmer ist verbunden, dem Pfandgeber einen Pfandschein auszustellen, und darin die unterscheidenden Kennzeichen des Pfandes zu beschreiben. Auch können die wesentlichen Bedingungen des Pfandvertrages in dem Pfandscheine angeführet werden.
+`§ 1501 ABGB.`  
+Auf die Verjährung ist, ohne Einwendung der Parteyen, von Amts wegen kein Bedacht zu nehmen.
+----
 
-### § 1371 ABGB # Unerlaubte Bedingungen.
+----
+### § 1502 ABGB # Entsagung oder Verlängerung der Verjährung
 
-`§ 1371 ABGB.`  
-Alle der Natur des Pfand- und Darleihensvertrages entgegen stehende Bedingungen und Nebenverträge sind ungültig. Dahin gehören die Verabredungen: daß nach der Verfallzeit der Schuldforderung das Pfandstück dem Gläubiger zufalle; daß er es nach Willkühr, oder in einem schon im voraus bestimmten Preise veräußern, oder für sich behalten könne; daß der Schuldner das Pfand niemahls einlösen, oder ein liegendes Gut keinem Andern verschreiben, oder daß der Gläubiger nach der Verfallzeit die Veräußerung des Pfandes nicht verlangen dürfe.
+`§ 1502 ABGB.`  
+Der Verjährung kann weder im voraus entsagt, noch kann eine längere Verjährungsfrist, als durch die Gesetze bestimmt ist, bedungen werden.
+----
 
-### § 1372 ABGB
-
-`§ 1372 ABGB.`  
-Der Nebenvertrag, daß dem Gläubiger die Fruchtnießung der verpfändeten Sache zustehen solle, ist ohne rechtliche Wirkung. Ist dem Gläubiger der bloße Gebrauch eines beweglichen Pfandstückes eingeräumt worden (§. 459), so muß diese Benützung auf eine dem Schuldner unschädliche Art geschehen.
-
-### § 1373 ABGB # Auf welche Art in der Regel Sicherstellung zu leisten ist.
-
-`§ 1373 ABGB.`  
-Wer verbunden ist, eine Sicherstellung zu leisten, muß diese Verbindlichkeit durch ein Handpfand, oder durch eine Hypothek erfüllen. Nur in dem Falle, daß er ein Pfand zu geben außer Stande ist, werden taugliche Bürgen angenommen.
-
-### § 1374 ABGB
-
-`§ 1374 ABGB.`  
-Niemand ist verpflichtet, eine Sache, die zur Sicherstellung dienen soll, in einem höheren Wert als der Hälfte ihres Verkehrswertes zum Pfand anzunehmen. Wer ein angemessenes Vermögen besitzt und im Inland geklagt werden kann, ist ein tauglicher Bürge.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.027](BG.ABGB.027.md))*
+`END-OF-DATA-SET`

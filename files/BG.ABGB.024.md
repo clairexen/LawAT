@@ -1,324 +1,543 @@
 # BG.ABGB.024 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.024.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.023](BG.ABGB.023.md))*
 
-## 4. Abschnitt # Gesellschafternachfolge
+----
+## Dritter Theil # des # bürgerlichen Gesetzbuches. # Von den gemeinschaftlichen Bestimmungen der Personen- und Sachenrechte. # Erstes Hauptstück. # Von Befestigung der Rechte und Verbindlichkeiten.
 
-### § 1201 ABGB # Rechtsübergang
+### § 1342 ABGB # Gemeinschaftliche Bestimmungen der Rechte
 
-`§ 1201 (1) ABGB.`  
-Sofern nichts anderes vereinbart wurde, gehen zum Zeitpunkt des Eintritts oder Ausscheidens eines Gesellschafters sowie zum Zeitpunkt des Gesellschafterwechsels durch Rechtsgeschäft unter Lebenden die gesellschaftsbezogenen, nicht höchstpersönlichen Rechtsverhältnisse im Verhältnis der Beteiligungen von den bisherigen Gesellschaftern auf den eintretenden Gesellschafter, vom ausscheidenden auf die verbleibenden Gesellschafter oder beim Gesellschafterwechsel vom ausscheidenden auf den eintretenden Gesellschafter über (Gesellschafternachfolge). Für gesellschaftsbezogene Verbindlichkeiten bestellte Sicherheiten bleiben für diese Verbindlichkeiten aufrecht. Der ausscheidende Gesellschafter haftet nach Maßgabe des § 1202 Abs. 2 für die gesellschaftsbezogenen Verbindlichkeiten weiter.
+`§ 1342 ABGB.`  
+Sowohl Personenrechte als Sachenrechte, und daraus entspringende Verbindlichkeiten können gleichförmig befestiget, umgeändert und aufgehoben werden.
+----
 
-`§ 1201 (2) ABGB.`  
-Bei Sachen des Gesellschaftsvermögens, die im Miteigentum der Gesellschafter stehen, gilt die Übergabe als vollzogen, sobald der Eintritt, Austritt oder Wechsel wirksam geworden ist. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
+----
+### § 1343 ABGB # Arten der Befestigung eines Rechtes:
 
-`§ 1201 (3) ABGB.`  
-Ein Dritter kann der im Zuge einer Gesellschafternachfolge von Gesetzes wegen eintretenden Übernahme seines Vertragsverhältnisses binnen dreier Monate nach Verständigung davon durch einen Gesellschafter gegenüber dem ausscheidenden, dem eintretenden oder einem anderen vom Vertragsverhältnis erfassten Gesellschafter widersprechen; in der Verständigung ist auf das Widerspruchsrecht hinzuweisen. Dies gilt auch für den Besteller einer für gesellschaftsbezogene Verbindlichkeiten gewährten Sicherheit. Im Fall eines wirksamen Widerspruchs besteht das Vertragsverhältnis auch noch mit dem ausgeschiedenen Gesellschafter fort.
+`§ 1343 ABGB.`  
+Die rechtlichen Arten der Sicherstellung einer Verbindlichkeit und der Befestigung eines Rechtes, durch welche dem Berechtigten ein neues Recht eingeräumet wird, sind: die Verpflichtung eines Dritten für den Schuldner, und die Verpfändung.
+----
 
-`§ 1201 (4) ABGB.`  
-Wurde dem Dritten nicht nachweislich mitgeteilt, ob das Vertragsverhältnis vom Erwerber übernommen wurde, oder kann der Dritte dieser Übernahme noch widersprechen, so kann er sowohl gegenüber dem ausscheidenden als auch gegenüber dem nachfolgenden Gesellschafter auf das Vertragsverhältnis bezogene Erklärungen abgeben und seine Verbindlichkeiten erfüllen. Dies gilt auch für den Besteller einer für gesellschaftsbezogene Verbindlichkeiten gewährten Sicherheit.
+----
+### § 1344 ABGB # I) durch Verpflichtung eines Dritten
 
-### § 1202 ABGB # Haftung des eintretenden und des ausscheidenden Gesellschafters
+`§ 1344 ABGB.`  
+Ein Dritter kann sich dem Gläubiger für den Schuldner auf dreyerley Art verpflichten: ein Mahl, wenn er mit Einwilligung des Gläubigers die Schuld als Alleinzahler übernimmt; dann, wenn er der Verbindlichkeit als Mitschuldner beytritt; endlich, wenn er sich für die Befriedigung des Gläubigers auf den Fall verbindet, daß der erste Schuldner die Verbindlichkeit nicht erfülle.
+----
 
-`§ 1202 (1) ABGB.`  
-Der eintretende Gesellschafter haftet nur insofern für vor seinem Eintritt begründete gesellschaftsbezogene Verbindlichkeiten, als er jenen gesellschaftsbezogenen Rechtsverhältnissen beitritt, auf denen die Verbindlichkeiten beruhen.
+----
+### § 1345 ABGB
 
-`§ 1202 (2) ABGB.`  
-Der ausscheidende Gesellschafter haftet für gesellschaftsbezogene Verbindlichkeiten gegenüber Dritten, die vor seinem Ausscheiden aus der Gesellschaft begründet wurden, auch dann weiter, wenn er aus dem Rechtsverhältnis ausgeschieden ist (§ 1201 Abs. 3). Soweit der Dritte einer Entlassung des Ausscheidenden aus der Haftung nicht zustimmt, haftet dieser für die Verbindlichkeiten nur, soweit sie innerhalb von fünf Jahren nach seinem Ausscheiden fällig werden. Ansprüche daraus verjähren innerhalb der für die jeweilige Verbindlichkeit geltenden Verjährungsfrist, längstens jedoch innerhalb von drei Jahren.
+`§ 1345 ABGB.`  
+Wenn jemand mit Einwilligung des Gläubigers die ganze Schuld eines Andern übernimmt; so geschieht keine Befestigung, sondern eine Umänderung der Verbindlichkeit, wovon in dem folgenden Hauptstücke gehandelt wird.
+----
 
-### § 1203 ABGB # Auseinandersetzung mit dem ausscheidenden Gesellschafter
+----
+### § 1346 ABGB # a) Als Bürge;
 
-`§ 1203 (1) ABGB.`  
-Dem ausscheidenden Gesellschafter sind die Sachen, die er den Gesellschaftern zur Benutzung überlassen hat, zurückzugeben. Für eine durch Zufall abhanden gekommene oder verschlechterte Sache kann er keinen Ersatz verlangen.
+`§ 1346 (1) ABGB.`  
+Wer sich zur Befriedigung des Gläubigers auf den Fall verpflichtet, daß der erste Schuldner die Verbindlichkeit nicht erfülle, wird ein Bürge, und das zwischen ihm und dem Gläubiger getroffene Uebereinkommen ein Bürgschaftsvertrag genannt. Hier bleibt der erste Schuldner noch immer der Hauptschuldner, und der Bürge kommt nur als Nachschuldner hinzu.
 
-`§ 1203 (2) ABGB.`  
-Dem ausscheidenden Gesellschafter ist in Geld auszuzahlen, was er bei der Auseinandersetzung erhielte, wenn die Gesellschaft zur Zeit seines Ausscheidens aufgelöst worden wäre. Der Wert des Gesellschaftsvermögens ist, soweit erforderlich, durch Schätzung zu ermitteln.
+`§ 1346 (2) ABGB.`  
+Zur Gültigkeit des Bürgschaftsvertrages ist erforderlich, daß die Verpflichtungserklärung des Bürgen schriftlich abgegeben wird.
+----
 
-`§ 1203 (3) ABGB.`  
-Der ausscheidende Gesellschafter ist von den gesellschaftsbezogenen Verbindlichkeiten zu befreien, für die er den Gläubigern haftet. Ist eine Schuld noch nicht fällig, so können ihm die anderen Gesellschafter Sicherheit leisten, statt ihn zu befreien.
+----
+### § 1347 ABGB # b) Als Mitschuldner;
 
-`§ 1203 (4) ABGB.`  
-Verbleibt dem ausscheidenden Gesellschafter eine Verbindlichkeit aus dem Gesellschaftsverhältnis, so ist er verpflichtet, einen Ausgleich in entsprechender Höhe an die Gesellschafter zu zahlen.
+`§ 1347 ABGB.`  
+Wenn jemand, ohne die den Bürgen zu Statten kommende Bedingung, einer Verbindlichkeit als Mitschuldner beytritt; so entsteht eine Gemeinschaft mehrerer Mitschuldner; deren rechtliche Folgen nach den in dem Hauptstücke von Verträgen überhaupt gegebenen Vorschriften zu beurtheilen sind (§§. 888 – 896).
+----
 
-### § 1204 ABGB # Beteiligung des Ausscheidenden an schwebenden Geschäften
+----
+### § 1348 ABGB # Entschädigungsbürge
 
-`§ 1204 (1) ABGB.`  
-Der ausgeschiedene Gesellschafter nimmt am Gewinn und am Verlust teil, der sich aus den zur Zeit seines Ausscheidens schwebenden Geschäften ergibt. Die übrigen Gesellschafter sind berechtigt, diese Geschäfte so zu beenden, wie es ihnen am vorteilhaftesten erscheint.
+`§ 1348 ABGB.`  
+Wer dem Bürgen auf den Fall, daß derselbe durch seine Bürgschaft zu Schaden kommen sollte, Entschädigung zusagt, heißt Entschädigungsbürge.
+----
 
-`§ 1204 (2) ABGB.`  
-Der ausgeschiedene Gesellschafter kann am Schluss jedes Geschäftsjahres Rechenschaft über die inzwischen beendeten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen.
+----
+### § 1349 ABGB # Wer sich verbürgen könne
 
-### § 1205 ABGB # Fortsetzung mit den Erben
+`§ 1349 ABGB.`  
+Fremde Verbindlichkeiten kann ohne Unterschied des Geschlechtes jedermann auf sich nehmen, dem die freye Verwaltung seines Vermögens zusteht.
+----
 
-`§ 1205 (1) ABGB.`  
-Ist im Gesellschaftsvertrag bestimmt, dass im Fall des Todes eines Gesellschafters die Gesellschaft mit seinen Erben fortgesetzt werden soll, so besteht sie nach dem Tod dieses Gesellschafters mit seiner Verlassenschaft und nach deren Einantwortung mit den Erben fort. Jeder Erbe kann sein Verbleiben in der Gesellschaft davon abhängig machen, dass ihm unter Belassung des bisherigen Gewinnanteils die Stellung eines Kommanditisten in einer neu zu gründenden Kommanditgesellschaft (§ 1206) eingeräumt und der auf ihn fallende Teil der Einlage des Verstorbenen als seine Kommanditeinlage anerkannt wird.
+----
+### § 1350 ABGB # Für welche Verbindlichkeiten
 
-`§ 1205 (2) ABGB.`  
-Nehmen die übrigen Gesellschafter einen dahingehenden Antrag des Erben nicht an, so ist dieser befugt, ohne Einhaltung einer Kündigungsfrist sein Ausscheiden aus der Gesellschaft zu erklären.
+`§ 1350 ABGB.`  
+Eine Bürgschaft kann nicht nur über Summen und Sachen, sondern auch über erlaubte Handlungen und Unterlassungen in Beziehung auf den Vortheil oder Nachtheil, welcher aus denselben für den Sichergestellten entstehen kann, geleistet werden.
+----
 
-`§ 1205 (3) ABGB.`  
-Die in Abs. 1 und 2 bezeichneten Rechte können von den Erben nur innerhalb einer Frist von drei Monaten nach der Einantwortung der Verlassenschaft geltend gemacht werden. Ist ein Erbe geschäftsunfähig und ist für ihn kein gesetzlicher Vertreter bestellt, so läuft diese Frist erst ab der Bestellung eines solchen oder ab dem Eintritt der Geschäftsfähigkeit des Erben.
+----
+### § 1351 ABGB
 
-`§ 1205 (4) ABGB.`  
-Scheidet innerhalb der Frist des Abs. 3 der Erbe aus der Gesellschaft aus oder wird innerhalb der Frist die Gesellschaft aufgelöst oder dem Erben die Stellung eines Kommanditisten eingeräumt, so haftet er für die bis dahin entstandenen gesellschaftsbezogenen Verbindlichkeiten nur nach Maßgabe der die Haftung des Erben für Verbindlichkeiten der Verlassenschaft betreffenden Vorschriften.
+`§ 1351 ABGB.`  
+Verbindlichkeiten, welche nie zu Recht bestanden haben, oder schon aufgehoben sind, können weder übernommen, noch bekräftiget werden.
+----
 
-`§ 1205 (5) ABGB.`  
-Der Gesellschaftsvertrag kann die Anwendung der Vorschriften der Abs. 1 bis 4 nicht ausschließen; es kann jedoch für den Fall, dass der Erbe sein Verbleiben von der Einräumung der Stellung eines Kommanditisten abhängig macht, sein Gewinnanteil anders als der des Verstorbenen bestimmt werden.
+----
+### § 1352 ABGB
 
-## 5. Abschnitt # Umwandlung
+`§ 1352 ABGB.`  
+Wer sich für eine Person verbürgt, die sich vermöge ihrer persönlichen Eigenschaft nicht verbinden kann, ist, obschon ihm diese Eigenschaft unbekannt war, gleich einem ungetheilten Mitschuldner verpflichtet (§. 896).
+----
 
-### § 1206 ABGB # Umwandlung in eine offene Gesellschaft oder Kommanditgesellschaft
+----
+### § 1353 ABGB # Umfang der Bürgschaft
 
-`§ 1206 (1) ABGB.`  
-Die Gesellschafter können die Errichtung einer offenen Gesellschaft oder einer Kommanditgesellschaft und zugleich die Einbringung des der Gesellschaft gewidmeten Vermögens in die offene Gesellschaft oder Kommanditgesellschaft beschließen. In diesem Fall geht das der Gesellschaft gewidmete Vermögen einschließlich aller Rechte und Pflichten mit der Eintragung der offenen Gesellschaft oder Kommanditgesellschaft im Firmenbuch im Weg der Gesamtrechtsnachfolge auf diese Gesellschaft über. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
+`§ 1353 ABGB.`  
+Die Bürgschaft kann nicht weiter ausgedehnt werden, als sich der Bürge ausdrücklich erkläret hat. Wer sich für ein zinsbares Capital verbürget, haftet nur für jene rückständigen Zinsen, welche der Gläubiger noch nicht einzutreiben berechtiget war.
+----
 
-`§ 1206 (2) ABGB.`  
-Die Umwandlung erfordert einen einstimmigen Gesellschafterbeschluss. Die Gesellschafter legen fest, ob die Gesellschaft in eine offene Gesellschaft oder in eine Kommanditgesellschaft umgewandelt werden soll. Sie bestimmen die für die Eintragung erforderlichen Merkmale der neuen Gesellschaft.
+----
+### § 1354 ABGB
 
-`§ 1206 (3) ABGB.`  
-Der Umwandlungsbeschluss enthält das von den geschäftsführenden Gesellschaftern aufgestellte Verzeichnis des Gesellschaftsvermögens (§ 1178 Abs. 1). Was im Vermögensverzeichnis nicht angeführt ist, verbleibt den Gesellschaftern wie bisher.
+`§ 1354 ABGB.`  
+Von der Einwendung, wodurch ein Schuldner nach Vorschrift der Gesetze die Beybehaltung eines Theiles seines Vermögens zu seinem Unterhalte zu fordern berechtiget ist, kann der Bürge nicht Gebrauch machen.
+----
 
-### § 1207 ABGB # Wirkung gegenüber Dritten
+----
+### § 1355 ABGB # Wirkung
 
-`§ 1207 (1) ABGB.`  
-Die Gesellschafter haften nach der Umwandlung für die vorher begründeten Verbindlichkeiten auch als Gesellschafter bürgerlichen Rechts weiter.
+`§ 1355 ABGB.`  
+Der Bürge kann in der Regel erst dann belanget werden, wenn der Hauptschuldner auf des Gläubigers gerichtliche oder außergerichtliche Einmahnung seine Verbindlichkeit nicht erfüllet hat.
+----
 
-`§ 1207 (2) ABGB.`  
-Solange ein Dritter von der Umwandlung nicht verständigt wurde und sie ihm auch sonst nicht bekannt geworden ist, kann er seine Leistung mit schuldbefreiender Wirkung so erbringen, als würde die Gesellschaft bürgerlichen Rechts noch bestehen.
+----
+### § 1356 ABGB
 
-## 6. Abschnitt # Auflösung
+`§ 1356 ABGB.`  
+Der Bürge kann aber, selbst wenn er sich ausdrücklich nur für den Fall verbürget hat, daß der Hauptschuldner zu zahlen unvermögend sey, zuerst belanget werden, wenn über das Vermögen des Hauptschuldners das Insolvenzverfahren eröffnet wurde oder wenn der Hauptschuldner zu der Zeit, als die Zahlung geleistet werden sollte, unbekannten Aufenthaltes, und der Gläubiger keiner Nachlässigkeit zu beschuldigen ist.
+----
 
-### § 1208 ABGB # Auflösungsgründe
+----
+### § 1357 ABGB
 
-`§ 1208 ABGB.`  
-Die Gesellschaft wird aufgelöst:  
-`§ 1208 Z 1 ABGB.`
-durch den Ablauf der Zeit, für die sie eingegangen ist;  
-`§ 1208 Z 2 ABGB.`
-durch Beschluss der Gesellschafter;  
-`§ 1208 Z 3 ABGB.`
-durch die rechtskräftige Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters, durch die Abänderung der Bezeichnung Sanierungsverfahren in Konkursverfahren oder durch die rechtskräftige Nichteröffnung oder Aufhebung des Insolvenzverfahrens mangels kostendeckenden Vermögens;  
-`§ 1208 Z 4 ABGB.`
-durch Kündigung oder durch gerichtliche Entscheidung;  
-`§ 1208 Z 5 ABGB.`
-durch den Tod eines Gesellschafters, sofern sich aus dem Gesellschaftsvertrag nichts anderes ergibt.
+`§ 1357 ABGB.`  
+Wer sich als Bürge und Zahler verpflichtet hat, haftet als ungetheilter Mitschuldner für die ganze Schuld; es hängt von der Willkühr des Gläubigers ab, ob er zuerst den Hauptschuldner, oder den Bürgen oder beyde zugleich belangen wolle (§. 891).
+----
 
-### § 1209 ABGB # Kündigung durch einen Gesellschafter
+----
+### § 1358 ABGB
 
-`§ 1209 (1) ABGB.`  
-Die Kündigung der Gesellschaft durch einen Gesellschafter kann, wenn die Gesellschaft für unbestimmte Zeit eingegangen ist, nur für den Schluss eines Geschäftsjahres erfolgen; sie muss mindestens sechs Monate vor diesem Zeitpunkt stattfinden.
-(2) Eine Vereinbarung, durch die das Kündigungsrecht ausgeschlossen oder in anderer Weise als durch angemessene Verlängerung der Kündigungsfrist erschwert wird, ist nichtig. Dies gilt nicht für Innengesellschaften (§ 1176 Abs. 1).
+`§ 1358 ABGB.`  
+Wer eine fremde Schuld bezahlt, für die er persönlich oder mit bestimmten Vermögensstücken haftet, tritt in die Rechte des Gläubigers und ist befugt, von dem Schuldner den Ersatz der bezahlten Schuld zu fordern. Zu diesem Ende ist der befriedigte Gläubiger verbunden, dem Zahler alle vorhandenen Rechtsbehelfe und Sicherungsmittel auszuliefern.
+----
 
-### § 1210 ABGB # Auflösung durch gerichtliche Entscheidung
+----
+### § 1359 ABGB
 
-`§ 1210 (1) ABGB.`  
-Aufgrund der Klage eines Gesellschafters kann die Auflösung der Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft ohne Kündigung durch gerichtliche Entscheidung ausgesprochen werden, wenn ein wichtiger Grund vorliegt.
+`§ 1359 ABGB.`  
+Haben für den nähmlichen ganzen Betrag mehrere Personen Bürgschaft geleistet; so haftet jede für den ganzen Betrag. Hat aber Eine von ihnen die ganze Schuld abgetragen; so gebührt ihr gleich dem Mitschuldner (§. 896) das Recht des Rückersatzes gegen die übrigen.
+----
 
-`§ 1210 (2) ABGB.`  
-Ein solcher Grund ist insbesondere vorhanden, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder aus grober Fahrlässigkeit verletzt oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
+----
+### § 1360 ABGB
 
-`§ 1210 (3) ABGB.`  
-Eine Vereinbarung, durch die das Recht des Gesellschafters, die Auflösung der Gesellschaft zu verlangen, ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
+`§ 1360 ABGB.`  
+Wenn dem Gläubiger vor, oder bey Leistung der Bürgschaft noch außer derselben von dem Hauptschuldner, oder einem Dritten ein Pfand gegeben wird; so steht ihm zwar noch immer frey, den Bürgen der Ordnung nach (§. 1355) zu belangen; aber er ist nicht befugt, zu dessen Nachtheil sich des Pfandes zu begeben.
+----
 
-### § 1211 ABGB # Gesellschaft auf Lebenszeit, Befristung
+----
+### § 1361 ABGB
 
-`§ 1211 ABGB.`  
-Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablauf der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinn der §§ 1209 und 1210 einer für unbestimmte Zeit eingegangen Gesellschaft gleich.
+`§ 1361 ABGB.`  
+Hat der Bürge oder Zahler den Gläubiger befriediget, ohne sich mit dem Hauptschuldner einzuverstehen; so kann dieser Alles gegen jene einwenden, was er gegen den Gläubiger hätte einwenden können.
+----
 
-### § 1213 ABGB # Ausschluss statt Auflösung
+----
+### § 1362 ABGB
 
-`§ 1213 (1) ABGB.`  
-Tritt in der Person eines Gesellschafters ein Umstand ein, der nach § 1210 für jeden der übrigen Gesellschafter das Recht begründet, die Auflösung der Gesellschaft zu verlangen, so kann vom Gericht aufgrund einer Klage aller übrigen Gesellschafter anstatt der Auflösung der Ausschluss dieses Gesellschafters aus der Gesellschaft ausgesprochen werden. Der Ausschließungsklage steht nicht entgegen, dass nach dem Ausschluss nur ein Gesellschafter verbleibt.
+`§ 1362 ABGB.`  
+Der Bürge kann von dem Entschädigungsbürgen nur dann Entschädigung verlangen, wenn er sich den Schaden nicht durch sein eigenes Verschulden zugezogen hat.
+----
 
-`§ 1213 (2) ABGB.`  
-Für die Auseinandersetzung zwischen den verbleibenden Gesellschaftern und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkt maßgeblich, in dem die Klage auf Ausschließung erhoben wird.
+----
+### § 1363 ABGB # Arten der Erlöschung der Bürgschaft
 
-### § 1214 ABGB # Fortsetzungsbeschluss
+`§ 1363 ABGB.`  
+Die Verbindlichkeit des Bürgen hört verhältnißmäßig mit der Verbindlichkeit des Schuldners auf. Hat sich der Bürge nur auf eine gewisse Zeit verpflichtet; so haftet er nur für diesen Zeitraum. Die Entlassung eines Mitbürgen kommt diesem zwar gegen den Gläubiger; aber nicht gegen die übrigen Mitbürgen zu Statten (§. 896).
+----
 
-`§ 1214 (1) ABGB.`  
-Die Gesellschafter können bei Auflösung der Gesellschaft deren Fortsetzung beschließen. In den Fällen des § 1208 Z 3, 4 oder 5, der Kündigung der Gesellschaft nach § 339 Abs. 1 EO und der Auflösung der Gesellschaft durch das Gericht (§ 1210 Abs. 1) steht dieses Recht den übrigen Gesellschaftern zu. In diesen Fällen scheidet der Gesellschafter, in dessen Person der Auflösungsgrund eingetreten ist, infolge des Fortsetzungsbeschlusses aus der Gesellschaft aus.
+----
+### § 1364 ABGB
 
-`§ 1214 (2) ABGB.`  
-Im Fall der Kündigung nach § 339 Abs. 1 EO scheidet der betreffende Gesellschafter mit dem Ende des Geschäftsjahres aus der Gesellschaft aus; in den übrigen Fällen mit dem Wirksamwerden des Beschlusses.
+`§ 1364 ABGB.`  
+Durch den Verlauf der Zeit, binnen welcher der Schuldner hätte zahlen sollen, wird der Bürge, wenn auch der Gläubiger auf die Befriedigung nicht gedrungen hat, noch nicht von seiner Bürgschaft befreyet, allein er ist befugt, von dem Schuldner, wenn er mit dessen Einwilligung Bürgschaft geleistet hat, zu verlangen, daß er ihm Sicherheit verschaffe. Auch der Gläubiger ist dem Bürgen in so weit verantwortlich, als dieser wegen dessen Saumseligkeit in Eintreibung der Schuld an Erhohlung des Ersatzes zu Schaden kommt.
+----
 
-`§ 1214 (3) ABGB.`  
-Im Fall der Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters ist Abs. 1 mit der Maßgabe anzuwenden, dass eine Erklärung gegenüber dem Masseverwalter zu erfolgen hat und der Schuldner mit dem Zeitpunkt der Konkurseröffnung als aus der Gesellschaft ausgeschieden gilt.
+----
+### § 1365 ABGB
 
-### § 1215 ABGB # Übergang des Gesellschaftsvermögens
+`§ 1365 ABGB.`  
+Wenn gegen den Schuldner ein gegründetes Besorgniß der Zahlungsunfähigkeit oder der Entfernung aus den Erbländern, für welche dieses Gesetzbuch vorgeschrieben ist, eintritt; so steht dem Bürgen das Recht zu, von dem Schuldner die Sicherstellung der verbürgten Schuld zu verlangen.
+----
 
-`§ 1215 (1) ABGB.`  
-Verbleibt nur noch ein Gesellschafter, so erlischt die Gesellschaft ohne Liquidation. Das Gesellschaftsvermögen geht im Weg der Gesamtrechtsnachfolge auf diesen über. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
+----
+### § 1366 ABGB
 
-`§ 1215 (2) ABGB.`  
-Der ausscheidende Gesellschafter ist gemäß §§ 1203 und 1204 abzufinden.
+`§ 1366 ABGB.`  
+Wenn das verbürgte Geschäft beendiget ist; so kann die Abrechnung und die Aufhebung der Bürgschaft gefordert werden.
+----
 
-### § 1216 ABGB # Bekanntgabe der Auflösung der Außengesellschaft
+----
+### § 1367 ABGB
 
-`§ 1216 ABGB.`  
-Die Auflösung einer Außengesellschaft ist, soweit möglich, den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf verkehrsübliche Weise bekannt zu machen.
+`§ 1367 ABGB.`  
+Ist der Bürgschaftsvertrag weder durch eine Hypothek, noch durch ein Faustpfand befestiget; so erlischt er binnen drey Jahren nach dem Tode des Bürgen, wenn der Gläubiger in der Zwischenzeit unterlassen hat, von dem Erben die verfallene Schuld gerichtlich oder außergerichtlich einzumahnen.
+----
 
-## 7. Abschnitt # Liquidation
+----
+### § 1368 ABGB # II.) Durch Pfandvertrag
 
-### § 1216a ABGB # Nachwirkung des Gesellschaftsvertrages
+`§ 1368 ABGB.`  
+Pfandvertrag heißt derjenige Vertrag, wodurch der Schuldner, oder ein Anderer anstatt seiner auf eine Sache dem Gläubiger das Pfandrecht wirklich einräumet, folglich ihm das bewegliche Pfandstück übergibt, oder das unbewegliche durch die Pfandbücher verschreibt. Der Vertrag, ein Pfand übergeben zu wollen, ist noch kein Pfandvertrag.
+----
 
-`§ 1216a (1) ABGB.`  
-Trotz Auflösung der Gesellschaft bestehen die gesellschaftsvertraglichen Rechte und Pflichten der Gesellschafter zueinander soweit fort, als dies für die Liquidation erforderlich ist und sich aus den folgenden Bestimmungen nichts anderes ergibt. Gesellschaftsbezogene Rechtsverhältnisse der Gesellschafter zu Dritten werden in ihrem Fortbestand durch die Auflösung und Liquidation der Gesellschaft nur dann berührt, wenn dies mit dem Dritten vereinbart wurde.
+----
+### § 1369 ABGB # Wirkung des Pfandvertrages
 
-`§ 1216a (2) ABGB.`  
-Die Gesellschafter können anstelle der Liquidation eine andere Art der Auseinandersetzung vereinbaren. Ist die Gesellschaft durch Kündigung nach § 339 Abs. 1 EO oder durch die Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters aufgelöst, so kann die Liquidation nur mit Zustimmung des Verwalters oder des Masseverwalters unterbleiben.
+`§ 1369 ABGB.`  
+Was bey Verträgen überhaupt Rechtens ist, gilt auch bey dem Pfandvertrage; er ist zweyseitig verbindlich. Der Pfandnehmer muß das Handpfand wohl verwahren und es dem Verpfänder, so bald dieser die Befriedigung leistet, zurück geben. Betrifft es eine Hypothek; so muß der befriedigte Gläubiger den Verpfänder in den Stand setzen, die Löschung der Verbindlichkeit aus den Hypotheken-Büchern bewirken zu können. Die mit dem Pfandbesitze verknüpften Rechte und Verbindlichkeiten des Pfandgebers und Pfandnehmers sind im sechsten Hauptstücke des zweyten Theiles bestimmt worden.
+----
 
-### § 1216b ABGB # Bestellung der Liquidatoren
+----
+### § 1370 ABGB
 
-`§ 1216b (1) ABGB.`  
-Nach der Auflösung der Gesellschaft haben, sofern der Gesellschaftsvertrag nicht anderes bestimmt, die Gesellschafter als Liquidatoren das Gesellschaftsvermögen abzuwickeln. Mehrere Erben eines Gesellschafters haben einen gemeinsamen Vertreter zu bestellen. Ist über das Vermögen eines Gesellschafters das Konkursverfahren oder das Sanierungsverfahren eröffnet und dem Gesellschafter die Eigenverwaltung entzogen, so tritt der Insolvenzverwalter an die Stelle des Gesellschafters.
+`§ 1370 ABGB.`  
+Der Handpfandnehmer ist verbunden, dem Pfandgeber einen Pfandschein auszustellen, und darin die unterscheidenden Kennzeichen des Pfandes zu beschreiben. Auch können die wesentlichen Bedingungen des Pfandvertrages in dem Pfandscheine angeführet werden.
+----
 
-`§ 1216b (2) ABGB.`  
-Auf Antrag eines Beteiligten kann aus wichtigen Gründen die Ernennung von Liquidatoren durch das Gericht erfolgen, in dessen Sprengel einer der Gesellschafter seinen Wohnsitz oder Sitz hat. Das Gericht kann in einem solchen Fall Personen zu Liquidatoren ernennen, die nicht zu den Gesellschaftern gehören. Als Beteiligter gilt außer den Gesellschaftern auch der Verwalter, durch den die Kündigung der Gesellschaft erfolgt ist.
+----
+### § 1371 ABGB # Unerlaubte Bedingungen
 
-`§ 1216b (3) ABGB.`  
-Die Abberufung von Liquidatoren geschieht durch einstimmigen Beschluss der Beteiligten; sie kann auf Antrag eines Beteiligten aus wichtigen Gründen auch durch das Gericht erfolgen.
+`§ 1371 ABGB.`  
+Alle der Natur des Pfand- und Darleihensvertrages entgegen stehende Bedingungen und Nebenverträge sind ungültig. Dahin gehören die Verabredungen: daß nach der Verfallzeit der Schuldforderung das Pfandstück dem Gläubiger zufalle; daß er es nach Willkühr, oder in einem schon im voraus bestimmten Preise veräußern, oder für sich behalten könne; daß der Schuldner das Pfand niemahls einlösen, oder ein liegendes Gut keinem Andern verschreiben, oder daß der Gläubiger nach der Verfallzeit die Veräußerung des Pfandes nicht verlangen dürfe.
+----
 
-`§ 1216b (4) ABGB.`  
-Die Gesellschafter sind verpflichtet, die Liquidation und die Liquidatoren soweit möglich den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf ortsübliche Weise bekannt zu machen.
+----
+### § 1372 ABGB
 
-### § 1216c ABGB # Rechte und Pflichten der Liquidatoren
+`§ 1372 ABGB.`  
+Der Nebenvertrag, daß dem Gläubiger die Fruchtnießung der verpfändeten Sache zustehen solle, ist ohne rechtliche Wirkung. Ist dem Gläubiger der bloße Gebrauch eines beweglichen Pfandstückes eingeräumt worden (§. 459), so muß diese Benützung auf eine dem Schuldner unschädliche Art geschehen.
+----
 
-`§ 1216c (1) ABGB.`  
-Die Liquidatoren haben die laufenden Geschäfte zu beenden, die gesellschaftsbezogenen Forderungen einzuziehen und die Gesellschaftsgläubiger zu befriedigen. Zur Beendigung schwebender Geschäfte können die Liquidatoren auch neue Geschäfte eingehen.
+----
+### § 1373 ABGB # Auf welche Art in der Regel Sicherstellung zu leisten ist
 
-`§ 1216c (2) ABGB.`  
-Den Gesellschaftern sind die Gegenstände, die sie der Gesellschaft zur Benutzung überlassen haben, zurückzugeben. Für einen durch Zufall abhanden gekommenen oder verschlechterten Gegenstand gebührt ihnen gegenüber den anderen Gesellschaftern kein Ersatz.
+`§ 1373 ABGB.`  
+Wer verbunden ist, eine Sicherstellung zu leisten, muß diese Verbindlichkeit durch ein Handpfand, oder durch eine Hypothek erfüllen. Nur in dem Falle, daß er ein Pfand zu geben außer Stande ist, werden taugliche Bürgen angenommen.
+----
 
-### § 1216d ABGB # Handeln der Liquidatoren
+----
+### § 1374 ABGB
 
-`§ 1216d ABGB.`  
-Die Liquidatoren vertreten die Gesellschafter gerichtlich und außergerichtlich als Gesamtvertreter, sofern die Gesellschafter nicht einvernehmlich etwas anderes vereinbaren. Die Liquidatoren können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen. Jeder Liquidator ist alleine befugt, gesellschaftsbezogene Erklärungen entgegenzunehmen.
+`§ 1374 ABGB.`  
+Niemand ist verpflichtet, eine Sache, die zur Sicherstellung dienen soll, in einem höheren Wert als der Hälfte ihres Verkehrswertes zum Pfand anzunehmen. Wer ein angemessenes Vermögen besitzt und im Inland geklagt werden kann, ist ein tauglicher Bürge.
+----
 
-### § 1216e ABGB # Aufteilung und Ausgleich unter den Gesellschaftern
+----
+## Zweytes Hauptstück. # Von Umänderung der Rechte und Verbindlichkeiten.
 
-`§ 1216e (1) ABGB.`  
-Das nach Berücksichtigung der Schulden verbleibende Gesellschaftsvermögen ist nach dem Verhältnis der Beteiligung der Gesellschafter unter Berücksichtigung ihrer Guthaben und Verbindlichkeiten aus dem Gesellschaftsverhältnis unter die Gesellschafter zu verteilen.
+### § 1375 ABGB # Umänderung der Rechte und Verbindlichkeiten;
 
-`§ 1216e (2) ABGB.`  
-Das während der Liquidation entbehrliche Geld wird vorläufig verteilt. Zur Deckung noch nicht fälliger oder streitiger Verbindlichkeiten sowie zur Sicherung der den Gesellschaftern bei der Schlussverteilung zukommenden Beträge ist das Erforderliche zurückzubehalten. § 1196 Abs. 1 ist während der Liquidation nicht anzuwenden.
+`§ 1375 ABGB.`  
+Es hängt von dem Willen des Gläubigers und des Schuldners ab, ihre gegenseitigen willkührlichen Rechte und Verbindlichkeiten umzuändern. Die Umänderung kann ohne, oder mit Hinzukunft einer dritten Person, und zwar entweder eines neuen Gläubigers, oder eines neuen Schuldners geschehen.
+----
 
-`§ 1216e (3) ABGB.`  
-Entsteht über die Verteilung des Gesellschaftsvermögens Streit unter den Gesellschaftern, so haben die Liquidatoren die Verteilung bis zur Entscheidung des Streites auszusetzen.
+----
+### § 1376 ABGB # 1) durch Novation;
 
-`§ 1216e (4) ABGB.`  
-Reicht das Gesellschaftsvermögen zur Deckung der Guthaben von Gesellschaftern aus dem Gesellschaftsverhältnis nicht aus, so sind die übrigen Gesellschafter ihnen gegenüber verpflichtet, für den Betrag im Verhältnis ihrer Verbindlichkeiten aus dem Gesellschaftsverhältnis aufzukommen. Kann von einem Gesellschafter der auf ihn entfallende Betrag nicht erlangt werden, so wird der Ausfall auf die übrigen Gesellschafter wie ein Verlust verteilt.
+`§ 1376 ABGB.`  
+Die Umänderung ohne Hinzukunft einer dritten Person findet Statt, wenn der Rechtsgrund, oder wenn der Hauptgegenstand einer Forderung verwechselt wird, folglich die alte Verbindlichkeit in eine neue übergeht.
+----
 
-## Achtundzwanzigstes Hauptstück # Von den Ehepakten und dem Anspruch auf Ausstattung
+----
+### § 1377 ABGB
 
-### § 1217 ABGB # Ehepakte
+`§ 1377 ABGB.`  
+Eine solche Umänderung heißt Neuerungsvertrag (Novation). Vermöge dieses Vertrages hört die vorige Hauptverbindlichkeit auf, und die neue nimmt zugleich ihren Anfang.
+----
 
-`§ 1217 (1) ABGB.`  
-Ehepakte heißen diejenigen Verträge, welche in der Absicht auf die eheliche Verbindung über das Vermögen geschlossen werden. Sie haben vorzüglich die Gütergemeinschaft und den Erbvertrag zum Gegenstand.
+----
+### § 1378 ABGB
 
-`§ 1217 (2) ABGB.`  
-Die Bestimmungen dieses Hauptstücks sind auf eingetragene Partner sinngemäß anzuwenden.
+`§ 1378 ABGB.`  
+Die mit der vorigen Hauptverbindlichkeit verknüpften Bürgschafts- Pfand- und anderen Rechte erlöschen durch den Neuerungsvertrag, wenn die Theilnehmer nicht durch ein besonderes Einverständniß hierüber etwas Anderes festgesetzt haben.
+----
 
-### § 1220 ABGB # Ausstattung
+----
+### § 1379 ABGB
 
-`§ 1220 ABGB.`  
-Besitzt ein Kind kein eigenes, zu einer angemessenen Ausstattung hinlängliches Vermögen, so sind Eltern oder Großeltern nach der Reihenfolge und nach den Grundsätzen, nach denen sie für den Unterhalt der Kinder zu sorgen haben, verpflichtet, den Kindern oder Enkelkindern bei ihrer Verehelichung eine Ausstattung zu geben oder dazu verhältnismäßig beizutragen.
+`§ 1379 ABGB.`  
+Die näheren Bestimmungen, wo, wann und wie eine schon vorhandene Verbindlichkeit erfüllet werden soll, und andere Nebenbestimmungen, wodurch in Rücksicht auf den Hauptgegenstand oder Rechtsgrund keine Umänderungen geschieht, sind eben so wenig als ein Neuerungsvertrag anzusehen, als die bloße Ausstellung eines neuen Schuldscheines, oder einer andern dahin gehörigen Urkunde. Auch kann eine solche Abänderung in den Nebenbestimmungen einem Dritten, welcher derselben nicht beygezogen worden ist, keine neue Last auflegen. Im Zweifel wird die alte Verbindlichkeit nicht für aufgelöst gehalten, so lange sie mit der neuen noch wohl bestehen kann.
+----
 
-### § 1221 ABGB
+----
+### § 1380 ABGB # 2) Vergleich
 
-`§ 1221 ABGB.`  
-Berufen sich Eltern oder Großeltern auf ihr Unvermögen zur Bestellung einer angemessenen Ausstattung, so hat das Gericht auf Antrag des Ausstattungsberechtigten, jedoch ohne strenge Untersuchung des Vermögensstands, darüber zu entscheiden.
+`§ 1380 ABGB.`  
+Ein Neuerungsvertrag, durch welchen streitige, oder zweifelhafte Rechte dergestalt bestimmt werden, daß jede Partey sich wechselseitig etwas zu geben, zu thun, oder zu unterlassen verbindet, heißt Vergleich. Der Vergleich gehört zu den zweyseitig verbindlichen Verträgen, und wird nach eben denselben Grundsätzen beurtheilet.
+----
 
-### § 1222 ABGB
+----
+### § 1381 ABGB
 
-`§ 1222 ABGB.`  
-Wenn ein Kind ohne Wissen oder gegen den Willen seiner Eltern geheiratet hat und das Gericht die Ursache der Missbilligung begründet findet, sind die Eltern selbst in dem Falle, dass sie in der Folge die Ehe genehmigen, nicht schuldig, ihm eine Ausstattung zu geben.
+`§ 1381 ABGB.`  
+Wer dem Verpflichteten mit dessen Einwilligung ein unstreitiges oder zweifelhaftes Recht unentgeldlich erläßt, macht eine Schenkung (§. 939).
+----
 
-### § 1223 ABGB
+----
+### § 1382 ABGB # Ungültigkeit eines Vergleiches in Rücksicht des Gegenstandes;
 
-`§ 1223 ABGB.`  
-Hat ein Kind seine Ausstattung schon erhalten und sie, wenn auch ohne sein Verschulden, verloren, so ist es nicht mehr – selbst nicht bei Eingehung einer weiteren Ehe – berechtigt, eine neue zu fordern.
+`§ 1382 ABGB.`  
+Es gibt zweifelhafte Fälle, welche durch einen Vergleich nicht beygelegt werden dürfen. Dahin gehört der zwischen Eheleuten über die Gültigkeit ihrer Ehe entstandene Streit. Diesen kann nur der durch das Gesetz bestimmte Gerichtsstand entscheiden.
+----
 
-### § 1233 ABGB # Gütergemeinschaft
+----
+### § 1383 ABGB
 
-`§ 1233 ABGB.`  
-Die eheliche Verbindung allein begründet noch keine Gemeinschaft der Güter zwischen den Eheleuten. Dazu wird ein besonderer Vertrag erfordert, dessen Umfang und rechtliche Form nach den §§. 1177 und 1178 des vorigen Hauptstückes beurtheilet wird.
+`§ 1383 ABGB.`  
+Ueber den Inhalt einer letzten Anordnung kann vor deren Bekanntmachung kein Vergleich errichtet werden. Die hierüber entstandene Wette wird nach den Grundsätzen von Glücksverträgen beurtheilt.
+----
 
-### § 1234 ABGB
+----
+### § 1384 ABGB
 
-`§ 1234 ABGB.`  
-Die Gütergemeinschaft unter Ehegatten wird in der Regel nur auf den Todesfall verstanden. Sie gibt dem Ehegatten das Recht auf die Hälfte dessen, was von den der Gemeinschaft wechselseitig unterzogenen Gütern nach Ableben des andern Ehegatten noch vorhanden seyn wird.
+`§ 1384 ABGB.`  
+Vergleiche über Gesetzübertretungen sind nur in Hinsicht auf die Privat-Genugthuung gültig; die gesetzmäßige Untersuchung und Bestrafung kann dadurch bloß dann abgewendet werden, wenn die Uebertretungen von der Art sind, daß die Behörde nur auf Verlangen der Parteyen ihr Amt zu handeln angewiesen ist.
+----
 
-### § 1235 ABGB
+----
+### § 1385 ABGB # oder anderer Mängel
 
-`§ 1235 ABGB.`  
-Bey einer Gemeinschaft, die sich auf das ganze Vermögen bezieht, sind vor der Theilung alle Schulden ohne Ausnahme; bey einer Gemeinschaft aber, die bloß das gegenwärtige, oder bloß das künftige Vermögen zum Gegenstande hat, nur diejenigen Schulden abzuziehen, die zum Nutzen des gemeinschaftlichen Gutes verwendet worden sind.
+`§ 1385 ABGB.`  
+Ein Irrthum kann den Vergleich nur in so weit ungültig machen, als er die Wesenheit der Person, oder des Gegenstandes betrifft.
+----
 
-### § 1236 ABGB
+----
+### § 1386 ABGB
 
-`§ 1236 ABGB.`  
-Besitzt ein Ehegatte ein unbewegliches Gut, und wird das Recht des andern Ehegatten zur Gemeinschaft in die öffentlichen Bücher eingetragen; so erhält dieser durch die Eintragung auf die Hälfte der Substanz des Gutes ein dingliches Recht, vermöge dessen der eine Ehegatte über diese Hälfte keine Anordnung machen kann; auf die Nutzungen aber während der Ehe erhält er durch die Einverleibung keinen Anspruch. Nach dem Tode des Ehegatten gebührt dem überlebenden Theile sogleich das freye Eigenthum seines Antheiles. Doch kann eine solche Einverleibung den auf das Gut früher eingetragenen Gläubigern nicht zum Nachtheile gereichen.
+`§ 1386 ABGB.`  
+Aus dem Grunde einer Verletzung über die Hälfte kann ein redlich errichteter Vergleich nicht angefochten werden.
+----
 
-### § 1237 ABGB # Gesetzlicher ehelicher Güterstand
+----
+### § 1387 ABGB
 
-`§ 1237 ABGB.`  
-Haben Eheleute über die Verwendung ihres Vermögens keine besondere Uebereinkunft getroffen, so behält jeder Ehegatte sein voriges Eigenthumsrecht, und auf das, was ein jeder Theil während der Ehe erwirbt, und auf was immer für eine Art überkommt, hat der andere, solange die Ehe besteht, keinen Anspruch.
+`§ 1387 ABGB.`  
+Eben so wenig können neu gefundene Urkunden, wenn sie auch den gänzlichen Mangel eines Rechtes auf Seite einer Partey entdeckten, einen redlich eingegangenen Vergleich entkräften.
+----
 
-### § 1246 ABGB # Schenkungen unter Ehegatten und Verlobten;
+----
+### § 1388 ABGB
 
-`§ 1246 ABGB.`  
-Die Gültigkeit oder Ungültigkeit der Schenkungen zwischen Ehegatten wird nach den für die Schenkungen überhaupt bestehenden Gesetzen beurtheilt.
+`§ 1388 ABGB.`  
+Ein offenbarer Rechnungsverstoß, oder ein Fehler, welcher bey dem Abschlusse eines Vergleiches in dem Summiren oder Abziehen begangen wird, schadet keinem der vertragmachenden Theile.
+----
 
-### § 1247 ABGB
+----
+### § 1389 ABGB # Umfang des Vergleiches
 
-`§ 1247 ABGB.`  
-Was ein Mann seiner Ehegattinn an Schmuck, Edelsteinen und andern Kostbarkeiten zum Putze gegeben hat, wird im Zweifel nicht für gelehnt; sondern für geschenkt angesehen. Wenn aber ein verlobter Theil dem andern; oder auch ein Dritter dem einen oder andern Theile in Rücksicht auf die künftige Ehe etwas zusichert oder schenket; so kann, wenn die Ehe ohne Verschulden des Geschenkgebers nicht erfolgt, die Schenkung widerrufen werden.
+`§ 1389 ABGB.`  
+Ein Vergleich, welcher über eine besondere Streitigkeit geschlossen worden ist, erstreckt sich nicht auf andere Fälle. Selbst allgemeine, auf alle Streitigkeiten überhaupt lautende Vergleiche sind auf solche Rechte nicht anwendbar, die geflissentlich verheimlichet worden sind, oder auf welche die sich vergleichenden Parteyen nicht denken konnten.
+----
 
-### § 1249 ABGB # Erbverträge
+----
+### § 1390 ABGB # Wirkung in Rücksicht der Nebenverbindlichkeiten
 
-`§ 1249 ABGB.`  
-Zwischen Ehegatten kann auch ein Erbvertrag, wodurch die künftige Erbschaft oder ein Teil derselben versprochen und das Versprechen angenommen wird, geschlossen werden (§ 602). Ein solcher Vertrag muss als Notariatsakt und mit allen Erfordernissen eines schriftlichen Testamentes errichtet werden.
+`§ 1390 ABGB.`  
+Bürgen und Pfänder, welche zur Sicherheit des ganzen noch streitigen Rechtes gegeben worden sind, haften auch für den Theil, der durch den Vergleich bestimmt worden ist. Doch bleiben dem Bürgen und einem dritten Verpfänder, welche dem Vergleiche nicht beygestimmt haben, alle Einwendungen gegen den Gläubiger vorbehalten, welche ohne geschlossenen Vergleich der Forderung hätten entgegengesetzt werden können.
+----
 
-### § 1251 ABGB # Bedingungen
+----
+### § 1391 ABGB
 
-`§ 1251 ABGB.`  
-Die Bestimmungen über Bedingungen bei Verträgen sind auch auf Erbverträge anzuwenden.
+`§ 1391 ABGB.`  
+Der Vertrag, wodurch Parteyen zur Entscheidung streitiger Rechte einen Schiedsrichter bestellen, erhält seine Bestimmung in der Gerichtsordnung.
+----
 
-### § 1252 ABGB # Wirkungen des Erbvertrags
+----
+### § 1392 ABGB # 3) Cession
 
-`§ 1252 ABGB.`  
-Ein Erbvertrag hindert einen Vertragspartner nicht, zu Lebzeiten über sein Vermögen nach Belieben zu verfügen. Aus dem Erbvertrag entstehende Rechte setzen den Tod eines Vertragsteils voraus und können vor Erbanfall nicht auf andere übertragen werden. Aufgrund der künftigen Erbschaft kann keine Sicherstellung gefordert werden.
+`§ 1392 ABGB.`  
+Wenn eine Forderung von einer Person an die andere übertragen, und von dieser angenommen wird; so entsteht die Umänderung des Rechtes mit Hinzukunft eines neuen Gläubigers. Eine solche Handlung heißt Abtretung (Cession), und kann mit, oder ohne Entgeld geschlossen werden.
+----
 
-### § 1253 ABGB
+----
+### § 1393 ABGB # Gegenstände der Cession
 
-`§ 1253 ABGB.`  
-Durch den Erbvertrag kann ein Vertragspartner auf das Recht zu testieren nicht gänzlich verzichten. Ein reines Viertel, das weder durch Pflichtteile noch durch andere Forderungen belastet sein darf, muss zur freien letztwilligen Verfügung stehen. Hat der Verstorbene darüber nicht verfügt, so fällt dieses Viertel nicht dem Vertragserben, auch wenn ihm im Erbvertrag die ganze Verlassenschaft versprochen wurde, sondern den gesetzlichen Erben zu.
+`§ 1393 ABGB.`  
+Alle veräußerliche Rechte sind ein Gegenstand der Abtretung. Rechte, die der Person ankleben, folglich mit ihr erlöschen, können nicht abgetreten werden. Schuldscheine, die auf den Ueberbringer lauten, werden schon durch die Uebergabe abgetreten, und bedürfen nebst dem Besitze keines andern Beweises der Abtretung.
+----
 
-### § 1254 ABGB
+----
+### § 1394 ABGB # Wirkung
 
-`§ 1254 ABGB.`  
-Ein Erbvertrag kann nicht einseitig widerrufen, aber aus vertragsrechtlichen Gründen entkräftet werden. Die Rechte von Pflichtteilsberechtigten bleiben vom Erbvertrag unberührt.
+`§ 1394 ABGB.`  
+Die Rechte des Uebernehmers sind mit den Rechten des Ueberträgers in Rücksicht auf die überlassene Forderung eben dieselben.
+----
 
-### § 1262 ABGB
+----
+### § 1395 ABGB
 
-`§ 1262 ABGB.`  
-Ist zwischen den Ehegatten eine Gemeinschaft der Güter bedungen; so hört dieselbe durch den Concurs des einen oder des andern Ehegatten auf, und das zwischen ihnen gemeinschaftliche Vermögen wird, wie bey dem Tode, getheilt.
+`§ 1395 ABGB.`  
+Durch den Abtretungsvertrag entsteht nur zwischen dem Ueberträger (Cedent) und dem Uebernehmer der Forderung (Cessionar); nicht aber zwischen dem Letzten und dem übernommenen Schuldner (Cessus) eine neue Verbindlichkeit. Daher ist der Schuldner, so lange ihm der Uebernehmer nicht bekannt wird, berechtiget, den ersten Gläubiger zu bezahlen, oder sich sonst mit ihm abzufinden.
+----
 
-### § 1265 ABGB # Nichtigerklärung der Ehe
+----
+### § 1396 ABGB
 
-`§ 1265 ABGB.`  
-Wird eine Ehe für ungültig erklärt; so zerfallen auch die Ehe-Pacte; das Vermögen kommt, in so fern es vorhanden ist, in den vorigen Stand zurück. Der schuldtragende Theil hat aber den schuldlosen Theile Entschädigung zu leisten.
+`§ 1396 ABGB.`  
+Dieses kann der Schuldner nicht mehr, so bald ihm der Uebernehmer bekannt gemacht worden ist; allein es bleibt ihm das Recht, seine Einwendungen gegen die Forderung anzubringen. Hat er die Forderung gegen den redlichen Uebernehmer für richtig erkannt; so ist er verbunden, denselben als seinen Gläubiger zu befriedigen.
+----
 
-### § 1266 ABGB # Scheidung oder Aufhebung der Ehe
+----
+### § 1396a ABGB # Zessionsverbot
 
-`§ 1266 ABGB.`  
-Im Fall einer Scheidung oder Aufhebung der Ehe mit gleichteiligem oder ohne Verschulden oder einer Scheidung im Einvernehmen sind die Ehepakte für beide Teile erloschen, sofern keine andere Vereinbarung getroffen wurde. Ansonsten gebührt dem schuldlosen oder minderschuldigen Ehegatten nicht nur volle Genugtuung, sondern ab dem Zeitpunkt der Scheidung alles dasjenige, was ihm in den Ehepakten auf den Fall des Überlebens bedungen worden ist. Das Vermögen, worüber eine Gütergemeinschaft bestanden hat, wird wie im Falle des Todes geteilt, und das Recht aus einem Erbvertrag bleibt dem Schuldlosen oder Minderschuldigen auf den Todesfall vorbehalten.
+`§ 1396a (1) ABGB.`  
+Eine Vereinbarung, dass eine Geldforderung zwischen Unternehmern aus unternehmerischen Geschäften nicht abgetreten werden darf (Zessionsverbot), ist nur verbindlich, wenn sie im Einzelnen ausgehandelt worden ist und den Gläubiger unter Berücksichtigung aller Umstände des Falles nicht gröblich benachteiligt. Auch ein solches Zessionsverbot steht der Wirksamkeit einer Abtretung aber nicht entgegen; sobald die Abtretung und der Übernehmer dem Schuldner bekannt gemacht worden sind, kann dieser nicht mehr mit schuldbefreiender Wirkung an den Überträger leisten, es sei denn, dass ihm dabei nur leichte Fahrlässigkeit zur Last fällt.
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.025](BG.ABGB.025.md))*
+`§ 1396a (2) ABGB.`  
+Rechte des Schuldners gegen den Überträger wegen der Verletzung eines verbindlichen Zessionsverbots bleiben unberührt, sie können aber gegen die Forderung nicht eingewendet werden. Der Übernehmer haftet dem Schuldner nicht allein deshalb, weil er das Zessionsverbot gekannt hat.
+
+`§ 1396a (3) ABGB.`  
+Die Abs. 1 und 2 gelten nicht für Zessionsverbote, die zwischen einer juristischen Person des öffentlichen Rechts oder einer von dieser gegründeten Einrichtung und einem Förderungswerber vereinbart werden.
+----
+
+----
+### § 1397 ABGB # Haftung des Cedenten
+
+`§ 1397 ABGB.`  
+Wer eine Forderung ohne Entgeld abtritt, also verschenkt, haftet nicht weiter für dieselbe. Kommt aber die Abtretung auf eine entgeldliche Art zu Stande; so haftet der Ueberträger dem Uebernehmer sowohl für die Richtigkeit, als für die Einbringlichkeit der Forderung, jedoch nie für mehr, als er von dem Uebernehmer erhalten hat.
+----
+
+----
+### § 1398 ABGB
+
+`§ 1398 ABGB.`  
+In so fern der Uebernehmer über die Einbringlichkeit der Forderung aus den öffentlichen Pfandbüchern sich belehren konnte, gebührt ihm in Rücksicht der Uneinbringlichkeit keine Entschädigung. Auch für eine zur Zeit der Abtretung einbringliche, und durch einen bloßen Zufall oder durch Versehen des Uebernehmers uneinbringlich gewordene Forderung haftet der Ueberträger nicht.
+----
+
+----
+### § 1399 ABGB
+
+`§ 1399 ABGB.`  
+Ein Versehen dieser Art begeht der Uebernehmer, wenn er die Forderung zur Zeit, als sie aufgekündiget werden kann, nicht aufkündiget, oder nach verfallener Zahlungsfrist nicht eintreibt; wenn er dem Schuldner nachsieht; wenn er die noch mögliche Sicherheit zu rechter Zeit sich zu verschaffen versäumt, oder die gerichtliche Execution zu betreiben unterläßt.
+----
+
+----
+### § 1400 ABGB # 4) Anweisung (Assignation)
+
+`§ 1400 ABGB.`  
+Durch die Anweisung auf eine Leistung eines Dritten wird der Empfänger der Anweisung (Assignatar) zur Einhebung der Leistung bei dem Angewiesenen (Assignat) und der letztere zur Leistung an ersteren für Rechnung des Anweisenden (Assignant) ermächtigt. Einen unmittelbaren Anspruch erlangt der Anweisungsempfänger gegen den Angewiesenen erst, wenn die Erklärung des Angewiesenen über die Annahme der Anweisung ihm zugekommen ist.
+----
+
+----
+### § 1401 ABGB
+
+`§ 1401 (1) ABGB.`  
+Insoweit der Angewiesene das zu Leistende dem Anweisenden bereits schuldet, ist er diesem gegenüber verpflichtet, der Anweisung Folge zu leisten. Wenn durch die Anweisung eine Schuld des Anweisenden bei dem Empfänger, der die Anweisung angenommen hat, getilgt werden soll, ist der Empfänger verpflichtet, den Angewiesenen zur Leistung aufzufordern.
+
+`§ 1401 (2) ABGB.`  
+Will der Empfänger von der Anweisung keinen Gebrauch machen oder verweigert der Angewiesene die Annahme oder die Leistung, so hat der Empfänger dies dem Anweisenden ohne Verzug anzuzeigen.
+
+`§ 1401 (3) ABGB.`  
+Die Tilgung der Schuld erfolgt, wenn nichts anderes vereinbart ist, erst durch die Leistung.
+----
+
+----
+### § 1402 ABGB
+
+`§ 1402 ABGB.`  
+Hat der Angewiesene die Anweisung dem Empfänger gegenüber angenommen, so kann er diesem nur solche Einwendungen entgegensetzen, welche die Gültigkeit der Annahme betreffen oder sich aus dem Inhalte der Anweisung oder aus seinen persönlichen Beziehungen zum Empfänger ergeben.
+----
+
+----
+### § 1403 ABGB
+
+`§ 1403 (1) ABGB.`  
+Solange der Angewiesene die Anweisung noch nicht dem Empfänger gegenüber angenommen hat, kann sie der Anweisende widerrufen. Besteht zwischen dem Anweisenden und dem Angewiesenen kein anderer Rechtsgrund, so gelten für das Rechtsverhältnis zwischen beiden die Vorschriften über den Bevollmächtigungsvertrag; die Anweisung erlischt jedoch nicht durch den Tod des Anweisenden oder Angewiesenen. Inwiefern die Aufhebung der Anweisung auch gegenüber dem Empfänger rechtswirksam ist, bestimmt sich nach dem zwischen diesem und dem Anweisenden obwaltenden Rechtsverhältnis.
+
+`§ 1403 (2) ABGB.`  
+Der Anspruch des Empfängers gegen den Angewiesenen verjährt in drei Jahren.
+----
+
+----
+### § 1404 ABGB # 5. Schuldübernahme
+
+`§ 1404 ABGB.`  
+Wer einem Schuldner verspricht, die Leistung an dessen Gläubiger zu bewirken (Erfüllungsübernahme), haftet dem Schuldner dafür, daß der Gläubiger ihn nicht in Anspruch nehme. Dem Gläubiger erwächst daraus unmittelbar kein Recht.
+----
+
+----
+### § 1405 ABGB
+
+`§ 1405 ABGB.`  
+Wer einem Schuldner erklärt, seine Schuld zu übernehmen (Schuldübernahme), tritt als Schuldner an dessen Stelle, wenn der Gläubiger einwilligt. Bis diese Einwilligung erfolgt oder falls sie verweigert wird, haftet er wie bei Erfüllungsübernahme (§ 1404). Die Einwilligung des Gläubigers kann entweder dem Schuldner oder dem Übernehmer erklärt werden.
+----
+
+----
+### § 1406 ABGB
+
+`§ 1406 (1) ABGB.`  
+Auch ohne Vereinbarung mit dem Schuldner kann ein Dritter durch Vertrag mit dem Gläubiger die Schuld übernehmen.
+
+`§ 1406 (2) ABGB.`  
+Im Zweifel ist aber die dem Gläubiger erklärte Übernahme als Haftung neben dem bisherigen Schuldner, nicht an dessen Stelle zu verstehen.
+----
+
+----
+### § 1407 ABGB
+
+`§ 1407 (1) ABGB.`  
+Die Verbindlichkeiten des Übernehmers sind mit den Verbindlichkeiten des bisherigen Schuldners in Rücksicht auf die übernommene Schuld ebendieselben. Der Übernehmer kann dem Gläubiger die aus dem Rechtsverhältnis zwischen diesem und dem bisherigen Schuldner entspringenden Einwendungen entgegensetzen.
+
+`§ 1407 (2) ABGB.`  
+Die Nebenrechte der Forderung werden durch den Schuldnerwechsel nicht berührt. Bürgen und von dritten Personen bestellte Pfänder haften jedoch nur dann fort, wenn der Bürge oder Verpfänder dem Schuldnerwechsel zugestimmt hat.
+----
+
+----
+### § 1408 ABGB
+
+`§ 1408 ABGB.`  
+Übernimmt bei Veräußerung einer Liegenschaft der Erwerber ein auf ihr haftendes Pfandrecht, so ist dies im Zweifel als Schuldübernahme zu verstehen. Der Veräußerer kann, nach vollzogener Übertragung des Eigentums, den Gläubiger zur Annahme des neuen Schuldners an seiner Stelle schriftlich mit der Wirkung auffordern, daß die Einwilligung als erteilt gilt, wenn sie nicht binnen sechs Monaten versagt wird. Auf diese Wirkung muß in der Aufforderung ausdrücklich hingewiesen sein.
+----
+
+----
+### § 1409 ABGB
+
+`§ 1409 (1) ABGB.`  
+Übernimmt jemand ein Vermögen oder ein Unternehmen, so ist er unbeschadet der fortdauernden Haftung des Veräußerers den Gläubigern aus den zum Vermögen oder Unternehmen gehörigen Schulden, die er bei der Übergabe kannte oder kennen mußte, unmittelbar verpflichtet. Er wird aber von der Haftung insoweit frei, als er an solchen Schulden schon so viel berichtigt hat, wie der Wert des übernommenen Vermögens oder Unternehmens beträgt.
+
+`§ 1409 (2) ABGB.`  
+Ist jedoch ein naher Angehöriger des Veräußerers (§ 32 IO) der Übernehmer, so trifft ihn diese Verpflichtung, soweit er nicht beweist, daß ihm die Schulden bei der Übergabe weder bekannt waren noch bekannt sein mußten.
+
+`§ 1409 (3) ABGB.`  
+Entgegenstehende Vereinbarungen zwischen Veräußerer und Übernehmer zum Nachteile der Gläubiger sind diesen gegenüber unwirksam.
+----
+
+----
+### § 1409a ABGB
+
+`§ 1409a ABGB.`  
+Wer ein Vermögen oder ein Unternehmen im Weg eines Zwangsvollstreckungsverfahrens, eines Insolvenzverfahrens oder einer Überwachung des Schuldners durch einen Treuhänder der Gläubiger erwirbt, haftet nicht nach § 1409 Abs. 1 und 2.
+----
+
+----
+### § 1410 ABGB
+
+`§ 1410 ABGB.`  
+Wird der Eintritt des neuen Schuldners an Stelle des bisherigen Schuldners in der Weise verabredet, daß an die Stelle des aufgehobenen Schuldverhältnisses eine Verpflichtung des neuen Schuldners aus selbständigem Rechtsgrunde oder unter Änderung des Hauptgegenstandes der Forderung gesetzt wird, so treten nicht die Wirkungen der Schuldübernahme, sondern eines Neuerungsvertrages (§§ 1377, 1378) ein.
+----
+
+`END-OF-DATA-SET`

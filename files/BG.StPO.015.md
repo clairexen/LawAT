@@ -1,342 +1,330 @@
 # BG.StPO.015 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.015.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StPO.014](BG.StPO.014.md))*
+Der Nationalrat hat beschlossen:
 
-## 3. Beginn der Hauptverhandlung
+----
+## 4. Abschnitt # Vollzug der Untersuchungshaft
 
-### § 239 StPO
+### § 182 StPO # Allgemeines
 
-`§ 239 StPO.`  
-Die Hauptverhandlung beginnt mit dem Aufruf der Sache. Der Angeklagte erscheint ungefesselt, jedoch, wenn er in Untersuchungshaft ist, in Begleitung einer Wache. In den in § 174 Abs. 1 geregelten Fällen kann bei Angeklagten, die in Untersuchungshaft angehalten werden, gemäß § 153 Abs. 4 vorgegangen werden. Die zur Beweisführung etwa erforderlichen Gegenstände, die dem Angeklagten oder den Zeugen zur Anerkennung vorzulegen sind, müssen vor dem Beginn der Verhandlung in den Gerichtssaal gebracht werden.
+`§ 182 (1) StPO.`  
+Zweck der Anhaltung eines Beschuldigten in Untersuchungshaft ist, dem Haftgrund (§ 173 Abs. 2) entgegenzuwirken.
 
-### § 240 StPO
+`§ 182 (2) StPO.`  
+Das Leben in Untersuchungshaft soll den allgemeinen Lebensverhältnissen soweit wie möglich angeglichen werden. Beschränkungen dürfen verhafteten Beschuldigten nur insoweit auferlegt werden, als dies gesetzlich zulässig und zur Erreichung des Haftzwecks (Abs. 1) oder zur Aufrechterhaltung der Sicherheit und Ordnung in der Justizanstalt notwendig ist.
 
-`§ 240 StPO.`  
-Der Vorsitzende befragt hierauf den Angeklagten um seinen Vor- und Familiennamen sowie alle früher geführten Namen, Tag und Ort seiner Geburt, seine Staatsangehörigkeit, die Vornamen seiner Eltern, seinen Beruf, seine Anschrift und erforderlichenfalls über andere persönliche Verhältnisse und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung.
+`§ 182 (3) StPO.`  
+Beim Vollzug der Untersuchungshaft ist insbesondere darauf Bedacht zu nehmen, dass  
+`§ 182 (3) Z 1 StPO.`
+für Beschuldigte die Vermutung der Unschuld gilt,  
+`§ 182 (3) Z 2 StPO.`
+Beschuldigte ausreichend Gelegenheit zur Vorbereitung ihrer Verteidigung haben und  
+`§ 182 (3) Z 3 StPO.`
+schädlichen Folgen des Freiheitsentzuges auf geeignete Weise entgegengewirkt wird.
 
-### § 240a StPO
+`§ 182 (3a) StPO.`  
+Ein Waffengebrauch im Sinne des § 105 Abs. 6 Z 3 StVG ist nur zulässig, wenn der Beschuldigte wegen des Verdachts eines Verbrechens in Untersuchungshaft angehalten wird und auf Grund der Art oder Ausführung der vorgeworfenen Tat, der Persönlichkeit des Beschuldigten oder seines Vorlebens anzunehmen ist, dass er für die Sicherheit des Staates, von Leib und Leben, die sexuelle Integrität oder das Vermögen anderer Personen eine besondere Gefahr darstellt.
 
-`§ 240a (1) StPO.`  
-Nach der Ermahnung des Angeklagten sind die Schöffen, die in demselben Jahre noch nicht beeidigt worden sind, bei sonstiger Nichtigkeit zu beeidigen. Die Schöffen erheben sich von den Sitzen und der Vorsitzende richtet an sie folgende Anrede:
-„Sie schwören und geloben vor Gott, die Beweise, die gegen und für den Angeklagten werden vorgebracht werden, mit der gewissenhaftesten Aufmerksamkeit zu prüfen, nichts unerwogen zu lassen, was zum Vorteil oder zum Nachteil des Angeklagten gereichen kann, das Gesetz, dem Sie Geltung verschaffen sollen, treu zu beobachten, vor Ihrem Ausspruch über den Gegenstand der Verhandlung mit niemand, außer mit den Mitgliedern des Schöffengerichts, Rücksprache zu nehmen, der Stimme der Zu- oder Abneigung, der Furcht oder der Schadenfreude kein Gehör zu geben, sondern sich mit Unparteilichkeit und Festigkeit nur nach den für und wider den Angeklagten vorgeführten Beweismitteln und Ihrer darauf gegründeten Überzeugung so zu entscheiden, wie Sie es vor Gott und Ihrem Gewissen verantworten können.“
+`§ 182 (4) StPO.`  
+Im Übrigen sind, soweit dieses Gesetz im Einzelnen nichts anderes bestimmt, auf den Vollzug der Untersuchungshaft die Bestimmungen des Strafvollzugsgesetzes über den Vollzug von Freiheitsstrafen, deren Strafzeit 18 Monate nicht übersteigt, dem Sinn nach anzuwenden.
 
-`§ 240a (2) StPO.`  
-Sodann wird jeder Schöffe einzeln vom Vorsitzenden aufgerufen und antwortet: „Ich schwöre, so wahr mir Gott helfe.“ Das Religionsbekenntnis der Schöffen macht hiebei keinen Unterschied. Nur solche, die keinem Religionsbekenntnis angehören oder deren Bekenntnis die Eidesleistung untersagt, werden durch Handschlag verpflichtet.
+`§ 182 (5) StPO.`  
+Soweit im Einzelnen nichts anderes bestimmt wird, gelten die Bestimmungen über den Vollzug der Untersuchungshaft für alle Anhaltungen nach diesem Gesetz, die in einer Justizanstalt vollzogen werden.
+----
 
-`§ 240a (3) StPO.`  
-Die Beeidigung gilt für die Dauer des Kalenderjahres; sie ist im Verhandlungsprotokoll und fortlaufend in einem besonderen Buche zu beurkunden.
+----
+### § 183 StPO # Haftort
 
-### § 241 StPO
+`§ 183 (1) StPO.`  
+Beschuldigte sind in der Justizanstalt des für die Entscheidung über die Verhängung und Fortsetzung der Untersuchungshaft zuständigen Gerichts anzuhalten. Soweit dies – insbesondere im Interesse einer wirtschaftlichen Führung der Justizanstalten – notwendig ist, können weibliche Beschuldigte in der Justizanstalt eines benachbarten Gerichts angehalten werden.
 
-`§ 241 (1) StPO.`  
-Hierauf werden die Zeugen und Sachverständigen aufgerufen, soweit sie nicht erst für einen späteren Zeitpunkt vorgeladen worden sind; der Vorsitzende teilt ihnen mit, wo sie sich bis zu ihrer Vernehmung aufhalten können und zu welchem Zeitpunkt sie sich für die Vernehmung bereitzuhalten haben. Der Vorsitzende hat die nach den Umständen erforderlichen Vorkehrungen zu veranlassen, um Verabredungen und Besprechungen der Zeugen zu verhindern.
+`§ 183 (2) StPO.`  
+Wenn dies zur Erreichung des Haftzwecks oder zur Wahrung der in § 182 enthaltenen Grundsätze notwendig ist, hat das Bundesministerium für Justiz die Zuständigkeit einer anderen Justizanstalt anzuordnen. Eine solche Anordnung kann mit Zustimmung des Beschuldigten auch zur Vermeidung eines Überbelags getroffen werden.
 
-`§ 241 (2) StPO.`  
-Bei den Sachverständigen kann der Vorsitzende in allen Fällen, in denen er es für die Erforschung der Wahrheit zweckdienlich findet, verfügen, daß sie sowohl während der Vernehmung des Angeklagten als auch der Zeugen im Sitzungssaale bleiben.
+`§ 183 (3) StPO.`  
+Ab Beginn des Hauptverfahrens (§ 210 Abs. 2) kann das Bundesministerium für Justiz die Zuständigkeit einer anderen als der nach Abs. 1 bestimmten Justizanstalt innerhalb des Sprengels des zuständigen Oberlandesgerichts anordnen, wenn dies der besseren Auslastung der Vollzugseinrichtungen dient und durch die Überstellung weder eine Beeinträchtigung der Interessen des Angeklagten noch Nachteile für das Strafverfahren zu befürchten sind.
 
-### § 242 StPO
+`§ 183 (4) StPO.`  
+Vor einer Änderung des Haftortes sind der Beschuldigte, Staatsanwaltschaft und Gericht zu hören; nach der Überstellung sind Staatsanwaltschaft, Gericht und der Verteidiger durch die nunmehr zuständige Justizanstalt unverzüglich zu verständigen.
 
-`§ 242 (1) StPO.`  
-Wenn Zeugen oder Sachverständige, der an sie ergangenen Vorladung ungeachtet, bei der Hauptverhandlung nicht erscheinen, so kann der Vorsitzende deren unverzügliche Vorführung anordnen.
+`§ 183 (5) StPO.`  
+Nach Rechtswirksamkeit der Anklage ist der Angeklagte, soweit die Zuständigkeit eines anderen Landesgerichts begründet wird, unverzüglich in die Justizanstalt des nunmehr zuständigen Landesgerichts zu überstellen.
+----
 
-`§ 242 (2) StPO.`  
-Ist die unverzügliche Vorführung nicht möglich, so ist über eine allfällige Verlesung der im Ermittlungsverfahren abgelegten Aussagen gemäß § 252 zu entscheiden oder aber die Hauptverhandlung zu vertagen.
+----
+### § 184 StPO # Ausführungen
 
-`§ 242 (3) StPO.`  
-Über den Ausgebliebenen ist mit Beschluss des Vorsitzenden eine Geldstrafe bis zu 1 000 Euro zu verhängen. Musste die Hauptverhandlung vertagt werden, so ist der Ausgebliebene überdies in diesem Beschluss zum Ersatz der durch sein Ausbleiben verursachten Kosten zu verpflichten. Soweit dies erforderlich ist, um Anwesenheit des Ausgebliebenen beim neuen Termin sicherzustellen, hat der Vorsitzende dessen Vorführung anzuordnen (§ 210 Abs. 3).
+`§ 184 StPO.`  
+Für Vernehmungen, Ausführungen und Überstellungen von Beschuldigten gelten die Bestimmungen der §§ 97 und 98 StVG sinngemäß mit der Maßgabe, dass  
+`§ 184 Z 1 StPO.`
+Vernehmungen auch dann in der Anstalt durchzuführen sind, wenn sie nicht vom Gericht oder von der Staatsanwaltschaft durchgeführt werden,  
+`§ 184 Z 2 StPO.`
+Ausführungen auf Ersuchen der Kriminalpolizei oder anderer Behörden (§ 98 Abs. 1 StVG) nur auf Anordnung oder mit Zustimmung der Staatsanwaltschaft und nur zum Zweck der Teilnahme an Verhandlungen, Tatrekonstruktionen und anderen kontradiktorischen Einvernahmen, an Gegenüberstellungen, Augenscheinen sowie sonstigen Befundaufnahmen zulässig sind.
+----
 
-### § 243 StPO
+----
+### § 185 StPO # Getrennte Anhaltung
 
-`§ 243 (1) StPO.`  
-Eine Beschwerde gegen einen Beschluss gemäß § 242 Abs. 3 ist beim erkennenden Schöffengericht einzubringen; ihr kommt aufschiebende Wirkung zu.
+`§ 185 (1) StPO.`  
+Beschuldigte sollen nicht in Gemeinschaft mit Strafgefangenen untergebracht werden. Beschuldigte, die sich das erste Mal in Haft befinden oder die nach § 183 Abs. 3 in einer anderen Justizanstalt angehalten werden, sind jedenfalls getrennt von Strafgefangenen anzuhalten. Bei der Bewegung im Freien, bei der Arbeit, beim Gottesdienst und bei Veranstaltungen sowie bei der Krankenbetreuung kann jedoch von einer Trennung abgesehen werden, soweit eine solche nach den zur Verfügung stehenden Einrichtungen nicht möglich ist.
 
-`§ 243 (2) StPO.`  
-Der Vorsitzende hat die verhängte Strafe nachzusehen, wenn der Zeuge oder Sachverständige bescheinigt, dass ihm die Ladung zur Hauptverhandlung nicht ordnungsgemäß zugestellt worden ist oder dass ihn ein unvorhergesehenes und unabwendbares Hindernis von der Teilnahme an der Hauptverhandlung abgehalten hat. Der Vorsitzende kann auch eine Milderung aussprechen, wenn die Bescheinigung erbracht wird, dass die Strafe oder der Kostenersatz zur Schuld oder den Folgen des Ausbleibens unverhältnismäßig wäre.
+`§ 185 (2) StPO.`  
+Soweit das zur Erreichung der Haftzwecke erforderlich ist, sind der Beteiligung an derselben Straftat verdächtige Beschuldigte so anzuhalten, dass sie nicht miteinander verkehren können. Solange die Staatsanwaltschaft hierüber keine Entscheidung getroffen hat, sind solche Beschuldigte jedenfalls getrennt anzuhalten.
 
-`§ 243 (3) StPO.`  
-Wird der Beschwerde nicht durch eine im Abs. 2 erwähnten Maßnahme zur Gänze entsprochen, so hat sie der Vorsitzende dem Oberlandesgericht zur Entscheidung vorzulegen (§ 89). Im Übrigen ist gegen einen Beschluss gemäß Abs. 2 kein Rechtsmittel zulässig.
+`§ 185 (3) StPO.`  
+Weibliche Beschuldigte sind in jedem Fall von männlichen Beschuldigten und männlichen Strafgefangenen getrennt unterzubringen.
+----
 
-### § 244 StPO
+----
+### § 186 StPO # Kleidung und Bedarfsgegenstände
 
-`§ 244 (1) StPO.`  
-Nachdem die Zeugen abgetreten sind, erteilt der Vorsitzende dem Ankläger das Wort zum Vortrag der Anklage. Im Vortrag sind alle Anklagepunkte anzuführen und so weit zu begründen, wie dies zum Verständnis der Anklage erforderlich erscheint. Bei mehreren Angeklagten ist hiebei auf jeden einzelnen von ihnen Bezug zu nehmen. Falls ein Beschluss des Oberlandesgerichts vorliegt, nach dem ein Anklagepunkt zu entfallen hat, ist auch dieser zu berücksichtigen.
+`§ 186 (1) StPO.`  
+Angehaltene Beschuldigte sind unter Achtung ihrer Persönlichkeit und ihres Ehrgefühls sowie mit möglichster Schonung ihrer Person zu behandeln. Sie sind berechtigt, eigene Kleidung zu tragen, soweit die regelmäßige Reinigung in der Anstalt möglich ist oder außerhalb der Anstalt durch deren Vermittlung besorgt werden kann. Verfügt ein angehaltener Beschuldigter über keine geeignete Kleidung, so ist ihm eine solche für Verhandlungen vor Gericht, für Ausführungen und für Überstellungen mit öffentlichen Verkehrsmitteln zur Verfügung zu stellen.
 
-`§ 244 (2) StPO.`  
-Nach dem Vortrag der Anklage hat sich der Vorsitzende zu vergewissern, daß der Angeklagte von Gegenstand und Umfang der Anklage ausreichend in Kenntnis gesetzt ist.
+`§ 186 (2) StPO.`  
+Angehaltene Beschuldigte sind berechtigt, sich auf eigene Kosten Bedarfsgegenstände, Dienstleistungen und andere Annehmlichkeiten zu verschaffen, soweit dies mit dem Haftzweck vereinbar ist und weder die Sicherheit gefährdet noch die Ordnung in der Anstalt erheblich beeinträchtigt oder Mithäftlinge belästigt.
+----
 
-`§ 244 (3) StPO.`  
-Der Verteidiger hat das Recht, auf den Vortrag der Anklage mit einer Gegenäußerung zu erwidern.
+----
+### § 187 StPO # Arbeit und Arbeitsvergütung
 
-## 4. Vernehmung des Angeklagten
+`§ 187 (1) StPO.`  
+Angehaltene Beschuldigte sind zur Arbeit nicht verpflichtet. Ein arbeitsfähiger Beschuldigter kann jedoch unter den für Strafgefangene geltenden Bedingungen (§§ 44 bis 55 StVG) arbeiten, wenn er sich dazu bereit erklärt und Nachteile für das Verfahren nicht zu befürchten sind.
 
-### § 245 StPO
+`§ 187 (2) StPO.`  
+Die Arbeitsvergütung ist dem Beschuldigten nach Abzug des Vollzugskostenbeitrages (§ 32 Abs. 2 und 3 StVG) zur Gänze als Hausgeld gutzuschreiben. Im Fall eines Freispruchs, des Rücktritts von Verfolgung oder einer Einstellung des Strafverfahrens ist ihm der einbehaltene Vollzugskostenbeitrag auszuzahlen.
 
-`§ 245 (1) StPO.`  
-Hierauf wird der Angeklagte vom Vorsitzenden über den Inhalt der Anklage vernommen. Beantwortet der Angeklagte die Anklage mit der Erklärung, er sei nicht schuldig, so hat ihm der Vorsitzende zu eröffnen, daß er berechtigt sei, der Anklage eine zusammenhängende Erklärung des Sachverhaltes entgegenzustellen und nach Anführung jedes einzelnen Beweismittels seine Bemerkungen darüber vorzubringen. Weicht der Angeklagte von seinen früheren Aussagen ab, so ist er um die Gründe dieser Abweichung zu befragen. Der Vorsitzende kann in diesem Falle sowie dann, wenn der Angeklagte eine Antwort verweigert, das über die früheren Aussagen aufgenommene Protokoll ganz oder teilweise vorlesen sowie technische Aufnahmen über die Vernehmung des Beschuldigten (§ 172 Abs. 1) vorführen lassen.
+`§ 187 (3) StPO.`  
+*(Anm.: aufgehoben durch BGBl. I Nr. 111/2010)*
 
-`§ 245 (1a) StPO.`  
-Der Angeklagte ist auch über die gegen ihn erhobenen privatrechtlichen Ansprüche (§§ 67 Abs. 1 und 1 Abs. 3) zu vernehmen und zur Erklärung aufzufordern, ob und in welchem Umfang er diese anerkennt (§ 69 Abs. 2).
+`§ 187 (4) StPO.`  
+Angehaltene Beschuldigte dürfen sich auf ihre Kosten selbst beschäftigen, soweit dies mit dem Haftzweck vereinbar ist und die Ordnung in der Anstalt nicht stört. Aus dieser Beschäftigung erzielte Einkünfte sind dem Hausgeld gutzuschreiben.
+----
 
-`§ 245 (2) StPO.`  
-Für die Vernehmung des Angeklagten gilt § 164 Abs. 4.
+----
+### § 188 StPO # Verkehr mit der Außenwelt
+
+`§ 188 (1) StPO.`  
+Angehaltene Beschuldigte dürfen Besuche innerhalb der festgesetzten Besuchszeiten so oft und in dem zeitlichen Ausmaß empfangen, als die Abwicklung ohne unvertretbaren Aufwand gewährleistet werden kann. Im Übrigen gelten für den Empfang von Besuchen die §§ 85 bis 87 und 93 bis 96 StVG sinngemäß mit folgenden Maßgaben:  
+`§ 188 (1) Z 1 StPO.`
+Beschuldigten darf nicht verwehrt werden, wenigstens zweimal in jeder Woche einen Besuch in der Dauer von mindestens einer halben Stunde zu empfangen,  
+`§ 188 (1) Z 2 StPO.`
+auf den Inhalt des zwischen einem Beschuldigten und einem Besucher geführten Gesprächs hat sich die Überwachung nur zu erstrecken, wenn dies die Staatsanwaltschaft zur Sicherung des Haftzwecks oder der Anstaltsleiter zur Aufrechterhaltung der Sicherheit in der Anstalt anordnet,  
+`§ 188 (1) Z 3 StPO.`
+der Besuch bestimmter Personen, von denen eine Gefährdung des Zweckes der Untersuchungshaft oder der Sicherheit der Anstalt zu befürchten ist, kann untersagt oder abgebrochen werden.
+
+`§ 188 (2) StPO.`  
+Angehaltene Beschuldigte sind berechtigt, auf eigene Kosten mit anderen Personen und Stellen schriftlich zu verkehren und zu telefonieren, es sei denn, dass durch den außerordentlichen Umfang des Brief- oder Telefonverkehrs die Überwachung beeinträchtigt wird. In diesem Fall sind diejenigen Beschränkungen anzuordnen, die für eine einwandfreie Überwachung notwendig sind. Schreiben, von denen eine Beeinträchtigung des Haftzweckes zu befürchten ist, sind zurückzuhalten, soweit sich nicht aus den Bestimmungen der §§ 90a bis 90b und 96a des Strafvollzugsgesetzes über den schriftlichen Verkehr mit Behörden und Rechtsbeiständen etwas anderes ergibt. Schreiben angehaltener Beschuldigter an einen inländischen allgemeinen Vertretungskörper, ein inländisches Gericht, eine andere inländische Behörde oder an Organe der Europäischen Union sowie an den Europäischen Gerichtshof für Menschenrechte dürfen in keinem Fall zurückgehalten werden. Für die Überwachung des Inhalts von Telefongesprächen gilt Abs. 1 Z 2.
+
+`§ 188 (3) StPO.`  
+Für die Überwachung des mündlichen und schriftlichen Verkehrs des angehaltenen Beschuldigten mit seinem Verteidiger gilt § 59 Abs. 3.
+----
+
+----
+### § 189 StPO # Zuständigkeit für Entscheidungen
+
+`§ 189 (1) StPO.`  
+Die Entscheidung darüber, mit welchen Personen angehaltene Beschuldigte schriftlich und telefonisch verkehren und welche Besuche sie empfangen dürfen, die Überwachung ihres Brief- und Telefonverkehrs und ihrer Besuche sowie alle übrigen Anordnungen und Entscheidungen, die sich auf den Verkehr der angehaltenen Beschuldigten mit der Außenwelt (§§ 86 bis 100 des Strafvollzugsgesetzes) beziehen, stehen, mit Ausnahme der Überwachung der Paketsendungen, im Ermittlungsverfahren der Staatsanwaltschaft, im Hauptverfahren dem Gericht zu. Von der Überwachung des Brief- und Telefonverkehrs darf nur insoweit abgesehen werden, als davon keine Beeinträchtigung des Haftzweckes zu befürchten ist.
+
+`§ 189 (2) StPO.`  
+Die Entscheidungen nach § 16 Abs. 2 Z 4 und 5 des Strafvollzugsgesetzes stehen dem für die Entscheidung über die Verhängung und Fortsetzung der Untersuchungshaft zuständigen Gericht zu.
+
+`§ 189 (3) StPO.`  
+Im Übrigen stehen alle Anordnungen und Entscheidungen hinsichtlich der Anhaltung in Untersuchungshaft dem Anstaltsleiter oder dem von diesem dazu bestellten Vollzugsbediensteten zu. Vor jeder Entscheidung nach den §§ 185 Abs. 2, 186 Abs. 2 und 187 Abs. 1 ist im Ermittlungsverfahren die Staatsanwaltschaft, nach Einbringung der Anklage das Gericht zu hören. Ordnungswidrigkeiten, die von angehaltenen Beschuldigten begangen wurden, sind der Staatsanwaltschaft und dem Gericht mitzuteilen. Das gleiche gilt von Vorfällen, von denen eine Beeinträchtigung der Haftzwecke zu befürchten ist.
+----
+
+----
+## 3. TEIL # Beendigung des Ermittlungsverfahrens und Absehen von der Einleitung eines Ermittlungsverfahrens # 10. Hauptstück # Einstellung, Abbrechung und Fortführung des Ermittlungsverfahrens
+
+### § 190 StPO # Einstellung des Ermittlungsverfahrens
+
+`§ 190 StPO.`  
+Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen und das Ermittlungsverfahren einzustellen, soweit und sobald sich ergibt, dass die dem Ermittlungsverfahren zu Grunde liegende Tat nicht mit gerichtlicher Strafe bedroht ist, die weitere Verfolgung des Beschuldigten sonst aus rechtlichen Gründen unzulässig wäre oder kein tatsächlicher Grund zu dessen weiterer Verfolgung besteht.
+----
+
+----
+### § 191 StPO # Einstellung wegen Geringfügigkeit
+
+`§ 191 (1) StPO.`  
+Von der Verfolgung einer Straftat, die nur mit Geldstrafe, mit einer Freiheitsstrafe bedroht ist, deren Höchstmaß drei Jahre nicht übersteigt, oder mit einer solchen Freiheitsstrafe und Geldstrafe hat die Staatsanwaltschaft abzusehen und das Ermittlungsverfahren einzustellen, wenn  
+`§ 191 (1) Z 1 StPO.`
+in Abwägung der Schuld, der Folgen der Tat und des Verhaltens des Beschuldigten nach der Tat, insbesondere im Hinblick auf eine allfällige Schadensgutmachung, sowie weiterer Umstände, die auf die Strafbemessung Einfluss hätten, der Störwert der Tat als gering anzusehen wäre und  
+`§ 191 (1) Z 2 StPO.`
+eine Bestrafung oder ein Vorgehen nach dem 11. Hauptstück nicht geboten erscheint, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten oder der Begehung strafbarer Handlungen durch andere entgegen zu wirken.
 
-`§ 245 (3) StPO.`  
-Der Angeklagte darf sich während der Hauptverhandlung mit seinem Verteidiger besprechen, jedoch nicht über die Beantwortung einzelner Fragen beraten.
+`§ 191 (2) StPO.`  
+Nach Einbringen der Anklage, im Verfahren vor dem Landesgericht als Geschworenen- oder Schöffengericht nach Rechtswirksamkeit der Anklageschrift wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht unter denselben Voraussetzungen (Abs. 1) das Verfahren bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen. § 209 Abs. 2 erster Satz gilt sinngemäß.
+----
 
-## 5. Beweisverfahren
+----
+### § 192 StPO # Einstellung bei mehreren Straftaten
 
-### § 246 StPO
+`§ 192 (1) StPO.`  
+Von der Verfolgung einzelner Straftaten kann die Staatsanwaltschaft endgültig oder unter Vorbehalt späterer Verfolgung absehen und das Ermittlungsverfahren insoweit einstellen, wenn dem Beschuldigten mehrere Straftaten zur Last liegen und  
+`§ 192 (1) Z 1 StPO.`
+dies voraussichtlich weder auf die Strafen oder vorbeugenden Maßnahmen, auf die mit der Verurteilung verbundenen Rechtsfolgen noch auf diversionelle Maßnahmen wesentlichen Einfluss hat oder  
+`§ 192 (1) Z 1a StPO.`
+die Ermittlungen zur Aufklärung des Verdachts jener Straftaten, deren Nachweis im Fall gemeinsamer Führung keinen Einfluss auf den anzuwendenden Strafrahmen hätte, mit einem beträchtlichen Aufwand verbunden wären und die Erledigung in der Hauptsache verzögern würden, oder  
+`§ 192 (1) Z 2 StPO.`
+der Beschuldigte schon im Ausland für die ihm zur Last liegende Straftat bestraft oder dort nach Diversion außer Verfolgung gesetzt worden ist und nicht anzunehmen ist, dass das inländische Gericht eine strengere Strafe verhängen werde oder er wegen Begehung anderer strafbarer Handlungen an einen anderen Staat ausgeliefert wird und die im Inland zu erwartenden Strafen oder vorbeugenden Maßnahmen gegenüber jenen, auf die voraussichtlich im Ausland erkannt werden wird, nicht ins Gewicht fallen.
 
-`§ 246 (1) StPO.`  
-Nach der Vernehmung des Angeklagten sind die Beweise in der vom Vorsitzenden bestimmten Ordnung vorzuführen und in der Regel die vom Ankläger vorgebrachten Beweise zuerst aufzunehmen.
+`§ 192 (2) StPO.`  
+Eine nach Abs. 1 vorbehaltene Verfolgung kann innerhalb dreier Monate nach rechtskräftigem Abschluss des inländischen oder innerhalb eines Jahres nach rechtskräftigem Abschluss des ausländischen Strafverfahrens wieder aufgenommen werden. Ein abermaliger Vorbehalt wegen einzelner Straftaten ist sodann unzulässig.
+----
 
-`§ 246 (2) StPO.`  
-Der Ankläger und der Angeklagte können im Laufe der Hauptverhandlung Beweismittel fallen lassen, jedoch nur, wenn der Gegner zustimmt.
+----
+### § 193 StPO # Fortführung des Verfahrens
 
-### § 247 StPO
+`§ 193 (1) StPO.`  
+Nach der Einstellung des Verfahrens sind weitere Ermittlungen gegen den Beschuldigten zu unterlassen; erforderlichenfalls hat die Staatsanwaltschaft seine Freilassung anzuordnen. Sofern jedoch für eine Entscheidung über die Fortführung des Verfahrens bestimmte Ermittlungen oder Beweisaufnahmen erforderlich sind, kann die Staatsanwaltschaft solche im Einzelnen anordnen oder durchführen.
 
-`§ 247 StPO.`  
-Zeugen und Sachverständige werden einzeln aufgerufen und in Anwesenheit der Beteiligten des Verfahrens vernommen. Sie sind vor ihrer Vernehmung zur Angabe der Wahrheit zu erinnern und über die Folgen einer falschen Aussage zu belehren.
+`§ 193 (2) StPO.`  
+Die Fortführung eines nach den §§ 190 oder 191 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, solange die Strafbarkeit der Tat nicht verjährt ist und wenn  
+`§ 193 (2) Z 1 StPO.`
+der Beschuldigte wegen dieser Tat nicht vernommen (§§ 164, 165) und kein Zwang gegen ihn ausgeübt wurde oder  
+`§ 193 (2) Z 2 StPO.`
+neue Tatsachen oder Beweismittel entstehen oder bekannt werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, die Bestrafung des Beschuldigten oder ein Vorgehen nach dem 11. Hauptstück zu begründen.
 
-### § 247a StPO
+`§ 193 (3) StPO.`  
+Die Fortführung eines nach § 192 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, wenn sie sich die spätere Verfolgung vorbehalten hat (§ 192 Abs. 2) oder die Voraussetzungen des Abs. 2 Z 2 vorliegen.
+----
 
-`§ 247a (1) StPO.`  
-Ein Zeuge, der wegen seines Alters, wegen Krankheit oder Gebrechlichkeit oder aus sonstigen erheblichen Gründen nicht in der Lage ist, vor Gericht zu erscheinen, kann unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung vernommen werden. Gleiches gilt in dem in § 153 Abs. 4 geregelten Fall, soweit Ankläger und Verteidiger einverstanden sind oder dies übereinstimmend beantragen.
+----
+### § 194 StPO # Verständigungen
 
-`§ 247a (2) StPO.`  
-Ein Zeuge, der wegen seines Aufenthalts im Ausland nicht in der Lage oder nicht willens ist, vor Gericht zu erscheinen, kann in gleicher Weise vernommen werden, sofern die zuständige ausländische Behörde Rechtshilfe leistet.
+`§ 194 (1) StPO.`  
+Von der Einstellung und der Fortführung des Verfahrens hat die Staatsanwaltschaft neben dem Beschuldigten und der Kriminalpolizei alle Personen zu verständigen, die zur Einbringung eines Antrags auf Fortführung berechtigt sind (§ 195 Abs. 1). Das Gericht ist zu verständigen, wenn es mit dem Verfahren befasst war; ein Zustellnachweis ist in keinem Fall erforderlich.
 
-### § 248 StPO
+`§ 194 (2) StPO.`  
+In einer Verständigung von der Einstellung des Ermittlungsverfahrens ist anzuführen, aus welchem Grund (§§ 190 bis 192) das Verfahren eingestellt wurde; gegebenenfalls ist der Vorbehalt späterer Verfolgung (§ 192 Abs. 2) aufzunehmen. Überdies sind Personen, die zur Einbringung eines Antrags auf Fortführung berechtigt sind (§ 195 Abs. 1), über die Möglichkeit der Einbringung eines Antrags auf Fortführung und seine Voraussetzungen sowie darüber zu informieren, dass sie binnen 14 Tagen eine Begründung verlangen können, in welcher die Tatsachen und Erwägungen, die der Einstellung zu Grunde gelegt wurden, in gedrängter Darstellung anzuführen sind. Das Recht, eine solche Begründung zu verlangen, steht auch dem Beschuldigten zu, worüber er gleichfalls in der Verständigung nach dem ersten Satz zu informieren ist.
 
-`§ 248 (1) StPO.`  
-Der Vorsitzende hat bei der Vernehmung von Zeugen und Sachverständigen grundsätzlich nach den für Vernehmungen im Ermittlungsverfahren geltenden Bestimmungen vorzugehen. Ist zu besorgen, dass der zu vernehmende Zeuge durch die Anwesenheit von anderen Zeugen in einer freien und vollständigen Aussage beeinflusst werden könnte, so hat der Vorsitzende anzuordnen, dass die betreffenden Zeugen den Verhandlungsort verlassen.
+`§ 194 (3) StPO.`  
+Von der Einstellung eines Ermittlungsverfahrens,  
+`§ 194 (3) Z 1 StPO.`
+das von der WKStA gemäß den Bestimmungen der §§ 20a oder 20b oder von einer anderen Staatsanwaltschaft wegen der in diesen Bestimmungen angeführten Vergehen oder Verbrechen geführt wurde und an dem wegen der Bedeutung der Straftat oder der Person des Beschuldigten ein besonderes öffentliches Interesse besteht, oder in dem noch nicht hinreichend geklärte Rechtsfragen von grundsätzlicher Bedeutung beurteilt wurden, oder  
+`§ 194 (3) Z 2 StPO.`
+das sonst wegen einer Straftat geführt wurde, für das im Hauptverfahren das Landesgericht als Geschworenen- oder Schöffengericht zuständig wäre und an dem kein Opfer im Sinne des § 65 Z 1 beteiligt war,  
+ist überdies der Rechtsschutzbeauftragte unter Anführung des Grundes der Einstellung (§§ 190 bis 192) samt einer Begründung nach Abs. 2 zu verständigen. Auf sein Verlangen ist ihm der Ermittlungsakt zu übersenden, in welchem Fall die Frist zur Einbringung eines Antrags auf Fortführung (§ 195 Abs. 2) mit dem Einlangen des Aktes auf sechs Monate verlängert wird.
+----
 
-`§ 248 (2) StPO.`  
-Zeugen und Sachverständige haben nach ihrer Vernehmung so lange in der Sitzung anwesend zu bleiben, bis sie der Vorsitzende entlässt. Zeugen dürfen einander wegen ihrer Aussagen nicht zur Rede stellen.
+----
+### § 195 StPO # Antrag auf Fortführung
 
-`§ 248 (3) StPO.`  
-Dem Angeklagten muss nach der Vernehmung eines jeden Zeugen, Sachverständigen oder Mitangeklagten die Möglichkeit zur Stellungnahme zu den jeweiligen Aussagen geboten werden.
+`§ 195 (1) StPO.`  
+Solange die Strafbarkeit der Tat nicht verjährt ist, hat das Gericht auf Antrag des Opfers die Fortführung eines nach den §§ 190 bis 192 beendeten Ermittlungsverfahrens durch die Staatsanwaltschaft anzuordnen, wenn  
+`§ 195 (1) Z 1 StPO.`
+das Gesetz verletzt oder unrichtig angewendet wurde,  
+`§ 195 (1) Z 2 StPO.`
+erhebliche Bedenken gegen die Richtigkeit der Tatsachen bestehen, die der Entscheidung über die Beendigung zu Grunde gelegt wurden, oder  
+`§ 195 (1) Z 3 StPO.`
+neue Tatsachen oder Beweismittel beigebracht werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, den Sachverhalt soweit zu klären, dass nach dem 11. oder 12. Hauptstück vorgegangen werden kann.
 
-### § 249 StPO
+`§ 195 (2) StPO.`  
+Der Antrag ist binnen vierzehn Tagen nach Verständigung von der Einstellung (§ 194) oder im Fall eines fristgerecht eingebrachten Verlangens nach § 194 Abs. 2 nach Zustellung der Einstellungsbegründung, wurde jedoch das Opfer von der Einstellung nicht verständigt, innerhalb von drei Monaten ab der Einstellung des Verfahrens bei der Staatsanwaltschaft einzubringen. Der Antrag eines minderjährigen Opfers bedarf keiner pflegschaftsgerichtlichen Genehmigung. Der Antrag hat das Verfahren, dessen Fortführung begehrt wird, zu bezeichnen. Überdies sind die Gründe einzeln und bestimmt zu bezeichnen, aus denen die Verletzung oder unrichtige Anwendung des Gesetzes oder die erheblichen Bedenken abzuleiten sind. Werden neue Tatsachen oder Beweismittel vorgebracht, so gilt § 55 Abs. 1 sinngemäß.
 
-`§ 249 (1) StPO.`  
-Außer dem Vorsitzenden sind auch die übrigen Mitglieder des Schöffengerichts, die Beteiligten des Verfahrens und Opfer sowie deren Vertreter befugt, an jede zu vernehmende Person, nachdem sie das Wort hiezu vom Vorsitzenden erhalten haben, Fragen zu stellen. Bei großem Verfahrensumfang ist dies nach Tunlichkeit zu thematisch zusammenhängenden Abschnitten zu gewähren.
+`§ 195 (2a) StPO.`  
+In den in § 194 Abs. 3 genannten Fällen steht überdies dem Rechtsschutzbeauftragten das Recht auf Einbringung eines Antrags auf Fortführung des Ermittlungsverfahrens zu.
 
-`§ 249 (2) StPO.`  
-Der Vorsitzende hat unzulässige Fragen zurückzuweisen; Fragen, die sonst unangemessen erscheinen, kann er untersagen.
+`§ 195 (3) StPO.`  
+Erachtet die Staatsanwaltschaft den Antrag für berechtigt, so hat sie das Verfahren unabhängig von den Voraussetzungen des § 193 Abs. 2 Z 1 oder 2 fortzuführen. Andernfalls hat sie ihn mit dem Akt und einer Stellungnahme dem Gericht zu übermitteln.
+----
 
-`§ 249 (3) StPO.`  
-Der Angeklagte kann zur Befragung eines Sachverständigen eine Person mit besonderem Fachwissen beiziehen, der ein Sitz neben dem Verteidiger zu gestatten ist. Diese darf den Verteidiger bei der Fragestellung unterstützen oder selbst Fragen zu Befund und Gutachten an den Sachverständigen richten.
+----
+### § 196 StPO
 
-### § 250 StPO
+`§ 196 (1) StPO.`  
+Das Gericht entscheidet in nichtöffentlicher Sitzung, gegen seine Entscheidung steht ein Rechtsmittel nicht zu. Zuvor hat es dem Beschuldigten und dem Antragsteller Gelegenheit zur Äußerung zur Stellungnahme der Staatsanwaltschaft binnen angemessener Frist einzuräumen, wobei der Antragsteller gegebenenfalls auf die Pflicht zur bestimmten Bezeichnung der geltend gemachten Fortführungsgründe hinzuweisen ist. Vor seiner Entscheidung kann es auch die Kriminalpolizei mit Ermittlungen beauftragen oder von der Staatsanwaltschaft tatsächliche Aufklärungen über die behaupteten Rechtsverletzungen oder Verfahrensmängel verlangen. Gegebenenfalls kann es nach § 107 Abs. 2 vorgehen.
 
-`§ 250 (1) StPO.`  
-Der Vorsitzende ist befugt, ausnahmsweise den Angeklagten während der Abhörung eines Zeugen oder eines Mitangeklagten aus dem Sitzungssaal abtreten zu lassen. Er muß ihn aber, sobald er ihn nach seiner Wiedereinführung über den in seiner Abwesenheit verhandelten Gegenstand vernommen hat, von allem in Kenntnis setzen, was in seiner Abwesenheit vorgenommen wurde, insbesondere von den Aussagen, die inzwischen gemacht worden sind.
+`§ 196 (2) StPO.`  
+Anträge, die verspätet oder von einer nicht berechtigten Person eingebracht wurden, bereits rechtskräftig erledigt sind oder den Voraussetzungen des § 195 nicht entsprechen, hat das Gericht als unzulässig zurückzuweisen und im Übrigen in der Sache zu entscheiden. Wird ein Antrag zurück- oder abgewiesen, so ist die Zahlung eines Pauschalkostenbeitrags von 90 Euro aufzutragen. Haben mehrere Opfer wegen derselben Handlung erfolglos eine Fortführung beantragt, so haften sie für den Pauschalkostenbeitrag zur ungeteilten Hand. Minderjährigen Opfern und dem Rechtsschutzbeauftragten ist in keinem Fall ein Pauschalkostenbeitrag aufzuerlegen. § 391 gilt sinngemäß.
 
-`§ 250 (2) StPO.`  
-Ist diese Mitteilung unterblieben, so muß sie jedenfalls bei sonstiger Nichtigkeit vor Schluß des Beweisverfahrens nachgetragen werden.
+`§ 196 (3) StPO.`  
+Gibt das Gericht dem Antrag statt, so hat die Staatsanwaltschaft das Verfahren fortzuführen.
+----
 
-`§ 250 (3) StPO.`  
-Opfer gemäß § 65 Z 1 lit. a und besonders schutzbedürftige Opfer (§ 66a) hat der Vorsitzende auf ihren Antrag auf die in § 165 Abs. 3 beschriebene Art und Weise zu vernehmen; im Übrigen hat er bei der Vernehmung von Zeugen § 165 sinngemäß anzuwenden. Dabei hat er auch den bei der Befragung nicht anwesenden Mitgliedern des Schöffengerichts Gelegenheit zu geben, die Vernehmung des Zeugen mitzuverfolgen und den Zeugen zu befragen.
+----
+### § 196a StPO # Beitrag zu den Kosten der Verteidigung im Ermittlungsverfahren
 
-### § 251 StPO
+`§ 196a (1) StPO.`  
+Wird ein Ermittlungsverfahren gemäß § 108 oder § 190 eingestellt, so hat der Bund dem Beschuldigten auf Antrag einen Beitrag zu den Kosten der Verteidigung zu leisten. Der Beitrag umfasst die nötig gewesenen und vom Beschuldigten bestrittenen baren Auslagen und außer im Fall des § 61 Abs. 2 auch einen Beitrag zu den Kosten des Verteidigers, dessen sich der Beschuldigte bedient. Der Beitrag ist unter Bedachtnahme auf den Umfang der Ermittlungen, die Komplexität der zu lösenden Tat- und Rechtsfragen und das Ausmaß des notwendigen oder zweckmäßigen Einsatzes des Verteidigers festzusetzen. Er darf den Betrag von 6 000 Euro nicht übersteigen.
 
-`§ 251 StPO.`  
-Die Beteiligten des Verfahrens können verlangen, dass sich Zeugen nach ihrer Vernehmung aus dem in § 248 Abs. 1 letzter Satz genannten Grund aus dem Sitzungssaal entfernen und später wieder aufgerufen und entweder allein oder in Gegenwart anderer Zeugen erneut vernommen werden. Der Vorsitzende kann dies auch von Amts wegen anordnen.
+`§ 196a (2) StPO.`  
+Das Höchstmaß des Beitrags kann bei Verfahren, die durch außergewöhnlichen Umfang oder besondere Komplexität gekennzeichnet sind, sowie im Falle der Überschreitung der Höchstdauer des Ermittlungsverfahrens (§ 108 Abs. 1) um die Hälfte überschritten und im Falle extremen Umfangs des Verfahrens auf das Doppelte erhöht werden.
 
-### § 252 StPO
+`§ 196a (3) StPO.`  
+Der Ersatzanspruch ist ausgeschlossen, soweit der Beschuldigte den das Verfahren begründenden Verdacht vorsätzlich herbeigeführt hat oder das Verfahren lediglich deshalb beendet worden ist, weil er die Tat im Zustand der Zurechnungsunfähigkeit begangen hat oder weil die Ermächtigung zur Strafverfolgung zurückgenommen worden ist. Der Ersatzanspruch steht auch dann nicht zu, wenn die Strafbarkeit aus Gründen entfällt, die erst nach Beginn des Strafverfahrens eingetreten sind.
 
-`§ 252 (1) StPO.`  
-Protokolle über die Vernehmung von Mitbeschuldigten und Zeugen, Protokolle über die Aufnahme von Beweisen, Amtsvermerke und andere amtliche Schriftstücke, in denen Aussagen von Zeugen oder Mitbeschuldigten festgehalten worden sind, Gutachten von Sachverständigen sowie Ton- und Bildaufnahmen über die Vernehmung von Mitbeschuldigten oder Zeugen dürfen bei sonstiger Nichtigkeit nur in den folgenden Fällen verlesen oder vorgeführt werden:  
-`§ 252 (1) Z 1 StPO.`
-wenn die Vernommenen in der Zwischenzeit gestorben sind; wenn ihr Aufenthalt unbekannt oder ihr persönliches Erscheinen wegen ihres Alters, wegen Krankheit oder Gebrechlichkeit oder wegen entfernten Aufenthaltes oder aus anderen erheblichen Gründen füglich nicht bewerkstelligt werden konnte;  
-`§ 252 (1) Z 2 StPO.`
-wenn die in der Hauptverhandlung Vernommenen in wesentlichen Punkten von ihren früher abgelegten Aussagen abweichen;  
-`§ 252 (1) Z 2a StPO.`
-wenn Zeugen die Aussage berechtigt verweigern (§§ 156, 157 und 158) und die Staatsanwaltschaft und der Angeklagte Gelegenheit hatten, sich an einer gerichtlichen Vernehmung zu beteiligen (§§ 165, 247);  
-`§ 252 (1) Z 3 StPO.`
-wenn Zeugen, ohne dazu berechtigt zu sein, oder wenn Mitangeklagte die Aussage verweigern; endlich  
-`§ 252 (1) Z 4 StPO.`
-wenn über die Vorlesung Ankläger und Angeklagter einverstanden sind.
+`§ 196a (4) StPO.`  
+Der Antrag ist bei sonstigem Ausschluss innerhalb von drei Jahren nach der Verständigung von der Einstellung des Ermittlungsverfahrens (§ 194) bei der Staatsanwaltschaft einzubringen. Die Staatsanwaltschaft hat den Antrag mit einer allfälligen Stellungnahme an das Gericht weiterzuleiten. Unzulässige oder verspätete Anträge hat das Gericht zurückzuweisen, im Übrigen jedoch in der Sache zu entscheiden.
 
-`§ 252 (2) StPO.`  
-Amtsvermerke über einen Augenschein (§ 149 Abs. 2) und Befunde, gegen den Angeklagten früher ergangene Straferkenntnisse sowie Urkunden und Schriftstücke anderer Art, die für die Sache von Bedeutung sind, müssen vorgelesen werden.
+`§ 196a (5) StPO.`  
+Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss, mit dem über den Antrag entschieden worden ist, kommt aufschiebende Wirkung zu.
 
-`§ 252 (2a) StPO.`  
-Anstelle der Vorlesung oder Vorführung (Abs. 1 und 2) kann der Vorsitzende den erheblichen Inhalt der Aktenstücke vortragen, soweit die Beteiligten des Verfahrens zustimmen und die Aktenstücke sowohl allen Mitgliedern des Schöffengerichts als auch den Beteiligten zugänglich sind.
+`§ 196a (6) StPO.`  
+Weitergehende Rechte des Beschuldigten nach diesem Bundesgesetz, dem Amtshaftungsgesetz, BGBl. Nr. 20/1949, und dem Strafrechtlichen Entschädigungsgesetz 2005, BGBl. I Nr. 125/2004, bleiben unberührt.
+----
 
-`§ 252 (3) StPO.`  
-Nach jeder Vorlesung und jedem Vortrag (Abs. 2a) ist der Angeklagte zu befragen, ob er darüber etwas zu bemerken habe. Er kann dabei auch auf andere Teile der vorgetragenen Aktenstücke eingehen und die Vorlesung dieser oder anderer Aktenstücke verlangen, die für die Sache von Bedeutung sind.
+----
+### § 197 StPO # Abbrechung des Ermittlungsverfahrens gegen Abwesende und gegen unbekannte Täter
 
-`§ 252 (4) StPO.`  
-Die Bestimmungen des Abs. 1 dürfen bei sonstiger Nichtigkeit nicht umgangen werden.
+`§ 197 (1) StPO.`  
+Wenn der Beschuldigte flüchtig oder unbekannten Aufenthalts ist, ist das Ermittlungsverfahren soweit fortzuführen, als dies zur Sicherung von Spuren und Beweisen erforderlich ist. Ermittlungshandlungen und Beweisaufnahmen, bei denen der Beschuldigte das Recht hat, sich zu beteiligen (§§ 150, 165), können in diesem Fall auch in seiner Abwesenheit durchgeführt werden. Der Beschuldigte kann zur Ermittlung seines Aufenthalts oder zur Festnahme ausgeschrieben werden. Danach hat die Staatsanwaltschaft das Verfahren abzubrechen und nach Ausforschung des Beschuldigten fortzusetzen.
 
-### § 253 StPO
+`§ 197 (2) StPO.`  
+In Verfahren gegen unbekannte Täter ist Abs. 1 sinngemäß anzuwenden.
 
-`§ 253 StPO.`  
-Im Laufe oder am Schlusse des Beweisverfahrens läßt der Vorsitzende dem Angeklagten und, soweit es nötig ist, den Zeugen und Sachverständigen die Gegenstände, die zur Aufklärung des Sachverhaltes dienen können, vorlegen und fordert sie auf, sich zu erklären, ob sie diese anerkennen.
+`§ 197 (2a) StPO.`  
+Das Verfahren gegen eine Person, gegen die nach einer gesetzlichen Vorschrift die Verfolgung nicht eingeleitet oder fortgesetzt werden kann, ist abzubrechen und nach Wegfall des Hinderungsgrundes fortzusetzen. Maßnahmen zur Sicherung und Aufnahme von Beweisen dürfen nur vorgenommen werden, soweit dies nach den das Verfolgungshindernis betreffenden Bestimmungen zulässig ist.
 
-### § 254 StPO
+`§ 197 (2b) StPO.`  
+Wenn eine Vernehmung des Beschuldigten (§§ 164, 165 StPO) wegen dessen schwerwiegender Erkrankung nicht in absehbarer Zeit durchgeführt werden kann, ist sinngemäß nach Abs. 2a erster Satz vorzugehen.
 
-`§ 254 (1) StPO.`  
-Der Vorsitzende ist ermächtigt, ohne Antrag der Beteiligten des Verfahrens Zeugen und Sachverständige, von denen nach dem Gange der Verhandlung Aufklärung über erhebliche Tatsachen zu erwarten ist, im Laufe des Verfahrens vorladen und nötigenfalls vorführen zu lassen und zu vernehmen.
+`§ 197 (3) StPO.`  
+Von der Abbrechung des Verfahrens gegen einen bekannten Täter und von der Fortsetzung oder Einleitung des Verfahrens sind die Kriminalpolizei und das Opfer zu verständigen.
 
-`§ 254 (2) StPO.`  
-Der Vorsitzende kann auch neue Sachverständige bestellen oder die Aufnahme anderer Beweise anordnen, insbesondere einen Augenschein in Anwesenheit der Beteiligten des Verfahrens durchführen oder durch den beisitzenden Richter vornehmen lassen. Soweit besondere Umstände eine Durchführung der Beweisaufnahme vor dem Schöffengericht nicht zulassen, ist über die Ergebnisse in der Hauptverhandlung zu berichten.
+`§ 197 (4) StPO.`  
+Einem abwesenden oder flüchtigen Beschuldigten, der freiwillig erklärt, sich dem Verfahren stellen zu wollen, kann sicheres Geleit vom Bundesministerium für Justiz nach Stellungnahme der Oberstaatsanwaltschaft, in deren Sprengel die zuständige Staatsanwaltschaft ihren Sitz hat, allenfalls gegen Sicherheitsleistung sowie gegen Ablegung der im § 173 Abs. 5 Z 1 und 2 erwähnten Gelöbnisse mit der Wirkung erteilt werden, dass der Beschuldigte wegen der Straftat, für die das sichere Geleit erteilt wurde, bis zur Urteilsfällung in erster Instanz von der Haft befreit bleiben soll. Für die Sicherheitsleistung, ihren Verfall und den Verlust der Wirkung des sicheren Geleits gilt § 180 sinngemäß.
+----
 
-## 6. Vorträge der Parteien
+----
+## 10a. Hauptstück # Absehen von der Einleitung eines Ermittlungsverfahrens
 
-### § 255 StPO
+### § 197a StPO # Absehen von der Einleitung eines Ermittlungsverfahrens
 
-`§ 255 (1) StPO.`  
-Nachdem der Vorsitzende das Beweisverfahren für geschlossen erklärt hat, erhält zuerst der Ankläger das Wort, um die Ergebnisse der Beweisführung zusammenzufassen und seine Anträge sowohl wegen der Schuld des Angeklagten als auch wegen der gegen ihn anzuwendenden Strafbestimmungen zu stellen und zu begründen. Einen bestimmten Antrag über die Bemessung der Strafe innerhalb des gesetzlichen Strafsatzes hat der Ankläger nicht zu stellen.
+`§ 197a (1) StPO.`  
+Die Staatsanwaltschaft hat von der Einleitung eines Ermittlungsverfahrens abzusehen, wenn die Führung eines Ermittlungsverfahrens aus rechtlichen Gründen unzulässig wäre oder der angezeigte Sachverhalt sonst keinen Anfangsverdacht einer Straftat (§ 1 Abs. 3) begründet. Die §§ 25 bis 27 gelten sinngemäß.
 
-`§ 255 (2) StPO.`  
-Der Privatbeteiligte erhält zunächst nach dem Staatsanwalte das Wort.
+`§ 197a (2) StPO.`  
+Geht die Staatsanwaltschaft nach Abs. 1 vor, kann sie ein Ermittlungsverfahren nur einleiten, solange die Strafbarkeit der Tat nicht verjährt ist, und  
+`§ 197a (2) Z 1 StPO.`
+das Gesetz verletzt oder unrichtig angewendet wurde oder  
+`§ 197a (2) Z 2 StPO.`
+neue Tatsachen oder Beweismittel beigebracht werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, einen Anfangsverdacht (§ 1 Abs. 3) zu begründen.
+----
 
-`§ 255 (3) StPO.`  
-Dem Angeklagten und seinem Verteidiger steht das Recht zu, darauf zu antworten. Findet der Staatsanwalt, der Privatankläger oder der Privatbeteiligte hierauf etwas zu erwidern, so gebührt dem Angeklagten und seinem Verteidiger jedenfalls die Schlußrede.
+----
+### § 197b StPO # Verständigungen
 
-### § 256 StPO
+`§ 197b (1) StPO.`  
+Vom Absehen von der Einleitung eines Ermittlungsverfahrens nach § 197a Abs. 1 erster Fall sind alle Personen zu verständigen, die im Fall der Führung eines Ermittlungsverfahrens nach diesem Gesetz von seiner Einstellung zu verständigen wären; die §§ 51 bis 53 und § 68 gelten sinngemäß.
 
-`§ 256 (1) StPO.`  
-In der Regel ist in den Schlußvorträgen über alle im Urteile zu entscheidenden Fragen ungetrennt zu verhandeln.
+`§ 197b (2) StPO.`  
+In der Verständigung ist anzuführen, aus welchem Grund von der Einleitung eines Ermittlungsverfahrens abgesehen wurde. § 194 Abs. 3 gilt sinngemäß. Überdies sind Personen, die zur Einbringung eines Antrags auf Verfolgung einer Straftat (§ 197c) berechtigt sind, über die Möglichkeit der Einbringung eines solchen Antrags und seine Voraussetzungen zu informieren.
+----
 
-`§ 256 (2) StPO.`  
-Doch steht es dem Vorsitzenden oder dem Schöffengericht (§ 238) frei, zu verfügen, daß die Schlußvorträge über die Schuldfrage von denen über die Strafbestimmungen, über die privatrechtlichen Ansprüche und über die Prozeßkosten zu trennen seien. In diesen Fällen werden, nachdem das Schöffengericht über die Schuld des Angeklagten entschieden und seinen Ausspruch verkündet hat, neuerlich Schlußvorträge gehalten, die jedoch auf die noch zu entscheidenden Fragen einzuschränken sind.
+----
+### § 197c StPO # Antrag auf Verfolgung
 
-## 7. Urteil des Gerichtshofes
+`§ 197c StPO.`  
+Im Fall eines Vorgehens nach § 197a Abs. 1 erster Fall sind Personen, die Opfer (§ 65 Z 1) einer Straftat sein könnten, berechtigt, einen Antrag auf Verfolgung dieser Straftat zu stellen. Für den Antrag und die Entscheidung darüber gelten § 195 und § 196 mit Ausnahme des Abs. 1 vorletzter und letzter Satz sinngemäß.
+----
 
-### § 257 StPO
-
-`§ 257 StPO.`  
-Nachdem der Vorsitzende die Verhandlung für geschlossen erklärt hat, zieht sich das Schöffengericht zur Urteilsfällung in das Beratungszimmer zurück. Der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt.
-
-### § 258 StPO
-
-`§ 258 (1) StPO.`  
-Das Gericht hat bei der Urteilsfällung nur auf das Rücksicht zu nehmen, was in der Hauptverhandlung vorgekommen ist. Aktenstücke können nur insoweit als Beweismittel dienen, als sie bei der Hauptverhandlung vorgelesen oder vom Vorsitzenden vorgetragen (§ 252 Abs. 2a) worden sind.
-
-`§ 258 (2) StPO.`  
-Das Gericht hat die Beweismittel auf ihre Glaubwürdigkeit und Beweiskraft sowohl einzeln als auch in ihrem inneren Zusammenhange sorgfältig und gewissenhaft zu prüfen. Über die Frage, ob eine Tatsache als erwiesen anzunehmen sei, entscheiden die Richter nicht nach gesetzlichen Beweisregeln, sondern nur nach ihrer freien, aus der gewissenhaften Prüfung aller für und wider vorgebrachten Beweismittel gewonnenen Überzeugung.
-
-`§ 258 (3) StPO.`  
-Bei der Beurteilung der Aussage eines Zeugen, dem nach § 162 gestattet worden ist, bestimmte Fragen nicht zu beantworten, ist insbesondere zu prüfen, ob dem Gericht und den Beteiligten ausreichend Gelegenheit geboten war, sich mit der Glaubwürdigkeit des Zeugen und der Beweiskraft seiner Aussage auseinanderzusetzen.
-
-### § 259 StPO
-
-`§ 259 StPO.`  
-Der Angeklagte wird durch Urteil des Schöffengerichts von der Anklage freigesprochen:  
-`§ 259 Z 1 StPO.`
-wenn sich zeigt, daß das Strafverfahren ohne den Antrag eines gesetzlich berechtigten Anklägers eingeleitet oder gegen dessen Willen fortgesetzt worden sei;  
-`§ 259 Z 2 StPO.`
-wenn der Ankläger nach Eröffnung der Hauptverhandlung und ehe das Schöffengericht sich zur Schöpfung des Urteiles zurückzieht, von der Anklage zurücktritt;  
-`§ 259 Z 3 StPO.`
-wenn das Schöffengericht erkennt, daß die der Anklage zugrunde liegende Tat vom Gesetze nicht mit Strafe bedroht oder der Tatbestand nicht hergestellt oder nicht erwiesen sei, daß der Angeklagte die ihm zur Last gelegte Tat begangen habe, oder daß Umstände vorliegen, durch die die Strafbarkeit aufgehoben oder die Verfolgung aus anderen als den unter Z. 1 und 2 angegebenen Gründen ausgeschlossen ist.
-
-### § 260 StPO
-
-`§ 260 (1) StPO.`  
-Wird der Angeklagte schuldig befunden, so muß das Strafurteil aussprechen:  
-`§ 260 (1) Z 1 StPO.`
-welcher Tat der Angeklagte schuldig befunden worden ist, und zwar unter ausdrücklicher Bezeichnung der einen bestimmten Strafsatz bedingenden Tatumstände;  
-`§ 260 (1) Z 2 StPO.`
-welche strafbare Handlung durch die als erwiesen angenommenen Tatsachen, deren der Angeklagte schuldig befunden worden ist, begründet wird, unter gleichzeitigem Ausspruch, ob die strafbare Handlung ein Verbrechen oder ein Vergehen ist;  
-`§ 260 (1) Z 3 StPO.`
-zu welcher Strafe der Angeklagte verurteilt wird;  
-und zwar diese drei Punkte bei sonstiger Nichtigkeit; außerdem ist noch beizufügen:  
-`§ 260 (1) Z 4 StPO.`
-welche strafgesetzlichen Bestimmungen auf ihn angewendet wurden;  
-`§ 260 (1) Z 5 StPO.`
-die Entscheidung über die geltend gemachten Entschädigungsansprüche und über die Prozeßkosten.
-
-`§ 260 (2) StPO.`  
-Wird der Angeklagte wegen vorsätzlicher und fahrlässiger Taten  
-`§ 260 (2) Z 1 StPO.`
-zu einer mehr als einjährigen Freiheitsstrafe verurteilt, so ist im Anschluss an den Strafausspruch festzustellen, ob auf eine oder mehrere vorsätzlich begangene Straftaten eine mehr als einjährige Freiheitsstrafe entfällt, oder  
-`§ 260 (2) Z 2 StPO.`
-zu einer nicht bedingt nachgesehenen Freiheitsstrafe von mehr als sechs Monaten verurteilt, so ist im Anschluss an den Strafausspruch festzustellen, ob auf eine oder mehrere vorsätzlich begangene Straftaten eine nicht bedingt nachgesehene Freiheitsstrafe von mehr als sechs Monaten entfällt.
-
-`§ 260 (3) StPO.`  
-Ist die im Abs. 2 genannte Feststellung im Strafurteil unterblieben, so ist sie von Amts wegen oder auf Antrag eines zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten mit Beschluß nachzuholen. Gegen diesen Beschluß, der dem Ankläger und dem Angeklagten zuzustellen ist, steht jedem zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten die binnen vierzehn Tagen einzubringende Beschwerde an das Oberlandesgericht zu. Ist außer über die Beschwerde noch über eine von wem immer ergriffene Nichtigkeitsbeschwerde zu entscheiden, so entscheidet der Oberste Gerichtshof auch über die Beschwerde.
-
-### § 261 StPO
-
-`§ 261 (1) StPO.`  
-Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen an sich oder in Verbindung mit den in der Hauptverhandlung hervorgetretenen Umständen eine zur Zuständigkeit des Geschworenengerichtes gehörige strafbare Handlung begründen, so spricht es seine Unzuständigkeit aus.
-
-`§ 261 (2) StPO.`  
-Sobald dieses Urteil rechtskräftig ist, hat die Staatsanwaltschaft binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts das Ermittlungsverfahren fortzuführen oder die Anordnung der Hauptverhandlung vor dem Geschworenengericht zu beantragen, wenn weitere Ermittlungen nicht erforderlich sind. Im ersten Falle muß eine neue Anklageschrift eingebracht werden; außer diesem Fall aber ist bei der neuen Hauptverhandlung die ursprüngliche Anklageschrift und der nach diesem Paragraphen gefällte Ausspruch des Schöffengerichtes zu verlesen.
-
-### § 262 StPO
-
-`§ 262 StPO.`  
-Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen an sich oder in Verbindung mit den erst in der Hauptverhandlung hervorgetretenen Umständen eine andere als die in der Anklage bezeichnete, nicht einem Gerichte höherer Ordnung vorbehaltene strafbare Handlung begründen, so hat es die Beteiligten des Verfahrens über den geänderten rechtlichen Gesichtspunkt zu hören und über einen allfälligen Vertagungsantrag zu entscheiden. Das Urteil schöpft es nach seiner rechtlichen Überzeugung, ohne an die in der Anklageschrift enthaltene Bezeichnung der Tat gebunden zu sein.
-
-### § 263 StPO
-
-`§ 263 (1) StPO.`  
-Wird der Angeklagte bei der Hauptverhandlung noch einer anderen Tat beschuldigt, als wegen der er angeklagt ist, so kann das Schöffengericht, wenn sie von Amts wegen zu verfolgen ist, auf Antrag des Staatsanwaltes oder des Opfers, in anderen Fällen aber nur auf Begehren des zur Privatanklage Berechtigten die Verhandlung und das Urteil auch auf diese Tat ausdehnen. Die Zustimmung des Angeklagten ist nur dann erforderlich, wenn er bei seiner Verurteilung wegen dieser Tat unter ein strengeres als das Strafgesetz fiele, das auf die in der Anklageschrift angeführte strafbare Handlung anzuwenden wäre.
-
-`§ 263 (2) StPO.`  
-Verweigert in einem solchen Falle der Angeklagte seine Zustimmung zur sofortigen Aburteilung oder kann nicht sofort geurteilt werden, weil eine sorgfältigere Vorbereitung nötig erscheint oder weil das Schöffengericht zur Aburteilung über die hinzugekommene Straftat nicht zuständig ist, so hat sich das Urteil auf den Gegenstand der Anklage zu beschränken und dem Ankläger – auf sein Verlangen – die selbständige Verfolgung wegen der hinzugekommenen Tat vorzubehalten, außer welchem Falle wegen dieser Tat eine Verfolgung nicht mehr zulässig ist.
-
-`§ 263 (3) StPO.`  
-Nach Umständen kann das Schöffengericht auch, wenn es über die hinzugekommene Tat nicht sofort aburteilt, die Hauptverhandlung abbrechen und die Entscheidung über alle dem Angeklagten zur Last fallenden Straftaten einer neuen Hauptverhandlung vorbehalten.
-
-`§ 263 (4) StPO.`  
-In beiden Fällen muss der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts von der Verfolgung zurücktreten (§ 209 Abs. 1), die Anklage einbringen oder das Ermittlungsverfahren fortführen.
-
-### § 264 StPO
-
-`§ 264 (1) StPO.`  
-Wird gegen den Angeklagten ein Strafurteil gefällt, so steht dessen Vollstreckung der Umstand nicht entgegen, daß die Verfolgung wegen einer anderen Straftat noch vorbehalten ist.
-
-`§ 264 (2) StPO.`  
-Macht der Ankläger von dem im § 263 erwähnten Vorbehalte Gebrauch, so kann das Schöffengericht anordnen, daß die Vollstreckung des unter diesem Vorbehalt erlassenen Urteiles bis zur Entscheidung über die neue Anklage auf sich zu beruhen habe. In diesem Falle sind beide Urteile hinsichtlich der Rechtsmittel so zu behandeln, als wären sie gleichzeitig gefällt worden.
-
-### § 265 StPO
-
-`§ 265 (1) StPO.`  
-Liegen die zeitlichen Voraussetzungen für die bedingte Entlassung aus einer Freiheitsstrafe infolge Anrechnung einer Vorhaft, einer im Ausland verbüßten Strafe oder des verbüßten Teils einer Freiheitsstrafe, auf die nach §§ 31, 40 StGB Bedacht zu nehmen ist, schon im Zeitpunkt des Urteils vor, so hat das Gericht dem Angeklagten den Rest der Strafe unter Bestimmung einer Probezeit mit Beschluss bedingt nachzusehen, wenn auch die übrigen im § 46 StGB genannten Voraussetzungen vorliegen. Gleiches gilt, wenn die Voraussetzungen im Zeitpunkt der Entscheidung über die Nichtigkeitsbeschwerde oder Berufung vorliegen.
-
-`§ 265 (2) StPO.`  
-Für den Beschluß nach Abs. 1 und für das Verfahren nach einer solchen bedingten Entlassung gelten die Bestimmungen des 24. Hauptstückes dem Sinne nach.
-
-### § 265a StPO
-
-`§ 265a StPO.`  
-(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 82)
-
-### § 265b StPO
-
-`§ 265b StPO.`  
-(Aufgehoben)
-
-### § 265c StPO
-
-`§ 265c StPO.`  
-(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 82)
-
-### § 266 StPO
-
-`§ 266 (1) StPO.`  
-Das Gericht kann im Strafurteil aussprechen, dass eine Anhaltung im elektronisch überwachten Hausarrest (§ 156b StVG) für einen bestimmten, längstens für den im § 46 Abs. 1 StGB genannten Zeitraum nicht in Betracht kommt, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass eine solche Anhaltung nicht genügen werde, um den Verurteilten von weiteren strafbaren Handlungen abzuhalten, oder es ausnahmsweise der Vollstreckung der Strafe in der Anstalt bedarf, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken. § 43 Abs. 1 letzter Satz StGB gilt dabei sinngemäß. Dieser Ausspruch oder sein Unterbleiben bildet einen Teil des Ausspruchs über die Strafe und kann zugunsten und zum Nachteil des Angeklagten mit Berufung angefochten werden.
-
-`§ 266 (2) StPO.`  
-Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs. 1 gefällt worden wäre, so hat das Gericht diesen aufzuheben.
-
-### § 267 StPO
-
-`§ 267 StPO.`  
-An die Anträge des Anklägers ist das Schöffengericht nur insoweit gebunden, daß es den Angeklagten nicht einer Tat schuldig erklären kann, auf die die Anklage weder ursprünglich gerichtet noch während der Hauptverhandlung ausgedehnt wurde (§ 4 Abs. 3).
-
-`END-OF-DATA-FILE` *(fortges. in [BG.StPO.016](BG.StPO.016.md))*
+`END-OF-DATA-SET`

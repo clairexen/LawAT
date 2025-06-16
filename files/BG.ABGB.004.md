@@ -1,71 +1,15 @@
 # BG.ABGB.004 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.004.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.003](BG.ABGB.003.md))*
 
-## Fünfter Abschnitt # Sonstige Rechte und Pflichten
-
-### § 186 ABGB # Persönliche Kontakte
-
-`§ 186 ABGB.`  
-Jeder Elternteil eines minderjährigen Kindes hat mit dem Kind eine persönliche Beziehung einschließlich der persönlichen Kontakte (§ 187) zu pflegen.
-
-### § 187 ABGB
-
-`§ 187 (1) ABGB.`  
-Das Kind und jeder Elternteil haben das Recht auf regelmäßige und den Bedürfnissen des Kindes entsprechende persönliche Kontakte. Die persönlichen Kontakte sollen das Kind und die Eltern einvernehmlich regeln. Soweit ein solches Einvernehmen nicht erzielt wird, hat das Gericht auf Antrag des Kindes oder eines Elternteils diese Kontakte in einer dem Wohl des Kindes entsprechenden Weise zu regeln und die Pflichten festzulegen. Die Regelung hat die Anbahnung und Wahrung des besonderen Naheverhältnisses zwischen Eltern und Kind sicherzustellen und soll möglichst sowohl Zeiten der Freizeit als auch die Betreuung im Alltag des Kindes umfassen. Das Alter, die Bedürfnisse und die Wünsche des Kindes sowie die Intensität der bisherigen Beziehung sind besonders zu berücksichtigen.
-
-`§ 187 (2) ABGB.`  
-Das Gericht hat nötigenfalls die persönlichen Kontakte einzuschränken oder zu untersagen, insbesondere soweit dies aufgrund der Anwendung von Gewalt gegen das Kind oder eine wichtige Bezugsperson geboten erscheint oder der Elternteil, der mit dem minderjährigen Kind nicht im gemeinsamen Haushalt lebt, seine Verpflichtung aus § 159 nicht erfüllt.
-
-### § 188 ABGB
-
-`§ 188 (1) ABGB.`  
-Zwischen Enkeln und ihren Großeltern gilt § 187 entsprechend. Die persönlichen Kontakte der Großeltern sind jedoch auch so weit einzuschränken oder zu untersagen, als sonst das Familienleben der Eltern (eines Elternteils) oder deren Beziehung zu dem Kind gestört würde.
-
-`§ 188 (2) ABGB.`  
-Wenn persönliche Kontakte des minderjährigen Kindes mit einem hiezu bereiten Dritten dem Wohl des Kindes dienen, hat das Gericht auf Antrag des Kindes, eines Elternteils oder des Dritten, sofern dieser zu dem Kind in einem besonderen persönlichen oder familiären Verhältnis steht oder gestanden ist, die zur Regelung der persönlichen Kontakte nötigen Verfügungen zu treffen. Solche Verfügungen hat es auf Antrag des Kinder- und Jugendhilfeträgers oder von Amts wegen zu treffen, wenn ansonsten das Kindeswohl gefährdet wäre.
-
-### § 189 ABGB # Informations-, Äußerungs- und Vertretungsrecht
-
-`§ 189 (1) ABGB.`  
-Ein nicht mit der Obsorge betrauter Elternteil  
-`§ 189 (1) Z 1 ABGB.`
-ist durch die mit der Obsorge betraute Person von wichtigen Angelegenheiten, insbesondere von beabsichtigten Maßnahmen nach § 167 Abs. 2 und 3, rechtzeitig zu verständigen und kann sich hiezu in angemessener Frist äußern,  
-`§ 189 (1) Z 2 ABGB.`
-hat den mit der Obsorge betrauten Elternteil in Angelegenheiten des täglichen Lebens zu vertreten sowie das Kind zu pflegen und zu erziehen, soweit das die Umstände erfordern und sich das Kind rechtmäßig bei ihm aufhält.  
-Eine Äußerung nach Z 1 ist in jedem Fall zu berücksichtigen, wenn der darin ausgedrückte Wunsch dem Wohl des Kindes besser entspricht.
-
-`§ 189 (2) ABGB.`  
-Wenn der nicht mit der Obsorge betraute Elternteil bei der Wahrnehmung seiner Rechte und Pflichten nach Abs. 1 das Wohl des Kindes gefährdet oder diese Rechte rechtsmissbräuchlich oder in einer für den anderen Elternteil oder das Kind nicht zumutbaren Weise in Anspruch nimmt, hat das Gericht diese Rechte auf Antrag, sofern das Wohl des Kindes gefährdet wird, auch von Amts wegen, einzuschränken oder zu entziehen. Die Rechte nach Abs. 1 entfallen, wenn der mit der Obsorge nicht betraute Elternteil grundlos das Recht des Kindes auf persönliche Kontakte ablehnt.
-
-`§ 189 (3) ABGB.`  
-Finden trotz Bereitschaft des nicht mit der Obsorge betrauten Elternteils persönliche Kontakte mit dem Kind nicht regelmäßig statt, so steht ihm das Verständigungs- und Äußerungsrecht (Abs. 1 Z 1) auch in minderwichtigen Angelegenheiten zu, sofern es sich dabei nicht bloß um Angelegenheiten des täglichen Lebens handelt.
-
-`§ 189 (4) ABGB.`  
-Wenn der mit der Obsorge betraute Elternteil die Rechte des anderen nach Abs. 1 beharrlich verletzt, hat das Gericht auf Antrag, sofern das Wohl des Kindes gefährdet wird, auch von Amts wegen, die angemessenen Verfügungen zu treffen.
-
-`§ 189 (5) ABGB.`  
-Diese Bestimmung gilt sinngemäß auch für einen mit der Obsorge betrauten Elternteil.
-
-### § 190 ABGB # Vereinbarungen über die Obsorge, die persönlichen Kontakte und den Unterhalt
-
-`§ 190 (1) ABGB.`  
-Die Eltern haben bei Vereinbarungen über die Obsorge, die persönlichen Kontakte sowie die Betreuung des Kindes das Wohl des Kindes bestmöglich zu wahren.
-
-`§ 190 (2) ABGB.`  
-Die Bestimmung der Obsorge (§ 177 Abs. 2) und vor Gericht geschlossene Vereinbarungen nach Abs. 1 bedürfen zu ihrer Rechtswirksamkeit keiner gerichtlichen Genehmigung. Das Gericht hat die Bestimmung der Obsorge und Vereinbarungen der Eltern aber für unwirksam zu erklären und zugleich eine davon abweichende Anordnung zu treffen, wenn ansonsten das Kindeswohl gefährdet wäre.
-
-`§ 190 (3) ABGB.`  
-Vor Gericht geschlossene Vereinbarungen über die Höhe gesetzlicher Unterhaltsleistungen bedürfen zur ihrer Rechtswirksamkeit keiner gerichtlichen Genehmigung und sind für den Unterhaltsverpflichteten verbindlich.
-
+----
 ## Sechster Abschnitt # Annahme an Kindesstatt
 
 ### § 191 ABGB
@@ -78,7 +22,9 @@ Ehegatten dürfen in der Regel nur gemeinsam annehmen. Ausnahmen sind zulässig,
 
 `§ 191 (3) ABGB.`  
 Personen, denen die Sorge für das Vermögen des anzunehmenden Wahlkindes durch gerichtliche Verfügung anvertraut ist, können dieses so lange nicht annehmen, als sie nicht von dieser Pflicht entbunden sind. Sie müssen vorher Rechnung gelegt und die Bewahrung des anvertrauten Vermögens nachgewiesen haben.
+----
 
+----
 ### § 192 ABGB # Form; Eintritt der Wirksamkeit
 
 `§ 192 (1) ABGB.`  
@@ -92,7 +38,9 @@ Ist eine Person nicht entscheidungsfähig, so kann ihr gesetzlicher Vertreter f�
 
 `§ 192 (4) ABGB.`  
 Der Vertreter hat sich vom Wohl der vertretenen Person leiten zu lassen. Seine Vertretungshandlungen in Angelegenheiten der Annahme an Kindesstatt bedürfen nicht der Genehmigung des Gerichts.
+----
 
+----
 ### § 193 ABGB # Alter
 
 `§ 193 (1) ABGB.`  
@@ -100,7 +48,9 @@ Die Wahleltern müssen das fünfundzwanzigste Lebensjahr vollendet haben.
 
 `§ 193 (2) ABGB.`  
 Wahlvater und Wahlmutter müssen älter als das Wahlkind sein.
+----
 
+----
 ### § 194 ABGB # Bewilligung
 
 `§ 194 (1) ABGB.`  
@@ -108,7 +58,9 @@ Die Annahme eines minderjährigen Kindes ist zu bewilligen, wenn sie dessen Wohl
 
 `§ 194 (2) ABGB.`  
 Die Bewilligung ist, außer bei Fehlen der Voraussetzungen des Abs. 1, zu versagen, wenn ein überwiegendes Anliegen eines leiblichen Kindes des Annehmenden entgegensteht, insbesondere dessen Unterhalt oder Erziehung gefährdet wäre; im übrigen sind wirtschaftliche Belange nicht zu beachten, außer der Annehmende handelt in der ausschließlichen oder überwiegenden Absicht, ein leibliches Kind zu schädigen.
+----
 
+----
 ### § 195 ABGB
 
 `§ 195 (1) ABGB.`  
@@ -129,7 +81,9 @@ Das Zustimmungsrecht nach Abs. 1 entfällt, wenn die zustimmungsberechtigte Per
 
 `§ 195 (3) ABGB.`  
 Das Gericht hat die verweigerte Zustimmung einer der in Abs. 1 Z 1 bis 3 und 5 genannten Personen auf Antrag eines Vertragsteiles zu ersetzen, wenn keine gerechtfertigten Gründe für die Weigerung vorliegen.
+----
 
+----
 ### § 196 ABGB
 
 `§ 196 (1) ABGB.`  
@@ -145,7 +99,9 @@ der Kinder- und Jugendhilfeträger.
 
 `§ 196 (2) ABGB.`  
 Das Anhörungsrecht des in Abs. 1 genannten Wahlkindes entfällt, wenn es zu einer Äußerung nicht nur vorübergehend unfähig ist oder durch die Anhörung dessen Wohl gefährdet wäre. Das Anhörungsrecht eines sonstigen im Abs. 1 genannten Berechtigten entfällt, wenn er als gesetzlicher Vertreter des Wahlkindes den Annahmevertrag geschlossen hat; ferner, wenn er nicht oder nur mit unverhältnismäßigen Schwierigkeiten gehört werden könnte.
+----
 
+----
 ### § 197 ABGB # Wirkungen
 
 `§ 197 (1) ABGB.`  
@@ -159,7 +115,9 @@ Wird das Wahlkind nur durch einen Wahlvater (eine Wahlmutter) angenommen, so erl
 
 `§ 197 (4) ABGB.`  
 Nimmt ein Ehegatte, ein eingetragener Partner oder ein Lebensgefährte das Kind seines Ehegatten, eingetragenen Partners oder Lebensgefährten an, so erlöschen die familienrechtlichen Beziehungen nach Maßgabe des Abs. 2 lediglich zum anderen Elternteil und zu dessen Verwandten.
+----
 
+----
 ### § 198 ABGB
 
 `§ 198 (1) ABGB.`  
@@ -170,7 +128,9 @@ Das gleiche gilt für die Unterhaltspflicht des Wahlkindes gegenüber den leibli
 
 `§ 198 (3) ABGB.`  
 Die nach den Abs. 1 und 2 aufrecht bleibenden Pflichten stehen jedoch den durch die Annahme begründeten gleichen Pflichten im Range nach.
+----
 
+----
 ### § 199 ABGB
 
 `§ 199 (1) ABGB.`  
@@ -181,7 +141,9 @@ Bei der gesetzlichen Erbfolge in das Vermögen des Wahlkindes in der zweiten Lin
 
 `§ 199 (3) ABGB.`  
 Ist das Wahlkind nur durch eine Person angenommen worden und sind sowohl diese Person oder deren Nachkommen als auch der nicht verdrängte leibliche Elternteil oder dessen Nachkommen vorhanden, so fällt die Verlassenschaft – ungeachtet eines allfälligen Erlöschens der familienrechtlichen Beziehungen nach § 197 Abs. 3 zweiter Satz – je zur Hälfte auf den Stamm der annehmenden Person und des nicht verdrängten leiblichen Elternteils.
+----
 
+----
 ### § 200 ABGB # Widerruf und Aufhebung
 
 `§ 200 (1) ABGB.`  
@@ -202,7 +164,9 @@ Hat einer der Vertragsteile den Widerrufsgrund (Abs. 1 Z 1 bis 3 und 5) bei 
 
 `§ 200 (3) ABGB.`  
 Einem Dritten, der im Vertrauen auf die Gültigkeit der Annahme an Kindesstatt vor dem Widerruf Rechte erworben hat, kann nicht eingewendet werden, dass die Bewilligung widerrufen worden ist. Zum Nachteil eines der Vertragsteile, der den Widerrufsgrund bei Abschließung des Annahmevertrages nicht gekannt hat, kann ein Dritter nicht die Wirkungen des Widerrufes beanspruchen.
+----
 
+----
 ### § 201 ABGB
 
 `§ 201 (1) ABGB.`  
@@ -218,7 +182,9 @@ wenn der Wahlvater (die Wahlmutter) und das Wahlkind die Aufhebung beantragen.
 
 `§ 201 (2) ABGB.`  
 Besteht die Wahlkindschaft gegenüber einem Wahlvater und einer Wahlmutter, so darf die Aufhebung im Sinne des Abs. 1 nur beiden gegenüber bewilligt werden; die Aufhebung gegenüber einem von ihnen allein ist nur im Falle der Auflösung oder Nichtigerklärung ihrer Ehe zulässig.
+----
 
+----
 ### § 202 ABGB
 
 `§ 202 (1) ABGB.`  
@@ -227,19 +193,25 @@ Mit dem Eintritt der Rechtskraft des Aufhebungsbeschlusses erlöschen die durch 
 `§ 202 (2) ABGB.`  
 Mit diesem Zeitpunkt leben die familienrechtlichen Beziehungen zwischen den leiblichen Eltern und deren Verwandten einerseits und dem Wahlkind und dessen Nachkommen andererseits, soweit sie nach dem § 197 erloschen sind, wieder auf.
 *(Anm.: Abs. 3 aufgehoben durch Art. 1 Z 34, BGBl. I Nr. 59/2017)*
+----
 
+----
 ### § 203 ABGB
 
 `§ 203 ABGB.`  
 Ein Widerruf oder eine Aufhebung aus anderen als den in den §§ 200 und 201 angeführten Gründen ist unzulässig; ebenso eine vertragliche Einigung oder ein Rechtsstreit über die Anfechtung des Annahmevertrages.
+----
 
+----
 ## Viertes Hauptstück # Von der Obsorge einer anderen Person
 
 ### § 204 ABGB
 
 `§ 204 ABGB.`  
 Soweit nach dem dritten Hauptstück weder Eltern mit der Obsorge betraut sind und kein Fall des § 207 vorliegt, hat das Gericht unter Beachtung des Wohles des Kindes eine andere geeignete Person mit der Obsorge zu betrauen.
+----
 
+----
 ### § 205 ABGB
 
 `§ 205 (1) ABGB.`  
@@ -251,7 +223,9 @@ Mit der Obsorge dürfen nicht betraut werden
 im Sinn des § 21 Abs. 1 schutzberechtigte Personen;  
 `§ 205 (2) Z 2 ABGB.`
 Personen, von denen, besonders auch wegen der durch eine strafgerichtliche Verurteilung zutage getretenen Veranlagung oder Eigenschaft, eine dem Wohl des minderjährigen Kindes förderliche Ausübung der Obsorge nicht zu erwarten ist.
+----
 
+----
 ### § 206 ABGB
 
 `§ 206 (1) ABGB.`  
@@ -259,12 +233,16 @@ Derjenige, den das Gericht mit der Obsorge betrauen will, hat alle Umstände, di
 
 `§ 206 (2) ABGB.`  
 Eine besonders geeignete Person kann die Betrauung mit der Obsorge nur ablehnen, wenn ihr diese unzumutbar wäre.
+----
 
+----
 ### § 207 ABGB # Aufgaben des Kinder- und Jugendhilfeträgers
 
 `§ 207 ABGB.`  
 Wird ein minderjähriges Kind im Inland gefunden und sind dessen Eltern unbekannt, so ist kraft Gesetzes der Kinder- und Jugendhilfeträger mit der Obsorge betraut. Dies gilt für den Bereich der Vermögensverwaltung und der Vertretung auch, wenn ein Kind im Inland geboren wird und dessen unverheiratete Mutter minderjährig ist.
+----
 
+----
 ### § 208 ABGB
 
 `§ 208 (1) ABGB.`  
@@ -281,12 +259,16 @@ Durch die Vertretungsbefugnis des Kinder- und Jugendhilfeträgers wird die Vertr
 
 `§ 208 (5) ABGB.`  
 Die Vertretungsbefugnis des Kinder- und Jugendhilfeträgers endet, wenn der sonstige gesetzliche Vertreter seine Zustimmung schriftlich widerruft, der Kinder- und Jugendhilfeträger seine Erklärung nach Abs. 3 zurücknimmt oder das Gericht den Kinder- und Jugendhilfeträger auf dessen Antrag als Vertreter enthebt, weil er zur Wahrung der Rechte und zur Durchsetzung der Ansprüche des Kindes nach Lage des Falles nichts mehr beizutragen vermag.
+----
 
+----
 ### § 209 ABGB
 
 `§ 209 ABGB.`  
 Ist eine andere Person mit der Obsorge für einen Minderjährigen ganz oder teilweise zu betrauen und lassen sich dafür Verwandte oder andere nahe stehende oder sonst besonders geeignete Personen nicht finden, so hat das Gericht die Obsorge dem Kinder- und Jugendhilfeträger zu übertragen. Gleiches gilt, wenn einem Minderjährigen ein Kurator zu bestellen ist.
+----
 
+----
 ### § 210 ABGB
 
 `§ 210 (1) ABGB.`  
@@ -297,7 +279,9 @@ Der Kinder- und Jugendhilfeträger bedarf zum Abschluß von Vereinbarungen über
 
 `§ 210 (3) ABGB.`  
 Der Kinder- und Jugendhilfeträger hat Personen, die ein Kind pflegen und erziehen oder gesetzlich vertreten, über seine Vertretungstätigkeit bezüglich dieses Kindes Auskünfte zu erteilen, soweit das Wohl des Kindes hiedurch nicht gefährdet wird.
+----
 
+----
 ### § 211 ABGB
 
 `§ 211 (1) ABGB.`  
@@ -305,10 +289,37 @@ Der Kinder- und Jugendhilfeträger hat die zur Wahrung des Wohles eines Minderj�
 
 `§ 211 (2) ABGB.`  
 Eine einstweilige Verfügung nach den §§ 382b, 382c und 382d EO sowie deren Vollzug kann der Kinder- und Jugendhilfeträger als Vertreter des Minderjährigen beantragen, wenn der sonstige gesetzliche Vertreter einen erforderlichen Antrag nicht unverzüglich gestellt hat; § 208 Abs. 4 gilt hiefür entsprechend.
+----
 
+----
 ### § 212 ABGB
 
 `§ 212 ABGB.`  
 Sofern nicht anderes angeordnet ist, fallen die Aufgaben dem Bundesland als Kinder- und Jugendhilfeträger zu, in dem das minderjährige Kind seinen gewöhnlichen Aufenthalt, mangels eines solchen im Inland seinen Aufenthalt hat. Fehlt ein Aufenthalt im Inland, so ist, sofern das minderjährige Kind österreichischer Staatsbürger ist, für im Inland zu besorgende Aufgaben das Bundesland als Kinder- und Jugendhilfeträger zuständig, in dem der Minderjährige seinen letzten Aufenthalt gehabt hat, dann dasjenige, in dem ein Elternteil seinen Aufenthalt hat oder zuletzt gehabt hat. Wechselt das minderjährige Kind seinen Aufenthalt in ein anderes Bundesland, so kann der Kinder- und Jugendhilfeträger seine Aufgaben dem anderen mit dessen Zustimmung übertragen. Hievon ist das Gericht zu verständigen, wenn es mit den Angelegenheiten des minderjährigen Kindes bereits befasst war.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.005](BG.ABGB.005.md))*
+----
+## Besondere Pflichten und Rechte anderer mit der Obsorge betrauter Personen
+
+### § 213 ABGB # a) in Angelegenheiten der Pflege und Erziehung
+
+`§ 213 (1) ABGB.`  
+Ist eine andere Person mit der Obsorge betraut, so hat sie, soweit nicht anderes bestimmt ist, in wichtigen, die Person des Kindes betreffenden Angelegenheiten, insbesondere in den Angelegenheiten des § 167 Abs. 2, die Genehmigung des Gerichtes einzuholen. Ohne Genehmigung getroffene Maßnahmen oder Vertretungshandlungen sind unzulässig und unwirksam, sofern nicht Gefahr im Verzug vorliegt.
+
+`§ 213 (2) ABGB.`  
+Einer medizinischen Behandlung, die gewöhnlich mit einer schweren oder nachhaltigen Beeinträchtigung der körperlichen Unversehrtheit oder der Persönlichkeit verbunden ist, kann die mit der Obsorge betraute Person nur zustimmen, wenn ein vom behandelnden Arzt unabhängiger Arzt in einem ärztlichen Zeugnis bestätigt, dass das Kind nicht über die erforderliche Entscheidungsfähigkeit verfügt und die Vornahme der Behandlung zur Wahrung seines Wohles erforderlich ist. Wenn ein solches Zeugnis nicht vorliegt oder das Kind zu erkennen gibt, dass es die Behandlung ablehnt, bedarf die Zustimmung der Genehmigung des Gerichts. Erteilt die mit der Obsorge betraute Person die Zustimmung zu einer medizinischen Behandlung nicht und wird dadurch das Wohl des Kindes gefährdet, so kann das Gericht die Zustimmung ersetzen oder die Obsorge an eine andere Person übertragen.
+----
+
+----
+## b) in Angelegenheiten der Vermögensverwaltung
+
+### § 214 ABGB # Überwachung der Vermögensverwaltung
+
+`§ 214 (1) ABGB.`  
+Die mit der gesetzlichen Vertretung in Angelegenheiten der Vermögensverwaltung betraute Person hat bei Antritt der Obsorge nach gründlicher Erforschung des Vermögensstandes dem Gericht gegenüber das Vermögen im Einzelnen anzugeben und – ausgenommen ein Kinder- und Jugendhilfeträger – in weiterer Folge Rechnung zu legen. Das Gericht hat die Tätigkeit des gesetzlichen Vertreters zur Vermeidung einer Gefährdung des Wohls des Kindes zu überwachen und die dazu notwendigen Aufträge zu erteilen. Näheres wird in den Verfahrensgesetzen bestimmt.
+
+`§ 214 (2) ABGB.`  
+Auf Vertretungshandlungen und Einwilligungen in Vermögensangelegenheiten ist § 167 Abs. 3 und § 168 sinngemäß anzuwenden.
+----
+
+`END-OF-DATA-SET`

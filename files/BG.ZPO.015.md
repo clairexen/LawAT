@@ -1,252 +1,454 @@
 # BG.ZPO.015 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ZPO  
+**Kurztitel:** ['ZPO']  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.015.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ZPO.014](BG.ZPO.014.md))*
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
-## Berichtigung des Urtheiles.
+----
+## Berufungsentscheidung.
 
-### § 419 ZPO
+### § 494 ZPO # 
 
-`§ 419 (1) ZPO.`  
-Das Gericht, das das Urteil gefällt hat, kann jederzeit Schreib- und Rechnungsfehler oder andere offenbare Unrichtigkeiten in dem Urteil oder in dessen Ausfertigungen oder Abweichungen der Ausfertigung von der gefällten Entscheidung berichtigen und die Angaben, die entgegen der Vorschrift des § 417 Abs. 3, übergangen wurden, einfügen.
+`§ 494 ZPO.`  
+Überzeugt sich das Gericht aus Anlass einer Berufungsverhandlung, dass das angefochtene Urtheil oder das Verfahren in erster Instanz an einer bisher unbeachtet gebliebenen Nichtigkeit leide, so ist, sofern nicht ein durch ausdrückliche oder stillschweigende Genehmigung beseitigter Mangel der Vertretung (§. 477, Z 5) vorliegt, im Sinne der §§. 477 und 478 vorzugehen, wenn auch die Nichtigkeit von keiner der Parteien geltend gemacht wurde.
+----
 
-`§ 419 (2) ZPO.`  
-Das Gericht kann über die Berichtigung ohne vorhergehende mündliche Verhandlung entscheiden. Gegen den Beschluß, womit der Antrag auf Berichtigung zurückgewiesen wird, findet ein abgesondertes Rechtsmittel nicht statt.
+----
+### § 495 ZPO
 
-`§ 419 (3) ZPO.`  
-Die Vornahme einer Berichtigung kann auch in höherer Instanz angeordnet werden.
+`§ 495 ZPO.`  
+Werden die im § 471 Z 2 und 3 bezeichneten Mängel erst bei der mündlichen Verhandlung wahrgenommen, so ist die Berufung durch Beschluß zurückzuweisen; im Fall des § 471 Z 3 jedoch nur, wenn der anwesende Berufungswerber die Berufungsschrift trotz Aufforderung nicht verbessert.
+----
 
-`§ 419 (4) ZPO.`  
-Eine Berichtigung ist der Urschrift des Urteiles beizusetzen. Ist dies unmöglich oder untunlich, so kann auch eine berichtigte Urschrift des Urteiles hergestellt werden. Den Parteien ist eine Ausfertigung der berichtigten Urschrift zuzustellen. Soweit eine Abforderung der Ausfertigungen möglich und tunlich ist, ist die Berichtigung in den dazu abgeforderten Ausfertigungen ersichtlich zu machen.
+----
+### § 496 ZPO # 
 
-## Ergänzung des Urtheiles.
+`§ 496 (1) ZPO.`  
+Die Sache ist vom Berufungsgerichte an das Processgericht erster Instanz zur Verhandlung und Urtheilsfällung zurückzuweisen, wenn, ohne dass dadurch eine Nichtigkeit begründet wäre:  
+`§ 496 (1) Z 1 ZPO.`
+die Sachanträge durch das angefochtene Endurtheil nicht vollständig erledigt wurden;  
+`§ 496 (1) Z 2 ZPO.`
+das Verfahren erster Instanz an wesentlichen Mängeln leidet, welche eine erschöpfende Erörterung und gründliche Beurtheilung der Streitsache verhinderten;  
+`§ 496 (1) Z 3 ZPO.`
+nach Inhalt der Processacten dem Berufungsgerichte erheblich scheinende Thatsachen in erster Instanz gar nicht erörtert wurden.
 
-### § 423 ZPO
+`§ 496 (2) ZPO.`  
+Das Verfahren vor dem Processgerichte hat sich im Falle der Z 1 auf die unerledigt gebliebenen Ansprüche und Anträge, im Falle der Z 2 auf die durch den Mangel betroffenen Theile des erstrichterlichen Verfahrens und Urtheiles zu beschränken.
 
-`§ 423 (1) ZPO.`  
-Wenn in dem Urtheile ein Anspruch, über welchen zu entscheiden war, übergangen, oder wenn in einem Urtheile über die von einer Partei begehrte Erstattung der Processkosten nicht oder nur unvollständig erkannt wurde, ist das Urtheil durch eine nachträgliche Entscheidung zu ergänzen (Ergänzungsurtheil).
+`§ 496 (3) ZPO.`  
+Statt der Zurückweisung hat das Berufungsgericht die in erster Instanz gepflogene Verhandlung, soweit erforderlich, zu ergänzen und durch Urteil in der Sache selbst zu erkennen, wenn nicht anzunehmen ist, daß dadurch im Vergleich zur Zurückweisung die Erledigung verzögert oder ein erheblicher Mehraufwand an Kosten verursacht würde.
+----
 
-`§ 423 (2) ZPO.`  
-Der Antrag auf Ergänzung ist bei dem Prozeßgericht binnen vierzehn Tagen nach Zustellung des Urteils anzubringen.
+----
+### § 497 ZPO # 
 
-`§ 423 (3) ZPO.`  
-Das Gericht entscheidet nach vorhergehender mündlicher Verhandlung, wenn es eine solche für notwendig hält. Diese Verhandlung ist auf den nicht erledigten Theil des Rechtsstreites zu beschränken. Die Abweisung des Antrages auf Ergänzung erfolgt mittels Beschluss.
+`§ 497 (1) ZPO.`  
+Sofern nicht die Bestimmungen der §§. 494, 495 und 496 zur Anwendung kommen, erkennt das Berufungsgericht durch Urtheil in der Sache selbst.
 
-### § 424 ZPO
-Die Verhandlung über die Ergänzung des Urteiles hat auf den Lauf der Rechtsmittelfristen keinen Einfluß.
+`§ 497 (2) ZPO.`  
+Seine Entscheidung hat alle einen zuerkannten oder aberkannten Anspruch betreffenden Streitpunkte zu umfassen, welche in Gemäßheit der Berufungsanträge eine Erörterung und Beurtheilung in zweiter Instanz erfordern.
 
-## Zweiter Titel. # Beschlüsse.
+`§ 497 (3) ZPO.`  
+Das erstrichterliche Urtheil darf nur soweit abgeändert werden, als eine Abänderung beantragt ist.
+----
 
-### § 425 ZPO
+----
+### § 498 ZPO # 
 
-`§ 425 (1) ZPO.`  
-Sofern nach den Bestimmungen dieses Gesetzes nicht ein Urtheil zu fällen ist, erfolgen die Entscheidungen, Anordnungen und Verfügungen durch Beschluss.
+`§ 498 (1) ZPO.`  
+Das Berufungsgericht hat seiner Entscheidung die in den erstrichterlichen Processacten und im Urtheile der ersten Instanz festgestellten, durch die geltend gemachten Berufungsgründe nicht berührten Ergebnisse der Verhandlung und Beweisführung zugrunde zu legen, soweit dieselben nicht durch die Berufungsverhandlung selbst eine Berichtigung erfahren haben.
 
-`§ 425 (2) ZPO.`  
-An seine Beschlüsse ist das Gericht insoweit gebunden, als dieselben nicht bloß processleitender Natur sind.
+`§ 498 (2) ZPO.`  
+Welche Bedeutung dem Widerspruche beizumessen ist, der gegen einzelne Feststellungen eines Protokolles erster Instanz rechtzeitig erhoben wurde, hat das Berufungsgericht, nöthigenfalls nach mündlicher Verhandlung über die vom Widerspruche betroffenen Feststellungen und Angaben (§. 488), unter sorgfältiger Würdigung der Ergebnisse des Berufungsverfahrens und aller sonstigen Umstände zu beurtheilen.
+----
 
-`§ 425 (3) ZPO.`  
-Die Vorschriften des §. 412 sind auf Beschlüsse des Gerichtes sinngemäß anzuwenden.
+----
+### § 499 ZPO # 
+
+`§ 499 (1) ZPO.`  
+Die Zurückverweisung der Rechtssache an das Processgericht erster Instanz geschieht in den Fällen der §§. 494 und 496 mittels Beschlusses.
+
+`§ 499 (2) ZPO.`  
+Das Gericht, an welches eine Rechtssache infolge Beschlusses des Berufungsgerichtes zu gänzlicher oder theilweiser neuer Verhandlung oder Entscheidung oder zur Durchführung des Berufungsverfahrens gelangt, ist hiebei an die rechtliche Beurtheilung gebunden, von welcher das Berufungsgericht bei seinem Beschlusse ausgegangen ist.
+
+`§ 499 (3) ZPO.`  
+In Bezug auf die Einleitung der neuen Verhandlung hat die Vorschrift des §. 479 zur Anwendung zu kommen.
+
+`§ 499 (4) ZPO.`  
+Das Gleiche gilt, wenn das Berufungsgericht das Urtheil, durch welches eine Wiederaufnahmsklage als unzulässig erkannt wurde, abändert und die Verhandlung in erster Instanz auf die Frage der Zulässigkeit der Wiederaufnahme des Verfahrens beschränkt war.
+----
+
+----
+### § 500 ZPO
+
+`§ 500 (1) ZPO.`  
+Das Urteil oder der Beschluß des Berufungsgerichts, wodurch die Berufung erledigt wird, ist den Parteien stets in schriftlicher Ausfertigung zuzustellen.
+
+`§ 500 (2) ZPO.`  
+Das Berufungsgericht hat in seinem Urteil auszusprechen,  
+`§ 500 (2) Z 1 ZPO.`
+wenn der Entscheidungsgegenstand nicht ausschließlich in einem Geldbetrag besteht, ob der Wert des Entscheidungsgegenstandes insgesamt  
+`§ 500 (2) Z 1 undefined ZPO.`
+5 000 Euro übersteigt oder nicht;  
+`§ 500 (2) Z 1 undefined ZPO.`
+bei Übersteigen von 5 000 Euro auch 30 000 Euro übersteigt oder nicht;  
+`§ 500 (2) Z 2 ZPO.`
+daß die Revision nach § 502 Abs. 2 jedenfalls unzulässig ist, falls dies - auch unter Bedachtnahme auf § 502 Abs. 4 und 5 -  
+zutrifft;  
+`§ 500 (2) Z 3 ZPO.`
+falls Z 2 nicht zutrifft, ob die ordentliche Revision nach § 502 Abs. 1 zulässig ist oder nicht.
 
-### § 426 ZPO
+`§ 500 (3) ZPO.`  
+Bei den Aussprüchen nach Abs. 2 Z 1 sind die §§ 54 Abs. 2, 55 Abs. 1 bis 3, 56 Abs. 3, 57, 58 JN sinngemäß anzuwenden. Der Ausspruch nach Abs. 2 Z 2 bindet weder die Parteien noch die Gerichte. Der Ausspruch nach Abs. 2 Z 3 ist kurz zu begründen.
 
-`§ 426 (1) ZPO.`  
-Alle während der Verhandlung oder Beweisaufnahme vom Senate, von dem Vorsitzenden oder von einem beauftragten oder ersuchten Richter gefassten Beschlüsse sind zu verkünden. Diese Beschlüsse sind den bei der Verkündung anwesenden Parteien in schriftlicher Ausfertigung zuzustellen, wenn der Partei ein Rechtsmittel gegen den Beschluss oder das Recht zur sofortigen Executionsführung auf Grund des Beschlusses zusteht.
+`§ 500 (4) ZPO.`  
+Gegen die Aussprüche nach Abs. 2 Z 1 und 2 findet kein Rechtsmittel statt. Die Unrichtigkeit eines Ausspruchs nach Abs. 2 Z 3 kann - außer in einem Antrag nach § 508 - nur in einer außerordentlichen Revision (§ 505 Abs. 4) beziehungsweise in der Beantwortung einer ordentlichen Revision (§§ 507, 507a) geltend gemacht werden.
+----
+
+----
+### § 500a ZPO
+
+`§ 500a ZPO.`  
+In der Ausfertigung seiner Entscheidung kann das Berufungsgericht die Wiedergabe des Parteivorbringens und der tatsächlichen Entscheidungsgrundlagen auf das beschränken, was zum Verständnis seiner Rechtsausführungen erforderlich ist. Soweit das Berufungsgericht die Rechtsmittelausführungen für nicht stichhältig, hingegen die damit bekämpften Entscheidungsgründe des angefochtenen Urteils für zutreffend erachtet, kann es sich unter Hinweis auf deren Richtigkeit mit einer kurzen Begründung seiner Beurteilung begnügen. Der § 417a ist nicht anzuwenden.
+----
+
+----
+### § 501 ZPO
+
+`§ 501 (1) ZPO.`  
+Hat das Erstgericht über einen Streitgegenstand entschieden, der an Geld oder Geldeswert 2 700 Euro nicht übersteigt, so kann das Urteil nur wegen Nichtigkeit und wegen einer ihm zugrunde liegenden unrichtigen rechtlichen Beurteilung der Sache angefochten werden; der § 473a ist nicht anzuwenden.
+
+`§ 501 (2) ZPO.`  
+Der Abs. 1 gilt nicht für die im § 502 Abs. 4 und 5 bezeichneten Streitigkeiten.
+----
+
+----
+## Zweiter Abschnitt. # Revision. # Zulässigkeit.
+
+### § 502 ZPO
+
+`§ 502 (1) ZPO.`  
+Gegen das Urteil des Berufungsgerichts ist die Revision nur zulässig, wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt, etwa weil das Berufungsgericht von der Rechtsprechung des Obersten Gerichtshofs abweicht oder eine solche Rechtsprechung fehlt oder uneinheitlich ist.
+
+`§ 502 (2) ZPO.`  
+Die Revision ist jedoch jedenfalls unzulässig, wenn der Streitgegenstand, über den das Berufungsgericht entschieden hat, (Entscheidungsgegenstand) an Geld oder Geldeswert insgesamt 5 000 Euro nicht übersteigt.
+
+`§ 502 (3) ZPO.`  
+Weiters ist die Revision – außer im Fall des § 508 Abs. 3 – jedenfalls unzulässig, wenn der Entscheidungsgegenstand an Geld oder Geldeswert zwar 5 000 Euro, nicht aber insgesamt 30 000 Euro übersteigt und das Berufungsgericht die ordentliche Revision nach § 500 Abs. 2 Z 3 für nicht zulässig erklärt hat.
+
+`§ 502 (4) ZPO.`  
+In den im § 49 Abs. 2 Z 1 und 2 JN bezeichneten familienrechtlichen Streitigkeiten ist die Revision – außer im Fall des § 508 Abs. 3 – jedenfalls unzulässig, wenn der Entscheidungsgegenstand insgesamt 30 000 Euro nicht übersteigt und das Berufungsgericht die ordentliche Revision nach § 500 Abs. 2 Z 3 für nicht zulässig erklärt hat; die Abs. 2 und 3 sind nicht anzuwenden.
+
+`§ 502 (5) ZPO.`  
+Die Abs. 2 und 3 gelten nicht  
+`§ 502 (5) Z 1 ZPO.`
+für die im § 49 Abs. 2 Z 2a und 2b JN bezeichneten familienrechtlichen Streitigkeiten;  
+`§ 502 (5) Z 2 ZPO.`
+für die unter § 49 Abs. 2 Z 5 JN fallenden Streitigkeiten, wenn dabei über eine Kündigung, über eine Räumung oder über das Bestehen oder Nichtbestehen des Vertrags entschieden wird;  
+`§ 502 (5) Z 3 ZPO.`
+für Rechtsstreitigkeiten, in denen ein im § 29 KSchG genannter Verband einen ihm zur Geltendmachung abgetretenen Anspruch gegen eine Partei klagsweise geltend macht.  
+`§ 502 (5) Z 4 ZPO.`
+für Streitigkeiten in Arbeits- und Sozialrechtssachen;  
+`§ 502 (5) Z 5 ZPO.`
+für Streitigkeiten nach § 549;  
+`§ 502 (5) Z 6 ZPO.`
+für Streitigkeiten nach dem Bundes-Behindertengleichstellungsgesetz.
+----
+
+----
+### § 503 ZPO # 
+
+`§ 503 ZPO.`  
+Die Revision kann nur aus einem der folgenden Gründe begehrt werden:  
+`§ 503 Z 1 ZPO.`
+weil das Urtheil des Berufungsgerichtes wegen eines der im §. 477 bezeichneten Mängel nichtig ist;  
+`§ 503 Z 2 ZPO.`
+weil das Berufungsverfahren an einem Mangel leidet, welcher, ohne die Nichtigkeit zu bewirken, eine erschöpfende Erörterung und gründliche Beurtheilung der Streitsache zu hindern geeignet war;  
+`§ 503 Z 3 ZPO.`
+weil dem Urtheile des Berufungsgerichtes in einem wesentlichen Punkte eine thatsächliche Voraussetzung zugrunde gelegt erscheint, welche mit den Processacten erster oder zweiter Instanz im Widerspruche steht;  
+`§ 503 Z 4 ZPO.`
+weil das Urtheil des Berufungsgerichtes auf einer unrichtigen rechtlichen Beurtheilung der Sache beruht.
+----
+
+----
+### § 504 ZPO # 
+
+`§ 504 (1) ZPO.`  
+Das Revisionsgericht überprüft das Urtheil des Berufungsgerichtes innerhalb der Grenzen der im Revisionsverfahren gestellten Anträge.
+
+`§ 504 (2) ZPO.`  
+Neue thatsächliche Behauptungen oder Beweise können in der Revisionsinstanz nur zur Unterstützung oder Bekämpfung der Behauptung vorgebracht werden, dass das Urtheil des Berufungsgerichtes wegen eines der im §. 477 bezeichneten Mängel nichtig sei, oder dass das Berufungsverfahren an einem Mangel leide, welcher die erschöpfende Erörterung und gründliche Beurtheilung der Streitsache zu hindern vermochte.
+----
+
+----
+## Erhebung der Revision.
+
+### § 505 ZPO # 
+
+`§ 505 (1) ZPO.`  
+Die Revision wird durch Überreichung eines Schriftsatzes (Revisionsschrift) bei dem Processgerichte erster Instanz erhoben. Einer Anmeldung der Revision bedarf es nicht.
+
+`§ 505 (2) ZPO.`  
+Die Revisionsfrist beträgt vier Wochen von der Zustellung des Berufungserkenntnisses an; sie kann nicht verlängert werden. § 464 Abs. 3 ist sinngemäß anzuwenden.
+
+`§ 505 (3) ZPO.`  
+Durch die rechtzeitige Erhebung einer ordentlichen Revision oder eines Antrags nach § 508 Abs. 1 verbunden mit einer ordentlichen Revision wird der Eintritt der Rechtskraft und Vollstreckbarkeit des angefochtenen Urteils im Umfang der Revisionsanträge bis zur Erledigung des Rechtsmittels gehemmt.
+
+`§ 505 (4) ZPO.`  
+Hat das Berufungsgericht im Berufungsurteil nach § 500 Abs. 2 Z 3 ausgesprochen, daß die ordentliche Revision nicht nach § 502 Abs. 1 zulässig ist, so kann nur in Streitigkeiten nach § 502 Abs. 5 und in solchen, in denen der Entscheidungsgegenstand insgesamt 30 000 Euro übersteigt, dennoch eine Revision erhoben werden (außerordentliche Revision). Die Erhebung einer außerordentlichen Revision hemmt nicht den Eintritt der Vollstreckbarkeit, sondern nur den der Rechtskraft.
+----
+
+----
+### § 506 ZPO # 
+
+`§ 506 (1) ZPO.`  
+Die Revisionsschrift muss nebst den allgemeinen Erfordernissen eines Schriftsatzes enthalten:  
+`§ 506 (1) Z 1 ZPO.`
+die Bezeichnung des Urtheiles, gegen welches die Revision gerichtet ist;  
+`§ 506 (1) Z 2 ZPO.`
+die bestimmte Erklärung, inwieweit das Urteil angefochten wird, die ebenso bestimmte kurze Bezeichnung der Gründe der Anfechtung (Revisionsgründe) und die Erklärung, ob die Aufhebung oder eine Abänderung des Urteils und welche beantragt werde, (Revisionsantrag);  
+`§ 506 (1) Z 3 ZPO.`
+das thatsächliche Vorbringen und die Beweismittel, durch welche die Wahrheit der im § 503 Z 1 und 2 angegebenen Revisionsgründe erwiesen werden soll;  
+`§ 506 (1) Z 4 ZPO.`
+die Unterschrift eines Rechtsanwalts;  
+`§ 506 (1) Z 5 ZPO.`
+bei einer außerordentlichen Revision (§ 505 Abs. 4) gesondert die Gründe, warum, entgegen dem Ausspruch des Berufungsgerichts, nach § 502 Abs. 1 die Revision für zulässig erachtet wird.
 
-`§ 426 (2) ZPO.`  
-An Parteien, welche bei der Verkündung nicht anwesend waren, ist in diesen Fällen und nebstdem in allen Fällen, in welchen die Leitung des Verfahrens es erfordert, die Zustellung einer schriftlichen Ausfertigung zu bewirken.
+`§ 506 (2) ZPO.`  
+Insoweit die Revision auf den im § 503 Z 4 angegebenen Revisionsgrund gestützt wird, ist in der Revisionsschrift ohne Weitläufigkeiten darzulegen, aus welchen Gründen die rechtliche Beurtheilung der Sache unrichtig erscheint.
+----
 
-`§ 426 (2a) ZPO.`  
-Soweit verkündete Beschlüsse schriftlich abzufassen sind, gilt § 414 Abs. 4 sinngemäß.
+----
+### § 507 ZPO # 
 
-`§ 426 (3) ZPO.`  
-Wenn die Zustellung einer schriftlichen Ausfertigung nicht zu erfolgen hat, so begründet die mündliche Verkündung die Wirkungen der Zustellung.
+`§ 507 (1) ZPO.`  
+Das Prozeßgericht erster Instanz hat Revisionen zurückzuweisen, die verspätet oder aus einem anderen Grund als dem nach § 502 Abs. 1 unzulässig sind; dies gilt auch für Anträge nach § 508 Abs. 1, die mit einer ordentlichen Revision verbunden sind.
 
-### § 427 ZPO
+`§ 507 (2) ZPO.`  
+Findet das Prozeßgericht erster Instanz keinen Anlaß zur Zurückweisung einer Revision oder eines Antrags nach § 508 Abs. 1, der mit einer ordentlichen Revision verbunden ist, so hat es die Zustellung einer Ausfertigung der Revisionsschrift beziehungsweise des Antrags nach § 508 Abs. 1 verbunden mit der Revisionsschrift an den Gegner des Revisionswerbers (Revisionsgegner) zu verfügen.
 
-`§ 427 (1) ZPO.`  
-Außerhalb der Tagsatzungen gefasste Beschlüsse sind den Parteien durch Zustellung einer schriftlichen Ausfertigung (Bescheid) bekannt zu geben.
+`§ 507 (3) ZPO.`  
+Einwendungen gegen die Rechtzeitigkeit oder Zulässigkeit einer Revision oder eines Antrags nach § 508 Abs. 1, der mit einer ordentlichen Revision verbunden ist, kann der Revisionsgegner nicht durch Rekurs, sondern nur in der Revisionsbeantwortung geltend machen.
 
-`§ 427 (2) ZPO.`  
-Ein Bescheid, durch welchen ein Antrag einer Partei ohne vorhergehende Vernehmung des Gegners abgewiesen wird, ist dem Gegner nur auf Ansuchen des Antragstellers zuzustellen.
+`§ 507 (4) ZPO.`  
+Auf die Revisionsbeantwortung finden die Bestimmungen des §. 506 mit Ausnahme der unter Abs. 1 Z 1 und 2 angegebenen Erfordernisse sinngemäße Anwendung. Neue Thatsachen und Beweise, welche der Revisionsgegner zur Widerlegung der in der Revisionsschrift angegebenen Revisionsgründe benützen will, werden im Revisionsverfahren nur soweit berücksichtigt, als sie bereits in der Revisionsbeantwortung angeführt sind.
 
-### § 428 ZPO
+`§ 507 (5) ZPO.`  
+Von der Einbringung der Revisionsbeantwortung ist der Revisionswerber durch Mittheilung eines Exemplares der Revisionsbeantwortung zu verständigen.
 
-`§ 428 (1) ZPO.`  
-Beschlüsse über widerstreitende Anträge und Beschlüsse, durch welche ein Antrag abgewiesen wird, müssen begründet werden.
+`§ 507 (6) ZPO.`  
+Die Überreichung der Revisionsschrift und Revisionsbeantwortung kann nicht durch Erklärungen zu gerichtlichem Protokoll ersetzt werden.
+----
 
-`§ 428 (2) ZPO.`  
-Hiebei sind die Anträge, über welche im Beschlusse entschieden wird, und der Sachverhalt, falls nicht beides aus dem gleichzeitig mitgetheilten Schriftsatze oder aus der Protokollsabschrift zu entnehmen ist, in die Begründung insoweit aufzunehmen, als es zum Verständnis des Ausspruches oder der Verfügung erforderlich ist.
+----
+### § 507a ZPO
 
-### § 429 ZPO
+`§ 507a (1) ZPO.`  
+Dem Revisionsgegner steht es frei, binnen der Notfrist von vier Wochen ab der Zustellung der Revisionsschrift eine Revisionsbeantwortung mittels Schriftsatzes zu überreichen.
 
-`§ 429 (1) ZPO.`  
-Die Urschrift des Beschlusses ist, wenn der Beschluss von einem Senate gefasst wurde, von dem Vorsitzenden, außerdem aber von dem Richter zu unterschreiben, welcher den Beschluss gefasst hat.
+`§ 507a (2) ZPO.`  
+Die Frist nach Abs. 1 beginnt  
+`§ 507a (2) Z 1 ZPO.`
+bei einer Revision, deren Zulässigkeit das Berufungsgericht nach § 500 Abs. 2 Z 3 ausgesprochen hat, (ordentliche Revision) mit der Zustellung der Revisionsschrift durch das Prozeßgericht;  
+`§ 507a (2) Z 2 ZPO.`
+im Falle eines Antrags nach § 508 Abs. 1 verbunden mit einer ordentlichen Revision mit der Zustellung der Mitteilung des Berufungsgerichts, daß dem Revisionsgegner die Beantwortung der Revision freigestellt werde (§ 508 Abs. 5);  
+`§ 507a (2) Z 3 ZPO.`
+bei einer außerordentlichen Revision (§ 505 Abs. 4) mit der Zustellung der Mitteilung des Obersten Gerichtshofs, daß dem Revisionsgegner die Beantwortung der Revision freigestellt werde (§ 508a Abs. 2).
 
-`§ 429 (2) ZPO.`  
-Die schriftliche Ausfertigung eines Beschlusses hat auch die in §. 417, Z 1 und 2, bezeichneten Angaben zu enthalten.
+`§ 507a (3) ZPO.`  
+Die Revisionsbeantwortung ist einzubringen:  
+`§ 507a (3) Z 1 ZPO.`
+beim Berufungsgericht, wenn dieses dem Revisionsgegner nach § 508 Abs. 5 freigestellt hat, eine Revisionsbeantwortung einzubringen;  
+`§ 507a (3) Z 2 ZPO.`
+beim Revisionsgericht, wenn dieses dem Revisionsgegner nach § 508a Abs. 2 freigestellt hat, eine Revisionsbeantwortung einzubringen;  
+`§ 507a (3) Z 3 ZPO.`
+sonst beim Prozeßgericht erster Instanz.
 
-### § 430 ZPO
-In Ansehung der Ertheilung von Ausfertigungen und Auszügen, dann der Berichtigung von Beschlüssen und der Ergänzung derselben, wenn über einen Antrag der Partei theilweise nicht erkannt wurde oder wenn der beantragte Ausspruch über die Erstattung der Processkosten fehlt oder unvollständig ist, gelten die Vorschriften der §§. 418, 419, 423 und 424.
+`§ 507a (4) ZPO.`  
+Für die Behandlung der Revisionsbeantwortung tritt im Fall des Abs. 3 Z 1 das Berufungsgericht, im Fall des Abs. 3 Z 2 das Revisionsgericht an die Stelle des Prozeßgerichts erster Instanz.
 
-## Dritter Theil. # Verfahren vor den Bezirksgerichten.
+`§ 507a (5) ZPO.`  
+Der § 464 Abs. 3 ist sinngemäß anzuwenden.
+----
 
-### § 431 ZPO
+----
+### § 507b ZPO
 
-`§ 431 (1) ZPO.`  
-Auf das Verfahren vor den Bezirksgerichten finden, sofern nichts anderes bestimmt ist, die Vorschriften über das Verfahren vor den Gerichtshöfen erster Instanz Anwendung.
+`§ 507b (1) ZPO.`  
+Nach der Erstattung der Beantwortung einer ordentlichen Revision (§ 507a Abs. 2 Z 1) oder nach dem fruchtlosen Ablauf der hiefür offenstehenden Frist hat das Prozeßgericht erster Instanz diese Schriften samt allen sich auf den Rechtsstreit beziehenden Prozeßakten dem Berufungsgericht vorzulegen, welches diese sodann nach Anschluß der diesen Rechtsstreit betreffenden berufungsgerichtlichen Akten an das Revisionsgericht weiterzubefördern hat.
 
-`§ 431 (2) ZPO.`  
-Die durch die Vorschriften des zweiten Theiles für den Senat oder dessen Vorsitzenden begründeten Befugnisse und Obliegenheiten sind im Verfahren vor Bezirksgerichten durch den Einzelrichter auszuüben.
+`§ 507b (2) ZPO.`  
+Ein Antrag nach § 508 Abs. 1 verbunden mit einer ordentlichen Revision ist dem Berufungsgericht samt allen sich auf den Rechtsstreit beziehenden Prozeßakten sofort vorzulegen.
 
-### § 432 ZPO
+`§ 507b (3) ZPO.`  
+Eine außerordentliche Revision (§ 505 Abs. 4) ist dem Revisionsgericht samt allen sich auf den Rechtsstreit beziehenden Prozeßakten sofort und unmittelbar vorzulegen.
 
-`§ 432 (1) ZPO.`  
-Der Richter hat Parteien, welche rechtsunkundig und nicht durch Rechtsanwälte vertreten sind, erforderlichenfalls die zur Vornahme ihrer Processhandlungen nöthige Anleitung zu geben und dieselben über die mit ihren Handlungen oder Unterlassungen verbundenen Rechtsfolgen zu belehren.
+`§ 507b (4) ZPO.`  
+Ordentliche Revisionen, die verspätet oder aus einem anderen Grund als dem nach § 502 Abs. 1 unzulässig sind, hat das Berufungsgericht zurückzuweisen, wenn das Prozeßgericht erster Instanz dies noch nicht getan hat; dies vorbehaltlich des § 508.
+----
 
-`§ 432 (2) ZPO.`  
-Insbesondere hat der Richter solche Parteien bei Verkündung seiner Entscheidungen auf die Frist, binnen welcher eine Entscheidung durch ein Rechtsmittel angefochten werden kann, und auf die gesetzlichen Bestimmungen, welche die Bestellung eines Rechtsanwalts als Processbevollmächtigten für die Ergreifung des Rechtsmittels vorschreiben, aufmerksam zu machen.
+----
+### § 508 ZPO
 
-`§ 432 (3) ZPO.`  
-Einer Partei, die sich in einem Schriftsatz nicht verständlich auszudrücken vermag, ist unter Setzung einer angemessenen Frist der Auftrag zu erteilen, den Schriftsatz nach Bestellung eines geeigneten Bevollmächtigten, erforderlichenfalls eines Rechtsanwalts, neuerlich einzubringen, andernfalls der Schriftsatz als nicht eingebracht anzusehen ist. § 84 Abs. 3 gilt sinngemäß.
+`§ 508 (1) ZPO.`  
+Wird in Streitigkeiten, in denen der Entscheidungsgegenstand zwar 5 000 Euro, nicht aber insgesamt 30 000 Euro übersteigt (§ 502 Abs. 3), oder in familienrechtlichen Streitigkeiten nach § 49 Abs. 2 Z 1 und 2 JN, in denen der Entscheidungsgegenstand insgesamt 30 000 Euro nicht übersteigt (§ 502 Abs. 4), im Berufungsurteil nach § 500 Abs. 2 Z 3 ausgesprochen, daß die ordentliche Revision nach § 502 Abs. 1 nicht zulässig ist, so kann eine Partei einen Antrag an das Berufungsgericht stellen, seinen Ausspruch dahingehend abzuändern, daß die ordentliche Revision doch für zulässig erklärt werde; in diesem Antrag sind die Gründe dafür anzuführen, warum - entgegen dem Ausspruch des Berufungsgerichts - nach § 502 Abs. 1 die ordentliche Revision für zulässig erachtet wird. Mit demselben Schriftsatz ist die ordentliche Revision auszuführen.
 
-### § 433 ZPO
+`§ 508 (2) ZPO.`  
+Der Antrag nach Abs. 1 verbunden mit der ordentlichen Revision ist beim Prozeßgericht erster Instanz binnen vier Wochen einzubringen; die Frist beginnt mit der Zustellung des Berufungserkenntnisses zu laufen; sie kann nicht verlängert werden. Die §§ 464 Abs. 3 und 507 Abs. 6 sind sinngemäß anzuwenden.
 
-`§ 433 (1) ZPO.`  
-Wer eine Klage zu erheben beabsichtigt, ist berechtigt, vor deren Einbringung bei dem Bezirksgerichte des Wohnsitzes des Gegners dessen Ladung zum Zwecke des Vergleichsversuches zu beantragen. An Orten, an welchen mehrere Bezirksgerichte bestehen, kann eine solche Ladung außerdem an alle Personen ergehen, die an diesem Orte, wenngleich außerhalb des Sprengels des zuständigen Bezirksgerichtes, ihren Wohnsitz haben.
+`§ 508 (3) ZPO.`  
+Erachtet das Berufungsgericht den Antrag nach Abs. 1 für stichhältig, so hat es seinen Ausspruch mit Beschluß abzuändern und auszusprechen, daß die ordentliche Revision doch nach § 502 Abs. 1 zulässig ist; dieser Beschluß ist kurz zu begründen (§ 500 Abs. 3 letzter Satz).
 
-`§ 433 (2) ZPO.`  
-Gegen die Entscheidung über einen solchen Antrag ist ein Rechtsmittel nicht zulässig.
+`§ 508 (4) ZPO.`  
+Erachtet das Berufungsgericht den Antrag nach Abs. 1 für nicht stichhältig, so hat es diesen samt der ordentlichen Revision mit Beschluß zurückzuweisen; diese Entscheidung bedarf keiner Begründung. Gegen diesen Beschluß ist ein Rechtsmittel nicht zulässig.
 
-### § 433a ZPO # Mediationsvergleich und Vergleiche nach dem Alternative-Streitbeilegung-Gesetz
+`§ 508 (5) ZPO.`  
+Erklärt das Berufungsgericht die ordentliche Revision doch für zulässig (Abs. 3), so hat es diesen Beschluß den Parteien zuzustellen und dem Revisionsgegner außerdem mitzuteilen, daß ihm die Beantwortung der Revision freistehe. Eine vor Zustellung dieser Mitteilung erstattete Revisionsbeantwortung gilt im Fall der Zurückweisung des Antrags samt der ordentlichen Revision (Abs. 4) nicht als zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendig.
 
-`§ 433a ZPO.`  
-Über den Inhalt der in einem Mediationsverfahren oder in einem Schlichtungsverfahren über Verbraucherstreitigkeiten nach dem Alternative-Streitbeilegung-Gesetz, BGBl. I Nr. 105/2015, über eine Zivilsache erzielten schriftlichen Vereinbarung kann vor jedem Bezirksgericht ein gerichtlicher Vergleich geschlossen werden.
+`§ 508 (6) ZPO.`  
+Von einer Mitteilung nach Abs. 5 ist auch das Prozeßgericht erster Instanz zu verständigen.
+----
 
-### § 434 ZPO
+----
+## Verfahren vor dem Revisionsgerichte.
 
-`§ 434 (1) ZPO.`  
-Die Klage, sowie alle außerhalb der mündlichen Verhandlung vorzubringenden Gesuche, Anträge und Mittheilungen können die Parteien, wenn sie nicht durch Rechtsanwalt vertreten sind, zu Protokoll anbringen.
+### § 508a ZPO
 
-`§ 434 (2) ZPO.`  
-Klagen und Widersprüche gegen ein Versäumungsurteil können von einer Partei auch beim Bezirksgericht ihres Aufenthalts mündlich zu Protokoll erklärt werden; dieses Bezirksgericht hat das Protokoll dem Prozeßgericht unverzüglich zu übersenden.
+`§ 508a (1) ZPO.`  
+Bei der Prüfung der Zulässigkeit der Revision ist das Revisionsgericht an einen Ausspruch des Berufungsgerichts nach § 500 Abs. 2 Z 3 nicht gebunden.
 
-### § 435 ZPO
+`§ 508a (2) ZPO.`  
+Findet das Revisionsgericht nicht schon bei der ersten Prüfung, daß eine außerordentliche Revision (§ 505 Abs. 4) mangels der Voraussetzungen nach § 502 Abs. 1 zurückzuweisen ist, so hat es dem Revisionsgegner mitzuteilen, daß ihm die Beantwortung der Revision (§§ 507, 507a) freistehe. Eine vor der Zustellung dieser Mitteilung erstattete Revisionsbeantwortung gilt im Fall der Verwerfung der Revision nicht als zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendig.
 
-`§ 435 (1) ZPO.`  
-Wenn die schriftlich überreichte Klage nach Ansicht des Richters in irgend einem Punkte einer Ergänzung oder Aufklärung bedarf, oder wenn sich gegen die Einleitung des Verfahrens Bedenken ergeben, hat der Richter dem Kläger, wenn derselbe nicht durch einen Rechtsanwalt vertreten ist, vor Erledigung der Klage, zu den entsprechenden Vervollständigungen oder Richtigstellungen die nöthige Anleitung zu geben.
+`§ 508a (3) ZPO.`  
+Von einer Mitteilung nach Abs. 2 sind auch das Prozeßgericht erster Instanz, das Berufungsgericht und der Revisionswerber zu verständigen. Das Berufungsgericht hat nach dem Einlangen dieser Verständigung dem Revisionsgericht die diesen Rechtsstreit betreffenden berufungsgerichtlichen Akten vorzulegen.
+----
 
-`§ 435 (2) ZPO.`  
-Erscheint die mündlich zu Protokoll gegebene Klage wegen Unzulässigkeit des Rechtsweges, Unzuständigkeit des Gerichtes, wegen Mangels der persönlichen Befugnis zur Klage oder wegen mangelnder Processfähigkeit des Beklagten unzulässig, so ist hierüber dem Kläger mündlich oder auf Verlangen schriftlich Belehrung zu ertheilen. Ebenso ist, wenn die Klage offenbar unbegründet erscheint, dem Kläger mündlich eine angemessene Belehrung zu ertheilen. Die Aufnahme der Klage darf jedoch nicht verweigert werden, wenn der Kläger trotz der Belehrung auf der Protokollirung besteht.
+----
+### § 509 ZPO # 
 
-### § 436 ZPO
-Die Tagsatzung zur mündlichen Verhandlung über die Klage kann in dringenden Fällen und insbesondere bei Klagen wegen Besitzstörung auf den nämlichen Tag anberaumt werden, an welchem die Klage bei Gericht angebracht wurde.
+`§ 509 (1) ZPO.`  
+Das Revisionsgericht entscheidet über die Revision in nicht öffentlicher Sitzung ohne vorhergehende mündliche Verhandlung.
 
-### § 437 ZPO
-Der Kläger ist durch Zustellung einer Ausfertigung des über die Klage ergehenden Beschlusses mit der Aufforderung zur mündlichen Verhandlung zu laden, die während der Verhandlung in Augenschein zu nehmenden Gegenstände und die sich auf den Rechtsstreit beziehenden, dem Gerichte noch nicht vorliegenden Urkunden zur Tagsatzung mitzubringen. In der Ladung ist dem Kläger bekannt zu geben, welche Nachtheile das Gesetz mit dem Versäumen der Tagsatzung verbindet.
+`§ 509 (2) ZPO.`  
+Es kann jedoch, wenn dies im einzelnen Falle dem Revisionsgerichte behufs Entscheidung über die eingelegte Revision erforderlich erscheint, auch eine mündliche Verhandlung vor dem Revisionsgerichte auf Antrag oder von amtswegen angeordnet werden. In Bezug auf diese Verhandlung haben die für die mündliche Verhandlung vor dem Berufungsgerichte erlassenen Vorschriften zu gelten.
 
-### § 438 ZPO
-Die Ladung des Beklagten geschieht durch Zustellung einer schriftlichen Ausfertigung des über die Klage ergehenden Beschlusses unter gleichzeitiger Mittheilung eines Exemplares der schriftlichen Klage oder einer Abschrift des über die Klage aufgenommenen Protokolles. Bei protokollarischer Ergänzung oder Richtigstellung der schriftlichen Klage ist dem Beklagten auch eine Abschrift dieses Protokolles zuzustellen. Der Beklagte ist zugleich aufzufordern, die sich auf den Rechtsstreit beziehenden Augenscheinsgegenstände und Urkunden zur Tagsatzung mitzubringen und wegen der Vorlage der im Besitze des Gegners oder in Verwahrung einer öffentlichen Behörde oder eines Notars befindlichen Beweisurkunden und Augenscheinsgegenstände, sowie wegen etwaiger gerichtlicher Vorladung von Zeugen noch vor der für die mündliche Verhandlung anberaumten Tagsatzung seine Anträge zu stellen. In der Ladung ist dem Beklagten bekannt zu geben, welche Nachtheile das Gesetz mit dem Versäumen der Tagsatzung verbindet.
+`§ 509 (3) ZPO.`  
+Erhebungen oder Beweisaufnahmen, welche zur Feststellung der im §. 503, Z 1 und 2, angeführten Revisionsgründe nothwendig sind, haben durch einen ersuchten Richter zu erfolgen, welcher die Acten über die stattgefundenen Erhebungen oder Beweisaufnahmen unmittelbar dem Revisionsgerichte vorzulegen hat. Diesen Erhebungen und Beweisaufnahmen sind stets die Parteien zuzuziehen.
+----
 
-### § 439 ZPO
+----
+### § 510 ZPO # 
 
-`§ 439 (1) ZPO.`  
-An bestimmten Gerichtstagen, welche im voraus festzusetzen und durch Anschlag am Gerichtshause bekannt zu machen sind, kann der Kläger mit der Gegenpartei auch ohne Vorladung vor Gericht erscheinen, um einen Rechtsstreit anhängig zu machen und darüber zu verhandeln.
+`§ 510 (1) ZPO.`  
+Das Revisionsgericht hat in der Regel in der Sache selbst zu entscheiden. Wenn es jedoch das Urtheil des Berufungsgerichtes nach §. 477, Z 4 und 5, als nichtig zu erklären oder aus dem im §. 503 Z 2 bezeichneten Grunde aufzuheben findet und infolge dessen eine neue Verhandlung zur Erledigung der Sache nothwendig erachtet, hat es die Streitsache zu diesem Zwecke an das Berufungsgericht zurückzuverweisen. Wenn das Urteil des Berufungsgerichtes aus dem im § 503 Z 2, bezeichneten Grunde aufzuheben ist und es offenbar einer Verhandlung in erster Instanz bedarf, um die Sache spruchreif zu machen, ist auch das Urteil der ersten Instanz innerhalb der Grenzen der Revisionsanträge aufzuheben und die Streitsache an die erste Instanz zurückzuverweisen. Das Revisionsgericht kann das Urteil des Berufungsgerichts überdies dann aufheben und die Sache zur neuerlichen Entscheidung an dieses zurückverweisen, wenn sich bei einer Revision aus der Lösung einer erheblichen Rechtsfrage (§ 502 Abs. 1) zur abschließenden Entscheidung über den strittigen Anspruch die Notwendigkeit einer näheren Prüfung einzelner Anspruchsgrundlagen oder eingehender Berechnungen ergibt.
 
-`§ 439 (2) ZPO.`  
-In diesem Falle ist das Klagebegehren in dem Verhandlungsprotokolle aufzuzeichnen.
+`§ 510 (2) ZPO.`  
+Findet das Revisionsgericht das Urtheil oder Verfahren wegen einer schon in erster Instanz unterlaufenen, von amtswegen wahrzunehmenden Nichtigkeit aufzuheben, so hat die Zurückweisung der Sache an die erste Instanz zu erfolgen (§. 478, Absatz 2 und 3).
 
-### § 440 ZPO
+`§ 510 (3) ZPO.`  
+In der Ausfertigung seiner Entscheidung kann das Revisionsgericht die Wiedergabe des Parteivorbringens und der tatsächlichen Entscheidungsgrundlagen auf das beschränken, was zum Verständnis seiner Rechtsausführungen erforderlich ist. Bestätigt der Oberste Gerichtshof das Urteil des Berufungsgerichts und erachtet er dessen Begründung für zutreffend, so reicht es aus, wenn er auf deren Richtigkeit hinweist. Die Beurteilung, daß eine geltend gemachte Mangelhaftigkeit oder Aktenwidrigkeit (§ 503 Z 2 und 3) nicht vorliegen, sowie die Zurückweisung einer außerordentlichen Revision (§ 505 Abs. 4) bedürfen keiner Begründung. Die Zurückweisung einer ordentlichen Revision wegen Fehlens einer erheblichen Rechtsfrage (§ 502 Abs. 1) kann sich auf die Ausführung der Zurückweisungsgründe beschränken.
+----
 
-`§ 440 (1) ZPO.`  
-Im bezirksgerichtlichen Verfahren soll tunlichst schon in der vorbereitenden Tagsatzung das Beweisverfahren durchgeführt werden. Ist aber insbesondere nach dem Inhalt der Klage anzunehmen, dass sich der Beklagte nicht in den Streit einlassen werde, so kann die vorbereitende Tagsatzung auf die in § 258 Abs. 1 Z 1 und 2 genannten Punkte beschränkt werden; § 258 Abs. 2 ist in diesem Fall nicht anzuwenden.
+----
+### § 511 ZPO # 
 
-`§ 440 (2) ZPO.`  
-Die im zweiten Teil enthaltenen Vorschriften über die Verpflichtung des Beklagten zur Beantwortung der Klage mittels vorbereitenden Schriftsatzes sind im Verfahren vor Bezirksgerichten nicht anzuwenden.
+`§ 511 (1) ZPO.`  
+Das Gericht, an welches die Sache zurückverwiesen wurde, ist bei der weiteren Verhandlung und Entscheidung an die rechtliche Beurtheilung gebunden, welche das Revisionsgericht seinem aufhebenden Beschlusse zugrunde gelegt hat.
 
-`§ 440 (3) ZPO.`  
-Sind die Parteien durch Rechtsanwälte vertreten, so kann ihnen der Wechsel vorbereitender Schriftsätze aufgetragen werden.
-*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 76/2002)*
+`§ 511 (2) ZPO.`  
+Zum Zwecke der Aufnahme des Verfahrens beim Berufungsgerichte oder beim Gerichte erster Instanz haben diese die Tagsatzung zur mündlichen Verhandlung von amtswegen anzuberaumen.
+----
 
-`§ 440 (5) ZPO.`  
-Der Auftrag zur schriftlichen Feststellung von Anträgen und Erklärungen (§. 265) kann vom Richter nur denjenigen Parteien ertheilt werden, welche bei der mündlichen Verhandlung durch Rechtsanwälte vertreten sind.
+----
+### § 512 ZPO # 
 
-`§ 440 (6) ZPO.`  
-Die Höhe eines aufgetragenen Kostenvorschusses kann schon dann angefochten werden (§ 332 Abs. 2), wenn der Gesamtbetrag der einer Partei aufgetragenen Vorschüsse 2 000 Euro übersteigt.
+`§ 512 ZPO.`  
+Findet das Revisionsgericht, dass die Revision muthwillig oder nur zur Verzögerung der Sache angebracht wurde, so ist gegen den Revisionswerber auf eine Muthwillensstrafe zu erkennen.
+----
 
-### § 441 ZPO
+----
+### § 513 ZPO # 
 
-`§ 441 ZPO.`  
-Die Einrede der Unzuständigkeit des Gerichtes hat der Beklagte vorzubringen, bevor er sich in die Verhandlung über die Hauptsache einlässt. Nach Einlassung des Beklagten zur Hauptsache kann die Unzuständigkeit des Gerichtes nur unter den Voraussetzungen des § 240 berücksichtigt werden.
+`§ 513 ZPO.`  
+Soweit sich nicht aus den Bestimmungen dieses Abschnittes Abweichungen ergeben, sind die Vorschriften über die Berufung auch auf die Revision anzuwenden.
+----
 
-### § 442 ZPO
+----
+## Dritter Abschnitt. # Recurs. # Zulässigkeit.
 
-`§ 442 ZPO.`  
-Bleibt eine der Parteien von einer Tagsatzung aus, bevor sie sich durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, so ist auf Antrag der erschienenen Partei ein Versäumungsurteil nach § 396 zu fällen.
+### § 514 ZPO # 
 
-### § 442a ZPO
+`§ 514 (1) ZPO.`  
+Gegen Beschlüsse (Bescheide) ist, sofern das gegenwärtige Gesetz die Anfechtung derselben nicht ausschließt, der Recurs zulässig.
 
-`§ 442a (1) ZPO.`  
-Gegen ein Versäumungsurteil kann Widerspruch nach § 397a erhoben werden, es sei denn, die Partei hat in diesem Verfahren schon einmal Widerspruch gegen ein Versäumungsurteil erhoben. Der Widerspruch ist ausgeschlossen, wenn in dem Verfahren bereits Einspruch gegen einen Zahlungsbefehl oder Einwendungen im Mandatsverfahren oder im Bestandverfahren erhoben wurden.
+`§ 514 (2) ZPO.`  
+Mittels Recurses können Beschlüsse insbesondere auch aus den im §. 477 angegebenen Gründen aufgehoben werden.
+----
 
-`§ 442a (2) ZPO.`  
-Der Beklagte hat Anspruch auf Ersatz der Kosten eines von ihm erhobenen Widerspruchs (§ 397a Abs. 4) nur, wenn ihm das Gericht nach § 440 Abs. 3 aufgetragen hatte, das darin Enthaltene in einem Schriftsatz vorzubringen.
+----
+### § 515 ZPO # 
 
-### § 443 ZPO
-Die Protokollirung des thatsächlichen und Beweisvorbringens der Parteien hat, falls nicht vorbereitende Schriftsätze vorliegen (§. 210 Absatz 1), in der Regel auf die in §. 211 bezeichnete Art zu geschehen.
+`§ 515 ZPO.`  
+In den Fällen, in welchen nach den Bestimmungen dieses Gesetzes gegen einen Beschluss ein abgesondertes Rechtsmittel versagt ist, können die Parteien ihre Beschwerden gegen diesen Beschluss mit dem gegen die nächstfolgende anfechtbare Entscheidung eingebrachten Rechtsmittel zur Geltung bringen.
+----
 
-### § 446 ZPO
-Wenn ein nicht ausschließlich zur Ausübung der Gerichtsbarkeit in Handelssachen berufenes Bezirksgericht ein Urteil der Gerichtsbarkeit in Handelsrechtssachen oder ein besonderes Bezirksgericht für Handelssachen ein Urteil der allgemeinen Gerichtsbarkeit fällt, hat es dies auf Antrag (§ 258 Absatz 3) im Urteil anzuführen.
+----
+### § 517 ZPO # 
 
-### § 447 ZPO
-In den Ausfertigungen der Urtheile ist insbesondere hervorzuheben, dass für die Ergreifung eines Rechtsmittels gegen das Urtheil, sowie für das Rechtsmittelverfahren überhaupt die Vertretung durch einen Rechtsanwalt erforderlich ist.
+`§ 517 (1) ZPO.`  
+Übersteigt der Streitgegenstand an Geld oder Geldeswert nicht den Betrag von 2 700 Euro, so kann nur gegen die folgenden Beschlüsse erster Instanz Rekurs ergriffen werden:  
+`§ 517 (1) Z 1 ZPO.`
+wenn die Einleitung oder Fortsetzung des gesetzmäßigen Verfahrens über die Klage verweigert wurde;  
+`§ 517 (1) Z 2 ZPO.`
+wenn über den Antrag auf Bestellung einer Sicherheit für die Processkosten oder auf Ergänzung dieser Sicherheit entschieden wurde;  
+`§ 517 (1) Z 3 ZPO.`
+wenn dem Begehren um Erstreckung einer Tagsatzung unter Verletzung der Bestimmungen des §. 134 stattgegeben wurde und der Beschluss zugleich gemäß §. 141 anfechtbar ist;  
+`§ 517 (1) Z 4 ZPO.`
+wenn ein Antrag auf Bewilligung der Wiedereinsetzung in den vorigen Stand wegen Versäumung einer Tagsatzung oder wegen Verstreichens der Frist zur Erhebung eines Rechtsmittels abgewiesen wurde;  
+`§ 517 (1) Z 5 ZPO.`
+wenn über Prozeßkosten entschieden worden ist;  
+`§ 517 (1) Z 6 ZPO.`
+wenn über die Aufhebung der Bestätigung der Vollstreckbarkeit entschieden worden ist (§ 7 Abs. 3 EO).
 
-### § 448 ZPO
+`§ 517 (2) ZPO.`  
+Abs. 1 gilt nicht für die im § 502 Abs. 5 Z 3 bezeichneten Streitigkeiten.
 
-`§ 448 ZPO.`  
-Für das bezirksgerichtliche Mahnverfahren gelten folgende Besonderheiten:  
-`§ 448 Z 1 ZPO.`
-Für die Erhebung des Einspruchs bedarf es nicht der Vertretung durch einen Rechtsanwalt; Gleiches gilt für die Zurücknahme des Einspruchs. Schriftliche Einsprüche können auch in einfacher Ausfertigung und ohne Beibringung von Rubriken überreicht werden; es genügt, dass aus dem Schriftstück die Absicht, Einspruch zu erheben, deutlich hervorgeht.  
-`§ 448 Z 2 ZPO.`
-Der Beklagte, der nicht durch einen Rechtsanwalt vertreten ist, kann Einsprüche und Anträge auf Bewilligung der Wiedereinsetzung in den vorigen Stand auch beim Bezirksgericht seines Aufenthalts mündlich zu Protokoll geben; dieses hat das Protokoll dem Prozessgericht unverzüglich zu übersenden.  
-`§ 448 Z 3 ZPO.`
-Ist der Einspruch begründet, so ist dem Kläger eine Ausfertigung oder eine Abschrift des Schriftsatzes oder des ihn ersetzenden Protokolls zuzustellen.  
-`§ 448 Z 4 ZPO.`
-Ist ordnungsgemäß Einspruch erhoben worden, so hat das Gericht nach den §§ 440 ff vorzugehen.
+`§ 517 (3) ZPO.`  
+Ein Kostenrekurs ist jedenfalls unzulässig, wenn der Betrag, dessen Zuspruch oder Aberkennung beantragt wird, 50 Euro nicht übersteigt.
+----
 
-## Besondere Bestimmungen für das Verfahren über Besitzstörungsklagen.
+----
+### § 518 ZPO # 
 
-### § 454 ZPO
+`§ 518 (1) ZPO.`  
+Im Verfahren über Klagen wegen Störung des Besitzstandes (§. 454) kann nur gegen Beschlüsse, durch welche die Einleitung oder Fortsetzung des Verfahrens über die Klage verweigert wird, und gegen den Endbeschluss Recurs ergriffen werden. Der § 461 Abs. 2 gilt sinngemäß.
 
-`§ 454 (1) ZPO.`  
-Im Verfahren über Klagen wegen Störung des Besitzstandes bei Sachen und bei Rechten, in welchen das Klagebegehren nur auf den Schutz und die Wiederherstellung des letzten Besitzstandes gerichtet ist und welche innerhalb dreißig Tagen anhängig zu machen sind, nachdem der Kläger von der Störung Kenntnis erlangte, haben die nachfolgenden besonderen Bestimmungen (§§. 455 bis 460) zu gelten.
+`§ 518 (2) ZPO.`  
+Beschwerden gegen alle anderen im Laufe des Verfahrens gefassten Beschlüsse, und insbesondere gegen die während des Verfahrens erlassenen einstweiligen Verfügungen sind mit dem gegen den Endbeschluss gerichteten Recurs zu verbinden.
 
-`§ 454 (2) ZPO.`  
-Schriftlich überreichte Klagen sind von außen als Besitzstörungsklagen zu bezeichnen.
+`§ 518 (3) ZPO.`  
+Übersteigt der Wert des Streitgegenstandes nicht den Betrag von 2 700 Euro, so kann der Endbeschluß nur aus den im § 501 angeführten Gründen angefochten werden.
+----
 
-### § 455 ZPO
-Bei der Anberaumung der Tagsatzungen und Fristen ist stets auf die Dringlichkeit der Erledigung besonderer Bedacht zu nehmen.
+----
+### § 519 ZPO
 
-### § 456 ZPO
-Auf Grund des in der Klage gestellten Begehrens, im Sinne der §§. 340 bis 342 a. b. G. B. ein Verbot zu erlassen, hat der Richter sogleich bei Erledigung der Klage ohne Einvernehmung des Gegners das Erforderliche zu verfügen.
+`§ 519 (1) ZPO.`  
+Gegen einen im Berufungsverfahren ergehenden Beschluß des Berufungsgerichts ist der Rekurs nur zulässig,  
+`§ 519 (1) Z 1 ZPO.`
+soweit das Berufungsgericht die Klage oder die Berufung ohne Sachentscheidung aus formellen Gründen zurückgewiesen hat;  
+`§ 519 (1) Z 2 ZPO.`
+soweit das Berufungsgericht das erstgerichtliche Urteil aufgehoben und dem Gericht erster Instanz eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen oder die Sache an ein anderes Berufungsgericht verwiesen und wenn es dabei ausgesprochen hat, daß der Rekurs an den Obersten Gerichtshof zulässig ist.
 
-### § 457 ZPO
+`§ 519 (2) ZPO.`  
+Das Berufungsgericht darf die Zulässigkeit des Rekurses nach Abs. 1 Z 2 nur aussprechen, wenn es die Voraussetzungen für gegeben erachtet, unter denen nach § 502 die Revision zulässig ist; dieser Ausspruch ist kurz zu begründen. Im Fall eines solchen Ausspruchs ist das Verfahren in erster Instanz erst nach Rechtskraft des Aufhebungsbeschlusses fortzusetzen. Über einen solchen Rekurs kann der Oberste Gerichtshof durch Urteil in der Sache selbst erkennen, wenn die Streitsache zur Entscheidung reif ist.
+----
 
-`§ 457 (1) ZPO.`  
-Die Verhandlung ist auf die Erörterung und den Beweis der Thatsache des letzten Besitzstandes und der erfolgten Störung zu beschränken, und es sind alle Erörterungen über das Recht zum Besitze, über Titel, Redlichkeit und Unredlichkeit des Besitzes oder über etwaige Entschädigungsansprüche auszuschließen.
-*(Anm.: Abs. 2 aufgehoben durch Art. IV Z 76, BGBl. Nr. 135/1986)*
-
-### § 458 ZPO
-Der Richter kann während der Verhandlung die Anwendung einer oder mehrerer der im Gesetze über das Executions- und Sicherungsverfahren zugelassenen einstweiligen Vorkehrungen anordnen, sofern dies zur Abwendung der dringenden Gefahr widerrechtlicher Beschädigung, zur Verhütung von Gewaltthätigkeiten oder zur Hintanhaltung eines unwiederbringlichen Schadens nöthig erscheint. Die Erlassung einer derartigen Verfügung kann von der Leistung einer angemessenen Sicherstellung abhängig gemacht werden.
-
-### § 459 ZPO
-Die Entscheidung hat sogleich nach geschlossener Verhandlung mittels Beschlusses (Endbeschluss) zu erfolgen und sich darauf zu beschränken, eine einstweilige Norm für den thatsächlichen Besitzstand aufzustellen oder provisorisch nach dem Gesetze (§§. 340 bis 343a. b. G. B.) eine Untersagung oder Sicherstellung auszusprechen. Die spätere gerichtliche Geltendmachung des Rechtes zum Besitze und der davon abhängigen Ansprüche wird dadurch nicht gehindert. In der Begründung des Beschlusses ist auch eine gedrängte Darstellung des Sachverhaltes zu geben. Die Frist zur Erfüllung der dem Verurtheilten auferlegten Verbindlichkeit hat der Richter nach den Umständen des einzelnen Falles zu bestimmen. Der § 417 a gilt sinngemäß.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.016](BG.ZPO.016.md))*
+`END-OF-DATA-SET`

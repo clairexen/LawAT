@@ -1,328 +1,436 @@
 # BG.StPO.026 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.026.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StPO.025](BG.StPO.025.md))*
+Der Nationalrat hat beschlossen:
 
-## 6. TEIL # Schlussbestimmungen
+----
+## 3. Abschnitt # Verfahren beim Verfall, beim erweiterten Verfall und bei der Einziehung
 
-### § 514 StPO # In-Kraft-Treten
+### § 443 StPO
 
-`§ 514 (1) StPO.`  
-Dieses Bundesgesetz tritt in der Fassung des Strafprozessreformgesetzes, BGBl. I Nr. 19/2004, und des Bundesgesetzes, BGBl. I Nr. 93/2007, am 1. Jänner 2008 in Kraft.
+`§ 443 (1) StPO.`  
+Über den Verfall, den erweiterten Verfall, die Einziehung und andere vermögensrechtliche Anordnungen (Haftung für Geldstrafen, Verfalls- und Wertersatz) ist im Strafurteil zu entscheiden, soweit in diesem Abschnitt nichts anderes bestimmt wird.
 
-`§ 514 (2) StPO.`  
-Die Bestimmungen der §§ 31 Abs. 3, 82 Abs. 3, 83 Abs. 2, 133 Abs. 2, 139 Abs. 2, 153 Abs. 4, 265 Abs. 1, 285e, 288 Abs. 2 Z 2a, 381 Abs. 3 Z 3, 390 Abs. 1, 409 Abs. 3, 470 Z 3, 475 Abs. 4 und 502 Abs. 1 in der Fassung des Bundesgesetzes, BGBl. I Nr. 109/2007 treten mit 1. Jänner 2008 in Kraft.
+`§ 443 (2) StPO.`  
+Wenn die Ergebnisse des Strafverfahrens weder an sich noch nach Durchführung von Beweisaufnahmen, die die Entscheidung in der Schuld- und Straffrage nicht erheblich verzögern, ausreichen, um über die im Abs. 1 angeführten vermögensrechtlichen Anordnungen verläßlich urteilen zu können, kann ihr Ausspruch durch Beschluß einer gesonderten Entscheidung (§§ 445, 445a) vorbehalten bleiben, außer welchem Falle eine solche Anordnung wegen der betroffenen Vermögenswerte oder Gegenstände nicht mehr zulässig ist.
 
-`§ 514 (3) StPO.`  
-Die Bestimmungen der §§ 19 Abs. 1 Z 3, 20a, 28a und 100a in der Fassung des Bundesgesetzes, BGBl. I Nr. 109/2007 treten mit 1. Jänner 2009 in Kraft, wobei die Regelungen über die Zuständigkeit der KStA für die Verfolgung von strafbaren Handlungen gemäß § 20a Abs. 1 gelten, die nach diesem Zeitpunkt begangen werden.
+`§ 443 (3) StPO.`  
+Die Entscheidung über vermögensrechtliche Anordnungen steht, außer im Fall des § 445a, dem Ausspruch über die Strafe gleich und kann zugunsten und zum Nachteil des Verurteilten oder des Haftungsbeteiligten (§§ 64, 444) mit Berufung angefochten werden.
+----
 
-`§ 514 (4) StPO.`  
-Die Bestimmungen der §§ 26 Abs. 2, 28a Abs. 1, 32 Abs. 3, 43 Abs. 2, 45 Abs. 1, 47 Abs. 3, 77 Abs. 2, 183 Abs. 2 und 3, 197, 221 Abs. 4, 410 Abs. 1, 435, 437, 439 Abs. 1, 441 Abs. 1, 485, 498 Abs. 2 und 516 in der Fassung des Bundesgesetzes, BGBl. I Nr. 40/2009 treten mit 1. Juni 2009, die Bestimmungen des § 128 Abs. 2 und 2a in der Fassung des Bundesgesetzes, BGBl. I Nr. 40/2009 jedoch erst mit 1. Oktober 2009 in Kraft.
+----
+### § 444 StPO
 
-`§ 514 (5) StPO.`  
-Die Bestimmungen der §§ 20a Abs. 2, 25 Abs. 3, 28, 29 Abs. 2, 31 Abs. 1, 2 und 5, 32 Abs. 1 und 3, 33 Abs. 1 Z 3, 38, 41 Abs. 1, 43 Abs. 2, 49 Z 10, 52 Abs. 1 und 3, 53 Abs. 1, 66 Abs. 1 Z 4 und 6 und Abs. 2, 75 Abs. 1, 82 Abs. 2, 105 Abs. 1, 111 Abs. 4, 112, 113 Abs. 3, 114 Abs. 1, 115 Abs. 2, 126 Abs. 3, 127 Abs. 2, 133 Abs. 1 und 2, 147 Abs. 1 Z 2, 176 Abs. 2, 182 Abs. 3a, 194 bis 196, 221 Abs. 1, 247a Abs. 1, 260 Abs. 3, 270 Abs. 4, 271 Abs. 1a, 343 Abs. 1, 357 Abs. 2, 377, 381 Abs. 3, 445a Abs. 2, 458 und 488 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 52/2009 treten mit 1. Juni 2009 in Kraft. Die Bestimmungen der §§ 83 Abs. 5 und 115a bis 115d in der Fassung des Bundesgesetzes BGBl. I Nr. 52/2009 treten jedoch mit 1. Jänner 2010 in Kraft. Die durch dieses Bundesgesetz geänderten Bestimmungen sind in Strafverfahren nicht anzuwenden, in denen vor seinem Inkrafttreten das Urteil gefällt worden ist. Nach Aufhebung eines solchen Urteils ist jedoch im Sinne der neuen Verfahrensbestimmungen vorzugehen. Die Bestimmungen der §§ 115a bis 115d in der Fassung dieses Bundesgesetzes sind auch auf Verfahren anzuwenden, die vor ihrem Inkrafttreten abgebrochen wurden. Die Bestimmungen der §§ 194 bis 196 in der Fassung dieses Bundesgesetzes sind auch auf vor dem Inkrafttreten eingebrachte Anträge auf Fortführung anzuwenden, soweit sie von der Oberstaatsanwaltschaft noch nicht dem Oberlandesgericht vorgelegt wurden. Die Oberstaatsanwaltschaft hat in diesen Fällen in sinngemäßer Anwendung der Bestimmung des § 195 Abs. 3 in der Fassung dieses Bundesgesetzes vorzugehen.
+`§ 444 (1) StPO.`  
+Die Hauptverhandlung und die Urteilsverkündung können in Abwesenheit des Haftungsbeteiligten (§ 64) vorgenommen werden, wenn dieser ordnungsgemäß zur Hauptverhandlung geladen wurde (§ 221 Abs. 2).
 
-`§ 514 (6) StPO.`  
-Die Bestimmungen der §§ 20a Abs. 1, 28a Abs. 1 und 3, 30 Abs. 1, 36 Abs. 2 und 100a Abs. 2 in der Fassung des Bundesgesetzes, BGBl. I Nr. 98/2009 treten mit 1. September 2009 in Kraft. Die Bestimmungen der §§ 20a Abs. 2, 282 Abs. 1 und 465 Abs. 1 in der Fassung dieses Bundesgesetzes treten jedoch erst mit 1. Jänner 2010 in Kraft. Soweit die KStA nicht gemäß § 28a Abs. 2 vorgeht, bleibt sie für alle Verfahren zuständig, in denen eine Zuständigkeit auf Grund der Bestimmungen der §§ 20a und 28a in der Fassung des Bundesgesetzes, BGBl. I Nr. 109/2007 begründet war, sofern diese mit Inkrafttreten dieses Bundesgesetzes noch nicht beendet wurden. Nach Aufhebung der verfahrensbeendenden Entscheidung ist jedoch nach den neuen Bestimmungen vorzugehen.
+`§ 444 (2) StPO.`  
+Hat ein Haftungsbeteiligter sein Recht nicht vor Rechtskraft der Entscheidung über den Verfall, den erweiterten Verfall oder die Einziehung geltend gemacht, so kann er seine Ansprüche auf den Gegenstand oder Vermögenswert oder dessen Verkaufs- oder Verwertungserlös (§ 408) binnen dreißig Jahren nach der Entscheidung gegen den Bund im Zivilrechtsweg geltend machen.
+----
 
-`§ 514 (7) StPO.`  
-Die Bestimmungen der §§ 65, 69 und 156 in der Fassung des Bundesgesetzes, BGBl. I Nr. 135/2009 treten mit 1. Jänner 2010 in Kraft, sie sind in Strafverfahren nicht anzuwenden, in denen vor ihrem Inkrafttreten das Urteil in erster Instanz gefällt worden ist. Nach Aufhebung eines solchen Urteils ist jedoch im Sinne der neuen Verfahrensbestimmungen vorzugehen.
+----
+### § 445 StPO
 
-`§ 514 (7a) StPO.`  
-Die Regelungen über die Zuständigkeit der KStA für die Verfolgung von strafbaren Handlungen gemäß § 20a Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 98/2009 gelten für strafbare Handlungen, die nach dem 1. September 2009 begangen wurden. Für vor diesem Zeitpunkt begangene strafbare Handlungen besteht eine Zuständigkeit der KStA nur nach Maßgabe des Abs. 3. Abweichend von Abs. 6 kann die KStA Verfahren wegen strafbarer Handlungen, die vor dem 1. Jänner 2009 begangen wurden und die ihr nach dem 1. September 2009 abgetreten wurden, der zuständigen Staatsanwaltschaft abtreten.
+`§ 445 (1) StPO.`  
+Liegen hinreichende Gründe für die Annahme vor, daß die Voraussetzungen des Verfalls (§ 20 StGB), des erweiterten Verfalls (§ 20b StGB) oder der Einziehung (§ 26 StGB) gegeben seien, ohne daß darüber in einem Strafverfahren oder in einem auf Unterbringung in einer der in den §§ 21 bis 23 StGB genannten Anstalten gerichteten Verfahren entschieden werden kann, so hat der Ankläger einen selbständigen Antrag auf Erlassung einer solchen vermögensrechtlichen Anordnung zu stellen.
 
-`§ 514 (8) StPO.`  
-Die Bestimmungen der §§ 26 Abs. 3, 28a Abs. 1 und 70 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 142/2009, treten mit 1. Jänner 2010 in Kraft.
+`§ 445 (2) StPO.`  
+Über einen Antrag auf Verfall oder auf erweiterten Verfall hat das Gericht, welches für die Verhandlung und Urteilsfällung wegen jener Tat, die die Anordnung begründen soll, zuständig war oder wäre, mangels einer solchen Zuständigkeit aber das Landesgericht, in dessen Sprengel sich der Vermögenswert oder Gegenstand befindet, in einem selbständigen Verfahren nach öffentlicher mündlicher Verhandlung durch Urteil zu entscheiden. Das Landesgericht entscheidet durch Einzelrichter. Hat ein Schöffen- oder Geschworenengericht über die Tat geurteilt, die die Anordnung begründen soll, oder die Entscheidung vorbehalten (§ 443 Abs. 2), so ist dessen Vorsitzender als Einzelrichter zuständig.
 
-`§ 514 (9) StPO.`  
-Die Bestimmung des § 116 in der Fassung des Bundesgesetzes, BGBl. I Nr. 38/2010, tritt mit 1. Juli 2010 in Kraft.
+`§ 445 (2a) StPO.`  
+Die vorstehenden Absätze gelten sinngemäß auch für eine Anordnung der Konfiskation (§ 19a StGB), wenn das Verfahren wegen Straftaten, die mit dem Vorsatz der unrechtmäßigen Bereicherung oder der Erlangung eines Vorteils begangen wurden, wegen Krankheit oder Flucht nach § 197 abgebrochen wurde, jedoch auf Grund ausreichend geklärten Sachverhalts nahe liegt, dass im Fall einer Verurteilung eine Konfiskation (§ 19a StGB) ausgesprochen würde und der Angeklagte gemäß §§ 164 oder 165 zum Anklagevorwurf und zu den Voraussetzungen der Anordnung der Konfiskation vernommen wurde.
 
-`§ 514 (10) StPO.`  
-Die Bestimmungen der §§ 153 Abs. 3 und 4, 172 Abs. 1 und 2, 172a, 173a, 174 Abs. 3 Z 8, 176 Abs. 1 Z 2 und 266 in der Fassung des Bundesgesetzes, BGBl. I Nr. 64/2010, treten mit 1. September 2010 in Kraft.
+`§ 445 (3) StPO.`  
+Über einen Antrag auf Einziehung hat das Bezirksgericht des Tatortes, ist dieser aber nicht bekannt oder im Ausland gelegen, das Bezirksgericht, in dessen Sprengel sich der Gegenstand befindet, in einem selbständigen Verfahren nach öffentlicher mündlicher Verhandlung in der Regel (§ 445a) durch Urteil zu entscheiden. Die Bestimmungen über die Hauptverhandlung im Verfahren vor den Bezirksgerichten sowie § 444 sind dem Sinne nach anzuwenden.
 
-`§ 514 (11) StPO.`  
-§§ 23 Abs. 1a, 47a, 64 Abs. 1, 110 Abs. 1 Z 3, 115 Abs. 1 Z 3 und Abs. 5, 115a Abs. 1 Z 1, 115d Abs. 2, 116 Abs. 2 Z 2, 132, 146, 147 Abs. 5, 169 Abs. 1 und 1a, 194, 195 Abs. 1, 2 und Abs. 2a, 373b, 408 Abs. 1, 409 Abs. 1, 410 Abs. 1 und Abs. 3, 443 Abs. 1, 444 Abs. 2 und 445 Abs. 1 und Abs. 2 in der Fassung BGBl. I Nr. 108/2010 treten mit 1. Jänner 2011 in Kraft.
+`§ 445 (4) StPO.`  
+Das Urteil kann in sinngemäßer Anwendung der §§ 463 bis 468 (§ 489) zugunsten und zum Nachteil des Betroffenen mit Berufung angefochten werden; § 444 Abs. 1 letzter Satz gilt entsprechend.
+----
 
-`§ 514 (12) StPO.`  
-§§ 199, 209a und 209b in der Fassung des Bundesgesetzes BGBl. I Nr. 108/2010, treten mit 1. Jänner 2011 in Kraft und mit Ablauf des 31. Dezember 2016 wieder außer Kraft.
+----
+### § 445a StPO
 
-`§ 514 (13) StPO.`  
-§§ 19 Abs. 1 Z 3, 20a, 20b, § 39 Abs. 1a, 26 Abs. 3, 28a, 32a, 100a und 516 Abs. 7 und 8 in der Fassung BGBl. I Nr. 108/2010 treten mit 1. September 2011 in Kraft.
+`§ 445a (1) StPO.`  
+Über einen Antrag auf Einziehung in einem selbständigen Verfahren kann das Bezirksgericht nach Anhörung des Anklägers und der Haftungsbeteiligten (§ 444) durch Beschluß entscheiden, wenn der Wert des von der Einziehung bedrohten Gegenstandes 1 000 Euro nicht übersteigt oder es sich um einen Gegenstand handelt, dessen Besitz allgemein verboten ist. Sofern der Aufenthaltsort des Haftungsbeteiligten im Ausland liegt oder ohne besonderen Verfahrensaufwand nicht feststellbar ist, kann von dessen Anhörung abgesehen werden.
 
-`§ 514 (14) StPO.`  
-§§ 31 Abs. 5 und 6, 33 Abs. 2, 83 Abs. 1 und 2, 84 Abs. 2, 88 Abs. 1, 89 Abs. 2 bis Abs. 2b, Abs. 4 und Abs. 5, 153 Abs. 4, 176 Abs. 3, 187 Abs. 3, 196 Abs. 2 und 285 Abs. 3 in der Fassung des Budgetbegleitgesetzes 2011, BGBl. I Nr. 111/2010, treten mit 1. Jänner 2011 in Kraft. §§ 126 Abs. 2, 2a bis 2c, 381 Abs. 1 Z 2a und Abs. 6 treten mit 1. Juli 2011 in Kraft. § 31 Abs. 5 und 6 in der Fassung des genannten Bundesgesetzes ist auf Verfahren anzuwenden, die nach Inkrafttreten dem Gericht zur Entscheidung vorgelegt wurden. § 196 Abs. 2 in der Fassung des Budgetbegleitgesetzes 2011 ist auf Verfahren anzuwenden, in denen der Antrag auf Fortführung nach Inkrafttreten bei der Staatsanwaltschaft eingebracht wurde.
+`§ 445a (2) StPO.`  
+In den Fällen, in denen das Verfahren durch die Staatsanwaltschaft nach den Bestimmungen des 10. oder 11. Hauptstücks, anderen auf sie verweisenden Vorschriften oder gemäß § 35 SMG beendet wird, hat die Staatsanwaltschaft nach Durchführung des in Abs. 1 vorgesehenen Verfahrens die Einziehung anzuordnen und das in § 408 Abs. 2 vorgesehene Verfahren durchzuführen, soweit nicht ein Haftungsbeteiligter die Entscheidung des Gerichts verlangt. § 444 Abs. 2 gilt sinngemäß.
+----
 
-`§ 514 (15) StPO.`  
-§§ 76a, 134 Z 2a und 5, 135, 137 Abs. 3, 138 Abs. 1, Abs. 2 und Abs. 5, 140 Abs. 1 Z 4, 144 Abs. 3, 145 Abs. 3, 147 Abs. 1 und 3 und § 381 Abs. 1 Z 5 in der Fassung des Bundesgesetzes, BGBl. I Nr. 33/2011 treten mit 1. April 2012 in Kraft.
+----
+### § 446 StPO
 
-`§ 514 (16) StPO.`  
-§ 446a in der Fassung des Bundesgesetzes, BGBl. I Nr. 43/2011 tritt mit 1. Oktober 2011 in Kraft.
+`§ 446 StPO.`  
+Ergeben sich die Voraussetzungen für das selbständige Verfahren erst in der Hauptverhandlung, so kann die Entscheidung auch in einem Urteil ergehen, in dem der Angeklagte freigesprochen oder der Antrag auf Anstaltsunterbringung abgewiesen wird.
+----
 
-`§ 514 (17) StPO.`  
-§§ 19 Abs. 1 Z 3, 20a Abs. 1 Z 5 und 6 und 20b Abs. 3 in der Fassung BGBl. I Nr. 67/2011 treten mit 1. September 2011 in Kraft, § 20a Abs. 1 Z 2, 3, 4 und 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 108/2010 treten mit 1. September 2012 in Kraft. § 20a Abs. 1 Z 2 bis 13 in der Fassung des Bundesgesetzes BGBl. I Nr. 98/2009 tritt mit Ablauf des 31. August 2011 außer Kraft.
+----
+## 4. Abschnitt # Verfahren bei der Ausschließung vom Wahlrecht
 
-`§ 514 (18) StPO.`  
-Die §§ 30 Abs. 1 Z 5a, 5b, 6a, 8a und 8b und 123 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 103/2011 treten mit 1. Jänner 2012 in Kraft.
+### § 446a StPO
 
-`§ 514 (18a) StPO.`  
-§§ 20a Abs. 1, 31 Abs. 6, 112, 113 Abs. 2, 116 Abs. 6, 176 Abs. 3, 189 Abs. 2, 194 Abs. 3, 196 Abs. 1 und 3, 204 Abs. 2, 357 Abs. 2, 480 und 490 in der Fassung des Bundesgesetzes BGBl. I Nr. 29/2012, treten mit 1. Juni 2012 in Kraft.
+`§ 446a (1) StPO.`  
+Über die Ausschließung vom Wahlrecht (§ 22 der Nationalrats-Wahlordnung 1992 – NRWO, BGBl. Nr. 471 und § 3 des Europa-Wählerevidenzgesetzes – EuWEG, BGBl. Nr. 118/1996) ist im Strafurteil zu entscheiden. Die Entscheidung steht dem Ausspruch über die Strafe gleich und kann zugunsten und zum Nachteil des Verurteilten mit Berufung angefochten werden.
 
-`§ 514 (19) StPO.`  
-§§ 70, 115e, 116 Abs. 1, 175 Abs. 4 und 409b in der Fassung des 2. Stabilitätsgesetzes 2012, BGBl. I Nr. 35/2012, treten mit 1. September 2012 in Kraft.
+`§ 446a (2) StPO.`  
+Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs. 1 gefällt worden wäre, so ist nach § 410 vorzugehen.
+----
 
-`§ 514 (20) StPO.`  
-§ 511 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 50/2012 tritt mit 1. September 2012 in Kraft.
+----
+## 22. Hauptstück # Verfahren vor dem Bezirksgericht
 
-`§ 514 (21) StPO.`  
-§§ 20a Abs. 1 Z 5 und 20b Abs. 3 in der Fassung des Bundesgesetzes, BGBl. I Nr. 61/2012, treten mit 1. Jänner 2013 in Kraft.
+### § 447 StPO
 
-`§ 514 (22) StPO.`  
-§§ 183 Abs. 3 und 4 und 185 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr.2/2013 treten mit 1. Jänner 2013 in Kraft.
+`§ 447 StPO.`  
+Für das Hauptverfahren vor dem Bezirksgericht gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird.
+----
 
-`§ 514 (23) StPO.`  
-§ 66 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 116/2013 tritt mit 1. Jänner 2014 in Kraft.
+----
+## 1. Abschnitt # Hauptverfahren
 
-`§ 514 (24) StPO.`  
-Die §§ 18, 20a Abs. 1 Z 6, 50, 52 Abs. 1, 56, 66 Abs. 1 Z 5, 106 Abs. 1, Abs. 3 und Abs. 5, 107 Abs. 1, 126 Abs. 2a und 2b, 164 Abs. 1, 171 Abs. 3 und Abs. 4, 198 Abs. 3, 381 Abs. 6 und § 393 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 195/2013 treten mit 1. Jänner 2014 in Kraft.
+### § 450 StPO
 
-`§ 514 (25) StPO.`  
-§ 76 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2014 tritt mit 1. November 2014, die §§ 1 Abs. 2 und 3, 2 Abs. 1, 26 Abs. 2, 31 Abs. 1, 32 Abs. 1 und 1a, 37 Abs. 2, 41 Abs. 1 bis 3, 42 Abs. 2 und 3, 48 Abs. 1 und 2, 91 Abs. 2, 100 Abs. 3a, 104 Abs. 1, 108 Abs. 2, 108a, 110 Abs. 1 und 3, 115 Abs. 1, 126 Abs. 3, 4 und 5, 175 Abs. 5, 178 Abs. 3, 194 Abs. 2, 204 Abs. 1 und 3, 205 Abs. 2 und 5, 222 Abs. 3, 232 Abs. 2, 249 Abs. 3, 266 Abs. 1, 393 Abs. 1a, 393a Abs. 1, 395 Abs. 5, 438, 451 Abs. 1, 489 Abs. 1 und 491 in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2014 treten mit 1. Jänner 2015 in Kraft. § 75 Abs. 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2014 tritt mit 31. Oktober 2014 außer Kraft.
+`§ 450 StPO.`  
+Ist das Bezirksgericht der Ansicht, dass das Landesgericht zuständig sei, so hat es vor Anordnung der Hauptverhandlung seine sachliche Unzuständigkeit mit Beschluss auszusprechen. Sobald die Entscheidung rechtswirksam geworden ist, hat der Ankläger die für die Fortführung des Verfahrens erforderlichen Anträge zu stellen.
+----
 
-`§ 514 (26) StPO.`  
-§§ 285j, 294 Abs. 4, 467 Abs. 5 und 470 Z 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 92/2014 treten mit 1. Jänner 2015 in Kraft.
+----
+### § 451 StPO
 
-`§ 514 (27) StPO.`  
-§ 155 Abs. 1 Z 3 und § 157 Abs. 1 Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 101/2014 treten mit 1. Jänner 2015 in Kraft.
+`§ 451 (1) StPO.`  
+Der Strafantrag (§ 210 Abs. 1) hat die im § 211 Abs. 1 angeführten Angaben zu enthalten. Im Antrag sind ferner die Beweismittel anzugeben, deren sich der Ankläger bedienen will. Der Antrag ist in so vielen Ausfertigungen zu überreichen, daß jedem der Angeklagten eine Ausfertigung zugestellt und eine bei den Akten zurückbehalten werden kann; er ist dem Angeklagten unverzüglich zuzustellen.
 
-`§ 514 (28) StPO.`  
-§ 32 in der Fassung des Bundesgesetzes BGBl. I Nr. 106/2014 tritt mit 1. Jänner 2015 in Kraft.
+`§ 451 (2) StPO.`  
+Ist der Richter der Überzeugung, daß die dem Antrag zugrunde liegende Tat vom Gesetz nicht mit Strafe bedroht ist oder daß Umstände vorliegen, durch die die Strafbarkeit der Tat aufgehoben oder die Verfolgung wegen der Tat ausgeschlossen ist, so hat er das Verfahren mit Beschluß einzustellen.
 
-`§ 514 (29) StPO.`  
-§ 183 Abs. 2 und Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 13/2015 treten mit 1. Juli 2015 in Kraft.
+`§ 451 (3) StPO.`  
+Wird dem Richter zugleich der Angeklagte vorgeführt und gesteht er die ihm zur Last gelegte Tat oder erscheinen der Ankläger und der Angeklagte zugleich vor dem Richter, und sind alle Beweismittel für die Anklage und Verteidigung zur Hand, so kann der Richter mit Zustimmung des Angeklagten sogleich die Verhandlung vornehmen (§ 456) und das Urteil fällen.
 
-`§ 514 (30) StPO.`  
-§ 20a Abs. 1 Z 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 34/2015 tritt mit 1. Jänner 2016 in Kraft.
-
-`§ 514 (31) StPO.`  
-§ 126 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 112/2015 tritt mit dem der Kundmachung folgenden Tag, §§ 20a Abs. 1 und Abs. 3, 30 Abs. 1, 31 Abs. 2 und Abs. 3, 32 Abs. 1a und Abs. 1b, 61 Abs. 1, 155 Abs. 1, 156 Abs. 1, 161 Abs. 1, 172a Abs. 3, 192 Abs. 1, 198 Abs. 2 und 3, 204 Abs. 2 und 3, 206 Abs. 1, 230 Abs. 2, 355, 409a Abs. 2, 445 Abs. 2a, 489 Abs. 1, 492 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 112/2015 treten mit 1. Jänner 2016 in Kraft.
+`§ 451 (4) StPO.`  
+*(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*
+----
 
-`§ 514 (32) StPO.`  
-§§ 5 Abs. 3, 10 Abs. 2, 20a Abs. 1 Z 5, 25 Abs. 7, 28, 28a, 31 Abs. 3 Z 6a, Abs. 4 Z 2, 56 Abs. 3, 65 Z 1 lit. a und b, 66 Abs. 1 Z 1a, 1b und 5, Abs. 3 und 4, 66a, 70, 80 Abs. 1, 128 Abs. 1, 133 Abs. 5, 137 Abs. 3, 138 Abs. 2 und 3, 140 Abs. 1 Z 4, 141 Abs. 4, 142 Abs. 5, 147 Abs. 1, 155 Abs. 1 Z 3, 156 Abs. 1 Z 2, 165 Abs. 3 bis 5a, 172 Abs. 4, 177 Abs. 5, 181a, 188 Abs. 2, 195 Abs. 2, 196 Abs. 2, 197 Abs. 2b, 236 Abs. 1, 275, 347, 409 Abs. 1, 427 Abs. 2, 445 Abs. 2a und 489 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 26/2016 treten mit 1. Juni 2016 in Kraft.
+----
+### § 455 StPO
 
-`§ 514 (33) StPO.`  
-§§ 109 Z 3 und 4, 116 und 409 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 26/2016 treten mit 1. Oktober 2016 in Kraft. Für Auskünfte über eine vor dem 1. März 2015 bestehende Geschäftsverbindung mit einem Kredit- oder Finanzinstitut gelten weiterhin die §§ 109 Z 3 lit. a und 116 in der bis zum Ablauf des 30. September 2016 geltenden Fassung.
+`§ 455 (1) StPO.`  
+§ 221 ist mit der Maßgabe anzuwenden, dass an die Stelle einer Frist von acht Tagen eine solche von drei Tagen tritt, es sei denn, dass der Angeklagte auf eine Vorbereitungsfrist verzichtet.
 
-`§ 514 (34) StPO.`  
-§§ 50 Abs. 3, 59 Abs. 1 und 2, 61 Abs. 1 Z 5a, 157 Abs. 2, 163 Abs. 4, 164 Abs. 2, 171 Abs. 4 Z 2 lit. a und c und 249 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 26/2016 treten mit 1. November 2016 in Kraft.
+`§ 455 (2) StPO.`  
+Ist der Angeklagte nicht verhaftet, so kann er sich, wenn er nicht persönlich erscheinen will, bei der Verhandlung durch einen Verteidiger als Machthaber vertreten lassen. Dem Gericht steht es jedoch auch in diesem Fall zu, den Angeklagten unter Androhung der vorgesehenen Zwangsfolgen zum persönlichen Erscheinen aufzufordern.
 
-`§ 514 (35) StPO.`  
-§§ 20a Abs. 1 Z 6 und Abs. 4, 25 Abs. 3 und 6, 25a, 31 Abs. 6 Z 3, 35 Abs. 1, 37 Abs. 3, 39 Abs. 1a, 59, 174 Abs. 1 und Abs. 4 Z 2, 175 Abs. 5, 189 Abs. 1, 198 Abs. 2 Z 3, 199, 208 Abs. 3, 209a, 209b Abs. 1 und 2, 212, 215 Abs. 3, 287 Abs. 1, 294 Abs. 5, 367 Abs. 1, 381 Abs. 1 Z 6, 471 und 485 Abs. 1 Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 121/2016 treten mit 1. Jänner 2017 in Kraft. §§ 212, 215 Abs. 3 und 485 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 121/2016 sind auf Verfahren anzuwenden, in denen nach dem Inkrafttreten Anklage eingebracht wurde. § 37 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 121/2016 ist auf Verfahren anzuwenden, in denen nach dem Inkrafttreten eine Anklage rechtswirksam wird, die eine Verfahrensverbindung nach dieser Bestimmung erfordert. §§ 199, 209a und 209b in der Fassung des Bundesgesetzes BGBl. I Nr. 121/2016 sind auf Verfahren anzuwenden, in denen die Offenbarung der Tatsachen nach dem 31. Dezember 2016 erfolgt ist; für vor diesem Zeitpunkt offenbarte Tatsachen gelten weiterhin die §§ 199, 209a und 209b in der Fassung des Bundesgesetzes, BGBl. I Nr. 108/2010. § 31 Abs. 6 Z 3 und § 199 in der Fassung des Bundesgesetzes BGBl. I Nr. 121/2016 treten mit Ablauf des 31. Dezember 2028 außer Kraft.
+`§ 455 (3) StPO.`  
+Lässt sich der Angeklagte durch einen Machthaber vertreten, so kommt diesem in der Hauptverhandlung die Stellung des Angeklagten zu.
+----
 
-`§ 514 (36) StPO.`  
-§§ 30 Abs. 1 und 31 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 117/2017 treten mit 1. September 2017 in Kraft.
+----
+### § 456 StPO
 
-`§ 514 (37) StPO.`  
-Für das Inkrafttreten der durch das Bundesgesetz BGBl. I Nr. 27/2018 geänderten oder eingefügten Bestimmungen und das Außer-Kraft-Treten der durch dieses Bundesgesetz entfallenen Bestimmungen gilt Folgendes:  
-`§ 514 (37) Z 1 StPO.`
-Der Eintrag des Titels von § 76a und von § 135 im Inhaltsverzeichnis sowie § 67 Abs. 7, § 94, § 116 Abs. 6, § 134 Z 2a, 2b und 3, die Überschrift von § 135, § 135 Abs. 1, Abs. 2a, 2b und 3 Z 3, § 136 Abs. 1 Z 3, Abs. 2 und 4, § 137 Abs. 3, § 138 Abs. 2, 3 und 5, § 147 Abs. 1 Z 3, § 147 Abs. 1 Z 5, § 221 Abs. 1, § 381 Abs. 1 Z 5, § 430 Abs. 5 und § 516a Abs. 7 und 8 treten mit 1. Juni 2018 in Kraft; gleichzeitig entfällt § 137 Abs. 2.  
-`§ 514 (37) Z 2 StPO.`
-Soweit nicht in Z 3 Abweichendes bestimmt ist, treten die Überschrift des 5. Abschnitts des 8. Hauptstücks im Inhaltsverzeichnis, die Überschrift des 5. Abschnitts des 8. Hauptstücks sowie § 134 Z 5, § 137 Abs. 1, § 138 Abs. 1, § 140 Abs. 1 Z 2 und 4, § 144 Abs. 3, § 145 Abs. 3 und § 147 Abs. 2 mit 1. Juni 2018 in Kraft.  
-`§ 514 (37) Z 3 StPO.`
-Folgende Bestimmungen und Wendungen treten mit 1. April 2020 in Kraft und mit Ablauf des 31. März 2025 wieder außer Kraft:  
-`§ 514 (37) Z 3 lit. a StPO.`
-in der Überschrift des 5. Abschnitts des 8. Hauptstücks im Inhaltsverzeichnis und in der Überschrift des 5. Abschnitts des 8. Hauptstücks die Wendung „, verschlüsselter Nachrichten“,  
-`§ 514 (37) Z 3 lit. b StPO.`
-in § 134 Z 5 die Wendung, „die verschlüsselt gesendeten, übermittelten oder empfangenen Nachrichten und Informationen im Sinne von Z 3 sowie damit in Zusammenhang stehende Daten im Sinn des § 76a und des § 92 Abs. 3 Z 4 und 4a TKG (Z 3a)“,  
-`§ 514 (37) Z 3 lit. c StPO.`
-in § 137 Abs. 1 die Wendung „§ 135a Abs. 3 oder“,  
-`§ 514 (37) Z 3 lit. d StPO.`
-in § 138 Abs. 1, § 140 Z 2, § 144 Abs. 3 und § 145 Abs. 3 die Wendung „, § 135a“,  
-`§ 514 (37) Z 3 lit. e StPO.`
-in § 138 Abs. 1 Z 1 die Wendung „des Inhabers oder Verfügungsbefugten des Computersystems, in dem ein Programm zur Überwachung verschlüsselter Nachrichten installiert werden soll,“,  
-`§ 514 (37) Z 3 lit. f StPO.`
-in § 138 Abs. 1 Z 2 die Wendung „oder das Computersystem, in dem ein Programm zur Überwachung verschlüsselter Nachrichten installiert werden soll“,  
-`§ 514 (37) Z 3 lit. g StPO.`
-in § 140 Abs. 1 Z 4 die Wendung „und § 135a“, und  
-`§ 514 (37) Z 3 lit. h StPO.`
-in § 147 Abs. 2 die Wendung „oder Überwachung verschlüsselter Nachrichten nach § 135a“.  
-`§ 514 (37) Z 4 StPO.`
-Der Eintrag des Titels von § 135a im Inhaltsverzeichnis sowie § 134 Z 3a, § 135a, § 145 Abs. 4, § 147 Abs. 1 Z 2a und Abs. 3a sowie § 148 treten mit 1. April 2020 in Kraft und mit Ablauf des 31. März 2025 wieder außer Kraft.  
-`§ 514 (37) Z 5 StPO.`
-§ 209b Abs. 1 tritt mit 1. Juni 2018 in Kraft und mit Ablauf des 31. Dezember 2021 wieder außer Kraft.
+`§ 456 StPO.`  
+In Privatanklagesachen ist die Öffentlichkeit auch auszuschließen, wenn der Ankläger einem darauf gerichteten Antrag des Angeklagten nicht entgegen tritt.
+----
 
-`§ 514 (38) StPO.`  
-§ 20a Abs. 3 und § 99 Abs. 5, in der Fassung des BGBl. I Nr. 28/2018 treten mit 1. Juli 2018 in Kraft.
+----
+### § 457 StPO
 
-`§ 514 (39) StPO.`  
-Die Einträge zu den §§ 74 und 75 im Inhaltsverzeichnis, § 54, die Überschrift zu § 74, § 74 Abs. 1 und 2, die Überschrift zu § 75, § 75 Abs. 1, 3 und 4, § 76 Abs. 4, § 77 Abs. 2, § 117 Z 1, § 141 Abs. 1 und 4, § 142 Abs. 2 Z 2 und 3 sowie § 143 Abs. 1 und 2 in der Fassung des Materien-Datenschutz-Anpassungsgesetzes 2018, BGBl. I Nr. 32/2018, treten mit 25. Mai 2018 in Kraft.
+`§ 457 StPO.`  
+Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr.
+----
 
-`§ 514 (40) StPO.`  
-Der Eintrag des Titels von § 66a im Inhaltsverzeichnis sowie § 56 Abs. 3, § 66 Abs. 2 § 70 Abs. 1, § 115 Abs. 1 Z 3, § 155 Abs. 1 Z 3 und § 516a Abs. 8 bis 10 treten mit 1. November 2018 in Kraft.
+----
+### § 458 StPO
 
-`§ 514 (41) StPO.`  
-§ 20 Abs. 1 Z 1 und 6 *(Anm.: richtig: § 20a Abs. 1 Z 1 und 6)* in der Fassung des Bundesgesetzes BGBl. I Nr. 111/2019 treten mit 28.12.2019 in Kraft.
+`§ 458 StPO.`  
+Der Richter ist berechtigt, nach Schluss der Verhandlung die Fällung des Urteils bis auf den folgenden Tag auszusetzen. Im Übrigen gelten jedoch auch für die Verhandlung vor dem Bezirksgericht die Bestimmungen des 14. Hauptstückes.
+----
 
-`§ 514 (42) StPO.`  
-§ 174 Abs. 1, § 176 Abs. 3 und § 239 treten mit dem der Kundmachung des bezeichneten Bundesgesetzes folgenden Tag in Kraft.
+----
+## 2. Abschnitt
 
-`§ 514 (43) StPO.`  
-§ 174 Abs. 1, § 239, § 286 Abs. 1a und § 471 treten mit dem der Kundmachung des bezeichneten Bundesgesetzes folgenden Tag in Kraft.
+### § 463 StPO # Rechtsmittel gegen Urteile der Bezirksgerichte
 
-`§ 514 (44) StPO.`  
-§ 53 Abs. 2, § 58 Abs. 4, § 59 Abs. 5, § 61 Abs. 2, § 62 Abs. 2a, § 155 Abs. 1, § 160 Abs. 3 und § 171 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I. Nr. 20/2020 treten mit 1. Juni 2020 in Kraft.
+`§ 463 StPO.`  
+Gegen Urteile der Bezirksgerichte, die gegen einen Anwesenden ergangen sind, ist nur das Rechtsmittel der Berufung zulässig, und zwar an das Landesgericht, in dessen Sprengel das Bezirksgericht liegt.
+----
 
-`§ 514 (45) StPO.`  
-§ 294 Abs. 5 und § 296 Abs. 3 in der Fassung BGBl. I Nr. 24/2020 treten mit dem der Kundmachung folgenden Tag in Kraft.
+----
+### § 464 StPO
 
-`§ 514 (46) StPO.`  
-Der Eintrag des Titels von § 66b im Inhaltsverzeichnis sowie § 30 Abs. 1 Z 3a, § 31 Abs. 1, § 49, § 66b, § 67 Abs. 7, § 70 Abs. 2, § 71, § 76a Abs. 1, § 381 Abs. 1 Z 9, § 390 Abs. 1a, § 393 Abs. 4a , § 395 Abs. 1 und § 516a Abs. 12 in der Fassung des Bundesgesetzblattes BGBl. I Nr. 148/2020 treten mit 1. Jänner 2021 in Kraft; gleichzeitig entfallen § 66 Abs. 2 und 4. § 390 Abs. 1a und § 393 Abs. 4a in der Fassung des Bundesgesetzblattes BGBl. I Nr. 148/2020 treten mit 31. Dezember 2026 wieder außer Kraft.
+`§ 464 StPO.`  
+Die Berufung kann ergriffen werden:  
+`§ 464 Z 1 StPO.`
+wegen vorliegender Nichtigkeitsgründe;  
+`§ 464 Z 2 StPO.`
+wegen des Ausspruches über die Schuld und die Strafe, wegen des Strafausspruches jedoch nur unter den im § 283 bezeichneten Voraussetzungen;  
+`§ 464 Z 3 StPO.`
+wegen des Ausspruches über die privatrechtlichen Ansprüche.
+----
 
-`§ 514 (47) StPO.`  
-§ 112a in der Fassung des Bundesgesetzes BGBl. I Nr. 148/2021 tritt am 1. Dezember 2021 in Kraft.
+----
+### § 465 StPO
 
-`§ 514 (48) StPO.`  
-§ 30 Abs. 1 Z 9b und 9c, § 31 Abs. 4 Z 2, § 100 Abs. 2 Z 1 und § 496 in der Fassung des Bundesgesetzes BGBl. I Nr. 159/2021 treten mit 1. September 2021 in Kraft.
+`§ 465 (1) StPO.`  
+Zugunsten des Angeklagten kann die Berufung sowohl von ihm selbst als auch von seinem gesetzlichen Vertreter ergriffen werden. Die Staatsanwaltschaft kann stets auch gegen den Willen des Angeklagten zu dessen Gunsten die Berufung ergreifen.
 
-`§ 514 (49) StPO.`  
-§ 76a, 134 Z 2, 2a, 2b, 3 und 5 und § 138 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 190/2021 treten mit dem auf den Tag der Kundmachung folgenden Monatsersten in Kraft.
+`§ 465 (2) StPO.`  
+Erben des Angeklagten, die nicht in einem der erwähnten Verhältnisse zum Angeklagten standen, können die Berufung nur wegen der im Urteil allenfalls enthaltenen Entscheidung über privatrechtliche Ansprüche ergreifen oder fortsetzen.
 
-`§ 514 (50) StPO.`  
-§ 209a Abs. 1 und § 209b in der Fassung des Bundesgesetzes BGBl. I Nr. 243/2021 treten mit 1. Jänner 2022 in Kraft. § 209b in der Fassung des genannten Bundesgesetzes ist auf Verfahren anzuwenden, in denen die Verständigung des Bundeskartellanwalts gemäß § 209b Abs. 1 nach dem 31. Dezember 2021 bei der Staatsanwaltschaft eingelangt ist; für andere Verfahren gilt weiterhin § 209b in der Fassung des Bundesgesetzes BGBl. I Nr. 27/2018. § 209a und § 209b in der Fassung des Bundesgesetzes BGBl. I Nr. 243/2021 treten mit Ablauf des 31. Dezember 2028 außer Kraft.
+`§ 465 (3) StPO.`  
+Zum Nachteile des Angeklagten kann die Berufung nur vom Ankläger und vom Privatbeteiligten, von diesem aber nur wegen Nichtigkeit unter den in § 282 Abs. 2 geregelten Voraussetzungen und wegen seiner privatrechtlichen Ansprüche ergriffen werden.
+----
 
-`§ 514 (51) StPO.`  
-Die Einträge im Inhaltsverzeichnis zum 21. Hauptstück, § 48 Abs. 2, § 61 Abs. 1 Z 2, § 66a Abs. 2 Z 5, § 281 Abs. 1 Z 3 und 5 *(Anm.: offensichtlich gemeint Z 3 und Z 8)*, § 345 Abs. 1 Z 4, die Abschnittsbezeichnung und Abschnittsüberschrift zum 1. Abschnitt des 21. Hauptstücks, §§ 429 bis 434g, die Abschnittsbezeichnung und Abschnittsüberschrift zum 2. Abschnitt des 21. Hauptstücks, § 435 Abs. 1, § 437, § 438, § 439 Abs. 1 und 2, § 440, § 441, § 442, die Abschnittsbezeichnung und Abschnittsüberschrift zum 3. und 4. Abschnitt des 21. Hauptstücks, § 492 Abs. 1, § 494a Abs. 2, § 495 Abs. 1 und § 497 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 223/2022, treten mit 1. März 2023 in Kraft; gleichzeitig tritt § 436 außer Kraft.
+----
+### § 466 StPO
 
-`§ 514 (52) StPO.`  
-§ 30 Abs. 1 Z 9 in der Fassung des Bundesgesetzes BGBl. I Nr. 135/2023, tritt mit Ablauf des 30. November 2023 außer Kraft.
+`§ 466 (1) StPO.`  
+Die Berufung ist binnen drei Tagen nach Verkündung des Urteiles beim Bezirksgericht anzumelden. § 57 Abs. 2 gilt auch für einen Verzicht gegen einen gemeinsam mit dem Urteil verkündeten Beschluss nach den §§ 494 und 494a.
 
-`§ 514 (53) StPO.`  
-Die Einträge im Inhaltsverzeichnis zum 5. Abschnitt des 8. Hauptstücks und zu § 135, § 20a Abs. 1 Z 1, § 71 Abs. 1 und 2, die Überschrift des 5. Abschnittes des 8. Hauptstücks, § 134 Z 1a, 1b, 2, 2a, 5 und 6, die Überschrift zu § 135, § 135 Abs. 1a und 2b, § 137 Abs. 1 und 3, § 138 Abs. 1, 2, 3 und 5, § 170 Abs. 1 Z 2 und § 252 Abs. 1 und 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 182/2023, treten mit 17. Februar 2024 in Kraft; gleichzeitig treten der Eintrag im Inhaltsverzeichnis zu § 76a und § 76a samt Überschrift außer Kraft. § 514 Abs. 46 in der Fassung des Bundesgesetzes BGBl. I Nr. 182/2023, tritt mit dem der Kundmachung folgenden Tag in Kraft.
+`§ 466 (2) StPO.`  
+War der Angeklagte bei der Verkündung des Urteiles nicht anwesend, so ist die Berufung binnen drei Tagen anzumelden, nachdem er vom Urteile verständigt wurde.
 
-`§ 514 (54) StPO.`  
-§ 59 Abs. 1, § 164 Abs. 2 und § 171 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 34/2024 treten mit dem der Kundmachung folgenden Tag in Kraft.
+`§ 466 (3) StPO.`  
+Für den gesetzlichen Vertreter des Angeklagten läuft die Frist zur Anmeldung der Berufung von demselben Tage, von dem an sie für den Angeklagten beginnt.
 
-`§ 514 (55) StPO.`  
-Der Eintrag im Inhaltsverzeichnis zu § 196a, § 31 Abs. 1 Z 6 und 7, § 33 Abs. 2, § 196a samt Überschrift und § 393a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 96/2024 treten mit 1. August 2024 in Kraft.
+`§ 466 (4) StPO.`  
+Die Anmeldung der Berufung hat aufschiebende Wirkung.
 
-`§ 514 (56) StPO.`  
-Die Einträge im Inhaltsverzeichnis zum 1. Abschnitt des 8. Hauptstücks, zu den §§ 115a bis 115l, zur Überschrift des 3. Teils, zu einem 10a. Hauptstück samt Überschrift, zu § 197a, § 197b und § 197c, § 1 Abs. 2, § 27, § 28 Abs. 2, § 31 Abs. 3 Z 6a und Abs. 6 Z 3, § 36 Abs. 2a, § 37 Abs. 4, § 47a Abs. 4a und 7, § 49 Abs. 1 Z 12 und 13, § 52 Abs. 1, Abs. 2 Z 4 und Abs. 3, § 53 Abs. 1, § 61 Abs. 2 Z 2 lit. a, § 66 Abs. 1 Z 1c, § 66b Abs. 1 lit. e, § 69 Abs. 3, § 71 Abs. 1, § 76 Abs. 6, § 77 Abs. 2, § 91 Abs. 2 und 3, § 100 Abs. 3a, § 102 Abs. 3, § 105 Abs. 3, § 108, die Überschrift des 1. Abschnitts des 8. Hauptstücks, § 109 Z 1 lit. a und b, Z 1a und Z 2a bis 2e, § 110 Abs. 1 Z 1, Abs. 3 und 4, § 111 Abs. 2 und 3, § 112 Abs. 1 und 2, § 112a Abs. 1, § 113 Abs. 2 und 4, § 114 Abs. 1, 1a und 2, § 115 Abs. 1, § 115a Abs. 1, § 115e Abs. 1 und 2, §§ 115f bis 115l samt Überschriften, § 116 Abs. 5, 6 und 7, § 126 Abs. 2a, 3a, 3b und 4, § 157 Abs. 1 Z 2 und Abs. 2, § 174 Abs. 1, die Überschrift des 3. Teils, § 190, § 195 Abs. 2,§ 196a Abs. 2, das 10a. Hauptstück, § 281 Abs. 1 Z 3, § 284 Abs. 2, § 286 Abs. 1 und 2, § 294 Abs. 5, § 296 Abs. 3, § 345 Abs. 1 Z 4, §§ 367 bis 369, § 373b, § 377, § 379, § 408 Abs. 2, § 444 Abs. 2, § 466 Abs. 3, § 468 Abs. 1 Z 3 und § 471 in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 treten mit 1. Jänner 2025 in Kraft; gleichzeitig treten § 31 Abs. 1 Z 5, § 108a samt Überschrift und § 286 Abs. 1a außer Kraft.
+`§ 466 (5) StPO.`  
+Die Entlassung eines freigesprochenen Angeklagten aus der Haft darf nur wegen einer Berufung der Staatsanwaltschaft, und zwar bloß dann aufgeschoben werden, wenn diese sogleich bei Verkündung des Urteiles angemeldet wird und nach den Umständen die Annahme begründet ist, daß sich der Angeklagte dem Verfahren durch die Flucht entziehen werde. Gegen die Entlassung aus der Haft ist kein Rechtsmittel zulässig.
 
-### § 515 StPO # Verweisungen
+`§ 466 (6) StPO.`  
+Wenn der zu einer Freiheitsstrafe Verurteilte sich weder durch den Ausspruch über die Schuld noch durch den über die Strafart, sondern nur durch das Strafmaß beschwert erachtet, so kann er die Strafe einstweilen antreten. Eben dies gilt auch dann, wenn der Verurteilte keine Berufung ergriffen hat und der Ankläger seine Berufung nur gegen das Strafmaß richtet.
 
-`§ 515 (1) StPO.`  
-Verweisungen in diesem Gesetz auf andere Rechtsvorschriften des Bundes oder auf unmittelbar anwendbare Rechtsakte der Europäischen Gemeinschaft sind als Verweisungen auf die jeweils geltende Fassung zu verstehen. Wird in anderen Bundesgesetzen auf Bestimmungen verwiesen, an deren Stelle mit dem In-Kraft-Treten des Strafprozessreformgesetzes neue Bestimmungen wirksam werden, so sind diese Verweisungen auf die entsprechenden neuen Bestimmungen zu beziehen.
+`§ 466 (7) StPO.`  
+Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden.
+----
 
-`§ 515 (2) StPO.`  
-Soweit in diesem Gesetz personenbezogene Bezeichnungen nur in männlicher Form angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise. Bei der Anwendung auf bestimmte Personen ist die jeweils geschlechtsspezifische Form zu verwenden.
+----
+### § 467 StPO
 
-### § 516 StPO # Übergangsbestimmungen
+`§ 467 (1) StPO.`  
+Der Beschwerdeführer hat das Recht, binnen vier Wochen nach der Anmeldung der Berufung, wenn ihm eine Urteilsabschrift aber erst nach der Anmeldung des Rechtsmittels zugestellt wurde, binnen vier Wochen nach der Zustellung eine Ausführung der Gründe seiner Berufung beim Bezirksgerichte zu überreichen und allenfalls neue Tatsachen oder Beweismittel unter genauer Angabe aller zur Beurteilung ihrer Erheblichkeit dienenden Umstände anzuzeigen.
 
-`§ 516 (1) StPO.`  
-Die durch das Strafprozessreformgesetz und das Bundesgesetz, BGBl. I Nr. 93/2007, geänderten Verfahrensbestimmungen dieses Bundesgesetzes sind in Strafverfahren nicht anzuwenden, in denen vor ihrem In-Kraft-Treten das Urteil in erster Instanz gefällt worden ist. Nach Aufhebung eines solchen Urteils ist jedoch im Sinne der neuen Verfahrensbestimmungen vorzugehen.
-*(Anm.: Abs. 1a und 1b aufgehoben durch BGBl. I Nr. 40/2009)*
+`§ 467 (2) StPO.`  
+Er hat entweder bei der Anmeldung der Berufung oder in der Berufungsschrift ausdrücklich zu erklären, durch welchen Ausspruch (§ 464) er sich beschwert finde und welche Nichtigkeitsgründe er geltend machen wolle, widrigens auf die Berufung oder auf Nichtigkeitsgründe vom Landesgericht keine Rücksicht zu nehmen ist. Doch steht es der Berücksichtigung eines deutlich und bestimmt bezeichneten Beschwerdepunktes oder Nichtigkeitsgrundes nicht entgegen, daß sich der Beschwerdeführer in der gesetzlichen Benennung vergriffen hat.
 
-`§ 516 (2) StPO.`  
-Zum Zeitpunkt des In-Kraft-Tretens des Strafprozessreformgesetzes bei Gericht anhängige Anträge auf gerichtliche Vorerhebungen sind nach den durch das Strafprozessreformgesetz aufgehobenen Verfahrensbestimmungen zu erledigen. Wäre für die Erledigung nach den durch das Strafprozessreformgesetz aufgehobenen Bestimmungen eine Anordnung oder Genehmigung der Ratskammer erforderlich, so tritt an ihre Stelle der gemäß § 31 Abs. 1 Z 2 zuständige Einzelrichter des Landesgerichts. Über sonstige Anträge, Entscheidungen und Beschwerden, für deren Erledigung die Ratskammer gemäß den durch das Strafprozessreformgesetz und Strafprozessreformbegleitgesetz I, BGBl. I Nr. 93/2007, geänderten Verfahrensbestimmungen zuständig wäre, hat an ihrer Stelle das Landesgericht als Senat von drei Richtern gemäß § 31 Abs. 5 nach den neuen Verfahrensbestimmungen zu entscheiden. Voruntersuchungen werden mit dem In-Kraft-Treten des Strafprozessreformgesetzes von Gesetzes wegen beendet. Das Gericht hat die Akten, nachdem es die allenfalls zur Entscheidung über die Fortsetzung der Untersuchungshaft erforderlichen Verfügungen und Entscheidungen getroffen hat, der Staatsanwaltschaft zu übersenden. In Verfahren, die nur auf Verlangen des Verletzten zu verfolgen sind, ist der Privatankläger vom Gericht mit Beschluss aufzufordern, binnen angemessen festzusetzender Frist die Anklageschrift oder einen selbstständigen Antrag auf Erlassung vermögensrechtlicher Anordnungen nach § 445 einzubringen (§ 71 Abs. 6).
+`§ 467 (3) StPO.`  
+Die zugunsten des Angeklagten ergriffene Berufung wegen Nichtigkeit ist auch als Berufung gegen die Aussprüche über die Schuld und die Strafe zu betrachten, die Berufung wegen des Ausspruches über die Schuld auch als Berufung gegen den Strafausspruch.
 
-`§ 516 (3) StPO.`  
-An die Stelle eines Antrags auf Strafverfolgung tritt die Ermächtigung nach § 92. Diese gilt als erteilt, wenn ein Antrag auf Strafverfolgung gestellt wurde.
+`§ 467 (4) StPO.`  
+Geschieht die Anmeldung der Berufung mündlich, so hat der Richter, der das Protokoll hierüber aufnimmt, den Beschwerdeführer zur genauen Angabe der Beschwerdepunkte besonders aufzufordern und über die Rechtsfolgen der Unterlassung dieser Angabe zu belehren.
 
-`§ 516 (4) StPO.`  
-Am 31. 12. 2007 bestehende Eintragungen von Personen im Sinne des § 39 Abs. 3 dritter Satz in der vor Inkrafttreten des Strafprozessreformgesetzes geltenden Fassung in die Verteidigerliste bleiben aufrecht; die dort eingetragenen Personen gelten bis zur Vollendung ihres 70. Lebensjahres im Sinne des § 48 Abs. 1 Z 4 als gesetzlich zur Vertretung im Strafverfahren berechtigte Personen. Vor diesem Zeitpunkt erteilte Mandate berechtigen bis zur rechtskräftigen Beendigung des zu Grunde liegenden Verfahrens zur Ausübung der Verteidigung in diesem Verfahren. § 39 Abs. 3 in der vor Inkrafttreten des Strafprozessreformgesetzes geltenden Fassung ist für diese Eintragungen weiterhin anzuwenden.
+`§ 467 (5) StPO.`  
+Die Berufung oder Berufungsausführung ist in zweifacher Ausfertigung vorzulegen oder aufzunehmen. Eine Ausfertigung ist dem Gegner mit dem Bedeuten mitzuteilen, daß er binnen vier Wochen seine Gegenausführung überreichen könne. Die Gegenausführung ist dem Beschwerdeführer zuzustellen; danach sind alle Akten dem Landesgericht – gegebenenfalls samt einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs. 5 erster Satz oder 62a Abs. 5 erster Satz VfGG – vorzulegen.
+----
 
-`§ 516 (5) StPO.`  
-Verfahren, in denen Anträge auf gerichtliche Vorerhebungen anhängig gemacht wurden und die zum Zeitpunkt des Inkrafttretens des Strafprozessreformgesetzes gemäß den durch das Strafprozessreformbegleitgesetz I, BGBl. I Nr. 93/2007, aufgehobenen Bestimmungen der §§ 412 oder 452 Z 2 abgebrochen wurden, sind nach Ausforschung eines Beschuldigten der Staatsanwaltschaft zu übertragen, die sodann das Verfahren gemäß § 197 nach den neuen Verfahrensbestimmungen fortzusetzen hat.
+----
+### § 468 StPO
 
-`§ 516 (6) StPO.`  
-Die Bestimmungen der §§ 26 Abs. 2, 28a Abs. 1, 32 Abs. 3, 43 Abs. 2, 45 Abs. 1, 47 Abs. 3, 77 Abs. 2, 197, 221 Abs. 4, 410 Abs. 1, 435, 437, 439 Abs. 1, 441 Abs. 1, 485, 498 Abs. 2 und 516 in der Fassung des Bundesgesetzes, BGBl. I Nr. 40/2009, sind in Strafverfahren nicht anzuwenden, in denen vor ihrem Inkrafttreten das Urteil erster Instanz gefällt worden ist. Nach Aufhebung eines solchen Urteils ist jedoch im Sinne der neuen Verfahrensbestimmungen vorzugehen.
+`§ 468 (1) StPO.`  
+Wegen Nichtigkeit kann die Berufung gegen Urteile der Bezirksgerichte, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur aus einem der folgenden Gründe ergriffen werden:  
+`§ 468 (1) Z 1 StPO.`
+wenn das Bezirksgericht örtlich unzuständig oder nicht gehörig besetzt war oder wenn ein gesetzlich ausgeschlossener Richter (§§ 43 und 46) das Urteil gefällt hat;  
+`§ 468 (1) Z 2 StPO.`
+wenn das Bezirksgericht nicht zuständig war, weil die Tat, über die es geurteilt hat, in die Zuständigkeit des Landesgerichts *(Anm. 1) *fällt;  
+`§ 468 (1) Z 2a StPO.`
+wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren in der Hauptverhandlung verlesen wurde;  
+`§ 468 (1) Z 3 StPO.`
+wenn eine Vorschrift verletzt oder vernachlässigt worden ist, deren Beobachtung das Gesetz bei sonstiger Nichtigkeit vorschreibt (§§ 115j Abs. 1, 126 Abs. 4, 140 Abs. 1, 144 Abs. 1, 155 Abs. 1, 157 Abs. 2 und 159 Abs. 3, 221 Abs. 2 (455 Abs. 1), 228, 250, 252, 260, 271, 427 sowie 439 Abs. 1 und 2), oder wenn einer der im § 281 Abs. 1 Z. 4 und 5 erwähnten Nichtigkeitsgründe vorliegt;  
+`§ 468 (1) Z 4 StPO.`
+aus den im § 281 Abs. 1 Z. 6 bis 11 angegebenen Gründen.
 
-`§ 516 (7) StPO.`  
-Die WKStA ist für Ermittlungsverfahren zuständig, die bei der KStA am 31. August 2011 anhängig sind oder nach diesem Zeitpunkt wegen der in § 20a Abs. 1 Z 1, 5, 6, 8 und 9 in der Fassung des Bundesgesetzes, BGBl. I Nr. 67/2011 genannten Straftaten anfallen.
+`§ 468 (2) StPO.`  
+Die unter Abs. 1 Z. 1 und 3 erwähnten Nichtigkeitsgründe können nur unter den in den §§ 281 und 282 Abs. 2 bezeichneten Bedingungen geltend gemacht werden; doch wird auch der Ankläger der Geltendmachung eines Nichtigkeitsgrundes deshalb nicht verlustig, weil er hinsichtlich eines Formgebrechens die Entscheidung des Richters nicht begehrt und sich die Beschwerde nicht sofort nach Verweigerung oder Verkündung der Entscheidung vorbehalten hat.
 
-`§ 516 (7a) StPO.`  
-Die WKStA ist für die in § 20a Abs. 1 Z 2, 3, 4 und 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 108/2010 genannten Straftaten zuständig, soweit das Ermittlungsverfahren nach dem 31. August 2012 angefallen ist.
+*(________*
 
-`§ 516 (8) StPO.`  
-Darüber hinaus kann die Oberstaatsanwaltschaft Wien Ermittlungsverfahren, die am 1. September 2011 bei einer Staatsanwaltschaft in ihrem Sprengel wegen der in § 20a Abs. 1 in der Fassung BGBl. I Nr. 108/2010 genannten Straftaten anhängig sind, der zuständigen Staatsanwaltschaft abnehmen und der WKStA übertragen, soweit dies aus den in § 20b Abs. 1 in der Fassung BGBl. I Nr. 108/2010genannten Gründen und zur Wahrung der Kontinuität des Ermittlungsverfahrens erforderlich ist.
+*Anm. 1: Art. I Z 198 lit. b der Novelle BGBl. I Nr. 93/2007 lautet: „Im Abs. 1 Z 2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt.“. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“.)*
 
-`§ 516 (9) StPO.`  
-Die Bestimmungen der §§ 194 Abs. 3 Z 1 und 209a Abs. 1 Z 1 in der Fassung des Bundesgesetzes, BGBl. I Nr. 108/2010, sind, soweit sie auf die Zuständigkeit der WKStA verweisen, bis zum Inkrafttreten der Bestimmungen über die Zuständigkeit der WKStA gemäß § 514 Abs. 13 in der Fassung des Bundesgesetzes, BGBl. I Nr. 108/2010 auf die KStA anzuwenden.
+----
 
-`§ 516 (10) StPO.`  
-Die Bestimmungen der § 32 Abs. 1 und Abs. 1a in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2014 sind in Strafverfahren nicht anzuwenden, in denen vor ihrem Inkrafttreten Anklage eingebracht wurde. Die Bestimmung des § 108a in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2014 ist in jenen Strafverfahren anzuwenden, die nach ihrem Inkrafttreten beginnen (§ 1 Abs. 2).
+----
+### § 469 StPO
 
-`§ 516 (11) StPO.`  
-§ 438 in der Fassung BGBl. I Nr. 71/2014 ist auf Betroffene nach § 21 Abs. 2 StGB bis zum 28. Februar 2027 anzuwenden.
+`§ 469 StPO.`  
+Das Landesgericht berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder die Staatsanwaltschaft einen der im § 470 angeführten Beschlüsse beantragt.
+----
 
-`§ 516 (12) StPO.`  
-§ 196a und § 393a in der Fassung des Bundesgesetzes BGBl. I Nr. 96/2024 sind auf Verfahren anzuwenden, in denen die in § 196a Abs. 1 und in § 393a Abs. 1 genannten verfahrensbeendenden Entscheidungen ab dem 1. Jänner 2024 rechtskräftig geworden sind. Ist in diesen Verfahren bereits über einen Beitrag zu den Kosten der Verteidigung nach § 393a StPO in der Fassung des Bundesgesetzes BGBl. I Nr. 152/2022 entschieden worden, so kann ein neuerlicher Antrag auf Zuerkennung eines Beitrags zu den Kosten für die Verteidigung gestellt werden. Für die Entscheidung über diesen Antrag ist § 393a in der Fassung des Bundesgesetzes BGBl. I Nr. 96/2024 anzuwenden, wobei bei der Festsetzung der Höhe des Beitrags zu den Kosten der Verteidigung der bereits zugesprochene Beitrag zu berücksichtigen ist. Für vor dem 1. Jänner 2024 rechtskräftig gewordene verfahrensbeendende Entscheidungen gilt weiterhin § 393a in der Fassung des Bundesgesetzes BGBl. I Nr. 152/2022.
+----
+### § 470 StPO
 
-`§ 516 (13) StPO.`  
-§ 111 Abs. 2 und §§ 115f bis 115l in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 sind in jenen Strafverfahren anzuwenden, die ab dem 1. Jänner 2025 beginnen (§ 1 Abs. 2) sowie für alle Sicherstellungen gemäß § 111 Abs. 2 und Beschlagnahmen von Datenträgern und Daten (§ 109 Z 2a), die ab dem 1. Jänner 2025 angeordnet werden. In allen anderen Fällen gelten § 115i, § 115k und § 115l sinngemäß. § 126 Abs. 3a und § 127 Abs. 4a in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 sind auf Gutachtensaufträge anzuwenden, die nach dem 1. Jänner 2025 erteilt werden.
+`§ 470 StPO.`  
+Bei der nichtöffentlichen Beratung kann das Landesgericht:  
+`§ 470 Z 1 StPO.`
+die Berufung als unzulässig zurückweisen, wenn sie zu spät angemeldet oder von einer Person ergriffen worden ist, der das Berufungsrecht überhaupt nicht oder nicht in der Richtung zusteht, in der es in Anspruch genommen wird, oder die darauf verzichtet hat; ferner, wenn der Berufungswerber bei der Anmeldung der Berufung oder in ihrer Ausführung die Punkte des Erkenntnisses, durch die er sich beschwert findet, oder die Nichtigkeitsgründe, derentwegen allein die Berufung ergriffen worden ist, nicht deutlich und bestimmt bezeichnet hat, in welchen Fällen es gegebenenfalls diesen Beschluss dem Verfassungsgerichtshof zu übermitteln hat;  
+`§ 470 Z 2 StPO.`
+beschließen, Aufklärungen über behauptete Formverletzungen einzuholen, oder seine eigene Unzuständigkeit aussprechen und die Strafsache an das zuständige Landesgericht abtreten;  
+`§ 470 Z 3 StPO.`
+wenn schon vor der öffentlichen Verhandlung über die Berufung feststeht, daß das Urteil aufzuheben und die Verhandlung in erster Instanz zu wiederholen oder nach dem 11. Hauptstück oder § 37 SMG vorzugehen ist, der Berufung stattgeben, das Urteil, soweit es angefochten wird, aufheben und die Sache an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Gerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht zurückweisen.
+----
 
-### § 516a StPO # Umsetzung von Richtlinien der Europäischen Union
+----
+### § 471 StPO
 
-`§ 516a (1) StPO.`  
-§§ 50, 171 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 195/2013 dienen der Umsetzung der Richtlinie 2012/13/EU über das Recht auf Belehrung und Unterrichtung in Strafverfahren ABl. Nr. L 142 vom 01. 06. 2012 S 1.
+`§ 471 StPO.`  
+Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhandlung sowie für die Entscheidung über die Berufung gelten §§ 233 bis 237, 286 Abs. 1 und 1a *(Anm. 1)*, 287, 288 Abs. 2 Z 3 erster Satz, 289, 290, 293 Abs. 4, 294, 295 sowie 296a sinngemäß, soweit im Folgenden nicht anderes bestimmt wird.
 
-`§ 516a (2) StPO.`  
-§§ 56, 164 Abs. 1, 381 Abs. 6 und 393 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 195/2013 dienen der Umsetzung der Richtlinie 2010/64/EU über das Recht auf Dolmetschleistungen und Übersetzungen in Strafverfahren, ABl. Nr. L 280 vom 26. 10.2010 S 1.
+*(___________*
 
-`§ 516a (3) StPO.`  
-§ 445 Abs. 2a in der Fassung des Bundesgesetzblattes BGBl. I Nr. 112/2015 dient der Umsetzung der Richtlinie 2014/42/EU des Europäischen Parlaments und des Rates über die Sicherstellung und Einziehung von Erträgen aus Straftaten in der EU ABl. Nr. L 127 vom 29.04.2014 S 39 in der Fassung der Berichtigung ABl. Nr. L 138 vom 13.05.2014 S 114.
+*Anm. 1: Art. 1 Z 75 der Novelle BGBl. I Nr. 157/2024 lautet: „In § 471 wird das Zitat „§ 286 Abs. 1 und 1a“ durch das Zitat „§ 286 Abs. 1 und 2 zweiter Satz“ ersetzt“.“. Die Anweisung konnte nicht durchgeführt werden.)*
+----
 
-`§ 516a (3) StPO.`  
-§§ 10 Abs. 2, 25 Abs. 7, 65 Z 1 lit. a und b, 66 Abs. 1 Z 1a, 1b und 5, Abs. 3 und 4, 66a, 70, 80 Abs. 1, 156 Abs. 1 Z 2, 165 Abs. 3 und 4, 172 Abs. 4, 177 Abs. 5, 181a, 195 Abs. 2 und 196 Abs. 2 in der Fassung des Bundesgesetzblattes BGBl. I Nr. 26/2016 dienen der Umsetzung der Richtlinie 2012/29/EU über Mindeststandards für die Rechte, die Unterstützung und den Schutz von Opfern von Straftaten sowie zur Ersetzung des Rahmenbeschlusses 2001/220/JI ABl. Nr. L 315 vom 14.11.2012 S 57.
+----
+### § 473 StPO
 
-`§ 516a (4) StPO.`  
-§§ 50 Abs. 3, 59 Abs. 1 und 2, 157 Abs. 2, 163 Abs. 4, 164 Abs. 2, 171 Abs. 4 Z 2 lit. a und c und 249 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 26/2016 dienen der Umsetzung der Richtlinie 2013/48/EU über das Recht auf Zugang zu einem Rechtsbeistand in Strafverfahren und in Verfahren zur Vollstreckung des Europäischen Haftbefehls sowie über das Recht auf Benachrichtigung eines Dritten bei Freiheitsentzug und das Recht auf Kommunikation mit Dritten und mit Konsularbehörden während des Freiheitsentzugs, ABl. Nr. L 294 vom 06. 11.2013 S 1.
+`§ 473 (1) StPO.`  
+Für die Vernehmung des Angeklagten, von Zeugen und Sachverständigen sind die für die Hauptverhandlung vor dem Landesgericht als Schöffengericht geltenden Bestimmungen anzuwenden. Das Protokoll der Hauptverhandlung kann ebenso verlesen werden wie das Urteil samt den Entscheidungsgründen.
 
-`§ 516a (5) StPO.`  
-§ 409 Abs. 2 in der Fassung des Bundesgesetzblattes BGBl. I Nr. 26/2016 dient der Umsetzung der Richtlinie 2014/42/EU über die Sicherstellung und Einziehung von Tatwerkzeugen und Erträgen aus Straftaten in der Europäischen Union, ABl. Nr. L 127 vom 29.04.2014 S 39, in der Fassung der Berichtigung ABl. Nr. L 138 vom 13.05.2014 S 114.
+`§ 473 (2) StPO.`  
+Zeugen und Sachverständige, die bereits in der Hauptverhandlung vor dem Bezirksgerichte vernommen worden sind, sind nochmals abzuhören, wenn das Landesgericht gegen die Richtigkeit der auf ihre Aussagen gegründeten, im Urteil erster Instanz enthaltenen Feststellungen Bedenken hegt oder die Vernehmung neuer Zeugen oder Sachverständiger über dieselben Tatsachen notwendig findet. Außer diesem Falle hat das Landesgericht die in erster Instanz aufgenommenen Protokolle seiner Entscheidung zugrunde zu legen.
 
-`§ 516a (6) StPO.`  
-§§ 59 Abs. 1 und 4 und 174 Abs. 1 in der Fassung des Bundesgesetzblattes BGBl. I Nr. 121/2016 dienen der Umsetzung der Richtlinie 2013/48/EU über das Recht auf Zugang zu einem Rechtsbeistand in Strafverfahren und in Verfahren zur Vollstreckung des Europäischen Haftbefehls sowie über das Recht auf Benachrichtigung eines Dritten bei Freiheitsentzug und das Recht auf Kommunikation mit Dritten und mit Konsularbehörden während des Freiheitsentzugs, ABl. Nr. L 294 vom 06.11.2013 S. 1.
+`§ 473 (3) StPO.`  
+Sodann wird der, der die Berufung einlegte, zu ihrer Begründung und sodann der Gegner zur Erwiderung aufgefordert.
 
-`§ 516a (7) StPO.`  
-§§ 20a Abs. 3 und 99 Abs. 5 in der Fassung des BGBl. I Nr. 28/2018 dienen der Umsetzung der Richtlinie (EU) 2014/41 über die Europäische Ermittlungsanordnung, ABl. Nr. L 130 vom 01.05.2014, S. 1.
+`§ 473 (4) StPO.`  
+Dem Angeklagten oder seinem Verteidiger gebührt jedenfalls das Recht der letzten Äußerung.
 
-`§ 516a (8) StPO.`  
-§ 221 Abs. 1 und § 430 Abs. 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 27/2018 dienen der Umsetzung der Richtlinie (EU) 2016/343 über die Stärkung bestimmter Aspekte der Unschuldsvermutung und des Rechts auf Anwesenheit in der Verhandlung im Strafverfahren, ABl. Nr. L 65 vom 11.03.2016 S. 1.
+`§ 473 (5) StPO.`  
+Hierauf zieht sich das Landesgericht zur Beratung und Beschlußfassung zurück.
+----
 
-`§ 516a (9) StPO.`  
-§ 135a, § 136 Abs. 1 Z 3, § 137 Abs. 1, § 138 Abs. 1 und 2, § 140 Abs. 1 Z 2 und 4, § 144 Abs. 3, § 145 Abs. 3 und 4, § 147 Abs. 1 Z 2a und 5 und Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 27/2018 dienen der Umsetzung der Richtlinie (EU) 2017/541 zur Terrorismusbekämpfung und zur Ersetzung des Rahmenbeschlusses 2002/475/JI des Rates und zur Änderung des Beschlusses 2005/671/JI des Rates, ABl. Nr. L 88 vom 15.03.2017 S. 6.
+----
+### § 474 StPO
 
-`§ 516a (10) StPO.`  
-§ 66 Abs. 2 und § 70 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 70/2018 dienen der Umsetzung der Richtlinie (EU) 2017/541 zur Terrorismusbekämpfung und zur Ersetzung des Rahmenbeschlusses 2002/475/JI des Rates und zur Änderung des Beschlusses 2005/671/JI des Rates, ABl. Nr. L 88 vom 15.03.2017 S. 6.
+`§ 474 StPO.`  
+Nach Maßgabe der folgenden Bestimmungen erkennt das Landesgericht in der Sache selbst nach den für das Landesgericht als Schöffengericht geltenden Bestimmungen, es sei denn, dass die Berufung als unzulässig oder unbegründet zurückgewiesen wird oder sich das angerufene Landesgericht für unzuständig erklärt.
+----
 
-`§ 516a (11) StPO.`  
-§ 59 Abs. 5, § 61 Abs. 2, § 62 Abs. 2a und § 171 Abs. 4 Z 2 in der Fassung des Bundesgesetzes BGBl. I. Nr. 20/2020 dienen der Umsetzung der Richtlinie (EU) 2016/1919 über Prozesskostenhilfe für Verdächtige und beschuldigte Personen in Strafverfahren sowie für gesuchte Personen in Verfahren zur Vollstreckung eines Europäischen Haftbefehls, ABl. Nr. L 297 vom 04.11.2016 S. 1.
+----
+### § 475 StPO
 
-`§ 516a (12) StPO.`  
-§ 66b in der Fassung des Bundesgesetzblattes BGBl. I Nr. 148/2020 dient der Umsetzung der Richtlinie 2012/29/EU über Mindeststandards für die Rechte, die Unterstützung und den Schutz von Opfern von Straftaten sowie zur Ersetzung des Rahmenbeschlusses 2001/220/JI, ABl. Nr. L 315 vom 14.11.2012, S. 57.
+`§ 475 (1) StPO.`  
+Wird das Urteil des Bezirksgerichtes wegen eines der im § 468 Abs. 1 unter Z. 1 und 3 angeführten Nichtigkeitsgründe aufgehoben, so verweist das Landesgericht die Sache zu neuer Verhandlung an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Bezirksgerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht.
 
-`§ 516a (13) StPO.`  
-§ 209b in der Fassung des Bundesgesetzes BGBl. I Nr. 243/2021 dient der Umsetzung der Richtlinie 2019/1/EU zur Stärkung der Wettbewerbsbehörden der Mitgliedstaaten im Hinblick auf eine wirksamere Durchsetzung der Wettbewerbsvorschriften und zur Gewährleistung des reibungslosen Funktionierens des Binnenmarkts, ABl. Nr. L 11 vom 14.01.2019 S. 3.
+`§ 475 (2) StPO.`  
+Wird das Urteil des Bezirksgerichtes wegen des im § 468 Abs. 1 unter Z. 2 angeführten Nichtigkeitsgrundes aufgehoben, so ist die Sache nicht an das zuständige Gericht zu verweisen. Für das weitere Verfahren gilt § 263 Abs. 4 sinngemäß.
 
-`§ 516a (14) StPO.`  
-§ 66a Abs. 2 Z 5, § 431 Abs. 4 und § 434g Abs. 7 in der Fassung des Bundesgesetzblattes BGBl. I Nr. 223/2022 dienen der Umsetzung der Richtlinie 2012/29/EU über Mindeststandards für die Rechte, die Unterstützung und den Schutz von Opfern von Straftaten sowie zur Ersetzung des Rahmenbeschlusses 2001/220/JI, ABl. Nr. L 315 vom 14.11.2012 S. 57.
+`§ 475 (3) StPO.`  
+Hat das Bezirksgericht bezüglich einer Tatsache, auf die sich die Anklage bezieht, mit Unrecht seine Nichtzuständigkeit ausgesprochen oder die Anklage nicht vollständig erledigt (§ 281 Abs. 1 Z. 6 und 7), so trägt ihm das Landesgericht auf, sich der Verhandlung und Urteilsfällung zu unterziehen, die sich in letztem Fall auf die unerledigt gebliebenen Anklagepunkte zu beschränken hat.
 
-`§ 516a (15) StPO.`  
-§ 59 Abs. 1, § 164 Abs. 2 und § 171 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 34/2024 dienen der Umsetzung der Richtlinie 2013/48/EU über das Recht auf Zugang zu einem Rechtsbeistand in Strafverfahren und in Verfahren zur Vollstreckung des Europäischen Haftbefehls sowie über das Recht auf Benachrichtigung eines Dritten bei Freiheitsentzug und das Recht auf Kommunikation mit Dritten und mit Konsularbehörden während des Freiheitsentzugs, ABl. Nr. L 294 vom 06.11.2013 S. 1.
+`§ 475 (4) StPO.`  
+Hat das Bezirksgericht das Vorliegen der Voraussetzungen für eine Einstellung des Strafverfahrens nach dem 11. Hauptstück (§ 199) oder § 37 SMG zu Unrecht nicht angenommen, so verweist das Landesgericht die Sache an dasselbe oder an ein anderes Bezirksgericht mit dem Auftrag, nach den entsprechenden Bestimmungen vorzugehen.
+----
 
-`§ 516a (16) StPO.`  
-§ 69 Abs. 3, § 109 Z 1 lit. a, Z 1a, § 110 Abs. 3, § 113 Abs. 2, § 114 Abs. 1, Abs. 1a und Abs. 2, § 115 Abs. 1, § 115e Abs. 2, § 367, § 379, § 408 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 dienen der Umsetzung der Richtlinie 2024/1260/EU über die Abschöpfung und Einziehung von Vermögenswerten, ABl. Nr. L 1260 vom 24.04.2024 S 1. § 115i in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 dient der Umsetzung der Richtlinie 2016/680/EU zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates, ABl. Nr. L 119 vom 27.4.2016 S. 1. § 195 Abs. 2, § 197a, § 197b und § 197c in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 dienen der Umsetzung der Richtlinie 2012/29/EU über Mindeststandards für die Rechte, die Unterstützung und den Schutz von Opfern von Straftaten sowie zur Ersetzung des Rahmenbeschlusses 2001/220/JI, ABl. Nr. L 315 vom 14.11.2012 S. 57. § 286 Abs. 1 und 2, § 294 Abs. 5, § 296 Abs. 3 und § 471 in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 dienen der Umsetzung der Richtlinie 2016/343/EU über die Stärkung bestimmter Aspekte der Unschuldsvermutung und des Rechts auf Anwesenheit in der Verhandlung im Strafverfahren, ABl. Nr. L 65 vom 11.03.2016 S. 1.
+----
+### § 476 StPO
 
-### § 517 StPO # Vollziehung
+`§ 476 StPO.`  
+In den im § 475 Abs. 1 und 3 erwähnten Fällen steht es jedoch der Berufungsbehörde frei, sofort oder in einer späteren Sitzung, nötigenfalls unter Wiederholung oder Ergänzung der in erster Instanz gepflogenen Verhandlung und unter Verbesserung der mangelhaft befundenen Prozeßhandlung, in der Sache selbst zu erkennen.
+----
 
-`§ 517 StPO.`  
-Mit der Vollziehung dieses Gesetzes ist der Bundesminister für Justiz betraut.
+----
+### § 478 StPO
+
+`§ 478 (1) StPO.`  
+Gegen ein Urteil des Bezirksgerichtes, das gemäß § 427 in Abwesenheit des Angeklagten verkündet wurde, kann dieser binnen vierzehn Tagen von der Zustellung des Urteiles beim erkennenden Bezirksgericht Einspruch erheben, wenn ihm die Vorladung nicht gehörig zugestellt worden ist oder er nachweisen kann, daß er durch ein unabwendbares Hindernis abgehalten worden sei.
+
+`§ 478 (2) StPO.`  
+Über diesen Einspruch hat das Bezirksgericht nach vorläufiger Vernehmung des Anklägers zu erkennen. Verwirft es den Einspruch, so steht dem Angeklagten das Rechtsmittel der Beschwerde an das Landesgericht (§ 31 Abs. 5 Z 1) binnen vierzehn Tagen zu. Der Angeklagte ist in diesem Falle berechtigt, mit diesem Rechtsmittel für den Fall der Verwerfung die Berufung zu verbinden, mit der nach den Bestimmungen der §§ 469 bis 474 zu verfahren ist.
+
+`§ 478 (3) StPO.`  
+Findet das Bezirksgericht oder infolge der Beschwerde das Landesgericht den Einspruch begründet, so ist eine neue Verhandlung vor dem Bezirksgericht anzuordnen, bei der, wenn der Angeklagte erscheint, die Sache so verhandelt wird, wie im § 457 vorgeschrieben ist.
+----
+
+----
+### § 479 StPO
+
+`§ 479 StPO.`  
+Gegen die Urteile der Landesgerichte über eine gemäß den §§ 463, 464 und 478 an sie gelangte Berufung ist ein weiteres Rechtsmittel nicht zulässig.
+----
+
+----
+### § 480 StPO
+
+`§ 480 StPO.`  
+Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16. Hauptstück enthaltenen Bestimmungen. In den Fällen der §§ 352 bis 356 entscheidet das Bezirksgericht über die Bewilligung der Wiederaufnahme.
+----
+
+----
+## 23. Hauptstück # Verfahren vor dem Landesgericht als Einzelrichter
+
+### § 483 StPO
+
+`§ 483 StPO.`  
+*(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*
+----
+
+----
+### § 484 StPO
+
+`§ 484 StPO.`  
+Der Strafantrag (§ 210 Abs. 1) hat die im § 211 Abs. 1 angeführten Angaben zu enthalten und jene Beweise zu bezeichnen, deren Aufnahme in der Hauptverhandlung beantragt wird. Das Gericht hat den Strafantrag dem Angeklagten, gegebenenfalls samt einer Rechtsbelehrung gemäß § 50, insbesondere der Information, ob ein Fall notwendiger Verteidigung gegeben ist, unverzüglich zuzustellen. § 213 Abs. 3 gilt sinngemäß.
+----
+
+----
+### § 485 StPO
+
+`§ 485 (1) StPO.`  
+Das Gericht hat den Strafantrag vor Anordnung der Hauptverhandlung zu prüfen und  
+`§ 485 (1) Z 1 StPO.`
+im Fall seiner örtlichen oder sachlichen Unzuständigkeit gemäß § 450 vorzugehen;  
+`§ 485 (1) Z 2 StPO.`
+in den Fällen des § 212 Z 3, 4 und 8 den Strafantrag mit Beschluss zurückzuweisen;  
+`§ 485 (1) Z 3 StPO.`
+in den Fällen des § 212 Z 1, 2 und 7 den Strafantrag mit Beschluss zurückzuweisen und das Verfahren einzustellen;  
+`§ 485 (1) Z 4 StPO.`
+im Übrigen jedoch die Hauptverhandlung nach den für das Verfahren vor dem Landesgericht als Schöffengericht geltenden Bestimmungen anzuordnen.
+
+`§ 485 (1a) StPO.`  
+Die Beschwerde der Staatsanwaltschaft gegen einen Beschluss nach Abs. 1 Z 1 oder Z 2 hat aufschiebende Wirkung.
+
+`§ 485 (2) StPO.`  
+Sobald ein Beschluss gemäß Abs. 1 Z 1 oder 2 rechtswirksam geworden ist, hat der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts die für die Fortführung des Verfahrens erforderlichen Anträge oder Anordnungen zu stellen.
+----
+
+----
+### § 488 StPO
+
+`§ 488 (1) StPO.`  
+Für das Hauptverfahren vor dem Landesgericht als Einzelrichter und für Rechtsmittel gegen dessen Urteile gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird. Der Einzelrichter erfüllt die Aufgaben des Vorsitzenden und des Schöffengerichts.
+
+`§ 488 (2) StPO.`  
+Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr.
+
+`§ 488 (3) StPO.`  
+Ist das Landesgericht als Einzelrichter der Ansicht, dass das Landesgericht als Schöffen- oder Geschworenengericht zuständig ist, so hat es, nachdem die Beteiligten des Verfahrens zu den geänderten Umständen angehört wurden, mit Urteil seine Unzuständigkeit auszusprechen. Sobald dieses Urteil rechtskräftig wurde, hat der Ankläger die zur Fortführung des Verfahrens erforderlichen Anträge zu stellen.
+*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 52/2009)*
+----
+
+----
+### § 489 StPO
+
+`§ 489 (1) StPO.`  
+Gegen die vom Landesgericht als Einzelrichter ausgesprochenen Urteile kann außer dem Einspruch gemäß § 427 Abs. 3 nur das Rechtsmittel der Berufung wegen der in § 281 Abs. 1 Z 1a bis 5 und 6 bis 11 und § 468 Abs. 1 Z 1 und 2 aufgezählten Nichtigkeitsgründe oder gegen die im § 464 Z 2 und 3 genannten Aussprüche ergriffen werden. Für das Verfahren gelten die §§ 281, 282 Abs. 2, 285 Abs. 2 bis Abs. 5, 465 bis 467, 469 bis 476 und 479 sinngemäß. Für den Nichtigkeitsgrund des § 281 Abs. 1 Z 3 gelten die in § 468 Abs. 1 Z 3 zitierten Bestimmungen.
+
+`§ 489 (2) StPO.`  
+Die Gerichtstage zur öffentlichen Verhandlung über die Berufung finden am Sitz des Oberlandesgerichts statt. Doch kann der Vorsitzende mit Rücksicht auf den Aufenthalt der Beteiligten des Verfahrens oder nach Anhörung des Anklägers und des Angeklagten auch aus anderen wichtigen Gründen anordnen, dass der Gerichtstag an einem anderen im Sprengel des Oberlandesgerichts gelegenen Ort abgehalten wird. Einer solchen Anhörung bedarf es nicht, wenn sich der Angeklagte im Sprengel des Landesgerichts in Haft befindet, bei welchem der Gerichtstag abgehalten wird.
+
+`§ 489 (3) StPO.`  
+Von der Verhandlung und Entscheidung über eine Berufung sind auch Mitglieder des Oberlandesgerichts ausgeschlossen, die im vorangegangenen Verfahren an der Entscheidung über eine Beschwerde gegen die vom Landesgericht als Einzelrichter beschlossene Zurückweisung oder Einstellung (§ 485) beteiligt waren.
+----
+
+----
+### § 490 StPO
+
+`§ 490 StPO.`  
+Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16. Hauptstück enthaltenen Bestimmungen. In den Fällen der §§ 352 bis 356 entscheidet das Landesgericht als Einzelrichter über die Bewilligung der Wiederaufnahme.
+----
 
 `END-OF-DATA-SET`

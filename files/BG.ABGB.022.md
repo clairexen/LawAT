@@ -1,375 +1,421 @@
 # BG.ABGB.022 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.022.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.021](BG.ABGB.021.md))*
 
-## 5) Auflösung des Bestandvertrages:
+----
+## 7. Abschnitt # Liquidation
 
-### § 1112 ABGB # a) durch Untergang der Sache;
+### § 1216a ABGB # Nachwirkung des Gesellschaftsvertrages
 
-`§ 1112 ABGB.`  
-Der Bestandvertrag löset sich von selbst auf, wenn die bestandene Sache zu Grunde geht. Geschieht dies aus Verschulden des einen Theiles, so gebührt dem andern Ersatz; geschieht es durch einen Unglücksfall, so ist kein Theil dem andern dafür verantwortlich.
+`§ 1216a (1) ABGB.`  
+Trotz Auflösung der Gesellschaft bestehen die gesellschaftsvertraglichen Rechte und Pflichten der Gesellschafter zueinander soweit fort, als dies für die Liquidation erforderlich ist und sich aus den folgenden Bestimmungen nichts anderes ergibt. Gesellschaftsbezogene Rechtsverhältnisse der Gesellschafter zu Dritten werden in ihrem Fortbestand durch die Auflösung und Liquidation der Gesellschaft nur dann berührt, wenn dies mit dem Dritten vereinbart wurde.
 
-### § 1113 ABGB # b) Verlauf der Zeit;
+`§ 1216a (2) ABGB.`  
+Die Gesellschafter können anstelle der Liquidation eine andere Art der Auseinandersetzung vereinbaren. Ist die Gesellschaft durch Kündigung nach § 339 Abs. 1 EO oder durch die Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters aufgelöst, so kann die Liquidation nur mit Zustimmung des Verwalters oder des Masseverwalters unterbleiben.
+----
 
-`§ 1113 ABGB.`  
-Der Bestandvertrag erlischt auch durch den Verlauf der Zeit, welcher ausdrücklich oder stillschweigend, entweder durch den nach einem gewissen Zeitraume ausgemessenen Zins, wie bey so genannten Tag- Wochen- und Monathzimmern, oder durch die erklärte, oder aus den Umständen hervorleuchtende Absicht des Bestandnehmers bedungen worden ist.
+----
+### § 1216b ABGB # Bestellung der Liquidatoren
 
-### § 1114 ABGB # Wenn keine Erneuerung geschieht;
+`§ 1216b (1) ABGB.`  
+Nach der Auflösung der Gesellschaft haben, sofern der Gesellschaftsvertrag nicht anderes bestimmt, die Gesellschafter als Liquidatoren das Gesellschaftsvermögen abzuwickeln. Mehrere Erben eines Gesellschafters haben einen gemeinsamen Vertreter zu bestellen. Ist über das Vermögen eines Gesellschafters das Konkursverfahren oder das Sanierungsverfahren eröffnet und dem Gesellschafter die Eigenverwaltung entzogen, so tritt der Insolvenzverwalter an die Stelle des Gesellschafters.
 
-`§ 1114 ABGB.`  
-Der Bestandvertrag kann aber nicht nur ausdrücklich; sondern auch stillschweigend erneuert werden. Ist in dem Vertrage eine vorläufige Aufkündigung bedungen worden; so wird der Vertrag durch die Unterlassung der gehörigen Aufkündigung stillschweigend erneuert. Ist keine Aufkündigung bedungen worden; so geschieht eine stillschweigende Erneuerung, wenn der Bestandnehmer nach Verlauf der Bestandzeit fortfährt, die Sache zu gebrauchen oder zu benützen, und der Bestandgeber es dabey bewenden läßt.
+`§ 1216b (2) ABGB.`  
+Auf Antrag eines Beteiligten kann aus wichtigen Gründen die Ernennung von Liquidatoren durch das Gericht erfolgen, in dessen Sprengel einer der Gesellschafter seinen Wohnsitz oder Sitz hat. Das Gericht kann in einem solchen Fall Personen zu Liquidatoren ernennen, die nicht zu den Gesellschaftern gehören. Als Beteiligter gilt außer den Gesellschaftern auch der Verwalter, durch den die Kündigung der Gesellschaft erfolgt ist.
 
-### § 1115 ABGB
+`§ 1216b (3) ABGB.`  
+Die Abberufung von Liquidatoren geschieht durch einstimmigen Beschluss der Beteiligten; sie kann auf Antrag eines Beteiligten aus wichtigen Gründen auch durch das Gericht erfolgen.
 
-`§ 1115 ABGB.`  
-Die stillschweigende Erneuerung des Bestandvertrages geschieht unter den nähmlichen Bedingungen, unter welchen er vorher geschlossen war. Doch erstreckt sie sich bey Pachtungen nur auf Ein Jahr; wenn aber der ordentliche Genuß erst in einem späteren Zeitraume erfolgen kann, auf eine so lange Zeit, als nothwendig ist, um die Nutzungen einmahl beziehen zu können. Miethungen, wofür man den Zins erst nach einem ganzen oder halben Jahre zu bezahlen pflegt, werden auf ein halbes Jahr; alle kürzere Miethungen aber auf diejenige Zeit stillschweigend erneuert, welche vorher durch den Bestandvertrag bestimmt war. Von wiederhohlten Erneuerungen gilt das Nähmliche, was hier in Rücksicht der ersten Erneuerung vorgeschrieben ist.
+`§ 1216b (4) ABGB.`  
+Die Gesellschafter sind verpflichtet, die Liquidation und die Liquidatoren soweit möglich den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf ortsübliche Weise bekannt zu machen.
+----
 
-### § 1116 ABGB # c) Aufkündigung;
+----
+### § 1216c ABGB # Rechte und Pflichten der Liquidatoren
 
-`§ 1116 ABGB.`  
-In so fern die Dauer eines Bestandvertrages weder ausdrücklich, noch stillschweigend, noch durch besondere Vorschriften bestimmt ist, muß derjenige, welcher den Vertrag aufheben will, dem Andern die Pachtung sechs Monathe; die Miethung einer unbeweglichen Sache vierzehn Tage; und einer beweglichen vier und zwanzig Stunden vorher aufkündigen, als die Abtretung erfolgen soll.
+`§ 1216c (1) ABGB.`  
+Die Liquidatoren haben die laufenden Geschäfte zu beenden, die gesellschaftsbezogenen Forderungen einzuziehen und die Gesellschaftsgläubiger zu befriedigen. Zur Beendigung schwebender Geschäfte können die Liquidatoren auch neue Geschäfte eingehen.
 
-### § 1116a ABGB
+`§ 1216c (2) ABGB.`  
+Den Gesellschaftern sind die Gegenstände, die sie der Gesellschaft zur Benutzung überlassen haben, zurückzugeben. Für einen durch Zufall abhanden gekommenen oder verschlechterten Gegenstand gebührt ihnen gegenüber den anderen Gesellschaftern kein Ersatz.
+----
 
-`§ 1116a ABGB.`  
-Durch den Tod eines der vertragschließenden Teile wird der Bestandvertrag nicht aufgehoben. Wohnungsmieten können jedoch, wenn der Mieter stirbt, ohne Rücksicht auf die vereinbarte Dauer sowohl von den Erben des Mieters wie von dem Vermieter unter Einhaltung der gesetzlichen Kündigungsfrist gelöst werden.
+----
+### § 1216d ABGB # Handeln der Liquidatoren
 
-### § 1117 ABGB
+`§ 1216d ABGB.`  
+Die Liquidatoren vertreten die Gesellschafter gerichtlich und außergerichtlich als Gesamtvertreter, sofern die Gesellschafter nicht einvernehmlich etwas anderes vereinbaren. Die Liquidatoren können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen. Jeder Liquidator ist alleine befugt, gesellschaftsbezogene Erklärungen entgegenzunehmen.
+----
 
-`§ 1117 ABGB.`  
-Der Bestandnehmer ist berechtigt, auch vor Verlauf der bedungenen Zeit von dem Vertrag ohne Kündigung abzustehen, wenn das Bestandstück in einem Zustand übergeben oder ohne seine Schuld in einen Zustand geraten ist, der es zu dem bedungenen Gebrauch untauglich macht, oder wenn ein beträchtlicher Teil durch Zufall auf eine längere Zeit entzogen oder unbrauchbar wird. Aus dem Grunde der Gesundheitsschädlichkeit gemieteter Wohnräume steht dieses Recht dem Mieter auch dann zu, wenn er im Vertrage darauf verzichtet oder die Beschaffenheit der Räume beim Vertragsabschluß gekannt hat.
+----
+### § 1216e ABGB # Aufteilung und Ausgleich unter den Gesellschaftern
 
-### § 1118 ABGB
+`§ 1216e (1) ABGB.`  
+Das nach Berücksichtigung der Schulden verbleibende Gesellschaftsvermögen ist nach dem Verhältnis der Beteiligung der Gesellschafter unter Berücksichtigung ihrer Guthaben und Verbindlichkeiten aus dem Gesellschaftsverhältnis unter die Gesellschafter zu verteilen.
 
-`§ 1118 ABGB.`  
-Der Bestandgeber kann seinerseits die frühere Aufhebung des Vertrages fordern, wenn der Bestandnehmer der Sache einen erheblichen nachtheiligen Gebrauch davon macht; wenn er nach geschehener Einmahnung mit der Bezahlung des Zinses dergestalt säumig ist, daß er mit Ablauf des Termins den rückständigen Bestandzins nicht vollständig entrichtet hat; oder, wenn ein vermiethetes Gebäude neu aufgeführt werden muß. Eine nützlichere Bauführung ist der Miether zu seinem Nachtheile zuzulassen nicht schuldig, wohl aber nothwendige Ausbesserungen.
+`§ 1216e (2) ABGB.`  
+Das während der Liquidation entbehrliche Geld wird vorläufig verteilt. Zur Deckung noch nicht fälliger oder streitiger Verbindlichkeiten sowie zur Sicherung der den Gesellschaftern bei der Schlussverteilung zukommenden Beträge ist das Erforderliche zurückzubehalten. § 1196 Abs. 1 ist während der Liquidation nicht anzuwenden.
 
-### § 1119 ABGB
+`§ 1216e (3) ABGB.`  
+Entsteht über die Verteilung des Gesellschaftsvermögens Streit unter den Gesellschaftern, so haben die Liquidatoren die Verteilung bis zur Entscheidung des Streites auszusetzen.
 
-`§ 1119 ABGB.`  
-Wenn dem Vermiether die Nothwendigkeit der neuen Bauführung schon zur Zeit des geschlossenen Vertrages bekannt seyn mußte; oder, wenn die Nothwendigkeit der durch längere Zeit fortzusetzenden Ausbesserungen aus Vernachlässigung der kleinern Ausbesserungen entstanden ist; so muß dem Miether für den vermißten Gebrauch eine angemessene Entschädigung geleistet werden.
+`§ 1216e (4) ABGB.`  
+Reicht das Gesellschaftsvermögen zur Deckung der Guthaben von Gesellschaftern aus dem Gesellschaftsverhältnis nicht aus, so sind die übrigen Gesellschafter ihnen gegenüber verpflichtet, für den Betrag im Verhältnis ihrer Verbindlichkeiten aus dem Gesellschaftsverhältnis aufzukommen. Kann von einem Gesellschafter der auf ihn entfallende Betrag nicht erlangt werden, so wird der Ausfall auf die übrigen Gesellschafter wie ein Verlust verteilt.
+----
 
-### § 1120 ABGB # d) Veräußerung der Sache;
+----
+## Achtundzwanzigstes Hauptstück # Von den Ehepakten und dem Anspruch auf Ausstattung
 
-`§ 1120 ABGB.`  
-Hat der Eigenthümer das Bestandstück an einen Andern veräußert, und ihm bereits übergeben; so muß der Bestandinhaber, wenn sein Recht nicht in die öffentlichen Bücher eingetragen ist (§. 1095), nach der gehörigen Aufkündigung dem neuen Besitzer weichen. Er ist aber berechtiget, von dem Bestandgeber in Rücksicht auf den erlittenen Schaden, und entgangenen Nutzen eine vollkommene Genugthuung zu fordern.
+### § 1217 ABGB # Ehepakte
 
-### § 1121 ABGB
+`§ 1217 (1) ABGB.`  
+Ehepakte heißen diejenigen Verträge, welche in der Absicht auf die eheliche Verbindung über das Vermögen geschlossen werden. Sie haben vorzüglich die Gütergemeinschaft und den Erbvertrag zum Gegenstand.
 
-`§ 1121 ABGB.`  
-Bei einer zwangsweisen gerichtlichen Veräußerung ist das Bestandrecht, wenn es in die öffentlichen Bücher eingetragen ist, gleich einer Dienstbarkeit zu behandeln. Hat der Ersteher das Bestandrecht nicht zu übernehmen, so muß ihm der Bestandnehmer nach gehöriger Aufkündigung weichen.
+`§ 1217 (2) ABGB.`  
+Die Bestimmungen dieses Hauptstücks sind auf eingetragene Partner sinngemäß anzuwenden.
+----
 
-## Sechs u. zwanzigstes Hauptstück. # Von Verträgen über Dienstleistungen
+----
+### § 1220 ABGB # Ausstattung
 
-### § 1151 ABGB # Dienst- und Werkvertrag.
+`§ 1220 ABGB.`  
+Besitzt ein Kind kein eigenes, zu einer angemessenen Ausstattung hinlängliches Vermögen, so sind Eltern oder Großeltern nach der Reihenfolge und nach den Grundsätzen, nach denen sie für den Unterhalt der Kinder zu sorgen haben, verpflichtet, den Kindern oder Enkelkindern bei ihrer Verehelichung eine Ausstattung zu geben oder dazu verhältnismäßig beizutragen.
+----
 
-`§ 1151 (1) ABGB.`  
-Wenn jemand sich auf eine gewisse Zeit zur Dienstleistung für einen anderen verpflichtet, so entsteht ein Dienstvertrag; wenn jemand die Herstellung eines Werkes gegen Entgelt übernimmt, ein Werkvertrag.
+----
+### § 1221 ABGB
 
-`§ 1151 (2) ABGB.`  
-Insoweit damit eine Geschäftsbesorgung (§ 1002) verbunden ist, müssen auch die Vorschriften über den Bevollmächtigungsvertrag beobachtet werden.
+`§ 1221 ABGB.`  
+Berufen sich Eltern oder Großeltern auf ihr Unvermögen zur Bestellung einer angemessenen Ausstattung, so hat das Gericht auf Antrag des Ausstattungsberechtigten, jedoch ohne strenge Untersuchung des Vermögensstands, darüber zu entscheiden.
+----
 
-### § 1152 ABGB
+----
+### § 1222 ABGB
 
-`§ 1152 ABGB.`  
-Ist im Vertrage kein Entgelt bestimmt und auch nicht Unentgeltlichkeit vereinbart, so gilt ein angemessenes Entgelt als bedungen.
+`§ 1222 ABGB.`  
+Wenn ein Kind ohne Wissen oder gegen den Willen seiner Eltern geheiratet hat und das Gericht die Ursache der Missbilligung begründet findet, sind die Eltern selbst in dem Falle, dass sie in der Folge die Ehe genehmigen, nicht schuldig, ihm eine Ausstattung zu geben.
+----
 
-### § 1153 ABGB # 1. Dienstvertrag.
+----
+### § 1223 ABGB
 
-`§ 1153 ABGB.`  
-Wenn sich aus dem Dienstvertrage oder aus den Umständen nichts anderes ergibt, hat der Dienstnehmer die Dienste in eigener Person zu leisten und ist der Anspruch auf die Dienste nicht übertragbar. Soweit über Art und Umfang der Dienste nichts vereinbart ist, sind die den Umständen nach angemessenen Dienste zu leisten.
+`§ 1223 ABGB.`  
+Hat ein Kind seine Ausstattung schon erhalten und sie, wenn auch ohne sein Verschulden, verloren, so ist es nicht mehr – selbst nicht bei Eingehung einer weiteren Ehe – berechtigt, eine neue zu fordern.
+----
 
-### § 1154 ABGB # Anspruch auf das Entgelt.
+----
+### § 1233 ABGB # Gütergemeinschaft
 
-`§ 1154 (1) ABGB.`  
-Wenn nichts anderes vereinbart oder bei Diensten der betreffenden Art üblich ist, ist das Entgelt nach Leistung der Dienste zu entrichten.
+`§ 1233 ABGB.`  
+Die eheliche Verbindung allein begründet noch keine Gemeinschaft der Güter zwischen den Eheleuten. Dazu wird ein besonderer Vertrag erfordert, dessen Umfang und rechtliche Form nach den §§. 1177 und 1178 des vorigen Hauptstückes beurtheilet wird.
+----
 
-`§ 1154 (2) ABGB.`  
-Ist das Entgelt nach Monaten oder kürzeren Zeiträumen bemessen, so ist es am Schlusse des einzelnen Zeitraumes; ist es nach längeren Zeiträumen bemessen, am Schlusse eines jeden Kalendermonats zu entrichten. Ein nach Stunden, nach Stück oder Einzelleistungen bemessenes Entgelt ist für die schon vollendeten Leistungen am Schlusse einer jeden Kalenderwoche, wenn es sich jedoch um Dienste höherer Art handelt, am Schlusse eines jeden Kalendermonats zu entrichten.
+----
+### § 1234 ABGB
 
-`§ 1154 (3) ABGB.`  
-In jedem Falle wird das bereits verdiente Entgelt mit der Beendigung des Dienstverhältnisses fällig.
+`§ 1234 ABGB.`  
+Die Gütergemeinschaft unter Ehegatten wird in der Regel nur auf den Todesfall verstanden. Sie gibt dem Ehegatten das Recht auf die Hälfte dessen, was von den der Gemeinschaft wechselseitig unterzogenen Gütern nach Ableben des andern Ehegatten noch vorhanden seyn wird.
+----
 
-### § 1154a ABGB
+----
+### § 1235 ABGB
 
-`§ 1154a ABGB.`  
-Der nach Stück oder Einzelleistungen entlohnte Dienstnehmer kann einen den geleisteten Diensten und seinen Auslagen entsprechenden Vorschuß vor Fälligkeit des Entgelts verlangen.
+`§ 1235 ABGB.`  
+Bey einer Gemeinschaft, die sich auf das ganze Vermögen bezieht, sind vor der Theilung alle Schulden ohne Ausnahme; bey einer Gemeinschaft aber, die bloß das gegenwärtige, oder bloß das künftige Vermögen zum Gegenstande hat, nur diejenigen Schulden abzuziehen, die zum Nutzen des gemeinschaftlichen Gutes verwendet worden sind.
+----
 
-### § 1154b ABGB
+----
+### § 1236 ABGB
 
-`§ 1154b (1) ABGB.`  
-Der Dienstnehmer behält seinen Anspruch auf das Entgelt, wenn er nach Antritt des Dienstes durch Krankheit oder Unglücksfall an der Dienstleistung verhindert ist, ohne dies vorsätzlich oder durch grobe Fahrlässigkeit verschuldet zu haben, bis zur Dauer von sechs Wochen. Der Anspruch auf das Entgelt erhöht sich auf die Dauer von acht Wochen, wenn das Dienstverhältnis fünf Jahre, von zehn Wochen, wenn es 15 Jahre und von zwölf Wochen, wenn es 25 Jahre ununterbrochen gedauert hat. Durch jeweils weitere vier Wochen behält der Dienstnehmer den Anspruch auf das halbe Entgelt.
+`§ 1236 ABGB.`  
+Besitzt ein Ehegatte ein unbewegliches Gut, und wird das Recht des andern Ehegatten zur Gemeinschaft in die öffentlichen Bücher eingetragen; so erhält dieser durch die Eintragung auf die Hälfte der Substanz des Gutes ein dingliches Recht, vermöge dessen der eine Ehegatte über diese Hälfte keine Anordnung machen kann; auf die Nutzungen aber während der Ehe erhält er durch die Einverleibung keinen Anspruch. Nach dem Tode des Ehegatten gebührt dem überlebenden Theile sogleich das freye Eigenthum seines Antheiles. Doch kann eine solche Einverleibung den auf das Gut früher eingetragenen Gläubigern nicht zum Nachtheile gereichen.
+----
 
-`§ 1154b (2) ABGB.`  
-Bei wiederholter Dienstverhinderung durch Krankheit (Unglücksfall) innerhalb eines Arbeitsjahres besteht ein Anspruch auf Fortzahlung des Entgelts nur insoweit, als die Dauer des Anspruchs gemäß Abs. 1 noch nicht erschöpft ist.
+----
+### § 1237 ABGB # Gesetzlicher ehelicher Güterstand
 
-`§ 1154b (3) ABGB.`  
-Wird ein Dienstnehmer durch Arbeitsunfall oder Berufskrankheit im Sinne der Vorschriften über die gesetzliche Unfallversicherung an der Leistung seiner Dienste verhindert, ohne dass er die Verhinderung vorsätzlich oder durch grobe Fahrlässigkeit herbeigeführt hat, so behält er seinen Anspruch auf das Entgelt ohne Rücksicht auf andere Zeiten einer Dienstverhinderung bis zur Dauer von acht Wochen. Der Anspruch auf das Entgelt erhöht sich auf die Dauer von zehn Wochen, wenn das Dienstverhältnis 15 Jahre ununterbrochen gedauert hat. Bei wiederholten Dienstverhinderungen, die im unmittelbaren ursächlichen Zusammenhang mit einem Arbeitsunfall oder einer Berufskrankheit stehen, besteht ein Anspruch auf Fortzahlung des Entgelts innerhalb eines Dienstjahres nur insoweit, als die Dauer des Anspruchs nach dem ersten oder zweiten Satz noch nicht erschöpft ist. Ist ein Dienstnehmer gleichzeitig bei mehreren Dienstgebern beschäftigt, so entsteht ein Anspruch nach diesem Absatz nur gegenüber jenem Dienstgeber, bei dem die Dienstverhinderung im Sinne dieses Absatzes eingetreten ist; gegenüber den anderen Dienstgebern entstehen Ansprüche nach Abs. 1.
+`§ 1237 ABGB.`  
+Haben Eheleute über die Verwendung ihres Vermögens keine besondere Uebereinkunft getroffen, so behält jeder Ehegatte sein voriges Eigenthumsrecht, und auf das, was ein jeder Theil während der Ehe erwirbt, und auf was immer für eine Art überkommt, hat der andere, solange die Ehe besteht, keinen Anspruch.
+----
 
-`§ 1154b (4) ABGB.`  
-Kur- und Erholungsaufenthalte, Aufenthalte in Heil- und Pflegeanstalten, Rehabilitationszentren und Rekonvaleszentenheimen, die wegen eines Arbeitsunfalles oder einer Berufskrankheit von einem Träger der Sozialversicherung, dem Bundesministerium für soziale Sicherheit und Generationen gemäß § 12 Abs. 4 Opferfürsorgegesetz, einem Bundesamt für Soziales und Behindertenwesen oder einer Landesregierung auf Grund eines Behindertengesetzes auf deren Rechnung bewilligt oder angeordnet werden, sind einer Dienstverhinderung gemäß Abs. 3 gleichzuhalten.
+----
+### § 1246 ABGB # Schenkungen unter Ehegatten und Verlobten;
 
-`§ 1154b (5) ABGB.`  
-Der Dienstnehmer behält ferner den Anspruch auf das Entgelt, wenn er durch andere wichtige, seine Person betreffende Gründe ohne sein Verschulden während einer verhältnismäßig kurzen Zeit an der Dienstleistung verhindert wird.
+`§ 1246 ABGB.`  
+Die Gültigkeit oder Ungültigkeit der Schenkungen zwischen Ehegatten wird nach den für die Schenkungen überhaupt bestehenden Gesetzen beurtheilt.
+----
 
-`§ 1154b (6) ABGB.`  
-Ist der Dienstnehmer nach Antritt des Dienstverhältnisses wegen eines Einsatzes als freiwilliges Mitglied einer Katastrophenhilfsorganisation, eines Rettungsdienstes oder einer freiwilligen Feuerwehr bei einem Großschadensereignis nach § 3 Z 2 lit. b des Katastrophenfondsgesetzes, BGBl. Nr. 201/1996 oder als Mitglied eines Bergrettungsdienstes an der Dienstleistung verhindert, so hat er unbeschadet seiner Ansprüche nach Abs. 5 einen Anspruch auf Fortzahlung des Entgelts, wenn das Ausmaß und die Lage der Dienstfreistellung mit dem Dienstgeber vereinbart wird.
+----
+### § 1247 ABGB
 
-`§ 1154b (7) ABGB.`  
-Der Ablauf von laufenden gesetzlichen, kollektivvertraglichen und vertraglichen Verjährungs- und Verfallsfristen betreffend Ansprüche aus dem Dienstverhältnis, die der Dienstnehmer zu Beginn einer Dienstverhinderung nach Abs. 5 wegen Krankheit oder Unfall eines nahen Angehörigen bereits erworben hat, bleibt bis zum Ablauf von zwei Wochen nach Ende dieser Dienstverhinderung gehemmt.
+`§ 1247 ABGB.`  
+Was ein Mann seiner Ehegattinn an Schmuck, Edelsteinen und andern Kostbarkeiten zum Putze gegeben hat, wird im Zweifel nicht für gelehnt; sondern für geschenkt angesehen. Wenn aber ein verlobter Theil dem andern; oder auch ein Dritter dem einen oder andern Theile in Rücksicht auf die künftige Ehe etwas zusichert oder schenket; so kann, wenn die Ehe ohne Verschulden des Geschenkgebers nicht erfolgt, die Schenkung widerrufen werden.
+----
 
-### § 1155 ABGB
+----
+### § 1249 ABGB # Erbverträge
 
-`§ 1155 (1) ABGB.`  
-Auch für Dienstleistungen, die nicht zustande gekommen sind, gebührt dem Dienstnehmer das Entgelt, wenn er zur Leistung bereit war und durch Umstände, die auf Seite des Dienstgebers liegen, daran verhindert worden ist; er muß sich jedoch anrechnen, was er infolge Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat.
+`§ 1249 ABGB.`  
+Zwischen Ehegatten kann auch ein Erbvertrag, wodurch die künftige Erbschaft oder ein Teil derselben versprochen und das Versprechen angenommen wird, geschlossen werden (§ 602). Ein solcher Vertrag muss als Notariatsakt und mit allen Erfordernissen eines schriftlichen Testamentes errichtet werden.
+----
 
-`§ 1155 (2) ABGB.`  
-Wurde er infolge solcher Umstände durch Zeitverlust bei der Dienstleistung verkürzt, so gebührt ihm angemessene Entschädigung.
-*(Anm.: Abs. 3 und 4 mit Ablauf des 31.12.2020 außer Kraft getreten)*
+----
+### § 1251 ABGB # Bedingungen
 
-### § 1156 ABGB # Erlöschen der Ansprüche.
+`§ 1251 ABGB.`  
+Die Bestimmungen über Bedingungen bei Verträgen sind auch auf Erbverträge anzuwenden.
+----
 
-`§ 1156 ABGB.`  
-Die dem Dienstgeber nach § 1154b obliegenden Verpflichtungen erlöschen, wenn das Dienstverhältnis infolge Ablaufes der Zeit, für die es eingegangen wurde, oder infolge einer früheren Kündigung oder einer Entlassung endet, die nicht durch die Erkrankung oder sonstige die Person des Dienstnehmers betreffende wichtige Gründe im Sinne des § 1154b verursacht ist. Wird der Dienstnehmer wegen der Verhinderung entlassen oder wird ihm während der Verhinderung gekündigt, so bleibt die dadurch herbeigeführte Beendigung des Dienstverhältnisses in Ansehung der bezeichneten Ansprüche außer Betracht.
+----
+### § 1252 ABGB # Wirkungen des Erbvertrags
 
-### § 1157 ABGB # Fürsorgepflicht des Dienstgebers.
+`§ 1252 ABGB.`  
+Ein Erbvertrag hindert einen Vertragspartner nicht, zu Lebzeiten über sein Vermögen nach Belieben zu verfügen. Aus dem Erbvertrag entstehende Rechte setzen den Tod eines Vertragsteils voraus und können vor Erbanfall nicht auf andere übertragen werden. Aufgrund der künftigen Erbschaft kann keine Sicherstellung gefordert werden.
+----
 
-`§ 1157 (1) ABGB.`  
-Der Dienstgeber hat die Dienstleistungen so zu regeln und bezüglich der von ihm beizustellenden oder beigestellten Räume und Gerätschaften auf seine Kosten dafür zu sorgen, daß Leben und Gesundheit des Dienstnehmers, soweit es nach der Natur der Dienstleistung möglich ist, geschützt werden.
+----
+### § 1253 ABGB
 
-`§ 1157 (2) ABGB.`  
-Ist der Dienstnehmer in die Hausgemeinschaft des Dienstgebers aufgenommen, so hat dieser in Ansehung des Wohn- und Schlafraumes, der Verpflegung sowie der Arbeits- und Erholungszeit die mit Rücksicht auf Gesundheit, Sittlichkeit und Religion des Dienstnehmers erforderlichen Anordnungen zu treffen.
+`§ 1253 ABGB.`  
+Durch den Erbvertrag kann ein Vertragspartner auf das Recht zu testieren nicht gänzlich verzichten. Ein reines Viertel, das weder durch Pflichtteile noch durch andere Forderungen belastet sein darf, muss zur freien letztwilligen Verfügung stehen. Hat der Verstorbene darüber nicht verfügt, so fällt dieses Viertel nicht dem Vertragserben, auch wenn ihm im Erbvertrag die ganze Verlassenschaft versprochen wurde, sondern den gesetzlichen Erben zu.
+----
 
-### § 1158 ABGB # Endigung des Dienstverhältnisses.
+----
+### § 1254 ABGB
 
-`§ 1158 (1) ABGB.`  
-Das Dienstverhältnis endet mit dem Ablaufe der Zeit, für die es eingegangen wurde.
+`§ 1254 ABGB.`  
+Ein Erbvertrag kann nicht einseitig widerrufen, aber aus vertragsrechtlichen Gründen entkräftet werden. Die Rechte von Pflichtteilsberechtigten bleiben vom Erbvertrag unberührt.
+----
 
-`§ 1158 (2) ABGB.`  
-Ein auf Probe oder nur für die Zeit eines vorübergehenden Bedarfes vereinbartes Dienstverhältnis kann während des ersten Monates von beiden Teilen jederzeit gelöst werden.
+----
+### § 1262 ABGB
 
-`§ 1158 (3) ABGB.`  
-Ein für die Lebenszeit einer Person oder für länger als fünf Jahre vereinbartes Dienstverhältnis kann von dem Dienstnehmer nach Ablauf von fünf Jahren unter Einhaltung einer Kündigungsfrist von sechs Monaten gelöst werden.
-*(Anm.: Abs. 4 aufgehoben durch Art. 6 Z 2, BGBl. I Nr. 153/2017)*
+`§ 1262 ABGB.`  
+Ist zwischen den Ehegatten eine Gemeinschaft der Güter bedungen; so hört dieselbe durch den Concurs des einen oder des andern Ehegatten auf, und das zwischen ihnen gemeinschaftliche Vermögen wird, wie bey dem Tode, getheilt.
+----
 
-### § 1159 ABGB # Kündigung
+----
+### § 1265 ABGB # Nichtigerklärung der Ehe
 
-`§ 1159 (1) ABGB.`  
-Ist das Dienstverhältnis ohne Zeitbestimmung eingegangen oder fortgesetzt worden, so kann es durch Kündigung nach folgenden Bestimmungen gelöst werden.
+`§ 1265 ABGB.`  
+Wird eine Ehe für ungültig erklärt; so zerfallen auch die Ehe-Pacte; das Vermögen kommt, in so fern es vorhanden ist, in den vorigen Stand zurück. Der schuldtragende Theil hat aber den schuldlosen Theile Entschädigung zu leisten.
+----
 
-`§ 1159 (2) ABGB.`  
-Mangels einer für den Dienstnehmer günstigeren Vereinbarung kann der Dienstgeber das Dienstverhältnis mit Ablauf eines jeden Kalendervierteljahres durch vorgängige Kündigung lösen. Die Kündigungsfrist beträgt sechs Wochen und erhöht sich nach dem vollendeten zweiten Dienstjahr auf zwei Monate, nach dem vollendeten fünften Dienstjahr auf drei, nach dem vollendeten fünfzehnten Dienstjahr auf vier und nach dem vollendeten fünfundzwanzigsten Dienstjahr auf fünf Monate. Durch Kollektivvertrag können für Branchen, in denen Saisonbetriebe im Sinne des § 53 Abs. 6 des Arbeitsverfassungsgesetzes, BGBl. Nr. 22/1974 überwiegen, abweichende Regelungen festgelegt werden.
+----
+### § 1266 ABGB # Scheidung oder Aufhebung der Ehe
 
-`§ 1159 (3) ABGB.`  
-Die Kündigungsfrist kann durch Vereinbarung nicht unter die im Absatz 2 bestimmte Dauer herabgesetzt werden; jedoch kann vereinbart werden, dass die Kündigungsfrist am Fünfzehnten oder am Letzten des Kalendermonats endigt.
+`§ 1266 ABGB.`  
+Im Fall einer Scheidung oder Aufhebung der Ehe mit gleichteiligem oder ohne Verschulden oder einer Scheidung im Einvernehmen sind die Ehepakte für beide Teile erloschen, sofern keine andere Vereinbarung getroffen wurde. Ansonsten gebührt dem schuldlosen oder minderschuldigen Ehegatten nicht nur volle Genugtuung, sondern ab dem Zeitpunkt der Scheidung alles dasjenige, was ihm in den Ehepakten auf den Fall des Überlebens bedungen worden ist. Das Vermögen, worüber eine Gütergemeinschaft bestanden hat, wird wie im Falle des Todes geteilt, und das Recht aus einem Erbvertrag bleibt dem Schuldlosen oder Minderschuldigen auf den Todesfall vorbehalten.
+----
 
-`§ 1159 (4) ABGB.`  
-Mangels einer für ihn günstigeren Vereinbarung kann der Dienstnehmer das Dienstverhältnis mit dem letzten Tage eines Kalendermonats unter Einhaltung einer einmonatigen Kündigungsfrist lösen. Diese Kündigungsfrist kann durch Vereinbarung bis zu einem halben Jahr ausgedehnt werden; doch darf die vom Dienstgeber einzuhaltende Frist nicht kürzer sein als die mit dem Dienstnehmer vereinbarte Kündigungsfrist. Durch Kollektivvertrag können für Branchen, in denen Saisonbetriebe im Sinne des § 53 Abs. 6 des Arbeitsverfassungsgesetzes, BGBl. Nr. 22/1974 überwiegen, abweichende Regelungen festgelegt werden.
+----
+## Neun u. zwanzigstes Hauptstück. # Von den Glücksverträgen.
 
-`§ 1159 (5) ABGB.`  
-Ist das Dienstverhältnis nur für die Zeit eines vorübergehenden Bedarfes vereinbart, so kann es während des ersten Monats von beiden Teilen jederzeit unter Einhaltung einer einwöchigen Kündigungsfrist gelöst werden.
+### § 1267 ABGB # Glücksverträge
 
-### § 1160 ABGB # Freizeit während der Kündigungsfrist
+`§ 1267 ABGB.`  
+Ein Vertrag, wodurch die Hoffnung eines noch ungewissen Vortheiles versprochen und angenommen wird, ist ein Glücksvertrag. Er gehört, je nachdem etwas dagegen versprochen wird oder nicht, zu den entgeltlichen oder unentgeldlichen Verträgen.
+----
 
-`§ 1160 (1) ABGB.`  
-Bei Kündigung durch den Dienstgeber ist dem Dienstnehmer während der Kündigungsfrist auf sein Verlangen wöchentlich mindestens ein Fünftel der regelmäßigen wöchentlichen Arbeitszeit ohne Schmälerung des Entgelts freizugeben.
+----
+### § 1268 ABGB
 
-`§ 1160 (2) ABGB.`  
-Ansprüche nach Abs. 1 bestehen nicht, wenn der Dienstnehmer einen Anspruch auf eine Pension aus der gesetzlichen Pensionsversicherung hat, sofern eine Bescheinigung über die vorläufige Krankenversicherung vom Pensionsversicherungsträger ausgestellt wurde.
+`§ 1268 ABGB.`  
+Bey Glücksverträgen findet das Rechtmittel wegen Verkürzung über die Hälfte des Werthes nicht Statt.
+----
 
-`§ 1160 (3) ABGB.`  
-Durch Kollektivvertrag können abweichende Regelungen getroffen werden.
+----
+### § 1269 ABGB # Arten der Glücksverträge;
 
-### § 1161 ABGB # Insolvenzverfahren
+`§ 1269 ABGB.`  
+Glücksverträge sind: die Wette; das Spiel und das Los; alle über gehoffte Rechte, oder über künftige noch unbestimmte Sachen errichtete Kauf- und andere Verträge; ferner, die Leibrenten; die gesellschaftlichen Versorgungsanstalten; endlich die Versicherungs- und Bodmereyverträge.
+----
 
-`§ 1161 ABGB.`  
-Welche Wirkungen die Eröffnung des Insolvenzverfahrens über das Vermögen des Dienstgebers auf das Dienstverhältnis hat, bestimmt die Insolvenzordnung.
+----
+### § 1270 ABGB # 1) die Wette;
 
-### § 1162 ABGB # Vorzeitige Auflösung.
+`§ 1270 ABGB.`  
+Wenn über ein beyden Theilen noch unbekanntes Ereigniß ein bestimmter Preis zwischen ihnen für denjenigen, dessen Behauptung der Erfolg entspricht, verabredet wird: so entsteht eine Wette. Hatte der gewinnende Theil von dem Ausgange Gewißheit, und verheimlichte er sie dem andern Theile; so macht er sich einer Arglist schuldig, und die Wette ist ungültig; der verlierende Theil aber, dem der Ausgang vorher bekannt war, ist als ein Geschenkgeber anzusehen.
+----
 
-`§ 1162 ABGB.`  
-Das Dienstverhältnis kann, wenn es für bestimmte Zeit eingegangen wurde, vor Ablauf dieser Zeit, sonst aber ohne Einhaltung einer Kündigungsfrist von jedem Teile aus wichtigen Gründen gelöst werden.
+----
+### § 1271 ABGB
 
-### § 1162a ABGB
+`§ 1271 ABGB.`  
+Redliche und sonst erlaubte Wetten sind in so weit verbindlich, als der bedungene Preis nicht bloß versprochen; sondern wirklich entrichtet, oder hinterlegt worden ist. Gerichtlich kann der Preis nicht gefordert werden.
+----
 
-`§ 1162a ABGB.`  
-Wenn der Dienstnehmer ohne wichtigen Grund vorzeitig austritt, kann der Dienstgeber entweder dessen Wiedereintritt zur Dienstleistung nebst Schadenersatz oder Schadenersatz wegen Nichterfüllung des Vertrages verlangen. Wird der Dienstnehmer wegen eines Verschuldens vorzeitig entlassen, so hat er Schadenersatz wegen Nichterfüllung des Vertrages zu leisten. Für die schon bewirkten Leistungen, deren Entgelt noch nicht fällig ist, steht dem Dienstnehmer ein Anspruch auf den entsprechenden Teil des Entgelts nur insoweit zu, als sie nicht durch die vorzeitige Auflösung des Dienstverhältnisses für den Dienstgeber ihren Wert ganz oder zum größten Teil eingebüßt haben.
+----
+### § 1272 ABGB # 2) das Spiel;
 
-### § 1162b ABGB
+`§ 1272 ABGB.`  
+Jedes Spiel ist eine Art von Wette. Die für Wetten festgesetzten Rechte gelten auch für Spiele. Welche Spiele überhaupt, oder für besondere Classen verbothen; wie Personen, die verbothene Spiele treiben, und diejenigen, die ihnen dazu Unterschleif geben, zu bestrafen sind, bestimmen die politischen Gesetze.
+----
 
-`§ 1162b ABGB.`  
-Wenn der Dienstgeber den Dienstnehmer ohne wichtigen Grund vorzeitig entläßt oder wenn ihn ein Verschulden an dem vorzeitigen Austritte des Dienstnehmers trifft, behält dieser, unbeschadet weitergehenden Schadenersatzes, seine vertragsgemäßen Ansprüche auf das Entgelt für den Zeitraum, der bis zur Beendigung des Dienstverhältnisses durch Ablauf der Vertragszeit oder durch ordnungsmäßige Kündigung hätte verstreichen müssen, unter Anrechnung dessen, was er infolge des Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat. Soweit jedoch der oben genannte Zeitraum drei Monate nicht übersteigt, kann der Dienstnehmer das ganze für diese Zeit gebührende Entgelt ohne Abzug sofort fordern.
+----
+### § 1273 ABGB # 3) Los;
 
-### § 1162c ABGB
+`§ 1273 ABGB.`  
+Ein zwischen Privat-Personen auf eine Wette oder auf ein Spiel abzielendes Los wird nach den für Wetten und Spiele festgesetzten Vorschriften beurtheilet. Soll aber eine Theilung, eine Wahl, oder eine Streitigkeit durch das Los entschieden werden; so treten dabey die Rechte der übrigen Verträge ein.
+----
 
-`§ 1162c ABGB.`  
-Trifft beide Teile ein Verschulden an der vorzeitigen Lösung des Dienstverhältnisses, so hat der Richter nach freiem Ermessen zu entscheiden, ob und in welcher Höhe ein Ersatz gebührt.
+----
+### § 1274 ABGB
 
-### § 1162d ABGB
+`§ 1274 ABGB.`  
+Staats-Lotterien sind nicht nach der Eigenschaft der Wette und des Spieles; sondern nach den jedes Mahl darüber kundgemachten Plänen, zu beurtheilen.
+----
 
-`§ 1162d ABGB.`  
-Ansprüche wegen vorzeitigen Austrittes oder vorzeitiger Entlassung im Sinne der §§ 1162a und 1162b müssen bei sonstigem Ausschlusse binnen sechs Monaten nach Ablauf des Tages, an dem sie erhoben werden konnten, gerichtlich geltend gemacht werden.
+----
+### § 1275 ABGB # 4) Hoffnungskauf
 
-### § 1163 ABGB # Zeugnis.
+`§ 1275 ABGB.`  
+Wer für ein bestimmtes Maß von einem künftigen Erträgnisse einen verhältnißmäßigen Preis verspricht, schließt einen ordentlichen Kaufvertrag.
+----
 
-`§ 1163 (1) ABGB.`  
-Bei Beendigung des Dienstverhältnisses ist dem Dienstnehmer auf sein Verlangen ein schriftliches Zeugnis über die Dauer und Art der Dienstleistung auszustellen. Verlangt der Dienstnehmer während der Dauer des Dienstverhältnisses ein Zeugnis, so ist ihm ein solches auf seine Kosten auszustellen. Eintragungen und Anmerkungen im Zeugnisse, durch die dem Dienstnehmer die Erlangung einer neuen Stellung erschwert wird, sind unzulässig.
+----
+### § 1276 ABGB
 
-`§ 1163 (2) ABGB.`  
-Zeugnisse des Dienstnehmers, die sich in Verwahrung des Dienstgebers befinden, sind dem Dienstnehmer auf Verlangen jederzeit auszufolgen.
+`§ 1276 ABGB.`  
+Wer die künftigen Nutzungen einer Sache in Pausch und Bogen; oder wer die Hoffnung derselben in einem bestimmten Preise kauft, errichtet einen Glücksvertrag; er trägt die Gefahr der ganz vereitelten Erwartung; es gebühren ihm aber auch alle ordentliche erzielte Nutzungen.
+----
 
-### § 1164 ABGB # Zwingende Vorschriften
+----
+### § 1277 ABGB # insbesondere eines Kuxes;
 
-`§ 1164 (1) ABGB.`  
-Die Berechtigungen des Dienstnehmers, die sich aus den Bestimmungen der §§ 1154 Abs. 3, § 1154b, 1156 bis 1159b, 1160 und 1162a bis 1163 ergeben, können durch den Dienstvertrag oder durch Normen der kollektiven Rechtsgestaltung nicht aufgehoben oder beschränkt werden.
+`§ 1277 ABGB.`  
+Der Antheil an einem Bergwerke heißt Kux. Der Kauf eines Kuxes gehört zu den gewagten Verträgen. Der Verkäufer haftet nur für die Richtigkeit des Kuxes, und der Käufer hat sich nach den Gesetzen über den Bergbau zu benehmen.
+----
 
-`§ 1164 (2) ABGB.`  
-Die §§ 1154b, 1156 und 1164 in der Fassung des Bundesgesetzes BGBl. I Nr. 44/2000 sind auf Dienstverhinderungen anzuwenden, die in nach dem 31. Dezember 2000 begonnenen Arbeitsjahren eingetreten sind.
+----
+### § 1278 ABGB # Erbschaftskauf
 
-`§ 1164 (3) ABGB.`  
-Die verlängerte Anspruchsdauer nach § 1154b Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 44/2000 bewirkt keine Verlängerung einer in Normen der kollektiven Rechtsgestaltung oder Dienstverträgen vorgesehenen längeren Anspruchsdauer. Sehen Normen der kollektiven Rechtsgestaltung oder Dienstverträge einen zusätzlichen Anspruch im Anschluss an den Anspruch nach § 1154b Abs. 1 vor, wird die Gesamtdauer der Ansprüche nicht verlängert.
+`§ 1278 (1) ABGB.`  
+Der Käufer einer vom Verkäufer angetretenen oder ihm wenigstens angefallenen Erbschaft tritt nicht allein in die Rechte, sondern auch in die Verbindlichkeiten des Verkäufers als Erben ein, soweit diese nicht höchstpersönlich sind. Wenn dem Kauf kein Inventar zugrunde gelegt wird, ist auch der Erbschaftskauf ein Glücksvertrag.
 
-`§ 1164 (4) ABGB.`  
-Im Zeitpunkt des Inkrafttretens des Bundesgesetzes BGBl. I Nr. 44/2000 für die Dienstnehmer günstigere Regelungen in Dienstverträgen oder in Normen der kollektiven Rechtsgestaltung werden durch die Neuregelung des Bundesgesetzes BGBl. I Nr. 44/2000 nicht berührt.
+`§ 1278 (2) ABGB.`  
+Der Erbschaftskauf bedarf zu seiner Gültigkeit eines Notariatsakts oder der Beurkundung durch gerichtliches Protokoll.
+----
 
-### § 1164a ABGB # Dienstzettel für das freie Dienstverhältnis
+----
+### § 1279 ABGB
 
-`§ 1164a (1) ABGB.`  
-Liegt ein freies Dienstverhältnis (§ 4 Abs. 4 Allgemeines Sozialversicherungsgesetz, BGBl. Nr. 189/1955, in der jeweils geltenden Fassung) vor, so hat der Dienstgeber dem freien Dienstnehmer unverzüglich nach dessen Beginn eine schriftliche Aufzeichnung über die wesentlichen Rechte und Pflichten aus dem freien Dienstvertrag (Dienstzettel) auszuhändigen oder nach Wahl des freien Dienstnehmers in elektronischer Form zu übermitteln. Solche Aufzeichnungen sind von Stempel- und unmittelbaren Gebühren befreit. Der Dienstzettel hat folgende Angaben zu enthalten:  
-`§ 1164a (1) Z 1 ABGB.`
-Name und Anschrift des Dienstgebers, Sitz des Unternehmens,  
-`§ 1164a (1) Z 2 ABGB.`
-Name und Anschrift des freien Dienstnehmers,  
-`§ 1164a (1) Z 3 ABGB.`
-Beginn des freien Dienstverhältnisses,  
-`§ 1164a (1) Z 4 ABGB.`
-bei freien Dienstverhältnissen auf bestimmte Zeit das Ende des freien Dienstverhältnisses,  
-`§ 1164a (1) Z 5 ABGB.`
-Dauer der Kündigungsfrist, Kündigungstermin,  
-`§ 1164a (1) Z 6 ABGB.`
-vorgesehene Tätigkeit und eine kurze Beschreibung dieser Tätigkeit,  
-`§ 1164a (1) Z 7 ABGB.`
-Entgelt, Fälligkeit und Art der Auszahlung des Entgelts,  
-`§ 1164a (1) Z 8 ABGB.`
-Name und Anschrift des Trägers der Sozialversicherung und der Betrieblichen Vorsorgekasse (BV-Kasse) des freien Dienstnehmers.
+`§ 1279 ABGB.`  
+Auf Sachen, die dem Verkäufer nicht als Erben, sondern aus einem anderen Grund, etwa als Vorausvermächtnis, als Ersatz- oder Nacherbschaft oder als Schuldforderung aus der Verlassenschaft gebühren und ihm auch ohne Erbrecht gebührt hätten, hat der Erbschaftskäufer keinen Anspruch. Dagegen erhält er alles, was der Erbschaft selbst zuwächst, insbesondere durch den Ausfall eines Vermächtnisnehmers, eines Miterben oder auf was immer für eine andere Art, soweit der Verkäufer darauf Anspruch gehabt hätte.
+----
 
-`§ 1164a (2) ABGB.`  
-Hat der freie Dienstnehmer seine Tätigkeit länger als einen Monat im Ausland zu verrichten, so hat der vor seiner Abreise auszuhändigende Dienstzettel oder schriftliche freie Dienstvertrag zusätzlich folgende Angaben zu enthalten:  
-`§ 1164a (2) Z 1 ABGB.`
-der Staat, in dem die Tätigkeit erbracht werden soll und deren voraussichtliche Dauer,  
-`§ 1164a (2) Z 2 ABGB.`
-die Währung, in der das Entgelt auszuzahlen ist,  
-`§ 1164a (2) Z 3 ABGB.`
-allenfalls Bedingungen für die Rückführung nach Österreich,  
-`§ 1164a (2) Z 4 ABGB.`
-allfällige zusätzliche Vergütung für die Auslandstätigkeit,  
-`§ 1164a (2) Z 5 ABGB.`
-allfälliger Aufwandersatz und  
-`§ 1164a (2) Z 6 ABGB.`
-einen Hinweis auf die Website des Staates, in dem die Tätigkeit erbracht wird, nach Art. 5 Abs. 2 der Richtlinie 2014/67/EU zur Durchsetzung der Richtlinie 96/71/EG über die Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen und zur Änderung der Verordnung (EU) Nr. 1024/2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems.
+----
+### § 1280 ABGB
 
-`§ 1164a (3) ABGB.`  
-Keine Verpflichtung zur Aushändigung eines Dienstzettels besteht, wenn  
-`§ 1164a (3) Z 1 ABGB.`
-ein schriftlicher freier Dienstvertrag ausgehändigt wurde, der alle in Abs. 1 und 2 genannten Angaben enthält, oder  
-`§ 1164a (3) Z 2 ABGB.`
-bei Auslandstätigkeit die in Abs. 2 genannten Angaben in anderen schriftlichen Unterlagen enthalten sind.
+`§ 1280 ABGB.`  
+Alles, was der Erbe aus dem Erbrecht erhält, wie etwa die bezogenen Früchte und Forderungen, zählt zur Verlassenschaft. Alle Aufwendungen, die er selbst für den Antritt der Erbschaft oder für die Verlassenschaft gemacht hat, werden hingegen von der Verlassenschaft abgezogen. Dazu gehören die bezahlten Schulden, die schon abgeführten Vermächtnisse, Steuern, Abgaben und Gerichtsgebühren und, wenn nicht ausdrücklich etwas anderes vereinbart wurde, auch die Begräbniskosten.
+----
 
-`§ 1164a (4) ABGB.`  
-Jede Änderung der Angaben gemäß Abs. 1 und 2 ist dem freien Dienstnehmer unverzüglich, spätestens jedoch am Tag ihres Wirksamwerdens schriftlich mitzuteilen, es sei denn, die Änderung erfolgte durch Änderung von Gesetzen.
+----
+### § 1281 ABGB
 
-`§ 1164a (5) ABGB.`  
-Hat das freie Dienstverhältnis bereits am 1. Juli 2004 bestanden, so ist dem freien Dienstnehmer auf sein Verlangen binnen zwei Monaten ein Dienstzettel gemäß Abs. 1 auszuhändigen. Eine solche Verpflichtung des Dienstgebers besteht nicht, wenn ein früher ausgestellter Dienstzettel oder ein schriftlicher Vertrag über das freie Dienstverhältnis alle nach diesem Bundesgesetz erforderlichen Angaben enthält.
+`§ 1281 ABGB.`  
+Sofern der Verkäufer die Verlassenschaft vor der Übergabe verwaltet hat, haftet er dem Käufer dafür wie ein anderer Verwalter.
+----
 
-`§ 1164a (6) ABGB.`  
-Die Bestimmungen der Abs. 1 bis 5 können durch den freien Dienstvertrag weder aufgehoben noch beschränkt werden.
+----
+### § 1282 ABGB
 
-### § 1165 ABGB # 2. Werkvertrag.
+`§ 1282 ABGB.`  
+Die Erbschaftsgläubiger und Vermächtnisnehmer können sich mit ihren Ansprüchen sowohl an den Käufer der Erbschaft als auch an den Erben selbst halten. Ihre Rechte werden so wie jene der Erbschaftsschuldner durch den Verkauf der Erbschaft nicht geändert. Die Erbantrittserklärung des Verkäufers gilt auch für den Käufer.
+----
 
-`§ 1165 ABGB.`  
-Der Unternehmer ist verpflichtet, das Werk persönlich oder unter seiner persönlichen Verantwortung ausführen zu lassen.
+----
+### § 1283 ABGB
 
-### § 1166 ABGB
+`§ 1283 ABGB.`  
+Wurde dem Verkauf der Erbschaft ein Inventar zugrunde gelegt, so haftet der Verkäufer für dasselbe. Andernfalls haftet er für die Richtigkeit seines Erbrechts, wie er es angegeben hat, und für jeden dem Käufer durch sein Verschulden zugefügten Schaden.
+----
 
-`§ 1166 ABGB.`  
-Hat derjenige, der die Verfertigung einer Sache übernommen hat, den Stoff dazu zu liefern, so ist der Vertrag im Zweifel als Kaufvertrag; liefert aber der Besteller den Stoff, im Zweifel als Werkvertrag zu betrachten.
+----
+### § 1284 ABGB # 5) Leibrente;
 
-### § 1167 ABGB # Gewährleistung
+`§ 1284 ABGB.`  
+Wird jemanden für Geld, oder gegen eine für Geld geschätzte Sache auf die Lebensdauer einer gewissen Person eine bestimmte jährliche Entrichtung versprochen; so ist es ein Leibrentenvertrag.
+----
 
-`§ 1167 ABGB.`  
-Bei Mängeln des Werkes kommen die für entgeltliche Verträge überhaupt geltenden Bestimmungen (§§ 922 bis 933b) zur Anwendung.
+----
+### § 1285 ABGB
 
-### § 1168 ABGB # Vereitlung der Ausführung.
+`§ 1285 ABGB.`  
+Die Dauer der Leibrente kann von dem Leben des einen oder andern Theiles, oder auch eines Dritten abhängen. Sie wird im Zweifel vierteljährig vorhinein entrichtet; und nimmt in allen Fällen mit dem Leben desjenigen, auf dessen Kopf sie beruht, ihr Ende.
+----
 
-`§ 1168 (1) ABGB.`  
-Unterbleibt die Ausführung des Werkes, so gebührt dem Unternehmer gleichwohl das vereinbarte Entgelt, wenn er zur Leistung bereit war und durch Umstände, die auf Seite des Bestellers liegen daran verhindert worden ist; er muß sich jedoch anrechnen, was er infolge Unterbleibens der Arbeit erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat. Wurde er infolge solcher Umstände durch Zeitverlust bei der Ausführung des Werkes verkürzt, so gebührt ihm angemessene Entschädigung.
+----
+### § 1286 ABGB
 
-`§ 1168 (2) ABGB.`  
-Unterbleibt eine zur Ausführung des Werkes erforderliche Mitwirkung des Bestellers, so ist der Unternehmer auch berechtigt, ihm zu Nachholung eine angemessenen Frist zu setzen mit der Erklärung, daß nach fruchtlosem Verstreichen der Frist der Vertrag als aufgehoben gelte.
+`§ 1286 ABGB.`  
+Weder die Gläubiger, noch die Kinder desjenigen, welcher sich eine Leibrente bedingt, sind berechtiget, den Vertrag umzustoßen. Doch steht den Erstern frey, ihre Befriedigung aus den Leibrenten zu suchen; den Letztern aber, die Hinterlegung eines entbehrlichen Theiles der Rente zu fordern, um sich den ihnen nach dem Gesetze gebührenden Unterhalt darauf versichern zu lassen.
+----
 
-### § 1168a ABGB
+----
+### § 1287 ABGB # 6) gesellschaftliche Versorgungsanstalten;
 
-`§ 1168a ABGB.`  
-Geht das Werk vor seiner Übernahme durch einen bloßen Zufall zugrunde, so kann der Unternehmer kein Entgelt verlangen. Der Verlust des Stoffes trifft denjenigen Teil, der ihn beigestellt hat. Mißlingt aber das Werk infolge offenbarer Untauglichkeit des vom Besteller gegebenen Stoffes oder offenbar unrichtiger Anweisungen des Bestellers, so ist der Unternehmer für den Schaden verantwortlich, wenn er den Besteller nicht gewarnt hat.
+`§ 1287 ABGB.`  
+Der Vertrag, wodurch vermittelst einer Einlage ein gemeinschaftlicher Versorgungsfond für die Mitglieder, ihre Gattinnen oder Waisen errichtet wird, ist aus der Natur und dem Zwecke einer solchen Anstalt, und den darüber festgesetzten Bedingungen, zu beurtheilen.
+----
 
-### § 1169 ABGB # Fürsorgepflicht.
+----
+### § 1288 ABGB # 7) Versicherungsvertrag;
 
-`§ 1169 ABGB.`  
-Die Bestimmungen des § 1157, mit Ausnahme der die Regelung der Dienstleistungen und die Arbeits- und Erholungszeit betreffenden, finden auf den Werkvertrag sinngemäße Anwendung.
+`§ 1288 ABGB.`  
+Wenn jemand die Gefahr des Schadens, welcher einen Andern ohne dessen Verschulden treffen könnte, auf sich nimmt, und ihm gegen einen gewissen Preis den bedungenen Ersatz zu leisten verspricht; so entsteht der Versicherungsvertrag. Der Versicherer haftet dabey für den zufälligen Schaden, und der Versicherte für den versprochenen Preis.
+----
 
-### § 1170 ABGB # Entrichtung des Entgelts.
+----
+### § 1289 ABGB
 
-`§ 1170 ABGB.`  
-In der Regel ist das Entgelt nach vollendetem Werk zu entrichten. Wird aber das Werk in gewissen Abteilungen verrichtet oder sind Auslagen damit verbunden, die der Unternehmer nicht auf sich genommen hat, so ist dieser befugt, einen verhältnismäßigen Teil des Entgelts und den Ersatz der gemachten Auslagen schon vorher zu fordern.
+`§ 1289 ABGB.`  
+Der gewöhnliche Gegenstand dieses Vertrages sind Waaren, die zu Wasser oder zu Lande verführt werden. Es können aber auch andere Sachen, z. B. Häuser und Grundstücke gegen Feuer- Wasser- und andere Gefahren versichert werden.
+----
 
-### § 1170a ABGB
+----
+### § 1290 ABGB
 
-`§ 1170a (1) ABGB.`  
-Ist dem Vertrage ein Kostenvoranschlag unter ausdrücklicher Gewährleistung für seine Richtigkeit zugrunde gelegt, so kann der Unternehmer auch bei unvorhergesehener Größe oder Kostspieligkeit der veranschlagten Arbeiten keine Erhöhung des Entgelts fordern.
+`§ 1290 ABGB.`  
+Ereignet sich der zufällige Schade, wofür die Entschädigung versichert worden ist; so muß der Versicherte, wenn kein unüberwindliches Hinderniß dazwischen kommt, oder nichts anderes verabredet worden ist, dem Versicherer, wenn sie sich im nähmlichen Orte befinden, binnen drey Tagen, sonst aber in derjenigen Zeitfrist davon Nachricht geben, welche zur Bekanntmachung der Annahme eines von einem Abwesenden gemachten Versprechens bestimmt worden ist (§. 862). Unterläßt er die Anzeige; kann er den Unfall nicht erweisen; oder kann der Versicherer beweisen, daß der Schade aus Verschulden des Versicherten entstanden ist; so hat dieser auch keinen Anspruch auf die versicherte Summe.
+----
 
-`§ 1170a (2) ABGB.`  
-Ist ein Voranschlag ohne Gewährleistung zugrunde gelegt und erweist sich eine beträchtliche Überschreitung als unvermeidlich, so kann der Besteller unter angemessener Vergütung der vom Unternehmer geleisteten Arbeit vom Vertrage zurücktreten. Sobald sich eine solche Überschreitung als unvermeidlich herausstellt, hat der Unternehmer dies dem Besteller unverzüglich anzuzeigen, widrigenfalls er jeden Anspruch wegen der Mehrarbeiten verliert.
+----
+### § 1291 ABGB
 
-### § 1170b ABGB # Sicherstellung bei Bauverträgen
+`§ 1291 ABGB.`  
+Wenn der Untergang der Sache dem Versicherten; oder der gefahrlose Zustand derselben dem Versicherer zur Zeit des geschlossenen Vertrages schon bekannt war; so ist der Vertrag ungültig.
+----
 
-`§ 1170b (1) ABGB.`  
-Der Unternehmer eines Bauwerks, einer Außenanlage zu einem Bauwerk oder eines Teils hievon kann vom Besteller ab Vertragsabschluss für das noch ausstehende Entgelt eine Sicherstellung bis zur Höhe eines Fünftels des vereinbarten Entgelts, bei Verträgen, die innerhalb von drei Monaten zu erfüllen sind, aber bis zur Höhe von zwei Fünfteln des vereinbarten Entgelts, verlangen. Dieses Recht kann nicht abbedungen werden. Als Sicherstellung können Bargeld, Bareinlagen, Sparbücher, Bankgarantien oder Versicherungen dienen. Die Kosten der Sicherstellung hat der Sicherungsnehmer zu tragen, soweit sie pro Jahr zwei von Hundert der Sicherungssumme nicht übersteigen. Die Kostentragungspflicht entfällt, wenn die Sicherheit nur mehr wegen Einwendungen des Bestellers gegen den Entgeltanspruch aufrechterhalten werden muss und die Einwendungen sich als unbegründet erweisen.
+----
+### § 1292 ABGB # 8) Bodmerey- und See-Assecuranzen
 
-`§ 1170b (2) ABGB.`  
-Sicherstellungen nach Abs. 1 sind binnen angemessener, vom Unternehmer festzusetzender Frist zu leisten. Kommt der Besteller dem Verlangen des Unternehmers auf Leistung einer Sicherstellung nicht, nicht ausreichend oder nicht rechtzeitig nach, so kann der Unternehmer seine Leistung verweigern und unter Setzung einer angemessenen Nachfrist die Vertragsaufhebung erklären (§ 1168 Abs. 2).
+`§ 1292 ABGB.`  
+Die Bestimmungen in Rücksicht der Versicherungen zur See; so wie die Vorschriften über den Bodmerey-Vertrag sind ein Gegenstand der Seegesetze.
+----
 
-`§ 1170b (3) ABGB.`  
-Abs. 1 und 2 gelten nicht, wenn der Werkbesteller eine juristische Person des öffentlichen Rechts oder ein Verbraucher im Sinne des § 1 Abs. 1 Z 2 und Abs. 3 KSchG ist.
+----
+## Dreyßigstes Hauptstück. # Von dem Rechte des Schadensersatzes und der Genugthuung.
 
-### § 1171 ABGB # Erlöschen durch Tod.
+### § 1293 ABGB # Schade
 
-`§ 1171 ABGB.`  
-Ein Werkvertrag über Arbeiten, bei denen es auf die besonderen persönlichen Eigenschaften des Unternehmers ankommt, erlischt durch dessen Tod und seine Erben können nur den Preis für den zubereiteten brauchbaren Stoff und einen dem Werte der geleisteten Arbeit angemessenen Teil des Entgelts fordern. Stirbt der Besteller, so bleiben die Erben an den Vertrag gebunden.
+`§ 1293 ABGB.`  
+Schade heißt jeder Nachtheil, welcher jemanden an Vermögen, Rechten oder seiner Person zugefüget worden ist. Davon unterscheidet sich der Entgang des Gewinnes, den jemand nach dem gewöhnlichen Laufe der Dinge zu erwarten hat.
+----
 
-### § 1172 ABGB # 3. Verlagsvertrag.
+----
+### § 1294 ABGB # Quellen der Beschädigung
 
-`§ 1172 ABGB.`  
-Durch den Verlagsvertrag verpflichtet sich der Urheber eines Werkes der Literatur, der Tonkunst oder der bildenden Künste oder sein Rechtsnachfolger, das Werk einem anderen zur Vervielfältigung und Verbreitung für eigene Rechnung zu überlassen, dieser (der Verleger) dagegen, das Werk zu vervielfältigen und die Vervielfältigungsstücke zu verbreiten.
+`§ 1294 ABGB.`  
+Der Schade entspringt entweder aus einer widerrechtlichen Handlung, oder Unterlassung eines Anderen; oder aus einem Zufalle. Die widerrechtliche Beschädigung wird entweder willkührlich, oder unwillkührlich zugefügt. Die willkührliche Beschädigung aber gründet sich theils in einer bösen Absicht, wenn der Schade mit Wissen und Willen; theils in einem Versehen, wenn er aus schuldbarer Unwissenheit, oder aus Mangel der gehörigen Aufmerksamkeit, oder des gehörigen Fleißes verursachet worden ist. Beydes wird ein Verschulden genannt.
+----
 
-### § 1173 ABGB
-
-`§ 1173 ABGB.`  
-Wurde über die Anzahl der Auflagen nichts bestimmt, so ist der Verleger nur zu einer Auflage berechtigt. Vor dem Absatze der Auflage darf der Urheber über das Werk nur dann anderweitig verfügen, wenn er dem Verleger eine angemessene Schadloshaltung leistet.
-
-### § 1174 ABGB # 4. Leistung zu unerlaubtem Zweck.
-
-`§ 1174 (1) ABGB.`  
-Was jemand wissentlich zur Bewirkung einer unmöglichen oder unerlaubten Handlung gegeben hat, kann er nicht wieder zurückfordern. Inwiefern es der Fiskus einzuziehen berechtigt sei, bestimmen die politischen Verordnungen. Ist aber etwas zu Verhinderung einer unerlaubten Handlung demjenigen der diese Handlung begehen wollte, gegeben worden, so findet die Zurückforderung statt.
-
-`§ 1174 (2) ABGB.`  
-Ein zum Zweck eines verbotenen Spieles gegebenes Darlehen kann nicht zurückgefordert werden.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.023](BG.ABGB.023.md))*
+`END-OF-DATA-SET`

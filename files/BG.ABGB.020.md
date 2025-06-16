@@ -1,298 +1,453 @@
 # BG.ABGB.020 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.020.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.019](BG.ABGB.019.md))*
 
-## Zwey u. zwanzigstes Hauptstück. # Von der Bevollmächtigung und andern Arten der Geschäftsführung.
+----
+## Sechs u. zwanzigstes Hauptstück. # Von Verträgen über Dienstleistungen
 
-### § 1002 ABGB # Bevollmächtigungsvertrag.
+### § 1151 ABGB # Dienst- und Werkvertrag
 
-`§ 1002 ABGB.`  
-Der Vertrag, wodurch jemand ein ihm aufgetragenes Geschäft im Nahmen des Andern zur Besorgung übernimmt, heißt Bevollmächtigungsvertrag.
+`§ 1151 (1) ABGB.`  
+Wenn jemand sich auf eine gewisse Zeit zur Dienstleistung für einen anderen verpflichtet, so entsteht ein Dienstvertrag; wenn jemand die Herstellung eines Werkes gegen Entgelt übernimmt, ein Werkvertrag.
 
-### § 1003 ABGB
+`§ 1151 (2) ABGB.`  
+Insoweit damit eine Geschäftsbesorgung (§ 1002) verbunden ist, müssen auch die Vorschriften über den Bevollmächtigungsvertrag beobachtet werden.
+----
 
-`§ 1003 ABGB.`  
-Personen, welche zur Besorgung bestimmter Geschäfte öffentlich bestellt worden, sind schuldig, über einen darauf sich beziehenden Auftrag ohne Zögerung gegen den Auftragenden sich ausdrücklich zu erklären, ob sie denselben annehmen oder nicht; widrigen Falls bleiben sie dem Auftragenden für den dadurch veranlaßten Nachtheil verantwortlich.
+----
+### § 1152 ABGB
 
-### § 1004 ABGB # Eintheilung der Bevollmächtigung in eine unentgeldliche oder entgeldliche;
+`§ 1152 ABGB.`  
+Ist im Vertrage kein Entgelt bestimmt und auch nicht Unentgeltlichkeit vereinbart, so gilt ein angemessenes Entgelt als bedungen.
+----
 
-`§ 1004 ABGB.`  
-Wird für die Besorgung eines fremden Geschäftes entweder ausdrücklich, oder nach dem Stande des Geschäftsträgers auch nur stillschweigend eine Belohnung bedungen; so gehört der Vertrag zu den entgeldlichen, außer dem aber zu den unentgeldlichen.
+----
+### § 1153 ABGB # 1. Dienstvertrag
 
-### § 1005 ABGB # mündliche oder schriftliche;
+`§ 1153 ABGB.`  
+Wenn sich aus dem Dienstvertrage oder aus den Umständen nichts anderes ergibt, hat der Dienstnehmer die Dienste in eigener Person zu leisten und ist der Anspruch auf die Dienste nicht übertragbar. Soweit über Art und Umfang der Dienste nichts vereinbart ist, sind die den Umständen nach angemessenen Dienste zu leisten.
+----
 
-`§ 1005 ABGB.`  
-Bevollmächtigungsverträge können mündlich oder schriftlich geschlossen werden. Die von dem Gewaltgeber dem Gewalthaber hierüber ausgestellte Urkunde wird Vollmacht genannt.
+----
+### § 1154 ABGB # Anspruch auf das Entgelt
 
-### § 1006 ABGB # allgemeine oder besondere;
+`§ 1154 (1) ABGB.`  
+Wenn nichts anderes vereinbart oder bei Diensten der betreffenden Art üblich ist, ist das Entgelt nach Leistung der Dienste zu entrichten.
 
-`§ 1006 ABGB.`  
-Es gibt allgemeine und besondere Vollmachten, je nachdem jemanden die Besorgung aller, oder nur einiger Geschäfte anvertraut wird. Die besonderen Vollmachten können bloß gerichtliche oder bloß außergerichtliche Geschäfte überhaupt; oder sie können einzelne Angelegenheiten der einen oder der andern Gattung zum Gegenstande haben.
+`§ 1154 (2) ABGB.`  
+Ist das Entgelt nach Monaten oder kürzeren Zeiträumen bemessen, so ist es am Schlusse des einzelnen Zeitraumes; ist es nach längeren Zeiträumen bemessen, am Schlusse eines jeden Kalendermonats zu entrichten. Ein nach Stunden, nach Stück oder Einzelleistungen bemessenes Entgelt ist für die schon vollendeten Leistungen am Schlusse einer jeden Kalenderwoche, wenn es sich jedoch um Dienste höherer Art handelt, am Schlusse eines jeden Kalendermonats zu entrichten.
 
-### § 1007 ABGB # unumschränkte, oder beschränkte;
+`§ 1154 (3) ABGB.`  
+In jedem Falle wird das bereits verdiente Entgelt mit der Beendigung des Dienstverhältnisses fällig.
+----
 
-`§ 1007 ABGB.`  
-Vollmachten werden entweder mit unumschränkter oder mit beschränkter Freyheit zu handeln ertheilet. Durch die erstere wird der Gewalthaber berechtiget, das Geschäft nach seinem besten Wissen und Gewissen zu leiten; durch die letztere aber werden ihm die Gränzen, wie weit, und die Art, wie er dasselbe betreiben soll, vorgeschrieben.
+----
+### § 1154a ABGB
 
-### § 1008 ABGB
+`§ 1154a ABGB.`  
+Der nach Stück oder Einzelleistungen entlohnte Dienstnehmer kann einen den geleisteten Diensten und seinen Auslagen entsprechenden Vorschuß vor Fälligkeit des Entgelts verlangen.
+----
 
-`§ 1008 ABGB.`  
-Folgende Geschäfte: Wenn im Nahmen eines Andern Sachen veräußert, oder entgeldlich übernommen; Anleihen oder Darleihen geschlossen; Geld oder Geldeswerth erhoben; Processe anhängig gemacht; Eide aufgetragen, angenommen oder zurückgeschoben, oder Vergleiche getroffen werden sollen, erfordern eine besondere, auf diese Gattungen der Geschäfte lautende Vollmacht. Wenn aber eine Erbschaft unbedingt angenommen oder ausgeschlagen; Gesellschaftsverträge errichtet; Schenkungen gemacht; das Befugniß, einen Schiedsrichter zu wählen, eingeräumt, oder Rechte unentgeldlich aufgegeben werden sollen; ist eine besondere, auf das einzelne Geschäft ausgestellte Vollmacht nothwendig. Allgemeine, selbst unbeschränkte Vollmachten sind in diesen Fällen nur hinreichend, wenn die Gattung des Geschäftes in der Vollmacht ausgedrücket worden ist.
+----
+### § 1154b ABGB
 
-### § 1009 ABGB # Rechte und Verbindlichkeiten des Gewalthabers;
+`§ 1154b (1) ABGB.`  
+Der Dienstnehmer behält seinen Anspruch auf das Entgelt, wenn er nach Antritt des Dienstes durch Krankheit oder Unglücksfall an der Dienstleistung verhindert ist, ohne dies vorsätzlich oder durch grobe Fahrlässigkeit verschuldet zu haben, bis zur Dauer von sechs Wochen. Der Anspruch auf das Entgelt erhöht sich auf die Dauer von acht Wochen, wenn das Dienstverhältnis fünf Jahre, von zehn Wochen, wenn es 15 Jahre und von zwölf Wochen, wenn es 25 Jahre ununterbrochen gedauert hat. Durch jeweils weitere vier Wochen behält der Dienstnehmer den Anspruch auf das halbe Entgelt.
 
-`§ 1009 ABGB.`  
-Der Gewalthaber ist verpflichtet, das Geschäft seinem Versprechen und der erhaltenen Vollmacht gemäß, emsig und redlich zu besorgen, und allen aus dem Geschäfte entspringenden Nutzen dem Machtgeber zu überlassen. Er ist, ob er gleich eine beschränkte Vollmacht hat, berechtiget, alle Mittel anzuwenden, die mit der Natur des Geschäftes nothwendig verbunden, oder der erklärten Absicht des Machtgebers gemäß sind. Ueberschreitet er aber die Gränzen der Vollmacht; so haftet er für die Folgen.
+`§ 1154b (2) ABGB.`  
+Bei wiederholter Dienstverhinderung durch Krankheit (Unglücksfall) innerhalb eines Arbeitsjahres besteht ein Anspruch auf Fortzahlung des Entgelts nur insoweit, als die Dauer des Anspruchs gemäß Abs. 1 noch nicht erschöpft ist.
 
-### § 1010 ABGB
+`§ 1154b (3) ABGB.`  
+Wird ein Dienstnehmer durch Arbeitsunfall oder Berufskrankheit im Sinne der Vorschriften über die gesetzliche Unfallversicherung an der Leistung seiner Dienste verhindert, ohne dass er die Verhinderung vorsätzlich oder durch grobe Fahrlässigkeit herbeigeführt hat, so behält er seinen Anspruch auf das Entgelt ohne Rücksicht auf andere Zeiten einer Dienstverhinderung bis zur Dauer von acht Wochen. Der Anspruch auf das Entgelt erhöht sich auf die Dauer von zehn Wochen, wenn das Dienstverhältnis 15 Jahre ununterbrochen gedauert hat. Bei wiederholten Dienstverhinderungen, die im unmittelbaren ursächlichen Zusammenhang mit einem Arbeitsunfall oder einer Berufskrankheit stehen, besteht ein Anspruch auf Fortzahlung des Entgelts innerhalb eines Dienstjahres nur insoweit, als die Dauer des Anspruchs nach dem ersten oder zweiten Satz noch nicht erschöpft ist. Ist ein Dienstnehmer gleichzeitig bei mehreren Dienstgebern beschäftigt, so entsteht ein Anspruch nach diesem Absatz nur gegenüber jenem Dienstgeber, bei dem die Dienstverhinderung im Sinne dieses Absatzes eingetreten ist; gegenüber den anderen Dienstgebern entstehen Ansprüche nach Abs. 1.
 
-`§ 1010 ABGB.`  
-Trägt der Gewalthaber das Geschäft ohne Noth einem Dritten auf; so haftet er ganz allein für den Erfolg. Wird ihm aber die Bestellung eines Stellvertreters in der Vollmacht ausdrücklich gestattet, oder durch die Umstände unvermeidlich; so verantwortet er nur ein bey der Auswahl der Person begangenes Verschulden.
+`§ 1154b (4) ABGB.`  
+Kur- und Erholungsaufenthalte, Aufenthalte in Heil- und Pflegeanstalten, Rehabilitationszentren und Rekonvaleszentenheimen, die wegen eines Arbeitsunfalles oder einer Berufskrankheit von einem Träger der Sozialversicherung, dem Bundesministerium für soziale Sicherheit und Generationen gemäß § 12 Abs. 4 Opferfürsorgegesetz, einem Bundesamt für Soziales und Behindertenwesen oder einer Landesregierung auf Grund eines Behindertengesetzes auf deren Rechnung bewilligt oder angeordnet werden, sind einer Dienstverhinderung gemäß Abs. 3 gleichzuhalten.
 
-### § 1011 ABGB
+`§ 1154b (5) ABGB.`  
+Der Dienstnehmer behält ferner den Anspruch auf das Entgelt, wenn er durch andere wichtige, seine Person betreffende Gründe ohne sein Verschulden während einer verhältnismäßig kurzen Zeit an der Dienstleistung verhindert wird.
 
-`§ 1011 ABGB.`  
-Wird mehreren Bevollmächtigten zugleich ein Geschäft aufgetragen; so ist die Mitwirkung Aller zur Gültigkeit des Geschäftes, und Verpflichtung des Machtgebers nothwendig; wenn nicht ausdrücklich Einem oder Mehreren aus ihnen die volle Befugniß in der Vollmacht ertheilt worden ist.
+`§ 1154b (6) ABGB.`  
+Ist der Dienstnehmer nach Antritt des Dienstverhältnisses wegen eines Einsatzes als freiwilliges Mitglied einer Katastrophenhilfsorganisation, eines Rettungsdienstes oder einer freiwilligen Feuerwehr bei einem Großschadensereignis nach § 3 Z 2 lit. b des Katastrophenfondsgesetzes, BGBl. Nr. 201/1996 oder als Mitglied eines Bergrettungsdienstes an der Dienstleistung verhindert, so hat er unbeschadet seiner Ansprüche nach Abs. 5 einen Anspruch auf Fortzahlung des Entgelts, wenn das Ausmaß und die Lage der Dienstfreistellung mit dem Dienstgeber vereinbart wird.
 
-### § 1012 ABGB
+`§ 1154b (7) ABGB.`  
+Der Ablauf von laufenden gesetzlichen, kollektivvertraglichen und vertraglichen Verjährungs- und Verfallsfristen betreffend Ansprüche aus dem Dienstverhältnis, die der Dienstnehmer zu Beginn einer Dienstverhinderung nach Abs. 5 wegen Krankheit oder Unfall eines nahen Angehörigen bereits erworben hat, bleibt bis zum Ablauf von zwei Wochen nach Ende dieser Dienstverhinderung gehemmt.
+----
 
-`§ 1012 ABGB.`  
-Der Gewalthaber ist schuldig, dem Machtgeber den durch sein Verschulden verursachten Schaden zu ersetzen, und die bey dem Geschäfte vorkommenden Rechnungen, so oft dieser es verlangt, vorzulegen.
+----
+### § 1155 ABGB
 
-### § 1013 ABGB
+`§ 1155 (1) ABGB.`  
+Auch für Dienstleistungen, die nicht zustande gekommen sind, gebührt dem Dienstnehmer das Entgelt, wenn er zur Leistung bereit war und durch Umstände, die auf Seite des Dienstgebers liegen, daran verhindert worden ist; er muß sich jedoch anrechnen, was er infolge Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat.
 
-`§ 1013 ABGB.`  
-Gewalthaber sind, außer dem im §. 1004 enthaltenen Falle, nicht befugt, ihrer Bemühung wegen eine Belohnung zu fordern. Es ist ihnen nicht erlaubt, ohne Willen des Machtgebers in Rücksicht auf die Geschäftsverwaltung von einem Dritten Geschenke anzunehmen. Die erhaltenen werden zur Armen-Casse eingezogen.
+`§ 1155 (2) ABGB.`  
+Wurde er infolge solcher Umstände durch Zeitverlust bei der Dienstleistung verkürzt, so gebührt ihm angemessene Entschädigung.
+*(Anm.: Abs. 3 und 4 mit Ablauf des 31.12.2020 außer Kraft getreten)*
+----
 
-### § 1014 ABGB # des Gewaltgebers;
+----
+### § 1156 ABGB # Erlöschen der Ansprüche
 
-`§ 1014 ABGB.`  
-Der Gewaltgeber ist verbunden, dem Gewalthaber allen zur Besorgung des Geschäftes nothwendig oder nützlich gemachten Aufwand, selbst bey fehlgeschlagenem Erfolge, zu ersetzen, und ihm auf Verlangen zur Bestreitung der baren Auslagen auch einen angemessenen Vorschuß zu leisten; er muß ferner allen durch sein Verschulden entstandenen, oder mit der Erfüllung des Auftrages verbundenen Schaden vergüten.
+`§ 1156 ABGB.`  
+Die dem Dienstgeber nach § 1154b obliegenden Verpflichtungen erlöschen, wenn das Dienstverhältnis infolge Ablaufes der Zeit, für die es eingegangen wurde, oder infolge einer früheren Kündigung oder einer Entlassung endet, die nicht durch die Erkrankung oder sonstige die Person des Dienstnehmers betreffende wichtige Gründe im Sinne des § 1154b verursacht ist. Wird der Dienstnehmer wegen der Verhinderung entlassen oder wird ihm während der Verhinderung gekündigt, so bleibt die dadurch herbeigeführte Beendigung des Dienstverhältnisses in Ansehung der bezeichneten Ansprüche außer Betracht.
+----
 
-### § 1015 ABGB
+----
+### § 1157 ABGB # Fürsorgepflicht des Dienstgebers
 
-`§ 1015 ABGB.`  
-Leidet der Gewalthaber bey der Geschäftsführung nur zufälliger Weise Schaden; so kann er in dem Falle, daß er das Geschäft unentgeldlich zu besorgen übernahm, einen solchen Betrag fordern, welcher ihm bey einem entgeldlichen Vertrage zur Vergütung der Bemühung nach dem höchsten Schätzungswerthe gebührt haben würde.
+`§ 1157 (1) ABGB.`  
+Der Dienstgeber hat die Dienstleistungen so zu regeln und bezüglich der von ihm beizustellenden oder beigestellten Räume und Gerätschaften auf seine Kosten dafür zu sorgen, daß Leben und Gesundheit des Dienstnehmers, soweit es nach der Natur der Dienstleistung möglich ist, geschützt werden.
 
-### § 1016 ABGB
+`§ 1157 (2) ABGB.`  
+Ist der Dienstnehmer in die Hausgemeinschaft des Dienstgebers aufgenommen, so hat dieser in Ansehung des Wohn- und Schlafraumes, der Verpflegung sowie der Arbeits- und Erholungszeit die mit Rücksicht auf Gesundheit, Sittlichkeit und Religion des Dienstnehmers erforderlichen Anordnungen zu treffen.
+----
 
-`§ 1016 ABGB.`  
-Ueberschreitet der Gewalthaber die Gränzen seiner Vollmacht; so ist der Gewaltgeber nur in so fern verbunden, als er das Geschäft genehmigt, oder den aus dem Geschäfte entstandenen Vortheil sich zuwendet.
+----
+### § 1158 ABGB # Endigung des Dienstverhältnisses
 
-### § 1017 ABGB # in Rücksicht eines Dritten.
+`§ 1158 (1) ABGB.`  
+Das Dienstverhältnis endet mit dem Ablaufe der Zeit, für die es eingegangen wurde.
 
-`§ 1017 ABGB.`  
-In so fern der Gewalthaber nach dem Inhalte der Vollmacht den Gewaltgeber vorstellt, kann er ihm Rechte erwerben und Verbindlichkeiten auflegen. Hat er also innerhalb der Gränzen der offenen Vollmacht mit einem Dritten einen Vertrag geschlossen; so kommen die dadurch gegründeten Rechte und Verbindlichkeiten dem Gewaltgeber und dem Dritten; nicht aber dem Gewalthaber zu. Die dem Gewalthaber ertheilte geheime Vollmacht hat auf die Rechte des Dritten keinen Einfluß.
+`§ 1158 (2) ABGB.`  
+Ein auf Probe oder nur für die Zeit eines vorübergehenden Bedarfes vereinbartes Dienstverhältnis kann während des ersten Monates von beiden Teilen jederzeit gelöst werden.
 
-### § 1018 ABGB
+`§ 1158 (3) ABGB.`  
+Ein für die Lebenszeit einer Person oder für länger als fünf Jahre vereinbartes Dienstverhältnis kann von dem Dienstnehmer nach Ablauf von fünf Jahren unter Einhaltung einer Kündigungsfrist von sechs Monaten gelöst werden.
+*(Anm.: Abs. 4 aufgehoben durch Art. 6 Z 2, BGBl. I Nr. 153/2017)*
+----
 
-`§ 1018 ABGB.`  
-Auch in dem Falle, daß der Gewaltgeber einen solchen Gewalthaber, der sich selbst zu verbinden unfähig ist, aufgestellt hat, sind die innerhalb der Gränzen der Vollmacht geschlossenen Geschäfte sowohl für den Gewaltgeber, als für den Dritten verbindlich.
+----
+### § 1159 ABGB # Kündigung
 
-### § 1019 ABGB
+`§ 1159 (1) ABGB.`  
+Ist das Dienstverhältnis ohne Zeitbestimmung eingegangen oder fortgesetzt worden, so kann es durch Kündigung nach folgenden Bestimmungen gelöst werden.
 
-`§ 1019 ABGB.`  
-Ist der Gewalthaber zu dem von ihm geschlossenen Geschäft nicht oder nicht ausreichend bevollmächtigt, so ist er, wenn der Gewaltgeber weder das Geschäft genehmigt noch sich den aus dem Geschäft entstandenen Vorteil zuwendet (§ 1016), dem anderen Teil zum Ersatz des Schadens verpflichtet, den dieser im Vertrauen auf die Vertretungsmacht erleidet. Der Gewalthaber haftet jedoch nicht über den Betrag des Interesses hinaus, das der andere Teil an der Wirksamkeit des Vertrages hat.
+`§ 1159 (2) ABGB.`  
+Mangels einer für den Dienstnehmer günstigeren Vereinbarung kann der Dienstgeber das Dienstverhältnis mit Ablauf eines jeden Kalendervierteljahres durch vorgängige Kündigung lösen. Die Kündigungsfrist beträgt sechs Wochen und erhöht sich nach dem vollendeten zweiten Dienstjahr auf zwei Monate, nach dem vollendeten fünften Dienstjahr auf drei, nach dem vollendeten fünfzehnten Dienstjahr auf vier und nach dem vollendeten fünfundzwanzigsten Dienstjahr auf fünf Monate. Durch Kollektivvertrag können für Branchen, in denen Saisonbetriebe im Sinne des § 53 Abs. 6 des Arbeitsverfassungsgesetzes, BGBl. Nr. 22/1974 überwiegen, abweichende Regelungen festgelegt werden.
 
-### § 1020 ABGB # Auflösung des Vertrages durch den Widerruf.
+`§ 1159 (3) ABGB.`  
+Die Kündigungsfrist kann durch Vereinbarung nicht unter die im Absatz 2 bestimmte Dauer herabgesetzt werden; jedoch kann vereinbart werden, dass die Kündigungsfrist am Fünfzehnten oder am Letzten des Kalendermonats endigt.
 
-`§ 1020 ABGB.`  
-Es steht dem Machtgeber frey; die Vollmacht nach Belieben zu widerrufen; doch muß er dem Gewalthaber nicht nur die in der Zwischenzeit gehabten Kosten und den sonst erlittenen Schaden ersetzen; sondern auch einen der Bemühung angemessenen Theil der Belohnung entrichten. Dieses findet auch dann Statt, wenn die Vollendung des Geschäftes durch einen Zufall verhindert worden ist.
+`§ 1159 (4) ABGB.`  
+Mangels einer für ihn günstigeren Vereinbarung kann der Dienstnehmer das Dienstverhältnis mit dem letzten Tage eines Kalendermonats unter Einhaltung einer einmonatigen Kündigungsfrist lösen. Diese Kündigungsfrist kann durch Vereinbarung bis zu einem halben Jahr ausgedehnt werden; doch darf die vom Dienstgeber einzuhaltende Frist nicht kürzer sein als die mit dem Dienstnehmer vereinbarte Kündigungsfrist. Durch Kollektivvertrag können für Branchen, in denen Saisonbetriebe im Sinne des § 53 Abs. 6 des Arbeitsverfassungsgesetzes, BGBl. Nr. 22/1974 überwiegen, abweichende Regelungen festgelegt werden.
 
-### § 1021 ABGB # die Aufkündung;
+`§ 1159 (5) ABGB.`  
+Ist das Dienstverhältnis nur für die Zeit eines vorübergehenden Bedarfes vereinbart, so kann es während des ersten Monats von beiden Teilen jederzeit unter Einhaltung einer einwöchigen Kündigungsfrist gelöst werden.
+----
 
-`§ 1021 ABGB.`  
-Auch der Machthaber kann die angenommene Vollmacht aufkünden. Wenn er sie aber vor Vollendung des ihm insbesondere aufgetragenen, oder vermöge der allgemeinen Vollmacht angefangenen Geschäftes aufkündet; so muß er, dafern nicht ein unvorgesehenes und unvermeidliches Hinderniß eingetreten ist, allen daraus entstandenen Schaden ersetzen.
+----
+### § 1160 ABGB # Freizeit während der Kündigungsfrist
 
-### § 1022 ABGB # den Tod.
+`§ 1160 (1) ABGB.`  
+Bei Kündigung durch den Dienstgeber ist dem Dienstnehmer während der Kündigungsfrist auf sein Verlangen wöchentlich mindestens ein Fünftel der regelmäßigen wöchentlichen Arbeitszeit ohne Schmälerung des Entgelts freizugeben.
 
-`§ 1022 ABGB.`  
-In der Regel wird die Vollmacht sowohl durch den Tod des Gewaltgebers als des Gewalthabers aufgehoben. Läßt sich aber das angefangene Geschäft ohne offenbaren Nachtheil der Erben nicht unterbrechen, oder erstreckt sich die Vollmacht selbst auf den Sterbfall des Gewaltgebers; so hat der Gewalthaber das Recht und die Pflicht, das Geschäft zu vollenden.
+`§ 1160 (2) ABGB.`  
+Ansprüche nach Abs. 1 bestehen nicht, wenn der Dienstnehmer einen Anspruch auf eine Pension aus der gesetzlichen Pensionsversicherung hat, sofern eine Bescheinigung über die vorläufige Krankenversicherung vom Pensionsversicherungsträger ausgestellt wurde.
 
-### § 1023 ABGB
+`§ 1160 (3) ABGB.`  
+Durch Kollektivvertrag können abweichende Regelungen getroffen werden.
+----
+
+----
+### § 1161 ABGB # Insolvenzverfahren
+
+`§ 1161 ABGB.`  
+Welche Wirkungen die Eröffnung des Insolvenzverfahrens über das Vermögen des Dienstgebers auf das Dienstverhältnis hat, bestimmt die Insolvenzordnung.
+----
+
+----
+### § 1162 ABGB # Vorzeitige Auflösung
+
+`§ 1162 ABGB.`  
+Das Dienstverhältnis kann, wenn es für bestimmte Zeit eingegangen wurde, vor Ablauf dieser Zeit, sonst aber ohne Einhaltung einer Kündigungsfrist von jedem Teile aus wichtigen Gründen gelöst werden.
+----
+
+----
+### § 1162a ABGB
+
+`§ 1162a ABGB.`  
+Wenn der Dienstnehmer ohne wichtigen Grund vorzeitig austritt, kann der Dienstgeber entweder dessen Wiedereintritt zur Dienstleistung nebst Schadenersatz oder Schadenersatz wegen Nichterfüllung des Vertrages verlangen. Wird der Dienstnehmer wegen eines Verschuldens vorzeitig entlassen, so hat er Schadenersatz wegen Nichterfüllung des Vertrages zu leisten. Für die schon bewirkten Leistungen, deren Entgelt noch nicht fällig ist, steht dem Dienstnehmer ein Anspruch auf den entsprechenden Teil des Entgelts nur insoweit zu, als sie nicht durch die vorzeitige Auflösung des Dienstverhältnisses für den Dienstgeber ihren Wert ganz oder zum größten Teil eingebüßt haben.
+----
+
+----
+### § 1162b ABGB
+
+`§ 1162b ABGB.`  
+Wenn der Dienstgeber den Dienstnehmer ohne wichtigen Grund vorzeitig entläßt oder wenn ihn ein Verschulden an dem vorzeitigen Austritte des Dienstnehmers trifft, behält dieser, unbeschadet weitergehenden Schadenersatzes, seine vertragsgemäßen Ansprüche auf das Entgelt für den Zeitraum, der bis zur Beendigung des Dienstverhältnisses durch Ablauf der Vertragszeit oder durch ordnungsmäßige Kündigung hätte verstreichen müssen, unter Anrechnung dessen, was er infolge des Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat. Soweit jedoch der oben genannte Zeitraum drei Monate nicht übersteigt, kann der Dienstnehmer das ganze für diese Zeit gebührende Entgelt ohne Abzug sofort fordern.
+----
+
+----
+### § 1162c ABGB
+
+`§ 1162c ABGB.`  
+Trifft beide Teile ein Verschulden an der vorzeitigen Lösung des Dienstverhältnisses, so hat der Richter nach freiem Ermessen zu entscheiden, ob und in welcher Höhe ein Ersatz gebührt.
+----
+
+----
+### § 1162d ABGB
+
+`§ 1162d ABGB.`  
+Ansprüche wegen vorzeitigen Austrittes oder vorzeitiger Entlassung im Sinne der §§ 1162a und 1162b müssen bei sonstigem Ausschlusse binnen sechs Monaten nach Ablauf des Tages, an dem sie erhoben werden konnten, gerichtlich geltend gemacht werden.
+----
+
+----
+### § 1163 ABGB # Zeugnis
+
+`§ 1163 (1) ABGB.`  
+Bei Beendigung des Dienstverhältnisses ist dem Dienstnehmer auf sein Verlangen ein schriftliches Zeugnis über die Dauer und Art der Dienstleistung auszustellen. Verlangt der Dienstnehmer während der Dauer des Dienstverhältnisses ein Zeugnis, so ist ihm ein solches auf seine Kosten auszustellen. Eintragungen und Anmerkungen im Zeugnisse, durch die dem Dienstnehmer die Erlangung einer neuen Stellung erschwert wird, sind unzulässig.
+
+`§ 1163 (2) ABGB.`  
+Zeugnisse des Dienstnehmers, die sich in Verwahrung des Dienstgebers befinden, sind dem Dienstnehmer auf Verlangen jederzeit auszufolgen.
+----
+
+----
+### § 1164 ABGB # Zwingende Vorschriften
 
-`§ 1023 ABGB.`  
-Die von einem Körper (Gemeinschaft) ausgestellten und übernommenen Vollmachten werden durch die Erlöschung der Gemeinschaft aufgehoben.
+`§ 1164 (1) ABGB.`  
+Die Berechtigungen des Dienstnehmers, die sich aus den Bestimmungen der §§ 1154 Abs. 3, § 1154b, 1156 bis 1159b, 1160 und 1162a bis 1163 ergeben, können durch den Dienstvertrag oder durch Normen der kollektiven Rechtsgestaltung nicht aufgehoben oder beschränkt werden.
 
-### § 1024 ABGB # oder ein Insolvenzverfahren
+`§ 1164 (2) ABGB.`  
+Die §§ 1154b, 1156 und 1164 in der Fassung des Bundesgesetzes BGBl. I Nr. 44/2000 sind auf Dienstverhinderungen anzuwenden, die in nach dem 31. Dezember 2000 begonnenen Arbeitsjahren eingetreten sind.
 
-`§ 1024 ABGB.`  
-Wird über das Vermögen des Machtgebers das Insolvenzverfahren eröffnet, so sind Vertretungshandlungen des Machthabers ab der Bekanntmachung der Insolvenzeröffnung nicht rechtswirksam. Durch die Eröffnung des Insolvenzverfahrens über das Vermögen des Machthabers erlischt dessen Vollmacht.
+`§ 1164 (3) ABGB.`  
+Die verlängerte Anspruchsdauer nach § 1154b Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 44/2000 bewirkt keine Verlängerung einer in Normen der kollektiven Rechtsgestaltung oder Dienstverträgen vorgesehenen längeren Anspruchsdauer. Sehen Normen der kollektiven Rechtsgestaltung oder Dienstverträge einen zusätzlichen Anspruch im Anschluss an den Anspruch nach § 1154b Abs. 1 vor, wird die Gesamtdauer der Ansprüche nicht verlängert.
 
-### § 1025 ABGB # In wiefern die Verbindlichkeit fortdauere.
+`§ 1164 (4) ABGB.`  
+Im Zeitpunkt des Inkrafttretens des Bundesgesetzes BGBl. I Nr. 44/2000 für die Dienstnehmer günstigere Regelungen in Dienstverträgen oder in Normen der kollektiven Rechtsgestaltung werden durch die Neuregelung des Bundesgesetzes BGBl. I Nr. 44/2000 nicht berührt.
+----
 
-`§ 1025 ABGB.`  
-Wird die Vollmacht durch Widerruf, Aufkündung, oder durch den Tod des Gewaltgebers oder Gewalthabers aufgehoben; so müssen doch die Geschäfte, welche keinen Aufschub leiden, so lange fortgesetzt werden, bis von dem Machtgeber oder dessen Erben eine andere Verfügung getroffen worden ist, oder füglich getroffen werden konnte.
+----
+### § 1164a ABGB # Dienstzettel für das freie Dienstverhältnis
 
-### § 1026 ABGB
+`§ 1164a (1) ABGB.`  
+Liegt ein freies Dienstverhältnis (§ 4 Abs. 4 Allgemeines Sozialversicherungsgesetz, BGBl. Nr. 189/1955, in der jeweils geltenden Fassung) vor, so hat der Dienstgeber dem freien Dienstnehmer unverzüglich nach dessen Beginn eine schriftliche Aufzeichnung über die wesentlichen Rechte und Pflichten aus dem freien Dienstvertrag (Dienstzettel) auszuhändigen oder nach Wahl des freien Dienstnehmers in elektronischer Form zu übermitteln. Solche Aufzeichnungen sind von Stempel- und unmittelbaren Gebühren befreit. Der Dienstzettel hat folgende Angaben zu enthalten:  
+`§ 1164a (1) Z 1 ABGB.`
+Name und Anschrift des Dienstgebers, Sitz des Unternehmens,  
+`§ 1164a (1) Z 2 ABGB.`
+Name und Anschrift des freien Dienstnehmers,  
+`§ 1164a (1) Z 3 ABGB.`
+Beginn des freien Dienstverhältnisses,  
+`§ 1164a (1) Z 4 ABGB.`
+bei freien Dienstverhältnissen auf bestimmte Zeit das Ende des freien Dienstverhältnisses,  
+`§ 1164a (1) Z 5 ABGB.`
+Dauer der Kündigungsfrist, Kündigungstermin,  
+`§ 1164a (1) Z 6 ABGB.`
+vorgesehene Tätigkeit und eine kurze Beschreibung dieser Tätigkeit,  
+`§ 1164a (1) Z 7 ABGB.`
+Entgelt, Fälligkeit und Art der Auszahlung des Entgelts,  
+`§ 1164a (1) Z 8 ABGB.`
+Name und Anschrift des Trägers der Sozialversicherung und der Betrieblichen Vorsorgekasse (BV-Kasse) des freien Dienstnehmers.
 
-`§ 1026 ABGB.`  
-Auch bleiben die mit einem Dritten, dem die Aufhebung der Vollmacht ohne sein Verschulden unbekannt war, geschlossenen Verträge verbindlich, und der Gewaltgeber kann sich nur bey dem Gewalthaber, der die Aufhebung verschwiegen hat, wegen seines Schadens erhohlen.
+`§ 1164a (2) ABGB.`  
+Hat der freie Dienstnehmer seine Tätigkeit länger als einen Monat im Ausland zu verrichten, so hat der vor seiner Abreise auszuhändigende Dienstzettel oder schriftliche freie Dienstvertrag zusätzlich folgende Angaben zu enthalten:  
+`§ 1164a (2) Z 1 ABGB.`
+der Staat, in dem die Tätigkeit erbracht werden soll und deren voraussichtliche Dauer,  
+`§ 1164a (2) Z 2 ABGB.`
+die Währung, in der das Entgelt auszuzahlen ist,  
+`§ 1164a (2) Z 3 ABGB.`
+allenfalls Bedingungen für die Rückführung nach Österreich,  
+`§ 1164a (2) Z 4 ABGB.`
+allfällige zusätzliche Vergütung für die Auslandstätigkeit,  
+`§ 1164a (2) Z 5 ABGB.`
+allfälliger Aufwandersatz und  
+`§ 1164a (2) Z 6 ABGB.`
+einen Hinweis auf die Website des Staates, in dem die Tätigkeit erbracht wird, nach Art. 5 Abs. 2 der Richtlinie 2014/67/EU zur Durchsetzung der Richtlinie 96/71/EG über die Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen und zur Änderung der Verordnung (EU) Nr. 1024/2012 über die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-Informationssystems.
 
-### § 1027 ABGB # Stillschweigende Bevollmächtigung der Dienstpersonen.
+`§ 1164a (3) ABGB.`  
+Keine Verpflichtung zur Aushändigung eines Dienstzettels besteht, wenn  
+`§ 1164a (3) Z 1 ABGB.`
+ein schriftlicher freier Dienstvertrag ausgehändigt wurde, der alle in Abs. 1 und 2 genannten Angaben enthält, oder  
+`§ 1164a (3) Z 2 ABGB.`
+bei Auslandstätigkeit die in Abs. 2 genannten Angaben in anderen schriftlichen Unterlagen enthalten sind.
 
-`§ 1027 ABGB.`  
-Die in diesem Hauptstücke enthaltenen Vorschriften haben auch ihre Anwendung auf die Eigenthümer einer Handlung, eines Schiffes, Kaufladens oder andern Gewerbes, welche die Verwaltung einem Factor, Schiffer, Ladendiener oder andern Geschäftsträgern anvertrauen.
+`§ 1164a (4) ABGB.`  
+Jede Änderung der Angaben gemäß Abs. 1 und 2 ist dem freien Dienstnehmer unverzüglich, spätestens jedoch am Tag ihres Wirksamwerdens schriftlich mitzuteilen, es sei denn, die Änderung erfolgte durch Änderung von Gesetzen.
 
-### § 1028 ABGB
+`§ 1164a (5) ABGB.`  
+Hat das freie Dienstverhältnis bereits am 1. Juli 2004 bestanden, so ist dem freien Dienstnehmer auf sein Verlangen binnen zwei Monaten ein Dienstzettel gemäß Abs. 1 auszuhändigen. Eine solche Verpflichtung des Dienstgebers besteht nicht, wenn ein früher ausgestellter Dienstzettel oder ein schriftlicher Vertrag über das freie Dienstverhältnis alle nach diesem Bundesgesetz erforderlichen Angaben enthält.
 
-`§ 1028 ABGB.`  
-Die Rechte solcher Geschäftsführer sind vorzüglich aus der Urkunde ihrer Bestellung, dergleichen unter Handelsleuten das ordentlich kundgemachte Befugniß der Unterzeichnung (Firma) ist, zu beurtheilen.
+`§ 1164a (6) ABGB.`  
+Die Bestimmungen der Abs. 1 bis 5 können durch den freien Dienstvertrag weder aufgehoben noch beschränkt werden.
+----
 
-### § 1029 ABGB
+----
+### § 1165 ABGB # 2. Werkvertrag
 
-`§ 1029 (1) ABGB.`  
-Ist die Vollmacht nicht schriftlich gegeben worden; so wird ihr Umfang aus dem Gegenstande, und aus der Natur des Geschäftes beurtheilet. Wer einem Andern eine Verwaltung anvertraut hat, von dem wird vermuthet, daß er ihm auch die Macht eingeräumt habe, alles dasjenige zu thun, was die Verwaltung selbst erfordert und was gewöhnlich damit verbunden ist (§. 1009).
+`§ 1165 ABGB.`  
+Der Unternehmer ist verpflichtet, das Werk persönlich oder unter seiner persönlichen Verantwortung ausführen zu lassen.
+----
 
-`§ 1029 (2) ABGB.`  
-Der Überbringer einer Quittung gilt als ermächtigt, die Leistung zu empfangen, sofern nicht dem Leistenden bekannte Umstände der Annahme einer solchen Ermächtigung entgegenstehen.
+----
+### § 1166 ABGB
 
-### § 1030 ABGB
+`§ 1166 ABGB.`  
+Hat derjenige, der die Verfertigung einer Sache übernommen hat, den Stoff dazu zu liefern, so ist der Vertrag im Zweifel als Kaufvertrag; liefert aber der Besteller den Stoff, im Zweifel als Werkvertrag zu betrachten.
+----
 
-`§ 1030 ABGB.`  
-Gestattet der Eigenthümer einer Handlung, oder eines Gewerbes seinem Diener oder Lehrlinge, Waaren im Laden oder außer demselben zu verkaufen; so wird vermuthet, daß sie bevollmächtigt seyn, die Bezahlung zu empfangen, und Quittungen dagegen auszustellen.
+----
+### § 1167 ABGB # Gewährleistung
 
-### § 1031 ABGB
+`§ 1167 ABGB.`  
+Bei Mängeln des Werkes kommen die für entgeltliche Verträge überhaupt geltenden Bestimmungen (§§ 922 bis 933b) zur Anwendung.
+----
 
-`§ 1031 ABGB.`  
-Die Vollmacht, Waaren im Nahmen des Eigenthümers zu verkaufen, erstreckt sich aber nicht auf das Recht, in seinem Nahmen Waaren einzukaufen; auch dürfen Fuhrleute weder den Werth der ihnen anvertrauten Güter beziehen, noch Geld darauf anleihen, wenn es nicht ausdrücklich in Frachtbriefen bestimmt worden ist.
+----
+### § 1168 ABGB # Vereitlung der Ausführung
 
-### § 1032 ABGB
+`§ 1168 (1) ABGB.`  
+Unterbleibt die Ausführung des Werkes, so gebührt dem Unternehmer gleichwohl das vereinbarte Entgelt, wenn er zur Leistung bereit war und durch Umstände, die auf Seite des Bestellers liegen daran verhindert worden ist; er muß sich jedoch anrechnen, was er infolge Unterbleibens der Arbeit erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat. Wurde er infolge solcher Umstände durch Zeitverlust bei der Ausführung des Werkes verkürzt, so gebührt ihm angemessene Entschädigung.
 
-`§ 1032 ABGB.`  
-Dienstgeber und Familienhäupter sind nicht verbunden, das, was von ihren Dienstpersonen oder andern Hausgenossen in ihrem Nahmen auf Borg genommen wird, zu bezahlen. Der Borger muß in solchen Fällen den gemachten Auftrag erweisen.
+`§ 1168 (2) ABGB.`  
+Unterbleibt eine zur Ausführung des Werkes erforderliche Mitwirkung des Bestellers, so ist der Unternehmer auch berechtigt, ihm zu Nachholung eine angemessenen Frist zu setzen mit der Erklärung, daß nach fruchtlosem Verstreichen der Frist der Vertrag als aufgehoben gelte.
+----
 
-### § 1033 ABGB
+----
+### § 1168a ABGB
 
-`§ 1033 ABGB.`  
-Besteht aber zwischen dem Borgnehmer und dem Borggeber ein ordentliches Einschreibebuch, worin die ausgeborgten Sachen aufgezeichnet werden; so gilt die Vermuthung, daß der Ueberbringer dieses Buches bevollmächtiget sey, die Waare auf Borg zu nehmen.
+`§ 1168a ABGB.`  
+Geht das Werk vor seiner Übernahme durch einen bloßen Zufall zugrunde, so kann der Unternehmer kein Entgelt verlangen. Der Verlust des Stoffes trifft denjenigen Teil, der ihn beigestellt hat. Mißlingt aber das Werk infolge offenbarer Untauglichkeit des vom Besteller gegebenen Stoffes oder offenbar unrichtiger Anweisungen des Bestellers, so ist der Unternehmer für den Schaden verantwortlich, wenn er den Besteller nicht gewarnt hat.
+----
 
-### § 1034 ABGB # Gesetzliche Vertretung
+----
+### § 1169 ABGB # Fürsorgepflicht
 
-`§ 1034 (1) ABGB.`  
-Als gesetzlicher Vertreter einer Person wird bezeichnet:  
-`§ 1034 (1) Z 1 ABGB.`
-wer für ein minderjähriges Kind im Rahmen der Obsorge oder sonst im Einzelfall gesetzlich mit dessen Vertretung betraut ist;  
-`§ 1034 (1) Z 2 ABGB.`
-ein Vorsorgebevollmächtigter, sobald die Vorsorgevollmacht wirksam ist (§ 245 Abs. 1);  
-`§ 1034 (1) Z 3 ABGB.`
-ein gewählter und ein gesetzlicher Erwachsenenvertreter nach der Registrierung im Österreichischen Zentralen Vertretungsverzeichnis sowie ein gerichtlicher Erwachsenenvertreter und  
-`§ 1034 (1) Z 4 ABGB.`
-ein Kurator (§ 277).
+`§ 1169 ABGB.`  
+Die Bestimmungen des § 1157, mit Ausnahme der die Regelung der Dienstleistungen und die Arbeits- und Erholungszeit betreffenden, finden auf den Werkvertrag sinngemäße Anwendung.
+----
 
-`§ 1034 (2) ABGB.`  
-Sofern nichts anderes angeordnet ist, wird eine durch Gerichtsentscheidung angeordnete gesetzliche Vertretung mit Rechtskraft der Entscheidung wirksam.
+----
+### § 1170 ABGB # Entrichtung des Entgelts
 
-### § 1035 ABGB # Geschäftsführung ohne Auftrag;
+`§ 1170 ABGB.`  
+In der Regel ist das Entgelt nach vollendetem Werk zu entrichten. Wird aber das Werk in gewissen Abteilungen verrichtet oder sind Auslagen damit verbunden, die der Unternehmer nicht auf sich genommen hat, so ist dieser befugt, einen verhältnismäßigen Teil des Entgelts und den Ersatz der gemachten Auslagen schon vorher zu fordern.
+----
 
-`§ 1035 ABGB.`  
-Wer weder durch ausdrücklichen oder stillschweigenden Vertrag, noch vom Gerichte, noch aus dem Gesetze das Befugniß erhalten hat, darf der Regel nach sich in das Geschäft eines Andern nicht mengen. Hätte er sich dessen angemaßt; so ist er für alle Folgen verantwortlich.
+----
+### § 1170a ABGB
 
-### § 1036 ABGB # im Nothfalle;
+`§ 1170a (1) ABGB.`  
+Ist dem Vertrage ein Kostenvoranschlag unter ausdrücklicher Gewährleistung für seine Richtigkeit zugrunde gelegt, so kann der Unternehmer auch bei unvorhergesehener Größe oder Kostspieligkeit der veranschlagten Arbeiten keine Erhöhung des Entgelts fordern.
 
-`§ 1036 ABGB.`  
-Wer, obgleich unberufen, ein fremdes Geschäft zur Abwendung eines bevorstehenden Schadens besorgt, dem ist derjenige, dessen Geschäft er besorgt hat, den nothwendigen und zweckmäßig gemachten Aufwand zu ersetzen schuldig; wenn gleich die Bemühung ohne Verschulden fruchtlos geblieben ist (§. 403).
+`§ 1170a (2) ABGB.`  
+Ist ein Voranschlag ohne Gewährleistung zugrunde gelegt und erweist sich eine beträchtliche Überschreitung als unvermeidlich, so kann der Besteller unter angemessener Vergütung der vom Unternehmer geleisteten Arbeit vom Vertrage zurücktreten. Sobald sich eine solche Überschreitung als unvermeidlich herausstellt, hat der Unternehmer dies dem Besteller unverzüglich anzuzeigen, widrigenfalls er jeden Anspruch wegen der Mehrarbeiten verliert.
+----
 
-### § 1037 ABGB # oder zum Nutzen des Andern;
+----
+### § 1170b ABGB # Sicherstellung bei Bauverträgen
 
-`§ 1037 ABGB.`  
-Wer fremde Geschäfte bloß, um den Nutzen des Andern zu befördern, übernehmen will, soll sich um dessen Einwilligung bewerben. Hat der Geschäftsführer zwar diese Vorschrift unterlassen, aber das Geschäft auf seine Kosten zu des Andern klarem, überwiegenden Vortheile geführet; so müssen ihm von diesem die darauf verwendeten Kosten ersetzt werden.
+`§ 1170b (1) ABGB.`  
+Der Unternehmer eines Bauwerks, einer Außenanlage zu einem Bauwerk oder eines Teils hievon kann vom Besteller ab Vertragsabschluss für das noch ausstehende Entgelt eine Sicherstellung bis zur Höhe eines Fünftels des vereinbarten Entgelts, bei Verträgen, die innerhalb von drei Monaten zu erfüllen sind, aber bis zur Höhe von zwei Fünfteln des vereinbarten Entgelts, verlangen. Dieses Recht kann nicht abbedungen werden. Als Sicherstellung können Bargeld, Bareinlagen, Sparbücher, Bankgarantien oder Versicherungen dienen. Die Kosten der Sicherstellung hat der Sicherungsnehmer zu tragen, soweit sie pro Jahr zwei von Hundert der Sicherungssumme nicht übersteigen. Die Kostentragungspflicht entfällt, wenn die Sicherheit nur mehr wegen Einwendungen des Bestellers gegen den Entgeltanspruch aufrechterhalten werden muss und die Einwendungen sich als unbegründet erweisen.
 
-### § 1038 ABGB
+`§ 1170b (2) ABGB.`  
+Sicherstellungen nach Abs. 1 sind binnen angemessener, vom Unternehmer festzusetzender Frist zu leisten. Kommt der Besteller dem Verlangen des Unternehmers auf Leistung einer Sicherstellung nicht, nicht ausreichend oder nicht rechtzeitig nach, so kann der Unternehmer seine Leistung verweigern und unter Setzung einer angemessenen Nachfrist die Vertragsaufhebung erklären (§ 1168 Abs. 2).
 
-`§ 1038 ABGB.`  
-Ist aber der überwiegende Vortheil nicht klar; oder hat der Geschäftsführer eigenmächtig so wichtige Veränderungen in einer fremden Sache vorgenommen, daß die Sache dem Andern zu dem Zwecke, wozu er sie bisher benützte, unbrauchbar wird, so ist dieser zu keinem Ersatze verbunden; er kann vielmehr verlangen, daß der Geschäftsführer auf eigene Kosten die Sache in den vorigen Stand zurücksetze, oder, wenn das nicht möglich ist, ihm volle Genugthuung leiste.
+`§ 1170b (3) ABGB.`  
+Abs. 1 und 2 gelten nicht, wenn der Werkbesteller eine juristische Person des öffentlichen Rechts oder ein Verbraucher im Sinne des § 1 Abs. 1 Z 2 und Abs. 3 KSchG ist.
+----
 
-### § 1039 ABGB
+----
+### § 1171 ABGB # Erlöschen durch Tod
 
-`§ 1039 ABGB.`  
-Wer ein fremdes Geschäft ohne Auftrag auf sich genommen hat, muß es bis zur Vollendung fortsetzen, und gleich einem Bevollmächtigten genaue Rechnung darüber ablegen.
+`§ 1171 ABGB.`  
+Ein Werkvertrag über Arbeiten, bei denen es auf die besonderen persönlichen Eigenschaften des Unternehmers ankommt, erlischt durch dessen Tod und seine Erben können nur den Preis für den zubereiteten brauchbaren Stoff und einen dem Werte der geleisteten Arbeit angemessenen Teil des Entgelts fordern. Stirbt der Besteller, so bleiben die Erben an den Vertrag gebunden.
+----
 
-### § 1040 ABGB # gegen den Willen des Andern.
+----
+### § 1172 ABGB # 3. Verlagsvertrag
 
-`§ 1040 ABGB.`  
-Wenn jemand gegen den gültig erklärten Willen des Eigenthümers sich eines fremden Geschäftes anmaßet, oder den rechtmäßigen Bevollmächtigten durch eine solche Einmengung an der Besorgung des Geschäftes verhindert; so verantwortet er nicht nur den hieraus erwachsenen Schaden und entgangenen Gewinn, sondern er verliert auch den gemachten Aufwand; in so fern er nicht in Natur zurückgenommen werden kann.
+`§ 1172 ABGB.`  
+Durch den Verlagsvertrag verpflichtet sich der Urheber eines Werkes der Literatur, der Tonkunst oder der bildenden Künste oder sein Rechtsnachfolger, das Werk einem anderen zur Vervielfältigung und Verbreitung für eigene Rechnung zu überlassen, dieser (der Verleger) dagegen, das Werk zu vervielfältigen und die Vervielfältigungsstücke zu verbreiten.
+----
 
-### § 1041 ABGB # Verwendung einer Sache zum Nutzen des Andern.
+----
+### § 1173 ABGB
 
-`§ 1041 ABGB.`  
-Wenn ohne Geschäftsführung eine Sache zum Nutzen eines Andern verwendet worden ist; kann der Eigenthümer sie in Natur, oder, wenn dieß nicht mehr geschehen kann, den Werth verlangen, den sie zur Zeit der Verwendung gehabt hat, obgleich der Nutzen in der Folge vereitelt worden ist.
+`§ 1173 ABGB.`  
+Wurde über die Anzahl der Auflagen nichts bestimmt, so ist der Verleger nur zu einer Auflage berechtigt. Vor dem Absatze der Auflage darf der Urheber über das Werk nur dann anderweitig verfügen, wenn er dem Verleger eine angemessene Schadloshaltung leistet.
+----
 
-### § 1042 ABGB
+----
+### § 1174 ABGB # 4. Leistung zu unerlaubtem Zweck
 
-`§ 1042 ABGB.`  
-Wer für einen Andern einen Aufwand macht, den dieser nach dem Gesetze selbst hätte machen müssen, hat das Recht, den Ersatz zu fordern.
+`§ 1174 (1) ABGB.`  
+Was jemand wissentlich zur Bewirkung einer unmöglichen oder unerlaubten Handlung gegeben hat, kann er nicht wieder zurückfordern. Inwiefern es der Fiskus einzuziehen berechtigt sei, bestimmen die politischen Verordnungen. Ist aber etwas zu Verhinderung einer unerlaubten Handlung demjenigen der diese Handlung begehen wollte, gegeben worden, so findet die Zurückforderung statt.
 
-### § 1043 ABGB
+`§ 1174 (2) ABGB.`  
+Ein zum Zweck eines verbotenen Spieles gegebenes Darlehen kann nicht zurückgefordert werden.
+----
 
-`§ 1043 ABGB.`  
-Hat jemand in einem Nothfalle, um einen größern Schaden von sich und Andern abzuwenden, sein Eigenthum aufgeopfert; so müssen ihn Alle, welche daraus Vortheil zogen, verhältnißmäßig entschädigen. Die ausführlichere Anwendung dieser Vorschrift auf Seegefahren ist ein Gegenstand der Seegesetze.
+----
+## Siebenundzwanzigstes Hauptstück # Von der Gesellschaft bürgerlichen Rechts # 1. Abschnitt # Allgemeine Bestimmungen
 
-### § 1044 ABGB
+### § 1175 ABGB # Begriff und Rechtsnatur der Gesellschaft bürgerlichen Rechts
 
-`§ 1044 ABGB.`  
-Die Vertheilung der Kriegsschäden wird nach besondern Vorschriften von den politischen Behörden bestimmt.
+`§ 1175 (1) ABGB.`  
+Schließen sich zwei oder mehrere Personen durch einen Vertrag zusammen, um durch eine bestimmte Tätigkeit einen gemeinsamen Zweck zu verfolgen, so bilden sie eine Gesellschaft. Sofern sie keine andere Gesellschaftsform wählen, bilden sie eine Gesellschaft bürgerlichen Rechts im Sinn dieses Hauptstücks.
 
-## Drey u. zwanzigstes Hauptstück. # Von dem Tauschvertrage.
+`§ 1175 (2) ABGB.`  
+Die Gesellschaft bürgerlichen Rechts ist nicht rechtsfähig.
 
-### § 1045 ABGB # Tausch.
+`§ 1175 (3) ABGB.`  
+Sie kann jeden erlaubten Zweck verfolgen und jede erlaubte Tätigkeit zum Gegenstand haben.
 
-`§ 1045 ABGB.`  
-Der Tausch ist ein Vertrag, wodurch eine Sache gegen eine andere Sache überlassen wird. Die wirkliche Uebergabe ist nicht zur Errichtung; sondern nur zur Erfüllung des Tauschvertrages, und zur Erwerbung des Eigenthumes nothwendig.
+`§ 1175 (4) ABGB.`  
+Die Bestimmungen dieses Hauptstücks sind auch auf andere Gesellschaften anzuwenden, soweit für diese keine besonderen Vorschriften bestehen und die Anwendung dieser Bestimmungen auch unter Berücksichtigung der für die jeweilige Gesellschaft geltenden Grundsätze angemessen ist.
+----
 
-### § 1046 ABGB
+----
+### § 1176 ABGB # Innen- und Außengesellschaft
 
-`§ 1046 ABGB.`  
-Das Geld ist kein Gegenstand des Tauschvertrages; doch lassen sich Gold und Silber als eine Waare, und selbst als Münz-Sorten in so weit vertauschen; als sie nur gegen andere Münz-Sorten, goldene nähmlich gegen silberne, kleinere gegen größere Stücke verwechselt werden sollen.
+`§ 1176 (1) ABGB.`  
+Die Gesellschafter können die Gesellschaft auf ihr Verhältnis untereinander beschränken (Innengesellschaft) oder gemeinschaftlich im Rechtsverkehr auftreten (Außengesellschaft). Ist der Gegenstand der Gesellschaft der Betrieb eines Unternehmens oder führen die Gesellschafter einen gemeinsamen Gesellschaftsnamen (§ 1177), so wird vermutet, dass die Gesellschafter eine Außengesellschaft vereinbaren wollten.
 
-### § 1047 ABGB # Rechte und Pflichten der Tauschenden;
+`§ 1176 (2) ABGB.`  
+Haben die Gesellschafter in den Fällen des Abs. 1 zweiter Satz eine Außengesellschaft vertraglich ausgeschlossen, so kann dieser Umstand einem Dritten nur entgegengehalten werden, wenn dieser wusste oder hätte wissen müssen, dass es sich bloß um eine Innengesellschaft handelt.
+----
 
-`§ 1047 ABGB.`  
-Tauschende sind vermöge des Vertrages verpflichtet, die vertauschten Sachen der Verabredung gemäß mit ihren Bestandteilen und mit allem Zugehör zu rechter Zeit, am gehörigen Ort und in eben dem Zustande, in welchem sie sich bei Schließung des Vertrages befunden haben, zum freien Besitze zu übergeben und zu übernehmen.
+----
+### § 1177 ABGB # Gesellschaftsname
 
-### § 1048 ABGB # insbesondere in Rücksicht der Gefahr,
+`§ 1177 (1) ABGB.`  
+Wenn die Gesellschafter unter einem gemeinsamen Namen auftreten, muss dieser auf das Bestehen einer solchen Gesellschaft hindeuten, zur Kennzeichnung der Gesellschaft geeignet sein und Unterscheidungskraft besitzen. Er darf über die Verhältnisse der Gesellschaft nicht in die Irre führen.
 
-`§ 1048 ABGB.`  
-Ist eine Zeit bedungen, zu welcher die Uebergabe geschehen soll, und wird in der Zwischenzeit entweder die vertauschte bestimmte Sache durch Verboth außer Verkehr gesetzt, oder zufälliger Weise ganz, oder doch über die Hälfte am Werthe zu Grunde gerichtet, so ist der Tausch für nicht geschlossen anzusehen.
+`§ 1177 (2) ABGB.`  
+Wer in Angelegenheiten der Gesellschaft für alle Gesellschafter gemeinsam auftritt, hat jedem, der ein rechtliches Interesse daran hat, die Identität und die Anschrift der Gesellschafter offenzulegen.
+----
 
-### § 1049 ABGB
+----
+### § 1178 ABGB # Gesellschaftsvermögen
 
-`§ 1049 ABGB.`  
-Andere in dieser Zwischenzeit durch Zufall erfolgte Verschlimmerungen der Sache und Lasten gehen auf die Rechnung des Besitzers. Sind jedoch Sachen in Pausch und Bogen behandelt worden; so trägt der Uebernehmer den zufälligen Untergang einzelner Stücke, wenn anders hierdurch das Ganze nicht über die Hälfte am Werthe verändert worden ist.
+`§ 1178 (1) ABGB.`  
+Zum Gesellschaftsvermögen gehören das der Gesellschaft gewidmete Eigentum, die sonstigen gesellschaftsbezogenen Sachenrechte, die gesellschaftsbezogenen Vertragsverhältnisse, Forderungen und Verbindlichkeiten und die gesellschaftsbezogenen Immaterialgüterrechte sowie der jeweils daraus verschaffte Nutzen, die daraus gewonnenen Früchte und alles, was an Stelle bestehender Vermögenswerte zufließt.
 
-### § 1050 ABGB # und der Nutzungen vor der Übergabe.
+`§ 1178 (2) ABGB.`  
+Vom Gesellschaftsvermögen zu unterscheiden ist das sonstige Vermögen der einzelnen Gesellschafter. Gegen eine Forderung, die zum Gesellschaftsvermögen gehört, kann der Schuldner nicht mit einer ihm gegen einen einzelnen Gesellschafter zustehenden Forderung aufrechnen.
+----
 
-`§ 1050 ABGB.`  
-Dem Besitzer gebühren die Nutzungen der vertauschten Sache bis zur bedungenen Zeit der Uebergabe. Von dieser Zeit an gebühren sie, sammt dem Zuwachse, dem Uebernehmer, obgleich die Sache noch nicht übergeben worden ist.
+----
+### § 1179 ABGB # Einbringung des Gesellschaftsvermögens
 
-### § 1051 ABGB
+`§ 1179 (1) ABGB.`  
+Der Gesellschaftsvertrag ist ein Titel für die Bildung und den Erwerb von Gesellschaftsvermögen. Dessen Einbringung bedarf der jeweils allgemein erforderlichen Übergabe oder Verfügung.
 
-`§ 1051 ABGB.`  
-Ist keine Zeit zur Uebergabe der bestimmten Sache bedungen, und fällt keinem Theile ein Versehen zur Last; so sind die obigen Vorschriften wegen Gefahr und Nutzungen (§§. 1048 – 1050) auf den Zeitpunct der Uebergabe selbst anzuwenden; in so fern die Parteyen nicht etwas Anderes festgesetzt haben.
+`§ 1179 (2) ABGB.`  
+Wenn nach dem Gesellschaftsvertrag das ganze Vermögen einzubringen ist, so ist darunter nur das gegenwärtige zu verstehen. Soll aber auch das künftige Vermögen eingebracht werden, so ist darunter nicht das geerbte oder das geschenkte zu verstehen.
+----
 
-### § 1052 ABGB
+----
+### § 1180 ABGB # Vermögensordnung
 
-`§ 1052 ABGB.`  
-Wer auf die Übergabe dringen will, muß seine Verbindlichkeit erfüllt haben oder sie zu erfüllen bereit sein. Auch der zur Vorausleistung Verpflichtete kann seine Leistung bis zur Bewirkung oder Sicherstellung der Gegenleistung verweigern, wenn diese durch schlechte Vermögensverhältnisse des anderen Teiles gefährdet ist, die ihm zur Zeit des Vertragsabschlusses nicht bekannt sein mußten.
+`§ 1180 (1) ABGB.`  
+Soweit nichts anderes vereinbart ist, stehen körperliche Sachen, die von Gesellschaftern in das Gesellschaftsvermögen übertragen oder für das Gesellschaftsvermögen (§ 1178 Abs. 1) erworben worden sind, im Miteigentum der Gesellschafter; unkörperliche Sachen, insbesondere schuldrechtliche Forderungen, sind den Gesellschaftern zur gesamten Hand zugeordnet.
 
-## Vier u. zwanzigstes Hauptstück. # Von dem Kaufvertrage.
+`§ 1180 (2) ABGB.`  
+Im Gesellschaftsvertrag können der Gesellschaft Sachen auch bloß zum Gebrauch zur Verfügung gestellt oder im Innenverhältnis so behandelt werden, als ob sie allen gemeinsam gehörten.
+----
 
-### § 1053 ABGB # Kaufvertrag.
-
-`§ 1053 ABGB.`  
-Durch den Kaufvertrag wird eine Sache um eine bestimmte Summe Geldes einem Andern überlassen. Er gehört, wie der Tausch, zu den Titeln ein Eigenthum zu erwerben. Die Erwerbung erfolgt erst durch die Uebergabe des Kaufgegenstandes. Bis zur Uebergabe behält der Verkäufer das Eigenthumsrecht.
-
-### § 1054 ABGB # Erfordernisse des Kaufvertrages.
-
-`§ 1054 ABGB.`  
-Wie die Einwilligung des Käufers und Verkäufers beschaffen seyn müsse, und welche Sachen gekauft und verkauft werden dürfen, dieses wird nach den Regeln der Verträge überhaupt bestimmt. Der Kaufpreis muß im barem Gelde bestehen, und darf weder unbestimmt, noch gesetzwidrig seyn.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.021](BG.ABGB.021.md))*
+`END-OF-DATA-SET`

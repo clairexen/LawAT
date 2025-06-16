@@ -1,18 +1,19 @@
 # BG.StVO.007 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StVO  
+**Kurztitel:** ['StVO']  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.007.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StVO.006](BG.StVO.006.md))*
+Der Nationalrat hat beschlossen:
 
+----
 ## E. Verkehrsleiteinrichtungen.
 
-### § 55 StVO # Bodenmarkierungen auf der Straße.
+### § 55 StVO # Bodenmarkierungen auf der Straße
 
 `§ 55 (1) StVO.`  
 Zur Sicherung, Leitung und Ordnung des fließenden und des ruhenden Verkehrs können auf der Straße Bodenmarkierungen angebracht werden; sie können als Längsmarkierungen, Quermarkierungen, Richtungspfeile, Schraffen, Schriftzeichen, Symbole u. dgl. ausgeführt werden.
@@ -38,8 +39,10 @@ Bodenmarkierungen können dem jeweiligen Stand der Wissenschaft und Technik ents
 `§ 55 (8) StVO.`  
 Abweichend von Abs. 6 sind die in § 24 Abs. 1 lit. p und 3 lit. a genannten Linien in gelber Farbe auszuführen; die in § 24 Abs. 3 lit. a angeführten Linien sind überdies abweichend von Abs. 2 als unterbrochene Linien auszuführen. Die genannten Linien sind außerhalb einer allenfalls vorhandenen Randlinie anzubringen und können bei Vorhandensein eines Gehsteigs auch auf diesem in einer Entfernung von nicht mehr als 0,30 m zum Fahrbahnrand angebracht werden.
 *(Anm.: Abs. 9 aufgehoben durch BGBl. Nr. 518/1994)*
+----
 
-### § 56 StVO # Schutzwegmarkierungen.
+----
+### § 56 StVO # Schutzwegmarkierungen
 
 `§ 56 (1) StVO.`  
 In Ortsgebieten sind auf Straßenstellen, wo ständig betriebene Lichtzeichen zur Regelung des Verkehrs oder zur Abgabe blinkenden gelben Lichtes vorhanden sind, auch Schutzwege (§ 2 Abs. 1 Z 12) in entsprechender Anzahl anzulegen, sofern für den Fußgängerverkehr nicht in anderer Weise, etwa durch Über- oder Unterführungen, Vorsorge getroffen ist.
@@ -49,7 +52,9 @@ Auf anderen als den in Abs. 1 bezeichneten Straßenstellen sind Schutzwege dann
 
 `§ 56 (3) StVO.`  
 Solange es die Verkehrsverhältnisse nicht erfordern, kann von einer Regelung des Verkehrs durch Lichtzeichen bei den in Abs. 2 genannten Schutzwegen Abstand genommen werden. In diesem Falle ist der Schutzweg mit blinkendem gelbem Licht (§ 38 Abs. 3) oder mit dem Hinweiszeichen nach § 53 Z 2a („Kennzeichnung eines Schutzweges“) zu kennzeichnen.
+----
 
+----
 ### § 56a StVO # Radfahrerüberfahrtmarkierungen
 
 `§ 56a (1) StVO.`  
@@ -60,7 +65,9 @@ Auf anderen als den in Abs. 1 bezeichneten Straßenstellen sind Radfahrerüberf
 
 `§ 56a (3) StVO.`  
 Solange es die Verkehrsverhältnisse nicht erfordern, kann von einer Regelung des Verkehrs durch Lichtzeichen bei den in Abs. 2 genannten Radfahrerüberfahrten Abstand genommen werden. In diesem Falle ist die Radfahrerüberfahrt mit blinkendem gelben Licht oder mit dem Hinweiszeichen nach § 53 Abs. 1 Z 2b („Kennzeichnung einer Radfahrerüberfahrt“) zu kennzeichnen.
+----
 
+----
 ### § 57 StVO # Einrichtungen neben und auf der Fahrbahn
 
 `§ 57 (1) StVO.`  
@@ -68,10 +75,12 @@ Zur besseren Kenntlichmachung des Verlaufes einer Straße können neben der Fahr
 
 `§ 57 (2) StVO.`  
 Leitplanken, Leitbaken und Leitmale sind zur besseren Erkennbarkeit mit rückstrahlendem Material in roter und weißer Farbe auszustatten. Lauflichtanlagen und andere Anlagen zur Abgabe von blinkendem Licht haben weißgelbes oder gelbes Licht auszustrahlen. Werden die übrigen Einrichtungen gemäß Abs. 1 zur besseren Erkennbarkeit mit rückstrahlendem Material ausgestattet, so ist an der rechten Straßenseite im Sinne der Fahrtrichtung die Farbe Rot, an der linken die Farbe Weiß zu verwenden. Kann an solchen Einrichtungen an beiden Seiten vorbeigefahren werden, so ist die Farbe Gelb zu verwenden. Anstelle des rückstrahlenden Materials kann auch eine Lichtquelle in der entsprechenden Farbe verwendet werden.
+----
 
+----
 ## V. ABSCHNITT. # Allgemeine Vorschriften über den Fahrzeugverkehr.
 
-### § 58 StVO # Lenker von Fahrzeugen.
+### § 58 StVO # Lenker von Fahrzeugen
 
 `§ 58 (1) StVO.`  
 Unbeschadet der Bestimmungen des § 5 Abs. 1 darf ein Fahrzeug nur lenken, wer sich in einer solchen körperlichen und geistigen Verfassung befindet, in der er ein Fahrzeug zu beherrschen und die beim Lenken eines Fahrzeuges zu beachtenden Rechtsvorschriften zu befolgen vermag. Sind diese Voraussetzungen offenbar nicht gegeben, so sind die Bestimmungen des § 5b sinngemäß anzuwenden.
@@ -84,14 +93,16 @@ Die Bestimmungen des Abs. 2 gelten auch dann, wenn der Lenker wegen eines nicht
 
 `§ 58 (4) StVO.`  
 Ist der Lenker eines Fahrzeuges nicht auch dessen Besitzer, bei Kraftfahrzeugen dessen Zulassungsbesitzer, so hat er, wenn sich das Fahrzeug oder die Ladung nicht in einem den rechtlichen Vorschriften entsprechenden Zustand befindet, dies dem Besitzer des Fahrzeuges oder dem Verfügungsberechtigten, bei Kraftfahrzeugen dem Zulassungsbesitzer, zu melden.
+----
 
-### § 59 StVO # Verbot des Lenkens von Fahrzeugen.
+----
+### § 59 StVO # Verbot des Lenkens von Fahrzeugen
 
 `§ 59 (1) StVO.`  
 Die Behörde hat einer Person das Lenken eines Fahrzeuges, das ohne besondere Berechtigung gelenkt werden darf, ausdrücklich zu verbieten, wenn diese  
-`§ 59 (1) lit. a) StVO.`
+`§ 59 (1) lit. a StVO.`
 wegen körperlicher oder geistiger Mängel zum Lenken eines Fahrzeuges ungeeignet ist oder  
-`§ 59 (1) lit. b) StVO.`
+`§ 59 (1) lit. b StVO.`
 wegen ihres Verhaltens im Straßenverkehr, insbesondere im Hinblick auf wiederholte einschlägige Bestrafungen, eine Gefahr für die Sicherheit des Straßenverkehrs bildet.
 
 `§ 59 (2) StVO.`  
@@ -99,8 +110,10 @@ Ein Verbot nach Abs. 1 kann je nach den Umständen auf eine bestimmte Fahrzeuga
 
 `§ 59 (3) StVO.`  
 Soll eine Verfügung nach Abs. 1 oder 2 für zwei oder mehrere Bundesländer wirksam werden, so ist hiefür die Landesregierung, in deren örtlichem Wirkungsbereich die Partei ihren Wohnsitz hat, zuständig. Diese Behörde hat das Einvernehmen mit den anderen in Betracht kommenden Landesregierungen herzustellen.
+----
 
-### § 60 StVO # Zustand und Beleuchtung der Fahrzeuge.
+----
+### § 60 StVO # Zustand und Beleuchtung der Fahrzeuge
 
 `§ 60 (1) StVO.`  
 Ein Fahrzeug darf auf Straßen nur verwendet werden, wenn es so gebaut und ausgerüstet ist, daß durch seinen sachgemäßen Betrieb Personen nicht gefährdet oder durch Geruch, Geräusch, Staub, Schmutz u. dgl. nicht über das gewöhnliche Maß hinaus belästigt oder Sachen, insbesondere die Fahrbahn, nicht beschädigt werden.
@@ -113,8 +126,10 @@ Während der Dämmerung, bei Dunkelheit oder Nebel oder wenn es die Witterung so
 
 `§ 60 (4) StVO.`  
 Wenn es die Verkehrssicherheit erfordert, hat der Bundesminister für Verkehr, Innovation und Technologie unter Bedachtnahme auf den jeweiligen Stand der Technik nähere Vorschriften über die Ausführung und Beschaffenheit der an Fahrzeugen anzubringenden Rückstrahleinrichtungen einschließlich der gelben Rückstrahler an den Pedalen von Fahrrädern und über ihre Lichtwirkungen durch Verordnung zu erlassen.
+----
 
-### § 61 StVO # Verwahrung der Ladung.
+----
+### § 61 StVO # Verwahrung der Ladung
 
 `§ 61 (1) StVO.`  
 Die Ladung ist am Fahrzeug so zu verwahren, daß sein sicherer Betrieb nicht beeinträchtigt, niemand gefährdet, behindert oder belästigt und die Straße weder beschädigt noch verunreinigt wird. Es ist verboten, einen Teil der Ladung nachzuschleifen, es sei denn, daß es sich um eine vom Straßenerhalter erlaubte Beförderung von Baumstämmen auf Holzbringungswegen handelt.
@@ -133,8 +148,10 @@ Blendende Gegenstände sind auf offenen Fahrzeugen verhüllt zu befördern.
 
 `§ 61 (6) StVO.`  
 Ist die Ladung ganz oder teilweise auf die Straße gefallen, so hat der Lenker zunächst allenfalls erforderliche Maßnahmen zur Verhinderung von Verkehrsstörungen zu treffen, das Beförderungsgut von der Straße zu entfernen und die Straße zu reinigen.
+----
 
-### § 62 StVO # Ladetätigkeit.
+----
+### § 62 StVO # Ladetätigkeit
 
 `§ 62 (1) StVO.`  
 Durch eine Ladetätigkeit auf Straßen, das ist das Beladen oder Entladen von Fahrzeugen sowie das Abschlauchen von Flüssigkeiten aus Fahrzeugen oder in Fahrzeuge, darf die Sicherheit des Verkehrs nicht und die Leichtigkeit des Verkehrs nicht wesentlich beeinträchtigt werden.
@@ -150,8 +167,10 @@ Für eine Ladetätigkeit auf Straßenstellen, wo das Halten verboten ist, ist, s
 
 `§ 62 (5) StVO.`  
 Eine Bewilligung nach Abs. 4 ist von der Behörde zu erteilen, wenn die Ladetätigkeit an einer anderen Stelle besonders umständlich wäre und weder eine Beschädigung des Gehsteiges oder seiner Einbauten noch eine Beeinträchtigung der Sicherheit oder eine wesentliche Behinderung des Verkehrs zu befürchten ist. Auf Grund der Bewilligung dürfen nicht nur die Ladetätigkeiten des Antragstellers, sondern auch alle anderen im wesentlichen gleichartigen Ladetätigkeiten ausgeübt werden. Auch ein Organ der Straßenaufsicht darf eine solche Bewilligung erteilen, jedoch nur dann, wenn es sich um einen dringenden Einzelfall handelt und die sonstigen Voraussetzungen zur Erteilung vorliegen; das Aufstellen von Fahrzeugen auf Gehsteigen darf ein Organ der Straßenaufsicht jedoch nicht bewilligen.
+----
 
-### § 64 StVO # Sportliche Veranstaltungen auf Straßen.
+----
+### § 64 StVO # Sportliche Veranstaltungen auf Straßen
 
 `§ 64 (1) StVO.`  
 Wer auf der Straße sportliche Veranstaltungen wie Wettlaufen, Wettfahren usw. durchführen will, bedarf hiezu der Bewilligung der Behörde. Die Bewilligung darf nur erteilt werden, wenn die Veranstaltung die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs nicht wesentlich beeinträchtigt und schädliche Einwirkungen auf die Bevölkerung und die Umwelt durch Lärm, Geruch oder Schadstoffe nicht zu erwarten sind.
@@ -167,10 +186,12 @@ Wer auf der Straße kraftfahrsportliche Veranstaltungen, einschließlich Rennen,
 
 `§ 64 (4) StVO.`  
 Erstreckt sich eine sportliche Veranstaltung auf zwei oder mehrere Bundesländer, so ist zur Erteilung der Bewilligung nach Abs. 1 die Landesregierung zuständig, in deren örtlichem Wirkungsbereich die Veranstaltung beginnt; das Einvernehmen mit den übrigen in Betracht kommenden Landesregierungen ist herzustellen.
+----
 
+----
 ## VI. ABSCHNITT. # Besondere Vorschriften für den Verkehr mit Fahrrädern und Motorfahrrädern.
 
-### § 65 StVO # Benützung von Fahrrädern.
+### § 65 StVO # Benützung von Fahrrädern
 
 `§ 65 (1) StVO.`  
 Der Lenker eines Fahrrades (Radfahrer) muß mindestens zwölf Jahre alt sein; wer ein Fahrrad schiebt, gilt nicht als Radfahrer. Kinder unter zwölf Jahren dürfen ein Fahrrad nur unter Aufsicht einer Person, die das 16. Lebensjahr vollendet hat, oder mit behördlicher Bewilligung lenken.
@@ -185,7 +206,9 @@ und anzunehmen ist, dass es die erforderliche körperliche und geistige Eignung 
 
 `§ 65 (3) StVO.`  
 Radfahrer, die auf dem Fahrrad Personen mitführen, müssen das 16. Lebensjahr vollendet haben. Ist die mitgeführte Person noch nicht acht Jahre alt, so muß für sie ein eigener, der Größe des Kindes entsprechender Sitz vorhanden sein. Ist die mitgeführte Person mehr als acht Jahre alt, so darf nur ein Fahrrad verwendet werden, das hinsichtlich seiner Bauart den Anforderungen der Produktsicherheitsbestimmungen für Fahrräder zum Transport mehrerer Personen (§ 104 Abs. 8) entspricht.
+----
 
+----
 ### § 66 StVO # Beschaffenheit von Fahrrädern, Fahrradanhängern und Kindersitzen
 
 `§ 66 (1) StVO.`  
@@ -199,7 +222,9 @@ unter welchen Voraussetzungen bestimmte Teile der Ausrüstung von Fahrrädern od
 unter welchen Voraussetzungen die Beförderung von Kindern in Kindersitzen oder Personen mit Fahrradanhängern und mehrspurigen Fahrrädern zulässig ist;  
 `§ 66 (2) Z 3 StVO.`
 das Ladegewicht, das bei der Beförderung von Lasten oder Personen mit Fahrrädern oder mit Fahrradanhängern nicht überschritten werden darf.
+----
 
+----
 ### § 67 StVO # Fahrradstraße
 
 `§ 67 (1) StVO.`  
@@ -213,7 +238,9 @@ Die Lenker von Fahrzeugen dürfen in Fahrradstraßen nicht schneller als 30 km/
 
 `§ 67 (4) StVO.`  
 Für die Kundmachung einer Verordnung nach Abs. 1 gelten die Bestimmungen des § 44 Abs. 1 mit der Maßgabe, dass am Anfang und am Ende einer Fahrradstraße die betreffenden Hinweiszeichen (§ 53 Abs. 1 Z 26 und 29) anzubringen sind.
+----
 
+----
 ### § 68 StVO # Fahrradverkehr
 
 `§ 68 (1) StVO.`  
@@ -227,15 +254,15 @@ Radfahrer dürfen auf Radwegen, in Fahrradstraßen, in Wohnstraßen und in Begeg
 
 `§ 68 (3) StVO.`  
 Es ist verboten,  
-`§ 68 (3) lit. a) StVO.`
+`§ 68 (3) lit. a StVO.`
 auf einem Fahrrad freihändig zu fahren oder die Füße während der Fahrt von den Treteinrichtungen zu entfernen,  
-`§ 68 (3) lit. b) StVO.`
+`§ 68 (3) lit. b StVO.`
 sich mit einem Fahrrad an ein anderes Fahrzeug anzuhängen, um sich ziehen zu lassen,  
-`§ 68 (3) lit. c) StVO.`
+`§ 68 (3) lit. c StVO.`
 Fahrräder in einer nicht verkehrsgemäßen Art zu gebrauchen, zum Beispiel Karussellfahren, Wettfahren und dgl.,  
-`§ 68 (3) lit. d) StVO.`
+`§ 68 (3) lit. d StVO.`
 beim Radfahren andere Fahrzeuge oder Kleinfahrzeuge mitzuführen,  
-`§ 68 (3) lit. e) StVO.`
+`§ 68 (3) lit. e StVO.`
 während des Radfahrens ohne Benützung einer Freisprecheinrichtung zu telefonieren; hinsichtlich der Anforderungen für Freisprecheinrichtungen gilt § 102 Abs. 3 KFG 1967.
 
 `§ 68 (3a) StVO.`  
@@ -249,19 +276,23 @@ Gegenstände, die am Anzeigen der Fahrtrichtungsänderung hindern oder die freie
 
 `§ 68 (6) StVO.`  
 Kinder unter 12 Jahren müssen beim Rad fahren, beim Transport in einem Fahrradanhänger und wenn sie auf einem Fahrrad mitgeführt werden, einen Sturzhelm in bestimmungsgemäßer Weise gebrauchen. Dies gilt nicht, wenn der Gebrauch des Helms wegen der körperlichen Beschaffenheit des Kindes nicht möglich ist. Wer ein Kind beim Rad fahren beaufsichtigt, auf einem Fahrrad mitführt oder in einem Fahrradanhänger transportiert, muss dafür sorgen, dass das Kind den Sturzhelm in bestimmungsgemäßer Weise gebraucht. Im Falle eines Verkehrsunfalls begründet das Nichttragen des Helms kein Mitverschulden im Sinne des § 1304 des allgemeinen bürgerlichen Gesetzbuches, JGS Nr. 946/1811, an den Folgen des Unfalls.
+----
 
+----
 ### § 69 StVO # Motorfahrräder
 
 `§ 69 (1) StVO.`  
 Mit Motorfahrrädern ist ausschließlich die Fahrbahn zu benützen.
 
 `§ 69 (2) StVO.`  
-Für die Lenker von Motorfahrrädern gelten die Bestimmungen des § 68 Abs. 3 bis 5 über das Verhalten von Radfahrern sinngemäß.  
+Für die Lenker von Motorfahrrädern gelten die Bestimmungen des § 68 Abs. 3 bis 5 über das Verhalten von Radfahrern sinngemäß.
+
 Überdies ist ihnen verboten:  
-`§ 69 lit. a) StVO.`
+`§ 69 lit. a StVO.`
 Das Nebeneinanderfahren mit anderen Motorfahrrädern oder Fahrrädern,  
-`§ 69 lit. b) StVO.`
+`§ 69 lit. b StVO.`
 Motorfahrräder neben einem anderen Motorfahrrad oder Fahrrad zu schieben,  
 *(Anm.: lit. c aufgehoben durch BGBl. I Nr. 122/2022)*
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StVO.008](BG.StVO.008.md))*
+`END-OF-DATA-SET`

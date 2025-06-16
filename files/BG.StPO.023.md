@@ -1,352 +1,191 @@
 # BG.StPO.023 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.023.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StPO.022](BG.StPO.022.md))*
+Der Nationalrat hat beschlossen:
 
-## 2. Abschnitt # Verfahren zur Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 22 StGB oder in einer Anstalt für gefährliche Rückfallstäter nach § 23 StGB und zur Verhängung eines Tätigkeitsverbotes nach § 220b StGB
+----
+## 17. Hauptstück # Verfahren über privatrechtliche Ansprüche
 
-### § 435 StPO
+### § 365 StPO
 
-`§ 435 (1) StPO.`  
-Über die Anwendung der in den § 22, § 23 und § 220b StGB vorgesehenen vorbeugenden Maßnahmen ist in der Regel (§ 441) im Strafurteil zu entscheiden.
-
-`§ 435 (2) StPO.`  
-Die Anordnung der Unterbringung in einer der in diesen Bestimmungen genannten Anstalten oder ihr Unterbleiben sowie die Anordnung eines Tätigkeitsverbotes oder deren Unterbleiben bilden einen Teil des Ausspruches über die Strafe und können zugunsten und zum Nachteil des Verurteilten mit Nichtigkeitsbeschwerde und mit Berufung angefochten werden.
-
-### § 437 StPO
-
-`§ 437 StPO.`  
-Einen Antrag auf Unterbringung in einer der in den § 22 und § 23 StGB vorgesehenen Anstalten oder auf Anordnung eines Tätigkeitsverbotes hat die Staatsanwaltschaft in der Anklage zu stellen. Das Gericht kann jedoch auch ohne einen solchen Antrag die Unterbringung oder das Tätigkeitsverbot anordnen.
-
-### § 438 StPO
-
-`§ 438 StPO.`  
-Liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 22 StGB gegeben seien, und Haftgründe (§ 173 Abs. 2 und 6) vor, kann der Beschuldigte aber nicht ohne Schwierigkeiten in einer Justizanstalt angehalten werden, so ist mit Beschluss anzuordnen, dass die Untersuchungshaft durch vorläufige Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher zu vollziehen ist. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden.
-
-### § 439 StPO
-
-`§ 439 (1) StPO.`  
-Die Anordnung der in den § 22 und § 23 StGB vorgesehenen vorbeugenden Maßnahmen ist nichtig, wenn nicht während der ganzen Hauptverhandlung ein Verteidiger des Beschuldigten anwesend war. Die Anordnung eines Tätigkeitsverbotes (§ 220b StGB) ist nichtig, wenn deren Voraussetzungen in der Hauptverhandlung nicht erörtert wurden.
-
-`§ 439 (2) StPO.`  
-Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder in einer Anstalt für gefährliche Rückfallstäter darf bei sonstiger Nichtigkeit überdies nur nach Beiziehung zumindest eines Sachverständigen (§ 430 Abs. 1 Z 2) angeordnet werden.
-
-`§ 439 (3) StPO.`  
-Sieht das Gericht von der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher wegen der Höhe der ausgesprochenen Strafe ab (§ 22 Abs. 2 StGB), so hat es diesen Umstand in den Entscheidungsgründen auszusprechen.
-
-### § 440 StPO
-
-`§ 440 StPO.`  
-Hat der Beschuldigte einen gesetzlichen Vertreter, so ist in einem Verfahren, in dem hinreichende Gründe für die Annahme der Voraussetzungen des § 22 oder § 23 StGB vorliegen, § 434c sinngemäß anzuwenden.
-
-### § 441 StPO
-
-`§ 441 (1) StPO.`  
-Liegen hinreichende Gründe für die Annahme vor, dass die Voraussetzungen für die selbständige Anordnung der in den § 22, § 23 und § 220b StGB vorgesehenen vorbeugenden Maßnahmen gegeben seien (§ 65 Abs. 5 StGB), so hat die Staatsanwaltschaft einen Antrag auf Anordnung einer der in diesen Bestimmungen genannten vorbeugenden Maßnahmen zu stellen. Für diesen Antrag gelten die Bestimmungen über die Anklageschrift dem Sinne nach.
-
-`§ 441 (2) StPO.`  
-§ 439 Abs. 1 und 2 sowie § 440 gelten in diesem Fall sinngemäß.
-
-### § 442 StPO
-
-`§ 442 StPO.`  
-Liegt einer der im § 173 Abs. 2 genannten Haftgründe vor, so ist die vorläufige Anhaltung des Betroffenen in einer der im § 441 Abs. 1 genannten Anstalten anzuordnen. § 432 und § 433 gelten sinngemäß.
-
-## 3. Abschnitt # Verfahren beim Verfall, beim erweiterten Verfall und bei der Einziehung
-
-### § 443 StPO
-
-`§ 443 (1) StPO.`  
-Über den Verfall, den erweiterten Verfall, die Einziehung und andere vermögensrechtliche Anordnungen (Haftung für Geldstrafen, Verfalls- und Wertersatz) ist im Strafurteil zu entscheiden, soweit in diesem Abschnitt nichts anderes bestimmt wird.
-
-`§ 443 (2) StPO.`  
-Wenn die Ergebnisse des Strafverfahrens weder an sich noch nach Durchführung von Beweisaufnahmen, die die Entscheidung in der Schuld- und Straffrage nicht erheblich verzögern, ausreichen, um über die im Abs. 1 angeführten vermögensrechtlichen Anordnungen verläßlich urteilen zu können, kann ihr Ausspruch durch Beschluß einer gesonderten Entscheidung (§§ 445, 445a) vorbehalten bleiben, außer welchem Falle eine solche Anordnung wegen der betroffenen Vermögenswerte oder Gegenstände nicht mehr zulässig ist.
-
-`§ 443 (3) StPO.`  
-Die Entscheidung über vermögensrechtliche Anordnungen steht, außer im Fall des § 445a, dem Ausspruch über die Strafe gleich und kann zugunsten und zum Nachteil des Verurteilten oder des Haftungsbeteiligten (§§ 64, 444) mit Berufung angefochten werden.
-
-### § 444 StPO
-
-`§ 444 (1) StPO.`  
-Die Hauptverhandlung und die Urteilsverkündung können in Abwesenheit des Haftungsbeteiligten (§ 64) vorgenommen werden, wenn dieser ordnungsgemäß zur Hauptverhandlung geladen wurde (§ 221 Abs. 2).
-
-`§ 444 (2) StPO.`  
-Hat ein Haftungsbeteiligter sein Recht nicht vor Rechtskraft der Entscheidung über den Verfall, den erweiterten Verfall oder die Einziehung geltend gemacht, so kann er seine Ansprüche auf den Gegenstand oder Vermögenswert oder dessen Verkaufs- oder Verwertungserlös (§ 408) binnen dreißig Jahren nach der Entscheidung gegen den Bund im Zivilrechtsweg geltend machen.
-
-### § 445 StPO
-
-`§ 445 (1) StPO.`  
-Liegen hinreichende Gründe für die Annahme vor, daß die Voraussetzungen des Verfalls (§ 20 StGB), des erweiterten Verfalls (§ 20b StGB) oder der Einziehung (§ 26 StGB) gegeben seien, ohne daß darüber in einem Strafverfahren oder in einem auf Unterbringung in einer der in den §§ 21 bis 23 StGB genannten Anstalten gerichteten Verfahren entschieden werden kann, so hat der Ankläger einen selbständigen Antrag auf Erlassung einer solchen vermögensrechtlichen Anordnung zu stellen.
-
-`§ 445 (2) StPO.`  
-Über einen Antrag auf Verfall oder auf erweiterten Verfall hat das Gericht, welches für die Verhandlung und Urteilsfällung wegen jener Tat, die die Anordnung begründen soll, zuständig war oder wäre, mangels einer solchen Zuständigkeit aber das Landesgericht, in dessen Sprengel sich der Vermögenswert oder Gegenstand befindet, in einem selbständigen Verfahren nach öffentlicher mündlicher Verhandlung durch Urteil zu entscheiden. Das Landesgericht entscheidet durch Einzelrichter. Hat ein Schöffen- oder Geschworenengericht über die Tat geurteilt, die die Anordnung begründen soll, oder die Entscheidung vorbehalten (§ 443 Abs. 2), so ist dessen Vorsitzender als Einzelrichter zuständig.
-
-`§ 445 (2a) StPO.`  
-Die vorstehenden Absätze gelten sinngemäß auch für eine Anordnung der Konfiskation (§ 19a StGB), wenn das Verfahren wegen Straftaten, die mit dem Vorsatz der unrechtmäßigen Bereicherung oder der Erlangung eines Vorteils begangen wurden, wegen Krankheit oder Flucht nach § 197 abgebrochen wurde, jedoch auf Grund ausreichend geklärten Sachverhalts nahe liegt, dass im Fall einer Verurteilung eine Konfiskation (§ 19a StGB) ausgesprochen würde und der Angeklagte gemäß §§ 164 oder 165 zum Anklagevorwurf und zu den Voraussetzungen der Anordnung der Konfiskation vernommen wurde.
-
-`§ 445 (3) StPO.`  
-Über einen Antrag auf Einziehung hat das Bezirksgericht des Tatortes, ist dieser aber nicht bekannt oder im Ausland gelegen, das Bezirksgericht, in dessen Sprengel sich der Gegenstand befindet, in einem selbständigen Verfahren nach öffentlicher mündlicher Verhandlung in der Regel (§ 445a) durch Urteil zu entscheiden. Die Bestimmungen über die Hauptverhandlung im Verfahren vor den Bezirksgerichten sowie § 444 sind dem Sinne nach anzuwenden.
-
-`§ 445 (4) StPO.`  
-Das Urteil kann in sinngemäßer Anwendung der §§ 463 bis 468 (§ 489) zugunsten und zum Nachteil des Betroffenen mit Berufung angefochten werden; § 444 Abs. 1 letzter Satz gilt entsprechend.
-
-### § 445a StPO
-
-`§ 445a (1) StPO.`  
-Über einen Antrag auf Einziehung in einem selbständigen Verfahren kann das Bezirksgericht nach Anhörung des Anklägers und der Haftungsbeteiligten (§ 444) durch Beschluß entscheiden, wenn der Wert des von der Einziehung bedrohten Gegenstandes 1 000 Euro nicht übersteigt oder es sich um einen Gegenstand handelt, dessen Besitz allgemein verboten ist. Sofern der Aufenthaltsort des Haftungsbeteiligten im Ausland liegt oder ohne besonderen Verfahrensaufwand nicht feststellbar ist, kann von dessen Anhörung abgesehen werden.
-
-`§ 445a (2) StPO.`  
-In den Fällen, in denen das Verfahren durch die Staatsanwaltschaft nach den Bestimmungen des 10. oder 11. Hauptstücks, anderen auf sie verweisenden Vorschriften oder gemäß § 35 SMG beendet wird, hat die Staatsanwaltschaft nach Durchführung des in Abs. 1 vorgesehenen Verfahrens die Einziehung anzuordnen und das in § 408 Abs. 2 vorgesehene Verfahren durchzuführen, soweit nicht ein Haftungsbeteiligter die Entscheidung des Gerichts verlangt. § 444 Abs. 2 gilt sinngemäß.
-
-### § 446 StPO
-
-`§ 446 StPO.`  
-Ergeben sich die Voraussetzungen für das selbständige Verfahren erst in der Hauptverhandlung, so kann die Entscheidung auch in einem Urteil ergehen, in dem der Angeklagte freigesprochen oder der Antrag auf Anstaltsunterbringung abgewiesen wird.
-
-## 4. Abschnitt # Verfahren bei der Ausschließung vom Wahlrecht
-
-### § 446a StPO
-
-`§ 446a (1) StPO.`  
-Über die Ausschließung vom Wahlrecht (§ 22 der Nationalrats-Wahlordnung 1992 – NRWO, BGBl. Nr. 471 und § 3 des Europa-Wählerevidenzgesetzes – EuWEG, BGBl. Nr. 118/1996) ist im Strafurteil zu entscheiden. Die Entscheidung steht dem Ausspruch über die Strafe gleich und kann zugunsten und zum Nachteil des Verurteilten mit Berufung angefochten werden.
-
-`§ 446a (2) StPO.`  
-Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs. 1 gefällt worden wäre, so ist nach § 410 vorzugehen.
-
-## 22. Hauptstück # Verfahren vor dem Bezirksgericht
-
-### § 447 StPO
-
-`§ 447 StPO.`  
-Für das Hauptverfahren vor dem Bezirksgericht gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird.
-
-## 1. Abschnitt # Hauptverfahren
-
-### § 450 StPO
-
-`§ 450 StPO.`  
-Ist das Bezirksgericht der Ansicht, dass das Landesgericht zuständig sei, so hat es vor Anordnung der Hauptverhandlung seine sachliche Unzuständigkeit mit Beschluss auszusprechen. Sobald die Entscheidung rechtswirksam geworden ist, hat der Ankläger die für die Fortführung des Verfahrens erforderlichen Anträge zu stellen.
-
-### § 451 StPO
-
-`§ 451 (1) StPO.`  
-Der Strafantrag (§ 210 Abs. 1) hat die im § 211 Abs. 1 angeführten Angaben zu enthalten. Im Antrag sind ferner die Beweismittel anzugeben, deren sich der Ankläger bedienen will. Der Antrag ist in so vielen Ausfertigungen zu überreichen, daß jedem der Angeklagten eine Ausfertigung zugestellt und eine bei den Akten zurückbehalten werden kann; er ist dem Angeklagten unverzüglich zuzustellen.
-
-`§ 451 (2) StPO.`  
-Ist der Richter der Überzeugung, daß die dem Antrag zugrunde liegende Tat vom Gesetz nicht mit Strafe bedroht ist oder daß Umstände vorliegen, durch die die Strafbarkeit der Tat aufgehoben oder die Verfolgung wegen der Tat ausgeschlossen ist, so hat er das Verfahren mit Beschluß einzustellen.
-
-`§ 451 (3) StPO.`  
-Wird dem Richter zugleich der Angeklagte vorgeführt und gesteht er die ihm zur Last gelegte Tat oder erscheinen der Ankläger und der Angeklagte zugleich vor dem Richter, und sind alle Beweismittel für die Anklage und Verteidigung zur Hand, so kann der Richter mit Zustimmung des Angeklagten sogleich die Verhandlung vornehmen (§ 456) und das Urteil fällen.
-
-`§ 451 (4) StPO.`  
+`§ 365 StPO.`  
 *(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*
+----
 
-### § 455 StPO
+----
+### § 366 StPO
 
-`§ 455 (1) StPO.`  
-§ 221 ist mit der Maßgabe anzuwenden, dass an die Stelle einer Frist von acht Tagen eine solche von drei Tagen tritt, es sei denn, dass der Angeklagte auf eine Vorbereitungsfrist verzichtet.
+`§ 366 (1) StPO.`  
+Wird der Angeklagte freigesprochen, so ist der Privatbeteiligte mit seinen Ansprüchen auf den Zivilrechtsweg zu verweisen.
 
-`§ 455 (2) StPO.`  
-Ist der Angeklagte nicht verhaftet, so kann er sich, wenn er nicht persönlich erscheinen will, bei der Verhandlung durch einen Verteidiger als Machthaber vertreten lassen. Dem Gericht steht es jedoch auch in diesem Fall zu, den Angeklagten unter Androhung der vorgesehenen Zwangsfolgen zum persönlichen Erscheinen aufzufordern.
+`§ 366 (2) StPO.`  
+Wird der Angeklagte verurteilt, so ist im Urteil (§§ 260 Abs. 1 Z 5 und 270 Abs. 2 Z 4) über die privatrechtlichen Ansprüche des Privatbeteiligten zu entscheiden (§§ 395, 407 und 409 ZPO). Bieten die Ergebnisse des Strafverfahrens keine ausreichende Grundlage für eine auch nur teilweise Beurteilung des geltend gemachten privatrechtlichen Anspruchs (§ 69 Abs. 1), so ist der Privatbeteiligte auch in diesem Fall auf den Zivilrechtsweg zu verweisen, es sei denn, dass die erforderlichen Entscheidungsgrundlagen durch eine die Entscheidung in der Schuld- und Straffrage nicht erheblich verzögernde Beweisaufnahme ermittelt werden können.
 
-`§ 455 (3) StPO.`  
-Lässt sich der Angeklagte durch einen Machthaber vertreten, so kommt diesem in der Hauptverhandlung die Stellung des Angeklagten zu.
+`§ 366 (3) StPO.`  
+Wird der Privatbeteiligte trotz Verurteilung auf den Zivilrechtsweg verwiesen, so steht diesem, seinem Nachlass und seinen Erben die Berufung aus dem Grund zu, dass über den privatrechtlichen Anspruch bereits gemäß Abs. 2 hätte entschieden werden können.
+----
 
-### § 456 StPO
+----
+### § 367 StPO
 
-`§ 456 StPO.`  
-In Privatanklagesachen ist die Öffentlichkeit auch auszuschließen, wenn der Ankläger einem darauf gerichteten Antrag des Angeklagten nicht entgegen tritt.
+`§ 367 (1) StPO.`  
+Ein sichergestellter oder beschlagnahmter Gegenstand oder Vermögenswert des Opfers ist nach Rechtskraft des Urteils an das Opfer zurückzustellen.
 
-### § 457 StPO
+`§ 367 (2) StPO.`  
+Vor Rechtskraft des Urteils kann ein sichergestellter oder beschlagnahmter Gegenstand oder Vermögenswert an das Opfer von Amts wegen oder auf Antrag des Opfers, soweit möglich, nach Anhörung des Beschuldigten und der übrigen Beteiligten zurückgestellt werden, es sei denn,  
+`§ 367 (2) Z 1 StPO.`
+der Gegenstand oder Vermögenswert ist im weiteren Verfahren als Beweismittel erforderlich, oder  
+`§ 367 (2) Z 2 StPO.`
+es liegen sonstige Umstände (§ 368) vor, die der Ausfolgung an das Opfer entgegenstehen.  
+Die Entscheidung steht im Ermittlungsverfahren der Staatsanwaltschaft, in der Hauptverhandlung dem erkennenden Gericht und sonst dem Vorsitzenden zu.
+----
 
-`§ 457 StPO.`  
-Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr.
+----
+### § 368 StPO
 
-### § 458 StPO
+`§ 368 StPO.`  
+Kann das Opfer sein Recht an dem Gegenstand oder Vermögenswert nicht nachweisen, liegen bestimmte Anhaltspunkte für dingliche Rechte Dritter daran vor oder ist das Recht daran zwischen mehreren Opfern strittig (§ 367 Abs. 2 Z 2), so ist der Antrag nach § 367 Abs. 2 abzuweisen, die Sicherstellung oder Beschlagnahme aufzuheben und der Gegenstand oder Vermögenswert nach § 1425 ABGB bei dem für den Sitz des Gerichts zuständigen Bezirksgericht zu hinterlegen. Das Gericht hat in diesen Fällen das Opfer mit seinem Begehren auf den Zivilrechtsweg zu verweisen.
+----
 
-`§ 458 StPO.`  
-Der Richter ist berechtigt, nach Schluss der Verhandlung die Fällung des Urteils bis auf den folgenden Tag auszusetzen. Im Übrigen gelten jedoch auch für die Verhandlung vor dem Bezirksgericht die Bestimmungen des 14. Hauptstückes.
+----
+### § 369 StPO
 
-## 2. Abschnitt
+`§ 369 (1) StPO.`  
+Wenn der dem Opfer entzogene Gegenstand oder Vermögenswert nicht mehr zurückgestellt werden kann, sowie in allen Fällen, in denen es sich nicht um die Rückstellung eines entzogenen Gegenstands oder Vermögenswerts, sondern um den Ersatz eines erlittenen Schadens oder entgangenen Gewinnes oder um Tilgung einer verursachten Beleidigung handelt (§ 1323 ABGB), ist im Strafurteil die Schadloshaltung oder Genugtuung zuzuerkennen, wenn sowohl ihr Betrag als auch die Person, der sie gebührt, mit Zuverlässigkeit bestimmt werden kann.
 
-### § 463 StPO # Rechtsmittel gegen Urteile der Bezirksgerichte
+`§ 369 (2) StPO.`  
+Liegen hinreichende Gründe für die Annahme vor, dass das Opfer seinen Schaden zu hoch angebe, so kann ihn das Gericht nach Erwägung aller Umstände, allenfalls nach vorgenommener Schätzung durch Sachverständige, ermäßigen.
+----
 
-`§ 463 StPO.`  
-Gegen Urteile der Bezirksgerichte, die gegen einen Anwesenden ergangen sind, ist nur das Rechtsmittel der Berufung zulässig, und zwar an das Landesgericht, in dessen Sprengel das Bezirksgericht liegt.
+----
+### § 370 StPO
 
-### § 464 StPO
+`§ 370 StPO.`  
+*(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 106)*
+----
 
-`§ 464 StPO.`  
-Die Berufung kann ergriffen werden:  
-`§ 464 Z 1 StPO.`
-wegen vorliegender Nichtigkeitsgründe;  
-`§ 464 Z 2 StPO.`
-wegen des Ausspruches über die Schuld und die Strafe, wegen des Strafausspruches jedoch nur unter den im § 283 bezeichneten Voraussetzungen;  
-`§ 464 Z 3 StPO.`
-wegen des Ausspruches über die privatrechtlichen Ansprüche.
+----
+### § 371 StPO
 
-### § 465 StPO
+`§ 371 (1) StPO.`  
+Ergibt sich aus der Schuld des Angeklagten die gänzliche oder teilweise Ungültigkeit eines mit ihm eingegangenen Rechtsgeschäftes oder eines Rechtsverhältnisses, so ist im Strafurteil auch hierüber und über die daraus entspringenden Rechtsfolgen zu erkennen.
 
-`§ 465 (1) StPO.`  
-Zugunsten des Angeklagten kann die Berufung sowohl von ihm selbst als auch von seinem gesetzlichen Vertreter ergriffen werden. Die Staatsanwaltschaft kann stets auch gegen den Willen des Angeklagten zu dessen Gunsten die Berufung ergreifen.
+`§ 371 (2) StPO.`  
+Der rechtswirksame Ausspruch, daß eine Ehe nichtig sei, bleibt jedoch stets dem Zivilgerichte vorbehalten. Das Strafgericht kann die Nichtigkeit einer Ehe nur als Vorfrage beurteilen (§§ 15 und 69 Abs. 1).
+----
 
-`§ 465 (2) StPO.`  
-Erben des Angeklagten, die nicht in einem der erwähnten Verhältnisse zum Angeklagten standen, können die Berufung nur wegen der im Urteil allenfalls enthaltenen Entscheidung über privatrechtliche Ansprüche ergreifen oder fortsetzen.
+----
+### § 372 StPO
 
-`§ 465 (3) StPO.`  
-Zum Nachteile des Angeklagten kann die Berufung nur vom Ankläger und vom Privatbeteiligten, von diesem aber nur wegen Nichtigkeit unter den in § 282 Abs. 2 geregelten Voraussetzungen und wegen seiner privatrechtlichen Ansprüche ergriffen werden.
+`§ 372 StPO.`  
+Dem Privatbeteiligten steht es frei, den Zivilrechtsweg zu betreten, wenn er sich mit der vom Strafgericht ihm zuerkannten Entschädigung nicht begnügen will.
+----
 
-### § 466 StPO
+----
+### § 373 StPO
 
-`§ 466 (1) StPO.`  
-Die Berufung ist binnen drei Tagen nach Verkündung des Urteiles beim Bezirksgericht anzumelden. § 57 Abs. 2 gilt auch für einen Verzicht gegen einen gemeinsam mit dem Urteil verkündeten Beschluss nach den §§ 494 und 494a.
+`§ 373 StPO.`  
+Ist das über die privatrechtlichen Ansprüche ergangene strafgerichtliche Erkenntnis in Rechtskraft erwachsen, so ist jeder Beteiligte berechtigt, vom Gerichte, das in erster Instanz erkannt hat, die Anmerkung der Rechtskräftigkeit des Erkenntnisses auf dem Urteile zu begehren; ein solches Erkenntnis hat dann die Wirkung, daß um seine Exekution unmittelbar beim Zivilgericht angesucht werden kann.
+----
 
-`§ 466 (2) StPO.`  
-War der Angeklagte bei der Verkündung des Urteiles nicht anwesend, so ist die Berufung binnen drei Tagen anzumelden, nachdem er vom Urteile verständigt wurde.
+----
+### § 373a StPO
 
-`§ 466 (3) StPO.`  
-Für den gesetzlichen Vertreter des Angeklagten läuft die Frist zur Anmeldung der Berufung von demselben Tage, von dem an sie für den Angeklagten beginnt.
+`§ 373a (1) StPO.`  
+Ist dem Privatbeteiligten rechtskräftig eine Entschädigung wegen Tötung, Körperverletzung oder Gesundheitsschädigung oder wegen einer Schädigung am Vermögen zuerkannt worden, so kann der Bund dem Privatbeteiligten oder seinen Erben nach Maßgabe der folgenden Bestimmungen einen Vorschuß auf die Entschädigungssumme gewähren. Der Zuerkennung einer Entschädigung im Strafurteil steht die Erlangung eines anderen im Inland vollstreckbaren Exekutionstitels gegen den Verurteilten wegen der den Gegenstand der Verurteilung bildenden strafbaren Handlung durch das Opfer gleich.
 
-`§ 466 (4) StPO.`  
-Die Anmeldung der Berufung hat aufschiebende Wirkung.
+`§ 373a (2) StPO.`  
+Ein Vorschuß kann nur auf Antrag des Anspruchsberechtigten und nur insoweit gewährt werden, als es offenbar ist, daß die alsbaldige Zahlung der Entschädigungssumme oder eines entsprechenden Teiles davon ausschließlich oder überwiegend dadurch vereitelt wird, daß an dem Verurteilten die im selben Verfahren ausgesprochene Freiheits- oder Geldstrafe vollzogen wird.
 
-`§ 466 (5) StPO.`  
-Die Entlassung eines freigesprochenen Angeklagten aus der Haft darf nur wegen einer Berufung der Staatsanwaltschaft, und zwar bloß dann aufgeschoben werden, wenn diese sogleich bei Verkündung des Urteiles angemeldet wird und nach den Umständen die Annahme begründet ist, daß sich der Angeklagte dem Verfahren durch die Flucht entziehen werde. Gegen die Entlassung aus der Haft ist kein Rechtsmittel zulässig.
+`§ 373a (3) StPO.`  
+Eine Vereitelung der alsbaldigen Zahlung einer Entschädigung im Sinne des Abs. 2 ist ohne weiteres anzunehmen, wenn der Verurteilte zwar die über ihn verhängte Geldstrafe, sei es auch in Teilbeträgen, zahlt oder diese Geldstrafe sonst von ihm eingebracht wird, Zahlungen an das Opfer oder seine Erben aber nicht erfolgen und auch im Wege einer Zwangsvollstreckung nicht erwartet werden können.
 
-`§ 466 (6) StPO.`  
-Wenn der zu einer Freiheitsstrafe Verurteilte sich weder durch den Ausspruch über die Schuld noch durch den über die Strafart, sondern nur durch das Strafmaß beschwert erachtet, so kann er die Strafe einstweilen antreten. Eben dies gilt auch dann, wenn der Verurteilte keine Berufung ergriffen hat und der Ankläger seine Berufung nur gegen das Strafmaß richtet.
+`§ 373a (4) StPO.`  
+Einzelrechtsnachfolgern, auf die der Entschädigungsanspruch kraft Gesetzes übergegangen ist, kann ein Vorschuß nicht gewährt werden. § 8 Abs. 1 des Bundesgesetzes über die Gewährung von Hilfeleistungen an Opfer von Verbrechen, BGBl. Nr. 288/1972, gilt dem Sinne nach.
 
-`§ 466 (7) StPO.`  
-Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden.
+`§ 373a (5) StPO.`  
+Die Gewährung eines Vorschusses ist ausgeschlossen, wenn dem Antragsteller mit Rücksicht auf seine Einkommens- und Vermögensverhältnisse, auf die ihm von Gesetzes wegen obliegenden Unterhaltsverpflichtungen und auf seine sonstigen persönlichen Verhältnisse offenbar zugemutet werden kann, die Vereitelung hinzunehmen. Ein Vorschuß kann ferner nicht gewährt werden, soweit der Antragsteller gegen einen Dritten Anspruch auf entsprechende Leistungen hat und die Verfolgung dieses Anspruches zumutbar und nicht offenbar aussichtslos ist. Der Vorschuß darf jenen Entschädigungsbetrag nicht übersteigen, der vom Verurteilten ohne den Strafvollzug innerhalb eines Jahres hätte geleistet werden können (Abs. 2).
 
-### § 467 StPO
+`§ 373a (6) StPO.`  
+Die Gewährung eines Vorschusses ist auch ausgeschlossen,  
+`§ 373a (6) Z 1 StPO.`
+soweit ein Anspruch nach dem Bundesgesetz über die Gewährung von Hilfeleistungen an Opfer von Verbrechen gegeben ist;  
+`§ 373a (6) Z 2 StPO.`
+soweit der Anspruch sich auf Leistungen erstreckt, die im Falle des Bestehens von Ansprüchen nach dem in der Z. 1 genannten Bundesgesetz nicht zu erbringen wären.
 
-`§ 467 (1) StPO.`  
-Der Beschwerdeführer hat das Recht, binnen vier Wochen nach der Anmeldung der Berufung, wenn ihm eine Urteilsabschrift aber erst nach der Anmeldung des Rechtsmittels zugestellt wurde, binnen vier Wochen nach der Zustellung eine Ausführung der Gründe seiner Berufung beim Bezirksgerichte zu überreichen und allenfalls neue Tatsachen oder Beweismittel unter genauer Angabe aller zur Beurteilung ihrer Erheblichkeit dienenden Umstände anzuzeigen.
+`§ 373a (7) StPO.`  
+Vorschüsse auf Ansprüche wegen Schädigung am Vermögen sind nur bis zum Ausmaß der eigentlichen Schadloshaltung (§ 1323 des Allgemeinen bürgerlichen Gesetzbuches) zu gewähren.
 
-`§ 467 (2) StPO.`  
-Er hat entweder bei der Anmeldung der Berufung oder in der Berufungsschrift ausdrücklich zu erklären, durch welchen Ausspruch (§ 464) er sich beschwert finde und welche Nichtigkeitsgründe er geltend machen wolle, widrigens auf die Berufung oder auf Nichtigkeitsgründe vom Landesgericht keine Rücksicht zu nehmen ist. Doch steht es der Berücksichtigung eines deutlich und bestimmt bezeichneten Beschwerdepunktes oder Nichtigkeitsgrundes nicht entgegen, daß sich der Beschwerdeführer in der gesetzlichen Benennung vergriffen hat.
+`§ 373a (8) StPO.`  
+Über Anträge auf Gewährung von Vorschüssen entscheidet der Vorsitzende durch Beschluß. Der Beschluß kann anordnen, daß der Vorschuß innerhalb eines Jahres in Teilbeträgen auszuzahlen ist. Der Beschluß ist dem Antragsteller und dem Verurteilten zuzustellen. Dem Staatsanwalt und dem Antragsteller steht dagegen die binnen vierzehn Tagen nach Bekanntmachung einzubringende Beschwerde an das übergeordnete Gericht zu. Sobald der Beschluß über die Gewährung eines Vorschusses rechtskräftig ist, hat der Vorsitzende die Einbringungsstelle beim Oberlandesgericht Wien um die Auszahlung, allenfalls nach Maßgabe der hierüber getroffenen Anordnung, zu ersuchen.
 
-`§ 467 (3) StPO.`  
-Die zugunsten des Angeklagten ergriffene Berufung wegen Nichtigkeit ist auch als Berufung gegen die Aussprüche über die Schuld und die Strafe zu betrachten, die Berufung wegen des Ausspruches über die Schuld auch als Berufung gegen den Strafausspruch.
+`§ 373a (9) StPO.`  
+Soweit der Bund einen Vorschuß geleistet hat, gehen die Ansprüche des Antragstellers von Gesetzes wegen auf den Bund über. Für die Wirksamkeit dieses Forderungsüberganges gegenüber dem Verurteilten gelten der letzte Satz des § 1395 und der erste Satz des § 1396 des Allgemeinen bürgerlichen Gesetzbuches dem Sinne nach. Sobald die Ansprüche auf den Bund übergegangen sind, hat der Verurteilte Zahlungen bis zur Höhe des gewährten Vorschusses an die Einbringungsstelle beim Oberlandesgericht Wien zu erbringen.
 
-`§ 467 (4) StPO.`  
-Geschieht die Anmeldung der Berufung mündlich, so hat der Richter, der das Protokoll hierüber aufnimmt, den Beschwerdeführer zur genauen Angabe der Beschwerdepunkte besonders aufzufordern und über die Rechtsfolgen der Unterlassung dieser Angabe zu belehren.
+`§ 373a (10) StPO.`  
+Soweit der Verurteilte keine Zahlungen (Abs. 9) leistet, hat die Einbringungsstelle beim Oberlandesgericht Wien die Forderung zwangsweise hereinzubringen. Soweit eine sofortige zwangsweise Hereinbringung mit Rücksicht auf den Vollzug der Strafe offenbar aussichtslos wäre, kann sie bis nach dessen Beendigung aufgeschoben werden.
+----
 
-`§ 467 (5) StPO.`  
-Die Berufung oder Berufungsausführung ist in zweifacher Ausfertigung vorzulegen oder aufzunehmen. Eine Ausfertigung ist dem Gegner mit dem Bedeuten mitzuteilen, daß er binnen vier Wochen seine Gegenausführung überreichen könne. Die Gegenausführung ist dem Beschwerdeführer zuzustellen; danach sind alle Akten dem Landesgericht – gegebenenfalls samt einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs. 5 erster Satz oder 62a Abs. 5 erster Satz VfGG – vorzulegen.
+----
+### § 373b StPO
 
-### § 468 StPO
+`§ 373b StPO.`  
+Hat das Opfer im Fall eines Verfalls nach § 20 StGB oder eines erweiterten Verfalls nach § 20b StGB einen vollstreckbaren Exekutionstitel für seine Entschädigung erwirkt und wurde diese noch nicht geleistet, so hat das Opfer unbeschadet des § 373a das Recht zu verlangen, dass seine Ansprüche aus dem vom Bund vereinnahmten Vermögenswert befriedigt werden.
+----
 
-`§ 468 (1) StPO.`  
-Wegen Nichtigkeit kann die Berufung gegen Urteile der Bezirksgerichte, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur aus einem der folgenden Gründe ergriffen werden:  
-`§ 468 (1) Z 1 StPO.`
-wenn das Bezirksgericht örtlich unzuständig oder nicht gehörig besetzt war oder wenn ein gesetzlich ausgeschlossener Richter (§§ 43 und 46) das Urteil gefällt hat;  
-`§ 468 (1) Z 2 StPO.`
-wenn das Bezirksgericht nicht zuständig war, weil die Tat, über die es geurteilt hat, in die Zuständigkeit des Landesgerichts *(Anm. 1)* fällt;  
-`§ 468 (1) Z 2a StPO.`
-wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren in der Hauptverhandlung verlesen wurde;  
-`§ 468 (1) Z 3 StPO.`
-wenn eine Vorschrift verletzt oder vernachlässigt worden ist, deren Beobachtung das Gesetz bei sonstiger Nichtigkeit vorschreibt (§§ 115j Abs. 1, 126 Abs. 4, 140 Abs. 1, 144 Abs. 1, 155 Abs. 1, 157 Abs. 2 und 159 Abs. 3, 221 Abs. 2 (455 Abs. 1), 228, 250, 252, 260, 271, 427 sowie 439 Abs. 1 und 2), oder wenn einer der im § 281 Abs. 1 Z. 4 und 5 erwähnten Nichtigkeitsgründe vorliegt;  
-`§ 468 (1) Z 4 StPO.`
-aus den im § 281 Abs. 1 Z. 6 bis 11 angegebenen Gründen.
+----
+### § 374 StPO
 
-`§ 468 (2) StPO.`  
-Die unter Abs. 1 Z. 1 und 3 erwähnten Nichtigkeitsgründe können nur unter den in den §§ 281 und 282 Abs. 2 bezeichneten Bedingungen geltend gemacht werden; doch wird auch der Ankläger der Geltendmachung eines Nichtigkeitsgrundes deshalb nicht verlustig, weil er hinsichtlich eines Formgebrechens die Entscheidung des Richters nicht begehrt und sich die Beschwerde nicht sofort nach Verweigerung oder Verkündung der Entscheidung vorbehalten hat.  
-*(________*  
-*Anm. 1: Art. I Z 198 lit. b der Novelle BGBl. I Nr. 93/2007 lautet: „Im Abs. 1 Z 2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt.“. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“.)*
+`§ 374 StPO.`  
+Um Änderung des rechtskräftigen strafgerichtlichen Ausspruches über privatrechtliche Ansprüche wegen neu aufgefundener Beweismittel sowie um Aufhebung seiner Vollstreckung wegen eines nachgefolgten Tatumstandes kann außer dem Fall einer aus anderen Gründen stattfindenden Wiederaufnahme des Strafverfahrens vom Verurteilten und dessen Rechtsnachfolgern nur vor dem Zivilrichter angesucht werden.
+----
 
+----
+### § 375 StPO
 
-### § 469 StPO
+`§ 375 (1) StPO.`  
+Werden bei einem Beschuldigten nach allem Anschein fremde Vermögenswerte aufgefunden, deren Eigentümer er nicht angeben kann oder will, so sind sie zu beschlagnahmen (§ 115 Abs. 1 Z 2) und in einem Edikt (§ 376) so zu beschreiben, dass der Eigentümer den Vermögenswert zwar als den seinen erkennen kann, jedoch der Beweis des Eigentumsrechts der Bezeichnung wesentlicher Unterscheidungsmerkmale vorbehalten wird.
 
-`§ 469 StPO.`  
-Das Landesgericht berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder die Staatsanwaltschaft einen der im § 470 angeführten Beschlüsse beantragt.
+`§ 375 (2) StPO.`  
+Für das Verfahren auf Grund von erhobenen Ansprüchen gelten die Bestimmungen der §§ 367 bis 369.
+----
 
-### § 470 StPO
+----
+### § 376 StPO
 
-`§ 470 StPO.`  
-Bei der nichtöffentlichen Beratung kann das Landesgericht:  
-`§ 470 Z 1 StPO.`
-die Berufung als unzulässig zurückweisen, wenn sie zu spät angemeldet oder von einer Person ergriffen worden ist, der das Berufungsrecht überhaupt nicht oder nicht in der Richtung zusteht, in der es in Anspruch genommen wird, oder die darauf verzichtet hat; ferner, wenn der Berufungswerber bei der Anmeldung der Berufung oder in ihrer Ausführung die Punkte des Erkenntnisses, durch die er sich beschwert findet, oder die Nichtigkeitsgründe, derentwegen allein die Berufung ergriffen worden ist, nicht deutlich und bestimmt bezeichnet hat, in welchen Fällen es gegebenenfalls diesen Beschluss dem Verfassungsgerichtshof zu übermitteln hat;  
-`§ 470 Z 2 StPO.`
-beschließen, Aufklärungen über behauptete Formverletzungen einzuholen, oder seine eigene Unzuständigkeit aussprechen und die Strafsache an das zuständige Landesgericht abtreten;  
-`§ 470 Z 3 StPO.`
-wenn schon vor der öffentlichen Verhandlung über die Berufung feststeht, daß das Urteil aufzuheben und die Verhandlung in erster Instanz zu wiederholen oder nach dem 11. Hauptstück oder § 37 SMG vorzugehen ist, der Berufung stattgeben, das Urteil, soweit es angefochten wird, aufheben und die Sache an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Gerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht zurückweisen.
+`§ 376 (1) StPO.`  
+Eine solche Beschreibung ist durch Aufnahme in die Ediktsdatei öffentlich bekannt zu machen (§ 89j Abs. 1 GOG). In diesem Edikt ist der Eigentümer aufzufordern, sich binnen eines Jahres ab Bekanntmachung zu melden und sein Recht nachzuweisen.
 
-### § 471 StPO
+`§ 376 (2) StPO.`  
+Die Auffindung von Gegenständen, derentwegen eine unverzügliche abgesonderte Bekanntmachung nicht notwendig erscheint, kann von Zeit zu Zeit in gemeinsamen Edikten bekanntgemacht werden.
+----
 
-`§ 471 StPO.`  
-Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhandlung sowie für die Entscheidung über die Berufung gelten §§ 233 bis 237, 286 Abs. 1 und 1a (Anm. 1), 287, 288 Abs. 2 Z 3 erster Satz, 289, 290, 293 Abs. 4, 294, 295 sowie 296a sinngemäß, soweit im Folgenden nicht anderes bestimmt wird.  
-*(___________*  
-*Anm. 1: Art. 1 Z 75 der Novelle BGBl. I Nr. 157/2024 lautet: „In § 471 wird das Zitat „§ 286 Abs. 1 und 1a“ durch das Zitat „§ 286 Abs. 1 und 2 zweiter Satz“ ersetzt“.“. Die Anweisung konnte nicht durchgeführt werden.)*
+----
+### § 377 StPO
 
-### § 473 StPO
+`§ 377 StPO.`  
+Unterliegt der fremde Gegenstand oder Vermögenswert einem raschen Verderben, einer erheblichen Wertminderung oder Wertschwankung oder lässt er sich nur mit unverhältnismäßigen Kosten bis zum Ablauf der Ediktalfrist des § 376 Abs. 1 aufbewahren, so ist er vom Gericht bereits vor diesem Zeitpunkt zu verwerten. Die Verwertung hat nach den Bestimmungen der Exekutionsordnung zu erfolgen. Die Verwertung hat durch öffentliche Versteigerung (§ 274 EO) oder bei sinngemäßem Vorliegen der in § 280 oder § 326 EO bezeichneten Voraussetzungen auf die dort vorgesehene Weise zu erfolgen. In den Fällen des § 268 EO ist auch ein Freihandverkauf zulässig. Der Kaufpreis ist beim Strafgericht zu erlegen, zugleich ist eine genaue Beschreibung jedes verkauften Gegenstands oder Vermögenswerts und der erzielte Erlös auf die in § 376 beschriebene Weise zu veröffentlichen.
+----
 
-`§ 473 (1) StPO.`  
-Für die Vernehmung des Angeklagten, von Zeugen und Sachverständigen sind die für die Hauptverhandlung vor dem Landesgericht als Schöffengericht geltenden Bestimmungen anzuwenden. Das Protokoll der Hauptverhandlung kann ebenso verlesen werden wie das Urteil samt den Entscheidungsgründen.
+----
+### § 378 StPO
 
-`§ 473 (2) StPO.`  
-Zeugen und Sachverständige, die bereits in der Hauptverhandlung vor dem Bezirksgerichte vernommen worden sind, sind nochmals abzuhören, wenn das Landesgericht gegen die Richtigkeit der auf ihre Aussagen gegründeten, im Urteil erster Instanz enthaltenen Feststellungen Bedenken hegt oder die Vernehmung neuer Zeugen oder Sachverständiger über dieselben Tatsachen notwendig findet. Außer diesem Falle hat das Landesgericht die in erster Instanz aufgenommenen Protokolle seiner Entscheidung zugrunde zu legen.
+`§ 378 StPO.`  
+Wenn binnen der Ediktalfrist niemand ein Recht auf die beschriebenen Gegenstände dartut, so sind sie, wenn sie aber der Dringlichkeit wegen verkauft wurden, so ist ihr Erlös dem Beschuldigten auf sein Verlangen auszufolgen, sofern nicht durch einen Beschluß des zur Entscheidung in erster Instanz berufenen Gerichtes ausgesprochen ist, daß die Rechtmäßigkeit des Besitzes des Beschuldigten nicht glaubwürdig sei.
+----
 
-`§ 473 (3) StPO.`  
-Sodann wird der, der die Berufung einlegte, zu ihrer Begründung und sodann der Gegner zur Erwiderung aufgefordert.
+----
+### § 379 StPO
 
-`§ 473 (4) StPO.`  
-Dem Angeklagten oder seinem Verteidiger gebührt jedenfalls das Recht der letzten Äußerung.
+`§ 379 StPO.`  
+Gegenstände und Vermögenswerte, die dem Beschuldigten nicht ausgefolgt werden, sind auf die im § 377 angeordnete Weise zu veräußern. Der Kaufpreis ist an die Bundeskasse abzugeben. Dem Berechtigten steht jedoch frei, seine Ansprüche auf den Kaufpreis gegen den Bund binnen dreißig Jahren vom Tage der dritten Einschaltung des Ediktes im Zivilrechtswege geltend zu machen.
+----
 
-`§ 473 (5) StPO.`  
-Hierauf zieht sich das Landesgericht zur Beratung und Beschlußfassung zurück.
-
-### § 474 StPO
-
-`§ 474 StPO.`  
-Nach Maßgabe der folgenden Bestimmungen erkennt das Landesgericht in der Sache selbst nach den für das Landesgericht als Schöffengericht geltenden Bestimmungen, es sei denn, dass die Berufung als unzulässig oder unbegründet zurückgewiesen wird oder sich das angerufene Landesgericht für unzuständig erklärt.
-
-### § 475 StPO
-
-`§ 475 (1) StPO.`  
-Wird das Urteil des Bezirksgerichtes wegen eines der im § 468 Abs. 1 unter Z. 1 und 3 angeführten Nichtigkeitsgründe aufgehoben, so verweist das Landesgericht die Sache zu neuer Verhandlung an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Bezirksgerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht.
-
-`§ 475 (2) StPO.`  
-Wird das Urteil des Bezirksgerichtes wegen des im § 468 Abs. 1 unter Z. 2 angeführten Nichtigkeitsgrundes aufgehoben, so ist die Sache nicht an das zuständige Gericht zu verweisen. Für das weitere Verfahren gilt § 263 Abs. 4 sinngemäß.
-
-`§ 475 (3) StPO.`  
-Hat das Bezirksgericht bezüglich einer Tatsache, auf die sich die Anklage bezieht, mit Unrecht seine Nichtzuständigkeit ausgesprochen oder die Anklage nicht vollständig erledigt (§ 281 Abs. 1 Z. 6 und 7), so trägt ihm das Landesgericht auf, sich der Verhandlung und Urteilsfällung zu unterziehen, die sich in letztem Fall auf die unerledigt gebliebenen Anklagepunkte zu beschränken hat.
-
-`§ 475 (4) StPO.`  
-Hat das Bezirksgericht das Vorliegen der Voraussetzungen für eine Einstellung des Strafverfahrens nach dem 11. Hauptstück (§ 199) oder § 37 SMG zu Unrecht nicht angenommen, so verweist das Landesgericht die Sache an dasselbe oder an ein anderes Bezirksgericht mit dem Auftrag, nach den entsprechenden Bestimmungen vorzugehen.
-
-### § 476 StPO
-
-`§ 476 StPO.`  
-In den im § 475 Abs. 1 und 3 erwähnten Fällen steht es jedoch der Berufungsbehörde frei, sofort oder in einer späteren Sitzung, nötigenfalls unter Wiederholung oder Ergänzung der in erster Instanz gepflogenen Verhandlung und unter Verbesserung der mangelhaft befundenen Prozeßhandlung, in der Sache selbst zu erkennen.
-
-### § 478 StPO
-
-`§ 478 (1) StPO.`  
-Gegen ein Urteil des Bezirksgerichtes, das gemäß § 427 in Abwesenheit des Angeklagten verkündet wurde, kann dieser binnen vierzehn Tagen von der Zustellung des Urteiles beim erkennenden Bezirksgericht Einspruch erheben, wenn ihm die Vorladung nicht gehörig zugestellt worden ist oder er nachweisen kann, daß er durch ein unabwendbares Hindernis abgehalten worden sei.
-
-`§ 478 (2) StPO.`  
-Über diesen Einspruch hat das Bezirksgericht nach vorläufiger Vernehmung des Anklägers zu erkennen. Verwirft es den Einspruch, so steht dem Angeklagten das Rechtsmittel der Beschwerde an das Landesgericht (§ 31 Abs. 5 Z 1) binnen vierzehn Tagen zu. Der Angeklagte ist in diesem Falle berechtigt, mit diesem Rechtsmittel für den Fall der Verwerfung die Berufung zu verbinden, mit der nach den Bestimmungen der §§ 469 bis 474 zu verfahren ist.
-
-`§ 478 (3) StPO.`  
-Findet das Bezirksgericht oder infolge der Beschwerde das Landesgericht den Einspruch begründet, so ist eine neue Verhandlung vor dem Bezirksgericht anzuordnen, bei der, wenn der Angeklagte erscheint, die Sache so verhandelt wird, wie im § 457 vorgeschrieben ist.
-
-### § 479 StPO
-
-`§ 479 StPO.`  
-Gegen die Urteile der Landesgerichte über eine gemäß den §§ 463, 464 und 478 an sie gelangte Berufung ist ein weiteres Rechtsmittel nicht zulässig.
-
-### § 480 StPO
-
-`§ 480 StPO.`  
-Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16. Hauptstück enthaltenen Bestimmungen. In den Fällen der §§ 352 bis 356 entscheidet das Bezirksgericht über die Bewilligung der Wiederaufnahme.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.StPO.024](BG.StPO.024.md))*
+`END-OF-DATA-SET`

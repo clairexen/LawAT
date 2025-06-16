@@ -1,323 +1,422 @@
 # BG.ABGB.021 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.021.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.020](BG.ABGB.020.md))*
 
-## Der Kaufpreis muß
+----
+## 2. Abschnitt # Rechtsverhältnisse der Gesellschafter untereinander
 
-### § 1055 ABGB # a) in barem Gelde bestehen;
+### § 1181 ABGB # Gestaltungsfreiheit
 
-`§ 1055 ABGB.`  
-Wird eine Sache theils gegen Geld, theils gegen eine andere Sache veräußert, so wird der Vertrag, je nachdem der Werth am Gelde mehr oder weniger, als der gemeine Werth der gegebenen Sache beträgt, zum Kaufe oder Tausche, und bey gleichem Werthe der Sache, zum Kaufe gerechnet.
+`§ 1181 ABGB.`  
+Die Rechtsverhältnisse der Gesellschafter untereinander richten sich nach dem Gesellschaftsvertrag; die Vorschriften dieses Abschnitts finden nur insoweit Anwendung, als nicht durch den Gesellschaftsvertrag anderes bestimmt ist.
+----
 
-### § 1056 ABGB # b) bestimmt;
+----
+### § 1182 ABGB # Gesellschaftsanteil und Beiträge der Gesellschafter
 
-`§ 1056 ABGB.`  
-Käufer und Verkäufer können die Festsetzung des Preises auch einer dritten bestimmten Person überlassen. Wird von dieser in dem bedungenen Zeitraume nichts festgesetzt; oder will im Falle, daß kein Zeitraum bedungen worden ist, ein Theil vor der Bestimmung des Preises zurücktreten; so wird der Kaufvertrag als nicht geschlossen angesehen.
+`§ 1182 (1) ABGB.`  
+Der Gesellschaftsanteil ist die Summe der gesellschaftsvertraglichen Rechte und Pflichten eines Gesellschafters gegenüber allen übrigen Gesellschaftern. Ein Gesellschafter kann nicht ohne Zustimmung aller Gesellschafter über seinen Gesellschaftsanteil verfügen.
 
-### § 1057 ABGB
+`§ 1182 (2) ABGB.`  
+Das Ausmaß der Kapitalbeteiligung der Gesellschafter an der Gesellschaft bestimmt sich nach dem Verhältnis des Wertes der vereinbarten Einlagen (Kapitalanteil). Im Zweifel sind die Gesellschafter zu gleichen Teilen beteiligt. Soweit nichts anderes vereinbart ist, sind die Gesellschafter im gleichen Ausmaß zur Mitwirkung an der Förderung des Gesellschaftszwecks verpflichtet.
 
-`§ 1057 ABGB.`  
-Wird die Bestimmung des Preises mehreren Personen überlassen, so entscheidet die Mehrheit der Stimmen. Fallen die Stimmen so verschieden aus, daß der Preis nicht einmahl durch wirkliche Mehrheit der Stimmen festgesetzt wird; so ist der Kauf für nicht eingegangen zu achten.
+`§ 1182 (3) ABGB.`  
+Der Beitrag eines Gesellschafters kann sich auch auf die Leistung von Diensten beschränken (Arbeitsgesellschafter). Einem solchen Gesellschafter kann im Gesellschaftsvertrag eine Beteiligungsquote zuerkannt werden, so als ob er einen Kapitalanteil geleistet hätte. Andernfalls steht ihm für seine Mitwirkung bloß ein angemessener Betrag des Jahresgewinns zu (§ 1195 Abs. 4).
+----
 
-### § 1058 ABGB
+----
+### § 1183 ABGB # Verzinsungspflicht
 
-`§ 1058 ABGB.`  
-Auch der Werth, welcher bey einer früheren Veräußerung bedungen worden ist, kann zur Bestimmung des Preises dienen. Hat man den ordentlichen Marktpreis zum Grunde gelegt, so wird der mittlere Marktpreis des Ortes und der Zeit, wo und in welcher der Vertrag erfüllet werden muß, angenommen.
+`§ 1183 (1) ABGB.`  
+Ein Gesellschafter, der seine Geldeinlage nicht zur rechten Zeit einzahlt, eingenommenes Gesellschaftsgeld nicht zur rechten Zeit an das Gesellschaftsvermögen abführt oder unbefugt Geld aus dem Gesellschaftsvermögen entnimmt, hat Zinsen von dem Tag an zu entrichten, an dem die Zahlung oder die Ablieferung hätte geschehen sollen oder die Herausnahme des Geldes erfolgt ist.
 
-### § 1059 ABGB # c) nicht gesetzwidrig sein.
+`§ 1183 (2) ABGB.`  
+Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
+----
 
-`§ 1059 ABGB.`  
-(Anm.: Aufgehoben durch § 33 Z 7, BGBl. Nr. 140/1979.)
+----
+### § 1184 ABGB # Nachschuss
 
-### § 1060 ABGB
+`§ 1184 (1) ABGB.`  
+Die Gesellschafter sind nicht verpflichtet, Nachschüsse zur vertraglich zugesagten Einlage zu leisten.
 
-`§ 1060 ABGB.`  
-Außer diesem Falle kann der Kauf sowohl von dem Käufer als Verkäufer nur wegen Verletzung über die Hälfte bestritten werden (§§. 934 – 935). Diese Beschwerde findet auch dann Statt, wenn der Ausspruch des Kaufpreises einem Dritten überlassen worden ist.
+`§ 1184 (2) ABGB.`  
+Auch ohne Vereinbarung im Gesellschaftsvertrag können die Gesellschafter mit Stimmenmehrheit (§ 1192 Abs. 2) die Leistung von Nachschüssen im Verhältnis ihrer Kapitalanteile beschließen, wenn die Fortführung der Gesellschaft sonst nicht möglich wäre. Ein Gesellschafter, der dem Beschluss nicht zugestimmt hat und den Nachschuss nicht leistet, kann innerhalb angemessener Frist aus der Gesellschaft austreten oder aufgrund einer Klage der übrigen Gesellschafter vom Gericht aus der Gesellschaft ausgeschlossen werden. Auf das Austrittsrecht kann im Vorhinein nicht verzichtet werden. Für die Auseinandersetzung mit dem ausgetretenen oder ausgeschlossenen Gesellschafter und für die Ermittlung seiner Beteiligung an schwebenden Geschäften ist der Zeitpunkt der Beschlussfassung über die Nachschusspflicht maßgeblich.
+----
 
-### § 1061 ABGB # Pflichten des Verkäufers,
+----
+### § 1185 ABGB # Ersatz für Aufwendungen und Verluste, Herausgabepflicht
 
-`§ 1061 ABGB.`  
-Der Verkäufer ist schuldig, die Sache bis zur Zeit der Uebergabe sorgfältig zu verwahren und sie dem Käufer nach eben den Vorschriften zu übergeben, welche oben bey dem Tausche (§. 1047) aufgestellt worden sind.
+`§ 1185 (1) ABGB.`  
+Macht der Gesellschafter in den Gesellschaftsangelegenheiten Aufwendungen, die er den Umständen nach für erforderlich halten darf, oder erleidet er unmittelbar durch seine Geschäftsführung oder aus Gefahren, die mit ihr untrennbar verbunden sind, Verluste in seinem sonstigen Vermögen, so sind ihm, wenn er nicht sogleich Ersatz aus dem Gesellschaftsvermögen erhält, die übrigen Gesellschafter entsprechend ihrem Anteil zum Ersatz verpflichtet. Aufgewendetes Geld ist von der Zeit der Aufwendungen an zu verzinsen.
 
-### § 1062 ABGB # und des Käufers.
+`§ 1185 (2) ABGB.`  
+Für die Aufwendungen, die zur Erledigung der Gesellschaftsangelegenheiten nötig sind und nicht aus dem Gesellschaftsvermögen getragen werden können, kann ein Gesellschafter von den übrigen Gesellschaftern entsprechend ihrem Anteil verhältnismäßig einen Vorschuss verlangen.
 
-`§ 1062 ABGB.`  
-Der Käufer hingegen ist verbunden, die Sache sogleich, oder zur bedungenen Zeit zu übernehmen, zugleich aber auch das Kaufgeld bar abzuführen; widrigen Falls ist der Verkäufer ihm die Uebergabe der Sache zu verweigern berechtiget.
+`§ 1185 (3) ABGB.`  
+Ein Gesellschafter hat alles, was er zur Führung der Geschäfte erhält und was er aus der Geschäftsführung erlangt, an das Gesellschaftsvermögen abzuführen.
+----
 
-### § 1063 ABGB
+----
+### § 1186 ABGB # Mitwirkung, Interessenwahrung und Gleichbehandlung
 
-`§ 1063 ABGB.`  
-Wird die Sache dem Käufer von dem Verkäufer ohne das Kaufgeld zu erhalten, übergeben; so ist die Sache auf Borg verkauft, und das Eigenthum derselben geht gleich auf den Käufer über.
+`§ 1186 (1) ABGB.`  
+Die Gesellschafter haben an der gesellschaftlichen Willensbildung und den zu treffenden Maßnahmen nach Kräften und mit gebotener Sorgfalt mitzuwirken, den Gesellschaftszweck redlich zu fördern und alles zu unterlassen, was den Gesellschaftsinteressen schadet.
 
-### § 1063a ABGB
+`§ 1186 (2) ABGB.`  
+Die Gesellschafter sind unter gleichen Voraussetzungen gleich zu behandeln.
+----
 
-`§ 1063a ABGB.`  
-Die Kosten der Übergabe der verkauften Ware, insbesondere die Kosten des Messens und des Wägens, fallen dem Verkäufer zur Last, die Kosten der Abnahme und der Versendung der Sache an einen anderen Ort als den Erfüllungsort aber dem Käufer.
+----
+### § 1187 ABGB # Verbot schädlicher Nebengeschäfte
 
-### § 1063b ABGB
+`§ 1187 ABGB.`  
+Die Gesellschafter dürfen kein der Gesellschaft schädliches Nebengeschäft unternehmen. Für unternehmerisch tätige Gesellschaften gelten überdies die unternehmensrechtlichen Vorschriften über Wettbewerbsverbote und deren Rechtsfolgen.
+----
 
-`§ 1063b ABGB.`  
-Wenn dem Käufer beim Kauf einer beweglichen Sache die nähere Bestimmung der Form, des Maßes oder ähnlicher Verhältnisse vorbehalten ist, ist er verpflichtet, die vorbehaltene Bestimmung zu treffen. Im Übrigen gilt § 906 Abs. 2 sinngemäß.
+----
+### § 1188 ABGB # Durchsetzung von Gesellschaftsansprüchen
 
-### § 1064 ABGB # Gefahr und Nutzen des Kaufgegenstandes.
+`§ 1188 ABGB.`  
+Die Erfüllung gesellschaftsbezogener Verpflichtungen eines Gesellschafters kann von jedem Gesellschafter zugunsten aller Gesellschafter gemeinsam eingefordert werden. Davon abweichende Vereinbarungen sind unwirksam.
+----
 
-`§ 1064 ABGB.`  
-In Rücksicht der Gefahr und Nutzungen einer zwar gekauften, aber noch nicht übergebenen Sache gelten die nähmlichen Vorschriften, die bey dem Tauschvertrage gegeben worden sind (§§. 1048 – 1051).
+----
+### § 1189 ABGB # Geschäftsführung
 
-### § 1065 ABGB # Kauf einer gehofften Sache.
+`§ 1189 (1) ABGB.`  
+Zur Führung der Geschäfte der Gesellschaft sind alle Gesellschafter berechtigt und verpflichtet.
 
-`§ 1065 ABGB.`  
-Wenn Sachen, die noch zu erwarten stehen, gekauft werden; so sind die in dem Hauptstücke von gewagten Geschäften gegebenen Anordnungen anzuwenden.
+`§ 1189 (2) ABGB.`  
+Überträgt der Gesellschaftsvertrag die Geschäftsführung einem einzelnen Gesellschafter oder mehreren Gesellschaftern, so sind die übrigen Gesellschafter von der Geschäftsführung ausgeschlossen.
 
-### § 1066 ABGB # Allgemeine Vorschrift.
+`§ 1189 (3) ABGB.`  
+Die Geschäfte sind so sorgfältig zu führen, wie es Art und Umfang der Gesellschaft erfordern. Die geschäftsführenden Gesellschafter sind verpflichtet, über das Gesellschaftsvermögen, insbesondere über die Einnahmen und Ausgaben, die notwendigen Aufzeichnungen zu führen und soweit erforderlich ein Rechnungswesen einzurichten.
 
-`§ 1066 ABGB.`  
-In allen bey einem Kaufvertrage vorkommenden Fällen, welche in dem Gesetze nicht ausdrücklich entschieden werden, sind die in den Hauptstücken von Verträgen überhaupt, und von dem Tauschvertrage insbesondere aufgestellten Vorschriften anzuwenden.
+`§ 1189 (4) ABGB.`  
+Ein Gesellschafter darf im Zweifel die Führung der Geschäfte nicht einem Dritten übertragen. Ist die Übertragung gestattet, so hat er nur ein ihm bei der Übertragung zur Last fallendes Verschulden zu vertreten. Das Verschulden eines Gehilfen hat er in gleichem Umfang zu vertreten wie eigenes Verschulden.
+----
 
-### § 1067 ABGB # Besondere Arten oder Nebenverträge eines Kaufvertrages.
+----
+### § 1190 ABGB # Geschäftsführung durch mehrere Gesellschafter, Weisungsgebundenheit
 
-`§ 1067 ABGB.`  
-Besondere Arten oder Nebenverträge eines Kaufvertrages sind: der Vorbehalt des Wiederkaufes, des Rückverkaufes, des Vorkaufes; der Verkauf auf die Probe; der Verkauf mit Vorbehalt eines bessern Käufers; und der Verkaufsauftrag.
+`§ 1190 (1) ABGB.`  
+Steht die Geschäftsführung allen oder mehreren Gesellschaftern zu, so ist im Rahmen der gewöhnlichen Geschäfte jeder von ihnen allein zu handeln berechtigt; widerspricht jedoch ein anderer geschäftsführender Gesellschafter der Vornahme einer Handlung, so muss diese unterbleiben.
 
-### § 1068 ABGB # Verkauf mit Vorbehalt des Wiederkaufes.
+`§ 1190 (2) ABGB.`  
+Ist im Gesellschaftsvertrag bestimmt, dass die Gesellschafter, denen die Geschäftsführung zusteht, nur zusammen handeln können, so bedarf es für jedes Geschäft der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist.
 
-`§ 1068 ABGB.`  
-Das Recht eine verkaufte Sache wieder einzulösen, heißt das Recht des Wiederkaufes. Ist dieses Recht dem Verkäufer überhaupt und ohne nähere Bestimmung eingeräumt, so wird von einer Seite das Kaufstück in einem nicht verschlimmerten Zustande; von der andern Seite aber das erlegte Kaufgeld zurück gegeben, und die inzwischen beyderseits aus dem Gelde und der Sache gezogenen Nutzungen bleiben gegen einander aufgehoben.
+`§ 1190 (3) ABGB.`  
+Ist ein Gesellschafter an die Weisungen der übrigen Gesellschafter gebunden, so kann er von den ihm erteilten Weisungen abweichen, wenn er den Umständen nach annehmen darf, dass die übrigen Gesellschafter bei Kenntnis der Sachlage die Abweichung billigen würden. Er hat die Abweichung den übrigen Gesellschaftern anzuzeigen und ihre Entscheidung abzuwarten, wenn nicht Gefahr im Verzug ist.
+----
 
-### § 1069 ABGB
+----
+### § 1191 ABGB # Umfang der Geschäftsführungsbefugnis
 
-`§ 1069 ABGB.`  
-Hat der Käufer das Kaufstück aus dem Seinigen verbessert; oder zu dessen Erhaltung außerordentliche Kosten verwendet, so gebührt ihm gleich einem redlichen Besitzer der Ersatz; er haftet aber auch dafür, wenn durch sein Verschulden der Werth verändert, oder die Zurückgabe vereitelt worden ist.
+`§ 1191 (1) ABGB.`  
+Die Befugnis zur Geschäftsführung erstreckt sich auf alle Handlungen, die der gewöhnliche Geschäftsbetrieb der Gesellschaft mit sich bringt.
 
-### § 1070 ABGB
+`§ 1191 (2) ABGB.`  
+Zur Vornahme von Handlungen, die darüber hinausgehen (außergewöhnliche Geschäfte), ist ein einstimmiger Beschluss aller Gesellschafter erforderlich.
 
-`§ 1070 ABGB.`  
-Der Vorbehalt des Wiederkaufes findet nur bei unbeweglichen Sachen statt und gebührt dem Verkäufer nur für seine Lebenszeit. Er kann sein Recht weder auf die Erben noch auf einen anderen übertragen. Ist das Recht in die öffentlichen Bücher einverleibt, so kann die Sache auch einem Dritten abgefordert werden und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt.
+`§ 1191 (3) ABGB.`  
+Zur Einräumung einer Vollmacht gemäß § 1008 bedarf es der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist. Der Widerruf einer solchen Vollmacht kann von jedem der zur Erteilung oder zur Mitwirkung bei der Erteilung befugten Gesellschafter erfolgen.
+----
 
-### § 1071 ABGB # Kauf mit Vorbehalt des Rückverkaufes.
+----
+### § 1192 ABGB # Gesellschafterbeschlüsse
 
-`§ 1071 ABGB.`  
-Den nähmlichen Beschränkungen unterliegt das von dem Käufer ausbedungene Recht, die Sache dem Verkäufer wieder zurück zu verkaufen; und es sind auf dasselbe die für den Wiederkauf ertheilten Vorschriften anzuwenden. Ist aber die Bedingung des Wiederverkaufs oder Wiederkaufs verstellt, und eigentlich um ein Pfandrecht oder ein Borggeschäft zu verbergen, gebraucht worden, so tritt die Vorschrift des §. 916 ein.
+`§ 1192 (1) ABGB.`  
+Gesellschafterbeschlüsse erfordern die Zustimmung aller zur Mitwirkung bei der Beschlussfassung berufenen Gesellschafter.
 
-### § 1072 ABGB # Vorbehalt des Vorkaufsrechtes.
+`§ 1192 (2) ABGB.`  
+Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, so bestimmt sie sich nach den abgegebenen gültigen Stimmen. Das Stimmgewicht entspricht den Beteiligungsverhältnissen. Sind nicht alle Gesellschafter am Kapital beteiligt, wird die Mehrheit nach Köpfen berechnet. Arbeitsgesellschafter, denen der Gesellschaftsvertrag einen am Wert ihrer Arbeit orientierten Kapitalanteil zubilligt, gelten als am Kapital beteiligt.
+----
 
-`§ 1072 ABGB.`  
-Wer eine Sache mit der Bedingung verkauft, daß der Käufer, wenn er solche wieder verkaufen will, ihm die Einlösung anbiethen soll, der hat das Vorkaufsrecht.
+----
+### § 1193 ABGB # Entziehung und Kündigung der Geschäftsführungsbefugnis
 
-### § 1073 ABGB
+`§ 1193 (1) ABGB.`  
+Die Befugnis eines Gesellschafters zur Geschäftsführung kann einem Gesellschafter aufgrund einer Klage aller übrigen Gesellschafter durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsgemäßen Geschäftsführung.
 
-`§ 1073 ABGB.`  
-Das Vorkaufsrecht ist in der Regel ein persönliches Recht. In Rücksicht auf unbewegliche Güter kann es durch Eintragung in die öffentlichen Bücher in ein dingliches verwandelt werden.
+`§ 1193 (2) ABGB.`  
+Ein Gesellschafter kann seine Befugnis zur Geschäftsführung kündigen, wenn ein wichtiger Grund vorliegt. Auf dieses Recht kann nicht verzichtet werden. Die Geschäftsführung darf nur in der Art gekündigt werden, dass die Gesellschafter für die Führung der Geschäfte anderweitig Vorsorge treffen können, es sei denn, dass der wichtige Grund auch die unzeitige Kündigung rechtfertigt.
+----
 
-### § 1074 ABGB
+----
+### § 1194 ABGB # Kontrollrechte der Gesellschafter
 
-`§ 1074 ABGB.`  
-Auch kann das Vorkaufsrecht weder einem Dritten abgetreten, noch auf die Erben des Berechtigten übertragen werden.
+`§ 1194 (1) ABGB.`  
+Ein geschäftsführender Gesellschafter ist verpflichtet, jedem anderen Gesellschafter die erforderlichen Nachrichten zu geben, auf Verlangen über den Stand der Geschäfte Auskunft zu erteilen und Rechenschaft abzulegen. Ein Gesellschafter kann sich, auch wenn er von der Geschäftsführung ausgeschlossen ist, von den Angelegenheiten der Gesellschaft persönlich unterrichten, die Aufzeichnungen der Gesellschaft einsehen und sich aus ihnen eine Abrechnung anfertigen oder die Vorlage einer solchen Abrechnung fordern.
 
-### § 1075 ABGB
+`§ 1194 (2) ABGB.`  
+Eine Vereinbarung, durch die dieses Recht ausgeschlossen oder beschränkt wird, ist unwirksam.
+----
 
-`§ 1075 ABGB.`  
-Der Berechtigte muß bewegliche Sachen binnen vier und zwanzig Stunden; unbewegliche aber binnen dreyßig Tagen, nach der geschehenen Anbiethung, wirklich einlösen. Nach Verlauf dieser Zeit ist das Vorkaufsrecht erloschen.
+----
+### § 1195 ABGB # Gewinn und Verlust
 
-### § 1076 ABGB
+`§ 1195 (1) ABGB.`  
+Am Schluss jedes Geschäftsjahres wird auf Grund einer Jahresabrechnung der Gewinn oder Verlust ermittelt und der Anteil jedes Gesellschafters daran berechnet.
 
-`§ 1076 ABGB.`  
-Das Vorkaufsrecht hat im Falle einer gerichtlichen Feilbiethung der mit diesem Rechte belasteten Sachen keine andere Wirkung, als daß der den öffentlichen Büchern einverleibte Berechtigte zur Feilbiethung insbesondere vorgeladen werden muß.
+`§ 1195 (2) ABGB.`  
+Sofern alle Gesellschafter in gleichem Ausmaß zur Mitwirkung verpflichtet sind, wird der Gewinn und Verlust eines Geschäftsjahres den Gesellschaftern im Verhältnis ihrer Kapitalanteile zugewiesen (§ 1182 Abs. 2). Enthält der Gesellschaftsvertrag eine abweichende Bestimmung nur über den Anteil am Gewinn oder über den Anteil am Verlust, so gilt sie im Zweifel für Gewinn und Verlust.
 
-### § 1077 ABGB
+`§ 1195 (3) ABGB.`  
+Sind die Gesellschafter nicht in gleichem Ausmaß zur Mitwirkung verpflichtet, so ist dies bei der Zuweisung des Gewinns angemessen zu berücksichtigen.
 
-`§ 1077 ABGB.`  
-Der zur Einlösung Berechtigte, muß außer dem Falle einer andern Verabredung, den vollständigen Preis, welcher von einem Dritten angebothen worden ist, entrichten. Kann er die außer dem gewöhnlichen Kaufpreise angebothenen Nebenbedingungen nicht erfüllen, und lassen sie sich auch durch einen Schätzungswerth nicht ausgleichen; so kann das Vorkaufsrecht nicht ausgeübt werden.
+`§ 1195 (4) ABGB.`  
+Einem Arbeitsgesellschafter, dem für seine Dienste keine Beteiligung an der Gesellschaft gewährt wird, ist ein den Umständen nach angemessener Betrag des Jahresgewinns zuzuweisen. Der diesen Betrag übersteigende Teil des Jahresgewinns wird sodann den Gesellschaftern im Verhältnis ihrer Beteiligung zugewiesen.
 
-### § 1078 ABGB
+`§ 1195 (5) ABGB.`  
+Die Gesellschafterstellung steht der Vereinbarung eines Entgelts für der Gesellschaft geleistete Dienste nicht entgegen.
+----
 
-`§ 1078 ABGB.`  
-Das Vorkaufsrecht läßt sich auf andere Veräußerungsarten ohne eine besondere Verabredung nicht ausdehnen.
+----
+### § 1196 ABGB # Gewinnausschüttung und Entnahmen
 
-### § 1079 ABGB
+`§ 1196 (1) ABGB.`  
+Jeder Gesellschafter hat Anspruch auf Auszahlung seines Gewinnanteils. Der Anspruch kann nicht geltend gemacht werden, soweit die Auszahlung zum offenbaren Schaden der Gesellschaft gereicht, die Gesellschafter etwas anderes beschließen oder der Gesellschafter vereinbarungswidrig seine Einlage nicht geleistet hat.
 
-`§ 1079 ABGB.`  
-Hat der Besitzer dem Berechtigten die Einlösung nicht angebothen, so muß er ihm für allen Schaden haften. Im Falle eines dinglichen Vorkaufsrechtes kann die veräußerte Sache dem Dritten abgefordert werden, und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt.
+`§ 1196 (2) ABGB.`  
+Im Übrigen ist ein Gesellschafter nicht befugt, ohne Einwilligung der anderen Gesellschafter Entnahmen zu tätigen.
+----
 
-### § 1080 ABGB # Kauf auf die Probe.
+----
+## 3. Abschnitt # Rechtsverhältnisse zu Dritten
 
-`§ 1080 ABGB.`  
-Der Kauf auf Probe ist unter der im Belieben des Käufers stehenden Bedingung geschlossen, daß er die Ware genehmige. Die Bedingung ist im Zweifel eine aufschiebende; der Käufer ist vor der Genehmigung an den Kauf nicht gebunden, der Verkäufer hört auf, gebunden zu sein, wenn der Käufer bis zum Ablaufe der Probezeit nicht genehmigt.
+### § 1197 ABGB # Vertretung
 
-### § 1081 ABGB
+`§ 1197 (1) ABGB.`  
+Wenn der Gesellschaftsvertrag einer Außengesellschaft nichts anderes vorsieht, deckt sich die Befugnis zur Vertretung aller Gesellschafter in Gesellschaftsangelegenheiten mit der Befugnis zur Geschäftsführung.
 
-`§ 1081 ABGB.`  
-Ist die Sache zum Zwecke der Besichtigung oder Probe bereits übergeben, so gilt Stillschweigen des Käufers bis nach Ablauf der Probezeit als Genehmigung.
+`§ 1197 (2) ABGB.`  
+Bei einer unternehmerisch tätigen Außengesellschaft werden alle Gesellschafter aus dem Handeln eines Gesellschafters im Namen der Gesellschaft auch dann berechtigt und verpflichtet, wenn dieser Gesellschafter nicht, nicht allein oder nur beschränkt vertretungsbefugt war, der Dritte den Mangel der Vertretungsbefugnis aber weder kannte noch kennen musste. Dasselbe gilt für nicht unternehmerisch tätige Außengesellschaften, wenn sich die Gesellschafter als Unternehmer an der Gesellschaft beteiligen.
 
-### § 1082 ABGB
+`§ 1197 (3) ABGB.`  
+Bei Gesamtvertretung genügt die Abgabe einer gesellschaftsbezogenen Willenserklärung gegenüber einem der zur Mitwirkung an der Vertretung befugten Gesellschafter (passive Einzelvertretung).
 
-`§ 1082 ABGB.`  
-Ist bei einem Kauf auf Probe keine Probezeit vereinbart worden, so kann der Verkäufer dem Käufer eine angemessene Frist als Probezeit setzen.
+`§ 1197 (4) ABGB.`  
+Wer, ohne Gesellschafter zu sein, mit der Vertretung in Gesellschaftsangelegenheiten betraut wird, vertritt die Gesellschafter nach Maßgabe der erteilten Vollmacht.
+----
 
-### § 1083 ABGB # Verkauf mit Vorbehalt eines besseren Käufers.
+----
+### § 1198 ABGB # Entziehung der Vertretungsmacht
 
-`§ 1083 ABGB.`  
-Wird das Kaufgeschäft mit dem Vorbehalte verabredet, daß der Verkäufer, wenn sich binnen einer bestimmten Zeit ein besserer Käufer meldet, denselben vorzuziehen befugt sey; so bleibt in dem Falle, daß das Kaufstück nicht übergeben worden, die Wirklichkeit des Vertrages bis zum Eintritte der Bedingung aufgeschoben.
+`§ 1198 ABGB.`  
+Die Vertretungsmacht kann einem Gesellschafter aufgrund einer Klage aller übrigen Gesellschafter durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsgemäßen Vertretung der Gesellschaft.
+----
 
-### § 1084 ABGB
+----
+### § 1199 ABGB # Haftung der Gesellschafter
 
-`§ 1084 ABGB.`  
-Ist das Kaufstück übergeben worden, so ist der Kaufvertrag abgeschlossen; er wird aber durch den Eintritt der Bedingung wieder aufgelöset. Bey dem Mangel einer ausdrücklichen Zeitbestimmung wird der bey dem Kaufe auf die Probe angenommene Zeitraum vermuthet.
+`§ 1199 (1) ABGB.`  
+Für gesellschaftsbezogene Verbindlichkeiten gegenüber Dritten haften die Gesellschafter als Gesamtschuldner, wenn mit diesen nichts anderes vereinbart ist.
 
-### § 1085 ABGB
+`§ 1199 (2) ABGB.`  
+Aus Rechtsgeschäften, die ein Gesellschafter auf Rechnung der Gesellschaft, aber im eigenen Namen abschließt, wird er allein dem Dritten gegenüber berechtigt und verpflichtet.
+----
 
-`§ 1085 ABGB.`  
-Ob der neue Käufer besser sey, beurtheilet der Verkäufer. Er kann den zweyten Käufer, wenn der erste auch noch mehr zahlen wollte, vorziehen. Bey der Auflösung des Vertrages heben sich die Nutzungen der Sache und des Geldes gegen einander auf. In Rücksicht der Verbesserungen oder Verschlimmerungen wird der Käufer gleich einem redlichen Besitzer behandelt.
+----
+### § 1200 ABGB # Einwendungen des Gesellschafters
 
-### § 1086 ABGB # Verkaufsauftrag.
+`§ 1200 (1) ABGB.`  
+Wird ein Gesellschafter wegen einer gesellschaftsbezogenen Verbindlichkeit in Anspruch genommen, so kann er Einwendungen, die nicht in seiner Person begründet sind, nur insoweit geltend machen, als sie von den Gesellschaftern gemeinsam erhoben werden können.
 
-`§ 1086 ABGB.`  
-Wenn jemand seine bewegliche Sache einem Andern für einen gewissen Preis zum Verkaufe übergibt, mit der Bedingung, daß ihm der Uebernehmer binnen einer festgesetzten Zeit entweder das bestimmte Kaufgeld liefern oder die Sache zurückstellen soll; so ist der Uebergeber vor Verlauf der Zeit die Sache zurück zu fordern nicht berechtiget; der Uebernehmer aber muß nach deren Ablauf das bestimmte Kaufgeld entrichten.
+`§ 1200 (2) ABGB.`  
+Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange den Gesellschaftern gemeinsam das Recht zusteht, das ihrer Verbindlichkeit zugrunde liegende Rechtsgeschäft anzufechten oder ihre Verbindlichkeit durch Aufrechnung mit einer fälligen Forderung zu erfüllen.
+----
 
-### § 1087 ABGB
+----
+## 4. Abschnitt # Gesellschafternachfolge
 
-`§ 1087 ABGB.`  
-Während der festgesetzten Zeit bleibt der Uebergeber Eigenthümer, der Uebernehmer haftet ihm für den durch sein Verschulden verursachten Schaden, und es werden ihm bey Zurückstellung der Sache nur solche Kosten vergütet, die dem Uebergeber zum Nutzen gereichen.
+### § 1201 ABGB # Rechtsübergang
 
-### § 1088 ABGB
+`§ 1201 (1) ABGB.`  
+Sofern nichts anderes vereinbart wurde, gehen zum Zeitpunkt des Eintritts oder Ausscheidens eines Gesellschafters sowie zum Zeitpunkt des Gesellschafterwechsels durch Rechtsgeschäft unter Lebenden die gesellschaftsbezogenen, nicht höchstpersönlichen Rechtsverhältnisse im Verhältnis der Beteiligungen von den bisherigen Gesellschaftern auf den eintretenden Gesellschafter, vom ausscheidenden auf die verbleibenden Gesellschafter oder beim Gesellschafterwechsel vom ausscheidenden auf den eintretenden Gesellschafter über (Gesellschafternachfolge). Für gesellschaftsbezogene Verbindlichkeiten bestellte Sicherheiten bleiben für diese Verbindlichkeiten aufrecht. Der ausscheidende Gesellschafter haftet nach Maßgabe des § 1202 Abs. 2 für die gesellschaftsbezogenen Verbindlichkeiten weiter.
 
-`§ 1088 ABGB.`  
-Ist die Sache unbeweglich; oder ist der Preis, oder die Zahlungsfrist nicht bestimmt; so wird der Uebernehmer wie ein Gewalthaber angesehen. In keinem Falle kann die zum Verkaufe anvertraute Sache dem Dritten, welcher sie von dem Uebernehmer redlicher Weise an sich gebracht hat, abgefordert werden (§. 367).
+`§ 1201 (2) ABGB.`  
+Bei Sachen des Gesellschaftsvermögens, die im Miteigentum der Gesellschafter stehen, gilt die Übergabe als vollzogen, sobald der Eintritt, Austritt oder Wechsel wirksam geworden ist. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
 
-### § 1089 ABGB
+`§ 1201 (3) ABGB.`  
+Ein Dritter kann der im Zuge einer Gesellschafternachfolge von Gesetzes wegen eintretenden Übernahme seines Vertragsverhältnisses binnen dreier Monate nach Verständigung davon durch einen Gesellschafter gegenüber dem ausscheidenden, dem eintretenden oder einem anderen vom Vertragsverhältnis erfassten Gesellschafter widersprechen; in der Verständigung ist auf das Widerspruchsrecht hinzuweisen. Dies gilt auch für den Besteller einer für gesellschaftsbezogene Verbindlichkeiten gewährten Sicherheit. Im Fall eines wirksamen Widerspruchs besteht das Vertragsverhältnis auch noch mit dem ausgeschiedenen Gesellschafter fort.
 
-`§ 1089 ABGB.`  
-Auch bey gerichtlichen Verkäufen finden die über Verträge, und den Tausch- und Kaufvertrag insbesondere aufgestellten Vorschriften in der Regel Statt; in so fern nicht in diesem Gesetze, oder in der Gerichtsordnung eigene Anordnungen enthalten sind.
+`§ 1201 (4) ABGB.`  
+Wurde dem Dritten nicht nachweislich mitgeteilt, ob das Vertragsverhältnis vom Erwerber übernommen wurde, oder kann der Dritte dieser Übernahme noch widersprechen, so kann er sowohl gegenüber dem ausscheidenden als auch gegenüber dem nachfolgenden Gesellschafter auf das Vertragsverhältnis bezogene Erklärungen abgeben und seine Verbindlichkeiten erfüllen. Dies gilt auch für den Besteller einer für gesellschaftsbezogene Verbindlichkeiten gewährten Sicherheit.
+----
 
-## Fünf u. zwanzigstes Hauptstück. # Von Bestand- Erbpacht- und Erbzins-Verträgen.
+----
+### § 1202 ABGB # Haftung des eintretenden und des ausscheidenden Gesellschafters
 
-### § 1090 ABGB # Bestandvertrag.
+`§ 1202 (1) ABGB.`  
+Der eintretende Gesellschafter haftet nur insofern für vor seinem Eintritt begründete gesellschaftsbezogene Verbindlichkeiten, als er jenen gesellschaftsbezogenen Rechtsverhältnissen beitritt, auf denen die Verbindlichkeiten beruhen.
 
-`§ 1090 ABGB.`  
-Der Vertrag, wodurch jemand den Gebrauch einer unverbrauchbaren Sache auf eine gewisse Zeit und gegen einen bestimmten Preis erhält, heißt überhaupt Bestandvertrag.
+`§ 1202 (2) ABGB.`  
+Der ausscheidende Gesellschafter haftet für gesellschaftsbezogene Verbindlichkeiten gegenüber Dritten, die vor seinem Ausscheiden aus der Gesellschaft begründet wurden, auch dann weiter, wenn er aus dem Rechtsverhältnis ausgeschieden ist (§ 1201 Abs. 3). Soweit der Dritte einer Entlassung des Ausscheidenden aus der Haftung nicht zustimmt, haftet dieser für die Verbindlichkeiten nur, soweit sie innerhalb von fünf Jahren nach seinem Ausscheiden fällig werden. Ansprüche daraus verjähren innerhalb der für die jeweilige Verbindlichkeit geltenden Verjährungsfrist, längstens jedoch innerhalb von drei Jahren.
+----
 
-### § 1091 ABGB # I) Mieth- und Pachtvertrag.
+----
+### § 1203 ABGB # Auseinandersetzung mit dem ausscheidenden Gesellschafter
 
-`§ 1091 ABGB.`  
-Der Bestandvertrag wird, wenn sich die in Bestand gegebene Sache ohne weitere Bearbeitung gebrauchen läßt, ein Miethvertrag; wenn sie aber nur durch Fleiß und Mühe benützt werden kann, ein Pachtvertrag genannt. Werden durch einen Vertrag Sachen von der ersten und zweyten Art zugleich in Bestand gegeben; so ist der Vertrag nach der Beschaffenheit der Hauptsache zu beurtheilen.
+`§ 1203 (1) ABGB.`  
+Dem ausscheidenden Gesellschafter sind die Sachen, die er den Gesellschaftern zur Benutzung überlassen hat, zurückzugeben. Für eine durch Zufall abhanden gekommene oder verschlechterte Sache kann er keinen Ersatz verlangen.
 
-### § 1092 ABGB # Erfordernisse.
+`§ 1203 (2) ABGB.`  
+Dem ausscheidenden Gesellschafter ist in Geld auszuzahlen, was er bei der Auseinandersetzung erhielte, wenn die Gesellschaft zur Zeit seines Ausscheidens aufgelöst worden wäre. Der Wert des Gesellschaftsvermögens ist, soweit erforderlich, durch Schätzung zu ermitteln.
 
-`§ 1092 ABGB.`  
-Mieth- und Pachtverträge können über die nähmlichen Gegenstände und auf die nähmliche Art, als der Kaufvertrag geschlossen werden. Der Mieth- und Pachtzins wird, wenn keine andere Uebereinkunft getroffen worden ist, wie das Kaufgeld entrichtet.
+`§ 1203 (3) ABGB.`  
+Der ausscheidende Gesellschafter ist von den gesellschaftsbezogenen Verbindlichkeiten zu befreien, für die er den Gläubigern haftet. Ist eine Schuld noch nicht fällig, so können ihm die anderen Gesellschafter Sicherheit leisten, statt ihn zu befreien.
 
-### § 1093 ABGB
+`§ 1203 (4) ABGB.`  
+Verbleibt dem ausscheidenden Gesellschafter eine Verbindlichkeit aus dem Gesellschaftsverhältnis, so ist er verpflichtet, einen Ausgleich in entsprechender Höhe an die Gesellschafter zu zahlen.
+----
 
-`§ 1093 ABGB.`  
-Der Eigenthümer kann sowohl seine beweglichen und unbeweglichen Sachen, als seine Rechte in Bestand geben; er kann aber auch in den Fall kommen, den Gebrauch seiner eigenen Sache, wenn er einem Dritten gebührt, in Bestand zu nehmen.
+----
+### § 1204 ABGB # Beteiligung des Ausscheidenden an schwebenden Geschäften
 
-### § 1094 ABGB # Wirkung.
+`§ 1204 (1) ABGB.`  
+Der ausgeschiedene Gesellschafter nimmt am Gewinn und am Verlust teil, der sich aus den zur Zeit seines Ausscheidens schwebenden Geschäften ergibt. Die übrigen Gesellschafter sind berechtigt, diese Geschäfte so zu beenden, wie es ihnen am vorteilhaftesten erscheint.
 
-`§ 1094 ABGB.`  
-Sind die vertragschließenden Theile über das Wesentliche des Bestandes, nähmlich über die Sache und den Preis, übereingekommen; so ist der Vertrag vollkommen abgeschlossen, und der Gebrauch der Sache für gekauft anzusehen.
+`§ 1204 (2) ABGB.`  
+Der ausgeschiedene Gesellschafter kann am Schluss jedes Geschäftsjahres Rechenschaft über die inzwischen beendeten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen.
+----
 
-### § 1095 ABGB
+----
+### § 1205 ABGB # Fortsetzung mit den Erben
 
-`§ 1095 ABGB.`  
-Wenn ein Bestandvertrag in die öffentlichen Bücher eingetragen ist; so ist das Recht des Bestandnehmers als ein dingliches Recht zu betrachten, welches sich auch der nachfolgende Besitzer auf die noch übrige Zeit gefallen lassen muß.
+`§ 1205 (1) ABGB.`  
+Ist im Gesellschaftsvertrag bestimmt, dass im Fall des Todes eines Gesellschafters die Gesellschaft mit seinen Erben fortgesetzt werden soll, so besteht sie nach dem Tod dieses Gesellschafters mit seiner Verlassenschaft und nach deren Einantwortung mit den Erben fort. Jeder Erbe kann sein Verbleiben in der Gesellschaft davon abhängig machen, dass ihm unter Belassung des bisherigen Gewinnanteils die Stellung eines Kommanditisten in einer neu zu gründenden Kommanditgesellschaft (§ 1206) eingeräumt und der auf ihn fallende Teil der Einlage des Verstorbenen als seine Kommanditeinlage anerkannt wird.
 
-## Wechselseitige Rechte:
+`§ 1205 (2) ABGB.`  
+Nehmen die übrigen Gesellschafter einen dahingehenden Antrag des Erben nicht an, so ist dieser befugt, ohne Einhaltung einer Kündigungsfrist sein Ausscheiden aus der Gesellschaft zu erklären.
 
-### § 1096 ABGB # 1) In Hinsicht auf Ueberlassung; Erhaltung; Benützung.
+`§ 1205 (3) ABGB.`  
+Die in Abs. 1 und 2 bezeichneten Rechte können von den Erben nur innerhalb einer Frist von drei Monaten nach der Einantwortung der Verlassenschaft geltend gemacht werden. Ist ein Erbe geschäftsunfähig und ist für ihn kein gesetzlicher Vertreter bestellt, so läuft diese Frist erst ab der Bestellung eines solchen oder ab dem Eintritt der Geschäftsfähigkeit des Erben.
 
-`§ 1096 (1) ABGB.`  
-Vermieter und Verpächter sind verpflichtet, das Bestandstück auf eigene Kosten in brauchbarem Stande zu übergeben und zu erhalten und die Bestandinhaber in dem bedungenen Gebrauche oder Genusse nicht zu stören. Ist das Bestandstück bei der Übergabe derart mangelhaft oder wird es während der Bestandzeit ohne Schuld des Bestandnehmers derart mangelhaft, daß es zu dem bedungenen Gebrauche nicht taugt, so ist der Bestandnehmer für die Dauer und in dem Maße der Unbrauchbarkeit von der Entrichtung des Zinses befreit. Auf diese Befreiung kann bei der Miete unbeweglicher Sachen im voraus nicht verzichtet werden.
+`§ 1205 (4) ABGB.`  
+Scheidet innerhalb der Frist des Abs. 3 der Erbe aus der Gesellschaft aus oder wird innerhalb der Frist die Gesellschaft aufgelöst oder dem Erben die Stellung eines Kommanditisten eingeräumt, so haftet er für die bis dahin entstandenen gesellschaftsbezogenen Verbindlichkeiten nur nach Maßgabe der die Haftung des Erben für Verbindlichkeiten der Verlassenschaft betreffenden Vorschriften.
 
-`§ 1096 (2) ABGB.`  
-Der Pächter hat die gewöhnlichen Ausbesserungen der Wirtschaftsgebäude nur insoweit selbst zu tragen, als sie mit den Materialien des Gutes und den Diensten, die er nach der Beschaffenheit des Gutes zu fordern berechtigt ist, bestritten werden können.
+`§ 1205 (5) ABGB.`  
+Der Gesellschaftsvertrag kann die Anwendung der Vorschriften der Abs. 1 bis 4 nicht ausschließen; es kann jedoch für den Fall, dass der Erbe sein Verbleiben von der Einräumung der Stellung eines Kommanditisten abhängig macht, sein Gewinnanteil anders als der des Verstorbenen bestimmt werden.
+----
 
-### § 1097 ABGB
+----
+## 5. Abschnitt # Umwandlung
 
-`§ 1097 ABGB.`  
-Werden Ausbesserungen nötig, welche dem Bestandgeber obliegen, so ist der Bestandnehmer bei sonstigem Schadenersatz verpflichtet, dem Bestandgeber ohne Verzug Anzeige zu machen. Der Bestandnehmer wird als ein Geschäftsführer ohne Auftrag betrachtet, wenn er auf das Bestandstück einen dem Bestandgeber obliegenden Aufwand (§ 1036) oder einen nützlichen Aufwand (§ 1037) gemacht hat; er muß aber den Ersatz längstens binnen sechs Monaten nach Zurückstellung des Bestandstückes gerichtlich fordern, sonst ist die Klage erloschen.
+### § 1206 ABGB # Umwandlung in eine offene Gesellschaft oder Kommanditgesellschaft
 
-### § 1098 ABGB
+`§ 1206 (1) ABGB.`  
+Die Gesellschafter können die Errichtung einer offenen Gesellschaft oder einer Kommanditgesellschaft und zugleich die Einbringung des der Gesellschaft gewidmeten Vermögens in die offene Gesellschaft oder Kommanditgesellschaft beschließen. In diesem Fall geht das der Gesellschaft gewidmete Vermögen einschließlich aller Rechte und Pflichten mit der Eintragung der offenen Gesellschaft oder Kommanditgesellschaft im Firmenbuch im Weg der Gesamtrechtsnachfolge auf diese Gesellschaft über. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
 
-`§ 1098 ABGB.`  
-Mieter und Pächter sind berechtiget, die Miet- und Pachtstücke dem Vertrage gemäß durch die bestimmte Zeit zu gebrauchen und zu benützen, oder auch in Afterbestand zu geben, wenn es ohne Nachteil des Eigentümers geschehen kann und im Vertrage nicht ausdrücklich untersagt worden ist.
+`§ 1206 (2) ABGB.`  
+Die Umwandlung erfordert einen einstimmigen Gesellschafterbeschluss. Die Gesellschafter legen fest, ob die Gesellschaft in eine offene Gesellschaft oder in eine Kommanditgesellschaft umgewandelt werden soll. Sie bestimmen die für die Eintragung erforderlichen Merkmale der neuen Gesellschaft.
 
-### § 1099 ABGB # 2) Lasten;
+`§ 1206 (3) ABGB.`  
+Der Umwandlungsbeschluss enthält das von den geschäftsführenden Gesellschaftern aufgestellte Verzeichnis des Gesellschaftsvermögens (§ 1178 Abs. 1). Was im Vermögensverzeichnis nicht angeführt ist, verbleibt den Gesellschaftern wie bisher.
+----
 
-`§ 1099 ABGB.`  
-Bey Vermiethungen trägt alle Lasten und Abgaben der Vermiether. Bey eigentlichen Pachtungen, wenn sie in Pausch und Bogen geschehen, übernimmt der Pächter mit Ausschluß der eingetragenen Hypothecar-Lasten, alle übrige; wird aber die Pachtung nach einem Anschlage geschlossen, so trägt er jene Lasten, welche von dem Ertrage abgezogen worden sind, oder bloß von den Früchten, und nicht von dem Grunde selbst entrichtet werden müssen.
+----
+### § 1207 ABGB # Wirkung gegenüber Dritten
 
-### § 1100 ABGB # 3) Zins.
+`§ 1207 (1) ABGB.`  
+Die Gesellschafter haften nach der Umwandlung für die vorher begründeten Verbindlichkeiten auch als Gesellschafter bürgerlichen Rechts weiter.
 
-`§ 1100 ABGB.`  
-Ist nichts anderes vereinbart oder ortsüblich, so ist der Zins, wenn eine Sache auf ein oder mehrere Jahre in Bestand genommen wird, halbjährlich, bei einer kürzeren Bestandzeit hingegen nach Verlauf derselben zu entrichten. Bei der Raummiete ist der Zins monatlich, und zwar jeweils am Fünften des Monats, zu entrichten.
+`§ 1207 (2) ABGB.`  
+Solange ein Dritter von der Umwandlung nicht verständigt wurde und sie ihm auch sonst nicht bekannt geworden ist, kann er seine Leistung mit schuldbefreiender Wirkung so erbringen, als würde die Gesellschaft bürgerlichen Rechts noch bestehen.
+----
 
-### § 1101 ABGB
+----
+## 6. Abschnitt # Auflösung
 
-`§ 1101 (1) ABGB.`  
-Zur Sicherstellung des Bestandzinses hat der Vermieter einer unbeweglichen Sache das Pfandrecht an den eingebrachten, dem Mieter oder seinen mit ihm in gemeinschaftlichem Haushalte lebenden Familienmitgliedern gehörigen Einrichtungsstücken und Fahrnissen, soweit sie nicht der Pfändung entzogen sind. Das Pfandrecht erlischt, wenn die Gegenstände vor ihrer pfandweisen Beschreibung entfernt werden, es sei denn, daß dies infolge einer gerichtlichen Verfügung geschieht und der Vermieter binnen drei Tagen nach dem Vollzuge sein Recht bei Gericht anmeldet.
+### § 1208 ABGB # Auflösungsgründe
 
-`§ 1101 (2) ABGB.`  
-Zieht der Mieter aus oder werden Sachen verschleppt, ohne daß der Zins entrichtet oder sichergestellt ist, so kann der Vermieter die Sachen auf eigene Gefahr zurückbehalten, doch muß er binnen drei Tagen um die pfandweise Beschreibung ansuchen oder die Sachen herausgeben.
+`§ 1208 ABGB.`  
+Die Gesellschaft wird aufgelöst:  
+`§ 1208 Z 1 ABGB.`
+durch den Ablauf der Zeit, für die sie eingegangen ist;  
+`§ 1208 Z 2 ABGB.`
+durch Beschluss der Gesellschafter;  
+`§ 1208 Z 3 ABGB.`
+durch die rechtskräftige Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters, durch die Abänderung der Bezeichnung Sanierungsverfahren in Konkursverfahren oder durch die rechtskräftige Nichteröffnung oder Aufhebung des Insolvenzverfahrens mangels kostendeckenden Vermögens;  
+`§ 1208 Z 4 ABGB.`
+durch Kündigung oder durch gerichtliche Entscheidung;  
+`§ 1208 Z 5 ABGB.`
+durch den Tod eines Gesellschafters, sofern sich aus dem Gesellschaftsvertrag nichts anderes ergibt.
+----
 
-`§ 1101 (3) ABGB.`  
-Dem Verpächter eines Grundstückes steht in gleichem Umfange und mit gleicher Wirkung das Pfandrecht an dem auf dem Pachtgute vorhandenen Vieh und den Wirtschaftsgerätschaften und den darauf noch befindlichen Früchten zu.
+----
+### § 1209 ABGB # Kündigung durch einen Gesellschafter
 
-### § 1102 ABGB
+`§ 1209 (1) ABGB.`  
+Die Kündigung der Gesellschaft durch einen Gesellschafter kann, wenn die Gesellschaft für unbestimmte Zeit eingegangen ist, nur für den Schluss eines Geschäftsjahres erfolgen; sie muss mindestens sechs Monate vor diesem Zeitpunkt stattfinden.  
+(2) Eine Vereinbarung, durch die das Kündigungsrecht ausgeschlossen oder in anderer Weise als durch angemessene Verlängerung der Kündigungsfrist erschwert wird, ist nichtig. Dies gilt nicht für Innengesellschaften (§ 1176 Abs. 1).
+----
 
-`§ 1102 ABGB.`  
-Der Bestandgeber kann sich zwar die Vorausbezahlung des Bestandzinses bedingen. Hat aber der Bestandnehmer mehr als eine Fristzahlung voraus geleistet, so kann er dieselbe einem später eingetragenen Gläubiger oder neuen Eigentümer nur dann entgegensetzen, wenn sie in dem öffentlichen Buch ersichtlich gemacht ist.
+----
+### § 1210 ABGB # Auflösung durch gerichtliche Entscheidung
 
-### § 1103 ABGB # Zins in Früchten.
+`§ 1210 (1) ABGB.`  
+Aufgrund der Klage eines Gesellschafters kann die Auflösung der Gesellschaft vor dem Ablauf der für ihre Dauer bestimmten Zeit oder bei einer für unbestimmte Zeit eingegangenen Gesellschaft ohne Kündigung durch gerichtliche Entscheidung ausgesprochen werden, wenn ein wichtiger Grund vorliegt.
 
-`§ 1103 ABGB.`  
-Wenn der Eigenthümer sein Gut mit der Bedingung überläßt, daß der Uebernehmer die Wirthschaft betreiben, und dem Uebergeber einen auf die ganze Nutzung sich beziehenden Theil, z. B. ein Drittheil oder die Hälfte der Früchte geben solle; so entsteht kein Pacht-, sondern ein Gesellschaftsvertrag, welcher nach den darüber aufgestellten Regeln beurtheilet wird.
+`§ 1210 (2) ABGB.`  
+Ein solcher Grund ist insbesondere vorhanden, wenn ein anderer Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder aus grober Fahrlässigkeit verletzt oder wenn die Erfüllung einer solchen Verpflichtung unmöglich wird.
 
-### § 1104 ABGB # Fälle und Bedingungen einer Erlassung des Zinses.
+`§ 1210 (3) ABGB.`  
+Eine Vereinbarung, durch die das Recht des Gesellschafters, die Auflösung der Gesellschaft zu verlangen, ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
+----
 
-`§ 1104 ABGB.`  
-Wenn die in Bestand genommene Sache wegen außerordentlicher Zufälle, als Feuer, Krieg oder Seuche, großer Überschwemmungen, Wetterschläge, oder wegen gänzlichen Mißwachses gar nicht gebraucht oder benutzt werden kann, so ist der Bestandgeber zur Wiederherstellung nicht verpflichtet, doch ist auch kein Miet- oder Pachtzins zu entrichten.
+----
+### § 1211 ABGB # Gesellschaft auf Lebenszeit, Befristung
 
-### § 1105 ABGB
+`§ 1211 ABGB.`  
+Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablauf der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinn der §§ 1209 und 1210 einer für unbestimmte Zeit eingegangen Gesellschaft gleich.
+----
 
-`§ 1105 ABGB.`  
-Behält der Mieter trotz eines solchen Zufalls einen beschränkten Gebrauch des Mietstückes, so wird ihm auch ein verhältnismäßiger Teil des Mietzinses erlassen. Dem Pächter gebührt ein Erlaß an dem Pachtzinse, wenn durch außerordentliche Zufälle die Nutzungen des nur auf ein Jahr gepachteten Gutes um mehr als die Hälfte des gewöhnlichen Ertrages gefallen sind. Der Verpächter ist so viel zu erlassen schuldig, als durch diesen Abfall an dem Pachtzinse mangelt.
+----
+### § 1213 ABGB # Ausschluss statt Auflösung
 
-### § 1106 ABGB
+`§ 1213 (1) ABGB.`  
+Tritt in der Person eines Gesellschafters ein Umstand ein, der nach § 1210 für jeden der übrigen Gesellschafter das Recht begründet, die Auflösung der Gesellschaft zu verlangen, so kann vom Gericht aufgrund einer Klage aller übrigen Gesellschafter anstatt der Auflösung der Ausschluss dieses Gesellschafters aus der Gesellschaft ausgesprochen werden. Der Ausschließungsklage steht nicht entgegen, dass nach dem Ausschluss nur ein Gesellschafter verbleibt.
 
-`§ 1106 ABGB.`  
-Hat der Bestandnehmer unbestimmt alle Gefahren auf sich genommen; so werden darunter nur die Feuer-, und Wasserschäden und Wetterschläge verstanden. Andere außerordentliche Unglücksfälle kommen nicht auf seine Gefahr. Verbindet er sich aber ausdrücklich, auch alle andere außerordentliche Unglücksfälle zu tragen; so wird deßwegen noch nicht vermuthet, daß er auch für den zufälligen Untergang des ganzen Pachtstückes haften wolle.
+`§ 1213 (2) ABGB.`  
+Für die Auseinandersetzung zwischen den verbleibenden Gesellschaftern und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkt maßgeblich, in dem die Klage auf Ausschließung erhoben wird.
+----
 
-### § 1107 ABGB
+----
+### § 1214 ABGB # Fortsetzungsbeschluss
 
-`§ 1107 ABGB.`  
-Wird der Gebrauch oder Genuß des Bestandstückes nicht wegen dessen Beschädigung oder sonst entstandener Unbrauchbarkeit, sondern aus einem dem Bestandnehmer zugestoßenen Hindernisse oder Unglücksfalle vereitelt, oder waren zur Zeit der Beschädigung die Früchte von dem Grunde schon abgesondert, so fällt die widrige Ereignung dem Bestandnehmer allein zur Last. Er muß den Zins doch entrichten. Der Bestandgeber muß sich aber den ersparten Aufwand und die Vorteile, die er durch anderweitige Verwertung des Bestandstückes erlangt, anrechnen.
+`§ 1214 (1) ABGB.`  
+Die Gesellschafter können bei Auflösung der Gesellschaft deren Fortsetzung beschließen. In den Fällen des § 1208 Z 3, 4 oder 5, der Kündigung der Gesellschaft nach § 339 Abs. 1 EO und der Auflösung der Gesellschaft durch das Gericht (§ 1210 Abs. 1) steht dieses Recht den übrigen Gesellschaftern zu. In diesen Fällen scheidet der Gesellschafter, in dessen Person der Auflösungsgrund eingetreten ist, infolge des Fortsetzungsbeschlusses aus der Gesellschaft aus.
 
-### § 1108 ABGB
+`§ 1214 (2) ABGB.`  
+Im Fall der Kündigung nach § 339 Abs. 1 EO scheidet der betreffende Gesellschafter mit dem Ende des Geschäftsjahres aus der Gesellschaft aus; in den übrigen Fällen mit dem Wirksamwerden des Beschlusses.
 
-`§ 1108 ABGB.`  
-Behauptet der Pächter den Erlaß des ganzen Pachtzinses oder eines Theiles davon entweder aus dem Vertrage oder aus dem Gesetze; so muß er dem Verpächter ohne Zeitverlust den geschehenen Unglücksfall anzeigen, und die Begebenheit, wenn sie nicht landkündig ist, gerichtlich, oder wenigstens durch zwey sachkündige Männer erheben lassen; ohne diese Vorsicht wird er nicht angehört.
+`§ 1214 (3) ABGB.`  
+Im Fall der Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters ist Abs. 1 mit der Maßgabe anzuwenden, dass eine Erklärung gegenüber dem Masseverwalter zu erfolgen hat und der Schuldner mit dem Zeitpunkt der Konkurseröffnung als aus der Gesellschaft ausgeschieden gilt.
+----
 
-### § 1109 ABGB # 4) Zurückstellung;
+----
+### § 1215 ABGB # Übergang des Gesellschaftsvermögens
 
-`§ 1109 ABGB.`  
-Nach geendigtem Bestandvertrage muß der Bestandnehmer die Sache dem etwa errichteten Inventarium gemäß oder doch in dem Zustand, in welchem er sie übernommen hat, gepachtete Grundstücke aber mit Rücksicht auf die Jahreszeit, in welcher der Pacht geendigt worden ist, in gewöhnlicher wirtschaftlicher Kultur zurückstellen. Weder ein Zurückbehaltungsrecht oder die Einwendung der Kompensation noch selbst des früheren Eigentumsrechtes kann ihn vor der Zurückstellung schützen.
+`§ 1215 (1) ABGB.`  
+Verbleibt nur noch ein Gesellschafter, so erlischt die Gesellschaft ohne Liquidation. Das Gesellschaftsvermögen geht im Weg der Gesamtrechtsnachfolge auf diesen über. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen.
 
-### § 1110 ABGB
+`§ 1215 (2) ABGB.`  
+Der ausscheidende Gesellschafter ist gemäß §§ 1203 und 1204 abzufinden.
+----
 
-`§ 1110 ABGB.`  
-Wenn bey dem Bestandvertrage kein Inventarium errichtet worden ist; so tritt die nähmliche Vermuthung, wie bey der Fruchtnießung (§. 518) ein.
+----
+### § 1216 ABGB # Bekanntgabe der Auflösung der Außengesellschaft
 
-### § 1111 ABGB
+`§ 1216 ABGB.`  
+Die Auflösung einer Außengesellschaft ist, soweit möglich, den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf verkehrsübliche Weise bekannt zu machen.
+----
 
-`§ 1111 ABGB.`  
-Wird das Mieth- oder Pachtstück beschädiget, oder durch Mißbrauch abgenützt; so haften Miether und Pächter sowohl für ihr eigenes, als des Afterbestandnehmers Verschulden, nicht aber für den Zufall. Doch muß der Bestandgeber den Ersatz aus dieser Haftung längstens binnen Einem Jahre nach Zurückstellung des Bestandstückes gerichtlich fordern; sonst ist das Recht erloschen.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.022](BG.ABGB.022.md))*
+`END-OF-DATA-SET`

@@ -1,15 +1,16 @@
 # BG.StPO.005 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.005.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StPO.004](BG.StPO.004.md))*
+Der Nationalrat hat beschlossen:
 
+----
 ## 3. Abschnitt # Privatankläger und Subsidiarankläger
 
 ### § 71 StPO # Privatankläger
@@ -34,7 +35,9 @@ Im Hauptverfahren hat der Privatankläger grundsätzlich die gleichen Rechte wie
 
 `§ 71 (7) StPO.`  
 Kommt der Privatankläger nicht zur Hauptverhandlung oder stellt er nicht die erforderlichen Anträge, so wird angenommen, dass er auf die Verfolgung verzichtet habe. In diesen Fällen ist das Verfahren durch Beschluss einzustellen.
+----
 
+----
 ### § 72 StPO # Subsidiarankläger
 
 `§ 72 (1) StPO.`  
@@ -48,14 +51,18 @@ Tritt die Staatsanwaltschaft außerhalb der Hauptverhandlung von der Anklage zur
 
 `§ 72 (4) StPO.`  
 Der Subsidiarankläger hat im Hauptverfahren die gleichen Rechte wie der Privatankläger. Rechtsmittel gegen Urteile stehen ihm jedoch nur soweit zu, als der Privatbeteiligte sie zu erheben berechtigt ist. Die Staatsanwaltschaft kann sich jederzeit über den Gang des Verfahrens informieren und die Anklage wieder an sich ziehen; in diesem Fall stehen dem Subsidiarankläger wieder die Rechte des Privatbeteiligten zu.
+----
 
+----
 ## 4. Abschnitt # Vertreter
 
 ### § 73 StPO # Vertreter
 
 `§ 73 StPO.`  
 Vertreter stehen Haftungsbeteiligten, Opfern, Privatbeteiligten, Privatanklägern und Subsidiaranklägern beratend und unterstützend zur Seite. Sie üben, soweit in diesem Gesetz nichts anderes bestimmt wird, die Verfahrensrechte aus, die den Vertretenen zustehen. Als Vertreter kann eine zur Ausübung der Rechtsanwaltschaft berechtigte, eine nach § 25 Abs. 3 SPG anerkannte Opferschutzeinrichtung oder eine sonst geeignete Person bevollmächtigt werden.
+----
 
+----
 ## 5. Hauptstück # Gemeinsame Bestimmungen # 1. Abschnitt # Einsatz der Informationstechnik
 
 ### § 74 StPO # Verarbeitung personenbezogener Daten
@@ -65,7 +72,9 @@ Kriminalpolizei, Staatsanwaltschaft und Gericht dürfen im Rahmen ihrer Aufgaben
 
 `§ 74 (2) StPO.`  
 Kriminalpolizei, Staatsanwaltschaft und Gericht haben beim Verarbeiten personenbezogener Daten den Grundsatz der Gesetz- und Verhältnismäßigkeit (§ 5) zu beachten. Jedenfalls haben sie schutzwürdige Interessen der betroffenen Personen an der Geheimhaltung zu wahren und vertraulicher Behandlung personenbezogener Daten Vorrang einzuräumen. Bei der Verarbeitung besonderer Kategorien (§ 39 DSG) und strafrechtlich relevanter personenbezogener Daten haben sie angemessene Vorkehrungen zur Wahrung der Geheimhaltungsinteressen der betroffenen Personen zu treffen.
+----
 
+----
 ### § 75 StPO # Berichtigen, Löschen und Sperren personenbezogener Daten
 
 `§ 75 (1) StPO.`  
@@ -84,7 +93,9 @@ Nach sechzig Jahren ab den in Abs. 2 angeführten Zeitpunkten sind alle persone
 `§ 75 (4) StPO.`  
 Personenbezogene Daten, die ausschließlich auf Grund einer Identitätsfeststellung (§ 118), einer körperlichen Untersuchung (§ 123) oder einer molekulargenetischen Analyse (§ 124) gewonnen wurden, dürfen nur solange verarbeitet werden, als wegen der Art der Ausführung der Tat, der Persönlichkeit der betroffenen Person oder auf Grund anderer Umstände zu befürchten ist, dass diese Person eine strafbare Handlung mit nicht bloß leichten Folgen begehen werde. Wird der Angeklagte rechtskräftig freigesprochen oder das Ermittlungsverfahren ohne Vorbehalt späterer Verfolgung eingestellt, so sind diese personenbezogenen Daten zu löschen. Die §§ 73 und 74 SPG bleiben hievon unberührt.
 *(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 71/2014)*
+----
 
+----
 ## 2. Abschnitt # Amts- und Rechtshilfe, Akteneinsicht
 
 ### § 76 StPO # Amts- und Rechtshilfe
@@ -118,7 +129,9 @@ zum Zweck der Vorbeugung einer mit beträchtlicher Strafe bedrohten Handlung (§
 `§ 76 (6) Z 2 StPO.`
 zum Zweck des vorbeugenden Schutzes vor verfassungsgefährdenden Angriffen (§ 6 Abs. 2 Staatsschutz- und Nachrichtendienst-Gesetz – SNG, BGBl. I Nr. 5/2016) an die Teilnehmer einer Fallkonferenz Staatsschutz (§ 6a Abs. 1 SNG)  
 zu übermitteln. Dies hat jedenfalls dann zu unterbleiben, wenn im Einzelfall schutzwürdige Geheimhaltungsinteressen (§ 1 Abs. 1 DSG) die mit der Übermittlung verfolgten Zwecke überwiegen.
+----
 
+----
 ### § 77 StPO # Akteneinsicht
 
 `§ 77 (1) StPO.`  
@@ -129,7 +142,9 @@ Zum Zweck einer nicht personenbezogenen Auswertung für wissenschaftliche oder h
 
 `§ 77 (3) StPO.`  
 § 54 ist sinngemäß anzuwenden.
+----
 
+----
 ## 3. Abschnitt # Anzeigepflicht, Anzeige- und Anhalterecht
 
 ### § 78 StPO # Anzeigepflicht
@@ -146,12 +161,16 @@ wenn und solange hinreichende Gründe für die Annahme vorliegen, die Strafbarke
 
 `§ 78 (3) StPO.`  
 Die Behörde oder öffentliche Dienststelle hat jedenfalls alles zu unternehmen, was zum Schutz des Opfers oder anderer Personen vor Gefährdung notwendig ist; erforderlichenfalls ist auch in den Fällen des Abs. 2 Anzeige zu erstatten.
+----
 
+----
 ### § 79 StPO
 
 `§ 79 StPO.`  
 Soweit eine gesetzliche Anzeigepflicht besteht, sind der Kriminalpolizei, den Staatsanwaltschaften und den Gerichten zur Aufklärung einer Straftat einer bestimmten Person von Amts wegen oder auf Grund von Ersuchen Ablichtungen der Akten und sonstigen schriftlichen Aufzeichnungen zu übermitteln oder Akteneinsicht zu gewähren. Eine Berufung auf bestehende gesetzliche Verschwiegenheitspflichten ist insoweit unzulässig.
+----
 
+----
 ### § 80 StPO # Anzeige- und Anhalterecht
 
 `§ 80 (1) StPO.`  
@@ -159,7 +178,9 @@ Wer von der Begehung einer strafbaren Handlung Kenntnis erlangt, ist zur Anzeige
 
 `§ 80 (2) StPO.`  
 Wer auf Grund bestimmter Tatsachen annehmen kann, dass eine Person eine strafbare Handlung ausführe, unmittelbar zuvor ausgeführt habe oder dass wegen der Begehung einer strafbaren Handlung nach ihr gefahndet werde, ist berechtigt, diese Person auf verhältnismäßige Weise anzuhalten, jedoch zur unverzüglichen Anzeige an das nächst erreichbare Organ des öffentlichen Sicherheitsdienstes verpflichtet.
+----
 
+----
 ## 4. Abschnitt # Bekanntmachung, Zustellung und Fristen
 
 ### § 81 StPO # Bekanntmachung
@@ -172,7 +193,9 @@ Mündliche Verkündungen sind zu protokollieren. Jeder Person, der mündlich ver
 
 `§ 81 (3) StPO.`  
 Der Staatsanwaltschaft und dem Gericht können die Akten zur Einsicht in die Erledigung übermittelt werden. In diesem Fall hat die Staatsanwaltschaft oder das Gericht den Tag des Einlangens der Akten und den Tag der Einsichtnahme nachvollziehbar in den Akten zu beurkunden.
+----
 
+----
 ### § 82 StPO # Zustellung
 
 `§ 82 (1) StPO.`  
@@ -183,7 +206,9 @@ Die §§ 8, 9 Abs. 2 erster Satz und Abs. 3 sowie 10 des Zustellgesetzes und 
 
 `§ 82 (3) StPO.`  
 Zustellungen haben durch unmittelbare Übergabe oder durch Zustelldienste (§ 2 Zustellgesetz) zu erfolgen. Die Kriminalpolizei ist nur dann um eine Zustellung zu ersuchen, wenn dies im Interesse der Strafrechtspflege unbedingt erforderlich ist.
+----
 
+----
 ### § 83 StPO # Arten der Zustellung
 
 `§ 83 (1) StPO.`  
@@ -200,7 +225,9 @@ Soweit der Beschuldigte oder ein anderer Beteiligter des Verfahrens durch einen 
 
 `§ 83 (5) StPO.`  
 Opfern kann durch öffentliche Bekanntmachung zugestellt werden, soweit die Voraussetzungen des § 25 des Zustellgesetzes vorliegen oder schon deren Ausforschung oder die Aufforderung zur Namhaftmachung eines Zustellungsbevollmächtigten (§ 82 Abs. 2) einen dem Beschleunigungsgebot (§ 9) widerstreitenden Verfahrensaufwand bedeuten würde. Die Bekanntmachung ist in die Ediktsdatei (§ 89j Abs. 1 GOG) aufzunehmen, wodurch die Zustellung als bewirkt gilt.
+----
 
+----
 ### § 84 StPO # Fristen
 
 `§ 84 (1) StPO.`  
@@ -218,5 +245,108 @@ Samstage, Sonntage, gesetzliche Feiertage und der Karfreitag sind ohne Einfluss 
 
 `§ 84 (2) StPO.`  
 Soweit im Einzelnen nichts anderes bestimmt wird, können Rechtsmittel, Rechtsbehelfe und alle sonstigen Eingaben an die Kriminalpolizei, die Staatsanwaltschaft oder das Gericht schriftlich, per Telefax oder im elektronischen Rechtsverkehr (§ 89a GOG) eingebracht werden. Sofern sie an eine Frist gebunden sind, sind sie auch dann rechtzeitig, wenn sie innerhalb dieser Frist bei der Behörde eingebracht werden, die darüber zu entscheiden hat. Die näheren Vorschriften über die geschäftliche Behandlung solcher Eingaben werden durch Verordnung geregelt.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StPO.006](BG.StPO.006.md))*
+----
+## 5. Abschnitt # Beschlüsse und Beschwerden
+
+### § 85 StPO # Allgemeines
+
+`§ 85 StPO.`  
+Soweit im Einzelnen nicht etwas anderes bestimmt wird, gelten für Erledigungen von Anträgen gemäß § 101 Abs. 2, gerichtliche Beschlüsse (§ 35) und dagegen erhobene Beschwerden sowie das dabei einzuhaltende Verfahren die Bestimmungen dieses Abschnitts.
+----
+
+----
+### § 86 StPO # Beschlüsse
+
+`§ 86 (1) StPO.`  
+Ein Beschluss hat Spruch, Begründung und Rechtsmittelbelehrung zu enthalten. Der Spruch hat die Anordnung, Bewilligung oder Feststellung des Gerichts sowie die darauf bezogenen gesetzlichen Bestimmungen zu enthalten. Ein Beschluss über einen Einspruch oder einen Antrag hat darüber hinaus auszusprechen, ob und in welchem Umfang dem Begehren stattgegeben wird. In der Begründung sind die tatsächlichen Feststellungen und die rechtlichen Überlegungen auszuführen, die der Entscheidung zugrundegelegt werden. Die Rechtsmittelbelehrung hat die Mitteilung zu enthalten, ob ein Rechtsmittel zusteht, welchen Förmlichkeiten es zu genügen hat und innerhalb welcher Frist und wo es einzubringen ist.
+
+`§ 86 (2) StPO.`  
+Jeder Beschluss ist schriftlich auszufertigen und den zur Beschwerde Berechtigten (§ 87) zuzustellen. Ein Beschluss, mit dem das Verfahren eingestellt wird, ist überdies der Kriminalpolizei und dem Privatbeteiligten zu übermitteln.
+
+`§ 86 (3) StPO.`  
+Ausfertigung und Zustellung eines Beschlusses, der nach dem Gesetz mündlich zu verkünden ist, können unterbleiben, wenn die Berechtigten sogleich nach der Verkündung auf Beschwerde verzichten. In diesem Fall und soweit das Gesetz die Verkündung des Beschlusses in der Hauptverhandlung vorsieht, jedoch ein selbstständiges, die weitere Verhandlung hemmendes Rechtsmittel dagegen nicht zulässt, ist der wesentliche Inhalt des Beschlusses im Protokoll zu beurkunden.
+----
+
+----
+### § 87 StPO # Beschwerden
+
+`§ 87 (1) StPO.`  
+Gegen gerichtliche Beschlüsse steht der Staatsanwaltschaft, dem Beschuldigten, soweit dessen Interessen unmittelbar betroffen sind, und jeder anderen Person, der durch den Beschluss unmittelbar Rechte verweigert werden oder Pflichten entstehen oder die von einem Zwangsmittel betroffen ist, gegen einen Beschluss, mit dem das Verfahren eingestellt wird, auch dem Privatbeteiligten Beschwerde an das Rechtsmittelgericht zu, soweit das Gesetz im Einzelnen nichts anderes bestimmt.
+
+`§ 87 (2) StPO.`  
+Der Staatsanwaltschaft steht auch Beschwerde zu, wenn ihre Anträge gemäß § 101 Abs. 2 nicht erledigt wurden. Überdies steht jeder Person Beschwerde zu, die behauptet, durch das Gericht im Rahmen einer Beweisaufnahme in einem subjektiven Recht (§ 106 Abs. 1) verletzt worden zu sein.
+
+`§ 87 (3) StPO.`  
+Aufschiebende Wirkung hat eine Beschwerde nur dann, wenn das Gesetz dies ausdrücklich vorsieht.
+----
+
+----
+### § 88 StPO # Verfahren über Beschwerden
+
+`§ 88 (1) StPO.`  
+Die Beschwerde hat den Beschluss, Antrag oder Vorgang, auf den sie sich bezieht, anzuführen und anzugeben, worin die Verletzung des Rechts bestehen soll. Sie ist binnen vierzehn Tagen ab Bekanntmachung oder ab Kenntnis der Nichterledigung oder Verletzung des subjektiven Rechts schriftlich oder auf elektronischem Weg beim Gericht einzubringen oder im Fall der mündlichen Verkündung zu Protokoll zu geben.
+
+`§ 88 (2) StPO.`  
+Eine Beschwerde gegen einen Beschluss, mit dem eine Anordnung der Staatsanwaltschaft im Ermittlungsverfahren bewilligt wird, ist bei der Staatsanwaltschaft einzubringen. Die Staatsanwaltschaft hat die Beschwerde mit einer allfälligen Stellungnahme unverzüglich an das Gericht weiterzuleiten.
+
+`§ 88 (3) StPO.`  
+Die Beschwerde ist dem Rechtsmittelgericht ohne Verzug mit dem Akt vorzulegen. Der Gang des Verfahrens darf dadurch nicht aufgehalten werden; erforderlichenfalls sind Kopien jener Aktenteile, die zur Fortführung des Verfahrens erforderlich sind, zurückzubehalten.
+
+`§ 88 (4) StPO.`  
+Eine Beschwerde, die innerhalb der Frist beim Rechtsmittelgericht oder im Fall des Abs. 1 bei der Staatsanwaltschaft, im Fall des Abs. 2 beim Gericht eingebracht wird, gilt als rechtzeitig.
+----
+
+----
+### § 89 StPO # Verfahren vor dem Rechtsmittelgericht
+
+`§ 89 (1) StPO.`  
+Das Rechtsmittelgericht hat der zuständigen Staatsanwaltschaft Gelegenheit zur Stellungnahme zu geben (§ 24) und über die Beschwerde in nicht öffentlicher Sitzung mit Beschluss zu entscheiden.
+
+`§ 89 (2) StPO.`  
+Beschwerden, die verspätet oder von einer Person eingebracht wurden, der ein Rechtsmittel nicht zusteht (§ 87 Abs. 1), hat das Rechtsmittelgericht als unzulässig zurückzuweisen.
+
+`§ 89 (2a) StPO.`  
+Das Rechtsmittelgericht kann den Beschluss aufheben und an das Erstgericht zur neuen Entscheidung nach Verfahrensergänzung unter sinngemäßer Anwendung des § 293 Abs. 2 verweisen, wenn  
+`§ 89 (2a) Z 1 StPO.`
+das Erstgericht örtlich oder sachlich unzuständig oder nicht gehörig besetzt war oder wenn ein gesetzlich ausgeschlossener Richter (§§ 43 und 46) den Beschluss gefasst hat,  
+`§ 89 (2a) Z 2 StPO.`
+das Erstgericht zu Unrecht seine Unzuständigkeit ausgesprochen hat,  
+`§ 89 (2a) Z 3 StPO.`
+das Erstgericht die Anträge nicht erledigt oder zur Entscheidung in der Sache erforderliche Beweisaufnahmen unterlassen hat oder einer der im § 281 Abs. 1 Z 5 oder 5a angeführten Gründe vorliegt, oder  
+`§ 89 (2a) Z 4 StPO.`
+rechtliches Gehör (§ 6) nicht gewährt werden kann, weil der Gegenstand der Beschwerde auf die Bewilligung einer Anordnung gerichtet ist, deren Erfolg voraussetzt, dass sie dem Gegner der Beschwerde vor ihrer Durchführung nicht bekannt wird.
+
+`§ 89 (2b) StPO.`  
+Bei Beschwerden gegen die Bewilligung der Festnahme und gegen die Verhängung oder Fortsetzung der Untersuchungshaft hat das Rechtsmittelgericht stets in der Sache zu entscheiden und dabei gegebenenfalls auch Umstände zu berücksichtigen, die nach dem bekämpften Beschluss eingetreten oder bekannt geworden sind. Gleiches gilt, wenn es keinen Anlass findet, nach Abs. 2a vorzugehen. An die geltend gemachten Beschwerdepunkte ist das Rechtsmittelgericht nicht gebunden, zum Nachteil des Beschuldigten darf es jedoch niemals Beschlüsse ändern, gegen die nicht Beschwerde erhoben wurde.
+
+`§ 89 (3) StPO.`  
+Entscheidet das Oberlandesgericht, dass die Untersuchungshaft aufzuheben sei, und treffen die hiefür maßgebenden Umstände auch bei einem Mitbeschuldigten zu, der keine Beschwerde erhoben hat, so hat das Oberlandesgericht so vorzugehen, als ob eine solche Beschwerde vorläge.
+
+`§ 89 (4) StPO.`  
+Wird einer Beschwerde wegen Unzulässigkeit einer im 5. und 6. Abschnitt des 8. Hauptstückes (§§ 134 bis 143) geregelten Ermittlungsmaßnahme gemäß Abs. 2b Folge gegeben, so ist zugleich anzuordnen, dass alle durch diese Ermittlungsmaßnahme gewonnenen Ergebnisse zu vernichten sind.
+
+`§ 89 (5) StPO.`  
+Das Rechtsmittelgericht kann vom Erstgericht und von der Staatsanwaltschaft weitere Aufklärungen verlangen. Vor seiner Entscheidung hat es dem Gegner der Beschwerde Gelegenheit zur Äußerung binnen sieben Tagen einzuräumen es sei denn, dass ein Fall des Abs. 2a Z 4 vorliegt. § 24 zweiter Satz ist anzuwenden.
+
+`§ 89 (6) StPO.`  
+Gegen die Entscheidung des Rechtsmittelgerichts steht ein weiterer Rechtszug nicht zu.
+----
+
+----
+## 6. Abschnitt # Vollstreckung von Geld- und Freiheitsstrafen
+
+### § 90 StPO # Vollstreckung von Geld- und Freiheitsstrafen
+
+`§ 90 (1) StPO.`  
+Alle Geldstrafen fließen dem Bund zu.
+
+`§ 90 (2) StPO.`  
+Ist eine nach diesem Gesetz ausgesprochene Geldstrafe ganz oder teilweise uneinbringlich, so hat das Gericht sie in berücksichtigungswürdigen Fällen neu zu bemessen, sonst aber in eine Ersatzfreiheitsstrafe bis zu acht Tagen umzuwandeln.
+
+`§ 90 (3) StPO.`  
+Auf den Vollzug von Ersatzfreiheitsstrafen nach Abs. 2 und der in diesem Gesetz angedrohten Freiheitsstrafen und der Beugehaft sind die Bestimmungen des Strafvollzugsgesetzes über den Vollzug von Freiheitsstrafen, deren Strafzeit drei Monate nicht übersteigt, sinngemäß anzuwenden.
+----
+
+`END-OF-DATA-SET`

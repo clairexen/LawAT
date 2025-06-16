@@ -1,29 +1,32 @@
 # BG.AVG.001 — Allgemeines Verwaltungsverfahrensgesetz (AVG)
 **Typ:** Bundesgesetz  
-**Kurztitel:** AVG  
+**Kurztitel:** ['AVG']  
 **Langtitel:** Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.001.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Inhaltsverzeichnis: [BG.AVG.toc](BG.AVG.toc.md))*
-
 Der Nationalrat hat beschlossen:
 
+----
 ## I. Teil: Allgemeine Bestimmungen # 1. Abschnitt: Behörden
 
 ### § 1 AVG # Zuständigkeit
 
 `§ 1 AVG.`  
 Die sachliche und örtliche Zuständigkeit der Behörden richtet sich nach den Vorschriften über ihren Wirkungsbereich und nach den Verwaltungsvorschriften.
+----
 
+----
 ### § 2 AVG
 
 `§ 2 AVG.`  
 Enthalten die in § 1 erwähnten Vorschriften über die sachliche Zuständigkeit keine Bestimmungen, so sind in den Angelegenheiten der Bundesverwaltung die Bezirksverwaltungsbehörden sachlich zuständig.
+----
 
+----
 ### § 3 AVG
 
 `§ 3 AVG.`  
@@ -34,7 +37,9 @@ in Sachen, die sich auf ein unbewegliches Gut beziehen: nach der Lage des Gutes;
 in Sachen, die sich auf den Betrieb eines Unternehmens oder einer sonstigen dauernden Tätigkeit beziehen: nach dem Ort, an dem das Unternehmen betrieben oder die Tätigkeit ausgeübt wird oder werden soll;  
 `§ 3 Z 3 AVG.`
 in sonstigen Sachen: zunächst nach dem Hauptwohnsitz (Sitz) des Beteiligten, und zwar im Zweifelsfall des belangten oder verpflichteten Teiles, dann nach seinem Aufenthalt, dann nach seinem letzten Hauptwohnsitz (Sitz) im Inland, schließlich nach seinem letzten Aufenthalt im Inland, wenn aber keiner dieser Zuständigkeitsgründe in Betracht kommen kann oder Gefahr im Verzug ist, nach dem Anlaß zum Einschreiten; kann jedoch auch danach die Zuständigkeit nicht bestimmt werden, so ist die sachlich in Betracht kommende oberste Behörde zuständig.
+----
 
+----
 ### § 4 AVG
 
 `§ 4 (1) AVG.`  
@@ -45,7 +50,9 @@ Gelangen sie in der Sache zu keinem Einvernehmen, so geht die Zuständigkeit auf
 
 `§ 4 (3) AVG.`  
 Bei Gefahr im Verzug hat jede der in Abs. 1 bezeichneten Behörden in ihrem Amtsbereich die notwendigen Amtshandlungen unter gleichzeitiger Verständigung der anderen Behörden vorzunehmen.
+----
 
+----
 ### § 5 AVG
 
 `§ 5 (1) AVG.`  
@@ -53,7 +60,9 @@ Bei Gefahr im Verzug hat jede der in Abs. 1 bezeichneten Behörden in ihrem Amt
 
 `§ 5 (2) AVG.`  
 § 4 Abs. 3 gilt auch in diesem Fall.
+----
 
+----
 ### § 6 AVG
 
 `§ 6 (1) AVG.`  
@@ -61,7 +70,9 @@ Die Behörde hat ihre sachliche und örtliche Zuständigkeit von Amts wegen wahr
 
 `§ 6 (2) AVG.`  
 Durch Vereinbarung der Parteien kann die Zuständigkeit der Behörde weder begründet noch geändert werden.
+----
 
+----
 ### § 7 AVG # Befangenheit von Verwaltungsorganen
 
 `§ 7 (1) AVG.`  
@@ -77,19 +88,25 @@ im Berufungsverfahren, wenn sie an der Erlassung des angefochtenen Bescheides od
 
 `§ 7 (2) AVG.`  
 Bei Gefahr im Verzug hat, wenn die Vertretung durch ein anderes Verwaltungsorgan nicht sogleich bewirkt werden kann, auch das befangene Organ die unaufschiebbaren Amtshandlungen selbst vorzunehmen.
+----
 
+----
 ## 2. Abschnitt: Beteiligte und deren Vertreter
 
 ### § 8 AVG # Beteiligte; Parteien
 
 `§ 8 AVG.`  
 Personen, die eine Tätigkeit der Behörde in Anspruch nehmen oder auf die sich die Tätigkeit der Behörde bezieht, sind Beteiligte und, insoweit sie an der Sache vermöge eines Rechtsanspruches oder eines rechtlichen Interesses beteiligt sind, Parteien.
+----
 
+----
 ### § 9 AVG # Rechts- und Handlungsfähigkeit
 
 `§ 9 AVG.`  
 Insoweit die persönliche Rechts- und Handlungsfähigkeit von Beteiligten in Frage kommt, ist sie von der Behörde, wenn in den Verwaltungsvorschriften nicht anderes bestimmt ist, nach den Vorschriften des bürgerlichen Rechts zu beurteilen.
+----
 
+----
 ### § 10 AVG # Vertreter
 
 `§ 10 (1) AVG.`  
@@ -109,17 +126,23 @@ Die Beteiligten können sich eines Rechtsbeistandes bedienen und auch in seiner 
 
 `§ 10 (6) AVG.`  
 Die Bestellung eines Bevollmächtigten schließt nicht aus, daß der Vollmachtgeber im eigenen Namen Erklärungen abgibt.
+----
 
+----
 ### § 11 AVG
 
 `§ 11 AVG.`  
 Soll von Amts wegen oder auf Antrag gegen einen schutzberechtigten Beteiligten, der eines gesetzlichen Vertreters entbehrt, oder gegen eine Person, deren Aufenthalt unbekannt ist, eine Amtshandlung vorgenommen werden, so kann die Behörde, wenn die Wichtigkeit der Sache es erfordert, die Betrauung einer Person mit der Obsorge oder die Bestellung eines gerichtlichen Erwachsenenvertreters oder Kurators beim zuständigen Gericht (§ 109 JN) veranlassen.
+----
 
+----
 ### § 12 AVG
 
 `§ 12 AVG.`  
 Die Vorschriften dieses Bundesgesetzes über die Beteiligten sind auch auf deren gesetzliche Vertreter und Bevollmächtigte zu beziehen.
+----
 
+----
 ## 3. Abschnitt: Verkehr zwischen Behörden und Beteiligten
 
 ### § 13 AVG # Anbringen
@@ -150,12 +173,16 @@ Der verfahrenseinleitende Antrag kann in jeder Lage des Verfahrens bis zu einer 
 
 `§ 13 (9) AVG.`  
 *(Anm.: aufgehoben durch BGBl. I Nr. 10/2004)*
+----
 
+----
 ### § 13a AVG # Rechtsbelehrung
 
 `§ 13a AVG.`  
 Die Behörde hat Personen, die nicht durch berufsmäßige Parteienvertreter vertreten sind, die zur Vornahme ihrer Verfahrenshandlungen nötigen Anleitungen in der Regel mündlich zu geben und sie über die mit diesen Handlungen oder Unterlassungen unmittelbar verbundenen Rechtsfolgen zu belehren.
+----
 
+----
 ### § 14 AVG # Niederschriften
 
 `§ 14 (1) AVG.`  
@@ -184,12 +211,16 @@ Den beigezogenen Personen ist auf Verlangen eine Ausfertigung der Niederschrift 
 `§ 14 (7) AVG.`  
 Die Niederschrift oder Teile davon können unter Verwendung eines Schallträgers oder in Kurzschrift aufgenommen werden. Die Angaben gemäß Abs. 2, die Feststellung, daß für die übrigen Teile der Niederschrift ein Schallträger verwendet wird, und die Tatsache der Verkündung eines mündlichen Bescheides sind in Vollschrift festzuhalten. Die Aufzeichnung und die in Kurzschrift aufgenommenen Teile der Niederschrift sind unverzüglich in Vollschrift zu übertragen. Die beigezogenen Personen können bis zum Schluß der Amtshandlung die Zustellung einer Ausfertigung der Übertragung verlangen und binnen zwei Wochen ab Zustellung Einwendungen wegen behaupteter Unvollständigkeit oder Unrichtigkeit der Übertragung erheben. Wird eine solche Zustellung beantragt, so darf die Aufzeichnung frühestens einen Monat nach Ablauf der Einwendungsfrist, ansonsten frühestens einen Monat nach erfolgter Übertragung gelöscht werden.
 *(Anm.: Abs. 8 aufgehoben durch BGBl. I Nr. 10/2004)*
+----
 
+----
 ### § 15 AVG
 
 `§ 15 AVG.`  
 Soweit nicht Einwendungen erhoben wurden, liefert eine gemäß § 14 aufgenommene Niederschrift über den Verlauf und den Gegenstand der betreffenden Amtshandlung vollen Beweis. Der Gegenbeweis der Unrichtigkeit des bezeugten Vorganges bleibt zulässig.
+----
 
+----
 ### § 16 AVG # Aktenvermerke
 
 `§ 16 (1) AVG.`  
@@ -197,7 +228,9 @@ Amtliche Wahrnehmungen, mündliche oder telefonische Anbringen oder sonstige Mit
 
 `§ 16 (2) AVG.`  
 Der Aktenvermerk ist vom Amtsorgan unter Beisetzung des Datums zu unterschreiben; wurde der Aktenvermerk elektronisch erstellt, kann an die Stelle dieser Unterschrift ein Verfahren zum Nachweis der Identität (§ 2 Z 1 E-GovG) des Amtsorgans und der Authentizität (§ 2 Z 5 E-GovG) des Aktenvermerks treten.
+----
 
+----
 ### § 17 AVG # Akteneinsicht
 
 `§ 17 (1) AVG.`  
@@ -211,12 +244,16 @@ Von der Akteneinsicht sind Aktenbestandteile ausgenommen, insoweit deren Einsich
 
 `§ 17 (4) AVG.`  
 Die Verweigerung der Akteneinsicht gegenüber der Partei eines anhängigen Verfahrens erfolgt durch Verfahrensanordnung.
+----
 
+----
 ### § 17a AVG # Blinde und hochgradig sehbehinderte Beteiligte
 
 `§ 17a AVG.`  
 Blinden oder hochgradig sehbehinderten Beteiligten, die eines Vertreters entbehren, hat die Behörde auf Verlangen den Inhalt von Akten oder Aktenteilen durch Verlesung oder nach Maßgabe der vorhandenen technischen Möglichkeiten in sonst geeigneter Weise zur Kenntnis zu bringen.
+----
 
+----
 ### § 18 AVG # Erledigungen
 
 `§ 18 (1) AVG.`  
@@ -233,7 +270,9 @@ Jede schriftliche Ausfertigung hat die Bezeichnung der Behörde, das Datum der G
 
 `§ 18 (5) AVG.`  
 Für Bescheide gilt der III. Teil, für Ladungsbescheide überdies § 19.
+----
 
+----
 ### § 19 AVG # Ladungen
 
 `§ 19 (1) AVG.`  
@@ -247,10 +286,186 @@ Wer nicht durch Krankheit, Behinderung oder sonstige begründete Hindernisse vom
 
 `§ 19 (4) AVG.`  
 Eine einfache Ladung erfolgt durch Verfahrensanordnung.
+----
 
+----
 ### § 20 AVG
 
 `§ 20 AVG.`  
 Steht die zu ladende Person in einem öffentlichen Amt oder Dienst oder im Dienst eines dem öffentlichen Verkehr dienenden Unternehmens und muß voraussichtlich zur Wahrung der Sicherheit oder anderer öffentlicher Interessen eine Stellvertretung während der Verhinderung dieser Person eintreten, so ist gleichzeitig deren vorgesetzte Stelle von der Ladung zu benachrichtigen.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.AVG.002](BG.AVG.002.md))*
+----
+## 4. Abschnitt: Zustellungen
+
+### § 21 AVG
+
+`§ 21 AVG.`  
+Zustellungen sind nach dem Zustellgesetz – ZustG, BGBl. Nr. 200/1982, vorzunehmen.
+----
+
+----
+### § 22 AVG
+
+`§ 22 AVG.`  
+Wenn wichtige Gründe hiefür vorliegen, ist eine schriftliche Ausfertigung mit Zustellnachweis zuzustellen. Bei Vorliegen besonders wichtiger Gründe oder wenn es gesetzlich vorgesehen ist, ist die Zustellung zu eigenen Handen des Empfängers zu bewirken.
+----
+
+----
+### § 23 AVG
+
+`§ 23 AVG.`  
+*(Entfällt; Art. III Abs. 2 der Kundmachung)*
+----
+
+----
+### § 24 AVG
+
+`§ 24 AVG.`  
+*(Entfällt; Art. III Abs. 2 der Kundmachung)*
+----
+
+----
+### § 25 AVG
+
+`§ 25 AVG.`  
+*(Entfällt; Art. III Abs. 2 der Kundmachung)*
+----
+
+----
+### § 26 AVG
+
+`§ 26 AVG.`  
+*(Entfällt; Art. III Abs. 2 der Kundmachung)*
+----
+
+----
+### § 27 AVG
+
+`§ 27 AVG.`  
+*(Entfällt; Art. III Abs. 2 der Kundmachung)*
+----
+
+----
+### § 28 AVG
+
+`§ 28 AVG.`  
+*(Entfällt; Art. III Abs. 2 der Kundmachung)*
+----
+
+----
+### § 29 AVG
+
+`§ 29 AVG.`  
+*(Entfällt; Art. III Abs. 2 der Kundmachung)*
+----
+
+----
+### § 30 AVG
+
+`§ 30 AVG.`  
+*(Entfällt; Art. III Abs. 2 der Kundmachung)*
+----
+
+----
+### § 31 AVG
+
+`§ 31 AVG.`  
+*(Entfällt; Art. III Abs. 2 der Kundmachung)*
+----
+
+----
+## 5. Abschnitt: Fristen
+
+### § 32 AVG
+
+`§ 32 (1) AVG.`  
+Bei der Berechnung von Fristen, die nach Tagen bestimmt sind, wird der Tag nicht mitgerechnet, in den der Zeitpunkt oder das Ereignis fällt, wonach sich der Anfang der Frist richten soll.
+
+`§ 32 (2) AVG.`  
+Nach Wochen, Monaten oder Jahren bestimmte Fristen enden mit dem Ablauf desjenigen Tages der letzten Woche oder des letzten Monats, der durch seine Benennung oder Zahl dem Tag entspricht, an dem die Frist begonnen hat. Fehlt dieser Tag im letzten Monat, so endet die Frist mit Ablauf des letzten Tages dieses Monats.
+----
+
+----
+### § 33 AVG
+
+`§ 33 (1) AVG.`  
+Beginn und Lauf einer Frist werden durch Samstage, Sonntage oder gesetzliche Feiertage nicht behindert.
+
+`§ 33 (2) AVG.`  
+Fällt das Ende einer Frist auf einen Samstag, Sonntag, gesetzlichen Feiertag, Karfreitag oder 24. Dezember, so ist der nächste Tag, der nicht einer der vorgenannten Tage ist, als letzter Tag der Frist anzusehen.
+
+`§ 33 (3) AVG.`  
+In die Frist werden nicht eingerechnet:  
+`§ 33 (3) Z 1 AVG.`
+die Tage von der Übergabe an einen Zustelldienst im Sinne des § 2 Z 7 ZustG zur Übermittlung an die Behörde bis zum Einlangen bei dieser (Postlauf);  
+`§ 33 (3) Z 2 AVG.`
+die Zeit von der Versendung eines Anbringens im elektronischen Verkehr an die Behörde bis zum Einlangen bei dieser.
+
+`§ 33 (4) AVG.`  
+Durch Gesetz oder Verordnung festgesetzte Fristen können, wenn nicht ausdrücklich anderes bestimmt ist, nicht geändert werden.
+----
+
+----
+## 6. Abschnitt: Ordnungs- und Mutwillensstrafen
+
+### § 34 AVG # Ordnungsstrafen
+
+`§ 34 (1) AVG.`  
+Das Verwaltungsorgan, das eine Verhandlung, Vernehmung, einen Augenschein oder eine Beweisaufnahme leitet, hat für die Aufrechterhaltung der Ordnung und für die Wahrung des Anstandes zu sorgen.
+
+`§ 34 (2) AVG.`  
+Personen, die die Amtshandlung stören oder durch ungeziemendes Benehmen den Anstand verletzen, sind zu ermahnen; bleibt die Ermahnung erfolglos, so kann ihnen nach vorausgegangener Androhung das Wort entzogen, ihre Entfernung verfügt und ihnen die Bestellung eines Bevollmächtigten aufgetragen werden oder gegen sie eine Ordnungsstrafe bis 726 Euro verhängt werden.
+
+`§ 34 (3) AVG.`  
+Die gleichen Ordnungsstrafen können von der Behörde gegen Personen verhängt werden, die sich in schriftlichen Eingaben einer beleidigenden Schreibweise bedienen.
+
+`§ 34 (4) AVG.`  
+Gegen öffentliche Organe und gegen Bevollmächtigte, die zur berufsmäßigen Parteienvertretung befugt sind, ist, wenn sie einem Disziplinarrecht unterstehen, keine Ordnungsstrafe zu verhängen, sondern lediglich die Anzeige an die Disziplinarbehörde zu erstatten.
+
+`§ 34 (5) AVG.`  
+Die Verhängung einer Ordnungsstrafe schließt die strafgerichtliche Verfolgung wegen derselben Handlung nicht aus.
+----
+
+----
+### § 35 AVG # Mutwillensstrafen
+
+`§ 35 AVG.`  
+Gegen Personen, die offenbar mutwillig die Tätigkeit der Behörde in Anspruch nehmen oder in der Absicht einer Verschleppung der Angelegenheit unrichtige Angaben machen, kann die Behörde eine Mutwillensstrafe bis 726 Euro verhängen.
+----
+
+----
+### § 36 AVG # Widmung und Vollzug der Ordnungs- und Mutwillensstrafen
+
+`§ 36 AVG.`  
+Die Ordnungs- und Mutwillensstrafen fließen der Gebietskörperschaft zu, die den Aufwand der Behörde zu tragen hat. Die Bestimmungen des Verwaltungsstrafgesetzes über den Strafvollzug sind sinngemäß anzuwenden.
+----
+
+----
+## 7. Abschnitt: Begriffsbestimmungen
+
+### § 36a AVG # Angehörige
+
+`§ 36a (1) AVG.`  
+Angehörige im Sinne dieses Bundesgesetzes sind  
+`§ 36a (1) Z 1 AVG.`
+der Ehegatte,  
+`§ 36a (1) Z 2 AVG.`
+die Verwandten in gerader Linie und die Verwandten zweiten, dritten und vierten Grades in der Seitenlinie,  
+`§ 36a (1) Z 3 AVG.`
+die Verschwägerten in gerader Linie und die Verschwägerten zweiten Grades in der Seitenlinie,  
+`§ 36a (1) Z 4 AVG.`
+die Wahleltern und Wahlkinder und die Pflegeeltern und Pflegekinder,  
+`§ 36a (1) Z 5 AVG.`
+Personen, die miteinander in Lebensgemeinschaft leben, sowie Kinder und Enkel einer dieser Personen im Verhältnis zur anderen Person sowie  
+`§ 36a (1) Z 6 AVG.`
+der eingetragene Partner.
+
+`§ 36a (2) AVG.`  
+Abs. 1 Z 3 gilt für eingetragene Partner sinngemäß.
+
+`§ 36a (3) AVG.`  
+Die durch eine Ehe, Lebensgemeinschaft oder eingetragene Partnerschaft begründete Eigenschaft einer Person als Angehöriger bleibt aufrecht, auch wenn die Ehe, die Lebensgemeinschaft oder die eingetragene Partnerschaft nicht mehr besteht.
+----
+
+`END-OF-DATA-SET`

@@ -1,355 +1,316 @@
 # BG.StGB.004 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StGB  
+**Kurztitel:** ['StGB']  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.004.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StGB.003](BG.StGB.003.md))*
-
-## Achter Abschnitt # Begriffsbestimmungen
-
-### § 68 StGB # Zeitberechnung
-
-`§ 68 StGB.`  
-Jahre und Monate sind nach dem Kalender zu berechnen. Zeiträume werden so berechnet, daß der Tag, auf den das Ereignis fällt, mit dem der Zeitraum beginnt, nicht mitgezählt wird. Sie enden mit dem Ablauf des letzten Tages.
-
-### § 69 StGB # Öffentliche Begehung
-
-`§ 69 StGB.`  
-Eine Handlung wird nur dann öffentlich begangen, wenn sie unmittelbar von einem größeren Personenkreis wahrgenommen werden kann.
-
-### § 70 StGB # Gewerbsmäßige Begehung
-
-`§ 70 (1) StGB.`  
-Gewerbsmäßig begeht eine Tat, wer sie in der Absicht ausführt, sich durch ihre wiederkehrende Begehung längere Zeit hindurch ein nicht bloß geringfügiges fortlaufendes Einkommen zu verschaffen, und  
-`§ 70 (1) Z 1 StGB.`
-unter Einsatz besonderer Fähigkeiten oder Mittel handelt, die eine wiederkehrende Begehung nahelegen, oder  
-`§ 70 (1) Z 2 StGB.`
-zwei weitere solche Taten schon im Einzelnen geplant hat oder  
-`§ 70 (1) Z 3 StGB.`
-bereits zwei solche Taten begangen hat oder einmal wegen einer solchen Tat verurteilt worden ist.
-
-`§ 70 (2) StGB.`  
-Ein nicht bloß geringfügiges fortlaufendes Einkommen ist ein solches, das nach einer jährlichen Durchschnittsbetrachtung monatlich den Betrag von 400 Euro übersteigt.
-
-`§ 70 (3) StGB.`  
-Eine frühere Tat oder Verurteilung bleibt außer Betracht, wenn seit ihrer Begehung oder Rechtskraft bis zur folgenden Tat mehr als ein Jahr vergangen ist. In diese Frist werden Zeiten, in denen der Täter auf behördliche Anordnung angehalten worden ist, nicht eingerechnet.
-
-### § 71 StGB # Schädliche Neigung
-
-`§ 71 StGB.`  
-Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind.
-
-### § 72 StGB # Angehörige
-
-`§ 72 (1) StGB.`  
-Unter Angehörigen einer Person sind ihre Verwandten und Verschwägerten in gerader Linie, ihr Ehegatte oder eingetragener Partner und die Geschwister des Ehegatten oder eingetragenen Partners, ihre Geschwister und deren Ehegatten oder eingetragene Partner, Kinder und Enkel, die Geschwister ihrer Eltern und Großeltern, ihre Vettern und Basen, der Vater oder die Mutter ihres Kindes, ihre Wahl- und Pflegeeltern, ihre Wahl- und Pflegekinder, sowie Personen, über die ihnen die Obsorge zusteht oder unter deren Obsorge sie stehen, zu verstehen.
-
-`§ 72 (2) StGB.`  
-Personen, die miteinander in Lebensgemeinschaft leben, werden wie Angehörige behandelt, Kinder und Enkel einer von ihnen werden wie Angehörige auch der anderen behandelt.
-
-### § 73 StGB # Ausländische Verurteilungen
-
-`§ 73 StGB.`  
-Sofern das Gesetz nicht ausdrücklich auf die Verurteilung durch ein inländisches Gericht abstellt, stehen ausländische Verurteilungen inländischen gleich, wenn sie den Rechtsbrecher wegen einer Tat schuldig sprechen, die auch nach österreichischem Recht gerichtlich strafbar ist, und in einem den Grundsätzen des Art. 6 der europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, entsprechenden Verfahren ergangen sind.
+Der Nationalrat hat beschlossen:
 
-### § 74 StGB # Andere Begriffsbestimmungen
+----
+## Fünfter Abschnitt # Bedingte Strafnachsicht und bedingte Entlassung, Weisungen und Bewährungshilfe
 
-`§ 74 (1) StGB.`  
-Im Sinn dieses Bundesgesetzes ist  
-`§ 74 (1) Z 1 StGB.`
-unmündig: wer das vierzehnte Lebensjahr noch nicht vollendet hat;  
-*(Anm.: Z 2 aufgehoben durch BGBl. I Nr. 19/2001)*  
-`§ 74 (1) Z 3 StGB.`
-minderjährig: wer das achtzehnte Lebensjahr noch nicht vollendet hat;  
-`§ 74 (1) Z 4 StGB.`
-Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;  
-`§ 74 (1) Z 4a StGB.`
-Amtsträger: jeder, der  
-*(Anm.: lit. a aufgehoben durch BGBl. I Nr. 61/2012)*  
-`§ 74 (1) Z 4a lit. b StGB.`
-für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere Person des öffentlichen Rechts, ausgenommen eine Kirche oder Religionsgesellschaft, für einen anderen Staat oder für eine internationale Organisation Aufgaben der Gesetzgebung, Verwaltung oder Justiz als deren Organ oder Dienstnehmer wahrnimmt, Unionsbeamter (Z 4b) ist oder - für die Zwecke der §§ 168g, 304, 305, 307 und 307a - der öffentliche Aufgaben im Zusammenhang mit der Verwaltung der oder Entscheidungen über die finanziellen Interessen der Europäischen Union in Mitgliedstaaten oder Drittstaaten übertragen bekommen hat und diese Aufgaben wahrnimmt,  
-`§ 74 (1) Z 4a lit. c StGB.`
-sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder  
-`§ 74 (1) Z 4a lit. d) StGB.`
-als Organ oder Bediensteter eines Unternehmens tätig ist, an dem eine oder mehrere inländische oder ausländische Gebietskörperschaften unmittelbar oder mittelbar mit mindestens 50 vH des Stamm-, Grund- oder Eigenkapitals beteiligt sind, das eine solche Gebietskörperschaft allein oder gemeinsam mit anderen solchen Gebietskörperschaften betreibt oder durch finanzielle oder sonstige wirtschaftliche oder organisatorische Maßnahmen tatsächlich beherrscht, jedenfalls aber jedes Unternehmens, dessen Gebarung der Überprüfung durch den Rechnungshof, dem Rechnungshof gleichartige Einrichtungen der Länder oder einer vergleichbaren internationalen oder ausländischen Kontrolleinrichtung unterliegt.  
-`§ 74 (1) Z 4b StGB.`
-Unionsbeamter: jeder, der Beamter oder sonstiger Bediensteter im Sinne des Statuts der Beamten der Europäischen Union oder der Beschäftigungsbedingungen für die sonstigen Bediensteten der Europäischen Union ist oder der der Europäischen Union von den Mitgliedstaaten oder von öffentlichen oder privaten Einrichtungen zur Verfügung gestellt wird und dort mit Aufgaben betraut ist, die den Aufgaben der Beamten oder sonstigen Bediensteten der Europäischen Union entsprechen; Unionsbeamte sind auch, soweit das Statut nicht gilt, die Mitglieder der Organe, Einrichtungen und sonstigen Stellen der Europäischen Union, die nach dem Vertrag über die Arbeitsweise der Europäischen Union oder dem Vertrag über die Europäische Union errichtet wurden, und die Bediensteten dieser Einrichtungen;  
-`§ 74 (1) Z 4c StGB.`
-Schiedsrichter: jeder Entscheidungsträger eines Schiedsgerichtes im Sinne der §§ 577 ff ZPO mit Sitz im Inland oder noch nicht bestimmtem Sitz (österreichischer Schiedsrichter) oder mit Sitz im Ausland;  
-`§ 74 (1) Z 4d StGB.`
-Kandidat für ein Amt: jeder, der sich in einem Wahlkampf, einem Bewerbungs- oder Auswahlverfahren zu einer Funktion als Amtsträger (Z 4a) oder in einer vergleichbaren Position zur Erlangung einer von ihm angestrebten Funktion als oberstes Vollzugsorgan des Bundes oder eines Bundeslandes oder als Organ zur Kontrolle der Gesetzmäßigkeit der Vollziehung befindet, sofern die Erlangung der Funktion nicht gänzlich unwahrscheinlich ist;  
-`§ 74 (1) Z 5 StGB.`
-gefährliche Drohung: eine Drohung mit einer Verletzung an Körper, Freiheit, Ehre, Vermögen oder des höchstpersönlichen Lebensbereiches durch Zugänglichmachen, Bekanntgeben oder Veröffentlichen von Tatsachen oder Bildaufnahmen, die geeignet ist, dem Bedrohten mit Rücksicht auf die Verhältnisse und seine persönliche Beschaffenheit oder die Wichtigkeit des angedrohten Übels begründete Besorgnisse einzuflößen, ohne Unterschied, ob das angedrohte Übel gegen den Bedrohten selbst, gegen dessen Angehörige oder gegen andere unter seinen Schutz gestellte oder ihm persönlich nahestehende Personen gerichtet ist;  
-`§ 74 (1) Z 6 StGB.`
-Entgelt: jede einer Bewertung in Geld zugängliche Gegenleistung, auch wenn sie einer anderen Person zugute kommen soll als der, der sie angeboten oder gegeben wird;  
-`§ 74 (1) Z 7 StGB.`
-Urkunde: eine Schrift, die errichtet worden ist, um ein Recht oder ein Rechtsverhältnis zu begründen, abzuändern oder aufzuheben oder eine Tatsache von rechtlicher Bedeutung zu beweisen;  
-`§ 74 (1) Z 8 StGB.`
-Computersystem: sowohl einzelne als auch verbundene Vorrichtungen, die der automationsunterstützten Datenverarbeitung dienen;  
-`§ 74 (1) Z 9 StGB.`
-Prostitution: die Vornahme geschlechtlicher Handlungen oder die Duldung geschlechtlicher Handlungen am eigenen Körper gegen Entgelt durch  
-`§ 74 (1) Z 9 lit. a) StGB.`
-eine minderjährige Person oder  
-`§ 74 (1) Z 9 lit. b) StGB.`
-eine volljährige Person in der Absicht, sich oder einem Dritten durch die wiederkehrende Vornahme oder Duldung eine fortlaufende Einnahme zu verschaffen;  
-`§ 74 (1) Z 10 StGB.`
-unbares Zahlungsmittel: nichtkörperliche oder körperliche Vorrichtungen, Gegenstände oder Aufzeichnungen oder deren Kombination, ausgenommen gesetzliche Zahlungsmittel, die vor Fälschung oder missbräuchlicher Verwendung geschützt sind und die für sich oder in Verbindung mit einem oder mehreren Verfahren dem Inhaber oder Nutzer ermöglichen, Geld oder monetäre Werte zu übertragen, auch mittels digitaler Tauschmittel;  
-`§ 74 (1) Z 11 StGB.`
-kritische Infrastruktur: Einrichtungen, Anlagen, Systeme oder Teile davon, die eine wesentliche Bedeutung für die Aufrechterhaltung der öffentlichen Sicherheit, die Landesverteidigung oder den Schutz der Zivilbevölkerung gegen Kriegsgefahren, die Funktionsfähigkeit öffentlicher Informations- und Kommunikationstechnologie, die Verhütung oder Bekämpfung von Katastrophen, den öffentlichen Gesundheitsdienst, die öffentliche Versorgung mit Wasser, Energie sowie lebenswichtigen Gütern, das öffentliche Abfallentsorgungs- und Kanalwesen oder den öffentlichen Verkehr haben.
+### § 43 StGB # Bedingte Strafnachsicht
 
-`§ 74 (2) StGB.`  
-Im Sinne dieses Bundesgesetzes sind Daten sowohl personenbezogene und nicht personenbezogene Daten als auch Programme.
+`§ 43 (1) StGB.`  
+Wird ein Rechtsbrecher zu einer zwei Jahre nicht übersteigenden Freiheitsstrafe verurteilt, so hat ihm das Gericht die Strafe unter Bestimmung einer Probezeit von mindestens einem und höchstens drei Jahren bedingt nachzusehen, wenn anzunehmen ist, daß die bloße Androhung der Vollziehung allein oder in Verbindung mit anderen Maßnahmen genügen werde, um ihn von weiteren strafbaren Handlungen abzuhalten, und es nicht der Vollstreckung der Strafe bedarf, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken. Dabei sind insbesondere die Art der Tat, die Person des Rechtsbrechers, der Grad seiner Schuld, sein Vorleben und sein Verhalten nach der Tat zu berücksichtigen.
 
-`§ 74 (3) StGB.`  
-Unter leitenden Angestellten sind Angestellte eines Unternehmens, auf dessen Geschäftsführung ihnen ein maßgeblicher Einfluss zusteht, zu verstehen. Ihnen stehen Geschäftsführer, Mitglieder des Vorstands oder Aufsichtsrats und Prokuristen ohne Angestelltenverhältnis gleich.
+`§ 43 (2) StGB.`  
+Wird die Nachsicht nicht widerrufen, so ist die Strafe endgültig nachzusehen. Fristen, deren Lauf beginnt, sobald die Strafe vollstreckt ist, sind in einem solchen Fall ab Rechtskraft des Urteils zu berechnen.
 
-## Besonderer Teil # Erster Abschnitt # Strafbare Handlungen gegen Leib und Leben
+`§ 43 (3) StGB.`  
+Die bedingte Nachsicht (Abs. 1) einer wegen Vergewaltigung (§ 201) verhängten Strafe ist ausgeschlossen.
+----
 
-### § 75 StGB # Mord
+----
+### § 43a StGB # Bedingte Nachsicht eines Teiles der Strafe
 
-`§ 75 StGB.`  
-Wer einen anderen tötet, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
+`§ 43a (1) StGB.`  
+Wird auf eine Geldstrafe erkannt und treffen die Voraussetzungen des § 43 Abs. 1 auf einen Teil der Strafe zu, so hat das Gericht diesen Teil, höchstens jedoch drei Viertel davon, bedingt nachzusehen.
 
-### § 76 StGB # Totschlag
+`§ 43a (2) StGB.`  
+Wäre auf eine Freiheitsstrafe von mehr als sechs Monaten, aber nicht mehr als zwei Jahren zu erkennen und liegen nicht die Voraussetzungen für eine bedingte Nachsicht der ganzen Strafe vor, so ist an Stelle eines Teiles der Freiheitsstrafe auf eine Geldstrafe bis zu 720 Tagessätzen zu erkennen, wenn im Hinblick darauf der verbleibende Teil der Freiheitsstrafe nach § 43 Abs. 1 bedingt nachgesehen werden kann.
 
-`§ 76 StGB.`  
-Wer sich in einer allgemein begreiflichen heftigen Gemütsbewegung dazu hinreißen läßt, einen anderen zu töten, ist mit Freiheitsstrafe von fünf bis zu zehn Jahren zu bestrafen.
+`§ 43a (3) StGB.`  
+Wird auf eine Freiheitsstrafe von mehr als sechs Monaten, aber nicht mehr als zwei Jahren erkannt und kann, insbesondere im Hinblick auf frühere Verurteilungen des Rechtsbrechers, weder die ganze Strafe bedingt nachgesehen noch nach Abs. 2 vorgegangen werden, so ist unter den Voraussetzungen des § 43 Abs. 1 ein Teil der Strafe bedingt nachzusehen. Der nicht bedingt nachgesehene Teil der Strafe muß mindestens einen Monat und darf nicht mehr als ein Drittel der Strafe betragen.
 
-### § 77 StGB # Tötung auf Verlangen
+`§ 43a (4) StGB.`  
+Wird auf eine Freiheitsstrafe von mehr als zwei, aber nicht mehr als drei Jahren erkannt und besteht eine hohe Wahrscheinlichkeit, daß der Rechtsbrecher keine weiteren strafbaren Handlungen begehen werde, so ist unter den Voraussetzungen des § 43 Abs. 1 ein Teil der Strafe bedingt nachzusehen. Abs. 3 letzter Satz ist anzuwenden.
+*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 105/1997)*
+----
 
-`§ 77 StGB.`  
-Wer einen anderen auf dessen ernstliches und eindringliches Verlangen tötet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+----
+### § 44 StGB # Bedingte Nachsicht bei Zusammentreffen mehrerer Strafen
 
-### § 78 StGB # Mitwirkung an der Selbsttötung
+`§ 44 (1) StGB.`  
+Werden eine Freiheitsstrafe und eine Geldstrafe nebeneinander verhängt, so sind, wenn die Voraussetzungen dafür zutreffen, beide Strafen bedingt nachzusehen. Ist anzunehmen, daß der Vollzug einer dieser Strafen oder eines Teiles einer Strafe genügen werde, so können die §§ 43 und 43a auf jede der beiden Strafen angewendet werden.
 
-`§ 78 (1) StGB.`  
-Wer eine andere Person dazu verleitet, sich selbst zu töten, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+`§ 44 (2) StGB.`  
+Nebenstrafen und Rechtsfolgen der Verurteilung können unabhängig von der Hauptstrafe bedingt nachgesehen werden.
+----
 
-`§ 78 (2) StGB.`  
-Ebenso ist zu bestrafen, wer  
-`§ 78 (2) Z 1 StGB.`
-einer minderjährigen Person,  
-`§ 78 (2) Z 2 StGB.`
-einer Person aus einem verwerflichen Beweggrund oder  
-`§ 78 (2) Z 3 StGB.`
-einer Person, die nicht an einer Krankheit im Sinne des § 6 Abs. 3 des Sterbeverfügungsgesetzes (StVfG), BGBl. I Nr. 242/2021, leidet oder die nicht gemäß § 7 StVfG ärztlich aufgeklärt wurde,  
-dazu physisch Hilfe leistet, sich selbst zu töten.
+----
+### § 45 StGB # Bedingte Nachsicht von vorbeugenden Maßnahmen
 
-### § 79 StGB # Tötung eines Kindes bei der Geburt
+`§ 45 StGB.`  
+*(Anm.: Abs. 1 aufgehoben durch Art. 1 Z 11, BGBl. I Nr. 223/2022)*
 
-`§ 79 StGB.`  
-Eine Mutter, die das Kind während der Geburt oder solange sie noch unter der Einwirkung des Geburtsvorgangs steht, tötet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+`§ 45 (2) StGB.`  
+Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher darf nur zugleich mit der Strafe und nur dann bedingt nachgesehen werden, wenn anzunehmen ist, dass die bloße Androhung der Unterbringung in Verbindung mit einer oder mehreren der in den §§ 50 bis 52 vorgesehenen Maßnahmen genügen werde, um die Gewöhnung des Rechtsbrechers an berauschende Mittel oder Suchtmittel zu überwinden. Die für die bedingte Strafnachsicht bestimmte Probezeit gilt auch für die bedingte Nachsicht der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher.
 
-### § 80 StGB # Fahrlässige Tötung
+`§ 45 (3) StGB.`  
+§ 43 Abs. 2 gilt dem Sinne nach.
 
-`§ 80 (1) StGB.`  
-Wer fahrlässig den Tod eines anderen herbeiführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 45 (4) StGB.`  
+Die bedingte Nachsicht anderer vorbeugender Maßnahmen ist unzulässig.
+----
 
-`§ 80 (2) StGB.`  
-Hat die Tat den Tod mehrerer Menschen zur Folge, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+----
+### § 46 StGB # Bedingte Entlassung aus einer Freiheitsstrafe
 
-### § 81 StGB # Grob fahrlässige Tötung
+`§ 46 (1) StGB.`  
+Hat ein Verurteilter die Hälfte der im Urteil verhängten oder im Gnadenweg festgesetzten zeitlichen Freiheitsstrafe oder des nicht bedingt nachgesehenen Teils einer solchen Strafe, mindestens aber drei Monate verbüßt, so ist ihm der Rest der Strafe unter Bestimmung einer Probezeit bedingt nachzusehen, sobald unter Berücksichtigung der Wirkung von Maßnahmen gemäß §§ 50 bis 52 anzunehmen ist, dass der Verurteilte durch die bedingte Entlassung nicht weniger als durch die weitere Verbüßung der Strafe von der Begehung strafbarer Handlungen abgehalten wird.
 
-`§ 81 (1) StGB.`  
-Wer grob fahrlässig (§ 6 Abs. 3) den Tod eines anderen herbeiführt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+`§ 46 (2) StGB.`  
+Hat ein Verurteilter die Hälfte, aber noch nicht zwei Drittel einer Freiheitsstrafe verbüßt, so ist er trotz Vorliegens der Voraussetzungen nach Abs. 1 solange nicht bedingt zu entlassen, als es im Hinblick auf die Schwere der Tat ausnahmsweise des weiteren Vollzuges der Strafe bedarf, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken.
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 154/2015)*
 
-`§ 81 (2) StGB.`  
-Ebenso ist zu bestrafen, wer den Tod eines Menschen fahrlässig herbeiführt, nachdem er sich vor der Tat, wenn auch nur fahrlässig, durch Genuss von Alkohol oder den Gebrauch eines anderen berauschenden Mittels in einen die Zurechnungsfähigkeit nicht ausschließenden Rauschzustand versetzt hat, obwohl er vorhergesehen hat oder hätte vorhersehen können, dass ihm eine Tätigkeit bevorstehe, deren Vornahme in diesem Zustand eine Gefahr für das Leben, die Gesundheit oder die körperliche Sicherheit eines anderen herbeizuführen oder zu vergrößern geeignet sei.
+`§ 46 (4) StGB.`  
+Bei Entscheidungen nach Abs. 1 ist auf den Umstand Bedacht zu nehmen, inwieweit durch den bisherigen Vollzug der Strafe, insbesondere auch durch eine während des Vollzugs begonnene freiwillige Behandlung im Sinne von § 51 Abs. 3, die der Verurteilte in Freiheit fortzusetzen bereit ist, eine Änderung der Verhältnisse, unter denen die Tat begangen wurde, eingetreten ist, oder durch Maßnahmen gemäß §§ 50 bis 52 erreicht werden kann.
 
-`§ 81 (3) StGB.`  
-Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer grob fahrlässig (§ 6 Abs. 3) oder in dem in Abs. 2 bezeichneten Fall den Tod einer größeren Zahl von Menschen herbeiführt.
+`§ 46 (5) StGB.`  
+Verbüßt ein Verurteilter mehrere Freiheitsstrafen, Strafteile oder Strafreste, so ist ihre Gesamtdauer maßgebend, sofern sie unmittelbar nacheinander verbüßt oder lediglich durch Zeiten unterbrochen werden, in denen er sonst auf behördliche Anordnung angehalten wird. Nach spätestens fünfzehn Jahren ist jedoch in jedem Fall über die bedingte Entlassung zu entscheiden. Wurde auf eine Zusatzstrafe erkannt (§§ 31, 40), so sind auch bei unterbrochenem Vollzug alle Strafen maßgebend, auf die beim Ausspruch der Zusatzstrafe Bedacht zu nehmen war; wurde der Verurteilte aus einer dieser Strafen bedingt entlassen, so ist bei Berechnung des Stichtages (§ 46 Abs. 1 und 2) sowie der noch zu verbüßenden Strafzeit die tatsächlich in Haft zugebrachte Zeit in Abzug zu bringen. Eine frühere Strafe, zu der eine Zusatzstrafe verhängt wurde, hat jedoch außer Betracht zu bleiben, soweit der Verurteilte daraus vor Verbüßung der Hälfte der Strafzeit entlassen wurde.
 
-### § 82 StGB # Aussetzung
+`§ 46 (6) StGB.`  
+Ein zu einer lebenslangen Freiheitsstrafe Verurteilter darf nur bedingt entlassen werden, wenn er mindestens fünfzehn Jahre verbüßt hat und anzunehmen ist, dass er keine weiteren strafbaren Handlungen begehen werde.
+----
 
-`§ 82 (1) StGB.`  
-Wer das Leben eines anderen dadurch gefährdet, daß er ihn in eine hilflose Lage bringt und in dieser Lage im Stich läßt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+----
+### § 47 StGB # Entlassung aus einer mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme
 
-`§ 82 (2) StGB.`  
-Ebenso ist zu bestrafen, wer das Leben eines anderen, der unter seiner Obhut steht oder dem er sonst beizustehen verpflichtet ist (§ 2), dadurch gefährdet, daß er ihn in einer hilflosen Lage im Stich läßt.
+`§ 47 (1) StGB.`  
+Aus einem forensisch-therapeutischen Zentrum sind die Eingewiesenen stets nur unter Bestimmung einer Probezeit bedingt zu entlassen. Aus einer Anstalt für entwöhnungsbedürftige Rechtsbrecher und aus einer Anstalt für gefährliche Rückfallstäter sind die Eingewiesenen unbedingt zu entlassen, wenn die Anhaltezeit (§ 25 Abs. 1) abgelaufen ist oder im Fall der Anhaltung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher eine Fortsetzung oder Ergänzung der Entwöhnungsbehandlung keinen Erfolg verspräche, sonst unter Bestimmung einer Probezeit nur bedingt.
 
-`§ 82 (3) StGB.`  
-Hat die Tat den Tod des Gefährdeten zur Folge, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+`§ 47 (2) StGB.`  
+Die bedingte Entlassung aus einer mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme ist zu verfügen, wenn nach der Aufführung und der Entwicklung des Angehaltenen in der Anstalt, nach seiner Person, seinem Gesundheitszustand, seinem Vorleben und nach seinen Aussichten auf ein redliches Fortkommen anzunehmen ist, daß die Gefährlichkeit, gegen die sich die vorbeugende Maßnahme richtet, nicht mehr besteht.
 
-### § 83 StGB # Körperverletzung
+`§ 47 (3) StGB.`  
+Wird der Rechtsbrecher aus einem forensisch-therapeutischen Zentrum oder aus einer Anstalt für entwöhnungsbedürftige Rechtsbrecher vor Ablauf der Strafzeit bedingt oder unbedingt entlassen, so ist nach § 24 Abs. 1 letzter Satz vorzugehen.
 
-`§ 83 (1) StGB.`  
-Wer einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 47 (4) StGB.`  
+Die Entscheidung, daß die Überstellung des Rechtsbrechers in die Anstalt für gefährliche Rückfallstäter nicht mehr notwendig ist (§ 24 Abs. 2), steht einer bedingten Entlassung aus der Anstalt für gefährliche Rückfallstäter gleich.
+----
 
-`§ 83 (2) StGB.`  
-Ebenso ist zu bestrafen, wer einen anderen am Körper mißhandelt und dadurch fahrlässig verletzt oder an der Gesundheit schädigt.
+----
+### § 48 StGB # Probezeiten
 
-`§ 83 (3) StGB.`  
-Wer eine Körperverletzung nach Abs. 1 oder 2 an einer Person, die  
-`§ 83 (3) Z 1 StGB.`
-mit der Kontrolle der Einhaltung der Beförderungsbedingungen oder der Lenkung eines Beförderungsmittels einer dem öffentlichen Verkehr dienenden Anstalt betraut ist,  
-`§ 83 (3) Z 2 StGB.`
-in einem gesetzlich geregelten Gesundheitsberuf, in einer anerkannten Rettungsorganisation oder in der Verwaltung im Bereich eines solchen Berufes, insbesondere einer Krankenanstalt, oder als Organ der Feuerwehr tätig ist,  
-während oder wegen der Ausübung ihrer Tätigkeit begeht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+`§ 48 (1) StGB.`  
+Die Probezeit bei der bedingten Entlassung aus einer Freiheitsstrafe ist mit mindestens einem Jahr und höchstens drei Jahren zu bemessen. Erweist sich die Fortsetzung einer Behandlung im Sinne von § 51 Abs. 3, zu der sich der Verurteilte bereit erklärt hat, als notwendig, um eine bedingte Entlassung rechtfertigen zu können (§ 46 Abs. 4), so ist die Probezeit mit mindestens einem und höchstens fünf Jahren zu bemessen. Übersteigt der bedingt erlassene Strafrest drei Jahre oder erfolgt die bedingte Entlassung aus einer Freiheitsstrafe wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung von mehr als einem Jahr, so beträgt die Probezeit fünf Jahre. Bei der bedingten Entlassung aus einer lebenslangen Freiheitsstrafe beträgt die Probezeit 10 Jahre.
+
+`§ 48 (2) StGB.`  
+Die Probezeit bei der Entlassung aus einem forensisch-therapeutischen Zentrum und aus einer Anstalt für gefährliche Rückfallstäter beträgt zehn Jahre, ist die der Unterbringung zugrunde liegende strafbare Handlung aber mit keiner strengeren Strafe als einer Freiheitsstrafe von zehn Jahren bedroht, nur fünf Jahre. Bei der Entlassung aus einer Anstalt für entwöhnungsbedürftige Rechtsbrecher ist die Probezeit mindestens mit einem und höchstens mit fünf Jahren zu bestimmen.
+
+`§ 48 (3) StGB.`  
+Wird die bedingte Nachsicht des Strafrestes oder die bedingte Entlassung aus einer mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme nicht widerrufen, so ist sie für endgültig zu erklären. Fristen, deren Lauf beginnt, sobald die Strafe vollstreckt oder die vorbeugende Maßnahme vollzogen ist, sind in einem solchen Fall ab der bedingten Entlassung aus der Strafe oder aus der vorbeugenden Maßnahme zu berechnen.
+----
+
+----
+### § 49 StGB # Berechnung der Probezeiten
+
+`§ 49 StGB.`  
+Die Probezeit beginnt mit der Rechtskraft der Entscheidung, mit der die bedingte Nachsicht (§§ 43 bis 45) oder die bedingte Entlassung (§§ 46 und 47) ausgesprochen worden ist. Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, werden in die Probezeit nicht eingerechnet. Wird ein Verurteilter aus dem nicht bedingt nachgesehenen Teil einer Freiheitsstrafe vor Ablauf der für den bedingt nachgesehenen Strafteil bestimmten Probezeit bedingt entlassen, so laufen beide Probezeiten nur gemeinsam ab.
+----
+
+----
+### § 50 StGB # Erteilung von Weisungen und Anordnung der Bewährungshilfe
+
+`§ 50 (1) StGB.`  
+Wird einem Rechtsbrecher die Strafe oder die mit Freiheitsentziehung verbundene vorbeugende Maßnahme bedingt nachgesehen oder wird er aus einer Freiheitsstrafe oder einer mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme bedingt entlassen, so hat das Gericht ihm Weisungen zu erteilen oder Bewährungshilfe anzuordnen, soweit das notwendig oder zweckmäßig ist, um den Rechtsbrecher von weiteren mit Strafe bedrohten Handlungen abzuhalten. Dasselbe gilt, wenn der Ausspruch der Strafe für eine Probezeit vorbehalten wird (§ 13 des Jugendgerichtsgesetzes 1988) oder die Einleitung des Vollzuges einer Freiheitsstrafe, die wegen einer vor Vollendung des einundzwanzigsten Lebensjahres begangenen Tat verhängt worden ist, nach § 6 Abs. 1 Z 2 lit. a des Strafvollzugsgesetzes oder nach § 52 des Jugendgerichtsgesetzes 1988 für die Dauer von mehr als drei Monaten aufgeschoben wird.
+
+`§ 50 (2) StGB.`  
+Bewährungshilfe ist stets anzuordnen, wenn ein Verurteilter  
+`§ 50 (2) Z 1 StGB.`
+vor Verbüßung von zwei Dritteln einer Freiheitsstrafe (§ 46 Abs. 1),  
+`§ 50 (2) Z 2 StGB.`
+aus einer Freiheitsstrafe wegen einer vor Vollendung des einundzwanzigsten Lebensjahres begangenen Tat,  
+`§ 50 (2) Z 2a StGB.`
+aus einer Freiheitsstrafe wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung,  
+`§ 50 (2) Z 3 StGB.`
+aus einer mehr als fünfjährigen Freiheitsstrafe oder  
+`§ 50 (2) Z 4 StGB.`
+aus lebenslanger Freiheitsstrafe  
+bedingt entlassen wird. In den Fällen der Z 1 bis 2 ist von der Anordnung der Bewährungshilfe nur abzusehen, wenn nach der Art der Tat, der Person des Rechtsbrechers und seiner Entwicklung angenommen werden kann, dass er auch ohne eine solche Anordnung keine weiteren strafbaren Handlungen begehen werde.
+
+`§ 50 (3) StGB.`  
+Weisungen sowie die Anordnung der Bewährungshilfe gelten für die Dauer des vom Gericht bestimmten Zeitraums, höchstens jedoch bis zum Ende der Probezeit, soweit sie nicht vorher aufgehoben oder gegenstandslos werden. Im Fall des Abs. 2 Z 3 ist Bewährungshilfe zumindest für das erste Jahr und im Fall der Abs. 2 Z 4 zumindest für die ersten drei Jahre nach der Entlassung anzuordnen.
+----
+
+----
+### § 51 StGB # Weisungen
+
+`§ 51 (1) StGB.`  
+Als Weisungen kommen Gebote und Verbote in Betracht, deren Beachtung geeignet scheint, den Rechtsbrecher von weiteren mit Strafe bedrohten Handlungen abzuhalten. Weisungen, die einen unzumutbaren Eingriff in die Persönlichkeitsrechte oder in die Lebensführung des Rechtsbrechers darstellen würden, sind unzulässig.
+
+`§ 51 (2) StGB.`  
+Dem Rechtsbrecher kann insbesondere aufgetragen werden, an einem bestimmten Ort, bei einer bestimmten Familie oder in einem bestimmten Heim zu wohnen, eine bestimmte Wohnung, bestimmte Orte oder einen bestimmten Umgang zu meiden, sich alkoholischer Getränke zu enthalten, einen geeigneten, seinen Kenntnissen, Fähigkeiten und Neigungen tunlichst entsprechenden Beruf zu erlernen oder auszuüben, jeden Wechsel seines Aufenthaltsortes oder Arbeitsplatzes anzuzeigen und sich in bestimmten Zeitabständen bei Gericht oder einer anderen Stelle zu melden. Den aus seiner Tat entstandenen Schaden nach Kräften gutzumachen, kann dem Rechtsbrecher auch dann aufgetragen werden, wenn das von Einfluß darauf ist, ob es der Vollstreckung der Strafe bedarf, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken.
+
+`§ 51 (3) StGB.`  
+Mit seiner Zustimmung kann dem Rechtsbrecher unter den Voraussetzungen des Abs. 1 auch die Weisung erteilt werden, sich einer Entwöhnungsbehandlung, einer psychotherapeutischen oder
+
+einer medizinischen Behandlung zu unterziehen. Die Weisung, sich
+
+einer medizinischen Behandlung zu unterziehen, die einen operativen Eingriff umfaßt, darf jedoch auch mit Zustimmung des Rechtsbrechers nicht erteilt werden.
+
+`§ 51 (4) StGB.`  
+Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach § 50 geboten scheint.
+
+`§ 51 (5) StGB.`  
+Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 45 gilt § 179a des Strafvollzugsgesetzes (StVG), BGBl. Nr. 144/1969, sinngemäß.
+----
+
+----
+### § 52 StGB # Bewährungshilfe
+
+`§ 52 (1) StGB.`  
+Ordnet das Gericht die Bewährungshilfe an, so hat der Leiter der zuständigen Geschäftsstelle für Bewährungshilfe dem Rechtsbrecher einen Bewährungshelfer zu bestellen und diesen dem Gericht bekanntzugeben. Der Bewährungshelfer hat sich mit Rat und Tat darum zu bemühen, dem Rechtsbrecher zu einer Lebensführung und Einstellung zu verhelfen, die diesen in Zukunft von der Begehung mit Strafe bedrohter Handlungen abzuhalten vermag. Soweit es dazu nötig ist, hat er ihn auf geeignete Weise bei seinen Bemühungen zu unterstützen, wesentliche Lebensbedürfnisse zu decken, insbesondere Unterkunft und Arbeit zu finden.
 
-### § 84 StGB # Schwere Körperverletzung
+`§ 52 (2) StGB.`  
+Der Bewährungshelfer hat dem Gericht über seine Tätigkeit und seine Wahrnehmungen zu berichten,  
+`§ 52 (2) Z 1 StGB.`
+soweit dies das Gericht verlangt oder es erforderlich oder zweckmäßig ist, um den Zweck der Bewährungshilfe zu erreichen,  
+`§ 52 (2) Z 2 StGB.`
+wenn Anlaß besteht, die Bewährungshilfe aufzuheben,  
+`§ 52 (2) Z 3 StGB.`
+in jedem Fall aber sechs Monate nach Anordnung der Bewährungshilfe sowie bei deren Beendigung,  
+`§ 52 (2) Z 4 StGB.`
+während der gerichtlichen Aufsicht (§ 52a Abs. 2).
 
-`§ 84 (1) StGB.`  
-Wer einen anderen am Körper misshandelt und dadurch fahrlässig eine länger als vierundzwanzig Tage dauernde Gesundheitsschädigung oder Berufsunfähigkeit oder eine an sich schwere Verletzung oder Gesundheitsschädigung zufügt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+`§ 52 (3) StGB.`  
+Das Gericht hat während der Probezeit die Bewährungshilfe auch nachträglich anzuordnen oder sie aufzuheben, soweit dies nach § 50 geboten erscheint. In den Fällen des § 50 Abs. 2 Z 1 bis 3 ist jedenfalls nach Ablauf eines Jahres seit der Entlassung nach Einholung eines Berichtes des Bewährungshelfers und einer Stellungnahme des Leiters der zuständigen Geschäftsstelle für Bewährungshilfe zu entscheiden, ob die Anordnung der Bewährungshilfe weiterhin notwendig oder zweckmäßig ist.
+----
 
-`§ 84 (2) StGB.`  
-Ebenso ist zu bestrafen, wer eine Körperverletzung (§ 83 Abs. 1 oder Abs. 2) an einem Beamten, Zeugen oder Sachverständigen während oder wegen der Vollziehung seiner Aufgaben oder der Erfüllung seiner Pflichten begeht.
+----
+### § 52a StGB # Gerichtliche Aufsicht bei Sexualstraftätern und sexuell motivierten Gewalttätern
 
-`§ 84 (3) StGB.`  
-Ebenso ist der Täter zu bestrafen, wenn er mindestens drei selbstständige Taten (§ 83 Abs. 1 oder Abs. 2) ohne begreiflichen Anlass und unter Anwendung erheblicher Gewalt begangen hat.
+`§ 52a (1) StGB.`  
+Wird ein Rechtsbrecher, der wegen einer strafbaren Handlung  
+`§ 52a (1) Z 1 StGB.`
+gegen die sexuelle Integrität und Selbstbestimmung oder  
+`§ 52a (1) Z 2 StGB.`
+gegen Leib und Leben oder die Freiheit, wenn diese Handlung begangen wurde, um sich geschlechtlich zu erregen oder zu befriedigen,  
+zu einer Freiheitsstrafe verurteilt oder gegen den wegen einer solchen Handlung eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme angeordnet worden ist, bedingt entlassen, so ist er für die Dauer der Probezeit unter gerichtliche Aufsicht zu stellen, soweit die Überwachung des Verhaltens des Rechtsbrechers (Abs. 2), insbesondere hinsichtlich der Befolgung einer Weisung gemäß § 51 Abs. 3 oder einer Weisung, bestimmte Tätigkeiten nicht auszuüben, notwendig oder zweckmäßig ist, ihn von weiteren solchen mit Strafe bedrohten Handlungen abzuhalten.
 
-`§ 84 (4) StGB.`  
-Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Körperverletzung oder Gesundheitsschädigung (Abs. 1) des anderen herbeiführt.
+`§ 52a (2) StGB.`  
+Das Gericht hat während der gerichtlichen Aufsicht das Verhalten des Rechtsbrechers und die Erfüllung der Weisungen mit Unterstützung der Bewährungshilfe, in geeigneten Fällen unter Betrauung der Sicherheitsbehörden oder anderer geeigneter Einrichtungen, zu überwachen. Die mit der Überwachung betrauten Stellen haben dem Gericht über die von ihnen gesetzten Maßnahmen und ihre Wahrnehmungen zu berichten. Der Bewährungshelfer hat dem Gericht bei Anordnung der gerichtlichen Aufsicht, soweit dies das Gericht verlangt oder es erforderlich oder zweckmäßig ist, in jedem Fall aber in der ersten Hälfte der gerichtlichen Aufsicht mindestens alle drei, in der zweiten Hälfte mindestens alle sechs Monate zu berichten.
 
-`§ 84 (5) StGB.`  
-Ebenso ist zu bestrafen, wer eine Körperverletzung (§ 83 Abs. 1 oder Abs. 2) begeht  
-`§ 84 (5) Z 1 StGB.`
-auf eine Weise, mit der Lebensgefahr verbunden ist,  
-`§ 84 (5) Z 2 StGB.`
-mit mindestens zwei Personen in verabredeter Verbindung oder  
-`§ 84 (5) Z 3 StGB.`
-unter Zufügung besonderer Qualen.
+`§ 52a (3) StGB.`  
+Die Organe des öffentlichen Sicherheitsdienstes sind zur Erfüllung der den Sicherheitsbehörden gemäß Abs. 2 übertragenen Aufgaben zur Feststellung der Identität einer Person nach den Vorschriften des Sicherheitspolizeigesetzes ermächtigt, wenn aufgrund bestimmter Tatsachen anzunehmen ist, sie stehe unter gerichtlicher Aufsicht und habe die ihr erteilten Weisungen nicht befolgt oder sonst ein Verhalten gesetzt, das mit den Zwecken der gerichtlichen Aufsicht nicht vereinbar ist.
+----
 
-### § 85 StGB # Körperverletzung mit schweren Dauerfolgen
+----
+### § 52b StGB # Gerichtliche Aufsicht bei staatsfeindlichen und terroristischen Strafsachen sowie Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen
 
-`§ 85 (1) StGB.`  
-Wer einen anderen am Körper misshandelt und dadurch fahrlässig für immer oder für lange Zeit  
-`§ 85 (1) Z 1 StGB.`
-den Verlust oder eine schwere Schädigung der Sprache, des Sehvermögens, des Gehörs oder der Fortpflanzungsfähigkeit,  
-`§ 85 (1) Z 2 StGB.`
-eine erhebliche Verstümmelung oder eine auffallende Verunstaltung,  
-`§ 85 (1) Z 2a StGB.`
-eine Verstümmelung oder sonstige Verletzung der Genitalien, die geeignet ist, eine nachhaltige Beeinträchtigung des sexuellen Empfindens herbeizuführen, oder  
-`§ 85 (1) Z 3 StGB.`
-ein schweres Leiden, Siechtum oder Berufsunfähigkeit des Geschädigten,
-herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+`§ 52b (1) StGB.`  
+Wird ein Rechtsbrecher, der  
+`§ 52b (1) Z 1 StGB.`
+wegen einer strafbaren Handlung nach dem Verbotsgesetz oder wegen staatsfeindlicher Verbindung (§ 246), staatsfeindlicher Bewegung (247a) oder religiös motivierter extremistischer Verbindung (§ 247b),  
+`§ 52b (1) Z 2 StGB.`
+wegen terroristischer Vereinigung (§ 278b), terroristischer Straftaten (§ 278c), Terrorismusfinanzierung (§ 278d), Ausbildung für terroristische Zwecke (§ 278e), Anleitung zur Begehung einer terroristischen Straftat (§ 278f), Reisen für terroristische Zwecke (§ 278g) oder Aufforderung zu terroristischen Straftaten und Gutheißung terroristischer Straftaten (§ 282a) („terroristische Strafsachen“) oder  
+`§ 52b (1) Z 3 StGB.`
+wegen einer strafbaren Handlung nach dem fünfundzwanzigsten Abschnitt  
+zu einer Freiheitsstrafe verurteilt oder gegen den wegen einer solchen Handlung eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme angeordnet worden ist, bedingt entlassen, so hat das Gericht für die Dauer der Probezeit gerichtliche Aufsicht anzuordnen, soweit die Überwachung des Verhaltens des Rechtsbrechers, insbesondere hinsichtlich der Befolgung einer Weisung gemäß § 51 Abs. 2 erster Satz oder Abs. 3 oder einer Weisung, bestimmte Tätigkeiten nicht auszuüben, notwendig oder zweckmäßig ist, ihn von weiteren solchen mit Strafe bedrohten Handlungen abzuhalten.
 
-`§ 85 (2) StGB.`  
-Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Dauerfolge (Abs. 1) beim Verletzten herbeiführt.
+`§ 52b (2) StGB.`  
+§ 52a Abs. 2 und 3 sind sinngemäß anzuwenden.
 
-### § 86 StGB # Körperverletzung mit tödlichem Ausgang
+`§ 52b (3) StGB.`  
+Vor Ablauf der ersten Hälfte der gerichtlichen Aufsicht hat das Gericht eine Fallkonferenz einzuberufen, um das Verhalten des Rechtsbrechers während gerichtlicher Aufsicht zu beurteilen und jene Maßnahmen festzulegen, die dazu dienen, die Einhaltung von Weisungen sicherzustellen sowie den Verurteilten von der Begehung strafbarer Handlungen abzuhalten. Die Organisationseinheiten gemäß § 1 Abs. 3 Bundesgesetz über die Organisation, Aufgaben und Befugnisse des Verfassungsschutzes (Staatsschutz- und Nachrichtendienst-Gesetz – SNG), BGBl. I Nr. 5/2016, die Koordinationsstelle für Extremismusprävention und Deradikalisierung im Straf- und Maßnahmenvollzug sowie die Bewährungshilfe und gegebenenfalls sonstige Einrichtungen, die in die gerichtliche Aufsicht eingebunden sind, sind daran zu beteiligen. Eine solche Konferenz kann auch zu einem früheren Zeitpunkt oder wiederholt von Amts wegen oder auf Anregung der zur Mitwirkung berechtigten Stellen angeordnet werden und ist jedenfalls drei Monate vor Ablauf der gerichtlichen Aufsicht durchzuführen. Die Teilnehmer einer Fallkonferenz sind ermächtigt, einander personenbezogene Daten zu übermitteln, soweit dies für die Zwecke der Fallkonferenz erforderlich ist. Die Teilnehmer sind – sofern sie nicht ohnehin der Amtsverschwiegenheit unterliegen – zur vertraulichen Behandlung der Daten verpflichtet; darüber sind sie zu informieren.
 
-`§ 86 (1) StGB.`  
-Wer einen anderen am Körper misshandelt und dadurch fahrlässig dessen Tod herbeiführt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+`§ 52b (4) StGB.`  
+Dem Rechtsbrecher, der aufgrund einer strafbaren Handlung nach Abs. 1 zu einer mindestens achtzehnmonatigen Freiheitsstrafe verurteilt wurde, kann ferner die Weisung erteilt werden, während gerichtlicher Aufsicht die für eine elektronische Überwachung der Befolgung von Weisungen, die Gebote oder Verbote zum örtlichen Aufenthalt beinhalten, angemessenen, technisch geeigneten Mittel – mit Ausnahme der Dauer des Aufenthaltes in der eigenen Wohnung – ständig am Körper in betriebsbereitem Zustand bei sich zu führen und deren Funktionsfähigkeit nicht zu beeinträchtigen, soweit die elektronische Überwachung unbedingt notwendig ist, um durch die Möglichkeit der Datenverwendung nach Abs. 6 ein weisungsgemäßes Verhalten sicherzustellen und der Rechtsbrecher seine Zustimmung erteilt hat. Das Gericht hat dabei insbesondere die Tatumstände sowie das Umfeld des Rechtsbrechers, die bereits gesetzten Deradikalisierungmaßnahmen sowie sein Verhalten während der Haft oder Maßnahme zu berücksichtigen. Mit der Durchführung der Überwachung hat das Gericht die Überwachungszentrale für den elektronisch überwachten Hausarrest zu beauftragen.
 
-`§ 86 (2) StGB.`  
-Wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch fahrlässig dessen Tod herbeiführt, ist mit Freiheitsstrafe von einem bis zu fünfzehn Jahren zu bestrafen.
+`§ 52b (5) StGB.`  
+Das Gericht hat die unbedingte Notwendigkeit der elektronischen Überwachung unbeschadet des Abs. 3 zumindest jährlich zu überprüfen. Dabei hat das Gericht die nach Abs. 2 in Verbindung mit § 52a Abs. 2 gewonnen Informationen zu berücksichtigen. Wurde dem Rechtsbrecher eine Weisung zu Deradikalisierungsmaßnahmen erteilt, so ist auch die damit befasste Person oder Stelle im Überprüfungsverfahren beizuziehen. Bei Wegfall der unbedingten Notwendigkeit ist die elektronische Überwachung unverzüglich zu beenden.
 
-### § 87 StGB # Absichtliche schwere Körperverletzung
+`§ 52b (6) StGB.`  
+Bei einer Weisung nach Abs. 4 werden mit Hilfe der vom Betroffenen mitgeführten technischen Mittel automatisiert Daten über dessen Aufenthaltsort sowie über etwaige Beeinträchtigungen der Datenerhebung erhoben und gespeichert. Unbeschadet des § 76 Abs. 2 StPO dürfen die Daten nur verwendet werden, soweit dies für die folgenden Zwecke erforderlich ist:  
+`§ 52b (6) Z 1 StGB.`
+zur Feststellung eines Verstoßes gegen ein in einer Weisung nach § 51 Abs. 2 oder 3 enthaltenes Gebot oder Verbot zum örtlichen Aufenthalt oder  
+`§ 52b (6) Z 2 StGB.`
+zur Ergreifung von Maßnahmen, die sich an einen Verstoß gegen eine Weisung anschließen können.
 
-`§ 87 (1) StGB.`  
-Wer einem anderen eine schwere Körperverletzung (§ 84 Abs. 1) absichtlich zufügt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+`§ 52b (7) StGB.`  
+Zur Einhaltung der Zweckbindung nach Abs. 6 zweiter Satz hat die Verarbeitung der Daten zur Feststellung von Verstößen nach Abs. 6 Z 1 automatisiert zu erfolgen und sind die Daten gegen unbefugte Kenntnisnahme besonders zu sichern. Diese Daten sind spätestens zwei Wochen nach ihrer Erhebung zu löschen, soweit sie nicht für die in Abs. 6 Z 1 und 2 genannten Zwecke verwendet werden. Bei jedem Abruf der Daten sind zumindest der Zeitpunkt, die abgerufenen Daten und der Bearbeiter zu protokollieren. Die überwachte Person ist über jeden Zugriff auf ihre Daten zu informieren. Die Protokolldaten dürfen nur für die Kontrolle der Zulässigkeit der Abrufe verwendet werden und sind nach zwölf Monaten zu löschen.
 
-`§ 87 (1a) StGB.`  
-Wer die Tat an einem Beamten, Zeugen oder Sachverständigen während oder wegen der Vollziehung seiner Aufgaben oder der Erfüllung seiner Pflichten begeht, ist mit Freiheitsstrafe von zwei bis zu zehn Jahren zu bestrafen.
+`§ 52b (8) StGB.`  
+Die Kosten der elektronischen Überwachung trägt der Bund.
 
-`§ 87 (2) StGB.`  
-Zieht die Tat nach Abs. 1 eine schwere Dauerfolge (§ 85) nach sich, so ist der Täter mit Freiheitsstrafe von einem bis zu fünfzehn Jahren, im Falle des Abs. 1a mit Freiheitsstrafe von zwei bis zu fünfzehn Jahren, hat die Tat den Tod des Geschädigten zur Folge, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen.
+`§ 52b (9) StGB.`  
+Die Bundesministerin für Justiz ist ermächtigt, durch Verordnung Richtlinien über die Art und die Durchführung der elektronischen Überwachung zu erlassen.
+----
 
-### § 88 StGB # Fahrlässige Körperverletzung
+----
+### § 53 StGB # Widerruf der bedingten Strafnachsicht und der bedingten Entlassung aus einer Freiheitsstrafe
 
-`§ 88 (1) StGB.`  
-Wer fahrlässig einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+`§ 53 (1) StGB.`  
+Wird der Rechtsbrecher wegen einer während der Probezeit begangenen strafbaren Handlung verurteilt, so hat das Gericht die bedingte Strafnachsicht oder die bedingte Entlassung aus einer Freiheitsstrafe zu widerrufen und die Strafe, den Strafteil oder den Strafrest vollziehen zu lassen, wenn dies in Anbetracht der neuerlichen Verurteilung zusätzlich zu dieser geboten erscheint, um den Rechtsbrecher von weiteren strafbaren Handlungen abzuhalten. Im Fall des Widerrufs der bedingten Entlassung aus einer lebenslangen Freiheitsstrafe steht der Strafrest hinsichtlich der zeitlichen Voraussetzungen für eine abermalige bedingte Entlassung einer Freiheitsstrafe von zehn Jahren gleich. Eine strafbare Handlung, die der Rechtsbrecher in der Zeit zwischen der Entscheidung erster Instanz und der Rechtskraft der Entscheidung über die Gewährung der bedingten Strafnachsicht oder der bedingten Entlassung oder während einer behördlichen Anhaltung, die in die Probezeit nicht einzurechnen ist (§ 49), begangen hat, steht einer in der Probezeit verübten strafbaren Handlung gleich.
 
-`§ 88 (2) StGB.`  
-Handelt der Täter nicht grob fahrlässig (§ 6 Abs. 3) und ist  
-`§ 88 (2) Z 1 StGB.`
-die verletzte Person mit dem Täter in auf- oder absteigender Linie verwandt oder verschwägert oder sein Ehegatte, sein eingetragener Partner, sein Bruder oder seine Schwester oder nach § 72 Abs. 2 wie ein Angehöriger des Täters zu behandeln,  
-`§ 88 (2) Z 2 StGB.`
-aus der Tat keine Gesundheitsschädigung oder Berufsunfähigkeit einer anderen Person von mehr als vierzehntägiger Dauer erfolgt oder  
-`§ 88 (2) Z 3 StGB.`
-der Täter ein Angehöriger eines gesetzlich geregelten Gesundheitsberufes und die Körperverletzung in Ausübung seines Berufes zugefügt worden,
-so ist der Täter nach Abs. 1 nicht zu bestrafen.
+`§ 53 (2) StGB.`  
+Wenn der Rechtsbrecher während des vom Gericht bestimmten Zeitraumes eine Weisung trotz förmlicher Mahnung mutwillig nicht befolgt oder sich beharrlich dem Einfluß des Bewährungshelfers entzieht, hat das Gericht die bedingte Strafnachsicht oder die bedingte Entlassung zu widerrufen und die Strafe oder den Strafrest vollziehen zu lassen, wenn dies nach den Umständen geboten erscheint, um den Rechtsbrecher von der Begehung strafbarer Handlungen abzuhalten. Abs. 1 Satz 2 gilt entsprechend.
 
-`§ 88 (3) StGB.`  
-Wer grob fahrlässig (§ 6 Abs. 3) oder in dem in § 81 Abs. 2 bezeichneten Fall einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+`§ 53 (3) StGB.`  
+Wird in den Fällen der Abs. 1 und 2 die bedingte Strafnachsicht oder Entlassung nicht widerrufen, so kann das Gericht die Probezeit, falls sie kürzer bestimmt war, bis auf höchstens fünf Jahre verlängern; im Falle der bedingten Entlassung aus einer lebenslangen Freiheitsstrafe kann das Gericht die Probezeit bis auf höchstens fünfzehn Jahre verlängern. Zugleich hat es zu prüfen, ob und welche Weisungen neu zu erteilen sind und ob, falls das noch nicht geschehen sein sollte, Bewährungshilfe anzuordnen ist.
 
-`§ 88 (4) StGB.`  
-Hat die Tat nach Abs. 1 eine schwere Körperverletzung (§ 84 Abs. 1) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen. Hat die Tat nach Abs. 3 eine schwere Körperverletzung (§ 84 Abs. 1) zur Folge, ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat sie jedoch eine schwere Körperverletzung (§ 84 Abs. 1) einer größeren Zahl von Menschen zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+`§ 53 (4) StGB.`  
+Bestehen gegen Ende der ursprünglichen oder verlängerten Probezeit nach bedingter Entlassung aus einer lebenslangen Freiheitsstrafe oder aus einer Freiheitsstrafe wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung von mehr als fünf Jahren sonst besondere Gründe zur Annahme, dass es einer weiteren Erprobung des Rechtsbrechers bedarf, so kann das Gericht die Probezeit um höchstens drei Jahre verlängern. Eine wiederholte Verlängerung ist zulässig.
 
-### § 89 StGB # Gefährdung der körperlichen Sicherheit
+`§ 53 (5) StGB.`  
+Nach Abs. 4 kann auch in den Fällen vorgegangen werden, in denen nach § 52b gerichtliche Aufsicht nach bedingter Entlassung aus einer Freiheitsstrafe von mehr als achtzehn Monaten angeordnet wurde. Vor einer solchen Anordnung ist eine gerichtliche Fallkonferenz nach § 52b Abs. 3 StGB abzuhalten. Die Weisung einer elektronischen Überwachung darf höchstens zehn Jahre aufrechterhalten werden.
+----
 
-`§ 89 StGB.`  
-Wer vorsätzlich, grob fahrlässig (§ 6 Abs. 3) oder fahrlässig unter den in § 81 Abs. 2 umschriebenen Umständen, eine Gefahr für das Leben, die Gesundheit oder die körperliche Sicherheit eines anderen herbeiführt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+----
+### § 54 StGB # Widerruf der bedingten Nachsicht und der bedingten Entlassung bei einer vorbeugenden Maßnahme
 
-### § 90 StGB # Einwilligung des Verletzten
+`§ 54 (1) StGB.`  
+Die bedingte Nachsicht der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher und die bedingte Entlassung aus einer der in den §§ 21 bis 23 bezeichneten Anstalten sind unter den im § 53 genannten Voraussetzungen zu widerrufen, wenn sich aus den dort genannten Umständen ergibt, dass die Gefährlichkeit, gegen die sich die vorbeugende Maßnahme richtet, noch besteht.
 
-`§ 90 (1) StGB.`  
-Eine Körperverletzung oder Gefährdung der körperlichen Sicherheit ist nicht rechtswidrig, wenn der Verletzte oder Gefährdete in sie einwilligt und die Verletzung oder Gefährdung als solche nicht gegen die guten Sitten verstößt.
+`§ 54 (2) StGB.`  
+Wird im Falle des Abs. 1 die bedingte Entlassung aus einer im § 21 bezeichneten Anstalt nicht widerrufen, so kann das Gericht die Probezeit bis auf höchstens fünfzehn Jahre verlängern. Beträgt die Probezeit nur fünf Jahre, so kann sie das Gericht bis auf höchstens zehn Jahre verlängern. Zugleich hat es zu prüfen, ob und welche Weisungen neu zu erteilen sind und ob, falls das noch nicht geschehen sein sollte, Bewährungshilfe anzuordnen ist.
 
-`§ 90 (2) StGB.`  
-Die von einem Arzt an einer Person mit deren Einwilligung vorgenommene Sterilisation ist nicht rechtswidrig, wenn entweder die Person bereits das fünfundzwanzigste Lebensjahr vollendet hat oder der Eingriff aus anderen Gründen nicht gegen die guten Sitten verstößt.
+`§ 54 (3) StGB.`  
+Bestehen gegen Ende der ursprünglichen oder verlängerten Probezeit besondere Gründe zur Annahme, dass es weiterhin der Androhung der Unterbringung bedarf, um die Gefährlichkeit, gegen die sich die vorbeugende Maßnahme richtet, hintanzuhalten, so kann das Gericht die Probezeit um höchstens drei Jahre verlängern. Eine wiederholte Verlängerung ist zulässig.
 
-`§ 90 (3) StGB.`  
-In eine Genitalverstümmelung (§ 85 Abs. 1 Z 2a) kann nicht eingewilligt werden.
+`§ 54 (4) StGB.`  
+Ist im Falle der bedingten Entlassung aus einer Anstalt nach § 21 Abs. 1 dem Rechtsbrecher die Weisung erteilt worden, sich einer medizinischen Behandlung zu unterziehen und besteht Grund zur Annahme, dass der Rechtsbrecher die Weisung nicht befolgt und es deshalb einer stationären Behandlung bedarf, um die Gefährlichkeit, gegen die sich die vorbeugende Maßnahme gerichtet hat, hintanzuhalten, so hat das Gericht die Sicherheitsbehörde zu verständigen, die nach § 9 des Unterbringungsgesetzes vorzugehen hat. Das Gericht ist von den in der Folge getroffenen Maßnahmen zu unterrichten.
 
-### § 91 StGB # Raufhandel
+`§ 54 (5) StGB.`  
+Wird jedoch im Falle einer bedingten Entlassung aus einer der in den §§ 21 bis 23 bezeichneten Anstalten wegen einer während der Probezeit (§ 53 Abs. 1) begangenen mit Strafe bedrohten Handlung die vorbeugende Maßnahme neuerlich angeordnet, so wird damit die frühere Anordnung dieser Maßnahme gegenstandslos.
 
-`§ 91 (1) StGB.`  
-Wer an einer Schlägerei tätlich teilnimmt, ist schon wegen dieser Teilnahme mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen, wenn die Schlägerei eine schwere Körperverletzung (§ 84 Abs. 1) eines anderen verursacht, wenn sie aber den Tod eines anderen verursacht, mit Freiheitsstrafe bis zu zwei Jahren.
+`§ 54 (6) StGB.`  
+Die bedingte Entlassung aus einer Anstalt für entwöhnungsbedürftige Rechtsbrecher ist nicht zu widerrufen, wenn die Fortsetzung der Behandlung von vornherein aussichtslos scheint.
+----
 
-`§ 91 (2) StGB.`  
-Wer an einem Angriff mehrerer tätlich teilnimmt, ist schon wegen dieser Teilnahme mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen, wenn der Angriff eine Körperverletzung eines anderen verursacht, wenn er aber eine schwere Körperverletzung eines anderen verursacht, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen, wenn er den Tod eines anderen verursacht, mit Freiheitsstrafe bis zu zwei Jahren.
+----
+### § 55 StGB # Widerruf bei nachträglicher Verurteilung
 
-`§ 91 (2a) StGB.`  
-Wer an einer Schlägerei oder einem Angriff mehrerer in einem Sicherheitsbereich bei einer Sportgroßveranstaltung (§ 49a SPG) tätlich teilnimmt, ist schon wegen dieser Teilnahme mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 55 (1) StGB.`  
+Die bedingte Nachsicht einer Strafe, eines Strafteiles und der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher ist zu widerrufen, wenn eine nachträgliche Verurteilung gemäß § 31 erfolgt und die bedingte Nachsicht bei gemeinsamer Aburteilung nicht gewährt worden wäre.
 
-`§ 91 (3) StGB.`  
-Der Täter, dem aus der Teilnahme kein Vorwurf gemacht werden kann, ist nicht zu bestrafen.
+`§ 55 (2) StGB.`  
+Wurde die Strafe, ein Strafteil oder die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher bei der nachträglichen Verurteilung bedingt nachgesehen, so ist diese Nachsicht zu widerrufen, wenn sie bei gleichzeitiger Aburteilung nicht gewährt worden wäre und die Verurteilung, auf die gemäß § 31 Bedacht zu nehmen gewesen wäre, nicht aktenkundig war.
 
-### § 91a StGB # Tätlicher Angriff auf mit bestimmten Aufgaben betraute Bedienstete einer dem öffentlichen Verkehr dienenden Anstalt oder Angehörige des Gesundheits- oder Rettungswesens oder Organe der Feuerwehr
+`§ 55 (3) StGB.`  
+Wird die bedingte Nachsicht nicht widerrufen, so dauert jede der zusammentreffenden Probezeiten bis zum Ablauf der Probezeit, die zuletzt endet, jedoch nicht länger als fünf Jahre.
+----
 
-`§ 91a StGB.`  
-Wer eine Person,  
-`§ 91a Z 1 StGB.`
-die mit der Kontrolle der Einhaltung der Beförderungsbedingungen oder der Lenkung eines Beförderungsmittels einer dem öffentlichen Verkehr dienenden Anstalt betraut ist,  
-`§ 91a Z 2 StGB.`
-in einem gesetzlich geregelten Gesundheitsberuf, für eine anerkannte Rettungsorganisation oder in der Verwaltung im Bereich eines solchen Berufs, insbesondere einer Krankenanstalt, oder als Organ der Feuerwehr tätig ist,  
-während der Ausübung ihrer Tätigkeit tätlich angreift, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+----
+### § 56 StGB # Widerrufsfristen
 
-### § 92 StGB # Quälen oder Vernachlässigen unmündiger, jüngerer oder wehrloser Personen
+`§ 56 StGB.`  
+Die in den §§ 53 bis 55 vorgesehenen Verfügungen kann das Gericht nur in der Probezeit, wegen einer während dieser Zeit begangenen strafbaren Handlung jedoch auch innerhalb von sechs Monaten nach Ablauf der Probezeit oder nach Beendigung eines bei deren Ablauf gegen den Rechtsbrecher anhängigen Strafverfahrens treffen.
+----
 
-`§ 92 (1) StGB.`  
-Wer einem anderen, der seiner Fürsorge oder Obhut untersteht und der das achtzehnte Lebensjahr noch nicht vollendet hat oder wegen Gebrechlichkeit, Krankheit oder einer geistigen Behinderung wehrlos ist, körperliche oder seelische Qualen zufügt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-`§ 92 (2) StGB.`  
-Ebenso ist zu bestrafen, wer seine Verpflichtung zur Fürsorge oder Obhut einem solchen Menschen gegenüber gröblich vernachlässigt und dadurch, wenn auch nur fahrlässig, dessen Gesundheit oder dessen körperliche oder geistige Entwicklung beträchtlich schädigt.
-
-`§ 92 (3) StGB.`  
-Hat die Tat eine Körperverletzung mit schweren Dauerfolgen (§ 85) zur Folge, so ist der Täter mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, hat sie den Tod des Geschädigten zur Folge, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
-
-### § 93 StGB # Überanstrengung unmündiger, jüngerer oder schonungsbedürftiger Personen
-
-`§ 93 (1) StGB.`  
-Wer einen anderen, der von ihm abhängig ist oder seiner Fürsorge oder Obhut untersteht und der das achtzehnte Lebensjahr noch nicht vollendet hat oder wegen seines Gesundheitszustandes offensichtlich schonungsbedürftig ist, aus Bosheit oder rücksichtslos überanstrengt und dadurch, wenn auch nur fahrlässig, die Gefahr des Todes oder einer beträchtlichen Körperverletzung oder Gesundheitsschädigung des Überanstrengten herbeiführt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-
-`§ 93 (2) StGB.`  
-Hat die Tat eine der im § 92 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
-
-### § 94 StGB # Imstichlassen eines Verletzten
-
-`§ 94 (1) StGB.`  
-Wer es unterläßt, einem anderen, dessen Verletzung am Körper (§ 83) er, wenn auch nicht widerrechtlich, verursacht hat, die erforderliche Hilfe zu leisten, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-`§ 94 (2) StGB.`  
-Hat das Imstichlassen eine schwere Körperverletzung (§ 84 Abs. 1) des Verletzten zur Folge, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat es seinen Tod zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-`§ 94 (3) StGB.`  
-Der Täter ist entschuldigt, wenn ihm die Hilfeleistung nicht zuzumuten ist. Die Hilfeleistung ist insbesondere dann nicht zuzumuten, wenn sie nur unter der Gefahr des Todes oder einer beträchtlichen Körperverletzung oder Gesundheitsschädigung oder unter Verletzung anderer überwiegender Interessen möglich wäre.
-
-`§ 94 (4) StGB.`  
-Der Täter ist nach Abs. 1 und 2 nicht zu bestrafen, wenn er schon wegen der Verletzung mit der gleichen oder einer strengeren Strafe bedroht ist.
-
-### § 95 StGB # Unterlassung der Hilfeleistung
-
-`§ 95 (1) StGB.`  
-Wer es bei einem Unglücksfall oder einer Gemeingefahr (§ 176) unterläßt, die zur Rettung eines Menschen aus der Gefahr des Todes oder einer beträchtlichen Körperverletzung oder Gesundheitsschädigung offensichtlich erforderliche Hilfe zu leisten, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen, wenn die Unterlassung der Hilfeleistung jedoch den Tod eines Menschen zur Folge hat, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen, es sei denn, daß die Hilfeleistung dem Täter nicht zuzumuten ist.
-
-`§ 95 (2) StGB.`  
-Die Hilfeleistung ist insbesondere dann nicht zuzumuten, wenn sie nur unter Gefahr für Leib oder Leben oder unter Verletzung anderer ins Gewicht fallender Interessen möglich wäre.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.StGB.005](BG.StGB.005.md))*
+`END-OF-DATA-SET`

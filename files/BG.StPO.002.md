@@ -1,15 +1,16 @@
 # BG.StPO.002 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.002.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StPO.001](BG.StPO.001.md))*
+Der Nationalrat hat beschlossen:
 
+----
 ## 3. Abschnitt # Gerichte
 
 ### § 29 StPO # Allgemeines
@@ -25,7 +26,9 @@ Oberlandesgerichte und der Oberste Gerichtshof im Rechtsmittelverfahren sowie au
 
 `§ 29 (2) StPO.`  
 Soweit sich die Zuständigkeit der Gerichte nach der Höhe der angedrohten Freiheitsstrafe richtet, sind die Beschränkung der Strafbemessung durch § 287 Abs. 1 letzter Satz StGB und die Möglichkeit einer Überschreitung des Höchstmaßes der Strafe nach § 313 StGB bei der Bestimmung der sachlichen Zuständigkeit zu berücksichtigen.
+----
 
+----
 ### § 30 StPO # Bezirksgericht
 
 `§ 30 (1) StPO.`  
@@ -74,7 +77,9 @@ der Vergehen, für die auf Grund besonderer Bestimmungen das Landesgericht zust�
 
 `§ 30 (2) StPO.`  
 Das Bezirksgericht entscheidet durch Einzelrichter.
+----
 
+----
 ### § 31 StPO # Landesgericht
 
 `§ 31 (1) StPO.`  
@@ -165,7 +170,9 @@ das Verfahren über Rechtsmittel und Rechtsbehelfe gegen Urteile und gegen ander
 die Entscheidung über einen Antrag auf Wiederaufnahme nach § 357, soweit nicht das Bezirksgericht (§ 480) oder der Einzelrichter (§ 490) zuständig ist, und über Beschlüsse nach § 495 in den Fällen, in denen nach § 494a Abs. 2 eine Zuständigkeit des Einzelrichters ausgeschlossen wäre, und  
 `§ 31 (6) Z 3 StPO.`
 die Entscheidung über Anträge auf Fortführung (§§ 195 und 209a Abs. 6) und Anträge auf Verfolgung (§ 197c).
+----
 
+----
 ### § 32 StPO # Landesgericht als Geschworenen- und Schöffengericht
 
 `§ 32 (1) StPO.`  
@@ -201,7 +208,9 @@ Soweit in diesem Gesetz nichts anderes bestimmt wird, entscheidet außerhalb der
 
 `§ 32 (4) StPO.`  
 Die Geschworenen werden in dem vom Gesetz (15. Hauptstück) vorgesehenen Umfang tätig; die Schöffen üben in der Hauptverhandlung das Richteramt im vollen Umfang aus. Soweit im Einzelnen nichts anderes bestimmt wird, sind die für Richter geltenden Vorschriften auch auf Geschworene und Schöffen anzuwenden. Die Voraussetzungen und das Verfahren zur Berufung von Geschworenen und Schöffen sind im Geschworenen- und Schöffengesetz 1990, BGBl. Nr. 256, geregelt.
+----
 
+----
 ### § 32a StPO # Zuständigkeit für Wirtschaftsstrafsachen und Korruption
 
 `§ 32a (1) StPO.`  
@@ -209,7 +218,9 @@ Den beim Landesgericht für Strafsachen Wien eingerichteten besonderen Gerichtsa
 
 `§ 32a (2) StPO.`  
 Nach den Bestimmungen der §§ 31 und 32 entscheidet das Landesgericht durch Einzelrichter oder als Geschworenen- und Schöffengericht. § 213 Abs. 6 zweiter und dritter Satz sind nicht anzuwenden.
+----
 
+----
 ### § 33 StPO # Oberlandesgericht
 
 `§ 33 (1) StPO.`  
@@ -218,8 +229,7 @@ Dem Oberlandesgericht obliegt die Entscheidung
 über Rechtsmittel und Rechtsbehelfe gegen Entscheidungen des Landesgerichts als Einzelrichter (§ 31 Abs. 1 und 4),  
 `§ 33 (1) Z 2 StPO.`
 über Berufungen gegen Urteile des Landesgerichts als Geschworenen- oder Schöffengericht,  
-`§ 33 (1) Z 3 StPO.`
-*(Anm.: aufgehoben durch BGBl. I Nr. 52/2009)*  
+*(Anm.: Z 3 aufgehoben durch BGBl. I Nr. 52/2009)*  
 `§ 33 (1) Z 4 StPO.`
 über den Einspruch gegen die Anklageschrift (§ 212),  
 `§ 33 (1) Z 5 StPO.`
@@ -229,7 +239,9 @@ in Fällen, in denen es auf Grund besonderer Vorschriften zuständig ist.
 
 `§ 33 (2) StPO.`  
 Der Einzelrichter des Oberlandesgerichts entscheidet über Beschwerden gegen Entscheidungen über den Pauschalkostenbeitrag gemäß § 196 Abs. 2, über den Betrag zu den Kosten der Verteidigung im Ermittlungsverfahren gemäß § 196a, über die Kosten des Strafverfahrens nach dem 18. Hauptstück und über die Bestimmung der Gebühren der Sachverständigen und Dolmetscher nach dem GebAG. In den übrigen Fällen entscheidet das Oberlandesgericht durch einen Senat von drei Richtern.
+----
 
+----
 ### § 34 StPO # Oberster Gerichtshof
 
 `§ 34 (1) StPO.`  
@@ -249,7 +261,9 @@ in Fällen, in denen er auf Grund besonderer Vorschriften zuständig ist.
 
 `§ 34 (2) StPO.`  
 Im Übrigen bleiben die Bestimmungen des Bundesgesetzes über den Obersten Gerichtshof, BGBl. Nr. 328/1968, unberührt.
+----
 
+----
 ### § 35 StPO # Form gerichtlicher Entscheidungen
 
 `§ 35 (1) StPO.`  
@@ -257,7 +271,9 @@ Mit Urteil entscheiden die Gerichte im Haupt- und Rechtsmittelverfahren über Sc
 
 `§ 35 (2) StPO.`  
 Im Übrigen entscheiden die Gerichte mit Beschluss (§ 86), soweit sie nicht bloß eine auf den Fortgang des Verfahrens oder die Bekanntmachung einer gerichtlichen Entscheidung gerichtete Verfügung erlassen.
+----
 
+----
 ### § 36 StPO # Örtliche Zuständigkeit
 
 `§ 36 (1) StPO.`  
@@ -277,7 +293,9 @@ Ein Gericht bleibt auch dann für das Hauptverfahren örtlich zuständig, wenn e
 
 `§ 36 (5) StPO.`  
 Wenn sich zum Zeitpunkt der Einbringung der Anklage ein Angeklagter in Untersuchungshaft befindet und die Verhandlung und Entscheidung der Strafsache dem Bezirksgericht zusteht, ist das Bezirksgericht örtlich zuständig, an dessen Sitz sich die Staatsanwaltschaft befindet, die nach den §§ 25 bis 28 für das Ermittlungsverfahren zuständig war. Wird der Angeklagte nach diesem Zeitpunkt freigelassen, so ändert dies die Zuständigkeit nicht.
+----
 
+----
 ### § 37 StPO # Zuständigkeit des Zusammenhangs
 
 `§ 37 (1) StPO.`  
@@ -291,12 +309,16 @@ Sofern zu dem Zeitpunkt, zu dem die Anklage rechtswirksam wird, ein Hauptverfahr
 
 `§ 37 (4) StPO.`  
 Das Gericht kann auf Antrag der Staatsanwaltschaft oder eines Angeklagten oder von Amts wegen unter den Voraussetzungen des § 27 StPO eine getrennte Führung der Verfahren anordnen; § 36 Abs. 4 gilt.
+----
 
+----
 ### § 38 StPO # Kompetenzkonflikt
 
 `§ 38 StPO.`  
 Ein Gericht, das sich für unzuständig hält, hat bei ihm eingebrachte Anträge, Einsprüche und Beschwerden dem zuständigen zu überweisen; § 213 Abs. 6 bleibt unberührt. Bei Gefahr im Verzug hat jedes Gericht innerhalb seiner sachlichen Zuständigkeit vor der Überweisung unaufschiebbare Entscheidungen zu treffen und unaufschiebbare Beweisaufnahmen durchzuführen. Sofern auch das Gericht, dem überwiesen wird, seine Zuständigkeit bezweifelt, hat es die Entscheidung des gemeinsam übergeordneten Gerichts zu erwirken, gegen die ein Rechtsmittel nicht zusteht.
+----
 
+----
 ### § 39 StPO # Delegierung
 
 `§ 39 (1) StPO.`  
@@ -307,7 +329,9 @@ Ein wichtiger Grund im Sinne des Abs. 1 liegt auch in Verfahren vor, die von de
 
 `§ 39 (2) StPO.`  
 Ein Antrag auf Delegierung steht der Staatsanwaltschaft und dem Beschuldigten zu; das Gericht kann sie anregen. Der Antrag ist bei dem Gericht einzubringen, das für das Verfahren zuständig ist, und hat eine Begründung zu enthalten.
+----
 
+----
 ### § 40 StPO # Vorsitz und Abstimmung in den Senaten
 
 `§ 40 (1) StPO.`  
@@ -318,7 +342,9 @@ Jeder Abstimmung hat eine Beratung vorauszugehen. Sieht das Gesetz einen Bericht
 
 `§ 40 (3) StPO.`  
 Eine Stimmenthaltung ist außer im Fall des § 42 Abs. 3 nicht zulässig.
+----
 
+----
 ### § 41 StPO
 
 `§ 41 (1) StPO.`  
@@ -329,7 +355,9 @@ Ergibt sich keine Mehrheit, weil mehr als zwei Meinungen vertreten werden, so ha
 
 `§ 41 (3) StPO.`  
 Entstehen unterschiedliche Ansichten darüber, welche von zwei Meinungen für den Angeklagten die günstigere ist, so ist zunächst darüber abzustimmen. Ergibt sich auch dabei keine Mehrheit, so gibt die Stimme des Vorsitzenden den Ausschlag.
+----
 
+----
 ### § 42 StPO
 
 `§ 42 (1) StPO.`  
@@ -340,5 +368,6 @@ In der Hauptsache ist zunächst die Frage der Schuld und deren rechtliche Beurte
 
 `§ 42 (3) StPO.`  
 Wer den Angeklagten auch nur in einem Fall für nicht schuldig hält, kann sich bei der Beratung über die Strafe der Stimme enthalten. Diese ist der für den Angeklagten jeweils günstigsten Meinung zuzuzählen.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StPO.003](BG.StPO.003.md))*
+`END-OF-DATA-SET`

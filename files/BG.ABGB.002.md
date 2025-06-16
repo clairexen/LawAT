@@ -1,95 +1,15 @@
 # BG.ABGB.002 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.002.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.001](BG.ABGB.001.md))*
 
-## Drittes Hauptstück # Rechte zwischen Eltern und Kindern # Erster Abschnitt # Allgemeine Bestimmungen
-
-### § 137 ABGB # Allgemeine Grundsätze
-
-`§ 137 (1) ABGB.`  
-Eltern und Kinder haben einander beizustehen und mit Achtung zu begegnen. Die Rechte und Pflichten des Vaters und der Mutter sind, soweit nicht anderes bestimmt ist, gleich.
-
-`§ 137 (2) ABGB.`  
-Eltern haben das Wohl ihrer minderjährigen Kinder zu fördern, ihnen Fürsorge, Geborgenheit und eine sorgfältige Erziehung zu gewähren. Die Anwendung jeglicher Gewalt und die Zufügung körperlichen oder seelischen Leides sind unzulässig. Soweit tunlich und möglich sollen die Eltern die Obsorge einvernehmlich wahrnehmen.
-
-### § 138 ABGB # Kindeswohl
-
-`§ 138 ABGB.`  
-In allen das minderjährige Kind betreffenden Angelegenheiten, insbesondere der Obsorge und der persönlichen Kontakte, ist das Wohl des Kindes (Kindeswohl) als leitender Gesichtspunkt zu berücksichtigen und bestmöglich zu gewährleisten. Wichtige Kriterien bei der Beurteilung des Kindeswohls sind insbesondere  
-`§ 138 Z 1 ABGB.`
-eine angemessene Versorgung, insbesondere mit Nahrung, medizinischer und sanitärer Betreuung und Wohnraum, sowie eine sorgfältige Erziehung des Kindes;  
-`§ 138 Z 2 ABGB.`
-die Fürsorge, Geborgenheit und der Schutz der körperlichen und seelischen Integrität des Kindes;  
-`§ 138 Z 3 ABGB.`
-die Wertschätzung und Akzeptanz des Kindes durch die Eltern;  
-`§ 138 Z 4 ABGB.`
-die Förderung der Anlagen, Fähigkeiten, Neigungen und Entwicklungsmöglichkeiten des Kindes;  
-`§ 138 Z 5 ABGB.`
-die Berücksichtigung der Meinung des Kindes in Abhängigkeit von dessen Verständnis und der Fähigkeit zur Meinungsbildung;  
-`§ 138 Z 6 ABGB.`
-die Vermeidung der Beeinträchtigung, die das Kind durch die Um- und Durchsetzung einer Maßnahme gegen seinen Willen erleiden könnte;  
-`§ 138 Z 7 ABGB.`
-die Vermeidung der Gefahr für das Kind, Übergriffe oder Gewalt selbst zu erleiden oder an wichtigen Bezugspersonen mitzuerleben;  
-`§ 138 Z 8 ABGB.`
-die Vermeidung der Gefahr für das Kind, rechtswidrig verbracht oder zurückgehalten zu werden oder sonst zu Schaden zu kommen;  
-`§ 138 Z 9 ABGB.`
-verlässliche Kontakte des Kindes zu beiden Elternteilen und wichtigen Bezugspersonen sowie sichere Bindungen des Kindes zu diesen Personen;  
-`§ 138 Z 10 ABGB.`
-die Vermeidung von Loyalitätskonflikten und Schuldgefühlen des Kindes;  
-`§ 138 Z 11 ABGB.`
-die Wahrung der Rechte, Ansprüche und Interessen des Kindes sowie  
-`§ 138 Z 12 ABGB.`
-die Lebensverhältnisse des Kindes, seiner Eltern und seiner sonstigen Umgebung.
-
-### § 139 ABGB
-
-`§ 139 (1) ABGB.`  
-Dritte dürfen in die elterlichen Rechte nur insoweit eingreifen, als ihnen dies durch die Eltern selbst, unmittelbar auf Grund des Gesetzes oder durch eine behördliche Verfügung gestattet ist.
-
-`§ 139 (2) ABGB.`  
-Eine mit einem Elternteil und dessen minderjährigem Kind nicht nur vorübergehend im gemeinsamen Haushalt lebende volljährige Person, die in einem familiären Verhältnis zum Elternteil steht, hat alles den Umständen nach Zumutbare zu tun, um das Kindeswohl zu schützen. Soweit es die Umstände erfordern, vertritt sie den Elternteil auch in Obsorgeangelegenheiten des täglichen Lebens.
-
-## Zweiter Abschnitt # Abstammung des Kindes # a) Allgemeines
-
-### § 140 ABGB
-
-`§ 140 ABGB.`  
-Die nach diesem Gesetzbuch begründete Abstammung und deren Änderung sowie die Feststellung der Nichtabstammung wirken gegenüber jedermann.
-
-### § 141 ABGB # Handlungsfähigkeit in Abstammungsangelegenheiten
-
-`§ 141 (1) ABGB.`  
-Eine Person kann in Angelegenheiten ihrer Abstammung und der Abstammung von ihr rechtswirksam handeln, wenn sie entscheidungsfähig ist. Im Zweifel wird das Vorliegen der Entscheidungsfähigkeit bei mündigen Minderjährigen vermutet.
-
-`§ 141 (2) ABGB.`  
-Minderjährige bedürfen darüber hinaus der Zustimmung ihres gesetzlichen Vertreters. Handelt der gesetzliche Vertreter selbst, so bedarf er der Zustimmung des Minderjährigen.
-
-`§ 141 (3) ABGB.`  
-Ist eine Person in Angelegenheiten der Abstammung nicht entscheidungsfähig, so kann ihr gesetzlicher Vertreter für sie handeln. Ist die vertretene Person volljährig, so gilt § 250 Abs. 2 sinngemäß. Die Vaterschaft oder Elternschaft kann eine Person jedoch nur selbst anerkennen.
-
-`§ 141 (4) ABGB.`  
-Der gesetzliche Vertreter hat sich vom Wohl der vertretenen Person leiten zu lassen. Seine Vertretungshandlungen in Angelegenheiten der Abstammung bedürfen nicht der Genehmigung des Gerichts.
-
-### § 142 ABGB # Rechtsnachfolge in Abstammungsangelegenheiten
-
-`§ 142 ABGB.`  
-Nach dem Tod der betroffenen Person kann die Feststellung der Abstammung, deren Änderung oder die Feststellung der Nichtabstammung von den Rechtsnachfolgern oder gegen diese bewirkt werden.
-
-## b) Abstammung von der Mutter
-
-### § 143 ABGB
-
-`§ 143 ABGB.`  
-Mutter ist die Frau, die das Kind geboren hat.
-
+----
 ## c) Abstammung
 
 ### § 144 ABGB # Abstammung vom Vater und vom anderen Elternteil
@@ -117,7 +37,9 @@ Auf den anderen Elternteil sind die auf den Vater und die Vaterschaft Bezug nehm
 
 `§ 144 (4) ABGB.`  
 Kommen nach Abs. 1 Z 1 oder Abs. 2 Z 1 mehrere Personen als Vater oder anderer Elternteil in Betracht, so ist Vater oder anderer Elternteil, wer mit der Mutter zuletzt die Ehe geschlossen oder die eingetragene Partnerschaft begründet hat.
+----
 
+----
 ### § 145 ABGB # Anerkenntnis des Vaters und des anderen Elternteils
 
 `§ 145 (1) ABGB.`  
@@ -128,7 +50,9 @@ Das Anerkenntnis soll eine genaue Bezeichnung der anerkennenden Person, der Mutt
 
 `§ 145 (3) ABGB.`  
 Für Zustimmungen zum Anerkenntnis gelten die Abs. 1 und 2 entsprechend.
+----
 
+----
 ### § 146 ABGB
 
 `§ 146 (1) ABGB.`  
@@ -136,7 +60,9 @@ Das Kind oder die Mutter, sofern sie entscheidungsfähig sowie am Leben ist, kö
 
 `§ 146 (2) ABGB.`  
 Der Lauf der Frist ist gehemmt, solange die zum Widerspruch berechtigte Person minderjährig oder nicht entscheidungsfähig ist oder innerhalb des letzten Jahres der Frist durch ein unvorhergesehenes oder unabwendbares Ereignis am Widerspruch gehindert ist.
+----
 
+----
 ### § 147 ABGB
 
 `§ 147 (1) ABGB.`  
@@ -150,7 +76,9 @@ Der Mann, der als Vater feststand, oder die Mutter, sofern sie entscheidungsfäh
 
 `§ 147 (4) ABGB.`  
 Für die Zustimmung des minderjährigen Kindes ist der Kinder- und Jugendhilfeträger gesetzlicher Vertreter des Kindes.
+----
 
+----
 ### § 148 ABGB # Gerichtliche Feststellung der Vaterschaft
 
 `§ 148 (1) ABGB.`  
@@ -170,7 +98,9 @@ Ein Dritter, dessen Samen für eine medizinisch unterstützte Fortpflanzung verw
 
 `§ 148 (5) ABGB.`  
 Ein Dritter, dessen Samen für eine nicht-medizinisch unterstützte Fortpflanzung verwendet wird, kann nicht als Vater des mit seinem Samen gezeugten Kindes festgestellt werden, wenn die Person, die mit der Mutter verheiratet oder in eingetragener Partnerschaft verbunden ist, der nicht-medizinisch unterstützten Fortpflanzung zugestimmt hat.
+----
 
+----
 ### § 149 ABGB
 
 `§ 149 (1) ABGB.`  
@@ -178,12 +108,16 @@ Der gesetzliche Vertreter hat dafür zu sorgen, dass die Vaterschaft festgestell
 
 `§ 149 (2) ABGB.`  
 Der Kinder- und Jugendhilfeträger hat die Mutter darauf aufmerksam zu machen, welche Folgen es hat, wenn die Vaterschaft nicht festgestellt wird.
+----
 
+----
 ### § 150 ABGB # Vaterschaftsfeststellung bei bestehender Abstammung
 
 `§ 150 ABGB.`  
 Das Kind kann die Feststellung seiner Abstammung auch beantragen, wenn die Vaterschaft eines anderen Mannes bereits feststeht. In einem solchen Fall hat die Feststellung der Abstammung die vom Gericht auszusprechende Wirkung, dass das Kind nicht vom anderen Mann abstammt.
+----
 
+----
 ### § 151 ABGB # Feststellung der Nichtabstammung vom Ehemann der Mutter
 
 `§ 151 (1) ABGB.`  
@@ -191,17 +125,23 @@ Stammt ein Kind, das während der Ehe der Mutter oder vor Ablauf von 300 Tagen 
 
 `§ 151 (2) ABGB.`  
 Der Antrag kann vom Kind gegen den Mann und von diesem gegen das Kind gestellt werden.
+----
 
+----
 ### § 152 ABGB
 
 `§ 152 ABGB.`  
 Hat der Ehemann der Mutter einer medizinisch unterstützten Fortpflanzung mit dem Samen eines Dritten in Form eines Notariatsakts zugestimmt, so kann nicht die Feststellung begehrt werden, dass das mit dem Samen des Dritten gezeugte Kind nicht vom Ehemann der Mutter abstammt.
+----
 
+----
 ### § 152a ABGB
 
 `§ 152a ABGB.`  
 Hat die Person, die mit der Mutter zu den in § 144 Abs. 1 und 2 angegebenen Zeitpunkten verheiratet ist oder in eingetragener Partnerschaft lebt, einer nicht-medizinisch unterstützten Fortpflanzung mit dem Samen einer dritten Person zugestimmt, so kann nicht die Feststellung begehrt werden, dass das mit dem Samen des Dritten gezeugte Kind nicht von ihr abstammt.
+----
 
+----
 ### § 153 ABGB
 
 `§ 153 (1) ABGB.`  
@@ -212,29 +152,33 @@ Der Lauf der Frist ist gehemmt, solange die antragsberechtigte Person minderjäh
 
 `§ 153 (3) ABGB.`  
 Später als 30 Jahre nach der Geburt des Kindes oder nach einer Änderung der Abstammung kann nur das Kind die Feststellung der Nichtabstammung begehren.
+----
 
+----
 ### § 154 ABGB # Rechtsunwirksamerklärung des Vaterschaftsanerkenntnisses
 
 `§ 154 (1) ABGB.`  
 Das Gericht hat das Anerkenntnis für rechtsunwirksam zu erklären  
 `§ 154 (1) Z 1 ABGB.`
 von Amts wegen, wenn  
-`§ 154 (1) Z 1 lit. a) ABGB.`
+`§ 154 (1) Z 1 undefined ABGB.`
 das Anerkenntnis oder – im Fall des § 147 Abs. 2 – die Zustimmung des Kindes oder die Bezeichnung des Anerkennenden als Vater durch die Mutter nicht den Formvorschriften entspricht oder  
-`§ 154 (1) Z 1 lit. b) ABGB.`
+`§ 154 (1) Z 1 undefined ABGB.`
 der Anerkennende oder – im Fall des § 147 Abs. 2 – die Mutter oder das Kind nicht entscheidungsfähig war oder der gesetzliche Vertreter des Kindes nicht zugestimmt hat, es sei denn, dass der Mangel der gesetzlichen Vertretung nachträglich behoben wurde oder dass der Anerkennende nach Erreichen der Entscheidungsfähigkeit sein Anerkenntnis gebilligt hat;  
 `§ 154 (1) Z 2 ABGB.`
 aufgrund eines Widerspruchs, es sei denn, es ist erwiesen, dass das Kind vom Anerkennenden abstammt oder – wenn das Kind mit dem Samen eines Dritten gezeugt wurde – dass der Anerkennende dem zugestimmt hat, im Fall einer medizinisch unterstützten Fortpflanzung in Form eines Notariatsakts;  
 `§ 154 (1) Z 3 ABGB.`
 auf Antrag des Anerkennenden, wenn er beweist,  
-`§ 154 (1) Z 3 lit. a ABGB.`
+`§ 154 (1) Z 3 undefined ABGB.`
 dass sein Anerkenntnis durch List, ungerechte und gegründete Furcht oder Irrtum darüber veranlasst worden ist, dass das Kind von ihm abstammt oder dass an der Mutter eine medizinisch unterstützte Fortpflanzung mit seinem Samen oder eine (nicht-)medizinisch unterstützte Fortpflanzung mit seiner Zustimmung mit dem Samen eines Dritten vorgenommen wurde oder  
-`§ 154 (1) Z 3 lit. b) ABGB.`
+`§ 154 (1) Z 3 undefined ABGB.`
 dass das Kind nicht von ihm abstammt und er erst nachträglich von Umständen Kenntnis erlangt hat, die für die Nichtabstammung des Kindes sprechen.
 
 `§ 154 (2) ABGB.`  
 Der Antrag nach Abs. 1 Z 3 kann längstens bis zum Ablauf von zwei Jahren nach Entdeckung der Täuschung, des Irrtums oder der genannten Umstände oder nach Wegfall der Zwangslage erhoben werden. Die Frist beginnt frühestens mit der Geburt des Kindes.
+----
 
+----
 ### § 154a ABGB # Nicht-medizinisch unterstützte Fortpflanzung
 
 `§ 154a (1) ABGB.`  
@@ -245,7 +189,9 @@ Es ist ratsam, aber nicht zwingend notwendig, dass die Mutter und die zustimmend
 
 `§ 154a (3) ABGB.`  
 Die § 16 und § 22 Abs. 1 Z 4 und Abs. 2 Z 1 sowie § 25 FMedG sind auf jede nicht-medizinisch unterstützte Fortpflanzung sinngemäß anzuwenden.
+----
 
+----
 ## Dritter Abschnitt # Name
 
 ### § 155 ABGB
@@ -258,7 +204,9 @@ Führen die Eltern keinen gemeinsamen Familiennamen, so kann zum Familiennamen d
 
 `§ 155 (3) ABGB.`  
 Mangels einer solchen Bestimmung erhält das Kind den Familiennamen der Mutter, auch wenn dieser ein Doppelname ist.
+----
 
+----
 ### § 156 ABGB
 
 `§ 156 (1) ABGB.`  
@@ -266,7 +214,9 @@ Den Familiennamen des Kindes bestimmt die mit der Pflege und Erziehung betraute 
 
 `§ 156 (2) ABGB.`  
 Entscheidungsfähige Personen bestimmen ihren Familiennamen selbst. Die Entscheidungsfähigkeit wird bei mündigen Minderjährigen vermutet.
+----
 
+----
 ### § 157 ABGB
 
 `§ 157 (1) ABGB.`  
@@ -277,5 +227,6 @@ Die Bestimmung eines Familiennamens nach § 155 ist nur einmalig zulässig.
 
 `§ 157 (3) ABGB.`  
 Auf die Bestimmung des Familiennamens des Kindes sind die §§ 93a und 93c anzuwenden.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.003](BG.ABGB.003.md))*
+`END-OF-DATA-SET`

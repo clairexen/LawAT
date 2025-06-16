@@ -1,365 +1,575 @@
 # BG.ABGB.009 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.009.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.008](BG.ABGB.008.md))*
 
-## Rechtsmittel zur Erhaltung des Besitzstandes:
+----
+## Fünftes Hauptstück. # Von Erwerbung des Eigenthumes durch Uebergabe.
 
-### § 344 ABGB # a) bey dringender Gefahr;
+### § 423 ABGB # Mittelbare Erwerbung
 
-`§ 344 ABGB.`  
-Zu den Rechten des Besitzes gehört auch das Recht, sich in seinem Besitze zu schützen, und in dem Falle, daß die richterliche Hülfe zu spät kommen würde, Gewalt mit angemessener Gewalt abzutreiben (§. 19). Uebrigens hat die politische Behörde für die Erhaltung der öffentlichen Ruhe, so wie das Strafgericht für die Bestrafung öffentlicher Gewaltthätigkeiten zu sorgen.
+`§ 423 ABGB.`  
+Sachen, die schon einen Eigenthümer haben, werden mittelbar erworben, indem sie auf eine rechtliche Art von dem Eigenthümer auf einen Andern übergehen.
+----
 
-### § 345 ABGB # d) gegen den unechten Besitzer;
+----
+### § 424 ABGB # Titel derselben
 
-`§ 345 ABGB.`  
-Wenn sich jemand in den Besitz eindringt, oder durch List oder Bitte heimlich einschleicht, und das, was man ihm aus Gefälligkeit, ohne sich einer fortdauernden Verbindlichkeit zu unterziehen gestattet, in ein fortwährendes Recht zu verwandeln sucht; so wird der an sich unrechtmäßige und unredliche Besitz noch überdieß unecht; in entgegengesetzten Fällen wird der Besitz für echt angesehen.
+`§ 424 ABGB.`  
+Der Titel der mittelbaren Erwerbung liegt in einem Vertrage; in einer Verfügung auf den Todesfall; in dem richterlichen Ausspruche; oder, in der Anordnung des Gesetzes.
+----
 
-### § 346 ABGB
+----
+### § 425 ABGB # Mittelbare Erwerbungsart
 
-`§ 346 ABGB.`  
-Gegen jeden unechten Besitzer kann so wohl die Zurücksetzung in die vorige Lage, als auch die Schadloshaltung eingeklagt werden. Beydes muß das Gericht nach rechtlicher Verhandlung, selbst ohne Rücksicht auf ein stärkeres Recht, welches der Geklagte auf die Sache haben könnte, verordnen.
+`§ 425 ABGB.`  
+Der bloße Titel gibt noch kein Eigenthum. Das Eigenthum und alle dingliche Rechte überhaupt können, außer den in dem Gesetze bestimmten Fällen, nur durch die rechtliche Uebergabe und Uebernahme erworben werden.
+----
 
-### § 347 ABGB # c) beym Zweifel über die Echtheit des Besitzes.
+----
+## Arten der Uebergabe;
 
-`§ 347 ABGB.`  
-Zeigt es sich nicht gleich auf der Stelle, wer sich in einem echten Besitze befinde, und in wie fern der eine oder der andere Theil auf gerichtliche Unterstützung Anspruch habe; so wird die im Streite verfangene Sache so lange der Gewahrsame des Gerichtes oder eines Dritten anvertraut, bis der Streit über den Besitz verhandelt und entschieden worden ist. Der Sachfällige kann auch nach dieser Entscheidung die Klage aus einem vermeintlich stärkeren Rechte auf die Sache noch anhängig machen.
+### § 426 ABGB # 1) bey beweglichen Sachen: # a) körperliche Uebergabe;
 
-### § 348 ABGB # Verwahrungsmittel des Inhabers gegen mehrere zusammentreffende Besitzwerber.
+`§ 426 ABGB.`  
+Bewegliche Sachen können in der Regel nur durch körperliche Uebergabe von Hand zu Hand an einen Andern übertragen werden.
+----
 
-`§ 348 ABGB.`  
-Wenn der bloße Inhaber von mehreren Besitzwerbern zugleich um die Uebergabe der Sache angegangen wird, und sich Einer darunter befindet, in dessen Nahmen die Sache aufbewahrt wurde; so wird sie vorzüglich diesem übergeben, und die Uebergabe den Uebrigen bekannt gemacht. Kommt dieser Umstand Keinem zu Statten, so wird die Sache der Gewahrsame des Richters oder eines Dritten anvertraut. Der Richter hat die Rechtsgründe der Besitzwerber zu prüfen, und darüber zu entscheiden.
+----
+### § 427 ABGB # b) Uebergabe durch Zeichen;
 
-## Erlöschung des Besitzes:
+`§ 427 ABGB.`  
+Bey solchen beweglichen Sachen aber, welche ihrer Beschaffenheit nach keine körperliche Uebergabe zulassen, wie bey Schuldforderungen, Frachtgütern, bey einem Waarenlager oder einer andern Gesammtsache, gestattet das Gesetz die Uebergabe durch Zeichen; indem der Eigenthümer dem Uebernehmer die Urkunden, wodurch das Eigenthum dargethan wird, oder die Werkzeuge übergibt, durch die der Uebernehmer in den Stand gesetzt wird, ausschließend den Besitz der Sache zu ergreifen; oder, indem man mit der Sache ein Merkmahl verbindet, woraus jedermann deutlich erkennen kann, daß die Sache einem Andern überlassen worden ist.
+----
 
-### § 349 ABGB # a) körperlicher Sachen;
+----
+### § 428 ABGB # c) durch Erklärung
 
-`§ 349 ABGB.`  
-Der Besitz einer körperlichen Sache geht insgemein verloren, wenn dieselbe ohne Hoffnung, wieder gefunden zu werden, in Verlust geräth; wenn sie freywillig verlassen wird; oder, in fremden Besitz kommt.
+`§ 428 ABGB.`  
+Durch Erklärung wird die Sache übergeben, wenn der Veräußerer auf eine erweisliche Art seinen Willen an den Tag legt, daß er die Sache künftig im Nahmen des Uebernehmers inne habe; oder, daß der Uebernehmer die Sache, welche er bisher ohne ein dingliches Recht inne hatte, künftig aus einem dinglichen Rechte besitzen solle.
+----
 
-### § 350 ABGB # b) der in die öffentlichen Bücher eingetragenen Rechte;
+----
+### § 429 ABGB # Folge in Rücksicht der übersendeten;
 
-`§ 350 ABGB.`  
-Der Besitz derjenigen Rechte und unbeweglichen Sachen, welche einen Gegenstand der öffentlichen Bücher ausmachen, erlischt, wenn sie aus den landtäflichen, Stadt- oder Grundbüchern gelöscht; oder, wenn sie auf den Nahmen eines Anderen eingetragen werden.
+`§ 429 ABGB.`  
+Wenn die Sache mit Willen des Übernehmers an einen anderen Ort als den Erfüllungsort übersendet wird, ist die Sache bereits mit ihrer Aushändigung an eine mit der Übersendung betraute Person übergeben, sofern die Art der Übersendung der getroffenen Vereinbarung, mangels einer solchen der Verkehrsübung entspricht.
+----
 
-### § 351 ABGB # c) anderer Rechte.
+----
+### § 430 ABGB # oder, an Mehrere veräußerten Sachen
 
-`§ 351 ABGB.`  
-Bey andern Rechten hört der Besitz auf, wenn der Gegentheil das, was er sonst geleistet hat, nicht mehr leisten zu wollen erkläret; wenn er die Ausübung des Rechtes eines Andern nicht mehr duldet; oder wenn er das Verboth, etwas zu unterlassen, nicht mehr achtet, der Besitzer aber in allen diesen Fällen es dabey bewenden läßt, und die Erhaltung des Besitzes nicht einklagt. Durch den bloßen Nichtgebrauch eines Rechtes geht der Besitz, außer den im Gesetze bestimmten Verjährungsfällen, nicht verloren.
+`§ 430 ABGB.`  
+Hat ein Eigenthümer eben dieselbe bewegliche Sache an zwey verschiedene Personen, an Eine mit, an die Andere ohne Uebergabe veräußert; so gebührt sie derjenigen, welcher sie zuerst übergeben worden ist; doch hat der Eigenthümer dem verletzten Theile zu haften.
+----
 
-### § 352 ABGB
+----
+### § 431 ABGB # 2. Bei unbeweglichen Sachen und Bauwerken
 
-`§ 352 ABGB.`  
-So lange noch Hoffnung vorhanden ist, eine verlorne Sache zu erhalten, kann man sich durch den bloßen Willen in ihrem Besitze erhalten. Die Abwesenheit des Besitzers oder die eintretende Unfähigkeit einen Besitz zu erwerben, heben den bereits erworbenen Besitz nicht auf.
+`§ 431 ABGB.`  
+Zur Uebertragung des Eigenthumes unbeweglicher Sachen muß das Erwerbungsgeschäft in die dazu bestimmten öffentlichen Bücher eingetragen werden. Diese Eintragung nennt man Einverleibung (Intabulation).
+----
 
-## Zweytes Hauptstück. # Von dem Eigenthumsrechte. # Begriff des Eigenthumes;
+----
+## Insbesondere bei Erwerbung
 
-### § 353 ABGB # Eigenthum im objectiven Sinne.
+### § 432 ABGB # a) durch Vertrag
 
-`§ 353 ABGB.`  
-Alles, was jemanden zugehöret, alle seine körperlichen und unkörperlichen Sachen, heißen sein Eigenthum.
+`§ 432 ABGB.`  
+Zu diesem Zwecke muß über das Erwerbungsgeschäft eine beglaubigte Urkunde in der zur Gültigkeit des Geschäftes vorgeschriebenen Form oder eine öffentliche Urkunde ausgefertigt werden.
+----
 
-### § 354 ABGB # im subjectiven.
+----
+### § 433 ABGB
 
-`§ 354 ABGB.`  
-Als ein Recht betrachtet, ist Eigenthum das Befugniß, mit der Substanz und den Nutzungen einer Sache nach Willkühr zu schalten, und jeden Andern davon auszuschließen.
+`§ 433 ABGB.`  
+Die Urkunde muß die genaue Angabe der Personen, die das Eigentum übergeben und übernehmen; der Liegenschaft, die übergeben werden soll, mit ihren Bestandteilen; des Rechtsgrundes der Übergabe; ferner des Ortes und der Zeit des Vertragsschlusses enthalten; und es muß von dem Übergeber in dieser oder in einer besonderen Urkunde die ausdrückliche Erklärung abgegeben werden, daß er in die Einverleibung einwillige.
+----
 
-### § 355 ABGB # Objective und subjective Möglichkeit der Erwerbung des Eigenthumes.
+----
+### § 434 ABGB
 
-`§ 355 ABGB.`  
-Alle Sachen sind insgemein Gegenstände des Eigenthumsrechtes, und jedermann, den die Gesetze nicht ausdrücklich ausschließen, ist befugt, dasselbe durch sich selbst oder durch einen andern in seinem Nahmen zu erwerben.
+`§ 434 ABGB.`  
+Zur Übertragung des Eigentums an Liegenschaften, die in keinem Grundbuche eingetragen sind, muß eine mit den Erfordernissen der §§ 432 und 433 versehene Urkunde bei Gericht hinterlegt werden. An die Stelle der Bewilligung der Einverleibung tritt die Erklärung der Einwilligung zur Hinterlegung der Urkunde.
+----
 
-### § 356 ABGB
+----
+### § 435 ABGB
 
-`§ 356 ABGB.`  
-Wer also behauptet, daß der Person, die etwas erwerben will, in Rücksicht ihrer persönlichen Fähigkeit, oder in Rücksicht auf die Sache, die erworben werden soll, ein gesetzliches Hinderniß entgegen stehe, dem liegt der Beweis ob.
+`§ 435 ABGB.`  
+Dasselbe gilt auch für die Übertragung des Eigentums an Bauwerken, die auf fremdem Grund in der Absicht aufgeführt sind, daß sie nicht stets darauf bleiben sollen, soferne sie nicht Zugehör eines Baurechtes sind.
+----
 
-### § 358 ABGB
+----
+### § 436 ABGB # b) durch Urtheil und andere gerichtliche Urkunden;
 
-`§ 358 ABGB.`  
-Alle Arten der Beschränkungen durch das Gesetz oder durch den Willen des Eigenthümers heben die Vollständigkeit des Eigenthumes nicht auf.
+`§ 436 ABGB.`  
+Wenn das Eigentum unbeweglicher Sachen oder eines Bauwerkes zufolge rechtskräftigen Urteils, gerichtlicher Teilung oder Einantwortung einer Erbschaft übertragen werden soll, ist ebenfalls die Einverleibung (§§ 431 bis 433) oder die Hinterlegung der Urkunde (§§ 434, 435) erforderlich.
+----
 
-### § 361 ABGB # Miteigenthum.
+----
+### § 437 ABGB # oder c) durch Vermächtnis
 
-`§ 361 ABGB.`  
-Wenn eine noch ungetheilte Sache mehrern Personen zugleich zugehört; so entsteht ein gemeinschaftliches Eigenthum. In Beziehung auf das Ganze werden die Miteigenthümer für eine einzige Person angesehen; in so weit ihnen aber gewisse, obgleich unabgesonderte Theile angewiesen sind, hat jeder Miteigenthümer das vollständige Eigenthum des ihm gehörigen Theiles.
+`§ 437 ABGB.`  
+Ebenso ist es, um das Eigentum eines vermachten unbeweglichen Gutes oder eines Bauwerkes zu erwerben, notwendig, daß die Sache dem Vermächtnisnehmer gemäß §§ 431 bis 435 übergeben werde.
+----
 
-### § 362 ABGB # Rechte des Eigenthümers.
+----
+### § 438 ABGB # Bedingte Aufzeichnung in das öffentliche Buch; oder Vormerkung
 
-`§ 362 ABGB.`  
-Kraft des Rechtes, frey über sein Eigenthum zu verfügen, kann der vollständige Eigenthümer in der Regel seine Sache nach Willkühr benützen oder unbenützt lassen; er kann sie vertilgen, ganz oder zum Theile auf Andere übertragen, oder unbedingt sich derselben begeben, das ist, sie verlassen.
+`§ 438 ABGB.`  
+Wenn derjenige, welcher das Eigenthum einer unbeweglichen Sache anspricht, darüber zwar eine glaubwürdige, aber nicht mit allen in den §§ 434 und 435 zur Einverleibung vorgeschriebenen Erfordernissen versehene Urkunde besitzt; so kann er doch, damit ihm niemand ein Vorrecht abgewinne, die bedingte Eintragung in das öffentliche Buch bewirken, welche Vormerkung (Pränotation) genannt wird. Dadurch erhält er ein bedingtes Eigenthumsrecht, und er wird, sobald er zu Folge richterlichen Ausspruches die Vormerkung gerechtfertiget hat, von der Zeit des nach gesetzlicher Ordnung eingereichten Vormerkungsgesuches, für den wahren Eigenthümer gehalten.
+----
 
-### § 363 ABGB # Beschränkungen derselben.
+----
+### § 439 ABGB
 
-`§ 363 ABGB.`  
-Eben diese Rechte genießen auch unvollständige, sowohl Ober- als Nutzungseigenthümer; nur darf der Eine nichts vornehmen, was mit dem Rechte des Andern im Widerspruche steht.
+`§ 439 ABGB.`  
+Die geschehene Vormerkung muß sowohl demjenigen, der sie bewirkt hat, als auch seinem Gegner durch Zustellung zu eigenen Handen bekannt gemacht werden. Der Vormerkungswerber muß binnen vierzehn Tagen, vom Tage der erhaltenen Zustellung, die ordentliche Klage zum Erweise des Eigenthumrechtes einreichen; widrigen Falls soll die bewirkte Vormerkung auf Ansuchen des Gegners gelöschet werden.
+----
 
-### § 364 ABGB
+----
+### § 440 ABGB # Vorschrift über die Colision der Einverleibungen
 
-`§ 364 (1) ABGB.`  
-Ueberhaupt findet die Ausübung des Eigenthumsrechtes nur in so fern Statt, als dadurch weder in die Rechte eines Dritten ein Eingriff geschieht, noch die in den Gesetzen zur Erhaltung und Beförderung des allgemeinen Wohles vorgeschriebenen Einschränkungen übertreten werden. Im Besonderen haben die Eigentümer benachbarter Grundstücke bei der Ausübung ihrer Rechte aufeinander Rücksicht zu nehmen.
+`§ 440 ABGB.`  
+Hat der Eigenthümer eben dieselbe unbewegliche Sache zwey verschiedenen Personen überlassen; so fällt sie derjenigen zu, welche früher die Einverleibung angesucht hat.
+----
 
-`§ 364 (2) ABGB.`  
-Der Eigentümer eines Grundstückes kann dem Nachbarn die von dessen Grund ausgehenden Einwirkungen durch Abwässer, Rauch, Gase, Wärme, Geruch, Geräusch, Erschütterung und ähnliche insoweit untersagen, als sie das nach den örtlichen Verhältnissen gewöhnliche Maß überschreiten und die ortsübliche Benutzung des Grundstückes wesentlich beeinträchtigen. Unmittelbare Zuleitung ist ohne besonderen Rechtstitel unter allen Umständen unzulässig.
+----
+## Folge der Erwerbung:
 
-`§ 364 (3) ABGB.`  
-Ebenso kann der Grundstückseigentümer einem Nachbarn die von dessen Bäumen oder anderen Pflanzen ausgehenden Einwirkungen durch den Entzug von Licht oder Luft insoweit untersagen, als diese das Maß des Abs. 2 überschreiten und zu einer unzumutbaren Beeinträchtigung der Benutzung des Grundstücks führen. Bundes- und landesgesetzliche Regelungen über den Schutz von oder vor Bäumen und anderen Pflanzen, insbesondere über den Wald-, Flur-, Feld-, Ortsbild-, Natur- und Baumschutz, bleiben unberührt.
+### § 441 ABGB # a) in Rücksicht des Besitzes;
 
-### § 364a ABGB
+`§ 441 ABGB.`  
+So bald die Urkunde über das Eigenthumsrecht in das öffentliche Buch eingetragen ist, tritt der neue Eigenthümer in den rechtmäßigen Besitz.
+----
 
-`§ 364a ABGB.`  
-Wird jedoch die Beeinträchtigung durch eine Bergwerksanlage oder eine behördlich genehmigte Anlage auf dem nachbarlichen Grund in einer dieses Maß überschreitenden Weise verursacht, so ist der Grundbesitzer nur berechtigt, den Ersatz des zugefügten Schadens gerichtlich zu verlangen, auch wenn der Schaden durch Umstände verursacht wird, auf die bei der behördlichen Verhandlung keine Rücksicht genommen wurde.
+----
+### § 442 ABGB # b) der damit verbundenen Rechte:
 
-### § 364b ABGB
+`§ 442 ABGB.`  
+Wer das Eigenthum einer Sache erwirbt, erlangt auch die damit verbundenen Rechte. Rechte, die auf die Person des Uebergebers eingeschränkt sind, kann er nicht übergeben. Ueberhaupt kann niemand einem Andern mehr Recht abtreten, als er selbst hat.
+----
 
-`§ 364b ABGB.`  
-Ein Grundstück darf nicht in der Weise vertieft werden, daß der Boden oder das Gebäude des Nachbars die erforderliche Stütze verliert, es sei denn, daß der Besitzer des Grundstückes für eine genügende anderweitige Befestigung Vorsorge trifft.
+----
+### § 443 ABGB # c) Lasten
 
-### § 364c ABGB
+`§ 443 ABGB.`  
+Mit dem Eigenthume unbeweglicher Sachen werden auch die darauf haftenden in den öffentlichen Büchern angemerkten Lasten übernommen. Wer diese Bücher nicht einsieht, leidet in allen Fällen für seine Nachlässigkeit. Andere Forderungen und Ansprüche, die jemand an den vorigen Eigenthümer hat, gehen nicht auf den neuen Erwerber über.
+----
 
-`§ 364c ABGB.`  
-Ein vertragsmäßiges oder letztwilliges Veräußerungs- oder Belastungsverbot hinsichtlich einer Sache oder eines dinglichen Rechtes verpflichtet nur den ersten Eigentümer, nicht aber seine Erben oder sonstigen Rechtsnachfolger. Gegen Dritte wirkt es dann, wenn es zwischen Ehegatten, eingetragenen Partnern, Eltern und Kindern, Wahl- oder Pflegekindern oder deren Ehegatten oder eingetragenen Partnern begründet und im öffentlichen Buche eingetragen wurde.
+----
+### § 444 ABGB # Erlöschung des Eigenthumsrechtes
 
-### § 365 ABGB
+`§ 444 ABGB.`  
+Das Eigenthum überhaupt kann durch den Willen des Eigenthümers; durch das Gesetz; und durch richterlichen Ausspruch verloren gehen. Das Eigenthum der unbeweglichen Sachen aber wird nur durch die Löschung aus den öffentlichen Büchern aufgehoben.
+----
 
-`§ 365 ABGB.`  
-Wenn es das allgemeine Beste erheischt, muß ein Mitglied des Staates gegen eine angemessene Schadloshaltung selbst das vollständige Eigenthum einer Sache abtreten.
+----
+### § 445 ABGB # Ausdehnung dieser Vorschriften auf andere dingliche Rechte
 
-## Klagen aus dem Eigenthumsrechte.
+`§ 445 ABGB.`  
+Nach den in diesem Hauptstücke über die Erwerbungs- und Erlöschungsart des Eigenthumsrechtes unbeweglicher Sachen gegebenen Vorschriften hat man sich auch bey den übrigen, auf unbewegliche Sachen sich beziehenden, dinglichen Rechten zu verhalten.
+----
 
-### § 366 ABGB # a) Eigentliche Eigenthumsklage; wem und gegen wen sie gebühre?
+----
+### § 446 ABGB # Form und Vorsichten der Einverleibungen
 
-`§ 366 ABGB.`  
-Mit dem Rechte des Eigenthümers jeden Andern von dem Besitze seiner Sache auszuschließen, ist auch das Recht verbunden, seine ihm vorenthaltene Sache von jedem Inhaber durch die Eigenthumsklage gerichtlich zu fordern. Doch steht dieses Recht demjenigen nicht zu, welcher eine Sache zur Zeit, da er noch nicht Eigenthümer war, in seinem eigenen Nahmen veräußert, in der Folge aber das Eigenthum derselben erlangt hat.
+`§ 446 ABGB.`  
+Auf was Art und mit welchen Vorsichten überhaupt bey Einverleibung dinglicher Rechte vorzugehen sey, ist in den über die Einrichtung der Landtafeln und Grundbücher bestehenden besondern Anordnungen enthalten.
+----
 
-### § 367 ABGB # Gutgläubiger Erwerb
+----
+## Sechstes Hauptstück. # Von dem Pfandrechte.
 
-`§ 367 (1) ABGB.`  
-Die Eigentumsklage gegen den rechtmäßigen und redlichen Besitzer einer beweglichen Sache ist abzuweisen, wenn er beweist, dass er die Sache gegen Entgelt in einer öffentlichen Versteigerung, von einem Unternehmer im gewöhnlichen Betrieb seines Unternehmens oder von jemandem erworben hat, dem sie der vorige Eigentümer anvertraut hatte. In diesen Fällen erwirbt der rechtmäßige und redliche Besitzer das Eigentum. Der Anspruch des vorigen Eigentümers auf Schadenersatz gegen seinen Vertrauensmann oder gegen andere Personen bleibt unberührt.
+### § 447 ABGB # Begriff von dem Pfandrechte und Pfande
 
-`§ 367 (2) ABGB.`  
-Ist die Sache mit dem Recht eines Dritten belastet, so erlischt dieses Recht mit dem Erwerb des Eigentums durch den rechtmäßigen und redlichen Besitzer, es sei denn, dass dieser in Ansehung dieses Rechtes nicht redlich ist.
+`§ 447 ABGB.`  
+Das Pfandrecht ist das dingliche Recht, welches dem Gläubiger eingeräumt wird, aus einer Sache, wenn die Verbindlichkeit zur bestimmten Zeit nicht erfüllt wird, die Befriedigung zu erlangen. Die Sache, worauf dem Gläubiger dieses Recht zusteht, heißt überhaupt ein Pfand.
+----
 
-### § 368 ABGB
+----
+### § 448 ABGB # Arten des Pfandes
 
-`§ 368 (1) ABGB.`  
-Der Besitzer ist redlich, wenn er weder weiß noch vermuten muss, dass die Sache nicht dem Veräußerer gehört. Beim Erwerb von einem Unternehmer im gewöhnlichen Betrieb seines Unternehmens genügt der gute Glaube an die Befugnis des Veräußerers, über die Sache zu verfügen.
+`§ 448 ABGB.`  
+Als Pfand kann jede Sache dienen, die im Verkehre steht. Ist sie beweglich, so wird sie Handpfand, oder ein Pfand in enger Bedeutung genannt; ist sie unbeweglich, so heißt sie eine Hypothek oder ein Grundpfand.
+----
 
-`§ 368 (2) ABGB.`  
-Beweist der Eigentümer, dass der Besitzer aus der Natur der Sache, aus ihrem auffällig geringen Preis, aus den ihm bekannten persönlichen Eigenschaften seines Vormanns, aus dessen Unternehmen oder aus anderen Umständen einen gegründeten Verdacht hätte schöpfen müssen, so hat der Besitzer die Sache dem Eigentümer zu überlassen.
+----
+### § 449 ABGB # Titel des Pfandrechtes
 
-### § 369 ABGB # Was dem Kläger zu beweisen obliege?
+`§ 449 ABGB.`  
+Das Pfandrecht bezieht sich zwar immer auf eine gültige Forderung, aber nicht jede Forderung gibt einen Titel zur Erwerbung des Pfandrechtes. Dieser gründet sich auf das Gesetz; auf einen richterlichen Ausspruch; auf einen Vertrag; oder den letzten Willen des Eigenthümers.
+----
 
-`§ 369 ABGB.`  
-Wer die Eigenthumsklage übernimmt, muß den Beweis führen, daß der Geklagte die eingeklagte Sache in seiner Macht habe, und daß diese Sache sein Eigenthum sey.
+----
+### § 450 ABGB
 
-### § 370 ABGB
+`§ 450 ABGB.`  
+Die Fälle, in welchen das Gesetz jemanden das Pfandrecht einräumt, sind am gehörigen Orte dieses Gesetzbuches und bey dem Verfahren in Concurs-Fällen angegeben. In wie fern das Gericht ein Pfandrecht einräumen könne, bestimmt die Gerichtsordnung. Soll durch die Einwilligung des Schuldners oder eines Dritten, der seine Sache für ihn verhaftet, das Pfandrecht erworben werden; so dienen die Vorschriften von Verträgen und Vermächtnissen zur Richtschnur.
+----
 
-`§ 370 ABGB.`  
-Wer eine bewegliche Sache gerichtlich zurückfordert, muß sie durch Merkmahle beschreiben, wodurch sie von allen ähnlichen Sachen gleicher Gattung ausgezeichnet wird.
+----
+## Erwerbungsart des Pfandrechtes:
 
-### § 371 ABGB
+### § 451 ABGB # a) durch körperliche Übergabe; # b) durch Einverleibung oder gerichtliche Urkundenhinterlegung;
 
-`§ 371 ABGB.`  
-Sachen, die sich auf diese Art nicht unterscheiden lassen, wie bares Geld mit anderm baren Gelde vermenget, oder auf den Ueberbringer lautende Schuldbriefe, sind also in der Regel kein Gegenstand der Eigenthumsklage; wenn nicht solche Umstände eintreten, aus denen der Kläger sein Eigenthumsrecht beweisen kann, und aus denen der Geklagte wissen mußte, daß er die Sache sich zuzuwenden nicht berechtiget sey.
+`§ 451 (1) ABGB.`  
+Um das Pfandrecht wirklich zu erwerben, muß der mit einem Titel versehene Gläubiger, die verpfändete Sache, wenn sie beweglich ist, in Verwahrung nehmen; und, wenn sie unbeweglich ist, seine Forderung auf die zur Erwerbung des Eigenthumes liegender Güter vorgeschriebene Art einverleiben lassen. Der Titel allein gibt nur ein persönliches Recht zu der Sache, aber kein dingliches Recht auf die Sache.
 
-## b) Eigenthumsklage aus dem rechtlich vermuteten Eigenthume des Klägers.
+`§ 451 (2) ABGB.`  
+Das Pfandrecht an bücherlich nicht eingetragenen Liegenschaften (§ 434) oder an Bauwerken (§ 435) wird durch die gerichtliche Hinterlegung einer beglaubigten Pfandbestellungsurkunde erworben. Die Urkunde muß die genaue Angabe des Pfandgegenstandes und der Forderung mit einer ziffermäßig bestimmten Geldsumme, bei einer verzinslichen Forderung auch die Höhe der Zinsen; ferner die ausdrückliche Zustimmung des Verpfänders zu der gerichtlichen Hinterlegung enthalten.
+----
 
-### § 372 ABGB # Gegen welchen Besitzer diese Vermuthung eintrete?
+----
+### § 452 ABGB # c) durch symbolische Uebergabe;
 
-`§ 372 ABGB.`  
-Wenn der Kläger mit dem Beweise des erworbenen Eigenthumes einer ihm vorenthaltenen Sache zwar nicht ausreicht, aber den gültigen Titel, und die echte Art, wodurch er zu ihrem Besitze gelangt ist, dargethan hat; so wird er doch in Rücksicht eines jeden Besitzers, der keinen, oder nur einen schwächern Titel seines Besitzes anzugeben vermag, für den wahren Eigenthümer gehalten.
+`§ 452 ABGB.`  
+Bey Verpfändung derjenigen beweglichen Sachen, welche keine körperliche Uebergabe von Hand zu Hand zulassen, muß man sich, wie bey der Uebertragung des Eigenthumes (§ 427), solcher Zeichen bedienen, woraus jedermann die Verpfändung leicht erfahren kann. Wer diese Vorsicht unterläßt, haftet für die nachtheiligen Folgen.
+----
 
-### § 373 ABGB
+----
+### § 453 ABGB # d) durch die Vormerkung
 
-`§ 373 ABGB.`  
-Wenn also der Geklagte die Sache auf eine unredliche oder unrechtmäßige Weise besitzt; wenn er keinen oder nur einen verdächtigen Vormann anzugeben vermag; oder, wenn er die Sache ohne Entgeld, der Kläger aber gegen Entgeld erhalten hat; so muß er dem Kläger weichen.
+`§ 453 ABGB.`  
+Findet die Einverleibung einer Forderung in die öffentlichen Bücher wegen Mangels gesetzmäßiger Förmlichkeit in der Urkunde nicht Statt; so kann sich der Gläubiger vormerken (pränotiren) lassen. Durch diese Vormerkung erhält er ein bedingtes Pfandrecht, welches, wenn die Forderung auf die oben §§ 438 und 439 angeführte Art gerechtfertiget worden ist, von dem Zeitpuncte des nach gesetzlicher Ordnung eingereichten Vormerkungsgesuches in ein unbedingtes übergeht.
+----
 
-### § 374 ABGB
+----
+### § 454 ABGB # Erwerbung eines Afterpfandes
 
-`§ 374 ABGB.`  
-Haben der Geklagte und der Kläger einen gleichen Titel ihres echten Besitzes, so gebühret dem Geklagten kraft des Besitzes der Vorzug.
+`§ 454 ABGB.`  
+Der Pfandinhaber kann sein Pfand, in so weit er ein Recht darauf hat, einem Dritten wieder verpfänden, und in so fern wird es zum Afterpfande, wenn zugleich Letzerer sich dasselbe übergeben, oder die Afterverpfändung auf das Pfandrecht in die öffentlichen Bücher eintragen läßt.
+----
 
-### § 375 ABGB
+----
+### § 455 ABGB
 
-`§ 375 ABGB.`  
-Wer eine Sache in fremdem Nahmen besitzt, kann sich gegen die Eigenthumsklage dadurch schützen, daß er seinen Vormann nahmhaft macht, und sich darüber ausweiset.
+`§ 455 ABGB.`  
+Wird der Eigenthümer von der weiteren Verpfändung benachrichtiget; so kann er seine Schuld nur mit Willen dessen, der das Afterpfand hat, dem Gläubiger abführen, oder er muß sie gerichtlich hinterlegen, sonst bleibt das Pfand dem Inhaber des Afterpfandes verhaftet.
+----
 
-## Gesetzliche Folge:
+----
+### § 456 ABGB # Verpfändung einer fremden Sache
 
-### § 376 ABGB # a) der Abläugnung des Besitzes;
+`§ 456 (1) ABGB.`  
+Wird eine bewegliche Sache von jemandem verpfändet, dem sie nicht gehört und der darüber auch nicht verfügen kann, so hat der Eigentümer zwar in der Regel das Recht, sie zurückzufordern. In solchen Fällen, in denen die Eigentumsklage gegen einen rechtmäßigen und redlichen Besitzer abzuweisen ist (§§ 367 und 368), ist er aber verpflichtet, den Pfandbesitzer schadlos zu halten oder das Pfand fahren zu lassen und sich mit dem Schadenersatzanspruch gegen den Verpfänder oder dritte Personen zu begnügen.
 
-`§ 376 ABGB.`  
-Wer den Besitz einer Sache vor Gericht läugnet, und dessen überwiesen wird, muß dem Kläger deßwegen allein schon den Besitz abtreten; doch behält er das Recht, in der Folge seine Eigenthumsklage anzustellen.
+`§ 456 (2) ABGB.`  
+Ist die Sache mit dem Recht eines Dritten belastet, so geht das Pfandrecht des rechtmäßigen und redlichen Pfandbesitzers diesem Recht vor, es sei denn, dass der Pfandbesitzer in Ansehung dieses Rechtes nicht redlich ist (§ 368).
+----
 
-### § 377 ABGB # b) des vorgegebenen Besitzes;
+----
+### § 457 ABGB # Objectiver Umfang des Pfandrechtes
 
-`§ 377 ABGB.`  
-Wer eine Sache, die er nicht besitzt, zu besitzen vorgibt, und den Kläger dadurch irre führt, haftet für allen daraus entstehenden Schaden.
+`§ 457 ABGB.`  
+Das Pfandrecht erstreckt sich auf alle zu dem freyen Eigenthume des Verpfänders gehörige Theile, auf Zuwachs und Zugehör des Pfandes, folglich auch auf die Früchte, in so lange sie noch nicht abgesondert oder bezogen sind. Wenn also ein Schuldner einem Gläubiger sein Gut, und einem andern später die Früchte desselben verpfändet; so ist die spätere Verpfändung nur in Rücksicht auf die schon abgesonderten und bezogenen Früchte wirksam.
+----
 
-### § 378 ABGB # c) des aufgegebenen Besitzes der streitigen Sache.
+----
+## Rechte und Verbindlichkeiten des Pfandgläubigers:
 
-`§ 378 ABGB.`  
-Wer eine Sache im Besitze hatte, und nach zugestellter Klage fahren ließ, muß sie dem Kläger, wenn dieser sich nicht an den wirklichen Inhaber halten will, auf seine Kosten zurück verschaffen, oder den außerordentlichen Werth derselben ersetzen.
+### § 458 ABGB # a) bey Entdeckung eines unzureichenden Pfandes;
 
-### § 379 ABGB # Was der Besitzer dem Eigenthümer erstatte.
+`§ 458 ABGB.`  
+Wenn der Werth eines Pfandes durch Verschulden des Pfandgebers, oder wegen eines erst offenbar gewordenen Mangels der Sache zur Bedeckung der Schuld nicht mehr zureichend gefunden wird; so ist der Gläubiger berechtigt, von dem Pfandgeber ein anderes angemessenes Pfand zu fordern.
+----
 
-`§ 379 ABGB.`  
-Was sowohl der redliche als unredliche Besitzer dem Eigenthümer in Ansehung des entgangenen Nutzens, oder des erlittenen Schadens zu ersetzen habe, ist in dem vorigen Hauptstücke bestimmt worden.
+----
+### § 459 ABGB # b) vor dem Verfalle;
 
-## Drittes Hauptstück. # Von der Erwerbung des Eigenthumes durch Zueignung.
+`§ 459 ABGB.`  
+Ohne Bewilligung des Pfandgebers darf der Gläubiger das Pfandstück nicht benützen; er muß es vielmehr genau bewahren, und, wenn es durch sein Verschulden in Verlust geräth, dafür haften. Geht es ohne sein Verschulden verloren, so verliert er deßwegen seine Forderung nicht.
+----
 
-### § 380 ABGB # Rechtliche Erfordernisse der Erwerbung.
+----
+### § 460 ABGB
 
-`§ 380 ABGB.`  
-Ohne Titel und ohne rechtliche Erwerbungsart kann kein Eigenthum erlangt werden.
+`§ 460 ABGB.`  
+Hat der Gläubiger das Pfand weiter verpfändet; so haftet er selbst für einen solchen Zufall, wodurch das Pfand bey ihm nicht zu Grunde gegangen oder verschlimmert worden wäre.
+----
 
-## Titel und Art der unmittelbaren Erwerbung.
+----
+### § 460a ABGB
 
-### § 381 ABGB # Die Zueignung.
+`§ 460a (1) ABGB.`  
+Wenn eine bewegliche körperliche Sache einschließlich eines Inhaber- oder Orderpapiers als Pfand zu verderben oder erheblich und dauernd so an Wert zu verlieren droht, dass die Sicherheit des Pfandgläubigers gefährdet wird, kann dieser das Pfand bereits vor der Fälligkeit seiner Forderung gemäß den §§ 466a bis 466d außergerichtlich verwerten. Der Pfandgläubiger hat dem Pfandgeber tunlichst die Gelegenheit zur Leistung einer anderweitigen Sicherheit einzuräumen.
 
-`§ 381 ABGB.`  
-Bey freystehenden Sachen besteht der Titel in der angebornen Freyheit, sie in Besitz zu nehmen. Die Erwerbungsart ist die Zueignung, wodurch man sich einer freystehenden Sache bemächtigt, in der Absicht, sie als die seinige zu behandeln.
+`§ 460a (2) ABGB.`  
+Der Erlös tritt an die Stelle des Pfandes. Auf Verlangen des Pfandgebers ist der Erlös zu hinterlegen.
+----
 
-### § 382 ABGB
+----
+### § 461 ABGB # c) nach dem Verfalle der Forderung;
 
-`§ 382 ABGB.`  
-Freystehende Sachen können von allen Mitgliedern des Staates durch die Zueignung erworben werden, in so fern dieses Befugniß nicht durch politische Gesetze eingeschränkt ist, oder einigen Mitgliedern das Vorrecht der Zueignung zusteht.
+`§ 461 ABGB.`  
+Wird der Pfandgläubiger nach Verlauf der bestimmten Zeit nicht befriediget; so ist er befugt, die Feilbiethung des Pfandes gerichtlich zu verlangen. Das Gericht hat dabey nach Vorschrift der Gerichtsordnung zu verfahren.
+----
 
-### § 383 ABGB # 1) Durch den Thierfang;
+----
+### § 462 ABGB
 
-`§ 383 ABGB.`  
-Dieses gilt insbesondere von dem Thierfange. Wem das Recht zu jagen oder zu fischen gebühre; wie der übermäßige Anwachs des Wildes gehemmet, und der vom Wilde verursachte Schade ersetzet werde; wie der Honigraub, der durch fremde Bienen geschieht, zu verhindern sey; ist in den politischen Gesetzen festgesetzt. Wie Wilddiebe zu bestrafen seyn, wird in den Strafgesetzen bestimmt.
+`§ 462 ABGB.`  
+Vor der Feilbiethung des Gutes ist jedem darauf eingetragenen Pfandgläubiger die Einlösung der Forderung, wegen welcher die Feilbiethung angesucht worden, zu gestatten.
+----
 
-### § 384 ABGB
+----
+### § 463 ABGB
 
-`§ 384 ABGB.`  
-Häusliche Bienenschwärme und andere zahme oder zahm gemachte Thiere sind kein Gegenstand des freyen Thierfanges, vielmehr hat der Eigenthümer das Recht, sie auf fremdem Grunde zu verfolgen; doch soll er dem Grundbesitzer den ihm etwa verursachten Schaden ersetzen. Im Falle, daß der Eigenthümer des Mutterstockes den Schwarm durch zwey Tage nicht verfolgt hat; oder, daß ein zahm gemachtes Thier durch zwey und vierzig Tage von selbst ausgeblieben ist, kann sie auf gemeinem Grunde jedermann; auf dem seinigen der Grundeigenthümer für sich nehmen, und behalten.
+`§ 463 ABGB.`  
+Schuldner haben kein Recht, bey Versteigerung einer von ihnen verpfändeten Sache mitzubiethen.
+----
 
-### § 385 ABGB # 2) durch das Finden freystehender Sachen;
+----
+### § 464 ABGB
 
-`§ 385 ABGB.`  
-Keine Privat-Person ist berechtigt, die dem Staate durch die politischen Verordnungen vorbehaltenen Erzeugnisse sich zuzueignen.
+`§ 464 ABGB.`  
+Wird der Schuldbetrag aus dem Pfande nicht gelöset, so ersetzt der Schuldner das Fehlende; ihm fällt aber auch das zu, was über den Schuldbetrag gelöset wird.
+----
 
-### § 386 ABGB
+----
+### § 465 ABGB
 
-`§ 386 ABGB.`  
-Bewegliche Sachen, welche der Eigenthümer nicht mehr als die seinigen behalten will, und daher verläßt, kann sich jedes Mitglied des Staates eigen machen. Im Zweifel ist nicht zu vermuten, dass jemand sein Eigentum aufgeben wolle; daher darf kein Finder eine gefundene Sache für verlassen ansehen und sich diese zueignen.
+`§ 465 ABGB.`  
+In wie fern ein Pfandgläubiger sich an sein Pfand zu halten schuldig; oder, auf ein anderes Vermögen seines Schuldners zu greifen berechtigt sey, bestimmt die Gerichtsordnung.
+----
 
-### § 387 ABGB
+----
+### § 466 ABGB
 
-`§ 387 ABGB.`  
-In wie fern Grundstücke wegen gänzlicher Unterlassung ihres Anbaues, oder Gebäude wegen der unterlassenen Herstellung für verlassen anzusehen, oder einzuziehen seyn, bestimmen die politischen Gesetze.
+`§ 466 ABGB.`  
+Hat der Schuldner während der Verpfändungszeit das Eigenthum der verpfändeten Sache auf einen Andern übertragen; so steht dem Gläubiger frey, erst sein persönliches Recht gegen den Schuldner, und dann seine volle Befriedigung an der verpfändeten Sache zu suchen.
+----
 
-## Vorschriften über das Finden
+----
+### § 466a ABGB # d) außergerichtliche Pfandverwertung
 
-### § 388 ABGB # a) verlorener und vergessener Sachen
+`§ 466a (1) ABGB.`  
+Der Pfandgläubiger kann sich aus einer beweglichen körperlichen Sache (§ 460a Abs. 1), die ihm verpfändet worden ist oder an der er ein gesetzliches Pfandrecht erworben hat, auch durch den Verkauf der Sache befriedigen.
 
-`§ 388 (1) ABGB.`  
-Verloren sind bewegliche, in niemandes Gewahrsame stehende Sachen, die ohne den Willen des Inhabers aus seiner Gewalt gekommen sind.
+`§ 466a (2) ABGB.`  
+Der Pfandgläubiger hat bei der Verwertung der Sache angemessen auf die Interessen des Pfandgebers Bedacht zu nehmen.
 
-`§ 388 (2) ABGB.`  
-Vergessen sind bewegliche Sachen, die ohne den Willen des Inhabers an einem fremden, unter der Aufsicht eines anderen stehenden Ort zurückgelassen worden und dadurch in fremde Gewahrsame gekommen sind.
+`§ 466a (3) ABGB.`  
+Der Pfandgläubiger und der Pfandgeber können abweichende Arten der außergerichtlichen Pfandverwertung vereinbaren. Besondere Vorschriften über die außergerichtliche Verwertung von Sicherheiten bleiben unberührt.
+----
 
-### § 389 ABGB
+----
+### § 466b ABGB
 
-`§ 389 (1) ABGB.`  
-Finder ist, wer eine verlorene oder vergessene Sache entdeckt und an sich nimmt.
+`§ 466b (1) ABGB.`  
+Der Pfandgläubiger hat dem Pfandgeber nach Eintritt der Fälligkeit der gesicherten Forderung den Verkauf der Sache anzudrohen, soweit dies nicht untunlich ist. Er hat dabei die Höhe der ausstehenden Forderung anzugeben. Der Verkauf darf erst einen Monat nach dessen Androhung oder, wenn diese untunlich war, nach Eintritt der Fälligkeit stattfinden. Besteht an der Sache ein anderes Pfandrecht, so hat der Gläubiger den Verkauf auch dem anderen Pfandgläubiger anzudrohen. Diesem ist die Einlösung der Forderung zu gestatten (§ 462).
 
-`§ 389 (2) ABGB.`  
-Verlustträger sind der Eigentümer und andere zur Innehabung der verlorenen oder vergessenen Sache berechtigte Personen.
+`§ 466b (2) ABGB.`  
+Der Verkauf ist im Wege einer öffentlichen Versteigerung durch einen dazu befugten Unternehmer zu bewirken.
 
-### § 390 ABGB
+`§ 466b (3) ABGB.`  
+Zeit und Ort der Versteigerung sind unter allgemeiner Bezeichnung des Pfandes öffentlich bekannt zu machen. Der Pfandgeber und Dritte, denen Rechte am Pfand zustehen, sind hievon zu benachrichtigen.
 
-`§ 390 ABGB.`  
-Der Finder hat den Fund unverzüglich der zuständigen Fundbehörde (§ 14 Abs. 5 SPG) unter Abgabe der gefundenen Sache anzuzeigen und über alle für die Ausforschung eines Verlustträgers maßgeblichen Umstände Auskunft zu geben.
+`§ 466b (4) ABGB.`  
+Sachen mit einem Börsen- oder Marktpreis dürfen zu diesem Preis vom Pfandgläubiger auch aus freier Hand verkauft werden. Wertpapiere, die einen Börsen- oder Marktpreis haben, sowie Sparurkunden dürfen nur aus freier Hand zu ihrem Preis oder Wert verkauft werden.
+----
 
-### § 391 ABGB
+----
+### § 466c ABGB
 
-`§ 391 ABGB.`  
-Die Pflichten nach § 390 bestehen nicht, wenn  
-`§ 391 Z 1 ABGB.`
-der Finder die gefundene Sache einem Verlustträger vor der Anzeigeerstattung ausfolgt oder  
-`§ 391 Z 2 ABGB.`
-der gemeine Wert der gefundenen Sache 10 Euro nicht übersteigt, es sei denn erkennbar, dass die Wiedererlangung der Sache für einen Verlustträger von erheblicher Bedeutung ist.
+`§ 466c (1) ABGB.`  
+Das Pfand darf nur mit der Bestimmung verkauft werden, dass der Erwerber den Kaufpreis sofort zu entrichten hat. Wird die Sache dem Erwerber vor der Entrichtung des Preises übergeben, so gilt auch der Kaufpreis als dem Pfandgläubiger übergeben.
 
-### § 392 ABGB
+`§ 466c (2) ABGB.`  
+Der Pfandgläubiger hat den Pfandgeber vom Verkauf des Pfandes und von dessen Ergebnis unverzüglich zu verständigen.
 
-`§ 392 ABGB.`  
-Der Finder hat gegen den, dem der Fundgegenstand ausgefolgt wird, Anspruch auf Finderlohn und auf Ersatz des notwendig und zweckmäßig gemachten Aufwandes.
+`§ 466c (3) ABGB.`  
+Mit dem Verkauf erlöschen die Pfandrechte an der Sache selbst. Das Gleiche gilt für andere dingliche Rechte, sofern diese nicht allen Pfandrechten im Rang vorgehen.
 
-### § 393 ABGB
+`§ 466c (4) ABGB.`  
+Der Kaufpreis gebührt dem Pfandgläubiger nach Maßgabe seines Ranges im Ausmaß der gesicherten Forderung und der angemessenen Kosten einer zweckentsprechenden Verwertung. Im Übrigen tritt der Anspruch des Pfandgebers auf Herausgabe des Mehrbetrags an die Stelle des Pfandes.
 
-`§ 393 (1) ABGB.`  
-Der Finderlohn beträgt bei verlorenen Sachen 10 vH, bei vergessenen Sachen 5 vH des gemeinen Wertes. Übersteigt der gemeine Wert 2 000 Euro, so beträgt der Finderlohn in Rücksicht des Übermaßes die Hälfte dieser Hundertersätze.
+`§ 466c (5) ABGB.`  
+Wenn der Pfandgläubiger und der Pfandgeber eine abweichende Art der Pfandverwertung vereinbaren und am Pfand einem Dritten ein Recht zusteht, das durch die Verwertung erlischt, so bedarf die Vereinbarung zu ihrer Wirksamkeit der Zustimmung des Dritten.
+----
 
-`§ 393 (2) ABGB.`  
-Bei unschätzbaren Sachen und solchen, deren Wiedererlangung für den Verlustträger von erheblicher Bedeutung ist, ist der Finderlohn nach billigem Ermessen festzulegen; hierbei ist auf die Grundsätze des Abs. 1, auf die dem Finder entstandene Mühe und auf den dem Verlustträger durch die Wiedererlangung der gefundenen Sache verschafften Vorteil Bedacht zu nehmen.
+----
+### § 466d ABGB
 
-### § 394 ABGB
+`§ 466d ABGB.`  
+Wenn der Pfandgläubiger die Sache außergerichtlich als Pfand verwertet, genügt für die Redlichkeit des Erwerbers (§§ 367 und 368) der gute Glaube in die Befugnis des Pfandgläubigers, über die Sache zu verfügen.
+----
 
-`§ 394 ABGB.`  
-Ein Anspruch auf Finderlohn besteht nicht, wenn  
-`§ 394 Z 1 ABGB.`
-die Sache von einer Person im Rahmen ihrer privat- oder öffentlich-rechtlichen, die Rettung der Sache umfassenden Pflicht gefunden worden ist oder  
-`§ 394 Z 2 ABGB.`
-der Finder die in den §§ 390 und 391 enthaltenen Anordnungen schuldhaft verletzt hat oder  
-`§ 394 Z 3 ABGB.`
-die vergessene Sache auch sonst ohne deren Gefährdung wiedererlangt worden wäre.
+----
+### § 466e ABGB
 
-### § 395 ABGB
+`§ 466e (1) ABGB.`  
+Besteht das Pfandrecht an einem Inhaber- oder Orderpapier, so ist der Pfandgläubiger berechtigt, eine etwa erforderliche Kündigung vorzunehmen und die Forderung aus dem Wertpapier einzuziehen.
 
-`§ 395 ABGB.`  
-Wird die Sache innerhalb eines Jahres oder, wenn der gemeine Wert der Sache im Zeitpunkt des Fundes 100 Euro nicht übersteigt, innerhalb eines halben Jahres von keinem Verlustträger angesprochen, so erwirbt der Finder das Eigentum an der in seiner Gewahrsame befindlichen Sache mit Ablauf der Frist, an der abgegebenen Sache mit ihrer Ausfolgung an ihn. Die Frist beginnt im Fall des § 391 Z 2 mit dem Zeitpunkt des Findens, sonst mit der Erstattung der Anzeige (§ 390).
+`§ 466e (2) ABGB.`  
+Ist die Forderung aus dem verpfändeten Papier bereits fällig, so kann der Pfandgläubiger diese auch dann einziehen, wenn die gesicherte Forderung noch nicht fällig ist. In diesem Fall erwirbt der Pfandgläubiger ein Pfandrecht an der erhaltenen Leistung. Besteht die Leistung in Geld, so hat der Pfandgläubiger den erhaltenen Betrag nach den Bestimmungen über die Anlegung von Mündelgeld zu veranlagen.
+----
 
-### § 396 ABGB
+----
+### § 467 ABGB # Erlöschung des Pfandrechtes
 
-`§ 396 ABGB.`  
-Wer eine verlorene oder vergessene Sache entdeckt, sie aber nicht an sich nehmen kann, hat Anspruch auf die Hälfte des im § 393 bestimmten Finderlohnes, wenn er die Entdeckung einer im § 390 bezeichneten Stelle anzeigt und der Verlustträger die Sache dadurch wiedererlangt, es sei denn, dass dieser die Sache auch sonst ohne deren Gefährdung wiedererlangt hätte. § 394 Z 1 ist anzuwenden.
+`§ 467 ABGB.`  
+Wenn die verpfändete Sache zerstört wird; wenn sich der Gläubiger seines Rechtes darauf gesetzmäßig begibt; oder, wenn er sie dem Schuldner ohne Vorbehalt zurückstellt; so erlischt zwar das Pfandrecht, aber die Schuldforderung besteht noch.
+----
 
-### § 397 ABGB # b) verborgener Gegenstände
+----
+### § 468 ABGB
 
-`§ 397 (1) ABGB.`  
-Werden vergrabene, eingemauerte oder sonst verborgene Sachen eines unbekannten Eigentümers entdeckt, so gilt sinngemäß das, was für die verlorenen Sachen bestimmt ist.
+`§ 468 ABGB.`  
+Das Pfandrecht erlischt ferner mit der Zeit, auf welche es eingeschränkt war, folglich auch mit dem zeitlichen Rechte des Pfandgebers auf die verpfändete Sache, wenn anders dieser Umstand dem Gläubiger bekannt war, oder aus den öffentlichen Büchern bekannt seyn konnte.
+----
 
-`§ 397 (2) ABGB.`  
-Der Finderlohn ist auch dann nicht zu entrichten, wenn die Sache auch sonst ohne deren Gefährdung wiedererlangt worden wäre.
+----
+### § 469 ABGB
 
-### § 398 ABGB # c) eines Schatzes.
+`§ 469 ABGB.`  
+Durch Tilgung der Schuld hört das Pfandrecht auf. Der Pfandgeber ist aber die Schuld nur gegen dem zu tilgen verbunden, daß ihm das Pfand zugleich zurückgestellt werde. Zur Aufhebung einer Hypothek ist die Tilgung der Schuld allein nicht hinreichend. Ein Hypothekargut bleibt so lange verhaftet, bis die Schuld aus den öffentlichen Büchern gelöscht ist. Bis dahin kann der Eigentümer des Gutes auf Grund einer Quittung oder einer anderen, das Erlöschen der Pfandschuld dartuenden Urkunde das Pfandrecht auf eine neue Forderung übertragen, die den Betrag der eingetragenen Pfandforderung nicht übersteigt.
+----
 
-`§ 398 ABGB.`  
-Bestehen die entdeckten Sachen in Geld, Schmuck oder andern Kostbarkeiten, die so lange im Verborgenen gelegen haben, daß man ihren vorigen Eigenthümer nicht mehr erfahren kann, dann heißen sie ein Schatz. Die Entdeckung eines Schatzes ist von der Obrigkeit der Landesstelle anzuzeigen.
+----
+### § 469a ABGB
 
-### § 399 ABGB
+`§ 469a ABGB.`  
+Bei Bestellung des Pfandrechtes kann auf dieses Verfügungsrecht nicht verzichtet werden. Ist jedoch im öffentlichen Buch ein der Hypothek im Rang nachfolgendes oder ihr gleichrangiges, rechtsgeschäftlich bestelltes Recht eingetragen, so kann der Eigentümer über die Hypothek nur dann verfügen, wenn er sich das Verfügungsrecht gegenüber dem Buchberechtigten vertraglich vorbehalten hat und dieser Vorbehalt im öffentlichen Buch bei der Hypothek angemerkt ist.
+----
 
-`§ 399 ABGB.`  
-Von einem Schatz erhalten der Finder und der Eigentümer des Grundes je die Hälfte.
+----
+### § 470 ABGB
 
-### § 400 ABGB
+`§ 470 ABGB.`  
+Wird nach Tilgung der Schuld (§ 469) oder eingetretener Vereinigung (§ 1446), bevor das Pfandrecht bücherlich gelöscht oder die Liegenschaft oder das Pfandrecht übertragen worden ist, das Hypothekargut zwangsweise versteigert oder dessen Zwangsverwaltung bewilligt, so ist bei Verteilung des Erlöses auf dieses Pfandrecht keine Rücksicht zu nehmen. Nur insoweit die durch das Pfandrecht gesicherte Forderung gegen einen Dritten noch fortbesteht oder dem Eigentümer der Ersatz für deren Tilgung gebührt (§ 1358), wird der darauf entfallende Teil dem Eigentümer zugewiesen.
+----
 
-`§ 400 ABGB.`  
-Wer sich dabey einer unerlaubten Handlung schuldig gemacht; wer ohne Wissen und Willen des Nutzungseigenthümers den Schatz aufgesucht; oder den Fund verheimlichet hat; dessen Antheil soll dem Angeber; oder, wenn kein Angeber vorhanden ist, dem Staate zufallen.
+----
+### § 471 ABGB # Von dem Retentions-Rechte
 
-### § 401 ABGB
+`§ 471 (1) ABGB.`  
+Wer zur Herausgabe einer Sache verpflichtet ist, kann sie zur Sicherung seiner fälligen Forderungen wegen des für die Sache gemachten Aufwandes oder des durch die Sache ihm verursachten Schadens mit der Wirkung zurückbehalten, daß er zur Herausgabe nur gegen die Zug um Zug zu bewirkende Gegenleistung verurteilt werden kann.
 
-`§ 401 ABGB.`  
-Finden Arbeitsleute zufälliger Weise einen Schatz, so gebührt ihnen als Findern ein Drittheil davon. Sind sie aber von dem Eigenthümer ausdrücklich zur Aufsuchung eines Schatzes gedungen worden, so müssen sie sich mit ihrem ordentlichen Lohne begnügen.
+`§ 471 (2) ABGB.`  
+Die Ausübung des Zurückbehaltungsrechtes kann durch Sicherheitsleistung abgewendet werden; Sicherheitsleistung durch Bürgen ist ausgeschlossen.
+----
 
-### § 402 ABGB # 3) von der Beute.
+----
+## Siebentes Hauptstück # Von Dienstbarkeiten (Servituten)
 
-`§ 402 ABGB.`  
-Ueber das Recht der Beute und der von dem Feinde zurück erbeuteten Sachen, sind die Vorschriften in den Kriegsgesetzen enthalten.
+### § 472 ABGB # Begriff des Rechtes der Dienstbarkeit
 
-### § 403 ABGB # Von dem Rechte aus der Rettung einer fremden beweglichen Sache.
+`§ 472 ABGB.`  
+Durch das Recht der Dienstbarkeit wird ein Eigenthümer verbunden, zum Vortheile eines Andern in Rücksicht seiner Sache etwas zu dulden oder zu unterlassen. Es ist ein dingliches, gegen jeden Besitzer der dienstbaren Sache wirksames Recht.
+----
 
-`§ 403 ABGB.`  
-Wer eine fremde bewegliche Sache von dem unvermeidlichen Verluste oder Untergange rettet, ist berechtigt, von dem rückfordernden Eigenthümer den Ersatz seines Aufwandes, und eine verhältnismäßige Belohnung von höchstens Zehen von Hundert zu fordern.
+----
+### § 473 ABGB # Eintheilung der Dienstbarkeiten in Grunddienstbarkeiten und persönliche;
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.010](BG.ABGB.010.md))*
+`§ 473 ABGB.`  
+Wird das Recht der Dienstbarkeit mit dem Besitze eines Grundstückes zu dessen vortheilhafteren oder bequemeren Benützung verknüpft; so entsteht eine Grunddienstbarkeit; außer dem ist die Dienstbarkeit persönlich.
+----
+
+----
+### § 474 ABGB # in Feld- und Haus-Servituten
+
+`§ 474 ABGB.`  
+Grunddienstbarkeiten setzen zwey Grundbesitzer voraus, deren Einem als Verpflichteten das dienstbare; dem Andern als Berechtigten das herrschende Gut gehört. Das herrschende Grundstück ist entweder zur Landwirthschaft oder zu einem andern Gebrauche bestimmt; daher unterscheidet man auch die Feld- und Haus-Servituten.
+----
+
+----
+## Gewöhnlichere Arten:
+
+### § 475 ABGB # a) der Haus-Servituten;
+
+`§ 475 ABGB.`  
+Die Haus-Servituten sind gewöhnlich:
+
+1) Das Recht, eine Last seines Gebäudes auf ein fremdes Gebäude zu setzen;
+
+2) Einen Balken oder Sparren in eine fremde Wand einzufügen;
+
+3) Ein Fenster in der fremden Wand zu öffnen; es sey des Lichtes oder der Aussicht wegen;
+
+4) Ein Dach oder einen Erker über des Nachbars Luftraum zu bauen;
+
+5) Den Rauch durch des Nachbars Schorstein zu führen;
+
+6) Die Dachtraufe auf fremden Grund zu leiten;
+
+7) Flüssigkeiten auf des Nachbars Grund zu gießen oder durchzuführen.
+
+Durch diese und ähnliche Haus-Servituten wird ein Hausbesitzer befugt, etwas auf dem Grunde seines Nachbars vorzunehmen, was dieser dulden muß.
+----
+
+----
+### § 476 ABGB
+
+`§ 476 ABGB.`  
+Durch andere Haus-Servituten wird der Besitzer des dienstbaren Grundes verpflichtet, etwas zu unterlassen, was ihm sonst zu thun frey stand. Dergleichen sind:
+
+8) Sein Haus nicht zu erhöhen;
+
+9) Es nicht niedriger zu machen;
+
+10) Dem herrschenden Gebäude Licht und Luft;
+
+11) Oder Aussicht nicht zu benehmen;
+
+12) Die Dachtraufe seines Hauses von dem Grunde des Nachbars, dem sie zur Bewässerung seines Gartens oder zur Füllung seiner Cisterne, oder auf eine andere Art nützlich seyn kann, nicht abzuleiten.
+----
+
+----
+### § 477 ABGB # b) der Feld-Servituten
+
+`§ 477 ABGB.`  
+Die vorzüglichen Feld-Servituten sind:
+
+1) das Recht, einen Fußsteig, Viehtrieb oder Fahrweg auf fremden Grund und Boden zu halten;
+
+2) das Wasser zu schöpfen, das Vieh zu tränken, das Wasser ab- und herzuleiten;
+
+3) das Vieh zu hüthen und zu weiden;
+
+4) Holz zu fällen, verdorrte Aeste und Reiser zu sammeln, Eicheln zu lesen, Laub zu rechen;
+
+5) zu jagen, zu fischen, Vögel zu fangen;
+
+6) Steine zu brechen, Sand zu graben, Kalk zu brennen.
+----
+
+----
+### § 478 ABGB # Arten der persönlichen Dienstbarkeiten
+
+`§ 478 ABGB.`  
+Die persönlichen Servituten sind: der nöthige Gebrauch einer Sache; die Fruchtnießung; und die Wohnung.
+----
+
+----
+### § 479 ABGB # Unregelmäßige und Schein-Servituten
+
+`§ 479 ABGB.`  
+Es können aber auch Dienstbarkeiten, welche an sich Grunddienstbarkeiten sind, der Person allein; oder, es können Begünstigungen, die ordentlicher Weise Servituten sind, nur bloß auf Widerrufen zugestanden werden. Die Abweichungen von der Natur einer Servitut werden jedoch nicht vermuthet; wer sie behauptet, dem liegt der Beweis ob.
+----
+
+----
+### § 480 ABGB # Erwerbung des Rechtes der Dienstbarkeit. Titel zur Erwerbung
+
+`§ 480 ABGB.`  
+Der Titel zu einer Servitut ist auf einem Vertrage; auf einer letzten Willenserklärung; auf einem bey der Theilung gemeinschaftlicher Grundstücke erfolgten Rechtsspruche; oder endlich, auf Verjährung gegründet.
+----
+
+----
+### § 481 ABGB # Erwerbungsart
+
+`§ 481 (1) ABGB.`  
+Das dingliche Recht der Dienstbarkeit kann an Gegenständen, die in den öffentlichen Büchern eingetragen sind, nur durch die Eintragung in diese erworben werden.
+
+`§ 481 (2) ABGB.`  
+An bücherlich nicht eingetragenen Liegenschaften (§ 434) oder an Bauwerken (§ 435) wird das dingliche Recht durch die gerichtliche Hinterlegung einer über die Einräumung der Dienstbarkeit errichteten beglaubigten Urkunde; auf andere Sachen aber durch die oben (§§ 426 bis 428) angegebenen Arten der Übergabe erworben.
+----
+
+`END-OF-DATA-SET`

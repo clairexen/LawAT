@@ -1,281 +1,412 @@
 # BG.ZPO.016 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ZPO  
+**Kurztitel:** ['ZPO']  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.016.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ZPO.015](BG.ZPO.015.md))*
-
-## Besondere Bestimmungen für das Verfahren in Ehesachen
-
-### § 460 ZPO
-
-`§ 460 ZPO.`  
-In Ehesachen (§ 49 Abs. 2 Z 2a JN) und Verfahren in anderen nicht rein vermögensrechtlichen aus dem gegenseitigen Verhältnis zwischen Ehegatten entspringenden Streitigkeiten (§ 49 Abs. 2 Z 2b JN) gelten folgende besondere Bestimmungen:  
-`§ 460 Z 1 ZPO.`
-Das Gericht soll die Parteien zum persönlichen Erscheinen auffordern, wenn nicht wichtige Gründe dagegen sprechen. Das Erscheinen der Parteien ist erforderlichenfalls nach § 87 GOG durchzusetzen.  
-`§ 460 Z 1a ZPO.`
-Parteien dürfen nur dann unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort- und Bildübertragung an einer nach § 132a anberaumten Tagsatzung teilnehmen, wenn sie durch einen Rechtsanwalt vertreten sind.  
-`§ 460 Z 2 ZPO.`
-Zur vorbereitenden Tagsatzung ist die Partei, nicht aber eine informierte Person nach § 258 Abs. 2 stellig zu machen.  
-`§ 460 Z 3 ZPO.`
-Die Verhandlung ist nicht öffentlich.  
-`§ 460 Z 4 ZPO.`
-Im Verfahren über die Nichtigerklärung oder die Feststellung des Bestehens oder Nichtbestehens einer Ehe hat das Gericht von Amts wegen dafür zu sorgen, daß alle für die Entscheidung maßgeblichen tatsächlichen Umstände aufgeklärt werden; der § 183 Abs. 2 gilt nicht. Das Gericht kann nicht erwiesene Tatsachenvorbringen unberücksichtigt lassen und von der Aufnahme von Beweisen Abstand nehmen, wenn solche Tatsachen der Beweise von einer Partei verspätet vorgebracht beziehungsweise angeboten werden und bei sorgfältiger Berücksichtigung aller Umstände kein vernünftiger Zweifel besteht, dass damit das Verfahren verschleppt werden soll und die Zulassung des Vorbringens oder der Beweise die Erledigung des Verfahrens erheblich verzögern würde. § 179 gilt nicht.  
-`§ 460 Z 5 ZPO.`
-Erscheint der Kläger zur mündlichen Verhandlung nicht, so ist die Klage auf Antrag des Beklagten vom Gericht als ohne Verzicht auf den Anspruch zurückgenommen zu erklären.  
-`§ 460 Z 6 ZPO.`
-Im Protokoll sind auch die Geburtsdaten und die Religion der Parteien, Anzahl und Alter ihrer Kinder und der Zeitpunkt des Abschlusses ihrer Ehe festzuhalten sowie, ob Ehepakte errichtet worden sind.  
-`§ 460 Z 6a ZPO.`
-Ist eine Partei nicht durch einen Rechtsanwalt vertreten und hat sie keine Beratung über die gesamten Scheidungsfolgen, einschließlich der sozialversicherungsrechtlichen Folgen und der Voraussetzungen eines Ausspruchs über die Haftung für Kredite, in Anspruch genommen, so hat das Gericht auf entsprechende Beratungsangebote und allgemein auf die Nachteile hinzuweisen, die durch ungenügende Kenntnisse über diese Folgen entstehen können. Die Tagsatzung ist zu erstrecken, um der Partei Gelegenheit zur Einholung einer Beratung zu geben, es sei denn, dass dadurch der Prozess unverhältnismäßig verzögert oder offensichtlich verschleppt werden soll. Eine neuerliche Erstreckung aus diesem Grund ist unzulässig. Das Gericht hat die nächste Verhandlung für einen Termin tunlichst innerhalb von sechs Wochen anzuberaumen.  
-`§ 460 Z 7 ZPO.`
-Im Verfahren wegen Scheidung der Ehe hat das Gericht am Beginn der mündlichen Streitverhandlung zunächst eine Versöhnung der Ehegatten anzustreben (Versöhnungsversuch) und überdies in jeder Lage des Verfahrens, soweit tunlich, auf eine Versöhnung hinzuwirken.
-*(Anm.: Z 7a aufgehoben durch BGBl. I Nr. 29/2003)*  
-`§ 460 Z 8 ZPO.`
-Stirbt einer der Ehegatten vor der Rechtskraft des Urteils (§ 416 Abs. 1), so ist der Rechtsstreit in Ansehung der Hauptsache als erledigt anzusehen. Er kann nur mehr wegen der Verfahrenskosten fortgesetzt werden. Ein bereits ergangenes Urteil ist wirkungslos.  
-`§ 460 Z 8a ZPO.`
-Auf ihr Verlangen ist den Ehegatten jederzeit auch eine Ausfertigung der Entscheidung über die Auflösung der Ehe auszustellen, die keine Entscheidungsgründe enthält.  
-`§ 460 Z 9 ZPO.`
-Urteile auf Grund eines Verzichtes oder eines Anerkenntnisses sowie Vergleiche sind unzulässig, der § 442 ist nicht anzuwenden.  
-`§ 460 Z 10 ZPO.`
-Wird ein Antrag auf Scheidung nach § 55a EheG gestellt, so ist ein wegen Ehescheidung anhängiger Rechtsstreit zu unterbrechen. Wird dem Scheidungsantrag stattgegeben, so gilt die Scheidungsklage mit Eintritt der Rechtskraft des Scheidungsbeschlusses als zurückgenommen; die Prozeßkosten sind gegeneinander aufzuheben. Wird der Scheidungsantrag zurückgezogen oder rechtskräftig abgewiesen, so ist das unterbrochene Scheidungsverfahren auf Antrag wiederaufzunehmen.  
-`§ 460 Z 10a ZPO.`
-Die für das Verfahren über die Klage auf Scheidung einer Ehe bewilligte Verfahrenshilfe erstreckt sich auch auf ein Verfahren über den Antrag auf Scheidung nach § 55a EheG, der während des wegen Ehescheidung anhängigen Rechtsstreits gestellt wird.  
-`§ 460 Z 11 ZPO.`
-Verliert ein Ehegatte durch eine Entscheidung über die Auflösung der Ehe offenbar den Schutz der gesetzlichen Krankenversicherung, so hat das Gericht mit Zustimmung dieses Ehegatten den zuständigen Sozialversicherungsträger im Weg des Dachverbandes der Sozialversicherungsträger zu verständigen. Die Verständigung hat den Familien- und Vornamen, das Geburtsdatum, die Anschrift sowie die Sozialversicherungsnummer des Ehegatten zu enthalten. Der Versicherungsträger hat dem Ehegatten Informationen über die sozialversicherungsrechtlichen Folgen der Eheauflösung und die Möglichkeit der Fortsetzung des Versicherungsschutzes zu übermitteln.
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
-## Vierter Theil. # Rechtsmittel. # Erster Abschnitt. # Berufung. # Zulässigkeit.
+----
+## Erhebung des Recurses.
 
-### § 461 ZPO
+### § 520 ZPO # 
 
-`§ 461 (1) ZPO.`  
-Gegen die in erster Instanz gefällten Urtheile findet die Berufung statt.
-
-`§ 461 (2) ZPO.`  
-Gegen ein in Anwesenheit beider Parteien mündlich verkündetes Urteil (§ 414) kann Berufung von einer Partei nur erhoben werden, die diese sofort nach der Verkündung des Urteils mündlich oder binnen vierzehn Tagen ab der Zustellung der Protokollsabschrift über jene Tagsatzung zur mündlichen Verhandlung, in der das Urteil verkündet worden ist, in einem bei dem Prozeßgericht erster Instanz überreichten Schriftsatz angemeldet hat. Wird in dieser Frist ein Antrag im Sinn des § 464 Abs. 3 gestellt, so gilt er als Anmeldung der Berufung.
-
-### § 462 ZPO
-
-`§ 462 (1) ZPO.`  
-Das Berufungsgericht überprüft die Entscheidung des Gerichtes erster Instanz innerhalb der Grenzen der Berufungsanträge.
-
-`§ 462 (2) ZPO.`  
-Der Beurtheilung des Berufungsgerichtes unterliegen jedoch gleichzeitig auch diejenigen Beschlüsse, welche in dem dem Urtheile vorausgegangenen Verfahren erlassen wurden, sofern nicht deren Anfechtung nach dem Gesetze ausgeschlossen ist oder dieselben infolge Unterlassung der rechtzeitigen Rüge (§. 196), des Recurses oder durch die über den eingebrachten Recurs ergangene Entscheidung unabänderlich geworden sind.
-
-## Allgemeine Bestimmungen über das Berufungsverfahren.
+`§ 520 (1) ZPO.`  
+Der Recurs wird durch Überreichung eines Schriftsatzes (Recursschrift) bei dem Gerichte erhoben, dessen Beschluss angefochten wird, dessen Vorsteher den angefochtenen Beschluss erlassen hat oder dem der Vorsitzende des Senates, der beauftragte oder ersuchte Richter angehört hat, gegen dessen Beschluss Recurs ergriffen wird; doch sind Rekurse gegen Entscheidungen der zweiten Instanz beim Gerichte erster Instanz zu überreichen. Rekurse müssen mit der Unterschrift eines Rechtsanwalts versehen sein.
 
-### § 463 ZPO
+`§ 520 (2) ZPO.`  
+Wenn ein Beschluß wegen der ihm zugrunde liegenden unrichtigen rechtlichen Beurteilung mit Rekurs angefochten wird, ist der § 506 Abs. 2 entsprechend anzuwenden.
+----
 
-`§ 463 (1) ZPO.`  
-Auf das Berufungsverfahren sind die Vorschriften über das Verfahren vor Gerichtshöfen erster Instanz insoweit anzuwenden, als sich nicht aus den nachfolgenden Bestimmungen Abweichungen ergeben.
+----
+### § 521 ZPO
 
-`§ 463 (2) ZPO.`  
-Im Berufungsverfahren müssen die Parteien durch Rechtsanwälte vertreten sein.
+`§ 521 (1) ZPO.`  
+Die Rekursfrist beträgt 14 Tage. Richtet sich der Rekurs gegen einen Endbeschluss oder einen Aufhebungsbeschluss nach § 519 Abs. 1 Z 2, so beträgt die Rekursfrist jedoch vier Wochen. Die Rekursfrist kann nicht verlängert werden.
 
-## Berufungsfrist.
+`§ 521 (2) ZPO.`  
+Die Frist beginnt mit der Zustellung der schriftlichen Ausfertigung des anzufechtenden Beschlusses oder der Rekursentscheidung.
 
-### § 464 ZPO
+`§ 521 (3) ZPO.`  
+Der § 464 Abs. 3 ist sinngemäß anzuwenden.
+----
 
-`§ 464 (1) ZPO.`  
-Die Berufungsfrist beträgt vier Wochen, sie kann nicht verlängert werden.
+----
+### § 521a ZPO
 
-`§ 464 (2) ZPO.`  
-Sie beginnt für jede Partei mit der an sie erfolgten Zustellung der schriftlichen Ausfertigung des Urteils; § 416 Abs. 3 bleibt jedoch unberührt.
+`§ 521a (1) ZPO.`  
+Richtet sich nach Streitanhängigkeit ein Rekurs gegen einen Beschluss, der nicht bloß verfahrensleitend ist, so hat das Prozessgericht erster Instanz, wenn es den Rekurs nicht zurückweist, die Rekursschrift dem Gegner des Rekurswerbers zuzustellen. Der Rekursgegner kann binnen der Notfrist von 14 Tagen, in den Fällen des § 521 Abs. 1 zweiter Satz binnen der Notfrist von vier Wochen, ab der Zustellung der Rekursschrift bei dem Prozessgericht erster Instanz eine Rekursbeantwortung anbringen. § 520 Abs. 1 letzter Satz und § 464 Abs. 3 gelten sinngemäß.
 
-`§ 464 (3) ZPO.`  
-Hat eine die Verfahrenshilfe genießende oder beantragende Partei innerhalb dieser Frist die Beigebung eines Rechtsanwalts beantragt, so beginnt für sie die Berufungsfrist mit der Zustellung des Bescheides über die Bestellung des Rechtsanwalts und einer schriftlichen Urteilsausfertigung an ihn; der Bescheid ist durch das Gericht zuzustellen. Wird der rechtzeitig gestellte Antrag auf Beigebung eines Rechtsanwalts abgewiesen, so beginnt die Berufungsfrist mit dem Eintritt der Rechtskraft des abweisenden Beschlusses. Der § 73 Abs. 3 gilt sinngemäß.
+`§ 521a (2) ZPO.`  
+Für Revisionsrekurse nach § 528 Abs. 2a und für außerordentliche Revisionsrekurse gilt Abs. 1 mit den Maßgaben, die sich aus der sinngemäßen Anwendung der §§ 507, 507a, 507b, 508 und 508a ergeben.
+----
 
-## Erhebung der Berufung.
+----
+### § 522 ZPO
 
-### § 465 ZPO
-Die Berufung wird durch Überreichung eines vorbereitenden Schriftsatzes (Berufungsschrift) bei dem Processgerichte erster Instanz erhoben.
+`§ 522 (1) ZPO.`  
+Richtet sich das Rechtsmittel gegen eine Strafverfügung, gegen einen Beschluß prozeßleitender Natur, gegen die Zurückweisung eines Rechtsmittels, eines Einspruchs gegen einen Zahlungsbefehl oder eines Widerspruchs gegen ein Versäumungsurteil als verspätet oder unzulässig oder gegen einen Beschluß, mit dem ein Antrag ohne Anhörung der Gegenpartei abgewiesen worden ist, so kann das Gericht oder der Richter, dessen Entscheidung oder Verfügung angefochten wird, dem Rekursbegehren selbst stattgeben.
 
-### § 466 ZPO
-Durch die rechtzeitige Erhebung der Berufung wird der Eintritt der Rechtskraft und Vollstreckbarkeit des angefochtenen Urtheiles im Umfange der Berufungsanträge bis zur Erledigung des Rechtsmittels gehemmt.
+`§ 522 (2) ZPO.`  
+Finden sie sich hiezu nicht bestimmt oder werden andere als die im Abs. 1 bezeichneten Beschlüsse durch Rekurs angefochten, so ist der Rekurs dem Rekursgericht ohne Aufschub, im Fall des § 521a nach rechtzeitigem Einlangen der Rekursbeantwortung oder nach fruchtlosem Ablauf der hiefür offenstehenden Frist, mit allen für die Beurteilung des Rekurses erforderlichen Akten, gegebenenfalls mit einem aufklärenden Bericht, vorzulegen.
+----
 
-### § 467 ZPO
-Die Berufungsschrift muss nebst den allgemeinen Erfordernissen eines vorbereitenden Schriftsatzes enthalten:  
-`§ 467 Z 1 ZPO.`
-die Bezeichnung des Berufungsgerichtes;  
-`§ 467 Z 2 ZPO.`
-die Bezeichnung des Urtheiles, gegen welches Berufung erhoben wird;  
-`§ 467 Z 3 ZPO.`
-die bestimmte Erklärung, inwieweit das Urtheil angefochten wird, die ebenso bestimmte kurze Bezeichnung der Gründe der Anfechtung (Berufungsgründe), und die Erklärung, ob die Aufhebung oder eine Abänderung des Urtheiles, und welche beantragt werde (Berufungsantrag);  
-`§ 467 Z 4 ZPO.`
-das thatsächliche Vorbringen und die Beweismittel, durch welche die Wahrheit der Berufungsgründe erwiesen werden kann;  
-`§ 467 Z 5 ZPO.`
-die Unterschrift eines Rechtsanwalts.
+----
+### § 523 ZPO # 
 
-### § 468 ZPO
+`§ 523 ZPO.`  
+Recurse gegen Beschlüsse, wider welche nach den Vorschriften dieses Gesetzes ein Recurs überhaupt nicht stattfindet oder doch ein abgesondertes Rechtsmittel versagt ist, sowie Recurse, die nach Ablauf der Recursfrist erhoben werden, sind von dem Gerichte, bei welchem sie überreicht werden, von amtswegen zurückzuweisen. Dies gilt nicht für Rekurse gegen Entscheidungen eines Gerichtes zweiter Instanz, die nur wegen des Fehlens einer erheblichen Rechtsfrage unzulässig sind (§ 519 Abs. 2, § 527 Abs. 2 letzter Satz, § 528 Abs. 1).
+----
 
-`§ 468 (1) ZPO.`  
-Im Falle rechtzeitiger Erhebung der Berufung wird die Berufungsschrift dem Gegner des Berufungswerbers unter Bekanntgabe des Berufungsgerichtes zugestellt. Verspätet erhobene Berufungen oder mangels rechtzeitiger Anmeldung der Berufung (§ 461 Abs. 2) unzulässige Berufungen sind vom Prozeßgericht erster Instanz zurückzuweisen.
+----
+### § 524 ZPO # 
 
-`§ 468 (2) ZPO.`  
-Der Berufungsgegner kann binnen der Notfrist von vier Wochen nach der Zustellung der Berufungsschrift bei dem Prozeßgericht erster Instanz eine Berufungsbeantwortung mittels Schriftsatzes einbringen. Soweit sich der Berufungswerber nicht ausdrücklich auf Feststellungen des Erstgerichts bezieht, ist der Berufungsgegner - vorbehaltlich des § 473a - nicht gehalten, für ihn nachteilige Feststellungen oder zu seinen Lasten vorgefallene Verfahrensfehler mit der Berufungsbeantwortung zu rügen. Will der Berufungsgegner zur Widerlegung der in der Berufungsschrift angegebenen Anfechtungsgründe neue, im bisherigen Verfahren noch nicht vorgebrachte Umstände und Beweise benützen, so hat er das bezügliche tatsächliche und Beweisvorbringen bei sonstigem Ausschluß in dieser Berufungsbeantwortung bekanntzugeben.
+`§ 524 (1) ZPO.`  
+Der Recurs hat in Bezug auf die Ausführung des angefochtenen Beschlusses und den Eintritt der Vollstreckbarkeit desselben keine aufschiebende Wirkung. Eine Ausnahme tritt, soferne nicht das Gesetz etwas anderes bestimmt, bei Strafverfügungen ein, welche im Instanzenzuge anfechtbar sind.
 
-`§ 468 (3) ZPO.`  
-Auf die Berufungsbeantwortung sind der § 464 Abs. 3 sowie der § 467 Z 4 und 5 sinngemäß anzuwenden.
+`§ 524 (2) ZPO.`  
+Wenn jedoch aus der Hemmung des Verfahrens, der Ausführung des angefochtenen Beschlusses oder der auf Grund desselben einzuleitenden Execution der Gegenpartei kein unverhältnismäßiger Nachtheil erwächst, und ohne solche Hemmung der Zweck des Recurses vereitelt würde, so hat das Gericht erster Instanz auf Antrag die einstweilige Hemmung unter gleichzeitiger Anordnung der etwa nothwendigen Sicherungsmaßregeln zu verfügen. Gegen diesen Beschluss findet ein abgesondertes Rechtsmittel nicht statt.
 
-`§ 468 (4) ZPO.`  
-Von der Einbringung der Berufungsbeantwortung ist der Berufungswerber durch Übersendung einer Ausfertigung derselben zu verständigen.
+`§ 524 (3) ZPO.`  
+Gleiche Befugnis steht dem Vorsteher des Gerichtes, dem Vorsitzenden des Senates oder dem beauftragten oder ersuchten Richter zu, wenn der Recurs gegen deren Beschlüsse ergriffen wird.
+----
 
-### § 469 ZPO
+----
+### § 525 ZPO # 
 
-`§ 469 (1) ZPO.`  
-Nach rechtzeitigem Einlangen der Berufungsbeantwortung oder nach fruchtlosem Ablauf der hiefür offenstehenden Frist hat das Prozeßgericht erster Instanz dem Berufungsgericht die Berufungsschrift und die etwa eingelangte Berufungsbeantwortung mit allen den Rechtsstreit betreffenden Prozeßakten und besonders mit den Ausweisen über die Zustellung des Urteils und der Berufungsschrift vorzulegen. Gibt der Inhalt der Berufungsschrift oder der Berufungsbeantwortung zu einer Erledigung des Prozeßgerichtes erster Instanz Anlaß, so ist diese vorher zu treffen; werden Zustellmängel behauptet, so sind vorher die notwendigen Erhebungen durchzuführen.
+`§ 525 ZPO.`  
+Insofern im Verfahren über eine Klage wegen Störung des Besitzstandes die während der Verhandlung getroffenen einstweiligen Vorkehrungen durch die Vollstreckung des Endbeschlusses nicht berührt werden, hat der Richter erster Instanz nach seinem Ermessen zu bestimmen, ob dieselben während der Anhängigkeit des Recurses fortdauern sollen oder schon vor Erledigung des Recurses aufzuheben seien.
+----
 
-`§ 469 (2) ZPO.`  
-Wurde der Rechtsstreit durch das angefochtene Urtheil nicht vollständig erledigt und soll die Verhandlung über die noch unerledigten Punkte während des Berufungsverfahrens fortgesetzt werden, so sind dem Berufungsgerichte amtliche Abschriften der auf den Gegenstand des Berufungsverfahrens bezüglichen Theile derjenigen Processacten vorzulegen, welche zugleich für das Verfahren in erster Instanz benöthigt werden.
+----
+## Verfahren bei dem Recursgerichte.
 
-`§ 469 (3) ZPO.`  
-Richtet sich eine auf den Nichtigkeitsgrund des § 477 Abs. 1 Z 4 gestützte Berufung gegen ein Versäumungsurteil (§ 396), so kann das Gericht, dessen Urteil angefochten wird, der Berufung selbst stattgeben. Gegen die Entscheidung ist ein Rechtsmittel nicht zulässig.
+### § 526 ZPO # 
 
-## Verfahren vor dem Berufungsgerichte. # Vorverfahren.
+`§ 526 (1) ZPO.`  
+Über den Recurs ist ohne vorhergehende mündliche Verhandlung in nicht öffentlicher Sitzung durch Beschluss zu entscheiden. Vor der Entscheidung kann das Recursgericht die ihm nothwendig scheinenden Erhebungen veranlassen.
 
-### § 470 ZPO
+`§ 526 (2) ZPO.`  
+Ein unzulässiger oder verspäteter Rekurs ist sofort zu verwerfen. Der Oberste Gerichtshof ist bei der Prüfung der Zulässigkeit des Rekurses an die Beurteilung des Gerichtes zweiter Instanz über das Vorliegen einer erheblichen Rechtsfrage nicht gebunden (§ 519 Abs. 2, § 527 Abs. 2, § 528 Abs. 1).
 
-`§ 470 ZPO.`  
-Nach dem Einlangen der Berufungsakten beim Berufungsgericht hat der mit den Verrichtungen eines Vorsitzenden des Berufungssenates betraute Richter die Berufungsakten zu prüfen.
+`§ 526 (3) ZPO.`  
+Auf Rekursentscheidungen sind die §§ 500 und 500a sinngemäß anzuwenden.
+----
 
-### § 471 ZPO
-Auf Grund dieser Prüfung ist die Berufung, ohne dass zunächst eine Tagsatzung zur mündlichen Verhandlung anberaumt würde, vor den Berufungssenat zu bringen:  
-`§ 471 Z 1 ZPO.`
-wenn das Berufungsgericht zur Entscheidung über die erhobene Berufung nicht zuständig erscheint;  
-`§ 471 Z 2 ZPO.`
-wenn die Berufung als gesetzlich unzulässig oder nicht in der gesetzlichen Frist erhoben erscheint;  
-`§ 471 Z 3 ZPO.`
-wenn in der Berufungsschrift das Urtheil nicht angegeben ist, wider welches Berufung erhoben wird, wenn die Berufungsschrift keinen oder keinen bestimmten Berufungsantrag enthält, oder wenn die Berufungsgründe weder ausdrücklich noch durch deutliche Hinweisung einzeln angeführt sind;  
-`§ 471 Z 4 ZPO.`
-wenn sich die Berufung gegen ein wegen Säumnis einer Partei gefälltes Urtheil darauf gründet, daß eine Versäumung nicht vorliege;  
-`§ 471 Z 5 ZPO.`
-wenn das Urtheil oder das der Urtheilsfällung vorangegangene Verfahren als nichtig angefochten wird;  
-`§ 471 Z 6 ZPO.`
-wenn der in das Urteil aufgenommene Ausspruch über die Einreden nach § 239 Abs. 3 Z 1 angefochten wird;  
-`§ 471 Z 7 ZPO.`
-wenn der mit der Prüfung der Berufungsacten betraute Richter der Ansicht ist, dass das Urtheil oder das demselben vorangegangene Verfahren an einer vom Berufungswerber nicht geltend gemachten Nichtigkeit leide.
+----
+### § 527 ZPO # 
 
-### § 472 ZPO
+`§ 527 (1) ZPO.`  
+Wird dem Recurse stattgegeben, so kann das Recursgericht die infolge seines Anspruches etwa erforderlichen weiteren Anordnungen demjenigen Gerichte oder Richter übertragen, von welchem der angefochtene Beschluss erlassen war.
 
-`§ 472 (1) ZPO.`  
-Unzulässig ist die Berufung insbesondere auch dann, wenn sie von einer Person eingebracht wurde, welcher das Rechtsmittel der Berufung nicht zusteht oder welche auf die Berufung giltig Verzicht geleistet hat.
+`§ 527 (2) ZPO.`  
+Wird der angefochtene Beschluß in zweiter Instanz aufgehoben und dem Gericht erster Instanz eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen, so ist ein Rekurs dagegen nur zulässig, wenn das Rekursgericht dies ausgesprochen hat. Das Rekursgericht darf dies nur aussprechen, wenn es die Voraussetzungen für die Zulässigkeit des Revisionsrekurses nach § 528 für gegeben erachtet; § 528 Abs. 2 Z 1a, Abs. 2a und 3 gilt nicht.
+----
 
-`§ 472 (2) ZPO.`  
-Die Wirksamkeit eines nach Verkündung oder Zustellung des erstrichterlichen Urtheiles erklärten Verzichtes auf das Recht der Berufung ist nicht davon abhängig, dass der Gegner die Verzichtleistung angenommen hat.
+----
+### § 528 ZPO
+
+`§ 528 (1) ZPO.`  
+Gegen den Beschluß des Rekursgerichts ist der Revisionsrekurs nur zulässig, wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt, etwa weil das Rekursgericht von der Rechtsprechung des Obersten Gerichtshofs abweicht oder eine solche Rechtsprechung fehlt oder uneinheitlich ist.
+
+`§ 528 (2) ZPO.`  
+Der Revisionsrekurs ist jedoch jedenfalls unzulässig,  
+`§ 528 (2) Z 1 ZPO.`
+wenn der Entscheidungsgegenstand an Geld oder Geldeswert insgesamt 5 000 Euro nicht übersteigt, es sei denn, es handelt sich um Streitigkeiten nach § 502 Abs. 4 oder 5,  
+`§ 528 (2) Z 1a ZPO.`
+vorbehaltlich des Abs. 2a - in Streitigkeiten, in denen der Entscheidungsgegenstand zwar 5 000 Euro, nicht aber insgesamt 30 000 Euro übersteigt (§ 502 Abs. 3), und in familienrechtlichen Streitigkeiten nach § 49 Abs. 2 Z 1 und 2 JN, in denen der Entscheidungsgegenstand insgesamt 30 000 Euro nicht übersteigt (§ 502 Abs. 4), wenn das Gericht zweiter Instanz ausgesprochen hat, daß der Revisionsrekurs nicht zulässig ist,  
+`§ 528 (2) Z 2 ZPO.`
+wenn der angefochtene erstrichterliche Beschluß zur Gänze bestätigt worden ist, es sei denn, daß die Klage ohne Sachentscheidung aus formellen Gründen zurückgewiesen worden ist,  
+`§ 528 (2) Z 3 ZPO.`
+über den Kostenpunkt,  
+`§ 528 (2) Z 4 ZPO.`
+über die Verfahrenshilfe,  
+`§ 528 (2) Z 5 ZPO.`
+über die Gebühren der Sachverständigen sowie  
+`§ 528 (2) Z 6 ZPO.`
+in Streitigkeiten wegen Besitzstörung (§ 49 Abs. 2 Z 4 JN).
+
+`§ 528 (2a) ZPO.`  
+Die Bestimmungen über einen Antrag auf Abänderung des Ausspruchs nach § 500 Abs. 2 Z 3 verbunden mit einer ordentlichen Revision (§ 508) sind sinngemäß anzuwenden.
+
+`§ 528 (3) ZPO.`  
+Hat das Rekursgericht ausgesprochen, daß der ordentliche Revisionsrekurs nicht nach Abs. 1 zulässig ist (§ 526 Abs. 3 in Verbindung mit § 500 Abs. 2 Z 3), so kann nur in den Fällen des § 505 Abs. 4 ein außerordentlicher Revisionsrekurs erhoben werden. Für diesen gelten die Bestimmungen über die außerordentliche Revision sinngemäß.
+
+`§ 528 (4) ZPO.`  
+Findet das Rekursgericht, daß ein gegen den Beschluß eines Gerichts zweiter Instanz erhobener Rekurs mutwillig oder nur zur Verzögerung der Sache angebracht wurde, so ist gegen den Beschwerdeführer auf eine Mutwillensstrafe zu erkennen.
+----
+
+----
+### § 528a ZPO
+
+`§ 528a ZPO.`  
+Auf die Entscheidungen des Obersten Gerichtshofs über Rekurse ist auch der § 510 Abs. 1 letzter Satz und Abs. 3 sinngemäß anzuwenden.
+----
+
+----
+## Vierter Abschnitt # Parteiantrag auf Prüfung der Gesetzmäßigkeit von Verordnungen und Kundmachungen über die Wiederverlautbarung eines Gesetzes (Staatsvertrages), der Verfassungsmäßigkeit von Gesetzen und der Rechtmäßigkeit von Staatsverträgen
+
+### § 528b ZPO
+
+`§ 528b (1) ZPO.`  
+Die Voraussetzungen und die Wirkung des Antrages einer Partei nach Art. 139 Abs. 1 Z 4, Art. 139a, Art. 140 Abs. 1 Z 1 lit. d und Art. 140a B-VG richten sich nach den Bestimmungen des Verfassungsgerichtshofgesetzes 1953 – VfGG, BGBl. Nr. 85/1953. Die Verständigung des Verfassungsgerichtshofes von der Antragstellung ist zum Prozessakt zu nehmen und dem Gegner zur Kenntnis zu bringen.
+
+`§ 528b (2) ZPO.`  
+Die Prüfung der und die Entscheidung über die Rechtzeitigkeit und Zulässigkeit des mit dem Antrag erhobenen Rechtsmittels wird durch die Antragstellung nicht berührt. Von einer rechtskräftigen Zurückweisung des Rechtsmittels als verspätet oder sonst unzulässig sowie von einer wirksamen Zurücknahme des Rechtsmittels hat das Gericht den Verfassungsgerichtshof unverzüglich in Kenntnis zu setzen. Handlungen, Anordnungen oder Entscheidungen, die die vorläufige Verbindlichkeit, Rechtsgestaltungswirkung oder Vollstreckbarkeit einer Entscheidung betreffen, können ungeachtet der Antragstellung vorgenommen oder getroffen werden.
+
+`§ 528b (3) ZPO.`  
+Nach Einlangen des Erkenntnisses des Verfassungsgerichtshofes ist das Verfahren unverzüglich von Amts wegen vor dem Rechtsmittelgericht fortzusetzen; dieses ist bei seiner Entscheidung über das Rechtsmittel an den Spruch des Verfassungsgerichtshofes gebunden.
+----
+
+----
+## Fünfter Theil. # Nichtigkeits- und Wiederaufnahmsklage.
+
+### § 529 ZPO # 
+
+`§ 529 (1) ZPO.`  
+Eine rechtskräftige Entscheidung, durch welche eine Sache erledigt ist, kann durch die Nichtigkeitsklage angefochten werden:  
+`§ 529 (1) Z 1 ZPO.`
+wenn ein erkennender Richter von der Ausübung des Richteramtes in dem Rechtsstreite kraft des Gesetzes ausgeschlossen war;  
+`§ 529 (1) Z 2 ZPO.`
+wenn eine Partei in dem Verfahren gar nicht, oder falls sie eines gesetzlichen Vertreters bedarf, nicht durch einen solchen vertreten war, sofern die Processführung nicht nachträglich ordnungsmäßig genehmigt wurde.
+
+`§ 529 (2) ZPO.`  
+Die Nichtigkeitsklage ist jedoch unstatthaft, wenn in dem unter Z 1 bezeichneten Falle der Ausschließungsgrund, im Falle der Z 2 aber der Mangel der Processfähigkeit oder der gesetzlichen Vertretung schon vor der rechtskräftigen Entscheidung mittels eines Ablehnungsgesuches, mittels des Antrages auf Nichtigerklärung des Verfahrens oder im Wege eines Rechtsmittels ohne Erfolg geltend gemacht wurde.
+
+`§ 529 (3) ZPO.`  
+Die Nichtigerklärung ist ferner dann unstatthaft, wenn die Partei imstande war, den Ausschließungsgrund (Z 1) in dem früheren Verfahren oder durch ein Rechtsmittel geltend zu machen.
+----
+
+----
+### § 530 ZPO
+
+`§ 530 (1) ZPO.`  
+Ein Verfahren, das durch eine die Sache erledigende Entscheidung abgeschlossen worden ist, kann auf Antrag einer Partei wieder aufgenommen werden,  
+`§ 530 (1) Z 1 ZPO.`
+wenn eine Urkunde, auf welche die Entscheidung gegründet ist, fälschlich angefertigt oder verfälscht ist;  
+`§ 530 (1) Z 2 ZPO.`
+wenn sich ein Zeuge, ein Sachverständiger oder der Gegner bei seiner Vernehmung einer falschen Beweisaussage (§ 288 StGB) schuldig gemacht hat und die Entscheidung auf diese Aussage gegründet ist;  
+`§ 530 (1) Z 3 ZPO.`
+wenn die Entscheidung durch eine als Täuschung (§ 108 StGB), als Unterschlagung (§ 134 StGB), als Betrug (§ 146 StGB), als Urkundenfälschung (§ 223 StGB), als Fälschung besonders geschützter Urkunden (§ 224 StGB) oder öffentlicher Beglaubigungszeichen (§ 225 StGB), als mittelbare unrichtige Beurkundung oder Beglaubigung (§ 228 StGB), als Urkundenunterdrückung (§ 229 StGB), oder als Versetzung von Grenzzeichen (§ 230 StGB) gerichtlich strafbare Handlung des Vertreters der Partei, ihres Gegners oder dessen Vertreters erwirkt wurde;  
+`§ 530 (1) Z 4 ZPO.`
+wenn sich der Richter bei der Erlassung der Entscheidung oder einer der Entscheidung zugrunde liegenden früheren Entscheidung in Beziehung auf den Rechtsstreit zum Nachteil der Partei einer nach dem Strafgesetzbuch zu ahndenden Verletzung seiner Amtspflicht schuldig gemacht hat;  
+`§ 530 (1) Z 5 ZPO.`
+wenn ein strafgerichtliches Erkenntnis, auf welches die Entscheidung gegründet ist, durch ein anderes rechtskräftig gewordenes Urteil aufgehoben ist;  
+`§ 530 (1) Z 6 ZPO.`
+wenn die Partei eine über denselben Anspruch oder über dasselbe Rechtsverhältnis früher ergangene, bereits rechtskräftig gewordene Entscheidung auffindet oder zu benützen in den Stand gesetzt wird, welche zwischen den Parteien des wiederaufnehmenden Verfahrens Recht schafft;  
+`§ 530 (1) Z 7 ZPO.`
+wenn die Partei in Kenntnis von neuen Tatsachen gelangt oder Beweismittel auffindet oder zu benützen in den Stand gesetzt wird, deren Vorbringen und Benützung im früheren Verfahren eine ihr günstigere Entscheidung herbeigeführt haben würde.
+
+`§ 530 (2) ZPO.`  
+Wegen der in Z 6 und 7 angegebenen Umstände ist die Wiederaufnahme nur dann zulässig, wenn die Partei ohne ihr Verschulden außerstande war, die Rechtskraft der Entscheidung oder die neuen Tatsachen oder Beweismittel vor Schluß der mündlichen Verhandlung, auf welche die Entscheidung erster Instanz erging, geltend zu machen.
+----
+
+----
+### § 531 ZPO # 
+
+`§ 531 ZPO.`  
+Die Wiederaufnahme kann auch zur Ausführung der im Sinne des §. 279 Absatz 2 von der Verhandlung ausgeschlossenen Beweise bewilligt werden, wenn die Benützung dieser Beweise im früheren Verfahren offenbar eine der Partei günstigere Entscheidung zur Folge gehabt haben würde.
+----
+
+----
+### § 532 ZPO # 
+
+`§ 532 (1) ZPO.`  
+Für die Nichtigkeitsklage und für die nach §. 530, Z 4, erhobene Wiederaufnahmsklage ist das Gericht, von welchem die durch die Klage angefochtene Entscheidung gefällt wurde, wenn aber in der Klage mehrere in demselben Rechtsstreite von Gerichten verschiedener Instanzen gefällte Entscheidungen angefochten werden, das höchste unter diesen Gerichten ausschließlich zuständig.
+
+`§ 532 (2) ZPO.`  
+In allen übrigen Fällen (§§. 530, Z 1 bis 3, 5, 6 und 7, und 531) muss die Wiederaufnahmeklage beim Processgerichte erster Instanz, wenn aber nur eine in höherer Instanz erlassene Entscheidung von dem geltend gemachten Anfechtungsgrunde betroffen wird, bei dem bezüglichen Gerichte höherer Instanz angebracht werden.
+----
+
+----
+## Verfahren.
+
+### § 533 ZPO # 
+
+`§ 533 ZPO.`  
+Auf die Erhebung der Nichtigkeits- und Wiederaufnahmsklage und auf das weitere Verfahren finden, soweit sich nicht aus den nachfolgenden Bestimmungen Abweichungen ergeben, die im ersten bis vierten Theile dieses Gesetzes enthaltenen Vorschriften entsprechend Anwendung.
+----
+
+----
+### § 534 ZPO # 
+
+`§ 534 (1) ZPO.`  
+Die Klage ist binnen der Notfrist von vier Wochen zu erheben.
+
+`§ 534 (2) ZPO.`  
+Diese Frist ist zu berechnen:  
+`§ 534 (2) Z 1 ZPO.`
+im Falle des §. 529, Z 1, von dem Tage, an welchem die Partei von dem Ausschließungsgrunde Kenntnis erhalten hat, oder wenn dies vor Eintritt der Rechtskraft der angefochtenen Entscheidung geschehen, vom letzteren Tage;  
+`§ 534 (2) Z 2 ZPO.`
+im Falle des §. 529, Z 2, von dem Tage, an welchem die Entscheidung der Partei, und wenn diese nicht processfähig ist, dem gesetzlichen Vertreter derselben zugestellt wurde, jedoch gleichfalls nicht vor eingetretener Rechtskraft der angefochtenen Entscheidung;  
+`§ 534 (2) Z 3 ZPO.`
+in den Fällen des §. 530 Z 1 bis 5 von dem Tage, an welchem das strafgerichtliche Urtheil oder der die Einstellung eines strafgerichtlichen Verfahrens aussprechende Beschluss in Rechtskraft erwachsen ist;  
+`§ 534 (2) Z 4 ZPO.`
+im Falle des §. 530, Z 6 und 7, von dem Tage, an welchem die Partei imstande war, die rechtskräftige Entscheidung zu benützen oder die ihr bekannt gewordenen Thatsachen und Beweismittel bei Gericht vorzubringen;  
+`§ 534 (2) Z 5 ZPO.`
+im Falle des §. 531 von der Zustellung der Entscheidung erster Instanz.
+
+`§ 534 (3) ZPO.`  
+Nach Ablauf von zehn Jahren nach dem Eintritte der Rechtskraft der Entscheidung kann die Klage, mit Ausnahme des in Z 2 erwähnten Falles, nicht mehr erhoben werden.
+----
+
+----
+### § 535 ZPO # 
+
+`§ 535 ZPO.`  
+Wird die Klage nicht bei dem Gerichte erhoben, welches in dem früheren Verfahren in erster Instanz erkannt hat, sondern bei einem höheren Gerichte, welches nach den für das Verfahren vor demselben geltenden Bestimmungen die Hauptsache spruchreif zu machen vermag, so sind in Ansehung der mündlichen Verhandlung, der Beweisführung und der Mittheilung der über die Klage gefällten Entscheidung an die erste Instanz, sowie in Ansehung der Anfechtbarkeit der Entscheidung diejenigen Bestimmungen maßgebend, welche für das höhere Gericht als Rechtsmittelinstanz maßgebend wären.
+----
+
+----
+### § 536 ZPO # 
+
+`§ 536 ZPO.`  
+Die Klage muss insbesondere enthalten:  
+`§ 536 Z 1 ZPO.`
+die Bezeichnung der angefochtenen Entscheidung;  
+`§ 536 Z 2 ZPO.`
+die Bezeichnung des gesetzlichen Anfechtungsgrundes (Nichtigkeits-, Wiederaufnahmsgrund);  
+`§ 536 Z 3 ZPO.`
+die Angabe der Umstände, aus welchen sich die Einhaltung der gesetzlichen Frist für die Klage ergibt, und die Bezeichnung der hiefür vorhandenen Beweismittel;  
+`§ 536 Z 4 ZPO.`
+die Angabe der für die Beurtheilung der Zuständigkeit wesentlichen Umstände;  
+`§ 536 Z 5 ZPO.`
+die Erklärung, inwieweit die Beseitigung der angefochtenen Entscheidung, und welche andere Entscheidung in der Hauptsache beantragt wird.
+----
+
+----
+### § 537 ZPO # 
+
+`§ 537 ZPO.`  
+Der Richter, wegen dessen Betheiligung an der Entscheidung die Nichtigkeitsklage (§. 529, Z 1) oder wegen dessen Verhalten die Wiederaufnahmsklage nach §. 530, Z 4, angebracht wird, ist von der Leitung der Verhandlung sowie von der Entscheidung über die Nichtigkeits- oder Wiederaufnahmsklage ausgeschlossen.
+----
 
-### § 473 ZPO
+----
+### § 538 ZPO # 
+
+`§ 538 (1) ZPO.`  
+Das Gericht hat vor Anberaumung einer Tagsatzung zur mündlichen Verhandlung, und zwar bei Gerichtshöfen in nicht öffentlicher Sitzung, zu prüfen, ob die Klage auf einen der gesetzlichen Anfechtungsgründe (§§. 529 bis 531) gestützt und in der gesetzlichen Frist erhoben sei. Mangelt es an einem dieser Erfordernisse oder ist die Klage wegen eines der im §. 230, Absatz 2, angeführten Gründe unzulässig, so ist sie als zur Bestimmung einer Tagsatzung für die mündliche Verhandlung ungeeignet durch Beschluß zurückzuweisen.
+
+`§ 538 (2) ZPO.`  
+Die Umstände, aus welchen sich die Einhaltung der gesetzlichen Frist ergibt, sind vom Kläger auf Verlangen des Gerichtes glaubhaft zu machen.
+----
 
-`§ 473 (1) ZPO.`  
-Der Berufungssenat entscheidet in den Fällen des §. 471 über die Berufung in nicht öffentlicher Sitzung und ohne vorhergehende mündliche Verhandlung durch Beschluss.
+----
+### § 539 ZPO # 
 
-`§ 473 (2) ZPO.`  
-Hält der Berufungssenat zur Feststellung der Berufungsgründe oder der Nichtigkeit thatsächliche Aufklärungen seitens der Parteien oder des Gerichtes erster Instanz oder andere vorgängige Erhebungen erforderlich, so sind dieselben anzuordnen und mit Benützung der einschlägigen, in den Berufungsschriften enthaltenen Parteiangaben entweder vom Berufungssenate selbst durchzuführen, oder durch einen beauftragten Richter oder das Processgericht erster Instanz durchführen zu lassen.
+`§ 539 (1) ZPO.`  
+Wenn die Wiederaufnahme wegen einer der im §. 530 Z 1 bis 4 angeführten strafbaren Handlungen begehrt wird, ohne daß ihrer wegen bereits eine rechtskräftige Verurtheilung stattgefunden hätte, hat das Processgericht ohne vorgängige mündliche Verhandlung die Einleitung des strafgerichtlichen Verfahrens behufs Ermittlung und Feststellung der behaupteten strafbaren Handlung zu veranlassen. Gegen diesen Beschluss ist ein Rechtsmittel nicht zulässig; vor der Beschlussfassung kann das Gericht die Parteien oder eine derselben vernehmen und die ihm sonst wichtig scheinenden Erhebungen einleiten.
 
-### § 473a ZPO
+`§ 539 (2) ZPO.`  
+Die Tagsatzung zur mündlichen Verhandlung über die Wiederaufnahmsklage ist erst nach rechtskräftigem Abschlusse des strafgerichtlichen Verfahrens, und zwar nur dann anzuberaumen, wenn dieses Verfahren entweder zu einer rechtskräftigen Verurtheilung wegen der zur Begründung der Wiederaufnahmsklage geltend gemachten strafbaren Handlung geführt hat, oder wenn das strafgerichtliche Verfahren aus anderen Gründen als wegen mangelnden Thatbestandes oder wegen Mangels an Beweisen zu einer Verurtheilung nicht geführt hat. Andernfalls ist die Klage nach Bekanntgabe der Ergebnisse des strafgerichtlichen Verfahrens als unzulässig zurückzuweisen. Diese Zurückweisung geschieht gleichfalls ohne vorgängige mündliche Verhandlung und bei Gerichtshöfen durch einen in nicht öffentlicher Sitzung gefassten Beschluß. Das Strafgericht oder die staatsanwaltschaftliche Behörde hat bei Bekanntgabe der wegen Nichteinleitung oder Einstellung des Strafverfahrens gefassten Beschlüsse den Grund der unterlassenen Einleitung oder der Einstellung des Verfahrens stets ausdrücklich zu bezeichnen.
+----
 
-`§ 473a (1) ZPO.`  
-Erwägt das Berufungsgericht, das erstrichterliche Urteil abzuändern oder die Klage ohne Sachentscheidung aus formellen Gründen zurückzuweisen, so darf es nur dann eine solche Entscheidung auf Feststellungen des Erstgerichts gründen, wenn das Berufungsgericht dem Berufungsgegner zuvor mitgeteilt hat, daß es ihm freistehe, Mängel von Tatsachenfeststellungen oder der Beweiswürdigung des Erstgerichts oder des Verfahrens erster Instanz durch Überreichung eines beim Berufungsgericht einzubringenden vorbereitenden Schriftsatzes zu rügen. Dies gilt nicht, wenn der Berufungsgegner die in Betracht kommenden, festgestellten Tatsachen nach § 266 zugestanden oder im Berufungsverfahren die genannten Mängel bereits gerügt hat oder nach § 468 Abs. 2 zweiter Satz zu rügen gehalten war.
+----
+### § 540 ZPO # 
 
-`§ 473a (2) ZPO.`  
-Der Schriftsatz ist innerhalb der vom Berufungsgericht gleichzeitig mit der Mitteilung nach Abs. 1 zu bestimmenden, den Umständen des einzelnen Falles angemessenen, vier Wochen nicht überschreitenden Frist einzubringen.
+`§ 540 (1) ZPO.`  
+Ist in den Fällen des §. 530 der Wiederaufnahmsgrund durch der Klage beigelegte Urkunden dargethan oder wird die Wiederaufnahme im Sinne des §. 531 beantragt, so ist die Verhandlung und Entscheidung über den Grund und die Zulässigkeit der Wiederaufnahme, vorbehaltlich der dem Gerichte im §. 189 eingeräumten Befugnis, mit der Verhandlung der Hauptsache zu verbinden.
 
-`§ 473a (3) ZPO.`  
-Der Schriftsatz nach Abs. 1 kann nicht durch ein gerichtliches Protokoll ersetzt werden. Für die Behandlung dieses Schriftsatzes tritt das Berufungsgericht an die Stelle des Prozeßgerichts erster Instanz; im übrigen sind die Bestimmungen über die Berufungsbeantwortung anzuwenden.
+`§ 540 (2) ZPO.`  
+Die Hauptsache wird dabei soweit von neuem verhandelt, als sie vom Anfechtungsgrunde betroffen ist.
 
-`§ 473a (4) ZPO.`  
-Hat der Berufungsgegner zuvor schon eine Berufungsbeantwortung überreicht, so ist sein Schriftsatz nach Abs. 1 als ein Bestandteil seiner Berufungsbeantwortung, sonst als seine nunmehrige Berufungsbeantwortung anzusehen.
+`§ 540 (3) ZPO.`  
+Ist jedoch das zur Entscheidung über die Bewilligung der Wiederaufnahme zuständige Gericht höherer Instanz nach den für das Verfahren vor demselben geltenden Bestimmungen nicht in der Lage, die Hauptsache spruchreif zu machen, so hat es sich auf die Entscheidung über die Zulässigkeit der Wiederaufnahme zu beschränken und nach Rechtskraft des die Wiederaufnahme bewilligenden Urtheiles den Rechtsstreit zur Verhandlung der Hauptsache an das Gericht zurückzuverweisen, welches in erster Instanz dazu berufen gewesen ist. Von diesem ist sodann die Tagsatzung zur mündlichen Verhandlung der Hauptsache von amtswegen anzuberaumen und nach den für das Verfahren vor diesem Gerichte geltenden Vorschriften durchzuführen.
+----
 
-`§ 473a (5) ZPO.`  
-Das Berufungsgericht kann auch in nicht öffentlicher Sitzung und ohne vorhergehende mündliche Verhandlung eine Mitteilung an den Berufungsgegner nach Abs. 1 beschließen und die erforderlichen Anordnungen treffen.
+----
+### § 541 ZPO # 
 
-### § 474 ZPO
+`§ 541 (1) ZPO.`  
+In allen übrigen Fällen ist nur über Grund und Zulässigkeit der Wiederaufnahme des Verfahrens oder über die Nichtigerklärung desselben zu verhandeln und durch Urtheil zu entscheiden.
 
-`§ 474 (1) ZPO.`  
-Beim Vorhandensein des im §. 471, Z 1, bezeichneten Mangels hat das Gericht seine Unzuständigkeit auszusprechen und die Berufung an das für dieselbe zuständige Gericht zu verweisen.
+`§ 541 (2) ZPO.`  
+Wird die Wiederaufnahme bewilligt, so ist das Verfahren in der Hauptsache, soweit es vom Anfechtungsgrunde betroffen wird, bei dem Gerichte, bei welchem die Wiederaufnahmsklage eingebracht wurde, oder wenn dieses nach den für das Verfahren geltenden Bestimmungen nicht in der Lage ist, die Hauptsache spruchreif zu machen, bei dem Gerichte abzuführen, welches zur Verhandlung der Hauptsache in erster Instanz berufen war.
 
-`§ 474 (2) ZPO.`  
-In den Fällen des §. 471, Z 2 und 3, ist die Berufung zu verwerfen. In den Fällen des § 471 Z 3 gilt dies jedoch nur, wenn ein Antrag zur Verbesserung (§§ 84, 85) fruchtlos geblieben ist.
+`§ 541 (3) ZPO.`  
+In Bezug auf die Verweisung, die Anberaumung der Tagsatzung zur mündlichen Verhandlung und die Durchführung der Verhandlung gelten die Bestimmungen des §. 540 Absatz 3.
+----
 
-`§ 474 (3) ZPO.`  
-Wenn die Berufung im Falle des §. 471, Z 4, als begründet befunden wird, ist das Urtheil aufzuheben und die Rechtssache je nach Vollendung der erstrichterlichen Verhandlung bloß zur neuerlichen Urtheilsfällung oder zur Fortsetzung der Verhandlung und Urtheilsfällung an das Processgericht erster Instanz zurückzuverweisen.
+----
+### § 542 ZPO # 
 
-### § 475 ZPO
+`§ 542 (1) ZPO.`  
+Ist die Verhandlung zur Hauptsache bei dem zur Entscheidung über die Zulässigkeit der Wiederaufnahme zuständigen Gerichte abzuführen, so kann das Gericht nach Verkündung der dem Wiederaufnahmebegehren stattgebenden Entscheidung durch Beschluss anordnen, dass vor Ausfertigung dieser Entscheidung in der Hauptsache verhandelt werde. Gegen diesen Beschluss ist ein Rechtsmittel nicht zulässig.
 
-`§ 475 (1) ZPO.`  
-Hat im Falle des § 471 Z 6 das Gericht erster Instanz mit Unrecht das Fehlen der inländischen Gerichtsbarkeit oder der sachlichen oder örtlichen Zuständigkeit ausgesprochen, die Streitanhängigkeit ohne Grund angenommen, eine Entscheidung über den Klagsanspruch mit Unrecht deshalb abgelehnt, weil über denselben bereits rechtskräftig entschieden sei oder die Unzulässigkeit des Rechtsweges vorliege, so wird dem Gericht erster Instanz vom Berufungsgericht aufgetragen, sich der Urteilsfällung in der Hauptsache oder der Verhandlung und Urteilsfällung zu unterziehen, je nachdem die erstrichterliche Entscheidung nach durchgeführter Verhandlung zur Hauptsache, oder auf Grund abgesonderter Verhandlung über das Fehlen der inländischen Gerichtsbarkeit oder der sachlichen oder örtlichen Zuständigkeit, über die Streitanhängigkeit, die Rechtskraft oder die Unzulässigkeit des Rechtsweges und vor Abschluß der Verhandlung zur Hauptsache erging.
+`§ 542 (2) ZPO.`  
+Die Entscheidung über die Zulässigkeit der Wiederaufnahme ist in diesem Falle in die Entscheidung über die Hauptsache aufzunehmen.
+----
 
-`§ 475 (2) ZPO.`  
-Wurde jedoch in erster Instanz mit Unrecht die sachliche oder örtliche Zuständigkeit des Prozeßgerichts angenommen (§ 471 Z 5, 6 oder 7), so sind unter Aufhebung des erstrichterlichen Urteils auf Antrag oder von Amts wegen die zur Einleitung des Verfahrens vor dem zuständigen Gericht erforderlichen Anordnungen zu treffen.
+----
+### § 543 ZPO # 
 
-`§ 475 (3) ZPO.`  
-Wurde vom Gerichte erster Instanz auf die Streitanhängigkeit mit Unrecht keine Rücksicht genommen oder der Antrag, die Klage ohne Verhandlung zur Hauptsache zurückzuweisen, weil über den Klagsanspruch schon rechtskräftig entschieden sei, unrichtiger Weise verworfen, so ist die Klage unter Aufhebung des ergangenen erstrichterlichen Urtheiles vom Berufungsgerichte zurückzuweisen.
+`§ 543 ZPO.`  
+Ergibt sich erst bei der mündlichen Verhandlung, daß die Wiederaufnahms- oder Nichtigkeitsklage auf einen gesetzlich unzulässigen Anfechtungsgrund gestützt wird oder verspätet überreicht ist, so ist die Klage durch Beschluss zurückzuweisen.
+----
 
-### § 476 ZPO
+----
+### § 544 ZPO # 
 
-`§ 476 (1) ZPO.`  
-Wenn das angefochtene Urtheil wegen Unzuständigkeit des Gerichtes erster Instanz aufgehoben und die Rechtssache zu neuerlicher Verhandlung an das zuständige Gericht verwiesen wird, ist diese neuerliche Verhandlung auf Grund des über die erste Verhandlung aufgenommenen Verhandlungsprotokolles und aller sonstigen an das Berufungsgericht gelangten Processacten durchzuführen. Die neuerliche Verhandlung ist im Sinne des §. 138 einzuleiten.
+`§ 544 (1) ZPO.`  
+Über eine Wiederaufnahmsklage, welche gleichzeitig mit der Erhebung eines Rechtsmittels gegen dieselbe Entscheidung oder während des anhängigen Rechtsmittelverfahrens eingebracht wird, ist von amtswegen oder auf Antrag unverzüglich die Unterbrechung des Rechtsmittelverfahrens anzuordnen, wenn einer der im §. 530, Z 1 bis 5, angeführten Wiederaufnahmsgründe geltend gemacht und das ergangene rechtskräftige strafgerichtliche Urtheil der Klage beigelegt wird.
 
-`§ 476 (2) ZPO.`  
-Alle von den Parteien bei der ersten Verhandlung abgelegten Geständnisse und alle sonstigen Erklärungen der Parteien behalten ihre Wirksamkeit auch für die neuerliche Verhandlung. Die Parteien können jedoch bei derselben auch solche thatsächliche Behauptungen und Beweise, Angriffs- und Vertheidigungsmittel vorbringen, welche von ihnen bei der ersten Verhandlung nicht geltend gemacht wurden; desgleichen können die Parteien die bei der früheren Verhandlung versäumten oder verweigerten Erklärungen über thatsächliche Behauptungen und Beweisanbietungen bei der späteren Verhandlung nachholen.
+`§ 544 (2) ZPO.`  
+Das Gericht, bei welchem die Wiederaufnahmsklage angebracht wurde, hat im Falle einer solchen Beschlussfassung das Gericht, bei welchem über das eingelegte Rechtsmittel zur Zeit verhandelt wird, von der angeordneten Unterbrechung des Rechtsmittelverfahrens sofort zu verständigen.
+----
 
-### § 477 ZPO
+----
+### § 545 ZPO # 
 
-`§ 477 (1) ZPO.`  
-Als nichtig (§. 471, Z 5 und 7) ist das angefochtene Urtheil und, soweit der Grund der Nichtigkeit das vorangegangene Verfahren ergreift, auch dieses aufzuheben:  
-`§ 477 (1) Z 1 ZPO.`
-wenn an der Entscheidung ein Richter theilnahm, welcher kraft des Gesetzes von der Ausübung des Richteramtes in dieser Rechtssache ausgeschlossen war, oder dessen Ablehnung vom Gerichte als berechtigt erkannt worden ist;  
-`§ 477 (1) Z 2 ZPO.`
-wenn das erkennende Gericht nicht vorschriftsmäßig besetzt war;  
-`§ 477 (1) Z 3 ZPO.`
-wenn das Urteil von einem Gericht gefällt wurde, obwohl der Umstand nicht geheilt ist, daß die inländische Gerichtsbarkeit fehlt oder das Gericht auch nicht durch ausdrückliche Vereinbarung der Parteien für die betreffende Rechtssache sachlich oder örtlich zuständig gemacht werden konnte (§ 104 Abs. 3 bis 5 JN);  
-`§ 477 (1) Z 4 ZPO.`
-wenn einer Partei die Möglichkeit, vor Gericht zu verhandeln, durch ungesetzlichen Vorgang, insbesondere durch Unterlassung der Zustellung entzogen wurde;  
-`§ 477 (1) Z 5 ZPO.`
-wenn eine Partei in dem Verfahren gar nicht oder, falls sie eines gesetzlichen Vertreters bedarf, nicht durch einen solchen vertreten war, sofern die Processführung nicht nachträglich ordnungsmäßig genehmigt wurde;  
-`§ 477 (1) Z 6 ZPO.`
-wenn über eine nicht auf den Rechtsweg gehörige Sache erkannt wurde;  
-`§ 477 (1) Z 7 ZPO.`
-wenn die Öffentlichkeit in ungerechtfertigter Weise ausgeschlossen wurde;  
-`§ 477 (1) Z 8 ZPO.`
-wenn der Vorschrift des §. 210, Absatz 2, zuwider die Parteien oder deren Bevollmächtigte von ihnen abgefasste Entwürfe zu Verhandlungsprotokollen zu den Acten gebracht haben;  
-`§ 477 (1) Z 9 ZPO.`
-wenn die Fassung des Urtheiles so mangelhaft ist, dass dessen Überprüfung nicht mit Sicherheit vorgenommen werden kann, wenn das Urtheil mit sich selbst in Widerspruch ist oder für die Entscheidung keine Gründe angegeben sind und diesen Mängeln durch eine vom Berufungsgerichte angeordnete Berichtigung des Urtheiles (§. 419) nicht abgeholfen werden kann.
+`§ 545 (1) ZPO.`  
+Ob in den übrigen Fällen wegen Einbringung einer Wiederaufnahmsklage das in Bezug auf dieselbe Entscheidung eingeleitete oder anhängige Rechtsmittelverfahren unterbrochen werden soll, darüber hat das zur Verhandlung über die Klage berufene Gericht von amtswegen oder auf Antrag mit Rücksicht auf die besonderen Verhältnisse des Falles und die für das Vorhandensein des Wiederaufnahmsgrundes vorgebrachten Beweise zu entscheiden.
 
-`§ 477 (2) ZPO.`  
-Eine nachträgliche Genehmigung der Processführung (Z 5) liegt insbesondere dann vor, wenn der gesetzliche Vertreter, ohne den Mangel der Vertretung geltend zu machen, durch Erstattung der Berufungsschrift oder der Berufungsbeantwortung in das Berufungsverfahren eingetreten ist.
+`§ 545 (2) ZPO.`  
+Eine solche Unterbrechung kann auch noch während der mündlichen Verhandlung über die Wiederaufnahmsklage beschlossen werden. Bei Anordnung der Unterbrechung kommen die Bestimmungen des §. 544 Absatz 2 zur Anwendung.
+----
 
-`§ 477 (3) ZPO.`  
-Die Nichtigkeit nach Abs. 1 Z 2 liegt nicht vor, wenn an Stelle des Einzelrichters ein Senat entschieden hat.
+----
+### § 546 ZPO # 
 
-### § 478 ZPO
+`§ 546 (1) ZPO.`  
+Gegen den Beschluss, durch welchen über einen gemäß §§. 544 und 545 gestellten Antrag entschieden wird, ist ein Rechtsmittel nicht statthaft.
 
-`§ 478 (1) ZPO.`  
-Erfolgt die Aufhebung des erstrichterlichen Urtheiles wegen Nichtigkeit, ohne dass hiedurch zur Erledigung der Sache eine weitere Verhandlung nothwendig wird (§. 477, Z 5 und 6), so ist, soweit die Nichtigkeit reicht, die Zurückweisung der Klage auszusprechen.
+`§ 546 (2) ZPO.`  
+Ist die Wiederaufnahmsklage rechtskräftig abgewiesen, so ist das unterbrochene Rechtsmittelverfahren von amtswegen oder auf Antrag wieder aufzunehmen. Der Antrag ist bei dem Gerichte zu stellen, vor welchem das Rechtsmittelverfahren zur Zeit der angeordneten Unterbrechung anhängig war. Dieses Gericht hat die rechtzeitige Wiedervorlage der zur Fortsetzung der Verhandlung erforderlichen Acten von amtswegen zu veranlassen.
+----
 
-`§ 478 (2) ZPO.`  
-Wird durch die gänzliche oder theilweise Aufhebung des erstrichterlichen Urtheiles wegen Nichtigkeit eine weitere Verhandlung nothwendig, so ist die Sache an das Gericht erster Instanz zurückzuverweisen.
+----
+### § 547 ZPO # 
 
-`§ 478 (3) ZPO.`  
-Wenn das erstrichterliche Urtheil wegen eines der in §. 477, Z 1 und 2, angeführten Nichtigkeitsgründe aufgehoben wird, so kann die Sache zur neuerlichen Verhandlung statt an das Processgericht erster Instanz an ein anderes im Sprengel des Berufungsgerichtes gelegenes Gericht der gleichen Art verwiesen werden.
+`§ 547 (1) ZPO.`  
+Sofern nicht nach den vorstehenden Bestimmungen infolge Einbringung der Wiederaufnahmsklage eine Unterbrechung eines anhängigen Rechtsmittelverfahrens angeordnet wird, hat die Erhebung einer Wiederaufnahmsklage in Bezug auf den Eintritt der Rechtskraft und Vollstreckbarkeit der angefochtenen Entscheidung keine hemmende Wirkung.
 
-### § 479 ZPO
+`§ 547 (2) ZPO.`  
+Auf die Vollstreckbarkeit einer angefochtenen rechtskräftigen Entscheidung ist die Einbringung einer Nichtigkeitsklage oder einer Wiederaufnahmsklage ohne Einfluss.
+----
 
-`§ 479 (1) ZPO.`  
-Wenn die Rechtssache gemäß §. 478 an ein Gericht erster Instanz verwiesen wird, so hat dieses die Tagsatzung zur mündlichen Verhandlung von amtswegen anzuberaumen. Mit der Anberaumung der Tagsatzung ist jedoch bis nach Eintritt der Rechtskraft der Entscheidung des Berufungsgerichtes zu warten, wenn letzteres ausgesprochen hat, dass das Verfahren in erster Instanz erst nach eingetretener Rechtskraft der Berufungsentscheidung aufzunehmen oder fortzusetzen sei. Ein solcher Ausspruch kann von amtswegen oder auf Antrag erfolgen; gegen denselben ist ein abgesondertes Rechtsmittel nicht zulässig.
+----
+## Sechster Theil. # Besondere Arten des Verfahrens. # Erster Abschnitt # Europäisches Bagatellverfahren
 
-`§ 479 (2) ZPO.`  
-Desgleichen ist im Falle des §. 474 Absatz 1, nach eingetretener Rechtskraft der Entscheidung des Berufungsgerichtes wegen Fortsetzung des Verfahrens vor dem zuständigen Berufungsgerichte von diesem das Erforderliche von amtswegen anzuordnen.
+### § 548 ZPO
 
-### § 479a ZPO
+`§ 548 (1) ZPO.`  
+Soweit die Verordnung (EG) Nr. 861/2007 zur Einführung eines europäischen Verfahrens für geringfügige Forderungen, ABl. Nr. L 199 vom 31.7.2007 S. 1, nicht anderes anordnet, sind die für den jeweiligen Verfahrensgegenstand geltenden Verfahrensvorschriften anzuwenden.
 
-`§ 479a (1) ZPO.`  
-Außer in den Fällen des § 471 ist die Berufung vor Anordnung einer Tagsatzung zur mündlichen Verhandlung vor den Berufungssenat zu bringen, wenn in einer vor dem Einzelrichter eines Gerichtshofes oder vor einem Bezirksgericht verhandelten Rechtssache die Berufungsschrift, die Berufungsbeantwortung oder ein innerhalb der für diese offenstehenden Frist eingebrachter besonderer Schriftsatz des Berufungsgegners einen Antrag enthält, wodurch das Einschreiten eines Berufungsgerichtes in der für die Ausübung der Gerichtsbarkeit in Handelsrechtssachen vorgeschriebenen Zusammensetzung erwirkt oder abgelehnt werden soll. Wurde ein Beisatz über die Art der ausgeübten Gerichtsbarkeit nicht von Amts wegen in das angefochtene Urteil aufgenommen, so kann das erste Begehren nur von dem gestellt werden, der ohne Erfolg einen die Ausübung der besonderen Gerichtsbarkeit bezeichnenden Beisatz beantragt oder sich ohne Erfolg gegen einen die Ausübung der allgemeinen Gerichtsbarkeit bezeichnenden Beisatz ausgesprochen hat. Das zweite Begehren kann dagegen nur von dem gestellt werden, der ohne Erfolg einen die Ausübung der allgemeinen Gerichtsbarkeit bezeichnenden Beisatz beantragt oder sich ohne Erfolg gegen einen die Ausübung der besonderen Gerichtsbarkeit bezeichnenden Beisatz ausgesprochen hat. In anderer Weise kann die Aufnahme oder Nichtaufnahme eines die Art der ausgeübten Gerichtsbarkeit bezeichnenden Beisatzes in das Urteil erster Instanz nicht angefochten werden.
+`§ 548 (2) ZPO.`  
+Auf das Verfahren nach der Verordnung finden die Bestimmungen über die Hemmung von Fristen und die Erstreckung von Tagsatzungen nach § 222 ZPO keine Anwendung.
 
-`§ 479a (2) ZPO.`  
-Der Berufungsenat entscheidet, wie das Berufungsgericht im weiteren Verfahren zusammenzusetzen ist. Die Entscheidung ist nicht besonders auszufertigen, sondern in die Berufungsentscheidung aufzunehmen. Sie unterliegt keiner Anfechtung.
+`§ 548 (3) ZPO.`  
+Fällt die Widerklage nach Art. 5 Abs. 6 der Verordnung nicht in deren Anwendungsbereich, dann ist sie – außer im Fall des Art. 5 Abs. 7 der Verordnung – zurückzuweisen. Im Fall der Widerklage nach Art. 5 Abs. 7 der Verordnung sind die Verfahren fortzuführen.
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.017](BG.ZPO.017.md))*
+`§ 548 (4) ZPO.`  
+Bei Vorliegen der Voraussetzungen nach Art. 7 Abs. 3 der Verordnung hat das Gericht von Amts wegen ein Versäumungsurteil nach § 396 zu fällen. Ein Widerspruch nach § 397a ist zulässig.
+
+`§ 548 (5) ZPO.`  
+Das für das Europäische Bagatellverfahren zuständige Gericht erster Instanz ist auch für die Überprüfung nach Art. 18 der Verordnung zuständig; hiefür gelten die §§ 149 und 153 entsprechend. Erklärt das Gericht das Urteil nach Art. 18 der Verordnung für nichtig, so tritt der Rechtsstreit in die Lage zurück, in der er sich vor dem zur Nichtigerklärung führenden Verfahrensschritt befunden hat.
+----
+
+`END-OF-DATA-SET`

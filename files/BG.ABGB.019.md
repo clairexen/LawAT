@@ -1,324 +1,519 @@
 # BG.ABGB.019 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.019.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.018](BG.ABGB.018.md))*
 
-## Achtzehntes Hauptstück. # Von Schenkungen.
+----
+## Der Kaufpreis muß
 
-### § 938 ABGB # Schenkung.
+### § 1055 ABGB # a) in barem Gelde bestehen;
 
-`§ 938 ABGB.`  
-Ein Vertrag, wodurch eine Sache jemanden unentgeldlich überlassen wird, heißt eine Schenkung.
+`§ 1055 ABGB.`  
+Wird eine Sache theils gegen Geld, theils gegen eine andere Sache veräußert, so wird der Vertrag, je nachdem der Werth am Gelde mehr oder weniger, als der gemeine Werth der gegebenen Sache beträgt, zum Kaufe oder Tausche, und bey gleichem Werthe der Sache, zum Kaufe gerechnet.
+----
 
-### § 939 ABGB # In wie fern eine Verzichtleistung eine Schenkung sey.
+----
+### § 1056 ABGB # b) bestimmt;
 
-`§ 939 ABGB.`  
-Wer auf ein gehofftes, oder wirklich angefallenes, oder zweyfelhaftes Recht Verzicht thut, ohne es einem Andern ordentlich abzutreten, oder dasselbe dem Verpflichteten mit dessen Einwilligung zu erlassen, ist für keinen Geschenkgeber anzusehen.
+`§ 1056 ABGB.`  
+Käufer und Verkäufer können die Festsetzung des Preises auch einer dritten bestimmten Person überlassen. Wird von dieser in dem bedungenen Zeitraume nichts festgesetzt; oder will im Falle, daß kein Zeitraum bedungen worden ist, ein Theil vor der Bestimmung des Preises zurücktreten; so wird der Kaufvertrag als nicht geschlossen angesehen.
+----
 
-### § 940 ABGB # Belohnende Schenkung.
+----
+### § 1057 ABGB
 
-`§ 940 ABGB.`  
-Es verändert die Wesenheit der Schenkung nicht, wenn sie aus Erkenntlichkeit; oder in Rücksicht auf die Verdienste des Beschenkten; oder als eine besondere Belohnung desselben gemacht worden ist; nur darf er vorher kein Klagerecht darauf gehabt haben.
+`§ 1057 ABGB.`  
+Wird die Bestimmung des Preises mehreren Personen überlassen, so entscheidet die Mehrheit der Stimmen. Fallen die Stimmen so verschieden aus, daß der Preis nicht einmahl durch wirkliche Mehrheit der Stimmen festgesetzt wird; so ist der Kauf für nicht eingegangen zu achten.
+----
 
-### § 941 ABGB
+----
+### § 1058 ABGB
 
-`§ 941 ABGB.`  
-Hat der Beschenkte ein Klagerecht auf die Belohnung gehabt, entweder, weil sie unter den Parteyen schon bedungen, oder durch das Gesetz vorgeschrieben war; so hört das Geschäft auf, eine Schenkung zu seyn, und ist als ein entgeldlicher Vertrag anzusehen.
+`§ 1058 ABGB.`  
+Auch der Werth, welcher bey einer früheren Veräußerung bedungen worden ist, kann zur Bestimmung des Preises dienen. Hat man den ordentlichen Marktpreis zum Grunde gelegt, so wird der mittlere Marktpreis des Ortes und der Zeit, wo und in welcher der Vertrag erfüllet werden muß, angenommen.
+----
 
-### § 942 ABGB # Wechselseitige Schenkungen.
+----
+### § 1059 ABGB # c) nicht gesetzwidrig sein
 
-`§ 942 ABGB.`  
-Sind Schenkungen vorher dergestalt bedungen, daß der Schenkende wieder beschenkt werden muß; so entsteht keine wahre Schenkung im Ganzen; sondern nur in Ansehung des übersteigenden Werthes.
+`§ 1059 ABGB.`  
+*(Anm.: Aufgehoben durch § 33 Z 7, BGBl. Nr. 140/1979.)*
+----
 
-### § 943 ABGB # Form des Schenkungsvertrages.
+----
+### § 1060 ABGB
 
-`§ 943 ABGB.`  
-Aus einem bloß mündlichen, ohne wirkliche Uebergabe geschlossenen Schenkungsvertrage erwächst dem Geschenknehmer kein Klagerecht. Dieses Recht muß durch eine schriftliche Urkunde begründet werden.
+`§ 1060 ABGB.`  
+Außer diesem Falle kann der Kauf sowohl von dem Käufer als Verkäufer nur wegen Verletzung über die Hälfte bestritten werden (§§. 934 – 935). Diese Beschwerde findet auch dann Statt, wenn der Ausspruch des Kaufpreises einem Dritten überlassen worden ist.
+----
 
-### § 944 ABGB # und Maß einer Schenkung.
+----
+### § 1061 ABGB # Pflichten des Verkäufers,
 
-`§ 944 ABGB.`  
-Ein unbeschränkter Eigenthümer kann mit Beobachtung der gesetzlichen Vorschriften auch sein ganzes gegenwärtiges Vermögen verschenken. Ein Vertrag aber, wodurch das künftige Vermögen verschenket wird, besteht nur in so weit, als er die Hälfte dieses Vermögens nicht übersteigt.
+`§ 1061 ABGB.`  
+Der Verkäufer ist schuldig, die Sache bis zur Zeit der Uebergabe sorgfältig zu verwahren und sie dem Käufer nach eben den Vorschriften zu übergeben, welche oben bey dem Tausche (§. 1047) aufgestellt worden sind.
+----
 
-### § 945 ABGB # In wie fern der Geber für das Geschenkte hafte.
+----
+### § 1062 ABGB # und des Käufers
 
-`§ 945 ABGB.`  
-Wer wissentlich eine fremde Sache verschenkt, und dem Geschenknehmer diesen Umstand verschweigt, haftet für die nachtheiligen Folgen.
+`§ 1062 ABGB.`  
+Der Käufer hingegen ist verbunden, die Sache sogleich, oder zur bedungenen Zeit zu übernehmen, zugleich aber auch das Kaufgeld bar abzuführen; widrigen Falls ist der Verkäufer ihm die Uebergabe der Sache zu verweigern berechtiget.
+----
 
-### § 946 ABGB # Unwiderruflichkeit der Schenkungen.
+----
+### § 1063 ABGB
 
-`§ 946 ABGB.`  
-Schenkungsverträge dürfen in der Regel nicht widerrufen werden.
+`§ 1063 ABGB.`  
+Wird die Sache dem Käufer von dem Verkäufer ohne das Kaufgeld zu erhalten, übergeben; so ist die Sache auf Borg verkauft, und das Eigenthum derselben geht gleich auf den Käufer über.
+----
 
-## Ausnahmen:
+----
+### § 1063a ABGB
 
-### § 947 ABGB # 1) wegen Dürftigkeit;
+`§ 1063a ABGB.`  
+Die Kosten der Übergabe der verkauften Ware, insbesondere die Kosten des Messens und des Wägens, fallen dem Verkäufer zur Last, die Kosten der Abnahme und der Versendung der Sache an einen anderen Ort als den Erfüllungsort aber dem Käufer.
+----
 
-`§ 947 ABGB.`  
-Geräth der Geschenkgeber in der Folge in solche Dürftigkeit, daß es ihm an dem nöthigen Unterhalte gebricht; so ist er befugt, jährlich von dem geschenkten Betrage die gesetzlichen Zinsen, in so weit die geschenkte Sache, oder derselben Werth noch vorhanden ist, und ihm der nöthige Unterhalt mangelt, von dem Beschenkten zu fordern, wenn sich anders dieser nicht selbst in gleich dürftigen Umständen befindet. Aus mehrern Geschenknehmern ist der frühere nur in so weit verbunden, als die Beyträge der spätern zum Unterhalte nicht zureichen.
+----
+### § 1063b ABGB
 
-### § 948 ABGB # 2) Undankes;
+`§ 1063b ABGB.`  
+Wenn dem Käufer beim Kauf einer beweglichen Sache die nähere Bestimmung der Form, des Maßes oder ähnlicher Verhältnisse vorbehalten ist, ist er verpflichtet, die vorbehaltene Bestimmung zu treffen. Im Übrigen gilt § 906 Abs. 2 sinngemäß.
+----
 
-`§ 948 ABGB.`  
-Wenn der Beschenkte sich gegen seinen Wohlthäter eines groben Undankes schuldig macht, kann die Schenkung widerrufen werden. Unter grobem Undanke wird eine Verletzung am Leibe, an Ehre, an Freyheit, oder am Vermögen verstanden, welche von der Art ist, daß gegen den Verletzer von Amts wegen, oder auf Verlangen des Verletzten nach dem Strafgesetze verfahren werden kann.
+----
+### § 1064 ABGB # Gefahr und Nutzen des Kaufgegenstandes
 
-### § 949 ABGB
+`§ 1064 ABGB.`  
+In Rücksicht der Gefahr und Nutzungen einer zwar gekauften, aber noch nicht übergebenen Sache gelten die nähmlichen Vorschriften, die bey dem Tauschvertrage gegeben worden sind (§§. 1048 – 1051).
+----
 
-`§ 949 ABGB.`  
-Der Undank macht den Undankbaren für seine Person zum unredlichen Besitzer, und gibt selbst dem Erben des Verletzten, in so fern der letztere den Undank nicht verziehen hat, und noch etwas von dem Geschenke in Natur oder Werthe vorhanden ist, ein Recht zur Widerrufungsklage auch gegen den Erben des Verletzers.
+----
+### § 1065 ABGB # Kauf einer gehofften Sache
 
-### § 950 ABGB # 3) Verkürzung des schuldigen Unterhalts;
+`§ 1065 ABGB.`  
+Wenn Sachen, die noch zu erwarten stehen, gekauft werden; so sind die in dem Hauptstücke von gewagten Geschäften gegebenen Anordnungen anzuwenden.
+----
 
-`§ 950 ABGB.`  
-Wer jemanden den Unterhalt zu reichen schuldig ist, kann dessen Recht durch Beschenkung eines Dritten nicht verletzen. Der auf solche Art Verkürzte ist befugt, den Beschenkten um die Ergänzung desjenigen zu belangen, was ihm der Schenkende nun nicht mehr zu leisten vermag. Bey mehrern Geschenknehmern ist die obige (§. 947) Vorschrift anzuwenden.
+----
+### § 1066 ABGB # Allgemeine Vorschrift
 
-### § 953 ABGB # 5) der Gläubiger;
+`§ 1066 ABGB.`  
+In allen bey einem Kaufvertrage vorkommenden Fällen, welche in dem Gesetze nicht ausdrücklich entschieden werden, sind die in den Hauptstücken von Verträgen überhaupt, und von dem Tauschvertrage insbesondere aufgestellten Vorschriften anzuwenden.
+----
 
-`§ 953 ABGB.`  
-Unter eben dieser (§. 952) Beschränkung können auch diejenigen Geschenke zurückgefordert werden, wodurch die zur Zeit der Schenkung schon vorhandenen Gläubiger verkürzt worden sind. Auf Gläubiger, deren Forderungen jünger sind, als die Schenkung, erstreckt sich dieses Recht nur dann, wenn der Beschenkte eines hinterlistigen Einverständnisses überwiesen werden kann.
+----
+### § 1067 ABGB # Besondere Arten oder Nebenverträge eines Kaufvertrages
 
-### § 954 ABGB # 6) wegen nachgeborner Kinder.
+`§ 1067 ABGB.`  
+Besondere Arten oder Nebenverträge eines Kaufvertrages sind: der Vorbehalt des Wiederkaufes, des Rückverkaufes, des Vorkaufes; der Verkauf auf die Probe; der Verkauf mit Vorbehalt eines bessern Käufers; und der Verkaufsauftrag.
+----
 
-`§ 954 ABGB.`  
-Dadurch, daß einem kinderlosen Geschenkgeber nach geschlossenem Schenkungsvertrage Kinder geboren werden, erwächst weder ihm, noch den nachgebornen Kindern das Recht, die Schenkung zu widerrufen. Doch kann er, oder das nachgeborne Kind, im Nothfalle sowohl gegen den Beschenkten, als gegen dessen Erben das oben angeführte Recht auf die gesetzlichen Zinsen des geschenkten Betrages geltend machen (§. 947).
+----
+### § 1068 ABGB # Verkauf mit Vorbehalt des Wiederkaufes
 
-### § 955 ABGB # Welche Schenkungen auf die Erben nicht übergehen.
+`§ 1068 ABGB.`  
+Das Recht eine verkaufte Sache wieder einzulösen, heißt das Recht des Wiederkaufes. Ist dieses Recht dem Verkäufer überhaupt und ohne nähere Bestimmung eingeräumt, so wird von einer Seite das Kaufstück in einem nicht verschlimmerten Zustande; von der andern Seite aber das erlegte Kaufgeld zurück gegeben, und die inzwischen beyderseits aus dem Gelde und der Sache gezogenen Nutzungen bleiben gegen einander aufgehoben.
+----
 
-`§ 955 ABGB.`  
-Hat der Geschenkgeber dem Beschenkten eine Unterstützung in gewissen Fristen zugesichert, so erwächst für die Erben derselben weder ein Recht, noch eine Verbindlichkeit; es müßte denn in dem Schenkungsvertrage ausdrücklich anders bedungen worden seyn.
+----
+### § 1069 ABGB
 
-## Neunzehntes Hauptstück. # Von dem Verwahrungsvertrage.
+`§ 1069 ABGB.`  
+Hat der Käufer das Kaufstück aus dem Seinigen verbessert; oder zu dessen Erhaltung außerordentliche Kosten verwendet, so gebührt ihm gleich einem redlichen Besitzer der Ersatz; er haftet aber auch dafür, wenn durch sein Verschulden der Werth verändert, oder die Zurückgabe vereitelt worden ist.
+----
 
-### § 957 ABGB # Verwahrungsvertrag;
+----
+### § 1070 ABGB
 
-`§ 957 ABGB.`  
-Wenn jemand eine fremde Sache in seine Obsorge übernimmt; so entsteht ein Verwahrungsvertrag. Das angenommene Versprechen, eine fremde, noch nicht übergebene Sache in die Obsorge zu übernehmen, macht zwar den versprechenden Theil verbindlich; es ist aber noch kein Verwahrungsvertrag.
+`§ 1070 ABGB.`  
+Der Vorbehalt des Wiederkaufes findet nur bei unbeweglichen Sachen statt und gebührt dem Verkäufer nur für seine Lebenszeit. Er kann sein Recht weder auf die Erben noch auf einen anderen übertragen. Ist das Recht in die öffentlichen Bücher einverleibt, so kann die Sache auch einem Dritten abgefordert werden und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt.
+----
 
-### § 958 ABGB
+----
+### § 1071 ABGB # Kauf mit Vorbehalt des Rückverkaufes
 
-`§ 958 ABGB.`  
-Durch den Verwahrungsvertrag erwirbt der Uebernehmer weder Eigenthum, noch Besitz, noch Gebrauchsrecht; er ist bloßer Inhaber mit der Pflicht, die ihm anvertraute Sache vor Schaden zu sichern.
+`§ 1071 ABGB.`  
+Den nähmlichen Beschränkungen unterliegt das von dem Käufer ausbedungene Recht, die Sache dem Verkäufer wieder zurück zu verkaufen; und es sind auf dasselbe die für den Wiederkauf ertheilten Vorschriften anzuwenden. Ist aber die Bedingung des Wiederverkaufs oder Wiederkaufs verstellt, und eigentlich um ein Pfandrecht oder ein Borggeschäft zu verbergen, gebraucht worden, so tritt die Vorschrift des §. 916 ein.
+----
 
-### § 959 ABGB # Wann er in einen Darlehens- oder Leihvertrag;
+----
+### § 1072 ABGB # Vorbehalt des Vorkaufsrechtes
 
-`§ 959 ABGB.`  
-Wird dem Verwahrer auf sein Verlangen, oder durch freywilliges Anerbiethen des Hinterlegers der Gebrauch gestattet; so hört im ersten Falle der Vertrag gleich nach der Verwilligung; im zweyten aber von dem Augenblicke, da das Anerbiethen angenommen, oder von der hinterlegten Sache wirklich Gebrauch gemacht worden ist, auf, ein Verwahrungsvertrag zu seyn; er wird bey verbrauchbaren Sachen in einen Darleihens-, bey unverbrauchbaren in einen Leihvertrag umgeändert, und es treten die damit verbundenen Rechte und Pflichten ein.
+`§ 1072 ABGB.`  
+Wer eine Sache mit der Bedingung verkauft, daß der Käufer, wenn er solche wieder verkaufen will, ihm die Einlösung anbiethen soll, der hat das Vorkaufsrecht.
+----
 
-### § 960 ABGB # oder in eine Bevollmächtigung übergehe.
+----
+### § 1073 ABGB
 
-`§ 960 ABGB.`  
-Es können bewegliche und unbewegliche Sachen in Obsorge gegeben werden. Wird aber dem Uebernehmer zugleich ein anderes, auf die anvertraute Sache sich beziehendes, Geschäft aufgetragen; so wird er als ein Gewalthaber angesehen.
+`§ 1073 ABGB.`  
+Das Vorkaufsrecht ist in der Regel ein persönliches Recht. In Rücksicht auf unbewegliche Güter kann es durch Eintragung in die öffentlichen Bücher in ein dingliches verwandelt werden.
+----
 
-### § 961 ABGB # Pflichten und Rechte des Verwahrers;
+----
+### § 1074 ABGB
 
-`§ 961 ABGB.`  
-Die Hauptpflicht des Verwahrers ist: die ihm anvertraute Sache durch die bestimmte Zeit sorgfältig zu bewahren, und nach Verlauf derselben dem Hinterleger in eben dem Zustande, in welchem er sie übernommen hat, und mit allem Zuwachse zurückzustellen.
+`§ 1074 ABGB.`  
+Auch kann das Vorkaufsrecht weder einem Dritten abgetreten, noch auf die Erben des Berechtigten übertragen werden.
+----
 
-### § 962 ABGB
+----
+### § 1075 ABGB
 
-`§ 962 ABGB.`  
-Der Verwahrer muß dem Hinterleger auf Verlangen die Sache auch noch vor Verlauf der Zeit zurückstellen, und kann nur den Ersatz des ihm etwa verursachten Schadens begehren. Er kann hingegen die ihm anvertraute Sache nicht früher zurückgeben; es wäre denn, daß ein unvorhergesehener Umstand ihn außer Stand setzte, die Sache mit Sicherheit oder ohne seinen eigenen Nachtheil zu verwahren.
+`§ 1075 ABGB.`  
+Der Berechtigte muß bewegliche Sachen binnen vier und zwanzig Stunden; unbewegliche aber binnen dreyßig Tagen, nach der geschehenen Anbiethung, wirklich einlösen. Nach Verlauf dieser Zeit ist das Vorkaufsrecht erloschen.
+----
 
-### § 963 ABGB
+----
+### § 1076 ABGB
 
-`§ 963 ABGB.`  
-Ist die Verwahrungszeit weder ausdrücklich bestimmt worden, noch sonst aus Nebenumständen abzunehmen; so kann die Verwahrung nach Belieben aufgekündet werden.
+`§ 1076 ABGB.`  
+Das Vorkaufsrecht hat im Falle einer gerichtlichen Feilbiethung der mit diesem Rechte belasteten Sachen keine andere Wirkung, als daß der den öffentlichen Büchern einverleibte Berechtigte zur Feilbiethung insbesondere vorgeladen werden muß.
+----
 
-### § 964 ABGB
+----
+### § 1077 ABGB
 
-`§ 964 ABGB.`  
-Der Verwahrer haftet dem Hinterleger für den aus der Unterlassung der pflichtmäßigen Obsorge verursachten Schaden, aber nicht für den Zufall; selbst dann nicht, wenn er die anvertraute, obschon kostbarere Sache, mit Aufopferung seiner eigenen hätte retten können.
+`§ 1077 ABGB.`  
+Der zur Einlösung Berechtigte, muß außer dem Falle einer andern Verabredung, den vollständigen Preis, welcher von einem Dritten angebothen worden ist, entrichten. Kann er die außer dem gewöhnlichen Kaufpreise angebothenen Nebenbedingungen nicht erfüllen, und lassen sie sich auch durch einen Schätzungswerth nicht ausgleichen; so kann das Vorkaufsrecht nicht ausgeübt werden.
+----
 
-### § 965 ABGB
+----
+### § 1078 ABGB
 
-`§ 965 ABGB.`  
-Hat aber der Verwahrer von der hinterlegten Sache Gebrauch gemacht; hat er sie ohne Noth und ohne Erlaubniß des Hinterlegers einem Dritten in Verwahrung gegeben; oder die Zurückstellung verzögert, und die Sache leidet einen Schaden, welchem sie bey dem Hinterleger nicht ausgesetzt gewesen wäre; so kann er keinen Zufall vorschützen, und die Beschädigung wird ihm zugerechnet.
+`§ 1078 ABGB.`  
+Das Vorkaufsrecht läßt sich auf andere Veräußerungsarten ohne eine besondere Verabredung nicht ausdehnen.
+----
 
-### § 966 ABGB
+----
+### § 1079 ABGB
 
-`§ 966 ABGB.`  
-Wenn Sachen verschlossen oder versiegelt hinterlegt, und in der Folge das Schloß oder Siegel verletzt worden; so ist der Hinterleger, wenn er einen Abgang behauptet, zur Beschwörung seines Schadens, in so fern derselbe nach seinem Stande, Gewerbe, Vermögen und den übrigen Umständen wahrscheinlich ist, nach Vorschrift der Gerichtsordnung zuzulassen; es wäre denn, daß der Verwahrer beweisen könnte, daß die Verletzung des Schlosses oder Siegels ohne sein Verschulden geschehen sey. Das Nähmliche hat auch dann zu gelten, wenn sämmtliche auf solche Art hinterlegte Sachen in Verlust gerathen sind.
+`§ 1079 ABGB.`  
+Hat der Besitzer dem Berechtigten die Einlösung nicht angebothen, so muß er ihm für allen Schaden haften. Im Falle eines dinglichen Vorkaufsrechtes kann die veräußerte Sache dem Dritten abgefordert werden, und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt.
+----
 
-### § 967 ABGB # und des Hinterlegers.
+----
+### § 1080 ABGB # Kauf auf die Probe
 
-`§ 967 ABGB.`  
-Der Hinterleger ist verpflichtet, dem Verwahrer den schuldbarer Weise zugefügten Schaden, und die zur Erhaltung der verwahrten Sache, oder zur Vermehrung der fortdauernden Nutzungen verwendeten Kosten zu ersetzen. Hat der Verwahrer im Nothfalle, um das hinterlegte Gut zu retten, seine eigenen Sachen aufgeopfert; so kann er einen angemessenen Ersatz fordern. Die wechselseitigen Forderungen des Verwahres und Hinterlegers einer beweglichen Sache können aber nur binnen dreyßig Tagen von Zeit der Zurückstellung angebracht werden.
+`§ 1080 ABGB.`  
+Der Kauf auf Probe ist unter der im Belieben des Käufers stehenden Bedingung geschlossen, daß er die Ware genehmige. Die Bedingung ist im Zweifel eine aufschiebende; der Käufer ist vor der Genehmigung an den Kauf nicht gebunden, der Verkäufer hört auf, gebunden zu sein, wenn der Käufer bis zum Ablaufe der Probezeit nicht genehmigt.
+----
 
-### § 968 ABGB # Sequester.
+----
+### § 1081 ABGB
 
-`§ 968 ABGB.`  
-Wird eine in Anspruch genommene Sache von den streitenden Parteyen oder vom Gerichte jemanden in Verwahrung gegeben; so heißt der Verwahrer, Sequester. Die Rechte und Verbindlichkeiten des Sequesters werden nach den hier festgesetzten Grundsätzen beurtheilt.
+`§ 1081 ABGB.`  
+Ist die Sache zum Zwecke der Besichtigung oder Probe bereits übergeben, so gilt Stillschweigen des Käufers bis nach Ablauf der Probezeit als Genehmigung.
+----
 
-### § 969 ABGB # Ob dem Verwahrer ein Lohn gebühre.
+----
+### § 1082 ABGB
 
-`§ 969 ABGB.`  
-Ein Lohn kann für die Aufbewahrung nur dann gefordert werden, wenn er ausdrücklich, oder nach dem Stande des Aufbewahrers stillschweigend bedungen worden ist.
+`§ 1082 ABGB.`  
+Ist bei einem Kauf auf Probe keine Probezeit vereinbart worden, so kann der Verkäufer dem Käufer eine angemessene Frist als Probezeit setzen.
+----
 
-### § 970 ABGB # Gastaufnahme
+----
+### § 1083 ABGB # Verkauf mit Vorbehalt eines besseren Käufers
 
-`§ 970 (1) ABGB.`  
-Gastwirte, die Fremde beherbergen, haften als Verwahrer für die von den aufgenommenen Gästen eingebrachten Sachen, sofern sie nicht beweisen, daß der Schaden weder durch sie oder einen ihrer Leute verschuldet noch durch fremde, in dem Hause aus- und eingehende Personen verursacht ist. Hat bei der Entstehung des Schadens ein Verschulden des Beschädigten mitgewirkt, so hat der Richter nach den Umständen zu entscheiden, ob und in welcher Höhe ein Ersatz gebührt.
+`§ 1083 ABGB.`  
+Wird das Kaufgeschäft mit dem Vorbehalte verabredet, daß der Verkäufer, wenn sich binnen einer bestimmten Zeit ein besserer Käufer meldet, denselben vorzuziehen befugt sey; so bleibt in dem Falle, daß das Kaufstück nicht übergeben worden, die Wirklichkeit des Vertrages bis zum Eintritte der Bedingung aufgeschoben.
+----
 
-`§ 970 (2) ABGB.`  
-Als eingebracht gelten die Sachen, die dem Wirte oder einem seiner Leute übergeben oder an einen von diesen angewiesenen oder hierzu bestimmten Orte gebracht sind. Ebenso haften Unternehmer, die Stallungen und Aufbewahrungsräume halten, für die bei ihnen eingestellten Tiere und Fahrzeuge und die auf diesen befindlichen Sachen.
+----
+### § 1084 ABGB
 
-`§ 970 (3) ABGB.`  
-Den Wirten werden gleichgehalten die Besitzer von Badeanstalten in Rücksicht auf die üblicherweise eingebrachten Sachen der Badegäste.
+`§ 1084 ABGB.`  
+Ist das Kaufstück übergeben worden, so ist der Kaufvertrag abgeschlossen; er wird aber durch den Eintritt der Bedingung wieder aufgelöset. Bey dem Mangel einer ausdrücklichen Zeitbestimmung wird der bey dem Kaufe auf die Probe angenommene Zeitraum vermuthet.
+----
 
-### § 970a ABGB
+----
+### § 1085 ABGB
 
-`§ 970a ABGB.`  
-Ablehnung der Haftung durch Anschlag ist ohne rechtliche Wirkung. Für Kostbarkeiten, Geld und Wertpapiere haftet der Gastwirt nur bis zum Betrage von 550 Euro, es sei denn, daß er diese Sachen in Kenntnis ihrer Beschaffenheit zur Aufbewahrung übernommen hat oder daß der Schaden von ihm selbst oder seinen Leuten verschuldet ist.
+`§ 1085 ABGB.`  
+Ob der neue Käufer besser sey, beurtheilet der Verkäufer. Er kann den zweyten Käufer, wenn der erste auch noch mehr zahlen wollte, vorziehen. Bey der Auflösung des Vertrages heben sich die Nutzungen der Sache und des Geldes gegen einander auf. In Rücksicht der Verbesserungen oder Verschlimmerungen wird der Käufer gleich einem redlichen Besitzer behandelt.
+----
 
-### § 970b ABGB
+----
+### § 1086 ABGB # Verkaufsauftrag
 
-`§ 970b ABGB.`  
-Der Ersatzanspruch aus der Gastaufnahme erlischt, wenn der Beschädigte nach erlangter Kenntnis von dem Schaden nicht ohne Verzug dem Wirte die Anzeige macht. Dies gilt jedoch nicht, wenn die Sachen vom Wirte zur Aufbewahrung übernommen waren.
+`§ 1086 ABGB.`  
+Wenn jemand seine bewegliche Sache einem Andern für einen gewissen Preis zum Verkaufe übergibt, mit der Bedingung, daß ihm der Uebernehmer binnen einer festgesetzten Zeit entweder das bestimmte Kaufgeld liefern oder die Sache zurückstellen soll; so ist der Uebergeber vor Verlauf der Zeit die Sache zurück zu fordern nicht berechtiget; der Uebernehmer aber muß nach deren Ablauf das bestimmte Kaufgeld entrichten.
+----
 
-### § 970c ABGB
+----
+### § 1087 ABGB
 
-`§ 970c ABGB.`  
-Den im § 970 bezeichneten Personen steht das Recht zu, zur Sicherung ihrer Forderungen aus der Beherbergung und Verpflegung sowie ihrer Auslagen für die Gäste die eingebrachten Sachen zurückzuhalten.
+`§ 1087 ABGB.`  
+Während der festgesetzten Zeit bleibt der Uebergeber Eigenthümer, der Uebernehmer haftet ihm für den durch sein Verschulden verursachten Schaden, und es werden ihm bey Zurückstellung der Sache nur solche Kosten vergütet, die dem Uebergeber zum Nutzen gereichen.
+----
 
-## Zwanzigstes Hauptstück. # Von dem Leihvertrage.
+----
+### § 1088 ABGB
 
-### § 971 ABGB # c) Leihvertrag.
+`§ 1088 ABGB.`  
+Ist die Sache unbeweglich; oder ist der Preis, oder die Zahlungsfrist nicht bestimmt; so wird der Uebernehmer wie ein Gewalthaber angesehen. In keinem Falle kann die zum Verkaufe anvertraute Sache dem Dritten, welcher sie von dem Uebernehmer redlicher Weise an sich gebracht hat, abgefordert werden (§. 367).
+----
 
-`§ 971 ABGB.`  
-Wenn jemanden eine unverbrauchbare Sache bloß zum unentgeldlichen Gebrauche auf eine bestimmte Zeit übergeben wird; so entsteht ein Leihvertrag. Der Vertrag, wodurch man jemanden eine Sache zu leihen verspricht, ohne sie zu übergeben, ist zwar verbindlich, aber noch kein Leihvertrag.
+----
+### § 1089 ABGB
 
-## Rechte und Pflichten des Entlehners.
+`§ 1089 ABGB.`  
+Auch bey gerichtlichen Verkäufen finden die über Verträge, und den Tausch- und Kaufvertrag insbesondere aufgestellten Vorschriften in der Regel Statt; in so fern nicht in diesem Gesetze, oder in der Gerichtsordnung eigene Anordnungen enthalten sind.
+----
 
-### § 972 ABGB # 1) in Rücksicht des Gebrauches;
+----
+## Fünf u. zwanzigstes Hauptstück. # Von Bestand- Erbpacht- und Erbzins-Verträgen.
 
-`§ 972 ABGB.`  
-Der Entlehner erwirbt das Recht, den ordentlichen oder näher bestimmten Gebrauch von der Sache zu machen. Nach Verlauf der Zeit ist er verpflichtet, eben dieselbe Sache zurückzustellen.
+### § 1090 ABGB # Bestandvertrag
 
-### § 973 ABGB # 2) der Zurückstellung;
+`§ 1090 ABGB.`  
+Der Vertrag, wodurch jemand den Gebrauch einer unverbrauchbaren Sache auf eine gewisse Zeit und gegen einen bestimmten Preis erhält, heißt überhaupt Bestandvertrag.
+----
 
-`§ 973 ABGB.`  
-Wenn keine Zeit zur Zurückgabe festgesetzt, wohl aber die Absicht des Gebrauches bestimmt worden ist; so ist der Entlehner verbunden, mit dem Gebrauche nicht zu zögern, und die Sache so bald als möglich zurück zu geben.
+----
+### § 1091 ABGB # I) Mieth- und Pachtvertrag
 
-### § 974 ABGB
+`§ 1091 ABGB.`  
+Der Bestandvertrag wird, wenn sich die in Bestand gegebene Sache ohne weitere Bearbeitung gebrauchen läßt, ein Miethvertrag; wenn sie aber nur durch Fleiß und Mühe benützt werden kann, ein Pachtvertrag genannt. Werden durch einen Vertrag Sachen von der ersten und zweyten Art zugleich in Bestand gegeben; so ist der Vertrag nach der Beschaffenheit der Hauptsache zu beurtheilen.
+----
 
-`§ 974 ABGB.`  
-Hat man weder die Dauer, noch die Absicht des Gebrauches bestimmt; so entsteht kein wahrer Vertrag, sondern ein unverbindliches Bittleihen (Precarium), und der Verleiher kann die entlehnte Sache nach Willkühr zurückfordern.
+----
+### § 1092 ABGB # Erfordernisse
 
-### § 975 ABGB
+`§ 1092 ABGB.`  
+Mieth- und Pachtverträge können über die nähmlichen Gegenstände und auf die nähmliche Art, als der Kaufvertrag geschlossen werden. Der Mieth- und Pachtzins wird, wenn keine andere Uebereinkunft getroffen worden ist, wie das Kaufgeld entrichtet.
+----
 
-`§ 975 ABGB.`  
-Bey einem Streite über die Dauer des Gebrauches muß der Entlehner das Recht auf den längern Gebrauch beweisen.
+----
+### § 1093 ABGB
 
-### § 976 ABGB
+`§ 1093 ABGB.`  
+Der Eigenthümer kann sowohl seine beweglichen und unbeweglichen Sachen, als seine Rechte in Bestand geben; er kann aber auch in den Fall kommen, den Gebrauch seiner eigenen Sache, wenn er einem Dritten gebührt, in Bestand zu nehmen.
+----
 
-`§ 976 ABGB.`  
-Wenn gleich die verlehnte Sache vor Verlauf der Zeit und vor geendigtem Gebrauche dem Verleiher selbst unentbehrlich wird; so hat er ohne ausdrückliche Verabredung doch kein Recht, die Sache früher zurück zu nehmen.
+----
+### § 1094 ABGB # Wirkung
 
-### § 977 ABGB
+`§ 1094 ABGB.`  
+Sind die vertragschließenden Theile über das Wesentliche des Bestandes, nähmlich über die Sache und den Preis, übereingekommen; so ist der Vertrag vollkommen abgeschlossen, und der Gebrauch der Sache für gekauft anzusehen.
+----
 
-`§ 977 ABGB.`  
-Der Entlehner ist zwar in der Regel berechtiget, die entlehnte Sache auch vor der bestimmten Zeit zurück zu geben: fällt aber die frühere Zurückgabe dem Verleiher beschwerlich; so kann sie wider seinen Willen nicht Statt finden.
+----
+### § 1095 ABGB
 
-### § 978 ABGB # 3) der Beschädigung;
+`§ 1095 ABGB.`  
+Wenn ein Bestandvertrag in die öffentlichen Bücher eingetragen ist; so ist das Recht des Bestandnehmers als ein dingliches Recht zu betrachten, welches sich auch der nachfolgende Besitzer auf die noch übrige Zeit gefallen lassen muß.
+----
 
-`§ 978 ABGB.`  
-Wenn der Entlehner die geliehene Sache anders gebraucht, als es bedungen war, oder den Gebrauch derselben eigenmächtig einem Dritten gestattet; so ist er dem Verleiher verantwortlich; und dieser auch berechtiget, die Sache sogleich zurück zu fordern.
+----
+## Wechselseitige Rechte:
 
-### § 979 ABGB
+### § 1096 ABGB # 1) In Hinsicht auf Ueberlassung; Erhaltung; Benützung
 
-`§ 979 ABGB.`  
-Wird die geliehene Sache beschädiget, oder zu Grunde gerichtet; so muß der Entlehner nicht nur den zunächst durch sein Verschulden verursachten, sondern auch den zufälligen Schaden, den er durch eine widerrechtliche Handlung veranlaßt hat, so wie der Verwahrer einer Sache ersetzen (§. 965).
+`§ 1096 (1) ABGB.`  
+Vermieter und Verpächter sind verpflichtet, das Bestandstück auf eigene Kosten in brauchbarem Stande zu übergeben und zu erhalten und die Bestandinhaber in dem bedungenen Gebrauche oder Genusse nicht zu stören. Ist das Bestandstück bei der Übergabe derart mangelhaft oder wird es während der Bestandzeit ohne Schuld des Bestandnehmers derart mangelhaft, daß es zu dem bedungenen Gebrauche nicht taugt, so ist der Bestandnehmer für die Dauer und in dem Maße der Unbrauchbarkeit von der Entrichtung des Zinses befreit. Auf diese Befreiung kann bei der Miete unbeweglicher Sachen im voraus nicht verzichtet werden.
 
-### § 980 ABGB
+`§ 1096 (2) ABGB.`  
+Der Pächter hat die gewöhnlichen Ausbesserungen der Wirtschaftsgebäude nur insoweit selbst zu tragen, als sie mit den Materialien des Gutes und den Diensten, die er nach der Beschaffenheit des Gutes zu fordern berechtigt ist, bestritten werden können.
+----
 
-`§ 980 ABGB.`  
-Dadurch, daß der Entlehner für ein verlornes Lehnstück den Werth erlegt, hat er noch kein Recht, dasselbe, wenn es wieder gefunden wird, gegen den Willen des Eigenthümers für sich zu behalten, wenn dieser bereit ist, den empfangenen Werth zurück zu geben.
+----
+### § 1097 ABGB
 
-### § 981 ABGB # 4) der Erhaltungskosten.
+`§ 1097 ABGB.`  
+Werden Ausbesserungen nötig, welche dem Bestandgeber obliegen, so ist der Bestandnehmer bei sonstigem Schadenersatz verpflichtet, dem Bestandgeber ohne Verzug Anzeige zu machen. Der Bestandnehmer wird als ein Geschäftsführer ohne Auftrag betrachtet, wenn er auf das Bestandstück einen dem Bestandgeber obliegenden Aufwand (§ 1036) oder einen nützlichen Aufwand (§ 1037) gemacht hat; er muß aber den Ersatz längstens binnen sechs Monaten nach Zurückstellung des Bestandstückes gerichtlich fordern, sonst ist die Klage erloschen.
+----
 
-`§ 981 ABGB.`  
-Die mit dem Gebrauche ordentlicher Weise verbundenen Kosten muß der Entlehner selbst bestreiten. Die außerordentlichen Erhaltungskosten hat er zwar, dafern er die Sache dem Verleiher nicht zur eigenen Besorgung überlassen kann oder will, inzwischen vorzuschießen; doch werden sie ihm gleich einem redlichen Besitzer vergütet.
+----
+### § 1098 ABGB
 
-### § 982 ABGB # Beschränkung der wechselseitigen Klagen.
+`§ 1098 ABGB.`  
+Mieter und Pächter sind berechtiget, die Miet- und Pachtstücke dem Vertrage gemäß durch die bestimmte Zeit zu gebrauchen und zu benützen, oder auch in Afterbestand zu geben, wenn es ohne Nachteil des Eigentümers geschehen kann und im Vertrage nicht ausdrücklich untersagt worden ist.
+----
 
-`§ 982 ABGB.`  
-Wenn der Verleiher nach der Zurücknahme des Lehnstückes dessen Mißbrauch, oder übertriebene Abnutzung innerhalb dreyßig Tagen nicht gerüget; oder, wenn der Entlehner nach der Zurückgabe von den auf die Sache verwendeten außerordentlichen Kosten binnen eben diesem Zeitraume keine Meldung gemacht hat; so ist die Klage erloschen.
+----
+### § 1099 ABGB # 2) Lasten;
 
-## Ein u. zwanzigstes Hauptstück. # Von dem Darleihensvertrage.
+`§ 1099 ABGB.`  
+Bey Vermiethungen trägt alle Lasten und Abgaben der Vermiether. Bey eigentlichen Pachtungen, wenn sie in Pausch und Bogen geschehen, übernimmt der Pächter mit Ausschluß der eingetragenen Hypothecar-Lasten, alle übrige; wird aber die Pachtung nach einem Anschlage geschlossen, so trägt er jene Lasten, welche von dem Ertrage abgezogen worden sind, oder bloß von den Früchten, und nicht von dem Grunde selbst entrichtet werden müssen.
+----
 
-### § 983 ABGB # Darlehensvertrag
+----
+### § 1100 ABGB # 3) Zins
 
-`§ 983 ABGB.`  
-Im Darlehensvertrag verpflichtet sich der Darlehensgeber, dem Darlehensnehmer vertretbare Sachen mit der Bestimmung zu übergeben, dass der Darlehensnehmer über die Sachen nach seinem Belieben verfügen kann. Der Darlehensnehmer ist verpflichtet, dem Darlehensgeber spätestens nach Vertragsende ebenso viele Sachen derselben Gattung und Güte zurückzugeben.
+`§ 1100 ABGB.`  
+Ist nichts anderes vereinbart oder ortsüblich, so ist der Zins, wenn eine Sache auf ein oder mehrere Jahre in Bestand genommen wird, halbjährlich, bei einer kürzeren Bestandzeit hingegen nach Verlauf derselben zu entrichten. Bei der Raummiete ist der Zins monatlich, und zwar jeweils am Fünften des Monats, zu entrichten.
+----
 
-### § 984 ABGB # Arten des Darlehensvertrags
+----
+### § 1101 ABGB
 
-`§ 984 (1) ABGB.`  
-Gegenstand eines Darlehensvertrags können Geld oder andere vertretbare Sachen sein. Ein Darlehen kann entweder unentgeltlich oder gegen Entgelt gewährt werden. Wenn die Parteien nichts über ein Entgelt vereinbaren, gilt der Darlehensvertrag im Zweifel als entgeltlich.
+`§ 1101 (1) ABGB.`  
+Zur Sicherstellung des Bestandzinses hat der Vermieter einer unbeweglichen Sache das Pfandrecht an den eingebrachten, dem Mieter oder seinen mit ihm in gemeinschaftlichem Haushalte lebenden Familienmitgliedern gehörigen Einrichtungsstücken und Fahrnissen, soweit sie nicht der Pfändung entzogen sind. Das Pfandrecht erlischt, wenn die Gegenstände vor ihrer pfandweisen Beschreibung entfernt werden, es sei denn, daß dies infolge einer gerichtlichen Verfügung geschieht und der Vermieter binnen drei Tagen nach dem Vollzuge sein Recht bei Gericht anmeldet.
 
-`§ 984 (2) ABGB.`  
-Ein unentgeltlicher Darlehensvertrag ohne Übergabe der Sachen ist nur wirksam, wenn der Darlehensgeber seine Vertragserklärung schriftlich abgibt.
+`§ 1101 (2) ABGB.`  
+Zieht der Mieter aus oder werden Sachen verschleppt, ohne daß der Zins entrichtet oder sichergestellt ist, so kann der Vermieter die Sachen auf eigene Gefahr zurückbehalten, doch muß er binnen drei Tagen um die pfandweise Beschreibung ansuchen oder die Sachen herausgeben.
 
-### § 985 ABGB # Steigerung und Minderung des Werts
+`§ 1101 (3) ABGB.`  
+Dem Verpächter eines Grundstückes steht in gleichem Umfange und mit gleicher Wirkung das Pfandrecht an dem auf dem Pachtgute vorhandenen Vieh und den Wirtschaftsgerätschaften und den darauf noch befindlichen Früchten zu.
+----
 
-`§ 985 ABGB.`  
-Der Darlehensnehmer hat, sofern nichts anderes vereinbart ist, bei der Rückgabe der Sachen einen in der Zwischenzeit eingetretenen Wertverlust nicht auszugleichen. Gleichermaßen kann er sich auch nicht auf eine Wertsteigerung zur Minderung seiner Rückgabepflicht berufen.
+----
+### § 1102 ABGB
 
-### § 986 ABGB # Dauer und Auflösung des Darlehensvertrags
+`§ 1102 ABGB.`  
+Der Bestandgeber kann sich zwar die Vorausbezahlung des Bestandzinses bedingen. Hat aber der Bestandnehmer mehr als eine Fristzahlung voraus geleistet, so kann er dieselbe einem später eingetragenen Gläubiger oder neuen Eigentümer nur dann entgegensetzen, wenn sie in dem öffentlichen Buch ersichtlich gemacht ist.
+----
 
-`§ 986 (1) ABGB.`  
-Der Darlehensvertrag kann auf eine im Voraus bestimmte oder auf unbestimmte Zeit geschlossen werden.
+----
+### § 1103 ABGB # Zins in Früchten
 
-`§ 986 (2) ABGB.`  
-Ein auf unbestimmte Zeit geschlossener Darlehensvertrag kann von jedem Vertragsteil unter Einhaltung einer einmonatigen Kündigungsfrist gekündigt werden.
+`§ 1103 ABGB.`  
+Wenn der Eigenthümer sein Gut mit der Bedingung überläßt, daß der Uebernehmer die Wirthschaft betreiben, und dem Uebergeber einen auf die ganze Nutzung sich beziehenden Theil, z. B. ein Drittheil oder die Hälfte der Früchte geben solle; so entsteht kein Pacht-, sondern ein Gesellschaftsvertrag, welcher nach den darüber aufgestellten Regeln beurtheilet wird.
+----
 
-`§ 986 (3) ABGB.`  
-Ein auf bestimmte Zeit geschlossener Darlehensvertrag endet durch Zeitablauf.
+----
+### § 1104 ABGB # Fälle und Bedingungen einer Erlassung des Zinses
 
-### § 987 ABGB # Außerordentliche Kündigung des Darlehensvertrags
+`§ 1104 ABGB.`  
+Wenn die in Bestand genommene Sache wegen außerordentlicher Zufälle, als Feuer, Krieg oder Seuche, großer Überschwemmungen, Wetterschläge, oder wegen gänzlichen Mißwachses gar nicht gebraucht oder benutzt werden kann, so ist der Bestandgeber zur Wiederherstellung nicht verpflichtet, doch ist auch kein Miet- oder Pachtzins zu entrichten.
+----
 
-`§ 987 ABGB.`  
-Jeder Vertragsteil kann den Darlehensvertrag jederzeit ohne Einhaltung einer Kündigungsfrist kündigen, wenn ihm die Aufrechterhaltung des Vertrags aus wichtigen Gründen unzumutbar ist.
+----
+### § 1105 ABGB
 
-### § 988 ABGB # Kreditvertrag
+`§ 1105 ABGB.`  
+Behält der Mieter trotz eines solchen Zufalls einen beschränkten Gebrauch des Mietstückes, so wird ihm auch ein verhältnismäßiger Teil des Mietzinses erlassen. Dem Pächter gebührt ein Erlaß an dem Pachtzinse, wenn durch außerordentliche Zufälle die Nutzungen des nur auf ein Jahr gepachteten Gutes um mehr als die Hälfte des gewöhnlichen Ertrages gefallen sind. Der Verpächter ist so viel zu erlassen schuldig, als durch diesen Abfall an dem Pachtzinse mangelt.
+----
 
-`§ 988 ABGB.`  
-Der entgeltliche Darlehensvertrag über Geld heißt Kreditvertrag; dazu zählt auch ein Vertrag, mit dem ein Geldbetrag zum Abruf zur Verfügung gestellt wird. Die Parteien dieses Vertrags heißen Kreditgeber und Kreditnehmer. Das Entgelt besteht in der Regel in den vom Kreditnehmer zu zahlenden Zinsen; für diese gilt § 1000 Abs. 1.
+----
+### § 1106 ABGB
 
-### § 989 ABGB # Befristung und Ende des Kreditvertrags
+`§ 1106 ABGB.`  
+Hat der Bestandnehmer unbestimmt alle Gefahren auf sich genommen; so werden darunter nur die Feuer-, und Wasserschäden und Wetterschläge verstanden. Andere außerordentliche Unglücksfälle kommen nicht auf seine Gefahr. Verbindet er sich aber ausdrücklich, auch alle andere außerordentliche Unglücksfälle zu tragen; so wird deßwegen noch nicht vermuthet, daß er auch für den zufälligen Untergang des ganzen Pachtstückes haften wolle.
+----
 
-`§ 989 (1) ABGB.`  
-Beim Kreditvertrag kann sich eine bestimmte Vertragsdauer nicht bloß aus der datumsmäßigen Festlegung eines Endtermins ergeben, sondern auch aus den Vereinbarungen über den Kreditbetrag sowie über die Art der Rückzahlung des Kredits und die zu leistenden Zinsen.
+----
+### § 1107 ABGB
 
-`§ 989 (2) ABGB.`  
-Nach Ende des Kreditvertrags hat der Kreditnehmer den Kreditbetrag samt den noch zu leistenden Zinsen zurückzuzahlen.
+`§ 1107 ABGB.`  
+Wird der Gebrauch oder Genuß des Bestandstückes nicht wegen dessen Beschädigung oder sonst entstandener Unbrauchbarkeit, sondern aus einem dem Bestandnehmer zugestoßenen Hindernisse oder Unglücksfalle vereitelt, oder waren zur Zeit der Beschädigung die Früchte von dem Grunde schon abgesondert, so fällt die widrige Ereignung dem Bestandnehmer allein zur Last. Er muß den Zins doch entrichten. Der Bestandgeber muß sich aber den ersparten Aufwand und die Vorteile, die er durch anderweitige Verwertung des Bestandstückes erlangt, anrechnen.
+----
 
-### § 990 ABGB # Unwirksame Vereinbarungen über das Kündigungsrecht des Kreditgebers
+----
+### § 1108 ABGB
 
-`§ 990 ABGB.`  
-Vereinbarungen, durch die dem Kreditgeber ein nicht an sachlich gerechtfertigte Gründe geknüpftes Recht zur vorzeitigen Kündigung eines auf bestimmte Zeit geschlossenen und seinerseits schon erfüllten Kreditvertrags eingeräumt wird, sind nicht wirksam.
+`§ 1108 ABGB.`  
+Behauptet der Pächter den Erlaß des ganzen Pachtzinses oder eines Theiles davon entweder aus dem Vertrage oder aus dem Gesetze; so muß er dem Verpächter ohne Zeitverlust den geschehenen Unglücksfall anzeigen, und die Begebenheit, wenn sie nicht landkündig ist, gerichtlich, oder wenigstens durch zwey sachkündige Männer erheben lassen; ohne diese Vorsicht wird er nicht angehört.
+----
 
-### § 991 ABGB # Verweigerung der Kreditauszahlung
+----
+### § 1109 ABGB # 4) Zurückstellung;
 
-`§ 991 ABGB.`  
-Der Kreditgeber kann die Auszahlung des Kreditbetrags verweigern, wenn sich nach Vertragsabschluss Umstände ergeben, die eine Verschlechterung der Vermögenslage des Kreditnehmers oder eine Entwertung bedungener Sicherheiten in einem solchen Ausmaß erweisen, dass die Rückzahlung des Kredits oder die Entrichtung der Zinsen selbst bei Verwertung der Sicherheiten gefährdet sind.
+`§ 1109 ABGB.`  
+Nach geendigtem Bestandvertrage muß der Bestandnehmer die Sache dem etwa errichteten Inventarium gemäß oder doch in dem Zustand, in welchem er sie übernommen hat, gepachtete Grundstücke aber mit Rücksicht auf die Jahreszeit, in welcher der Pacht geendigt worden ist, in gewöhnlicher wirtschaftlicher Kultur zurückstellen. Weder ein Zurückbehaltungsrecht oder die Einwendung der Kompensation noch selbst des früheren Eigentumsrechtes kann ihn vor der Zurückstellung schützen.
+----
 
-### § 1000 ABGB # Zinsen und Zinseszinsen
+----
+### § 1110 ABGB
 
-`§ 1000 (1) ABGB.`  
-An Zinsen, die ohne Bestimmung der Höhe vereinbart worden sind oder aus dem Gesetz gebühren, sind, sofern gesetzlich nicht anderes bestimmt ist, vier vom Hundert auf ein Jahr zu entrichten.
+`§ 1110 ABGB.`  
+Wenn bey dem Bestandvertrage kein Inventarium errichtet worden ist; so tritt die nähmliche Vermuthung, wie bey der Fruchtnießung (§. 518) ein.
+----
 
-`§ 1000 (2) ABGB.`  
-Der Gläubiger einer Geldforderung kann Zinsen von Zinsen verlangen, wenn die Parteien dies ausdrücklich vereinbart haben. Sonst kann er, sofern fällige Zinsen eingeklagt werden, Zinseszinsen vom Tag der Streitanhängigkeit an fordern. Wurde über die Höhe der Zinseszinsen keine Vereinbarung getroffen, so sind ebenfalls vier vom Hundert auf ein Jahr zu entrichten.
+----
+### § 1111 ABGB
 
-`§ 1000 (3) ABGB.`  
-Haben die Parteien über die Frist zur Zahlung der Zinsen keine Vereinbarung getroffen, so sind diese bei der Zurückzahlung des Kapitals oder, sofern der Vertrag auf mehrere Jahre abgeschlossen worden ist, jährlich zu zahlen.
+`§ 1111 ABGB.`  
+Wird das Mieth- oder Pachtstück beschädiget, oder durch Mißbrauch abgenützt; so haften Miether und Pächter sowohl für ihr eigenes, als des Afterbestandnehmers Verschulden, nicht aber für den Zufall. Doch muß der Bestandgeber den Ersatz aus dieser Haftung längstens binnen Einem Jahre nach Zurückstellung des Bestandstückes gerichtlich fordern; sonst ist das Recht erloschen.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.020](BG.ABGB.020.md))*
+----
+## 5) Auflösung des Bestandvertrages:
+
+### § 1112 ABGB # a) durch Untergang der Sache;
+
+`§ 1112 ABGB.`  
+Der Bestandvertrag löset sich von selbst auf, wenn die bestandene Sache zu Grunde geht. Geschieht dies aus Verschulden des einen Theiles, so gebührt dem andern Ersatz; geschieht es durch einen Unglücksfall, so ist kein Theil dem andern dafür verantwortlich.
+----
+
+----
+### § 1113 ABGB # b) Verlauf der Zeit;
+
+`§ 1113 ABGB.`  
+Der Bestandvertrag erlischt auch durch den Verlauf der Zeit, welcher ausdrücklich oder stillschweigend, entweder durch den nach einem gewissen Zeitraume ausgemessenen Zins, wie bey so genannten Tag- Wochen- und Monathzimmern, oder durch die erklärte, oder aus den Umständen hervorleuchtende Absicht des Bestandnehmers bedungen worden ist.
+----
+
+----
+### § 1114 ABGB # Wenn keine Erneuerung geschieht;
+
+`§ 1114 ABGB.`  
+Der Bestandvertrag kann aber nicht nur ausdrücklich; sondern auch stillschweigend erneuert werden. Ist in dem Vertrage eine vorläufige Aufkündigung bedungen worden; so wird der Vertrag durch die Unterlassung der gehörigen Aufkündigung stillschweigend erneuert. Ist keine Aufkündigung bedungen worden; so geschieht eine stillschweigende Erneuerung, wenn der Bestandnehmer nach Verlauf der Bestandzeit fortfährt, die Sache zu gebrauchen oder zu benützen, und der Bestandgeber es dabey bewenden läßt.
+----
+
+----
+### § 1115 ABGB
+
+`§ 1115 ABGB.`  
+Die stillschweigende Erneuerung des Bestandvertrages geschieht unter den nähmlichen Bedingungen, unter welchen er vorher geschlossen war. Doch erstreckt sie sich bey Pachtungen nur auf Ein Jahr; wenn aber der ordentliche Genuß erst in einem späteren Zeitraume erfolgen kann, auf eine so lange Zeit, als nothwendig ist, um die Nutzungen einmahl beziehen zu können. Miethungen, wofür man den Zins erst nach einem ganzen oder halben Jahre zu bezahlen pflegt, werden auf ein halbes Jahr; alle kürzere Miethungen aber auf diejenige Zeit stillschweigend erneuert, welche vorher durch den Bestandvertrag bestimmt war. Von wiederhohlten Erneuerungen gilt das Nähmliche, was hier in Rücksicht der ersten Erneuerung vorgeschrieben ist.
+----
+
+----
+### § 1116 ABGB # c) Aufkündigung;
+
+`§ 1116 ABGB.`  
+In so fern die Dauer eines Bestandvertrages weder ausdrücklich, noch stillschweigend, noch durch besondere Vorschriften bestimmt ist, muß derjenige, welcher den Vertrag aufheben will, dem Andern die Pachtung sechs Monathe; die Miethung einer unbeweglichen Sache vierzehn Tage; und einer beweglichen vier und zwanzig Stunden vorher aufkündigen, als die Abtretung erfolgen soll.
+----
+
+----
+### § 1116a ABGB
+
+`§ 1116a ABGB.`  
+Durch den Tod eines der vertragschließenden Teile wird der Bestandvertrag nicht aufgehoben. Wohnungsmieten können jedoch, wenn der Mieter stirbt, ohne Rücksicht auf die vereinbarte Dauer sowohl von den Erben des Mieters wie von dem Vermieter unter Einhaltung der gesetzlichen Kündigungsfrist gelöst werden.
+----
+
+----
+### § 1117 ABGB
+
+`§ 1117 ABGB.`  
+Der Bestandnehmer ist berechtigt, auch vor Verlauf der bedungenen Zeit von dem Vertrag ohne Kündigung abzustehen, wenn das Bestandstück in einem Zustand übergeben oder ohne seine Schuld in einen Zustand geraten ist, der es zu dem bedungenen Gebrauch untauglich macht, oder wenn ein beträchtlicher Teil durch Zufall auf eine längere Zeit entzogen oder unbrauchbar wird. Aus dem Grunde der Gesundheitsschädlichkeit gemieteter Wohnräume steht dieses Recht dem Mieter auch dann zu, wenn er im Vertrage darauf verzichtet oder die Beschaffenheit der Räume beim Vertragsabschluß gekannt hat.
+----
+
+----
+### § 1118 ABGB
+
+`§ 1118 ABGB.`  
+Der Bestandgeber kann seinerseits die frühere Aufhebung des Vertrages fordern, wenn der Bestandnehmer der Sache einen erheblichen nachtheiligen Gebrauch davon macht; wenn er nach geschehener Einmahnung mit der Bezahlung des Zinses dergestalt säumig ist, daß er mit Ablauf des Termins den rückständigen Bestandzins nicht vollständig entrichtet hat; oder, wenn ein vermiethetes Gebäude neu aufgeführt werden muß. Eine nützlichere Bauführung ist der Miether zu seinem Nachtheile zuzulassen nicht schuldig, wohl aber nothwendige Ausbesserungen.
+----
+
+----
+### § 1119 ABGB
+
+`§ 1119 ABGB.`  
+Wenn dem Vermiether die Nothwendigkeit der neuen Bauführung schon zur Zeit des geschlossenen Vertrages bekannt seyn mußte; oder, wenn die Nothwendigkeit der durch längere Zeit fortzusetzenden Ausbesserungen aus Vernachlässigung der kleinern Ausbesserungen entstanden ist; so muß dem Miether für den vermißten Gebrauch eine angemessene Entschädigung geleistet werden.
+----
+
+----
+### § 1120 ABGB # d) Veräußerung der Sache;
+
+`§ 1120 ABGB.`  
+Hat der Eigenthümer das Bestandstück an einen Andern veräußert, und ihm bereits übergeben; so muß der Bestandinhaber, wenn sein Recht nicht in die öffentlichen Bücher eingetragen ist (§. 1095), nach der gehörigen Aufkündigung dem neuen Besitzer weichen. Er ist aber berechtiget, von dem Bestandgeber in Rücksicht auf den erlittenen Schaden, und entgangenen Nutzen eine vollkommene Genugthuung zu fordern.
+----
+
+----
+### § 1121 ABGB
+
+`§ 1121 ABGB.`  
+Bei einer zwangsweisen gerichtlichen Veräußerung ist das Bestandrecht, wenn es in die öffentlichen Bücher eingetragen ist, gleich einer Dienstbarkeit zu behandeln. Hat der Ersteher das Bestandrecht nicht zu übernehmen, so muß ihm der Bestandnehmer nach gehöriger Aufkündigung weichen.
+----
+
+`END-OF-DATA-SET`

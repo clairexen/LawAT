@@ -1,348 +1,342 @@
 # BG.StGB.007 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StGB  
+**Kurztitel:** ['StGB']  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.007.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StGB.006](BG.StGB.006.md))*
+Der Nationalrat hat beschlossen:
 
-## Siebenter Abschnitt # Gemeingefährliche strafbare Handlungen und strafbare Handlungen gegen die Umwelt
+----
+## Dritter Abschnitt # Strafbare Handlungen gegen die Freiheit
 
-### § 169 StGB # Brandstiftung
+### § 99 StGB # Freiheitsentziehung
 
-`§ 169 (1) StGB.`  
-Wer an einer fremden Sache ohne Einwilligung des Eigentümers eine Feuersbrunst verursacht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+`§ 99 (1) StGB.`  
+Wer einen anderen widerrechtlich gefangen hält oder ihm auf andere Weise die persönliche Freiheit entzieht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
 
-`§ 169 (2) StGB.`  
-Ebenso ist zu bestrafen, wer an einer eigenen Sache oder an der Sache eines anderen mit dessen Einwilligung eine Feuersbrunst verursacht und dadurch eine Gefahr für Leib oder Leben (§ 89) des anderen oder eines Dritten oder für das Eigentum eines Dritten in großem Ausmaß herbeiführt.
+`§ 99 (2) StGB.`  
+Wer die Freiheitsentziehung länger als einen Monat aufrecht erhält oder sie auf solche Weise, daß sie dem Festgehaltenen besondere Qualen bereitet, oder unter solchen Umständen begeht, daß sie für ihn mit besonders schweren Nachteilen verbunden ist, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+----
 
-`§ 169 (3) StGB.`  
-Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen (§ 84 Abs. 1) einer größeren Zahl von Menschen zur Folge oder sind durch die Tat viele Menschen in Not versetzt worden, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
+----
+### § 100 StGB # Entführung einer geisteskranken oder wehrlosen Person
 
-### § 170 StGB # Fahrlässige Herbeiführung einer Feuersbrunst
+`§ 100 StGB.`  
+Wer eine geisteskranke oder wehrlose Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+----
 
-`§ 170 (1) StGB.`  
-Wer eine der im § 169 mit Strafe bedrohten Taten fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+----
+### § 101 StGB # Entführung einer unmündigen Person
 
-`§ 170 (2) StGB.`  
-Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen (§ 84 Abs. 1) einer größeren Zahl von Menschen zur Folge oder sind durch die Tat viele Menschen in Not versetzt worden, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+`§ 101 StGB.`  
+Wer eine unmündige Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+----
 
-### § 171 StGB # Vorsätzliche Gefährdung durch Kernenergie oder ionisierende Strahlen
+----
+### § 102 StGB # Erpresserische Entführung
 
-`§ 171 (1) StGB.`  
-Wer bewirkt, daß durch freiwerdende Kernenergie oder sonst durch ionisierende Strahlen eine Gefahr für Leib oder Leben (§ 89) eines anderen oder für fremdes Eigentum in großem Ausmaß entsteht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+`§ 102 (1) StGB.`  
+Wer einen anderen ohne dessen Einwilligung mit Gewalt oder nachdem er die Einwilligung durch gefährliche Drohung oder List erlangt hat, entführt oder sich seiner sonst bemächtigt, um einen Dritten zu einer Handlung, Duldung oder Unterlassung zu nötigen, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
 
-`§ 171 (2) StGB.`  
-Hat die Tat eine der im § 169 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+`§ 102 (2) StGB.`  
+Ebenso ist zu bestrafen, wer  
+`§ 102 (2) Z 1 StGB.`
+in der im Abs. 1 genannten Absicht eine unmündige, geisteskranke oder wegen ihres Zustands zum Widerstand unfähige Person entführt oder sich ihrer sonst bemächtigt oder  
+`§ 102 (2) Z 2 StGB.`
+unter Ausnützung einer ohne Nötigungsabsicht vorgenommenen Entführung oder sonstigen Bemächtigung einer Person einen Dritten zu einer Handlung, Duldung oder Unterlassung nötigt.
 
-### § 172 StGB # Fahrlässige Gefährdung durch Kernenergie oder ionisierende Strahlen
+`§ 102 (3) StGB.`  
+Hat die Tat den Tod der Person zur Folge, die entführt worden ist oder deren sich der Täter sonst bemächtigt hat, so ist der Täter mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
 
-`§ 172 (1) StGB.`  
-Wer die im § 171 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 102 (4) StGB.`  
+Läßt der Täter freiwillig unter Verzicht auf die begehrte Leistung die Person, die entführt worden ist oder deren sich der Täter sonst bemächtigt hat, ohne ernstlichen Schaden in ihren Lebenskreis zurückgelangen, so ist er mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+----
 
-`§ 172 (2) StGB.`  
-Hat die Tat eine der im § 170 Abs. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+----
+### § 103 StGB # Überlieferung an eine ausländische Macht
 
-### § 173 StGB # Vorsätzliche Gefährdung durch Sprengmittel
+`§ 103 (1) StGB.`  
+Wer einen anderen ohne dessen Einwilligung mit Gewalt oder nachdem er seine Einwilligung durch gefährliche Drohung oder List erlangt hat, ebenso wer eine unmündige, geisteskranke oder wegen ihres Zustands zum Widerstand unfähige Person einer ausländischen Macht überliefert, ist, wenn der Täter oder der Überlieferte ein Österreicher ist oder sich der Überlieferte zur Zeit der Tat im Inland aufgehalten hat, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
 
-`§ 173 (1) StGB.`  
-Wer einen Sprengstoff als Sprengmittel zur Explosion bringt und dadurch eine Gefahr für Leib oder Leben (§ 89) eines anderen oder für fremdes Eigentum in großem Ausmaß herbeiführt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+`§ 103 (2) StGB.`  
+Wird das Opfer durch die Tat keiner erheblichen Gefahr ausgesetzt, so ist der Täter mit Freiheitsstrafe von fünf bis zu zehn Jahren zu bestrafen.
+----
 
-`§ 173 (2) StGB.`  
-Hat die Tat eine der im § 169 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+----
+### § 104 StGB # Sklaverei
 
-### § 174 StGB # Fahrlässige Gefährdung durch Sprengmittel
+`§ 104 (1) StGB.`  
+Wer Sklavenhandel treibt oder sonst einer anderen Person in Form von Sklaverei oder einer sklavereiähnlichen Lage die persönliche Freiheit entzieht, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
 
-`§ 174 (1) StGB.`  
-Wer die im § 173 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 104 (2) StGB.`  
+Ebenso ist zu bestrafen, wer bewirkt, daß ein anderer versklavt oder in eine sklavereiähnliche Lage gebracht wird oder daß sich ein anderer in Sklaverei oder eine sklavereiähnliche Lage begibt.
+----
 
-`§ 174 (2) StGB.`  
-Hat die Tat eine der im § 170 Abs. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+----
+### § 104a StGB # Menschenhandel
 
-### § 175 StGB # Vorbereitung eines Verbrechens durch Kernenergie, ionisierende Strahlen oder Sprengmittel
+`§ 104a (1) StGB.`  
+Wer eine volljährige Person mit dem Vorsatz, dass sie ausgebeutet werde (Abs. 3), unter Einsatz unlauterer Mittel (Abs. 2) gegen diese Person anwirbt, beherbergt oder sonst aufnimmt, befördert oder einem anderen anbietet oder weitergibt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
 
-`§ 175 (1) StGB.`  
-Wer in der Absicht, sich oder einem anderen die Begehung einer nach § 171 oder § 173 mit Strafe bedrohten, wenn auch noch nicht bestimmten Handlung zu ermöglichen, einen Kernbrennstoff, einen radioaktiven Stoff, einen Sprengstoff, einen Bestandteil eines Sprengstoffs oder eine zur Herstellung oder Benutzung eines dieser Stoffe erforderliche Vorrichtung anfertigt, erwirbt oder besitzt, oder einen solchen Stoff einem anderen überläßt, von dem er weiß (§ 5 Abs. 3), daß er ihn zur Vorbereitung einer der genannten mit Strafe bedrohten Handlungen erwirbt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+`§ 104a (2) StGB.`  
+Unlautere Mittel sind der Einsatz von Gewalt oder gefährlicher Drohung, die Täuschung über Tatsachen, die Ausnützung einer Autoritätsstellung, einer Zwangslage, einer Geisteskrankheit oder eines Zustands, der die Person wehrlos macht, die Einschüchterung und die Gewährung oder Annahme eines Vorteils für die Übergabe der Herrschaft über die Person.
 
-`§ 175 (2) StGB.`  
-Der Täter ist nicht zu bestrafen, wenn er freiwillig, bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, den Gegenstand der Behörde übergibt, es ihr ermöglicht, des Gegenstands habhaft zu werden, oder sonst die Gefahr beseitigt, daß von dem Gegenstand zur Begehung einer nach § 171 oder § 173 mit Strafe bedrohten Handlung Gebrauch gemacht wird.
+`§ 104a (3) StGB.`  
+Ausbeutung umfasst die sexuelle Ausbeutung, die Ausbeutung durch Organentnahme, die Ausbeutung der Arbeitskraft, die Ausbeutung zur Bettelei sowie die Ausbeutung zur Begehung mit Strafe bedrohter Handlungen.
 
-### § 176 StGB # Vorsätzliche Gemeingefährdung
+`§ 104a (4) StGB.`  
+Wer die Tat im Rahmen einer kriminellen Vereinigung, unter Anwendung schwerer Gewalt oder so begeht, dass durch die Tat das Leben der Person vorsätzlich oder grob fahrlässig (§ 6 Abs. 3) gefährdet wird oder die Tat einen besonders schweren Nachteil für die Person zur Folge hat, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
 
-`§ 176 (1) StGB.`  
-Wer anders als durch eine der in den §§ 169, 171 und 173 mit Strafe bedrohten Handlungen eine Gefahr für Leib oder Leben (§ 89) einer größeren Zahl von Menschen oder für fremdes Eigentum in großem Ausmaß herbeiführt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+`§ 104a (5) StGB.`  
+Mit Freiheitsstrafe von einem bis zu zehn Jahren ist auch zu bestrafen, wer eine minderjährige Person mit dem Vorsatz, dass sie ausgebeutet werde (Abs. 3), anwirbt, beherbergt oder sonst aufnimmt, befördert oder einem anderen anbietet oder weitergibt.
+----
 
-`§ 176 (2) StGB.`  
-Hat die Tat eine der im § 169 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+----
+### § 105 StGB # Nötigung
 
-### § 177 StGB # Fahrlässige Gemeingefährdung
+`§ 105 (1) StGB.`  
+Wer einen anderen mit Gewalt oder durch gefährliche Drohung zu einer Handlung, Duldung oder Unterlassung nötigt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
-`§ 177 (1) StGB.`  
-Wer anders als durch eine der in den §§ 170, 172 und 174 mit Strafe bedrohten Handlungen fahrlässig eine Gefahr für Leib oder Leben (§ 89) einer größeren Zahl von Menschen oder für fremdes Eigentum in großem Ausmaß herbeiführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 105 (2) StGB.`  
+Die Tat ist nicht rechtswidrig, wenn die Anwendung der Gewalt oder Drohung als Mittel zu dem angestrebten Zweck nicht den guten Sitten widerstreitet.
+----
 
-`§ 177 (2) StGB.`  
-Hat die Tat eine der im § 170 Abs. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+----
+### § 106 StGB # Schwere Nötigung
 
-### § 177a StGB # Herstellung und Verbreitung von Massenvernichtungswaffen
+`§ 106 (1) StGB.`  
+Wer eine Nötigung begeht, indem er  
+`§ 106 (1) Z 1 StGB.`
+mit dem Tod, mit einer erheblichen Verstümmelung oder einer auffallenden Verunstaltung, mit einer Entführung, mit einer Brandstiftung, mit einer Gefährdung durch Kernenergie, ionisierende Strahlen oder Sprengmittel oder mit der Vernichtung der wirtschaftlichen Existenz oder gesellschaftlichen Stellung droht,  
+`§ 106 (1) Z 2 StGB.`
+die genötigte oder eine andere Person, gegen die sich die Gewalt oder gefährliche Drohung richtet, durch diese Mittel längere Zeit hindurch in einen qualvollen Zustand versetzt oder  
+`§ 106 (1) Z 3 StGB.`
+die genötigte Person zur Prostitution oder zur Mitwirkung an einer pornographischen Darbietung (§ 215a Abs. 3) oder sonst zu einer Handlung, Duldung oder Unterlassung veranlasst, die besonders wichtige Interessen der genötigten oder einer dritten Person verletzt,  
+ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
+`§ 106 (2) StGB.`  
+Hat die Tat den Selbstmord oder einen Selbstmordversuch der genötigten oder einer anderen Person, gegen die sich die Gewalt oder gefährliche Drohung richtet, zur Folge, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+
+`§ 106 (3) StGB.`  
+Ebenso ist zu bestrafen, wer eine Nötigung zur Prostitution oder zur Mitwirkung an einer pornographischen Darbietung gegen eine unmündige Person, im Rahmen einer kriminellen Vereinigung, unter Anwendung schwerer Gewalt oder so begeht, dass durch die Tat das Leben der Person vorsätzlich oder grob fahrlässig (§ 6 Abs. 3) gefährdet wird oder die Tat einen besonders schweren Nachteil für die Person zur Folge hat.
+----
+
+----
+### § 106a StGB # Zwangsheirat
+
+`§ 106a (1) StGB.`  
+Wer eine Person mit Gewalt oder durch gefährliche Drohung oder Drohung mit dem Abbruch oder Entzug der familiären Kontakte zur Eheschließung oder zur Begründung einer eingetragenen Partnerschaft nötigt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+
+`§ 106a (2) StGB.`  
+Ebenso ist zu bestrafen, wer eine Person in der Absicht, dass sie in einem anderen Staat als in dem, dessen Staatsangehörigkeit sie besitzt oder in dem sie ihren gewöhnlichen Aufenthalt hat, zur Eheschließung oder zur Begründung einer eingetragenen Partnerschaft gezwungen werde (Abs. 1), durch Täuschung über dieses Vorhaben verleitet oder mit Gewalt oder durch gefährliche Drohung oder Drohung mit dem Abbruch oder Entzug der familiären Kontakte nötigt, sich in einen anderen Staat zu begeben, oder sie mit Gewalt oder unter Ausnützung ihres Irrtums über dieses Vorhaben in einen anderen Staat befördert.
+
+`§ 106a (3) StGB.`  
+§ 106 Abs. 2 gilt sinngemäß.
+----
+
+----
+### § 107 StGB # Gefährliche Drohung
+
+`§ 107 (1) StGB.`  
+Wer einen anderen gefährlich bedroht, um ihn in Furcht und Unruhe zu versetzen, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+`§ 107 (2) StGB.`  
+Wer eine gefährliche Drohung begeht, indem er mit dem Tod, mit einer erheblichen Verstümmelung oder einer auffallenden Verunstaltung, mit einer Entführung, mit einer Brandstiftung, mit einer Gefährdung durch Kernenergie, ionisierende Strahlen oder Sprengmittel oder mit der Vernichtung der wirtschaftlichen Existenz oder gesellschaftlichen Stellung droht oder den Bedrohten oder einen anderen, gegen den sich die Gewalt oder gefährliche Drohung richtet, durch diese Mittel längere Zeit hindurch in einen qualvollen Zustand versetzt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
+`§ 107 (3) StGB.`  
+In den im § 106 Abs. 2 genannten Fällen ist die dort vorgesehene Strafe zu verhängen.
+*(Anm.:Abs. 4 aufgehoben durch BGBl. I Nr. 56/2006)*
+----
+
+----
+### § 107a StGB # Beharrliche Verfolgung
+
+`§ 107a (1) StGB.`  
+Wer eine Person widerrechtlich beharrlich verfolgt (Abs. 2), ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+
+`§ 107a (2) StGB.`  
+Beharrlich verfolgt eine Person, wer in einer Weise, die geeignet ist, sie in ihrer Lebensführung unzumutbar zu beeinträchtigen, eine längere Zeit hindurch fortgesetzt  
+`§ 107a (2) Z 1 StGB.`
+ihre räumliche Nähe aufsucht,  
+`§ 107a (2) Z 2 StGB.`
+im Wege einer Telekommunikation oder unter Verwendung eines sonstigen Kommunikationsmittels oder über Dritte Kontakt zu ihr herstellt,  
+`§ 107a (2) Z 3 StGB.`
+unter Verwendung ihrer personenbezogenen Daten Waren oder Dienstleistungen für sie bestellt,  
+`§ 107a (2) Z 4 StGB.`
+unter Verwendung ihrer personenbezogenen Daten Dritte veranlasst, mit ihr Kontakt aufzunehmen oder  
+`§ 107a (2) Z 5 StGB.`
+Tatsachen oder Bildaufnahmen des höchstpersönlichen Lebensbereiches dieser Person ohne deren Zustimmung veröffentlicht.
+
+`§ 107a (3) StGB.`  
+Übersteigt der Tatzeitraum nach Abs. 1 ein Jahr oder hat die Tat den Selbstmord oder einen Selbstmordversuch der im Sinn des Abs. 2 verfolgten Person zur Folge, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+----
+
+----
+### § 107b StGB # Fortgesetzte Gewaltausübung
+
+`§ 107b (1) StGB.`  
+Wer gegen eine andere Person eine längere Zeit hindurch fortgesetzt Gewalt ausübt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+
+`§ 107b (2) StGB.`  
+Gewalt im Sinne von Abs. 1 übt aus, wer eine andere Person am Körper misshandelt oder vorsätzliche mit Strafe bedrohte Handlungen gegen Leib und Leben oder gegen die Freiheit mit Ausnahme der strafbaren Handlungen nach §§ 107a, 108 und 110 begeht.
+
+`§ 107b (3) StGB.`  
+Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer durch die Tat eine umfassende Kontrolle des Verhaltens der verletzten Person herstellt oder eine erhebliche Einschränkung der autonomen Lebensführung der verletzten Person bewirkt.
+
+`§ 107b (3a) StGB.`  
+Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer  
+`§ 107b (3a) Z 1 StGB.`
+die Tat gegen eine unmündige oder wegen Gebrechlichkeit, Krankheit oder einer geistigen Behinderung wehrlose Person begeht,  
+`§ 107b (3a) Z 2 StGB.`
+eine Tat nach Abs. 3 auf qualvolle Weise begeht oder  
+`§ 107b (3a) Z 3 StGB.`
+im Rahmen einer fortgesetzten Gewaltausübung nach Abs. 3 wiederholt Straftaten gegen die sexuelle Selbstbestimmung und Integrität begeht.
 
-`§ 177a (1) StGB.`  
-Wer zur Massenvernichtung bestimmte und geeignete nukleare, radiologische, biologische oder chemische Kampfmittel  
-`§ 177a (1) Z 1 StGB.`
-herstellt, verarbeitet oder zum Zweck der Herstellung entwickelt,  
-`§ 177a (1) Z 2 StGB.`
-in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt oder  
-`§ 177a (1) Z 3 StGB.`
-erwirbt, besitzt oder einem anderen überläßt oder verschafft,  
-ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
+`§ 107b (4) StGB.`  
+Hat eine Tat nach Abs. 3 oder Abs. 3a Z 1 eine Körperverletzung mit schweren Dauerfolgen (§ 85) zur Folge oder wird die Gewalt nach Abs. 3 oder Abs. 3a Z 1 länger als ein Jahr ausgeübt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod der verletzten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
 
-`§ 177a (2) StGB.`  
-Weiß der Täter, daß die Kampfmittel in ein Gebiet gelangen sollen, in dem ein Krieg oder ein bewaffneter Konflikt ausgebrochen ist oder unmittelbar auszubrechen droht, so ist er mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, weiß er aber, daß die Kampfmittel zum Einsatz gelangen sollen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
+`§ 107b (5) StGB.`  
+Der Täter ist nicht nach den vorstehenden Bestimmungen zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist.
+----
 
-### § 177b StGB # Unerlaubter Umgang mit Kernmaterial, radioaktiven Stoffen oder Strahleneinrichtungen
+----
+### § 107c StGB # Fortdauernde Belästigung im Wege einer Telekommunikation oder eines Computersystems
 
-`§ 177b (1) StGB.`  
-Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Kernmaterial herstellt, bearbeitet, verarbeitet, verwendet, besitzt, beseitigt, befördert, in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+`§ 107c (1) StGB.`  
+Wer im Wege einer Telekommunikation oder unter Verwendung eines Computersystems in einer Weise, die geeignet ist, eine Person in ihrer Lebensführung unzumutbar zu beeinträchtigen,  
+`§ 107c (1) Z 1 StGB.`
+eine strafbare Handlung gegen die Ehre einer Person für eine größere Zahl von Menschen für eine längere Zeit wahrnehmbar begeht oder  
+`§ 107c (1) Z 2 StGB.`
+eine Tatsache oder Bildaufnahme des höchstpersönlichen Lebensbereiches einer Person ohne deren Zustimmung für eine größere Zahl von Menschen für eine längere Zeit wahrnehmbar macht,  
+ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
-`§ 177b (2) StGB.`  
-Ebenso ist zu bestrafen, wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag radioaktive Stoffe oder Strahleneinrichtungen so herstellt, bearbeitet, verarbeitet, verwendet, besitzt, beseitigt, befördert, in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt, dass dadurch  
-`§ 177b (2) Z 1 StGB.`
-eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
-`§ 177b (2) Z 2 StGB.`
-eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
-`§ 177b (2) Z 3 StGB.`
-eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
-`§ 177b (2) Z 4 StGB.`
-ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
-entstehen kann.
+`§ 107c (2) StGB.`  
+Hat die Tat den Selbstmord oder einen Selbstmordversuch der im Sinn des Abs. 1 verletzten Person zur Folge, begeht der Täter innerhalb eines ein Jahr übersteigenden Zeitraums fortgesetzt gegen die verletzte Person gerichtete Tathandlungen im Sinne des Abs. 1 oder übersteigt die Dauer der Wahrnehmbarkeit nach Abs. 1 ein Jahr, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+----
 
-`§ 177b (3) StGB.`  
-Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Kernmaterial oder radioaktive Stoffe herstellt, bearbeitet, verarbeitet, verwendet, besitzt, beseitigt, befördert, in das Inland einführt, aus dem Inland ausführt oder durch das Inland durchführt und dadurch die Gefahr herbeiführt, dass Kernmaterial oder radioaktive Stoffe der Herstellung oder Verarbeitung von zur Massenvernichtung geeigneten nuklearen oder radiologischen Kampfmitteln zugänglich werden, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. Ebenso ist zu bestrafen, wer eine der in Abs. 1 oder Abs. 2 erwähnten Handlungen gewerbsmäßig begeht.
+----
+### § 108 StGB # Täuschung
 
-`§ 177b (4) StGB.`  
-Wird durch eine der im Abs. 1 oder Abs. 2 erwähnten Handlungen die im § 171 Abs. 1 genannte Gefahr herbeigeführt, der Tier- oder Pflanzenbestand erheblich geschädigt oder eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen. Hat die Tat eine der im § 169 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+`§ 108 (1) StGB.`  
+Wer einem anderen in seinen Rechten dadurch absichtlich einen Schaden zufügt, daß er ihn oder einen Dritten durch Täuschung über Tatsachen zu einer Handlung, Duldung oder Unterlassung verleitet, die den Schaden herbeiführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
-`§ 177b (5) StGB.`  
-Der Begriff Kernmaterial bezeichnet Ausgangsmaterial und besonderes spaltbares Material sowie Ausrüstung, Technologie und Material, die dem Sicherheitskontrollsystem nach dem Sicherheitskontrollgesetz 1991, BGBl. Nr. 415/1992, unterliegen. Der Begriff radioaktive Stoffe bezeichnet Stoffe, die ein oder mehrere Radionuklide enthalten, sofern deren Aktivität oder Konzentration nach dem Stand der Technik im Zusammenhang mit dem Strahlenschutz nicht außer Acht gelassen werden kann; Gegenstände, die radioaktive Stoffe enthalten oder an deren Oberfläche sich solche Stoffe befinden, stehen radioaktiven Stoffen gleich. Unter Strahleneinrichtungen sind solche Geräte oder Anlagen zu verstehen, die, ohne radioaktive Stoffe zu enthalten, imstande sind, ionisierende Strahlung auszusenden, und deren Betrieb einer Bewilligungspflicht nach dem Strahlenschutzgesetz, BGBl. Nr. 227/1969 in der jeweils geltenden Fassung, unterliegt.
+`§ 108 (2) StGB.`  
+Hoheitsrechte gelten nicht als Rechte im Sinn des Abs. 1.
 
-### § 177c StGB # Fahrlässiger unerlaubter Umgang mit Kernmaterial, radioaktiven Stoffen oder Strahleneinrichtungen
+`§ 108 (3) StGB.`  
+Der Täter ist nur mit Ermächtigung des in seinen Rechten Verletzten zu verfolgen.
+----
 
-`§ 177c (1) StGB.`  
-Wer fahrlässig entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 177b Abs. 1, 2 oder 3 mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+----
+### § 109 StGB # Hausfriedensbruch
 
-`§ 177c (2) StGB.`  
-Wird durch die Tat die im § 171 Abs. 1 genannte Gefahr herbeigeführt, der Tier- oder Pflanzenbestand erheblich geschädigt oder eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen. Hat die Tat eine der im § 170 Abs. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+`§ 109 (1) StGB.`  
+Wer den Eintritt in die Wohnstätte eines anderen mit Gewalt oder durch Drohung mit Gewalt erzwingt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
-### § 177d StGB # Vorsätzlicher unerlaubter Umgang mit Stoffen, die zum Abbau der Ozonschicht beitragen
+`§ 109 (2) StGB.`  
+Der Täter ist nur mit Ermächtigung des in seinen Rechten Verletzten zu verfolgen.
 
-`§ 177d StGB.`  
-Wer Stoffe, die zum Abbau der Ozonschicht beitragen, entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag herstellt, einführt, ausführt, in Verkehr setzt oder verwendet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 109 (3) StGB.`  
+Wer auf die im Abs. 1 geschilderte Weise in ein Haus, eine Wohnstätte, einen abgeschlossenen Raum, der zum öffentlichen Dienst bestimmt ist oder zur Ausübung eines Berufes oder Gewerbes dient, oder in einen unmittelbar zu einem Haus gehörenden umfriedeten Raum eindringt, wobei  
+`§ 109 (3) Z 1 StGB.`
+er gegen eine dort befindliche Person oder Sache Gewalt zu üben beabsichtigt,  
+`§ 109 (3) Z 2 StGB.`
+er oder mit seinem Wissen ein anderer Beteiligter (§ 12) eine Waffe oder ein anderes Mittel bei sich führt, um den Widerstand einer Person zu überwinden oder zu verhindern, oder  
+`§ 109 (3) Z 3 StGB.`
+das Eindringen mehrerer Personen erzwungen wird, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+----
 
-### § 177e StGB # Grob fahrlässiger unerlaubter Umgang mit Stoffen, die zum Abbau der Ozonschicht beitragen
+----
+### § 110 StGB # Eigenmächtige Heilbehandlung
 
-`§ 177e StGB.`  
-Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 177d mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+`§ 110 (1) StGB.`  
+Wer einen anderen ohne dessen Einwilligung, wenn auch nach den Regeln der medizinischen Wissenschaft, behandelt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
-### § 178 StGB # Vorsätzliche Gefährdung von Menschen durch übertragbare Krankheiten
+`§ 110 (2) StGB.`  
+Hat der Täter die Einwilligung des Behandelten in der Annahme nicht eingeholt, daß durch den Aufschub der Behandlung das Leben oder die Gesundheit des Behandelten ernstlich gefährdet wäre, so ist er nach Abs. 1 nur zu bestrafen, wenn die vermeintliche Gefahr nicht bestanden hat und er sich dessen bei Aufwendung der nötigen Sorgfalt (§ 6) hätte bewußt sein können.
 
-`§ 178 StGB.`  
-Wer eine Handlung begeht, die geeignet ist, die Gefahr der Verbreitung einer übertragbaren Krankheit unter Menschen herbeizuführen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wenn die Krankheit ihrer Art nach zu den wenn auch nur beschränkt anzeige- oder meldepflichtigen Krankheiten gehört.
+`§ 110 (3) StGB.`  
+Der Täter ist nur auf Verlangen des eigenmächtig Behandelten zu verfolgen.
+----
 
-### Fahrlässige Gefährdung von Menschen durch übertragbare Krankheiten
+----
+## Vierter Abschnitt # Strafbare Handlungen gegen die Ehre
 
+### § 111 StGB # Üble Nachrede
 
-### § 179 StGB
+`§ 111 (1) StGB.`  
+Wer einen anderen in einer für einen Dritten wahrnehmbaren Weise einer verächtlichen Eigenschaft oder Gesinnung zeiht oder eines unehrenhaften Verhaltens oder eines gegen die guten Sitten verstoßenden Verhaltens beschuldigt, das geeignet ist, ihn in der öffentlichen Meinung verächtlich zu machen oder herabzusetzen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
 
-`§ 179 StGB.`  
-Wer die im § 178 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 111 (2) StGB.`  
+Wer die Tat in einem Druckwerk, im Rundfunk oder sonst auf eine Weise begeht, wodurch die üble Nachrede einer breiten Öffentlichkeit zugänglich wird, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
 
-### § 180 StGB # Vorsätzliche Beeinträchtigung der Umwelt
+`§ 111 (3) StGB.`  
+Der Täter ist nicht zu bestrafen, wenn die Behauptung als wahr erwiesen wird. Im Fall des Abs. 1 ist der Täter auch dann nicht zu bestrafen, wenn Umstände erwiesen werden, aus denen sich für den Täter hinreichende Gründe ergeben haben, die Behauptung für wahr zu halten.
+----
 
-`§ 180 (1) StGB.`  
-Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag ein Gewässer, den Boden oder die Luft so verunreinigt oder sonst beeinträchtigt, dass dadurch  
-`§ 180 (1) Z 1 StGB.`
-eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
-`§ 180 (1) Z 2 StGB.`
-eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
-`§ 180 (1) Z 3 StGB.`
-eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
-`§ 180 (1) Z 4 StGB.`
-ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt,  
-entstehen kann, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+----
+### § 112 StGB # Wahrheitsbeweis und Beweis des guten Glaubens
 
-`§ 180 (2) StGB.`  
-Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt oder ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt, herbeigeführt, so ist der Täter mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen. Hat die Tat eine der im § 169 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+`§ 112 StGB.`  
+Der Wahrheitsbeweis und der Beweis des guten Glaubens sind nur aufzunehmen, wenn sich der Täter auf die Richtigkeit der Behauptung oder auf seinen guten Glauben beruft. Über Tatsachen des Privat- oder Familienlebens und über strafbare Handlungen, die nur auf Verlangen eines Dritten verfolgt werden, sind der Wahrheitsbeweis und der Beweis des guten Glaubens nicht zuzulassen.
+----
 
-### § 181 StGB # Fahrlässige Beeinträchtigung der Umwelt
+----
+### § 113 StGB # Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung
 
-`§ 181 (1) StGB.`  
-Wer fahrlässig entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 180 mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 113 StGB.`  
+Wer einem anderen in einer für einen Dritten wahrnehmbaren Weise eine strafbare Handlung vorwirft, für die die Strafe schon vollzogen oder wenn auch nur bedingt nachgesehen oder nachgelassen oder für die der Ausspruch der Strafe vorläufig aufgeschoben worden ist, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
+----
 
-`§ 181 (2) StGB.`  
-Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt oder ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt, herbeigeführt, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen. Hat die Tat eine der im § 170 Abs. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+----
+### § 114 StGB # Straflosigkeit wegen Ausübung eines Rechtes oder Nötigung durch besondere Umstände
 
-### § 181a StGB # Schwere Beeinträchtigung durch Lärm
+`§ 114 (1) StGB.`  
+Wird durch eine im § 111 oder im § 113 genannte Handlung eine Rechtspflicht erfüllt oder ein Recht ausgeübt, so ist die Tat gerechtfertigt.
 
-`§ 181a StGB.`  
-Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Lärm in einem solchen Ausmaß oder unter solchen Umständen erzeugt, daß die Tat eine nachhaltige und schwere Beeinträchtigung des körperlichen Befindens vieler Menschen nach sich zieht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+`§ 114 (2) StGB.`  
+Wer durch besondere Umstände genötigt ist, eine dem § 111 oder dem § 113 entsprechende Behauptung in der Form und auf die Weise vorzubringen, wie es geschieht, ist nicht zu bestrafen, es sei denn, daß die Behauptung unrichtig ist und der Täter sich dessen bei Aufwendung der nötigen Sorgfalt (§ 6) hätte bewußt sein können.
+----
 
-### § 181b StGB # Vorsätzliches umweltgefährdendes Behandeln und Verbringen von Abfällen
+----
+### § 115 StGB # Beleidigung
 
-`§ 181b (1) StGB.`  
-Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Abfälle so sammelt, befördert, verwertet, beseitigt, diese Tätigkeiten betrieblich überwacht oder so kontrolliert, dass dadurch  
-`§ 181b (1) Z 1 StGB.`
-eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
-`§ 181b (1) Z 2 StGB.`
-eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
-`§ 181b (1) Z 3 StGB.`
-eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
-`§ 181b (1) Z 4 StGB.`
-ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
-entstehen kann, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+`§ 115 (1) StGB.`  
+Wer öffentlich oder vor mehreren Leuten einen anderen beschimpft, verspottet, am Körper mißhandelt oder mit einer körperlichen Mißhandlung bedroht, ist, wenn er deswegen nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
 
-`§ 181b (2) StGB.`  
-Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder einen Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen. Hat die Tat eine der im § 169 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+`§ 115 (2) StGB.`  
+Eine Handlung wird vor mehreren Leuten begangen, wenn sie in Gegenwart von mehr als zwei vom Täter und vom Angegriffenen verschiedenen Personen begangen wird und diese sie wahrnehmen können.
 
-`§ 181b (3) StGB.`  
-Wer außer dem Fall des Abs. 2 Abfälle entgegen Art. 2 Nummer 35 der Verordnung 1013/2006/EG über die Verbringung von Abfällen in nicht unerheblicher Menge verbringt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 115 (3) StGB.`  
+Wer sich nur durch Entrüstung über das Verhalten eines anderen dazu hinreißen läßt, ihn in einer den Umständen nach entschuldbaren Weise zu beschimpfen, zu verspotten, zu mißhandeln oder mit Mißhandlungen zu bedrohen, ist entschuldigt, wenn seine Entrüstung, insbesondere auch im Hinblick auf die seit ihrem Anlaß verstrichene Zeit, allgemein begreiflich ist.
+----
 
-### § 181c StGB # Fahrlässiges umweltgefährdendes Behandeln und Verbringen von Abfällen
+----
+### § 116 StGB # Öffentliche Beleidigung eines verfassungsmäßigen Vertretungskörpers, des Bundesheeres oder einer Behörde
 
-`§ 181c (1) StGB.`  
-Wer fahrlässig entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 181b mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+`§ 116 StGB.`  
+Handlungen nach dem § 111 oder dem § 115 sind auch strafbar, wenn sie gegen den Nationalrat, den Bundesrat, die Bundesversammlung oder einen Landtag, gegen das Bundesheer, eine selbständige Abteilung des Bundesheeres oder gegen eine Behörde gerichtet sind und öffentlich begangen werden. Die Bestimmungen der §§ 111 Abs. 3, 112 und 114 gelten auch für solche strafbare Handlungen.
+----
 
-`§ 181c (2) StGB.`  
-Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder ein Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen. Hat die Tat eine der im § 170 Abs. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+----
+### § 117 StGB # Berechtigung zur Anklage
 
-`§ 181c (3) StGB.`  
-Wer außer den Fällen der Abs. 1 und 2 grob fahrlässig (§ 6 Abs. 3) Abfälle entgegen Art. 2 Nummer 35 der Verordnung 1013/2006/EG über die Verbringung von Abfällen in nicht unerheblicher Menge verbringt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
+`§ 117 (1) StGB.`  
+Die strafbaren Handlungen gegen die Ehre sind nur auf Verlangen des in seiner Ehre Verletzten zu verfolgen. Sie sind jedoch von Amts wegen zu verfolgen, wenn sie gegen den Bundespräsidenten, gegen den Nationalrat, den Bundesrat, die Bundesversammlung oder einen Landtag, gegen das Bundesheer, eine selbständige Abteilung des Bundesheeres oder gegen eine Behörde gerichtet sind. Zur Verfolgung ist die Ermächtigung der beleidigten Person, des beleidigten Vertretungskörpers oder der beleidigten Behörde, zur Verfolgung wegen einer Beleidigung des Bundesheeres oder einer selbständigen Abteilung des Bundesheeres die Ermächtigung des Bundesministers für Landesverteidigung einzuholen.
 
-### § 181d StGB # Vorsätzliches umweltgefährdendes Betreiben von Anlagen
+`§ 117 (2) StGB.`  
+Wird eine strafbare Handlung gegen die Ehre wider einen Beamten oder wider einen Seelsorger einer im Inland bestehenden Kirche oder Religionsgesellschaft während der Ausübung seines Amtes oder Dienstes begangen, so hat die Staatsanwaltschaft den Täter mit Ermächtigung des Verletzten und der diesem vorgesetzten Stelle zu verfolgen. Das gleiche gilt, wenn eine solche Handlung gegen eine der genannten Personen in Beziehung auf eine ihrer Berufshandlungen in einem Druckwerk, im Rundfunk oder sonst auf eine Weise begangen wird, daß sie einer breiten Öffentlichkeit zugänglich wird.
 
-`§ 181d (1) StGB.`  
-Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine Anlage, in der eine gefährliche Tätigkeit durchgeführt wird, so betreibt, dass dadurch  
-`§ 181d (1) Z 1 StGB.`
-eine Gefahr für das Leben oder einer schweren Körperverletzung (§ 84 Abs. 1) eines anderen oder sonst für die Gesundheit oder körperliche Sicherheit einer größeren Zahl von Menschen,  
-`§ 181d (1) Z 2 StGB.`
-eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß,  
-`§ 181d (1) Z 3 StGB.`
-eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder  
-`§ 181d (1) Z 4 StGB.`
-ein Beseitigungsaufwand, der 50 000 Euro übersteigt,  
-entstehen kann, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
+`§ 117 (3) StGB.`  
+Der Täter ist wegen einer im § 115 mit Strafe bedrohten Handlung mit Ermächtigung des Verletzten von der Staatsanwaltschaft zu verfolgen, wenn sich die Tat gegen den Verletzten wegen seiner Zugehörigkeit zu einer der im § 283 Abs. 1 bezeichneten Gruppen richtet und entweder in einer Mißhandlung oder Bedrohung mit einer Mißhandlung oder in einer Beschimpfung oder Verspottung besteht, die geeignet ist, den Verletzten in der öffentlichen Meinung verächtlich zu machen oder herabzusetzen.
 
-`§ 181d (2) StGB.`  
-Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder ein Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen. Hat die Tat eine der im § 169 Abs. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
+`§ 117 (4) StGB.`  
+In den Fällen der Abs. 2 und 3 ist der Verletzte jederzeit berechtigt, sich der Anklage anzuschließen. Verfolgt die Staatsanwaltschaft eine solche strafbare Handlung nicht oder tritt sie von der Verfolgung zurück, so ist der Verletzte selbst zur Anklage berechtigt.
+*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 98/2009)*
+----
 
-### § 181e StGB # Grob fahrlässiges umweltgefährdendes Betreiben von Anlagen
-
-`§ 181e (1) StGB.`  
-Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag die im § 181d Abs. 1 mit Strafe bedrohte Handlung begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
-
-`§ 181e (2) StGB.`  
-Wird durch die Tat der Tier- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder ein Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen. Hat die Tat eine der im § 170 Abs. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen.
-
-### § 181f StGB # Vorsätzliche Schädigung des Tier- oder Pflanzenbestandes
-
-`§ 181f (1) StGB.`  
-Wer Exemplare einer geschützten wildlebenden Tierart entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag tötet, besitzt oder deren Entwicklungsformen zerstört oder aus der Natur entnimmt oder Exemplare einer geschützten wildlebenden Pflanzenart zerstört, besitzt oder aus der Natur entnimmt, ist mit Freiheitsstrafe bis zu zwei Jahren zu betrafen, es sei denn, dass die Handlung eine nur unerhebliche Menge der Exemplare betrifft und auf den Erhaltungszustand der Art nur unerhebliche Auswirkungen hat.
-
-`§ 181f (2) StGB.`  
-Geschützte wildlebende Tierarten sind die in Anhang IV lit. a) der Richtlinie 92/43/EWG zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen oder des Anhangs I der Richtlinie 2009/147/EG über die Erhaltung der wildlebenden Vogelarten aufgezählten Arten; geschützte wildlebende Pflanzenarten sind die in Anhang IV lit. b) der Richtlinie 92/43/EWG zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen aufgezählten Arten.
-
-### § 181g StGB # Grob fahrlässige Schädigung des Tier- oder Pflanzenbestandes
-
-`§ 181g StGB.`  
-Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 181f mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-### § 181h StGB # Vorsätzliche Schädigung von Lebensräumen in geschützten Gebieten
-
-`§ 181h (1) StGB.`  
-Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag einen Lebensraum innerhalb eines geschützten Gebiets erheblich schädigt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-
-`§ 181h (2) StGB.`  
-Lebensraum innerhalb eines geschützten Gebiets ist jeder Lebensraum einer Art, für die ein Gebiet durch Gesetz oder Verordnung zu einem Schutzgebiet gemäß Art. 4 Abs. 2 oder Anhang I der Richtlinie 2009/147/EG über die Erhaltung der wildlebenden Vogelarten erklärt wurde oder jeder natürliche Lebensraum oder Lebensraum einer Art, für die ein Gebiet durch Gesetz oder Verordnung zu einem besonderen Schutzgebiet gemäß Art. 4 Abs. 4 der Richtlinie 92/43/EWG zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen erklärt wurde.
-
-### § 181i StGB # Grob fahrlässige Schädigung von Lebensräumen in geschützten Gebieten
-
-`§ 181i StGB.`  
-Wer grob fahrlässig (§ 6 Abs. 3) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag die im § 181h mit Strafe bedrohte Handlung begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-### § 182 StGB # Andere Gefährdungen des Tier- oder Pflanzenbestandes
-
-`§ 182 (1) StGB.`  
-Wer eine Handlung begeht, die geeignet ist,  
-`§ 182 (1) Z 1 StGB.`
-die Gefahr der Verbreitung einer Seuche unter Tieren herbeizuführen oder  
-`§ 182 (1) Z 2 StGB.`
-die Gefahr der Verbreitung eines für den Tier- oder Pflanzenbestand gefährlichen Krankheitserregers oder Schädlings herbeizuführen,  
-ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen.
-
-`§ 182 (2) StGB.`  
-Ebenso ist zu bestrafen, wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag auf andere als die im § 180 bezeichnete Weise eine Gefahr für den Tier- oder Pflanzenbestand in erheblichem Ausmaß herbeiführt.
-
-### § 183 StGB # Fahrlässige Gefährdung des Tier- oder Pflanzenbestandes
-
-`§ 183 StGB.`  
-Wer eine der im § 182 mit Strafe bedrohten Handlungen fahrlässig begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
-
-### § 183a StGB # Irrtum über Rechtsvorschriften und behördliche Aufträge
-
-`§ 183a (1) StGB.`  
-Hat sich der Täter in den Fällen der §§ 180, 181a, 181b, 181d, 181f, 181h und 182 mit einer Rechtsvorschrift oder einem behördlichen Auftrag nicht bekannt gemacht, obwohl er seinem Beruf, seiner Beschäftigung oder sonst den Umständen nach dazu verpflichtet gewesen wäre, oder ist ihm ein Irrtum über die Rechtsvorschrift oder den behördlichen Auftrag sonst vorzuwerfen, so ist er, wenn er im übrigen vorsätzlich handelt, gleichwohl nach diesen Bestimmungen zu bestrafen.
-
-`§ 183a (2) StGB.`  
-Abs. 1 gilt in den Fällen der §§ 181, 181c Abs. 1 und 2 und 183 entsprechend, wenn der Täter fahrlässig handelt, in den Fällen der §§ 181c Abs. 3, 181e, 181g und 181i, wenn er grob fahrlässig (§ 6 Abs. 3) handelt.
-
-### § 183b StGB # Tätige Reue
-
-`§ 183b (1) StGB.`  
-Wegen einer der in den §§ 180, 181 und 181b bis 183 mit Strafe bedrohten Handlungen ist nicht zu bestrafen, wer freiwillig und bevor die Behörde (§ 151 Abs. 3) von seinem Verschulden erfahren hat, die von ihm herbeigeführten Gefahren, Verunreinigungen und sonstigen Beeinträchtigungen beseitigt, sofern es nicht schon zu einer Schädigung eines Menschen oder des Tier- oder Pflanzenbestandes gekommen ist.
-
-`§ 183b (2) StGB.`  
-§ 167 Abs. 4 ist dem Sinne nach anzuwenden.
-
-### § 184 StGB # Kurpfuscherei
-
-`§ 184 StGB.`  
-Wer, ohne die zur Ausübung des ärztlichen Berufes erforderliche Ausbildung erhalten zu haben, eine Tätigkeit, die den Ärzten vorbehalten ist, in bezug auf eine größere Zahl von Menschen gewerbsmäßig ausübt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen.
-
-### § 185 StGB # Luftpiraterie
-
-`§ 185 (1) StGB.`  
-Wer unter Ausnutzung der besonderen Verhältnisse des Luftverkehrs mit Gewalt oder durch gefährliche Drohung gegen eine an Bord des Luftfahrzeuges befindliche Person oder gegen eine Person, die auf den Kurs des Luftfahrzeuges oder auf die Sicherheit an Bord Einfluß nehmen kann, ein Luftfahrzeug in seine Gewalt oder unter seine Kontrolle bringt oder die Herrschaft darüber ausübt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
-
-`§ 185 (2) StGB.`  
-Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen (§ 84 Abs. 1) einer größeren Zahl von Menschen zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
-
-### § 186 StGB # Vorsätzliche Gefährdung der Sicherheit der Luftfahrt
-
-`§ 186 (1) StGB.`  
-Wer auf solche Weise, daß dadurch die Sicherheit eines Luftfahrzeuges im Flug gefährdet werden kann,  
-`§ 186 (1) Z 1 StGB.`
-gegen eine an Bord des Luftfahrzeuges befindliche Person Gewalt übt oder ihr mit Gewalt droht,  
-`§ 186 (1) Z 2 StGB.`
-das im Einsatz befindliche Luftfahrzeug beschädigt oder  
-`§ 186 (1) Z 3 StGB.`
-Einrichtungen der Luftfahrt zerstört, beschädigt oder in ihrem Betrieb beeinträchtigt,  
-ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
-
-`§ 186 (2) StGB.`  
-Ebenso ist zu bestrafen,  
-`§ 186 (2) Z 1 StGB.`
-wer ein im Einsatz befindliches Luftfahrzeug zerstört oder derart beschädigt, daß es flugunfähig wird, oder  
-`§ 186 (2) Z 2 StGB.`
-wer durch eine wissentlich unrichtige Mitteilung eine Gefahr für die Sicherheit eines Luftfahrzeuges im Flug herbeiführt.
-
-`§ 186 (3) StGB.`  
-Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen (§ 84 Abs. 1) einer größeren Zahl von Menschen zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
-
-### § 187 StGB # Hinderung der Bekämpfung einer Gemeingefahr
-
-`§ 187 StGB.`  
-Wer eine Maßnahme, die zur Abwendung einer gegenwärtigen Gefahr für Leib oder Leben (§ 89) einer größeren Zahl von Menschen oder für fremdes Eigentum in großem Ausmaß notwendig ist, vereitelt oder erschwert, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.StGB.008](BG.StGB.008.md))*
+`END-OF-DATA-SET`

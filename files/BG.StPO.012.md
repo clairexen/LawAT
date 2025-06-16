@@ -1,263 +1,296 @@
 # BG.StPO.012 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.012.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StPO.011](BG.StPO.011.md))*
+Der Nationalrat hat beschlossen:
+
+----
+## 10. Abschnitt # Erkundigungen und Vernehmungen
+
+### § 151 StPO # Definitionen
+
+`§ 151 StPO.`  
+Im Sinne dieses Gesetzes ist  
+`§ 151 Z 1 StPO.`
+„Erkundigung“ das Verlangen von Auskunft und das Entgegennehmen einer Mitteilung von einer Person,  
+`§ 151 Z 2 StPO.`
+„Vernehmung“ das Befragen von Personen nach förmlicher Information über ihre Stellung und ihre Rechte im Verfahren.
+----
+
+----
+### § 152 StPO # Erkundigungen
+
+`§ 152 (1) StPO.`  
+Erkundigungen dienen der Aufklärung einer Straftat und der Vorbereitung einer Beweisaufnahme; die Bestimmungen über die Vernehmung des Beschuldigten und von Zeugen dürfen durch Erkundigungen bei sonstiger Nichtigkeit nicht umgangen werden.
+
+`§ 152 (2) StPO.`  
+Soweit die Kriminalpolizei nicht verdeckt ermittelt, hat sie bei Erkundigungen auf ihre amtliche Stellung hinzuweisen, wenn diese nicht aus den Umständen offensichtlich ist. Die Auskunft erfolgt freiwillig und darf nicht erzwungen werden, soweit sie nicht auf Grund einer gesetzlichen Verpflichtung zu erteilen ist.
+
+`§ 152 (3) StPO.`  
+Auskünfte und sonstige Umstände, die durch Erkundigungen erlangt wurden und für das Verfahren von Bedeutung sein können, sind in einem Amtsvermerk festzuhalten.
+----
+
+----
+### § 153 StPO # Vernehmungen
+
+`§ 153 (1) StPO.`  
+Vernehmungen dienen der Aufklärung einer Straftat und der Beweisaufnahme.
+
+`§ 153 (2) StPO.`  
+Eine Person, die vernommen werden soll, ist in der Regel schriftlich vorzuladen. Die Ladung muss den Gegenstand des Verfahrens und der Vernehmung sowie den Ort, den Tag und die Stunde ihres Beginns enthalten. Der Beschuldigte und das Opfer sind darin über ihre wesentlichen Rechte im Verfahren (§§ 50 und 70) zu informieren, soweit dies nicht bereits zuvor geschehen ist. Jedermann ist verpflichtet, eine solche Ladung zu befolgen und kann im Fall seines ungerechtfertigten Ausbleibens vorgeführt werden, wenn dies in der Ladung ausdrücklich angedroht wurde.
+
+`§ 153 (3) StPO.`  
+Die Staatsanwaltschaft, in den Fällen der §§ 104, 105 und 107 das Gericht, kann die Vorführung des Beschuldigten zur sofortigen Vernehmung anordnen, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass der Beschuldigte sich andernfalls dem Verfahren entziehen oder Beweismittel beeinträchtigen werde. Wenn eine solche Anordnung wegen Gefahr im Verzug nicht eingeholt werden kann oder wenn der Beschuldigte auf frischer Tat betreten oder unmittelbar danach glaubwürdig der Tatbegehung beschuldigt wird oder mit Gegenständen betreten wird, die auf seine Beteiligung an der Tat hinweisen, kann die Kriminalpolizei ihn von sich aus vorführen.
+
+`§ 153 (4) StPO.`  
+Ist der Aufenthaltsort eines Zeugen oder Beschuldigten außerhalb des Sprengels der zuständigen Staatsanwaltschaft oder des zuständigen Gerichts gelegen, so ist die unmittelbare Vernehmung am Sitz der Staatsanwaltschaft oder des Gerichts, in deren oder dessen Sprengel sich der Zeuge oder der Beschuldigte befindet, unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung durchzuführen, es sei denn, dass es unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder sonst aus besonderen Gründen erforderlich ist, den Zeugen oder Beschuldigten vor die zuständige Staatsanwaltschaft oder vor das zuständige Gericht zu laden.
+----
+
+----
+### § 154 StPO # Zeuge und Wahrheitspflicht
+
+`§ 154 (1) StPO.`  
+Im Sinne dieses Gesetzes ist Zeuge eine vom Beschuldigten verschiedene Person, die zur Aufklärung der Straftat wesentliche oder sonst den Gegenstand des Verfahrens betreffende Tatsachen mittelbar oder unmittelbar wahrgenommen haben könnte und darüber im Verfahren aussagen soll.
+
+`§ 154 (2) StPO.`  
+Zeugen sind verpflichtet, richtig und vollständig auszusagen.
+----
+
+----
+### § 155 StPO # Verbot der Vernehmung als Zeuge
 
-## 4. Abschnitt # Vollzug der Untersuchungshaft
+`§ 155 (1) StPO.`  
+Als Zeugen dürfen bei sonstiger Nichtigkeit nicht vernommen werden:  
+`§ 155 (1) Z 1 StPO.`
+Geistliche über das, was ihnen in der Beichte oder sonst unter dem Siegel geistlicher Amtsverschwiegenheit anvertraut wurde,  
+`§ 155 (1) Z 2 StPO.`
+Beamte (§ 74 Abs. 1 Z 4 bis 4c StGB) über Umstände, die der Amtsverschwiegenheit unterliegen, soweit sie nicht von der Verschwiegenheitspflicht entbunden wurden,  
+`§ 155 (1) Z 3 StPO.`
+Personen, denen Zugang zu klassifizierten Informationen des Nationalrates oder des Bundesrates gewährt wurde, soweit sie gemäß § 18 Abs. 1 des Bundesgesetzes über die Informationsordnung des Nationalrates und des Bundesrates, BGBl. I Nr. 102/2014, zur Verschwiegenheit verpflichtet sind,  
+`§ 155 (1) Z 4 StPO.`
+Personen, die wegen einer psychischen Krankheit, wegen einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit oder aus einem anderen Grund unfähig sind, die Wahrheit anzugeben.
 
-### § 182 StPO # Allgemeines
+`§ 155 (2) StPO.`  
+Eine Verpflichtung zur Verschwiegenheit nach Abs. 1 Z 2 besteht jedenfalls nicht, soweit der Zeuge im Dienste der Strafrechtspflege Wahrnehmungen zum Gegenstand des Verfahrens gemacht hat oder Anzeigepflicht (§ 78) besteht.
+----
 
-`§ 182 (1) StPO.`  
-Zweck der Anhaltung eines Beschuldigten in Untersuchungshaft ist, dem Haftgrund (§ 173 Abs. 2) entgegenzuwirken.
+----
+### § 156 StPO # Aussagebefreiung
 
-`§ 182 (2) StPO.`  
-Das Leben in Untersuchungshaft soll den allgemeinen Lebensverhältnissen soweit wie möglich angeglichen werden. Beschränkungen dürfen verhafteten Beschuldigten nur insoweit auferlegt werden, als dies gesetzlich zulässig und zur Erreichung des Haftzwecks (Abs. 1) oder zur Aufrechterhaltung der Sicherheit und Ordnung in der Justizanstalt notwendig ist.
+`§ 156 (1) StPO.`  
+Von der Pflicht zur Aussage sind befreit:  
+`§ 156 (1) Z 1 StPO.`
+Personen, die im Verfahren gegen einen Angehörigen (§ 72 StGB) aussagen sollen;  
+`§ 156 (1) Z 2 StPO.`
+Besonders schutzbedürftige Opfer (§ 66a), wenn die Parteien Gelegenheit hatten, sich an einer vorausgegangenen kontradiktorischen Vernehmung zu beteiligen (§§ 165, 247).
 
-`§ 182 (3) StPO.`  
-Beim Vollzug der Untersuchungshaft ist insbesondere darauf Bedacht zu nehmen, dass  
-`§ 182 (3) Z 1 StPO.`
-für Beschuldigte die Vermutung der Unschuld gilt,  
-`§ 182 (3) Z 2 StPO.`
-Beschuldigte ausreichend Gelegenheit zur Vorbereitung ihrer Verteidigung haben und  
-`§ 182 (3) Z 3 StPO.`
-schädlichen Folgen des Freiheitsentzuges auf geeignete Weise entgegengewirkt wird.
+`§ 156 (2) StPO.`  
+Nach Abs. 1 Z 1 ist eine erwachsene Person, die als Privatbeteiligte am Verfahren mitwirkt (§ 67), von der Aussage nicht befreit.
 
-`§ 182 (3a) StPO.`  
-Ein Waffengebrauch im Sinne des § 105 Abs. 6 Z 3 StVG ist nur zulässig, wenn der Beschuldigte wegen des Verdachts eines Verbrechens in Untersuchungshaft angehalten wird und auf Grund der Art oder Ausführung der vorgeworfenen Tat, der Persönlichkeit des Beschuldigten oder seines Vorlebens anzunehmen ist, dass er für die Sicherheit des Staates, von Leib und Leben, die sexuelle Integrität oder das Vermögen anderer Personen eine besondere Gefahr darstellt.
+`§ 156 (3) StPO.`  
+Besteht die Befreiung von der Aussage im Verfahren gegen mehrere Beschuldigte nur gegenüber einem von ihnen, so ist der Zeuge hinsichtlich der anderen nur dann befreit, wenn eine Trennung der Aussagen nicht möglich ist. Gleiches gilt, wenn sich der Befreiungsgrund nur auf einen von mehreren Sachverhalten bezieht.
+----
 
-`§ 182 (4) StPO.`  
-Im Übrigen sind, soweit dieses Gesetz im Einzelnen nichts anderes bestimmt, auf den Vollzug der Untersuchungshaft die Bestimmungen des Strafvollzugsgesetzes über den Vollzug von Freiheitsstrafen, deren Strafzeit 18 Monate nicht übersteigt, dem Sinn nach anzuwenden.
+----
+### § 157 StPO # Aussageverweigerung
 
-`§ 182 (5) StPO.`  
-Soweit im Einzelnen nichts anderes bestimmt wird, gelten die Bestimmungen über den Vollzug der Untersuchungshaft für alle Anhaltungen nach diesem Gesetz, die in einer Justizanstalt vollzogen werden.
+`§ 157 (1) StPO.`  
+Zur Verweigerung der Aussage sind berechtigt:  
+`§ 157 (1) Z 1 StPO.`
+Personen, soweit sie ansonsten sich oder einen Angehörigen (§ 156 Abs. 1 Z 1) der Gefahr strafrechtlicher Verfolgung oder im Zusammenhang mit einem gegen sie geführten Strafverfahren der Gefahr aussetzen würden, sich über ihre bisherige Aussage hinaus selbst zu belasten,  
+`§ 157 (1) Z 2 StPO.`
+Verteidiger, Rechtsanwälte, Patentanwälte, Verfahrensanwälte in Untersuchungsausschüssen des Nationalrats, Notare und Wirtschaftstreuhänder über das, was ihnen in dieser Eigenschaft bekannt geworden ist,  
+`§ 157 (1) Z 3 StPO.`
+Fachärzte für Psychiatrie, Psychotherapeuten, Psychologen, Bewährungshelfer, eingetragene Mediatoren nach dem Zivilrechts-Mediations-Gesetz, BGBl. I Nr. 29/2003, und Mitarbeiter anerkannter Einrichtungen zur psychosozialen Beratung und Betreuung über das, was ihnen in dieser Eigenschaft bekannt geworden ist,  
+`§ 157 (1) Z 4 StPO.`
+Medieninhaber (Herausgeber), Medienmitarbeiter und Arbeitnehmer eines Medienunternehmens oder Mediendienstes über Fragen, welche die Person des Verfassers, Einsenders oder Gewährsmannes von Beiträgen und Unterlagen betreffen oder die sich auf Mitteilungen beziehen, die ihnen im Hinblick auf ihre Tätigkeit gemacht wurden,  
+`§ 157 (1) Z 5 StPO.`
+Wahlberechtigte darüber, wie sie ein gesetzlich für geheim erklärtes Wahl- oder Stimmrecht ausgeübt haben.
 
-### § 183 StPO # Haftort
+`§ 157 (2) StPO.`  
+Das Recht der in Abs. 1 Z 2 bis 5 angeführten Personen, die Aussage zu verweigern, darf bei sonstiger Nichtigkeit nicht umgangen werden, insbesondere nicht durch Sicherstellung und Beschlagnahme von Unterlagen oder auf Datenträgern gespeicherten Informationen *(Anm. 1)* oder durch Vernehmung der Hilfskräfte oder der Personen, die zur Ausbildung an der berufsmäßigen Tätigkeit nach Abs. 1 Z 2 bis 4 teilnehmen. Dies gilt ebenso für Unterlagen und Informationen, die sich in der Verfügungsmacht des Beschuldigten oder eines Mitbeschuldigten befinden und zum Zwecke der Beratung oder Verteidigung des Beschuldigten durch eine in Abs. 1 Z 2 genannte Person von dieser oder vom Beschuldigten erstellt wurden.
 
-`§ 183 (1) StPO.`  
-Beschuldigte sind in der Justizanstalt des für die Entscheidung über die Verhängung und Fortsetzung der Untersuchungshaft zuständigen Gerichts anzuhalten. Soweit dies – insbesondere im Interesse einer wirtschaftlichen Führung der Justizanstalten – notwendig ist, können weibliche Beschuldigte in der Justizanstalt eines benachbarten Gerichts angehalten werden.
+*(________________*
 
-`§ 183 (2) StPO.`  
-Wenn dies zur Erreichung des Haftzwecks oder zur Wahrung der in § 182 enthaltenen Grundsätze notwendig ist, hat das Bundesministerium für Justiz die Zuständigkeit einer anderen Justizanstalt anzuordnen. Eine solche Anordnung kann mit Zustimmung des Beschuldigten auch zur Vermeidung eines Überbelags getroffen werden.
+*Anm. 1: Art. 1 Z 57 der Novelle BGBl. I Nr. 157/2024 lautet: „§ 157 Abs. 2 wird nach der Wendung „oder auf Datenträgern gespeicherte Informationen“ die Wendung „(§ 111 Abs. 2), durch Beschlagnahme von Datenträgern und Daten“ eingefügt.“. Die Anweisung konnte nicht durchgeführt werden.)*
+----
 
-`§ 183 (3) StPO.`  
-Ab Beginn des Hauptverfahrens (§ 210 Abs. 2) kann das Bundesministerium für Justiz die Zuständigkeit einer anderen als der nach Abs. 1 bestimmten Justizanstalt innerhalb des Sprengels des zuständigen Oberlandesgerichts anordnen, wenn dies der besseren Auslastung der Vollzugseinrichtungen dient und durch die Überstellung weder eine Beeinträchtigung der Interessen des Angeklagten noch Nachteile für das Strafverfahren zu befürchten sind.
+----
+### § 158 StPO
 
-`§ 183 (4) StPO.`  
-Vor einer Änderung des Haftortes sind der Beschuldigte, Staatsanwaltschaft und Gericht zu hören; nach der Überstellung sind Staatsanwaltschaft, Gericht und der Verteidiger durch die nunmehr zuständige Justizanstalt unverzüglich zu verständigen.
+`§ 158 (1) StPO.`  
+Die Beantwortung einzelner Fragen können verweigern:  
+`§ 158 (1) Z 1 StPO.`
+Personen, soweit sie ansonsten sich oder einen Angehörigen (§ 156 Abs. 1 Z 1) der Schande oder der Gefahr eines unmittelbaren und bedeutenden vermögensrechtlichen Nachteils aussetzen würden,  
+`§ 158 (1) Z 2 StPO.`
+Personen, die durch die dem Beschuldigten zur Last gelegte Straftat in ihrer Geschlechtssphäre verletzt wurden oder verletzt worden sein könnten, soweit sie Einzelheiten der Tat zu offenbaren hätten, deren Schilderung sie für unzumutbar halten,  
+`§ 158 (1) Z 3 StPO.`
+Personen, soweit sie Umstände aus ihrem höchstpersönlichen Lebensbereich oder dem höchstpersönlichen Lebensbereich einer anderen Person zu offenbaren hätten.
 
-`§ 183 (5) StPO.`  
-Nach Rechtswirksamkeit der Anklage ist der Angeklagte, soweit die Zuständigkeit eines anderen Landesgerichts begründet wird, unverzüglich in die Justizanstalt des nunmehr zuständigen Landesgerichts zu überstellen.
+`§ 158 (2) StPO.`  
+Die in Abs. 1 angeführten Personen können jedoch trotz Weigerung zur Aussage verpflichtet werden, wenn dies wegen der besonderen Bedeutung ihrer Aussage für den Gegenstand des Verfahrens unerlässlich ist.
+----
 
-### § 184 StPO # Ausführungen
+----
+### § 159 StPO # Information und Nichtigkeit
 
-`§ 184 StPO.`  
-Für Vernehmungen, Ausführungen und Überstellungen von Beschuldigten gelten die Bestimmungen der §§ 97 und 98 StVG sinngemäß mit der Maßgabe, dass  
-`§ 184 Z 1 StPO.`
-Vernehmungen auch dann in der Anstalt durchzuführen sind, wenn sie nicht vom Gericht oder von der Staatsanwaltschaft durchgeführt werden,  
-`§ 184 Z 2 StPO.`
-Ausführungen auf Ersuchen der Kriminalpolizei oder anderer Behörden (§ 98 Abs. 1 StVG) nur auf Anordnung oder mit Zustimmung der Staatsanwaltschaft und nur zum Zweck der Teilnahme an Verhandlungen, Tatrekonstruktionen und anderen kontradiktorischen Einvernahmen, an Gegenüberstellungen, Augenscheinen sowie sonstigen Befundaufnahmen zulässig sind.
+`§ 159 (1) StPO.`  
+Über ihre Befreiung von der Aussagepflicht oder ihr Recht auf Verweigerung der gesamten oder eines Teiles der Aussage sind Zeugen vor Beginn ihrer Vernehmung zu informieren. Werden Anhaltspunkte für ein solches Recht erst während der Vernehmung bekannt, so ist die Information zu diesem Zeitpunkt vorzunehmen.
 
-### § 185 StPO # Getrennte Anhaltung
+`§ 159 (2) StPO.`  
+Ein Zeuge, der einen Befreiungs- oder Verweigerungsgrund in Anspruch nehmen will, hat diesen, soweit er nicht offenkundig ist, glaubhaft zu machen. Darüber abgegebene Erklärungen sind zu protokollieren.
 
-`§ 185 (1) StPO.`  
-Beschuldigte sollen nicht in Gemeinschaft mit Strafgefangenen untergebracht werden. Beschuldigte, die sich das erste Mal in Haft befinden oder die nach § 183 Abs. 3 in einer anderen Justizanstalt angehalten werden, sind jedenfalls getrennt von Strafgefangenen anzuhalten. Bei der Bewegung im Freien, bei der Arbeit, beim Gottesdienst und bei Veranstaltungen sowie bei der Krankenbetreuung kann jedoch von einer Trennung abgesehen werden, soweit eine solche nach den zur Verfügung stehenden Einrichtungen nicht möglich ist.
+`§ 159 (3) StPO.`  
+Hat ein Zeuge auf seine Befreiung von der Aussagepflicht nach § 156 Abs. 1 Z 1 nicht ausdrücklich verzichtet, so ist seine gesamte Aussage nichtig. Wurde ein Zeuge, der ein Recht auf Verweigerung der Aussage nach § 157 Abs. 1 Z 2 bis 5 hat, darüber nicht rechtzeitig informiert, so ist jener Teil seiner Aussage nichtig, auf den sich das Verweigerungsrecht bezieht. Das aufgenommene Protokoll ist insoweit zu vernichten.
+----
 
-`§ 185 (2) StPO.`  
-Soweit das zur Erreichung der Haftzwecke erforderlich ist, sind der Beteiligung an derselben Straftat verdächtige Beschuldigte so anzuhalten, dass sie nicht miteinander verkehren können. Solange die Staatsanwaltschaft hierüber keine Entscheidung getroffen hat, sind solche Beschuldigte jedenfalls getrennt anzuhalten.
+----
+### § 160 StPO # Durchführung der Vernehmung
 
-`§ 185 (3) StPO.`  
-Weibliche Beschuldigte sind in jedem Fall von männlichen Beschuldigten und männlichen Strafgefangenen getrennt unterzubringen.
+`§ 160 (1) StPO.`  
+In der Regel ist jeder Zeuge einzeln und in Abwesenheit der Verfahrensbeteiligten und anderer Zeugen zu vernehmen. Personen, die durch Krankheit oder Gebrechlichkeit oder aus anderen berücksichtigungswürdigen Umständen verhindert sind, eine Ladung zu befolgen, können in ihrer Wohnung oder an ihrem sonstigen Aufenthaltsort gehört werden.
 
-### § 186 StPO # Kleidung und Bedarfsgegenstände
+`§ 160 (2) StPO.`  
+Auf Verlangen des Zeugen ist einer Person seines Vertrauens die Anwesenheit bei der Vernehmung zu gestatten. Auf dieses Recht ist in der Ladung hinzuweisen. Als Vertrauensperson kann ausgeschlossen werden, wer der Mitwirkung an der Straftat verdächtig ist, wer als Zeuge vernommen wurde oder werden soll und wer sonst am Verfahren beteiligt ist oder besorgen lässt, dass seine Anwesenheit den Zeugen an einer freien und vollständigen Aussage beeinflussen könnte. Vertrauenspersonen sind zur Verschwiegenheit über ihre Wahrnehmungen im Zuge der Vernehmung verpflichtet (§ 301 Abs. 2 StGB).
 
-`§ 186 (1) StPO.`  
-Angehaltene Beschuldigte sind unter Achtung ihrer Persönlichkeit und ihres Ehrgefühls sowie mit möglichster Schonung ihrer Person zu behandeln. Sie sind berechtigt, eigene Kleidung zu tragen, soweit die regelmäßige Reinigung in der Anstalt möglich ist oder außerhalb der Anstalt durch deren Vermittlung besorgt werden kann. Verfügt ein angehaltener Beschuldigter über keine geeignete Kleidung, so ist ihm eine solche für Verhandlungen vor Gericht, für Ausführungen und für Überstellungen mit öffentlichen Verkehrsmitteln zur Verfügung zu stellen.
+`§ 160 (3) StPO.`  
+Der Vernehmung einer Person, die psychisch krank oder vergleichbar in ihrer Entscheidungsfähigkeit beschränkt ist oder die das vierzehnte Lebensjahr noch nicht zurückgelegt hat, ist jedenfalls eine Person ihres Vertrauens beizuziehen.
+----
 
-`§ 186 (2) StPO.`  
-Angehaltene Beschuldigte sind berechtigt, sich auf eigene Kosten Bedarfsgegenstände, Dienstleistungen und andere Annehmlichkeiten zu verschaffen, soweit dies mit dem Haftzweck vereinbar ist und weder die Sicherheit gefährdet noch die Ordnung in der Anstalt erheblich beeinträchtigt oder Mithäftlinge belästigt.
+----
+### § 161 StPO
 
-### § 187 StPO # Arbeit und Arbeitsvergütung
+`§ 161 (1) StPO.`  
+Der Zeuge ist vor Beginn der Vernehmung zu ermahnen, richtig und vollständig auszusagen. Sodann ist er über Vor- und Familienname, Geburtsort und -datum, Beruf und Wohnort oder eine sonstige zur Ladung geeignete Anschrift sowie über sein Verhältnis zum Beschuldigten zu befragen. Im Falle der Anwesenheit anderer Personen ist darauf zu achten, dass die persönlichen Verhältnisse des Zeugen möglichst nicht öffentlich bekannt werden.
 
-`§ 187 (1) StPO.`  
-Angehaltene Beschuldigte sind zur Arbeit nicht verpflichtet. Ein arbeitsfähiger Beschuldigter kann jedoch unter den für Strafgefangene geltenden Bedingungen (§§ 44 bis 55 StVG) arbeiten, wenn er sich dazu bereit erklärt und Nachteile für das Verfahren nicht zu befürchten sind.
+`§ 161 (2) StPO.`  
+Danach ist der Zeuge um eine zusammenhängende Darstellung seiner Wahrnehmungen zu ersuchen. Sodann sind allfällige Unklarheiten oder Widersprüche aufzuklären.
 
-`§ 187 (2) StPO.`  
-Die Arbeitsvergütung ist dem Beschuldigten nach Abzug des Vollzugskostenbeitrages (§ 32 Abs. 2 und 3 StVG) zur Gänze als Hausgeld gutzuschreiben. Im Fall eines Freispruchs, des Rücktritts von Verfolgung oder einer Einstellung des Strafverfahrens ist ihm der einbehaltene Vollzugskostenbeitrag auszuzahlen.
+`§ 161 (3) StPO.`  
+Fragen, mit denen dem Zeugen Umstände vorgehalten werden, die erst durch seine Antwort festgestellt werden sollen, dürfen nur dann gestellt werden, wenn dies zum Verständnis des Zusammenhanges erforderlich ist; solche Fragen und die darauf gegebenen Antworten sind wörtlich zu protokollieren. Fragen nach allfälligen strafgerichtlichen Verfahren gegen den Zeugen und nach deren Ausgang sowie Fragen nach Umständen aus dem höchstpersönlichen Lebensbereich des Zeugen dürfen nicht gestellt werden, es sei denn, dass dies nach den besonderen Umständen des Falles unerlässlich ist.
+----
 
-`§ 187 (3) StPO.`  
-*(Anm.: aufgehoben durch BGBl. I Nr. 111/2010)*
+----
+### § 162 StPO # Anonyme Aussage
 
-`§ 187 (4) StPO.`  
-Angehaltene Beschuldigte dürfen sich auf ihre Kosten selbst beschäftigen, soweit dies mit dem Haftzweck vereinbar ist und die Ordnung in der Anstalt nicht stört. Aus dieser Beschäftigung erzielte Einkünfte sind dem Hausgeld gutzuschreiben.
+`§ 162 StPO.`  
+Ist auf Grund bestimmter Tatsachen zu befürchten, dass der Zeuge sich oder einen Dritten durch die Bekanntgabe des Namens und anderer Angaben zur Person (§ 161 Abs. 1) oder durch Beantwortung von Fragen, die Rückschlüsse darauf zulassen, einer ernsten Gefahr für Leben, Gesundheit, körperliche Unversehrtheit oder Freiheit aussetzen würde, so kann ihm gestattet werden, solche Fragen nicht zu beantworten. In diesem Fall ist auch zulässig, dass der Zeuge seine äußere Erscheinung derart verändert, dass er nicht wieder erkannt werden kann. Es ist ihm jedoch nicht gestattet, sein Gesicht derart zu verhüllen, dass sein Mienenspiel nicht soweit wahrgenommen werden kann, als dies für die Beurteilung der Glaubwürdigkeit seiner Aussage unerlässlich ist.
+----
 
-### § 188 StPO # Verkehr mit der Außenwelt
+----
+### § 163 StPO # Gegenüberstellung
 
-`§ 188 (1) StPO.`  
-Angehaltene Beschuldigte dürfen Besuche innerhalb der festgesetzten Besuchszeiten so oft und in dem zeitlichen Ausmaß empfangen, als die Abwicklung ohne unvertretbaren Aufwand gewährleistet werden kann. Im Übrigen gelten für den Empfang von Besuchen die §§ 85 bis 87 und 93 bis 96 StVG sinngemäß mit folgenden Maßgaben:  
-`§ 188 (1) Z 1 StPO.`
-Beschuldigten darf nicht verwehrt werden, wenigstens zweimal in jeder Woche einen Besuch in der Dauer von mindestens einer halben Stunde zu empfangen,  
-`§ 188 (1) Z 2 StPO.`
-auf den Inhalt des zwischen einem Beschuldigten und einem Besucher geführten Gesprächs hat sich die Überwachung nur zu erstrecken, wenn dies die Staatsanwaltschaft zur Sicherung des Haftzwecks oder der Anstaltsleiter zur Aufrechterhaltung der Sicherheit in der Anstalt anordnet,  
-`§ 188 (1) Z 3 StPO.`
-der Besuch bestimmter Personen, von denen eine Gefährdung des Zweckes der Untersuchungshaft oder der Sicherheit der Anstalt zu befürchten ist, kann untersagt oder abgebrochen werden.
+`§ 163 (1) StPO.`  
+Einem Zeugen können mehrere Personen – offen oder verdeckt – gegenübergestellt werden, unter denen sich eine befindet, die verdächtig ist. Zuvor ist der Zeuge aufzufordern, zur Unterscheidung erforderliche Kennzeichen des Verdächtigen zu beschreiben; dieser Beschreibung haben die gegenübergestellten Personen möglichst ähnlich zu sein. Sodann ist der Zeuge zur Angabe darüber aufzufordern, ob er eine Person erkenne und auf Grund welcher Umstände dies der Fall sei. Dieser Vorgang ist zu protokollieren und kann durch geeignete bildgebende Verfahren unterstützt werden.
 
-`§ 188 (2) StPO.`  
-Angehaltene Beschuldigte sind berechtigt, auf eigene Kosten mit anderen Personen und Stellen schriftlich zu verkehren und zu telefonieren, es sei denn, dass durch den außerordentlichen Umfang des Brief- oder Telefonverkehrs die Überwachung beeinträchtigt wird. In diesem Fall sind diejenigen Beschränkungen anzuordnen, die für eine einwandfreie Überwachung notwendig sind. Schreiben, von denen eine Beeinträchtigung des Haftzweckes zu befürchten ist, sind zurückzuhalten, soweit sich nicht aus den Bestimmungen der §§ 90a bis 90b und 96a des Strafvollzugsgesetzes über den schriftlichen Verkehr mit Behörden und Rechtsbeiständen etwas anderes ergibt. Schreiben angehaltener Beschuldigter an einen inländischen allgemeinen Vertretungskörper, ein inländisches Gericht, eine andere inländische Behörde oder an Organe der Europäischen Union sowie an den Europäischen Gerichtshof für Menschenrechte dürfen in keinem Fall zurückgehalten werden. Für die Überwachung des Inhalts von Telefongesprächen gilt Abs. 1 Z 2.
+`§ 163 (2) StPO.`  
+Gleiches gilt bei der Einsicht in Lichtbilder und der Anhörung von Stimmproben. Auch wenn der Zeuge Gegenstände wieder erkennen soll, die als Beweismittel von Bedeutung sind, ist er zunächst aufzufordern, diesen Gegenstand und gegebenenfalls seine Unterscheidungsmerkmale zu beschreiben.
 
-`§ 188 (3) StPO.`  
-Für die Überwachung des mündlichen und schriftlichen Verkehrs des angehaltenen Beschuldigten mit seinem Verteidiger gilt § 59 Abs. 3.
+`§ 163 (3) StPO.`  
+Im Übrigen ist eine Konfrontation des Beschuldigten oder eines Zeugen mit anderen Zeugen oder Beschuldigten zulässig, wenn die jeweiligen Aussagen in erheblichen Umständen von einander abweichen und anzunehmen ist, dass die Aufklärung der Widersprüche dadurch gefördert werden kann. Die einander gegenüber gestellten Personen sind über jeden einzelnen Umstand ihrer von einander abweichenden oder einander widersprechenden Aussagen besonders zu vernehmen; die beiderseitigen Antworten sind zu protokollieren.
 
-### § 189 StPO # Zuständigkeit für Entscheidungen
+`§ 163 (4) StPO.`  
+Sofern der Beschuldigte zur Gegenüberstellung beigezogen wird, ist auch seinem Verteidiger Gelegenheit zur Teilnahme zu geben.
+----
 
-`§ 189 (1) StPO.`  
-Die Entscheidung darüber, mit welchen Personen angehaltene Beschuldigte schriftlich und telefonisch verkehren und welche Besuche sie empfangen dürfen, die Überwachung ihres Brief- und Telefonverkehrs und ihrer Besuche sowie alle übrigen Anordnungen und Entscheidungen, die sich auf den Verkehr der angehaltenen Beschuldigten mit der Außenwelt (§§ 86 bis 100 des Strafvollzugsgesetzes) beziehen, stehen, mit Ausnahme der Überwachung der Paketsendungen, im Ermittlungsverfahren der Staatsanwaltschaft, im Hauptverfahren dem Gericht zu. Von der Überwachung des Brief- und Telefonverkehrs darf nur insoweit abgesehen werden, als davon keine Beeinträchtigung des Haftzweckes zu befürchten ist.
+----
+### § 164 StPO # Vernehmung des Beschuldigten
 
-`§ 189 (2) StPO.`  
-Die Entscheidungen nach § 16 Abs. 2 Z 4 und 5 des Strafvollzugsgesetzes stehen dem für die Entscheidung über die Verhängung und Fortsetzung der Untersuchungshaft zuständigen Gericht zu.
+`§ 164 (1) StPO.`  
+Vor Beginn der Vernehmung ist zu prüfen, ob Übersetzungshilfe gemäß § 56 erforderlich ist. Anschließend ist dem Beschuldigten mitzuteilen, welcher Tat er verdächtig ist. Sodann ist er im Sinn des Abs. 2 und darüber zu informieren, dass er berechtigt sei, sich zur Sache zu äußern oder nicht auszusagen und sich zuvor mit einem Verteidiger zu beraten, soweit dieser Kontakt nicht gemäß § 59 Abs. 2 beschränkt werden kann. Der Beschuldigte ist auch darauf aufmerksam zu machen, dass seine Aussage seiner Verteidigung dienen, aber auch als Beweis gegen ihn Verwendung finden könne.
 
-`§ 189 (3) StPO.`  
-Im Übrigen stehen alle Anordnungen und Entscheidungen hinsichtlich der Anhaltung in Untersuchungshaft dem Anstaltsleiter oder dem von diesem dazu bestellten Vollzugsbediensteten zu. Vor jeder Entscheidung nach den §§ 185 Abs. 2, 186 Abs. 2 und 187 Abs. 1 ist im Ermittlungsverfahren die Staatsanwaltschaft, nach Einbringung der Anklage das Gericht zu hören. Ordnungswidrigkeiten, die von angehaltenen Beschuldigten begangen wurden, sind der Staatsanwaltschaft und dem Gericht mitzuteilen. Das gleiche gilt von Vorfällen, von denen eine Beeinträchtigung der Haftzwecke zu befürchten ist.
+`§ 164 (2) StPO.`  
+Der Beschuldigte hat das Recht, seiner Vernehmung einen Verteidiger beizuziehen; § 59 Abs. 1 gilt sinngemäß. Nimmt er dieses Recht in Anspruch, so ist die Vernehmung bis zum Eintreffen des Verteidigers aufzuschieben. Der Verteidiger darf sich an der Vernehmung selbst auf keine Weise beteiligen, jedoch nach deren Abschluss oder nach thematisch zusammenhängenden Abschnitten Fragen an den Beschuldigten richten und Erklärungen abgeben. Über die Beantwortung einzelner Fragen darf sich jedoch der Beschuldigte nicht mit dem Verteidiger beraten. Von der Beiziehung eines Verteidigers darf nur abgesehen werden, soweit dies aufgrund besonderer Umstände unbedingt erforderlich erscheint, um durch eine sofortige Vernehmung oder andere unverzügliche Ermittlungen eine erhebliche Gefahr für die Ermittlungen oder eine Beeinträchtigung von Beweismitteln abzuwenden. In diesem Fall ist dem Beschuldigten sogleich oder innerhalb von 24 Stunden eine Anordnung der Staatsanwaltschaft oder eine schriftliche Begründung der Kriminalpolizei für diese Beschränkung zuzustellen und nach Möglichkeit eine Ton- oder Bildaufnahme (§ 97) anzufertigen.
 
-## 3. TEIL # Beendigung des Ermittlungsverfahrens und Absehen von der Einleitung eines Ermittlungsverfahrens # 10. Hauptstück # Einstellung, Abbrechung und Fortführung des Ermittlungsverfahrens
+`§ 164 (3) StPO.`  
+Der Beschuldigte ist zunächst über seine persönlichen Verhältnisse zu befragen. Dann ist ihm Gelegenheit zu geben, sich in einer zusammenhängenden Darstellung zu dem gegen ihn erhobenen Tatvorwurf zu äußern. Zu schwierigen Fragen, die besondere Sachkunde voraussetzen oder eine Beurteilung durch einen Sachverständigen erfordern, ist ihm zu gestatten, sich binnen angemessener Frist ergänzend schriftlich zu äußern.
 
-### § 190 StPO # Einstellung des Ermittlungsverfahrens
+`§ 164 (4) StPO.`  
+Es dürfen weder Versprechungen oder Vorspiegelungen noch Drohungen oder Zwangsmittel angewendet werden, um den Beschuldigten zu einem Geständnis oder zu anderen Angaben zu bewegen. Die Freiheit seiner Willensentschließung und seiner Willensbetätigung sowie sein Erinnerungsvermögen und seine Einsichtsfähigkeit dürfen durch keinerlei Maßnahmen oder gar Eingriffe in seine körperliche Integrität beeinträchtigt werden. Dem Beschuldigten gestellte Fragen müssen deutlich und klar verständlich und dürfen nicht unbestimmt, mehrdeutig oder verfänglich sein. Fragen, mit denen ihm Umstände vorgehalten werden, die erst durch seine Antwort festgestellt werden sollen, dürfen nur dann gestellt werden, wenn dies zum Verständnis des Zusammenhanges erforderlich ist; solche Fragen und die darauf gegebenen Antworten sind wörtlich zu protokollieren. Fragen, die eine vom Beschuldigten nicht zugestandene Tatsache als bereits zugestanden behandeln, sind nicht zulässig.
+----
 
-`§ 190 StPO.`  
-Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen und das Ermittlungsverfahren einzustellen, soweit und sobald sich ergibt, dass die dem Ermittlungsverfahren zu Grunde liegende Tat nicht mit gerichtlicher Strafe bedroht ist, die weitere Verfolgung des Beschuldigten sonst aus rechtlichen Gründen unzulässig wäre oder kein tatsächlicher Grund zu dessen weiterer Verfolgung besteht.
+----
+### § 165 StPO # Kontradiktorische Vernehmung des Beschuldigten oder eines Zeugen
 
-### § 191 StPO # Einstellung wegen Geringfügigkeit
+`§ 165 (1) StPO.`  
+Eine kontradiktorische Vernehmung sowie die Ton- oder Bildaufnahme einer solchen Vernehmung des Beschuldigten oder eines Zeugen ist zulässig, wenn zu besorgen ist, dass die Vernehmung in einer Hauptverhandlung aus tatsächlichen oder rechtlichen Gründen nicht möglich sein werde.
 
-`§ 191 (1) StPO.`  
-Von der Verfolgung einer Straftat, die nur mit Geldstrafe, mit einer Freiheitsstrafe bedroht ist, deren Höchstmaß drei Jahre nicht übersteigt, oder mit einer solchen Freiheitsstrafe und Geldstrafe hat die Staatsanwaltschaft abzusehen und das Ermittlungsverfahren einzustellen, wenn  
-`§ 191 (1) Z 1 StPO.`
-in Abwägung der Schuld, der Folgen der Tat und des Verhaltens des Beschuldigten nach der Tat, insbesondere im Hinblick auf eine allfällige Schadensgutmachung, sowie weiterer Umstände, die auf die Strafbemessung Einfluss hätten, der Störwert der Tat als gering anzusehen wäre und  
-`§ 191 (1) Z 2 StPO.`
-eine Bestrafung oder ein Vorgehen nach dem 11. Hauptstück nicht geboten erscheint, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten oder der Begehung strafbarer Handlungen durch andere entgegen zu wirken.
+`§ 165 (2) StPO.`  
+Die kontradiktorische Vernehmung hat das Gericht auf Antrag der Staatsanwaltschaft in sinngemäßer Anwendung der Bestimmungen der §§ 249 und 250 durchzuführen (§ 104). Das Gericht hat der Staatsanwaltschaft, dem Beschuldigten, dem Opfer, dem Privatbeteiligten und deren Vertretern Gelegenheit zu geben, sich an der Vernehmung zu beteiligen und Fragen zu stellen.
 
-`§ 191 (2) StPO.`  
-Nach Einbringen der Anklage, im Verfahren vor dem Landesgericht als Geschworenen- oder Schöffengericht nach Rechtswirksamkeit der Anklageschrift wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht unter denselben Voraussetzungen (Abs. 1) das Verfahren bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen. § 209 Abs. 2 erster Satz gilt sinngemäß.
+`§ 165 (3) StPO.`  
+Bei der Vernehmung eines besonders schutzbedürftigen Opfers (§ 66a) oder sonst eines Zeugen, auf den die in § 66a erwähnten Kriterien zutreffen, oder sonst im Interesse der Wahrheitsfindung ist auf Antrag der Staatsanwaltschaft oder von Amts wegen die Gelegenheit zur Beteiligung derart zu beschränken, dass die Beteiligten des Verfahrens (Abs. 2) und ihre Vertreter die Vernehmung unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung mitverfolgen und ihr Fragerecht ausüben können, ohne bei der Befragung anwesend zu sein. Insbesondere beim Vorliegen besonderer Schutzbedürftigkeit kann ein Sachverständiger mit der Befragung beauftragt werden. In jedem Fall ist dafür Sorge zu tragen, dass eine Begegnung des Zeugen mit dem Beschuldigten und anderen Verfahrensbeteiligten möglichst unterbleibt.
 
-### § 192 StPO # Einstellung bei mehreren Straftaten
+`§ 165 (4) StPO.`  
+Einen minderjährigen Zeugen, der durch die dem Beschuldigten zur Last gelegte Straftat in seiner Geschlechtssphäre verletzt worden sein könnte, hat das Gericht in jedem Fall auf die in Abs. 3 beschriebene Art und Weise zu vernehmen, die übrigen besonders schutzbedürftigen Opfer (§ 66a), die in § 156 Abs. 1 Z 1 erwähnten Zeugen sowie Zeugen, auf die die in § 66a Abs. 1 erwähnten Kriterien zutreffen, über ihren Antrag oder jenen der Staatsanwaltschaft.
 
-`§ 192 (1) StPO.`  
-Von der Verfolgung einzelner Straftaten kann die Staatsanwaltschaft endgültig oder unter Vorbehalt späterer Verfolgung absehen und das Ermittlungsverfahren insoweit einstellen, wenn dem Beschuldigten mehrere Straftaten zur Last liegen und  
-`§ 192 (1) Z 1 StPO.`
-dies voraussichtlich weder auf die Strafen oder vorbeugenden Maßnahmen, auf die mit der Verurteilung verbundenen Rechtsfolgen noch auf diversionelle Maßnahmen wesentlichen Einfluss hat oder  
-`§ 192 (1) Z 1a StPO.`
-die Ermittlungen zur Aufklärung des Verdachts jener Straftaten, deren Nachweis im Fall gemeinsamer Führung keinen Einfluss auf den anzuwendenden Strafrahmen hätte, mit einem beträchtlichen Aufwand verbunden wären und die Erledigung in der Hauptsache verzögern würden, oder  
-`§ 192 (1) Z 2 StPO.`
-der Beschuldigte schon im Ausland für die ihm zur Last liegende Straftat bestraft oder dort nach Diversion außer Verfolgung gesetzt worden ist und nicht anzunehmen ist, dass das inländische Gericht eine strengere Strafe verhängen werde oder er wegen Begehung anderer strafbarer Handlungen an einen anderen Staat ausgeliefert wird und die im Inland zu erwartenden Strafen oder vorbeugenden Maßnahmen gegenüber jenen, auf die voraussichtlich im Ausland erkannt werden wird, nicht ins Gewicht fallen.
+`§ 165 (5) StPO.`  
+Vor der Vernehmung hat das Gericht den Zeugen überdies darüber zu informieren, dass das Protokoll in der Hauptverhandlung verlesen und Ton- oder Bildaufnahmen der Vernehmung vorgeführt werden können, auch wenn er im weiteren Verfahren die Aussage verweigern sollte. Soweit ein Sachverständiger mit der Durchführung der Befragung beauftragt wurde (Abs. 3), obliegt diesem die Vornahme dieser Information und jener nach § 161 Abs. 1. Auf das Alter und den Zustand des Zeugen ist dabei Rücksicht zu nehmen. Die Informationen und darüber abgegebene Erklärungen sind zu protokollieren.
 
-`§ 192 (2) StPO.`  
-Eine nach Abs. 1 vorbehaltene Verfolgung kann innerhalb dreier Monate nach rechtskräftigem Abschluss des inländischen oder innerhalb eines Jahres nach rechtskräftigem Abschluss des ausländischen Strafverfahrens wieder aufgenommen werden. Ein abermaliger Vorbehalt wegen einzelner Straftaten ist sodann unzulässig.
+`§ 165 (5a) StPO.`  
+Erfolgt die Vernehmung unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung, so ist die Aufnahme in jedem Fall unverzüglich in Vollschrift zu übertragen und als Protokoll zum Akt zu nehmen. Im Fall einer Vernehmung eines Zeugen, der durch die dem Beschuldigten zur Last gelegte Straftat in seiner Geschlechtssphäre verletzt worden sein könnte, ist die Aufnahme durch das Gericht (§ 31 Abs. 1) zu verwahren und nach Einbringen der Anklage dem zuständigen Gericht zu übermitteln. Entgegen § 52 Abs. 1 besteht in diesem Fall kein Recht auf Ausfolgung einer Kopie.
 
-### § 193 StPO # Fortführung des Verfahrens
+`§ 165 (6) StPO.`  
+Im Übrigen sind die Bestimmungen dieses Abschnitts sinngemäß anzuwenden.
+----
 
-`§ 193 (1) StPO.`  
-Nach der Einstellung des Verfahrens sind weitere Ermittlungen gegen den Beschuldigten zu unterlassen; erforderlichenfalls hat die Staatsanwaltschaft seine Freilassung anzuordnen. Sofern jedoch für eine Entscheidung über die Fortführung des Verfahrens bestimmte Ermittlungen oder Beweisaufnahmen erforderlich sind, kann die Staatsanwaltschaft solche im Einzelnen anordnen oder durchführen.
+----
+### § 166 StPO # Beweisverbot
 
-`§ 193 (2) StPO.`  
-Die Fortführung eines nach den §§ 190 oder 191 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, solange die Strafbarkeit der Tat nicht verjährt ist und wenn  
-`§ 193 (2) Z 1 StPO.`
-der Beschuldigte wegen dieser Tat nicht vernommen (§§ 164, 165) und kein Zwang gegen ihn ausgeübt wurde oder  
-`§ 193 (2) Z 2 StPO.`
-neue Tatsachen oder Beweismittel entstehen oder bekannt werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, die Bestrafung des Beschuldigten oder ein Vorgehen nach dem 11. Hauptstück zu begründen.
+`§ 166 (1) StPO.`  
+Zum Nachteil eines Beschuldigten – außer gegen eine Person, die im Zusammenhang mit einer Vernehmung einer Rechtsverletzung beschuldigt ist – dürfen seine Aussagen sowie jene von Zeugen und Mitbeschuldigten nicht als Beweis verwendet werden, soweit sie:  
+`§ 166 (1) Z 1 StPO.`
+unter Folter (Art. 7 des Internationalen Pakts über bürgerliche und politische Rechte, BGBl. Nr. 591/1978, Art. 3 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, und Art. 1 Abs. 1 sowie 15 des Übereinkommens gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung, BGBl. Nr. 492/1987) zustande gekommen sind, oder  
+`§ 166 (1) Z 2 StPO.`
+sonst durch unerlaubte Einwirkung auf die Freiheit der Willensentschließung oder Willensbetätigung oder durch unzulässige Vernehmungsmethoden, soweit sie fundamentale Verfahrensgrundsätze verletzen, gewonnen wurden und ihr Ausschluss zur Wiedergutmachung dieser Verletzung unerlässlich ist.
 
-`§ 193 (3) StPO.`  
-Die Fortführung eines nach § 192 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, wenn sie sich die spätere Verfolgung vorbehalten hat (§ 192 Abs. 2) oder die Voraussetzungen des Abs. 2 Z 2 vorliegen.
+`§ 166 (2) StPO.`  
+Aussagen, die auf die im Abs. 1 beschriebene Art und Weise zustande gekommen sind oder gewonnen wurden, sind nichtig.
+----
 
-### § 194 StPO # Verständigungen
+----
+## 9. Hauptstück # Fahndung, Festnahme und Untersuchungshaft # 1. Abschnitt # Fahndung
 
-`§ 194 (1) StPO.`  
-Von der Einstellung und der Fortführung des Verfahrens hat die Staatsanwaltschaft neben dem Beschuldigten und der Kriminalpolizei alle Personen zu verständigen, die zur Einbringung eines Antrags auf Fortführung berechtigt sind (§ 195 Abs. 1). Das Gericht ist zu verständigen, wenn es mit dem Verfahren befasst war; ein Zustellnachweis ist in keinem Fall erforderlich.
+### § 167 StPO # Definitionen
 
-`§ 194 (2) StPO.`  
-In einer Verständigung von der Einstellung des Ermittlungsverfahrens ist anzuführen, aus welchem Grund (§§ 190 bis 192) das Verfahren eingestellt wurde; gegebenenfalls ist der Vorbehalt späterer Verfolgung (§ 192 Abs. 2) aufzunehmen. Überdies sind Personen, die zur Einbringung eines Antrags auf Fortführung berechtigt sind (§ 195 Abs. 1), über die Möglichkeit der Einbringung eines Antrags auf Fortführung und seine Voraussetzungen sowie darüber zu informieren, dass sie binnen 14 Tagen eine Begründung verlangen können, in welcher die Tatsachen und Erwägungen, die der Einstellung zu Grunde gelegt wurden, in gedrängter Darstellung anzuführen sind. Das Recht, eine solche Begründung zu verlangen, steht auch dem Beschuldigten zu, worüber er gleichfalls in der Verständigung nach dem ersten Satz zu informieren ist.
+`§ 167 StPO.`  
+Im Sinne dieses Gesetzes ist  
+`§ 167 Z 1 StPO.`
+„Personenfahndung“ jede Maßnahme zur Ermittlung des Aufenthaltes einer Person und zur Festnahme des Beschuldigten auf Grund einer Anordnung der Staatsanwaltschaft,  
+`§ 167 Z 2 StPO.`
+„Sachenfahndung“ jede Maßnahme zur Feststellung des Verbleibes einer Sache und zu ihrer Sicherstellung.
+----
 
-`§ 194 (3) StPO.`  
-Von der Einstellung eines Ermittlungsverfahrens,  
-`§ 194 (3) Z 1 StPO.`
-das von der WKStA gemäß den Bestimmungen der §§ 20a oder 20b oder von einer anderen Staatsanwaltschaft wegen der in diesen Bestimmungen angeführten Vergehen oder Verbrechen geführt wurde und an dem wegen der Bedeutung der Straftat oder der Person des Beschuldigten ein besonderes öffentliches Interesse besteht, oder in dem noch nicht hinreichend geklärte Rechtsfragen von grundsätzlicher Bedeutung beurteilt wurden, oder  
-`§ 194 (3) Z 2 StPO.`
-das sonst wegen einer Straftat geführt wurde, für das im Hauptverfahren das Landesgericht als Geschworenen- oder Schöffengericht zuständig wäre und an dem kein Opfer im Sinne des § 65 Z 1 beteiligt war,  
-ist überdies der Rechtsschutzbeauftragte unter Anführung des Grundes der Einstellung (§§ 190 bis 192) samt einer Begründung nach Abs. 2 zu verständigen. Auf sein Verlangen ist ihm der Ermittlungsakt zu übersenden, in welchem Fall die Frist zur Einbringung eines Antrags auf Fortführung (§ 195 Abs. 2) mit dem Einlangen des Aktes auf sechs Monate verlängert wird.
+----
+### § 168 StPO # Fahndung
 
-### § 195 StPO # Antrag auf Fortführung
+`§ 168 (1) StPO.`  
+Personenfahndung zur Aufenthaltsermittlung ist zulässig, wenn der Aufenthalt des Beschuldigten oder einer Person, deren Identität festgestellt oder die als Zeuge vernommen werden soll, unbekannt ist.
 
-`§ 195 (1) StPO.`  
-Solange die Strafbarkeit der Tat nicht verjährt ist, hat das Gericht auf Antrag des Opfers die Fortführung eines nach den §§ 190 bis 192 beendeten Ermittlungsverfahrens durch die Staatsanwaltschaft anzuordnen, wenn  
-`§ 195 (1) Z 1 StPO.`
-das Gesetz verletzt oder unrichtig angewendet wurde,  
-`§ 195 (1) Z 2 StPO.`
-erhebliche Bedenken gegen die Richtigkeit der Tatsachen bestehen, die der Entscheidung über die Beendigung zu Grunde gelegt wurden, oder  
-`§ 195 (1) Z 3 StPO.`
-neue Tatsachen oder Beweismittel beigebracht werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, den Sachverhalt soweit zu klären, dass nach dem 11. oder 12. Hauptstück vorgegangen werden kann.
+`§ 168 (2) StPO.`  
+Personenfahndung zur Festnahme ist zulässig, wenn eine solche nicht vollzogen werden kann, weil der Beschuldigte flüchtig oder sein Aufenthalt unbekannt ist, oder weil er einer Ladung keine Folge geleistet hat und zu einer Vernehmung, einer anderen Beweisaufnahme oder zur Hauptverhandlung vorgeführt werden soll.
 
-`§ 195 (2) StPO.`  
-Der Antrag ist binnen vierzehn Tagen nach Verständigung von der Einstellung (§ 194) oder im Fall eines fristgerecht eingebrachten Verlangens nach § 194 Abs. 2 nach Zustellung der Einstellungsbegründung, wurde jedoch das Opfer von der Einstellung nicht verständigt, innerhalb von drei Monaten ab der Einstellung des Verfahrens bei der Staatsanwaltschaft einzubringen. Der Antrag eines minderjährigen Opfers bedarf keiner pflegschaftsgerichtlichen Genehmigung. Der Antrag hat das Verfahren, dessen Fortführung begehrt wird, zu bezeichnen. Überdies sind die Gründe einzeln und bestimmt zu bezeichnen, aus denen die Verletzung oder unrichtige Anwendung des Gesetzes oder die erheblichen Bedenken abzuleiten sind. Werden neue Tatsachen oder Beweismittel vorgebracht, so gilt § 55 Abs. 1 sinngemäß.
+`§ 168 (3) StPO.`  
+Sachenfahndung ist zulässig, wenn ein Gegenstand, der sichergestellt werden soll, nicht aufgefunden werden kann.
+----
 
-`§ 195 (2a) StPO.`  
-In den in § 194 Abs. 3 genannten Fällen steht überdies dem Rechtsschutzbeauftragten das Recht auf Einbringung eines Antrags auf Fortführung des Ermittlungsverfahrens zu.
+----
+### § 169 StPO
 
-`§ 195 (3) StPO.`  
-Erachtet die Staatsanwaltschaft den Antrag für berechtigt, so hat sie das Verfahren unabhängig von den Voraussetzungen des § 193 Abs. 2 Z 1 oder 2 fortzuführen. Andernfalls hat sie ihn mit dem Akt und einer Stellungnahme dem Gericht zu übermitteln.
+`§ 169 (1) StPO.`  
+Personenfahndung durch Ausschreibung zur Aufenthaltsermittlung oder zur Festnahme ist von der Staatsanwaltschaft anzuordnen. Über weitere Anordnung der Staatsanwaltschaft kann sie öffentlich bekannt gemacht werden, wenn die Ausforschung des Beschuldigten, weiterer Opfer oder die Auffindung einer anderen Person andernfalls wenig erfolgversprechend wäre und der Beschuldigte einer vorsätzlich begangenen Straftat, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht ist, dringend verdächtig ist. Abbildungen von Personen dürfen jedoch nur dann veröffentlicht oder zur Veröffentlichung in Medien oder sonst öffentlich zugänglichen Dateien freigegeben werden, wenn der damit angestrebte Vorteil den mit der Veröffentlichung verbundenen Eingriff in die Intimsphäre deutlich überwiegt oder die Veröffentlichung zum Schutz der Rechte und Interessen von durch den Beschuldigten gefährdeten Personen erforderlich scheint.
 
-### § 196 StPO
+`§ 169 (1a) StPO.`  
+Eine Veröffentlichung von Abbildungen eines in Untersuchungshaft angehaltenen Beschuldigten ist auf Grund einer Anordnung der Staatsanwaltschaft unter den Voraussetzungen des Abs. 1 letzter Satz zulässig, soweit anderenfalls die Aufklärung weiterer Straftaten, deren Begehung er verdächtig ist, wesentlich erschwert wäre.
 
-`§ 196 (1) StPO.`  
-Das Gericht entscheidet in nichtöffentlicher Sitzung, gegen seine Entscheidung steht ein Rechtsmittel nicht zu. Zuvor hat es dem Beschuldigten und dem Antragsteller Gelegenheit zur Äußerung zur Stellungnahme der Staatsanwaltschaft binnen angemessener Frist einzuräumen, wobei der Antragsteller gegebenenfalls auf die Pflicht zur bestimmten Bezeichnung der geltend gemachten Fortführungsgründe hinzuweisen ist. Vor seiner Entscheidung kann es auch die Kriminalpolizei mit Ermittlungen beauftragen oder von der Staatsanwaltschaft tatsächliche Aufklärungen über die behaupteten Rechtsverletzungen oder Verfahrensmängel verlangen. Gegebenenfalls kann es nach § 107 Abs. 2 vorgehen.
+`§ 169 (2) StPO.`  
+Sachenfahndung kann die Kriminalpolizei von sich aus anordnen und durchführen; sie hat die erforderlichen Veröffentlichungen und anderen notwendigen Maßnahmen zu veranlassen.
+----
 
-`§ 196 (2) StPO.`  
-Anträge, die verspätet oder von einer nicht berechtigten Person eingebracht wurden, bereits rechtskräftig erledigt sind oder den Voraussetzungen des § 195 nicht entsprechen, hat das Gericht als unzulässig zurückzuweisen und im Übrigen in der Sache zu entscheiden. Wird ein Antrag zurück- oder abgewiesen, so ist die Zahlung eines Pauschalkostenbeitrags von 90 Euro aufzutragen. Haben mehrere Opfer wegen derselben Handlung erfolglos eine Fortführung beantragt, so haften sie für den Pauschalkostenbeitrag zur ungeteilten Hand. Minderjährigen Opfern und dem Rechtsschutzbeauftragten ist in keinem Fall ein Pauschalkostenbeitrag aufzuerlegen. § 391 gilt sinngemäß.
-
-`§ 196 (3) StPO.`  
-Gibt das Gericht dem Antrag statt, so hat die Staatsanwaltschaft das Verfahren fortzuführen.
-
-### § 196a StPO # Beitrag zu den Kosten der Verteidigung im Ermittlungsverfahren
-
-`§ 196a (1) StPO.`  
-Wird ein Ermittlungsverfahren gemäß § 108 oder § 190 eingestellt, so hat der Bund dem Beschuldigten auf Antrag einen Beitrag zu den Kosten der Verteidigung zu leisten. Der Beitrag umfasst die nötig gewesenen und vom Beschuldigten bestrittenen baren Auslagen und außer im Fall des § 61 Abs. 2 auch einen Beitrag zu den Kosten des Verteidigers, dessen sich der Beschuldigte bedient. Der Beitrag ist unter Bedachtnahme auf den Umfang der Ermittlungen, die Komplexität der zu lösenden Tat- und Rechtsfragen und das Ausmaß des notwendigen oder zweckmäßigen Einsatzes des Verteidigers festzusetzen. Er darf den Betrag von 6 000 Euro nicht übersteigen.
-
-`§ 196a (2) StPO.`  
-Das Höchstmaß des Beitrags kann bei Verfahren, die durch außergewöhnlichen Umfang oder besondere Komplexität gekennzeichnet sind, sowie im Falle der Überschreitung der Höchstdauer des Ermittlungsverfahrens (§ 108 Abs. 1) um die Hälfte überschritten und im Falle extremen Umfangs des Verfahrens auf das Doppelte erhöht werden.
-
-`§ 196a (3) StPO.`  
-Der Ersatzanspruch ist ausgeschlossen, soweit der Beschuldigte den das Verfahren begründenden Verdacht vorsätzlich herbeigeführt hat oder das Verfahren lediglich deshalb beendet worden ist, weil er die Tat im Zustand der Zurechnungsunfähigkeit begangen hat oder weil die Ermächtigung zur Strafverfolgung zurückgenommen worden ist. Der Ersatzanspruch steht auch dann nicht zu, wenn die Strafbarkeit aus Gründen entfällt, die erst nach Beginn des Strafverfahrens eingetreten sind.
-
-`§ 196a (4) StPO.`  
-Der Antrag ist bei sonstigem Ausschluss innerhalb von drei Jahren nach der Verständigung von der Einstellung des Ermittlungsverfahrens (§ 194) bei der Staatsanwaltschaft einzubringen. Die Staatsanwaltschaft hat den Antrag mit einer allfälligen Stellungnahme an das Gericht weiterzuleiten. Unzulässige oder verspätete Anträge hat das Gericht zurückzuweisen, im Übrigen jedoch in der Sache zu entscheiden.
-
-`§ 196a (5) StPO.`  
-Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss, mit dem über den Antrag entschieden worden ist, kommt aufschiebende Wirkung zu.
-
-`§ 196a (6) StPO.`  
-Weitergehende Rechte des Beschuldigten nach diesem Bundesgesetz, dem Amtshaftungsgesetz, BGBl. Nr. 20/1949, und dem Strafrechtlichen Entschädigungsgesetz 2005, BGBl. I Nr. 125/2004, bleiben unberührt.
-
-### § 197 StPO # Abbrechung des Ermittlungsverfahrens gegen Abwesende und gegen unbekannte Täter
-
-`§ 197 (1) StPO.`  
-Wenn der Beschuldigte flüchtig oder unbekannten Aufenthalts ist, ist das Ermittlungsverfahren soweit fortzuführen, als dies zur Sicherung von Spuren und Beweisen erforderlich ist. Ermittlungshandlungen und Beweisaufnahmen, bei denen der Beschuldigte das Recht hat, sich zu beteiligen (§§ 150, 165), können in diesem Fall auch in seiner Abwesenheit durchgeführt werden. Der Beschuldigte kann zur Ermittlung seines Aufenthalts oder zur Festnahme ausgeschrieben werden. Danach hat die Staatsanwaltschaft das Verfahren abzubrechen und nach Ausforschung des Beschuldigten fortzusetzen.
-
-`§ 197 (2) StPO.`  
-In Verfahren gegen unbekannte Täter ist Abs. 1 sinngemäß anzuwenden.
-
-`§ 197 (2a) StPO.`  
-Das Verfahren gegen eine Person, gegen die nach einer gesetzlichen Vorschrift die Verfolgung nicht eingeleitet oder fortgesetzt werden kann, ist abzubrechen und nach Wegfall des Hinderungsgrundes fortzusetzen. Maßnahmen zur Sicherung und Aufnahme von Beweisen dürfen nur vorgenommen werden, soweit dies nach den das Verfolgungshindernis betreffenden Bestimmungen zulässig ist.
-
-`§ 197 (2b) StPO.`  
-Wenn eine Vernehmung des Beschuldigten (§§ 164, 165 StPO) wegen dessen schwerwiegender Erkrankung nicht in absehbarer Zeit durchgeführt werden kann, ist sinngemäß nach Abs. 2a erster Satz vorzugehen.
-
-`§ 197 (3) StPO.`  
-Von der Abbrechung des Verfahrens gegen einen bekannten Täter und von der Fortsetzung oder Einleitung des Verfahrens sind die Kriminalpolizei und das Opfer zu verständigen.
-
-`§ 197 (4) StPO.`  
-Einem abwesenden oder flüchtigen Beschuldigten, der freiwillig erklärt, sich dem Verfahren stellen zu wollen, kann sicheres Geleit vom Bundesministerium für Justiz nach Stellungnahme der Oberstaatsanwaltschaft, in deren Sprengel die zuständige Staatsanwaltschaft ihren Sitz hat, allenfalls gegen Sicherheitsleistung sowie gegen Ablegung der im § 173 Abs. 5 Z 1 und 2 erwähnten Gelöbnisse mit der Wirkung erteilt werden, dass der Beschuldigte wegen der Straftat, für die das sichere Geleit erteilt wurde, bis zur Urteilsfällung in erster Instanz von der Haft befreit bleiben soll. Für die Sicherheitsleistung, ihren Verfall und den Verlust der Wirkung des sicheren Geleits gilt § 180 sinngemäß.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.StPO.013](BG.StPO.013.md))*
+`END-OF-DATA-SET`

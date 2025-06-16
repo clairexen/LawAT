@@ -1,18 +1,19 @@
 # BG.StVO.008 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StVO  
+**Kurztitel:** ['StVO']  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.008.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StVO.007](BG.StVO.007.md))*
+Der Nationalrat hat beschlossen:
 
+----
 ## VII. ABSCHNITT. # Besondere Vorschriften für den Fuhrwerksverkehr.
 
-### § 70 StVO # Lenkung von Fuhrwerken.
+### § 70 StVO # Lenkung von Fuhrwerken
 
 `§ 70 (1) StVO.`  
 Der Lenker eines Fuhrwerks muss, sofern sich aus den Bestimmungen über Wirtschaftsfuhren nichts anderes ergibt, mindestens 16 Jahre alt sein; abweichend hiervon ist das Lenken von Gespannen im Rahmen der Ausbildung an einer landwirtschaftlichen Fachschule im Beisein von geprüften Fahrinstruktoren oder Fahrlehrern ab dem vollendeten 15. Lebensjahr zulässig.
@@ -25,28 +26,35 @@ Der Besitzer eines Fuhrwerkes hat dafür zu sorgen, daß es nur im vorschriftsm�
 
 `§ 70 (4) StVO.`  
 Werden auf einem Fuhrwerk Personen befördert, so hat der Lenker dafür zu sorgen, daß sie so untergebracht sind, daß sie den sicheren Betrieb des Fuhrwerkes und die Verkehrssicherheit nicht beeinträchtigen und gefahrlos befördert werden können.
+----
 
-### § 71 StVO # Maße und Gewichte.
+----
+### § 71 StVO # Maße und Gewichte
 
 `§ 71 (1) StVO.`  
 Die Länge eines Fuhrwerkes darf bei Möbel-, Theaterkulissen- und Langgutwagen ohne Deichsel, bei anderen Fuhrwerken mit der Deichsel 10 m nicht überschreiten. Die Ladung darf bei Möbel-, Theaterkulissen- und Langgutwagen nicht länger als 16 m sein und bei anderen Fuhrwerken um nicht mehr als die Hälfte des Achsabstandes über die Hinterachse hinausragen.
 
 `§ 71 (2) StVO.`  
-Die Breite eines Fuhrwerkes darf bei Möbelwagen nicht mehr als  
+Die Breite eines Fuhrwerkes darf bei Möbelwagen nicht mehr als
+
 2.40 m, bei anderen Fuhrwerken nicht mehr als 2.20 m betragen. Die Breite der Ladung darf bei Erntefuhren und bei Fuhren mit Heu, Stroh oder Schilf in nicht gepreßtem Zustande, wenn sie nicht länger als 11 m sind, 3.50 m nicht überschreiten. Ansonsten darf die Ladung nicht breiter als das Fuhrwerk sein.
 
 `§ 71 (3) StVO.`  
 Fuhrwerke dürfen auch mit der Ladung nicht höher als 3.80 m sein.
 
 `§ 71 (4) StVO.`  
-Das Gesamtgewicht (§ 2 Abs. 1 Z 20) eines Fuhrwerkes darf unter Bedachtnahme auf die Beschaffenheit der Straße und ihrer Neigungsverhältnisse und unter Bedachtnahme auf die Länge der zu befahrenden Strecke sowie auf die Art und Beschaffenheit des Fahrzeuges und auf die Witterungsverhältnisse die Leistungsfähigkeit des Gespannes nicht übersteigen. Das Gesamtgewicht eines einspännigen Fuhrwerkes darf 2 t, das eines zweispännigen Fuhrwerkes  
-4.8 t nicht überschreiten. Werden bei Fuhren in einem ebenen Gelände besonders kräftige Pferde verwendet, so darf das Gesamtgewicht für einspännige Fuhrwerke bis 2.5 t und für zweispännige Fuhrwerke  
+Das Gesamtgewicht (§ 2 Abs. 1 Z 20) eines Fuhrwerkes darf unter Bedachtnahme auf die Beschaffenheit der Straße und ihrer Neigungsverhältnisse und unter Bedachtnahme auf die Länge der zu befahrenden Strecke sowie auf die Art und Beschaffenheit des Fahrzeuges und auf die Witterungsverhältnisse die Leistungsfähigkeit des Gespannes nicht übersteigen. Das Gesamtgewicht eines einspännigen Fuhrwerkes darf 2 t, das eines zweispännigen Fuhrwerkes
+
+4.8 t nicht überschreiten. Werden bei Fuhren in einem ebenen Gelände besonders kräftige Pferde verwendet, so darf das Gesamtgewicht für einspännige Fuhrwerke bis 2.5 t und für zweispännige Fuhrwerke
+
 5.5 t betragen. Im ebenen Gelände und bei Verwendung luftbereifter und mit Wälzlagern ausgestatteter Fuhrwerke darf das Gesamtgewicht um ein Drittel erhöht werden.
 
 `§ 71 (5) StVO.`  
 Die im Abs. 4 angeführten Gesamtgewichte dürfen bei mehr als zweispännigen Fuhrwerken überschritten werden, doch darf das Gesamtgewicht keinesfalls 10 t übersteigen.
+----
 
-### § 72 StVO # Beschaffenheit und Ausstattung des Fuhrwerkes.
+----
+### § 72 StVO # Beschaffenheit und Ausstattung des Fuhrwerkes
 
 `§ 72 (1) StVO.`  
 Der Lenker eines Fuhrwerkes, das nicht durch eine Zugmaschine fortbewegt wird, darf keine Vorrichtungen zur Abgabe von Schall- oder Blinkzeichen (§ 22) verwenden. Glocken und Schellen an Zugtieren und Schlitten werden von diesem Verbot nicht berührt.
@@ -62,8 +70,10 @@ Zur Verstärkung der Wirkung der Bremsvorrichtungen (Abs. 3) dürfen Radschuhe 
 
 `§ 72 (5) StVO.`  
 Radfelgen, Radreifen und Radschuhe, die wulstartige Erhöhungen, hervorstehende Nägel oder Schrauben aufweisen oder sonst geeignet sind, die Fahrbahn zu beschädigen, dürfen nicht verwendet werden. Durch das Ziehen von Maschinen und Geräten darf die Fahrbahn nicht beschädigt werden.
+----
 
-### § 73 StVO # Beleuchtung des Fuhrwerkes.
+----
+### § 73 StVO # Beleuchtung des Fuhrwerkes
 
 `§ 73 (1) StVO.`  
 Zur Beleuchtung eines Fuhrwerkes (§ 60) sind zwei Lampen zu verwenden, die beide nach vorne weiß und nach hinten rot leuchten. Die Lichter müssen deutlich erkennbar sein und die Breite des Fahrzeuges erkennen lassen; sie können auch an der Ladung angebracht werden, wenn dies zweckmäßiger ist. Bei Handwagen, Handkarren und Handschlitten genügt jedoch eine Lampe, die nach vorne weiß und nach hinten rot leuchtet; kann die Lampe an solchen Fahrzeugen oder an deren Ladungen nicht deutlich sichtbar angebracht werden, so ist sie hinter dem Fahrzeug gut sichtbar zu tragen.
@@ -79,8 +89,10 @@ Am vorderen Ende der Deichsel sind weiße oder gelbe Rückstrahler beweglich auf
 
 `§ 73 (5) StVO.`  
 Die Beleuchtungseinrichtungen und Rückstrahler müssen in einem solchen Zustand gehalten werden, daß sie voll wirksam sind.
+----
 
-### § 74 StVO # Bespannung.
+----
+### § 74 StVO # Bespannung
 
 `§ 74 (1) StVO.`  
 Die Zugtiere müssen zum Ziehen des Fuhrwerkes tauglich sein. Lahme oder übermüdete Tiere sowie solche, deren Eignung zum Ziehen eines Fuhrwerkes insbesondere durch äußerlich erkennbare Leiden oder Wunden herabgemindert ist, dürfen nicht als Zugtiere verwendet werden.
@@ -93,8 +105,10 @@ Werden Tiere uneingespannt an einem Fuhrwerk mitgeführt, so sind sie an ein Zug
 
 `§ 74 (4) StVO.`  
 Geschirr und Zügel müssen zweckmäßig sein und sich in gutem Zustand befinden. Die Verwendung von Gabelzügeln ist verboten.
+----
 
-### § 75 StVO # Ankoppeln.
+----
+### § 75 StVO # Ankoppeln
 
 `§ 75 (1) StVO.`  
 An ein Fuhrwerk darf nur ein weiteres Fuhrwerk angekoppelt werden. Dies gilt jedoch nur dann, wenn beide Fuhrwerke mit besonders leichtem Gut oder nur mäßig beladen sind oder wenn das zweite Fuhrwerk unbeladen, ein zweirädriger Karren oder ein Handwagen ist. Das Fuhrwerk ist so anzukoppeln, daß es nicht losreißen kann.
@@ -104,7 +118,9 @@ Die Länge des gekoppelten Wagenzuges einschließlich der Deichsel und der Ladun
 
 `§ 75 (3) StVO.`  
 Die Bestimmungen der Abs. 1 und 2 gelten auch für das Ankoppeln von Fuhrwerken an Kraftfahrzeuge, sofern sich aus den kraftfahrrechtlichen Vorschriften nichts anderes ergibt.
+----
 
+----
 ## VIII. ABSCHNITT. # Fußgängerverkehr.
 
 ### § 76 StVO # Fußverkehr
@@ -120,9 +136,9 @@ An Stellen, wo der Verkehr für Fußgänger durch besondere Lichtzeichen (§ 38
 
 `§ 76 (4) StVO.`  
 An Stellen, wo der Verkehr weder durch Arm- noch durch Lichtzeichen geregelt wird, dürfen Fußgänger  
-`§ 76 (4) lit. a) StVO.`
+`§ 76 (4) undefined StVO.`
 die Fahrbahn unter Bedachtnahme auf das Verkehrsaufkommen auf geradem Weg überqueren. Dabei haben sie sich vor Betreten der Fahrbahn zu vergewissern, dass sie hiebei sich selbst oder andere Straßenbenützer nicht gefährden oder diese übermäßig behindern und  
-`§ 76 (4) lit. b) StVO.`
+`§ 76 (4) undefined StVO.`
 einen Schutzweg nicht unmittelbar vor einem herannahenden Fahrzeug und für dessen Lenker überraschend betreten.
 
 `§ 76 (5) StVO.`  
@@ -142,7 +158,9 @@ Mit anderen als den im Abs. 1 genannten Kleinfahrzeugen und von Lastenträgern 
 
 `§ 76 (10) StVO.`  
 entfällt.
+----
 
+----
 ### § 76a StVO # Fußgängerzone
 
 `§ 76a (1) StVO.`  
@@ -171,13 +189,13 @@ An Stelle einer Zusatztafel können die vorgesehenen Angaben im blauen Feld des 
 
 `§ 76a (5) StVO.`  
 Unbeschadet der Bestimmung des Abs. 2 dürfen Fußgängerzonen  
-`§ 76a (5) lit. a) StVO.`
+`§ 76a (5) lit. a StVO.`
 mit Fahrzeugen des Straßendienstes und der Müllabfuhr sowie gegebenenfalls mit Schienenfahrzeugen und Omnibussen des Kraftfahrlinienverkehrs,  
-`§ 76a (5) lit. b) StVO.`
+`§ 76a (5) lit. b StVO.`
 mit den zur Durchführung einer unaufschiebbaren Reparatur eines unvorhersehbar aufgetretenen Gebrechens notwendigen Fahrzeugen,  
-`§ 76a (5) lit. c) StVO.`
+`§ 76a (5) lit. c StVO.`
 mit Fahrzeugen des öffentlichen Sicherheitsdienstes, der Strafvollzugsverwaltung und der Feuerwehr in Ausübung des Dienstes und  
-`§ 76a (5) lit. d) StVO.`
+`§ 76a (5) lit. d StVO.`
 mit Krankentransportfahrzeugen, sofern der Ausgangs- oder Endpunkt des Krankentransports in der Fußgängerzone liegt,  
 befahren werden.
 
@@ -186,7 +204,9 @@ Die Lenker von Fahrzeugen dürfen in eine Fußgängerzone nur an den hiefür vor
 
 `§ 76a (7) StVO.`  
 Fußgänger dürfen in Fußgängerzonen auch die Fahrbahn benützen. Sie dürfen dabei aber den erlaubten Fahrzeugverkehr nicht mutwillig behindern.
+----
 
+----
 ### § 76b StVO # Wohnstraße
 
 `§ 76b (1) StVO.`  
@@ -203,7 +223,9 @@ Die Anbringung von Schwellen, Rillen, Bordsteinen u. dgl. sowie von horizontalen
 
 `§ 76b (5) StVO.`  
 Für die Kundmachung einer Verordnung nach Abs. 1 gelten die Bestimmungen des § 44 Abs. 1 mit der Maßgabe, daß am Anfang und am Ende einer Wohnstraße die betreffenden Hinweiszeichen (§ 53 Abs. 1 Z 9c bzw. 9d) anzubringen sind.
+----
 
+----
 ### § 76c StVO # Begegnungszonen
 
 `§ 76c (1) StVO.`  
@@ -223,7 +245,9 @@ Für die Kundmachung einer Verordnung nach Abs. 1 gelten die Bestimmungen des �
 
 `§ 76c (6) StVO.`  
 Wenn es der Leichtigkeit und Flüssigkeit des Verkehrs dient und aus Gründen der Sicherheit des Verkehrs keine Bedenken dagegen bestehen, kann die Behörde in der Verordnung nach Abs. 1 die erlaubte Höchstgeschwindigkeit auf 30 km/h erhöhen.
+----
 
+----
 ### § 76d StVO # Schulstraße
 
 `§ 76d (1) StVO.`  
@@ -240,8 +264,10 @@ Die Lenker von Fahrzeugen dürfen Fußgänger nicht behindern oder gefährden, h
 
 `§ 76d (5) StVO.`  
 Für die Kundmachung einer Verordnung nach Abs. 1 gelten die Bestimmungen des § 44 Abs. 1 mit der Maßgabe, dass am Anfang und am Ende einer Schulstraße die betreffenden Hinweiszeichen (§ 53 Abs. 1 Z 26a und 29) anzubringen sind.
+----
 
-### § 77 StVO # Geschlossene Züge von Fußgängern.
+----
+### § 77 StVO # Geschlossene Züge von Fußgängern
 
 `§ 77 (1) StVO.`  
 Geschlossene Züge von Fußgängern, insbesondere geschlossene Verbände des Bundesheeres oder des Sicherheitsdienstes, Prozessionen, Leichenbegängnisse und sonstige Umzüge haben die Fahrbahn zu benützen. Für geschlossene Kinder- oder Schülergruppen gilt dies jedoch nur dann, wenn Gehsteige, Gehwege oder Straßenbankette nicht vorhanden sind. Geschlossene Züge von Fußgängern dürfen über Brücken und Stege nicht im Gleichschritt marschieren. Bei der Benützung der Fahrbahn durch solche Züge gelten die Bestimmungen des II. Abschnittes sowie die Bestimmungen über die Bedeutung der Arm- oder Lichtzeichen sinngemäß.
@@ -251,12 +277,75 @@ Bei Dämmerung, Dunkelheit, Nebel oder wenn es die Witterung sonst erfordert, is
 
 `§ 77 (3) StVO.`  
 Ein geschlossener Zug von Fußgängern darf auch durch mitfahrende Fahrzeuge beleuchtet werden. In einem solchen Falle gelten die Bestimmungen des Abs. 2 sinngemäß. Das linke Licht muß in einer Linie mit den links gehenden Personen liegen.
+----
 
+----
 ### § 78 StVO # Verhalten auf Verkehrsflächen mit Fußverkehr
-Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:  
-`§ 78 lit. a) StVO.`
-andere Straßenbenützer zu gefährden, insbesondere mit Gegenständen, die scharf, spitz oder sonst gefährlich sind sowie  
-`§ 78 lit. b) StVO.`
-den Fußgängerverkehr mutwillig zu behindern.
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StVO.009](BG.StVO.009.md))*
+`§ 78 StVO.`  
+Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:
+
+`§ 78 undefined StVO.`  
+andere Straßenbenützer zu gefährden, insbesondere mit Gegenständen, die scharf, spitz oder sonst gefährlich sind sowie
+
+`§ 78 undefined StVO.`  
+den Fußgängerverkehr mutwillig zu behindern.
+----
+
+----
+## IX. ABSCHNITT. # Verkehr nicht eingespannter Tiere.
+
+### § 79 StVO # Reiten
+
+`§ 79 (1) StVO.`  
+Reiter müssen körperlich geeignet und des Reitens kundig sein und das 16. Lebensjahr vollendet haben. Jüngere Personen dürfen nur in Begleitung Erwachsener reiten; dies gilt jedoch nicht für das Reiten im Rahmen eines landwirtschaftlichen Betriebes, wenn der Reiter das zwölfte Lebensjahr vollendet hat.
+
+`§ 79 (2) StVO.`  
+Reiter dürfen nur die Fahrbahn und auf Straßen mit Reitwegen nur die Reitwege benützen. Bei der Benützung der Fahrbahn gelten für sie die Bestimmungen des II. Abschnittes sinngemäß und sie haben Arm- oder Lichtzeichen zu beachten.
+
+`§ 79 (3) StVO.`  
+Bei Dämmerung, Dunkelheit, starkem Nebel oder wenn es die Witterung sonst erfordert, müssen Reiter bei Benützung der Fahrbahn, wenn die sonstige Beleuchtung nicht ausreicht durch helleuchtende Laternen an der linken Seite gekennzeichnet sein.
+
+`§ 79 (4) StVO.`  
+Absatz 2 und 3 gelten nicht für Organe der Bundespolizei als Reiter von Dienstpferden.
+----
+
+----
+### § 80 StVO # Viehtrieb
+
+`§ 80 (1) StVO.`  
+Treiber und Führer von Vieh müssen im Hinblick auf die Anzahl und die Art der Tiere sowie im Hinblick auf die für den Viehtrieb in Betracht kommenden Straßen körperlich und geistig geeignet sein.
+
+`§ 80 (2) StVO.`  
+Das Führen von Zug- oder Reittieren in Koppeln von mehr als drei Tieren durch eine Person ist verboten. Bei Stieren sind besondere Sicherheitsmaßnahmen zu treffen. Bei größeren Viehtrieben sind Gruppen zu bilden und zwischen den einzelnen Gruppen größere Abstände einzuhalten.
+
+`§ 80 (3) StVO.`  
+Das Vieh muß auf der Straße so getrieben oder geführt werden, daß der übrige Verkehr dadurch möglichst wenig behindert wird. Das Vieh muß auf der rechten Fahrbahnseite getrieben und von einer angemessenen Zahl Treiber begleitet werden.
+
+`§ 80 (4) StVO.`  
+Es ist verboten, Vieh auf der Fahrbahn, auf Gehwegen, Gehsteigen, Radfahranlagen und auf Straßenbanketten lagern zu lassen.
+
+`§ 80 (5) StVO.`  
+Bei kurzzeitig auf der Straße haltenden Tieren haben die Treiber Vorsorge zu treffen, daß übrige Straßenbenützer nicht behindert oder gefährdet werden.
+
+`§ 80 (6) StVO.`  
+Bei Dämmerung und Dunkelheit, starkem Nebel oder wenn es die Witterung sonst erfordert, muß der Viehtrieb, wenn die sonstige Beleuchtung nicht ausreicht, an seinem Anfang durch einen Treiber mit einer nach vorne weiß und an seinem Ende durch einen Treiber mit einer nach hinten rot leuchtenden Lampe gesichert werden. Beim Treiben oder Führen von einzelnen Tieren genügt eine helleuchtende Lampe.
+----
+
+----
+### § 81 StVO # Weiden an Straßen
+
+`§ 81 (1) StVO.`  
+Vieh, das auf nicht abgezäunten Grundstücken an Autobahnen oder Vorrangstraßen weidet, muß von Personen, die zum Treiben und Führen von Vieh geeignet sind (§ 80 Abs. 1), beaufsichtigt und von der Straße ferngehalten werden.
+
+`§ 81 (2) StVO.`  
+Die Bestimmungen des Abs. 1 gelten auch für das Weiden von Vieh auf nicht abgezäunten Grundstücken an anderen als den in Abs. 1 genannten Straßen, die keine ausreichende Sicht auf diese Grundstücke gewähren.
+
+`§ 81 (3) StVO.`  
+Die Behörde hat Alpgebiete und Gebiete, in denen der unbeaufsichtigte Weidegang nach altem Herkommen üblich ist, von den Bestimmungen des Abs. 2 überhaupt, von den Bestimmungen des Abs. 1 dann auszunehmen, wenn nicht erhebliche Bedenken aus Gründen der Verkehrssicherheit entgegenstehen.
+
+`§ 81 (4) StVO.`  
+Eine Verordnung gemäß Abs. 3 ist durch Anschlag auf der Amtstafel der Behörde kundzumachen.
+----
+
+`END-OF-DATA-SET`

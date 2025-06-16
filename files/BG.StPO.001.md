@@ -1,15 +1,16 @@
 # BG.StPO.001 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.001.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Inhaltsverzeichnis: [BG.StPO.toc](BG.StPO.toc.md))*
+Der Nationalrat hat beschlossen:
 
+----
 ## 1. Teil # Allgemeines und Grundsätze des Verfahrens # 1. Hauptstück # Das Strafverfahren und seine Grundsätze
 
 ### § 1 StPO # Das Strafverfahren
@@ -22,7 +23,9 @@ Das Strafverfahren beginnt, sobald Kriminalpolizei oder Staatsanwaltschaft zur A
 
 `§ 1 (3) StPO.`  
 Ein Anfangsverdacht liegt vor, wenn auf Grund bestimmter Anhaltspunkte angenommen werden kann, dass eine Straftat begangen worden ist.
+----
 
+----
 ### § 2 StPO # Amtswegigkeit
 
 `§ 2 (1) StPO.`  
@@ -30,7 +33,9 @@ Kriminalpolizei und Staatsanwaltschaft sind im Rahmen ihrer Aufgaben verpflichte
 
 `§ 2 (2) StPO.`  
 Im Hauptverfahren hat das Gericht die der Anklage zu Grunde liegende Tat und die Schuld des Angeklagten von Amts wegen aufzuklären.
+----
 
+----
 ### § 3 StPO # Objektivität und Wahrheitserforschung
 
 `§ 3 (1) StPO.`  
@@ -38,7 +43,9 @@ Kriminalpolizei, Staatsanwaltschaft und Gericht haben die Wahrheit zu erforschen
 
 `§ 3 (2) StPO.`  
 Alle Richter, Staatsanwälte und kriminalpolizeilichen Organe haben ihr Amt unparteilich und unvoreingenommen auszuüben und jeden Anschein der Befangenheit zu vermeiden. Sie haben die zur Belastung und die zur Verteidigung des Beschuldigten dienenden Umstände mit der gleichen Sorgfalt zu ermitteln.
+----
 
+----
 ### § 4 StPO # Anklagegrundsatz
 
 `§ 4 (1) StPO.`  
@@ -49,7 +56,9 @@ Einleitung und Durchführung eines Hauptverfahrens setzen eine rechtswirksame An
 
 `§ 4 (3) StPO.`  
 Die Entscheidung des Gerichts hat die Anklage zu erledigen, darf sie jedoch nicht überschreiten. An eine rechtliche Beurteilung ist das Gericht nicht gebunden.
+----
 
+----
 ### § 5 StPO # Gesetz- und Verhältnismäßigkeit
 
 `§ 5 (1) StPO.`  
@@ -60,7 +69,9 @@ Unter mehreren zielführenden Ermittlungshandlungen und Zwangsmaßnahmen haben K
 
 `§ 5 (3) StPO.`  
 Es ist unzulässig, Personen zur Begehung von strafbaren Handlungen in einer dem Grundsatz des fairen Verfahrens (Art. 6 Abs. 1 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958) widerstreitenden Weise zu verleiten, oder durch heimlich bestellte Personen zu einem Geständnis zu verlocken.
+----
 
+----
 ### § 6 StPO # Rechtliches Gehör
 
 `§ 6 (1) StPO.`  
@@ -68,7 +79,9 @@ Der Beschuldigte hat das Recht, am gesamten Verfahren mitzuwirken und die Pflich
 
 `§ 6 (2) StPO.`  
 Jede am Verfahren beteiligte oder von der Ausübung von Zwangsmaßnahmen betroffene Person hat das Recht auf angemessenes rechtliches Gehör und auf Information über Anlass und Zweck der sie betreffenden Verfahrenshandlung sowie über ihre wesentlichen Rechte im Verfahren. Der Beschuldigte hat das Recht, alle gegen ihn vorliegende Verdachtsgründe zu erfahren und vollständige Gelegenheit zu deren Beseitigung und zu seiner Rechtfertigung zu erhalten.
+----
 
+----
 ### § 7 StPO # Recht auf Verteidigung
 
 `§ 7 (1) StPO.`  
@@ -76,12 +89,16 @@ Der Beschuldigte hat das Recht, sich selbst zu verteidigen und in jeder Lage des
 
 `§ 7 (2) StPO.`  
 Der Beschuldigte darf nicht gezwungen werden, sich selbst zu belasten. Es steht ihm jederzeit frei, auszusagen oder die Aussage zu verweigern. Er darf nicht durch Zwangsmittel, Drohungen, Versprechungen oder Vorspiegelungen zu Äußerungen genötigt oder bewogen werden.
+----
 
+----
 ### § 8 StPO # Unschuldsvermutung
 
 `§ 8 StPO.`  
 Jede Person gilt bis zu ihrer rechtskräftigen Verurteilung als unschuldig.
+----
 
+----
 ### § 9 StPO # Beschleunigungsgebot
 
 `§ 9 (1) StPO.`  
@@ -89,7 +106,9 @@ Jeder Beschuldigte hat Anspruch auf Beendigung des Verfahrens innerhalb angemess
 
 `§ 9 (2) StPO.`  
 Verfahren, in denen ein Beschuldigter in Haft gehalten wird, sind mit besonderer Beschleunigung zu führen. Jeder verhaftete Beschuldigte hat Anspruch auf ehest mögliche Urteilsfällung oder Enthaftung während des Verfahrens. Alle im Strafverfahren tätigen Behörden, Einrichtungen und Personen sind verpflichtet, auf eine möglichst kurze Dauer der Haft hinzuwirken.
+----
 
+----
 ### § 10 StPO # Beteiligung der Opfer
 
 `§ 10 (1) StPO.`  
@@ -100,7 +119,9 @@ Kriminalpolizei, Staatsanwaltschaft und Gericht sind verpflichtet, auf die Recht
 
 `§ 10 (3) StPO.`  
 Alle im Strafverfahren tätigen Behörden, Einrichtungen und Personen haben Opfer während des Verfahrens mit Achtung ihrer persönlichen Würde zu behandeln und deren Interesse an der Wahrung ihres höchstpersönlichen Lebensbereiches zu beachten. Dies gilt insbesondere für die Weitergabe von Lichtbildern und die Mitteilung von Angaben zur Person, die zu einem Bekanntwerden der Identität in einem größeren Personenkreis führen kann, ohne dass dies durch Zwecke der Strafrechtspflege geboten ist. Staatsanwaltschaft und Gericht haben bei ihren Entscheidungen über die Beendigung des Verfahrens stets die Wiedergutmachungsinteressen der Opfer zu prüfen und im größtmöglichen Ausmaß zu fördern.
+----
 
+----
 ### § 11 StPO # Geschworene und Schöffen
 
 `§ 11 (1) StPO.`  
@@ -108,7 +129,9 @@ In den in diesem Gesetz vorgesehenen Fällen wirken Geschworene oder Schöffen a
 
 `§ 11 (2) StPO.`  
 Geschworene und Schöffen sind über ihre Aufgaben und Befugnisse sowie über den Ablauf des Verfahrens zu informieren.
+----
 
+----
 ### § 12 StPO # Mündlichkeit und Öffentlichkeit
 
 `§ 12 (1) StPO.`  
@@ -116,7 +139,9 @@ Gerichtliche Verhandlungen im Haupt- und Rechtsmittelverfahren werden mündlich 
 
 `§ 12 (2) StPO.`  
 Das Gericht hat bei der Urteilsfällung nur auf das Rücksicht zu nehmen, was in der Hauptverhandlung vorgekommen ist.
+----
 
+----
 ### § 13 StPO # Unmittelbarkeit
 
 `§ 13 (1) StPO.`  
@@ -127,22 +152,30 @@ Im Ermittlungsverfahren sind die Beweise aufzunehmen, die für die Entscheidung 
 
 `§ 13 (3) StPO.`  
 Soweit ein Beweis unmittelbar aufgenommen werden kann, darf er nicht durch einen mittelbaren ersetzt werden. Der Inhalt von Akten und anderen Schriftstücken darf nur soweit als Beweis verwertet werden, als er in einer nach diesem Gesetz zulässigen Weise wiedergegeben wird.
+----
 
+----
 ### § 14 StPO # Freie Beweiswürdigung
 
 `§ 14 StPO.`  
 Ob Tatsachen als erwiesen festzustellen sind, hat das Gericht auf Grund der Beweise nach freier Überzeugung zu entscheiden; im Zweifel stets zu Gunsten des Angeklagten oder sonst in seinen Rechten Betroffenen.
+----
 
+----
 ### § 15 StPO # Vorfragen
 
 `§ 15 StPO.`  
 Vorfragen sind im Strafverfahren selbstständig zu beurteilen. Entscheidungen zuständiger Behörden können jedoch abgewartet werden, wenn mit ihnen in absehbarer Zeit zu rechnen ist. An die rechtsgestaltenden Wirkungen von Entscheidungen der Zivilgerichte und anderer Behörden sind die Strafgerichte jedoch gebunden.
+----
 
+----
 ### § 16 StPO # Verbot der Verschlechterung
 
 `§ 16 StPO.`  
 Wenn ein Rechtsmittel oder ein Rechtsbehelf nur zu Gunsten des Beschuldigten erhoben wurde, darf der Beschuldigte durch den Inhalt einer darüber ergehenden gerichtlichen Entscheidung im Ermittlungsverfahren und in der Straffrage nicht schlechter gestellt werden, als wenn die Entscheidung nicht angefochten worden wäre.
+----
 
+----
 ### § 17 StPO # Verbot wiederholter Strafverfolgung
 
 `§ 17 (1) StPO.`  
@@ -150,7 +183,9 @@ Nach rechtswirksamer Beendigung eines Strafverfahrens ist die neuerliche Verfolg
 
 `§ 17 (2) StPO.`  
 Die Bestimmungen über die Fortsetzung, die Fortführung, die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie über die Nichtigkeitsbeschwerde zur Wahrung des Gesetzes bleiben hievon unberührt.
+----
 
+----
 ## 2. Hauptstück # Kriminalpolizei, Staatsanwaltschaft, Gericht und Rechtsschutzbeauftragter # 1. Abschnitt # Kriminalpolizei
 
 ### § 18 StPO # Kriminalpolizei
@@ -171,7 +206,9 @@ auf Antrag der Gemeinde oder
 `§ 18 (4) Z 2 StPO.`
 auf Antrag der Bezirksverwaltungsbehörde oder der Oberstaatsanwaltschaft, in deren Sprengel sich die Gemeinde befindet, soweit festgestellt wird, dass der Gemeindewachkörper die ihm übertragene Aufgabe nicht erfüllt,  
 aufzuheben.
+----
 
+----
 ## 2. Abschnitt # Staatsanwaltschaften und ihre Zuständigkeiten
 
 ### § 19 StPO # Allgemeines
@@ -190,7 +227,9 @@ Die Staatsanwaltschaften üben ihre Tätigkeit als Organe der Rechtspflege durch
 
 `§ 19 (3) StPO.`  
 Soweit dieses Gesetz im Einzelnen nichts anderes bestimmt, richten sich Organisation und Aufgaben der Staatsanwaltschaften nach den Vorschriften des Staatsanwaltschaftsgesetzes (StAG), BGBl. Nr. 164/1986.
+----
 
+----
 ### § 20 StPO # Staatsanwaltschaft
 
 `§ 20 (1) StPO.`  
@@ -201,7 +240,9 @@ Ermittlungen, Anordnungen und andere Verfahrenshandlungen im Verfahren wegen Str
 
 `§ 20 (3) StPO.`  
 Die Staatsanwaltschaft ist auch für die Erledigung von Rechtshilfeersuchen in- und ausländischer Justizbehörden zuständig, soweit im Einzelnen nichts anderes bestimmt wird.
+----
 
+----
 ### § 20a StPO # Zentrale Staatsanwaltschaft zur Verfolgung von Wirtschaftsstrafsachen und Korruption (WKStA)
 
 `§ 20a (1) StPO.`  
@@ -233,7 +274,9 @@ Wegen der in Abs. 1 erwähnten Straftaten ist die WKStA auch für ausländische
 
 `§ 20a (4) StPO.`  
 In den Fällen des Zusammenhangs mit in Abs. 1 erwähnten Straftaten hat die WKStA gemäß den §§ 25a, 26 und 27 vorzugehen. Hinsichtlich anderer Taten hat die WKStA das Verfahren zu trennen und der danach zuständigen Staatsanwaltschaft abzutreten, soweit ihre Zuständigkeit nicht gemäß § 20b begründet wäre; darüber hinaus kann die WKStA auf diese Weise vorgehen, wenn das Verfahren wegen der ihre Zuständigkeit begründenden Straftaten beendet wird.
+----
 
+----
 ### § 20b StPO
 
 `§ 20b (1) StPO.`  
@@ -247,7 +290,9 @@ Die WKStA kann nach Abs. 1 auch Verfahren wegen §§ 302 und 304 bis 309 StGB,
 
 `§ 20b (4) StPO.`  
 Die Staatsanwaltschaften haben der WKStA unverzüglich über anhängige Verfahren nach den vorstehenden Absätzen zu berichten, die von ihr effizienter und zügiger geführt werden könnten. Bis zur Entscheidung der WKStA haben sie ungeachtet dessen die erforderlichen Anordnungen zu treffen.
+----
 
+----
 ### § 21 StPO # Oberstaatsanwaltschaft
 
 `§ 21 (1) StPO.`  
@@ -255,12 +300,16 @@ Die Oberstaatsanwaltschaft wirkt an allen Strafverfahren vor dem Oberlandesgeric
 
 `§ 21 (2) StPO.`  
 Die Oberstaatsanwaltschaft führt die Aufsicht über die ihr unterstellten Staatsanwaltschaften und ist berechtigt, sich an jedem Verfahren in ihrem Zuständigkeitsbereich unmittelbar zu beteiligen. Im Einzelfall kann sie die Aufgaben und Befugnisse einer Staatsanwaltschaft übernehmen.
+----
 
+----
 ### § 22 StPO # Generalprokuratur
 
 `§ 22 StPO.`  
 Die Generalprokuratur wirkt an allen Strafverfahren des Obersten Gerichtshofs mit. Dabei schreitet sie nicht als Anklagebehörde ein; sie vertritt die Interessen des Staates in der Rechtspflege.
+----
 
+----
 ### § 23 StPO # Nichtigkeitsbeschwerde zur Wahrung des Gesetzes
 
 `§ 23 (1) StPO.`  
@@ -271,12 +320,16 @@ Auf Anregung des Rechtschutzbeauftragten kann die Generalprokuratur gegen die ge
 
 `§ 23 (2) StPO.`  
 Die Staatsanwaltschaften haben Fälle, in denen sie eine Beschwerde für erforderlich halten, von Amts wegen den Oberstaatsanwaltschaften vorzulegen; diese entscheiden, ob die Fälle an die Generalprokuratur weiter zu leiten sind. Im Übrigen ist jedermann berechtigt, die Erhebung einer Nichtigkeitsbeschwerde zur Wahrung des Gesetzes anzuregen.
+----
 
+----
 ### § 24 StPO # Stellungnahmen von Staatsanwaltschaften
 
 `§ 24 StPO.`  
 Nimmt eine Staatsanwaltschaft bei einem Rechtsmittelgericht zu einem Rechtsmittel oder Rechtsbehelf Stellung, so hat das Gericht diese Stellungnahme dem gegnerischen Beteiligten zur Äußerung binnen einer angemessen festzusetzenden Frist zuzustellen. Diese Zustellung kann unterbleiben, wenn die Staatsanwaltschaft lediglich zu Gunsten dieses Beteiligten Stellung nimmt.
+----
 
+----
 ### § 25 StPO # Örtliche Zuständigkeit
 
 `§ 25 (1) StPO.`  
@@ -301,7 +354,9 @@ Liegt der Ort, an dem die Straftat ausgeführt wurde oder ausgeführt werden sol
 die Tat und die für ihre Verfolgung wesentlichen Umstände der zuständigen ausländischen Behörde bekannt sind, oder  
 `§ 25 (7) Z 2 StPO.`
 dem Opfer die Anzeige im Ausland möglich gewesen wäre, es sei denn, dass es sich um eine Straftat mit schweren Folgen handelt.
+----
 
+----
 ### § 25a StPO # Abtretung
 
 `§ 25a (1) StPO.`  
@@ -309,7 +364,9 @@ Eine Staatsanwaltschaft, die sich für unzuständig erachtet, hat die keinen Auf
 
 `§ 25a (2) StPO.`  
 Eine unzuständige Staatsanwaltschaft hat bei ihr einlangende Anzeigen, Berichte und Rechtshilfeersuchen an die zuständige weiterzuleiten.
+----
 
+----
 ### § 26 StPO # Zusammenhang
 
 `§ 26 (1) StPO.`  
@@ -320,12 +377,16 @@ Bei der Bestimmung der Zuständigkeit nach Abs. 1 sind besondere Vorschriften a
 
 `§ 26 (3) StPO.`  
 Im Verhältnis zur WKStA ist ein Zusammenhang nach den vorstehenden Bestimmungen nicht anzunehmen, wenn das Verfahren wegen der Straftaten, die eine Zuständigkeit der WKStA begründen würde, im Hinblick auf die Dauer und den Umfang der Ermittlungen oder das Gewicht der Straftat von untergeordneter Bedeutung ist.
+----
 
+----
 ### § 27 StPO # Trennung von Verfahren
 
 `§ 27 StPO.`  
 Die Staatsanwaltschaft kann auf Antrag des Beschuldigten oder von Amts wegen anordnen, dass das Ermittlungsverfahren wegen einzelner Straftaten oder gegen einzelne Beschuldigte getrennt zu führen ist, insbesondere um Verzögerungen zu vermeiden, schutzwürdige Geheimhaltungsinteressen (§ 1 Abs. 1 Datenschutzgesetz – DSG, BGBl. I Nr. 165/1999) eines Beschuldigten zu wahren oder die Haft eines Beschuldigten zu verkürzen.
+----
 
+----
 ### § 28 StPO # Bestimmung der Zuständigkeit
 
 `§ 28 (1) StPO.`  
@@ -333,10 +394,13 @@ Die Oberstaatsanwaltschaft kann von Amts wegen oder auf Antrag aus Gründen der 
 
 `§ 28 (2) StPO.`  
 Nach Abs. 1 ist unter den dort beschriebenen Umständen auch vorzugehen, wenn das Absehen von der Einleitung eines Ermittlungsverfahrens zu prüfen ist (§ 197a).
+----
 
+----
 ### § 28a StPO # Zuständigkeitskonflikt bei Verfahren der WKStA
 
 `§ 28a StPO.`  
 Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen WKStA und anderen Staatsanwaltschaften gemäß § 28 zu entscheiden, welchen von ihnen die Zuständigkeit zukommt. Gleiches gilt für den Fall, dass der WKStA ein Verfahren aus den in § 28 Abs. 1 oder Abs. 2 genannten Gründen abgenommen werden soll.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StPO.002](BG.StPO.002.md))*
+`END-OF-DATA-SET`

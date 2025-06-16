@@ -1,319 +1,621 @@
 # BG.ABGB.011 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.011.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.010](BG.ABGB.010.md))*
 
-## Rechte und Verbindlichkeiten des Pfandgläubigers:
+----
+## II. Anforderungen an den letzten Willen
 
-### § 458 ABGB # a) bey Entdeckung eines unzureichenden Pfandes;
+### § 564 ABGB # Höchstpersönliche Willenserklärung
 
-`§ 458 ABGB.`  
-Wenn der Werth eines Pfandes durch Verschulden des Pfandgebers, oder wegen eines erst offenbar gewordenen Mangels der Sache zur Bedeckung der Schuld nicht mehr zureichend gefunden wird; so ist der Gläubiger berechtigt, von dem Pfandgeber ein anderes angemessenes Pfand zu fordern.
+`§ 564 ABGB.`  
+Man kann seinen letzten Willen nur selbst erklären, den Erben nur selbst einsetzen und diese Erklärungen nicht einer dritten Person überlassen. Auch genügt die bloße Bejahung des Vorschlags einer dritten Person nicht.
+----
 
-### § 459 ABGB # b) vor dem Verfalle;
+----
+### § 565 ABGB # Bestimmtheit und Mangelfreiheit
 
-`§ 459 ABGB.`  
-Ohne Bewilligung des Pfandgebers darf der Gläubiger das Pfandstück nicht benützen; er muß es vielmehr genau bewahren, und, wenn es durch sein Verschulden in Verlust geräth, dafür haften. Geht es ohne sein Verschulden verloren, so verliert er deßwegen seine Forderung nicht.
+`§ 565 ABGB.`  
+Der letzte Wille muss bestimmt, mit Überlegung, ernst sowie frei von Drohung, List und wesentlichem Irrtum erklärt werden.
+----
 
-### § 460 ABGB
+----
+### § 566 ABGB # Testierfähigkeit
 
-`§ 460 ABGB.`  
-Hat der Gläubiger das Pfand weiter verpfändet; so haftet er selbst für einen solchen Zufall, wodurch das Pfand bey ihm nicht zu Grunde gegangen oder verschlimmert worden wäre.
+`§ 566 ABGB.`  
+Testierfähig ist, wer die Bedeutung und die Folgen seiner letztwilligen Verfügung verstehen und sich entsprechend verhalten kann.
+----
 
-### § 460a ABGB
+----
+### § 567 ABGB
 
-`§ 460a (1) ABGB.`  
-Wenn eine bewegliche körperliche Sache einschließlich eines Inhaber- oder Orderpapiers als Pfand zu verderben oder erheblich und dauernd so an Wert zu verlieren droht, dass die Sicherheit des Pfandgläubigers gefährdet wird, kann dieser das Pfand bereits vor der Fälligkeit seiner Forderung gemäß den §§ 466a bis 466d außergerichtlich verwerten. Der Pfandgläubiger hat dem Pfandgeber tunlichst die Gelegenheit zur Leistung einer anderweitigen Sicherheit einzuräumen.
+`§ 567 ABGB.`  
+Hat der Verstorbene seinen letzten Willen in einem die Testierfähigkeit ausschließenden Zustand erklärt, etwa unter dem Einfluss einer psychischen Krankheit oder im Rausch, so ist die letztwillige Verfügung ungültig.
+----
 
-`§ 460a (2) ABGB.`  
-Der Erlös tritt an die Stelle des Pfandes. Auf Verlangen des Pfandgebers ist der Erlös zu hinterlegen.
+----
+### § 568 ABGB
 
-### § 461 ABGB # c) nach dem Verfalle der Forderung;
+`§ 568 ABGB.`  
+Wer behauptet, dass ein sonst nach § 566 testierunfähiger Verstorbener bei Erklärung des letzten Willens testierfähig war (lichter Augenblick), hat dies zu beweisen.
+----
 
-`§ 461 ABGB.`  
-Wird der Pfandgläubiger nach Verlauf der bestimmten Zeit nicht befriediget; so ist er befugt, die Feilbiethung des Pfandes gerichtlich zu verlangen. Das Gericht hat dabey nach Vorschrift der Gerichtsordnung zu verfahren.
+----
+### § 569 ABGB # Alter
 
-### § 462 ABGB
+`§ 569 ABGB.`  
+Unmündige Personen sind testierunfähig. Mündige Minderjährige können – ausgenommen im Notfall (§ 584) – nur mündlich vor Gericht oder Notar testieren. Das Gericht oder der Notar hat sich davon zu überzeugen, dass die Erklärung des letzten Willens frei und überlegt erfolgt. Die Erklärung des letzten Willens und das Ergebnis der Erhebungen sind in einem Protokoll festzuhalten.
+----
 
-`§ 462 ABGB.`  
-Vor der Feilbiethung des Gutes ist jedem darauf eingetragenen Pfandgläubiger die Einlösung der Forderung, wegen welcher die Feilbiethung angesucht worden, zu gestatten.
+----
+### § 570 ABGB # Wesentlicher Irrtum
 
-### § 463 ABGB
+`§ 570 ABGB.`  
+Ein wesentlicher Irrtum des Verstorbenen macht die Anordnung ungültig. Der Irrtum ist insbesondere wesentlich, wenn der Verstorbene die bedachte Person oder die zugewendete Sache verfehlt hat.
+----
 
-`§ 463 ABGB.`  
-Schuldner haben kein Recht, bey Versteigerung einer von ihnen verpfändeten Sache mitzubiethen.
+----
+### § 571 ABGB # Falsche Bezeichnung
 
-### § 464 ABGB
+`§ 571 ABGB.`  
+Wenn sich zeigt, dass der Verstorbene die bedachte Person oder die zugewendete Sache nur unrichtig benannt oder beschrieben hat, ist die Verfügung gültig.
+----
 
-`§ 464 ABGB.`  
-Wird der Schuldbetrag aus dem Pfande nicht gelöset, so ersetzt der Schuldner das Fehlende; ihm fällt aber auch das zu, was über den Schuldbetrag gelöset wird.
+----
+### § 572 ABGB # Motivirrtum
 
-### § 465 ABGB
+`§ 572 ABGB.`  
+Auch wenn sich der vom Verstorbenen angegebene Beweggrund als falsch herausstellt, bleibt die Verfügung gültig, es sei denn, dass sein Wille einzig und allein auf diesem irrigen Beweggrund beruht hat.
+----
 
-`§ 465 ABGB.`  
-In wie fern ein Pfandgläubiger sich an sein Pfand zu halten schuldig; oder, auf ein anderes Vermögen seines Schuldners zu greifen berechtigt sey, bestimmt die Gerichtsordnung.
+----
+### § 575 ABGB # Zeitpunkt für die Beurteilung der Gültigkeit
 
-### § 466 ABGB
+`§ 575 ABGB.`  
+Die Voraussetzungen der Gültigkeit einer letztwilligen Verfügung müssen bei deren Errichtung vorliegen.
+----
 
-`§ 466 ABGB.`  
-Hat der Schuldner während der Verpfändungszeit das Eigenthum der verpfändeten Sache auf einen Andern übertragen; so steht dem Gläubiger frey, erst sein persönliches Recht gegen den Schuldner, und dann seine volle Befriedigung an der verpfändeten Sache zu suchen.
+----
+### § 576 ABGB
 
-### § 466a ABGB # d) außergerichtliche Pfandverwertung
+`§ 576 ABGB.`  
+Eine anfänglich ungültige letztwillige Verfügung wird durch den späteren Wegfall des Hindernisses nicht gültig. Wird in diesem Fall keine neue Verfügung getroffen, so tritt die gesetzliche Erbfolge ein.
+----
 
-`§ 466a (1) ABGB.`  
-Der Pfandgläubiger kann sich aus einer beweglichen körperlichen Sache (§ 460a Abs. 1), die ihm verpfändet worden ist oder an der er ein gesetzliches Pfandrecht erworben hat, auch durch den Verkauf der Sache befriedigen.
+----
+## III. Form der letztwilligen Verfügung
 
-`§ 466a (2) ABGB.`  
-Der Pfandgläubiger hat bei der Verwertung der Sache angemessen auf die Interessen des Pfandgebers Bedacht zu nehmen.
+### § 577 ABGB # Arten
 
-`§ 466a (3) ABGB.`  
-Der Pfandgläubiger und der Pfandgeber können abweichende Arten der außergerichtlichen Pfandverwertung vereinbaren. Besondere Vorschriften über die außergerichtliche Verwertung von Sicherheiten bleiben unberührt.
+`§ 577 ABGB.`  
+Eine letztwillige Verfügung kann nach Maßgabe der folgenden Bestimmungen außergerichtlich oder gerichtlich, schriftlich oder mündlich und schriftlich mit oder ohne Zeugen errichtet werden.
+----
 
-### § 466b ABGB
+----
+### § 578 ABGB # Eigenhändige Verfügung
 
-`§ 466b (1) ABGB.`  
-Der Pfandgläubiger hat dem Pfandgeber nach Eintritt der Fälligkeit der gesicherten Forderung den Verkauf der Sache anzudrohen, soweit dies nicht untunlich ist. Er hat dabei die Höhe der ausstehenden Forderung anzugeben. Der Verkauf darf erst einen Monat nach dessen Androhung oder, wenn diese untunlich war, nach Eintritt der Fälligkeit stattfinden. Besteht an der Sache ein anderes Pfandrecht, so hat der Gläubiger den Verkauf auch dem anderen Pfandgläubiger anzudrohen. Diesem ist die Einlösung der Forderung zu gestatten (§ 462).
+`§ 578 ABGB.`  
+Wer schriftlich ohne Zeugen letztwillig verfügen will, muss die Verfügung eigenhändig schreiben und eigenhändig mit seinem Namen unterschreiben. Die Beisetzung von Ort und Datum der Errichtung ist zwar nicht notwendig, aber ratsam.
+----
 
-`§ 466b (2) ABGB.`  
-Der Verkauf ist im Wege einer öffentlichen Versteigerung durch einen dazu befugten Unternehmer zu bewirken.
+----
+### § 579 ABGB # Fremdhändige Verfügung
 
-`§ 466b (3) ABGB.`  
-Zeit und Ort der Versteigerung sind unter allgemeiner Bezeichnung des Pfandes öffentlich bekannt zu machen. Der Pfandgeber und Dritte, denen Rechte am Pfand zustehen, sind hievon zu benachrichtigen.
+`§ 579 (1) ABGB.`  
+Eine von ihm nicht eigenhändig geschriebene letztwillige Verfügung muss der Verfügende in Gegenwart von drei gleichzeitig anwesenden Zeugen eigenhändig unterschreiben und mit einem eigenhändig geschriebenen Zusatz versehen, dass die Urkunde seinen letzten Willen enthält.
 
-`§ 466b (4) ABGB.`  
-Sachen mit einem Börsen- oder Marktpreis dürfen zu diesem Preis vom Pfandgläubiger auch aus freier Hand verkauft werden. Wertpapiere, die einen Börsen- oder Marktpreis haben, sowie Sparurkunden dürfen nur aus freier Hand zu ihrem Preis oder Wert verkauft werden.
+`§ 579 (2) ABGB.`  
+Die Zeugen, deren Identität aus der Urkunde hervorgehen muss, haben auf der Urkunde mit einem auf ihre Eigenschaft als Zeugen hinweisenden und eigenhändig geschriebenen Zusatz zu unterschreiben. Den Inhalt der letztwilligen Verfügung müssen sie nicht kennen.
+----
 
-### § 466c ABGB
+----
+### § 580 ABGB
 
-`§ 466c (1) ABGB.`  
-Das Pfand darf nur mit der Bestimmung verkauft werden, dass der Erwerber den Kaufpreis sofort zu entrichten hat. Wird die Sache dem Erwerber vor der Entrichtung des Preises übergeben, so gilt auch der Kaufpreis als dem Pfandgläubiger übergeben.
+`§ 580 (1) ABGB.`  
+Wenn der letztwillig Verfügende nicht schreiben kann, muss er statt der Unterschrift und des eigenhändigen Zusatzes sein Handzeichen in Gegenwart der in § 579 genannten Zeugen eigenhändig setzen und ausdrücklich vor ihnen erklären, dass die Urkunde sein letzter Wille ist. Die Anführung des Namens des letztwillig Verfügenden durch einen Zeugen ist zwar nicht notwendig, aber ratsam.
 
-`§ 466c (2) ABGB.`  
-Der Pfandgläubiger hat den Pfandgeber vom Verkauf des Pfandes und von dessen Ergebnis unverzüglich zu verständigen.
+`§ 580 (2) ABGB.`  
+Wer nicht lesen kann, muss sich die fremdhändige Verfügung von einem Zeugen in Gegenwart der beiden anderen Zeugen, die den Inhalt eingesehen haben, vorlesen lassen und bekräftigen, dass dieser seinem Willen entspricht.
+----
 
-`§ 466c (3) ABGB.`  
-Mit dem Verkauf erlöschen die Pfandrechte an der Sache selbst. Das Gleiche gilt für andere dingliche Rechte, sofern diese nicht allen Pfandrechten im Rang vorgehen.
+----
+### § 581 ABGB # Gerichtliche Verfügung
 
-`§ 466c (4) ABGB.`  
-Der Kaufpreis gebührt dem Pfandgläubiger nach Maßgabe seines Ranges im Ausmaß der gesicherten Forderung und der angemessenen Kosten einer zweckentsprechenden Verwertung. Im Übrigen tritt der Anspruch des Pfandgebers auf Herausgabe des Mehrbetrags an die Stelle des Pfandes.
+`§ 581 (1) ABGB.`  
+Eine letztwillige Verfügung kann auch vor Gericht schriftlich oder mündlich errichtet werden.
 
-`§ 466c (5) ABGB.`  
-Wenn der Pfandgläubiger und der Pfandgeber eine abweichende Art der Pfandverwertung vereinbaren und am Pfand einem Dritten ein Recht zusteht, das durch die Verwertung erlischt, so bedarf die Vereinbarung zu ihrer Wirksamkeit der Zustimmung des Dritten.
+`§ 581 (2) ABGB.`  
+Die schriftliche Verfügung muss der Verfügende eigenhändig unterschreiben und dem Gericht persönlich übergeben. Das Gericht hat ihn darüber zu belehren, dass die Verfügung eigenhändig unterschrieben sein muss, die Verfügung gerichtlich zu versiegeln und auf dem Umschlag anzumerken, wessen letzter Wille darin enthalten ist. Über die Amtshandlung ist ein Protokoll aufzunehmen. Die letztwillige Verfügung ist gegen Ausstellung einer Empfangsbestätigung gerichtlich zu hinterlegen.
 
-### § 466d ABGB
+`§ 581 (3) ABGB.`  
+Will der letztwillig Verfügende seinen letzten Willen mündlich erklären, so ist über die Erklärung ein Protokoll aufzunehmen und dieses versiegelt zu hinterlegen.
+----
 
-`§ 466d ABGB.`  
-Wenn der Pfandgläubiger die Sache außergerichtlich als Pfand verwertet, genügt für die Redlichkeit des Erwerbers (§§ 367 und 368) der gute Glaube in die Befugnis des Pfandgläubigers, über die Sache zu verfügen.
+----
+### § 582 ABGB
 
-### § 466e ABGB
+`§ 582 (1) ABGB.`  
+Das Gericht, das die schriftliche oder mündliche Erklärung des letzten Willens aufnimmt, muss zumindest aus zwei Gerichtsbediensteten bestehen, wobei eine Person an diesem Gericht als Richter tätig sein muss. Der zweite Gerichtsbedienstete kann durch zwei andere Zeugen ersetzt werden.
 
-`§ 466e (1) ABGB.`  
-Besteht das Pfandrecht an einem Inhaber- oder Orderpapier, so ist der Pfandgläubiger berechtigt, eine etwa erforderliche Kündigung vorzunehmen und die Forderung aus dem Wertpapier einzuziehen.
+`§ 582 (2) ABGB.`  
+Im Notfall kann sich das Gericht zu der Person begeben, die eine letztwillige Verfügung errichten will, und seinen letzten Willen zu Protokoll nehmen.
+----
 
-`§ 466e (2) ABGB.`  
-Ist die Forderung aus dem verpfändeten Papier bereits fällig, so kann der Pfandgläubiger diese auch dann einziehen, wenn die gesicherte Forderung noch nicht fällig ist. In diesem Fall erwirbt der Pfandgläubiger ein Pfandrecht an der erhaltenen Leistung. Besteht die Leistung in Geld, so hat der Pfandgläubiger den erhaltenen Betrag nach den Bestimmungen über die Anlegung von Mündelgeld zu veranlagen.
+----
+### § 583 ABGB # Notarielle Verfügung
 
-### § 467 ABGB # Erlöschung des Pfandrechtes.
+`§ 583 ABGB.`  
+Eine letztwillige Verfügung kann weiters vor zwei Notaren oder vor einem Notar und zwei Zeugen schriftlich oder mündlich errichtet werden. Die §§ 67 und 70 bis 75 Notariatsordnung sind anzuwenden.
+----
 
-`§ 467 ABGB.`  
-Wenn die verpfändete Sache zerstört wird; wenn sich der Gläubiger seines Rechtes darauf gesetzmäßig begibt; oder, wenn er sie dem Schuldner ohne Vorbehalt zurückstellt; so erlischt zwar das Pfandrecht, aber die Schuldforderung besteht noch.
+----
+### § 584 ABGB # Nottestament
 
-### § 468 ABGB
+`§ 584 (1) ABGB.`  
+Droht aus Sicht des letztwillig Verfügenden unmittelbar die begründete Gefahr, dass er stirbt oder die Testierfähigkeit verliert, bevor er seinen letzten Willen auf andere Weise zu erklären vermag, so kann er seinen letzten Willen in Gegenwart von zwei Zeugen fremdhändig (§ 579) oder mündlich erklären. Eine solche mündliche letztwillige Verfügung muss durch die übereinstimmenden Aussagen der Zeugen bestätigt werden, widrigenfalls diese Erklärung des letzten Willens ungültig ist.
 
-`§ 468 ABGB.`  
-Das Pfandrecht erlischt ferner mit der Zeit, auf welche es eingeschränkt war, folglich auch mit dem zeitlichen Rechte des Pfandgebers auf die verpfändete Sache, wenn anders dieser Umstand dem Gläubiger bekannt war, oder aus den öffentlichen Büchern bekannt seyn konnte.
+`§ 584 (2) ABGB.`  
+Ein so erklärter letzter Wille verliert drei Monate nach Wegfall der Gefahr seine Gültigkeit und gilt als nicht errichtet. Im Zweifel ist damit auch der durch das Nottestament erfolgte Widerruf einer früheren letztwilligen Verfügung (§§ 713 und 714) aufgehoben.
+----
 
-### § 469 ABGB
+----
+### § 585 ABGB # Verweisende Verfügung
 
-`§ 469 ABGB.`  
-Durch Tilgung der Schuld hört das Pfandrecht auf. Der Pfandgeber ist aber die Schuld nur gegen dem zu tilgen verbunden, daß ihm das Pfand zugleich zurückgestellt werde. Zur Aufhebung einer Hypothek ist die Tilgung der Schuld allein nicht hinreichend. Ein Hypothekargut bleibt so lange verhaftet, bis die Schuld aus den öffentlichen Büchern gelöscht ist. Bis dahin kann der Eigentümer des Gutes auf Grund einer Quittung oder einer anderen, das Erlöschen der Pfandschuld dartuenden Urkunde das Pfandrecht auf eine neue Forderung übertragen, die den Betrag der eingetragenen Pfandforderung nicht übersteigt.
+`§ 585 ABGB.`  
+Eine Verfügung des Verstorbenen durch Verweis auf einen Zettel oder auf eine andere Urkunde ist nur wirksam, wenn eine solche Urkunde alle Gültigkeitserfordernisse einer letztwilligen Verfügung erfüllt. Sonst können derartige schriftliche Bemerkungen des Verstorbenen nur zur Auslegung seines Willens herangezogen werden.
+----
 
-### § 469a ABGB
+----
+### § 586 ABGB # Gemeinschaftliche letztwillige Verfügungen
 
-`§ 469a ABGB.`  
-Bei Bestellung des Pfandrechtes kann auf dieses Verfügungsrecht nicht verzichtet werden. Ist jedoch im öffentlichen Buch ein der Hypothek im Rang nachfolgendes oder ihr gleichrangiges, rechtsgeschäftlich bestelltes Recht eingetragen, so kann der Eigentümer über die Hypothek nur dann verfügen, wenn er sich das Verfügungsrecht gegenüber dem Buchberechtigten vertraglich vorbehalten hat und dieser Vorbehalt im öffentlichen Buch bei der Hypothek angemerkt ist.
+`§ 586 (1) ABGB.`  
+In der Regel gilt ein und dieselbe schriftliche letztwillige Verfügung nur für einen Verstorbenen.
 
-### § 470 ABGB
+`§ 586 (2) ABGB.`  
+Allerdings können Ehegatten oder eingetragene Partner in einem Testament einander gegenseitig oder andere Personen als Erben einsetzen. Ein solches Testament ist widerruflich. Aus dem Widerruf der gegenseitigen Erbeinsetzung durch einen Teil kann auf den Widerruf dieser Erbeinsetzung durch den anderen geschlossen werden.
+----
 
-`§ 470 ABGB.`  
-Wird nach Tilgung der Schuld (§ 469) oder eingetretener Vereinigung (§ 1446), bevor das Pfandrecht bücherlich gelöscht oder die Liegenschaft oder das Pfandrecht übertragen worden ist, das Hypothekargut zwangsweise versteigert oder dessen Zwangsverwaltung bewilligt, so ist bei Verteilung des Erlöses auf dieses Pfandrecht keine Rücksicht zu nehmen. Nur insoweit die durch das Pfandrecht gesicherte Forderung gegen einen Dritten noch fortbesteht oder dem Eigentümer der Ersatz für deren Tilgung gebührt (§ 1358), wird der darauf entfallende Teil dem Eigentümer zugewiesen.
+----
+### § 587 ABGB # Zeugen
 
-### § 471 ABGB # Von dem Retentions-Rechte.
+`§ 587 ABGB.`  
+Unmündige Minderjährige, Personen, die auf Grund einer körperlichen oder geistigen Beeinträchtigung nicht fähig sind, entsprechend der jeweiligen Testamentsform einen letzten Willen zu bezeugen, sowie Personen, die die Sprache des letztwillig Verfügenden nicht verstehen, können nicht Zeugen letztwilliger Verfügungen sein. Mündige Minderjährige können nur Zeugen eines Nottestaments sein.
+----
 
-`§ 471 (1) ABGB.`  
-Wer zur Herausgabe einer Sache verpflichtet ist, kann sie zur Sicherung seiner fälligen Forderungen wegen des für die Sache gemachten Aufwandes oder des durch die Sache ihm verursachten Schadens mit der Wirkung zurückbehalten, daß er zur Herausgabe nur gegen die Zug um Zug zu bewirkende Gegenleistung verurteilt werden kann.
+----
+### § 588 ABGB
 
-`§ 471 (2) ABGB.`  
-Die Ausübung des Zurückbehaltungsrechtes kann durch Sicherheitsleistung abgewendet werden; Sicherheitsleistung durch Bürgen ist ausgeschlossen.
+`§ 588 (1) ABGB.`  
+Ein Erbe oder Vermächtnisnehmer ist für die ihm zugedachte Zuwendung kein fähiger Zeuge, ebenso wenig sein Ehegatte, eingetragener Partner oder Lebensgefährte, seine Eltern, Kinder, Geschwister sowie die Eltern, Kinder und Geschwister des Ehegatten, eingetragenen Partners oder Lebensgefährten des Erben oder Vermächtnisnehmers.
 
-## Siebentes Hauptstück # Von Dienstbarkeiten (Servituten)
+`§ 588 (2) ABGB.`  
+Zeugnisunfähig sind auch gesetzliche Vertreter, vertretungsbefugte Organe, Gesellschafter, Machthaber und Dienstnehmer bedachter Personen oder rechtsfähiger Gesellschaften.
+----
 
-### § 472 ABGB # Begriff des Rechtes der Dienstbarkeit
+----
+### § 589 ABGB
 
-`§ 472 ABGB.`  
-Durch das Recht der Dienstbarkeit wird ein Eigenthümer verbunden, zum Vortheile eines Andern in Rücksicht seiner Sache etwas zu dulden oder zu unterlassen. Es ist ein dingliches, gegen jeden Besitzer der dienstbaren Sache wirksames Recht.
+`§ 589 ABGB.`  
+Die Bestimmungen über die Fähigkeit und Unbefangenheit der Zeugen sind auch auf die Gerichtsbediensteten und Notare anzuwenden, die den letzten Willen aufnehmen.
+----
 
-### § 473 ABGB # Eintheilung der Dienstbarkeiten in Grunddienstbarkeiten und persönliche;
+----
+### § 590 ABGB # Ausgeschlossenheit des Verfassers
 
-`§ 473 ABGB.`  
-Wird das Recht der Dienstbarkeit mit dem Besitze eines Grundstückes zu dessen vortheilhafteren oder bequemeren Benützung verknüpft; so entsteht eine Grunddienstbarkeit; außer dem ist die Dienstbarkeit persönlich.
+`§ 590 ABGB.`  
+Der Verfasser einer nicht vom letztwillig Verfügenden handschriftlich geschriebenen Erklärung kann zugleich Zeuge sein, ist aber, wenn der Verfügende nicht lesen kann, vom Vorlesen des letzten Willens ausgeschlossen.
+----
 
-### § 474 ABGB # in Feld- und Haus-Servituten.
+----
+### § 591 ABGB
 
-`§ 474 ABGB.`  
-Grunddienstbarkeiten setzen zwey Grundbesitzer voraus, deren Einem als Verpflichteten das dienstbare; dem Andern als Berechtigten das herrschende Gut gehört. Das herrschende Grundstück ist entweder zur Landwirthschaft oder zu einem andern Gebrauche bestimmt; daher unterscheidet man auch die Feld- und Haus-Servituten.
+`§ 591 ABGB.`  
+Für den bedachten Verfasser einer letztwilligen Verfügung und ihm nahestehende bedachte Personen oder Gesellschaften gilt § 588 entsprechend.
+----
 
-## Gewöhnlichere Arten:
+----
+### § 601 ABGB # Formungültige letztwillige Verfügungen
 
-### § 475 ABGB # a) der Haus-Servituten;
+`§ 601 ABGB.`  
+Wurde bei Errichtung einer letztwilligen Verfügung eine zwingende Formvorschrift nicht eingehalten, so ist die letztwillige Verfügung ungültig.
+----
 
-`§ 475 ABGB.`  
-Die Haus-Servituten sind gewöhnlich:
-1) Das Recht, eine Last seines Gebäudes auf ein fremdes Gebäude zu setzen;
-2) Einen Balken oder Sparren in eine fremde Wand einzufügen;
-3) Ein Fenster in der fremden Wand zu öffnen; es sey des Lichtes oder der Aussicht wegen;
-4) Ein Dach oder einen Erker über des Nachbars Luftraum zu bauen;
-5) Den Rauch durch des Nachbars Schorstein zu führen;
-6) Die Dachtraufe auf fremden Grund zu leiten;
-7) Flüssigkeiten auf des Nachbars Grund zu gießen oder durchzuführen.
-Durch diese und ähnliche Haus-Servituten wird ein Hausbesitzer befugt, etwas auf dem Grunde seines Nachbars vorzunehmen, was dieser dulden muß.
+----
+## IV. Vereinbarungen von Todes wegen
 
-### § 476 ABGB
+### § 602 ABGB # Erbverträge
 
-`§ 476 ABGB.`  
-Durch andere Haus-Servituten wird der Besitzer des dienstbaren Grundes verpflichtet, etwas zu unterlassen, was ihm sonst zu thun frey stand. Dergleichen sind:
-8) Sein Haus nicht zu erhöhen;
-9) Es nicht niedriger zu machen;
-10) Dem herrschenden Gebäude Licht und Luft;
-11) Oder Aussicht nicht zu benehmen;
-12) Die Dachtraufe seines Hauses von dem Grunde des Nachbars, dem sie zur Bewässerung seines Gartens oder zur Füllung seiner Cisterne, oder auf eine andere Art nützlich seyn kann, nicht abzuleiten.
+`§ 602 ABGB.`  
+Erbverträge können nur zwischen Ehegatten, eingetragenen Partnern sowie Personen, die sich verlobt oder die eingetragene Partnerschaft versprochen haben, gültig geschlossen werden. Die Vorschriften hierüber sind im Achtundzwanzigsten Hauptstück enthalten.
+----
 
-### § 477 ABGB # b) der Feld-Servituten.
+----
+### § 603 ABGB # Schenkung auf den Todesfall
 
-`§ 477 ABGB.`  
-Die vorzüglichen Feld-Servituten sind:
-1) das Recht, einen Fußsteig, Viehtrieb oder Fahrweg auf fremden Grund und Boden zu halten;
-2) das Wasser zu schöpfen, das Vieh zu tränken, das Wasser ab- und herzuleiten;
-3) das Vieh zu hüthen und zu weiden;
-4) Holz zu fällen, verdorrte Aeste und Reiser zu sammeln, Eicheln zu lesen, Laub zu rechen;
-5) zu jagen, zu fischen, Vögel zu fangen;
-6) Steine zu brechen, Sand zu graben, Kalk zu brennen.
+`§ 603 ABGB.`  
+Eine Schenkung auf den Todesfall ist auch nach dem Tod des Geschenkgebers als Vertrag anzusehen, wenn er sich kein Widerrufsrecht vertraglich vorbehalten hat und der Vertrag als Notariatsakt aufgenommen wurde. Die Bestimmungen des Achtzehnten Hauptstücks von Schenkungen und § 1253 sind anzuwenden.
+----
 
-### § 478 ABGB # Arten der persönlichen Dienstbarkeiten.
+----
+## Zehntes Hauptstück # Von der Ersatz- und Nacherbschaft
 
-`§ 478 ABGB.`  
-Die persönlichen Servituten sind: der nöthige Gebrauch einer Sache; die Fruchtnießung; und die Wohnung.
+### § 604 ABGB # Ersatzerbschaft
 
-### § 479 ABGB # Unregelmäßige und Schein-Servituten.
+`§ 604 (1) ABGB.`  
+Für den Fall, dass der eingesetzte oder gesetzliche Erbe die Erbschaft nicht erlangt, können ein Ersatzerbe, und wenn auch dieser sie nicht erlangt, ein zweiter oder auch noch weitere Ersatzerben berufen werden.
 
-`§ 479 ABGB.`  
-Es können aber auch Dienstbarkeiten, welche an sich Grunddienstbarkeiten sind, der Person allein; oder, es können Begünstigungen, die ordentlicher Weise Servituten sind, nur bloß auf Widerrufen zugestanden werden. Die Abweichungen von der Natur einer Servitut werden jedoch nicht vermuthet; wer sie behauptet, dem liegt der Beweis ob.
+`§ 604 (2) ABGB.`  
+Ersatzerben gehen Anwachsungsberechtigten (§ 560) jedenfalls vor.
+----
 
-### § 480 ABGB # Erwerbung des Rechtes der Dienstbarkeit. Titel zur Erwerbung.
+----
+### § 605 ABGB # Vermutete Ersatzerbschaft
 
-`§ 480 ABGB.`  
-Der Titel zu einer Servitut ist auf einem Vertrage; auf einer letzten Willenserklärung; auf einem bey der Theilung gemeinschaftlicher Grundstücke erfolgten Rechtsspruche; oder endlich, auf Verjährung gegründet.
+`§ 605 ABGB.`  
+Es wird vermutet, dass der Verstorbene die Nachkommen eingesetzter Kinder zu Ersatzerben einsetzen wollte.
+----
 
-### § 481 ABGB # Erwerbungsart.
+----
+### § 606 ABGB # Rechte und Pflichten des Ersatzerben
 
-`§ 481 (1) ABGB.`  
-Das dingliche Recht der Dienstbarkeit kann an Gegenständen, die in den öffentlichen Büchern eingetragen sind, nur durch die Eintragung in diese erworben werden.
+`§ 606 ABGB.`  
+Die Rechte und Pflichten des Erben kommen auch dem an seine Stelle tretenden Ersatzerben zu, sofern sie nicht nach dem ausdrücklichen Willen des Verstorbenen oder nach den Umständen des Falles allein die Person des Erben betreffen. Für einschränkende Bedingungen gilt § 702.
+----
 
-`§ 481 (2) ABGB.`  
-An bücherlich nicht eingetragenen Liegenschaften (§ 434) oder an Bauwerken (§ 435) wird das dingliche Recht durch die gerichtliche Hinterlegung einer über die Einräumung der Dienstbarkeit errichteten beglaubigten Urkunde; auf andere Sachen aber durch die oben (§§ 426 bis 428) angegebenen Arten der Übergabe erworben.
+----
+### § 607 ABGB # Gegenseitige Ersatzerbschaft
 
-## Rechtsverhältnis bey den Dienstbarkeiten.
+`§ 607 ABGB.`  
+Sind allein Miterben gegenseitig zu Ersatzerben berufen, so wird vermutet, dass der Verstorbene die in der Einsetzung bestimmten Teile auch auf die Ersatzerbschaft ausdehnen wollte. Ist aber in der Ersatzerbschaft außer den Miterben auch eine andere Person zum Ersatzerben berufen, so fällt der frei gewordene Erbteil allen zu gleichen Teilen zu.
+----
 
-### § 482 ABGB # Allgemeine Vorschriften über das Recht der Dienstbarkeit.
+----
+### § 608 ABGB # Nacherbschaft
 
-`§ 482 ABGB.`  
-Alle Servituten kommen darin überein, daß der Besitzer der dienstbaren Sache in der Regel nicht verbunden ist, etwas zu thun; sondern nur einem Andern die Ausübung eines Rechtes zu gestatten, oder das zu unterlassen, was er als Eigenthümer sonst zu thun berechtiget wäre.
+`§ 608 (1) ABGB.`  
+Der letztwillig Verfügende kann einen Erben so einsetzen, dass dieser erst nach einem anderen Erben erbt. Der Nacherbe ist im Zweifel auch Ersatzerbe.
 
-### § 483 ABGB
+`§ 608 (2) ABGB.`  
+Hat der Verstorbene nichts anderes verfügt, so tritt der Nacherbfall mit dem Tod des Vorerben ein.
+----
 
-`§ 483 ABGB.`  
-Daher muß auch der Aufwand zur Erhaltung und Herstellung der Sache, welche zur Dienstbarkeit bestimmt ist, in der Regel von dem Berechtigten getragen werden. Wenn aber diese Sache auch von dem Verpflichteten benützet wird; so muß er verhältnißmäßig zu dem Aufwande beytragen, und nur durch die Abtretung derselben an den Berechtigten kann er sich, auch ohne dessen Beystimmung, von dem Beytrage befreyen.
+----
+### § 609 ABGB # Nacherbschaft auf den Überrest
 
-### § 484 ABGB
+`§ 609 ABGB.`  
+Eine Nacherbschaft auf den Überrest liegt vor, wenn der Nacherbe nach dem Willen des Verstorbenen nur das erhalten soll, was beim Ableben des Vorerben noch übrig ist.
+----
 
-`§ 484 ABGB.`  
-Der Besitzer des herrschenden Gutes kann zwar sein Recht auf die ihm gefällige Art ausüben; doch dürfen Servituten nicht erweitert, sie müssen vielmehr, in so weit es ihre Natur und der Zweck der Bestellung gestattet, eingeschränkt werden.
+----
+### § 610 ABGB # Umdeutung von Testieranordnungen
 
-### § 485 ABGB
+`§ 610 (1) ABGB.`  
+Hat der letztwillig Verfügende dem Erben verboten oder zugunsten einer bestimmten Person geboten, über die Verlassenschaft zu testieren, so ist dies im Zweifel in eine Nacherbschaft auf den Überrest umzudeuten, und zwar im Fall des Verbots zugunsten der gesetzlichen Erben, im Fall des Gebots zugunsten der bestimmten Person.
 
-`§ 485 ABGB.`  
-Keine Servitut läßt sich eigenmächtig von der dienstbaren Sache absondern, noch auf eine andere Sache oder Person übertragen. Auch wird jede Servitut insofern für unteilbar gehalten, als das auf dem Grundstücke haftende Recht durch Vergrößerung, Verkleinerung oder Zerstücklung desselben, abgesehen von dem im § 847 bezeichneten Falle, weder verändert noch geteilt werden kann.
+`§ 610 (2) ABGB.`  
+Das Verbot, eine Sache zu veräußern, schließt im Zweifel das Recht, darüber letztwillig zu verfügen, nicht aus.
+----
 
-### § 486 ABGB
+----
+### § 611 ABGB # Nacherbschaft bei Zeitgenossen
 
-`§ 486 ABGB.`  
-Ein Grundstück kann mehrern Personen zugleich dienstbar seyn, wenn anders die ältern Rechte eines Dritten nicht darunter leiden.
+`§ 611 ABGB.`  
+Wenn die Nacherben Zeitgenossen des letztwillig Verfügenden sind, kann er sie ohne zahlenmäßige Beschränkung als Nacherben einsetzen. Zeitgenossen sind natürliche Personen, die zum Zeitpunkt der Errichtung der Nacherbschaft bereits gezeugt (§ 22) oder geboren sind.
+----
 
-### § 487 ABGB # Anwendung auf die Grunddienstbarkeiten: insbesondere auf das Recht, eine Last, einen Balken auf fremdem Gebäude zu haben oder den Rauch durchzuführen.
+----
+### § 612 ABGB # Einschränkung der Nacherbschaft
 
-`§ 487 ABGB.`  
-Nach den hier aufgestellten Grundsätzen sind die Rechtsverhältnisse bey den besondern Arten der Servituten zu bestimmen. Wer also die Last des benachbarten Gebäudes zu tragen; die Einfügung des fremden Balkens an seiner Wand; oder, den Durchzug des fremden Rauches in seinem Schorsteine zu dulden hat; der muß verhältnißmäßig zur Erhaltung der dazu bestimmten Mauer, Säule, Wand oder des Schorsteines beytragen. Es kann ihm aber nicht zugemuthet werden, daß er das herrschende Gut unterstützen oder den Schorstein des Nachbars ausbessern lasse.
+`§ 612 ABGB.`  
+Sind die Nacherben im Zeitpunkt der Errichtung der letztwilligen Verfügung noch keine Zeitgenossen des Verfügenden, so ist die Nacherbschaft bei Geld und anderen beweglichen Sachen auf zwei Nacherbfälle, bei unbeweglichen Sachen auf einen Nacherbfall beschränkt.
+----
 
-### § 488 ABGB # Fensterrecht.
+----
+### § 613 ABGB # Rechte des Vorerben
 
-`§ 488 ABGB.`  
-Das Fensterrecht gibt nur auf Licht und Luft Anspruch; die Aussicht muß besonders bewilligt werden. Wer kein Recht zur Aussicht hat, kann angehalten werden, das Fenster zu vergittern. Mit dem Fensterrechte ist die Schuldigkeit verbunden, die Oeffnung zu verwahren; wer diese Verwahrung vernachlässiget, haftet für den daraus entstehenden Schaden.
+`§ 613 (1) ABGB.`  
+Bis zum Eintritt der Nacherbschaft kommt dem eingesetzten Vorerben das eingeschränkte Eigentumsrecht mit den Rechten und Verbindlichkeiten eines Fruchtnießers zu.
 
-### § 489 ABGB # Recht der Dachtraufe.
+`§ 613 (2) ABGB.`  
+Verfügungen über Sachen der von der Nacherbschaft erfassten Verlassenschaft sind mit der Zustimmung des Nacherben zulässig, sonst nur zur Erfüllung von Verbindlichkeiten der Verlassenschaft, zur Vermeidung von Schäden an derselben oder soweit sie im Rahmen der ordentlichen Verwaltung erfolgen.
 
-`§ 489 ABGB.`  
-Wer das Recht der Dachtraufe besitzt, kann das Regenwasser auf das fremde Dach frey oder durch Rinnen abfließen lassen; er kann auch sein Dach erhöhen; doch muß er solche Vorkehrungen treffen, daß dadurch die Dienstbarkeit nicht lästiger werde. Eben so muß er häufig gefallenen Schnee zeitig hinwegräumen, wie auch die zum Abflusse bestimmten Rinnen unterhalten.
+`§ 613 (3) ABGB.`  
+Erlangt der Vorerbe durch die Verfügung über eine Sache der von der Nacherbschaft erfassten Verlassenschaft Geld oder eine andere Sache, so wird diese Ersatzsache im Zweifel Teil der Verlassenschaft.
 
-### § 490 ABGB # Recht der Ableitung des Regenwassers.
+`§ 613 (4) ABGB.`  
+Ist jedoch die angeordnete Nacherbschaft eine solche auf den Überrest, so kann der Vorerbe wie jeder Eigentümer über Sachen der Verlassenschaft unter Lebenden verfügen.
+----
 
-`§ 490 ABGB.`  
-Wer das Recht hat, das Regenwasser von dem benachbarten Dache auf seinen Grund zu leiten, hat die Obliegenheit, für Rinnen, Wasserkästen und andere dazu gehörige Anstalten die Auslagen allein zu bestreiten.
+----
+### § 614 ABGB # Auslegung einer Ersatz- oder Nacherbschaft
 
-### § 491 ABGB
+`§ 614 ABGB.`  
+Ist eine Ersatz- oder Nacherbschaft undeutlich ausgedrückt, so ist sie auf eine solche Art auszulegen, dass die Freiheit des Erben, über das Eigentum zu verfügen, am wenigsten eingeschränkt wird. Dies gilt auch für die Frage, ob überhaupt eine Ersatz- oder Nacherbschaft angeordnet wurde.
+----
 
-`§ 491 ABGB.`  
-Erfordern die abzuführenden Flüssigkeiten Gräben und Canäle; so muß sie der Eigenthümer des herrschenden Grundes errichten; er muß sie auch ordentlich decken und reinigen, und dadurch die Last des dienstbaren Grundes erleichtern.
+----
+### § 615 ABGB # Erlöschen der Ersatz- und Nacherbschaft
 
-### § 492 ABGB # Recht des Fußsteiges, Viehtriebes und Fahrweges.
+`§ 615 (1) ABGB.`  
+Eine Ersatzerbschaft erlischt im Zweifel, sobald der eingesetzte Erbe die Erbschaft angetreten hat. Eine Nacherbschaft erlischt, wenn kein berufener Nacherbe mehr vorhanden ist oder wenn sie unter einer aufschiebenden Bedingung errichtet wurde, die endgültig nicht eintreten kann.
 
-`§ 492 ABGB.`  
-Das Recht des Fußsteiges begreift das Recht in sich, auf diesem Steige zu gehen, sich von Menschen tragen, oder andere Menschen zu sich kommen zu lassen. Mit dem Viehtriebe ist das Recht, einen Schiebkarren zu gebrauchen; und mit dem Fahrwege das Recht, mit Einem oder mehreren Zügen zu fahren, verbunden.
+`§ 615 (2) ABGB.`  
+Das Recht eines Nacherben geht im Zweifel auch dann auf seine Erben über (§ 537 Abs. 1), wenn er den Eintritt des Nacherbfalls nicht erlebt.
+----
 
-### § 493 ABGB
+----
+### § 616 ABGB
 
-`§ 493 ABGB.`  
-Hingegen kann, ohne besondere Bewilligung, das Recht zu gehen, nicht auf das Recht, zu reiten, oder sich durch Thiere tragen zu lassen; weder das Recht des Viehtriebes auf das Recht, schwere Lasten über den dienstbaren Grund zu schleifen; noch das Recht zu fahren, auf das Recht, frey gelassenes Vieh darüber zu treiben, ausgedehnet werden.
+`§ 616 (1) ABGB.`  
+Ist für eine vermeintlich testierunfähige Person ein Nacherbe bestimmt, so ist die Nacherbschaft im Zweifel ungültig, wenn diese Person im Zeitpunkt der Errichtung der letztwilligen Verfügung testierfähig war.
 
-### § 494 ABGB
+`§ 616 (2) ABGB.`  
+Ist für eine tatsächlich testierunfähige Person ein Nacherbe bestimmt, so erlischt die Nacherbschaft im Zweifel, wenn diese Person die Testierfähigkeit später erlangt. Die Nacherbschaft lebt nicht wieder auf, wenn sie später wieder testierunfähig wird.
+----
 
-`§ 494 ABGB.`  
-Zur Erhaltung des Weges, der Brücken und Stege tragen verhältnißmäßig alle Personen oder Grundbesitzer, denen der Gebrauch derselben zusteht, folglich auch der Besitzer des dienstbaren Grundes, so weit bey, als er davon Nutzen zieht.
+----
+### § 617 ABGB
 
-### § 495 ABGB # Raum hierzu.
+`§ 617 ABGB.`  
+Die von einem letztwillig Verfügenden seinem Kind in einem Zeitpunkt angeordnete Ersatz- oder Nacherbschaft, in dem dieses noch keine Kinder hatte, erlischt im Zweifel, wenn es später doch erbfähige Kinder hinterlassen hat.
+----
 
-`§ 495 ABGB.`  
-Der Raum für diese drey Servituten muß dem nöthigen Gebrauche und den Umständen des Ortes angemessen seyn. Werden Wege und Steige durch Ueberschwemmung oder durch einen andern Zufall unbrauchbar; so muß, bis zu der Herstellung in den vorigen Stand, wenn nicht schon die politische Behörde eine Vorkehrung getroffen hat, ein neuer Raum angewiesen werden.
+----
+## Elftes Hauptstück # Vermächtnisse # I. Grundsätze
 
-### § 496 ABGB # Recht, Wasser zu schöpfen.
+### § 647 ABGB # Berufung zum Vermächtnisnehmer
 
-`§ 496 ABGB.`  
-Mit dem Rechte, fremdes Wasser zu schöpfen, wird auch der Zugang zu demselben gestattet.
+`§ 647 (1) ABGB.`  
+Ein Vermächtnis (§ 535) gründet sich auf einen Erb- oder Vermächtnisvertrag, auf den gültig erklärten Willen des Verstorbenen oder auf das Gesetz.
 
-### § 497 ABGB # Recht der Wasserleitung.
+`§ 647 (2) ABGB.`  
+Die Bestimmungen über die Vererblichkeit des Erbrechts (§ 537) und die Erbfähigkeit (§§ 538 bis 543) sowie über die Ausschlagung der Erbschaft (§§ 803 ff.) sind entsprechend anzuwenden.
+----
 
-`§ 497 ABGB.`  
-Wer das Recht hat, Wasser von fremdem Grunde auf den seinigen; oder von seinem Grunde auf fremden zu leiten, ist auch berechtigt, die dazu nöthigen Röhren, Rinnen und Schleußen auf eigene Kosten anzulegen. Das nicht zu überschreitende Maß dieser Anlagen wird durch das Bedürfniß des herrschenden Grundes festgesetzt.
+----
+### § 648 ABGB # Erbe und Vermächtnisnehmer
 
-### § 498 ABGB # Weiderecht.
+`§ 648 (1) ABGB.`  
+Einem Erben kann auch ein Vermächtnis zugedacht werden. Insoweit wird der Erbe als Vermächtnisnehmer behandelt. Im Zweifel ist ein solches Vermächtnis nicht auf den Anteil des begünstigten Erben anzurechnen und belastet alle Erben nach ihrer Erbquote (Vorausvermächtnis).
 
-`§ 498 ABGB.`  
-Ist bey Erwerbung des Weiderechtes die Gattung und die Anzahl des Triebviehes; ferner, die Zeit und das Maß des Genusses nicht bestimmt worden; so ist der ruhige dreyßigjährige Besitz zu schützen. In zweifelhaften Fällen dienen folgende Vorschriften zur Richtschnur.
+`§ 648 (2) ABGB.`  
+Wenn die Anrechnung des Vermächtnisses auf den Erbteil ausdrücklich angeordnet wurde oder sich aus der Auslegung des letzten Willens ergibt (Hineinvermächtnis), liegt darin im Zweifel eine Teilungsanordnung.
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.012](BG.ABGB.012.md))*
+`§ 648 (3) ABGB.`  
+Übersteigt der Wert des Hineinvermächtnisses den letztwillig zugedachten Erbteil, so erhöht sich im Zweifel der Erbteil dieses Erben entsprechend. Im selben Ausmaß vermindern sich die Erbteile der übrigen eingesetzten Erben verhältnismäßig. Im Zweifel kommt es auf den Wert des Hineinvermächtnisses im Zeitpunkt der Errichtung der letztwilligen Verfügung an.
+----
+
+----
+### § 649 ABGB # Vermächtnisschuldner
+
+`§ 649 (1) ABGB.`  
+Aufgrund des Vermächtnisses erwirbt der Vermächtnisnehmer eine Forderung gegen die Verlassenschaft und nach der Einantwortung gegen die Erben.
+
+`§ 649 (2) ABGB.`  
+Im Zweifel haften die Erben zur ungeteilten Hand. Sie haben im Zweifel untereinander im Verhältnis ihrer Erbteile zur Leistung des Vermächtnisses beizutragen, selbst wenn die Sache eines Miterben vermacht worden ist. Die Leistung des Vermächtnisses kann aber auch einem Miterben allein oder einem Vermächtnisnehmer aufgetragen werden.
+----
+
+----
+### § 650 ABGB # Untervermächtnis
+
+`§ 650 ABGB.`  
+Ein Vermächtnisnehmer kann sich von der vollständigen Erfüllung des ihm aufgetragenen weiteren Vermächtnisses nicht mit der Begründung befreien, dass es den Wert des ihm zugedachten Vermächtnisses übersteigt. Nimmt er das Vermächtnis nicht an, so muss derjenige, dem es zufällt, das Untervermächtnis erfüllen oder das ihm zugefallene Vermächtnis dem darauf gewiesenen Untervermächtnisnehmer herausgeben.
+----
+
+----
+### § 651 ABGB # Verteilungsvermächtnis
+
+`§ 651 ABGB.`  
+Wer ein Vermächtnis einer gewissen Personengruppe, etwa seinen Verwandten, seinen Dienstnehmern oder bedürftigen Menschen, zukommen lassen will, kann die Verteilung, welchen Personen was zukommen soll, dem Erben oder einem Dritten überlassen. Ist dazu nichts bestimmt, so kann der Erbe die Verteilung vornehmen.
+----
+
+----
+### § 652 ABGB # Ersatz- und Nachvermächtnis
+
+`§ 652 ABGB.`  
+Es kann auch ein Ersatz- oder Nachvermächtnis angeordnet werden; die Bestimmungen des Zehnten Hauptstücks sind darauf sinngemäß anzuwenden.
+----
+
+----
+### § 653 ABGB # Gegenstand eines Vermächtnisses
+
+`§ 653 (1) ABGB.`  
+Jede Sache, die im Verkehr steht, vererblich ist und den Inhalt einer selbstständigen Forderung bilden kann, kann Gegenstand eines Vermächtnisses sein.
+
+`§ 653 (2) ABGB.`  
+Ist die vermachte Sache verpfändet oder sonst wie belastet, so hat der Vermächtnisnehmer auch die darauf haftenden Lasten zu übernehmen.
+----
+
+----
+### § 654 ABGB # Unmöglichkeit
+
+`§ 654 ABGB.`  
+Ist die Leistung des Vermächtnisses ohne Verschulden des Vermächtnisschuldners oder eines Dritten unmöglich, so erhält der Vermächtnisnehmer keinen Ersatz. Werden aber verkehrsfähige Sachen vermacht, die der Vermächtnisnehmer aus rechtlichen Gründen nicht erwerben kann, so gebührt ihm der Verkehrswert.
+----
+
+----
+## II. Arten von Vermächtnissen
+
+### § 656 ABGB # 1. Gattungsvermächtnisse
+
+`§ 656 ABGB.`  
+Wenn eine oder mehrere Sachen einer Gattung ohne eine nähere Bestimmung vermacht werden und sich mehrere solche Sachen in der Verlassenschaft befinden, kann die Wahl dem Erben, einem Dritten oder dem Vermächtnisnehmer überlassen werden. Im Zweifel steht dem Erben die Wahl zu. Der Erbe und der Dritte müssen ein Stück wählen, das unter Beachtung des letzten Willens den Bedürfnissen des Vermächtnisnehmers entspricht. Der Vermächtnisnehmer kann auch das beste Stück wählen.
+----
+
+----
+### § 657 ABGB
+
+`§ 657 ABGB.`  
+Wenn eine oder mehrere Sachen einer Gattung nach dem Willen des Verstorbenen dessen Eigentum entstammen sollen, sich aber nicht in der Verlassenschaft befinden, ist das Vermächtnis ungültig. Finden sie sich nicht in der bestimmten Zahl, so muss sich der Vermächtnisnehmer mit den vorhandenen begnügen.
+----
+
+----
+### § 658 ABGB
+
+`§ 658 (1) ABGB.`  
+Wenn hingegen solche Sachen nach dem Willen des Verstorbenen nicht ausdrücklich aus seinem Eigentum stammen sollen und sich nicht in der Verlassenschaft befinden, muss sie der Erbe dem Vermächtnisnehmer in einer dessen Bedürfnissen entsprechenden Eigenschaft verschaffen.
+
+`§ 658 (2) ABGB.`  
+Ein Geldvermächtnis verpflichtet den Erben zur Zahlung der bestimmten Summe ohne Rücksicht darauf, ob Bargeld in der Verlassenschaft vorhanden ist oder nicht.
+----
+
+----
+### § 659 ABGB
+
+`§ 659 ABGB.`  
+Kann oder will der Dritte oder der wahlberechtigte Vermächtnisnehmer nicht wählen, so hat das Gericht das Vermächtnis mit Rücksicht auf die Bedürfnisse des Vermächtnisnehmers zu bestimmen.
+----
+
+----
+### § 660 ABGB # 2. Vermächtnis einer bestimmten Sache
+
+`§ 660 (1) ABGB.`  
+Der Vermächtnisnehmer kann die Erfüllung des Vermächtnisses einer bestimmten Sache nicht zugleich in Natur und dem Wert nach verlangen, auch wenn der Verstorbene ihm diese Sache mehrfach, sei dies in einer oder in mehreren letztwilligen Verfügungen, vermacht hat. Andere Vermächtnisse, die eine Sache derselben Art oder denselben Betrag betreffen, gebühren dem Vermächtnisnehmer im Zweifel so oft, wie sie der Verstorbene wiederholt hat.
+
+`§ 660 (2) ABGB.`  
+Wie beim Gattungsvermächtnis kann auch einem Erben, Vermächtnisnehmer oder Dritten die Wahl überlassen werden, aus mehreren bestimmten Sachen auszuwählen.
+----
+
+----
+### § 661 ABGB
+
+`§ 661 ABGB.`  
+Das Vermächtnis ist ungültig, wenn die vermachte Sache im Zeitpunkt der Errichtung der letztwilligen Verfügung schon im Eigentum des Vermächtnisnehmers stand. Hat er sie später erworben, so gebührt ihm der Verkehrswert. Wenn er sie aber vom Verstorbenen vor dessen Tod unentgeltlich erhalten hat, gilt das Vermächtnis als aufgehoben.
+----
+
+----
+### § 662 ABGB # 3. Vermächtnis einer fremden Sache
+
+`§ 662 (1) ABGB.`  
+Das Vermächtnis einer fremden Sache, die weder dem Vermächtnisgeber noch dem Erben noch dem Vermächtnisnehmer, der sie einem Dritten leisten soll, gehört, ist unwirksam. Gebührt diesen Personen ein Anteil oder Recht an der Sache, so umfasst das Vermächtnis nur diesen Anteil oder dieses Recht.
+
+`§ 662 (2) ABGB.`  
+Wenn der Verstorbene ausdrücklich angeordnet hat, dass eine bestimmte fremde Sache gekauft und dem Vermächtnisnehmer geleistet werden soll (Verschaffungsvermächtnis) und der Eigentümer diese Sache nicht um den Verkehrswert veräußern will, ist dem Vermächtnisnehmer dieser Wert zu leisten.
+----
+
+----
+### § 663 ABGB # 4. Vermächtnis einer Forderung
+
+`§ 663 ABGB.`  
+Das Vermächtnis einer Forderung, die der Verstorbene gegen den Vermächtnisnehmer hatte (Befreiungsvermächtnis), verpflichtet den Erben, die Forderung samt den rückständigen Zinsen zu erlassen.
+----
+
+----
+### § 664 ABGB
+
+`§ 664 ABGB.`  
+Hat der Verstorbene dem Vermächtnisnehmer eine Forderung vermacht, die ihm gegen einen Dritten zustand (Forderungsvermächtnis), so muss der Erbe die Forderung samt den rückständigen und weiter laufenden Zinsen dem Vermächtnisnehmer abtreten.
+----
+
+----
+### § 665 ABGB
+
+`§ 665 ABGB.`  
+Das Vermächtnis der Schuld, die der Verstorbene dem Vermächtnisnehmer gegenüber zu erfüllen hatte (Schuldvermächtnis), bewirkt, dass der Erbe die vom Verstorbenen bestimmte oder vom Vermächtnisnehmer ausgewiesene Schuld anerkennen und sie, ohne Rücksicht auf die mit der Schuld verbundenen Bedingungen oder Fristen, längstens binnen der zur Leistung der übrigen Vermächtnisse bestimmten Frist erfüllen muss.
+----
+
+----
+### § 666 ABGB
+
+`§ 666 ABGB.`  
+Das Befreiungsvermächtnis umfasst im Zweifel nicht die erst nach Errichtung des Vermächtnisses entstandenen Schulden. Hat der Verstorbene durch ein Vermächtnis ein Pfandrecht oder eine Bürgschaft erlassen, so folgt daraus nicht, dass er auch die Schuld erlassen hat. Hat er die Zahlungsfristen verlängert, so müssen die Zinsen weiter bezahlt werden.
+----
+
+----
+### § 667 ABGB
+
+`§ 667 ABGB.`  
+Wenn der Verstorbene einer Person den gleichen Betrag vermacht hat, den er ihr geschuldet hat, wird nicht vermutet, dass er die Schuld mit dem Vermächtnis erfüllen wollte.
+----
+
+----
+### § 672 ABGB # 5. Vermächtnis des Unterhalts oder der Ausbildung
+
+`§ 672 (1) ABGB.`  
+Das Vermächtnis des Unterhalts umfasst im Zweifel Nahrung, Kleidung, Wohnung, die nötige Ausbildung und die übrigen Bedürfnisse des Vermächtnisnehmers. Das Ausmaß richtet sich im Zweifel nach den bisherigen Lebensverhältnissen des Vermächtnisnehmers.
+
+`§ 672 (2) ABGB.`  
+Das Unterhaltsvermächtnis gewährt im Zweifel Unterhalt bis zur Selbsterhaltungsfähigkeit des Vermächtnisnehmers, wenn dieser im Zeitpunkt der Errichtung des Vermächtnisses nicht selbsterhaltungsfähig war. Das einem selbsterhaltungsfähigen Vermächtnisnehmer eingeräumte Unterhaltsvermächtnis gewährt im Zweifel Unterhalt bis zum Lebensende.
+----
+
+----
+### § 673 ABGB
+
+`§ 673 ABGB.`  
+Das Vermächtnis der Ausbildung umfasst im Zweifel alle Kosten einer den Fähigkeiten und Neigungen des Vermächtnisnehmers entsprechenden Ausbildung nach denselben Grundsätzen, wie sie für die Verpflichtung von Eltern gegenüber ihren Kindern gelten. Die Kosten des notwendigen Lebensunterhalts sind im Zweifel insoweit mit umfasst, als dem Vermächtnisnehmer wegen seiner Ausbildung eine Erwerbstätigkeit nicht zuzumuten ist.
+----
+
+----
+### § 674 ABGB # 6. Vermächtnis der Möbel und des Hausrats
+
+`§ 674 ABGB.`  
+Unter den Möbeln oder der Einrichtung werden nur die zum gewöhnlichen Gebrauch der Wohnung, unter dem Hausrat die zur Führung des Haushalts erforderlichen Sachen verstanden. Sachen zum Betrieb eines Unternehmens fallen im Zweifel nicht darunter.
+----
+
+----
+### § 675 ABGB # 7. Vermächtnis eines Behältnisses
+
+`§ 675 ABGB.`  
+Wenn der Verstorbene ein Behältnis vermacht hat, das nicht für sich selbst besteht (etwa eine Schublade), so wird vermutet, dass nur diejenigen Sachen erfasst sind, die sich bei seinem Ableben darin befinden und zu deren Aufbewahrung das Behältnis seiner Natur nach bestimmt oder vom Verstorbenen gewöhnlich verwendet worden ist.
+----
+
+----
+### § 676 ABGB
+
+`§ 676 ABGB.`  
+Besteht das Behältnis dagegen für sich selbst (etwa ein Kasten), so hat der Vermächtnisnehmer im Zweifel nur auf das Behältnis, nicht aber auf die darin befindlichen Sachen Anspruch.
+----
+
+----
+### § 677 ABGB # 8. Pflegevermächtnis
+
+`§ 677 (1) ABGB.`  
+Einer dem Verstorbenen nahe stehenden Person, die diesen in den letzten drei Jahren vor seinem Tod mindestens sechs Monate in nicht bloß geringfügigem Ausmaß gepflegt hat, gebührt dafür ein gesetzliches Vermächtnis, soweit nicht eine Zuwendung gewährt oder ein Entgelt vereinbart wurde.
+
+`§ 677 (2) ABGB.`  
+Pflege ist jede Tätigkeit, die dazu dient, einer pflegebedürftigen Person soweit wie möglich die notwendige Betreuung und Hilfe zu sichern sowie die Möglichkeit zu verbessern, ein selbstbestimmtes, bedürfnisorientiertes Leben zu führen.
+
+`§ 677 (3) ABGB.`  
+Nahe stehend sind Personen aus dem Kreis der gesetzlichen Erben des Verstorbenen, deren Ehegatte, eingetragener Partner oder Lebensgefährte und deren Kinder sowie der Lebensgefährte des Verstorbenen und dessen Kinder.
+----
+
+----
+### § 678 ABGB
+
+`§ 678 (1) ABGB.`  
+Die Höhe des Vermächtnisses richtet sich nach Art, Dauer und Umfang der Leistungen.
+
+`§ 678 (2) ABGB.`  
+Das Vermächtnis gebührt jedenfalls neben dem Pflichtteil, neben anderen Leistungen aus der Verlassenschaft nur dann nicht, wenn der Verstorbene das verfügt hat. Das Vermächtnis kann nur bei Vorliegen eines Enterbungsgrundes entzogen werden.
+----
+
+----
+## 9. Auslegung bestimmter Begriffe
+
+### § 681 ABGB # a) Kinder
+
+`§ 681 ABGB.`  
+Unter dem Wort Kinder werden, wenn der Verstorbene die Kinder eines anderen bedacht hat, nur dessen Söhne und Töchter, wenn er aber seine eigenen Kinder bedacht hat, auch die an deren Stelle tretenden Nachkommen verstanden, die beim Ableben des Verstorbenen schon gezeugt waren.
+----
+
+----
+### § 682 ABGB # b) Verwandte
+
+`§ 682 ABGB.`  
+Ein ohne nähere Bestimmung für die Verwandten ausgesetztes Vermächtnis wird den nach der gesetzlichen Erbfolge nächsten Verwandten zugewendet. § 555 ist sinngemäß anzuwenden.
+----
+
+----
+### § 683 ABGB # c) Dienstnehmer
+
+`§ 683 ABGB.`  
+Hat der Verstorbene seinen Dienstnehmern ein Vermächtnis hinterlassen und sie bloß durch das Dienstverhältnis bezeichnet, so wird vermutet, dass es diejenigen erhalten sollen, die im Zeitpunkt seines Ablebens in einem Dienstverhältnis zu ihm stehen.
+----
+
+`END-OF-DATA-SET`

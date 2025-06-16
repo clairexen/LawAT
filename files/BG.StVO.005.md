@@ -1,15 +1,16 @@
 # BG.StVO.005 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StVO  
+**Kurztitel:** ['StVO']  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.005.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StVO.004](BG.StVO.004.md))*
+Der Nationalrat hat beschlossen:
 
+----
 ## C. Allgemeine Regelung und Sicherung des Verkehrs.
 
 ### § 42 StVO # Fahrverbot für Lastkraftfahrzeuge
@@ -40,11 +41,11 @@ Wenn und insoweit es die Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs
 
 `§ 42 (6) StVO.`  
 Ab 1. Jänner 1995 ist das Fahren mit Lastkraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von mehr als 7,5 t in der Zeit von 22 Uhr bis 5 Uhr verboten. Ausgenommen von diesem Fahrverbot sind Fahrten  
-`§ 42 (6) lit. a) StVO.`
+`§ 42 (6) lit. a StVO.`
 mit Fahrzeugen des Straßendienstes,  
-`§ 42 (6) lit. b) StVO.`
+`§ 42 (6) lit. b StVO.`
 mit Fahrzeugen des Bundesheeres, die zur Aufrechterhaltung des militärischen Dienstbetriebes unumgänglich sind und  
-`§ 42 (6) lit. c) StVO.`
+`§ 42 (6) lit. c StVO.`
 mit lärmarmen Kraftfahrzeugen, bei denen eine Bestätigung nach § 8b Abs. 4 KDV 1967 mitgeführt wird.
 
 `§ 42 (7) StVO.`  
@@ -59,22 +60,24 @@ Für die Kundmachung von Verordnungen gemäß Abs. 7 und 8 gilt § 44 sinngem�
 `§ 42 (10) StVO.`  
 Rechtsvorschriften, mit denen weitergehende Fahrverbote oder Geschwindigkeitsbeschränkungen angeordnet werden, bleiben unberührt.
 *(Anm.: Abs. 11 und 12 mit Ablauf des 31.12.2021 außer Kraft getreten)*
+----
 
-### § 43 StVO # Verkehrsverbote, Verkehrserleichterungen und Hinweise.
+----
+### § 43 StVO # Verkehrsverbote, Verkehrserleichterungen und Hinweise
 
 `§ 43 (1) StVO.`  
 Die Behörde hat für bestimmte Straßen oder Straßenstrecken oder für Straßen innerhalb eines bestimmten Gebietes durch Verordnung  
-`§ 43 (1) lit. a) StVO.`
+`§ 43 (1) lit. a StVO.`
 wenn ein Elementarereignis bereits eingetreten oder nach den örtlich gewonnenen Erfahrungen oder nach sonst erheblichen Umständen mit hoher Wahrscheinlichkeit zu erwarten ist, die zum Schutze der Straßenbenützer oder zur Verkehrsabwicklung erforderlichen Verkehrsverbote oder Verkehrsbeschränkungen zu erlassen;  
-`§ 43 (1) lit. b) StVO.`
+`§ 43 (1) lit. b StVO.`
 wenn und insoweit es die Sicherheit, Leichtigkeit oder Flüssigkeit des sich bewegenden oder die Ordnung des ruhenden Verkehrs, die Lage, Widmung, Pflege, Reinigung oder Beschaffenheit der Straße, die Lage, Widmung oder Beschaffenheit eines an der Straße gelegenen Gebäudes oder Gebietes oder wenn und insoweit es die Sicherheit eines Gebäudes oder Gebietes und/oder der Personen, die sich dort aufhalten, erfordert,  
-`§ 43 (1) lit. b) Z 1 StVO.`
+`§ 43 (1) lit. b undefined StVO.`
 dauernde oder vorübergehende Verkehrsbeschränkungen oder Verkehrsverbote, insbesondere die Erklärung von Straßen zu Einbahnstraßen, Maß-, Gewichts- oder Geschwindigkeitsbeschränkungen, Halte- oder Parkverbote und dergleichen, zu erlassen,  
-`§ 43 (1) lit. b) Z 2 StVO.`
+`§ 43 (1) lit. b undefined StVO.`
 den Straßenbenützern ein bestimmtes Verhalten vorzuschreiben, insbesondere bestimmte Gruppen von der Benützung einer Straße oder eines Straßenteiles auszuschließen oder sie auf besonders bezeichnete Straßenteile zu verweisen;  
-`§ 43 (1) lit. c) StVO.`
+`§ 43 (1) lit. c StVO.`
 wenn ein erhebliches wirtschaftliches Interesse von einem oder von mehreren umliegenden Unternehmungen vorliegt, Straßenstellen für die unbedingt notwendige Zeit und Strecke für Ladetätigkeiten durch Parkverbote, wenn jedoch eine Ladetätigkeit unter Berücksichtigung der zur Verfügung stehenden Abstellflächen und deren beste Ausnützung erfahrungsgemäß durch ein Parkverbot nicht gewährleistet ist, durch Halteverbote freizuhalten (Ladezonen);  
-`§ 43 (1) lit. d) StVO.`
+`§ 43 (1) lit. d StVO.`
 für Menschen mit Behinderungen, die wegen ihrer Behinderung darauf angewiesen sind, das von ihnen selbst gelenkte Kraftfahrzeug oder ein Kraftfahrzeug, das sie als Mitfahrer benützen, in unmittelbarer Nähe ihrer Wohnung oder ihrer Arbeitsstätte oder in unmittelbarer Nähe von Gebäuden, die von solchen Personen in der Regel häufig besucht werden, wie etwa Invalidenämter, bestimmte Krankenhäuser oder Ambulatorien, Sozialversicherungseinrichtungen u. dgl., oder in unmittelbarer Nähe einer Fußgängerzone abstellen zu können, Straßenstellen für die unbedingt notwendige Zeit und Strecke zum Abstellen der betreffenden Kraftfahrzeuge durch ein Halteverbot freizuhalten.
 
 `§ 43 (1a) StVO.`  
@@ -82,16 +85,16 @@ Sofern es sich nicht um Arbeitsfahrten im Sinne des § 27 Abs. 1 handelt, hat 
 
 `§ 43 (2) StVO.`  
 Zur Fernhaltung von Gefahren oder Belästigungen, insbesondere durch Lärm, Geruch oder Schadstoffe, hat die Behörde, wenn und insoweit es zum Schutz der Bevölkerung oder der Umwelt oder aus anderen wichtigen Gründen erforderlich ist, durch Verordnung  
-`§ 43 (2) lit. a) StVO.`
+`§ 43 (2) lit. a StVO.`
 für bestimmte Gebiete, Straßen oder Straßenstrecken für alle oder für bestimmte Fahrzeugarten oder für Fahrzeuge mit bestimmten Ladungen dauernde oder zeitweise Verkehrsbeschränkungen oder Verkehrsverbote zu erlassen,  
-`§ 43 (2) lit. b) StVO.`
+`§ 43 (2) lit. b StVO.`
 zu bestimmen, dass mit bestimmten Arten von Fahrzeugen oder mit Fahrzeugen mit bestimmten Ladungen nur bestimmte Straßen oder bestimmte Arten von Straßen befahren werden dürfen (Routenbindung), oder  
-`§ 43 (2) lit. c) StVO.`
+`§ 43 (2) lit. c StVO.`
 zu bestimmen, dass in bestimmten Gebieten oder auf bestimmten Straßen Vorrichtungen zur Abgabe von Schallzeichen nicht betätigt werden dürfen, es sei denn, dass ein solches Zeichen das einzige Mittel ist, um Gefahren von Personen abzuwenden (Hupverbot).  
 Bei der Erlassung solcher Verordnungen ist auf den angestrebten Zweck und auf die Verkehrserfordernisse Bedacht zu nehmen.
 
 `§ 43 (2a) StVO.`  
-  
+
 `§ 43 (2a) Z 1 StVO.`
 Um Erschwernisse für die Wohnbevölkerung auszugleichen, die durch Verkehrsbeschränkungen hervorgerufen werden, kann die Behörde durch Verordnung Gebiete bestimmen, deren Bewohner die Erteilung einer Ausnahmegenehmigung für ein zeitlich uneingeschränktes Parken in - in der Verordnung zu bezeichnenden - nahegelegenen Kurzparkzonen mit Kraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von nicht mehr als 3 500 kg gemäß § 45 Abs. 4 beantragen können.  
 `§ 43 (2a) Z 2 StVO.`
@@ -102,13 +105,13 @@ Organe der Straßenaufsicht sind berechtigt, zur Verhinderung von Übertretungen
 
 `§ 43 (3) StVO.`  
 Zum Zwecke der Erleichterung oder Beschleunigung des Verkehrs, insbesondere des Durchzugsverkehrs, hat die Behörde durch Verordnung  
-`§ 43 (3) lit. a) StVO.`
+`§ 43 (3) lit. a StVO.`
 Bundesstraßen, die das Bundesstraßengesetz 1971, BGBl. Nr. 286, als Bundesautobahn bezeichnet, sowie Straßen ohne Überschneidungen mit anderen Straßen, sofern sie sich für den Schnellverkehr (§ 46 Abs. 1) eignen und besondere Anschlußstellen für die Zu- und Abfahrt vorhanden sind, einschließlich der Zu- und Abfahrtsstraßen zu Autobahnen zu erklären,  
-`§ 43 (3) lit. b) StVO.`
+`§ 43 (3) lit. b StVO.`
 Straßen, die sich für den Schnellverkehr (§ 46 Abs. 1) eignen und für welche die in lit. a genannten Voraussetzungen nicht zutreffen, zu Autostraßen zu erklären, sofern dadurch die Verkehrsinteressen der von der Benützung der Autostraße ausgeschlossenen Straßenbenützer nicht wesentlich beeinträchtigt werden,  
-`§ 43 (3) lit. c) StVO.`
+`§ 43 (3) lit. c StVO.`
 Straßen zu Vorrangstraßen zu erklären,  
-`§ 43 (3) lit. d) StVO.`
+`§ 43 (3) lit. d StVO.`
 geeignete Autobahnstrecken festzulegen, auf denen das zeitweilige Befahren des Pannenstreifens erlaubt werden darf (§ 44d).
 
 `§ 43 (4) StVO.`  
@@ -134,8 +137,10 @@ Die Behörde hat bei der Erlassung von Verordnungen gemäß Abs. 1 lit. b Beda
 
 `§ 43 (11) StVO.`  
 Wenn Bedenken aus Gründen der Sicherheit des Straßenverkehrs nicht entgegenstehen, hat die Behörde von einem von ihr erlassenen Halteverbot (Abs. 1) das rasche Auf- oder Abladen geringer Warenmengen im Zustell- oder Abholdienst gewerblicher Betriebe sowie das rasche Einsteigen oder das rasche Aussteigen auf Antrag der gesetzlichen Interessenvertretung der in Betracht kommenden Gewerbebetriebe allgemein auszunehmen.
+----
 
-### § 44 StVO # Kundmachung der Verordnungen.
+----
+### § 44 StVO # Kundmachung der Verordnungen
 
 `§ 44 (1) StVO.`  
 Die im § 43 bezeichneten Verordnungen sind, sofern sich aus den folgenden Absätzen nichts anderes ergibt, durch Straßenverkehrszeichen oder Bodenmarkierungen kundzumachen und treten mit deren Anbringung in Kraft. Der Zeitpunkt der erfolgten Anbringung ist in einem Aktenvermerk (§ 16 AVG) festzuhalten. Parteien im Sinne des § 8 AVG ist die Einsicht in einen solchen Aktenvermerk und die Abschriftnahme zu gestatten. Als Straßenverkehrszeichen zur Kundmachung von im § 43 bezeichneten Verordnungen kommen die Vorschriftszeichen sowie die Hinweiszeichen „Autobahn“, „Ende der Autobahn“, „Autostraße“, „Ende der Autostraße“, „Einbahnstraße“, „Ortstafel“, „Ortsende“, „Internationaler Hauptverkehrsweg“, „Straße mit Vorrang“, „Straße ohne Vorrang“, „Straße für Omnibusse“ und „Fahrstreifen für Omnibusse“ in Betracht. Als Bodenmarkierungen zur Kundmachung von im § 43 bezeichneten Verordnungen kommen Markierungen, die ein Verbot oder Gebot bedeuten, wie etwa Sperrlinien, Haltelinien vor Kreuzungen, Richtungspfeile, Sperrflächen, Zickzacklinien, Schutzwegmarkierungen oder Radfahrerüberfahrtmarkierungen in Betracht.
@@ -160,7 +165,9 @@ Verordnungen, die sich durch ein Vorschriftszeichen ausdrücken lassen und für 
 
 `§ 44 (5) StVO.`  
 Verordnungen, die vom Bundesminister für Verkehr, Innovation und Technologie, von einer Landesregierung oder von einer Bezirksverwaltungsbehörde erlassen werden, sind, sofern sie nicht anders rechtzeitig und wirksam kundgemacht werden können, durch Verlautbarungen in der Presse oder im Rundfunk oder im Fernsehen kundzumachen.
+----
 
+----
 ### § 44a StVO # Vorbereitende Verkehrsmaßnahmen
 
 `§ 44a (1) StVO.`  
@@ -168,27 +175,29 @@ Wenn auf Grund von Verkehrsbeobachtungen, Verkehrszählungen oder Verkehrserfahr
 
 `§ 44a (2) StVO.`  
 Die Verordnung nach Abs. 1 hat zu enthalten:  
-`§ 44a (2) lit. a) StVO.`
+`§ 44a (2) lit. a StVO.`
 Die Bestimmung der Strecke, auf der die Verkehrsmaßnahmen wirksam werden sollen,  
-`§ 44a (2) lit. b) StVO.`
+`§ 44a (2) lit. b StVO.`
 die Festsetzung der Zeiten, in denen die Verkehrsmaßnahmen wirksam werden sollen,  
-`§ 44a (2) lit. c) StVO.`
+`§ 44a (2) lit. c StVO.`
 die Voraussetzungen, unter denen die Verkehrsmaßnahmen wirksam werden sollen,  
-`§ 44a (2) lit. d) StVO.`
+`§ 44a (2) lit. d StVO.`
 die in Betracht kommenden Verkehrsmaßnahmen, wie Geschwindigkeitsbeschränkungen, Fahrverbote, Einfahrtverbote, Beschränkungen für Halten und Parken, Einbahnregelungen, Ausnahmen von bestehenden Verkehrsverboten oder Verkehrsbeschränkungen u. dgl.
 
 `§ 44a (3) StVO.`  
 Verordnungen nach Abs. 1 treten mit der Anbringung oder Sichtbarmachung der ihnen entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen in Kraft. Die Behörde hat die Person, Dienststelle oder Unternehmung zu bestimmen, welche die Straßenverkehrszeichen oder Bodenmarkierungen anzubringen oder sichtbar zu machen hat. Die Aufstellung oder Sichtbarmachung der Straßenverkehrszeichen oder die Anbringung der Bodenmarkierungen ist der Behörde unverzüglich zur Kenntnis zu bringen; diese hat den Zeitpunkt der erfolgten Anbringung oder Sichtbarmachung in einem Aktenvermerk (§ 16 AVG) festzuhalten.
+----
 
+----
 ### § 44b StVO # Unaufschiebbare Verkehrsbeschränkungen
 
 `§ 44b (1) StVO.`  
 Im Falle der Unaufschiebbarkeit dürfen die Organe der Straßenaufsicht, des Straßenerhalters, der Feuerwehr, des Bundesheeres oder des Gebrechendienstes öffentlicher Versorgungs- oder Entsorgungsunternehmen (zB Gasgebrechendienste) nach Erfordernis eine besondere Verkehrsregelung durch Anweisungen an die Straßenbenützer oder durch Anbringung von Verkehrsampeln oder Signalscheiben veranlassen oder eine der in § 43 Abs. 1 lit. b Z 1 und 2 bezeichneten Maßnahmen durch Anbringung der entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen mit der Wirkung treffen, als ob die Veranlassung oder Maßnahme von der Behörde getroffen worden wäre. Dies gilt insbesondere,  
-`§ 44b (1) lit. a) StVO.`
+`§ 44b (1) lit. a StVO.`
 wenn ein Elementarereignis bereits eingetreten oder nach den örtlich gewonnenen Erfahrungen oder nach sonst erheblichen Umständen mit hoher Wahrscheinlichkeit zu erwarten ist,  
-`§ 44b (1) lit. b) StVO.`
+`§ 44b (1) lit. b StVO.`
 bei unvorhersehbar aufgetretenen Straßen- oder Baugebrechen u. dgl.,  
-`§ 44b (1) lit. c) StVO.`
+`§ 44b (1) lit. c StVO.`
 bei unvorhersehbar eingetretenen Ereignissen, wie zB Brände, Unfälle, Ordnungsstörungen u. dgl., die besondere Verkehrsverbote oder Verkehrsbeschränkungen oder eine besondere Verkehrsregelung (zB Einbahnverkehr, abwechselnder Gegenverkehr, Umleitungen u. dgl.) erfordern.
 
 `§ 44b (2) StVO.`  
@@ -205,7 +214,9 @@ Unbeschadet der Bestimmungen des Abs. 2 hat die Behörde von der Dienststelle d
 
 `§ 44b (5) StVO.`  
 Im Fall von Arbeiten gemäß § 90 Abs. 2, die voraussichtlich nicht länger als 24 Stunden dauern werden, dürfen die Organe des Straßenerhalters eine besondere Verkehrsregelung durch Anweisungen an die Straßenbenützer oder durch Anbringung von Verkehrsampeln oder Signalscheiben veranlassen oder eine der in § 43 Abs. 1 lit. b bezeichneten Maßnahmen durch Anbringung der entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen mit der Wirkung treffen, als ob die Veranlassung oder Maßnahme von der Behörde getroffen worden wäre; darüber hinaus ist der Arbeitsbereich entsprechend dem Stand der Technik abzusichern. Die Abs. 2, 3a und 4 gelten mit der Maßgabe, dass die Veranlassungen oder Maßnahmen jedenfalls nach 24 Stunden aufzuheben sind; sofern die Arbeiten zu diesem Zeitpunkt noch nicht abgeschlossen sind, hat der Straßenerhalter unverzüglich die Behörde zu verständigen und ihr alle Umstände, die für die Erlassung einer Verordnung nach § 43 maßgebend sein können, bekanntzugeben.
+----
 
+----
 ### § 44c StVO # Verkehrsbeeinflussung
 
 `§ 44c (1) StVO.`  
@@ -222,7 +233,9 @@ die Verkehrs- oder Fahrbahnverhältnisse, bei deren Auftreten die Verkehrsmaßna
 
 `§ 44c (3) StVO.`  
 Verordnungen gemäß Abs. 1 sind mittels eines Verkehrsbeeinflussungssystems (§ 44 Abs. 1a) kundzumachen. Der örtliche und zeitliche Umfang der von der Behörde verordneten Verkehrsmaßnahmen wird dabei durch die Anzeige der betreffenden Straßenverkehrszeichen mit der Wirkung bestimmt, als ob der örtliche und zeitliche Umfang von der Behörde bestimmt worden wäre.
+----
 
+----
 ### § 44d StVO # Pannenstreifenfreigabe
 
 `§ 44d (1) StVO.`  
@@ -240,8 +253,10 @@ Randlinien gelten im Bereich und zu Zeiten einer Pannenstreifenfreigabe nicht al
 
 `§ 44d (4) StVO.`  
 Der Straßenerhalter hat sicherzustellen, dass der Zeitpunkt und die Dauer der Anzeige selbsttätig durch das System aufgezeichnet werden; diese Aufzeichnungen sind entweder in elektronisch lesbarer Form zu speichern oder in Form von Ausdrucken aufzubewahren. Parteien im Sinne des § 8 AVG ist auf Verlangen ein Ausdruck der Aufzeichnungen oder eine Kopie des Ausdruckes auszufolgen
+----
 
-### § 45 StVO # Ausnahmen in Einzelfällen.
+----
+### § 45 StVO # Ausnahmen in Einzelfällen
 
 `§ 45 (1) StVO.`  
 Die Behörde kann auf Antrag durch Bescheid die Benützung von Straßen mit einem Fahrzeug oder einer Ladung mit größeren als den zulässigen Maßen und Gewichten bewilligen, wenn das Vorhaben im besonderen Interesse der österreichischen Volkswirtschaft liegt, sich anders nicht durchführen läßt und keine erheblichen Erschwerungen des Verkehrs und keine wesentlichen Überlastungen der Straße verursacht. Antragsberechtigt sind der Fahrzeugbesitzer oder die Person, für welche die Beförderung durchgeführt werden soll. Liegt bereits eine entsprechende kraftfahrrechtliche Bewilligung vor, so ist eine Bewilligung nach diesem Absatz nicht erforderlich.
@@ -277,8 +292,10 @@ entweder die Tätigkeit des Antragstellers ohne Bewilligung erheblich erschwert 
 
 `§ 45 (5) StVO.`  
 Behördliche Erledigungen gemäß den vorstehenden Absätzen können im Wege der automationsunterstützten Datenverarbeitung ohne Unterschrift hergestellt und ausgefertigt werden.
+----
 
-### § 46 StVO # Autobahnen.
+----
+### § 46 StVO # Autobahnen
 
 `§ 46 (1) StVO.`  
 Autobahnen dürfen nur mit Kraftfahrzeugen benützt werden, die eine Bauartgeschwindigkeit von mindestens 60 km/h aufweisen und mit denen diese Geschwindigkeit überschritten werden darf; dies gilt nicht für Fahrzeuge des Straßendienstes. Jeder andere Verkehr, insbesondere der Fußgängerverkehr, der Verkehr mit Fahrrädern, Motorfahrrädern und Fuhrwerken, der Viehtrieb und das Reiten, ist auf der Autobahn verboten. Im Bereich eines Grenzüberganges darf die Autobahn betreten werden, um Tätigkeiten zu verrichten, die mit der Grenzabfertigung zusammenhängen oder einem vordringlichen Bedürfnis der Straßenbenützer dienen (wie Geldwechsel, Aufsuchen von Informationsstellen u. dgl.); das gleiche gilt für den Bereich einer Mautstelle sinngemäß. Die Autobahn darf weiters betreten werden:  
@@ -295,17 +312,17 @@ Muß auf der Autobahn ein Fahrzeug wegen eines Gebrechens o. dgl. angehalten wer
 
 `§ 46 (4) StVO.`  
 Auf der Autobahn ist verboten:  
-`§ 46 (4) lit. a) StVO.`
+`§ 46 (4) lit. a StVO.`
 eine Richtungsfahrbahn entgegen der vorgesehenen Fahrtrichtung zu befahren, sofern sich nicht aus Straßenverkehrszeichen oder Bodenmarkierungen etwas anderes ergibt,  
-`§ 46 (4) lit. b) StVO.`
+`§ 46 (4) lit. b StVO.`
 umzukehren, ausgenommen im Bereich eines Grenzüberganges auf Anordnung von öffentlichen Organen,  
-`§ 46 (4) lit. c) StVO.`
+`§ 46 (4) lit. c StVO.`
 Betriebsumkehren zu befahren, ausgenommen mit Fahrzeugen des Straßendienstes, der Straßenaufsicht, des Pannendienstes oder der Arbeitsinspektionsorgane in Erfüllung ihrer gesetzlichen Aufgaben,  
-`§ 46 (4) lit. d) StVO.`
+`§ 46 (4) lit. d StVO.`
 den Pannenstreifen zu befahren, ausgenommen mit Fahrzeugen des Straßendienstes, der Straßenaufsicht oder des Pannendienstes, in den Fällen des § 44d, im Zuge des Beschleunigens zum Zweck des Wiedereinordnens in den fließenden Verkehr, zwecks Bildung einer Rettungsgasse und sofern sich nicht aus Straßenverkehrszeichen oder Bodenmarkierungen etwas anderes ergibt,  
-`§ 46 (4) lit. e) StVO.`
+`§ 46 (4) lit. e StVO.`
 außerhalb der durch Hinweiszeichen gekennzeichneten Stellen zu halten oder zu parken,  
-`§ 46 (4) lit. f) StVO.`
+`§ 46 (4) lit. f StVO.`
 rückwärts zu fahren; dieses Verbot gilt jedoch nicht, wenn mit einem Fahrzeug des Straßendienstes bei Arbeitsfahrten zurückgefahren werden muß.
 
 `§ 46 (4a) StVO.`  
@@ -316,10 +333,13 @@ Die Errichtung von Anlagen, aus denen Fahrzeuge ihre elektrische Antriebskraft e
 
 `§ 46 (6) StVO.`  
 Stockt der Verkehr auf einer Richtungsfahrbahn in einem Abschnitt mit mindestens zwei Fahrstreifen, so müssen Fahrzeuge für die Durchfahrt von Einsatzfahrzeugen in der Mitte zwischen den Fahrstreifen, in Abschnitten mit mehr als zwei Fahrstreifen zwischen dem äußerst linken und dem daneben liegenden Fahrstreifen, eine freie Gasse bilden (Rettungsgasse); diese Gasse darf, außer von Einsatzfahrzeugen, nur von Fahrzeugen des Straßendienstes, Fahrzeugen des Pannendienstes und Leichenwägen benützt werden.
+----
 
+----
 ### § 47 StVO # Autostraßen
 
 `§ 47 StVO.`  
 Autostraßen sind Vorrangstraßen; für sie gelten die im § 46 Abs. 1, 3, 4 und 6 enthaltenen Bestimmungen über den Verkehr auf Autobahnen sinngemäß.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StVO.006](BG.StVO.006.md))*
+`END-OF-DATA-SET`

@@ -1,240 +1,258 @@
 # BG.StGB.003 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StGB  
+**Kurztitel:** ['StGB']  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.003.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StGB.002](BG.StGB.002.md))*
+Der Nationalrat hat beschlossen:
 
-## Sechster Abschnitt # Verjährung
+----
+## Vierter Abschnitt # Strafbemessung
 
-### § 57 StGB # Verjährung der Strafbarkeit
+### § 32 StGB # Allgemeine Grundsätze
 
-`§ 57 (1) StGB.`  
-Strafbare Handlungen, die mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe bedroht sind, sowie strafbare Handlungen nach dem fünfundzwanzigsten Abschnitt verjähren nicht. Nach Ablauf einer Frist von zwanzig Jahren tritt jedoch an die Stelle der angedrohten lebenslangen Freiheitsstrafe eine Freiheitsstrafe von zehn bis zu zwanzig Jahren. Für die Frist gelten Abs. 2 und § 58 entsprechend.
+`§ 32 (1) StGB.`  
+Grundlage für die Bemessung der Strafe ist die Schuld des Täters.
 
-`§ 57 (2) StGB.`  
-Die Strafbarkeit anderer Taten erlischt durch Verjährung. Die Verjährungsfrist beginnt, sobald die mit Strafe bedrohte Tätigkeit abgeschlossen ist oder das mit Strafe bedrohte Verhalten aufhört.
+`§ 32 (2) StGB.`  
+Bei Bemessung der Strafe hat das Gericht die Erschwerungs- und die Milderungsgründe, soweit sie nicht schon die Strafdrohung bestimmen, gegeneinander abzuwägen und auch auf die Auswirkungen der Strafe und anderer zu erwartender Folgen der Tat auf das künftige Leben des Täters in der Gesellschaft Bedacht zu nehmen. Dabei ist vor allem zu berücksichtigen, inwieweit die Tat auf eine gegenüber rechtlich geschützten Werten ablehnende oder gleichgültige Einstellung des Täters und inwieweit sie auf äußere Umstände oder Beweggründe zurückzuführen ist, durch die sie auch einem mit den rechtlich geschützten Werten verbundenen Menschen naheliegen könnte.
 
-`§ 57 (3) StGB.`  
-Die Verjährungsfrist beträgt  
-zwanzig Jahre,  
-wenn die Handlung zwar nicht mit lebenslanger Freiheitsstrafe, aber mit mehr als zehnjähriger Freiheitsstrafe bedroht ist;  
-zehn Jahre,  
-wenn die Handlung mit mehr als fünfjähriger, aber höchstens zehnjähriger Freiheitsstrafe bedroht ist;  
-fünf Jahre,  
-wenn die Handlung mit mehr als einjähriger, aber höchstens fünfjähriger Freiheitsstrafe bedroht ist;  
-drei Jahre,  
-wenn die Handlung mit mehr als sechsmonatiger, aber höchstens einjähriger Freiheitsstrafe bedroht ist;  
-ein Jahr,  
-wenn die Handlung mit nicht mehr als sechsmonatiger Freiheitsstrafe oder nur mit Geldstrafe bedroht ist.
+`§ 32 (3) StGB.`  
+Im allgemeinen ist die Strafe umso strenger zu bemessen, je größer die Schädigung oder Gefährdung ist, die der Täter verschuldet hat oder die er zwar nicht herbeigeführt, aber auf die sich sein Verschulden erstreckt hat, je mehr Pflichten er durch seine Handlung verletzt, je reiflicher er seine Tat überlegt, je sorgfältiger er sie vorbereitet oder je rücksichtsloser er sie ausgeführt hat und je weniger Vorsicht gegen die Tat hat gebraucht werden können.
+----
 
-`§ 57 (4) StGB.`  
-Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende Maßnahmen unzulässig.
+----
+### § 33 StGB # Besondere Erschwerungsgründe
 
-### § 58 StGB # Verlängerung der Verjährungsfrist
+`§ 33 (1) StGB.`  
+Ein Erschwerungsgrund ist es insbesondere, wenn der Täter  
+`§ 33 (1) Z 1 StGB.`
+mehrere strafbare Handlungen derselben oder verschiedener Art begangen oder die strafbare Handlung durch längere Zeit fortgesetzt hat;  
+`§ 33 (1) Z 2 StGB.`
+schon wegen einer auf der gleichen schädlichen Neigung beruhenden Tat verurteilt worden ist;  
+`§ 33 (1) Z 3 StGB.`
+einen anderen zur strafbaren Handlung verführt hat;  
+`§ 33 (1) Z 4 StGB.`
+der Urheber oder Anstifter einer von mehreren begangenen strafbaren Handlung oder an einer solchen Tat führend beteiligt gewesen ist;  
+`§ 33 (1) Z 5 StGB.`
+aus rassistischen, fremdenfeindlichen oder anderen besonders verwerflichen Beweggründen, insbesondere solchen, die sich gegen eine der in § 283 Abs. 1 Z 1 genannten Gruppen von Personen oder ein Mitglied einer solchen Gruppe ausdrücklich wegen der Zugehörigkeit zu dieser Gruppe richten, gehandelt hat;  
+`§ 33 (1) Z 5a StGB.`
+aus religiös motivierten extremistischen Beweggründen gehandelt hat;  
+`§ 33 (1) Z 6 StGB.`
+heimtückisch, grausam oder in einer für das Opfer qualvollen Weise gehandelt hat;  
+`§ 33 (1) Z 7 StGB.`
+bei Begehung der Tat die Wehr- oder Hilflosigkeit eines anderen ausgenützt hat;  
+`§ 33 (1) Z 8 StGB.`
+die Tat unter Missbrauch der personenbezogenen Daten einer anderen Person begangen hat, um das Vertrauen eines Dritten zu gewinnen, wodurch dem rechtmäßigen Identitätseigentümer ein Schaden zugefügt wird.
 
-`§ 58 (1) StGB.`  
-Tritt ein zum Tatbild gehörender Erfolg erst ein, nachdem die mit Strafe bedrohte Tätigkeit abgeschlossen worden ist oder das mit Strafe bedrohte Verhalten aufgehört hat, so endet die Verjährungsfrist nicht, bevor sie entweder auch vom Eintritt des Erfolges ab verstrichen ist oder seit dem im § 57 Abs. 2 bezeichneten Zeitpunkt ihr Eineinhalbfaches, mindestens aber drei Jahre abgelaufen sind.
+`§ 33 (2) StGB.`  
+Ein Erschwerungsgrund ist es auch, wenn der Täter eine vorsätzliche strafbare Handlung nach dem ersten bis dritten oder zehnten Abschnitt des Besonderen Teils oder eine sonstige strafbare Handlung unter Anwendung von Gewalt oder gefährlicher Drohung  
+`§ 33 (2) Z 1 StGB.`
+als Volljähriger gegen eine minderjährige Person oder für diese wahrnehmbar gegen eine ihr nahestehende Person  
+`§ 33 (2) Z 2 StGB.`
+gegen eine Angehörige oder einen Angehörigen (§ 72), einschließlich einer früheren Ehefrau, eingetragenen Partnerin oder Lebensgefährtin oder eines früheren Ehemanns, eingetragenen Partners oder Lebensgefährten oder als mit dem Opfer zusammenlebende Person;  
+`§ 33 (2) Z 3 StGB.`
+unter Missbrauch einer Autoritätsstellung;  
+`§ 33 (2) Z 4 StGB.`
+gegen eine aufgrund besonderer Umstände schutzbedürftige Person unter Ausnützung deren besonderer Schutzbedürftigkeit;  
+`§ 33 (2) Z 5 StGB.`
+unter Einsatz eines außergewöhnlich hohen Ausmaßes an Gewalt oder nachdem der Tat eine solche Gewaltanwendung vorausgegangen ist;  
+`§ 33 (2) Z 6 StGB.`
+unter Einsatz oder Drohung mit einer Waffe  
+begangen hat.
 
-`§ 58 (2) StGB.`  
-Begeht der Täter während der Verjährungsfrist neuerlich eine mit Strafe bedrohte Handlung, die auf der gleichen schädlichen Neigung beruht, so tritt die Verjährung nicht ein, bevor auch für diese Tat die Verjährungsfrist abgelaufen ist.
+`§ 33 (3) StGB.`  
+Ein Erschwerungsgrund ist es ferner auch, wenn der Täter einer strafbaren Handlung nach § 165 ein Verpflichteter im Sinne des Art. 2 der Richtlinie (EU) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung, ABl. Nr. L 141 vom 05.06.2015 S 73, in der Fassung der Richtlinie (EU) 2018/843, ABl. Nr. L 156 vom 19.06.2018 S 43, ist und die Straftat in Ausübung seiner beruflichen Tätigkeit, die unter diese Richtlinie fällt, begangen hat.
+----
 
-`§ 58 (3) StGB.`  
-In die Verjährungsfrist werden nicht eingerechnet:  
-`§ 58 (3) Z 1 StGB.`
-die Zeit, während der nach einer gesetzlichen Vorschrift die Verfolgung nicht eingeleitet oder fortgesetzt werden kann, soweit das Bundes-Verfassungsgesetz, BGBl. Nr. 1/1930, und Abs. 4 nichts anderes bestimmen;  
-`§ 58 (3) Z 2 StGB.`
-die Zeit zwischen der erstmaligen Vernehmung als Beschuldigter, der erstmaligen Androhung oder Ausübung von Zwang gegen den Täter wegen der Tat (§§ 93 Abs. 1, 105 Abs. 1 StPO), der ersten staatsanwaltlichen Anordnung oder Antragstellung auf Durchführung oder Bewilligung von im 8. Hauptstück der StPO geregelten Ermittlungsmaßnahmen und Beweisaufnahmen zur Aufklärung des gegen den Täter gerichteten Verdachts, der Anordnung der Fahndung oder Festnahme, des Antrags auf Verhängung der Untersuchungshaft oder der Einbringung der Anklage, einschließlich vergleichbarer Maßnahmen der Europäischen Staatsanwaltschaft, und der rechtskräftigen Beendigung des Verfahrens;  
-`§ 58 (3) Z 3 StGB.`
-die Zeit bis zur Vollendung des 28. Lebensjahres des Opfers einer strafbaren Handlung gegen Leib und Leben, gegen die Freiheit oder gegen die sexuelle Integrität und Selbstbestimmung, wenn das Opfer zur Zeit der Tatbegehung minderjährig war;  
-`§ 58 (3) Z 4 StGB.`
-die Probezeit nach § 203 Abs. 1 StPO, die Fristen zur Zahlung eines Geldbetrages samt allfälliger Schadensgutmachung und zur Erbringung gemeinnütziger Leistungen samt allfälligem Tatfolgenausgleich (§§ 200 Abs. 2 und 3, 201 Abs. 1 und 3 StPO), sowie die Zeit von der Stellung eines Ersuchens der Staatsanwaltschaft gemäß § 204 Abs. 3 StPO bis zur Mitteilung des Konfliktreglers über die Ausgleichsvereinbarungen und ihre Erfüllung (§ 204 Abs. 4 StPO).
+----
+### § 34 StGB # Besondere Milderungsgründe
 
-`§ 58 (3a) StGB.`  
-Eine nach den vorstehenden Absätzen eingetretene Hemmung der Verjährung bleibt wirksam, auch wenn durch eine spätere Änderung des Gesetzes die Tat im Zeitpunkt der Hemmung nach dem neuen Recht bereits verjährt gewesen wäre.
+`§ 34 (1) StGB.`  
+Ein Milderungsgrund ist es insbesondere, wenn der Täter  
+`§ 34 (1) Z 1 StGB.`
+die Tat nach Vollendung des achtzehnten, jedoch vor Vollendung des einundzwanzigsten Lebensjahres oder wenn er sie unter dem Einfluß eines abnormen Geisteszustands begangen hat, wenn er schwach an Verstand ist oder wenn seine Erziehung sehr vernachlässigt worden ist;  
+`§ 34 (1) Z 2 StGB.`
+bisher einen ordentlichen Lebenswandel geführt hat und die Tat mit seinem sonstigen Verhalten in auffallendem Widerspruch steht;  
+`§ 34 (1) Z 3 StGB.`
+die Tat aus achtenswerten Beweggründen begangen hat;  
+`§ 34 (1) Z 4 StGB.`
+die Tat unter der Einwirkung eines Dritten oder aus Furcht oder Gehorsam verübt hat;  
+`§ 34 (1) Z 5 StGB.`
+sich lediglich dadurch strafbar gemacht hat, daß er es in einem Fall, in dem das Gesetz die Herbeiführung eines Erfolges mit Strafe bedroht, unterlassen hat, den Erfolg abzuwenden;  
+`§ 34 (1) Z 6 StGB.`
+an einer von mehreren begangenen strafbaren Handlung nur in untergeordneter Weise beteiligt war;  
+`§ 34 (1) Z 7 StGB.`
+die Tat nur aus Unbesonnenheit begangen hat;  
+`§ 34 (1) Z 8 StGB.`
+sich in einer allgemein begreiflichen heftigen Gemütsbewegung zur Tat hat hinreißen lassen;  
+`§ 34 (1) Z 9 StGB.`
+die Tat mehr durch eine besonders verlockende Gelegenheit verleitet als mit vorgefaßter Absicht begangen hat;  
+`§ 34 (1) Z 10 StGB.`
+durch eine nicht auf Arbeitsscheu zurückzuführende drückende Notlage zur Tat bestimmt worden ist;  
+`§ 34 (1) Z 11 StGB.`
+die Tat unter Umständen begangen hat, die einem Schuldausschließungs- oder Rechtfertigungsgrund nahekommen;  
+`§ 34 (1) Z 12 StGB.`
+die Tat in einem die Schuld nicht ausschließenden Rechtsirrtum (§ 9) begangen hat, insbesondere wenn er wegen vorsätzlicher Begehung bestraft wird;  
+`§ 34 (1) Z 13 StGB.`
+trotz Vollendung der Tat keinen Schaden herbeigeführt hat oder es beim Versuch geblieben ist;  
+`§ 34 (1) Z 14 StGB.`
+sich der Zufügung eines größeren Schadens, obwohl ihm dazu die Gelegenheit offenstand, freiwillig enthalten hat oder wenn der Schaden vom Täter oder von einem Dritten für ihn gutgemacht worden ist;  
+`§ 34 (1) Z 15 StGB.`
+sich ernstlich bemüht hat, den verursachten Schaden gutzumachen oder weitere nachteilige Folgen zu verhindern;  
+`§ 34 (1) Z 16 StGB.`
+sich selbst gestellt hat, obwohl er leicht hätte entfliehen können oder es wahrscheinlich war, daß er unentdeckt bleiben werde;  
+`§ 34 (1) Z 17 StGB.`
+ein reumütiges Geständnis abgelegt oder durch seine Aussage wesentlich zur Wahrheitsfindung beigetragen hat;  
+`§ 34 (1) Z 18 StGB.`
+die Tat schon vor längerer Zeit begangen und sich seither wohlverhalten hat;  
+`§ 34 (1) Z 19 StGB.`
+dadurch betroffen ist, daß er oder eine ihm persönlich nahestehende Person durch die Tat oder als deren Folge eine beträchtliche Körperverletzung oder Gesundheitsschädigung oder sonstige gewichtige tatsächliche oder rechtliche Nachteile erlitten hat.
 
-`§ 58 (4) StGB.`  
-Wird die Tat nur auf Verlangen oder mit Ermächtigung eines dazu Berechtigten verfolgt, so wird der Lauf der Verjährung nicht dadurch gehemmt, daß die Verfolgung nicht verlangt oder die Ermächtigung nicht erteilt wird.
+`§ 34 (2) StGB.`  
+Ein Milderungsgrund ist es auch, wenn das gegen den Täter geführte Verfahren aus einem nicht von ihm oder seinem Verteidiger zu vertretenden Grund unverhältnismäßig lange gedauert hat.
+----
 
-### § 59 StGB # Verjährung der Vollstreckbarkeit
+----
+### § 35 StGB # Berauschung
 
-`§ 59 (1) StGB.`  
-Die Vollstreckbarkeit einer lebenslangen Freiheitsstrafe, einer Freiheitsstrafe von mehr als zehn Jahren, einer wegen einer strafbaren Handlung nach dem fünfundzwanzigsten Abschnitt verhängten Strafe und einer Unterbringung in einem forensisch-therapeutischen Zentrum oder in einer Anstalt oder für gefährliche Rückfallstäter verjährt nicht.
+`§ 35 StGB.`  
+Hat der Täter in einem die Zurechnungsfähigkeit nicht ausschließenden Rauschzustand gehandelt, so ist dies nur insoweit mildernd, als die dadurch bedingte Herabsetzung der Zurechnungsfähigkeit nicht durch den Vorwurf aufgewogen wird, den der Genuß oder Gebrauch des berauschenden Mittels den Umständen nach begründet.
+----
 
-`§ 59 (2) StGB.`  
-Die Vollstreckbarkeit anderer Strafen, einer Abschöpfung der Bereicherung, eines Verfalls und vorbeugender Maßnahmen erlischt durch Verjährung. Die Frist für die Verjährung beginnt mit der Rechtskraft der Entscheidung, in der auf die Strafe, den Verfall oder die vorbeugende Maßnahme erkannt worden ist.
+----
+### § 36 StGB # Verhängung von Freiheitsstrafen über Personen unter einundzwanzig Jahren
 
-`§ 59 (3) StGB.`  
-Die Frist beträgt  
-fünfzehn Jahre,  
-wenn auf Freiheitsstrafe von mehr als einem Jahr, aber nicht mehr als zehn Jahren erkannt worden ist;  
-zehn Jahre,  
-wenn auf Freiheitsstrafe von mehr als drei Monaten, aber nicht mehr als einem Jahr oder auf eine Geldstrafe unter Festsetzung einer Ersatzfreiheitsstrafe von mehr als drei Monaten erkannt worden ist;  
-fünf Jahre  
-in allen übrigen Fällen.
+`§ 36 StGB.`  
+Für eine Person, die zur Zeit der Tat das einundzwanzigste Lebensjahr noch nicht vollendet hat, gelten die in § 19 JGG vorgesehenen Strafdrohungen.
+----
 
-`§ 59 (4) StGB.`  
-Ist gleichzeitig auf mehrere Strafen oder vorbeugende Maßnahmen erkannt worden, so richtet sich die Verjährung der Vollstreckbarkeit aller dieser Strafen oder Maßnahmen nach der Strafe oder Maßnahme, für die die längste Verjährungsfrist vorgesehen ist. Sind eine Freiheitsstrafe und eine Geldstrafe gleichzeitig verhängt worden, so ist zur Berechnung der Verjährungsfrist die Ersatzfreiheitsstrafe zur Freiheitsstrafe hinzuzurechnen.
+----
+### § 37 StGB # Verhängung von Geldstrafen an Stelle von Freiheitsstrafen
 
-### § 60 StGB # Verlängerung der Frist für die Vollstreckungsverjährung
+`§ 37 (1) StGB.`  
+Ist für eine Tat keine strengere Strafe als Freiheitsstrafe bis zu fünf Jahren angedroht, so ist statt auf eine Freiheitsstrafe von nicht mehr als einem Jahr gleichwohl auf eine Geldstrafe von nicht mehr als 720 Tagessätzen zu erkennen, wenn es nicht der Verurteilung zu einer Freiheitsstrafe bedarf, um den Täter von weiteren strafbaren Handlungen abzuhalten.
 
-`§ 60 (1) StGB.`  
-Wird gegen den Verurteilten in der Verjährungsfrist auf eine neue Strafe oder vorbeugende Maßnahme erkannt, so tritt die Verjährung der Vollstreckbarkeit nicht ein, bevor nicht auch die Vollstreckbarkeit dieser Strafe oder vorbeugenden Maßnahme erloschen ist.
+`§ 37 (2) StGB.`  
+Ist für eine Tat eine strengere Freiheitsstrafe als nach Abs. 1, aber keine strengere als eine zehnjährige Freiheitsstrafe, angedroht, so ist die Verhängung einer Geldstrafe von nicht mehr als 720 Tagessätzen an Stelle einer Freiheitsstrafe von nicht mehr als einem Jahr nur zulässig, wenn es nicht der Verurteilung zu einer Freiheitsstrafe bedarf, um den Täter von weiteren strafbaren Handlungen abzuhalten, und die Verhängung einer Geldstrafe genügt, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken.
+----
 
-`§ 60 (2) StGB.`  
-In die Verjährungsfrist werden nicht eingerechnet:  
-`§ 60 (2) Z 1 StGB.`
-die Probezeit im Fall einer bedingten Nachsicht der Strafe oder der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder im Fall einer bedingten Entlassung;  
-`§ 60 (2) Z 2 StGB.`
-Zeiten, für die dem Verurteilten ein Aufschub des Vollzuges einer Freiheitsstrafe, es sei denn wegen Vollzugsuntauglichkeit, oder der Zahlung einer Geldstrafe gewährt worden ist;  
-`§ 60 (2) Z 3 StGB.`
-Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist;  
-`§ 60 (2) Z 4 StGB.`
-Zeiten, in denen sich der Verurteilte im Ausland aufgehalten hat.
+----
+### § 38 StGB # Anrechnung der Vorhaft
 
-`§ 60 (3) StGB.`  
-Der Vollzug der Freiheitsstrafe oder der mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme unterbricht die Verjährung. Hört die Unterbrechung auf, ohne daß der Verurteilte endgültig entlassen wird, so beginnt die Verjährungsfrist unbeschadet der Bestimmungen des Abs. 2 von neuem zu laufen.
+`§ 38 (1) StGB.`  
+Die verwaltungsbehördliche und die gerichtliche Verwahrungshaft und die Untersuchungshaft sind auf Freiheitsstrafen und Geldstrafen anzurechnen, wenn der Täter die Haft  
+`§ 38 (1) Z 1 StGB.`
+in einem Verfahren wegen der Tat, für die er bestraft wird, oder  
+`§ 38 (1) Z 2 StGB.`
+sonst nach der Begehung dieser Tat wegen des Verdachtes einer mit Strafe bedrohten Handlung  
+erlitten hat, und zwar in beiden Fällen nur soweit die Haft nicht bereits auf eine andere Strafe angerechnet oder der Verhaftete dafür entschädigt worden ist.
 
-## Siebenter Abschnitt # Geltungsbereich
+`§ 38 (2) StGB.`  
+Für die Anrechnung der Vorhaft auf eine Geldstrafe ist die Ersatzfreiheitsstrafe maßgebend.
+----
 
-### § 61 StGB # Zeitliche Geltung
+----
+### § 39 StGB # Strafschärfung bei Rückfall
 
-`§ 61 StGB.`  
-Die Strafgesetze sind auf Taten anzuwenden, die nach dem Inkrafttreten begangen worden sind. Auf früher begangene Taten sind sie dann anzuwenden, wenn die Gesetze, die zur Zeit der Tat gegolten haben, für den Täter in ihrer Gesamtauswirkung nicht günstiger waren.
+`§ 39 (1) StGB.`  
+Ist der Täter schon zweimal wegen Taten, die auf der gleichen schädlichen Neigung beruhen, zu einer Freiheitsstrafe verurteilt worden und hat er diese Strafen wenigstens zum Teil, wenn auch nur durch Anrechnung einer Vorhaft oder der mit dem Vollzug einer vorbeugenden Maßnahme verbundenen Freiheitsentziehung, verbüßt, so erhöht sich, wenn er nach Vollendung des neunzehnten Lebensjahres neuerlich aus der gleichen schädlichen Neigung eine strafbare Handlung begeht, das Höchstmaß der angedrohten Freiheitsstrafe oder Geldstrafe um die Hälfte. Doch darf die zeitliche Freiheitsstrafe die Dauer von zwanzig Jahren nicht überschreiten.
 
-### § 62 StGB # Strafbare Handlungen im Inland
+`§ 39 (1a) StGB.`  
+Ist der Täter schon zweimal wegen vorsätzlicher strafbarer Handlungen gegen Leib und Leben, gegen die Freiheit oder gegen die sexuelle Integrität und Selbstbestimmung zu einer Freiheitsstrafe verurteilt worden, so erhöht sich, wenn er nach Vollendung des neunzehnten Lebensjahres neuerlich eine vorsätzliche strafbare Handlung gegen eines dieser Rechtsgüter begeht, das Höchstmaß der angedrohten Freiheitsstrafe oder Geldstrafe um die Hälfte, höchstens jedoch auf zwanzig Jahre.
 
-`§ 62 StGB.`  
-Die österreichischen Strafgesetze gelten für alle Taten, die im Inland begangen worden sind.
+`§ 39 (2) StGB.`  
+Eine frühere Strafe bleibt außer Betracht, wenn seit ihrer Verbüßung bis zur folgenden Tat mehr als fünf Jahre, bei einer Verurteilung wegen einer mit zehn oder mehr Jahren Freiheitsstrafe bedrohten strafbaren Handlung mehr als zehn Jahre, vergangen sind. In diese Frist werden Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, nicht eingerechnet. Ist die Strafe bedingt nachgesehen oder *(Anm. 1)* nur durch Anrechnung einer Vorhaft verbüßt worden, so beginnt die Frist erst mit Rechtskraft des Urteils.
 
-### § 63 StGB # Strafbare Handlungen an Bord österreichischer Schiffe oder Luftfahrzeuge
+*(___________________*
 
-`§ 63 StGB.`  
-Die österreichischen Strafgesetze gelten auch für Taten, die auf einem österreichischen Schiff oder Luftfahrzeug begangen worden sind, unabhängig davon, wo sich dieses befindet.
+*Anm. 1: Art. 4 Z 4a der Novelle BGBl. I Nr. 105/2019 lautet: „In § 39 Abs. 2 wird im zweiten Satz nach dem Wort „Strafe“ die Wendung „bedingt nachgesehen oder“ eingefügt.“ Richtig wäre: „... wird im dritten Satz ...“.)*
+----
 
-### § 64 StGB # Strafbare Handlungen im Ausland, die ohne Rücksicht auf die Gesetze des Tatorts bestraft werden
+----
+### § 39a StGB # Änderung der Strafdrohung bei bestimmten Gewalttaten
 
-`§ 64 (1) StGB.`  
-Die österreichischen Strafgesetze gelten unabhängig von den Strafgesetzen des Tatorts für folgende im Ausland begangene Taten:  
-`§ 64 (1) Z 1 StGB.`
-Auskundschaftung eines Geschäfts- oder Betriebsgeheimnisses zugunsten des Auslands (§ 124), Hochverrat (§ 242), Vorbereitung eines Hochverrats (§ 244), staatsfeindliche Verbindungen (§ 246), Angriffe auf oberste Staatsorgane (§§ 249 bis 251), Landesverrat (§§ 252 bis 258) und strafbare Handlungen gegen das Bundesheer (§§ 259 und 260);  
-`§ 64 (1) Z 2 StGB.`
-strafbare Handlungen, die jemand gegen einen österreichischen Beamten (§ 74 Abs. 1 Z 4), einen österreichischen Amtsträger (§ 74 Abs. 1 Z 4a) oder einen österreichischen Schiedsrichter (§ 74 Abs. 1 Z 4c) während oder wegen der Vollziehung seiner Aufgaben und die jemand als österreichischer Beamter, österreichischer Amtsträger oder österreichischer Schiedsrichter begeht;  
-`§ 64 (1) Z 2a StGB.`
-außer dem Fall der Z 2 strafbare Verletzungen der Amtspflicht, Korruption und verwandte strafbare Handlungen (§§ 302 bis 309), wenn  
-`§ 64 (1) Z 2a lit. a) StGB.`
-der Täter zur Zeit der Tat Österreicher war oder  
-`§ 64 (1) Z 2a lit. b) StGB.`
-die Tat zugunsten eines österreichischen Amtsträgers oder österreichischen Schiedsrichters begangen wurde;  
-`§ 64 (1) Z 3 StGB.`
-falsche Beweisaussage (§ 288) und unter Eid abgelegte oder mit einem Eid bekräftigte falsche Beweisaussage vor einer Verwaltungsbehörde (§ 289) in einem Ermittlungsverfahren nach der Strafprozessordnung oder nach der Verordnung (EU) 2017/1939 zur Durchführung einer Verstärkten Zusammenarbeit zur Errichtung der Europäischen Staatsanwaltschaft (EUStA), ABl. Nr. L 283 vom 31.10.2017 S. 1, sowie in einem Verfahren, das bei einem österreichischen Gericht oder einer österreichischen Verwaltungsbehörde anhängig ist;  
-`§ 64 (1) Z 4 StGB.`
-Geldfälschung (§ 232), Weitergabe und Besitz nachgemachten oder verfälschten Geldes (§ 233), die nach § 232 strafbare Fälschung besonders geschützter Wertpapiere (§ 237), kriminelle Organisation (§ 278a) und die nach den §§ 28a, 31a sowie 32 Abs. 3 des Suchtmittelgesetzes strafbaren Handlungen, wenn durch die Tat österreichische Interessen verletzt worden sind oder der Täter nicht ausgeliefert werden kann;  
-`§ 64 (1) Z 4a StGB.`
-Genitalverstümmelung (§ 85 Abs. 1 Z 2a), erpresserische Entführung (§ 102), Überlieferung an eine ausländische Macht (§ 103), Sklavenhandel (§ 104), Menschenhandel (§ 104a), schwere Nötigung nach § 106 Abs. 1 Z 3, Zwangsheirat (§ 106a), verbotene Adoptionsvermittlung (§ 194), Vergewaltigung (§ 201), geschlechtliche Nötigung (§ 202), sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten Person (§ 205), schwerer sexueller Missbrauch von Unmündigen (§ 206), sexueller Missbrauch von Unmündigen (§ 207), bildliches sexualbezogenes Kindesmissbrauchsmaterial und bildliche sexualbezogene Darstellungen minderjähriger Personen nach § 207a Abs. 1, 1a, 2 und 2a, sexueller Missbrauch von Jugendlichen (§ 207b), Missbrauch eines Autoritätsverhältnisses nach § 212 Abs. 1, Förderung der Prostitution und pornographischer Darbietungen Minderjähriger (§ 215a), grenzüberschreitender Prostitutionshandel (§ 217), wenn  
-`§ 64 (1) Z 4a lit. a) StGB.`
-der Täter oder das Opfer Österreicher ist oder seinen gewöhnlichen Aufenthalt im Inland hat,  
-`§ 64 (1) Z 4a lit. b) StGB.`
-durch die Tat sonstige österreichische Interessen verletzt worden sind oder  
-`§ 64 (1) Z 4a lit. c) StGB.`
-der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;  
-`§ 64 (1) Z 4b StGB.`
-Herstellung und Verbreitung von Massenvernichtungswaffen (§ 177a), wenn der Täter Österreicher ist, in bezug auf die Entwicklung nuklearer oder radiologischer Kampfmittel jedoch nur, soweit die Tat nicht im Auftrag oder unter der Verantwortung einer Vertragspartei des Vertrages über die Nichtweiterverbreitung von Atomwaffen, BGBl. Nr. 258/1970, die Atomwaffenstaat ist, begangen worden ist;  
-`§ 64 (1) Z 4c StGB.`
-Folter (§ 312a), Verschwindenlassen einer Person (§ 312b) und strafbare Handlungen nach dem fünfundzwanzigsten Abschnitt, wenn  
-`§ 64 (1) Z 4c lit. a) StGB.`
-der Täter oder das Opfer Österreicher ist,  
-`§ 64 (1) Z 4c lit. b) StGB.`
-durch die Tat sonstige österreichische Interessen verletzt worden sind oder  
-`§ 64 (1) Z 4c lit. c) StGB.`
-der Täter zur Zeit der Tat Ausländer war und entweder seinen gewöhnlichen Aufenthalt im Inland hat oder sich in Österreich aufhält und nicht ausgeliefert werden kann.  
-`§ 64 (1) Z 5 StGB.`
-Luftpiraterie (§ 185), damit im Zusammenhang begangene strafbare Handlungen gegen Leib und Leben oder gegen die Freiheit und vorsätzliche Gefährdung der Sicherheit der Luftfahrt (§ 186), wenn  
-`§ 64 (1) Z 5 lit. a) StGB.`
-die strafbare Handlung gegen ein österreichisches Luftfahrzeug gerichtet ist,  
-`§ 64 (1) Z 5 lit. b) StGB.`
-das Luftfahrzeug in Österreich landet und der Täter sich noch an Bord befindet,  
-`§ 64 (1) Z 5 lit. c) StGB.`
-das Luftfahrzeug ohne Besatzung an jemanden vermietet ist, der seinen Geschäftssitz oder in Ermangelung eines solchen Sitzes seinen ständigen Aufenthalt in Österreich hat, oder  
-`§ 64 (1) Z 5 lit. d) StGB.`
-sich der Täter in Österreich aufhält und nicht ausgeliefert werden kann;  
-`§ 64 (1) Z 6 StGB.`
-sonstige strafbare Handlungen, zu deren Verfolgung Österreich, auch wenn sie im Ausland begangen worden sind, unabhängig von den Strafgesetzen des Tatorts verpflichtet ist;  
-`§ 64 (1) Z 7 StGB.`
-strafbare Handlungen, die ein Österreicher gegen einen Österreicher begeht, wenn beide ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland haben;  
-`§ 64 (1) Z 8 StGB.`
-Beteiligung (§ 12) an einer strafbaren Handlung, die der unmittelbare Täter im Inland begangen hat, sowie Hehlerei (§ 164) und Geldwäscherei (§ 165) in bezug auf eine im Inland begangene Tat;  
-`§ 64 (1) Z 9 StGB.`
-terroristische Vereinigung (§ 278b) und terroristische Straftaten (§ 278c) sowie damit im Zusammenhang begangene strafbare Handlungen nach den §§ 128 bis 131, 144 und 145 sowie 223 und 224, ferner Terrorismusfinanzierung (§ 278d), Ausbildung für terroristische Zwecke (§ 278e), Anleitung zur Begehung einer terroristischen Straftat (§ 278f), Reisen für terroristische Zwecke (§ 278g) und damit im Zusammenhang begangene strafbare Handlungen nach den §§ 223 und 224 sowie Aufforderung zu terroristischen Straftaten und Gutheißung terroristischer Straftaten (§ 282a), wenn  
-`§ 64 (1) Z 9 lit. a) StGB.`
-der Täter zur Zeit der Tat Österreicher war oder wenn er die österreichische Staatsbürgerschaft später erworben hat und zur Zeit der Einleitung des Strafverfahrens noch besitzt,  
-`§ 64 (1) Z 9 lit. b) StGB.`
-der Täter zur Zeit der Tat oder der Einleitung des Strafverfahrens seinen Wohnsitz oder gewöhnlichen Aufenthalt im Inland hatte oder hat,  
-`§ 64 (1) Z 9 lit. c) StGB.`
-die Tat zugunsten einer juristischen Person mit Sitz in Österreich begangen wurde,  
-`§ 64 (1) Z 9 lit. d) StGB.`
-die Tat gegen den Nationalrat, den Bundesrat, die Bundesversammlung, die Bundesregierung, einen Landtag, eine Landesregierung, den Verfassungsgerichtshof, den Verwaltungsgerichtshof, den Obersten Gerichtshof, sonst ein Gericht oder eine Behörde oder gegen die Bevölkerung der Republik Österreich begangen wurde,  
-`§ 64 (1) Z 9 lit. e) StGB.`
-die Tat gegen ein Organ der Europäischen Union oder eine gemäß den Verträgen zur Gründung der Europäischen Gemeinschaften oder dem Vertrag über die Europäische Union geschaffene Einrichtung mit Sitz in der Republik Österreich begangen wurde oder  
-`§ 64 (1) Z 9 lit. f) StGB.`
-der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;  
-*(Anm.: Z 10 aufgehoben durch Art. 1 Z 4, BGBl. I Nr. 70/2018)*  
-`§ 64 (1) Z 11 StGB.`
-Unvertretbare Darstellung wesentlicher Informationen über bestimmte Verbände (§ 163a) und Unvertretbare Berichte von Prüfern bestimmter Verbände (§ 163b), wenn die Hauptniederlassung oder der Sitz des Verbandes im Inland liegt.
+`§ 39a (1) StGB.`  
+Hat ein Täter eine vorsätzliche strafbare Handlung unter Anwendung von Gewalt oder gefährlicher Drohung  
+`§ 39a (1) Z 1 StGB.`
+als volljährige gegen eine unmündige Person,  
+`§ 39a (1) Z 2 StGB.`
+gegen eine aufgrund besonderer Umstände schutzbedürftige Person unter Ausnützung deren besonderer Schutzbedürftigkeit,  
+`§ 39a (1) Z 3 StGB.`
+unter Einsatz eines außergewöhnlich hohen Ausmaßes an Gewalt oder nachdem der Tat eine solche Gewaltanwendung vorausgegangen ist oder  
+`§ 39a (1) Z 4 StGB.`
+unter Einsatz oder Drohung mit einer Waffe oder  
+`§ 39a (1) Z 5 StGB.`
+mit mindestens einer weiteren Person in verabredeter Verbindung begangen,  
+so treten die in Abs. 2 genannten Änderungen der Strafdrohung ein, wenn der jeweilige Umstand nicht schon die Strafdrohung bestimmt. 
 
-`§ 64 (2) StGB.`  
-Können die im Abs. 1 genannten Strafgesetze bloß deshalb nicht angewendet werden, weil sich die Tat als eine mit strengerer Strafe bedrohte Handlung darstellt, so ist die im Ausland begangene Tat gleichwohl unabhängig von den Strafgesetzen des Tatorts nach den österreichischen Strafgesetzen zu bestrafen.
+`§ 39a (2) StGB.`  
+Demnach tritt an die Stelle der Androhung  
+`§ 39a (2) Z 1 StGB.`
+einer Freiheitsstrafe bis zu einem Jahr oder der Androhung einer solchen Freiheitsstrafe oder einer Geldstrafe bis zu 720 Tagessätzen die Androhung einer Freiheitsstrafe von zwei Monaten bis zu einem Jahr,  
+`§ 39a (2) Z 2 StGB.`
+einer Freiheitsstrafe, die kein Mindestmaß vorsieht und deren Höchstmaß ein Jahr übersteigt, die Androhung eines Mindestmaßes von drei Monaten Freiheitsstrafe,  
+`§ 39a (2) Z 3 StGB.`
+einer Freiheitsstrafe, deren Mindestmaß sechs Monate beträgt, die Androhung eines Mindestmaßes von einem Jahr Freiheitsstrafe,  
+`§ 39a (2) Z 4 StGB.`
+einer Freiheitsstrafe, deren Mindestmaß ein Jahr beträgt, die Androhung eines Mindestmaßes von zwei Jahren Freiheitsstrafe.
 
-### § 65 StGB # Strafbare Handlungen im Ausland, die nur bestraft werden, wenn sie nach den Gesetzen des Tatorts mit Strafe bedroht sind
+`§ 39a (3) StGB.`  
+Die Anwendung des § 39 bleibt hievon unberührt. Bei der Anwendung des § 41 ist von den nach Abs. 2 geänderten Strafdrohungen auszugehen.
+----
 
-`§ 65 (1) StGB.`  
-Für andere als die in den §§ 63 und 64 bezeichneten Taten, die im Ausland begangen worden sind, gelten, sofern die Taten auch durch die Gesetze des Tatorts mit Strafe bedroht sind, die österreichischen Strafgesetze:  
-`§ 65 (1) Z 1 StGB.`
-wenn der Täter zur Zeit der Tat Österreicher war oder wenn er die österreichische Staatsbürgerschaft später erworben hat und zur Zeit der Einleitung des Strafverfahrens noch besitzt;  
-`§ 65 (1) Z 2 StGB.`
-wenn der Täter zur Zeit der Tat Ausländer war, im Inland betreten wird und aus einem anderen Grund als wegen der Art oder Eigenschaft seiner Tat nicht an das Ausland ausgeliefert werden kann.
+----
+### § 40 StGB # Strafbemessung bei nachträglicher Verurteilung
 
-`§ 65 (2) StGB.`  
-Die Strafe ist so zu bestimmen, daß der Täter in der Gesamtauswirkung nicht ungünstiger gestellt ist als nach dem Gesetz des Tatorts.
+`§ 40 StGB.`  
+Bei nachträglicher Verurteilung ist die Zusatzstrafe innerhalb der im § 31 bestimmten Grenzen so zu bemessen, daß die Summe der Strafen jener Strafe entspricht, die bei gemeinsamer Aburteilung zu verhängen wäre. Wäre bei gemeinsamer Aburteilung keine höhere Strafe als die im früheren Urteil verhängte auszusprechen, so ist von einer Zusatzstrafe abzusehen.
+----
 
-`§ 65 (3) StGB.`  
-Besteht am Ort der Tat keine Strafgewalt, so genügt es, wenn die Tat nach den österreichischen Gesetzen strafbar ist.
+----
+### § 41 StGB # Außerordentliche Strafmilderung bei Überwiegen der Milderungsgründe
 
-`§ 65 (4) StGB.`  
-Die Strafbarkeit entfällt jedoch:  
-`§ 65 (4) Z 1 StGB.`
-wenn die Strafbarkeit der Tat nach den Gesetzen des Tatorts erloschen ist;  
-`§ 65 (4) Z 2 StGB.`
-wenn der Täter von einem Gericht des Staates, in dem die Tat begangen worden ist, rechtskräftig freigesprochen oder sonst außer Verfolgung gesetzt worden ist;  
-`§ 65 (4) Z 3 StGB.`
-wenn der Täter von einem ausländischen Gericht rechtskräftig verurteilt und die Strafe ganz vollstreckt oder, soweit sie nicht vollstreckt wurde, erlassen worden oder ihre Vollstreckbarkeit nach dem ausländischen Recht verjährt ist;  
-`§ 65 (4) Z 4 StGB.`
-solange die Vollstreckung der vom ausländischen Gericht verhängten Strafe ganz oder teilweise ausgesetzt ist.
+`§ 41 (1) StGB.`  
+Überwiegen die Milderungsgründe die Erschwerungsgründe beträchtlich, und besteht begründete Aussicht, daß der Täter auch bei Verhängung einer das gesetzliche Mindestmaß unterschreitenden Freiheitsstrafe keine weiteren strafbaren Handlungen begehen werde, so kann erkannt werden:  
+`§ 41 (1) Z 1 StGB.`
+wenn die Tat mit lebenslanger Freiheitsstrafe bedroht ist oder wenn sie mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe bedroht ist, auf Freiheitsstrafe nicht unter einem Jahr;  
+`§ 41 (1) Z 2 StGB.`
+wenn die Tat zwar nicht mit lebenslanger Freiheitsstrafe, aber mit Freiheitsstrafe von mindestens zehn Jahren bedroht ist, auf Freiheitsstrafe nicht unter sechs Monaten;  
+`§ 41 (1) Z 3 StGB.`
+wenn die Tat mit Freiheitsstrafe von mindestens fünf Jahren bedroht ist, auf Freiheitsstrafe nicht unter drei Monaten;  
+`§ 41 (1) Z 4 StGB.`
+wann die Tat mit Freiheitsstrafe von mindestens einem Jahr bedroht ist, auf Freiheitsstrafe nicht unter einem Monat;  
+`§ 41 (1) Z 5 StGB.`
+wenn die Tat mit geringerer Freiheitsstrafe bedroht ist, auf Freiheitsstrafe von mindestens einem Tag.
 
-`§ 65 (5) StGB.`  
-Nach den österreichischen Gesetzen vorgesehene vorbeugende Maßnahmen sind, wenn die Voraussetzungen hiefür zutreffen, gegen einen Österreicher auch dann anzuordnen, wenn er aus einem der Gründe des vorhergehenden Absatzes im Inland nicht bestraft werden kann.
+`§ 41 (2) StGB.`  
+Unter den Voraussetzungen des Abs. 1 Z 3 und 4 muß jedoch auf Freiheitsstrafe von mindestens sechs Monaten erkannt werden, wenn die Tat den Tod eines Menschen zur Folge gehabt hat (§ 7 Abs. 2), mag dieser Umstand auch schon die Strafdrohung bestimmen.
 
-### § 65a StGB # Erweiterter Geltungsbereich des Verfalls und der Einziehung bei Auslandstaten
+`§ 41 (3) StGB.`  
+Die §§ 43 und 43a können auch angewendet werden, wenn auf eine Freiheitsstrafe von mehr als zwei beziehungsweise drei, aber nicht mehr als fünf Jahren erkannt wird oder zu erkennen wäre, sofern die Milderungsgründe die Erschwerungsgründe beträchtlich überwiegen und begründete Aussicht besteht, dass der Täter auch bei Verhängung einer solchen Strafe keine weiteren strafbaren Handlungen begehen werde.
+----
 
-`§ 65a StGB.`  
-Der Verfall und die Einziehung treffen auch im Inland befindliche Vermögenswerte und Gegenstände in Bezug auf Taten, die auch durch die Gesetze des Tatorts mit Strafe bedroht sind, aber nach den §§ 62 bis 65 nicht den österreichischen Strafgesetzen unterliegen.
+----
+### § 41a StGB # Außerordentliche Strafmilderung bei Zusammenarbeit mit den Strafverfolgungsbehörden
 
-### § 66 StGB # Anrechnung im Ausland erlittener Strafen
+`§ 41a (1) StGB.`  
+Offenbart der Täter einer nach den §§ 277, 278, 278a oder 278b strafbaren Handlung oder einer strafbaren Handlung, die mit einer solchen Verabredung, Vereinigung oder Organisation im Zusammenhang steht, einer Strafverfolgungsbehörde sein Wissen über Tatsachen, deren Kenntnis wesentlich dazu beiträgt,  
+`§ 41a (1) Z 1 StGB.`
+die aus der Verabredung, Vereinigung oder Organisation entstandene Gefahr zu beseitigen oder erheblich zu vermindern,  
+`§ 41a (1) Z 2 StGB.`
+die Aufklärung einer solchen strafbaren Handlung über seinen eigenen Tatbeitrag hinaus zu fördern oder  
+`§ 41a (1) Z 3 StGB.`
+eine Person auszuforschen, die an einer solchen Verabredung führend teilgenommen hat oder in einer solchen Vereinigung oder Organisation führend tätig war,  
+so kann ein gesetzliches Mindestmaß der Strafe nach Maßgabe des § 41 unterschritten werden, wenn dies der Bedeutung der geoffenbarten Tatsachen im Verhältnis zur Schuld des Täters entspricht. § 41 Abs. 3 gilt entsprechend.
 
-`§ 66 StGB.`  
-Hat der Täter für die Tat, derentwegen er im Inland bestraft wird, schon im Ausland eine Strafe verbüßt, so ist sie auf die im Inland verhängte Strafe anzurechnen.
+`§ 41a (2) StGB.`  
+Abs. 1 gilt für den Beteiligten einer Verabredung, Verbindung *(Anm.: richtig: Vereinigung)* oder Organisation, die nach dem Verbotsgesetz strafbar ist, und für den Täter einer strafbaren Handlung, die mit einer solchen Verabredung, Verbindung *(Anm.: richtig: Vereinigung)* oder Organisation im Zusammenhang steht, entsprechend.
 
-### § 67 StGB # Zeit und Ort der Tat
+`§ 41a (3) StGB.`  
+Bezieht sich das Wissen des Täters auf strafbare Handlungen, für die die österreichischen Strafgesetze nicht gelten, so ist Abs. 1 gleichwohl anzuwenden, soweit die Leistung von Rechtshilfe zulässig wäre.
+----
 
-`§ 67 (1) StGB.`  
-Eine mit Strafe bedrohte Handlung hat der Täter zu der Zeit begangen, da er gehandelt hat oder hätte handeln sollen; wann der Erfolg eintritt, ist nicht maßgebend.
-
-`§ 67 (2) StGB.`  
-Eine mit Strafe bedrohte Handlung hat der Täter an jedem Ort begangen, an dem er gehandelt hat oder hätte handeln sollen oder ein dem Tatbild entsprechender Erfolg ganz oder zum Teil eingetreten ist oder nach der Vorstellung des Täters hätte eintreten sollen.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.StGB.004](BG.StGB.004.md))*
+`END-OF-DATA-SET`

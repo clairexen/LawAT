@@ -1,253 +1,258 @@
 # BG.StPO.009 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.009.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StPO.008](BG.StPO.008.md))*
+Der Nationalrat hat beschlossen:
 
-## 4. Abschnitt # Observation, verdeckte Ermittlung und Scheingeschäft
+----
+## 2. Abschnitt # Identitätsfeststellung, Durchsuchung von Orten und Gegenständen, Durchsuchung von Personen, körperliche Untersuchung und molekulargenetische Untersuchung
 
-### § 129 StPO # Definitionen
+### § 117 StPO # Definitionen
 
-`§ 129 StPO.`  
+`§ 117 StPO.`  
 Im Sinne dieses Gesetzes ist  
-`§ 129 Z 1 StPO.`
-„Observation“ das heimliche Überwachen des Verhaltens einer Person,  
-`§ 129 Z 2 StPO.`
-„verdeckte Ermittlung“ der Einsatz von kriminalpolizeilichen Organen oder anderen Personen im Auftrag der Kriminalpolizei, die ihre amtliche Stellung oder ihren Auftrag weder offen legen noch erkennen lassen,  
-`§ 129 Z 3 StPO.`
-„Scheingeschäft“ der Versuch oder die scheinbare Ausführung von Straftaten, soweit diese im Erwerben, Ansichbringen, Besitzen, Ein-, Aus- oder Durchführen von Gegenständen oder Vermögenswerten bestehen, die entfremdet wurden, aus einem Verbrechen herrühren oder der Begehung eines solchen gewidmet sind oder deren Besitz absolut verboten ist.
+`§ 117 Z 1 StPO.`
+„Identitätsfeststellung“ die Ermittlung und Feststellung von Daten (§ 36 Abs. 2 Z 1 DSG), die eine bestimmte Person unverwechselbar kennzeichnen,  
+`§ 117 Z 2 StPO.`
+„Durchsuchung von Orten und Gegenständen“ das Durchsuchen  
+`§ 117 Z 2 undefined StPO.`
+eines nicht allgemein zugänglichen Grundstückes, Raumes, Fahrzeuges oder Behältnisses,  
+`§ 117 Z 2 undefined StPO.`
+einer Wohnung oder eines anderen Ortes, der durch das Hausrecht geschützt ist, und darin befindlicher Gegenstände,  
+`§ 117 Z 3 StPO.`
+„Durchsuchung einer Person“  
+`§ 117 Z 3 undefined StPO.`
+die Durchsuchung der Bekleidung einer Person und der Gegenstände, die sie bei sich hat,  
+`§ 117 Z 3 undefined StPO.`
+die Besichtigung des unbekleideten Körpers einer Person,  
+`§ 117 Z 4 StPO.`
+„körperliche Untersuchung“ die Durchsuchung von Körperöffnungen, die Abnahme einer Blutprobe und jeder andere Eingriff in die körperliche Integrität von Personen,  
+`§ 117 Z 5 StPO.`
+„molekulargenetische Untersuchung“ die Ermittlung jener Bereiche in der DNA einer Person, die der Wiedererkennung dienen.
+----
 
-### § 130 StPO # Observation
+----
+### § 118 StPO # Identitätsfeststellung
 
-`§ 130 (1) StPO.`  
-Observation ist zulässig, wenn sie zur Aufklärung einer Straftat oder zur Ausforschung des Aufenthalts des Beschuldigten erforderlich erscheint.
+`§ 118 (1) StPO.`  
+Identitätsfeststellung ist zulässig, wenn auf Grund bestimmter Tatsachen angenommen werden kann, dass eine Person an einer Straftat beteiligt ist, über die Umstände der Begehung Auskunft geben kann oder Spuren hinterlassen hat, die der Aufklärung dienen könnten.
 
-`§ 130 (2) StPO.`  
-Der Einsatz technischer Mittel, die im Wege der Übertragung von Signalen eine Feststellung des räumlichen Bereichs ermöglichen, in dem sich die überwachte Person aufhält, und das Öffnen von Fahrzeugen und Behältnissen zum Zweck der Einbringung solcher technischer Mittel ist zur Unterstützung der Observation zulässig, sofern die Observation ansonsten aussichtslos oder wesentlich erschwert wäre.
+`§ 118 (2) StPO.`  
+Die Kriminalpolizei ist ermächtigt, zur Identitätsfeststellung die Namen einer Person, ihr Geschlecht, ihr Geburtsdatum, ihren Geburtsort, ihren Beruf und ihre Wohnanschrift zu ermitteln. Die Kriminalpolizei ist auch ermächtigt, die Größe einer Person festzustellen, sie zu fotografieren, ihre Stimme aufzunehmen und ihre Papillarlinienabdrücke abzunehmen, soweit dies zur Identitätsfeststellung erforderlich ist.
 
-`§ 130 (3) StPO.`  
-Sofern die Observation  
-`§ 130 (3) Z 1 StPO.`
-durch den Einsatz technischer Mittel (Abs. 2) unterstützt wird,  
-`§ 130 (3) Z 2 StPO.`
-über einen Zeitraum von mehr als 48 Stunden oder  
-`§ 130 (3) Z 3 StPO.`
-außerhalb des Bundesgebietes durchgeführt wird oder werden soll,  
-ist sie nur dann zulässig, wenn der Verdacht einer vorsätzlich begangenen Straftat besteht, die mit mehr als einjähriger Freiheitsstrafe bedroht ist, und auf Grund bestimmter Tatsachen angenommen werden kann, dass die überwachte Person die strafbare Handlung begangen habe oder mit dem Beschuldigten Kontakt herstellen werde oder dadurch der Aufenthalt eines flüchtigen oder abwesenden Beschuldigten ermittelt werden kann.
+`§ 118 (3) StPO.`  
+Jedermann ist verpflichtet, auf eine den Umständen nach angemessene Weise an der Feststellung seiner Identität mitzuwirken; die Kriminalpolizei hat ihm auf Aufforderung mitzuteilen, aus welchem Anlass diese Feststellung erfolgt.
 
-### § 131 StPO # Verdeckte Ermittlung
+`§ 118 (4) StPO.`  
+Wenn die Person an der Identitätsfeststellung nicht mitwirkt oder ihre Identität aus anderen Gründen nicht sogleich festgestellt werden kann, ist die Kriminalpolizei berechtigt, zur Feststellung der Identität eine Durchsuchung der Person nach § 117 Z 3 lit. a von sich aus durchzuführen.
+----
 
-`§ 131 (1) StPO.`  
-Verdeckte Ermittlung ist zulässig, wenn sie zur Aufklärung einer Straftat erforderlich erscheint.
+----
+### § 119 StPO # Durchsuchung von Orten und Gegenständen sowie von Personen
 
-`§ 131 (2) StPO.`  
-Eine systematische, über längere Zeit durchgeführte verdeckte Ermittlung ist nur dann zulässig, wenn die Aufklärung einer vorsätzlich begangenen Straftat, die mit mehr als einjähriger Freiheitsstrafe bedroht ist, oder die Verhinderung einer im Rahmen einer kriminellen oder terroristischen Vereinigung oder einer kriminellen Organisation (§§ 278 bis 278b StGB) geplanten Straftat ansonsten wesentlich erschwert wäre. Soweit dies für die Aufklärung oder Verhinderung unerlässlich ist, ist es auch zulässig, nach Maßgabe des § 54a SPG Urkunden, die über die Identität eines Organs der Kriminalpolizei täuschen, herzustellen und sie im Rechtsverkehr zur Erfüllung des Ermittlungszwecks zu gebrauchen.
+`§ 119 (1) StPO.`  
+Durchsuchung von Orten und Gegenständen (§ 117 Z 2) ist zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass sich dort eine Person verbirgt, die einer Straftat verdächtig ist, oder Gegenstände oder Spuren befinden, die sicherzustellen oder auszuwerten sind.
 
-`§ 131 (3) StPO.`  
-Der verdeckte Ermittler ist von der Kriminalpolizei zu führen und regelmäßig zu überwachen. Sein Einsatz und dessen nähere Umstände sowie Auskünfte und Mitteilungen, die durch ihn erlangt werden, sind in einem Bericht oder in einem Amtsvermerk (§ 95) festzuhalten, sofern sie für die Untersuchung von Bedeutung sein können.
+`§ 119 (2) StPO.`  
+Durchsuchung einer Person (§ 117 Z 3) ist zulässig, wenn diese  
+`§ 119 (2) Z 1 StPO.`
+festgenommen oder auf frischer Tat betreten wurde,  
+`§ 119 (2) Z 2 StPO.`
+einer Straftat verdächtig ist und auf Grund bestimmter Tatsachen anzunehmen ist, dass sie Gegenstände, die der Sicherstellung unterliegen, bei sich oder Spuren an sich habe,  
+`§ 119 (2) Z 3 StPO.`
+durch eine Straftat Verletzungen erlitten oder andere Veränderungen am Körper erfahren haben könnte, deren Feststellung für Zwecke eines Strafverfahrens erforderlich ist.
+----
 
-`§ 131 (4) StPO.`  
-Wohnungen und andere vom Hausrecht geschützte Räume dürfen verdeckte Ermittler nur im Einverständnis mit dem Inhaber betreten. Das Einverständnis darf nicht durch Täuschung über eine Zutrittsberechtigung herbeigeführt werden.
+----
+### § 120 StPO
 
-### § 132 StPO # Scheingeschäft
+`§ 120 (1) StPO.`  
+Durchsuchungen von Orten und Gegenständen nach § 117 Z 2 lit. b und von Personen nach § 117 Z 3 lit. b sind von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen; bei Gefahr im Verzug ist die Kriminalpolizei allerdings berechtigt, diese Durchsuchungen vorläufig ohne Anordnung und Bewilligung vorzunehmen. Gleiches gilt in den Fällen des § 170 Abs. 1 Z 1 für die Durchsuchung von Personen nach § 117 Z 3 lit. b. Das Opfer darf jedoch in keinem Fall dazu gezwungen werden, sich gegen seinen Willen durchsuchen zu lassen (§§ 119 Abs. 2 Z 3 und 121 Abs. 1 letzter Satz).
 
-`§ 132 StPO.`  
-Die Durchführung eines Scheingeschäfts ist zulässig, wenn die Aufklärung eines Verbrechens (§ 17 Abs. 1 StGB) oder die Sicherstellung von Gegenständen oder Vermögenswerten, die aus einem Verbrechen herrühren oder von der Konfiskation (§ 19a StGB), vom Verfall (§ 20 StGB), vom erweiterten Verfall (§ 20b Abs. 1 StGB) oder von der Einziehung (§ 26 StGB) bedroht sind, andernfalls wesentlich erschwert wäre. Unter diesen Voraussetzungen ist es auch zulässig, zur Ausführung eines Scheingeschäfts durch Dritte beizutragen (§ 12 dritter Fall StGB).
+`§ 120 (2) StPO.`  
+Durchsuchungen nach § 117 Z 2 lit. a und nach § 117 Z 3 lit. a kann die Kriminalpolizei von sich aus durchführen.
+----
 
-### § 133 StPO # Gemeinsame Bestimmungen
+----
+### § 121 StPO
 
-`§ 133 (1) StPO.`  
-Observation nach § 130 Abs. 1 und verdeckte Ermittlung nach § 131 Abs. 1 sowie ein Scheingeschäft (§ 132), das zur Sicherstellung von Suchtmitteln und Falschgeld dient, kann die Kriminalpolizei von sich aus durchführen. Der Abschluss eines anderen Scheingeschäfts, Observation nach § 130 Abs. 3 und verdeckte Ermittlung nach § 131 Abs. 2 sind von der Staatsanwaltschaft anzuordnen. Eine Observation darf über den in § 130 Abs. 3 Z 2 vorgesehenen Zeitraum bis längstens vierzehn Tagen fortgesetzt werden, sofern die Kriminalpolizei der Staatsanwaltschaft unverzüglich nach der Fristüberschreitung berichtet (§ 100 Abs. 2 Z 2).
+`§ 121 (1) StPO.`  
+Vor jeder Durchsuchung ist der Betroffene unter Angabe der hiefür maßgebenden Gründe aufzufordern, die Durchsuchung zuzulassen oder das Gesuchte freiwillig herauszugeben. Von dieser Aufforderung darf nur bei Gefahr im Verzug sowie im Fall des § 119 Abs. 2 Z 1 abgesehen werden. Die Anwendung von Zwang (§ 93) ist im Fall der Durchsuchung einer Person nach § 119 Abs. 2 Z 3 unzulässig.
 
-`§ 133 (2) StPO.`  
-Observation nach § 130 Abs. 3 und verdeckte Ermittlung nach § 131 Abs. 2 dürfen nur für jenen Zeitraum angeordnet oder genehmigt werden, der zur Erreichung ihres Zweckes voraussichtlich erforderlich ist, längstens jedoch für drei Monate. Eine neuerliche Anordnung ist jeweils zulässig, soweit die Voraussetzungen fortbestehen und auf Grund bestimmter Tatsachen anzunehmen ist, dass die weitere Observation oder die weitere Durchführung verdeckter Ermittlungen Erfolg haben werde; § 99 Abs. 2 ist jedoch nicht anzuwenden. Observation und verdeckte Ermittlung sind zu beenden, wenn ihre Voraussetzungen wegfallen, wenn ihr Zweck erreicht ist oder voraussichtlich nicht mehr erreicht werden kann oder wenn die Staatsanwaltschaft die Einstellung anordnet.
+`§ 121 (2) StPO.`  
+Der Betroffene hat das Recht, bei einer Durchsuchung nach § 117 Z 2 anwesend zu sein, sowie einer solchen und einer Durchsuchung nach § 117 Z 3 lit. b eine Person seines Vertrauens zuzuziehen; für diese gilt § 160 Abs. 2 sinngemäß. Ist der Inhaber der Wohnung nicht zugegen, so kann ein erwachsener Mitbewohner seine Rechte ausüben. Ist auch das nicht möglich, so sind der Durchsuchung zwei unbeteiligte, vertrauenswürdige Personen beizuziehen. Davon darf nur bei Gefahr im Verzug abgesehen werden. Einer Durchsuchung in ausschließlich der Berufsausübung gewidmeten Räumen einer der in § 157 Abs. 1 Z 2 bis 4 erwähnten Personen ist von Amts wegen ein Vertreter der jeweiligen gesetzlichen Interessenvertretung beziehungsweise der Medieninhaber oder ein von ihm namhaft gemachter Vertreter beizuziehen.
 
-`§ 133 (3) StPO.`  
-Observation, verdeckte Ermittlungen und Scheingeschäft sind durch die Kriminalpolizei durchzuführen. Die Verwendung technischer Mittel zur optischen oder akustischen Überwachung von Personen im Zuge dieser Ermittlungsmaßnahmen ist nur unter den Voraussetzungen des § 136 zulässig.
+`§ 121 (3) StPO.`  
+Bei der Durchführung sind Aufsehen, Belästigungen und Störungen auf das unvermeidbare Maß zu beschränken. Die Eigentums- und Persönlichkeitsrechte sämtlicher Betroffener sind soweit wie möglich zu wahren. Eine Durchsuchung von Personen nach § 117 Z 3 lit. b ist stets von einer Person desselben Geschlechts oder von einem Arzt unter Achtung der Würde der zu untersuchenden Person vorzunehmen.
+----
 
-`§ 133 (4) StPO.`  
-Nach Beendigung der Observation nach § 130 Abs. 3 und der verdeckten Ermittlung nach § 131 Abs. 2 und nach Abschluss des Scheingeschäfts sind dem Beschuldigten und den Betroffenen, sofern ihre Identität bekannt oder ohne besonderen Verfahrensaufwand feststellbar ist, die Anordnungen und Genehmigungen nach Abs. 1 und 2 zuzustellen. Diese Zustellung kann jedoch aufgeschoben werden, solange durch sie der Zweck der Ermittlungen in diesem oder in einem anderen Verfahren gefährdet wäre.
+----
+### § 122 StPO
 
-`§ 133 (5) StPO.`  
-Von der Verfolgung eines Beschuldigten wegen der strafbaren Handlung, zu deren Begehung er nach § 5 Abs. 3 verleitet wurde, hat die Staatsanwaltschaft abzusehen. § 191 Abs. 2 gilt sinngemäß.
+`§ 122 (1) StPO.`  
+Über jede Durchsuchung nach § 120 Abs. 1 erster Satz letzter Halbsatz hat die Kriminalpolizei sobald wie möglich der Staatsanwaltschaft zu berichten (§ 100 Abs. 2 Z 2), welche im Nachhinein eine Entscheidung des Gerichts über die Zulässigkeit der Durchsuchung (§ 99 Abs. 3) zu beantragen hat. Wird die Bewilligung nicht erteilt, so haben Staatsanwaltschaft und Kriminalpolizei mit den ihnen zu Gebote stehenden rechtlichen Mitteln den der gerichtlichen Entscheidung entsprechenden Rechtszustand herzustellen.
 
-## 5. Abschnitt # Beschlagnahme von Briefen, Auskunft über Stamm- und Zugangsdaten, Auskunft über Daten einer Nachrichtenübermittlung, Lokalisierung einer technischen Einrichtung, Anlassdatenspeicherung und Überwachung von Nachrichten und von Personen
+`§ 122 (2) StPO.`  
+Werden bei einer Durchsuchung Gegenstände gefunden, die auf die Begehung einer anderen als der Straftat schließen lassen, derentwegen die Durchsuchung vorgenommen wird, so sind sie zwar sicherzustellen; es muss jedoch hierüber ein besonderes Protokoll aufgenommen und sofort der Staatsanwaltschaft berichtet werden.
 
-### § 134 StPO # Definitionen
+`§ 122 (3) StPO.`  
+In jedem Fall ist dem Betroffenen sogleich oder längstens binnen 24 Stunden eine Bestätigung über die Durchsuchung und deren Ergebnis sowie gegebenenfalls die Anordnung der Staatsanwaltschaft samt gerichtlicher Entscheidung auszufolgen oder zuzustellen.
+----
 
-`§ 134 StPO.`  
-Im Sinne dieses Bundesgesetzes ist  
-`§ 134 Z 1 StPO.`
-„Beschlagnahme von Briefen“ das Öffnen und Zurückbehalten von Telegrammen, Briefen oder anderen Sendungen, die der Beschuldigte abschickt oder die an ihn gerichtet werden,  
-`§ 134 Z 1a StPO.`
-„Auskunft über Stammdaten“ die Erteilung einer Auskunft über Stammdaten (§ 160 Abs. 3 Z 5 Telekommunikationsgesetz – TKG 2021, BGBl. I Nr. 190/2021) eines Nutzers (§ 4 Z 13 TKG 2021 oder § 3 Z 4 E-Commerce–Gesetz – ECG, BGBl. I Nr. 152/2001);  
-`§ 134 Z 1b StPO.`
-„Auskunft über Zugangsdaten“ die Auskunft über folgende Zugangsdaten (§ 160 Abs. 3 Z 7 TKG 2021) des Inhabers der betroffenen technischen Einrichtung:  
-`§ 134 Z 1b lit. a StPO.`
-Name, Anschrift und Nutzerkennung des Nutzers, dem eine öffentliche IP-Adresse zu einem bestimmten Zeitpunkt unter Angabe der zugrunde liegenden Zeitzone zugewiesen war, es sei denn, dass diese Zuordnung viele Nutzer erfassen würde;  
-`§ 134 Z 1b lit. b StPO.`
-die bei Verwendung von E-Mail Diensten dem Nutzer zugewiesene Nutzerkennung;  
-`§ 134 Z 1b lit. c StPO.`
-Name und Anschrift des Nutzers, dem eine E-Mail-Adresse zu einem bestimmten Zeitpunkt zugewiesen war, und  
-`§ 134 Z 1b lit. d StPO.`
-die E-Mail-Adresse und die öffentliche IP-Adresse des Absenders einer E-Mail,  
-`§ 134 Z 2 StPO.`
-„Auskunft über Daten einer Nachrichtenübermittlung“ die Erteilung einer Auskunft über Verkehrsdaten (§ 160 Abs. 3 Z 6 TKG 2021), Zugangsdaten (§ 160 Abs. 3 Z 7 TKG 2021), die nicht einer Anordnung gemäß § 135 Abs. 1a zweiter Fall unterliegen, und Standortdaten (§ 160 Abs. 3 Z 9 TKG 2021) eines Telekommunikationsdienstes oder eines Dienstes der Informationsgesellschaft (§ 1 Abs. 1 Z 2 des Notifikationsgesetzes),  
-`§ 134 Z 2a StPO.`
-„Lokalisierung einer technischen Einrichtung“ der Einsatz technischer Mittel zur Feststellung von geographischen Standorten und der zur internationalen Kennung des Benutzers dienenden Nummer (IMSI) ohne Mitwirkung eines Anbieters (Z 6),  
-`§ 134 Z 2b StPO.`
-„Anlassdatenspeicherung“ das Absehen von der Löschung der in Z 2 genannten Daten (§ 167 Abs. 2 Z 4 TKG 2021),  
-`§ 134 Z 3 StPO.`
-„Überwachung von Nachrichten“ das Überwachen von Nachrichten und Informationen, die von einer natürlichen Person über ein Kommunikationsnetz (§ 4 Z 1 TKG 2021) oder einen Dienst der Informationsgesellschaft (§ 1 Abs. 1 Z 2 des Notifikationsgesetzes) gesendet, übermittelt oder empfangen werden,  
-*(Anm.: Z 3a aufgehoben durch VfGH, BGBl. I Nr. 113/2019)*  
-`§ 134 Z 4 StPO.`
-„optische und akustische Überwachung von Personen“ die Überwachung des Verhaltens von Personen unter Durchbrechung ihrer Privatsphäre und der Äußerungen von Personen, die nicht zur unmittelbaren Kenntnisnahme Dritter bestimmt sind, unter Verwendung technischer Mittel zur Bild- oder Tonübertragung und zur Bild- oder Tonaufnahme ohne Kenntnis der Betroffenen,  
-`§ 134 Z 5 StPO.`
-„Ergebnis“ (der unter Z 1 bis 4 angeführten Beschlagnahme, Auskunft, Lokalisierung oder Überwachung) der Inhalt von Briefen (Z 1), die festgestellten Stammdaten (Z 1a), die festgestellten Zugangsdaten (Z 1b), die Daten einer Nachrichtenübermittlung (Z 2), die festgestellten geographischen Standorte und zur internationalen Kennung des Benutzers dienenden Nummern (IMSI) (Z 2a), die gesendeten, übermittelten oder empfangenen Nachrichten und Informationen (Z 3), und die Bild- oder Tonaufnahme einer Überwachung (Z 4),  
-`§ 134 Z 6 StPO.`
-„Anbieter“ ein Anbieter (§ 160 Abs. 3 Z 1 TKG 2021), ein Diensteanbieter (§ 3 Z 2 ECG) sowie ein Vermittlungsdiensteanbieter (§ 3 Z 3a ECG).
+----
+### § 123 StPO # Körperliche Untersuchung
 
-### § 135 StPO # Beschlagnahme von Briefen, Auskunft über Stamm- und Zugangsdaten, Auskunft über Daten einer Nachrichtenübermittlung, Lokalisierung einer technischen Einrichtung, Anlassdatenspeicherung und Überwachung von Nachrichten
+`§ 123 (1) StPO.`  
+Eine körperliche Untersuchung ist zulässig, wenn  
+`§ 123 (1) Z 1 StPO.`
+auf Grund bestimmter Tatsachen anzunehmen ist, dass eine Person Spuren hinterlassen hat, deren Sicherstellung und Untersuchung für die Aufklärung einer Straftat wesentlich sind,  
+`§ 123 (1) Z 2 StPO.`
+auf Grund bestimmter Tatsachen anzunehmen ist, dass eine Person Gegenstände im Körper verbirgt, die der Sicherstellung unterliegen, oder  
+`§ 123 (1) Z 3 StPO.`
+Tatsachen, die für die Aufklärung einer Straftat oder die Beurteilung der Zurechnungsfähigkeit von maßgebender Bedeutung sind, auf andere Weise nicht festgestellt werden können.
 
-`§ 135 (1) StPO.`  
-Beschlagnahme von Briefen ist zulässig, wenn sie zur Aufklärung einer vorsätzlich begangenen Straftat, die mit mehr als einjähriger Freiheitsstrafe bedroht ist, erforderlich ist.
+`§ 123 (2) StPO.`  
+Eine körperliche Untersuchung nach Abs. 1 Z 1 ist auch an Personen zulässig, die einem durch bestimmte Merkmale individualisierbaren Personenkreis angehören, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass sich der Täter in diesem Personenkreis befindet und die Aufklärung einer mit mehr als fünf Jahren Freiheitsstrafe bedrohten Straftat oder eines Verbrechens nach dem 10. Abschnitt des Strafgesetzbuches andernfalls wesentlich erschwert wäre.
 
-`§ 135 (1a) StPO.`  
-Auskunft über Stammdaten und Auskunft über Zugangsdaten sind zulässig, wenn sie zur Aufklärung eines konkreten Verdachts einer Straftat erforderlich erscheinen.
+`§ 123 (3) StPO.`  
+Eine körperliche Untersuchung ist von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen. Bei Gefahr im Verzug kann die Untersuchung auch auf Grund einer Anordnung der Staatsanwaltschaft durchgeführt werden, doch hat die Staatsanwaltschaft in diesem Fall unverzüglich die gerichtliche Bewilligung einzuholen. Wird diese nicht erteilt, so hat die Staatsanwaltschaft die Anordnung sofort zu widerrufen und das Ergebnis der körperlichen Untersuchung vernichten zu lassen. Einen Mundhöhlenabstrich kann die Kriminalpolizei jedoch von sich aus abnehmen.
 
-`§ 135 (2) StPO.`  
-Auskunft über Daten einer Nachrichtenübermittlung ist zulässig,  
-`§ 135 (2) Z 1 StPO.`
-wenn und solange der dringende Verdacht besteht, dass eine von der Auskunft betroffene Person eine andere entführt oder sich sonst ihrer bemächtigt hat, und sich die Auskunft auf Daten einer solchen Nachricht beschränkt, von der anzunehmen ist, dass sie zur Zeit der Freiheitsentziehung vom Beschuldigten übermittelt, empfangen oder gesendet wird,  
-`§ 135 (2) Z 2 StPO.`
-wenn zu erwarten ist, dass dadurch die Aufklärung einer vorsätzlich begangenen Straftat, die mit einer Freiheitsstrafe von mehr als sechs Monaten bedroht ist, gefördert werden kann und der Inhaber der technischen Einrichtung, die Ursprung oder Ziel einer Übertragung von Nachrichten war oder sein wird, der Auskunft ausdrücklich zustimmt, oder  
-`§ 135 (2) Z 3 StPO.`
-wenn zu erwarten ist, dass dadurch die Aufklärung einer vorsätzlich begangenen Straftat, die mit Freiheitsstrafe von mehr als einem Jahr bedroht ist, gefördert werden kann und auf Grund bestimmter Tatsachen anzunehmen ist, dass dadurch Daten des Beschuldigten ermittelt werden können.  
-`§ 135 (2) Z 4 StPO.`
-wenn auf Grund bestimmter Tatsachen zu erwarten ist, dass dadurch der Aufenthalt eines flüchtigen oder abwesenden Beschuldigten, der einer vorsätzlich begangenen, mit mehr als einjähriger Freiheitsstrafe bedrohten strafbaren Handlung dringend verdächtig ist, ermittelt werden kann.
+`§ 123 (4) StPO.`  
+Operative Eingriffe und alle Eingriffe, die eine Gesundheitsschädigung von mehr als dreitägiger Dauer bewirken könnten, sind unzulässig. Andere Eingriffe dürfen vorgenommen werden, wenn die zu untersuchende Person nach vorheriger Aufklärung über die möglichen Folgen ausdrücklich zustimmt. Ohne Einwilligung des Betroffenen darf eine Blutabnahme oder ein vergleichbar geringfügiger Eingriff, bei dem der Eintritt von anderen als bloß unbedeutenden Folgen ausgeschlossen ist, vorgenommen werden, wenn  
+`§ 123 (4) Z 1 StPO.`
+die Person im Verdacht steht,  
+`§ 123 (4) Z 1 undefined StPO.`
+eine Straftat nach § 178 StGB oder  
+`§ 123 (4) Z 1 undefined StPO.`
+eine Straftat gegen Leib und Leben durch Ausübung einer gefährlichen Tätigkeit in alkoholisiertem oder sonst durch ein berauschendes Mittel beeinträchtigtem Zustand begangen zu haben, oder  
+`§ 123 (4) Z 2 StPO.`
+die körperliche Untersuchung des Beschuldigten zur Aufklärung einer mit mehr als fünf Jahren Freiheitsstrafe bedrohten Straftat oder eines Verbrechens nach dem 10. Abschnitt des Strafgesetzbuches erforderlich ist.
 
-`§ 135 (2a) StPO.`  
-Lokalisierung einer technischen Einrichtung ist in den Fällen des Abs. 2 Z 1, 3 und 4 ausschließlich zur Feststellung der in § 134 Z 2a genannten Daten zulässig.
+`§ 123 (5) StPO.`  
+Jede körperliche Untersuchung ist von einem Arzt vorzunehmen; ein Mundhöhlenabstrich kann jedoch auch von einer anderen Person, die für diesen Zweck besonders geschult ist, abgenommen werden. Im Übrigen gelten die Bestimmungen der §§ 121 sowie 122 Abs. 1 letzter Satz und 3 über die Durchsuchung sinngemäß.
 
-`§ 135 (2b) StPO.`  
-Anlassdatenspeicherung ist zulässig, wenn dies aufgrund eines Anfangsverdachts (§ 1 Abs. 3) zur Sicherung einer Anordnung nach Abs. 1a zweiter Fall oder nach Abs. 2 Z 2 bis 4 erforderlich erscheint.
+`§ 123 (6) StPO.`  
+Als Beweismittel dürfen die Ergebnisse einer körperlichen Untersuchung nur verwendet werden, wenn  
+`§ 123 (6) Z 1 StPO.`
+die Voraussetzungen für eine körperliche Untersuchung vorlagen,  
+`§ 123 (6) Z 2 StPO.`
+die körperliche Untersuchung rechtmäßig angeordnet worden ist und  
+`§ 123 (6) Z 3 StPO.`
+die Verwendung zum Nachweis einer Straftat, deretwegen die körperliche Untersuchung angeordnet wurde oder hätte angeordnet werden können, dient.
 
-`§ 135 (3) StPO.`  
-Überwachung von Nachrichten ist zulässig,  
-`§ 135 (3) Z 1 StPO.`
-in den Fällen des Abs. 2 Z 1,  
-`§ 135 (3) Z 2 StPO.`
-in den Fällen des Abs. 2 Z 2, sofern der Inhaber der technischen Einrichtung, die Ursprung oder Ziel einer Übertragung von Nachrichten war oder sein wird, der Überwachung zustimmt,  
-`§ 135 (3) Z 3 StPO.`
-wenn dies zur Aufklärung einer vorsätzlich begangenen Straftat, die mit Freiheitsstrafe von mehr als einem Jahr bedroht ist, erforderlich erscheint oder die Aufklärung oder Verhinderung von im Rahmen einer kriminellen oder terroristischen Vereinigung oder einer kriminellen Organisation (§§ 278 bis 278b StGB) begangenen oder geplanten Straftaten ansonsten wesentlich erschwert wäre und  
-`§ 135 (3) Z 3 lit. a StPO.`
-der Inhaber der technischen Einrichtung, die Ursprung oder Ziel einer Übertragung von Nachrichten war oder sein wird, der vorsätzlich begangenen Straftat, die mit Freiheitsstrafe von mehr als einem Jahr bedroht ist, oder einer Straftat gemäß §§ 278 bis 278b StGB dringend verdächtig ist, oder  
-`§ 135 (3) Z 3 lit. b StPO.`
-auf Grund bestimmter Tatsachen anzunehmen ist, dass eine der Tat (lit. a) dringend verdächtige Person die technische Einrichtung benützen oder mit ihr eine Verbindung herstellen werde;  
-`§ 135 (3) Z 4 StPO.`
-in den Fällen des Abs. 2 Z 4.
+`§ 123 (7) StPO.`  
+Ergebnisse einer körperlichen Untersuchung, die aus anderen als strafprozessualen Gründen durchgeführt wurde, dürfen in einem Strafverfahren nur als Beweismittel verwendet werden, wenn dies zum Nachweis einer Straftat, deretwegen die körperliche Untersuchung hätte angeordnet werden können, erforderlich ist.
+----
 
-### § 136 StPO # Optische und akustische Überwachung von Personen
+----
+### § 124 StPO # Molekulargenetische Untersuchung
 
-`§ 136 (1) StPO.`  
-Die optische und akustische Überwachung von Personen ist zulässig,  
-`§ 136 (1) Z 1 StPO.`
-wenn und solange der dringende Verdacht besteht, dass eine von der Überwachung betroffene Person eine andere entführt oder sich ihrer sonst bemächtigt hat, und sich die Überwachung auf Vorgänge und Äußerungen zur Zeit und am Ort der Freiheitsentziehung beschränkt,  
-`§ 136 (1) Z 2 StPO.`
-wenn sie sich auf Vorgänge und Äußerungen beschränkt, die zur Kenntnisnahme eines verdeckten Ermittlers oder sonst einer von der Überwachung informierten Person bestimmt sind oder von dieser unmittelbar wahrgenommen werden können, und sie zur Aufklärung eines Verbrechens (§ 17 Abs. 1 StGB) erforderlich scheint oder  
-`§ 136 (1) Z 3 StPO.`
-wenn die Aufklärung eines mit mehr als zehn Jahren Freiheitsstrafe bedrohten Verbrechens, einer Straftat nach §§ 278a bis 278e StGB oder die Aufklärung oder Verhinderung von im Rahmen einer kriminellen Organisation oder einer terroristischen Vereinigung (§ 278a und § 278b StGB) begangenen oder geplanten Verbrechen (§ 17 Abs. 1 StGB) oder die Ermittlung des Aufenthalts des wegen einer der davor genannten Straftaten Beschuldigten ansonsten aussichtslos oder wesentlich erschwert wäre und  
-`§ 136 (1) Z 3 lit. a StPO.`
-die Person, gegen die sich die Überwachung richtet, des mit mehr als zehn Jahren Freiheitsstrafe bedrohten Verbrechens oder einer Straftat nach §§ 278a bis 278e StGB dringend verdächtig ist oder  
-`§ 136 (1) Z 3 lit. b StPO.`
-auf Grund bestimmter Tatsachen anzunehmen ist, dass ein Kontakt einer solcherart dringend verdächtigen Person mit der Person hergestellt werde, gegen die sich die Überwachung richtet.
+`§ 124 (1) StPO.`  
+Zur Aufklärung einer Straftat ist es zulässig, einerseits biologische Spuren und andererseits Material, das einer bestimmten Person zugehört oder zugehören dürfte, molekulargenetisch zu untersuchen, um die Spur einer Person zuzuordnen oder die Identität einer Person oder deren Abstammung festzustellen, und mit nach diesem Gesetz oder nach dem Sicherheitspolizeigesetz rechtmäßig gewonnenen Ergebnissen molekulargenetischer Untersuchungen abzugleichen.
 
-`§ 136 (2) StPO.`  
-Soweit dies zur Durchführung einer Überwachung nach Abs. 1 Z 3 unumgänglich ist, ist es zulässig, in eine bestimmte Wohnung oder in andere durch das Hausrecht geschützte Räume einzudringen, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass der Beschuldigte die betroffenen Räume benützen werde.
+`§ 124 (2) StPO.`  
+Eine molekulargenetische Untersuchung ist von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen, sofern es sich nicht bloß um eine biologische Tatortspur handelt; eine solche kann die Kriminalpolizei von sich aus untersuchen lassen.
 
-`§ 136 (3) StPO.`  
-Die optische Überwachung von Personen zur Aufklärung einer Straftat ist überdies zulässig,  
-`§ 136 (3) Z 1 StPO.`
-wenn sie sich auf Vorgänge außerhalb einer Wohnung oder anderer durch das Hausrecht geschützter Räume beschränkt und ausschließlich zu dem Zweck erfolgt, Gegenstände oder Örtlichkeiten zu beobachten, um das Verhalten von Personen zu erfassen, die mit den Gegenständen in Kontakt treten oder die Örtlichkeiten betreten, oder  
-`§ 136 (3) Z 2 StPO.`
-wenn sie ausschließlich zu dem in Z 1 erwähnten Zweck in einer Wohnung oder anderen durch das Hausrecht geschützten Räumen erfolgt, die Aufklärung einer vorsätzlich begangenen Straftat, die mit Freiheitsstrafe von mehr als einem Jahr bedroht ist, ansonsten wesentlich erschwert wäre und der Inhaber dieser Wohnung oder Räume in die Überwachung ausdrücklich einwilligt.
+`§ 124 (3) StPO.`  
+Mit der molekulargenetischen Untersuchung ist ein Sachverständiger aus dem Fachgebiet der Gerichtlichen Medizin oder der Forensischen Molekularbiologie zu beauftragen. Diesem ist das Untersuchungsmaterial in anonymisierter Form zu übergeben. Im Übrigen ist dafür Sorge zu tragen, dass Daten aus molekulargenetischen Untersuchungen nur insoweit einer bestimmten Person zugeordnet werden können, als dies für den Untersuchungszweck (Abs. 1 und 4) erforderlich ist.
 
-`§ 136 (4) StPO.`  
-Eine Überwachung ist nur zulässig, soweit die Verhältnismäßigkeit (§ 5) gewahrt wird. Eine Überwachung nach Abs. 1 Z 3 zur Verhinderung von im Rahmen einer terroristischen Vereinigung oder einer kriminellen Organisation (§§ 278a und 278b StGB) begangenen oder geplanten Verbrechen (§ 17 Abs. 1 StGB) ist überdies nur dann zulässig, wenn bestimmte Tatsachen auf eine schwere Gefahr für die öffentliche Sicherheit schließen lassen.
+`§ 124 (4) StPO.`  
+Untersuchungsmaterial, das einer bestimmten Person zugehört oder zugehören dürfte, und die Ergebnisse der Untersuchung dürfen nur so lange verwendet und verarbeitet werden, als die Zuordnung zur Spur oder die Feststellung der Identität oder der Abstammung nicht ausgeschlossen ist; danach sind sie zu vernichten. Sicherheitspolizeiliche Vorschriften (§§ 65 bis 67, 75 SPG) bleiben hievon unberührt.
 
-### § 137 StPO # Gemeinsame Bestimmungen
+`§ 124 (5) StPO.`  
+Daten, die auf Grund dieser Bestimmung ermittelt wurden, sind den Sicherheitsbehörden auf deren Verlangen zu übermitteln, soweit Ermittlung und Verarbeitung dieser Daten nach sicherheitspolizeilichen Vorschriften (§§ 65 bis 67, 75 SPG) zulässig wäre.
+----
 
-`§ 137 (1) StPO.`  
-Eine Überwachung nach § 136 Abs. 1 Z 1 kann die Kriminalpolizei von sich aus durchführen. Eine Auskunft über Stammdaten nach § 135 Abs. 1a erster Fall ist auf Ersuchen von Kriminalpolizei, Staatsanwaltschaft oder Gericht zu erteilen. Eine Auskunft über Zugangsdaten nach § 135 Abs. 1a zweiter Fall sowie eine Anlassdatenspeicherung nach § 135 Abs. 2b ist von der Staatsanwaltschaft anzuordnen (§ 102). Die übrigen Ermittlungsmaßnahmen nach den §§ 135 bis 136 sind von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen, wobei das Eindringen in Räume nach § 136 Abs. 2 jeweils im Einzelnen einer gerichtlichen Bewilligung bedarf.
-*(Anm.: Abs. 2 aufgehoben durch Art. 1 Z 21, BGBl. I Nr. 27/2018)*
+----
+## 3. Abschnitt # Sachverständige und Dolmetscher, Leichenbeschau und Obduktion
 
-`§ 137 (3) StPO.`  
-Eine Anlassdatenspeicherung nach § 135 Abs. 2b darf nur für jenen Zeitraum angeordnet werden, der zur Erreichung ihres Zwecks voraussichtlich erforderlich ist, längstens jedoch für zwölf Monate; eine neuerliche Anordnung ist nicht zulässig. Sonstige Ermittlungsmaßnahmen nach §§ 135 bis 136 dürfen nur für einen solchen künftigen, in den Fällen des § 135 Abs. 1a zweiter Fall und Abs. 2 auch vergangenen, Zeitraum angeordnet werden, der zur Erreichung ihres Zwecks voraussichtlich erforderlich ist. Eine neuerliche Anordnung ist jeweils zulässig, soweit auf Grund bestimmter Tatsachen anzunehmen ist, dass die weitere Durchführung der Ermittlungsmaßnahme Erfolg haben werde. Im Übrigen ist die Ermittlungsmaßnahme zu beenden, sobald ihre Voraussetzungen wegfallen.
+### § 125 StPO # Definitionen
 
-### § 138 StPO
+`§ 125 StPO.`  
+Im Sinne dieses Gesetzes ist  
+`§ 125 Z 1 StPO.`
+„Sachverständiger“ eine Person, die auf Grund besonderen Fachwissens in der Lage ist, beweiserhebliche Tatsachen festzustellen (Befundaufnahme) oder aus diesen rechtsrelevante Schlüsse zu ziehen und sie zu begründen (Gutachtenserstattung),  
+`§ 125 Z 2 StPO.`
+„Dolmetscher“ eine Person, die auf Grund besonderer Kenntnisse in der Lage ist, aus der Verfahrenssprache in eine andere Sprache oder von einer anderen in die Verfahrenssprache zu übersetzen,  
+`§ 125 Z 3 StPO.`
+„Leichenbeschau“ die Besichtigung der äußeren Beschaffenheit einer Leiche,  
+`§ 125 Z 4 StPO.`
+„Obduktion“ die Öffnung einer Leiche durch einen Sachverständigen zum Zweck der Feststellung von Anlass und Ursache des Todes oder von anderen für die Aufklärung einer Straftat wesentlichen Umständen.
+----
 
-`§ 138 (1) StPO.`  
-Anordnung und gerichtliche Bewilligung einer Beschlagnahme von Briefen nach § 135 Abs. 1 haben die Bezeichnung des Verfahrens, den Namen des Beschuldigten, die Tat, deren der Beschuldigte verdächtig ist, und ihre gesetzliche Bezeichnung sowie die Tatsachen, aus denen sich ergibt, dass die Anordnung oder Genehmigung zur Aufklärung der Tat erforderlich und verhältnismäßig ist, anzuführen und über die Rechte des von der Anordnung oder Bewilligung Betroffenen zu informieren; Anordnung nach § 135 Abs. 1a zweiter Fall und Abs. 2b und Anordnung und Bewilligung nach den § 135 Abs. 2, 2a und 3 und § 136 haben überdies zu enthalten:  
-`§ 138 (1) Z 1 StPO.`
-die Namen oder sonstigen Identifizierungsmerkmale des Inhabers der technischen Einrichtung, die Ursprung oder Ziel einer Übertragung von Nachrichten war oder sein wird, oder der Person, deren Überwachung angeordnet wird,  
-`§ 138 (1) Z 2 StPO.`
-die für die Durchführung der Ermittlungsmaßnahme in Aussicht genommenen Örtlichkeiten,  
-`§ 138 (1) Z 3 StPO.`
-die Art der Nachrichtenübertragung, die technische Einrichtung oder die Art der voraussichtlich für die optische und akustische Überwachung zu verwendenden technischen Mittel,  
-`§ 138 (1) Z 4 StPO.`
-den Zeitpunkt des Beginns und der Beendigung der Überwachung,  
-`§ 138 (1) Z 5 StPO.`
-die Räume, in die auf Grund einer Anordnung eingedrungen werden darf,  
-`§ 138 (1) Z 6 StPO.`
-im Fall des § 136 Abs. 4 die Tatsachen, aus denen sich die schwere Gefahr für die öffentliche Sicherheit ergibt.
+----
+### § 126 StPO # Sachverständige und Dolmetscher
 
-`§ 138 (2) StPO.`  
-Betreiber von Post- und Telegrafendiensten sind verpflichtet, an der Beschlagnahme von Briefen mitzuwirken und auf Anordnung der Staatsanwaltschaft solche Sendungen bis zum Eintreffen einer gerichtlichen Bewilligung zurückzuhalten; ergeht eine solche Bewilligung nicht binnen drei Tagen, so dürfen sie die Beförderung nicht weiter verschieben. Anbieter (§ 134 Z 6) sind verpflichtet, unverzüglich Auskunft über Daten einer Nachrichtenübermittlung (§ 135 Abs. 2) zu erteilen und an einer Überwachung von Nachrichten (§ 135 Abs. 3) mitzuwirken; die rechtliche Zulässigkeit der Auskunftserteilung und Mitwirkung gründet auf der gerichtlichen Bewilligung. Ersuchen zur Auskunft über Stammdaten (§ 135 Abs. 1a erster Fall) sowie Anordnungen zur Auskunft über Zugangsdaten (§ 135 Abs. 1a zweiter Fall) und zur Anlassdatenspeicherung (§ 135 Abs. 2b) haben sie unverzüglich zu entsprechen und im Fall der Anlassdatenspeicherung die von der Löschungsverpflichtung ausgenommenen Daten (§ 167 Abs. 2 Z 4 TKG 2021) nach Ablauf der angeordneten Dauer oder auf Grund einer Anordnung der Staatsanwaltschaft zu löschen.
+`§ 126 (1) StPO.`  
+Sachverständige sind zu bestellen, wenn für Ermittlungen oder für Beweisaufnahmen besonderes Fachwissen erforderlich ist, über welches die Strafverfolgungsbehörden durch ihre Organe, besondere Einrichtungen oder bei ihnen dauernd angestellte Personen nicht verfügen. Dolmetscher sind im Rahmen der Übersetzungshilfe und dann zu bestellen, wenn eine Person vernommen wird, die der Verfahrenssprache nicht kundig ist (§ 56), oder für die Ermittlungen wesentliche Schriftstücke in die Verfahrenssprache zu übersetzen sind.
 
-`§ 138 (3) StPO.`  
-Die Verpflichtung nach Abs. 2 und ihren Umfang sowie die allfällige Verpflichtung, mit der Anordnung und Bewilligung verbundene Tatsachen und Vorgänge gegenüber Dritten geheim zu halten, hat die Staatsanwaltschaft dem Betreiber oder Anbieter mit gesonderter Anordnung aufzutragen; diese Anordnung hat in den Fällen der § 135 Abs. 2 und 3 die entsprechende gerichtliche Bewilligung anzuführen. Die §§ 93 Abs. 2, 111 Abs. 3 sowie die Bestimmungen über die Durchsuchung gelten sinngemäß.
+`§ 126 (2) StPO.`  
+Als Sachverständige sind vor allem Personen zu bestellen, die in die Gerichtssachverständigen- und Gerichtsdolmetscherliste (§ 2 Abs. 1 des Bundesgesetzes über die allgemein beeideten und gerichtlichen zertifizierten Sachverständigen und Dolmetscher – SDG, BGBl. Nr. 137/1975) eingetragen sind. Werden andere Personen bestellt, so sind sie zuvor über ihre wesentlichen Rechte und Pflichten zu informieren.
 
-`§ 138 (4) StPO.`  
-Die Staatsanwaltschaft hat die Ergebnisse (§ 134 Z 5) zu prüfen und diejenigen Teile in Bild- oder Schriftform übertragen zu lassen und zu den Akten zu nehmen, die für das Verfahren von Bedeutung sind und als Beweismittel verwendet werden dürfen (§§ 140 Abs. 1, 144, 157 Abs. 2).
+`§ 126 (2a) StPO.`  
+Als Dolmetscher ist von der Staatsanwaltschaft oder vom Gericht eine vom Bundesministerium für Justiz oder in dessen Auftrag von der Justizbetreuungsagentur zur Verfügung gestellte geeignete Person zu bestellen. Zur Gewährleistung der Übersetzungshilfe durch die Kriminalpolizei hat diese eine vom Bundesministerium für Inneres oder in dessen Auftrag von einem Dienstleister zur Verfügung gestellte geeignete Person zu bestellen. Für diese Dolmetscher gilt § 127 Abs. 1 erster Satz nicht.
 
-`§ 138 (5) StPO.`  
-Nach Beendigung einer Ermittlungsmaßnahme nach § 135 Abs. 1a zweiter Fall und Abs. 2b hat die Staatsanwaltschaft ihre Anordnung, in den übrigen Fällen von Ermittlungsmaßnahmen nach den §§ 135 bis 136 samt deren gerichtlicher Bewilligung, dem Beschuldigten und den von der Durchführung der Ermittlungsmaßnahme Betroffenen unverzüglich zuzustellen. Die Zustellung kann jedoch aufgeschoben werden, solange durch sie der Zweck dieses oder eines anderen Verfahrens gefährdet wäre. Wenn die Ermittlungsmaßnahme später begonnen oder früher beendet wurde als zu den in Abs. 1 Z 4 genannten Zeitpunkten, ist auch der Zeitraum der tatsächlichen Durchführung mitzuteilen.
+`§ 126 (2b) StPO.`  
+Steht eine geeignete Person nach Abs. 2a nicht oder nicht rechtzeitig zur Verfügung oder besteht Grund zur Annahme, dass hinsichtlich aller nach Abs. 2a in Betracht kommenden Personen einer der Gründe des Abs. 4 vorliegt, so kann auch eine andere geeignete Person als Dolmetscher bestellt werden. Dabei ist vorrangig eine in die Gerichtssachverständigen- und Gerichtsdolmetscherliste (§ 2 Abs. 1 SDG) eingetragene Person zu bestellen, im Übrigen jedoch nach Abs. 2 letzter Satz vorzugehen. Wird eine solche Person durch die Kriminalpolizei als Dolmetscher bestellt, so richtet sich ihr Anspruch auf Abgeltung nach § 53b des Allgemeinen Verwaltungsverfahrensgesetzes (AVG), BGBl. Nr. 51/1991.
 
-### § 139 StPO
+`§ 126 (2c) StPO.`  
+Bei der Wahl von Sachverständigen oder Dolmetschern und der Bestimmung des Umfangs ihres Auftrags ist nach den Grundsätzen der Sparsamkeit, Wirtschaftlichkeit und Zweckmäßigkeit vorzugehen.
 
-`§ 139 (1) StPO.`  
-Dem Beschuldigten ist zu ermöglichen, die gesamten Ergebnisse (§ 134 Z 5) einzusehen und anzuhören. Soweit berechtigte Interessen Dritter dies erfordern, hat die Staatsanwaltschaft jedoch Teile der Ergebnisse, die nicht für das Verfahren von Bedeutung sind, von der Kenntnisnahme durch den Beschuldigten auszunehmen. Dies gilt nicht, soweit während der Hauptverhandlung von den Ergebnissen Gebrauch gemacht wird.
+`§ 126 (3) StPO.`  
+Sachverständige sind von der Staatsanwaltschaft, für gerichtliche Ermittlungen oder Beweisaufnahmen (§§ 104, 105) und für das Hauptverfahren (§ 210 Abs. 2) jedoch vom Gericht zu bestellen. Werden Angehörige des wissenschaftlichen Personals einer Universitätseinheit als Sachverständige bestellt, so ist eine Ausfertigung des Auftrags auch dem Leiter der Einheit zuzustellen. Dem Beschuldigten ist eine Ausfertigung der Bestellung samt einer Information über seine Rechte nach Abs. 5 zuzustellen.
 
-`§ 139 (2) StPO.`  
-Die von der Durchführung der Ermittlungsmaßnahme betroffenen Personen haben das Recht, die Ergebnisse insoweit einzusehen, als ihre Daten einer Nachrichtenübermittlung, für sie bestimmte oder von ihnen ausgehende Nachrichten oder von ihnen geführte Gespräche oder Bilder, auf denen sie dargestellt sind, betroffen sind. Über dieses und das ihnen nach Abs. 4 zustehende Recht sind diese Personen, sofern ihre Identität bekannt oder ohne besonderen Verfahrensaufwand feststellbar ist, von der Staatsanwaltschaft zu informieren.
+`§ 126 (3a) StPO.`  
+Sachverständige, die zum Zeitpunkt der Befassung oder der Bestellung durch die Staatsanwaltschaft oder das Gericht in mehr als zehn Verfahren die ihnen von der beauftragenden Stelle gesetzte oder bereits verlängerte Frist zur Erstattung eines schriftlichen Gutachtens überschritten haben, haben diesen Umstand der Staatsanwaltschaft oder dem Gericht unverzüglich mitzuteilen. Der Sachverständige kann dennoch bestellt werden, wenn er glaubhaft macht, dass für die in Aussicht genommene Frist zur Erstattung des Gutachtens hinreichend vorgekehrt ist, wenn dem Erfordernis der Beiziehung eines Sachverständigen sonst mit vertretbarem Aufwand nicht entsprochen werden könnte oder wenn eine unverzügliche Befundaufnahme notwendig scheint, um eine erhebliche Beeinträchtigung der Ermittlungen oder von Beweismitteln abzuwenden.
 
-`§ 139 (3) StPO.`  
-Auf Antrag des Beschuldigten sind weitere Ergebnisse in Bild- oder Schriftform zu übertragen, wenn diese für das Verfahren von Bedeutung sind und ihre Verwendung als Beweismittel zulässig ist (§§ 140 Abs. 1, 144, 157 Abs. 2).
+`§ 126 (3b) StPO.`  
+Dem Sachverständigen oder Dolmetscher ist eine angemessene Frist für die Erstattung von Befund, Gutachten oder Übersetzung zu setzen. Ist diesem die Einhaltung der Frist nicht möglich, so hat er dies der Staatsanwaltschaft oder dem Gericht binnen 14 Tagen ab Zustellung des Auftrags mitzuteilen und anzugeben, ob ihm eine Auftragserfüllung gegebenenfalls innerhalb einer längeren Frist möglich ist. Die Staatsanwaltschaft oder das Gericht kann die Frist sodann angemessen verlängern.
 
-`§ 139 (4) StPO.`  
-Auf Antrag des Beschuldigten oder von Amts wegen sind Ergebnisse der Ermittlungsmaßnahme zu vernichten, wenn diese für ein Strafverfahren nicht von Bedeutung sein können oder als Beweismittel nicht verwendet werden dürfen. Dieses Antragsrecht steht auch den von der Ermittlungsmaßnahme Betroffenen zu, insoweit für sie bestimmte oder von ihnen ausgehende Nachrichten oder Bilder, auf denen sie dargestellt sind, oder von ihnen geführte Gespräche betroffen sind.
+`§ 126 (4) StPO.`  
+Für Sachverständige und Dolmetscher gelten die Befangenheitsgründe des § 47 Abs. 1 sinngemäß. Soweit sie befangen sind oder ihre Sachkunde in Zweifel steht, sind sie von der Staatsanwaltschaft, im Fall einer Bestellung durch das Gericht von diesem, von Amts wegen oder auf Grund von Einwänden ihres Amtes zu entheben, bei Vorliegen eines Befangenheitsgrundes gemäß § 47 Abs. 1 Z 1 und 2 bei sonstiger Nichtigkeit. Im Hauptverfahren kann die Befangenheit eines Dolmetschers nicht bloß mit der Begründung geltend gemacht werden, dass er bereits im Ermittlungsverfahren tätig gewesen ist.
 
-### § 140 StPO
+`§ 126 (5) StPO.`  
+Im Ermittlungsverfahren hat der Beschuldigte das Recht, binnen 14 Tagen ab Zustellung (Abs. 3), Kenntnis eines Befangenheitsgrundes oder Vorliegen begründeter Zweifel an der Sachkunde des Sachverständigen einen Antrag auf dessen Enthebung zu stellen, er kann auch die Bestellung im Rahmen gerichtlicher Beweisaufnahme verlangen und eine andere, nach den Kriterien der Sachkunde (Abs. 2) besser qualifizierte Person zur Bestellung vorschlagen. Will die Staatsanwaltschaft dem Begehren auf Umbestellung keine Folge geben oder wurde gerichtliche Beweisaufnahme verlangt, so hat sie den Antrag unverzüglich samt einer Stellungnahme dem Gericht vorzulegen. Wurde der Sachverständige durch das Gericht bestellt, so entscheidet es über einen Antrag nach dem ersten Satz mit Beschluss.
+----
 
-`§ 140 (1) StPO.`  
-Als Beweismittel dürfen Ergebnisse (§ 134 Z 5), bei sonstiger Nichtigkeit nur verwendet werden,  
-`§ 140 (1) Z 1 StPO.`
-wenn die Voraussetzungen für die Ermittlungsmaßnahme nach § 136 Abs. 1 Z 1 vorlagen,  
-`§ 140 (1) Z 2 StPO.`
-wenn die Ermittlungsmaßnahme nach § 135 oder § 136 Abs. 1 Z 2 oder 3 oder Abs. 3 rechtmäßig angeordnet und bewilligt wurde (§ 137), und  
-`§ 140 (1) Z 3 StPO.`
-in den Fällen des § 136 Abs. 1 Z 2 und 3 nur zum Nachweis eines Verbrechens (§ 17 Abs. 1 StGB),  
-`§ 140 (1) Z 4 StPO.`
-in den Fällen der § 135 Abs. 1, Abs. 2 Z 2, 3 und 4, Abs. 2a, Abs. 3 Z 2 bis 4 nur zum Nachweis einer vorsätzlich begangenen strafbaren Handlung, derentwegen die Ermittlungsmaßnahme angeordnet wurde oder hätte angeordnet werden können.
+----
+### § 127 StPO
 
-`§ 140 (2) StPO.`  
-Ergeben sich bei Prüfung der Ergebnisse Hinweise auf die Begehung einer anderen strafbaren Handlung als derjenigen, die Anlass zur Überwachung gegeben hat, so ist mit diesem Teil der Ergebnisse ein gesonderter Akt anzulegen, soweit die Verwendung als Beweismittel zulässig ist (Abs. 1, § 144, § 157 Abs. 2).
-*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 204/2013)*
+`§ 127 (1) StPO.`  
+Sachverständige und Dolmetscher haben Anspruch auf Gebühren nach dem Gebührenanspruchsgesetz 1975. Sofern nicht besondere Gründe entgegen stehen, ist ihnen die Anwesenheit bei Vernehmungen zu gestatten und im erforderlichen Umfang Akteneinsicht zu gewähren. Sie unterliegen der Amtsverschwiegenheit.
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StPO.010](BG.StPO.010.md))*
+`§ 127 (2) StPO.`  
+Sachverständige haben den Befund und das Gutachten nach bestem Wissen und Gewissen und nach den Regeln ihrer Wissenschaft oder Kunst oder ihres Gewerbes abzugeben. Sie haben Ladungen der Staatsanwaltschaft und des Gerichts zu befolgen und bei Verhandlungen, Vernehmungen und Tatrekonstruktionen Fragen zu beantworten.
+
+`§ 127 (3) StPO.`  
+Ist der Befund unbestimmt oder das Gutachten widersprüchlich oder sonst mangelhaft oder weichen die Angaben zweier Sachverständiger über die von ihnen wahrgenommenen Tatsachen oder die hieraus gezogenen Schlüsse erheblich voneinander ab und lassen sich die Bedenken nicht durch Befragung beseitigen, so ist ein weiterer Sachverständiger beizuziehen. Handelt es sich um eine Begutachtung psychischer Zustände und Entwicklungen, so ist in einem solchen Fall das Gutachten eines Sachverständigen mit Lehrbefugnis an einer in- oder ausländischen Universität einzuholen.
+
+`§ 127 (4) StPO.`  
+Dolmetscher haben nach bestem Wissen und Gewissen zu übersetzen, Ladungen der Staatsanwaltschaft und des Gerichts zu befolgen und bei Verhandlungen, Vernehmungen und Tatrekonstruktionen Fragen zu beantworten.
+
+`§ 127 (5) StPO.`  
+Wenn ein Sachverständiger oder ein Dolmetscher die ihm gesetzte Frist zur Erstattung des Befundes oder Gutachtens oder der Übersetzung trotz Mahnung wesentlich überschreitet, kann er seines Amtes enthoben werden. Überdies kann das Gericht, wenn der Sachverständige oder Dolmetscher die Verzögerung verschuldet hat, über ihn eine Geldstrafe bis zu 10 000 Euro verhängen.
+----
+
+----
+### § 128 StPO # Leichenbeschau und Obduktion
+
+`§ 128 (1) StPO.`  
+Sofern nicht ein natürlicher Tod feststeht, hat die Kriminalpolizei einen Arzt beizuziehen und grundsätzlich am Ort der Auffindung die äußere Beschaffenheit der Leiche zu besichtigen, der Staatsanwaltschaft über das Ergebnis der Leichenbeschau zu berichten und dafür zu sorgen, dass die Leiche für den Fall der Obduktion zur Verfügung steht.
+
+`§ 128 (2) StPO.`  
+Eine Obduktion ist zulässig, wenn nicht ausgeschlossen werden kann, dass der Tod einer Person durch eine Straftat verursacht worden ist. Sie ist von der Staatsanwaltschaft anzuordnen, die mit der Durchführung eine Universitätseinheit für Gerichtliche Medizin oder einen Sachverständigen aus dem Fachgebiet der Gerichtsmedizin, der kein Angehöriger des wissenschaftlichen Personals einer solchen Einrichtung ist, zu beauftragen hat.
+
+`§ 128 (2a) StPO.`  
+Im Fall einer Beauftragung einer Universitätseinheit hat die Leitung dieser Einheit die persönliche Verantwortung für die Obduktion im Sinne des § 127 Abs. 2 einem Angehörigen des wissenschaftlichen Personals dieser Einheit zu übertragen, der die persönlichen und fachlichen Voraussetzungen für die Eintragung in die Liste der allgemein beeideten und gerichtlich zertifizierten Sachverständigen erfüllt. Ersucht eine Staatsanwaltschaft oder ein Gericht um die Übertragung an eine bestimmte Person, so hat die Leitung diesem Ersuchen zu entsprechen, es sei denn, dass wichtige Gründe entgegenstehen. Ist dies der Fall, so hat die Leitung die Zustimmung der Staatsanwaltschaft oder des Gerichts zu einer anderweitigen Übertragung einzuholen. Die Universitätseinrichtung kann Gebühren in sinngemäßer Anwendung des Gebührensanspruchsgesetzes (GebAG), BGBl. Nr. 136/1975, geltend machen, wobei sie die Gebühr für Mühewaltung nach Abzug der Gebühren für die Nutzung der Untersuchungsräumlichkeiten, einschließlich der Infrastruktur der Person zu überweisen hat, der die Verantwortung für die Obduktion übertragen wurde.
+
+`§ 128 (3) StPO.`  
+Wenn dies zur Aufklärung einer Straftat erforderlich ist, ist auch die Exhumierung einer Leiche zum Zweck einer Obduktion (Abs. 2) zulässig. Sie ist von der Staatsanwaltschaft anzuordnen.
+----
+
+`END-OF-DATA-SET`

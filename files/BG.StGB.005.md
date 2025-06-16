@@ -1,270 +1,384 @@
 # BG.StGB.005 — Strafgesetzbuch (StGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StGB  
+**Kurztitel:** ['StGB']  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.005.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StGB.004](BG.StGB.004.md))*
+Der Nationalrat hat beschlossen:
 
-## Zweiter Abschnitt # Schwangerschaftsabbruch
+----
+## Sechster Abschnitt # Verjährung
 
-### § 96 StGB # Schwangerschaftsabbruch
+### § 57 StGB # Verjährung der Strafbarkeit
 
-`§ 96 (1) StGB.`  
-Wer mit Einwilligung der Schwangeren deren Schwangerschaft abbricht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen, begeht er die Tat gewerbsmäßig, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
+`§ 57 (1) StGB.`  
+Strafbare Handlungen, die mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe bedroht sind, sowie strafbare Handlungen nach dem fünfundzwanzigsten Abschnitt verjähren nicht. Nach Ablauf einer Frist von zwanzig Jahren tritt jedoch an die Stelle der angedrohten lebenslangen Freiheitsstrafe eine Freiheitsstrafe von zehn bis zu zwanzig Jahren. Für die Frist gelten Abs. 2 und § 58 entsprechend.
 
-`§ 96 (2) StGB.`  
-Ist der unmittelbare Täter kein Arzt, so ist er mit Freiheitsstrafe bis zu drei Jahren, begeht er die Tat gewerbsmäßig oder hat sie den Tod der Schwangeren zur Folge, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+`§ 57 (2) StGB.`  
+Die Strafbarkeit anderer Taten erlischt durch Verjährung. Die Verjährungsfrist beginnt, sobald die mit Strafe bedrohte Tätigkeit abgeschlossen ist oder das mit Strafe bedrohte Verhalten aufhört.
 
-`§ 96 (3) StGB.`  
-Eine Frau, die den Abbruch ihrer Schwangerschaft selbst vornimmt oder durch einen anderen zuläßt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
+`§ 57 (3) StGB.`  
+Die Verjährungsfrist beträgt
 
-### § 97 StGB # Straflosigkeit des Schwangerschaftsabbruchs
+zwanzig Jahre,  
+wenn die Handlung zwar nicht mit lebenslanger Freiheitsstrafe, aber mit mehr als zehnjähriger Freiheitsstrafe bedroht ist;
 
-`§ 97 (1) StGB.`  
-Die Tat ist nach § 96 nicht strafbar,  
-`§ 97 (1) Z 1 StGB.`
-wenn der Schwangerschaftsabbruch innerhalb der ersten drei Monate nach Beginn der Schwangerschaft nach vorhergehender ärztlicher Beratung von einem Arzt vorgenommen wird; oder  
-`§ 97 (1) Z 2 StGB.`
-wenn der Schwangerschaftsabbruch zur Abwendung einer nicht anders abwendbaren ernsten Gefahr für das Leben oder eines schweren Schadens für die körperliche oder seelische Gesundheit der Schwangeren erforderlich ist oder eine ernste Gefahr besteht, daß das Kind geistig oder körperlich schwer geschädigt sein werde, oder die Schwangere zur Zeit der Schwängerung unmündig gewesen ist und in allen diesen Fällen der Abbruch von einem Arzt vorgenommen wird; oder  
-`§ 97 (1) Z 3 StGB.`
-wenn der Schwangerschaftsabbruch zur Rettung der Schwangeren aus einer unmittelbaren, nicht anders abwendbaren Lebensgefahr unter Umständen vorgenommen wird, unter denen ärztliche Hilfe nicht rechtzeitig zu erlangen ist.
+zehn Jahre,  
+wenn die Handlung mit mehr als fünfjähriger, aber höchstens zehnjähriger Freiheitsstrafe bedroht ist;
 
-`§ 97 (2) StGB.`  
-Kein Arzt ist verpflichtet, einen Schwangerschaftsabbruch durchzuführen oder an ihm mitzuwirken, es sei denn, daß der Abbruch ohne Aufschub notwendig ist, um die Schwangere aus einer unmittelbar drohenden, nicht anders abwendbaren Lebensgefahr zu retten. Dies gilt auch für die in gesetzlich geregelten Gesundheitsberufen tätigen Personen.
+fünf Jahre,  
+wenn die Handlung mit mehr als einjähriger, aber höchstens fünfjähriger Freiheitsstrafe bedroht ist;
 
-`§ 97 (3) StGB.`  
-Niemand darf wegen der Durchführung eines straflosen Schwangerschaftsabbruchs oder der Mitwirkung daran oder wegen der Weigerung, einen solchen Schwangerschaftsabbruch durchzuführen oder daran mitzuwirken, in welcher Art immer benachteiligt werden.
+drei Jahre,  
+wenn die Handlung mit mehr als sechsmonatiger, aber höchstens einjähriger Freiheitsstrafe bedroht ist;
 
-### § 98 StGB # Schwangerschaftsabbruch ohne Einwilligung der Schwangeren
+ein Jahr,  
+wenn die Handlung mit nicht mehr als sechsmonatiger Freiheitsstrafe oder nur mit Geldstrafe bedroht ist.
 
-`§ 98 (1) StGB.`  
-Wer ohne Einwilligung der Schwangeren deren Schwangerschaft abbricht, ist mit Freiheitsstrafe bis zu drei Jahren, hat die Tat den Tod der Schwangeren zur Folge, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
+`§ 57 (4) StGB.`  
+Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende Maßnahmen unzulässig.
+----
 
-`§ 98 (2) StGB.`  
-Der Täter ist nach Abs. 1 nicht zu bestrafen, wenn der Schwangerschaftsabbruch zur Rettung der Schwangeren aus einer unmittelbaren, nicht anders abwendbaren Lebensgefahr unter Umständen vorgenommen wird, unter denen die Einwilligung der Schwangeren nicht rechtzeitig zu erlangen ist.
+----
+### § 58 StGB # Verlängerung der Verjährungsfrist
 
-## Dritter Abschnitt # Strafbare Handlungen gegen die Freiheit
+`§ 58 (1) StGB.`  
+Tritt ein zum Tatbild gehörender Erfolg erst ein, nachdem die mit Strafe bedrohte Tätigkeit abgeschlossen worden ist oder das mit Strafe bedrohte Verhalten aufgehört hat, so endet die Verjährungsfrist nicht, bevor sie entweder auch vom Eintritt des Erfolges ab verstrichen ist oder seit dem im § 57 Abs. 2 bezeichneten Zeitpunkt ihr Eineinhalbfaches, mindestens aber drei Jahre abgelaufen sind.
 
-### § 99 StGB # Freiheitsentziehung
+`§ 58 (2) StGB.`  
+Begeht der Täter während der Verjährungsfrist neuerlich eine mit Strafe bedrohte Handlung, die auf der gleichen schädlichen Neigung beruht, so tritt die Verjährung nicht ein, bevor auch für diese Tat die Verjährungsfrist abgelaufen ist.
 
-`§ 99 (1) StGB.`  
-Wer einen anderen widerrechtlich gefangen hält oder ihm auf andere Weise die persönliche Freiheit entzieht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-`§ 99 (2) StGB.`  
-Wer die Freiheitsentziehung länger als einen Monat aufrecht erhält oder sie auf solche Weise, daß sie dem Festgehaltenen besondere Qualen bereitet, oder unter solchen Umständen begeht, daß sie für ihn mit besonders schweren Nachteilen verbunden ist, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
-
-### § 100 StGB # Entführung einer geisteskranken oder wehrlosen Person
-
-`§ 100 StGB.`  
-Wer eine geisteskranke oder wehrlose Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-### § 101 StGB # Entführung einer unmündigen Person
-
-`§ 101 StGB.`  
-Wer eine unmündige Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-### § 102 StGB # Erpresserische Entführung
-
-`§ 102 (1) StGB.`  
-Wer einen anderen ohne dessen Einwilligung mit Gewalt oder nachdem er die Einwilligung durch gefährliche Drohung oder List erlangt hat, entführt oder sich seiner sonst bemächtigt, um einen Dritten zu einer Handlung, Duldung oder Unterlassung zu nötigen, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
-
-`§ 102 (2) StGB.`  
-Ebenso ist zu bestrafen, wer  
-`§ 102 (2) Z 1 StGB.`
-in der im Abs. 1 genannten Absicht eine unmündige, geisteskranke oder wegen ihres Zustands zum Widerstand unfähige Person entführt oder sich ihrer sonst bemächtigt oder  
-`§ 102 (2) Z 2 StGB.`
-unter Ausnützung einer ohne Nötigungsabsicht vorgenommenen Entführung oder sonstigen Bemächtigung einer Person einen Dritten zu einer Handlung, Duldung oder Unterlassung nötigt.
-
-`§ 102 (3) StGB.`  
-Hat die Tat den Tod der Person zur Folge, die entführt worden ist oder deren sich der Täter sonst bemächtigt hat, so ist der Täter mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen.
-
-`§ 102 (4) StGB.`  
-Läßt der Täter freiwillig unter Verzicht auf die begehrte Leistung die Person, die entführt worden ist oder deren sich der Täter sonst bemächtigt hat, ohne ernstlichen Schaden in ihren Lebenskreis zurückgelangen, so ist er mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-### § 103 StGB # Überlieferung an eine ausländische Macht
-
-`§ 103 (1) StGB.`  
-Wer einen anderen ohne dessen Einwilligung mit Gewalt oder nachdem er seine Einwilligung durch gefährliche Drohung oder List erlangt hat, ebenso wer eine unmündige, geisteskranke oder wegen ihres Zustands zum Widerstand unfähige Person einer ausländischen Macht überliefert, ist, wenn der Täter oder der Überlieferte ein Österreicher ist oder sich der Überlieferte zur Zeit der Tat im Inland aufgehalten hat, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
-
-`§ 103 (2) StGB.`  
-Wird das Opfer durch die Tat keiner erheblichen Gefahr ausgesetzt, so ist der Täter mit Freiheitsstrafe von fünf bis zu zehn Jahren zu bestrafen.
-
-### § 104 StGB # Sklaverei
-
-`§ 104 (1) StGB.`  
-Wer Sklavenhandel treibt oder sonst einer anderen Person in Form von Sklaverei oder einer sklavereiähnlichen Lage die persönliche Freiheit entzieht, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
-
-`§ 104 (2) StGB.`  
-Ebenso ist zu bestrafen, wer bewirkt, daß ein anderer versklavt oder in eine sklavereiähnliche Lage gebracht wird oder daß sich ein anderer in Sklaverei oder eine sklavereiähnliche Lage begibt.
-
-### § 104a StGB # Menschenhandel
-
-`§ 104a (1) StGB.`  
-Wer eine volljährige Person mit dem Vorsatz, dass sie ausgebeutet werde (Abs. 3), unter Einsatz unlauterer Mittel (Abs. 2) gegen diese Person anwirbt, beherbergt oder sonst aufnimmt, befördert oder einem anderen anbietet oder weitergibt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-`§ 104a (2) StGB.`  
-Unlautere Mittel sind der Einsatz von Gewalt oder gefährlicher Drohung, die Täuschung über Tatsachen, die Ausnützung einer Autoritätsstellung, einer Zwangslage, einer Geisteskrankheit oder eines Zustands, der die Person wehrlos macht, die Einschüchterung und die Gewährung oder Annahme eines Vorteils für die Übergabe der Herrschaft über die Person.
-
-`§ 104a (3) StGB.`  
-Ausbeutung umfasst die sexuelle Ausbeutung, die Ausbeutung durch Organentnahme, die Ausbeutung der Arbeitskraft, die Ausbeutung zur Bettelei sowie die Ausbeutung zur Begehung mit Strafe bedrohter Handlungen.
-
-`§ 104a (4) StGB.`  
-Wer die Tat im Rahmen einer kriminellen Vereinigung, unter Anwendung schwerer Gewalt oder so begeht, dass durch die Tat das Leben der Person vorsätzlich oder grob fahrlässig (§ 6 Abs. 3) gefährdet wird oder die Tat einen besonders schweren Nachteil für die Person zur Folge hat, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
-
-`§ 104a (5) StGB.`  
-Mit Freiheitsstrafe von einem bis zu zehn Jahren ist auch zu bestrafen, wer eine minderjährige Person mit dem Vorsatz, dass sie ausgebeutet werde (Abs. 3), anwirbt, beherbergt oder sonst aufnimmt, befördert oder einem anderen anbietet oder weitergibt.
-
-### § 105 StGB # Nötigung
-
-`§ 105 (1) StGB.`  
-Wer einen anderen mit Gewalt oder durch gefährliche Drohung zu einer Handlung, Duldung oder Unterlassung nötigt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-`§ 105 (2) StGB.`  
-Die Tat ist nicht rechtswidrig, wenn die Anwendung der Gewalt oder Drohung als Mittel zu dem angestrebten Zweck nicht den guten Sitten widerstreitet.
-
-### § 106 StGB # Schwere Nötigung
-
-`§ 106 (1) StGB.`  
-Wer eine Nötigung begeht, indem er  
-`§ 106 (1) Z 1 StGB.`
-mit dem Tod, mit einer erheblichen Verstümmelung oder einer auffallenden Verunstaltung, mit einer Entführung, mit einer Brandstiftung, mit einer Gefährdung durch Kernenergie, ionisierende Strahlen oder Sprengmittel oder mit der Vernichtung der wirtschaftlichen Existenz oder gesellschaftlichen Stellung droht,  
-`§ 106 (1) Z 2 StGB.`
-die genötigte oder eine andere Person, gegen die sich die Gewalt oder gefährliche Drohung richtet, durch diese Mittel längere Zeit hindurch in einen qualvollen Zustand versetzt oder  
-`§ 106 (1) Z 3 StGB.`
-die genötigte Person zur Prostitution oder zur Mitwirkung an einer pornographischen Darbietung (§ 215a Abs. 3) oder sonst zu einer Handlung, Duldung oder Unterlassung veranlasst, die besonders wichtige Interessen der genötigten oder einer dritten Person verletzt,  
-ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-`§ 106 (2) StGB.`  
-Hat die Tat den Selbstmord oder einen Selbstmordversuch der genötigten oder einer anderen Person, gegen die sich die Gewalt oder gefährliche Drohung richtet, zur Folge, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen.
-
-`§ 106 (3) StGB.`  
-Ebenso ist zu bestrafen, wer eine Nötigung zur Prostitution oder zur Mitwirkung an einer pornographischen Darbietung gegen eine unmündige Person, im Rahmen einer kriminellen Vereinigung, unter Anwendung schwerer Gewalt oder so begeht, dass durch die Tat das Leben der Person vorsätzlich oder grob fahrlässig (§ 6 Abs. 3) gefährdet wird oder die Tat einen besonders schweren Nachteil für die Person zur Folge hat.
-
-### § 106a StGB # Zwangsheirat
-
-`§ 106a (1) StGB.`  
-Wer eine Person mit Gewalt oder durch gefährliche Drohung oder Drohung mit dem Abbruch oder Entzug der familiären Kontakte zur Eheschließung oder zur Begründung einer eingetragenen Partnerschaft nötigt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen.
-
-`§ 106a (2) StGB.`  
-Ebenso ist zu bestrafen, wer eine Person in der Absicht, dass sie in einem anderen Staat als in dem, dessen Staatsangehörigkeit sie besitzt oder in dem sie ihren gewöhnlichen Aufenthalt hat, zur Eheschließung oder zur Begründung einer eingetragenen Partnerschaft gezwungen werde (Abs. 1), durch Täuschung über dieses Vorhaben verleitet oder mit Gewalt oder durch gefährliche Drohung oder Drohung mit dem Abbruch oder Entzug der familiären Kontakte nötigt, sich in einen anderen Staat zu begeben, oder sie mit Gewalt oder unter Ausnützung ihres Irrtums über dieses Vorhaben in einen anderen Staat befördert.
-
-`§ 106a (3) StGB.`  
-§ 106 Abs. 2 gilt sinngemäß.
-
-### § 107 StGB # Gefährliche Drohung
-
-`§ 107 (1) StGB.`  
-Wer einen anderen gefährlich bedroht, um ihn in Furcht und Unruhe zu versetzen, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-`§ 107 (2) StGB.`  
-Wer eine gefährliche Drohung begeht, indem er mit dem Tod, mit einer erheblichen Verstümmelung oder einer auffallenden Verunstaltung, mit einer Entführung, mit einer Brandstiftung, mit einer Gefährdung durch Kernenergie, ionisierende Strahlen oder Sprengmittel oder mit der Vernichtung der wirtschaftlichen Existenz oder gesellschaftlichen Stellung droht oder den Bedrohten oder einen anderen, gegen den sich die Gewalt oder gefährliche Drohung richtet, durch diese Mittel längere Zeit hindurch in einen qualvollen Zustand versetzt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-`§ 107 (3) StGB.`  
-In den im § 106 Abs. 2 genannten Fällen ist die dort vorgesehene Strafe zu verhängen.
-*(Anm.:Abs. 4 aufgehoben durch BGBl. I Nr. 56/2006)*
-
-### § 107a StGB # Beharrliche Verfolgung
-
-`§ 107a (1) StGB.`  
-Wer eine Person widerrechtlich beharrlich verfolgt (Abs. 2), ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-`§ 107a (2) StGB.`  
-Beharrlich verfolgt eine Person, wer in einer Weise, die geeignet ist, sie in ihrer Lebensführung unzumutbar zu beeinträchtigen, eine längere Zeit hindurch fortgesetzt  
-`§ 107a (2) Z 1 StGB.`
-ihre räumliche Nähe aufsucht,  
-`§ 107a (2) Z 2 StGB.`
-im Wege einer Telekommunikation oder unter Verwendung eines sonstigen Kommunikationsmittels oder über Dritte Kontakt zu ihr herstellt,  
-`§ 107a (2) Z 3 StGB.`
-unter Verwendung ihrer personenbezogenen Daten Waren oder Dienstleistungen für sie bestellt,  
-`§ 107a (2) Z 4 StGB.`
-unter Verwendung ihrer personenbezogenen Daten Dritte veranlasst, mit ihr Kontakt aufzunehmen oder  
-`§ 107a (2) Z 5 StGB.`
-Tatsachen oder Bildaufnahmen des höchstpersönlichen Lebensbereiches dieser Person ohne deren Zustimmung veröffentlicht.
-
-`§ 107a (3) StGB.`  
-Übersteigt der Tatzeitraum nach Abs. 1 ein Jahr oder hat die Tat den Selbstmord oder einen Selbstmordversuch der im Sinn des Abs. 2 verfolgten Person zur Folge, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-### § 107b StGB # Fortgesetzte Gewaltausübung
-
-`§ 107b (1) StGB.`  
-Wer gegen eine andere Person eine längere Zeit hindurch fortgesetzt Gewalt ausübt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-`§ 107b (2) StGB.`  
-Gewalt im Sinne von Abs. 1 übt aus, wer eine andere Person am Körper misshandelt oder vorsätzliche mit Strafe bedrohte Handlungen gegen Leib und Leben oder gegen die Freiheit mit Ausnahme der strafbaren Handlungen nach §§ 107a, 108 und 110 begeht.
-
-`§ 107b (3) StGB.`  
-Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer durch die Tat eine umfassende Kontrolle des Verhaltens der verletzten Person herstellt oder eine erhebliche Einschränkung der autonomen Lebensführung der verletzten Person bewirkt.
-
-`§ 107b (3a) StGB.`  
-Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer  
-`§ 107b (3a) Z 1 StGB.`
-die Tat gegen eine unmündige oder wegen Gebrechlichkeit, Krankheit oder einer geistigen Behinderung wehrlose Person begeht,  
-`§ 107b (3a) Z 2 StGB.`
-eine Tat nach Abs. 3 auf qualvolle Weise begeht oder  
-`§ 107b (3a) Z 3 StGB.`
-im Rahmen einer fortgesetzten Gewaltausübung nach Abs. 3 wiederholt Straftaten gegen die sexuelle Selbstbestimmung und Integrität begeht.
-
-`§ 107b (4) StGB.`  
-Hat eine Tat nach Abs. 3 oder Abs. 3a Z 1 eine Körperverletzung mit schweren Dauerfolgen (§ 85) zur Folge oder wird die Gewalt nach Abs. 3 oder Abs. 3a Z 1 länger als ein Jahr ausgeübt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod der verletzten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen.
-
-`§ 107b (5) StGB.`  
-Der Täter ist nicht nach den vorstehenden Bestimmungen zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist.
-
-### § 107c StGB # Fortdauernde Belästigung im Wege einer Telekommunikation oder eines Computersystems
-
-`§ 107c (1) StGB.`  
-Wer im Wege einer Telekommunikation oder unter Verwendung eines Computersystems in einer Weise, die geeignet ist, eine Person in ihrer Lebensführung unzumutbar zu beeinträchtigen,  
-`§ 107c (1) Z 1 StGB.`
-eine strafbare Handlung gegen die Ehre einer Person für eine größere Zahl von Menschen für eine längere Zeit wahrnehmbar begeht oder  
-`§ 107c (1) Z 2 StGB.`
-eine Tatsache oder Bildaufnahme des höchstpersönlichen Lebensbereiches einer Person ohne deren Zustimmung für eine größere Zahl von Menschen für eine längere Zeit wahrnehmbar macht,  
-ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-`§ 107c (2) StGB.`  
-Hat die Tat den Selbstmord oder einen Selbstmordversuch der im Sinn des Abs. 1 verletzten Person zur Folge, begeht der Täter innerhalb eines ein Jahr übersteigenden Zeitraums fortgesetzt gegen die verletzte Person gerichtete Tathandlungen im Sinne des Abs. 1 oder übersteigt die Dauer der Wahrnehmbarkeit nach Abs. 1 ein Jahr, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-### § 108 StGB # Täuschung
-
-`§ 108 (1) StGB.`  
-Wer einem anderen in seinen Rechten dadurch absichtlich einen Schaden zufügt, daß er ihn oder einen Dritten durch Täuschung über Tatsachen zu einer Handlung, Duldung oder Unterlassung verleitet, die den Schaden herbeiführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-`§ 108 (2) StGB.`  
-Hoheitsrechte gelten nicht als Rechte im Sinn des Abs. 1.
-
-`§ 108 (3) StGB.`  
-Der Täter ist nur mit Ermächtigung des in seinen Rechten Verletzten zu verfolgen.
-
-### § 109 StGB # Hausfriedensbruch
-
-`§ 109 (1) StGB.`  
-Wer den Eintritt in die Wohnstätte eines anderen mit Gewalt oder durch Drohung mit Gewalt erzwingt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen.
-
-`§ 109 (2) StGB.`  
-Der Täter ist nur mit Ermächtigung des in seinen Rechten Verletzten zu verfolgen.
-
-`§ 109 (3) StGB.`  
-Wer auf die im Abs. 1 geschilderte Weise in ein Haus, eine Wohnstätte, einen abgeschlossenen Raum, der zum öffentlichen Dienst bestimmt ist oder zur Ausübung eines Berufes oder Gewerbes dient, oder in einen unmittelbar zu einem Haus gehörenden umfriedeten Raum eindringt, wobei  
-`§ 109 (3) Z 1 StGB.`
-er gegen eine dort befindliche Person oder Sache Gewalt zu üben beabsichtigt,  
-`§ 109 (3) Z 2 StGB.`
-er oder mit seinem Wissen ein anderer Beteiligter (§ 12) eine Waffe oder ein anderes Mittel bei sich führt, um den Widerstand einer Person zu überwinden oder zu verhindern, oder  
-`§ 109 (3) Z 3 StGB.`
-das Eindringen mehrerer Personen erzwungen wird, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen.
-
-### § 110 StGB # Eigenmächtige Heilbehandlung
-
-`§ 110 (1) StGB.`  
-Wer einen anderen ohne dessen Einwilligung, wenn auch nach den Regeln der medizinischen Wissenschaft, behandelt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen.
-
-`§ 110 (2) StGB.`  
-Hat der Täter die Einwilligung des Behandelten in der Annahme nicht eingeholt, daß durch den Aufschub der Behandlung das Leben oder die Gesundheit des Behandelten ernstlich gefährdet wäre, so ist er nach Abs. 1 nur zu bestrafen, wenn die vermeintliche Gefahr nicht bestanden hat und er sich dessen bei Aufwendung der nötigen Sorgfalt (§ 6) hätte bewußt sein können.
-
-`§ 110 (3) StGB.`  
-Der Täter ist nur auf Verlangen des eigenmächtig Behandelten zu verfolgen.
-
-`END-OF-DATA-FILE` *(fortges. in [BG.StGB.006](BG.StGB.006.md))*
+`§ 58 (3) StGB.`  
+In die Verjährungsfrist werden nicht eingerechnet:  
+`§ 58 (3) Z 1 StGB.`
+die Zeit, während der nach einer gesetzlichen Vorschrift die Verfolgung nicht eingeleitet oder fortgesetzt werden kann, soweit das Bundes-Verfassungsgesetz, BGBl. Nr. 1/1930, und Abs. 4 nichts anderes bestimmen;  
+`§ 58 (3) Z 2 StGB.`
+die Zeit zwischen der erstmaligen Vernehmung als Beschuldigter, der erstmaligen Androhung oder Ausübung von Zwang gegen den Täter wegen der Tat (§§ 93 Abs. 1, 105 Abs. 1 StPO), der ersten staatsanwaltlichen Anordnung oder Antragstellung auf Durchführung oder Bewilligung von im 8. Hauptstück der StPO geregelten Ermittlungsmaßnahmen und Beweisaufnahmen zur Aufklärung des gegen den Täter gerichteten Verdachts, der Anordnung der Fahndung oder Festnahme, des Antrags auf Verhängung der Untersuchungshaft oder der Einbringung der Anklage, einschließlich vergleichbarer Maßnahmen der Europäischen Staatsanwaltschaft, und der rechtskräftigen Beendigung des Verfahrens;  
+`§ 58 (3) Z 3 StGB.`
+die Zeit bis zur Vollendung des 28. Lebensjahres des Opfers einer strafbaren Handlung gegen Leib und Leben, gegen die Freiheit oder gegen die sexuelle Integrität und Selbstbestimmung, wenn das Opfer zur Zeit der Tatbegehung minderjährig war;  
+`§ 58 (3) Z 4 StGB.`
+die Probezeit nach § 203 Abs. 1 StPO, die Fristen zur Zahlung eines Geldbetrages samt allfälliger Schadensgutmachung und zur Erbringung gemeinnütziger Leistungen samt allfälligem Tatfolgenausgleich (§§ 200 Abs. 2 und 3, 201 Abs. 1 und 3 StPO), sowie die Zeit von der Stellung eines Ersuchens der Staatsanwaltschaft gemäß § 204 Abs. 3 StPO bis zur Mitteilung des Konfliktreglers über die Ausgleichsvereinbarungen und ihre Erfüllung (§ 204 Abs. 4 StPO).
+
+`§ 58 (3a) StGB.`  
+Eine nach den vorstehenden Absätzen eingetretene Hemmung der Verjährung bleibt wirksam, auch wenn durch eine spätere Änderung des Gesetzes die Tat im Zeitpunkt der Hemmung nach dem neuen Recht bereits verjährt gewesen wäre.
+
+`§ 58 (4) StGB.`  
+Wird die Tat nur auf Verlangen oder mit Ermächtigung eines dazu Berechtigten verfolgt, so wird der Lauf der Verjährung nicht dadurch gehemmt, daß die Verfolgung nicht verlangt oder die Ermächtigung nicht erteilt wird.
+----
+
+----
+### § 59 StGB # Verjährung der Vollstreckbarkeit
+
+`§ 59 (1) StGB.`  
+Die Vollstreckbarkeit einer lebenslangen Freiheitsstrafe, einer Freiheitsstrafe von mehr als zehn Jahren, einer wegen einer strafbaren Handlung nach dem fünfundzwanzigsten Abschnitt verhängten Strafe und einer Unterbringung in einem forensisch-therapeutischen Zentrum oder in einer Anstalt oder für gefährliche Rückfallstäter verjährt nicht.
+
+`§ 59 (2) StGB.`  
+Die Vollstreckbarkeit anderer Strafen, einer Abschöpfung der Bereicherung, eines Verfalls und vorbeugender Maßnahmen erlischt durch Verjährung. Die Frist für die Verjährung beginnt mit der Rechtskraft der Entscheidung, in der auf die Strafe, den Verfall oder die vorbeugende Maßnahme erkannt worden ist.
+
+`§ 59 (3) StGB.`  
+Die Frist beträgt
+
+fünfzehn Jahre,  
+wenn auf Freiheitsstrafe von mehr als einem Jahr, aber nicht mehr als zehn Jahren erkannt worden ist;
+
+zehn Jahre,  
+wenn auf Freiheitsstrafe von mehr als drei Monaten, aber nicht mehr als einem Jahr oder auf eine Geldstrafe unter Festsetzung einer Ersatzfreiheitsstrafe von mehr als drei Monaten erkannt worden ist;
+
+fünf Jahre  
+in allen übrigen Fällen.
+
+`§ 59 (4) StGB.`  
+Ist gleichzeitig auf mehrere Strafen oder vorbeugende Maßnahmen erkannt worden, so richtet sich die Verjährung der Vollstreckbarkeit aller dieser Strafen oder Maßnahmen nach der Strafe oder Maßnahme, für die die längste Verjährungsfrist vorgesehen ist. Sind eine Freiheitsstrafe und eine Geldstrafe gleichzeitig verhängt worden, so ist zur Berechnung der Verjährungsfrist die Ersatzfreiheitsstrafe zur Freiheitsstrafe hinzuzurechnen.
+----
+
+----
+### § 60 StGB # Verlängerung der Frist für die Vollstreckungsverjährung
+
+`§ 60 (1) StGB.`  
+Wird gegen den Verurteilten in der Verjährungsfrist auf eine neue Strafe oder vorbeugende Maßnahme erkannt, so tritt die Verjährung der Vollstreckbarkeit nicht ein, bevor nicht auch die Vollstreckbarkeit dieser Strafe oder vorbeugenden Maßnahme erloschen ist.
+
+`§ 60 (2) StGB.`  
+In die Verjährungsfrist werden nicht eingerechnet:  
+`§ 60 (2) Z 1 StGB.`
+die Probezeit im Fall einer bedingten Nachsicht der Strafe oder der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder im Fall einer bedingten Entlassung;  
+`§ 60 (2) Z 2 StGB.`
+Zeiten, für die dem Verurteilten ein Aufschub des Vollzuges einer Freiheitsstrafe, es sei denn wegen Vollzugsuntauglichkeit, oder der Zahlung einer Geldstrafe gewährt worden ist;  
+`§ 60 (2) Z 3 StGB.`
+Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist;  
+`§ 60 (2) Z 4 StGB.`
+Zeiten, in denen sich der Verurteilte im Ausland aufgehalten hat.
+
+`§ 60 (3) StGB.`  
+Der Vollzug der Freiheitsstrafe oder der mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme unterbricht die Verjährung. Hört die Unterbrechung auf, ohne daß der Verurteilte endgültig entlassen wird, so beginnt die Verjährungsfrist unbeschadet der Bestimmungen des Abs. 2 von neuem zu laufen.
+----
+
+----
+## Siebenter Abschnitt # Geltungsbereich
+
+### § 61 StGB # Zeitliche Geltung
+
+`§ 61 StGB.`  
+Die Strafgesetze sind auf Taten anzuwenden, die nach dem Inkrafttreten begangen worden sind. Auf früher begangene Taten sind sie dann anzuwenden, wenn die Gesetze, die zur Zeit der Tat gegolten haben, für den Täter in ihrer Gesamtauswirkung nicht günstiger waren.
+----
+
+----
+### § 62 StGB # Strafbare Handlungen im Inland
+
+`§ 62 StGB.`  
+Die österreichischen Strafgesetze gelten für alle Taten, die im Inland begangen worden sind.
+----
+
+----
+### § 63 StGB # Strafbare Handlungen an Bord österreichischer Schiffe oder Luftfahrzeuge
+
+`§ 63 StGB.`  
+Die österreichischen Strafgesetze gelten auch für Taten, die auf einem österreichischen Schiff oder Luftfahrzeug begangen worden sind, unabhängig davon, wo sich dieses befindet.
+----
+
+----
+### § 64 StGB # Strafbare Handlungen im Ausland, die ohne Rücksicht auf die Gesetze des Tatorts bestraft werden
+
+`§ 64 (1) StGB.`  
+Die österreichischen Strafgesetze gelten unabhängig von den Strafgesetzen des Tatorts für folgende im Ausland begangene Taten:  
+`§ 64 (1) Z 1 StGB.`
+Auskundschaftung eines Geschäfts- oder Betriebsgeheimnisses zugunsten des Auslands (§ 124), Hochverrat (§ 242), Vorbereitung eines Hochverrats (§ 244), staatsfeindliche Verbindungen (§ 246), Angriffe auf oberste Staatsorgane (§§ 249 bis 251), Landesverrat (§§ 252 bis 258) und strafbare Handlungen gegen das Bundesheer (§§ 259 und 260);  
+`§ 64 (1) Z 2 StGB.`
+strafbare Handlungen, die jemand gegen einen österreichischen Beamten (§ 74 Abs. 1 Z 4), einen österreichischen Amtsträger (§ 74 Abs. 1 Z 4a) oder einen österreichischen Schiedsrichter (§ 74 Abs. 1 Z 4c) während oder wegen der Vollziehung seiner Aufgaben und die jemand als österreichischer Beamter, österreichischer Amtsträger oder österreichischer Schiedsrichter begeht;  
+`§ 64 (1) Z 2a StGB.`
+außer dem Fall der Z 2 strafbare Verletzungen der Amtspflicht, Korruption und verwandte strafbare Handlungen (§§ 302 bis 309), wenn  
+`§ 64 (1) Z 2a undefined StGB.`
+der Täter zur Zeit der Tat Österreicher war oder  
+`§ 64 (1) Z 2a undefined StGB.`
+die Tat zugunsten eines österreichischen Amtsträgers oder österreichischen Schiedsrichters begangen wurde;  
+`§ 64 (1) Z 3 StGB.`
+falsche Beweisaussage (§ 288) und unter Eid abgelegte oder mit einem Eid bekräftigte falsche Beweisaussage vor einer Verwaltungsbehörde (§ 289) in einem Ermittlungsverfahren nach der Strafprozessordnung oder nach der Verordnung (EU) 2017/1939 zur Durchführung einer Verstärkten Zusammenarbeit zur Errichtung der Europäischen Staatsanwaltschaft (EUStA), ABl. Nr. L 283 vom 31.10.2017 S. 1, sowie in einem Verfahren, das bei einem österreichischen Gericht oder einer österreichischen Verwaltungsbehörde anhängig ist;  
+`§ 64 (1) Z 4 StGB.`
+Geldfälschung (§ 232), Weitergabe und Besitz nachgemachten oder verfälschten Geldes (§ 233), die nach § 232 strafbare Fälschung besonders geschützter Wertpapiere (§ 237), kriminelle Organisation (§ 278a) und die nach den §§ 28a, 31a sowie 32 Abs. 3 des Suchtmittelgesetzes strafbaren Handlungen, wenn durch die Tat österreichische Interessen verletzt worden sind oder der Täter nicht ausgeliefert werden kann;  
+`§ 64 (1) Z 4a StGB.`
+Genitalverstümmelung (§ 85 Abs. 1 Z 2a), erpresserische Entführung (§ 102), Überlieferung an eine ausländische Macht (§ 103), Sklavenhandel (§ 104), Menschenhandel (§ 104a), schwere Nötigung nach § 106 Abs. 1 Z 3, Zwangsheirat (§ 106a), verbotene Adoptionsvermittlung (§ 194), Vergewaltigung (§ 201), geschlechtliche Nötigung (§ 202), sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten Person (§ 205), schwerer sexueller Missbrauch von Unmündigen (§ 206), sexueller Missbrauch von Unmündigen (§ 207), bildliches sexualbezogenes Kindesmissbrauchsmaterial und bildliche sexualbezogene Darstellungen minderjähriger Personen nach § 207a Abs. 1, 1a, 2 und 2a, sexueller Missbrauch von Jugendlichen (§ 207b), Missbrauch eines Autoritätsverhältnisses nach § 212 Abs. 1, Förderung der Prostitution und pornographischer Darbietungen Minderjähriger (§ 215a), grenzüberschreitender Prostitutionshandel (§ 217), wenn  
+`§ 64 (1) Z 4a undefined StGB.`
+der Täter oder das Opfer Österreicher ist oder seinen gewöhnlichen Aufenthalt im Inland hat,  
+`§ 64 (1) Z 4a undefined StGB.`
+durch die Tat sonstige österreichische Interessen verletzt worden sind oder  
+`§ 64 (1) Z 4a undefined StGB.`
+der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;  
+`§ 64 (1) Z 4b StGB.`
+Herstellung und Verbreitung von Massenvernichtungswaffen (§ 177a), wenn der Täter Österreicher ist, in bezug auf die Entwicklung nuklearer oder radiologischer Kampfmittel jedoch nur, soweit die Tat nicht im Auftrag oder unter der Verantwortung einer Vertragspartei des Vertrages über die Nichtweiterverbreitung von Atomwaffen, BGBl. Nr. 258/1970, die Atomwaffenstaat ist, begangen worden ist;  
+`§ 64 (1) Z 4c StGB.`
+Folter (§ 312a), Verschwindenlassen einer Person (§ 312b) und strafbare Handlungen nach dem fünfundzwanzigsten Abschnitt, wenn  
+`§ 64 (1) Z 4c undefined StGB.`
+der Täter oder das Opfer Österreicher ist,  
+`§ 64 (1) Z 4c undefined StGB.`
+durch die Tat sonstige österreichische Interessen verletzt worden sind oder  
+`§ 64 (1) Z 4c undefined StGB.`
+der Täter zur Zeit der Tat Ausländer war und entweder seinen gewöhnlichen Aufenthalt im Inland hat oder sich in Österreich aufhält und nicht ausgeliefert werden kann.  
+`§ 64 (1) Z 5 StGB.`
+Luftpiraterie (§ 185), damit im Zusammenhang begangene strafbare Handlungen gegen Leib und Leben oder gegen die Freiheit und vorsätzliche Gefährdung der Sicherheit der Luftfahrt (§ 186), wenn  
+`§ 64 (1) Z 5 undefined StGB.`
+die strafbare Handlung gegen ein österreichisches Luftfahrzeug gerichtet ist,  
+`§ 64 (1) Z 5 undefined StGB.`
+das Luftfahrzeug in Österreich landet und der Täter sich noch an Bord befindet,  
+`§ 64 (1) Z 5 undefined StGB.`
+das Luftfahrzeug ohne Besatzung an jemanden vermietet ist, der seinen Geschäftssitz oder in Ermangelung eines solchen Sitzes seinen ständigen Aufenthalt in Österreich hat, oder  
+`§ 64 (1) Z 5 undefined StGB.`
+sich der Täter in Österreich aufhält und nicht ausgeliefert werden kann;  
+`§ 64 (1) Z 6 StGB.`
+sonstige strafbare Handlungen, zu deren Verfolgung Österreich, auch wenn sie im Ausland begangen worden sind, unabhängig von den Strafgesetzen des Tatorts verpflichtet ist;  
+`§ 64 (1) Z 7 StGB.`
+strafbare Handlungen, die ein Österreicher gegen einen Österreicher begeht, wenn beide ihren Wohnsitz oder gewöhnlichen Aufenthalt im Inland haben;  
+`§ 64 (1) Z 8 StGB.`
+Beteiligung (§ 12) an einer strafbaren Handlung, die der unmittelbare Täter im Inland begangen hat, sowie Hehlerei (§ 164) und Geldwäscherei (§ 165) in bezug auf eine im Inland begangene Tat;  
+`§ 64 (1) Z 9 StGB.`
+terroristische Vereinigung (§ 278b) und terroristische Straftaten (§ 278c) sowie damit im Zusammenhang begangene strafbare Handlungen nach den §§ 128 bis 131, 144 und 145 sowie 223 und 224, ferner Terrorismusfinanzierung (§ 278d), Ausbildung für terroristische Zwecke (§ 278e), Anleitung zur Begehung einer terroristischen Straftat (§ 278f), Reisen für terroristische Zwecke (§ 278g) und damit im Zusammenhang begangene strafbare Handlungen nach den §§ 223 und 224 sowie Aufforderung zu terroristischen Straftaten und Gutheißung terroristischer Straftaten (§ 282a), wenn  
+`§ 64 (1) Z 9 undefined StGB.`
+der Täter zur Zeit der Tat Österreicher war oder wenn er die österreichische Staatsbürgerschaft später erworben hat und zur Zeit der Einleitung des Strafverfahrens noch besitzt,  
+`§ 64 (1) Z 9 undefined StGB.`
+der Täter zur Zeit der Tat oder der Einleitung des Strafverfahrens seinen Wohnsitz oder gewöhnlichen Aufenthalt im Inland hatte oder hat,  
+`§ 64 (1) Z 9 undefined StGB.`
+die Tat zugunsten einer juristischen Person mit Sitz in Österreich begangen wurde,  
+`§ 64 (1) Z 9 undefined StGB.`
+die Tat gegen den Nationalrat, den Bundesrat, die Bundesversammlung, die Bundesregierung, einen Landtag, eine Landesregierung, den Verfassungsgerichtshof, den Verwaltungsgerichtshof, den Obersten Gerichtshof, sonst ein Gericht oder eine Behörde oder gegen die Bevölkerung der Republik Österreich begangen wurde,  
+`§ 64 (1) Z 9 undefined StGB.`
+die Tat gegen ein Organ der Europäischen Union oder eine gemäß den Verträgen zur Gründung der Europäischen Gemeinschaften oder dem Vertrag über die Europäische Union geschaffene Einrichtung mit Sitz in der Republik Österreich begangen wurde oder  
+`§ 64 (1) Z 9 undefined StGB.`
+der Täter zur Zeit der Tat Ausländer war, sich in Österreich aufhält und nicht ausgeliefert werden kann;  
+*(Anm.: Z 10 aufgehoben durch Art. 1 Z 4, BGBl. I Nr. 70/2018)*  
+`§ 64 (1) Z 11 StGB.`
+Unvertretbare Darstellung wesentlicher Informationen über bestimmte Verbände (§ 163a) und Unvertretbare Berichte von Prüfern bestimmter Verbände (§ 163b), wenn die Hauptniederlassung oder der Sitz des Verbandes im Inland liegt.
+
+`§ 64 (2) StGB.`  
+Können die im Abs. 1 genannten Strafgesetze bloß deshalb nicht angewendet werden, weil sich die Tat als eine mit strengerer Strafe bedrohte Handlung darstellt, so ist die im Ausland begangene Tat gleichwohl unabhängig von den Strafgesetzen des Tatorts nach den österreichischen Strafgesetzen zu bestrafen.
+----
+
+----
+### § 65 StGB # Strafbare Handlungen im Ausland, die nur bestraft werden, wenn sie nach den Gesetzen des Tatorts mit Strafe bedroht sind
+
+`§ 65 (1) StGB.`  
+Für andere als die in den §§ 63 und 64 bezeichneten Taten, die im Ausland begangen worden sind, gelten, sofern die Taten auch durch die Gesetze des Tatorts mit Strafe bedroht sind, die österreichischen Strafgesetze:  
+`§ 65 (1) Z 1 StGB.`
+wenn der Täter zur Zeit der Tat Österreicher war oder wenn er die österreichische Staatsbürgerschaft später erworben hat und zur Zeit der Einleitung des Strafverfahrens noch besitzt;  
+`§ 65 (1) Z 2 StGB.`
+wenn der Täter zur Zeit der Tat Ausländer war, im Inland betreten wird und aus einem anderen Grund als wegen der Art oder Eigenschaft seiner Tat nicht an das Ausland ausgeliefert werden kann.
+
+`§ 65 (2) StGB.`  
+Die Strafe ist so zu bestimmen, daß der Täter in der Gesamtauswirkung nicht ungünstiger gestellt ist als nach dem Gesetz des Tatorts.
+
+`§ 65 (3) StGB.`  
+Besteht am Ort der Tat keine Strafgewalt, so genügt es, wenn die Tat nach den österreichischen Gesetzen strafbar ist.
+
+`§ 65 (4) StGB.`  
+Die Strafbarkeit entfällt jedoch:  
+`§ 65 (4) Z 1 StGB.`
+wenn die Strafbarkeit der Tat nach den Gesetzen des Tatorts erloschen ist;  
+`§ 65 (4) Z 2 StGB.`
+wenn der Täter von einem Gericht des Staates, in dem die Tat begangen worden ist, rechtskräftig freigesprochen oder sonst außer Verfolgung gesetzt worden ist;  
+`§ 65 (4) Z 3 StGB.`
+wenn der Täter von einem ausländischen Gericht rechtskräftig verurteilt und die Strafe ganz vollstreckt oder, soweit sie nicht vollstreckt wurde, erlassen worden oder ihre Vollstreckbarkeit nach dem ausländischen Recht verjährt ist;  
+`§ 65 (4) Z 4 StGB.`
+solange die Vollstreckung der vom ausländischen Gericht verhängten Strafe ganz oder teilweise ausgesetzt ist.
+
+`§ 65 (5) StGB.`  
+Nach den österreichischen Gesetzen vorgesehene vorbeugende Maßnahmen sind, wenn die Voraussetzungen hiefür zutreffen, gegen einen Österreicher auch dann anzuordnen, wenn er aus einem der Gründe des vorhergehenden Absatzes im Inland nicht bestraft werden kann.
+----
+
+----
+### § 65a StGB # Erweiterter Geltungsbereich des Verfalls und der Einziehung bei Auslandstaten
+
+`§ 65a StGB.`  
+Der Verfall und die Einziehung treffen auch im Inland befindliche Vermögenswerte und Gegenstände in Bezug auf Taten, die auch durch die Gesetze des Tatorts mit Strafe bedroht sind, aber nach den §§ 62 bis 65 nicht den österreichischen Strafgesetzen unterliegen.
+----
+
+----
+### § 66 StGB # Anrechnung im Ausland erlittener Strafen
+
+`§ 66 StGB.`  
+Hat der Täter für die Tat, derentwegen er im Inland bestraft wird, schon im Ausland eine Strafe verbüßt, so ist sie auf die im Inland verhängte Strafe anzurechnen.
+----
+
+----
+### § 67 StGB # Zeit und Ort der Tat
+
+`§ 67 (1) StGB.`  
+Eine mit Strafe bedrohte Handlung hat der Täter zu der Zeit begangen, da er gehandelt hat oder hätte handeln sollen; wann der Erfolg eintritt, ist nicht maßgebend.
+
+`§ 67 (2) StGB.`  
+Eine mit Strafe bedrohte Handlung hat der Täter an jedem Ort begangen, an dem er gehandelt hat oder hätte handeln sollen oder ein dem Tatbild entsprechender Erfolg ganz oder zum Teil eingetreten ist oder nach der Vorstellung des Täters hätte eintreten sollen.
+----
+
+----
+## Achter Abschnitt # Begriffsbestimmungen
+
+### § 68 StGB # Zeitberechnung
+
+`§ 68 StGB.`  
+Jahre und Monate sind nach dem Kalender zu berechnen. Zeiträume werden so berechnet, daß der Tag, auf den das Ereignis fällt, mit dem der Zeitraum beginnt, nicht mitgezählt wird. Sie enden mit dem Ablauf des letzten Tages.
+----
+
+----
+### § 69 StGB # Öffentliche Begehung
+
+`§ 69 StGB.`  
+Eine Handlung wird nur dann öffentlich begangen, wenn sie unmittelbar von einem größeren Personenkreis wahrgenommen werden kann.
+----
+
+----
+### § 70 StGB # Gewerbsmäßige Begehung
+
+`§ 70 (1) StGB.`  
+Gewerbsmäßig begeht eine Tat, wer sie in der Absicht ausführt, sich durch ihre wiederkehrende Begehung längere Zeit hindurch ein nicht bloß geringfügiges fortlaufendes Einkommen zu verschaffen, und  
+`§ 70 (1) Z 1 StGB.`
+unter Einsatz besonderer Fähigkeiten oder Mittel handelt, die eine wiederkehrende Begehung nahelegen, oder  
+`§ 70 (1) Z 2 StGB.`
+zwei weitere solche Taten schon im Einzelnen geplant hat oder  
+`§ 70 (1) Z 3 StGB.`
+bereits zwei solche Taten begangen hat oder einmal wegen einer solchen Tat verurteilt worden ist.
+
+`§ 70 (2) StGB.`  
+Ein nicht bloß geringfügiges fortlaufendes Einkommen ist ein solches, das nach einer jährlichen Durchschnittsbetrachtung monatlich den Betrag von 400 Euro übersteigt.
+
+`§ 70 (3) StGB.`  
+Eine frühere Tat oder Verurteilung bleibt außer Betracht, wenn seit ihrer Begehung oder Rechtskraft bis zur folgenden Tat mehr als ein Jahr vergangen ist. In diese Frist werden Zeiten, in denen der Täter auf behördliche Anordnung angehalten worden ist, nicht eingerechnet.
+----
+
+----
+### § 71 StGB # Schädliche Neigung
+
+`§ 71 StGB.`  
+Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind.
+----
+
+----
+### § 72 StGB # Angehörige
+
+`§ 72 (1) StGB.`  
+Unter Angehörigen einer Person sind ihre Verwandten und Verschwägerten in gerader Linie, ihr Ehegatte oder eingetragener Partner und die Geschwister des Ehegatten oder eingetragenen Partners, ihre Geschwister und deren Ehegatten oder eingetragene Partner, Kinder und Enkel, die Geschwister ihrer Eltern und Großeltern, ihre Vettern und Basen, der Vater oder die Mutter ihres Kindes, ihre Wahl- und Pflegeeltern, ihre Wahl- und Pflegekinder, sowie Personen, über die ihnen die Obsorge zusteht oder unter deren Obsorge sie stehen, zu verstehen.
+
+`§ 72 (2) StGB.`  
+Personen, die miteinander in Lebensgemeinschaft leben, werden wie Angehörige behandelt, Kinder und Enkel einer von ihnen werden wie Angehörige auch der anderen behandelt.
+----
+
+----
+### § 73 StGB # Ausländische Verurteilungen
+
+`§ 73 StGB.`  
+Sofern das Gesetz nicht ausdrücklich auf die Verurteilung durch ein inländisches Gericht abstellt, stehen ausländische Verurteilungen inländischen gleich, wenn sie den Rechtsbrecher wegen einer Tat schuldig sprechen, die auch nach österreichischem Recht gerichtlich strafbar ist, und in einem den Grundsätzen des Art. 6 der europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, entsprechenden Verfahren ergangen sind.
+----
+
+----
+### § 74 StGB # Andere Begriffsbestimmungen
+
+`§ 74 (1) StGB.`  
+Im Sinn dieses Bundesgesetzes ist  
+`§ 74 (1) Z 1 StGB.`
+unmündig: wer das vierzehnte Lebensjahr noch nicht vollendet hat;  
+*(Anm.: Z 2 aufgehoben durch BGBl. I Nr. 19/2001)*  
+`§ 74 (1) Z 3 StGB.`
+minderjährig: wer das achtzehnte Lebensjahr noch nicht vollendet hat;  
+`§ 74 (1) Z 4 StGB.`
+Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;  
+`§ 74 (1) Z 4a StGB.`
+Amtsträger: jeder, der  
+*(Anm.: lit. a aufgehoben durch BGBl. I Nr. 61/2012)*  
+`§ 74 (1) Z 4a undefined StGB.`
+für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere Person des öffentlichen Rechts, ausgenommen eine Kirche oder Religionsgesellschaft, für einen anderen Staat oder für eine internationale Organisation Aufgaben der Gesetzgebung, Verwaltung oder Justiz als deren Organ oder Dienstnehmer wahrnimmt, Unionsbeamter (Z 4b) ist oder - für die Zwecke der §§ 168g, 304, 305, 307 und 307a - der öffentliche Aufgaben im Zusammenhang mit der Verwaltung der oder Entscheidungen über die finanziellen Interessen der Europäischen Union in Mitgliedstaaten oder Drittstaaten übertragen bekommen hat und diese Aufgaben wahrnimmt,  
+`§ 74 (1) Z 4a undefined StGB.`
+sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder  
+`§ 74 (1) Z 4a undefined StGB.`
+als Organ oder Bediensteter eines Unternehmens tätig ist, an dem eine oder mehrere inländische oder ausländische Gebietskörperschaften unmittelbar oder mittelbar mit mindestens 50 vH des Stamm-, Grund- oder Eigenkapitals beteiligt sind, das eine solche Gebietskörperschaft allein oder gemeinsam mit anderen solchen Gebietskörperschaften betreibt oder durch finanzielle oder sonstige wirtschaftliche oder organisatorische Maßnahmen tatsächlich beherrscht, jedenfalls aber jedes Unternehmens, dessen Gebarung der Überprüfung durch den Rechnungshof, dem Rechnungshof gleichartige Einrichtungen der Länder oder einer vergleichbaren internationalen oder ausländischen Kontrolleinrichtung unterliegt.  
+`§ 74 (1) Z 4b StGB.`
+Unionsbeamter: jeder, der Beamter oder sonstiger Bediensteter im Sinne des Statuts der Beamten der Europäischen Union oder der Beschäftigungsbedingungen für die sonstigen Bediensteten der Europäischen Union ist oder der der Europäischen Union von den Mitgliedstaaten oder von öffentlichen oder privaten Einrichtungen zur Verfügung gestellt wird und dort mit Aufgaben betraut ist, die den Aufgaben der Beamten oder sonstigen Bediensteten der Europäischen Union entsprechen; Unionsbeamte sind auch, soweit das Statut nicht gilt, die Mitglieder der Organe, Einrichtungen und sonstigen Stellen der Europäischen Union, die nach dem Vertrag über die Arbeitsweise der Europäischen Union oder dem Vertrag über die Europäische Union errichtet wurden, und die Bediensteten dieser Einrichtungen;  
+`§ 74 (1) Z 4c StGB.`
+Schiedsrichter: jeder Entscheidungsträger eines Schiedsgerichtes im Sinne der §§ 577 ff ZPO mit Sitz im Inland oder noch nicht bestimmtem Sitz (österreichischer Schiedsrichter) oder mit Sitz im Ausland;  
+`§ 74 (1) Z 4d StGB.`
+Kandidat für ein Amt: jeder, der sich in einem Wahlkampf, einem Bewerbungs- oder Auswahlverfahren zu einer Funktion als Amtsträger (Z 4a) oder in einer vergleichbaren Position zur Erlangung einer von ihm angestrebten Funktion als oberstes Vollzugsorgan des Bundes oder eines Bundeslandes oder als Organ zur Kontrolle der Gesetzmäßigkeit der Vollziehung befindet, sofern die Erlangung der Funktion nicht gänzlich unwahrscheinlich ist;  
+`§ 74 (1) Z 5 StGB.`
+gefährliche Drohung: eine Drohung mit einer Verletzung an Körper, Freiheit, Ehre, Vermögen oder des höchstpersönlichen Lebensbereiches durch Zugänglichmachen, Bekanntgeben oder Veröffentlichen von Tatsachen oder Bildaufnahmen, die geeignet ist, dem Bedrohten mit Rücksicht auf die Verhältnisse und seine persönliche Beschaffenheit oder die Wichtigkeit des angedrohten Übels begründete Besorgnisse einzuflößen, ohne Unterschied, ob das angedrohte Übel gegen den Bedrohten selbst, gegen dessen Angehörige oder gegen andere unter seinen Schutz gestellte oder ihm persönlich nahestehende Personen gerichtet ist;  
+`§ 74 (1) Z 6 StGB.`
+Entgelt: jede einer Bewertung in Geld zugängliche Gegenleistung, auch wenn sie einer anderen Person zugute kommen soll als der, der sie angeboten oder gegeben wird;  
+`§ 74 (1) Z 7 StGB.`
+Urkunde: eine Schrift, die errichtet worden ist, um ein Recht oder ein Rechtsverhältnis zu begründen, abzuändern oder aufzuheben oder eine Tatsache von rechtlicher Bedeutung zu beweisen;  
+`§ 74 (1) Z 8 StGB.`
+Computersystem: sowohl einzelne als auch verbundene Vorrichtungen, die der automationsunterstützten Datenverarbeitung dienen;  
+`§ 74 (1) Z 9 StGB.`
+Prostitution: die Vornahme geschlechtlicher Handlungen oder die Duldung geschlechtlicher Handlungen am eigenen Körper gegen Entgelt durch  
+`§ 74 (1) Z 9 undefined StGB.`
+eine minderjährige Person oder  
+`§ 74 (1) Z 9 undefined StGB.`
+eine volljährige Person in der Absicht, sich oder einem Dritten durch die wiederkehrende Vornahme oder Duldung eine fortlaufende Einnahme zu verschaffen;  
+`§ 74 (1) Z 10 StGB.`
+unbares Zahlungsmittel: nichtkörperliche oder körperliche Vorrichtungen, Gegenstände oder Aufzeichnungen oder deren Kombination, ausgenommen gesetzliche Zahlungsmittel, die vor Fälschung oder missbräuchlicher Verwendung geschützt sind und die für sich oder in Verbindung mit einem oder mehreren Verfahren dem Inhaber oder Nutzer ermöglichen, Geld oder monetäre Werte zu übertragen, auch mittels digitaler Tauschmittel;  
+`§ 74 (1) Z 11 StGB.`
+kritische Infrastruktur: Einrichtungen, Anlagen, Systeme oder Teile davon, die eine wesentliche Bedeutung für die Aufrechterhaltung der öffentlichen Sicherheit, die Landesverteidigung oder den Schutz der Zivilbevölkerung gegen Kriegsgefahren, die Funktionsfähigkeit öffentlicher Informations- und Kommunikationstechnologie, die Verhütung oder Bekämpfung von Katastrophen, den öffentlichen Gesundheitsdienst, die öffentliche Versorgung mit Wasser, Energie sowie lebenswichtigen Gütern, das öffentliche Abfallentsorgungs- und Kanalwesen oder den öffentlichen Verkehr haben.
+
+`§ 74 (2) StGB.`  
+Im Sinne dieses Bundesgesetzes sind Daten sowohl personenbezogene und nicht personenbezogene Daten als auch Programme.
+
+`§ 74 (3) StGB.`  
+Unter leitenden Angestellten sind Angestellte eines Unternehmens, auf dessen Geschäftsführung ihnen ein maßgeblicher Einfluss zusteht, zu verstehen. Ihnen stehen Geschäftsführer, Mitglieder des Vorstands oder Aufsichtsrats und Prokuristen ohne Angestelltenverhältnis gleich.
+----
+
+`END-OF-DATA-SET`

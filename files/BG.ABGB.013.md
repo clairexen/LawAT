@@ -1,341 +1,559 @@
 # BG.ABGB.013 — Allgemeines bürgerliches Gesetzbuch (ABGB)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ABGB  
+**Kurztitel:** ['ABGB']  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.013.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ABGB.012](BG.ABGB.012.md))*
 
-## II. Anforderungen an den letzten Willen
+----
+## Vierzehntes Hauptstück # Vom Pflichtteil und der Anrechnung auf den Pflichtteil # I. Allgemeines
 
-### § 564 ABGB # Höchstpersönliche Willenserklärung
+### § 756 ABGB # 1. Pflichtteilsberechtigung
 
-`§ 564 ABGB.`  
-Man kann seinen letzten Willen nur selbst erklären, den Erben nur selbst einsetzen und diese Erklärungen nicht einer dritten Person überlassen. Auch genügt die bloße Bejahung des Vorschlags einer dritten Person nicht.
+`§ 756 ABGB.`  
+Der Pflichtteil ist der Anteil am Wert des Vermögens des Verstorbenen, der dem Pflichtteilsberechtigten zukommen soll.
+----
 
-### § 565 ABGB # Bestimmtheit und Mangelfreiheit
+----
+### § 757 ABGB
 
-`§ 565 ABGB.`  
-Der letzte Wille muss bestimmt, mit Überlegung, ernst sowie frei von Drohung, List und wesentlichem Irrtum erklärt werden.
+`§ 757 ABGB.`  
+Pflichtteilsberechtigt sind die Nachkommen sowie der Ehegatte oder eingetragene Partner des Verstorbenen.
+----
 
-### § 566 ABGB # Testierfähigkeit
+----
+### § 758 ABGB
 
-`§ 566 ABGB.`  
-Testierfähig ist, wer die Bedeutung und die Folgen seiner letztwilligen Verfügung verstehen und sich entsprechend verhalten kann.
+`§ 758 (1) ABGB.`  
+Einer in § 757 angeführten Person steht ein Pflichtteil zu, wenn ihr bei gesetzlicher Erbfolge ein Erbrecht zustünde, sie nicht enterbt wurde und nicht auf den Pflichtteil verzichtet worden ist.
 
-### § 567 ABGB
+`§ 758 (2) ABGB.`  
+Den Nachkommen einer erbunfähigen, enterbten oder vorverstorbenen Person steht ein Pflichtteil zu, wenn sie die Voraussetzungen des Abs. 1 erfüllen. Der Verzicht auf den Pflichtteil und die Ausschlagung der Erbschaft erstrecken sich im Zweifel auch auf die Nachkommen. Die Nachkommen eines vorverstorbenen Pflichtteilsberechtigten, dessen Pflichtteil gemindert worden ist, müssen sich mit dem geminderten Pflichtteil begnügen, wenn auch für sie die Voraussetzungen für die Minderung vorliegen (§ 776 Abs. 1 und 2).
 
-`§ 567 ABGB.`  
-Hat der Verstorbene seinen letzten Willen in einem die Testierfähigkeit ausschließenden Zustand erklärt, etwa unter dem Einfluss einer psychischen Krankheit oder im Rausch, so ist die letztwillige Verfügung ungültig.
+`§ 758 (3) ABGB.`  
+Eine in ihrem Pflichtteil verkürzte Person kann sich auch dann auf ihre Pflichtteilsberechtigung stützen, wenn ihr ein Erbrecht aus einem Erbvertrag, einem letzten Willen oder dem Gesetz gebührt.
+----
 
-### § 568 ABGB
+----
+### § 759 ABGB # 2. Höhe
 
-`§ 568 ABGB.`  
-Wer behauptet, dass ein sonst nach § 566 testierunfähiger Verstorbener bei Erklärung des letzten Willens testierfähig war (lichter Augenblick), hat dies zu beweisen.
+`§ 759 ABGB.`  
+Als Pflichtteil gebührt jeder pflichtteilsberechtigten Person die Hälfte dessen, was ihr nach der gesetzlichen Erbfolge zustünde.
+----
 
-### § 569 ABGB # Alter
+----
+### § 760 ABGB
 
-`§ 569 ABGB.`  
-Unmündige Personen sind testierunfähig. Mündige Minderjährige können – ausgenommen im Notfall (§ 584) – nur mündlich vor Gericht oder Notar testieren. Das Gericht oder der Notar hat sich davon zu überzeugen, dass die Erklärung des letzten Willens frei und überlegt erfolgt. Die Erklärung des letzten Willens und das Ergebnis der Erhebungen sind in einem Protokoll festzuhalten.
+`§ 760 (1) ABGB.`  
+Wenn einer der in § 757 angeführten Personen infolge Pflichtteilsverzichtes oder Ausschlagung der Erbschaft kein Pflichtteil zusteht, erhöht dies im Zweifel die Pflichtteile der anderen Pflichtteilsberechtigten nicht.
 
-### § 570 ABGB # Wesentlicher Irrtum
+`§ 760 (2) ABGB.`  
+Wenn aber einer der in § 757 angeführten Personen aus anderen Gründen kein oder nur ein geminderter Pflichtteil zusteht und an ihrer Stelle auch keine Nachkommen den Pflichtteil erhalten, erhöhen sich die Pflichtteile der anderen Pflichtteilsberechtigten anteilig; die §§ 733 und 734 sind anzuwenden.
+----
 
-`§ 570 ABGB.`  
-Ein wesentlicher Irrtum des Verstorbenen macht die Anordnung ungültig. Der Irrtum ist insbesondere wesentlich, wenn der Verstorbene die bedachte Person oder die zugewendete Sache verfehlt hat.
+----
+### § 761 ABGB # 3. Erfüllungsarten # Leistung und Deckung des Pflichtteils
 
-### § 571 ABGB # Falsche Bezeichnung
+`§ 761 (1) ABGB.`  
+Der Pflichtteil ist in Geld zu leisten. Er kann aber auch durch eine Zuwendung auf den Todesfall des Verstorbenen (§ 780) oder eine Schenkung unter Lebenden (§ 781) gedeckt werden.
 
-`§ 571 ABGB.`  
-Wenn sich zeigt, dass der Verstorbene die bedachte Person oder die zugewendete Sache nur unrichtig benannt oder beschrieben hat, ist die Verfügung gültig.
+`§ 761 (2) ABGB.`  
+Wenn der Verstorbene jemanden auf den Pflichtteil gesetzt hat, wird vermutet, dass er ihm einen Geldanspruch und nicht ein Vermächtnis zuwenden wollte.
+----
 
-### § 572 ABGB # Motivirrtum
+----
+### § 762 ABGB # Bedingungen und Belastungen
 
-`§ 572 ABGB.`  
-Auch wenn sich der vom Verstorbenen angegebene Beweggrund als falsch herausstellt, bleibt die Verfügung gültig, es sei denn, dass sein Wille einzig und allein auf diesem irrigen Beweggrund beruht hat.
+`§ 762 ABGB.`  
+Haften einer Zuwendung oder Schenkung im Sinn der §§ 780 und 781 Bedingungen oder Belastungen an, die der Verwertung des zugewendeten Vermögens entgegenstehen, so hindert dies nicht deren Eignung zur Pflichtteilsdeckung; ein dadurch fehlender oder verminderter Nutzen ist aber bei der Bewertung der Zuwendung oder Schenkung zu berücksichtigen.
+----
 
-### § 575 ABGB # Zeitpunkt für die Beurteilung der Gültigkeit
+----
+### § 763 ABGB # Geldpflichtteil
 
-`§ 575 ABGB.`  
-Die Voraussetzungen der Gültigkeit einer letztwilligen Verfügung müssen bei deren Errichtung vorliegen.
+`§ 763 ABGB.`  
+Soweit der Pflichtteil durch eine Zuwendung oder Schenkung im Sinn der §§ 780 und 781 nicht oder nicht voll gedeckt wird, kann der Pflichtteilsberechtigte den Pflichtteil selbst oder dessen Ergänzung in Geld fordern.
+----
 
-### § 576 ABGB
+----
+### § 764 ABGB # 4. Pflichtteilsschuldner
 
-`§ 576 ABGB.`  
-Eine anfänglich ungültige letztwillige Verfügung wird durch den späteren Wegfall des Hindernisses nicht gültig. Wird in diesem Fall keine neue Verfügung getroffen, so tritt die gesetzliche Erbfolge ein.
+`§ 764 (1) ABGB.`  
+Der Pflichtteilsanspruch ist von der Verlassenschaft und nach der Einantwortung von den Erben zu erfüllen.
 
-## III. Form der letztwilligen Verfügung
+`§ 764 (2) ABGB.`  
+Wenn der Pflichtteil durch eine Zuwendung oder Schenkung im Sinn der §§ 780 und 781 nicht oder nicht voll gedeckt wird, haben neben den Erben auch die Vermächtnisnehmer höchstens bis zum Wert der Verlassenschaft zu seiner Bedeckung verhältnismäßig beizutragen, nicht jedoch der Ehegatte oder eingetragene Partner mit dem gesetzlichen Vorausvermächtnis, der Lebensgefährte mit einem solchen gesetzlichen Vermächtnis und der Begünstigte aus einem Pflegevermächtnis.
+----
 
-### § 577 ABGB # Arten
+----
+### § 765 ABGB # 5. Anfall und Fälligkeit
 
-`§ 577 ABGB.`  
-Eine letztwillige Verfügung kann nach Maßgabe der folgenden Bestimmungen außergerichtlich oder gerichtlich, schriftlich oder mündlich und schriftlich mit oder ohne Zeugen errichtet werden.
+`§ 765 (1) ABGB.`  
+Der Pflichtteilsberechtigte erwirbt den Anspruch für sich und seine Nachfolger mit dem Tod des Verstorbenen.
 
-### § 578 ABGB # Eigenhändige Verfügung
+`§ 765 (2) ABGB.`  
+Den Geldpflichtteil kann der Pflichtteilsberechtigte erst ein Jahr nach dem Tod des Verstorbenen fordern.
+----
 
-`§ 578 ABGB.`  
-Wer schriftlich ohne Zeugen letztwillig verfügen will, muss die Verfügung eigenhändig schreiben und eigenhändig mit seinem Namen unterschreiben. Die Beisetzung von Ort und Datum der Errichtung ist zwar nicht notwendig, aber ratsam.
+----
+### § 766 ABGB # Stundung
 
-### § 579 ABGB # Fremdhändige Verfügung
+`§ 766 (1) ABGB.`  
+Der letztwillig Verfügende kann die Stundung des Pflichtteilsanspruchs auf höchstens fünf Jahre nach seinem Tod oder die Zahlung in Teilbeträgen innerhalb dieses Zeitraums anordnen. Ebenso kann er die Deckung des Pflichtteils durch eine Zuwendung ganz oder zum Teil auf diesen Zeitraum erstrecken.
 
-`§ 579 (1) ABGB.`  
-Eine von ihm nicht eigenhändig geschriebene letztwillige Verfügung muss der Verfügende in Gegenwart von drei gleichzeitig anwesenden Zeugen eigenhändig unterschreiben und mit einem eigenhändig geschriebenen Zusatz versehen, dass die Urkunde seinen letzten Willen enthält.
+`§ 766 (2) ABGB.`  
+In den Fällen des Abs. 1 kann der Pflichtteilsberechtigte den gesamten oder restlichen Geldpflichtteil erst mit Ende dieses Zeitraums fordern, es sei denn, dass ihn dies unter Berücksichtigung aller Umstände unbillig hart träfe. Die Interessen und die Vermögenslage des Pflichtteilsschuldners sind angemessen zu berücksichtigen.
 
-`§ 579 (2) ABGB.`  
-Die Zeugen, deren Identität aus der Urkunde hervorgehen muss, haben auf der Urkunde mit einem auf ihre Eigenschaft als Zeugen hinweisenden und eigenhändig geschriebenen Zusatz zu unterschreiben. Den Inhalt der letztwilligen Verfügung müssen sie nicht kennen.
+`§ 766 (3) ABGB.`  
+In besonders berücksichtigungswürdigen Fällen kann der in Abs. 1 genannte Zeitraum auf insgesamt höchstens zehn Jahre durch das Gericht verlängert werden.
+----
 
-### § 580 ABGB
+----
+### § 767 ABGB
 
-`§ 580 (1) ABGB.`  
-Wenn der letztwillig Verfügende nicht schreiben kann, muss er statt der Unterschrift und des eigenhändigen Zusatzes sein Handzeichen in Gegenwart der in § 579 genannten Zeugen eigenhändig setzen und ausdrücklich vor ihnen erklären, dass die Urkunde sein letzter Wille ist. Die Anführung des Namens des letztwillig Verfügenden durch einen Zeugen ist zwar nicht notwendig, aber ratsam.
+`§ 767 (1) ABGB.`  
+Der Pflichtteilsanspruch ist auf Verlangen eines Pflichtteilsschuldners auch gerichtlich zu stunden, soweit diesen die Erfüllung unter Berücksichtigung aller Umstände unbillig hart träfe. Dies kann insbesondere der Fall sein, wenn er mangels ausreichenden anderen Vermögens die Wohnung, die ihm zur Befriedigung seines dringenden Wohnbedürfnisses dient, oder ein Unternehmen, das seine wirtschaftliche Lebensgrundlage darstellt, veräußern müsste. Ebenso ist der Geldpflichtteilsanspruch auf Verlangen eines Pflichtteilsschuldners zu stunden, wenn dessen sofortige Entrichtung den Fortbestand eines Unternehmens erheblich gefährdet. Die Interessen des Pflichtteilsberechtigten sind angemessen zu berücksichtigen.
 
-`§ 580 (2) ABGB.`  
-Wer nicht lesen kann, muss sich die fremdhändige Verfügung von einem Zeugen in Gegenwart der beiden anderen Zeugen, die den Inhalt eingesehen haben, vorlesen lassen und bekräftigen, dass dieser seinem Willen entspricht.
+`§ 767 (2) ABGB.`  
+Das Gericht kann den Pflichtteilsanspruch auf höchstens fünf Jahre nach dem Tod des Verstorbenen stunden oder die Zahlung in Teilbeträgen innerhalb dieses Zeitraums bewilligen.
 
-### § 581 ABGB # Gerichtliche Verfügung
+`§ 767 (3) ABGB.`  
+In besonders berücksichtigungswürdigen Fällen kann der in Abs. 2 genannte Zeitraum auf insgesamt höchstens zehn Jahre durch das Gericht verlängert werden.
+----
 
-`§ 581 (1) ABGB.`  
-Eine letztwillige Verfügung kann auch vor Gericht schriftlich oder mündlich errichtet werden.
+----
+### § 768 ABGB # Sicherstellung des Pflichtteilsanspruchs und Anpassung einer Stundungsregelung
 
-`§ 581 (2) ABGB.`  
-Die schriftliche Verfügung muss der Verfügende eigenhändig unterschreiben und dem Gericht persönlich übergeben. Das Gericht hat ihn darüber zu belehren, dass die Verfügung eigenhändig unterschrieben sein muss, die Verfügung gerichtlich zu versiegeln und auf dem Umschlag anzumerken, wessen letzter Wille darin enthalten ist. Über die Amtshandlung ist ein Protokoll aufzunehmen. Die letztwillige Verfügung ist gegen Ausstellung einer Empfangsbestätigung gerichtlich zu hinterlegen.
+`§ 768 ABGB.`  
+Das Gericht kann auf Antrag die Sicherstellung des Pflichtteilsanspruchs anordnen und bei einer erheblichen Änderung der Umstände eine Stundungsregelung ändern oder aufheben. Der Pflichtteilsschuldner und der Pflichtteilsberechtigte haben einander über eine wesentliche Änderung der Umstände unverzüglich zu informieren.
+----
 
-`§ 581 (3) ABGB.`  
-Will der letztwillig Verfügende seinen letzten Willen mündlich erklären, so ist über die Erklärung ein Protokoll aufzunehmen und dieses versiegelt zu hinterlegen.
+----
+## II. Ausschluss von der Pflichtteilsberechtigung
 
-### § 582 ABGB
+### § 769 ABGB # 1. Enterbung # Allgemeines
 
-`§ 582 (1) ABGB.`  
-Das Gericht, das die schriftliche oder mündliche Erklärung des letzten Willens aufnimmt, muss zumindest aus zwei Gerichtsbediensteten bestehen, wobei eine Person an diesem Gericht als Richter tätig sein muss. Der zweite Gerichtsbedienstete kann durch zwei andere Zeugen ersetzt werden.
+`§ 769 ABGB.`  
+Enterbung ist die gänzliche oder teilweise Entziehung des Pflichtteils durch letztwillige Verfügung.
+----
 
-`§ 582 (2) ABGB.`  
-Im Notfall kann sich das Gericht zu der Person begeben, die eine letztwillige Verfügung errichten will, und seinen letzten Willen zu Protokoll nehmen.
+----
+### § 770 ABGB # Enterbungsgründe
 
-### § 583 ABGB # Notarielle Verfügung
+`§ 770 ABGB.`  
+Ein Pflichtteilsberechtigter kann enterbt werden, wenn er  
+`§ 770 Z 1 ABGB.`
+gegen den Verstorbenen eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,  
+`§ 770 Z 2 ABGB.`
+gegen den Ehegatten, eingetragenen Partner, Lebensgefährten oder Verwandten in gerader Linie, die Geschwister des Verstorbenen und deren Kinder, Ehegatten, eingetragenen Partner oder Lebensgefährten sowie die Stiefkinder des Verstorbenen eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,  
+`§ 770 Z 3 ABGB.`
+absichtlich die Verwirklichung des wahren letzten Willens des Verstorbenen vereitelt oder zu vereiteln versucht hat (§ 540),  
+`§ 770 Z 4 ABGB.`
+dem Verstorbenen in verwerflicher Weise schweres seelisches Leid zugefügt hat,  
+`§ 770 Z 5 ABGB.`
+sonst seine familienrechtlichen Pflichten gegenüber dem Verstorbenen gröblich vernachlässigt hat, oder  
+`§ 770 Z 6 ABGB.`
+wegen einer oder mehrerer mit Vorsatz begangener strafbarer Handlungen zu einer lebenslangen oder zwanzigjährigen Freiheitsstrafe verurteilt worden ist.
+----
 
-`§ 583 ABGB.`  
-Eine letztwillige Verfügung kann weiters vor zwei Notaren oder vor einem Notar und zwei Zeugen schriftlich oder mündlich errichtet werden. Die §§ 67 und 70 bis 75 Notariatsordnung sind anzuwenden.
+----
+### § 771 ABGB # Enterbung aus guter Absicht
 
-### § 584 ABGB # Nottestament
+`§ 771 ABGB.`  
+Wenn auf Grund der Verschuldung oder des verschwenderischen Lebensstils eines Pflichtteilsberechtigten die Gefahr besteht, dass der ihm gebührende Pflichtteil ganz oder größtenteils seinen Kindern entgehen wird, kann ihm der Pflichtteil zugunsten seiner Kinder entzogen werden.
+----
 
-`§ 584 (1) ABGB.`  
-Droht aus Sicht des letztwillig Verfügenden unmittelbar die begründete Gefahr, dass er stirbt oder die Testierfähigkeit verliert, bevor er seinen letzten Willen auf andere Weise zu erklären vermag, so kann er seinen letzten Willen in Gegenwart von zwei Zeugen fremdhändig (§ 579) oder mündlich erklären. Eine solche mündliche letztwillige Verfügung muss durch die übereinstimmenden Aussagen der Zeugen bestätigt werden, widrigenfalls diese Erklärung des letzten Willens ungültig ist.
+----
+### § 772 ABGB # Art der Erklärung und Ursächlichkeit des Grundes
 
-`§ 584 (2) ABGB.`  
-Ein so erklärter letzter Wille verliert drei Monate nach Wegfall der Gefahr seine Gültigkeit und gilt als nicht errichtet. Im Zweifel ist damit auch der durch das Nottestament erfolgte Widerruf einer früheren letztwilligen Verfügung (§§ 713 und 714) aufgehoben.
+`§ 772 (1) ABGB.`  
+Die Enterbung kann ausdrücklich oder stillschweigend durch Übergehung in der letztwilligen Verfügung erfolgen.
 
-### § 585 ABGB # Verweisende Verfügung
+`§ 772 (2) ABGB.`  
+Der Enterbungsgrund muss für die Enterbung durch den Verstorbenen ursächlich gewesen sein.
+----
 
-`§ 585 ABGB.`  
-Eine Verfügung des Verstorbenen durch Verweis auf einen Zettel oder auf eine andere Urkunde ist nur wirksam, wenn eine solche Urkunde alle Gültigkeitserfordernisse einer letztwilligen Verfügung erfüllt. Sonst können derartige schriftliche Bemerkungen des Verstorbenen nur zur Auslegung seines Willens herangezogen werden.
+----
+### § 773 ABGB # Widerruf der Enterbung und Verzeihung
 
-### § 586 ABGB # Gemeinschaftliche letztwillige Verfügungen
+`§ 773 (1) ABGB.`  
+Die Enterbung kann widerrufen werden, und zwar ausdrücklich oder stillschweigend durch die nachträgliche letztwillige Bedenkung des vorher Enterbten oder durch den Widerruf der letztwilligen Verfügung, welche die Enterbung anordnet.
 
-`§ 586 (1) ABGB.`  
-In der Regel gilt ein und dieselbe schriftliche letztwillige Verfügung nur für einen Verstorbenen.
+`§ 773 (2) ABGB.`  
+Konnte der Verstorbene die Enterbung auf Grund fehlender Testierfähigkeit nicht mehr widerrufen, so ist die Enterbung unwirksam, wenn der Verstorbene zu erkennen gegeben hat, dass er dem Enterbten verziehen hat.
+----
 
-`§ 586 (2) ABGB.`  
-Allerdings können Ehegatten oder eingetragene Partner in einem Testament einander gegenseitig oder andere Personen als Erben einsetzen. Ein solches Testament ist widerruflich. Aus dem Widerruf der gegenseitigen Erbeinsetzung durch einen Teil kann auf den Widerruf dieser Erbeinsetzung durch den anderen geschlossen werden.
+----
+### § 774 ABGB # Beweislast
 
-### § 587 ABGB # Zeugen
+`§ 774 (1) ABGB.`  
+Das Vorliegen eines Enterbungsgrundes muss der Pflichtteilsschuldner beweisen.
 
-`§ 587 ABGB.`  
-Unmündige Minderjährige, Personen, die auf Grund einer körperlichen oder geistigen Beeinträchtigung nicht fähig sind, entsprechend der jeweiligen Testamentsform einen letzten Willen zu bezeugen, sowie Personen, die die Sprache des letztwillig Verfügenden nicht verstehen, können nicht Zeugen letztwilliger Verfügungen sein. Mündige Minderjährige können nur Zeugen eines Nottestaments sein.
+`§ 774 (2) ABGB.`  
+Bei Vorliegen eines Enterbungsgrundes wird vermutet, dass dieser für die ausdrückliche oder stillschweigende Enterbung ursächlich war.
+----
 
-### § 588 ABGB
+----
+### § 775 ABGB # Enterbung ohne Grund und Übergehung
 
-`§ 588 (1) ABGB.`  
-Ein Erbe oder Vermächtnisnehmer ist für die ihm zugedachte Zuwendung kein fähiger Zeuge, ebenso wenig sein Ehegatte, eingetragener Partner oder Lebensgefährte, seine Eltern, Kinder, Geschwister sowie die Eltern, Kinder und Geschwister des Ehegatten, eingetragenen Partners oder Lebensgefährten des Erben oder Vermächtnisnehmers.
+`§ 775 (1) ABGB.`  
+Hat der Verstorbene den Pflichtteilsberechtigten wegen eines bestimmten Verhaltens, das keinen Enterbungsgrund darstellt, ausdrücklich oder stillschweigend enterbt, so wird vermutet, dass er ihn auf den Pflichtteil setzen und nicht mit einem Erbteil bedenken wollte.
 
-`§ 588 (2) ABGB.`  
-Zeugnisunfähig sind auch gesetzliche Vertreter, vertretungsbefugte Organe, Gesellschafter, Machthaber und Dienstnehmer bedachter Personen oder rechtsfähiger Gesellschaften.
+`§ 775 (2) ABGB.`  
+Wenn der Verstorbene Kinder und deren Nachkommen hatte, von deren Geburt er bei Errichtung einer letztwilligen Verfügung nicht wusste, wird vermutet, dass er ihnen letztwillig etwas zukommen lassen wollte. Hatte er daneben noch andere Kinder, so wird vermutet, dass er das ihm nicht bekannte Kind zumindest gleich bedacht hätte wie das am mindesten bedachte Kind. Wenn das ihm nicht bekannte Kind sein einziges war, gilt die letztwillige Verfügung als widerrufen, es sei denn, dass der Verstorbene diese Verfügung auch in Kenntnis von seinem Kind errichtet hätte.
+----
 
-### § 589 ABGB
+----
+### § 776 ABGB # 2. Pflichtteilsminderung
 
-`§ 589 ABGB.`  
-Die Bestimmungen über die Fähigkeit und Unbefangenheit der Zeugen sind auch auf die Gerichtsbediensteten und Notare anzuwenden, die den letzten Willen aufnehmen.
+`§ 776 (1) ABGB.`  
+Der Verfügende kann den Pflichtteil letztwillig auf die Hälfte mindern, wenn er und der Pflichtteilsberechtigte zu keiner Zeit oder zumindest über einen längeren Zeitraum vor dem Tod des Verfügenden nicht in einem Naheverhältnis standen, wie es zwischen solchen Familienangehörigen gewöhnlich besteht.
 
-### § 590 ABGB # Ausgeschlossenheit des Verfassers
+`§ 776 (2) ABGB.`  
+Das Recht auf Pflichtteilsminderung steht nicht zu, wenn der Verstorbene den Kontakt grundlos gemieden oder berechtigten Anlass für den fehlenden Kontakt gegeben hat.
 
-`§ 590 ABGB.`  
-Der Verfasser einer nicht vom letztwillig Verfügenden handschriftlich geschriebenen Erklärung kann zugleich Zeuge sein, ist aber, wenn der Verfügende nicht lesen kann, vom Vorlesen des letzten Willens ausgeschlossen.
+`§ 776 (3) ABGB.`  
+Die §§ 773 und 774 gelten sinngemäß für die Pflichtteilsminderung; die Pflichtteilsminderung kann auch stillschweigend durch Übergehung in der letztwilligen Verfügung angeordnet worden sein.
+----
 
-### § 591 ABGB
+----
+### § 777 ABGB # 3. Notwendiger Unterhalt des Pflichtteilsberechtigten
 
-`§ 591 ABGB.`  
-Für den bedachten Verfasser einer letztwilligen Verfügung und ihm nahestehende bedachte Personen oder Gesellschaften gilt § 588 entsprechend.
+`§ 777 ABGB.`  
+Selbst wenn ein Pflichtteilsberechtigter erbunwürdig oder enterbt worden ist, steht ihm doch stets der notwendige Unterhalt zu.
+----
 
-### § 601 ABGB # Formungültige letztwillige Verfügungen
+----
+## III. Pflichtteilsermittlung
 
-`§ 601 ABGB.`  
-Wurde bei Errichtung einer letztwilligen Verfügung eine zwingende Formvorschrift nicht eingehalten, so ist die letztwillige Verfügung ungültig.
+### § 778 ABGB # 1. Ermittlung und Berechnung des Pflichtteils
 
-## IV. Vereinbarungen von Todes wegen
+`§ 778 (1) ABGB.`  
+Auf Antrag eines Pflichtteilsberechtigten wird zur Ermittlung des Pflichtteils die gesamte Verlassenschaft genau beschrieben und geschätzt.
 
-### § 602 ABGB # Erbverträge
+`§ 778 (2) ABGB.`  
+Die Schätzung hat auf den Todestag des Verstorbenen abzustellen. Bis zur Erfüllung des Geldpflichtteils stehen dem Pflichtteilsberechtigten die gesetzlichen Zinsen zu.
+----
 
-`§ 602 ABGB.`  
-Erbverträge können nur zwischen Ehegatten, eingetragenen Partnern sowie Personen, die sich verlobt oder die eingetragene Partnerschaft versprochen haben, gültig geschlossen werden. Die Vorschriften hierüber sind im Achtundzwanzigsten Hauptstück enthalten.
+----
+### § 779 ABGB
 
-### § 603 ABGB # Schenkung auf den Todesfall
+`§ 779 (1) ABGB.`  
+Schulden und andere Lasten, die schon zu Lebzeiten des Verstorbenen auf dem Vermögen hafteten, werden von der Verlassenschaft ebenso abgezogen wie alle nach dem Erbfall und vor der Einantwortung entstandenen und mit der Besorgung, Verwaltung und Abhandlung der Verlassenschaft verbundenen Kosten.
 
-`§ 603 ABGB.`  
-Eine Schenkung auf den Todesfall ist auch nach dem Tod des Geschenkgebers als Vertrag anzusehen, wenn er sich kein Widerrufsrecht vertraglich vorbehalten hat und der Vertrag als Notariatsakt aufgenommen wurde. Die Bestimmungen des Achtzehnten Hauptstücks von Schenkungen und § 1253 sind anzuwenden.
+`§ 779 (2) ABGB.`  
+Der Pflichtteil wird aber ohne Rücksicht auf Vermächtnisse und andere aus dem letzten Willen entspringende Lasten berechnet.
+----
 
-## Zehntes Hauptstück # Von der Ersatz- und Nacherbschaft
+----
+### § 780 ABGB # 2. Anrechnung von Zuwendungen auf den Todesfall
 
-### § 604 ABGB # Ersatzerbschaft
+`§ 780 (1) ABGB.`  
+Alles, was der Pflichtteilsberechtigte als Erbteil, Vermächtnis oder nach dem Erbfall als Begünstigter einer vom Verstorbenen errichteten Privatstiftung oder vergleichbaren Vermögensmasse erhält, wird auf den Geldpflichtteil angerechnet, also von diesem abgezogen.
 
-`§ 604 (1) ABGB.`  
-Für den Fall, dass der eingesetzte oder gesetzliche Erbe die Erbschaft nicht erlangt, können ein Ersatzerbe, und wenn auch dieser sie nicht erlangt, ein zweiter oder auch noch weitere Ersatzerben berufen werden.
+`§ 780 (2) ABGB.`  
+Zuwendungen auf den Todesfall sind auf den Zeitpunkt des Todes des Verstorbenen zu bewerten.
+----
 
-`§ 604 (2) ABGB.`  
-Ersatzerben gehen Anwachsungsberechtigten (§ 560) jedenfalls vor.
+----
+### § 781 ABGB # 3. Hinzu- und Anrechnung von Schenkungen unter Lebenden
 
-### § 605 ABGB # Vermutete Ersatzerbschaft
+`§ 781 (1) ABGB.`  
+Schenkungen, die der Pflichtteilsberechtigte oder auch ein Dritter vom Verstorbenen zu dessen Lebzeiten oder auf den Todesfall erhalten hat, sind der Verlassenschaft nach Maßgabe der folgenden Bestimmungen hinzuzurechnen und auf einen allfälligen Geldpflichtteil des Geschenknehmers anzurechnen.
 
-`§ 605 ABGB.`  
-Es wird vermutet, dass der Verstorbene die Nachkommen eingesetzter Kinder zu Ersatzerben einsetzen wollte.
+`§ 781 (2) ABGB.`  
+Als Schenkung in diesem Sinn gelten auch  
+`§ 781 (2) Z 1 ABGB.`
+die Ausstattung eines Kindes,  
+`§ 781 (2) Z 2 ABGB.`
+ein Vorschuss auf den Pflichtteil,  
+`§ 781 (2) Z 3 ABGB.`
+die Abfindung für einen Erb- oder Pflichtteilsverzicht,  
+`§ 781 (2) Z 4 ABGB.`
+die Vermögenswidmung an eine Privatstiftung,  
+`§ 781 (2) Z 5 ABGB.`
+die Einräumung der Stellung als Begünstigter einer Privatstiftung, soweit ihr der Verstorbene sein Vermögen gewidmet hat, sowie  
+`§ 781 (2) Z 6 ABGB.`
+jede andere Leistung, die nach ihrem wirtschaftlichen Gehalt einem unentgeltlichen Rechtsgeschäft unter Lebenden gleichkommt.
+----
 
-### § 606 ABGB # Rechte und Pflichten des Ersatzerben
+----
+### § 782 ABGB # Schenkungen an nicht pflichtteilsberechtigte Personen
 
-`§ 606 ABGB.`  
-Die Rechte und Pflichten des Erben kommen auch dem an seine Stelle tretenden Ersatzerben zu, sofern sie nicht nach dem ausdrücklichen Willen des Verstorbenen oder nach den Umständen des Falles allein die Person des Erben betreffen. Für einschränkende Bedingungen gilt § 702.
+`§ 782 (1) ABGB.`  
+Auf Verlangen eines Pflichtteilsberechtigten sind Schenkungen, die der Verstorbene in den letzten beiden Jahren vor seinem Tod an Personen, die nicht dem Kreis der Pflichtteilsberechtigten angehören (§ 757), wirklich gemacht hat, bei der Berechnung der Verlassenschaft hinzuzurechnen.
 
-### § 607 ABGB # Gegenseitige Ersatzerbschaft
+`§ 782 (2) ABGB.`  
+Dieses Recht steht einem Nachkommen nur bei Schenkungen zu, die der Verstorbene zu einer Zeit gemacht hat, zu der er ein pflichtteilsberechtigtes Kind gehabt hat, dem Ehegatten oder eingetragenen Partner nur bei Schenkungen, die während seiner Ehe oder eingetragenen Partnerschaft mit dem Verstorbenen gemacht worden sind.
+----
 
-`§ 607 ABGB.`  
-Sind allein Miterben gegenseitig zu Ersatzerben berufen, so wird vermutet, dass der Verstorbene die in der Einsetzung bestimmten Teile auch auf die Ersatzerbschaft ausdehnen wollte. Ist aber in der Ersatzerbschaft außer den Miterben auch eine andere Person zum Ersatzerben berufen, so fällt der frei gewordene Erbteil allen zu gleichen Teilen zu.
+----
+### § 783 ABGB # Schenkungen an Pflichtteilsberechtigte
 
-### § 608 ABGB # Nacherbschaft
+`§ 783 (1) ABGB.`  
+Auf Verlangen eines Pflichtteilsberechtigten oder eines Erben sind Schenkungen an Personen, die dem Kreis der Pflichtteilsberechtigten angehören (§ 757), der Verlassenschaft hinzuzurechnen und auf den Pflichtteil der beschenkten Person oder derjenigen Person, die an deren Stelle tritt, anzurechnen. Ein Geschenknehmer, der im Zeitpunkt der Schenkung allgemein zum Kreis der pflichtteilsberechtigten Personen gehörte (§ 757) und dem deshalb kein Pflichtteil zukommt, weil er auf seinen Pflichtteil verzichtet hat oder die Erbschaft ausgeschlagen hat, kann ebenfalls die Hinzu- und Anrechnung von Schenkungen an Pflichtteilsberechtigte verlangen.
 
-`§ 608 (1) ABGB.`  
-Der letztwillig Verfügende kann einen Erben so einsetzen, dass dieser erst nach einem anderen Erben erbt. Der Nacherbe ist im Zweifel auch Ersatzerbe.
+`§ 783 (2) ABGB.`  
+Die Hinzu- und Anrechnung kann auch ein Vermächtnisnehmer verlangen, soweit er zur Pflichtteilserfüllung beizutragen hat oder einen verhältnismäßigen Abzug erleidet.
+----
 
-`§ 608 (2) ABGB.`  
-Hat der Verstorbene nichts anderes verfügt, so tritt der Nacherbfall mit dem Tod des Vorerben ein.
+----
+### § 784 ABGB # Ausnahmen
 
-### § 609 ABGB # Nacherbschaft auf den Überrest
+`§ 784 ABGB.`  
+Schenkungen, die der Verstorbene aus Einkünften ohne Schmälerung des Stammvermögens, zu gemeinnützigen Zwecken, in Entsprechung einer sittlichen Pflicht oder aus Gründen des Anstandes gemacht hat, sind weder hinzu- noch anzurechnen, sofern der Verstorbene und der Geschenknehmer nichts anderes vereinbart haben.
+----
 
-`§ 609 ABGB.`  
-Eine Nacherbschaft auf den Überrest liegt vor, wenn der Nacherbe nach dem Willen des Verstorbenen nur das erhalten soll, was beim Ableben des Vorerben noch übrig ist.
+----
+### § 785 ABGB
 
-### § 610 ABGB # Umdeutung von Testieranordnungen
+`§ 785 ABGB.`  
+Schenkungen an einen Pflichtteilsberechtigten sind auf dessen Pflichtteil insoweit nicht anzurechnen, als der Verstorbene den Erlass dieser Anrechnung letztwillig verfügt oder mit ihm vereinbart hat. In einem solchen Fall ist die von der Anrechnung befreite Zuwendung bei der Ermittlung des Pflichtteils dieses von der Anrechnung befreiten Pflichtteilsberechtigten nicht hinzuzurechnen. Der Vertrag über den Erlass der Anrechnung bedarf der Schriftform; die Aufhebung dieses Vertrags bedarf der Formvorschriften für einen Pflichtteilsverzicht.
+----
 
-`§ 610 (1) ABGB.`  
-Hat der letztwillig Verfügende dem Erben verboten oder zugunsten einer bestimmten Person geboten, über die Verlassenschaft zu testieren, so ist dies im Zweifel in eine Nacherbschaft auf den Überrest umzudeuten, und zwar im Fall des Verbots zugunsten der gesetzlichen Erben, im Fall des Gebots zugunsten der bestimmten Person.
+----
+### § 786 ABGB # Auskunftsanspruch
 
-`§ 610 (2) ABGB.`  
-Das Verbot, eine Sache zu veräußern, schließt im Zweifel das Recht, darüber letztwillig zu verfügen, nicht aus.
+`§ 786 ABGB.`  
+Wer berechtigt ist, die Hinzurechnung bestimmter Schenkungen zu verlangen, hat in Bezug auf diese einen Auskunftsanspruch gegen die Verlassenschaft, die Erben und den Geschenknehmer.
+----
 
-### § 611 ABGB # Nacherbschaft bei Zeitgenossen
+----
+### § 787 ABGB # Rechenmethode
 
-`§ 611 ABGB.`  
-Wenn die Nacherben Zeitgenossen des letztwillig Verfügenden sind, kann er sie ohne zahlenmäßige Beschränkung als Nacherben einsetzen. Zeitgenossen sind natürliche Personen, die zum Zeitpunkt der Errichtung der Nacherbschaft bereits gezeugt (§ 22) oder geboren sind.
+`§ 787 (1) ABGB.`  
+Eine Schenkung, die der Verlassenschaft nach den vorstehenden Bestimmungen hinzugerechnet wird, ist ihr rechnerisch hinzuzuschlagen. Von der dadurch vergrößerten Verlassenschaft sind die Pflichtteile zu ermitteln.
 
-### § 612 ABGB # Einschränkung der Nacherbschaft
+`§ 787 (2) ABGB.`  
+Von einem auf solche Art und Weise vergrößerten Pflichtteil ist die Schenkung an den pflichtteilsberechtigten Geschenknehmer, soweit sie auf seinen Pflichtteil anzurechnen ist, abzuziehen.
+----
 
-`§ 612 ABGB.`  
-Sind die Nacherben im Zeitpunkt der Errichtung der letztwilligen Verfügung noch keine Zeitgenossen des Verfügenden, so ist die Nacherbschaft bei Geld und anderen beweglichen Sachen auf zwei Nacherbfälle, bei unbeweglichen Sachen auf einen Nacherbfall beschränkt.
+----
+### § 788 ABGB # Bewertung der Schenkung
 
-### § 613 ABGB # Rechte des Vorerben
+`§ 788 ABGB.`  
+Die geschenkte Sache ist auf den Zeitpunkt zu bewerten, in dem die Schenkung wirklich gemacht wurde. Dieser Wert ist sodann auf den Todeszeitpunkt nach einem von der Statistik Austria verlautbarten Verbraucherpreisindex anzupassen.
+----
 
-`§ 613 (1) ABGB.`  
-Bis zum Eintritt der Nacherbschaft kommt dem eingesetzten Vorerben das eingeschränkte Eigentumsrecht mit den Rechten und Verbindlichkeiten eines Fruchtnießers zu.
+----
+## IV. Haftung des Geschenknehmers
 
-`§ 613 (2) ABGB.`  
-Verfügungen über Sachen der von der Nacherbschaft erfassten Verlassenschaft sind mit der Zustimmung des Nacherben zulässig, sonst nur zur Erfüllung von Verbindlichkeiten der Verlassenschaft, zur Vermeidung von Schäden an derselben oder soweit sie im Rahmen der ordentlichen Verwaltung erfolgen.
+### § 789 ABGB
 
-`§ 613 (3) ABGB.`  
-Erlangt der Vorerbe durch die Verfügung über eine Sache der von der Nacherbschaft erfassten Verlassenschaft Geld oder eine andere Sache, so wird diese Ersatzsache im Zweifel Teil der Verlassenschaft.
+`§ 789 (1) ABGB.`  
+Wenn bei Bestimmung der Pflichtteile Schenkungen hinzu- oder angerechnet werden, die Verlassenschaft aber zur Deckung der Pflichtteile nicht ausreicht, kann der verkürzte Pflichtteilsberechtigte vom Geschenknehmer die Zahlung des Fehlbetrags verlangen. Dies gilt nicht für die Ausstattung, die ein Kind erhalten hat, soweit es auf diese nach § 1220 einen Anspruch hatte.
 
-`§ 613 (4) ABGB.`  
-Ist jedoch die angeordnete Nacherbschaft eine solche auf den Überrest, so kann der Vorerbe wie jeder Eigentümer über Sachen der Verlassenschaft unter Lebenden verfügen.
+`§ 789 (2) ABGB.`  
+Mehrere Geschenknehmer haften für den Ausfall am Pflichtteil anteilig im Verhältnis des Wertes ihrer Geschenke.
 
-### § 614 ABGB # Auslegung einer Ersatz- oder Nacherbschaft
+`§ 789 (3) ABGB.`  
+Bezahlt der Geschenknehmer den Fehlbetrag oder den Anteil, für den er nach Abs. 2 einzustehen hat, nicht, so haftet er nur mit der zugewendeten Sache.
+----
 
-`§ 614 ABGB.`  
-Ist eine Ersatz- oder Nacherbschaft undeutlich ausgedrückt, so ist sie auf eine solche Art auszulegen, dass die Freiheit des Erben, über das Eigentum zu verfügen, am wenigsten eingeschränkt wird. Dies gilt auch für die Frage, ob überhaupt eine Ersatz- oder Nacherbschaft angeordnet wurde.
+----
+### § 790 ABGB
 
-### § 615 ABGB # Erlöschen der Ersatz- und Nacherbschaft
+`§ 790 (1) ABGB.`  
+Besitzt der Geschenknehmer die zugewendete Sache oder ihren Wert nicht mehr oder hat sich ihr Wert vermindert, so haftet er mit seinem gesamten Vermögen, wenn er diesen Verlust unredlich zugelassen hat.
 
-`§ 615 (1) ABGB.`  
-Eine Ersatzerbschaft erlischt im Zweifel, sobald der eingesetzte Erbe die Erbschaft angetreten hat. Eine Nacherbschaft erlischt, wenn kein berufener Nacherbe mehr vorhanden ist oder wenn sie unter einer aufschiebenden Bedingung errichtet wurde, die endgültig nicht eintreten kann.
+`§ 790 (2) ABGB.`  
+Auf den Anspruch auf Zahlung des Fehlbetrags sind §§ 766 bis 768 über die Stundung des Pflichtteils sinngemäß anzuwenden.
+----
 
-`§ 615 (2) ABGB.`  
-Das Recht eines Nacherben geht im Zweifel auch dann auf seine Erben über (§ 537 Abs. 1), wenn er den Eintritt des Nacherbfalls nicht erlebt.
+----
+### § 791 ABGB
 
-### § 616 ABGB
+`§ 791 (1) ABGB.`  
+Ein pflichtteilsberechtigter Geschenknehmer (§ 758) haftet einem anderen verkürzten Pflichtteilsberechtigten nur insoweit, als er infolge der Schenkung mehr als den ihm bei Berücksichtigung der hinzuzurechnenden Schenkungen gebührenden Pflichtteil erhalten hat.
 
-`§ 616 (1) ABGB.`  
-Ist für eine vermeintlich testierunfähige Person ein Nacherbe bestimmt, so ist die Nacherbschaft im Zweifel ungültig, wenn diese Person im Zeitpunkt der Errichtung der letztwilligen Verfügung testierfähig war.
+`§ 791 (2) ABGB.`  
+Ist der Geschenknehmer vorverstorben, hat er auf seinen Pflichtteil verzichtet oder die Erbschaft ausgeschlagen, so steht ihm oder seinen Erben die Haftungsfreistellung in Höhe seines hypothetischen Pflichtteils, der zum Todeszeitpunkt des Verstorbenen zu berechnen ist, zu. Die Schenkung ist selbst dann hinzuzurechnen, wenn der Verstorbene die Anrechnung auf den Pflichtteil erlassen hat.
 
-`§ 616 (2) ABGB.`  
-Ist für eine tatsächlich testierunfähige Person ein Nacherbe bestimmt, so erlischt die Nacherbschaft im Zweifel, wenn diese Person die Testierfähigkeit später erlangt. Die Nacherbschaft lebt nicht wieder auf, wenn sie später wieder testierunfähig wird.
+`§ 791 (3) ABGB.`  
+Soweit der Geschenknehmer oder dessen Erbe eine Haftungsbeschränkung bereits geltend gemacht hat, kann eine Person, der der Pflichtteil anstelle des Pflichtteilsberechtigten zufällt oder deren Pflichtteil durch den Wegfall des Pflichtteilsberechtigten erhöht wird, keine weitere solche Haftungsbeschränkung geltend machen.
+----
 
-### § 617 ABGB
+----
+### § 792 ABGB
 
-`§ 617 ABGB.`  
-Die von einem letztwillig Verfügenden seinem Kind in einem Zeitpunkt angeordnete Ersatz- oder Nacherbschaft, in dem dieses noch keine Kinder hatte, erlischt im Zweifel, wenn es später doch erbfähige Kinder hinterlassen hat.
+`§ 792 ABGB.`  
+Wenn der Geschenknehmer im Zeitpunkt der Schenkung nicht zum Kreis der pflichtteilsberechtigten Personen gehörte (§ 757), haftet er nicht, wenn der Verstorbene die Schenkung mehr als zwei Jahre vor seinem Tod wirklich gemacht hat.
+----
 
-## Elftes Hauptstück # Vermächtnisse # I. Grundsätze
+----
+## Fünfzehntes Hauptstück # Erwerb einer Erbschaft
 
-### § 647 ABGB # Berufung zum Vermächtnisnehmer
+### § 797 ABGB # I. Voraussetzungen für den Erwerb einer Erbschaft # Einantwortungsprinzip
 
-`§ 647 (1) ABGB.`  
-Ein Vermächtnis (§ 535) gründet sich auf einen Erb- oder Vermächtnisvertrag, auf den gültig erklärten Willen des Verstorbenen oder auf das Gesetz.
+`§ 797 (1) ABGB.`  
+Niemand darf eine Erbschaft eigenmächtig in Besitz nehmen. Der Erwerb einer Erbschaft erfolgt in der Regel nach Durchführung des Verlassenschaftsverfahrens durch die Einantwortung der Verlassenschaft, das ist die Übergabe in den rechtlichen Besitz der Erben.
 
-`§ 647 (2) ABGB.`  
-Die Bestimmungen über die Vererblichkeit des Erbrechts (§ 537) und die Erbfähigkeit (§§ 538 bis 543) sowie über die Ausschlagung der Erbschaft (§§ 803 ff.) sind entsprechend anzuwenden.
+`§ 797 (2) ABGB.`  
+Wie weit das Gericht nach einem Todesfall von Amts wegen vorzugehen hat und welche Fristen und Sicherungsmittel bei der Abhandlung zu beachten sind, bestimmen die Verfahrensgesetze. Sie regeln auch, wie ein Erbe oder Gläubiger Ansprüche gegen die Verlassenschaft geltend machen kann.
+----
 
-### § 648 ABGB # Erbe und Vermächtnisnehmer
+----
+### § 798 ABGB # Überlassung der Verlassenschaft
 
-`§ 648 (1) ABGB.`  
-Einem Erben kann auch ein Vermächtnis zugedacht werden. Insoweit wird der Erbe als Vermächtnisnehmer behandelt. Im Zweifel ist ein solches Vermächtnis nicht auf den Anteil des begünstigten Erben anzurechnen und belastet alle Erben nach ihrer Erbquote (Vorausvermächtnis).
+`§ 798 ABGB.`  
+Überlässt das Gericht eine überschuldete Verlassenschaft an Zahlungs statt, so bildet der Überlassungsbeschluss den Titel zum Erwerb. Das Gleiche gilt für die gerichtlich erteilte Ermächtigung, Verlassenschaftsvermögen zu übernehmen.
+----
 
-`§ 648 (2) ABGB.`  
-Wenn die Anrechnung des Vermächtnisses auf den Erbteil ausdrücklich angeordnet wurde oder sich aus der Auslegung des letzten Willens ergibt (Hineinvermächtnis), liegt darin im Zweifel eine Teilungsanordnung.
+----
+### § 799 ABGB # Nachweis des Rechtstitels; Erbantrittserklärung
 
-`§ 648 (3) ABGB.`  
-Übersteigt der Wert des Hineinvermächtnisses den letztwillig zugedachten Erbteil, so erhöht sich im Zweifel der Erbteil dieses Erben entsprechend. Im selben Ausmaß vermindern sich die Erbteile der übrigen eingesetzten Erben verhältnismäßig. Im Zweifel kommt es auf den Wert des Hineinvermächtnisses im Zeitpunkt der Errichtung der letztwilligen Verfügung an.
+`§ 799 ABGB.`  
+Wer eine Erbschaft erwerben will, muss dem Gericht den Rechtstitel (Erbvertrag, letztwillige Verfügung oder Gesetz) nachweisen und ausdrücklich erklären, die Erbschaft anzutreten.
+----
 
-### § 649 ABGB # Vermächtnisschuldner
+----
+### § 800 ABGB # Bedingte und unbedingte Erbantrittserklärung
 
-`§ 649 (1) ABGB.`  
-Aufgrund des Vermächtnisses erwirbt der Vermächtnisnehmer eine Forderung gegen die Verlassenschaft und nach der Einantwortung gegen die Erben.
+`§ 800 ABGB.`  
+Die Erbantrittserklärung kann unbedingt oder bedingt, also unter dem Vorbehalt der Errichtung eines Inventars, abgegeben werden.
+----
 
-`§ 649 (2) ABGB.`  
-Im Zweifel haften die Erben zur ungeteilten Hand. Sie haben im Zweifel untereinander im Verhältnis ihrer Erbteile zur Leistung des Vermächtnisses beizutragen, selbst wenn die Sache eines Miterben vermacht worden ist. Die Leistung des Vermächtnisses kann aber auch einem Miterben allein oder einem Vermächtnisnehmer aufgetragen werden.
+----
+### § 801 ABGB # Wirkung der unbedingten Erbantrittserklärung
 
-### § 650 ABGB # Untervermächtnis
+`§ 801 ABGB.`  
+Die unbedingte Erbantrittserklärung bewirkt, dass der Erbe persönlich allen Gläubigern des Verstorbenen für ihre Forderungen und allen Vermächtnisnehmern für ihre Vermächtnisse haftet, selbst wenn die Verlassenschaft zur Deckung dieser Lasten nicht hinreicht.
+----
 
-`§ 650 ABGB.`  
-Ein Vermächtnisnehmer kann sich von der vollständigen Erfüllung des ihm aufgetragenen weiteren Vermächtnisses nicht mit der Begründung befreien, dass es den Wert des ihm zugedachten Vermächtnisses übersteigt. Nimmt er das Vermächtnis nicht an, so muss derjenige, dem es zufällt, das Untervermächtnis erfüllen oder das ihm zugefallene Vermächtnis dem darauf gewiesenen Untervermächtnisnehmer herausgeben.
+----
+### § 802 ABGB # Wirkung der bedingten Erbantrittserklärung
 
-### § 651 ABGB # Verteilungsvermächtnis
+`§ 802 ABGB.`  
+Wird die Erbschaft mit Vorbehalt des Inventars angetreten, so hat das Gericht auf Kosten der Verlassenschaft ein Inventar zu errichten. Ein solcher Erbe haftet den Gläubigern und Vermächtnisnehmern nur so weit, als die Verlassenschaft für ihre und auch seine eigenen Forderungen, das Erbrecht ausgenommen, hinreicht.
+----
 
-`§ 651 ABGB.`  
-Wer ein Vermächtnis einer gewissen Personengruppe, etwa seinen Verwandten, seinen Dienstnehmern oder bedürftigen Menschen, zukommen lassen will, kann die Verteilung, welchen Personen was zukommen soll, dem Erben oder einem Dritten überlassen. Ist dazu nichts bestimmt, so kann der Erbe die Verteilung vornehmen.
+----
+### § 803 ABGB # Berechtigung zum Antritt oder zur Ausschlagung der Erbschaft
 
-### § 652 ABGB # Ersatz- und Nachvermächtnis
+`§ 803 (1) ABGB.`  
+Letztwillige Anordnungen, wonach der Erbe die Erbschaft nur unbedingt antreten darf oder bei Abgabe einer bedingten Erbantrittserklärung oder bei Antragstellung auf Inventarisierung der Verlassenschaft verliert, sind ungültig und gelten als nicht beigesetzt.
 
-`§ 652 ABGB.`  
-Es kann auch ein Ersatz- oder Nachvermächtnis angeordnet werden; die Bestimmungen des Zehnten Hauptstücks sind darauf sinngemäß anzuwenden.
+`§ 803 (2) ABGB.`  
+Auf das Recht, eine Erbschaft bedingt oder unbedingt anzutreten, sie auszuschlagen oder die Errichtung eines Inventars zu verlangen, kann im Voraus nicht verzichtet werden.
+----
 
-### § 653 ABGB # Gegenstand eines Vermächtnisses
+----
+### § 804 ABGB
 
-`§ 653 (1) ABGB.`  
-Jede Sache, die im Verkehr steht, vererblich ist und den Inhalt einer selbstständigen Forderung bilden kann, kann Gegenstand eines Vermächtnisses sein.
+`§ 804 ABGB.`  
+Auch ein Pflichtteilsberechtigter kann die Errichtung des Inventars beantragen.
+----
 
-`§ 653 (2) ABGB.`  
-Ist die vermachte Sache verpfändet oder sonst wie belastet, so hat der Vermächtnisnehmer auch die darauf haftenden Lasten zu übernehmen.
+----
+### § 805 ABGB
 
-### § 654 ABGB # Unmöglichkeit
+`§ 805 ABGB.`  
+Der Erbe kann die Erbschaft auch ausschlagen.
+----
 
-`§ 654 ABGB.`  
-Ist die Leistung des Vermächtnisses ohne Verschulden des Vermächtnisschuldners oder eines Dritten unmöglich, so erhält der Vermächtnisnehmer keinen Ersatz. Werden aber verkehrsfähige Sachen vermacht, die der Vermächtnisnehmer aus rechtlichen Gründen nicht erwerben kann, so gebührt ihm der Verkehrswert.
+----
+### § 806 ABGB
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ABGB.014](BG.ABGB.014.md))*
+`§ 806 ABGB.`  
+Der Erbe kann weder die Ausschlagung noch seine Erbantrittserklärung widerrufen noch seine unbedingte in eine bedingte Erbantrittserklärung ändern und sich die Errichtung des Inventars vorbehalten.
+----
+
+----
+### § 807 ABGB
+
+`§ 807 ABGB.`  
+Wenn auch nur ein Miterbe eine bedingte Erbantrittserklärung abgibt, so ist ein Inventar zu errichten, das der Verlassenschaftsabhandlung zu Grunde zu legen ist. Nach Errichtung eines Inventars genießt auch ein Erbe, der eine unbedingte Erbantrittserklärung abgegeben hat, die damit verbundene Haftungsbeschränkung.
+----
+
+----
+### § 808 ABGB
+
+`§ 808 (1) ABGB.`  
+Wird eine Person zum Erben eingesetzt, der auch ohne letztwillige Verfügung das Erbrecht ganz oder zum Teil gebührt hätte, so ist sie nicht befugt, sich auf die gesetzliche Erbfolge zu berufen, wenn dadurch vom Verstorbenen getroffene Anordnungen unausgeführt blieben. In einem solchen Fall muss sie die Erbschaft entweder aus dem letzten Willen antreten oder sie zur Gänze ausschlagen.
+
+`§ 808 (2) ABGB.`  
+Eine pflichtteilsberechtigte Person kann die Erbschaft nicht unter dem Vorbehalt ihres Pflichtteiles ausschlagen.
+----
+
+----
+### § 809 ABGB # Übertragung des Erbrechts
+
+`§ 809 ABGB.`  
+Stirbt der Erbe, bevor er die angefallene Erbschaft angetreten oder ausgeschlagen hat, so treten seine Erben in das Recht, die Erbschaft anzunehmen oder auszuschlagen, ein (§ 537).
+----
+
+----
+## II. Vorkehrungen vor Einantwortung
+
+### § 810 ABGB # 1. Verwaltung
+
+`§ 810 (1) ABGB.`  
+Der Erbe, der bei Antretung der Erbschaft sein Erbrecht hinreichend ausweist, hat das Recht, das Verlassenschaftsvermögen zu benützen, zu verwalten und die Verlassenschaft zu vertreten, solange das Verlassenschaftsgericht nichts anderes anordnet. Trifft dies auf mehrere Personen zu, so üben sie dieses Recht gemeinsam aus, soweit sie nichts anderes vereinbaren.
+
+`§ 810 (2) ABGB.`  
+Verwaltungs- und Vertretungshandlungen vor Abgabe von Erbantrittserklärungen zur gesamten Verlassenschaft sowie alle Veräußerungen von Gegenständen aus dem Verlassenschaftsvermögen bedürfen der Genehmigung des Verlassenschaftsgerichts, wenn sie nicht zum ordentlichen Wirtschaftsbetrieb gehören. Die Genehmigung ist zu versagen, wenn die Handlung für die Verlassenschaft offenbar nachteilig wäre.
+
+`§ 810 (3) ABGB.`  
+Ist nach der Aktenlage die Errichtung eines Inventars zu erwarten, so dürfen Vermögensgegenstände, deren Veräußerung nicht zum ordentlichen Wirtschaftsbetrieb gehört, erst veräußert werden, nachdem sie in ein Inventar (Teilinventar) aufgenommen worden sind.
+----
+
+----
+### § 811 ABGB # 2. Sicherstellung oder Befriedigung der Gläubiger
+
+`§ 811 ABGB.`  
+Die Gläubiger können die Befriedigung oder Sicherstellung ihrer Forderungen gegen die Verlassenschaft bereits vor Abgabe einer Erbantrittserklärung verlangen und zur Vertretung der Verlassenschaft die Bestellung eines Kurators beantragen.
+----
+
+----
+### § 812 ABGB # 3. Absonderung der Verlassenschaft vom Vermögen des Erben
+
+`§ 812 (1) ABGB.`  
+Wenn die Forderung eines Gläubigers der Verlassenschaft durch Vermengung der Verlassenschaft mit dem Vermögen des Erben gefährdet wäre, kann der Gläubiger vor der Einantwortung beantragen, dass ein seiner Forderung entsprechender Teil der Verlassenschaft vom Vermögen des Erben abgesondert, vom Gericht verwahrt oder von einem Kurator verwaltet wird, bis sein Anspruch berichtigt ist.
+
+`§ 812 (2) ABGB.`  
+In einem solchen Fall haftet der Erbe den Separationsgläubigern auch nach Abgabe einer unbedingten Erbantrittserklärung nur mit der abgesonderten Verlassenschaft, den übrigen Gläubigern aber wie ein bedingt erbantrittserklärter Erbe.
+
+`§ 812 (3) ABGB.`  
+Die Absonderung kann durch eine angemessene Sicherheitsleistung des Erben, die auch der Verlassenschaft entnommen werden kann, abgewendet oder aufgehoben werden. Die Absonderung ist weiters von Amts wegen oder auf Antrag aufzuheben, wenn sie zu Unrecht bewilligt wurde, ihre Voraussetzungen weggefallen sind oder die Separationsgläubiger ihre Ansprüche nicht ohne Verzug gehörig betreiben.
+----
+
+----
+### § 813 ABGB # 4. Aufforderung der Verlassenschaftsgläubiger
+
+`§ 813 ABGB.`  
+Der Erbe oder Verlassenschaftskurator kann zur Feststellung des Schuldenstandes beantragen, dass mit Edikt alle Gläubiger aufgefordert werden, ihre Forderungen binnen einer zu bestimmenden angemessenen Frist anzumelden. Dieses Edikt hat den Hinweis zu enthalten, dass bis zum Ablauf der Frist mit der Befriedigung der Gläubiger innegehalten werden kann.
+----
+
+----
+### § 814 ABGB # Wirkung der Aufforderung oder ihrer Unterlassung
+
+`§ 814 ABGB.`  
+Die gerichtliche Aufforderung bewirkt, dass den Gläubigern, die ihre Forderung nicht fristgerecht angemeldet haben, gegen die Verlassenschaft kein weiterer Anspruch zusteht, wenn sie durch Befriedigung der angemeldeten Forderungen erschöpft ist. Das gilt nicht, soweit die Forderung pfandrechtlich gesichert ist.
+----
+
+----
+### § 815 ABGB
+
+`§ 815 ABGB.`  
+Wenn der Erbe die Aufforderung unterlässt oder nur einige Gläubiger befriedigt, ohne auf die Rechte der anderen Rücksicht zu nehmen, und deshalb einige Gläubiger wegen Überschuldung der Verlassenschaft unbefriedigt bleiben, haftet der Erbe diesen Gläubigern, ungeachtet einer bedingten Erbantrittserklärung, mit seinem ganzen Vermögen für denjenigen Betrag, den sie bei gehöriger Aufforderung oder Befriedigung erhalten hätten.
+----
+
+----
+### § 816 ABGB # 5. Nachweis über die Erfüllung des letzten Willens # Testamentsvollstrecker
+
+`§ 816 ABGB.`  
+Der Verstorbene kann letztwillig einen Vollstrecker seines letzten Willens ernennen. Übernimmt der Testamentsvollstrecker diese Aufgabe, so hat er entweder als Machthaber die Anordnungen des Verstorbenen selbst zu vollziehen oder deren Einhaltung zu überwachen und den säumigen Erben zur Vollziehung derselben zu veranlassen.
+----
+
+----
+### § 817 ABGB # Nachweis der Testamentserfüllung
+
+`§ 817 ABGB.`  
+Ist kein Testamentsvollstrecker ernannt oder nimmt dieser seine Ernennung nicht an, so hat der Erbe dem Gericht nachzuweisen, dass er den Willen des Verstorbenen möglichst erfüllt oder Sicherheit geleistet hat.
+----
+
+`END-OF-DATA-SET`

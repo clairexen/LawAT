@@ -1,77 +1,16 @@
 # BG.ZPO.007 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ZPO  
+**Kurztitel:** ['ZPO']  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.007.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ZPO.006](BG.ZPO.006.md))*
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
-## Dritter Titel. # Sitzungspolizei.
-
-### § 197 ZPO
-Bei Verhandlungen vor Gerichtshöfen hat der Vorsitzende des Senates für die Aufrechthaltung der Ordnung bei der mündlichen Verhandlung zu sorgen. Er ist berechtigt, Personen, welche durch unangemessenes Betragen die Verhandlung stören, zur Ordnung zu ermahnen und die zur Aufrechthaltung der Ordnung nöthigen Verfügungen zu treffen.
-
-### § 198 ZPO
-
-`§ 198 (1) ZPO.`  
-Äußerungen des Beifalles und der Missbilligung sind untersagt.
-
-`§ 198 (2) ZPO.`  
-Wer sich trotz Ermahnung einer Störung der Verhandlung schuldig macht, kann von der Verhandlung entfernt werden. Die Entfernung einer an der Verhandlung betheiligten Person kann erst nach vorausgegangener Androhung und Erinnerung an die Rechtsfolgen einer solchen Maßregel angeordnet werden.
-
-`§ 198 (3) ZPO.`  
-Die Partei muss insbesondere auf die Möglichkeit aufmerksam gemacht werden, dass infolge ihrer Entfernung gegen sie ein Versäumungsurtheil erlassen werden kann.
-
-`§ 198 (4) ZPO.`  
-Wenn eine an der Verhandlung betheiligte Person entfernt wurde, kann auf Antrag gegen sie in gleicher Weise verfahren werden, als wenn sie sich freiwillig entfernt hätte.
-
-### § 199 ZPO
-
-`§ 199 (1) ZPO.`  
-Demjenigen, der sich bei der Verhandlung einer gröberen Ungebür, insbesondere einer Beleidigung der Mitglieder des Gerichtes, einer Partei, eines Vertreters, Zeugen oder Sachverständigen schuldig macht, kann, vorbehaltlich der strafgerichtlichen oder disciplinaren Verfolgung, eine Ordnungsstrafe bis zu 2 000 Euro durch Beschluss des Senates auferlegt werden.
-
-`§ 199 (2) ZPO.`  
-Gegen denjenigen, welcher sich den zur Erhaltung der Ordnung und Ruhe getroffenen Anordnungen des Vorsitzenden oder des Senates widersetzt, kann Haft bis zu drei Tagen verhängt werden.
-
-### § 200 ZPO
-
-`§ 200 (1) ZPO.`  
-Macht sich ein Processbevollmächtigter einer Störung der Verhandlung (§. 198) oder einer Ungebür oder Beleidigung (§. 199) schuldig, so kann er vom Senate mit einem Verweise oder einer Geldstrafe bis zum Betrage von 2 000 Euro belegt werden.
-
-`§ 200 (2) ZPO.`  
-Setzt der Bevollmächtigte sein ungehöriges Benehmen fort, oder widersetzt er sich den zur Erhaltung der Ordnung und Ruhe getroffenen Anordnungen des Vorsitzenden oder des Senates, so kann ihm durch Beschluss des Senates das Wort entzogen und, wenn nöthig, die Partei aufgefordert werden, einen anderen Bevollmächtigten zu bestellen; kann dies nicht sogleich geschehen, so ist die Tagsatzung von amtswegen zu erstrecken. Die Kosten der vereitelten Tagsatzung und der Erstreckung treffen den schuldtragenden Bevollmächtigten.
-
-`§ 200 (3) ZPO.`  
-Über einen Rechtsanwalt oder einen Notar darf keine Geldstrafe (Abs. 1) verhängt werden. Sein Verhalten ist der zuständigen Disziplinarbehörde bekanntzugeben.
-
-### § 201 ZPO
-
-`§ 201 (1) ZPO.`  
-Die nach den vorstehenden Bestimmungen gefassten Beschlüsse sind sofort vollstreckbar.
-
-`§ 201 (2) ZPO.`  
-Im Verfahren vor Gerichtshöfen kann die Entfernung einer an der Verhandlung betheiligten Person nur durch Beschluss des Senates verhängt werden.
-
-### § 203 ZPO
-Die in diesem Titel dem Vorsitzenden des Senates und dem Senate beigelegten Befugnisse stehen auch dem Einzelrichter, vor welchem die mündliche Verhandlung stattfindet, und dem ersuchten oder beauftragten Richter bei den vor ihnen stattfindenden Verhandlungen und Beweisaufnahmen, sowie bei Vornahme von Amtshandlungen außerhalb einer mündlichen Verhandlung zu.
-
-## Vierter Titel. # Vergleich.
-
-### § 204 ZPO
-
-`§ 204 (1) ZPO.`  
-Das Gericht kann bei der mündlichen Verhandlung in jeder Lage der Sache auf Antrag oder von amtswegen eine gütliche Beilegung des Rechtsstreites oder die Herbeiführung eines Vergleiches über einzelne Streitpunkte versuchen. Hiebei ist, wenn dies zweckmäßig erscheint, auch auf Einrichtungen hinzuweisen, die zur einvernehmlichen Lösung von Konflikten geeignet sind. Kommt ein Vergleich zustande, so ist dessen Inhalt auf Antrag ins Verhandlungsprotokoll einzutragen.
-
-`§ 204 (2) ZPO.`  
-Zum Zwecke des Vergleichsversuches oder der Aufnahme des Vergleiches können die Parteien, sofern sie zustimmen, vor einen beauftragten oder ersuchten Richter verwiesen werden. Inwiefern wegen Vergleichsvorschlägen oder anhängiger Vergleichsverhandlungen die Aufnahme oder Fortführung der Verhandlung aufgeschoben werden könne, ist nach den Bestimmungen der §§. 128 und 134 zu beurtheilen.
-
-### § 206 ZPO
-Den Parteien sind auf ihr Verlangen und auf ihre Kosten Ausfertigungen des Vergleichsprotokolles oder des den Vergleich enthaltenden Verhandlungsprotokolles zu ertheilen.
-
+----
 ## Fünfter Titel. # Protokolle. # Verhandlungsprotokolle.
 
 ### § 207 ZPO # Verhandlungsprotokoll
@@ -81,7 +20,9 @@ Den Parteien sind auf ihr Verlangen und auf ihre Kosten Ausfertigungen des Vergl
 
 `§ 207 (2) ZPO.`  
 Bei Streitverhandlungen, bei denen ein durch Urteilsvermerk (§ 418 Abs. 1) beurkundetes Versäumungsurteil gefällt wird, wird das Verhandlungsprotokoll durch den Urteilsvermerk ersetzt. Der Kläger kann gegen die Angaben des Urteilsvermerks Widerspruch im Sinne des § 210 einlegen.
+----
 
+----
 ### § 208 ZPO # Inhalt des Verhandlungsprotokolls
 
 `§ 208 (1) ZPO.`  
@@ -104,7 +45,9 @@ Das Gericht kann auf Antrag oder von Amts wegen anordnen, dass einzelne Teile de
 
 `§ 208 (5) ZPO.`  
 In der Verhandlung abgegebene Erklärungen und gestellte Anträge der Parteien sowie verkündete gerichtliche Entscheidungen können auch in besonderen Schriftstücken dem Protokoll als Anlagen beigefügt werden. In diesem Fall ist nur die Tatsache zu protokollieren, dass die Erklärung abgegeben, der Antrag gestellt oder die Entscheidung verkündet und dem Protokoll angefügt wurde.
+----
 
+----
 ### § 209 ZPO # Protokollierung
 
 `§ 209 (1) ZPO.`  
@@ -114,14 +57,16 @@ Die Protokollierung kann durch Diktat des die Verhandlung leitenden Richters unt
 Wird für die Abfassung des Verhandlungsprotokolls ein Tonträger verwendet oder das Protokoll in Kurzschrift verfasst, so sind die Angaben des § 208 Abs. 1 in Vollschrift zu protokollieren.
 
 `§ 209 (3) ZPO.`  
-Das in Vollschrift aufgenommene Protokoll bzw. der in Vollschrift aufgenommene Teil des Protokolls ist von dem die Verhandlung leitenden Richter zu unterschreiben. Wurde ein Vergleich geschlossen, so ist auch die Unterschrift der Parteien oder ihrer Vertreter erforderlich, und, wenn Dritte dem Vergleich beitreten, auch die Unterschrift dieser. Kann eine Partei gar nicht oder nur mittels eines Handzeichens unterfertigen, so ist deren Name durch den die Verhandlung leitenden Richter beizusetzen.
+Das in Vollschrift aufgenommene Protokoll bzw. der in Vollschrift aufgenommene Teil des Protokolls ist von dem die Verhandlung leitenden Richter zu unterschreiben. Wurde ein Vergleich geschlossen, so ist auch die Unterschrift der Parteien oder ihrer Vertreter erforderlich, und, wenn Dritte dem Vergleich beitreten, auch die Unterschrift dieser. Kann eine Partei gar nicht oder nur mittels eines Handzeichens unterfertigen, so ist deren Name durch den die Verhandlung leitenden Richter beizusetzen. 
 
 `§ 209 (4) ZPO.`  
 Von dem nicht in Vollschrift aufgenommenen Teil des Protokolls ist eine Übertragung in Vollschrift anzufertigen, die von dem die Verhandlung leitenden Richter zu unterschreiben ist.
 
 `§ 209 (5) ZPO.`  
 Die Übertragung in Vollschrift entfällt, wenn die Rechtssache durch Vergleich, Zurücknahme der Klage oder Anerkenntnis- oder Verzichtsurteil bei dieser Tagsatzung erledigt wird und die Parteien keine Ausfertigung des gesamten Protokolls beantragen. In einem solchen Fall sind entweder der Vergleich, die Erklärung der Zurücknahme der Klage, das Anerkenntnis oder der Verzicht in Vollschrift zu protokollieren oder diese Teile des Protokolls in Vollschrift zu übertragen und das Teilprotokoll den Parteien zuzustellen.
+----
 
+----
 ### § 210 ZPO # Unrichtigkeiten des Protokolls, Widerspruch
 
 `§ 210 (1) ZPO.`  
@@ -138,7 +83,9 @@ Offenbare Unrichtigkeiten der Aufnahme oder der Übertragung des Protokolls kön
 
 `§ 210 (5) ZPO.`  
 Gegen die die Protokollierung betreffenden Beschlüsse und Verfügungen ist ein abgesondertes Rechtsmittel nicht zulässig.
+----
 
+----
 ### § 211 ZPO # Beweiskraft des Protokolls
 
 `§ 211 (1) ZPO.`  
@@ -149,23 +96,33 @@ Die Beobachtung der für die mündliche Verhandlung vorgeschriebenen Förmlichke
 
 `§ 211 (3) ZPO.`  
 Die Beweiskraft der protokollarischen Beurkundung wird durch einen Wechsel in der Person des Richters nicht berührt.
+----
 
+----
 ### § 212 ZPO # Außerhalb einer Verhandlung aufgenommene Protokolle
 
 `§ 212 ZPO.`  
 Die vorstehenden Bestimmungen dieses Titels gelten auch für Protokolle, die außerhalb einer mündlichen Verhandlung aufgenommen werden.
+----
 
+----
 ### § 213 ZPO # Bedeutung des Protokollinhalts
 
 `§ 213 ZPO.`  
 Der Inhalt des Verhandlungsprotokolls, des im Laufe eines Rechtsstreites durch einen beauftragten oder ersuchten Richter aufgenommenen Protokolls und des außerhalb einer Verhandlung aufgenommenen Protokolls samt deren jeweiligen Anlagen, die dem erkennenden Gericht vorliegen, sind von Amts wegen zu beachten.
+----
 
+----
 ## Sechster Titel. # Acten.
 
-### § 218 ZPO
-Jede Partei kann zur Begründung ihrer Anträge auch auf die ihr auf Veranlassung des Gegners zugestellten Schriftstücke Bezug nehmen. Sie kann, wenn diese Schriftstücke in Verlust gerathen sind, und sich auch kein Exemplar derselben bei Gericht befindet, verlangen, dass ihr der Gegner gestatte, auf ihre Kosten von den in seinen Händen befindlichen bezüglichen Schriftstücken Abschriften zu nehmen.
+### § 218 ZPO # 
 
-### § 219 ZPO
+`§ 218 ZPO.`  
+Jede Partei kann zur Begründung ihrer Anträge auch auf die ihr auf Veranlassung des Gegners zugestellten Schriftstücke Bezug nehmen. Sie kann, wenn diese Schriftstücke in Verlust gerathen sind, und sich auch kein Exemplar derselben bei Gericht befindet, verlangen, dass ihr der Gegner gestatte, auf ihre Kosten von den in seinen Händen befindlichen bezüglichen Schriftstücken Abschriften zu nehmen.
+----
+
+----
+### § 219 ZPO # 
 
 `§ 219 (1) ZPO.`  
 Die Parteien können in sämtliche ihre Rechtssache betreffenden, bei Gericht befindlichen Akten (Prozessakten), mit Ausnahme der Entwürfe zu Urteilen und Beschlüssen, der Protokolle über Beratungen und Abstimmungen des Gerichtes und solcher Schriftstücke, welche Disziplinarverfügungen enthalten, sowie anderer kraft ausdrücklicher Anordnung der Akteneinsicht entzogener Aktenstücke, Einsicht nehmen und sich davon auf ihre Kosten Abschriften (Kopien) und Auszüge (Ausdrucke) erteilen lassen.
@@ -176,10 +133,12 @@ Mit Zustimmung beider Parteien können auch dritte Personen in gleicher Weise Ei
 
 `§ 219 (4) ZPO.`  
 Zum Zweck der nicht personenbezogenen Auswertung für die Statistik, für wissenschaftliche Arbeiten oder für vergleichbare, im öffentlichen Interesse liegende Untersuchungen können das Bundesministerium für Justiz und die Vorsteher der Gerichte auf Ersuchen des Leiters einer anerkannten wissenschaftlichen Einrichtung die Einsicht in Akten, die Herstellung von Abschriften (Ablichtungen) und die Übermittlung von Daten aus solchen bewilligen. Die so erlangten Daten dürfen nicht für andere Zwecke verwendet werden.
+----
 
+----
 ## Siebenter Titel. # Strafen.
 
-### § 220 ZPO
+### § 220 ZPO # 
 
 `§ 220 (1) ZPO.`  
 Eine Ordnungsstrafe darf den Betrag von 2 000 Euro, eine Mutwillensstrafe den Betrag von 4 000 Euro nicht übersteigen.
@@ -190,17 +149,21 @@ Die nach den Bestimmungen dieses Gesetzes gegen eine Person verhängten Geldstra
 
 `§ 220 (4) ZPO.`  
 Strafverfügungen sind von amtswegen zu vollziehen.
+----
 
+----
 ## Achter Titel. # Sonn- und Feiertagsruhe, Fristenhemmung
 
-### § 221 ZPO
+### § 221 ZPO # 
 
 `§ 221 (1) ZPO.`  
 An Samstagen, Sonntagen und gesetzlichen Feiertagen dürfen Tagsatzungen nicht abgehalten werden.
 
 `§ 221 (2) ZPO.`  
 Welche Tage im Sinne dieses Gesetzes als Feiertage zu gelten haben, wird durch Verordnung bestimmt.
+----
 
+----
 ### § 222 ZPO
 
 `§ 222 (1) ZPO.`  
@@ -231,10 +194,12 @@ Verfahren über die Ablehnung von Richtern und anderen gerichtlichen Organen.
 
 `§ 222 (3) ZPO.`  
 Für Tagsatzungen, die in den Zeitraum nach Abs. 1 fallen, ist der Erstreckungsgrund nach § 134 Z 1 verwirklicht, wenn sich die unvertretene Partei oder der Vertreter der Partei zum Zeitpunkt der Tagsatzung auf Urlaub befindet und der Antrag unverzüglich, spätestens binnen einer Woche nach Zustellung der Ladung gestellt wird.
+----
 
+----
 ## Zweiter Theil. # Verfahren vor den Gerichtshöfen erster Instanz. # Erster Abschnitt. # Verfahren bis zum Urtheile. # Erster Titel. # Klage, Klagebeantwortung, vorbereitendes Verfahren und Streitverhandlung. # Klage.
 
-### § 226 ZPO
+### § 226 ZPO # 
 
 `§ 226 (1) ZPO.`  
 Die mittels vorbereitenden Schriftsatzes anzubringende Klage hat ein bestimmte Begehren zu enthalten, die Thatsachen, auf welche sich der Anspruch des Klägers in Haupt- und Nebensachen gründet, im einzelnen kurz und vollständig anzugeben, und ebenso die Beweismittel im einzelnen genau zu bezeichnen, deren sich der Kläger zum Nachweise seiner thatsächlichen Behauptung bei der Verhandlung zu bedienen beabsichtigt.
@@ -244,8 +209,10 @@ Wenn die Zuständigkeit oder die Besetzung (§ 7a der Jurisdiktionsnorm) des an
 
 `§ 226 (3) ZPO.`  
 Im übrigen sind auf die Klageschrift die allgemeinen Vorschriften über vorbereitende Schriftsätze anzuwenden.
+----
 
-### § 227 ZPO
+----
+### § 227 ZPO # 
 
 `§ 227 (1) ZPO.`  
 Mehrere Ansprüche des Klägers gegen denselben Beklagten können, auch wenn sie nicht zusammenzurechnen sind (§ 55 JN), in derselben Klage geltend gemacht werden, wenn für sämtliche Ansprüche  
@@ -256,11 +223,17 @@ dieselbe Art des Verfahrens zulässig ist.
 
 `§ 227 (2) ZPO.`  
 Jedoch können Ansprüche, die den im § 49 Abs. 1 JN bezeichneten Betrag nicht übersteigen, mit solchen Ansprüchen verbunden werden, die ihn übersteigen, ferner Ansprüche, die vor den Einzelrichter gehören, mit solchen, die vor den Senat gehören. Im ersten Fall richtet sich die Zuständigkeit nach dem höheren Betrag; im zweiten Fall ist der Senat zur Entscheidung über sämtliche Ansprüche berufen.
+----
 
-### § 228 ZPO
+----
+### § 228 ZPO # 
+
+`§ 228 ZPO.`  
 Es kann auf Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses oder Rechtes, auf Anerkennung der Echtheit einer Urkunde oder Feststellung der Unechtheit derselben Klage erhoben werden, wenn der Kläger ein rechtliches Interesse daran hat, dass jenes Rechtsverhältnis oder Recht oder die Urkundenechtheit durch eine gerichtliche Entscheidung alsbald festgestellt werde.
+----
 
-### § 229 ZPO
+----
+### § 229 ZPO # 
 
 `§ 229 (1) ZPO.`  
 Schon in der Klage kann der Antrag gestellt werden:  
@@ -274,8 +247,10 @@ dass die zur Bewahrheitung thatsächlicher Behauptungen in der Klage namhaft gem
 `§ 229 (2) ZPO.`  
 Dem unter Z 2 erwähnten Antrage ist nur dann stattzugeben, wenn sich die Partei die betreffenden Urkunden, Auskunftssachen oder Augenscheinsgegenstände nach den bestehenden gesetzlichen Vorschriften ohne Mitwirkung des Gerichtes nicht zu verschaffen vermag, oder wenn ihr deren Ausfolgung von der Behörde oder dem Notar in ungerechtfertigter Weise verweigert wurde.
 *(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 76/2002)*
+----
 
-### § 230 ZPO
+----
+### § 230 ZPO # 
 
 `§ 230 (1) ZPO.`  
 Ist kein Zahlungsbefehl zu erlassen, so hat der Vorsitzende des Senates, welchem die Rechtssache zugewiesen ist, dem Beklagten die Beantwortung der Klage mit Beschluss aufzutragen. Die Frist für die Beantwortung der Klage beträgt vier Wochen. Dieser Beschluss kann nicht durch ein Rechtsmittel angefochten werden.
@@ -285,10 +260,133 @@ Wenn er jedoch der Ansicht ist, daß die Klage wegen Fehlens der inländischen G
 
 `§ 230 (3) ZPO.`  
 Das Fehlen der inländischen Gerichtsbarkeit, sofern es nicht geheilt ist (§ 104 JN), die Unzulässigkeit des Rechtswegs, die Streitanhängigkeit, die Rechtskraft eines die Streitsache betreffenden Urteils und die Klagerücknahme unter Anspruchsverzicht sind jederzeit von Amts wegen zu berücksichtigen.
+----
 
+----
 ### § 230a ZPO
 
 `§ 230a ZPO.`  
 Wird die sachliche oder örtliche Unzuständigkeit des angerufenen Gerichts ausgesprochen und die Klage zurückgewiesen, ohne daß der Kläger Gelegenheit hatte, einen Überweisungsantrag nach § 261 Abs. 6 zu stellen, und beantragt der Kläger binnen der Notfrist von vierzehn Tagen nach der Zustellung dieses Beschlusses die Überweisung der Klage an ein anderes Gericht, so hat das ursprünglich angerufene Gericht die Zurückweisung aufzuheben und die Klage dem vom Kläger namhaft gemachten Gericht zu überweisen, wenn es das andere Gericht nicht für offenbar unzuständig erachtet. Gegen diesen Beschluß ist, mit Ausnahme der Entscheidung über die Kosten eines allfälligen Zuständigkeitsstreites, ein Rechtsmittel nicht zulässig. Die Gerichtsanhängigkeit wird durch diese Überweisung nicht aufgehoben. Das Gericht, an das die Klage überwiesen worden ist, kann einen Mangel seiner Zuständigkeit nur noch wahrnehmen, wenn der Beklagte rechtzeitig die Einrede der Unzuständigkeit erhebt.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.008](BG.ZPO.008.md))*
+----
+## Streitanhängigkeit.
+
+### § 232 ZPO # 
+
+`§ 232 (1) ZPO.`  
+Die Rechtshängigkeit der Streitsache (Streitanhängigkeit) wird durch die Zustellung der Klageschrift an den Beklagten begründet. Zur Wahrung einer Frist sowie zur Unterbrechung des Ablaufes einer Frist genügt, wenn nichts anderes vorgeschrieben ist, die Überreichung der Klage bei Gericht.
+
+`§ 232 (2) ZPO.`  
+Wird von einer Partei erst im Laufe des Processes ein Anspruch erhoben, so tritt die Streitanhängigkeit in Ansehung dieses Anspruches mit dem Zeitpunkte ein, in welchem derselbe bei der mündlichen Verhandlung geltend gemacht wurde.
+----
+
+----
+### § 233 ZPO # 
+
+`§ 233 (1) ZPO.`  
+Die Streitanhängigkeit hat die Wirkung, dass während ihrer Dauer über den geltend gemachten Anspruch weder bei demselben noch bei einem anderen Gerichte ein Rechtsstreit durchgeführt werden darf. Eine während der Streitanhängigkeit wegen des nämlichen Anspruches angebrachte Klage ist auf Antrag oder von amtswegen zurückzuweisen.
+
+`§ 233 (2) ZPO.`  
+Nach dem Eintritte der Streitanhängigkeit kann der Beklagte, wenn die sonstigen gesetzlichen Bedingungen des Gerichtsstandes der Widerklage vorhanden sind, bei dem Gerichte der Klage insolange eine Widerklage anbringen, als nicht die mündliche Verhandlung in erster Instanz geschlossen ist.
+----
+
+----
+### § 234 ZPO # 
+
+`§ 234 ZPO.`  
+Die Veräußerung einer in Streit verfangenen Sache oder Forderung hat auf den Process keinen Einfluss. Der Erwerber ist nicht berechtigt, ohne Zustimmung des Gegners als Hauptpartei in den Process einzutreten.
+----
+
+----
+## Klagsänderung.
+
+### § 235 ZPO # 
+
+`§ 235 (1) ZPO.`  
+Zu einer Änderung der bei Gericht überreichten Klage, und namentlich zu einer Erweiterung des Klagebegehrens, durch welche die Zuständigkeit des Processgerichtes nicht ausgeschlossen wird, ist der Kläger vor Eintritt der Streitanhängigkeit stets berechtigt.
+
+`§ 235 (2) ZPO.`  
+Nach Eintritt der Streitanhängigkeit bedarf es hiezu der Einwilligung des Gegners; mit dieser Einwilligung ist eine Änderung der Klage auch dann zulässig, wenn das Prozeßgericht für die geänderte Klage nicht zuständig wäre, sofern es durch Parteienvereinbarung zuständig gemacht werden könnte oder die Unzuständigkeit nach § 104 Abs. 3 JN geheilt wird. Die Einwilligung des Gegners ist als vorhanden anzunehmen, wenn er, ohne gegen die Änderung eine Einwendung zu erheben, über die geänderte Klage verhandelt.
+
+`§ 235 (3) ZPO.`  
+Das Gericht kann eine Änderung selbst nach Eintritt der Streitanhängigkeit und ungeachtet der Einwendungen des Gegners zulassen, wenn durch die Änderung die Zuständigkeit des Prozeßgerichtes nicht überschritten wird und aus ihr eine erhebliche Erschwerung oder Verzögerung der Verhandlung nicht zu besorgen ist.
+
+`§ 235 (4) ZPO.`  
+Als eine Änderung der Klage ist es nicht anzusehen, wenn ohne Änderung des Klagegrundes die thatsächlichen Angaben der Klage und die in derselben angebotenen Beweise geändert, ergänzt, erläutert oder berichtigt werden, oder wenn, gleichfalls ohne Änderung des Klagegrundes, das Klagebegehren in der Hauptsache oder in Beziehung auf Nebenforderungen beschränkt oder statt des ursprünglich geforderten Gegenstandes ein anderer Gegenstand oder das Interesse gefordert wird.
+
+`§ 235 (5) ZPO.`  
+Es ist weder eine Änderung der Klage noch eine Änderung der Partei, wenn die Parteibezeichnung auf diejenige Person richtiggestellt wird, von der oder gegen die nach dem Inhalt der Klage in einer jeden Zweifel ausschließenden Weise, etwa durch die Anführung der Bezeichnung ihres Unternehmens, das Klagebegehren erhoben worden ist. Eine solche Berichtigung ist in jeder Lage des Verfahrens auf Antrag oder von Amts wegen vorzunehmen, gegebenenfalls durch die Anwendung der §§ 84 und 85.
+----
+
+----
+## Zwischenantrag auf Feststellung.
+
+### § 236 ZPO # 
+
+`§ 236 (1) ZPO.`  
+Der Kläger kann ohne Zustimmung des Beklagten bis zum Schlusse der mündlichen Verhandlung, über welche das Urtheil ergeht, den Antrag stellen, dass ein im Laufe des Processes streitig gewordenes Rechtsverhältnis oder Recht, von dessen Bestehen oder Nichtbestehen die Entscheidung über das Klagebegehren ganz oder zum Theile abhängt, in dem über die Klage ergehenden oder in einem demselben vorausgehenden Urtheile festgestellt werde.
+
+`§ 236 (2) ZPO.`  
+Diese Bestimmung kommt nicht zur Anwendung, wenn über den Gegenstand des neuen Antrages nur in einem besonderen, für Angelegenheiten dieser Art ausschließlich vorgeschriebenen Verfahren verhandelt werden kann, oder wenn die Vorschriften über die sachliche Zuständigkeit der Gerichte der beantragten Entscheidung entgegenstehen.
+
+`§ 236 (3) ZPO.`  
+Ein neuer Antrag kann auch eine Anerkennung von Akten oder Urkunden, die im Ausland errichtet wurden (§§ 403 ff EO) zum Gegenstand haben; in diesem Fall ist der Abs. 2 nicht anzuwenden.
+----
+
+----
+## Zurücknahme der Klage.
+
+### § 237 ZPO # 
+
+`§ 237 (1) ZPO.`  
+Die Klage kann ohne Zustimmung des Beklagten nur bis zum Einlangen der Klagebeantwortung oder des Einspruchs gegen den Zahlungsbefehl zurückgenommen werden. Wenn gleichzeitig auf den Anspruch verzichtet wird, kann die Klage ohne Zustimmung des Beklagten bis zum Schlusse der mündlichen Streitverhandlung zurückgenommen werden.
+
+`§ 237 (2) ZPO.`  
+Die Zurücknahme der Klage geschieht durch einen dem Beklagten zuzustellenden Schriftsatz oder durch eine bei der mündlichen Verhandlung abgegebene Erklärung. Die Zustellung des Schriftsatzes erfolgt auf Grund einer Verfügung des Vorsitzenden ohne vorgängige Beschlussfassung des Senates.
+
+`§ 237 (3) ZPO.`  
+Die Zurücknahme der Klage hat zur Folge, daß die Klage als nicht angebracht anzusehen ist und, wenn die Parteien nichts anderes vereinbaren, der Kläger dem Beklagten alle diesem nicht bereits rechtskräftig auferlegten Prozeßkosten zu ersetzen hat. Der Antrag auf Kostenersatz ist bei sonstigem Ausschluß, wenn die Klage bei der mündlichen Verhandlung zurückgenommen wird und der Beklagte anwesend ist, in dieser, sonst binnen einer Notfrist von vier Wochen nach der Verständigung des Beklagten von der Zurücknahme der Klage durch das Gericht zu stellen. Über den Antrag auf Zuerkennung des Kostenersatzes entscheidet der Vorsitzende durch Beschluß.
+
+`§ 237 (4) ZPO.`  
+Die zurückgenommene Klage kann neuerlich angebracht werden, wenn nicht bei deren Zurücknahme auf den geltend gemachten Anspruch verzichtet wurde.
+----
+
+----
+### § 238 ZPO # 
+
+`§ 238 ZPO.`  
+Die in §. 237 bezeichneten Rechtsfolgen treten auch dann ein, wenn eine Klage in Gemäßheit der Bestimmungen dieses Gesetzes als zurückgenommen zu gelten hat.
+----
+
+----
+## Beantwortung der Klage
+
+### § 239 ZPO
+
+`§ 239 (1) ZPO.`  
+Die nach § 230 Abs. 1 aufgetragene Beantwortung der Klage hat mittels vorbereitenden Schriftsatzes zu geschehen. Sie hat ein bestimmtes Begehren zu enthalten und, soweit der Klagsanspruch bestritten wird, Anträge gestellt und Einreden erhoben werden, die Tatsachen und Umstände, auf welche sich die Einwendungen, Anträge und Einreden der beklagten Partei gründen, im Einzelnen kurz und vollständig anzugeben sowie die Beweismittel, deren sich der Beklagte zum Nachweis seiner tatsächlichen Behauptungen bei der Verhandlung zu bedienen beabsichtigt, im Einzelnen genau zu bezeichnen.
+
+`§ 239 (2) ZPO.`  
+In dem Schriftsatz kann der Beklagte auch einen oder mehrere der im § 229 angeführten Anträge stellen.
+
+`§ 239 (3) ZPO.`  
+Die Klagebeantwortung dient weiters  
+`§ 239 (3) Z 1 ZPO.`
+zur Anmeldung der Einreden des Fehlens der inländischen Gerichtsbarkeit, der Unzulässigkeit des Rechtsweges, des Fehlens der sachlichen oder örtlichen Zuständigkeit, der Streitanhängigkeit, der rechtskräftig entschiedenen Streitsache und des Fehlens sonstiger Prozessvoraussetzungen,  
+`§ 239 (3) Z 2 ZPO.`
+zur Benennung des Auktors,  
+`§ 239 (3) Z 3 ZPO.`
+zur Stellung des Antrages auf Sicherheitsleistung für Prozesskosten und  
+`§ 239 (3) Z 4 ZPO.`
+zur Abgabe eines Anerkenntnisses.
+----
+
+----
+### § 240 ZPO
+
+`§ 240 ZPO.`  
+Wird die Einrede der sachlichen oder örtlichen Unzuständigkeit des Gerichtes nicht in der Klagebeantwortung geltend gemacht, so kann deren Fehlen nur noch berücksichtigt werden, wenn das Gericht auch durch ausdrückliche Vereinbarung der Parteien nicht zuständig gemacht werden könnte und die Unzuständigkeit noch nicht geheilt ist (§ 104 JN).
+----
+
+`END-OF-DATA-SET`

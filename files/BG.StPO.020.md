@@ -1,337 +1,388 @@
 # BG.StPO.020 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.020.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StPO.019](BG.StPO.019.md))*
+Der Nationalrat hat beschlossen:
 
-## 16. Hauptstück # Wiederaufnahme und Erneuerung des Strafverfahrens sowie Wiedereinsetzung in den vorigen Stand # I. Wiederaufnahme des Verfahrens
+----
+## 1. Verfahren bei Nichtigkeitsbeschwerden
 
-### § 352 StPO
+### § 284 StPO
 
-`§ 352 (1) StPO.`  
-Abgesehen von den Bestimmungen über die Fortführung des Ermittlungsverfahrens (§§ 193, 195 und 196), kann dem Antrag der Staatsanwaltschaft auf Wiederaufnahme eines Verfahrens gegen einen Beschuldigten, das durch gerichtlichen Beschluss oder einen nicht bloß vorläufigen Rücktritt der Staatsanwaltschaft von der Verfolgung nach den im 11. Hauptstück enthaltenen Bestimmungen eingestellt wurde, nur dann stattgegeben werden, wenn die Strafbarkeit der Tat noch nicht durch Verjährung erloschen ist, und  
-`§ 352 (1) Z 1 StPO.`
-die Einstellung durch Urkundenfälschung oder durch falsche Beweissaussage, Bestechung oder eine sonstige Straftat des Beschuldigten oder einer dritten Person herbeigeführt worden ist, oder  
-`§ 352 (1) Z 2 StPO.`
-der Beschuldigte später ein Geständnis der ihm angelasteten Tat ablegt oder sich andere neue Tatsachen oder Beweismittel ergeben, die geeignet scheinen, die Verurteilung des Beschuldigten nahe zu legen (§ 210 Abs. 1).
+`§ 284 (1) StPO.`  
+Die Nichtigkeitsbeschwerde ist binnen drei Tagen nach Verkündung des Urteiles beim Landesgericht anzumelden. War der Angeklagte bei der Verkündung des Urteiles nicht gegenwärtig (§ 234), so ist sie binnen drei Tagen anzumelden, nachdem er vom Urteile verständigt wurde (§ 269).
 
-`§ 352 (2) StPO.`  
-Dem Privatankläger steht der Antrag auf Wiederaufnahme ausschließlich im Fall einer Einstellung gemäß § 215 Abs. 2 zu.
+`§ 284 (2) StPO.`  
+Für den gesetzlichen Vertreter des Angeklagten läuft die Frist zur Anmeldung der Nichtigkeitsbeschwerde von demselben Tage, von dem an sie für den Angeklagten beginnt.
 
-### § 353 StPO
+`§ 284 (3) StPO.`  
+Die Anmeldung der Nichtigkeitsbeschwerde hat aufschiebende Wirkung. Die Entlassung eines freigesprochenen Angeklagten aus der Haft darf nur wegen einer Nichtigkeitsbeschwerde des Staatsanwaltes, und zwar bloß dann aufgeschoben werden, wenn diese sogleich bei Verkündung des Urteiles angemeldet wird und nach den Umständen die Annahme begründet ist, daß sich der Angeklagte dem Verfahren durch die Flucht entziehen werde. Gegen die Entlassung aus der Haft ist kein Rechtsmittel zulässig.
 
-`§ 353 StPO.`  
-Der rechtskräftig Verurteilte kann die Wiederaufnahme des Strafverfahrens selbst nach vollzogener Strafe verlangen:  
-`§ 353 Z 1 StPO.`
-wenn dargetan ist, daß seine Verurteilung durch Urkundenfälschung oder durch falsche Beweisaussage, Bestechung oder eine sonstige Straftat einer dritten Person veranlaßt worden ist;  
-`§ 353 Z 2 StPO.`
-wenn er neue Tatsachen oder Beweismittel beibringt, die allein oder in Verbindung mit den früher erhobenen Beweisen geeignet erscheinen, seine Freisprechung oder die Verurteilung wegen einer unter ein milderes Strafgesetz fallenden Handlung zu begründen; oder  
-`§ 353 Z 3 StPO.`
-wenn wegen derselben Tat zwei oder mehrere Personen durch verschiedene Erkenntnisse verurteilt worden sind und bei der Vergleichung dieser Erkenntnisse sowie der ihnen zugrunde liegenden Tatsachen die Nichtschuld einer oder mehrerer dieser Personen notwendig anzunehmen ist.
+`§ 284 (4) StPO.`  
+Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden.
+----
 
-### § 354 StPO
+----
+### § 285 StPO
 
-`§ 354 StPO.`  
-Den Antrag auf Wiederaufnahme des Strafverfahrens zugunsten des Angeklagten können, und zwar auch nach dessen Tod, alle Personen stellen, die berechtigt wären, zu seinen Gunsten die Nichtigkeitsbeschwerde oder Berufung zu ergreifen. Erlangt die Staatsanwaltschaft die Kenntnis eines Umstandes, der einen Antrag auf Wiederaufnahme des Strafverfahrens zugunsten des Angeklagten begründen kann (§ 353), so ist sie verpflichtet, hievon den Angeklagten oder sonst eine zur Stellung dieses Antrages berechtigte Person in Kenntnis zu setzen oder selbst den Antrag zu stellen.
+`§ 285 (1) StPO.`  
+Der Beschwerdeführer hat das Recht, binnen vier Wochen nach der Anmeldung der Nichtigkeitsbeschwerde, wenn ihm eine Urteilsabschrift aber erst nach der Anmeldung des Rechtsmittels zugestellt wurde, binnen vier Wochen nach der Zustellung eine Ausführung seiner Beschwerdegründe beim Gericht in zweifacher Ausfertigung zu überreichen. Er muss entweder in dieser Schrift oder bei Anmeldung seiner Beschwerde die Nichtigkeitsgründe einzeln und bestimmt bezeichnen, widrigens auf seine Beschwerde vom Obersten Gerichtshofe keine Rücksicht zu nehmen ist.
 
-### § 355 StPO
+`§ 285 (2) StPO.`  
+Im Falle extremen Umfangs des Verfahrens hat das Landesgericht die in Abs. 1 genannte Frist auf Antrag des Beschwerdeführers um den Zeitraum zu verlängern, der – insbesondere im Hinblick auf eine ganz außergewöhnliche Dauer der Hauptverhandlung, einen solchen Umfang des Hauptverhandlungsprotokolls, des übrigen Akteninhalts und der Urteilsausfertigung – erforderlich ist, um eine ausreichende Vorbereitung der Verteidigung (Art. 6 Abs. 3 lit. b der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, und Art. 2 des 7. Zusatzprotokolls, BGBl. Nr. 628/1988) oder der Verfolgung der Anklage zu gewährleisten.
 
-`§ 355 StPO.`  
-Die Staatsanwaltschaft oder der Privatankläger können die Wiederaufnahme des Strafverfahrens wegen einer Handlung, hinsichtlich der der Angeklagte rechtskräftig freigesprochen worden ist, nur aus den in § 352 Abs. 1 genannten Gründen beantragen.
+`§ 285 (3) StPO.`  
+Ein Antrag nach Abs. 2 ist beim Landesgericht innerhalb der zur Ausführung der Beschwerde ansonsten zur Verfügung stehenden Frist schriftlich einzubringen. Über den Antrag entscheidet der Vorsitzende nach Maßgabe der in Abs. 2 genannten Kriterien und unter Bedachtnahme auf das Erfordernis einer angemessenen Dauer des Verfahrens (Art. 6 Abs. 1 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958); gegen seinen Beschluss steht eine Beschwerde nicht zu. Die Zeit von der Antragstellung bis zur Bekanntmachung des Beschlusses wird in die Frist zur Ausführung der Gründe der Nichtigkeitsbeschwerde nicht eingerechnet; diese beginnt jedenfalls nicht zu laufen, ehe der Beschluss über den Antrag bekannt gemacht ist.
 
-### § 356 StPO
+`§ 285 (4) StPO.`  
+Hat der Beschwerdeführer eine Beschwerdeschrift eingebracht, so ist sie seinem Gegner mit der Belehrung zuzustellen, dass er binnen vier Wochen seine Gegenausführung überreichen könne. Diese Frist kann unter sinngemäßer Anwendung der Abs. 2 und 3 verlängert werden.
 
-`§ 356 StPO.`  
-Die Staatsanwaltschaft kann die Wiederaufnahme des Verfahrens, um zu bewirken, daß eine Handlung, wegen der der Angeklagte verurteilt worden ist, nach einem strengeren Strafgesetz beurteilt werde, nur unter den im § 352 Abs. 1 erwähnten Voraussetzungen und überdies nur dann beantragen, wenn die wirklich verübte Tat  
-`§ 356 Z 1 StPO.`
-mit mindestens zehnjähriger Freiheitsstrafe bedroht ist, während der Angeklagte nur wegen einer mit nicht mehr als zehnjähriger Freiheitsstrafe bedrohten Handlung verurteilt wurde, oder  
-`§ 356 Z 2 StPO.`
-mit mehr als fünfjähriger Freiheitsstrafe bedroht ist, während der Angeklagte nur wegen eines Vergehens verurteilt wurde, oder  
-`§ 356 Z 3 StPO.`
-sich als ein Verbrechen darstellt, während der Angeklagte nur wegen eines mit nicht mehr als einjähriger Freiheitsstrafe bedrohten Vergehens verurteilt wurde.
+`§ 285 (5) StPO.`  
+Die Gegenausführung ist dem Beschwerdeführer zuzustellen. Danach sind alle Akten an den Obersten Gerichtshof zu senden, der darüber zu entscheiden hat.
+----
 
-### § 357 StPO
+----
+### § 285a StPO
 
-`§ 357 (1) StPO.`  
-Der Antrag auf Wiederaufnahme des Strafverfahrens ist im Fall einer gerichtlichen Einstellung im Ermittlungsverfahren bei dem Landesgericht einzubringen, das die Einstellung beschlossen hat, im Falle eines nicht bloß vorläufigen Rücktritts der Staatsanwaltschaft von der Verfolgung nach den im 11. Hauptstück enthaltenen Bestimmungen bei dem Landesgericht, das im Ermittlungsverfahren zuständig gewesen wäre, in den übrigen Fällen jedoch bei dem Landesgericht, das für das Hauptverfahren zuständig war.
+`§ 285a StPO.`  
+Das Landesgericht, bei dem eine gegen ein Endurteil gerichtete Nichtigkeitsbeschwerde angemeldet wird, hat diese zurückzuweisen:  
+`§ 285a Z 1 StPO.`
+wenn sie zu spät angemeldet oder wenn sie von einer Person eingebracht wurde, der die Nichtigkeitsbeschwerde nicht zukommt oder die auf sie verzichtet hat;  
+`§ 285a Z 2 StPO.`
+wenn nicht bei der Anmeldung der Nichtigkeitsbeschwerde oder in ihrer Ausführung einer der im § 281 Abs. 1 Z 1 bis 11 oder im § 281a angegebenen Nichtigkeitsgründe deutlich und bestimmt bezeichnet, insbesondere wenn der Tatumstand, der den Nichtigkeitsgrund bilden soll, nicht ausdrücklich oder doch durch deutliche Hinweisung angeführt ist;  
+`§ 285a Z 3 StPO.`
+wenn die unter Z 2 geforderte Angabe, soweit es sich nicht um eine von der Staatsanwaltschaft erhobene Nichtigkeitsbeschwerde handelt, nicht entweder zu Protokoll oder in einer Eingabe gemacht wird, die von einem Verteidiger (§ 48 Abs. 1 Z 4) unterschrieben ist. Besteht der Mangel lediglich im Fehlen der Unterschrift eines berechtigten Verteidigers, so ist die Eingabe vorerst zur Behebung dieses Mangels und Wiedervorlage binnen vierzehn Tagen zurückzustellen.
+----
 
-`§ 357 (2) StPO.`  
-Das Landesgericht (§ 31 Abs. 6 Z 2) hat den Antrag dem Gegner des Antragstellers mit der Belehrung zuzustellen, dass er seine Gegenäußerung binnen 14 Tagen überreichen könne. Das Landesgericht kann Ermittlungen durch die Kriminalpolizei anordnen oder Beweise selbst aufnehmen, wenn dies erforderlich ist, um die Gefahr abzuwenden, dass ein Beweismittel für eine erhebliche Tatsache verloren geht. Zum Ergebnis dieser Ermittlungen oder Beweisaufnahmen hat es Antragsteller und Antragsgegner Gelegenheit zur Äußerung binnen 14 Tagen einzuräumen. Sodann entscheidet das Landesgericht grundsätzlich nach nichtöffentlicher Sitzung mit Beschluss. Sofern sich jedoch die Tatsachen, durch die der Antrag begründet wird, und ihre Eignung, eine Änderung der rechtskräftigen Entscheidung im Sinne der vorstehenden Bestimmungen herbeizuführen, nur durch eine unmittelbare Beweisaufnahme klären lassen, kann das Gericht von Amts wegen oder auf Antrag eine mündliche Verhandlung anberaumen und in dieser über die Wiederaufnahme entscheiden. Die Verhandlung ist nicht öffentlich, doch hat das Gericht Antragsteller und Antragsgegner Gelegenheit zur Teilnahme und Stellungnahme zu geben.
+----
+### § 285b StPO
 
-`§ 357 (3) StPO.`  
-Der Antrag eines Verurteilten auf Wiederaufnahme des Verfahrens hemmt den Vollzug der Strafe nicht, es sei denn, dass das Gericht nach Anhörung der Staatsanwaltschaft oder des Privatanklägers die Hemmung des Strafvollzuges nach den Umständen des Falles für angemessen erachtet und mit Beschluss die Hemmung ausspricht.
+`§ 285b (1) StPO.`  
+Der im § 285a erwähnte Beschluß ist vom Vorsitzenden zu fassen, und zwar in den im § 285a unter Z. 2 und 3 erwähnten Fällen nicht früher, als die Ausführung der Nichtigkeitsbeschwerde überreicht oder die hiezu bestimmte Frist abgelaufen ist.
 
-### § 358 StPO
+`§ 285b (2) StPO.`  
+Gegen den Beschluß steht die Beschwerde an den Obersten Gerichtshof offen; sie ist binnen vierzehn Tagen nach Bekanntmachung des Beschlusses beim Landesgericht einzubringen und von diesem binnen weiteren drei Tagen an den Obersten Gerichtshof einzusenden.
 
-`§ 358 (1) StPO.`  
-Das frühere Urteil wird in den Fällen der §§ 353 bis 356 durch die Bewilligung der Wiederaufnahme insoweit für aufgehoben erklärt, als es die Straftat betrifft, hinsichtlich der die Wiederaufnahme bewilligt wird. Die gesetzlichen Folgen der im ersten Urteil ausgesprochenen Verurteilung bleiben bis zur neuerlichen Entscheidung aufrecht. Der Vollzug der Strafe ist unverzüglich einzustellen und über die Haft des Beschuldigten nach den im 9. Hauptstück enthaltenen Bestimmungen zu entscheiden.
+`§ 285b (3) StPO.`  
+Diese Beschwerde hat keine aufschiebende Wirkung.
 
-`§ 358 (2) StPO.`  
-Das Verfahren tritt durch die Wiederaufnahme grundsätzlich (§ 360) in den Stand des Ermittlungsverfahrens. Die Staatsanwaltschaft hat die nach Maßgabe der bewilligenden Entscheidung erforderlichen Anordnungen oder Anträge zu stellen. Die für das Ermittlungsverfahren und die Anklage geltenden Bestimmungen sind auch hier anzuwenden.
+`§ 285b (4) StPO.`  
+Der Oberste Gerichtshof entscheidet über die Beschwerde in nichtöffentlicher Sitzung nach Anhörung des Generalprokurators.
 
-`§ 358 (3) StPO.`  
-Wird das wiederaufgenommene Ermittlungsverfahren ohne Durchführung oder außerhalb einer Hauptverhandlung eingestellt, so hat der Beschuldigte das Recht, eine Veröffentlichung der Entscheidung zu verlangen.
+`§ 285b (5) StPO.`  
+Gibt der Oberste Gerichtshof der Beschwerde Folge, so läuft im Falle des § 285a Z. 1 die Frist zur Ausführung der Nichtigkeitsbeschwerde, sofern diese nicht schon erstattet ist, vom Tage der Bekanntmachung der Entscheidung des Obersten Gerichtshofes; dem Beschwerdeführer ist gleichzeitig mit dieser Bekanntmachung, wenn es nicht bereits geschehen ist, eine Ausfertigung des Urteiles zuzustellen; im übrigen ist nach § 285 vorzugehen.
+*(Anm.: Abs. 6 aufgehoben durch BGBl. Nr. 605/1987)*
+----
 
-`§ 358 (4) StPO.`  
-Wird der Angeklagte im wiederaufgenommenen Verfahren erneut verurteilt, so ist eine bereits erlittene Strafe auf Freiheits- und Geldstrafen anzurechnen (§ 38 StGB).
+----
+### § 285c StPO
 
-`§ 358 (5) StPO.`  
-Ist die Wiederaufnahme nur zugunsten des Angeklagten bewilligt worden, so gilt das Verbot der Verschlechterung (§ 16).
+`§ 285c (1) StPO.`  
+Der Oberste Gerichtshof hat über die nach § 285 Abs. 5 an ihn gelangte Nichtigkeitsbeschwerde nur dann zuerst in nichtöffentlicher Sitzung nach Anhörung des Generalprokurators zu beraten, wenn der Generalprokurator oder der Berichterstatter einen der in den §§ 285d, 285e und 285f bezeichneten Beschlüsse beantragt.
 
-`§ 358 (6) StPO.`  
-Gegen das neue Erkenntnis stehen dieselben Rechtsmittel offen wie gegen jedes andere Urteil.
+`§ 285c (2) StPO.`  
+Außerdem wird der Gerichtstag zur öffentlichen Verhandlung der Sache unter Beobachtung der hiefür im § 286 erteilten Vorschrift angeordnet, ohne daß es hiezu eines Beschlusses des Obersten Gerichtshofes bedarf.
+----
 
-### § 360 StPO
+----
+### § 285d StPO
 
-`§ 360 (1) StPO.`  
-Das Gericht, das die Wiederaufnahme des Strafverfahrens zugunsten des Beschuldigten für zulässig erklärt, kann sofort ein Urteil fällen, wodurch der Beschuldigte freigesprochen oder seinem Antrag auf Anwendung eines milderen Strafsatzes stattgegeben wird.
+`§ 285d (1) StPO.`  
+Bei der nichtöffentlichen Beratung kann die Nichtigkeitsbeschwerde sofort zurückgewiesen werden:  
+`§ 285d (1) Z 1 StPO.`
+wenn sie schon gemäß § 285a hätte zurückgewiesen werden sollen oder wenn der geltend gemachte Nichtigkeitsgrund bereits durch eine in derselben Sache ergangene Entscheidung des Obersten Gerichtshofes beseitigt ist;  
+`§ 285d (1) Z 2 StPO.`
+wenn die Nichtigkeitsbeschwerde sich auf die im § 281 Abs. 1 Z. 1 bis 8 und 11 oder im § 281a angegebenen Nichtigkeitsgründe stützt und der Oberste Gerichtshof einstimmig erachtet, daß die Beschwerde, ohne daß es einer weiteren Erörterung bedarf, als offenbar unbegründet zu verwerfen sei.
 
-`§ 360 (2) StPO.`  
-Der Freigesprochene kann die Veröffentlichung des Erkenntnisses verlangen.
+`§ 285d (2) StPO.`  
+Der vorstehende Beschluß kann bei der nichtöffentlichen Beratung auch dann ergehen, wenn wegen anderer Nichtigkeitsgründe oder weil der Oberste Gerichtshof sich die Ausübung der ihm nach § 290 Abs. 1 zustehenden Befugnis vorbehalten will, ein Gerichtstag zur öffentlichen Verhandlung anzuberaumen ist.
+----
 
-### § 362 StPO
+----
+### § 285e StPO
 
-`§ 362 (1) StPO.`  
-Der Oberste Gerichtshof ist berechtigt, nach Anhörung des Generalprokurators im außerordentlichen Weg und ohne an die im § 353 vorgezeichneten Bedingungen gebunden zu sein, die Wiederaufnahme des Strafverfahrens zugunsten des wegen eines Verbrechens oder Vergehens Verurteilten zu verfügen, wenn sich ihm  
-`§ 362 (1) Z 1 StPO.`
-bei der vorläufigen Beratung über eine Nichtigkeitsbeschwerde oder nach der öffentlichen Verhandlung über die Beschwerde oder  
-`§ 362 (1) Z 2 StPO.`
-bei einer auf besonderen Antrag des Generalprokuraturs vorgenommenen Prüfung der Akten erhebliche Bedenken gegen die Richtigkeit der dem Urteil zugrunde gelegten Tatsachen ergeben, die auch nicht durch einzelne vom Obersten Gerichtshof etwa angeordnete Erhebungen beseitigt werden.
+`§ 285e StPO.`  
+Bei der nichtöffentlichen Beratung über eine zum Vorteile des Angeklagten ergriffene Nichtigkeitsbeschwerde kann dieser,, sofort Folge gegeben werden, wenn sich zeigt, daß die Anordnung einer neuen Hauptverhandlung nicht zu vermeiden ist, eine Entscheidung des Obersten Gerichtshofes in der Sache selbst aber noch nicht einzutreten hat. Gleiches gilt, wenn nach dem 11. Hauptstück oder § 37 SMG vorzugehen sein wird.
+----
 
-`§ 362 (2) StPO.`  
-Der Oberste Gerichtshof kann in solchen Fällen auch sofort ein neues Urteil schöpfen, mit dem der Beschuldigte freigesprochen oder ein milderer Strafsatz auf ihn angewendet wird; hiefür ist jedoch Einstimmigkeit erforderlich. Der Freigesprochene kann die Veröffentlichung des Erkenntnisses verlangen.
+----
+### § 285f StPO
 
-`§ 362 (3) StPO.`  
-Anträge von Privaten, die auf Herbeiführung eines der vorstehend erwähnten Beschlüsse des Obersten Gerichtshofes abzielen, sind von den Gerichten abzuweisen, bei denen sie einlaufen; auch dürfen sie niemals zum Gegenstande der Erörterung in der mündlichen Verhandlung gemacht werden.
+`§ 285f StPO.`  
+Bei der nichtöffentlichen Beratung kann ferner die Einholung tatsächlicher Aufklärungen über behauptete Formverletzungen oder Verfahrensmängel angeordnet werden.
+----
 
-`§ 362 (4) StPO.`  
-Auf die vom Obersten Gerichtshofe verfügte Wiederaufnahme des Strafverfahrens ist § 358 anzuwenden.
+----
+### § 285g StPO
 
-`§ 362 (5) StPO.`  
-Die Entscheidung über die Hemmung des Strafvollzuges und über die Verweisung des weiteren Verfahrens an das Gericht eines anderen Sprengels steht nur dem Obersten Gerichtshofe zu.
+`§ 285g StPO.`  
+Den im § 285d erwähnten Beschluß kann der Oberste Gerichtshof auch bei der Beratung über eine auf Grund des § 285b an ihn gelangte Beschwerde fassen, wenn die Ausführung der Nichtigkeitsbeschwerde überreicht oder die Frist hiezu verstrichen ist.
+----
 
-### § 363 StPO
+----
+### § 285h StPO
 
-`§ 363 StPO.`  
-Das Hauptverfahren kann unabhängig von den Voraussetzungen der Wiederaufnahme durchgeführt werden, wenn der zur Klage noch berechtigte Privatankläger die Anklage einbringt, während im früheren Verfahren die Einstellung oder ein freisprechendes Urteil lediglich wegen Mangels des nach dem Gesetz erforderlichen Antrages eines Opfers (§ 71) erfolgt ist.
+`§ 285h StPO.`  
+Die Bestimmungen der §§ 285c bis 285g sind auch auf Nichtigkeitsbeschwerden nach § 281a anzuwenden.
+----
 
-## II. Erneuerung des Strafverfahrens
+----
+### § 285i StPO
 
-### § 363a StPO
+`§ 285i StPO.`  
+Weist der Oberste Gerichtshof in nichtöffentlicher Sitzung die Nichtigkeitsbeschwerde oder die Beschwerde gegen deren Zurückweisung durch das Landesgericht zurück und war mit der Nichtigkeitsbeschwerde die Berufung verbunden, so entscheidet über diese das Oberlandesgericht. Dasselbe gilt, wenn der Nichtigkeitsbeschwerde eines Angeklagten sofort Folge gegeben wird (§ 285e) und der Oberste Gerichtshof nur noch über die Berufung in Ansehung eines anderen Angeklagten zu entscheiden hätte.
+----
 
-`§ 363a (1) StPO.`  
-Wird in einem Urteil des Europäischen Gerichtshofes für Menschenrechte eine Verletzung der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl. Nr. 210/1958, oder eines ihrer Zusatzprotokolle durch eine Entscheidung oder Verfügung eines Strafgerichtes festgestellt, so ist das Verfahren auf Antrag insoweit zu erneuern, als nicht auszuschließen ist, daß die Verletzung einen für den hievon Betroffenen nachteiligen Einfluß auf den Inhalt einer strafgerichtlichen Entscheidung ausüben konnte.
+----
+### § 285j StPO
 
-`§ 363a (2) StPO.`  
-Über den Antrag auf Erneuerung des Verfahrens entscheidet in allen Fällen der Oberste Gerichtshof. Den Antrag können der von der festgestellten Verletzung Betroffene und der Generalprokurator stellen; § 282 Abs. 1 ist sinngemäß anzuwenden. Der Antrag ist beim Obersten Gerichtshof einzubringen. Zu einem Antrag des Generalprokurators ist der Betroffene, zu einem Antrag des Betroffenen ist der Generalprokurator zu hören; § 35 Abs. 2 ist sinngemäß anzuwenden.
+`§ 285j StPO.`  
+Im Fall einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs. 5 erster Satz oder 62a Abs. 5 erster Satz VfGG hat das Landesgericht nach § 285a vorzugehen und eine Ausfertigung seines Beschlusses oder eines nach § 285b gefassten Beschlusses dem Verfassungsgerichtshof zu übermitteln und im Fall einer verbundenen Berufung die Verständigung des Verfassungsgerichtshofes dem Oberlandesgericht vorzulegen oder mitzuteilen, dass kein Grund für ein Vorgehen nach § 285a vorliegt.
+----
 
-### § 363b StPO
+----
+### § 286 StPO
 
-`§ 363b (1) StPO.`  
-Der Oberste Gerichtshof hat über den Antrag auf Erneuerung des Verfahrens nur dann in nichtöffentlicher Sitzung zu beraten, wenn der Generalprokurator oder der Berichterstatter einen der im Abs. 2 oder 3 angeführten Beschlüsse beantragt.
+`§ 286 (1) StPO.`  
+Vom Termin des Gerichtstags zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde sind die Beteiligten des Verfahrens zu verständigen. Der Angeklagte, sein Verteidiger sowie der allenfalls einschreitende Privatbeteiligte oder Privatankläger sind so rechtzeitig zu laden, dass ihnen eine Vorbereitungszeit von acht Tagen verbleibt. In der Ladung sind sie darauf aufmerksam zu machen, dass im Fall ihres Ausbleibens ihre Ausführungen und Beschwerden vorgetragen und der Entscheidung zu Grunde gelegt werden würden.
+*(Anm.: Abs. 1a aufgehoben durch Art. 1 Z 66, BGBl. I Nr. 157/2024)*
 
-`§ 363b (2) StPO.`  
-Bei der nichtöffentlichen Beratung kann der Oberste Gerichtshof den Antrag zurückweisen,  
-`§ 363b (2) Z 1 StPO.`
-wenn der Antrag des Betroffenen nicht von einem Verteidiger unterschrieben ist,  
-`§ 363b (2) Z 2 StPO.`
-wenn der Antrag von einer Person gestellt worden ist, der das Antragsrecht nicht zusteht, oder  
-`§ 363b (2) Z 3 StPO.`
-wenn der Gerichtshof den Antrag einstimmig als offenbar unbegründet erachtet.
+`§ 286 (2) StPO.`  
+Ist der Angeklagte verhaftet, so ist dessen Vorführung zum Gerichtstag zu veranlassen, es sei denn, dieser hat durch seinen Verteidiger ausdrücklich darauf verzichtet. In den in § 174 Abs. 1 zweiter Satz geregelten Fällen kann gemäß § 153 Abs. 4 vorgegangen werden.
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)*
 
-`§ 363b (3) StPO.`  
-Bei der nichtöffentlichen Beratung kann der Gerichtshof dem Antrag stattgeben, die strafgerichtliche Entscheidung aufheben und die Sache erforderlichenfalls an das Landesgericht oder Oberlandesgericht verweisen, wenn schon vor der öffentlichen Verhandlung über den Antrag feststeht, daß das Verfahren zu erneuern ist. Im erneuerten Verfahren darf keine strengere Strafe über den Verurteilten verhängt werden, als das frühere Urteil ausgesprochen hatte.
+`§ 286 (4) StPO.`  
+Hat er noch keinen Verteidiger, so ist ihm von Amts wegen ein Rechtsanwalt als Verteidiger beizugeben (§ 61 Abs. 3). Liegen die Voraussetzungen des § 61 Abs. 2 vor, so ist dem Angeklagten nach dieser Gesetzesstelle ein Rechtsanwalt als Verteidiger beizugeben.
+----
 
-### § 363c StPO
+----
+### § 287 StPO
 
-`§ 363c (1) StPO.`  
-Wird über den Antrag nicht schon in nichtöffentlicher Sitzung entschieden, so ist ein Gerichtstag zur öffentlichen Verhandlung der Sache anzuberaumen. Für dessen Anordnung und Durchführung gelten die §§ 286 und 287 dem Sinne nach mit der Maßgabe, daß der nicht verhaftete Angeklagte stets vorzuladen und auch die Vorführung des verhafteten Angeklagten zu veranlassen ist, wenn er dies beantragt hat oder die Vorführung sonst im Interesse der Rechtspflege geboten erscheint.
+`§ 287 (1) StPO.`  
+Die Verhandlung der Sache vor dem Obersten Gerichtshof am angesetzten Gerichtstag ist öffentlich nach den Vorschriften der §§ 228 bis 230a. Die §§ 233 bis 237 gelten sinngemäß.
 
-`§ 363c (2) StPO.`  
-Wenn der Oberste Gerichtshof den Antrag weder nach § 363b Abs. 2 Z 1 oder 2 zurückweist noch als unbegründet erachtet, gibt er ihm statt, hebt die strafgerichtliche Entscheidung auf und verweist die Sache erforderlichenfalls an das Landesgericht oder Oberlandesgericht.
+`§ 287 (2) StPO.`  
+Zuerst trägt der Berichterstatter eine Darstellung des bisherigen Ganges des Strafverfahrens vor und bezeichnet die vom Beschwerdeführer aufgestellten Nichtigkeitsgründe und die sich daraus ergebenden Streitpunkte, ohne eine Ansicht über die zu fällende Entscheidung zu äußern.
 
-## III. Wiedereinsetzung in den vorigen Stand
+`§ 287 (3) StPO.`  
+Hierauf erhält der Beschwerdeführer das Wort zur Begründung seiner Beschwerde und sodann sein Gegner zur Erwiderung. Dem Angeklagten oder seinem Verteidiger gebührt jedenfalls das Recht der letzten Äußerung. Ist ein Teil nicht erschienen, so wird dessen Beschwerdeschrift oder Gegenausführung vorgelesen. Hierauf zieht sich der Gerichtshof in sein Beratungszimmer zurück.
+----
 
-### § 364 StPO
+----
+### § 288 StPO
 
-`§ 364 (1) StPO.`  
-Gegen die Versäumung der Frist zur Anmeldung, Ausführung oder Erhebung eines Rechtsmittels oder Rechtsbehelfs ist den Beteiligten des Verfahrens die Wiedereinsetzung in den vorigen Stand zu bewilligen, sofern sie  
-`§ 364 (1) Z 1 StPO.`
-nachweisen, daß es ihnen durch unvorhersehbare oder unabwendbare Ereignisse unmöglich war, die Frist einzuhalten oder die Verfahrenshandlung vorzunehmen, es sei denn, daß ihnen oder ihren Vertretern ein Versehen nicht bloß minderen Grades zur Last liegt,  
-`§ 364 (1) Z 2 StPO.`
-die Wiedereinsetzung innerhalb von vierzehn Tagen nach dem Aufhören des Hindernisses beantragen und  
-`§ 364 (1) Z 3 StPO.`
-die versäumte schriftliche Verfahrenshandlung zugleich mit dem Antrag nachholen.
+`§ 288 (1) StPO.`  
+Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde unbegründet, so hat er sie zu verwerfen.
 
-`§ 364 (2) StPO.`  
-Über die Wiedereinsetzung entscheidet:  
-`§ 364 (2) Z 1 StPO.`
-*(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*  
-`§ 364 (2) Z 2 StPO.`
-im Falle des Einspruchs gegen das Abwesenheitsurteil eines Bezirksgerichts das Bezirksgericht;  
-`§ 364 (2) Z 3 StPO.`
-in allen anderen Fällen das Gericht, dem die Entscheidung über das Rechtsmittel oder den Rechtsbehelf zusteht.
+`§ 288 (2) StPO.`  
+Ist die Nichtigkeitsbeschwerde begründet, so ist das Urteil, soweit es angefochten und durch den Nichtigkeitsgrund berührt ist, aufzuheben und nach Verschiedenheit der Nichtigkeitsgründe gemäß den folgenden Vorschriften zu erkennen und weiter zu verfahren:  
+`§ 288 (2) Z 1 StPO.`
+Liegt einer der im § 281 Abs. 1 unter Z. 1 bis 5a angeführten Nichtigkeitsgründe vor, so ordnet der Oberste Gerichtshof eine neue Hauptverhandlung an und verweist die Sache nach seinem Ermessen entweder an dasselbe oder an ein anderes Landesgericht.  
+`§ 288 (2) Z 2 StPO.`
+Hat das Schöffengericht mit Unrecht seine Unzuständigkeit ausgesprochen oder die Anklage nicht erledigt (§ 281 Abs. 1 Z. 6 und 7), so trägt ihm der Oberste Gerichtshof auf, sich der Verhandlung und Urteilsfällung zu unterziehen, die sich im Falle der Z. 7 auf die unerledigt gebliebenen Anklagepunkte zu beschränken hat.  
+`§ 288 (2) Z 2a StPO.`
+Hat das Schöffengericht das Vorliegen der Voraussetzungen einer Einstellung des Verfahrens nach dem 11. Hauptstück oder § 37 SMG zu Unrecht nicht angenommen, so verweist der Oberste Gerichtshof die Sache an dasselbe oder an ein anderes Landesgericht, erforderlichenfalls auch an das zuständige Bezirksgericht, mit dem Auftrag, nach den Bestimmungen dieses Hauptstückes vorzugehen.  
+`§ 288 (2) Z 3 StPO.`
+In allen anderen Fällen erkennt der Oberste Gerichtshof in der Sache selbst, indem er seiner Entscheidung die Tatsachen zugrunde legt, die das Schöffengericht ohne Überschreitung der Anklage (§ 281 Abs. 1 Z. 8) festgestellt hat. Findet der Oberste Gerichtshof jedoch im Urteil und dessen Entscheidungsgründen die Tatsachen nicht festgestellt, die bei richtiger Anwendung des Gesetzes dem Erkenntnisse zugrunde zu legen wären, so verweist er die Sache zu neuer Verhandlung und Entscheidung an dasselbe oder an ein anderes Landesgericht, geeignetenfalls auch an das zuständige Bezirksgericht.
+----
 
-`§ 364 (3) StPO.`  
-Der Antrag ist bei dem Gericht einzubringen, bei dem die Verfahrenshandlung versäumt wurde. Das Gericht stellt ihn dem Gegner zur Äußerung binnen vierzehn Tagen zu und legt die Akten, sofern es nicht selbst zur Entscheidung berufen ist, nach Ablauf dieser Frist dem zuständigen Gericht vor.
+----
+### § 288a StPO
 
-`§ 364 (4) StPO.`  
-Dem Antrag kommt aufschiebende Wirkung nicht zu; das Gericht, bei dem der Antrag einzubringen ist, kann aber die Vollstreckung hemmen, sofern dies nach den Umständen des Falles angemessen erscheint. Wird die Wiedereinsetzung bewilligt, so sind die Folgen des Versäumnisses zu beseitigen und das Verfahren fortzusetzen.
+`§ 288a StPO.`  
+Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde nach § 281a gegründet, so vernichtet er die Hauptverhandlung, verweist die Sache zur nochmaligen Verhandlung vor das zuständige Landesgericht und verfügt die sonst nötige Verbesserung des Verfahrens.
+----
 
-`§ 364 (5) StPO.`  
-*(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*
+----
+### § 289 StPO
 
-`§ 364 (6) StPO.`  
-Gegen die Versäumung der Frist für einen Wiedereinsetzungsantrag (Abs. 1 Z 2) ist eine Wiedereinsetzung in den vorigen Stand nicht zulässig.
+`§ 289 StPO.`  
+War die Nichtigkeitsbeschwerde nur gegen einzelne im Urteil enthaltene Verfügungen gerichtet und findet der Oberste Gerichtshof, daß diese vom Inhalte des ganzen Urteiles trennbar seien, so steht ihm auch frei, das angefochtene Urteil nur teilweise aufzuheben. Eben dies ist der Fall, wenn dem angefochtenen Urteile mehrere strafbare Handlungen zugrunde liegen und die Nichtigkeitsbeschwerde sich nur auf das Verfahren oder die Beurteilung hinsichtlich einzelner von ihnen beschränkt, zugleich aber die erforderliche teilweise Wiederholung des Verfahrens oder auch ohne diese ein neuer Ausspruch hinsichtlich dieser einzelnen strafbaren Handlung ausführbar erscheint.
+----
 
-## 17. Hauptstück # Verfahren über privatrechtliche Ansprüche
+----
+### § 290 StPO
 
-### § 365 StPO
+`§ 290 (1) StPO.`  
+Der Oberste Gerichtshof hat sich auf die vom Beschwerdeführer ausdrücklich oder doch durch deutliche Hinweisung geltend gemachten Nichtigkeitsgründe zu beschränken. Überzeugt er sich jedoch aus Anlaß einer von wem immer ergriffenen Nichtigkeitsbeschwerde, daß zum Nachteile des Angeklagten das Strafgesetz unrichtig angewendet worden sei (§ 281 Abs. 1 Z. 9 bis 11) oder daß dieselben Gründe, auf denen seine Verfügung zugunsten eines Angeklagten beruht, auch einem Mitangeklagten zustatten kommen, der die Nichtigkeitsbeschwerde nicht ergriffen hat, so hat er von Amts wegen so vorzugehen, als wäre der in Frage kommende Nichtigkeitsgrund geltend gemacht worden. Ist der im § 281 Abs. 1 Z. 11 angeführte Nichtigkeitsgrund geltend gemacht worden, so ist so vorzugehen, als wäre auch die Berufung ergriffen worden.
 
-`§ 365 StPO.`  
-(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+`§ 290 (2) StPO.`  
+Ist die Nichtigkeitsbeschwerde lediglich zugunsten des Angeklagten ergriffen worden, so kann der Oberste Gerichtshof keine strengere Strafe über den Angeklagten verhängen, als das angefochtene Urteil ausgesprochen hatte.
+----
 
-### § 366 StPO
+----
+### § 291 StPO
 
-`§ 366 (1) StPO.`  
-Wird der Angeklagte freigesprochen, so ist der Privatbeteiligte mit seinen Ansprüchen auf den Zivilrechtsweg zu verweisen.
+`§ 291 StPO.`  
+Das Urteil des Obersten Gerichshofes ist, nachdem sich dieser in den Gerichtssaal zurückbegeben hat, samt den Entscheidungsgründen mündlich zu verkünden; hat der Angeklagte der Verhandlung beim Obersten Gerichtshofe nicht beigewohnt, so ist ihm ohne Verzug eine amtlich beglaubigte Abschrift des Urteiles durch das Landesgericht zuzustellen. Für die Ausfertigung des Urteiles und die Führung des Protokolls bei den Verhandlungen des Obersten Gerichtshofes sind die in den §§ 260, 268 bis 271 enthaltenen Vorschriften zu beobachten.
+----
 
-`§ 366 (2) StPO.`  
-Wird der Angeklagte verurteilt, so ist im Urteil (§§ 260 Abs. 1 Z 5 und 270 Abs. 2 Z 4) über die privatrechtlichen Ansprüche des Privatbeteiligten zu entscheiden (§§ 395, 407 und 409 ZPO). Bieten die Ergebnisse des Strafverfahrens keine ausreichende Grundlage für eine auch nur teilweise Beurteilung des geltend gemachten privatrechtlichen Anspruchs (§ 69 Abs. 1), so ist der Privatbeteiligte auch in diesem Fall auf den Zivilrechtsweg zu verweisen, es sei denn, dass die erforderlichen Entscheidungsgrundlagen durch eine die Entscheidung in der Schuld- und Straffrage nicht erheblich verzögernde Beweisaufnahme ermittelt werden können.
+----
+### § 292 StPO
 
-`§ 366 (3) StPO.`  
-Wird der Privatbeteiligte trotz Verurteilung auf den Zivilrechtsweg verwiesen, so steht diesem, seinem Nachlass und seinen Erben die Berufung aus dem Grund zu, dass über den privatrechtlichen Anspruch bereits gemäß Abs. 2 hätte entschieden werden können.
+`§ 292 StPO.`  
+Das Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsbeschwerde richtet sich im allgemeinen nach den in den §§ 286 Abs. 1 bis 3 und 287 bis 291 enthaltenen Vorschriften. Dem Angeklagten (Verurteilten) oder seinem Verteidiger ist eine Gleichschrift der Nichtigkeitsbeschwerde mit dem Bedeuten mitzuteilen, daß er sich binnen einer festzusetzenden angemessenen Frist hiezu äußern könne; vom Gerichtstag ist er mit der Bemerkung in Kenntnis zu setzen, daß es ihm freistehe zu erscheinen. Ist der Aufenthaltsort des Angeklagten nicht bekannt und ohne besonderen Verfahrensaufwand nicht feststellbar, so kann die Zustellung an ihn unterbleiben. Das gleiche gilt für den Privatbeteiligten, sofern der Ausspruch über die privatrechtlichen Ansprüche von der Nichtigkeitsbeschwerde betroffen ist, und für die sonst Beteiligten, sofern ihre Rechte betroffen sind. Findet der Oberste Gerichtshof die zur Wahrung des Gesetzes erhobene Beschwerde gegründet, so hat er zu erkennen, daß in der fraglichen Strafsache durch den angefochtenen Beschluß oder Vorgang, durch das gepflogene Verfahren oder durch das erlassene Urteil das Gesetz verletzt worden sei. Dieser Ausspruch ist in der Regel ohne Wirkung auf den Angeklagten. Ist jedoch der Angeklagte durch ein solches nichtiges Urteil zu einer Strafe verurteilt worden, so steht es dem Obersten Gerichtshofe frei, nach seinem Ermessen entweder den Angeklagten freizusprechen oder einen milderen Strafsatz anzuwenden oder nach Umständen eine Erneuerung des gegen diesen gepflogenen Verfahrens anzuordnen.
+----
 
-### § 367 StPO
+----
+### § 293 StPO
 
-`§ 367 (1) StPO.`  
-Ein sichergestellter oder beschlagnahmter Gegenstand oder Vermögenswert des Opfers ist nach Rechtskraft des Urteils an das Opfer zurückzustellen.
+`§ 293 (1) StPO.`  
+Das Gericht, an das die Sache nach den §§ 288 und 292 zu neuer Verhandlung verwiesen wird, hat dabei die ursprüngliche Anklage zugrunde zu legen, sofern nicht der Oberste Gerichtshof eine Abweichung angeordnet hat.
 
-`§ 367 (2) StPO.`  
-Vor Rechtskraft des Urteils kann ein sichergestellter oder beschlagnahmter Gegenstand oder Vermögenswert an das Opfer von Amts wegen oder auf Antrag des Opfers, soweit möglich, nach Anhörung des Beschuldigten und der übrigen Beteiligten zurückgestellt werden, es sei denn,  
-`§ 367 (2) Z 1 StPO.`
-der Gegenstand oder Vermögenswert ist im weiteren Verfahren als Beweismittel erforderlich, oder  
-`§ 367 (2) Z 2 StPO.`
-es liegen sonstige Umstände (§ 368) vor, die der Ausfolgung an das Opfer entgegenstehen.  
-Die Entscheidung steht im Ermittlungsverfahren der Staatsanwaltschaft, in der Hauptverhandlung dem erkennenden Gericht und sonst dem Vorsitzenden zu.
+`§ 293 (2) StPO.`  
+Es ist an die Rechtsansicht gebunden, von der der Oberste Gerichtshof bei seiner Entscheidung ausgegangen ist.
 
-### § 368 StPO
+`§ 293 (3) StPO.`  
+Die Bestimmung des § 290 Abs. 2 ist auch für das auf Grund der neuen Hauptverhandlung ergehende Urteil maßgebend.
 
-`§ 368 StPO.`  
-Kann das Opfer sein Recht an dem Gegenstand oder Vermögenswert nicht nachweisen, liegen bestimmte Anhaltspunkte für dingliche Rechte Dritter daran vor oder ist das Recht daran zwischen mehreren Opfern strittig (§ 367 Abs. 2 Z 2), so ist der Antrag nach § 367 Abs. 2 abzuweisen, die Sicherstellung oder Beschlagnahme aufzuheben und der Gegenstand oder Vermögenswert nach § 1425 ABGB bei dem für den Sitz des Gerichts zuständigen Bezirksgericht zu hinterlegen. Das Gericht hat in diesen Fällen das Opfer mit seinem Begehren auf den Zivilrechtsweg zu verweisen.
+`§ 293 (4) StPO.`  
+Gegen dieses Urteil kann die Nichtigkeitsbeschwerde aus allen im § 281 erwähnten Gründen ergriffen werden, soweit diese nicht bereits durch eine in derselben Sache ergangene Entscheidung des Obersten Gerichtshofes beseitigt sind.
+----
 
-### § 369 StPO
+----
+## 2. Verfahren bei Berufungen
 
-`§ 369 (1) StPO.`  
-Wenn der dem Opfer entzogene Gegenstand oder Vermögenswert nicht mehr zurückgestellt werden kann, sowie in allen Fällen, in denen es sich nicht um die Rückstellung eines entzogenen Gegenstands oder Vermögenswerts, sondern um den Ersatz eines erlittenen Schadens oder entgangenen Gewinnes oder um Tilgung einer verursachten Beleidigung handelt (§ 1323 ABGB), ist im Strafurteil die Schadloshaltung oder Genugtuung zuzuerkennen, wenn sowohl ihr Betrag als auch die Person, der sie gebührt, mit Zuverlässigkeit bestimmt werden kann.
+### § 294 StPO
 
-`§ 369 (2) StPO.`  
-Liegen hinreichende Gründe für die Annahme vor, dass das Opfer seinen Schaden zu hoch angebe, so kann ihn das Gericht nach Erwägung aller Umstände, allenfalls nach vorgenommener Schätzung durch Sachverständige, ermäßigen.
+`§ 294 (1) StPO.`  
+Die Berufung ist innerhalb der im § 284 bezeichneten Frist beim Landesgericht anzumelden. Sie hat aufschiebende Wirkung, es sei denn, daß der Angeklagte selbst erklärt, eine Freiheitsstrafe einstweilen antreten zu wollen.
 
-### § 370 StPO
+`§ 294 (2) StPO.`  
+Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden. Der Beschwerdeführer hat das Recht, binnen vier Wochen nach der Anmeldung der Berufung, wenn ihm eine Urteilsabschrift aber erst nach der Anmeldung des Rechtsmittels zugestellt wurde, binnen vier Wochen nach der Zustellung eine Ausführung seiner Beschwerdegründe beim Gericht in zweifacher Ausfertigung zu überreichen. Wurde dem Beschwerdeführer für die Ausführung der Nichtigkeitsbeschwerde gemäß § 285 Abs. 2 eine längere Frist gewährt, so gilt diese auch für die Ausführung der Berufung. Er muß entweder in dieser Schrift oder bei der Anmeldung erklären, ob er sich durch den Ausspruch über die Strafe oder durch den Ausspruch über die privatrechtlichen Ansprüche beschwert erachtet, widrigenfalls das Oberlandesgericht darauf keine Rücksicht zu nehmen hat; ist mehr als eine Strafe oder sonstige Unrechtsfolge ausgesprochen worden, so muß der Beschwerdeführer auch erklären, gegen welche von ihnen sich die Berufung richtet. Die Anmeldung, die die Berufungsgründe enthält, oder die rechtzeitig eingebrachte Ausführung ist dem Gegner mit dem Bedeuten mitzuteilen, daß er binnen vier Wochen seine Gegenausführung überreichen könne.
 
-`§ 370 StPO.`  
-(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 106)
+`§ 294 (3) StPO.`  
+Die Gegenausführung ist dem Beschwerdeführer zuzustellen. Danach sind alle Akten dem Oberlandesgericht vorzulegen, das über die Berufung nur dann in nichtöffentlicher Sitzung berät, wenn der Berichterstatter oder der Oberstaatsanwalt beantragt, die Berufung aus einem der im folgenden Absatz angeführten Gründe zurückzuweisen.
 
-### § 371 StPO
+`§ 294 (4) StPO.`  
+Das Oberlandesgericht kann die Berufung in nichtöffentlicher Sitzung zurückweisen, wenn sie zu spät angemeldet oder von einer Person ergriffen worden ist, der das Berufungsrecht überhaupt nicht oder nicht in der Richtung zusteht, in der es in Anspruch genommen wird, oder die darauf verzichtet hat; ferner, wenn der Berufungswerber weder bei der Anmeldung der Berufung noch in ihrer Ausführung die Punkte des Erkenntnisses, durch die er sich beschwert findet, deutlich und bestimmt bezeichnet hat, auf die Berufung daher keine Rücksicht zu nehmen ist. Liegt dem Oberlandesgericht eine Verständigung des Verfassungsgerichtshofes vor (§ 285j), so hat der Vorsitzende diesem den Beschluss über die Zurückweisung zu übermitteln.
 
-`§ 371 (1) StPO.`  
-Ergibt sich aus der Schuld des Angeklagten die gänzliche oder teilweise Ungültigkeit eines mit ihm eingegangenen Rechtsgeschäftes oder eines Rechtsverhältnisses, so ist im Strafurteil auch hierüber und über die daraus entspringenden Rechtsfolgen zu erkennen.
+`§ 294 (5) StPO.`  
+Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschieden, so hat der Vorsitzende einen Gerichtstag zur öffentlichen Verhandlung über die Berufung anzuordnen. Für die Anberaumung und Durchführung des Gerichtstages gelten die Bestimmungen der §§ 286 und 287 dem Sinne nach mit der Maßgabe, dass der nicht verhaftete Angeklagte vorzuladen und auch die Vorführung des verhafteten Angeklagten zu veranlassen ist, es sei denn, dieser hätte durch seinen Verteidiger ausdrücklich darauf verzichtet oder es liegt ein Fall des § 286 Abs. 2 zweiter Satz vor. Ist die Berufung gegen den Ausspruch über die privatrechtlichen Ansprüche gerichtet, so ist auch der Privatbeteiligte vorzuladen. Die §§ 233 bis 237 gelten sinngemäß.
+----
 
-`§ 371 (2) StPO.`  
-Der rechtswirksame Ausspruch, daß eine Ehe nichtig sei, bleibt jedoch stets dem Zivilgerichte vorbehalten. Das Strafgericht kann die Nichtigkeit einer Ehe nur als Vorfrage beurteilen (§§ 15 und 69 Abs. 1).
+----
+### § 295 StPO
 
-### § 372 StPO
+`§ 295 (1) StPO.`  
+Das Oberlandesgericht hat sich bei seiner Entscheidung auf die der Berufung unterzogenen Punkte zu beschränken und dabei den Ausspruch des Gerichtes über die Schuld des Angeklagten und über das anzuwendende Strafgesetz zugrunde zu legen. Setzt es die Strafe zugunsten eines oder mehrerer Mitschuldiger aus Gründen herab, die auch anderen zustatten kommen, so hat es von Amts wegen so vorzugehen, als hätten auch diese Mitschuldigen die Berufung ergriffen.
 
-`§ 372 StPO.`  
-Dem Privatbeteiligten steht es frei, den Zivilrechtsweg zu betreten, wenn er sich mit der vom Strafgericht ihm zuerkannten Entschädigung nicht begnügen will.
+`§ 295 (2) StPO.`  
+Ist die Berufung lediglich zugunsten des Angeklagten ergriffen worden, so kann das Oberlandesgericht keine strengere Strafe über den Angeklagten verhängen, als das erste Urteil ausgesprochen hatte. Auf Antrag des Angeklagten oder mit seiner Zustimmung kann jedoch an Stelle einer bedingt nachgesehenen Freiheitsstrafe eine Geldstrafe verhängt werden, die nicht bedingt nachgesehen wird.
 
-### § 373 StPO
+`§ 295 (3) StPO.`  
+Gegen seine Entscheidung ist kein Rechtsmittel zulässig.
+----
 
-`§ 373 StPO.`  
-Ist das über die privatrechtlichen Ansprüche ergangene strafgerichtliche Erkenntnis in Rechtskraft erwachsen, so ist jeder Beteiligte berechtigt, vom Gerichte, das in erster Instanz erkannt hat, die Anmerkung der Rechtskräftigkeit des Erkenntnisses auf dem Urteile zu begehren; ein solches Erkenntnis hat dann die Wirkung, daß um seine Exekution unmittelbar beim Zivilgericht angesucht werden kann.
+----
+### § 296 StPO
 
-### § 373a StPO
+`§ 296 (1) StPO.`  
+Ist außer über die Berufung auch über eine Nichtigkeitsbeschwerde zu entscheiden, die von der einen oder der anderen Seite ergriffen worden ist, so sind bei Vorlegung der Akten an den Obersten Gerichtshof auch die Aktenstücke beizulegen, die die Berufung betreffen. In diesem Fall entscheidet der Oberste Gerichtshof, sofern er nicht nach § 285i vorgeht, auch über die Berufung.
 
-`§ 373a (1) StPO.`  
-Ist dem Privatbeteiligten rechtskräftig eine Entschädigung wegen Tötung, Körperverletzung oder Gesundheitsschädigung oder wegen einer Schädigung am Vermögen zuerkannt worden, so kann der Bund dem Privatbeteiligten oder seinen Erben nach Maßgabe der folgenden Bestimmungen einen Vorschuß auf die Entschädigungssumme gewähren. Der Zuerkennung einer Entschädigung im Strafurteil steht die Erlangung eines anderen im Inland vollstreckbaren Exekutionstitels gegen den Verurteilten wegen der den Gegenstand der Verurteilung bildenden strafbaren Handlung durch das Opfer gleich.
+`§ 296 (2) StPO.`  
+Der Oberste Gerichtshof berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder der Generalprokurator die Zurückweisung der Berufung aus einem der im § 294 Abs. 4 angeführten Gründe beantragt und nicht über die Nichtigkeitsbeschwerde bei einem Gerichtstag zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde entschieden werden muß.
 
-`§ 373a (2) StPO.`  
-Ein Vorschuß kann nur auf Antrag des Anspruchsberechtigten und nur insoweit gewährt werden, als es offenbar ist, daß die alsbaldige Zahlung der Entschädigungssumme oder eines entsprechenden Teiles davon ausschließlich oder überwiegend dadurch vereitelt wird, daß an dem Verurteilten die im selben Verfahren ausgesprochene Freiheits- oder Geldstrafe vollzogen wird.
+`§ 296 (3) StPO.`  
+Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschieden, so entscheidet der Oberste Gerichtshof über die Berufung beim Gerichtstag zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde. In diesem Fall ist zum Gerichtstag der nicht verhaftete Angeklagte vorzuladen und die Vorführung des verhafteten Angeklagten zu veranlassen, es sei denn, dieser hätte durch seinen Verteidiger ausdrücklich darauf verzichtet oder es liegt ein Fall des § 286 Abs. 2 zweiter Satz vor. Ist die Berufung gegen den Ausspruch über die privatrechtlichen Ansprüche gerichtet, so ist auch der Privatbeteiligte vorzuladen.
+----
 
-`§ 373a (3) StPO.`  
-Eine Vereitelung der alsbaldigen Zahlung einer Entschädigung im Sinne des Abs. 2 ist ohne weiteres anzunehmen, wenn der Verurteilte zwar die über ihn verhängte Geldstrafe, sei es auch in Teilbeträgen, zahlt oder diese Geldstrafe sonst von ihm eingebracht wird, Zahlungen an das Opfer oder seine Erben aber nicht erfolgen und auch im Wege einer Zwangsvollstreckung nicht erwartet werden können.
+----
+## 3. Gemeinsame Bestimmung
 
-`§ 373a (4) StPO.`  
-Einzelrechtsnachfolgern, auf die der Entschädigungsanspruch kraft Gesetzes übergegangen ist, kann ein Vorschuß nicht gewährt werden. § 8 Abs. 1 des Bundesgesetzes über die Gewährung von Hilfeleistungen an Opfer von Verbrechen, BGBl. Nr. 288/1972, gilt dem Sinne nach.
+### § 296a StPO
 
-`§ 373a (5) StPO.`  
-Die Gewährung eines Vorschusses ist ausgeschlossen, wenn dem Antragsteller mit Rücksicht auf seine Einkommens- und Vermögensverhältnisse, auf die ihm von Gesetzes wegen obliegenden Unterhaltsverpflichtungen und auf seine sonstigen persönlichen Verhältnisse offenbar zugemutet werden kann, die Vereitelung hinzunehmen. Ein Vorschuß kann ferner nicht gewährt werden, soweit der Antragsteller gegen einen Dritten Anspruch auf entsprechende Leistungen hat und die Verfolgung dieses Anspruches zumutbar und nicht offenbar aussichtslos ist. Der Vorschuß darf jenen Entschädigungsbetrag nicht übersteigen, der vom Verurteilten ohne den Strafvollzug innerhalb eines Jahres hätte geleistet werden können (Abs. 2).
+`§ 296a StPO.`  
+Ist nach der Entscheidung über eine Nichtigkeitsbeschwerde oder Berufung  
+`§ 296a Z 1 StPO.`
+an dem in Untersuchungshaft angehaltenen Angeklagten eine Freiheitsstrafe oder eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme zu vollziehen oder  
+`§ 296a Z 2 StPO.`
+der Angeklagte in Freiheit zu setzen,  
+so hat der Oberste Gerichtshof oder das Oberlandesgericht den Vorsitzenden des Schöffengerichtes davon sogleich unter Anschluß der erforderlichen Angaben zu verständigen, es sei denn, daß im Falle der Z. 2 die Entscheidung bei einem Gerichtstag in Anwesenheit des Angeklagten ergeht (§ 396).
+----
 
-`§ 373a (6) StPO.`  
-Die Gewährung eines Vorschusses ist auch ausgeschlossen,  
-`§ 373a (6) Z 1 StPO.`
-soweit ein Anspruch nach dem Bundesgesetz über die Gewährung von Hilfeleistungen an Opfer von Verbrechen gegeben ist;  
-`§ 373a (6) Z 2 StPO.`
-soweit der Anspruch sich auf Leistungen erstreckt, die im Falle des Bestehens von Ansprüchen nach dem in der Z. 1 genannten Bundesgesetz nicht zu erbringen wären.
+----
+## 5. TEIL # Besondere Verfahren # 15. Hauptstück # Hauptverhandlung vor dem Landesgericht als Geschworenengericht und Rechtsmittel gegen dessen Urteile # I. Allgemeine Bestimmungen
 
-`§ 373a (7) StPO.`  
-Vorschüsse auf Ansprüche wegen Schädigung am Vermögen sind nur bis zum Ausmaß der eigentlichen Schadloshaltung (§ 1323 des Allgemeinen bürgerlichen Gesetzbuches) zu gewähren.
+### § 297 StPO
 
-`§ 373a (8) StPO.`  
-Über Anträge auf Gewährung von Vorschüssen entscheidet der Vorsitzende durch Beschluß. Der Beschluß kann anordnen, daß der Vorschuß innerhalb eines Jahres in Teilbeträgen auszuzahlen ist. Der Beschluß ist dem Antragsteller und dem Verurteilten zuzustellen. Dem Staatsanwalt und dem Antragsteller steht dagegen die binnen vierzehn Tagen nach Bekanntmachung einzubringende Beschwerde an das übergeordnete Gericht zu. Sobald der Beschluß über die Gewährung eines Vorschusses rechtskräftig ist, hat der Vorsitzende die Einbringungsstelle beim Oberlandesgericht Wien um die Auszahlung, allenfalls nach Maßgabe der hierüber getroffenen Anordnung, zu ersuchen.
+`§ 297 StPO.`  
+*(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z 92)*
+----
 
-`§ 373a (9) StPO.`  
-Soweit der Bund einen Vorschuß geleistet hat, gehen die Ansprüche des Antragstellers von Gesetzes wegen auf den Bund über. Für die Wirksamkeit dieses Forderungsüberganges gegenüber dem Verurteilten gelten der letzte Satz des § 1395 und der erste Satz des § 1396 des Allgemeinen bürgerlichen Gesetzbuches dem Sinne nach. Sobald die Ansprüche auf den Bund übergegangen sind, hat der Verurteilte Zahlungen bis zur Höhe des gewährten Vorschusses an die Einbringungsstelle beim Oberlandesgericht Wien zu erbringen.
+----
+### § 298 StPO
 
-`§ 373a (10) StPO.`  
-Soweit der Verurteilte keine Zahlungen (Abs. 9) leistet, hat die Einbringungsstelle beim Oberlandesgericht Wien die Forderung zwangsweise hereinzubringen. Soweit eine sofortige zwangsweise Hereinbringung mit Rücksicht auf den Vollzug der Strafe offenbar aussichtslos wäre, kann sie bis nach dessen Beendigung aufgeschoben werden.
+`§ 298 StPO.`  
+*(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 92)*
+----
 
-### § 373b StPO
+----
+### § 299 StPO
 
-`§ 373b StPO.`  
-Hat das Opfer im Fall eines Verfalls nach § 20 StGB oder eines erweiterten Verfalls nach § 20b StGB einen vollstreckbaren Exekutionstitel für seine Entschädigung erwirkt und wurde diese noch nicht geleistet, so hat das Opfer unbeschadet des § 373a das Recht zu verlangen, dass seine Ansprüche aus dem vom Bund vereinnahmten Vermögenswert befriedigt werden.
+`§ 299 StPO.`  
+*(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 92)*
+----
 
-### § 374 StPO
+----
+### § 301 StPO
 
-`§ 374 StPO.`  
-Um Änderung des rechtskräftigen strafgerichtlichen Ausspruches über privatrechtliche Ansprüche wegen neu aufgefundener Beweismittel sowie um Aufhebung seiner Vollstreckung wegen eines nachgefolgten Tatumstandes kann außer dem Fall einer aus anderen Gründen stattfindenden Wiederaufnahme des Strafverfahrens vom Verurteilten und dessen Rechtsnachfolgern nur vor dem Zivilrichter angesucht werden.
+`§ 301 (1) StPO.`  
+Die Mitglieder des Schwurgerichtshofes, die Ersatzrichter und die Reihenfolge ihres Eintrittes werden durch die Geschäftsverteilung bestimmt. Als Vorsitzender und als dessen Ersatzmann sollen nur Richter bestimmt werden, die mindestens fünf Jahre als Richter bei einem Landesgericht in Strafsachen oder als Staatsanwälte tätig gewesen sind.
 
-### § 375 StPO
+`§ 301 (2) StPO.`  
+Die Bildung der Listen, denen die Geschworenen zu entnehmen sind, die Heranziehung der in diesen Listen verzeichneten Personen zum Dienst als Geschworene und die wegen Pflichtverletzungen der Geschworenen zulässigen Maßnahmen regelt ein besonderes Gesetz.
 
-`§ 375 (1) StPO.`  
-Werden bei einem Beschuldigten nach allem Anschein fremde Vermögenswerte aufgefunden, deren Eigentümer er nicht angeben kann oder will, so sind sie zu beschlagnahmen (§ 115 Abs. 1 Z 2) und in einem Edikt (§ 376) so zu beschreiben, dass der Eigentümer den Vermögenswert zwar als den seinen erkennen kann, jedoch der Beweis des Eigentumsrechts der Bezeichnung wesentlicher Unterscheidungsmerkmale vorbehalten wird.
+`§ 301 (3) StPO.`  
+§ 221 Abs. 4 ist sinngemäß anzuwenden.
+----
 
-`§ 375 (2) StPO.`  
-Für das Verfahren auf Grund von erhobenen Ansprüchen gelten die Bestimmungen der §§ 367 bis 369.
+----
+## II. Hauptverhandlung vor dem Geschworenengerichte # 1. Allgemeine Bestimmungen
 
-### § 376 StPO
+### § 302 StPO
 
-`§ 376 (1) StPO.`  
-Eine solche Beschreibung ist durch Aufnahme in die Ediktsdatei öffentlich bekannt zu machen (§ 89j Abs. 1 GOG). In diesem Edikt ist der Eigentümer aufzufordern, sich binnen eines Jahres ab Bekanntmachung zu melden und sein Recht nachzuweisen.
+`§ 302 (1) StPO.`  
+Die Hauptverhandlung richtet sich, soweit in diesem Hauptstücke nichts anderes bestimmt ist, nach den Vorschriften des 14. Hauptstückes. Was dort für das Schöffengericht und den Vorsitzenden bestimmt ist, gilt für den Schwurgerichtshof und dessen Vorsitzenden.
 
-`§ 376 (2) StPO.`  
-Die Auffindung von Gegenständen, derentwegen eine unverzügliche abgesonderte Bekanntmachung nicht notwendig erscheint, kann von Zeit zu Zeit in gemeinsamen Edikten bekanntgemacht werden.
+`§ 302 (2) StPO.`  
+Der Vorsitzende des Schwurgerichtshofes ist insbesondere verpflichtet, den Geschworenen auch außer den Fällen, für die es im Gesetz ausdrücklich vorgeschrieben ist, die zur Ausübung ihres Amtes erforderlichen Anleitungen zu geben und sie nötigenfalls an ihre Pflichten zu erinnern.
+----
 
-### § 377 StPO
+----
+### § 303 StPO
 
-`§ 377 StPO.`  
-Unterliegt der fremde Gegenstand oder Vermögenswert einem raschen Verderben, einer erheblichen Wertminderung oder Wertschwankung oder lässt er sich nur mit unverhältnismäßigen Kosten bis zum Ablauf der Ediktalfrist des § 376 Abs. 1 aufbewahren, so ist er vom Gericht bereits vor diesem Zeitpunkt zu verwerten. Die Verwertung hat nach den Bestimmungen der Exekutionsordnung zu erfolgen. Die Verwertung hat durch öffentliche Versteigerung (§ 274 EO) oder bei sinngemäßem Vorliegen der in § 280 oder § 326 EO bezeichneten Voraussetzungen auf die dort vorgesehene Weise zu erfolgen. In den Fällen des § 268 EO ist auch ein Freihandverkauf zulässig. Der Kaufpreis ist beim Strafgericht zu erlegen, zugleich ist eine genaue Beschreibung jedes verkauften Gegenstands oder Vermögenswerts und der erzielte Erlös auf die in § 376 beschriebene Weise zu veröffentlichen.
+`§ 303 StPO.`  
+Soweit nach den folgenden Vorschriften der Schwurgerichtshof gemeinsam mit den Geschworenen zu entscheiden hat, richten sich Abstimmung und Beschlußfassung nach den für die Schöffengerichte geltenden Bestimmungen.
+----
 
-### § 378 StPO
+----
+## 2. Beginn der Hauptverhandlung
 
-`§ 378 StPO.`  
-Wenn binnen der Ediktalfrist niemand ein Recht auf die beschriebenen Gegenstände dartut, so sind sie, wenn sie aber der Dringlichkeit wegen verkauft wurden, so ist ihr Erlös dem Beschuldigten auf sein Verlangen auszufolgen, sofern nicht durch einen Beschluß des zur Entscheidung in erster Instanz berufenen Gerichtes ausgesprochen ist, daß die Rechtmäßigkeit des Besitzes des Beschuldigten nicht glaubwürdig sei.
+### § 304 StPO
 
-### § 379 StPO
+`§ 304 StPO.`  
+Sobald die Geschworenen ihre Sitze in der alphabetischen Reihenfolge ihrer Namen, Ersatzgeschworene nach den übrigen Geschworenen, eingenommen haben, beginnt die Hauptverhandlung mit dem Aufrufe der Sache durch den Schriftführer. Der Vorsitzende stellt an den Angeklagten die im § 240 vorgeschriebenen Fragen und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung.
+----
 
-`§ 379 StPO.`  
-Gegenstände und Vermögenswerte, die dem Beschuldigten nicht ausgefolgt werden, sind auf die im § 377 angeordnete Weise zu veräußern. Der Kaufpreis ist an die Bundeskasse abzugeben. Dem Berechtigten steht jedoch frei, seine Ansprüche auf den Kaufpreis gegen den Bund binnen dreißig Jahren vom Tage der dritten Einschaltung des Ediktes im Zivilrechtswege geltend zu machen.
+----
+### § 305 StPO
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StPO.021](BG.StPO.021.md))*
+`§ 305 (1) StPO.`  
+Hierauf beeidigt der Vorsitzende bei sonstiger Nichtigkeit die Geschworenen, die in demselben Jahre noch nicht beeidigt worden sind. Er gibt die Namen der schon beeidigten Geschworenen bekannt und erinnert diese an die Bedeutung des von ihnen abgelegten Eides. Sodann fordert er die Geschworenen auf, sich von den Sitzen zu erheben, und hält an sie folgende Anrede:
+„Sie schwören und geloben vor Gott, die Beweise, die gegen und für den Angeklagten werden vorgebracht werden, mit der gewissenhaftesten Aufmerksamkeit zu prüfen, nichts unerwogen zu lassen, was zum Vorteil oder zum Nachteil des Angeklagten gereichen kann, das Gesetz, dem Sie Geltung verschaffen sollen, treu zu beobachten, vor Ihrem Ausspruch über den Gegenstand der Verhandlung mit niemand außer mit den Mitgliedern des Schwurgerichtshofes und Ihren Mitgeschworenen Rücksprache zu nehmen, der Stimme der Zu- oder Abneigung, der Furcht oder der Schadenfreude kein Gehör zu geben, sondern sich mit Unparteilichkeit und Festigkeit nur nach den für und wider den Angeklagten vorgeführten Beweismitteln und Ihrer darauf gegründeten Überzeugung so zu entscheiden, wie Sie es vor Gott und Ihrem Gewissen verantworten können.“
+
+`§ 305 (2) StPO.`  
+Sodann wird jeder noch nicht beeidigte Geschworene einzeln vom Vorsitzenden aufgerufen und antwortet: „Ich schwöre, so wahr mir Gott helfe.“ Das Religionsbekenntnis der Geschworenen macht dabei keinen Unterschied. Nur Geschworene, die keinem Religionsbekenntnis angehören oder deren Bekenntnis die Eidesleistung untersagt, werden durch Handschlag verpflichtet.
+
+`§ 305 (3) StPO.`  
+Die Beeidigung gilt für die Dauer des Kalenderjahres. Sie ist im Verhandlungsprotokoll und fortlaufend in einem besonderen Abschnitte des Buches über die Beeidigung der Schöffen (§ 240a Abs. 3) zu beurkunden.
+----
+
+`END-OF-DATA-SET`

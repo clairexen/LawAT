@@ -1,304 +1,450 @@
 # BG.StPO.024 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** StPO  
+**Kurztitel:** ['StPO']  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.024.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.StPO.023](BG.StPO.023.md))*
+Der Nationalrat hat beschlossen:
+
+----
+## 18. Hauptstück # Kosten des Strafverfahrens
+
+### § 380 StPO
+
+`§ 380 StPO.`  
+Sofern die besonderen Vorschriften über die Gerichtsgebühren nichts anderes bestimmen, sind in Strafsachen keine Gebühren zu entrichten.
+----
+
+----
+### § 381 StPO
+
+`§ 381 (1) StPO.`  
+Die Kosten des Strafverfahrens, die von der zum Kostenersatze verpflichteten Partei zu ersetzen sind, umfassen:  
+`§ 381 (1) Z 1 StPO.`
+einen Pauschalkostenbeitrag als Anteil an den im Folgenden nicht besonders angeführten Kosten des Strafverfahrens, einschließlich der Kosten der Ermittlungen der Kriminalpolizei und der zur Durchführung von Anordnungen der Staatsanwaltschaft oder des Gerichts notwendigen Amtshandlungen;  
+`§ 381 (1) Z 2 StPO.`
+die Gebühren der Sachverständigen;  
+`§ 381 (1) Z 2a StPO.`
+soweit nicht nach Abs. 6 vorzugehen ist, die Gebühren der Dolmetscher, im Fall einer Bestellung nach § 126 Abs. 2a einen Pauschalbeitrag von 159 Euro;  
+`§ 381 (1) Z 3 StPO.`
+eine Vergütung für Auskünfte, Befunde und Gutachten von Behörden (Ämtern, Anstalten) in der Höhe, wie sie für solche Auskünfte, Befunde und Gutachten in Privatangelegenheiten zu entrichten wäre;  
+`§ 381 (1) Z 4 StPO.`
+die Kosten der Beförderung und Bewachung des Beschuldigten im Zusammenhang mit seiner Überstellung aus einem anderen Staat sowie die Kosten aus dem Ausland geladener Zeugen;  
+`§ 381 (1) Z 5 StPO.`
+die Kosten einer Sicherstellung, einer Auskunft über Bankkonten und über Bankgeschäfte oder der Beschlagnahme von Briefen, der Auskunft über Daten einer Nachrichtenübermittlung und der Überwachung von Nachrichten gemäß §§ 111 Abs. 3, 116 Abs. 6 letzter Satz und 138 Abs. 3, soweit diese Ermittlungsmaßnahmen einen erheblichen Beitrag zur Aufklärung der Tat geleistet haben;  
+`§ 381 (1) Z 6 StPO.`
+die Kosten der Vollstreckung des Strafurteiles einschließlich der Kosten der Überstellung von Strafgefangenen in den in- oder ausländischen Strafvollzug, ausgenommen die Kosten des Vollzuges einer Freiheitsstrafe;  
+`§ 381 (1) Z 7 StPO.`
+die im Strafverfahren zu entrichtenden Gerichtsgebühren;  
+`§ 381 (1) Z 8 StPO.`
+die Kosten der Verteidiger und anderer Vertreter;  
+`§ 381 (1) Z 9 StPO.`
+einen Pauschalbetrag als Anteil an den Kosten der Prozessbegleitung (§ 66b) bis zu 1 000 Euro.
+
+`§ 381 (2) StPO.`  
+Diese Kosten werden, soweit sich aus besonderen gesetzlichen Vorschriften nichts anderes ergibt, mit Ausnahme der unter Abs. 1 Z. 3 und 7 bis 9 bezeichneten Kosten vom Bunde vorgeschossen, vorbehaltlich des Rückersatzes nach den Bestimmungen der §§ 389 bis 391.
+
+`§ 381 (3) StPO.`  
+Der Pauschalkostenbeitrag (Abs. 1 Z 1) ist innerhalb der folgenden Grenzen zu bemessen (Abs. 5):  
+`§ 381 (3) Z 1 StPO.`
+im Verfahren vor dem Landesgericht als Geschworenengericht von 500 Euro bis 10 000 Euro  
+`§ 381 (3) Z 2 StPO.`
+im Verfahren vor dem Landesgericht als Schöffengericht von 250 Euro bis 5 000 Euro  
+`§ 381 (3) Z 3 StPO.`
+im Verfahren vor dem Einzelrichter des Landesgerichts von 150 Euro bis 3 000 Euro  
+`§ 381 (3) Z 4 StPO.`
+im Verfahren vor dem Bezirksgericht von 50 Euro bis 1 000 Euro
 
-## 23. Hauptstück # Verfahren vor dem Landesgericht als Einzelrichter
+`§ 381 (4) StPO.`  
+Spricht ein Landesgericht lediglich eine Verurteilung wegen einer in die Zuständigkeit der Bezirksgerichte fallenden strafbaren Handlung aus, so darf der Pauschalkostenbeitrag den für das Verfahren vor den Bezirksgerichten vorgesehenen Betrag nicht übersteigen. Im Verfahren vor den Bezirksgerichten auf Grund einer Privatanklage ist ein Pauschalkostenbeitrag nicht zu bestimmen, wenn keine Hauptverhandlung stattgefunden hat und auch keine Zeugen- oder Sachverständigengebühren aufgelaufen sind.
+
+`§ 381 (5) StPO.`  
+Bei Bemessung des Pauschalkostenbeitrages gemäß Abs. 3 sind die Belastung der im Strafverfahren tätigen Behörden und Dienststellen und das Ausmaß der diesen erwachsenen, nicht besonders zu vergütenden Auslagen sowie das Vermögen, das Einkommen und die anderen für die wirtschaftliche Leistungsfähigkeit des Ersatzpflichtigen maßgebenden Umstände zu berücksichtigen.
 
-### § 483 StPO
+`§ 381 (5a) StPO.`  
+Bei Bemessung des Pauschalbetrages gemäß Abs. 1 Z 9 sind die Belastung der mit der Prozessbegleitung beauftragten Einrichtung und das Ausmaß ihrer Aufwendungen sowie die im Abs. 5 bezeichneten Umstände der wirtschaftlichen Leistungsfähigkeit des Ersatzpflichtigen zu berücksichtigen.
 
-`§ 483 StPO.`  
-(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)
+`§ 381 (6) StPO.`  
+Die Kosten für Übersetzungshilfe (§ 56) bilden keinen Teil der vom Angeklagten zu ersetzenden Kosten. Weitergehende Rechte, die sprachlichen Minderheiten bundesgesetzlich eingeräumt sind, bleiben unberührt.
 
-### § 484 StPO
+`§ 381 (7) StPO.`  
+Die durch eine Festnahme verursachten Kosten und die Kosten der Untersuchungshaft sind bei Bemessung des Pauschalkostenbeitrages nicht zu berücksichtigen.
+----
 
-`§ 484 StPO.`  
-Der Strafantrag (§ 210 Abs. 1) hat die im § 211 Abs. 1 angeführten Angaben zu enthalten und jene Beweise zu bezeichnen, deren Aufnahme in der Hauptverhandlung beantragt wird. Das Gericht hat den Strafantrag dem Angeklagten, gegebenenfalls samt einer Rechtsbelehrung gemäß § 50, insbesondere der Information, ob ein Fall notwendiger Verteidigung gegeben ist, unverzüglich zuzustellen. § 213 Abs. 3 gilt sinngemäß.
+----
+### § 382 StPO
 
-### § 485 StPO
+`§ 382 StPO.`  
+Die Gebühren der Organe der Kriminalpolizei für die Anfertigung von Kopien für Zwecke der Akteneinsicht, Zustellungen, Ladungen, Bewachung oder Beförderung des Beschuldigten oder anderer Personen werden durch besondere bundesgesetzliche Bestimmungen geregelt.
+----
 
-`§ 485 (1) StPO.`  
-Das Gericht hat den Strafantrag vor Anordnung der Hauptverhandlung zu prüfen und  
-`§ 485 (1) Z 1 StPO.`
-im Fall seiner örtlichen oder sachlichen Unzuständigkeit gemäß § 450 vorzugehen;  
-`§ 485 (1) Z 2 StPO.`
-in den Fällen des § 212 Z 3, 4 und 8 den Strafantrag mit Beschluss zurückzuweisen;  
-`§ 485 (1) Z 3 StPO.`
-in den Fällen des § 212 Z 1, 2 und 7 den Strafantrag mit Beschluss zurückzuweisen und das Verfahren einzustellen;  
-`§ 485 (1) Z 4 StPO.`
-im Übrigen jedoch die Hauptverhandlung nach den für das Verfahren vor dem Landesgericht als Schöffengericht geltenden Bestimmungen anzuordnen.
+----
+### § 383 StPO
 
-`§ 485 (1a) StPO.`  
-Die Beschwerde der Staatsanwaltschaft gegen einen Beschluss nach Abs. 1 Z 1 oder Z 2 hat aufschiebende Wirkung.
+`§ 383 StPO.`  
+*(Aufgehoben)*
+----
 
-`§ 485 (2) StPO.`  
-Sobald ein Beschluss gemäß Abs. 1 Z 1 oder 2 rechtswirksam geworden ist, hat der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts die für die Fortführung des Verfahrens erforderlichen Anträge oder Anordnungen zu stellen.
+----
+### § 384 StPO
 
-### § 488 StPO
+`§ 384 StPO.`  
+*(Aufgehoben)*
+----
 
-`§ 488 (1) StPO.`  
-Für das Hauptverfahren vor dem Landesgericht als Einzelrichter und für Rechtsmittel gegen dessen Urteile gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird. Der Einzelrichter erfüllt die Aufgaben des Vorsitzenden und des Schöffengerichts.
+----
+### § 385 StPO
 
-`§ 488 (2) StPO.`  
-Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr.
+`§ 385 StPO.`  
+*(Aufgehoben)*
+----
 
-`§ 488 (3) StPO.`  
-Ist das Landesgericht als Einzelrichter der Ansicht, dass das Landesgericht als Schöffen- oder Geschworenengericht zuständig ist, so hat es, nachdem die Beteiligten des Verfahrens zu den geänderten Umständen angehört wurden, mit Urteil seine Unzuständigkeit auszusprechen. Sobald dieses Urteil rechtskräftig wurde, hat der Ankläger die zur Fortführung des Verfahrens erforderlichen Anträge zu stellen.
-*(Anm.: Abs. 4 aufgehoben durch BGBl. I Nr. 52/2009)*
+----
+### § 386 StPO
 
-### § 489 StPO
+`§ 386 StPO.`  
+*(Aufgehoben)*
+----
 
-`§ 489 (1) StPO.`  
-Gegen die vom Landesgericht als Einzelrichter ausgesprochenen Urteile kann außer dem Einspruch gemäß § 427 Abs. 3 nur das Rechtsmittel der Berufung wegen der in § 281 Abs. 1 Z 1a bis 5 und 6 bis 11 und § 468 Abs. 1 Z 1 und 2 aufgezählten Nichtigkeitsgründe oder gegen die im § 464 Z 2 und 3 genannten Aussprüche ergriffen werden. Für das Verfahren gelten die §§ 281, 282 Abs. 2, 285 Abs. 2 bis Abs. 5, 465 bis 467, 469 bis 476 und 479 sinngemäß. Für den Nichtigkeitsgrund des § 281 Abs. 1 Z 3 gelten die in § 468 Abs. 1 Z 3 zitierten Bestimmungen.
+----
+### § 387 StPO
 
-`§ 489 (2) StPO.`  
-Die Gerichtstage zur öffentlichen Verhandlung über die Berufung finden am Sitz des Oberlandesgerichts statt. Doch kann der Vorsitzende mit Rücksicht auf den Aufenthalt der Beteiligten des Verfahrens oder nach Anhörung des Anklägers und des Angeklagten auch aus anderen wichtigen Gründen anordnen, dass der Gerichtstag an einem anderen im Sprengel des Oberlandesgerichts gelegenen Ort abgehalten wird. Einer solchen Anhörung bedarf es nicht, wenn sich der Angeklagte im Sprengel des Landesgerichts in Haft befindet, bei welchem der Gerichtstag abgehalten wird.
+`§ 387 StPO.`  
+*(Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 3)*
+----
 
-`§ 489 (3) StPO.`  
-Von der Verhandlung und Entscheidung über eine Berufung sind auch Mitglieder des Oberlandesgerichts ausgeschlossen, die im vorangegangenen Verfahren an der Entscheidung über eine Beschwerde gegen die vom Landesgericht als Einzelrichter beschlossene Zurückweisung oder Einstellung (§ 485) beteiligt waren.
+----
+### § 388 StPO
 
-### § 490 StPO
+`§ 388 (1) StPO.`  
+Der vorläufige Rücktritt von der Verfolgung und die vorläufige Einstellung des Verfahrens unter Bestimmung einer Probezeit setzen die Leistung eines Beitrages zu den nach § 381 Abs. 1 Z 1 bis 3 zu ersetzenden Kosten bis zu 250 Euro voraus.
 
-`§ 490 StPO.`  
-Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16. Hauptstück enthaltenen Bestimmungen. In den Fällen der §§ 352 bis 356 entscheidet das Landesgericht als Einzelrichter über die Bewilligung der Wiederaufnahme.
+`§ 388 (2) StPO.`  
+Im Fall gemeinnütziger Leistungen oder eines Tatausgleichs kann die Staatsanwaltschaft von der Verfolgung erst zurücktreten oder das Gericht das Strafverfahren erst einstellen, nachdem der Beschuldigte einen Pauschalkostenbeitrag bis zu 250 Euro bezahlt hat.
 
-## 23a. Hauptstück
+`§ 388 (3) StPO.`  
+Für die Bemessung der Kostenbeiträge gilt § 381 Abs. 5 sinngemäß. Die Zahlung ist insoweit nachzusehen, als dadurch der zu einer einfachen Lebensführung notwendige Unterhalt des Beschuldigten und seiner Familie, für deren Unterhalt er zu sorgen hat, Schadensgutmachung, Tatfolgenausgleich oder die Erfüllung des Tatausgleichs gefährdet würde.
+----
 
-### § 491 StPO # Mandatsverfahren
+----
+### § 389 StPO
 
-`§ 491 (1) StPO.`  
-Im Verfahren vor dem Bezirksgericht und vor dem Landesgericht als Einzelrichter kann das Gericht auf Antrag der Staatsanwaltschaft die Strafe durch schriftliche Strafverfügung ohne vorausgehende Hauptverhandlung festsetzen, wenn  
-`§ 491 (1) Z 1 StPO.`
-es sich um ein Vergehen handelt und der Angeklagte gemäß §§ 164 oder 165 zum Anklagevorwurf vernommen wurde und nach Information über die Folgen ausdrücklich auf die Durchführung einer Hauptverhandlung verzichtet hat,  
-`§ 491 (1) Z 2 StPO.`
-kein Grund für ein Vorgehen nach §§ 191 Abs. 2, 199 oder anderen darauf verweisenden Vorschriften, §§ 450, 451 Abs. 2 oder 485 Abs. 1 Z 2 oder 3 sowie nach § 37 SMG vorliegt,  
-`§ 491 (1) Z 3 StPO.`
-die Ergebnisse des Ermittlungsverfahrens in Verbindung mit der Verantwortung des Angeklagten zur Beurteilung aller für die Schuld- und Straffrage entscheidenden Umstände ausreichen sowie die Rechte und gerechtfertigten Interessen des Opfers keine Beeinträchtigung erfahren.
+`§ 389 (1) StPO.`  
+Im Fall eines Schuldspruchs ist der Angeklagte auch zum Ersatz der Kosten des Strafverfahrens zu verpflichten (§ 260 Abs. 1 Z 5).
 
-`§ 491 (2) StPO.`  
-Mit Strafverfügung darf nur eine Geldstrafe oder – soweit der Angeklagte durch einen Verteidiger vertreten ist – eine ein Jahr nicht übersteigende, gemäß § 43 Abs. 1 StGB bedingt nachzusehende Freiheitsstrafe verhängt werden. Ein Ausspruch nach § 494a Abs. 1 Z 4 ist dem nach § 495 zuständigen Gericht vorzubehalten.
+`§ 389 (2) StPO.`  
+Wird das Strafverfahren gegen einen Angeklagten wegen mehrerer Straftaten teils mit Schuld-, teils mit Freispruch erledigt, so ist der Angeklagte nur zum Ersatz jener Kosten zu verpflichten, die sich auf den Schuldspruch beziehen.
 
-`§ 491 (3) StPO.`  
-Soweit das Gericht dies zur Klärung der Voraussetzungen nach Abs. 1 für erforderlich erachtet, kann es den Angeklagten und das Opfer vernehmen und gegebenenfalls nach § 69 vorgehen.
+`§ 389 (3) StPO.`  
+Die Verpflichtung zum Ersatz der Kosten trifft jedoch den rechtskräftig Verurteilten nur für seine Person; sie geht nicht auf die Erben über. Von mehreren Angeklagten ist jeder einzelne zur Tragung des Pauschalkostenbeitrages, der dem gegen ihn gefällten Erkenntnis entspricht, sowie der Kosten zu verurteilen, die durch seine Verteidigung oder durch besondere, nur bei ihm eingetretene Ereignisse oder durch sein besonderes Verschulden entstanden sind. Zur Bezahlung aller anderen Kosten des Strafverfahrens sind sämtliche Angeklagten zur ungeteilten Hand zu verurteilen, sofern das Gericht nicht besondere Gründe findet, eine Beschränkung dieser Haftung eintreten zu lassen.
+----
 
-`§ 491 (4) StPO.`  
-Die Strafverfügung muss enthalten:  
-`§ 491 (4) Z 1 StPO.`
-die Bezeichnung des Gerichts und den Namen des Richters,  
-`§ 491 (4) Z 2 StPO.`
-den Vor- und den Familiennamen sowie alle früher geführten Namen, Tag und Ort der Geburt, die Staatsangehörigkeit und den Beruf des Angeklagten,  
-`§ 491 (4) Z 3 StPO.`
-den Ausspruch des Gerichts über die Schuld des Angeklagten mit allen in § 260 angeführten Punkten,  
-`§ 491 (4) Z 4 StPO.`
-die vom Gericht als erwiesen angenommenen Tatsachen in gedrängter Darstellung sowie die für die Strafbemessung und gegebenenfalls die für die Bemessung des Tagessatzes (§ 19 Abs. 2 StGB) maßgebenden Umstände in Schlagworten,  
-`§ 491 (4) Z 5 StPO.`
-eine Information über das Recht, einen Einspruch zu erheben mit dem deutlichen Hinweis, dass die Strafverfügung mit allen Wirkungen einer Verurteilung in Rechtskraft übergehen und vollstreckt werden würde, falls ein solcher nicht oder nicht rechtzeitig erhoben wird.
+----
+### § 390 StPO
 
-`§ 491 (5) StPO.`  
-Die Strafverfügung ist dem Angeklagten und gegebenenfalls seinem Verteidiger sowie dem Opfer und gegebenenfalls seinem Vertreter samt dem Strafantrag auf die in § 83 Abs. 3 bezeichnete Weise zuzustellen.
+`§ 390 (1) StPO.`  
+Wird das Strafverfahren auf andere Weise als durch einen Schuldspruch beendigt, so sind die Kosten in der Regel vom Bunde zu tragen. Soweit aber das Strafverfahren auf Begehren eines Privatanklägers oder gemäß § 72 lediglich auf Antrag des Privatbeteiligten stattgefunden hat, ist diesen der Ersatz aller infolge ihres Einschreitens aufgelaufenen Kosten in der das Verfahren für die Instanz erledigenden Entscheidung aufzutragen. Den Privatbeteiligten trifft jedoch kein Kostenersatz, wenn das Strafverfahren nach dem 11. Hauptstück beendet wird.
 
-`§ 491 (6) StPO.`  
-Gegen die Strafverfügung können die Staatsanwaltschaft, der Angeklagte und das Opfer binnen vier Wochen ab Zustellung schriftlich Einspruch bei dem die Strafverfügung erlassenden Gericht erheben, wobei es genügt, dass aus dem Schriftstück die Absicht, Einspruch zu erheben, deutlich hervorgeht.
+`§ 390 (1a) StPO.`  
+In Strafverfahren wegen übler Nachrede (§ 111 StGB), Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung (§ 113 StGB), oder Beleidigung (§ 115 StGB), die im Wege einer Telekommunikation oder unter Verwendung eines Computersystems begangen wurden, ist der Privatankläger oder Antragsteller (§ 71 Abs. 1) nur zum Kostenersatz verpflichtet, wenn er den Vorwurf wissentlich falsch erhoben hat.
 
-`§ 491 (7) StPO.`  
-Das die Strafverfügung erlassende Gericht hat den Einspruch als unzulässig zurückzuweisen, wenn er verspätet ist oder wenn er von einer Person eingebracht wurde, der der Einspruch nicht zukommt oder die auf ihn verzichtet hat. Gegen diesen Beschluss steht die Beschwerde (§ 87) an das Rechtsmittelgericht zu; ihr kommt aufschiebende Wirkung zu.
+`§ 390 (2) StPO.`  
+Haben mehrere Privatankläger oder Privatbeteiligte wegen derselben Handlung erfolglos Bestrafung derselben Personen begehrt, so haften sie für die Kosten des Strafverfahrens zur ungeteilten Hand. Haben sie erfolglos die Bestrafung verschiedener Personen oder die Bestrafung derselben Personen wegen verschiedener Handlungen begehrt, so haftet jeder für die besonderen Kosten, die nur durch seinen Antrag entstanden sind, und für den Pauschalkostenbeitrag, der zu entrichten gewesen wäre, wenn seine Anklage den einzigen Gegenstand des Verfahrens gebildet hätte; die Anteile der einzelnen Ankläger an den gemeinsamen Kosten hat das Gericht nach dem Maß ihrer Beteiligung am Verfahren zu bestimmen.
 
-`§ 491 (8) StPO.`  
-Im Falle eines zulässigen Einspruchs ist die Hauptverhandlung anzuordnen (§§ 455, 488); § 43 Abs. 2 gilt sinngemäß.
+`§ 390 (3) StPO.`  
+Die Staatsanwaltschaft kann nie zum Ersatze der Kosten verurteilt werden.
 
-`§ 491 (9) StPO.`  
-Wird ein Einspruch nicht erhoben oder ein solcher als unzulässig zurückgewiesen, so steht die Strafverfügung einem rechtskräftigen Urteil gleich und ist nach den Bestimmungen des 19. Hauptstückes zu vollstrecken.
+`§ 390 (4) StPO.`  
+Wurde endlich das Strafverfahren durch eine wissentlich falsche Anzeige veranlaßt, so hat die Kosten der Anzeiger zu ersetzen.
+----
 
-### § 491a StPO
+----
+### § 390a StPO
 
-`§ 491a StPO.`  
-(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 148)
+`§ 390a (1) StPO.`  
+Den nach den §§ 389 und 390 zum Kostenersatze Verpflichteten fallen auch die Kosten des Rechtsmittelverfahrens zur Last, sofern sie nicht durch ein ganz erfolglos gebliebenes Rechtsmittel des Gegners verursacht worden sind. Ist ein solches Rechtsmittel vom Privatankläger oder vom Privatbeteiligten ergriffen worden, so ist ihm der Ersatz der dadurch verursachten Kosten unabhängig vom Ausgange des Verfahrens aufzuerlegen.
 
-### § 491b StPO
+`§ 390a (2) StPO.`  
+Für die durch ein erfolgloses Begehren um Wiederaufnahme des Verfahrens verursachten Kosten haftet der Antragsteller.
+----
 
-`§ 491b StPO.`  
-(Aufgehoben; BGBl. Nr. 423/1974, Art. I Z. 148)
+----
+### § 391 StPO
 
-## 24. Hauptstück # Verfahren bei bedingter Strafnachsicht, bedingter Nachsicht von vorbeugenden Maßnahmen, Erteilung von Weisungen und Anordnung der Bewährungshilfe # I. Bedingte Nachsicht einer Strafe, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher und einer Rechtsfolge
+`§ 391 (1) StPO.`  
+Die Kosten des Strafverfahrens sind jedoch vom Ersatzpflichtigen nur insoweit einzutreiben, als dadurch weder der zu einer einfachen Lebensführung notwendige Unterhalt des Ersatzpflichtigen und seiner Familie, für deren Unterhalt er zu sorgen hat, noch die Erfüllung der aus der strafbaren Handlung entspringenden Pflicht zur Schadensgutmachung gefährdet wird. *(BGBl. Nr. 423/1974, Art. I Z. 110)*
 
-### § 492 StPO
+`§ 391 (2) StPO.`  
+Ist nach den im Verfahren hervorgekommenen Umständen mit Grund anzunehmen, daß die Kosten des Strafverfahrens wegen Mittellosigkeit des Zahlungspflichtigen auch nicht bloß zum Teile hereingebracht werden können, so hat das Gericht, soweit tunlich, gleich bei Schöpfung des Erkenntnisses die Kosten für uneinbringlich zu erklären; andernfalls entfällt eine Entscheidung über die Einbringlichkeit der Kosten. Der Beschluß, womit die Kosten für uneinbringlich erklärt werden, kann jederzeit aufgehoben und, wenn später Umstände der bezeichneten Art hervorkommen, nachträglich gefaßt werden.
 
-`§ 492 (1) StPO.`  
-Die bedingte Nachsicht einer Strafe, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher und einer Rechtsfolge ist in das Urteil aufzunehmen.
+`§ 391 (3) StPO.`  
+Gegen Entscheidungen der Gerichte, womit ein Antrag abgelehnt wird, die Kosten für uneinbringlich zu erklären, ist kein Rechtsmittel zulässig.
+*(BGBl. Nr. 145/1969, Art. II Z. 4)*
+----
 
-`§ 492 (2) StPO.`  
-Das Gericht hat den Verurteilten über den Sinn der bedingten Nachsicht zu belehren und ihm, sobald die Entscheidung darüber rechtskräftig geworden ist, eine Urkunde zuzustellen, die kurz und in einfachen Worten den wesentlichen Inhalt der Entscheidung, die ihm auferlegten Verpflichtungen und die Gründe angibt, aus denen die Nachsicht widerrufen werden kann.
+----
+### § 393 StPO
 
-### § 493 StPO
+`§ 393 (1) StPO.`  
+Wer sich im Strafverfahren eines Vertreters bedient, hat in der Regel auch die für diese Vertretung auflaufenden Kosten, und zwar selbst in dem Falle zu zahlen, wenn ihm ein solcher Vertreter von Amts wegen beigegeben wird.
 
-`§ 493 (1) StPO.`  
-Die bedingte Nachsicht oder deren Unterbleiben bildet einen Teil des Ausspruches über die Strafe und kann zugunsten und zum Nachteil des Verurteilten mit Berufung angefochten werden. Die Berufung hat nur, soweit es sich um die Vollstreckung der Strafe oder der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder um den Eintritt der Rechtsfolge handelt, aufschiebende Wirkung.
+`§ 393 (1a) StPO.`  
+Ein Angeklagter, dem ein Verteidiger nach § 61 Abs. 2 beigegeben wurde, hat einen Pauschalbeitrag zu dessen Kosten zu tragen, wenn ihm der Ersatz der Prozeßkosten überhaupt zur Last fällt und sein und seiner Familie, für deren Unterhalt er zu sorgen hat, zur einfachen Lebensführung notwendiger Unterhalt dadurch nicht beeinträchtigt wird. Für die Bemessung dieses Pauschalbeitrages gelten die im § 393a Abs. 1 angeführten Grundsätze und die dort genannten Höchstbeträge.
 
-`§ 493 (2) StPO.`  
-Hat das Gericht durch die Entscheidung über die bedingte Nachsicht seine Befugnisse überschritten, so kann das Urteil wegen Nichtigkeit nach den §§ 281 Abs. 1 Z. 11, 345 Abs. 1 Z. 13 oder 468 Abs. 1 Z. 4 angefochten werden.
+`§ 393 (2) StPO.`  
+Einem nach § 61 Abs. 2 beigegebenen Verteidiger sind, soweit nicht nach § 56 Abs. 2 vorzugehen ist, auf sein Verlangen die nötig gewesenen und wirklich bestrittenen baren Auslagen vom Bund zu vergüten. Zu diesen Auslagen gehören auch die Kosten eines Dolmetschers, soweit dessen Beiziehung zu den Besprechungen zwischen dem Verteidiger und dem Beschuldigten notwendig war; solche Kosten sind bis zu dem Ausmaß zu vergüten, das sich in sinngemäßer Anwendung der Bestimmungen des Gebührenanspruchsgesetzes 1975 ergibt.
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)*
 
-## II. Erteilung von Weisungen und Anordnung der Bewährungshilfe
+`§ 393 (4) StPO.`  
+In den Fällen, in denen dem Beschuldigten, dem Privatankläger, dem Privatbeteiligten (§ 72) oder dem, der eine wissentlich falsche Anzeige gemacht hat, der Ersatz der Prozeßkosten überhaupt zur Last fällt, haben diese Personen auch alle Kosten der Verteidigung und der Vertretung zu ersetzen.
 
-### § 494 StPO
+`§ 393 (4a) StPO.`  
+Wird ein Strafverfahren wegen übler Nachrede (§ 111 StGB), Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung (§ 113 StGB) oder Beleidigung (§ 115 StGB), die im Wege einer Telekommunikation oder unter Verwendung eines Computersystems begangen wurden, auf andere Weise als durch einen Schuldspruch beendigt, so hat im Haupt- und Rechtsmittelverfahren der Privatankläger dem Angeklagten alle Kosten der Verteidigung zu ersetzen, sofern nicht ohnedies eine Ersatzpflicht nach Abs. 4 vorliegt.
 
-`§ 494 (1) StPO.`  
-Über die Erteilung von Weisungen und die Anordnung der Bewährungshilfe entscheidet das Gericht mit Beschluß. Die Entscheidung obliegt in der Hauptverhandlung dem erkennenden Gericht, sonst dem Vorsitzenden.
+`§ 393 (5) StPO.`  
+Soweit jedoch der Privatbeteiligte mit seinen privatrechtlichen Ansprüchen auf den Zivilrechtsweg verwiesen worden ist, bilden die zur zweckentsprechenden Geltendmachung seiner Ansprüche im Strafverfahren aufgewendeten Kosten seines Vertreters einen Teil der Kosten des zivilgerichtlichen Verfahrens, in dem über den Anspruch erkannt wird.
+----
 
-`§ 494 (2) StPO.`  
-Wird dem Rechtsbrecher eine Weisung erteilt, welche die Interessen des Verletzten unmittelbar berührt, so ist dieser hievon zu verständigen.
+----
+### § 393a StPO # Beitrag zu den Kosten der Verteidigung
 
-## III. Widerruf einer bedingten Nachsicht
+`§ 393a (1) StPO.`  
+Wird ein nicht lediglich auf Grund einer Privatanklage oder der Anklage eines Privatbeteiligten (§ 72) Angeklagter freigesprochen oder das Strafverfahren gemäß § 215 Abs. 2, § 227, § 451 Abs. 2 oder § 485 Abs. 1 Z 3 oder nach einer gemäß § 353, § 362 oder § 363a erfolgten Wiederaufnahme oder Erneuerung des Strafverfahrens eingestellt, so hat ihm der Bund auf Antrag einen Beitrag zu den Kosten der Verteidigung zu leisten. Der Beitrag umfasst die nötig gewesenen und vom Angeklagten bestrittenen baren Auslagen und außer im Fall des § 61 Abs. 2 auch einen Beitrag zu den Kosten des Verteidigers, dessen sich der Angeklagte bedient.
 
-### § 494a StPO
+`§ 393a (2) StPO.`  
+Der Beitrag zu den Kosten der Verteidigung ist unter Bedachtnahme auf den Umfang des Verfahrens, die Komplexität der zu lösenden Tat- und Rechtsfragen und das Ausmaß des notwendigen oder zweckmäßigen Einsatzes des Verteidigers festzusetzen. Er darf folgende Beträge nicht übersteigen:  
+`§ 393a (2) Z 1 StPO.`
+im Verfahren vor dem Landesgericht als Schöffen- und Geschworenengericht 30 000 Euro,  
+`§ 393a (2) Z 2 StPO.`
+im Verfahren vor dem Einzelrichter des Landesgerichts 13 000 Euro,  
+`§ 393a (2) Z 3 StPO.`
+im Verfahren vor dem Bezirksgericht 5 000 Euro.  
+Im Fall längerer Dauer der Hauptverhandlung (§ 221 Abs. 4) kann das jeweilige Höchstmaß des Beitrags um die Hälfte überschritten und im Fall extremen Umfangs des Verfahrens (§ 285 Abs. 2) auf das Doppelte erhöht werden.
 
-`§ 494a (1) StPO.`  
-Wird jemand wegen einer strafbaren Handlung verurteilt, die er vor Ablauf der Probezeit nach einem Schuldspruch unter Vorbehalt der Strafe, einer bedingten Nachsicht oder bedingten Entlassung begangen hat, so hat das erkennende Gericht nach den folgenden Bestimmungen vorzugehen:  
-`§ 494a (1) Z 1 StPO.`
-Liegen die Voraussetzungen für ein Unterbleiben des nachträglichen Ausspruches der Strafe (§§ 15, 16 JGG) vor, so ist auszusprechen, daß die neue Verurteilung für einen solchen Ausspruch keinen Anlaß bildet.  
-`§ 494a (1) Z 2 StPO.`
-Liegen die Voraussetzungen für das Absehen vom Widerruf einer bedingten Nachsicht oder bedingten Entlassung vor, so ist auszusprechen, daß von einem Widerruf aus Anlaß der neuen Verurteilung abgesehen wird.  
-`§ 494a (1) Z 3 StPO.`
-Liegen die Voraussetzungen für einen nachträglichen Ausspruch der Strafe (§§ 15, 16 JGG) vor, so ist die Strafe in einem Ausspruch so zu bemessen, wie wenn die Verurteilung wegen beider strafbarer Handlungen gemeinsam erfolgt wäre; im übrigen ist auszusprechen, daß in dem Verfahren, in dem der Schuldspruch unter Vorbehalt der Strafe ergangen ist, ein nachträglicher Strafausspruch nicht mehr in Betracht kommt.  
-`§ 494a (1) Z 4 StPO.`
-Liegen die Voraussetzungen für den Widerruf einer bedingten Nachsicht oder bedingten Entlassung vor, so ist der Widerruf auszusprechen.
+`§ 393a (3) StPO.`  
+Der Ersatzanspruch ist ausgeschlossen, soweit der Angeklagte den das Verfahren begründenden Verdacht vorsätzlich herbeigeführt hat oder das Verfahren lediglich deshalb beendet worden ist, weil der Angeklagte die Tat im Zustand der Zurechnungsunfähigkeit begangen hat oder weil die Ermächtigung zur Strafverfolgung in der Hauptverhandlung zurückgenommen worden ist. Der Ersatzanspruch steht auch dann nicht zu, wenn die Strafbarkeit der Tat aus Gründen entfällt, die erst nach Einbringung der Anklageschrift oder des Antrages auf Bestrafung eingetreten sind.
 
-`§ 494a (2) StPO.`  
-Ein Ausspruch nach Abs. 1 Z 4 steht dem Einzelrichter beim Landesgericht nur bei Strafen und Strafresten zu, die das Ausmaß von je fünf Jahren nicht übersteigen, und dem Bezirksgericht nur bei Strafen und Strafresten, die das Ausmaß von je einem Jahr nicht übersteigen. Der Widerruf einer bedingten Entlassung aus einer Unterbringung nach § 21 Abs. 1 oder 2 StGB oder einer lebenslangen Freiheitsstrafe ist dem Landesgericht als Schöffen- oder Geschworenengericht vorbehalten. Soweit das erkennende Gericht sonach eine Entscheidung nach Abs. 1 Z 4 nicht treffen darf, hat es auszusprechen, daß die Entscheidung über den Widerruf dem Gericht vorbehalten bleibt, dem sonst die Entscheidung zukäme.
+`§ 393a (4) StPO.`  
+Der Antrag ist bei sonstigem Ausschluss innerhalb von drei Jahren nach Verständigung von der Entscheidung oder Verfügung zu stellen.
 
-`§ 494a (3) StPO.`  
-Vor der Entscheidung hat das Gericht den Ankläger, den Angeklagten und den Bewährungshelfer zu hören und Einsicht in die Akten über die frühere Verurteilung zu nehmen. Von der Anhörung des Angeklagten kann abgesehen werden, wenn das Urteil in seiner Abwesenheit gefällt wird und ein Ausspruch nach Abs. 1 Z 1 oder 2 erfolgt. Von der Anhörung des Bewährungshelfers kann abgesehen werden, wenn das Gericht einen nachträglichen Strafausspruch oder einen Widerruf nicht in Betracht zieht. Anstelle der Einsicht in die Akten kann sich das Gericht mit der Einsicht in eine Abschrift des früheren Urteils begnügen, wenn dieses eine ausreichende Grundlage für die Entscheidung nach Abs. 1 darzustellen vermag.
+`§ 393a (5) StPO.`  
+§ 196a Abs. 5 und 6 gilt sinngemäß.
+----
 
-`§ 494a (4) StPO.`  
-Die Entscheidungen nach Abs. 1 mit Ausnahme des Strafausspruches nach Z 3 erster Satz sowie der Vorbehalt nach Abs. 2 ergehen mit Beschluß. Der Beschluß ist gemeinsam mit dem Urteil zu verkünden und auszufertigen. Der Beschluß und sein Unterbleiben können mit Beschwerde angefochten werden.
+----
+### § 394 StPO
 
-`§ 494a (5) StPO.`  
-*(Anm.: aufgehoben durch BGBl. I Nr. 55/1999)*
+`§ 394 StPO.`  
+Gebührt dem Verteidiger oder dem Vertreter gemäß § 73 eine Belohnung, so ist ihre Bestimmung sowohl in dem Falle, wenn sich der Beschuldigte, der Privatankläger oder der Privatbeteiligte selbst einen solchen wählte, als auch dann, wenn dem Angeklagten ein Verteidiger von Amts wegen beigegeben wurde, dem freien Übereinkommen zwischen dem Vertreter und dem Zahlungspflichtigen überlassen.
+----
 
-`§ 494a (6) StPO.`  
-In einem Beschluß, mit dem vom Widerruf einer bedingten Nachsicht oder bedingten Entlassung abgesehen wird, kann das erkennende Gericht auch die Probezeit verlängern; zugleich mit einem Ausspruch nach Abs. 1 Z 1 oder 2 können auch Weisungen erteilt, die Bewährungshilfe angeordnet und familien- oder jugendwohlfahrtsrechtliche Verfügungen getroffen werden (§§ 53 Abs. 3, 54 Abs. 2 StGB, 15 Abs. 2 JGG).
+----
+### § 395 StPO
 
-`§ 494a (7) StPO.`  
-Das erkennende Gericht hat unverzüglich alle Gerichte zu verständigen, deren Vorentscheidungen von einer Entscheidung nach den vorstehenden Bestimmungen betroffen sind.
+`§ 395 (1) StPO.`  
+Wird über die Höhe der gemäß § 393 Abs. 4 oder Abs. 4a zu ersetzenden Kosten keine Einigung erzielt, so hat das Gericht, das in erster Instanz entschieden hat, auf Antrag eines der Beteiligten die zu ersetzenden Kosten mit Beschluss zu bestimmen. Vor der Bemessung der Gebühren ist dem Gegner des Antragstellers Gelegenheit zur Äußerung zu geben. Wird der Antrag von der zum Ersatze der Kosten verurteilten Partei gestellt, so hat das Gericht dem Gegner aufzutragen, seine Gebührenrechnung binnen einer angemessenen Frist vorzulegen, widrigenfalls die Gebühren auf Grund der vom Antragsteller beigebrachten und sonst dem Gerichte zur Verfügung stehenden Behelfe bestimmt würden.
 
-### § 494b StPO
+`§ 395 (2) StPO.`  
+Bei der Bemessung der Gebühren ist auch zu prüfen, ob die vorgenommenen Vertretungshandlungen notwendig waren oder sonst nach der Beschaffenheit des Falles gerechtfertigt sind. Die Kosten des Bemessungsverfahrens sind als Kosten des Strafverfahrens anzusehen.
+*(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 93/2007)*
 
-`§ 494b StPO.`  
-Hat das erkennende Gericht bei der Urteilsfällung einen Ausspruch nach § 494a Abs. 1 Z 3 oder 4 zu Unrecht unterlassen oder im Fall eines Ausspruches nach § 494a Abs. 1 Z 2 die Probezeit nicht verlängert und hat der Ankläger das Unterbleiben einer solchen Entscheidung nicht angefochten, so darf ein nachträglicher Ausspruch der Strafe, ein Widerruf der bedingten Nachsicht oder Entlassung oder eine Verlängerung der Probezeit aus Anlaß der neuen Verurteilung nicht mehr erfolgen, sofern die frühere Verurteilung oder die bedingte Entlassung aktenkundig war.
+`§ 395 (4) StPO.`  
+Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss gemäß Abs. 1 kommt aufschiebende Wirkung zu.
 
-### § 495 StPO
+`§ 395 (5) StPO.`  
+Die vorhergehenden Absätze sind auch anzuwenden, wenn zwischen dem von Amts wegen bestellten Verteidiger und dem von ihm vertretenen Angeklagten über die Entlohnung kein Übereinkommen erzielt wird. Das Gericht hat die Entlohnung des von Amts wegen bestellten Verteidigers festzusetzen und dem Angeklagten die Zahlung aufzutragen. Der rechtskräftige Beschluß ist vollstreckbar.
+----
 
-`§ 495 (1) StPO.`  
-Außer in den Fällen des § 494a entscheidet über den Widerruf der bedingten Nachsicht einer Strafe oder eines Strafteiles, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder einer Rechtsfolge das Gericht in nichtöffentlicher Sitzung mit Beschluß, das in jenem Verfahren, in dem die bedingte Nachsicht ausgesprochen worden ist, in erster Instanz erkannt hat.
+----
+## 19. Hauptstück # Vollstreckung der Urteile
 
-`§ 495 (2) StPO.`  
-Die Beschlußfassung über einen Widerruf bei nachträglicher Verurteilung (§ 55 StGB) obliegt unter Gerichten gleicher Ordnung jenem, dessen Urteil eine bedingte Nachsicht enthält und zuletzt rechtskräftig wurde; unter Gerichten verschiedener Ordnung entscheidet jenes höherer Ordnung, dessen Urteil eine bedingte Nachsicht enthält und zuletzt rechtskräftig wurde.
+### § 396 StPO
 
-`§ 495 (3) StPO.`  
-Vor der Entscheidung hat das Gericht den Ankläger, den Verurteilten und den Bewährungshelfer zu hören und eine Strafregisterauskunft einzuholen. Von der Anhörung des Verurteilten kann abgesehen werden, wenn sich erweist, daß sie ohne unverhältnismäßigen Aufwand nicht durchführbar ist.
+`§ 396 (1) StPO.`  
+Jeder durch ein Urteil freigesprochene Angeklagte ist, wenn er verhaftet ist, sogleich nach der Verkündung des Urteiles in Freiheit zu setzen; es sei denn, daß die Ergreifung eines Rechtsmittels mit aufschiebender Wirkung oder andere gesetzliche Gründe seine fernere Verwahrung nötig machten.
 
-### § 496 StPO
+`§ 396 (2) StPO.`  
+Der auf freiem Fuß befindliche Angeklagte ist von der Rechtskraft zu verständigen, sobald der Ankläger ein angemeldetes Rechtsmittel zurückgezogen hat.
 
-`§ 496 (1) StPO.`  
-Wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass die bedingte Nachsicht einer Strafe oder eines Strafteils widerrufen werde, und der Verurteilte aus diesem Grund flüchten werde (§ 173 Abs. 2 Z 1 und Abs. 3), ist seine Festnahme zulässig, zu der die Kriminalpolizei von sich aus berechtigt ist, wenn wegen Gefahr im Verzug eine Anordnung der Staatsanwaltschaft nicht rechtzeitig eingeholt werden kann. Für das weitere Verfahren gelten die im 9. Hauptstück enthaltenen Bestimmungen sinngemäß mit der Maßgabe, dass die Haftfrist einen Monat beträgt. Über drei Monate hinaus darf die Haft in keinem Fall aufrecht erhalten werden.
+`§ 396 (3) StPO.`  
+Die Kriminalpolizei ist durch das Gericht, das in erster Instanz entschieden hat, von der Einstellung des Verfahrens sowie von einem Freispruch zu verständigen.
+----
 
-`§ 496 (2) StPO.`  
-Wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass ein Verurteilter, der unter gerichtlicher Aufsicht nach § 52a oder § 52b StGB steht, ihm erteilte Weisungen nicht befolgt oder sich dem Einfluss des Bewährungshelfers entzieht, ist die Vorführung des Verurteilten zur sofortigen Erteilung einer förmlichen Mahnung zulässig. Zur Vorführung ist die Kriminalpolizei von sich aus berechtigt, wenn wegen Gefahr im Verzug eine Anordnung des Gerichts nicht rechtzeitig eingeholt werden kann.
+----
+### § 397 StPO
 
-## IV. Endgültige Nachsicht
+`§ 397 StPO.`  
+Jedes Strafurteil ist ungesäumt in Vollzug zu setzen, sobald feststeht, daß der Vollstreckung kein gesetzliches Hindernis und insbesondere kein rechtzeitig und von einem hiezu Berechtigten ergriffenes Rechtsmittel entgegensteht, dem das Gesetz aufschiebende Wirkung beimißt (§ 284 Abs. 3, § 294 Abs. 1 und § 344). Ist ein Rechtsmittel zugunsten des verhafteten Angeklagten von solchen Personen ergriffen worden, die hiezu gegen seinen Willen nicht berechtigt sind, so ist der Angeklagte hievon in Kenntnis zu setzen und über den dadurch herbeigeführten Aufschub der Strafvollstreckung zu belehren. Dasselbe hat zu geschehen, wenn es zweifelhaft ist, ob der verhaftete Angeklagte der Einlegung des Rechtsmittels durch seinen Verteidiger zugestimmt habe. Die Anordnung des Vollzuges des Strafurteiles steht dem Vorsitzenden des erkennenden Gerichtes zu.
 
-### § 497 StPO
+*(BGBl. Nr. 145/1969, Art. II Z. 5)*
+----
 
-`§ 497 (1) StPO.`  
-Der Ausspruch, daß die bedingte Nachsicht einer Strafe, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder einer Rechtsfolge endgültig geworden ist, hat durch Beschluß des Vorsitzenden zu erfolgen.
+----
+### § 398 StPO
 
-`§ 497 (2) StPO.`  
-Vor der Entscheidung ist der Ankläger zu hören und eine Strafregisterauskunft einzuholen.
+`§ 398 StPO.`  
+Jede Rechtswirkung eines Strafurteils beginnt, wenn nichts anderes bestimmt ist, mit seiner Rechtskraft.
 
-## V. Gemeinsame Bestimmungen
+*(BGBl. Nr. 423/1974, Art. I Z. 112)*
+----
 
-### § 498 StPO
+----
+### § 399 StPO
 
-`§ 498 (1) StPO.`  
-*(Anm.: aufgehoben durch BGBl. I Nr. 93/2007)*
+`§ 399 StPO.`  
+Jedes Urteil gegen einen Beamten (§ 74 Abs. 1 Z 4 StGB) ist, sobald es rechtskräftig wurde, dem Leiter der Dienststelle bekannt zu machen.
+----
 
-`§ 498 (2) StPO.`  
-Die Beschwerde steht zugunsten des Verurteilten diesem und allen anderen Personen zu, die zugunsten eines Angeklagten Nichtigkeitsbeschwerde erheben können, zum Nachteil des Verurteilten aber nur dem Ankläger. Im Fall der mündlichen Verkündung gilt § 86 Abs. 2 und 3 mit der Maßgabe, dass die Ausfertigung und Zustellung des Beschlusses auch unterbleiben können, wenn der Rechtsmittelwerber binnen drei Tagen nach mündlicher Verkündung des Beschlusses keine Beschwerde anmeldet. Bei mündlicher Verkündung und Anmeldung einer Beschwerde läuft die Frist zur Erstattung des Rechtsmittels ab Zustellung der schriftlichen Ausfertigung. Eine rechtzeitig erhobene Beschwerde hat aufschiebende Wirkung, es sei denn, dass sie gegen einen Beschluss gemäß § 496 gerichtet ist.
+----
+### § 400 StPO
 
-`§ 498 (3) StPO.`  
-Die Beschwerde kann auch mit einer Nichtigkeitsbeschwerde oder Berufung gegen das Urteil verbunden werden, das zugleich mit dem angefochtenen Beschluß ergangen ist (§§ 494 und 494a). In diesem Fall ist die Beschwerde rechtzeitig eingebracht, wenn das Rechtsmittel, mit dessen Ausführung sie verbunden ist, rechtzeitig eingebracht wurde. Im übrigen ist eine zugunsten des Angeklagten ergriffene Berufung wegen des Ausspruchs über die Strafe auch als Beschwerde gegen den Beschluß zu betrachten. Wird die Beschwerde mit einem anderen Rechtsmittel verbunden oder wird sonst gegen das zugleich mit dem angefochtenen Beschluß ergangene Urteil Nichtigkeitsbeschwerde oder Berufung erhoben, so entscheidet das für deren Erledigung zuständige Gericht auch über die Beschwerde.
+`§ 400 (1) StPO.`  
+Über die Anrechnung einer vom Verurteilten nach der Fällung des Urteiles erster Instanz in Vorhaft zugebrachten Zeit (§ 38 StGB) hat der Vorsitzende des Gerichtes, das in erster Instanz erkannt hat, mit Beschluß zu entscheiden.
 
-## 25. Hauptstück # Ausübung der Strafgerichtsbarkeit über Soldaten im Frieden
+`§ 400 (2) StPO.`  
+Einen Beschluß nach Abs. 1 hat der Vorsitzende auf Antrag oder von Amts wegen auch dann zu fassen, wenn im Urteil die Anrechnung einer Vorhaft oder einer im Ausland verbüßten Strafe (§ 66 StGB) unterblieben ist. Ist eine solche Anrechnung fehlerhaft erfolgt, so hat sie der Vorsitzende jederzeit zu berichtigen (§ 270 Abs. 3), zum Nachteil des Angeklagten jedoch nur, solange das Urteil nicht rechtskräftig ist. Die Abweisung eines darauf gerichteten Antrages sowie die vorgenommene Berichtigung können nach Maßgabe des § 270 Abs. 3 mit Beschwerde angefochten werden.
+----
 
-### § 499 StPO
+----
+### § 401 StPO
 
-`§ 499 StPO.`  
-Soldat im Sinne dieses Gesetzes ist jeder Angehörige des Präsenzstandes des Bundesheeres.
+`§ 401 StPO.`  
+*(Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 6)*
+----
 
-### § 500 StPO
+----
+### § 401a StPO
 
-`§ 500 (1) StPO.`  
-Alle Soldaten unterstehen im Frieden der Strafgerichtsbarkeit der bürgerlichen Gerichte.
+`§ 401a StPO.`  
+*(Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 6)*
+----
 
-`§ 500 (2) StPO.`  
-Soweit im folgenden nichts anderes bestimmt ist, sind die allgemeinen Vorschriften über das Verfahren in Strafsachen auch auf Soldaten anzuwenden.
+----
+### § 402 StPO
 
-### § 501 StPO
+`§ 402 StPO.`  
+Ist in einem Strafurteil auf den Verlust eines Rechtes erkannt worden oder ist in einem Gesetz vorgesehen, daß die Verurteilung einen solchen Verlust nach sich zieht oder nach sich ziehen kann, so hat das Strafgericht die rechtskräftige Verurteilung der in Betracht kommenden Stelle bekanntzumachen. Sofern dieser Stelle nicht schon nach anderen gesetzlichen Bestimmungen eine Urteilsausfertigung zugestellt werden muß, ist ihr eine solche Ausfertigung auf ihr Ersuchen zu übersenden.
 
-`§ 501 (1) StPO.`  
-Die Durchführung eines Strafverfahrens wegen einer Tat ist nicht allein deshalb unzulässig, weil sie auch als Verstoß gegen eine besondere militärische Dienst- oder Standespflicht von den dafür zuständigen Behörden verfolgt werden kann.
+*(BGBl. Nr. 145/1969, Art. II Z. 7)*
+----
 
-`§ 501 (2) StPO.`  
-Wegen eines mit nicht mehr als sechsmonatiger Freiheitsstrafe bedrohten Vergehens nach dem Militärstrafgesetz darf ein Strafverfahren nicht geführt oder ein bereits begonnenes Strafverfahren vorläufig nicht fortgesetzt werden (§ 197), sobald Staatsanwaltschaft oder Gericht von der zuständigen Behörde mitgeteilt wurde, dass wegen der Tat ein militärisches Disziplinarverfahren durchgeführt wird. Handelt es sich um ein mit mehr als sechsmonatiger, aber nicht mehr als zweijähriger Freiheitsstrafe bedrohtes Vergehen nach dem Militärstrafgesetz, so kann die Staatsanwaltschaft oder das Gericht die Einleitung oder Fortsetzung des Verfahrens aufschieben, wenn dies im Hinblick auf ein wegen der Tat durchgeführtes militärisches Disziplinarverfahren zweckmäßig erscheint. Nach Abschluss des Disziplinarverfahrens hat die Staatsanwaltschaft in sinngemäßer Anwendung des § 263 Abs. 4 vorzugehen. Solange ein Verfahren nach diesem Bundesgesetz nicht eingeleitet oder fortgesetzt wird, ruht die Verjährung.
+----
+### § 403 StPO
 
-### § 502 StPO
+`§ 403 StPO.`  
+*(Aufgehoben; BGBl. Nr. 75/1968, Art. IV Z. 2)*
+----
 
-`§ 502 (1) StPO.`  
-Auch militärische Kommanden sowie jene Soldaten, die dem für die militärische Sicherheit und Ordnung im Standort oder in der Unterkunft verantwortlichen Kommandanten (Garnisonskommandanten oder Kasernkommandanten) zum Zwecke der Besorgung dieser Aufgaben unterstellt sind, und, soweit sie nicht schon zu diesem Personenkreis zählen, Wachen können die Festnahme (§ 170) des Beschuldigten vornehmen,  
-`§ 502 (1) Z 1 StPO.`
-wenn der Beschuldigte auf einer militärischen Liegenschaft auf frischer Tat betreten wird oder  
-`§ 502 (1) Z 2 StPO.`
-wenn der Beschuldigte Soldat ist, einer der in § 170 Abs. 1 Z. 2 bis 4 angeführten Umstände vorliegt und wegen Gefahr im Verzug eine vom Gericht bewilligte Anordnung der Staatsanwaltschaft nicht rechtzeitig eingeholt werden kann.
+----
+### § 404 StPO
 
-`§ 502 (2) StPO.`  
-§§ 170 Abs. 3 und 172 gelten dem Sinne nach.
+`§ 404 StPO.`  
+*(Aufgehoben; BGBl. Nr. 75/1968, Art. IV Z. 2)*
+----
 
-### § 503 StPO
+----
+### § 405 StPO
 
-`§ 503 (1) StPO.`  
-Von jeder Ladung und von jeder Festnahme oder Freilassung eines Soldaten sowie von der Anordnung des Vollzuges der gegen Soldaten verhängten Freiheitsstrafen ist das unmittelbar vorgesetzte Kommando zu benachrichtigen; die Benachrichtigung von der Ladung hat zu entfallen, wenn diese durch das vorgesetzte Kommando zugestellt wird.
+`§ 405 StPO.`  
+Wie auf Freiheitsstrafen lautende Strafurteile zu vollziehen sind, bestimmen besondere Gesetze.
 
-`§ 503 (2) StPO.`  
-Die Einleitung des Strafverfahrens gegen einen Soldaten ist seinem Disziplinarvorgesetzten anzuzeigen. Diesem sind nach rechtskräftiger Beendigung des Strafverfahrens die Akten zur Einsicht zu übersenden.
+*(BGBl. Nr. 145/1969, Art. II Z. 8)*
+----
 
-`§ 503 (3) StPO.`  
-Die Verurteilung eines Wehrpflichtigen der Reserve ist seinem Standeskörper bekanntzugeben.
+----
+### § 406 StPO
 
-`§ 503 (4) StPO.`  
-Die bevorstehende Entlassung eines Soldaten aus einer Strafvollzugsanstalt ist von dieser, die Entlassung aus einer Justizanstalt vom Gerichte dem nächstgelegenen militärischen Kommando anzuzeigen, damit die zur Übernahme notwendigen Verfügungen rechtzeitig getroffen werden können.
+`§ 406 StPO.`  
+*(Aufgehoben; BGBl. Nr. 145/1969, Art. II Z. 9)*
+----
 
-### § 504 StPO
+----
+### § 407 StPO
 
-`§ 504 StPO.`  
-Von Amtshandlungen der Kriminalpolizei, der Staatsanwaltschaft oder des Gerichts auf militärischen Liegenschaften ist der Kommandant vorher in Kenntnis zu setzen; auf sein Verlangen ist ein von ihm beigegebener Soldat zuzuziehen.
+`§ 407 StPO.`  
+Von der Verurteilung einer Person, die nicht die österreichische Staatsbürgerschaft besitzt, ist die für die Ausübung der Fremdenpolizei zuständige Behörde unverzüglich zu verständigen.
 
-### § 505 StPO
+*(BGBl. Nr. 423/1974, Art. I Z. 114)*
+----
 
-`§ 505 StPO.`  
-Ladungen und Anordnungen, Entscheidungen und sonstige Schriftstücke sind Soldaten in der Regel durch das unmittelbar vorgesetzte Kommando zuzustellen. Dieses hat das rechtzeitige Erscheinen des Geladenen zu veranlassen und ihn nötigenfalls auch von Amts wegen zum Termin vorzuführen.
+----
+### § 408 StPO
 
-### § 506 StPO
+`§ 408 (1) StPO.`  
+Ist der Verfall, der erweiterte Verfall, die Konfiskation oder die Einziehung von Vermögenswerten oder Gegenständen ausgesprochen und befinden sich diese nicht bereits in gerichtlicher Verwahrung, so ist der Verurteilte oder der Haftungsbeteiligte (§ 64) vom Strafgericht schriftlich aufzufordern, sie binnen vierzehn Tagen zu erlegen oder dem Gericht die Verfügungsmacht zu übertragen, widrigenfalls zwangsweise vorgegangen werden würde. Kommt der Verfügungsberechtigte dieser Aufforderung nicht nach, so ist die Einbringungsstelle um die Einleitung der Exekution zu ersuchen.
 
-`§ 506 (1) StPO.`  
-Soldaten sind bei ihrer Vernehmung als Beschuldigte, Zeugen oder Sachverständige um ihren Standeskörper und Dienstgrad und, wenn sie als Beschuldigte vernommen werden, auch um den Tag zu befragen, an dem ihr Präsenz- oder Ausbildungsdienst begonnen hat.
+`§ 408 (2) StPO.`  
+Ein verfallener, konfiszierter oder eingezogener Gegenstand oder Vermögenswert, der für wissenschaftliche, historische oder vergleichbare, im öffentlichen Interesse liegende Forschungszwecke von Interesse ist, ist einer anerkannten wissenschaftlichen Einrichtung zur Verfügung zu stellen. Im Übrigen sind Gegenstände oder Vermögenswerte, die zur Deckung des Sachaufwandes der Justiz unmittelbar herangezogen werden können, dazu zu verwenden, alle anderen Gegenstände oder Vermögenswerte aber auf die in § 377 angeordnete Weise zu veräußern. Gegenstände oder Vermögenswerte, die auf diese Weise weder verwendet noch verwertet werden können, sind zu vernichten.
+----
 
-`§ 506 (2) StPO.`  
-Der Dienstgrad und der Standeskörper des Beschuldigten sind in allen Schriftstücken, die ihm oder militärischen Stellen (§ 503) zuzustellen sind oder durch die seine Fahndung veranlasst werden soll, anzuführen.
+----
+### § 409 StPO
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StPO.025](BG.StPO.025.md))*
+`§ 409 (1) StPO.`  
+Wenn der Verurteilte eine über ihn verhängte Geldstrafe nicht unverzüglich nach Eintritt der Rechtskraft erlegt, ist er schriftlich aufzufordern, die Strafe binnen vierzehn Tagen zu zahlen, widrigens sie zwangsweise eingetrieben werde. Gleiches gilt für den Verfall nach § 20 Abs. 3 StGB und die Konfiskation nach § 19a Abs. 1a StGB.
+
+`§ 409 (2) StPO.`  
+Wie die im Abs. 1 genannten Geldbeträge einzutreiben sind, wird im Gerichtlichen Einbringungsgesetz in der jeweils geltenden Fassung angeordnet. Die Auskunft aus dem Kontenregister oder die Auskunft über Bankkonten und Bankgeschäfte (§§ 116, 210 Abs. 3 StPO) ist auch dann zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass Vermögenswerte zur Vollstreckung einer Geldstrafe, einer Konfiskation (§ 19a StGB), eines Verfalls (§ 20 StGB), eines erweiterten Verfalls (§ 20b StGB) oder einer anderen gesetzlich vorgesehenen vermögensrechtlichen Anordnung aufgefunden werden können.
+
+`§ 409 (3) StPO.`  
+Ersatzfreiheitsstrafen sind wie andere Freiheitsstrafen nach den Bestimmungen des StVG anzuordnen und zu vollziehen.
+----
+
+----
+### § 409a StPO
+
+`§ 409a (1) StPO.`  
+Wenn die unverzügliche Zahlung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB den Zahlungspflichtigen unbillig hart träfe, hat der Vorsitzende auf Antrag durch Beschluß einen angemessenen Aufschub zu gewähren.
+
+`§ 409a (2) StPO.`  
+Der Aufschub darf jedoch  
+`§ 409a (2) Z 1 StPO.`
+bei Zahlung der ganzen Strafe oder des gesamten Geldbetrages nach § 20 StGB auf einmal oder bei Entrichtung einer 180 Tagessätze nicht übersteigenden Strafe in Teilbeträgen nicht länger sein als ein Jahr,  
+`§ 409a (2) Z 2 StPO.`
+bei Entrichtung einer 180, nicht aber 360 Tagessätze übersteigenden Strafe in Teilbeträgen nicht länger als zwei Jahre und  
+`§ 409a (2) Z 2a StPO.`
+bei Entrichtung einer 360 Tagessätze übersteigenden Strafe in Teilbeträgen nicht länger als drei Jahre sowie  
+`§ 409a (2) Z 3 StPO.`
+bei Entrichtung einer nicht in Tagessätzen bemessenen Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen nicht länger als fünf Jahre.
+
+`§ 409a (3) StPO.`  
+In die gewährte Aufschubsfrist werden Zeiten, in denen der Zahlungspflichtige auf behördliche Anordnung angehalten worden ist, nicht eingerechnet. Leistet der Zahlungspflichtige zur Schadloshaltung oder Genugtuung eines durch die strafbare Handlung Geschädigten Zahlungen, so ist dies bei der Entscheidung über einen Antrag auf Aufschub angemessen zu berücksichtigen. Mit Rücksicht auf Entschädigungszahlungen, die innerhalb der zur Zahlung der Geldstrafe oder des Geldbetrages nach § 20 StGB gewährten Frist geleistet werden, kann der Aufschub angemessen längstens aber um ein weiteres Jahr verlängert werden.
+
+`§ 409a (4) StPO.`  
+Die Entrichtung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen darf nur mit der Maßgabe gestattet werden, daß alle noch aushaftenden Teilbeträge sofort fällig werden, wenn der Zahlungspflichtige mit mindestens zwei Ratenzahlungen in Verzug ist.
+*(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 93/2007)*
+----
+
+----
+### § 409b StPO
+
+`§ 409b (1) StPO.`  
+Geldstrafen, verfallene Geldbeträge und Veräußerungserlöse (§§ 115e, 377) fließen dem Bund zu.
+
+`§ 409b (2) StPO.`  
+20 vH der nach §§ 20, 20b StGB für verfallen erklärten Vermögenswerte fließen dem Bundesministerium für Inneres zu.
+----
+
+----
+### § 410 StPO
+
+`§ 410 (1) StPO.`  
+Über die nachträgliche Strafmilderung, die Neubemessung des Tagessatzes sowie die Änderung der Entscheidung über den Verfall, den erweiterten Verfall (§ 31a StGB) oder über das Tätigkeitsverbot (§ 220b Abs. 3 StGB) entscheidet das Gericht, das in erster Instanz erkannt hat, auf Antrag oder von Amts wegen nach Erhebung der für die Entscheidung maßgebenden Umstände mit Beschluß.
+*(Anm.: Abs. 2 aufgehoben durch BGBl. I Nr. 93/2007)*
+
+`§ 410 (3) StPO.`  
+Wenn der Zweck der Entscheidung nach Abs. 1 sonst ganz oder teilweise vereitelt werden könnte, hat das Gericht den Vollzug der Strafe, des Verfalls oder des erweiterten Verfalls bis zur Rechtskraft seiner Entscheidung vorläufig zu hemmen oder zu unterbrechen, es sei denn, daß ihm ein offenbar aussichtsloser Antrag vorliegt.
+----
+
+----
+### § 411 StPO
+
+`§ 411 StPO.`  
+Mit dem Tod des Verurteilten erlischt die Verbindlichkeit zur Zahlung von Geldstrafen, soweit sie noch nicht vollzogen worden sind. Dies gilt dem Sinne nach für den Verfalls- und Wertersatz.
+----
+
+`END-OF-DATA-SET`

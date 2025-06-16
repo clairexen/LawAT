@@ -1,241 +1,466 @@
 # BG.ZPO.010 — Zivilprozessordnung (ZPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ZPO  
+**Kurztitel:** ['ZPO']  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 12.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.010.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-*(Fortsetzg. v. [BG.ZPO.009](BG.ZPO.009.md))*
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
+
+----
+## Erneuerung von Urkunden.
 
-## Verfahren bei der Beweisaufnahme.
+### § 317 ZPO # 
+
+`§ 317 (1) ZPO.`  
+Wird eine auf Papier errichtete Privaturkunde unleserlich oder schadhaft, so kann deren Inhaber oder jeder andere Betheiligte vom Aussteller der Urkunde begehren, dass dieselbe auf Kosten des Antragstellers gerichtlich erneuert werde. Hiezu sind alle Personen zu laden, wider welche die Urkunde nach Lage der Sache zum Beweise dienen soll.
+
+`§ 317 (2) ZPO.`  
+Im Falle der Weigerung kann der Aussteller zu solcher Erneuerung nur im Wege der Klage verhalten werden.
+----
+
+----
+## Auskunftssachen.
 
-### § 288 ZPO
+### § 318 ZPO # 
 
-`§ 288 (1) ZPO.`  
-Für die zum Zwecke einer Beweisaufnahme erforderlichen Ladungen und für alle anderen zur Beweisaufnahme erforderlichen Vorkehrungen hat, falls die Beweisaufnahme vor dem erkennenden Gerichte stattfindet, der Vorsitzende des Senates, außerdem aber der Richter, welchem die Beweisaufnahme obliegt, von amtswegen Sorge zu tragen. Letzterer hat auch die Tagsatzung für die Beweisaufnahme von amtswegen anzuberaumen.
+`§ 318 (1) ZPO.`  
+Inwieweit durch Denkmäler, Grenzzeichen, Marksteine, Aich- und Heimpfähle und ähnliche Zeichen oder durch Kerb- oder Spannhölzer, welche die Parteien für ihren Verkehr erwiesenermaßen gebraucht haben, ein Beweis geliefert werde, hat das Gericht nach sorgfältiger Würdigung aller Umstände zu beurtheilen.
 
-`§ 288 (2) ZPO.`  
-Die Parteien können die von ihnen benannten Zeugen oder die Personen, welche sie dem Gerichte bei der Verhandlung als Zeugen namhaft machen oder als Sachverständige in Vorschlag bringen wollen, auch ohne vorherige gerichtliche Vorladung zur Verhandlung vor dem erkennenden Gerichte mitbringen.
+`§ 318 (2) ZPO.`  
+Die Bestimmungen der §§. 303 bis 309 sind auch auf die Vorlegung von Auskunftssachen sinngemäß anzuwenden.
+----
 
-### § 289 ZPO
+----
+### § 319 ZPO # 
 
-`§ 289 (1) ZPO.`  
-Die Parteien können bei der Beweisaufnahme zugegen sein; sie können an die Zeugen und Sachverständigen diejenigen Fragen durch den Vorsitzenden oder den die Beweisaufnahme leitenden Richter stellen lassen oder mit deren Zustimmung selbst stellen, welche sie zur Aufklärung oder Vervollständigung der Aussage, sowie zur Aufklärung des Streitverhältnisses oder der für die Beweiskraft der Aussagen wesentlichen Verhältnisse für dienlich erachten. Fragen, welche dem Richter unangemessen erscheinen, hat er zurückzuweisen.
+`§ 319 (1) ZPO.`  
+Gegen die zufolge §§. 298, 299, 300, 301, 309 Absatz 1 und 2, 310, 314 und 315 ergehenden gerichtlichen Beschlüsse, Anordnungen und Aufträge ist ein Rechtsmittel nicht zulässig.
 
-`§ 289 (2) ZPO.`  
-Mit der Beweisaufnahme ist, soweit dies nach Lage der Sache geschehen kann, vorzugehen, wenn auch keine der verständigten Parteien erschienen ist. Es kann jedoch vom erkennenden Gerichte, oder, so lange die Beweisaufnahme noch nicht beendet ist, auch von dem beauftragten oder ersuchten Richter eine Ergänzung der Beweisaufnahme zugelassen werden, wenn die Partei glaubhaft macht, dass ihr durch ein unvorhergesehenes Ereignis verursachtes Nichterscheinen eine wesentliche Unvollständigkeit der Beweisaufnahme zur Folge hatte und wenn zugleich die Ergänzung der Beweisaufnahme ohne erhebliche Verzögerung des Rechtsstreites stattfinden kann.
+`§ 319 (2) ZPO.`  
+Die gemäß §§. 303, 307 und 316 gefassten Beschlüsse können durch ein abgesondertes Rechtsmittel nicht angefochten werden.
+----
 
-### § 289a ZPO # Abgesonderte Vernehmung
+----
+## Vierter Titel. # Beweis durch Zeugen. # Unzulässigkeit und Verweigerung des Zeugnisses.
 
-`§ 289a (1) ZPO.`  
-Steht der Gegenstand des Zivilprozesses in sachlichem Zusammenhang mit einem Strafverfahren, so ist bei der Vernehmung einer Person, die in diesem Strafverfahren Opfer im Sinn des § 65 Z 1 lit. a StPO ist, auf deren Antrag die Teilnahme der Parteien des Verfahrens und ihrer Vertreter an der Vernehmung derart zu beschränken, dass diese die Vernehmung unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung mitverfolgen und ihr Fragerecht ausüben können, ohne bei der Befragung anwesend zu sein. Ist das Opfer ein unmündiger Minderjähriger, so ist ein geeigneter Sachverständiger mit der Befragung zum Gegenstand des Strafverfahrens zu beauftragen.
+### § 320 ZPO # 
 
-`§ 289a (2) ZPO.`  
-Das Gericht kann auf Antrag eine Person auf die in Abs. 1 beschriebene Art und Weise vernehmen, wenn der zu vernehmenden Person eine Aussage in Anbetracht des Beweisthemas und der persönlichen Betroffenheit in Anwesenheit der Parteien des Verfahrens und ihrer Vertreter nicht zumutbar ist.
+`§ 320 ZPO.`  
+Als Zeugen dürfen nicht vernommen werden:  
+`§ 320 Z 1 ZPO.`
+Personen, welche zur Mittheilung ihrer Wahrnehmungen unfähig sind, oder welche zur Zeit, auf welche sich ihre Aussage beziehen soll, zur Wahrnehmung der zu beweisenden Thatsache unfähig waren;  
+`§ 320 Z 2 ZPO.`
+Geistliche in Ansehung dessen, was ihnen in der Beichte oder sonst unter dem Siegel geistlicher Amtsverschwiegenheit anvertraut wurde;  
+`§ 320 Z 3 ZPO.`
+Staatsbeamte, wenn sie durch ihre Aussage das ihnen obliegende Amtsgeheimnis verletzen würden, insofern sie der Pflicht zur Geheimhaltung nicht durch ihre Vorgesetzten entbunden sind;  
+`§ 320 Z 4 ZPO.`
+eingetragene Mediatoren nach dem Zivilrechts-Mediations-Gesetz, BGBl. I Nr. 29/2003, in Ansehung dessen, was ihnen im Rahmen der Mediation anvertraut oder sonst bekannt wurde.
+----
 
-`§ 289a (3) ZPO.`  
-Gegen Entscheidungen nach Abs. 1 und 2 ist kein Rechtsmittel zulässig.
+----
+### § 321 ZPO # 
 
-### § 289b ZPO # Vernehmung minderjähriger Personen
+`§ 321 (1) ZPO.`  
+Die Aussage darf von einem Zeugen verweigert werden:  
+`§ 321 (1) Z 1 ZPO.`
+über Fragen, deren Beantwortung dem Zeugen, seinem Ehegatten oder einer Person, mit welcher der Zeuge in gerader Linie oder in der Seitenlinie bis zum zweiten Grade verwandt oder verschwägert, oder mit welcher er durch Adoption verbunden ist, ferner seinen Pflegeeltern und Pflegekindern, sowie der mit der Obsorge für ihn betrauten Person, seinem Erwachsenenvertreter, seinem Vorsorgebevollmächtigten nach Wirksamwerden der Vorsorgevollmacht oder der von ihm in dieser Eigenschaft vertretenen Person und seinem Lebensgefährten sowie dessen Verwandten in gerader Linie oder bis zum zweiten Grad der Seitenlinie zur Schande gereichen oder die Gefahr strafgerichtlicher Verfolgung zuziehen würde;  
+`§ 321 (1) Z 2 ZPO.`
+über Fragen, deren Beantwortung dem Zeugen oder einer der in Z 1 bezeichneten Personen einen unmittelbaren vermögensrechtlichen Nachtheil zuziehen würde;  
+`§ 321 (1) Z 3 ZPO.`
+in Bezug auf Thatsachen, über welche der Zeuge nicht würde aussagen können, ohne eine ihm obliegende staatlich anerkannte Pflicht zur Verschwiegenheit zu verletzen, insoferne er hievon nicht giltig entbunden wurde;  
+`§ 321 (1) Z 4 ZPO.`
+in Ansehung desjenigen, was dem Zeugen in seiner Eigenschaft als Rechtsanwalt von seiner Partei anvertraut wurde;  
+`§ 321 (1) Z 4a ZPO.`
+in Ansehung dessen, was dem Zeugen in seiner Eigenschaft als Funktionär oder Arbeitnehmer einer gesetzlichen Interessenvertretung oder freiwilligen kollektivvertragsfähigen Berufsvereinigung von seiner Partei in einer Arbeits- oder Sozialrechtssache anvertraut wurde;  
+`§ 321 (1) Z 5 ZPO.`
+über Fragen, welche der Zeuge nicht würde beantworten können, ohne ein Kunst- oder Geschäftsgeheimnis zu offenbaren;  
+`§ 321 (1) Z 6 ZPO.`
+über die Frage, wie der Zeuge sein Wahlrecht oder Stimmrecht ausgeübt hat, wenn dessen Ausübung gesetzlich für geheim erklärt ist.
 
-`§ 289b (1) ZPO.`  
-Ist die zu vernehmende Person minderjährig, so kann das Gericht auf Antrag oder von Amts wegen von ihrer Vernehmung zur Gänze oder zu einzelnen Themenbereichen absehen, wenn durch die Vernehmung das Wohl der minderjährigen Person unter Berücksichtigung ihrer geistigen Reife, des Gegenstands der Vernehmung und ihres Naheverhältnisses zu den Prozessparteien gefährdet würde.
+`§ 321 (2) ZPO.`  
+Die Aussage kann in den unter Abs. 1 Z 1 und 2 angegebenen Fällen mit Rücksicht auf die dort bezeichneten Personen auch dann verweigert werden, wenn das Naheverhältnis zum Zeugen nicht mehr besteht.
+----
 
-`§ 289b (2) ZPO.`  
-Das Gericht kann auf Antrag oder von Amts wegen die Vernehmung auf die in § 289a Abs. 1 beschriebene Art und Weise, allenfalls auch durch einen geeigneten Sachverständigen, vornehmen lassen, wenn das Wohl der minderjährigen Person zwar nicht durch die Vernehmung an sich, jedoch unter Berücksichtigung ihrer geistigen Reife, des Gegenstands der Vernehmung und ihres Naheverhältnisses zu den Prozessparteien durch die Vernehmung in Anwesenheit der Parteien oder ihrer Vertreter gefährdet würde.
+----
+### § 322 ZPO # 
 
-`§ 289b (3) ZPO.`  
-Der Vernehmung der minderjährigen Person ist, soweit es in ihrem Interesse zweckmäßig ist, eine Person ihres Vertrauens beizuziehen.
+`§ 322 ZPO.`  
+Über Errichtung und Inhalt von Rechtsgeschäften, bei welchen der Zeuge als Urkundsperson beigezogen worden ist, über Thatsachen, welche die durch das Ehe- oder Familienverhältnis bedingten Vermögensangelegenheiten betreffen, über Geburten, Verheiratungen oder Sterbefälle der im §. 321, Z 1, bezeichneten Angehörigen, endlich über Handlungen, welche der Zeuge in Betreff des streitigen Rechtsverhältnisses als Rechtsvorgänger oder Vertreter einer der Parteien vorgenommen hat, darf das Zeugnis wegen eines zu besorgenden vermögensrechtlichen Nachtheiles nicht verweigert werden.
+----
 
-`§ 289b (4) ZPO.`  
-Gegen die Entscheidung nach Abs. 1 ist ein abgesondertes Rechtsmittel nicht zulässig. Gegen die Entscheidung nach Abs. 2 ist kein Rechtsmittel zulässig.
+----
+### § 323 ZPO # 
 
-### § 290 ZPO
-Aus dem Umstande, dass die von einer ausländischen Behörde vorgenommene Beweisaufnahme nach den ausländischen Gesetzen mangelhaft ist, kann gegen dieselbe dann kein Einwand erhoben werden, wenn die Beweisaufnahme den für das Processgericht geltenden Gesetzen entspricht.
+`§ 323 (1) ZPO.`  
+Ein Zeuge, welcher die Aussage ganz oder über einzelne Fragen verweigern will, hat die Gründe der Weigerung mündlich oder schriftlich vor der zu seiner Vernehmung bestimmten Tagsatzung oder bei dieser Tagsatzung selbst anzugeben, und wenn ein Widerspruch erfolgt, glaubhaft zu machen.
 
-### § 291 ZPO
+`§ 323 (2) ZPO.`  
+Im ersteren Falle ist ein solches Vorbringen des Zeugen den Parteien, soweit thunlich, noch vor der zur Vernehmung bestimmten Tagsatzung bekannt zu geben.
+----
 
-`§ 291 (1) ZPO.`  
-Gegen Beschlüsse, durch welche angebotene Beweise zurückgewiesen, Beweisaufnahmen angeordnet oder einem beauftragten Richter übertragen oder zum Zwecke der Beweisaufnahme Ersuchschreiben erlassen werden, ferner gegen Beschlüsse, durch welche Fragen der Parteien bei der Beweisaufnahme zurückgewiesen werden, endlich gegen Beschlüsse, durch welche die Benützung eines Beweises nach §. 279, Absatz 2, bewilligt oder ausgeschlossen oder eine nach §. 286, Absatz 2, in Antrag gebrachte Ergänzung der Beweisaufnahme verweigert wird, ist ein abgesondertes Rechtsmittel nicht zulässig.
+----
+### § 324 ZPO # 
 
-`§ 291 (2) ZPO.`  
-Beschlüsse, durch welche die stenographische Aufzeichnung einer Beweisaufnahme gestattet, dem Beweisführer die Bestellung eines Ersuchschreibens gemäß §. 283, Absatz 1, übertragen, oder für die Beweisaufnahme oder für die Vorlage der Acten über eine außerhalb des Geltungsgebietes dieses Gesetzes stattfindende Beweisaufnahme eine Frist bestimmt wird, ferner Beschlüsse, durch welche die Ergänzung oder Wiederholung einer Beweisaufnahme angeordnet wird, können durch ein Rechtsmittel überhaupt nicht angefochten werden.
+`§ 324 (1) ZPO.`  
+Über die Rechtmäßigkeit der Weigerung hat, wenn die Weigerung vor dem erkennenden Gerichte vorgebracht wurde, dieses selbst, sonst aber der beauftragte oder ersuchte Richter, vor welchem die Weigerung erfolgte, mittels Beschluss zu entscheiden. Vor der Entscheidung kann das Gericht die Parteien hören.
 
-### § 291a ZPO # Beweisaufnahme im Ausland
+`§ 324 (2) ZPO.`  
+Bei etwaigen Verhandlungen über die Rechtmäßigkeit der Weigerung braucht sich der Zeuge nicht durch einen Rechtsanwalt vertreten zu lassen. Hat er seine Weigerung schriftlich oder zu gerichtlichem Protokoll erklärt, so ist sein Vorbringen bei der Entscheidung auch dann zu berücksichtigen, wenn er bei der zu seiner Einvernehmung anberaumten Tagsatzung nicht erscheint.
+----
 
-`§ 291a (1) ZPO.`  
-Liegen die Voraussetzungen für die Beweisaufnahme durch ein ersuchtes ausländisches Gericht vor, so kann das Prozessgericht auf Antrag einer Partei im Ausland an der Beweisaufnahme des ersuchten Gerichtes teilnehmen oder an dessen Stelle selbst Beweis aufnehmen, wenn  
-`§ 291a (1) Z 1 ZPO.`
-dies völker- oder gemeinschaftsrechtlich zulässig und unter Bedachtnahme auf den Reiseaufwand und die tatsächlichen Verhältnisse im betreffenden Staat zumutbar ist,  
-`§ 291a (1) Z 2 ZPO.`
-auf Grund außergewöhnlicher Umstände, etwa wegen der besonderen Schwierigkeit des Beweisthemas oder der über das gewöhnliche Maß hinausgehenden Bedeutung eines persönlichen Eindrucks, eine Beweisaufnahme nur durch das ersuchte Gericht nicht ausreicht und  
-`§ 291a (1) Z 3 ZPO.`
-die voraussichtlichen Kosten der auswärtigen Amtshandlung und damit allfällig verbundener Dolmetscherkosten als Vorschuss bei Gericht erliegen; das ist nicht erforderlich, wenn allen Parteien, die nach § 3 GEG einen Kostenvorschuss zu erlegen hätten, Verfahrenshilfe gemäß § 64 Abs. 1 Z 1 lit. b und c gewährt wurde.
+----
+### § 325 ZPO # 
 
-`§ 291a (2) ZPO.`  
-Zur Frage, ob eine Amtshandlung außerhalb des Geltungsbereichs der Verordnung (EG) Nr. 1206/2001, ABl. Nr. 2001, L 174, S 1, zulässig ist, ist vorweg eine Erklärung des Bundesministers für Justiz einzuholen. Dieser hat zuvor das Einvernehmen mit dem Bundesminister für auswärtige Angelegenheiten herzustellen. Ansuchen um Beweisaufnahme sind in diesem Fall im Wege des Bundesministeriums für Justiz zu stellen.
+`§ 325 (1) ZPO.`  
+Wird das Zeugnis ohne Angabe von Gründen verweigert oder beharrt der Zeuge auf seiner Weigerung auch, nachdem dieselbe als nicht gerechtfertigt erkannt worden ist, oder wird die Ableistung des geforderten Zeugeneides verweigert, so kann der Zeuge auf dem Wege der zur Erzwingung einer Handlung zulässigen Execution von amtswegen durch Geldstrafen oder durch Haft zur Aussage verhalten werden. Die Haft darf nicht über den Zeitpunkt der Beendigung des Processes in der Instanz verlängert werden und in keinem Falle die Dauer von sechs Wochen überschreiten.
 
-### § 291b ZPO
+`§ 325 (2) ZPO.`  
+Die Entscheidung, dass gegen den Zeugen mit der Execution vorzugehen sei, sowie die Anordnung der einzelnen Zwangsmittel steht dem erkennenden Gerichte, wenn aber die Vernehmung durch einen ersuchten Richter geschehen soll, diesem zu. Vor der Beschlussfassung ist der Zeuge zu hören.
+----
 
-`§ 291b (1) ZPO.`  
-Eine Amtshandlung nach § 291a ist durch abgesondert anfechtbaren Beschluss anzuordnen. Ein dagegen erhobener Rekurs hat aufschiebende Wirkung.
+----
+### § 326 ZPO # 
 
-`§ 291b (2) ZPO.`  
-Gegen die Abweisung eines Antrags nach § 291a Abs. 1 ist kein abgesondertes Rechtsmittel zulässig.
+`§ 326 (1) ZPO.`  
+Die Beschlussfassung darüber, ob und in welcher Weise der Fortgang des Verfahrens in der Hauptsache durch die ungerechtfertigte Weigerung der Aussage, der Ableistung des Zeugeneides oder durch die deshalb wider den Zeugen eingeleiteten Zwangsmaßregeln beeinflusst werde, steht dem erkennenden Gerichte zu. Der beauftragte oder ersuchte Richter hat deshalb das Processgericht von diesen Vorfällen jederzeit ohne Aufschub in Kenntnis zu setzen. Die Entscheidung des erkennenden Gerichtes kann ohne vorgängige mündliche Verhandlung erfolgen.
 
-### § 291c ZPO
+`§ 326 (2) ZPO.`  
+In allen Fällen ungerechtfertigter Weigerung haftet der Zeuge beiden Parteien für den ihnen durch die Vereitlung oder Verzögerung der Beweisführung verursachten Schaden; er ist insbesondere auch zum Ersatze aller durch seine Weigerung verursachten Kosten verpflichtet.
 
-`§ 291c ZPO.`  
-Die Bestimmungen des § 291a Abs. 1 Z 2 und 3 sowie des § 291b sind auf eine im Ausland stattfindende Befundaufnahme durch einen Sachverständigen nicht anzuwenden.
+`§ 326 (3) ZPO.`  
+Wenn die Weigerung des Zeugen eine muthwillige war, ist gegen den Zeugen überdies eine Muthwillensstrafe zu verhängen. Die Beschlussfassung über die Pflicht zum Kostenersatz steht dem erkennenden Gerichte zu; zur Verhängung von Muthwillensstrafen ist auch der beauftragte oder ersuchte Richter berechtigt.
+----
 
-## Dritter Titel. # Beweis durch Urkunden. # Beweiskraft der Urkunden.
+----
+## Würdigung der Zeugenaussage.
 
-### § 292 ZPO
+### § 327 ZPO # 
 
-`§ 292 (1) ZPO.`  
-Urkunden, welche im Geltungsgebiete dieses Gesetzes von einer öffentlichen Behörde innerhalb der Grenzen ihrer Amtsbefugnisse oder von einer mit öffentlichem Glauben versehenen Person innerhalb des ihr zugewiesenen Geschäftskreises in der vorgeschriebenen Form auf Papier oder elektronisch errichtet sind (öffentliche Urkunden), begründen vollen Beweis dessen, was darin von der Behörde amtlich verfügt oder erklärt, oder von der Behörde oder der Urkundsperson bezeugt wird. Das Gleiche gilt von den Urkunden, welche zwar außerhalb des Geltungsgebietes dieses Gesetzes, jedoch innerhalb der Grenzen ihrer Amtsbefugnisse von solchen öffentlichen Organen errichtet wurden, die einer Behörde unterstehen, welche im Geltungsgebiete dieses Gesetzes ihren Sitz hat.
+`§ 327 ZPO.`  
+Alle Umstände, welche auf die Unbefangenheit des Zeugen und die Glaubwürdigkeit seiner Aussage von Einfluss sind, hat das Gericht nach freier Überzeugung sorgfältig zu würdigen.
+----
 
-`§ 292 (2) ZPO.`  
-Der Beweis der Unrichtigkeit des bezeugten Vorganges oder der bezeugten Thatsache oder der unrichtigen Beurkundung ist zulässig.
+----
+## Beweisaufnahme durch den beauftragten oder ersuchten Richter.
 
-### § 293 ZPO
+### § 328 ZPO # 
 
-`§ 293 (1) ZPO.`  
-Gleiche Beweiskraft haben auch andere Urkunden, welche durch besondere gesetzliche Vorschriften als öffentliche Urkunden erklärt sind.
+`§ 328 (1) ZPO.`  
+Die Aufnahme des Zeugenbeweises kann durch einen beauftragten oder ersuchten Richter erfolgen:  
+`§ 328 (1) Z 1 ZPO.`
+wenn die Vernehmung des Zeugen an Ort und Stelle der Ermittlung der Wahrheit förderlich erscheint;  
+`§ 328 (1) Z 2 ZPO.`
+wenn die Beweisaufnahme vor dem erkennenden Gerichte erheblichen Schwierigkeiten unterliegen würde;  
+`§ 328 (1) Z 3 ZPO.`
+wenn die Vernehmung des Zeugen vor dem erkennenden Gerichte mit Rücksicht auf die dem Zeugen zu gewährende Entschädigung für Zeitversäumnis und die ihm zu erstattenden Kosten der Reise und des Aufenthaltes am Orte der Vernehmung einen unverhältnismäßig großen Aufwand verursachen würde;  
+`§ 328 (1) Z 4 ZPO.`
+wenn der Zeuge an dem Erscheinen vor dem erkennenden Gerichte gehindert ist.
 
-`§ 293 (2) ZPO.`  
-Die außerhalb des Geltungsgebietes dieses Gesetzes errichteten Urkunden, welche am Orte ihrer Errichtung als öffentliche Urkunden gelten, genießen unter der Voraussetzung der Gegenseitigkeit auch im Geltungsgebiete dieses Gesetzes die Beweiskraft öffentlicher Urkunden, wenn sie mit den vorgeschriebenen Beglaubigungen versehen sind.
+`§ 328 (2) ZPO.`  
+Ein Zeuge, welcher infolge Krankheit, Gebrechlichkeit oder aus anderen Gründen außerstande ist, seine Wohnung zum Zwecke der Vernehmung zu verlassen, oder welcher infolge bestehender Anordnungen nicht verpflichtet ist, zur Abgabe einer Zeugenaussage in bürgerlichen Rechtsangelegenheiten im Gerichtshause zu erscheinen, wird in seiner Wohnung vernommen.
 
-### § 294 ZPO
-Auf Papier oder elektronisch errichtete Privaturkunden begründen, sofern sie von den Ausstellern unterschrieben oder mit ihrem gerichtlich oder notariell beglaubigten Handzeichen versehen sind, vollen Beweis dafür, dass die in denselben enthaltenen Erklärungen von den Ausstellern herrühren.
+`§ 328 (3) ZPO.`  
+Mitglieder des kaiserlichen Hauses werden als Zeugen durch den Obersthofmarschall oder außer Wien durch den Präsidenten des Kreis- oder Landesgerichtes ihres Aufenthaltsortes in ihrer Wohnung vernommen.
 
-### § 296 ZPO
-Ob und in melchem Maße Durchstreichungen, Radirungen und andere Auslöschungen, Einschaltungen oder sonstige äußere Mängel einer Urkunde deren Beweiskraft mindern oder dieselbe ganz aufheben, hat das Gericht nach §. 272 zu beurtheilen.
+`§ 328 (4) ZPO.`  
+Ungeachtet der im Absatze 1, Z 3, bezeichneten Umstände sind Zeugen auf Antrag zur Vernehmung vor das erkennende Gericht zu laden, wenn sich eine Partei bereit erklärt, den damit verbundenen Aufwand, soweit derselbe die Kosten der Beweisaufnahme durch den ersuchten Richter übersteigt, ohne Anspruch auf Ersatz zu bestreiten. Der Vorsitzende kann anordnen, dass die antragstellende Partei innerhalb einer bestimmten Frist einen von ihm zu bestimmenden Betrag zur Deckung dieses Aufwandes vorschussweise erlege (§. 332, Absatz 2).
+----
 
-## Beweisantretung.
+----
+## Ladung.
 
-### § 297 ZPO
+### § 329 ZPO # 
 
-`§ 297 (1) ZPO.`  
-Beruft sich eine Partei zum Beweis ihrer Angaben auf Urkunden, so hat sie die maßgeblichen Stellen bestimmt anzugeben oder hervorzuheben. Diese Urkunden sind dem Gericht von der Partei in geordneter und übersichtlicher Form vorzulegen, falls nicht das Gericht selbst die Herbeischaffung und Vorlegung der Urkunden zu veranlassen hat.
+`§ 329 (1) ZPO.`  
+Die Ladung eines Zeugen ist vom Gerichte auszufertigen. Die erstmalige Ladung hat ohne Zustellnachweis zu erfolgen.
 
-`§ 297 (2) ZPO.`  
-Die Urkunden sind dem Gericht in Abschrift vorzulegen, sofern nicht ausdrücklich anderes angeordnet ist. Ist dies unmöglich oder untunlich, so können sie auch in Urschrift vorgelegt werden. Werden Urkunden nicht in der mündlichen Verhandlung vorgelegt, so ist in dem Schriftsatz, mit dem die Urschriften vorgelegt werden, darauf hinzuweisen, dass und welche Urkunden in Urschrift vorgelegt werden (§ 75 Z 2).
+`§ 329 (2) ZPO.`  
+Die Ladung hat nebst der Benennung der Parteien und einer kurzen Bezeichnung des Gegenstandes der Vernehmung die Aufforderung zu enthalten, zur Ablegung eines Zeugnisses bei der gleichzeitig nach Ort und Zeit bestimmten Tagsatzung zu erscheinen. In der Ladungsurkunde sind die gesetzlichen Bestimmungen über die Zeugengebüren sowie die gesetzlichen Folgen des Ausbleibens bekannt zu geben.
+----
 
-## Vorlegung der Urkunde durch den Beweisführer.
+----
+### § 330 ZPO # 
 
-### § 298 ZPO
+`§ 330 (1) ZPO.`  
+Die Ladung einer in activer Dienstleistung stehenden Person der bewaffneten Macht erfolgt mittels eines an das vorgesetzte Commando des Zeugen oder an das nächste Militärstationscommando gerichteten Ersuchens.
 
-`§ 298 (1) ZPO.`  
-Urkunden sind in der Weise vorzulegen, dass das Gericht und die Gegenpartei von dem ganzen Inhalte der Urkunden Einsicht nehmen können.
+`§ 330 (2) ZPO.`  
+Ladungen an selbständige Commandanten der Militärpolizeiwache und der Bundespolizei sind den Commandanten unmittelbar zuzustellen. Wegen der Zustellung der Ladung an andere Mitglieder dieser Körper ist sich an deren Vorgesetzte zu wenden.
+----
 
-`§ 298 (2) ZPO.`  
-Kommen nur einzelne Theile einer sich auf verschiedene Rechtsverhältnisse beziehenden Urkunde in Betracht, so kann das Gericht, nachdem es vom ganzen Inhalte der Urkunde Einsicht genommen hat, auf Antrag anordnen, dass dem Gegner außer dem Eingange, dem Schlusse, dem Datum und der Unterschrift, nur diejenigen Stellen vorgewiesen werden, welche für das, den Gegenstand des Streites bildende Rechtsverhältnis von Belang sind.
+----
+### § 331 ZPO # 
 
-`§ 298 (3) ZPO.`  
-Der Gegner des Beweisführers ist zur Erklärung über die vorgelegte Urkunde aufzufordern.
+`§ 331 ZPO.`  
+Steht die als Zeuge zu ladende Person in einem öffentlichen Amte oder Dienste und muss voraussichtlich zur Wahrung der Sicherheit oder anderer öffentlicher Interessen eine Stellvertretung während der Verhinderung dieser Person eintreten, so ist gleichzeitig deren unmittelbarer Vorgesetzter von der ergangenen Ladung zu benachrichtigen.
+----
 
-### § 299 ZPO
-Hat die Partei eine Abschrift der Urkunde vorgelegt, so kann ihr auf Antrag der Gegenpartei oder von amtswegen die Vorlage der Urschrift aufgetragen werden. Ob und inwieweit ungeachtet der Nichtbefolgung dieses Auftrages der vorgelegten Abschrift infolge ihrer Beglaubigung, ihres Alters, ihres Ursprunges oder aus anderen Gründen Glauben beizumessen ist, hat das Gericht nach seinem Ermessen zu entscheiden. Hiebei sind die für die Unterlassung der Vorlage der Urschrift geltend gemachten Gründe und die sonstigen Umstände des einzelnen Falles sorgfältig zu würdigen.
+----
+### § 332 ZPO # 
 
-### § 300 ZPO
+`§ 332 (1) ZPO.`  
+Ist einem Zeugen voraussichtlich eine Vergütung zu leisten und ist dem Beweisführer nicht die Verfahrenshilfe bewilligt, so hat der Vorsitzende oder der beauftragte oder ersuchte Richter anzuordnen, daß ein von ihm zu bestimmender Betrag zur Deckung des durch die Vernehmung des Zeugen entstehenden Aufwandes vom Beweisführer innerhalb einer bestimmten Frist vorschußweise zu erlegen ist. Hievon ist abzusehen, wenn die vom Staatsschatze in dem Verfahren vorläufig zu leistenden Zeugengebühren insgesamt den Betrag von 200 Euro voraussichtlich nicht übersteigen und mit ihrer Einbringung bestimmt zu rechnen ist.
 
-`§ 300 (1) ZPO.`  
-Wenn die Vorlegung der Urschrift einer Urkunde in der mündlichen Verhandlung wegen erheblicher Hindernisse nicht erfolgen kann, oder wegen der Wichtigkeit der Urkunde und der Besorgnis ihres Verlustes oder ihrer Beschädigung bedenklich erscheint, so kann das Gericht auf Antrag oder von amtswegen anordnen, dass die Urkunde einem beauftragten oder ersuchten Richter vorgelegt werde.
+`§ 332 (2) ZPO.`  
+Bei nicht rechtzeitigem Erlag dieses Vorschusses hat die Ausfertigung der Ladung zu unterbleiben und ist die Verhandlung auf Antrag des Gegners ohne Rücksicht auf die ausständige Beweisaufnahme fortzusetzen (§ 279). Der Beschluß, mit dem der Erlag eines Kostenvorschusses aufgetragen wird, ist nur hinsichtlich seiner Höhe und nur dann anfechtbar, wenn der Gesamtbetrag der einer Partei aufgetragenen Vorschüsse 4 000 Euro übersteigt.
+----
 
-`§ 300 (2) ZPO.`  
-Das Gericht hat in diesem Falle zu bestimmen, welche Umstände durch das über die Amtshandlung des beauftragten oder ersuchten Richters aufzunehmende Protokoll zu bestätigen sind; es kann auch anordnen, dass mit dem Protokolle eine Abschrift oder ein Auszug der Urkunde vorgelegt werde.
+----
+## Folgen des Ausbleibens.
 
-`§ 300 (3) ZPO.`  
-Von der seitens des beauftragten oder ersuchten Richters zur Vorlage der Urkunde anberaumten Tagsatzung ist der Gegner des Beweisführers rechtzeitig zu verständigen. Wird die Urkunde bei dieser Tagsatzung nicht vorgelegt, so kann der Fortgang des Processes durch die Rücksicht auf dieses Beweismittel nicht weiter aufgehalten werden.
+### § 333 ZPO # 
 
-### § 301 ZPO
+`§ 333 (1) ZPO.`  
+Gegen einen ordnungsmäßig geladenen Zeugen, welcher bei der zur Vernehmung bestimmten Tagsatzung ohne genügende Entschuldigung nicht erscheint, ist durch das erkennende Gericht oder durch den beauftragen oder ersuchten Richter die Verpflichtung zum Ersatze aller durch sein Ausbleiben verursachten Kosten durch Beschluss auszusprechen; außerdem ist der Zeuge unter gleichzeitiger Verhängung einer Ordnungsstrafe neuerlich zu laden. Im Falle wiederholten Ausbleibens ist die Ordnungsstrafe innerhalb des gesetzlichen Ausmaßes zu verdoppeln und die zwangsweise Vorführung des Zeugen anzuordnen.
 
-`§ 301 (1) ZPO.`  
-Der Antrag, die Vorlage einer als Beweismittel zu benützenden Urkunde zu veranlassen, welche sich bei einer öffentlichen Behörde oder in Verwahrung eines Notars befindet und deren Ausfolgung oder Vorlage die Partei im Wege unmittelbaren Einschreitens nicht zu erlangen vermag, kann auch während der mündlichen Verhandlung gestellt werden.
+`§ 333 (2) ZPO.`  
+Erfolgt nachträglich eine genügende Entschuldigung des Nichterscheinens, so sind die wider den Zeugen verhängten Ordnungsstrafen wieder aufzuheben; außerdem können dem Zeugen die zum Ersatze auferlegten Kosten ganz oder theilweise erlassen werden.
 
-`§ 301 (2) ZPO.`  
-Wird diesem Antrag stattgegeben, so hat der Vorsitzende die zur Herbeischaffung der Urkunde oder Einsichtnahme in die Urkunde geeigneten Verfügungen zu treffen.
+`§ 333 (3) ZPO.`  
+Der ungehorsame Zeuge haftet überdies für allen den Parteien durch die ihm zur Last fallende Vereitlung oder Verzögerung der Beweisführung verursachten Schaden.
+----
 
-### § 302 ZPO
-Nach erfolgter Vorlegung einer Urkunde kann der Beweisführer auf dieses Beweismittel nur mit Zustimmung des Gegners verzichten.
+----
+### § 334 ZPO # 
 
-## Vorlegung der Urkunde durch den Gegner.
+`§ 334 ZPO.`  
+Die Feststellung der vom Zeugen in den Fällen der §§. 326 und 333 zu ersetzenden Kosten muss unter Vorlage des Kostenverzeichnisses bei sonstigem Ausschlusse binnen vierzehn Tagen nach Rechtskraft des Beschlusses angesucht werden, durch welchen der Zeuge zum Kostenersatze verpflichtet wurde. Dem beauftragten oder ersuchten Richter obliegt die Feststellung des Kostenbetrages nur dann, wenn er nach den Bestimmungen dieses Gesetzes die Verpflichtung zum Kostenersatze auszusprechen berufen war.
+----
 
-### § 303 ZPO
+----
+### § 335 ZPO # 
 
-`§ 303 (1) ZPO.`  
-Wenn eine Partei behauptet, dass sich eine für ihre Beweisführung erhebliche Urkunde in den Händen des Gegners befindet, so kann auf ihren Antrag das Gericht dem Gegner die Vorlage der Urkunde durch Beschluss auftragen.
+`§ 335 (1) ZPO.`  
+Wenn die Vernehmung eines Zeugen vergeblich versucht wurde und zu besorgen ist, dass Wiederholungen des Versuches zu neuer Verzögerung des Processes führen würden, so hat das erkennende Gericht auf Antrag für diese Beweisaufnahme eine Frist zu bestimmen, nach deren fruchtlosem Ablaufe die Verhandlung auf Antrag einer der Parteien ohne Rücksicht auf den mittels dieses Zeugen angebotenen Beweis fortzusetzen ist. Die Bestimmung der Frist steht auch dann dem erkennenden Gerichte zu, wenn die Vernehmung des Zeugen durch einen beauftragten oder ersuchten Richter stattfinden soll. Vor der Entscheidung über den Antrag ist der Gegner des Antragstellers zu hören.
 
-`§ 303 (2) ZPO.`  
-Die antragstellende Partei hat eine Abschrift der vom Gegner vorzulegenden Urkunde beizubringen oder, wenn sie dies nicht vermag, den Inhalt der Urkunde möglichst genau und vollständig anzugeben, sowie die Thatsachen anzuführen, welche durch die vorzulegende Urkunde bewiesen werden sollen. Desgleichen sind die Umstände darzulegen, welche den Besitz der Urkunde seitens des Gegners wahrscheinlich machen.
+`§ 335 (2) ZPO.`  
+In Betreff der nachträglichen Vernehmung des Zeugen hat die Vorschrift des §. 279 Absatz 2, zu gelten.
+----
 
-`§ 303 (3) ZPO.`  
-Der Entscheidung über den Antrag hat, wenn derselbe außerhalb der mündlichen Verhandlung gestellt wird, eine mündliche oder schriftliche Einvernehmung des Gegners vorauszugehen.
+----
+## Vernehmung.
 
-### § 304 ZPO
+### § 336 ZPO # 
 
-`§ 304 (1) ZPO.`  
-Die Vorlage der Urkunde kann nicht verweigert werden:  
-`§ 304 (1) Z 1 ZPO.`
-wenn der Gegner selbst auf die Urkunde zum Zwecke der Beweisführung im Processe Bezug genommen hat;  
-`§ 304 (1) Z 2 ZPO.`
-wenn der Gegner nach bürgerlichem Rechte zur Ausfolgung oder Vorlage der Urkunde verpflichtet ist;  
-`§ 304 (1) Z 3 ZPO.`
-wenn die Urkunde ihrem Inhalte nach eine beiden Parteien gemeinschaftliche ist.
+`§ 336 (1) ZPO.`  
+Zeugen, welche wegen einer falschen Beweisaussage verurtheilt worden sind, oder welche zur Zeit ihrer Abhörung das vierzehnte Lebensjahr noch nicht zurückgelegt haben, endlich Personen, welche wegen mangelnder Verstandesreife oder wegen Verstandesschwäche von dem Wesen und der Bedeutung des Eides keine genügende Vorstellung haben, dürfen nicht beeidet werden.
 
-`§ 304 (2) ZPO.`  
-Als gemeinschaftlich gilt eine Urkunde insbesondere für die Personen, in deren Interesse sie errichtet ist oder deren gegenseitige Rechtsverhältnisse darin bekundet sind. Als gemeinschaftlich gelten auch die über ein Rechtsgeschäft zwischen den Betheiligten oder zwischen einem derselben und dem gemeinsamen Vermittler des Geschäftes gepflogenen schriftlichen Verhandlungen.
+`§ 336 (2) ZPO.`  
+Das Gericht kann die Beeidigung eines Zeugen unterlassen, wenn keine der Parteien vor der Beendigung der Vernehmung des Zeugen die Beeidigung beantragt.
 
-### § 305 ZPO
-Die Vorlage anderer Urkunden kann verweigert werden:  
-`§ 305 Z 1 ZPO.`
-wenn der Inhalt Angelegenheiten des Familienlebens betrifft;  
-`§ 305 Z 2 ZPO.`
-wenn der Gegner durch die Vorlage der Urkunde eine Ehrenpflicht verletzen würde;  
-`§ 305 Z 3 ZPO.`
-wenn das Bekanntwerden der Urkunde der Partei oder dritten Personen zur Schande gereichen oder die Gefahr strafgerichtlicher Verfolgung zuziehen würde;  
-`§ 305 Z 4 ZPO.`
-wenn die Partei durch die Vorlage der Urkunde eine staatlich anerkannte Pflicht zur Verschwiegenheit, von der sie nicht giltig entbunden wurde, oder ein Kunst- oder Geschäftsgeheimnis verletzen würde;  
-`§ 305 Z 5 ZPO.`
-wenn andere gleich wichtige Gründe vorhanden sind, welche die Verweigerung der Vorlage rechtfertigen.
+`§ 336 (3) ZPO.`  
+Die unrechtmäßige Verweigerung des Eides zieht dieselben Folgen wie die ungerechtfertigte Verweigerung der Aussage nach sich.
+----
 
-### § 306 ZPO
-Wenn einer der im §. 305 angeführten Gründe nur einzelne Theile des Inhaltes einer Urkunde betrifft, so ist ein Auszug der Urkunde vorzulegen. § 299 ist mit der Maßgabe anzuwenden, dass anstelle der Urschrift ein beglaubigter Auszug der Urkunde vorzulegen ist.
+----
+### § 337 ZPO # 
 
-### § 307 ZPO
+`§ 337 (1) ZPO.`  
+Der Zeuge ist vor seiner Abhörung zu beeiden. Zur Aufklärung über die persönlichen Verhältnisse des Zeugen, über die Zulässigkeit seiner Abhörung oder Beeidigung und über den Umstand, ob er eine für die Ermittlung des Sachverhaltes dienliche Aussage abzulegen vermöge, kann jedoch vor der Beeidigung des Zeugen eine Befragung desselben vorgenommen werden.
 
-`§ 307 (1) ZPO.`  
-Leugnet der Gegner den Besitz der Urkunde und erachtet das Gericht die durch die Urkunde zu beweisenden Thatsachen erheblich und zugleich die Verpflichtung zur Vorlage der Urkunde als bestehend, so kann die Vernehmung und eidliche Anhörung des Gegners durch gerichtlichen Beschluss zu dem Zwecke angeordnet werden, um zu ermitteln, ob der Gegner die Urkunde besitze oder doch wisse, wo dieselbe zu finden sei, oder ob die Urkunde nicht etwa von ihm oder auf seine Veranlassung, um sie dem Beweisführer zu entziehen, beseitigt oder zur Benützung untauglich gemacht worden sei.
+`§ 337 (2) ZPO.`  
+Auf Grund dieser Befragung kann das Gericht nach Anhörung der Parteien beschließen, dass die Abhörung des Zeugen zu unterbleiben habe, oder es kann sich vorbehalten, über die Beeidigung des Zeugen erst nach erfolgter Abhörung desselben Beschluss zu fassen. Der beauftragte oder ersuchte Richter muß in jedem Falle die Abhörung des Zeugen vornehmen; er kann jedoch die Entscheidung über die Beeidigung des Zeugen bis nach erfolgter Abhörung aufschieben oder dieselbe dem erkennenden Gerichte vorbehalten.
 
-`§ 307 (2) ZPO.`  
-Welchen Einfluss es auf die Beurtheilung des Falles hat, wenn der Gegner dem Auftrage zur Vorlage der Urkunde, deren Besitz er zugegeben hat, nicht nachkommt oder wenn er bezüglich einer Urkunde, deren Besitz er leugnet, die Vernehmung oder die eidliche Aussage ablehnt oder wenn aus seiner Aussage hervorgeht, dass die Urkunde absichtlich beseitigt oder untauglich gemacht worden sei, ob insbesonders in diesen Fällen die Angaben des Beweisführers über den Inhalt der Urkunde als erwiesen anzusehen seien, bleibt dem durch sorgfältige Würdigung aller Umstände geleiteten richterlichen Ermessen überlassen.
+`§ 337 (3) ZPO.`  
+Wenn sich ein Zeuge der Beantwortung von Fragen nicht entschlägt, hinsichtlich deren er die Aussage gemäß §. 321, Z 1 und 2, zu verweigern berechtigt wäre, kann sich das erkennende Gericht oder der die Vernehmung leitende beauftragte oder ersuchte Richter gleichfalls vorbehalten, über die Ablegung des Eides erst nach erfolgter Abhörung des Zeugen zu entscheiden.
+----
 
-## Vorlegung der Urkunde durch einen Dritten.
+----
+### § 338 ZPO # 
 
-### § 308 ZPO
+`§ 338 (1) ZPO.`  
+In allen Fällen, in welchen erst nach Abhörung der Zeugen über die Beeidigung entschieden werden soll, ist der Zeuge vor der Abhörung an die Pflicht zur Angabe der Wahrheit, an die Heiligkeit und Bedeutung des vorbehaltenen Eides, sowie an die strafrechtlichen Folgen einer falschen Beweisaussage zu erinnern.
 
-`§ 308 (1) ZPO.`  
-Wenn sich eine zur Beweisführung benöthigte Urkunde in der Hand eines Dritten befindet, welcher nach den Vorschriften des bürgerlichen Rechtes oder deshalb zur Herausgabe und Vorlage der Urkunde verpflichtet ist, weil dieselbe ihrem Inhalte nach eine für den Beweisführer und den Dritten gemeinschaftliche ist (§. 304), so kann letzterem auf Antrag des Beweisführers vom Processgerichte durch Beschluss aufgetragen werden, die Urkunde innerhalb einer ihm zugleich zu bestimmenden Frist auf Kosten des Beweisführers bei dem Processgerichte behufs Benützung bei der mündlichen Verhandlung zu hinterlegen.
+`§ 338 (2) ZPO.`  
+Nach Ablegung der Aussage kann mit Rücksicht auf die Unerheblichkeit derselben oder auf das ihr zukommende geringe Maß von Glaubwürdigkeit vom erkennenden Gerichte oder von dem die Vernehmung leitenden beauftragten oder ersuchten Richter ausgesprochen werden, dass die Beeidigung unterbleibe.
 
-`§ 308 (2) ZPO.`  
-Über einen solchen Antrag hat das Processgericht nach Anhörung des Gegners und des angeblichen dritten Besitzers der Urkunde zu entscheiden; falls letzterer den Besitz der Urkunde leugnet, kann dem Antrage nur dann stattgegeben werden, wenn die antragstellende Partei glaubhaft macht, dass sich die Urkunde in der Hand des Dritten befindet. Zum Zwecke der Einvernehmung der Betheiligten kann vom Processgerichte eine besondere Tagsatzung angeordnet werden. Der Beschluss ist nach Eintritt der Rechtskraft und nach Ablauf der angeordneten Vorlagefrist vollstreckbar.
+`§ 338 (3) ZPO.`  
+Wenn die Vernehmung durch einen beauftragten oder ersuchten Richter geschah, kann das erkennende Gericht nach Einlangen einer unbeeideten Zeugenaussage die nachträgliche Beeidigung derselben verfügen.
+----
 
-`§ 308 (3) ZPO.`  
-Bei Zurückweisung des Antrages sind dem angeblichen Besitzer der Urkunde auf sein Verlangen die ihm durch das Verfahren verursachten nothwendigen Kosten zu ersetzen.
+----
+### § 339 ZPO # 
 
-### § 309 ZPO
+`§ 339 (1) ZPO.`  
+Den Zeugen ist vor ihrer Vernehmung bekannt zu geben, über welche Fragen die Aussage von einem Zeugen verweigert werden darf (§. 321).
 
-`§ 309 (1) ZPO.`  
-Muss der angebliche Besitzer der Urkunde im Wege der Klage zur Herausgabe und Vorlage der Urkunde verhalten werden, weil nicht glaubhaft gemacht werden kann, dass sich die Urkunde in seiner Hand befindet oder weil die Entscheidung über das Vorhandensein der Pflicht zur Herausgabe und Vorlage der Urkunde die vorgängige Ermittlung und Feststellung streitiger Thatumstände verlangt, so kann das Processgericht, wenn es die durch die Urkunde zu beweisenden Thatsachen für erheblich hält, auf Antrag anordnen, dass mit der Fortsetzung der mündlichen Verhandlung bis nach Ablauf der gleichzeitig dem Beweisführer zur Vorlegung der Urkunde zu bestimmenden Frist gewartet werde (§. 279).
+`§ 339 (2) ZPO.`  
+Die Zeugen sind einzeln in Abwesenheit der später abzuhörenden Zeugen zu vernehmen. Die Reihenfolge, in welcher die Abhörung stattzufinden hat, bestimmt bei Vernehmungen vor dem erkennenden Gerichte der Vorsitzende, sonst der beauftragte oder ersuchte Richter.
 
-`§ 309 (2) ZPO.`  
-Der Gegner des Beweisführers kann jedoch noch vor Ablauf dieser Frist die Fortsetzung der Verhandlung beantragen, wenn die Klage des Beweisführers gegen den Dritten früher erledigt ist, oder der Beweisführer die Erhebung der Klage oder die Betreibung des Processes oder der Execution verzögert.
+`§ 339 (3) ZPO.`  
+Vor Beendigung der Vernehmung aller vorgeladenen Zeugen darf sich keiner derselben ohne richterliche Erlaubnis entfernen.
 
-`§ 309 (3) ZPO.`  
-Die Vorlegung der Urkunde geschieht auf Kosten des Beweisführers.
+`§ 339 (4) ZPO.`  
+Zeugen, deren Aussagen von einander abweichen, können einander gegenübergestellt werden.
+----
 
-`END-OF-DATA-FILE` *(fortges. in [BG.ZPO.011](BG.ZPO.011.md))*
+----
+### § 340 ZPO # 
+
+`§ 340 (1) ZPO.`  
+Die Vernehmung des Zeugen beginnt damit, daß der Zeuge über Namen, Tag der Geburt, Beschäftigung und Wohnort befragt wird. Bei Vorliegen der Voraussetzungen des § 76 Abs. 2 hat eine Befragung zum Wohnort zu unterbleiben. Erforderlichenfalls sind ihm auch Fragen über solche Umstände, welche seine Glaubwürdigkeit in der vorliegenden Sache betreffen, insbesondere über seine Beziehungen zu den Parteien, vorzulegen. Vor seiner Beeidigung ist der Zeuge auch nach seiner Religion zu befragen.
+
+`§ 340 (2) ZPO.`  
+Bei der Abhörung hat der Vorsitzende oder der die Vernehmung leitende beauftragte oder ersuchte Richter an den Zeugen über diejenigen Thatsachen, deren Beweis durch seine Aussage hergestellt werden soll, sowie zur Erforschung des Grundes, auf welchem das Wissen des Zeugen beruht, die geeigneten Fragen zu stellen. Außer dem Vorsitzenden können, wenn die Vernehmung vor dem erkennenden Gerichte stattfindet, auch die übrigen Mitglieder des Senates an den Zeugen Fragen richten.
+----
+
+----
+### § 341 ZPO # 
+
+`§ 341 (1) ZPO.`  
+Über die Betheiligung der Parteien an der Zeugenvernehmung gelten die Bestimmungen des §. 289.
+
+`§ 341 (2) ZPO.`  
+In Ansehung derjenigen Personen, welche infolge bestehender Anordnungen nicht verpflichtet sind, zur Abgabe einer Zeugenaussage in bürgerlichen Rechtsangelegenheiten im Gerichtshause zu erscheinen, ist das Fragerecht der Parteien durch rechtzeitige Mittheilung schriftlicher Fragen an den mit der Vernehmung beauftragten Richter auszuüben.
+----
+
+----
+### § 342 ZPO # 
+
+`§ 342 (1) ZPO.`  
+Wird die Zulässigkeit einer Frage bestritten oder erachtet der Vorsitzende eine Frage als unangemessen zurückzuweisen, so entscheidet hierüber auf Antrag der Senat. Diese Entscheidung steht auch einem beauftragten oder ersuchten Richter zu; sie gilt jedoch in diesem Falle als eine bloß vorläufige und kann durch das erkennende Gericht abgeändert werden.
+
+`§ 342 (2) ZPO.`  
+Findet das erkennende Gericht, dass eine bei der Vernehmung vor einem beauftragten oder ersuchten Richter gestellte Frage unzulässig war, so kann dasselbe aussprechen, dass die auf diese Frage ertheilte Antwort im weiteren Laufe des Verfahrens unberücksichtigt bleibe.
+----
+
+----
+### § 343 ZPO # 
+
+`§ 343 (1) ZPO.`  
+Die Aussage des Zeugen ist nach ihrem wesentlichen Inhalte, sofern es aber nothwendig erscheint, ihrem Wortlaute nach in dem über die Tagsatzung geführten Protokolle aufzuzeichnen. Wurde der Zeuge in einer Verhandlungstagsatzung abgehört, so hat diese Aufzeichnung im Verhandlungsprotokolle zu geschehen.
+
+`§ 343 (2) ZPO.`  
+Das Aufgezeichnete ist dem Zeugen und den bei der Vernehmung anwesenden Parteien zur Einsicht vorzulegen oder auf Verlangen vorzulesen.
+
+`§ 343 (3) ZPO.`  
+In dem Protokolle ist zu bemerken, ob der Zeuge vor oder nach seiner Abhörung beeidet wurde, ob dessen Beeidigung unterblieben ist oder der Entscheidung des erkennenden Gerichtes vorbehalten wurde, ob die Parteien und welche derselben bei der Abhörung zugegen waren, endlich ob und welche Einwendungen von den Parteien oder vom Zeugen gegen das Protokoll erhoben wurden.
+----
+
+----
+### § 344 ZPO # 
+
+`§ 344 (1) ZPO.`  
+Das erkennende Gericht kann auf Antrag oder von amtswegen die wiederholte Vernehmung von Zeugen insbesondere anordnen, wenn es die vom beauftragten oder ersuchten Richter für gerechtfertigt erkannte Weigerung der Aussage oder der Beantwortung einzelner Fragen für unzulässig erachtet, wenn Zeugen nicht ordnungsgemäß oder nicht vollständig vernommen wurden, wenn die Aussage in Bezug auf wesentliche Punkte an Unklarheit, Unbestimmtheit oder Zweideutigkeit leidet, oder wenn die Zeugen selbst eine Ergänzung oder Berichtigung ihrer Aussagen für nothwendig erachten.
+
+`§ 344 (2) ZPO.`  
+Bei wiederholter oder nachträglicher Vernehmung kann angeordnet werden, dass statt der nochmaligen Beeidigung der Zeuge die Richtigkeit seiner Aussage unter Berufung auf den früher abgelegten Eid zu versichern habe.
+----
+
+----
+### § 345 ZPO # 
+
+`§ 345 ZPO.`  
+Die Partei kann auf einen Zeugen, welchen sie vorgeschlagen hat, verzichten. Der Gegner kann jedoch verlangen, dass der Zeuge, falls er bereits zur Vernehmung erschienen ist, ungeachtet dieses Verzichtes vernommen oder dessen Vernehmung, wenn sie bereits begonnen hat, fortgesetzt werde.
+----
+
+----
+## Form des Anbringens.
+
+### § 348 ZPO # 
+
+`§ 348 ZPO.`  
+Anzeigen, Gesuche und Recurse eines Zeugen können außerhalb der Tagsatzung mittels Schriftsatzes angebracht oder mündlich zu gerichtlichem Protokoll erklärt werden.
+----
+
+----
+## Rechtsmittel.
+
+### § 349 ZPO # 
+
+`§ 349 (1) ZPO.`  
+Gegen die Entscheidung über die Rechtmäßigkeit der Weigerung einer Aussage, der Ableistung des Eides oder der Beantwortung einzelner Fragen, gegen den Beschluss, dass die Abhörung eines Zeugen zufolge §. 337 zu unterbleiben hat, sowie gegen die im Sinne der §§. 339 bis 342 bei der Vernehmung gefassten Beschlüsse und getroffenen Verfügungen findet ein abgesondertes Rechtsmittel nicht statt.
+
+`§ 349 (2) ZPO.`  
+Die Entscheidung des erkennenden Gerichtes über den Fortgang des Verfahrens bei Weigerung der Aussage oder der Eidesleistung durch einen Zeugen und über die Fortsetzung der Verhandlung in den Fällen der §§ 332 und 335, die Beschlüsse, durch welche die Ladung eines Zeugen oder dessen Vorführung angeordnet wird, sowie die über die Beeidigung eines Zeugen gefaßten Beschlüsse können durch ein Rechtsmittel nicht angefochten werden.
+----
+
+----
+## Sachverständige Zeugen.
+
+### § 350 ZPO # 
+
+`§ 350 ZPO.`  
+Die Vorschriften über den Zeugenbeweis finden auch Anwendung, insoweit zum Beweise vergangener Thatsachen oder Zustände, zu deren Wahrnehmung eine besondere Sachkunde erforderlich war, solche sachkundige Personen zu vernehmen sind.
+----
+
+----
+## Fünfter Titel. # Beweis durch Sachverständige. # Bestellung der Sachverständigen.
+
+### § 351 ZPO # 
+
+`§ 351 (1) ZPO.`  
+Wird die Aufnahme eines Beweises durch Sachverständige nothwendig, so hat das erkennende Gericht einen oder mehrere Sachverständige, sofort nach Einvernehmung der Parteien über deren Person, zu bestellen. Hiebei ist, sofern nicht besondere Umstände etwas anderes nothwendig machen, vor allem auf die für Gutachten der erforderten Art öffentlich bestellten Sachverständigen Bedacht zu nehmen.
+
+`§ 351 (2) ZPO.`  
+Das Gericht kann an Stelle des oder der zuerst bestellten Sachverständigen andere ernennen.
+----
+
+----
+### § 352 ZPO # 
+
+`§ 352 (1) ZPO.`  
+Wenn ein durch Sachverständige zu besichtigender Gegenstand nicht vor das erkennende Gericht gebracht werden kann, oder die Aufnahme des Sachverständigenbeweises vor demselben aus anderen Gründen erheblichen Schwierigkeiten unterliegen würde, so kann dieselbe durch einen beauftragten oder ersuchten Richter erfolgen.
+
+`§ 352 (2) ZPO.`  
+Die Bestimmung der Anzahl der Sachverständigen sowie die Auswahl der Sachverständigen kann in diesem Falle dem mit der Beweisaufnahme betrauten Richter überlassen werden; ferner kann die Auswahl, wenn dies zur Vermeidung von Verzögerungen oder eines unverhältnismäßigen Aufwandes dienlich erscheint, ohne vorgängige Vernehmung der Parteien geschehen. Die Namen der bestellten Sachverständigen sind den Parteien vom beauftragten oder ersuchten Richter gleichzeitig mit der Verständigung vor der zur Beweisaufnahme bestimmten Tagsatzung bekannt zu geben.
+----
+
+----
+### § 353 ZPO # 
+
+`§ 353 (1) ZPO.`  
+Der Bestellung zum Sachverständigen hat derjenige Folge zu leisten, welcher zur Erstattung von Gutachten der erforderten Art öffentlich bestellt ist oder welcher die Wissenschaft, die Kunst oder das Gewerbe, deren Kenntnis Voraussetzung der geforderten Begutachtung ist, öffentlich als Erwerb ausübt oder zu deren Ausübung öffentlich angestellt oder ermächtigt ist.
+
+`§ 353 (2) ZPO.`  
+Aus denselben Gründen, welche einen Zeugen zur Verweigerung der Aussage berechtigen, kann die Enthebung von der Bestellung als Sachverständiger begehrt werden.
+
+`§ 353 (3) ZPO.`  
+Öffentliche Beamten sind überdies auch dann zu entheben, wenn ihnen die Verwendung als Sachverständige von ihren Vorgesetzten aus dienstlichen Rücksichten untersagt wird oder wenn sie durch besondere Anordnungen der Pflicht, sich als Sachverständige verwenden zu lassen, enthoben sind.
+----
+
+----
+## Folgen von Weigerung und Säumnis
+
+### § 354 ZPO # 
+
+`§ 354 (1) ZPO.`  
+Wenn ein zur Erstattung des Gutachtens bestellter Sachverständiger die Abgabe des Gutachtens ohne genügenden Grund verweigert, ohne genügende Entschuldigung das Gutachten nicht in der festgesetzten Frist erstattet oder trotz ordnungsgemäßer Ladung bei der zur Beweisaufnahme bestimmten Tagsatzung nicht erscheint, ist ihm der Ersatz der durch seine Weigerung oder seine Säumnis verursachten Kosten durch Beschluß aufzuerlegen; außerdem ist der Sachverständige in eine Ordnungsstrafe oder bei mutwilliger Verweigerung der Abgabe des Gutachtens in eine Mutwillensstrafe zu verfällen. In bezug auf diese Beschlußfassungen sind die §§ 326, 333 und 334 sinngemäß anzuwenden.
+
+`§ 354 (2) ZPO.`  
+In den Fällen des Abs. 1 kann auch ein anderer Sachverständiger bestellt werden.
+
+`§ 354 (3) ZPO.`  
+Der seine Pflichten verletzende Sachverständige haftet nebst dem Kostenersatze für allen weiteren den Parteien durch die ihm zur Last fallende Vereitlung oder Verzögerung der Beweisführung verursachten Schaden.
+----
+
+----
+## Ablehnung.
+
+### § 355 ZPO # 
+
+`§ 355 (1) ZPO.`  
+Sachverständige können aus denselben Gründen abgelehnt werden, welche zur Ablehnung eines Richters berechtigen; jedoch kann die Ablehnung nicht darauf gegründet werden, dass der Sachverständige früher in derselben Rechtssache als Zeuge vernommen wurde.
+
+`§ 355 (2) ZPO.`  
+Die Ablehnungserklärung ist bei dem Processgerichte, wenn aber die Auswahl der Sachverständigen dem beauftragten oder ersuchten Richter überlassen wurde, bei diesem vor dem Beginne der Beweisaufnahme, und bei schriftlicher Begutachtung vor erfolgter Einreichung des Gutachtens mittels Schriftsatz oder mündlich anzubringen. Später kann eine Ablehnung nur dann erfolgen, wenn die Partei glaubhaft macht, dass sie den Ablehnungsgrund vorher nicht erfahren oder wegen eines für sie unübersteiglichen Hindernisses nicht rechtzeitig geltend machen konnte.
+
+`§ 355 (3) ZPO.`  
+Ist im Falle einer solchen nachträglichen Ablehnung die durch einen beauftragten oder ersuchten Richter vorzunehmende Beweisaufnahme schon beendet, so kann die Ablehnung nur bei dem Processgerichte vorgebracht werden.
+----
+
+----
+### § 356 ZPO # 
+
+`§ 356 (1) ZPO.`  
+Gleichzeitig mit der Ablehnung sind die Gründe der Ablehnung anzugeben. Die Entscheidung über die Ablehnung steht dem erkennenden Gerichte oder dem beauftragten oder ersuchten Richter zu, je nachdem die Ablehnung zufolge §. 355 bei ersterem oder letzterem angebracht wurde.
+
+`§ 356 (2) ZPO.`  
+Die Entscheidung erfolgt, wenn die Ablehnung nicht bei einer Tagsatzung vorgebracht wird, ohne vorhergehende mündliche Verhandlung. Die ablehnende Partei hat die von ihr angegebenen Gründe der Ablehnung auf Verlangen des Gerichtes vor der Entscheidung glaubhaft zu machen. Wird der Ablehnung stattgegeben, so ist ohne Aufschub die Bestellung eines anderen Sachverständigen zu veranlassen.
+----
+
+`END-OF-DATA-SET`
