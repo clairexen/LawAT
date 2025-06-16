@@ -52,13 +52,14 @@ RisExData.json: venv index.json files/*
 	./RisExUtils.py mkjson
 
 define fetch_body
-files/$N.toc.md: # venv index.json
-	./fetch.py $N
+files/$N.md: # venv index.json
+	./RisExUtils.py fetch $N
+	./RisExUtils.py render --down $N
 
 endef
 
 NORM_LIST := $(shell jq -r 'keys[]' index.json)
-fetch: $(foreach N,$(NORM_LIST),files/$N.toc.md)
+update: $(foreach N,$(NORM_LIST),files/$N.md)
 $(eval $(foreach N,$(NORM_LIST),$(fetch_body)))
 
 purge:

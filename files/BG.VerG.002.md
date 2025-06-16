@@ -8,10 +8,11 @@
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.002.md  
 *Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-Der Nationalrat hat beschlossen:
+*Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.VerG.md](BG.VerG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 
-----
-## 3\. Abschnitt # Vereinsregister und Datenverarbeitung
+*(Fortsetzg. v. [BG.VerG.001](BG.VerG.001.md))*
+
+## 3. Abschnitt # Vereinsregister und Datenverarbeitung
 
 ### § 15 VerG # Verarbeitung besonderer Kategorien personenbezogener Daten
 
@@ -20,9 +21,7 @@ Personenbezogene Daten gemäß § 16 Abs\. 1 dürfen die Vereinsbehörden im I
 
 `§ 15 (2) VerG.`  
 Eine Weiterverarbeitung besonderer Kategorien personenbezogener Daten gemäß § 19a durch die Vereinsbehörden ist weder im Lokalen noch im Zentralen Vereinsregister zulässig\.
-----
 
-----
 ### § 16 VerG # Lokales Vereinsregister
 
 `§ 16 (1) VerG.`  
@@ -76,9 +75,7 @@ Bei den Landespolizeidirektionen geführte Datenverarbeitungen dürfen solange w
 
 `§ 16 (6) VerG.`  
 Protokolldaten über tatsächlich durchgeführte Verarbeitungsvorgänge, wie insbesondere Änderungen, Abfragen und Übermittlungen, sind drei Jahre lang aufzubewahren\.
-----
 
-----
 ### § 17 VerG # Erteilung von Auskünften aus dem Lokalen Vereinsregister
 
 `§ 17 (1) VerG.`  
@@ -118,9 +115,7 @@ Wer eine Auskunft einholt, darf darauf vertrauen, dass sie richtig ist, es sei d
 
 `§ 17 (9) VerG.`  
 Auskünfte, die sich auf die Registerdaten aller oder mehrerer gemeinsamer Kriterien beziehen \(Sammelabfrage\), sind unzulässig\. Sofern die Behörden das Register automationsunterstützt führen, darf nicht vorgesehen werden, dass die Gesamtmenge der gespeicherten Daten nach anderen als den in § 17 Abs\. 1 genannten Auswahlkriterien geordnet werden kann\. Insbesondere darf die Auswählbarkeit der Vereinsdaten aus der Gesamtmenge nach dem Namen einer physischen Person nicht vorgesehen werden\.
-----
 
-----
 ### § 18 VerG # Zentrales Vereinsregister
 
 `§ 18 (1) VerG.`  
@@ -140,9 +135,7 @@ Die Protokollierungsregelungen des § 16 Abs\. 6 finden auch auf das Zentrale 
 
 `§ 18 (4) VerG.`  
 Hinsichtlich der Verarbeitung personenbezogener Daten nach diesem Bundesgesetz besteht kein Widerspruchsrecht gemäß Art\. 21 DSGVO sowie kein Recht auf Einschränkung der Verarbeitung gemäß Art\. 18 DSGVO\. Darüber sind die Betroffenen in geeigneter Weise zu informieren\.
-----
 
-----
 ### § 19 VerG # Erteilung von Auskünften aus dem Zentralen Vereinsregister
 
 `§ 19 (1) VerG.`  
@@ -190,9 +183,7 @@ Nach Maßgabe der technischen Möglichkeiten können Änderungen im ZVR, die son
 
 `§ 19 (7) VerG.`  
 Der Österreichischen Nationalbank sind gegen Ersatz der dafür anfallenden Kosten die Daten aus dem Zentralen Vereinsregister zur Erfüllung ihrer gesetzlich oder unionsrechtlich übertragenen Aufgaben nach Maßgabe der technischen Möglichkeiten im Datenfernverkehr zu übermitteln\.
-----
 
-----
 ### § 19a VerG # Übermittlung personenbezogener Daten
 
 `§ 19a (1) VerG.`  
@@ -203,18 +194,14 @@ Die Ermächtigung gemäß Abs\. 1 umfasst auch die Übermittlung besonderer Kat
 
 `§ 19a (3) VerG.`  
 Eine Übermittlung gemäß Abs\. 1 und 2 ist unzulässig, sofern es sich um personenbezogene Daten handelt, die durch eine körperliche oder molekulargenetische Untersuchung gemäß den §§ 123 und 124 StPO ermittelt worden sind\.
-----
 
-----
-## 4\. Abschnitt # Vereinsgebarung
+## 4. Abschnitt # Vereinsgebarung
 
 ### § 20 VerG # Informationspflicht
 
 `§ 20 VerG.`  
 Das Leitungsorgan ist verpflichtet, in der Mitgliederversammlung die Mitglieder über die Tätigkeit und die finanzielle Gebarung des Vereins zu informieren\. Wenn mindestens ein Zehntel der Mitglieder dies unter Angabe von Gründen verlangt, hat das Leitungsorgan eine solche Information den betreffenden Mitgliedern auch sonst binnen vier Wochen zu geben\.
-----
 
-----
 ### § 21 VerG # Rechnungslegung
 
 `§ 21 (1) VerG.`  
@@ -231,9 +218,7 @@ Die Rechnungsprüfer haben dem Leitungsorgan und einem allenfalls bestehenden Au
 
 `§ 21 (5) VerG.`  
 Stellen die Rechnungsprüfer fest, dass das Leitungsorgan beharrlich und auf schwerwiegende Weise gegen die ihm obliegenden Rechnungslegungspflichten verstößt, ohne dass zu erwarten ist, dass im Verein in absehbarer Zeit für wirksame Abhilfe gesorgt wird, so haben sie vom Leitungsorgan die Einberufung einer Mitgliederversammlung zu verlangen\. Sie können auch selbst eine Mitgliederversammlung einberufen\.
-----
 
-----
 ### § 22 VerG # Qualifizierte Rechnungslegung für große Vereine
 
 `§ 22 (1) VerG.`  
@@ -250,18 +235,14 @@ Als Abschlussprüfer können Wirtschaftsprüfer oder Wirtschaftsprüfungsgesells
 
 `§ 22 (5) VerG.`  
 Stellt der Abschlussprüfer bei seiner Prüfung Tatsachen fest, die erkennen lassen, dass der Verein seine bestehenden Verpflichtungen nicht erfüllen kann, oder die erwarten lassen, dass der Verein in Zukunft zur Erfüllung seiner Verpflichtungen nicht in der Lage sein wird, so hat er dies der Vereinsbehörde mitzuteilen\. Die Vereinsbehörde hat diesen Umstand im Vereinsregister ersichtlich zu machen\. Die Eintragung ist wieder zu löschen, wenn der Abschlussprüfer mitteilt, dass die ihr zu Grunde liegenden Tatsachen nicht mehr bestehen\. Die Eintragung ist in einer Weise zu löschen, dass sie – abweichend von § 16 Abs\. 2 – nicht weiter abfragbar ist\.
-----
 
-----
-## 5\. Abschnitt # Haftung
+## 5. Abschnitt # Haftung
 
 ### § 23 VerG # Haftung für Verbindlichkeiten des Vereins
 
 `§ 23 VerG.`  
 Für Verbindlichkeiten des Vereins haftet der Verein mit seinem Vermögen\. Organwalter und Vereinsmitglieder haften persönlich nur dann, wenn sich dies aus anderen gesetzlichen Vorschriften oder auf Grund persönlicher rechtsgeschäftlicher Verpflichtung ergibt\.
-----
 
-----
 ### § 24 VerG # Haftung von Organwaltern und Rechnungsprüfern
 
 `§ 24 (1) VerG.`  
@@ -297,9 +278,7 @@ Unterlässt es der Organwalter oder Rechnungsprüfer, dem Verein den Streit zu v
 
 `§ 24 (7) VerG.`  
 Eine von einem Verein abgeschlossene Haftpflichtversicherung hat auch den in Abs\. 5 genannten Anspruch eines Organwalters oder Rechnungsprüfers gegen den Verein zu decken\.
-----
 
-----
 ### § 25 VerG # Geltendmachung von Ersatzansprüchen des Vereins
 
 `§ 25 (1) VerG.`  
@@ -310,13 +289,10 @@ Für den Fall, dass die Mitgliederversammlung die Bestellung eines Sondervertret
 
 `§ 25 (3) VerG.`  
 Dringt im Fall des Abs\. 2 der Verein mit den erhobenen Ansprüchen nicht oder nicht zur Gänze durch, so tragen die betreffenden Mitglieder die aus der Rechtsverfolgung erwachsenden Kosten nach außen zur ungeteilten Hand \(Gesamtschuldner\) und im Innenverhältnis, sofern nicht anderes vereinbart ist, zu gleichen Teilen\.
-----
 
-----
 ### § 26 VerG # Verzicht auf Ersatzansprüche durch den Verein
 
 `§ 26 VerG.`  
 Ein Verzicht auf oder ein Vergleich über Ersatzansprüche des Vereins gegen Organwalter oder Prüfer ist Gläubigern des Vereins gegenüber unwirksam\. Anderes gilt nur, wenn der Ersatzpflichtige zahlungsunfähig oder überschuldet ist und sich zur Überwindung der Zahlungsunfähigkeit oder Überschuldung mit seinen Gläubigern vergleicht\.
-----
 
-`END-OF-DATA-SET`
+`END-OF-DATA-FILE` *(fortges. in [BG.VerG.003](BG.VerG.003.md))*
