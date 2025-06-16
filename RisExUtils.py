@@ -307,7 +307,7 @@ Locator.get_attrset = lambda self, name: set() if self.get_attribute(name) is No
 
 def renderText(item, inAnm=False, plain=False):
     if type(item) is str:
-        if plain: return intem
+        if plain: return item
         return markdownEscape(item)
 
     head, *tail = item
@@ -319,7 +319,7 @@ def renderText(item, inAnm=False, plain=False):
         s.append("*")
 
     for t in tail:
-        s.append(renderText(t, inAnm))
+        s.append(renderText(t, inAnm, plain))
 
     if tag[0] == "Anm" and not plain:
         s.append("*")
@@ -611,7 +611,6 @@ class RisDocMarkdownEngine:
 
     def genToc(self, lines, partIdx=None, linkfn=""):
         for line in lines:
-            line = line.replace("\\", "")
             if line.startswith("## "):
                 line = line.removeprefix("## ")
                 self.largeBreak()
@@ -781,10 +780,10 @@ def cli_fetch(*args):
 
         embed()
 
-        print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.raw")
+        print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.markup.json")
         stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
         risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopParJs}, '{normkey}'))")
-        open(f"{flags.filesdir}/{normkey}.raw", "w").write(risDocJsonText)
+        open(f"{flags.filesdir}/{normkey}.markup.json", "w").write(risDocJsonText)
 
     print("DONE.")
     stopPlaywright()
@@ -797,8 +796,8 @@ def cli_render(*args):
         args = normindex.keys()
 
     for normkey in args:
-        #print(f"Loading {normkey} RisDoc from {flags.filesdir}/{normkey}.raw")
-        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.raw")))
+        #print(f"Loading {normkey} RisDoc from {flags.filesdir}/{normkey}.markup.json")
+        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.markup.json")))
 
         if not flags.verbose:
             print(f"[{normkey}] Generating files:\n{' '*15} BIG", end="")
@@ -830,17 +829,17 @@ def cli_render(*args):
 
     print("DONE.")
 
-def cli_risdoc(*args):
+def cli_markup(*args):
     addFlag("fix", False)
     addFlag("fmt", False)
     addFlag("upd", False)
     addFlag("diff", False)
 
     def handleArg(arg):
-        print(f"Processing {arg} RisDoc from {flags.filesdir}/{arg}.raw", file=sys.stderr)
+        print(f"Processing {arg} RisDoc from {flags.filesdir}/{arg}.markup.json", file=sys.stderr)
 
         if arg != "-" and not os.access(arg, os.F_OK) and \
-                os.access(fn := f"{flags.filesdir}/{arg}.raw", os.F_OK): arg = fn
+                os.access(fn := f"{flags.filesdir}/{arg}.markup.json", os.F_OK): arg = fn
 
         txt = (open(arg) if arg != "-" else sys.stdin).read()
 
@@ -876,7 +875,7 @@ def cli_down(*args):
 
     for normkey in args:
         print(f"Downloading media for {normkey}...")
-        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.raw")))
+        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.markup.json")))
         engine.genFile()
 
     print("DONE.")
