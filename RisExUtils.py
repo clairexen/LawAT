@@ -27,6 +27,7 @@ GlobalFlagDefaults = {
     "loghttp": False,
     "logdown": True,
     "verbose": False,
+    "forai": True,
     "limit": 30000,
     "proxy": "http://127.0.0.1:8080",
     "filesdir": "newfiles"
@@ -326,6 +327,8 @@ def renderText(item, inAnm=False, plain=False):
 
     return "".join(s)
 
+engineIndexOutput = dict()
+
 class RisDocMarkdownEngine:
     def __init__(self, risDoc):
         globals()["_dbg_engine"] = self
@@ -342,6 +345,12 @@ class RisDocMarkdownEngine:
             item[0].removeprefix("Par "): item for item in self.risDoc
                     if type(item) is list and len(item) and item[0].startswith("Par ")
         }
+
+        self.addIndexHdrs = False
+        if self.normkey not in engineIndexOutput:
+            self.addIndexHdrs = True
+            engineIndexOutput[self.normkey] = dict()
+        self.idxout = engineIndexOutput[self.normkey]
 
         self.lines = []
         self.lineNumStack = []
@@ -496,7 +505,7 @@ class RisDocMarkdownEngine:
 
         assert not self.citepath
         self.citepath.append(parDoc[0].removeprefix("Par "))
-        parTitle = f"{' '.join(self.citepath)} {self.normdata['title']}"
+        parTitle = parCiteStr = f"{' '.join(self.citepath)} {self.normdata['title']}"
         parRegEx = f"^\\s*{' '.join(self.citepath).replace(' ', r'[\.\s\u00a0]*')}\\b\\.?\\s*"
 
         lastTyp = None
@@ -513,21 +522,25 @@ class RisDocMarkdownEngine:
             match tag[0]:
                 case "Head":
                     startNewSection = True
-                    if lastTyp == "Head":
+                    if flags.forai and lastTyp == "Head":
                         self.append(f" # {renderText(item, plain=True)}")
                     else:
                         self.largeBreak()
                         self.push(f"## {renderText(item, plain=True)}")
+                    if self.addIndexHdrs:
+                        self.idxout[len(self.idxout)] = renderText(item, plain=True)
                 case "Title":
                     assert parTitle is not None
                     t = renderText(item, plain=True)
                     t = re.sub(parRegEx, '', t).rstrip('. ')
-                    #parTitle = f"{parTitle} # {markdownEscape(t)}"
-                    parTitle = f"{parTitle} # {t}"
+                    parTitle = f"{parTitle} {'#' if flags.forai else '—'} {t}"
                 case "ErlHdr":
                     self.pushHdr(f"#### {renderText(item)}")
                 case _:
                     if parTitle is not None:
+                        if parCiteStr not in self.idxout:
+                            self.idxout[parCiteStr] = SimpleNamespace(
+                                ref4human=None, ref4ai=None, title=parTitle)
                         self.pushHdr(f"### {parTitle}")
                         if tag[0] != "Text":
                             parTitle = None
@@ -575,6 +588,7 @@ class RisDocMarkdownEngine:
 
         parinfo = SimpleNamespace(
             name=self.citepath[0],
+            citename=parCiteStr,
             section=len(self.sections)-1,
             indexInDoc=len(self.pars),
             indexInSection=len(self.sections[-1].pars),
@@ -610,11 +624,17 @@ class RisDocMarkdownEngine:
         return self.body
 
     def genToc(self, lines, partIdx=None, linkfn=""):
+        break_func = self.largeBreak
         for line in lines:
+            if line.strip() == "":
+                continue
             if line.startswith("## "):
                 line = line.removeprefix("## ")
-                self.largeBreak()
+                break_func()
                 self.push(f"**{line}**  ")
+                break_func = self.smallBreak
+            else:
+                break_func = self.largeBreak
             if line.startswith("### "):
                 line = line.removeprefix("### ")
                 self.push(f"* [{line}]({linkfn}#{markdownHeaderToAnchor(line)})  ")
@@ -682,10 +702,19 @@ class RisDocMarkdownEngine:
             for p in pars:
                 if isinstance(p, str):
                     p = self.parmap[p]
+
                 self.largeBreak()
                 #self.push("----")
+                firstParLine = len(self.lines)
                 self.lines += self.lines[p.firstLine:p.lastLine+1]
+                lastParLine = len(self.lines)-1
                 #self.push("----")
+
+                ref = f"{k}:{firstParLine-firstLine+1}-{lastParLine-firstLine+1}"
+                if flags.forai:
+                    self.idxout[p.citename].ref4ai = ref
+                else:
+                    self.idxout[p.citename].ref4human = ref
 
             if partIdx is not None:
                 self.largeBreak()
@@ -795,24 +824,32 @@ def cli_render(*args):
     if not len(args):
         args = normindex.keys()
 
-    for normkey in args:
+    def runEngine(normkey, skipBig=False, skipOthers=False):
         #print(f"Loading {normkey} RisDoc from {flags.filesdir}/{normkey}.markup.json")
         engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.markup.json")))
 
         if not flags.verbose:
-            print(f"[{normkey}] Generating files:\n{' '*15} BIG", end="")
-        else:
-            print(f"Writing {flags.filesdir}/{normkey}.md.")
+            print(f"[{normkey}] Generating files:")
 
-        with open(f"{flags.filesdir}/{normkey}.md", "w") as f:
-            for line in engine.genFile(): print(line, file=f)
+        if not skipBig:
+            if not flags.verbose:
+                print(f"{' '*15} BIG", end="")
+            else:
+                print(f"Writing {flags.filesdir}/{normkey}.md.")
+
+            with open(f"{flags.filesdir}/{normkey}.md", "w") as f:
+                for line in engine.genFile(): print(line, file=f)
+        elif not flags.verbose:
+            print(f"{' '*15} ---", end="")
+            engine.genFile()
 
         for i in range(0, len(engine.parts)+1):
             if not flags.verbose:
                 if i % 10 == 9:
                     print(f"\n{' '*15}", end="")
-                print(f" {i:03}" if i > 0 else " TOC", end="")
-            else:
+                print(" ---" if skipOthers else f" {i:03}" if i > 0 else " TOC", end="")
+            if skipOthers: continue
+            if flags.verbose:
                 print(f"Writing {flags.filesdir}/{normkey}.{i:03}.md.")
             with open(f"{flags.filesdir}/{normkey}.{i:03}.md", "w") as f:
                 for line in engine.genFile(i): print(line, file=f)
@@ -821,13 +858,42 @@ def cli_render(*args):
             print()
 
         if flags.prdemo:
-            pr({"hello_world": engine.parts, "foo": {"first": engine.sections,
-                    "second": engine.lines[100:109]}}, ...)
+            pr({"hello_world": engine.parts, "foo": {"bar": engine.sections,
+                    "a_list_of_strings": engine.lines[100:109]}}, ..., ...)
             sys.exit(0)
 
-        embed()
+    print()
+    print("Generating \"AI-Friendly\" Files..")
+
+    for normkey in args:
+        runEngine(normkey, True, False)
+
+    print()
+    print("Generating \"Human-Friendly\" Files..")
+    updateFlags("--no-esc")
+    updateFlags("--no-forai")
+
+    for normkey in args:
+        runEngine(normkey, False, True)
+
+    print()
+    print("Generating Index Files.")
+
+    for normkey in args:
+        data = {k: v if isinstance(v, str) else [v.ref4human,v.ref4ai,v.title]
+                for k,v in engineIndexOutput[normkey].items()}
+        with open(f"{flags.filesdir}/{normkey}.index.json", "w") as f:
+            f.write("{")
+            sep = "\n  "
+            for k, v in data.items():
+                k = json.dumps(k, ensure_ascii=False)
+                v = json.dumps(v, ensure_ascii=False)
+                f.write(f"{sep}{k}: {v}")
+                sep = ",\n  "
+            f.write("\n}\n")
 
     print("DONE.")
+    embed()
 
 def cli_markup(*args):
     addFlag("fix", False)
@@ -866,6 +932,17 @@ def cli_markup(*args):
     while args:
         handleArg(args[0])
         args = updateFlags(*args[1:])
+
+def cli_index(*args):
+    args = updateFlags(*args)
+
+    if not args:
+        args = (*normindex.keys(),)
+
+    for normkey in args:
+        print(f"Indexing {normkey}...")
+
+    print("DONE.")
 
 def cli_down(*args):
     args = updateFlags("--down", *args)
