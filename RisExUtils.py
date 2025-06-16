@@ -781,10 +781,10 @@ def cli_fetch(*args):
 
         embed()
 
-        print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.ris.json")
+        print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.raw")
         stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
         risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopParJs}, '{normkey}'))")
-        open(f"{flags.filesdir}/{normkey}.ris.json", "w").write(risDocJsonText)
+        open(f"{flags.filesdir}/{normkey}.raw", "w").write(risDocJsonText)
 
     print("DONE.")
     stopPlaywright()
@@ -797,8 +797,8 @@ def cli_render(*args):
         args = normindex.keys()
 
     for normkey in args:
-        #print(f"Loading {normkey} RisDoc from {flags.filesdir}/{normkey}.ris.json")
-        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.ris.json")))
+        #print(f"Loading {normkey} RisDoc from {flags.filesdir}/{normkey}.raw")
+        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.raw")))
 
         if not flags.verbose:
             print(f"[{normkey}] Generating files:\n{' '*15} BIG", end="")
@@ -837,10 +837,10 @@ def cli_risdoc(*args):
     addFlag("diff", False)
 
     def handleArg(arg):
-        print(f"Processing {arg} RisDoc from {flags.filesdir}/{arg}.ris.json", file=sys.stderr)
+        print(f"Processing {arg} RisDoc from {flags.filesdir}/{arg}.raw", file=sys.stderr)
 
         if arg != "-" and not os.access(arg, os.F_OK) and \
-                os.access(fn := f"{flags.filesdir}/{arg}.ris.json", os.F_OK): arg = fn
+                os.access(fn := f"{flags.filesdir}/{arg}.raw", os.F_OK): arg = fn
 
         txt = (open(arg) if arg != "-" else sys.stdin).read()
 
@@ -876,7 +876,7 @@ def cli_down(*args):
 
     for normkey in args:
         print(f"Downloading media for {normkey}...")
-        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.ris.json")))
+        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.raw")))
         engine.genFile()
 
     print("DONE.")
