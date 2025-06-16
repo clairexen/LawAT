@@ -52,7 +52,7 @@ RisExData.json: venv index.json files/*
 	./RisExUtils.py mkjson
 
 define fetch_body
-files/$N.md: # venv index.json
+files/$N.md: venv RisExUtils.py index.json
 	./RisExUtils.py fetch $N
 	./RisExUtils.py render --down $N
 
@@ -66,4 +66,4 @@ purge:
 	rm -rf .venv RisExData.json __pycache__/ __rishtml__/
 	rm -rf RisExMarkup.zip RisExBigDocs.zip RisExFiles.zip
 
-.PHONY: query help shell intro venv zip json fetch purge
+.PHONY: query help shell intro venv zip json update purge

@@ -12,60 +12,60 @@
 
 **1. Abschnitt**  
 **Allgemeine Bestimmungen**  
-* [§ 1 VerG — Verein](#1-verg--verein)  
-* [§ 2 VerG — Gründung des Vereins](#2-verg--gründung-des-vereins)  
-* [§ 3 VerG — Statuten](#3-verg--statuten)  
-* [§ 4 VerG — Name, Sitz](#4-verg--name-sitz)  
-* [§ 5 VerG — Organe, Prüfer](#5-verg--organe-prüfer)  
-* [§ 6 VerG — Geschäftsführung, Vertretung](#6-verg--geschäftsführung-vertretung)  
-* [§ 7 VerG — Nichtigkeit und Anfechtbarkeit von Vereinsbeschlüssen](#7-verg--nichtigkeit-und-anfechtbarkeit-von-vereinsbeschlüssen)  
-* [§ 8 VerG — Streitschlichtung](#8-verg--streitschlichtung)  
-* [§ 9 VerG — Vereinsbehörden, Verfahren](#9-verg--vereinsbehörden-verfahren)  
-* [§ 10 VerG — Vereinsversammlungen](#10-verg--vereinsversammlungen)
+* [§ 1 VerG — Verein](#-1-verg--verein)  
+* [§ 2 VerG — Gründung des Vereins](#-2-verg--gründung-des-vereins)  
+* [§ 3 VerG — Statuten](#-3-verg--statuten)  
+* [§ 4 VerG — Name, Sitz](#-4-verg--name-sitz)  
+* [§ 5 VerG — Organe, Prüfer](#-5-verg--organe-prüfer)  
+* [§ 6 VerG — Geschäftsführung, Vertretung](#-6-verg--geschäftsführung-vertretung)  
+* [§ 7 VerG — Nichtigkeit und Anfechtbarkeit von Vereinsbeschlüssen](#-7-verg--nichtigkeit-und-anfechtbarkeit-von-vereinsbeschlüssen)  
+* [§ 8 VerG — Streitschlichtung](#-8-verg--streitschlichtung)  
+* [§ 9 VerG — Vereinsbehörden, Verfahren](#-9-verg--vereinsbehörden-verfahren)  
+* [§ 10 VerG — Vereinsversammlungen](#-10-verg--vereinsversammlungen)
 
 **2. Abschnitt**  
 **Entstehung des Vereins**  
-* [§ 11 VerG — Anzeige der Vereinserrichtung](#11-verg--anzeige-der-vereinserrichtung)  
-* [§ 12 VerG — Erklärung, dass die Vereinsgründung nicht gestattet ist](#12-verg--erklärung-dass-die-vereinsgründung-nicht-gestattet-ist)  
-* [§ 13 VerG — Einladung zur Aufnahme der Vereinstätigkeit](#13-verg--einladung-zur-aufnahme-der-vereinstätigkeit)  
-* [§ 14 VerG — Änderung der Statuten, der organschaftlichen Vertreter und der Vereinsanschrift](#14-verg--änderung-der-statuten-der-organschaftlichen-vertreter-und-der-vereinsanschrift)
+* [§ 11 VerG — Anzeige der Vereinserrichtung](#-11-verg--anzeige-der-vereinserrichtung)  
+* [§ 12 VerG — Erklärung, dass die Vereinsgründung nicht gestattet ist](#-12-verg--erklärung-dass-die-vereinsgründung-nicht-gestattet-ist)  
+* [§ 13 VerG — Einladung zur Aufnahme der Vereinstätigkeit](#-13-verg--einladung-zur-aufnahme-der-vereinstätigkeit)  
+* [§ 14 VerG — Änderung der Statuten, der organschaftlichen Vertreter und der Vereinsanschrift](#-14-verg--änderung-der-statuten-der-organschaftlichen-vertreter-und-der-vereinsanschrift)
 
 **3. Abschnitt**  
 **Vereinsregister und Datenverarbeitung**  
-* [§ 15 VerG — Verarbeitung besonderer Kategorien personenbezogener Daten](#15-verg--verarbeitung-besonderer-kategorien-personenbezogener-daten)  
-* [§ 16 VerG — Lokales Vereinsregister](#16-verg--lokales-vereinsregister)  
-* [§ 17 VerG — Erteilung von Auskünften aus dem Lokalen Vereinsregister](#17-verg--erteilung-von-auskünften-aus-dem-lokalen-vereinsregister)  
-* [§ 18 VerG — Zentrales Vereinsregister](#18-verg--zentrales-vereinsregister)  
-* [§ 19 VerG — Erteilung von Auskünften aus dem Zentralen Vereinsregister](#19-verg--erteilung-von-auskünften-aus-dem-zentralen-vereinsregister)  
-* [§ 19a VerG — Übermittlung personenbezogener Daten](#19a-verg--übermittlung-personenbezogener-daten)
+* [§ 15 VerG — Verarbeitung besonderer Kategorien personenbezogener Daten](#-15-verg--verarbeitung-besonderer-kategorien-personenbezogener-daten)  
+* [§ 16 VerG — Lokales Vereinsregister](#-16-verg--lokales-vereinsregister)  
+* [§ 17 VerG — Erteilung von Auskünften aus dem Lokalen Vereinsregister](#-17-verg--erteilung-von-auskünften-aus-dem-lokalen-vereinsregister)  
+* [§ 18 VerG — Zentrales Vereinsregister](#-18-verg--zentrales-vereinsregister)  
+* [§ 19 VerG — Erteilung von Auskünften aus dem Zentralen Vereinsregister](#-19-verg--erteilung-von-auskünften-aus-dem-zentralen-vereinsregister)  
+* [§ 19a VerG — Übermittlung personenbezogener Daten](#-19a-verg--übermittlung-personenbezogener-daten)
 
 **4. Abschnitt**  
 **Vereinsgebarung**  
-* [§ 20 VerG — Informationspflicht](#20-verg--informationspflicht)  
-* [§ 21 VerG — Rechnungslegung](#21-verg--rechnungslegung)  
-* [§ 22 VerG — Qualifizierte Rechnungslegung für große Vereine](#22-verg--qualifizierte-rechnungslegung-für-große-vereine)
+* [§ 20 VerG — Informationspflicht](#-20-verg--informationspflicht)  
+* [§ 21 VerG — Rechnungslegung](#-21-verg--rechnungslegung)  
+* [§ 22 VerG — Qualifizierte Rechnungslegung für große Vereine](#-22-verg--qualifizierte-rechnungslegung-für-große-vereine)
 
 **5. Abschnitt**  
 **Haftung**  
-* [§ 23 VerG — Haftung für Verbindlichkeiten des Vereins](#23-verg--haftung-für-verbindlichkeiten-des-vereins)  
-* [§ 24 VerG — Haftung von Organwaltern und Rechnungsprüfern](#24-verg--haftung-von-organwaltern-und-rechnungsprüfern)  
-* [§ 25 VerG — Geltendmachung von Ersatzansprüchen des Vereins](#25-verg--geltendmachung-von-ersatzansprüchen-des-vereins)  
-* [§ 26 VerG — Verzicht auf Ersatzansprüche durch den Verein](#26-verg--verzicht-auf-ersatzansprüche-durch-den-verein)
+* [§ 23 VerG — Haftung für Verbindlichkeiten des Vereins](#-23-verg--haftung-für-verbindlichkeiten-des-vereins)  
+* [§ 24 VerG — Haftung von Organwaltern und Rechnungsprüfern](#-24-verg--haftung-von-organwaltern-und-rechnungsprüfern)  
+* [§ 25 VerG — Geltendmachung von Ersatzansprüchen des Vereins](#-25-verg--geltendmachung-von-ersatzansprüchen-des-vereins)  
+* [§ 26 VerG — Verzicht auf Ersatzansprüche durch den Verein](#-26-verg--verzicht-auf-ersatzansprüche-durch-den-verein)
 
 **6. Abschnitt**  
 **Beendigung des Vereins**  
-* [§ 27 VerG — Ende der Rechtspersönlichkeit](#27-verg--ende-der-rechtspersönlichkeit)  
-* [§ 28 VerG — Freiwillige Auflösung](#28-verg--freiwillige-auflösung)  
-* [§ 29 VerG — Behördliche Auflösung](#29-verg--behördliche-auflösung)  
-* [§ 30 VerG — Abwicklung, Nachabwicklung](#30-verg--abwicklung-nachabwicklung)  
-* [§ 30a VerG — Umwandlung eines Vereins in eine Genossenschaft](#30a-verg--umwandlung-eines-vereins-in-eine-genossenschaft)
+* [§ 27 VerG — Ende der Rechtspersönlichkeit](#-27-verg--ende-der-rechtspersönlichkeit)  
+* [§ 28 VerG — Freiwillige Auflösung](#-28-verg--freiwillige-auflösung)  
+* [§ 29 VerG — Behördliche Auflösung](#-29-verg--behördliche-auflösung)  
+* [§ 30 VerG — Abwicklung, Nachabwicklung](#-30-verg--abwicklung-nachabwicklung)  
+* [§ 30a VerG — Umwandlung eines Vereins in eine Genossenschaft](#-30a-verg--umwandlung-eines-vereins-in-eine-genossenschaft)
 
 **7. Abschnitt**  
 **Straf-, Übergangs- und Schlussbestimmungen**  
-* [§ 31 VerG — Strafbestimmung](#31-verg--strafbestimmung)  
-* [§ 32 VerG — Verweisungen](#32-verg--verweisungen)  
-* [§ 33 VerG — In-Kraft-Treten, Außer-Kraft-Treten und Übergangsbestimmungen](#33-verg--in-kraft-treten-außer-kraft-treten-und-übergangsbestimmungen)  
-* [§ 34 VerG — Vollziehung](#34-verg--vollziehung)
+* [§ 31 VerG — Strafbestimmung](#-31-verg--strafbestimmung)  
+* [§ 32 VerG — Verweisungen](#-32-verg--verweisungen)  
+* [§ 33 VerG — In-Kraft-Treten, Außer-Kraft-Treten und Übergangsbestimmungen](#-33-verg--in-kraft-treten-außer-kraft-treten-und-übergangsbestimmungen)  
+* [§ 34 VerG — Vollziehung](#-34-verg--vollziehung)
 
 Der Nationalrat hat beschlossen:
 

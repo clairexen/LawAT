@@ -15,210 +15,210 @@
 **Erster Abschnitt.**  
 **Gerichte und gerichtliche Organe.**  
 **Ordentliche Gerichte.**  
-* [§ 1 JN — ](#1-jn--)
+* [§ 1 JN — ](#-1-jn--)
 
 **Instanzenverhältnis der Gerichte.**  
-* [§ 2 JN — ](#2-jn--)  
-* [§ 3 JN — ](#3-jn--)  
-* [§ 4 JN — ](#4-jn--)
+* [§ 2 JN — ](#-2-jn--)  
+* [§ 3 JN — ](#-3-jn--)  
+* [§ 4 JN — ](#-4-jn--)
 
 **Ausübung der Gerichtsbarkeit bei den ordentlichen Gerichten**  
-* [§ 5 JN — ](#5-jn--)  
-* [§ 7 JN](#7-jn)  
-* [§ 7a JN](#7a-jn)  
-* [§ 8 JN — ](#8-jn--)  
-* [§ 8a JN](#8a-jn)
+* [§ 5 JN — ](#-5-jn--)  
+* [§ 7 JN](#-7-jn)  
+* [§ 7a JN](#-7a-jn)  
+* [§ 8 JN — ](#-8-jn--)  
+* [§ 8a JN](#-8a-jn)
 
 **Berathung und Abstimmung.**  
-* [§ 9 JN — ](#9-jn--)  
-* [§ 10 JN — ](#10-jn--)  
-* [§ 11 JN — ](#11-jn--)  
-* [§ 12 JN — ](#12-jn--)  
-* [§ 13 JN — ](#13-jn--)  
-* [§ 14 JN — ](#14-jn--)  
-* [§ 15 JN — Fachkundige Laienrichter in Handelssachen](#15-jn--fachkundige-laienrichter-in-handelssachen)
+* [§ 9 JN — ](#-9-jn--)  
+* [§ 10 JN — ](#-10-jn--)  
+* [§ 11 JN — ](#-11-jn--)  
+* [§ 12 JN — ](#-12-jn--)  
+* [§ 13 JN — ](#-13-jn--)  
+* [§ 14 JN — ](#-14-jn--)  
+* [§ 15 JN — Fachkundige Laienrichter in Handelssachen](#-15-jn--fachkundige-laienrichter-in-handelssachen)
 
 **III. Abschnitt**  
 **Schluß- und Übergangsbestimmungen.**  
-* [§ 16 JN — (Anm.: aus BGBl. Nr. 20/1949, zu RGBl. Nr. 111/1895)](#16-jn--anm-aus-bgbl-nr-201949-zu-rgbl-nr-1111895)  
-* [§ 17 JN](#17-jn)  
-* [§ 18 JN](#18-jn)
+* [§ 16 JN — (Anm.: aus BGBl. Nr. 20/1949, zu RGBl. Nr. 111/1895)](#-16-jn--anm-aus-bgbl-nr-201949-zu-rgbl-nr-1111895)  
+* [§ 17 JN](#-17-jn)  
+* [§ 18 JN](#-18-jn)
 
 **Zweiter Abschnitt.**  
 **Ablehnung von Richtern und anderen gerichtlichen Organen.**  
 **Ablehnung von Richtern.**  
-* [§ 19 JN — ](#19-jn--)  
-* [§ 20 JN — ](#20-jn--)  
-* [§ 21 JN — ](#21-jn--)  
-* [§ 22 JN — ](#22-jn--)  
-* [§ 23 JN — ](#23-jn--)  
-* [§ 24 JN — ](#24-jn--)  
-* [§ 25 JN — ](#25-jn--)
+* [§ 19 JN — ](#-19-jn--)  
+* [§ 20 JN — ](#-20-jn--)  
+* [§ 21 JN — ](#-21-jn--)  
+* [§ 22 JN — ](#-22-jn--)  
+* [§ 23 JN — ](#-23-jn--)  
+* [§ 24 JN — ](#-24-jn--)  
+* [§ 25 JN — ](#-25-jn--)
 
 **Ablehnung anderer gerichtlicher Organe.**  
-* [§ 26 JN — ](#26-jn--)  
-* [§ 27 JN — ](#27-jn--)
+* [§ 26 JN — ](#-26-jn--)  
+* [§ 27 JN — ](#-27-jn--)
 
 **Dritter Abschnitt.**  
 **Zuständigkeit.**  
-* [§ 27a JN — Inländische Gerichtsbarkeit](#27a-jn--inländische-gerichtsbarkeit)  
-* [§ 28 JN — Bestimmung der Zuständigkeit durch den Obersten Gerichtshof](#28-jn--bestimmung-der-zuständigkeit-durch-den-obersten-gerichtshof)
+* [§ 27a JN — Inländische Gerichtsbarkeit](#-27a-jn--inländische-gerichtsbarkeit)  
+* [§ 28 JN — Bestimmung der Zuständigkeit durch den Obersten Gerichtshof](#-28-jn--bestimmung-der-zuständigkeit-durch-den-obersten-gerichtshof)
 
 **Dauer der Zuständigkeit.**  
-* [§ 29 JN — ](#29-jn--)
+* [§ 29 JN — ](#-29-jn--)
 
 **Delegation.**  
-* [§ 30 JN — ](#30-jn--)  
-* [§ 31 JN — ](#31-jn--)  
-* [§ 31a JN](#31a-jn)  
-* [§ 32 JN — Beschränkung der Zuständigkeit auf den Gerichtsbezirk](#32-jn--beschränkung-der-zuständigkeit-auf-den-gerichtsbezirk)  
-* [§ 33 JN](#33-jn)
+* [§ 30 JN — ](#-30-jn--)  
+* [§ 31 JN — ](#-31-jn--)  
+* [§ 31a JN](#-31a-jn)  
+* [§ 32 JN — Beschränkung der Zuständigkeit auf den Gerichtsbezirk](#-32-jn--beschränkung-der-zuständigkeit-auf-den-gerichtsbezirk)  
+* [§ 33 JN](#-33-jn)
 
 **Übertragung einzelner Geschäfte an den Vorsitzenden oder an einen beauftragten Richter**  
-* [§ 34 JN — ](#34-jn--)  
-* [§ 35 JN — ](#35-jn--)
+* [§ 34 JN — ](#-34-jn--)  
+* [§ 35 JN — ](#-35-jn--)
 
 **Übertragung des Vollzuges von Amtshandlungen an andere Gerichte**  
-* [§ 36 JN — ](#36-jn--)
+* [§ 36 JN — ](#-36-jn--)
 
 **Rechtshilfe auf Ersuchen inländischer Gerichte.**  
-* [§ 37 JN — ](#37-jn--)  
-* [§ 37a JN — Amtshilfe auf Ersuchen inländischer Verwaltungsbehörden](#37a-jn--amtshilfe-auf-ersuchen-inländischer-verwaltungsbehörden)
+* [§ 37 JN — ](#-37-jn--)  
+* [§ 37a JN — Amtshilfe auf Ersuchen inländischer Verwaltungsbehörden](#-37a-jn--amtshilfe-auf-ersuchen-inländischer-verwaltungsbehörden)
 
 **Rechtshilfe auf Ersuchen ausländischer Gerichte.**  
-* [§ 38 JN — ](#38-jn--)  
-* [§ 39 JN — ](#39-jn--)  
-* [§ 39a JN — Beweisaufnahme durch ausländische Gerichte](#39a-jn--beweisaufnahme-durch-ausländische-gerichte)  
-* [§ 40 JN — ](#40-jn--)  
-* [§ 40a JN](#40a-jn)
+* [§ 38 JN — ](#-38-jn--)  
+* [§ 39 JN — ](#-39-jn--)  
+* [§ 39a JN — Beweisaufnahme durch ausländische Gerichte](#-39a-jn--beweisaufnahme-durch-ausländische-gerichte)  
+* [§ 40 JN — ](#-40-jn--)  
+* [§ 40a JN](#-40a-jn)
 
 **Prüfung der Zuständigkeit.**  
-* [§ 41 JN — ](#41-jn--)  
-* [§ 42 JN — ](#42-jn--)  
-* [§ 43 JN — ](#43-jn--)  
-* [§ 44 JN — ](#44-jn--)  
-* [§ 45 JN](#45-jn)  
-* [§ 46 JN — ](#46-jn--)
+* [§ 41 JN — ](#-41-jn--)  
+* [§ 42 JN — ](#-42-jn--)  
+* [§ 43 JN — ](#-43-jn--)  
+* [§ 44 JN — ](#-44-jn--)  
+* [§ 45 JN](#-45-jn)  
+* [§ 46 JN — ](#-46-jn--)
 
 **Streitigkeiten über die Zuständigkeit zwischen inländischen Gerichten.**  
-* [§ 47 JN — ](#47-jn--)
+* [§ 47 JN — ](#-47-jn--)
 
 **Zweiter Theil.**  
 **Von der Gerichtsbarkeit in Streitsachen.**  
 **Erster Abschnitt.**  
 **Bezirksgerichte.**  
-* [§ 49 JN — ](#49-jn--)
+* [§ 49 JN — ](#-49-jn--)
 
 **Gerichtshöfe erster Instanz.**  
-* [§ 50 JN — ](#50-jn--)  
-* [§ 51 JN — Handelsgerichte](#51-jn--handelsgerichte)  
-* [§ 52 JN — ](#52-jn--)  
-* [§ 53 JN](#53-jn)
+* [§ 50 JN — ](#-50-jn--)  
+* [§ 51 JN — Handelsgerichte](#-51-jn--handelsgerichte)  
+* [§ 52 JN — ](#-52-jn--)  
+* [§ 53 JN](#-53-jn)
 
 **Wert des Streitgegenstandes.**  
-* [§ 54 JN — ](#54-jn--)  
-* [§ 55 JN](#55-jn)  
-* [§ 56 JN — ](#56-jn--)  
-* [§ 57 JN — ](#57-jn--)  
-* [§ 58 JN — ](#58-jn--)  
-* [§ 59 JN — ](#59-jn--)  
-* [§ 59a JN](#59a-jn)  
-* [§ 60 JN — ](#60-jn--)
+* [§ 54 JN — ](#-54-jn--)  
+* [§ 55 JN](#-55-jn)  
+* [§ 56 JN — ](#-56-jn--)  
+* [§ 57 JN — ](#-57-jn--)  
+* [§ 58 JN — ](#-58-jn--)  
+* [§ 59 JN — ](#-59-jn--)  
+* [§ 59a JN](#-59a-jn)  
+* [§ 60 JN — ](#-60-jn--)
 
 **Bestreitung der Zuständigkeit eines Civil-, Handels- oder bergrechtlichen Senates.**  
-* [§ 61 JN — ](#61-jn--)  
-* [§ 62 JN — ](#62-jn--)  
-* [§ 63 JN — ](#63-jn--)  
-* [§ 64 JN — ](#64-jn--)
+* [§ 61 JN — ](#-61-jn--)  
+* [§ 62 JN — ](#-62-jn--)  
+* [§ 63 JN — ](#-63-jn--)  
+* [§ 64 JN — ](#-64-jn--)
 
 **Zweiter Abschnitt.**  
 **Örtliche Zuständigkeit.**  
 **Allgemeiner Gerichtsstand.**  
-* [§ 65 JN — ](#65-jn--)  
-* [§ 66 JN — ](#66-jn--)  
-* [§ 67 JN — ](#67-jn--)  
-* [§ 68 JN — ](#68-jn--)  
-* [§ 69 JN — ](#69-jn--)  
-* [§ 71 JN](#71-jn)  
-* [§ 74 JN — ](#74-jn--)  
-* [§ 75 JN — ](#75-jn--)
+* [§ 65 JN — ](#-65-jn--)  
+* [§ 66 JN — ](#-66-jn--)  
+* [§ 67 JN — ](#-67-jn--)  
+* [§ 68 JN — ](#-68-jn--)  
+* [§ 69 JN — ](#-69-jn--)  
+* [§ 71 JN](#-71-jn)  
+* [§ 74 JN — ](#-74-jn--)  
+* [§ 75 JN — ](#-75-jn--)
 
 **Besondere Gerichtsstände**  
 **1. Ausschließliche.**  
-* [§ 76 JN — Streitigkeiten aus dem Eheverhältnis oder der eingetragenen Partnerschaft](#76-jn--streitigkeiten-aus-dem-eheverhältnis-oder-der-eingetragenen-partnerschaft)  
-* [§ 76a JN](#76a-jn)  
-* [§ 77 JN — Verlassenschaftsangelegenheiten](#77-jn--verlassenschaftsangelegenheiten)  
-* [§ 78 JN — Fideicommiss- und Lehenangelegenheiten — ](#78-jn--fideicommiss--und-lehenangelegenheiten--)  
-* [§ 79 JN — Klagen von Richtern und gegen Richter — ](#79-jn--klagen-von-richtern-und-gegen-richter--)  
-* [§ 81 JN — Streitigkeiten um unbewegliches Gut — ](#81-jn--streitigkeiten-um-unbewegliches-gut--)  
-* [§ 82 JN — Wasserrechts-Besitzstörungsstreitigkeiten — ](#82-jn--wasserrechts-besitzstörungsstreitigkeiten--)  
-* [§ 83 JN — Bestandstreitigkeiten](#83-jn--bestandstreitigkeiten)  
-* [§ 83a JN — Streitigkeiten aus Teilschuldverschreibungen](#83a-jn--streitigkeiten-aus-teilschuldverschreibungen)  
-* [§ 83b JN — Streitigkeiten aus dem Verbandsverhältnisse](#83b-jn--streitigkeiten-aus-dem-verbandsverhältnisse)  
-* [§ 83c JN — Streitigkeiten aus gewerblichem Rechtsschutz und Urheberrecht sowie Verbandsklagen](#83c-jn--streitigkeiten-aus-gewerblichem-rechtsschutz-und-urheberrecht-sowie-verbandsklagen)  
-* [§ 84 JN — Lage der Sache in verschiedenen Sprengeln — ](#84-jn--lage-der-sache-in-verschiedenen-sprengeln--)
+* [§ 76 JN — Streitigkeiten aus dem Eheverhältnis oder der eingetragenen Partnerschaft](#-76-jn--streitigkeiten-aus-dem-eheverhältnis-oder-der-eingetragenen-partnerschaft)  
+* [§ 76a JN](#-76a-jn)  
+* [§ 77 JN — Verlassenschaftsangelegenheiten](#-77-jn--verlassenschaftsangelegenheiten)  
+* [§ 78 JN — Fideicommiss- und Lehenangelegenheiten — ](#-78-jn--fideicommiss--und-lehenangelegenheiten--)  
+* [§ 79 JN — Klagen von Richtern und gegen Richter — ](#-79-jn--klagen-von-richtern-und-gegen-richter--)  
+* [§ 81 JN — Streitigkeiten um unbewegliches Gut — ](#-81-jn--streitigkeiten-um-unbewegliches-gut--)  
+* [§ 82 JN — Wasserrechts-Besitzstörungsstreitigkeiten — ](#-82-jn--wasserrechts-besitzstörungsstreitigkeiten--)  
+* [§ 83 JN — Bestandstreitigkeiten](#-83-jn--bestandstreitigkeiten)  
+* [§ 83a JN — Streitigkeiten aus Teilschuldverschreibungen](#-83a-jn--streitigkeiten-aus-teilschuldverschreibungen)  
+* [§ 83b JN — Streitigkeiten aus dem Verbandsverhältnisse](#-83b-jn--streitigkeiten-aus-dem-verbandsverhältnisse)  
+* [§ 83c JN — Streitigkeiten aus gewerblichem Rechtsschutz und Urheberrecht sowie Verbandsklagen](#-83c-jn--streitigkeiten-aus-gewerblichem-rechtsschutz-und-urheberrecht-sowie-verbandsklagen)  
+* [§ 84 JN — Lage der Sache in verschiedenen Sprengeln — ](#-84-jn--lage-der-sache-in-verschiedenen-sprengeln--)
 
 **2. Wahlgerichtsstände.**  
-* [§ 86a JN](#86a-jn)  
-* [§ 87 JN — Gerichtsstand der Niederlassung — ](#87-jn--gerichtsstand-der-niederlassung--)  
-* [§ 87a JN — Gerichtsstand für Warenforderungen der Unternehmer](#87a-jn--gerichtsstand-für-warenforderungen-der-unternehmer)  
-* [§ 88 JN](#88-jn)  
-* [§ 89 JN — ](#89-jn--)  
-* [§ 90 JN — ](#90-jn--)  
-* [§ 91 JN — Gerichtsstand der gelegenen Sache — ](#91-jn--gerichtsstand-der-gelegenen-sache--)  
-* [§ 92 JN — Gerichtsstand für Besitzstörungsstreitigkeiten, — ](#92-jn--gerichtsstand-für-besitzstörungsstreitigkeiten--)  
-* [§ 92a JN — Gerichtsstand der Schadenszufügung](#92a-jn--gerichtsstand-der-schadenszufügung)  
-* [§ 92b JN — Streitigkeiten wegen Verletzung eines Persönlichkeitsrechts in einem elektronischen Kommunikationsnetz](#92b-jn--streitigkeiten-wegen-verletzung-eines-persönlichkeitsrechts-in-einem-elektronischen-kommunikationsnetz)  
-* [§ 92c JN — Streitigkeiten aus dem Gesellschaftsverhältnis](#92c-jn--streitigkeiten-aus-dem-gesellschaftsverhältnis)  
-* [§ 93 JN — Gerichtsstand der Streitgenossenschaft — ](#93-jn--gerichtsstand-der-streitgenossenschaft--)  
-* [§ 94 JN — Gerichtsstand des Hauptprocesses — ](#94-jn--gerichtsstand-des-hauptprocesses--)  
-* [§ 95 JN — ](#95-jn--)  
-* [§ 96 JN — Gerichtsstand der Widerklage — ](#96-jn--gerichtsstand-der-widerklage--)  
-* [§ 97 JN — Gerichtsstand des früheren Wohnsitzes — ](#97-jn--gerichtsstand-des-früheren-wohnsitzes--)  
-* [§ 98 JN — Gerichtsstand der Schiffer und der Schiffsmannschaft](#98-jn--gerichtsstand-der-schiffer-und-der-schiffsmannschaft)  
-* [§ 99 JN — Gerichtsstand des Vermögens — ](#99-jn--gerichtsstand-des-vermögens--)  
-* [§ 100 JN — Klagen aus dem Ehe- oder Partnerschaftsverhältnis](#100-jn--klagen-aus-dem-ehe--oder-partnerschaftsverhältnis)  
-* [§ 101 JN — Klagen aus CMR](#101-jn--klagen-aus-cmr)  
-* [§ 101a JN — Klagen nach der Fluggastrechte-Verordnung](#101a-jn--klagen-nach-der-fluggastrechte-verordnung)
+* [§ 86a JN](#-86a-jn)  
+* [§ 87 JN — Gerichtsstand der Niederlassung — ](#-87-jn--gerichtsstand-der-niederlassung--)  
+* [§ 87a JN — Gerichtsstand für Warenforderungen der Unternehmer](#-87a-jn--gerichtsstand-für-warenforderungen-der-unternehmer)  
+* [§ 88 JN](#-88-jn)  
+* [§ 89 JN — ](#-89-jn--)  
+* [§ 90 JN — ](#-90-jn--)  
+* [§ 91 JN — Gerichtsstand der gelegenen Sache — ](#-91-jn--gerichtsstand-der-gelegenen-sache--)  
+* [§ 92 JN — Gerichtsstand für Besitzstörungsstreitigkeiten, — ](#-92-jn--gerichtsstand-für-besitzstörungsstreitigkeiten--)  
+* [§ 92a JN — Gerichtsstand der Schadenszufügung](#-92a-jn--gerichtsstand-der-schadenszufügung)  
+* [§ 92b JN — Streitigkeiten wegen Verletzung eines Persönlichkeitsrechts in einem elektronischen Kommunikationsnetz](#-92b-jn--streitigkeiten-wegen-verletzung-eines-persönlichkeitsrechts-in-einem-elektronischen-kommunikationsnetz)  
+* [§ 92c JN — Streitigkeiten aus dem Gesellschaftsverhältnis](#-92c-jn--streitigkeiten-aus-dem-gesellschaftsverhältnis)  
+* [§ 93 JN — Gerichtsstand der Streitgenossenschaft — ](#-93-jn--gerichtsstand-der-streitgenossenschaft--)  
+* [§ 94 JN — Gerichtsstand des Hauptprocesses — ](#-94-jn--gerichtsstand-des-hauptprocesses--)  
+* [§ 95 JN — ](#-95-jn--)  
+* [§ 96 JN — Gerichtsstand der Widerklage — ](#-96-jn--gerichtsstand-der-widerklage--)  
+* [§ 97 JN — Gerichtsstand des früheren Wohnsitzes — ](#-97-jn--gerichtsstand-des-früheren-wohnsitzes--)  
+* [§ 98 JN — Gerichtsstand der Schiffer und der Schiffsmannschaft](#-98-jn--gerichtsstand-der-schiffer-und-der-schiffsmannschaft)  
+* [§ 99 JN — Gerichtsstand des Vermögens — ](#-99-jn--gerichtsstand-des-vermögens--)  
+* [§ 100 JN — Klagen aus dem Ehe- oder Partnerschaftsverhältnis](#-100-jn--klagen-aus-dem-ehe--oder-partnerschaftsverhältnis)  
+* [§ 101 JN — Klagen aus CMR](#-101-jn--klagen-aus-cmr)  
+* [§ 101a JN — Klagen nach der Fluggastrechte-Verordnung](#-101a-jn--klagen-nach-der-fluggastrechte-verordnung)
 
 **Mehrheit von Gerichtsständen.**  
-* [§ 102 JN — ](#102-jn--)  
-* [§ 103 JN — Mehrheit von Bezirksgerichten an einem Orte — ](#103-jn--mehrheit-von-bezirksgerichten-an-einem-orte--)
+* [§ 102 JN — ](#-102-jn--)  
+* [§ 103 JN — Mehrheit von Bezirksgerichten an einem Orte — ](#-103-jn--mehrheit-von-bezirksgerichten-an-einem-orte--)
 
 **Vereinbarung über die Zuständigkeit der Gerichte.**  
-* [§ 104 JN — ](#104-jn--)
+* [§ 104 JN — ](#-104-jn--)
 
 **Dritter Theil.**  
 **Von der Gerichtsbarkeit in Geschäften außer Streitsachen.**  
-* [§ 104a JN — Sachliche Zuständigkeit](#104a-jn--sachliche-zuständigkeit)  
-* [§ 105 JN — Verlassenschaftsabhandlung](#105-jn--verlassenschaftsabhandlung)  
-* [§ 106 JN](#106-jn)  
-* [§ 107 JN — Einwände gegen die Authentizität einer öffentlichen Urkunde in Verlassenschaftssachen](#107-jn--einwände-gegen-die-authentizität-einer-öffentlichen-urkunde-in-verlassenschaftssachen)  
-* [§ 108 JN — Abstammung](#108-jn--abstammung)  
-* [§ 109 JN — Obsorge, Erwachsenenvertretung und Kuratel](#109-jn--obsorge-erwachsenenvertretung-und-kuratel)  
-* [§ 109a JN](#109a-jn)  
-* [§ 109b JN](#109b-jn)  
-* [§ 110 JN](#110-jn)  
-* [§ 111 JN — ](#111-jn--)  
-* [§ 112 JN — ](#112-jn--)  
-* [§ 113 JN — Legitimation unehelicher Kinder](#113-jn--legitimation-unehelicher-kinder)  
-* [§ 113a JN — Annahme an Kindesstatt](#113a-jn--annahme-an-kindesstatt)  
-* [§ 113b JN](#113b-jn)  
-* [§ 114 JN — Unterhalt und sonstige aus dem Verhältnis zwischen Kindern und Eltern entspringende Ansprüche](#114-jn--unterhalt-und-sonstige-aus-dem-verhältnis-zwischen-kindern-und-eltern-entspringende-ansprüche)  
-* [§ 114a JN — Ehe- und Partnerschaftsangelegenheiten](#114a-jn--ehe--und-partnerschaftsangelegenheiten)  
-* [§ 115 JN — Amortisirung von Urkunden — ](#115-jn--amortisirung-von-urkunden--)  
-* [§ 116 JN — Fideicommiss-Angelegenheiten — ](#116-jn--fideicommiss-angelegenheiten--)  
-* [§ 117 JN — Realangelegenheiten — ](#117-jn--realangelegenheiten--)  
-* [§ 118 JN — Anlegung und Führung der öffentlichen Bücher](#118-jn--anlegung-und-führung-der-öffentlichen-bücher)  
-* [§ 119 JN — Aufkündigung von Hypothekarforderungen — ](#119-jn--aufkündigung-von-hypothekarforderungen--)  
-* [§ 120 JN — Führung des Firmenbuchs; gesellschaftsrechtliche Angelegenheiten](#120-jn--führung-des-firmenbuchs-gesellschaftsrechtliche-angelegenheiten)  
-* [§ 120a JN — Bestätigungen über die Führung der Handelsbücher — ](#120a-jn--bestätigungen-über-die-führung-der-handelsbücher--)  
-* [§ 121 JN — Beglaubigung von Unterschriften und Abschriften, und Aufnahme letztwilliger Anordnungen — ](#121-jn--beglaubigung-von-unterschriften-und-abschriften-und-aufnahme-letztwilliger-anordnungen--)  
-* [§ 122 JN — Mehrheit von Bezirksgerichten an einem Orte](#122-jn--mehrheit-von-bezirksgerichten-an-einem-orte)
+* [§ 104a JN — Sachliche Zuständigkeit](#-104a-jn--sachliche-zuständigkeit)  
+* [§ 105 JN — Verlassenschaftsabhandlung](#-105-jn--verlassenschaftsabhandlung)  
+* [§ 106 JN](#-106-jn)  
+* [§ 107 JN — Einwände gegen die Authentizität einer öffentlichen Urkunde in Verlassenschaftssachen](#-107-jn--einwände-gegen-die-authentizität-einer-öffentlichen-urkunde-in-verlassenschaftssachen)  
+* [§ 108 JN — Abstammung](#-108-jn--abstammung)  
+* [§ 109 JN — Obsorge, Erwachsenenvertretung und Kuratel](#-109-jn--obsorge-erwachsenenvertretung-und-kuratel)  
+* [§ 109a JN](#-109a-jn)  
+* [§ 109b JN](#-109b-jn)  
+* [§ 110 JN](#-110-jn)  
+* [§ 111 JN — ](#-111-jn--)  
+* [§ 112 JN — ](#-112-jn--)  
+* [§ 113 JN — Legitimation unehelicher Kinder](#-113-jn--legitimation-unehelicher-kinder)  
+* [§ 113a JN — Annahme an Kindesstatt](#-113a-jn--annahme-an-kindesstatt)  
+* [§ 113b JN](#-113b-jn)  
+* [§ 114 JN — Unterhalt und sonstige aus dem Verhältnis zwischen Kindern und Eltern entspringende Ansprüche](#-114-jn--unterhalt-und-sonstige-aus-dem-verhältnis-zwischen-kindern-und-eltern-entspringende-ansprüche)  
+* [§ 114a JN — Ehe- und Partnerschaftsangelegenheiten](#-114a-jn--ehe--und-partnerschaftsangelegenheiten)  
+* [§ 115 JN — Amortisirung von Urkunden — ](#-115-jn--amortisirung-von-urkunden--)  
+* [§ 116 JN — Fideicommiss-Angelegenheiten — ](#-116-jn--fideicommiss-angelegenheiten--)  
+* [§ 117 JN — Realangelegenheiten — ](#-117-jn--realangelegenheiten--)  
+* [§ 118 JN — Anlegung und Führung der öffentlichen Bücher](#-118-jn--anlegung-und-führung-der-öffentlichen-bücher)  
+* [§ 119 JN — Aufkündigung von Hypothekarforderungen — ](#-119-jn--aufkündigung-von-hypothekarforderungen--)  
+* [§ 120 JN — Führung des Firmenbuchs; gesellschaftsrechtliche Angelegenheiten](#-120-jn--führung-des-firmenbuchs-gesellschaftsrechtliche-angelegenheiten)  
+* [§ 120a JN — Bestätigungen über die Führung der Handelsbücher — ](#-120a-jn--bestätigungen-über-die-führung-der-handelsbücher--)  
+* [§ 121 JN — Beglaubigung von Unterschriften und Abschriften, und Aufnahme letztwilliger Anordnungen — ](#-121-jn--beglaubigung-von-unterschriften-und-abschriften-und-aufnahme-letztwilliger-anordnungen--)  
+* [§ 122 JN — Mehrheit von Bezirksgerichten an einem Orte](#-122-jn--mehrheit-von-bezirksgerichten-an-einem-orte)
 
 **Vierter Teil**  
 **Inkrafttreten, Schluss- und Übergangsbestimmungen**  
-* [§ 123 JN](#123-jn)
+* [§ 123 JN](#-123-jn)
 
 Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 

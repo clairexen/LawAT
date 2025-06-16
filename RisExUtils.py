@@ -231,7 +231,6 @@ def markdownHeaderToAnchor(header: str) -> str:
     anchor = anchor.lower()  # convert to lowercase
     anchor = re.sub(r"\s+", "-", anchor)  # replace spaces with hyphens
     anchor = re.sub(r"[^\w\s\-]", "", anchor)  # remove punctuation except hyphens and spaces
-    anchor = anchor.removeprefix("-") # remove one (and only one) leading hyphen
     return anchor
 
 def markdownEscape(text):

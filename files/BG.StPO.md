@@ -14,169 +14,169 @@
 **Allgemeines und Grundsätze des Verfahrens**  
 **1. Hauptstück**  
 **Das Strafverfahren und seine Grundsätze**  
-* [§ 1 StPO — Das Strafverfahren](#1-stpo--das-strafverfahren)  
-* [§ 2 StPO — Amtswegigkeit](#2-stpo--amtswegigkeit)  
-* [§ 3 StPO — Objektivität und Wahrheitserforschung](#3-stpo--objektivität-und-wahrheitserforschung)  
-* [§ 4 StPO — Anklagegrundsatz](#4-stpo--anklagegrundsatz)  
-* [§ 5 StPO — Gesetz- und Verhältnismäßigkeit](#5-stpo--gesetz--und-verhältnismäßigkeit)  
-* [§ 6 StPO — Rechtliches Gehör](#6-stpo--rechtliches-gehör)  
-* [§ 7 StPO — Recht auf Verteidigung](#7-stpo--recht-auf-verteidigung)  
-* [§ 8 StPO — Unschuldsvermutung](#8-stpo--unschuldsvermutung)  
-* [§ 9 StPO — Beschleunigungsgebot](#9-stpo--beschleunigungsgebot)  
-* [§ 10 StPO — Beteiligung der Opfer](#10-stpo--beteiligung-der-opfer)  
-* [§ 11 StPO — Geschworene und Schöffen](#11-stpo--geschworene-und-schöffen)  
-* [§ 12 StPO — Mündlichkeit und Öffentlichkeit](#12-stpo--mündlichkeit-und-öffentlichkeit)  
-* [§ 13 StPO — Unmittelbarkeit](#13-stpo--unmittelbarkeit)  
-* [§ 14 StPO — Freie Beweiswürdigung](#14-stpo--freie-beweiswürdigung)  
-* [§ 15 StPO — Vorfragen](#15-stpo--vorfragen)  
-* [§ 16 StPO — Verbot der Verschlechterung](#16-stpo--verbot-der-verschlechterung)  
-* [§ 17 StPO — Verbot wiederholter Strafverfolgung](#17-stpo--verbot-wiederholter-strafverfolgung)
+* [§ 1 StPO — Das Strafverfahren](#-1-stpo--das-strafverfahren)  
+* [§ 2 StPO — Amtswegigkeit](#-2-stpo--amtswegigkeit)  
+* [§ 3 StPO — Objektivität und Wahrheitserforschung](#-3-stpo--objektivität-und-wahrheitserforschung)  
+* [§ 4 StPO — Anklagegrundsatz](#-4-stpo--anklagegrundsatz)  
+* [§ 5 StPO — Gesetz- und Verhältnismäßigkeit](#-5-stpo--gesetz--und-verhältnismäßigkeit)  
+* [§ 6 StPO — Rechtliches Gehör](#-6-stpo--rechtliches-gehör)  
+* [§ 7 StPO — Recht auf Verteidigung](#-7-stpo--recht-auf-verteidigung)  
+* [§ 8 StPO — Unschuldsvermutung](#-8-stpo--unschuldsvermutung)  
+* [§ 9 StPO — Beschleunigungsgebot](#-9-stpo--beschleunigungsgebot)  
+* [§ 10 StPO — Beteiligung der Opfer](#-10-stpo--beteiligung-der-opfer)  
+* [§ 11 StPO — Geschworene und Schöffen](#-11-stpo--geschworene-und-schöffen)  
+* [§ 12 StPO — Mündlichkeit und Öffentlichkeit](#-12-stpo--mündlichkeit-und-öffentlichkeit)  
+* [§ 13 StPO — Unmittelbarkeit](#-13-stpo--unmittelbarkeit)  
+* [§ 14 StPO — Freie Beweiswürdigung](#-14-stpo--freie-beweiswürdigung)  
+* [§ 15 StPO — Vorfragen](#-15-stpo--vorfragen)  
+* [§ 16 StPO — Verbot der Verschlechterung](#-16-stpo--verbot-der-verschlechterung)  
+* [§ 17 StPO — Verbot wiederholter Strafverfolgung](#-17-stpo--verbot-wiederholter-strafverfolgung)
 
 **2. Hauptstück**  
 **Kriminalpolizei, Staatsanwaltschaft, Gericht und Rechtsschutzbeauftragter**  
 **1. Abschnitt**  
 **Kriminalpolizei**  
-* [§ 18 StPO — Kriminalpolizei](#18-stpo--kriminalpolizei)
+* [§ 18 StPO — Kriminalpolizei](#-18-stpo--kriminalpolizei)
 
 **2. Abschnitt**  
 **Staatsanwaltschaften und ihre Zuständigkeiten**  
-* [§ 19 StPO — Allgemeines](#19-stpo--allgemeines)  
-* [§ 20 StPO — Staatsanwaltschaft](#20-stpo--staatsanwaltschaft)  
-* [§ 20a StPO — Zentrale Staatsanwaltschaft zur Verfolgung von Wirtschaftsstrafsachen und Korruption (WKStA)](#20a-stpo--zentrale-staatsanwaltschaft-zur-verfolgung-von-wirtschaftsstrafsachen-und-korruption-wksta)  
-* [§ 20b StPO](#20b-stpo)  
-* [§ 21 StPO — Oberstaatsanwaltschaft](#21-stpo--oberstaatsanwaltschaft)  
-* [§ 22 StPO — Generalprokuratur](#22-stpo--generalprokuratur)  
-* [§ 23 StPO — Nichtigkeitsbeschwerde zur Wahrung des Gesetzes](#23-stpo--nichtigkeitsbeschwerde-zur-wahrung-des-gesetzes)  
-* [§ 24 StPO — Stellungnahmen von Staatsanwaltschaften](#24-stpo--stellungnahmen-von-staatsanwaltschaften)  
-* [§ 25 StPO — Örtliche Zuständigkeit](#25-stpo--örtliche-zuständigkeit)  
-* [§ 25a StPO — Abtretung](#25a-stpo--abtretung)  
-* [§ 26 StPO — Zusammenhang](#26-stpo--zusammenhang)  
-* [§ 27 StPO — Trennung von Verfahren](#27-stpo--trennung-von-verfahren)  
-* [§ 28 StPO — Bestimmung der Zuständigkeit](#28-stpo--bestimmung-der-zuständigkeit)  
-* [§ 28a StPO — Zuständigkeitskonflikt bei Verfahren der WKStA](#28a-stpo--zuständigkeitskonflikt-bei-verfahren-der-wksta)
+* [§ 19 StPO — Allgemeines](#-19-stpo--allgemeines)  
+* [§ 20 StPO — Staatsanwaltschaft](#-20-stpo--staatsanwaltschaft)  
+* [§ 20a StPO — Zentrale Staatsanwaltschaft zur Verfolgung von Wirtschaftsstrafsachen und Korruption (WKStA)](#-20a-stpo--zentrale-staatsanwaltschaft-zur-verfolgung-von-wirtschaftsstrafsachen-und-korruption-wksta)  
+* [§ 20b StPO](#-20b-stpo)  
+* [§ 21 StPO — Oberstaatsanwaltschaft](#-21-stpo--oberstaatsanwaltschaft)  
+* [§ 22 StPO — Generalprokuratur](#-22-stpo--generalprokuratur)  
+* [§ 23 StPO — Nichtigkeitsbeschwerde zur Wahrung des Gesetzes](#-23-stpo--nichtigkeitsbeschwerde-zur-wahrung-des-gesetzes)  
+* [§ 24 StPO — Stellungnahmen von Staatsanwaltschaften](#-24-stpo--stellungnahmen-von-staatsanwaltschaften)  
+* [§ 25 StPO — Örtliche Zuständigkeit](#-25-stpo--örtliche-zuständigkeit)  
+* [§ 25a StPO — Abtretung](#-25a-stpo--abtretung)  
+* [§ 26 StPO — Zusammenhang](#-26-stpo--zusammenhang)  
+* [§ 27 StPO — Trennung von Verfahren](#-27-stpo--trennung-von-verfahren)  
+* [§ 28 StPO — Bestimmung der Zuständigkeit](#-28-stpo--bestimmung-der-zuständigkeit)  
+* [§ 28a StPO — Zuständigkeitskonflikt bei Verfahren der WKStA](#-28a-stpo--zuständigkeitskonflikt-bei-verfahren-der-wksta)
 
 **3. Abschnitt**  
 **Gerichte**  
-* [§ 29 StPO — Allgemeines](#29-stpo--allgemeines)  
-* [§ 30 StPO — Bezirksgericht](#30-stpo--bezirksgericht)  
-* [§ 31 StPO — Landesgericht](#31-stpo--landesgericht)  
-* [§ 32 StPO — Landesgericht als Geschworenen- und Schöffengericht](#32-stpo--landesgericht-als-geschworenen--und-schöffengericht)  
-* [§ 32a StPO — Zuständigkeit für Wirtschaftsstrafsachen und Korruption](#32a-stpo--zuständigkeit-für-wirtschaftsstrafsachen-und-korruption)  
-* [§ 33 StPO — Oberlandesgericht](#33-stpo--oberlandesgericht)  
-* [§ 34 StPO — Oberster Gerichtshof](#34-stpo--oberster-gerichtshof)  
-* [§ 35 StPO — Form gerichtlicher Entscheidungen](#35-stpo--form-gerichtlicher-entscheidungen)  
-* [§ 36 StPO — Örtliche Zuständigkeit](#36-stpo--örtliche-zuständigkeit)  
-* [§ 37 StPO — Zuständigkeit des Zusammenhangs](#37-stpo--zuständigkeit-des-zusammenhangs)  
-* [§ 38 StPO — Kompetenzkonflikt](#38-stpo--kompetenzkonflikt)  
-* [§ 39 StPO — Delegierung](#39-stpo--delegierung)  
-* [§ 40 StPO — Vorsitz und Abstimmung in den Senaten](#40-stpo--vorsitz-und-abstimmung-in-den-senaten)  
-* [§ 41 StPO](#41-stpo)  
-* [§ 42 StPO](#42-stpo)
+* [§ 29 StPO — Allgemeines](#-29-stpo--allgemeines)  
+* [§ 30 StPO — Bezirksgericht](#-30-stpo--bezirksgericht)  
+* [§ 31 StPO — Landesgericht](#-31-stpo--landesgericht)  
+* [§ 32 StPO — Landesgericht als Geschworenen- und Schöffengericht](#-32-stpo--landesgericht-als-geschworenen--und-schöffengericht)  
+* [§ 32a StPO — Zuständigkeit für Wirtschaftsstrafsachen und Korruption](#-32a-stpo--zuständigkeit-für-wirtschaftsstrafsachen-und-korruption)  
+* [§ 33 StPO — Oberlandesgericht](#-33-stpo--oberlandesgericht)  
+* [§ 34 StPO — Oberster Gerichtshof](#-34-stpo--oberster-gerichtshof)  
+* [§ 35 StPO — Form gerichtlicher Entscheidungen](#-35-stpo--form-gerichtlicher-entscheidungen)  
+* [§ 36 StPO — Örtliche Zuständigkeit](#-36-stpo--örtliche-zuständigkeit)  
+* [§ 37 StPO — Zuständigkeit des Zusammenhangs](#-37-stpo--zuständigkeit-des-zusammenhangs)  
+* [§ 38 StPO — Kompetenzkonflikt](#-38-stpo--kompetenzkonflikt)  
+* [§ 39 StPO — Delegierung](#-39-stpo--delegierung)  
+* [§ 40 StPO — Vorsitz und Abstimmung in den Senaten](#-40-stpo--vorsitz-und-abstimmung-in-den-senaten)  
+* [§ 41 StPO](#-41-stpo)  
+* [§ 42 StPO](#-42-stpo)
 
 **4. Abschnitt**  
 **Ausschließung und Befangenheit**  
-* [§ 43 StPO — Ausgeschlossenheit von Richtern](#43-stpo--ausgeschlossenheit-von-richtern)  
-* [§ 44 StPO — Anzeige der Ausgeschlossenheit und Antrag auf Ablehnung](#44-stpo--anzeige-der-ausgeschlossenheit-und-antrag-auf-ablehnung)  
-* [§ 45 StPO — Entscheidung über Ausschließung](#45-stpo--entscheidung-über-ausschließung)  
-* [§ 46 StPO — Ausschließung von Geschworenen, Schöffen und Protokollführern](#46-stpo--ausschließung-von-geschworenen-schöffen-und-protokollführern)  
-* [§ 47 StPO — Befangenheit von Kriminalpolizei und Staatsanwaltschaft](#47-stpo--befangenheit-von-kriminalpolizei-und-staatsanwaltschaft)
+* [§ 43 StPO — Ausgeschlossenheit von Richtern](#-43-stpo--ausgeschlossenheit-von-richtern)  
+* [§ 44 StPO — Anzeige der Ausgeschlossenheit und Antrag auf Ablehnung](#-44-stpo--anzeige-der-ausgeschlossenheit-und-antrag-auf-ablehnung)  
+* [§ 45 StPO — Entscheidung über Ausschließung](#-45-stpo--entscheidung-über-ausschließung)  
+* [§ 46 StPO — Ausschließung von Geschworenen, Schöffen und Protokollführern](#-46-stpo--ausschließung-von-geschworenen-schöffen-und-protokollführern)  
+* [§ 47 StPO — Befangenheit von Kriminalpolizei und Staatsanwaltschaft](#-47-stpo--befangenheit-von-kriminalpolizei-und-staatsanwaltschaft)
 
 **5. Abschnitt**  
 **Rechtsschutzbeauftragter**  
-* [§ 47a StPO](#47a-stpo)
+* [§ 47a StPO](#-47a-stpo)
 
 **3. Hauptstück**  
 **Beschuldigter und Verteidiger**  
 **1. Abschnitt**  
 **Allgemeines**  
-* [§ 48 StPO — Definitionen](#48-stpo--definitionen)
+* [§ 48 StPO — Definitionen](#-48-stpo--definitionen)
 
 **2. Abschnitt**  
 **Der Beschuldigte**  
-* [§ 49 StPO — Rechte des Beschuldigten](#49-stpo--rechte-des-beschuldigten)  
-* [§ 50 StPO — Rechtsbelehrung](#50-stpo--rechtsbelehrung)  
-* [§ 51 StPO — Akteneinsicht](#51-stpo--akteneinsicht)  
-* [§ 52 StPO](#52-stpo)  
-* [§ 53 StPO — Verfahren bei Akteneinsicht](#53-stpo--verfahren-bei-akteneinsicht)  
-* [§ 54 StPO — Verbot der Veröffentlichung](#54-stpo--verbot-der-veröffentlichung)  
-* [§ 55 StPO — Beweisanträge](#55-stpo--beweisanträge)  
-* [§ 56 StPO — Übersetzungshilfe](#56-stpo--übersetzungshilfe)
+* [§ 49 StPO — Rechte des Beschuldigten](#-49-stpo--rechte-des-beschuldigten)  
+* [§ 50 StPO — Rechtsbelehrung](#-50-stpo--rechtsbelehrung)  
+* [§ 51 StPO — Akteneinsicht](#-51-stpo--akteneinsicht)  
+* [§ 52 StPO](#-52-stpo)  
+* [§ 53 StPO — Verfahren bei Akteneinsicht](#-53-stpo--verfahren-bei-akteneinsicht)  
+* [§ 54 StPO — Verbot der Veröffentlichung](#-54-stpo--verbot-der-veröffentlichung)  
+* [§ 55 StPO — Beweisanträge](#-55-stpo--beweisanträge)  
+* [§ 56 StPO — Übersetzungshilfe](#-56-stpo--übersetzungshilfe)
 
 **3. Abschnitt**  
 **Der Verteidiger**  
-* [§ 57 StPO — Rechte des Verteidigers](#57-stpo--rechte-des-verteidigers)  
-* [§ 58 StPO — Bevollmächtigung des Verteidigers](#58-stpo--bevollmächtigung-des-verteidigers)  
-* [§ 59 StPO](#59-stpo)  
-* [§ 60 StPO — Ausschluss des Verteidigers](#60-stpo--ausschluss-des-verteidigers)  
-* [§ 61 StPO — Beigebung eines Verteidigers](#61-stpo--beigebung-eines-verteidigers)  
-* [§ 62 StPO — Bestellung eines Verteidigers](#62-stpo--bestellung-eines-verteidigers)  
-* [§ 63 StPO — Fristenlauf](#63-stpo--fristenlauf)
+* [§ 57 StPO — Rechte des Verteidigers](#-57-stpo--rechte-des-verteidigers)  
+* [§ 58 StPO — Bevollmächtigung des Verteidigers](#-58-stpo--bevollmächtigung-des-verteidigers)  
+* [§ 59 StPO](#-59-stpo)  
+* [§ 60 StPO — Ausschluss des Verteidigers](#-60-stpo--ausschluss-des-verteidigers)  
+* [§ 61 StPO — Beigebung eines Verteidigers](#-61-stpo--beigebung-eines-verteidigers)  
+* [§ 62 StPO — Bestellung eines Verteidigers](#-62-stpo--bestellung-eines-verteidigers)  
+* [§ 63 StPO — Fristenlauf](#-63-stpo--fristenlauf)
 
 **4. Abschnitt**  
 **Haftungsbeteiligte**  
-* [§ 64 StPO — Haftungsbeteiligte](#64-stpo--haftungsbeteiligte)
+* [§ 64 StPO — Haftungsbeteiligte](#-64-stpo--haftungsbeteiligte)
 
 **4. Hauptstück**  
 **Opfer und ihre Rechte**  
 **1. Abschnitt**  
 **Allgemeines**  
-* [§ 65 StPO — Definitionen](#65-stpo--definitionen)
+* [§ 65 StPO — Definitionen](#-65-stpo--definitionen)
 
 **2. Abschnitt**  
 **Opfer und Privatbeteiligte**  
-* [§ 66 StPO — Opferrechte](#66-stpo--opferrechte)  
-* [§ 66a StPO — Besondere Schutzbedürftigkeit von Opfern](#66a-stpo--besondere-schutzbedürftigkeit-von-opfern)  
-* [§ 66b StPO — Prozessbegleitung](#66b-stpo--prozessbegleitung)  
-* [§ 67 StPO — Privatbeteiligung](#67-stpo--privatbeteiligung)  
-* [§ 68 StPO — Akteneinsicht](#68-stpo--akteneinsicht)  
-* [§ 69 StPO — Privatrechtliche Ansprüche](#69-stpo--privatrechtliche-ansprüche)  
-* [§ 70 StPO — Recht auf Information](#70-stpo--recht-auf-information)
+* [§ 66 StPO — Opferrechte](#-66-stpo--opferrechte)  
+* [§ 66a StPO — Besondere Schutzbedürftigkeit von Opfern](#-66a-stpo--besondere-schutzbedürftigkeit-von-opfern)  
+* [§ 66b StPO — Prozessbegleitung](#-66b-stpo--prozessbegleitung)  
+* [§ 67 StPO — Privatbeteiligung](#-67-stpo--privatbeteiligung)  
+* [§ 68 StPO — Akteneinsicht](#-68-stpo--akteneinsicht)  
+* [§ 69 StPO — Privatrechtliche Ansprüche](#-69-stpo--privatrechtliche-ansprüche)  
+* [§ 70 StPO — Recht auf Information](#-70-stpo--recht-auf-information)
 
 **3. Abschnitt**  
 **Privatankläger und Subsidiarankläger**  
-* [§ 71 StPO — Privatankläger](#71-stpo--privatankläger)  
-* [§ 72 StPO — Subsidiarankläger](#72-stpo--subsidiarankläger)
+* [§ 71 StPO — Privatankläger](#-71-stpo--privatankläger)  
+* [§ 72 StPO — Subsidiarankläger](#-72-stpo--subsidiarankläger)
 
 **4. Abschnitt**  
 **Vertreter**  
-* [§ 73 StPO — Vertreter](#73-stpo--vertreter)
+* [§ 73 StPO — Vertreter](#-73-stpo--vertreter)
 
 **5. Hauptstück**  
 **Gemeinsame Bestimmungen**  
 **1. Abschnitt**  
 **Einsatz der Informationstechnik**  
-* [§ 74 StPO — Verarbeitung personenbezogener Daten](#74-stpo--verarbeitung-personenbezogener-daten)  
-* [§ 75 StPO — Berichtigen, Löschen und Sperren personenbezogener Daten](#75-stpo--berichtigen-löschen-und-sperren-personenbezogener-daten)
+* [§ 74 StPO — Verarbeitung personenbezogener Daten](#-74-stpo--verarbeitung-personenbezogener-daten)  
+* [§ 75 StPO — Berichtigen, Löschen und Sperren personenbezogener Daten](#-75-stpo--berichtigen-löschen-und-sperren-personenbezogener-daten)
 
 **2. Abschnitt**  
 **Amts- und Rechtshilfe, Akteneinsicht**  
-* [§ 76 StPO — Amts- und Rechtshilfe](#76-stpo--amts--und-rechtshilfe)  
-* [§ 77 StPO — Akteneinsicht](#77-stpo--akteneinsicht)
+* [§ 76 StPO — Amts- und Rechtshilfe](#-76-stpo--amts--und-rechtshilfe)  
+* [§ 77 StPO — Akteneinsicht](#-77-stpo--akteneinsicht)
 
 **3. Abschnitt**  
 **Anzeigepflicht, Anzeige- und Anhalterecht**  
-* [§ 78 StPO — Anzeigepflicht](#78-stpo--anzeigepflicht)  
-* [§ 79 StPO](#79-stpo)  
-* [§ 80 StPO — Anzeige- und Anhalterecht](#80-stpo--anzeige--und-anhalterecht)
+* [§ 78 StPO — Anzeigepflicht](#-78-stpo--anzeigepflicht)  
+* [§ 79 StPO](#-79-stpo)  
+* [§ 80 StPO — Anzeige- und Anhalterecht](#-80-stpo--anzeige--und-anhalterecht)
 
 **4. Abschnitt**  
 **Bekanntmachung, Zustellung und Fristen**  
-* [§ 81 StPO — Bekanntmachung](#81-stpo--bekanntmachung)  
-* [§ 82 StPO — Zustellung](#82-stpo--zustellung)  
-* [§ 83 StPO — Arten der Zustellung](#83-stpo--arten-der-zustellung)  
-* [§ 84 StPO — Fristen](#84-stpo--fristen)
+* [§ 81 StPO — Bekanntmachung](#-81-stpo--bekanntmachung)  
+* [§ 82 StPO — Zustellung](#-82-stpo--zustellung)  
+* [§ 83 StPO — Arten der Zustellung](#-83-stpo--arten-der-zustellung)  
+* [§ 84 StPO — Fristen](#-84-stpo--fristen)
 
 **5. Abschnitt**  
 **Beschlüsse und Beschwerden**  
-* [§ 85 StPO — Allgemeines](#85-stpo--allgemeines)  
-* [§ 86 StPO — Beschlüsse](#86-stpo--beschlüsse)  
-* [§ 87 StPO — Beschwerden](#87-stpo--beschwerden)  
-* [§ 88 StPO — Verfahren über Beschwerden](#88-stpo--verfahren-über-beschwerden)  
-* [§ 89 StPO — Verfahren vor dem Rechtsmittelgericht](#89-stpo--verfahren-vor-dem-rechtsmittelgericht)
+* [§ 85 StPO — Allgemeines](#-85-stpo--allgemeines)  
+* [§ 86 StPO — Beschlüsse](#-86-stpo--beschlüsse)  
+* [§ 87 StPO — Beschwerden](#-87-stpo--beschwerden)  
+* [§ 88 StPO — Verfahren über Beschwerden](#-88-stpo--verfahren-über-beschwerden)  
+* [§ 89 StPO — Verfahren vor dem Rechtsmittelgericht](#-89-stpo--verfahren-vor-dem-rechtsmittelgericht)
 
 **6. Abschnitt**  
 **Vollstreckung von Geld- und Freiheitsstrafen**  
-* [§ 90 StPO — Vollstreckung von Geld- und Freiheitsstrafen](#90-stpo--vollstreckung-von-geld--und-freiheitsstrafen)
+* [§ 90 StPO — Vollstreckung von Geld- und Freiheitsstrafen](#-90-stpo--vollstreckung-von-geld--und-freiheitsstrafen)
 
 **2. TEIL**  
 **Das Ermittlungsverfahren**  
@@ -184,224 +184,224 @@
 **Allgemeines**  
 **1. Abschnitt**  
 **Zweck des Ermittlungsverfahrens**  
-* [§ 91 StPO — Zweck des Ermittlungsverfahrens](#91-stpo--zweck-des-ermittlungsverfahrens)  
-* [§ 92 StPO — Ermächtigung zur Strafverfolgung](#92-stpo--ermächtigung-zur-strafverfolgung)
+* [§ 91 StPO — Zweck des Ermittlungsverfahrens](#-91-stpo--zweck-des-ermittlungsverfahrens)  
+* [§ 92 StPO — Ermächtigung zur Strafverfolgung](#-92-stpo--ermächtigung-zur-strafverfolgung)
 
 **2. Abschnitt**  
 **Zwangsgewalt und Beugemittel, Ordnungsstrafen**  
-* [§ 93 StPO — Zwangsgewalt und Beugemittel](#93-stpo--zwangsgewalt-und-beugemittel)  
-* [§ 94 StPO — Ordnungsstrafen](#94-stpo--ordnungsstrafen)
+* [§ 93 StPO — Zwangsgewalt und Beugemittel](#-93-stpo--zwangsgewalt-und-beugemittel)  
+* [§ 94 StPO — Ordnungsstrafen](#-94-stpo--ordnungsstrafen)
 
 **3. Abschnitt**  
 **Protokollierung**  
-* [§ 95 StPO — Amtsvermerk](#95-stpo--amtsvermerk)  
-* [§ 96 StPO — Protokoll](#96-stpo--protokoll)  
-* [§ 97 StPO — Ton- und Bildaufnahme](#97-stpo--ton--und-bildaufnahme)
+* [§ 95 StPO — Amtsvermerk](#-95-stpo--amtsvermerk)  
+* [§ 96 StPO — Protokoll](#-96-stpo--protokoll)  
+* [§ 97 StPO — Ton- und Bildaufnahme](#-97-stpo--ton--und-bildaufnahme)
 
 **7. Hauptstück**  
 **Aufgaben und Befugnisse der Kriminalpolizei, der Staatsanwaltschaft und des Gerichts**  
 **1. Abschnitt**  
 **Allgemeines**  
-* [§ 98 StPO — Allgemeines](#98-stpo--allgemeines)
+* [§ 98 StPO — Allgemeines](#-98-stpo--allgemeines)
 
 **2. Abschnitt**  
 **Kriminalpolizei im Ermittlungsverfahren**  
-* [§ 99 StPO — Ermittlungen](#99-stpo--ermittlungen)  
-* [§ 100 StPO — Berichte](#100-stpo--berichte)  
-* [§ 100a StPO — Berichte an die WKStA](#100a-stpo--berichte-an-die-wksta)
+* [§ 99 StPO — Ermittlungen](#-99-stpo--ermittlungen)  
+* [§ 100 StPO — Berichte](#-100-stpo--berichte)  
+* [§ 100a StPO — Berichte an die WKStA](#-100a-stpo--berichte-an-die-wksta)
 
 **3. Abschnitt**  
 **Staatsanwaltschaft im Ermittlungsverfahren**  
-* [§ 101 StPO — Aufgaben](#101-stpo--aufgaben)  
-* [§ 102 StPO — Anordnungen und Genehmigungen](#102-stpo--anordnungen-und-genehmigungen)  
-* [§ 103 StPO — Ermittlungen](#103-stpo--ermittlungen)
+* [§ 101 StPO — Aufgaben](#-101-stpo--aufgaben)  
+* [§ 102 StPO — Anordnungen und Genehmigungen](#-102-stpo--anordnungen-und-genehmigungen)  
+* [§ 103 StPO — Ermittlungen](#-103-stpo--ermittlungen)
 
 **4. Abschnitt**  
 **Gericht im Ermittlungsverfahren**  
-* [§ 104 StPO — Gerichtliche Beweisaufnahme](#104-stpo--gerichtliche-beweisaufnahme)  
-* [§ 105 StPO — Bewilligung von Zwangsmitteln](#105-stpo--bewilligung-von-zwangsmitteln)  
-* [§ 106 StPO — Einspruch wegen Rechtsverletzung](#106-stpo--einspruch-wegen-rechtsverletzung)  
-* [§ 107 StPO](#107-stpo)  
-* [§ 108 StPO — Antrag auf Einstellung](#108-stpo--antrag-auf-einstellung)
+* [§ 104 StPO — Gerichtliche Beweisaufnahme](#-104-stpo--gerichtliche-beweisaufnahme)  
+* [§ 105 StPO — Bewilligung von Zwangsmitteln](#-105-stpo--bewilligung-von-zwangsmitteln)  
+* [§ 106 StPO — Einspruch wegen Rechtsverletzung](#-106-stpo--einspruch-wegen-rechtsverletzung)  
+* [§ 107 StPO](#-107-stpo)  
+* [§ 108 StPO — Antrag auf Einstellung](#-108-stpo--antrag-auf-einstellung)
 
 **8. Hauptstück**  
 **Ermittlungsmaßnahmen und Beweisaufnahme**  
 **1. Abschnitt**  
 **Sicherstellung, Beschlagnahme, Beschlagnahme von Datenträgern und Daten, Auskunft aus dem Kontenregister und Auskunft über Bankkonten und Bankgeschäfte**  
-* [§ 109 StPO — Definitionen](#109-stpo--definitionen)  
-* [§ 110 StPO — Sicherstellung](#110-stpo--sicherstellung)  
-* [§ 111 StPO](#111-stpo)  
-* [§ 112 StPO](#112-stpo)  
-* [§ 112a StPO](#112a-stpo)  
-* [§ 113 StPO](#113-stpo)  
-* [§ 114 StPO](#114-stpo)  
-* [§ 115 StPO — Beschlagnahme](#115-stpo--beschlagnahme)  
-* [§ 115a StPO — Verwertung sichergestellter oder beschlagnahmter Vermögenswerte](#115a-stpo--verwertung-sichergestellter-oder-beschlagnahmter-vermögenswerte)  
-* [§ 115b StPO](#115b-stpo)  
-* [§ 115c StPO](#115c-stpo)  
-* [§ 115d StPO](#115d-stpo)  
-* [§ 115e StPO](#115e-stpo)  
-* [§ 115f StPO — Beschlagnahme von Datenträgern und Daten](#115f-stpo--beschlagnahme-von-datenträgern-und-daten)  
-* [§ 115g StPO](#115g-stpo)  
-* [§ 115h StPO — Aufbereitung von Daten](#115h-stpo--aufbereitung-von-daten)  
-* [§ 115i StPO — Auswertung von Daten](#115i-stpo--auswertung-von-daten)  
-* [§ 115j StPO](#115j-stpo)  
-* [§ 115k StPO — Verwahrung von Datenträgern und Daten](#115k-stpo--verwahrung-von-datenträgern-und-daten)  
-* [§ 115l StPO — Rechtsschutz](#115l-stpo--rechtsschutz)  
-* [§ 116 StPO — Auskunft aus dem Kontenregister und Auskunft über Bankkonten und Bankgeschäfte](#116-stpo--auskunft-aus-dem-kontenregister-und-auskunft-über-bankkonten-und-bankgeschäfte)
+* [§ 109 StPO — Definitionen](#-109-stpo--definitionen)  
+* [§ 110 StPO — Sicherstellung](#-110-stpo--sicherstellung)  
+* [§ 111 StPO](#-111-stpo)  
+* [§ 112 StPO](#-112-stpo)  
+* [§ 112a StPO](#-112a-stpo)  
+* [§ 113 StPO](#-113-stpo)  
+* [§ 114 StPO](#-114-stpo)  
+* [§ 115 StPO — Beschlagnahme](#-115-stpo--beschlagnahme)  
+* [§ 115a StPO — Verwertung sichergestellter oder beschlagnahmter Vermögenswerte](#-115a-stpo--verwertung-sichergestellter-oder-beschlagnahmter-vermögenswerte)  
+* [§ 115b StPO](#-115b-stpo)  
+* [§ 115c StPO](#-115c-stpo)  
+* [§ 115d StPO](#-115d-stpo)  
+* [§ 115e StPO](#-115e-stpo)  
+* [§ 115f StPO — Beschlagnahme von Datenträgern und Daten](#-115f-stpo--beschlagnahme-von-datenträgern-und-daten)  
+* [§ 115g StPO](#-115g-stpo)  
+* [§ 115h StPO — Aufbereitung von Daten](#-115h-stpo--aufbereitung-von-daten)  
+* [§ 115i StPO — Auswertung von Daten](#-115i-stpo--auswertung-von-daten)  
+* [§ 115j StPO](#-115j-stpo)  
+* [§ 115k StPO — Verwahrung von Datenträgern und Daten](#-115k-stpo--verwahrung-von-datenträgern-und-daten)  
+* [§ 115l StPO — Rechtsschutz](#-115l-stpo--rechtsschutz)  
+* [§ 116 StPO — Auskunft aus dem Kontenregister und Auskunft über Bankkonten und Bankgeschäfte](#-116-stpo--auskunft-aus-dem-kontenregister-und-auskunft-über-bankkonten-und-bankgeschäfte)
 
 **2. Abschnitt**  
 **Identitätsfeststellung, Durchsuchung von Orten und Gegenständen, Durchsuchung von Personen, körperliche Untersuchung und molekulargenetische Untersuchung**  
-* [§ 117 StPO — Definitionen](#117-stpo--definitionen)  
-* [§ 118 StPO — Identitätsfeststellung](#118-stpo--identitätsfeststellung)  
-* [§ 119 StPO — Durchsuchung von Orten und Gegenständen sowie von Personen](#119-stpo--durchsuchung-von-orten-und-gegenständen-sowie-von-personen)  
-* [§ 120 StPO](#120-stpo)  
-* [§ 121 StPO](#121-stpo)  
-* [§ 122 StPO](#122-stpo)  
-* [§ 123 StPO — Körperliche Untersuchung](#123-stpo--körperliche-untersuchung)  
-* [§ 124 StPO — Molekulargenetische Untersuchung](#124-stpo--molekulargenetische-untersuchung)
+* [§ 117 StPO — Definitionen](#-117-stpo--definitionen)  
+* [§ 118 StPO — Identitätsfeststellung](#-118-stpo--identitätsfeststellung)  
+* [§ 119 StPO — Durchsuchung von Orten und Gegenständen sowie von Personen](#-119-stpo--durchsuchung-von-orten-und-gegenständen-sowie-von-personen)  
+* [§ 120 StPO](#-120-stpo)  
+* [§ 121 StPO](#-121-stpo)  
+* [§ 122 StPO](#-122-stpo)  
+* [§ 123 StPO — Körperliche Untersuchung](#-123-stpo--körperliche-untersuchung)  
+* [§ 124 StPO — Molekulargenetische Untersuchung](#-124-stpo--molekulargenetische-untersuchung)
 
 **3. Abschnitt**  
 **Sachverständige und Dolmetscher, Leichenbeschau und Obduktion**  
-* [§ 125 StPO — Definitionen](#125-stpo--definitionen)  
-* [§ 126 StPO — Sachverständige und Dolmetscher](#126-stpo--sachverständige-und-dolmetscher)  
-* [§ 127 StPO](#127-stpo)  
-* [§ 128 StPO — Leichenbeschau und Obduktion](#128-stpo--leichenbeschau-und-obduktion)
+* [§ 125 StPO — Definitionen](#-125-stpo--definitionen)  
+* [§ 126 StPO — Sachverständige und Dolmetscher](#-126-stpo--sachverständige-und-dolmetscher)  
+* [§ 127 StPO](#-127-stpo)  
+* [§ 128 StPO — Leichenbeschau und Obduktion](#-128-stpo--leichenbeschau-und-obduktion)
 
 **4. Abschnitt**  
 **Observation, verdeckte Ermittlung und Scheingeschäft**  
-* [§ 129 StPO — Definitionen](#129-stpo--definitionen)  
-* [§ 130 StPO — Observation](#130-stpo--observation)  
-* [§ 131 StPO — Verdeckte Ermittlung](#131-stpo--verdeckte-ermittlung)  
-* [§ 132 StPO — Scheingeschäft](#132-stpo--scheingeschäft)  
-* [§ 133 StPO — Gemeinsame Bestimmungen](#133-stpo--gemeinsame-bestimmungen)
+* [§ 129 StPO — Definitionen](#-129-stpo--definitionen)  
+* [§ 130 StPO — Observation](#-130-stpo--observation)  
+* [§ 131 StPO — Verdeckte Ermittlung](#-131-stpo--verdeckte-ermittlung)  
+* [§ 132 StPO — Scheingeschäft](#-132-stpo--scheingeschäft)  
+* [§ 133 StPO — Gemeinsame Bestimmungen](#-133-stpo--gemeinsame-bestimmungen)
 
 **5. Abschnitt**  
 **Beschlagnahme von Briefen, Auskunft über Stamm- und Zugangsdaten, Auskunft über Daten einer Nachrichtenübermittlung, Lokalisierung einer technischen Einrichtung, Anlassdatenspeicherung und Überwachung von Nachrichten und von Personen**  
-* [§ 134 StPO — Definitionen](#134-stpo--definitionen)  
-* [§ 135 StPO — Beschlagnahme von Briefen, Auskunft über Stamm- und Zugangsdaten, Auskunft über Daten einer Nachrichtenübermittlung, Lokalisierung einer technischen Einrichtung, Anlassdatenspeicherung und Überwachung von Nachrichten](#135-stpo--beschlagnahme-von-briefen-auskunft-über-stamm--und-zugangsdaten-auskunft-über-daten-einer-nachrichtenübermittlung-lokalisierung-einer-technischen-einrichtung-anlassdatenspeicherung-und-überwachung-von-nachrichten)  
-* [§ 136 StPO — Optische und akustische Überwachung von Personen](#136-stpo--optische-und-akustische-überwachung-von-personen)  
-* [§ 137 StPO — Gemeinsame Bestimmungen](#137-stpo--gemeinsame-bestimmungen)  
-* [§ 138 StPO](#138-stpo)  
-* [§ 139 StPO](#139-stpo)  
-* [§ 140 StPO](#140-stpo)
+* [§ 134 StPO — Definitionen](#-134-stpo--definitionen)  
+* [§ 135 StPO — Beschlagnahme von Briefen, Auskunft über Stamm- und Zugangsdaten, Auskunft über Daten einer Nachrichtenübermittlung, Lokalisierung einer technischen Einrichtung, Anlassdatenspeicherung und Überwachung von Nachrichten](#-135-stpo--beschlagnahme-von-briefen-auskunft-über-stamm--und-zugangsdaten-auskunft-über-daten-einer-nachrichtenübermittlung-lokalisierung-einer-technischen-einrichtung-anlassdatenspeicherung-und-überwachung-von-nachrichten)  
+* [§ 136 StPO — Optische und akustische Überwachung von Personen](#-136-stpo--optische-und-akustische-überwachung-von-personen)  
+* [§ 137 StPO — Gemeinsame Bestimmungen](#-137-stpo--gemeinsame-bestimmungen)  
+* [§ 138 StPO](#-138-stpo)  
+* [§ 139 StPO](#-139-stpo)  
+* [§ 140 StPO](#-140-stpo)
 
 **6. Abschnitt**  
 **Automationsunterstützter Datenabgleich**  
-* [§ 141 StPO — Datenabgleich](#141-stpo--datenabgleich)  
-* [§ 142 StPO — Durchführung](#142-stpo--durchführung)  
-* [§ 143 StPO — Mitwirkungspflicht](#143-stpo--mitwirkungspflicht)
+* [§ 141 StPO — Datenabgleich](#-141-stpo--datenabgleich)  
+* [§ 142 StPO — Durchführung](#-142-stpo--durchführung)  
+* [§ 143 StPO — Mitwirkungspflicht](#-143-stpo--mitwirkungspflicht)
 
 **7. Abschnitt**  
 **Geistliche Amtsverschwiegenheit und Berufsgeheimnisse**  
-* [§ 144 StPO — Schutz der geistlichen Amtsverschwiegenheit und von Berufsgeheimnissen](#144-stpo--schutz-der-geistlichen-amtsverschwiegenheit-und-von-berufsgeheimnissen)
+* [§ 144 StPO — Schutz der geistlichen Amtsverschwiegenheit und von Berufsgeheimnissen](#-144-stpo--schutz-der-geistlichen-amtsverschwiegenheit-und-von-berufsgeheimnissen)
 
 **8. Abschnitt**  
 **Besondere Durchführungsbestimmungen, Rechtsschutz und Schadenersatz**  
-* [§ 145 StPO — Besondere Durchführungsbestimmungen](#145-stpo--besondere-durchführungsbestimmungen)  
-* [§ 147 StPO](#147-stpo)  
-* [§ 148 StPO — Schadenersatz](#148-stpo--schadenersatz)
+* [§ 145 StPO — Besondere Durchführungsbestimmungen](#-145-stpo--besondere-durchführungsbestimmungen)  
+* [§ 147 StPO](#-147-stpo)  
+* [§ 148 StPO — Schadenersatz](#-148-stpo--schadenersatz)
 
 **9. Abschnitt**  
 **Augenschein und Tatrekonstruktion**  
-* [§ 149 StPO — Augenschein und Tatrekonstruktion](#149-stpo--augenschein-und-tatrekonstruktion)  
-* [§ 150 StPO — Durchführung der Tatrekonstruktion](#150-stpo--durchführung-der-tatrekonstruktion)
+* [§ 149 StPO — Augenschein und Tatrekonstruktion](#-149-stpo--augenschein-und-tatrekonstruktion)  
+* [§ 150 StPO — Durchführung der Tatrekonstruktion](#-150-stpo--durchführung-der-tatrekonstruktion)
 
 **10. Abschnitt**  
 **Erkundigungen und Vernehmungen**  
-* [§ 151 StPO — Definitionen](#151-stpo--definitionen)  
-* [§ 152 StPO — Erkundigungen](#152-stpo--erkundigungen)  
-* [§ 153 StPO — Vernehmungen](#153-stpo--vernehmungen)  
-* [§ 154 StPO — Zeuge und Wahrheitspflicht](#154-stpo--zeuge-und-wahrheitspflicht)  
-* [§ 155 StPO — Verbot der Vernehmung als Zeuge](#155-stpo--verbot-der-vernehmung-als-zeuge)  
-* [§ 156 StPO — Aussagebefreiung](#156-stpo--aussagebefreiung)  
-* [§ 157 StPO — Aussageverweigerung](#157-stpo--aussageverweigerung)  
-* [§ 158 StPO](#158-stpo)  
-* [§ 159 StPO — Information und Nichtigkeit](#159-stpo--information-und-nichtigkeit)  
-* [§ 160 StPO — Durchführung der Vernehmung](#160-stpo--durchführung-der-vernehmung)  
-* [§ 161 StPO](#161-stpo)  
-* [§ 162 StPO — Anonyme Aussage](#162-stpo--anonyme-aussage)  
-* [§ 163 StPO — Gegenüberstellung](#163-stpo--gegenüberstellung)  
-* [§ 164 StPO — Vernehmung des Beschuldigten](#164-stpo--vernehmung-des-beschuldigten)  
-* [§ 165 StPO — Kontradiktorische Vernehmung des Beschuldigten oder eines Zeugen](#165-stpo--kontradiktorische-vernehmung-des-beschuldigten-oder-eines-zeugen)  
-* [§ 166 StPO — Beweisverbot](#166-stpo--beweisverbot)
+* [§ 151 StPO — Definitionen](#-151-stpo--definitionen)  
+* [§ 152 StPO — Erkundigungen](#-152-stpo--erkundigungen)  
+* [§ 153 StPO — Vernehmungen](#-153-stpo--vernehmungen)  
+* [§ 154 StPO — Zeuge und Wahrheitspflicht](#-154-stpo--zeuge-und-wahrheitspflicht)  
+* [§ 155 StPO — Verbot der Vernehmung als Zeuge](#-155-stpo--verbot-der-vernehmung-als-zeuge)  
+* [§ 156 StPO — Aussagebefreiung](#-156-stpo--aussagebefreiung)  
+* [§ 157 StPO — Aussageverweigerung](#-157-stpo--aussageverweigerung)  
+* [§ 158 StPO](#-158-stpo)  
+* [§ 159 StPO — Information und Nichtigkeit](#-159-stpo--information-und-nichtigkeit)  
+* [§ 160 StPO — Durchführung der Vernehmung](#-160-stpo--durchführung-der-vernehmung)  
+* [§ 161 StPO](#-161-stpo)  
+* [§ 162 StPO — Anonyme Aussage](#-162-stpo--anonyme-aussage)  
+* [§ 163 StPO — Gegenüberstellung](#-163-stpo--gegenüberstellung)  
+* [§ 164 StPO — Vernehmung des Beschuldigten](#-164-stpo--vernehmung-des-beschuldigten)  
+* [§ 165 StPO — Kontradiktorische Vernehmung des Beschuldigten oder eines Zeugen](#-165-stpo--kontradiktorische-vernehmung-des-beschuldigten-oder-eines-zeugen)  
+* [§ 166 StPO — Beweisverbot](#-166-stpo--beweisverbot)
 
 **9. Hauptstück**  
 **Fahndung, Festnahme und Untersuchungshaft**  
 **1. Abschnitt**  
 **Fahndung**  
-* [§ 167 StPO — Definitionen](#167-stpo--definitionen)  
-* [§ 168 StPO — Fahndung](#168-stpo--fahndung)  
-* [§ 169 StPO](#169-stpo)
+* [§ 167 StPO — Definitionen](#-167-stpo--definitionen)  
+* [§ 168 StPO — Fahndung](#-168-stpo--fahndung)  
+* [§ 169 StPO](#-169-stpo)
 
 **2. Abschnitt**  
 **Festnahme**  
-* [§ 170 StPO — Zulässigkeit](#170-stpo--zulässigkeit)  
-* [§ 171 StPO — Anordnung](#171-stpo--anordnung)  
-* [§ 172 StPO — Durchführung](#172-stpo--durchführung)  
-* [§ 172a StPO — Sicherheitsleistung](#172a-stpo--sicherheitsleistung)
+* [§ 170 StPO — Zulässigkeit](#-170-stpo--zulässigkeit)  
+* [§ 171 StPO — Anordnung](#-171-stpo--anordnung)  
+* [§ 172 StPO — Durchführung](#-172-stpo--durchführung)  
+* [§ 172a StPO — Sicherheitsleistung](#-172a-stpo--sicherheitsleistung)
 
 **3. Abschnitt**  
 **Untersuchungshaft**  
-* [§ 173 StPO — Zulässigkeit](#173-stpo--zulässigkeit)  
-* [§ 173a StPO — Hausarrest](#173a-stpo--hausarrest)  
-* [§ 174 StPO — Verhängung der Untersuchungshaft](#174-stpo--verhängung-der-untersuchungshaft)  
-* [§ 175 StPO — Haftfristen](#175-stpo--haftfristen)  
-* [§ 176 StPO — Haftverhandlung](#176-stpo--haftverhandlung)  
-* [§ 177 StPO — Aufhebung der Untersuchungshaft](#177-stpo--aufhebung-der-untersuchungshaft)  
-* [§ 178 StPO — Höchstdauer der Untersuchungshaft](#178-stpo--höchstdauer-der-untersuchungshaft)  
-* [§ 179 StPO — Vorläufige Bewährungshilfe](#179-stpo--vorläufige-bewährungshilfe)  
-* [§ 180 StPO — Kaution](#180-stpo--kaution)  
-* [§ 181 StPO](#181-stpo)  
-* [§ 181a StPO — Flucht](#181a-stpo--flucht)
+* [§ 173 StPO — Zulässigkeit](#-173-stpo--zulässigkeit)  
+* [§ 173a StPO — Hausarrest](#-173a-stpo--hausarrest)  
+* [§ 174 StPO — Verhängung der Untersuchungshaft](#-174-stpo--verhängung-der-untersuchungshaft)  
+* [§ 175 StPO — Haftfristen](#-175-stpo--haftfristen)  
+* [§ 176 StPO — Haftverhandlung](#-176-stpo--haftverhandlung)  
+* [§ 177 StPO — Aufhebung der Untersuchungshaft](#-177-stpo--aufhebung-der-untersuchungshaft)  
+* [§ 178 StPO — Höchstdauer der Untersuchungshaft](#-178-stpo--höchstdauer-der-untersuchungshaft)  
+* [§ 179 StPO — Vorläufige Bewährungshilfe](#-179-stpo--vorläufige-bewährungshilfe)  
+* [§ 180 StPO — Kaution](#-180-stpo--kaution)  
+* [§ 181 StPO](#-181-stpo)  
+* [§ 181a StPO — Flucht](#-181a-stpo--flucht)
 
 **4. Abschnitt**  
 **Vollzug der Untersuchungshaft**  
-* [§ 182 StPO — Allgemeines](#182-stpo--allgemeines)  
-* [§ 183 StPO — Haftort](#183-stpo--haftort)  
-* [§ 184 StPO — Ausführungen](#184-stpo--ausführungen)  
-* [§ 185 StPO — Getrennte Anhaltung](#185-stpo--getrennte-anhaltung)  
-* [§ 186 StPO — Kleidung und Bedarfsgegenstände](#186-stpo--kleidung-und-bedarfsgegenstände)  
-* [§ 187 StPO — Arbeit und Arbeitsvergütung](#187-stpo--arbeit-und-arbeitsvergütung)  
-* [§ 188 StPO — Verkehr mit der Außenwelt](#188-stpo--verkehr-mit-der-außenwelt)  
-* [§ 189 StPO — Zuständigkeit für Entscheidungen](#189-stpo--zuständigkeit-für-entscheidungen)
+* [§ 182 StPO — Allgemeines](#-182-stpo--allgemeines)  
+* [§ 183 StPO — Haftort](#-183-stpo--haftort)  
+* [§ 184 StPO — Ausführungen](#-184-stpo--ausführungen)  
+* [§ 185 StPO — Getrennte Anhaltung](#-185-stpo--getrennte-anhaltung)  
+* [§ 186 StPO — Kleidung und Bedarfsgegenstände](#-186-stpo--kleidung-und-bedarfsgegenstände)  
+* [§ 187 StPO — Arbeit und Arbeitsvergütung](#-187-stpo--arbeit-und-arbeitsvergütung)  
+* [§ 188 StPO — Verkehr mit der Außenwelt](#-188-stpo--verkehr-mit-der-außenwelt)  
+* [§ 189 StPO — Zuständigkeit für Entscheidungen](#-189-stpo--zuständigkeit-für-entscheidungen)
 
 **3. TEIL**  
 **Beendigung des Ermittlungsverfahrens und Absehen von der Einleitung eines Ermittlungsverfahrens**  
 **10. Hauptstück**  
 **Einstellung, Abbrechung und Fortführung des Ermittlungsverfahrens**  
-* [§ 190 StPO — Einstellung des Ermittlungsverfahrens](#190-stpo--einstellung-des-ermittlungsverfahrens)  
-* [§ 191 StPO — Einstellung wegen Geringfügigkeit](#191-stpo--einstellung-wegen-geringfügigkeit)  
-* [§ 192 StPO — Einstellung bei mehreren Straftaten](#192-stpo--einstellung-bei-mehreren-straftaten)  
-* [§ 193 StPO — Fortführung des Verfahrens](#193-stpo--fortführung-des-verfahrens)  
-* [§ 194 StPO — Verständigungen](#194-stpo--verständigungen)  
-* [§ 195 StPO — Antrag auf Fortführung](#195-stpo--antrag-auf-fortführung)  
-* [§ 196 StPO](#196-stpo)  
-* [§ 196a StPO — Beitrag zu den Kosten der Verteidigung im Ermittlungsverfahren](#196a-stpo--beitrag-zu-den-kosten-der-verteidigung-im-ermittlungsverfahren)  
-* [§ 197 StPO — Abbrechung des Ermittlungsverfahrens gegen Abwesende und gegen unbekannte Täter](#197-stpo--abbrechung-des-ermittlungsverfahrens-gegen-abwesende-und-gegen-unbekannte-täter)
+* [§ 190 StPO — Einstellung des Ermittlungsverfahrens](#-190-stpo--einstellung-des-ermittlungsverfahrens)  
+* [§ 191 StPO — Einstellung wegen Geringfügigkeit](#-191-stpo--einstellung-wegen-geringfügigkeit)  
+* [§ 192 StPO — Einstellung bei mehreren Straftaten](#-192-stpo--einstellung-bei-mehreren-straftaten)  
+* [§ 193 StPO — Fortführung des Verfahrens](#-193-stpo--fortführung-des-verfahrens)  
+* [§ 194 StPO — Verständigungen](#-194-stpo--verständigungen)  
+* [§ 195 StPO — Antrag auf Fortführung](#-195-stpo--antrag-auf-fortführung)  
+* [§ 196 StPO](#-196-stpo)  
+* [§ 196a StPO — Beitrag zu den Kosten der Verteidigung im Ermittlungsverfahren](#-196a-stpo--beitrag-zu-den-kosten-der-verteidigung-im-ermittlungsverfahren)  
+* [§ 197 StPO — Abbrechung des Ermittlungsverfahrens gegen Abwesende und gegen unbekannte Täter](#-197-stpo--abbrechung-des-ermittlungsverfahrens-gegen-abwesende-und-gegen-unbekannte-täter)
 
 **10a. Hauptstück**  
 **Absehen von der Einleitung eines Ermittlungsverfahrens**  
-* [§ 197a StPO — Absehen von der Einleitung eines Ermittlungsverfahrens](#197a-stpo--absehen-von-der-einleitung-eines-ermittlungsverfahrens)  
-* [§ 197b StPO — Verständigungen](#197b-stpo--verständigungen)  
-* [§ 197c StPO — Antrag auf Verfolgung](#197c-stpo--antrag-auf-verfolgung)
+* [§ 197a StPO — Absehen von der Einleitung eines Ermittlungsverfahrens](#-197a-stpo--absehen-von-der-einleitung-eines-ermittlungsverfahrens)  
+* [§ 197b StPO — Verständigungen](#-197b-stpo--verständigungen)  
+* [§ 197c StPO — Antrag auf Verfolgung](#-197c-stpo--antrag-auf-verfolgung)
 
 **11. Hauptstück**  
 **Rücktritt von der Verfolgung (Diversion)**  
-* [§ 198 StPO — Allgemeines](#198-stpo--allgemeines)  
-* [§ 199 StPO](#199-stpo)  
-* [§ 200 StPO — Zahlung eines Geldbetrages](#200-stpo--zahlung-eines-geldbetrages)  
-* [§ 201 StPO — Gemeinnützige Leistungen](#201-stpo--gemeinnützige-leistungen)  
-* [§ 202 StPO](#202-stpo)  
-* [§ 203 StPO — Probezeit](#203-stpo--probezeit)  
-* [§ 204 StPO — Tatausgleich](#204-stpo--tatausgleich)  
-* [§ 205 StPO — Nachträgliche Fortsetzung des Strafverfahrens](#205-stpo--nachträgliche-fortsetzung-des-strafverfahrens)  
-* [§ 206 StPO — Rechte und Interessen der Opfer](#206-stpo--rechte-und-interessen-der-opfer)  
-* [§ 207 StPO — Information des Beschuldigten](#207-stpo--information-des-beschuldigten)  
-* [§ 208 StPO — Gemeinsame Bestimmungen](#208-stpo--gemeinsame-bestimmungen)  
-* [§ 209 StPO](#209-stpo)  
-* [§ 209a StPO — Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft](#209a-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft)  
-* [§ 209b StPO — Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft im Zusammenhang mit einer kartellrechtlichen Zuwiderhandlung](#209b-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft-im-zusammenhang-mit-einer-kartellrechtlichen-zuwiderhandlung)
+* [§ 198 StPO — Allgemeines](#-198-stpo--allgemeines)  
+* [§ 199 StPO](#-199-stpo)  
+* [§ 200 StPO — Zahlung eines Geldbetrages](#-200-stpo--zahlung-eines-geldbetrages)  
+* [§ 201 StPO — Gemeinnützige Leistungen](#-201-stpo--gemeinnützige-leistungen)  
+* [§ 202 StPO](#-202-stpo)  
+* [§ 203 StPO — Probezeit](#-203-stpo--probezeit)  
+* [§ 204 StPO — Tatausgleich](#-204-stpo--tatausgleich)  
+* [§ 205 StPO — Nachträgliche Fortsetzung des Strafverfahrens](#-205-stpo--nachträgliche-fortsetzung-des-strafverfahrens)  
+* [§ 206 StPO — Rechte und Interessen der Opfer](#-206-stpo--rechte-und-interessen-der-opfer)  
+* [§ 207 StPO — Information des Beschuldigten](#-207-stpo--information-des-beschuldigten)  
+* [§ 208 StPO — Gemeinsame Bestimmungen](#-208-stpo--gemeinsame-bestimmungen)  
+* [§ 209 StPO](#-209-stpo)  
+* [§ 209a StPO — Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft](#-209a-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft)  
+* [§ 209b StPO — Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft im Zusammenhang mit einer kartellrechtlichen Zuwiderhandlung](#-209b-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft-im-zusammenhang-mit-einer-kartellrechtlichen-zuwiderhandlung)
 
 **4. TEIL**  
 **Haupt- und Rechtsmittelverfahren**  
@@ -409,455 +409,455 @@
 **Die Anklage**  
 **1. Abschnitt**  
 **Allgemeines**  
-* [§ 210 StPO — Die Anklage](#210-stpo--die-anklage)
+* [§ 210 StPO — Die Anklage](#-210-stpo--die-anklage)
 
 **2. Abschnitt**  
 **Die Anklageschrift**  
-* [§ 211 StPO — Inhalt der Anklageschrift](#211-stpo--inhalt-der-anklageschrift)  
-* [§ 212 StPO — Einspruch gegen die Anklageschrift](#212-stpo--einspruch-gegen-die-anklageschrift)  
-* [§ 213 StPO](#213-stpo)  
-* [§ 214 StPO — Verfahren vor dem Oberlandesgericht](#214-stpo--verfahren-vor-dem-oberlandesgericht)  
-* [§ 215 StPO](#215-stpo)
+* [§ 211 StPO — Inhalt der Anklageschrift](#-211-stpo--inhalt-der-anklageschrift)  
+* [§ 212 StPO — Einspruch gegen die Anklageschrift](#-212-stpo--einspruch-gegen-die-anklageschrift)  
+* [§ 213 StPO](#-213-stpo)  
+* [§ 214 StPO — Verfahren vor dem Oberlandesgericht](#-214-stpo--verfahren-vor-dem-oberlandesgericht)  
+* [§ 215 StPO](#-215-stpo)
 
 **13. Hauptstück**  
-* [§ 220 StPO — Vorbereitungen zur Hauptverhandlung](#220-stpo--vorbereitungen-zur-hauptverhandlung)  
-* [§ 221 StPO](#221-stpo)  
-* [§ 222 StPO](#222-stpo)  
-* [§ 223 StPO](#223-stpo)  
-* [§ 226 StPO](#226-stpo)  
-* [§ 227 StPO](#227-stpo)
+* [§ 220 StPO — Vorbereitungen zur Hauptverhandlung](#-220-stpo--vorbereitungen-zur-hauptverhandlung)  
+* [§ 221 StPO](#-221-stpo)  
+* [§ 222 StPO](#-222-stpo)  
+* [§ 223 StPO](#-223-stpo)  
+* [§ 226 StPO](#-226-stpo)  
+* [§ 227 StPO](#-227-stpo)
 
 **14. Hauptstück**  
 **Hauptverhandlung vor dem Landesgericht als Schöffengericht und Rechtsmittel gegen dessen Urteile**  
 **I. Hauptverhandlung und Urteil**  
 **1. Öffentlichkeit der Hauptverhandlung**  
-* [§ 228 StPO](#228-stpo)  
-* [§ 229 StPO](#229-stpo)  
-* [§ 230 StPO](#230-stpo)  
-* [§ 230a StPO](#230a-stpo)
+* [§ 228 StPO](#-228-stpo)  
+* [§ 229 StPO](#-229-stpo)  
+* [§ 230 StPO](#-230-stpo)  
+* [§ 230a StPO](#-230a-stpo)
 
 **2. Amtsverrichtungen des Vorsitzenden und des Schöffengerichts während der Hauptverhandlung**  
-* [§ 232 StPO](#232-stpo)  
-* [§ 233 StPO](#233-stpo)  
-* [§ 234 StPO](#234-stpo)  
-* [§ 235 StPO](#235-stpo)  
-* [§ 236 StPO](#236-stpo)  
-* [§ 236a StPO](#236a-stpo)  
-* [§ 237 StPO](#237-stpo)  
-* [§ 238 StPO](#238-stpo)
+* [§ 232 StPO](#-232-stpo)  
+* [§ 233 StPO](#-233-stpo)  
+* [§ 234 StPO](#-234-stpo)  
+* [§ 235 StPO](#-235-stpo)  
+* [§ 236 StPO](#-236-stpo)  
+* [§ 236a StPO](#-236a-stpo)  
+* [§ 237 StPO](#-237-stpo)  
+* [§ 238 StPO](#-238-stpo)
 
 **3. Beginn der Hauptverhandlung**  
-* [§ 239 StPO](#239-stpo)  
-* [§ 240 StPO](#240-stpo)  
-* [§ 240a StPO](#240a-stpo)  
-* [§ 241 StPO](#241-stpo)  
-* [§ 242 StPO](#242-stpo)  
-* [§ 243 StPO](#243-stpo)  
-* [§ 244 StPO](#244-stpo)
+* [§ 239 StPO](#-239-stpo)  
+* [§ 240 StPO](#-240-stpo)  
+* [§ 240a StPO](#-240a-stpo)  
+* [§ 241 StPO](#-241-stpo)  
+* [§ 242 StPO](#-242-stpo)  
+* [§ 243 StPO](#-243-stpo)  
+* [§ 244 StPO](#-244-stpo)
 
 **4. Vernehmung des Angeklagten**  
-* [§ 245 StPO](#245-stpo)
+* [§ 245 StPO](#-245-stpo)
 
 **5. Beweisverfahren**  
-* [§ 246 StPO](#246-stpo)  
-* [§ 247 StPO](#247-stpo)  
-* [§ 247a StPO](#247a-stpo)  
-* [§ 248 StPO](#248-stpo)  
-* [§ 249 StPO](#249-stpo)  
-* [§ 250 StPO](#250-stpo)  
-* [§ 251 StPO](#251-stpo)  
-* [§ 252 StPO](#252-stpo)  
-* [§ 253 StPO](#253-stpo)  
-* [§ 254 StPO](#254-stpo)
+* [§ 246 StPO](#-246-stpo)  
+* [§ 247 StPO](#-247-stpo)  
+* [§ 247a StPO](#-247a-stpo)  
+* [§ 248 StPO](#-248-stpo)  
+* [§ 249 StPO](#-249-stpo)  
+* [§ 250 StPO](#-250-stpo)  
+* [§ 251 StPO](#-251-stpo)  
+* [§ 252 StPO](#-252-stpo)  
+* [§ 253 StPO](#-253-stpo)  
+* [§ 254 StPO](#-254-stpo)
 
 **6. Vorträge der Parteien**  
-* [§ 255 StPO](#255-stpo)  
-* [§ 256 StPO](#256-stpo)
+* [§ 255 StPO](#-255-stpo)  
+* [§ 256 StPO](#-256-stpo)
 
 **7. Urteil des Gerichtshofes**  
-* [§ 257 StPO](#257-stpo)  
-* [§ 258 StPO](#258-stpo)  
-* [§ 259 StPO](#259-stpo)  
-* [§ 260 StPO](#260-stpo)  
-* [§ 261 StPO](#261-stpo)  
-* [§ 262 StPO](#262-stpo)  
-* [§ 263 StPO](#263-stpo)  
-* [§ 264 StPO](#264-stpo)  
-* [§ 265 StPO](#265-stpo)  
-* [§ 265a StPO](#265a-stpo)  
-* [§ 265b StPO](#265b-stpo)  
-* [§ 265c StPO](#265c-stpo)  
-* [§ 266 StPO](#266-stpo)  
-* [§ 267 StPO](#267-stpo)
+* [§ 257 StPO](#-257-stpo)  
+* [§ 258 StPO](#-258-stpo)  
+* [§ 259 StPO](#-259-stpo)  
+* [§ 260 StPO](#-260-stpo)  
+* [§ 261 StPO](#-261-stpo)  
+* [§ 262 StPO](#-262-stpo)  
+* [§ 263 StPO](#-263-stpo)  
+* [§ 264 StPO](#-264-stpo)  
+* [§ 265 StPO](#-265-stpo)  
+* [§ 265a StPO](#-265a-stpo)  
+* [§ 265b StPO](#-265b-stpo)  
+* [§ 265c StPO](#-265c-stpo)  
+* [§ 266 StPO](#-266-stpo)  
+* [§ 267 StPO](#-267-stpo)
 
 **8. Verkündung und Ausfertigung des Urteiles**  
-* [§ 268 StPO](#268-stpo)  
-* [§ 269 StPO](#269-stpo)  
-* [§ 270 StPO](#270-stpo)
+* [§ 268 StPO](#-268-stpo)  
+* [§ 269 StPO](#-269-stpo)  
+* [§ 270 StPO](#-270-stpo)
 
 **9. Protokollführung**  
-* [§ 271 StPO](#271-stpo)  
-* [§ 271a StPO](#271a-stpo)  
-* [§ 272 StPO](#272-stpo)
+* [§ 271 StPO](#-271-stpo)  
+* [§ 271a StPO](#-271a-stpo)  
+* [§ 272 StPO](#-272-stpo)
 
 **10. Vertagung der Hauptverhandlung**  
-* [§ 273 StPO](#273-stpo)  
-* [§ 274 StPO](#274-stpo)  
-* [§ 275 StPO](#275-stpo)  
-* [§ 276 StPO](#276-stpo)  
-* [§ 276a StPO](#276a-stpo)
+* [§ 273 StPO](#-273-stpo)  
+* [§ 274 StPO](#-274-stpo)  
+* [§ 275 StPO](#-275-stpo)  
+* [§ 276 StPO](#-276-stpo)  
+* [§ 276a StPO](#-276a-stpo)
 
 **11. Zwischenfälle**  
-* [§ 277 StPO](#277-stpo)  
-* [§ 278 StPO](#278-stpo)  
-* [§ 279 StPO](#279-stpo)
+* [§ 277 StPO](#-277-stpo)  
+* [§ 278 StPO](#-278-stpo)  
+* [§ 279 StPO](#-279-stpo)
 
 **II. Rechtsmittel gegen das Urteil**  
-* [§ 280 StPO](#280-stpo)  
-* [§ 281 StPO](#281-stpo)  
-* [§ 281a StPO](#281a-stpo)  
-* [§ 282 StPO](#282-stpo)  
-* [§ 283 StPO](#283-stpo)
+* [§ 280 StPO](#-280-stpo)  
+* [§ 281 StPO](#-281-stpo)  
+* [§ 281a StPO](#-281a-stpo)  
+* [§ 282 StPO](#-282-stpo)  
+* [§ 283 StPO](#-283-stpo)
 
 **1. Verfahren bei Nichtigkeitsbeschwerden**  
-* [§ 284 StPO](#284-stpo)  
-* [§ 285 StPO](#285-stpo)  
-* [§ 285a StPO](#285a-stpo)  
-* [§ 285b StPO](#285b-stpo)  
-* [§ 285c StPO](#285c-stpo)  
-* [§ 285d StPO](#285d-stpo)  
-* [§ 285e StPO](#285e-stpo)  
-* [§ 285f StPO](#285f-stpo)  
-* [§ 285g StPO](#285g-stpo)  
-* [§ 285h StPO](#285h-stpo)  
-* [§ 285i StPO](#285i-stpo)  
-* [§ 285j StPO](#285j-stpo)  
-* [§ 286 StPO](#286-stpo)  
-* [§ 287 StPO](#287-stpo)  
-* [§ 288 StPO](#288-stpo)  
-* [§ 288a StPO](#288a-stpo)  
-* [§ 289 StPO](#289-stpo)  
-* [§ 290 StPO](#290-stpo)  
-* [§ 291 StPO](#291-stpo)  
-* [§ 292 StPO](#292-stpo)  
-* [§ 293 StPO](#293-stpo)
+* [§ 284 StPO](#-284-stpo)  
+* [§ 285 StPO](#-285-stpo)  
+* [§ 285a StPO](#-285a-stpo)  
+* [§ 285b StPO](#-285b-stpo)  
+* [§ 285c StPO](#-285c-stpo)  
+* [§ 285d StPO](#-285d-stpo)  
+* [§ 285e StPO](#-285e-stpo)  
+* [§ 285f StPO](#-285f-stpo)  
+* [§ 285g StPO](#-285g-stpo)  
+* [§ 285h StPO](#-285h-stpo)  
+* [§ 285i StPO](#-285i-stpo)  
+* [§ 285j StPO](#-285j-stpo)  
+* [§ 286 StPO](#-286-stpo)  
+* [§ 287 StPO](#-287-stpo)  
+* [§ 288 StPO](#-288-stpo)  
+* [§ 288a StPO](#-288a-stpo)  
+* [§ 289 StPO](#-289-stpo)  
+* [§ 290 StPO](#-290-stpo)  
+* [§ 291 StPO](#-291-stpo)  
+* [§ 292 StPO](#-292-stpo)  
+* [§ 293 StPO](#-293-stpo)
 
 **2. Verfahren bei Berufungen**  
-* [§ 294 StPO](#294-stpo)  
-* [§ 295 StPO](#295-stpo)  
-* [§ 296 StPO](#296-stpo)
+* [§ 294 StPO](#-294-stpo)  
+* [§ 295 StPO](#-295-stpo)  
+* [§ 296 StPO](#-296-stpo)
 
 **3. Gemeinsame Bestimmung**  
-* [§ 296a StPO](#296a-stpo)
+* [§ 296a StPO](#-296a-stpo)
 
 **5. TEIL**  
 **Besondere Verfahren**  
 **15. Hauptstück**  
 **Hauptverhandlung vor dem Landesgericht als Geschworenengericht und Rechtsmittel gegen dessen Urteile**  
 **I. Allgemeine Bestimmungen**  
-* [§ 297 StPO](#297-stpo)  
-* [§ 298 StPO](#298-stpo)  
-* [§ 299 StPO](#299-stpo)  
-* [§ 301 StPO](#301-stpo)
+* [§ 297 StPO](#-297-stpo)  
+* [§ 298 StPO](#-298-stpo)  
+* [§ 299 StPO](#-299-stpo)  
+* [§ 301 StPO](#-301-stpo)
 
 **II. Hauptverhandlung vor dem Geschworenengerichte**  
 **1. Allgemeine Bestimmungen**  
-* [§ 302 StPO](#302-stpo)  
-* [§ 303 StPO](#303-stpo)
+* [§ 302 StPO](#-302-stpo)  
+* [§ 303 StPO](#-303-stpo)
 
 **2. Beginn der Hauptverhandlung**  
-* [§ 304 StPO](#304-stpo)  
-* [§ 305 StPO](#305-stpo)
+* [§ 304 StPO](#-304-stpo)  
+* [§ 305 StPO](#-305-stpo)
 
 **3. Beweisverfahren**  
-* [§ 306 StPO](#306-stpo)  
-* [§ 308 StPO](#308-stpo)  
-* [§ 309 StPO](#309-stpo)
+* [§ 306 StPO](#-306-stpo)  
+* [§ 308 StPO](#-308-stpo)  
+* [§ 309 StPO](#-309-stpo)
 
 **4. Fragestellung an die Geschworenen**  
-* [§ 310 StPO](#310-stpo)  
-* [§ 311 StPO](#311-stpo)  
-* [§ 312 StPO](#312-stpo)  
-* [§ 313 StPO](#313-stpo)  
-* [§ 314 StPO](#314-stpo)  
-* [§ 315 StPO](#315-stpo)  
-* [§ 316 StPO](#316-stpo)  
-* [§ 317 StPO](#317-stpo)
+* [§ 310 StPO](#-310-stpo)  
+* [§ 311 StPO](#-311-stpo)  
+* [§ 312 StPO](#-312-stpo)  
+* [§ 313 StPO](#-313-stpo)  
+* [§ 314 StPO](#-314-stpo)  
+* [§ 315 StPO](#-315-stpo)  
+* [§ 316 StPO](#-316-stpo)  
+* [§ 317 StPO](#-317-stpo)
 
 **5. Vorträge der Parteien; Schluß der Verhandlung**  
-* [§ 318 StPO](#318-stpo)  
-* [§ 319 StPO](#319-stpo)
+* [§ 318 StPO](#-318-stpo)  
+* [§ 319 StPO](#-319-stpo)
 
 **6. Wahl des Obmannes der Geschworenen; Rechtsbelehrung durch den Vorsitzenden**  
-* [§ 320 StPO](#320-stpo)  
-* [§ 321 StPO](#321-stpo)  
-* [§ 322 StPO](#322-stpo)  
-* [§ 323 StPO](#323-stpo)
+* [§ 320 StPO](#-320-stpo)  
+* [§ 321 StPO](#-321-stpo)  
+* [§ 322 StPO](#-322-stpo)  
+* [§ 323 StPO](#-323-stpo)
 
 **7. Beratung und Abstimmung der Geschworenen**  
-* [§ 324 StPO](#324-stpo)  
-* [§ 325 StPO](#325-stpo)  
-* [§ 326 StPO](#326-stpo)  
-* [§ 327 StPO](#327-stpo)  
-* [§ 328 StPO](#328-stpo)  
-* [§ 329 StPO](#329-stpo)  
-* [§ 330 StPO](#330-stpo)  
-* [§ 331 StPO](#331-stpo)
+* [§ 324 StPO](#-324-stpo)  
+* [§ 325 StPO](#-325-stpo)  
+* [§ 326 StPO](#-326-stpo)  
+* [§ 327 StPO](#-327-stpo)  
+* [§ 328 StPO](#-328-stpo)  
+* [§ 329 StPO](#-329-stpo)  
+* [§ 330 StPO](#-330-stpo)  
+* [§ 331 StPO](#-331-stpo)
 
 **8. Verbesserung des Wahrspruches der Geschworenen**  
-* [§ 332 StPO](#332-stpo)  
-* [§ 333 StPO](#333-stpo)
+* [§ 332 StPO](#-332-stpo)  
+* [§ 333 StPO](#-333-stpo)
 
 **9. Weiteres Verfahren bis zur gemeinsamen Beratung über die Strafe**  
-* [§ 334 StPO](#334-stpo)  
-* [§ 335 StPO](#335-stpo)  
-* [§ 336 StPO](#336-stpo)  
-* [§ 337 StPO](#337-stpo)
+* [§ 334 StPO](#-334-stpo)  
+* [§ 335 StPO](#-335-stpo)  
+* [§ 336 StPO](#-336-stpo)  
+* [§ 337 StPO](#-337-stpo)
 
 **10. Gemeinsame Beratung über die Strafe**  
-* [§ 338 StPO](#338-stpo)  
-* [§ 339 StPO](#339-stpo)
+* [§ 338 StPO](#-338-stpo)  
+* [§ 339 StPO](#-339-stpo)
 
 **11. Verkündung des Wahrspruches und des Urteiles**  
-* [§ 340 StPO](#340-stpo)  
-* [§ 341 StPO](#341-stpo)
+* [§ 340 StPO](#-340-stpo)  
+* [§ 341 StPO](#-341-stpo)
 
 **12. Ausfertigung des Urteiles, Protokollführung**  
-* [§ 342 StPO](#342-stpo)  
-* [§ 343 StPO](#343-stpo)
+* [§ 342 StPO](#-342-stpo)  
+* [§ 343 StPO](#-343-stpo)
 
 **III. Rechtsmittel gegen Urteile der Geschworenengerichte**  
-* [§ 344 StPO](#344-stpo)  
-* [§ 345 StPO](#345-stpo)  
-* [§ 346 StPO](#346-stpo)  
-* [§ 348 StPO](#348-stpo)  
-* [§ 349 StPO](#349-stpo)  
-* [§ 350 StPO](#350-stpo)  
-* [§ 351 StPO](#351-stpo)
+* [§ 344 StPO](#-344-stpo)  
+* [§ 345 StPO](#-345-stpo)  
+* [§ 346 StPO](#-346-stpo)  
+* [§ 348 StPO](#-348-stpo)  
+* [§ 349 StPO](#-349-stpo)  
+* [§ 350 StPO](#-350-stpo)  
+* [§ 351 StPO](#-351-stpo)
 
 **16. Hauptstück**  
 **Wiederaufnahme und Erneuerung des Strafverfahrens sowie Wiedereinsetzung in den vorigen Stand**  
 **I. Wiederaufnahme des Verfahrens**  
-* [§ 352 StPO](#352-stpo)  
-* [§ 353 StPO](#353-stpo)  
-* [§ 354 StPO](#354-stpo)  
-* [§ 355 StPO](#355-stpo)  
-* [§ 356 StPO](#356-stpo)  
-* [§ 357 StPO](#357-stpo)  
-* [§ 358 StPO](#358-stpo)  
-* [§ 360 StPO](#360-stpo)  
-* [§ 362 StPO](#362-stpo)  
-* [§ 363 StPO](#363-stpo)
+* [§ 352 StPO](#-352-stpo)  
+* [§ 353 StPO](#-353-stpo)  
+* [§ 354 StPO](#-354-stpo)  
+* [§ 355 StPO](#-355-stpo)  
+* [§ 356 StPO](#-356-stpo)  
+* [§ 357 StPO](#-357-stpo)  
+* [§ 358 StPO](#-358-stpo)  
+* [§ 360 StPO](#-360-stpo)  
+* [§ 362 StPO](#-362-stpo)  
+* [§ 363 StPO](#-363-stpo)
 
 **II. Erneuerung des Strafverfahrens**  
-* [§ 363a StPO](#363a-stpo)  
-* [§ 363b StPO](#363b-stpo)  
-* [§ 363c StPO](#363c-stpo)
+* [§ 363a StPO](#-363a-stpo)  
+* [§ 363b StPO](#-363b-stpo)  
+* [§ 363c StPO](#-363c-stpo)
 
 **III. Wiedereinsetzung in den vorigen Stand**  
-* [§ 364 StPO](#364-stpo)
+* [§ 364 StPO](#-364-stpo)
 
 **17. Hauptstück**  
 **Verfahren über privatrechtliche Ansprüche**  
-* [§ 365 StPO](#365-stpo)  
-* [§ 366 StPO](#366-stpo)  
-* [§ 367 StPO](#367-stpo)  
-* [§ 368 StPO](#368-stpo)  
-* [§ 369 StPO](#369-stpo)  
-* [§ 370 StPO](#370-stpo)  
-* [§ 371 StPO](#371-stpo)  
-* [§ 372 StPO](#372-stpo)  
-* [§ 373 StPO](#373-stpo)  
-* [§ 373a StPO](#373a-stpo)  
-* [§ 373b StPO](#373b-stpo)  
-* [§ 374 StPO](#374-stpo)  
-* [§ 375 StPO](#375-stpo)  
-* [§ 376 StPO](#376-stpo)  
-* [§ 377 StPO](#377-stpo)  
-* [§ 378 StPO](#378-stpo)  
-* [§ 379 StPO](#379-stpo)
+* [§ 365 StPO](#-365-stpo)  
+* [§ 366 StPO](#-366-stpo)  
+* [§ 367 StPO](#-367-stpo)  
+* [§ 368 StPO](#-368-stpo)  
+* [§ 369 StPO](#-369-stpo)  
+* [§ 370 StPO](#-370-stpo)  
+* [§ 371 StPO](#-371-stpo)  
+* [§ 372 StPO](#-372-stpo)  
+* [§ 373 StPO](#-373-stpo)  
+* [§ 373a StPO](#-373a-stpo)  
+* [§ 373b StPO](#-373b-stpo)  
+* [§ 374 StPO](#-374-stpo)  
+* [§ 375 StPO](#-375-stpo)  
+* [§ 376 StPO](#-376-stpo)  
+* [§ 377 StPO](#-377-stpo)  
+* [§ 378 StPO](#-378-stpo)  
+* [§ 379 StPO](#-379-stpo)
 
 **18. Hauptstück**  
 **Kosten des Strafverfahrens**  
-* [§ 380 StPO](#380-stpo)  
-* [§ 381 StPO](#381-stpo)  
-* [§ 382 StPO](#382-stpo)  
-* [§ 383 StPO](#383-stpo)  
-* [§ 384 StPO](#384-stpo)  
-* [§ 385 StPO](#385-stpo)  
-* [§ 386 StPO](#386-stpo)  
-* [§ 387 StPO](#387-stpo)  
-* [§ 388 StPO](#388-stpo)  
-* [§ 389 StPO](#389-stpo)  
-* [§ 390 StPO](#390-stpo)  
-* [§ 390a StPO](#390a-stpo)  
-* [§ 391 StPO](#391-stpo)  
-* [§ 393 StPO](#393-stpo)  
-* [§ 393a StPO — Beitrag zu den Kosten der Verteidigung](#393a-stpo--beitrag-zu-den-kosten-der-verteidigung)  
-* [§ 394 StPO](#394-stpo)  
-* [§ 395 StPO](#395-stpo)
+* [§ 380 StPO](#-380-stpo)  
+* [§ 381 StPO](#-381-stpo)  
+* [§ 382 StPO](#-382-stpo)  
+* [§ 383 StPO](#-383-stpo)  
+* [§ 384 StPO](#-384-stpo)  
+* [§ 385 StPO](#-385-stpo)  
+* [§ 386 StPO](#-386-stpo)  
+* [§ 387 StPO](#-387-stpo)  
+* [§ 388 StPO](#-388-stpo)  
+* [§ 389 StPO](#-389-stpo)  
+* [§ 390 StPO](#-390-stpo)  
+* [§ 390a StPO](#-390a-stpo)  
+* [§ 391 StPO](#-391-stpo)  
+* [§ 393 StPO](#-393-stpo)  
+* [§ 393a StPO — Beitrag zu den Kosten der Verteidigung](#-393a-stpo--beitrag-zu-den-kosten-der-verteidigung)  
+* [§ 394 StPO](#-394-stpo)  
+* [§ 395 StPO](#-395-stpo)
 
 **19. Hauptstück**  
 **Vollstreckung der Urteile**  
-* [§ 396 StPO](#396-stpo)  
-* [§ 397 StPO](#397-stpo)  
-* [§ 398 StPO](#398-stpo)  
-* [§ 399 StPO](#399-stpo)  
-* [§ 400 StPO](#400-stpo)  
-* [§ 401 StPO](#401-stpo)  
-* [§ 401a StPO](#401a-stpo)  
-* [§ 402 StPO](#402-stpo)  
-* [§ 403 StPO](#403-stpo)  
-* [§ 404 StPO](#404-stpo)  
-* [§ 405 StPO](#405-stpo)  
-* [§ 406 StPO](#406-stpo)  
-* [§ 407 StPO](#407-stpo)  
-* [§ 408 StPO](#408-stpo)  
-* [§ 409 StPO](#409-stpo)  
-* [§ 409a StPO](#409a-stpo)  
-* [§ 409b StPO](#409b-stpo)  
-* [§ 410 StPO](#410-stpo)  
-* [§ 411 StPO](#411-stpo)
+* [§ 396 StPO](#-396-stpo)  
+* [§ 397 StPO](#-397-stpo)  
+* [§ 398 StPO](#-398-stpo)  
+* [§ 399 StPO](#-399-stpo)  
+* [§ 400 StPO](#-400-stpo)  
+* [§ 401 StPO](#-401-stpo)  
+* [§ 401a StPO](#-401a-stpo)  
+* [§ 402 StPO](#-402-stpo)  
+* [§ 403 StPO](#-403-stpo)  
+* [§ 404 StPO](#-404-stpo)  
+* [§ 405 StPO](#-405-stpo)  
+* [§ 406 StPO](#-406-stpo)  
+* [§ 407 StPO](#-407-stpo)  
+* [§ 408 StPO](#-408-stpo)  
+* [§ 409 StPO](#-409-stpo)  
+* [§ 409a StPO](#-409a-stpo)  
+* [§ 409b StPO](#-409b-stpo)  
+* [§ 410 StPO](#-410-stpo)  
+* [§ 411 StPO](#-411-stpo)
 
 **20. Hauptstück**  
 **Verfahren gegen Abwesende**  
-* [§ 412 StPO](#412-stpo)  
-* [§ 427 StPO — Abwesenheitsverfahren](#427-stpo--abwesenheitsverfahren)  
-* [§ 428 StPO](#428-stpo)
+* [§ 412 StPO](#-412-stpo)  
+* [§ 427 StPO — Abwesenheitsverfahren](#-427-stpo--abwesenheitsverfahren)  
+* [§ 428 StPO](#-428-stpo)
 
 **21. Hauptstück**  
 **Verfahren bei vorbeugenden Maßnahmen und beim Verfall, beim erweiterten Verfall, bei der Einziehung und bei der Ausschließung vom Wahlrecht**  
 **1. Abschnitt**  
 **Verfahren zur Unterbringung in einem forensisch-therapeutischen Zentrum nach § 21 StGB**  
-* [§ 429 StPO — Verfahren zur Unterbringung](#429-stpo--verfahren-zur-unterbringung)  
-* [§ 430 StPO — Besonderheiten des Verfahrens](#430-stpo--besonderheiten-des-verfahrens)  
-* [§ 431 StPO — Vorläufige Unterbringung](#431-stpo--vorläufige-unterbringung)  
-* [§ 432 StPO — Ort der vorläufigen Unterbringung](#432-stpo--ort-der-vorläufigen-unterbringung)  
-* [§ 433 StPO — Vollzug der vorläufigen Unterbringung](#433-stpo--vollzug-der-vorläufigen-unterbringung)  
-* [§ 434 StPO — Antrag auf Unterbringung](#434-stpo--antrag-auf-unterbringung)  
-* [§ 434a StPO — Entscheidung durch Urteil](#434a-stpo--entscheidung-durch-urteil)  
-* [§ 434b StPO — Gleichwertigkeit von Anklage und Antrag auf Unterbringung](#434b-stpo--gleichwertigkeit-von-anklage-und-antrag-auf-unterbringung)  
-* [§ 434c StPO — Rechte des gesetzlichen Vertreters](#434c-stpo--rechte-des-gesetzlichen-vertreters)  
-* [§ 434d StPO — Besonderheiten der Hauptverhandlung](#434d-stpo--besonderheiten-der-hauptverhandlung)  
-* [§ 434e StPO — Verfahren vor dem Landesgericht als Geschworenengericht](#434e-stpo--verfahren-vor-dem-landesgericht-als-geschworenengericht)  
-* [§ 434f StPO — Rechtsmittel](#434f-stpo--rechtsmittel)  
-* [§ 434g StPO — Verfahren beim vorläufigen Absehen vom Vollzug der Unterbringung](#434g-stpo--verfahren-beim-vorläufigen-absehen-vom-vollzug-der-unterbringung)
+* [§ 429 StPO — Verfahren zur Unterbringung](#-429-stpo--verfahren-zur-unterbringung)  
+* [§ 430 StPO — Besonderheiten des Verfahrens](#-430-stpo--besonderheiten-des-verfahrens)  
+* [§ 431 StPO — Vorläufige Unterbringung](#-431-stpo--vorläufige-unterbringung)  
+* [§ 432 StPO — Ort der vorläufigen Unterbringung](#-432-stpo--ort-der-vorläufigen-unterbringung)  
+* [§ 433 StPO — Vollzug der vorläufigen Unterbringung](#-433-stpo--vollzug-der-vorläufigen-unterbringung)  
+* [§ 434 StPO — Antrag auf Unterbringung](#-434-stpo--antrag-auf-unterbringung)  
+* [§ 434a StPO — Entscheidung durch Urteil](#-434a-stpo--entscheidung-durch-urteil)  
+* [§ 434b StPO — Gleichwertigkeit von Anklage und Antrag auf Unterbringung](#-434b-stpo--gleichwertigkeit-von-anklage-und-antrag-auf-unterbringung)  
+* [§ 434c StPO — Rechte des gesetzlichen Vertreters](#-434c-stpo--rechte-des-gesetzlichen-vertreters)  
+* [§ 434d StPO — Besonderheiten der Hauptverhandlung](#-434d-stpo--besonderheiten-der-hauptverhandlung)  
+* [§ 434e StPO — Verfahren vor dem Landesgericht als Geschworenengericht](#-434e-stpo--verfahren-vor-dem-landesgericht-als-geschworenengericht)  
+* [§ 434f StPO — Rechtsmittel](#-434f-stpo--rechtsmittel)  
+* [§ 434g StPO — Verfahren beim vorläufigen Absehen vom Vollzug der Unterbringung](#-434g-stpo--verfahren-beim-vorläufigen-absehen-vom-vollzug-der-unterbringung)
 
 **2. Abschnitt**  
 **Verfahren zur Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 22 StGB oder in einer Anstalt für gefährliche Rückfallstäter nach § 23 StGB und zur Verhängung eines Tätigkeitsverbotes nach § 220b StGB**  
-* [§ 435 StPO](#435-stpo)  
-* [§ 437 StPO](#437-stpo)  
-* [§ 438 StPO](#438-stpo)  
-* [§ 439 StPO](#439-stpo)  
-* [§ 440 StPO](#440-stpo)  
-* [§ 441 StPO](#441-stpo)  
-* [§ 442 StPO](#442-stpo)
+* [§ 435 StPO](#-435-stpo)  
+* [§ 437 StPO](#-437-stpo)  
+* [§ 438 StPO](#-438-stpo)  
+* [§ 439 StPO](#-439-stpo)  
+* [§ 440 StPO](#-440-stpo)  
+* [§ 441 StPO](#-441-stpo)  
+* [§ 442 StPO](#-442-stpo)
 
 **3. Abschnitt**  
 **Verfahren beim Verfall, beim erweiterten Verfall und bei der Einziehung**  
-* [§ 443 StPO](#443-stpo)  
-* [§ 444 StPO](#444-stpo)  
-* [§ 445 StPO](#445-stpo)  
-* [§ 445a StPO](#445a-stpo)  
-* [§ 446 StPO](#446-stpo)
+* [§ 443 StPO](#-443-stpo)  
+* [§ 444 StPO](#-444-stpo)  
+* [§ 445 StPO](#-445-stpo)  
+* [§ 445a StPO](#-445a-stpo)  
+* [§ 446 StPO](#-446-stpo)
 
 **4. Abschnitt**  
 **Verfahren bei der Ausschließung vom Wahlrecht**  
-* [§ 446a StPO](#446a-stpo)
+* [§ 446a StPO](#-446a-stpo)
 
 **22. Hauptstück**  
 **Verfahren vor dem Bezirksgericht**  
-* [§ 447 StPO](#447-stpo)
+* [§ 447 StPO](#-447-stpo)
 
 **1. Abschnitt**  
 **Hauptverfahren**  
-* [§ 450 StPO](#450-stpo)  
-* [§ 451 StPO](#451-stpo)  
-* [§ 455 StPO](#455-stpo)  
-* [§ 456 StPO](#456-stpo)  
-* [§ 457 StPO](#457-stpo)  
-* [§ 458 StPO](#458-stpo)
+* [§ 450 StPO](#-450-stpo)  
+* [§ 451 StPO](#-451-stpo)  
+* [§ 455 StPO](#-455-stpo)  
+* [§ 456 StPO](#-456-stpo)  
+* [§ 457 StPO](#-457-stpo)  
+* [§ 458 StPO](#-458-stpo)
 
 **2. Abschnitt**  
-* [§ 463 StPO — Rechtsmittel gegen Urteile der Bezirksgerichte](#463-stpo--rechtsmittel-gegen-urteile-der-bezirksgerichte)  
-* [§ 464 StPO](#464-stpo)  
-* [§ 465 StPO](#465-stpo)  
-* [§ 466 StPO](#466-stpo)  
-* [§ 467 StPO](#467-stpo)  
-* [§ 468 StPO](#468-stpo)  
-* [§ 469 StPO](#469-stpo)  
-* [§ 470 StPO](#470-stpo)  
-* [§ 471 StPO](#471-stpo)  
-* [§ 473 StPO](#473-stpo)  
-* [§ 474 StPO](#474-stpo)  
-* [§ 475 StPO](#475-stpo)  
-* [§ 476 StPO](#476-stpo)  
-* [§ 478 StPO](#478-stpo)  
-* [§ 479 StPO](#479-stpo)  
-* [§ 480 StPO](#480-stpo)
+* [§ 463 StPO — Rechtsmittel gegen Urteile der Bezirksgerichte](#-463-stpo--rechtsmittel-gegen-urteile-der-bezirksgerichte)  
+* [§ 464 StPO](#-464-stpo)  
+* [§ 465 StPO](#-465-stpo)  
+* [§ 466 StPO](#-466-stpo)  
+* [§ 467 StPO](#-467-stpo)  
+* [§ 468 StPO](#-468-stpo)  
+* [§ 469 StPO](#-469-stpo)  
+* [§ 470 StPO](#-470-stpo)  
+* [§ 471 StPO](#-471-stpo)  
+* [§ 473 StPO](#-473-stpo)  
+* [§ 474 StPO](#-474-stpo)  
+* [§ 475 StPO](#-475-stpo)  
+* [§ 476 StPO](#-476-stpo)  
+* [§ 478 StPO](#-478-stpo)  
+* [§ 479 StPO](#-479-stpo)  
+* [§ 480 StPO](#-480-stpo)
 
 **23. Hauptstück**  
 **Verfahren vor dem Landesgericht als Einzelrichter**  
-* [§ 483 StPO](#483-stpo)  
-* [§ 484 StPO](#484-stpo)  
-* [§ 485 StPO](#485-stpo)  
-* [§ 488 StPO](#488-stpo)  
-* [§ 489 StPO](#489-stpo)  
-* [§ 490 StPO](#490-stpo)
+* [§ 483 StPO](#-483-stpo)  
+* [§ 484 StPO](#-484-stpo)  
+* [§ 485 StPO](#-485-stpo)  
+* [§ 488 StPO](#-488-stpo)  
+* [§ 489 StPO](#-489-stpo)  
+* [§ 490 StPO](#-490-stpo)
 
 **23a. Hauptstück**  
-* [§ 491 StPO — Mandatsverfahren](#491-stpo--mandatsverfahren)  
-* [§ 491a StPO](#491a-stpo)  
-* [§ 491b StPO](#491b-stpo)
+* [§ 491 StPO — Mandatsverfahren](#-491-stpo--mandatsverfahren)  
+* [§ 491a StPO](#-491a-stpo)  
+* [§ 491b StPO](#-491b-stpo)
 
 **24. Hauptstück**  
 **Verfahren bei bedingter Strafnachsicht, bedingter Nachsicht von vorbeugenden Maßnahmen, Erteilung von Weisungen und Anordnung der Bewährungshilfe**  
 **I. Bedingte Nachsicht einer Strafe, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher und einer Rechtsfolge**  
-* [§ 492 StPO](#492-stpo)  
-* [§ 493 StPO](#493-stpo)
+* [§ 492 StPO](#-492-stpo)  
+* [§ 493 StPO](#-493-stpo)
 
 **II. Erteilung von Weisungen und Anordnung der Bewährungshilfe**  
-* [§ 494 StPO](#494-stpo)
+* [§ 494 StPO](#-494-stpo)
 
 **III. Widerruf einer bedingten Nachsicht**  
-* [§ 494a StPO](#494a-stpo)  
-* [§ 494b StPO](#494b-stpo)  
-* [§ 495 StPO](#495-stpo)  
-* [§ 496 StPO](#496-stpo)
+* [§ 494a StPO](#-494a-stpo)  
+* [§ 494b StPO](#-494b-stpo)  
+* [§ 495 StPO](#-495-stpo)  
+* [§ 496 StPO](#-496-stpo)
 
 **IV. Endgültige Nachsicht**  
-* [§ 497 StPO](#497-stpo)
+* [§ 497 StPO](#-497-stpo)
 
 **V. Gemeinsame Bestimmungen**  
-* [§ 498 StPO](#498-stpo)
+* [§ 498 StPO](#-498-stpo)
 
 **25. Hauptstück**  
 **Ausübung der Strafgerichtsbarkeit über Soldaten im Frieden**  
-* [§ 499 StPO](#499-stpo)  
-* [§ 500 StPO](#500-stpo)  
-* [§ 501 StPO](#501-stpo)  
-* [§ 502 StPO](#502-stpo)  
-* [§ 503 StPO](#503-stpo)  
-* [§ 504 StPO](#504-stpo)  
-* [§ 505 StPO](#505-stpo)  
-* [§ 506 StPO](#506-stpo)
+* [§ 499 StPO](#-499-stpo)  
+* [§ 500 StPO](#-500-stpo)  
+* [§ 501 StPO](#-501-stpo)  
+* [§ 502 StPO](#-502-stpo)  
+* [§ 503 StPO](#-503-stpo)  
+* [§ 504 StPO](#-504-stpo)  
+* [§ 505 StPO](#-505-stpo)  
+* [§ 506 StPO](#-506-stpo)
 
 **26. Hauptstück**  
-* [§ 507 StPO — Gnadenverfahren](#507-stpo--gnadenverfahren)  
-* [§ 508 StPO](#508-stpo)  
-* [§ 509 StPO](#509-stpo)  
-* [§ 510 StPO](#510-stpo)  
-* [§ 511 StPO](#511-stpo)  
-* [§ 512 StPO](#512-stpo)  
-* [§ 513 StPO](#513-stpo)
+* [§ 507 StPO — Gnadenverfahren](#-507-stpo--gnadenverfahren)  
+* [§ 508 StPO](#-508-stpo)  
+* [§ 509 StPO](#-509-stpo)  
+* [§ 510 StPO](#-510-stpo)  
+* [§ 511 StPO](#-511-stpo)  
+* [§ 512 StPO](#-512-stpo)  
+* [§ 513 StPO](#-513-stpo)
 
 **6. TEIL**  
 **Schlussbestimmungen**  
-* [§ 514 StPO — In-Kraft-Treten](#514-stpo--in-kraft-treten)  
-* [§ 515 StPO — Verweisungen](#515-stpo--verweisungen)  
-* [§ 516 StPO — Übergangsbestimmungen](#516-stpo--übergangsbestimmungen)  
-* [§ 516a StPO — Umsetzung von Richtlinien der Europäischen Union](#516a-stpo--umsetzung-von-richtlinien-der-europäischen-union)  
-* [§ 517 StPO — Vollziehung](#517-stpo--vollziehung)
+* [§ 514 StPO — In-Kraft-Treten](#-514-stpo--in-kraft-treten)  
+* [§ 515 StPO — Verweisungen](#-515-stpo--verweisungen)  
+* [§ 516 StPO — Übergangsbestimmungen](#-516-stpo--übergangsbestimmungen)  
+* [§ 516a StPO — Umsetzung von Richtlinien der Europäischen Union](#-516a-stpo--umsetzung-von-richtlinien-der-europäischen-union)  
+* [§ 517 StPO — Vollziehung](#-517-stpo--vollziehung)
 
 Der Nationalrat hat beschlossen:
 
