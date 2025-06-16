@@ -33,6 +33,7 @@
 		"type": "BG",
 		"title": "VerG",
 		"extratitles": ["VerG_2002"],
+		"break": "",
 		"caption": "Vereinsgesetz (VerG)",
 		"promulgationsklausel": "Der Nationalrat hat beschlossen:",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917"

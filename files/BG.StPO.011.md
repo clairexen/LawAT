@@ -1,6 +1,6 @@
 # BG.StPO.011 — Strafprozeßordnung (StPO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ['StPO']  
+**Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
 **Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  

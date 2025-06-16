@@ -4,8 +4,8 @@
 
 import re, glob, fnmatch, requests
 import ptpython, inspect, traceback
-import time, sys, json, os, tempfile
-import unicodedata, urllib3
+import time, sys, json, os, tempfile, shutil
+import unicodedata, urllib3, types, pprint
 from types import SimpleNamespace
 from collections import namedtuple, defaultdict
 from urllib.parse import urljoin
@@ -72,12 +72,47 @@ def updateFlags(*opts):
 # ptpython and other debug helpers
 ##################################
 
-def pr(*args):
+from pprint import pp
+term_width = shutil.get_terminal_size().columns
+
+# Run `./RisExUtils.py render --prdemo BG.VerG` for a demo
+def pr(*args, indent_head="", indent_body="", indent_tail="", lvl=2):
+    next_indent_head = indent_head + " `- "
+    next_indent_body = indent_body + " |  "
+    next_indent_tail = indent_body + "    "
+    def handle_unroll(items, withLabels=False):
+        countdn = len(items)
+        for item in items:
+            countdn -= 1
+            label = ""
+            if withLabels:
+                label, item = item
+                label = label + ": "
+            this_head = next_indent_head + label
+            this_tail = next_indent_tail + " "*len(label)
+            this_body = next_indent_body + " "*len(label) if countdn else this_tail
+            pr(item, indent_head=this_head, indent_body=this_body, indent_tail=this_tail, lvl=lvl-1)
+    while args and args[-1] is ...:
+        args = args[:-1]
+        lvl += 2
     for arg in args:
-        if type(arg) is list:
-            pr(*arg)
+        if lvl > 0 and isinstance(arg, (list, dict, set, types.GeneratorType)):
+            print(indent_head + f"{type(arg)}:")
+            next_indent_head = indent_body + " `- "
+            if hasattr(arg, 'items'):
+                handle_unroll(list(arg.items()), True)
+            else:
+                handle_unroll(list(arg))
+            next_indent_head = indent_head + " `- "
+        elif isinstance(arg, str):
+            this_indent = indent_head + "# "
+            for line in arg.split("\n"):
+                print(indent_head + "# " + ("\n" + indent_body + "  ").
+                        join(foldSoftPreserve(line, term_width-len(indent_head)+2-5)))
         else:
-            print(arg)
+            s = pprint.pformat(arg, indent=2, width=(term_width-len(indent_head)-5), compact=True, sort_dicts=False)
+            s = indent_head + s.replace("\n", "\n"+indent_body)
+            print(s)
 
 def ptpy_configure(repl):
     if False:
@@ -113,27 +148,27 @@ def downloadFile(file, url, par):
     response.raise_for_status()
     open(f"files/{file}", "wb").write(response.content)
 
+def foldSoftPreserve(s, width=80):
+    out, start, last_space = [], 0, -1
+    for i, c in enumerate(s):
+        if c == ' ': last_space = i
+        if i - start >= width:
+            if last_space > start:
+                out.append(s[start:last_space + 1])
+                start = last_space + 1
+            else:
+                out.append(s[start:i])
+                start = i
+            last_space = -1
+    if start < len(s):
+        out.append(s[start:])
+    return out
+
 # Python version of prettyJSON() from RisExtractor.js
 def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
-    def fold_soft_preserve(s, width=80):
-        out, start, last_space = [], 0, -1
-        for i, c in enumerate(s):
-            if c == ' ': last_space = i
-            if i - start >= width:
-                if last_space > start:
-                    out.append(s[start:last_space + 1])
-                    start = last_space + 1
-                else:
-                    out.append(s[start:i])
-                    start = i
-                last_space = -1
-        if start < len(s):
-            out.append(s[start:])
-        return out
-
     if autofold and isinstance(data, str) and len(data) > 80:
         return ',\n'.join(indent + json.dumps(line, separators=",:", ensure_ascii=False)
-                for line in fold_soft_preserve(data))
+                for line in foldSoftPreserve(data))
 
     if not isinstance(data, list) or not data or \
             (autofold and len(json.dumps(data, separators=",:", ensure_ascii=False)) < 80):
@@ -714,6 +749,7 @@ def cli_fetch(*args):
     stopPlaywright()
 
 def cli_render(*args):
+    addFlag("prdemo", False)
     args = updateFlags(*args)
 
     if not len(args):
@@ -735,6 +771,12 @@ def cli_render(*args):
                 for line in engine.genFile(i): print(line, file=f)
 
         print()
+
+        if flags.prdemo:
+            pr({"hello_world": engine.parts, "foo": {"first": engine.sections,
+                    "second": engine.lines[100:109]}}, ...)
+            sys.exit(0)
+
         embed()
 
     print("DONE.")

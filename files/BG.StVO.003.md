@@ -1,6 +1,6 @@
 # BG.StVO.003 — Straßenverkehrsordnung (StVO)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ['StVO']  
+**Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
 **Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  

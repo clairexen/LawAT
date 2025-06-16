@@ -1,6 +1,6 @@
 # BG.AVG.004 — Allgemeines Verwaltungsverfahrensgesetz (AVG)
 **Typ:** Bundesgesetz  
-**Kurztitel:** ['AVG']  
+**Kurztitel:** AVG  
 **Langtitel:** Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG  
 **Gesamte Rechtsvorschrift in der Fassung vom:** 15.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
