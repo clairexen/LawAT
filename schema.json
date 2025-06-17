@@ -4,53 +4,52 @@
   "type": "array",
   "minItems": 1,
   "prefixItems": [{ "type": "string", "pattern": "^RisDoc " }],
-  "additionalItems": { "anyOf": [
+  "items": { "anyOf": [
     { "$ref": "#/$defs/Meta" },
     { "$ref": "#/$defs/Par" }
   ]},
   "$defs": {
     "Meta": {
-      "type": "array",
-      "minItems": 2, "maxItems": 2,
-      "prefixItems": [
-      	{ "type": "string", "pattern": "^Meta " },
-      	{ "type": "string" }
-      ]
+      "type": "array", "minItems": 1,
+      "prefixItems": [{ "type": "string", "pattern": "^Meta " }],
+      "items": { "type": "string" }
     },
     "Par": {
-      "type": "array",
-      "minItems": 1,
+      "type": "array", "minItems": 1,
       "prefixItems": [{ "type": "string", "pattern": "^Par " }],
-      "additionalItems": { "anyOf": [
+      "items": { "anyOf": [
         { "$ref": "#/$defs/Head" },
         { "$ref": "#/$defs/Title" },
         { "$ref": "#/$defs/Text" },
+        { "$ref": "#/$defs/Break" },
         { "$ref": "#/$defs/List" },
         { "$ref": "#/$defs/Media" },
         { "$ref": "#/$defs/SubHdr" }
       ]}
     },
     "Head": {
-      "type": "array",
-      "minItems": 2, "maxItems": 2,
+      "type": "array", "minItems": 2, "maxItems": 2,
       "prefixItems": [
       	{ "type": "string", "pattern": "^Head( |$)" },
       	{ "type": "string" }
       ]
     },
     "Title": {
-      "type": "array",
-      "minItems": 2, "maxItems": 2,
+      "type": "array", "minItems": 2, "maxItems": 2,
       "prefixItems": [
       	{ "type": "string", "pattern": "^Title( |$)" },
       	{ "type": "string" }
       ]
     },
+    "Break": {
+      "type": "array", "minItems": 1, "maxItems": 1,
+      "pattern": "^Break$"
+    },
     "Text": {
       "type": "array",
       "minItems": 1,
       "prefixItems": [{ "type": "string", "pattern": "^Text( |$)" }],
-      "additionalItems": { "anyOf": [
+      "items": { "anyOf": [
         { "type": "string" },
         { "$ref": "#/$defs/Anm" }
       ]}
@@ -59,7 +58,7 @@
       "type": "array",
       "minItems": 1,
       "prefixItems": [{ "type": "string", "pattern": "^Anm$" }],
-      "additionalItems": {
+      "items": {
         "type": "string"
       }
     },
@@ -67,7 +66,7 @@
       "type": "array",
       "minItems": 1,
       "prefixItems": [{ "type": "string", "pattern": "^List( |$)" }],
-      "additionalItems": { "anyOf": [
+      "items": { "anyOf": [
         { "$ref": "#/$defs/Item" },
         { "$ref": "#/$defs/Text" }
       ]}
@@ -76,8 +75,9 @@
       "type": "array",
       "minItems": 1,
       "prefixItems": [{ "type": "string", "pattern": "^Item( |$)" }],
-      "additionalItems": { "anyOf": [
+      "items": { "anyOf": [
         { "$ref": "#/$defs/Text" },
+        { "$ref": "#/$defs/Break" },
         { "$ref": "#/$defs/List" },
         { "$ref": "#/$defs/Media" }
       ]}
@@ -86,7 +86,7 @@
       "type": "array",
       "minItems": 1,
       "prefixItems": [{ "type": "string", "pattern": "^Media$" }],
-      "additionalItems": { "anyOf": [
+      "items": { "anyOf": [
         { "$ref": "#/$defs/Text" },
         { "$ref": "#/$defs/Img" }
       ]}
