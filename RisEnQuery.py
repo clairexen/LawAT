@@ -2,13 +2,17 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
+def welcome():
+    print(
 """
-# RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
-# Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
+---------------------
+Welcome to RisEnQuery
+---------------------
 
 Use with `from RisEnQuery import *`.
+Run `welcome()` to print this message.
 Run `intro()` for an introduction
-"""
+""")
 
 _rex_src, _rex_repcnt = None, 0
 #/#_rex_src, _rex_repcnt = "RisExFiles.zip", 1 # replace(count=1)
@@ -167,23 +171,18 @@ Zweck:
 ------
 RisEnQuery.py ermöglicht den Zugriff auf Gesetzesdateien im ZIP-Archiv "RisExFiles.zip". Es erlaubt strukturierte Suchen in Inhaltsverzeichnissen (.index.json) und den Abruf von Gesetzestexten (.md).
 
-Funktionen:
------------
+Die Wichtigsten Funktionen:
+---------------------------
+
 - intro():
-  → Gibt diesen Einführungstext zurück.
+  → Gibt diesen Einführungstext aus.
+
+- sel(*p):
+  → Selektiert die Liste der Normen die bei ls(), toc(), get(), und s() verwendet werden
+     wenn normPat den Wert None hat. (Reset mit sel() ohne argumente.)
 
 - ls(normPat=None):
   → Gibt eine Liste aller (matchender) Normen im Archiv zurück.
-
-- fetch(filename):
-  → Lädt eine Datei (Text oder JSON) aus dem Archiv. Ergebnisse werden im Cache gespeichert.
-
-- pat(pattern):
-  → Erstellt ein Regex-Objekt aus einem Shell-Muster, Fix-String (=) oder RegEx (/).
-
-- sel(*p):
-  → Selektiert die Liste der Normen die bei toc(), get(), und s() verwendet werden
-     wenn normPat den Wert None hat. (Reset mit sel() ohne argumente.)
 
 - toc(searchPat, normPat=None):
   → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
@@ -193,12 +192,12 @@ Funktionen:
 - s(searchPat, normPat=None):
   → Ähnlich toc(), aber gibt ein set von fetch keys zurück.
 
-- get(searchPat, normPat=None):
+- q(searchPat, normPat=None):
   → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Zitiert die gefundenden Paragraphen vollständig.
 
 - g(searchPat, normPat=None):
-  → Ein Alias für p(get(...))
+  → Ein Alias für p(q(...))
 
 - grep(grepPat, data):
   → Durchsucht die string(s) im zweiten Argument nach dem pattern.
@@ -222,11 +221,13 @@ Funktionen:
 
 WICHTIG:
 --------
-Immer zuerst die Datenbank (RisEnQuery.py und RisExFiles.zip) befragen, bevor internes Wissen verwendet wird.
-Normbegriffe können ähnlich, aber unterschiedlich zwischen Ländern oder Paragrafen sein.
-Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem Recht korrekt zitiert wird.
+Speziell an AI-Agents: Immer zuerst die Datenbank (RisEnQuery.py und
+RisExFiles.zip) befragen, bevor internes Wissen verwendet wird!  Normbegriffe
+können ähnlich, aber unterschiedlich zwischen Ländern oder Paragrafen sein.
+Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem
+Recht korrekt zitiert wird.
 
-Merksatz: "Immer zuerst toc() oder get() – nie raten!"
+Merksatz: "Immer zuerst toc() oder gleich q() oder p() – nie raten!"
 """.split("\n")
 
 import json, os, sys, re, fnmatch
@@ -771,6 +772,11 @@ def pr(*args, indent_head="", indent_body="", indent_tail="", depth=1):
             s = pprint.pformat(arg, indent=2, width=(term_width-len(indent_head)-5), compact=True, sort_dicts=False)
             s = indent_head + s.replace("\n", "\n"+indent_body)
             print(s)
+
+if "RisEnQuery_Do_Print_Welcome_Message" in os.environ:
+    if os.environ["RisEnQuery_Do_Print_Welcome_Message"]:
+        welcome()
+    del os.environ["RisEnQuery_Do_Print_Welcome_Message"]
 
 if __name__ == "__main__" and len(sys.argv) > 1 and _rex_repcnt == 0:
     if sys.argv[1] == "intro":

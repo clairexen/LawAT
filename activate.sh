@@ -6,7 +6,9 @@
 source .venv/bin/activate
 eval "$(declare -f deactivate | sed 's/^deactivate/_rex_venv_deactivate/')"
 rex() { ( cd "${VIRTUAL_ENV}/.." && .venv/bin/python3 -m RisExUtils "$@"; ); }
-risen() { ( cd "${VIRTUAL_ENV}/.." && .venv/bin/ptipython -i RisEnQuery.py "$@"; ); }
+risen() { local iopt="-i"; [ $# -gt 0 ] && iopt=""; \
+		( cd "${VIRTUAL_ENV}/.." && RisEnQuery_Do_Print_Welcome_Message="$iopt" \
+		.venv/bin/ptipython $iopt RisEnQuery.py "$@"; ); }
 deactivate() {
 	unset -f rex
 	unset -f risen
