@@ -37,7 +37,7 @@ Formatbeschreibung (zipped) Markdown+JSON-Datensätze in RisExFiles.zip
 - Paragraph ohne Absätze: "`§ <nr> StGB.`␣␣\n<text>" (Markdown "quoted code", 2x space + newline)
 - Bzw. für jeden Absatz: "`§ <nr> (<abs>) StGB.`␣␣\n<text>" (Markdown "quoted code", 2x space + newline)
 - Unterpunkte: "`§ <nr> (<abs>) Z <Z> lit. <lit> StGB.`\n<text>" (ohne 2x space)
-- TOC (`.toc.json`) referenziert exakt die Zeilennummern der Überschriften im Markdown
+- TOC (`.index.json`) referenziert exakt die Zeilennummern der Überschriften im Markdown
 - Trennung der Paragraphen durch nächste "### §"-Zeile oder "## "-Heading oder Dateiende
 - Unicode-Zeichen (ä, ß, etc.) und geschützte Leerzeichen (\xa0) möglich
 
@@ -163,7 +163,7 @@ eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfrem
 
 Zweck:
 ------
-RisEnQuery.py ermöglicht den Zugriff auf Gesetzesdateien im ZIP-Archiv "RisExFiles.zip". Es erlaubt strukturierte Suchen in Inhaltsverzeichnissen (.toc.json) und den Abruf von Gesetzestexten (.md).
+RisEnQuery.py ermöglicht den Zugriff auf Gesetzesdateien im ZIP-Archiv "RisExFiles.zip". Es erlaubt strukturierte Suchen in Inhaltsverzeichnissen (.index.json) und den Abruf von Gesetzestexten (.md).
 
 Funktionen:
 -----------
@@ -184,12 +184,12 @@ Funktionen:
      wenn normPat den Wert None hat. (Reset mit sel() ohne argumente.)
 
 - toc(searchPat, normPat=None):
-  → Durchsucht .toc.json-Dateien nach Überschriften, die dem Muster entsprechen.
+  → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Gibt eine liste der gefundenden Überschriften zurück.  WICHTIG: Die Dateinamen
      beginnen mit dem Typ des Gesetzes. Also zB "BG.StGB", nicht nur "StGB".
 
 - get(searchPat, normPat=None):
-  → Durchsucht .toc.json-Dateien nach Überschriften, die dem Muster entsprechen.
+  → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Zitiert die gefundenden Paragraphen vollständig.
 
 - find(searchPat, normPat=None):
@@ -434,12 +434,12 @@ def sel(*p):
 
 def toc(searchPat: str, normPat: str = None):
     """
-        Search for searchPat in the tables-of-contents .toc.json
+        Search for searchPat in the tables-of-contents .index.json
         files selected by normPat, or all toc files when normPat
         is None.
 
         If normPat is specified, it may apply to the part of the
-        TOC JSON filename without the .toc.json suffix or any of
+        TOC JSON filename without the .index.json suffix or any of
         the files that belong to a norm.
 
         See pat() for details on the pattern syntax.
@@ -464,18 +464,20 @@ def toc(searchPat: str, normPat: str = None):
         normList = ls()
 
     for norm in normList:
-        for tf, items in fetch(f"{norm}.toc.json").items():
-            for i in range(len(items)-1):
-                n, m = items[i][0], items[i+1][0]-1
-                key = f"{tf}:{n}-{m}"
-                if setMode:
-                    if key in searchPat:
-                        matches.append((items[i][1], key))
-                elif fullTextMode:
-                    if searchPat.search(fetch(key)):
-                        matches.append((items[i][1], key))
-                elif searchPat.search(items[i][1]):
-                    matches.append((items[i][1], key))
+        for par, dat in fetch(f"{norm}.index.json").items():
+            if isinstance(dat, str):
+                continue
+            key = (norm,par) + tuple(dat)
+            print(key)
+            ref, _, txt = dat
+            if setMode:
+                if key in searchPat:
+                    matches.append(key)
+            elif fullTextMode:
+                if searchPat.search(fetch(ref)):
+                    matches.append(key)
+            elif searchPat.search(txt):
+                matches.append(key)
 
     return matches
 

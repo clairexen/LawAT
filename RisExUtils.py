@@ -543,7 +543,7 @@ class RisDocMarkdownEngine:
                         self.largeBreak()
                         self.push(f"## {renderText(item, plain=True)}")
                     if self.addIndexHdrs:
-                        self.idxout[len(self.idxout)] = renderText(item, plain=True)
+                        self.idxout[f"{len(self.idxout):03}"] = renderText(item, plain=True)
                 case "Title":
                     assert parTitle is not None
                     t = renderText(item, plain=True)
