@@ -265,13 +265,14 @@ _rex_print_f = print
 _rex_trace_f = lambda*args,**kwargs: print(*args, **kwargs, file=sys.stderr) if _rex_trace else None
 
 def _rex_capture(fun):
-    capture_buffer = []
-    def capture_print_f(*args, sep=' ', end='\n', file=None, flush=False):
-        capture_buffer.append(sep.join(str(a) for a in args) + end)
-        return print(*args, sep=sep, end=end, file=file, flush=flush)
-
     global _rex_print_f
     old_rex_print_f = _rex_print_f
+    capture_buffer = []
+
+    def capture_print_f(*args, sep=' ', end='\n', file=None, flush=False):
+        capture_buffer.append(sep.join(str(a) for a in args) + end)
+        return old_rex_print_f(*args, sep=sep, end=end, file=file, flush=flush)
+
     _rex_print_f = capture_print_f
     fun()
     _rex_print_f = old_rex_print_f
@@ -720,6 +721,56 @@ def v(*a):
         Console().print(Markdown(s))
 
     Heading.__rich_console__ = original__rich_console__
+
+def pp(*args, **kwargs):
+    """
+        A thin wrapper for pprint.pp()
+    """
+    import pprint, shutil
+    term_width = shutil.get_terminal_size().columns
+    pprint.pp(*args, width=term_width, **kwargs)
+
+def pr(*args, indent_head="", indent_body="", indent_tail="", depth=1):
+    """
+        A not-so-thin wrapper for pprint.pp()
+    """
+    import pprint, shutil, types
+    term_width = shutil.get_terminal_size().columns
+    next_indent_head = indent_head + " `- "
+    next_indent_body = indent_body + " |  "
+    next_indent_tail = indent_body + "    "
+    def handle_unroll(items, withLabels=False):
+        countdn = len(items)
+        for item in items:
+            countdn -= 1
+            label = ""
+            if withLabels:
+                label, item = item
+                label = label + ": "
+            this_head = next_indent_head + label
+            this_tail = next_indent_tail + " "*len(label)
+            this_body = next_indent_body + " "*len(label) if countdn else this_tail
+            pr(item, indent_head=this_head, indent_body=this_body, indent_tail=this_tail, depth=depth-1)
+    while args and args[-1] is ...:
+        args = args[:-1]; depth += 1
+    for arg in args:
+        if depth > 0 and isinstance(arg, (list, dict, set, types.GeneratorType)):
+            print(indent_head + f"{type(arg)}:")
+            next_indent_head = indent_body + " `- "
+            if hasattr(arg, 'items'):
+                handle_unroll(list(arg.items()), True)
+            else:
+                handle_unroll(list(arg))
+            next_indent_head = indent_head + " `- "
+        elif isinstance(arg, str):
+            this_indent = indent_head + "# "
+            for line in arg.split("\n"):
+                print(indent_head + "# " + ("\n" + indent_body + "  ").
+                        join(foldSoftPreserve(line, term_width-len(indent_head)+2-5)))
+        else:
+            s = pprint.pformat(arg, indent=2, width=(term_width-len(indent_head)-5), compact=True, sort_dicts=False)
+            s = indent_head + s.replace("\n", "\n"+indent_body)
+            print(s)
 
 if __name__ == "__main__" and len(sys.argv) > 1 and _rex_repcnt == 0:
     if sys.argv[1] == "intro":
