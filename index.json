@@ -68,5 +68,13 @@
 		"stop": "§ 123",
 		"caption": "Jurisdiktionsnorm (JN)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697"
+	},
+	"BG.EO": {
+		"type": "BG",
+		"title": "EO",
+		"split": "20000",
+		"stop": "§ 505",
+		"caption": "Exekutionsordnung (EO)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700"
 	}
 }
