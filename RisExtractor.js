@@ -150,8 +150,7 @@ function prettyJSON(data, indent="", autofold=false, addFinalNewline=true) {
 		return indent + JSON.stringify(data);
 
 	if (typeof data[0] == "string" &&
-			(data[0] == "Text" || data[0].startsWith("Text ") ||
-			 data[0] == "ErlTxt" || data[0].startsWith("ErlTxt ")))
+			(data[0] == "Text" || data[0].startsWith("Text ")))
 		autofold = true;
 
 	let s = [indent + "[" + JSON.stringify(data[0])];
@@ -242,8 +241,7 @@ class RisExAST {
 			},
 			"": ["AlignCenter", "AlignJustify"]
 		};
-		tab["ErlHdr"] = tab["Head"];
-		tab["ErlTxt"] = tab["Text"];
+		tab["SubHdr"] = tab["Head"];
 		let db = {};
 		for (let tag in tab) {
 			if (tag == "")
@@ -441,18 +439,15 @@ class RisExAST {
 				let tagTyp = "";
 				let isHeaderOrTitle = this.typeIn("Head", "Title");
 				if (isHeaderOrTitle && !inParPretext)
-					tag = "ErlHdr";
+					tag = "SubHdr";
 				this.baseElement?.classList?.forEach(cls => {
 					if (cls in this.risClsToRisExTyp[tag]) {
 						let typ = this.risClsToRisExTyp[tag][cls];
-						if (typ == "Erl" && isHeaderOrTitle) return;
 						if (typ != "") tagTyp += " " + typ;
 					} else
 						tagTyp += " ?" + cls;
 				});
 				tag += tagTyp;
-				if (tag == "Text Erl")
-					tag = "ErlTxt";
 				color = "cyan";
 			}
 

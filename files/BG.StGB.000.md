@@ -104,13 +104,13 @@
 * [§ 67 StGB # Zeit und Ort der Tat](BG.StGB.005.md#-67-stgb--zeit-und-ort-der-tat)
 
 **Achter Abschnitt # Begriffsbestimmungen**  
-* [§ 68 StGB # Zeitberechnung](BG.StGB.006.md#-68-stgb--zeitberechnung)  
-* [§ 69 StGB # Öffentliche Begehung](BG.StGB.006.md#-69-stgb--öffentliche-begehung)  
-* [§ 70 StGB # Gewerbsmäßige Begehung](BG.StGB.006.md#-70-stgb--gewerbsmäßige-begehung)  
-* [§ 71 StGB # Schädliche Neigung](BG.StGB.006.md#-71-stgb--schädliche-neigung)  
-* [§ 72 StGB # Angehörige](BG.StGB.006.md#-72-stgb--angehörige)  
-* [§ 73 StGB # Ausländische Verurteilungen](BG.StGB.006.md#-73-stgb--ausländische-verurteilungen)  
-* [§ 74 StGB # Andere Begriffsbestimmungen](BG.StGB.006.md#-74-stgb--andere-begriffsbestimmungen)
+* [§ 68 StGB # Zeitberechnung](BG.StGB.005.md#-68-stgb--zeitberechnung)  
+* [§ 69 StGB # Öffentliche Begehung](BG.StGB.005.md#-69-stgb--öffentliche-begehung)  
+* [§ 70 StGB # Gewerbsmäßige Begehung](BG.StGB.005.md#-70-stgb--gewerbsmäßige-begehung)  
+* [§ 71 StGB # Schädliche Neigung](BG.StGB.005.md#-71-stgb--schädliche-neigung)  
+* [§ 72 StGB # Angehörige](BG.StGB.005.md#-72-stgb--angehörige)  
+* [§ 73 StGB # Ausländische Verurteilungen](BG.StGB.005.md#-73-stgb--ausländische-verurteilungen)  
+* [§ 74 StGB # Andere Begriffsbestimmungen](BG.StGB.005.md#-74-stgb--andere-begriffsbestimmungen)
 
 **Besonderer Teil # Erster Abschnitt # Strafbare Handlungen gegen Leib und Leben**  
 * [§ 75 StGB # Mord](BG.StGB.006.md#-75-stgb--mord)  
@@ -137,9 +137,9 @@
 * [§ 95 StGB # Unterlassung der Hilfeleistung](BG.StGB.006.md#-95-stgb--unterlassung-der-hilfeleistung)
 
 **Zweiter Abschnitt # Schwangerschaftsabbruch**  
-* [§ 96 StGB # Schwangerschaftsabbruch](BG.StGB.007.md#-96-stgb--schwangerschaftsabbruch)  
-* [§ 97 StGB # Straflosigkeit des Schwangerschaftsabbruchs](BG.StGB.007.md#-97-stgb--straflosigkeit-des-schwangerschaftsabbruchs)  
-* [§ 98 StGB # Schwangerschaftsabbruch ohne Einwilligung der Schwangeren](BG.StGB.007.md#-98-stgb--schwangerschaftsabbruch-ohne-einwilligung-der-schwangeren)
+* [§ 96 StGB # Schwangerschaftsabbruch](BG.StGB.006.md#-96-stgb--schwangerschaftsabbruch)  
+* [§ 97 StGB # Straflosigkeit des Schwangerschaftsabbruchs](BG.StGB.006.md#-97-stgb--straflosigkeit-des-schwangerschaftsabbruchs)  
+* [§ 98 StGB # Schwangerschaftsabbruch ohne Einwilligung der Schwangeren](BG.StGB.006.md#-98-stgb--schwangerschaftsabbruch-ohne-einwilligung-der-schwangeren)
 
 **Dritter Abschnitt # Strafbare Handlungen gegen die Freiheit**  
 * [§ 99 StGB # Freiheitsentziehung](BG.StGB.007.md#-99-stgb--freiheitsentziehung)  

@@ -128,7 +128,7 @@
 * [§ 72 AVG](BG.AVG.003.md#-72-avg)
 
 **3. Abschnitt: Entscheidungspflicht**  
-* [§ 73 AVG](BG.AVG.004.md#-73-avg)
+* [§ 73 AVG](BG.AVG.003.md#-73-avg)
 
 **V. Teil: Kosten**  
 * [§ 74 AVG # Kosten der Beteiligten](BG.AVG.004.md#-74-avg--kosten-der-beteiligten)  

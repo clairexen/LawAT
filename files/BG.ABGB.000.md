@@ -1261,12 +1261,12 @@
 * [§ 1174 ABGB # 4. Leistung zu unerlaubtem Zweck](BG.ABGB.020.md#-1174-abgb--4-leistung-zu-unerlaubtem-zweck)
 
 **Siebenundzwanzigstes Hauptstück # Von der Gesellschaft bürgerlichen Rechts # 1. Abschnitt # Allgemeine Bestimmungen**  
-* [§ 1175 ABGB # Begriff und Rechtsnatur der Gesellschaft bürgerlichen Rechts](BG.ABGB.021.md#-1175-abgb--begriff-und-rechtsnatur-der-gesellschaft-bürgerlichen-rechts)  
-* [§ 1176 ABGB # Innen- und Außengesellschaft](BG.ABGB.021.md#-1176-abgb--innen--und-außengesellschaft)  
-* [§ 1177 ABGB # Gesellschaftsname](BG.ABGB.021.md#-1177-abgb--gesellschaftsname)  
-* [§ 1178 ABGB # Gesellschaftsvermögen](BG.ABGB.021.md#-1178-abgb--gesellschaftsvermögen)  
-* [§ 1179 ABGB # Einbringung des Gesellschaftsvermögens](BG.ABGB.021.md#-1179-abgb--einbringung-des-gesellschaftsvermögens)  
-* [§ 1180 ABGB # Vermögensordnung](BG.ABGB.021.md#-1180-abgb--vermögensordnung)
+* [§ 1175 ABGB # Begriff und Rechtsnatur der Gesellschaft bürgerlichen Rechts](BG.ABGB.020.md#-1175-abgb--begriff-und-rechtsnatur-der-gesellschaft-bürgerlichen-rechts)  
+* [§ 1176 ABGB # Innen- und Außengesellschaft](BG.ABGB.020.md#-1176-abgb--innen--und-außengesellschaft)  
+* [§ 1177 ABGB # Gesellschaftsname](BG.ABGB.020.md#-1177-abgb--gesellschaftsname)  
+* [§ 1178 ABGB # Gesellschaftsvermögen](BG.ABGB.020.md#-1178-abgb--gesellschaftsvermögen)  
+* [§ 1179 ABGB # Einbringung des Gesellschaftsvermögens](BG.ABGB.020.md#-1179-abgb--einbringung-des-gesellschaftsvermögens)  
+* [§ 1180 ABGB # Vermögensordnung](BG.ABGB.020.md#-1180-abgb--vermögensordnung)
 
 **2. Abschnitt # Rechtsverhältnisse der Gesellschafter untereinander**  
 * [§ 1181 ABGB # Gestaltungsfreiheit](BG.ABGB.021.md#-1181-abgb--gestaltungsfreiheit)  
@@ -1304,14 +1304,14 @@
 * [§ 1207 ABGB # Wirkung gegenüber Dritten](BG.ABGB.021.md#-1207-abgb--wirkung-gegenüber-dritten)
 
 **6. Abschnitt # Auflösung**  
-* [§ 1208 ABGB # Auflösungsgründe](BG.ABGB.022.md#-1208-abgb--auflösungsgründe)  
-* [§ 1209 ABGB # Kündigung durch einen Gesellschafter](BG.ABGB.022.md#-1209-abgb--kündigung-durch-einen-gesellschafter)  
-* [§ 1210 ABGB # Auflösung durch gerichtliche Entscheidung](BG.ABGB.022.md#-1210-abgb--auflösung-durch-gerichtliche-entscheidung)  
-* [§ 1211 ABGB # Gesellschaft auf Lebenszeit, Befristung](BG.ABGB.022.md#-1211-abgb--gesellschaft-auf-lebenszeit-befristung)  
-* [§ 1213 ABGB # Ausschluss statt Auflösung](BG.ABGB.022.md#-1213-abgb--ausschluss-statt-auflösung)  
-* [§ 1214 ABGB # Fortsetzungsbeschluss](BG.ABGB.022.md#-1214-abgb--fortsetzungsbeschluss)  
-* [§ 1215 ABGB # Übergang des Gesellschaftsvermögens](BG.ABGB.022.md#-1215-abgb--übergang-des-gesellschaftsvermögens)  
-* [§ 1216 ABGB # Bekanntgabe der Auflösung der Außengesellschaft](BG.ABGB.022.md#-1216-abgb--bekanntgabe-der-auflösung-der-außengesellschaft)
+* [§ 1208 ABGB # Auflösungsgründe](BG.ABGB.021.md#-1208-abgb--auflösungsgründe)  
+* [§ 1209 ABGB # Kündigung durch einen Gesellschafter](BG.ABGB.021.md#-1209-abgb--kündigung-durch-einen-gesellschafter)  
+* [§ 1210 ABGB # Auflösung durch gerichtliche Entscheidung](BG.ABGB.021.md#-1210-abgb--auflösung-durch-gerichtliche-entscheidung)  
+* [§ 1211 ABGB # Gesellschaft auf Lebenszeit, Befristung](BG.ABGB.021.md#-1211-abgb--gesellschaft-auf-lebenszeit-befristung)  
+* [§ 1213 ABGB # Ausschluss statt Auflösung](BG.ABGB.021.md#-1213-abgb--ausschluss-statt-auflösung)  
+* [§ 1214 ABGB # Fortsetzungsbeschluss](BG.ABGB.021.md#-1214-abgb--fortsetzungsbeschluss)  
+* [§ 1215 ABGB # Übergang des Gesellschaftsvermögens](BG.ABGB.021.md#-1215-abgb--übergang-des-gesellschaftsvermögens)  
+* [§ 1216 ABGB # Bekanntgabe der Auflösung der Außengesellschaft](BG.ABGB.021.md#-1216-abgb--bekanntgabe-der-auflösung-der-außengesellschaft)
 
 **7. Abschnitt # Liquidation**  
 * [§ 1216a ABGB # Nachwirkung des Gesellschaftsvertrages](BG.ABGB.022.md#-1216a-abgb--nachwirkung-des-gesellschaftsvertrages)  

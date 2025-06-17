@@ -442,7 +442,7 @@
 * [§ 315 ZPO # ](BG.ZPO.009.md#-315-zpo--)
 
 **Gerichtliche Aufbewahrung von Urkunden.**  
-* [§ 316 ZPO](BG.ZPO.010.md#-316-zpo)
+* [§ 316 ZPO](BG.ZPO.009.md#-316-zpo)
 
 **Erneuerung von Urkunden.**  
 * [§ 317 ZPO # ](BG.ZPO.010.md#-317-zpo--)
@@ -507,8 +507,8 @@
 * [§ 354 ZPO # ](BG.ZPO.010.md#-354-zpo--)
 
 **Ablehnung.**  
-* [§ 355 ZPO # ](BG.ZPO.011.md#-355-zpo--)  
-* [§ 356 ZPO # ](BG.ZPO.011.md#-356-zpo--)
+* [§ 355 ZPO # ](BG.ZPO.010.md#-355-zpo--)  
+* [§ 356 ZPO # ](BG.ZPO.010.md#-356-zpo--)
 
 **Beweisaufnahme**  
 * [§ 357 ZPO](BG.ZPO.011.md#-357-zpo)  
@@ -906,7 +906,7 @@
 * [§ 635 ZPO # Verjährung](BG.ZPO.019.md#-635-zpo--verjährung)
 
 **Siebenter Teil # Schlussbestimmungen**  
-* [§ 636 ZPO # In- und Außerkrafttreten; Übergangsbestimmungen](BG.ZPO.020.md#-636-zpo--in--und-außerkrafttreten-übergangsbestimmungen)  
-* [§ 637 ZPO # Umsetzungshinweise](BG.ZPO.020.md#-637-zpo--umsetzungshinweise)
+* [§ 636 ZPO # In- und Außerkrafttreten; Übergangsbestimmungen](BG.ZPO.019.md#-636-zpo--in--und-außerkrafttreten-übergangsbestimmungen)  
+* [§ 637 ZPO # Umsetzungshinweise](BG.ZPO.019.md#-637-zpo--umsetzungshinweise)
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ZPO.001](BG.ZPO.001.md))*

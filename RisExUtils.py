@@ -18,7 +18,7 @@ from pathlib import Path
 normindex = json.load(open("index.json"))
 
 GlobalFlagDefaults = {
-    "esc": True,
+    "esc": False,
     "show": False,
     "strict": True,
     "down": False,
@@ -176,7 +176,7 @@ def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
             (autofold and len(json.dumps(data, separators=",:", ensure_ascii=False)) < 80):
         return indent + json.dumps(data, separators=",:", ensure_ascii=False)
 
-    if isinstance(data[0], str) and data[0].split()[0] in ("Text", "ErlTxt"):
+    if isinstance(data[0], str) and data[0].split()[0] == "Text":
         autofold = True
 
     s = [indent + "[" + json.dumps(data[0], separators=",:", ensure_ascii=False)]
@@ -411,15 +411,11 @@ class RisDocMarkdownEngine:
                         self.smallBreak()
                 tx = renderText(item)
                 if not flags.forai:
-                    if len(tag) > 1 and tag[1] == "End":
-                        self.largeBreak()
+                    if "End" in tag:
                         tx = f"&nbsp; {tx}"
+                    if "Erl" in tag:
+                        self.largeBreak()
                 self.push(tx)
-
-            case "ErlTxt":
-                if not nobr:
-                    self.smallBreak()
-                self.push(renderText(item))
 
             case "Break":
                 self.largeBreak()
@@ -468,10 +464,14 @@ class RisDocMarkdownEngine:
 
         if firstPatchLine is not None:
             self.lines[firstPatchLine] = f"`{head.removeprefix('Item ')}` {self.lines[firstPatchLine]}"
+            if self.lines[-1] == "":
+                del self.lines[-1]
+            self.lines[-1] = self.lines[-1].removesuffix("  ")
             for i in range(firstPatchLine, len(self.lines)):
                 if not self.lines[i].startswith(">"):
                     self.lines[i] = f" {self.lines[i]}"
                 self.lines[i] = f">{self.lines[i]}"
+            self.largeBreak()
 
         self.citepath.pop()
         return self.popLineNum()
@@ -549,7 +549,7 @@ class RisDocMarkdownEngine:
                     t = renderText(item, plain=True)
                     t = re.sub(parRegEx, '', t).rstrip('. ')
                     parTitle = f"{parTitle} {'#' if flags.forai else '—'} {t}"
-                case "ErlHdr":
+                case "SubHdr":
                     self.pushHdr(f"#### {renderText(item)}")
                 case _:
                     if parTitle is not None:
@@ -560,7 +560,7 @@ class RisDocMarkdownEngine:
                         if tag[0] != "Text":
                             parTitle = None
 
-                    if tag[0] in ("Text", "ErlTxt"):
+                    if tag[0] == "Text":
                         if parTitle is not None:
                             self.largeBreak()
                             if flags.forai:
@@ -879,21 +879,21 @@ def cli_render(*args):
             sys.exit(0)
 
     print()
-    print("Generating \"AI-Friendly\" Files..")
+    print("Generating \"AI-Friendly\" Markdown Files..")
 
     for normkey in args:
         runEngine(normkey, True, False)
 
     print()
-    print("Generating \"Human-Friendly\" Files..")
-    updateFlags("--no-esc")
+    print("Generating \"Human-Friendly\" Markdown File(s).")
     updateFlags("--no-forai")
+    updateFlags("--esc")
 
     for normkey in args:
         runEngine(normkey, False, True)
 
     print()
-    print("Generating Index Files.")
+    print("Generating JSON Index File(s).")
 
     for normkey in args:
         data = {k: v if isinstance(v, str) else [v.ref4human,v.ref4ai,v.title]
