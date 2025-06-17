@@ -13,11 +13,12 @@ help:
 venv: .venv/bin/activate
 .venv/bin/activate:
 	python3 -m venv .venv
-	.venv/bin/pip install playwright
 	.venv/bin/pip install requests
 	.venv/bin/pip install ptpython
 	.venv/bin/pip install ipython
 	.venv/bin/pip install rich
+	.venv/bin/pip install check-jsonschema
+	.venv/bin/pip install playwright
 	.venv/bin/playwright install
 
 zip: RisExFiles.zip
