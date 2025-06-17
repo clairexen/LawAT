@@ -18,9 +18,11 @@ _rex_src, _rex_repcnt = None, 0
 
 def intro():
     """
-        Return the introduction message for RisEnQuery.py.
+        Print the introduction message for RisEnQuery.py.
     """
-    return """
+    v(_rex_into_message)
+
+_rex_into_message = """
 Utility library for accessing and searching RisExFiles.zip.
 
 Import as follows in Chat-GPT(-like) script environments:
@@ -57,12 +59,12 @@ Example Session:
 
 ```
 >>> from RisEnQuery import *
->>> tx(toc("Begr", "BG.StGB"))
+>>> p(toc("Begr", "BG.StGB"))
 ## Achter Abschnitt # Begriffsbestimmungen | BG.StGB.004:11-12
 ### § 74 StGB # Andere Begriffsbestimmungen | BG.StGB.004:58-108
 ### § 255 StGB # Begriff des Staatsgeheimnisses | BG.StGB.010:149-153
 
->>> hd(fetch("BG.StGB.004:11-109"))
+>>> h(fetch("BG.StGB.004:11-109"))
 ## Achter Abschnitt # Begriffsbestimmungen
 ### § 68 StGB # Zeitberechnung
 ### § 69 StGB # Öffentliche Begehung
@@ -108,13 +110,13 @@ BG.StGB.toc.md
 BG.StPO.toc.md
 
 
->>> tx(get("§ 71 StGB"))
+>>> p(get("§ 71 StGB"))
 ### § 71 StGB # Schädliche Neigung | BG.StGB.004:40-44
 
 `§ 71 StGB.`
 Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind.
 
->>> tx(get(" § 74 StGB ").split("\n")[9:18])
+>>> p(get(" § 74 StGB ").split("\n")[9:18])
 `§ 74 (1) Z 4 StGB.`
 Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;
 `§ 74 (1) Z 4a StGB.`
@@ -125,7 +127,7 @@ für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere 
 `§ 74 (1) Z 4a lit. c StGB.`
 sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder
 
->>> tx(untag(get(" § 74 StGB ").split("\n")[9:18]))
+>>> p(untag(get(" § 74 StGB ").split("\n")[9:18]))
 `  4.`
 Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;
 `  4a.`
@@ -136,14 +138,14 @@ für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere 
 `    c)`
 sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder
 
->>> tx(toc(find("+verfälscht", "BG.StGB") & find("+Urkund", "BG.StGB"))) # Liste der StGB Paragraphen mit "verfälscht" und "Urkund" im Text
+>>> p(toc(find("+verfälscht", "BG.StGB") & find("+Urkund", "BG.StGB"))) # Liste der StGB Paragraphen mit "verfälscht" und "Urkund" im Text
 ### § 147 StGB # Schwerer Betrug | BG.StGB.006:496-518
 ### § 223 StGB # Urkundenfälschung | BG.StGB.009:33-40
 ### § 224a StGB # Annahme, Weitergabe oder Besitz falscher oder verfälschter besonders geschützter Urkunden | BG.StGB.009:46-50
 ### § 226 StGB # Tätige Reue | BG.StGB.009:67-74
 ### § 264 StGB # Verbreitung falscher Nachrichten bei einer Wahl oder Volksabstimmung | BG.StGB.010:218-225
 
->>> tx(grep("Urkund", get("", "BG.StGB"))) # Volltextsuche nach "Urkund" im StGB
+>>> p(grep("Urkund", get("", "BG.StGB"))) # Volltextsuche nach "Urkund" im StGB
 
 ## Achter Abschnitt # Begriffsbestimmungen | BG.StGB.004:11-12
 
@@ -192,8 +194,11 @@ Funktionen:
   → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Zitiert die gefundenden Paragraphen vollständig.
 
-- find(searchPat, normPat=None):
+- s(searchPat, normPat=None):
   → Ähnlich toc() und get(), aber gibt ein set von fetch keys zurück.
+
+- g(searchPat, normPat=None):
+  → Ein Alias für p(get(...))
 
 - grep(grepPat, data):
   → Durchsucht die string(s) im zweiten Argument nach dem pattern.
@@ -206,13 +211,13 @@ Funktionen:
      Ausgabeformat von untag(), ist, wie die Normen dem Anwender
      zitiert werden sollten.
 
-- tx(data):
+- p(data):
   → Ausgabe auf der Konsole in plain ASCII
 
-- hd(data):
+- h(data):
   → Ausgabe der Überschriften aus dem Markdown text
 
-- md(data):
+- v(data):
   → Ausgabe von vormattiertem Markdown auf der Konsole mit ANSI escape codes (mit rich.markdown)
 
 WICHTIG:
@@ -468,7 +473,6 @@ def toc(searchPat: str, normPat: str = None):
             if isinstance(dat, str):
                 continue
             key = (norm,par) + tuple(dat)
-            print(key)
             ref, _, txt = dat
             if setMode:
                 if key in searchPat:
@@ -481,21 +485,31 @@ def toc(searchPat: str, normPat: str = None):
 
     return matches
 
-def find(searchPat: str, normPat: str = None):
+def s(searchPat: str, normPat: str = None):
     """
-        Like toc() but return a set of fetch keys.
+        Like toc() but return a set instead of a list.
     """
-    return {key for _, key in toc(searchPat, normPat)}
+    return set(toc(searchPat, normPat))
 
 def get(searchPat: str, normPat: str = None):
     """
         Like toc() but return the full Markdown
         text for all matching paragraphs.
     """
-    outLines = list()
-    for _, key in toc(searchPat, normPat):
-        outLines.append(fetch(key).replace("\n", f" | {key}\n", 1))
-    return "\n".join(outLines)
+    out = list()
+    first = True
+    for key in toc(searchPat, normPat):
+        if not first:
+            out.append(f"\n----\n# {key}\n")
+        out.append(fetch(key[3]))
+        first = False
+    return "\n".join(out)
+
+def g(searchPat: str, normPat: str = None):
+    """
+        An alias for p(get(...))
+    """
+    return p(get(searchPat, normPat))
 
 def grep(grepPat: str, s: str):
     """
@@ -594,16 +608,19 @@ def untag(*a):
 
     return "\n".join(outLines)
 
-def tx(*a):
+def p(*a):
     """
         Print (markdown or any other) text to the console as-is
     """
     for s in a:
-        if type(s) is not str:
-            s = "\n".join([t if type(t) is str else f"{t[0]} | {t[1]}" for t in s]) + "\n"
+        if not isinstance(s, str):
+            items = [str(t) for t in s]
+            if isinstance(s, set):
+                items = sorted(items)
+            s = "\n".join(items) + "\n"
         print(s)
 
-def hd(a):
+def h(a):
     """
         Print only the headers from the given markdown text
     """
@@ -613,7 +630,7 @@ def hd(a):
         for line in s:
             if line.startswith("#"): print(line)
 
-def md(*a):
+def v(*a):
     """
         Render markdown text to the console using rich.markdown
     """
@@ -652,65 +669,24 @@ def md(*a):
 
     Heading.__rich_console__ = original__rich_console__
 
-# Output Helper Functions:
-# print ('untagged') plain (markdown) text
-def u(*a): tx(untag(*a))
-def uls(*a): tx(ls(*a))
-def uintro(*a): tx(intro(*a))
-def ufetch(*a): u(fetch(*a))
-def utoc(*a):   u(toc(*a))
-def uget(*a):   u(get(*a))
-def ugrep(*a):  u(grep(*a))
-
-# Output Helper Functions:
-# print ('untagged') rendered markdown text
-def v(*a): md(untag(*a))
-def vls(*a): tx(ls(*a))
-def vintro(*a): md(intro(*a))
-def vfetch(*a): v(fetch(*a))
-def vtoc(*a):   v(toc(*a))
-def vget(*a):   v(get(*a))
-def vgrep(*a):  v(grep(*a))
-
-# Output Helper Functions:
-# print plain (markdown) text
-def txfetch(*a): tx(fetch(*a))
-def txtoc(*a):   tx(toc(*a))
-def txget(*a):   tx(get(*a))
-def txgrep(*a):  tx(grep(*a))
-
-# Output Helper Functions:
-# print headers from markdown text
-def hdfetch(*a): hd(fetch(*a))
-def hdtoc(*a):   hd(toc(*a))
-def hdget(*a):   hd(get(*a))
-def hdgrep(*a):  hd(grep(*a))
-
-# Output Helper Functions:
-# print rendered markdown text
-def mdfetch(*a): md(fetch(*a))
-def mdtoc(*a):   md(toc(*a))
-def mdget(*a):   md(get(*a))
-def mdgrep(*a):  md(grep(*a))
-
 if __name__ == "__main__" and len(sys.argv) > 1 and _rex_repcnt == 0:
     if sys.argv[1] == "intro":
         txintro()
     elif sys.argv[1] == "ls":
         uls(*sys.argv[2:])
     elif sys.argv[1] == "fetch":
-        txfetch(*sys.argv[2:])
+        p(fetch(*sys.argv[2:]))
     elif sys.argv[1] == "pat":
-        tx(pat(*sys.argv[2:]).pattern)
+        p(pat(*sys.argv[2:]).pattern)
     elif sys.argv[1] == "toc":
-        txtoc(*sys.argv[2:])
+        p(toc(*sys.argv[2:]))
     elif sys.argv[1] == "grep":
-        txgrep(sys.argv[2], get(*sys.argv[3:]))
+        p(grep(sys.argv[2], get(*sys.argv[3:])))
     elif sys.argv[1] == "untag":
-        tx(untag(get(*sys.argv[2:])))
-    elif sys.argv[1] == "get":
-        txget(*sys.argv[2:])
-    elif sys.argv[1] == "md":
-        md(get(*sys.argv[2:]))
+        p(untag(get(*sys.argv[2:])))
+    elif sys.argv[1] in ("p", "g"):
+        p(get(*sys.argv[2:]))
+    elif sys.argv[1] == "v":
+        v(get(*sys.argv[2:]))
     else:
         assert False
