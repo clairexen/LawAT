@@ -34,11 +34,12 @@ update:
 	.venv/bin/python3 RisExUtils.py render --down
 	$(MAKE) zip json
 
-lstags:
-	grep -h '^ *\[' *.markup.json | sed -e 's/^ *//; s/,.*//; /\["\(Par\|RisDoc\|Item\|Meta\) / d;' | sort | uniq -c
+check-markup:
+	check-jsonschema --schemafile schema.json files/*.markup.json
+	grep -h '^ *\[' files/*.markup.json | sed -e 's/^ *//; s/\]*,.*//; /\["\(Par\|RisDoc\|Item\|Meta\) / s/ .*/ ..."/' | sort | uniq -c
 
 purge:
 	rm -rf .venv RisExData.json __pycache__/ __rismarkup__/ __rishtml__/
 	rm -rf RisExFiles.zip
 
-.PHONY: help venv zip json update lstags purge
+.PHONY: help venv zip json update check-markup purge

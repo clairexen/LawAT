@@ -1,0 +1,111 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RisEx/RisEn JSON Markup Format Schema",
+  "type": "array",
+  "minItems": 1,
+  "prefixItems": [{ "type": "string", "pattern": "^RisDoc " }],
+  "additionalItems": { "anyOf": [
+    { "$ref": "#/$defs/Meta" },
+    { "$ref": "#/$defs/Par" }
+  ]},
+  "$defs": {
+    "Meta": {
+      "type": "array",
+      "minItems": 2, "maxItems": 2,
+      "prefixItems": [
+      	{ "type": "string", "pattern": "^Meta " },
+      	{ "type": "string" }
+      ]
+    },
+    "Par": {
+      "type": "array",
+      "minItems": 1,
+      "prefixItems": [{ "type": "string", "pattern": "^Par " }],
+      "additionalItems": { "anyOf": [
+        { "$ref": "#/$defs/Head" },
+        { "$ref": "#/$defs/Title" },
+        { "$ref": "#/$defs/Text" },
+        { "$ref": "#/$defs/List" },
+        { "$ref": "#/$defs/Media" },
+        { "$ref": "#/$defs/SubHdr" }
+      ]}
+    },
+    "Head": {
+      "type": "array",
+      "minItems": 2, "maxItems": 2,
+      "prefixItems": [
+      	{ "type": "string", "pattern": "^Head( |$)" },
+      	{ "type": "string" }
+      ]
+    },
+    "Title": {
+      "type": "array",
+      "minItems": 2, "maxItems": 2,
+      "prefixItems": [
+      	{ "type": "string", "pattern": "^Title( |$)" },
+      	{ "type": "string" }
+      ]
+    },
+    "Text": {
+      "type": "array",
+      "minItems": 1,
+      "prefixItems": [{ "type": "string", "pattern": "^Text( |$)" }],
+      "additionalItems": { "anyOf": [
+        { "type": "string" },
+        { "$ref": "#/$defs/Anm" }
+      ]}
+    },
+    "Anm": {
+      "type": "array",
+      "minItems": 1,
+      "prefixItems": [{ "type": "string", "pattern": "^Anm$" }],
+      "additionalItems": {
+        "type": "string"
+      }
+    },
+    "List": {
+      "type": "array",
+      "minItems": 1,
+      "prefixItems": [{ "type": "string", "pattern": "^List( |$)" }],
+      "additionalItems": { "anyOf": [
+        { "$ref": "#/$defs/Item" },
+        { "$ref": "#/$defs/Text" }
+      ]}
+    },
+    "Item": {
+      "type": "array",
+      "minItems": 1,
+      "prefixItems": [{ "type": "string", "pattern": "^Item( |$)" }],
+      "additionalItems": { "anyOf": [
+        { "$ref": "#/$defs/Text" },
+        { "$ref": "#/$defs/List" },
+        { "$ref": "#/$defs/Media" }
+      ]}
+    },
+    "Media": {
+      "type": "array",
+      "minItems": 1,
+      "prefixItems": [{ "type": "string", "pattern": "^Media$" }],
+      "additionalItems": { "anyOf": [
+        { "$ref": "#/$defs/Text" },
+        { "$ref": "#/$defs/Img" }
+      ]}
+    },
+    "Img": {
+      "type": "array",
+      "minItems": 2, "maxItems": 2,
+      "prefixItems": [
+      	{ "type": "string", "pattern": "^Img( |$)" },
+      	{ "type": "string" }
+      ]
+    },
+    "SubHdr": {
+      "type": "array",
+      "minItems": 2, "maxItems": 2,
+      "prefixItems": [
+      	{ "type": "string", "pattern": "^SubHdr( |$)" },
+      	{ "type": "string" }
+      ]
+    }
+  }
+}

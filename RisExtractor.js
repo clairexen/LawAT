@@ -454,6 +454,10 @@ class RisExAST {
 			if (this.typeIn("AbsLst", "NumLst", "LitLst", "Lst",
 			                "Break", "Media", "Img")) {
 				tag = this.get("type");
+				if (tag == "AbsLst") tag = "List Abs";
+				if (tag == "NumLst") tag = "List Num";
+				if (tag == "LitLst") tag = "List Lit";
+				if (tag == "Lst") tag = "List";
 				color = null;
 			}
 

@@ -420,14 +420,14 @@ class RisDocMarkdownEngine:
             case "Break":
                 self.largeBreak()
 
+            case "List":
+                self.genList(item)
+
             case _:
-                if tag[0] in ("NumLst", "LitLst", "Lst"):
-                    self.genLst(item)
+                if flags.strict:
+                    assert False, f"Unsupported Tag in genText(): {tag}"
                 else:
-                    if flags.strict:
-                        assert False, f"Unsupported Tag in genText(): {tag}"
-                    else:
-                        print(f"Unsupported Tag in genText(): {tag}")
+                    print(f"Unsupported Tag in genText(): {tag}")
 
         return self.popLineNum()
 
@@ -439,9 +439,9 @@ class RisDocMarkdownEngine:
         assert tag[0] == "Item"
         cite = head.removeprefix("Item ")
         match typ:
-            case "NumLst" if re.fullmatch(r"[0-9]+[a-z]*\.", cite):
+            case "Num" if re.fullmatch(r"[0-9]+[a-z]*\.", cite):
                 cite = f"Z {cite[:-1]}"
-            case "LitLst" if re.fullmatch(r"[a-z]+[0-9]*\)", cite):
+            case "Lit" if re.fullmatch(r"[a-z]+[0-9]*\)", cite):
                 cite = f"lit. {cite[:-1]}"
         self.citepath.append(cite)
 
@@ -452,7 +452,7 @@ class RisDocMarkdownEngine:
         if not flags.forai:
             firstPatchLine = len(self.lines)
         else:
-            if typ == "AbsLst" or (br and typ == "Lst" and len(self.citepath) == 2):
+            if typ == "Abs" or (br and typ == "List" and len(self.citepath) == 2):
                 self.largeBreak()
                 self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
             else:
@@ -476,13 +476,13 @@ class RisDocMarkdownEngine:
         self.citepath.pop()
         return self.popLineNum()
 
-    def genLst(self, item, *, br=False):
+    def genList(self, item, *, br=False):
         self.pushLineNum()
         head, *tail = item
         tag = head.split()
 
         for t in tail:
-            self.genItem(t, tag[0], br)
+            self.genItem(t, tag[-1], br)
 
         return self.popLineNum()
 
@@ -581,8 +581,8 @@ class RisDocMarkdownEngine:
                     elif tag[0] == "Media":
                         self.genMedia(item)
 
-                    elif tag[0] in ("AbsLst", "NumLst", "LitLst", "Lst"):
-                        self.genLst(item, br=(tag[0] in ("AbsLst", "Lst")))
+                    elif tag[0] == "List":
+                        self.genList(item, br=(tag[-1] in ("Abs", "List")))
 
                     else:
                         if flags.strict:
