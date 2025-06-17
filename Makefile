@@ -1,35 +1,14 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
-ifneq ($Q,)
-query: venv zip
-	.venv/bin/python3 RisEnQuery.py $Q
-endif
-
 help:
 	@echo ""
 	@echo "Usage:"
 	@echo "  make venv ........ create Python .venv/"
-	@echo "  make zip ......... (re-)create RisEx*.zip"
+	@echo "  make zip ......... (re-)create RisExFiles.zip"
 	@echo "  make json ........ (re-)create RisExData.json"
 	@echo "  make purge ....... remove these (re-)created output files"
 	@echo ""
-	@echo "Interactive ptpython shell (with RisEnQuery.py pre-loaded):"
-	@echo "  make shell ....... interactive shell"
-	@echo "  make intro ....... shell, with intro() message"
-	@echo ""
-	@echo "Running a query:"
-	@echo "  make Q=\"<RisEnQuery.py Args>\""
-	@echo ""
-	@echo "For example:"
-	@echo "  make Q=\"toc Urkunden\""
-	@echo ""
-
-shell: venv zip
-	.venv/bin/ptpython -i RisEnQuery.py
-
-intro: venv zip
-	.venv/bin/ptpython -i RisEnQuery.py intro
 
 venv: .venv/bin/activate
 .venv/bin/activate:
@@ -37,6 +16,7 @@ venv: .venv/bin/activate
 	.venv/bin/pip install playwright
 	.venv/bin/pip install requests
 	.venv/bin/pip install ptpython
+	.venv/bin/pip install ipython
 	.venv/bin/pip install rich
 	.venv/bin/playwright install
 
@@ -50,8 +30,9 @@ RisExData.json: venv index.json files/*
 	./RisExUtils.py mkjson
 
 update:
-	./RisExUtils.py fetch
-	./RisExUtils.py render --down
+	.venv/bin/python3 RisExUtils.py fetch
+	.venv/bin/python3 RisExUtils.py render --down
+	$(MAKE) zip json
 
 lstags:
 	grep -h '^ *\[' *.markup.json | sed -e 's/^ *//; s/,.*//; /\["\(Par\|RisDoc\|Item\|Meta\) / d;' | sort | uniq -c
@@ -60,4 +41,4 @@ purge:
 	rm -rf .venv RisExData.json __pycache__/ __rismarkup__/ __rishtml__/
 	rm -rf RisExFiles.zip
 
-.PHONY: query help shell intro venv zip json update lstags purge
+.PHONY: help venv zip json update lstags purge

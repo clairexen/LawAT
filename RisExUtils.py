@@ -953,30 +953,6 @@ def cli_markup(*args):
         handleArg(args[0])
         args = updateFlags(*args[1:])
 
-def cli_index(*args):
-    args = updateFlags(*args)
-
-    if not args:
-        args = (*normindex.keys(),)
-
-    for normkey in args:
-        print(f"Indexing {normkey}...")
-
-    print("DONE.")
-
-def cli_down(*args):
-    args = updateFlags("--down", *args)
-
-    if not args:
-        args = (*normindex.keys(),)
-
-    for normkey in args:
-        print(f"Downloading media for {normkey}...")
-        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.markup.json")))
-        engine.genFile()
-
-    print("DONE.")
-
 def cli_mkjson():
     data = dict()
 
@@ -995,8 +971,10 @@ def cli_shell():
 
 def main(*args):
     args = updateFlags(*args)
-    assert len(args) and f"cli_{args[0]}" in globals()
-    return globals()[f"cli_{args[0]}"](*args[1:])
+    if len(args) and f"cli_{args[0]}" in globals():
+        return globals()[f"cli_{args[0]}"](*args[1:])
+    print("RisExUtils Command Overview:")
+    print("\n".join(f"  rex [global_options] {name.removeprefix('cli_')} [...]" for name in globals().keys() if name.startswith("cli_")))
 
 if __name__ == "__main__":
     main(*sys.argv[1:])
