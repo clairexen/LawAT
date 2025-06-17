@@ -42,28 +42,22 @@ venv: .venv/bin/activate
 
 zip: RisExFiles.zip
 RisExFiles.zip: index.json files/*
-	rm -vf RisExMarkup.zip RisExBigDocs.zip RisExFiles.zip
-	zip -vXj RisExBigDocs.zip -r files index.json -i index.json "*.big.md"
-	zip -vXj RisExMarkup.zip  -r files index.json -i index.json "*.ris.json"
-	zip -vXj RisExFiles.zip   -r files index.json -x "*.ris.json" "*.big.md"
+	rm -vf RisExFiles.zip
+	zip -vXj RisExFiles.zip -r files index.json
 
 json: RisExData.json
 RisExData.json: venv index.json files/*
 	./RisExUtils.py mkjson
 
-define fetch_body
-files/$N.md: venv RisExUtils.py index.json
-	./RisExUtils.py fetch $N
-	./RisExUtils.py render --down $N
+update:
+	./RisExUtils.py fetch
+	./RisExUtils.py render --down
 
-endef
-
-NORM_LIST := $(shell jq -r 'keys[]' index.json)
-update: $(foreach N,$(NORM_LIST),files/$N.md)
-$(eval $(foreach N,$(NORM_LIST),$(fetch_body)))
+lstags:
+	grep -h '^ *\[' *.markup.json | sed -e 's/^ *//; s/,.*//; /\["\(Par\|RisDoc\|Item\|Meta\) / d;' | sort | uniq -c
 
 purge:
-	rm -rf .venv RisExData.json __pycache__/ __rishtml__/
-	rm -rf RisExMarkup.zip RisExBigDocs.zip RisExFiles.zip
+	rm -rf .venv RisExData.json __pycache__/ __rismarkup__/ __rishtml__/
+	rm -rf RisExFiles.zip
 
-.PHONY: query help shell intro venv zip json update purge
+.PHONY: query help shell intro venv zip json update lstags purge

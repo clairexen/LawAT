@@ -806,9 +806,6 @@ def cli_fetch(*args):
     if not len(args):
         args = normindex.keys()
 
-    if not os.access(flags.filesdir, os.F_OK):
-        os.mkdir(flags.filesdir)
-
     page = startPlaywright()
 
     for normkey in args:
@@ -828,6 +825,13 @@ def cli_fetch(*args):
         print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.markup.json")
         stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
         risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopParJs}, '{normkey}'))")
+
+        if not os.access("__rismarkup__", os.F_OK):
+            os.mkdir("__rismarkup__")
+        open(f"__rismarkup__/{normkey}.markup.json", "w").write(risDocJsonText)
+
+        if not os.access(flags.filesdir, os.F_OK):
+            os.mkdir(flags.filesdir)
         open(f"{flags.filesdir}/{normkey}.markup.json", "w").write(risDocJsonText)
 
     print("DONE.")
