@@ -402,10 +402,10 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 19 JN — 
 
 > Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:
-
-> `1.` weil er im gegebenen Falle nach dem Gesetze von der Ausübung richterlicher Geschäfte ausgeschlossen ist;
-
-> `2.` weil ein zureichender Grund vorliegt, seine Unbefangenheit in Zweifel zu ziehen\.
+>
+>> `1.` weil er im gegebenen Falle nach dem Gesetze von der Ausübung richterlicher Geschäfte ausgeschlossen ist;
+>
+>> `2.` weil ein zureichender Grund vorliegt, seine Unbefangenheit in Zweifel zu ziehen\.
 
 ### § 20 JN — 
 
@@ -1296,29 +1296,29 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Zur Anlegung und Führung der öffentlichen Bücher, für die das Allgemeine Grundbuchsgesetz 1955 gilt, sind nach der Lage der unbeweglichen Sachen zuständig:  
 > &nbsp; *\(Anm\.: Z 1 aufgehoben durch Art\. 1 Z 10, BGBl\. I Nr\. 61/2022\)*
-
-> `2.` bei unbeweglichen Sachen, die Gegenstand der Bergbücher sind,
 >
->> `a)` das Bezirksgericht Graz\-Ost I für den Sprengel des Landesgerichtes für Zivilrechtssachen Graz,
+>> `2.` bei unbeweglichen Sachen, die Gegenstand der Bergbücher sind,
+>>
+>>> `a)` das Bezirksgericht Graz\-Ost I für den Sprengel des Landesgerichtes für Zivilrechtssachen Graz,
+>>
+>>> `b)` das Bezirksgericht Innsbruck für Tirol und Vorarlberg,
+>>
+>>> `c)` das Bezirksgericht Klagenfurt für Kärnten,
+>>
+>>> `d)` das Bezirksgericht Leoben für den Sprengel des Landesgerichtes Leoben,
+>>
+>>> `e)` das Bezirksgericht Salzburg für Salzburg,
+>>
+>>> `f)` das Bezirksgericht Steyr für Oberösterreich,
+>>
+>>> `g)` das Bezirksgericht Innere Stadt Wien für Wien, Niederösterreich und Burgenland;
 >
->> `b)` das Bezirksgericht Innsbruck für Tirol und Vorarlberg,
+>> `3.` bei unbeweglichen Sachen, die Gegenstand der Eisenbahnbücher sind,
 >
->> `c)` das Bezirksgericht Klagenfurt für Kärnten,
->
->> `d)` das Bezirksgericht Leoben für den Sprengel des Landesgerichtes Leoben,
->
->> `e)` das Bezirksgericht Salzburg für Salzburg,
->
->> `f)` das Bezirksgericht Steyr für Oberösterreich,
->
->> `g)` das Bezirksgericht Innere Stadt Wien für Wien, Niederösterreich und Burgenland;
-
-> `3.` bei unbeweglichen Sachen, die Gegenstand der Eisenbahnbücher sind,
-
 > &nbsp; das Bezirksgericht am Sitze des Gerichtshofes, der nach den besonderen Vorschriften zur Anlegung und Führung der Eisenbahnbücher zuständig war, in Wien das Bezirksgericht Innere Stadt Wien, in Graz das Bezirksgericht Graz\-Ost I;
-
-> `4.` bei anderen unbeweglichen Sachen
-
+>
+>> `4.` bei anderen unbeweglichen Sachen
+>
 > &nbsp; das Bezirksgericht, in dessen Sprengel die unbeweglichen Sachen ganz oder mit ihren Hauptbestandteilen liegen\.
 
 ### § 119 JN — Aufkündigung von Hypothekarforderungen — 

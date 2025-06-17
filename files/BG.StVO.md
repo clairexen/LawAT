@@ -1424,15 +1424,15 @@ Der Nationalrat hat beschlossen:
 > ![BG.StVO.obj.BN.NOR40081328.image005.png](BG.StVO.obj.BN.NOR40081328.image005.png "~/Dokumente/Bundesnormen/NOR40081328/image005.png")
 >
 > Diese Zeichen zeigen an:
-
-> `a)` eine Rechtskurve,
-
-> `b)` eine Linkskurve,
-
-> `c)` eine Doppelkurve rechts beginnend,
-
-> `d)` eine Doppelkurve links beginnend;
-
+>
+>> `a)` eine Rechtskurve,
+>
+>> `b)` eine Linkskurve,
+>
+>> `c)` eine Doppelkurve rechts beginnend,
+>
+>> `d)` eine Doppelkurve links beginnend;
+>
 > sie sind vor Kurven, die wegen ihrer Beschaffenheit oder Unübersichtlichkeit gefährlich sind, dem Verlauf der Kurve entsprechend anzubringen\. Sind auf einer kurvenreichen Strecke die Kurven nicht mehr als 240 m voneinander entfernt, so genügt die Anbringung eines der ersten Kurve entsprechenden Zeichens nach lit\. c oder d, unter dem auf einer Zusatztafel nach § 54 Abs\. 5 lit\. b die Länge der kurvenreichen Strecke anzugeben ist\.
 
 #### 3\. „KREUZUNG“
@@ -1501,21 +1501,21 @@ Der Nationalrat hat beschlossen:
 
 
 > ![BG.StVO.obj.BN.NOR40081328.image021.png](BG.StVO.obj.BN.NOR40081328.image021.png "~/Dokumente/Bundesnormen/NOR40081328/image021.png")
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40081328.image022.png](BG.StVO.obj.BN.NOR40081328.image022.png "~/Dokumente/Bundesnormen/NOR40081328/image022.png")
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40081328.image023.png](BG.StVO.obj.BN.NOR40081328.image023.png "~/Dokumente/Bundesnormen/NOR40081328/image023.png")
 >
 > Diese Zeichen kündigen
-
-> `a)` eine beiderseitige,
-
-> `b)` eine linksseitige und
-
-> `c)` eine rechtsseitige
-
+>
+>> `a)` eine beiderseitige,
+>
+>> `b)` eine linksseitige und
+>
+>> `c)` eine rechtsseitige
+>
 > &nbsp; Verengung der Fahrbahn an\.
 
 #### 9\. „BAUSTELLE“
@@ -1617,12 +1617,12 @@ Der Nationalrat hat beschlossen:
 ### § 52 StVO — Die Vorschriftszeichen
 
 > Die Vorschriftszeichen sind
-
-> `a)` Verbots\- oder Beschränkungszeichen,
-
-> `b)` Gebotszeichen oder
-
-> `c)` Vorrangzeichen\.
+>
+>> `a)` Verbots\- oder Beschränkungszeichen,
+>
+>> `b)` Gebotszeichen oder
+>
+>> `c)` Vorrangzeichen\.
 
 #### a\) Verbots\- oder Beschränkungszeichen
 
@@ -1923,8 +1923,8 @@ Der Nationalrat hat beschlossen:
 
 
 > ![BG.StVO.obj.BN.NOR40261453.H.img50is.png](BG.StVO.obj.BN.NOR40261453.H.img50is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img50is.png")
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40261453.H.img51is.png](BG.StVO.obj.BN.NOR40261453.H.img51is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img51is.png")
 >
 > Diese Zeichen zeigen einen Geh\- und Radweg an, und zwar ein Zeichen nach a\) einen für Fußgänger und Radfahrer gemeinsam zu benützenden Geh\- und Radweg und ein Zeichen nach b\) einen Geh\- und Radweg, bei dem der Fußgänger\- und Fahrradverkehr getrennt geführt werden, wobei die Symbole im Zeichen nach b\) der tatsächlichen Verkehrsführung entsprechend anzuordnen sind \(Fußgänger rechts, Fahrrad links oder umgekehrt\)\.
@@ -2020,14 +2020,14 @@ Der Nationalrat hat beschlossen:
 
 > ![BG.StVO.obj.BN.NOR40261454.H.img6is.png](BG.StVO.obj.BN.NOR40261454.H.img6is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img6is.png")  
 > &nbsp; Dieses Zeichen kennzeichnet eine Radfahrerüberfahrt \(§ 2 Abs\. 1 Z 12a\), bei der ständig betriebene Lichtzeichen zur Regelung des Verkehrs oder zur Abgabe blinkenden gelben Lichtes nicht vorhanden sind\. Für die Anbringung dieses Zeichens gelten die diesbezüglichen Bestimmungen der Z 2a sinngemäß\.
-
-> `2c.` „Kennzeichnung eines Schutzweges und einer Radfahrerüberfahrt“
-
+>
+>> `2c.` „Kennzeichnung eines Schutzweges und einer Radfahrerüberfahrt“
+>
 > ![BG.StVO.obj.BN.NOR40261454.H.img7is.jpg](BG.StVO.obj.BN.NOR40261454.H.img7is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img7is.jpg")  
 > &nbsp; Dieses Zeichen kennzeichnet die Fortsetzung eines Geh\- und Radwegs sowie eines gemeinsam geführten Geh\- und Radwegs für die Überquerung der Fahrbahn durch Fußgänger und Radfahrer\. Für die Anbringung dieses Zeichens gelten die Bestimmungen der Z 2a sinngemäß\.
-
-> `2d.` Unterführung
-
+>
+>> `2d.` Unterführung
+>
 > ![BG.StVO.obj.BN.NOR40261454.H.img8is.png](BG.StVO.obj.BN.NOR40261454.H.img8is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img8is.png")  
 > &nbsp; Dieses Zeichen kennzeichnet eine Fußgängerunterführung\.
 
@@ -2220,14 +2220,14 @@ Der Nationalrat hat beschlossen:
 
 
 > ![BG.StVO.obj.BN.NOR40261454.H.img50is.jpg](BG.StVO.obj.BN.NOR40261454.H.img50is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img50is.jpg")
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40261454.H.img51is.jpg](BG.StVO.obj.BN.NOR40261454.H.img51is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img51is.jpg")
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40261454.H.img52is.png](BG.StVO.obj.BN.NOR40261454.H.img52is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img52is.png")
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40261454.H.img53is.jpg](BG.StVO.obj.BN.NOR40261454.H.img53is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img53is.jpg")  
 > &nbsp; Diese Zeichen zeigen den weiteren Verlauf einer Autobahn oder Autostraße und die nächste Ausfahrt an\. Ein Zeichen nach a\) ist etwa 1000 m, ein Zeichen nach b\) etwa 700 m oder, wenn ein Zeichen nach c\) nicht angebracht wird, etwa 500 m, ein Zeichen nach c\) etwa 400 m vor dem Beginn einer Ausfahrt aus einer Autobahn oder Autostraße anzubringen; ein Zeichen nach d\) ist etwa 1000 m vor dem Beginn einer Ausfahrt zu einer anderen Autobahn oder Autostraße anzubringen\.  
 > &nbsp; Die Aufschriften \(und allfällige Symbole\) auf einem Zeichen nach c\) \- ausgenommen die Bezeichnung der Anschlußstelle \- hat die Landesregierung auf Antrag von Fremdenverkehrsorganisationen oder von Gemeinden unter Bedachtnahme darauf zu bestimmen, dass die Information einem vordringlichen Bedürfnis der Straßenbenützer dient oder für diese immerhin von erheblichem Interesse ist\. Die Kosten für die Anbringung und Erhaltung eines Zeichens nach c\) sind von demjenigen zu tragen, der die Anbringung dieses Zeichens beantragt\.
@@ -2236,8 +2236,8 @@ Der Nationalrat hat beschlossen:
 
 
 > ![BG.StVO.obj.BN.NOR40261454.H.img54is.png](BG.StVO.obj.BN.NOR40261454.H.img54is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img54is.png")
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40261454.H.img55is.png](BG.StVO.obj.BN.NOR40261454.H.img55is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img55is.png")  
 > ![BG.StVO.obj.BN.NOR40261454.H.img56is.png](BG.StVO.obj.BN.NOR40261454.H.img56is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img56is.png")  
 > &nbsp; Diese Zeichen zeigen eine Ausfahrt aus einer Autobahn oder Autostraße an\. Ein Zeichen nach a\) ist am Beginn der Ausfahrt, ein Zeichen nach b\) am Ende der Ausfahrt auf der linken Seite anzubringen\.
@@ -2261,8 +2261,8 @@ Der Nationalrat hat beschlossen:
 
 
 > ![BG.StVO.obj.BN.NOR40261454.H.img60is.png](BG.StVO.obj.BN.NOR40261454.H.img60is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img60is.png")
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40261454.H.img61is.png](BG.StVO.obj.BN.NOR40261454.H.img61is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img61is.png")  
 > &nbsp; Diese Zeichen kündigen auf Straßen mit Richtungsfahrbahnen einen Wechsel der Richtungsfahrbahn an, und zwar ein Zeichen nach a\) die Überleitung des Verkehrs von einer dann gesperrten Richtungsfahrbahn auf die Gegenfahrbahn, ein Zeichen nach b\) die Rückleitung zum getrennten Richtungsverkehr\. Auf den Zeichen ist die Anzahl und der Verlauf der zur Verfügung stehenden Fahrstreifen anzuzeigen\. In den Pfeilen können auch Hinweise auf Beschränkungen oder Verbote enthalten sein\. Auf den Zeichen können auch Entfernungsangaben angebracht werden\.
 
@@ -2357,9 +2357,9 @@ Der Nationalrat hat beschlossen:
 > **a\)** ![BG.StVO.obj.BN.NOR40261454.H.img83is.jpg](BG.StVO.obj.BN.NOR40261454.H.img83is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img83is.jpg")  
 > **b\)** ![BG.StVO.obj.BN.NOR40261454.H.img84is.jpg](BG.StVO.obj.BN.NOR40261454.H.img84is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img84is.jpg")  
 > &nbsp; Diese Zeichen zeigen einen Geh\- und Radweg an, der von Radfahrern benützt werden darf, aber nicht muss, und zwar ein Zeichen nach a\) einen für die gemeinsame Benützung durch Fußgänger und Radfahrer bestimmten Geh\- und Radweg und ein Zeichen nach b\) einen Geh\- und Radweg, bei dem der Fußgänger\- und Fahrradverkehr getrennt geführt werden, wobei die Symbole im Zeichen nach b\) der tatsächlichen Verkehrsführung entsprechend anzuordnen sind \(Fußgänger rechts, Fahrrad links oder umgekehrt\)\.
-
-> `undefined` „Ende einer Fahrradstraße, einer Schulstraße, eines Radweges oder eines Geh\- und Radweges ohne Benützungspflicht“  
-> &nbsp; Ein roter Querbalken von links unten nach rechts oben in den Zeichen nach Z 26, 26a, 27, 28 und 29 zeigt das Ende der jeweiligen Fahrradstraße, Schulstraße oder Radfahranlage an\.
+>
+>> `undefined` „Ende einer Fahrradstraße, einer Schulstraße, eines Radweges oder eines Geh\- und Radweges ohne Benützungspflicht“  
+>> &nbsp; Ein roter Querbalken von links unten nach rechts oben in den Zeichen nach Z 26, 26a, 27, 28 und 29 zeigt das Ende der jeweiligen Fahrradstraße, Schulstraße oder Radfahranlage an\.
 
 ### § 54 StVO — Zusatztafeln
 
@@ -2377,63 +2377,63 @@ Der Nationalrat hat beschlossen:
 > ![BG.StVO.obj.BN.NOR40245684.image001.png](BG.StVO.obj.BN.NOR40245684.image001.png "~/Dokumente/Bundesnormen/NOR40245684/image001.png")
 >
 > Eine solche Zusatztafel gibt die Entfernung bis zu der Straßenstelle an, auf die sich das betreffende Straßenverkehrszeichen bezieht\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image002.png](BG.StVO.obj.BN.NOR40245684.image002.png "~/Dokumente/Bundesnormen/NOR40245684/image002.png")
 >
 > Eine solche Zusatztafel gibt die Länge eines Straßenabschnittes an, für den das betreffende Straßenverkehrszeichen gilt, wie etwa eine längere Gefahrenstelle, die Länge einer Verbots\- oder Beschränkungsstrecke u\. dgl\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image003.png](BG.StVO.obj.BN.NOR40245684.image003.png "~/Dokumente/Bundesnormen/NOR40245684/image003.png")
 >
 > Eine solche Zusatztafel unter dem Zeichen „Vorrang geben“ kündigt das Zeichen „Halt“ an \(§ 48 Abs\. 6\)\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image004.png](BG.StVO.obj.BN.NOR40245684.image004.png "~/Dokumente/Bundesnormen/NOR40245684/image004.png")
 >
 > Eine solche Zusatztafel unter den Zeichen „Vorrang geben“ oder „Halt“ zeigt an, dass die Querstraße eine Vorrangstraße ist\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image005.png](BG.StVO.obj.BN.NOR40245684.image005.png "~/Dokumente/Bundesnormen/NOR40245684/image005.png")
 >
 > Eine solche Zusatztafel unter den Zeichen „Vorrang geben“, „Halt“ oder „Vorrangstraße“ zeigt an, dass eine Straße mit Vorrang einen besonderen Verlauf nimmt \(§ 19 Abs\. 4\)\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image006.jpg](BG.StVO.obj.BN.NOR40245684.image006.jpg "~/Dokumente/Bundesnormen/NOR40245684/image006.jpg")
 >
 > Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei Schneelage oder Eisbildung auf der Fahrbahn zu beachten ist\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image007.png](BG.StVO.obj.BN.NOR40245684.image007.png "~/Dokumente/Bundesnormen/NOR40245684/image007.png")
 >
 > Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei nasser Fahrbahn zu beachten ist\. Die Symbole der Zusatztafeln nach lit\. f und g dürfen auch auf einer Zusatztafel nebeneinander angebracht werden\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image008.png](BG.StVO.obj.BN.NOR40245684.image008.png "~/Dokumente/Bundesnormen/NOR40245684/image008.png")
 >
 > Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt an, dass das Halte\- und Parkverbot nicht für Fahrzeuge gilt, die nach der Bestimmung des § 29b Abs\. 4 gekennzeichnet sind\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image009.png](BG.StVO.obj.BN.NOR40245684.image009.png "~/Dokumente/Bundesnormen/NOR40245684/image009.png")
 >
 > Eine solche Zusatztafel unter dem Zeichen „Überholen verboten“ zeigt an, dass Zugmaschinen, Motorkarren, selbstfahrende Arbeitsmaschinen und vierrädrige Leichtkraftfahrzeuge überholt werden dürfen\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image010.png](BG.StVO.obj.BN.NOR40245684.image010.png "~/Dokumente/Bundesnormen/NOR40245684/image010.png")
 >
 > Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt eine Abschleppzone \(§ 89a Abs\. 2 lit\. b\) an\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image011.png](BG.StVO.obj.BN.NOR40245684.image011.png "~/Dokumente/Bundesnormen/NOR40245684/image011.png")
 >
 > Diese Zusatztafel darf nur verwendet werden, wenn auf einer Fahrbahn mit mehreren Fahrstreifen für dieselbe Fahrtrichtung Straßenverkehrszeichen oberhalb eines Fahrstreifens angebracht sind; sie zeigt an, dass das Straßenverkehrszeichen nur für diesen Fahrstreifen gilt\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image012.png](BG.StVO.obj.BN.NOR40245684.image012.png "~/Dokumente/Bundesnormen/NOR40245684/image012.png")
 >
 > Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwendet werden, das auf einer Verkehrsinsel, einem Fahrbahnteiler oder einer ähnlichen baulichen Einrichtung, die die Fahrbahn in mehrere Fahrstreifen für dieselbe Fahrtrichtung aufteilt, angebracht ist\. Sie zeigt an, dass das Straßenverkehrszeichen nur für den Fahrstreifen gilt, der links an der Trennungseinrichtung vorbeiführt\.
-
-
+>
+>
 > ![BG.StVO.obj.BN.NOR40245684.image013.jpg](BG.StVO.obj.BN.NOR40245684.image013.jpg "~/Dokumente/Bundesnormen/NOR40245684/image013.jpg")  
 > &nbsp; Eine solche Zusatztafel unter dem Zeichen ‚Halten und Parken verboten‘ zeigt an, dass das Halte\- und Parkverbot nicht für ein von außen aufladbares Kraftfahrzeug mit einem Antriebsstrang, der mindestens einen nicht\-peripheren elektrischen Motor als Energiewandler mit einem elektrisch aufladbaren Energiespeichersystem, das extern aufgeladen werden kann, enthält \(Elektrofahrzeug\), während des Ladevorgangs gilt\.
 >
@@ -2633,11 +2633,11 @@ Der Nationalrat hat beschlossen:
 > `(2)` Für die Lenker von Motorfahrrädern gelten die Bestimmungen des § 68 Abs\. 3 bis 5 über das Verhalten von Radfahrern sinngemäß\.
 
 > Überdies ist ihnen verboten:
-
-> `a)` Das Nebeneinanderfahren mit anderen Motorfahrrädern oder Fahrrädern,
-
-> `b)` Motorfahrräder neben einem anderen Motorfahrrad oder Fahrrad zu schieben,
-
+>
+>> `a)` Das Nebeneinanderfahren mit anderen Motorfahrrädern oder Fahrrädern,
+>
+>> `b)` Motorfahrräder neben einem anderen Motorfahrrad oder Fahrrad zu schieben,
+>
 > &nbsp; *\(Anm\.: lit\. c aufgehoben durch BGBl\. I Nr\. 122/2022\)*
 
 ## VII. ABSCHNITT.
@@ -2661,16 +2661,16 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Breite eines Fuhrwerkes darf bei Möbelwagen nicht mehr als
 
 > 2\.40 m, bei anderen Fuhrwerken nicht mehr als 2\.20 m betragen\. Die Breite der Ladung darf bei Erntefuhren und bei Fuhren mit Heu, Stroh oder Schilf in nicht gepreßtem Zustande, wenn sie nicht länger als 11 m sind, 3\.50 m nicht überschreiten\. Ansonsten darf die Ladung nicht breiter als das Fuhrwerk sein\.
-
-> `(3)` Fuhrwerke dürfen auch mit der Ladung nicht höher als 3\.80 m sein\.
-
-> `(4)` Das Gesamtgewicht \(§ 2 Abs\. 1 Z 20\) eines Fuhrwerkes darf unter Bedachtnahme auf die Beschaffenheit der Straße und ihrer Neigungsverhältnisse und unter Bedachtnahme auf die Länge der zu befahrenden Strecke sowie auf die Art und Beschaffenheit des Fahrzeuges und auf die Witterungsverhältnisse die Leistungsfähigkeit des Gespannes nicht übersteigen\. Das Gesamtgewicht eines einspännigen Fuhrwerkes darf 2 t, das eines zweispännigen Fuhrwerkes
-
+>
+>> `(3)` Fuhrwerke dürfen auch mit der Ladung nicht höher als 3\.80 m sein\.
+>
+>> `(4)` Das Gesamtgewicht \(§ 2 Abs\. 1 Z 20\) eines Fuhrwerkes darf unter Bedachtnahme auf die Beschaffenheit der Straße und ihrer Neigungsverhältnisse und unter Bedachtnahme auf die Länge der zu befahrenden Strecke sowie auf die Art und Beschaffenheit des Fahrzeuges und auf die Witterungsverhältnisse die Leistungsfähigkeit des Gespannes nicht übersteigen\. Das Gesamtgewicht eines einspännigen Fuhrwerkes darf 2 t, das eines zweispännigen Fuhrwerkes
+>
 > 4\.8 t nicht überschreiten\. Werden bei Fuhren in einem ebenen Gelände besonders kräftige Pferde verwendet, so darf das Gesamtgewicht für einspännige Fuhrwerke bis 2\.5 t und für zweispännige Fuhrwerke
 >
 > 5\.5 t betragen\. Im ebenen Gelände und bei Verwendung luftbereifter und mit Wälzlagern ausgestatteter Fuhrwerke darf das Gesamtgewicht um ein Drittel erhöht werden\.
-
-> `(5)` Die im Abs\. 4 angeführten Gesamtgewichte dürfen bei mehr als zweispännigen Fuhrwerken überschritten werden, doch darf das Gesamtgewicht keinesfalls 10 t übersteigen\.
+>
+>> `(5)` Die im Abs\. 4 angeführten Gesamtgewichte dürfen bei mehr als zweispännigen Fuhrwerken überschritten werden, doch darf das Gesamtgewicht keinesfalls 10 t übersteigen\.
 
 ### § 72 StVO — Beschaffenheit und Ausstattung des Fuhrwerkes
 
@@ -2831,10 +2831,10 @@ Der Nationalrat hat beschlossen:
 ### § 78 StVO — Verhalten auf Verkehrsflächen mit Fußverkehr
 
 > Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:
-
-> `a)` andere Straßenbenützer zu gefährden, insbesondere mit Gegenständen, die scharf, spitz oder sonst gefährlich sind sowie
-
-> `b)` den Fußgängerverkehr mutwillig zu behindern\.
+>
+>> `a)` andere Straßenbenützer zu gefährden, insbesondere mit Gegenständen, die scharf, spitz oder sonst gefährlich sind sowie
+>
+>> `b)` den Fußgängerverkehr mutwillig zu behindern\.
 
 ## IX. ABSCHNITT.
 
@@ -3118,12 +3118,12 @@ Der Nationalrat hat beschlossen:
 ### § 94 StVO — Zuständigkeit des Bundesministers für Verkehr, Innovation und Technologie
 
 > Behörde im Sinne dieses Bundesgesetzes ist der Bundesminister für Verkehr, Innovation und Technologie
-
-> `1.` für die Erlassung der ihm in diesem Bundesgesetz ausdrücklich vorbehaltenen Verordnungen,
-
-> `2.` für die Erlassung von Verordnungen, die Autobahnen betreffen, ausgenommen jedoch Verordnungen gemäß § 43 Abs\. 1a, und
-
-> `3.` für die Erlassung von Verordnungen, mit denen Bundesstraßen zu Autostraßen oder Vorrangstraßen erklärt werden\.
+>
+>> `1.` für die Erlassung der ihm in diesem Bundesgesetz ausdrücklich vorbehaltenen Verordnungen,
+>
+>> `2.` für die Erlassung von Verordnungen, die Autobahnen betreffen, ausgenommen jedoch Verordnungen gemäß § 43 Abs\. 1a, und
+>
+>> `3.` für die Erlassung von Verordnungen, mit denen Bundesstraßen zu Autostraßen oder Vorrangstraßen erklärt werden\.
 
 ### § 94a StVO — Zuständigkeit der Landesregierung
 
@@ -3181,78 +3181,78 @@ Der Nationalrat hat beschlossen:
 ### § 94d StVO — Eigener Wirkungsbereich der Gemeinde
 
 > Sofern der Akt der Vollziehung nur für das Gebiet der betreffenden Gemeinde wirksam werden und sich auf Straßen, die nach den Rechtsvorschriften weder als Autobahnen, Autostraßen, Bundesstraßen oder Landesstraßen gelten noch diesen Straßen gleichzuhalten sind, beziehen soll, sind folgende Angelegenheiten von der Gemeinde im eigenen Wirkungsbereich zu besorgen:
-
-> `1.` die Erlassung von Verordnungen nach § 20 Abs\. 2a,
-
-> `1a.` die Bewilligung von Ausnahmen nach § 24 Abs\. 8,
-
-> `1b.` die Bestimmung von Kurzparkzonen \(§ 25\),
-
-> `1c.` die Erlassung einer Verordnung nach § 25 Abs\. 5,
-
-> `2.` das Verbot oder die Einschränkung von Wirtschaftsfuhren \(§ 30 Abs\. 6\),
-
-> `3.` die Verpflichtung eines Anrainers, die Anbringung von Einrichtungen zur Regelung und Sicherung des Verkehrs zu dulden \(§ 33 Abs\. 1\),
-
-> `3a.` die Erlassung von Bescheiden betreffend Vermeidung von Verkehrsbeeinträchtigungen \(§ 35\),
-
-> `4.` die Erlassung von Verordnungen nach § 43, mit denen
 >
->> `a)` Beschränkungen für das Halten und Parken,
+>> `1.` die Erlassung von Verordnungen nach § 20 Abs\. 2a,
 >
->> `b)` ein Hupverbot,
+>> `1a.` die Bewilligung von Ausnahmen nach § 24 Abs\. 8,
 >
->> `c)` ein Benützungsverbot für Radfahranlagen durch Rollschuhfahrer oder
+>> `1b.` die Bestimmung von Kurzparkzonen \(§ 25\),
 >
->> `d)` Geschwindigkeitsbeschränkungen
+>> `1c.` die Erlassung einer Verordnung nach § 25 Abs\. 5,
 >
-> &nbsp; erlassen werden,
-
-> `4a.` die Erlassung von Verordnungen nach § 43 Abs\. 2a,
-
-> `5.` Hinweise auf Gefahren und sonstige verkehrswichtige Umstände, unbeschadet des diesbezüglichen Rechtes des Straßenerhalters nach § 98 Abs\. 3,
-
-> `6.` die Bewilligung von Ausnahmen \(§ 45\) von den erlassenen Beschränkungen und Verboten,
-
-> `7.` die Bewilligung der Ladetätigkeit nach § 62 Abs\. 4 und 5,
-
-> `8.` die Bestimmung von Fußgängerzonen und die Bewilligung von Ausnahmen für Fußgängerzonen \(§ 76a\),
-
-> `8a.` die Bestimmung von Wohnstraßen \(§ 76b\),
-
-> `8b.` die Bestimmung von Fahrradstraßen einschließlich der Bewilligung von Ausnahmen für Fahrradstraßen \(§ 67\),
-
-> `8c.` die Bestimmung von Begegnungszonen \(§ 76c\),
-
-> `8d.` die Bestimmung von Schulstraßen einschließlich der Verordnung und Bewilligung von Ausnahmen sowie die Ermächtigung von Personen \(§ 76d\),
-
-> `9.` die Bewilligung nach § 82,
-
-> `10.` die Bewilligung von Werbungen und Ankündigungen \(§ 84 Abs\. 3\),
-
-> `11.` die Anweisung eines Platzes zur Ausübung der Bettelmusik \(§ 85 Abs\. 3\),
-
-> `12.` die Entgegennahme der Anzeigen von Umzügen \(§ 86\), sofern sich nicht aus § 95 die Zuständigkeit der Landespolizeidirektion ergibt,
-
-> `13.` die Erlassung von Verordnungen nach § 87 Abs\. 1 \(Wintersport auf Straßen\),
-
-> `14.` die Erlassung von Verordnungen nach § 88 Abs\. 1 \(Spielen auf Straßen, Rollschuhfahren auf Fahrbahnen\),
-
-> `15.` die Entfernung von Hindernissen \(§ 89a\),
-
-> `15a.` Die Erlassung von Verordnungen nach § 89a Abs\. 7a \(Tariffestsetzung für die Entfernung und Aufbewahrung von Hindernissen\),
-
-> `16.` die Bewilligung von Arbeiten \(§ 90\) einschließlich der Erlassung der durch diese Arbeiten erforderlichen Verkehrsverbote und Verkehrsbeschränkungen,
-
-> `17.` die Verpflichtung, Straßenverunreinigungen zu beseitigen bzw\. die Kosten hiefür zu tragen \(§ 92 Abs\. 3\),
-
-> `18.` die Erlassung von Verordnungen und Bescheiden nach § 93 Abs\. 4 und 6 \(Pflichten der Anrainer\),
-
-> `19.` die Handhabung der Bestimmungen des § 96 Abs\. 4,
-
-> `20.` die Sicherung des Schulweges \(§§ 29a und 97a\),
-
-> `21.` die Erlassung von Verordnungen nach § 88b Abs\. 1 StVO\.
+>> `2.` das Verbot oder die Einschränkung von Wirtschaftsfuhren \(§ 30 Abs\. 6\),
+>
+>> `3.` die Verpflichtung eines Anrainers, die Anbringung von Einrichtungen zur Regelung und Sicherung des Verkehrs zu dulden \(§ 33 Abs\. 1\),
+>
+>> `3a.` die Erlassung von Bescheiden betreffend Vermeidung von Verkehrsbeeinträchtigungen \(§ 35\),
+>
+>> `4.` die Erlassung von Verordnungen nach § 43, mit denen
+>>
+>>> `a)` Beschränkungen für das Halten und Parken,
+>>
+>>> `b)` ein Hupverbot,
+>>
+>>> `c)` ein Benützungsverbot für Radfahranlagen durch Rollschuhfahrer oder
+>>
+>>> `d)` Geschwindigkeitsbeschränkungen
+>>
+>> &nbsp; erlassen werden,
+>
+>> `4a.` die Erlassung von Verordnungen nach § 43 Abs\. 2a,
+>
+>> `5.` Hinweise auf Gefahren und sonstige verkehrswichtige Umstände, unbeschadet des diesbezüglichen Rechtes des Straßenerhalters nach § 98 Abs\. 3,
+>
+>> `6.` die Bewilligung von Ausnahmen \(§ 45\) von den erlassenen Beschränkungen und Verboten,
+>
+>> `7.` die Bewilligung der Ladetätigkeit nach § 62 Abs\. 4 und 5,
+>
+>> `8.` die Bestimmung von Fußgängerzonen und die Bewilligung von Ausnahmen für Fußgängerzonen \(§ 76a\),
+>
+>> `8a.` die Bestimmung von Wohnstraßen \(§ 76b\),
+>
+>> `8b.` die Bestimmung von Fahrradstraßen einschließlich der Bewilligung von Ausnahmen für Fahrradstraßen \(§ 67\),
+>
+>> `8c.` die Bestimmung von Begegnungszonen \(§ 76c\),
+>
+>> `8d.` die Bestimmung von Schulstraßen einschließlich der Verordnung und Bewilligung von Ausnahmen sowie die Ermächtigung von Personen \(§ 76d\),
+>
+>> `9.` die Bewilligung nach § 82,
+>
+>> `10.` die Bewilligung von Werbungen und Ankündigungen \(§ 84 Abs\. 3\),
+>
+>> `11.` die Anweisung eines Platzes zur Ausübung der Bettelmusik \(§ 85 Abs\. 3\),
+>
+>> `12.` die Entgegennahme der Anzeigen von Umzügen \(§ 86\), sofern sich nicht aus § 95 die Zuständigkeit der Landespolizeidirektion ergibt,
+>
+>> `13.` die Erlassung von Verordnungen nach § 87 Abs\. 1 \(Wintersport auf Straßen\),
+>
+>> `14.` die Erlassung von Verordnungen nach § 88 Abs\. 1 \(Spielen auf Straßen, Rollschuhfahren auf Fahrbahnen\),
+>
+>> `15.` die Entfernung von Hindernissen \(§ 89a\),
+>
+>> `15a.` Die Erlassung von Verordnungen nach § 89a Abs\. 7a \(Tariffestsetzung für die Entfernung und Aufbewahrung von Hindernissen\),
+>
+>> `16.` die Bewilligung von Arbeiten \(§ 90\) einschließlich der Erlassung der durch diese Arbeiten erforderlichen Verkehrsverbote und Verkehrsbeschränkungen,
+>
+>> `17.` die Verpflichtung, Straßenverunreinigungen zu beseitigen bzw\. die Kosten hiefür zu tragen \(§ 92 Abs\. 3\),
+>
+>> `18.` die Erlassung von Verordnungen und Bescheiden nach § 93 Abs\. 4 und 6 \(Pflichten der Anrainer\),
+>
+>> `19.` die Handhabung der Bestimmungen des § 96 Abs\. 4,
+>
+>> `20.` die Sicherung des Schulweges \(§§ 29a und 97a\),
+>
+>> `21.` die Erlassung von Verordnungen nach § 88b Abs\. 1 StVO\.
 
 ### § 94e StVO — Verordnungen
 

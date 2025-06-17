@@ -1046,12 +1046,12 @@ Der Nationalrat hat beschlossen:
 ### § 45 StGB — Bedingte Nachsicht von vorbeugenden Maßnahmen
 
 > *\(Anm\.: Abs\. 1 aufgehoben durch Art\. 1 Z 11, BGBl\. I Nr\. 223/2022\)*
-
-> `(2)` Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher darf nur zugleich mit der Strafe und nur dann bedingt nachgesehen werden, wenn anzunehmen ist, dass die bloße Androhung der Unterbringung in Verbindung mit einer oder mehreren der in den §§ 50 bis 52 vorgesehenen Maßnahmen genügen werde, um die Gewöhnung des Rechtsbrechers an berauschende Mittel oder Suchtmittel zu überwinden\. Die für die bedingte Strafnachsicht bestimmte Probezeit gilt auch für die bedingte Nachsicht der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher\.
-
-> `(3)` § 43 Abs\. 2 gilt dem Sinne nach\.
-
-> `(4)` Die bedingte Nachsicht anderer vorbeugender Maßnahmen ist unzulässig\.
+>
+>> `(2)` Die Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher darf nur zugleich mit der Strafe und nur dann bedingt nachgesehen werden, wenn anzunehmen ist, dass die bloße Androhung der Unterbringung in Verbindung mit einer oder mehreren der in den §§ 50 bis 52 vorgesehenen Maßnahmen genügen werde, um die Gewöhnung des Rechtsbrechers an berauschende Mittel oder Suchtmittel zu überwinden\. Die für die bedingte Strafnachsicht bestimmte Probezeit gilt auch für die bedingte Nachsicht der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher\.
+>
+>> `(3)` § 43 Abs\. 2 gilt dem Sinne nach\.
+>
+>> `(4)` Die bedingte Nachsicht anderer vorbeugender Maßnahmen ist unzulässig\.
 
 ### § 46 StGB — Bedingte Entlassung aus einer Freiheitsstrafe
 
@@ -1119,10 +1119,10 @@ Der Nationalrat hat beschlossen:
 > einer medizinischen Behandlung zu unterziehen\. Die Weisung, sich
 >
 > einer medizinischen Behandlung zu unterziehen, die einen operativen Eingriff umfaßt, darf jedoch auch mit Zustimmung des Rechtsbrechers nicht erteilt werden\.
-
-> `(4)` Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach § 50 geboten scheint\.
-
-> `(5)` Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 45 gilt § 179a des Strafvollzugsgesetzes \(StVG\), BGBl\. Nr\. 144/1969, sinngemäß\.
+>
+>> `(4)` Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach § 50 geboten scheint\.
+>
+>> `(5)` Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 45 gilt § 179a des Strafvollzugsgesetzes \(StVG\), BGBl\. Nr\. 144/1969, sinngemäß\.
 
 ### § 52 StGB — Bewährungshilfe
 
@@ -1250,8 +1250,8 @@ Der Nationalrat hat beschlossen:
 >
 > ein Jahr,  
 > &nbsp; wenn die Handlung mit nicht mehr als sechsmonatiger Freiheitsstrafe oder nur mit Geldstrafe bedroht ist\.
-
-> `(4)` Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende Maßnahmen unzulässig\.
+>
+>> `(4)` Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende Maßnahmen unzulässig\.
 
 ### § 58 StGB — Verlängerung der Verjährungsfrist
 
@@ -1289,8 +1289,8 @@ Der Nationalrat hat beschlossen:
 >
 > fünf Jahre  
 > &nbsp; in allen übrigen Fällen\.
-
-> `(4)` Ist gleichzeitig auf mehrere Strafen oder vorbeugende Maßnahmen erkannt worden, so richtet sich die Verjährung der Vollstreckbarkeit aller dieser Strafen oder Maßnahmen nach der Strafe oder Maßnahme, für die die längste Verjährungsfrist vorgesehen ist\. Sind eine Freiheitsstrafe und eine Geldstrafe gleichzeitig verhängt worden, so ist zur Berechnung der Verjährungsfrist die Ersatzfreiheitsstrafe zur Freiheitsstrafe hinzuzurechnen\.
+>
+>> `(4)` Ist gleichzeitig auf mehrere Strafen oder vorbeugende Maßnahmen erkannt worden, so richtet sich die Verjährung der Vollstreckbarkeit aller dieser Strafen oder Maßnahmen nach der Strafe oder Maßnahme, für die die längste Verjährungsfrist vorgesehen ist\. Sind eine Freiheitsstrafe und eine Geldstrafe gleichzeitig verhängt worden, so ist zur Berechnung der Verjährungsfrist die Ersatzfreiheitsstrafe zur Freiheitsstrafe hinzuzurechnen\.
 
 ### § 60 StGB — Verlängerung der Frist für die Vollstreckungsverjährung
 
@@ -1626,8 +1626,8 @@ Der Nationalrat hat beschlossen:
 >> `3.` ein schweres Leiden, Siechtum oder Berufsunfähigkeit des Geschädigten,
 
 > &nbsp; herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
-
-> `(2)` Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Dauerfolge \(Abs\. 1\) beim Verletzten herbeiführt\.
+>
+>> `(2)` Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Dauerfolge \(Abs\. 1\) beim Verletzten herbeiführt\.
 
 ### § 86 StGB — Körperverletzung mit tödlichem Ausgang
 
@@ -1656,10 +1656,10 @@ Der Nationalrat hat beschlossen:
 >> `3.` der Täter ein Angehöriger eines gesetzlich geregelten Gesundheitsberufes und die Körperverletzung in Ausübung seines Berufes zugefügt worden,
 
 > &nbsp; so ist der Täter nach Abs\. 1 nicht zu bestrafen\.
-
-> `(3)` Wer grob fahrlässig \(§ 6 Abs\. 3\) oder in dem in § 81 Abs\. 2 bezeichneten Fall einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
-
-> `(4)` Hat die Tat nach Abs\. 1 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\. Hat die Tat nach Abs\. 3 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat sie jedoch eine schwere Körperverletzung \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
+>
+>> `(3)` Wer grob fahrlässig \(§ 6 Abs\. 3\) oder in dem in § 81 Abs\. 2 bezeichneten Fall einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+>
+>> `(4)` Hat die Tat nach Abs\. 1 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\. Hat die Tat nach Abs\. 3 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat sie jedoch eine schwere Körperverletzung \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 ### § 89 StGB — Gefährdung der körperlichen Sicherheit
 
@@ -1686,11 +1686,11 @@ Der Nationalrat hat beschlossen:
 ### § 91a StGB — Tätlicher Angriff auf mit bestimmten Aufgaben betraute Bedienstete einer dem öffentlichen Verkehr dienenden Anstalt oder Angehörige des Gesundheits- oder Rettungswesens oder Organe der Feuerwehr
 
 > Wer eine Person, 
-
-> `1.` die mit der Kontrolle der Einhaltung der Beförderungsbedingungen oder der Lenkung eines Beförderungsmittels einer dem öffentlichen Verkehr dienenden Anstalt betraut ist, 
-
-> `2.` in einem gesetzlich geregelten Gesundheitsberuf, für eine anerkannte Rettungsorganisation oder in der Verwaltung im Bereich eines solchen Berufs, insbesondere einer Krankenanstalt, oder als Organ der Feuerwehr tätig ist,
-
+>
+>> `1.` die mit der Kontrolle der Einhaltung der Beförderungsbedingungen oder der Lenkung eines Beförderungsmittels einer dem öffentlichen Verkehr dienenden Anstalt betraut ist, 
+>
+>> `2.` in einem gesetzlich geregelten Gesundheitsberuf, für eine anerkannte Rettungsorganisation oder in der Verwaltung im Bereich eines solchen Berufs, insbesondere einer Krankenanstalt, oder als Organ der Feuerwehr tätig ist,
+>
 > &nbsp; während der Ausübung ihrer Tätigkeit tätlich angreift, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 ### § 92 StGB — Quälen oder Vernachlässigen unmündiger, jüngerer oder wehrloser Personen
@@ -2252,15 +2252,15 @@ Der Nationalrat hat beschlossen:
 ### § 138 StGB — Schwerer Eingriff in fremdes Jagd- oder Fischereirecht
 
 > Mit Freiheitsstrafe bis zu drei Jahren ist zu bestrafen, wer die Tat
-
-> `1.` an Wild, an Fischen oder an anderen dem fremden Jagd\- oder Fischereirecht unterliegenden Sachen in einem 5 000 Euro übersteigenden Wert,
-
-> `2.` in der Schonzeit oder unter Anwendung von Eisen, von Giftködern, einer elektrischen Fanganlage, eines Sprengstoffs, in einer den Wild\- oder Fischbestand gefährdenden Weise oder an Wild unter Anwendung von Schlingen,
-
-> `3.` in Begleitung eines Beteiligten \(§ 12\) begeht und dabei entweder selbst eine Schußwaffe bei sich führt oder weiß, daß der Beteiligte eine Schußwaffe bei sich führt oder
-
-> `4.` gewerbsmäßig
-
+>
+>> `1.` an Wild, an Fischen oder an anderen dem fremden Jagd\- oder Fischereirecht unterliegenden Sachen in einem 5 000 Euro übersteigenden Wert,
+>
+>> `2.` in der Schonzeit oder unter Anwendung von Eisen, von Giftködern, einer elektrischen Fanganlage, eines Sprengstoffs, in einer den Wild\- oder Fischbestand gefährdenden Weise oder an Wild unter Anwendung von Schlingen,
+>
+>> `3.` in Begleitung eines Beteiligten \(§ 12\) begeht und dabei entweder selbst eine Schußwaffe bei sich führt oder weiß, daß der Beteiligte eine Schußwaffe bei sich führt oder
+>
+>> `4.` gewerbsmäßig
+>
 > &nbsp; begeht\.
 
 ### § 139 StGB — Verfolgungsvoraussetzung
@@ -2586,30 +2586,30 @@ Der Nationalrat hat beschlossen:
 ### § 163c StGB — Verbände
 
 > Die §§ 163a und 163b sind auf folgende Verbände anzuwenden:
-
-> `1.` Gesellschaften mit beschränkter Haftung,
-
-> `2.` Aktiengesellschaften,
-
-> `3.` Europäische Gesellschaften \(SE\),
-
-> `4.` Genossenschaften,
-
-> `5.` Europäische Genossenschaften \(SCE\),
-
-> `6.` Versicherungsvereine auf Gegenseitigkeit,
-
-> `7.` große Vereine im Sinne des § 22 Abs\. 2 des Vereinsgesetzes 2002, BGBl\. I Nr\. 66/2002,
-
-> `8.` offene Gesellschaften und Kommanditgesellschaften im Sinne des § 189 Abs\. 1 Z 2 lit\. a UGB,
-
-> `9.` Sparkassen,
-
-> `10.` Privatstiftungen,
-
-> `11.` die Stiftung nach dem ORF\-Gesetz und
-
-> `12.` den in Z 1 bis 11 genannten Verbänden vergleichbare ausländische Verbände, deren übertragbare Wertpapiere zum Handel an einem geregelten Markt im Inland zugelassen sind oder die im Hinblick auf eine Zweigniederlassung im Inland im Firmenbuch eingetragen sind \(§ 12 UGB\)\.
+>
+>> `1.` Gesellschaften mit beschränkter Haftung,
+>
+>> `2.` Aktiengesellschaften,
+>
+>> `3.` Europäische Gesellschaften \(SE\),
+>
+>> `4.` Genossenschaften,
+>
+>> `5.` Europäische Genossenschaften \(SCE\),
+>
+>> `6.` Versicherungsvereine auf Gegenseitigkeit,
+>
+>> `7.` große Vereine im Sinne des § 22 Abs\. 2 des Vereinsgesetzes 2002, BGBl\. I Nr\. 66/2002,
+>
+>> `8.` offene Gesellschaften und Kommanditgesellschaften im Sinne des § 189 Abs\. 1 Z 2 lit\. a UGB,
+>
+>> `9.` Sparkassen,
+>
+>> `10.` Privatstiftungen,
+>
+>> `11.` die Stiftung nach dem ORF\-Gesetz und
+>
+>> `12.` den in Z 1 bis 11 genannten Verbänden vergleichbare ausländische Verbände, deren übertragbare Wertpapiere zum Handel an einem geregelten Markt im Inland zugelassen sind oder die im Hinblick auf eine Zweigniederlassung im Inland im Firmenbuch eingetragen sind \(§ 12 UGB\)\.
 
 ### § 163d StGB — Tätige Reue
 
@@ -3898,13 +3898,13 @@ Der Nationalrat hat beschlossen:
 ### § 278a StGB — Kriminelle Organisation
 
 > Wer eine auf längere Zeit angelegte unternehmensähnliche Verbindung einer größeren Zahl von Personen gründet oder sich an einer solchen Verbindung als Mitglied beteiligt \(§ 278 Abs\. 3\),
-
-> `1.` die, wenn auch nicht ausschließlich, auf die wiederkehrende und geplante Begehung schwerwiegender strafbarer Handlungen, die das Leben, die körperliche Unversehrtheit, die Freiheit oder das Vermögen bedrohen, oder schwerwiegender strafbarer Handlungen im Bereich der sexuellen Ausbeutung von Menschen, der Schlepperei oder des unerlaubten Verkehrs mit Kampfmitteln, Kernmaterial und radioaktiven Stoffen, gefährlichen Abfällen, Falschgeld oder Suchtmitteln ausgerichtet ist,
-
-> `2.` die dadurch eine Bereicherung in großem Umfang anstrebt und
-
-> `3.` die andere zu korrumpieren oder einzuschüchtern oder sich auf besondere Weise gegen Strafverfolgungsmaßnahmen abzuschirmen sucht,
-
+>
+>> `1.` die, wenn auch nicht ausschließlich, auf die wiederkehrende und geplante Begehung schwerwiegender strafbarer Handlungen, die das Leben, die körperliche Unversehrtheit, die Freiheit oder das Vermögen bedrohen, oder schwerwiegender strafbarer Handlungen im Bereich der sexuellen Ausbeutung von Menschen, der Schlepperei oder des unerlaubten Verkehrs mit Kampfmitteln, Kernmaterial und radioaktiven Stoffen, gefährlichen Abfällen, Falschgeld oder Suchtmitteln ausgerichtet ist,
+>
+>> `2.` die dadurch eine Bereicherung in großem Umfang anstrebt und
+>
+>> `3.` die andere zu korrumpieren oder einzuschüchtern oder sich auf besondere Weise gegen Strafverfolgungsmaßnahmen abzuschirmen sucht,
+>
 > &nbsp; ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. § 278 Abs\. 4 gilt entsprechend\.
 
 ### § 278b StGB — Terroristische Vereinigung
@@ -4047,14 +4047,14 @@ Der Nationalrat hat beschlossen:
 ### § 285 StGB — Verhinderung oder Störung einer Versammlung
 
 > Wer eine nicht verbotene Versammlung dadurch verhindert oder erheblich stört, daß er
-
-> `1.` den Versammlungsraum unzugänglich macht,
-
-> `2.` eine zur Teilnahme berechtigte Person am Zutritt hindert oder ihr den Zutritt erschwert oder ihr die Teilnahme an der Versammlung durch schwere Belästigungen unmöglich macht oder erschwert,
-
-> `3.` in die Versammlung unbefugt eindringt oder
-
-> `4.` eine zur Leitung oder Aufrechterhaltung der Ordnung berufene Person verdrängt oder sich einer ihrer auf den Verlauf der Versammlung bezüglichen Anordnungen tätlich widersetzt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+>
+>> `1.` den Versammlungsraum unzugänglich macht,
+>
+>> `2.` eine zur Teilnahme berechtigte Person am Zutritt hindert oder ihr den Zutritt erschwert oder ihr die Teilnahme an der Versammlung durch schwere Belästigungen unmöglich macht oder erschwert,
+>
+>> `3.` in die Versammlung unbefugt eindringt oder
+>
+>> `4.` eine zur Leitung oder Aufrechterhaltung der Ordnung berufene Person verdrängt oder sich einer ihrer auf den Verlauf der Versammlung bezüglichen Anordnungen tätlich widersetzt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 ### § 286 StGB — Unterlassung der Verhinderung einer mit Strafe bedrohten Handlung
 
@@ -4481,13 +4481,13 @@ Der Nationalrat hat beschlossen:
 ### § 321c StGB — Kriegsverbrechen gegen Eigentum und sonstige Rechte
 
 > Wer im Zusammenhang mit einem bewaffneten Konflikt
-
-> `1.` plündert oder, ohne dass dies durch die Erfordernisse des bewaffneten Konflikts geboten ist, sonst in erheblichem Umfang völkerrechtswidrig Sachen der gegnerischen Partei oder von deren Angehörigen zerstört, sich aneignet oder beschlagnahmt,
-
-> `2.` Kulturgut im Sinne der Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten, BGBl\. Nr\. 58/1964, in großem Ausmaß zerstört oder sich aneignet, oder
-
-> `3.` völkerrechtswidrig anordnet, dass Rechte und Forderungen aller oder eines Teils der Angehörigen der gegnerischen Partei aufgehoben oder ausgesetzt werden oder vor Gericht nicht einklagbar sind,
-
+>
+>> `1.` plündert oder, ohne dass dies durch die Erfordernisse des bewaffneten Konflikts geboten ist, sonst in erheblichem Umfang völkerrechtswidrig Sachen der gegnerischen Partei oder von deren Angehörigen zerstört, sich aneignet oder beschlagnahmt,
+>
+>> `2.` Kulturgut im Sinne der Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten, BGBl\. Nr\. 58/1964, in großem Ausmaß zerstört oder sich aneignet, oder
+>
+>> `3.` völkerrechtswidrig anordnet, dass Rechte und Forderungen aller oder eines Teils der Angehörigen der gegnerischen Partei aufgehoben oder ausgesetzt werden oder vor Gericht nicht einklagbar sind,
+>
 > &nbsp; ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 ### § 321d StGB — Kriegsverbrechen gegen internationale Missionen und Missbrauch von Schutz- und Nationalitätszeichen

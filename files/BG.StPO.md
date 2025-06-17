@@ -1753,20 +1753,20 @@ Der Nationalrat hat beschlossen:
 ### § 65 StPO — Definitionen
 
 > Im Sinne dieses Gesetzes ist
-
-> `1.` „Opfer“
 >
->> `a.` jede Person, die durch eine vorsätzlich begangene Straftat Gewalt oder gefährlicher Drohung ausgesetzt, in ihrer sexuellen Integrität und Selbstbestimmung beeinträchtigt oder deren persönliche Abhängigkeit durch eine solche Straftat ausgenützt worden sein könnte,
+>> `1.` „Opfer“
+>>
+>>> `a.` jede Person, die durch eine vorsätzlich begangene Straftat Gewalt oder gefährlicher Drohung ausgesetzt, in ihrer sexuellen Integrität und Selbstbestimmung beeinträchtigt oder deren persönliche Abhängigkeit durch eine solche Straftat ausgenützt worden sein könnte,
+>>
+>>> `b.` der Ehegatte, der eingetragene Partner, der Lebensgefährte, die Verwandten in gerader Linie, der Bruder oder die Schwester und sonstige Unterhaltsberechtigte einer Person, deren Tod durch eine Straftat herbeigeführt worden sein könnte, oder andere Angehörige, die Zeugen der Tat waren,
+>>
+>>> `c.` jede andere Person, die durch eine Straftat einen Schaden erlitten haben oder sonst in ihren strafrechtlich geschützten Rechtsgütern beeinträchtigt worden sein könnte,
 >
->> `b.` der Ehegatte, der eingetragene Partner, der Lebensgefährte, die Verwandten in gerader Linie, der Bruder oder die Schwester und sonstige Unterhaltsberechtigte einer Person, deren Tod durch eine Straftat herbeigeführt worden sein könnte, oder andere Angehörige, die Zeugen der Tat waren,
+>> `2.` „Privatbeteiligter“ jedes Opfer, das erklärt, sich am Verfahren zu beteiligen, um Ersatz für den erlittenen Schaden oder die erlittene Beeinträchtigung zu begehren,
 >
->> `c.` jede andere Person, die durch eine Straftat einen Schaden erlitten haben oder sonst in ihren strafrechtlich geschützten Rechtsgütern beeinträchtigt worden sein könnte,
-
-> `2.` „Privatbeteiligter“ jedes Opfer, das erklärt, sich am Verfahren zu beteiligen, um Ersatz für den erlittenen Schaden oder die erlittene Beeinträchtigung zu begehren,
-
-> `3.` „Privatankläger“ jede Person, die eine Anklage oder einen anderen Antrag auf Einleitung des Hauptverfahrens wegen einer nicht von Amts wegen zu verfolgenden Straftat bei Gericht einbringt \(§ 71\),
-
-> `4.` „Subsidiarankläger“ jeder Privatbeteiligte, der eine von der Staatsanwaltschaft zurückgezogene Anklage aufrecht hält\.
+>> `3.` „Privatankläger“ jede Person, die eine Anklage oder einen anderen Antrag auf Einleitung des Hauptverfahrens wegen einer nicht von Amts wegen zu verfolgenden Straftat bei Gericht einbringt \(§ 71\),
+>
+>> `4.` „Subsidiarankläger“ jeder Privatbeteiligte, der eine von der Staatsanwaltschaft zurückgezogene Anklage aufrecht hält\.
 
 ## 2. Abschnitt
 
@@ -2435,42 +2435,42 @@ Der Nationalrat hat beschlossen:
 ### § 109 StPO — Definitionen
 
 > Im Sinne dieses Gesetzes ist
-
-> `1.` „Sicherstellung“
 >
->> `a.` die vorläufige Begründung der Verfügungsmacht über Gegenstände, Vermögenswerte und Daten und
+>> `1.` „Sicherstellung“
+>>
+>>> `a.` die vorläufige Begründung der Verfügungsmacht über Gegenstände, Vermögenswerte und Daten und
+>>
+>>> `b.` das vorläufige Verbot der Herausgabe von Gegenständen oder anderen Vermögenswerten an Dritte \(Drittverbot\) und das vorläufige Verbot der Veräußerung oder Verpfändung solcher Gegenstände und Vermögenswerte,
 >
->> `b.` das vorläufige Verbot der Herausgabe von Gegenständen oder anderen Vermögenswerten an Dritte \(Drittverbot\) und das vorläufige Verbot der Veräußerung oder Verpfändung solcher Gegenstände und Vermögenswerte,
-
-> `1a.` „Vermögenswerte“ Vermögenswerte jeder Art, ob körperlich oder unkörperlich, beweglich oder unbeweglich, einschließlich Vermögensrechte und Kryptowerte sowie Urkunden in jeder Form, die ein Recht auf solche Vermögenswerte oder Rechte daran belegen,
-
-> `2.` „Beschlagnahme“
+>> `1a.` „Vermögenswerte“ Vermögenswerte jeder Art, ob körperlich oder unkörperlich, beweglich oder unbeweglich, einschließlich Vermögensrechte und Kryptowerte sowie Urkunden in jeder Form, die ein Recht auf solche Vermögenswerte oder Rechte daran belegen,
 >
->> `a.` eine gerichtliche Entscheidung auf Begründung oder Fortsetzung einer Sicherstellung nach Z 1 und
+>> `2.` „Beschlagnahme“
+>>
+>>> `a.` eine gerichtliche Entscheidung auf Begründung oder Fortsetzung einer Sicherstellung nach Z 1 und
+>>
+>>> `b.` das gerichtliche Verbot der Veräußerung, Belastung oder Verpfändung von Liegenschaften oder Rechten, die in einem öffentlichen Buch eingetragen sind,
 >
->> `b.` das gerichtliche Verbot der Veräußerung, Belastung oder Verpfändung von Liegenschaften oder Rechten, die in einem öffentlichen Buch eingetragen sind,
-
-> `2a.` „Beschlagnahme von Datenträgern und Daten“ eine gerichtliche Entscheidung auf Begründung einer Sicherstellung von
+>> `2a.` „Beschlagnahme von Datenträgern und Daten“ eine gerichtliche Entscheidung auf Begründung einer Sicherstellung von
+>>
+>>> `a.` Datenträgern und darauf gespeicherten Daten,
+>>
+>>> `b.` Daten, die an anderen Speicherorten als einem Datenträger gespeichert sind, soweit auf sie von diesem aus zugegriffen werden kann, oder
+>>
+>>> `c.` Daten, die auf Datenträgern oder an anderen Speicherorten gespeichert sind \(lit\. a und b\), die zuvor nach Z 1 lit\. a sichergestellt wurden,
+>>
+>> &nbsp; zum Zweck der Auswertung von Daten,
 >
->> `a.` Datenträgern und darauf gespeicherten Daten,
+>> `2b.` „Aufbereitung von Daten“ eine aus Beweisgründen erfolgende technische Aufbereitung, einschließlich der Wiederherstellung von Daten, und deren Einschränkung auf den der gerichtlichen Entscheidung nach Z 2a in Bezug auf die Datenkategorien und den Zeitraum entsprechenden Umfang,
 >
->> `b.` Daten, die an anderen Speicherorten als einem Datenträger gespeichert sind, soweit auf sie von diesem aus zugegriffen werden kann, oder
+>> `2c.` „Originalsicherung“ eine unter Verwendung forensischer Sicherungsmechanismen gewonnene Kopie des Originaldatenbestandes,
 >
->> `c.` Daten, die auf Datenträgern oder an anderen Speicherorten gespeichert sind \(lit\. a und b\), die zuvor nach Z 1 lit\. a sichergestellt wurden,
+>> `2d.` „Arbeitskopie“ eine Kopie der Originalsicherung, anhand derer die Aufbereitung von Daten \(Z 2b\) erfolgt,
 >
-> &nbsp; zum Zweck der Auswertung von Daten,
-
-> `2b.` „Aufbereitung von Daten“ eine aus Beweisgründen erfolgende technische Aufbereitung, einschließlich der Wiederherstellung von Daten, und deren Einschränkung auf den der gerichtlichen Entscheidung nach Z 2a in Bezug auf die Datenkategorien und den Zeitraum entsprechenden Umfang,
-
-> `2c.` „Originalsicherung“ eine unter Verwendung forensischer Sicherungsmechanismen gewonnene Kopie des Originaldatenbestandes,
-
-> `2d.` „Arbeitskopie“ eine Kopie der Originalsicherung, anhand derer die Aufbereitung von Daten \(Z 2b\) erfolgt,
-
-> `2e.` „Ergebnis der Datenaufbereitung“ ein der gerichtlichen Entscheidung \(Z 2a\) in Bezug auf die Datenkategorien und den Zeitraum entsprechender Datensatz,
-
-> `3.` „Auskunft aus dem Kontenregister“ die Abfrage und Übermittlung von Daten aus dem Kontenregister \(§§ 2 und 4 Kontenregister\- und Konteneinschaugesetz, BGBl\. I Nr\. 116/2015\),
-
-> `4.` „Auskunft über Bankkonten und Bankgeschäfte“ die Herausgabe aller Unterlagen über die Identität des Inhabers einer Geschäftsverbindung und über seine Verfügungsberechtigung, die Einsicht in Urkunden und andere Unterlagen eines Kredit\- oder Finanzinstituts über Art und Umfang einer Geschäftsverbindung und damit im Zusammenhang stehende Geschäftsvorgänge und sonstige Geschäftsvorfälle für einen bestimmten vergangenen oder zukünftigen Zeitraum\.
+>> `2e.` „Ergebnis der Datenaufbereitung“ ein der gerichtlichen Entscheidung \(Z 2a\) in Bezug auf die Datenkategorien und den Zeitraum entsprechender Datensatz,
+>
+>> `3.` „Auskunft aus dem Kontenregister“ die Abfrage und Übermittlung von Daten aus dem Kontenregister \(§§ 2 und 4 Kontenregister\- und Konteneinschaugesetz, BGBl\. I Nr\. 116/2015\),
+>
+>> `4.` „Auskunft über Bankkonten und Bankgeschäfte“ die Herausgabe aller Unterlagen über die Identität des Inhabers einer Geschäftsverbindung und über seine Verfügungsberechtigung, die Einsicht in Urkunden und andere Unterlagen eines Kredit\- oder Finanzinstituts über Art und Umfang einer Geschäftsverbindung und damit im Zusammenhang stehende Geschäftsvorgänge und sonstige Geschäftsvorfälle für einen bestimmten vergangenen oder zukünftigen Zeitraum\.
 
 ### § 110 StPO — Sicherstellung
 
@@ -2757,24 +2757,24 @@ Der Nationalrat hat beschlossen:
 ### § 117 StPO — Definitionen
 
 > Im Sinne dieses Gesetzes ist
-
-> `1.` „Identitätsfeststellung“ die Ermittlung und Feststellung von Daten \(§ 36 Abs\. 2 Z 1 DSG\), die eine bestimmte Person unverwechselbar kennzeichnen,
-
-> `2.` „Durchsuchung von Orten und Gegenständen“ das Durchsuchen
 >
->> `a.` eines nicht allgemein zugänglichen Grundstückes, Raumes, Fahrzeuges oder Behältnisses,
+>> `1.` „Identitätsfeststellung“ die Ermittlung und Feststellung von Daten \(§ 36 Abs\. 2 Z 1 DSG\), die eine bestimmte Person unverwechselbar kennzeichnen,
 >
->> `b.` einer Wohnung oder eines anderen Ortes, der durch das Hausrecht geschützt ist, und darin befindlicher Gegenstände,
-
-> `3.` „Durchsuchung einer Person“
+>> `2.` „Durchsuchung von Orten und Gegenständen“ das Durchsuchen
+>>
+>>> `a.` eines nicht allgemein zugänglichen Grundstückes, Raumes, Fahrzeuges oder Behältnisses,
+>>
+>>> `b.` einer Wohnung oder eines anderen Ortes, der durch das Hausrecht geschützt ist, und darin befindlicher Gegenstände,
 >
->> `a.` die Durchsuchung der Bekleidung einer Person und der Gegenstände, die sie bei sich hat,
+>> `3.` „Durchsuchung einer Person“
+>>
+>>> `a.` die Durchsuchung der Bekleidung einer Person und der Gegenstände, die sie bei sich hat,
+>>
+>>> `b.` die Besichtigung des unbekleideten Körpers einer Person,
 >
->> `b.` die Besichtigung des unbekleideten Körpers einer Person,
-
-> `4.` „körperliche Untersuchung“ die Durchsuchung von Körperöffnungen, die Abnahme einer Blutprobe und jeder andere Eingriff in die körperliche Integrität von Personen,
-
-> `5.` „molekulargenetische Untersuchung“ die Ermittlung jener Bereiche in der DNA einer Person, die der Wiedererkennung dienen\.
+>> `4.` „körperliche Untersuchung“ die Durchsuchung von Körperöffnungen, die Abnahme einer Blutprobe und jeder andere Eingriff in die körperliche Integrität von Personen,
+>
+>> `5.` „molekulargenetische Untersuchung“ die Ermittlung jener Bereiche in der DNA einer Person, die der Wiedererkennung dienen\.
 
 ### § 118 StPO — Identitätsfeststellung
 
@@ -2875,14 +2875,14 @@ Der Nationalrat hat beschlossen:
 ### § 125 StPO — Definitionen
 
 > Im Sinne dieses Gesetzes ist
-
-> `1.` „Sachverständiger“ eine Person, die auf Grund besonderen Fachwissens in der Lage ist, beweiserhebliche Tatsachen festzustellen \(Befundaufnahme\) oder aus diesen rechtsrelevante Schlüsse zu ziehen und sie zu begründen \(Gutachtenserstattung\),
-
-> `2.` „Dolmetscher“ eine Person, die auf Grund besonderer Kenntnisse in der Lage ist, aus der Verfahrenssprache in eine andere Sprache oder von einer anderen in die Verfahrenssprache zu übersetzen,
-
-> `3.` „Leichenbeschau“ die Besichtigung der äußeren Beschaffenheit einer Leiche,
-
-> `4.` „Obduktion“ die Öffnung einer Leiche durch einen Sachverständigen zum Zweck der Feststellung von Anlass und Ursache des Todes oder von anderen für die Aufklärung einer Straftat wesentlichen Umständen\.
+>
+>> `1.` „Sachverständiger“ eine Person, die auf Grund besonderen Fachwissens in der Lage ist, beweiserhebliche Tatsachen festzustellen \(Befundaufnahme\) oder aus diesen rechtsrelevante Schlüsse zu ziehen und sie zu begründen \(Gutachtenserstattung\),
+>
+>> `2.` „Dolmetscher“ eine Person, die auf Grund besonderer Kenntnisse in der Lage ist, aus der Verfahrenssprache in eine andere Sprache oder von einer anderen in die Verfahrenssprache zu übersetzen,
+>
+>> `3.` „Leichenbeschau“ die Besichtigung der äußeren Beschaffenheit einer Leiche,
+>
+>> `4.` „Obduktion“ die Öffnung einer Leiche durch einen Sachverständigen zum Zweck der Feststellung von Anlass und Ursache des Todes oder von anderen für die Aufklärung einer Straftat wesentlichen Umständen\.
 
 ### § 126 StPO — Sachverständige und Dolmetscher
 
@@ -2935,12 +2935,12 @@ Der Nationalrat hat beschlossen:
 ### § 129 StPO — Definitionen
 
 > Im Sinne dieses Gesetzes ist
-
-> `1.` „Observation“ das heimliche Überwachen des Verhaltens einer Person,
-
-> `2.` „verdeckte Ermittlung“ der Einsatz von kriminalpolizeilichen Organen oder anderen Personen im Auftrag der Kriminalpolizei, die ihre amtliche Stellung oder ihren Auftrag weder offen legen noch erkennen lassen,
-
-> `3.` „Scheingeschäft“ der Versuch oder die scheinbare Ausführung von Straftaten, soweit diese im Erwerben, Ansichbringen, Besitzen, Ein\-, Aus\- oder Durchführen von Gegenständen oder Vermögenswerten bestehen, die entfremdet wurden, aus einem Verbrechen herrühren oder der Begehung eines solchen gewidmet sind oder deren Besitz absolut verboten ist\.
+>
+>> `1.` „Observation“ das heimliche Überwachen des Verhaltens einer Person,
+>
+>> `2.` „verdeckte Ermittlung“ der Einsatz von kriminalpolizeilichen Organen oder anderen Personen im Auftrag der Kriminalpolizei, die ihre amtliche Stellung oder ihren Auftrag weder offen legen noch erkennen lassen,
+>
+>> `3.` „Scheingeschäft“ der Versuch oder die scheinbare Ausführung von Straftaten, soweit diese im Erwerben, Ansichbringen, Besitzen, Ein\-, Aus\- oder Durchführen von Gegenständen oder Vermögenswerten bestehen, die entfremdet wurden, aus einem Verbrechen herrühren oder der Begehung eines solchen gewidmet sind oder deren Besitz absolut verboten ist\.
 
 ### § 130 StPO — Observation
 
@@ -2991,36 +2991,36 @@ Der Nationalrat hat beschlossen:
 ### § 134 StPO — Definitionen
 
 > Im Sinne dieses Bundesgesetzes ist
-
-> `1.` „Beschlagnahme von Briefen“ das Öffnen und Zurückbehalten von Telegrammen, Briefen oder anderen Sendungen, die der Beschuldigte abschickt oder die an ihn gerichtet werden,
-
-> `1a.` „Auskunft über Stammdaten“ die Erteilung einer Auskunft über Stammdaten \(§ 160 Abs\. 3 Z 5 Telekommunikationsgesetz – TKG 2021, BGBl\. I Nr\. 190/2021\) eines Nutzers \(§ 4 Z 13 TKG 2021 oder § 3 Z 4 E\-Commerce–Gesetz – ECG, BGBl\. I Nr\. 152/2001\);
-
-> `1b.` „Auskunft über Zugangsdaten“ die Auskunft über folgende Zugangsdaten \(§ 160 Abs\. 3 Z 7 TKG 2021\) des Inhabers der betroffenen technischen Einrichtung:
 >
->> `a.` Name, Anschrift und Nutzerkennung des Nutzers, dem eine öffentliche IP\-Adresse zu einem bestimmten Zeitpunkt unter Angabe der zugrunde liegenden Zeitzone zugewiesen war, es sei denn, dass diese Zuordnung viele Nutzer erfassen würde;
+>> `1.` „Beschlagnahme von Briefen“ das Öffnen und Zurückbehalten von Telegrammen, Briefen oder anderen Sendungen, die der Beschuldigte abschickt oder die an ihn gerichtet werden,
 >
->> `b.` die bei Verwendung von E\-Mail Diensten dem Nutzer zugewiesene Nutzerkennung;
+>> `1a.` „Auskunft über Stammdaten“ die Erteilung einer Auskunft über Stammdaten \(§ 160 Abs\. 3 Z 5 Telekommunikationsgesetz – TKG 2021, BGBl\. I Nr\. 190/2021\) eines Nutzers \(§ 4 Z 13 TKG 2021 oder § 3 Z 4 E\-Commerce–Gesetz – ECG, BGBl\. I Nr\. 152/2001\);
 >
->> `c.` Name und Anschrift des Nutzers, dem eine E\-Mail\-Adresse zu einem bestimmten Zeitpunkt zugewiesen war, und
+>> `1b.` „Auskunft über Zugangsdaten“ die Auskunft über folgende Zugangsdaten \(§ 160 Abs\. 3 Z 7 TKG 2021\) des Inhabers der betroffenen technischen Einrichtung:
+>>
+>>> `a.` Name, Anschrift und Nutzerkennung des Nutzers, dem eine öffentliche IP\-Adresse zu einem bestimmten Zeitpunkt unter Angabe der zugrunde liegenden Zeitzone zugewiesen war, es sei denn, dass diese Zuordnung viele Nutzer erfassen würde;
+>>
+>>> `b.` die bei Verwendung von E\-Mail Diensten dem Nutzer zugewiesene Nutzerkennung;
+>>
+>>> `c.` Name und Anschrift des Nutzers, dem eine E\-Mail\-Adresse zu einem bestimmten Zeitpunkt zugewiesen war, und
+>>
+>>> `d.` die E\-Mail\-Adresse und die öffentliche IP\-Adresse des Absenders einer E\-Mail,
 >
->> `d.` die E\-Mail\-Adresse und die öffentliche IP\-Adresse des Absenders einer E\-Mail,
-
-> `2.` „Auskunft über Daten einer Nachrichtenübermittlung“ die Erteilung einer Auskunft über Verkehrsdaten \(§ 160 Abs\. 3 Z 6 TKG 2021\), Zugangsdaten \(§ 160 Abs\. 3 Z 7 TKG 2021\), die nicht einer Anordnung gemäß § 135 Abs\. 1a zweiter Fall unterliegen, und Standortdaten \(§ 160 Abs\. 3 Z 9 TKG 2021\) eines Telekommunikationsdienstes oder eines Dienstes der Informationsgesellschaft \(§ 1 Abs\. 1 Z 2 des Notifikationsgesetzes\),
-
-> `2a.` „Lokalisierung einer technischen Einrichtung“ der Einsatz technischer Mittel zur Feststellung von geographischen Standorten und der zur internationalen Kennung des Benutzers dienenden Nummer \(IMSI\) ohne Mitwirkung eines Anbieters \(Z 6\),
-
-> `2b.` „Anlassdatenspeicherung“ das Absehen von der Löschung der in Z 2 genannten Daten \(§ 167 Abs\. 2 Z 4 TKG 2021\),
-
-> `3.` „Überwachung von Nachrichten“ das Überwachen von Nachrichten und Informationen, die von einer natürlichen Person über ein Kommunikationsnetz \(§ 4 Z 1 TKG 2021\) oder einen Dienst der Informationsgesellschaft \(§ 1 Abs\. 1 Z 2 des Notifikationsgesetzes\) gesendet, übermittelt oder empfangen werden,
-
+>> `2.` „Auskunft über Daten einer Nachrichtenübermittlung“ die Erteilung einer Auskunft über Verkehrsdaten \(§ 160 Abs\. 3 Z 6 TKG 2021\), Zugangsdaten \(§ 160 Abs\. 3 Z 7 TKG 2021\), die nicht einer Anordnung gemäß § 135 Abs\. 1a zweiter Fall unterliegen, und Standortdaten \(§ 160 Abs\. 3 Z 9 TKG 2021\) eines Telekommunikationsdienstes oder eines Dienstes der Informationsgesellschaft \(§ 1 Abs\. 1 Z 2 des Notifikationsgesetzes\),
+>
+>> `2a.` „Lokalisierung einer technischen Einrichtung“ der Einsatz technischer Mittel zur Feststellung von geographischen Standorten und der zur internationalen Kennung des Benutzers dienenden Nummer \(IMSI\) ohne Mitwirkung eines Anbieters \(Z 6\),
+>
+>> `2b.` „Anlassdatenspeicherung“ das Absehen von der Löschung der in Z 2 genannten Daten \(§ 167 Abs\. 2 Z 4 TKG 2021\),
+>
+>> `3.` „Überwachung von Nachrichten“ das Überwachen von Nachrichten und Informationen, die von einer natürlichen Person über ein Kommunikationsnetz \(§ 4 Z 1 TKG 2021\) oder einen Dienst der Informationsgesellschaft \(§ 1 Abs\. 1 Z 2 des Notifikationsgesetzes\) gesendet, übermittelt oder empfangen werden,
+>
 > &nbsp; *\(Anm\.: Z 3a aufgehoben durch VfGH, BGBl\. I Nr\. 113/2019\)*
-
-> `4.` „optische und akustische Überwachung von Personen“ die Überwachung des Verhaltens von Personen unter Durchbrechung ihrer Privatsphäre und der Äußerungen von Personen, die nicht zur unmittelbaren Kenntnisnahme Dritter bestimmt sind, unter Verwendung technischer Mittel zur Bild\- oder Tonübertragung und zur Bild\- oder Tonaufnahme ohne Kenntnis der Betroffenen,
-
-> `5.` „Ergebnis“ \(der unter Z 1 bis 4 angeführten Beschlagnahme, Auskunft, Lokalisierung oder Überwachung\) der Inhalt von Briefen \(Z 1\), die festgestellten Stammdaten \(Z 1a\), die festgestellten Zugangsdaten \(Z 1b\), die Daten einer Nachrichtenübermittlung \(Z 2\), die festgestellten geographischen Standorte und zur internationalen Kennung des Benutzers dienenden Nummern \(IMSI\) \(Z 2a\), die gesendeten, übermittelten oder empfangenen Nachrichten und Informationen \(Z 3\), und die Bild\- oder Tonaufnahme einer Überwachung \(Z 4\),
-
-> `6.` „Anbieter“ ein Anbieter \(§ 160 Abs\. 3 Z 1 TKG 2021\), ein Diensteanbieter \(§ 3 Z 2 ECG\) sowie ein Vermittlungsdiensteanbieter \(§ 3 Z 3a ECG\)\.
+>
+>> `4.` „optische und akustische Überwachung von Personen“ die Überwachung des Verhaltens von Personen unter Durchbrechung ihrer Privatsphäre und der Äußerungen von Personen, die nicht zur unmittelbaren Kenntnisnahme Dritter bestimmt sind, unter Verwendung technischer Mittel zur Bild\- oder Tonübertragung und zur Bild\- oder Tonaufnahme ohne Kenntnis der Betroffenen,
+>
+>> `5.` „Ergebnis“ \(der unter Z 1 bis 4 angeführten Beschlagnahme, Auskunft, Lokalisierung oder Überwachung\) der Inhalt von Briefen \(Z 1\), die festgestellten Stammdaten \(Z 1a\), die festgestellten Zugangsdaten \(Z 1b\), die Daten einer Nachrichtenübermittlung \(Z 2\), die festgestellten geographischen Standorte und zur internationalen Kennung des Benutzers dienenden Nummern \(IMSI\) \(Z 2a\), die gesendeten, übermittelten oder empfangenen Nachrichten und Informationen \(Z 3\), und die Bild\- oder Tonaufnahme einer Überwachung \(Z 4\),
+>
+>> `6.` „Anbieter“ ein Anbieter \(§ 160 Abs\. 3 Z 1 TKG 2021\), ein Diensteanbieter \(§ 3 Z 2 ECG\) sowie ein Vermittlungsdiensteanbieter \(§ 3 Z 3a ECG\)\.
 
 ### § 135 StPO — Beschlagnahme von Briefen, Auskunft über Stamm- und Zugangsdaten, Auskunft über Daten einer Nachrichtenübermittlung, Lokalisierung einer technischen Einrichtung, Anlassdatenspeicherung und Überwachung von Nachrichten
 
@@ -3260,10 +3260,10 @@ Der Nationalrat hat beschlossen:
 ### § 151 StPO — Definitionen
 
 > Im Sinne dieses Gesetzes ist
-
-> `1.` „Erkundigung“ das Verlangen von Auskunft und das Entgegennehmen einer Mitteilung von einer Person,
-
-> `2.` „Vernehmung“ das Befragen von Personen nach förmlicher Information über ihre Stellung und ihre Rechte im Verfahren\.
+>
+>> `1.` „Erkundigung“ das Verlangen von Auskunft und das Entgegennehmen einer Mitteilung von einer Person,
+>
+>> `2.` „Vernehmung“ das Befragen von Personen nach förmlicher Information über ihre Stellung und ihre Rechte im Verfahren\.
 
 ### § 152 StPO — Erkundigungen
 
@@ -3432,10 +3432,10 @@ Der Nationalrat hat beschlossen:
 ### § 167 StPO — Definitionen
 
 > Im Sinne dieses Gesetzes ist
-
-> `1.` „Personenfahndung“ jede Maßnahme zur Ermittlung des Aufenthaltes einer Person und zur Festnahme des Beschuldigten auf Grund einer Anordnung der Staatsanwaltschaft,
-
-> `2.` „Sachenfahndung“ jede Maßnahme zur Feststellung des Verbleibes einer Sache und zu ihrer Sicherstellung\.
+>
+>> `1.` „Personenfahndung“ jede Maßnahme zur Ermittlung des Aufenthaltes einer Person und zur Festnahme des Beschuldigten auf Grund einer Anordnung der Staatsanwaltschaft,
+>
+>> `2.` „Sachenfahndung“ jede Maßnahme zur Feststellung des Verbleibes einer Sache und zu ihrer Sicherstellung\.
 
 ### § 168 StPO — Fahndung
 
@@ -3740,10 +3740,10 @@ Der Nationalrat hat beschlossen:
 ### § 184 StPO — Ausführungen
 
 > Für Vernehmungen, Ausführungen und Überstellungen von Beschuldigten gelten die Bestimmungen der §§ 97 und 98 StVG sinngemäß mit der Maßgabe, dass
-
-> `1.` Vernehmungen auch dann in der Anstalt durchzuführen sind, wenn sie nicht vom Gericht oder von der Staatsanwaltschaft durchgeführt werden,
-
-> `2.` Ausführungen auf Ersuchen der Kriminalpolizei oder anderer Behörden \(§ 98 Abs\. 1 StVG\) nur auf Anordnung oder mit Zustimmung der Staatsanwaltschaft und nur zum Zweck der Teilnahme an Verhandlungen, Tatrekonstruktionen und anderen kontradiktorischen Einvernahmen, an Gegenüberstellungen, Augenscheinen sowie sonstigen Befundaufnahmen zulässig sind\.
+>
+>> `1.` Vernehmungen auch dann in der Anstalt durchzuführen sind, wenn sie nicht vom Gericht oder von der Staatsanwaltschaft durchgeführt werden,
+>
+>> `2.` Ausführungen auf Ersuchen der Kriminalpolizei oder anderer Behörden \(§ 98 Abs\. 1 StVG\) nur auf Anordnung oder mit Zustimmung der Staatsanwaltschaft und nur zum Zweck der Teilnahme an Verhandlungen, Tatrekonstruktionen und anderen kontradiktorischen Einvernahmen, an Gegenüberstellungen, Augenscheinen sowie sonstigen Befundaufnahmen zulässig sind\.
 
 ### § 185 StPO — Getrennte Anhaltung
 
@@ -4136,22 +4136,22 @@ Der Nationalrat hat beschlossen:
 ### § 212 StPO — Einspruch gegen die Anklageschrift
 
 > Gegen die Anklageschrift steht dem Angeklagten Einspruch zu, wenn
-
-> `1.` die zur Last gelegte Tat nicht mit gerichtlicher Strafe bedroht ist oder sonst ein Grund vorliegt, der die Verurteilung des Angeklagten aus rechtlichen Gründen ausschließt,
-
-> `2.` Dringlichkeit und Gewicht des Tatverdachts trotz hinreichend geklärten Sachverhalts nicht ausreichen, um eine Verurteilung des Angeklagten auch nur für möglich zu halten und von weiteren Ermittlungen eine Intensivierung des Verdachts nicht zu erwarten ist,
-
-> `3.` der Sachverhalt nicht soweit geklärt ist, dass eine Verurteilung des Angeklagten nahe liegt,
-
-> `4.` die Anklageschrift sonst an wesentlichen formellen Mängeln leidet \(§ 211\)
-
-> `5.` die Anklageschrift ein für die angeklagte Straftat sachlich nicht zuständiges Gericht anruft,
-
-> `6.` die Anklageschrift ein örtlich nicht zuständiges Gericht anruft,
-
-> `7.` der nach dem Gesetz erforderliche Antrag eines hiezu Berechtigten fehlt oder
-
-> `8.` die Staatsanwaltschaft das Verfahren zu Unrecht nachträglich gemäß § 205 Abs\. 2 oder nach § 38 Abs\. 1 oder 1a SMG fortgesetzt hat\.
+>
+>> `1.` die zur Last gelegte Tat nicht mit gerichtlicher Strafe bedroht ist oder sonst ein Grund vorliegt, der die Verurteilung des Angeklagten aus rechtlichen Gründen ausschließt,
+>
+>> `2.` Dringlichkeit und Gewicht des Tatverdachts trotz hinreichend geklärten Sachverhalts nicht ausreichen, um eine Verurteilung des Angeklagten auch nur für möglich zu halten und von weiteren Ermittlungen eine Intensivierung des Verdachts nicht zu erwarten ist,
+>
+>> `3.` der Sachverhalt nicht soweit geklärt ist, dass eine Verurteilung des Angeklagten nahe liegt,
+>
+>> `4.` die Anklageschrift sonst an wesentlichen formellen Mängeln leidet \(§ 211\)
+>
+>> `5.` die Anklageschrift ein für die angeklagte Straftat sachlich nicht zuständiges Gericht anruft,
+>
+>> `6.` die Anklageschrift ein örtlich nicht zuständiges Gericht anruft,
+>
+>> `7.` der nach dem Gesetz erforderliche Antrag eines hiezu Berechtigten fehlt oder
+>
+>> `8.` die Staatsanwaltschaft das Verfahren zu Unrecht nachträglich gemäß § 205 Abs\. 2 oder nach § 38 Abs\. 1 oder 1a SMG fortgesetzt hat\.
 
 ### § 213 StPO
 
@@ -4515,12 +4515,12 @@ Der Nationalrat hat beschlossen:
 ### § 259 StPO
 
 > Der Angeklagte wird durch Urteil des Schöffengerichts von der Anklage freigesprochen:
-
-> `1.` wenn sich zeigt, daß das Strafverfahren ohne den Antrag eines gesetzlich berechtigten Anklägers eingeleitet oder gegen dessen Willen fortgesetzt worden sei;
-
-> `2.` wenn der Ankläger nach Eröffnung der Hauptverhandlung und ehe das Schöffengericht sich zur Schöpfung des Urteiles zurückzieht, von der Anklage zurücktritt;
-
-> `3.` wenn das Schöffengericht erkennt, daß die der Anklage zugrunde liegende Tat vom Gesetze nicht mit Strafe bedroht oder der Tatbestand nicht hergestellt oder nicht erwiesen sei, daß der Angeklagte die ihm zur Last gelegte Tat begangen habe, oder daß Umstände vorliegen, durch die die Strafbarkeit aufgehoben oder die Verfolgung aus anderen als den unter Z\. 1 und 2 angegebenen Gründen ausgeschlossen ist\.
+>
+>> `1.` wenn sich zeigt, daß das Strafverfahren ohne den Antrag eines gesetzlich berechtigten Anklägers eingeleitet oder gegen dessen Willen fortgesetzt worden sei;
+>
+>> `2.` wenn der Ankläger nach Eröffnung der Hauptverhandlung und ehe das Schöffengericht sich zur Schöpfung des Urteiles zurückzieht, von der Anklage zurücktritt;
+>
+>> `3.` wenn das Schöffengericht erkennt, daß die der Anklage zugrunde liegende Tat vom Gesetze nicht mit Strafe bedroht oder der Tatbestand nicht hergestellt oder nicht erwiesen sei, daß der Angeklagte die ihm zur Last gelegte Tat begangen habe, oder daß Umstände vorliegen, durch die die Strafbarkeit aufgehoben oder die Verfolgung aus anderen als den unter Z\. 1 und 2 angegebenen Gründen ausgeschlossen ist\.
 
 ### § 260 StPO
 
@@ -4820,12 +4820,12 @@ Der Nationalrat hat beschlossen:
 ### § 285a StPO
 
 > Das Landesgericht, bei dem eine gegen ein Endurteil gerichtete Nichtigkeitsbeschwerde angemeldet wird, hat diese zurückzuweisen:
-
-> `1.` wenn sie zu spät angemeldet oder wenn sie von einer Person eingebracht wurde, der die Nichtigkeitsbeschwerde nicht zukommt oder die auf sie verzichtet hat;
-
-> `2.` wenn nicht bei der Anmeldung der Nichtigkeitsbeschwerde oder in ihrer Ausführung einer der im § 281 Abs\. 1 Z 1 bis 11 oder im § 281a angegebenen Nichtigkeitsgründe deutlich und bestimmt bezeichnet, insbesondere wenn der Tatumstand, der den Nichtigkeitsgrund bilden soll, nicht ausdrücklich oder doch durch deutliche Hinweisung angeführt ist;
-
-> `3.` wenn die unter Z 2 geforderte Angabe, soweit es sich nicht um eine von der Staatsanwaltschaft erhobene Nichtigkeitsbeschwerde handelt, nicht entweder zu Protokoll oder in einer Eingabe gemacht wird, die von einem Verteidiger \(§ 48 Abs\. 1 Z 4\) unterschrieben ist\. Besteht der Mangel lediglich im Fehlen der Unterschrift eines berechtigten Verteidigers, so ist die Eingabe vorerst zur Behebung dieses Mangels und Wiedervorlage binnen vierzehn Tagen zurückzustellen\.
+>
+>> `1.` wenn sie zu spät angemeldet oder wenn sie von einer Person eingebracht wurde, der die Nichtigkeitsbeschwerde nicht zukommt oder die auf sie verzichtet hat;
+>
+>> `2.` wenn nicht bei der Anmeldung der Nichtigkeitsbeschwerde oder in ihrer Ausführung einer der im § 281 Abs\. 1 Z 1 bis 11 oder im § 281a angegebenen Nichtigkeitsgründe deutlich und bestimmt bezeichnet, insbesondere wenn der Tatumstand, der den Nichtigkeitsgrund bilden soll, nicht ausdrücklich oder doch durch deutliche Hinweisung angeführt ist;
+>
+>> `3.` wenn die unter Z 2 geforderte Angabe, soweit es sich nicht um eine von der Staatsanwaltschaft erhobene Nichtigkeitsbeschwerde handelt, nicht entweder zu Protokoll oder in einer Eingabe gemacht wird, die von einem Verteidiger \(§ 48 Abs\. 1 Z 4\) unterschrieben ist\. Besteht der Mangel lediglich im Fehlen der Unterschrift eines berechtigten Verteidigers, so ist die Eingabe vorerst zur Behebung dieses Mangels und Wiedervorlage binnen vierzehn Tagen zurückzustellen\.
 
 ### § 285b StPO
 
@@ -4979,11 +4979,11 @@ Der Nationalrat hat beschlossen:
 ### § 296a StPO
 
 > Ist nach der Entscheidung über eine Nichtigkeitsbeschwerde oder Berufung
-
-> `1.` an dem in Untersuchungshaft angehaltenen Angeklagten eine Freiheitsstrafe oder eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme zu vollziehen oder
-
-> `2.` der Angeklagte in Freiheit zu setzen,
-
+>
+>> `1.` an dem in Untersuchungshaft angehaltenen Angeklagten eine Freiheitsstrafe oder eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme zu vollziehen oder
+>
+>> `2.` der Angeklagte in Freiheit zu setzen,
+>
 > &nbsp; so hat der Oberste Gerichtshof oder das Oberlandesgericht den Vorsitzenden des Schöffengerichtes davon sogleich unter Anschluß der erforderlichen Angaben zu verständigen, es sei denn, daß im Falle der Z\. 2 die Entscheidung bei einem Gerichtstag in Anwesenheit des Angeklagten ergeht \(§ 396\)\.
 
 ## 5. TEIL
@@ -5389,12 +5389,12 @@ Der Nationalrat hat beschlossen:
 ### § 353 StPO
 
 > Der rechtskräftig Verurteilte kann die Wiederaufnahme des Strafverfahrens selbst nach vollzogener Strafe verlangen:
-
-> `1.` wenn dargetan ist, daß seine Verurteilung durch Urkundenfälschung oder durch falsche Beweisaussage, Bestechung oder eine sonstige Straftat einer dritten Person veranlaßt worden ist;
-
-> `2.` wenn er neue Tatsachen oder Beweismittel beibringt, die allein oder in Verbindung mit den früher erhobenen Beweisen geeignet erscheinen, seine Freisprechung oder die Verurteilung wegen einer unter ein milderes Strafgesetz fallenden Handlung zu begründen; oder
-
-> `3.` wenn wegen derselben Tat zwei oder mehrere Personen durch verschiedene Erkenntnisse verurteilt worden sind und bei der Vergleichung dieser Erkenntnisse sowie der ihnen zugrunde liegenden Tatsachen die Nichtschuld einer oder mehrerer dieser Personen notwendig anzunehmen ist\.
+>
+>> `1.` wenn dargetan ist, daß seine Verurteilung durch Urkundenfälschung oder durch falsche Beweisaussage, Bestechung oder eine sonstige Straftat einer dritten Person veranlaßt worden ist;
+>
+>> `2.` wenn er neue Tatsachen oder Beweismittel beibringt, die allein oder in Verbindung mit den früher erhobenen Beweisen geeignet erscheinen, seine Freisprechung oder die Verurteilung wegen einer unter ein milderes Strafgesetz fallenden Handlung zu begründen; oder
+>
+>> `3.` wenn wegen derselben Tat zwei oder mehrere Personen durch verschiedene Erkenntnisse verurteilt worden sind und bei der Vergleichung dieser Erkenntnisse sowie der ihnen zugrunde liegenden Tatsachen die Nichtschuld einer oder mehrerer dieser Personen notwendig anzunehmen ist\.
 
 ### § 354 StPO
 
@@ -5407,12 +5407,12 @@ Der Nationalrat hat beschlossen:
 ### § 356 StPO
 
 > Die Staatsanwaltschaft kann die Wiederaufnahme des Verfahrens, um zu bewirken, daß eine Handlung, wegen der der Angeklagte verurteilt worden ist, nach einem strengeren Strafgesetz beurteilt werde, nur unter den im § 352 Abs\. 1 erwähnten Voraussetzungen und überdies nur dann beantragen, wenn die wirklich verübte Tat
-
-> `1.` mit mindestens zehnjähriger Freiheitsstrafe bedroht ist, während der Angeklagte nur wegen einer mit nicht mehr als zehnjähriger Freiheitsstrafe bedrohten Handlung verurteilt wurde, oder
-
-> `2.` mit mehr als fünfjähriger Freiheitsstrafe bedroht ist, während der Angeklagte nur wegen eines Vergehens verurteilt wurde, oder
-
-> `3.` sich als ein Verbrechen darstellt, während der Angeklagte nur wegen eines mit nicht mehr als einjähriger Freiheitsstrafe bedrohten Vergehens verurteilt wurde\.
+>
+>> `1.` mit mindestens zehnjähriger Freiheitsstrafe bedroht ist, während der Angeklagte nur wegen einer mit nicht mehr als zehnjähriger Freiheitsstrafe bedrohten Handlung verurteilt wurde, oder
+>
+>> `2.` mit mehr als fünfjähriger Freiheitsstrafe bedroht ist, während der Angeklagte nur wegen eines Vergehens verurteilt wurde, oder
+>
+>> `3.` sich als ein Verbrechen darstellt, während der Angeklagte nur wegen eines mit nicht mehr als einjähriger Freiheitsstrafe bedrohten Vergehens verurteilt wurde\.
 
 ### § 357 StPO
 
@@ -6218,12 +6218,12 @@ Der Nationalrat hat beschlossen:
 ### § 464 StPO
 
 > Die Berufung kann ergriffen werden:
-
-> `1.` wegen vorliegender Nichtigkeitsgründe;
-
-> `2.` wegen des Ausspruches über die Schuld und die Strafe, wegen des Strafausspruches jedoch nur unter den im § 283 bezeichneten Voraussetzungen;
-
-> `3.` wegen des Ausspruches über die privatrechtlichen Ansprüche\.
+>
+>> `1.` wegen vorliegender Nichtigkeitsgründe;
+>
+>> `2.` wegen des Ausspruches über die Schuld und die Strafe, wegen des Strafausspruches jedoch nur unter den im § 283 bezeichneten Voraussetzungen;
+>
+>> `3.` wegen des Ausspruches über die privatrechtlichen Ansprüche\.
 
 ### § 465 StPO
 
@@ -6289,12 +6289,12 @@ Der Nationalrat hat beschlossen:
 ### § 470 StPO
 
 > Bei der nichtöffentlichen Beratung kann das Landesgericht:
-
-> `1.` die Berufung als unzulässig zurückweisen, wenn sie zu spät angemeldet oder von einer Person ergriffen worden ist, der das Berufungsrecht überhaupt nicht oder nicht in der Richtung zusteht, in der es in Anspruch genommen wird, oder die darauf verzichtet hat; ferner, wenn der Berufungswerber bei der Anmeldung der Berufung oder in ihrer Ausführung die Punkte des Erkenntnisses, durch die er sich beschwert findet, oder die Nichtigkeitsgründe, derentwegen allein die Berufung ergriffen worden ist, nicht deutlich und bestimmt bezeichnet hat, in welchen Fällen es gegebenenfalls diesen Beschluss dem Verfassungsgerichtshof zu übermitteln hat;
-
-> `2.` beschließen, Aufklärungen über behauptete Formverletzungen einzuholen, oder seine eigene Unzuständigkeit aussprechen und die Strafsache an das zuständige Landesgericht abtreten;
-
-> `3.` wenn schon vor der öffentlichen Verhandlung über die Berufung feststeht, daß das Urteil aufzuheben und die Verhandlung in erster Instanz zu wiederholen oder nach dem 11\. Hauptstück oder § 37 SMG vorzugehen ist, der Berufung stattgeben, das Urteil, soweit es angefochten wird, aufheben und die Sache an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Gerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht zurückweisen\.
+>
+>> `1.` die Berufung als unzulässig zurückweisen, wenn sie zu spät angemeldet oder von einer Person ergriffen worden ist, der das Berufungsrecht überhaupt nicht oder nicht in der Richtung zusteht, in der es in Anspruch genommen wird, oder die darauf verzichtet hat; ferner, wenn der Berufungswerber bei der Anmeldung der Berufung oder in ihrer Ausführung die Punkte des Erkenntnisses, durch die er sich beschwert findet, oder die Nichtigkeitsgründe, derentwegen allein die Berufung ergriffen worden ist, nicht deutlich und bestimmt bezeichnet hat, in welchen Fällen es gegebenenfalls diesen Beschluss dem Verfassungsgerichtshof zu übermitteln hat;
+>
+>> `2.` beschließen, Aufklärungen über behauptete Formverletzungen einzuholen, oder seine eigene Unzuständigkeit aussprechen und die Strafsache an das zuständige Landesgericht abtreten;
+>
+>> `3.` wenn schon vor der öffentlichen Verhandlung über die Berufung feststeht, daß das Urteil aufzuheben und die Verhandlung in erster Instanz zu wiederholen oder nach dem 11\. Hauptstück oder § 37 SMG vorzugehen ist, der Berufung stattgeben, das Urteil, soweit es angefochten wird, aufheben und die Sache an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Gerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht zurückweisen\.
 
 ### § 471 StPO
 
@@ -6599,10 +6599,10 @@ Der Nationalrat hat beschlossen:
 ### § 509 StPO
 
 > Der Bundesminister für Justiz kann zur Klärung der Voraussetzungen für die Erstattung von Gnadenvorschlägen
-
-> `1.` Erhebungen durchführen, die Sicherheitsbehörden und andere geeignete Stellen um Erhebungen ersuchen oder die Staatsanwaltschaften mit deren Veranlassung beauftragen;
-
-> `2.` Gerichten, insbesondere jenen, die in erster Instanz erkannt oder die Strafe mit der Entscheidung über ein Rechtsmittel festgesetzt haben, Gelegenheit zur Stellungnahme geben sowie Stellungnahmen staatsanwaltschaftlicher und anderer Behörden einholen\.
+>
+>> `1.` Erhebungen durchführen, die Sicherheitsbehörden und andere geeignete Stellen um Erhebungen ersuchen oder die Staatsanwaltschaften mit deren Veranlassung beauftragen;
+>
+>> `2.` Gerichten, insbesondere jenen, die in erster Instanz erkannt oder die Strafe mit der Entscheidung über ein Rechtsmittel festgesetzt haben, Gelegenheit zur Stellungnahme geben sowie Stellungnahmen staatsanwaltschaftlicher und anderer Behörden einholen\.
 
 ### § 510 StPO
 

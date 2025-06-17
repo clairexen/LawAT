@@ -163,12 +163,12 @@ Der Nationalrat hat beschlossen:
 ### § 3 AVG
 
 > Soweit die in § 1 erwähnten Vorschriften über die örtliche Zuständigkeit nichts bestimmen, richtet sich diese
-
-> `1.` in Sachen, die sich auf ein unbewegliches Gut beziehen: nach der Lage des Gutes;
-
-> `2.` in Sachen, die sich auf den Betrieb eines Unternehmens oder einer sonstigen dauernden Tätigkeit beziehen: nach dem Ort, an dem das Unternehmen betrieben oder die Tätigkeit ausgeübt wird oder werden soll;
-
-> `3.` in sonstigen Sachen: zunächst nach dem Hauptwohnsitz \(Sitz\) des Beteiligten, und zwar im Zweifelsfall des belangten oder verpflichteten Teiles, dann nach seinem Aufenthalt, dann nach seinem letzten Hauptwohnsitz \(Sitz\) im Inland, schließlich nach seinem letzten Aufenthalt im Inland, wenn aber keiner dieser Zuständigkeitsgründe in Betracht kommen kann oder Gefahr im Verzug ist, nach dem Anlaß zum Einschreiten; kann jedoch auch danach die Zuständigkeit nicht bestimmt werden, so ist die sachlich in Betracht kommende oberste Behörde zuständig\.
+>
+>> `1.` in Sachen, die sich auf ein unbewegliches Gut beziehen: nach der Lage des Gutes;
+>
+>> `2.` in Sachen, die sich auf den Betrieb eines Unternehmens oder einer sonstigen dauernden Tätigkeit beziehen: nach dem Ort, an dem das Unternehmen betrieben oder die Tätigkeit ausgeübt wird oder werden soll;
+>
+>> `3.` in sonstigen Sachen: zunächst nach dem Hauptwohnsitz \(Sitz\) des Beteiligten, und zwar im Zweifelsfall des belangten oder verpflichteten Teiles, dann nach seinem Aufenthalt, dann nach seinem letzten Hauptwohnsitz \(Sitz\) im Inland, schließlich nach seinem letzten Aufenthalt im Inland, wenn aber keiner dieser Zuständigkeitsgründe in Betracht kommen kann oder Gefahr im Verzug ist, nach dem Anlaß zum Einschreiten; kann jedoch auch danach die Zuständigkeit nicht bestimmt werden, so ist die sachlich in Betracht kommende oberste Behörde zuständig\.
 
 ### § 4 AVG
 
@@ -620,12 +620,12 @@ Der Nationalrat hat beschlossen:
 ### § 48 AVG — Zeugen
 
 > Als Zeugen dürfen nicht vernommen werden:
-
-> `1.` Personen, die zur Mitteilung ihrer Wahrnehmungen unfähig sind oder die zur Zeit, auf die sich ihre Aussage beziehen soll, zur Wahrnehmung der zu beweisenden Tatsache unfähig waren;
-
-> `2.` Geistliche darüber, was ihnen in der Beichte oder sonst unter dem Siegel geistlicher Amtsverschwiegenheit anvertraut wurde;
-
-> `3.` mit Aufgaben der Bundes\-, Landes\- und Gemeindeverwaltung betraute Organe sowie Organe anderer Körperschaften des öffentlichen Rechts, wenn der Gegenstand ihrer Aussage der Amtsverschwiegenheit unterliegt und sie von der Pflicht zur Amtsverschwiegenheit nicht entbunden worden sind\.
+>
+>> `1.` Personen, die zur Mitteilung ihrer Wahrnehmungen unfähig sind oder die zur Zeit, auf die sich ihre Aussage beziehen soll, zur Wahrnehmung der zu beweisenden Tatsache unfähig waren;
+>
+>> `2.` Geistliche darüber, was ihnen in der Beichte oder sonst unter dem Siegel geistlicher Amtsverschwiegenheit anvertraut wurde;
+>
+>> `3.` mit Aufgaben der Bundes\-, Landes\- und Gemeindeverwaltung betraute Organe sowie Organe anderer Körperschaften des öffentlichen Rechts, wenn der Gegenstand ihrer Aussage der Amtsverschwiegenheit unterliegt und sie von der Pflicht zur Amtsverschwiegenheit nicht entbunden worden sind\.
 
 ### § 49 AVG
 
@@ -952,12 +952,12 @@ Der Nationalrat hat beschlossen:
 ### § 78a AVG
 
 > Von den Bundesverwaltungsabgaben befreit sind
-
-> `1.` die Erteilung von Rechtsbelehrungen und die Erstellung von Kopien oder Ausdrucken von Akten oder Aktenteilen,
-
-> `2.` die Bestimmung der Gebühren der nichtamtlichen Sachverständigen und nichtamtlichen Dolmetscher und
-
-> `3.` Amtshandlungen, die durch Katastrophenschäden \(insbesondere Hochwasser\-, Erdrutsch\-, Vermurungs\- und Lawinenschäden\) veranlasst worden sind\.
+>
+>> `1.` die Erteilung von Rechtsbelehrungen und die Erstellung von Kopien oder Ausdrucken von Akten oder Aktenteilen,
+>
+>> `2.` die Bestimmung der Gebühren der nichtamtlichen Sachverständigen und nichtamtlichen Dolmetscher und
+>
+>> `3.` Amtshandlungen, die durch Katastrophenschäden \(insbesondere Hochwasser\-, Erdrutsch\-, Vermurungs\- und Lawinenschäden\) veranlasst worden sind\.
 
 ### § 79 AVG
 

@@ -607,7 +607,6 @@ class RisDocMarkdownEngine:
                         self.genMedia(item)
 
                     elif tag[0] == "List":
-                        performIndent()
                         self.genList(item, br=(tag[-1] in ("Abs", "List")))
 
                     else:

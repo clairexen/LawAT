@@ -1983,30 +1983,30 @@
 ### § 138 ABGB — Kindeswohl
 
 > In allen das minderjährige Kind betreffenden Angelegenheiten, insbesondere der Obsorge und der persönlichen Kontakte, ist das Wohl des Kindes \(Kindeswohl\) als leitender Gesichtspunkt zu berücksichtigen und bestmöglich zu gewährleisten\. Wichtige Kriterien bei der Beurteilung des Kindeswohls sind insbesondere
-
-> `1.` eine angemessene Versorgung, insbesondere mit Nahrung, medizinischer und sanitärer Betreuung und Wohnraum, sowie eine sorgfältige Erziehung des Kindes;
-
-> `2.` die Fürsorge, Geborgenheit und der Schutz der körperlichen und seelischen Integrität des Kindes;              
-
-> `3.` die Wertschätzung und Akzeptanz des Kindes durch die Eltern;
-
-> `4.` die Förderung der Anlagen, Fähigkeiten, Neigungen und Entwicklungsmöglichkeiten des Kindes;
-
-> `5.` die Berücksichtigung der Meinung des Kindes in Abhängigkeit von dessen Verständnis und der Fähigkeit zur Meinungsbildung;
-
-> `6.` die Vermeidung der Beeinträchtigung, die das Kind durch die Um\- und Durchsetzung einer Maßnahme gegen seinen Willen erleiden könnte;
-
-> `7.` die Vermeidung der Gefahr für das Kind, Übergriffe oder Gewalt selbst zu erleiden oder an wichtigen Bezugspersonen mitzuerleben;
-
-> `8.` die Vermeidung der Gefahr für das Kind, rechtswidrig verbracht oder zurückgehalten zu werden oder sonst zu Schaden zu kommen;
-
-> `9.` verlässliche Kontakte des Kindes zu beiden Elternteilen und wichtigen Bezugspersonen sowie sichere Bindungen des Kindes zu diesen Personen;
-
-> `10.` die Vermeidung von Loyalitätskonflikten und Schuldgefühlen des Kindes;
-
-> `11.` die Wahrung der Rechte, Ansprüche und Interessen des Kindes sowie
-
-> `12.` die Lebensverhältnisse des Kindes, seiner Eltern und seiner sonstigen Umgebung\.
+>
+>> `1.` eine angemessene Versorgung, insbesondere mit Nahrung, medizinischer und sanitärer Betreuung und Wohnraum, sowie eine sorgfältige Erziehung des Kindes;
+>
+>> `2.` die Fürsorge, Geborgenheit und der Schutz der körperlichen und seelischen Integrität des Kindes;              
+>
+>> `3.` die Wertschätzung und Akzeptanz des Kindes durch die Eltern;
+>
+>> `4.` die Förderung der Anlagen, Fähigkeiten, Neigungen und Entwicklungsmöglichkeiten des Kindes;
+>
+>> `5.` die Berücksichtigung der Meinung des Kindes in Abhängigkeit von dessen Verständnis und der Fähigkeit zur Meinungsbildung;
+>
+>> `6.` die Vermeidung der Beeinträchtigung, die das Kind durch die Um\- und Durchsetzung einer Maßnahme gegen seinen Willen erleiden könnte;
+>
+>> `7.` die Vermeidung der Gefahr für das Kind, Übergriffe oder Gewalt selbst zu erleiden oder an wichtigen Bezugspersonen mitzuerleben;
+>
+>> `8.` die Vermeidung der Gefahr für das Kind, rechtswidrig verbracht oder zurückgehalten zu werden oder sonst zu Schaden zu kommen;
+>
+>> `9.` verlässliche Kontakte des Kindes zu beiden Elternteilen und wichtigen Bezugspersonen sowie sichere Bindungen des Kindes zu diesen Personen;
+>
+>> `10.` die Vermeidung von Loyalitätskonflikten und Schuldgefühlen des Kindes;
+>
+>> `11.` die Wahrung der Rechte, Ansprüche und Interessen des Kindes sowie
+>
+>> `12.` die Lebensverhältnisse des Kindes, seiner Eltern und seiner sonstigen Umgebung\.
 
 ### § 139 ABGB
 
@@ -2636,26 +2636,26 @@
 ### § 216 ABGB — Mündelsichere Spareinlagen
 
 > Spareinlagen bei einem Kreditinstitut, das zur Entgegennahme von Spareinlagen berechtigt ist, sind zur Anlegung von Mündelgeld geeignet, wenn
-
-> `1.` die Spareinlagen auf den Namen des Kindes lauten und ausdrücklich die Bezeichnung „Mündelgeld“ tragen, und
-
-> `2.` für die Verzinsung und Rückzahlung der Mündelspareinlagen ein vom Kreditinstitut gebildeter, jederzeit mit der jeweiligen Höhe solcher Einlagen übereinstimmender unbelasteter Deckungsstock haftet, und
-
-> `3.` der Deckungsstock ausschließlich in mündelsicheren Wertpapieren \(§ 217\), in Hypothekarforderungen mit gesetzmäßiger Sicherheit \(§ 218\), in Forderungen, für die der Bund oder ein Land haftet, oder in Bargeld besteht\.
+>
+>> `1.` die Spareinlagen auf den Namen des Kindes lauten und ausdrücklich die Bezeichnung „Mündelgeld“ tragen, und
+>
+>> `2.` für die Verzinsung und Rückzahlung der Mündelspareinlagen ein vom Kreditinstitut gebildeter, jederzeit mit der jeweiligen Höhe solcher Einlagen übereinstimmender unbelasteter Deckungsstock haftet, und
+>
+>> `3.` der Deckungsstock ausschließlich in mündelsicheren Wertpapieren \(§ 217\), in Hypothekarforderungen mit gesetzmäßiger Sicherheit \(§ 218\), in Forderungen, für die der Bund oder ein Land haftet, oder in Bargeld besteht\.
 
 ### § 217 ABGB — Mündelsichere Wertpapiere und Forderungen
 
 > Der Erwerb folgender Wertpapiere und Forderungen ist zur Anlegung von Mündelgeld geeignet:
-
-> `1.` Teilschuldverschreibungen von Anleihen, für deren Verzinsung und Rückzahlung der Bund oder eines der Länder haftet;
-
-> `2.` Forderungen, die in das Hauptbuch der Staatsschuld eingetragen sind;
-
-> `3.` Pfandbriefe und Kommunalschuldverschreibungen der nach den gesetzlichen Vorschriften zur Ausgabe solcher Wertpapiere zugelassenem inländischen Kreditinstitut;
-
-> `4.` von einem inländischen Kreditinstitut ausgegebene Teilschuldverschreibungen, sofern das Kreditinstitut verpflichtet ist, die Ansprüche aus diesen Teilschuldverschreibungen vorzugsweise zu befriedigen und als Sicherheit für diese Befriedigung Forderungen des Kreditinstitutes, für die der Bund haftet, Wertpapiere oder Forderungen gemäß den Z 1 bis 3 und 5 oder Bargeld zu bestellen, und dies auf den Teilschuldverschreibungen ausdrücklich ersichtlich gemacht ist;
-
-> `5.` sonstige Wertpapiere, sofern sie durch besondere gesetzliche Vorschriften zur Anlegung von Mündelgeld geeignet erklärt worden sind\.
+>
+>> `1.` Teilschuldverschreibungen von Anleihen, für deren Verzinsung und Rückzahlung der Bund oder eines der Länder haftet;
+>
+>> `2.` Forderungen, die in das Hauptbuch der Staatsschuld eingetragen sind;
+>
+>> `3.` Pfandbriefe und Kommunalschuldverschreibungen der nach den gesetzlichen Vorschriften zur Ausgabe solcher Wertpapiere zugelassenem inländischen Kreditinstitut;
+>
+>> `4.` von einem inländischen Kreditinstitut ausgegebene Teilschuldverschreibungen, sofern das Kreditinstitut verpflichtet ist, die Ansprüche aus diesen Teilschuldverschreibungen vorzugsweise zu befriedigen und als Sicherheit für diese Befriedigung Forderungen des Kreditinstitutes, für die der Bund haftet, Wertpapiere oder Forderungen gemäß den Z 1 bis 3 und 5 oder Bargeld zu bestellen, und dies auf den Teilschuldverschreibungen ausdrücklich ersichtlich gemacht ist;
+>
+>> `5.` sonstige Wertpapiere, sofern sie durch besondere gesetzliche Vorschriften zur Anlegung von Mündelgeld geeignet erklärt worden sind\.
 
 ### § 218 ABGB — Mündelsichere Kredite
 
@@ -3110,14 +3110,14 @@
 ### § 271 ABGB — Voraussetzungen
 
 > Einer volljährigen Person ist vom Gericht auf ihren Antrag oder von Amts wegen insoweit ein gerichtlicher Erwachsenenvertreter zu bestellen, als
-
-> `1.` sie bestimmte Angelegenheiten aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit nicht ohne Gefahr eines Nachteils für sich selbst besorgen kann,
-
-> `2.` sie dafür keinen Vertreter hat,
-
-> `3.` sie einen solchen nicht wählen kann oder will und
-
-> `4.` eine gesetzliche Erwachsenenvertretung nicht in Betracht kommt\.
+>
+>> `1.` sie bestimmte Angelegenheiten aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit nicht ohne Gefahr eines Nachteils für sich selbst besorgen kann,
+>
+>> `2.` sie dafür keinen Vertreter hat,
+>
+>> `3.` sie einen solchen nicht wählen kann oder will und
+>
+>> `4.` eine gesetzliche Erwachsenenvertretung nicht in Betracht kommt\.
 
 ### § 272 ABGB — Wirkungsbereich
 
@@ -3146,12 +3146,12 @@
 ### § 275 ABGB
 
 > Ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\), der nicht aufrecht in der Liste von zur Übernahme von Vorsorgevollmachten und gerichtlichen Erwachsenenvertretungen besonders geeigneten Rechtsanwälten oder Notaren eingetragen ist, kann die Übernahme einer gerichtlichen Erwachsenenvertretung nur ablehnen, wenn
-
-> `1.` die Besorgung der Angelegenheiten nicht vorwiegend Rechtskenntnisse erfordert,
-
-> `2.` er nachweist, dass ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\), der in der Liste von zur Übernahme von Vorsorgevollmachten und gerichtlichen Erwachsenenvertretungen besonders geeigneten Rechtsanwälten oder Notaren aufrecht eingetragen ist, mit der Übernahme der Erwachsenenvertretung einverstanden wäre oder
-
-> `3.` ihm diese unter Berücksichtigung seiner persönlichen, familiären, beruflichen und sonstigen Verhältnisse nicht zugemutet werden kann\. Dies wird bei mehr als fünf gerichtlichen Erwachsenenvertretungen vermutet\.
+>
+>> `1.` die Besorgung der Angelegenheiten nicht vorwiegend Rechtskenntnisse erfordert,
+>
+>> `2.` er nachweist, dass ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\), der in der Liste von zur Übernahme von Vorsorgevollmachten und gerichtlichen Erwachsenenvertretungen besonders geeigneten Rechtsanwälten oder Notaren aufrecht eingetragen ist, mit der Übernahme der Erwachsenenvertretung einverstanden wäre oder
+>
+>> `3.` ihm diese unter Berücksichtigung seiner persönlichen, familiären, beruflichen und sonstigen Verhältnisse nicht zugemutet werden kann\. Dies wird bei mehr als fünf gerichtlichen Erwachsenenvertretungen vermutet\.
 
 ### § 276 ABGB — Entschädigung, Entgelt und Aufwandersatz
 
@@ -3740,10 +3740,10 @@
 ### § 391 ABGB
 
 > Die Pflichten nach § 390 bestehen nicht, wenn
-
-> `1.` der Finder die gefundene Sache einem Verlustträger vor der Anzeigeerstattung ausfolgt oder
-
-> `2.` der gemeine Wert der gefundenen Sache 10 Euro nicht übersteigt, es sei denn erkennbar, dass die Wiedererlangung der Sache für einen Verlustträger von erheblicher Bedeutung ist\.
+>
+>> `1.` der Finder die gefundene Sache einem Verlustträger vor der Anzeigeerstattung ausfolgt oder
+>
+>> `2.` der gemeine Wert der gefundenen Sache 10 Euro nicht übersteigt, es sei denn erkennbar, dass die Wiedererlangung der Sache für einen Verlustträger von erheblicher Bedeutung ist\.
 
 ### § 392 ABGB
 
@@ -3758,12 +3758,12 @@
 ### § 394 ABGB
 
 > Ein Anspruch auf Finderlohn besteht nicht, wenn
-
-> `1.` die Sache von einer Person im Rahmen ihrer privat\- oder öffentlich\-rechtlichen, die Rettung der Sache umfassenden Pflicht gefunden worden ist oder
-
-> `2.` der Finder die in den §§ 390 und 391 enthaltenen Anordnungen schuldhaft verletzt hat oder
-
-> `3.` die vergessene Sache auch sonst ohne deren Gefährdung wiedererlangt worden wäre\.
+>
+>> `1.` die Sache von einer Person im Rahmen ihrer privat\- oder öffentlich\-rechtlichen, die Rettung der Sache umfassenden Pflicht gefunden worden ist oder
+>
+>> `2.` der Finder die in den §§ 390 und 391 enthaltenen Anordnungen schuldhaft verletzt hat oder
+>
+>> `3.` die vergessene Sache auch sonst ohne deren Gefährdung wiedererlangt worden wäre\.
 
 ### § 395 ABGB
 
@@ -4510,13 +4510,13 @@
 ### § 541 ABGB
 
 > Wer
-
-> `1.` gegen den Ehegatten, eingetragenen Partner oder Lebensgefährten des Verstorbenen oder gegen dessen Verwandte in gerader Linie eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,
-
-> `2.` dem Verstorbenen in verwerflicher Weise schweres seelisches Leid zugefügt hat oder
-
-> `3.` sonst gegenüber dem Verstorbenen seine Pflichten aus dem Rechtsverhältnis zwischen Eltern und Kindern gröblich vernachlässigt hat,
-
+>
+>> `1.` gegen den Ehegatten, eingetragenen Partner oder Lebensgefährten des Verstorbenen oder gegen dessen Verwandte in gerader Linie eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,
+>
+>> `2.` dem Verstorbenen in verwerflicher Weise schweres seelisches Leid zugefügt hat oder
+>
+>> `3.` sonst gegenüber dem Verstorbenen seine Pflichten aus dem Rechtsverhältnis zwischen Eltern und Kindern gröblich vernachlässigt hat,
+>
 > &nbsp; ist erbunwürdig, wenn der Verstorbene aufgrund seiner Testierunfähigkeit, aus Unkenntnis oder aus sonstigen Gründen nicht in der Lage war, ihn zu enterben, und er auch nicht zu erkennen gegeben hat, dass er ihm verziehen hat\.
 
 ### § 542 ABGB — Eintrittsrecht bei Erbunwürdigkeit
@@ -5402,18 +5402,18 @@
 ### § 770 ABGB — Enterbungsgründe
 
 > Ein Pflichtteilsberechtigter kann enterbt werden, wenn er
-
-> `1.` gegen den Verstorbenen eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,
-
-> `2.` gegen den Ehegatten, eingetragenen Partner, Lebensgefährten oder Verwandten in gerader Linie, die Geschwister des Verstorbenen und deren Kinder, Ehegatten, eingetragenen Partner oder Lebensgefährten sowie die Stiefkinder des Verstorbenen eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,
-
-> `3.` absichtlich die Verwirklichung des wahren letzten Willens des Verstorbenen vereitelt oder zu vereiteln versucht hat \(§ 540\),
-
-> `4.` dem Verstorbenen in verwerflicher Weise schweres seelisches Leid zugefügt hat,
-
-> `5.` sonst seine familienrechtlichen Pflichten gegenüber dem Verstorbenen gröblich vernachlässigt hat, oder
-
-> `6.` wegen einer oder mehrerer mit Vorsatz begangener strafbarer Handlungen zu einer lebenslangen oder zwanzigjährigen Freiheitsstrafe verurteilt worden ist\.
+>
+>> `1.` gegen den Verstorbenen eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,
+>
+>> `2.` gegen den Ehegatten, eingetragenen Partner, Lebensgefährten oder Verwandten in gerader Linie, die Geschwister des Verstorbenen und deren Kinder, Ehegatten, eingetragenen Partner oder Lebensgefährten sowie die Stiefkinder des Verstorbenen eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist,
+>
+>> `3.` absichtlich die Verwirklichung des wahren letzten Willens des Verstorbenen vereitelt oder zu vereiteln versucht hat \(§ 540\),
+>
+>> `4.` dem Verstorbenen in verwerflicher Weise schweres seelisches Leid zugefügt hat,
+>
+>> `5.` sonst seine familienrechtlichen Pflichten gegenüber dem Verstorbenen gröblich vernachlässigt hat, oder
+>
+>> `6.` wegen einer oder mehrerer mit Vorsatz begangener strafbarer Handlungen zu einer lebenslangen oder zwanzigjährigen Freiheitsstrafe verurteilt worden ist\.
 
 ### § 771 ABGB — Enterbung aus guter Absicht
 
@@ -7578,16 +7578,16 @@
 ### § 1208 ABGB — Auflösungsgründe
 
 > Die Gesellschaft wird aufgelöst:
-
-> `1.` durch den Ablauf der Zeit, für die sie eingegangen ist;
-
-> `2.` durch Beschluss der Gesellschafter;
-
-> `3.` durch die rechtskräftige Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters, durch die Abänderung der Bezeichnung Sanierungsverfahren in Konkursverfahren oder durch die rechtskräftige Nichteröffnung oder Aufhebung des Insolvenzverfahrens mangels kostendeckenden Vermögens;
-
-> `4.` durch Kündigung oder durch gerichtliche Entscheidung;
-
-> `5.` durch den Tod eines Gesellschafters, sofern sich aus dem Gesellschaftsvertrag nichts anderes ergibt\.
+>
+>> `1.` durch den Ablauf der Zeit, für die sie eingegangen ist;
+>
+>> `2.` durch Beschluss der Gesellschafter;
+>
+>> `3.` durch die rechtskräftige Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters, durch die Abänderung der Bezeichnung Sanierungsverfahren in Konkursverfahren oder durch die rechtskräftige Nichteröffnung oder Aufhebung des Insolvenzverfahrens mangels kostendeckenden Vermögens;
+>
+>> `4.` durch Kündigung oder durch gerichtliche Entscheidung;
+>
+>> `5.` durch den Tod eines Gesellschafters, sofern sich aus dem Gesellschaftsvertrag nichts anderes ergibt\.
 
 ### § 1209 ABGB — Kündigung durch einen Gesellschafter
 
@@ -8738,20 +8738,20 @@
 ### § 1486 ABGB — Besondere Verjährungszeit
 
 > In drei Jahren sind verjährt: die Forderungen
-
-> `1.` für Lieferung von Sachen oder Ausführung von Arbeiten oder sonstige Leistungen in einem gewerblichen, kaufmännischen oder sonstigen geschäftlichen Betriebe;
-
-> `2.` für Lieferung land\- und forstwirtschaftlicher Erzeugnisse in einem Betriebe der Land\- und Forstwirtschaft;
-
-> `3.` für die Übernahme zur Beköstigung, Pflege, Heilung, zur Erziehung oder zum Unterricht durch Personen, die sich damit befassen, oder in Anstalten, die diesem Zwecke dienen;
-
-> `4.` von Miet\- und Pachtzinsen;
-
-> `5.` der Dienstnehmer wegen des Entgelts und des Auslagenersatzes aus den Dienstverträgen von Hilfsarbeitern, Taglöhnern, Dienstboten und allen Privatbediensteten, sowie der Dienstgeber wegen der auf solche Forderungen gewährten Vorschüsse;
-
-> `6.` der Ärzte, Tierärzte, Hebammen, der Privatlehrer, der Rechtsanwälte, Notare, Patentanwälte und aller anderen zur Besorgung gewisser Angelegenheiten öffentlich bestellten Personen wegen Entlohnung ihrer Leistungen und Ersatzes ihrer Auslagen, sowie der Parteien wegen der Vorschüsse an diese Personen;
-
-> `7.` von Ausstattungen\.
+>
+>> `1.` für Lieferung von Sachen oder Ausführung von Arbeiten oder sonstige Leistungen in einem gewerblichen, kaufmännischen oder sonstigen geschäftlichen Betriebe;
+>
+>> `2.` für Lieferung land\- und forstwirtschaftlicher Erzeugnisse in einem Betriebe der Land\- und Forstwirtschaft;
+>
+>> `3.` für die Übernahme zur Beköstigung, Pflege, Heilung, zur Erziehung oder zum Unterricht durch Personen, die sich damit befassen, oder in Anstalten, die diesem Zwecke dienen;
+>
+>> `4.` von Miet\- und Pachtzinsen;
+>
+>> `5.` der Dienstnehmer wegen des Entgelts und des Auslagenersatzes aus den Dienstverträgen von Hilfsarbeitern, Taglöhnern, Dienstboten und allen Privatbediensteten, sowie der Dienstgeber wegen der auf solche Forderungen gewährten Vorschüsse;
+>
+>> `6.` der Ärzte, Tierärzte, Hebammen, der Privatlehrer, der Rechtsanwälte, Notare, Patentanwälte und aller anderen zur Besorgung gewisser Angelegenheiten öffentlich bestellten Personen wegen Entlohnung ihrer Leistungen und Ersatzes ihrer Auslagen, sowie der Parteien wegen der Vorschüsse an diese Personen;
+>
+>> `7.` von Ausstattungen\.
 
 ### § 1486a ABGB
 

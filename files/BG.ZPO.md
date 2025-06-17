@@ -1086,11 +1086,11 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 11 ZPO — 
 
 > Außer den in anderen Gesetzen besonders bezeichneten Fällen können mehrere Personen gemeinschaftlich klagen oder geklagt werden \(Streitgenossen\):
-
-> `1.` wenn sie in Ansehung des Streitgegenstandes in Rechtsgemeinschaft stehen oder aus demselben tatsächlichen Grund oder solidarisch berechtigt oder verpflichtet sind;
-
-> `2.` wenn gleichartige, auf einem im wesentlichen gleichartigen
-
+>
+>> `1.` wenn sie in Ansehung des Streitgegenstandes in Rechtsgemeinschaft stehen oder aus demselben tatsächlichen Grund oder solidarisch berechtigt oder verpflichtet sind;
+>
+>> `2.` wenn gleichartige, auf einem im wesentlichen gleichartigen
+>
 > &nbsp; thatsächlichen Grunde beruhende Ansprüche oder Verpflichtungen den Gegenstand des Rechtsstreites bilden, und zugleich die Zuständigkeit des Gerichtes hinsichtlich jedes einzelnen Beklagten begründet ist\.
 
 ### § 12 ZPO — 
@@ -1611,12 +1611,12 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 75 ZPO — 
 
 > Jeder Schriftsatz hat zu enthalten:
-
-> `1.` die Bezeichnung des Gerichtes, dann der Parteien nach Namen \(Vor\- und Zuname\), soweit bekannt Beschäftigung und Geburtsdatum oder bei Rechtsträgern, die im Firmenbuch eingetragen sind, die Firmenbuchnummer, Wohnort und Parteistellung, die Angabe der für die Parteien handelnden Vertreter und die Bezeichnung des Streitgegenstandes;
-
-> `2.` die Bezeichnung der Beilagen und ihrer Zahl sowie die Angabe, ob die Beilagen in Urschrift oder Abschrift angeschlossen sind;
-
-> `3.` die Unterschrift der Partei selbst oder ihres gesetzlichen Vertreters oder Bevollmächtigten, im Anwaltsprocesse aber, wenn nicht die Bestimmung des §\. 28 Absatz 1, zur Anwendung kommt, die Unterschrift des Rechtsanwalts\.
+>
+>> `1.` die Bezeichnung des Gerichtes, dann der Parteien nach Namen \(Vor\- und Zuname\), soweit bekannt Beschäftigung und Geburtsdatum oder bei Rechtsträgern, die im Firmenbuch eingetragen sind, die Firmenbuchnummer, Wohnort und Parteistellung, die Angabe der für die Parteien handelnden Vertreter und die Bezeichnung des Streitgegenstandes;
+>
+>> `2.` die Bezeichnung der Beilagen und ihrer Zahl sowie die Angabe, ob die Beilagen in Urschrift oder Abschrift angeschlossen sind;
+>
+>> `3.` die Unterschrift der Partei selbst oder ihres gesetzlichen Vertreters oder Bevollmächtigten, im Anwaltsprocesse aber, wenn nicht die Bestimmung des §\. 28 Absatz 1, zur Anwendung kommt, die Unterschrift des Rechtsanwalts\.
 
 ### § 75a ZPO
 
@@ -1940,14 +1940,14 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 134 ZPO — 
 
 > Tagsatzungen können nur durch richterliche Entscheidung verlegt werden \(Erstreckung\)\. Solche Erstreckung kann auf Antrag oder von amtswegen stattfinden:
-
-> `1.` wenn sich dem rechtzeitigen Erscheinen einer oder beider Parteien oder der Aufnahme oder Fortsetzung der Verhandlung zwischen ihnen ein für sie unübersteigliches oder doch ein sehr erhebliches Hindernis entgegenstellt und insbesondere ohne die Erstreckung eine Partei einen nicht wieder gut zu machenden Schaden oder, für den Fall einer technischen Störung der Wort\- und Bildübertragung bei einer nach § 132a anberaumten Tagsatzung, prozessualen Nachteil erleiden würde;
-
-> `2.` wenn das Gericht durch anderweitige unaufschiebbare amtliche Obliegenheiten oder aus sonstigen wichtigen Gründen an der Aufnahme oder Fortsetzung der Verhandlung behindert ist;
-
-> `3.` wenn eine nicht sofort vor dem Processgerichte vollziehbare, für die Weiterführung der Verhandlung jedoch wesentliche Beweisaufnahme angeordnet wird oder sich behufs Fortsetzung und Durchführung der Verhandlung die Herbeischaffung von Urkunden, Auskunftssachen oder Augenscheinsgegenständen nothwendig erweist;
-
-> `4.` wenn die Verhandlung bei der vom Gerichte hiezu anberaumten Tagsatzung auch ohne Dazwischenkunft der vorerwähnten Hindernisse nicht zum Abschlusse gebracht werden kann\.
+>
+>> `1.` wenn sich dem rechtzeitigen Erscheinen einer oder beider Parteien oder der Aufnahme oder Fortsetzung der Verhandlung zwischen ihnen ein für sie unübersteigliches oder doch ein sehr erhebliches Hindernis entgegenstellt und insbesondere ohne die Erstreckung eine Partei einen nicht wieder gut zu machenden Schaden oder, für den Fall einer technischen Störung der Wort\- und Bildübertragung bei einer nach § 132a anberaumten Tagsatzung, prozessualen Nachteil erleiden würde;
+>
+>> `2.` wenn das Gericht durch anderweitige unaufschiebbare amtliche Obliegenheiten oder aus sonstigen wichtigen Gründen an der Aufnahme oder Fortsetzung der Verhandlung behindert ist;
+>
+>> `3.` wenn eine nicht sofort vor dem Processgerichte vollziehbare, für die Weiterführung der Verhandlung jedoch wesentliche Beweisaufnahme angeordnet wird oder sich behufs Fortsetzung und Durchführung der Verhandlung die Herbeischaffung von Urkunden, Auskunftssachen oder Augenscheinsgegenständen nothwendig erweist;
+>
+>> `4.` wenn die Verhandlung bei der vom Gerichte hiezu anberaumten Tagsatzung auch ohne Dazwischenkunft der vorerwähnten Hindernisse nicht zum Abschlusse gebracht werden kann\.
 
 ### § 135 ZPO — 
 
@@ -2750,16 +2750,16 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 246 ZPO
 
 > Der Zahlungsbefehl hat neben den für Beschlüsse geforderten Angaben zu enthalten:
-
-> `1.` die Aufschrift „Bedingter Zahlungsbefehl“;
-
-> `2.` den Auftrag an den Beklagten, binnen 14 Tagen nach Zustellung des Zahlungsbefehls bei sonstiger Exekution die Forderung samt Zinsen und die vom Gericht bestimmten Kosten zu zahlen oder, wenn er die geltend gemachten Ansprüche bestreitet, gegen den Zahlungsbefehl binnen vier Wochen Einspruch zu erheben; werden mehrere Forderungen eingeklagt, so sind diese gesondert anzuführen;
-
-> `3.` den Beisatz, dass der Zahlungsbefehl nur durch Erhebung des Einspruchs außer Kraft gesetzt werden kann;
-
-> `4.` die Belehrung, dass der Einspruch den Inhalt der Klagebeantwortung haben muss und die Vertretung durch einen Rechtsanwalt geboten ist;
-
-> `5.` den Hinweis, dass im Fall der Erhebung des Einspruchs das ordentliche Verfahren über die Klage stattfinden wird\.
+>
+>> `1.` die Aufschrift „Bedingter Zahlungsbefehl“;
+>
+>> `2.` den Auftrag an den Beklagten, binnen 14 Tagen nach Zustellung des Zahlungsbefehls bei sonstiger Exekution die Forderung samt Zinsen und die vom Gericht bestimmten Kosten zu zahlen oder, wenn er die geltend gemachten Ansprüche bestreitet, gegen den Zahlungsbefehl binnen vier Wochen Einspruch zu erheben; werden mehrere Forderungen eingeklagt, so sind diese gesondert anzuführen;
+>
+>> `3.` den Beisatz, dass der Zahlungsbefehl nur durch Erhebung des Einspruchs außer Kraft gesetzt werden kann;
+>
+>> `4.` die Belehrung, dass der Einspruch den Inhalt der Klagebeantwortung haben muss und die Vertretung durch einen Rechtsanwalt geboten ist;
+>
+>> `5.` den Hinweis, dass im Fall der Erhebung des Einspruchs das ordentliche Verfahren über die Klage stattfinden wird\.
 
 ### § 247 ZPO
 
@@ -2794,11 +2794,11 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > Für das Mahnverfahren, das mit Hilfe automationsunterstützter Datenverarbeitung durchgeführt wird, gelten folgende Besonderheiten:
 >
 > *\(Anm\.: Z 1 aufgehoben durch Art\. 2 Z 21, BGBl\. I Nr\. 61/2022\)*
-
-> `2.` An die Stelle der Zustellung der Klage tritt die Zustellung des Zahlungsbefehls, wenn dieser den Klagsinhalt vollständig wiedergibt oder ihm eine Abschrift der Klage sowie Abschriften ihrer Beilagen angeschlossen sind; das gilt sinngemäß für andere Anträge im Mahnverfahren und die hierüber ergehenden Beschlüsse\.
-
-> `3.` Ergeht ein Auftrag zur Verbesserung einer Eingabe \(§ 84\), weil sich der Kläger nicht des hiefür eingeführten Formblatts bedient hat, so ist diesem Auftrag das entsprechende Formblatt anzuschließen\.
-
+>
+>> `2.` An die Stelle der Zustellung der Klage tritt die Zustellung des Zahlungsbefehls, wenn dieser den Klagsinhalt vollständig wiedergibt oder ihm eine Abschrift der Klage sowie Abschriften ihrer Beilagen angeschlossen sind; das gilt sinngemäß für andere Anträge im Mahnverfahren und die hierüber ergehenden Beschlüsse\.
+>
+>> `3.` Ergeht ein Auftrag zur Verbesserung einer Eingabe \(§ 84\), weil sich der Kläger nicht des hiefür eingeführten Formblatts bedient hat, so ist diesem Auftrag das entsprechende Formblatt anzuschließen\.
+>
 > *\(Anm\.: Z 4 und 5 aufgehoben durch BGBl\. I Nr\. 128/2004\)*
 
 ### § 252 ZPO — Europäisches Mahnverfahren
@@ -2996,14 +2996,14 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 281a ZPO
 
 > Ist über streitige Tatsachen bereits in einem gerichtlichen Verfahren ein Beweis aufgenommen worden, so kann das Protokoll hierüber oder ein schriftliches Sachverständigengutachten als Beweismittel verwendet und von einer neuerlichen Beweisaufnahme Abstand genommen werden, wenn
-
-> `1.` die Parteien an diesem gerichtlichen Verfahren beteiligt waren und
 >
->> `a)` nicht eine der Parteien ausdrücklich das Gegenteil beantragt oder
+>> `1.` die Parteien an diesem gerichtlichen Verfahren beteiligt waren und
+>>
+>>> `a)` nicht eine der Parteien ausdrücklich das Gegenteil beantragt oder
+>>
+>>> `b)` das Beweismittel nicht mehr zur Verfügung steht;
 >
->> `b)` das Beweismittel nicht mehr zur Verfügung steht;
-
-> `2.` die an diesem gerichtlichen Verfahren nicht beteiligt gewesenen Parteien dem ausdrücklich zustimmen\.
+>> `2.` die an diesem gerichtlichen Verfahren nicht beteiligt gewesenen Parteien dem ausdrücklich zustimmen\.
 
 ## Beweisaufnahme durch einen ersuchten oder beauftragten Richter.
 
@@ -3204,16 +3204,16 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 305 ZPO — 
 
 > Die Vorlage anderer Urkunden kann verweigert werden:
-
-> `1.` wenn der Inhalt Angelegenheiten des Familienlebens betrifft;
-
-> `2.` wenn der Gegner durch die Vorlage der Urkunde eine Ehrenpflicht verletzen würde;
-
-> `3.` wenn das Bekanntwerden der Urkunde der Partei oder dritten Personen zur Schande gereichen oder die Gefahr strafgerichtlicher Verfolgung zuziehen würde;
-
-> `4.` wenn die Partei durch die Vorlage der Urkunde eine staatlich anerkannte Pflicht zur Verschwiegenheit, von der sie nicht giltig entbunden wurde, oder ein Kunst\- oder Geschäftsgeheimnis verletzen würde;
-
-> `5.` wenn andere gleich wichtige Gründe vorhanden sind, welche die Verweigerung der Vorlage rechtfertigen\.
+>
+>> `1.` wenn der Inhalt Angelegenheiten des Familienlebens betrifft;
+>
+>> `2.` wenn der Gegner durch die Vorlage der Urkunde eine Ehrenpflicht verletzen würde;
+>
+>> `3.` wenn das Bekanntwerden der Urkunde der Partei oder dritten Personen zur Schande gereichen oder die Gefahr strafgerichtlicher Verfolgung zuziehen würde;
+>
+>> `4.` wenn die Partei durch die Vorlage der Urkunde eine staatlich anerkannte Pflicht zur Verschwiegenheit, von der sie nicht giltig entbunden wurde, oder ein Kunst\- oder Geschäftsgeheimnis verletzen würde;
+>
+>> `5.` wenn andere gleich wichtige Gründe vorhanden sind, welche die Verweigerung der Vorlage rechtfertigen\.
 
 ### § 306 ZPO — 
 
@@ -3324,14 +3324,14 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 320 ZPO — 
 
 > Als Zeugen dürfen nicht vernommen werden:
-
-> `1.` Personen, welche zur Mittheilung ihrer Wahrnehmungen unfähig sind, oder welche zur Zeit, auf welche sich ihre Aussage beziehen soll, zur Wahrnehmung der zu beweisenden Thatsache unfähig waren;
-
-> `2.` Geistliche in Ansehung dessen, was ihnen in der Beichte oder sonst unter dem Siegel geistlicher Amtsverschwiegenheit anvertraut wurde;
-
-> `3.` Staatsbeamte, wenn sie durch ihre Aussage das ihnen obliegende Amtsgeheimnis verletzen würden, insofern sie der Pflicht zur Geheimhaltung nicht durch ihre Vorgesetzten entbunden sind;
-
-> `4.` eingetragene Mediatoren nach dem Zivilrechts\-Mediations\-Gesetz, BGBl\. I Nr\. 29/2003, in Ansehung dessen, was ihnen im Rahmen der Mediation anvertraut oder sonst bekannt wurde\.
+>
+>> `1.` Personen, welche zur Mittheilung ihrer Wahrnehmungen unfähig sind, oder welche zur Zeit, auf welche sich ihre Aussage beziehen soll, zur Wahrnehmung der zu beweisenden Thatsache unfähig waren;
+>
+>> `2.` Geistliche in Ansehung dessen, was ihnen in der Beichte oder sonst unter dem Siegel geistlicher Amtsverschwiegenheit anvertraut wurde;
+>
+>> `3.` Staatsbeamte, wenn sie durch ihre Aussage das ihnen obliegende Amtsgeheimnis verletzen würden, insofern sie der Pflicht zur Geheimhaltung nicht durch ihre Vorgesetzten entbunden sind;
+>
+>> `4.` eingetragene Mediatoren nach dem Zivilrechts\-Mediations\-Gesetz, BGBl\. I Nr\. 29/2003, in Ansehung dessen, was ihnen im Rahmen der Mediation anvertraut oder sonst bekannt wurde\.
 
 ### § 321 ZPO — 
 
@@ -3752,8 +3752,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 382 ZPO — 
 
 > *\(Anm\.: Abs\. 1 aufgehoben durch BGBl\. Nr\. 2/1958\)*
-
-> `(2)` Die Vorschriften der §§\. 372 bis 381 gelten sinngemäß auch für die wegen Vorlage einer Beweisurkunde, einer Auskunftssache oder eines Augenscheinsgegenstandes angeordnete Vernehmung und eidliche Abhörung einer Partei\.
+>
+>> `(2)` Die Vorschriften der §§\. 372 bis 381 gelten sinngemäß auch für die wegen Vorlage einer Beweisurkunde, einer Auskunftssache oder eines Augenscheinsgegenstandes angeordnete Vernehmung und eidliche Abhörung einer Partei\.
 
 ### § 383 ZPO — 
 
@@ -4228,14 +4228,14 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 448 ZPO
 
 > Für das bezirksgerichtliche Mahnverfahren gelten folgende Besonderheiten:
-
-> `1.` Für die Erhebung des Einspruchs bedarf es nicht der Vertretung durch einen Rechtsanwalt; Gleiches gilt für die Zurücknahme des Einspruchs\. Schriftliche Einsprüche können auch in einfacher Ausfertigung und ohne Beibringung von Rubriken überreicht werden; es genügt, dass aus dem Schriftstück die Absicht, Einspruch zu erheben, deutlich hervorgeht\.
-
-> `2.` Der Beklagte, der nicht durch einen Rechtsanwalt vertreten ist, kann Einsprüche und Anträge auf Bewilligung der Wiedereinsetzung in den vorigen Stand auch beim Bezirksgericht seines Aufenthalts mündlich zu Protokoll geben; dieses hat das Protokoll dem Prozessgericht unverzüglich zu übersenden\.
-
-> `3.` Ist der Einspruch begründet, so ist dem Kläger eine Ausfertigung oder eine Abschrift des Schriftsatzes oder des ihn ersetzenden Protokolls zuzustellen\.
-
-> `4.` Ist ordnungsgemäß Einspruch erhoben worden, so hat das Gericht nach den §§ 440 ff vorzugehen\.
+>
+>> `1.` Für die Erhebung des Einspruchs bedarf es nicht der Vertretung durch einen Rechtsanwalt; Gleiches gilt für die Zurücknahme des Einspruchs\. Schriftliche Einsprüche können auch in einfacher Ausfertigung und ohne Beibringung von Rubriken überreicht werden; es genügt, dass aus dem Schriftstück die Absicht, Einspruch zu erheben, deutlich hervorgeht\.
+>
+>> `2.` Der Beklagte, der nicht durch einen Rechtsanwalt vertreten ist, kann Einsprüche und Anträge auf Bewilligung der Wiedereinsetzung in den vorigen Stand auch beim Bezirksgericht seines Aufenthalts mündlich zu Protokoll geben; dieses hat das Protokoll dem Prozessgericht unverzüglich zu übersenden\.
+>
+>> `3.` Ist der Einspruch begründet, so ist dem Kläger eine Ausfertigung oder eine Abschrift des Schriftsatzes oder des ihn ersetzenden Protokolls zuzustellen\.
+>
+>> `4.` Ist ordnungsgemäß Einspruch erhoben worden, so hat das Gericht nach den §§ 440 ff vorzugehen\.
 
 ## Besondere Bestimmungen für das Verfahren über Besitzstörungsklagen.
 
@@ -4271,38 +4271,38 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 460 ZPO
 
 > In Ehesachen \(§ 49 Abs\. 2 Z 2a JN\) und Verfahren in anderen nicht rein vermögensrechtlichen aus dem gegenseitigen Verhältnis zwischen Ehegatten entspringenden Streitigkeiten \(§ 49 Abs\. 2 Z 2b JN\) gelten folgende besondere Bestimmungen:
-
-> `1.` Das Gericht soll die Parteien zum persönlichen Erscheinen auffordern, wenn nicht wichtige Gründe dagegen sprechen\. Das Erscheinen der Parteien ist erforderlichenfalls nach § 87 GOG durchzusetzen\.
-
-> `1a.` Parteien dürfen nur dann unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort\- und Bildübertragung an einer nach § 132a anberaumten Tagsatzung teilnehmen, wenn sie durch einen Rechtsanwalt vertreten sind\.
-
-> `2.` Zur vorbereitenden Tagsatzung ist die Partei, nicht aber eine informierte Person nach § 258 Abs\. 2 stellig zu machen\.
-
-> `3.` Die Verhandlung ist nicht öffentlich\.
-
-> `4.` Im Verfahren über die Nichtigerklärung oder die Feststellung des Bestehens oder Nichtbestehens einer Ehe hat das Gericht von Amts wegen dafür zu sorgen, daß alle für die Entscheidung maßgeblichen tatsächlichen Umstände aufgeklärt werden; der § 183 Abs\. 2 gilt nicht\. Das Gericht kann nicht erwiesene Tatsachenvorbringen unberücksichtigt lassen und von der Aufnahme von Beweisen Abstand nehmen, wenn solche Tatsachen der Beweise von einer Partei verspätet vorgebracht beziehungsweise angeboten werden und bei sorgfältiger Berücksichtigung aller Umstände kein vernünftiger Zweifel besteht, dass damit das Verfahren verschleppt werden soll und die Zulassung des Vorbringens oder der Beweise die Erledigung des Verfahrens erheblich verzögern würde\. § 179 gilt nicht\.
-
-> `5.` Erscheint der Kläger zur mündlichen Verhandlung nicht, so ist die Klage auf Antrag des Beklagten vom Gericht als ohne Verzicht auf den Anspruch zurückgenommen zu erklären\.
-
-> `6.` Im Protokoll sind auch die Geburtsdaten und die Religion der Parteien, Anzahl und Alter ihrer Kinder und der Zeitpunkt des Abschlusses ihrer Ehe festzuhalten sowie, ob Ehepakte errichtet worden sind\.
-
-> `6a.` Ist eine Partei nicht durch einen Rechtsanwalt vertreten und hat sie keine Beratung über die gesamten Scheidungsfolgen, einschließlich der sozialversicherungsrechtlichen Folgen und der Voraussetzungen eines Ausspruchs über die Haftung für Kredite, in Anspruch genommen, so hat das Gericht auf entsprechende Beratungsangebote und allgemein auf die Nachteile hinzuweisen, die durch ungenügende Kenntnisse über diese Folgen entstehen können\. Die Tagsatzung ist zu erstrecken, um der Partei Gelegenheit zur Einholung einer Beratung zu geben, es sei denn, dass dadurch der Prozess unverhältnismäßig verzögert oder offensichtlich verschleppt werden soll\. Eine neuerliche Erstreckung aus diesem Grund ist unzulässig\. Das Gericht hat die nächste Verhandlung für einen Termin tunlichst innerhalb von sechs Wochen anzuberaumen\.
-
-> `7.` Im Verfahren wegen Scheidung der Ehe hat das Gericht am Beginn der mündlichen Streitverhandlung zunächst eine Versöhnung der Ehegatten anzustreben \(Versöhnungsversuch\) und überdies in jeder Lage des Verfahrens, soweit tunlich, auf eine Versöhnung hinzuwirken\.
-
+>
+>> `1.` Das Gericht soll die Parteien zum persönlichen Erscheinen auffordern, wenn nicht wichtige Gründe dagegen sprechen\. Das Erscheinen der Parteien ist erforderlichenfalls nach § 87 GOG durchzusetzen\.
+>
+>> `1a.` Parteien dürfen nur dann unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort\- und Bildübertragung an einer nach § 132a anberaumten Tagsatzung teilnehmen, wenn sie durch einen Rechtsanwalt vertreten sind\.
+>
+>> `2.` Zur vorbereitenden Tagsatzung ist die Partei, nicht aber eine informierte Person nach § 258 Abs\. 2 stellig zu machen\.
+>
+>> `3.` Die Verhandlung ist nicht öffentlich\.
+>
+>> `4.` Im Verfahren über die Nichtigerklärung oder die Feststellung des Bestehens oder Nichtbestehens einer Ehe hat das Gericht von Amts wegen dafür zu sorgen, daß alle für die Entscheidung maßgeblichen tatsächlichen Umstände aufgeklärt werden; der § 183 Abs\. 2 gilt nicht\. Das Gericht kann nicht erwiesene Tatsachenvorbringen unberücksichtigt lassen und von der Aufnahme von Beweisen Abstand nehmen, wenn solche Tatsachen der Beweise von einer Partei verspätet vorgebracht beziehungsweise angeboten werden und bei sorgfältiger Berücksichtigung aller Umstände kein vernünftiger Zweifel besteht, dass damit das Verfahren verschleppt werden soll und die Zulassung des Vorbringens oder der Beweise die Erledigung des Verfahrens erheblich verzögern würde\. § 179 gilt nicht\.
+>
+>> `5.` Erscheint der Kläger zur mündlichen Verhandlung nicht, so ist die Klage auf Antrag des Beklagten vom Gericht als ohne Verzicht auf den Anspruch zurückgenommen zu erklären\.
+>
+>> `6.` Im Protokoll sind auch die Geburtsdaten und die Religion der Parteien, Anzahl und Alter ihrer Kinder und der Zeitpunkt des Abschlusses ihrer Ehe festzuhalten sowie, ob Ehepakte errichtet worden sind\.
+>
+>> `6a.` Ist eine Partei nicht durch einen Rechtsanwalt vertreten und hat sie keine Beratung über die gesamten Scheidungsfolgen, einschließlich der sozialversicherungsrechtlichen Folgen und der Voraussetzungen eines Ausspruchs über die Haftung für Kredite, in Anspruch genommen, so hat das Gericht auf entsprechende Beratungsangebote und allgemein auf die Nachteile hinzuweisen, die durch ungenügende Kenntnisse über diese Folgen entstehen können\. Die Tagsatzung ist zu erstrecken, um der Partei Gelegenheit zur Einholung einer Beratung zu geben, es sei denn, dass dadurch der Prozess unverhältnismäßig verzögert oder offensichtlich verschleppt werden soll\. Eine neuerliche Erstreckung aus diesem Grund ist unzulässig\. Das Gericht hat die nächste Verhandlung für einen Termin tunlichst innerhalb von sechs Wochen anzuberaumen\.
+>
+>> `7.` Im Verfahren wegen Scheidung der Ehe hat das Gericht am Beginn der mündlichen Streitverhandlung zunächst eine Versöhnung der Ehegatten anzustreben \(Versöhnungsversuch\) und überdies in jeder Lage des Verfahrens, soweit tunlich, auf eine Versöhnung hinzuwirken\.
+>
 > *\(Anm\.: Z 7a aufgehoben durch BGBl\. I Nr\. 29/2003\)*
-
-> `8.` Stirbt einer der Ehegatten vor der Rechtskraft des Urteils \(§ 416 Abs\. 1\), so ist der Rechtsstreit in Ansehung der Hauptsache als erledigt anzusehen\. Er kann nur mehr wegen der Verfahrenskosten fortgesetzt werden\. Ein bereits ergangenes Urteil ist wirkungslos\.
-
-> `8a.` Auf ihr Verlangen ist den Ehegatten jederzeit auch eine Ausfertigung der Entscheidung über die Auflösung der Ehe auszustellen, die keine Entscheidungsgründe enthält\.
-
-> `9.` Urteile auf Grund eines Verzichtes oder eines Anerkenntnisses sowie Vergleiche sind unzulässig, der § 442 ist nicht anzuwenden\.
-
-> `10.` Wird ein Antrag auf Scheidung nach § 55a EheG gestellt, so ist ein wegen Ehescheidung anhängiger Rechtsstreit zu unterbrechen\. Wird dem Scheidungsantrag stattgegeben, so gilt die Scheidungsklage mit Eintritt der Rechtskraft des Scheidungsbeschlusses als zurückgenommen; die Prozeßkosten sind gegeneinander aufzuheben\. Wird der Scheidungsantrag zurückgezogen oder rechtskräftig abgewiesen, so ist das unterbrochene Scheidungsverfahren auf Antrag wiederaufzunehmen\.
-
-> `10a.` Die für das Verfahren über die Klage auf Scheidung einer Ehe bewilligte Verfahrenshilfe erstreckt sich auch auf ein Verfahren über den Antrag auf Scheidung nach § 55a EheG, der während des wegen Ehescheidung anhängigen Rechtsstreits gestellt wird\.
-
-> `11.` Verliert ein Ehegatte durch eine Entscheidung über die Auflösung der Ehe offenbar den Schutz der gesetzlichen Krankenversicherung, so hat das Gericht mit Zustimmung dieses Ehegatten den zuständigen Sozialversicherungsträger im Weg des Dachverbandes der Sozialversicherungsträger zu verständigen\. Die Verständigung hat den Familien\- und Vornamen, das Geburtsdatum, die Anschrift sowie die Sozialversicherungsnummer des Ehegatten zu enthalten\. Der Versicherungsträger hat dem Ehegatten Informationen über die sozialversicherungsrechtlichen Folgen der Eheauflösung und die Möglichkeit der Fortsetzung des Versicherungsschutzes zu übermitteln\.
+>
+>> `8.` Stirbt einer der Ehegatten vor der Rechtskraft des Urteils \(§ 416 Abs\. 1\), so ist der Rechtsstreit in Ansehung der Hauptsache als erledigt anzusehen\. Er kann nur mehr wegen der Verfahrenskosten fortgesetzt werden\. Ein bereits ergangenes Urteil ist wirkungslos\.
+>
+>> `8a.` Auf ihr Verlangen ist den Ehegatten jederzeit auch eine Ausfertigung der Entscheidung über die Auflösung der Ehe auszustellen, die keine Entscheidungsgründe enthält\.
+>
+>> `9.` Urteile auf Grund eines Verzichtes oder eines Anerkenntnisses sowie Vergleiche sind unzulässig, der § 442 ist nicht anzuwenden\.
+>
+>> `10.` Wird ein Antrag auf Scheidung nach § 55a EheG gestellt, so ist ein wegen Ehescheidung anhängiger Rechtsstreit zu unterbrechen\. Wird dem Scheidungsantrag stattgegeben, so gilt die Scheidungsklage mit Eintritt der Rechtskraft des Scheidungsbeschlusses als zurückgenommen; die Prozeßkosten sind gegeneinander aufzuheben\. Wird der Scheidungsantrag zurückgezogen oder rechtskräftig abgewiesen, so ist das unterbrochene Scheidungsverfahren auf Antrag wiederaufzunehmen\.
+>
+>> `10a.` Die für das Verfahren über die Klage auf Scheidung einer Ehe bewilligte Verfahrenshilfe erstreckt sich auch auf ein Verfahren über den Antrag auf Scheidung nach § 55a EheG, der während des wegen Ehescheidung anhängigen Rechtsstreits gestellt wird\.
+>
+>> `11.` Verliert ein Ehegatte durch eine Entscheidung über die Auflösung der Ehe offenbar den Schutz der gesetzlichen Krankenversicherung, so hat das Gericht mit Zustimmung dieses Ehegatten den zuständigen Sozialversicherungsträger im Weg des Dachverbandes der Sozialversicherungsträger zu verständigen\. Die Verständigung hat den Familien\- und Vornamen, das Geburtsdatum, die Anschrift sowie die Sozialversicherungsnummer des Ehegatten zu enthalten\. Der Versicherungsträger hat dem Ehegatten Informationen über die sozialversicherungsrechtlichen Folgen der Eheauflösung und die Möglichkeit der Fortsetzung des Versicherungsschutzes zu übermitteln\.
 
 ## Vierter Theil.
 
@@ -4357,16 +4357,16 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 467 ZPO — 
 
 > Die Berufungsschrift muss nebst den allgemeinen Erfordernissen eines vorbereitenden Schriftsatzes enthalten:
-
-> `1.` die Bezeichnung des Berufungsgerichtes;
-
-> `2.` die Bezeichnung des Urtheiles, gegen welches Berufung erhoben wird;
-
-> `3.` die bestimmte Erklärung, inwieweit das Urtheil angefochten wird, die ebenso bestimmte kurze Bezeichnung der Gründe der Anfechtung \(Berufungsgründe\), und die Erklärung, ob die Aufhebung oder eine Abänderung des Urtheiles, und welche beantragt werde \(Berufungsantrag\);
-
-> `4.` das thatsächliche Vorbringen und die Beweismittel, durch welche die Wahrheit der Berufungsgründe erwiesen werden kann;
-
-> `5.` die Unterschrift eines Rechtsanwalts\.
+>
+>> `1.` die Bezeichnung des Berufungsgerichtes;
+>
+>> `2.` die Bezeichnung des Urtheiles, gegen welches Berufung erhoben wird;
+>
+>> `3.` die bestimmte Erklärung, inwieweit das Urtheil angefochten wird, die ebenso bestimmte kurze Bezeichnung der Gründe der Anfechtung \(Berufungsgründe\), und die Erklärung, ob die Aufhebung oder eine Abänderung des Urtheiles, und welche beantragt werde \(Berufungsantrag\);
+>
+>> `4.` das thatsächliche Vorbringen und die Beweismittel, durch welche die Wahrheit der Berufungsgründe erwiesen werden kann;
+>
+>> `5.` die Unterschrift eines Rechtsanwalts\.
 
 ### § 468 ZPO — 
 
@@ -4397,20 +4397,20 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 471 ZPO — 
 
 > Auf Grund dieser Prüfung ist die Berufung, ohne dass zunächst eine Tagsatzung zur mündlichen Verhandlung anberaumt würde, vor den Berufungssenat zu bringen:
-
-> `1.` wenn das Berufungsgericht zur Entscheidung über die erhobene Berufung nicht zuständig erscheint;
-
-> `2.` wenn die Berufung als gesetzlich unzulässig oder nicht in der gesetzlichen Frist erhoben erscheint;
-
-> `3.` wenn in der Berufungsschrift das Urtheil nicht angegeben ist, wider welches Berufung erhoben wird, wenn die Berufungsschrift keinen oder keinen bestimmten Berufungsantrag enthält, oder wenn die Berufungsgründe weder ausdrücklich noch durch deutliche Hinweisung einzeln angeführt sind;
-
-> `4.` wenn sich die Berufung gegen ein wegen Säumnis einer Partei gefälltes Urtheil darauf gründet, daß eine Versäumung nicht vorliege;
-
-> `5.` wenn das Urtheil oder das der Urtheilsfällung vorangegangene Verfahren als nichtig angefochten wird;
-
-> `6.` wenn der in das Urteil aufgenommene Ausspruch über die Einreden nach § 239 Abs\. 3 Z 1 angefochten wird;
-
-> `7.` wenn der mit der Prüfung der Berufungsacten betraute Richter der Ansicht ist, dass das Urtheil oder das demselben vorangegangene Verfahren an einer vom Berufungswerber nicht geltend gemachten Nichtigkeit leide\.
+>
+>> `1.` wenn das Berufungsgericht zur Entscheidung über die erhobene Berufung nicht zuständig erscheint;
+>
+>> `2.` wenn die Berufung als gesetzlich unzulässig oder nicht in der gesetzlichen Frist erhoben erscheint;
+>
+>> `3.` wenn in der Berufungsschrift das Urtheil nicht angegeben ist, wider welches Berufung erhoben wird, wenn die Berufungsschrift keinen oder keinen bestimmten Berufungsantrag enthält, oder wenn die Berufungsgründe weder ausdrücklich noch durch deutliche Hinweisung einzeln angeführt sind;
+>
+>> `4.` wenn sich die Berufung gegen ein wegen Säumnis einer Partei gefälltes Urtheil darauf gründet, daß eine Versäumung nicht vorliege;
+>
+>> `5.` wenn das Urtheil oder das der Urtheilsfällung vorangegangene Verfahren als nichtig angefochten wird;
+>
+>> `6.` wenn der in das Urteil aufgenommene Ausspruch über die Einreden nach § 239 Abs\. 3 Z 1 angefochten wird;
+>
+>> `7.` wenn der mit der Prüfung der Berufungsacten betraute Richter der Ansicht ist, dass das Urtheil oder das demselben vorangegangene Verfahren an einer vom Berufungswerber nicht geltend gemachten Nichtigkeit leide\.
 
 ### § 472 ZPO — 
 
@@ -4577,10 +4577,10 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 489 ZPO — 
 
 > *\(Anm\.: Abs\. 1 aufgehoben durch Art\. IV Z 89, BGBl\. Nr\. 135/1983\)*
-
-> `(2)` Wird vom Berufungssenate die neuerliche eidliche Einvernehmung einer bereits in erster Instanz eidlich abgehörten Partei angeordnet, so ist dieselbe unter Erinnerung an den in erster Instanz abgelegten Eid zu vernehmen\.
-
-> `(3)` Das Berufungsgericht kann die eidliche Vernehmung einer Partei, welche in erster Instanz die Vernehmung oder die eidliche Aussage verweigert hat, nur dann anordnen, wenn es die Überzeugung gewonnen hat, dass die Partei genügende Gründe hatte, die Vernehmung zu verweigern, und dass diese Gründe seither weggefallen sind\.
+>
+>> `(2)` Wird vom Berufungssenate die neuerliche eidliche Einvernehmung einer bereits in erster Instanz eidlich abgehörten Partei angeordnet, so ist dieselbe unter Erinnerung an den in erster Instanz abgelegten Eid zu vernehmen\.
+>
+>> `(3)` Das Berufungsgericht kann die eidliche Vernehmung einer Partei, welche in erster Instanz die Vernehmung oder die eidliche Aussage verweigert hat, nur dann anordnen, wenn es die Überzeugung gewonnen hat, dass die Partei genügende Gründe hatte, die Vernehmung zu verweigern, und dass diese Gründe seither weggefallen sind\.
 
 ### § 490 ZPO — 
 
@@ -4707,14 +4707,14 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 503 ZPO — 
 
 > Die Revision kann nur aus einem der folgenden Gründe begehrt werden:
-
-> `1.` weil das Urtheil des Berufungsgerichtes wegen eines der im §\. 477 bezeichneten Mängel nichtig ist;
-
-> `2.` weil das Berufungsverfahren an einem Mangel leidet, welcher, ohne die Nichtigkeit zu bewirken, eine erschöpfende Erörterung und gründliche Beurtheilung der Streitsache zu hindern geeignet war;
-
-> `3.` weil dem Urtheile des Berufungsgerichtes in einem wesentlichen Punkte eine thatsächliche Voraussetzung zugrunde gelegt erscheint, welche mit den Processacten erster oder zweiter Instanz im Widerspruche steht;
-
-> `4.` weil das Urtheil des Berufungsgerichtes auf einer unrichtigen rechtlichen Beurtheilung der Sache beruht\.
+>
+>> `1.` weil das Urtheil des Berufungsgerichtes wegen eines der im §\. 477 bezeichneten Mängel nichtig ist;
+>
+>> `2.` weil das Berufungsverfahren an einem Mangel leidet, welcher, ohne die Nichtigkeit zu bewirken, eine erschöpfende Erörterung und gründliche Beurtheilung der Streitsache zu hindern geeignet war;
+>
+>> `3.` weil dem Urtheile des Berufungsgerichtes in einem wesentlichen Punkte eine thatsächliche Voraussetzung zugrunde gelegt erscheint, welche mit den Processacten erster oder zweiter Instanz im Widerspruche steht;
+>
+>> `4.` weil das Urtheil des Berufungsgerichtes auf einer unrichtigen rechtlichen Beurtheilung der Sache beruht\.
 
 ### § 504 ZPO — 
 
@@ -5085,16 +5085,16 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 536 ZPO — 
 
 > Die Klage muss insbesondere enthalten:
-
-> `1.` die Bezeichnung der angefochtenen Entscheidung;
-
-> `2.` die Bezeichnung des gesetzlichen Anfechtungsgrundes \(Nichtigkeits\-, Wiederaufnahmsgrund\);
-
-> `3.` die Angabe der Umstände, aus welchen sich die Einhaltung der gesetzlichen Frist für die Klage ergibt, und die Bezeichnung der hiefür vorhandenen Beweismittel;
-
-> `4.` die Angabe der für die Beurtheilung der Zuständigkeit wesentlichen Umstände;
-
-> `5.` die Erklärung, inwieweit die Beseitigung der angefochtenen Entscheidung, und welche andere Entscheidung in der Hauptsache beantragt wird\.
+>
+>> `1.` die Bezeichnung der angefochtenen Entscheidung;
+>
+>> `2.` die Bezeichnung des gesetzlichen Anfechtungsgrundes \(Nichtigkeits\-, Wiederaufnahmsgrund\);
+>
+>> `3.` die Angabe der Umstände, aus welchen sich die Einhaltung der gesetzlichen Frist für die Klage ergibt, und die Bezeichnung der hiefür vorhandenen Beweismittel;
+>
+>> `4.` die Angabe der für die Beurtheilung der Zuständigkeit wesentlichen Umstände;
+>
+>> `5.` die Erklärung, inwieweit die Beseitigung der angefochtenen Entscheidung, und welche andere Entscheidung in der Hauptsache beantragt wird\.
 
 ### § 537 ZPO — 
 
@@ -5350,10 +5350,10 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 575 ZPO — 
 
 > *\(Anm\.: Abs\. 1 aufgehoben durch Art\. III Z 28, BGBl\. Nr\. 282/1955\)*
-
-> `(2)` Gegen die gerichtlichen Aufträge zur Übergabe oder Übernahme des Bestandgegenstandes, die auf Grund von Aufkündigungen oder infolge eines gemäß §\. 567 gestellten Ansuchens ergehen, ist vorbehaltlich der dagegen zu erhebenden Einwendungen ein Rechtsmittel nicht zulässig\.
-
-> `(3)` Eine gerichtliche Kündigung oder ein Auftrag zur Übergabe oder Übernahme des Bestandgegenstandes, wider welche nicht rechtzeitig Einwendungen erhoben wurden, desgleichen die über solche Einwendungen ergangenen rechtskräftigen Urtheile treten, vorbehaltlich des über den Kostenersatz ergangenen Ausspruches, außer Kraft, wenn nicht binnen sechs Monaten nach dem Eintritte der in diesen Aufträgen oder im Urtheile für die Räumung oder Übernahme des Bestandgegenstandes bestimmten Zeit wegen dieser Räumung oder Übernahme Execution beantragt wird\.
+>
+>> `(2)` Gegen die gerichtlichen Aufträge zur Übergabe oder Übernahme des Bestandgegenstandes, die auf Grund von Aufkündigungen oder infolge eines gemäß §\. 567 gestellten Ansuchens ergehen, ist vorbehaltlich der dagegen zu erhebenden Einwendungen ein Rechtsmittel nicht zulässig\.
+>
+>> `(3)` Eine gerichtliche Kündigung oder ein Auftrag zur Übergabe oder Übernahme des Bestandgegenstandes, wider welche nicht rechtzeitig Einwendungen erhoben wurden, desgleichen die über solche Einwendungen ergangenen rechtskräftigen Urtheile treten, vorbehaltlich des über den Kostenersatz ergangenen Ausspruches, außer Kraft, wenn nicht binnen sechs Monaten nach dem Eintritte der in diesen Aufträgen oder im Urtheile für die Räumung oder Übernahme des Bestandgegenstandes bestimmten Zeit wegen dieser Räumung oder Übernahme Execution beantragt wird\.
 
 ## Verträge gegen Entrichtung eines Zinses in Früchten.
 
@@ -5642,18 +5642,18 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 604 ZPO — Entscheidung durch ein Schiedsrichterkollegium
 
 > Haben die Parteien nichts anderes vereinbart, so gilt Folgendes:
-
-> `1.` In Schiedsverfahren mit mehr als einem Schiedsrichter ist jede Entscheidung des Schiedsgerichts mit Stimmenmehrheit aller Mitglieder zu treffen\. In Verfahrensfragen kann der Vorsitzende allein entscheiden, wenn die Parteien oder alle Mitglieder des Schiedsgerichts ihn dazu ermächtigt haben\.
-
-> `2.` Nehmen ein oder mehrere Schiedsrichter an einer Abstimmung ohne rechtfertigenden Grund nicht teil, so können die anderen Schiedsrichter ohne sie entscheiden\. Auch in diesem Fall ist die erforderliche Stimmenmehrheit von der Gesamtzahl aller teilnehmenden und nicht teilnehmenden Schiedsrichter zu berechnen\. Bei einer Abstimmung über einen Schiedsspruch ist die Absicht, so vorzugehen, den Parteien vorher mitzuteilen\. Bei anderen Entscheidungen sind die Parteien von der Nichtteilnahme an der Abstimmung nachträglich in Kenntnis zu setzen\.
+>
+>> `1.` In Schiedsverfahren mit mehr als einem Schiedsrichter ist jede Entscheidung des Schiedsgerichts mit Stimmenmehrheit aller Mitglieder zu treffen\. In Verfahrensfragen kann der Vorsitzende allein entscheiden, wenn die Parteien oder alle Mitglieder des Schiedsgerichts ihn dazu ermächtigt haben\.
+>
+>> `2.` Nehmen ein oder mehrere Schiedsrichter an einer Abstimmung ohne rechtfertigenden Grund nicht teil, so können die anderen Schiedsrichter ohne sie entscheiden\. Auch in diesem Fall ist die erforderliche Stimmenmehrheit von der Gesamtzahl aller teilnehmenden und nicht teilnehmenden Schiedsrichter zu berechnen\. Bei einer Abstimmung über einen Schiedsspruch ist die Absicht, so vorzugehen, den Parteien vorher mitzuteilen\. Bei anderen Entscheidungen sind die Parteien von der Nichtteilnahme an der Abstimmung nachträglich in Kenntnis zu setzen\.
 
 ### § 605 ZPO — Vergleich
 
 > Vergleichen sich die Parteien während des Schiedsverfahrens über die Streitigkeit und sind die Parteien fähig, über den Gegenstand des Streits einen Vergleich abzuschließen, so können sie beantragen, dass
-
-> `1.` das Schiedsgericht den Vergleich protokolliert, sofern der Inhalt des Vergleichs nicht gegen Grundwertungen der österreichischen Rechtsordnung \(ordre public\) verstößt; es reicht aus, wenn das Protokoll von den Parteien und dem Vorsitzenden unterschrieben wird;
-
-> `2.` das Schiedsgericht den Vergleich in Form eines Schiedsspruchs mit vereinbartem Wortlaut festhält, sofern der Inhalt des Vergleichs nicht gegen Grundwertungen der österreichischen Rechtsordnung \(ordre public\) verstößt\. Ein solcher Schiedsspruch ist gemäß § 606 zu erlassen\. Er hat dieselbe Wirkung wie jeder Schiedsspruch in der Sache\.
+>
+>> `1.` das Schiedsgericht den Vergleich protokolliert, sofern der Inhalt des Vergleichs nicht gegen Grundwertungen der österreichischen Rechtsordnung \(ordre public\) verstößt; es reicht aus, wenn das Protokoll von den Parteien und dem Vorsitzenden unterschrieben wird;
+>
+>> `2.` das Schiedsgericht den Vergleich in Form eines Schiedsspruchs mit vereinbartem Wortlaut festhält, sofern der Inhalt des Vergleichs nicht gegen Grundwertungen der österreichischen Rechtsordnung \(ordre public\) verstößt\. Ein solcher Schiedsspruch ist gemäß § 606 zu erlassen\. Er hat dieselbe Wirkung wie jeder Schiedsspruch in der Sache\.
 
 ### § 606 ZPO — Schiedsspruch
 
