@@ -533,6 +533,7 @@ class RisDocMarkdownEngine:
         parTitle = parCiteStr = f"{' '.join(self.citepath)} {self.normdata['title']}"
         parRegEx = f"^\\s*{' '.join(self.citepath).replace(' ', r'[\.\s\u00a0]*')}\\b\\.?\\s*"
 
+        hasAbsList = False
         firstIndentLine = None
         def startIndent():
             nonlocal firstIndentLine
@@ -607,6 +608,9 @@ class RisDocMarkdownEngine:
                         self.genMedia(item)
 
                     elif tag[0] == "List":
+                        if tag[-1] == "Abs" or hasAbsList:
+                            hasAbsList = True
+                            performIndent()
                         self.genList(item, br=(tag[-1] in ("Abs", "List")))
 
                     else:

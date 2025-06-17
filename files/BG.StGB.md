@@ -1119,10 +1119,10 @@ Der Nationalrat hat beschlossen:
 > einer medizinischen Behandlung zu unterziehen\. Die Weisung, sich
 >
 > einer medizinischen Behandlung zu unterziehen, die einen operativen Eingriff umfaßt, darf jedoch auch mit Zustimmung des Rechtsbrechers nicht erteilt werden\.
->
->> `(4)` Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach § 50 geboten scheint\.
->
->> `(5)` Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 45 gilt § 179a des Strafvollzugsgesetzes \(StVG\), BGBl\. Nr\. 144/1969, sinngemäß\.
+
+> `(4)` Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach § 50 geboten scheint\.
+
+> `(5)` Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 45 gilt § 179a des Strafvollzugsgesetzes \(StVG\), BGBl\. Nr\. 144/1969, sinngemäß\.
 
 ### § 52 StGB — Bewährungshilfe
 
@@ -1250,8 +1250,8 @@ Der Nationalrat hat beschlossen:
 >
 > ein Jahr,  
 > &nbsp; wenn die Handlung mit nicht mehr als sechsmonatiger Freiheitsstrafe oder nur mit Geldstrafe bedroht ist\.
->
->> `(4)` Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende Maßnahmen unzulässig\.
+
+> `(4)` Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende Maßnahmen unzulässig\.
 
 ### § 58 StGB — Verlängerung der Verjährungsfrist
 
@@ -1289,8 +1289,8 @@ Der Nationalrat hat beschlossen:
 >
 > fünf Jahre  
 > &nbsp; in allen übrigen Fällen\.
->
->> `(4)` Ist gleichzeitig auf mehrere Strafen oder vorbeugende Maßnahmen erkannt worden, so richtet sich die Verjährung der Vollstreckbarkeit aller dieser Strafen oder Maßnahmen nach der Strafe oder Maßnahme, für die die längste Verjährungsfrist vorgesehen ist\. Sind eine Freiheitsstrafe und eine Geldstrafe gleichzeitig verhängt worden, so ist zur Berechnung der Verjährungsfrist die Ersatzfreiheitsstrafe zur Freiheitsstrafe hinzuzurechnen\.
+
+> `(4)` Ist gleichzeitig auf mehrere Strafen oder vorbeugende Maßnahmen erkannt worden, so richtet sich die Verjährung der Vollstreckbarkeit aller dieser Strafen oder Maßnahmen nach der Strafe oder Maßnahme, für die die längste Verjährungsfrist vorgesehen ist\. Sind eine Freiheitsstrafe und eine Geldstrafe gleichzeitig verhängt worden, so ist zur Berechnung der Verjährungsfrist die Ersatzfreiheitsstrafe zur Freiheitsstrafe hinzuzurechnen\.
 
 ### § 60 StGB — Verlängerung der Frist für die Vollstreckungsverjährung
 
@@ -1626,8 +1626,8 @@ Der Nationalrat hat beschlossen:
 >> `3.` ein schweres Leiden, Siechtum oder Berufsunfähigkeit des Geschädigten,
 
 > &nbsp; herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
->
->> `(2)` Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Dauerfolge \(Abs\. 1\) beim Verletzten herbeiführt\.
+
+> `(2)` Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Dauerfolge \(Abs\. 1\) beim Verletzten herbeiführt\.
 
 ### § 86 StGB — Körperverletzung mit tödlichem Ausgang
 
@@ -1656,10 +1656,10 @@ Der Nationalrat hat beschlossen:
 >> `3.` der Täter ein Angehöriger eines gesetzlich geregelten Gesundheitsberufes und die Körperverletzung in Ausübung seines Berufes zugefügt worden,
 
 > &nbsp; so ist der Täter nach Abs\. 1 nicht zu bestrafen\.
->
->> `(3)` Wer grob fahrlässig \(§ 6 Abs\. 3\) oder in dem in § 81 Abs\. 2 bezeichneten Fall einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
->
->> `(4)` Hat die Tat nach Abs\. 1 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\. Hat die Tat nach Abs\. 3 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat sie jedoch eine schwere Körperverletzung \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
+
+> `(3)` Wer grob fahrlässig \(§ 6 Abs\. 3\) oder in dem in § 81 Abs\. 2 bezeichneten Fall einen anderen am Körper verletzt oder an der Gesundheit schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+> `(4)` Hat die Tat nach Abs\. 1 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\. Hat die Tat nach Abs\. 3 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat sie jedoch eine schwere Körperverletzung \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 ### § 89 StGB — Gefährdung der körperlichen Sicherheit
 
