@@ -399,6 +399,24 @@ class RisDocMarkdownEngine:
             self.lines[-1] = self.lines[-1].removesuffix("  ")
         self.push("")
 
+    def indentSinceLine(self, firstLine, itemLabel=None):
+        if firstLine == len(self.lines):
+            return
+        if self.lines[firstLine] == "":
+            firstLine += 1
+        if firstLine == len(self.lines):
+            return
+        if itemLabel is not None:
+            self.lines[firstLine] = f"`{itemLabel}` {self.lines[firstLine]}"
+        if self.lines[-1] == "":
+            del self.lines[-1]
+        self.lines[-1] = self.lines[-1].removesuffix("  ")
+        for i in range(firstLine, len(self.lines)):
+            if not self.lines[i].startswith(">") and self.lines[i]:
+                self.lines[i] = f" {self.lines[i]}"
+            self.lines[i] = f">{self.lines[i]}"
+        self.largeBreak()
+
     def genText(self, item, *, nobr=False):
         self.pushLineNum()
         head, *tail = item
@@ -448,9 +466,9 @@ class RisDocMarkdownEngine:
         if br or not flags.forai:
             self.largeBreak()
 
-        firstPatchLine = None
+        firstIndentLine = None
         if not flags.forai:
-            firstPatchLine = len(self.lines)
+            firstIndentLine = len(self.lines)
         else:
             if typ == "Abs" or (br and typ == "List" and len(self.citepath) == 2):
                 self.largeBreak()
@@ -462,16 +480,8 @@ class RisDocMarkdownEngine:
         for t in tail:
             self.genText(t)
 
-        if firstPatchLine is not None:
-            self.lines[firstPatchLine] = f"`{head.removeprefix('Item ')}` {self.lines[firstPatchLine]}"
-            if self.lines[-1] == "":
-                del self.lines[-1]
-            self.lines[-1] = self.lines[-1].removesuffix("  ")
-            for i in range(firstPatchLine, len(self.lines)):
-                if not self.lines[i].startswith(">"):
-                    self.lines[i] = f" {self.lines[i]}"
-                self.lines[i] = f">{self.lines[i]}"
-            self.largeBreak()
+        if firstIndentLine is not None:
+            self.indentSinceLine(firstIndentLine, head.removeprefix('Item '))
 
         self.citepath.pop()
         return self.popLineNum()
@@ -523,6 +533,17 @@ class RisDocMarkdownEngine:
         parTitle = parCiteStr = f"{' '.join(self.citepath)} {self.normdata['title']}"
         parRegEx = f"^\\s*{' '.join(self.citepath).replace(' ', r'[\.\s\u00a0]*')}\\b\\.?\\s*"
 
+        firstIndentLine = None
+        def startIndent():
+            nonlocal firstIndentLine
+            if not flags.forai and firstIndentLine is None:
+                firstIndentLine = len(self.lines)
+        def performIndent():
+            nonlocal firstIndentLine
+            if firstIndentLine is not None:
+                self.indentSinceLine(firstIndentLine)
+                firstIndentLine = None
+
         lastTyp = None
         for item in parDoc[1:]:
             if type(item[0]) is dict:
@@ -550,6 +571,7 @@ class RisDocMarkdownEngine:
                     t = re.sub(parRegEx, '', t).rstrip('. ')
                     parTitle = f"{parTitle} {'#' if flags.forai else '—'} {t}"
                 case "SubHdr":
+                    performIndent()
                     self.pushHdr(f"#### {renderText(item)}")
                 case _:
                     if parTitle is not None:
@@ -566,6 +588,7 @@ class RisDocMarkdownEngine:
                             if flags.forai:
                                 self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
                             parTitle = None
+                            startIndent()
                             self.genText(item, nobr=True)
                         else:
                             if tag[0] == "Text" and not \
@@ -573,15 +596,18 @@ class RisDocMarkdownEngine:
                                 self.largeBreak()
                             else:
                                 self.smallBreak()
+                            startIndent()
                             self.genText(item)
 
                     elif tag[0] == "Break":
                         self.largeBreak()
 
                     elif tag[0] == "Media":
+                        startIndent()
                         self.genMedia(item)
 
                     elif tag[0] == "List":
+                        performIndent()
                         self.genList(item, br=(tag[-1] in ("Abs", "List")))
 
                     else:
@@ -592,6 +618,7 @@ class RisDocMarkdownEngine:
 
             lastTyp = tag[0]
 
+        performIndent()
         self.largeBreak()
         lastLine = len(self.lines)-2 # not including the empty line we just pushed
         byteCount = sum(len(self.lines[i]) for i in range(firstLine, lastLine+1))

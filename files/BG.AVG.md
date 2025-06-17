@@ -154,15 +154,15 @@ Der Nationalrat hat beschlossen:
 
 ### § 1 AVG — Zuständigkeit
 
-Die sachliche und örtliche Zuständigkeit der Behörden richtet sich nach den Vorschriften über ihren Wirkungsbereich und nach den Verwaltungsvorschriften\.
+> Die sachliche und örtliche Zuständigkeit der Behörden richtet sich nach den Vorschriften über ihren Wirkungsbereich und nach den Verwaltungsvorschriften\.
 
 ### § 2 AVG
 
-Enthalten die in § 1 erwähnten Vorschriften über die sachliche Zuständigkeit keine Bestimmungen, so sind in den Angelegenheiten der Bundesverwaltung die Bezirksverwaltungsbehörden sachlich zuständig\.
+> Enthalten die in § 1 erwähnten Vorschriften über die sachliche Zuständigkeit keine Bestimmungen, so sind in den Angelegenheiten der Bundesverwaltung die Bezirksverwaltungsbehörden sachlich zuständig\.
 
 ### § 3 AVG
 
-Soweit die in § 1 erwähnten Vorschriften über die örtliche Zuständigkeit nichts bestimmen, richtet sich diese
+> Soweit die in § 1 erwähnten Vorschriften über die örtliche Zuständigkeit nichts bestimmen, richtet sich diese
 
 > `1.` in Sachen, die sich auf ein unbewegliches Gut beziehen: nach der Lage des Gutes;
 
@@ -193,13 +193,13 @@ Soweit die in § 1 erwähnten Vorschriften über die örtliche Zuständigkeit n
 ### § 7 AVG — Befangenheit von Verwaltungsorganen
 
 > `(1)` Verwaltungsorgane haben sich der Ausübung ihres Amtes zu enthalten und ihre Vertretung zu veranlassen:
-> 
+>
 >> `1.` in Sachen, an denen sie selbst, einer ihrer Angehörigen \(§ 36a\) oder eine von ihnen vertretene schutzberechtigte Person beteiligt sind;
-> 
+>
 >> `2.` in Sachen, in denen sie als Bevollmächtigte einer Partei bestellt waren oder noch bestellt sind;
-> 
+>
 >> `3.` wenn sonstige wichtige Gründe vorliegen, die geeignet sind, ihre volle Unbefangenheit in Zweifel zu ziehen;
-> 
+>
 >> `4.` im Berufungsverfahren, wenn sie an der Erlassung des angefochtenen Bescheides oder der Berufungsvorentscheidung \(§ 64a\) mitgewirkt haben\.
 
 > `(2)` Bei Gefahr im Verzug hat, wenn die Vertretung durch ein anderes Verwaltungsorgan nicht sogleich bewirkt werden kann, auch das befangene Organ die unaufschiebbaren Amtshandlungen selbst vorzunehmen\.
@@ -208,11 +208,11 @@ Soweit die in § 1 erwähnten Vorschriften über die örtliche Zuständigkeit n
 
 ### § 8 AVG — Beteiligte; Parteien
 
-Personen, die eine Tätigkeit der Behörde in Anspruch nehmen oder auf die sich die Tätigkeit der Behörde bezieht, sind Beteiligte und, insoweit sie an der Sache vermöge eines Rechtsanspruches oder eines rechtlichen Interesses beteiligt sind, Parteien\.
+> Personen, die eine Tätigkeit der Behörde in Anspruch nehmen oder auf die sich die Tätigkeit der Behörde bezieht, sind Beteiligte und, insoweit sie an der Sache vermöge eines Rechtsanspruches oder eines rechtlichen Interesses beteiligt sind, Parteien\.
 
 ### § 9 AVG — Rechts- und Handlungsfähigkeit
 
-Insoweit die persönliche Rechts\- und Handlungsfähigkeit von Beteiligten in Frage kommt, ist sie von der Behörde, wenn in den Verwaltungsvorschriften nicht anderes bestimmt ist, nach den Vorschriften des bürgerlichen Rechts zu beurteilen\.
+> Insoweit die persönliche Rechts\- und Handlungsfähigkeit von Beteiligten in Frage kommt, ist sie von der Behörde, wenn in den Verwaltungsvorschriften nicht anderes bestimmt ist, nach den Vorschriften des bürgerlichen Rechts zu beurteilen\.
 
 ### § 10 AVG — Vertreter
 
@@ -230,11 +230,11 @@ Insoweit die persönliche Rechts\- und Handlungsfähigkeit von Beteiligten in Fr
 
 ### § 11 AVG
 
-Soll von Amts wegen oder auf Antrag gegen einen schutzberechtigten Beteiligten, der eines gesetzlichen Vertreters entbehrt, oder gegen eine Person, deren Aufenthalt unbekannt ist, eine Amtshandlung vorgenommen werden, so kann die Behörde, wenn die Wichtigkeit der Sache es erfordert, die Betrauung einer Person mit der Obsorge oder die Bestellung eines gerichtlichen Erwachsenenvertreters oder Kurators beim zuständigen Gericht \(§ 109 JN\) veranlassen\.
+> Soll von Amts wegen oder auf Antrag gegen einen schutzberechtigten Beteiligten, der eines gesetzlichen Vertreters entbehrt, oder gegen eine Person, deren Aufenthalt unbekannt ist, eine Amtshandlung vorgenommen werden, so kann die Behörde, wenn die Wichtigkeit der Sache es erfordert, die Betrauung einer Person mit der Obsorge oder die Bestellung eines gerichtlichen Erwachsenenvertreters oder Kurators beim zuständigen Gericht \(§ 109 JN\) veranlassen\.
 
 ### § 12 AVG
 
-Die Vorschriften dieses Bundesgesetzes über die Beteiligten sind auch auf deren gesetzliche Vertreter und Bevollmächtigte zu beziehen\.
+> Die Vorschriften dieses Bundesgesetzes über die Beteiligten sind auch auf deren gesetzliche Vertreter und Bevollmächtigte zu beziehen\.
 
 ## 3. Abschnitt: Verkehr zwischen Behörden und Beteiligten
 
@@ -260,18 +260,18 @@ Die Vorschriften dieses Bundesgesetzes über die Beteiligten sind auch auf deren
 
 ### § 13a AVG — Rechtsbelehrung
 
-Die Behörde hat Personen, die nicht durch berufsmäßige Parteienvertreter vertreten sind, die zur Vornahme ihrer Verfahrenshandlungen nötigen Anleitungen in der Regel mündlich zu geben und sie über die mit diesen Handlungen oder Unterlassungen unmittelbar verbundenen Rechtsfolgen zu belehren\.
+> Die Behörde hat Personen, die nicht durch berufsmäßige Parteienvertreter vertreten sind, die zur Vornahme ihrer Verfahrenshandlungen nötigen Anleitungen in der Regel mündlich zu geben und sie über die mit diesen Handlungen oder Unterlassungen unmittelbar verbundenen Rechtsfolgen zu belehren\.
 
 ### § 14 AVG — Niederschriften
 
 > `(1)` Mündliche Anbringen von Beteiligten sind erforderlichenfalls ihrem wesentlichen Inhalt nach in einer Niederschrift festzuhalten\. Niederschriften über Verhandlungen \(Verhandlungsschriften\) sind derart abzufassen, daß bei Weglassung alles nicht zur Sache Gehörigen der Verlauf und Inhalt der Verhandlung richtig und verständlich wiedergegeben wird\.
 
 > `(2)` Jede Niederschrift hat außerdem zu enthalten:
-> 
+>
 >> `1.` Ort, Zeit und Gegenstand der Amtshandlung und, wenn schon frühere darauf bezügliche Amtshandlungen vorliegen, erforderlichenfalls eine kurze Darstellung des Standes der Sache;
-> 
+>
 >> `2.` die Bezeichnung der Behörde und die Namen des Leiters der Amtshandlung und der sonst mitwirkenden amtlichen Organe, der anwesenden Beteiligten und ihrer Vertreter sowie der etwa vernommenen Zeugen und Sachverständigen\.
-> 
+>
 > &nbsp; *\(Anm\.: Z 3 aufgehoben durch BGBl\. I Nr\. 5/2008\)*
 
 > `(3)` Die Niederschrift ist den vernommenen oder sonst beigezogenen Personen, wenn sie nicht darauf verzichten, zur Durchsicht vorzulegen oder vorzulesen; wenn ein Schallträger verwendet \(Abs\. 7\) oder die Niederschrift elektronisch erstellt wird, kann ihr Inhalt auch auf andere Weise wiedergegeben werden\. Der Leiter der Amtshandlung kann auch ohne Verzicht von einer Wiedergabe absehen; die beigezogenen Personen können diesfalls bis zum Schluß der Amtshandlung die Zustellung einer Ausfertigung verlangen und binnen zwei Wochen ab Zustellung Einwendungen wegen behaupteter Unvollständigkeit oder Unrichtigkeit der Niederschrift erheben\.
@@ -287,7 +287,7 @@ Die Behörde hat Personen, die nicht durch berufsmäßige Parteienvertreter vert
 
 ### § 15 AVG
 
-Soweit nicht Einwendungen erhoben wurden, liefert eine gemäß § 14 aufgenommene Niederschrift über den Verlauf und den Gegenstand der betreffenden Amtshandlung vollen Beweis\. Der Gegenbeweis der Unrichtigkeit des bezeugten Vorganges bleibt zulässig\.
+> Soweit nicht Einwendungen erhoben wurden, liefert eine gemäß § 14 aufgenommene Niederschrift über den Verlauf und den Gegenstand der betreffenden Amtshandlung vollen Beweis\. Der Gegenbeweis der Unrichtigkeit des bezeugten Vorganges bleibt zulässig\.
 
 ### § 16 AVG — Aktenvermerke
 
@@ -307,7 +307,7 @@ Soweit nicht Einwendungen erhoben wurden, liefert eine gemäß § 14 aufgenomme
 
 ### § 17a AVG — Blinde und hochgradig sehbehinderte Beteiligte
 
-Blinden oder hochgradig sehbehinderten Beteiligten, die eines Vertreters entbehren, hat die Behörde auf Verlangen den Inhalt von Akten oder Aktenteilen durch Verlesung oder nach Maßgabe der vorhandenen technischen Möglichkeiten in sonst geeigneter Weise zur Kenntnis zu bringen\.
+> Blinden oder hochgradig sehbehinderten Beteiligten, die eines Vertreters entbehren, hat die Behörde auf Verlangen den Inhalt von Akten oder Aktenteilen durch Verlesung oder nach Maßgabe der vorhandenen technischen Möglichkeiten in sonst geeigneter Weise zur Kenntnis zu bringen\.
 
 ### § 18 AVG — Erledigungen
 
@@ -333,53 +333,53 @@ Blinden oder hochgradig sehbehinderten Beteiligten, die eines Vertreters entbehr
 
 ### § 20 AVG
 
-Steht die zu ladende Person in einem öffentlichen Amt oder Dienst oder im Dienst eines dem öffentlichen Verkehr dienenden Unternehmens und muß voraussichtlich zur Wahrung der Sicherheit oder anderer öffentlicher Interessen eine Stellvertretung während der Verhinderung dieser Person eintreten, so ist gleichzeitig deren vorgesetzte Stelle von der Ladung zu benachrichtigen\.
+> Steht die zu ladende Person in einem öffentlichen Amt oder Dienst oder im Dienst eines dem öffentlichen Verkehr dienenden Unternehmens und muß voraussichtlich zur Wahrung der Sicherheit oder anderer öffentlicher Interessen eine Stellvertretung während der Verhinderung dieser Person eintreten, so ist gleichzeitig deren vorgesetzte Stelle von der Ladung zu benachrichtigen\.
 
 ## 4. Abschnitt: Zustellungen
 
 ### § 21 AVG
 
-Zustellungen sind nach dem Zustellgesetz – ZustG, BGBl\. Nr\. 200/1982, vorzunehmen\.
+> Zustellungen sind nach dem Zustellgesetz – ZustG, BGBl\. Nr\. 200/1982, vorzunehmen\.
 
 ### § 22 AVG
 
-Wenn wichtige Gründe hiefür vorliegen, ist eine schriftliche Ausfertigung mit Zustellnachweis zuzustellen\. Bei Vorliegen besonders wichtiger Gründe oder wenn es gesetzlich vorgesehen ist, ist die Zustellung zu eigenen Handen des Empfängers zu bewirken\.
+> Wenn wichtige Gründe hiefür vorliegen, ist eine schriftliche Ausfertigung mit Zustellnachweis zuzustellen\. Bei Vorliegen besonders wichtiger Gründe oder wenn es gesetzlich vorgesehen ist, ist die Zustellung zu eigenen Handen des Empfängers zu bewirken\.
 
 ### § 23 AVG
 
-*\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
+> *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 ### § 24 AVG
 
-*\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
+> *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 ### § 25 AVG
 
-*\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
+> *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 ### § 26 AVG
 
-*\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
+> *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 ### § 27 AVG
 
-*\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
+> *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 ### § 28 AVG
 
-*\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
+> *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 ### § 29 AVG
 
-*\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
+> *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 ### § 30 AVG
 
-*\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
+> *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 ### § 31 AVG
 
-*\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
+> *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 ## 5. Abschnitt: Fristen
 
@@ -396,9 +396,9 @@ Wenn wichtige Gründe hiefür vorliegen, ist eine schriftliche Ausfertigung mit 
 > `(2)` Fällt das Ende einer Frist auf einen Samstag, Sonntag, gesetzlichen Feiertag, Karfreitag oder 24\. Dezember, so ist der nächste Tag, der nicht einer der vorgenannten Tage ist, als letzter Tag der Frist anzusehen\.
 
 > `(3)` In die Frist werden nicht eingerechnet:
-> 
+>
 >> `1.` die Tage von der Übergabe an einen Zustelldienst im Sinne des § 2 Z 7 ZustG zur Übermittlung an die Behörde bis zum Einlangen bei dieser \(Postlauf\);
-> 
+>
 >> `2.` die Zeit von der Versendung eines Anbringens im elektronischen Verkehr an die Behörde bis zum Einlangen bei dieser\.
 
 > `(4)` Durch Gesetz oder Verordnung festgesetzte Fristen können, wenn nicht ausdrücklich anderes bestimmt ist, nicht geändert werden\.
@@ -419,28 +419,28 @@ Wenn wichtige Gründe hiefür vorliegen, ist eine schriftliche Ausfertigung mit 
 
 ### § 35 AVG — Mutwillensstrafen
 
-Gegen Personen, die offenbar mutwillig die Tätigkeit der Behörde in Anspruch nehmen oder in der Absicht einer Verschleppung der Angelegenheit unrichtige Angaben machen, kann die Behörde eine Mutwillensstrafe bis 726 Euro verhängen\.
+> Gegen Personen, die offenbar mutwillig die Tätigkeit der Behörde in Anspruch nehmen oder in der Absicht einer Verschleppung der Angelegenheit unrichtige Angaben machen, kann die Behörde eine Mutwillensstrafe bis 726 Euro verhängen\.
 
 ### § 36 AVG — Widmung und Vollzug der Ordnungs- und Mutwillensstrafen
 
-Die Ordnungs\- und Mutwillensstrafen fließen der Gebietskörperschaft zu, die den Aufwand der Behörde zu tragen hat\. Die Bestimmungen des Verwaltungsstrafgesetzes über den Strafvollzug sind sinngemäß anzuwenden\.
+> Die Ordnungs\- und Mutwillensstrafen fließen der Gebietskörperschaft zu, die den Aufwand der Behörde zu tragen hat\. Die Bestimmungen des Verwaltungsstrafgesetzes über den Strafvollzug sind sinngemäß anzuwenden\.
 
 ## 7. Abschnitt: Begriffsbestimmungen
 
 ### § 36a AVG — Angehörige
 
 > `(1)` Angehörige im Sinne dieses Bundesgesetzes sind
-> 
+>
 >> `1.` der Ehegatte,
-> 
+>
 >> `2.` die Verwandten in gerader Linie und die Verwandten zweiten, dritten und vierten Grades in der Seitenlinie,
-> 
+>
 >> `3.` die Verschwägerten in gerader Linie und die Verschwägerten zweiten Grades in der Seitenlinie,
-> 
+>
 >> `4.` die Wahleltern und Wahlkinder und die Pflegeeltern und Pflegekinder,
-> 
+>
 >> `5.` Personen, die miteinander in Lebensgemeinschaft leben, sowie Kinder und Enkel einer dieser Personen im Verhältnis zur anderen Person sowie
-> 
+>
 >> `6.` der eingetragene Partner\.
 
 > `(2)` Abs\. 1 Z 3 gilt für eingetragene Partner sinngemäß\.
@@ -453,11 +453,11 @@ Die Ordnungs\- und Mutwillensstrafen fließen der Gebietskörperschaft zu, die d
 
 ### § 37 AVG — Allgemeine Grundsätze
 
-Zweck des Ermittlungsverfahrens ist, den für die Erledigung einer Verwaltungssache maßgebenden Sachverhalt festzustellen und den Parteien Gelegenheit zur Geltendmachung ihrer Rechte und rechtlichen Interessen zu geben\. Nach einer Antragsänderung \(§ 13 Abs\. 8\) hat die Behörde das Ermittlungsverfahren insoweit zu ergänzen, als dies im Hinblick auf seinen Zweck notwendig ist\.
+> Zweck des Ermittlungsverfahrens ist, den für die Erledigung einer Verwaltungssache maßgebenden Sachverhalt festzustellen und den Parteien Gelegenheit zur Geltendmachung ihrer Rechte und rechtlichen Interessen zu geben\. Nach einer Antragsänderung \(§ 13 Abs\. 8\) hat die Behörde das Ermittlungsverfahren insoweit zu ergänzen, als dies im Hinblick auf seinen Zweck notwendig ist\.
 
 ### § 38 AVG
 
-Sofern die Gesetze nicht anderes bestimmen, ist die Behörde berechtigt, im Ermittlungsverfahren auftauchende Vorfragen, die als Hauptfragen von anderen Verwaltungsbehörden oder von den Gerichten zu entscheiden wären, nach der über die maßgebenden Verhältnisse gewonnenen eigenen Anschauung zu beurteilen und diese Beurteilung ihrem Bescheid zugrunde zu legen\. Sie kann aber auch das Verfahren bis zur rechtskräftigen Entscheidung der Vorfrage aussetzen, wenn die Vorfrage schon den Gegenstand eines anhängigen Verfahrens bei der zuständigen Verwaltungsbehörde bzw\. beim zuständigen Gericht bildet oder ein solches Verfahren gleichzeitig anhängig gemacht wird\.
+> Sofern die Gesetze nicht anderes bestimmen, ist die Behörde berechtigt, im Ermittlungsverfahren auftauchende Vorfragen, die als Hauptfragen von anderen Verwaltungsbehörden oder von den Gerichten zu entscheiden wären, nach der über die maßgebenden Verhältnisse gewonnenen eigenen Anschauung zu beurteilen und diese Beurteilung ihrem Bescheid zugrunde zu legen\. Sie kann aber auch das Verfahren bis zur rechtskräftigen Entscheidung der Vorfrage aussetzen, wenn die Vorfrage schon den Gegenstand eines anhängigen Verfahrens bei der zuständigen Verwaltungsbehörde bzw\. beim zuständigen Gericht bildet oder ein solches Verfahren gleichzeitig anhängig gemacht wird\.
 
 ### § 38a AVG
 
@@ -546,13 +546,13 @@ Sofern die Gesetze nicht anderes bestimmen, ist die Behörde berechtigt, im Ermi
 > `(1)` Sind an einer Verwaltungssache oder an verbundenen Verwaltungssachen voraussichtlich insgesamt mehr als 100 Personen beteiligt, so kann die Behörde den Antrag oder die Anträge durch Edikt kundmachen\.
 
 > `(2)` Das Edikt hat zu enthalten:
-> 
+>
 >> `1.` den Gegenstand des Antrages und eine Beschreibung des Vorhabens;
-> 
+>
 >> `2.` eine Frist von mindestens sechs Wochen, innerhalb derer bei der Behörde schriftlich Einwendungen erhoben werden können;
-> 
+>
 >> `3.` den Hinweis auf die Rechtsfolgen des § 44b;
-> 
+>
 >> `4.` den Hinweis, daß die Kundmachungen und Zustellungen im Verfahren durch Edikt vorgenommen werden können\.
 
 > `(3)` Das Edikt ist im redaktionellen Teil zweier im Bundesland weitverbreiteter Tageszeitungen und im „Amtsblatt zur Wiener Zeitung“ zu verlautbaren\. Ist in den Verwaltungsvorschriften für die Kundmachung der mündlichen Verhandlung eine besondere Form vorgesehen, so ist der Inhalt des Edikts darüber hinaus in dieser Form kundzumachen; im übrigen kann die Behörde jede geeignete Form der Kundmachung wählen\. In der Zeit vom 15\. Juli bis 25\. August und vom 24\. Dezember bis 6\. Jänner ist die Kundmachung durch Edikt nicht zulässig\.
@@ -576,9 +576,9 @@ Sofern die Gesetze nicht anderes bestimmen, ist die Behörde berechtigt, im Ermi
 > `(1)` Die Behörde kann eine mündliche Verhandlung gemäß § 44a Abs\. 3 durch Edikt anberaumen, wenn der Antrag gemäß § 44a Abs\. 1 kundgemacht worden ist oder gleichzeitig kundgemacht wird\.
 
 > `(2)` Das Edikt hat zu enthalten:
-> 
+>
 >> `1.` den Gegenstand der Verhandlung, eine Beschreibung des Vorhabens und einen etwaigen Zeitplan;
-> 
+>
 >> `2.` Ort und Zeit der Verhandlung\.
 
 ### § 44e AVG
@@ -597,7 +597,7 @@ Sofern die Gesetze nicht anderes bestimmen, ist die Behörde berechtigt, im Ermi
 
 ### § 44g AVG
 
-Die Kosten der Verlautbarung des Edikts im „Amtsblatt zur Wiener Zeitung“ sind von Amts wegen zu tragen\.
+> Die Kosten der Verlautbarung des Edikts im „Amtsblatt zur Wiener Zeitung“ sind von Amts wegen zu tragen\.
 
 ## 2. Abschnitt: Beweise
 
@@ -611,15 +611,15 @@ Die Kosten der Verlautbarung des Edikts im „Amtsblatt zur Wiener Zeitung“ si
 
 ### § 46 AVG
 
-Als Beweismittel kommt alles in Betracht, was zur Feststellung des maßgebenden Sachverhaltes geeignet und nach Lage des einzelnen Falles zweckdienlich ist\.
+> Als Beweismittel kommt alles in Betracht, was zur Feststellung des maßgebenden Sachverhaltes geeignet und nach Lage des einzelnen Falles zweckdienlich ist\.
 
 ### § 47 AVG — Urkunden
 
-Die Beweiskraft von öffentlichen Urkunden und Privaturkunden ist von der Behörde nach den §§ 292 bis 294, 296, 310 und 311 ZPO zu beurteilen\. Dabei gilt § 292 Abs\. 1 erster Satz ZPO jedoch mit der Maßgabe, daß inländische öffentliche Urkunden den Beweis auch über jene Tatsachen und Rechtsverhältnisse liefern, die die Voraussetzung für ihre Ausstellung bildeten und in der Urkunde ausdrücklich genannt sind; wenn die Behörde im Hinblick auf die besonderen Umstände des Einzelfalles dagegen Bedenken hat, daß die Urkunde diesen Beweis liefert, so kann sie der Partei auftragen, den Beweis auf andere Weise zu führen\.
+> Die Beweiskraft von öffentlichen Urkunden und Privaturkunden ist von der Behörde nach den §§ 292 bis 294, 296, 310 und 311 ZPO zu beurteilen\. Dabei gilt § 292 Abs\. 1 erster Satz ZPO jedoch mit der Maßgabe, daß inländische öffentliche Urkunden den Beweis auch über jene Tatsachen und Rechtsverhältnisse liefern, die die Voraussetzung für ihre Ausstellung bildeten und in der Urkunde ausdrücklich genannt sind; wenn die Behörde im Hinblick auf die besonderen Umstände des Einzelfalles dagegen Bedenken hat, daß die Urkunde diesen Beweis liefert, so kann sie der Partei auftragen, den Beweis auf andere Weise zu führen\.
 
 ### § 48 AVG — Zeugen
 
-Als Zeugen dürfen nicht vernommen werden:
+> Als Zeugen dürfen nicht vernommen werden:
 
 > `1.` Personen, die zur Mitteilung ihrer Wahrnehmungen unfähig sind oder die zur Zeit, auf die sich ihre Aussage beziehen soll, zur Wahrnehmung der zu beweisenden Tatsache unfähig waren;
 
@@ -630,11 +630,11 @@ Als Zeugen dürfen nicht vernommen werden:
 ### § 49 AVG
 
 > `(1)` Die Aussage darf von einem Zeugen verweigert werden:
-> 
+>
 >> `1.` über Fragen, deren Beantwortung dem Zeugen, einem seiner Angehörigen \(§ 36a\), einer mit seiner Obsorge betrauten Person, seinem Erwachsenenvertreter, seinem Vorsorgebevollmächtigten nach Wirksamwerden der Vorsorgevollmacht oder der von ihm in einer dieser Eigenschaften vertretenen Person einen unmittelbaren Vermögensnachteil oder die Gefahr einer strafrechtlichen Verfolgung zuziehen oder zur Unehre gereichen würde;
-> 
+>
 >> `2.` über Fragen, die er nicht beantworten könnte, ohne eine ihm obliegende gesetzlich anerkannte Pflicht zur Verschwiegenheit, von der er nicht gültig entbunden wurde, zu verletzen oder ein Kunst\-, Betriebs\- oder Geschäftsgeheimnis zu offenbaren;
-> 
+>
 >> `3.` über Fragen, wie er sein Wahl\- oder Stimmrecht ausgeübt hat, wenn dessen Ausübung gesetzlich für geheim erklärt ist\.
 
 > `(2)` Die zur berufsmäßigen Parteienvertretung befugten Personen können die Zeugenaussage auch darüber verweigern, was ihnen in ihrer Eigenschaft als Vertreter einer Partei von dieser anvertraut wurde\.
@@ -647,15 +647,15 @@ Als Zeugen dürfen nicht vernommen werden:
 
 ### § 50 AVG
 
-Jeder Zeuge ist zu Beginn seiner Vernehmung über die für die Vernehmung maßgebenden persönlichen Verhältnisse zu befragen und zu ermahnen, die Wahrheit anzugeben und nichts zu verschweigen\. Er ist auch auf die gesetzlichen Gründe für die Verweigerung der Aussage, auf die Folgen einer ungerechtfertigten Verweigerung der Aussage und die strafrechtlichen Folgen einer falschen Aussage aufmerksam zu machen\.
+> Jeder Zeuge ist zu Beginn seiner Vernehmung über die für die Vernehmung maßgebenden persönlichen Verhältnisse zu befragen und zu ermahnen, die Wahrheit anzugeben und nichts zu verschweigen\. Er ist auch auf die gesetzlichen Gründe für die Verweigerung der Aussage, auf die Folgen einer ungerechtfertigten Verweigerung der Aussage und die strafrechtlichen Folgen einer falschen Aussage aufmerksam zu machen\.
 
 ### § 51 AVG — Vernehmung von Beteiligten
 
-Die §§ 48 und 49 sind auch auf die Vernehmung von Beteiligten zum Zweck der Beweisführung anzuwenden, doch gilt der Weigerungsgrund des § 49 Abs\. 1 Z 1 wegen Gefahr eines Vermögensnachteils nicht\.
+> Die §§ 48 und 49 sind auch auf die Vernehmung von Beteiligten zum Zweck der Beweisführung anzuwenden, doch gilt der Weigerungsgrund des § 49 Abs\. 1 Z 1 wegen Gefahr eines Vermögensnachteils nicht\.
 
 ### § 51a AVG — Audiovisuelle Vernehmungen
 
-Nach Maßgabe der technischen Möglichkeiten kann eine Vernehmung unter Verwendung technischer Einrichtungen zur Wort\- und Bildübertragung durchgeführt werden, es sei denn, das persönliche Erscheinen vor der Behörde ist unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder aus besonderen Gründen erforderlich\.
+> Nach Maßgabe der technischen Möglichkeiten kann eine Vernehmung unter Verwendung technischer Einrichtungen zur Wort\- und Bildübertragung durchgeführt werden, es sei denn, das persönliche Erscheinen vor der Behörde ist unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder aus besonderen Gründen erforderlich\.
 
 ### § 52 AVG — Sachverständige
 
@@ -684,11 +684,11 @@ Nach Maßgabe der technischen Möglichkeiten kann eine Vernehmung unter Verwendu
 
 ### § 53b AVG — Gebühren der nichtamtlichen Dolmetscher
 
-Nichtamtliche Dolmetscher haben für ihre Tätigkeit im Verfahren Anspruch auf Gebühren, die durch Verordnung der Bundesregierung in Pauschalbeträgen \(nach Tarifen\) festzusetzen sind\. Soweit keine solchen Pauschalbeträge \(Tarife\) festgesetzt sind, sind auf den Umfang der Gebühr die §§ 24 bis 34, 36 und 37 Abs\. 2 des Gebührenanspruchsgesetzes – GebAG, BGBl\. Nr\. 136/1975, mit den in § 53 Abs\. 1 GebAG genannten Besonderheiten und § 54 GebAG sinngemäß anzuwenden\. Unter nichtamtlichen Dolmetschern im Sinne dieses Bundesgesetzes sind auch die nichtamtlichen Übersetzer zu verstehen\. § 53a Abs\. 1 letzter Satz und Abs\. 2 und 3 ist sinngemäß anzuwenden\.
+> Nichtamtliche Dolmetscher haben für ihre Tätigkeit im Verfahren Anspruch auf Gebühren, die durch Verordnung der Bundesregierung in Pauschalbeträgen \(nach Tarifen\) festzusetzen sind\. Soweit keine solchen Pauschalbeträge \(Tarife\) festgesetzt sind, sind auf den Umfang der Gebühr die §§ 24 bis 34, 36 und 37 Abs\. 2 des Gebührenanspruchsgesetzes – GebAG, BGBl\. Nr\. 136/1975, mit den in § 53 Abs\. 1 GebAG genannten Besonderheiten und § 54 GebAG sinngemäß anzuwenden\. Unter nichtamtlichen Dolmetschern im Sinne dieses Bundesgesetzes sind auch die nichtamtlichen Übersetzer zu verstehen\. § 53a Abs\. 1 letzter Satz und Abs\. 2 und 3 ist sinngemäß anzuwenden\.
 
 ### § 54 AVG — Augenschein
 
-Zur Aufklärung der Sache kann die Behörde auf Antrag oder von Amts wegen auch einen Augenschein, nötigenfalls mit Zuziehung von Sachverständigen, vornehmen\.
+> Zur Aufklärung der Sache kann die Behörde auf Antrag oder von Amts wegen auch einen Augenschein, nötigenfalls mit Zuziehung von Sachverständigen, vornehmen\.
 
 ### § 55 AVG — Mittelbare Beweisaufnahmen und Erhebungen
 
@@ -698,13 +698,13 @@ Zur Aufklärung der Sache kann die Behörde auf Antrag oder von Amts wegen auch 
 
 ### § 55a AVG — Amtshilfe
 
-Soweit dies für die Durchführung des Ermittlungsverfahrens erforderlich und nicht unverhältnismäßig ist, kann die Behörde die Kriminalpolizei, die Staatsanwaltschaften und die Gerichte um die Übermittlung von nach der Strafprozessordnung 1975 – StPO, BGBl\. Nr\. 631/1975, ermittelten personenbezogenen Daten ersuchen und die ihr übermittelten personenbezogenen Daten verarbeiten\. Ein solches Ersuchen hat alle erforderlichen Angaben, einschließlich des Zwecks der Datenverarbeitung, zu enthalten und ist zu begründen\. Dem Ersuchen ist ehestmöglich zu entsprechen oder es sind entgegenstehende Hindernisse unverzüglich bekannt zu geben\.
+> Soweit dies für die Durchführung des Ermittlungsverfahrens erforderlich und nicht unverhältnismäßig ist, kann die Behörde die Kriminalpolizei, die Staatsanwaltschaften und die Gerichte um die Übermittlung von nach der Strafprozessordnung 1975 – StPO, BGBl\. Nr\. 631/1975, ermittelten personenbezogenen Daten ersuchen und die ihr übermittelten personenbezogenen Daten verarbeiten\. Ein solches Ersuchen hat alle erforderlichen Angaben, einschließlich des Zwecks der Datenverarbeitung, zu enthalten und ist zu begründen\. Dem Ersuchen ist ehestmöglich zu entsprechen oder es sind entgegenstehende Hindernisse unverzüglich bekannt zu geben\.
 
 ## III. Teil: Bescheide
 
 ### § 56 AVG — Erlassung von Bescheiden
 
-Der Erlassung eines Bescheides hat, wenn es sich nicht um eine Ladung \(§ 19\) oder einen Bescheid nach § 57 handelt, die Feststellung des maßgebenden Sachverhaltes, soweit er nicht von vornherein klar gegeben ist, nach den §§ 37 und 39 voranzugehen\.
+> Der Erlassung eines Bescheides hat, wenn es sich nicht um eine Ladung \(§ 19\) oder einen Bescheid nach § 57 handelt, die Feststellung des maßgebenden Sachverhaltes, soweit er nicht von vornherein klar gegeben ist, nach den §§ 37 und 39 voranzugehen\.
 
 ### § 57 AVG
 
@@ -724,7 +724,7 @@ Der Erlassung eines Bescheides hat, wenn es sich nicht um eine Ladung \(§ 19\)
 
 ### § 58a AVG
 
-In verbundenen Verfahren \(§ 39 Abs\. 2b\) hat die Behörde über die nach den Verwaltungsvorschriften erforderlichen Bewilligungen oder Genehmigungen in einem Bescheid zu entscheiden\. Der Spruch des Bescheides ist nach den jeweils angewendeten Verwaltungsvorschriften in Spruchpunkte zu gliedern\. Die Behörde kann über einzelne oder mehrere Bewilligungen oder Genehmigungen gesondert absprechen, wenn dies zweckmäßig erscheint\.
+> In verbundenen Verfahren \(§ 39 Abs\. 2b\) hat die Behörde über die nach den Verwaltungsvorschriften erforderlichen Bewilligungen oder Genehmigungen in einem Bescheid zu entscheiden\. Der Spruch des Bescheides ist nach den jeweils angewendeten Verwaltungsvorschriften in Spruchpunkte zu gliedern\. Die Behörde kann über einzelne oder mehrere Bewilligungen oder Genehmigungen gesondert absprechen, wenn dies zweckmäßig erscheint\.
 
 ### § 59 AVG
 
@@ -734,7 +734,7 @@ In verbundenen Verfahren \(§ 39 Abs\. 2b\) hat die Behörde über die nach de
 
 ### § 60 AVG
 
-In der Begründung sind die Ergebnisse des Ermittlungsverfahrens, die bei der Beweiswürdigung maßgebenden Erwägungen und die darauf gestützte Beurteilung der Rechtsfrage klar und übersichtlich zusammenzufassen\.
+> In der Begründung sind die Ergebnisse des Ermittlungsverfahrens, die bei der Beweiswürdigung maßgebenden Erwägungen und die darauf gestützte Beurteilung der Rechtsfrage klar und übersichtlich zusammenzufassen\.
 
 ### § 61 AVG
 
@@ -789,7 +789,7 @@ In der Begründung sind die Ergebnisse des Ermittlungsverfahrens, die bei der Be
 
 ### § 65 AVG
 
-Werden in einer Berufung neue Tatsachen oder Beweise, die der Behörde erheblich scheinen, vorgebracht, so hat sie hievon unverzüglich den etwaigen Berufungsgegnern Mitteilung zu machen und ihnen Gelegenheit zu geben, binnen angemessener, zwei Wochen nicht übersteigender Frist vom Inhalt der Berufung Kenntnis zu nehmen und sich dazu zu äußern\.
+> Werden in einer Berufung neue Tatsachen oder Beweise, die der Behörde erheblich scheinen, vorgebracht, so hat sie hievon unverzüglich den etwaigen Berufungsgegnern Mitteilung zu machen und ihnen Gelegenheit zu geben, binnen angemessener, zwei Wochen nicht übersteigender Frist vom Inhalt der Berufung Kenntnis zu nehmen und sich dazu zu äußern\.
 
 ### § 66 AVG
 
@@ -803,7 +803,7 @@ Werden in einer Berufung neue Tatsachen oder Beweise, die der Behörde erheblich
 
 ### § 67 AVG
 
-Der III\. Teil gilt auch für die Bescheide der Berufungsbehörde, doch ist der Spruch auch dann zu begründen, wenn dem Berufungsantrag stattgegeben wird\.
+> Der III\. Teil gilt auch für die Bescheide der Berufungsbehörde, doch ist der Spruch auch dann zu begründen, wenn dem Berufungsantrag stattgegeben wird\.
 
 ## 2. Abschnitt: Sonstige Abänderung von Bescheiden
 
@@ -816,13 +816,13 @@ Der III\. Teil gilt auch für die Bescheide der Berufungsbehörde, doch ist der 
 > `(3)` Andere Bescheide kann die Behörde, die den Bescheid in letzter Instanz erlassen hat, oder die sachlich in Betracht kommende Oberbehörde im öffentlichen Interesse insoweit abändern, als dies zur Beseitigung von das Leben oder die Gesundheit von Menschen gefährdenden Mißständen oder zur Abwehr schwerer volkswirtschaftlicher Schädigungen notwendig und unvermeidlich ist\. In allen Fällen hat die Behörde mit möglichster Schonung erworbener Rechte vorzugehen\.
 
 > `(4)` Außerdem können Bescheide von Amts wegen in Ausübung des Aufsichtsrechtes von der sachlich in Betracht kommenden Oberbehörde als nichtig erklärt werden, wenn der Bescheid
-> 
+>
 >> `1.` von einer unzuständigen Behörde oder von einer nicht richtig zusammengesetzten Kollegialbehörde erlassen wurde,
-> 
+>
 >> `2.` einen strafgesetzwidrigen Erfolg herbeiführen würde,
-> 
+>
 >> `3.` tatsächlich undurchführbar ist oder
-> 
+>
 >> `4.` an einem durch gesetzliche Vorschrift ausdrücklich mit Nichtigkeit bedrohten Fehler leidet\.
 
 > `(5)` Nach Ablauf von drei Jahren nach dem in § 63 Abs\. 5 bezeichneten Zeitpunkt ist eine Nichtigerklärung aus den Gründen des Abs\. 4 Z 1 nicht mehr zulässig\.
@@ -834,13 +834,13 @@ Der III\. Teil gilt auch für die Bescheide der Berufungsbehörde, doch ist der 
 ### § 69 AVG — Wiederaufnahme des Verfahrens
 
 > `(1)` Dem Antrag einer Partei auf Wiederaufnahme eines durch Bescheid abgeschlossenen Verfahrens ist stattzugeben, wenn ein Rechtsmittel gegen den Bescheid nicht oder nicht mehr zulässig ist und:
-> 
+>
 >> `1.` der Bescheid durch Fälschung einer Urkunde, falsches Zeugnis oder eine andere gerichtlich strafbare Handlung herbeigeführt oder sonstwie erschlichen worden ist oder
-> 
+>
 >> `2.` neue Tatsachen oder Beweismittel hervorkommen, die im Verfahren ohne Verschulden der Partei nicht geltend gemacht werden konnten und allein oder in Verbindung mit dem sonstigen Ergebnis des Verfahrens voraussichtlich einen im Hauptinhalt des Spruches anders lautenden Bescheid herbeigeführt hätten, oder
-> 
+>
 >> `3.` der Bescheid gemäß § 38 von Vorfragen abhängig war und nachträglich über eine solche Vorfrage von der zuständigen Verwaltungsbehörde bzw\. vom zuständigen Gericht in wesentlichen Punkten anders entschieden wurde;
-> 
+>
 >> `4.` nachträglich ein Bescheid oder eine gerichtliche Entscheidung bekannt wird, der bzw\. die einer Aufhebung oder Abänderung auf Antrag einer Partei nicht unterliegt und die im Verfahren die Einwendung der entschiedenen Sache begründet hätte\.
 
 > `(2)` Der Antrag auf Wiederaufnahme ist binnen zwei Wochen bei der Behörde einzubringen, die den Bescheid in erster Instanz erlassen hat\. Die Frist beginnt mit dem Zeitpunkt, in dem der Antragsteller von dem Wiederaufnahmegrund Kenntnis erlangt hat, wenn dies jedoch nach der Verkündung des mündlichen Bescheides und vor Zustellung der schriftlichen Ausfertigung geschehen ist, erst mit diesem Zeitpunkt\. Nach Ablauf von drei Jahren nach Erlassung des Bescheides kann der Antrag auf Wiederaufnahme nicht mehr gestellt werden\. Die Umstände, aus welchen sich die Einhaltung der gesetzlichen Frist ergibt, sind vom Antragsteller glaubhaft zu machen\.
@@ -859,9 +859,9 @@ Der III\. Teil gilt auch für die Bescheide der Berufungsbehörde, doch ist der 
 ### § 71 AVG — Wiedereinsetzung in den vorigen Stand
 
 > `(1)` Gegen die Versäumung einer Frist oder einer mündlichen Verhandlung ist auf Antrag der Partei, die durch die Versäumung einen Rechtsnachteil erleidet, die Wiedereinsetzung in den vorigen Stand zu bewilligen, wenn:
-> 
+>
 >> `1.` die Partei glaubhaft macht, daß sie durch ein unvorhergesehenes oder unabwendbares Ereignis verhindert war, die Frist einzuhalten oder an der ganzen Verhandlung teilzunehmen und sie kein Verschulden oder nur ein minderer Grad des Versehens trifft, oder
-> 
+>
 >> `2.` die Partei die Rechtsmittelfrist versäumt hat, weil der Bescheid keine Rechtsmittelbelehrung, keine Rechtsmittelfrist oder fälschlich die Angabe enthält, daß kein Rechtsmittel zulässig sei\.
 
 > `(2)` Der Antrag auf Wiedereinsetzung muß binnen zwei Wochen nach dem Wegfall des Hindernisses oder nach dem Zeitpunkt, in dem die Partei von der Zulässigkeit des Rechtsmittels Kenntnis erlangt hat, gestellt werden\.
@@ -951,7 +951,7 @@ Der III\. Teil gilt auch für die Bescheide der Berufungsbehörde, doch ist der 
 
 ### § 78a AVG
 
-Von den Bundesverwaltungsabgaben befreit sind
+> Von den Bundesverwaltungsabgaben befreit sind
 
 > `1.` die Erteilung von Rechtsbelehrungen und die Erstellung von Kopien oder Ausdrucken von Akten oder Aktenteilen,
 
@@ -961,21 +961,21 @@ Von den Bundesverwaltungsabgaben befreit sind
 
 ### § 79 AVG
 
-Die in den §§ 76 bis 78 vorgesehenen Leistungen sind nur insoweit einzuheben, als dadurch der notwendige Unterhalt des Beteiligten und der Personen, für die er nach dem Gesetz zu sorgen hat, nicht gefährdet wird\.
+> Die in den §§ 76 bis 78 vorgesehenen Leistungen sind nur insoweit einzuheben, als dadurch der notwendige Unterhalt des Beteiligten und der Personen, für die er nach dem Gesetz zu sorgen hat, nicht gefährdet wird\.
 
 ## VI. Teil: Schlußbestimmungen
 
 ### § 80 AVG — Verweisungen
 
-Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden\.
+> Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden\.
 
 ### § 80a AVG — Sprachliche Gleichbehandlung
 
-Soweit sich die in diesem Bundesgesetz verwendeten Bezeichnungen auf natürliche Personen beziehen, gilt die gewählte Form für beide Geschlechter\. Bei der Anwendung dieser Bezeichnungen auf bestimmte natürliche Personen ist die jeweils geschlechtsspezifische Form zu verwenden\.
+> Soweit sich die in diesem Bundesgesetz verwendeten Bezeichnungen auf natürliche Personen beziehen, gilt die gewählte Form für beide Geschlechter\. Bei der Anwendung dieser Bezeichnungen auf bestimmte natürliche Personen ist die jeweils geschlechtsspezifische Form zu verwenden\.
 
 ### § 81 AVG — Vollziehung
 
-Mit der Vollziehung dieses Bundesgesetzes ist die Bundesregierung betraut\.
+> Mit der Vollziehung dieses Bundesgesetzes ist die Bundesregierung betraut\.
 
 ### § 82 AVG — Inkrafttreten
 
@@ -999,11 +999,11 @@ Mit der Vollziehung dieses Bundesgesetzes ist die Bundesregierung betraut\.
 > `(10)` § 13 Abs\. 5, § 16 Abs\. 2 letzter Satz, § 18 Abs\. 3 letzter Satz, § 34 Abs\. 2, § 35, § 51b Z 1 letzter Satz und Z 2 zweiter Satz, § 53a Abs\. 2 erster und letzter Satz, § 67d, § 76 Abs\. 4 und § 79a Abs\. 4 Z 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 137/2001 treten mit 1\. Jänner 2002 in Kraft\.
 
 > `(11)` Für den Übergang zu der durch das Verwaltungsreformgesetz 2001, BGBl\. I Nr\. 65/2002, geschaffenen Rechtslage gilt:
-> 
+>
 >> `1.` § 13 Abs\. 4a und 9, § 14 Abs\. 8, § 17 Abs\. 1 letzter Satz, § 39 Abs\. 2a, § 40 Abs\. 1 letzter Satz, § 58a, § 67a Abs\. 1, § 73 Abs\. 1 letzter Satz in der Fassung des Verwaltungsreformgesetzes 2001 treten mit 1\. Jänner 2002, jedoch nicht vor dem der Kundmachung des genannten Bundesgesetzes folgenden Tag, in Kraft\. Die §§ 39 Abs\. 2a, 40 Abs\. 1 letzter Satz, 58a und 73 Abs\. 1 letzter Satz in der Fassung des Verwaltungsreformgesetzes 2001 sind auf Verfahren, die zum In\-Kraft\-Tretens\-Zeitpunkt anhängig sind, nicht anzuwenden\.
-> 
+>
 >> `2.` § 67h in der Fassung des Verwaltungsreformgesetzes 2001 tritt mit 1\. Juli 2002, jedoch nicht vor dem vierten der Kundmachung des genannten Gesetzes folgenden Monatsersten, in Kraft\. Er ist auf Verfahren, die zum In\-Kraft\-Tretens\-Zeitpunkt anhängig sind, nicht anzuwenden\.
-> 
+>
 >> `3.` § 36 Abs\. 2 in der Fassung des Verwaltungsreformgesetzes 2001 tritt mit dem der Kundmachung des genannten Bundesgesetzes folgenden Monatsersten, spätestens jedoch mit 1\. November 2002 in Kraft\.
 
 > `(12)` § 78 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 117/2002 tritt mit 1\. Jänner 2003 in Kraft\. § 67a Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 117/2002 tritt mit 1\. Jänner 2003 in Kraft, ist jedoch auf in diesem Zeitpunkt beim unabhängigen Verwaltungssenat im Land anhängige Verfahren nicht anzuwenden\.
@@ -1011,19 +1011,19 @@ Mit der Vollziehung dieses Bundesgesetzes ist die Bundesregierung betraut\.
 > `(13)` § 13 Abs\. 1, 4 und 5, § 14 Abs\. 2 Z 3 und Abs\. 5 erster Satz, § 16 Abs\. 1 und 2, § 17 Abs\. 1 letzter Satz, § 18 samt Überschrift, § 33 Abs\. 3 sowie § 42 Abs\. 1 erster Satz, in der Fassung des Bundesgesetzes BGBl\. I Nr\. 10/2004, treten mit 1\. März 2004 in Kraft\. Zugleich treten § 13 Abs\. 9 sowie § 14 Abs\. 8, in der zu diesem Zeitpunkt geltenden Fassung, außer Kraft; § 13 Abs\. 4a tritt mit Ablauf des 30\. Juni 2004 außer Kraft\.
 
 > `(13a)` In der Fassung des Bundesgesetzes BGBl\. I Nr\. 4/2008 treten in Kraft:
-> 
+>
 >> `1.` § 36 mit Ablauf des Tages der Kundmachung dieses Bundesgesetzes;
-> 
+>
 >> `2.` § 67a, § 67c Abs\. 1 und § 67h Abs\. 1 mit 1\. Juli 2008\.
 
 > `(14)` § 2, § 7 Abs\. 1, § 10 Abs\. 1, § 11, § 13 Abs\. 1 bis 6, § 14 Abs\. 2 Z 2, Abs\. 3 erster Satz, Abs\. 5 und Abs\. 7 erster und zweiter Satz, § 16 samt Überschrift, § 17 Abs\. 1, § 18 samt Überschrift, § 19 Abs\. 3, § 33 Abs\. 3, der 7\. Abschnitt des I\. Teiles, § 39a Abs\. 1 erster Satz, § 42 Abs\. 1 erster Satz, § 44b Abs\. 2, § 44e Abs\. 3 dritter Satz, § 48 Z 3, § 49 Abs\. 1, § 67h Abs\. 2, § 74 Abs\. 2, § 77 Abs\. 2 und 3, § 78 Abs\. 3 und 5, § 78a, § 80a samt Überschrift und § 82a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 5/2008 treten mit 1\. Jänner 2008 in Kraft\.
 
 > `(15)` Mit Ablauf des 31\. Dezember 2007 treten außer Kraft:
-> 
+>
 >> `1.` § 14 Abs\. 2 Z 3;
-> 
+>
 >> `2.` das AVG\-Übergangsrecht 1991, Anlage 2 zur Kundmachung BGBl\. Nr\. 51/1991;
-> 
+>
 >> `3.` § 2 Abs\. 3 der Bundesverwaltungsabgabenverordnung 1983, BGBl\. Nr\. 24\.
 
 > `(16)` § 13 Abs\. 5 letzter Satz tritt mit Ablauf des 31\. Dezember 2010 außer Kraft\.
@@ -1035,9 +1035,9 @@ Mit der Vollziehung dieses Bundesgesetzes ist die Bundesregierung betraut\.
 > `(19)` § 3 Z 2, § 10 Abs\. 4, § 13 Abs\. 5, § 38a Abs\. 1, § 41 Abs\. 1, § 61a Z 3 und 4, § 81 samt Überschrift und § 82 Abs\. 6 erster Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 100/2011 treten mit 1\. Jänner 2012 in Kraft\.
 
 > `(20)` In der Fassung des Bundesgesetzes BGBl\. I Nr\. 33/2013 treten in Kraft:
-> 
+>
 >> `1.` § 33 Abs\. 1 und 2, § 38 zweiter Satz, § 41 Abs\. 1 zweiter Satz, § 42 Abs\. 1a und § 69 Abs\. 1 Z 3 in der Fassung der Z 28 mit Ablauf des Monats der Kundmachung dieses Bundesgesetzes; gleichzeitig treten § 42 Abs\. 1 letzter Satz, § 44a Abs\. 3 dritter Satz und § 82a außer Kraft;
-> 
+>
 >> `2.` § 2, § 17 Abs\. 4, § 19 Abs\. 4, § 44e Abs\. 2, § 53 Abs\. 2, § 53a Abs\. 2 erster Satz und Abs\. 3, § 53b letzter Satz, § 61 Abs\. 1 und 4, § 63 Abs\. 1 und 2, § 64, die Abschnittsbezeichnung „2\. Abschnitt:“, § 68 Abs\. 2 und 3, § 69 Abs\. 1 Z 3 und 4 in der Fassung der Z 29, § 69 Abs\. 4, die Abschnittsbezeichnung „3\. Abschnitt:“, § 73 Abs\. 2 und 3 und § 78 Abs\. 4 mit 1\. Jänner 2014; gleichzeitig treten § 19 Abs\. 1 zweiter Satz, die §§ 51a bis 51d samt Überschrift, § 53a Abs\. 4, § 61a, der 2\. Abschnitt des IV\. Teiles samt Überschrift, § 70 Abs\. 3, § 71 Abs\. 6 zweiter Satz, § 72 Abs\. 4, § 76a und § 79a samt Überschrift außer Kraft\.
 
 > `(21)` § 53a Abs\. 1 und § 53b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 161/2013 treten mit Ablauf des Monats der Kundmachung dieses Bundesgesetzes in Kraft\.

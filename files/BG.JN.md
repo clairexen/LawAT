@@ -234,7 +234,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ### § 1 JN — 
 
-Die Gerichtsbarkeit in bürgerlichen Rechtssachen wird, soweit dieselben nicht durch besondere Gesetze vor andere Behörden oder Organe verwiesen sind, durch Bezirksgerichte, Bezirksgerichte für Handelssachen, Landesgerichte, Handelsgerichte, durch Oberlandesgerichte und durch den Obersten Gerichtshof \(ordentliche Gerichte\) ausgeübt\.
+> Die Gerichtsbarkeit in bürgerlichen Rechtssachen wird, soweit dieselben nicht durch besondere Gesetze vor andere Behörden oder Organe verwiesen sind, durch Bezirksgerichte, Bezirksgerichte für Handelssachen, Landesgerichte, Handelsgerichte, durch Oberlandesgerichte und durch den Obersten Gerichtshof \(ordentliche Gerichte\) ausgeübt\.
 
 ## Instanzenverhältnis der Gerichte.
 
@@ -252,7 +252,7 @@ Die Gerichtsbarkeit in bürgerlichen Rechtssachen wird, soweit dieselben nicht d
 
 ### § 4 JN — 
 
-Gegen die in erster Instanz von den Landesgerichten, sowie von den Handelsgerichten gefällten Urtheile und Beschlüsse geht der Rechtsgang in zweiter Instanz \(Berufung, Recurs\) an die Oberlandesgerichte, und in dritter Instanz \(Revision, Recurs\) an den Obersten Gerichtshof\.
+> Gegen die in erster Instanz von den Landesgerichten, sowie von den Handelsgerichten gefällten Urtheile und Beschlüsse geht der Rechtsgang in zweiter Instanz \(Berufung, Recurs\) an die Oberlandesgerichte, und in dritter Instanz \(Revision, Recurs\) an den Obersten Gerichtshof\.
 
 ## Ausübung der Gerichtsbarkeit bei den ordentlichen Gerichten
 
@@ -289,7 +289,7 @@ Gegen die in erster Instanz von den Landesgerichten, sowie von den Handelsgerich
 
 ### § 8a JN
 
-Bei den Landes\- und Handelsgerichten sowie den Oberlandesgerichten entscheidet über Rechtsmittel gegen Entscheidungen über die Gebühren der Sachverständigen und Dolmetscher der Einzelrichter\.
+> Bei den Landes\- und Handelsgerichten sowie den Oberlandesgerichten entscheidet über Rechtsmittel gegen Entscheidungen über die Gebühren der Sachverständigen und Dolmetscher der Einzelrichter\.
 
 ## Berathung und Abstimmung.
 
@@ -321,11 +321,11 @@ Bei den Landes\- und Handelsgerichten sowie den Oberlandesgerichten entscheidet 
 
 ### § 13 JN — 
 
-Über Meinungsverschiedenheiten, welche über die Richtigkeit des vom Vorsitzenden bekanntgegebenen Ergebnisses einer Abstimmung entstehen, entscheidet der Senat\.
+> Über Meinungsverschiedenheiten, welche über die Richtigkeit des vom Vorsitzenden bekanntgegebenen Ergebnisses einer Abstimmung entstehen, entscheidet der Senat\.
 
 ### § 14 JN — 
 
-Die Aufzeichnungen über die Berathung und Abstimmung des Gerichtes sind in ein besonderes Protokoll aufzunehmen\. Dessen Führung wird durch die über die innere Einrichtung und Geschäftsordnung der Gerichte erlassenen Vorschriften geregelt\.
+> Die Aufzeichnungen über die Berathung und Abstimmung des Gerichtes sind in ein besonderes Protokoll aufzunehmen\. Dessen Führung wird durch die über die innere Einrichtung und Geschäftsordnung der Gerichte erlassenen Vorschriften geregelt\.
 
 ### § 15 JN — Fachkundige Laienrichter in Handelssachen
 
@@ -356,23 +356,23 @@ Die Aufzeichnungen über die Berathung und Abstimmung des Gerichtes sind in ein 
 ### § 17 JN
 
 > `(1)` Das Amt als fachkundiger Laienrichter in Handelssachen endet
-> 
+>
 >> `1.` mit Ablauf der Amtszeit \(§ 15 Abs\. 3\),
-> 
+>
 >> `2.` durch Amtsenthebung oder
-> 
+>
 >> `3.` durch Tod\.
 
 > `(2)` Ein fachkundiger Laienrichter ist seines Amtes zu entheben, wenn er
-> 
+>
 >> `1.` eine der gesetzlichen Bestellungsvoraussetzungen verliert, 
-> 
+>
 >> `2.` auf Grund seiner gesundheitlichen Verfassung seine richterlichen Aufgaben nicht mehr erfüllen kann,
-> 
+>
 >> `3.` ohne genügende Entschuldigung die Pflichten seines Amtes wiederholt vernachlässigt,
-> 
+>
 >> `4.` ein Verhalten setzt, das dem Ansehen des Amtes eines fachkundigen Laienrichters zuwiderläuft oder
-> 
+>
 >> `5.` selbst um seine Amtsenthebung ersucht\.
 
 > `(3)` Der Verlust der Unternehmereigenschaft, die Löschung der Firma, das Ausscheiden aus dem Unternehmen, in welchem der Laienrichter zur Zeit seiner Bestellung beschäftigt war, sowie das Überschreiten der in § 16 Abs\. 1 Z 1 festgelegten Altersgrenze ziehen einen Verlust des Amtes nicht nach sich\.
@@ -401,7 +401,7 @@ Die Aufzeichnungen über die Berathung und Abstimmung des Gerichtes sind in ein 
 
 ### § 19 JN — 
 
-Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:
+> Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:
 
 > `1.` weil er im gegebenen Falle nach dem Gesetze von der Ausübung richterlicher Geschäfte ausgeschlossen ist;
 
@@ -410,15 +410,15 @@ Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:
 ### § 20 JN — 
 
 > `(1)` Richter sind von der Ausübung des Richteramtes in bürgerlichen Rechtssachen ausgeschlossen:
-> 
+>
 >> `1.` in Sachen, in welchen sie selbst Partei sind, oder in Ansehung deren sie zu einer der Parteien in dem Verhältnisse eines Mitberechtigten, Mitverpflichteten oder Regresspflichtigen stehen;
-> 
+>
 >> `2.` in Sachen ihrer Ehegatten, ihrer eingetragenen Partner oder solcher Personen, welche mit ihnen in gerader Linie verwandt oder verschwägert sind, oder mit welchen sie in der Seitenlinie bis zum vierten Grade verwandt oder im zweiten Grade verschwägert sind sowie in Sachen ihrer Lebensgefährten oder solcher Personen, die mit diesen in gerader Linie oder in der Seitenlinie bis zum zweiten Grad verwandt sind;
-> 
+>
 >> `3.` in Sachen ihrer Wahl\- oder Pflegeeltern, Wahl\- oder Pflegekinder und in Sachen der von ihnen vertretenen schutzberechtigten Personen;
-> 
+>
 >> `4.` in Sachen, in welchen sie als Bevollmächtigte einer der Parteien bestellt waren oder noch bestellt sind;
-> 
+>
 >> `5.` in Sachen, in welchen sie bei einem untergeordneten Gerichte an der Erlassung des angefochtenen Urtheiles oder Beschlusses theilgenommen haben\.
 
 > `(2)` Der Richter ist in den unter Abs\. 1 Z 2 und 3 angegebenen Fällen mit Rücksicht auf die dort bezeichneten Personen auch dann ausgeschlossen, wenn das Naheverhältnis zu diesen Personen nicht mehr besteht\.
@@ -441,7 +441,7 @@ Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:
 
 ### § 23 JN — 
 
-Über die Ablehnung entscheidet, falls der abgelehnte Richter einem Bezirksgerichte angehört, der Vorsteher des Bezirksgerichtes und, wenn dieser selbst, allein oder mit andern Richtern des Bezirksgerichtes, abgelehnt wird, das vorgesetzte Landes\- oder Handelsgericht, falls der abgelehnte Richter einem Gerichtshofe angehört, dieser Gerichtshof und, wenn dieser durch das Ausscheiden des abgelehnten Richters beschlußunfähig werden sollte, der zunächst übergeordnete Gerichtshof\.
+> Über die Ablehnung entscheidet, falls der abgelehnte Richter einem Bezirksgerichte angehört, der Vorsteher des Bezirksgerichtes und, wenn dieser selbst, allein oder mit andern Richtern des Bezirksgerichtes, abgelehnt wird, das vorgesetzte Landes\- oder Handelsgericht, falls der abgelehnte Richter einem Gerichtshofe angehört, dieser Gerichtshof und, wenn dieser durch das Ausscheiden des abgelehnten Richters beschlußunfähig werden sollte, der zunächst übergeordnete Gerichtshof\.
 
 ### § 24 JN — 
 
@@ -451,7 +451,7 @@ Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:
 
 ### § 25 JN — 
 
-Ein abgelehnter Richter hat bis zur rechtskräftigen Erledigung des Ablehnungsantrages alle Handlungen vorzunehmen, die keinen Aufschub gestatten; er hat ferner, wenn die Ablehnung offenbar unbegründet ist und die Absicht vermuten läßt, den Prozeß zu verschleppen, auch eine begonnene Verhandlung fortzusetzen, darf jedoch die Endentscheidung vor rechtskräftiger Zurückweisung der Ablehnung nicht fällen \(§ 415 Z P\. O\.\)\. Wird der Ablehnung stattgegeben, so sind die vom abgelehnten Richter vorgenommenen Prozeßhandlungen nichtig und, soweit erforderlich, aufzuheben\.
+> Ein abgelehnter Richter hat bis zur rechtskräftigen Erledigung des Ablehnungsantrages alle Handlungen vorzunehmen, die keinen Aufschub gestatten; er hat ferner, wenn die Ablehnung offenbar unbegründet ist und die Absicht vermuten läßt, den Prozeß zu verschleppen, auch eine begonnene Verhandlung fortzusetzen, darf jedoch die Endentscheidung vor rechtskräftiger Zurückweisung der Ablehnung nicht fällen \(§ 415 Z P\. O\.\)\. Wird der Ablehnung stattgegeben, so sind die vom abgelehnten Richter vorgenommenen Prozeßhandlungen nichtig und, soweit erforderlich, aufzuheben\.
 
 ## Ablehnung anderer gerichtlicher Organe.
 
@@ -480,11 +480,11 @@ Ein abgelehnter Richter hat bis zur rechtskräftigen Erledigung des Ablehnungsan
 ### § 28 JN — Bestimmung der Zuständigkeit durch den Obersten Gerichtshof
 
 > `(1)` Sind für eine bürgerliche Rechtssache die Voraussetzungen für die örtliche Zuständigkeit eines inländischen Gerichts im Sinne dieses Gesetzes oder einer anderen Rechtsvorschrift nicht gegeben oder nicht zu ermitteln, so hat der Oberste Gerichtshof aus den sachlich zuständigen Gerichten eines zu bestimmen, welches für die fragliche Rechtssache als örtlich zuständig zu gelten hat, wenn
-> 
+>
 >> `1.` Österreich auf Grund eines völkerrechtlichen Vertrages zur Ausübung von Gerichtsbarkeit verpflichtet ist;
-> 
+>
 >> `2.` der Kläger österreichischer Staatsbürger ist oder seinen Wohnsitz, gewöhnlichen Aufenthalt oder Sitz im Inland hat und im Einzelfall die Rechtsverfolgung im Ausland nicht möglich oder unzumutbar wäre;
-> 
+>
 >> `3.` die inländische Gerichtsbarkeit, nicht aber ein örtlich zuständiges Gericht vereinbart worden ist\.
 
 > `(2)` Die Bestimmung eines zuständigen Gerichts hat nach Abs\. 1 ohne Bedachtnahme darauf zu erfolgen, ob außer den Voraussetzungen des Abs\. 1 Z 2 oder 3 eine weitere erfüllt ist\.
@@ -497,13 +497,13 @@ Ein abgelehnter Richter hat bis zur rechtskräftigen Erledigung des Ablehnungsan
 
 ### § 29 JN — 
 
-Jedes Gericht bleibt in Rechtssachen, welche rechtmäßigerweise bei demselben anhängig gemacht wurden, bis zu deren Beendigung zuständig, wenn sich auch die Umstände, welche bei Einleitung des Verfahrens für die Bestimmung der Zuständigkeit maßgebend waren, während des Verfahrens geändert hätten\. Dies gilt jedoch nicht von solchen Änderungen, auf Grund derer Personen Immunität genießen oder die Rechtssache dem Wirkungskreis der ordentlichen Gerichte entzogen ist\.
+> Jedes Gericht bleibt in Rechtssachen, welche rechtmäßigerweise bei demselben anhängig gemacht wurden, bis zu deren Beendigung zuständig, wenn sich auch die Umstände, welche bei Einleitung des Verfahrens für die Bestimmung der Zuständigkeit maßgebend waren, während des Verfahrens geändert hätten\. Dies gilt jedoch nicht von solchen Änderungen, auf Grund derer Personen Immunität genießen oder die Rechtssache dem Wirkungskreis der ordentlichen Gerichte entzogen ist\.
 
 ## Delegation.
 
 ### § 30 JN — 
 
-Ist ein Gericht aus einem der im §\. 19 vorgesehenen Gründe an der Ausübung der Gerichtsbarkeit gehindert, so hat dasselbe diese Behinderung dem im Instanzenzuge übergeordneten Gerichte anzuzeigen\. Dieses hat sodann ein anderes Gericht gleicher Gattung zur Verhandlung und Entscheidung der Rechtssache zu bestimmen\.
+> Ist ein Gericht aus einem der im §\. 19 vorgesehenen Gründe an der Ausübung der Gerichtsbarkeit gehindert, so hat dasselbe diese Behinderung dem im Instanzenzuge übergeordneten Gerichte anzuzeigen\. Dieses hat sodann ein anderes Gericht gleicher Gattung zur Verhandlung und Entscheidung der Rechtssache zu bestimmen\.
 
 ### § 31 JN — 
 
@@ -533,7 +533,7 @@ Ist ein Gericht aus einem der im §\. 19 vorgesehenen Gründe an der Ausübung d
 
 ### § 33 JN
 
-Ein Gericht darf zur Vornahme der Amtshandlung die Grenzen seines Sprengels überschreiten, wenn Gefahr im Verzug ist, wenn eine Amtshandlung an der Grenze des Gerichtssprengels stattfinden soll oder wenn dies zur Sicherung der Unmittelbarkeit der Beweisaufnahme unter Bedachtnahme auf die Raschheit und die Sparsamkeit der Verfahrensführung geboten ist\. Das Gericht, in dessen Sprengel eine solche Amtshandlung vollzogen wird, ist hievon zu verständigen\.
+> Ein Gericht darf zur Vornahme der Amtshandlung die Grenzen seines Sprengels überschreiten, wenn Gefahr im Verzug ist, wenn eine Amtshandlung an der Grenze des Gerichtssprengels stattfinden soll oder wenn dies zur Sicherung der Unmittelbarkeit der Beweisaufnahme unter Bedachtnahme auf die Raschheit und die Sparsamkeit der Verfahrensführung geboten ist\. Das Gericht, in dessen Sprengel eine solche Amtshandlung vollzogen wird, ist hievon zu verständigen\.
 
 ## Übertragung einzelner Geschäfte an den Vorsitzenden oder an einen beauftragten Richter
 
@@ -577,7 +577,7 @@ Ein Gericht darf zur Vornahme der Amtshandlung die Grenzen seines Sprengels übe
 
 ### § 37a JN — Amtshilfe auf Ersuchen inländischer Verwaltungsbehörden
 
-Gerichte sind nur insoweit zur Amtshilfe durch Übermittlung von Gerichtsakten oder von Teilen dieser an Verwaltungsbehörden verpflichtet, als die Übermittlung auf einer ausdrücklichen gesetzlichen Grundlage beruht und ihr nicht im konkreten Fall besondere Rechtsvorschriften entgegenstehen\. Die ersuchende Behörde hat die gesetzliche Grundlage für die Übermittlung anzuführen\.
+> Gerichte sind nur insoweit zur Amtshilfe durch Übermittlung von Gerichtsakten oder von Teilen dieser an Verwaltungsbehörden verpflichtet, als die Übermittlung auf einer ausdrücklichen gesetzlichen Grundlage beruht und ihr nicht im konkreten Fall besondere Rechtsvorschriften entgegenstehen\. Die ersuchende Behörde hat die gesetzliche Grundlage für die Übermittlung anzuführen\.
 
 ## Rechtshilfe auf Ersuchen ausländischer Gerichte.
 
@@ -586,11 +586,11 @@ Gerichte sind nur insoweit zur Amtshilfe durch Übermittlung von Gerichtsakten o
 > `(1)` Die im Geltungsgebiete dieses Gesetzes befindlichen Gerichte haben ausländischen Gerichten über Ersuchen Rechtshilfe zu leisten, sofern nicht besondere hierauf bezügliche Anordnungen \(Staatsverträge, Regierungserklärungen, Ministerialverordnungen\) etwas anderes festsetzen\.
 
 > `(2)` Die Rechtshilfe ist zu verweigern:
-> 
+>
 >> `1.` wenn die von dem ersuchenden Gerichte begehrte Handlung nach den im Inlande hiefür geltenden Bestimmungen dem Geschäftskreise der Gerichte entzogen ist; sollte die begehrte Handlung im Geschäftskreise anderer inländischer Behörden gelegen sein, so kann das ersuchte Gericht das Ersuchen an die hiernach zuständige Behörde leiten;
-> 
+>
 >> `2.` wenn die Vornahme einer Handlung begehrt wird, welche durch die für das inländische Gericht verbindlichen Gesetze verboten ist\.
-> 
+>
 > &nbsp; *\(Anm\.: Z 3 aufgehoben durch Art\. II Z 10 BGBl\. Nr\. 135/1983\.\)*
 
 ### § 39 JN — 
@@ -606,32 +606,32 @@ Gerichte sind nur insoweit zur Amtshilfe durch Übermittlung von Gerichtsakten o
 > `(1)` Eine unmittelbare Beweisaufnahme durch ausländische Gerichte ist im Inland nur zulässig, wenn sie vom Bundesminister für Justiz genehmigt wurde\.
 
 > `(2)` Außerhalb des Geltungsbereichs der Verordnung \(EG\) Nr\. 1206/2001, ABl\. Nr\. 2001, L 174, S 1, ist die Genehmigung zu erteilen, wenn
-> 
+>
 >> `1.` die Gegenseitigkeit gewährleistet ist,
-> 
+>
 >> `2.` die beabsichtigte Beweisaufnahme nicht gegen Grundwertungen der österreichischen Rechtsordnung einschließlich der Bestimmungen der Konvention zum Schutze der Menschenrechte und Grundfreiheiten \(EMRK\), BGBl\. Nr\. 210/1958, verstößt,
-> 
+>
 >> `3.` sichergestellt ist, dass alle von der Beweisaufnahme betroffenen Personen freiwillig mitwirken und dass das ausländische Gericht im Inland keine Zwangsmaßnahmen setzt, sowie
-> 
+>
 >> `4.` die beabsichtigte Beweisaufnahme nicht völkerrechtlichen Verpflichtungen oder außenpolitischen Interessen der Republik Österreich zuwiderläuft; insofern ist vor Abgabe der Erklärung das Einvernehmen mit dem Bundesminister für auswärtige Angelegenheiten herzustellen\.
 
 > `(3)` Die Genehmigung kann davon abhängig gemacht werden, dass das nach § 37 Abs\. 2 zuständige Gericht an der Beweisaufnahme teilnimmt\. Droht bei dieser Beweisaufnahme
-> 
+>
 >> `1.` im Geltungsbereich der Verordnung \(EG\) Nr\. 1206/2001, ABl\. Nr\. 2001, L 174, S 1, ein Verstoß gegen deren Art\. 17 Abs\. 2 oder Abs\. 5 lit\. c oder
-> 
+>
 >> `2.` außerhalb des Geltungsbereichs der Verordnung \(EG\) Nr\. 1206/2001, ABl\. Nr\. 2001, L 174, S 1, ein Verstoß gegen Abs\. 2 Z 2 und 3,
-> 
+>
 > &nbsp; so hat dieses Gericht die Beweisaufnahme insofern zu untersagen\.
 
 > `(4)` Das nach § 37 Abs\. 2 zuständige Gericht hat auf Ersuchen des ausländischen Gerichtes bei der Durchführung der Beweisaufnahme tatsächliche Unterstützung zu gewähren\.
 
 ### § 40 JN — 
 
-Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder entstehen aus Anlaß der Gewährung der Rechtshilfe in Bezug auf deren Ausführung oder in anderer Hinsicht Meinungsverschiedenheiten zwischen dem ersuchenden und dem ersuchten Gerichte, so hat auf Begehren des ersuchenden ausländischen Gerichtes oder eines anderen hiezu berufenen ausländischen öffentlichen Organes das dem ersuchten Gerichte vorgesetzte Oberlandesgericht ohne vorhergehende mündliche Verhandlung über die Rechtmäßigkeit der Weigerung oder über den sonstigen Gegenstand der Meinungsverschiedenheit zu entscheiden\.
+> Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder entstehen aus Anlaß der Gewährung der Rechtshilfe in Bezug auf deren Ausführung oder in anderer Hinsicht Meinungsverschiedenheiten zwischen dem ersuchenden und dem ersuchten Gerichte, so hat auf Begehren des ersuchenden ausländischen Gerichtes oder eines anderen hiezu berufenen ausländischen öffentlichen Organes das dem ersuchten Gerichte vorgesetzte Oberlandesgericht ohne vorhergehende mündliche Verhandlung über die Rechtmäßigkeit der Weigerung oder über den sonstigen Gegenstand der Meinungsverschiedenheit zu entscheiden\.
 
 ### § 40a JN
 
-In welchem Verfahren eine Rechtssache zu behandeln und zu erledigen ist, richtet sich nicht nach der Bezeichnung durch die Partei, sondern nach dem Inhalt des Begehrens und des Vorbringens der Partei\. Ist zweifelhaft, welches Verfahren anzuwenden ist, so hat das Gericht darüber zu entscheiden; dieser Beschluß ist selbständig anfechtbar\.
+> In welchem Verfahren eine Rechtssache zu behandeln und zu erledigen ist, richtet sich nicht nach der Bezeichnung durch die Partei, sondern nach dem Inhalt des Begehrens und des Vorbringens der Partei\. Ist zweifelhaft, welches Verfahren anzuwenden ist, so hat das Gericht darüber zu entscheiden; dieser Beschluß ist selbständig anfechtbar\.
 
 ## Prüfung der Zuständigkeit.
 
@@ -656,9 +656,9 @@ In welchem Verfahren eine Rechtssache zu behandeln und zu erledigen ist, richtet
 ### § 43 JN — 
 
 > `(1)` Hält sich das angerufene Gericht aus anderen als den im §\. 42 angeführten Gründen für unzuständig \(§\. 41, Absatz 2\), so ist die Klage von amtswegen zurückzuweisen\. Sobald jedoch über die Klage die Tagsatzung zur mündlichen Verhandlung bestimmt, die Beantwortung der Klage aufgetragen oder ein bedingter Zahlungsbefehl erlassen worden ist, kann sich das Gericht nur dann für unzuständig erklären, wenn
-> 
+>
 >> `1.` der Beklagte rechtzeitig die Einrede des Fehlens der sachlichen oder örtlichen Zuständigkeit erhebt;
-> 
+>
 >> `2.` der Umstand noch nicht geheilt ist \(§ 104\), daß entweder die inländische Gerichtsbarkeit fehlt oder das Gericht nach den Bestimmungen des gegenwärtigen Gesetzes selbst durch ausdrückliche Vereinbarung der Parteien für die betreffende Rechtssache nicht sachlich oder örtlich zuständig gemacht werden kann\.
 
 > `(2)` Dieser Ausspruch erfolgt mittels Beschluss\.
@@ -675,7 +675,7 @@ In welchem Verfahren eine Rechtssache zu behandeln und zu erledigen ist, richtet
 
 ### § 45 JN
 
-Nach Eintritt der Streitanhängigkeit getroffenen Entscheidungen, mit denen ein Gericht seine sachliche Zuständigkeit bejaht, sind nicht anfechtbar, solche, mit denen es seine sachliche Unzuständigkeit ausspricht, nur dann, wenn das Gericht, das nach dieser Entscheidung sachlich zuständig wäre, seinen Sitz nicht in derselben Gemeinde hat\.
+> Nach Eintritt der Streitanhängigkeit getroffenen Entscheidungen, mit denen ein Gericht seine sachliche Zuständigkeit bejaht, sind nicht anfechtbar, solche, mit denen es seine sachliche Unzuständigkeit ausspricht, nur dann, wenn das Gericht, das nach dieser Entscheidung sachlich zuständig wäre, seinen Sitz nicht in derselben Gemeinde hat\.
 
 ### § 46 JN — 
 
@@ -710,29 +710,29 @@ Nach Eintritt der Streitanhängigkeit getroffenen Entscheidungen, mit denen ein 
 > `(1)` Vor die Bezirksgerichte gehören Streitigkeiten über vermögensrechtliche Ansprüche einschließlich der zum Mandatsverfahren gehörigen Streitigkeiten, wenn der Streitgegenstand an Geld oder Geldeswert den Betrag von 15 000 Euro nicht übersteigt, und diese Streitigkeiten nicht ihrer Beschaffenheit nach ohne Rücksicht auf den Wert des Streitgegenstandes Gerichtshöfen erster Instanz zugewiesen sind\.
 
 > `(2)` Ohne Rücksicht auf den Wert des Streitgegenstandes gehören vor die Bezirksgerichte:
-> 
+>
 >> `1.` Streitigkeiten über die dem Vater eines unehelichen Kindes gegenüber der Mutter des Kindes gesetzlich obliegenden Pflichten;
-> 
+>
 >> `2.` Streitigkeiten über den aus dem Gesetz gebührenden Unterhalt, mit Ausnahme der Angelegenheiten des gesetzlichen Unterhalts zwischen in gerader Linie verwandten Personen;
-> 
+>
 >> `2a.` Streitigkeiten über die Scheidung, die Aufhebung oder die Nichtigerklärung einer Ehe oder über das Bestehen oder Nichtbestehen einer Ehe zwischen den Parteien;
-> 
+>
 >> `2b.` die anderen aus dem gegenseitigen Verhältnis der Ehegatten entspringenden Streitigkeiten;
-> 
+>
 >> `2c.` Streitigkeiten über die Auflösung oder die Nichtigerklärung einer eingetragenen Partnerschaft oder über das Bestehen oder Nichtbestehen einer eingetragenen Partnerschaft zwischen den Parteien;
-> 
+>
 >> `2d.` die anderen aus dem gegenseitigen Verhältnis der eingetragenen Partner entspringenden Streitigkeiten;
-> 
+>
 >> `3.` Streitigkeiten über die Bestimmung oder Berichtungen von Grenzen unbeweglicher Güter, sowie Streitigkeiten über die Dienstbarkeit der Wohnung und über Ausgedinge;
-> 
+>
 >> `4.` Streitigkeiten wegen Besitzstörung, wenn das Klagebegehren nur auf den Schutz und die Wiederherstellung des letzten thatsächlichen Besitzstandes gerichtet ist;
-> 
+>
 >> `5.` alle Streitigkeiten aus Bestandverträgen über die im § 560 ZPO bezeichneten Sachen und mit ihnen in Bestand genommene bewegliche Sachen sowie aus genossenschaftlichen Nutzungsverträgen \(§ 1 Abs\. 1 Mietrechtsgesetz\) und aus dem im § 1103 ABGB bezeichneten Vertrag über solche Sachen einschließlich der Streitigkeiten über die Eingehung, das Bestehen und die Auflösung solcher Verträge, die Nachwirkungen hieraus und wegen Zurückhaltung der vom Mieter oder Pächter eingebrachten oder der sonstigen dem Verpächter zur Sicherstellung des Pachtzinses haftenden Fahrnisse, schließlich Streitigkeiten zwischen wem immer über verbotene Ablösen \(§ 27 Mietrechtsgesetz\);
-> 
+>
 >> `6.` Streitigkeiten nach § 549 ZPO;
-> 
+>
 >> `7.` Streitigkeiten zwischen Reedern, Schiffern, Flößern, Fuhrleuten oder Wirten und ihren Auftraggebern, Reisenden und Gästen über die aus diesen Verhältnissen entspringenden Verpflichtungen;
-> 
+>
 >> `8.` Streitigkeiten wegen Viehmängel\.
 
 > `(3)` Die im Abs\. 2 Z 1 bis 2d begründete Zuständigkeit besteht auch in Fällen, in denen der Rechtsstreit vom Rechtsnachfolger einer Partei oder von einer Person geführt wird, die kraft Gesetzes anstelle der ursprünglichen Person hiezu befugt ist\.
@@ -744,38 +744,38 @@ Nach Eintritt der Streitanhängigkeit getroffenen Entscheidungen, mit denen ein 
 
 ### § 50 JN — 
 
-Vor die Gerichtshöfe erster Instanz gehören alle bürgerlichen Rechtsstreitigkeiten, welche nicht den Bezirksgerichten zugewiesen sind\.
+> Vor die Gerichtshöfe erster Instanz gehören alle bürgerlichen Rechtsstreitigkeiten, welche nicht den Bezirksgerichten zugewiesen sind\.
 
 ### § 51 JN — Handelsgerichte
 
 > `(1)` Vor die selbständigen Handelsgerichte gehören, falls der Streitgegenstand an Geld oder Geldeswert den Betrag von 15 000 Euro übersteigt:
-> 
+>
 >> `1.` Streitigkeiten aus unternehmensbezogenen Geschäften, wenn die Klage gegen einen im Firmenbuch eingetragenen Unternehmer gerichtet ist und das Geschäft auf Seiten des Beklagten ein unternehmensbezogenes Geschäft ist\.
-> 
+>
 >> `2.` Streitigkeiten, die aus den Berufsgeschäften von Handelsmaklern \(Sensalen\), Wägern, Messern und anderen Personen, die zur Vornahme und Bestätigung solcher Geschäfte im Geschäftsverkehr bestellt sind, entstehen, wenn diese Streitigkeiten zwischen ihnen und ihren Auftraggebern geführt werden;
-> 
+>
 >> `3.` Streitigkeiten aus den Rechtsverhältnissen der Unternehmer mit ihren Prokuristen, Handlungsbevollmächtigten und Handlungsgehilfen, ferner aus den Rechtsverhältnissen aller dieser Personen zu Dritten, denen sie sich im Unternehmen des Arbeitgebers verantwortlich gemacht haben, und aus den Rechtsverhältnissen zwischen Dritten und solchen Personen, die wegen mangelnder Prokura oder Handlungsvollmacht haften, sofern es sich nicht um eine Arbeitsrechtssache handelt;
-> 
+>
 >> `4.` Streitigkeiten aus der Veräußerung eines Unternehmens zwischen den Vertragsteilen;
-> 
+>
 >> `5.` Streitigkeiten über das Recht der Verwendung einer Firma und die sich aus diesem Recht ergebenden Streitigkeiten;
-> 
+>
 >> `6.` Streitigkeiten aus dem Rechtsverhältnis zwischen den Mitgliedern einer Handelsgesellschaft oder zwischen dieser und ihren Mitgliedern, zwischen den Mitgliedern der Verwaltung und den Liquidatoren der Gesellschaft und der Gesellschaft oder deren Mitgliedern, zwischen dem stillen Gesellschafter und dem Inhaber des Unternehmens, zwischen den Teilnehmern einer Vereinigung zu einzelnen unternehmensbezogenen Geschäften für gemeinschaftliche Rechnung sowie Streitigkeiten aus Rechtsverhältnissen aller dieser Personen zu Dritten, denen sie sich in dieser Eigenschaft verantwortlich gemacht haben, und zwar in allen diesen Fällen sowohl während des Bestandes als auch nach der Auflösung des gesellschaftlichen Verhältnisses, sofern es sich nicht um eine Arbeitsrechtssache handelt;
-> 
+>
 >> `7.` sonstige Streitigkeiten nach dem Aktiengesetz und dem Gesetz über Gesellschaften mit beschränkter Haftung;
-> 
+>
 >> `8.` Streitigkeiten aus Wechselgeschäften und aus scheckrechtlichen Rückgriffsansprüchen;
-> 
+>
 >> `8a.` Streitigkeiten nach dem Produkthaftungsgesetz;
-> 
+>
 >> `8b.` Streitigkeiten nach dem § 1330 ABGB wegen einer Veröffentlichung in einem Medium \(§ 1 Abs\. 1 Z 1 Mediengesetz\)\.
 
 > `(2)` Ohne Rücksicht auf den Wert des Streitgegenstandes gehören vor die Handelsgerichte:
-> 
+>
 >> `9.` Streitigkeiten aus den Rechtsverhältnissen, die sich auf den Schutz und den Gebrauch von Erfindungen, Mustern, Modellen und Marken beziehen, insoweit hiefür nicht andere gesetzliche Vorschriften bestehen;
-> 
+>
 >> `10.` Streitigkeiten wegen unlauteren Wettbewerbs – sofern es sich nicht um eine Arbeitsrechtssache handelt –, nach dem Urheberrechtsgesetz, nach den §§ 28 bis 30 des Konsumentenschutzgesetzes und nach Artikel V des Zinsenrechts\-Änderungsgesetzes, BGBl\. I Nr\. 118/2002;
-> 
+>
 >> `11.` Streitigkeiten, die sich auf die Seeschiffe und Seefahrt beziehen, sowie aus allen sonstigen Rechtsverhältnissen, die nach dem Privatseerecht oder dem Recht der Binnenschiffahrt zu beurteilen sind, sofern nicht die Bestimmungen des § 49 Z 5 bis 7 zur Anwendung kommen oder hiefür andere gesetzliche Vorschriften bestehen\.
 
 > `(3)` Wo ein selbständiges Handelsgericht nicht besteht, wird die Gerichtsbarkeit in allen vorgenannten Rechtsstreitigkeiten durch die Handelssenate der Landesgerichte ausgeübt\.
@@ -788,7 +788,7 @@ Vor die Gerichtshöfe erster Instanz gehören alle bürgerlichen Rechtsstreitigk
 
 ### § 53 JN
 
-Für Streitigkeiten über die Verletzung von gewerblichen Schutzrechten ist das Handelsgericht Wien in erster Instanz ausschließlich zuständig\. In diesen Rechtssachen kommt dem Handelsgericht Wien auch die ausschließliche Zuständigkeit für einstweilige Verfügungen zu\.
+> Für Streitigkeiten über die Verletzung von gewerblichen Schutzrechten ist das Handelsgericht Wien in erster Instanz ausschließlich zuständig\. In diesen Rechtssachen kommt dem Handelsgericht Wien auch die ausschließliche Zuständigkeit für einstweilige Verfügungen zu\.
 
 ## Wert des Streitgegenstandes.
 
@@ -801,9 +801,9 @@ Für Streitigkeiten über die Verletzung von gewerblichen Schutzrechten ist das 
 ### § 55 JN
 
 > `(1)` Mehrere in einer Klage geltend gemachte Ansprüche sind zusammenzurechnen, wenn
-> 
+>
 >> `1.` sie von einer einzelnen Partei gegen eine einzelne Partei erhoben werden und in einem tatsächlichen oder rechtlichen Zusammenhang stehen oder
-> 
+>
 >> `2.` sie von mehreren Parteien oder gegen mehrere Parteien erhoben werden, die Streitgenossen nach § 11 Z 1 ZPO sind\.
 
 > `(2)` Wird der gleiche Anspruch durch oder gegen mehrere Personen geltend gemacht, denen der Anspruch solidarisch zusteht oder für den sie solidarisch haften, so richtet sich der Wert nach der Höhe des einfachen Anspruchs\.
@@ -822,7 +822,7 @@ Für Streitigkeiten über die Verletzung von gewerblichen Schutzrechten ist das 
 
 ### § 57 JN — 
 
-Bei Streitigkeiten, welche nur die Sicherstellung einer Forderung oder ein Pfandrecht zum Gegenstande haben, ist der Betrag der Forderung, oder wenn der Pfandgegenstand einen geringeren Wert hat, dessen Wert für die Bewertung des Streitgegenstandes maßgebend\.
+> Bei Streitigkeiten, welche nur die Sicherstellung einer Forderung oder ein Pfandrecht zum Gegenstande haben, ist der Betrag der Forderung, oder wenn der Pfandgegenstand einen geringeren Wert hat, dessen Wert für die Bewertung des Streitgegenstandes maßgebend\.
 
 ### § 58 JN — 
 
@@ -832,11 +832,11 @@ Bei Streitigkeiten, welche nur die Sicherstellung einer Forderung oder ein Pfand
 
 ### § 59 JN — 
 
-Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf Duldung oder Unterlassung, auf Abgabe von Willenserklärungen ist die vom Kläger angegebene Höhe seines Interesses als Wert des Streitgegenstandes anzusehen\.
+> Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf Duldung oder Unterlassung, auf Abgabe von Willenserklärungen ist die vom Kläger angegebene Höhe seines Interesses als Wert des Streitgegenstandes anzusehen\.
 
 ### § 59a JN
 
-Bei Klagen auf Unterlassung nach § 549 ZPO gilt der Betrag von 5 000 Euro als Streitwert\.
+> Bei Klagen auf Unterlassung nach § 549 ZPO gilt der Betrag von 5 000 Euro als Streitwert\.
 
 ### § 60 JN — 
 
@@ -868,11 +868,11 @@ Bei Klagen auf Unterlassung nach § 549 ZPO gilt der Betrag von 5 000 Euro al
 
 ### § 63 JN — 
 
-Die Bestimmungen der §§\. 61 und 62 sind auch anwendbar, sofern in einer bei einem selbständigen Handelsgerichte angebrachten Rechtssache die Einrede der Unzuständigkeit deshalb erhoben wird, weil die Rechtssache vor das zur Ausübung der allgemeinen Gerichtsbarkeit berufene Landesgericht gehört oder bei diesem, weil die Rechtssache vor das Handelsgericht gehört\.
+> Die Bestimmungen der §§\. 61 und 62 sind auch anwendbar, sofern in einer bei einem selbständigen Handelsgerichte angebrachten Rechtssache die Einrede der Unzuständigkeit deshalb erhoben wird, weil die Rechtssache vor das zur Ausübung der allgemeinen Gerichtsbarkeit berufene Landesgericht gehört oder bei diesem, weil die Rechtssache vor das Handelsgericht gehört\.
 
 ### § 64 JN — 
 
-Wenn eine gemäß §\. 62 unter Zuziehung eines Ergänzungsrichters gefällte Entscheidung wegen Unzuständigkeit des Gerichtes angefochten wird und die höhere Instanz der Ansicht ist, dass der Senat, vor welchem die Verhandlung anberaumt war, zur Entscheidung der Rechtssache thatsächlich zuständig gewesen wäre, so ist dennoch auf die Unzuständigkeit nicht weiter Bedacht zu nehmen, falls auch das vor der Endentscheidung aus dem Senate ausgeschiedene Mitglied nach Inhalt seines den Acten beiliegenden Votums die Rechtssache so entschieden hätte, wie es durch den angefochtenen Spruch geschehen ist\.
+> Wenn eine gemäß §\. 62 unter Zuziehung eines Ergänzungsrichters gefällte Entscheidung wegen Unzuständigkeit des Gerichtes angefochten wird und die höhere Instanz der Ansicht ist, dass der Senat, vor welchem die Verhandlung anberaumt war, zur Entscheidung der Rechtssache thatsächlich zuständig gewesen wäre, so ist dennoch auf die Unzuständigkeit nicht weiter Bedacht zu nehmen, falls auch das vor der Endentscheidung aus dem Senate ausgeschiedene Mitglied nach Inhalt seines den Acten beiliegenden Votums die Rechtssache so entschieden hätte, wie es durch den angefochtenen Spruch geschehen ist\.
 
 ## Zweiter Abschnitt.
 
@@ -882,7 +882,7 @@ Wenn eine gemäß §\. 62 unter Zuziehung eines Ergänzungsrichters gefällte En
 
 ### § 65 JN — 
 
-Alle Klagen, für welche nicht ein besonderer Gerichtsstand bei einem anderen Gerichte begründet ist, sind bei dem sachlich zuständigen Bezirksgerichte oder Gerichtshofe erster Instanz anzubringen, bei welchem der Beklagte seinen allgemeinen Gerichtsstand hat\.
+> Alle Klagen, für welche nicht ein besonderer Gerichtsstand bei einem anderen Gerichte begründet ist, sind bei dem sachlich zuständigen Bezirksgerichte oder Gerichtshofe erster Instanz anzubringen, bei welchem der Beklagte seinen allgemeinen Gerichtsstand hat\.
 
 ### § 66 JN — 
 
@@ -894,7 +894,7 @@ Alle Klagen, für welche nicht ein besonderer Gerichtsstand bei einem anderen Ge
 
 ### § 67 JN — 
 
-Für Personen, die weder im Inland noch anderswo einen Wohnsitz oder einen gewöhnlichen Aufenthalt haben, wird der allgemeine Gerichtsstand durch den Ort ihres jeweiligen Aufenthalts im Inland begründet\. Mangels eines solchen oder bei Unbekanntheit des inländischen Aufenthaltsortes können diese Personen wegen aller während ihres Aufenthaltes im Inlande begründeten oder hier zu erfüllenden Verbindlichkeiten bei dem Gerichte des letzten Wohnsitzes oder Aufenthaltes belangt werden, den sie im Inlande gehabt haben\.
+> Für Personen, die weder im Inland noch anderswo einen Wohnsitz oder einen gewöhnlichen Aufenthalt haben, wird der allgemeine Gerichtsstand durch den Ort ihres jeweiligen Aufenthalts im Inland begründet\. Mangels eines solchen oder bei Unbekanntheit des inländischen Aufenthaltsortes können diese Personen wegen aller während ihres Aufenthaltes im Inlande begründeten oder hier zu erfüllenden Verbindlichkeiten bei dem Gerichte des letzten Wohnsitzes oder Aufenthaltes belangt werden, den sie im Inlande gehabt haben\.
 
 ### § 68 JN — 
 
@@ -906,11 +906,11 @@ Für Personen, die weder im Inland noch anderswo einen Wohnsitz oder einen gewö
 
 ### § 69 JN — 
 
-Österreichische Staatsangehörige, welche sich in ständiger amtlicher Stellung als Beamte oder Diener des österreichischen Staates oder der österreichisch\-ungarischen Monarchie außerhalb des Geltungsgebietes dieses Gesetzes aufhalten, behalten den allgemeinen Gerichtsstand, den sie im Geltungsgebiete dieses Gesetzes hatten\. Ist ein solcher nicht begründet oder doch nicht zu ermitteln, so ist für sie der allgemeine Gerichtsstand in Wien, und zwar im Sprengel desjenigen Bezirksgerichtes begründet, in welchem das k\. und k\. Ministerium des Äußeren seinen Sitz hat\.
+> Österreichische Staatsangehörige, welche sich in ständiger amtlicher Stellung als Beamte oder Diener des österreichischen Staates oder der österreichisch\-ungarischen Monarchie außerhalb des Geltungsgebietes dieses Gesetzes aufhalten, behalten den allgemeinen Gerichtsstand, den sie im Geltungsgebiete dieses Gesetzes hatten\. Ist ein solcher nicht begründet oder doch nicht zu ermitteln, so ist für sie der allgemeine Gerichtsstand in Wien, und zwar im Sprengel desjenigen Bezirksgerichtes begründet, in welchem das k\. und k\. Ministerium des Äußeren seinen Sitz hat\.
 
 ### § 71 JN
 
-Ein minderjähriges Kind teilt den allgemeinen Gerichtsstand seines gesetzlichen Vertreters\. Sind beide Eltern \(Wahleltern\) gesetzliche Vertreter, so teilt es deren gemeinsamen allgemeinen Gerichtsstand, haben sie keinen solchen, den allgemeinen Gerichtsstand des Elternteils \(Wahlelternteils\), dessen Haushalt es zugehört\.
+> Ein minderjähriges Kind teilt den allgemeinen Gerichtsstand seines gesetzlichen Vertreters\. Sind beide Eltern \(Wahleltern\) gesetzliche Vertreter, so teilt es deren gemeinsamen allgemeinen Gerichtsstand, haben sie keinen solchen, den allgemeinen Gerichtsstand des Elternteils \(Wahlelternteils\), dessen Haushalt es zugehört\.
 
 ### § 74 JN — 
 
@@ -933,18 +933,18 @@ Ein minderjähriges Kind teilt den allgemeinen Gerichtsstand seines gesetzlichen
 > `(1)` Für Streitigkeiten über die Scheidung, die Aufhebung, die Nichtigerklärung oder die Feststellung des Bestehens oder Nichtbestehens einer Ehe sowie über die Auflösung, die Nichtigerklärung oder die Feststellung des Bestehens oder Nichtbestehens einer eingetragenen Partnerschaft zwischen den Parteien ist das Gericht ausschließlich zuständig, in dessen Sprengel die Parteien ihren gemeinsamen gewöhnlichen Aufenthalt haben oder zuletzt gehabt haben\. Hat zur Zeit der Erhebung der Klage keine der Parteien ihren gewöhnlichen Aufenthalt in diesem Sprengel oder haben sie im Inland einen gemeinsamen gewöhnlichen Aufenthalt nicht gehabt, so ist das Gericht ausschließlich zuständig, in dessen Sprengel der gewöhnliche Aufenthalt der beklagten Partei oder, falls ein solcher gewöhnlicher Aufenthalt im Inland fehlt, der gewöhnliche Aufenthalt der klagenden Partei liegt, sonst das Bezirksgericht Innere Stadt Wien\.
 
 > `(2)` Die inländische Gerichtsbarkeit für die im Abs\. 1 genannten Streitigkeiten ist gegeben, wenn
-> 
+>
 >> `1.` eine der Parteien die österreichische Staatsbürgerschaft hat oder
-> 
+>
 >> `2.` die beklagte Partei, im Fall der Nichtigkeitsklage gegen beide Ehegatten oder beide eingetragenen Partner zumindest eine beklagte Partei, ihren gewöhnlichen Aufenthalt im Inland hat oder
-> 
+>
 >> `3.` die klagende Partei ihren gewöhnlichen Aufenthalt im Inland hat und entweder beide Ehegatten oder beide eingetragenen Partner ihren letzten gemeinsamen gewöhnlichen Aufenthalt im Inland gehabt haben oder die klagende Partei staatenlos ist oder zur Zeit der Schließung der Ehe oder der eingetragenen Partnerschaft die österreichische Staatsbürgerschaft gehabt hat\.
 
 > `(3)` Die inländische Gerichtsbarkeit für Streitigkeiten über die Auflösung oder Nichtigerklärung sowie die Feststellung des Bestehens oder Nichtbestehens einer eingetragenen Partnerschaft ist für in Österreich eingetragene Partnerschaften jedenfalls gegeben\.
 
 ### § 76a JN
 
-Das Gericht, bei dem eine im § 76 Abs\. 1 genannte Streitigkeit anhängig ist oder gleichzeitig anhängig gemacht wird, ist für die aus dem gegenseitigen Verhältnis der Ehegatten oder eingetragenen Partner entspringenden sonstigen Streitigkeiten einschließlich jener über den gesetzlichen Unterhalt \(§ 49 Abs\. 2 Z 2, 2b und 2d sowie Abs\. 3\) ausschließlich zuständig\. Das gilt nicht, wenn die Verhandlung über die Scheidung, die Aufhebung, die Auflösung, die Nichtigerklärung oder das Bestehen oder Nichtbestehen in erster Instanz bereits geschlossen ist\.
+> Das Gericht, bei dem eine im § 76 Abs\. 1 genannte Streitigkeit anhängig ist oder gleichzeitig anhängig gemacht wird, ist für die aus dem gegenseitigen Verhältnis der Ehegatten oder eingetragenen Partner entspringenden sonstigen Streitigkeiten einschließlich jener über den gesetzlichen Unterhalt \(§ 49 Abs\. 2 Z 2, 2b und 2d sowie Abs\. 3\) ausschließlich zuständig\. Das gilt nicht, wenn die Verhandlung über die Scheidung, die Aufhebung, die Auflösung, die Nichtigerklärung oder das Bestehen oder Nichtbestehen in erster Instanz bereits geschlossen ist\.
 
 ### § 77 JN — Verlassenschaftsangelegenheiten
 
@@ -972,7 +972,7 @@ Das Gericht, bei dem eine im § 76 Abs\. 1 genannte Streitigkeit anhängig ist
 
 ### § 82 JN — Wasserrechts-Besitzstörungsstreitigkeiten — 
 
-Streitigkeiten wegen Störung des Besitzes \(§\. 49, Z 4 *\(Anm\.: richtig: § 49 Abs\. 2 Z 4\)*\) an Wasserrechten gehören vor das Gericht, in dessen Sprengel die Störung erfolgte\.
+> Streitigkeiten wegen Störung des Besitzes \(§\. 49, Z 4 *\(Anm\.: richtig: § 49 Abs\. 2 Z 4\)*\) an Wasserrechten gehören vor das Gericht, in dessen Sprengel die Störung erfolgte\.
 
 ### § 83 JN — Bestandstreitigkeiten
 
@@ -1012,7 +1012,7 @@ Streitigkeiten wegen Störung des Besitzes \(§\. 49, Z 4 *\(Anm\.: richtig: §
 
 ### § 86a JN
 
-Die Rechtssubjekte, für welche die Finanzprokuratur einzuschreiten hat, können bei den sachlich zuständigen Gerichten in der Landeshauptstadt des Landes geklagt werden, in dem der Kläger seinen allgemeinen Gerichtsstand hat\. Für das Land Vorarlberg tritt an die Stelle der Landeshauptstadt die Stadt Feldkirch\. Im Bereiche der Stadt Wien sind solche Klagen bei den für den ersten Bezirk örtlich zuständigen Gerichten einzubringen\.
+> Die Rechtssubjekte, für welche die Finanzprokuratur einzuschreiten hat, können bei den sachlich zuständigen Gerichten in der Landeshauptstadt des Landes geklagt werden, in dem der Kläger seinen allgemeinen Gerichtsstand hat\. Für das Land Vorarlberg tritt an die Stelle der Landeshauptstadt die Stadt Feldkirch\. Im Bereiche der Stadt Wien sind solche Klagen bei den für den ersten Bezirk örtlich zuständigen Gerichten einzubringen\.
 
 ### § 87 JN — Gerichtsstand der Niederlassung — 
 
@@ -1024,7 +1024,7 @@ Die Rechtssubjekte, für welche die Finanzprokuratur einzuschreiten hat, können
 
 ### § 87a JN — Gerichtsstand für Warenforderungen der Unternehmer
 
-Gegen Unternehmer können protokollierte Unternehmer wegen ihrer Forderungen aus einem im Kreise ihres Geschäftes erfolgten Verkaufe innerhalb zweier Jahre von der letzten Bestellung an gerechnet auch vor dem Gerichte des Ortes ihrer Niederlassung klagen, wenn sie die als Grundlage der Forderung dienende Bestellung und die tatsächliche Übernahme \(Ablieferung\) der Ware urkundlich nachweisen\. Bei Geschäften, die auf Grund einer Bevollmächtigung abgeschlossen wurden, muß die Vollmacht des Bestellers urkundlich nachgewiesen werden\.
+> Gegen Unternehmer können protokollierte Unternehmer wegen ihrer Forderungen aus einem im Kreise ihres Geschäftes erfolgten Verkaufe innerhalb zweier Jahre von der letzten Bestellung an gerechnet auch vor dem Gerichte des Ortes ihrer Niederlassung klagen, wenn sie die als Grundlage der Forderung dienende Bestellung und die tatsächliche Übernahme \(Ablieferung\) der Ware urkundlich nachweisen\. Bei Geschäften, die auf Grund einer Bevollmächtigung abgeschlossen wurden, muß die Vollmacht des Bestellers urkundlich nachgewiesen werden\.
 
 ### § 88 JN
 
@@ -1034,11 +1034,11 @@ Gegen Unternehmer können protokollierte Unternehmer wegen ihrer Forderungen aus
 
 ### § 89 JN — 
 
-Aus einem Wechsel verpflichtete Personen können vom Inhaber des Wechsels bei dem Gerichte des Zahlungsortes belangt werden\.
+> Aus einem Wechsel verpflichtete Personen können vom Inhaber des Wechsels bei dem Gerichte des Zahlungsortes belangt werden\.
 
 ### § 90 JN — 
 
-Streitigkeiten aus der Schiffsmiete, aus dem Dienstverhältnisse der Schiffsmannschaft und aus Seefrachtgeschäften können auch bei dem Gerichte des Ortes angebracht werden, in welchem sich der Beklagte aufhält, wo die Ware abgeliefert werden soll, wo der Transport des Reisenden zu beendigen ist oder wo die Reise abgebrochen wird\.
+> Streitigkeiten aus der Schiffsmiete, aus dem Dienstverhältnisse der Schiffsmannschaft und aus Seefrachtgeschäften können auch bei dem Gerichte des Ortes angebracht werden, in welchem sich der Beklagte aufhält, wo die Ware abgeliefert werden soll, wo der Transport des Reisenden zu beendigen ist oder wo die Reise abgebrochen wird\.
 
 ### § 91 JN — Gerichtsstand der gelegenen Sache — 
 
@@ -1050,19 +1050,19 @@ Streitigkeiten aus der Schiffsmiete, aus dem Dienstverhältnisse der Schiffsmann
 
 ### § 92 JN — Gerichtsstand für Besitzstörungsstreitigkeiten, — 
 
-Besitzstörungsklagen \(§\. 49, Z 4 *\(Anm\.: richtig: § 49 Abs\. 2 Z 4\)*\) können, sofern sie nicht eine unbewegliche Sache betreffen, bei dem Gerichte angebracht werden, in dessen Sprengel die Störung erfolgte\.
+> Besitzstörungsklagen \(§\. 49, Z 4 *\(Anm\.: richtig: § 49 Abs\. 2 Z 4\)*\) können, sofern sie nicht eine unbewegliche Sache betreffen, bei dem Gerichte angebracht werden, in dessen Sprengel die Störung erfolgte\.
 
 ### § 92a JN — Gerichtsstand der Schadenszufügung
 
-Streitigkeiten über den Ersatz des Schadens, der aus der Tötung oder Verletzung einer oder mehrerer Personen, aus einer Freiheitsberaubung oder aus der Beschädigung einer körperlichen Sache entstanden ist, können auch bei dem Gericht angebracht werden, in dessen Sprengel das den Schaden verursachende Verhalten gesetzt worden ist\.
+> Streitigkeiten über den Ersatz des Schadens, der aus der Tötung oder Verletzung einer oder mehrerer Personen, aus einer Freiheitsberaubung oder aus der Beschädigung einer körperlichen Sache entstanden ist, können auch bei dem Gericht angebracht werden, in dessen Sprengel das den Schaden verursachende Verhalten gesetzt worden ist\.
 
 ### § 92b JN — Streitigkeiten wegen Verletzung eines Persönlichkeitsrechts in einem elektronischen Kommunikationsnetz
 
-Streitigkeiten wegen Verletzung eines Persönlichkeitsrechts in einem elektronischen Kommunikationsnetz können auch bei dem Gericht angebracht werden, in dessen Sprengel das schädigende Ereignis eingetreten ist oder einzutreten droht\.
+> Streitigkeiten wegen Verletzung eines Persönlichkeitsrechts in einem elektronischen Kommunikationsnetz können auch bei dem Gericht angebracht werden, in dessen Sprengel das schädigende Ereignis eingetreten ist oder einzutreten droht\.
 
 ### § 92c JN — Streitigkeiten aus dem Gesellschaftsverhältnis
 
-Die im § 51 Abs\. 1 Z 6 genannten Streitigkeiten, mit Ausnahme von Klagen gegen Dritte, können bei dem Gericht des Ortes angebracht werden, in dem die Gesellschaft ihren Sitz hat\.
+> Die im § 51 Abs\. 1 Z 6 genannten Streitigkeiten, mit Ausnahme von Klagen gegen Dritte, können bei dem Gericht des Ortes angebracht werden, in dem die Gesellschaft ihren Sitz hat\.
 
 ### § 93 JN — Gerichtsstand der Streitgenossenschaft — 
 
@@ -1096,7 +1096,7 @@ Die im § 51 Abs\. 1 Z 6 genannten Streitigkeiten, mit Ausnahme von Klagen ge
 
 ### § 98 JN — Gerichtsstand der Schiffer und der Schiffsmannschaft
 
-Gegen Schiffer und Personen der Schiffsmannschaft können Forderungen der in § 97 bezeichneten Art auch dann bei dem nach dem jeweiligen Aufenthalt des Beklagten zuständigen Gericht geltend gemacht werden, wenn dieser an einem anderen Ort seinen allgemeinen Gerichtsstand hat\.
+> Gegen Schiffer und Personen der Schiffsmannschaft können Forderungen der in § 97 bezeichneten Art auch dann bei dem nach dem jeweiligen Aufenthalt des Beklagten zuständigen Gericht geltend gemacht werden, wenn dieser an einem anderen Ort seinen allgemeinen Gerichtsstand hat\.
 
 ### § 99 JN — Gerichtsstand des Vermögens — 
 
@@ -1110,21 +1110,21 @@ Gegen Schiffer und Personen der Schiffsmannschaft können Forderungen der in §�
 
 ### § 100 JN — Klagen aus dem Ehe- oder Partnerschaftsverhältnis
 
-Das im § 76 Abs\. 1 bezeichnete Gericht ist auch für andere Klagen wegen nicht rein vermögensrechtlicher Streitigkeiten aus dem Eheverhältnis oder aus der eingetragenen Partnerschaft zuständig\.
+> Das im § 76 Abs\. 1 bezeichnete Gericht ist auch für andere Klagen wegen nicht rein vermögensrechtlicher Streitigkeiten aus dem Eheverhältnis oder aus der eingetragenen Partnerschaft zuständig\.
 
 ### § 101 JN — Klagen aus CMR
 
-Für Rechtstreitigkeiten aus einer Beförderung, die dem Übereinkommen vom 19\. Mai 1956 über den Beförderungsvertrag im Internationalen Straßengüterverkehr \(CMR\) unterliegt, ist auch das Gericht zuständig, in dessen Sprengel der Ort der Übernahme des Gutes oder der für die Ablieferung des Gutes vorgesehene Ort liegt\.
+> Für Rechtstreitigkeiten aus einer Beförderung, die dem Übereinkommen vom 19\. Mai 1956 über den Beförderungsvertrag im Internationalen Straßengüterverkehr \(CMR\) unterliegt, ist auch das Gericht zuständig, in dessen Sprengel der Ort der Übernahme des Gutes oder der für die Ablieferung des Gutes vorgesehene Ort liegt\.
 
 ### § 101a JN — Klagen nach der Fluggastrechte-Verordnung
 
-Für Klagen über Ansprüche nach der Verordnung \(EG\) Nr\. 261/2004 über eine gemeinsame Regelung für Ausgleichs\- und Unterstützungsleistungen für Fluggäste im Fall der Nichtbeförderung und bei Annullierung oder großer Verspätung von Flügen und zur Aufhebung der Verordnung \(EWG\) Nr\. 295/91 \(Fluggastrechte\-Verordnung\), ABl\. Nr\. L 046 vom 17\.02\.2004 S\. 1, in der Fassung der Berichtigung ABl\. Nr\. L 119 vom 07\.05\.2019 S\. 202 ist, wenn der Abflugs\- oder Ankunftsort in Österreich liegt, auch das Gericht zuständig, in dessen Sprengel der Abflugs\- oder Ankunftsort liegt\.
+> Für Klagen über Ansprüche nach der Verordnung \(EG\) Nr\. 261/2004 über eine gemeinsame Regelung für Ausgleichs\- und Unterstützungsleistungen für Fluggäste im Fall der Nichtbeförderung und bei Annullierung oder großer Verspätung von Flügen und zur Aufhebung der Verordnung \(EWG\) Nr\. 295/91 \(Fluggastrechte\-Verordnung\), ABl\. Nr\. L 046 vom 17\.02\.2004 S\. 1, in der Fassung der Berichtigung ABl\. Nr\. L 119 vom 07\.05\.2019 S\. 202 ist, wenn der Abflugs\- oder Ankunftsort in Österreich liegt, auch das Gericht zuständig, in dessen Sprengel der Abflugs\- oder Ankunftsort liegt\.
 
 ## Mehrheit von Gerichtsständen.
 
 ### § 102 JN — 
 
-Unter mehreren zuständigen Gerichten hat der Kläger die Wahl; dieselbe ist mit der Zustellung der Klage an den Beklagten vollzogen\.
+> Unter mehreren zuständigen Gerichten hat der Kläger die Wahl; dieselbe ist mit der Zustellung der Klage an den Beklagten vollzogen\.
 
 ### § 103 JN — Mehrheit von Bezirksgerichten an einem Orte — 
 
@@ -1137,11 +1137,11 @@ Unter mehreren zuständigen Gerichten hat der Kläger die Wahl; dieselbe ist mit
 ### § 104 JN — 
 
 > `(1)` Die Parteien können sich durch ausdrückliche Vereinbarung unterwerfen:
-> 
+>
 >> `1.` der inländischen Gerichtsbarkeit;
-> 
+>
 >> `2.` einem oder mehreren Gerichten erster Instanz namentlich angeführter Orte\.
-> 
+>
 > &nbsp; Die Vereinbarung muß urkundlich nachgewiesen werden; eine sonstige Voraussetzung muß nicht erfüllt sein\.
 
 > `(2)` Die Vereinbarung hat nur dann rechtliche Wirkung, wenn sie sich auf einen bestimmten Rechtsstreit oder auf die aus einem bestimmten Rechtsverhältnisse entspringenden Rechtsstreitigkeiten bezieht\. Jedoch können Angelegenheiten, welche dem Wirkungskreise der ordentlichen Gerichte überhaupt entzogen sind, durch solche Vereinbarungen nicht vor diese Gerichte, Rechtssachen, welche vor ein Bezirksgericht gehören, nicht vor einen Gerichtshof erster Instanz und ausschließlich den Gerichtshöfen erster Instanz zugewiesene Streitigkeiten nicht vor ein Bezirksgericht gebracht werden\.
@@ -1158,7 +1158,7 @@ Unter mehreren zuständigen Gerichten hat der Kläger die Wahl; dieselbe ist mit
 
 ### § 104a JN — Sachliche Zuständigkeit
 
-Soweit nicht anderes bestimmt ist, sind in Geschäften außer Streitsachen die Bezirksgerichte sachlich zuständig\.
+> Soweit nicht anderes bestimmt ist, sind in Geschäften außer Streitsachen die Bezirksgerichte sachlich zuständig\.
 
 ### § 105 JN — Verlassenschaftsabhandlung
 
@@ -1172,11 +1172,11 @@ Soweit nicht anderes bestimmt ist, sind in Geschäften außer Streitsachen die B
 
 ### § 106 JN
 
-Die inländische Gerichtsbarkeit für die Abhandlung einer Verlassenschaft im Inland und für ein dieses ersetzendes Verfahren \(§§ 153 ff\. AußStrG\) ist gegeben, soweit dies erforderlich ist, um einem internationalen Übereinkommen im Sinn des Art\. 75 Abs\. 1 EuErbVO zu entsprechen\.
+> Die inländische Gerichtsbarkeit für die Abhandlung einer Verlassenschaft im Inland und für ein dieses ersetzendes Verfahren \(§§ 153 ff\. AußStrG\) ist gegeben, soweit dies erforderlich ist, um einem internationalen Übereinkommen im Sinn des Art\. 75 Abs\. 1 EuErbVO zu entsprechen\.
 
 ### § 107 JN — Einwände gegen die Authentizität einer öffentlichen Urkunde in Verlassenschaftssachen
 
-Zur Entscheidung über Einwände gegen die Authentizität einer öffentlichen Urkunde \(Art\. 59 Abs\. 2 EuErbVO\) ist das Gericht zuständig, in dessen Sprengel die Urkunde ausgestellt worden ist\.
+> Zur Entscheidung über Einwände gegen die Authentizität einer öffentlichen Urkunde \(Art\. 59 Abs\. 2 EuErbVO\) ist das Gericht zuständig, in dessen Sprengel die Urkunde ausgestellt worden ist\.
 
 ### § 108 JN — Abstammung
 
@@ -1194,20 +1194,20 @@ Zur Entscheidung über Einwände gegen die Authentizität einer öffentlichen Ur
 
 ### § 109a JN
 
-Zur Behandlung eines aus dem Ausland einlangenden Antrags auf Rückführung eines Kindes im Sinn des Übereinkommens vom 25\. Oktober 1980, BGBl\. Nr\. 512/1988, über die zivilrechtlichen Aspekte internationaler Kindesentführung \(im Folgenden: HKÜ\) ist das Bezirksgericht am Sitz des Gerichtshofs erster Instanz, in dessen Sprengel sich das Kind aufhält, zuständig; für den Sprengel des Landesgerichts für Zivilrechtssachen Wien das Bezirksgericht Innere Stadt Wien, für den Sprengel des Landesgerichts für Zivilrechtssachen Graz das Bezirksgericht Graz\-Ost\. Zur Entscheidung über Anträge auf persönlichen Verkehr mit dem Kind \(Art\. 21 HKÜ\) ist das in § 109 genannte Bezirksgericht zuständig\.
+> Zur Behandlung eines aus dem Ausland einlangenden Antrags auf Rückführung eines Kindes im Sinn des Übereinkommens vom 25\. Oktober 1980, BGBl\. Nr\. 512/1988, über die zivilrechtlichen Aspekte internationaler Kindesentführung \(im Folgenden: HKÜ\) ist das Bezirksgericht am Sitz des Gerichtshofs erster Instanz, in dessen Sprengel sich das Kind aufhält, zuständig; für den Sprengel des Landesgerichts für Zivilrechtssachen Wien das Bezirksgericht Innere Stadt Wien, für den Sprengel des Landesgerichts für Zivilrechtssachen Graz das Bezirksgericht Graz\-Ost\. Zur Entscheidung über Anträge auf persönlichen Verkehr mit dem Kind \(Art\. 21 HKÜ\) ist das in § 109 genannte Bezirksgericht zuständig\.
 
 ### § 109b JN
 
-Für die Anerkennung und Vollstreckbarerklärung ausländischer Entscheidungen über die Obsorge und die persönlichen Kontakte, zum Schutz eines Erwachsenen \(§ 131a Z 1 AußStrG\) sowie für die Anerkennung, Vollstreckbarerklärung und Vollstreckung ausländischer Maßnahmen zum Schutz eines Erwachsenen \(§ 131a Z 2 AußStrG\) ist das in § 109 bezeichnete Bezirksgericht zuständig, soweit nicht nach Völkerrecht oder in Rechtsakten der Europäischen Union anderes bestimmt ist\.
+> Für die Anerkennung und Vollstreckbarerklärung ausländischer Entscheidungen über die Obsorge und die persönlichen Kontakte, zum Schutz eines Erwachsenen \(§ 131a Z 1 AußStrG\) sowie für die Anerkennung, Vollstreckbarerklärung und Vollstreckung ausländischer Maßnahmen zum Schutz eines Erwachsenen \(§ 131a Z 2 AußStrG\) ist das in § 109 bezeichnete Bezirksgericht zuständig, soweit nicht nach Völkerrecht oder in Rechtsakten der Europäischen Union anderes bestimmt ist\.
 
 ### § 110 JN
 
 > `(1)` Für die im § 109 genannten Angelegenheiten ist die inländische Gerichtsbarkeit gegeben, wenn der Minderjährige oder die sonstige schutzberechtigte Person
-> 
+>
 >> `1.` österreichischer Staatsbürger ist oder
-> 
+>
 >> `2.` den gewöhnlichen Aufenthalt oder, soweit es um dringende Maßnahmen geht, zumindest seinen Aufenthalt im Inland hat oder
-> 
+>
 >> `3.` Vermögen im Inland hat, soweit es um dieses Vermögen betreffende Maßnahmen geht\.
 
 > `(2)` Hat der österreichische Minderjährige oder die sonstige schutzberechtigte Person den gewöhnlichen Aufenthalt oder Vermögen im Ausland oder handelt es sich um einen ausländischen Minderjährigen oder eine ausländische sonstige schutzberechtigte Person, so kann das Gericht von der Einleitung oder Fortsetzung des Verfahrens absehen, soweit und solange durch die im Ausland getroffenen oder zu erwartenden Maßnahmen die Rechte und Interessen des Minderjährigen oder der sonstigen schutzberechtigten Person ausreichend gewahrt werden\. Im Falle eines österreichischen Minderjährigen ist vor der Entscheidung die Bezirksverwaltungsbehörde zu hören, in deren Sprengel das Gericht seinen Sitz hat\.
@@ -1226,7 +1226,7 @@ Für die Anerkennung und Vollstreckbarerklärung ausländischer Entscheidungen �
 
 ### § 113 JN — Legitimation unehelicher Kinder
 
-Sofern bei einer Legitimation unehelicher Kinder das Gericht mitzuwirken hat, ist hiezu, wenn für die zu legitimierende Person bereits ein Pflegschaftsverfahren anhängig ist, das Pflegschaftsgericht, sonst aber das Bezirksgericht zuständig, bei dem der Vater des zu legitimierenden unehelichen Kindes den allgemeinen Gerichtsstand in Streitsachen hat\.
+> Sofern bei einer Legitimation unehelicher Kinder das Gericht mitzuwirken hat, ist hiezu, wenn für die zu legitimierende Person bereits ein Pflegschaftsverfahren anhängig ist, das Pflegschaftsgericht, sonst aber das Bezirksgericht zuständig, bei dem der Vater des zu legitimierenden unehelichen Kindes den allgemeinen Gerichtsstand in Streitsachen hat\.
 
 ### § 113a JN — Annahme an Kindesstatt
 
@@ -1237,15 +1237,15 @@ Sofern bei einer Legitimation unehelicher Kinder das Gericht mitzuwirken hat, is
 ### § 113b JN
 
 > `(1)` Für die Bewilligung der Annahme an Kindesstatt ist die inländische Gerichtsbarkeit gegeben, wenn
-> 
+>
 >> `1.` der Annehmende, im Falle der Annahme durch Ehegatten einer von ihnen, oder das Wahlkind österreichischer Staatsbürger ist oder
-> 
+>
 >> `2.` auch nur eine dieser Personen staatenlos ist und ihren gewöhnlichen Aufenthalt, bei Fehlen eines solchen ihren Aufenthalt im Inland hat\.
 
 > `(2)` Außer den Fällen des Abs\. 1 ist die inländische Gerichtsbarkeit nur gegeben, wenn
-> 
+>
 >> `1.` der Annehmende, im Falle der Annahme durch Ehegatten einer von ihnen, und das Wahlkind ihren gewöhnlichen Aufenthalt im Inland haben oder
-> 
+>
 >> `2.` nur eine dieser Personen ihren gewöhnlichen Aufenthalt im Inland hat und überdies entweder die inländische Pflegschaftsgerichtsbarkeit für das Wahlkind gegeben ist oder keiner der Staaten, denen eine der genannten Personen angehört, in dieser Sache Gerichtsbarkeit für die Annahme an Kindesstatt gewährt\.
 
 > `(3)` Die vorstehenden Bestimmungen gelten für den Widerruf der Bewilligung und die Aufhebung der Wahlkindschaft sinngemäß\.
@@ -1290,55 +1290,55 @@ Sofern bei einer Legitimation unehelicher Kinder das Gericht mitzuwirken hat, is
 
 ### § 117 JN — Realangelegenheiten — 
 
-Die Vornahme aller Realakte, als insbesondere eines Augenscheines und Sachverständigenbefundes, einer Inventur, Schätzung, Feilbietung, Einführung eines Verwalters kommt, soferne nicht bezüglich einzelner Akte oder bestimmter Verfahren etwas anderes angeordnet ist, dem Bezirksgerichte zu, in dessen Sprengel sich die Sache befindet\.
+> Die Vornahme aller Realakte, als insbesondere eines Augenscheines und Sachverständigenbefundes, einer Inventur, Schätzung, Feilbietung, Einführung eines Verwalters kommt, soferne nicht bezüglich einzelner Akte oder bestimmter Verfahren etwas anderes angeordnet ist, dem Bezirksgerichte zu, in dessen Sprengel sich die Sache befindet\.
 
 ### § 118 JN — Anlegung und Führung der öffentlichen Bücher
 
-Zur Anlegung und Führung der öffentlichen Bücher, für die das Allgemeine Grundbuchsgesetz 1955 gilt, sind nach der Lage der unbeweglichen Sachen zuständig:  
-&nbsp; *\(Anm\.: Z 1 aufgehoben durch Art\. 1 Z 10, BGBl\. I Nr\. 61/2022\)*
+> Zur Anlegung und Führung der öffentlichen Bücher, für die das Allgemeine Grundbuchsgesetz 1955 gilt, sind nach der Lage der unbeweglichen Sachen zuständig:  
+> &nbsp; *\(Anm\.: Z 1 aufgehoben durch Art\. 1 Z 10, BGBl\. I Nr\. 61/2022\)*
 
 > `2.` bei unbeweglichen Sachen, die Gegenstand der Bergbücher sind,
-> 
+>
 >> `a)` das Bezirksgericht Graz\-Ost I für den Sprengel des Landesgerichtes für Zivilrechtssachen Graz,
-> 
+>
 >> `b)` das Bezirksgericht Innsbruck für Tirol und Vorarlberg,
-> 
+>
 >> `c)` das Bezirksgericht Klagenfurt für Kärnten,
-> 
+>
 >> `d)` das Bezirksgericht Leoben für den Sprengel des Landesgerichtes Leoben,
-> 
+>
 >> `e)` das Bezirksgericht Salzburg für Salzburg,
-> 
+>
 >> `f)` das Bezirksgericht Steyr für Oberösterreich,
-> 
+>
 >> `g)` das Bezirksgericht Innere Stadt Wien für Wien, Niederösterreich und Burgenland;
 
 > `3.` bei unbeweglichen Sachen, die Gegenstand der Eisenbahnbücher sind,
 
-&nbsp; das Bezirksgericht am Sitze des Gerichtshofes, der nach den besonderen Vorschriften zur Anlegung und Führung der Eisenbahnbücher zuständig war, in Wien das Bezirksgericht Innere Stadt Wien, in Graz das Bezirksgericht Graz\-Ost I;
+> &nbsp; das Bezirksgericht am Sitze des Gerichtshofes, der nach den besonderen Vorschriften zur Anlegung und Führung der Eisenbahnbücher zuständig war, in Wien das Bezirksgericht Innere Stadt Wien, in Graz das Bezirksgericht Graz\-Ost I;
 
 > `4.` bei anderen unbeweglichen Sachen
 
-&nbsp; das Bezirksgericht, in dessen Sprengel die unbeweglichen Sachen ganz oder mit ihren Hauptbestandteilen liegen\.
+> &nbsp; das Bezirksgericht, in dessen Sprengel die unbeweglichen Sachen ganz oder mit ihren Hauptbestandteilen liegen\.
 
 ### § 119 JN — Aufkündigung von Hypothekarforderungen — 
 
-Die gerichtliche Aufkündigung einer Hypothekarforderung \(§\. 59 allgemeines Grundbuchsgesetz\) hat stets bei dem Grundbuchsgerichte zu erfolgen\.
+> Die gerichtliche Aufkündigung einer Hypothekarforderung \(§\. 59 allgemeines Grundbuchsgesetz\) hat stets bei dem Grundbuchsgerichte zu erfolgen\.
 
 ### § 120 JN — Führung des Firmenbuchs; gesellschaftsrechtliche Angelegenheiten
 
 > `(1)` Die mit Handelssachen betrauten Gerichtshöfe erster Instanz sind sachlich zuständig
-> 
+>
 >> `1.` zur Führung des Firmenbuchs;
-> 
+>
 >> `2.` für die nach §§ 146 Abs\. 2, 147, 157 Abs\. 2, 166 Abs\. 3, 183 Abs\. 3, 270 Abs\. 3 bis 5, 282 und 283 UGB vom Gericht zu erledigenden Angelegenheiten;
-> 
+>
 >> `3.` für die gemäß §§ 225c bis 225l AktG vom Gericht zu erledigenden Angelegenheiten;
-> 
+>
 >> `4.` für die nach dem SpaltG vom Gericht zu erledigenden Angelegenheiten;
-> 
+>
 >> `5.` für die nach dem UmwG vom Gericht zu erledigenden Angelegenheiten;
-> 
+>
 >> `6.` für die nach dem GesAusG vom Gericht zu erledigenden Angelegenheiten\.
 
 > `(2)` Örtlich zuständig ist jenes Gericht \(Abs\. 1 Z 1, 2 und 6\), in dessen Sprengel das Unternehmen seine Hauptniederlassung oder seinen Sitz hat\. Dieses Gericht hat auch zu prüfen, ob eine Zweigniederlassung errichtet und ob § 29 UGB beachtet ist\.
@@ -1350,11 +1350,11 @@ Die gerichtliche Aufkündigung einer Hypothekarforderung \(§\. 59 allgemeines G
 > `(5)` Eine Delegation aus Gründen der Zweckmäßigkeit ist unzulässig\.
 
 > `(5a)` Örtlich zuständig ist jenes Gericht für die Angelegenheiten
-> 
+>
 >> `1.` gemäß Abs\. 1 Z 3, in dessen Sprengel die übernehmende Gesellschaft ihren Sitz hat;
-> 
+>
 >> `2.` gemäß Abs\. 1 Z 4, in dessen Sprengel die übertragende Gesellschaft ihren Sitz hat;
-> 
+>
 >> `3.` gemäß Abs\. 1 Z 5, in dessen Sprengel die umzuwandelnde Kapitalgesellschaft ihren Sitz hat\.
 
 > `(6)` Entsteht eine neue Gesellschaft durch Spaltung nach dem SpaltG, so ist für ihre erste Eintragung und für die Auskunftserteilung gemäß § 16 SpaltG das Gericht örtlich zuständig, in dessen Sprengel die übertragende Gesellschaft ihren Sitz hat\. Ist nach dem UmwG bei einer Umwandlung ein Nachfolgerechtsträger in das Firmenbuch einzutragen, so ist für dessen Eintragung das Gericht örtlich zuständig, in dessen Sprengel die umzuwandelnde Kapitalgesellschaft ihren Sitz hat\.
@@ -1363,15 +1363,15 @@ Die gerichtliche Aufkündigung einer Hypothekarforderung \(§\. 59 allgemeines G
 
 ### § 120a JN — Bestätigungen über die Führung der Handelsbücher — 
 
-Zur Ertheilung von Bestätigungen über die gesetzmäßige Beschaffenheit der Handelsbücher ist, wenn die Bücher an einem Orte geführt werden, an welchem ein Handelsgericht oder ein Landesgericht seinen Sitz hat, dieser Gerichtshof, sonst aber das Bezirksgericht zuständig, in dessen Sprengel die Handelsbücher geführt werden\.
+> Zur Ertheilung von Bestätigungen über die gesetzmäßige Beschaffenheit der Handelsbücher ist, wenn die Bücher an einem Orte geführt werden, an welchem ein Handelsgericht oder ein Landesgericht seinen Sitz hat, dieser Gerichtshof, sonst aber das Bezirksgericht zuständig, in dessen Sprengel die Handelsbücher geführt werden\.
 
 ### § 121 JN — Beglaubigung von Unterschriften und Abschriften, und Aufnahme letztwilliger Anordnungen — 
 
-Die Beglaubigung von Unterschriften, die Vidimirung von Abschriften und die gerichtliche Aufnahme letztwilliger Anordnungen können von jedem Bezirksgerichte vorgenommen werden\.
+> Die Beglaubigung von Unterschriften, die Vidimirung von Abschriften und die gerichtliche Aufnahme letztwilliger Anordnungen können von jedem Bezirksgerichte vorgenommen werden\.
 
 ### § 122 JN — Mehrheit von Bezirksgerichten an einem Orte
 
-Sind die zur nicht streitigen Gerichtsbarkeit gehörigen Rechtssachen bei dem Bezirksgericht an einem Ort anzubringen, für den mehrere Bezirksgerichte eingerichtet sind, so wird das zuständige Gericht durch den Wohnsitz, den gewöhnlichen Aufenthalt oder, wenn sie an diesem Ort keines von beiden hat, durch den Aufenthalt derjenigen Personen bestimmt, deren allgemeiner Gerichtsstand in Streitsachen für die Zuständigkeit entscheiden soll\. Hat diese Person an diesem Ort weder Wohnsitz noch Aufenthalt, so kann die Rechtssache bei jedem der an diesem Ort befindlichen Bezirksgericht anhängig gemacht werden\.
+> Sind die zur nicht streitigen Gerichtsbarkeit gehörigen Rechtssachen bei dem Bezirksgericht an einem Ort anzubringen, für den mehrere Bezirksgerichte eingerichtet sind, so wird das zuständige Gericht durch den Wohnsitz, den gewöhnlichen Aufenthalt oder, wenn sie an diesem Ort keines von beiden hat, durch den Aufenthalt derjenigen Personen bestimmt, deren allgemeiner Gerichtsstand in Streitsachen für die Zuständigkeit entscheiden soll\. Hat diese Person an diesem Ort weder Wohnsitz noch Aufenthalt, so kann die Rechtssache bei jedem der an diesem Ort befindlichen Bezirksgericht anhängig gemacht werden\.
 
 ## Vierter Teil
 
@@ -1382,9 +1382,9 @@ Sind die zur nicht streitigen Gerichtsbarkeit gehörigen Rechtssachen bei dem Be
 > `(1)` Die §§ 49 und 59a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 148/2020, treten mit 1\. Jänner 2021 in Kraft und sind auf Klagen anzuwenden, die nach dem 31\. Dezember 2020 eingebracht werden\.
 
 > `(2)` Für das Inkrafttreten der Zivilverfahrens\-Novelle 2022 \(ZVN 2022\), BGBl\. I Nr\. 61/2022, gilt Folgendes:
-> 
+>
 >> `1.` Die §§ 7, 8, 10, 15 bis 18 samt Überschrift, 92b samt Überschrift, 92c, 101a samt Überschrift, 109b und 118 in der Fassung der ZVN 2022 treten mit 1\. Mai 2022 in Kraft\. Die §§ 7, 8, 10, 15 bis 18 samt Überschrift sind auf nach dem 30\. April 2022 zu bestellende fachkundige Laienrichter in Handelssachen anzuwenden\. §§ 92b und 101a sind in dieser Fassung auf Klagen anzuwenden, die nach dem 30\. April 2022 eingebracht werden\.
-> 
+>
 >> `2.` Die Verordnung der Bundesregierung vom 26\. Juli 1933 über Änderungen der Gerichtsverfassung und des gerichtlichen Verfahrens \(Achte Gerichtsentlastungsnovelle\), BGBl\. Nr\. 346/1933, und die Verordnung der Minister der Justiz und des Handels vom 1\. Juni 1897 über die Ernennung der fachmännischen Laienrichter aus dem Handelsstande und aus dem Kreise der Schiffahrtskundigen, RGBl\. Nr\. 129/1897, werden mit Ablauf des 30\. April 2022 aufgehoben\.
-> 
+>
 >> `3.` Soweit in anderen Bundesgesetzen auf den Begriff „fachmännischer Laienrichter“ in der jeweiligen grammatikalischen Form Bezug genommen wird, tritt mit Wirkung vom 1\. Mai 2022 an dessen Stelle der Begriff „fachkundiger Laienrichter“ in der jeweiligen grammatikalisch richtigen Form\. Dies gilt nicht für die Verwendung dieses Begriffs in Schluss\- und Übergangsbestimmungen sowie in In\- und Außerkrafttretensbestimmungen\.

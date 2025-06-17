@@ -216,99 +216,99 @@ Der Nationalrat hat beschlossen:
 ### § 2 StVO — Begriffsbestimmungen
 
 > `(1)` Im Sinne dieses Bundesgesetzes gilt als
-> 
+>
 >> `1.` Straße: eine für den Fußgänger\- oder Fahrzeugverkehr bestimmte Landfläche samt den in ihrem Zuge befindlichen und diesem Verkehr dienenden baulichen Anlagen;
-> 
+>
 >> `1a.` Wohnstraße: eine für den Fußgänger\- und beschränkten Fahrzeugverkehr gemeinsam bestimmte und als solche gekennzeichnete Straße;
-> 
+>
 >> `2.` Fahrbahn: der für den Fahrzeugverkehr bestimmte Teil der Straße;
-> 
+>
 >> `2a.` Begegnungszone: eine Straße, deren Fahrbahn für die gemeinsame Nutzung durch Fahrzeuge und Fußgänger bestimmt ist, und die als solche gekennzeichnet ist;
-> 
+>
 >> `3.` Hauptfahrbahn: die Fahrbahn, die bei Vorhandensein von wenigstens zwei Fahrbahnen für den Durchzugsverkehr bestimmt und durch ihre besondere Ausführung erkennbar ist, sofern sich aus Straßenverkehrszeichen und Verkehrsleiteinrichtungen nichts anderes ergibt;
-> 
+>
 >> `3a.` Richtungsfahrbahn: eine Fahrbahn, die für den Verkehr in einer Fahrtrichtung bestimmt und von der Fahrbahn für den Verkehr in der entgegengesetzten Fahrtrichtung durch bauliche Einrichtungen getrennt ist;
-> 
+>
 >> `3b.` Einbahnstraße: eine Straße, deren Fahrbahn für den Verkehr in einer Richtung bestimmt ist;
-> 
+>
 >> `3c.` Kreisverkehr: eine kreisförmige oder annähernd kreisförmig verlaufende Fahrbahn, die für den Verkehr in eine Richtung bestimmt ist;
-> 
+>
 >> `4.` Nebenfahrbahn: jede neben einer Hauptfahrbahn verlaufende, von dieser jedoch getrennte Fahrbahn einer Straße;
-> 
+>
 >> `5.` Fahrstreifen: ein Teil der Fahrbahn, dessen Breite für die Fortbewegung einer Reihe mehrspuriger Fahrzeuge ausreicht;
-> 
+>
 >> `6.` Straßenbankett: der seitliche, nicht befestigte Teil einer Straße, der zwischen der Fahrbahn und dem Straßenrande liegt, soweit dieser Straßenteil nicht besonderen Zwecken vorbehalten ist \(z\. B\. Gehsteige, Rad\- oder Reitwege und sonstige besondere straßenbauliche Anlagen\);
-> 
+>
 >> `6a.` Pannenstreifen: der rechts neben den Fahrstreifen einer Richtungsfahrbahn befindliche befestigte Teil der Straße, sofern dieser nicht durch Bodenmarkierungen als Verzögerungs\- oder Beschleunigungsstreifen gekennzeichnet ist;
-> 
+>
 >> `6b.` Verzögerungsstreifen: der Fahrstreifen, der bei Ausfahrten zum Einordnen in die Ausfahrt dient;
-> 
+>
 >> `6c.` Beschleunigungsstreifen: der Fahrstreifen, der bei Einfahrten zum Einordnen in den fließenden Verkehr dient;
-> 
+>
 >> `7.` Radfahrstreifen: ein für den Fahrradverkehr bestimmter und besonders gekennzeichneter Teil der Fahrbahn, wobei der Verlauf durch wiederholte Markierung mit Fahrradsymbolen angezeigt wird;
-> 
+>
 >> `7a.` Mehrzweckstreifen: ein Radfahrstreifen oder ein Abschnitt eines Radfahrstreifens, der unter besonderer Rücksichtnahme auf die Radfahrer von anderen Fahrzeugen befahren werden darf, wenn für diese der links an den Mehrzweckstreifen angrenzende Fahrstreifen nicht breit genug ist oder wenn das Befahren durch Richtungspfeile auf der Fahrbahn für das Einordnen zur Weiterfahrt angeordnet ist\.
-> 
+>
 >> `8.` Radweg: ein für den Verkehr mit Fahrrädern bestimmter und als solcher gekennzeichneter Weg;
-> 
+>
 >> `9.` Reitweg: ein für den Reitverkehr bestimmter und als solcher gekennzeichneter Weg;
-> 
+>
 >> `10.` Gehsteig: ein für den Fußgängerverkehr bestimmter, von der Fahrbahn durch Randsteine, Bodenmarkierungen oder dgl\. abgegrenzter Teil der Straße;
-> 
+>
 >> `11.` Gehweg: ein für den Fußgängerverkehr bestimmter und als solcher gekennzeichneter Weg;
-> 
+>
 >> `11a.` Geh\- und Radweg: ein für den Fußgänger\- und Fahrradverkehr bestimmter und als solcher gekennzeichneter Weg;
-> 
+>
 >> `11b.` Radfahranlage: ein Radfahrstreifen, ein Mehrzweckstreifen, ein Radweg, Geh\- und Radweg oder eine Radfahrerüberfahrt;
-> 
+>
 >> `12.` Schutzweg: ein durch gleichmäßige Längsstreifen \(sogenannte „Zebrastreifen“\) gekennzeichneter, für die Überquerung der Fahrbahn durch Fußgänger bestimmter Fahrbahnteil;
-> 
+>
 >> `12a.` Radfahrerüberfahrt: ein auf beiden Seiten durch gleichmäßig unterbrochene Quermarkierungen gekennzeichneter, für die Überquerung der Fahrbahn durch Radfahrer bestimmter Fahrbahnteil; ist unmittelbar neben der Radfahrerüberfahrt ein Schutzweg markiert, so kann auf dieser Seite der Radfahrerüberfahrt die Quermarkierung entfallen; ist derselbe Fahrbahnteil in Fortsetzung eines Geh\-und Radwegs gemäß § 52 Z 17a lit\. a oder § 53 Abs\. 1 Z 28 lit\. a für die Überquerung der Fahrbahn durch Fußgänger und Radfahrer bestimmt, so sind die Quermarkierungen beiderseits des Schutzwegs jeweils versetzt zu den Längsstreifen des Schutzwegs anzubringen;
-> 
+>
 >> `13.` Schutzinsel: ein für Fußgänger innerhalb der Fahrbahn bestimmter und wie ein Gehsteig ausgeführter Straßenteil;
-> 
+>
 >> `14.` Selbständiger Gleiskörper: ein von der Fahrbahn durch bauliche Einrichtungen getrennter, dem Verkehr mit Schienenfahrzeugen dienender Bahnkörper im Verkehrsraum der Straße samt den darauf errichteten, dem Verkehr und Betrieb von Schienenfahrzeugen dienenden Anlagen und Einrichtungen;
-> 
+>
 >> `15.` Ortsgebiet: das Straßennetz innerhalb der Hinweiszeichen „Ortstafel“ \(§ 53 Z 17a\) und „Ortsende“ \(§ 53 Z 17b\);
-> 
+>
 >> `16.` Freilandstraße: eine Straße außerhalb von Ortsgebieten;
-> 
+>
 >> `17.` Kreuzung: eine Stelle, auf der eine Straße eine andere überschneidet oder in sie einmündet, gleichgültig in welchem Winkel;
-> 
+>
 >> `18.` geregelte Kreuzung: eine Kreuzung, auf welcher der Verkehr durch Lichtzeichen oder von Verkehrsposten durch Armzeichen geregelt wird; blinkendes gelbes Licht gilt nicht als Regelung;
-> 
+>
 >> `19.` Fahrzeug: ein zur Verwendung auf Straßen bestimmtes oder auf Straßen verwendetes Beförderungsmittel oder eine fahrbare Arbeitsmaschine, ausgenommen Rollstühle, Kinderwagen, Schubkarren und ähnliche, vorwiegend zur Verwendung außerhalb der Fahrbahn bestimmte Kleinfahrzeuge \(etwa Mini\- und Kleinroller ohne Sitzvorrichtung, mit Lenkstange, Trittbrett und mit einem äußeren Felgendurchmesser von höchstens 300 mm\) sowie fahrzeugähnliches Spielzeug \(etwa Kinderfahrräder mit einem äußeren Felgendurchmesser von höchstens 300 mm und einer erreichbaren Fahrgeschwindigkeit von höchstens 5 km/h\) und Wintersportgeräte;
-> 
+>
 >> `20.` Gesamtgewicht eines Fahrzeuges \(Anhängers\): das Gewicht des stillstehenden, fahrbereiten Fahrzeuges \(Anhängers\) samt Ladung, dem Lenker und allen gleichzeitig beförderten Personen;
-> 
+>
 >> `21.` Fuhrwerk: ein Fahrzeug, das nach seiner Bestimmung durch Menschen oder Tiere fortbewegt wird, sowie Kraftfahrzeuge mit einer Bauartgeschwindigkeit von nicht mehr als 10 km/h mit oder ohne Anhänger;
-> 
+>
 >> `22.` Fahrrad:
->> 
+>>
 >>> `a)` ein Fahrzeug, das mit einer Vorrichtung zur Übertragung der menschlichen Kraft auf die Antriebsräder ausgestattet ist,
->> 
+>>
 >>> `b)` ein Fahrzeug nach lit\. a, das zusätzlich mit einem elektrischen Antrieb gemäß § 1 Abs\. 2a KFG 1967 ausgestattet ist \(Elektrofahrrad\),
->> 
+>>
 >>> `c)` ein zweirädriges Fahrzeug, das unmittelbar durch menschliche Kraft angetrieben wird \(Roller\), oder
->> 
+>>
 >>> `d)` ein elektrisch angetriebenes Fahrzeug, dessen Antrieb dem eines Elektrofahrrads im Sinne des § 1 Abs\. 2a KFG 1967 entspricht;
-> 
+>
 >> `23.` Lastfahrzeug: ein zur Beförderung von Gütern bestimmtes Kraftfahrzeug, Fuhrwerk oder ein ausschließlich zur Beförderung von Gütern bestimmtes Fahrrad;
-> 
+>
 >> `24.` Schienenfahrzeug: ein an Gleise gebundenes Fahrbetriebsmittel; ein Oberleitungskraftfahrzeug ist jedoch kein Schienenfahrzeug im Sinne dieses Bundesgesetzes;
-> 
+>
 >> `24a.` Oberleitungsomnibus: unbeschadet § 5 Abs\. 3 Eisenbahngesetz 1957 und § 39 Abs\. 1 Kraftfahrliniengesetz ein Omnibus, der im regionalen Linienverkehr eingesetzt wird und dessen Antriebsenergie Oberleitungen entnommen wird;
-> 
+>
 >> `25.` Einsatzfahrzeug: ein Fahrzeug, das auf Grund kraftfahrrechtlicher oder straßenpolizeilicher Vorschriften als Warnzeichen \(§ 22\) blaues Licht und Schallzeichen mit Aufeinanderfolge verschieden hoher Töne führt, für die Dauer der Verwendung eines dieser Signale;
-> 
+>
 >> `26.` Anhalten: das durch die Verkehrslage oder durch sonstige wichtige Umstände erzwungene Zum\-Stillstand\-Bringen eines Fahrzeuges;
-> 
+>
 >> `27.` Halten: eine nicht durch die Verkehrslage oder durch sonstige wichtige Umstände erzwungene Fahrtunterbrechung bis zu zehn Minuten oder für die Dauer der Durchführung einer Ladetätigkeit \(§ 62\);
-> 
+>
 >> `28.` Parken: das Stehenlassen eines Fahrzeuges für eine längere als die in Z 27 angeführte Zeitdauer;
-> 
+>
 >> `29.` Überholen: das Vorbeibewegen eines Fahrzeuges an einem auf derselben Fahrbahn in der gleichen Richtung fahrenden Fahrzeug; nicht als Überholen gelten das Vorbeibewegen an einem auf einem Verzögerungs\- oder Beschleunigungsstreifen fahrenden Fahrzeug oder an einem auf einem Radfahrstreifen fahrenden Radfahrer sowie das Nebeneinanderfahren von Fahrzeugreihen, auch mit unterschiedlicher Geschwindigkeit, auf Fahrbahnen mit mehr als einem Fahrstreifen für die betreffende Fahrtrichtung und das Nebeneinanderfahren, auch mit unterschiedlicher Geschwindigkeit, im Sinne des § 7 Abs\. 3a\.
-> 
+>
 >> `30.` Vorbeifahren: das Vorbeibewegen eines Fahrzeuges an einer sich auf der Fahrbahn befindenden, sich nicht fortbewegenden Person oder Sache, insbesondere an einem anhaltenden, haltenden oder parkenden Fahrzeug\.
 
 > `(2)` Die Begriffsbestimmungen für Kraftfahrzeuge sind in den kraftfahrrechtlichen Vorschriften enthalten\.
@@ -324,11 +324,11 @@ Der Nationalrat hat beschlossen:
 ### § 4 StVO — Verkehrsunfälle
 
 > `(1)` Alle Personen, deren Verhalten am Unfallsort mit einem Verkehrsunfall in ursächlichem Zusammenhange steht, haben
-> 
+>
 >> `a)` wenn sie ein Fahrzeug lenken, sofort anzuhalten,
-> 
+>
 >> `b)` wenn als Folge des Verkehrsunfalles Schäden für Personen oder Sachen zu befürchten sind, die zur Vermeidung solcher Schäden notwendigen Maßnahmen zu treffen,
-> 
+>
 >> `c)` an der Feststellung des Sachverhaltes mitzuwirken\.
 
 > `(2)` Sind bei einem Verkehrsunfall Personen verletzt worden, so haben die im Abs\. 1 genannten Personen Hilfe zu leisten; sind sie dazu nicht fähig, so haben sie unverzüglich für fremde Hilfe zu sorgen\. Ferner haben sie die nächste Polizeidienststelle sofort zu verständigen\. Wenn bei einem Verkehrsunfall, an dem ein Schienenfahrzeug oder ein Omnibus des Kraftfahrlinienverkehrs beteiligt ist, sich erst nach dem Wegfahren des Schienenfahrzeuges bzw\. des Omnibusses nach dem Unfall eine verletzte Person meldet, kann auch das Unternehmen, dem das Schienenfahrzeug bzw\. der Omnibus gehört, die Polizeidienststelle verständigen\.
@@ -352,21 +352,21 @@ Der Nationalrat hat beschlossen:
 > `(1a)` Werden in anderen Gesetzen an die Beeinträchtigung durch Alkohol oder an das Vorliegen eines die Zurechnungsfähigkeit nicht ausschließenden Rauschzustandes zivilrechtliche Rechtswirkungen oder Auswirkungen im Bereich des gerichtlichen Strafrechts geknüpft, so treten diese nur in den Fällen des Abs\. 1 oder beim dritten oder häufigeren Verstoß innerhalb eines Zeitraumes von zwölf Monaten ab dem ersten Verstoß gegen § 14 Abs\. 8 FSG, BGBl\. I Nr\. 120/1997, ein\.
 
 > `(2)` Organe des amtsärztlichen Dienstes oder besonders geschulte und – soweit es sich nicht um Organe der Bundespolizei handelt – von der Behörde hierzu ermächtigte Organe der Straßenaufsicht sind berechtigt, jederzeit die Atemluft von Personen, die ein Fahrzeug lenken, in Betrieb nehmen oder zu lenken oder in Betrieb zu nehmen versuchen, auf Alkoholgehalt zu untersuchen\. Sie sind außerdem berechtigt, die Atemluft von Personen,
-> 
+>
 >> `1.` die verdächtig sind, in einem vermutlich durch Alkohol beeinträchtigten Zustand ein Fahrzeug gelenkt zu haben, oder
-> 
+>
 >> `2.` bei denen der Verdacht besteht, dass ihr Verhalten am Unfallsort mit einem Verkehrsunfall in ursächlichem Zusammenhang steht,
-> 
+>
 > &nbsp; auf Alkoholgehalt zu untersuchen\. Wer zu einer Untersuchung der Atemluft aufgefordert wird, hat sich dieser zu unterziehen\.
 
 > `(2a)` Die Organe des amtsärztlichen Dienstes oder besonders geschulte und – soweit es sich nicht um Organe der Bundespolizei handelt – von der Behörde hierzu ermächtigte Organe der Straßenaufsicht sind weiters berechtigt, jederzeit die Atemluft von Personen, die ein Fahrzeug lenken, in Betrieb nehmen oder zu lenken oder in Betrieb zu nehmen versuchen, auf den Verdacht der Beeinträchtigung durch Alkohol zu überprüfen\. Ergibt die Überprüfung der Atemluft den Verdacht der Beeinträchtigung durch Alkohol oder wird die Überprüfung verweigert, haben die genannten Organe eine Untersuchung der Atemluft gemäß Abs\. 2 vorzunehmen\.
 
 > `(2b)` Abs\. 2 und 2a gelten auch für die Untersuchung und die Überprüfung der Atemluft von
-> 
+>
 >> `1.` Fahrlehrern bei Schulfahrten gemäß § 114 Abs\. 4 und 4a KFG 1967,
-> 
+>
 >> `2.` Begleitern bei Übungsfahrten gemäß § 122 Abs\. 2 und 5 KFG 1967 oder bei Ausbildungsfahrten gemäß § 19 Abs\. 3 und 6 FSG oder
-> 
+>
 >> `3.` Ausbildnern bei Lehrfahrten gemäß § 122a Abs\. 2 KFG 1967\.
 
 > `(3)` Die Untersuchung der Atemluft auf Alkoholgehalt ist mit einem Gerät vorzunehmen, das den Alkoholgehalt der Atemluft mißt und entsprechend anzeigt \(Alkomat\)\.
@@ -378,22 +378,22 @@ Der Nationalrat hat beschlossen:
 > `(4a)` Die Organe der Straßenaufsicht sind weiters berechtigt, Personen, bei denen eine Untersuchung gemäß Abs\. 2 aus Gründen, die in der Person des Probanden gelegen sind, nicht möglich war und die verdächtig sind, sich in einem durch Alkohol beeinträchtigten Zustand zu befinden, zu einem im öffentlichen Sanitätsdienst stehenden, bei einer Landespolizeidirektion tätigen, bei einer öffentlichen Krankenanstalt diensthabenden oder im Sinne des § 5a Abs\. 4 ausgebildeten und von der Landesregierung hierzu ermächtigten Arzt zur Blutabnahme zum Zweck der Bestimmung des Blutalkoholgehaltes zu bringen\.
 
 > `(5)` Die Organe der Straßenaufsicht sind weiters berechtigt, Personen, von denen vermutet werden kann, dass sie sich in einem durch Alkohol beeinträchtigten Zustand befinden, zum Zweck der Feststellung des Grades der Beeinträchtigung durch Alkohol zu einem im öffentlichen Sanitätsdienst stehenden, bei einer Landespolizeidirektion tätigen, bei einer öffentlichen Krankenanstalt diensthabenden oder im Sinne des § 5a Abs\. 4 ausgebildeten und von der Landesregierung hierzu ermächtigten Arzt zu bringen, sofern eine Untersuchung gemäß Abs\. 2
-> 
+>
 >> `1.` keinen den gesetzlichen Grenzwert gemäß Abs\. 1 erreichenden Alkoholgehalt ergeben hat oder
-> 
+>
 >> `2.` aus in der Person des Probanden gelegenen Gründen nicht möglich war\.
-> 
+>
 > &nbsp; Wer zum Zweck der Feststellung des Grades der Beeinträchtigung durch Alkohol zu einem Arzt gebracht wird, hat sich einer Untersuchung durch diesen zu unterziehen; die genannten Ärzte sind verpflichtet, die Untersuchung durchzuführen\.
 
 > `(6)` \(Verfassungsbestimmung\) An Personen, die gemäß Abs\. 4a zu einem Arzt gebracht werden, ist eine Blutabnahme zum Zweck der Bestimmung des Blutalkoholgehaltes vorzunehmen; die Betroffenen haben diese Blutabnahme vornehmen zu lassen\.
 > *\(Anm\.:Abs\. 7 aufgehoben durch BGBl\. I Nr\. 92/1998\)*
 
 > `(8)` Ein bei einer öffentlichen Krankenanstalt diensthabender Arzt hat eine Blutabnahme zum Zweck der Bestimmung des Blutalkoholgehaltes vorzunehmen, wenn eine Person
-> 
+>
 >> `1.` zu diesem Zweck zu ihm gebracht wurde oder
-> 
+>
 >> `2.` dies verlangt und angibt, bei ihr habe eine Untersuchung nach Abs\. 2 eine Alkoholbeeinträchtigung ergeben\.
-> 
+>
 > &nbsp; Der Arzt hat die Blutprobe der nächstgelegenen Polizeidienststelle ohne unnötigen Aufschub zu übermitteln und dieser im Fall der Z 2 Namen, Geburtsdatum und Adresse des Probanden sowie den Zeitpunkt der Blutabnahme bekanntzugeben\. Weiters hat der Arzt eine Blutabnahme vorzunehmen, wenn eine Person zu diesem Zweck zu ihm gebracht wurde, weil bei einer Untersuchung \(Abs\. 9\) eine Beeinträchtigung festgestellt wurde, die auf eine Suchtgifteinnahme schließen lässt; die Blutprobe ist der nächstgelegenen Polizeidienststelle ohne unnötigen Aufschub zu übermitteln\. Übermittelte Blutproben sind durch ein Institut für gerichtliche Medizin oder eine gleichwertige Einrichtung zu untersuchen\. Die Blutprobe darf nicht durch den Probanden selbst übermittelt werden\.
 
 > `(9)` Die Bestimmungen des Abs\. 5 gelten auch für Personen, von denen vermutet werden kann, daß sie sich in einem durch Suchtgift beeinträchtigten Zustand befinden; wer zum Arzt gebracht wird, hat sich der Untersuchung zu unterziehen\. Die in Abs\. 5 genannten Ärzte sind verpflichtet, die Untersuchung durchzuführen\.
@@ -405,11 +405,11 @@ Der Nationalrat hat beschlossen:
 > `(11)` Der Bundesminister für Inneres kann unter Bedachtnahme auf den jeweiligen Stand der Wissenschaft und Technik im Einvernehmen mit dem Bundesminister für Verkehr, Innovation und Technologie durch Verordnung für die Feststellung einer Beeinträchtigung durch Suchtgift geeignete Geräte und Testverfahren bestimmen\.
 
 > `(12)` Ist auf Grund des Ergebnisses der Untersuchung
-> 
+>
 >> `1.` einer Person, die gemäß Abs\. 9 zu einem Arzt gebracht wurde, oder
-> 
+>
 >> `2.` einer Blutprobe, die von einer gemäß Abs\. 9 zu einem Arzt gebrachten Person stammt,
-> 
+>
 > &nbsp; anzunehmen, dass die zum Arzt gebrachte Person Suchtgift missbraucht, so ist an Stelle einer Strafanzeige nach dem Suchtmittelgesetz dieser Umstand der nach dem Hauptwohnsitz der untersuchten Person zuständigen Bezirksverwaltungsbehörde als Gesundheitsbehörde mitzuteilen \(§§ 12 bis 14 des Suchtmittelgesetzes, BGBl\. I Nr\. 112/1997\)\.
 
 ### § 5a StVO
@@ -430,7 +430,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 6 StVO — Benützung schienengleicher Eisenbahnübergänge
 
-Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und bei der Übersetzung solcher Übergänge sowie für die Beachtung der den schienengleichen Eisenbahnübergang sichernden Zeichen gelten die eisenbahnrechtlichen Vorschriften\.
+> Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und bei der Übersetzung solcher Übergänge sowie für die Beachtung der den schienengleichen Eisenbahnübergang sichernden Zeichen gelten die eisenbahnrechtlichen Vorschriften\.
 
 ## II. ABSCHNITT.
 
@@ -461,11 +461,11 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(3)` Liegt im Zuge einer Straße ein Platz, so darf die Fahrt in der gedachten Verlängerung der Straße fortgesetzt werden, sofern sich aus Straßenverkehrszeichen oder Bodenmarkierungen nichts anderes ergibt\.
 
 > `(4)` Die Benützung von Gehsteigen, Gehwegen und Schutzinseln mit Fahrzeugen aller Art und die Benützung von Radfahranlagen mit Fahrzeugen, die keine Fahrräder sind, insbesondere mit Motorfahrrädern, ist verboten\. Dieses Verbot gilt nicht
-> 
+>
 >> `1.` für das Überqueren von Gehsteigen, Gehwegen und Radfahranlagen mit Fahrzeugen auf den hiefür vorgesehenen Stellen, sofern Fußgänger und Radfahrer nicht gefährdet oder gehindert werden,
-> 
+>
 >> `2.` für das Befahren von Mehrzweckstreifen mit Fahrzeugen, für welche der links an den Mehrzweckstreifen angrenzende Fahrstreifen nicht breit genug ist oder wenn das Befahren durch Richtungspfeile auf der Fahrbahn für das Einordnen zur Weiterfahrt angeordnet ist, wenn dadurch Radfahrer weder gefährdet noch behindert werden, sowie
-> 
+>
 >> `3.` für Arbeitsfahrten mit Fahrzeugen oder Arbeitsmaschinen, die nicht mehr als 1 500 kg Gesamtgewicht haben und für die Schneeräumung, die Streuung, die Reinigung oder Pflege verwendet werden\.
 
 > `(4a)` Das Befahren von Schutzwegen mit Fahrzeugen in Gehrichtung der Fußgänger ist verboten; ausgenommen ist das Befahren mit Fahrrädern, wenn links und rechts des Schutzwegs Quermarkierungen gemäß § 2 Abs\. 1 Z 12a angebracht sind\.
@@ -483,9 +483,9 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 ### § 8b StVO
 
 > `(1)` In Tunneln, die mit einem Straßenverkehrszeichen gemäß § 53 Abs\. 1 Z 9g gekennzeichnet sind, ist es verboten,
-> 
+>
 >> `1.` rückwärts zu fahren und
-> 
+>
 >> `2.` umzukehren\.
 
 > `(2)` Muss wegen einer Panne, in Notfällen oder bei Gefahr angehalten werden, ist das Fahrzeug, soweit möglich, in den durch Hinweiszeichen gemäß § 53 Abs\. 1 Z 1c gekennzeichneten Pannenbuchten abzustellen\.
@@ -557,15 +557,15 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(1)` Der Lenker eines Fahrzeuges darf mit diesem nur umkehren, wenn dadurch andere Straßenbenützer weder gefährdet noch behindert werden\.
 
 > `(2)` Das Umkehren ist verboten:
-> 
+>
 >> `a)` im Bereich der Vorschriftszeichen „Einbiegen nach links verboten“, „Umkehren verboten“ und „Vorgeschriebene Fahrtrichtung“,
-> 
+>
 >> `b)` auf engen oder unübersichtlichen Straßenstellen,
-> 
+>
 >> `c)` bei starkem Verkehr,
-> 
+>
 >> `d)` auf Vorrangstraßen im Ortsgebiet, ausgenommen auf geregelten Kreuzungen,
-> 
+>
 >> `e)` auf Einbahnstraßen und auf Richtungsfahrbahnen\.
 
 > `(3)` Wenn es die Verkehrssicherheit erfordert, muß sich der Lenker beim Rückwärtsfahren von einer geeigneten Person einweisen lassen\.
@@ -577,9 +577,9 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(1)` Außer in den Fällen der Abs\. 2 und 2a darf der Lenker eines Fahrzeuges nur links überholen\.
 
 > `(2)` Rechts sind zu überholen:
-> 
+>
 >> `a)` Fahrzeuge, deren Lenker die Absicht anzeigen, nach links einzubiegen oder zum linken Fahrbahnrand zuzufahren und die Fahrzeuge links eingeordnet haben,
-> 
+>
 >> `b)` Schienenfahrzeuge, wenn der Abstand zwischen ihnen und dem rechten Fahrbahnrand genügend groß ist; auf Einbahnstraßen dürfen Schienenfahrzeuge auch in diesem Fall links überholt werden\.
 
 > `(2a)` Fahrzeuge des Straßendienstes, die bei einer Arbeitsfahrt einen anderen als den rechten Fahrstreifen benützen, dürfen rechts überholt werden, sofern nicht noch genügend Platz vorhanden ist, um links zu überholen, und sich aus Straßenverkehrszeichen nichts anderes ergibt\.
@@ -593,27 +593,27 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 ### § 16 StVO — Überholverbote
 
 > `(1)` Der Lenker eines Fahrzeuges darf nicht überholen:
-> 
+>
 >> `a)` wenn andere Straßenbenützer, insbesondere entgegenkommende, gefährdet oder behindert werden könnten oder wenn nicht genügend Platz für ein gefahrloses Überholen vorhanden ist,
-> 
+>
 >> `b)` wenn der Unterschied der Geschwindigkeiten des überholenden und des eingeholten Fahrzeuges unter Bedachtnahme auf allenfalls geltende Geschwindigkeitsbeschränkungen für einen kurzen Überholvorgang zu gering ist,
-> 
+>
 >> `c)` wenn er nicht einwandfrei erkennen kann, daß er sein Fahrzeug nach dem Überholvorgang in den Verkehr einordnen kann, ohne andere Straßenbenützer zu gefährden oder zu behindern,
-> 
+>
 >> `d)` auf und unmittelbar vor Schutzwegen und Radfahrerüberfahrten, sofern der Verkehr in einem solchen Bereich nicht durch Arm\- oder Lichtzeichen geregelt wird\.
 
 > `(2)` Außer in den im Abs\. 1 angeführten Fällen darf der Lenker eines Fahrzeuges nicht überholen:
-> 
+>
 >> `a)` mehrspurige Kraftfahrzeuge auf Straßenstrecken, die durch das Vorschriftszeichen „Überholen verboten“ gekennzeichnet sind; es darf jedoch überholt werden, wenn rechts zu überholen ist“,
-> 
+>
 >> `b)` bei ungenügender Sicht und auf unübersichtlichen Straßenstellen, z\. B\. vor und in unübersichtlichen Kurven und vor Fahrbahnkuppen; es darf jedoch überholt werden, wenn die Fahrbahn durch eine Sperrlinie \(§ 55 Abs\. 2\) geteilt ist und diese Linie vom überholenden Fahrzeug nicht überragt wird,
-> 
+>
 >> `c)` mehrspurige Fahrzeuge auf Kreuzungen, auf denen der Verkehr nicht durch Arm\- oder Lichtzeichen \(§ 36\) geregelt wird; es darf jedoch überholt werden, wenn die Kreuzung auf einer Vorrangstraße durchfahren wird oder wenn rechts zu überholen ist \(§ 15 Abs\. 2\),
-> 
+>
 >> `d)` überholende mehrspurige Fahrzeuge; es darf jedoch überholt werden
->> 
+>>
 >>> `1.` auf der Autobahn, wenn getrennte Fahrbahnen vorhanden sind, die in der Fahrtrichtung mindestens drei Fahrstreifen aufweisen,
->> 
+>>
 >>> `2.` auf anderen Straßen, wenn die Fahrbahn durch eine Sperrlinie \(§ 55 Abs\. 2\) geteilt ist, in der Fahrtrichtung mindestens drei durch Leitlinien \(§ 55 Abs\. 3\) gekennzeichnete Fahrstreifen aufweist und die Sperrlinie vom überholenden Fahrzeug nicht überragt wird\.
 
 > `(3)` Ob und inwieweit das Überholen im Bereich schienengleicher Eisenbahnübergänge verboten ist, richtet sich nach den eisenbahnrechtlichen Vorschriften\.
@@ -627,13 +627,13 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(2a)` Das Vorbeifahren an einem Fahrzeug, an dem hinten eine gelbrote Tafel mit der bildlichen Darstellung von Kindern angebracht ist, und bei dem die Alarmblinkanlage und gelbrote Warnleuchten eingeschaltet sind, ist verboten\. Die näheren Bestimmungen über das Aussehen und die Abmessungen der Tafel sind durch Verordnung des Bundesministers für Verkehr, Innovation und Technologie zu erlassen\.
 
 > `(3)` Das Vorbeifahren an Fahrzeugen, die vor einem Schutzweg oder einer Radfahrerüberfahrt anhalten, um
-> 
+>
 >> `1.` Fußgängern das Überqueren der Fahrbahn,
-> 
+>
 >> `2.` Radfahrern das Benützen der Radfahrerüberfahrt oder
-> 
+>
 >> `3.` Rollschuhfahrern das Benützen des Schutzweges oder der Radfahrerüberfahrt
-> 
+>
 > &nbsp; zu ermöglichen, ist verboten\.
 
 > `(4)` An Fahrzeugen, die gemäß § 18 Abs\. 3 anhalten, darf nur vorbeigefahren werden, wenn wenigstens zwei Fahrstreifen für die betreffende Fahrtrichtung vorhanden sind, auf Fahrbahnen mit Gegenverkehr die Fahrbahnmitte oder eine zur Trennung der Fahrtrichtungen angebrachte Sperrlinie nicht überfahren wird und für den weiteren Fahrstreifen nicht auch schon die Voraussetzungen des § 18 Abs\. 3 gegeben sind\.
@@ -723,45 +723,45 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 ### § 24 StVO — Halte- und Parkverbote
 
 > `(1)` Das Halten und das Parken ist verboten:
-> 
+>
 >> `a)` im Bereich des Vorschriftszeichens „Halten und Parken verboten“ nach Maßgabe der Bestimmungen des § 52 Z 13b,
-> 
+>
 >> `b)` auf engen Stellen der Fahrbahn, im Bereich von Fahrbahnkuppen oder von unübersichtlichen Kurven sowie auf Brücken, in Unterführungen und in Straßentunnels,
-> 
+>
 >> `c)` auf Schutzwegen und Radfahrerüberfahrten und, wenn deren Benützung nicht durch Lichtzeichen geregelt ist, 5 m vor dem Schutzweg oder der Radfahrerüberfahrt aus der Sicht des ankommenden Verkehrs,
-> 
+>
 >> `d)` unbeschadet der Regelung des § 23 Abs\. 3a im Bereich von weniger als 5 m vom nächsten Schnittpunkt einander kreuzender Fahrbahnränder,
-> 
+>
 >> `e)` im Haltestellenbereich eines Massenbeförderungsmittels, das ist \- sofern sich aus Bodenmarkierungen nichts anderes ergibt \- der Bereich innerhalb von 15 m vor und nach den Haltestellentafeln, während der Betriebszeiten des Massenbeförderungsmittels,
-> 
+>
 >> `f)` auf Hauptfahrbahnen in Ortsgebieten, wenn das Fahrzeug auf einer Nebenfahrbahn aufgestellt werden kann, ohne daß hiedurch der Verkehr behindert wird,
-> 
+>
 >> `g)` wenn durch das haltende oder parkende Fahrzeug der Lenker eines anderen Fahrzeuges gehindert wird, Einrichtungen zur Regelung und Sicherung des Verkehrs rechtzeitig wahrzunehmen,
-> 
+>
 >> `h)` auf Vorrangstraßen außerhalb des Ortsgebietes bei starkem Nebel oder sonstiger erheblicher Sichtbehinderung, ausgenommen auf Straßenteilen, die für das Abstellen von Fahrzeugen bestimmt sind \(wie etwa Abstellstreifen, Vorplätze von Häusern u\. dgl\.\),
-> 
+>
 >> `i)` in Fußgängerzonen\.
->> 
+>>
 >>> `1.` Während der Zeit, in der eine Ladetätigkeit vorgenommen werden darf, ist das Halten für die Dauer einer solchen Ladetätigkeit erlaubt\.
->> 
+>>
 >>> `2.` Während der Zeit, in der das Befahren der Fußgängerzone mit Fahrzeugen des Taxi\-, Mietwagen\- oder Gästewagen\-Gewerbes oder Fiakern jeweils erlaubt ist, ist das Halten mit solchen Fahrzeugen im Zusammenhang mit dem Aus\- und Einsteigenlassen der Fahrgäste erlaubt\.
->> 
+>>
 >>> `3.` Mit Fahrzeugen, die nach § 76a Abs\. 2 Z 4 und Abs\. 5 die Fußgängerzone befahren dürfen, ist das Halten und Parken für die Dauer der Tätigkeit in der Fußgängerzone erlaubt\.
->> 
+>>
 >>> `4.` Mit Fahrrädern ist das Halten und Parken erlaubt, sofern Fußgänger und der übrige Verkehr dadurch nicht behindert werden\.
-> 
+>
 >> `j)` auf Straßen für Omnibusse,
-> 
+>
 >> `k)` auf Radfahrstreifen, Radwegen und Rad\- und Gehwegen,
-> 
+>
 >> `l.` vor Rampen zur barrierefreien Erschließung von Verkehrsflächen oder wenn Leiteinrichtungen für Menschen mit Sehbehinderung nicht bestimmungsgemäß genutzt werden können,
-> 
+>
 >> `m)` auf Sperrflächen,
-> 
+>
 >> `n)` auf Straßenstellen, die nur durch Verletzen eines gesetzlichen Verbots \(zB nach § 7 Abs\. 4 oder nach § 52 Z 1\) erreicht werden können,
-> 
+>
 >> `o)` wenn Fußgänger, insbesondere auch Personen mit Kinderwagen oder Behinderte mit Rollstuhl, an der Benützung eines Gehsteiges, eines Gehweges oder eines Geh\- und Radweges erheblich behindert sind,
-> 
+>
 >> `p)` entlang von nicht unterbrochenen, am Fahrbahnrand angebrachten gelben Linien gemäß § 55 Abs\. 8\.
 
 > `(2)` Die in Abs\. 1 lit\. b bis n und Abs\. 3 lit\. d angeführten Verbote gelten nicht, wenn sich aus Straßenverkehrszeichen oder Bodenmarkierungen etwas anderes ergibt\.
@@ -769,23 +769,23 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(2a)` Im Bereich des im Abs\. 1 lit\. e genannten Halteverbotes sowie im Bereich einer Ladezone \(§ 43 Abs\. 1 lit\. c\) oder eines Taxistandplatzes \(§ 96 Abs\. 4\) darf zum Aus\- oder Einsteigen kurz gehalten werden\.
 
 > `(3)` Das Parken ist außer in den im Abs\. 1 angeführten Fällen noch verboten:
-> 
+>
 >> `a)` im Bereich der Vorschriftszeichen,Parken verboten‘ und;Wechselseitiges Parkverbot‘ nach Maßgabe der Bestimmungen des § 52 Z 13a und 13c, auf Straßenstellen, die mit einer Zickzacklinie gekennzeichnet sind, sowie entlang von unterbrochenen, am Fahrbahnrand angebrachten gelben Linien gemäß § 55 Abs\. 8,
-> 
+>
 >> `b)` vor Haus\- und Grundstückseinfahrten,
-> 
+>
 >> `c)` auf Gleisen von Schienenfahrzeugen und auf Fahrstreifen für Omnibusse,
-> 
+>
 >> `d)` auf Fahrbahnen mit Gegenverkehr, wenn nicht mindestens zwei Fahrstreifen für den fließenden Verkehr freibleiben,
-> 
+>
 >> `e)` auf der linken Seite von Einbahnstraßen, wenn nicht mindestens ein Fahrstreifen für den fließenden Verkehr freibleibt,
-> 
+>
 >> `f)` in der Zeit des Fahrverbotes gemäß § 42 Abs\. 1 sowie sonst von 22 Uhr bis 6 Uhr im Ortsgebiet weniger als 25 m von Häusern entfernt, die ausschließlich oder vorwiegend Wohnzwecken dienen oder die Krankenanstalten, Kuranstalten oder Altersheime sind, mit Lastkraftwagen, Spezialkraftwagen, Anhängern und Sattelzugfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von jeweils mehr als 3,5 t,
-> 
+>
 >> `g)` während der Dunkelheit auf Vorrangstraßen außerhalb des Ortsgebietes, ausgenommen auf Straßenteilen, die für das Parken von Fahrzeugen bestimmt sind,
-> 
+>
 >> `h)` vor Tankstellen, sofern diese nicht durch bauliche Einrichtungen von der Fahrbahn getrennt sind,
-> 
+>
 >> `i)` in der Zeit von 22 Uhr bis 6 Uhr im Ortsgebiet weniger als 25 m von Häusern entfernt, die ausschließlich oder vorwiegend Wohnzwecken dienen oder die Krankenanstalten, Kuranstalten oder Altersheime sind, mit Omnibussen mit einem höchsten zulässigen Gesamtgewicht von mehr als 7,5 t; dies gilt nicht für das Parken auf Parkstreifen und Parkflächen, die für Omnibusse bestimmt sind\.
 
 > `(4)` Die Bestimmungen der vorstehenden Absätze gelten nicht für das Halten und Parken auf Autobahnen und Autostraßen; hiefür sind die Bestimmungen der §§ 46 und 47 maßgebend\.
@@ -831,13 +831,13 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(3)` Organe der Straßenaufsicht, die auf einer Kreuzung den Verkehr durch Arm\- oder Lichtzeichen regeln, haben Einsatzfahrzeugen „Freie Fahrt“ zu geben\. Die Lenker von Einsatzfahrzeugen dürfen auch bei rotem Licht in eine Kreuzung einfahren, wenn sie vorher angehalten und sich überzeugt haben, daß sie hiebei nicht Menschen gefährden oder Sachen beschädigen\. Einbahnstraßen und Richtungsfahrbahnen dürfen sie in der Gegenrichtung nur befahren, wenn der Einsatzort anders nicht oder nicht in der gebotenen Zeit erreichbar ist oder wenn Ausnahmen für andere Kraftfahrzeuge oder Fuhrwerke bestehen\.
 
 > `(4)` Beim Zusammentreffen von Einsatzfahrzeugen haben der Reihe nach den Vorrang:
-> 
+>
 >> `1.` Rettungsfahrzeuge,
-> 
+>
 >> `2.` Fahrzeuge der Feuerwehr,
-> 
+>
 >> `3.` Fahrzeuge des Sicherheitsdienstes,
-> 
+>
 >> `4.` Sonstige Einsatzfahrzeuge\.
 
 > `(5)` Alle Straßenbenützer haben einem herannahenden Einsatzfahrzeug Platz zu machen\. Kein Lenker eines anderen Fahrzeuges darf unmittelbar hinter einem Einsatzfahrzeug nachfahren oder, außer um ihm Platz zu machen, vor ihm in eine Kreuzung einfahren\.
@@ -855,17 +855,17 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(3)` Beim Halten auf Fahrstreifen für Omnibusse müssen die Lenker während der Betriebszeiten des Kraftfahrlinienverkehrs im Fahrzeug verbleiben und haben beim Herannahen eines Fahrzeuges des Kraftfahrlinienverkehrs den Fahrstreifen so rasch wie möglich zu verlassen, um einem solchen Fahrzeug Platz zu machen\.
 
 > `(4)` Die Lenker
-> 
+>
 >> `1.` von Fahrzeugen der Österreichischen Post Aktiengesellschaft und der Telekom Austria Aktiengesellschaft,
-> 
+>
 >> `2.` von Fahrzeugen sonstiger Post\-, Paket\-, Telekommunikations\- oder Fernmeldedienstanbieter,
-> 
+>
 >> `3.` von Fahrzeugen von Werttransportanbietern,
-> 
+>
 >> `4.` von Fahrzeugen der Fernmeldebüros oder
-> 
+>
 >> `5.` von Fahrzeugen, die im Auftrag eines der unter Z 1 bis 3 genannten Dienstanbieter fahren,
-> 
+>
 > &nbsp; sind bei der Zustellung und Abholung von Postsendungen, bei der Instandhaltung von Telekommunikations\- oder Fernmeldeeinrichtungen, bei der Zustellung und Abholung von Bargeld oder Edelmetallen sowie bei Einsätzen der Funküberwachung an Halte\- und Parkverbote nicht gebunden, sofern dies der Betriebseinsatz erfordert und der übrige Verkehr dadurch nicht wesentlich beeinträchtigt wird\.
 
 ### § 27 StVO — Fahrzeuge des Straßendienstes, der Müllabfuhr und der Kanalwartung
@@ -893,19 +893,19 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(2)` Geschlossene Verbände des Bundesheeres und Soldaten, die einzelne Fahrzeuge des Bundesheeres lenken, sind beim Einsatz gemäß § 2 Abs\. 1 des Wehrgesetzes, BGBl\. Nr\. 181/1955, und bei der Vorbereitung dieses Einsatzes insoweit nicht an die Bestimmungen dieses Bundesgesetzes und der auf Grund dieses Bundesgesetzes erlassenen Verordnungen gebunden, als es der Zweck der Maßnahme erfordert und sonst in geeigneter Weise für die Sicherheit des Straßenverkehrs gesorgt ist\.
 
 > `(3)` Wenn eine Verkehrsregelung durch Organe der Sicherheitsexekutive nicht möglich ist, dürfen besonders geschulte und ausgerüstete Soldaten des Bundesheeres und Angehörige der Heeresverwaltung im Rahmen der ihnen erteilten Befehle, insbesondere auf Freilandstraßen, bei
-> 
+>
 >> `1.` Einsatz\- und Einsatzübungsfahrten von Fahrzeugkolonnen und Einzelfahrzeugen des Bundesheeres sowie von zivilen Fahrzeugen, welche Zwecken des Bundesheeres dienen,
-> 
+>
 >> `2.` Transporten gefährlicher Güter mit Fahrzeugen des Bundesheeres oder mit zivilen Fahrzeugen, welche Zwecken des Bundesheeres dienen,
-> 
+>
 >> `3.` mit Fahrzeugen des Bundesheeres oder mit zivilen Fahrzeugen, welche Zwecken des Bundesheeres dienen, durchgeführten Transporten, die hinsichtlich der Abmessungen oder des Gesamtgewichtes einer besonderen Bewilligung nach den kraftfahrrechtlichen Bestimmungen bedürfen,
-> 
+>
 >> `4.` Fahrten ausländischer Militärfahrzeuge im Rahmen gemeinsam mit dem Bundesheer durchzuführender Einsätze, Übungen oder Ausbildungsmaßnahmen,
-> 
+>
 >> `5.` Fußmärschen geschlossener Verbände des Bundesheeres oder ausländischer Streitkräfte im Rahmen von Übungen oder Ausbildungsvorhaben in Österreich und
-> 
+>
 >> `6.` allen Bewegungen, bei denen militärischer Eigenschutz wahrzunehmen ist,
-> 
+>
 > &nbsp; die zur Gewährleistung von Ordnung, Sicherheit, Leichtigkeit und Flüssigkeit der militärischen Marschbewegung und des übrigen Verkehrs erforderlichen Maßnahmen treffen\. Hierbei können auch Armzeichen \(§ 37\) und Hilfszeichen \(§ 41\) gegeben werden, die einer bestehenden behördlichen Verkehrsregelung jedoch nur widersprechen dürfen, wenn dadurch die Sicherheit des übrigen Verkehrs nicht gefährdet wird\. Die Straßenbenützer haben den Anordnungen solcher Soldaten und Angehörigen der Heeresverwaltung Folge zu leisten, wenn dies ohne Gefährdung von Personen und ohne Beschädigung von Sachen möglich ist\.
 
 > `(4)` Die Bestimmungen des Abs\. 3 gelten sinngemäß für Kolonnen der Feuerwehren auf einer Einsatzübungs\- oder Einsatzfahrt; in diesem Falle werden die nach Abs\. 3 den Soldaten zustehenden Rechte von besonders geschulten und ausgerüsteten Feuerwehrmännern ausgeübt\.
@@ -927,23 +927,23 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(1a)` \(Verfassungsbestimmung\) Die Ausfolgung und Einziehung eines Ausweises gemäß Abs\. 1 kann unmittelbar durch Bundesbehörden besorgt werden\.
 
 > `(2)` Inhaber eines Ausweises gemäß Abs\. 1 dürfen
-> 
+>
 >> `a)` auf Straßenstellen, für die durch das Straßenverkehrszeichen „Halten und Parken verboten“ oder eine nicht unterbrochene, am Fahrbahnrand angebrachte gelbe Linie \(§ 24 Abs\. 1 lit\. p\) ein Halte\- und Parkverbot kundgemacht ist,
-> 
+>
 >> `b)` entgegen der Vorschrift des § 23 Abs\. 2 über das Abstellen eines Fahrzeuges am Rand der Fahrbahn
-> 
+>
 > &nbsp; mit dem von ihnen selbst gelenkten Fahrzeug oder mit einem Fahrzeug, das sie als Mitfahrer benützen, zum Aus\- oder Einsteigen einschließlich des Aus\- oder Einladens der für den Ausweisinhaber nötigen Behelfe \(wie etwa ein Rollstuhl u\. dgl\.\) für die Dauer dieser Tätigkeiten halten\.
 
 > `(3)` Ferner dürfen Inhaber eines Ausweises gemäß Abs\. 1 das von ihnen selbst gelenkte Fahrzeug oder Lenker von Fahrzeugen in der Zeit, in der sie einen Inhaber eines Ausweises gemäß Abs\. 1 befördern,
-> 
+>
 >> `a)` auf Straßenstellen, für die durch das Straßenverkehrszeichen „Parken verboten“ oder eine unterbrochene, am Fahrbahnrand angebrachte gelbe Linie \(§ 24 Abs\. 3 lit\. a\) ein Parkverbot kundgemacht ist,
-> 
+>
 >> `b)` in einer Kurzparkzone ohne zeitliche Beschränkung,
-> 
+>
 >> `c)` auf Straßen, für die ein Parkverbot, das gemäß § 44 Abs\. 4 kundzumachen ist, erlassen worden ist, und
-> 
+>
 >> `d)` in einer Fußgängerzone während der Zeit, in der eine Ladetätigkeit vorgenommen oder die Fußgängerzone gemäß § 76a Abs\. 2a befahren werden darf,
-> 
+>
 > &nbsp; parken\.
 
 > `(4)` Beim Halten gemäß Abs\. 2 sowie beim Befahren einer Fußgängerzone gemäß § 76a Abs\. 2a hat der Inhaber eines Ausweises gemäß Abs\. 1 diesen den Straßenaufsichtsorganen auf Verlangen vorzuweisen\. Beim Parken gemäß Abs\. 3 sowie beim Halten oder Parken auf den nach § 43 Abs\. 1 lit\. d freigehaltenen Straßenstellen hat der Ausweisinhaber den Ausweis bei mehrspurigen Kraftfahrzeugen hinter der Windschutzscheibe und durch diese gut erkennbar, bei anderen Fahrzeugen an einer sonst geeigneten Stelle gut wahrnehmbar anzubringen\.
@@ -1019,9 +1019,9 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 ### § 35 StVO — Vermeidung von Verkehrsbeeinträchtigungen
 
 > `(1)` Die Behörde hat, wenn es die Sicherheit des Straßenverkehrs erfordert, die Besitzer von Gegenständen, die auf der Straße oder auf Liegenschaften in der Umgebung der Straße angebracht sind und durch ihre Beschaffenheit oder Lage oder durch die Art ihrer Anbringung oder ihrer Anordnung geeignet sind, die Sicherheit des Straßenverkehrs zu beeinträchtigen, durch Bescheid zu verpflichten,
-> 
+>
 >> `a)` die Lage oder die Art der Anbringung oder die Anordnung des Gegenstandes so zu ändern, daß die Sicherheit des Straßenverkehrs nicht weiter beeinträchtigt wird, oder
-> 
+>
 >> `b)` wenn eine in lit\. a bezeichnete Änderung nicht ausreicht, die Gegenstände zu beseitigen\.
 
 > `(2)` Eine Beeinträchtigung der Sicherheit des Straßenverkehrs durch die in Abs\. 1 bezeichneten Gegenstände ist insbesondere dann anzunehmen, wenn sie die Straßenbenützer blenden, die freie Sicht über den Verlauf der Straße oder auf Einrichtungen zur Regelung oder Sicherung des Verkehrs behindern oder mit solchen Einrichtungen, insbesondere mit Straßenverkehrszeichen oder mit Lichtzeichen \(§ 38\), verwechselt werden können oder die Wirkung solcher Einrichtungen herabmindern\.
@@ -1059,13 +1059,13 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 ### § 38 StVO — Bedeutung der Lichtzeichen
 
 > `(1)` Gelbes nicht blinkendes Licht gilt unbeschadet der Vorschriften des § 53 Z 10a über das Einbiegen der Straßenbahn bei gelbem Licht als Zeichen für „Halt“\. Bei diesem Zeichen haben die Lenker herannahender Fahrzeuge unbeschadet der Bestimmungen des Abs\. 7 anzuhalten:
-> 
+>
 >> `a)` wenn eine Haltelinie vorhanden ist, vor der Haltelinie;
-> 
+>
 >> `b)` wenn ein Schutzweg oder eine Radfahrerüberfahrt ohne Haltelinie vorhanden ist, vor der ersten Querungshilfe \(Schutzweg, Radfahrerüberfahrt\) aus der Sicht des ankommenden Verkehrs;
-> 
+>
 >> `c)` wenn eine Kreuzung ohne Schutzweg und ohne Haltelinie vorhanden ist, vor der Kreuzung,
-> 
+>
 >> `d)` ansonsten vor dem Lichtzeichen\.
 
 > `(2)` Fahrzeuglenker, die sich bei gelbem nicht blinkendem Licht bereits auf der Kreuzung befinden, haben diese so rasch wie ihnen dies möglich und erlaubt ist zu verlassen\. Fahrzeuglenker, denen ein sicheres Anhalten nach Abs\. 1 nicht mehr möglich ist, haben weiterzufahren\. Beim Einbiegen nach links ist den entgegenkommenden geradeausfahrenden sowie den entgegenkommenden nach rechts einbiegenden Fahrzeugen der Vorrang zu geben\. Fahrzeuge, die von Hauptfahrbahnen kommen, haben den Vorrang gegenüber Fahrzeugen, die aus Nebenfahrbahnen kommen\.
@@ -1081,11 +1081,11 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(5)` Rotes Licht gilt als Zeichen für „Halt“\. Bei diesem Zeichen haben die Lenker von Fahrzeugen unbeschadet der Bestimmungen des Abs\. 7 und des § 53 Z 10a an den im Abs\. 1 bezeichneten Stellen anzuhalten\.
 
 > `(5a)` Die Behörde kann durch Verordnung Kreuzungen bestimmen, an denen abweichend von Abs\. 5 die Lenker von Fahrrädern trotz rotem Licht rechts abbiegen oder an Stellen, an denen kein Fahrzeugverkehr von Rechts kreuzen kann \(T\-Kreuzungen\), geradeaus fahren dürfen, wenn
-> 
+>
 >> `1.` sie zuvor angehalten haben,
-> 
+>
 >> `2.` eine Behinderung oder Gefährdung anderer Verkehrsteilnehmer, insbesondere des Fußgänger\- und Fahrzeugverkehrs in der freigegebenen Fahrtrichtung, nicht zu erwarten ist und
-> 
+>
 >> `3.` neben dem roten Lichtzeichen eine Zusatztafel gemäß § 54 Abs\. 5 lit\. n angebracht ist\.
 
 > `(5b)` Eine Verordnung nach Abs\. 5a darf nur erlassen werden, wenn hinsichtlich der dadurch bestimmten Kreuzungen aus Gründen der Verkehrssicherheit keine Bedenken bestehen; der jeweilige Stand der Technik ist dabei zu berücksichtigen\. In der Verordnung ist die Fahrtroute anzugeben, für die die Erlaubnis, bei rotem Licht rechts abzubiegen oder geradeaus zu fahren, gilt\. An den in der Verordnung genannten Kreuzungen ist neben dem roten Lichtzeichen eine Zusatztafel gemäß § 54 Abs\. 5 lit\. n anzubringen\.
@@ -1119,9 +1119,9 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(1)` Wird der Verkehr durch Armzeichen oder Lichtzeichen geregelt, so sind die Organe der Straßenaufsicht berechtigt, durch leicht verständliche und gut wahrnehmbare Zeichen Straßenbenützern von einer solchen Regelung abweichende Anordnungen zu geben \(Hilfszeichen\)\. Im Bereich eines Grenzüberganges dürfen solche Hilfszeichen auch die mit der Grenzabfertigung betrauten Organe geben\.
 
 > `(2)` Hilfszeichen dürfen nur gegeben werden, wenn
-> 
+>
 >> `a)` es die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs erfordert und
-> 
+>
 >> `b)` ihre Befolgung ohne Gefährdung von Personen und ohne Beschädigung von Sachen möglich ist\.
 
 > `(3)` Die Straßenbenützer, denen Hilfszeichen gegeben werden, haben sie nur zu befolgen, wenn dies ohne Gefährdung von Personen und ohne Beschädigung von Sachen möglich ist\.
@@ -1147,11 +1147,11 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(5)` Wenn und insoweit es die Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs, insbesondere zu Zeiten starken Verkehrs \(zB Ferienreiseverkehr\), oder eine gleichartige Verkehrsregelung in Nachbarstaaten Österreichs erfordert, kann der Bundesminister für Verkehr, Innovation und Technologie durch Verordnung bestimmen, daß die Lenker der in Abs\. 1 oder 2 genannten Fahrzeuge zu den im Abs\. 1 angeführten Zeiten bestimmte Straßen befahren oder zu anderen als den im Abs\. 1 angeführten Zeiten bestimmte Straßen nicht befahren dürfen\.
 
 > `(6)` Ab 1\. Jänner 1995 ist das Fahren mit Lastkraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von mehr als 7,5 t in der Zeit von 22 Uhr bis 5 Uhr verboten\. Ausgenommen von diesem Fahrverbot sind Fahrten
-> 
+>
 >> `a)` mit Fahrzeugen des Straßendienstes,
-> 
+>
 >> `b)` mit Fahrzeugen des Bundesheeres, die zur Aufrechterhaltung des militärischen Dienstbetriebes unumgänglich sind und
-> 
+>
 >> `c)` mit lärmarmen Kraftfahrzeugen, bei denen eine Bestätigung nach § 8b Abs\. 4 KDV 1967 mitgeführt wird\.
 
 > `(7)` Der Bundesminister für Verkehr, Innovation und Technologie kann durch Verordnung bestimmte Straßen oder Straßenstrecken vom Verbot gemäß Abs\. 6 ausnehmen, soweit dies zur Förderung oder Erleichterung des Kombinierten Verkehrs notwendig ist\.
@@ -1166,46 +1166,46 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 ### § 43 StVO — Verkehrsverbote, Verkehrserleichterungen und Hinweise
 
 > `(1)` Die Behörde hat für bestimmte Straßen oder Straßenstrecken oder für Straßen innerhalb eines bestimmten Gebietes durch Verordnung
-> 
+>
 >> `a)` wenn ein Elementarereignis bereits eingetreten oder nach den örtlich gewonnenen Erfahrungen oder nach sonst erheblichen Umständen mit hoher Wahrscheinlichkeit zu erwarten ist, die zum Schutze der Straßenbenützer oder zur Verkehrsabwicklung erforderlichen Verkehrsverbote oder Verkehrsbeschränkungen zu erlassen;
-> 
+>
 >> `b)` wenn und insoweit es die Sicherheit, Leichtigkeit oder Flüssigkeit des sich bewegenden oder die Ordnung des ruhenden Verkehrs, die Lage, Widmung, Pflege, Reinigung oder Beschaffenheit der Straße, die Lage, Widmung oder Beschaffenheit eines an der Straße gelegenen Gebäudes oder Gebietes oder wenn und insoweit es die Sicherheit eines Gebäudes oder Gebietes und/oder der Personen, die sich dort aufhalten, erfordert,
->> 
+>>
 >>> `1.` dauernde oder vorübergehende Verkehrsbeschränkungen oder Verkehrsverbote, insbesondere die Erklärung von Straßen zu Einbahnstraßen, Maß\-, Gewichts\- oder Geschwindigkeitsbeschränkungen, Halte\- oder Parkverbote und dergleichen, zu erlassen,
->> 
+>>
 >>> `2.` den Straßenbenützern ein bestimmtes Verhalten vorzuschreiben, insbesondere bestimmte Gruppen von der Benützung einer Straße oder eines Straßenteiles auszuschließen oder sie auf besonders bezeichnete Straßenteile zu verweisen;
-> 
+>
 >> `c)` wenn ein erhebliches wirtschaftliches Interesse von einem oder von mehreren umliegenden Unternehmungen vorliegt, Straßenstellen für die unbedingt notwendige Zeit und Strecke für Ladetätigkeiten durch Parkverbote, wenn jedoch eine Ladetätigkeit unter Berücksichtigung der zur Verfügung stehenden Abstellflächen und deren beste Ausnützung erfahrungsgemäß durch ein Parkverbot nicht gewährleistet ist, durch Halteverbote freizuhalten \(Ladezonen\);
-> 
+>
 >> `d)` für Menschen mit Behinderungen, die wegen ihrer Behinderung darauf angewiesen sind, das von ihnen selbst gelenkte Kraftfahrzeug oder ein Kraftfahrzeug, das sie als Mitfahrer benützen, in unmittelbarer Nähe ihrer Wohnung oder ihrer Arbeitsstätte oder in unmittelbarer Nähe von Gebäuden, die von solchen Personen in der Regel häufig besucht werden, wie etwa Invalidenämter, bestimmte Krankenhäuser oder Ambulatorien, Sozialversicherungseinrichtungen u\. dgl\., oder in unmittelbarer Nähe einer Fußgängerzone abstellen zu können, Straßenstellen für die unbedingt notwendige Zeit und Strecke zum Abstellen der betreffenden Kraftfahrzeuge durch ein Halteverbot freizuhalten\.
 
 > `(1a)` Sofern es sich nicht um Arbeitsfahrten im Sinne des § 27 Abs\. 1 handelt, hat die Behörde zur Durchführung von Arbeiten auf oder neben einer Straße, die zwar vorhersehbar sind und entsprechend geplant werden können, bei denen aber die für die Arbeitsdurchführung erforderlichen Verkehrsregelungen örtlich und/oder zeitlich nicht genau vorherbestimmbar sind, durch Verordnung die aus Gründen der Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs oder zur Sicherheit der mit den Arbeiten beschäftigten Personen erforderlichen Verkehrsbeschränkungen, Verkehrsverbote und/oder Verkehrsgebote zu erlassen\. In diesen Fällen sind die Organe des Bauführers ermächtigt, nach Maßgabe der Arbeitsdurchführung den örtlichen und zeitlichen Umfang der von der Behörde verordneten Verkehrsmaßnahmen durch die Anbringung oder Sichtbarmachung der betreffenden Straßenverkehrszeichen mit der Wirkung zu bestimmen, als ob der örtliche und zeitliche Umfang von der Behörde bestimmt worden wäre\. Der Zeitpunkt und der Ort \(Bereich\) der Anbringung \(Sichtbarmachung\) ist von den Organen des Bauführers in einem Aktenvermerk \(§ 16 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 – AVG, BGBl\. Nr\. 51/1991\) festzuhalten\.
 
 > `(2)` Zur Fernhaltung von Gefahren oder Belästigungen, insbesondere durch Lärm, Geruch oder Schadstoffe, hat die Behörde, wenn und insoweit es zum Schutz der Bevölkerung oder der Umwelt oder aus anderen wichtigen Gründen erforderlich ist, durch Verordnung
-> 
+>
 >> `a)` für bestimmte Gebiete, Straßen oder Straßenstrecken für alle oder für bestimmte Fahrzeugarten oder für Fahrzeuge mit bestimmten Ladungen dauernde oder zeitweise Verkehrsbeschränkungen oder Verkehrsverbote zu erlassen,
-> 
+>
 >> `b)` zu bestimmen, dass mit bestimmten Arten von Fahrzeugen oder mit Fahrzeugen mit bestimmten Ladungen nur bestimmte Straßen oder bestimmte Arten von Straßen befahren werden dürfen \(Routenbindung\), oder
-> 
+>
 >> `c)` zu bestimmen, dass in bestimmten Gebieten oder auf bestimmten Straßen Vorrichtungen zur Abgabe von Schallzeichen nicht betätigt werden dürfen, es sei denn, dass ein solches Zeichen das einzige Mittel ist, um Gefahren von Personen abzuwenden \(Hupverbot\)\.
-> 
+>
 > &nbsp; Bei der Erlassung solcher Verordnungen ist auf den angestrebten Zweck und auf die Verkehrserfordernisse Bedacht zu nehmen\.
 
-> `(2a)` 
->> `1.` Um Erschwernisse für die Wohnbevölkerung auszugleichen, die durch Verkehrsbeschränkungen hervorgerufen werden, kann die Behörde durch Verordnung Gebiete bestimmen, deren Bewohner die Erteilung einer Ausnahmegenehmigung für ein zeitlich uneingeschränktes Parken in \- in der Verordnung zu bezeichnenden \- nahegelegenen Kurzparkzonen mit Kraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von nicht mehr als 3 500 kg gemäß § 45 Abs\. 4 beantragen können\.
-> 
+
+> `(2a)` > `1.` Um Erschwernisse für die Wohnbevölkerung auszugleichen, die durch Verkehrsbeschränkungen hervorgerufen werden, kann die Behörde durch Verordnung Gebiete bestimmen, deren Bewohner die Erteilung einer Ausnahmegenehmigung für ein zeitlich uneingeschränktes Parken in \- in der Verordnung zu bezeichnenden \- nahegelegenen Kurzparkzonen mit Kraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von nicht mehr als 3 500 kg gemäß § 45 Abs\. 4 beantragen können\.
+>
 >> `2.` Wenn es in den nach Z 1 bestimmten Gebieten auf Grund der örtlichen Gegebenheiten möglich ist und eine Notwendigkeit dafür besteht, hat die Behörde durch Verordnung zu bestimmen, daß auch Angehörige bestimmter Personenkreise, die in diesen Gebieten ständig tätig sind, die Erteilung einer Ausnahmegenehmigung für ein auf das notwendige zeitliche Ausmaß eingeschränktes Parken in den in der Verordnung nach Z 1 bezeichneten nahegelegenen Kurzparkzonen mit Kraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von nicht mehr als 3 500 kg gemäß § 45 Abs\. 4a beantragen können\.
 
 > `(2b)` Organe der Straßenaufsicht sind berechtigt, zur Verhinderung von Übertretungen der in Abs\. 2 lit\. a angeführten Verordnungen, falls erforderlich, ein für eine Fahrt mit dem betreffenden Kraftfahrzeug nötiges Dokument abzunehmen oder eine der im § 5b angeführten Zwangsmaßnahmen anzuwenden\. Die getroffene Maßnahme ist aufzuheben, wenn der Grund für ihre Anordnung weggefallen ist\.
 
 > `(3)` Zum Zwecke der Erleichterung oder Beschleunigung des Verkehrs, insbesondere des Durchzugsverkehrs, hat die Behörde durch Verordnung
-> 
+>
 >> `a)` Bundesstraßen, die das Bundesstraßengesetz 1971, BGBl\. Nr\. 286, als Bundesautobahn bezeichnet, sowie Straßen ohne Überschneidungen mit anderen Straßen, sofern sie sich für den Schnellverkehr \(§ 46 Abs\. 1\) eignen und besondere Anschlußstellen für die Zu\- und Abfahrt vorhanden sind, einschließlich der Zu\- und Abfahrtsstraßen zu Autobahnen zu erklären,
-> 
+>
 >> `b)` Straßen, die sich für den Schnellverkehr \(§ 46 Abs\. 1\) eignen und für welche die in lit\. a genannten Voraussetzungen nicht zutreffen, zu Autostraßen zu erklären, sofern dadurch die Verkehrsinteressen der von der Benützung der Autostraße ausgeschlossenen Straßenbenützer nicht wesentlich beeinträchtigt werden,
-> 
+>
 >> `c)` Straßen zu Vorrangstraßen zu erklären,
-> 
+>
 >> `d)` geeignete Autobahnstrecken festzulegen, auf denen das zeitweilige Befahren des Pannenstreifens erlaubt werden darf \(§ 44d\)\.
 
 > `(4)` Wenn es der Leichtigkeit und Flüssigkeit des Verkehrs dient und aus Gründen der Sicherheit des Verkehrs keine Bedenken dagegen bestehen, kann die Behörde durch Verordnung die gemäß § 20 Abs\. 2 erlaubten Höchstgeschwindigkeiten erhöhen\.
@@ -1247,13 +1247,13 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(1)` Wenn auf Grund von Verkehrsbeobachtungen, Verkehrszählungen oder Verkehrserfahrungen aus Anlaß vorhersehbarer Ereignisse oder Umstände Verkehrsverhältnisse zu erwarten sind, für deren Bewältigung besondere Verkehrsmaßnahmen \(Verkehrsverbote, Verkehrsbeschränkungen, Verkehrserleichterungen\) notwendig sind, hat die Behörde diese unter Bedachtnahme auf die Sicherheit, Leichtigkeit und Flüssigkeit des sich bewegenden und die Ordnung des ruhenden Verkehrs durch Verordnung zu bestimmen\.
 
 > `(2)` Die Verordnung nach Abs\. 1 hat zu enthalten:
-> 
+>
 >> `a)` Die Bestimmung der Strecke, auf der die Verkehrsmaßnahmen wirksam werden sollen,
-> 
+>
 >> `b)` die Festsetzung der Zeiten, in denen die Verkehrsmaßnahmen wirksam werden sollen,
-> 
+>
 >> `c)` die Voraussetzungen, unter denen die Verkehrsmaßnahmen wirksam werden sollen,
-> 
+>
 >> `d)` die in Betracht kommenden Verkehrsmaßnahmen, wie Geschwindigkeitsbeschränkungen, Fahrverbote, Einfahrtverbote, Beschränkungen für Halten und Parken, Einbahnregelungen, Ausnahmen von bestehenden Verkehrsverboten oder Verkehrsbeschränkungen u\. dgl\.
 
 > `(3)` Verordnungen nach Abs\. 1 treten mit der Anbringung oder Sichtbarmachung der ihnen entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen in Kraft\. Die Behörde hat die Person, Dienststelle oder Unternehmung zu bestimmen, welche die Straßenverkehrszeichen oder Bodenmarkierungen anzubringen oder sichtbar zu machen hat\. Die Aufstellung oder Sichtbarmachung der Straßenverkehrszeichen oder die Anbringung der Bodenmarkierungen ist der Behörde unverzüglich zur Kenntnis zu bringen; diese hat den Zeitpunkt der erfolgten Anbringung oder Sichtbarmachung in einem Aktenvermerk \(§ 16 AVG\) festzuhalten\.
@@ -1261,11 +1261,11 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 ### § 44b StVO — Unaufschiebbare Verkehrsbeschränkungen
 
 > `(1)` Im Falle der Unaufschiebbarkeit dürfen die Organe der Straßenaufsicht, des Straßenerhalters, der Feuerwehr, des Bundesheeres oder des Gebrechendienstes öffentlicher Versorgungs\- oder Entsorgungsunternehmen \(zB Gasgebrechendienste\) nach Erfordernis eine besondere Verkehrsregelung durch Anweisungen an die Straßenbenützer oder durch Anbringung von Verkehrsampeln oder Signalscheiben veranlassen oder eine der in § 43 Abs\. 1 lit\. b Z 1 und 2 bezeichneten Maßnahmen durch Anbringung der entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen mit der Wirkung treffen, als ob die Veranlassung oder Maßnahme von der Behörde getroffen worden wäre\. Dies gilt insbesondere,
-> 
+>
 >> `a)` wenn ein Elementarereignis bereits eingetreten oder nach den örtlich gewonnenen Erfahrungen oder nach sonst erheblichen Umständen mit hoher Wahrscheinlichkeit zu erwarten ist,
-> 
+>
 >> `b)` bei unvorhersehbar aufgetretenen Straßen\- oder Baugebrechen u\. dgl\.,
-> 
+>
 >> `c)` bei unvorhersehbar eingetretenen Ereignissen, wie zB Brände, Unfälle, Ordnungsstörungen u\. dgl\., die besondere Verkehrsverbote oder Verkehrsbeschränkungen oder eine besondere Verkehrsregelung \(zB Einbahnverkehr, abwechselnder Gegenverkehr, Umleitungen u\. dgl\.\) erfordern\.
 
 > `(2)` Ist der Grund für die Veranlassung oder Maßnahme weggefallen, so hat das nach Abs\. 1 tätig gewordene Organ oder dessen Dienststelle die Veranlassung oder Maßnahme unverzüglich aufzuheben\.
@@ -1283,11 +1283,11 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(1)` Die Behörde kann für eine bestimmte Straße oder Straßenstrecke für den Fall besonderer Verkehrs\- oder Fahrbahnverhältnisse, deren Auftreten zeitlich und/oder örtlich nicht vorhersehbar ist, durch Verordnung Verkehrsmaßnahmen \(Verkehrsverbote, Verkehrsbeschränkungen, Verkehrserleichterungen\) festlegen, die auf Grund der örtlichen oder verkehrsmäßigen Gegebenheiten nach dem Stand der Wissenschaft zur Aufrechterhaltung oder Förderung der Leichtigkeit oder Flüssigkeit des Verkehrs unter Bedachtnahme auf die Verkehrssicherheit zweckmäßig sind\.
 
 > `(2)` In der Verordnung sind festzulegen:
-> 
+>
 >> `1.` die Straße oder Straßenstrecke, auf der die Verkehrsmaßnahmen gelten sollen,
-> 
+>
 >> `2.` die beim Auftreten besonderer Verkehrs\- oder Fahrbahnverhältnisse jeweils geltenden Verkehrsmaßnahmen und
-> 
+>
 >> `3.` die Verkehrs\- oder Fahrbahnverhältnisse, bei deren Auftreten die Verkehrsmaßnahmen gelten sollen\.
 
 > `(3)` Verordnungen gemäß Abs\. 1 sind mittels eines Verkehrsbeeinflussungssystems \(§ 44 Abs\. 1a\) kundzumachen\. Der örtliche und zeitliche Umfang der von der Behörde verordneten Verkehrsmaßnahmen wird dabei durch die Anzeige der betreffenden Straßenverkehrszeichen mit der Wirkung bestimmt, als ob der örtliche und zeitliche Umfang von der Behörde bestimmt worden wäre\.
@@ -1295,9 +1295,9 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 ### § 44d StVO — Pannenstreifenfreigabe
 
 > `(1)` Auf einer gemäß § 43 Abs\. 3 lit\. d verordneten Autobahnstrecke oder auf Teilen derselben dürfen Organe des Straßenerhalters das Befahren des Pannenstreifens erlauben \(Pannenstreifenfreigabe\), wenn
-> 
+>
 >> `1.` eine Beeinträchtigung der Leichtigkeit und Flüssigkeit des Verkehrs bereits eingetreten ist oder die Pannenstreifenfreigabe aufgrund der örtlichen oder verkehrsmäßigen Gegebenheiten nach dem Stand der Wissenschaft zur Aufrechterhaltung oder Förderung der Leichtigkeit oder Flüssigkeit des Verkehrs zweckmäßig ist und
-> 
+>
 >> `2.` das gefahrlose Befahren des Pannenstreifens möglich ist\.
 
 > `(2)` Eine Pannenstreifenfreigabe ist mittels Fahrstreifensignalisierung \(§ 38 Abs\. 10\) anzuzeigen\. § 38 Abs\. 10 gilt mit der Maßgabe, dass die Zeichen auch nur über dem Pannenstreifen angebracht werden dürfen\.
@@ -1321,15 +1321,15 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(3)` Eine Bewilligung \(Abs\. 1, 2, 2a, 4 oder 4a\) ist, wenn es die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs oder der Schutz der Bevölkerung und der Umwelt erfordert, bedingt, befristet, mit Auflagen oder unter Vorschreibung der Benützung eines bestimmten Straßenzuges zu erteilen\. Die Behörde hat im Falle einer Bewilligung nach Abs\. 1 den Ersatz der dem Straßenerhalter aus Anlaß der ausnahmsweisen Straßenbenützung erwachsenden Kosten \(z\. B\. für die Stützung von Brücken, für die spätere Beseitigung solcher Vorkehrungen und für die Wiederinstandsetzung\) und, wenn nötig, eine vor der ersten ausnahmsweisen Straßenbenützung zu erlegende angemessene Sicherheitsleistung vorzuschreiben\.
 
 > `(4)` Eine Bewilligung kann für die in der Verordnung gemäß § 43 Abs\. 2a Z 1 angegebenen Kurzparkzonen auf die Dauer von höchstens zwei Jahren erteilt werden, wenn der Antragsteller in dem gemäß dieser Verordnung umschriebenen Gebiet wohnt und dort auch den Mittelpunkt seiner Lebensinteressen hat und ein persönliches Interesse nachweist, in der Nähe dieses Wohnsitzes zu parken und
-> 
+>
 >> `1.` Zulassungsbesitzer oder
-> 
+>
 >> `2.` dauernd ausschließlicher Nutzer eines Kraftfahrzeugs ist, der nachweist, dass er ein Dauerschuldverhältnis \(insbesondere Leasingvertrag oder Mietvertrag\) über einen Zeitraum von mindestens 4 Monaten hat oder nachweist, dass ihm ein arbeitgebereigenes oder von seinem Arbeitgeber geleastes Kraftfahrzeug zur Privatnutzung überlassen wird\.
 
 > `(4a)` Eine Bewilligung kann für die in der Verordnung gemäß § 43 Abs\. 2a Z 1 angegebenen Kurzparkzonen auf die Dauer von höchstens zwei Jahren im notwendigen zeitlichen Ausmaß erteilt werden, wenn der Antragsteller zu dem in der Verordnung gemäß § 43 Abs\. 2a Z 2 umschriebenen Personenkreis gehört und
-> 
+>
 >> `1.` Zulassungsbesitzer oder dauernd ausschließlicher Nutzer eines Kraftfahrzeuges ist, der nachweist, dass er ein Dauerschuldverhältnis \(insbesondere Leasingvertrag oder Mietvertrag\) über einen Zeitraum von mindesten 4 Monaten hat oder nachweislich ein arbeitgebereigenes Kraftfahrzeug beruflich benützt, und
-> 
+>
 >> `2.` entweder die Tätigkeit des Antragstellers ohne Bewilligung erheblich erschwert oder unmöglich wäre, oder die Erteilung der Bewilligung im Interesse der Nahversorgung liegt\.
 
 > `(5)` Behördliche Erledigungen gemäß den vorstehenden Absätzen können im Wege der automationsunterstützten Datenverarbeitung ohne Unterschrift hergestellt und ausgefertigt werden\.
@@ -1337,9 +1337,9 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 ### § 46 StVO — Autobahnen
 
 > `(1)` Autobahnen dürfen nur mit Kraftfahrzeugen benützt werden, die eine Bauartgeschwindigkeit von mindestens 60 km/h aufweisen und mit denen diese Geschwindigkeit überschritten werden darf; dies gilt nicht für Fahrzeuge des Straßendienstes\. Jeder andere Verkehr, insbesondere der Fußgängerverkehr, der Verkehr mit Fahrrädern, Motorfahrrädern und Fuhrwerken, der Viehtrieb und das Reiten, ist auf der Autobahn verboten\. Im Bereich eines Grenzüberganges darf die Autobahn betreten werden, um Tätigkeiten zu verrichten, die mit der Grenzabfertigung zusammenhängen oder einem vordringlichen Bedürfnis der Straßenbenützer dienen \(wie Geldwechsel, Aufsuchen von Informationsstellen u\. dgl\.\); das gleiche gilt für den Bereich einer Mautstelle sinngemäß\. Die Autobahn darf weiters betreten werden:
-> 
+>
 >> `1.` im Bereich eines Kontrollplatzes, um Tätigkeiten zu verrichten, die mit Personen\- oder Fahrzeugkontrollen zusammenhängen, oder
-> 
+>
 >> `2.` um Tätigkeiten zu verrichten, die mit einer Verkehrszählung zusammenhängen\.
 
 > `(2)` Zur Autobahn darf nur über die durch Hinweiszeichen gekennzeichneten Zufahrtstraßen zugefahren und von der Autobahn nur über die ebenso gekennzeichneten Abfahrtstraßen abgefahren werden\. Ein zwischen den Fahrbahnen angelegter, der Trennung entgegengesetzter Fahrtrichtungen dienender Mittelstreifen darf weder befahren noch überfahren werden\. Beim Ausfahren aus einer Autobahn ist der Verzögerungsstreifen, beim Einfahren der Beschleunigungsstreifen zu benützen; das gleiche gilt im Bereich der Zu\- und Abfahrten von Parkplätzen, sofern dort solche Fahrstreifen vorhanden sind\.
@@ -1347,17 +1347,17 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 > `(3)` Muß auf der Autobahn ein Fahrzeug wegen eines Gebrechens o\. dgl\. angehalten werden, so ist es möglichst auf dem Pannenstreifen abzustellen\. Der Lenker des Fahrzeuges hat dafür zu sorgen, daß er mit ihm die Fahrt ehestens fortsetzen kann\. Ist dies nicht möglich, so ist das Fahrzeug unverzüglich über die nächste Abfahrtsstraße von der Autobahn zu entfernen\.
 
 > `(4)` Auf der Autobahn ist verboten:
-> 
+>
 >> `a)` eine Richtungsfahrbahn entgegen der vorgesehenen Fahrtrichtung zu befahren, sofern sich nicht aus Straßenverkehrszeichen oder Bodenmarkierungen etwas anderes ergibt,
-> 
+>
 >> `b)` umzukehren, ausgenommen im Bereich eines Grenzüberganges auf Anordnung von öffentlichen Organen,
-> 
+>
 >> `c)` Betriebsumkehren zu befahren, ausgenommen mit Fahrzeugen des Straßendienstes, der Straßenaufsicht, des Pannendienstes oder der Arbeitsinspektionsorgane in Erfüllung ihrer gesetzlichen Aufgaben,
-> 
+>
 >> `d)` den Pannenstreifen zu befahren, ausgenommen mit Fahrzeugen des Straßendienstes, der Straßenaufsicht oder des Pannendienstes, in den Fällen des § 44d, im Zuge des Beschleunigens zum Zweck des Wiedereinordnens in den fließenden Verkehr, zwecks Bildung einer Rettungsgasse und sofern sich nicht aus Straßenverkehrszeichen oder Bodenmarkierungen etwas anderes ergibt,
-> 
+>
 >> `e)` außerhalb der durch Hinweiszeichen gekennzeichneten Stellen zu halten oder zu parken,
-> 
+>
 >> `f)` rückwärts zu fahren; dieses Verbot gilt jedoch nicht, wenn mit einem Fahrzeug des Straßendienstes bei Arbeitsfahrten zurückgefahren werden muß\.
 
 > `(4a)` Auf Abschnitten einer Richtungsfahrbahn mit mindestens drei Fahrstreifen ist das Befahren des äußerst linken Fahrstreifens mit Lastkraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von mehr als 7,5 t verboten; dies gilt nicht, soweit das Befahren dieses Fahrstreifens notwendig ist, um sich entsprechend der beabsichtigten Weiterfahrt einzuordnen\.
@@ -1368,7 +1368,7 @@ Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und b
 
 ### § 47 StVO — Autostraßen
 
-Autostraßen sind Vorrangstraßen; für sie gelten die im § 46 Abs\. 1, 3, 4 und 6 enthaltenen Bestimmungen über den Verkehr auf Autobahnen sinngemäß\.
+> Autostraßen sind Vorrangstraßen; für sie gelten die im § 46 Abs\. 1, 3, 4 und 6 enthaltenen Bestimmungen über den Verkehr auf Autobahnen sinngemäß\.
 
 ## D. Straßenverkehrszeichen.
 
@@ -1383,13 +1383,13 @@ Autostraßen sind Vorrangstraßen; für sie gelten die im § 46 Abs\. 1, 3, 4 
 > `(3)` Bei Arbeitsfahrten gemäß § 27 Abs\. 1 können Straßenverkehrszeichen an Fahrzeugen des Straßendienstes angebracht werden\. Solcherart angebrachte Straßenverkehrszeichen gelten nur für den Bereich der Arbeitstätigkeit; das Ende einer Beschränkung ist daher in diesem Falle nicht anzuzeigen\. Beim Anbringen von Straßenverkehrszeichen an Fahrzeugen des Straßendienstes finden auch die Bestimmungen des Abs\. 2 über das beiderseitige Anbringen von Gefahrenzeichen und Vorschriftszeichen auf Autobahnen und des § 52 Z 4a und 4c über das beiderseitige Anbringen der dort angeführten Zeichen keine Anwendung\.
 
 > `(4)` Auf einer Anbringungsvorrichtung für Straßenverkehrszeichen \(wie Standsäulen, Rahmen, Träger und dgl\.\) dürfen nicht mehr als zwei Straßenverkehrszeichen angebracht werden; dies gilt nicht
-> 
+>
 >> `1.` für eine Kundmachung nach § 25 Abs\. 2 oder § 44 Abs\. 4,
-> 
+>
 >> `2.` für die Anbringung der Hinweiszeichen „Wegweiser“ sowie
-> 
+>
 >> `3.` für die Anbringung von Straßenverkehrszeichen, deren Inhalt miteinander in Zusammenhang steht\.
-> 
+>
 > &nbsp; Die Anbringung sonstiger Beschriftungen, bildlicher Darstellungen, Tafeln oder dgl\. auf derselben Anbringungsvorrichtung bewirkt \- unbeschadet der §§ 31 Abs\. 2 und 53 Abs\. 1 Z 17a \- nicht die Unwirksamkeit der Kundmachung einer Verordnung \(§ 44 Abs\. 1\)\.
 
 > `(5)` Der Abstand zwischen dem unteren Rand eines Straßenverkehrszeichens und der Fahrbahn darf bei seitlicher Anbringung nicht weniger als 0,60 m und nur in Ausnahmefällen mehr als 2,50 m, bei Anbringung oberhalb der Fahrbahn nicht weniger als 4,50 m und nur in Ausnahmefällen oder bei Verwendung beleuchteter Straßenverkehrszeichen mehr als 5,50 m betragen, sofern sich aus den Bestimmungen dieses Bundesgesetzes bei einzelnen Straßenverkehrszeichen nichts anderes ergibt; der Abstand zwischen dem unteren Rand eines Straßenverkehrszeichens und einer für den Fußgängerverkehr bestimmten Fläche darf bei Anbringung auf einer solchen Fläche nur in Ausnahmefällen weniger als 2,20 m betragen\. Bei seitlicher Anbringung darf unter Berücksichtigung des fließenden und ruhenden Verkehrs der seitliche Abstand zwischen dem der Fahrbahn zunächst liegenden Rand eines Straßenverkehrszeichens und dem Fahrbahnrand im Ortsgebiet zwischen 0 m und nur im Ausnahmefall mehr als 2, 50 m, auf Freilandstraßen nur in Ausnahmefällen weniger als 30 cm und mehr als 2, 50 m betragen\. Eine nicht fest mit dem Untergrund verbundene Anbringungsvorrichtung darf auch auf der Fahrbahn angebracht werden, wenn die Sicherheit, Leichtigkeit und Flüssigkeit des fließenden Verkehrs nicht gefährdet wird; in diesem Fall darf der seitliche Abstand zwischen dem dem Fahrbahnrand zunächst liegenden Rand eines Straßenverkehrszeichens und dem Fahrbahnrand nicht mehr als 0,30 m betragen\. Sind auf einer Anbringungsvorrichtung mehr als ein Straßenverkehrszeichen angebracht, so gelten bei untereinander angebrachten Zeichen die Maßangaben bezüglich des Höhenabstandes für das untere Zeichen, bei nebeneinander angebrachten Zeichen die Maßangaben bezüglich des Seitenabstandes für das näher der Fahrbahn angebrachte Zeichen\. Die weiteren Zeichen sind in einem solchen Fall entsprechend den Größenverhältnissen anzubringen\.
@@ -1408,22 +1408,22 @@ Autostraßen sind Vorrangstraßen; für sie gelten die im § 46 Abs\. 1, 3, 4 
 
 ### § 50 StVO — Die Gefahrenzeichen
 
-Die Gefahrenzeichen sind
+> Die Gefahrenzeichen sind
 
 #### 1\. „QUERRINNE“ oder „AUFWÖLBUNG“
 
-![BG.StVO.obj.BN.NOR40081328.image001.png](BG.StVO.obj.BN.NOR40081328.image001.png "~/Dokumente/Bundesnormen/NOR40081328/image001.png")
-
-Dieses Zeichen zeigt Hindernisse, wie Querrinnen, Aufwölbungen oder aufgewölbte Brücken, an\.
+> ![BG.StVO.obj.BN.NOR40081328.image001.png](BG.StVO.obj.BN.NOR40081328.image001.png "~/Dokumente/Bundesnormen/NOR40081328/image001.png")
+>
+> Dieses Zeichen zeigt Hindernisse, wie Querrinnen, Aufwölbungen oder aufgewölbte Brücken, an\.
 
 #### 2\. „GEFÄHRLICHE KURVEN“ oder „GEFÄHRLICHE KURVE“
 
-![BG.StVO.obj.BN.NOR40081328.image002.png](BG.StVO.obj.BN.NOR40081328.image002.png "~/Dokumente/Bundesnormen/NOR40081328/image002.png")  
-![BG.StVO.obj.BN.NOR40081328.image003.png](BG.StVO.obj.BN.NOR40081328.image003.png "~/Dokumente/Bundesnormen/NOR40081328/image003.png")  
-![BG.StVO.obj.BN.NOR40081328.image004.png](BG.StVO.obj.BN.NOR40081328.image004.png "~/Dokumente/Bundesnormen/NOR40081328/image004.png")  
-![BG.StVO.obj.BN.NOR40081328.image005.png](BG.StVO.obj.BN.NOR40081328.image005.png "~/Dokumente/Bundesnormen/NOR40081328/image005.png")
-
-Diese Zeichen zeigen an:
+> ![BG.StVO.obj.BN.NOR40081328.image002.png](BG.StVO.obj.BN.NOR40081328.image002.png "~/Dokumente/Bundesnormen/NOR40081328/image002.png")  
+> ![BG.StVO.obj.BN.NOR40081328.image003.png](BG.StVO.obj.BN.NOR40081328.image003.png "~/Dokumente/Bundesnormen/NOR40081328/image003.png")  
+> ![BG.StVO.obj.BN.NOR40081328.image004.png](BG.StVO.obj.BN.NOR40081328.image004.png "~/Dokumente/Bundesnormen/NOR40081328/image004.png")  
+> ![BG.StVO.obj.BN.NOR40081328.image005.png](BG.StVO.obj.BN.NOR40081328.image005.png "~/Dokumente/Bundesnormen/NOR40081328/image005.png")
+>
+> Diese Zeichen zeigen an:
 
 > `a)` eine Rechtskurve,
 
@@ -1433,85 +1433,82 @@ Diese Zeichen zeigen an:
 
 > `d)` eine Doppelkurve links beginnend;
 
-sie sind vor Kurven, die wegen ihrer Beschaffenheit oder Unübersichtlichkeit gefährlich sind, dem Verlauf der Kurve entsprechend anzubringen\. Sind auf einer kurvenreichen Strecke die Kurven nicht mehr als 240 m voneinander entfernt, so genügt die Anbringung eines der ersten Kurve entsprechenden Zeichens nach lit\. c oder d, unter dem auf einer Zusatztafel nach § 54 Abs\. 5 lit\. b die Länge der kurvenreichen Strecke anzugeben ist\.
+> sie sind vor Kurven, die wegen ihrer Beschaffenheit oder Unübersichtlichkeit gefährlich sind, dem Verlauf der Kurve entsprechend anzubringen\. Sind auf einer kurvenreichen Strecke die Kurven nicht mehr als 240 m voneinander entfernt, so genügt die Anbringung eines der ersten Kurve entsprechenden Zeichens nach lit\. c oder d, unter dem auf einer Zusatztafel nach § 54 Abs\. 5 lit\. b die Länge der kurvenreichen Strecke anzugeben ist\.
 
 #### 3\. „KREUZUNG“
 
-![BG.StVO.obj.BN.NOR40081328.image006.png](BG.StVO.obj.BN.NOR40081328.image006.png "~/Dokumente/Bundesnormen/NOR40081328/image006.png")
-
-Dieses Zeichen zeigt eine Kreuzung an; in Ortsgebieten ist es nur anzubringen, wenn es die Verkehrssicherheit im besonderen Maße erfordert\.
+> ![BG.StVO.obj.BN.NOR40081328.image006.png](BG.StVO.obj.BN.NOR40081328.image006.png "~/Dokumente/Bundesnormen/NOR40081328/image006.png")
+>
+> Dieses Zeichen zeigt eine Kreuzung an; in Ortsgebieten ist es nur anzubringen, wenn es die Verkehrssicherheit im besonderen Maße erfordert\.
 
 #### 3a\. „KREUZUNG MIT KREISVERKEHR“
 
-![BG.StVO.obj.BN.NOR40081328.image007.png](BG.StVO.obj.BN.NOR40081328.image007.png "~/Dokumente/Bundesnormen/NOR40081328/image007.png")
-
-Dieses Zeichen kann an Stelle des Zeichens nach Z 3 und nach Maßgabe der Bestimmungen der Z 3 aufgestellt werden, um eine Kreuzung mit Kreisverkehr anzuzeigen\.
+> ![BG.StVO.obj.BN.NOR40081328.image007.png](BG.StVO.obj.BN.NOR40081328.image007.png "~/Dokumente/Bundesnormen/NOR40081328/image007.png")
+>
+> Dieses Zeichen kann an Stelle des Zeichens nach Z 3 und nach Maßgabe der Bestimmungen der Z 3 aufgestellt werden, um eine Kreuzung mit Kreisverkehr anzuzeigen\.
 
 #### 4\. „KREUZUNG MIT STRASSE OHNE VORRANG“
 
-![BG.StVO.obj.BN.NOR40081328.image008.png](BG.StVO.obj.BN.NOR40081328.image008.png "~/Dokumente/Bundesnormen/NOR40081328/image008.png")
-
-Dieses Zeichen zeigt eine Kreuzung mit einer Straße ohne Vorrang an und bedeutet, dass das in der Richtung des starken Striches fahrende Fahrzeug den Vorrang hat \(§ 19\)\.
-
-*\(Anm\.: 5 aufgehoben durch Art I Z 55 BG, BGBl\. Nr\. 412/1976\.\)*
+> ![BG.StVO.obj.BN.NOR40081328.image008.png](BG.StVO.obj.BN.NOR40081328.image008.png "~/Dokumente/Bundesnormen/NOR40081328/image008.png")
+>
+> Dieses Zeichen zeigt eine Kreuzung mit einer Straße ohne Vorrang an und bedeutet, dass das in der Richtung des starken Striches fahrende Fahrzeug den Vorrang hat \(§ 19\)\.
+>
+> *\(Anm\.: 5 aufgehoben durch Art I Z 55 BG, BGBl\. Nr\. 412/1976\.\)*
 
 #### 6a\. „BAHNÜBERGANG MIT SCHRANKEN“
 
-![BG.StVO.obj.BN.NOR40081328.image009.png](BG.StVO.obj.BN.NOR40081328.image009.png "~/Dokumente/Bundesnormen/NOR40081328/image009.png")
-
-Dieses Zeichen kündigt einen durch Schranken gesicherten Eisenbahnübergang an; es ist vor jedem so gesicherten Bahnübergang anzubringen\.
+> ![BG.StVO.obj.BN.NOR40081328.image009.png](BG.StVO.obj.BN.NOR40081328.image009.png "~/Dokumente/Bundesnormen/NOR40081328/image009.png")
+>
+> Dieses Zeichen kündigt einen durch Schranken gesicherten Eisenbahnübergang an; es ist vor jedem so gesicherten Bahnübergang anzubringen\.
 
 #### 6b\. „BAHNÜBERGANG OHNE SCHRANKEN“
 
-![BG.StVO.obj.BN.NOR40081328.image010.png](BG.StVO.obj.BN.NOR40081328.image010.png "~/Dokumente/Bundesnormen/NOR40081328/image010.png")
-
-Dieses Zeichen kündigt einen nicht durch Schranken gesicherten Eisenbahnübergang an; es ist vor jedem solchen Bahnübergang, ausgenommen bei Straßenbahnen im Ortsgebiet, anzubringen\. Die Behörde kann die Anbringung des Zeichens bei Bahnübergängen von Anschluß\- oder Materialbahnen erlassen, wenn diese durch Bewachung gesichert werden und die Zeichen des Bewachungsorganes für den Straßenbenützer rechtzeitig erkennbar sind\.
+> ![BG.StVO.obj.BN.NOR40081328.image010.png](BG.StVO.obj.BN.NOR40081328.image010.png "~/Dokumente/Bundesnormen/NOR40081328/image010.png")
+>
+> Dieses Zeichen kündigt einen nicht durch Schranken gesicherten Eisenbahnübergang an; es ist vor jedem solchen Bahnübergang, ausgenommen bei Straßenbahnen im Ortsgebiet, anzubringen\. Die Behörde kann die Anbringung des Zeichens bei Bahnübergängen von Anschluß\- oder Materialbahnen erlassen, wenn diese durch Bewachung gesichert werden und die Zeichen des Bewachungsorganes für den Straßenbenützer rechtzeitig erkennbar sind\.
 
 #### 6c\. „BAKEN“
 
-![BG.StVO.obj.BN.NOR40081328.image011.png](BG.StVO.obj.BN.NOR40081328.image011.png "~/Dokumente/Bundesnormen/NOR40081328/image011.png") ![BG.StVO.obj.BN.NOR40081328.image012.png](BG.StVO.obj.BN.NOR40081328.image012.png "~/Dokumente/Bundesnormen/NOR40081328/image012.png")  
-![BG.StVO.obj.BN.NOR40081328.image013.png](BG.StVO.obj.BN.NOR40081328.image013.png "~/Dokumente/Bundesnormen/NOR40081328/image013.png") ![BG.StVO.obj.BN.NOR40081328.image014.png](BG.StVO.obj.BN.NOR40081328.image014.png "~/Dokumente/Bundesnormen/NOR40081328/image014.png")
-
-Diese Zeichen kündigen Eisenbahnübergänge an und sind beiderseits der Straße anzubringen; die Baken mit den 3 roten schräg gestellten Balken sind unter den in Z 6a und 6b angeführten Zeichen ungefähr 240 m, die Baken mit 2 Balken ungefähr 160 m und die Baken mit einem Balken ungefähr 80 m vor dem Bahnübergang anzubringen\. Diese Zeichen sind vor allen schienengleichen Eisenbahnübergängen auf Straßen, die für den Durchzugsverkehr von Bedeutung sind, dann anzubringen, wenn es sich um eine Haupt\- oder Nebenbahn im Sinne des § 4 Eisenbahngesetz 1957, BGBl\. Nr\. 60/1957, handelt\. In anderen Fällen sind die Baken dann anzubringen, wenn es die Verkehrssicherheit erfordert\.
+> ![BG.StVO.obj.BN.NOR40081328.image011.png](BG.StVO.obj.BN.NOR40081328.image011.png "~/Dokumente/Bundesnormen/NOR40081328/image011.png") ![BG.StVO.obj.BN.NOR40081328.image012.png](BG.StVO.obj.BN.NOR40081328.image012.png "~/Dokumente/Bundesnormen/NOR40081328/image012.png")  
+> ![BG.StVO.obj.BN.NOR40081328.image013.png](BG.StVO.obj.BN.NOR40081328.image013.png "~/Dokumente/Bundesnormen/NOR40081328/image013.png") ![BG.StVO.obj.BN.NOR40081328.image014.png](BG.StVO.obj.BN.NOR40081328.image014.png "~/Dokumente/Bundesnormen/NOR40081328/image014.png")
+>
+> Diese Zeichen kündigen Eisenbahnübergänge an und sind beiderseits der Straße anzubringen; die Baken mit den 3 roten schräg gestellten Balken sind unter den in Z 6a und 6b angeführten Zeichen ungefähr 240 m, die Baken mit 2 Balken ungefähr 160 m und die Baken mit einem Balken ungefähr 80 m vor dem Bahnübergang anzubringen\. Diese Zeichen sind vor allen schienengleichen Eisenbahnübergängen auf Straßen, die für den Durchzugsverkehr von Bedeutung sind, dann anzubringen, wenn es sich um eine Haupt\- oder Nebenbahn im Sinne des § 4 Eisenbahngesetz 1957, BGBl\. Nr\. 60/1957, handelt\. In anderen Fällen sind die Baken dann anzubringen, wenn es die Verkehrssicherheit erfordert\.
 
 #### 6d\. „ANDREASKREUZ“
 
-![BG.StVO.obj.BN.NOR40081328.image015.png](BG.StVO.obj.BN.NOR40081328.image015.png "~/Dokumente/Bundesnormen/NOR40081328/image015.png")  
-![BG.StVO.obj.BN.NOR40081328.image016.png](BG.StVO.obj.BN.NOR40081328.image016.png "~/Dokumente/Bundesnormen/NOR40081328/image016.png")  
-![BG.StVO.obj.BN.NOR40081328.image017.png](BG.StVO.obj.BN.NOR40081328.image017.png "~/Dokumente/Bundesnormen/NOR40081328/image017.png")  
-![BG.StVO.obj.BN.NOR40081328.image018.png](BG.StVO.obj.BN.NOR40081328.image018.png "~/Dokumente/Bundesnormen/NOR40081328/image018.png")
-
-Dieses Zeichen zeigt einen Bahnübergang an\. Näheres über die Anbringung dieses Zeichens und über das Verhalten der Straßenbenützer bei einem solchen Zeichen ergibt sich aus eisenbahnrechtlichen Vorschriften\.
-
-*\(Anm\.: 6e aufgehoben durch Art I Z 34 BG, BGBl\. Nr\. 204/1964\)*
+> ![BG.StVO.obj.BN.NOR40081328.image015.png](BG.StVO.obj.BN.NOR40081328.image015.png "~/Dokumente/Bundesnormen/NOR40081328/image015.png")  
+> ![BG.StVO.obj.BN.NOR40081328.image016.png](BG.StVO.obj.BN.NOR40081328.image016.png "~/Dokumente/Bundesnormen/NOR40081328/image016.png")  
+> ![BG.StVO.obj.BN.NOR40081328.image017.png](BG.StVO.obj.BN.NOR40081328.image017.png "~/Dokumente/Bundesnormen/NOR40081328/image017.png")  
+> ![BG.StVO.obj.BN.NOR40081328.image018.png](BG.StVO.obj.BN.NOR40081328.image018.png "~/Dokumente/Bundesnormen/NOR40081328/image018.png")
+>
+> Dieses Zeichen zeigt einen Bahnübergang an\. Näheres über die Anbringung dieses Zeichens und über das Verhalten der Straßenbenützer bei einem solchen Zeichen ergibt sich aus eisenbahnrechtlichen Vorschriften\.
+>
+> *\(Anm\.: 6e aufgehoben durch Art I Z 34 BG, BGBl\. Nr\. 204/1964\)*
 
 #### 7\. „GEFÄHRLICHES GEFÄLLE“
 
-![BG.StVO.obj.BN.NOR40081328.image019.png](BG.StVO.obj.BN.NOR40081328.image019.png "~/Dokumente/Bundesnormen/NOR40081328/image019.png")
-
-Dieses Zeichen kündigt ein starkes Gefälle der Straße an\. Das Gefälle ist in Prozenten anzugeben und hat sich auf den steilsten Teil der Strecke zu beziehen\.
+> ![BG.StVO.obj.BN.NOR40081328.image019.png](BG.StVO.obj.BN.NOR40081328.image019.png "~/Dokumente/Bundesnormen/NOR40081328/image019.png")
+>
+> Dieses Zeichen kündigt ein starkes Gefälle der Straße an\. Das Gefälle ist in Prozenten anzugeben und hat sich auf den steilsten Teil der Strecke zu beziehen\.
 
 #### 7a\. „STARKE STEIGUNG“
 
-![BG.StVO.obj.BN.NOR40081328.image020.png](BG.StVO.obj.BN.NOR40081328.image020.png "~/Dokumente/Bundesnormen/NOR40081328/image020.png")
-
-Dieses Zeichen kündigt eine starke Steigung der Straße an\. Die Steigung ist in Prozenten anzugeben und hat sich auf den steilsten Teil der Strecke zu beziehen\.
+> ![BG.StVO.obj.BN.NOR40081328.image020.png](BG.StVO.obj.BN.NOR40081328.image020.png "~/Dokumente/Bundesnormen/NOR40081328/image020.png")
+>
+> Dieses Zeichen kündigt eine starke Steigung der Straße an\. Die Steigung ist in Prozenten anzugeben und hat sich auf den steilsten Teil der Strecke zu beziehen\.
 
 #### 8\. „FAHRBAHNVERENGUNG“
 
-> `a)` 
 
-![BG.StVO.obj.BN.NOR40081328.image021.png](BG.StVO.obj.BN.NOR40081328.image021.png "~/Dokumente/Bundesnormen/NOR40081328/image021.png")
+> ![BG.StVO.obj.BN.NOR40081328.image021.png](BG.StVO.obj.BN.NOR40081328.image021.png "~/Dokumente/Bundesnormen/NOR40081328/image021.png")
 
-> `b)` 
 
-![BG.StVO.obj.BN.NOR40081328.image022.png](BG.StVO.obj.BN.NOR40081328.image022.png "~/Dokumente/Bundesnormen/NOR40081328/image022.png")
+> ![BG.StVO.obj.BN.NOR40081328.image022.png](BG.StVO.obj.BN.NOR40081328.image022.png "~/Dokumente/Bundesnormen/NOR40081328/image022.png")
 
-> `c)` 
 
-![BG.StVO.obj.BN.NOR40081328.image023.png](BG.StVO.obj.BN.NOR40081328.image023.png "~/Dokumente/Bundesnormen/NOR40081328/image023.png")
-
-Diese Zeichen kündigen
+> ![BG.StVO.obj.BN.NOR40081328.image023.png](BG.StVO.obj.BN.NOR40081328.image023.png "~/Dokumente/Bundesnormen/NOR40081328/image023.png")
+>
+> Diese Zeichen kündigen
 
 > `a)` eine beiderseitige,
 
@@ -1519,91 +1516,91 @@ Diese Zeichen kündigen
 
 > `c)` eine rechtsseitige
 
-&nbsp; Verengung der Fahrbahn an\.
+> &nbsp; Verengung der Fahrbahn an\.
 
 #### 9\. „BAUSTELLE“
 
-![BG.StVO.obj.BN.NOR40081328.image024.png](BG.StVO.obj.BN.NOR40081328.image024.png "~/Dokumente/Bundesnormen/NOR40081328/image024.png")
-
-Dieses Zeichen zeigt Arbeiten auf oder neben der Straße sowie damit üblicherweise verbundene Gefahren \(wie Straßenverunreinigungen, Rollsplitt, Künettenabdeckungen und dgl\.\) an\.
+> ![BG.StVO.obj.BN.NOR40081328.image024.png](BG.StVO.obj.BN.NOR40081328.image024.png "~/Dokumente/Bundesnormen/NOR40081328/image024.png")
+>
+> Dieses Zeichen zeigt Arbeiten auf oder neben der Straße sowie damit üblicherweise verbundene Gefahren \(wie Straßenverunreinigungen, Rollsplitt, Künettenabdeckungen und dgl\.\) an\.
 
 #### 10\. „SCHLEUDERGEFAHR“
 
-![BG.StVO.obj.BN.NOR40081328.image025.png](BG.StVO.obj.BN.NOR40081328.image025.png "~/Dokumente/Bundesnormen/NOR40081328/image025.png")
-
-Dieses Zeichen zeigt Stellen an, auf denen auf der Fahrbahn unter besonderen Verhältnissen Gleitgefahr besteht\. Auf einer Zusatztafel kann die Ursache der Gleitgefahr angekündigt werden\.
+> ![BG.StVO.obj.BN.NOR40081328.image025.png](BG.StVO.obj.BN.NOR40081328.image025.png "~/Dokumente/Bundesnormen/NOR40081328/image025.png")
+>
+> Dieses Zeichen zeigt Stellen an, auf denen auf der Fahrbahn unter besonderen Verhältnissen Gleitgefahr besteht\. Auf einer Zusatztafel kann die Ursache der Gleitgefahr angekündigt werden\.
 
 #### 10a\. „SEITENWIND“
 
-![BG.StVO.obj.BN.NOR40081328.image026.png](BG.StVO.obj.BN.NOR40081328.image026.png "~/Dokumente/Bundesnormen/NOR40081328/image026.png")
-
-Dieses Zeichen zeigt Stellen an, auf denen häufig starker Seitenwind auftritt, dessen Stärke und Richtung durch einen Windsack angezeigt werden kann\.
+> ![BG.StVO.obj.BN.NOR40081328.image026.png](BG.StVO.obj.BN.NOR40081328.image026.png "~/Dokumente/Bundesnormen/NOR40081328/image026.png")
+>
+> Dieses Zeichen zeigt Stellen an, auf denen häufig starker Seitenwind auftritt, dessen Stärke und Richtung durch einen Windsack angezeigt werden kann\.
 
 #### 10b\. „STEINSCHLAG“
 
-![BG.StVO.obj.BN.NOR40081328.image027.png](BG.StVO.obj.BN.NOR40081328.image027.png "~/Dokumente/Bundesnormen/NOR40081328/image027.png")
-
-Dieses Zeichen kündigt einen Straßenabschnitt an, wo mit Steinschlag und daher auch mit Steinen auf der Straße zu rechnen ist\.
+> ![BG.StVO.obj.BN.NOR40081328.image027.png](BG.StVO.obj.BN.NOR40081328.image027.png "~/Dokumente/Bundesnormen/NOR40081328/image027.png")
+>
+> Dieses Zeichen kündigt einen Straßenabschnitt an, wo mit Steinschlag und daher auch mit Steinen auf der Straße zu rechnen ist\.
 
 #### 10c\. „FLUGBETRIEB“
 
-![BG.StVO.obj.BN.NOR40081328.image028.png](BG.StVO.obj.BN.NOR40081328.image028.png "~/Dokumente/Bundesnormen/NOR40081328/image028.png")
-
-Dieses Zeichen kündigt einen Straßenabschnitt an, wo mit tieffliegenden Luftfahrzeugen zu rechnen ist\.
+> ![BG.StVO.obj.BN.NOR40081328.image028.png](BG.StVO.obj.BN.NOR40081328.image028.png "~/Dokumente/Bundesnormen/NOR40081328/image028.png")
+>
+> Dieses Zeichen kündigt einen Straßenabschnitt an, wo mit tieffliegenden Luftfahrzeugen zu rechnen ist\.
 
 #### 11\. „FUSSGÄNGERÜBERGANG“
 
-![BG.StVO.obj.BN.NOR40081328.image029.png](BG.StVO.obj.BN.NOR40081328.image029.png "~/Dokumente/Bundesnormen/NOR40081328/image029.png")
-
-Dieses Zeichen zeigt einen Schutzweg \(§ 2 Abs\. 1 Z 12\) an\.
+> ![BG.StVO.obj.BN.NOR40081328.image029.png](BG.StVO.obj.BN.NOR40081328.image029.png "~/Dokumente/Bundesnormen/NOR40081328/image029.png")
+>
+> Dieses Zeichen zeigt einen Schutzweg \(§ 2 Abs\. 1 Z 12\) an\.
 
 #### 11a\. „RADFAHRERÜBERFAHRT“
 
-![BG.StVO.obj.BN.NOR40081328.image030.png](BG.StVO.obj.BN.NOR40081328.image030.png "~/Dokumente/Bundesnormen/NOR40081328/image030.png")
-
-Dieses Zeichen kündigt eine Radfahrerüberfahrt an\.
+> ![BG.StVO.obj.BN.NOR40081328.image030.png](BG.StVO.obj.BN.NOR40081328.image030.png "~/Dokumente/Bundesnormen/NOR40081328/image030.png")
+>
+> Dieses Zeichen kündigt eine Radfahrerüberfahrt an\.
 
 #### 12\. „KINDER“
 
-![BG.StVO.obj.BN.NOR40081328.image031.png](BG.StVO.obj.BN.NOR40081328.image031.png "~/Dokumente/Bundesnormen/NOR40081328/image031.png")
-
-Dieses Zeichen zeigt Stellen z\. B\. in der Nähe von Schulen, Kindergärten und Spielplätzen an, wo sich häufig Kinder aufhalten\.
+> ![BG.StVO.obj.BN.NOR40081328.image031.png](BG.StVO.obj.BN.NOR40081328.image031.png "~/Dokumente/Bundesnormen/NOR40081328/image031.png")
+>
+> Dieses Zeichen zeigt Stellen z\. B\. in der Nähe von Schulen, Kindergärten und Spielplätzen an, wo sich häufig Kinder aufhalten\.
 
 #### 13a\. „ACHTUNG TIERE“
 
-![BG.StVO.obj.BN.NOR40081328.image032.png](BG.StVO.obj.BN.NOR40081328.image032.png "~/Dokumente/Bundesnormen/NOR40081328/image032.png")
-
-Dieses Zeichen zeigt den Beginn eines Gebietes an, in dem mit unbegleiteten Weidetieren zu rechnen ist\. Es ist insbesondere in Alpgebieten und in Gebieten, in denen der unbeaufsichtigte Weidegang nach altem Herkommen üblich ist, anzubringen \(§ 81 Abs\. 3\)\.
+> ![BG.StVO.obj.BN.NOR40081328.image032.png](BG.StVO.obj.BN.NOR40081328.image032.png "~/Dokumente/Bundesnormen/NOR40081328/image032.png")
+>
+> Dieses Zeichen zeigt den Beginn eines Gebietes an, in dem mit unbegleiteten Weidetieren zu rechnen ist\. Es ist insbesondere in Alpgebieten und in Gebieten, in denen der unbeaufsichtigte Weidegang nach altem Herkommen üblich ist, anzubringen \(§ 81 Abs\. 3\)\.
 
 #### 13b\. „ACHTUNG WILDWECHSEL“
 
-![BG.StVO.obj.BN.NOR40081328.image033.png](BG.StVO.obj.BN.NOR40081328.image033.png "~/Dokumente/Bundesnormen/NOR40081328/image033.png")
-
-Dieses Zeichen zeigt ein Gebiet an, wo damit zu rechnen ist, dass Wild die Straße überquert\.
+> ![BG.StVO.obj.BN.NOR40081328.image033.png](BG.StVO.obj.BN.NOR40081328.image033.png "~/Dokumente/Bundesnormen/NOR40081328/image033.png")
+>
+> Dieses Zeichen zeigt ein Gebiet an, wo damit zu rechnen ist, dass Wild die Straße überquert\.
 
 #### 14\. „ACHTUNG GEGENVERKEHR“
 
-![BG.StVO.obj.BN.NOR40081328.image034.png](BG.StVO.obj.BN.NOR40081328.image034.png "~/Dokumente/Bundesnormen/NOR40081328/image034.png")
-
-Dieses Zeichen zeigt an, dass auf Straßen, auf denen sonst nur in einer Richtung gefahren wird, mit Gegenverkehr zu rechnen ist\.
+> ![BG.StVO.obj.BN.NOR40081328.image034.png](BG.StVO.obj.BN.NOR40081328.image034.png "~/Dokumente/Bundesnormen/NOR40081328/image034.png")
+>
+> Dieses Zeichen zeigt an, dass auf Straßen, auf denen sonst nur in einer Richtung gefahren wird, mit Gegenverkehr zu rechnen ist\.
 
 #### 14a\.    ‚ACHTUNG FALSCHFAHRER’
 
-![BG.StVO.obj.BN.NOR40081328.image035.jpg](BG.StVO.obj.BN.NOR40081328.image035.jpg "~/Dokumente/Bundesnormen/NOR40081328/image035.jpg")
-
-Dieses Zeichen zeigt an, dass ein Fahrzeug auf einer Richtungsfahrbahn entgegen der vorgesehenen Fahrtrichtung fährt, obwohl das nicht durch Straßenverkehrszeichen oder Bodenmarkierungen erlaubt ist\.
+> ![BG.StVO.obj.BN.NOR40081328.image035.jpg](BG.StVO.obj.BN.NOR40081328.image035.jpg "~/Dokumente/Bundesnormen/NOR40081328/image035.jpg")
+>
+> Dieses Zeichen zeigt an, dass ein Fahrzeug auf einer Richtungsfahrbahn entgegen der vorgesehenen Fahrtrichtung fährt, obwohl das nicht durch Straßenverkehrszeichen oder Bodenmarkierungen erlaubt ist\.
 
 #### 15\. „VORANKÜNDIGUNG EINES LICHTZEICHENS“
 
-![BG.StVO.obj.BN.NOR40081328.image036.png](BG.StVO.obj.BN.NOR40081328.image036.png "~/Dokumente/Bundesnormen/NOR40081328/image036.png")
-
-Dieses Zeichen kündigt eine Lichtsignalanlage an\. Es ist nur dann anzubringen, wenn mit einer Lichtsignalanlage üblicherweise nicht gerechnet werden muss oder wenn eine solche Anlage schlecht wahrnehmbar ist\.
+> ![BG.StVO.obj.BN.NOR40081328.image036.png](BG.StVO.obj.BN.NOR40081328.image036.png "~/Dokumente/Bundesnormen/NOR40081328/image036.png")
+>
+> Dieses Zeichen kündigt eine Lichtsignalanlage an\. Es ist nur dann anzubringen, wenn mit einer Lichtsignalanlage üblicherweise nicht gerechnet werden muss oder wenn eine solche Anlage schlecht wahrnehmbar ist\.
 
 #### 16\. „ANDERE GEFAHREN“
 
-![BG.StVO.obj.BN.NOR40081328.image037.png](BG.StVO.obj.BN.NOR40081328.image037.png "~/Dokumente/Bundesnormen/NOR40081328/image037.png")
-
-Dieses Zeichen kündigt andere als in Z 1 bis 15 angeführte Gefahrenstellen an\. Auf einer Zusatztafel unter dem Zeichen kann die Gefahr näher bezeichnet werden, wie etwa Bankett nicht befahrbar, Holzbringung, Lawinengefahr, Wasserschutzgebiet u\. dgl\.
+> ![BG.StVO.obj.BN.NOR40081328.image037.png](BG.StVO.obj.BN.NOR40081328.image037.png "~/Dokumente/Bundesnormen/NOR40081328/image037.png")
+>
+> Dieses Zeichen kündigt andere als in Z 1 bis 15 angeführte Gefahrenstellen an\. Auf einer Zusatztafel unter dem Zeichen kann die Gefahr näher bezeichnet werden, wie etwa Bankett nicht befahrbar, Holzbringung, Lawinengefahr, Wasserschutzgebiet u\. dgl\.
 
 ### § 51 StVO — Allgemeines über Vorschriftszeichen
 
@@ -1619,7 +1616,7 @@ Dieses Zeichen kündigt andere als in Z 1 bis 15 angeführte Gefahrenstellen an
 
 ### § 52 StVO — Die Vorschriftszeichen
 
-Die Vorschriftszeichen sind
+> Die Vorschriftszeichen sind
 
 > `a)` Verbots\- oder Beschränkungszeichen,
 
@@ -1631,206 +1628,206 @@ Die Vorschriftszeichen sind
 
 #### 1\. „FAHRVERBOT \(IN BEIDEN RICHTUNGEN\)“
 
-![BG.StVO.obj.BN.NOR40261453.H.img1is.png](BG.StVO.obj.BN.NOR40261453.H.img1is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img1is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren in beiden Fahrtrichtungen verboten ist; das Schieben eines Fahrrades ist erlaubt\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img1is.png](BG.StVO.obj.BN.NOR40261453.H.img1is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img1is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren in beiden Fahrtrichtungen verboten ist; das Schieben eines Fahrrades ist erlaubt\.
 
 #### 2\. „EINFAHRT VERBOTEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img2is.png](BG.StVO.obj.BN.NOR40261453.H.img2is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img2is.png")
-
-Dieses Zeichen zeigt an, dass die Einfahrt verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img2is.png](BG.StVO.obj.BN.NOR40261453.H.img2is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img2is.png")
+>
+> Dieses Zeichen zeigt an, dass die Einfahrt verboten ist\.
 
 #### 3a\. „EINBIEGEN NACH LINKS VERBOTEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img3is.png](BG.StVO.obj.BN.NOR40261453.H.img3is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img3is.png")
+> ![BG.StVO.obj.BN.NOR40261453.H.img3is.png](BG.StVO.obj.BN.NOR40261453.H.img3is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img3is.png")
 
 #### 3b\. „EINBIEGEN NACH RECHTS VERBOTEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img4is.png](BG.StVO.obj.BN.NOR40261453.H.img4is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img4is.png")
-
-Diese unter Z 3a und 3b angeführten Zeichen zeigen je nach der Richtung des Pfeiles an, dass das Einbiegen in die nächste Querstraße nach rechts oder links verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img4is.png](BG.StVO.obj.BN.NOR40261453.H.img4is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img4is.png")
+>
+> Diese unter Z 3a und 3b angeführten Zeichen zeigen je nach der Richtung des Pfeiles an, dass das Einbiegen in die nächste Querstraße nach rechts oder links verboten ist\.
 
 #### 3c\. „UMKEHREN VERBOTEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img5is.png](BG.StVO.obj.BN.NOR40261453.H.img5is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img5is.png")
-
-Dieses Zeichen zeigt an, dass an der betreffenden Straßenstelle oder Kreuzung das Umkehren verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img5is.png](BG.StVO.obj.BN.NOR40261453.H.img5is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img5is.png")
+>
+> Dieses Zeichen zeigt an, dass an der betreffenden Straßenstelle oder Kreuzung das Umkehren verboten ist\.
 
 #### 4a\. „ÜBERHOLEN VERBOTEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img6is.png](BG.StVO.obj.BN.NOR40261453.H.img6is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img6is.png")
-
-Dieses Zeichen zeigt an, dass das Überholen von mehrspurigen Kraftfahrzeugen verboten ist\. Es ist auf beiden Seiten der Fahrbahn anzubringen\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img6is.png](BG.StVO.obj.BN.NOR40261453.H.img6is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img6is.png")
+>
+> Dieses Zeichen zeigt an, dass das Überholen von mehrspurigen Kraftfahrzeugen verboten ist\. Es ist auf beiden Seiten der Fahrbahn anzubringen\.
 
 #### 4b\. „ENDE DES ÜBERHOLVERBOTES“
 
-![BG.StVO.obj.BN.NOR40261453.H.img7is.png](BG.StVO.obj.BN.NOR40261453.H.img7is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img7is.png")
-
-Dieses Zeichen zeigt das Ende des Überholverbotes \(Z 4a\) an\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img7is.png](BG.StVO.obj.BN.NOR40261453.H.img7is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img7is.png")
+>
+> Dieses Zeichen zeigt das Ende des Überholverbotes \(Z 4a\) an\.
 
 #### 4c\. „ÜBERHOLEN FÜR LASTKRAFTFAHRZEUGE VERBOTEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img8is.png](BG.StVO.obj.BN.NOR40261453.H.img8is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img8is.png")
-
-Dieses Zeichen zeigt an, dass mit Lastkraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von mehr als 3,5 t das Überholen von mehrspurigen Kraftfahrzeugen verboten ist\. Es ist auf beiden Seiten der Fahrbahn anzubringen\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img8is.png](BG.StVO.obj.BN.NOR40261453.H.img8is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img8is.png")
+>
+> Dieses Zeichen zeigt an, dass mit Lastkraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von mehr als 3,5 t das Überholen von mehrspurigen Kraftfahrzeugen verboten ist\. Es ist auf beiden Seiten der Fahrbahn anzubringen\.
 
 #### 4d\. „ENDE DES ÜBERHOLVERBOTES FÜR LASTKRAFTFAHRZEUGE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img9is.png](BG.StVO.obj.BN.NOR40261453.H.img9is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img9is.png")
-
-Dieses Zeichen zeigt das Ende des Überholverbotes für Lastkraftfahrzeuge \(Z 4c\) an\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img9is.png](BG.StVO.obj.BN.NOR40261453.H.img9is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img9is.png")
+>
+> Dieses Zeichen zeigt das Ende des Überholverbotes für Lastkraftfahrzeuge \(Z 4c\) an\.
 
 #### 5\. „WARTEPFLICHT BEI GEGENVERKEHR“
 
-![BG.StVO.obj.BN.NOR40261453.H.img10is.png](BG.StVO.obj.BN.NOR40261453.H.img10is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img10is.png")
-
-Dieses Zeichen zeigt an, dass der Lenker eines in der durch den roten Pfeil bezeichneten Fahrtrichtung fahrenden Fahrzeuges bei Gegenverkehr zu warten hat\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img10is.png](BG.StVO.obj.BN.NOR40261453.H.img10is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img10is.png")
+>
+> Dieses Zeichen zeigt an, dass der Lenker eines in der durch den roten Pfeil bezeichneten Fahrtrichtung fahrenden Fahrzeuges bei Gegenverkehr zu warten hat\.
 
 #### 6a\. „FAHRVERBOT FÜR ALLE KRAFTFAHRZEUGE AUSSER EINSPURIGEN MOTORRÄDERN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img11is.png](BG.StVO.obj.BN.NOR40261453.H.img11is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img11is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit allen mehrspurigen Kraftfahrzeugen verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img11is.png](BG.StVO.obj.BN.NOR40261453.H.img11is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img11is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit allen mehrspurigen Kraftfahrzeugen verboten ist\.
 
 #### 6b\. „FAHRVERBOT FÜR MOTORRÄDER“
 
-![BG.StVO.obj.BN.NOR40261453.H.img12is.png](BG.StVO.obj.BN.NOR40261453.H.img12is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img12is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit allen einspurigen Kraftfahrzeugen verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img12is.png](BG.StVO.obj.BN.NOR40261453.H.img12is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img12is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit allen einspurigen Kraftfahrzeugen verboten ist\.
 
 #### 6c\. „FAHRVERBOT FÜR ALLE KRAFTFAHRZEUGE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img13is.png](BG.StVO.obj.BN.NOR40261453.H.img13is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img13is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit allen Kraftfahrzeugen verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img13is.png](BG.StVO.obj.BN.NOR40261453.H.img13is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img13is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit allen Kraftfahrzeugen verboten ist\.
 
 #### 6d\. „FAHRVERBOT FÜR KRAFTFAHRZEUGE MIT ANHÄNGER“
 
-![BG.StVO.obj.BN.NOR40261453.H.img14is.png](BG.StVO.obj.BN.NOR40261453.H.img14is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img14is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit Kraftfahrzeugen mit allen Arten von Anhängern verboten ist\. Eine Gewichtsangabe bedeutet, dass das Verbot nur gilt, wenn das höchste zulässige Gesamtgewicht des Anhängers das im Zeichen angegebene Gewicht überschreitet\. Eine Längenangabe bedeutet, dass das Verbot nur gilt, wenn die Länge des Anhängers die im Zeichen angegebene Länge überschreitet\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img14is.png](BG.StVO.obj.BN.NOR40261453.H.img14is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img14is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit Kraftfahrzeugen mit allen Arten von Anhängern verboten ist\. Eine Gewichtsangabe bedeutet, dass das Verbot nur gilt, wenn das höchste zulässige Gesamtgewicht des Anhängers das im Zeichen angegebene Gewicht überschreitet\. Eine Längenangabe bedeutet, dass das Verbot nur gilt, wenn die Länge des Anhängers die im Zeichen angegebene Länge überschreitet\.
 
 #### 7a\. „FAHRVERBOT FÜR LASTKRAFTFAHRZEUGE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img15is.png](BG.StVO.obj.BN.NOR40261453.H.img15is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img15is.png")  
-![BG.StVO.obj.BN.NOR40261453.H.img16is.png](BG.StVO.obj.BN.NOR40261453.H.img16is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img16is.png")  
-![BG.StVO.obj.BN.NOR40261453.H.img17is.png](BG.StVO.obj.BN.NOR40261453.H.img17is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img17is.png")
-
-Diese Zeichen zeigen an, dass das Fahren mit Lastkraftfahrzeugen verboten ist\.
-
-Eine Gewichtsangabe bedeutet, dass das Verbot nur für ein Lastkraftfahrzeug gilt, wenn das höchste zulässige Gesamtgewicht des Lastkraftfahrzeuges oder das höchste zulässige Gesamtgewicht eines mitgeführten Anhängers das im Zeichen angegebene Gewicht überschreitet\.
-
-Eine Längenangabe bedeutet, dass das Verbot nur gilt, wenn die Länge des Lastkraftfahrzeuges oder die Länge eines mitgeführten Anhängers oder die Länge des Lastkraftfahrzeuges samt Anhänger die im Zeichen angegebene Länge überschreitet\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img15is.png](BG.StVO.obj.BN.NOR40261453.H.img15is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img15is.png")  
+> ![BG.StVO.obj.BN.NOR40261453.H.img16is.png](BG.StVO.obj.BN.NOR40261453.H.img16is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img16is.png")  
+> ![BG.StVO.obj.BN.NOR40261453.H.img17is.png](BG.StVO.obj.BN.NOR40261453.H.img17is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img17is.png")
+>
+> Diese Zeichen zeigen an, dass das Fahren mit Lastkraftfahrzeugen verboten ist\.
+>
+> Eine Gewichtsangabe bedeutet, dass das Verbot nur für ein Lastkraftfahrzeug gilt, wenn das höchste zulässige Gesamtgewicht des Lastkraftfahrzeuges oder das höchste zulässige Gesamtgewicht eines mitgeführten Anhängers das im Zeichen angegebene Gewicht überschreitet\.
+>
+> Eine Längenangabe bedeutet, dass das Verbot nur gilt, wenn die Länge des Lastkraftfahrzeuges oder die Länge eines mitgeführten Anhängers oder die Länge des Lastkraftfahrzeuges samt Anhänger die im Zeichen angegebene Länge überschreitet\.
 
 #### 7b\. „FAHRVERBOT FÜR LASTKRAFTFAHRZEUGE MIT ANHÄNGER“
 
-![BG.StVO.obj.BN.NOR40261453.H.img18is.png](BG.StVO.obj.BN.NOR40261453.H.img18is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img18is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit Lastkraftfahrzeugen mit Anhänger verboten ist\. Die Gewichtsangabe bedeutet, dass das Mitführen von Anhängern verboten ist, deren Gesamtgewicht das im Zeichen angegebene Gewicht überschreitet\. Der Verkehr von Sattelkraftfahrzeugen und von Zugmaschinen mit einem Anhänger ist jedoch gestattet\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img18is.png](BG.StVO.obj.BN.NOR40261453.H.img18is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img18is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit Lastkraftfahrzeugen mit Anhänger verboten ist\. Die Gewichtsangabe bedeutet, dass das Mitführen von Anhängern verboten ist, deren Gesamtgewicht das im Zeichen angegebene Gewicht überschreitet\. Der Verkehr von Sattelkraftfahrzeugen und von Zugmaschinen mit einem Anhänger ist jedoch gestattet\.
 
 #### 7c\. „FAHRVERBOT FÜR FUHRWERKE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img19is.png](BG.StVO.obj.BN.NOR40261453.H.img19is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img19is.png")
-
-Dieses Zeichen zeigt an, dass die Einfahrt für Fuhrwerke \(§ 2 Abs\. 1 Z 21\) verboten ist\.
-
-7d\. *entfällt*
+> ![BG.StVO.obj.BN.NOR40261453.H.img19is.png](BG.StVO.obj.BN.NOR40261453.H.img19is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img19is.png")
+>
+> Dieses Zeichen zeigt an, dass die Einfahrt für Fuhrwerke \(§ 2 Abs\. 1 Z 21\) verboten ist\.
+>
+> 7d\. *entfällt*
 
 #### 7e\. „FAHRVERBOT FÜR KRAFTFAHRZEUGE MIT GEFÄHRLICHEN GÜTERN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img20is.png](BG.StVO.obj.BN.NOR40261453.H.img20is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img20is.png")  
-&nbsp; Dieses Zeichen zeigt an, dass das Fahren mit Beförderungseinheiten, mit denen gefährliche Güter gemäß den in § 2 Z 1 GGBG, BGBl\. I Nr\. 145/1998, angeführten Vorschriften befördert werden und die gemäß diesen Vorschriften mit orangefarbenen Tafeln zu kennzeichnen sind, verboten ist\. Bezieht sich das Verbot auf einen gemäß diesen Vorschriften kategorisierten Tunnel, ist auf einer Zusatztafel mit den Großbuchstaben „B“, „C“, „D“ oder „E“ die diesem Tunnel gemäß den genannten Vorschriften zugeordnete Tunnelkategorie anzugeben; in diesem Fall gilt das Verbot nur für Beförderungseinheiten, mit denen gefährliche Güter befördert werden, die in Tunneln der jeweiligen Tunnelkategorie nicht zugelassen sind\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img20is.png](BG.StVO.obj.BN.NOR40261453.H.img20is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img20is.png")  
+> &nbsp; Dieses Zeichen zeigt an, dass das Fahren mit Beförderungseinheiten, mit denen gefährliche Güter gemäß den in § 2 Z 1 GGBG, BGBl\. I Nr\. 145/1998, angeführten Vorschriften befördert werden und die gemäß diesen Vorschriften mit orangefarbenen Tafeln zu kennzeichnen sind, verboten ist\. Bezieht sich das Verbot auf einen gemäß diesen Vorschriften kategorisierten Tunnel, ist auf einer Zusatztafel mit den Großbuchstaben „B“, „C“, „D“ oder „E“ die diesem Tunnel gemäß den genannten Vorschriften zugeordnete Tunnelkategorie anzugeben; in diesem Fall gilt das Verbot nur für Beförderungseinheiten, mit denen gefährliche Güter befördert werden, die in Tunneln der jeweiligen Tunnelkategorie nicht zugelassen sind\.
 
 #### 7f\. „FAHRVERBOT FÜR OMNIBUSSE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img21is.png](BG.StVO.obj.BN.NOR40261453.H.img21is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img21is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit Omnibussen verboten ist\. Eine Gewichtsangabe bedeutet, dass das Verbot nur gilt, wenn das höchste zulässige Gesamtgewicht des Omnibusses das im Zeichen angegebene Gewicht überschreitet\. Eine Längenangabe bedeutet, dass das Verbot nur gilt, wenn die Länge des Omnibusses die im Zeichen angegebene Länge überschreitet\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img21is.png](BG.StVO.obj.BN.NOR40261453.H.img21is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img21is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit Omnibussen verboten ist\. Eine Gewichtsangabe bedeutet, dass das Verbot nur gilt, wenn das höchste zulässige Gesamtgewicht des Omnibusses das im Zeichen angegebene Gewicht überschreitet\. Eine Längenangabe bedeutet, dass das Verbot nur gilt, wenn die Länge des Omnibusses die im Zeichen angegebene Länge überschreitet\.
 
 #### 8a\. „FAHRVERBOT FÜR FAHRRÄDER UND MOTORFAHRRÄDER“
 
-![BG.StVO.obj.BN.NOR40261453.H.img22is.png](BG.StVO.obj.BN.NOR40261453.H.img22is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img22is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit Fahrrädern und mit Motorfahrrädern verboten ist\. Das Schieben dieser Fahrzeuge ist jedoch gestattet\. Für die Lenker von Motorfahrrädern gilt überdies die Z 8b\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img22is.png](BG.StVO.obj.BN.NOR40261453.H.img22is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img22is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit Fahrrädern und mit Motorfahrrädern verboten ist\. Das Schieben dieser Fahrzeuge ist jedoch gestattet\. Für die Lenker von Motorfahrrädern gilt überdies die Z 8b\.
 
 #### 8b\. „FAHRVERBOT FÜR MOTORFAHRRÄDER“
 
-![BG.StVO.obj.BN.NOR40261453.H.img23is.png](BG.StVO.obj.BN.NOR40261453.H.img23is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img23is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit Motorfahrrädern mit laufendem Motor sowie das Laufenlassen der Motore solcher Fahrzeuge am Stand verboten ist\. Das Schieben dieser Fahrzeuge ohne laufenden Motor ist jedoch gestattet\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img23is.png](BG.StVO.obj.BN.NOR40261453.H.img23is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img23is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit Motorfahrrädern mit laufendem Motor sowie das Laufenlassen der Motore solcher Fahrzeuge am Stand verboten ist\. Das Schieben dieser Fahrzeuge ohne laufenden Motor ist jedoch gestattet\.
 
 #### 8c\. „FAHRVERBOT FÜR FAHRRÄDER“
 
-![BG.StVO.obj.BN.NOR40261453.H.img24is.png](BG.StVO.obj.BN.NOR40261453.H.img24is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img24is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit Fahrrädern verboten ist; das Schieben dieser Fahrzeuge ist jedoch gestattet\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img24is.png](BG.StVO.obj.BN.NOR40261453.H.img24is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img24is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit Fahrrädern verboten ist; das Schieben dieser Fahrzeuge ist jedoch gestattet\.
 
 #### 9a\. „FAHRVERBOT FÜR ÜBER m BREITE FAHRZEUGE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img25is.png](BG.StVO.obj.BN.NOR40261453.H.img25is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img25is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit Fahrzeugen, deren größte Breite die im Zeichen angegebene Breite überschreitet, verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img25is.png](BG.StVO.obj.BN.NOR40261453.H.img25is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img25is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit Fahrzeugen, deren größte Breite die im Zeichen angegebene Breite überschreitet, verboten ist\.
 
 #### 9b\. „FAHRVERBOT FÜR ÜBER m HOHE FAHRZEUGE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img26is.png](BG.StVO.obj.BN.NOR40261453.H.img26is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img26is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit Fahrzeugen, deren größte Höhe die im Zeichen angegebene Höhe überschreitet, verboten ist\. Es kann oberhalb der Fahrbahn entsprechend der vorhandenen Höhe angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img26is.png](BG.StVO.obj.BN.NOR40261453.H.img26is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img26is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit Fahrzeugen, deren größte Höhe die im Zeichen angegebene Höhe überschreitet, verboten ist\. Es kann oberhalb der Fahrbahn entsprechend der vorhandenen Höhe angebracht werden\.
 
 #### 9c\. „FAHRVERBOT FÜR FAHRZEUGE MIT ÜBER t GESAMTGEWICHT“
 
-![BG.StVO.obj.BN.NOR40261453.H.img27is.png](BG.StVO.obj.BN.NOR40261453.H.img27is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img27is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit Fahrzeugen, deren Gesamtgewicht das im Zeichen angegebene Gewicht überschreitet, verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img27is.png](BG.StVO.obj.BN.NOR40261453.H.img27is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img27is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit Fahrzeugen, deren Gesamtgewicht das im Zeichen angegebene Gewicht überschreitet, verboten ist\.
 
 #### 9d\. „FAHRVERBOT FÜR ALLE FAHRZEUGE MIT ÜBER … t ACHSLAST“
 
-![BG.StVO.obj.BN.NOR40261453.H.img28is.png](BG.StVO.obj.BN.NOR40261453.H.img28is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img28is.png")
-
-Dieses Zeichen zeigt an, dass das Fahren mit Fahrzeugen, deren Achslast die im Zeichen angegebene Achslast überschreitet, verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img28is.png](BG.StVO.obj.BN.NOR40261453.H.img28is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img28is.png")
+>
+> Dieses Zeichen zeigt an, dass das Fahren mit Fahrzeugen, deren Achslast die im Zeichen angegebene Achslast überschreitet, verboten ist\.
 
 #### 10a\. “GESCHWINDIGKEITSBESCHRÄNKUNG \(ERLAUBTE HÖCHSTGESCHWINDIGKEIT\)“
 
-![BG.StVO.obj.BN.NOR40261453.H.img29is.png](BG.StVO.obj.BN.NOR40261453.H.img29is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img29is.png")
-
-Dieses Zeichen zeigt an, dass das Überschreiten der Fahrgeschwindigkeit, die als Stundenkilometeranzahl im Zeichen angegeben ist, ab dem Standort des Zeichens verboten ist\. Ob und in welcher Entfernung es vor schienengleichen Eisenbahnübergängen anzubringen ist, ergibt sich aus den eisenbahnrechtlichen Vorschriften\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img29is.png](BG.StVO.obj.BN.NOR40261453.H.img29is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img29is.png")
+>
+> Dieses Zeichen zeigt an, dass das Überschreiten der Fahrgeschwindigkeit, die als Stundenkilometeranzahl im Zeichen angegeben ist, ab dem Standort des Zeichens verboten ist\. Ob und in welcher Entfernung es vor schienengleichen Eisenbahnübergängen anzubringen ist, ergibt sich aus den eisenbahnrechtlichen Vorschriften\.
 
 #### 10b\. „ENDE DER GESCHWINDIGKEITSBESCHRÄNKUNG“
 
-![BG.StVO.obj.BN.NOR40261453.H.img30is.png](BG.StVO.obj.BN.NOR40261453.H.img30is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img30is.png")
-
-Dieses Zeichen zeigt das Ende der Geschwindigkeitsbeschränkung an\. Es ist nach jedem Zeichen gemäß Z 10a anzubringen und kann auch auf der Rückseite des für die Gegenrichtung geltenden Zeichens angebracht werden\. Es kann entfallen, wenn am Ende der Geschwindigkeitsbeschränkung eine neue Geschwindigkeitsbeschränkung, sei es auch nicht aufgrund dieses Bundesgesetzes, beginnt\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img30is.png](BG.StVO.obj.BN.NOR40261453.H.img30is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img30is.png")
+>
+> Dieses Zeichen zeigt das Ende der Geschwindigkeitsbeschränkung an\. Es ist nach jedem Zeichen gemäß Z 10a anzubringen und kann auch auf der Rückseite des für die Gegenrichtung geltenden Zeichens angebracht werden\. Es kann entfallen, wenn am Ende der Geschwindigkeitsbeschränkung eine neue Geschwindigkeitsbeschränkung, sei es auch nicht aufgrund dieses Bundesgesetzes, beginnt\.
 
 #### 11\. „ENDE VON ÜBERHOLVERBOTEN UND GESCHWINDIGKEITSBEGRENZUNGEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img31is.png](BG.StVO.obj.BN.NOR40261453.H.img31is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img31is.png")
-
-Dieses Zeichen zeigt das Ende von Überholverboten und Geschwindigkeitsbegrenzungen an, die für den betreffenden Straßenabschnitt durch Straßenverkehrszeichen kundgemacht worden sind\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img31is.png](BG.StVO.obj.BN.NOR40261453.H.img31is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img31is.png")
+>
+> Dieses Zeichen zeigt das Ende von Überholverboten und Geschwindigkeitsbegrenzungen an, die für den betreffenden Straßenabschnitt durch Straßenverkehrszeichen kundgemacht worden sind\.
 
 #### 11a\. „ZONENBESCHRÄNKUNG“
 
-![BG.StVO.obj.BN.NOR40261453.H.img32is.png](BG.StVO.obj.BN.NOR40261453.H.img32is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img32is.png")
-
-Ein solches Zeichen zeigt den Beginn einer Zone an, innerhalb der die durch das eingefügte Zeichen zum Ausdruck gebrachte Verkehrsbeschränkung gilt, wobei in einem Zeichen auch zwei Beschränkungen dargestellt werden können\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img32is.png](BG.StVO.obj.BN.NOR40261453.H.img32is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img32is.png")
+>
+> Ein solches Zeichen zeigt den Beginn einer Zone an, innerhalb der die durch das eingefügte Zeichen zum Ausdruck gebrachte Verkehrsbeschränkung gilt, wobei in einem Zeichen auch zwei Beschränkungen dargestellt werden können\.
 
 #### 11b\. „ENDE EINER ZONENBESCHRÄNKUNG“
 
-![BG.StVO.obj.BN.NOR40261453.H.img33is.png](BG.StVO.obj.BN.NOR40261453.H.img33is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img33is.png")
-
-Ein solches Zeichen zeigt das Ende einer Zonenbeschränkung an\. Es kann auch auf der Rückseite des für die Gegenrichtung geltenden Zeichens \(Z 11a\) angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img33is.png](BG.StVO.obj.BN.NOR40261453.H.img33is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img33is.png")
+>
+> Ein solches Zeichen zeigt das Ende einer Zonenbeschränkung an\. Es kann auch auf der Rückseite des für die Gegenrichtung geltenden Zeichens \(Z 11a\) angebracht werden\.
 
 #### 12\. „HALT ZOLL“
 
-![BG.StVO.obj.BN.NOR40261453.H.img34is.png](BG.StVO.obj.BN.NOR40261453.H.img34is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img34is.png")
-
-Dieses Zeichen zeigt eine Zollstelle an, bei der zwecks Zollkontrolle anzuhalten ist\. Mit entsprechend geänderter Aufschrift zeigt das Zeichen auch andere Stellen an, an denen der Fahrzeuglenker anzuhalten und bestimmte Bedingungen zu erfüllen hat, z\. B\. „MAUT“\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img34is.png](BG.StVO.obj.BN.NOR40261453.H.img34is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img34is.png")
+>
+> Dieses Zeichen zeigt eine Zollstelle an, bei der zwecks Zollkontrolle anzuhalten ist\. Mit entsprechend geänderter Aufschrift zeigt das Zeichen auch andere Stellen an, an denen der Fahrzeuglenker anzuhalten und bestimmte Bedingungen zu erfüllen hat, z\. B\. „MAUT“\.
 
 #### 13a\. „PARKEN VERBOTEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img35is.png](BG.StVO.obj.BN.NOR40261453.H.img35is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img35is.png")
-
-Dieses Zeichen zeigt mit der Zusatztafel „ANFANG“ den Beginn und mit der Zusatztafel „ENDE“ das Ende eines Straßenabschnittes an, in dem das Parken verboten ist\. Das Verbot bezieht sich auf die Straßenseite, auf der sich dieses Zeichen befindet\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img35is.png](BG.StVO.obj.BN.NOR40261453.H.img35is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img35is.png")
+>
+> Dieses Zeichen zeigt mit der Zusatztafel „ANFANG“ den Beginn und mit der Zusatztafel „ENDE“ das Ende eines Straßenabschnittes an, in dem das Parken verboten ist\. Das Verbot bezieht sich auf die Straßenseite, auf der sich dieses Zeichen befindet\.
 
 #### Folgende unter dem Zeichen angebrachte Zusatztafeln zeigen an:
 
@@ -1840,156 +1837,154 @@ Dieses Zeichen zeigt mit der Zusatztafel „ANFANG“ den Beginn und mit der Zus
 
 > `c)` eine Zusatztafel mit Pfeilen den Verlauf des Straßenabschnittes, in dem das Verbot gilt; solche Pfeile können statt auf einer Zusatztafel auch im Zeichen selbst angebracht werden, sind dort aber in weißer Farbe auszuführen\. Wenn der Geltungsbereich des Verbotes auf diese Weise unmißverständlich zum Ausdruck gebracht werden kann, so genügt ein Vorschriftszeichen\.
 
-Die Anbringung weiterer Angaben auf den unter lit\. a bis c angeführten Zusatztafeln sowie die Anbringung von Zusatztafeln mit anderen Angaben ist unbeschadet des § 51 Abs\. 3 zulässig\.
+> Die Anbringung weiterer Angaben auf den unter lit\. a bis c angeführten Zusatztafeln sowie die Anbringung von Zusatztafeln mit anderen Angaben ist unbeschadet des § 51 Abs\. 3 zulässig\.
 
 #### 13b\. „HALTEN UND PARKEN VERBOTEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img36is.png](BG.StVO.obj.BN.NOR40261453.H.img36is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img36is.png")
-
-Dieses Zeichen zeigt mit der Zusatztafel „ANFANG“ den Beginn und mit der Zusatztafel „ENDE“ das Ende eines Straßenabschnittes an, in dem das Halten und Parken verboten ist\. Das Verbot bezieht sich auf die Straßenseite, auf der sich dieses Zeichen befindet\.
-
-Eine Zusatztafel mit der Aufschrift „AUSGENOMMEN ZUSTELLDIENSTE“ zeigt an, dass das rasche Auf\- oder Abladen geringer Warenmengen vom Halteverbot ausgenommen ist\.
-
-Eine Zusatztafel mit der Aufschrift „AUSGENOMMEN LADETÄTIGKEIT“ zeigt eine Ladezone an\.
-
-Hinsichtlich weiterer Zusatztafeln gelten die Bestimmungen der Z 13a sinngemäß\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img36is.png](BG.StVO.obj.BN.NOR40261453.H.img36is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img36is.png")
+>
+> Dieses Zeichen zeigt mit der Zusatztafel „ANFANG“ den Beginn und mit der Zusatztafel „ENDE“ das Ende eines Straßenabschnittes an, in dem das Halten und Parken verboten ist\. Das Verbot bezieht sich auf die Straßenseite, auf der sich dieses Zeichen befindet\.
+>
+> Eine Zusatztafel mit der Aufschrift „AUSGENOMMEN ZUSTELLDIENSTE“ zeigt an, dass das rasche Auf\- oder Abladen geringer Warenmengen vom Halteverbot ausgenommen ist\.
+>
+> Eine Zusatztafel mit der Aufschrift „AUSGENOMMEN LADETÄTIGKEIT“ zeigt eine Ladezone an\.
+>
+> Hinsichtlich weiterer Zusatztafeln gelten die Bestimmungen der Z 13a sinngemäß\.
 
 #### 13c\. „WECHSELSEITIGES PARKVERBOT“
 
-![BG.StVO.obj.BN.NOR40261453.H.img37is.png](BG.StVO.obj.BN.NOR40261453.H.img37is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img37is.png")
-
-Dieses Zeichen zeigt an, dass auf der Straßenseite, auf der dieses Zeichen angebracht ist, das Parken an ungeraden Tagen verboten ist\.
-![BG.StVO.obj.BN.NOR40261453.H.img38is.png](BG.StVO.obj.BN.NOR40261453.H.img38is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img38is.png")
-
-Dieses Zeichen zeigt an, dass auf der Straßenseite, auf der dieses Zeichen angebracht ist, das Parken an geraden Tagen verboten ist\.
-
-Beginnt bei den beiden angeführten Zeichen die wechselseitige Beschränkung für das Parken nicht um 00 Uhr, so ist auf einer Zusatztafel der Zeitpunkt des Beginnes des wechselseitigen Parkverbotes anzugeben, das dann ab diesem Zeitpunkt für 24 Stunden gilt\.
-
-Hinsichtlich der Zusatztafeln „ANFANG“ und „ENDE“ sowie weiterer Zusatztafeln gelten die Bestimmungen der Z 13a sinngemäß\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img37is.png](BG.StVO.obj.BN.NOR40261453.H.img37is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img37is.png")
+>
+> Dieses Zeichen zeigt an, dass auf der Straßenseite, auf der dieses Zeichen angebracht ist, das Parken an ungeraden Tagen verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img38is.png](BG.StVO.obj.BN.NOR40261453.H.img38is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img38is.png")
+>
+> Dieses Zeichen zeigt an, dass auf der Straßenseite, auf der dieses Zeichen angebracht ist, das Parken an geraden Tagen verboten ist\.
+>
+> Beginnt bei den beiden angeführten Zeichen die wechselseitige Beschränkung für das Parken nicht um 00 Uhr, so ist auf einer Zusatztafel der Zeitpunkt des Beginnes des wechselseitigen Parkverbotes anzugeben, das dann ab diesem Zeitpunkt für 24 Stunden gilt\.
+>
+> Hinsichtlich der Zusatztafeln „ANFANG“ und „ENDE“ sowie weiterer Zusatztafeln gelten die Bestimmungen der Z 13a sinngemäß\.
 
 #### 13d\. „KURZPARKZONE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img39is.jpg](BG.StVO.obj.BN.NOR40261453.H.img39is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img39is.jpg")
-
-Dieses Zeichen zeigt den Beginn einer Kurzparkzone an\. Wird dieses Zeichen auf der linken Straßenseite angebracht, so bezieht sich die Kurzparkzonenregelung nur auf diese Straßenseite\. Im unteren Teil des Zeichens oder auf einer Zusatztafel ist die Zeit, während der die Kurzparkzonenregelung gilt, und die zulässige Kurzparkdauer anzugeben\. Falls für das Abstellen eines Fahrzeuges in einer Kurzparkzone auf Grund abgabenrechtlicher Vorschriften eine Gebühr zu entrichten ist, so ist auf diesen Umstand durch das Wort „gebührenpflichtig“, das im unteren Teil des Zeichens oder auf einer Zusatztafel anzubringen ist, hinzuweisen\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img39is.jpg](BG.StVO.obj.BN.NOR40261453.H.img39is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img39is.jpg")
+>
+> Dieses Zeichen zeigt den Beginn einer Kurzparkzone an\. Wird dieses Zeichen auf der linken Straßenseite angebracht, so bezieht sich die Kurzparkzonenregelung nur auf diese Straßenseite\. Im unteren Teil des Zeichens oder auf einer Zusatztafel ist die Zeit, während der die Kurzparkzonenregelung gilt, und die zulässige Kurzparkdauer anzugeben\. Falls für das Abstellen eines Fahrzeuges in einer Kurzparkzone auf Grund abgabenrechtlicher Vorschriften eine Gebühr zu entrichten ist, so ist auf diesen Umstand durch das Wort „gebührenpflichtig“, das im unteren Teil des Zeichens oder auf einer Zusatztafel anzubringen ist, hinzuweisen\.
 
 #### 13e\. „ENDE DER KURZPARKZONE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img40is.png](BG.StVO.obj.BN.NOR40261453.H.img40is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img40is.png")  
-&nbsp; Dieses Zeichen zeigt das Ende einer Kurzparkzone an\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img40is.png](BG.StVO.obj.BN.NOR40261453.H.img40is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img40is.png")  
+> &nbsp; Dieses Zeichen zeigt das Ende einer Kurzparkzone an\.
 
 #### 14\. „HUPVERBOT“
 
-![BG.StVO.obj.BN.NOR40261453.H.img41is.png](BG.StVO.obj.BN.NOR40261453.H.img41is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img41is.png")
-
-Dieses Zeichen zeigt an, dass die Betätigung der Vorrichtungen zur Abgabe von Schallzeichen verboten ist, wenn zur Abwendung einer Gefahr von einer Person ein anderes Mittel ausreicht\. Die Zusatztafel mit der Angabe bestimmter Stunden zeigt die Geltungsdauer des Verbotes an\. Das Ende dieses Verbotes ist durch das gleiche Zeichen mit der Zusatztafel „ENDE“ kenntlich zu machen\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img41is.png](BG.StVO.obj.BN.NOR40261453.H.img41is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img41is.png")
+>
+> Dieses Zeichen zeigt an, dass die Betätigung der Vorrichtungen zur Abgabe von Schallzeichen verboten ist, wenn zur Abwendung einer Gefahr von einer Person ein anderes Mittel ausreicht\. Die Zusatztafel mit der Angabe bestimmter Stunden zeigt die Geltungsdauer des Verbotes an\. Das Ende dieses Verbotes ist durch das gleiche Zeichen mit der Zusatztafel „ENDE“ kenntlich zu machen\.
 
 #### 14a\.    ,REITVERBOT’
 
-![BG.StVO.obj.BN.NOR40261453.H.img42is.jpg](BG.StVO.obj.BN.NOR40261453.H.img42is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img42is.jpg")
-
-Dieses Zeichen zeigt an, dass das Reiten verboten ist\. Ausgenommen sind Organe der Bundespolizei als Reiter von Dienstpferden\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img42is.jpg](BG.StVO.obj.BN.NOR40261453.H.img42is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img42is.jpg")
+>
+> Dieses Zeichen zeigt an, dass das Reiten verboten ist\. Ausgenommen sind Organe der Bundespolizei als Reiter von Dienstpferden\.
 
 #### 14b\.    ,VERBOT FÜR FUSSGÄNGER’
 
-![BG.StVO.obj.BN.NOR40261453.H.img43is.jpg](BG.StVO.obj.BN.NOR40261453.H.img43is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img43is.jpg")  
-&nbsp; Dieses Zeichen zeigt an, dass das Betreten für Fußgänger verboten ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img43is.jpg](BG.StVO.obj.BN.NOR40261453.H.img43is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img43is.jpg")  
+> &nbsp; Dieses Zeichen zeigt an, dass das Betreten für Fußgänger verboten ist\.
 
 #### b\) Gebotszeichen\.
 
 #### 15\. „VORGESCHRIEBENE FAHRTRICHTUNG“
 
-![BG.StVO.obj.BN.NOR40261453.H.img44is.png](BG.StVO.obj.BN.NOR40261453.H.img44is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img44is.png")
-
-Dieses Zeichen zeigt an, dass Lenker von Fahrzeugen nur in der durch den Pfeil angegebenen Fahrtrichtung fahren dürfen\. Der Pfeil kann der jeweiligen örtlichen Verkehrslage entsprechend, z\. B\. senkrecht, gebogen, geneigt oder mit mehr als einer Spitze ausgeführt sein\. Ein nach unten geneigter Pfeil zeigt den zu benützenden Fahrstreifen an\. Durch eine Zusatztafel oder durch weiße Aufschrift im blauen Feld unter dem Pfeil kann angezeigt werden, dass das Gebot nur für eine bestimmte Gruppe von Straßenbenützern gilt\.
-
-Das Zeichen ist, sofern es sich auf eine Kreuzung bezieht, in angemessenem Abstand vor der Kreuzung, sonst vor der Stelle, für die es gilt, anzubringen; bei einer einmündenden Straße darf dieses Zeichen statt vor der Kreuzung auch nur gegenüber der einmündenden Straße angebracht werden\. Das Zeichen darf entsprechend dem angestrebten Gebot auch nur auf der Fahrbahn \(wie etwa auf einer Schutzinsel oder vor einem Hindernis\) angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img44is.png](BG.StVO.obj.BN.NOR40261453.H.img44is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img44is.png")
+>
+> Dieses Zeichen zeigt an, dass Lenker von Fahrzeugen nur in der durch den Pfeil angegebenen Fahrtrichtung fahren dürfen\. Der Pfeil kann der jeweiligen örtlichen Verkehrslage entsprechend, z\. B\. senkrecht, gebogen, geneigt oder mit mehr als einer Spitze ausgeführt sein\. Ein nach unten geneigter Pfeil zeigt den zu benützenden Fahrstreifen an\. Durch eine Zusatztafel oder durch weiße Aufschrift im blauen Feld unter dem Pfeil kann angezeigt werden, dass das Gebot nur für eine bestimmte Gruppe von Straßenbenützern gilt\.
+>
+> Das Zeichen ist, sofern es sich auf eine Kreuzung bezieht, in angemessenem Abstand vor der Kreuzung, sonst vor der Stelle, für die es gilt, anzubringen; bei einer einmündenden Straße darf dieses Zeichen statt vor der Kreuzung auch nur gegenüber der einmündenden Straße angebracht werden\. Das Zeichen darf entsprechend dem angestrebten Gebot auch nur auf der Fahrbahn \(wie etwa auf einer Schutzinsel oder vor einem Hindernis\) angebracht werden\.
 
 #### 15a\. “VORGESCHRIEBENE FAHRTRICHTUNG FÜR KRAFTFAHRZEUGE MIT GEFÄHRLICHEN GÜTERN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img45is.jpg](BG.StVO.obj.BN.NOR40261453.H.img45is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img45is.jpg") ![BG.StVO.obj.BN.NOR40261453.H.img46is.jpg](BG.StVO.obj.BN.NOR40261453.H.img46is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img46is.jpg") ![BG.StVO.obj.BN.NOR40261453.H.img47is.jpg](BG.StVO.obj.BN.NOR40261453.H.img47is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img47is.jpg")  
-&nbsp; Dieses Zeichen zeigt an, dass Lenker von Beförderungseinheiten, mit denen gefährliche Güter gemäß den in § 2 Z 1 GGBG, BGBl\. I Nr\. 145/1998, angeführten Vorschriften befördert werden und die gemäß diesen Vorschriften mit orangefarbenen Tafeln zu kennzeichnen sind, nur in der durch den Pfeil angegebenen Fahrtrichtung fahren dürfen\. Ist dieses Gebot auf Grund eines für einen kategorisierten Tunnel im Sinn der Z 7e geltenden Fahrverbots erforderlich, so ist auf einer Zusatztafel mit den Großbuchstaben „B“, „C“, „D“ oder „E“ die diesem Tunnel zugeordnete Tunnelkategorie anzugeben; in diesem Fall gilt das Gebot nur für Beförderungseinheiten, mit denen gefährliche Güter befördert werden, die in Tunneln der jeweiligen Tunnelkategorie nicht zugelassen sind\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img45is.jpg](BG.StVO.obj.BN.NOR40261453.H.img45is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img45is.jpg") ![BG.StVO.obj.BN.NOR40261453.H.img46is.jpg](BG.StVO.obj.BN.NOR40261453.H.img46is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img46is.jpg") ![BG.StVO.obj.BN.NOR40261453.H.img47is.jpg](BG.StVO.obj.BN.NOR40261453.H.img47is.jpg "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img47is.jpg")  
+> &nbsp; Dieses Zeichen zeigt an, dass Lenker von Beförderungseinheiten, mit denen gefährliche Güter gemäß den in § 2 Z 1 GGBG, BGBl\. I Nr\. 145/1998, angeführten Vorschriften befördert werden und die gemäß diesen Vorschriften mit orangefarbenen Tafeln zu kennzeichnen sind, nur in der durch den Pfeil angegebenen Fahrtrichtung fahren dürfen\. Ist dieses Gebot auf Grund eines für einen kategorisierten Tunnel im Sinn der Z 7e geltenden Fahrverbots erforderlich, so ist auf einer Zusatztafel mit den Großbuchstaben „B“, „C“, „D“ oder „E“ die diesem Tunnel zugeordnete Tunnelkategorie anzugeben; in diesem Fall gilt das Gebot nur für Beförderungseinheiten, mit denen gefährliche Güter befördert werden, die in Tunneln der jeweiligen Tunnelkategorie nicht zugelassen sind\.
 
 #### 16\. „RADWEG“
 
-![BG.StVO.obj.BN.NOR40261453.H.img48is.png](BG.StVO.obj.BN.NOR40261453.H.img48is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img48is.png")
-
-Dieses Zeichen zeigt an, dass Lenker von einspurigen Fahrrädern nur den Radweg benützen dürfen\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img48is.png](BG.StVO.obj.BN.NOR40261453.H.img48is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img48is.png")
+>
+> Dieses Zeichen zeigt an, dass Lenker von einspurigen Fahrrädern nur den Radweg benützen dürfen\.
 
 #### 17\. „GEHWEG“
 
-![BG.StVO.obj.BN.NOR40261453.H.img49is.png](BG.StVO.obj.BN.NOR40261453.H.img49is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img49is.png")
-
-Dieses Zeichen zeigt einen Gehweg an\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img49is.png](BG.StVO.obj.BN.NOR40261453.H.img49is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img49is.png")
+>
+> Dieses Zeichen zeigt einen Gehweg an\.
 
 #### 17a\. „GEH\- UND RADWEG“
 
-> `a)` 
 
-![BG.StVO.obj.BN.NOR40261453.H.img50is.png](BG.StVO.obj.BN.NOR40261453.H.img50is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img50is.png")
+> ![BG.StVO.obj.BN.NOR40261453.H.img50is.png](BG.StVO.obj.BN.NOR40261453.H.img50is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img50is.png")
 
-> `b)` 
 
-![BG.StVO.obj.BN.NOR40261453.H.img51is.png](BG.StVO.obj.BN.NOR40261453.H.img51is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img51is.png")
-
-Diese Zeichen zeigen einen Geh\- und Radweg an, und zwar ein Zeichen nach a\) einen für Fußgänger und Radfahrer gemeinsam zu benützenden Geh\- und Radweg und ein Zeichen nach b\) einen Geh\- und Radweg, bei dem der Fußgänger\- und Fahrradverkehr getrennt geführt werden, wobei die Symbole im Zeichen nach b\) der tatsächlichen Verkehrsführung entsprechend anzuordnen sind \(Fußgänger rechts, Fahrrad links oder umgekehrt\)\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img51is.png](BG.StVO.obj.BN.NOR40261453.H.img51is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img51is.png")
+>
+> Diese Zeichen zeigen einen Geh\- und Radweg an, und zwar ein Zeichen nach a\) einen für Fußgänger und Radfahrer gemeinsam zu benützenden Geh\- und Radweg und ein Zeichen nach b\) einen Geh\- und Radweg, bei dem der Fußgänger\- und Fahrradverkehr getrennt geführt werden, wobei die Symbole im Zeichen nach b\) der tatsächlichen Verkehrsführung entsprechend anzuordnen sind \(Fußgänger rechts, Fahrrad links oder umgekehrt\)\.
 
 #### 17b\. „REITWEG“
 
-![BG.StVO.obj.BN.NOR40261453.H.img52is.png](BG.StVO.obj.BN.NOR40261453.H.img52is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img52is.png")
-
-Dieses Zeichen zeigt einen Reitweg an\.
-
-*\(Anm\.: Z 18 aufgehoben durch BGBl\. I Nr\. 52/2024\)*
+> ![BG.StVO.obj.BN.NOR40261453.H.img52is.png](BG.StVO.obj.BN.NOR40261453.H.img52is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img52is.png")
+>
+> Dieses Zeichen zeigt einen Reitweg an\.
+>
+> *\(Anm\.: Z 18 aufgehoben durch BGBl\. I Nr\. 52/2024\)*
 
 #### 19\. „VORGESCHRIEBENE MINDESTGESCHWINDIGKEIT“
 
-![BG.StVO.obj.BN.NOR40261453.H.img53is.png](BG.StVO.obj.BN.NOR40261453.H.img53is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img53is.png")
-
-Dieses Zeichen zeigt an, dass die Lenker von Fahrzeugen unbeschadet der Bestimmungen des § 20 über die Fahrgeschwindigkeit ab dem Standort des Zeichens nicht langsamer fahren dürfen, als mit der im Zeichen angegebenen Anzahl von Kilometern pro Stunde\.
-
-*\(Anm\.: 20 aufgehoben durch BGBl\. Nr\. 518/1994\)*
+> ![BG.StVO.obj.BN.NOR40261453.H.img53is.png](BG.StVO.obj.BN.NOR40261453.H.img53is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img53is.png")
+>
+> Dieses Zeichen zeigt an, dass die Lenker von Fahrzeugen unbeschadet der Bestimmungen des § 20 über die Fahrgeschwindigkeit ab dem Standort des Zeichens nicht langsamer fahren dürfen, als mit der im Zeichen angegebenen Anzahl von Kilometern pro Stunde\.
+>
+> *\(Anm\.: 20 aufgehoben durch BGBl\. Nr\. 518/1994\)*
 
 #### 21\. „UMKEHRGEBOT“
 
-![BG.StVO.obj.BN.NOR40261453.H.img54is.png](BG.StVO.obj.BN.NOR40261453.H.img54is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img54is.png")
-
-Dieses Zeichen zeigt an, dass die Lenker von Fahrzeugen an der betreffenden Straßenstelle umzukehren haben\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img54is.png](BG.StVO.obj.BN.NOR40261453.H.img54is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img54is.png")
+>
+> Dieses Zeichen zeigt an, dass die Lenker von Fahrzeugen an der betreffenden Straßenstelle umzukehren haben\.
 
 #### 22\. „SCHNEEKETTEN VORGESCHRIEBEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img55is.png](BG.StVO.obj.BN.NOR40261453.H.img55is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img55is.png")
-
-Dieses Zeichen zeigt an, dass Kraftwagen, die auf der Straße fahren, an deren Beginn das Zeichen angebracht ist, auf mindestens zwei Antriebsrädern Schneeketten haben müssen\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img55is.png](BG.StVO.obj.BN.NOR40261453.H.img55is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img55is.png")
+>
+> Dieses Zeichen zeigt an, dass Kraftwagen, die auf der Straße fahren, an deren Beginn das Zeichen angebracht ist, auf mindestens zwei Antriebsrädern Schneeketten haben müssen\.
 
 #### 22a\. „ENDE EINES GEBOTES“
 
-Ein roter Querbalken von links unten nach rechts oben in den Zeichen nach Z 16, 17, 17a, 19 und 22 zeigt das Ende des durch das Zeichen ausgedrückten Gebotes an\. Ein solches Zeichen kann auch auf der Rückseite des für die Gegenrichtung geltenden Zeichens angebracht werden\.
+> Ein roter Querbalken von links unten nach rechts oben in den Zeichen nach Z 16, 17, 17a, 19 und 22 zeigt das Ende des durch das Zeichen ausgedrückten Gebotes an\. Ein solches Zeichen kann auch auf der Rückseite des für die Gegenrichtung geltenden Zeichens angebracht werden\.
 
 #### c\) Vorrangzeichen
 
 #### 23\. „VORRANG GEBEN“
 
-![BG.StVO.obj.BN.NOR40261453.H.img56is.png](BG.StVO.obj.BN.NOR40261453.H.img56is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img56is.png")
-
-Dieses Zeichen zeigt an, dass gemäß § 19 Abs\. 4 Vorrang zu geben ist\. Es ist vor einer Kreuzung mit einer Vorrangstraße oder mit einer Straße mit starkem Verkehr anzubringen, sofern nicht das Vorschriftszeichen „Halt“ erforderlich ist\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img56is.png](BG.StVO.obj.BN.NOR40261453.H.img56is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img56is.png")
+>
+> Dieses Zeichen zeigt an, dass gemäß § 19 Abs\. 4 Vorrang zu geben ist\. Es ist vor einer Kreuzung mit einer Vorrangstraße oder mit einer Straße mit starkem Verkehr anzubringen, sofern nicht das Vorschriftszeichen „Halt“ erforderlich ist\.
 
 #### 24\. „HALT“
 
-![BG.StVO.obj.BN.NOR40261453.H.img57is.png](BG.StVO.obj.BN.NOR40261453.H.img57is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img57is.png")
-
-Dieses Zeichen ordnet an, dass vor einer Kreuzung anzuhalten und gemäß § 19 Abs\. 4 Vorrang zu geben ist\. Fehlt eine Bodenmarkierung oder ist sie nicht sichtbar, so ist das Fahrzeug an einer Stelle anzuhalten, von der aus gute Übersicht besteht\. Das Zeichen ist vor allem vor solchen Kreuzungen anzubringen, die besonders gefährlich sind und an denen die Lenker von Fahrzeugen die Verkehrslage in der Regel nur dann richtig beurteilen können, wenn sie anhalten\. Ob und in welcher Entfernung es vor schienengleichen Eisenbahnübergängen anzubringen ist, ergibt sich aus den eisenbahnrechtlichen Vorschriften\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img57is.png](BG.StVO.obj.BN.NOR40261453.H.img57is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img57is.png")
+>
+> Dieses Zeichen ordnet an, dass vor einer Kreuzung anzuhalten und gemäß § 19 Abs\. 4 Vorrang zu geben ist\. Fehlt eine Bodenmarkierung oder ist sie nicht sichtbar, so ist das Fahrzeug an einer Stelle anzuhalten, von der aus gute Übersicht besteht\. Das Zeichen ist vor allem vor solchen Kreuzungen anzubringen, die besonders gefährlich sind und an denen die Lenker von Fahrzeugen die Verkehrslage in der Regel nur dann richtig beurteilen können, wenn sie anhalten\. Ob und in welcher Entfernung es vor schienengleichen Eisenbahnübergängen anzubringen ist, ergibt sich aus den eisenbahnrechtlichen Vorschriften\.
 
 #### 25a\. „VORRANGSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img58is.png](BG.StVO.obj.BN.NOR40261453.H.img58is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img58is.png")
-
-Dieses Zeichen zeigt den Beginn und den Verlauf einer Vorrangstraße an\. Wenn eine Vorrangstraße auf einer Kreuzung die Richtung ihres Verlaufes ändert, so ist der Verlauf der Vorrangstraße auf einer Zusatztafel nach § 54 Abs\. 5 lit\. e erkennbar zu machen\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img58is.png](BG.StVO.obj.BN.NOR40261453.H.img58is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img58is.png")
+>
+> Dieses Zeichen zeigt den Beginn und den Verlauf einer Vorrangstraße an\. Wenn eine Vorrangstraße auf einer Kreuzung die Richtung ihres Verlaufes ändert, so ist der Verlauf der Vorrangstraße auf einer Zusatztafel nach § 54 Abs\. 5 lit\. e erkennbar zu machen\.
 
 #### 25b\. „ENDE DER VORRANGSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261453.H.img59is.png](BG.StVO.obj.BN.NOR40261453.H.img59is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img59is.png")  
-&nbsp; Dieses Zeichen zeigt das Ende einer Vorrangstraße an\.
+> ![BG.StVO.obj.BN.NOR40261453.H.img59is.png](BG.StVO.obj.BN.NOR40261453.H.img59is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img59is.png")  
+> &nbsp; Dieses Zeichen zeigt das Ende einer Vorrangstraße an\.
 
 ### § 53 StVO — Die Hinweiszeichen
 
@@ -1997,379 +1992,371 @@ Dieses Zeichen zeigt den Beginn und den Verlauf einer Vorrangstraße an\. Wenn e
 
 #### 1a\. „PARKEN“
 
-![BG.StVO.obj.BN.NOR40261454.H.img1is.png](BG.StVO.obj.BN.NOR40261454.H.img1is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img1is.png")  
-&nbsp; Dieses Zeichen kennzeichnet einen Parkplatz oder einen Parkstreifen\.  
-&nbsp; Im unteren Teil des Zeichens oder auf einer Zusatztafel kann eine besondere Art des Aufstellens der Fahrzeuge für das Parken \(Schräg\- oder Querparken\) angegeben werden; in einem solchen Fall kann die Bodenmarkierung entfallen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img1is.png](BG.StVO.obj.BN.NOR40261454.H.img1is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img1is.png")  
+> &nbsp; Dieses Zeichen kennzeichnet einen Parkplatz oder einen Parkstreifen\.  
+> &nbsp; Im unteren Teil des Zeichens oder auf einer Zusatztafel kann eine besondere Art des Aufstellens der Fahrzeuge für das Parken \(Schräg\- oder Querparken\) angegeben werden; in einem solchen Fall kann die Bodenmarkierung entfallen\.
 
 #### 1b\. „ZUM PARKPLATZ“
 
-![BG.StVO.obj.BN.NOR40261454.H.img2is.png](BG.StVO.obj.BN.NOR40261454.H.img2is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img2is.png")  
-&nbsp; Dieses Zeichen weist auf einen Parkplatz hin\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img2is.png](BG.StVO.obj.BN.NOR40261454.H.img2is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img2is.png")  
+> &nbsp; Dieses Zeichen weist auf einen Parkplatz hin\.
 
 #### 1c\. „PANNENBUCHT“
 
-![BG.StVO.obj.BN.NOR40261454.H.img3is.jpg](BG.StVO.obj.BN.NOR40261454.H.img3is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img3is.jpg")  
-&nbsp; Dieses Zeichen zeigt eine Pannenbucht an; das Abstellen eines Fahrzeuges in einer Pannenbucht ist nur bei Pannen, in Notfällen oder bei Gefahr oder für Fahrzeuge des Straßendienstes, der Straßenaufsicht oder des Pannendienstes erlaubt\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img3is.jpg](BG.StVO.obj.BN.NOR40261454.H.img3is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img3is.jpg")  
+> &nbsp; Dieses Zeichen zeigt eine Pannenbucht an; das Abstellen eines Fahrzeuges in einer Pannenbucht ist nur bei Pannen, in Notfällen oder bei Gefahr oder für Fahrzeuge des Straßendienstes, der Straßenaufsicht oder des Pannendienstes erlaubt\.
 
 #### 2\. „SPITAL“
 
-![BG.StVO.obj.BN.NOR40261454.H.img4is.png](BG.StVO.obj.BN.NOR40261454.H.img4is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img4is.png")  
-&nbsp; Dieses Zeichen weist auf eine Heilstätte oder auf ein Krankenhaus hin\. Jeder Lärm ist zu vermeiden; es muss damit gerechnet werden, dass Kranke und Gebrechliche die Straße überqueren\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img4is.png](BG.StVO.obj.BN.NOR40261454.H.img4is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img4is.png")  
+> &nbsp; Dieses Zeichen weist auf eine Heilstätte oder auf ein Krankenhaus hin\. Jeder Lärm ist zu vermeiden; es muss damit gerechnet werden, dass Kranke und Gebrechliche die Straße überqueren\.
 
 #### 2a\. „KENNZEICHNUNG EINES SCHUTZWEGES“
 
-![BG.StVO.obj.BN.NOR40261454.H.img5is.png](BG.StVO.obj.BN.NOR40261454.H.img5is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img5is.png")  
-&nbsp; Dieses Zeichen kennzeichnet einen Schutzweg \(§ 2 Abs\. 1 Z 12\), bei dem ständig betriebene Lichtzeichen zur Regelung des Verkehrs oder zur Abgabe blinkenden gelben Lichtes nicht vorhanden sind\. Es ist beim Schutzweg anzubringen, und zwar auf Einbahnstraßen an beiden Seiten, auf anderen Straßen an der rechten Seite\. Wenn jedoch die Verkehrssicherheit dadurch nicht beeinträchtigt wird, ist statt der seitlichen Anbringung die Anbringung des Zeichens über dem Schutzweg zulässig\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img5is.png](BG.StVO.obj.BN.NOR40261454.H.img5is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img5is.png")  
+> &nbsp; Dieses Zeichen kennzeichnet einen Schutzweg \(§ 2 Abs\. 1 Z 12\), bei dem ständig betriebene Lichtzeichen zur Regelung des Verkehrs oder zur Abgabe blinkenden gelben Lichtes nicht vorhanden sind\. Es ist beim Schutzweg anzubringen, und zwar auf Einbahnstraßen an beiden Seiten, auf anderen Straßen an der rechten Seite\. Wenn jedoch die Verkehrssicherheit dadurch nicht beeinträchtigt wird, ist statt der seitlichen Anbringung die Anbringung des Zeichens über dem Schutzweg zulässig\.
 
 #### 2b\. „KENNZEICHNUNG EINER RADFAHRERÜBERFAHRT“
 
-![BG.StVO.obj.BN.NOR40261454.H.img6is.png](BG.StVO.obj.BN.NOR40261454.H.img6is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img6is.png")  
-&nbsp; Dieses Zeichen kennzeichnet eine Radfahrerüberfahrt \(§ 2 Abs\. 1 Z 12a\), bei der ständig betriebene Lichtzeichen zur Regelung des Verkehrs oder zur Abgabe blinkenden gelben Lichtes nicht vorhanden sind\. Für die Anbringung dieses Zeichens gelten die diesbezüglichen Bestimmungen der Z 2a sinngemäß\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img6is.png](BG.StVO.obj.BN.NOR40261454.H.img6is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img6is.png")  
+> &nbsp; Dieses Zeichen kennzeichnet eine Radfahrerüberfahrt \(§ 2 Abs\. 1 Z 12a\), bei der ständig betriebene Lichtzeichen zur Regelung des Verkehrs oder zur Abgabe blinkenden gelben Lichtes nicht vorhanden sind\. Für die Anbringung dieses Zeichens gelten die diesbezüglichen Bestimmungen der Z 2a sinngemäß\.
 
 > `2c.` „Kennzeichnung eines Schutzweges und einer Radfahrerüberfahrt“
 
-![BG.StVO.obj.BN.NOR40261454.H.img7is.jpg](BG.StVO.obj.BN.NOR40261454.H.img7is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img7is.jpg")  
-&nbsp; Dieses Zeichen kennzeichnet die Fortsetzung eines Geh\- und Radwegs sowie eines gemeinsam geführten Geh\- und Radwegs für die Überquerung der Fahrbahn durch Fußgänger und Radfahrer\. Für die Anbringung dieses Zeichens gelten die Bestimmungen der Z 2a sinngemäß\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img7is.jpg](BG.StVO.obj.BN.NOR40261454.H.img7is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img7is.jpg")  
+> &nbsp; Dieses Zeichen kennzeichnet die Fortsetzung eines Geh\- und Radwegs sowie eines gemeinsam geführten Geh\- und Radwegs für die Überquerung der Fahrbahn durch Fußgänger und Radfahrer\. Für die Anbringung dieses Zeichens gelten die Bestimmungen der Z 2a sinngemäß\.
 
 > `2d.` Unterführung
 
-![BG.StVO.obj.BN.NOR40261454.H.img8is.png](BG.StVO.obj.BN.NOR40261454.H.img8is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img8is.png")  
-&nbsp; Dieses Zeichen kennzeichnet eine Fußgängerunterführung\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img8is.png](BG.StVO.obj.BN.NOR40261454.H.img8is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img8is.png")  
+> &nbsp; Dieses Zeichen kennzeichnet eine Fußgängerunterführung\.
 
 #### 3\. „ERSTE HILFE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img9is.png](BG.StVO.obj.BN.NOR40261454.H.img9is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img9is.png")  
-&nbsp; Dieses Zeichen weist auf einen Hilfsposten hin, der für die Leistung erster Hilfe ausgerüstet ist\. Wird dieses Zeichen nicht beim Hilfsposten selbst angebracht, so ist auf einer Zusatztafel oder in weißer Farbe auf dem Zeichen selbst in die Richtung des Hilfspostens zu weisen und die Entfernung anzugeben\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img9is.png](BG.StVO.obj.BN.NOR40261454.H.img9is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img9is.png")  
+> &nbsp; Dieses Zeichen weist auf einen Hilfsposten hin, der für die Leistung erster Hilfe ausgerüstet ist\. Wird dieses Zeichen nicht beim Hilfsposten selbst angebracht, so ist auf einer Zusatztafel oder in weißer Farbe auf dem Zeichen selbst in die Richtung des Hilfspostens zu weisen und die Entfernung anzugeben\.
 
 #### 3a\. „GOTTESDIENSTE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img10is.png](BG.StVO.obj.BN.NOR40261454.H.img10is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img10is.png")  
-&nbsp; Dieses Zeichen weist auf Einrichtungen für Gottesdienste hin\. Im blauen Feld des Zeichens oder auf einer Zusatztafel können nähere Angaben über Art, Ort und Zeit des Gottesdienstes angegeben werden \(Symbole, Schriftzeichen, Ziffern\)\. Dieses Zeichen darf nur innerhalb des Ortsgebietes angebracht werden\. Die Kosten für die Anbringung und Erhaltung dieses Zeichens sind von demjenigen zu tragen, der die Anbringung des Zeichens beantragt\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img10is.png](BG.StVO.obj.BN.NOR40261454.H.img10is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img10is.png")  
+> &nbsp; Dieses Zeichen weist auf Einrichtungen für Gottesdienste hin\. Im blauen Feld des Zeichens oder auf einer Zusatztafel können nähere Angaben über Art, Ort und Zeit des Gottesdienstes angegeben werden \(Symbole, Schriftzeichen, Ziffern\)\. Dieses Zeichen darf nur innerhalb des Ortsgebietes angebracht werden\. Die Kosten für die Anbringung und Erhaltung dieses Zeichens sind von demjenigen zu tragen, der die Anbringung des Zeichens beantragt\.
 
 #### 4\. „PANNENHILFE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img11is.png](BG.StVO.obj.BN.NOR40261454.H.img11is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img11is.png")  
-&nbsp; Dieses Zeichen weist auf eine Reparaturwerkstätte hin\. Wenn nötig, ist auf Zusatztafeln oder in weißer Farbe auf dem Zeichen selbst die Art der Werkstätte und die Entfernung bis zur Werkstätte anzugeben und in die Richtung der Werkstätte zu weisen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img11is.png](BG.StVO.obj.BN.NOR40261454.H.img11is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img11is.png")  
+> &nbsp; Dieses Zeichen weist auf eine Reparaturwerkstätte hin\. Wenn nötig, ist auf Zusatztafeln oder in weißer Farbe auf dem Zeichen selbst die Art der Werkstätte und die Entfernung bis zur Werkstätte anzugeben und in die Richtung der Werkstätte zu weisen\.
 
 #### 4a\. „VERKEHRSFUNK“
 
-&nbsp; Dieses Zeichen informiert über den örtlichen Frequenzbereich von Radiostationen, die Verkehrsinformationen durchgeben\. Es entspricht dem Zeichen gemäß Z 4 mit der Maßgabe, dass in dem weißen Feld der Name der Radiostation und anstelle der Entfernungsangabe der jeweilige örtliche Frequenzbereich anzugeben ist\. Außerhalb des Ortsgebietes darf dieses Zeichen \- abgesehen vom Fall einer Frequenzänderung \- innerhalb einer Entfernung von 50 km nur einmal in der gleichen Fahrtrichtung, auf Autobahnen jedoch nur nach der Einmündung einer Auffahrt angebracht werden\.
+> &nbsp; Dieses Zeichen informiert über den örtlichen Frequenzbereich von Radiostationen, die Verkehrsinformationen durchgeben\. Es entspricht dem Zeichen gemäß Z 4 mit der Maßgabe, dass in dem weißen Feld der Name der Radiostation und anstelle der Entfernungsangabe der jeweilige örtliche Frequenzbereich anzugeben ist\. Außerhalb des Ortsgebietes darf dieses Zeichen \- abgesehen vom Fall einer Frequenzänderung \- innerhalb einer Entfernung von 50 km nur einmal in der gleichen Fahrtrichtung, auf Autobahnen jedoch nur nach der Einmündung einer Auffahrt angebracht werden\.
 
 #### 5\. „TELEFON“
 
-![BG.StVO.obj.BN.NOR40261454.H.img12is.jpg](BG.StVO.obj.BN.NOR40261454.H.img12is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img12is.jpg")  
-&nbsp; Dieses Zeichen weist auf eine Fernsprechstelle hin\. Wenn nötig, ist auf einer Zusatztafel oder mit weißer Farbe auf dem Zeichen selbst in die Richtung der Fernsprechstelle zu weisen und die Entfernung bis zur Fernsprechstelle anzugeben\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img12is.jpg](BG.StVO.obj.BN.NOR40261454.H.img12is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img12is.jpg")  
+> &nbsp; Dieses Zeichen weist auf eine Fernsprechstelle hin\. Wenn nötig, ist auf einer Zusatztafel oder mit weißer Farbe auf dem Zeichen selbst in die Richtung der Fernsprechstelle zu weisen und die Entfernung bis zur Fernsprechstelle anzugeben\.
 
 #### 6\. „TANKSTELLE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img13is.png](BG.StVO.obj.BN.NOR40261454.H.img13is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img13is.png")  
-&nbsp; Dieses Zeichen weist auf eine Tankstelle hin\. Auf einer Zusatztafel kann die Entfernung bis zur Tankstelle sowie die Marke des Treibstoffes auch in anderen Farben angegeben werden\. Die Anbringung des Markenzeichens unter diesem Zeichen ist zulässig\. Auf derselben Straße darf dieses Zeichen jedoch innerhalb einer Entfernung von 1000 m nur einmal in der gleichen Fahrtrichtung angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img13is.png](BG.StVO.obj.BN.NOR40261454.H.img13is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img13is.png")  
+> &nbsp; Dieses Zeichen weist auf eine Tankstelle hin\. Auf einer Zusatztafel kann die Entfernung bis zur Tankstelle sowie die Marke des Treibstoffes auch in anderen Farben angegeben werden\. Die Anbringung des Markenzeichens unter diesem Zeichen ist zulässig\. Auf derselben Straße darf dieses Zeichen jedoch innerhalb einer Entfernung von 1000 m nur einmal in der gleichen Fahrtrichtung angebracht werden\.
 
 #### 6a\.
 
-![BG.StVO.obj.BN.NOR40261454.H.img14is.png](BG.StVO.obj.BN.NOR40261454.H.img14is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img14is.png")  
-&nbsp; Dieses Zeichen weist auf einen Taxistandplatz hin\.“
+> ![BG.StVO.obj.BN.NOR40261454.H.img14is.png](BG.StVO.obj.BN.NOR40261454.H.img14is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img14is.png")  
+> &nbsp; Dieses Zeichen weist auf einen Taxistandplatz hin\.“
 
 #### 6b\. „E\-Ladestelle“
 
-![BG.StVO.obj.BN.NOR40261454.H.img15is.jpg](BG.StVO.obj.BN.NOR40261454.H.img15is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img15is.jpg")  
-&nbsp; Dieses Zeichen weist auf eine E\-Ladestelle hin\. Im blauen Rand kann die Entfernung bis zur E\-Ladestelle angegeben werden\. Auf derselben Straße darf dieses Zeichen innerhalb einer Entfernung von 1000 m nur einmal in der gleichen Fahrtrichtung angegeben werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img15is.jpg](BG.StVO.obj.BN.NOR40261454.H.img15is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img15is.jpg")  
+> &nbsp; Dieses Zeichen weist auf eine E\-Ladestelle hin\. Im blauen Rand kann die Entfernung bis zur E\-Ladestelle angegeben werden\. Auf derselben Straße darf dieses Zeichen innerhalb einer Entfernung von 1000 m nur einmal in der gleichen Fahrtrichtung angegeben werden\.
 
 #### 7\. „ENDE DES GEGENVERKEHRS“
 
-![BG.StVO.obj.BN.NOR40261454.H.img16is.png](BG.StVO.obj.BN.NOR40261454.H.img16is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img16is.png")  
-&nbsp; Dieses Zeichen zeigt an, dass mit dem angekündigten \(§ 50 Z 14\) ausnahmsweisen Gegenverkehr nicht mehr gerechnet zu werden braucht\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img16is.png](BG.StVO.obj.BN.NOR40261454.H.img16is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img16is.png")  
+> &nbsp; Dieses Zeichen zeigt an, dass mit dem angekündigten \(§ 50 Z 14\) ausnahmsweisen Gegenverkehr nicht mehr gerechnet zu werden braucht\.
 
 #### 7a\. „WARTEPFLICHT FÜR GEGENVERKEHR“
 
-![BG.StVO.obj.BN.NOR40261454.H.img17is.png](BG.StVO.obj.BN.NOR40261454.H.img17is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img17is.png")  
-&nbsp; Dieses Zeichen zeigt an, dass der Lenker eines entgegenkommenden Fahrzeuges gemäß § 52 Z 5 zu warten hat\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img17is.png](BG.StVO.obj.BN.NOR40261454.H.img17is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img17is.png")  
+> &nbsp; Dieses Zeichen zeigt an, dass der Lenker eines entgegenkommenden Fahrzeuges gemäß § 52 Z 5 zu warten hat\.
 
 #### 8a\. „AUTOBAHN“
 
-![BG.StVO.obj.BN.NOR40261454.H.img18is.png](BG.StVO.obj.BN.NOR40261454.H.img18is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img18is.png")  
-&nbsp; Dieses Zeichen zeigt den Beginn einer Autobahn an\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img18is.png](BG.StVO.obj.BN.NOR40261454.H.img18is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img18is.png")  
+> &nbsp; Dieses Zeichen zeigt den Beginn einer Autobahn an\.
 
 #### 8b\. „ENDE DER AUTOBAHN“
 
-![BG.StVO.obj.BN.NOR40261454.H.img19is.png](BG.StVO.obj.BN.NOR40261454.H.img19is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img19is.png")  
-&nbsp; Dieses Zeichen zeigt das Ende einer Autobahn an\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img19is.png](BG.StVO.obj.BN.NOR40261454.H.img19is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img19is.png")  
+> &nbsp; Dieses Zeichen zeigt das Ende einer Autobahn an\.
 
 #### 8c\. „AUTOSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img20is.png](BG.StVO.obj.BN.NOR40261454.H.img20is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img20is.png")  
-&nbsp; Dieses Zeichen zeigt den Beginn einer Autostraße an\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img20is.png](BG.StVO.obj.BN.NOR40261454.H.img20is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img20is.png")  
+> &nbsp; Dieses Zeichen zeigt den Beginn einer Autostraße an\.
 
 #### 8d\. „ENDE DER AUTOSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img21is.png](BG.StVO.obj.BN.NOR40261454.H.img21is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img21is.png")  
-&nbsp; Dieses Zeichen zeigt das Ende einer Autostraße an\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img21is.png](BG.StVO.obj.BN.NOR40261454.H.img21is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img21is.png")  
+> &nbsp; Dieses Zeichen zeigt das Ende einer Autostraße an\.
 
 #### 9a\. „FUSSGÄNGERZONE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img22is.png](BG.StVO.obj.BN.NOR40261454.H.img22is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img22is.png")  
-&nbsp; Dieses Zeichen zeigt den Beginn einer Fußgängerzone an\. Es bedeutet gleichzeitig, dass hier jeglicher Fahrzeugverkehr verboten ist, sofern sich aus § 76a nichts anderes ergibt\. Dieses Zeichen darf auch nur auf der Fahrbahn angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img22is.png](BG.StVO.obj.BN.NOR40261454.H.img22is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img22is.png")  
+> &nbsp; Dieses Zeichen zeigt den Beginn einer Fußgängerzone an\. Es bedeutet gleichzeitig, dass hier jeglicher Fahrzeugverkehr verboten ist, sofern sich aus § 76a nichts anderes ergibt\. Dieses Zeichen darf auch nur auf der Fahrbahn angebracht werden\.
 
 #### 9b\. „ENDE EINER FUSSGÄNGERZONE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img23is.png](BG.StVO.obj.BN.NOR40261454.H.img23is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img23is.png")  
-&nbsp; Dieses Zeichen zeigt das Ende einer Fußgängerzone an\. Es darf auch nur auf der Fahrbahn angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img23is.png](BG.StVO.obj.BN.NOR40261454.H.img23is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img23is.png")  
+> &nbsp; Dieses Zeichen zeigt das Ende einer Fußgängerzone an\. Es darf auch nur auf der Fahrbahn angebracht werden\.
 
 #### 9c\. „WOHNSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img24is.png](BG.StVO.obj.BN.NOR40261454.H.img24is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img24is.png")  
-&nbsp; Dieses Zeichen zeigt den Beginn einer Wohnstraße an und bedeutet, dass hier die besonderen Bestimmungen des § 76b gelten\. Dieses Zeichen darf auch nur auf der Fahrbahn angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img24is.png](BG.StVO.obj.BN.NOR40261454.H.img24is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img24is.png")  
+> &nbsp; Dieses Zeichen zeigt den Beginn einer Wohnstraße an und bedeutet, dass hier die besonderen Bestimmungen des § 76b gelten\. Dieses Zeichen darf auch nur auf der Fahrbahn angebracht werden\.
 
 #### 9d\. „ENDE EINER WOHNSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img25is.png](BG.StVO.obj.BN.NOR40261454.H.img25is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img25is.png")  
-&nbsp; Dieses Zeichen zeigt das Ende einer Wohnstraße an und bedeutet, dass die besonderen Bestimmungen des § 76b nun nicht mehr gelten und dass dem außerhalb der Wohnstraße fließenden Verkehr Vorrang zu geben ist\. Dieses Zeichen darf auch nur auf der Fahrbahn angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img25is.png](BG.StVO.obj.BN.NOR40261454.H.img25is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img25is.png")  
+> &nbsp; Dieses Zeichen zeigt das Ende einer Wohnstraße an und bedeutet, dass die besonderen Bestimmungen des § 76b nun nicht mehr gelten und dass dem außerhalb der Wohnstraße fließenden Verkehr Vorrang zu geben ist\. Dieses Zeichen darf auch nur auf der Fahrbahn angebracht werden\.
 
 #### 9e\. „BEGEGNUNGSZONE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img26is.jpg](BG.StVO.obj.BN.NOR40261454.H.img26is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img26is.jpg")  
-&nbsp; Dieses Zeichen zeigt den Beginn einer Begegnungszone an und bedeutet, dass hier die besonderen Bestimmungen des § 76c gelten\. Wurde in der Begegnungszone die erlaubte Höchstgeschwindigkeit gemäß § 76c Abs\. 6 auf 30 km/h erhöht, ist auf dem Zeichen die Zahl „20“ durch die Zahl „30“ zu ersetzen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img26is.jpg](BG.StVO.obj.BN.NOR40261454.H.img26is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img26is.jpg")  
+> &nbsp; Dieses Zeichen zeigt den Beginn einer Begegnungszone an und bedeutet, dass hier die besonderen Bestimmungen des § 76c gelten\. Wurde in der Begegnungszone die erlaubte Höchstgeschwindigkeit gemäß § 76c Abs\. 6 auf 30 km/h erhöht, ist auf dem Zeichen die Zahl „20“ durch die Zahl „30“ zu ersetzen\.
 
 #### 9f\. „ENDE EINER BEGEGNUNGSZONE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img27is.jpg](BG.StVO.obj.BN.NOR40261454.H.img27is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img27is.jpg")  
-&nbsp; Dieses Zeichen zeigt das Ende einer Begegnungszone an und bedeutet, dass die besonderen Bestimmungen des § 76c nun nicht mehr gelten\. Wurde in der Begegnungszone die erlaubte Höchstgeschwindigkeit gemäß § 76c Abs\. 6 auf 30 km/h erhöht, ist auf dem Zeichen die Zahl „20“ durch die Zahl „30“ zu ersetzen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img27is.jpg](BG.StVO.obj.BN.NOR40261454.H.img27is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img27is.jpg")  
+> &nbsp; Dieses Zeichen zeigt das Ende einer Begegnungszone an und bedeutet, dass die besonderen Bestimmungen des § 76c nun nicht mehr gelten\. Wurde in der Begegnungszone die erlaubte Höchstgeschwindigkeit gemäß § 76c Abs\. 6 auf 30 km/h erhöht, ist auf dem Zeichen die Zahl „20“ durch die Zahl „30“ zu ersetzen\.
 
 #### 9g\. „TUNNEL“
 
-![BG.StVO.obj.BN.NOR40261454.H.img28is.jpg](BG.StVO.obj.BN.NOR40261454.H.img28is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img28is.jpg")  
-&nbsp; Dieses Zeichen zeigt einen Tunnel an, in dem die Bestimmungen des § 8b gelten\. Es ist vor dem Portal eines jeden Tunnels mit einer Länge von mehr als 500 m anzubringen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img28is.jpg](BG.StVO.obj.BN.NOR40261454.H.img28is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img28is.jpg")  
+> &nbsp; Dieses Zeichen zeigt einen Tunnel an, in dem die Bestimmungen des § 8b gelten\. Es ist vor dem Portal eines jeden Tunnels mit einer Länge von mehr als 500 m anzubringen\.
 
 #### 10\. „EINBAHNSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img29is.png](BG.StVO.obj.BN.NOR40261454.H.img29is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img29is.png")  
-&nbsp; Dieses Zeichen zeigt eine Einbahnstraße an und weist in die zulässige Fahrtrichtung\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img29is.png](BG.StVO.obj.BN.NOR40261454.H.img29is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img29is.png")  
+> &nbsp; Dieses Zeichen zeigt eine Einbahnstraße an und weist in die zulässige Fahrtrichtung\.
 
 #### 10a\. „STRASSENBAHN BIEGT BEI GELB ODER ROT EIN“
 
-![BG.StVO.obj.BN.NOR40261454.H.img30is.png](BG.StVO.obj.BN.NOR40261454.H.img30is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img30is.png")  
-&nbsp; Dieses Zeichen an einem Abspanndraht für Oberleitungen von Schienenfahrzeugen zeigt an, dass auf geregelten Kreuzungen Schienenfahrzeuge bei „Gelb“ bzw\. bei „Rot“ in der durch die Spitze angezeigten Richtung einbiegen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img30is.png](BG.StVO.obj.BN.NOR40261454.H.img30is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img30is.png")  
+> &nbsp; Dieses Zeichen an einem Abspanndraht für Oberleitungen von Schienenfahrzeugen zeigt an, dass auf geregelten Kreuzungen Schienenfahrzeuge bei „Gelb“ bzw\. bei „Rot“ in der durch die Spitze angezeigten Richtung einbiegen\.
 
 #### 11\. „SACKGASSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img31is.png](BG.StVO.obj.BN.NOR40261454.H.img31is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img31is.png")  
-&nbsp; Dieses Zeichen zeigt an, dass die Durchfahrt durch eine Straße nicht möglich ist\. Es kann der Anlage der Straße entsprechend angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img31is.png](BG.StVO.obj.BN.NOR40261454.H.img31is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img31is.png")  
+> &nbsp; Dieses Zeichen zeigt an, dass die Durchfahrt durch eine Straße nicht möglich ist\. Es kann der Anlage der Straße entsprechend angebracht werden\.
 
 #### 11a\. „Sackgasse mit Durchgehmöglichkeit“
 
-![BG.StVO.obj.BN.NOR40261454.H.img32is.png](BG.StVO.obj.BN.NOR40261454.H.img32is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img32is.png")  
-&nbsp; Dieses Zeichen zeigt an, dass die Durchfahrt durch eine Straße nicht möglich ist\. Ein Durchgehen für Fußgänger ist möglich\. Es kann der Anlage der Straße entsprechend angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img32is.png](BG.StVO.obj.BN.NOR40261454.H.img32is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img32is.png")  
+> &nbsp; Dieses Zeichen zeigt an, dass die Durchfahrt durch eine Straße nicht möglich ist\. Ein Durchgehen für Fußgänger ist möglich\. Es kann der Anlage der Straße entsprechend angebracht werden\.
 
 #### 11b\. „Sackgasse mit Durchfahrmöglichkeit für Radfahrer und Durchgehmöglichkeit“
 
-![BG.StVO.obj.BN.NOR40261454.H.img33is.jpg](BG.StVO.obj.BN.NOR40261454.H.img33is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img33is.jpg")  
-&nbsp; Dieses Zeichen zeigt an, dass die Durchfahrt durch eine Straße nicht möglich ist\. Ein Durchfahren für Radfahrer und ein Durchgehen für Fußgänger ist möglich\. Es kann der Anlage der Straße entsprechend angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img33is.jpg](BG.StVO.obj.BN.NOR40261454.H.img33is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img33is.jpg")  
+> &nbsp; Dieses Zeichen zeigt an, dass die Durchfahrt durch eine Straße nicht möglich ist\. Ein Durchfahren für Radfahrer und ein Durchgehen für Fußgänger ist möglich\. Es kann der Anlage der Straße entsprechend angebracht werden\.
 
 #### 12\. „LATERNEN, DIE NICHT DIE GANZE NACHT ÜBER LEUCHTEN“
 
-![BG.StVO.obj.BN.NOR40261454.H.img34is.png](BG.StVO.obj.BN.NOR40261454.H.img34is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img34is.png")  
-&nbsp; Dieses Zeichen an einer Straßenlaterne weist darauf hin, dass sie noch während der Dunkelheit abgeschaltet wird\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img34is.png](BG.StVO.obj.BN.NOR40261454.H.img34is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img34is.png")  
+> &nbsp; Dieses Zeichen an einer Straßenlaterne weist darauf hin, dass sie noch während der Dunkelheit abgeschaltet wird\.
 
 #### 13a\. „VORWEGWEISER“
 
-![BG.StVO.obj.BN.NOR40261454.H.img35is.png](BG.StVO.obj.BN.NOR40261454.H.img35is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img35is.png")  
-![BG.StVO.obj.BN.NOR40261454.H.img36is.png](BG.StVO.obj.BN.NOR40261454.H.img36is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img36is.png")  
-&nbsp; Diese Zeichen zeigen den Straßenverlauf und wichtige Abzweigungen an\. Ein solches Zeichen ist 150 m bis 250 m vor der Kreuzung anzubringen\. Straßen mit Vorrang werden mit breiten, andere Straßen mit schmalen Strichen angezeigt\. Außer den Ortsnamen können auch die Straßennummern und Symbole angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img35is.png](BG.StVO.obj.BN.NOR40261454.H.img35is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img35is.png")  
+> ![BG.StVO.obj.BN.NOR40261454.H.img36is.png](BG.StVO.obj.BN.NOR40261454.H.img36is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img36is.png")  
+> &nbsp; Diese Zeichen zeigen den Straßenverlauf und wichtige Abzweigungen an\. Ein solches Zeichen ist 150 m bis 250 m vor der Kreuzung anzubringen\. Straßen mit Vorrang werden mit breiten, andere Straßen mit schmalen Strichen angezeigt\. Außer den Ortsnamen können auch die Straßennummern und Symbole angebracht werden\.
 
 #### 13b\. „WEGWEISER“
 
-![BG.StVO.obj.BN.NOR40261454.H.img37is.png](BG.StVO.obj.BN.NOR40261454.H.img37is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img37is.png")  
-![BG.StVO.obj.BN.NOR40261454.H.img38is.png](BG.StVO.obj.BN.NOR40261454.H.img38is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img38is.png")  
-![BG.StVO.obj.BN.NOR40261454.H.img39is.png](BG.StVO.obj.BN.NOR40261454.H.img39is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img39is.png")  
-&nbsp; Diese Zeichen zeigen im Bereich einer Kreuzung die Richtung an, in der ein Ort liegt\. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten läßt\. Auf den Zeichen können auch die Namen mehrerer Orte sowie die Entfernungen, die Straßennummern, Symbole und allenfalls Hinweise auf Beschränkungen angegeben werden\. Ist auf einem solchen Zeichen ein Symbol für eine bestimmte Fahrzeugart angebracht, so bedeutet dies, dass der Wegweiser nur für Fahrzeuge der betreffenden Fahrzeugart gilt\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img37is.png](BG.StVO.obj.BN.NOR40261454.H.img37is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img37is.png")  
+> ![BG.StVO.obj.BN.NOR40261454.H.img38is.png](BG.StVO.obj.BN.NOR40261454.H.img38is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img38is.png")  
+> ![BG.StVO.obj.BN.NOR40261454.H.img39is.png](BG.StVO.obj.BN.NOR40261454.H.img39is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img39is.png")  
+> &nbsp; Diese Zeichen zeigen im Bereich einer Kreuzung die Richtung an, in der ein Ort liegt\. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten läßt\. Auf den Zeichen können auch die Namen mehrerer Orte sowie die Entfernungen, die Straßennummern, Symbole und allenfalls Hinweise auf Beschränkungen angegeben werden\. Ist auf einem solchen Zeichen ein Symbol für eine bestimmte Fahrzeugart angebracht, so bedeutet dies, dass der Wegweiser nur für Fahrzeuge der betreffenden Fahrzeugart gilt\.
 
 #### 13c\. „WEGWEISER ZU ANDEREN VERKEHRSEINRICHTUNGEN“
 
-![BG.StVO.obj.BN.NOR40261454.H.img40is.png](BG.StVO.obj.BN.NOR40261454.H.img40is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img40is.png")  
-&nbsp; Dieses Zeichen zeigt im Bereich einer Kreuzung die Richtung an, in der Einrichtungen anderer Verkehrsträger, ausgenommen Seilbahnen und Lifte, liegen\. Es darf auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten läßt\. Auf dem Zeichen können auch Symbole und Entfernungen angegeben werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img40is.png](BG.StVO.obj.BN.NOR40261454.H.img40is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img40is.png")  
+> &nbsp; Dieses Zeichen zeigt im Bereich einer Kreuzung die Richtung an, in der Einrichtungen anderer Verkehrsträger, ausgenommen Seilbahnen und Lifte, liegen\. Es darf auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten läßt\. Auf dem Zeichen können auch Symbole und Entfernungen angegeben werden\.
 
 #### 13d\. „WEGWEISER ZU LOKAL\- ODER BEREICHSZIELEN“
 
-![BG.StVO.obj.BN.NOR40261454.H.img41is.png](BG.StVO.obj.BN.NOR40261454.H.img41is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img41is.png")  
-![BG.StVO.obj.BN.NOR40261454.H.img42is.png](BG.StVO.obj.BN.NOR40261454.H.img42is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img42is.png")  
-&nbsp; Diese Zeichen zeigen im Bereich einer Kreuzung die Richtung an, in der bedeutende Ziele innerhalb eines Ortsgebietes oder Gebiets\- oder Landschaftsziele liegen\. Ein Zeichen dieser Art und Ausführung ist auch zu verwenden, wenn die Richtung zu Seilbahnen und Liften angezeigt wird\. Diese Zeichen dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten läßt\. Auf den Zeichen können auch Symbole und Entfernungen angegeben werden\. Ist auf einem solchen Zeichen ein Symbol für eine bestimmte Fahrzeugart angebracht, so bedeutet dies, dass der Wegweiser nur für Fahrzeuge der betreffenden Fahrzeugart gilt
+> ![BG.StVO.obj.BN.NOR40261454.H.img41is.png](BG.StVO.obj.BN.NOR40261454.H.img41is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img41is.png")  
+> ![BG.StVO.obj.BN.NOR40261454.H.img42is.png](BG.StVO.obj.BN.NOR40261454.H.img42is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img42is.png")  
+> &nbsp; Diese Zeichen zeigen im Bereich einer Kreuzung die Richtung an, in der bedeutende Ziele innerhalb eines Ortsgebietes oder Gebiets\- oder Landschaftsziele liegen\. Ein Zeichen dieser Art und Ausführung ist auch zu verwenden, wenn die Richtung zu Seilbahnen und Liften angezeigt wird\. Diese Zeichen dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten läßt\. Auf den Zeichen können auch Symbole und Entfernungen angegeben werden\. Ist auf einem solchen Zeichen ein Symbol für eine bestimmte Fahrzeugart angebracht, so bedeutet dies, dass der Wegweiser nur für Fahrzeuge der betreffenden Fahrzeugart gilt
 
 #### 13e\. „Vorwegweiser Fahrradverkehr“
 
-![BG.StVO.obj.BN.NOR40261454.H.img43is.jpg](BG.StVO.obj.BN.NOR40261454.H.img43is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img43is.jpg")  
-&nbsp; Dieses Zeichen zeigt den Straßenverlauf und wichtige Abzweigungen für den Fahrradverkehr an\. Das Zeichen ist 50 m bis 150 m vor der Kreuzung anzubringen\. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten lässt\. Außer den Ortsnamen ist die zusätzliche Angabe von Nummern, Buchstaben, Symbolen und die Bezeichnung der Radroute zulässig\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img43is.jpg](BG.StVO.obj.BN.NOR40261454.H.img43is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img43is.jpg")  
+> &nbsp; Dieses Zeichen zeigt den Straßenverlauf und wichtige Abzweigungen für den Fahrradverkehr an\. Das Zeichen ist 50 m bis 150 m vor der Kreuzung anzubringen\. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten lässt\. Außer den Ortsnamen ist die zusätzliche Angabe von Nummern, Buchstaben, Symbolen und die Bezeichnung der Radroute zulässig\.
 
 #### 13f\. „Hauptwegweiser Fahrradverkehr“
 
-![BG.StVO.obj.BN.NOR40261454.H.img44is.jpg](BG.StVO.obj.BN.NOR40261454.H.img44is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img44is.jpg")  
-![BG.StVO.obj.BN.NOR40261454.H.img45is.jpg](BG.StVO.obj.BN.NOR40261454.H.img45is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img45is.jpg")  
-&nbsp; Dieses Zeichen zeigt im Bereich einer Kreuzung die Richtung für den Fahrradverkehr an, in der ein Ort liegt\. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten lässt\. Außer den Ortsnamen ist die zusätzliche Angabe von Nummern, Buchstaben, Symbolen, Lokal\- oder Bereichsziele und die Bezeichnung der Radroute zulässig\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img44is.jpg](BG.StVO.obj.BN.NOR40261454.H.img44is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img44is.jpg")  
+> ![BG.StVO.obj.BN.NOR40261454.H.img45is.jpg](BG.StVO.obj.BN.NOR40261454.H.img45is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img45is.jpg")  
+> &nbsp; Dieses Zeichen zeigt im Bereich einer Kreuzung die Richtung für den Fahrradverkehr an, in der ein Ort liegt\. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten lässt\. Außer den Ortsnamen ist die zusätzliche Angabe von Nummern, Buchstaben, Symbolen, Lokal\- oder Bereichsziele und die Bezeichnung der Radroute zulässig\.
 
 #### 13g\. „Zwischenwegweiser Fahrradverkehr“
 
-![BG.StVO.obj.BN.NOR40261454.H.img46is.jpg](BG.StVO.obj.BN.NOR40261454.H.img46is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img46is.jpg")  
-&nbsp; Dieses Zeichen zeigt den Verlauf von Radrouten an\. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten lässt\. Außer einem Ortsnamen ist die zusätzliche Angabe von Nummern, Buchstaben, Symbolen, Lokal\- oder Bereichsziele und die Bezeichnung der Radroute zulässig\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img46is.jpg](BG.StVO.obj.BN.NOR40261454.H.img46is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img46is.jpg")  
+> &nbsp; Dieses Zeichen zeigt den Verlauf von Radrouten an\. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten lässt\. Außer einem Ortsnamen ist die zusätzliche Angabe von Nummern, Buchstaben, Symbolen, Lokal\- oder Bereichsziele und die Bezeichnung der Radroute zulässig\.
 
 #### 14a\. „VORWEGWEISER ZUR AUTOBAHN ODER AUTOSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img47is.png](BG.StVO.obj.BN.NOR40261454.H.img47is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img47is.png")  
-&nbsp; Dieses Zeichen zeigt vor einer Kreuzung den Weg zu einer Autobahn oder Autostraße an\. Das Zeichen ist 150 m bis 250 m vor der Kreuzung anzubringen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img47is.png](BG.StVO.obj.BN.NOR40261454.H.img47is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img47is.png")  
+> &nbsp; Dieses Zeichen zeigt vor einer Kreuzung den Weg zu einer Autobahn oder Autostraße an\. Das Zeichen ist 150 m bis 250 m vor der Kreuzung anzubringen\.
 
 #### 14b\. „WEGWEISER ZUR AUTOBAHN ODER AUTOSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img48is.png](BG.StVO.obj.BN.NOR40261454.H.img48is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img48is.png")  
-![BG.StVO.obj.BN.NOR40261454.H.img49is.jpg](BG.StVO.obj.BN.NOR40261454.H.img49is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img49is.jpg")  
-&nbsp; Diese Zeichen zeigen im Bereich einer Kreuzung den Weg zu einer Autobahn oder Autostraße an\. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten läßt\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img48is.png](BG.StVO.obj.BN.NOR40261454.H.img48is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img48is.png")  
+> ![BG.StVO.obj.BN.NOR40261454.H.img49is.jpg](BG.StVO.obj.BN.NOR40261454.H.img49is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img49is.jpg")  
+> &nbsp; Diese Zeichen zeigen im Bereich einer Kreuzung den Weg zu einer Autobahn oder Autostraße an\. Sie dürfen auch nur auf der linken Straßenseite angebracht werden, wenn dies eine bessere Erkennbarkeit erwarten läßt\.
 
 #### 15a\. „VORWEGWEISER \- AUTOBAHN ODER AUTOSTRASSE“
 
-> `a)` 
 
-![BG.StVO.obj.BN.NOR40261454.H.img50is.jpg](BG.StVO.obj.BN.NOR40261454.H.img50is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img50is.jpg")
+> ![BG.StVO.obj.BN.NOR40261454.H.img50is.jpg](BG.StVO.obj.BN.NOR40261454.H.img50is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img50is.jpg")
 
-> `b)` 
 
-![BG.StVO.obj.BN.NOR40261454.H.img51is.jpg](BG.StVO.obj.BN.NOR40261454.H.img51is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img51is.jpg")
+> ![BG.StVO.obj.BN.NOR40261454.H.img51is.jpg](BG.StVO.obj.BN.NOR40261454.H.img51is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img51is.jpg")
 
-> `c)` 
 
-![BG.StVO.obj.BN.NOR40261454.H.img52is.png](BG.StVO.obj.BN.NOR40261454.H.img52is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img52is.png")
+> ![BG.StVO.obj.BN.NOR40261454.H.img52is.png](BG.StVO.obj.BN.NOR40261454.H.img52is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img52is.png")
 
-> `d)` 
 
-![BG.StVO.obj.BN.NOR40261454.H.img53is.jpg](BG.StVO.obj.BN.NOR40261454.H.img53is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img53is.jpg")  
-&nbsp; Diese Zeichen zeigen den weiteren Verlauf einer Autobahn oder Autostraße und die nächste Ausfahrt an\. Ein Zeichen nach a\) ist etwa 1000 m, ein Zeichen nach b\) etwa 700 m oder, wenn ein Zeichen nach c\) nicht angebracht wird, etwa 500 m, ein Zeichen nach c\) etwa 400 m vor dem Beginn einer Ausfahrt aus einer Autobahn oder Autostraße anzubringen; ein Zeichen nach d\) ist etwa 1000 m vor dem Beginn einer Ausfahrt zu einer anderen Autobahn oder Autostraße anzubringen\.  
-&nbsp; Die Aufschriften \(und allfällige Symbole\) auf einem Zeichen nach c\) \- ausgenommen die Bezeichnung der Anschlußstelle \- hat die Landesregierung auf Antrag von Fremdenverkehrsorganisationen oder von Gemeinden unter Bedachtnahme darauf zu bestimmen, dass die Information einem vordringlichen Bedürfnis der Straßenbenützer dient oder für diese immerhin von erheblichem Interesse ist\. Die Kosten für die Anbringung und Erhaltung eines Zeichens nach c\) sind von demjenigen zu tragen, der die Anbringung dieses Zeichens beantragt\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img53is.jpg](BG.StVO.obj.BN.NOR40261454.H.img53is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img53is.jpg")  
+> &nbsp; Diese Zeichen zeigen den weiteren Verlauf einer Autobahn oder Autostraße und die nächste Ausfahrt an\. Ein Zeichen nach a\) ist etwa 1000 m, ein Zeichen nach b\) etwa 700 m oder, wenn ein Zeichen nach c\) nicht angebracht wird, etwa 500 m, ein Zeichen nach c\) etwa 400 m vor dem Beginn einer Ausfahrt aus einer Autobahn oder Autostraße anzubringen; ein Zeichen nach d\) ist etwa 1000 m vor dem Beginn einer Ausfahrt zu einer anderen Autobahn oder Autostraße anzubringen\.  
+> &nbsp; Die Aufschriften \(und allfällige Symbole\) auf einem Zeichen nach c\) \- ausgenommen die Bezeichnung der Anschlußstelle \- hat die Landesregierung auf Antrag von Fremdenverkehrsorganisationen oder von Gemeinden unter Bedachtnahme darauf zu bestimmen, dass die Information einem vordringlichen Bedürfnis der Straßenbenützer dient oder für diese immerhin von erheblichem Interesse ist\. Die Kosten für die Anbringung und Erhaltung eines Zeichens nach c\) sind von demjenigen zu tragen, der die Anbringung dieses Zeichens beantragt\.
 
 #### 15b\. „AUSFAHRTSWEGWEISER \- AUTOBAHN ODER AUTOSTRASSE“
 
-> `a)` 
 
-![BG.StVO.obj.BN.NOR40261454.H.img54is.png](BG.StVO.obj.BN.NOR40261454.H.img54is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img54is.png")
+> ![BG.StVO.obj.BN.NOR40261454.H.img54is.png](BG.StVO.obj.BN.NOR40261454.H.img54is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img54is.png")
 
-> `b)` 
 
-![BG.StVO.obj.BN.NOR40261454.H.img55is.png](BG.StVO.obj.BN.NOR40261454.H.img55is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img55is.png")  
-![BG.StVO.obj.BN.NOR40261454.H.img56is.png](BG.StVO.obj.BN.NOR40261454.H.img56is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img56is.png")  
-&nbsp; Diese Zeichen zeigen eine Ausfahrt aus einer Autobahn oder Autostraße an\. Ein Zeichen nach a\) ist am Beginn der Ausfahrt, ein Zeichen nach b\) am Ende der Ausfahrt auf der linken Seite anzubringen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img55is.png](BG.StVO.obj.BN.NOR40261454.H.img55is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img55is.png")  
+> ![BG.StVO.obj.BN.NOR40261454.H.img56is.png](BG.StVO.obj.BN.NOR40261454.H.img56is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img56is.png")  
+> &nbsp; Diese Zeichen zeigen eine Ausfahrt aus einer Autobahn oder Autostraße an\. Ein Zeichen nach a\) ist am Beginn der Ausfahrt, ein Zeichen nach b\) am Ende der Ausfahrt auf der linken Seite anzubringen\.
 
 #### 15c\. „ORIENTIERUNGSTAFEL \- AUTOBAHN ODER AUTOSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img57is.jpg](BG.StVO.obj.BN.NOR40261454.H.img57is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img57is.jpg")  
-&nbsp; Dieses Zeichen zeigt Entfernungen auf Autobahnen oder Autostraßen an\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img57is.jpg](BG.StVO.obj.BN.NOR40261454.H.img57is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img57is.jpg")  
+> &nbsp; Dieses Zeichen zeigt Entfernungen auf Autobahnen oder Autostraßen an\.
 
 #### 16a\. „VORANKÜNDIGUNG EINER UMLEITUNG“
 
-![BG.StVO.obj.BN.NOR40261454.H.img58is.png](BG.StVO.obj.BN.NOR40261454.H.img58is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img58is.png")  
-&nbsp; Dieses Zeichen kündigt den Verlauf einer Umleitung an\. Im Zeichen kann angegeben werden, ob die Umleitung für alle Fahrzeuge oder nur für bestimmte Fahrzeugarten oder für bestimmte andere Umstände gilt \(zB nur für Fahrzeuge, deren Höhe oder deren Gesamtgewicht ein bestimmtes Ausmaß überschreitet\)\. Außerdem kann die Länge der Umleitungsstrecke angegeben werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img58is.png](BG.StVO.obj.BN.NOR40261454.H.img58is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img58is.png")  
+> &nbsp; Dieses Zeichen kündigt den Verlauf einer Umleitung an\. Im Zeichen kann angegeben werden, ob die Umleitung für alle Fahrzeuge oder nur für bestimmte Fahrzeugarten oder für bestimmte andere Umstände gilt \(zB nur für Fahrzeuge, deren Höhe oder deren Gesamtgewicht ein bestimmtes Ausmaß überschreitet\)\. Außerdem kann die Länge der Umleitungsstrecke angegeben werden\.
 
 #### 16b\. „UMLEITUNG“
 
-![BG.StVO.obj.BN.NOR40261454.H.img59is.png](BG.StVO.obj.BN.NOR40261454.H.img59is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img59is.png")  
-&nbsp; Diese Zeichen zeigen eine Umleitung des Verkehrs an\. Ist auf einem solchen Zeichen ein Symbol für eine bestimmte Fahrzeugart angebracht, so bedeutet dies, dass die Umleitung nur für Fahrzeuge der betreffenden Fahrzeugart gilt\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img59is.png](BG.StVO.obj.BN.NOR40261454.H.img59is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img59is.png")  
+> &nbsp; Diese Zeichen zeigen eine Umleitung des Verkehrs an\. Ist auf einem solchen Zeichen ein Symbol für eine bestimmte Fahrzeugart angebracht, so bedeutet dies, dass die Umleitung nur für Fahrzeuge der betreffenden Fahrzeugart gilt\.
 
 #### 16c\. „WECHSEL DER RICHTUNGSFAHRBAHN“
 
-> `a)` 
 
-![BG.StVO.obj.BN.NOR40261454.H.img60is.png](BG.StVO.obj.BN.NOR40261454.H.img60is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img60is.png")
+> ![BG.StVO.obj.BN.NOR40261454.H.img60is.png](BG.StVO.obj.BN.NOR40261454.H.img60is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img60is.png")
 
-> `b)` 
 
-![BG.StVO.obj.BN.NOR40261454.H.img61is.png](BG.StVO.obj.BN.NOR40261454.H.img61is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img61is.png")  
-&nbsp; Diese Zeichen kündigen auf Straßen mit Richtungsfahrbahnen einen Wechsel der Richtungsfahrbahn an, und zwar ein Zeichen nach a\) die Überleitung des Verkehrs von einer dann gesperrten Richtungsfahrbahn auf die Gegenfahrbahn, ein Zeichen nach b\) die Rückleitung zum getrennten Richtungsverkehr\. Auf den Zeichen ist die Anzahl und der Verlauf der zur Verfügung stehenden Fahrstreifen anzuzeigen\. In den Pfeilen können auch Hinweise auf Beschränkungen oder Verbote enthalten sein\. Auf den Zeichen können auch Entfernungsangaben angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img61is.png](BG.StVO.obj.BN.NOR40261454.H.img61is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img61is.png")  
+> &nbsp; Diese Zeichen kündigen auf Straßen mit Richtungsfahrbahnen einen Wechsel der Richtungsfahrbahn an, und zwar ein Zeichen nach a\) die Überleitung des Verkehrs von einer dann gesperrten Richtungsfahrbahn auf die Gegenfahrbahn, ein Zeichen nach b\) die Rückleitung zum getrennten Richtungsverkehr\. Auf den Zeichen ist die Anzahl und der Verlauf der zur Verfügung stehenden Fahrstreifen anzuzeigen\. In den Pfeilen können auch Hinweise auf Beschränkungen oder Verbote enthalten sein\. Auf den Zeichen können auch Entfernungsangaben angebracht werden\.
 
 #### 17a\. „ORTSTAFEL“
 
-![BG.StVO.obj.BN.NOR40261454.H.img62is.png](BG.StVO.obj.BN.NOR40261454.H.img62is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img62is.png")  
-&nbsp; Dieses Zeichen gibt den Namen eines Ortes an und ist jeweils am Beginn des verbauten Gebietes anzubringen\. Ein Gebiet ist dann verbaut, wenn die örtliche Zusammengehörigkeit mehrerer Bauwerke leicht erkennbar ist\.  
-&nbsp; Auf Autobahnen, ausgenommen am Ende einer Ausfahrtsstraße, darf dieses Zeichen nicht angebracht werden\. Die Anbringung einer grünen Tafel mit der weißen Aufschrift „Erholungsdorf“ \- bei Orten, die berechtigt sind, die Bezeichnung Erholungsdorf zu führen \- oder einer ähnlichen, die Gemeinde näher beschreibenden Tafel unterhalb der Ortstafel ist zulässig, wenn dadurch die leichte Erkennbarkeit der Ortstafel nicht beeinträchtigt und die Sicherheit des Verkehrs nicht gefährdet wird; eine solche Tafel darf die Ortstafel seitlich nicht überragen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img62is.png](BG.StVO.obj.BN.NOR40261454.H.img62is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img62is.png")  
+> &nbsp; Dieses Zeichen gibt den Namen eines Ortes an und ist jeweils am Beginn des verbauten Gebietes anzubringen\. Ein Gebiet ist dann verbaut, wenn die örtliche Zusammengehörigkeit mehrerer Bauwerke leicht erkennbar ist\.  
+> &nbsp; Auf Autobahnen, ausgenommen am Ende einer Ausfahrtsstraße, darf dieses Zeichen nicht angebracht werden\. Die Anbringung einer grünen Tafel mit der weißen Aufschrift „Erholungsdorf“ \- bei Orten, die berechtigt sind, die Bezeichnung Erholungsdorf zu führen \- oder einer ähnlichen, die Gemeinde näher beschreibenden Tafel unterhalb der Ortstafel ist zulässig, wenn dadurch die leichte Erkennbarkeit der Ortstafel nicht beeinträchtigt und die Sicherheit des Verkehrs nicht gefährdet wird; eine solche Tafel darf die Ortstafel seitlich nicht überragen\.
 
 #### 17b\. „ORTSENDE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img63is.png](BG.StVO.obj.BN.NOR40261454.H.img63is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img63is.png")  
-&nbsp; Dieses Zeichen ist auf der Rückseite des Zeichens „Ortstafel“ anzubringen; dem Zeichen kann ein Hinweis auf die Entfernung bis zum nächsten Ort mit Verkehrsbedeutung beigefügt werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img63is.png](BG.StVO.obj.BN.NOR40261454.H.img63is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img63is.png")  
+> &nbsp; Dieses Zeichen ist auf der Rückseite des Zeichens „Ortstafel“ anzubringen; dem Zeichen kann ein Hinweis auf die Entfernung bis zum nächsten Ort mit Verkehrsbedeutung beigefügt werden\.
 
 #### 18\. „INTERNATIONALER HAUPTVERKEHRSWEG“
 
-![BG.StVO.obj.BN.NOR40261454.H.img64is.png](BG.StVO.obj.BN.NOR40261454.H.img64is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img64is.png")  
-&nbsp; Dieses Zeichen zeigt den Verlauf eines internationalen Hauptverkehrsweges an\. Ein internationaler Hauptverkehrsweg ist eine Vorrangstraße\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img64is.png](BG.StVO.obj.BN.NOR40261454.H.img64is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img64is.png")  
+> &nbsp; Dieses Zeichen zeigt den Verlauf eines internationalen Hauptverkehrsweges an\. Ein internationaler Hauptverkehrsweg ist eine Vorrangstraße\.
 
 #### 19\. „STRASSE MIT VORRANG“
 
-![BG.StVO.obj.BN.NOR40261454.H.img65is.png](BG.StVO.obj.BN.NOR40261454.H.img65is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img65is.png")  
-&nbsp; Dieses Zeichen zeigt die Nummer \(§ 43 Abs\. 5\) einer Vorrangstraße an\.  
-&nbsp; *\(Anm\.: 20 aufgehoben durch BGBl\. I Nr\. 50/2002\)*
+> ![BG.StVO.obj.BN.NOR40261454.H.img65is.png](BG.StVO.obj.BN.NOR40261454.H.img65is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img65is.png")  
+> &nbsp; Dieses Zeichen zeigt die Nummer \(§ 43 Abs\. 5\) einer Vorrangstraße an\.  
+> &nbsp; *\(Anm\.: 20 aufgehoben durch BGBl\. I Nr\. 50/2002\)*
 
 #### 21\. „STRASSE OHNE VORRANG“
 
-![BG.StVO.obj.BN.NOR40261454.H.img66is.png](BG.StVO.obj.BN.NOR40261454.H.img66is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img66is.png")
-
-Dieses Zeichen zeigt die Nummer \(§ 43 Abs\. 5\) einer nicht zur Vorrangstraße erklärten Straße an\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img66is.png](BG.StVO.obj.BN.NOR40261454.H.img66is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img66is.png")
+>
+> Dieses Zeichen zeigt die Nummer \(§ 43 Abs\. 5\) einer nicht zur Vorrangstraße erklärten Straße an\.
 
 #### 22\. „ALLGEMEINE GESCHWINDIGKEITSBESCHRÄNKUNG“
 
-![BG.StVO.obj.BN.NOR40261454.H.img67is.png](BG.StVO.obj.BN.NOR40261454.H.img67is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img67is.png")  
-&nbsp; Dieses Zeichen zeigt eine allgemeine Geschwindigkeitsbeschränkung auf Freilandstraßen an\. Ein für eine bestimmte Straßenart beigefügtes Symbol bedeutet, dass für diese Straßenart abweichend von der für die übrigen Freilandstraßen geltenden Geschwindigkeitsbeschränkung die neben dem Symbol angegebene Geschwindigkeitsbeschränkung gilt\. Das Zeichen ist an den für den Kraftfahrzeugverkehr geöffneten Grenzübergängen anzubringen; es kann im Verlauf wichtiger Durchzugsstraßen wiederholt werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img67is.png](BG.StVO.obj.BN.NOR40261454.H.img67is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img67is.png")  
+> &nbsp; Dieses Zeichen zeigt eine allgemeine Geschwindigkeitsbeschränkung auf Freilandstraßen an\. Ein für eine bestimmte Straßenart beigefügtes Symbol bedeutet, dass für diese Straßenart abweichend von der für die übrigen Freilandstraßen geltenden Geschwindigkeitsbeschränkung die neben dem Symbol angegebene Geschwindigkeitsbeschränkung gilt\. Das Zeichen ist an den für den Kraftfahrzeugverkehr geöffneten Grenzübergängen anzubringen; es kann im Verlauf wichtiger Durchzugsstraßen wiederholt werden\.
 
 #### 23\. „VORANZEIGER FÜR EINORDNEN“
 
-![BG.StVO.obj.BN.NOR40261454.H.img68is.png](BG.StVO.obj.BN.NOR40261454.H.img68is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img68is.png")  
-&nbsp; Dieses Zeichen zeigt an, wie sich der Lenker eines Fahrzeuges vor der nächsten Kreuzung auf Grund der dort angebrachten Bodenmarkierungen einzuordnen haben wird\. Orientierungsangaben können beigefügt werden\.  
-&nbsp; Dieses Zeichen ist anzubringen, wenn Bodenmarkierungen ein besonderes Einordnen vorschreiben, es sei denn, diese Bodenmarkierungen können auch ohne Zeichen leicht und rechtzeitig erkannt werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img68is.png](BG.StVO.obj.BN.NOR40261454.H.img68is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img68is.png")  
+> &nbsp; Dieses Zeichen zeigt an, wie sich der Lenker eines Fahrzeuges vor der nächsten Kreuzung auf Grund der dort angebrachten Bodenmarkierungen einzuordnen haben wird\. Orientierungsangaben können beigefügt werden\.  
+> &nbsp; Dieses Zeichen ist anzubringen, wenn Bodenmarkierungen ein besonderes Einordnen vorschreiben, es sei denn, diese Bodenmarkierungen können auch ohne Zeichen leicht und rechtzeitig erkannt werden\.
 
 #### 23a\. „VORANZEIGER FÜR EINBIEGEN“
 
-![BG.StVO.obj.BN.NOR40261454.H.img69is.png](BG.StVO.obj.BN.NOR40261454.H.img69is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img69is.png")  
-![BG.StVO.obj.BN.NOR40261454.H.img70is.png](BG.StVO.obj.BN.NOR40261454.H.img70is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img70is.png")  
-&nbsp; Diese Zeichen zeigen eine besondere Verkehrsführung, insbesondere für das Linkseinbiegen, an, wenn im Zuge der betreffenden Straße Fahrtrichtungsbeschränkungen \(zB ein Linkseinbiegeverbot\) verordnet sind\. Bei besonderen Verkehrsführungen wegen vorübergehender Bauarbeiten sind die Zeichen mit gelbem Grund auszuführen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img69is.png](BG.StVO.obj.BN.NOR40261454.H.img69is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img69is.png")  
+> ![BG.StVO.obj.BN.NOR40261454.H.img70is.png](BG.StVO.obj.BN.NOR40261454.H.img70is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img70is.png")  
+> &nbsp; Diese Zeichen zeigen eine besondere Verkehrsführung, insbesondere für das Linkseinbiegen, an, wenn im Zuge der betreffenden Straße Fahrtrichtungsbeschränkungen \(zB ein Linkseinbiegeverbot\) verordnet sind\. Bei besonderen Verkehrsführungen wegen vorübergehender Bauarbeiten sind die Zeichen mit gelbem Grund auszuführen\.
 
 #### 23b\. „VORANZEIGER FÜR FAHRSTREIFENVERLAUF“
 
-![BG.StVO.obj.BN.NOR40261454.H.img71is.png](BG.StVO.obj.BN.NOR40261454.H.img71is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img71is.png")  
-![BG.StVO.obj.BN.NOR40261454.H.img72is.png](BG.StVO.obj.BN.NOR40261454.H.img72is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img72is.png")  
-&nbsp; Diese Zeichen zeigen den Verlauf und die Veränderung von Fahrstreifen an\. Die Anzahl und die Darstellung der Pfeile hat den tatsächlichen Verhältnissen zu entsprechen\. In den Pfeilen können Hinweise auf Beschränkungen, Verbote oder Gebote enthalten sein\. Auf den Zeichen können auch Entfernungsangaben angebracht werden\. Auf Autobahnen und Autostraßen sind die Zeichen mit blauem Grund und weißen Pfeilen auszuführen\. Wird ein besonderer Fahrstreifenverlauf wegen vorübergehender Bauarbeiten angezeigt, so sind die Zeichen mit gelbem Grund und schwarzen Pfeilen auszuführen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img71is.png](BG.StVO.obj.BN.NOR40261454.H.img71is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img71is.png")  
+> ![BG.StVO.obj.BN.NOR40261454.H.img72is.png](BG.StVO.obj.BN.NOR40261454.H.img72is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img72is.png")  
+> &nbsp; Diese Zeichen zeigen den Verlauf und die Veränderung von Fahrstreifen an\. Die Anzahl und die Darstellung der Pfeile hat den tatsächlichen Verhältnissen zu entsprechen\. In den Pfeilen können Hinweise auf Beschränkungen, Verbote oder Gebote enthalten sein\. Auf den Zeichen können auch Entfernungsangaben angebracht werden\. Auf Autobahnen und Autostraßen sind die Zeichen mit blauem Grund und weißen Pfeilen auszuführen\. Wird ein besonderer Fahrstreifenverlauf wegen vorübergehender Bauarbeiten angezeigt, so sind die Zeichen mit gelbem Grund und schwarzen Pfeilen auszuführen\.
 
 #### 23c\. „FAHRSTREIFENVERMINDERUNG“
 
-![BG.StVO.obj.BN.NOR40261454.H.img73is.png](BG.StVO.obj.BN.NOR40261454.H.img73is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img73is.png")  
-&nbsp; Dieses Zeichen zeigt eine Fahrstreifenverminderung im Sinne des § 11 Abs\. 5 an; es ist der Art der Verminderung entsprechend auszuführen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img73is.png](BG.StVO.obj.BN.NOR40261454.H.img73is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img73is.png")  
+> &nbsp; Dieses Zeichen zeigt eine Fahrstreifenverminderung im Sinne des § 11 Abs\. 5 an; es ist der Art der Verminderung entsprechend auszuführen\.
 
 #### 23d\. „Pannenstreifenfreigabe“
 
-![BG.StVO.obj.BN.NOR40261454.H.img74is.jpg](BG.StVO.obj.BN.NOR40261454.H.img74is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img74is.jpg") ![BG.StVO.obj.BN.NOR40261454.H.img75is.jpg](BG.StVO.obj.BN.NOR40261454.H.img75is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img75is.jpg") ![BG.StVO.obj.BN.NOR40261454.H.img76is.jpg](BG.StVO.obj.BN.NOR40261454.H.img76is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img76is.jpg") ![BG.StVO.obj.BN.NOR40261454.H.img77is.jpg](BG.StVO.obj.BN.NOR40261454.H.img77is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img77is.jpg")  
-&nbsp; Diese Zeichen zeigen einen zum Befahren freigegebenen Pannenstreifen an\. Die Anzahl und die Darstellung der Pfeile haben den tatsächlichen Verhältnissen zu entsprechen\. In den Pfeilen können Hinweise auf Beschränkungen, Verbote oder Gebote enthalten sein\. Auf den Zeichen können auch Entfernungsangaben angebracht werden\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img74is.jpg](BG.StVO.obj.BN.NOR40261454.H.img74is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img74is.jpg") ![BG.StVO.obj.BN.NOR40261454.H.img75is.jpg](BG.StVO.obj.BN.NOR40261454.H.img75is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img75is.jpg") ![BG.StVO.obj.BN.NOR40261454.H.img76is.jpg](BG.StVO.obj.BN.NOR40261454.H.img76is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img76is.jpg") ![BG.StVO.obj.BN.NOR40261454.H.img77is.jpg](BG.StVO.obj.BN.NOR40261454.H.img77is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img77is.jpg")  
+> &nbsp; Diese Zeichen zeigen einen zum Befahren freigegebenen Pannenstreifen an\. Die Anzahl und die Darstellung der Pfeile haben den tatsächlichen Verhältnissen zu entsprechen\. In den Pfeilen können Hinweise auf Beschränkungen, Verbote oder Gebote enthalten sein\. Auf den Zeichen können auch Entfernungsangaben angebracht werden\.
 
 #### 24\. „STRASSE FÜR OMNIBUSSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img78is.png](BG.StVO.obj.BN.NOR40261454.H.img78is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img78is.png")  
-&nbsp; Dieses Zeichen zeigt eine Straße an, die nur von Fahrzeugen des Kraftfahrlinienverkehrs, von Taxi\- und Krankentransportfahrzeugen und bei Arbeitsfahrten auch von Fahrzeugen des Straßendienstes und der Müllabfuhr benützt werden darf\. Auf einer Zusatztafel kann angegeben werden, dass die betreffende Straße auch mit anderen Fahrzeugarten \(zB Omnibusse des Stadtrundfahrten\-Gewerbes oder einspurige Fahrzeuge\) benützt werden darf; diese Angaben können auch im weißen Feld des Hinweiszeichens angebracht werden, wenn dadurch die Erkennbarkeit des Verkehrszeichens nicht beeinträchtigt wird\. Dies gilt auch für das Zeichen nach Z 25\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img78is.png](BG.StVO.obj.BN.NOR40261454.H.img78is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img78is.png")  
+> &nbsp; Dieses Zeichen zeigt eine Straße an, die nur von Fahrzeugen des Kraftfahrlinienverkehrs, von Taxi\- und Krankentransportfahrzeugen und bei Arbeitsfahrten auch von Fahrzeugen des Straßendienstes und der Müllabfuhr benützt werden darf\. Auf einer Zusatztafel kann angegeben werden, dass die betreffende Straße auch mit anderen Fahrzeugarten \(zB Omnibusse des Stadtrundfahrten\-Gewerbes oder einspurige Fahrzeuge\) benützt werden darf; diese Angaben können auch im weißen Feld des Hinweiszeichens angebracht werden, wenn dadurch die Erkennbarkeit des Verkehrszeichens nicht beeinträchtigt wird\. Dies gilt auch für das Zeichen nach Z 25\.
 
 #### 25\. „FAHRSTREIFEN FÜR OMNIBUSSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img79is.png](BG.StVO.obj.BN.NOR40261454.H.img79is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img79is.png")  
-&nbsp; Dieses Zeichen zeigt einen den Fahrzeugen des Kraftfahrlinienverkehrs vorbehaltenen Fahrstreifen an, für dessen Benützung die Bestimmungen der Z 24 sinngemäß gelten\. Falls es die Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs erfordert, sind auf diesem Zeichen durch Fahrstreifenkennzeichnung und Pfeile die Fahrstreifen anzugeben, die für den übrigen Verkehr zur Verfügung stehen\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img79is.png](BG.StVO.obj.BN.NOR40261454.H.img79is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img79is.png")  
+> &nbsp; Dieses Zeichen zeigt einen den Fahrzeugen des Kraftfahrlinienverkehrs vorbehaltenen Fahrstreifen an, für dessen Benützung die Bestimmungen der Z 24 sinngemäß gelten\. Falls es die Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs erfordert, sind auf diesem Zeichen durch Fahrstreifenkennzeichnung und Pfeile die Fahrstreifen anzugeben, die für den übrigen Verkehr zur Verfügung stehen\.
 
 #### 26\. „FAHRRADSTRASSE“
 
-![BG.StVO.obj.BN.NOR40261454.H.img80is.jpg](BG.StVO.obj.BN.NOR40261454.H.img80is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img80is.jpg")  
-&nbsp; Dieses Zeichen zeigt den Beginn einer Fahrradstraße an und bedeutet, dass hier die besonderen Bestimmungen des § 67 gelten\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img80is.jpg](BG.StVO.obj.BN.NOR40261454.H.img80is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img80is.jpg")  
+> &nbsp; Dieses Zeichen zeigt den Beginn einer Fahrradstraße an und bedeutet, dass hier die besonderen Bestimmungen des § 67 gelten\.
 
 #### 26a\. „Schulstraße“
 
-![BG.StVO.obj.BN.NOR40261454.H.img81is.jpg](BG.StVO.obj.BN.NOR40261454.H.img81is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img81is.jpg")  
-&nbsp; Dieses Zeichen zeigt den Beginn einer Schulstraße an und bedeutet, dass hier die besonderen Bestimmungen des § 76 d gelten\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img81is.jpg](BG.StVO.obj.BN.NOR40261454.H.img81is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img81is.jpg")  
+> &nbsp; Dieses Zeichen zeigt den Beginn einer Schulstraße an und bedeutet, dass hier die besonderen Bestimmungen des § 76 d gelten\.
 
 #### 27\. „RADWEG OHNE BENÜTZUNGSPFLICHT“
 
-![BG.StVO.obj.BN.NOR40261454.H.img82is.jpg](BG.StVO.obj.BN.NOR40261454.H.img82is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img82is.jpg")  
-&nbsp; Dieses Zeichen zeigt einen Radweg an, der von Radfahrern benützt werden darf, aber nicht muss\.
+> ![BG.StVO.obj.BN.NOR40261454.H.img82is.jpg](BG.StVO.obj.BN.NOR40261454.H.img82is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img82is.jpg")  
+> &nbsp; Dieses Zeichen zeigt einen Radweg an, der von Radfahrern benützt werden darf, aber nicht muss\.
 
 #### 28\. „GEH\- UND RADWEG OHNE BENÜTZUNGSPFLICHT“
 
-**a\)** ![BG.StVO.obj.BN.NOR40261454.H.img83is.jpg](BG.StVO.obj.BN.NOR40261454.H.img83is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img83is.jpg")  
-**b\)** ![BG.StVO.obj.BN.NOR40261454.H.img84is.jpg](BG.StVO.obj.BN.NOR40261454.H.img84is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img84is.jpg")  
-&nbsp; Diese Zeichen zeigen einen Geh\- und Radweg an, der von Radfahrern benützt werden darf, aber nicht muss, und zwar ein Zeichen nach a\) einen für die gemeinsame Benützung durch Fußgänger und Radfahrer bestimmten Geh\- und Radweg und ein Zeichen nach b\) einen Geh\- und Radweg, bei dem der Fußgänger\- und Fahrradverkehr getrennt geführt werden, wobei die Symbole im Zeichen nach b\) der tatsächlichen Verkehrsführung entsprechend anzuordnen sind \(Fußgänger rechts, Fahrrad links oder umgekehrt\)\.
+> **a\)** ![BG.StVO.obj.BN.NOR40261454.H.img83is.jpg](BG.StVO.obj.BN.NOR40261454.H.img83is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img83is.jpg")  
+> **b\)** ![BG.StVO.obj.BN.NOR40261454.H.img84is.jpg](BG.StVO.obj.BN.NOR40261454.H.img84is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img84is.jpg")  
+> &nbsp; Diese Zeichen zeigen einen Geh\- und Radweg an, der von Radfahrern benützt werden darf, aber nicht muss, und zwar ein Zeichen nach a\) einen für die gemeinsame Benützung durch Fußgänger und Radfahrer bestimmten Geh\- und Radweg und ein Zeichen nach b\) einen Geh\- und Radweg, bei dem der Fußgänger\- und Fahrradverkehr getrennt geführt werden, wobei die Symbole im Zeichen nach b\) der tatsächlichen Verkehrsführung entsprechend anzuordnen sind \(Fußgänger rechts, Fahrrad links oder umgekehrt\)\.
 
 > `undefined` „Ende einer Fahrradstraße, einer Schulstraße, eines Radweges oder eines Geh\- und Radweges ohne Benützungspflicht“  
 > &nbsp; Ein roter Querbalken von links unten nach rechts oben in den Zeichen nach Z 26, 26a, 27, 28 und 29 zeigt das Ende der jeweiligen Fahrradstraße, Schulstraße oder Radfahranlage an\.
@@ -2385,87 +2372,74 @@ Dieses Zeichen zeigt die Nummer \(§ 43 Abs\. 5\) einer nicht zur Vorrangstra�
 > `(4)` Zusatztafeln dürfen nicht verwendet werden, wenn ihre Bedeutung durch ein anderes Straßenverkehrszeichen \(§§ 50, 52 und 53\) zum Ausdruck gebracht werden kann\.
 
 > `(5)` Die nachstehenden Zusatztafeln bedeuten:
-> 
->> `a)` 
+>
 
-![BG.StVO.obj.BN.NOR40245684.image001.png](BG.StVO.obj.BN.NOR40245684.image001.png "~/Dokumente/Bundesnormen/NOR40245684/image001.png")
+> ![BG.StVO.obj.BN.NOR40245684.image001.png](BG.StVO.obj.BN.NOR40245684.image001.png "~/Dokumente/Bundesnormen/NOR40245684/image001.png")
+>
+> Eine solche Zusatztafel gibt die Entfernung bis zu der Straßenstelle an, auf die sich das betreffende Straßenverkehrszeichen bezieht\.
 
-Eine solche Zusatztafel gibt die Entfernung bis zu der Straßenstelle an, auf die sich das betreffende Straßenverkehrszeichen bezieht\.
 
-> `b)` 
+> ![BG.StVO.obj.BN.NOR40245684.image002.png](BG.StVO.obj.BN.NOR40245684.image002.png "~/Dokumente/Bundesnormen/NOR40245684/image002.png")
+>
+> Eine solche Zusatztafel gibt die Länge eines Straßenabschnittes an, für den das betreffende Straßenverkehrszeichen gilt, wie etwa eine längere Gefahrenstelle, die Länge einer Verbots\- oder Beschränkungsstrecke u\. dgl\.
 
-![BG.StVO.obj.BN.NOR40245684.image002.png](BG.StVO.obj.BN.NOR40245684.image002.png "~/Dokumente/Bundesnormen/NOR40245684/image002.png")
 
-Eine solche Zusatztafel gibt die Länge eines Straßenabschnittes an, für den das betreffende Straßenverkehrszeichen gilt, wie etwa eine längere Gefahrenstelle, die Länge einer Verbots\- oder Beschränkungsstrecke u\. dgl\.
+> ![BG.StVO.obj.BN.NOR40245684.image003.png](BG.StVO.obj.BN.NOR40245684.image003.png "~/Dokumente/Bundesnormen/NOR40245684/image003.png")
+>
+> Eine solche Zusatztafel unter dem Zeichen „Vorrang geben“ kündigt das Zeichen „Halt“ an \(§ 48 Abs\. 6\)\.
 
-> `c)` 
 
-![BG.StVO.obj.BN.NOR40245684.image003.png](BG.StVO.obj.BN.NOR40245684.image003.png "~/Dokumente/Bundesnormen/NOR40245684/image003.png")
+> ![BG.StVO.obj.BN.NOR40245684.image004.png](BG.StVO.obj.BN.NOR40245684.image004.png "~/Dokumente/Bundesnormen/NOR40245684/image004.png")
+>
+> Eine solche Zusatztafel unter den Zeichen „Vorrang geben“ oder „Halt“ zeigt an, dass die Querstraße eine Vorrangstraße ist\.
 
-Eine solche Zusatztafel unter dem Zeichen „Vorrang geben“ kündigt das Zeichen „Halt“ an \(§ 48 Abs\. 6\)\.
 
-> `d)` 
+> ![BG.StVO.obj.BN.NOR40245684.image005.png](BG.StVO.obj.BN.NOR40245684.image005.png "~/Dokumente/Bundesnormen/NOR40245684/image005.png")
+>
+> Eine solche Zusatztafel unter den Zeichen „Vorrang geben“, „Halt“ oder „Vorrangstraße“ zeigt an, dass eine Straße mit Vorrang einen besonderen Verlauf nimmt \(§ 19 Abs\. 4\)\.
 
-![BG.StVO.obj.BN.NOR40245684.image004.png](BG.StVO.obj.BN.NOR40245684.image004.png "~/Dokumente/Bundesnormen/NOR40245684/image004.png")
 
-Eine solche Zusatztafel unter den Zeichen „Vorrang geben“ oder „Halt“ zeigt an, dass die Querstraße eine Vorrangstraße ist\.
+> ![BG.StVO.obj.BN.NOR40245684.image006.jpg](BG.StVO.obj.BN.NOR40245684.image006.jpg "~/Dokumente/Bundesnormen/NOR40245684/image006.jpg")
+>
+> Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei Schneelage oder Eisbildung auf der Fahrbahn zu beachten ist\.
 
-> `e)` 
 
-![BG.StVO.obj.BN.NOR40245684.image005.png](BG.StVO.obj.BN.NOR40245684.image005.png "~/Dokumente/Bundesnormen/NOR40245684/image005.png")
+> ![BG.StVO.obj.BN.NOR40245684.image007.png](BG.StVO.obj.BN.NOR40245684.image007.png "~/Dokumente/Bundesnormen/NOR40245684/image007.png")
+>
+> Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei nasser Fahrbahn zu beachten ist\. Die Symbole der Zusatztafeln nach lit\. f und g dürfen auch auf einer Zusatztafel nebeneinander angebracht werden\.
 
-Eine solche Zusatztafel unter den Zeichen „Vorrang geben“, „Halt“ oder „Vorrangstraße“ zeigt an, dass eine Straße mit Vorrang einen besonderen Verlauf nimmt \(§ 19 Abs\. 4\)\.
 
-> `f)` 
+> ![BG.StVO.obj.BN.NOR40245684.image008.png](BG.StVO.obj.BN.NOR40245684.image008.png "~/Dokumente/Bundesnormen/NOR40245684/image008.png")
+>
+> Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt an, dass das Halte\- und Parkverbot nicht für Fahrzeuge gilt, die nach der Bestimmung des § 29b Abs\. 4 gekennzeichnet sind\.
 
-![BG.StVO.obj.BN.NOR40245684.image006.jpg](BG.StVO.obj.BN.NOR40245684.image006.jpg "~/Dokumente/Bundesnormen/NOR40245684/image006.jpg")
 
-Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei Schneelage oder Eisbildung auf der Fahrbahn zu beachten ist\.
+> ![BG.StVO.obj.BN.NOR40245684.image009.png](BG.StVO.obj.BN.NOR40245684.image009.png "~/Dokumente/Bundesnormen/NOR40245684/image009.png")
+>
+> Eine solche Zusatztafel unter dem Zeichen „Überholen verboten“ zeigt an, dass Zugmaschinen, Motorkarren, selbstfahrende Arbeitsmaschinen und vierrädrige Leichtkraftfahrzeuge überholt werden dürfen\.
 
-> `g)` 
 
-![BG.StVO.obj.BN.NOR40245684.image007.png](BG.StVO.obj.BN.NOR40245684.image007.png "~/Dokumente/Bundesnormen/NOR40245684/image007.png")
+> ![BG.StVO.obj.BN.NOR40245684.image010.png](BG.StVO.obj.BN.NOR40245684.image010.png "~/Dokumente/Bundesnormen/NOR40245684/image010.png")
+>
+> Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt eine Abschleppzone \(§ 89a Abs\. 2 lit\. b\) an\.
 
-Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei nasser Fahrbahn zu beachten ist\. Die Symbole der Zusatztafeln nach lit\. f und g dürfen auch auf einer Zusatztafel nebeneinander angebracht werden\.
 
-> `h)` 
+> ![BG.StVO.obj.BN.NOR40245684.image011.png](BG.StVO.obj.BN.NOR40245684.image011.png "~/Dokumente/Bundesnormen/NOR40245684/image011.png")
+>
+> Diese Zusatztafel darf nur verwendet werden, wenn auf einer Fahrbahn mit mehreren Fahrstreifen für dieselbe Fahrtrichtung Straßenverkehrszeichen oberhalb eines Fahrstreifens angebracht sind; sie zeigt an, dass das Straßenverkehrszeichen nur für diesen Fahrstreifen gilt\.
 
-![BG.StVO.obj.BN.NOR40245684.image008.png](BG.StVO.obj.BN.NOR40245684.image008.png "~/Dokumente/Bundesnormen/NOR40245684/image008.png")
 
-Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt an, dass das Halte\- und Parkverbot nicht für Fahrzeuge gilt, die nach der Bestimmung des § 29b Abs\. 4 gekennzeichnet sind\.
+> ![BG.StVO.obj.BN.NOR40245684.image012.png](BG.StVO.obj.BN.NOR40245684.image012.png "~/Dokumente/Bundesnormen/NOR40245684/image012.png")
+>
+> Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwendet werden, das auf einer Verkehrsinsel, einem Fahrbahnteiler oder einer ähnlichen baulichen Einrichtung, die die Fahrbahn in mehrere Fahrstreifen für dieselbe Fahrtrichtung aufteilt, angebracht ist\. Sie zeigt an, dass das Straßenverkehrszeichen nur für den Fahrstreifen gilt, der links an der Trennungseinrichtung vorbeiführt\.
 
-> `i)` 
 
-![BG.StVO.obj.BN.NOR40245684.image009.png](BG.StVO.obj.BN.NOR40245684.image009.png "~/Dokumente/Bundesnormen/NOR40245684/image009.png")
-
-Eine solche Zusatztafel unter dem Zeichen „Überholen verboten“ zeigt an, dass Zugmaschinen, Motorkarren, selbstfahrende Arbeitsmaschinen und vierrädrige Leichtkraftfahrzeuge überholt werden dürfen\.
-
-> `j)` 
-
-![BG.StVO.obj.BN.NOR40245684.image010.png](BG.StVO.obj.BN.NOR40245684.image010.png "~/Dokumente/Bundesnormen/NOR40245684/image010.png")
-
-Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt eine Abschleppzone \(§ 89a Abs\. 2 lit\. b\) an\.
-
-> `k)` 
-
-![BG.StVO.obj.BN.NOR40245684.image011.png](BG.StVO.obj.BN.NOR40245684.image011.png "~/Dokumente/Bundesnormen/NOR40245684/image011.png")
-
-Diese Zusatztafel darf nur verwendet werden, wenn auf einer Fahrbahn mit mehreren Fahrstreifen für dieselbe Fahrtrichtung Straßenverkehrszeichen oberhalb eines Fahrstreifens angebracht sind; sie zeigt an, dass das Straßenverkehrszeichen nur für diesen Fahrstreifen gilt\.
-
-> `l)` 
-
-![BG.StVO.obj.BN.NOR40245684.image012.png](BG.StVO.obj.BN.NOR40245684.image012.png "~/Dokumente/Bundesnormen/NOR40245684/image012.png")
-
-Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwendet werden, das auf einer Verkehrsinsel, einem Fahrbahnteiler oder einer ähnlichen baulichen Einrichtung, die die Fahrbahn in mehrere Fahrstreifen für dieselbe Fahrtrichtung aufteilt, angebracht ist\. Sie zeigt an, dass das Straßenverkehrszeichen nur für den Fahrstreifen gilt, der links an der Trennungseinrichtung vorbeiführt\.
-
-> `m)` 
-
-![BG.StVO.obj.BN.NOR40245684.image013.jpg](BG.StVO.obj.BN.NOR40245684.image013.jpg "~/Dokumente/Bundesnormen/NOR40245684/image013.jpg")  
-&nbsp; Eine solche Zusatztafel unter dem Zeichen ‚Halten und Parken verboten‘ zeigt an, dass das Halte\- und Parkverbot nicht für ein von außen aufladbares Kraftfahrzeug mit einem Antriebsstrang, der mindestens einen nicht\-peripheren elektrischen Motor als Energiewandler mit einem elektrisch aufladbaren Energiespeichersystem, das extern aufgeladen werden kann, enthält \(Elektrofahrzeug\), während des Ladevorgangs gilt\.
-
-        n\) 
-![BG.StVO.obj.BN.NOR40245684.image014.png](BG.StVO.obj.BN.NOR40245684.image014.png "~/Dokumente/Bundesnormen/NOR40245684/image014.png") ![BG.StVO.obj.BN.NOR40245684.image015.jpg](BG.StVO.obj.BN.NOR40245684.image015.jpg "~/Dokumente/Bundesnormen/NOR40245684/image015.jpg")  
-&nbsp; Eine solche Zusatztafel neben einem roten Lichtzeichen zeigt an, dass i\. S\. von § 38 Abs\. 5a die Lenker von Fahrrädern trotz rotem Licht rechts abbiegen bzw\. bei T\-Kreuzungen geradeaus fahren dürfen\.
+> ![BG.StVO.obj.BN.NOR40245684.image013.jpg](BG.StVO.obj.BN.NOR40245684.image013.jpg "~/Dokumente/Bundesnormen/NOR40245684/image013.jpg")  
+> &nbsp; Eine solche Zusatztafel unter dem Zeichen ‚Halten und Parken verboten‘ zeigt an, dass das Halte\- und Parkverbot nicht für ein von außen aufladbares Kraftfahrzeug mit einem Antriebsstrang, der mindestens einen nicht\-peripheren elektrischen Motor als Energiewandler mit einem elektrisch aufladbaren Energiespeichersystem, das extern aufgeladen werden kann, enthält \(Elektrofahrzeug\), während des Ladevorgangs gilt\.
+>
+>         n\) 
+> ![BG.StVO.obj.BN.NOR40245684.image014.png](BG.StVO.obj.BN.NOR40245684.image014.png "~/Dokumente/Bundesnormen/NOR40245684/image014.png") ![BG.StVO.obj.BN.NOR40245684.image015.jpg](BG.StVO.obj.BN.NOR40245684.image015.jpg "~/Dokumente/Bundesnormen/NOR40245684/image015.jpg")  
+> &nbsp; Eine solche Zusatztafel neben einem roten Lichtzeichen zeigt an, dass i\. S\. von § 38 Abs\. 5a die Lenker von Fahrrädern trotz rotem Licht rechts abbiegen bzw\. bei T\-Kreuzungen geradeaus fahren dürfen\.
 
 ## E. Verkehrsleiteinrichtungen.
 
@@ -2527,9 +2501,9 @@ Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwe
 ### § 59 StVO — Verbot des Lenkens von Fahrzeugen
 
 > `(1)` Die Behörde hat einer Person das Lenken eines Fahrzeuges, das ohne besondere Berechtigung gelenkt werden darf, ausdrücklich zu verbieten, wenn diese
-> 
+>
 >> `a)` wegen körperlicher oder geistiger Mängel zum Lenken eines Fahrzeuges ungeeignet ist oder
-> 
+>
 >> `b)` wegen ihres Verhaltens im Straßenverkehr, insbesondere im Hinblick auf wiederholte einschlägige Bestrafungen, eine Gefahr für die Sicherheit des Straßenverkehrs bildet\.
 
 > `(2)` Ein Verbot nach Abs\. 1 kann je nach den Umständen auf eine bestimmte Fahrzeugart eingeschränkt, befristet oder unbefristet erlassen werden\. Es ist aufzuheben oder einzuschränken, wenn die Mängel nicht mehr oder nicht mehr in vollem Umfange bestehen\. Wurde das Verbot wegen eines den Straßenverkehr gefährdenden Verhaltens \(Abs\. 1 lit\. b\) unbefristet oder für mehr als zwei Jahre verfügt, so darf es überdies nur dann aufgehoben werden, wenn es wenigstens zwei Jahre wirksam war\.
@@ -2593,11 +2567,11 @@ Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwe
 > `(1)` Der Lenker eines Fahrrades \(Radfahrer\) muß mindestens zwölf Jahre alt sein; wer ein Fahrrad schiebt, gilt nicht als Radfahrer\. Kinder unter zwölf Jahren dürfen ein Fahrrad nur unter Aufsicht einer Person, die das 16\. Lebensjahr vollendet hat, oder mit behördlicher Bewilligung lenken\.
 
 > `(2)` Die Behörde hat auf Antrag des gesetzlichen Vertreters des Kindes die Bewilligung nach Abs\. 1 zu erteilen, wenn das Kind
-> 
+>
 >> `1.` das 9\. Lebensjahr vollendet hat und die 4\. Schulstufe besucht oder
-> 
+>
 >> `2.` das 10\. Lebensjahr vollendet hat
-> 
+>
 > &nbsp; und anzunehmen ist, dass es die erforderliche körperliche und geistige Eignung sowie Kenntnisse der straßenpolizeilichen Vorschriften besitzt\. Die Bewilligung gilt für das ganze Bundesgebiet, sofern nicht der gesetzliche Vertreter des Kindes eine örtlich eingeschränkte Geltung beantragt hat\. Sie ist unter Bedingungen und mit Auflagen zu erteilen, wenn dies die Verkehrssicherheit erfordert\. Die Behörde kann die Bewilligung widerrufen, wenn sich die Verkehrsverhältnisse seit der Erteilung geändert haben oder nachträglich zutage tritt, daß das Kind die erforderliche körperliche oder geistige Eignung nicht besitzt\. Über die von ihr erteilte Bewilligung hat die Behörde eine Bestätigung, den Radfahrausweis, auszustellen\. Inhalt und Form des Radfahrausweises hat der Bundesminister für Verkehr, Innovation und Technologie durch Verordnung zu bestimmen\. Der auf Grund dieser Bestimmung gestellte Antrag, die erteilte Bewilligung und der ausgestellte Radfahrausweis sind von Bundesstempelgebühren befreit\.
 
 > `(3)` Radfahrer, die auf dem Fahrrad Personen mitführen, müssen das 16\. Lebensjahr vollendet haben\. Ist die mitgeführte Person noch nicht acht Jahre alt, so muß für sie ein eigener, der Größe des Kindes entsprechender Sitz vorhanden sein\. Ist die mitgeführte Person mehr als acht Jahre alt, so darf nur ein Fahrrad verwendet werden, das hinsichtlich seiner Bauart den Anforderungen der Produktsicherheitsbestimmungen für Fahrräder zum Transport mehrerer Personen \(§ 104 Abs\. 8\) entspricht\.
@@ -2607,11 +2581,11 @@ Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwe
 > `(1)` Fahrräder müssen der Größe des Benützers entsprechen\. Fahrräder, Fahrradanhänger und Kindersitze müssen in einem Zustand erhalten werden, der den Anforderungen der Produktsicherheitsbestimmungen für Fahrräder \(§ 104 Abs\. 8\) entspricht\.
 
 > `(2)` Der Bundesminister für Verkehr, Innovation und Technologie hat unter Bedachtnahme auf die Verkehrssicherheit und den Stand der Technik durch Verordnung festzulegen:
-> 
+>
 >> `1.` unter welchen Voraussetzungen bestimmte Teile der Ausrüstung von Fahrrädern oder Fahrradanhängern entfallen können;
-> 
+>
 >> `2.` unter welchen Voraussetzungen die Beförderung von Kindern in Kindersitzen oder Personen mit Fahrradanhängern und mehrspurigen Fahrrädern zulässig ist;
-> 
+>
 >> `3.` das Ladegewicht, das bei der Beförderung von Lasten oder Personen mit Fahrrädern oder mit Fahrradanhängern nicht überschritten werden darf\.
 
 ### § 67 StVO — Fahrradstraße
@@ -2633,15 +2607,15 @@ Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwe
 > `(2)` Radfahrer dürfen auf Radwegen, in Fahrradstraßen, in Wohnstraßen und in Begegnungszonen neben einem anderen Radfahrer fahren sowie bei Trainingsfahrten mit Rennfahrrädern nebeneinander fahren\. In Fußgängerzonen dürfen Radfahrer neben einem anderen Radfahrer fahren, wenn das Befahren der Fußgängerzone mit Fahrrädern erlaubt ist\. Auf allen sonstigen Radfahranlagen und auf Fahrbahnen, auf denen eine Höchstgeschwindigkeit von höchstens 30 km/h und Fahrradverkehr erlaubt sind, ausgenommen auf Schienenstraßen, Vorrangstraßen und Einbahnstraßen gegen die Fahrtrichtung, darf mit einem einspurigen Fahrrad neben einem anderen Radfahrer gefahren werden, sofern niemand gefährdet wird, das Verkehrsaufkommen es zulässt und andere Verkehrsteilnehmer nicht am Überholen gehindert werden\. Bei der Begleitung eines Kindes unter 12 Jahren durch eine Person, die mindestens 16 Jahre alt ist, ist das Fahren neben dem Kind, ausgenommen auf Schienenstraßen, zulässig\. Beim Fahren neben einem anderen Radfahrer darf nur der äußerst rechte Fahrstreifen benützt werden und Fahrzeuge des Kraftfahrlinienverkehrs dürfen nicht behindert werden\. Radfahrer in Gruppen ab zehn Personen ist das Queren einer Kreuzung im Verband durch den übrigen Fahrzeugverkehr zu erlauben\. Dabei sind beim Einfahren in die Kreuzung die für Radfahrer geltenden Vorrangregeln zu beachten; der voran fahrende Radfahrer hat im Kreuzungsbereich den übrigen Fahrzeuglenkern das Ende der Gruppe durch Handzeichen zu signalisieren und erforderlichenfalls vom Fahrrad abzusteigen\. Der erste und letzte Radfahrer der Gruppe haben dabei eine reflektierende Warnweste zu tragen\.
 
 > `(3)` Es ist verboten,
-> 
+>
 >> `a)` auf einem Fahrrad freihändig zu fahren oder die Füße während der Fahrt von den Treteinrichtungen zu entfernen,
-> 
+>
 >> `b)` sich mit einem Fahrrad an ein anderes Fahrzeug anzuhängen, um sich ziehen zu lassen,
-> 
+>
 >> `c)` Fahrräder in einer nicht verkehrsgemäßen Art zu gebrauchen, zum Beispiel Karussellfahren, Wettfahren und dgl\.,
-> 
+>
 >> `d)` beim Radfahren andere Fahrzeuge oder Kleinfahrzeuge mitzuführen,
-> 
+>
 >> `e)` während des Radfahrens ohne Benützung einer Freisprecheinrichtung zu telefonieren; hinsichtlich der Anforderungen für Freisprecheinrichtungen gilt § 102 Abs\. 3 KFG 1967\.
 
 > `(3a)` Radfahrer dürfen sich Radfahrerüberfahrten, wo der Verkehr nicht durch Arm\- oder Lichtzeichen geregelt wird, nur mit einer Geschwindigkeit von höchstens 10 km/h nähern und diese nicht unmittelbar vor einem herannahenden Fahrzeug und für dessen Lenker überraschend befahren, es sei denn, dass in unmittelbarer Nähe keine Kraftfahrzeuge aktuell fahren\.
@@ -2658,13 +2632,13 @@ Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwe
 
 > `(2)` Für die Lenker von Motorfahrrädern gelten die Bestimmungen des § 68 Abs\. 3 bis 5 über das Verhalten von Radfahrern sinngemäß\.
 
-Überdies ist ihnen verboten:
+> Überdies ist ihnen verboten:
 
 > `a)` Das Nebeneinanderfahren mit anderen Motorfahrrädern oder Fahrrädern,
 
 > `b)` Motorfahrräder neben einem anderen Motorfahrrad oder Fahrrad zu schieben,
 
-&nbsp; *\(Anm\.: lit\. c aufgehoben durch BGBl\. I Nr\. 122/2022\)*
+> &nbsp; *\(Anm\.: lit\. c aufgehoben durch BGBl\. I Nr\. 122/2022\)*
 
 ## VII. ABSCHNITT.
 
@@ -2686,15 +2660,15 @@ Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwe
 
 > `(2)` Die Breite eines Fuhrwerkes darf bei Möbelwagen nicht mehr als
 
-2\.40 m, bei anderen Fuhrwerken nicht mehr als 2\.20 m betragen\. Die Breite der Ladung darf bei Erntefuhren und bei Fuhren mit Heu, Stroh oder Schilf in nicht gepreßtem Zustande, wenn sie nicht länger als 11 m sind, 3\.50 m nicht überschreiten\. Ansonsten darf die Ladung nicht breiter als das Fuhrwerk sein\.
+> 2\.40 m, bei anderen Fuhrwerken nicht mehr als 2\.20 m betragen\. Die Breite der Ladung darf bei Erntefuhren und bei Fuhren mit Heu, Stroh oder Schilf in nicht gepreßtem Zustande, wenn sie nicht länger als 11 m sind, 3\.50 m nicht überschreiten\. Ansonsten darf die Ladung nicht breiter als das Fuhrwerk sein\.
 
 > `(3)` Fuhrwerke dürfen auch mit der Ladung nicht höher als 3\.80 m sein\.
 
 > `(4)` Das Gesamtgewicht \(§ 2 Abs\. 1 Z 20\) eines Fuhrwerkes darf unter Bedachtnahme auf die Beschaffenheit der Straße und ihrer Neigungsverhältnisse und unter Bedachtnahme auf die Länge der zu befahrenden Strecke sowie auf die Art und Beschaffenheit des Fahrzeuges und auf die Witterungsverhältnisse die Leistungsfähigkeit des Gespannes nicht übersteigen\. Das Gesamtgewicht eines einspännigen Fuhrwerkes darf 2 t, das eines zweispännigen Fuhrwerkes
 
-4\.8 t nicht überschreiten\. Werden bei Fuhren in einem ebenen Gelände besonders kräftige Pferde verwendet, so darf das Gesamtgewicht für einspännige Fuhrwerke bis 2\.5 t und für zweispännige Fuhrwerke
-
-5\.5 t betragen\. Im ebenen Gelände und bei Verwendung luftbereifter und mit Wälzlagern ausgestatteter Fuhrwerke darf das Gesamtgewicht um ein Drittel erhöht werden\.
+> 4\.8 t nicht überschreiten\. Werden bei Fuhren in einem ebenen Gelände besonders kräftige Pferde verwendet, so darf das Gesamtgewicht für einspännige Fuhrwerke bis 2\.5 t und für zweispännige Fuhrwerke
+>
+> 5\.5 t betragen\. Im ebenen Gelände und bei Verwendung luftbereifter und mit Wälzlagern ausgestatteter Fuhrwerke darf das Gesamtgewicht um ein Drittel erhöht werden\.
 
 > `(5)` Die im Abs\. 4 angeführten Gesamtgewichte dürfen bei mehr als zweispännigen Fuhrwerken überschritten werden, doch darf das Gesamtgewicht keinesfalls 10 t übersteigen\.
 
@@ -2753,9 +2727,9 @@ Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwe
 > `(3)` An Stellen, wo der Verkehr für Fußgänger durch besondere Lichtzeichen \(§ 38 Abs\. 8\) geregelt ist, dürfen Fußgänger nur bei grünem Licht die Fahrbahn zum Überqueren betreten\. An Stellen, wo der Verkehr sonst durch Arm\- oder Lichtzeichen geregelt ist, dürfen Fußgänger die Fahrbahn nur überqueren, wenn für den Fahrzeugverkehr auf dieser Fahrbahn das Zeichen „Halt“ \(§§ 37 Abs\. 3 und 38 Abs\. 5\) gilt\. Hält ein Verkehrsposten einen Arm senkrecht nach oben oder leuchtet gelbes, nicht blinkendes Licht, so dürfen Fußgänger die Fahrbahn nicht betreten\. Wenn Fußgänger die Fahrbahn in Übereinstimmung mit den angeführten Arm\- oder Lichtzeichen betreten haben, sich diese Zeichen jedoch ändern, während sich die Fußgänger auf der Fahrbahn befinden, so dürfen sie die Überquerung der Fahrbahn fortsetzen, bei Vorhandensein einer Schutzinsel jedoch nur bis zu dieser\.
 
 > `(4)` An Stellen, wo der Verkehr weder durch Arm\- noch durch Lichtzeichen geregelt wird, dürfen Fußgänger
-> 
+>
 >> `a)` die Fahrbahn unter Bedachtnahme auf das Verkehrsaufkommen auf geradem Weg überqueren\. Dabei haben sie sich vor Betreten der Fahrbahn zu vergewissern, dass sie hiebei sich selbst oder andere Straßenbenützer nicht gefährden oder diese übermäßig behindern und
-> 
+>
 >> `b)` einen Schutzweg nicht unmittelbar vor einem herannahenden Fahrzeug und für dessen Lenker überraschend betreten\.
 
 > `(5)` Ist ein Schutzweg vorhanden oder nicht mehr als 25 m entfernt, ist dieser zum Überqueren der Fahrbahn zu benutzen; dies gilt nicht, wenn es die Verkehrslage zweifellos zulässt und der Fahrzeugverkehr nicht behindert wird\.
@@ -2775,15 +2749,15 @@ Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwe
 > `(1)` Die Behörde kann, wenn es die Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs, insbesondere des Fußgängerverkehrs, die Entflechtung des Verkehrs oder die Lage, Widmung oder Beschaffenheit eines Gebäudes oder Gebietes erfordert, durch Verordnung Straßenstellen oder Gebiete dauernd oder zeitweilig dem Fußgängerverkehr vorbehalten \(Fußgängerzone\)\. Vor Erlassung einer solchen Verordnung ist die Eisenbahnbehörde anzuhören, wenn auf der betroffenen Straßenstelle oder in dem betroffenen Gebiet Schienenfahrzeuge verkehren\. In einer solchen Fußgängerzone ist jeglicher Fahrzeugverkehr verboten, sofern sich aus den folgenden Bestimmungen nichts anderes ergibt; das Schieben eines Fahrrades ist erlaubt\. Die Bestimmungen des § 45 über Ausnahmen in Einzelfällen bleiben unberührt\.
 
 > `(2)` Sind in einer Fußgängerzone Ladetätigkeiten erforderlich, so hat die Behörde in der Verordnung nach Abs\. 1 nach Maßgabe der Erfordernisse die Zeiträume zu bestimmen, innerhalb deren eine Ladetätigkeit vorgenommen werden darf\. Ferner kann die Behörde in der Verordnung nach Abs\. 1 nach Maßgabe der Erfordernisse und unter Bedachtnahme auf die örtlichen Gegebenheiten bestimmen, daß mit
-> 
+>
 >> `1.` Kraftfahrzeugen des Taxi\- und Mietwagen\-Gewerbes und Fiakern jeweils zum Zubringen oder Abholen von Fahrgästen,
-> 
+>
 >> `2.` Kraftfahrzeugen des Gästewagen\-Gewerbes zum Zubringen oder Abholen von Fahrgästen von Beherbergungsbetrieben,
-> 
+>
 >> `3.` Fahrrädern und
-> 
+>
 >> `4.` Kraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht bis zu 3 500 kg, die zur Ausübung der Tätigkeit als Handelsvertreter dienen und die mit einer Tafel mit der Aufschrift „Bundesgremium der Handelsvertreter, Kommissionäre und Vermittler“ und mit dem Amtssiegel des Landesgremiums, dem der Handelsvertreter angehört, gekennzeichnet sind,
-> 
+>
 > &nbsp; die Fußgängerzone dauernd oder zu bestimmten Zeiten befahren werden darf\.
 
 > `(2a)` Die Behörde kann weiters in der Verordnung nach Abs\. 1 nach Maßgabe der Erfordernisse \(wie insbesondere der Erreichbarkeit von Ärztezentren, Ambulatorien, Sozialversicherungseinrichtungen und dgl\.\) und unter Bedachtnahme auf die örtlichen Gegebenheiten auch bestimmen, dass Inhaber eines Ausweises gemäß § 29b Abs\. 1 oder Lenker von Fahrzeugen in der Zeit, in der sie einen Inhaber eines Ausweises gemäß § 29b Abs\. 1 befördern, die Fußgängerzone dauernd oder zu bestimmten Zeiten befahren dürfen\. Hat die Behörde in der Verordnung nach Abs\. 1 Zeiträume bestimmt, innerhalb derer eine Ladetätigkeit vorgenommen werden darf, dürfen Inhaber eines Ausweises gemäß § 29b Abs\. 1 oder Lenker von Fahrzeugen in der Zeit, in der sie einen Inhaber eines Ausweises gemäß § 29b Abs\. 1 befördern, zu diesen Zeiten jedenfalls die Fußgängerzone befahren\.
@@ -2793,15 +2767,15 @@ Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwe
 > `(4)` An Stelle einer Zusatztafel können die vorgesehenen Angaben im blauen Feld des Hinweiszeichens angebracht werden, wenn dadurch die Erkennbarkeit des Zeichens nicht beeinträchtigt wird\.
 
 > `(5)` Unbeschadet der Bestimmung des Abs\. 2 dürfen Fußgängerzonen
-> 
+>
 >> `a)` mit Fahrzeugen des Straßendienstes und der Müllabfuhr sowie gegebenenfalls mit Schienenfahrzeugen und Omnibussen des Kraftfahrlinienverkehrs,
-> 
+>
 >> `b)` mit den zur Durchführung einer unaufschiebbaren Reparatur eines unvorhersehbar aufgetretenen Gebrechens notwendigen Fahrzeugen,
-> 
+>
 >> `c)` mit Fahrzeugen des öffentlichen Sicherheitsdienstes, der Strafvollzugsverwaltung und der Feuerwehr in Ausübung des Dienstes und
-> 
+>
 >> `d)` mit Krankentransportfahrzeugen, sofern der Ausgangs\- oder Endpunkt des Krankentransports in der Fußgängerzone liegt,
-> 
+>
 > &nbsp; befahren werden\.
 
 > `(6)` Die Lenker von Fahrzeugen dürfen in eine Fußgängerzone nur an den hiefür vorgesehenen Stellen einfahren\. Sie haben von ortsgebundenen Gegenständen oder Einrichtungen \(wie Häusern, Brunnen, Laternen, Bänken, Bäumen u\. dgl\.\) einen der Verkehrssicherheit entsprechenden seitlichen Abstand einzuhalten und dürfen nur mit Schrittgeschwindigkeit fahren\. Die zulässige Höchstgeschwindigkeit für Schienenfahrzeuge ist nach den eisenbahnrechtlichen Vorschriften festzusetzen\.
@@ -2856,7 +2830,7 @@ Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwe
 
 ### § 78 StVO — Verhalten auf Verkehrsflächen mit Fußverkehr
 
-Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:
+> Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:
 
 > `a)` andere Straßenbenützer zu gefährden, insbesondere mit Gegenständen, die scharf, spitz oder sonst gefährlich sind sowie
 
@@ -2911,17 +2885,17 @@ Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:
 > `(2)` Eine Bewilligung nach Abs\. 1 ist auch für das Aufstellen von Kraftfahrzeugen oder Anhängern ohne Kennzeichentafeln erforderlich\.
 
 > `(3)` Eine Bewilligung nach Abs\. 1 ist nicht erforderlich
-> 
+>
 >> `a)` für gewerbliche Tätigkeiten auf Gehsteigen oder Gehwegen ohne feste Standplätze,
-> 
+>
 >> `b)` für das Wegschaffen eines betriebsunfähig gewordenen Fahrzeuges oder für dessen Instandsetzung, sofern dies einfacher als das Wegschaffen ist und der fließende Verkehr dadurch nicht behindert wird,
-> 
+>
 >> `c)` für eine gewerbliche Tätigkeit, die ihrem Wesen nach auf der Straße ausgeübt wird und deren Betriebsanlage genehmigt ist,
-> 
+>
 >> `d)` für das Aufstellen oder die Lagerung von Sachen, die für Bau, Erhaltung, Pflege und Reinigung der Straße erforderlich sind,
-> 
+>
 >> `e)` für das Musizieren bei Umzügen und dergleichen \(§ 86\),
-> 
+>
 >> `f)` für die Nutzung der Rückseite von Verkehrszeichen oder anderen Einrichtungen zur Verhinderung von Falschfahrten im Zuge von Autobahnabfahrten zu Werbezwecken, wenn diese Nutzung nicht der Sicherheit und Leichtigkeit des Verkehrs entgegensteht und die Behörde, die diese Verkehrszeichen oder diese Einrichtungen verfügt hat, zustimmt und die Gesamtkosten der Anbringung und Erhaltung vom Unternehmer getragen werden\.
 
 > `(4)` Eine Bewilligung nach Abs\. 1 ist ferner nicht erforderlich für geringfügige Instandsetzungs\- oder Instandhaltungsarbeiten an Fahrzeugen, z\. B\. Vergaserreinigung, Reifenwechsel, Arbeiten an der elektrischen Anlage oder dergleichen, vor der Betriebsstätte eines hiezu befugten Gewerbetreibenden, wenn dort das Halten und Parken nicht verboten ist \(§§ 23 und 24\)\.
@@ -2935,13 +2909,13 @@ Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:
 ### § 83 StVO — Prüfung des Vorhabens
 
 > `(1)` Vor Erteilung einer Bewilligung nach § 82 ist das Vorhaben unter Bedachtnahme auf die gegenwärtigen und zu erwartenden Verkehrsverhältnisse zu prüfen\. Eine wesentliche, die Erteilung der Bewilligung ausschließende Beeinträchtigung der Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs \(§ 82 Abs\. 5\) liegt insbesondere vor, wenn
-> 
+>
 >> `a)` die Straße beschädigt wird,
-> 
+>
 >> `b)` die Straßenbeleuchtung und die Straßen\- oder Hausbezeichnungstafeln verdeckt werden,
-> 
+>
 >> `c)` sich die Gegenstände im Luftraum oberhalb der Straße nicht mindestens 2\.20 m über dem Gehsteig und 4\.50 m über der Fahrbahn befinden,
-> 
+>
 >> `d)` die Gegenstände seitlich der Fahrbahn den Fußgängerverkehr auf Gehsteigen oder Straßenbanketten behindern und nicht mindestens 60 cm von der Fahrbahn entfernt sind\.
 
 > `(2)` Wenn in einer Fußgängerzone, in einer Wohnstraße oder in einer Begegnungszone kein Gehsteig vorhanden ist, so gilt die Maßangabe nach Abs\. 1 lit\. c bezüglich eines Gehsteiges für einen 1,5 m breiten Streifen entlang der Häuserfronten, für den übrigen Teil der Fußgängerzone, Wohnstraße oder Begegnungszone gilt die Angabe bezüglich der Fahrbahn\.
@@ -2955,13 +2929,13 @@ Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:
 > `(2)` Ansonsten sind außerhalb von Ortsgebieten Werbungen und Ankündigungen an Straßen innerhalb einer Entfernung von 100 m vom Fahrbahnrand verboten\. Dies gilt jedoch nicht für die Nutzung zu Werbezwecken gemäß § 82 Abs\. 3 lit\. f\.
 
 > `(3)` Die Behörde hat Ausnahmen von dem in Abs\. 2 enthaltenen Verbot zu bewilligen, wenn die Werbungen und Ankündigungen
-> 
+>
 >> `1.` einem dringlichen Bedürfnis der Straßenbenützer dienen oder
-> 
+>
 >> `2.` für diese immerhin von erheblichem Interesse sind oder
-> 
+>
 >> `3.` in einem Gebiet errichtet werden sollen, das nach den Raumordnungsgesetzen bzw\. Bauordnungen der Länder als Bauland gewidmet ist,
-> 
+>
 > &nbsp; und von dem Vorhaben eine Beeinträchtigung des Straßenverkehrs und der Verkehrssicherheit – insbesondere unter Berücksichtigung der erlaubten Höchstgeschwindigkeit – nicht zu erwarten ist\. Für eine solche Ausnahmebewilligung gelten die Bestimmungen des § 82 Abs\. 5 letzter Satz sinngemäß\.
 
 > `(4)` Ist eine Werbung oder Ankündigung entgegen der Bestimmung des Abs\. 2 und ohne Bewilligung nach Abs\. 3 angebracht worden, so hat die Behörde die Entfernung ohne weiteres Verfahren zu veranlassen\. Die Kosten für die Entfernung sind vom Besitzer oder Verfügungsberechtigten zu tragen und sind ihm mit Bescheid vorzuschreiben\.
@@ -2976,7 +2950,7 @@ Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:
 
 ### § 86 StVO — Umzüge
 
-Sofern eine Benützung der Straße hiefür in Betracht kommt, sind, unbeschadet sonstiger Rechtsvorschriften, Versammlungen unter freiem Himmel, öffentliche oder ortsübliche Umzüge, volkstümliche Feste, Prozessionen oder dergleichen von den Veranstaltern drei Tage, Leichenbegängnisse von der Leichenbestattung 24 Stunden vorher der Behörde anzuzeigen\.
+> Sofern eine Benützung der Straße hiefür in Betracht kommt, sind, unbeschadet sonstiger Rechtsvorschriften, Versammlungen unter freiem Himmel, öffentliche oder ortsübliche Umzüge, volkstümliche Feste, Prozessionen oder dergleichen von den Veranstaltern drei Tage, Leichenbegängnisse von der Leichenbestattung 24 Stunden vorher der Behörde anzuzeigen\.
 
 ### § 87 StVO — Wintersport auf Straßen
 
@@ -2999,13 +2973,13 @@ Sofern eine Benützung der Straße hiefür in Betracht kommt, sind, unbeschadet 
 ### § 88a StVO — Rollschuhfahren
 
 > `(1)` Das Rollschuhfahren ist auf Gehsteigen, Gehwegen und Schutzwegen erlaubt\. Das Befahren der Fahrbahn mit Rollschuhen in der Längsrichtung ist verboten; ausgenommen von diesem Verbot sind:
-> 
+>
 >> `1.` Radfahranlagen, nicht jedoch Radfahrstreifen außerhalb des Ortsgebietes,
-> 
+>
 >> `2.` Wohnstraßen, Begegnungszonen und Fußgängerzonen,
-> 
+>
 >> `3.` Fahrbahnen, die gemäß § 88 Abs\. 1 vom Verbot des Spielens auf der Fahrbahn ausgenommen wurden und
-> 
+>
 >> `4.` Fahrbahnen, auf denen durch Verordnung der zuständigen Behörde das Fahren mit Rollschuhen zugelassen wurde\.
 
 > `(2)` Bei der Benützung von Radfahranlagen haben Rollschuhfahrer die gemäß § 8a vorgeschriebene Fahrtrichtung einzuhalten und die für Radfahrer geltenden Verhaltensvorschriften zu beachten\.
@@ -3041,29 +3015,29 @@ Sofern eine Benützung der Straße hiefür in Betracht kommt, sind, unbeschadet 
 > `(1)` Die Lenker von Fahrzeugen haben dafür zu sorgen, daß Steine oder andere Gegenstände, die unter die Räder des Fahrzeuges gelegt worden sind, um das Abrollen zu verhindern, vor der Weiterfahrt von der Straße entfernt werden\. Kann mit einem Fahrzeug wegen einer Betriebsstörung die Fahrt nicht fortgesetzt werden, so hat der Lenker, wenn das Fahrzeug ein Hindernis bildet, für die eheste Entfernung des Fahrzeuges von der Fahrbahn zu sorgen\.
 
 > `(2)` Wird durch einen Gegenstand auf der Straße, insbesondere durch ein stehendes Fahrzeug, mag es betriebsfähig oder nicht betriebsfähig sein, durch Schutt, Baumaterial, Hausrat und dergleichen der Verkehr beeinträchtigt, so hat die Behörde die Entfernung des Gegenstandes ohne weiteres Verfahren zu veranlassen\. Die Entfernung ist ferner ohne weiteres Verfahren zu veranlassen
-> 
+>
 >> `a)` bei einem Gegenstand, bei dem zu vermuten ist, daß sich dessen der Inhaber entledigen wollte, sowie bei einem ohne Kennzeichentafeln abgestellten Kraftfahrzeug oder Anhänger und
-> 
+>
 >> `b)` bei einem Gegenstand \(Fahrzeug, Container u\. dgl\.\), der im Bereich eines Halte\- und Parkverbotes abgestellt ist, das aus Gründen der Sicherheit erlassen worden und durch das Vorschriftszeichen nach § 52 Z 13b mit einer Zusatztafel „Abschleppzone“ \(§ 54 Abs\. 5 lit\. j\) kundgemacht ist\.
 
 > `(2a)` Eine Verkehrsbeeinträchtigung im Sinne des Abs\. 2 ist insbesondere gegeben,
-> 
+>
 >> `a)` wenn Schienenfahrzeuge nicht unbehindert fahren können,
-> 
+>
 >> `b)` wenn der Lenker eines Omnibusses des Kraftfahrlinienverkehrs am Vorbeifahren oder Wegfahren, am Zufahren zu einer Haltestelle oder zu einer Garage oder am Befahren eines Fahrstreifens für Omnibusse gehindert ist,
-> 
+>
 >> `c)` wenn der Lenker eines sonstigen Fahrzeuges am Vorbeifahren oder Wegfahren oder am Zufahren zu einer Ladezone oder zu einer Garagen\- oder Grundstückseinfahrt gehindert ist,
-> 
+>
 >> `d)` wenn ein Fahrzeug, bei dem kein Ausweis im Sinne des § 29b Abs\. 4 angebracht ist, auf einem gemäß § 43 Abs\. 1 lit\. d freigehaltenen Abstellplatz abgestellt ist oder wenn der Inhaber eines Ausweises nach § 29b Abs\. 1 oder 5 am Zufahren zu einem solchen Abstellplatz gehindert ist,
-> 
+>
 >> `e)` wenn Fußgänger, insbesondere auch Personen mit Kinderwagen oder Menschen mit Behinderungen, die auf einen Rollstuhl angewiesen sind, an der Benützung eines Gehsteiges, eines Gehweges oder eines Geh\- und Radweges erheblich behindert sind,
-> 
+>
 >> `f)` wenn Radfahrer an der Benützung eines Radfahrstreifens, eines Radweges oder eines Geh\- und Radweges gehindert sind,
-> 
+>
 >> `g)` wenn ein Fahrzeug auf einem Schutzweg, auf einer Radfahrerüberfahrt oder entgegen den Bestimmungen des § 24 Abs\. 1 lit\. l abgestellt ist oder
-> 
+>
 >> `h)` wenn ein Fahrzeug, das nicht ein Omnibus ist, auf einer für Omnibusse vorbehaltenen Fläche \(„Buszone“\) abgestellt ist\.
-> 
+>
 >> `i)` wenn der Lenker eines Taxifahrzeuges oder einer Fiakerkutsche am Zufahren zum Standplatz gehindert ist\.
 
 > `(3)` Im Falle der Unaufschiebbarkeit sind auch die Organe der Straßenaufsicht, des Straßenerhalters, der Feuerwehr oder eines Kraftfahrlinien\- oder Eisenbahnunternehmens berechtigt, unter den im Abs\. 2 genannten Voraussetzungen die dort bezeichneten Gegenstände zu entfernen oder entfernen zu lassen\. Dies gilt insbesondere auch bei Vorliegen der Voraussetzungen für unaufschiebbare Verkehrsbeschränkungen nach § 44b Abs\. 1\.
@@ -3073,9 +3047,9 @@ Sofern eine Benützung der Straße hiefür in Betracht kommt, sind, unbeschadet 
 > `(5)` Sofern der Gegenstand noch nicht übernommen worden ist, hat die Behörde innerhalb einer Frist von einer Woche nach dem Entfernen des Gegenstandes den Eigentümer, im Falle des Entfernen eines zum Verkehr zugelassenen Kraftfahrzeuges oder Anhängers jedoch den Zulassungsbesitzer, durch Zustellung zu eigenen Handen \(§ 22 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 – AVG, BGBl\. Nr\. 51/1991\) aufzufordern, den Gegenstand innerhalb einer Frist von sechs Monaten, einen im letzten Satz des Abs\. 2 genannten Gegenstand aber innerhalb einer Frist von zwei Monaten, gerechnet vom Tage der Zustellung, zu übernehmen\. Kann die Person, an welche die Aufforderung zu richten wäre, nicht festgestellt werden, ist § 25 des Zustellgesetzes – ZustG, BGBl\. Nr\. 200/1982, sinngemäß anzuwenden\.
 
 > `(6)` Nach erfolglosem Ablauf der gemäß Abs\. 5 gesetzten Frist geht das Eigentum am entfernten Gegenstand auf den Erhalter jener Straße über, von der der Gegenstand entfernt worden ist\. Dieser Eigentumsübergang findet jedoch nicht statt, wenn
-> 
+>
 >> `a)` der Gegenstand zu einem Zeitpunkt aufgestellt oder gelagert worden ist, zu dem die Voraussetzungen zur Entfernung nach Abs\. 2 oder 3 noch nicht vorlagen und dem Inhaber des Gegenstandes der bevorstehende Eintritt der Voraussetzungen nicht bekannt war und
-> 
+>
 >> `b)` die Aufstellung oder Lagerung nicht schon von Anbeginn gesetzwidrig war\.
 
 > `(7)` Das Entfernen und Aufbewahren des Gegenstandes erfolgt auf Kosten desjenigen, der im Zeitpunkt des Aufstellens oder Lagerns des Gegenstandes dessen Inhaber, bei zum Verkehr zugelassenen Kraftfahrzeugen oder Anhängern dessen Zulassungsbesitzer war\. Die Kosten sind vom Inhaber, bei zum Verkehr zugelassenen Kraftfahrzeugen oder Anhängern vom Zulassungsbesitzer oder deren Erfüllungsgehilfen \(Beauftragten\) bei der Übernahme des Gegenstandes zu bezahlen\. Wird der Gegenstand innerhalb der gemäß Abs\. 5 festgesetzten Frist nicht übernommen oder die Bezahlung der Kosten verweigert, so sind die Kosten dem Inhaber des entfernten Gegenstandes, bei zum Verkehr zugelassenen Kraftfahrzeugen dem Zulassungsbesitzer mit Bescheid vorzuschreiben\. Ist der Gegenstand widerrechtlich entzogen worden, so sind die Kosten demjenigen vorzuschreiben, der den Gegenstand entzogen hat\. Ist der Gegenstand jedoch zu einem Zeitpunkt aufgestellt oder gelagert worden, zu dem die Voraussetzungen zur Entfernung nach Abs\. 2 oder 3 noch nicht vorlagen, so sind die Kosten für die Entfernung, Aufbewahrung und Übernahme des Gegenstandes und die Gefahr der Entfernung und Aufbewahrung von dem Rechtsträger zu tragen, dessen Organ die Entfernung veranlaßt hat, es sei denn, daß dem Inhaber der bevorstehende Eintritt der Voraussetzung bekannt war oder daß die Aufstellung oder Lagerung von Anbeginn gesetzwidrig war\. Eine Kostenvorschreibung nach Ablauf von drei Jahren nach Entfernung des Gegenstandes ist unzulässig\.
@@ -3124,13 +3098,13 @@ Sofern eine Benützung der Straße hiefür in Betracht kommt, sind, unbeschadet 
 > `(3)` Durch die in Abs\. 1 und 2 genannten Verrichtungen dürfen Straßenbenützer nicht gefährdet oder behindert werden; wenn nötig, sind die gefährdeten Straßenstellen längstens für die Dauer der Verrichtung abzuschranken oder sonst in geeigneter Weise zu kennzeichnen\. Bei den Arbeiten ist darauf Bedacht zu nehmen, daß der Abfluß des Wassers von der Straße nicht behindert, Wasserablaufgitter und Rinnsale nicht verlegt, Sachen, insbesondere Leitungsdrähte, Oberleitungs\- und Beleuchtungsanlagen nicht beschädigt und Anlagen für den Betrieb von Eisenbahnen, insbesondere von Straßenbahnen oder Oberleitungsomnibussen in ihrem Betrieb nicht gestört werden\. Weiters ist darauf Bedacht zu nehmen, dass Bäume und sonstige Bepflanzungen nicht beschädigt werden; bei Streuung mit Salz sind Baumscheiben und Grünflächen von der Bestreuung jedenfalls auszunehmen\.
 
 > `(4)` Nach Maßgabe des Erfordernisses des Fußgängerverkehrs, sowie der Sicherheit, Leichtigkeit oder Flüssigkeit des übrigen Verkehrs hat die Behörde, sofern im Einzelfall unter den gleichen Voraussetzungen auf Antrag des nach Abs\. 1 oder 5 Verpflichteten nicht die Erlassung eines Bescheides in Betracht kommt, durch Verordnung
-> 
+>
 >> `a)` die in Abs\. 1 bezeichneten Zeiten, in denen die dort genannten Verkehrsflächen von Schnee oder Verunreinigung gesäubert oder bestreut sein müssen, einzuschränken;
-> 
+>
 >> `b)` die in Abs\. 1 bezeichneten Verrichtungen auf bestimmte Straßenteile, insbesondere auf eine bestimmte Breite des Gehsteiges \(Gehweges\) oder der Straße einzuschränken;
-> 
+>
 >> `c)` zu bestimmen, daß auf gewissen Straßen oder Straßenteilen nicht alle in Abs\. 1 genannten Verrichtungen vorgenommen werden müssen;
-> 
+>
 >> `d)` die Vorsichtsmaßregeln näher zu bestimmen, unter denen die in Abs\. 1 und 2 bezeichneten Verrichtungen durchzuführen sind\.
 
 > `(5)` Andere Rechtsvorschriften, insbesondere das Hausbesorgergesetz, BGBl\. Nr\. 16/1970, werden durch die Abs\. 1 bis 4 nicht berührt\. Wird durch ein Rechtsgeschäft eine Verpflichtung nach Abs\. 1 bis 3 übertragen, so tritt in einem solchen Falle der durch das Rechtsgeschäft Verpflichtete an die Stelle des Eigentümers\.
@@ -3143,7 +3117,7 @@ Sofern eine Benützung der Straße hiefür in Betracht kommt, sind, unbeschadet 
 
 ### § 94 StVO — Zuständigkeit des Bundesministers für Verkehr, Innovation und Technologie
 
-Behörde im Sinne dieses Bundesgesetzes ist der Bundesminister für Verkehr, Innovation und Technologie
+> Behörde im Sinne dieses Bundesgesetzes ist der Bundesminister für Verkehr, Innovation und Technologie
 
 > `1.` für die Erlassung der ihm in diesem Bundesgesetz ausdrücklich vorbehaltenen Verordnungen,
 
@@ -3156,15 +3130,15 @@ Behörde im Sinne dieses Bundesgesetzes ist der Bundesminister für Verkehr, Inn
 > `(1)` Behörde im Sinne dieses Bundesgesetzes ist, sofern sich nicht eine andere Zuständigkeit ergibt, die Landesregierung\. Diese ist jedenfalls für die Handhabung der Verkehrspolizei \(§ 94b Abs\. 1 lit\. a\) auf Autobahnen zuständig\.
 
 > `(2)` Die Landesregierung kann Organe, die der Landespolizeidirektion angehören oder dieser zugeteilt sind und in Angelegenheiten des Straßenverkehrs besonders geschult sind, zur Handhabung der Verkehrspolizei einsetzen:
-> 
+>
 >> `a)` auf der Autobahn,
-> 
+>
 >> `b)` auf verkehrsreichen Straßenzügen,
-> 
+>
 >> `c)` wenn die Verkehrsverhältnisse diesen Einsatz erfordern,
-> 
+>
 >> `d)` wenn auf Grund von Verkehrsbeobachtungen, Verkehrszählungen oder Verkehrserfahrungen aus Anlaß vorhersehbarer Ereignisse dieser Einsatz notwendig ist,
-> 
+>
 >> `e)` zur Hintanhaltung von schweren Verwaltungsübertretungen, insbesondere solchen nach § 5, § 99 Abs\. 1 bis 2 und Überschreitungen von erlaubten Höchstgeschwindigkeiten, oder wenn ein über den Bereich einer Bezirksverwaltungsbehörde hinausgehendes Einschreiten erforderlich ist\.
 
 > `(3)` Abs\. 2 lit\. b bis e gilt nicht für das Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist\.
@@ -3174,26 +3148,26 @@ Behörde im Sinne dieses Bundesgesetzes ist der Bundesminister für Verkehr, Inn
 ### § 94b StVO — Zuständigkeit der Bezirksverwaltungsbehörde
 
 > `(1)` Behörde im Sinne dieses Bundesgesetzes ist, sofern der Akt der Vollziehung nur für den betreffenden politischen Bezirk wirksam werden soll und sich nicht die Zuständigkeit der Gemeinde oder – im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist – der Landespolizeidirektion ergibt, die Bezirksverwaltungsbehörde
-> 
+>
 >> `a)` für die Verkehrspolizei, das ist die Überwachung der Einhaltung straßenpolizeilicher Vorschriften und die unmittelbare Regelung des Verkehrs durch Arm\- oder Lichtzeichen, nicht jedoch für die Verkehrspolizei auf der Autobahn,
-> 
+>
 >> `b)` für die Erlassung von Verordnungen und Bescheiden,
-> 
+>
 >> `c)` für die Entfernung von Hindernissen \(§ 89a\) mit Ausnahme der Erlassung von Verordnungen nach § 89a Abs\. 7a,
-> 
+>
 >> `d)` für Hinweise auf Gefahren und sonstige verkehrswichtige Umstände, unbeschadet des Rechtes des Straßenerhalters nach § 98 Abs\. 3,
-> 
+>
 >> `e)` für die Führung des Verzeichnisses von Bestrafungen nach § 96 Abs\. 7,
-> 
+>
 >> `f)` für die Sicherung des Schulweges \(§§ 29a und 97a\),
-> 
+>
 >> `g)` für die Anordnung der Teilnahme am Verkehrsunterricht und die Durchführung des Verkehrsunterrichtes \(§ 101\),
-> 
+>
 >> `h)` für die Feststellung von unfallverhütenden Maßnahmen gemäß § 96 Abs\. 1\.
 
 > `(2)` Die Bezirksverwaltungsbehörde ist ferner Behörde im Sinne dieses Bundesgesetzes für Personen, die ihren Hauptwohnsitz im örtlichen Wirkungsbereich der Behörde haben  
 > &nbsp; *\(Anm\.: lit\. a aufgehoben durch BGBl\. I Nr\. 39/2013\)*
-> 
+>
 >> `b)` für die Erteilung einer Bewilligung sowie die Ausstellung eines Radfahrausweises nach § 65 Abs\. 2\.
 
 ### § 94c StVO — Übertragener Wirkungsbereich der Gemeinde
@@ -3206,7 +3180,7 @@ Behörde im Sinne dieses Bundesgesetzes ist der Bundesminister für Verkehr, Inn
 
 ### § 94d StVO — Eigener Wirkungsbereich der Gemeinde
 
-Sofern der Akt der Vollziehung nur für das Gebiet der betreffenden Gemeinde wirksam werden und sich auf Straßen, die nach den Rechtsvorschriften weder als Autobahnen, Autostraßen, Bundesstraßen oder Landesstraßen gelten noch diesen Straßen gleichzuhalten sind, beziehen soll, sind folgende Angelegenheiten von der Gemeinde im eigenen Wirkungsbereich zu besorgen:
+> Sofern der Akt der Vollziehung nur für das Gebiet der betreffenden Gemeinde wirksam werden und sich auf Straßen, die nach den Rechtsvorschriften weder als Autobahnen, Autostraßen, Bundesstraßen oder Landesstraßen gelten noch diesen Straßen gleichzuhalten sind, beziehen soll, sind folgende Angelegenheiten von der Gemeinde im eigenen Wirkungsbereich zu besorgen:
 
 > `1.` die Erlassung von Verordnungen nach § 20 Abs\. 2a,
 
@@ -3223,15 +3197,15 @@ Sofern der Akt der Vollziehung nur für das Gebiet der betreffenden Gemeinde wir
 > `3a.` die Erlassung von Bescheiden betreffend Vermeidung von Verkehrsbeeinträchtigungen \(§ 35\),
 
 > `4.` die Erlassung von Verordnungen nach § 43, mit denen
-> 
+>
 >> `a)` Beschränkungen für das Halten und Parken,
-> 
+>
 >> `b)` ein Hupverbot,
-> 
+>
 >> `c)` ein Benützungsverbot für Radfahranlagen durch Rollschuhfahrer oder
-> 
+>
 >> `d)` Geschwindigkeitsbeschränkungen
-> 
+>
 > &nbsp; erlassen werden,
 
 > `4a.` die Erlassung von Verordnungen nach § 43 Abs\. 2a,
@@ -3282,24 +3256,24 @@ Sofern der Akt der Vollziehung nur für das Gebiet der betreffenden Gemeinde wir
 
 ### § 94e StVO — Verordnungen
 
-Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innovation und Technologie zu erlassen sind, steht ihre Erlassung den Ländern zu\.
+> Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innovation und Technologie zu erlassen sind, steht ihre Erlassung den Ländern zu\.
 
 ### § 94f StVO — Mitwirkung
 
 > `(1)` Vor Erlassung einer Verordnung ist, außer bei Gefahr im Verzuge und bei Verordnungen gemäß § 43 Abs\. 1a, die Autobahnen betreffen, anzuhören:
-> 
+>
 >> `a)` von der Landesregierung und von der Bezirksverwaltungsbehörde:
->> 
+>>
 >>> `1.` die betroffene Gemeinde,
->> 
+>>
 >>> `2.` wenn sich der Geltungsbereich einer Verordnung auch auf das Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, erstrecken soll, diese Behörde,
->> 
+>>
 >>> `3.` wenn Interessen von Mitgliedern einer Berufsgruppe berührt werden, die gesetzliche Interessenvertretung dieser Berufsgruppe;
-> 
+>
 >> `b)` von der Gemeinde \(§ 94c und d\):
->> 
+>>
 >>> `1.` wenn sich der Geltungsbereich einer Verordnung auch auf das Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, erstrecken soll, diese Behörde,
->> 
+>>
 >>> `2.` wenn Interessen von Mitgliedern einer Berufsgruppe berührt werden, die gesetzliche Interessenvertretung dieser Berufsgruppe\.
 
 > `(2)` Die Landesregierung und die Bezirksverwaltungsbehörde haben, außer bei Gefahr im Verzuge, vor Erlassung eines Bescheides in Angelegenheiten, die das Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, oder das Gebiet nur einer Gemeinde berühren, die Landespolizeidirektion bzw\. die Gemeinde anzuhören\. Dies gilt jedoch nicht für Strafverfügungen oder Straferkenntnisse wegen Übertretungen nach § 99 und für die Anordnung der Teilnahme am Verkehrsunterricht \(§ 101\)\. Die Gemeinde \(§ 94c und d\) hat, außer bei Gefahr im Verzuge, vor Erlassung eines Bescheides in Angelegenheiten, die das Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, berühren, die Landespolizeidirektion anzuhören\.
@@ -3309,21 +3283,21 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 ### § 95 StVO — Landespolizeidirektionen
 
 > `(1)` Im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, obliegt der Landespolizeidirektion, soweit in den folgenden Absätzen nichts anderes bestimmt ist,
-> 
+>
 >> `a)` die Handhabung der Verkehrspolizei \(§ 94b lit\. a\), jedoch nicht auf der Autobahn,
-> 
+>
 >> `b)` die Ausübung des Verwaltungsstrafrechts \(§§ 99 und 100\) einschließlich der Führung des Verzeichnisses von Bestrafungen \(§ 96\), jedoch nicht die Ausübung des Verwaltungsstrafrechts hinsichtlich Übertretungen der Bestimmungen über die Benützung der Straße zu verkehrsfremden Zwecken in den Fällen der §§ 82 bis 88a,
-> 
+>
 >> `c)` die Anordnung der Teilnahme am Verkehrsunterricht und die Durchführung des Verkehrsunterrichts \(§ 101\),
-> 
+>
 >> `d)` die Schulung und Ermächtigung von Organen der Straßenaufsicht zur Prüfung der Atemluft auf Alkoholgehalt sowie überhaupt die Handhabung der §§ 5, 5a und 5b,
-> 
+>
 >> `e)` das Verbot des Lenkens von Fahrzeugen \(§ 59\),
-> 
+>
 >> `f)` die Bewilligung sportlicher Veranstaltungen \(§ 64\),
-> 
+>
 >> `g)` die Entgegennahme der Anzeigen von Umzügen \(§ 86\),
-> 
+>
 >> `h)` die Sicherung des Schulweges \(§§ 29a und 97a\), sofern sich nicht die Zuständigkeit der Gemeinde \(§ 94d\) ergibt\.
 
 > `(1a)` Im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, obliegen der Landespolizeidirektion die in Abs\. 1 lit\. a bis h genannten Aufgaben, ausgenommen die Ausübung des Verwaltungsstrafrechtes hinsichtlich Übertretungen der §§ 8 Abs\. 4, 9 Abs\. 7, 23 bis 25 und 26a Abs\. 3 sowie der Kurzparkzonen\-Überwachungsverordnung\.
@@ -3356,13 +3330,13 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 ### § 97 StVO — Organe der Straßenaufsicht
 
 > `(1)` Die Organe der Straßenaufsicht, insbesondere der Bundespolizei und im Falle des § 94c Abs\. 1 auch der Gemeindewachkörper, haben die Verkehrspolizei \(§ 94b Abs\. 1 lit\. a\) zu handhaben und bei der Vollziehung dieses Bundesgesetzes durch
-> 
+>
 >> `a)` Vorbeugungsmaßnahmen gegen drohende Verwaltungsübertretungen,
-> 
+>
 >> `b)` Maßnahmen, die für die Einleitung von Verwaltungsstrafverfahren erforderlich sind,
-> 
+>
 >> `c)` Anwendung körperlichen Zwanges, soweit er gesetzlich vorgesehen ist,
-> 
+>
 > &nbsp; mitzuwirken\. Die Mitwirkungsverpflichtung gemäß lit\. b gilt für Organe der Bundespolizei nicht im Falle punktueller Geschwindigkeitsüberwachung gemäß § 98b StVO im übertragenen Wirkungsbereich \(§ 94c\) einer Gemeinde\. Darüber hinaus können Mitglieder eines Gemeindewachkörpers mit Zustimmung der Gemeinde von der zuständigen Bezirksverwaltungsbehörde in dem Umfang und unter den Voraussetzungen wie die sonstigen Organe der Straßenaufsicht zur Mitwirkung bei der Vollziehung dieses Bundesgesetzes durch die in lit\. a bis c angeführten Maßnahmen ermächtigt werden\. In diesem Fall unterstehen die Mitglieder des Gemeindewachkörpers in fachlicher Hinsicht der zuständigen Bezirksverwaltungsbehörde\.
 
 > `(1a)` Zollorgane haben im Bereich des Amtsplatzes im Sinne des § 11 des Zollrechts\-Durchführungsgesetzes, BGBl\. Nr\. 659/1994, an der Vollziehung dieses Bundesgesetzes im Rahmen der ihnen sonst obliegenden Aufgaben in dem in Abs\. 1 bezeichneten Umfang mitzuwirken und gelten hiebei als Organe der Straßenaufsicht\. Im Bereich einer Mautstelle dürfen auch die mit der Mauteinhebung betrauten Organe den Verkehr durch Arm\- oder Lichtzeichen regeln\.
@@ -3372,9 +3346,9 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 > `(3)` Bei Gefahr im Verzuge, wie zum Beispiel bei Bränden oder Unfällen, oder in besonderen Ausnahmefällen, wie zum Beispiel bei Straßenbauten, kann die Behörde, wenn es die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs erfordert, außer den Organen der Straßenaufsicht auch andere geeignete Personen mit der Regelung des Verkehrs auf den in Betracht kommenden Straßenteilen vorübergehend betrauen\. Sie hat diese Personen nach Möglichkeit mit einer weißen Armbinde kenntlich zu machen und mit einem Ausweis, aus dem diese Betrauung hervorgeht, zu versehen\. Wenn es die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs erfordert, kann die Behörde auch Organe eines Straßenbahnunternehmens mit der Regelung des Verkehrs im Bereiche von Straßenbahnhaltestellen betrauen\.
 
 > `(4)` Die Organe der Straßenaufsicht sowie die nach Abs\. 3 betrauten Organe sind, wenn es die Sicherheit, Leichtigkeit und Flüssigkeit des sich bewegenden oder die Ordnung des ruhenden Verkehrs erfordert, berechtigt, einzelnen Straßenbenützern für den Einzelfall Anordnungen für die Benützung der Straße zu erteilen, und zwar auch solche, die von den sonstigen diesbezüglichen Bestimmungen abweichen\. Diese Anordnungen dürfen
-> 
+>
 >> `a)` nur gegeben werden, wenn ihre Befolgung ohne Gefährdung von Personen und ohne Beschädigung von Sachen möglich ist,
-> 
+>
 >> `b)` nur befolgt werden, wenn dies ohne Gefährdung von Personen und ohne Beschädigung von Sachen möglich ist\.
 
 > `(5)` Die Organe der Straßenaufsicht sind berechtigt, durch deutlich sichtbare oder hörbare Zeichen Fahrzeuglenker zwecks Lenker\- oder Fahrzeugkontrolle, zwecks anderer, den Fahrzeuglenker oder eine beförderte Person betreffende Amtshandlungen oder zwecks Durchführung von Verkehrserhebungen \(wie Verkehrszählungen u\. dgl\.\) zum Anhalten aufzufordern\. Der Fahrzeuglenker hat der Aufforderung Folge zu leisten\. Bei solchen Amtshandlungen sind die Organe der Straßenaufsicht auch berechtigt, die aus Gründen der Verkehrssicherheit allenfalls notwendigen Verkehrsbeschränkungen \(zB sogenannte Geschwindigkeitstrichter\) anzuordnen und durch Straßenverkehrszeichen kundzumachen sowie eine allenfalls notwendige Regelung mit Lichtzeichen vorzunehmen\. Art, Zeit und Dauer der angeordneten Verkehrsbeschränkungen sind in einem Aktenvermerk \(§ 16 AVG\) festzuhalten\.
@@ -3390,9 +3364,9 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 > `(2)` Die betrauten Personen sind mit einem geeigneten Signalstab sowie mit einer gut wahrnehmbaren Schutzausrüstung auszustatten, die sie während der Verkehrsregelung zu tragen haben\. Der Bundesminister für Inneres hat durch Verordnung die Ausführung, Beschaffenheit, Farbe und sonstige zur Wahrnehmbarkeit erforderlichen Eigenschaften des Signalstabes und der Schutzausrüstung sowie den Inhalt und die Form des Ausweises zu bestimmen\.
 
 > `(3)` Die betrauten Personen dürfen durch deutlich erkennbare Zeichen mit dem Signalstab die Lenker von Fahrzeugen zum Anhalten auffordern, um Kindern das Überqueren der Fahrbahn zu ermöglichen\. Die betrauten Personen dürfen diese Verkehrsregelung nur an Straßenstellen, an denen der Verkehr nicht durch Lichtzeichen geregelt wird, und nur ausüben
-> 
+>
 >> `a)` in der unmittelbaren Umgebung von Gebäuden, in denen Schulen, die von Kindern unter 15 Jahren besucht werden, oder Kindergärten untergebracht sind, aber nur auf Fahrbahnstellen, die von Kindern in der Regel auf dem Schulweg \(Weg zum oder vom Kindergarten\) überquert werden, oder
-> 
+>
 >> `b)` als Begleitung von geschlossenen Kindergruppen\.
 
 > `(4)` Den Anordnungen \(Abs\. 3\) der betrauten Personen ist Folge zu leisten\.
@@ -3448,11 +3422,11 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 ### § 98e StVO — Überwachung aus Fahrzeugen
 
 > `(1)` Die Behörde darf die
-> 
+>
 >> `1.` bei Vorliegen eines durch eigene dienstliche Wahrnehmung eines Organs des öffentlichen Sicherheitsdienstes begründeten Verdachts hinsichtlich einer in Abs\. 2 genannten Übertretung und
-> 
+>
 >> `2.` durch die genannten Organe zum Zweck der Dokumentation dieser Verwaltungsübertretung zum Einsatz gelangenden, in Fahrzeugen installierten, bildverarbeitenden technischen Einrichtungen
-> 
+>
 > &nbsp; gewonnenen Daten für Zwecke nachfolgender Verwaltungsstrafverfahren verwenden\.
 
 > `(2)` Als Verwaltungsübertretung gemäß Abs\. 1 gelten Verstöße gegen Vorschriften dieses Bundesgesetzes oder aufgrund dieses Bundesgesetzes erlassener Verordnungen, insbesondere eine ziffernmäßig bestimmte Überschreitung der zulässigen Höchstgeschwindigkeit, eine Unterschreitung eines erforderlichen Sicherheitsabstands beim Hintereinanderfahren gemäß § 18 oder die Missachtung einer Verkehrsregelung durch Lichtzeichen oder Verstöße gegen kraftfahrrechtliche Vorschriften\.
@@ -3464,11 +3438,11 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 ### § 98f StVO — Verkehrsbeobachtung
 
 > `(1)` Soweit dies
-> 
+>
 >> `1.` für die Regelung sowie die Leichtigkeit, Flüssigkeit und Sicherheit des Verkehrs oder
-> 
+>
 >> `2.` für die Erfüllung der den Behörden und Straßenerhaltern gesetzlich obliegenden Aufgaben
-> 
+>
 > &nbsp; erforderlich ist, dürfen die Behörden und Straßenerhalter zur Beobachtung des Verkehrsgeschehens technische Einrichtungen zur Bildübertragung einsetzen\.
 
 > `(2)` Eine bildgebende Erfassung, die eine Identifizierung von Personen oder Fahrzeugen ermöglicht, ist jedoch nur zulässig, soweit dies im Einzelfall zwingend erforderlich ist, um die Aufgaben nach Abs\. 1 zu erfüllen\.
@@ -3484,11 +3458,11 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 ### § 99 StVO — Strafbestimmungen
 
 > `(1)` Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 1600 Euro bis 5900 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe von zwei bis sechs Wochen, zu bestrafen,
-> 
+>
 >> `a)` wer ein Fahrzeug lenkt oder in Betrieb nimmt, obwohl der Alkoholgehalt seines Blutes 1,6 g/l \(1,6 Promille\) oder mehr oder der Alkoholgehalt seiner Atemluft 0,8 mg/l oder mehr beträgt,
-> 
+>
 >> `b)` wer sich bei Vorliegen der in § 5 bezeichneten Voraussetzungen weigert, seine Atemluft auf Alkoholgehalt untersuchen oder sich vorführen zu lassen, oder sich bei Vorliegen der bezeichneten Voraussetzungen nicht der ärztlichen Untersuchung unterzieht,
-> 
+>
 >> `c)` \(Verfassungsbestimmung\) wer sich bei Vorliegen der im § 5 bezeichneten Voraussetzungen weigert, sich Blut abnehmen zu lassen\.
 
 > `(1a)` Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 1200 Euro bis 4400 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe von zehn Tagen bis sechs Wochen, zu bestrafen, wer ein Fahrzeug lenkt oder in Betrieb nimmt, obwohl der Alkoholgehalt seines Blutes 1,2 g/l \(1,2 Promille\) oder mehr, aber weniger als 1,6 g/l \(1,6 Promille\) oder der Alkoholgehalt seiner Atemluft 0,6 mg/l oder mehr, aber weniger als 0,8 mg/l beträgt\.
@@ -3496,17 +3470,17 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 > `(1b)` Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 800 Euro bis 3700 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe von einer bis sechs Wochen, zu bestrafen, wer in einem durch Alkohol oder Suchtgift beeinträchtigten Zustand ein Fahrzeug lenkt oder in Betrieb nimmt\.
 
 > `(2)` Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 36 Euro bis 2 180 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe von 24 Stunden bis sechs Wochen, zu bestrafen,
-> 
+>
 >> `a)` der Lenker eines Fahrzeuges, dessen Verhalten am Unfallsort mit einem Verkehrsunfall in ursächlichem Zusammenhang steht, sofern er den Bestimmungen des § 4 Abs\. 1 und 2 zuwiderhandelt, insbesondere nicht anhält, nicht Hilfe leistet oder herbeiholt oder nicht die nächste Polizeidienststelle verständigt,
-> 
+>
 > &nbsp; *\(Anm\.: lit\. b aufgehoben durch Abs\. 1 VfGH, BGBl\. Nr\. 228/1963\.\)*
-> 
+>
 >> `c)` wer als Lenker eines Fahrzeuges, zB beim Überholen, als Wartepflichtiger oder in Hinblick auf eine allgemeine oder durch Straßenverkehrszeichen kundgemachte Geschwindigkeitsbeschränkung, unter besonders gefährlichen Verhältnissen oder mit besonderer Rücksichtslosigkeit gegenüber anderen Straßenbenützern gegen die Vorschriften dieses Bundesgesetzes oder der auf Grund dieses Bundesgesetzes erlassenen Verordnungen verstößt, sofern nicht eine Übertretung nach Abs\. 2d oder 2e vorliegt,
-> 
+>
 >> `d)` wer im Bereich von Fahrbahnkuppen oder von unübersichtlichen Kurven auf einem von den Lenkern herannahender Fahrzeuge zu benützenden Fahrstreifen oder auf Vorrangstraßen außerhalb des Ortsgebietes bei starkem Nebel oder bei sonstiger erheblicher Sichtbehinderung hält oder parkt \(§ 24 Abs\. 1\) oder wer ein Verkehrshindernis nicht kennzeichnet \(§ 89\),
-> 
+>
 >> `e)` wer Einrichtungen zur Regelung und Sicherung des Verkehrs unbefugt anbringt, entfernt, verdeckt oder in ihrer Lage oder Bedeutung verändert oder solche Einrichtungen beschädigt, es sei denn, die Beschädigung ist bei einem Verkehrsunfall entstanden und die nächste Polizeidienststelle oder der Straßenerhalter ist von der Beschädigung unter Bekanntgabe der Identität des Beschädigers ohne unnötigen Aufschub verständigt worden,
-> 
+>
 >> `f)` wer ein Fahrzeug lenkt, obwohl ihm dies gemäß § 59 verboten ist\.
 
 > `(2a)` Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 218 Euro bis 2 180 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe von 48 Stunden bis sechs Wochen zu bestrafen, wer als Lenker eines Fahrzeuges gegen die Fahrverbote des § 42 oder einer auf Grund des § 42 erlassenen Fahrverbotsverordnung verstößt\.
@@ -3514,25 +3488,25 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 > `(2b)` Wer als Lenker eines Fahrzeuges die in Abs\. 2a genannte Verwaltungsübertretung innerhalb von 2 Stunden ab Beginn des jeweiligen Fahrverbotes begeht, ist mit einer Geldstrafe bis zu 726 Euro, im Falle ihrer Uneinbringlichkeit mit Freiheitsstrafe bis zu zwei Wochen zu bestrafen\.
 
 > `(2c)` Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 72 Euro bis 2 180 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe von 24 Stunden bis sechs Wochen, zu bestrafen, wer als Lenker eines Fahrzeuges
-> 
+>
 >> `1.` Fußgänger, die Schutzwege vorschriftsmäßig benützen, gefährdet,
-> 
+>
 >> `2.` Radfahrer, die Radfahrerüberfahrten vorschriftsmäßig benützen, gefährdet,
-> 
+>
 >> `3.` Fußgänger, die Schutzwege vorschriftsmäßig benützen oder Radfahrer, die Radfahrerüberfahrten vorschriftsmäßig benützen, behindert,
-> 
+>
 >> `4.` den erforderlichen Sicherheitsabstand zum nächsten vor ihm fahrenden Fahrzeug gemäß § 18 Abs\. 1 nicht einhält, sofern der zeitliche Sicherheitsabstand 0,2 Sekunden oder mehr, aber weniger als 0,4 Sekunden beträgt,
-> 
+>
 >> `5.` unter Nichtbeachtung des Vorschriftszeichens „Halt“ gegen § 19 Abs\. 7 verstößt,
-> 
+>
 >> `6.` bei rotem Licht nicht anhält und dadurch Lenker von Fahrzeugen, für die gemäß § 38 Abs\. 4 auf Grund grünen Lichts „Freie Fahrt“ gilt, zu unvermitteltem Bremsen oder zum Ablenken ihrer Fahrzeuge nötigt,
-> 
+>
 >> `7.` verbotenerweise den Pannenstreifen auf der Autobahn mit einem mehrspurigen Kraftfahrzeug befährt, wenn damit eine Behinderung von Einsatzfahrzeugen, Fahrzeugen des Straßendienstes, der Straßenaufsicht oder des Pannendienstes verbunden ist,
-> 
+>
 >> `8.` verbotenerweise den Pannenstreifen auf der Autobahn mit einem einspurigen Kraftfahrzeug befährt, wenn damit eine Behinderung von Einsatzfahrzeugen, Fahrzeugen des Straßendienstes, der Straßenaufsicht oder des Pannendienstes verbunden ist,
-> 
+>
 >> `9.` trotz Vorliegens der Voraussetzungen keine Rettungsgasse bildet, wenn damit eine Behinderung von Einsatzfahrzeugen, Fahrzeugen des Straßendienstes oder Fahrzeugen des Pannendienstes verbunden ist,
-> 
+>
 >> `10.` verbotenerweise eine Rettungsgasse befährt, wenn damit eine Behinderung von Einsatzfahrzeugen, Fahrzeugen des Straßendienstes oder Fahrzeugen des Pannendienstes verbunden ist\.
 
 > `(2d)` Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 150 bis 5000 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe von 24 Stunden bis zu sechs Wochen, zu bestrafen, wer die zulässige Höchstgeschwindigkeit um mehr als 30 km/h überschreitet\.
@@ -3544,47 +3518,47 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 > `(2g)` Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe von 700 bis 2200 Euro, im Falle ihrer Uneinbringlichkeit mit Freiheitsstrafe von 24 Stunden bis zu sechs Wochen zu bestrafen, wer gegen ein Lenkverbot gemäß § 99d Abs\. 2 verstößt\.
 
 > `(3)` Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe bis zu 726 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe bis zu zwei Wochen, zu bestrafen,
-> 
+>
 >> `a)` wer als Lenker eines Fahrzeuges, als Fußgänger, als Reiter oder als Treiber oder Führer von Vieh gegen die Vorschriften dieses Bundesgesetzes oder der auf Grund dieses Bundesgesetzes erlassenen Verordnungen verstößt und das Verhalten nicht nach den Abs\. 1, 1a, 1b, 2, 2a, 2b, 2c, 2d, 2e oder 4 zu bestrafen ist,
-> 
+>
 >> `b)` wer in anderer als der in Abs\. 2 lit\. a bezeichneten Weise gegen die Bestimmungen des § 4 verstößt, insbesondere die Herbeiholung einer Hilfe nicht ermöglicht, den bei einem Verkehrsunfall entstandenen Sachschaden nicht meldet oder als Zeuge eines Verkehrsunfalles nicht Hilfe leistet,
-> 
+>
 >> `c)` wer die Kennzeichnung „Arzt im Dienst“, „Mobile Hauskrankenpflege im Dienst“, „Feuerwehr“ oder „Hebamme im Dienst“ unbefugt oder zu anderen als im § 24 bezeichneten Zwecken gebraucht,
-> 
+>
 >> `d)` wer Straßen ohne Bewilligung zu verkehrsfremden Zwecken \(X\. Abschnitt\) benützt, insbesondere ohne Bewilligung eine nach § 82 bewilligungspflichtige Tätigkeit oder Herstellung vornimmt oder ohne Bewilligung sportliche Veranstaltungen nach § 64 abhält,
-> 
+>
 >> `e)` wer sich an Fahrzeuge anhängt, um sich ziehen zu lassen,
-> 
+>
 >> `f)` wer Tiere während der Fahrt an einer Leine hält oder an Fahrzeuge anhängt, um sie mitlaufen zu lassen, ausgenommen die Fälle des § 74 Abs\. 3,
-> 
+>
 >> `g)` wer Straßenbenützer blendet,
-> 
+>
 >> `h)` wer als Besitzer eines Fuhrwerkes dieses einem anderen in unvorschriftsmäßigem Zustand zum Betrieb überläßt,
-> 
+>
 >> `i)` wer beim Betrieb eines Fahrzeuges oder bei einer Ladetätigkeit vermeidbaren Lärm erregt oder sonst gegen die in diesem Bundesgesetz oder in Verordnungen auf Grund dieses Bundesgesetzes enthaltenen Bestimmungen zum Schutze vor Lärmbelästigung, z\. B\. gegen § 69, verstößt,
-> 
+>
 >> `j)` wer in anderer als der in lit\. a bis h sowie in den Abs\. 1, 1a, 1b, 2, 2a, 2b, 2c und 4 bezeichneten Weise Gebote, Verbote oder Beschränkungen sowie Auflagen, Bedingungen oder Fristen in Bescheiden nicht beachtet,
-> 
+>
 >> `k)` wer durch Arbeiten auf oder neben der Straße entgegen den Bestimmungen des § 90 den Straßenverkehr beeinträchtigt\.
 
 > `(4)` Eine Verwaltungsübertretung begeht und ist mit einer Geldstrafe bis zu 72 Euro, im Fall ihrer Uneinbringlichkeit mit Freiheitsstrafe bis zu 48 Stunden, zu bestrafen,
-> 
+>
 >> `a)` wer auf fahrende Fahrzeuge aufspringt oder von ihnen abspringt,
-> 
+>
 >> `b)` wer Erwerbstätigkeiten auf Straßen entgegen den Bestimmungen des § 85 Abs\. 1 ausübt oder durch Arbeiten an Schaufenstern den Verkehr behindert \(§ 85 Abs\. 2\),
-> 
+>
 >> `c)` wer Versammlungen, öffentliche oder ortsübliche Umzüge, volkstümliche Feste, Prozessionen und Leichenbegängnisse nicht gemäß § 86 anzeigt,
-> 
+>
 >> `d)` wer auf Straßen trotz Verbot Wintersport betreibt,
-> 
+>
 >> `e)` wer durch Spiele auf oder neben der Straße oder sonst gegen die Bestimmungen des § 88 verstößt oder als gesetzlicher Vertreter von Kindern zuläßt, daß sie gegen diese Bestimmungen verstoßen,
-> 
+>
 >> `f)` wer an Einfriedungen spitze Gegenstände anbringt oder frisch gestrichene Gegenstände nicht kenntlich macht \(§ 91\),
-> 
+>
 >> `g)` wer Straßen gröblich verunreinigt oder als Besitzer oder Verwahrer eines Hundes die in § 92 bezeichnete Sorgfaltpflicht verletzt,
-> 
+>
 >> `h)` wer entgegen der sich für ihn aus § 93 ergebenden Verpflichtung nicht für die Säuberung oder Bestreuung der Straße sorgt,
-> 
+>
 > &nbsp; *\(Anm\.: lit\. i aufgehoben durch BGBl\. Nr\. 518/1994\)*
 
 > `(4a)` Wer als Radfahrer die in § 68 Abs\. 3 lit\. e angeführte Verpflichtung nicht erfüllt, begeht, wenn dies bei einer Anhaltung gemäß § 97 Abs\. 5 StVO 1960 festgestellt wird, eine Verwaltungsübertretung, welche mit einer Organstrafverfügung gemäß § 50 VStG mit einer Geldstrafe von 50 Euro zu ahnden ist\. Wenn die Zahlung des Strafbetrages verweigert wird, ist von der Behörde eine Geldstrafe bis zu 72 Euro, im Falle der Uneinbringlichkeit eine Freiheitsstrafe bis zu 24 Stunden, zu verhängen\.
@@ -3592,15 +3566,15 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 > `(5)` Der Versuch ist strafbar\. Wer in einem durch Alkohol beeinträchtigten Zustand versucht, ein Fahrzeug in Betrieb zu nehmen, wird jedoch nicht bestraft, wenn er aus freien Stücken oder von wem immer auf seinen Zustand aufmerksam gemacht, die Ausführung aufgibt\.
 
 > `(6)` Eine Verwaltungsübertretung liegt nicht vor,
-> 
+>
 >> `a)` wenn durch die Tat lediglich Sachschaden entstanden ist, die Bestimmungen über das Verhalten bei einem Verkehrsunfall mit bloßem Sachschaden \(§ 4 Abs\. 5\) eingehalten worden sind und nicht eine Übertretung nach Abs\. 1, 1a oder 1b vorliegt,
-> 
+>
 >> `b)` wenn die Tat auf einer Straße ohne öffentlichen Verkehr begangen wurde \(§ 1 Abs\. 2\),
-> 
+>
 >> `c)` wenn eine Tat nach diesem Bundesgesetz oder nach den §§ 37 und 37a FSG den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung verwirklicht,
-> 
+>
 >> `d)` wenn durch eine Zuwiderhandlung gegen § 25 Abs\. 3 oder gegen eine auf Grund des § 25 Abs\. 1 oder 4 erlassene Verordnung auch ein abgabenrechtlich strafbarer Tatbestand verwirklicht wird,
-> 
+>
 >> `e)` wenn die in § 68 Abs\.6 genannten Personen einer dort genannten Verpflichtung nicht nachkommen\.
 
 > `(7)` Wegen einer in Abs\. 1 bis 5 genannten Verwaltungsübertretung ist auch strafbar, wer diese auf dem Gebiet einer österreichischen Grenzabfertigungsstelle, die auf ausländischem Gebiet liegt, begeht\. Die Überwachung der Einhaltung straßenpolizeilicher Vorschriften zählt zur Grenzabfertigung\.
@@ -3618,23 +3592,23 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 ### § 99b StVO — Beschlagnahme
 
 > `(1)` Die Behörde hat unter Bedachtnahme auf die Verkehrssicherheit mit Bescheid die Beschlagnahme von Fahrzeugen zu verfügen, wenn dies zur Sicherung des Verfalls geboten erscheint und
-> 
+>
 >> `1.` entweder
->> 
+>>
 >>> `a)` mit technischen Hilfsmitteln festgestellt wurde, dass der Lenker die erlaubte Höchstgeschwindigkeit im Ortsgebiet um mehr als 60 km/h oder außerhalb des Ortsgebiets um mehr als 70 km/h überschritten hat, und
->> 
+>>
 >>> `b)` dem Lenker innerhalb der letzten vier Jahre die Lenkberechtigung wegen einer der in § 7 Abs\. 3 Z 3 oder 4 FSG genannten Übertretungen entzogen worden ist oder
-> 
+>
 >> `2.` mit technischen Hilfsmitteln festgestellt wurde, dass der Lenker die erlaubte Höchstgeschwindigkeit im Ortsgebiet um mehr als 80 km/h oder außerhalb des Ortsgebiets um mehr als 90 km/h überschritten hat\.
-> 
+>
 > &nbsp; Eine Beschwerde gegen den Bescheid hat keine aufschiebende Wirkung\.
 
 > `(2)` Die Behörde hat den Eigentümer des Fahrzeuges bzw\. sonst dinglich Berechtigte auszuforschen und von der Beschlagnahme in Kenntnis zu setzen, sofern die Ausforschung und Mitteilung nicht bereits im Rahmen einer vorläufigen Beschlagnahme erfolgt ist\. Die Beschlagnahme ist von der Behörde unverzüglich aufzuheben bzw\. hat zu unterbleiben,
-> 
+>
 >> `1.` wenn eine vom Lenker verschiedene Person nachweist, dass ihr dingliche Rechte an dem beschlagnahmten Fahrzeug zukommen, oder
-> 
+>
 >> `2.` wenn eine vom Lenker verschiedene Person nachweist, dass ihr bis zu einer vorläufigen Beschlagnahme dingliche Rechte an dem beschlagnahmten Fahrzeug zugekommen sind, oder
-> 
+>
 >> `3.` sobald die Voraussetzungen gemäß Abs\. 1 nicht mehr vorliegen\.
 
 > `(3)` Das Verfügungsrecht über die gemäß Abs\. 1 beschlagnahmten Fahrzeuge steht der Behörde zu\.
@@ -3644,13 +3618,13 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 ### § 99c StVO — Verfall
 
 > `(1)` Die Behörde hat zusätzlich zu einer Geldstrafe nach § 99 ein von ihr beschlagnahmtes Fahrzeug gemäß § 17 VStG für verfallen zu erklären, wenn das geboten erscheint, um den Täter von weiteren gleichartigen Übertretungen abzuhalten, und
-> 
+>
 >> `1.` entweder
->> 
+>>
 >>> `a)` mit dem Fahrzeug die erlaubte Höchstgeschwindigkeit im Ortsgebiet um mehr als 60 km/h oder außerhalb des Ortsgebiets um mehr als 70 km/h überschritten wurde und
->> 
+>>
 >>> `b)` dem Lenker innerhalb der letzten vier Jahre die Lenkberechtigung wegen einer der in § 7 Abs\. 3 Z 3 oder 4 FSG genannten Übertretungen entzogen wurde oder
-> 
+>
 >> `2.` mit dem Fahrzeug die erlaubte Höchstgeschwindigkeit im Ortsgebiet um mehr als 80 km/h oder außerhalb des Ortsgebiets um mehr als 90 km/h überschritten wurde\.
 
 > `(2)` Verfallene Fahrzeuge sind bestmöglich zu verwerten\. 70 vH des Erlöses aus der Verwertung fließen dem Österreichischen Verkehrssicherheitsfonds zu; 30 vH des Erlöses fließen der Gebietskörperschaft zu, die den Aufwand jener Behörde zu tragen hat, die das Strafverfahren in erster Instanz durchführt\.
@@ -3680,23 +3654,23 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 > `(5a)` Bei mit Messgeräten festgestellten Überschreitungen von mehr als 30 km/h einer ziffernmäßig festgesetzten erlaubten Höchstgeschwindigkeit können \- sofern in diesen Fällen nicht Umstände im Sinne des § 99 Abs\. 2 lit\. c oder 2e vorliegen – die Bestimmungen des § 50 VStG mit der Maßgabe angewendet werden, dass Geldstrafen von 70 Euro sofort eingehoben werden\.
 
 > `(5b)` Bei mit Messgeräten festgestellten Überschreitungen der auf Autobahnen erlaubten Höchstgeschwindigkeit von 130 km/h können \- sofern in diesen Fällen nicht Umstände im Sinne des § 99 Abs\. 2 lit\. c vorliegen – die Bestimmungen des § 50 VStG mit der Maßgabe angewendet werden, dass
-> 
+>
 >> `1.` bei einer festgestellten Überschreitung bis 10 km/h eine Geldstrafe von 20 Euro,
-> 
+>
 >> `2.` bei einer festgestellten Überschreitung von mehr als 10 bis 20 km/h eine Geldstrafe von 35 Euro und
-> 
+>
 >> `3.` bei einer festgestellten Überschreitung von mehr als 20 bis 30 km/h eine Geldstrafe von 50 Euro
-> 
+>
 > &nbsp; sofort eingehoben wird\.
 
 > `(5c)` Bei mit Messgeräten festgestellten Überschreitungen der auf Autobahnen erlaubten Höchstgeschwindigkeit von 130 km/h können \- sofern in diesen Fällen nicht Umstände im Sinne des § 99 Abs\. 2 lit\. c vorliegen – die Bestimmungen des § 49a VStG mit der Maßgabe angewendet werden, dass
-> 
+>
 >> `1.` bei einer festgestellten Überschreitung bis 10 km/h eine Geldstrafe von 30 Euro,
-> 
+>
 >> `2.` bei einer festgestellten Überschreitung von mehr als 10 bis 20 km/h eine Geldstrafe von 45 Euro und
-> 
+>
 >> `3.` bei einer festgestellten Überschreitung von mehr als 20 bis 30 km/h eine Geldstrafe von 60 Euro
-> 
+>
 > &nbsp; durch Anonymverfügung vorgeschrieben wird\.
 
 > `(5d)` Werden zur Feststellung einer Überschreitung einer ziffernmäßig festgesetzten zulässigen Höchstgeschwindigkeit technische Einrichtungen verwendet, mit denen die durchschnittliche Fahrgeschwindigkeit eines Fahrzeuges auf einer festgelegten Wegstrecke gemessen werden kann, gilt die Messstrecke als Ort der Begehung der Übertretung\. Wurden dabei auf der Messstrecke im Messzeitraum mehrere Geschwindigkeitsübertretungen begangen, so gelten diese als eine Übertretung\. Erstreckt sich die Messstrecke auf den Sprengel mehrerer Behörden, so ist die Behörde zuständig, in deren Sprengel das Ende der Messstrecke fällt\.
@@ -3725,11 +3699,11 @@ Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innova
 
 ### § 102 StVO — Abgrenzung zu anderen Rechtsvorschriften
 
-Durch dieses Bundesgesetz werden die Straßenverwaltungsgesetze sowie eisenbahnrechtliche und arbeitsrechtliche Vorschriften nicht berührt\.
+> Durch dieses Bundesgesetz werden die Straßenverwaltungsgesetze sowie eisenbahnrechtliche und arbeitsrechtliche Vorschriften nicht berührt\.
 
 ### § 102a StVO — Verweisungen
 
-Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese, sofern nichts anderes ausdrücklich angeordnet ist, in ihrer jeweils geltenden Fassung anzuwenden\.
+> Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese, sofern nichts anderes ausdrücklich angeordnet ist, in ihrer jeweils geltenden Fassung anzuwenden\.
 
 ### § 103 StVO — Inkrafttreten und Aufhebung
 
@@ -3845,4 +3819,4 @@ Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen w
 
 ### § 106 StVO — Bezugnahme auf Richtlinien
 
-Durch dieses Bundesgesetz, in der Fassung des Bundesgesetzes BGBl\. I Nr\. 54/2006, wird die Richtlinie 2004/54/EG über Mindestanforderungen an die Sicherheit von Tunneln im transeuropäischen Straßennetz, ABl\. Nr\. L 201 vom 7\.6\.2004, S\. 56 in österreichisches Recht umgesetzt\.
+> Durch dieses Bundesgesetz, in der Fassung des Bundesgesetzes BGBl\. I Nr\. 54/2006, wird die Richtlinie 2004/54/EG über Mindestanforderungen an die Sicherheit von Tunneln im transeuropäischen Straßennetz, ABl\. Nr\. L 201 vom 7\.6\.2004, S\. 56 in österreichisches Recht umgesetzt\.

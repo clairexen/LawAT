@@ -1023,15 +1023,15 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ### § 2 ZPO
 
-Ein mündiger Minderjähriger bedarf in Rechtsstreitigkeiten über Gegenstände, in denen er nach dem bürgerlichen Recht geschäftsfähig ist, nicht der Mitwirkung seines gesetzlichen Vertreters\.
+> Ein mündiger Minderjähriger bedarf in Rechtsstreitigkeiten über Gegenstände, in denen er nach dem bürgerlichen Recht geschäftsfähig ist, nicht der Mitwirkung seines gesetzlichen Vertreters\.
 
 ### § 2a ZPO
 
-In Ehesachen \(§ 49 Abs\. 2 Z 2a JN\) sind Personen, die sonst wegen ihrer Minderjährigkeit nur beschränkt geschäftsfähig sind, fähig, selbständig vor Gericht als Partei zu handeln\.
+> In Ehesachen \(§ 49 Abs\. 2 Z 2a JN\) sind Personen, die sonst wegen ihrer Minderjährigkeit nur beschränkt geschäftsfähig sind, fähig, selbständig vor Gericht als Partei zu handeln\.
 
 ### § 3 ZPO — 
 
-Ein Ausländer, welchem nach dem Rechte seines Landes die Processfähigkeit mangelt, ist vor den inländischen Gerichten als processfähig zu behandeln, wenn ihm nach den im Inlande geltenden gesetzlichen Bestimmungen die Processfähigkeit zukommt\.
+> Ein Ausländer, welchem nach dem Rechte seines Landes die Processfähigkeit mangelt, ist vor den inländischen Gerichten als processfähig zu behandeln, wenn ihm nach den im Inlande geltenden gesetzlichen Bestimmungen die Processfähigkeit zukommt\.
 
 ### § 4 ZPO — 
 
@@ -1041,7 +1041,7 @@ Ein Ausländer, welchem nach dem Rechte seines Landes die Processfähigkeit mang
 
 ### § 5 ZPO — 
 
-Soweit dieses Gesetz nicht unterscheidet, sind dessen Bestimmungen über Parteien auch auf deren gesetzliche Vertreter zu beziehen\.
+> Soweit dieses Gesetz nicht unterscheidet, sind dessen Bestimmungen über Parteien auch auf deren gesetzliche Vertreter zu beziehen\.
 
 ### § 6 ZPO — 
 
@@ -1053,7 +1053,7 @@ Soweit dieses Gesetz nicht unterscheidet, sind dessen Bestimmungen über Parteie
 
 ### § 6a ZPO
 
-Ergeben sich bei einer Partei, die der inländischen Pflegschaftsgerichtsbarkeit \(§ 110 JN\) unterliegt, Anzeichen dafür, dass sie aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit dieses Gerichtsverfahren nicht ohne Gefahr eines Nachteils für sich selbst besorgen kann, so ist das Pflegschaftsgericht zu verständigen\. Das Pflegschaftsgericht hat dem Prozeßgericht ehestens mitzuteilen, ob ein \(einstweiliger\) Erwachsenenvertreter bestellt oder sonst eine entsprechende Maßnahme getroffen wird\. An die Entscheidung des Pflegschaftsgerichts ist das Prozeßgericht gebunden\. Der § 6 Abs\. 2 zweiter Satz und Abs\. 3 erster Satz ist sinngemäß anzuwenden\.
+> Ergeben sich bei einer Partei, die der inländischen Pflegschaftsgerichtsbarkeit \(§ 110 JN\) unterliegt, Anzeichen dafür, dass sie aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit dieses Gerichtsverfahren nicht ohne Gefahr eines Nachteils für sich selbst besorgen kann, so ist das Pflegschaftsgericht zu verständigen\. Das Pflegschaftsgericht hat dem Prozeßgericht ehestens mitzuteilen, ob ein \(einstweiliger\) Erwachsenenvertreter bestellt oder sonst eine entsprechende Maßnahme getroffen wird\. An die Entscheidung des Pflegschaftsgerichts ist das Prozeßgericht gebunden\. Der § 6 Abs\. 2 zweiter Satz und Abs\. 3 erster Satz ist sinngemäß anzuwenden\.
 
 ### § 7 ZPO — 
 
@@ -1077,7 +1077,7 @@ Ergeben sich bei einer Partei, die der inländischen Pflegschaftsgerichtsbarkeit
 
 ### § 10 ZPO
 
-Die durch die Prozeßführung verursachten, zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Kosten \(§ 41\) eines vom Prozeßgericht oder von einem anderen Gerichte bestellten Kurators hat die Partei, durch deren Prozeßhandlung die Bestellung oder Mitwirkung des Kurators veranlaßt wurde, unbeschadet eines ihr etwa zustehenden Ersatzanspruches zu bestreiten\.
+> Die durch die Prozeßführung verursachten, zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung notwendigen Kosten \(§ 41\) eines vom Prozeßgericht oder von einem anderen Gerichte bestellten Kurators hat die Partei, durch deren Prozeßhandlung die Bestellung oder Mitwirkung des Kurators veranlaßt wurde, unbeschadet eines ihr etwa zustehenden Ersatzanspruches zu bestreiten\.
 
 ## Zweiter Titel.
 
@@ -1085,25 +1085,25 @@ Die durch die Prozeßführung verursachten, zur zweckentsprechenden Rechtsverfol
 
 ### § 11 ZPO — 
 
-Außer den in anderen Gesetzen besonders bezeichneten Fällen können mehrere Personen gemeinschaftlich klagen oder geklagt werden \(Streitgenossen\):
+> Außer den in anderen Gesetzen besonders bezeichneten Fällen können mehrere Personen gemeinschaftlich klagen oder geklagt werden \(Streitgenossen\):
 
 > `1.` wenn sie in Ansehung des Streitgegenstandes in Rechtsgemeinschaft stehen oder aus demselben tatsächlichen Grund oder solidarisch berechtigt oder verpflichtet sind;
 
 > `2.` wenn gleichartige, auf einem im wesentlichen gleichartigen
 
-&nbsp; thatsächlichen Grunde beruhende Ansprüche oder Verpflichtungen den Gegenstand des Rechtsstreites bilden, und zugleich die Zuständigkeit des Gerichtes hinsichtlich jedes einzelnen Beklagten begründet ist\.
+> &nbsp; thatsächlichen Grunde beruhende Ansprüche oder Verpflichtungen den Gegenstand des Rechtsstreites bilden, und zugleich die Zuständigkeit des Gerichtes hinsichtlich jedes einzelnen Beklagten begründet ist\.
 
 ### § 12 ZPO — 
 
-Soweit nicht die Beschaffenheit der eingegangenen Bürgschaft im Wege steht, können der Hauptschuldner und der Bürge gemeinschaftlich geklagt werden\.
+> Soweit nicht die Beschaffenheit der eingegangenen Bürgschaft im Wege steht, können der Hauptschuldner und der Bürge gemeinschaftlich geklagt werden\.
 
 ### § 13 ZPO — 
 
-Jeder der Streitgenossen ist dem Gegner gegenüber im Processe derart selbständig, dass die Handlungen oder Unterlassungen des einen Streitgenossen dem anderen weder zum Vortheile noch zum Nachtheile gereichen\.
+> Jeder der Streitgenossen ist dem Gegner gegenüber im Processe derart selbständig, dass die Handlungen oder Unterlassungen des einen Streitgenossen dem anderen weder zum Vortheile noch zum Nachtheile gereichen\.
 
 ### § 14 ZPO — 
 
-Wenn die Wirkung des zu fällenden Urtheiles sich kraft der Beschaffenheit des streitigen Rechtsverhältnisses oder kraft gesetzlicher Vorschrift auf sämmtliche Streitgenossen erstreckt, so bilden dieselben eine einheitliche Streitpartei\. Sind einzelne Streitgenossen säumig, so erstreckt sich die Wirkung der Processhandlungen der thätigen Streitgenossen auch auf sie\.
+> Wenn die Wirkung des zu fällenden Urtheiles sich kraft der Beschaffenheit des streitigen Rechtsverhältnisses oder kraft gesetzlicher Vorschrift auf sämmtliche Streitgenossen erstreckt, so bilden dieselben eine einheitliche Streitpartei\. Sind einzelne Streitgenossen säumig, so erstreckt sich die Wirkung der Processhandlungen der thätigen Streitgenossen auch auf sie\.
 
 ### § 15 ZPO — 
 
@@ -1113,7 +1113,7 @@ Wenn die Wirkung des zu fällenden Urtheiles sich kraft der Beschaffenheit des s
 
 ### § 16 ZPO — 
 
-Wer die Sache oder das Recht, worüber zwischen anderen Personen ein Rechtsstreit anhängig ist, ganz oder theilweise für sich in Anspruch nimmt, kann bis zur rechtskräftigen Entscheidung dieses Rechtsstreites beide Parteien gemeinschaftlich klagen \(Hauptintervention\)\.
+> Wer die Sache oder das Recht, worüber zwischen anderen Personen ein Rechtsstreit anhängig ist, ganz oder theilweise für sich in Anspruch nimmt, kann bis zur rechtskräftigen Entscheidung dieses Rechtsstreites beide Parteien gemeinschaftlich klagen \(Hauptintervention\)\.
 
 ## Dritter Titel.
 
@@ -1144,7 +1144,7 @@ Wer die Sache oder das Recht, worüber zwischen anderen Personen ein Rechtsstrei
 
 ### § 20 ZPO — 
 
-Wenn das in einem Processe ergehende Urteil kraft der Beschaffenheit des streitigen Rechtsverhältnisses oder kraft gesetzlicher Vorschrift auch in Bezug auf das Rechtsverhältnis des Intervenienten zum Gegner der Hauptpartei rechtlich wirksam ist, kommt dem Intervenienten die Stellung eines Streitgenossen zu \(§\. 14\)\.
+> Wenn das in einem Processe ergehende Urteil kraft der Beschaffenheit des streitigen Rechtsverhältnisses oder kraft gesetzlicher Vorschrift auch in Bezug auf das Rechtsverhältnis des Intervenienten zum Gegner der Hauptpartei rechtlich wirksam ist, kommt dem Intervenienten die Stellung eines Streitgenossen zu \(§\. 14\)\.
 
 ## Streitverkündigung.
 
@@ -1178,7 +1178,7 @@ Wenn das in einem Processe ergehende Urteil kraft der Beschaffenheit des streiti
 
 ### § 25 ZPO — 
 
-Die Zustellung der in den §§\. 18, 21 und 22 bezeichneten Schriftsätze wird vom Vorsitzenden ohne vorgängige Beschlussfassung des Senates verfügt\.
+> Die Zustellung der in den §§\. 18, 21 und 22 bezeichneten Schriftsätze wird vom Vorsitzenden ohne vorgängige Beschlussfassung des Senates verfügt\.
 
 ## Vierter Titel.
 
@@ -1227,13 +1227,13 @@ Die Zustellung der in den §§\. 18, 21 und 22 bezeichneten Schriftsätze wird v
 ### § 31 ZPO — 
 
 > `(1)` Die einem Rechtsanwalt ertheilte Vollmacht zur Processführung \(Processvollmacht\) ermächtigt kraft Gesetzes:
-> 
+>
 >> `1.` zur Anbringung und Empfangnahme der Klage und zu allen den Rechtsstreit betreffenden Processhandlungen, einschließlich derjenigen, welche durch eine Widerklage, durch eine Wiederaufnahme des Verfahrens, durch den Antrag auf einstweilige Verfügungen, oder durch eine im Sinne des §\. 16 erfolgende Klageführung veranlasst werden;
-> 
+>
 >> `2.` zum Abschlusse von Vergleichen über den Gegenstand des Rechtsstreites, zu Anerkenntnissen der vom Gegner behaupteten Ansprüche, sowie zu Verzichtleistungen auf die von der bevollmächtigenden Partei geltend gemachten Ansprüche;
-> 
+>
 >> `3.` zur Einleitung der Execution wider den Processgegner, zur Vornahme aller im Executionsverfahren auf Seiten des Executionsführers vorkommenden Handlungen und zur Erwirkung des Sicherungsverfahrens;
-> 
+>
 >> `4.` zur Empfangnahme der von dem Processgegner zu erstattenden Processkosten\.
 
 > `(2)` Der Rechtsanwalt kann die ihm erteilte Prozeßvollmacht für einzelne Akte oder Abschnitte des Verfahrens an einen anderen Rechtsanwalt übertragen\. Inwiefern der Rechtsanwalt berechtigt ist, sich durch einen Rechtsanwaltsanwärter vertreten zu lassen, regelt die Rechtsanwaltsordnung\.
@@ -1242,7 +1242,7 @@ Die Zustellung der in den §§\. 18, 21 und 22 bezeichneten Schriftsätze wird v
 
 ### § 32 ZPO — 
 
-Eine Beschränkung des gesetzlichen Umfanges der Processvollmacht hat, auch wenn sie in der Urkunde ausgedrückt ist, dem Gegner gegenüber nur insoweit rechtliche Wirkung, als die Beschränkung die im §\. 31, Z 2 und 3, bezeichneten Befugnisse betrifft und dem Gegner besonders bekannt gegeben wurde\.
+> Eine Beschränkung des gesetzlichen Umfanges der Processvollmacht hat, auch wenn sie in der Urkunde ausgedrückt ist, dem Gegner gegenüber nur insoweit rechtliche Wirkung, als die Beschränkung die im §\. 31, Z 2 und 3, bezeichneten Befugnisse betrifft und dem Gegner besonders bekannt gegeben wurde\.
 
 ### § 33 ZPO — 
 
@@ -1252,7 +1252,7 @@ Eine Beschränkung des gesetzlichen Umfanges der Processvollmacht hat, auch wenn
 
 ### § 34 ZPO — 
 
-Die auf Grund einer Processvollmacht von dem Bevollmächtigten vorgenommenen Processhandlungen haben im Verhältnis zur Gegenpartei dieselbe Wirkung, als wenn sie von der Partei selbst vorgenommen worden wären\. Dies gilt jedoch von Geständnissen und anderen thatsächlichen Erklärungen nur insoweit, als sie nicht von der miterschienenen Partei sofort widerrufen oder berichtigt werden\.
+> Die auf Grund einer Processvollmacht von dem Bevollmächtigten vorgenommenen Processhandlungen haben im Verhältnis zur Gegenpartei dieselbe Wirkung, als wenn sie von der Partei selbst vorgenommen worden wären\. Dies gilt jedoch von Geständnissen und anderen thatsächlichen Erklärungen nur insoweit, als sie nicht von der miterschienenen Partei sofort widerrufen oder berichtigt werden\.
 
 ### § 35 ZPO — 
 
@@ -1282,7 +1282,7 @@ Die auf Grund einer Processvollmacht von dem Bevollmächtigten vorgenommenen Pro
 
 ### § 39 ZPO — 
 
-Soweit dieses Gesetz nicht unterscheidet, sind dessen Bestimmungen über die Parteien auch auf deren Bevollmächtigte zu beziehen\.
+> Soweit dieses Gesetz nicht unterscheidet, sind dessen Bestimmungen über die Parteien auch auf deren Bevollmächtigte zu beziehen\.
 
 ## Fünfter Titel.
 
@@ -1322,7 +1322,7 @@ Soweit dieses Gesetz nicht unterscheidet, sind dessen Bestimmungen über die Par
 
 ### § 45 ZPO — 
 
-Hat der Beklagte durch sein Verhalten zur Erhebung der Klage nicht Veranlassung gegeben und den in der Klage erhobenen Anspruch sofort bei erster Gelegenheit anerkannt, so fallen die Processkosten dem Kläger zur Last\. Er hat auch die dem Beklagten durch das eingeleitete gerichtliche Verfahren verursachten Kosten zu ersetzen\.
+> Hat der Beklagte durch sein Verhalten zur Erhebung der Klage nicht Veranlassung gegeben und den in der Klage erhobenen Anspruch sofort bei erster Gelegenheit anerkannt, so fallen die Processkosten dem Kläger zur Last\. Er hat auch die dem Beklagten durch das eingeleitete gerichtliche Verfahren verursachten Kosten zu ersetzen\.
 
 ### § 45a ZPO — 
 
@@ -1394,7 +1394,7 @@ Hat der Beklagte durch sein Verhalten zur Erhebung der Klage nicht Veranlassung 
 
 ### § 55 ZPO — 
 
-Die in einem Urtheile des Processgerichtes erster Instanz oder des Berufungsgerichtes enthaltene Entscheidung über den Kostenpunkt kann ohne gleichzeitige Anfechtung der in der Hauptsache ergangenen Entscheidung nur mittels Recurs angefochten werden\.
+> Die in einem Urtheile des Processgerichtes erster Instanz oder des Berufungsgerichtes enthaltene Entscheidung über den Kostenpunkt kann ohne gleichzeitige Anfechtung der in der Hauptsache ergangenen Entscheidung nur mittels Recurs angefochten werden\.
 
 ## Sechster Titel.
 
@@ -1417,22 +1417,22 @@ Die in einem Urtheile des Processgerichtes erster Instanz oder des Berufungsgeri
 > `(1)` Wenn Ausländer vor einem im Geltungsgebiete dieses Gesetzes gelegenen Gerichte als Kläger auftreten, haben sie dem Beklagten auf dessen Verlangen für die Processkosten Sicherheit zu leisten, sofern nicht durch Staatsverträge etwas anderes festgesetzt ist\.
 
 > `(2)` Eine solche Verpflichtung zur Sicherheitsleistung tritt jedoch nicht ein:
-> 
+>
 >> `1.` wenn der Kläger seinen gewöhnlichen Aufenthalt in Österreich hat;
-> 
+>
 >> `1 a.` wenn eine gerichtliche Entscheidung, die dem Kläger den Ersatz von Prozeßkosten an den Beklagten auferlegte, im Staat des gewöhnlichen Aufenthalts des Klägers vollstreckt würde;
-> 
+>
 >> `2.` wenn der Kläger im Geltungsgebiete dieses Gesetzes ein zur Deckung der Processkosten hinreichendes Vermögen an unbeweglichen Gütern oder an Forderungen besitzt, die auf solchen Gütern bücherlich sichergestellt sind;
-> 
+>
 >> `3.` bei Klagen in Ehestreitigkeiten;
-> 
+>
 >> `4.` bei Klagen im Mandats\- und Wechselverfahren, bei Widerklagen, sowie bei Klagen, welche infolge einer öffentlichen, gerichtlichen Aufforderung angestellt werden\.
 
 > `(3)` Auf die Ermittlung der Gesetzgebung und des Verhaltens des Staates, in dem der Kläger seinen gewöhnlichen Aufenthalt hat, ist § 4 Abs\. 1 des IPR\-Gesetzes, BGBl\. Nr\. 304/1978, sinngemäß anzuwenden\.
 
 ### § 58 ZPO — 
 
-Der Beklagte kann auch dann Sicherheitsleistung verlangen, wenn der Kläger während des Rechtsstreites die Eigenschaft eines Inländers verliert oder die Voraussetzung, unter welcher der Ausländer von der Sicherheitsleistung befreit war, wegfällt und nicht ein zur Deckung ausreichender Theil des erhobenen Anspruches unbestritten ist\.
+> Der Beklagte kann auch dann Sicherheitsleistung verlangen, wenn der Kläger während des Rechtsstreites die Eigenschaft eines Inländers verliert oder die Voraussetzung, unter welcher der Ausländer von der Sicherheitsleistung befreit war, wegfällt und nicht ein zur Deckung ausreichender Theil des erhobenen Anspruches unbestritten ist\.
 
 ### § 59 ZPO — 
 
@@ -1476,28 +1476,28 @@ Der Beklagte kann auch dann Sicherheitsleistung verlangen, wenn der Kläger wäh
 ### § 64 ZPO
 
 > `(1)` Die Verfahrenshilfe kann für einen bestimmten Rechtsstreit und ein nach Abschluß des Rechtsstreits eingeleitetes Vollstreckungsverfahren die folgenden Begünstigungen umfassen:
-> 
+>
 >> `1.` die einstweilige Befreiung von der Entrichtung
->> 
+>>
 >>> `a)` der Gerichtsgebühren und anderen bundesgesetzlich geregelten staatlichen Gebühren;
->> 
+>>
 >>> `b)` der Kosten von Amtshandlungen außerhalb des Gerichtes;
->> 
+>>
 >>> `c)` der Gebühren der Zeugen, Sachverständigen, Dolmetscher, Übersetzer und Beisitzer;
->> 
+>>
 >>> `d)` der Kosten der notwendigen Verlautbarungen;
->> 
+>>
 >>> `e)` der Kosten eines Kurators, die die Partei nach § 10 zu bestreiten hätte;
->> 
+>>
 >>> `f)` der notwendigen Barauslagen, die von dem vom Gericht bestellten gesetzlichen Vertreter oder von dem der Partei beigegebenen Rechtsanwalt oder Vertreter gemacht worden sind;  
 >>> &nbsp; diese umfassen jedenfalls auch notwendige Übersetzungs\- und Dolmetschkosten; die unter den Buchstaben b bis e und die unter diesem Buchstaben genannten Kosten, Gebühren und Auslagen werden vorläufig aus Amtsgeldern berichtigt;
-> 
+>
 >> `2.` die Befreiung von der Sicherheitsleistung für die Prozeßkosten;
-> 
+>
 >> `3.` sofern die Vertretung durch einen Rechtsanwalt gesetzlich geboten ist oder es nach der Lage des Falles erforderlich erscheint, die vorläufig unentgeltliche Beigebung eines Rechtsanwalts, die sich auch auf eine vorprozessuale Rechtsberatung im Hinblick auf eine außergerichtliche Streitbeilegung erstreckt; dieser bedarf keiner Prozeßvollmacht, jedoch der Zustimmung der Partei zu einem Anerkenntnis, einem Verzicht oder der Schließung eines Vergleiches\. § 31 Abs\. 2 und 3 sind sinngemäß anzuwenden;
-> 
+>
 >> `4.` sofern in einer Rechtssache, in der die Vertretung durch einen Rechtsanwalt gesetzlich nicht geboten ist und der Partei auch ein Rechtsanwalt nicht beigegeben wird, die Klage bei einem Gericht außerhalb des Bezirksgerichtssprengels angebracht werden soll, in dem die Partei ihren Aufenthalt hat, das Recht, die Klage gemeinsam mit dem Antrag auf Bewilligung der Verfahrenshilfe beim Bezirksgericht ihres Aufenthalts zu Protokoll zu erklären und zu begehren, daß dieses Protokoll dem Prozeßgericht übersendet, und daß von diesem für die Partei zur unentgeltlichen Wahrung ihrer Rechte bei der mündlichen Verhandlung ein Gerichtsbediensteter oder ein Rechtspraktikant als ihr Vertreter bestellt werde; deren Auswahl obliegt dem Vorsteher des Gerichtes;
-> 
+>
 >> `5.` sofern das Gericht deren persönliche Anwesenheit zur Einvernahme oder zur Erörterung des Sachverhalts anordnet, den Ersatz der notwendigen Reisekosten der Partei in sinngemäßer Anwendung der für Zeugen geltenden Bestimmungen des GebAG 1975; diese Kosten werden vorläufig aus Amtsgeldern ersetzt\.
 
 > `(2)` Bei Bewilligung der Verfahrenshilfe ist auszusprechen, welche der im Abs\. 1 aufgezählten Begünstigungen und welche zur Gänze oder zum Teil gewährt werden\. Die Begünstigung nach Abs\. 1 Z 3 darf nur in vollem Ausmaß gewährt werden\.
@@ -1508,11 +1508,11 @@ Der Beklagte kann auch dann Sicherheitsleistung verlangen, wenn der Kläger wäh
 
 ### § 64a ZPO
 
-Eine Partei, der in einem anderen Mitgliedstaat der Europäischen Union für einen bestimmten Rechtsstreit Verfahrenshilfe gewährt worden ist, hat für das Verfahren zur Anerkennung und Vollstreckung der in diesem Rechtsstreit ergangenen Entscheidung Anspruch auf Verfahrenshilfe gemäß diesem Titel\. Die Partei hat in ihrem Antrag zu bescheinigen, dass ihr im Erkenntnisverfahren Verfahrenshilfe gewährt wurde, dem Antrag ein Vermögensbekenntnis \(§ 66\) anzuschließen und anzugeben, welche der in § 64 Abs\. 1 aufgezählten Begünstigungen sie begehrt\. Das Gericht hat auszusprechen, in welchem Ausmaß der Partei die Begünstigungen des § 64 Abs\. 1 gewährt werden\.
+> Eine Partei, der in einem anderen Mitgliedstaat der Europäischen Union für einen bestimmten Rechtsstreit Verfahrenshilfe gewährt worden ist, hat für das Verfahren zur Anerkennung und Vollstreckung der in diesem Rechtsstreit ergangenen Entscheidung Anspruch auf Verfahrenshilfe gemäß diesem Titel\. Die Partei hat in ihrem Antrag zu bescheinigen, dass ihr im Erkenntnisverfahren Verfahrenshilfe gewährt wurde, dem Antrag ein Vermögensbekenntnis \(§ 66\) anzuschließen und anzugeben, welche der in § 64 Abs\. 1 aufgezählten Begünstigungen sie begehrt\. Das Gericht hat auszusprechen, in welchem Ausmaß der Partei die Begünstigungen des § 64 Abs\. 1 gewährt werden\.
 
 ### § 64b ZPO
 
-Zur außergerichtlichen Streitbeilegung in nachbarrechtlichen Streitigkeiten nach § 364 Abs\. 3 ABGB wird Verfahrenshilfe für den Antrag nach § 433 Abs\. 1 gewährt\. Diese umfasst die Begünstigungen nach § 64 Abs\. 1 Z 1 und 5\.
+> Zur außergerichtlichen Streitbeilegung in nachbarrechtlichen Streitigkeiten nach § 364 Abs\. 3 ABGB wird Verfahrenshilfe für den Antrag nach § 433 Abs\. 1 gewährt\. Diese umfasst die Begünstigungen nach § 64 Abs\. 1 Z 1 und 5\.
 
 ### § 65 ZPO — 
 
@@ -1528,7 +1528,7 @@ Zur außergerichtlichen Streitbeilegung in nachbarrechtlichen Streitigkeiten nac
 
 ### § 67 ZPO
 
-Hat das Gericht die Beigebung eines Rechtsanwalts beschlossen, so hat es den Ausschuß der nach dem Sitz des Prozeßgerichts zuständigen Rechtsanwaltskammer zu benachrichtigen, damit der Ausschuß einen Rechtsanwalt zum Vertreter bestelle\. Wünschen der Partei über die Auswahl dieses Rechtsanwalts ist im Einvernehmen mit dem namhaft gemachten Rechtsanwalt nach Möglichkeit zu entsprechen\.
+> Hat das Gericht die Beigebung eines Rechtsanwalts beschlossen, so hat es den Ausschuß der nach dem Sitz des Prozeßgerichts zuständigen Rechtsanwaltskammer zu benachrichtigen, damit der Ausschuß einen Rechtsanwalt zum Vertreter bestelle\. Wünschen der Partei über die Auswahl dieses Rechtsanwalts ist im Einvernehmen mit dem namhaft gemachten Rechtsanwalt nach Möglichkeit zu entsprechen\.
 
 ### § 68 ZPO
 
@@ -1544,11 +1544,11 @@ Hat das Gericht die Beigebung eines Rechtsanwalts beschlossen, so hat es den Aus
 
 ### § 69 ZPO
 
-Gegen denjenigen, der durch unrichtige oder unvollständige Angaben im Vermögensbekenntnis \(§ 66\) die Verfahrenshilfe erschleicht, hat das Prozeßgericht erster Instanz eine Mutwillensstrafe zu verhängen\. Derjenige, gegen den eine solche Mutwillensstrafe rechtskräftig verhängt worden ist, schuldet überdies \- vorbehaltlich der Nachzahlungspflicht der Partei \(§ 68 Abs\. 2\) \- die Gerichtsgebühren in zweifacher Höhe\. Schließlich hat das Prozeßgericht den Sachverhalt in jedem Fall der Staatsanwaltschaft anzuzeigen\.
+> Gegen denjenigen, der durch unrichtige oder unvollständige Angaben im Vermögensbekenntnis \(§ 66\) die Verfahrenshilfe erschleicht, hat das Prozeßgericht erster Instanz eine Mutwillensstrafe zu verhängen\. Derjenige, gegen den eine solche Mutwillensstrafe rechtskräftig verhängt worden ist, schuldet überdies \- vorbehaltlich der Nachzahlungspflicht der Partei \(§ 68 Abs\. 2\) \- die Gerichtsgebühren in zweifacher Höhe\. Schließlich hat das Prozeßgericht den Sachverhalt in jedem Fall der Staatsanwaltschaft anzuzeigen\.
 
 ### § 70 ZPO
 
-Die im § 64 Abs\. 1 Z 1 genannten Beträge, von deren Bestreitung die Partei einstweilen befreit ist, sowie die der Partei gemäß § 64 Abs\. 1 Z 5 einstweilen ersetzten Reisekosten sind unmittelbar beim Gegner einzuheben, soweit diesem die Kosten des Rechtsstreits auferlegt worden sind oder er sie in einem Vergleich übernommen hat\. Das Gericht hat auch dann, wenn die Partei zwar obsiegt, aber keinen Kostenersatz beansprucht, darüber zu entscheiden, ob und wieweit der Gegner zum Ersatz der im § 64 Abs\. 1 Z 1 und Z 5 genannten Beträge verpflichtet ist\. Wird dieser Beschluss vom Gericht nicht innerhalb von vier Wochen nach rechtskräftiger Entscheidung über die Streitsache gefasst, so hat der Revisor eine Beschlussfassung zu beantragen\. Ist der Gegner der Partei zum Kostenersatz verpflichtet, so ist bei der Kostenfestsetzung so vorzugehen, als wäre der Rechtsanwalt der Partei nicht vorläufig unentgeltlich beigegeben worden\.
+> Die im § 64 Abs\. 1 Z 1 genannten Beträge, von deren Bestreitung die Partei einstweilen befreit ist, sowie die der Partei gemäß § 64 Abs\. 1 Z 5 einstweilen ersetzten Reisekosten sind unmittelbar beim Gegner einzuheben, soweit diesem die Kosten des Rechtsstreits auferlegt worden sind oder er sie in einem Vergleich übernommen hat\. Das Gericht hat auch dann, wenn die Partei zwar obsiegt, aber keinen Kostenersatz beansprucht, darüber zu entscheiden, ob und wieweit der Gegner zum Ersatz der im § 64 Abs\. 1 Z 1 und Z 5 genannten Beträge verpflichtet ist\. Wird dieser Beschluss vom Gericht nicht innerhalb von vier Wochen nach rechtskräftiger Entscheidung über die Streitsache gefasst, so hat der Revisor eine Beschlussfassung zu beantragen\. Ist der Gegner der Partei zum Kostenersatz verpflichtet, so ist bei der Kostenfestsetzung so vorzugehen, als wäre der Rechtsanwalt der Partei nicht vorläufig unentgeltlich beigegeben worden\.
 
 ### § 71 ZPO
 
@@ -1606,11 +1606,11 @@ Die im § 64 Abs\. 1 Z 1 genannten Beträge, von deren Bestreitung die Partei
 
 ### § 74 ZPO — 
 
-Die eine Streitsache betreffenden, außerhalb der mündlichen Verhandlung vorzubringenden Anträge, Gesuche oder Mittheilungen erfolgen, soweit das Gesetz nicht ein Anbringen zu Protokoll gestattet, mittels Schriftsätzen\.
+> Die eine Streitsache betreffenden, außerhalb der mündlichen Verhandlung vorzubringenden Anträge, Gesuche oder Mittheilungen erfolgen, soweit das Gesetz nicht ein Anbringen zu Protokoll gestattet, mittels Schriftsätzen\.
 
 ### § 75 ZPO — 
 
-Jeder Schriftsatz hat zu enthalten:
+> Jeder Schriftsatz hat zu enthalten:
 
 > `1.` die Bezeichnung des Gerichtes, dann der Parteien nach Namen \(Vor\- und Zuname\), soweit bekannt Beschäftigung und Geburtsdatum oder bei Rechtsträgern, die im Firmenbuch eingetragen sind, die Firmenbuchnummer, Wohnort und Parteistellung, die Angabe der für die Parteien handelnden Vertreter und die Bezeichnung des Streitgegenstandes;
 
@@ -1645,11 +1645,11 @@ Jeder Schriftsatz hat zu enthalten:
 ### § 78 ZPO — 
 
 > `(1)` Schriftsätze, die zur Vorbereitung einer mündlichen Verhandlung bestimmt sind \(vorbereitende Schriftsätze\), haben nebst den sonstigen Erfordernissen eines Schriftsatzes zu enthalten:
-> 
+>
 >> `1.` die Anträge, welche die Partei bei der mündlichen Verhandlung zu stellen beabsichtigt;
-> 
+>
 >> `2.` eine der Vorschrift des §\. 76 entsprechende Darstellung der thatsächlichen Verhältnisse, auf welche sich die Partei zur Begründung ihrer Anträge oder zur Bekämpfung gegnerischer Anträge bei der mündlichen Verhandlung berufen will, sowie die Angabe der Beweismittel, welche die Partei bei dieser Verhandlung zur Bewahrheitung ihrer eigenen Anführungen oder zur Widerlegung thatsächlicher Behauptungen des Gegners zu benützen beabsichtigt;
-> 
+>
 >> `3.` nach Lage der Sache die Erklärungen über die Wahrheit, Richtigkeit und Vollständigkeit des in einem vorausgegangenen Schriftsatze des Gegners enthaltenen thatsächlichen Vorbringens und über die Zulässigkeit der vom Gegner bezeichneten Beweismittel\.
 
 > `(2)` Darlegungen über die Wahrscheinlichkeit oder Glaubwürdigkeit einzelner tatsächlicher Behauptungen oder über die vermutliche Beweiskraft angebotener Beweise dürfen in einen vorbereitenden Schriftsatz nicht aufgenommen werden\.
@@ -1658,7 +1658,7 @@ Jeder Schriftsatz hat zu enthalten:
 
 ### § 79 ZPO — 
 
-Ein die Stelle des Schriftsatzes versehendes protokollarisches Anbringen ist nach den Bestimmungen über die Schriftsätze einzurichten\.
+> Ein die Stelle des Schriftsatzes versehendes protokollarisches Anbringen ist nach den Bestimmungen über die Schriftsätze einzurichten\.
 
 ### § 81 ZPO — 
 
@@ -1700,7 +1700,7 @@ Ein die Stelle des Schriftsatzes versehendes protokollarisches Anbringen ist nac
 
 ### § 86 ZPO — 
 
-Gegen eine Partei, welche die dem Gerichte schuldige Achtung in einem Schriftsatze durch beleidigende Ausfälle verletzt oder welche in einem Schriftsatze den Gegner, einen Vertreter, Bevollmächtigten, Zeugen oder Sachverständigen beleidigt, kann unbeschadet der deshalb etwa eintretenden strafgerichtlichen Verfolgung vom Gerichte eine Ordnungsstrafe verhängt werden\.
+> Gegen eine Partei, welche die dem Gerichte schuldige Achtung in einem Schriftsatze durch beleidigende Ausfälle verletzt oder welche in einem Schriftsatze den Gegner, einen Vertreter, Bevollmächtigten, Zeugen oder Sachverständigen beleidigt, kann unbeschadet der deshalb etwa eintretenden strafgerichtlichen Verfolgung vom Gerichte eine Ordnungsstrafe verhängt werden\.
 
 ### § 86a ZPO
 
@@ -1725,28 +1725,28 @@ Gegen eine Partei, welche die dem Gerichte schuldige Achtung in einem Schriftsat
 ### § 88 ZPO
 
 > `(1)` Zustellungen im Inland sind in der Regel durch die Post durchzuführen\. Die Zustellung durch Bedienstete des Gerichtes oder durch die Gemeinde kann in folgenden Fällen angeordnet werden:
-> 
+>
 >> `1.` wenn für den Ort, an dem zugestellt werden soll, kein Postzustelldienst eingerichtet ist;
-> 
+>
 >> `2.` wenn bei Zustellung durch die Post die Zustellung zu spät käme oder der Zustellnachweis nicht rechtzeitig vorläge;
-> 
+>
 >> `3.` wenn die Person, der zuzustellen ist, oder ihre Anschrift nicht genau bekannt ist und erst durch den Zusteller ermittelt werden soll;
-> 
+>
 >> `4.` wenn das Schriftstück zu einer Zeit zugestellt werden muß, zu der Postzustellungen nicht vorgenommen werden;
-> 
+>
 >> `5.` wenn das Schriftstück anläßlich einer anderen Amtshandlung oder an einen Verhafteten \(Gefangenen\) zuzustellen ist;
-> 
+>
 >> `6.` wenn das Schriftstück in der Umgebung des Gerichtsgebäudes oder im Verkehr mit nahegelegenen Amtsstellen oder Notariatskanzleien zuzustellen ist, und wenn der damit verbundene Verwaltungsaufwand geringer ist als bei Zustellung durch die Post\.
 
 > `(2)` Gerichtsbedienstete dürfen Zustellungen nur innerhalb des Sprengels des Gerichtes, dem sie angehören, Gemeindebedienstete nur innerhalb des Gemeindegebietes durchführen\.
 
 ### § 89 ZPO — 
 
-Die Bestimmung der Zustellungsart obliegt dem Gerichte, dessen Urtheile, Beschlüsse oder Ladungen zugestellt werden sollen oder bei welchem der zuzustellende Schriftsatz überreicht oder das Protokoll aufgenommen worden ist\. Dieses Gericht hat auch die wegen der Zustellung nöthigen Verfügungen zu treffen\.
+> Die Bestimmung der Zustellungsart obliegt dem Gerichte, dessen Urtheile, Beschlüsse oder Ladungen zugestellt werden sollen oder bei welchem der zuzustellende Schriftsatz überreicht oder das Protokoll aufgenommen worden ist\. Dieses Gericht hat auch die wegen der Zustellung nöthigen Verfügungen zu treffen\.
 
 ### § 91 ZPO — 
 
-Wenn das Verhalten einer der mit der Ausführung der Zustellung beauftragten Personen \(Zustellungsorgane\) zur Beschwerde Anlass gibt, so hat der Vorsitzende des Senates, der mit der Aufsicht über die Gerichtskanzlei betraute Richter oder der Gerichtsvorsteher, sobald er hievon Kenntnis erlangt, das Geeignete zu veranlassen, um Abhilfe zu gewähren\. Der Beschwerdegrund kann mündlich angezeigt werden\.
+> Wenn das Verhalten einer der mit der Ausführung der Zustellung beauftragten Personen \(Zustellungsorgane\) zur Beschwerde Anlass gibt, so hat der Vorsitzende des Senates, der mit der Aufsicht über die Gerichtskanzlei betraute Richter oder der Gerichtsvorsteher, sobald er hievon Kenntnis erlangt, das Geeignete zu veranlassen, um Abhilfe zu gewähren\. Der Beschwerdegrund kann mündlich angezeigt werden\.
 
 ### § 92 ZPO
 
@@ -1782,7 +1782,7 @@ Wenn das Verhalten einer der mit der Ausführung der Zustellung beauftragten Per
 
 ### § 99 ZPO
 
-Der für eine einzelne Person bestellte Zustellungsbevollmächtigte hat dieser die für sie bestimmten, ihm zugestellten Schriftstücke jeweils ohne Aufschub zu übersenden\. Der gemeinschaftliche Zustellungsbevollmächtigte hat, wenn nicht durch Vereinbarung etwas anderes bestimmt ist, unverzüglich den Personen, für welche er die Zustellung übernommen hat, Einsicht in die empfangenen Schriftstücke zu gewähren und die Herstellung von Abschriften davon zu ermöglichen\.
+> Der für eine einzelne Person bestellte Zustellungsbevollmächtigte hat dieser die für sie bestimmten, ihm zugestellten Schriftstücke jeweils ohne Aufschub zu übersenden\. Der gemeinschaftliche Zustellungsbevollmächtigte hat, wenn nicht durch Vereinbarung etwas anderes bestimmt ist, unverzüglich den Personen, für welche er die Zustellung übernommen hat, Einsicht in die empfangenen Schriftstücke zu gewähren und die Herstellung von Abschriften davon zu ermöglichen\.
 
 ### § 100 ZPO — 
 
@@ -1796,7 +1796,7 @@ Der für eine einzelne Person bestellte Zustellungsbevollmächtigte hat dieser d
 
 ### § 103 ZPO
 
-Die Ersatzzustellung an eine im § 16 Abs\. 2 des Zustellgesetzes genannte Person darf nicht erfolgen, wenn sie an dem Rechtsstreit als Gegner des Empfängers beteiligt ist\.
+> Die Ersatzzustellung an eine im § 16 Abs\. 2 des Zustellgesetzes genannte Person darf nicht erfolgen, wenn sie an dem Rechtsstreit als Gegner des Empfängers beteiligt ist\.
 
 ## Zustellung von Klagen
 
@@ -1808,19 +1808,19 @@ Die Ersatzzustellung an eine im § 16 Abs\. 2 des Zustellgesetzes genannte Per
 
 ### § 112 ZPO
 
-Sind beide Parteien durch Rechtsanwälte vertreten, so hat jeder dieser Rechtsanwälte, der einen Schriftsatz einbringt, die für den Gegner bestimmte Gleichschrift dessen Rechtsanwalt durch einen Boten, die Post oder mittels Telefax oder elektronischer Post direkt zu übersenden; diese Übersendung ist auf dem dem Gericht überreichten Stück des Schriftsatzes zu vermerken\. Dies gilt nicht für Schriftsätze, die dem Empfänger zu eigenen Handen zuzustellen sind oder durch deren Zustellung eine Notfrist in Lauf gesetzt wird\.
+> Sind beide Parteien durch Rechtsanwälte vertreten, so hat jeder dieser Rechtsanwälte, der einen Schriftsatz einbringt, die für den Gegner bestimmte Gleichschrift dessen Rechtsanwalt durch einen Boten, die Post oder mittels Telefax oder elektronischer Post direkt zu übersenden; diese Übersendung ist auf dem dem Gericht überreichten Stück des Schriftsatzes zu vermerken\. Dies gilt nicht für Schriftsätze, die dem Empfänger zu eigenen Handen zuzustellen sind oder durch deren Zustellung eine Notfrist in Lauf gesetzt wird\.
 
 ## Zustellung durch öffentliche Bekanntmachung.
 
 ### § 115 ZPO
 
-Durch öffentliche Bekanntmachung \(§ 25 des Zustellgesetzes\) ist zuzustellen, wenn das Vorliegen der dafür erforderlichen Voraussetzungen glaubhaft gemacht wird\. Die öffentliche Bekanntmachung erfolgt durch Aufnahme einer Mitteilung in die Ediktsdatei, dass ein zuzustellendes Schriftstück bei Gericht liegt\. Die Mitteilung hat auch eine kurze Angabe des Inhalts des zuzustellenden Schriftstücks, die Bezeichnung des Prozessgerichts und der Streitsache sowie die Möglichkeiten zur Abholung des Schriftstücks und einen Hinweis auf die Rechtsfolgen dieser Bekanntmachung zu enthalten\. Mit der Aufnahme in die Ediktsdatei gilt die Zustellung als vollzogen\.
+> Durch öffentliche Bekanntmachung \(§ 25 des Zustellgesetzes\) ist zuzustellen, wenn das Vorliegen der dafür erforderlichen Voraussetzungen glaubhaft gemacht wird\. Die öffentliche Bekanntmachung erfolgt durch Aufnahme einer Mitteilung in die Ediktsdatei, dass ein zuzustellendes Schriftstück bei Gericht liegt\. Die Mitteilung hat auch eine kurze Angabe des Inhalts des zuzustellenden Schriftstücks, die Bezeichnung des Prozessgerichts und der Streitsache sowie die Möglichkeiten zur Abholung des Schriftstücks und einen Hinweis auf die Rechtsfolgen dieser Bekanntmachung zu enthalten\. Mit der Aufnahme in die Ediktsdatei gilt die Zustellung als vollzogen\.
 
 ## Zustellung an den Curator.
 
 ### § 116 ZPO — 
 
-Für Personen, an welche die Zustellung wegen Unbekanntheit des Aufenthaltes nur durch öffentliche Bekanntmachung geschehen könnte, hat das Gericht auf Antrag oder von amtswegen einen Curator zu bestellen \(§\. 9\), wenn diese Personen infolge der an sie zu bewirkenden Zustellung zur Wahrung ihrer Rechte eine Processhandlung vorzunehmen hätten und insbesondere, wenn das zuzustellende Schriftstück eine Ladung derselben enthält\.
+> Für Personen, an welche die Zustellung wegen Unbekanntheit des Aufenthaltes nur durch öffentliche Bekanntmachung geschehen könnte, hat das Gericht auf Antrag oder von amtswegen einen Curator zu bestellen \(§\. 9\), wenn diese Personen infolge der an sie zu bewirkenden Zustellung zur Wahrung ihrer Rechte eine Processhandlung vorzunehmen hätten und insbesondere, wenn das zuzustellende Schriftstück eine Ladung derselben enthält\.
 
 ### § 117 ZPO — 
 
@@ -1859,11 +1859,11 @@ Für Personen, an welche die Zustellung wegen Unbekanntheit des Aufenthaltes nur
 
 ### § 123 ZPO — 
 
-Soweit die Dauer der Fristen zur Vornahme von Processhandlungen nicht unmittelbar durch das Gesetz bestimmt wird \(gesetzliche Fristen\), hat sie der Richter mit Rücksicht auf die Erfordernisse und die Beschaffenheit des einzelnen Falles festzusetzen \(richterliche Fristen\)\.
+> Soweit die Dauer der Fristen zur Vornahme von Processhandlungen nicht unmittelbar durch das Gesetz bestimmt wird \(gesetzliche Fristen\), hat sie der Richter mit Rücksicht auf die Erfordernisse und die Beschaffenheit des einzelnen Falles festzusetzen \(richterliche Fristen\)\.
 
 ### § 124 ZPO — 
 
-Der Lauf einer richterlichen Frist beginnt, sofern nicht bei Festsetzung derselben etwas anderes bestimmt wurde, mit Zustellung des die Frist anordnenden Beschlusses an die Partei, welcher die Frist zugute kommt; wenn es aber einer Zustellung des Beschlusses nicht bedarf, mit der Verkündung des Beschlusses\.
+> Der Lauf einer richterlichen Frist beginnt, sofern nicht bei Festsetzung derselben etwas anderes bestimmt wurde, mit Zustellung des die Frist anordnenden Beschlusses an die Partei, welcher die Frist zugute kommt; wenn es aber einer Zustellung des Beschlusses nicht bedarf, mit der Verkündung des Beschlusses\.
 
 ### § 125 ZPO — 
 
@@ -1939,7 +1939,7 @@ Der Lauf einer richterlichen Frist beginnt, sofern nicht bei Festsetzung derselb
 
 ### § 134 ZPO — 
 
-Tagsatzungen können nur durch richterliche Entscheidung verlegt werden \(Erstreckung\)\. Solche Erstreckung kann auf Antrag oder von amtswegen stattfinden:
+> Tagsatzungen können nur durch richterliche Entscheidung verlegt werden \(Erstreckung\)\. Solche Erstreckung kann auf Antrag oder von amtswegen stattfinden:
 
 > `1.` wenn sich dem rechtzeitigen Erscheinen einer oder beider Parteien oder der Aufnahme oder Fortsetzung der Verhandlung zwischen ihnen ein für sie unübersteigliches oder doch ein sehr erhebliches Hindernis entgegenstellt und insbesondere ohne die Erstreckung eine Partei einen nicht wieder gut zu machenden Schaden oder, für den Fall einer technischen Störung der Wort\- und Bildübertragung bei einer nach § 132a anberaumten Tagsatzung, prozessualen Nachteil erleiden würde;
 
@@ -1971,11 +1971,11 @@ Tagsatzungen können nur durch richterliche Entscheidung verlegt werden \(Erstre
 
 ### § 138 ZPO — 
 
-Wenn nicht wegen einer Veränderung in der Besetzung des Gerichtes eine neuerliche Verhandlung stattfinden muss, hat im Falle der Erstreckung einer Tagsatzung der Richter oder der Vorsitzende des Senates, vor welchem die Verhandlung stattfindet, bei der späteren Tagsatzung die wesentlichen Ergebnisse der früheren mündlichen Verhandlung auf Grund des Verhandlungsprotokolles und der sonst zu berücksichtigenden Processacten mündlich vorzuführen und die Fortsetzung der abgebrochenen Verhandlung hieran anzuknüpfen\.
+> Wenn nicht wegen einer Veränderung in der Besetzung des Gerichtes eine neuerliche Verhandlung stattfinden muss, hat im Falle der Erstreckung einer Tagsatzung der Richter oder der Vorsitzende des Senates, vor welchem die Verhandlung stattfindet, bei der späteren Tagsatzung die wesentlichen Ergebnisse der früheren mündlichen Verhandlung auf Grund des Verhandlungsprotokolles und der sonst zu berücksichtigenden Processacten mündlich vorzuführen und die Fortsetzung der abgebrochenen Verhandlung hieran anzuknüpfen\.
 
 ### § 139 ZPO — 
 
-Wenn die Zustellung eines vorbereitenden Schriftsatzes oder einer Protokollsabschrift, über welche eine Ladung erging, derart verzögert wird, dass die zwischen der Zustellung der Ladung und der anberaumten Tagsatzung liegende Frist dem Gegner eine genügende Vorbereitung für die mündliche Verhandlung oder in den Fällen des Anwaltsprocesses die rechtzeitige Bestellung eines Rechtsanwalts nicht mehr gestattet, und wenn zugleich der Gegner an dieser Verzögerung der Zustellung keine Schuld trägt, so hat das Gericht oder im Verfahren vor Gerichtshöfen der Vorsitzende des Senates, vor welchem die Verhandlung stattfinden soll, die anberaumte Tagsatzung auf Antrag oder von amtswegen, noch vor ihrer Abhaltung zu erstrecken\. Hievon sind alle zur Tagsatzung geladenen Personen ohne Aufschub zu verständigen\.
+> Wenn die Zustellung eines vorbereitenden Schriftsatzes oder einer Protokollsabschrift, über welche eine Ladung erging, derart verzögert wird, dass die zwischen der Zustellung der Ladung und der anberaumten Tagsatzung liegende Frist dem Gegner eine genügende Vorbereitung für die mündliche Verhandlung oder in den Fällen des Anwaltsprocesses die rechtzeitige Bestellung eines Rechtsanwalts nicht mehr gestattet, und wenn zugleich der Gegner an dieser Verzögerung der Zustellung keine Schuld trägt, so hat das Gericht oder im Verfahren vor Gerichtshöfen der Vorsitzende des Senates, vor welchem die Verhandlung stattfinden soll, die anberaumte Tagsatzung auf Antrag oder von amtswegen, noch vor ihrer Abhaltung zu erstrecken\. Hievon sind alle zur Tagsatzung geladenen Personen ohne Aufschub zu verständigen\.
 
 ## Gemeinsame Bestimmungen.
 
@@ -1987,7 +1987,7 @@ Wenn die Zustellung eines vorbereitenden Schriftsatzes oder einer Protokollsabsc
 
 ### § 141 ZPO — 
 
-Die erste Verlängerung einer Frist und die erste Erstreckung einer Tagsatzung kann durch ein Rechtsmittel nicht angefochten werden, soferne die bewilligte Fristverlängerung die Dauer der ursprünglichen Frist und die bewilligte Erstreckung der Tagsatzung die Dauer von vier Wochen nicht überschreitet\. Gegen die Verweigerung der Abkürzung einer Frist ist ein Rechtsmittel ausgeschlossen\.
+> Die erste Verlängerung einer Frist und die erste Erstreckung einer Tagsatzung kann durch ein Rechtsmittel nicht angefochten werden, soferne die bewilligte Fristverlängerung die Dauer der ursprünglichen Frist und die bewilligte Erstreckung der Tagsatzung die Dauer von vier Wochen nicht überschreitet\. Gegen die Verweigerung der Abkürzung einer Frist ist ein Rechtsmittel ausgeschlossen\.
 
 ### § 142 ZPO — 
 
@@ -1999,7 +1999,7 @@ Die erste Verlängerung einer Frist und die erste Erstreckung einer Tagsatzung k
 
 ### § 143 ZPO — 
 
-Die in diesem Titel dem Gerichte oder dem Vorsitzenden des Senates beigelegten Befugnisse stehen auch dem beauftragten oder ersuchten Richter in Ansehung der von demselben zu bestimmenden Fristen und Tagsatzungen zu\.
+> Die in diesem Titel dem Gerichte oder dem Vorsitzenden des Senates beigelegten Befugnisse stehen auch dem beauftragten oder ersuchten Richter in Ansehung der von demselben zu bestimmenden Fristen und Tagsatzungen zu\.
 
 ## Vierter Titel.
 
@@ -2009,7 +2009,7 @@ Die in diesem Titel dem Gerichte oder dem Vorsitzenden des Senates beigelegten B
 
 ### § 144 ZPO — 
 
-Die Versäumung einer Processhandlung hat, unbeschadet der in diesem Gesetze für einzelne Fälle bestimmten weiteren Wirkungen, zur Folge, dass die Partei von der vorzunehmenden Processhandlung ausgeschlossen wird\.
+> Die Versäumung einer Processhandlung hat, unbeschadet der in diesem Gesetze für einzelne Fälle bestimmten weiteren Wirkungen, zur Folge, dass die Partei von der vorzunehmenden Processhandlung ausgeschlossen wird\.
 
 ### § 145 ZPO — 
 
@@ -2063,11 +2063,11 @@ Die Versäumung einer Processhandlung hat, unbeschadet der in diesem Gesetze fü
 
 ### § 153 ZPO — 
 
-Gegen die Entscheidung, wodurch die Wiedereinsetzung in den vorigen Stand bewilligt wird, ist ein Rechtsmittel nicht zulässig\.
+> Gegen die Entscheidung, wodurch die Wiedereinsetzung in den vorigen Stand bewilligt wird, ist ein Rechtsmittel nicht zulässig\.
 
 ### § 154 ZPO — 
 
-Der Partei, welche die Wiedereinsetzung beantragt hat, ist ohne Rücksicht darauf, ob dem Antrage stattgegeben wurde oder nicht, der Ersatz aller Kosten, welche dem Gegner durch die Versäumung und durch die Verhandlung über den Wiedereinsetzungsantrag verursacht sind, sowie der Ersatz der Kosten des infolge der Wiedereinsetzung unwirksam gewordenen Verfahrens aufzuerlegen\.
+> Der Partei, welche die Wiedereinsetzung beantragt hat, ist ohne Rücksicht darauf, ob dem Antrage stattgegeben wurde oder nicht, der Ersatz aller Kosten, welche dem Gegner durch die Versäumung und durch die Verhandlung über den Wiedereinsetzungsantrag verursacht sind, sowie der Ersatz der Kosten des infolge der Wiedereinsetzung unwirksam gewordenen Verfahrens aufzuerlegen\.
 
 ## Fünfter Titel.
 
@@ -2093,7 +2093,7 @@ Der Partei, welche die Wiedereinsetzung beantragt hat, ist ohne Rücksicht darau
 
 ### § 157 ZPO — 
 
-Wenn die geladenen Rechtsnachfolger oder einzelne derselben bei der Tagsatzung erscheinen und die Verpflichtung, in den Process einzutreten, bestreiten, hat das Gericht hierüber nach mündlicher Verhandlung zu entscheiden\. Falls das Gericht im Sinne einer Verpflichtung zur Aufnahme des Verfahrens entscheidet, kann nach Verkündung dieser Entscheidung in der nämlichen Tagsatzung nach Lage der Sache das Verfahren in der Hauptsache aufgenommen oder fortgesetzt werden\. Dies hat insbesondere zu gelten, wenn ein Recurs gegen den verkündeten Beschluss voraussichtlich ohne Erfolg bleiben dürfte\.
+> Wenn die geladenen Rechtsnachfolger oder einzelne derselben bei der Tagsatzung erscheinen und die Verpflichtung, in den Process einzutreten, bestreiten, hat das Gericht hierüber nach mündlicher Verhandlung zu entscheiden\. Falls das Gericht im Sinne einer Verpflichtung zur Aufnahme des Verfahrens entscheidet, kann nach Verkündung dieser Entscheidung in der nämlichen Tagsatzung nach Lage der Sache das Verfahren in der Hauptsache aufgenommen oder fortgesetzt werden\. Dies hat insbesondere zu gelten, wenn ein Recurs gegen den verkündeten Beschluss voraussichtlich ohne Erfolg bleiben dürfte\.
 
 ## Verlust der Processfähigkeit, Wechsel in der Person des gesetzlichen Vertreters.
 
@@ -2109,7 +2109,7 @@ Wenn die geladenen Rechtsnachfolger oder einzelne derselben bei der Tagsatzung e
 
 ### § 159 ZPO
 
-Inwiefern bei Eröffnung eines Insolvenzverfahrens über das Vermögen einer Partei das Verfahren unterbrochen wird, bestimmt die Insolvenzordnung\.
+> Inwiefern bei Eröffnung eines Insolvenzverfahrens über das Vermögen einer Partei das Verfahren unterbrochen wird, bestimmt die Insolvenzordnung\.
 
 ## Wechsel in der Person des Rechtsanwalts.
 
@@ -2153,7 +2153,7 @@ Inwiefern bei Eröffnung eines Insolvenzverfahrens über das Vermögen einer Par
 
 ### § 164 ZPO — 
 
-Die Aufnahme eines unterbrochenen Verfahrens wird, soferne in den vorstehenden Bestimmungen nichts anderes angeordnet ist, durch den Antrag auf Anberaumung einer Tagsatzung zur mündlichen Verhandlung oder zur Fortsetzung der mündlichen Verhandlung, wenn aber die Unterbrechung während des Laufes einer Frist zur Vornahme einer Processhandlung eintrat, durch den Antrag auf neuerliche Bestimmung einer Frist für diese Processhandlung eingeleitet\. Das Erlöschen des Unterbrechungsgrundes ist glaubhaft zu machen\. Diese Bestimmungen gelten insbesondere auch, wenn wegen des Todes einer Partei im Sinne des §\. 811 a\. b\. G\. B\. oder aus anderen Gründen für deren Verlassenschaft ein Curator bestellt worden ist; die Aufnahme kann nicht bloß vom Curator, sondern auch vom Gegner der verstorbenen Partei beantragt werden\.
+> Die Aufnahme eines unterbrochenen Verfahrens wird, soferne in den vorstehenden Bestimmungen nichts anderes angeordnet ist, durch den Antrag auf Anberaumung einer Tagsatzung zur mündlichen Verhandlung oder zur Fortsetzung der mündlichen Verhandlung, wenn aber die Unterbrechung während des Laufes einer Frist zur Vornahme einer Processhandlung eintrat, durch den Antrag auf neuerliche Bestimmung einer Frist für diese Processhandlung eingeleitet\. Das Erlöschen des Unterbrechungsgrundes ist glaubhaft zu machen\. Diese Bestimmungen gelten insbesondere auch, wenn wegen des Todes einer Partei im Sinne des §\. 811 a\. b\. G\. B\. oder aus anderen Gründen für deren Verlassenschaft ein Curator bestellt worden ist; die Aufnahme kann nicht bloß vom Curator, sondern auch vom Gegner der verstorbenen Partei beantragt werden\.
 
 ### § 165 ZPO — 
 
@@ -2171,21 +2171,21 @@ Die Aufnahme eines unterbrochenen Verfahrens wird, soferne in den vorstehenden B
 
 ### § 167 ZPO — 
 
-Die vorstehenden Bestimmungen haben sinngemäß zur Anwendung zu kommen, wenn nach dem gegenwärtigen Gesetze aus anderen als den in diesem Titel bezeichneten Gründen eine Unterbrechung des Verfahrens stattzufinden hat und hierüber nichts Abweichendes angeordnet ist\.
+> Die vorstehenden Bestimmungen haben sinngemäß zur Anwendung zu kommen, wenn nach dem gegenwärtigen Gesetze aus anderen als den in diesem Titel bezeichneten Gründen eine Unterbrechung des Verfahrens stattzufinden hat und hierüber nichts Abweichendes angeordnet ist\.
 
 ## Ruhen des Verfahrens.
 
 ### § 168 ZPO — 
 
-Die Parteien können vereinbaren, dass das Verfahren ruhen solle; eine solche Vereinbarung ist erst von dem Zeitpunkte an wirksam, in welchem sie dem Gerichte von beiden Parteien angezeigt wurde\. Mit dem Ruhen des Verfahrens sind die Rechtswirkungen einer Unterbrechung des Verfahrens mit der Ausnahme verbunden, dass der Lauf von Nothfristen nicht aufhört\. Das Ruhen des Verfahrens hat außerdem zur Folge, dass das Verfahren vor Ablauf von drei Monaten seit der Anzeige der getroffenen Vereinbarung nicht aufgenommen werden kann\.
+> Die Parteien können vereinbaren, dass das Verfahren ruhen solle; eine solche Vereinbarung ist erst von dem Zeitpunkte an wirksam, in welchem sie dem Gerichte von beiden Parteien angezeigt wurde\. Mit dem Ruhen des Verfahrens sind die Rechtswirkungen einer Unterbrechung des Verfahrens mit der Ausnahme verbunden, dass der Lauf von Nothfristen nicht aufhört\. Das Ruhen des Verfahrens hat außerdem zur Folge, dass das Verfahren vor Ablauf von drei Monaten seit der Anzeige der getroffenen Vereinbarung nicht aufgenommen werden kann\.
 
 ### § 169 ZPO — 
 
-Das Ruhen des Verfahrens dauert so lange, bis von einer der Parteien die Anberaumung einer Tagsatzung zur mündlichen Verhandlung oder, wenn das Verfahren während des Laufes einer Frist zur Vornahme einer Processhandlung eingestellt wurde, die neuerliche Bestimmung einer Frist für diese Processhandlung beantragt wird\. Geschieht dies vor Ablauf der dreimonatigen Frist \(§\. 168\) oder der zwischen den Parteien für das Ruhen des Verfahrens vereinbarten Zeit, so hat das Gericht den bezüglichen Antrag von amtswegen oder auf Begehren des Gegners ohne Verhandlung zurückzuweisen oder die Unwirksamkeit der etwa verfolgten Anberaumung einer Tagsatzung oder Fristbestimmung auszusprechen\.
+> Das Ruhen des Verfahrens dauert so lange, bis von einer der Parteien die Anberaumung einer Tagsatzung zur mündlichen Verhandlung oder, wenn das Verfahren während des Laufes einer Frist zur Vornahme einer Processhandlung eingestellt wurde, die neuerliche Bestimmung einer Frist für diese Processhandlung beantragt wird\. Geschieht dies vor Ablauf der dreimonatigen Frist \(§\. 168\) oder der zwischen den Parteien für das Ruhen des Verfahrens vereinbarten Zeit, so hat das Gericht den bezüglichen Antrag von amtswegen oder auf Begehren des Gegners ohne Verhandlung zurückzuweisen oder die Unwirksamkeit der etwa verfolgten Anberaumung einer Tagsatzung oder Fristbestimmung auszusprechen\.
 
 ### § 170 ZPO — 
 
-Wenn bei einer zur mündlichen Verhandlung anberaumten Tagsatzung keine der Parteien erscheint, hat dies, soweit nicht solches Ausbleiben nach den Bestimmungen dieses Gesetzes ohne Einfluss auf den Fortgang des Processes ist, das Ruhen des Verfahrens zur Folge\. Die Wiedereinsetzung in den vorigen Stand ist nicht ausgeschlossen\.
+> Wenn bei einer zur mündlichen Verhandlung anberaumten Tagsatzung keine der Parteien erscheint, hat dies, soweit nicht solches Ausbleiben nach den Bestimmungen dieses Gesetzes ohne Einfluss auf den Fortgang des Processes ist, das Ruhen des Verfahrens zur Folge\. Die Wiedereinsetzung in den vorigen Stand ist nicht ausgeschlossen\.
 
 ## Dritter Abschnitt.
 
@@ -2237,7 +2237,7 @@ Wenn bei einer zur mündlichen Verhandlung anberaumten Tagsatzung keine der Part
 
 ### § 176 ZPO — 
 
-Vor dem erkennenden Gerichte verhandeln die Parteien über den Rechtsstreit mündlich\. In Rechtssachen, in welchen die Vertretung durch Rechtsanwälte geboten ist, wird die mündliche Verhandlung durch Schriftsätze vorbereitet\. Außerdem ist die Überreichung vorbereitender Schriftsätze nur in den in diesem Gesetze besonders bezeichneten Fällen nothwendig\.
+> Vor dem erkennenden Gerichte verhandeln die Parteien über den Rechtsstreit mündlich\. In Rechtssachen, in welchen die Vertretung durch Rechtsanwälte geboten ist, wird die mündliche Verhandlung durch Schriftsätze vorbereitet\. Außerdem ist die Überreichung vorbereitender Schriftsätze nur in den in diesem Gesetze besonders bezeichneten Fällen nothwendig\.
 
 ### § 177 ZPO — 
 
@@ -2253,7 +2253,7 @@ Vor dem erkennenden Gerichte verhandeln die Parteien über den Rechtsstreit mün
 
 ### § 179 ZPO
 
-Die Parteien können bis zum Schluss der mündlichen Verhandlung neue auf den Gegenstand dieser Verhandlung bezügliche tatsächliche Behauptungen und Beweismittel vorbringen\. Solches Vorbringen kann jedoch vom Gericht auf Antrag oder von Amts wegen zurückgewiesen werden, wenn es, insbesondere im Hinblick auf die Erörterung des Sach\- und Rechtsvorbringens \(§ 182a\), grob schuldhaft nicht früher vorgebracht wurde und seine Zulassung die Erledigung des Verfahrens erheblich verzögern würde\. Gegen den Beschluss ist ein abgesondertes Rechtsmittel nicht zulässig\.
+> Die Parteien können bis zum Schluss der mündlichen Verhandlung neue auf den Gegenstand dieser Verhandlung bezügliche tatsächliche Behauptungen und Beweismittel vorbringen\. Solches Vorbringen kann jedoch vom Gericht auf Antrag oder von Amts wegen zurückgewiesen werden, wenn es, insbesondere im Hinblick auf die Erörterung des Sach\- und Rechtsvorbringens \(§ 182a\), grob schuldhaft nicht früher vorgebracht wurde und seine Zulassung die Erledigung des Verfahrens erheblich verzögern würde\. Gegen den Beschluss ist ein abgesondertes Rechtsmittel nicht zulässig\.
 
 ## Processleitung.
 
@@ -2269,7 +2269,7 @@ Die Parteien können bis zum Schluss der mündlichen Verhandlung neue auf den Ge
 
 ### § 181 ZPO — 
 
-Wenn die Fortsetzung einer bereits begonnenen Verhandlung auf eine spätere Tagsatzung verlegt werden muss, hat der Vorsitzende nicht nur, sofern dies möglich ist, die neue Tagsatzung sofort zu bestimmen, sondern zugleich von amtswegen alle Verfügungen zu treffen, welche erforderlich sind, um die Streitsache bei der nächsten Tagsatzung erledigen zu können\. Vor Erlassung solcher Verfügungen kann der Vorsitzende, wenn es ihm nöthig scheint, eine Beschlussfassung des Senates einholen\.
+> Wenn die Fortsetzung einer bereits begonnenen Verhandlung auf eine spätere Tagsatzung verlegt werden muss, hat der Vorsitzende nicht nur, sofern dies möglich ist, die neue Tagsatzung sofort zu bestimmen, sondern zugleich von amtswegen alle Verfügungen zu treffen, welche erforderlich sind, um die Streitsache bei der nächsten Tagsatzung erledigen zu können\. Vor Erlassung solcher Verfügungen kann der Vorsitzende, wenn es ihm nöthig scheint, eine Beschlussfassung des Senates einholen\.
 
 ### § 182 ZPO — 
 
@@ -2281,18 +2281,18 @@ Wenn die Fortsetzung einer bereits begonnenen Verhandlung auf eine spätere Tags
 
 ### § 182a ZPO
 
-Das Gericht hat das Sach\- und Rechtsvorbringen der Parteien mit diesen zu erörtern\. Außer in Nebenansprüchen darf das Gericht seine Entscheidung auf rechtliche Gesichtspunkte, die eine Partei erkennbar übersehen oder für unerheblich gehalten hat, nur stützen, wenn es diese mit den Parteien erörtert \(§ 182\) und ihnen Gelegenheit zur Äußerung gegeben hat\.
+> Das Gericht hat das Sach\- und Rechtsvorbringen der Parteien mit diesen zu erörtern\. Außer in Nebenansprüchen darf das Gericht seine Entscheidung auf rechtliche Gesichtspunkte, die eine Partei erkennbar übersehen oder für unerheblich gehalten hat, nur stützen, wenn es diese mit den Parteien erörtert \(§ 182\) und ihnen Gelegenheit zur Äußerung gegeben hat\.
 
 ### § 183 ZPO — 
 
 > `(1)` Behufs Erfüllung der dem Vorsitzenden nach §\. 182 obliegenden Verpflichtungen kann der Vorsitzende insbesondere:
-> 
+>
 >> `1.` die Parteien zum persönlichen Erscheinen bei der mündlichen Verhandlung auffordern;
-> 
+>
 >> `2.` verfügen, dass die Parteien in ihren Händen befindliche Urkunden, auf welche sich die eine oder die andere berufen hat, Acten, Auskunftssachen oder Augenscheinsgegenstände, ferner Stammbäume, Pläne, Risse und sonstige Zeichnungen und Zusammenstellungen in Urschrift oder Abschrift vorlegen und eine bestimmte Zeit bei Gericht belassen oder zur mündlichen Verhandlung mitbringen;
-> 
+>
 >> `3.` die Herbeischaffung der bei einer öffentlichen Behörde oder bei einem Notar verwahrten Urkunden, auf welche sich eine der Parteien bezogen hat, der Auskunftssachen und Augenscheinsgegenstände veranlassen;
-> 
+>
 >> `4.` die Vornahme eines Augenscheines unter Zuziehung der Parteien und die Begutachtung durch Sachverständige anordnen, sowie Personen, von denen nach der Klage oder dem Gange der Verhandlung Aufklärung über erhebliche Tatsachen zu erwarten ist, als Zeugen laden oder, falls bereits eine Tagsatzung zur mündlichen Streitverhandlung abgehalten wurde, durch den ersuchten Richter unter Zuziehung der Parteien vernehmen lassen\.
 
 > `(2)` Diese Verfügungen können jedoch vom Vorsitzenden in Ansehung von Urkunden und Zeugen nicht getroffen werden, wenn sich beide Parteien dagegen erklären\.
@@ -2328,7 +2328,7 @@ Das Gericht hat das Sach\- und Rechtsvorbringen der Parteien mit diesen zu erör
 
 ### § 188 ZPO — 
 
-Der Senat kann anordnen, dass über mehrere in derselben Klage erhobene Ansprüche getrennt verhandelt werde\. Ebenso kann eine getrennte Verhandlung über die vom Beklagten geltend gemachten Gegenforderungen angeordnet werden\.
+> Der Senat kann anordnen, dass über mehrere in derselben Klage erhobene Ansprüche getrennt verhandelt werde\. Ebenso kann eine getrennte Verhandlung über die vom Beklagten geltend gemachten Gegenforderungen angeordnet werden\.
 
 ### § 189 ZPO — 
 
@@ -2370,11 +2370,11 @@ Der Senat kann anordnen, dass über mehrere in derselben Klage erhobene Ansprüc
 
 ### § 194 ZPO — 
 
-Der Senat kann die Wiedereröffnung einer bereits geschlossenen Verhandlung anordnen, wenn sich zum Zwecke der Entscheidung eine Aufklärung oder Ergänzung des Vorgebrachten oder die Erörterung über den Beweis einer Thatsache als nothwendig zeigt, welche der Senat erst nach Schluss der Verhandlung als beweisbedürftig erkannt hat, ferner wenn der Senat im Falle des §\. 193 Absatz 3, nach Einlangen der Beweisaufnahmeacten mit Rücksicht auf die Ergebnisse der Beweisaufnahme oder auf die von den Parteien bei der Beweisaufnahme abgegebenen Erklärungen eine weitere Verhandlung für nothwendig hält\.
+> Der Senat kann die Wiedereröffnung einer bereits geschlossenen Verhandlung anordnen, wenn sich zum Zwecke der Entscheidung eine Aufklärung oder Ergänzung des Vorgebrachten oder die Erörterung über den Beweis einer Thatsache als nothwendig zeigt, welche der Senat erst nach Schluss der Verhandlung als beweisbedürftig erkannt hat, ferner wenn der Senat im Falle des §\. 193 Absatz 3, nach Einlangen der Beweisaufnahmeacten mit Rücksicht auf die Ergebnisse der Beweisaufnahme oder auf die von den Parteien bei der Beweisaufnahme abgegebenen Erklärungen eine weitere Verhandlung für nothwendig hält\.
 
 ### § 195 ZPO — 
 
-Die in den §§\. 180 bis 194 dem Vorsitzenden des Senates und dem Senate beigelegten Befugnisse kommen im Verfahren vor dem Einzelrichter diesem zu\.
+> Die in den §§\. 180 bis 194 dem Vorsitzenden des Senates und dem Senate beigelegten Befugnisse kommen im Verfahren vor dem Einzelrichter diesem zu\.
 
 ## Rüge von Mängeln.
 
@@ -2392,7 +2392,7 @@ Die in den §§\. 180 bis 194 dem Vorsitzenden des Senates und dem Senate beigel
 
 ### § 197 ZPO — 
 
-Bei Verhandlungen vor Gerichtshöfen hat der Vorsitzende des Senates für die Aufrechthaltung der Ordnung bei der mündlichen Verhandlung zu sorgen\. Er ist berechtigt, Personen, welche durch unangemessenes Betragen die Verhandlung stören, zur Ordnung zu ermahnen und die zur Aufrechthaltung der Ordnung nöthigen Verfügungen zu treffen\.
+> Bei Verhandlungen vor Gerichtshöfen hat der Vorsitzende des Senates für die Aufrechthaltung der Ordnung bei der mündlichen Verhandlung zu sorgen\. Er ist berechtigt, Personen, welche durch unangemessenes Betragen die Verhandlung stören, zur Ordnung zu ermahnen und die zur Aufrechthaltung der Ordnung nöthigen Verfügungen zu treffen\.
 
 ### § 198 ZPO — 
 
@@ -2426,7 +2426,7 @@ Bei Verhandlungen vor Gerichtshöfen hat der Vorsitzende des Senates für die Au
 
 ### § 203 ZPO — 
 
-Die in diesem Titel dem Vorsitzenden des Senates und dem Senate beigelegten Befugnisse stehen auch dem Einzelrichter, vor welchem die mündliche Verhandlung stattfindet, und dem ersuchten oder beauftragten Richter bei den vor ihnen stattfindenden Verhandlungen und Beweisaufnahmen, sowie bei Vornahme von Amtshandlungen außerhalb einer mündlichen Verhandlung zu\.
+> Die in diesem Titel dem Vorsitzenden des Senates und dem Senate beigelegten Befugnisse stehen auch dem Einzelrichter, vor welchem die mündliche Verhandlung stattfindet, und dem ersuchten oder beauftragten Richter bei den vor ihnen stattfindenden Verhandlungen und Beweisaufnahmen, sowie bei Vornahme von Amtshandlungen außerhalb einer mündlichen Verhandlung zu\.
 
 ## Vierter Titel.
 
@@ -2440,7 +2440,7 @@ Die in diesem Titel dem Vorsitzenden des Senates und dem Senate beigelegten Befu
 
 ### § 206 ZPO — 
 
-Den Parteien sind auf ihr Verlangen und auf ihre Kosten Ausfertigungen des Vergleichsprotokolles oder des den Vergleich enthaltenden Verhandlungsprotokolles zu ertheilen\.
+> Den Parteien sind auf ihr Verlangen und auf ihre Kosten Ausfertigungen des Vergleichsprotokolles oder des den Vergleich enthaltenden Verhandlungsprotokolles zu ertheilen\.
 
 ## Fünfter Titel.
 
@@ -2457,11 +2457,11 @@ Den Parteien sind auf ihr Verlangen und auf ihre Kosten Ausfertigungen des Vergl
 ### § 208 ZPO — Inhalt des Verhandlungsprotokolls
 
 > `(1)` Das Protokoll hat außer den durch das Gesetz im einzelnen angeordneten Aufzeichnungen und Angaben jedenfalls zu enthalten:
-> 
+>
 >> `1.` die Benennung des Gerichts, die Namen der Richter und, wenn ein Schriftführer oder ein Dolmetscher zugezogen wird, deren Namen; die Angabe von Zeit, Ort und Dauer der Verhandlung, und bei einer Verhandlung vor dem erkennenden Gericht die Angabe, ob die Verhandlung öffentlich durchgeführt wurde oder die Öffentlichkeit ausgeschlossen war;
-> 
+>
 >> `2.` die Namen der Parteien und ihrer Vertreter sowie die kurze Bezeichnung des Streitgegenstandes;
-> 
+>
 >> `3.` die Benennung und die Namen der Personen, welche als Parteien oder als deren Vertreter oder Bevollmächtigte zur Verhandlung erschienen sind, sowie die Angabe, ob und welche dieser Personen unter Verwendung technischer Kommunikationsmittel zur Wort\- und Bildübertragung teilgenommen haben\.
 
 > `(2)` Im Verhandlungsprotokoll sind der Verlauf und der Inhalt der Verhandlung in gedrängt zusammenfassender Form darzustellen\. Insbesondere sind die während der Verhandlung von den Parteien abgegebenen wesentlichen Erklärungen und die gestellten Anträge, soweit sie für den Gang oder die Entscheidung des Verfahrens erheblich sind, der zusammengefasste Inhalt des sich auf den Sachverhalt beziehenden beiderseitigen Vorbringens und die angebotenen Beweismittel, der wesentliche Inhalt der Erörterung des Sach\- und Rechtsvorbringens samt dem wesentlichen Inhalt des Prozessprogramms, eine zusammenfassende Wiedergabe der Inhalte der Beweisaufnahmen sowie die bei der Verhandlung gefällten und verkündeten gerichtlichen Entscheidungen aufzunehmen\.
@@ -2506,11 +2506,11 @@ Den Parteien sind auf ihr Verlangen und auf ihre Kosten Ausfertigungen des Vergl
 
 ### § 212 ZPO — Außerhalb einer Verhandlung aufgenommene Protokolle
 
-Die vorstehenden Bestimmungen dieses Titels gelten auch für Protokolle, die außerhalb einer mündlichen Verhandlung aufgenommen werden\.
+> Die vorstehenden Bestimmungen dieses Titels gelten auch für Protokolle, die außerhalb einer mündlichen Verhandlung aufgenommen werden\.
 
 ### § 213 ZPO — Bedeutung des Protokollinhalts
 
-Der Inhalt des Verhandlungsprotokolls, des im Laufe eines Rechtsstreites durch einen beauftragten oder ersuchten Richter aufgenommenen Protokolls und des außerhalb einer Verhandlung aufgenommenen Protokolls samt deren jeweiligen Anlagen, die dem erkennenden Gericht vorliegen, sind von Amts wegen zu beachten\.
+> Der Inhalt des Verhandlungsprotokolls, des im Laufe eines Rechtsstreites durch einen beauftragten oder ersuchten Richter aufgenommenen Protokolls und des außerhalb einer Verhandlung aufgenommenen Protokolls samt deren jeweiligen Anlagen, die dem erkennenden Gericht vorliegen, sind von Amts wegen zu beachten\.
 
 ## Sechster Titel.
 
@@ -2518,7 +2518,7 @@ Der Inhalt des Verhandlungsprotokolls, des im Laufe eines Rechtsstreites durch e
 
 ### § 218 ZPO — 
 
-Jede Partei kann zur Begründung ihrer Anträge auch auf die ihr auf Veranlassung des Gegners zugestellten Schriftstücke Bezug nehmen\. Sie kann, wenn diese Schriftstücke in Verlust gerathen sind, und sich auch kein Exemplar derselben bei Gericht befindet, verlangen, dass ihr der Gegner gestatte, auf ihre Kosten von den in seinen Händen befindlichen bezüglichen Schriftstücken Abschriften zu nehmen\.
+> Jede Partei kann zur Begründung ihrer Anträge auch auf die ihr auf Veranlassung des Gegners zugestellten Schriftstücke Bezug nehmen\. Sie kann, wenn diese Schriftstücke in Verlust gerathen sind, und sich auch kein Exemplar derselben bei Gericht befindet, verlangen, dass ihr der Gegner gestatte, auf ihre Kosten von den in seinen Händen befindlichen bezüglichen Schriftstücken Abschriften zu nehmen\.
 
 ### § 219 ZPO — 
 
@@ -2557,25 +2557,25 @@ Jede Partei kann zur Begründung ihrer Anträge auch auf die ihr auf Veranlassun
 > `(1)` Zwischen dem 15\. Juli und dem 17\. August sowie dem 24\. Dezember und dem 6\. Jänner werden die Notfristen im Berufungs\- und Revisionsverfahren sowie im Rekurs\- und Revisionsrekursverfahren gehemmt\. Fällt der Anfang dieses Zeitraums in den Lauf einer solchen Notfrist oder der Beginn einer solchen Notfrist in diesen Zeitraum, so wird die Notfrist um die ganze Dauer oder um den bei ihrem Beginn noch übrigen Teil dieses Zeitraums verlängert\.
 
 > `(2)` Auf den Anfang und den Ablauf der Notfristen im Berufungs\- und Revisionsverfahren gegen Versäumungs\- und Anerkenntnisurteile hat der Zeitraum nach Abs\. 1 keinen Einfluss\. Gleiches gilt für das Berufungs\- und Revisionsverfahren sowie das Rekurs\- und Revisionsrekursverfahren in
-> 
+>
 >> `1.` Wechselstreitigkeiten,
-> 
+>
 >> `2.` Streitigkeiten über die Fortsetzung eines angefangenen Baues,
-> 
+>
 >> `3.` Streitigkeiten wegen Störung des Besitzstandes bei Sachen und bei Rechten, wenn das Klagebegehren nur auf den Schutz und die Wiederherstellung des letzten Besitzstandes gerichtet ist,
-> 
+>
 >> `4.` Streitigkeiten über die dem Vater eines unehelichen Kindes gegenüber der Mutter des Kindes gesetzlich obliegenden Pflichten und Streitigkeiten über den aus dem Gesetz gebührenden Unterhalt,
-> 
+>
 >> `5.` die in den §§ 35 bis 37 EO bezeichneten Streitigkeiten,
-> 
+>
 >> `6.` Verfahren über Anträge auf Bewilligung, Einschränkung oder Aufhebung von einstweiligen Verfügungen,
-> 
+>
 >> `7.` Verfahren in Verfahrenshilfesachen,
-> 
+>
 >> `8.` Verfahren zur Sicherung von Beweisen,
-> 
+>
 >> `9.` Verfahren über die Wiedereinsetzung in den vorigen Stand,
-> 
+>
 >> `10.` Verfahren über die Ablehnung von Richtern und anderen gerichtlichen Organen\.
 
 > `(3)` Für Tagsatzungen, die in den Zeitraum nach Abs\. 1 fallen, ist der Erstreckungsgrund nach § 134 Z 1 verwirklicht, wenn sich die unvertretene Partei oder der Vertreter der Partei zum Zeitpunkt der Tagsatzung auf Urlaub befindet und der Antrag unverzüglich, spätestens binnen einer Woche nach Zustellung der Ladung gestellt wird\.
@@ -2605,25 +2605,25 @@ Jede Partei kann zur Begründung ihrer Anträge auch auf die ihr auf Veranlassun
 ### § 227 ZPO — 
 
 > `(1)` Mehrere Ansprüche des Klägers gegen denselben Beklagten können, auch wenn sie nicht zusammenzurechnen sind \(§ 55 JN\), in derselben Klage geltend gemacht werden, wenn für sämtliche Ansprüche
-> 
+>
 >> `1.` das Prozeßgericht zuständig und
-> 
+>
 >> `2.` dieselbe Art des Verfahrens zulässig ist\.
 
 > `(2)` Jedoch können Ansprüche, die den im § 49 Abs\. 1 JN bezeichneten Betrag nicht übersteigen, mit solchen Ansprüchen verbunden werden, die ihn übersteigen, ferner Ansprüche, die vor den Einzelrichter gehören, mit solchen, die vor den Senat gehören\. Im ersten Fall richtet sich die Zuständigkeit nach dem höheren Betrag; im zweiten Fall ist der Senat zur Entscheidung über sämtliche Ansprüche berufen\.
 
 ### § 228 ZPO — 
 
-Es kann auf Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses oder Rechtes, auf Anerkennung der Echtheit einer Urkunde oder Feststellung der Unechtheit derselben Klage erhoben werden, wenn der Kläger ein rechtliches Interesse daran hat, dass jenes Rechtsverhältnis oder Recht oder die Urkundenechtheit durch eine gerichtliche Entscheidung alsbald festgestellt werde\.
+> Es kann auf Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses oder Rechtes, auf Anerkennung der Echtheit einer Urkunde oder Feststellung der Unechtheit derselben Klage erhoben werden, wenn der Kläger ein rechtliches Interesse daran hat, dass jenes Rechtsverhältnis oder Recht oder die Urkundenechtheit durch eine gerichtliche Entscheidung alsbald festgestellt werde\.
 
 ### § 229 ZPO — 
 
 > `(1)` Schon in der Klage kann der Antrag gestellt werden:
-> 
+>
 >> `1.` dass dem Beklagten mit dem Auftrag zur Beantwortung der Klage oder bei der Ladung zur vorbereitenden Tagsatzung aufgetragen werde, gewisse genau zu bezeichnende, dem Kläger zu einer Beweisführung nöthig scheinende und im Besitze des Beklagten befindliche Urkunden, Auskunftssachen oder in Augenschein zu nehmende Gegenstände dem Gericht rechtzeitig vor der Verhandlung vorzulegen oder zur Verhandlung mitzubringen;
-> 
+>
 >> `2.` dass das Erforderliche verfügt werde, damit die für eine Beweisführung voraussichtlich nöthigen, bei einer öffentlichen Behörde oder bei einem Notar verwahrten Urkunden, Auskunftssachen oder Augenscheinsgegenstände, die gleichfalls genau zu bezeichnen sind, zur mündlichen Streitverhandlung rechtzeitig herbeigeschafft werden;
-> 
+>
 >> `3.` dass die zur Bewahrheitung thatsächlicher Behauptungen in der Klage namhaft gemachten Zeugen zur mündlichen Streitverhandlung geladen werden\.
 
 > `(2)` Dem unter Z 2 erwähnten Antrage ist nur dann stattzugeben, wenn sich die Partei die betreffenden Urkunden, Auskunftssachen oder Augenscheinsgegenstände nach den bestehenden gesetzlichen Vorschriften ohne Mitwirkung des Gerichtes nicht zu verschaffen vermag, oder wenn ihr deren Ausfolgung von der Behörde oder dem Notar in ungerechtfertigter Weise verweigert wurde\.
@@ -2639,7 +2639,7 @@ Es kann auf Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältn
 
 ### § 230a ZPO
 
-Wird die sachliche oder örtliche Unzuständigkeit des angerufenen Gerichts ausgesprochen und die Klage zurückgewiesen, ohne daß der Kläger Gelegenheit hatte, einen Überweisungsantrag nach § 261 Abs\. 6 zu stellen, und beantragt der Kläger binnen der Notfrist von vierzehn Tagen nach der Zustellung dieses Beschlusses die Überweisung der Klage an ein anderes Gericht, so hat das ursprünglich angerufene Gericht die Zurückweisung aufzuheben und die Klage dem vom Kläger namhaft gemachten Gericht zu überweisen, wenn es das andere Gericht nicht für offenbar unzuständig erachtet\. Gegen diesen Beschluß ist, mit Ausnahme der Entscheidung über die Kosten eines allfälligen Zuständigkeitsstreites, ein Rechtsmittel nicht zulässig\. Die Gerichtsanhängigkeit wird durch diese Überweisung nicht aufgehoben\. Das Gericht, an das die Klage überwiesen worden ist, kann einen Mangel seiner Zuständigkeit nur noch wahrnehmen, wenn der Beklagte rechtzeitig die Einrede der Unzuständigkeit erhebt\.
+> Wird die sachliche oder örtliche Unzuständigkeit des angerufenen Gerichts ausgesprochen und die Klage zurückgewiesen, ohne daß der Kläger Gelegenheit hatte, einen Überweisungsantrag nach § 261 Abs\. 6 zu stellen, und beantragt der Kläger binnen der Notfrist von vierzehn Tagen nach der Zustellung dieses Beschlusses die Überweisung der Klage an ein anderes Gericht, so hat das ursprünglich angerufene Gericht die Zurückweisung aufzuheben und die Klage dem vom Kläger namhaft gemachten Gericht zu überweisen, wenn es das andere Gericht nicht für offenbar unzuständig erachtet\. Gegen diesen Beschluß ist, mit Ausnahme der Entscheidung über die Kosten eines allfälligen Zuständigkeitsstreites, ein Rechtsmittel nicht zulässig\. Die Gerichtsanhängigkeit wird durch diese Überweisung nicht aufgehoben\. Das Gericht, an das die Klage überwiesen worden ist, kann einen Mangel seiner Zuständigkeit nur noch wahrnehmen, wenn der Beklagte rechtzeitig die Einrede der Unzuständigkeit erhebt\.
 
 ## Streitanhängigkeit.
 
@@ -2657,7 +2657,7 @@ Wird die sachliche oder örtliche Unzuständigkeit des angerufenen Gerichts ausg
 
 ### § 234 ZPO — 
 
-Die Veräußerung einer in Streit verfangenen Sache oder Forderung hat auf den Process keinen Einfluss\. Der Erwerber ist nicht berechtigt, ohne Zustimmung des Gegners als Hauptpartei in den Process einzutreten\.
+> Die Veräußerung einer in Streit verfangenen Sache oder Forderung hat auf den Process keinen Einfluss\. Der Erwerber ist nicht berechtigt, ohne Zustimmung des Gegners als Hauptpartei in den Process einzutreten\.
 
 ## Klagsänderung.
 
@@ -2697,7 +2697,7 @@ Die Veräußerung einer in Streit verfangenen Sache oder Forderung hat auf den P
 
 ### § 238 ZPO — 
 
-Die in §\. 237 bezeichneten Rechtsfolgen treten auch dann ein, wenn eine Klage in Gemäßheit der Bestimmungen dieses Gesetzes als zurückgenommen zu gelten hat\.
+> Die in §\. 237 bezeichneten Rechtsfolgen treten auch dann ein, wenn eine Klage in Gemäßheit der Bestimmungen dieses Gesetzes als zurückgenommen zu gelten hat\.
 
 ## Beantwortung der Klage
 
@@ -2708,18 +2708,18 @@ Die in §\. 237 bezeichneten Rechtsfolgen treten auch dann ein, wenn eine Klage 
 > `(2)` In dem Schriftsatz kann der Beklagte auch einen oder mehrere der im § 229 angeführten Anträge stellen\.
 
 > `(3)` Die Klagebeantwortung dient weiters
-> 
+>
 >> `1.` zur Anmeldung der Einreden des Fehlens der inländischen Gerichtsbarkeit, der Unzulässigkeit des Rechtsweges, des Fehlens der sachlichen oder örtlichen Zuständigkeit, der Streitanhängigkeit, der rechtskräftig entschiedenen Streitsache und des Fehlens sonstiger Prozessvoraussetzungen,
-> 
+>
 >> `2.` zur Benennung des Auktors,
-> 
+>
 >> `3.` zur Stellung des Antrages auf Sicherheitsleistung für Prozesskosten und
-> 
+>
 >> `4.` zur Abgabe eines Anerkenntnisses\.
 
 ### § 240 ZPO
 
-Wird die Einrede der sachlichen oder örtlichen Unzuständigkeit des Gerichtes nicht in der Klagebeantwortung geltend gemacht, so kann deren Fehlen nur noch berücksichtigt werden, wenn das Gericht auch durch ausdrückliche Vereinbarung der Parteien nicht zuständig gemacht werden könnte und die Unzuständigkeit noch nicht geheilt ist \(§ 104 JN\)\.
+> Wird die Einrede der sachlichen oder örtlichen Unzuständigkeit des Gerichtes nicht in der Klagebeantwortung geltend gemacht, so kann deren Fehlen nur noch berücksichtigt werden, wenn das Gericht auch durch ausdrückliche Vereinbarung der Parteien nicht zuständig gemacht werden könnte und die Unzuständigkeit noch nicht geheilt ist \(§ 104 JN\)\.
 
 ## Mahnverfahren
 
@@ -2728,13 +2728,13 @@ Wird die Einrede der sachlichen oder örtlichen Unzuständigkeit des Gerichtes n
 > `(1)` In Rechtsstreitigkeiten über Klagen, mit denen ausschließlich die Zahlung eines 75 000 Euro nicht übersteigenden Geldbetrags begehrt wird, hat das Gericht ohne vorhergehende mündliche Verhandlung und ohne Vernehmung des Beklagten einen durch die Unterlassung des Einspruchs bedingten Zahlungsbefehl zu erlassen, sofern nicht ein Zahlungsauftrag zu erlassen ist \(§§ 555 bis 559\)\.
 
 > `(2)` Ein Zahlungsbefehl darf nicht erlassen werden, wenn
-> 
+>
 >> `1.` die Klage zurückzuweisen ist;
-> 
+>
 >> `2.` die Forderung nach den Angaben in der Klage oder offenkundig \(§ 269\) nicht klagbar, noch nicht fällig, von einer Gegenleistung abhängig oder der Beklagte unbekannten Aufenthalts ist;
-> 
+>
 >> `3.` der Beklagte seinen Wohnsitz, gewöhnlichen Aufenthalt oder Sitz im Ausland hat;
-> 
+>
 >> `4.` die Klage unschlüssig ist\.
 
 ### § 245 ZPO
@@ -2749,7 +2749,7 @@ Wird die Einrede der sachlichen oder örtlichen Unzuständigkeit des Gerichtes n
 
 ### § 246 ZPO
 
-Der Zahlungsbefehl hat neben den für Beschlüsse geforderten Angaben zu enthalten:
+> Der Zahlungsbefehl hat neben den für Beschlüsse geforderten Angaben zu enthalten:
 
 > `1.` die Aufschrift „Bedingter Zahlungsbefehl“;
 
@@ -2791,15 +2791,15 @@ Der Zahlungsbefehl hat neben den für Beschlüsse geforderten Angaben zu enthalt
 
 ### § 251 ZPO
 
-Für das Mahnverfahren, das mit Hilfe automationsunterstützter Datenverarbeitung durchgeführt wird, gelten folgende Besonderheiten:
-
-*\(Anm\.: Z 1 aufgehoben durch Art\. 2 Z 21, BGBl\. I Nr\. 61/2022\)*
+> Für das Mahnverfahren, das mit Hilfe automationsunterstützter Datenverarbeitung durchgeführt wird, gelten folgende Besonderheiten:
+>
+> *\(Anm\.: Z 1 aufgehoben durch Art\. 2 Z 21, BGBl\. I Nr\. 61/2022\)*
 
 > `2.` An die Stelle der Zustellung der Klage tritt die Zustellung des Zahlungsbefehls, wenn dieser den Klagsinhalt vollständig wiedergibt oder ihm eine Abschrift der Klage sowie Abschriften ihrer Beilagen angeschlossen sind; das gilt sinngemäß für andere Anträge im Mahnverfahren und die hierüber ergehenden Beschlüsse\.
 
 > `3.` Ergeht ein Auftrag zur Verbesserung einer Eingabe \(§ 84\), weil sich der Kläger nicht des hiefür eingeführten Formblatts bedient hat, so ist diesem Auftrag das entsprechende Formblatt anzuschließen\.
 
-*\(Anm\.: Z 4 und 5 aufgehoben durch BGBl\. I Nr\. 128/2004\)*
+> *\(Anm\.: Z 4 und 5 aufgehoben durch BGBl\. I Nr\. 128/2004\)*
 
 ### § 252 ZPO — Europäisches Mahnverfahren
 
@@ -2829,22 +2829,22 @@ Für das Mahnverfahren, das mit Hilfe automationsunterstützter Datenverarbeitun
 
 > `(4)` Gegen die in dieser Bestimmung vorgesehenen Anordnungen ist ein Rechtsmittel nicht zulässig\.
 
-*\(\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
-*Anm\. 1: Es wird davon ausgegangen, dass diese seit der Stammfassung existierende Zwischenüberschrift nicht durch die Neufassung der §§ 257 und 258 „samt Überschriften“ \(Art\. II Z 40 der Zivilverfahrens\-Novelle 2002, BGBl\. I Nr\. 76/2002\) entfallen ist\. Dies ist aber nicht unstrittig\.\)*
+> *\(\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+>
+> *Anm\. 1: Es wird davon ausgegangen, dass diese seit der Stammfassung existierende Zwischenüberschrift nicht durch die Neufassung der §§ 257 und 258 „samt Überschriften“ \(Art\. II Z 40 der Zivilverfahrens\-Novelle 2002, BGBl\. I Nr\. 76/2002\) entfallen ist\. Dies ist aber nicht unstrittig\.\)*
 
 ### § 258 ZPO — Vorbereitende Tagsatzung
 
 > `(1)` Die vorbereitende Tagsatzung als Teil der mündlichen Streitverhandlung dient
-> 
+>
 >> `1.` der Entscheidung über die Prozesseinreden, soweit darüber nicht schon entschieden wurde,
-> 
+>
 >> `2.` dem Vortrag der Parteien \(§§ 177 bis 179\),
-> 
+>
 >> `3.` der Erörterung des Sach\- und Rechtsvorbringens auch in rechtlicher Hinsicht,
-> 
+>
 >> `4.` der Vornahme eines Vergleichsversuchs sowie bei dessen Scheitern der Erörterung des weiteren Fortgangs des Prozesses und der Bekanntgabe des Prozessprogramms und
-> 
+>
 >> `5.` soweit zweckmäßig \- auch der Einvernahme der Parteien und Durchführung des weiteren Beweisverfahrens\.
 
 > `(2)` Die Parteien und ihre Vertreter haben dafür zu sorgen, dass in der vorbereitenden Tagsatzung der Sachverhalt und allfällige Vergleichsmöglichkeiten umfassend erörtert werden können\. Zu diesem Zweck ist die Partei oder, soweit diese zur Aufklärung des Sachverhalts nicht beitragen kann, eine informierte Person zur Unterstützung des Vertreters stellig zu machen\.
@@ -2913,11 +2913,11 @@ Für das Mahnverfahren, das mit Hilfe automationsunterstützter Datenverarbeitun
 
 ### § 269 ZPO — 
 
-Thatsachen, welche bei dem Gerichte offenkundig sind, bedürfen keines Beweises\.
+> Thatsachen, welche bei dem Gerichte offenkundig sind, bedürfen keines Beweises\.
 
 ### § 270 ZPO — 
 
-Thatsachen, für deren Vorhandensein das Gesetz eine Vermuthung aufstellt, bedürfen keines Beweises\. Der Beweis des Gegentheiles ist zulässig, sofern das Gesetz denselben nicht ausschließt\. Dieser Gegenbeweis kann auch durch Vernehmung der Parteien gemäß §§\. 371 ff\. geführt werden\.
+> Thatsachen, für deren Vorhandensein das Gesetz eine Vermuthung aufstellt, bedürfen keines Beweises\. Der Beweis des Gegentheiles ist zulässig, sofern das Gesetz denselben nicht ausschließt\. Dieser Gegenbeweis kann auch durch Vernehmung der Parteien gemäß §§\. 371 ff\. geführt werden\.
 
 ### § 271 ZPO — 
 
@@ -2963,7 +2963,7 @@ Thatsachen, für deren Vorhandensein das Gesetz eine Vermuthung aufstellt, bedü
 
 ### § 277 ZPO — Verwendung technischer Einrichtungen zur Wort- und Bildübertragung bei der Beweisaufnahme
 
-Das Gericht hat nach Maßgabe der technischen Möglichkeiten statt der Einvernahme durch einen ersuchten Richter eine unmittelbare Beweisaufnahme unter Verwendung technischer Einrichtungen zur Wort\- und Bildübertragung durchzuführen, es sei denn, die Einvernahme durch einen beauftragten oder ersuchten Richter ist unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder aus besonderen Gründen erforderlich\.
+> Das Gericht hat nach Maßgabe der technischen Möglichkeiten statt der Einvernahme durch einen ersuchten Richter eine unmittelbare Beweisaufnahme unter Verwendung technischer Einrichtungen zur Wort\- und Bildübertragung durchzuführen, es sei denn, die Einvernahme durch einen beauftragten oder ersuchten Richter ist unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder aus besonderen Gründen erforderlich\.
 
 ### § 278 ZPO — 
 
@@ -2995,12 +2995,12 @@ Das Gericht hat nach Maßgabe der technischen Möglichkeiten statt der Einvernah
 
 ### § 281a ZPO
 
-Ist über streitige Tatsachen bereits in einem gerichtlichen Verfahren ein Beweis aufgenommen worden, so kann das Protokoll hierüber oder ein schriftliches Sachverständigengutachten als Beweismittel verwendet und von einer neuerlichen Beweisaufnahme Abstand genommen werden, wenn
+> Ist über streitige Tatsachen bereits in einem gerichtlichen Verfahren ein Beweis aufgenommen worden, so kann das Protokoll hierüber oder ein schriftliches Sachverständigengutachten als Beweismittel verwendet und von einer neuerlichen Beweisaufnahme Abstand genommen werden, wenn
 
 > `1.` die Parteien an diesem gerichtlichen Verfahren beteiligt waren und
-> 
+>
 >> `a)` nicht eine der Parteien ausdrücklich das Gegenteil beantragt oder
-> 
+>
 >> `b)` das Beweismittel nicht mehr zur Verfügung steht;
 
 > `2.` die an diesem gerichtlichen Verfahren nicht beteiligt gewesenen Parteien dem ausdrücklich zustimmen\.
@@ -3009,7 +3009,7 @@ Ist über streitige Tatsachen bereits in einem gerichtlichen Verfahren ein Bewei
 
 ### § 282 ZPO — 
 
-Mit Beweisaufnahmen, welche außerhalb der Verhandlungstagsatzung am Orte des Processgerichtes oder in dessen Nähe stattzufinden haben, ist ein Mitglied des Processgerichtes, und zwar in der Regel ein Mitglied des zur Entscheidung der Rechtssache berufenen Senates zu beauftragen\.
+> Mit Beweisaufnahmen, welche außerhalb der Verhandlungstagsatzung am Orte des Processgerichtes oder in dessen Nähe stattzufinden haben, ist ein Mitglied des Processgerichtes, und zwar in der Regel ein Mitglied des zur Entscheidung der Rechtssache berufenen Senates zu beauftragen\.
 
 ### § 283 ZPO — 
 
@@ -3083,7 +3083,7 @@ Mit Beweisaufnahmen, welche außerhalb der Verhandlungstagsatzung am Orte des Pr
 
 ### § 290 ZPO — 
 
-Aus dem Umstande, dass die von einer ausländischen Behörde vorgenommene Beweisaufnahme nach den ausländischen Gesetzen mangelhaft ist, kann gegen dieselbe dann kein Einwand erhoben werden, wenn die Beweisaufnahme den für das Processgericht geltenden Gesetzen entspricht\.
+> Aus dem Umstande, dass die von einer ausländischen Behörde vorgenommene Beweisaufnahme nach den ausländischen Gesetzen mangelhaft ist, kann gegen dieselbe dann kein Einwand erhoben werden, wenn die Beweisaufnahme den für das Processgericht geltenden Gesetzen entspricht\.
 
 ### § 291 ZPO — 
 
@@ -3094,11 +3094,11 @@ Aus dem Umstande, dass die von einer ausländischen Behörde vorgenommene Beweis
 ### § 291a ZPO — Beweisaufnahme im Ausland
 
 > `(1)` Liegen die Voraussetzungen für die Beweisaufnahme durch ein ersuchtes ausländisches Gericht vor, so kann das Prozessgericht auf Antrag einer Partei im Ausland an der Beweisaufnahme des ersuchten Gerichtes teilnehmen oder an dessen Stelle selbst Beweis aufnehmen, wenn
-> 
+>
 >> `1.` dies völker\- oder gemeinschaftsrechtlich zulässig und unter Bedachtnahme auf den Reiseaufwand und die tatsächlichen Verhältnisse im betreffenden Staat zumutbar ist,
-> 
+>
 >> `2.` auf Grund außergewöhnlicher Umstände, etwa wegen der besonderen Schwierigkeit des Beweisthemas oder der über das gewöhnliche Maß hinausgehenden Bedeutung eines persönlichen Eindrucks, eine Beweisaufnahme nur durch das ersuchte Gericht nicht ausreicht und
-> 
+>
 >> `3.` die voraussichtlichen Kosten der auswärtigen Amtshandlung und damit allfällig verbundener Dolmetscherkosten als Vorschuss bei Gericht erliegen; das ist nicht erforderlich, wenn allen Parteien, die nach § 3 GEG einen Kostenvorschuss zu erlegen hätten, Verfahrenshilfe gemäß § 64 Abs\. 1 Z 1 lit\. b und c gewährt wurde\.
 
 > `(2)` Zur Frage, ob eine Amtshandlung außerhalb des Geltungsbereichs der Verordnung \(EG\) Nr\. 1206/2001, ABl\. Nr\. 2001, L 174, S 1, zulässig ist, ist vorweg eine Erklärung des Bundesministers für Justiz einzuholen\. Dieser hat zuvor das Einvernehmen mit dem Bundesminister für auswärtige Angelegenheiten herzustellen\. Ansuchen um Beweisaufnahme sind in diesem Fall im Wege des Bundesministeriums für Justiz zu stellen\.
@@ -3111,7 +3111,7 @@ Aus dem Umstande, dass die von einer ausländischen Behörde vorgenommene Beweis
 
 ### § 291c ZPO
 
-Die Bestimmungen des § 291a Abs\. 1 Z 2 und 3 sowie des § 291b sind auf eine im Ausland stattfindende Befundaufnahme durch einen Sachverständigen nicht anzuwenden\.
+> Die Bestimmungen des § 291a Abs\. 1 Z 2 und 3 sowie des § 291b sind auf eine im Ausland stattfindende Befundaufnahme durch einen Sachverständigen nicht anzuwenden\.
 
 ## Dritter Titel.
 
@@ -3133,11 +3133,11 @@ Die Bestimmungen des § 291a Abs\. 1 Z 2 und 3 sowie des § 291b sind auf ei
 
 ### § 294 ZPO — 
 
-Auf Papier oder elektronisch errichtete Privaturkunden begründen, sofern sie von den Ausstellern unterschrieben oder mit ihrem gerichtlich oder notariell beglaubigten Handzeichen versehen sind, vollen Beweis dafür, dass die in denselben enthaltenen Erklärungen von den Ausstellern herrühren\.
+> Auf Papier oder elektronisch errichtete Privaturkunden begründen, sofern sie von den Ausstellern unterschrieben oder mit ihrem gerichtlich oder notariell beglaubigten Handzeichen versehen sind, vollen Beweis dafür, dass die in denselben enthaltenen Erklärungen von den Ausstellern herrühren\.
 
 ### § 296 ZPO — 
 
-Ob und in melchem Maße Durchstreichungen, Radirungen und andere Auslöschungen, Einschaltungen oder sonstige äußere Mängel einer Urkunde deren Beweiskraft mindern oder dieselbe ganz aufheben, hat das Gericht nach §\. 272 zu beurtheilen\.
+> Ob und in melchem Maße Durchstreichungen, Radirungen und andere Auslöschungen, Einschaltungen oder sonstige äußere Mängel einer Urkunde deren Beweiskraft mindern oder dieselbe ganz aufheben, hat das Gericht nach §\. 272 zu beurtheilen\.
 
 ## Beweisantretung.
 
@@ -3159,7 +3159,7 @@ Ob und in melchem Maße Durchstreichungen, Radirungen und andere Auslöschungen,
 
 ### § 299 ZPO — 
 
-Hat die Partei eine Abschrift der Urkunde vorgelegt, so kann ihr auf Antrag der Gegenpartei oder von amtswegen die Vorlage der Urschrift aufgetragen werden\. Ob und inwieweit ungeachtet der Nichtbefolgung dieses Auftrages der vorgelegten Abschrift infolge ihrer Beglaubigung, ihres Alters, ihres Ursprunges oder aus anderen Gründen Glauben beizumessen ist, hat das Gericht nach seinem Ermessen zu entscheiden\. Hiebei sind die für die Unterlassung der Vorlage der Urschrift geltend gemachten Gründe und die sonstigen Umstände des einzelnen Falles sorgfältig zu würdigen\.
+> Hat die Partei eine Abschrift der Urkunde vorgelegt, so kann ihr auf Antrag der Gegenpartei oder von amtswegen die Vorlage der Urschrift aufgetragen werden\. Ob und inwieweit ungeachtet der Nichtbefolgung dieses Auftrages der vorgelegten Abschrift infolge ihrer Beglaubigung, ihres Alters, ihres Ursprunges oder aus anderen Gründen Glauben beizumessen ist, hat das Gericht nach seinem Ermessen zu entscheiden\. Hiebei sind die für die Unterlassung der Vorlage der Urschrift geltend gemachten Gründe und die sonstigen Umstände des einzelnen Falles sorgfältig zu würdigen\.
 
 ### § 300 ZPO — 
 
@@ -3177,7 +3177,7 @@ Hat die Partei eine Abschrift der Urkunde vorgelegt, so kann ihr auf Antrag der 
 
 ### § 302 ZPO — 
 
-Nach erfolgter Vorlegung einer Urkunde kann der Beweisführer auf dieses Beweismittel nur mit Zustimmung des Gegners verzichten\.
+> Nach erfolgter Vorlegung einer Urkunde kann der Beweisführer auf dieses Beweismittel nur mit Zustimmung des Gegners verzichten\.
 
 ## Vorlegung der Urkunde durch den Gegner.
 
@@ -3192,18 +3192,18 @@ Nach erfolgter Vorlegung einer Urkunde kann der Beweisführer auf dieses Beweism
 ### § 304 ZPO — 
 
 > `(1)` Die Vorlage der Urkunde kann nicht verweigert werden:
-> 
+>
 >> `1.` wenn der Gegner selbst auf die Urkunde zum Zwecke der Beweisführung im Processe Bezug genommen hat;
-> 
+>
 >> `2.` wenn der Gegner nach bürgerlichem Rechte zur Ausfolgung oder Vorlage der Urkunde verpflichtet ist;
-> 
+>
 >> `3.` wenn die Urkunde ihrem Inhalte nach eine beiden Parteien gemeinschaftliche ist\.
 
 > `(2)` Als gemeinschaftlich gilt eine Urkunde insbesondere für die Personen, in deren Interesse sie errichtet ist oder deren gegenseitige Rechtsverhältnisse darin bekundet sind\. Als gemeinschaftlich gelten auch die über ein Rechtsgeschäft zwischen den Betheiligten oder zwischen einem derselben und dem gemeinsamen Vermittler des Geschäftes gepflogenen schriftlichen Verhandlungen\.
 
 ### § 305 ZPO — 
 
-Die Vorlage anderer Urkunden kann verweigert werden:
+> Die Vorlage anderer Urkunden kann verweigert werden:
 
 > `1.` wenn der Inhalt Angelegenheiten des Familienlebens betrifft;
 
@@ -3217,7 +3217,7 @@ Die Vorlage anderer Urkunden kann verweigert werden:
 
 ### § 306 ZPO — 
 
-Wenn einer der im §\. 305 angeführten Gründe nur einzelne Theile des Inhaltes einer Urkunde betrifft, so ist ein Auszug der Urkunde vorzulegen\. § 299 ist mit der Maßgabe anzuwenden, dass anstelle der Urschrift ein beglaubigter Auszug der Urkunde vorzulegen ist\.
+> Wenn einer der im §\. 305 angeführten Gründe nur einzelne Theile des Inhaltes einer Urkunde betrifft, so ist ein Auszug der Urkunde vorzulegen\. § 299 ist mit der Maßgabe anzuwenden, dass anstelle der Urschrift ein beglaubigter Auszug der Urkunde vorzulegen ist\.
 
 ### § 307 ZPO — 
 
@@ -3265,7 +3265,7 @@ Wenn einer der im §\. 305 angeführten Gründe nur einzelne Theile des Inhaltes
 
 ### § 313 ZPO — 
 
-Eine Partei, welche die Echtheit einer Urkunde in muthwilliger Weise bestritten hat, ist in eine Muthwillensstrafe zu verfällen\.
+> Eine Partei, welche die Echtheit einer Urkunde in muthwilliger Weise bestritten hat, ist in eine Muthwillensstrafe zu verfällen\.
 
 ## Schriftvergleichung.
 
@@ -3291,7 +3291,7 @@ Eine Partei, welche die Echtheit einer Urkunde in muthwilliger Weise bestritten 
 
 ### § 316 ZPO
 
-Urkunden, die in Urschrift vorgelegt werden, sind in Abschrift zum Akt zu nehmen\. Die Urschriften sind demjenigen, der sie vorgelegt hat, bei erster Gelegenheit zurückzustellen\. Urkunden, bei denen es unmöglich oder untunlich ist, eine Abschrift zum Akt zu nehmen oder deren Echtheit bestritten ist oder deren Inhalt verändert sein soll, sind bis zur rechtskräftigen Erledigung des Verfahrens bei Gericht zurückzubehalten, sofern nicht ihre Ausfolgung an eine andere Behörde im Interesse der öffentlichen Ordnung erforderlich ist\.
+> Urkunden, die in Urschrift vorgelegt werden, sind in Abschrift zum Akt zu nehmen\. Die Urschriften sind demjenigen, der sie vorgelegt hat, bei erster Gelegenheit zurückzustellen\. Urkunden, bei denen es unmöglich oder untunlich ist, eine Abschrift zum Akt zu nehmen oder deren Echtheit bestritten ist oder deren Inhalt verändert sein soll, sind bis zur rechtskräftigen Erledigung des Verfahrens bei Gericht zurückzubehalten, sofern nicht ihre Ausfolgung an eine andere Behörde im Interesse der öffentlichen Ordnung erforderlich ist\.
 
 ## Erneuerung von Urkunden.
 
@@ -3323,7 +3323,7 @@ Urkunden, die in Urschrift vorgelegt werden, sind in Abschrift zum Akt zu nehmen
 
 ### § 320 ZPO — 
 
-Als Zeugen dürfen nicht vernommen werden:
+> Als Zeugen dürfen nicht vernommen werden:
 
 > `1.` Personen, welche zur Mittheilung ihrer Wahrnehmungen unfähig sind, oder welche zur Zeit, auf welche sich ihre Aussage beziehen soll, zur Wahrnehmung der zu beweisenden Thatsache unfähig waren;
 
@@ -3336,26 +3336,26 @@ Als Zeugen dürfen nicht vernommen werden:
 ### § 321 ZPO — 
 
 > `(1)` Die Aussage darf von einem Zeugen verweigert werden:
-> 
+>
 >> `1.` über Fragen, deren Beantwortung dem Zeugen, seinem Ehegatten oder einer Person, mit welcher der Zeuge in gerader Linie oder in der Seitenlinie bis zum zweiten Grade verwandt oder verschwägert, oder mit welcher er durch Adoption verbunden ist, ferner seinen Pflegeeltern und Pflegekindern, sowie der mit der Obsorge für ihn betrauten Person, seinem Erwachsenenvertreter, seinem Vorsorgebevollmächtigten nach Wirksamwerden der Vorsorgevollmacht oder der von ihm in dieser Eigenschaft vertretenen Person und seinem Lebensgefährten sowie dessen Verwandten in gerader Linie oder bis zum zweiten Grad der Seitenlinie zur Schande gereichen oder die Gefahr strafgerichtlicher Verfolgung zuziehen würde;
-> 
+>
 >> `2.` über Fragen, deren Beantwortung dem Zeugen oder einer der in Z 1 bezeichneten Personen einen unmittelbaren vermögensrechtlichen Nachtheil zuziehen würde;
-> 
+>
 >> `3.` in Bezug auf Thatsachen, über welche der Zeuge nicht würde aussagen können, ohne eine ihm obliegende staatlich anerkannte Pflicht zur Verschwiegenheit zu verletzen, insoferne er hievon nicht giltig entbunden wurde;
-> 
+>
 >> `4.` in Ansehung desjenigen, was dem Zeugen in seiner Eigenschaft als Rechtsanwalt von seiner Partei anvertraut wurde;
-> 
+>
 >> `4a.` in Ansehung dessen, was dem Zeugen in seiner Eigenschaft als Funktionär oder Arbeitnehmer einer gesetzlichen Interessenvertretung oder freiwilligen kollektivvertragsfähigen Berufsvereinigung von seiner Partei in einer Arbeits\- oder Sozialrechtssache anvertraut wurde;
-> 
+>
 >> `5.` über Fragen, welche der Zeuge nicht würde beantworten können, ohne ein Kunst\- oder Geschäftsgeheimnis zu offenbaren;
-> 
+>
 >> `6.` über die Frage, wie der Zeuge sein Wahlrecht oder Stimmrecht ausgeübt hat, wenn dessen Ausübung gesetzlich für geheim erklärt ist\.
 
 > `(2)` Die Aussage kann in den unter Abs\. 1 Z 1 und 2 angegebenen Fällen mit Rücksicht auf die dort bezeichneten Personen auch dann verweigert werden, wenn das Naheverhältnis zum Zeugen nicht mehr besteht\.
 
 ### § 322 ZPO — 
 
-Über Errichtung und Inhalt von Rechtsgeschäften, bei welchen der Zeuge als Urkundsperson beigezogen worden ist, über Thatsachen, welche die durch das Ehe\- oder Familienverhältnis bedingten Vermögensangelegenheiten betreffen, über Geburten, Verheiratungen oder Sterbefälle der im §\. 321, Z 1, bezeichneten Angehörigen, endlich über Handlungen, welche der Zeuge in Betreff des streitigen Rechtsverhältnisses als Rechtsvorgänger oder Vertreter einer der Parteien vorgenommen hat, darf das Zeugnis wegen eines zu besorgenden vermögensrechtlichen Nachtheiles nicht verweigert werden\.
+> Über Errichtung und Inhalt von Rechtsgeschäften, bei welchen der Zeuge als Urkundsperson beigezogen worden ist, über Thatsachen, welche die durch das Ehe\- oder Familienverhältnis bedingten Vermögensangelegenheiten betreffen, über Geburten, Verheiratungen oder Sterbefälle der im §\. 321, Z 1, bezeichneten Angehörigen, endlich über Handlungen, welche der Zeuge in Betreff des streitigen Rechtsverhältnisses als Rechtsvorgänger oder Vertreter einer der Parteien vorgenommen hat, darf das Zeugnis wegen eines zu besorgenden vermögensrechtlichen Nachtheiles nicht verweigert werden\.
 
 ### § 323 ZPO — 
 
@@ -3387,20 +3387,20 @@ Als Zeugen dürfen nicht vernommen werden:
 
 ### § 327 ZPO — 
 
-Alle Umstände, welche auf die Unbefangenheit des Zeugen und die Glaubwürdigkeit seiner Aussage von Einfluss sind, hat das Gericht nach freier Überzeugung sorgfältig zu würdigen\.
+> Alle Umstände, welche auf die Unbefangenheit des Zeugen und die Glaubwürdigkeit seiner Aussage von Einfluss sind, hat das Gericht nach freier Überzeugung sorgfältig zu würdigen\.
 
 ## Beweisaufnahme durch den beauftragten oder ersuchten Richter.
 
 ### § 328 ZPO — 
 
 > `(1)` Die Aufnahme des Zeugenbeweises kann durch einen beauftragten oder ersuchten Richter erfolgen:
-> 
+>
 >> `1.` wenn die Vernehmung des Zeugen an Ort und Stelle der Ermittlung der Wahrheit förderlich erscheint;
-> 
+>
 >> `2.` wenn die Beweisaufnahme vor dem erkennenden Gerichte erheblichen Schwierigkeiten unterliegen würde;
-> 
+>
 >> `3.` wenn die Vernehmung des Zeugen vor dem erkennenden Gerichte mit Rücksicht auf die dem Zeugen zu gewährende Entschädigung für Zeitversäumnis und die ihm zu erstattenden Kosten der Reise und des Aufenthaltes am Orte der Vernehmung einen unverhältnismäßig großen Aufwand verursachen würde;
-> 
+>
 >> `4.` wenn der Zeuge an dem Erscheinen vor dem erkennenden Gerichte gehindert ist\.
 
 > `(2)` Ein Zeuge, welcher infolge Krankheit, Gebrechlichkeit oder aus anderen Gründen außerstande ist, seine Wohnung zum Zwecke der Vernehmung zu verlassen, oder welcher infolge bestehender Anordnungen nicht verpflichtet ist, zur Abgabe einer Zeugenaussage in bürgerlichen Rechtsangelegenheiten im Gerichtshause zu erscheinen, wird in seiner Wohnung vernommen\.
@@ -3425,7 +3425,7 @@ Alle Umstände, welche auf die Unbefangenheit des Zeugen und die Glaubwürdigkei
 
 ### § 331 ZPO — 
 
-Steht die als Zeuge zu ladende Person in einem öffentlichen Amte oder Dienste und muss voraussichtlich zur Wahrung der Sicherheit oder anderer öffentlicher Interessen eine Stellvertretung während der Verhinderung dieser Person eintreten, so ist gleichzeitig deren unmittelbarer Vorgesetzter von der ergangenen Ladung zu benachrichtigen\.
+> Steht die als Zeuge zu ladende Person in einem öffentlichen Amte oder Dienste und muss voraussichtlich zur Wahrung der Sicherheit oder anderer öffentlicher Interessen eine Stellvertretung während der Verhinderung dieser Person eintreten, so ist gleichzeitig deren unmittelbarer Vorgesetzter von der ergangenen Ladung zu benachrichtigen\.
 
 ### § 332 ZPO — 
 
@@ -3445,7 +3445,7 @@ Steht die als Zeuge zu ladende Person in einem öffentlichen Amte oder Dienste u
 
 ### § 334 ZPO — 
 
-Die Feststellung der vom Zeugen in den Fällen der §§\. 326 und 333 zu ersetzenden Kosten muss unter Vorlage des Kostenverzeichnisses bei sonstigem Ausschlusse binnen vierzehn Tagen nach Rechtskraft des Beschlusses angesucht werden, durch welchen der Zeuge zum Kostenersatze verpflichtet wurde\. Dem beauftragten oder ersuchten Richter obliegt die Feststellung des Kostenbetrages nur dann, wenn er nach den Bestimmungen dieses Gesetzes die Verpflichtung zum Kostenersatze auszusprechen berufen war\.
+> Die Feststellung der vom Zeugen in den Fällen der §§\. 326 und 333 zu ersetzenden Kosten muss unter Vorlage des Kostenverzeichnisses bei sonstigem Ausschlusse binnen vierzehn Tagen nach Rechtskraft des Beschlusses angesucht werden, durch welchen der Zeuge zum Kostenersatze verpflichtet wurde\. Dem beauftragten oder ersuchten Richter obliegt die Feststellung des Kostenbetrages nur dann, wenn er nach den Bestimmungen dieses Gesetzes die Verpflichtung zum Kostenersatze auszusprechen berufen war\.
 
 ### § 335 ZPO — 
 
@@ -3523,13 +3523,13 @@ Die Feststellung der vom Zeugen in den Fällen der §§\. 326 und 333 zu ersetze
 
 ### § 345 ZPO — 
 
-Die Partei kann auf einen Zeugen, welchen sie vorgeschlagen hat, verzichten\. Der Gegner kann jedoch verlangen, dass der Zeuge, falls er bereits zur Vernehmung erschienen ist, ungeachtet dieses Verzichtes vernommen oder dessen Vernehmung, wenn sie bereits begonnen hat, fortgesetzt werde\.
+> Die Partei kann auf einen Zeugen, welchen sie vorgeschlagen hat, verzichten\. Der Gegner kann jedoch verlangen, dass der Zeuge, falls er bereits zur Vernehmung erschienen ist, ungeachtet dieses Verzichtes vernommen oder dessen Vernehmung, wenn sie bereits begonnen hat, fortgesetzt werde\.
 
 ## Form des Anbringens.
 
 ### § 348 ZPO — 
 
-Anzeigen, Gesuche und Recurse eines Zeugen können außerhalb der Tagsatzung mittels Schriftsatzes angebracht oder mündlich zu gerichtlichem Protokoll erklärt werden\.
+> Anzeigen, Gesuche und Recurse eines Zeugen können außerhalb der Tagsatzung mittels Schriftsatzes angebracht oder mündlich zu gerichtlichem Protokoll erklärt werden\.
 
 ## Rechtsmittel.
 
@@ -3543,7 +3543,7 @@ Anzeigen, Gesuche und Recurse eines Zeugen können außerhalb der Tagsatzung mit
 
 ### § 350 ZPO — 
 
-Die Vorschriften über den Zeugenbeweis finden auch Anwendung, insoweit zum Beweise vergangener Thatsachen oder Zustände, zu deren Wahrnehmung eine besondere Sachkunde erforderlich war, solche sachkundige Personen zu vernehmen sind\.
+> Die Vorschriften über den Zeugenbeweis finden auch Anwendung, insoweit zum Beweise vergangener Thatsachen oder Zustände, zu deren Wahrnehmung eine besondere Sachkunde erforderlich war, solche sachkundige Personen zu vernehmen sind\.
 
 ## Fünfter Titel.
 
@@ -3627,7 +3627,7 @@ Die Vorschriften über den Zeugenbeweis finden auch Anwendung, insoweit zum Bewe
 
 ### § 361 ZPO — 
 
-Sind zur Abgabe eines Gutachtens mehrere Sachverständige bestellt, so können sie dasselbe gemeinsam erstatten, wenn ihre Ansichten übereinstimmen\. Sind sie verschiedener Ansicht, so hat jeder Sachverständige seine Ansicht und die für dieselbe sprechenden Gründe besonders darzulegen\.
+> Sind zur Abgabe eines Gutachtens mehrere Sachverständige bestellt, so können sie dasselbe gemeinsam erstatten, wenn ihre Ansichten übereinstimmen\. Sind sie verschiedener Ansicht, so hat jeder Sachverständige seine Ansicht und die für dieselbe sprechenden Gründe besonders darzulegen\.
 
 ### § 362 ZPO — 
 
@@ -3643,13 +3643,13 @@ Sind zur Abgabe eines Gutachtens mehrere Sachverständige bestellt, so können s
 
 ### § 364 ZPO
 
-Das Gericht kann in Fällen, in welchen der Gegenstand zu seiner Beurteilung fachmännische Kenntnisse erfordert oder in welchen das Bestehen von geschäftlichen Gebräuchen in Frage kommt, ohne Zuziehung von Sachverständigen entscheiden, wenn die eigene Fachkunde oder das eigene Wissen der Richter diese Zuziehung überflüssig macht und die Parteien zustimmen\.
+> Das Gericht kann in Fällen, in welchen der Gegenstand zu seiner Beurteilung fachmännische Kenntnisse erfordert oder in welchen das Bestehen von geschäftlichen Gebräuchen in Frage kommt, ohne Zuziehung von Sachverständigen entscheiden, wenn die eigene Fachkunde oder das eigene Wissen der Richter diese Zuziehung überflüssig macht und die Parteien zustimmen\.
 
 ## Kostenvorschuß.
 
 ### § 365 ZPO
 
-Wenn dem Beweisführer nicht die Verfahrenshilfe bewilligt ist, hat der Vorsitzende oder der beauftragte oder ersuchte Richter anzuordnen, daß ein von ihm zu bestimmender Betrag zur Deckung des mit der Aufnahme des Beweises durch Sachverständige verbundenen Aufwandes vom Beweisführer innerhalb einer bestimmten Frist vorschußweise zu erlegen ist\. § 332 Abs\. 2 ist sinngemäß anzuwenden\.
+> Wenn dem Beweisführer nicht die Verfahrenshilfe bewilligt ist, hat der Vorsitzende oder der beauftragte oder ersuchte Richter anzuordnen, daß ein von ihm zu bestimmender Betrag zur Deckung des mit der Aufnahme des Beweises durch Sachverständige verbundenen Aufwandes vom Beweisführer innerhalb einer bestimmten Frist vorschußweise zu erlegen ist\. § 332 Abs\. 2 ist sinngemäß anzuwenden\.
 
 ## Rechtsmittel.
 
@@ -3661,7 +3661,7 @@ Wenn dem Beweisführer nicht die Verfahrenshilfe bewilligt ist, hat der Vorsitze
 
 ### § 367 ZPO — 
 
-Soweit im Vorstehenden nichts anderes bestimmt ist, finden auf den Beweis durch Sachverständige und insbesondere auch auf deren Vernehmung und die Protokollirung des bei einer Tagsatzung abgegebenen Befundes und Gutachtens die Vorschriften über den Beweis durch Zeugen entsprechend Anwendung\.
+> Soweit im Vorstehenden nichts anderes bestimmt ist, finden auf den Beweis durch Sachverständige und insbesondere auch auf deren Vernehmung und die Protokollirung des bei einer Tagsatzung abgegebenen Befundes und Gutachtens die Vorschriften über den Beweis durch Zeugen entsprechend Anwendung\.
 
 ## Sechster Titel.
 
@@ -3677,7 +3677,7 @@ Soweit im Vorstehenden nichts anderes bestimmt ist, finden auf den Beweis durch 
 
 ### § 369 ZPO — 
 
-Ist eine Sache zu besichtigen, welche sich nach den Angaben des Beweisführers in dem Besitze der Gegenpartei oder in der Verwahrung einer öffentlichen Behörde oder eines Notars befindet, so sind die Bestimmungen der §§\. 301 und 303 bis 307 mit der Maßgabe anzuwenden, dass die Beurtheilung, welchen Einfluss die Verweigerung der Vorzeigung und Herausgabe der Sache seitens des Gegners, die absichtliche oder doch durch den Gegner veranlasste Beseitigung oder Beschädigung der Sache oder die Verweigerung einer Aussage darüber habe, dem durch sorgfältige Würdigung aller Umstände geleiteten richterlichen Ermessen überlassen bleibt\.
+> Ist eine Sache zu besichtigen, welche sich nach den Angaben des Beweisführers in dem Besitze der Gegenpartei oder in der Verwahrung einer öffentlichen Behörde oder eines Notars befindet, so sind die Bestimmungen der §§\. 301 und 303 bis 307 mit der Maßgabe anzuwenden, dass die Beurtheilung, welchen Einfluss die Verweigerung der Vorzeigung und Herausgabe der Sache seitens des Gegners, die absichtliche oder doch durch den Gegner veranlasste Beseitigung oder Beschädigung der Sache oder die Verweigerung einer Aussage darüber habe, dem durch sorgfältige Würdigung aller Umstände geleiteten richterlichen Ermessen überlassen bleibt\.
 
 ### § 370 ZPO — 
 
@@ -3693,11 +3693,11 @@ Ist eine Sache zu besichtigen, welche sich nach den Angaben des Beweisführers i
 
 ### § 371 ZPO
 
-Der Beweis über streitige, für die Entscheidung erhebliche Tatsachen kann auch durch die Vernehmung der Parteien geführt werden; die Anordnung dieser Beweisführung kann auf Antrag oder von Amts wegen erfolgen\.
+> Der Beweis über streitige, für die Entscheidung erhebliche Tatsachen kann auch durch die Vernehmung der Parteien geführt werden; die Anordnung dieser Beweisführung kann auf Antrag oder von Amts wegen erfolgen\.
 
 ### § 372 ZPO — 
 
-Parteien, in Ansehung deren Vernehmung oder Beeidigung einer der Ausschließungsgründe des § 320 vorliegt, dürfen nicht zum Zwecke der Beweisführung abgehört werden\.
+> Parteien, in Ansehung deren Vernehmung oder Beeidigung einer der Ausschließungsgründe des § 320 vorliegt, dürfen nicht zum Zwecke der Beweisführung abgehört werden\.
 
 ### § 373 ZPO — 
 
@@ -3711,7 +3711,7 @@ Parteien, in Ansehung deren Vernehmung oder Beeidigung einer der Ausschließungs
 
 ### § 374 ZPO — 
 
-Das Gericht hat unter sorgfältiger Würdigung aller Umstände zu beurtheilen, ob die Beweisführung durch Vernehmung der Parteien ganz zu entfallen habe, wenn es die Überzeugung gewonnen hat, dass die Partei, welcher der Beweis der streitigen Thatsache obliegt, von derselben keine Kenntnis hat, oder wenn die Abhörung dieser Partei nach den Bestimmungen des §\. 372 unstatthaft ist\.
+> Das Gericht hat unter sorgfältiger Würdigung aller Umstände zu beurtheilen, ob die Beweisführung durch Vernehmung der Parteien ganz zu entfallen habe, wenn es die Überzeugung gewonnen hat, dass die Partei, welcher der Beweis der streitigen Thatsache obliegt, von derselben keine Kenntnis hat, oder wenn die Abhörung dieser Partei nach den Bestimmungen des §\. 372 unstatthaft ist\.
 
 ### § 375 ZPO — 
 
@@ -3735,7 +3735,7 @@ Das Gericht hat unter sorgfältiger Würdigung aller Umstände zu beurtheilen, o
 
 ### § 379 ZPO — 
 
-Das Gericht kann die Verhandlung zum Zwecke der eidlichen Befragung einer Partei vertagen, wenn es angemessen erscheint, der zu vernehmenden Partei eine Überlegungsfrist zu gewähren\.
+> Das Gericht kann die Verhandlung zum Zwecke der eidlichen Befragung einer Partei vertagen, wenn es angemessen erscheint, der zu vernehmenden Partei eine Überlegungsfrist zu gewähren\.
 
 ### § 380 ZPO — 
 
@@ -3747,17 +3747,17 @@ Das Gericht kann die Verhandlung zum Zwecke der eidlichen Befragung einer Partei
 
 ### § 381 ZPO — 
 
-Welchen Einfluss es auf die Herstellung des Beweises habe, wenn die Partei ohne genügende Gründe die Aussage oder die Beantwortung einzelner Fragen ablehnt, wenn die zum Zwecke der unbeeideten oder beeideten Vernehmung geladene Partei nicht erscheint, oder wenn die eidliche Aussage einer Partei von den bei ihrer vorausgegangenen unbeeideten Vernehmung abgegebenen Erklärungen in erheblichen Punkten abweicht, hat das Gericht unter sorgfältiger Würdigung aller Umstände zu beurtheilen\.
+> Welchen Einfluss es auf die Herstellung des Beweises habe, wenn die Partei ohne genügende Gründe die Aussage oder die Beantwortung einzelner Fragen ablehnt, wenn die zum Zwecke der unbeeideten oder beeideten Vernehmung geladene Partei nicht erscheint, oder wenn die eidliche Aussage einer Partei von den bei ihrer vorausgegangenen unbeeideten Vernehmung abgegebenen Erklärungen in erheblichen Punkten abweicht, hat das Gericht unter sorgfältiger Würdigung aller Umstände zu beurtheilen\.
 
 ### § 382 ZPO — 
 
-*\(Anm\.: Abs\. 1 aufgehoben durch BGBl\. Nr\. 2/1958\)*
+> *\(Anm\.: Abs\. 1 aufgehoben durch BGBl\. Nr\. 2/1958\)*
 
 > `(2)` Die Vorschriften der §§\. 372 bis 381 gelten sinngemäß auch für die wegen Vorlage einer Beweisurkunde, einer Auskunftssache oder eines Augenscheinsgegenstandes angeordnete Vernehmung und eidliche Abhörung einer Partei\.
 
 ### § 383 ZPO — 
 
-Wenn eine Partei eine Erklärung abgegeben hat, in welcher sie sich erbietet, die zu beweisenden Umstände im Processe eidlich zu bestätigen, die eidliche Abhörung dieser Partei jedoch wegen ihres früheren Todes nicht stattfinden kann, so hat das Gericht die Erklärung nach §\. 272 zu würdigen\.
+> Wenn eine Partei eine Erklärung abgegeben hat, in welcher sie sich erbietet, die zu beweisenden Umstände im Processe eidlich zu bestätigen, die eidliche Abhörung dieser Partei jedoch wegen ihres früheren Todes nicht stattfinden kann, so hat das Gericht die Erklärung nach §\. 272 zu würdigen\.
 
 ## Achter Titel.
 
@@ -3855,7 +3855,7 @@ Wenn eine Partei eine Erklärung abgegeben hat, in welcher sie sich erbietet, di
 
 ### § 393a ZPO — Zwischenurteil zur Verjährung
 
-Wenn in einem Rechtsstreit der Einwand der Verjährung des geltend gemachten Anspruchs erhoben wird, kann das Gericht von Amts wegen oder auf Antrag über diesen Einwand gesondert mit Urteil entscheiden, soweit die Klage nicht aus diesem Grund abzuweisen ist\. § 393 Abs\. 3 erster und zweiter Satz sind sinngemäß anzuwenden\.
+> Wenn in einem Rechtsstreit der Einwand der Verjährung des geltend gemachten Anspruchs erhoben wird, kann das Gericht von Amts wegen oder auf Antrag über diesen Einwand gesondert mit Urteil entscheiden, soweit die Klage nicht aus diesem Grund abzuweisen ist\. § 393 Abs\. 3 erster und zweiter Satz sind sinngemäß anzuwenden\.
 
 ## Urtheil auf Grund von Verzicht.
 
@@ -3869,7 +3869,7 @@ Wenn in einem Rechtsstreit der Einwand der Verjährung des geltend gemachten Ans
 
 ### § 395 ZPO — 
 
-Wenn der Beklagte den gegen ihn erhobenen Anspruch bei der mündlichen Streitverhandlung ganz oder zum Theile anerkennt, so ist auf Antrag des Klägers dem Anerkenntnis gemäß durch Urtheil zu entscheiden\.
+> Wenn der Beklagte den gegen ihn erhobenen Anspruch bei der mündlichen Streitverhandlung ganz oder zum Theile anerkennt, so ist auf Antrag des Klägers dem Anerkenntnis gemäß durch Urtheil zu entscheiden\.
 
 ## Versäumungsurteil
 
@@ -3887,7 +3887,7 @@ Wenn der Beklagte den gegen ihn erhobenen Anspruch bei der mündlichen Streitver
 
 ### § 397 ZPO
 
-Über einen Antrag auf Erlassung eines Versäumungs\-, Verzichts\- oder Anerkenntnisurteils entscheidet der Vorsitzende des Senats\. Im Fall des § 396 Abs\. 1 ist über den Antrag auf Erlassung eines Versäumungsurteils durch den Vorsitzenden als Einzelrichter binnen acht Tagen ohne Anberaumung einer Verhandlung zu erkennen\.
+> Über einen Antrag auf Erlassung eines Versäumungs\-, Verzichts\- oder Anerkenntnisurteils entscheidet der Vorsitzende des Senats\. Im Fall des § 396 Abs\. 1 ist über den Antrag auf Erlassung eines Versäumungsurteils durch den Vorsitzenden als Einzelrichter binnen acht Tagen ohne Anberaumung einer Verhandlung zu erkennen\.
 
 ### § 397a ZPO
 
@@ -3909,11 +3909,11 @@ Wenn der Beklagte den gegen ihn erhobenen Anspruch bei der mündlichen Streitver
 
 ### § 399 ZPO
 
-Das Fernbleiben einer Partei, welche sich bereits durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, von einer Tagsatzung hindert weder den Fortgang des Verfahrens noch berechtigt es die andere Partei dazu, die Fällung eines Versäumungsurteils zu beantragen\.
+> Das Fernbleiben einer Partei, welche sich bereits durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, von einer Tagsatzung hindert weder den Fortgang des Verfahrens noch berechtigt es die andere Partei dazu, die Fällung eines Versäumungsurteils zu beantragen\.
 
 ### § 400 ZPO — 
 
-Die Bestimmungen der §§\. 396 bis 399 sind auch dann anzuwenden, wenn eine der Parteien wegen unangemessenen Betragens aus dem Gerichtssaale entfernt wird\.
+> Die Bestimmungen der §§\. 396 bis 399 sind auch dann anzuwenden, wenn eine der Parteien wegen unangemessenen Betragens aus dem Gerichtssaale entfernt wird\.
 
 ### § 401 ZPO — 
 
@@ -3924,11 +3924,11 @@ Die Bestimmungen der §§\. 396 bis 399 sind auch dann anzuwenden, wenn eine der
 ### § 402 ZPO — 
 
 > `(1)` Der Antrag, wegen Säumnis einer Partei das Urtheil zu fällen \(§ 396\), ist zurückzuweisen:
-> 
+>
 >> `1.` wenn der Nachweis fehlt, daß die nicht erschienene Partei zur Tagsatzung ordnungsmäßig geladen wurde\. Der Richter kann sich jedoch auf Antrag der erschienenen Partei die Urteilsfällung bis zu einem von ihm zu bestimmenden Tage vorbehalten und die Verhandlung schließen\. Ergibt sich aus dem innerhalb der bestimmten Frist einlangenden Zustellungsscheine oder aus den Erhebungen über die Zustellung, daß die Ladung der säumigen Partei so rechtzeitig zugestellt wurde, daß sie zur Verhandlung erscheinen konnte, so ist binnen acht Tagen nach Einlangen des Zustellungsscheines oder nach Abschluß der Erhebungen über die Zustellung das Versäumungsurteil zu fällen\.
-> 
+>
 >> `2.` wenn es bei Gericht offenkundig ist, dass die nicht erschienene Partei durch Naturereignisse oder andere unabwendbare Zufälle am Erscheinen gehindert ist;
-> 
+>
 >> `3.` wenn die erschienene Partei die wegen eines von amtswegen zu berücksichtigenden Umstandes vom Gerichte geforderte Nachweisung bei der Tagsatzung nicht zu beschaffen vermag\.
 
 > `(2)` Der Antrag, gegen Streitgenossen wegen Säumnis das Urtheil zu fällen, ist bei dem Vorhandensein einer nach §\. 14 zu beurtheilenden Streitgenossenschaft zurückzuweisen, wenn auch nur betreffs eines der Streitgenossen der Nachweis der Ladung fehlt oder eines der in Z 2 angeführten Hindernisse obwaltet\.
@@ -3937,7 +3937,7 @@ Die Bestimmungen der §§\. 396 bis 399 sind auch dann anzuwenden, wenn eine der
 
 ### § 403 ZPO — 
 
-Wird der Antrag, wegen Säumnis einer Partei das Urtheil zu fällen, durch Beschluss zurückgewiesen, dieser Beschluss aber infolge Recurses aufgehoben, so kann das Urtheil ohne Anberaumung einer neuen Tagsatzung gefällt werden\.
+> Wird der Antrag, wegen Säumnis einer Partei das Urtheil zu fällen, durch Beschluss zurückgewiesen, dieser Beschluss aber infolge Recurses aufgehoben, so kann das Urtheil ohne Anberaumung einer neuen Tagsatzung gefällt werden\.
 
 ## Urtheilsinhalt.
 
@@ -3949,11 +3949,11 @@ Wird der Antrag, wegen Säumnis einer Partei das Urtheil zu fällen, durch Besch
 
 ### § 405 ZPO — 
 
-Das Gericht ist nicht befugt, einer Partei etwas zuzusprechen, was nicht beantragt ist\. Dies gilt insbesondere von Früchten, Zinsen und anderen Nebenforderungen\.
+> Das Gericht ist nicht befugt, einer Partei etwas zuzusprechen, was nicht beantragt ist\. Dies gilt insbesondere von Früchten, Zinsen und anderen Nebenforderungen\.
 
 ### § 406 ZPO — 
 
-Die Verurtheilung zu einer Leistung ist nur zulässig, wenn die Fälligkeit zur Zeit der Urtheilsschöpfung bereits eingetreten ist\. Bei Ansprüchen auf Alimente kann auch zu Leistungen verurtheilt werden, welche erst nach Erlassung des Urtheiles fällig werden\.
+> Die Verurtheilung zu einer Leistung ist nur zulässig, wenn die Fälligkeit zur Zeit der Urtheilsschöpfung bereits eingetreten ist\. Bei Ansprüchen auf Alimente kann auch zu Leistungen verurtheilt werden, welche erst nach Erlassung des Urtheiles fällig werden\.
 
 ### § 407 ZPO — 
 
@@ -3979,7 +3979,7 @@ Die Verurtheilung zu einer Leistung ist nur zulässig, wenn die Fälligkeit zur 
 
 ### § 410 ZPO — 
 
-Wird in einem Urtheile ein Gegenstand zuerkannt, der nicht in einem Geldbetrage besteht, so ist zugleich auszusprechen, dass sich der Beklagte durch Zahlung des Geldbetrages, welchen der Kläger in der Klage oder während der Verhandlung anstatt dieses Gegenstandes anzunehmen sich bereit erklärt hat, von der Leistung dieses Gegenstandes befreien könne\.
+> Wird in einem Urtheile ein Gegenstand zuerkannt, der nicht in einem Geldbetrage besteht, so ist zugleich auszusprechen, dass sich der Beklagte durch Zahlung des Geldbetrages, welchen der Kläger in der Klage oder während der Verhandlung anstatt dieses Gegenstandes anzunehmen sich bereit erklärt hat, von der Leistung dieses Gegenstandes befreien könne\.
 
 ## Rechtskraft des Urtheiles.
 
@@ -3999,7 +3999,7 @@ Wird in einem Urtheile ein Gegenstand zuerkannt, der nicht in einem Geldbetrage 
 
 ### § 413 ZPO — 
 
-Die Berathung und Abstimmung der Richter ist nicht öffentlich\. In schwierigeren Fällen kann der Vorsitzende für diese Berathung einen Berichterstatter bestellen\.
+> Die Berathung und Abstimmung der Richter ist nicht öffentlich\. In schwierigeren Fällen kann der Vorsitzende für diese Berathung einen Berichterstatter bestellen\.
 
 ### § 414 ZPO — 
 
@@ -4013,7 +4013,7 @@ Die Berathung und Abstimmung der Richter ist nicht öffentlich\. In schwierigere
 
 ### § 415 ZPO — 
 
-Wenn das Urteil nicht sofort nach Schluß der mündlichen Verhandlung gefällt werden kann, ist es binnen vier Wochen nach Schluß der Verhandlung, wenn ein abgelehnter Richter die Verhandlung gemäß § 25 JN bis zur Endentscheidung fortgeführt hat, binnen vier Wochen nach rechtskräftiger Zurückweisung der Ablehnung und im Falle des § 193 Abs\. 3 binnen vier Wochen nach dem Einlangen der Akten über die ausständige Beweisaufnahme zu fällen und vom Vorsitzenden in schriftlicher Abfassung samt den vollständigen Entscheidungsgründen zur Ausfertigung abzugeben \(§ 416 Abs\. 2\)\. Verkündet wird das Urteil in diesen Fällen nicht\.
+> Wenn das Urteil nicht sofort nach Schluß der mündlichen Verhandlung gefällt werden kann, ist es binnen vier Wochen nach Schluß der Verhandlung, wenn ein abgelehnter Richter die Verhandlung gemäß § 25 JN bis zur Endentscheidung fortgeführt hat, binnen vier Wochen nach rechtskräftiger Zurückweisung der Ablehnung und im Falle des § 193 Abs\. 3 binnen vier Wochen nach dem Einlangen der Akten über die ausständige Beweisaufnahme zu fällen und vom Vorsitzenden in schriftlicher Abfassung samt den vollständigen Entscheidungsgründen zur Ausfertigung abzugeben \(§ 416 Abs\. 2\)\. Verkündet wird das Urteil in diesen Fällen nicht\.
 
 ### § 416 ZPO — 
 
@@ -4028,13 +4028,13 @@ Wenn das Urteil nicht sofort nach Schluß der mündlichen Verhandlung gefällt w
 ### § 417 ZPO — 
 
 > `(1)` Das Urteil hat in schriftlicher Ausfertigung zu enthalten:
-> 
+>
 >> `1.` die Bezeichnung des Gerichtes und die Namen der Richter, die bei der Entscheidung mitgewirkt haben; wenn ein Landesgericht ein Urteil der besonderen Gerichtsbarkeit in Handelssachen oder ein selbständiges Handelsgericht ein Urteil der allgemeinen Gerichtsbarkeit fällt, ist auch dies anzuführen\.
-> 
+>
 >> `2.` die Bezeichnung der Parteien nach Namen \(Vor\- und Zunamen\), soweit von den Parteien bekanntgegeben Beschäftigung und Geburtsdatum oder Firmenbuchnummer, Wohnort und Parteistellung sowie die Bezeichnung ihrer Vertreter; in Personenstandssachen sind jedenfalls Geburtsdatum und Geburtsort der Parteien anzuführen; in den Fällen des § 75a hat die Angabe des Wohnortes zu entfallen;
-> 
+>
 >> `3.` den Urteilsspruch;
-> 
+>
 >> `4.` die Entscheidungsgründe\.
 
 > `(2)` Der Urteilsspruch und die Entscheidungsgründe sind äußerlich zu sondern\. Die Entscheidungsgründe haben in gedrängter Darstellung zu enthalten: das wesentliche Vorbringen und die Anträge der Parteien, die Außerstreitstellungen, die Tatsachenfeststellungen, die Beweiswürdigung und die rechtliche Beurteilung\.
@@ -4082,7 +4082,7 @@ Wenn das Urteil nicht sofort nach Schluß der mündlichen Verhandlung gefällt w
 
 ### § 424 ZPO — 
 
-Die Verhandlung über die Ergänzung des Urteiles hat auf den Lauf der Rechtsmittelfristen keinen Einfluß\.
+> Die Verhandlung über die Ergänzung des Urteiles hat auf den Lauf der Rechtsmittelfristen keinen Einfluß\.
 
 ## Zweiter Titel.
 
@@ -4126,7 +4126,7 @@ Die Verhandlung über die Ergänzung des Urteiles hat auf den Lauf der Rechtsmit
 
 ### § 430 ZPO — 
 
-In Ansehung der Ertheilung von Ausfertigungen und Auszügen, dann der Berichtigung von Beschlüssen und der Ergänzung derselben, wenn über einen Antrag der Partei theilweise nicht erkannt wurde oder wenn der beantragte Ausspruch über die Erstattung der Processkosten fehlt oder unvollständig ist, gelten die Vorschriften der §§\. 418, 419, 423 und 424\.
+> In Ansehung der Ertheilung von Ausfertigungen und Auszügen, dann der Berichtigung von Beschlüssen und der Ergänzung derselben, wenn über einen Antrag der Partei theilweise nicht erkannt wurde oder wenn der beantragte Ausspruch über die Erstattung der Processkosten fehlt oder unvollständig ist, gelten die Vorschriften der §§\. 418, 419, 423 und 424\.
 
 ## Dritter Theil.
 
@@ -4154,7 +4154,7 @@ In Ansehung der Ertheilung von Ausfertigungen und Auszügen, dann der Berichtigu
 
 ### § 433a ZPO — Mediationsvergleich und Vergleiche nach dem Alternative-Streitbeilegung-Gesetz
 
-Über den Inhalt der in einem Mediationsverfahren oder in einem Schlichtungsverfahren über Verbraucherstreitigkeiten nach dem Alternative\-Streitbeilegung\-Gesetz, BGBl\. I Nr\. 105/2015, über eine Zivilsache erzielten schriftlichen Vereinbarung kann vor jedem Bezirksgericht ein gerichtlicher Vergleich geschlossen werden\.
+> Über den Inhalt der in einem Mediationsverfahren oder in einem Schlichtungsverfahren über Verbraucherstreitigkeiten nach dem Alternative\-Streitbeilegung\-Gesetz, BGBl\. I Nr\. 105/2015, über eine Zivilsache erzielten schriftlichen Vereinbarung kann vor jedem Bezirksgericht ein gerichtlicher Vergleich geschlossen werden\.
 
 ### § 434 ZPO — 
 
@@ -4170,15 +4170,15 @@ In Ansehung der Ertheilung von Ausfertigungen und Auszügen, dann der Berichtigu
 
 ### § 436 ZPO — 
 
-Die Tagsatzung zur mündlichen Verhandlung über die Klage kann in dringenden Fällen und insbesondere bei Klagen wegen Besitzstörung auf den nämlichen Tag anberaumt werden, an welchem die Klage bei Gericht angebracht wurde\.
+> Die Tagsatzung zur mündlichen Verhandlung über die Klage kann in dringenden Fällen und insbesondere bei Klagen wegen Besitzstörung auf den nämlichen Tag anberaumt werden, an welchem die Klage bei Gericht angebracht wurde\.
 
 ### § 437 ZPO — 
 
-Der Kläger ist durch Zustellung einer Ausfertigung des über die Klage ergehenden Beschlusses mit der Aufforderung zur mündlichen Verhandlung zu laden, die während der Verhandlung in Augenschein zu nehmenden Gegenstände und die sich auf den Rechtsstreit beziehenden, dem Gerichte noch nicht vorliegenden Urkunden zur Tagsatzung mitzubringen\. In der Ladung ist dem Kläger bekannt zu geben, welche Nachtheile das Gesetz mit dem Versäumen der Tagsatzung verbindet\.
+> Der Kläger ist durch Zustellung einer Ausfertigung des über die Klage ergehenden Beschlusses mit der Aufforderung zur mündlichen Verhandlung zu laden, die während der Verhandlung in Augenschein zu nehmenden Gegenstände und die sich auf den Rechtsstreit beziehenden, dem Gerichte noch nicht vorliegenden Urkunden zur Tagsatzung mitzubringen\. In der Ladung ist dem Kläger bekannt zu geben, welche Nachtheile das Gesetz mit dem Versäumen der Tagsatzung verbindet\.
 
 ### § 438 ZPO — 
 
-Die Ladung des Beklagten geschieht durch Zustellung einer schriftlichen Ausfertigung des über die Klage ergehenden Beschlusses unter gleichzeitiger Mittheilung eines Exemplares der schriftlichen Klage oder einer Abschrift des über die Klage aufgenommenen Protokolles\. Bei protokollarischer Ergänzung oder Richtigstellung der schriftlichen Klage ist dem Beklagten auch eine Abschrift dieses Protokolles zuzustellen\. Der Beklagte ist zugleich aufzufordern, die sich auf den Rechtsstreit beziehenden Augenscheinsgegenstände und Urkunden zur Tagsatzung mitzubringen und wegen der Vorlage der im Besitze des Gegners oder in Verwahrung einer öffentlichen Behörde oder eines Notars befindlichen Beweisurkunden und Augenscheinsgegenstände, sowie wegen etwaiger gerichtlicher Vorladung von Zeugen noch vor der für die mündliche Verhandlung anberaumten Tagsatzung seine Anträge zu stellen\. In der Ladung ist dem Beklagten bekannt zu geben, welche Nachtheile das Gesetz mit dem Versäumen der Tagsatzung verbindet\.
+> Die Ladung des Beklagten geschieht durch Zustellung einer schriftlichen Ausfertigung des über die Klage ergehenden Beschlusses unter gleichzeitiger Mittheilung eines Exemplares der schriftlichen Klage oder einer Abschrift des über die Klage aufgenommenen Protokolles\. Bei protokollarischer Ergänzung oder Richtigstellung der schriftlichen Klage ist dem Beklagten auch eine Abschrift dieses Protokolles zuzustellen\. Der Beklagte ist zugleich aufzufordern, die sich auf den Rechtsstreit beziehenden Augenscheinsgegenstände und Urkunden zur Tagsatzung mitzubringen und wegen der Vorlage der im Besitze des Gegners oder in Verwahrung einer öffentlichen Behörde oder eines Notars befindlichen Beweisurkunden und Augenscheinsgegenstände, sowie wegen etwaiger gerichtlicher Vorladung von Zeugen noch vor der für die mündliche Verhandlung anberaumten Tagsatzung seine Anträge zu stellen\. In der Ladung ist dem Beklagten bekannt zu geben, welche Nachtheile das Gesetz mit dem Versäumen der Tagsatzung verbindet\.
 
 ### § 439 ZPO — 
 
@@ -4201,11 +4201,11 @@ Die Ladung des Beklagten geschieht durch Zustellung einer schriftlichen Ausferti
 
 ### § 441 ZPO
 
-Die Einrede der Unzuständigkeit des Gerichtes hat der Beklagte vorzubringen, bevor er sich in die Verhandlung über die Hauptsache einlässt\. Nach Einlassung des Beklagten zur Hauptsache kann die Unzuständigkeit des Gerichtes nur unter den Voraussetzungen des § 240 berücksichtigt werden\.
+> Die Einrede der Unzuständigkeit des Gerichtes hat der Beklagte vorzubringen, bevor er sich in die Verhandlung über die Hauptsache einlässt\. Nach Einlassung des Beklagten zur Hauptsache kann die Unzuständigkeit des Gerichtes nur unter den Voraussetzungen des § 240 berücksichtigt werden\.
 
 ### § 442 ZPO
 
-Bleibt eine der Parteien von einer Tagsatzung aus, bevor sie sich durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, so ist auf Antrag der erschienenen Partei ein Versäumungsurteil nach § 396 zu fällen\.
+> Bleibt eine der Parteien von einer Tagsatzung aus, bevor sie sich durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, so ist auf Antrag der erschienenen Partei ein Versäumungsurteil nach § 396 zu fällen\.
 
 ### § 442a ZPO
 
@@ -4215,19 +4215,19 @@ Bleibt eine der Parteien von einer Tagsatzung aus, bevor sie sich durch mündlic
 
 ### § 443 ZPO — 
 
-Die Protokollirung des thatsächlichen und Beweisvorbringens der Parteien hat, falls nicht vorbereitende Schriftsätze vorliegen \(§\. 210 Absatz 1\), in der Regel auf die in §\. 211 bezeichnete Art zu geschehen\.
+> Die Protokollirung des thatsächlichen und Beweisvorbringens der Parteien hat, falls nicht vorbereitende Schriftsätze vorliegen \(§\. 210 Absatz 1\), in der Regel auf die in §\. 211 bezeichnete Art zu geschehen\.
 
 ### § 446 ZPO — 
 
-Wenn ein nicht ausschließlich zur Ausübung der Gerichtsbarkeit in Handelssachen berufenes Bezirksgericht ein Urteil der Gerichtsbarkeit in Handelsrechtssachen oder ein besonderes Bezirksgericht für Handelssachen ein Urteil der allgemeinen Gerichtsbarkeit fällt, hat es dies auf Antrag \(§ 258 Absatz 3\) im Urteil anzuführen\.
+> Wenn ein nicht ausschließlich zur Ausübung der Gerichtsbarkeit in Handelssachen berufenes Bezirksgericht ein Urteil der Gerichtsbarkeit in Handelsrechtssachen oder ein besonderes Bezirksgericht für Handelssachen ein Urteil der allgemeinen Gerichtsbarkeit fällt, hat es dies auf Antrag \(§ 258 Absatz 3\) im Urteil anzuführen\.
 
 ### § 447 ZPO — 
 
-In den Ausfertigungen der Urtheile ist insbesondere hervorzuheben, dass für die Ergreifung eines Rechtsmittels gegen das Urtheil, sowie für das Rechtsmittelverfahren überhaupt die Vertretung durch einen Rechtsanwalt erforderlich ist\.
+> In den Ausfertigungen der Urtheile ist insbesondere hervorzuheben, dass für die Ergreifung eines Rechtsmittels gegen das Urtheil, sowie für das Rechtsmittelverfahren überhaupt die Vertretung durch einen Rechtsanwalt erforderlich ist\.
 
 ### § 448 ZPO
 
-Für das bezirksgerichtliche Mahnverfahren gelten folgende Besonderheiten:
+> Für das bezirksgerichtliche Mahnverfahren gelten folgende Besonderheiten:
 
 > `1.` Für die Erhebung des Einspruchs bedarf es nicht der Vertretung durch einen Rechtsanwalt; Gleiches gilt für die Zurücknahme des Einspruchs\. Schriftliche Einsprüche können auch in einfacher Ausfertigung und ohne Beibringung von Rubriken überreicht werden; es genügt, dass aus dem Schriftstück die Absicht, Einspruch zu erheben, deutlich hervorgeht\.
 
@@ -4247,11 +4247,11 @@ Für das bezirksgerichtliche Mahnverfahren gelten folgende Besonderheiten:
 
 ### § 455 ZPO — 
 
-Bei der Anberaumung der Tagsatzungen und Fristen ist stets auf die Dringlichkeit der Erledigung besonderer Bedacht zu nehmen\.
+> Bei der Anberaumung der Tagsatzungen und Fristen ist stets auf die Dringlichkeit der Erledigung besonderer Bedacht zu nehmen\.
 
 ### § 456 ZPO — 
 
-Auf Grund des in der Klage gestellten Begehrens, im Sinne der §§\. 340 bis 342 a\. b\. G\. B\. ein Verbot zu erlassen, hat der Richter sogleich bei Erledigung der Klage ohne Einvernehmung des Gegners das Erforderliche zu verfügen\.
+> Auf Grund des in der Klage gestellten Begehrens, im Sinne der §§\. 340 bis 342 a\. b\. G\. B\. ein Verbot zu erlassen, hat der Richter sogleich bei Erledigung der Klage ohne Einvernehmung des Gegners das Erforderliche zu verfügen\.
 
 ### § 457 ZPO — 
 
@@ -4260,17 +4260,17 @@ Auf Grund des in der Klage gestellten Begehrens, im Sinne der §§\. 340 bis 342
 
 ### § 458 ZPO — 
 
-Der Richter kann während der Verhandlung die Anwendung einer oder mehrerer der im Gesetze über das Executions\- und Sicherungsverfahren zugelassenen einstweiligen Vorkehrungen anordnen, sofern dies zur Abwendung der dringenden Gefahr widerrechtlicher Beschädigung, zur Verhütung von Gewaltthätigkeiten oder zur Hintanhaltung eines unwiederbringlichen Schadens nöthig erscheint\. Die Erlassung einer derartigen Verfügung kann von der Leistung einer angemessenen Sicherstellung abhängig gemacht werden\.
+> Der Richter kann während der Verhandlung die Anwendung einer oder mehrerer der im Gesetze über das Executions\- und Sicherungsverfahren zugelassenen einstweiligen Vorkehrungen anordnen, sofern dies zur Abwendung der dringenden Gefahr widerrechtlicher Beschädigung, zur Verhütung von Gewaltthätigkeiten oder zur Hintanhaltung eines unwiederbringlichen Schadens nöthig erscheint\. Die Erlassung einer derartigen Verfügung kann von der Leistung einer angemessenen Sicherstellung abhängig gemacht werden\.
 
 ### § 459 ZPO — 
 
-Die Entscheidung hat sogleich nach geschlossener Verhandlung mittels Beschlusses \(Endbeschluss\) zu erfolgen und sich darauf zu beschränken, eine einstweilige Norm für den thatsächlichen Besitzstand aufzustellen oder provisorisch nach dem Gesetze \(§§\. 340 bis 343a\. b\. G\. B\.\) eine Untersagung oder Sicherstellung auszusprechen\. Die spätere gerichtliche Geltendmachung des Rechtes zum Besitze und der davon abhängigen Ansprüche wird dadurch nicht gehindert\. In der Begründung des Beschlusses ist auch eine gedrängte Darstellung des Sachverhaltes zu geben\. Die Frist zur Erfüllung der dem Verurtheilten auferlegten Verbindlichkeit hat der Richter nach den Umständen des einzelnen Falles zu bestimmen\. Der § 417 a gilt sinngemäß\.
+> Die Entscheidung hat sogleich nach geschlossener Verhandlung mittels Beschlusses \(Endbeschluss\) zu erfolgen und sich darauf zu beschränken, eine einstweilige Norm für den thatsächlichen Besitzstand aufzustellen oder provisorisch nach dem Gesetze \(§§\. 340 bis 343a\. b\. G\. B\.\) eine Untersagung oder Sicherstellung auszusprechen\. Die spätere gerichtliche Geltendmachung des Rechtes zum Besitze und der davon abhängigen Ansprüche wird dadurch nicht gehindert\. In der Begründung des Beschlusses ist auch eine gedrängte Darstellung des Sachverhaltes zu geben\. Die Frist zur Erfüllung der dem Verurtheilten auferlegten Verbindlichkeit hat der Richter nach den Umständen des einzelnen Falles zu bestimmen\. Der § 417 a gilt sinngemäß\.
 
 ## Besondere Bestimmungen für das Verfahren in Ehesachen
 
 ### § 460 ZPO
 
-In Ehesachen \(§ 49 Abs\. 2 Z 2a JN\) und Verfahren in anderen nicht rein vermögensrechtlichen aus dem gegenseitigen Verhältnis zwischen Ehegatten entspringenden Streitigkeiten \(§ 49 Abs\. 2 Z 2b JN\) gelten folgende besondere Bestimmungen:
+> In Ehesachen \(§ 49 Abs\. 2 Z 2a JN\) und Verfahren in anderen nicht rein vermögensrechtlichen aus dem gegenseitigen Verhältnis zwischen Ehegatten entspringenden Streitigkeiten \(§ 49 Abs\. 2 Z 2b JN\) gelten folgende besondere Bestimmungen:
 
 > `1.` Das Gericht soll die Parteien zum persönlichen Erscheinen auffordern, wenn nicht wichtige Gründe dagegen sprechen\. Das Erscheinen der Parteien ist erforderlichenfalls nach § 87 GOG durchzusetzen\.
 
@@ -4290,7 +4290,7 @@ In Ehesachen \(§ 49 Abs\. 2 Z 2a JN\) und Verfahren in anderen nicht rein ve
 
 > `7.` Im Verfahren wegen Scheidung der Ehe hat das Gericht am Beginn der mündlichen Streitverhandlung zunächst eine Versöhnung der Ehegatten anzustreben \(Versöhnungsversuch\) und überdies in jeder Lage des Verfahrens, soweit tunlich, auf eine Versöhnung hinzuwirken\.
 
-*\(Anm\.: Z 7a aufgehoben durch BGBl\. I Nr\. 29/2003\)*
+> *\(Anm\.: Z 7a aufgehoben durch BGBl\. I Nr\. 29/2003\)*
 
 > `8.` Stirbt einer der Ehegatten vor der Rechtskraft des Urteils \(§ 416 Abs\. 1\), so ist der Rechtsstreit in Ansehung der Hauptsache als erledigt anzusehen\. Er kann nur mehr wegen der Verfahrenskosten fortgesetzt werden\. Ein bereits ergangenes Urteil ist wirkungslos\.
 
@@ -4348,15 +4348,15 @@ In Ehesachen \(§ 49 Abs\. 2 Z 2a JN\) und Verfahren in anderen nicht rein ve
 
 ### § 465 ZPO — 
 
-Die Berufung wird durch Überreichung eines vorbereitenden Schriftsatzes \(Berufungsschrift\) bei dem Processgerichte erster Instanz erhoben\.
+> Die Berufung wird durch Überreichung eines vorbereitenden Schriftsatzes \(Berufungsschrift\) bei dem Processgerichte erster Instanz erhoben\.
 
 ### § 466 ZPO — 
 
-Durch die rechtzeitige Erhebung der Berufung wird der Eintritt der Rechtskraft und Vollstreckbarkeit des angefochtenen Urtheiles im Umfange der Berufungsanträge bis zur Erledigung des Rechtsmittels gehemmt\.
+> Durch die rechtzeitige Erhebung der Berufung wird der Eintritt der Rechtskraft und Vollstreckbarkeit des angefochtenen Urtheiles im Umfange der Berufungsanträge bis zur Erledigung des Rechtsmittels gehemmt\.
 
 ### § 467 ZPO — 
 
-Die Berufungsschrift muss nebst den allgemeinen Erfordernissen eines vorbereitenden Schriftsatzes enthalten:
+> Die Berufungsschrift muss nebst den allgemeinen Erfordernissen eines vorbereitenden Schriftsatzes enthalten:
 
 > `1.` die Bezeichnung des Berufungsgerichtes;
 
@@ -4392,11 +4392,11 @@ Die Berufungsschrift muss nebst den allgemeinen Erfordernissen eines vorbereiten
 
 ### § 470 ZPO
 
-Nach dem Einlangen der Berufungsakten beim Berufungsgericht hat der mit den Verrichtungen eines Vorsitzenden des Berufungssenates betraute Richter die Berufungsakten zu prüfen\.
+> Nach dem Einlangen der Berufungsakten beim Berufungsgericht hat der mit den Verrichtungen eines Vorsitzenden des Berufungssenates betraute Richter die Berufungsakten zu prüfen\.
 
 ### § 471 ZPO — 
 
-Auf Grund dieser Prüfung ist die Berufung, ohne dass zunächst eine Tagsatzung zur mündlichen Verhandlung anberaumt würde, vor den Berufungssenat zu bringen:
+> Auf Grund dieser Prüfung ist die Berufung, ohne dass zunächst eine Tagsatzung zur mündlichen Verhandlung anberaumt würde, vor den Berufungssenat zu bringen:
 
 > `1.` wenn das Berufungsgericht zur Entscheidung über die erhobene Berufung nicht zuständig erscheint;
 
@@ -4461,23 +4461,23 @@ Auf Grund dieser Prüfung ist die Berufung, ohne dass zunächst eine Tagsatzung 
 ### § 477 ZPO — 
 
 > `(1)` Als nichtig \(§\. 471, Z 5 und 7\) ist das angefochtene Urtheil und, soweit der Grund der Nichtigkeit das vorangegangene Verfahren ergreift, auch dieses aufzuheben:
-> 
+>
 >> `1.` wenn an der Entscheidung ein Richter theilnahm, welcher kraft des Gesetzes von der Ausübung des Richteramtes in dieser Rechtssache ausgeschlossen war, oder dessen Ablehnung vom Gerichte als berechtigt erkannt worden ist;
-> 
+>
 >> `2.` wenn das erkennende Gericht nicht vorschriftsmäßig besetzt war;
-> 
+>
 >> `3.` wenn das Urteil von einem Gericht gefällt wurde, obwohl der Umstand nicht geheilt ist, daß die inländische Gerichtsbarkeit fehlt oder das Gericht auch nicht durch ausdrückliche Vereinbarung der Parteien für die betreffende Rechtssache sachlich oder örtlich zuständig gemacht werden konnte \(§ 104 Abs\. 3 bis 5 JN\);
-> 
+>
 >> `4.` wenn einer Partei die Möglichkeit, vor Gericht zu verhandeln, durch ungesetzlichen Vorgang, insbesondere durch Unterlassung der Zustellung entzogen wurde;
-> 
+>
 >> `5.` wenn eine Partei in dem Verfahren gar nicht oder, falls sie eines gesetzlichen Vertreters bedarf, nicht durch einen solchen vertreten war, sofern die Processführung nicht nachträglich ordnungsmäßig genehmigt wurde;
-> 
+>
 >> `6.` wenn über eine nicht auf den Rechtsweg gehörige Sache erkannt wurde;
-> 
+>
 >> `7.` wenn die Öffentlichkeit in ungerechtfertigter Weise ausgeschlossen wurde;
-> 
+>
 >> `8.` wenn der Vorschrift des §\. 210, Absatz 2, zuwider die Parteien oder deren Bevollmächtigte von ihnen abgefasste Entwürfe zu Verhandlungsprotokollen zu den Acten gebracht haben;
-> 
+>
 >> `9.` wenn die Fassung des Urtheiles so mangelhaft ist, dass dessen Überprüfung nicht mit Sicherheit vorgenommen werden kann, wenn das Urtheil mit sich selbst in Widerspruch ist oder für die Entscheidung keine Gründe angegeben sind und diesen Mängeln durch eine vom Berufungsgerichte angeordnete Berichtigung des Urtheiles \(§\. 419\) nicht abgeholfen werden kann\.
 
 > `(2)` Eine nachträgliche Genehmigung der Processführung \(Z 5\) liegt insbesondere dann vor, wenn der gesetzliche Vertreter, ohne den Mangel der Vertretung geltend zu machen, durch Erstattung der Berufungsschrift oder der Berufungsbeantwortung in das Berufungsverfahren eingetreten ist\.
@@ -4516,7 +4516,7 @@ Auf Grund dieser Prüfung ist die Berufung, ohne dass zunächst eine Tagsatzung 
 
 ### § 481 ZPO — 
 
-Zeigt sich schon bei Anberaumung der Tagsatzung die Nothwendigkeit, in der Berufungsverhandlung die Wahrheit einzelner in der Berufungsschrift oder in einem vorbereitenden Schriftsatze angeführter Thatsachen, auf welche die Berufung gegründet wird, festzustellen, schon in erster Instanz vorgebrachte Beweise zu wiederholen, zu ergänzen oder bisher bloß angebotene Beweise aufzunehmen, so hat der Vorsitzende des Berufungssenates die namhaft gemachten Zeugen oder die in erster Instanz einvernommenen Sachverständigen zur Berufungsverhandlung vorzuladen, die Parteien behufs ihrer eidlichen Vernehmung zum Erscheinen aufzufordern und die Herbeischaffung aller sonstigen Beweismittel zu veranlassen\.
+> Zeigt sich schon bei Anberaumung der Tagsatzung die Nothwendigkeit, in der Berufungsverhandlung die Wahrheit einzelner in der Berufungsschrift oder in einem vorbereitenden Schriftsatze angeführter Thatsachen, auf welche die Berufung gegründet wird, festzustellen, schon in erster Instanz vorgebrachte Beweise zu wiederholen, zu ergänzen oder bisher bloß angebotene Beweise aufzunehmen, so hat der Vorsitzende des Berufungssenates die namhaft gemachten Zeugen oder die in erster Instanz einvernommenen Sachverständigen zur Berufungsverhandlung vorzuladen, die Parteien behufs ihrer eidlichen Vernehmung zum Erscheinen aufzufordern und die Herbeischaffung aller sonstigen Beweismittel zu veranlassen\.
 
 ## Mündliche Berufungsverhandlung.
 
@@ -4552,7 +4552,7 @@ Zeigt sich schon bei Anberaumung der Tagsatzung die Nothwendigkeit, in der Beruf
 
 ### § 485 ZPO — 
 
-Die Verhandlung über die Berufung gegen ein Urtheil, dessen Ergänzung gemäß §\. 423 beantragt wurde, kann auf Antrag ausgesetzt werden, bis entweder das Ergänzungsurtheil ohne Berufung in Rechtskraft erwachsen oder auch die Berufung gegen das Ergänzungsurtheil an das Berufungsgericht gelangt ist\. Im letzteren Falle ist die Verhandlung über beide Berufungen zu verbinden\.
+> Die Verhandlung über die Berufung gegen ein Urtheil, dessen Ergänzung gemäß §\. 423 beantragt wurde, kann auf Antrag ausgesetzt werden, bis entweder das Ergänzungsurtheil ohne Berufung in Rechtskraft erwachsen oder auch die Berufung gegen das Ergänzungsurtheil an das Berufungsgericht gelangt ist\. Im letzteren Falle ist die Verhandlung über beide Berufungen zu verbinden\.
 
 ### § 486 ZPO — 
 
@@ -4576,7 +4576,7 @@ Die Verhandlung über die Berufung gegen ein Urtheil, dessen Ergänzung gemäß 
 
 ### § 489 ZPO — 
 
-*\(Anm\.: Abs\. 1 aufgehoben durch Art\. IV Z 89, BGBl\. Nr\. 135/1983\)*
+> *\(Anm\.: Abs\. 1 aufgehoben durch Art\. IV Z 89, BGBl\. Nr\. 135/1983\)*
 
 > `(2)` Wird vom Berufungssenate die neuerliche eidliche Einvernehmung einer bereits in erster Instanz eidlich abgehörten Partei angeordnet, so ist dieselbe unter Erinnerung an den in erster Instanz abgelegten Eid zu vernehmen\.
 
@@ -4584,11 +4584,11 @@ Die Verhandlung über die Berufung gegen ein Urtheil, dessen Ergänzung gemäß 
 
 ### § 490 ZPO — 
 
-Das Berufungsgericht hat auf Antrag noch vor Entscheidung über die Berufung durch Beschluss auszusprechen, inwieweit das Urtheil der unteren Instanz als nicht angefochten zur Execution geeignet ist\. Gegen diesen Beschluss ist ein abgesondertes Rechtsmittel nicht zulässig\.
+> Das Berufungsgericht hat auf Antrag noch vor Entscheidung über die Berufung durch Beschluss auszusprechen, inwieweit das Urtheil der unteren Instanz als nicht angefochten zur Execution geeignet ist\. Gegen diesen Beschluss ist ein abgesondertes Rechtsmittel nicht zulässig\.
 
 ### § 491 ZPO — 
 
-Im Fall des Ausbleibens einer Partei ist über die Berufung dennoch zu verhandeln und mit Berücksichtigung des in der Berufungsschrift und einer etwa erstatteten Berufungsbeantwortung Vorgebrachten zu entscheiden\. Ob ein neues Vorbringen \(§\. 482 Absatz 2\) als zugestanden oder als bestritten anzusehen sei, hat das Berufungsgericht unter Berücksichtigung des angefochtenen Urtheiles und aller sonstigen Processacten erster und zweiter Instanz zu entscheiden\.
+> Im Fall des Ausbleibens einer Partei ist über die Berufung dennoch zu verhandeln und mit Berücksichtigung des in der Berufungsschrift und einer etwa erstatteten Berufungsbeantwortung Vorgebrachten zu entscheiden\. Ob ein neues Vorbringen \(§\. 482 Absatz 2\) als zugestanden oder als bestritten anzusehen sei, hat das Berufungsgericht unter Berücksichtigung des angefochtenen Urtheiles und aller sonstigen Processacten erster und zweiter Instanz zu entscheiden\.
 
 ### § 493 ZPO — 
 
@@ -4599,20 +4599,20 @@ Im Fall des Ausbleibens einer Partei ist über die Berufung dennoch zu verhandel
 
 ### § 494 ZPO — 
 
-Überzeugt sich das Gericht aus Anlass einer Berufungsverhandlung, dass das angefochtene Urtheil oder das Verfahren in erster Instanz an einer bisher unbeachtet gebliebenen Nichtigkeit leide, so ist, sofern nicht ein durch ausdrückliche oder stillschweigende Genehmigung beseitigter Mangel der Vertretung \(§\. 477, Z 5\) vorliegt, im Sinne der §§\. 477 und 478 vorzugehen, wenn auch die Nichtigkeit von keiner der Parteien geltend gemacht wurde\.
+> Überzeugt sich das Gericht aus Anlass einer Berufungsverhandlung, dass das angefochtene Urtheil oder das Verfahren in erster Instanz an einer bisher unbeachtet gebliebenen Nichtigkeit leide, so ist, sofern nicht ein durch ausdrückliche oder stillschweigende Genehmigung beseitigter Mangel der Vertretung \(§\. 477, Z 5\) vorliegt, im Sinne der §§\. 477 und 478 vorzugehen, wenn auch die Nichtigkeit von keiner der Parteien geltend gemacht wurde\.
 
 ### § 495 ZPO
 
-Werden die im § 471 Z 2 und 3 bezeichneten Mängel erst bei der mündlichen Verhandlung wahrgenommen, so ist die Berufung durch Beschluß zurückzuweisen; im Fall des § 471 Z 3 jedoch nur, wenn der anwesende Berufungswerber die Berufungsschrift trotz Aufforderung nicht verbessert\.
+> Werden die im § 471 Z 2 und 3 bezeichneten Mängel erst bei der mündlichen Verhandlung wahrgenommen, so ist die Berufung durch Beschluß zurückzuweisen; im Fall des § 471 Z 3 jedoch nur, wenn der anwesende Berufungswerber die Berufungsschrift trotz Aufforderung nicht verbessert\.
 
 ### § 496 ZPO — 
 
 > `(1)` Die Sache ist vom Berufungsgerichte an das Processgericht erster Instanz zur Verhandlung und Urtheilsfällung zurückzuweisen, wenn, ohne dass dadurch eine Nichtigkeit begründet wäre:
-> 
+>
 >> `1.` die Sachanträge durch das angefochtene Endurtheil nicht vollständig erledigt wurden;
-> 
+>
 >> `2.` das Verfahren erster Instanz an wesentlichen Mängeln leidet, welche eine erschöpfende Erörterung und gründliche Beurtheilung der Streitsache verhinderten;
-> 
+>
 >> `3.` nach Inhalt der Processacten dem Berufungsgerichte erheblich scheinende Thatsachen in erster Instanz gar nicht erörtert wurden\.
 
 > `(2)` Das Verfahren vor dem Processgerichte hat sich im Falle der Z 1 auf die unerledigt gebliebenen Ansprüche und Anträge, im Falle der Z 2 auf die durch den Mangel betroffenen Theile des erstrichterlichen Verfahrens und Urtheiles zu beschränken\.
@@ -4648,16 +4648,16 @@ Werden die im § 471 Z 2 und 3 bezeichneten Mängel erst bei der mündlichen V
 > `(1)` Das Urteil oder der Beschluß des Berufungsgerichts, wodurch die Berufung erledigt wird, ist den Parteien stets in schriftlicher Ausfertigung zuzustellen\.
 
 > `(2)` Das Berufungsgericht hat in seinem Urteil auszusprechen,
-> 
+>
 >> `1.` wenn der Entscheidungsgegenstand nicht ausschließlich in einem Geldbetrag besteht, ob der Wert des Entscheidungsgegenstandes insgesamt
->> 
+>>
 >>> `a)` 5 000 Euro übersteigt oder nicht;
->> 
+>>
 >>> `b)` bei Übersteigen von 5 000 Euro auch 30 000 Euro übersteigt oder nicht;
-> 
+>
 >> `2.` daß die Revision nach § 502 Abs\. 2 jedenfalls unzulässig ist, falls dies \- auch unter Bedachtnahme auf § 502 Abs\. 4 und 5 \-  
 >> &nbsp; zutrifft;
-> 
+>
 >> `3.` falls Z 2 nicht zutrifft, ob die ordentliche Revision nach § 502 Abs\. 1 zulässig ist oder nicht\.
 
 > `(3)` Bei den Aussprüchen nach Abs\. 2 Z 1 sind die §§ 54 Abs\. 2, 55 Abs\. 1 bis 3, 56 Abs\. 3, 57, 58 JN sinngemäß anzuwenden\. Der Ausspruch nach Abs\. 2 Z 2 bindet weder die Parteien noch die Gerichte\. Der Ausspruch nach Abs\. 2 Z 3 ist kurz zu begründen\.
@@ -4666,7 +4666,7 @@ Werden die im § 471 Z 2 und 3 bezeichneten Mängel erst bei der mündlichen V
 
 ### § 500a ZPO
 
-In der Ausfertigung seiner Entscheidung kann das Berufungsgericht die Wiedergabe des Parteivorbringens und der tatsächlichen Entscheidungsgrundlagen auf das beschränken, was zum Verständnis seiner Rechtsausführungen erforderlich ist\. Soweit das Berufungsgericht die Rechtsmittelausführungen für nicht stichhältig, hingegen die damit bekämpften Entscheidungsgründe des angefochtenen Urteils für zutreffend erachtet, kann es sich unter Hinweis auf deren Richtigkeit mit einer kurzen Begründung seiner Beurteilung begnügen\. Der § 417a ist nicht anzuwenden\.
+> In der Ausfertigung seiner Entscheidung kann das Berufungsgericht die Wiedergabe des Parteivorbringens und der tatsächlichen Entscheidungsgrundlagen auf das beschränken, was zum Verständnis seiner Rechtsausführungen erforderlich ist\. Soweit das Berufungsgericht die Rechtsmittelausführungen für nicht stichhältig, hingegen die damit bekämpften Entscheidungsgründe des angefochtenen Urteils für zutreffend erachtet, kann es sich unter Hinweis auf deren Richtigkeit mit einer kurzen Begründung seiner Beurteilung begnügen\. Der § 417a ist nicht anzuwenden\.
 
 ### § 501 ZPO
 
@@ -4691,22 +4691,22 @@ In der Ausfertigung seiner Entscheidung kann das Berufungsgericht die Wiedergabe
 > `(4)` In den im § 49 Abs\. 2 Z 1 und 2 JN bezeichneten familienrechtlichen Streitigkeiten ist die Revision – außer im Fall des § 508 Abs\. 3 – jedenfalls unzulässig, wenn der Entscheidungsgegenstand insgesamt 30 000 Euro nicht übersteigt und das Berufungsgericht die ordentliche Revision nach § 500 Abs\. 2 Z 3 für nicht zulässig erklärt hat; die Abs\. 2 und 3 sind nicht anzuwenden\.
 
 > `(5)` Die Abs\. 2 und 3 gelten nicht
-> 
+>
 >> `1.` für die im § 49 Abs\. 2 Z 2a und 2b JN bezeichneten familienrechtlichen Streitigkeiten;
-> 
+>
 >> `2.` für die unter § 49 Abs\. 2 Z 5 JN fallenden Streitigkeiten, wenn dabei über eine Kündigung, über eine Räumung oder über das Bestehen oder Nichtbestehen des Vertrags entschieden wird;
-> 
+>
 >> `3.` für Rechtsstreitigkeiten, in denen ein im § 29 KSchG genannter Verband einen ihm zur Geltendmachung abgetretenen Anspruch gegen eine Partei klagsweise geltend macht\.
-> 
+>
 >> `4.` für Streitigkeiten in Arbeits\- und Sozialrechtssachen;
-> 
+>
 >> `5.` für Streitigkeiten nach § 549;
-> 
+>
 >> `6.` für Streitigkeiten nach dem Bundes\-Behindertengleichstellungsgesetz\.
 
 ### § 503 ZPO — 
 
-Die Revision kann nur aus einem der folgenden Gründe begehrt werden:
+> Die Revision kann nur aus einem der folgenden Gründe begehrt werden:
 
 > `1.` weil das Urtheil des Berufungsgerichtes wegen eines der im §\. 477 bezeichneten Mängel nichtig ist;
 
@@ -4737,15 +4737,15 @@ Die Revision kann nur aus einem der folgenden Gründe begehrt werden:
 ### § 506 ZPO — 
 
 > `(1)` Die Revisionsschrift muss nebst den allgemeinen Erfordernissen eines Schriftsatzes enthalten:
-> 
+>
 >> `1.` die Bezeichnung des Urtheiles, gegen welches die Revision gerichtet ist;
-> 
+>
 >> `2.` die bestimmte Erklärung, inwieweit das Urteil angefochten wird, die ebenso bestimmte kurze Bezeichnung der Gründe der Anfechtung \(Revisionsgründe\) und die Erklärung, ob die Aufhebung oder eine Abänderung des Urteils und welche beantragt werde, \(Revisionsantrag\);
-> 
+>
 >> `3.` das thatsächliche Vorbringen und die Beweismittel, durch welche die Wahrheit der im § 503 Z 1 und 2 angegebenen Revisionsgründe erwiesen werden soll;
-> 
+>
 >> `4.` die Unterschrift eines Rechtsanwalts;
-> 
+>
 >> `5.` bei einer außerordentlichen Revision \(§ 505 Abs\. 4\) gesondert die Gründe, warum, entgegen dem Ausspruch des Berufungsgerichts, nach § 502 Abs\. 1 die Revision für zulässig erachtet wird\.
 
 > `(2)` Insoweit die Revision auf den im § 503 Z 4 angegebenen Revisionsgrund gestützt wird, ist in der Revisionsschrift ohne Weitläufigkeiten darzulegen, aus welchen Gründen die rechtliche Beurtheilung der Sache unrichtig erscheint\.
@@ -4769,19 +4769,19 @@ Die Revision kann nur aus einem der folgenden Gründe begehrt werden:
 > `(1)` Dem Revisionsgegner steht es frei, binnen der Notfrist von vier Wochen ab der Zustellung der Revisionsschrift eine Revisionsbeantwortung mittels Schriftsatzes zu überreichen\.
 
 > `(2)` Die Frist nach Abs\. 1 beginnt
-> 
+>
 >> `1.` bei einer Revision, deren Zulässigkeit das Berufungsgericht nach § 500 Abs\. 2 Z 3 ausgesprochen hat, \(ordentliche Revision\) mit der Zustellung der Revisionsschrift durch das Prozeßgericht;
-> 
+>
 >> `2.` im Falle eines Antrags nach § 508 Abs\. 1 verbunden mit einer ordentlichen Revision mit der Zustellung der Mitteilung des Berufungsgerichts, daß dem Revisionsgegner die Beantwortung der Revision freigestellt werde \(§ 508 Abs\. 5\);
-> 
+>
 >> `3.` bei einer außerordentlichen Revision \(§ 505 Abs\. 4\) mit der Zustellung der Mitteilung des Obersten Gerichtshofs, daß dem Revisionsgegner die Beantwortung der Revision freigestellt werde \(§ 508a Abs\. 2\)\.
 
 > `(3)` Die Revisionsbeantwortung ist einzubringen:
-> 
+>
 >> `1.` beim Berufungsgericht, wenn dieses dem Revisionsgegner nach § 508 Abs\. 5 freigestellt hat, eine Revisionsbeantwortung einzubringen;
-> 
+>
 >> `2.` beim Revisionsgericht, wenn dieses dem Revisionsgegner nach § 508a Abs\. 2 freigestellt hat, eine Revisionsbeantwortung einzubringen;
-> 
+>
 >> `3.` sonst beim Prozeßgericht erster Instanz\.
 
 > `(4)` Für die Behandlung der Revisionsbeantwortung tritt im Fall des Abs\. 3 Z 1 das Berufungsgericht, im Fall des Abs\. 3 Z 2 das Revisionsgericht an die Stelle des Prozeßgerichts erster Instanz\.
@@ -4846,11 +4846,11 @@ Die Revision kann nur aus einem der folgenden Gründe begehrt werden:
 
 ### § 512 ZPO — 
 
-Findet das Revisionsgericht, dass die Revision muthwillig oder nur zur Verzögerung der Sache angebracht wurde, so ist gegen den Revisionswerber auf eine Muthwillensstrafe zu erkennen\.
+> Findet das Revisionsgericht, dass die Revision muthwillig oder nur zur Verzögerung der Sache angebracht wurde, so ist gegen den Revisionswerber auf eine Muthwillensstrafe zu erkennen\.
 
 ### § 513 ZPO — 
 
-Soweit sich nicht aus den Bestimmungen dieses Abschnittes Abweichungen ergeben, sind die Vorschriften über die Berufung auch auf die Revision anzuwenden\.
+> Soweit sich nicht aus den Bestimmungen dieses Abschnittes Abweichungen ergeben, sind die Vorschriften über die Berufung auch auf die Revision anzuwenden\.
 
 ## Dritter Abschnitt.
 
@@ -4866,22 +4866,22 @@ Soweit sich nicht aus den Bestimmungen dieses Abschnittes Abweichungen ergeben, 
 
 ### § 515 ZPO — 
 
-In den Fällen, in welchen nach den Bestimmungen dieses Gesetzes gegen einen Beschluss ein abgesondertes Rechtsmittel versagt ist, können die Parteien ihre Beschwerden gegen diesen Beschluss mit dem gegen die nächstfolgende anfechtbare Entscheidung eingebrachten Rechtsmittel zur Geltung bringen\.
+> In den Fällen, in welchen nach den Bestimmungen dieses Gesetzes gegen einen Beschluss ein abgesondertes Rechtsmittel versagt ist, können die Parteien ihre Beschwerden gegen diesen Beschluss mit dem gegen die nächstfolgende anfechtbare Entscheidung eingebrachten Rechtsmittel zur Geltung bringen\.
 
 ### § 517 ZPO — 
 
 > `(1)` Übersteigt der Streitgegenstand an Geld oder Geldeswert nicht den Betrag von 2 700 Euro, so kann nur gegen die folgenden Beschlüsse erster Instanz Rekurs ergriffen werden:
-> 
+>
 >> `1.` wenn die Einleitung oder Fortsetzung des gesetzmäßigen Verfahrens über die Klage verweigert wurde;
-> 
+>
 >> `2.` wenn über den Antrag auf Bestellung einer Sicherheit für die Processkosten oder auf Ergänzung dieser Sicherheit entschieden wurde;
-> 
+>
 >> `3.` wenn dem Begehren um Erstreckung einer Tagsatzung unter Verletzung der Bestimmungen des §\. 134 stattgegeben wurde und der Beschluss zugleich gemäß §\. 141 anfechtbar ist;
-> 
+>
 >> `4.` wenn ein Antrag auf Bewilligung der Wiedereinsetzung in den vorigen Stand wegen Versäumung einer Tagsatzung oder wegen Verstreichens der Frist zur Erhebung eines Rechtsmittels abgewiesen wurde;
-> 
+>
 >> `5.` wenn über Prozeßkosten entschieden worden ist;
-> 
+>
 >> `6.` wenn über die Aufhebung der Bestätigung der Vollstreckbarkeit entschieden worden ist \(§ 7 Abs\. 3 EO\)\.
 
 > `(2)` Abs\. 1 gilt nicht für die im § 502 Abs\. 5 Z 3 bezeichneten Streitigkeiten\.
@@ -4899,9 +4899,9 @@ In den Fällen, in welchen nach den Bestimmungen dieses Gesetzes gegen einen Bes
 ### § 519 ZPO
 
 > `(1)` Gegen einen im Berufungsverfahren ergehenden Beschluß des Berufungsgerichts ist der Rekurs nur zulässig,
-> 
+>
 >> `1.` soweit das Berufungsgericht die Klage oder die Berufung ohne Sachentscheidung aus formellen Gründen zurückgewiesen hat;
-> 
+>
 >> `2.` soweit das Berufungsgericht das erstgerichtliche Urteil aufgehoben und dem Gericht erster Instanz eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen oder die Sache an ein anderes Berufungsgericht verwiesen und wenn es dabei ausgesprochen hat, daß der Rekurs an den Obersten Gerichtshof zulässig ist\.
 
 > `(2)` Das Berufungsgericht darf die Zulässigkeit des Rekurses nach Abs\. 1 Z 2 nur aussprechen, wenn es die Voraussetzungen für gegeben erachtet, unter denen nach § 502 die Revision zulässig ist; dieser Ausspruch ist kurz zu begründen\. Im Fall eines solchen Ausspruchs ist das Verfahren in erster Instanz erst nach Rechtskraft des Aufhebungsbeschlusses fortzusetzen\. Über einen solchen Rekurs kann der Oberste Gerichtshof durch Urteil in der Sache selbst erkennen, wenn die Streitsache zur Entscheidung reif ist\.
@@ -4936,7 +4936,7 @@ In den Fällen, in welchen nach den Bestimmungen dieses Gesetzes gegen einen Bes
 
 ### § 523 ZPO — 
 
-Recurse gegen Beschlüsse, wider welche nach den Vorschriften dieses Gesetzes ein Recurs überhaupt nicht stattfindet oder doch ein abgesondertes Rechtsmittel versagt ist, sowie Recurse, die nach Ablauf der Recursfrist erhoben werden, sind von dem Gerichte, bei welchem sie überreicht werden, von amtswegen zurückzuweisen\. Dies gilt nicht für Rekurse gegen Entscheidungen eines Gerichtes zweiter Instanz, die nur wegen des Fehlens einer erheblichen Rechtsfrage unzulässig sind \(§ 519 Abs\. 2, § 527 Abs\. 2 letzter Satz, § 528 Abs\. 1\)\.
+> Recurse gegen Beschlüsse, wider welche nach den Vorschriften dieses Gesetzes ein Recurs überhaupt nicht stattfindet oder doch ein abgesondertes Rechtsmittel versagt ist, sowie Recurse, die nach Ablauf der Recursfrist erhoben werden, sind von dem Gerichte, bei welchem sie überreicht werden, von amtswegen zurückzuweisen\. Dies gilt nicht für Rekurse gegen Entscheidungen eines Gerichtes zweiter Instanz, die nur wegen des Fehlens einer erheblichen Rechtsfrage unzulässig sind \(§ 519 Abs\. 2, § 527 Abs\. 2 letzter Satz, § 528 Abs\. 1\)\.
 
 ### § 524 ZPO — 
 
@@ -4948,7 +4948,7 @@ Recurse gegen Beschlüsse, wider welche nach den Vorschriften dieses Gesetzes ei
 
 ### § 525 ZPO — 
 
-Insofern im Verfahren über eine Klage wegen Störung des Besitzstandes die während der Verhandlung getroffenen einstweiligen Vorkehrungen durch die Vollstreckung des Endbeschlusses nicht berührt werden, hat der Richter erster Instanz nach seinem Ermessen zu bestimmen, ob dieselben während der Anhängigkeit des Recurses fortdauern sollen oder schon vor Erledigung des Recurses aufzuheben seien\.
+> Insofern im Verfahren über eine Klage wegen Störung des Besitzstandes die während der Verhandlung getroffenen einstweiligen Vorkehrungen durch die Vollstreckung des Endbeschlusses nicht berührt werden, hat der Richter erster Instanz nach seinem Ermessen zu bestimmen, ob dieselben während der Anhängigkeit des Recurses fortdauern sollen oder schon vor Erledigung des Recurses aufzuheben seien\.
 
 ## Verfahren bei dem Recursgerichte.
 
@@ -4971,19 +4971,19 @@ Insofern im Verfahren über eine Klage wegen Störung des Besitzstandes die wäh
 > `(1)` Gegen den Beschluß des Rekursgerichts ist der Revisionsrekurs nur zulässig, wenn die Entscheidung von der Lösung einer Rechtsfrage des materiellen Rechts oder des Verfahrensrechts abhängt, der zur Wahrung der Rechtseinheit, Rechtssicherheit oder Rechtsentwicklung erhebliche Bedeutung zukommt, etwa weil das Rekursgericht von der Rechtsprechung des Obersten Gerichtshofs abweicht oder eine solche Rechtsprechung fehlt oder uneinheitlich ist\.
 
 > `(2)` Der Revisionsrekurs ist jedoch jedenfalls unzulässig,
-> 
+>
 >> `1.` wenn der Entscheidungsgegenstand an Geld oder Geldeswert insgesamt 5 000 Euro nicht übersteigt, es sei denn, es handelt sich um Streitigkeiten nach § 502 Abs\. 4 oder 5,
-> 
+>
 >> `1a.` vorbehaltlich des Abs\. 2a \- in Streitigkeiten, in denen der Entscheidungsgegenstand zwar 5 000 Euro, nicht aber insgesamt 30 000 Euro übersteigt \(§ 502 Abs\. 3\), und in familienrechtlichen Streitigkeiten nach § 49 Abs\. 2 Z 1 und 2 JN, in denen der Entscheidungsgegenstand insgesamt 30 000 Euro nicht übersteigt \(§ 502 Abs\. 4\), wenn das Gericht zweiter Instanz ausgesprochen hat, daß der Revisionsrekurs nicht zulässig ist,
-> 
+>
 >> `2.` wenn der angefochtene erstrichterliche Beschluß zur Gänze bestätigt worden ist, es sei denn, daß die Klage ohne Sachentscheidung aus formellen Gründen zurückgewiesen worden ist,
-> 
+>
 >> `3.` über den Kostenpunkt,
-> 
+>
 >> `4.` über die Verfahrenshilfe,
-> 
+>
 >> `5.` über die Gebühren der Sachverständigen sowie
-> 
+>
 >> `6.` in Streitigkeiten wegen Besitzstörung \(§ 49 Abs\. 2 Z 4 JN\)\.
 
 > `(2a)` Die Bestimmungen über einen Antrag auf Abänderung des Ausspruchs nach § 500 Abs\. 2 Z 3 verbunden mit einer ordentlichen Revision \(§ 508\) sind sinngemäß anzuwenden\.
@@ -4994,7 +4994,7 @@ Insofern im Verfahren über eine Klage wegen Störung des Besitzstandes die wäh
 
 ### § 528a ZPO
 
-Auf die Entscheidungen des Obersten Gerichtshofs über Rekurse ist auch der § 510 Abs\. 1 letzter Satz und Abs\. 3 sinngemäß anzuwenden\.
+> Auf die Entscheidungen des Obersten Gerichtshofs über Rekurse ist auch der § 510 Abs\. 1 letzter Satz und Abs\. 3 sinngemäß anzuwenden\.
 
 ## Vierter Abschnitt
 
@@ -5015,9 +5015,9 @@ Auf die Entscheidungen des Obersten Gerichtshofs über Rekurse ist auch der § 
 ### § 529 ZPO — 
 
 > `(1)` Eine rechtskräftige Entscheidung, durch welche eine Sache erledigt ist, kann durch die Nichtigkeitsklage angefochten werden:
-> 
+>
 >> `1.` wenn ein erkennender Richter von der Ausübung des Richteramtes in dem Rechtsstreite kraft des Gesetzes ausgeschlossen war;
-> 
+>
 >> `2.` wenn eine Partei in dem Verfahren gar nicht, oder falls sie eines gesetzlichen Vertreters bedarf, nicht durch einen solchen vertreten war, sofern die Processführung nicht nachträglich ordnungsmäßig genehmigt wurde\.
 
 > `(2)` Die Nichtigkeitsklage ist jedoch unstatthaft, wenn in dem unter Z 1 bezeichneten Falle der Ausschließungsgrund, im Falle der Z 2 aber der Mangel der Processfähigkeit oder der gesetzlichen Vertretung schon vor der rechtskräftigen Entscheidung mittels eines Ablehnungsgesuches, mittels des Antrages auf Nichtigerklärung des Verfahrens oder im Wege eines Rechtsmittels ohne Erfolg geltend gemacht wurde\.
@@ -5027,26 +5027,26 @@ Auf die Entscheidungen des Obersten Gerichtshofs über Rekurse ist auch der § 
 ### § 530 ZPO
 
 > `(1)` Ein Verfahren, das durch eine die Sache erledigende Entscheidung abgeschlossen worden ist, kann auf Antrag einer Partei wieder aufgenommen werden,
-> 
+>
 >> `1.` wenn eine Urkunde, auf welche die Entscheidung gegründet ist, fälschlich angefertigt oder verfälscht ist;
-> 
+>
 >> `2.` wenn sich ein Zeuge, ein Sachverständiger oder der Gegner bei seiner Vernehmung einer falschen Beweisaussage \(§ 288 StGB\) schuldig gemacht hat und die Entscheidung auf diese Aussage gegründet ist;
-> 
+>
 >> `3.` wenn die Entscheidung durch eine als Täuschung \(§ 108 StGB\), als Unterschlagung \(§ 134 StGB\), als Betrug \(§ 146 StGB\), als Urkundenfälschung \(§ 223 StGB\), als Fälschung besonders geschützter Urkunden \(§ 224 StGB\) oder öffentlicher Beglaubigungszeichen \(§ 225 StGB\), als mittelbare unrichtige Beurkundung oder Beglaubigung \(§ 228 StGB\), als Urkundenunterdrückung \(§ 229 StGB\), oder als Versetzung von Grenzzeichen \(§ 230 StGB\) gerichtlich strafbare Handlung des Vertreters der Partei, ihres Gegners oder dessen Vertreters erwirkt wurde;
-> 
+>
 >> `4.` wenn sich der Richter bei der Erlassung der Entscheidung oder einer der Entscheidung zugrunde liegenden früheren Entscheidung in Beziehung auf den Rechtsstreit zum Nachteil der Partei einer nach dem Strafgesetzbuch zu ahndenden Verletzung seiner Amtspflicht schuldig gemacht hat;
-> 
+>
 >> `5.` wenn ein strafgerichtliches Erkenntnis, auf welches die Entscheidung gegründet ist, durch ein anderes rechtskräftig gewordenes Urteil aufgehoben ist;
-> 
+>
 >> `6.` wenn die Partei eine über denselben Anspruch oder über dasselbe Rechtsverhältnis früher ergangene, bereits rechtskräftig gewordene Entscheidung auffindet oder zu benützen in den Stand gesetzt wird, welche zwischen den Parteien des wiederaufnehmenden Verfahrens Recht schafft;
-> 
+>
 >> `7.` wenn die Partei in Kenntnis von neuen Tatsachen gelangt oder Beweismittel auffindet oder zu benützen in den Stand gesetzt wird, deren Vorbringen und Benützung im früheren Verfahren eine ihr günstigere Entscheidung herbeigeführt haben würde\.
 
 > `(2)` Wegen der in Z 6 und 7 angegebenen Umstände ist die Wiederaufnahme nur dann zulässig, wenn die Partei ohne ihr Verschulden außerstande war, die Rechtskraft der Entscheidung oder die neuen Tatsachen oder Beweismittel vor Schluß der mündlichen Verhandlung, auf welche die Entscheidung erster Instanz erging, geltend zu machen\.
 
 ### § 531 ZPO — 
 
-Die Wiederaufnahme kann auch zur Ausführung der im Sinne des §\. 279 Absatz 2 von der Verhandlung ausgeschlossenen Beweise bewilligt werden, wenn die Benützung dieser Beweise im früheren Verfahren offenbar eine der Partei günstigere Entscheidung zur Folge gehabt haben würde\.
+> Die Wiederaufnahme kann auch zur Ausführung der im Sinne des §\. 279 Absatz 2 von der Verhandlung ausgeschlossenen Beweise bewilligt werden, wenn die Benützung dieser Beweise im früheren Verfahren offenbar eine der Partei günstigere Entscheidung zur Folge gehabt haben würde\.
 
 ### § 532 ZPO — 
 
@@ -5058,33 +5058,33 @@ Die Wiederaufnahme kann auch zur Ausführung der im Sinne des §\. 279 Absatz 2 
 
 ### § 533 ZPO — 
 
-Auf die Erhebung der Nichtigkeits\- und Wiederaufnahmsklage und auf das weitere Verfahren finden, soweit sich nicht aus den nachfolgenden Bestimmungen Abweichungen ergeben, die im ersten bis vierten Theile dieses Gesetzes enthaltenen Vorschriften entsprechend Anwendung\.
+> Auf die Erhebung der Nichtigkeits\- und Wiederaufnahmsklage und auf das weitere Verfahren finden, soweit sich nicht aus den nachfolgenden Bestimmungen Abweichungen ergeben, die im ersten bis vierten Theile dieses Gesetzes enthaltenen Vorschriften entsprechend Anwendung\.
 
 ### § 534 ZPO — 
 
 > `(1)` Die Klage ist binnen der Notfrist von vier Wochen zu erheben\.
 
 > `(2)` Diese Frist ist zu berechnen:
-> 
+>
 >> `1.` im Falle des §\. 529, Z 1, von dem Tage, an welchem die Partei von dem Ausschließungsgrunde Kenntnis erhalten hat, oder wenn dies vor Eintritt der Rechtskraft der angefochtenen Entscheidung geschehen, vom letzteren Tage;
-> 
+>
 >> `2.` im Falle des §\. 529, Z 2, von dem Tage, an welchem die Entscheidung der Partei, und wenn diese nicht processfähig ist, dem gesetzlichen Vertreter derselben zugestellt wurde, jedoch gleichfalls nicht vor eingetretener Rechtskraft der angefochtenen Entscheidung;
-> 
+>
 >> `3.` in den Fällen des §\. 530 Z 1 bis 5 von dem Tage, an welchem das strafgerichtliche Urtheil oder der die Einstellung eines strafgerichtlichen Verfahrens aussprechende Beschluss in Rechtskraft erwachsen ist;
-> 
+>
 >> `4.` im Falle des §\. 530, Z 6 und 7, von dem Tage, an welchem die Partei imstande war, die rechtskräftige Entscheidung zu benützen oder die ihr bekannt gewordenen Thatsachen und Beweismittel bei Gericht vorzubringen;
-> 
+>
 >> `5.` im Falle des §\. 531 von der Zustellung der Entscheidung erster Instanz\.
 
 > `(3)` Nach Ablauf von zehn Jahren nach dem Eintritte der Rechtskraft der Entscheidung kann die Klage, mit Ausnahme des in Z 2 erwähnten Falles, nicht mehr erhoben werden\.
 
 ### § 535 ZPO — 
 
-Wird die Klage nicht bei dem Gerichte erhoben, welches in dem früheren Verfahren in erster Instanz erkannt hat, sondern bei einem höheren Gerichte, welches nach den für das Verfahren vor demselben geltenden Bestimmungen die Hauptsache spruchreif zu machen vermag, so sind in Ansehung der mündlichen Verhandlung, der Beweisführung und der Mittheilung der über die Klage gefällten Entscheidung an die erste Instanz, sowie in Ansehung der Anfechtbarkeit der Entscheidung diejenigen Bestimmungen maßgebend, welche für das höhere Gericht als Rechtsmittelinstanz maßgebend wären\.
+> Wird die Klage nicht bei dem Gerichte erhoben, welches in dem früheren Verfahren in erster Instanz erkannt hat, sondern bei einem höheren Gerichte, welches nach den für das Verfahren vor demselben geltenden Bestimmungen die Hauptsache spruchreif zu machen vermag, so sind in Ansehung der mündlichen Verhandlung, der Beweisführung und der Mittheilung der über die Klage gefällten Entscheidung an die erste Instanz, sowie in Ansehung der Anfechtbarkeit der Entscheidung diejenigen Bestimmungen maßgebend, welche für das höhere Gericht als Rechtsmittelinstanz maßgebend wären\.
 
 ### § 536 ZPO — 
 
-Die Klage muss insbesondere enthalten:
+> Die Klage muss insbesondere enthalten:
 
 > `1.` die Bezeichnung der angefochtenen Entscheidung;
 
@@ -5098,7 +5098,7 @@ Die Klage muss insbesondere enthalten:
 
 ### § 537 ZPO — 
 
-Der Richter, wegen dessen Betheiligung an der Entscheidung die Nichtigkeitsklage \(§\. 529, Z 1\) oder wegen dessen Verhalten die Wiederaufnahmsklage nach §\. 530, Z 4, angebracht wird, ist von der Leitung der Verhandlung sowie von der Entscheidung über die Nichtigkeits\- oder Wiederaufnahmsklage ausgeschlossen\.
+> Der Richter, wegen dessen Betheiligung an der Entscheidung die Nichtigkeitsklage \(§\. 529, Z 1\) oder wegen dessen Verhalten die Wiederaufnahmsklage nach §\. 530, Z 4, angebracht wird, ist von der Leitung der Verhandlung sowie von der Entscheidung über die Nichtigkeits\- oder Wiederaufnahmsklage ausgeschlossen\.
 
 ### § 538 ZPO — 
 
@@ -5136,7 +5136,7 @@ Der Richter, wegen dessen Betheiligung an der Entscheidung die Nichtigkeitsklage
 
 ### § 543 ZPO — 
 
-Ergibt sich erst bei der mündlichen Verhandlung, daß die Wiederaufnahms\- oder Nichtigkeitsklage auf einen gesetzlich unzulässigen Anfechtungsgrund gestützt wird oder verspätet überreicht ist, so ist die Klage durch Beschluss zurückzuweisen\.
+> Ergibt sich erst bei der mündlichen Verhandlung, daß die Wiederaufnahms\- oder Nichtigkeitsklage auf einen gesetzlich unzulässigen Anfechtungsgrund gestützt wird oder verspätet überreicht ist, so ist die Klage durch Beschluss zurückzuweisen\.
 
 ### § 544 ZPO — 
 
@@ -5236,11 +5236,11 @@ Ergibt sich erst bei der mündlichen Verhandlung, daß die Wiederaufnahms\- oder
 
 ### § 558 ZPO
 
-In dem das Verfahren erledigenden Urteil ist auszusprechen, ob der gegen die beklagte Partei erlassene Zahlungsauftrag aufrecht erhalten bleibe oder ob und inwiefern derselbe aufgehoben werde\.
+> In dem das Verfahren erledigenden Urteil ist auszusprechen, ob der gegen die beklagte Partei erlassene Zahlungsauftrag aufrecht erhalten bleibe oder ob und inwiefern derselbe aufgehoben werde\.
 
 ### § 559 ZPO
 
-In Rechtsstreitigkeiten aus Wechseln findet die Wiedereinsetzung in den vorigen Stand und die Wiederaufnahme des Verfahrens zum Nachteil einer Partei, die in dem Hauptprozess in gutem Glauben gehandelt hat, nicht statt, wenn diese Partei in der Zwischenzeit ihre wechselmäßigen Ansprüche an Dritte durch Ablauf der Zeit ganz oder zum Teile verloren hat oder doch wegen Kürze der noch übrigen Zeit nicht mehr geltend machen kann\.
+> In Rechtsstreitigkeiten aus Wechseln findet die Wiedereinsetzung in den vorigen Stand und die Wiederaufnahme des Verfahrens zum Nachteil einer Partei, die in dem Hauptprozess in gutem Glauben gehandelt hat, nicht statt, wenn diese Partei in der Zwischenzeit ihre wechselmäßigen Ansprüche an Dritte durch Ablauf der Zeit ganz oder zum Teile verloren hat oder doch wegen Kürze der noch übrigen Zeit nicht mehr geltend machen kann\.
 
 ## Dritter Abschnitt.
 
@@ -5251,19 +5251,19 @@ In Rechtsstreitigkeiten aus Wechseln findet die Wiedereinsetzung in den vorigen 
 ### § 560 ZPO
 
 > `(1)` Insofern die Aufkündigung eines Bestandvertrages über Grundstücke, Gebäude und andere unbewegliche oder gesetzlich für unbeweglich erklärte Sachen, über Schiffmühlen und auf Schiffen errichtete andere Bauwerke sowie über Unternehmen, zu denen Gegenstände der angeführten Art gehören, nach den Vorschriften des bürgerlichen Rechtes notwendig ist, um der stillschweigenden Erneuerung des Bestandvertrages vorzubeugen oder dessen Auflösung zu bewirken, darf sie:
-> 
+>
 >> `1.` im Falle eines besonderen Übereinkommens der Parteien über den Termin und die Frist zur Aufkündigung und Zurückstellung des Bestandgegenstandes in der Regel nur unter Einhaltung dieser Termine und Fristen erfolgen\.
-> 
+>
 >> `2.` Wenn es an einem solchen Übereinkommen fehlt, sind ohne Rücksicht auf Sonn\- und Feiertage folgende Kündigungstermine und Kündigungsfristen einzuhalten:
->> 
+>>
 >>> `a)` Pachtverträge über forstwirtschaftlich genutzte Liegenschaften und über forstwirtschaftliche Betriebe sind zum 30\. November derart aufzukündigen, daß die Aufkündigung dem Gegner der aufkündigenden Partei spätestens ein Jahr vor dem Kündigungstermin zugestellt wird\.
->> 
+>>
 >>> `b)` Pachtverträge über landwirtschaftlich oder gärtnerisch genutzte Liegenschaften und über landwirtschaftliche oder gärtnerische Betriebe sind zum 31\. März oder zum 30\. November derart aufzukündigen, daß die Aufkündigung dem Gegner der aufkündigenden Partei spätestens sechs Monate vor dem Kündigungstermin zugestellt wird\.
->> 
+>>
 >>> `c)` Pachtverträge anderer Art sind zum 30\. Juni oder zum 31\. Dezember derart aufzukündigen, daß die Aufkündigung dem Gegner der aufkündigenden Partei spätestens sechs Monate vor dem Kündigungstermin zugestellt wird\.
->> 
+>>
 >>> `d)` Mietverträge über Wohnungen oder Wohnräume sind zum letzten Tag eines Monates derart aufzukündigen, daß die Aufkündigung dem Gegner der aufkündigenden Partei, wenn der Zins in monatlichen oder kürzeren Abständen zu bezahlen ist, spätestens einen Monat, wenn der Zins in längeren Abständen zu bezahlen ist, spätestens drei Monate vor dem Kündigungstermin zugestellt wird\.
->> 
+>>
 >>> `e)` Mietverträge anderer Art, insbesondere Mietverträge über Geschäftsräumlichkeiten, sind zum 31\. März, 30\. Juni, 30\. September oder 31\. Dezember derart aufzukündigen, daß die Aufkündigung dem Gegner der aufkündigenden Partei spätestens drei Monate vor dem Kündigungstermin zugestellt wird\.
 
 > `(2)` Sind mit demselben Bestandvertrag Gegenstände zur Benützung überlassen, für die nach den Bestimmungen des vorstehenden Absatzes verschiedene Kündigungstermine oder Kündigungsfristen in Betracht kommen, so richten sich der Termin und die Frist, die bei der Aufkündigung einzuhalten sind, nach der Hauptsache; jedoch ist bei der Aufkündigung von Liegenschaften, die auch nur zum Teil forstwirtschaftlich genutzt werden, und bei Betrieben, die die Forstwirtschaft nicht hauptsächlich zum Gegenstand haben, Z 2 lit\. a anzuwenden\.
@@ -5288,7 +5288,7 @@ In Rechtsstreitigkeiten aus Wechseln findet die Wiedereinsetzung in den vorigen 
 
 ### § 564 ZPO — 
 
-Der über die Aufkündigung vom Gerichte an den Gegner der aufkündigenden Partei gemäß §\. 562 erlassene Auftrag ist dem Gegner unter Mittheilung eines Exemplares des Schriftsatzes oder einer Protokollsabschrift nach den für die Zustellung von Klagen maßgebenden Vorschriften unverzüglich zuzustellen\.
+> Der über die Aufkündigung vom Gerichte an den Gegner der aufkündigenden Partei gemäß §\. 562 erlassene Auftrag ist dem Gegner unter Mittheilung eines Exemplares des Schriftsatzes oder einer Protokollsabschrift nach den für die Zustellung von Klagen maßgebenden Vorschriften unverzüglich zuzustellen\.
 
 ## Auftrag zur Übergabe oder Übernahme des Bestandgegenstandes.
 
@@ -5305,19 +5305,19 @@ Der über die Aufkündigung vom Gerichte an den Gegner der aufkündigenden Parte
 
 ### § 568 ZPO — 
 
-Alle gegen den Bestandnehmer erwirkten Aufkündigungen, Aufträge, Entscheidungen und Verfügungen, welche das Bestehen oder die Auflösung eines Bestandvertrages über einen der im §\. 560 bezeichneten Gegenstände betreffen, sind auch gegen den Afterbestandnehmer wirksam und vollstreckbar, sofern nicht ein zwischen dem Afterbestandnehmer und dem Bestandgeber bestehendes Rechtsverhältnis entgegensteht\.
+> Alle gegen den Bestandnehmer erwirkten Aufkündigungen, Aufträge, Entscheidungen und Verfügungen, welche das Bestehen oder die Auflösung eines Bestandvertrages über einen der im §\. 560 bezeichneten Gegenstände betreffen, sind auch gegen den Afterbestandnehmer wirksam und vollstreckbar, sofern nicht ein zwischen dem Afterbestandnehmer und dem Bestandgeber bestehendes Rechtsverhältnis entgegensteht\.
 
 ## Stillschweigende Erneuerung des Bestandvertrages.
 
 ### § 569 ZPO — 
 
-Bestandverträge, welche durch den Ablauf der Zeit erlöschen, ohne dass es behufs Auflösung des Vertrages oder Verhinderung seiner stillschweigenden Erneuerung einer Aufkündigung bedarf, sind dadurch, daß der Bestandnehmer fortfährt, den Bestandgegenstand zu gebrauchen oder zu benützen, und der Bestandgeber es dabei bewenden lässt, nur dann als stillschweigend erneuert anzusehen, wenn binnen vierzehn Tagen nach Ablauf der Bestandzeit, oder bei Verträgen, welche ursprünglich auf kürzere Zeit als auf einen Monat geschlossen wurden, binnen einer der Hälfte der ursprünglich bedungenen Zeit gleichkommenden Frist nach Ablauf des Vertrages weder von dem Bestandgeber eine Klage auf Zurückstellung, noch von dem Bestandnehmer auf Zurücknahme des Bestandgegenstandes erhoben wird\.
+> Bestandverträge, welche durch den Ablauf der Zeit erlöschen, ohne dass es behufs Auflösung des Vertrages oder Verhinderung seiner stillschweigenden Erneuerung einer Aufkündigung bedarf, sind dadurch, daß der Bestandnehmer fortfährt, den Bestandgegenstand zu gebrauchen oder zu benützen, und der Bestandgeber es dabei bewenden lässt, nur dann als stillschweigend erneuert anzusehen, wenn binnen vierzehn Tagen nach Ablauf der Bestandzeit, oder bei Verträgen, welche ursprünglich auf kürzere Zeit als auf einen Monat geschlossen wurden, binnen einer der Hälfte der ursprünglich bedungenen Zeit gleichkommenden Frist nach Ablauf des Vertrages weder von dem Bestandgeber eine Klage auf Zurückstellung, noch von dem Bestandnehmer auf Zurücknahme des Bestandgegenstandes erhoben wird\.
 
 ## Fristen in Bestandsachen.
 
 ### § 570 ZPO — 
 
-Die in den §§\. 560 bis 569 festgesetzten Fristen können nicht verlängert werden\.
+> Die in den §§\. 560 bis 569 festgesetzten Fristen können nicht verlängert werden\.
 
 ## Verfahren.
 
@@ -5333,7 +5333,7 @@ Die in den §§\. 560 bis 569 festgesetzten Fristen können nicht verlängert we
 
 ### § 572 ZPO — 
 
-In dem das Verfahren über Einwendungen erledigenden Urtheile ist auszusprechen, ob und inwieweit und – bei Behauptung verspäteter Zustellung – zu welchem Termin die Aufkündigung oder der nach §\. 567 erlassene Auftrag als wirksam erkannt oder aufgehoben wird, sowie ob und wann der Beklagte verpflichtet ist, den Bestandgegenstand zu übergeben oder zu übernehmen\.
+> In dem das Verfahren über Einwendungen erledigenden Urtheile ist auszusprechen, ob und inwieweit und – bei Behauptung verspäteter Zustellung – zu welchem Termin die Aufkündigung oder der nach §\. 567 erlassene Auftrag als wirksam erkannt oder aufgehoben wird, sowie ob und wann der Beklagte verpflichtet ist, den Bestandgegenstand zu übergeben oder zu übernehmen\.
 
 ### § 573 ZPO
 
@@ -5345,11 +5345,11 @@ In dem das Verfahren über Einwendungen erledigenden Urtheile ist auszusprechen,
 
 ### § 574 ZPO — 
 
-Die Bestimmungen des §\. 573 sind auch dann anzuwenden, wenn ein Bestandvertrag ohne vorausgegangene gerichtliche oder außergerichtliche Aufkündigung infolge einer Klage durch Urtheil für aufgehoben oder erloschen erklärt wird\.
+> Die Bestimmungen des §\. 573 sind auch dann anzuwenden, wenn ein Bestandvertrag ohne vorausgegangene gerichtliche oder außergerichtliche Aufkündigung infolge einer Klage durch Urtheil für aufgehoben oder erloschen erklärt wird\.
 
 ### § 575 ZPO — 
 
-*\(Anm\.: Abs\. 1 aufgehoben durch Art\. III Z 28, BGBl\. Nr\. 282/1955\)*
+> *\(Anm\.: Abs\. 1 aufgehoben durch Art\. III Z 28, BGBl\. Nr\. 282/1955\)*
 
 > `(2)` Gegen die gerichtlichen Aufträge zur Übergabe oder Übernahme des Bestandgegenstandes, die auf Grund von Aufkündigungen oder infolge eines gemäß §\. 567 gestellten Ansuchens ergehen, ist vorbehaltlich der dagegen zu erhebenden Einwendungen ein Rechtsmittel nicht zulässig\.
 
@@ -5359,7 +5359,7 @@ Die Bestimmungen des §\. 573 sind auch dann anzuwenden, wenn ein Bestandvertrag
 
 ### § 576 ZPO — 
 
-Die Bestimmungen dieses Abschnittes finden auch auf die im §\. 1103 a\. b\. G\. B\. bezeichneten Verträge Anwendung\. Solche Verträge sind im Sinne dieses Gesetzes als Pachtverträge anzusehen\.
+> Die Bestimmungen dieses Abschnittes finden auch auf die im §\. 1103 a\. b\. G\. B\. bezeichneten Verträge Anwendung\. Solche Verträge sind im Sinne dieses Gesetzes als Pachtverträge anzusehen\.
 
 ## Vierter Abschnitt
 
@@ -5381,11 +5381,11 @@ Die Bestimmungen dieses Abschnittes finden auch auf die im §\. 1103 a\. b\. G\
 
 ### § 578 ZPO — Gerichtliche Tätigkeit
 
-Das Gericht darf in den in diesem Abschnitt geregelten Angelegenheiten nur tätig werden, soweit dieser Abschnitt es vorsieht\.
+> Das Gericht darf in den in diesem Abschnitt geregelten Angelegenheiten nur tätig werden, soweit dieser Abschnitt es vorsieht\.
 
 ### § 579 ZPO — Rügepflicht
 
-Hat das Schiedsgericht einer Verfahrensbestimmung dieses Abschnitts, von der die Parteien abweichen können, oder einem vereinbarten Verfahrenserfordernis des Schiedsverfahrens nicht entsprochen, so kann eine Partei den Mangel später nicht mehr geltend machen, wenn sie ihn nicht unverzüglich ab Kenntnis oder innerhalb der dafür vorgesehenen Frist gerügt hat\.
+> Hat das Schiedsgericht einer Verfahrensbestimmung dieses Abschnitts, von der die Parteien abweichen können, oder einem vereinbarten Verfahrenserfordernis des Schiedsverfahrens nicht entsprochen, so kann eine Partei den Mangel später nicht mehr geltend machen, wenn sie ihn nicht unverzüglich ab Kenntnis oder innerhalb der dafür vorgesehenen Frist gerügt hat\.
 
 ### § 580 ZPO — Empfang schriftlicher Mitteilungen
 
@@ -5433,7 +5433,7 @@ Hat das Schiedsgericht einer Verfahrensbestimmung dieses Abschnitts, von der die
 
 ### § 585 ZPO — Schiedsvereinbarung und einstweilige gerichtliche Maßnahmen
 
-Eine Schiedsvereinbarung schließt nicht aus, dass eine Partei vor oder während des Schiedsverfahrens bei einem Gericht eine vorläufige oder sichernde Maßnahme beantragt und dass das Gericht eine solche Maßnahme anordnet\.
+> Eine Schiedsvereinbarung schließt nicht aus, dass eine Partei vor oder während des Schiedsverfahrens bei einem Gericht eine vorläufige oder sichernde Maßnahme beantragt und dass das Gericht eine solche Maßnahme anordnet\.
 
 ## Dritter Titel
 
@@ -5450,25 +5450,25 @@ Eine Schiedsvereinbarung schließt nicht aus, dass eine Partei vor oder während
 > `(1)` Die Parteien können das Verfahren zur Bestellung des Schiedsrichters oder der Schiedsrichter frei vereinbaren\.
 
 > `(2)` Fehlt eine Vereinbarung über das Verfahren zur Bestellung, so gilt Folgendes:
-> 
+>
 >> `1.` In Schiedsverfahren mit einem Einzelschiedsrichter wird der Schiedsrichter, wenn sich die Parteien über seine Bestellung nicht binnen vier Wochen nach Empfang einer entsprechenden schriftlichen Aufforderung einer Partei durch die andere Partei einigen können, auf Antrag einer Partei durch das Gericht bestellt\.
-> 
+>
 >> `2.` In Schiedsverfahren mit drei Schiedsrichtern bestellt jede Partei einen Schiedsrichter\. Diese beiden Schiedsrichter bestellen den dritten Schiedsrichter, der als Vorsitzender des Schiedsgerichts tätig wird\.
-> 
+>
 >> `3.` Wenn mehr als drei Schiedsrichter vorgesehen sind, hat jede Partei die gleiche Zahl an Schiedsrichtern zu bestellen\. Diese bestellen einen weiteren Schiedsrichter, der als Vorsitzender des Schiedsgerichts tätig wird\.
-> 
+>
 >> `4.` Hat eine Partei einen Schiedsrichter nicht binnen vier Wochen nach Empfang einer entsprechenden schriftlichen Aufforderung durch die andere Partei bestellt oder empfangen die Parteien nicht binnen vier Wochen nach der Bestellung der Schiedsrichter von diesen die Mitteilung über den von ihnen zu bestellenden Schiedsrichter, so ist der Schiedsrichter auf Antrag einer Partei durch das Gericht zu bestellen\.
-> 
+>
 >> `5.` Eine Partei ist an die durch sie erfolgte Bestellung eines Schiedsrichters gebunden, sobald die andere Partei die schriftliche Mitteilung über die Bestellung empfangen hat\.
 
 > `(3)` Haben die Parteien ein Verfahren für die Bestellung vereinbart und
-> 
+>
 >> `1.` handelt eine der Parteien nicht entsprechend diesem Verfahren oder
-> 
+>
 >> `2.` können die Parteien oder die Schiedsrichter eine Einigung entsprechend diesem Verfahren nicht erzielen oder
-> 
+>
 >> `3.` erfüllt ein Dritter eine ihm nach diesem Verfahren übertragene Aufgabe innerhalb von drei Monaten nach Empfang einer entsprechenden schriftlichen Mitteilung nicht,
-> 
+>
 > &nbsp; so kann jede Partei bei Gericht die entsprechende Bestellung von Schiedsrichtern beantragen, sofern das vereinbarte Bestellungsverfahren zur Sicherung der Bestellung nichts anderes vorsieht\.
 
 > `(4)` Die schriftliche Aufforderung zur Bestellung eines Schiedsrichters hat auch Angaben darüber zu enthalten, welcher Anspruch geltend gemacht wird und auf welche Schiedsvereinbarung sich die Partei beruft\.
@@ -5502,13 +5502,13 @@ Eine Schiedsvereinbarung schließt nicht aus, dass eine Partei vor oder während
 > `(1)` Das Amt eines Schiedsrichters endet, wenn die Parteien dies vereinbaren oder wenn der Schiedsrichter zurücktritt\. Vorbehaltlich des Abs\. 2 können die Parteien auch ein Verfahren für die Beendigung des Schiedsrichteramts vereinbaren\.
 
 > `(2)` Jede Partei kann bei Gericht eine Entscheidung über die Beendigung des Amtes beantragen, wenn der Schiedsrichter entweder außer Stande ist, seine Aufgaben zu erfüllen, oder er diesen in angemessener Frist nicht nachkommt und
-> 
+>
 >> `1.` der Schiedsrichter von seinem Amt nicht zurücktritt,
-> 
+>
 >> `2.` sich die Parteien über dessen Beendigung nicht einigen können oder
-> 
+>
 >> `3.` das von den Parteien vereinbarte Verfahren nicht zur Beendigung des Schiedsrichteramtes führt\.
-> 
+>
 > &nbsp; Gegen diese Entscheidung ist ein Rechtsmittel nicht zulässig\.
 
 > `(3)` Tritt ein Schiedsrichter nach Abs\. 1 oder nach § 589 Abs\. 2 zurück oder stimmt eine Partei der Beendigung des Amtes eines Schiedsrichters zu, so bedeutet das nicht die Anerkennung der in Abs\. 2 oder § 588 Abs\. 2 genannten Gründe\.
@@ -5540,25 +5540,25 @@ Eine Schiedsvereinbarung schließt nicht aus, dass eine Partei vor oder während
 > `(3)` Auf Antrag einer Partei hat das Bezirksgericht, bei dem der Gegner der gefährdeten Partei zur Zeit der ersten Antragstellung seinen Sitz, Wohnsitz oder gewöhnlichen Aufenthalt im Inland hat, sonst das Bezirksgericht, in dessen Sprengel die dem Vollzug der einstweiligen Verfügung dienende Handlung vorzunehmen ist, eine solche Maßnahme zu vollziehen\. Sieht die Maßnahme ein dem inländischen Recht unbekanntes Sicherungsmittel vor, so kann das Gericht auf Antrag nach Anhörung des Antragsgegners jenes Sicherungsmittel des inländischen Rechts vollziehen, welches der Maßnahme des Schiedsgerichts am nächsten kommt\. Dabei kann es die Maßnahme des Schiedsgerichts auf Antrag auch abweichend fassen, um die Verwirklichung ihres Zwecks zu gewährleisten\.
 
 > `(4)` Das Gericht hat die Vollziehung einer Maßnahme nach Abs\. 1 abzulehnen, wenn
-> 
+>
 >> `1.` der Sitz des Schiedsgerichts im Inland liegt und die Maßnahme an einem Mangel leidet, der bei einem inländischen Schiedsspruch einen Aufhebungsgrund nach § 611 Abs\. 2, § 617 Abs\. 6 und 7 oder § 618 darstellen würde;
-> 
+>
 >> `2.` der Sitz des Schiedsgerichts nicht im Inland liegt und die Maßnahme an einem Mangel leidet, der bei einem ausländischen Schiedsspruch einen Grund für die Versagung der Anerkennung oder Vollstreckbarerklärung darstellen würde;
-> 
+>
 >> `3.` die Vollziehung der Maßnahme mit einer früher beantragten oder erlassenen inländischen oder früher erlassenen und anzuerkennenden ausländischen gerichtlichen Maßnahme unvereinbar ist;
-> 
+>
 >> `4.` die Maßnahme ein dem inländischen Recht unbekanntes Sicherungsmittel vorsieht und kein geeignetes Sicherungsmittel des inländischen Rechts beantragt wurde\.
 
 > `(5)` Das Gericht kann den Antragsgegner vor Entscheidung über die Vollziehung der Maßnahme nach Abs\. 1 hören\. Wenn der Antragsgegner vor der Beschlussfassung nicht gehört wurde, kann er gegen die Bewilligung der Vollziehung Widerspruch im Sinne von § 397 EO einlegen\. In beiden Fällen kann der Antragsgegner nur geltend machen, dass ein Grund zur Versagung der Vollziehung nach Abs\. 4 vorliegt\. In diesem Verfahren ist das Gericht nicht befugt, gemäß § 394 EO über Schadenersatzansprüche zu entscheiden\.
 
 > `(6)` Das Gericht hat die Vollziehung auf Antrag aufzuheben, wenn
-> 
+>
 >> `1.` die vom Schiedsgericht bestimmte Geltungsdauer der Maßnahme abgelaufen ist;
-> 
+>
 >> `2.` das Schiedsgericht die Maßnahme eingeschränkt oder aufgehoben hat;
-> 
+>
 >> `3.` ein Fall von § 399 Abs\. 1 Z 1 bis 4 EO vorliegt, sofern ein solcher Umstand nicht bereits vor dem Schiedsgericht erfolglos geltend gemacht wurde und der diesbezüglichen Entscheidung des Schiedsgerichts keine Anerkennungshindernisse \(Abs\. 4\) entgegenstehen;
-> 
+>
 >> `4.` eine Sicherheit nach Abs\. 1 geleistet wurde, welche die Vollziehung der Maßnahme entbehrlich macht\.
 
 ## Fünfter Titel
@@ -5583,7 +5583,7 @@ Eine Schiedsvereinbarung schließt nicht aus, dass eine Partei vor oder während
 
 ### § 596 ZPO — Verfahrenssprache
 
-Die Parteien können die Sprache oder die Sprachen, die im Schiedsverfahren zu verwenden sind, vereinbaren\. Fehlt eine solche Vereinbarung, so bestimmt hierüber das Schiedsgericht\.
+> Die Parteien können die Sprache oder die Sprachen, die im Schiedsverfahren zu verwenden sind, vereinbaren\. Fehlt eine solche Vereinbarung, so bestimmt hierüber das Schiedsgericht\.
 
 ### § 597 ZPO — Klage und Klagebeantwortung
 
@@ -5593,7 +5593,7 @@ Die Parteien können die Sprache oder die Sprachen, die im Schiedsverfahren zu v
 
 ### § 598 ZPO — Mündliche Verhandlung und schriftliches Verfahren
 
-Haben die Parteien nichts anderes vereinbart, so entscheidet das Schiedsgericht, ob mündlich verhandelt oder ob das Verfahren schriftlich durchgeführt werden soll\. Haben die Parteien eine mündliche Verhandlung nicht ausgeschlossen, so hat das Schiedsgericht auf Antrag einer Partei eine solche in einem geeigneten Abschnitt des Verfahrens durchzuführen\.
+> Haben die Parteien nichts anderes vereinbart, so entscheidet das Schiedsgericht, ob mündlich verhandelt oder ob das Verfahren schriftlich durchgeführt werden soll\. Haben die Parteien eine mündliche Verhandlung nicht ausgeschlossen, so hat das Schiedsgericht auf Antrag einer Partei eine solche in einem geeigneten Abschnitt des Verfahrens durchzuführen\.
 
 ### § 599 ZPO — Verfahren und Beweisaufnahme
 
@@ -5612,9 +5612,9 @@ Haben die Parteien nichts anderes vereinbart, so entscheidet das Schiedsgericht,
 ### § 601 ZPO — Vom Schiedsgericht bestellter Sachverständiger
 
 > `(1)` Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht
-> 
+>
 >> `1.` einen oder mehrere Sachverständige zur Erstattung eines Gutachtens über bestimmte vom Schiedsgericht festzulegende Fragen bestellen;
-> 
+>
 >> `2.` die Parteien auffordern, dem Sachverständigen jede sachdienliche Auskunft zu erteilen oder alle für das Verfahren erheblichen Schriftstücke oder Sachen zur Aufnahme eines Befunds vorzulegen oder zugänglich zu machen\.
 
 > `(2)` Haben die Parteien nichts anderes vereinbart, so hat der Sachverständige, wenn eine Partei dies beantragt oder das Schiedsgericht es für erforderlich hält, nach Erstattung seines Gutachtens an einer mündlichen Verhandlung teilzunehmen\. Bei der Verhandlung können die Parteien Fragen an den Sachverständigen stellen und eigene Sachverständige zu den streitigen Fragen aussagen lassen\.
@@ -5625,7 +5625,7 @@ Haben die Parteien nichts anderes vereinbart, so entscheidet das Schiedsgericht,
 
 ### § 602 ZPO — Gerichtliche Rechtshilfe
 
-Das Schiedsgericht, vom Schiedsgericht hiezu beauftragte Schiedsrichter oder eine der Parteien mit Zustimmung des Schiedsgerichts können bei Gericht die Vornahme richterlicher Handlungen beantragen, zu deren Vornahme das Schiedsgericht nicht befugt ist\. Die Rechtshilfe kann auch darin bestehen, dass das Gericht ein ausländisches Gericht oder eine Behörde um die Vornahme solcher Handlungen ersucht\. § 37 Abs\. 2 bis 5 und §§ 38, 39 und 40 JN gelten entsprechend mit der Maßgabe, dass die Rechtsmittelbefugnis gemäß § 40 JN dem Schiedsgericht und den Parteien des Schiedsverfahrens zusteht\. Das Schiedsgericht oder ein vom Schiedsgericht beauftragter Schiedsrichter und die Parteien sind berechtigt, an einer gerichtlichen Beweisaufnahme teilzunehmen und Fragen zu stellen\. § 289 ist sinngemäß anzuwenden\.
+> Das Schiedsgericht, vom Schiedsgericht hiezu beauftragte Schiedsrichter oder eine der Parteien mit Zustimmung des Schiedsgerichts können bei Gericht die Vornahme richterlicher Handlungen beantragen, zu deren Vornahme das Schiedsgericht nicht befugt ist\. Die Rechtshilfe kann auch darin bestehen, dass das Gericht ein ausländisches Gericht oder eine Behörde um die Vornahme solcher Handlungen ersucht\. § 37 Abs\. 2 bis 5 und §§ 38, 39 und 40 JN gelten entsprechend mit der Maßgabe, dass die Rechtsmittelbefugnis gemäß § 40 JN dem Schiedsgericht und den Parteien des Schiedsverfahrens zusteht\. Das Schiedsgericht oder ein vom Schiedsgericht beauftragter Schiedsrichter und die Parteien sind berechtigt, an einer gerichtlichen Beweisaufnahme teilzunehmen und Fragen zu stellen\. § 289 ist sinngemäß anzuwenden\.
 
 ## Sechster Titel
 
@@ -5641,7 +5641,7 @@ Das Schiedsgericht, vom Schiedsgericht hiezu beauftragte Schiedsrichter oder ein
 
 ### § 604 ZPO — Entscheidung durch ein Schiedsrichterkollegium
 
-Haben die Parteien nichts anderes vereinbart, so gilt Folgendes:
+> Haben die Parteien nichts anderes vereinbart, so gilt Folgendes:
 
 > `1.` In Schiedsverfahren mit mehr als einem Schiedsrichter ist jede Entscheidung des Schiedsgerichts mit Stimmenmehrheit aller Mitglieder zu treffen\. In Verfahrensfragen kann der Vorsitzende allein entscheiden, wenn die Parteien oder alle Mitglieder des Schiedsgerichts ihn dazu ermächtigt haben\.
 
@@ -5649,7 +5649,7 @@ Haben die Parteien nichts anderes vereinbart, so gilt Folgendes:
 
 ### § 605 ZPO — Vergleich
 
-Vergleichen sich die Parteien während des Schiedsverfahrens über die Streitigkeit und sind die Parteien fähig, über den Gegenstand des Streits einen Vergleich abzuschließen, so können sie beantragen, dass
+> Vergleichen sich die Parteien während des Schiedsverfahrens über die Streitigkeit und sind die Parteien fähig, über den Gegenstand des Streits einen Vergleich abzuschließen, so können sie beantragen, dass
 
 > `1.` das Schiedsgericht den Vergleich protokolliert, sofern der Inhalt des Vergleichs nicht gegen Grundwertungen der österreichischen Rechtsordnung \(ordre public\) verstößt; es reicht aus, wenn das Protokoll von den Parteien und dem Vorsitzenden unterschrieben wird;
 
@@ -5673,20 +5673,20 @@ Vergleichen sich die Parteien während des Schiedsverfahrens über die Streitigk
 
 ### § 607 ZPO — Wirkung des Schiedsspruchs
 
-Der Schiedsspruch hat zwischen den Parteien die Wirkung eines rechtskräftigen gerichtlichen Urteils\.
+> Der Schiedsspruch hat zwischen den Parteien die Wirkung eines rechtskräftigen gerichtlichen Urteils\.
 
 ### § 608 ZPO — Beendigung des Schiedsverfahrens
 
 > `(1)` Das Schiedsverfahren wird mit dem Schiedsspruch in der Sache, einem Schiedsvergleich oder mit einem Beschluss des Schiedsgerichts nach Abs\. 2 beendet\.
 
 > `(2)` Das Schiedsgericht hat das Schiedsverfahren zu beenden, wenn
-> 
+>
 >> `1.` es der Kläger versäumt, die Klage nach § 597 Abs\. 1 einzubringen;
-> 
+>
 >> `2.` der Kläger seine Klage zurücknimmt, es sei denn, dass der Beklagte dem widerspricht und das Schiedsgericht ein berechtigtes Interesse des Beklagten an der endgültigen Beilegung der Streitigkeit anerkennt;
-> 
+>
 >> `3.` die Parteien die Beendigung des Verfahrens vereinbaren und dies dem Schiedsgericht mitteilen;
-> 
+>
 >> `4.` ihm die Fortsetzung des Verfahrens unmöglich geworden ist, insbesondere weil die bisher im Verfahren tätigen Parteien trotz schriftlicher Aufforderung des Schiedsgerichts, mit welcher dieses auf die Möglichkeit einer Beendigung des Schiedsverfahrens hinweist, das Schiedsverfahren nicht weiter betreiben\.
 
 > `(3)` Vorbehaltlich der §§ 606 Abs\. 4 bis 6, 609 Abs\. 5, und 610 sowie der Verpflichtung zur Aufhebung einer angeordneten vorläufigen oder sichernden Maßnahme endet das Amt des Schiedsgerichts mit der Beendigung des Schiedsverfahrens\.
@@ -5706,11 +5706,11 @@ Der Schiedsspruch hat zwischen den Parteien die Wirkung eines rechtskräftigen g
 ### § 610 ZPO — Berichtigung, Erläuterung und Ergänzung des Schiedsspruchs
 
 > `(1)` Sofern die Parteien keine andere Frist vereinbart haben, kann jede Partei innerhalb von vier Wochen nach Empfang des Schiedsspruchs beim Schiedsgericht beantragen,
-> 
+>
 >> `1.` Rechen\-, Schreib\- und Druckfehler oder Fehler ähnlicher Art im Schiedsspruch zu berichtigen;
-> 
+>
 >> `2.` bestimmte Teile des Schiedsspruchs zu erläutern, sofern die Parteien dies vereinbart haben;
-> 
+>
 >> `3.` einen ergänzenden Schiedsspruch über Ansprüche zu erlassen, die im Schiedsverfahren zwar geltend gemacht, im Schiedsspruch aber nicht erledigt worden sind\.
 
 > `(2)` Der Antrag nach Abs\. 1 ist der anderen Partei zu übersenden\. Vor der Entscheidung über einen solchen Antrag ist die andere Partei zu hören\.
@@ -5730,21 +5730,21 @@ Der Schiedsspruch hat zwischen den Parteien die Wirkung eines rechtskräftigen g
 > `(1)` Gegen einen Schiedsspruch kann nur eine Klage auf gerichtliche Aufhebung gestellt werden\. Dies gilt auch für Schiedssprüche, mit welchen das Schiedsgericht über seine Zuständigkeit abgesprochen hat\.
 
 > `(2)` Ein Schiedsspruch ist aufzuheben, wenn
-> 
+>
 >> `1.` eine gültige Schiedsvereinbarung nicht vorhanden ist, oder wenn das Schiedsgericht seine Zuständigkeit verneint hat, eine gültige Schiedsvereinbarung aber doch vorhanden ist, oder wenn eine Partei nach dem Recht, das für sie persönlich maßgebend ist, zum Abschluss einer gültigen Schiedsvereinbarung nicht fähig war;
-> 
+>
 >> `2.` eine Partei von der Bestellung eines Schiedsrichters oder vom Schiedsverfahren nicht gehörig in Kenntnis gesetzt wurde oder sie aus einem anderen Grund ihre Angriffs\- oder Verteidigungsmittel nicht geltend machen konnte;
-> 
+>
 >> `3.` der Schiedsspruch eine Streitigkeit betrifft, für welche die Schiedsvereinbarung nicht gilt, oder er Entscheidungen enthält, welche die Grenzen der Schiedsvereinbarung oder das Rechtsschutzbegehren der Parteien überschreiten; betrifft der Mangel nur einen trennbaren Teil des Schiedsspruchs, so ist dieser Teil aufzuheben;
-> 
+>
 >> `4.` die Bildung oder Zusammensetzung des Schiedsgerichts einer Bestimmung dieses Abschnitts oder einer zulässigen Vereinbarung der Parteien widerspricht;
-> 
+>
 >> `5.` das Schiedsverfahren in einer Weise durchgeführt wurde, die Grundwertungen der österreichischen Rechtsordnung \(ordre public\) widerspricht;
-> 
+>
 >> `6.` die Voraussetzungen vorhanden sind, unter denen nach § 530 Abs\. 1 Z 1 bis 5 ein gerichtliches Urteil mittels Wiederaufnahmsklage angefochten werden kann;
-> 
+>
 >> `7.` der Gegenstand des Streits nach inländischem Recht nicht schiedsfähig ist;
-> 
+>
 >> `8.` der Schiedsspruch Grundwertungen der österreichischen Rechtsordnung \(ordre public\) widerspricht\.
 
 > `(3)` Die Aufhebungsgründe des Abs\. 2 Z 7 und 8 sind auch von Amts wegen wahrzunehmen\.
@@ -5755,11 +5755,11 @@ Der Schiedsspruch hat zwischen den Parteien die Wirkung eines rechtskräftigen g
 
 ### § 612 ZPO — Feststellung des Bestehens oder Nichtbestehens eines Schiedsspruchs
 
-Die Feststellung des Bestehens oder Nichtbestehens eines Schiedsspruchs kann begehrt werden, wenn der Antragsteller ein rechtliches Interesse daran hat\.
+> Die Feststellung des Bestehens oder Nichtbestehens eines Schiedsspruchs kann begehrt werden, wenn der Antragsteller ein rechtliches Interesse daran hat\.
 
 ### § 613 ZPO — Wahrnehmung von Aufhebungsgründen in einem anderen Verfahren
 
-Stellt ein Gericht oder eine Behörde in einem anderen Verfahren, etwa in einem Exekutionsverfahren, fest, dass ein Aufhebungsgrund nach § 611 Abs\. 2 Z 7 und 8 besteht, so ist der Schiedsspruch in diesem Verfahren nicht zu beachten\.
+> Stellt ein Gericht oder eine Behörde in einem anderen Verfahren, etwa in einem Exekutionsverfahren, fest, dass ein Aufhebungsgrund nach § 611 Abs\. 2 Z 7 und 8 besteht, so ist der Schiedsspruch in diesem Verfahren nicht zu beachten\.
 
 ## Achter Titel
 
@@ -5775,7 +5775,7 @@ Stellt ein Gericht oder eine Behörde in einem anderen Verfahren, etwa in einem 
 
 ### § 615 ZPO — Zuständigkeit
 
-Für die Klage auf Aufhebung eines Schiedsspruchs und die Klage auf Feststellung des Bestehens oder Nichtbestehens eines Schiedsspruchs sowie für Verfahren in Angelegenheiten nach dem dritten Titel ist der Oberste Gerichtshof zuständig\.
+> Für die Klage auf Aufhebung eines Schiedsspruchs und die Klage auf Feststellung des Bestehens oder Nichtbestehens eines Schiedsspruchs sowie für Verfahren in Angelegenheiten nach dem dritten Titel ist der Oberste Gerichtshof zuständig\.
 
 ### § 616 ZPO — Verfahren
 
@@ -5800,9 +5800,9 @@ Für die Klage auf Aufhebung eines Schiedsspruchs und die Klage auf Feststellung
 > `(5)` Wurde die Schiedsvereinbarung zwischen einem Unternehmer und einem Verbraucher geschlossen, und hat der Verbraucher weder bei Abschluss der Schiedsvereinbarung noch zu dem Zeitpunkt, zu dem eine Klage anhängig gemacht wird, seinen Wohnsitz, gewöhnlichen Aufenthalt oder Beschäftigungsort in dem Staat, in welchem das Schiedsgericht seinen Sitz hat, so ist die Schiedsvereinbarung nur zu beachten, wenn sich der Verbraucher darauf beruft\.
 
 > `(6)` Ein Schiedsspruch ist auch dann aufzuheben, wenn in einem Schiedsverfahren, an dem ein Verbraucher beteiligt ist,
-> 
+>
 >> `1.` gegen zwingende Rechtsvorschriften verstoßen wurde, deren Anwendung auch bei einem Sachverhalt mit Auslandsberührung durch Rechtswahl der Parteien nicht abbedungen werden könnte, oder
-> 
+>
 >> `2.` die Voraussetzungen vorhanden sind, unter denen nach § 530 Abs\. 1 Z 6 und 7 ein gerichtliches Urteil mittels Wiederaufnahmsklage angefochten werden kann; diesfalls ist die Frist für die Aufhebungsklage nach den Bestimmungen über die Wiederaufnahmsklage zu beurteilen\.
 
 > `(7)` Hat das Schiedsverfahren zwischen einem Unternehmer und einem Verbraucher stattgefunden, so ist der Schiedsspruch auch aufzuheben, wenn die schriftliche Rechtsbelehrung nach Abs\. 3 nicht erteilt wurde\.
@@ -5817,7 +5817,7 @@ Für die Klage auf Aufhebung eines Schiedsspruchs und die Klage auf Feststellung
 
 ### § 618 ZPO — Arbeitsrechtssachen
 
-Für Schiedsverfahren in Arbeitsrechtssachen nach § 50 Abs\. 1 ASGG gilt § 617 Abs\. 2 bis Abs\. 8 und Abs\. 10 und 11 sinngemäß, wobei an die Stelle der die Gerichtsbarkeit in bürgerlichen Rechtssachen ausübenden Landesgerichte die Landesgerichte als Arbeits\- und Sozialgerichte treten, an die Stelle des Handelsgerichts Wien das Arbeits\- und Sozialgericht Wien; das Verfahren über die Klage auf Aufhebung eines Schiedsspruchs und die Klage auf Feststellung des Bestehens oder Nichtbestehens eines Schiedsspruchs richtet sich nach den Bestimmungen des Arbeits\- und Sozialgerichtsgesetzes\. Der Oberste Gerichtshof entscheidet durch einen nach den Grundsätzen der §§ 10 ff\. ASGG zusammengesetzten Senat\.
+> Für Schiedsverfahren in Arbeitsrechtssachen nach § 50 Abs\. 1 ASGG gilt § 617 Abs\. 2 bis Abs\. 8 und Abs\. 10 und 11 sinngemäß, wobei an die Stelle der die Gerichtsbarkeit in bürgerlichen Rechtssachen ausübenden Landesgerichte die Landesgerichte als Arbeits\- und Sozialgerichte treten, an die Stelle des Handelsgerichts Wien das Arbeits\- und Sozialgericht Wien; das Verfahren über die Klage auf Aufhebung eines Schiedsspruchs und die Klage auf Feststellung des Bestehens oder Nichtbestehens eines Schiedsspruchs richtet sich nach den Bestimmungen des Arbeits\- und Sozialgerichtsgesetzes\. Der Oberste Gerichtshof entscheidet durch einen nach den Grundsätzen der §§ 10 ff\. ASGG zusammengesetzten Senat\.
 
 ## Fünfter Abschnitt
 
@@ -5857,7 +5857,7 @@ Für Schiedsverfahren in Arbeitsrechtssachen nach § 50 Abs\. 1 ASGG gilt § 
 
 ### § 622 ZPO
 
-Zur Sicherung des Unterlassungsanspruchs gemäß § 5 Abs\. 1 QEG können einstweilige Verfügungen erlassen werden\.
+> Zur Sicherung des Unterlassungsanspruchs gemäß § 5 Abs\. 1 QEG können einstweilige Verfügungen erlassen werden\.
 
 ## Zweiter Titel
 
@@ -5865,7 +5865,7 @@ Zur Sicherung des Unterlassungsanspruchs gemäß § 5 Abs\. 1 QEG können eins
 
 ### § 623 ZPO — Anwendungsbereich
 
-Die Bestimmungen dieses Titels sind anzuwenden, wenn eine Qualifizierte Einrichtung eine Verbandsklage auf Abhilfe gemäß § 5 Abs\. 3 Z 1 lit b und Z 2 QEG gegen einen Unternehmer erhebt\.
+> Die Bestimmungen dieses Titels sind anzuwenden, wenn eine Qualifizierte Einrichtung eine Verbandsklage auf Abhilfe gemäß § 5 Abs\. 3 Z 1 lit b und Z 2 QEG gegen einen Unternehmer erhebt\.
 
 ### § 624 ZPO — Verbandsklage auf Abhilfe
 
@@ -5881,7 +5881,7 @@ Die Bestimmungen dieses Titels sind anzuwenden, wenn eine Qualifizierte Einricht
 
 ### § 625 ZPO — Prüfung der Verbandsklage auf Abhilfe
 
-Die Behandlung von Prozesseinreden gegen Einzelansprüche kann zurückgestellt werden, solange durch die begehrte Entscheidung die nötige Anzahl an Verbrauchern nicht berührt ist und wenn die Entscheidung über die Durchführung eines Verbandsklageverfahrens schon vorher spruchreif ist\.
+> Die Behandlung von Prozesseinreden gegen Einzelansprüche kann zurückgestellt werden, solange durch die begehrte Entscheidung die nötige Anzahl an Verbrauchern nicht berührt ist und wenn die Entscheidung über die Durchführung eines Verbandsklageverfahrens schon vorher spruchreif ist\.
 
 ### § 626 ZPO — Entscheidung über die Durchführung eines Verbandsklageverfahrens auf Abhilfe
 
@@ -5894,19 +5894,19 @@ Die Behandlung von Prozesseinreden gegen Einzelansprüche kann zurückgestellt w
 > `(1)` Das Gericht hat die Entscheidung über die Durchführung eines Verbandsklageverfahrens nach ihrer Rechtskraft in der Ediktsdatei zu veröffentlichen\.
 
 > `(2)` Zusätzlich zu der Entscheidung ist
-> 
+>
 >> `1.` die Information, dass eine Verbandsklage auf Abhilfe eingebracht wurde, der sich ein Verbraucher durch Beitritt anschließen kann,
-> 
+>
 >> `2.` eine Darstellung der Voraussetzungen, der Frist und der Wirkungen einer Anmeldung eines Anspruchs,
-> 
+>
 >> `3.` die von der klagenden Partei anzugebende Adresse für die Anmeldung von Ansprüchen,
-> 
+>
 >> `4.` das Beitrittsformular oder ein Link zum Beitrittsformular,
-> 
+>
 >> `5.` eine Belehrung über die Voraussetzungen, den Ablauf und die Wirkungen eines Verfahrens sowie
-> 
+>
 >> `6.` auf Antrag der beklagten Partei ihr Vorbringen
-> 
+>
 > &nbsp; zu veröffentlichen\.
 
 > `(3)` Die Veröffentlichungen sind von Amts wegen zu löschen, wenn seit ihrer Aufnahme in die Ediktsdatei vier Monate vergangen sind\.
@@ -5953,31 +5953,31 @@ Die Behandlung von Prozesseinreden gegen Einzelansprüche kann zurückgestellt w
 
 ### § 632 ZPO — Besondere Bestimmungen über den Kostenersatz
 
-Hat ein Verbraucher, der dem Verfahren beigetreten ist, durch Vorsatz Verfahrenskosten verursacht, so kann das Gericht auf Antrag einer Partei aussprechen, dass der Verbraucher für diese Verfahrenskosten solidarisch mit jener Partei haftet, die zu ihrem Ersatz verurteilt wird\. Dieser Antrag ist spätestens mit der Vorlage des Kostenverzeichnisses zu stellen, das die betreffenden Kosten enthält\.
+> Hat ein Verbraucher, der dem Verfahren beigetreten ist, durch Vorsatz Verfahrenskosten verursacht, so kann das Gericht auf Antrag einer Partei aussprechen, dass der Verbraucher für diese Verfahrenskosten solidarisch mit jener Partei haftet, die zu ihrem Ersatz verurteilt wird\. Dieser Antrag ist spätestens mit der Vorlage des Kostenverzeichnisses zu stellen, das die betreffenden Kosten enthält\.
 
 ### § 633 ZPO — Besonderheiten der Entscheidung
 
-Wenn das Gericht in einem Urteil oder in einem Beschluss der beklagten Partei die Verpflichtung zu einer Leistung auferlegt, so hat es zugleich auszusprechen, dass schuldbefreiend nur an die Qualifizierte Einrichtung geleistet werden kann, wenn und soweit diese das bis zum Schluss der mündlichen Verhandlung erster Instanz beantragt hat\.
+> Wenn das Gericht in einem Urteil oder in einem Beschluss der beklagten Partei die Verpflichtung zu einer Leistung auferlegt, so hat es zugleich auszusprechen, dass schuldbefreiend nur an die Qualifizierte Einrichtung geleistet werden kann, wenn und soweit diese das bis zum Schluss der mündlichen Verhandlung erster Instanz beantragt hat\.
 
 ### § 634 ZPO — Veröffentlichungen
 
 > `(1)` Das Gericht hat die Entscheidungen über
-> 
+>
 >> `1.` die Durchführung eines Verbandsklageverfahrens auf Abhilfe \(§ 626\),
-> 
+>
 >> `2.` den Zwischenfeststellungsantrag,
-> 
+>
 >> `3.` die einzelnen geltend gemachten Ansprüche sowie
-> 
+>
 >> `4.` die Bestätigung eines Vergleichs \(§ 631\)
-> 
+>
 > &nbsp; in der Ediktsdatei zu veröffentlichen\.
 
 > `(2)` Das Gericht kann über Abs\. 1 hinaus auch weitere Entscheidungen oder Informationen im Verbandsklageverfahren auf Abhilfe in der Ediktsdatei veröffentlichen, wenn der Zweck des Verfahrens dies erfordert\.
 
 ### § 635 ZPO — Verjährung
 
-Der Beitritt eines Verbrauchers zu einer Verbandsklage auf Abhilfe hemmt die Verjährung des im Beitritt geltend gemachten Anspruchs\. Der Beitritt hemmt den Ablauf von Verjährungsfristen rückwirkend mit dem Zeitpunkt der Einbringung der Verbandsklage auf Abhilfe bei Gericht\. Nach Zurückweisung einer Verbandsklage auf Abhilfe verbleibt einem Verbraucher, der mit einem Anspruch bereits beigetreten war, jedenfalls noch eine Frist von drei Monaten ab Rechtskraft der Zurückweisungsentscheidung, um den Anspruch in einem Einzelverfahren oder durch Beitritt zu einer Verbandsklage geltend machen\.
+> Der Beitritt eines Verbrauchers zu einer Verbandsklage auf Abhilfe hemmt die Verjährung des im Beitritt geltend gemachten Anspruchs\. Der Beitritt hemmt den Ablauf von Verjährungsfristen rückwirkend mit dem Zeitpunkt der Einbringung der Verbandsklage auf Abhilfe bei Gericht\. Nach Zurückweisung einer Verbandsklage auf Abhilfe verbleibt einem Verbraucher, der mit einem Anspruch bereits beigetreten war, jedenfalls noch eine Frist von drei Monaten ab Rechtskraft der Zurückweisungsentscheidung, um den Anspruch in einem Einzelverfahren oder durch Beitritt zu einer Verbandsklage geltend machen\.
 
 ## Siebenter Teil
 
@@ -5988,31 +5988,31 @@ Der Beitritt eines Verbrauchers zu einer Verbandsklage auf Abhilfe hemmt die Ver
 > `(1)` Die §§ 502, 549 und die Änderungen der Abschnittsbezeichnungen in der Fassung des Bundesgesetzes BGBl\. I Nr\. 148/2020, treten mit 1\. Jänner 2021 in Kraft\. Die §§ 502 und 549 sind auf Klagen anzuwenden, die nach dem 31\. Dezember 2020 eingebracht werden\. § 502 Abs\. 5 Z 5 in der Fassung des Bundesgesetzes 148/2020 tritt mit Ablauf des 31\. Dezember 2030 außer Kraft und ist auf Verfahren, in denen die Klage nach dem 31\. Dezember 2030 eingebracht wird, nicht mehr anzuwenden\.
 
 > `(2)` Für das Inkrafttreten der Zivilverfahrens\-Novelle 2022 \(ZVN 2022\), BGBl\. I Nr\. 61/2022, gilt Folgendes:
-> 
+>
 >> `1.` Die §§ 64, 68, 70, 71, 73b, 75, 82, 84, 85, 180, 183, 207 bis 213, 219, 227, 236, 251, 286, 297, 299, 306, 316, 354, 357, 396, 414, 417, 418, 419, 426, 433a, 437, 460, 499, 502, 540 und 544 samt Überschriften in der Fassung der ZVN 2022 treten mit 1\. Mai 2022 in Kraft\. Die §§ 80 und 214 bis 217 und 219 Abs\. 3 treten mit 30\. April 2022 außer Kraft\. § 502 Abs\. 5 Z 6 in der Fassung der ZVN 2022 tritt mit Ablauf des 30\. April 2032 außer Kraft\.
-> 
+>
 >> `2.` Die §§ 1 bis 7 der Kaiserlichen Verordnung vom 14\. März 1915 über die Abfassung und Unterfertigung von gerichtlichen Entscheidungen in Zivil\- und Strafsachen und von Protokollen bei dauernder Verhinderung des Richters oder des Schriftführers; RGBl\. Nr\. 372/1915, werden mit Ablauf des 30\. April 2022 aufgehoben\. Sie sind auf Urteile und Beschlüsse, die vor dem 1\. Mai 2022 verkündet werden, weiter anzuwenden\.
-> 
+>
 >> `3.` § 64 Abs\. 3 letzter Satz ist in der bisher geltenden Fassung weiter anzuwenden, wenn die Gebührenpflicht vor dem 1\. Mai 2022 entstanden ist\.
-> 
+>
 >> `4.` Die §§ 68 und 71 in der Fassung der ZVN 2022 sind anzuwenden, wenn der Beschluss erster Instanz über die Entziehung oder über die Nachzahlung der Verfahrenshilfe nach dem 30\. April 2022 gefasst wird\.
-> 
+>
 >> `5.` Die §§ 75, 84 und 85 in der Fassung der ZVN 2022 sind auf Schriftsätze anzuwenden, die nach dem 30\. April 2022 bei Gericht angebracht werden\.
-> 
+>
 >> `6.` § 82 in der Fassung der ZVN 2022 ist auf Verlangen anzuwenden, die nach dem 30\. April 2022 gestellt werden\.
-> 
+>
 >> `7.` § 180 in der Fassung der ZVN 2022 ist auf Aufträge anzuwenden, die nach dem 30\. April 2022 erteilt, § 183 in der Fassung der ZVN 2022 ist auf Verfügungen anzuwenden, die nach dem 30\. April 2022 getroffen werden\.
-> 
+>
 >> `8.` Die §§ 207 bis 213 in der Fassung der ZVN 2022 sind auf Protokolle anzuwenden, die nach dem 30\. April 2022 aufgenommen werden\.
-> 
+>
 >> `9.` Die §§ 396 und 460 in der Fassung der ZVN 2022 sind auf Anträge anzuwenden, die nach dem 30\. April 2022 gestellt werden\.
-> 
+>
 >> `10.` Die §§ 297, 299, 306, 316, 437, 540 und 544 in der Fassung der ZVN 2022 sind auf Urkunden, Auskunftssachen und Augenscheinsgegenstände anzuwenden, die nach dem 30\. April 2022 dem Gericht vorgelegt werden\.
-> 
+>
 >> `11.` § 357 in der Fassung der ZVN 2022 ist anzuwenden, wenn der Gutachtensauftrag nach dem 30\. April 2022 erteilt wird\.
-> 
+>
 >> `12.` Die §§ 414, 417, 418 und 426 in der Fassung der ZVN 2022 sind auf Urteile anzuwenden, die nach dem 30\. April 2022 gefällt werden\.
-> 
+>
 >> `13.` § 502 Abs\. 5 Z 6 in der Fassung der ZVN 2022 ist auf Verfahren anzuwenden, in denen die Klage nach dem 30\. April 2022 und vor dem 1\. Mai 2032 eingebracht wird\.
 
 > `(3)` § 132a, § 134 Z 1 und § 460 Z 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 77/2023 treten mit 14\. Juli 2023 in Kraft\.
@@ -6021,4 +6021,4 @@ Der Beitritt eines Verbrauchers zu einer Verbandsklage auf Abhilfe hemmt die Ver
 
 ### § 637 ZPO — Umsetzungshinweise
 
-Mit der Verbandsklagen\-Richtlinie\-Umsetzungs\-Novelle, BGBl\. I Nr\. 85/2024, wird die Richtlinie 2020/1828/EU des Europäischen Parlaments und des Rates über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG, ABl\. Nr\. L 409 vom 4\. Dezember 2022 S\. 1 umgesetzt\.
+> Mit der Verbandsklagen\-Richtlinie\-Umsetzungs\-Novelle, BGBl\. I Nr\. 85/2024, wird die Richtlinie 2020/1828/EU des Europäischen Parlaments und des Rates über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG, ABl\. Nr\. L 409 vom 4\. Dezember 2022 S\. 1 umgesetzt\.

@@ -753,7 +753,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ### § 1 EO — Exekutionstitel
 
-Die Durchsetzung von Geldforderungen sowie von Handlungen, Duldungen oder Unterlassungen durch gerichtliche Exekution setzt einen Exekutionstitel voraus\. Exekutionstitel im Sinne des gegenwärtigen Gesetzes sind die nachfolgenden im Inland errichteten Akte und Urkunden:
+> Die Durchsetzung von Geldforderungen sowie von Handlungen, Duldungen oder Unterlassungen durch gerichtliche Exekution setzt einen Exekutionstitel voraus\. Exekutionstitel im Sinne des gegenwärtigen Gesetzes sind die nachfolgenden im Inland errichteten Akte und Urkunden:
 
 > `1.` Endurteile und andere in Streitsachen ergangene Urteile und Beschlüsse der Zivilgerichte, wenn ein weiterer Rechtszug dagegen ausgeschlossen oder doch ein die Exekution hemmendes Rechtsmittel nicht gewährt ist;
 
@@ -799,7 +799,7 @@ Die Durchsetzung von Geldforderungen sowie von Handlungen, Duldungen oder Unterl
 
 ### § 3 EO — Sachliche Zuständigkeit
 
-Zur Bewilligung und zum Vollzug der Exekution auf Grund der in §§ 1 und 2 angeführten Exekutionstitel sind, soweit dieses Gesetz nichts anderes bestimmt, die Bezirksgerichte in Zivilsachen zuständig \(Exekutionsgericht\)\.
+> Zur Bewilligung und zum Vollzug der Exekution auf Grund der in §§ 1 und 2 angeführten Exekutionstitel sind, soweit dieses Gesetz nichts anderes bestimmt, die Bezirksgerichte in Zivilsachen zuständig \(Exekutionsgericht\)\.
 
 ### § 4 EO — Örtliche Zuständigkeit bei einer Exekution zur Hereinbringung einer Geldforderung auf das bewegliche Vermögen
 
@@ -817,7 +817,7 @@ Zur Bewilligung und zum Vollzug der Exekution auf Grund der in §§ 1 und 2 ang
 
 ### § 5a EO — Verlegung des allgemeinen Gerichtsstands
 
-Verlegt der Verpflichtete seinen allgemeinen Gerichtsstand im Inland, so sind die Exekutionsverfahren zur Hereinbringung einer Geldforderung auf das bewegliche Vermögen an das Gericht, in dessen Sprengel die verpflichtete Partei ihren allgemeinen Gerichtsstand hat, zu überweisen\. Innerhalb eines Ortes mit mehreren Sprengeln hat eine Überweisung nur stattzufinden, wenn dies zur Vereinfachung des Exekutionsverfahrens, zur vorteilhafteren Verwertung der Vermögensobjekte oder zur Verminderung der Exekutionskosten geeignet ist\. Von der Überweisung nicht umfasst ist die Durchführung des Verteilungsverfahrens eines bereits erzielten Erlöses\.
+> Verlegt der Verpflichtete seinen allgemeinen Gerichtsstand im Inland, so sind die Exekutionsverfahren zur Hereinbringung einer Geldforderung auf das bewegliche Vermögen an das Gericht, in dessen Sprengel die verpflichtete Partei ihren allgemeinen Gerichtsstand hat, zu überweisen\. Innerhalb eines Ortes mit mehreren Sprengeln hat eine Überweisung nur stattzufinden, wenn dies zur Vereinfachung des Exekutionsverfahrens, zur vorteilhafteren Verwertung der Vermögensobjekte oder zur Verminderung der Exekutionskosten geeignet ist\. Von der Überweisung nicht umfasst ist die Durchführung des Verteilungsverfahrens eines bereits erzielten Erlöses\.
 
 ### § 5b EO — Örtliche Zuständigkeit bei einer Exekution zur Hereinbringung einer Geldforderung auf das unbewegliche Vermögen
 
@@ -835,7 +835,7 @@ Verlegt der Verpflichtete seinen allgemeinen Gerichtsstand im Inland, so sind di
 
 ### § 6 EO — Wahlrecht des Gläubigers
 
-Der Gläubiger hat die Wahl, bei welchem der zur Bewilligung der Exekution zuständigen Gerichte er die Bewilligung der Exekution beantragt, wenn er
+> Der Gläubiger hat die Wahl, bei welchem der zur Bewilligung der Exekution zuständigen Gerichte er die Bewilligung der Exekution beantragt, wenn er
 
 > `1.` gleichzeitig mehrere Exekutionsmittel beantragt oder
 
@@ -867,24 +867,24 @@ Der Gläubiger hat die Wahl, bei welchem der zur Bewilligung der Exekution zust�
 > `(1)` Die Bewilligung der Exekution wegen eines Anspruches, den der Verpflichtete nur gegen eine ihm Zug um Zug zu gewährende Gegenleistung zu erfüllen hat, ist von dem Nachweis, dass die Gegenleistung bereits bewirkt oder doch ihre Erfüllung sichergestellt sei, nicht abhängig\. Die Gegenleistung kann beim Exekutionsgericht erlegt werden, soweit es sich um zum gerichtlichen Erlag geeignete Gegenstände handelt\.
 
 > `(2)` Die Exekution ist auch hinsichtlich des Anspruchs zu bewilligen, der sich auf Grund einer Wertsicherungsklausel ergibt, wenn
-> 
+>
 >> `1.` die Wertsicherungsklausel an nicht mehr als eine veränderliche Größe anknüpft und
-> 
+>
 >> `2.` der Aufwertungsschlüssel durch eine unbedenkliche Urkunde bewiesen wird\. Der Beweis entfällt, wenn Aufwertungsschlüssel ein von der Bundesanstalt „Statistik Österreich“ verlautbarter Verbraucherpreisindex oder die Höhe des Aufwertungsschlüssels gesetzlich bestimmt ist\.
 
 > `(3)` Ist nach einem Exekutionstitel ein Anspruch wertgesichert zu zahlen, ohne dass hiezu Näheres bestimmt ist, so gilt als Aufwertungsschlüssel der von der Bundesanstalt „Statistik Österreich“ verlautbarte, für den Monat der Schaffung des Exekutionstitels gültige Verbraucherpreisindex\. Der Anspruch vermindert oder erhöht sich in dem Maß, als sich der Verbraucherpreisindex gegenüber dem Zeitpunkt der Schaffung des Exekutionstitels ändert\. Änderungen sind so lange nicht zu berücksichtigen, als sie 10% der bisher maßgebenden Indexzahl nicht übersteigen\.
 
 ### § 8a EO — Variable Zinsen
 
-Die Exekution ist bezüglich der Zinsen auch dann zu bewilligen, wenn der Zinssatz in einer bestimmten Zahl von Prozentpunkten über dem Basiszinssatz ausgedrückt wird\. Eines Nachweises des Basiszinssatzes bedarf es nicht\.
+> Die Exekution ist bezüglich der Zinsen auch dann zu bewilligen, wenn der Zinssatz in einer bestimmten Zahl von Prozentpunkten über dem Basiszinssatz ausgedrückt wird\. Eines Nachweises des Basiszinssatzes bedarf es nicht\.
 
 ### § 9 EO — Exekution gegen und zugunsten Dritter
 
-Zu Gunsten einer anderen als der im Exekutionstitel als berechtigt bezeichneten Person oder wider einen anderen als den im Exekutionstitel benannten Verpflichteten kann die Exekution nur soweit stattfinden, als durch öffentliche oder öffentlich beglaubigte Urkunden bewiesen wird, dass der im Exekutionstitel anerkannte Anspruch oder die darin festgestellte Verpflichtung von den daselbst benannten Personen auf diejenigen Personen übergegangen ist, von welchen oder wider welche die Exekution beantragt wird\.
+> Zu Gunsten einer anderen als der im Exekutionstitel als berechtigt bezeichneten Person oder wider einen anderen als den im Exekutionstitel benannten Verpflichteten kann die Exekution nur soweit stattfinden, als durch öffentliche oder öffentlich beglaubigte Urkunden bewiesen wird, dass der im Exekutionstitel anerkannte Anspruch oder die darin festgestellte Verpflichtung von den daselbst benannten Personen auf diejenigen Personen übergegangen ist, von welchen oder wider welche die Exekution beantragt wird\.
 
 ### § 10 EO — Urteil über den Vollstreckungsanspruch
 
-Wenn die in § 7 Abs\. 1 und 2, § 8 Abs\. 2 und § 9 geforderten urkundlichen Beweise nicht erbracht werden können, muss der Bewilligung der Exekution oder ihrer Fortführung die Erwirkung eines gerichtlichen Urteils vorausgehen\.
+> Wenn die in § 7 Abs\. 1 und 2, § 8 Abs\. 2 und § 9 geforderten urkundlichen Beweise nicht erbracht werden können, muss der Bewilligung der Exekution oder ihrer Fortführung die Erwirkung eines gerichtlichen Urteils vorausgehen\.
 
 ### § 12 EO — Wahlschulden
 
@@ -894,15 +894,15 @@ Wenn die in § 7 Abs\. 1 und 2, § 8 Abs\. 2 und § 9 geforderten urkundlic
 
 ### § 13 EO — Teilvollstreckbarkeit von Exekutionstiteln
 
-Auf Grund einer Entscheidung, in der mehrere voneinander unabhängige Ansprüche zuerkannt wurden, kann, wenn nur hinsichtlich einzelner dieser Ansprüche ein die Exekution hemmendes Rechtsmittel erhoben wurde, zu Gunsten der übrigen nicht angefochtenen Ansprüche die Exekution bewilligt werden, sobald die Entscheidung über diese Ansprüche in Rechtskraft erwachsen ist\.
+> Auf Grund einer Entscheidung, in der mehrere voneinander unabhängige Ansprüche zuerkannt wurden, kann, wenn nur hinsichtlich einzelner dieser Ansprüche ein die Exekution hemmendes Rechtsmittel erhoben wurde, zu Gunsten der übrigen nicht angefochtenen Ansprüche die Exekution bewilligt werden, sobald die Entscheidung über diese Ansprüche in Rechtskraft erwachsen ist\.
 
 ### § 14 EO — Anwendung mehrerer Exekutionsmittel
 
-Die gleichzeitige Anwendung mehrerer Exekutionsmittel ist gestattet; die Bewilligung kann jedoch auf einzelne Exekutionsmittel beschränkt werden, wenn aus dem Exekutionsantrag offenbar erhellt, dass bereits eines oder mehrere der beantragten Exekutionsmittel zur Befriedigung des betreibenden Gläubigers hinreichen\.
+> Die gleichzeitige Anwendung mehrerer Exekutionsmittel ist gestattet; die Bewilligung kann jedoch auf einzelne Exekutionsmittel beschränkt werden, wenn aus dem Exekutionsantrag offenbar erhellt, dass bereits eines oder mehrere der beantragten Exekutionsmittel zur Befriedigung des betreibenden Gläubigers hinreichen\.
 
 ### § 15 EO — Exekution gegen Gemeinden und öffentlich gemeinnützige Anstalten
 
-Gegen eine Gemeinde oder gegen eine durch Ausspruch einer Verwaltungsbehörde als öffentlich und gemeinnützig erklärte Anstalt kann die Exekution zum Zwecke der Hereinbringung von Geldforderungen, falls es sich nicht um die Verwirklichung eines vertragsmäßigen Pfandrechtes handelt, nur in Ansehung solcher Vermögensbestandteile bewilligt werden, welche ohne Beeinträchtigung der durch die Gemeinde oder jene Anstalt zu wahrenden öffentlichen Interessen zur Befriedigung des Gläubigers verwendet werden können\. Zur Abgabe der Erklärung, inwieweit letzteres hinsichtlich bestimmter Vermögensbestandteile zutrifft, sind die staatlichen Verwaltungsbehörden berufen\.
+> Gegen eine Gemeinde oder gegen eine durch Ausspruch einer Verwaltungsbehörde als öffentlich und gemeinnützig erklärte Anstalt kann die Exekution zum Zwecke der Hereinbringung von Geldforderungen, falls es sich nicht um die Verwirklichung eines vertragsmäßigen Pfandrechtes handelt, nur in Ansehung solcher Vermögensbestandteile bewilligt werden, welche ohne Beeinträchtigung der durch die Gemeinde oder jene Anstalt zu wahrenden öffentlichen Interessen zur Befriedigung des Gläubigers verwendet werden können\. Zur Abgabe der Erklärung, inwieweit letzteres hinsichtlich bestimmter Vermögensbestandteile zutrifft, sind die staatlichen Verwaltungsbehörden berufen\.
 
 ## Zweiter Titel
 
@@ -927,9 +927,9 @@ Gegen eine Gemeinde oder gegen eine durch Ausspruch einer Verwaltungsbehörde al
 > `(1)` Wird die Exekution zur Hereinbringung einer Geldforderung bewilligt, ohne dass Vermögensobjekte angeführt werden, so ist die Exekution so lange von Amts wegen fortzusetzen, bis die Forderung hereingebracht ist oder das Exekutionsverfahren eingestellt wird\.
 
 > `(2)` Das Exekutionsverfahren ruht, wenn
-> 
+>
 >> `1.` keine Vermögensobjekte ermittelt oder vorgefunden wurden oder
-> 
+>
 >> `2.` alle gepfändeten Vermögensobjekte verwertet wurden und der Erlös verteilt wurde\.
 
 > `(3)` Ein ruhendes Exekutionsverfahren ist auf Antrag des Gläubigers, soweit das Gesetz nichts anderes vorsieht, nach Ablauf von sechs Monaten fortzusetzen\. Das Verfahren ist vor Ablauf dieser Frist fortzusetzen, wenn glaubhaft gemacht wird, dass beim Verpflichteten zwischenzeitig pfändbare Vermögenswerte vorhanden sind\.
@@ -941,11 +941,11 @@ Gegen eine Gemeinde oder gegen eine durch Ausspruch einer Verwaltungsbehörde al
 > `(1)` Die Exekution zur Hereinbringung einer Geldforderung wird auf die Vermögensobjekte und mit den Exekutionsmitteln geführt, die auf Antrag des betreibenden Gläubigers vom Gericht bewilligt wurden\. Ist die Exekution auf alle Vermögensobjekte einer oder mehrerer Exekutionsmittel gerichtet, so kann der betreibende Gläubiger auf die Pfändung von im Antrag genannten Vermögensobjekten verzichten, auch auf die Pfändung von Forderungen gegenüber einem von ihm genannten oder sich aus der Auskunft des Dachverbands der Sozialversicherungsträger ergebenden Drittschuldner\.
 
 > `(2)` Beantragt der Gläubiger Exekution zur Hereinbringung einer Geldforderung, ohne ein Exekutionsmittel zu nennen, so erfasst diese, wenn der Gläubiger nichts anderes beantragt, als Exekutionspaket
-> 
+>
 >> `1.` die Exekution auf bewegliche Sachen und Papiere nach § 249,
-> 
+>
 >> `2.` die Exekution auf vom betreibenden Gläubiger genannte wiederkehrende beschränkt pfändbare Geldforderungen und auf vom Dachverband der Sozialversicherungsträger nach § 295 ermittelte sowie
-> 
+>
 >> `3.` die Aufnahme eines Vermögensverzeichnisses nach § 47\.
 
 ### § 20 EO — Erweitertes Exekutionspaket
@@ -966,7 +966,7 @@ Gegen eine Gemeinde oder gegen eine durch Ausspruch einer Verwaltungsbehörde al
 
 ### § 22 EO — Pfändung zugunsten weiterer betreibender Gläubiger
 
-Ist ein Verwalter bestellt und wird auf Antrag eines weiteren betreibenden Gläubigers ein Vermögensobjekt gepfändet, das bereits vom Verwalter gepfändet worden ist, so wird der Verwalter hinsichtlich eines Mehrerlöses aus der Verwertung dieses Vermögensobjekts als Kurator für den weiteren betreibenden Gläubiger tätig\.
+> Ist ein Verwalter bestellt und wird auf Antrag eines weiteren betreibenden Gläubigers ein Vermögensobjekt gepfändet, das bereits vom Verwalter gepfändet worden ist, so wird der Verwalter hinsichtlich eines Mehrerlöses aus der Verwertung dieses Vermögensobjekts als Kurator für den weiteren betreibenden Gläubiger tätig\.
 
 ### § 23 EO — Verbindung von Exekutionsverfahren auf mehrere Liegenschaften
 
@@ -978,7 +978,7 @@ Ist ein Verwalter bestellt und wird auf Antrag eines weiteren betreibenden Gläu
 
 ### § 23a EO — Verbindung von Exekutionsverfahren auf unbewegliche Sachen gegen mehrere Verpflichtete
 
-Auf Antrag oder von Amts wegen können Exekutionsverfahren, in denen mehreren Verpflichteten Anteile einer Liegenschaft, eines Superädifikats oder eines Baurechts zustehen, verbunden werden\.
+> Auf Antrag oder von Amts wegen können Exekutionsverfahren, in denen mehreren Verpflichteten Anteile einer Liegenschaft, eines Superädifikats oder eines Baurechts zustehen, verbunden werden\.
 
 ### § 24 EO — Vollstreckungsorgane
 
@@ -1014,11 +1014,11 @@ Auf Antrag oder von Amts wegen können Exekutionsverfahren, in denen mehreren Ve
 
 ### § 25c EO — Kontaktaufnahme mit dem Verpflichteten
 
-Wird der Verpflichtete bei einem Vollzugsversuch nicht angetroffen, so kann das Vollstreckungsorgan diesen auffordern, sich bei ihm zu melden, wenn der Zweck der Exekution dadurch nicht vereitelt wird\.
+> Wird der Verpflichtete bei einem Vollzugsversuch nicht angetroffen, so kann das Vollstreckungsorgan diesen auffordern, sich bei ihm zu melden, wenn der Zweck der Exekution dadurch nicht vereitelt wird\.
 
 ### § 25d EO — Bericht des Vollstreckungsorgans
 
-Das Vollstreckungsorgan hat über die Durchführung des Vollzugs oder die entgegenstehenden Hindernisse und spätestens vier Monate nach Erhalt des Vollzugsauftrags dem Gericht und dem betreibenden Gläubiger über den Stand des Verfahrens zu berichten, über die Durchführung des Vollzugs auch dem Verpflichteten\.
+> Das Vollstreckungsorgan hat über die Durchführung des Vollzugs oder die entgegenstehenden Hindernisse und spätestens vier Monate nach Erhalt des Vollzugsauftrags dem Gericht und dem betreibenden Gläubiger über den Stand des Verfahrens zu berichten, über die Durchführung des Vollzugs auch dem Verpflichteten\.
 
 ### § 26 EO — Durchsuchungsbefugnis des Vollstreckungsorgans
 
@@ -1031,13 +1031,13 @@ Das Vollstreckungsorgan hat über die Durchführung des Vollzugs oder die entgeg
 ### § 26a EO — Öffnen der verschlossenen Haus- und Wohnungstüren
 
 > `(1)` Verschlossene Haus\- und Wohnungstüren dürfen geöffnet werden, wenn diese
-> 
+>
 >> `1.` bei einem Vollzugsversuch, der bei Unternehmen zur Geschäftszeit, sonst an Samstagen, Sonntagen und gesetzlichen Feiertagen sowie von 22 bis 6 Uhr durchgeführt wurde, versperrt waren oder
-> 
+>
 >> `2.` wahrscheinlich über vier Monate versperrt sein werden oder
-> 
+>
 >> `3.` bei der dem Verpflichteten bekannt gegebenen Vollzugszeit versperrt sind oder
-> 
+>
 >> `4.` die am Vollzugsort anwesende Person nicht öffnet und der betreibende Gläubiger nicht auf eine Öffnung verzichtet hat\.
 
 > `(2)` Das Vollstreckungsorgan hat den betreibenden Gläubiger zum Erlag eines Kostenvorschusses aufzufordern\. Dieser kann auch die zur Öffnung erforderlichen Arbeitskräfte bereitstellen, wenn er dies während der zum Erlag des Kostenvorschusses offen stehenden Frist bekannt gibt\.
@@ -1064,22 +1064,22 @@ Das Vollstreckungsorgan hat über die Durchführung des Vollzugs oder die entgeg
 
 ### § 28 EO — Exekution auf das Eigentum dem öffentlichen Verkehr dienender Anstalten
 
-In das Eigentum einer unter staatlicher Aufsicht stehenden, dem öffentlichen Verkehr dienenden Anstalt dürfen Exekutionsakte, welche geeignet wären, die Aufrechterhaltung des öffentlichen Verkehrs zu stören, nur im Einvernehmen mit der Aufsichtsbehörde und unter den von dieser Behörde im Interesse des öffentlichen Verkehrs für notwendig befundenen Einschränkungen vorgenommen werden\.
+> In das Eigentum einer unter staatlicher Aufsicht stehenden, dem öffentlichen Verkehr dienenden Anstalt dürfen Exekutionsakte, welche geeignet wären, die Aufrechterhaltung des öffentlichen Verkehrs zu stören, nur im Einvernehmen mit der Aufsichtsbehörde und unter den von dieser Behörde im Interesse des öffentlichen Verkehrs für notwendig befundenen Einschränkungen vorgenommen werden\.
 
 ### § 29 EO — Exekution gegen eine Person des Bundesheeres oder der Bundespolizei
 
-Gegen eine in Ausübung des Dienstes befindliche Person des Bundesheeres oder der Bundespolizei darf mit dem Exekutionsvollzug erst begonnen werden, nachdem das vorgesetzte Kommando dieser Person von der Bewilligung der Exekution verständigt wurde\.
+> Gegen eine in Ausübung des Dienstes befindliche Person des Bundesheeres oder der Bundespolizei darf mit dem Exekutionsvollzug erst begonnen werden, nachdem das vorgesetzte Kommando dieser Person von der Bewilligung der Exekution verständigt wurde\.
 
 ### § 30 EO — Vollzugszeit
 
 > `(1)` Das Vollstreckungsorgan hat die Zeit des Vollzugs selbst zu wählen\. Hiebei ist darauf Bedacht zu nehmen, wann der Vollzug am wahrscheinlichsten erfolgreich durchgeführt werden kann\.
 
 > `(2)` An Samstagen, Sonntagen und gesetzlichen Feiertagen sowie von 22 bis 6 Uhr darf das Vollstreckungsorgan Exekutionshandlungen nur
-> 
+>
 >> `1.` in dringenden Fällen, insbesondere wenn der Zweck der Exekution nicht anders erreicht werden kann, oder
-> 
+>
 >> `2.` wenn ein Vollzugsversuch an Werktagen zur Tageszeit erfolglos war,
-> 
+>
 > &nbsp; vornehmen\.
 
 ### § 31 EO — Exekution bei Immunität und Exterritorialität
@@ -1129,13 +1129,13 @@ Gegen eine in Ausübung des Dienstes befindliche Person des Bundesheeres oder de
 ### § 36 EO — Einwendungen gegen die Exekutionsbewilligung
 
 > `(1)` Wenn der Verpflichtete bestreitet:
-> 
+>
 >> `1.` dass die für die Fälligkeit oder Vollstreckbarkeit des Anspruches maßgebenden Tatsachen \(§ 7 Abs\. 2\) oder die angenommene Rechtsnachfolge \(§ 9\) eingetreten seien;
-> 
+>
 >> `2.` dass sich der Anspruch, zu dessen Hereinbringung die Exekution bewilligt wurde, auf Grund einer Wertsicherungsklausel ergibt;
-> 
+>
 >> `3.` wenn er behauptet, dass der betreibende Gläubiger auf die Einleitung der Exekution überhaupt oder für eine einstweilen noch nicht abgelaufene Frist verzichtet hat,
-> 
+>
 > so hat er seine bezüglichen Einwendungen, falls sie nicht mittels Rekurs gegen die Exekutionsbewilligung angebracht werden können, im Wege der Klage geltend zu machen\.
 
 > `(2)` Die Klage ist bei dem Gericht anzubringen, das die Exekution in erster Instanz bewilligt hat\. Ist der Exekutionstitel in einer Arbeitsrechtssache nach § 50 ASGG ergangen, so ist die Klage bei dem Gericht anzubringen, bei dem der Prozess in erster Instanz anhängig war\. Ist der Exekutionstitel in einer Unterhaltssache ergangen, so sind die Einwendungen bei dem für diese Sache zuständigen Gericht in der dafür vorgesehenen Verfahrensart geltend zu machen\. § 35 Abs\. 3 erster Satz über die Verbindung aller Einwendungen, die die verpflichtete Partei zur Zeit der Geltendmachung vorzubringen imstande war, ist anzuwenden\.
@@ -1163,27 +1163,27 @@ Gegen eine in Ausübung des Dienstes befindliche Person des Bundesheeres oder de
 ### § 39 EO — Einstellung, Einschränkung und Aufschiebung der Exekution
 
 > `(1)` Außer den in den §§ 35, 36 und 37 angeführten Fällen ist die Exekution unter gleichzeitiger Aufhebung aller bis dahin vollzogenen Exekutionsakte einzustellen:
-> 
+>
 >> `1.` wenn der ihr zugrunde liegende Exekutionstitel durch rechtskräftige Entscheidung für ungültig erkannt, aufgehoben oder sonst für unwirksam erklärt wurde;
-> 
+>
 >> `2.` wenn die Exekution auf Sachen, Rechte oder Forderungen geführt wird, die nach den geltenden Vorschriften der Exekution überhaupt oder einer abgesonderten Exekutionsführung entzogen sind;
-> 
+>
 >> `3.` wenn die Exekution auf Grund von Urteilen oder Vergleichen, die gemäß § 2 der ZPO ohne Mitwirkung eines gesetzlichen Vertreters zustande gekommen sind, auf solches Vermögen eines Minderjährigen geführt wird, auf das sich seine freie Verfügung nicht erstreckt;
-> 
+>
 >> `4.` wenn die Exekution gegen eine Gemeinde oder eine als öffentlich und gemeinnützig erklärte Anstalt gemäß § 15 für unzulässig erklärt wurde;
-> 
+>
 >> `5.` wenn die Exekution aus anderen Gründen durch rechtskräftige Entscheidung für unzulässig erklärt wurde;
-> 
+>
 >> `6.` wenn der Gläubiger das Exekutionsbegehren zurückgezogen hat, wenn er auf den Vollzug der bewilligten Exekution überhaupt oder für eine einstweilen noch nicht abgelaufene Frist verzichtet hat, oder wenn er von der Fortsetzung des Exekutionsverfahrens abgestanden ist;
-> 
+>
 >> `7.` wenn der Verpflichtete im Falle des § 12 nach Bewilligung der Exekution in Ausübung seines Wahlrechtes eine andere als diejenige Leistung bewirkt hat, auf welche die Exekution gerichtet ist;
-> 
+>
 >> `8.` wenn sich nicht erwarten lässt, dass die Fortsetzung oder Durchführung der Exekution einen die Kosten dieser Exekution übersteigenden Ertrag ergeben wird;
-> 
+>
 >> `9.` wenn die erteilte Bestätigung der Vollstreckbarkeit rechtskräftig aufgehoben wurde;
-> 
+>
 >> `10.` wenn die Exekution nicht durch einen Exekutionstitel gedeckt ist oder diesem die Bestätigung der Vollstreckbarkeit fehlt;
-> 
+>
 >> `11.` wenn die Vollstreckbarerklärung eines ausländischen Exekutionstitels rechtskräftig aufgehoben wurde\.
 
 > `(2)` In den unter Abs\. 1 Z 1, 6 und 7 angegebenen Fällen erfolgt die Einstellung nur auf Antrag, sonst kann sie auch von amtswegen erfolgen; der Einstellung von amtswegen hat jedoch in den unter Abs\. 1 Z 2 und 3 angegebenen Fällen, sofern nicht schon eine rechtskräftige Entscheidung über die Unzulässigkeit der Exekutionsführung vorliegt, eine Einvernehmung der Parteien vorauszugehen\. Wenn auf Geldforderungen Exekution geführt wird, gilt die dem Exekutionsgericht erstattete Anzeige des Drittschuldners über die Unzulässigkeit der Exekutionsführung \(§ 294 Abs\. 4\) als Antrag auf Einstellung der Exekution\. Im Falle der Einstellung nach Abs\. 1 Abs\. 1 Z 6 kann die Zustellung des Einstellungsbeschlusses an den Antragsteller unterbleiben\.
@@ -1208,32 +1208,32 @@ Gegen eine in Ausübung des Dienstes befindliche Person des Bundesheeres oder de
 
 ### § 41a EO — Beendigung der Exekution
 
-Das Gericht hat auf Antrag die Beendigung eines Exekutionsverfahrens wegen Geldforderungen mit Beschluss festzustellen, wenn sämtliche Forderungen samt Nebengebühren, zu deren Hereinbringung das Exekutionsverfahren geführt wurde, in diesem Verfahren getilgt worden sind\. Ein Rechtsmittel gegen diese Entscheidung ist unzulässig; sie kann jedoch jederzeit auf Antrag abgeändert werden\.
+> Das Gericht hat auf Antrag die Beendigung eines Exekutionsverfahrens wegen Geldforderungen mit Beschluss festzustellen, wenn sämtliche Forderungen samt Nebengebühren, zu deren Hereinbringung das Exekutionsverfahren geführt wurde, in diesem Verfahren getilgt worden sind\. Ein Rechtsmittel gegen diese Entscheidung ist unzulässig; sie kann jedoch jederzeit auf Antrag abgeändert werden\.
 
 ### § 42 EO — Aufschiebung der Exekution
 
 > `(1)` Die Aufschiebung \(Hemmung\) der Exekution kann auf Antrag angeordnet werden:
-> 
+>
 >> `1.` wenn eine Klage auf Ungültig\- oder Unwirksamerklärung oder auf Aufhebung eines der im § 1 angeführten, einer bewilligten Exekution zugrunde liegenden Exekutionstitels erhoben wird;
-> 
+>
 >> `2.` wenn in Bezug auf einen der im § 1 angeführten Exekutionstitel die Wiederaufnahme des Verfahrens oder die Wiedereinsetzung in den vorigen Stand begehrt oder wenn die Aufhebung eines Schiedsspruches \(§ 1 Z 16\) im Klagewege beantragt wird;
-> 
+>
 >> `2a.` wenn gegen das der Exekution zu Grunde liegende Berufungsurteil außerordentliche Revision \(§ 505 Abs\. 4 ZPO\) erhoben worden ist;
-> 
+>
 >> `3.` wenn gemäß § 39 Abs\. 1 Z 2 bis 4, 6, 8 und 10 oder § 40 die Einstellung der Exekution beantragt wird;
-> 
+>
 >> `4.` wenn die Exekution wegen eines Anspruches stattfindet, der von einer Zug um Zug zu bewirkenden Gegenleistung des betreibenden Gläubigers abhängig ist, und der Gläubiger weder die ihm obliegende Gegenleistung bewirkt hat, noch dieselbe zu bewirken oder sicherzustellen bereit ist;
-> 
+>
 >> `5.` wenn Einwendungen nach den §§ 35 oder 36 gerichtlich geltend gemacht werden oder Klage nach § 37 erhoben wird, wenn aus anderen Gründen auf Unzulässigerklärung der Exekution geklagt wird \(§ 39 Abs\. 1 Z 5\) oder wenn Einwendungen gegen den Anspruch bei der Behörde erhoben werden, von welcher einer der in § 1 Z 10 und 12 bis 14 angeführten Exekutionstitel ausgegangen ist;
-> 
+>
 >> `6.` wenn eine Einberufung der Verlassenschaftsgläubiger \(§ 813 a\. b\. G\. B\.\) bewilligt wird;
-> 
+>
 >> `7.` wenn der die Exekution bewilligende Beschluss des Gerichtes mittels Rekurs angefochten wird;
-> 
+>
 >> `8.` wenn gegen einen Vorgang des Exekutionsvollzugs Beschwerde geführt wird und die für die Entscheidung darüber erforderliche Einvernehmung der Parteien oder sonstigen Beteiligten nicht unverzüglich stattfinden kann \(§ 68\);
-> 
+>
 >> `9.` wenn die Aufhebung oder Abänderung der rechtskräftigen Vollstreckbarerklärung beantragt wird;
-> 
+>
 >> `10.` wenn gegen die Anpassung des Exekutionstitels Widerspruch erhoben wird\.
 
 > `(2)` Die Aufschiebung der Exekution kann ferner in den Fällen des § 7 Abs\. 3 und 4, auf Begehren der Stelle, der die Aufhebung obliegt, oder auf Antrag eines Beteiligten angeordnet werden\.
@@ -1253,11 +1253,11 @@ Das Gericht hat auf Antrag die Beendigung eines Exekutionsverfahrens wegen Geldf
 > `(1)` Die Bewilligung der Exekutionsaufschiebung hat zu unterbleiben, wenn die Exekution begonnen oder fortgeführt werden kann, ohne dass dies für denjenigen, der die Aufschiebung verlangt, mit der Gefahr eines unersetzlichen oder schwer zu ersetzenden Vermögensnachteils verbunden wäre\.
 
 > `(2)` Die Aufschiebung der Exekution ist von einer entsprechenden Sicherheitsleistung des Antragstellers abhängig zu machen:
-> 
+>
 >> `1.` wenn die Tatsachen, auf die sich die Einwendungen gegen den Anspruch oder gegen die Exekutionsbewilligung \(§§ 35 und 36\) stützen, nicht durch unbedenkliche Urkunden dargetan sind;
-> 
+>
 >> `2.` wenn ein naher Angehöriger des Verpflichteten \(§ 32 Insolvenzordnung\) oder eine mit ihm in Hausgemeinschaft lebende Person später als 14 Tage nach dem Exekutionsvollzuge die Widerspruchsklage \(§ 37\) erhebt und der Kläger nicht bescheinigt, dass er von dem Vollzug erst kurz vor oder nach Ablauf dieses Zeitraumes Kenntnis erlangen konnte und dass er die Klage ohne unnötigen Aufschub eingebracht hat;
-> 
+>
 >> `3.` wenn die Aufschiebung der Exekution die Befriedigung des betreibenden Gläubigers zu gefährden geeignet ist\. Treten erst nach Bewilligung der Aufschiebung Umstände ein, die eine solche Gefährdung wahrscheinlich machen, so kann demjenigen, auf dessen Ansuchen die Aufschiebung bewilligt wurde, auf Antrag aufgetragen werden, innerhalb einer bestimmten Frist Sicherheit zu leisten, widrigens die Exekution wieder aufgenommen werden würde\.
 
 > `(3)` Bei der Entscheidung über einen Aufschiebungsantrag nach § 42 Abs\. 1 Z 2a sind die Erfolgsaussichten der außerordentlichen Revision nicht zu prüfen\.
@@ -1282,7 +1282,7 @@ Das Gericht hat auf Antrag die Beendigung eines Exekutionsverfahrens wegen Geldf
 
 ### § 46 EO — Nachweis der Befriedigung
 
-Das Vollstreckungsorgan darf mit der Vollziehung der ihm aufgetragenen Exekutionshandlung nur dann innehalten, wenn ihm nachgewiesen wird, dass der betreibende Gläubiger nach Erlassung des Exekutionstitels befriedigt worden ist, Stundung bewilligt hat oder von der Fortsetzung des Exekutionsverfahrens abgestanden ist\.
+> Das Vollstreckungsorgan darf mit der Vollziehung der ihm aufgetragenen Exekutionshandlung nur dann innehalten, wenn ihm nachgewiesen wird, dass der betreibende Gläubiger nach Erlassung des Exekutionstitels befriedigt worden ist, Stundung bewilligt hat oder von der Fortsetzung des Exekutionsverfahrens abgestanden ist\.
 
 ## Vierter Titel
 
@@ -1291,17 +1291,17 @@ Das Vollstreckungsorgan darf mit der Vollziehung der ihm aufgetragenen Exekution
 ### § 47 EO — Vermögensverzeichnis
 
 > `(1)` Wenn der betreibende Gläubiger nichts anderes beantragt, hat der Verpflichtete unter Angabe seines Geburtsdatums gegenüber dem Gericht sein gesamtes Vermögen anzugeben \(Vermögensverzeichnis\), wenn
-> 
+>
 >> `1.` der Vollzug einer Exekution auf bewegliche Sachen am Vollzugsort oder zumindest an dem Vollzugsort erfolglos geblieben ist, an dem der Verpflichtete seinen gewöhnlichen Aufenthalt hat oder sein Unternehmen betreibt\. Erfolglos geblieben ist der Vollzug, wenn beim Verpflichteten keine pfändbaren Sachen oder nur solche Sachen vorgefunden wurden, deren Unzulänglichkeit sich mit Rücksicht auf ihren geringen Wert oder auf die daran zugunsten anderer Gläubiger bereits begründeten Pfandrechte klar ergibt oder die von dritten Personen in Anspruch genommen werden, oder wenn
-> 
+>
 >> `2.` eine Forderungsexekution nach § 295 erfolglos geblieben ist, weil der Dachverband der Sozialversicherungsträger die Anfrage des Gerichts nach § 295 nicht positiv beantwortet hat, oder wenn der Erlös dieser Exekution voraussichtlich nicht ausreichen wird, die vollstreckbare Forderung samt Nebengebühren im Lauf eines Jahres zu tilgen\.
 
 > `(2)` Im Vermögensverzeichnis hat der Verpflichtete insbesondere
-> 
+>
 >> `1.` bei Vermögensstücken anzugeben, wo sie sich befinden; bei Sachen, die zugleich gepfändet werden, genügt ein Hinweis auf das Pfändungsprotokoll;
-> 
+>
 >> `2.` bei Forderungen die Person des Schuldners und den Schuldgrund anzugeben\. Ist eine Forderung streitig oder vermutlich nicht zur Gänze einbringlich, so ist darauf hinzuweisen\. Die Beweismittel sind zu bezeichnen\.
-> 
+>
 > &nbsp; Die Angaben des Verpflichteten sind, soweit sie nicht unpfändbare oder wertlose Sachen betreffen, vom Gericht oder Vollstreckungsorgan zu Protokoll zu nehmen\. Hiebei ist das auf der Internet Website des Bundesministeriums für Justiz kundgemachte Formular zu verwenden\. Der Verpflichtete ist über die Straffolgen zu belehren; es ist ihm Einsicht in das aufgenommene Protokoll zu gewähren\. Dies sowie die Richtigkeit und Vollständigkeit seiner Angaben hat er mit seiner Unterschrift zu bestätigen\.
 
 > `(3)` Die Finanzprokuratur, die Abgabenbehörden oder das Amt für Betrugsbekämpfung, soweit diese nach den geltenden Vorschriften anstelle der Finanzprokuratur einzuschreiten berufen sind, und jede Verwaltungsbehörde können verlangen, dass der Verpflichtete gegenüber dem Gericht ein Vermögensverzeichnis abgibt, wenn die verwaltungs\- oder abgabenbehördliche Exekution zur Hereinbringung der Steuern, der Zuschläge und der den Steuern hinsichtlich der Einbringung gleichgehaltenen Leistungen erfolglos geblieben ist\. Der Antrag ist bei dem Bezirksgericht zu stellen, in dessen Sprengel die Exekution erfolglos versucht wurde\.
@@ -1331,21 +1331,21 @@ Das Vollstreckungsorgan darf mit der Vollziehung der ihm aufgetragenen Exekution
 > `(2)` Ist die verpflichtete Partei offenkundig zahlungsunfähig, so hat dies das Exekutionsgericht nach Einvernehmung der Parteien mit Beschluss festzustellen und nach Eintritt der Rechtskraft dieses Beschlusses die offenkundige Zahlungsunfähigkeit öffentlich bekanntzumachen\. Sämtliche Exekutionsverfahren des betreibenden Gläubigers auf das bewegliche Vermögen ruhen und werden nur auf Antrag des betreibenden Gläubigers fortgesetzt\. Ein auf das bewegliche Vermögen gerichteter Exekutionsantrag ist nur zu bewilligen, wenn Abs\. 3 erfüllt ist oder soweit eine Unterhaltsexekution nach § 291b Abs\. 1 auf den Unterschiedsbetrag nach § 291b Abs\. 3 gerichtet ist\.
 
 > `(3)` Das Exekutionsverfahren ist auf Antrag des betreibenden Gläubigers fortzusetzen, wenn
-> 
+>
 >> `1.` er bescheinigt, dass die Zahlungsunfähigkeit nicht mehr vorliegt, oder
-> 
+>
 >> `2.` das Insolvenzgericht einen Antrag auf Eröffnung eines Insolvenzverfahrens mangels Zahlungsunfähigkeit oder mangels kostendeckenden Vermögens abgewiesen hat, oder
-> 
+>
 >> `3.` ein über das Vermögen der verpflichteten Partei eröffnetes Insolvenzverfahren aufgehoben wurde oder
-> 
+>
 >> `4.` nicht binnen drei Monaten über einen Antrag des betreibenden Gläubigers auf Eröffnung des Insolvenzverfahrens über das Vermögen der verpflichteten Partei entschieden wurde\.
 
 > `(4)` In einem fortgesetzten Verfahren sind Abs\. 1 und 2 erst bei Vollzügen anzuwenden, die nach mehr als drei Jahre nach Bekanntmachung der offenkundigen Zahlungsunfähigkeit stattfinden\.
 
 > `(5)` Das bei einem zur Ermittlung von Vermögen stattfindenden Vollzug nach Abs\. 1 begründete Pfandrecht erlischt,
-> 
+>
 >> `1.` wenn das Verfahren nicht innerhalb von sechs Monaten nach rechtskräftiger Feststellung der offenkundigen Zahlungsunfähigkeit fortgesetzt wird und
-> 
+>
 >> `2.` bei Eröffnung eines Insolvenzverfahrens über das Vermögen der verpflichteten Partei\.
 
 ## Fünfter Titel
@@ -1354,15 +1354,15 @@ Das Vollstreckungsorgan darf mit der Vollziehung der ihm aufgetragenen Exekution
 
 ### § 50 EO — Ausschluss der Laienbeteiligung
 
-Die gesetzlichen Bestimmungen über die Beiziehung eines fachkundigen Laienrichters finden auf die Ausübung der Gerichtsbarkeit im Exekutionsverfahren keine Anwendung\.
+> Die gesetzlichen Bestimmungen über die Beiziehung eines fachkundigen Laienrichters finden auf die Ausübung der Gerichtsbarkeit im Exekutionsverfahren keine Anwendung\.
 
 ### § 51 EO — Ausschließliche Gerichtsstände
 
-Die im gegenwärtigen Gesetz angeordneten Gerichtsstände sind ausschließliche\. Vereinbarungen der Parteien über die Zuständigkeit der Gerichte im Exekutionsverfahren sind wirkungslos\.
+> Die im gegenwärtigen Gesetz angeordneten Gerichtsstände sind ausschließliche\. Vereinbarungen der Parteien über die Zuständigkeit der Gerichte im Exekutionsverfahren sind wirkungslos\.
 
 ### § 52 EO — Vertretung
 
-Im Exekutionsverfahren können die Parteien und sonstigen Beteiligten sowohl in Person, als durch Bevollmächtigte handeln\. Die Vertretung durch Rechtsanwälte ist im Exekutionsverfahren weder vor den Bezirksgerichten noch vor den Gerichtshöfen erster Instanz geboten\.
+> Im Exekutionsverfahren können die Parteien und sonstigen Beteiligten sowohl in Person, als durch Bevollmächtigte handeln\. Die Vertretung durch Rechtsanwälte ist im Exekutionsverfahren weder vor den Bezirksgerichten noch vor den Gerichtshöfen erster Instanz geboten\.
 
 ### § 53 EO — Anträge
 
@@ -1377,19 +1377,19 @@ Im Exekutionsverfahren können die Parteien und sonstigen Beteiligten sowohl in 
 > `(1)` Die Bewilligung der Exekution erfolgt auf Antrag des betreibenden Gläubigers\. Über den Antrag auf Bewilligung der Exekution ist, sofern nichts anderes angeordnet ist, ohne vorhergehende mündliche Verhandlung und ohne Einvernehmung des Gegners Beschluss zu fassen\.
 
 > `(2)` Der Antrag auf Exekutionsbewilligung muss neben den sonst vorgeschriebenen besonderen Angaben und Belegen enthalten:
-> 
+>
 >> `1.` die genaue Bezeichnung des Antragstellers und desjenigen, wider welchen die Exekution geführt werden soll, nach § 75 ZPO sowie die Angabe aller für die Ermittlung des Exekutionsgerichts wesentlichen Umstände;
-> 
+>
 >> `2.` die bestimmte Angabe des Anspruches, wegen dessen die Exekution stattfinden soll, und des dafür vorhandenen Exekutionstitels\. Bei Geldforderungen sind auch
->> 
+>>
 >>> `a)` der Betrag, der im Exekutionsweg hereingebracht werden soll,
->> 
+>>
 >>> `b)` die beanspruchten Nebengebühren,
->> 
+>>
 >>> `c)` bei variablen Zinsen ein prozentmäßiger Zinssatz, soweit er feststeht, und
->> 
+>>
 >>> `d)` der Anspruch, der sich auf Grund einer Wertsicherungsklausel ergibt, anzugeben;
-> 
+>
 >> `3.` die Bezeichnung der anzuwendenden Exekutionsmittel und bei Exekution auf das Vermögen, die Bezeichnung der Vermögenstheile, auf welche Exekution geführt werden soll, sowie des Ortes, wo sich dieselben befinden, und endlich alle jene Angaben, welche nach Beschaffenheit des Falles für die vom bewilligenden Gericht oder vom Exekutionsgericht im Interesse der Exekutionsführung zu erlassenden Verfügungen von Wichtigkeit sind\. Dieser Angaben bedarf es nicht, wenn der betreibende Gläubiger zur Hereinbringung einer Geldforderung Exekution auf die beweglichen Sachen, auf die Forderungen oder auf die Vermögensrechte des Verpflichteten, für deren Durchführung ein Verwalter zu bestellen ist, oder die Durchführung eines Exekutionspakets beantragt\.
 
 > `(3)` Dem Exekutionsantrag ist eine Ausfertigung des Exekutionstitels samt Bestätigung der Vollstreckbarkeit anzuschließen, bei einem rechtskräftig für vollstreckbar erklärten ausländischen Exekutionstitel auch die Vollstreckbarerklärung samt Bestätigung der Rechtskraft dieser Entscheidung\. Eine Bestätigung der Vollstreckbarkeit ist bei Beschlüssen, mit denen die Exekutionskosten bestimmt werden, bei Vergleichen und bei vollstreckbaren Notariatsakten nicht erforderlich\. Hat der betreibende Gläubiger den Exekutionstitel selbst ausgestellt, so genügt es, den Inhalt des Exekutionstitels in den Exekutionsantrag aufzunehmen\.
@@ -1405,23 +1405,23 @@ Im Exekutionsverfahren können die Parteien und sonstigen Beteiligten sowohl in 
 ### § 54b EO — Vereinfachtes Bewilligungsverfahren
 
 > `(1)` Das Gericht hat über einen Exekutionsantrag im vereinfachten Bewilligungsverfahren zu entscheiden, wenn
-> 
+>
 >> `1.` der betreibende Gläubiger Exekution wegen Geldforderungen auf das bewegliche Vermögen beantragt,
-> 
+>
 >> `2.` die hereinzubringende Forderung an Kapital 50\.000 Euro nicht übersteigt; Prozesskosten oder Nebengebühren sind nur dann zu berücksichtigen, wenn sie allein Gegenstand des durchzusetzenden Anspruchs sind; bei einer Exekution wegen Forderungen auf wiederkehrende Leistungen sind nur die bereits fälligen Ansprüche maßgebend,
-> 
+>
 >> `3.` die Vorlage anderer Urkunden als des Exekutionstitels nicht vorgeschrieben ist,
-> 
+>
 >> `4.` sich der betreibende Gläubiger auf einen inländischen, einen diesem gleichgestellten \(§ 2\) oder einen rechtskräftig für vollstreckbar erklärten ausländischen Exekutionstitel stützt und
-> 
+>
 >> `5.` der betreibende Gläubiger nicht bescheinigt hat, dass ein vorhandenes Exekutionsobjekt durch Zustellung der Exekutionsbewilligung vor Vornahme der Pfändung der Exekution entzogen würde\.
 
 > `(2)` Im vereinfachten Bewilligungsverfahren gilt folgendes:
-> 
+>
 >> `1.` Der Exekutionsantrag hat die Angaben nach § 7 Abs\. 1 zu enthalten; es ist auch der Tag zu nennen, an dem die Bestätigung der Vollstreckbarkeit erteilt wurde\.
-> 
+>
 >> `2.` Der betreibende Gläubiger braucht dem Exekutionsantrag keine Ausfertigung des Exekutionstitels anzuschließen\.
-> 
+>
 >> `3.` Das Gericht hat nur auf Grund der Angaben im Exekutionsantrag zu entscheiden\. Bestehen auf Grund der Angaben im Exekutionsantrag oder gerichtsbekannter Tatsachen Bedenken, ob ein die Exekution deckender Exekutionstitel samt Bestätigung der Vollstreckbarkeit besteht, so hat das Gericht den betreibenden Gläubiger vor der Entscheidung aufzufordern, binnen fünf Tagen eine Ausfertigung des Exekutionstitels samt Bestätigung der Vollstreckbarkeit vorzulegen\.
 
 ### § 54c EO — Einspruch
@@ -1441,16 +1441,16 @@ Im Exekutionsverfahren können die Parteien und sonstigen Beteiligten sowohl in 
 ### § 54e EO — Einstellung der Exekution
 
 > `(1)` Das Exekutionsverfahren ist unter gleichzeitiger Aufhebung aller bis dahin vollzogenen Exekutionsakte auch dann einzustellen, wenn
-> 
+>
 >> `1.` der betreibende Gläubiger dem Vorlageauftrag nach § 54d Abs\. 1 nicht rechtzeitig nachkommt oder
-> 
+>
 >> `2.` der Exekutionstitel nicht mit sämtlichen im Exekutionsantrag enthaltenen Angaben darüber, insbesondere auch mit jenen über Zinsen, beanspruchte Nebengebühren oder Kosten, übereinstimmt\.
 
 > `(2)` Tritt der Einstellungsgrund nur hinsichtlich eines Teils der Exekution ein, so ist diese verhältnismäßig einzuschränken\.
 
 ### § 54f EO — Ausdehnung der Exekutionsbewilligung
 
-Auf Antrag des betreibenden Gläubigers ist während eines anhängigen Exekutionsverfahrens zur Hereinbringung einer Geldforderung die Exekution auf weitere Exekutionsmittel auf bewegliches Vermögen auszudehnen\. Soweit die Exekution schon bewilligt wurde, ist der Antrag als Antrag auf neuerlichen Vollzug zu verstehen\.
+> Auf Antrag des betreibenden Gläubigers ist während eines anhängigen Exekutionsverfahrens zur Hereinbringung einer Geldforderung die Exekution auf weitere Exekutionsmittel auf bewegliches Vermögen auszudehnen\. Soweit die Exekution schon bewilligt wurde, ist der Antrag als Antrag auf neuerlichen Vollzug zu verstehen\.
 
 ### § 55 EO — Rechtliches Gehör
 
@@ -1462,7 +1462,7 @@ Auf Antrag des betreibenden Gläubigers ist während eines anhängigen Exekution
 
 ### § 55a EO — Berücksichtigung des Grundbuchsstands
 
-Ist für eine Entscheidung des Gerichts die Kenntnis des Grundbuchsstands von Bedeutung, so hat es diesen von Amts wegen zu erheben\. Bei unverbücherten Liegenschaften und Superädifikaten ist in die Liegenschafts\- und Bauwerkskartei Einsicht zu nehmen\.
+> Ist für eine Entscheidung des Gerichts die Kenntnis des Grundbuchsstands von Bedeutung, so hat es diesen von Amts wegen zu erheben\. Bei unverbücherten Liegenschaften und Superädifikaten ist in die Liegenschafts\- und Bauwerkskartei Einsicht zu nehmen\.
 
 ### § 56 EO — Säumnis
 
@@ -1498,7 +1498,7 @@ Ist für eine Entscheidung des Gerichts die Kenntnis des Grundbuchsstands von Be
 
 ### § 59a EO — Virtuelle Durchführung
 
-Das Gericht kann mündliche Verhandlungen, Tagsatzungen und Einvernehmungen mit Ausnahme des Versteigerungstermins unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort\- und Bildübertragung durchführen, sofern die persönliche Anwesenheit der Parteien oder der zu vernehmenden Person für die Durchführung des Verfahrens und die Entscheidungsfindung nicht erforderlich ist, diese Vorgangsweise unter dem Gesichtspunkt der Verfahrensökonomie tunlich ist und die technischen Voraussetzungen vorhanden sind, um die Durchführung verfahrenskonform sicherzustellen\. Die Parteien können eine solche Vorgangsweise bei Gericht lediglich anregen\. Die Parteien und sonstige geladene Personen sind berechtigt, persönlich am Gericht anwesend zu sein, wenn sie dies mindestens drei Tage vor der mündlichen Verhandlung, Tagsatzung oder Einvernehmung schriftlich bekanntgeben
+> Das Gericht kann mündliche Verhandlungen, Tagsatzungen und Einvernehmungen mit Ausnahme des Versteigerungstermins unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort\- und Bildübertragung durchführen, sofern die persönliche Anwesenheit der Parteien oder der zu vernehmenden Person für die Durchführung des Verfahrens und die Entscheidungsfindung nicht erforderlich ist, diese Vorgangsweise unter dem Gesichtspunkt der Verfahrensökonomie tunlich ist und die technischen Voraussetzungen vorhanden sind, um die Durchführung verfahrenskonform sicherzustellen\. Die Parteien können eine solche Vorgangsweise bei Gericht lediglich anregen\. Die Parteien und sonstige geladene Personen sind berechtigt, persönlich am Gericht anwesend zu sein, wenn sie dies mindestens drei Tage vor der mündlichen Verhandlung, Tagsatzung oder Einvernehmung schriftlich bekanntgeben
 
 ### § 60 EO — Protokoll über Exekutionshandlungen
 
@@ -1510,15 +1510,15 @@ Das Gericht kann mündliche Verhandlungen, Tagsatzungen und Einvernehmungen mit 
 
 ### § 61 EO — Weisungen an Vollstreckungsorgane
 
-Wenn eine Exekutionshandlung vom Vollstreckungsorgan nicht gesetzgemäß oder auftraggemäß ausgeführt wurde, hat das Gericht von amtswegen dem Vollstreckungsorgan die Weisungen zu erteilen, welche zur Behebung der unterlaufenen Fehler oder sonst zum richtigen Vollzug der Exekutionshandlung nötig sind\.
+> Wenn eine Exekutionshandlung vom Vollstreckungsorgan nicht gesetzgemäß oder auftraggemäß ausgeführt wurde, hat das Gericht von amtswegen dem Vollstreckungsorgan die Weisungen zu erteilen, welche zur Behebung der unterlaufenen Fehler oder sonst zum richtigen Vollzug der Exekutionshandlung nötig sind\.
 
 ### § 62 EO — Beschlüsse
 
-Sofern nicht ein durch Klage eingeleiteter Streit zu entscheiden ist oder das Gesetz etwas anderes anordnet, erfolgen die gerichtlichen Entscheidungen im Exekutionsverfahren und alle in diesem Verfahren vorkommenden gerichtlichen Verfügungen durch Beschluss\.
+> Sofern nicht ein durch Klage eingeleiteter Streit zu entscheiden ist oder das Gesetz etwas anderes anordnet, erfolgen die gerichtlichen Entscheidungen im Exekutionsverfahren und alle in diesem Verfahren vorkommenden gerichtlichen Verfügungen durch Beschluss\.
 
 ### § 63 EO — Bewilligung der Exekution
 
-Der Beschluss, durch welchen die Exekution bewilligt wird, hat insbesondere zu enthalten:
+> Der Beschluss, durch welchen die Exekution bewilligt wird, hat insbesondere zu enthalten:
 
 > `1.` Namen, Wohnort und Beschäftigung des betreibenden Gläubigers und des Verpflichteten;
 
@@ -1540,7 +1540,7 @@ Der Beschluss, durch welchen die Exekution bewilligt wird, hat insbesondere zu e
 
 ### § 63b EO — Mutwillensstrafe
 
-Wurde die Exekutionsbewilligung mutwillig erwirkt, so ist dem betreibenden Gläubiger überdies eine vom Gericht mit Rücksicht auf die besonderen Umstände des Einzelfalls, insbesondere auf die Höhe des zu Unrecht in Exekution gezogenen Betrags, zu bemessende Mutwillensstrafe von mindestens 100 Euro aufzuerlegen\.
+> Wurde die Exekutionsbewilligung mutwillig erwirkt, so ist dem betreibenden Gläubiger überdies eine vom Gericht mit Rücksicht auf die besonderen Umstände des Einzelfalls, insbesondere auf die Höhe des zu Unrecht in Exekution gezogenen Betrags, zu bemessende Mutwillensstrafe von mindestens 100 Euro aufzuerlegen\.
 
 ### § 64 EO — Verkündung und Ausfertigung von Beschlüssen
 
@@ -1557,11 +1557,11 @@ Wurde die Exekutionsbewilligung mutwillig erwirkt, so ist dem betreibenden Gläu
 > `(2)` § 517 ZPO gilt nicht für die Exekution auf das unbewegliche Vermögen, für Beschlüsse, mit denen über die Bewilligung, Einstellung, Aufschiebung oder Fortsetzung der Exekution, eine Geldstrafe oder eine Haft entschieden wird, sowie für die im § 402 aufgezählten Beschlüsse\.
 
 > `(3)` § 521a ZPO ist nur anzuwenden, wenn
-> 
+>
 >> `1.` es sich um Entscheidungen über die Kosten des Exekutionsverfahrens handelt oder
-> 
+>
 >> `2.` es sich um Entscheidungen über den Antrag auf Einstellung, Einschränkung oder Aufschiebung der Exekution handelt oder
-> 
+>
 >> `3.` dies sonst in diesem Gesetz angeordnet ist\.
 
 > `(4)` Schreitet der Kinder\- und Jugendhilfeträger als Partei oder Parteienvertreter ein, so besteht für ihn keine Vertretungspflicht\. Er ist anwaltlich vertretenen Parteien gleichzuhalten\.
@@ -1569,15 +1569,15 @@ Wurde die Exekutionsbewilligung mutwillig erwirkt, so ist dem betreibenden Gläu
 ### § 66 EO — Rekursbeschränkungen
 
 > `(1)` Gegen Beschlüsse, durch die
-> 
+>
 >> `1.` Tagsatzungen anberaumt oder erstreckt werden oder
-> 
+>
 >> `2.` eine Einvernehmung der Parteien oder der sonst am Exekutionsverfahren beteiligten Personen angeordnet wird oder
-> 
+>
 >> `3.` der Auftrag zur Vorlage des Exekutionstitels nach § 54b Abs\. 2 oder § 54d Abs\. 1 erteilt wird, sowie
-> 
+>
 >> `4.` gegen die zur Durchführung einzelner Exekutionsakte an die Vollstreckungsorgane erlassenen Aufträge
-> 
+>
 > &nbsp; ist ein abgesondertes Rechtsmittel nicht gestattet\.
 
 > `(2)` Die Höhe einer aufgetragenen Sicherheitsleistung kann nur dann angefochten werden, wenn sie 2 700 Euro übersteigt\.
@@ -1596,13 +1596,13 @@ Wurde die Exekutionsbewilligung mutwillig erwirkt, so ist dem betreibenden Gläu
 
 ### § 68 EO — Vollzugsbeschwerde
 
-Wer sich durch einen Vorgang des Exekutionsvollzugs, insbesondere durch eine Amtshandlung des Vollstreckungsorgans oder des Verwalters oder durch die Verweigerung einer Exekutionshandlung, für beschwert erachtet, kann vom Exekutionsgericht Abhilfe verlangen\. Die Vollzugsbeschwerde ist innerhalb von 14 Tagen nach Kenntnis vom Exekutionsvollzug oder von der Verweigerung der Exekutionshandlung einzubringen\.
+> Wer sich durch einen Vorgang des Exekutionsvollzugs, insbesondere durch eine Amtshandlung des Vollstreckungsorgans oder des Verwalters oder durch die Verweigerung einer Exekutionshandlung, für beschwert erachtet, kann vom Exekutionsgericht Abhilfe verlangen\. Die Vollzugsbeschwerde ist innerhalb von 14 Tagen nach Kenntnis vom Exekutionsvollzug oder von der Verweigerung der Exekutionshandlung einzubringen\.
 
 ### § 69 EO
 
-Ersuchen an eine Behörde\.
-
-Das Exekutionsgericht hat mit der Erlassung der erforderlichen Ersuchschreiben von amtswegen vorzugehen, wenn sich im Laufe eines Exekutionsverfahrens die Notwendigkeit ergibt, behufs Vornahme einzelner, außerhalb des Sprengels des Exekutionsgerichts zu bewirkender Exekutionsmaßregeln oder überhaupt zur Erledigung eines anhängigen Exekutionsverfahrens die Mitwirkung eines anderen Gerichtes in Anspruch zu nehmen, oder wenn während eines Exekutionsverfahrens die Mitwirkung anderer Behörden notwendig wird\.
+> Ersuchen an eine Behörde\.
+>
+> Das Exekutionsgericht hat mit der Erlassung der erforderlichen Ersuchschreiben von amtswegen vorzugehen, wenn sich im Laufe eines Exekutionsverfahrens die Notwendigkeit ergibt, behufs Vornahme einzelner, außerhalb des Sprengels des Exekutionsgerichts zu bewirkender Exekutionsmaßregeln oder überhaupt zur Erledigung eines anhängigen Exekutionsverfahrens die Mitwirkung eines anderen Gerichtes in Anspruch zu nehmen, oder wenn während eines Exekutionsverfahrens die Mitwirkung anderer Behörden notwendig wird\.
 
 ### § 70 EO — Widerspruch
 
@@ -1625,11 +1625,11 @@ Das Exekutionsgericht hat mit der Erlassung der erforderlichen Ersuchschreiben v
 > `(2a)` Die Daten einer Zwangsverwaltung sind zu löschen, sobald dieses Verfahren und die beigetretenen Verfahren rechtskräftig eingestellt wurden\.
 
 > `(2b)` Die Daten der Eintragung der offenkundigen Zahlungsunfähigkeit sind auf Antrag und im Fall der Z 1 auch von Amts wegen zu löschen, wenn
-> 
+>
 >> `1.` seit der Aufnahme in die Ediktsdatei zwei Jahre vergangen sind, oder
-> 
+>
 >> `2.` die verpflichtete Partei bescheinigt, dass sämtliche Exekutionsverfahren eingestellt oder unter vollständiger Befriedigung der Gläubiger beendet worden sind, oder
-> 
+>
 >> `3.` ein Antrag eines Gläubigers auf Eröffnung eines Insolvenzverfahrens über das Vermögen der verpflichteten Partei nach Aufnahme in die Ediktsdatei mangels Zahlungsunfähigkeit abgewiesen worden ist\.
 
 > `(3)` Die übrigen Daten sind zu löschen, wenn seit der Aufnahme in die Ediktsdatei ein Monat vergangen ist\.
@@ -1642,7 +1642,7 @@ Das Exekutionsgericht hat mit der Erlassung der erforderlichen Ersuchschreiben v
 
 ### § 73 EO — Exekutionsakten
 
-Die Parteien und alle sonstigen Beteiligten können Einsicht in die das Exekutionsverfahren betreffenden Akten begehren und auf ihre Kosten von einzelnen Aktenstücken Abschriften verlangen\. Solche Einsicht\- und Abschriftnahme kann auch dritten Personen, insoweit sie ein rechtliches Interesse glaubhaft machen, gestattet werden\. Durch die Abschriftnahme dürfen jedoch die gerade dringend benötigten Aktenstücke dem Vollstreckungsorgan nicht entzogen werden\.
+> Die Parteien und alle sonstigen Beteiligten können Einsicht in die das Exekutionsverfahren betreffenden Akten begehren und auf ihre Kosten von einzelnen Aktenstücken Abschriften verlangen\. Solche Einsicht\- und Abschriftnahme kann auch dritten Personen, insoweit sie ein rechtliches Interesse glaubhaft machen, gestattet werden\. Durch die Abschriftnahme dürfen jedoch die gerade dringend benötigten Aktenstücke dem Vollstreckungsorgan nicht entzogen werden\.
 
 ### § 74 EO — Kosten der Exekution
 
@@ -1656,30 +1656,30 @@ Die Parteien und alle sonstigen Beteiligten können Einsicht in die das Exekutio
 
 ### § 74a EO — Barauslagen
 
-Der betreibende Gläubiger, der einen Antrag im elektronischen Rechtsverkehr einbringt, braucht Barauslagen, wenn sie den Betrag von 30 Euro nicht übersteigen, nur auf Aufforderung des Gerichts zu belegen\. Diese Aufforderung ist bei Bedenken gegen die Richtigkeit der verzeichneten Barauslagen oder auf Verlangen des Verpflichteten zu erlassen\. § 54b Abs\. 2 Z 3 und §§ 54c ff sind sinngemäß anzuwenden, wobei der Verpflichtete im Einspruch nur geltend machen kann, dass die vom betreibenden Gläubiger verzeichneten Barauslagen diesem nicht oder nicht in der geltend gemachten Höhe entstanden sind\.
+> Der betreibende Gläubiger, der einen Antrag im elektronischen Rechtsverkehr einbringt, braucht Barauslagen, wenn sie den Betrag von 30 Euro nicht übersteigen, nur auf Aufforderung des Gerichts zu belegen\. Diese Aufforderung ist bei Bedenken gegen die Richtigkeit der verzeichneten Barauslagen oder auf Verlangen des Verpflichteten zu erlassen\. § 54b Abs\. 2 Z 3 und §§ 54c ff sind sinngemäß anzuwenden, wobei der Verpflichtete im Einspruch nur geltend machen kann, dass die vom betreibenden Gläubiger verzeichneten Barauslagen diesem nicht oder nicht in der geltend gemachten Höhe entstanden sind\.
 
 ### § 75 EO — Aberkennung der Kosten
 
-Wenn ein Exekutionsverfahren aus einem der in den §§ 35, 36 und 39 Abs\. 1 Z 1, 9 und 10 sowie § 54e angeführten Gründe eingestellt wird oder dessen Einstellung aus anderen, dem betreibenden Gläubiger bei Stellung des Antrages auf Exekutionsbewilligung oder bei Beginn des Exekutionsvollzugs schon bekannten Gründen erfolgen musste, so hat der betreibende Gläubiger auf Ersatz der gesamten bis zur Einstellung aufgelaufenen Exekutionskosten keinen Anspruch\. Dies gilt nicht, wenn die Exekution eingestellt wird, weil dem Verpflichteten im Titelverfahren die Wiedereinsetzung in den vorigen Stand bewilligt wurde\.
+> Wenn ein Exekutionsverfahren aus einem der in den §§ 35, 36 und 39 Abs\. 1 Z 1, 9 und 10 sowie § 54e angeführten Gründe eingestellt wird oder dessen Einstellung aus anderen, dem betreibenden Gläubiger bei Stellung des Antrages auf Exekutionsbewilligung oder bei Beginn des Exekutionsvollzugs schon bekannten Gründen erfolgen musste, so hat der betreibende Gläubiger auf Ersatz der gesamten bis zur Einstellung aufgelaufenen Exekutionskosten keinen Anspruch\. Dies gilt nicht, wenn die Exekution eingestellt wird, weil dem Verpflichteten im Titelverfahren die Wiedereinsetzung in den vorigen Stand bewilligt wurde\.
 
 ### § 76 EO — Bestimmung der Kosten
 
-Bei der voraussichtlich letzten gerichtlichen Bestimmung der Exekutionskosten sind auch die Auslagen von amtswegen zu berücksichtigen, die durch das Einheben der Exekutionskosten entstehen dürften\. Eine nachträgliche Bestimmung dieser Einhebungskosten findet nicht statt\.
+> Bei der voraussichtlich letzten gerichtlichen Bestimmung der Exekutionskosten sind auch die Auslagen von amtswegen zu berücksichtigen, die durch das Einheben der Exekutionskosten entstehen dürften\. Eine nachträgliche Bestimmung dieser Einhebungskosten findet nicht statt\.
 
 ### § 77 EO — Fruchtbringende Anlegung gerichtlich erlegter Barbeträge
 
-Wenn sich mit Rücksicht auf die Höhe der Beträge, die wahrscheinliche Dauer des Erlages oder aus anderen Gründen die fruchtbringende Anlage der im Laufe eines Exekutionsverfahrens zu Gericht erlegten Ertragsüberschüsse, Feilbietungserlöse, Kassareste oder anderen Bargeldbeträge empfiehlt, so hat das Gericht von amtswegen oder auf Antrag wegen deren fruchtbringender Anlage das Geeignete zu veranlassen\. Die näheren Bestimmungen über die Art der Anlage und das hiebei zu beobachtende Verfahren sind im Verordnungswege zu treffen\.
+> Wenn sich mit Rücksicht auf die Höhe der Beträge, die wahrscheinliche Dauer des Erlages oder aus anderen Gründen die fruchtbringende Anlage der im Laufe eines Exekutionsverfahrens zu Gericht erlegten Ertragsüberschüsse, Feilbietungserlöse, Kassareste oder anderen Bargeldbeträge empfiehlt, so hat das Gericht von amtswegen oder auf Antrag wegen deren fruchtbringender Anlage das Geeignete zu veranlassen\. Die näheren Bestimmungen über die Art der Anlage und das hiebei zu beobachtende Verfahren sind im Verordnungswege zu treffen\.
 
 ### § 78 EO — Anwendung der Zivilprozessordnung
 
 > `(1)` Soweit in diesem Bundesgesetz nichts anderes angeordnet ist, sind auf das Verfahren die Jurisdiktionsnorm, die Zivilprozessordnung und ihre Einführungsgesetze sinngemäß anzuwenden\.
 
 > `(2)` Nicht anzuwenden sind die Bestimmungen über
-> 
+>
 >> `1.` das Erfordernis einer Sicherheitsleistung,
-> 
+>
 >> `2.` das Ruhen des Verfahrens und
-> 
+>
 >> `3.` die Hemmung von Fristen und die Erstreckung von Tagsatzungen nach § 222 ZPO\.
 
 ## Sechster Titel
@@ -1709,11 +1709,11 @@ Wenn sich mit Rücksicht auf die Höhe der Beträge, die wahrscheinliche Dauer d
 > `(1)` Das Exekutionsgericht hat eine für den jeweiligen Einzelfall geeignete Person auszuwählen\. Dabei hat das Gericht insbesondere das Vorhandensein einer hinreichenden Kanzleiorganisation und einer zeitgemäßen technischen Ausstattung sowie die Belastung mit anhängigen Exekutionsverfahren zu berücksichtigen\.
 
 > `(2)` Bei der Auswahl hat das Gericht weiters zu berücksichtigen:
-> 
+>
 >> `1.` allfällige besondere Kenntnisse,
-> 
+>
 >> `2.` die bisherige Tätigkeit der in Aussicht genommenen Person als Verwalter und
-> 
+>
 >> `3.` deren Berufserfahrung\.
 
 > `(3)` Erfüllt keine der in die Verwalterliste in Exekutionssachen aufgenommenen Personen diese Anforderungen oder ist keine bereit, die Verwaltung zu übernehmen, oder ist eine besser geeignete, zur Übernahme bereite Person nicht in die Liste eingetragen, so kann das Exekutionsgericht eine nicht in die Verwalterliste eingetragene Person auswählen\.
@@ -1725,11 +1725,11 @@ Wenn sich mit Rücksicht auf die Höhe der Beträge, die wahrscheinliche Dauer d
 > `(1)` Der Verwalter muss vom Verpflichteten und von den betreibenden Gläubigern unabhängig sein\. Er darf kein naher Angehöriger \(§ 32 IO\) und kein Konkurrent des Verpflichteten sein\.
 
 > `(2)` Der Verwalter hat Umstände, die geeignet sind, seine Unabhängigkeit in Zweifel zu ziehen, unverzüglich dem Gericht anzuzeigen\. Er hat dem Exekutionsgericht jedenfalls bekanntzugeben, dass er
-> 
+>
 >> `1.` den Verpflichteten, dessen nahe Angehörige \(§ 32 IO\) oder dessen organschaftliche Vertreter vertritt oder berät oder dies innerhalb von fünf Jahren vor der Verwaltung getan hat,
-> 
+>
 >> `2.` einen Gläubiger des Verpflichteten vertritt oder berät oder einen betreibenden Gläubiger gegen den Verpflichteten innerhalb von drei Jahren vor der Verwaltung vertreten oder beraten hat oder
-> 
+>
 >> `3.` einen unmittelbaren Konkurrenten des Verpflichteten, am Verfahren Beteiligten oder vom Verfahren wesentlich Betroffenen vertritt oder berät\.
 
 > `(3)` Ist der Verwalter eine juristische Person oder eine eingetragene Personengesellschaft, so hat diese das Vorliegen einer Vertretung oder Beratung nach Abs\. 2 Z 1 bis 3 auch hinsichtlich der Gesellschafter, der zur Vertretung nach außen berufenen Personen sowie der maßgeblich an dieser juristischen Person oder eingetragenen Personengesellschaft beteiligten Personen dem Exekutionsgericht bekanntzugeben\.
@@ -1798,11 +1798,11 @@ Wenn sich mit Rücksicht auf die Höhe der Beträge, die wahrscheinliche Dauer d
 
 ### § 82a EO — Erhöhung der Entlohnung
 
-Die Regelentlohnung nach § 82 erhöht sich, soweit dies unter Berücksichtigung außergewöhnlicher Umstände geboten ist, und zwar insbesondere im Hinblick auf die Größe und Schwierigkeit des Verfahrens oder den für den Gläubiger erzielten besonderen Erfolg\.
+> Die Regelentlohnung nach § 82 erhöht sich, soweit dies unter Berücksichtigung außergewöhnlicher Umstände geboten ist, und zwar insbesondere im Hinblick auf die Größe und Schwierigkeit des Verfahrens oder den für den Gläubiger erzielten besonderen Erfolg\.
 
 ### § 82b EO — Verminderung der Entlohnung
 
-Die Regelentlohnung nach § 82 vermindert sich, soweit dies unter Berücksichtigung außergewöhnlicher Umstände geboten ist, und zwar insbesondere im Hinblick auf die Einfachheit und Kürze des Verfahrens\.
+> Die Regelentlohnung nach § 82 vermindert sich, soweit dies unter Berücksichtigung außergewöhnlicher Umstände geboten ist, und zwar insbesondere im Hinblick auf die Einfachheit und Kürze des Verfahrens\.
 
 ### § 82c EO — Geltendmachung der Entlohnung
 
@@ -1818,7 +1818,7 @@ Die Regelentlohnung nach § 82 vermindert sich, soweit dies unter Berücksichti
 
 ### § 83a EO — Äußerung zur Rechnungslegung
 
-Das Exekutionsgericht hat dem Verpflichteten und dem betreibenden Gläubiger unter Setzung einer bestimmten Frist Gelegenheit zu geben, sich zu der vom Verwalter gelegten Rechnung zu äußern\. Über Einwendungen kann eine Tagsatzung anberaumt werden\. Von den Personen, die keine Einwendungen erhoben haben, wird angenommen, dass sie die gelegte Rechnung als richtig anerkennen\. Diese Rechtsfolge ist in der Aufforderung zur Äußerung bekanntzugeben\.
+> Das Exekutionsgericht hat dem Verpflichteten und dem betreibenden Gläubiger unter Setzung einer bestimmten Frist Gelegenheit zu geben, sich zu der vom Verwalter gelegten Rechnung zu äußern\. Über Einwendungen kann eine Tagsatzung anberaumt werden\. Von den Personen, die keine Einwendungen erhoben haben, wird angenommen, dass sie die gelegte Rechnung als richtig anerkennen\. Diese Rechtsfolge ist in der Aufforderung zur Äußerung bekanntzugeben\.
 
 ### § 83b EO — Entscheidung über die Rechnung
 
@@ -1846,7 +1846,7 @@ Das Exekutionsgericht hat dem Verpflichteten und dem betreibenden Gläubiger unt
 
 ### § 84a EO — Verwertung
 
-Soweit dieses Gesetz nichts anderes bestimmt, sind
+> Soweit dieses Gesetz nichts anderes bestimmt, sind
 
 > `1.` auf die Zwangsverwaltung von beweglichem Vermögen die Bestimmungen über die Zwangsverwaltung von Liegenschaften,
 
@@ -1854,7 +1854,7 @@ Soweit dieses Gesetz nichts anderes bestimmt, sind
 
 > `3.` auf die Überweisung zur Einziehung die Bestimmungen über die Exekution auf Geldforderungen
 
-&nbsp; anzuwenden\.
+> &nbsp; anzuwenden\.
 
 ### § 85 EO — Versteigerung
 
@@ -1892,11 +1892,11 @@ Soweit dieses Gesetz nichts anderes bestimmt, sind
 
 ### § 87a EO — Verteilungsentwurf
 
-Der Verwalter hat einen Verteilungsentwurf zu erstellen und den Verteilungsbeschluss des Exekutionsgerichts auszuführen\. Er hat den Vollzug der Verteilung dem Gericht nachzuweisen\.
+> Der Verwalter hat einen Verteilungsentwurf zu erstellen und den Verteilungsbeschluss des Exekutionsgerichts auszuführen\. Er hat den Vollzug der Verteilung dem Gericht nachzuweisen\.
 
 ### § 87b EO — Verträge mit Dritten
 
-Mit Erteilung des Zuschlags tritt der Ersteher in solche Verträge mit Dritten ein, von deren Bestand die Funktion und der Wert des Vermögensobjekts maßgeblich abhängt\. Das Exekutionsgericht hat auf Antrag den Eintritt des Erstehers nach Einvernehmung des Dritten festzustellen\. Der Vertragsübergang berechtigt den Dritten nicht zur Kündigung, sofern ihm die Fortsetzung des Vertrags mit dem Ersteher zumutbar ist; unberührt bleiben sonstige vereinbarte oder gesetzliche Gründe für eine Vertragsbeendigung\.
+> Mit Erteilung des Zuschlags tritt der Ersteher in solche Verträge mit Dritten ein, von deren Bestand die Funktion und der Wert des Vermögensobjekts maßgeblich abhängt\. Das Exekutionsgericht hat auf Antrag den Eintritt des Erstehers nach Einvernehmung des Dritten festzustellen\. Der Vertragsübergang berechtigt den Dritten nicht zur Kündigung, sofern ihm die Fortsetzung des Vertrags mit dem Ersteher zumutbar ist; unberührt bleiben sonstige vereinbarte oder gesetzliche Gründe für eine Vertragsbeendigung\.
 
 ## Zweiter Abschnitt
 
@@ -1912,7 +1912,7 @@ Mit Erteilung des Zuschlags tritt der Ersteher in solche Verträge mit Dritten e
 
 ### § 88 EO — Bewilligung und Vollzug
 
-Zu Gunsten einer vollstreckbaren Geldforderung kann auf Antrag des betreibenden Gläubigers ein Pfandrecht an einer Liegenschaft des Verpflichteten oder an einem diesem gehörenden Liegenschaftsanteil, einem Superädifikat oder einem Baurecht begründet werden\.
+> Zu Gunsten einer vollstreckbaren Geldforderung kann auf Antrag des betreibenden Gläubigers ein Pfandrecht an einer Liegenschaft des Verpflichteten oder an einem diesem gehörenden Liegenschaftsanteil, einem Superädifikat oder einem Baurecht begründet werden\.
 
 ### § 89 EO — Pfändung von Liegenschaften
 
@@ -1924,7 +1924,7 @@ Zu Gunsten einer vollstreckbaren Geldforderung kann auf Antrag des betreibenden 
 
 ### § 90 EO — Anmerkung der Vollstreckbarkeit
 
-Ist eine Forderung vollstreckbar geworden, für die schon auf Grund einer dem Eintritt der Vollstreckbarkeit vorausgehenden Bestellung ein Pfandrecht einverleibt war, so ist auf Antrag des betreibenden Gläubigers die bücherliche Anmerkung der Vollstreckbarkeit zu bewilligen\.
+> Ist eine Forderung vollstreckbar geworden, für die schon auf Grund einer dem Eintritt der Vollstreckbarkeit vorausgehenden Bestellung ein Pfandrecht einverleibt war, so ist auf Antrag des betreibenden Gläubigers die bücherliche Anmerkung der Vollstreckbarkeit zu bewilligen\.
 
 ### § 91 EO — Pfändung von Superädifikaten
 
@@ -1934,7 +1934,7 @@ Ist eine Forderung vollstreckbar geworden, für die schon auf Grund einer dem Ei
 
 ### § 92 EO — Voraussetzungen der Pfändung
 
-Die Pfändung ist nur dann vorzunehmen, wenn und soweit das Superädifikat im Besitz oder Mitbesitz des Verpflichteten steht\. Wenn dieser Besitz weder dem Exekutionsgericht bekannt ist noch durch Urkunden glaubhaft gemacht wird, hat der Anordnung der Pfändung eine Einvernehmung des Verpflichteten über die Frage des Besitzes vorauszugehen\.
+> Die Pfändung ist nur dann vorzunehmen, wenn und soweit das Superädifikat im Besitz oder Mitbesitz des Verpflichteten steht\. Wenn dieser Besitz weder dem Exekutionsgericht bekannt ist noch durch Urkunden glaubhaft gemacht wird, hat der Anordnung der Pfändung eine Einvernehmung des Verpflichteten über die Frage des Besitzes vorauszugehen\.
 
 ### § 93 EO — Durchführung der pfandweisen Beschreibung
 
@@ -1948,7 +1948,7 @@ Die Pfändung ist nur dann vorzunehmen, wenn und soweit das Superädifikat im Be
 
 ### § 94 EO — Exekution zugunsten eines weiteren Gläubigers
 
-Eine später zu Gunsten anderer vollstreckbarer Forderungen bewilligte Pfändung desselben Superädifikats ist, solange die Richtigkeit und Vollständigkeit der ersten pfandweisen Beschreibung unbestritten ist, durch Anmerkung auf dem bereits errichteten Protokoll zu vollziehen\. In der Anmerkung ist der Gläubiger zu benennen, auf dessen Antrag die weitere Pfändung stattfindet, und es ist dessen vollstreckbare Forderung im Sinn des § 91 zu bezeichnen\.
+> Eine später zu Gunsten anderer vollstreckbarer Forderungen bewilligte Pfändung desselben Superädifikats ist, solange die Richtigkeit und Vollständigkeit der ersten pfandweisen Beschreibung unbestritten ist, durch Anmerkung auf dem bereits errichteten Protokoll zu vollziehen\. In der Anmerkung ist der Gläubiger zu benennen, auf dessen Antrag die weitere Pfändung stattfindet, und es ist dessen vollstreckbare Forderung im Sinn des § 91 zu bezeichnen\.
 
 ### § 95 EO — Einschränkung der Exekution
 
@@ -1960,7 +1960,7 @@ Eine später zu Gunsten anderer vollstreckbarer Forderungen bewilligte Pfändung
 
 ### § 96 EO — Liegenschaftsanteile und Baurechte
 
-Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die zwangsweise Pfandrechtsbegründung von Liegenschaften auch auf einzelne Liegenschaftsanteile und Baurechte anzuwenden\.
+> Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die zwangsweise Pfandrechtsbegründung von Liegenschaften auch auf einzelne Liegenschaftsanteile und Baurechte anzuwenden\.
 
 ## Zweite Abteilung
 
@@ -1990,7 +1990,7 @@ Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die zwang
 
 ### § 98a EO — Zustellungen
 
-Die Bewilligung der Exekution ist dem betreibenden Gläubiger und dem Verpflichteten zuzustellen\. Ab Zustellung dieses Beschlusses an den Verpflichteten sind Rechtshandlungen des Verpflichteten, die die in Exekution gezogene Liegenschaft sowie deren Zubehör betreffen und die nicht zur ordentlichen Verwaltung gehören, den Gläubigern gegenüber unwirksam\. Auf diese Rechtsfolge ist hinzuweisen\.
+> Die Bewilligung der Exekution ist dem betreibenden Gläubiger und dem Verpflichteten zuzustellen\. Ab Zustellung dieses Beschlusses an den Verpflichteten sind Rechtshandlungen des Verpflichteten, die die in Exekution gezogene Liegenschaft sowie deren Zubehör betreffen und die nicht zur ordentlichen Verwaltung gehören, den Gläubigern gegenüber unwirksam\. Auf diese Rechtsfolge ist hinzuweisen\.
 
 ### § 99 EO — Bestellung des Zwangsverwalters und Übernahme der Liegenschaft
 
@@ -2002,15 +2002,15 @@ Die Bewilligung der Exekution ist dem betreibenden Gläubiger und dem Verpflicht
 
 ### § 99a EO — Bekanntmachung der Enthebung und der Bestellung eines anderen Verwalters
 
-Die Enthebung und die Bestellung eines anderen Verwalters sind öffentlich bekanntzumachen\.
+> Die Enthebung und die Bestellung eines anderen Verwalters sind öffentlich bekanntzumachen\.
 
 ### § 99b EO — Aufschiebung der Zwangsverwaltung
 
-Die Zwangsverwaltung ist, vorbehaltlich der Anwendung des § 14, § 27 Abs\. 1 und § 41 Abs\. 2, aufzuschieben, wenn zur Hereinbringung derselben Forderung Exekution auf wiederkehrende Geldforderungen geführt wird und der pfändbare Betrag voraussichtlich ausreichen wird, die hereinzubringende Forderung samt Nebengebühren im Lauf eines Jahres zu tilgen\.
+> Die Zwangsverwaltung ist, vorbehaltlich der Anwendung des § 14, § 27 Abs\. 1 und § 41 Abs\. 2, aufzuschieben, wenn zur Hereinbringung derselben Forderung Exekution auf wiederkehrende Geldforderungen geführt wird und der pfändbare Betrag voraussichtlich ausreichen wird, die hereinzubringende Forderung samt Nebengebühren im Lauf eines Jahres zu tilgen\.
 
 ### § 99c EO — Folgen der Aufschiebung aufgrund einer Zahlungsvereinbarung
 
-Bei Aufschiebung der Zwangsverwaltung nach § 45a werden bereits vollzogene Exekutionsakte aufgehoben\. Der Pfandrang bleibt erhalten; die bücherliche Löschung der Anmerkung ist nicht zu veranlassen\. Im Übrigen ist § 130 sinngemäß anzuwenden; der Zwangsverwalter ist zu entheben\.
+> Bei Aufschiebung der Zwangsverwaltung nach § 45a werden bereits vollzogene Exekutionsakte aufgehoben\. Der Pfandrang bleibt erhalten; die bücherliche Löschung der Anmerkung ist nicht zu veranlassen\. Im Übrigen ist § 130 sinngemäß anzuwenden; der Zwangsverwalter ist zu entheben\.
 
 ### § 100 EO — Beitritt
 
@@ -2022,7 +2022,7 @@ Bei Aufschiebung der Zwangsverwaltung nach § 45a werden bereits vollzogene Exe
 
 ### § 101 EO — Undurchführbarkeit der Zwangsverwaltung
 
-Wird die Zwangsverwaltung nicht beim Vollzugsgericht beantragt und ist die Zwangsverwaltung nach dem Stand des Grundbuchs undurchführbar, so hat das zur Entscheidung über den Exekutionsantrag berufene Gericht – wenn das Hindernis beseitigt werden kann – dem betreibenden Gläubiger aufzutragen, innerhalb einer nach Ermessen zu bestimmenden Frist die Beseitigung des wahrgenommenen Hindernisses darzutun\. Nach fruchtlosem Ablauf dieser Frist ist der Exekutionsantrag abzuweisen\. Ergibt sich das Hindernis erst aus dem für das Vollzugsgericht maßgebendem Grundbuchsstand, so ist die Zwangsverwaltung, wenn das Hindernis beseitigt werden kann, nach fruchtlosem Ablauf der Frist, sonst sofort von Amts wegen einzustellen\.
+> Wird die Zwangsverwaltung nicht beim Vollzugsgericht beantragt und ist die Zwangsverwaltung nach dem Stand des Grundbuchs undurchführbar, so hat das zur Entscheidung über den Exekutionsantrag berufene Gericht – wenn das Hindernis beseitigt werden kann – dem betreibenden Gläubiger aufzutragen, innerhalb einer nach Ermessen zu bestimmenden Frist die Beseitigung des wahrgenommenen Hindernisses darzutun\. Nach fruchtlosem Ablauf dieser Frist ist der Exekutionsantrag abzuweisen\. Ergibt sich das Hindernis erst aus dem für das Vollzugsgericht maßgebendem Grundbuchsstand, so ist die Zwangsverwaltung, wenn das Hindernis beseitigt werden kann, nach fruchtlosem Ablauf der Frist, sonst sofort von Amts wegen einzustellen\.
 
 ### § 102 EO — Superädifikate
 
@@ -2059,7 +2059,7 @@ Wird die Zwangsverwaltung nicht beim Vollzugsgericht beantragt und ist die Zwang
 
 ### § 107 EO — Auswahl des Zwangsverwalters
 
-Bei der Auswahl des Zwangsverwalters hat das Gericht weiters allfällige besondere Kenntnisse, insbesondere der Betriebswirtschaft sowie des Steuer\- und Arbeitsrechts, zu berücksichtigen\.
+> Bei der Auswahl des Zwangsverwalters hat das Gericht weiters allfällige besondere Kenntnisse, insbesondere der Betriebswirtschaft sowie des Steuer\- und Arbeitsrechts, zu berücksichtigen\.
 
 ### § 109 EO — Geschäftskreis des Zwangsverwalters
 
@@ -2069,20 +2069,20 @@ Bei der Auswahl des Zwangsverwalters hat das Gericht weiters allfällige besonde
 
 ### § 110 EO — Aufforderung an dritte Personen
 
-Der Verwalter hat dritte Personen, denen Leistungen an den Verpflichteten obliegen, die sich als Einkünfte der verwalteten Liegenschaft darstellen, unter Anschluss einer Ausfertigung der Bestellungsurkunde aufzufordern, diese an den Verwalter zu entrichten\. Nach der Aufforderung des Verwalters, Zahlungen nur an ihn zu leisten, können diese nicht mehr gültig an den Verpflichteten leisten\. Hierauf ist in der Aufforderung hinzuweisen\. Bei früheren Zahlungen einer Schuld an den Verpflichteten wird der Dritte befreit, außer der Zwangsverwalter beweist, dass dem Dritten zur Zeit der Zahlung die Zwangsverwaltung bekannt war\.
+> Der Verwalter hat dritte Personen, denen Leistungen an den Verpflichteten obliegen, die sich als Einkünfte der verwalteten Liegenschaft darstellen, unter Anschluss einer Ausfertigung der Bestellungsurkunde aufzufordern, diese an den Verwalter zu entrichten\. Nach der Aufforderung des Verwalters, Zahlungen nur an ihn zu leisten, können diese nicht mehr gültig an den Verpflichteten leisten\. Hierauf ist in der Aufforderung hinzuweisen\. Bei früheren Zahlungen einer Schuld an den Verpflichteten wird der Dritte befreit, außer der Zwangsverwalter beweist, dass dem Dritten zur Zeit der Zahlung die Zwangsverwaltung bekannt war\.
 
 ### § 111 EO — Miet- und Pachtverträge
 
-Die Bewilligung der Zwangsverwaltung ist auf die bei Anmerkung der Zwangsverwaltung im Grundbuch bestehenden Miet\- und Pachtverträge ohne Einfluss\. Der Verwalter kann jedoch solche Verträge unter den sonst hiefür maßgebenden Bedingungen kündigen, Klage wegen Räumung erheben und neue Mietverträge für die ortsübliche Dauer abschließen\.
+> Die Bewilligung der Zwangsverwaltung ist auf die bei Anmerkung der Zwangsverwaltung im Grundbuch bestehenden Miet\- und Pachtverträge ohne Einfluss\. Der Verwalter kann jedoch solche Verträge unter den sonst hiefür maßgebenden Bedingungen kündigen, Klage wegen Räumung erheben und neue Mietverträge für die ortsübliche Dauer abschließen\.
 
 ### § 112 EO — Genehmigungspflichtige Rechtsgeschäfte
 
 > `(1)` Der Verwalter bedarf der Zustimmung des Exekutionsgerichts bei Verfügungen, die nicht zur ordentlichen Verwaltung gehören, insbesondere
-> 
+>
 >> `1.` zum Abschluss von Mietverträgen, die auf längere Zeit als die voraussichtliche Dauer der Zwangsverwaltung abgeschlossen werden,
-> 
+>
 >> `2.` zur Verpachtung der Liegenschaft oder einzelner Teile derselben und
-> 
+>
 >> `3.` zur Verpachtung einzelner oder der gesamten Erträgnisse der Liegenschaft durch öffentliche Versteigerung; die Versteigerung obliegt dem Vollstreckungsorgan nach §§ 277 ff\.
 
 > `(2)` Soweit dies rechtzeitig möglich ist, hat der Erteilung dieser Zustimmung die Einvernehmung des betreibenden Gläubigers und des Verpflichteten vorauszugehen\.
@@ -2098,41 +2098,41 @@ Die Bewilligung der Zwangsverwaltung ist auf die bei Anmerkung der Zwangsverwalt
 ### § 114 EO — Erhöhung oder Verminderung der Entlohnung des Zwangsverwalters
 
 > `(1)` Die Entlohnung erhöht sich, soweit dies unter Berücksichtigung außergewöhnlicher Umstände geboten ist, und zwar insbesondere im Hinblick auf
-> 
+>
 >> `1.` die Größe und Schwierigkeit des Verfahrens,
-> 
+>
 >> `2.` den mit der Bearbeitung der Arbeitsverhältnisse, komplexer Bestand\-, Werk\- und sonstiger Rechtsverhältnisse sowie mit der Fertigstellung von Bauvorhaben und der Vornahme von größeren Reparaturen verbundenen besonderen Aufwand,
-> 
+>
 >> `3.` den mit der Prüfung von Exszindierungsansprüchen und vorrangigen Pfandrechten verbundenen besonderen Aufwand oder
-> 
+>
 >> `4.` den für die betreibenden Gläubiger erzielten besonderen Erfolg\.
 
 > `(2)` Die Entlohnung verringert sich, soweit dies unter Berücksichtigung außergewöhnlicher Umstände geboten ist, und zwar insbesondere im Hinblick auf
-> 
+>
 >> `1.` die Einfachheit oder Kürze des Verfahrens
-> 
+>
 >> `2.` das Fehlen von Arbeitnehmern bei verwalteten Unternehmen
-> 
+>
 >> `3.` die Tatsache, dass der Zwangsverwalter auf bestehende Strukturen des zwangsverwalteten Unternehmens zurückgreifen konnte, oder
-> 
+>
 >> `4.` die Tatsache, dass der erzielte Erfolg nicht auf die Tätigkeit des Zwangsverwalters zurückzuführen war, sondern auf Leistungen des Verpflichteten oder Dritter\.
 
 ### § 115 EO — Rechnungslegung
 
-Das Gericht kann bestimmen, dass der Verwalter die Ertragsüberschüsse bei Gericht zu erlegen hat\. Dabei hat das Gericht die Perioden im Hinblick auf die hinsichtlich der Liegenschaftseinkünfte üblichen Fälligkeitstermine zu bestimmen\.
+> Das Gericht kann bestimmen, dass der Verwalter die Ertragsüberschüsse bei Gericht zu erlegen hat\. Dabei hat das Gericht die Perioden im Hinblick auf die hinsichtlich der Liegenschaftseinkünfte üblichen Fälligkeitstermine zu bestimmen\.
 
 ### § 119 EO — Verwaltungserträgnisse
 
 > `(1)` Die Erträgnisse der verwalteten Liegenschaft sind nach den folgenden Bestimmungen zur Berichtigung der Verwaltungsauslagen sowie zur Befriedigung des betreibenden Gläubigers und der sonst Berechtigten zu verwenden\.
 
 > `(2)` Zu diesen Erträgnissen gehören alle dem Verpflichteten gebührenden, der Exekution nicht entzogenen Nutzungen und Einkünfte der Liegenschaft, und zwar insbesondere
-> 
+>
 >> `1.` die nach Anmerkung der Zwangsverwaltung gewonnenen Früchte,
-> 
+>
 >> `2.` die zur Zeit der Anmerkung schon abgesonderten und auf der Liegenschaft befindlichen Früchte,
-> 
+>
 >> `3.` die in diesem Zeitpunkt schon fälligen, jedoch noch nicht gezahlten Einkünfte und
-> 
+>
 >> `4.` die erst nach Anmerkung der Zwangsverwaltung fällig werdenden Einkünfte\.
 
 > `(3)` Wenn Früchte oder Einkünfte schon vor Anmerkung der Zwangsverwaltung von Gläubigern des Verpflichteten gepfändet wurden, so gehört nur der nach Berichtigung der Pfandforderung samt Nebengebühren erübrigende Teil zu den Verwaltungserträgnissen\.
@@ -2144,15 +2144,15 @@ Das Gericht kann bestimmen, dass der Verwalter die Ertragsüberschüsse bei Geri
 > `(1)` Die mit der Verwaltung und gewöhnlichen wirtschaftlichen Benützung der Liegenschaft verbundenen Auslagen sind vom Verwalter ohne weiteres Verfahren aus den Erträgnissen zu berichtigen\.
 
 > `(2)` Zu diesen Auslagen gehören insbesondere:
-> 
+>
 >> `1.` die zur Zeit der Bewilligung der Zwangsverwaltung nicht länger als drei Jahre rückständigen, sowie die während der Zwangsverwaltung fällig werdenden, von der Liegenschaft zu entrichtenden Steuern samt Zuschlägen, die sonstigen von der Liegenschaft zu entrichtenden öffentlichen Abgaben, sowie die nicht länger als drei Jahre rückständigen Verzugszinsen dieser Steuern und Abgaben;
-> 
+>
 >> `2.` die dem Verpflichteten aus Versicherungsverträgen obliegenden Leistungen, sofern diese Verträge in Ansehung der verwalteten Liegenschaft, einzelner Teile derselben, des Zubehörs oder der in die Verwaltung einbezogenen Vorräte geschlossen sind;
-> 
+>
 >> `3.` die während der Zwangsverwaltung fällig werdenden und die aus dem letzten Jahre vor Bewilligung der Zwangsverwaltung rückständigen Beträge an Lohn und anderen Arbeitseinkommen der bei Bewirtschaftung eines zur Forst\- oder Landwirtschaft bestimmten Grundstückes oder zur Überwachung und Instandhaltung von Wohnhäusern verwendeten Personen; erstreckt sich die Zwangsverwaltung auf Unternehmen, die mit dem forst\- oder landwirtschaftlichen Betriebe verbunden sind, so sind auch die Arbeitseinkommen der in diesen Unternehmen verwendeten Personen im gleichen Umfange unmittelbar aus den Erträgnissen zu berichtigen;
-> 
+>
 >> `4.` die Kosten der Zwangsverwaltung, die Kosten der Erhaltung und notwendigen Verbesserung der Liegenschaft und die zur einstweiligen Bestreitung dieser Kosten geleisteten Vorschüsse;
-> 
+>
 >> `5.` die während der Zwangsverwaltung fällig werdenden und die aus dem letzten Jahre vor Bewilligung der Zwangsverwaltung rückständigen Zinsen, Renten, Unterhaltsgelder und sonstigen wiederkehrenden Leistungen, die aus unangefochtenen, auf der Liegenschaft sichergestellten Forderungen und Rechten gebühren, einschließlich der aus Ausgedingen gebührenden Leistungen, sowie die auf eine Kapitalstilgung berechneten Abschlagszahlungen, welche kraft einer bereits vor Bewilligung der Zwangsverwaltung getroffenen, unanfechtbaren Vereinbarung durch Annuitäten oder durch gleichmäßige, in Zeitabschnitten von höchstens einem Jahre fällige Raten zu bewirken sind\.
 
 > `(3)` Die unmittelbare Berichtigung der unter Abs\. 2 Z 5 angeführten Ausgaben ist nur insoweit zulässig, als die fraglichen Bezugsrechte unbestritten den Vorrang vor dem Befriedigungsrecht des betreibenden Gläubigers genießen\.
@@ -2165,7 +2165,7 @@ Das Gericht kann bestimmen, dass der Verwalter die Ertragsüberschüsse bei Geri
 
 ### § 122 EO — Verteilung der Ertragsüberschüsse
 
-Die Verteilung der nach Abzug der unmittelbar berichtigten Auslagen \(§ 120\) erübrigenden Erträgnisse \(Ertragsüberschüsse\) hat in der Regel nach Erledigung jeder einzelnen Verwaltungsrechnung stattzufinden\. Das Gericht kann jedoch solche Verteilungen beim Vorhandensein hinreichender Zahlungsmittel auf Antrag während des Laufes einer Rechnungsperiode nach einer Zwischenrechnung oder, wenn die Einleitung einer besonderen Verteilungsverhandlung wegen der Geringfügigkeit der jährlichen Ertragsüberschüsse dem Gericht unzweckmäßig erscheint und die Rechte der Gläubiger durch eine solche Aufschiebung nicht leiden, auf Antrag oder von Amts wegen erst nach Verstreichen mehrerer Rechnungsperioden vornehmen\.
+> Die Verteilung der nach Abzug der unmittelbar berichtigten Auslagen \(§ 120\) erübrigenden Erträgnisse \(Ertragsüberschüsse\) hat in der Regel nach Erledigung jeder einzelnen Verwaltungsrechnung stattzufinden\. Das Gericht kann jedoch solche Verteilungen beim Vorhandensein hinreichender Zahlungsmittel auf Antrag während des Laufes einer Rechnungsperiode nach einer Zwischenrechnung oder, wenn die Einleitung einer besonderen Verteilungsverhandlung wegen der Geringfügigkeit der jährlichen Ertragsüberschüsse dem Gericht unzweckmäßig erscheint und die Rechte der Gläubiger durch eine solche Aufschiebung nicht leiden, auf Antrag oder von Amts wegen erst nach Verstreichen mehrerer Rechnungsperioden vornehmen\.
 
 ### § 123 EO — Verteilungstagsatzung
 
@@ -2175,7 +2175,7 @@ Die Verteilung der nach Abzug der unmittelbar berichtigten Auslagen \(§ 120\) 
 
 ### § 124 EO — Rangordnung der zu berichtigenden Ansprüche
 
-Aus den zur Verteilung gelangenden Ertragsüberschüssen sind nach den in §§ 120 und 121 genannten Forderungen in der nachstehend angegebenen Reihenfolge zu berichtigen:
+> Aus den zur Verteilung gelangenden Ertragsüberschüssen sind nach den in §§ 120 und 121 genannten Forderungen in der nachstehend angegebenen Reihenfolge zu berichtigen:
 
 > `1.` die Ansprüche des Verwalters auf Entlohnung und Ersatz der Barauslagen, soweit sie nicht schon durch die gewährten Vorschüsse \(§ 113\) gedeckt sind;
 
@@ -2191,7 +2191,7 @@ Aus den zur Verteilung gelangenden Ertragsüberschüssen sind nach den in §§ 
 
 ### § 126 EO — Verteilung der verbleibenden Ertragsüberschüsse; Hyperocha
 
-Der gemäß §§ 124 und 125 nicht zur Verwendung gelangende Teil der Ertragsüberschüsse ist zur Berichtigung derjenigen im § 124 Z 3 bezeichneten, während der Zwangsverwaltung fällig werdenden oder aus dem letzten Jahre vor deren Bewilligung rückständigen Leistungen zu verwenden, die dem Befriedigungsrecht des betreibenden Gläubigers im Range nachstehen\. Ein nach Berichtigung aller dieser Ansprüche erübrigender Rest ist dem Verpflichteten zuzuweisen\.
+> Der gemäß §§ 124 und 125 nicht zur Verwendung gelangende Teil der Ertragsüberschüsse ist zur Berichtigung derjenigen im § 124 Z 3 bezeichneten, während der Zwangsverwaltung fällig werdenden oder aus dem letzten Jahre vor deren Bewilligung rückständigen Leistungen zu verwenden, die dem Befriedigungsrecht des betreibenden Gläubigers im Range nachstehen\. Ein nach Berichtigung aller dieser Ansprüche erübrigender Rest ist dem Verpflichteten zuzuweisen\.
 
 ### § 127 EO — Forderungsanmeldung
 
@@ -2227,18 +2227,18 @@ Der gemäß §§ 124 und 125 nicht zur Verwendung gelangende Teil der Ertragsü
 
 ### § 131 EO — Liegenschaftsanteile, Superädifikate und Baurechte
 
-Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die Zwangsverwaltung von Liegenschaften auch auf einzelne Liegenschaftsanteile, Superädifikate und Baurechte anzuwenden\.
+> Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die Zwangsverwaltung von Liegenschaften auch auf einzelne Liegenschaftsanteile, Superädifikate und Baurechte anzuwenden\.
 
 ### § 132 EO — Rekurs
 
-Gegen die in den §§ 99 und 100 bezeichneten Beschlüsse und gegen die Beschlüsse, durch welche:
+> Gegen die in den §§ 99 und 100 bezeichneten Beschlüsse und gegen die Beschlüsse, durch welche:
 
 > `1.` die bücherliche Anmerkung der Einleitung der Zwangsverwaltung angeordnet wird \(§ 98\) und
 
 > `2.` der Zeitpunkt der Verteilung der Ertragsüberschüsse bestimmt wird \(§ 122\)\.
 
-&nbsp; *\(Anm\.: Z 3 und 4 aufgehoben durch Art\. 1 Z 135, BGBl\. I Nr\. 86/2021\)*  
-&nbsp; findet ein Rekurs nicht statt\.
+> &nbsp; *\(Anm\.: Z 3 und 4 aufgehoben durch Art\. 1 Z 135, BGBl\. I Nr\. 86/2021\)*  
+> &nbsp; findet ein Rekurs nicht statt\.
 
 ## Dritte Abteilung
 
@@ -2252,15 +2252,15 @@ Gegen die in den §§ 99 und 100 bezeichneten Beschlüsse und gegen die Beschl�
 
 ### § 134 EO — Superädifikat
 
-Bei einem Superädifikat, für das bei Gericht keine Urkunde über den Erwerb des Eigentums durch Hinterlegung aufgenommen wurde, hat der Gläubiger das Eigentum oder den Besitz des Verpflichteten zu behaupten und durch Urkunden glaubhaft zu machen\. Fehlt die urkundliche Bescheinigung, so haben der Exekutionsbewilligung Erhebungen des Gerichtsvollziehers und eine Einvernahme des Verpflichteten über die Frage des Eigentums oder des Besitzes voranzugehen\. Nach Bewilligung der Exekution hat das Exekutionsgericht von Amts wegen unverzüglich die pfandweise Beschreibung des Superädifikats \(§§ 91 ff\) zu Gunsten der vollstreckbaren Forderung des betreibenden Gläubigers anzuordnen\.
+> Bei einem Superädifikat, für das bei Gericht keine Urkunde über den Erwerb des Eigentums durch Hinterlegung aufgenommen wurde, hat der Gläubiger das Eigentum oder den Besitz des Verpflichteten zu behaupten und durch Urkunden glaubhaft zu machen\. Fehlt die urkundliche Bescheinigung, so haben der Exekutionsbewilligung Erhebungen des Gerichtsvollziehers und eine Einvernahme des Verpflichteten über die Frage des Eigentums oder des Besitzes voranzugehen\. Nach Bewilligung der Exekution hat das Exekutionsgericht von Amts wegen unverzüglich die pfandweise Beschreibung des Superädifikats \(§§ 91 ff\) zu Gunsten der vollstreckbaren Forderung des betreibenden Gläubigers anzuordnen\.
 
 ### § 135 EO — Betreibender Gläubiger mit Pfandrecht
 
-Ist für die hereinzubringende vollstreckbare Forderung schon ein Pfandrecht an der Liegenschaft des Verpflichteten rechtskräftig begründet, so bedarf es der Vorlage einer Ausfertigung des Exekutionstitels nicht; die Exekution ist im Rang dieses Pfandrechts zu bewilligen, wenn der betreibende Gläubiger dies beantragt und die Identität der Forderung nachweist\.
+> Ist für die hereinzubringende vollstreckbare Forderung schon ein Pfandrecht an der Liegenschaft des Verpflichteten rechtskräftig begründet, so bedarf es der Vorlage einer Ausfertigung des Exekutionstitels nicht; die Exekution ist im Rang dieses Pfandrechts zu bewilligen, wenn der betreibende Gläubiger dies beantragt und die Identität der Forderung nachweist\.
 
 ### § 135a EO — An Verwalter übergebene Liegenschaft
 
-Der Zwangsversteigerung steht nicht entgegen, dass der Verpflichtete nicht im öffentlichen Buch als Eigentümer der Liegenschaft eingetragen ist, wenn die Exekutionsbewilligung nach § 335 im öffentlichen Buch angemerkt wurde\.“
+> Der Zwangsversteigerung steht nicht entgegen, dass der Verpflichtete nicht im öffentlichen Buch als Eigentümer der Liegenschaft eingetragen ist, wenn die Exekutionsbewilligung nach § 335 im öffentlichen Buch angemerkt wurde\.“
 
 ### § 136 EO — Zustellungen
 
@@ -2284,7 +2284,7 @@ Der Zwangsversteigerung steht nicht entgegen, dass der Verpflichtete nicht im ö
 
 ### § 139 EO
 
-Beitritt
+> Beitritt
 
 > `(1)` Nach Anmerkung der Einleitung des Versteigerungsverfahrens kann, solange dieses im Gang ist, zu Gunsten weiterer vollstreckbarer Forderungen ein besonderes Versteigerungsverfahren hinsichtlich derselben Liegenschaft nicht mehr eingeleitet werden\.
 
@@ -2342,24 +2342,24 @@ Beitritt
 
 ### § 145 EO — Ergänzung der Schätzung
 
-Spätestens nach Ablauf der Frist zur Erstattung von Einwendungen gegen den Schätzwert hat das Exekutionsgericht alle nötigen Ergänzungen, Richtigstellungen und Verbesserungen des Schätzungsgutachtens von Amts wegen zu veranlassen\.
+> Spätestens nach Ablauf der Frist zur Erstattung von Einwendungen gegen den Schätzwert hat das Exekutionsgericht alle nötigen Ergänzungen, Richtigstellungen und Verbesserungen des Schätzungsgutachtens von Amts wegen zu veranlassen\.
 
 ### § 146 EO — Änderung der gesetzlichen Versteigerungsbedingungen
 
 > `(1)` Das Gericht hat, wenn dadurch voraussichtlich ein höherer Erlös zu erzielen sein wird, auf Antrag oder, wenn dies in den Fällen der Z 1 bis 3a offenkundig ist, auch von Amts wegen nach Einvernahme des Verpflichteten, des betreibenden Gläubigers und aller Personen, für die nach Inhalt der dem Gericht darüber vorliegenden Urkunden auf der Liegenschaft oder dem Superädifikat dingliche Rechte begründet sind, festzulegen, dass
-> 
+>
 >> `1.` mehrere Grundstücke eines Grundbuchskörpers einzeln oder in Gruppen zu versteigern sind und dass der Grundbuchskörper vor der Erteilung des Zuschlags zweimal, und zwar einmal als Ganzes und dann die einzelnen Grundstücke, ausgeboten werden soll;
-> 
+>
 >> `2.` mehrere ein wirtschaftliches Ganzes bildende Grundbuchskörper gemeinsam ausgeboten werden sollen;
-> 
+>
 >> `3.` wenn mit den Miteigentumsanteilen des Verpflichteten Wohnungseigentum an mehr als einer Wohnung verbunden ist, eine gemeinsame Versteigerung der einzelnen Eigentumswohnungen erfolgen soll;
-> 
+>
 >> `3a.` Anteile einer Liegenschaft, eines Superädifikates oder eines Baurechts gemeinsam mit Anteilen, die einem anderen Verpflichteten aus einem verbundenen Verfahren zustehen, versteigert werden,
-> 
+>
 >> `4.` Dienstbarkeiten, Ausgedinge und andere Reallasten, denen der Vorrang vor dem Befriedigungsrecht des betreibenden Gläubigers oder einem eingetragenen Pfandrecht eines Gläubigers zukommt, vom Ersteher nicht oder nur unter Anrechnung auf das Meistbot zu übernehmen sind; hiezu ist auch die Zustimmung des Berechtigten erforderlich;
-> 
+>
 >> `5.` ein höherer Betrag als geringstes Gebot der Versteigerung zugrunde gelegt wird; hiezu ist die Zustimmung des betreibenden Gläubigers erforderlich\.
-> 
+>
 > &nbsp; Die Zustellung des Beschlusses kann unterbleiben, wenn das Versteigerungsedikt unverzüglich zugestellt wird\.
 
 > `(2)` Der Antrag nach Abs\. 1 Z 1, 3 und 3a ist spätestens innerhalb der zum Erlag des Kostenvorschusses für die Schätzung der Liegenschaft offen stehenden Frist, der Antrag nach Abs\. 1 Z 2, 4 und 5 längstens bis 14 Tage nach Bekanntgabe des Schätzwerts zu stellen\.
@@ -2374,7 +2374,7 @@ Spätestens nach Ablauf der Frist zur Erstattung von Einwendungen gegen den Sch�
 
 ### § 148 EO — Einstellung der Exekution
 
-Außer den sonst in diesem Gesetz bezeichneten Fällen ist das Versteigerungsverfahren durch Beschluss einzustellen:
+> Außer den sonst in diesem Gesetz bezeichneten Fällen ist das Versteigerungsverfahren durch Beschluss einzustellen:
 
 > `1.` wenn ein Pfandgläubiger die vollstreckbare Forderung, wegen deren Versteigerung bewilligt wurde, unter gleichzeitigem Ersatz aller dem Verpflichteten zur Last fallenden Kosten einlöst und Einstellung der Versteigerung beantragt; einen solchen Antrag kann auch der betreibende Gläubiger stellen, der die Forderungen aller übrigen betreibenden Gläubiger unter Ersatz der dem Verpflichteten zur Last fallenden Kosten einlöst;
 
@@ -2384,13 +2384,13 @@ Außer den sonst in diesem Gesetz bezeichneten Fällen ist das Versteigerungsver
 
 ### § 149 EO — Verständigung von der Einstellung oder Aufschiebung
 
-Von jeder Einstellung oder Aufschiebung eines Versteigerungsverfahrens sind neben dem Verpflichteten der betreibende Gläubiger sowie alle übrigen Personen besonders zu verständigen, die von den Vorfällen des Versteigerungsverfahrens jeweils durch Zustellung schriftlicher Beschlussausfertigungen zu benachrichtigen sind\. Von der rechtskräftigen Einstellung ist auch der nach § 190 oder § 199 bestellte Verwalter der Liegenschaft zu verständigen\. Der betreibende Gläubiger, zu dessen Gunsten die Einleitung des Versteigerungsverfahrens im Grundbuch angemerkt wurde, ist gleichzeitig von den ihm nach § 208 zustehenden Befugnissen und von der Frist zu verständigen, binnen deren diese Befugnisse auszuüben sind\.
+> Von jeder Einstellung oder Aufschiebung eines Versteigerungsverfahrens sind neben dem Verpflichteten der betreibende Gläubiger sowie alle übrigen Personen besonders zu verständigen, die von den Vorfällen des Versteigerungsverfahrens jeweils durch Zustellung schriftlicher Beschlussausfertigungen zu benachrichtigen sind\. Von der rechtskräftigen Einstellung ist auch der nach § 190 oder § 199 bestellte Verwalter der Liegenschaft zu verständigen\. Der betreibende Gläubiger, zu dessen Gunsten die Einleitung des Versteigerungsverfahrens im Grundbuch angemerkt wurde, ist gleichzeitig von den ihm nach § 208 zustehenden Befugnissen und von der Frist zu verständigen, binnen deren diese Befugnisse auszuüben sind\.
 
 ### § 150 EO — Ausscheiden eines betreibenden Gläubigers
 
-Erfolgt die Einstellung oder Aufschiebung aus einem Grunde, der nicht in gleicher Weise gegen alle Gläubiger wirkt, die das Versteigerungsverfahren betreiben \(§§ 35 bis 37, 39, 40, 148 Z 2, 155, 157, 188\), so ist das Versteigerungsverfahren zugunsten der übrigen betreibenden Gläubiger fortzusetzen\.
-
-*\(Anm\.: Abs\. 2 und 3 aufgehoben durch BGBl\. I Nr\. 59/2000\)*
+> Erfolgt die Einstellung oder Aufschiebung aus einem Grunde, der nicht in gleicher Weise gegen alle Gläubiger wirkt, die das Versteigerungsverfahren betreiben \(§§ 35 bis 37, 39, 40, 148 Z 2, 155, 157, 188\), so ist das Versteigerungsverfahren zugunsten der übrigen betreibenden Gläubiger fortzusetzen\.
+>
+> *\(Anm\.: Abs\. 2 und 3 aufgehoben durch BGBl\. I Nr\. 59/2000\)*
 
 ### § 151 EO — Löschung der bücherlichen Anmerkungen
 
@@ -2408,11 +2408,11 @@ Erfolgt die Einstellung oder Aufschiebung aus einem Grunde, der nicht in gleiche
 
 ### § 153 EO — Vorrang anderer Exekutionsarten
 
-Das Versteigerungsverfahren ist vorbehaltlich der Anwendung des §§ 14, 27 Abs\. 1 und § 41 Abs\. 2 aufzuschieben, wenn zur Hereinbringung derselben Forderung Exekution auf wiederkehrende Geldforderungen geführt wird und der pfändbare Betrag voraussichtlich ausreichen wird, die hereinzubringende Forderung samt Nebengebühren im Laufe eines Jahres zu tilgen oder Exekution auf bewegliche oder unbewegliche Sachen oder Vermögensrechte geführt wird und die gepfändeten Vermögensobjekte die hereinzubringende Forderung voraussichtlich decken werden\. Bei einer anderen unbeweglichen Sache ist das Verfahren nur auf Antrag aufzuschieben\.
+> Das Versteigerungsverfahren ist vorbehaltlich der Anwendung des §§ 14, 27 Abs\. 1 und § 41 Abs\. 2 aufzuschieben, wenn zur Hereinbringung derselben Forderung Exekution auf wiederkehrende Geldforderungen geführt wird und der pfändbare Betrag voraussichtlich ausreichen wird, die hereinzubringende Forderung samt Nebengebühren im Laufe eines Jahres zu tilgen oder Exekution auf bewegliche oder unbewegliche Sachen oder Vermögensrechte geführt wird und die gepfändeten Vermögensobjekte die hereinzubringende Forderung voraussichtlich decken werden\. Bei einer anderen unbeweglichen Sache ist das Verfahren nur auf Antrag aufzuschieben\.
 
 ### § 154 EO — Unwirksamkeit wertmindernder Rechtshandlungen – Aufschiebung
 
-Macht ein Gläubiger die Unwirksamkeit einer Rechtshandlung geltend, die bei der Schätzung der Liegenschaft wertmindernd berücksichtigt wurde, so hat das Gericht das Verfahren auf Antrag des Gläubigers bis zur rechtskräftigen Klärung dieser Frage aufzuschieben\.
+> Macht ein Gläubiger die Unwirksamkeit einer Rechtshandlung geltend, die bei der Schätzung der Liegenschaft wertmindernd berücksichtigt wurde, so hat das Gericht das Verfahren auf Antrag des Gläubigers bis zur rechtskräftigen Klärung dieser Frage aufzuschieben\.
 
 ### § 155 EO — Vorrang der Zwangsverwaltung
 
@@ -2428,7 +2428,7 @@ Macht ein Gläubiger die Unwirksamkeit einer Rechtshandlung geltend, die bei der
 
 ### § 157 EO — Zahlungsvereinbarung
 
-Die Aufschiebung der Exekution wegen einer Zahlungsvereinbarung nach § 45a ist bis zum Beginn der Versteigerung möglich\.
+> Die Aufschiebung der Exekution wegen einer Zahlungsvereinbarung nach § 45a ist bis zum Beginn der Versteigerung möglich\.
 
 ### § 158 EO — Aufschiebung der Exekution bei einer Naturkatastrophe
 
@@ -2450,7 +2450,7 @@ Die Aufschiebung der Exekution wegen einer Zahlungsvereinbarung nach § 45a ist
 
 ### § 168 EO — Inhalt des Versteigerungsedikts
 
-Das Versteigerungsedikt muss enthalten:
+> Das Versteigerungsedikt muss enthalten:
 
 > `1.` die deutliche Bezeichnung der zur Versteigerung gelangenden Liegenschaft unter Angabe der genauen Adresse, der Einlagezahl und der Katastralgemeinde,
 
@@ -2476,7 +2476,7 @@ Das Versteigerungsedikt muss enthalten:
 
 ### § 169 EO — Weiterer Inhalt des Versteigerungsedikts
 
-In das Versteigerungsedikt sind weiters aufzunehmen:
+> In das Versteigerungsedikt sind weiters aufzunehmen:
 
 > `1.` die Aufforderung, Rechte an der Liegenschaft, welche die Versteigerung unzulässig machen würden, spätestens im Versteigerungstermin vor Beginn der Versteigerung bei Gericht anzumelden, widrigens sie zum Nachteil eines gutgläubigen Erstehers in Ansehung der Liegenschaft selbst nicht mehr geltend gemacht werden könnten,
 
@@ -2496,15 +2496,15 @@ In das Versteigerungsedikt sind weiters aufzunehmen:
 
 ### § 171 EO — Zustellung des Versteigerungsedikts
 
-Ausfertigungen des Versteigerungsedikts sind dem Verpflichteten, dem betreibenden Gläubiger und allen Personen zuzustellen, für die nach den dem Gericht darüber vorliegenden Urkunden auf der Liegenschaft oder an den auf dieser Liegenschaft haftenden Rechten dingliche Rechte und Lasten bestehen oder Vorkaufsrechte einverleibt sind\. Wird ein Miteigentumsanteil, mit dem nicht Wohnungseigentum verbunden ist, versteigert, so ist auch jedem Miteigentümer eine Ausfertigung des Edikts an die im Grundbuch angeführte Adresse zu übersenden\.
+> Ausfertigungen des Versteigerungsedikts sind dem Verpflichteten, dem betreibenden Gläubiger und allen Personen zuzustellen, für die nach den dem Gericht darüber vorliegenden Urkunden auf der Liegenschaft oder an den auf dieser Liegenschaft haftenden Rechten dingliche Rechte und Lasten bestehen oder Vorkaufsrechte einverleibt sind\. Wird ein Miteigentumsanteil, mit dem nicht Wohnungseigentum verbunden ist, versteigert, so ist auch jedem Miteigentümer eine Ausfertigung des Edikts an die im Grundbuch angeführte Adresse zu übersenden\.
 
 ### § 172 EO — Weitere Zustellungen
 
-Personen, zugunsten deren vor Aufnahme des Versteigerungsediktes in die Ediktsdatei um Einverleibung dinglicher Rechte und Lasten oder eines Vorkaufsrechtes im Grundbuch angesucht wurde, ist, falls sie von der Versteigerung noch nicht verständigt sind, eine Ausfertigung des Versteigerungsediktes zuzustellen\.
+> Personen, zugunsten deren vor Aufnahme des Versteigerungsediktes in die Ediktsdatei um Einverleibung dinglicher Rechte und Lasten oder eines Vorkaufsrechtes im Grundbuch angesucht wurde, ist, falls sie von der Versteigerung noch nicht verständigt sind, eine Ausfertigung des Versteigerungsediktes zuzustellen\.
 
 ### § 173 EO — Verständigung bei einem Superädifikat
 
-Bei einem Superädifikat ist eine Ausfertigung des Versteigerungsedikts auch dem Eigentümer der Liegenschaft, auf der sich das Superädifikat befindet, zu übersenden\.
+> Bei einem Superädifikat ist eine Ausfertigung des Versteigerungsedikts auch dem Eigentümer der Liegenschaft, auf der sich das Superädifikat befindet, zu übersenden\.
 
 ### § 174 EO — Kuratorbestellung
 
@@ -2516,7 +2516,7 @@ Bei einem Superädifikat ist eine Ausfertigung des Versteigerungsedikts auch dem
 
 ### § 175 EO — Prüfungspflichten und Anordnungen des Gerichts
 
-Das Gericht hat sich spätestens vierzehn Tage vor dem Versteigerungstermin durch Prüfung der Urkunden, welche zum Beweise der Kundmachung und der Zustellung zu dienen haben, die Gewissheit zu verschaffen, dass die in Beziehung auf die Bekanntmachung und Zustellung des Versteigerungsedictes erteilten Anordnungen befolgt wurden\. Bei wahrgenommenen Mängeln sind die erforderlichen Berichtigungen, Ergänzungen und Kuratorbestellungen in der Art zu verfügen, dass die Versteigerung in dem für sie bestimmten Termine ungehindert vorgenommen werden kann\.
+> Das Gericht hat sich spätestens vierzehn Tage vor dem Versteigerungstermin durch Prüfung der Urkunden, welche zum Beweise der Kundmachung und der Zustellung zu dienen haben, die Gewissheit zu verschaffen, dass die in Beziehung auf die Bekanntmachung und Zustellung des Versteigerungsedictes erteilten Anordnungen befolgt wurden\. Bei wahrgenommenen Mängeln sind die erforderlichen Berichtigungen, Ergänzungen und Kuratorbestellungen in der Art zu verfügen, dass die Versteigerung in dem für sie bestimmten Termine ungehindert vorgenommen werden kann\.
 
 ### § 176 EO — Besichtigung der Liegenschaft
 
@@ -2537,13 +2537,13 @@ Das Gericht hat sich spätestens vierzehn Tage vor dem Versteigerungstermin durc
 ### § 178 EO — Verfahrensablauf
 
 > `(1)` Vor der Aufforderung zum Bieten hat der Richter bekannt zu geben:
-> 
+>
 >> `1.` die Höhe der Steuern, Zuschläge, Gebühren und sonstigen öffentlichen Abgaben samt Nebengebühren, deren Barzahlung verlangt wird;
-> 
+>
 >> `2.` die von den Gläubigern in Bezug auf die Übernahme der Schuld durch den Ersteher abgegebenen Erklärungen;
-> 
+>
 >> `3.` inwieweit von den gesetzlichen Versteigerungsbedingungen abgewichen wird;
-> 
+>
 >> `4.` die Bestimmungen der §§ 86 und 180\.
 
 > `(2)` Hierauf hat der Richter auf Befragen über die Versteigerungsbedingungen, über die Beträge der auf der Liegenschaft sichergestellten Forderungen, über die vom Ersteher zu übernehmenden Lasten, sowie über alle sonstigen die zu versteigernde Liegenschaft betreffenden Verhältnisse, sofern diese aus den Akten zu entnehmen sind, die erbetenen näheren Aufklärungen zu geben\. Endlich ist die Reihenfolge zu verkünden, in welcher mehrere im selben Termine zur Versteigerung gelangende Liegenschaften desselben Verpflichteten, oder Anteile an Liegenschaften ausgeboten werden\.
@@ -2594,21 +2594,21 @@ Das Gericht hat sich spätestens vierzehn Tage vor dem Versteigerungstermin durc
 ### § 184 EO — Widerspruchsgründe
 
 > `(1)` Ein Widerspruch gegen die Erteilung des Zuschlages an den Meistbietenden kann nur darauf gestützt werden, dass:
-> 
+>
 >> `1.` die Frist zwischen der Aufnahme des Versteigerungsedikts in die Ediktsdatei und dem Versteigerungstermin nicht einmal einen Monat betragen hat;
-> 
+>
 >> `2.` die Bekanntmachung des Versteigerungstermines nicht den vorgeschriebenen Inhalt hatte oder nicht in der gesetzlich bestimmten Art veröffentlicht wurde;
-> 
+>
 >> `3.` nicht alle vom Versteigerungstermin zu verständigenden Personen verständigt wurden;
-> 
+>
 >> `4.` das Versteigerungsverfahren ohne Rücksicht auf einen etwa gefassten Einstellungsbeschluss fortgesetzt wurde;
-> 
+>
 >> `5.` bei der Versteigerung die Bestimmungen der §§ 180 und 181 nicht beachtet oder ein Bieter mit Unrecht zurückgewiesen wurde;
-> 
+>
 >> `6.` die Bedingungen, unter denen das höchste Anbot abgegeben wurde, von den Versteigerungsbedingungen abweichen, oder das Anbot, für das der Zuschlag verlangt wird, nach diesen Versteigerungsbedingungen nicht zugelassen werden durfte;
-> 
+>
 >> `7.` dem Meistbietenden die Fähigkeit zum Vertragsabschlusse oder zum Erwerbe der zu versteigernden Liegenschaft fehlt oder das höchste Anbot durch einen nicht gehörig ausgewiesenen Vertreter abgegeben wurde\.
-> 
+>
 > &nbsp; *\(Anm\.: Z 8 aufgehoben durch BGBl\. I Nr\. 59/2000\)*
 
 > `(2)` Die für den Widerspruch angeführten Gründe sind von amtswegen festzustellen\.
@@ -2644,17 +2644,17 @@ Das Gericht hat sich spätestens vierzehn Tage vor dem Versteigerungstermin durc
 ### § 187a EO — Aufhebung des Zuschlags
 
 > `(1)` Auf Antrag der verpflichteten Partei ist der Zuschlag einer Liegenschaft aufzuheben und bis zur Entscheidung darüber das Exekutionsverfahren aufzuschieben, wenn sie
-> 
+>
 >> `1.` während des Exekutionsverfahrens einer gesetzlichen Vertretung bedurfte, nicht gesetzlich vertreten war und die Verfahrensführung auch nicht nachträglich genehmigt wurde,
-> 
+>
 >> `2.` bescheinigt, dass die versteigerte Liegenschaft der Befriedigung ihres dringenden Wohnbedürfnisses dient, und
-> 
+>
 >> `3.` bescheinigt, dass sie die hereinzubringende Forderung erfüllt hat\.
 
 > `(2)` Der Zuschlag ist bei Vorliegen der Voraussetzungen des Abs\. 1 Z 1 und 2 auch dann aufzuheben, wenn die verpflichtete Partei die Nichtigkeit nach Abs\. 1 Z 1 des dem Exekutionsverfahren zugrunde liegenden Exekutionstitels gerichtlich geltend gemacht hat und bescheinigt, dass
-> 
+>
 >> `1.` sie in diesem Verfahren einer gesetzlichen Vertretung bedurfte und nicht gesetzlich vertreten war und
-> 
+>
 >> `2.` die der Zwangsversteigerung zugrunde liegende Forderung nicht besteht\.
 
 > `(3)` Der Zuschlag ist nicht aufzuheben, wenn der Umstand, dass die verpflichtete Partei einer gesetzlichen Vertretung bedurfte und nicht gesetzlich vertreten war, bereits im Verfahren hätte geltend gemacht werden können oder ohne Erfolg geltend gemacht wurde\.
@@ -2687,7 +2687,7 @@ Das Gericht hat sich spätestens vierzehn Tage vor dem Versteigerungstermin durc
 
 ### § 191 EO — Einstweilige Verwaltung – anzuwendende Bestimmungen
 
-Auf diese einstweilige Verwaltung sind die Vorschriften über die Zwangsverwaltung mit folgenden Abweichungen sinngemäß anzuwenden:
+> Auf diese einstweilige Verwaltung sind die Vorschriften über die Zwangsverwaltung mit folgenden Abweichungen sinngemäß anzuwenden:
 
 > `1.` Sofern nicht im einzelnen Falle mit Rücksicht auf die Person des Erstehers oder aus anderen wichtigen Gründen dagegen Bedenken obwalten, kann der Ersteher zum Verwalter ernannt werden;
 
@@ -2701,7 +2701,7 @@ Auf diese einstweilige Verwaltung sind die Vorschriften über die Zwangsverwaltu
 
 ### § 192 EO — Einstweilige Verwaltung bei Aufhebung oder Unwirksamkeit des Zuschlags
 
-Eine gemäß § 190 angeordnete Verwaltung hat, wenn der Zuschlag rechtskräftig aufgehoben wird oder wenn er infolge der Anordnung der Wiederversteigerung oder der gerichtlichen Annahme eines Überbots seine Wirksamkeit verliert, bis zur Übergabe der Liegenschaft an den neuen Ersteher fortzudauern\. Dem früheren Ersteher ist die Verwaltung abzunehmen\. Wenn auf Grund landesgesetzlicher Grundverkehrsgesetze die erneute Versteigerung bewilligt wird, so ist dem Meistbietenden der ersten Versteigerung die einstweilige Verwaltung erst dann abzunehmen, wenn im neuerlichen Versteigerungstermin einem anderen Bieter der Zuschlag erteilt worden ist\. Anstelle des früheren Verwalters kann unter den in § 191 Z 1 angegebenen Voraussetzungen der neue Ersteher auf seinen Antrag zum Verwalter ernannt werden\.
+> Eine gemäß § 190 angeordnete Verwaltung hat, wenn der Zuschlag rechtskräftig aufgehoben wird oder wenn er infolge der Anordnung der Wiederversteigerung oder der gerichtlichen Annahme eines Überbots seine Wirksamkeit verliert, bis zur Übergabe der Liegenschaft an den neuen Ersteher fortzudauern\. Dem früheren Ersteher ist die Verwaltung abzunehmen\. Wenn auf Grund landesgesetzlicher Grundverkehrsgesetze die erneute Versteigerung bewilligt wird, so ist dem Meistbietenden der ersten Versteigerung die einstweilige Verwaltung erst dann abzunehmen, wenn im neuerlichen Versteigerungstermin einem anderen Bieter der Zuschlag erteilt worden ist\. Anstelle des früheren Verwalters kann unter den in § 191 Z 1 angegebenen Voraussetzungen der neue Ersteher auf seinen Antrag zum Verwalter ernannt werden\.
 
 ### § 193 EO — Übergang der Zwangsverwaltung in eine einstweilige Verwaltung
 
@@ -2712,19 +2712,19 @@ Eine gemäß § 190 angeordnete Verwaltung hat, wenn der Zuschlag rechtskräfti
 ### § 194 EO — Protokoll über den Versteigerungstermin
 
 > `(1)` Das über den Versteigerungstermin aufzunehmende Protokoll hat insbesondere anzugeben:
-> 
+>
 >> `1.` die Namen des Richters, des Schriftführers und derjenigen anwesenden Personen, die vom Versteigerungstermin zu verständigen waren;
-> 
+>
 >> `2.` die Zeit des Beginnes des Termins, der Aufforderung zur Abgabe von Anboten und des Schlusses der Versteigerung;
-> 
+>
 >> `3.` die Namen der Bieter und jeweils deren Geburtsdatum, Adresse und Staatsangehörigkeit sowie beim Ersteher zusätzlich die von ihm geleistete Sicherheit;
-> 
+>
 >> `4.` alle bei der Versteigerung vorgekommenen, zugelassenen oder vom Richter zurückgewiesenen Anbote;
-> 
+>
 >> `5.` die im Termine verkündete Entscheidung über den Zuschlag;
-> 
+>
 >> `6.` bei Erhebung von Widersprüchen gegen die Erteilung des Zuschlages den Namen der Widerspruch erhebenden Personen, die für den Widerspruch angeführten Gründe, die vorgebrachten Beweise und das aus den Erklärungen der Beteiligten sich ergebende Sachverhältnis\.
-> 
+>
 > &nbsp; *\(Anm\.: Z 7 aufgehoben durch BGBl\. I Nr\. 59/2000\)*
 
 > `(2)` Das Protokoll ist von den Personen zu unterschreiben, die beim Versteigerungsakt als Bieter mitgewirkt oder gegen den Zuschlag Widerspruch erhoben haben\. Wird die Unterschrift verweigert, so ist dies unter Angabe des hiefür geltend gemachten Grundes in einem Anhange zum Protokolle zu beurkunden\.
@@ -2744,7 +2744,7 @@ Eine gemäß § 190 angeordnete Verwaltung hat, wenn der Zuschlag rechtskräfti
 
 ### § 197 EO — Entkräftung des Überbots
 
-Von dem höchsten Überbot, für das eine Sicherheit erlegt wurde, ist der Ersteher zu verständigen\. Er kann die angebrachten Überbote dadurch entkräften, dass er innerhalb dreier Tage, nachdem ihm das letzte rechtzeitig eingelangte Überbot mitgeteilt wurde, sein Meistbot auf den Betrag des höchsten Überbots erhöht\. Die Erklärung darüber ist beim Exekutionsgericht mittels Schriftsatz oder zu Protokoll abzugeben; sobald der Schriftsatz beim Exekutionsgericht eingelangt oder das Protokoll geschlossen ist, kann die Erklärung nicht mehr zurückgezogen werden\.
+> Von dem höchsten Überbot, für das eine Sicherheit erlegt wurde, ist der Ersteher zu verständigen\. Er kann die angebrachten Überbote dadurch entkräften, dass er innerhalb dreier Tage, nachdem ihm das letzte rechtzeitig eingelangte Überbot mitgeteilt wurde, sein Meistbot auf den Betrag des höchsten Überbots erhöht\. Die Erklärung darüber ist beim Exekutionsgericht mittels Schriftsatz oder zu Protokoll abzugeben; sobald der Schriftsatz beim Exekutionsgericht eingelangt oder das Protokoll geschlossen ist, kann die Erklärung nicht mehr zurückgezogen werden\.
 
 ### § 198 EO — Annahme des Überbots
 
@@ -2797,7 +2797,7 @@ Von dem höchsten Überbot, für das eine Sicherheit erlegt wurde, ist der Erste
 
 ### § 204 EO — Nutzungsverhältnis bei Superädifikat
 
-Bei Versteigerung eines Superädifikats tritt der Ersteher in das bestehende Nutzungsverhältnis ein\. Der Eigentümer kann jedoch das Nutzungsverhältnis aus wichtigem Grund kündigen\.
+> Bei Versteigerung eines Superädifikats tritt der Ersteher in das bestehende Nutzungsverhältnis ein\. Der Eigentümer kann jedoch das Nutzungsverhältnis aus wichtigem Grund kündigen\.
 
 ### § 205 EO — Wiederversteigerung
 
@@ -2887,7 +2887,7 @@ Bei Versteigerung eines Superädifikats tritt der Ersteher in das bestehende Nut
 
 ### § 215 EO — Verteilungsmasse
 
-Die Verteilungsmasse bilden:
+> Die Verteilungsmasse bilden:
 
 > `1.` das Meistbot oder Überbot, die zur Erhöhung des Meistbots gegebenen Beträge \(§ 197\) und die Zinsen hievon, soweit letztere nicht nach den Vorschriften dieses Gesetzes dem Ersteher zufallen;
 
@@ -2900,27 +2900,27 @@ Die Verteilungsmasse bilden:
 ### § 216 EO — Rangordnung der zu berichtigenden Ansprüche
 
 > `(1)` Aus der Verteilungsmasse sind in nachfolgender Rangordnung zu berichtigen:
-> 
+>
 >> `1.` falls während des Versteigerungsverfahrens zu Gunsten der auf das Meistbot gewiesenen Personen eine Verwaltung stattgefunden hat, die im § 120 Abs\. 2 Z 4 bezeichneten Auslagen und Vorschüsse;
-> 
+>
 >> `2.` die aus den letzten drei Jahren vor dem Tag der Erteilung des Zuschlages rückständigen, von der Liegenschaft zu entrichtenden Steuern samt Zuschlägen, Vermögensübertragungsgebühren und sonstige von der Liegenschaft zu entrichtende öffentliche Abgaben, die nach den bestehenden Vorschriften ein gesetzliches Pfand\- oder Vorzugsrecht genießen, sowie die nicht länger als drei Jahre rückständigen Verzugszinsen dieser Steuern und Abgaben, und zwar die Zuschläge in gleicher Rangordnung mit den Steuern und Abgaben, welche die Grundlage ihrer Bemessung bilden\. Diese Ansprüche sind jedoch ohne Rücksicht auf das ihnen sonst zustehende Vorrecht erst nach voller Befriedigung des betreibenden Gläubigers aus der Verteilungsmasse zu berichtigen, wenn sie nicht spätestens im Versteigerungstermin vor Beginn der Versteigerung angemeldet wurden;
-> 
+>
 >> `3.` die aus den letzten fünf Jahren vor dem Tag der Erteilung des Zuschlages rückständigen Forderungen gemäß § 27 des Wohnungseigentumsgesetzes 2002, wobei Ansprüche mehrerer Miteigentümer untereinander den gleichen Rang haben;
-> 
+>
 >> `4.` die auf der Liegenschaft pfandrechtlich sichergestellten Forderungen, einschließlich der pfandrechtlich sichergestellten Steuer\- und Gebührenforderungen, die nicht pfandrechtlich sichergestellte Forderung des betreibenden Gläubigers, die Deckung für die vom Ersteher in Anrechnung auf das Meistbot zu übernehmenden Dienstbarkeiten, Ausgedinge und andere Reallasten und die Entschädigungsansprüche für einverleibte Bestandrechte sowie für andere vom Ersteher nach den Versteigerungsbedingungen und dem Ergebnis der Versteigerung nicht zu übernehmende Rechte und Lasten, sämtliche nach der Rangordnung der bezüglichen bücherlichen Eintragungen oder nach der Zeitfolge der pfandweisen Beschreibungen und der sonst nachgewiesenen Rechtsbegründungsakt\.
 
 > `(2)` Die gerichtlich bestimmten Prozess\- und Exekutionskosten, die durch die Geltendmachung eines der in Abs\. 1 Z 2 bis 4 angeführten Ansprüche entstanden sind, und die nicht länger als drei Jahre vor dem Tag der Erteilung des Zuschlages rückständigen, aus einem Vertrag oder aus dem Gesetz gebührenden Zinsen, Renten, Unterhaltsgelder und sonstigen wiederkehrenden Leistungen genießen gleiche Priorität mit dem Kapital oder Bezugsrecht\. Eine gleiche Priorität wie dem Kapital kommt auch den Ansprüchen aus einem für den Fall der vorzeitigen Rückzahlung einer bücherlich sichergestellten Forderung geschlossenen Vertrage zu\. Bei Unzulänglichkeit der Verteilungsmasse sind diese Nebengebühren vor dem Kapital zu berichtigen\.
 
 ### § 216a EO — Vorrangseinräumung
 
-Im Fall einer nur relativ wirksamen Vorrangseinräumung im Sinne des § 30 Abs\. 3 GBG ist bei der Meistbotsverteilung das vortretende Recht an seiner ursprünglichen Stelle zu berücksichtigen, wenn das Recht, das nach seinem ursprünglichen Rang vom Ersteher ohne Anrechnung auf das Meistbot zu übernehmen ist, zurücktritt und ein seiner Natur nach verschiedenes Recht vortritt\.
+> Im Fall einer nur relativ wirksamen Vorrangseinräumung im Sinne des § 30 Abs\. 3 GBG ist bei der Meistbotsverteilung das vortretende Recht an seiner ursprünglichen Stelle zu berücksichtigen, wenn das Recht, das nach seinem ursprünglichen Rang vom Ersteher ohne Anrechnung auf das Meistbot zu übernehmen ist, zurücktritt und ein seiner Natur nach verschiedenes Recht vortritt\.
 
 ### § 217 EO — Rest der Verteilungsmasse
 
 > `(1)` Sofern die Verteilungsmasse durch die bisher angeführten Leistungen nicht erschöpft ist, sind aus ihr zu berichtigen:
-> 
+>
 >> `1.` die länger als drei Jahre rückständigen, von der Liegenschaft zu entrichtenden Steuern samt Zuschlägen, Vermögensübertragungsgebühren, und sonstige von der Liegenschaft zu entrichtende öffentliche Abgaben, die nach den bestehenden Vorschriften ein gesetzliches Pfandrecht genießen;
-> 
+>
 >> `2.` nach diesen die länger als drei Jahre rückständigen, aus einem Vertrag oder aus dem Gesetz gebührenden Zinsen, Renten, Unterhaltsgelder und sonstigen wiederkehrenden Leistungen, insoweit denselben ein Pfandrecht zukommt, nach der Priorität der Kapitalbeträge oder Bezugsrechte\.
 
 > `(2)` Ein nach Berichtigung aller dieser Ansprüche erübrigender Rest der Verteilungsmasse ist dem Verpflichteten zuzuweisen\.
@@ -2975,7 +2975,7 @@ Im Fall einer nur relativ wirksamen Vorrangseinräumung im Sinne des § 30 Abs\
 
 ### § 224 EO — Höchstbetragshypothek
 
-Bei einer Höchstbetragshypothek sind die bis zur letzten Verteilungstagsatzung bereits entstandenen Forderungen des Gläubigers an Kapital und Nebengebühren in Gemäßheit der sonst für pfandrechtlich sichergestellte Forderungen der gleichen Art geltenden Vorschriften durch Barzahlung oder Übernahme zu berichtigen\.
+> Bei einer Höchstbetragshypothek sind die bis zur letzten Verteilungstagsatzung bereits entstandenen Forderungen des Gläubigers an Kapital und Nebengebühren in Gemäßheit der sonst für pfandrechtlich sichergestellte Forderungen der gleichen Art geltenden Vorschriften durch Barzahlung oder Übernahme zu berichtigen\.
 
 ### § 225 EO — Dienstbarkeiten und Reallasten
 
@@ -2999,7 +2999,7 @@ Bei einer Höchstbetragshypothek sind die bis zur letzten Verteilungstagsatzung 
 
 ### § 228 EO — Bücherliche Vormerkungen
 
-Bücherliche Vormerkungen sind nur dann zu berücksichtigen, wenn spätestens bei der letzten Verteilungstagsatzung nachgewiesen wird, dass das Verfahren zur Rechtfertigung der Vormerkung sich im Zuge befindet, oder wenn zu dieser Zeit die Frist für die Einleitung dieses Verfahrens noch nicht abgelaufen ist\.
+> Bücherliche Vormerkungen sind nur dann zu berücksichtigen, wenn spätestens bei der letzten Verteilungstagsatzung nachgewiesen wird, dass das Verfahren zur Rechtfertigung der Vormerkung sich im Zuge befindet, oder wenn zu dieser Zeit die Frist für die Einleitung dieses Verfahrens noch nicht abgelaufen ist\.
 
 ### § 229 EO — Verteilungsbeschluss
 
@@ -3071,26 +3071,26 @@ Bücherliche Vormerkungen sind nur dann zu berücksichtigen, wenn spätestens be
 
 ### § 238 EO — Liegenschaftsanteile und Baurechte
 
-Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die Zwangsversteigerung von Liegenschaften auch auf einzelne Liegenschaftsanteile, Superädifikate und Baurechte anzuwenden\.
+> Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die Zwangsversteigerung von Liegenschaften auch auf einzelne Liegenschaftsanteile, Superädifikate und Baurechte anzuwenden\.
 
 ### § 239 EO — Rekurs
 
 > `(1)` Ein Rekurs findet nicht statt gegen Beschlüsse, durch welche:
-> 
+>
 >> `1.` Wiederkaufsberechtigte und Pfandgläubiger von der Bewilligung der Versteigerung verständigt werden oder die bücherliche Anmerkung der Einleitung des Versteigerungsverfahrens angeordnet wird;
-> 
+>
 >> `2.` gemäß §§ 134 und 140 die Beschreibung und Schätzung der zu versteigernden Liegenschaft und des Liegenschaftszubehörs angeordnet wird; die Zahl der zur Schätzung beizuziehenden Sachverständigen bestimmt und die Sachverständigen ernannt werden;
-> 
+>
 >> `3.` zufolge § 142 bestimmt wird, dass eine neuerliche Beschreibung oder Schätzung nicht stattzufinden habe;
-> 
+>
 >> `4.` der Versteigerungstermin bestimmt wird;
-> 
+>
 >> `5.` nach § 190 die Verwaltung der versteigerten Liegenschaft angeordnet wird;
-> 
+>
 >> `6.` die Aufschiebung der Schätzungsvornahme im Sinne des § 156 verfügt wird;
-> 
+>
 >> `7.` zu den Bewertungen im Meistbotsverteilungsverfahren Sachverständige beigezogen werden;
-> 
+>
 >> `8.` wegen rechtskräftiger Einstellung oder wegen Durchführung des Versteigerungsverfahrens die Löschung der dieses Verfahren betreffenden bücherlichen Anmerkungen verfügt wird\.
 
 > `(2)` Gegen die während des Versteigerungstermins und während der Verteilungstagsatzung gefassten und verkündeten Beschlüsse ist ein abgesonderter Rekurs nicht zulässig\.
@@ -3102,7 +3102,7 @@ Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die Zwang
 
 ### § 241 EO — Zwangsverwaltung – unmittelbar zu berichtigende Auslagen
 
-Zu den nach § 120 vom Verwalter aus den Erträgnissen unmittelbar zu berichtigenden Auslagen gehören insbesondere auch:
+> Zu den nach § 120 vom Verwalter aus den Erträgnissen unmittelbar zu berichtigenden Auslagen gehören insbesondere auch:
 
 > `1.` die während der Zwangsverwaltung fällig werdenden und die aus dem letzten Jahr vor Bewilligung der Zwangsverwaltung rückständigen Beträge an Revierstollengebühren und an jährlichen Leistungen an den Besitzer der Oberfläche;
 
@@ -3116,7 +3116,7 @@ Zu den nach § 120 vom Verwalter aus den Erträgnissen unmittelbar zu berichtig
 
 ### § 243 EO — Fristen
 
-Die Einhaltung der in § 148 Z 2 und § 188 Abs\. 4 vorgesehenen Fristen sowie der in § 140 Abs\. 1 und § 167 Abs\. 2 bestimmten Zwischenfristen ist nicht erforderlich\.
+> Die Einhaltung der in § 148 Z 2 und § 188 Abs\. 4 vorgesehenen Fristen sowie der in § 140 Abs\. 1 und § 167 Abs\. 2 bestimmten Zwischenfristen ist nicht erforderlich\.
 
 ### § 244 EO — Geringstes Gebot
 
@@ -3126,11 +3126,11 @@ Die Einhaltung der in § 148 Z 2 und § 188 Abs\. 4 vorgesehenen Fristen so
 
 ### § 245 EO — Zwangsversteigerung eines außer Betrieb befindlichen und unfahrbaren Bergbaues
 
-Wird die Zwangsversteigerung eines außer Betrieb befindlichen und unfahrbaren Bergbaues beantragt, so ist der Betrag der Forderung, zu Gunsten deren Exekution geführt wird, der Versteigerung als Ausrufspreis zugrunde zu legen\.
+> Wird die Zwangsversteigerung eines außer Betrieb befindlichen und unfahrbaren Bergbaues beantragt, so ist der Betrag der Forderung, zu Gunsten deren Exekution geführt wird, der Versteigerung als Ausrufspreis zugrunde zu legen\.
 
 ### § 246 EO — Verteilung
 
-Bei Verteilung des durch die Versteigerung einer Bergwerksberechtigung oder eines anderen Gegenstandes des Bergwerkseigentums samt den in § 146 MinroG genannten Gegenständen erzielten Erlöses sind vor den in § 216 Abs\. 1 Z 4 bezeichneten Forderungen aus der Masse in der hier bezeichneten Ordnung zu bezahlen:
+> Bei Verteilung des durch die Versteigerung einer Bergwerksberechtigung oder eines anderen Gegenstandes des Bergwerkseigentums samt den in § 146 MinroG genannten Gegenständen erzielten Erlöses sind vor den in § 216 Abs\. 1 Z 4 bezeichneten Forderungen aus der Masse in der hier bezeichneten Ordnung zu bezahlen:
 
 > `1.` die aus dem letzten Jahr vor dem Tag der Erteilung des Zuschlags rückständigen Beträge an Lohn und anderen Arbeitseinkommen der beim Betrieb des versteigerten Bergbauobjekts tätigen Personen;
 
@@ -3140,7 +3140,7 @@ Bei Verteilung des durch die Versteigerung einer Bergwerksberechtigung oder eine
 
 ### § 247 EO — Zustellung
 
-Mit Ausnahme des eine Exekution bewilligenden Beschlusses können alle Zustellungen an Bergbauunternehmer oder Bergbauberechtigte, welche im Laufe einer auf Gegenstände des Bergwerkseigentums geführten Exekution vorkommen, an den zur Besorgung der Verwaltung des Bergbaues bestellten Bevollmächtigten bewirkt werden\.
+> Mit Ausnahme des eine Exekution bewilligenden Beschlusses können alle Zustellungen an Bergbauunternehmer oder Bergbauberechtigte, welche im Laufe einer auf Gegenstände des Bergwerkseigentums geführten Exekution vorkommen, an den zur Besorgung der Verwaltung des Bergbaues bestellten Bevollmächtigten bewirkt werden\.
 
 ## Zweiter Titel
 
@@ -3162,13 +3162,13 @@ Mit Ausnahme des eine Exekution bewilligenden Beschlusses können alle Zustellun
 ### § 249a EO — Verbindung mit Exekution auf Einkommensbezüge
 
 > `(1)` Ist eine Exekution auf eine Gehaltsforderung oder andere regelmäßig wiederkehrende Geldleistungen anhängig, so ist zur Hereinbringung derselben Forderung eine Exekution auf bewegliche Sachen erst dann zu vollziehen, wenn
-> 
+>
 >> `1.` die Exekution nach § 295 erfolglos geblieben ist, weil der Dachverband der Sozialversicherungsträger die Anfrage des Gerichts nach § 295 nicht positiv beantwortet hat oder einen möglichen Drittschuldner bekanntgegeben hat, gegenüber dem der Gläubiger auf die Pfändung verzichtet hat, oder
-> 
+>
 >> `2.` der Drittschuldner in seiner Erklärung die gepfändete Forderung nicht als begründet anerkannt oder trotz Auftrags keine Erklärung abgegeben hat oder
-> 
+>
 >> `3.` offenkundig ist, dass die hereinzubringende Forderung nicht innerhalb eines Jahres durch die Einziehung der gepfändeten Forderung getilgt werden kann, oder
-> 
+>
 >> `4.` der betreibende Gläubiger den Vollzug der Exekution auf bewegliche Sachen nach Erhalt der Erklärung des Drittschuldners beantragt\.
 
 > `(2)` Ein im Rahmen eines erweiterten Exekutionspaketes bestellter Verwalter kann die Exekution auf bewegliche Sachen auch dann vollziehen, wenn die Voraussetzungen des Abs\. 1 nicht vorliegen\.
@@ -3186,23 +3186,23 @@ Mit Ausnahme des eine Exekution bewilligenden Beschlusses können alle Zustellun
 ### § 250 EO — Unpfändbare Sachen
 
 > `(1)` Unpfändbar sind
-> 
+>
 >> `1.` die dem persönlichen Gebrauch oder dem Haushalt dienenden Gegenstände, soweit sie einer bescheidenen Lebensführung des Verpflichteten und der mit ihm im gemeinsamen Haushalt lebenden Familienmitglieder entsprechen oder wenn ohne weiteres ersichtlich ist, dass durch deren Verwertung nur ein Erlös erzielt werden würde, der zum Wert außer allem Verhältnis steht;
-> 
+>
 >> `2.` bei Personen, die aus persönlichen Leistungen ihren Erwerb ziehen, sowie bei Kleinunternehmern die zur Berufsausübung bzw\. persönlichen Fortsetzung der Erwerbstätigkeit erforderlichen Gegenstände sowie nach Wahl des Verpflichteten bis zum Wert von 750 Euro die zur Aufarbeitung bestimmten Rohmaterialien;
-> 
+>
 >> `3.` die für den Verpflichteten und die mit ihm im gemeinsamen Haushalt lebenden Familienmitglieder auf vier Wochen erforderlichen Nahrungsmittel und Heizstoffe;
-> 
+>
 >> `4.` nicht zur Veräußerung bestimmte Haustiere, zu denen eine gefühlsmäßige Bindung besteht, sowie eine Milchkuh oder nach Wahl des Verpflichteten zwei Schweine, Ziegen oder Schafe, wenn diese Tiere für die Ernährung des Verpflichteten oder der mit ihm im gemeinsamen Haushalt lebenden Familienmitglieder erforderlich sind, ferner die Futter\- und Streuvorräte auf vier Wochen;
-> 
+>
 >> `5.` bei Personen, deren Geldbezug durch Gesetz unpfändbar oder beschränkt pfändbar ist, der Teil des vorgefundenen Bargelds, der dem unpfändbaren, auf die Zeit von der Vornahme der Pfändung bis zum nächsten Zahlungstermin des Bezugs entfallenden Einkommen entspricht;
-> 
+>
 >> `6.` die zur Vorbereitung eines Berufs erforderlichen Gegenstände sowie die Lernbehelfe, die zum Gebrauch des Verpflichteten und seiner im gemeinsamen Haushalt mit ihm lebenden Familienmitglieder in der Schule bestimmt sind;
-> 
+>
 >> `7.` die zum Betrieb einer Apotheke unentbehrlichen Geräte, Gefäße und Warenvorräte, unbeschadet der Zulässigkeit der Zwangsverwaltung dieses Betriebs;
-> 
+>
 >> `8.` Hilfsmittel zum Ausgleich einer körperlichen, geistigen oder psychischen Behinderung oder einer Sinnesbehinderung und Hilfsmittel zur Pflege des Verpflichteten oder der mit ihm im gemeinsamen Haushalt lebenden Familienmitglieder sowie Therapeutika und Hilfsgeräte, die im Rahmen einer medizinischen Therapie benötigt werden;
-> 
+>
 >> `9.` Familienbilder mit Ausnahme der Rahmen, Briefe und andere Schriften sowie der Ehering des Verpflichteten\.
 
 > `(2)` Das Vollstreckungsorgan hat Gegenstände geringen Werts auch dann nicht zu pfänden, wenn offenkundig ist, dass die Fortsetzung oder Durchführung der Exekution einen die Kosten dieser Exekution übersteigenden Ertrag nicht ergeben wird\.
@@ -3210,9 +3210,9 @@ Mit Ausnahme des eine Exekution bewilligenden Beschlusses können alle Zustellun
 ### § 251 EO — Weitere unpfändbare Sachen
 
 > `(1)` Unpfändbar sind weiters
-> 
+>
 >> `1.` Gegenstände, die zur Ausübung des Gottesdienstes einer gesetzlich anerkannten Kirche oder Religionsgesellschaft verwendet werden,
-> 
+>
 >> `2.` Kreuzpartikel und Reliquien mit Ausnahme ihrer Fassung\.
 
 > `(2)` Bei einer Exekution auf die Fassung von Kreuzpartikeln und Reliquien darf die Authentika nicht verletzt werden\.
@@ -3235,28 +3235,28 @@ Mit Ausnahme des eine Exekution bewilligenden Beschlusses können alle Zustellun
 
 ### § 252a EO — Vollzugszeit
 
-Bei Festlegung der Vollzugszeit hat das Vollstreckungsorgan insbesondere darauf Bedacht zu nehmen, wann der Verpflichtete am wahrscheinlichsten anzutreffen ist\.
+> Bei Festlegung der Vollzugszeit hat das Vollstreckungsorgan insbesondere darauf Bedacht zu nehmen, wann der Verpflichtete am wahrscheinlichsten anzutreffen ist\.
 
 ### § 252b EO — Vollzugsversuche
 
-Kann beim Vollzugsversuch der Vollzugsort nicht betreten werden und ist nicht auszuschließen, dass sich dort der Verpflichtete oder Vermögensteile, auf die Exekution geführt werden soll, befinden, so sind zwei weitere Versuche durchzuführen\.
+> Kann beim Vollzugsversuch der Vollzugsort nicht betreten werden und ist nicht auszuschließen, dass sich dort der Verpflichtete oder Vermögensteile, auf die Exekution geführt werden soll, befinden, so sind zwei weitere Versuche durchzuführen\.
 
 ### § 252c EO — Weitere Vollzüge
 
-Das Vollstreckungsorgan hat Vollzüge durchzuführen, solange sie erfolgversprechend sind, insbesondere Zahlung auch nur eines Teils der betriebenen Forderung zu erwarten ist\.
+> Das Vollstreckungsorgan hat Vollzüge durchzuführen, solange sie erfolgversprechend sind, insbesondere Zahlung auch nur eines Teils der betriebenen Forderung zu erwarten ist\.
 
 ### § 252d EO — Bericht des Vollstreckungsorgans
 
 > `(1)` Das Vollstreckungsorgan hat dem Gericht, dem Verpflichteten und dem betreibenden Gläubiger zu berichten, wenn
-> 
+>
 >> `1.` die hereinzubringende Forderung vom Verpflichteten bezahlt wurde oder
-> 
+>
 >> `2.` kein Vollzugsort erhoben werden konnte oder
-> 
+>
 >> `3.` keine pfändbaren Gegenstände vorgefunden wurden und weitere Vollzugsversuche nicht erfolgversprechend sind oder
-> 
+>
 >> `4.` das Verkaufsverfahren abgeschlossen ist oder
-> 
+>
 >> `5.` das Gericht dies begehrt, etwa weil der Bericht für eine von ihm zu fällende Entscheidung wesentlich ist\.
 
 > `(2)` Das Vollstreckungsorgan hat auch spätestens vier Monate nach Erhalt des Vollzugsauftrags über den Stand des Verfahrens zu berichten\. Wurde dem betreibenden Gläubiger innerhalb dieser Frist der Vollzug der Pfändung mitgeteilt und dem Gericht das Pfändungsprotokoll vorgelegt, so ist erst nach sechs Monaten über den Stand des Verfahrens zu berichten\. Nach Ablauf von vier bzw\. sechs Monaten ist monatlich zu berichten\.
@@ -3271,11 +3271,11 @@ Das Vollstreckungsorgan hat Vollzüge durchzuführen, solange sie erfolgversprec
 > `(3)` Ein Vollzugsversuch ist ergebnislos, wenn keine pfändbaren Gegenstände vorgefunden wurden und weitere Vollzugsversuche nicht erfolgversprechend sind\.
 
 > `(4)` Ein Vollzugsversuch ist insbesondere dann erfolgversprechend, wenn
-> 
+>
 >> `1.` der betreibende Gläubiger einen neuen Vollzugsort bekanntgibt oder
-> 
+>
 >> `2.` er glaubhaft macht, dass beim Verpflichteten zwischenzeitig pfändbare Gegenstände vorhanden sind, oder
-> 
+>
 >> `3.` die Voraussetzungen zur Aufnahme eines Vermögensverzeichnisses nach § 47 vorliegen\.
 
 ### § 253 EO — Pfändung
@@ -3300,7 +3300,7 @@ Das Vollstreckungsorgan hat Vollzüge durchzuführen, solange sie erfolgversprec
 
 ### § 253b EO — Kostenersatz für die Beteiligung
 
-Der betreibende Gläubiger hat keinen Anspruch auf Ersatz der Kosten für die Beteiligung am Exekutionsvollzug, wenn die hereinzubringende Forderung an Kapital 2 700 Euro nicht übersteigt\. Prozesskosten oder Nebengebühren sind nur dann zu berücksichtigen, wenn sie allein Gegenstand des durchzusetzenden Anspruchs sind\.
+> Der betreibende Gläubiger hat keinen Anspruch auf Ersatz der Kosten für die Beteiligung am Exekutionsvollzug, wenn die hereinzubringende Forderung an Kapital 2 700 Euro nicht übersteigt\. Prozesskosten oder Nebengebühren sind nur dann zu berücksichtigen, wenn sie allein Gegenstand des durchzusetzenden Anspruchs sind\.
 
 ### § 254 EO — Pfändungsregister und Pfändungsprotokoll
 
@@ -3310,7 +3310,7 @@ Der betreibende Gläubiger hat keinen Anspruch auf Ersatz der Kosten für die Be
 
 ### § 255 EO — Auskunft aus dem Pfändungsregister
 
-Auskünfte aus dem Pfändungsregister sind allen Personen zu erteilen, welche glaubhaft machen, dass sie diese Auskünfte behufs Einleitung eines Rechtsstreites oder einer Exekution, zur Geltendmachung von Einwendungen gegen eine bereits eingeleitete Exekution oder aus anderen wichtigen Gründen bedürfen\.
+> Auskünfte aus dem Pfändungsregister sind allen Personen zu erteilen, welche glaubhaft machen, dass sie diese Auskünfte behufs Einleitung eines Rechtsstreites oder einer Exekution, zur Geltendmachung von Einwendungen gegen eine bereits eingeleitete Exekution oder aus anderen wichtigen Gründen bedürfen\.
 
 ### § 256 EO — Erwerb des Pfandrechts
 
@@ -3351,7 +3351,7 @@ Auskünfte aus dem Pfändungsregister sind allen Personen zu erteilen, welche gl
 
 ### § 260 EO — Bestellung des Verwahrers
 
-Der Verwahrer wird vom Vollstreckungsorgan bestellt\. Sofern der Verwahrer ohne Zustimmung des Verpflichteten und der betreibenden Gläubiger bestellt wurde, sind sie unter Bekanntgabe des Namens des Verwahrers von dessen Ernennung zu verständigen\. Unter Darlegung geeigneter Gründe kann von ihnen jederzeit die Ernennung eines anderen Verwahrers beim Exekutionsgericht beantragt werden\.
+> Der Verwahrer wird vom Vollstreckungsorgan bestellt\. Sofern der Verwahrer ohne Zustimmung des Verpflichteten und der betreibenden Gläubiger bestellt wurde, sind sie unter Bekanntgabe des Namens des Verwahrers von dessen Ernennung zu verständigen\. Unter Darlegung geeigneter Gründe kann von ihnen jederzeit die Ernennung eines anderen Verwahrers beim Exekutionsgericht beantragt werden\.
 
 ### § 261 EO — Vorgefundenes Bargeld
 
@@ -3367,19 +3367,19 @@ Der Verwahrer wird vom Vollstreckungsorgan bestellt\. Sofern der Verwahrer ohne 
 
 ### § 262 EO — Pfändung bei Dritten
 
-Die gleichen Vorschriften gelten für die Pfändung und Verwahrung der beweglichen körperlichen Sachen des Verpflichteten, die sich in der Gewahrsame des betreibenden Gläubigers oder einer zu deren Herausgabe bereiten dritten Person befinden\.
+> Die gleichen Vorschriften gelten für die Pfändung und Verwahrung der beweglichen körperlichen Sachen des Verpflichteten, die sich in der Gewahrsame des betreibenden Gläubigers oder einer zu deren Herausgabe bereiten dritten Person befinden\.
 
 ### § 263 EO — Einschränkung der Pfändung
 
-Hat der betreibende Gläubiger eine bewegliche körperliche Sache des Verpflichteten in seiner Gewahrsame, an der ihm ein Pfandrecht oder ein Zurückbehaltungsrecht für die zu vollstreckende Forderung zusteht, so kann der Verpflichtete, soweit diese Forderung durch die Sache gedeckt ist, beim Exekutionsgericht die Einschränkung der Pfändung auf diese Sache beantragen\. Besteht das Pfand\- oder Zurückbehaltungsrecht zugleich für eine andere Forderung des betreibenden Gläubigers, so ist dem Antrag nur stattzugeben, wenn auch diese Forderung durch die Sache gedeckt ist\.
+> Hat der betreibende Gläubiger eine bewegliche körperliche Sache des Verpflichteten in seiner Gewahrsame, an der ihm ein Pfandrecht oder ein Zurückbehaltungsrecht für die zu vollstreckende Forderung zusteht, so kann der Verpflichtete, soweit diese Forderung durch die Sache gedeckt ist, beim Exekutionsgericht die Einschränkung der Pfändung auf diese Sache beantragen\. Besteht das Pfand\- oder Zurückbehaltungsrecht zugleich für eine andere Forderung des betreibenden Gläubigers, so ist dem Antrag nur stattzugeben, wenn auch diese Forderung durch die Sache gedeckt ist\.
 
 ### § 264 EO — Aufschiebung des Verkaufs
 
-Der Verkauf ist, vorbehaltlich der Anwendung der §§ 14, 27 Abs\. 1 und 41 Abs\. 2, aufzuschieben, wenn zur Hereinbringung derselben Forderung Exekution auf wiederkehrende Geldforderungen geführt wird und deren Erlös voraussichtlich ausreichen wird, die vollstreckbare Forderung samt Nebengebühren im Lauf eines Jahres zu tilgen\. Das gilt nicht, wenn Gegenstand des Verkaufs eine der im § 321 genannten Forderungen ist \(§§ 317 bis 319\)\.
+> Der Verkauf ist, vorbehaltlich der Anwendung der §§ 14, 27 Abs\. 1 und 41 Abs\. 2, aufzuschieben, wenn zur Hereinbringung derselben Forderung Exekution auf wiederkehrende Geldforderungen geführt wird und deren Erlös voraussichtlich ausreichen wird, die vollstreckbare Forderung samt Nebengebühren im Lauf eines Jahres zu tilgen\. Das gilt nicht, wenn Gegenstand des Verkaufs eine der im § 321 genannten Forderungen ist \(§§ 317 bis 319\)\.
 
 ### § 264a EO — Innehalten mit der Anordnung des Verkaufs
 
-Im Fall des § 252c kann das Vollstreckungsorgan für den Zeitraum von erfolgversprechenden Vollzügen, längstens aber für vier Monate, mit der Anordnung des Verkaufs der Pfandgegenstände innehalten\. Dies ist dem betreibenden Gläubiger mitzuteilen\.
+> Im Fall des § 252c kann das Vollstreckungsorgan für den Zeitraum von erfolgversprechenden Vollzügen, längstens aber für vier Monate, mit der Anordnung des Verkaufs der Pfandgegenstände innehalten\. Dies ist dem betreibenden Gläubiger mitzuteilen\.
 
 ### § 265 EO — Wertpapiere einer juristischen Person des öffentlichen Rechts
 
@@ -3404,16 +3404,16 @@ Im Fall des § 252c kann das Vollstreckungsorgan für den Zeitraum von erfolgve
 ### § 268 EO — Freihandverkauf
 
 > `(1)` Aus freier Hand sind zu verkaufen:
-> 
+>
 >> `1.` Gegenstände, die einen Börsenpreis haben, durch Vermittlung eines Handelsmaklers, Handelskommissionärs oder Vollstreckungsorgans zum Börsenpreis; dem Bericht über den Verkauf ist ein amtlicher Nachweis über den Börsenpreis des Verkaufstags und über die etwa bezahlte Maklerprovision und sonstige Auslagen anzuschließen;
-> 
+>
 >> `2.` Wertpapiere\. Lautet ein Wertpapier auf Namen, so hat das Vollstreckungsorgan die Umschreibung auf die Namen des Käufers zu erwirken und alle zum Zweck der Veräußerung erforderlichen urkundlichen Erklärungen mit Rechtswirksamkeit anstelle des Verpflichteten abzugeben\. Wertpapiere können auch durch ein Kreditinstitut verkauft werden\.
 
 > `(2)` Der Verwalter kann bewegliche Sachen unter Berücksichtigung des Schätzwerts verkaufen\. Er hat den beabsichtigten Freihandverkauf, soweit tunlich, für mindestens 14 Tage öffentlich bekanntzumachen\.
 
 ### § 269 EO — Gutgläubiger Eigentumserwerb
 
-Die Bestimmung des § 367 ABGB über den Eigentumserwerb an Sachen, die in einer öffentlichen Versteigerung veräußert werden, gilt auch bei einem Verkauf aus freier Hand\.
+> Die Bestimmung des § 367 ABGB über den Eigentumserwerb an Sachen, die in einer öffentlichen Versteigerung veräußert werden, gilt auch bei einem Verkauf aus freier Hand\.
 
 ### § 270 EO — Öffentliche Versteigerung
 
@@ -3427,16 +3427,16 @@ Die Bestimmung des § 367 ABGB über den Eigentumserwerb an Sachen, die in eine
 
 ### § 271 EO — Sofortkauf vor der Versteigerung
 
-Solange die Versteigerung noch nicht begonnen hat, kann eine gepfändete Sache, die keinen Liebhaberwert hat, unter Entfall der Versteigerung zu einem Preis, der den Schätzwert um ein Viertel übersteigt, verkauft werden\. Wird der Kaufpreis nicht vor der Versteigerung erlegt, so ist die Versteigerung durchzuführen\.“
+> Solange die Versteigerung noch nicht begonnen hat, kann eine gepfändete Sache, die keinen Liebhaberwert hat, unter Entfall der Versteigerung zu einem Preis, der den Schätzwert um ein Viertel übersteigt, verkauft werden\. Wird der Kaufpreis nicht vor der Versteigerung erlegt, so ist die Versteigerung durchzuführen\.“
 
 ### § 272 EO — Versteigerungstermin
 
 > `(1)` Den Versteigerungstermin bestimmt
-> 
+>
 >> `1.` der zur Durchführung einer Versteigerung bestellte Versteigerer,
-> 
+>
 >> `2.` der Leiter der Auktionshalle bei der Versteigerung in einer Auktionshalle oder
-> 
+>
 >> `3.` sonst das mit dem Vollzug der Versteigerung betraute Vollstreckungsorgan\.
 
 > `(2)` Vom Versteigerungstermin und vom Versteigerungsort sind der Verpflichtete und die betreibenden Gläubiger durch Zustellung einer Ausfertigung des Edikts zu verständigen\. Dies kann unterbleiben, soweit dem Verpflichteten und dem betreibenden Gläubiger der Versteigerungstermin und der Versteigerungsort bereits bei der Pfändung bekanntgegeben wurden; die Kenntnisnahme ist zu bestätigen\.
@@ -3446,11 +3446,11 @@ Solange die Versteigerung noch nicht begonnen hat, kann eine gepfändete Sache, 
 > `(1)` Die Versteigerung ist mit Edikt bekannt zu machen\.
 
 > `(2)` Im Edikt sind die zu versteigernden Sachen zu beschreiben; es sind weiters anzugeben
-> 
+>
 >> `1.` der Ort der Versteigerung oder bei einer Versteigerung im Internet die Internet\-Adresse; bei einer Versteigerung am Vollzugsort auch der Name des Verpflichteten,
-> 
+>
 >> `2.` der Zeitpunkt des Beginns der Versteigerung sowie
-> 
+>
 >> `3.` ob, gegebenenfalls wann und wo die zu versteigernden Sachen vor der Versteigerung besichtigt werden können\.
 
 > `(3)` Bei einer Versteigerung im Internet ist der Tag anzugeben, an dem die Versteigerung beginnt, und die Frist, innerhalb der Gebote zulässig sind\.
@@ -3458,9 +3458,9 @@ Solange die Versteigerung noch nicht begonnen hat, kann eine gepfändete Sache, 
 > `(4)` Für die Versteigerung in einem Versteigerungshaus oder einer Auktionshalle kann als Zeitpunkt des Beginns der Versteigerung auch ein solcher festgesetzt werden, von dem ab die Versteigerung von Gegenständen mehrerer Verkaufsverfahren stattfinden wird\. Der Versteigerer oder die Auktionshalle haben den Zeitpunkt des Beginns der Versteigerung dem Exekutionsgericht mitzuteilen\.
 
 > `(5)` Die Bekanntmachung der Versteigerung in der Ediktsdatei kann unterbleiben, wenn
-> 
+>
 >> `1.` vom Versteigerungshaus Mitteilungsblätter aufgelegt werden, die einen größeren Käuferkreis ansprechen, oder
-> 
+>
 >> `2.` bei einer Versteigerung im Internet aufgrund des Kundenkreises zu erwarten ist, dass ein großer Interessentenkreis angesprochen wird\.
 
 ### § 273 EO — Frist zwischen Pfändung und Versteigerung
@@ -3472,39 +3472,39 @@ Solange die Versteigerung noch nicht begonnen hat, kann eine gepfändete Sache, 
 ### § 274 EO — Versteigerungsort
 
 > `(1)` Die Versteigerung kann erfolgen
-> 
+>
 >> `1.` im Internet,
-> 
+>
 >> `2.` im Versteigerungshaus,
-> 
+>
 >> `3.` in der Auktionshalle oder
-> 
+>
 >> `4.` an dem Ort, an dem sich die gepfändeten Gegenstände befinden\.
 
 > `(2)` Das Vollstreckungsorgan bestimmt den Versteigerungsort\. Hiebei ist zu berücksichtigen, wo voraussichtlich der höchste Erlös zu erzielen sein wird und welche Kosten auflaufen werden\.
-> 
+>
 >> `1.` Technische Geräte, wertvolle Bild\- und Tonträger, Zeitschriften, Bücher und Musikinstrumente sind insbesondere im Internet auf der Plattform Justiz\-Auktion\.at zu versteigern\.
-> 
+>
 >> `2.` Bei Gegenständen von großem Wert, bei Gold\- und Silbersachen oder anderen Kostbarkeiten, bei Kunstobjekten, Briefmarken, Münzen, hochwertigen Möbelstücken, Sammlungen und dergleichen kommt insbesondere die Versteigerung in einem Versteigerungshaus oder im Internet in Betracht\.
-> 
+>
 > &nbsp; Bei Versteigerungen über die Plattform Justiz\-Auktion\.at ist kein Versteigerer zu bestellen; bei Versteigerungen auf einer anderen Plattform kann ein Versteigerer bestellt werden\. Diese andere Plattform darf jedoch nur dann herangezogen werden, wenn zu erwarten ist, dass dort offenkundig unter Berücksichtigung der Kosten ein höherer Erlös erzielt werden kann\. Ist offenkundig, dass die Kosten der Überstellung, der Verkaufsverwahrung und der Versteigerung den Erlös der Gegenstände übersteigen, so dürfen die Gegenstände nicht zur Versteigerung überstellt werden\.
 
 > `(3)` Ausgeschlossen von der Aufnahme zum Verkauf in Auktionshallen und Versteigerungshäusern sowie von der Versteigerung im Internet über die Plattform Justiz\-Auktion\.at sind:
-> 
+>
 >> `1.` feuer\- und explosionsgefährliche Sachen sowie Sachen, die gesundheitsschädigende Strahlen aussenden, Gifte,
-> 
+>
 >> `2.` Sachen aus Wohnungen, in denen ansteckende Krankheiten herrschen oder geherrscht haben, solange nicht die vorgeschriebene Desinfektion stattgefunden hat,
-> 
+>
 >> `3.` verunreinigte oder mit Ungeziefer behaftete Sachen vor Durchführung der Reinigung,
-> 
+>
 >> `4.` Sachen, zu deren wenn auch nur teilweisen Unterbringung die Räume des Versteigerungshauses nicht ausreichen,
-> 
+>
 >> `5.` dem raschen Verderben unterliegende Sachen,
-> 
+>
 >> `6.` Tiere und Pflanzen,
-> 
+>
 >> `7.` Schrott, Hadern und sonstiges Altmaterial,
-> 
+>
 >> `8.` pornographisches Material\.
 
 > `(3a)` Von der Versteigerung im Internet über die Plattform Justiz\-Auktion\.at sind überdies Waffen im Sinne des § 1 WaffG ausgeschlossen\.
@@ -3548,11 +3548,11 @@ Solange die Versteigerung noch nicht begonnen hat, kann eine gepfändete Sache, 
 
 ### § 274f EO — Verkaufsverwahrung
 
-Die Auktionshalle und das Versteigerungshaus haben für die ordnungsgemäße Aufbewahrung der übernommenen Sachen zu sorgen\. Werden Sachen während der Aufbewahrung beschädigt oder vernichtet, so ist § 274e Abs\. 2 anzuwenden\.
+> Die Auktionshalle und das Versteigerungshaus haben für die ordnungsgemäße Aufbewahrung der übernommenen Sachen zu sorgen\. Werden Sachen während der Aufbewahrung beschädigt oder vernichtet, so ist § 274e Abs\. 2 anzuwenden\.
 
 ### § 274g EO — Verständigungen
 
-Das Gericht hat der zuständigen Abgabenbehörde oder dem Amt für Betrugsbekämpfung und der Vollstreckungsbehörde, die dem Gericht das Bestehen eines Pfandrechtes nach § 286a Abs\. 2 mitgeteilt hat, das Versteigerungsedikt zuzustellen und diese Behörden von der beabsichtigten Verwertung nach §§ 268, 270 Abs\. 2 und § 280 Abs\. 1 zu verständigen\.
+> Das Gericht hat der zuständigen Abgabenbehörde oder dem Amt für Betrugsbekämpfung und der Vollstreckungsbehörde, die dem Gericht das Bestehen eines Pfandrechtes nach § 286a Abs\. 2 mitgeteilt hat, das Versteigerungsedikt zuzustellen und diese Behörden von der beabsichtigten Verwertung nach §§ 268, 270 Abs\. 2 und § 280 Abs\. 1 zu verständigen\.
 
 ### § 275 EO — Schätzung
 
@@ -3563,11 +3563,11 @@ Das Gericht hat der zuständigen Abgabenbehörde oder dem Amt für Betrugsbekäm
 > `(3)` Gelangen lediglich Gegenstände zur Versteigerung, welche bereits im Sinne des vorstehenden Absatzes abgeschätzt sind, so ist die Versteigerung ohne Beiziehung eines Sachverständigen abzuhalten\.
 
 > `(4)` Die Person des Sachverständigen bestimmt
-> 
+>
 >> `1.` der Leiter der Auktionshalle bei der Versteigerung in einer Auktionshalle,
-> 
+>
 >> `2.` das Versteigerungshaus bei einer Versteigerung in einem Versteigerungshaus und
-> 
+>
 >> `3.` sonst das mit dem Vollzug der Versteigerung betraute Vollstreckungsorgan\.
 
 > `(5)` Zum Sachverständigen darf nur ein allgemein beeideter gerichtlicher Sachverständiger bestimmt werden; bei der Versteigerung von Gegenständen nach § 274 Abs\. 2 in einem Versteigerungshaus auch ein anerkannter, ständig vom Versteigerungshaus zugezogener Experte\. Wohnungseinrichtungsstücke und sonstige Gegenstände minderen und allgemein bekannten Werts sind vom Vollstreckungsorgan zu schätzen\.
@@ -3576,9 +3576,9 @@ Das Gericht hat der zuständigen Abgabenbehörde oder dem Amt für Betrugsbekäm
 ### § 275a EO — Innehalten mit der Versteigerung
 
 > `(1)` Ist das Gericht, bei dem eine Auktionshalle eingerichtet ist, nicht zugleich Exekutionsgericht, so kann der Leiter der Auktionshalle auf Antrag des Verpflichteten mit der Versteigerung innehalten, wenn der Verpflichtete
-> 
+>
 >> `1.` die Zahlung der hereinzubringenden Forderung in Aussicht stellt und
-> 
+>
 >> `2.` zugleich eine entsprechende Sicherheitsleistung erlegt\.
 
 > `(2)` Der Leiter der Auktionshalle hat dem Verpflichteten den Zeitraum mitzuteilen, für den mit der Versteigerung innegehalten wird; dieser Zeitraum darf drei Tage nicht übersteigen\.
@@ -3594,29 +3594,29 @@ Das Gericht hat der zuständigen Abgabenbehörde oder dem Amt für Betrugsbekäm
 ### § 277 EO — Sonderbestimmungen für die Versteigerung im Internet
 
 > `(1)` Die gepfändeten Gegenstände dürfen erst dann im Internet ausgeboten werden, wenn sie
-> 
+>
 >> `1.` geschätzt sind und
-> 
+>
 >> `2.` sich in Verwahrung oder Verkaufsverwahrung befinden oder sonst gewährleistet ist, dass die Gegenstände dem Ersteher übergeben werden können\.
 
 > `(2)` Sind mehrere Gegenstände zu versteigern und ist anzunehmen, dass der erzielte Erlös einiger Gegenstände zur Befriedigung der vollstreckbaren Forderungen sämtlicher mittels Verkaufes Exekution führender Gläubiger und zur Deckung aller Nebengebühren dieser Forderungen sowie der Kosten der Exekution hinreicht, so sind vorerst nur diese zu versteigern; § 279 Abs\. 1 ist nicht anzuwenden\.
 
 > `(3)` Bei der Versteigerung ist anzugeben:
-> 
+>
 >> `1.` der zu versteigernde Gegenstand,
-> 
+>
 >> `2.` das geringste Gebot,
-> 
+>
 >> `3.` der Schätzwert und die im Rahmen der Schätzung überprüfte Betriebstauglichkeit des Gegenstands,
-> 
+>
 >> `4.` eine Frist, bis zu welchem Zeitpunkt Gebote zulässig sind\. Diese Frist darf sieben Tage nicht unter\- und vier Wochen nicht überschreiten,
-> 
+>
 >> `5.` der Hinweis, ob der Ersteher eine Versendung des Gegenstands auf seine Kosten verlangen kann,
-> 
+>
 >> `6.` die Adresse des Lagerungsorts des Gegenstandes und ein Hinweis, ob und wann er besichtigt werden kann,
-> 
+>
 >> `7.` ein Hinweis auf den Gewährleistungsausschluss und darauf, dass es kein Rücktrittsrecht gibt und dass die Versendung auf Gefahr des Erstehers erfolgt, sowie
-> 
+>
 >> `8.` ein Hinweis auf die Möglichkeit eines Sofortkaufs und den dafür nach § 277a zu zahlenden Preis oder ein Hinweis auf den Ausschluss eines Sofortkaufs\.
 
 > `(4)` Der Bekanntmachung ist eine Beschreibung und zumindest ein Foto des Pfandstücks und ein vorhandenes schriftliches Schätzgutachten anzuschließen\.
@@ -3625,11 +3625,11 @@ Das Gericht hat der zuständigen Abgabenbehörde oder dem Amt für Betrugsbekäm
 
 ### § 277a EO — Sofortkauf
 
-Solange kein Gebot abgegeben wurde, kann bei einer Versteigerung im Internet der Gegenstand unter Entfall der Versteigerung zu einem Preis, der den Schätzwert um ein Viertel übersteigt, erworben werden\. Dem Käufer ist der Zuschlag zu erteilen\. Ein Sofortkauf kann vom Vollstreckungsorgan ausgeschlossen werden\. Dies ist den Parteien bei Übermittlung des Versteigerungsediktes bekannt zu geben\.
+> Solange kein Gebot abgegeben wurde, kann bei einer Versteigerung im Internet der Gegenstand unter Entfall der Versteigerung zu einem Preis, der den Schätzwert um ein Viertel übersteigt, erworben werden\. Dem Käufer ist der Zuschlag zu erteilen\. Ein Sofortkauf kann vom Vollstreckungsorgan ausgeschlossen werden\. Dies ist den Parteien bei Übermittlung des Versteigerungsediktes bekannt zu geben\.
 
 ### § 277b EO — Abbruch der Versteigerung
 
-Bei Einstellung oder Aufschiebung der Exekution ist die Versteigerung im Internet abzubrechen, solange kein Gebot abgegeben wurde; danach nur bei einer Einstellung oder Aufschiebung aufgrund eines Widerspruchs Dritter\. Der Versteigerer hat in diesen Fällen einem Ersuchen des Gerichts oder Vollstreckungsorgans auf Abbruch der Versteigerung zu entsprechen\.
+> Bei Einstellung oder Aufschiebung der Exekution ist die Versteigerung im Internet abzubrechen, solange kein Gebot abgegeben wurde; danach nur bei einer Einstellung oder Aufschiebung aufgrund eines Widerspruchs Dritter\. Der Versteigerer hat in diesen Fällen einem Ersuchen des Gerichts oder Vollstreckungsorgans auf Abbruch der Versteigerung zu entsprechen\.
 
 ### § 278 EO — Erfüllung des Meistbots
 
@@ -3641,7 +3641,7 @@ Bei Einstellung oder Aufschiebung der Exekution ist die Versteigerung im Interne
 
 ### § 278a EO — Zuschlag bei Versteigerung im Internet
 
-Nach Ablauf der Versteigerungsfrist ist der Zuschlag demjenigen zu erteilen, der bei Ablauf dieser Frist das höchste Anbot abgegeben hat\. Der Ersteher ist von der Zuschlagserteilung zu verständigen\.
+> Nach Ablauf der Versteigerungsfrist ist der Zuschlag demjenigen zu erteilen, der bei Ablauf dieser Frist das höchste Anbot abgegeben hat\. Der Ersteher ist von der Zuschlagserteilung zu verständigen\.
 
 ### § 279 EO — Schluss der Versteigerung
 
@@ -3652,7 +3652,7 @@ Nach Ablauf der Versteigerungsfrist ist der Zuschlag demjenigen zu erteilen, der
 
 ### § 279a EO — Unauffindbarkeit der Pfandsachen
 
-Werden die gepfändeten Gegenstände bei der Überstellung oder der Versteigerung an Ort und Stelle nicht vorgefunden, so hat der Verpflichtete vor Gericht oder vor dem Vollstreckungsorgan anzugeben, wo sich diese Sachen befinden\. Das Vollstreckungsorgan hat den Verpflichteten hiezu aufzufordern\. § 47 Abs\. 2 über die Belehrung, die Protokolleinsicht und die Bestätigung durch den Verpflichteten sowie § 48 und § 346a Abs\. 2 sind anzuwenden\. Kann dadurch nicht festgestellt werden, wo sich die Sachen befinden, oder ist der Verpflichtete unter Mitnahme der Sachen verzogen und kann das Vollstreckungsorgan durch zumutbare Erhebungen nicht in Erfahrung bringen, wo sich der Verpflichtete aufhält, so wird die Exekution hinsichtlich der nicht vorgefundenen Sachen erst fortgesetzt, sobald der Gläubiger bekannt gibt, wo sich diese Gegenstände befinden\. Dies hat das Vollstreckungsorgan dem betreibenden Gläubiger mitzuteilen\.
+> Werden die gepfändeten Gegenstände bei der Überstellung oder der Versteigerung an Ort und Stelle nicht vorgefunden, so hat der Verpflichtete vor Gericht oder vor dem Vollstreckungsorgan anzugeben, wo sich diese Sachen befinden\. Das Vollstreckungsorgan hat den Verpflichteten hiezu aufzufordern\. § 47 Abs\. 2 über die Belehrung, die Protokolleinsicht und die Bestätigung durch den Verpflichteten sowie § 48 und § 346a Abs\. 2 sind anzuwenden\. Kann dadurch nicht festgestellt werden, wo sich die Sachen befinden, oder ist der Verpflichtete unter Mitnahme der Sachen verzogen und kann das Vollstreckungsorgan durch zumutbare Erhebungen nicht in Erfahrung bringen, wo sich der Verpflichtete aufhält, so wird die Exekution hinsichtlich der nicht vorgefundenen Sachen erst fortgesetzt, sobald der Gläubiger bekannt gibt, wo sich diese Gegenstände befinden\. Dies hat das Vollstreckungsorgan dem betreibenden Gläubiger mitzuteilen\.
 
 ### § 280 EO — Neuerlicher Verwertungsversuch
 
@@ -3680,7 +3680,7 @@ Werden die gepfändeten Gegenstände bei der Überstellung oder der Versteigerun
 
 ### § 281b EO — Nicht abgeholte Gegenstände
 
-Ist der Ersteher bei einer Versteigerung im Internet mit der Abholung oder Bezahlung des Meistbots und der Transportkosten säumig, so ist der Gegenstand neuerlich auszubieten\. § 278 Abs\. 3 zweiter und dritter Satz sind anzuwenden\.
+> Ist der Ersteher bei einer Versteigerung im Internet mit der Abholung oder Bezahlung des Meistbots und der Transportkosten säumig, so ist der Gegenstand neuerlich auszubieten\. § 278 Abs\. 3 zweiter und dritter Satz sind anzuwenden\.
 
 ### § 282 EO — Einstellung des Verkaufsverfahrens
 
@@ -3735,13 +3735,13 @@ Ist der Ersteher bei einer Versteigerung im Internet mit der Abholung oder Bezah
 > `(1)` Das Exekutionsgericht hat bei der Verteilung des Erlöses unter sinngemäßer Anwendung der §§ 212 bis 214, 219 bis 221, 223 Abs\. 3, 229, 231 bis 234 und 236 vorzugehen\.
 
 > `(2)` Aus der Verteilungsmasse sind zu berichtigen
-> 
+>
 >> `1.` die Entlohung des Verwalters und die vom Verkaufserlös abhängige Vergütung des Gerichtsvollziehers, hierauf
-> 
+>
 >> `2.` die Kosten der Schätzung, der Überstellung und der Versteigerung und sodann
-> 
+>
 >> `3.` die rechtzeitig angemeldeten Pfandforderungen sowie die vollstreckbaren Forderungen, zu deren Hereinbringung die Versteigerung bewilligt wurde\.
-> 
+>
 > &nbsp; Der Betrag der Forderungen ist nach der Anmeldung und deren Belegen sowie nach den gerichtlichen Exekutionsbewilligungen zu berechnen\.
 
 > `(3)` Unbeschadet des Vorranges, den Zölle, Verbrauchs\- und andere öffentliche Abgaben und Vermögensstrafen genießen oder der für einzelne Forderungen durch den Bestand eines gesetzlichen oder vertragsmäßigen Pfandrechtes begründet wird, ist für die Bezahlung der oben bezeichneten Forderungen die nach der gerichtlichen Pfändung zu beurteilende Rangordnung entscheidend\.
@@ -3762,11 +3762,11 @@ Ist der Ersteher bei einer Versteigerung im Internet mit der Abholung oder Bezah
 
 ### § 287 EO — Ausfolgung des Erlöses
 
-Im Verteilungsbeschluss sind die für den Erlös bezugsberechtigten Personen und die diesen auszufolgenden Beträge anzugeben\. Diese Beträge sind nach Eintritt der Rechtskraft den bezugsberechtigten Personen auszufolgen\. Diese Verfügungen können auch gesondert getroffen werden, insbesondere, wenn hinsichtlich einzelner Posten die Erledigung im Rechtsweg abgewartet werden muss\.
+> Im Verteilungsbeschluss sind die für den Erlös bezugsberechtigten Personen und die diesen auszufolgenden Beträge anzugeben\. Diese Beträge sind nach Eintritt der Rechtskraft den bezugsberechtigten Personen auszufolgen\. Diese Verfügungen können auch gesondert getroffen werden, insbesondere, wenn hinsichtlich einzelner Posten die Erledigung im Rechtsweg abgewartet werden muss\.
 
 ### § 288 EO — Erlös aus Freihandverkauf
 
-Die Bestimmungen der §§ 283 bis 287 haben für die Verwendung des Erlöses sinngemäß zu gelten, der bei einem Verkaufe aus freier Hand erzielt wurde\. Das Begehren um Kostenersatz muss in diesem Fall vom betreibenden Gläubiger bei sonstigem Ausschlusse innerhalb der im § 74 Abs\. 2, festgesetzten Frist gestellt werden\. Vor Ablauf dieser Frist darf dem Verpflichteten von dem erzielten Erlöse nichts ausgefolgt werden\.
+> Die Bestimmungen der §§ 283 bis 287 haben für die Verwendung des Erlöses sinngemäß zu gelten, der bei einem Verkaufe aus freier Hand erzielt wurde\. Das Begehren um Kostenersatz muss in diesem Fall vom betreibenden Gläubiger bei sonstigem Ausschlusse innerhalb der im § 74 Abs\. 2, festgesetzten Frist gestellt werden\. Vor Ablauf dieser Frist darf dem Verpflichteten von dem erzielten Erlöse nichts ausgefolgt werden\.
 
 ## Zweite Abteilung
 
@@ -3777,13 +3777,13 @@ Die Bestimmungen der §§ 283 bis 287 haben für die Verwendung des Erlöses si
 > `(1)` Die Exekution auf Geldforderungen des Verpflichteten erfolgt durch Pfändung und Überweisung an den betreibenden Gläubiger oder durch Pfändung und Einziehung durch den Verwalter\. Wenn das Gericht auf Antrag des betreibenden Gläubigers nichts anderes bestimmt, erfasst die Exekution auf Geldforderungen alle Forderungen des Verpflichteten, außer die nach § 321\.
 
 > `(2)` Es ist ein Verwalter zu bestellen, der – wenn es rechtzeitig möglich ist, unter Zuziehung des Verpflichteten – unverzüglich pfändbare Forderungen zu ermitteln hat\. Von der Bestellung ist abzusehen, wenn der betreibende Gläubiger Exekution nur
-> 
+>
 >> `1.` auf einzelne im Antrag genannte Forderungen oder
-> 
+>
 >> `2.` auf Geldforderungen bei unbekanntem Drittschuldner nach § 295 oder
-> 
+>
 >> `3.` auf einzelne im Antrag genannte Forderungen und auf Geldforderungen bei unbekanntem Drittschuldner nach § 295
-> 
+>
 > &nbsp; führt\.
 
 > `(3)` Bezüge im Sinne dieser Abteilung sind regelmäßig wiederkehrende Geldleistungen, insbesondere Einkünfte aus einem Arbeitsverhältnis oder sonstige wiederkehrende Leistungen mit Einkommensersatzfunktion\.
@@ -3791,35 +3791,35 @@ Die Bestimmungen der §§ 283 bis 287 haben für die Verwendung des Erlöses si
 ### § 290 EO — Unpfändbare Forderungen
 
 > `(1)` Unpfändbar sind Forderungen auf folgende Leistungen:
-> 
+>
 >> `1.` Aufwandsentschädigungen, soweit sie den in Ausübung der Berufstätigkeit tatsächlich erwachsenden Mehraufwand abgelten, insbesondere für auswärtige Arbeiten, für Arbeitsmaterial und Arbeitsgerät, das vom Arbeitnehmer selbst beigestellt wird, sowie für Kauf und Reinigen typischer Arbeitskleidung;
-> 
+>
 >> `2.` gesetzliche Beihilfen und Zulagen, die zur Abdeckung des Mehraufwands wegen körperlicher oder geistiger Behinderung, Hilflosigkeit oder Pflegebedürftigkeit zu gewähren sind, wie zB das Pflegegeld;
-> 
+>
 >> `3.` Beihilfen des Arbeitsmarktservice, soweit sie nicht unter § 290a Abs\. 1 Z 8 fallen, sowie einem Versehrten gewährte berufliche Maßnahmen der Rehabilitation, die die Fortsetzung der Erwerbstätigkeit ermöglichen;
-> 
+>
 >> `4.` Ersatz der Kosten, die der Arbeitnehmer für seine Vertretung aufwenden muss;
-> 
+>
 >> `5.` Beiträge für Bestattungskosten;
-> 
+>
 >> `6.` Rückersätze und Kostenvergütungen für Sachleistungsansprüche sowie Kostenersätze aus der gesetzlichen Sozialversicherung und Entschädigungen für aufgewendete Heilungskosten;
-> 
+>
 >> `7.` Leistungen aus dem Unterstützungsfonds und besondere Unterstützungen nach den Sozialversicherungsgesetzen;
-> 
+>
 >> `8.` gesetzliche Beihilfen zur Zahlung des Mietzinses oder zur Deckung des sonstigen Wohnungsaufwands;
-> 
+>
 >> `9.` gesetzliche Familienbeihilfe einschließlich Mehrkindzuschlag und Schulfahrtbeihilfe sowie die nach den jeweils geltenden einkommensteuerrechtlichen Bestimmungen zur Abgeltung gesetzlicher Unterhaltsverpflichtungen gegenüber Kindern auszuzahlenden Absetzbeträge;
-> 
+>
 >> `10.` gesetzliche Leistungen, die aus Anlass der Geburt eines Kindes zu gewähren sind, soweit sie nicht unter § 290a Abs\. 1 Z 6 fallen, insbesondere das pauschale Kinderbetreuungsgeld und die Beihilfe zum pauschalen Kinderbetreuungsgeld;
-> 
+>
 >> `11.` Beihilfen und Stipendien, die Schülern und Studenten gewährt werden;
-> 
+>
 > &nbsp; *\(Anm\.: Z 12 und 13 aufgehoben durch BGBl\. Nr\. 624/1994\)*
-> 
+>
 >> `14.` Leistungen nach dem Kriegsopferversorgungsgesetz und dem Opferfürsorgegesetz;
-> 
+>
 >> `15.` Leistungen der Tuberkulosehilfe, soweit es sich nicht um regelmäßige Geldbeihilfen handelt;
-> 
+>
 >> `16.` Ansprüche auf die Arbeitsvergütung nach dem Strafvollzugsgesetz und daraus herrührende Beträge während der Haft, soweit sie nicht unter § 291d fallen\.
 
 > `(2)` Die Unpfändbarkeit gilt nicht, wenn die Exekution wegen einer Forderung geführt wird, zu deren Begleichung die Leistung widmungsgemäß bestimmt ist\.
@@ -3829,43 +3829,43 @@ Die Bestimmungen der §§ 283 bis 287 haben für die Verwendung des Erlöses si
 ### § 290a EO — Beschränkt pfändbare Forderungen
 
 > `(1)` Forderungen auf folgende Leistungen dürfen nur nach Maßgabe des § 291a oder des § 291b gepfändet werden:
-> 
+>
 >> `1.` Einkünfte aus einem privat\- oder öffentlich\-rechtlichen Arbeitsverhältnis, einem Lehr\- oder sonstigen Ausbildungsverhältnis und die gesetzlichen Leistungen an Präsenz\- oder Ausbildungs\- oder Zivildienstleistende;
-> 
+>
 >> `2.` sonstige wiederkehrende Vergütungen für Arbeitsleistungen aller Art, die die Erwerbstätigkeit des Verpflichteten vollständig oder zu einem wesentlichen Teil in Anspruch nehmen;
-> 
+>
 >> `3.` Bezüge, die ein Arbeitnehmer zum Ausgleich für Wettbewerbsbeschränkungen für die Zeit nach Beendigung seines Arbeitsverhältnisses beanspruchen kann;
-> 
+>
 >> `4.` Ruhe\-, Versorgungs\- und andere Bezüge für frühere Arbeitsleistungen, wie zB die Pensionen aus der gesetzlichen Sozialversicherung einschließlich der Ausgleichszulagen und die gesetzlichen Leistungen an Kleinrentner;
-> 
+>
 >> `5.` gesetzliche Leistungen und satzungsgemäße Mehrleistungen, die aus Anlass einer Beeinträchtigung der Arbeits\- oder Erwerbsfähigkeit zu gewähren sind und Entgeltersatzfunktion haben, insbesondere solche der Sozialversicherung; das sind vor allem
->> 
+>>
 >>> `a)` Versehrtenrente,
->> 
+>>
 >>> `b)` Versehrtengeld,
->> 
+>>
 >>> `c)` Übergangsrente,
->> 
+>>
 >>> `d)` Übergangsgeld,
->> 
+>>
 >>> `e)` Familien\- und Taggeld,
->> 
+>>
 >>> `f)` Krankengeld,
->> 
+>>
 >>> `g)` Rehabilitationsgeld;
-> 
+>
 >> `6.` Leistungen der gesetzlichen Sozialversicherung aus dem Versicherungsfall der Mutterschaft, insbesondere das Wochengeld und die Betriebshilfe, sowie das Kinderbetreuungsgeld als Ersatz des Erwerbseinkommens nach dem Kinderbetreuungsgeldgesetz;
-> 
+>
 >> `7.` Leistungen, die für die Dauer der Arbeitslosigkeit zu gewähren sind, wie das Arbeitslosengeld, die Notstandshilfe, die Überbrückungshilfe und die erweiterte Überbrückungshilfe nach dem Überbrückungshilfegesetz, das Weiterbildungsgeld sowie die Sonderunterstützung nach dem Sonderunterstützungsgesetz;
-> 
+>
 >> `8.` Beihilfen des Arbeitsmarktservice, die zur Deckung des Lebensunterhalts gewährt werden;
-> 
+>
 >> `9.` wiederkehrende Leistungen aus Versicherungsverträgen, wenn diese Verträge zur Versorgung des Versicherungsnehmers oder seiner unterhaltsberechtigten Angehörigen eingegangen sind;
-> 
+>
 >> `10.` gesetzliche Unterhaltsleistungen;
-> 
+>
 >> `11.` wiederkehrende Leistungen, die auf Grund eines Ausgedingsvertrags oder eines Unterhaltszwecken dienenden Leibrentenvertrags zu gewähren sind;
-> 
+>
 >> `12.` Leistungen wegen Minderung der Erwerbsfähigkeit, für Verdienstentgang, zur Sicherung des Lebensunterhalts und an die Hinterbliebenen für entgangenen Unterhalt, die wegen Tötung, Körperverletzung, Gesundheitsschädigung oder Krankheit zu gewähren sind, insbesondere Schadenersatzrenten\.
 
 > `(2)` Die Pfändung der in Abs\. 1 genannten Leistungen umfasst alle Beträge, die im Rahmen des der gepfändeten Forderung zugrunde liegenden Rechtsverhältnisses geleistet werden; insbesondere umfassen die in Abs\. 1 Z 1 und 2 genannten Leistungen alle Vorteile aus diesen Tätigkeiten ohne Rücksicht auf ihre Benennung und Berechnungsart\.
@@ -3874,7 +3874,7 @@ Die Bestimmungen der §§ 283 bis 287 haben für die Verwendung des Erlöses si
 
 ### § 290b EO — Sonderzahlungen
 
-Auch vom 14\. Monatsbezug \(Urlaubszuschuss, Urlaubsbeihilfe, Renten\- oder Pensionssonderzahlung, die zu den im April oder Mai bezogenen Renten bzw\. Pensionen gebührt, und dergleichen\) und vom 13\. Monatsbezug \(Weihnachtszuwendung, Weihnachtsremuneration, Renten\- oder Pensionssonderzahlung, die zu den im September oder Oktober bezogenen Renten bzw\. Pensionen gebührt, und dergleichen\) hat dem Verpflichteten ein unpfändbarer Freibetrag nach § 291a zu verbleiben\. Wird die Sonderzahlung in Teilzahlungen geleistet, so ist der unpfändbare Freibetrag auf die Teilzahlungen entsprechend deren Höhe aufzuteilen\.
+> Auch vom 14\. Monatsbezug \(Urlaubszuschuss, Urlaubsbeihilfe, Renten\- oder Pensionssonderzahlung, die zu den im April oder Mai bezogenen Renten bzw\. Pensionen gebührt, und dergleichen\) und vom 13\. Monatsbezug \(Weihnachtszuwendung, Weihnachtsremuneration, Renten\- oder Pensionssonderzahlung, die zu den im September oder Oktober bezogenen Renten bzw\. Pensionen gebührt, und dergleichen\) hat dem Verpflichteten ein unpfändbarer Freibetrag nach § 291a zu verbleiben\. Wird die Sonderzahlung in Teilzahlungen geleistet, so ist der unpfändbare Freibetrag auf die Teilzahlungen entsprechend deren Höhe aufzuteilen\.
 
 ### § 290c EO — Vorschüsse und Nachzahlungen
 
@@ -3887,15 +3887,15 @@ Auch vom 14\. Monatsbezug \(Urlaubszuschuss, Urlaubsbeihilfe, Renten\- oder Pens
 ### § 291 EO — Ermittlung der Berechnungsgrundlage
 
 > `(1)` Bei der Ermittlung der Berechnungsgrundlage für den unpfändbaren Freibetrag \(§ 291a\) sind vom Gesamtbezug abzuziehen:
-> 
+>
 >> `1.` Beträge, die unmittelbar auf Grund steuer\- oder sozialrechtlicher Vorschriften zur Erfüllung gesetzlicher Verpflichtungen des Verpflichteten abzuführen sind;
-> 
+>
 >> `1a.` Beiträge nach dem Betrieblichen Mitarbeitervorsorgegesetz;
-> 
+>
 >> `2.` die der Pfändung entzogenen Forderungen und Forderungsteile;
-> 
+>
 >> `3.` Beiträge, die der Verpflichtete an seine betrieblichen und überbetrieblichen Interessenvertretungen zu entrichten hat und auch entrichtet;
-> 
+>
 >> `4.` Beiträge, die der Verpflichtete zu einer Versicherung, deren Leistungen nach Art und Umfang jenen der gesetzlichen Sozialversicherung entsprechen, für sich oder seine unterhaltsberechtigten Angehörigen leistet, sofern kein Schutz aus der gesetzlichen Pflichtversicherung besteht\.
 
 > `(2)` Der sich nach Abs\. 1 ergebende Betrag ist abzurunden, und zwar bei Auszahlung für Monate auf einen durch 20, bei Auszahlung für Wochen auf einen durch fünf teilbaren Betrag und bei Auszahlung für Tage auf einen ganzen Betrag\.
@@ -3907,17 +3907,17 @@ Auch vom 14\. Monatsbezug \(Urlaubszuschuss, Urlaubsbeihilfe, Renten\- oder Pens
 > `(1)` Beschränkt pfändbare Forderungen, bei denen der sich nach § 291 ergebende Betrag \(Berechnungsgrundlage\) bei monatlicher Leistung den Ausgleichszulagenrichtsatz für alleinstehende Personen \(§ 293 Abs\. 1 lit\. a sublit\. bb ASVG\) nicht übersteigt, haben dem Verpflichteten zur Gänze zu verbleiben \(allgemeiner Grundbetrag\)\.
 
 > `(2)` Der Betrag nach Abs\. 1 erhöht sich
-> 
+>
 >> `1.` um ein Sechstel, wenn der Verpflichtete keine Leistungen nach § 290b erhält \(erhöhter allgemeiner Grundbetrag\),
-> 
+>
 >> `2.` um 20% für jede Person, der der Verpflichtete gesetzlichen Unterhalt gewährt \(Unterhaltsgrundbetrag\); höchstens jedoch für fünf Personen\.
 
 > `(3)` Übersteigt die Berechnungsgrundlage den sich aus Abs\. 1 und 2 ergebenden Betrag, so verbleiben dem Verpflichteten neben diesem Betrag
-> 
+>
 >> `1.` 30% des Mehrbetrags \(allgemeiner Steigerungsbetrag\) und
-> 
+>
 >> `2.` 10% des Mehrbetrags für jede Person, der der Verpflichtete gesetzlichen Unterhalt gewährt; höchstens jedoch für fünf Personen \(Unterhaltssteigerungsbetrag\)\.
-> 
+>
 > &nbsp; Der Teil der Berechnungsgrundlage, der das Vierfache des Ausgleichszulagenrichtsatzes \(Höchstberechnungsgrundlage\) übersteigt, ist jedenfalls zur Gänze pfändbar\.
 
 > `(4)` Bei täglicher Leistung ist für die Ermittlung des unpfändbaren Freibetrags nach den vorhergehenden Absätzen der 30\. Teil des Ausgleichszulagenrichtsatzes, bei wöchentlicher Leistung das Siebenfache des täglichen Betrags heranzuziehen\.
@@ -3927,15 +3927,15 @@ Auch vom 14\. Monatsbezug \(Urlaubszuschuss, Urlaubsbeihilfe, Renten\- oder Pens
 ### § 291b EO — Besonderheiten bei Exekutionen wegen Unterhaltsansprüchen
 
 > `(1)` Bei einer Exekution wegen
-> 
+>
 >> `1.` eines gesetzlichen Unterhaltsanspruchs,
-> 
+>
 >> `2.` eines gesetzlichen Unterhaltsanspruchs, der auf Dritte übergegangen ist,
-> 
+>
 >> `3.` eines Anspruchs auf Ersatz von Aufwendungen, die der Verpflichtete auf Grund einer gesetzlichen Unterhaltspflicht selbst hätte machen müssen \(§ 1042 ABGB\), sowie wegen
-> 
+>
 >> `4.` der Prozess\- und Exekutionskosten samt allen Zinsen, die durch die Durchsetzung eines Anspruchs nach Z 1 bis 3 entstanden sind,
-> 
+>
 > &nbsp; gilt Abs\. 2\.
 
 > `(2)` Dem Verpflichteten haben 75% des unpfändbaren Freibetrags nach § 291a zu verbleiben, wobei dem Verpflichteten für jene Personen, die Exekution wegen einer Forderung nach Abs\. 1 führen, ein Unterhaltsgrund\- und ein Unterhaltssteigerungsbetrag nicht gebührt\.
@@ -3947,21 +3947,21 @@ Auch vom 14\. Monatsbezug \(Urlaubszuschuss, Urlaubsbeihilfe, Renten\- oder Pens
 ### § 291c EO — Besonderheiten bei Exekutionen wegen wiederkehrender Leistungen
 
 > `(1)` Die Exekution wegen Forderungen auf wiederkehrende Leistungen, die künftig fällig werden, ist nur bei Forderungen
-> 
+>
 >> `1.` nach § 291b Abs\. 1 oder
-> 
+>
 >> `2.` auf wiederkehrende Leistungen, die aus Anlass einer Verletzung am Körper oder an der Gesundheit dem Verletzten oder wegen Tötung seinen Hinterbliebenen zu entrichten sind,
-> 
+>
 > &nbsp; zulässig, wenn überdies die Exekution zugleich für bereits fällige Ansprüche dieser Art bewilligt wird\.
 
 > `(2)` Die Exekution nach Abs\. 1 ist auf Antrag des Verpflichteten einzustellen, wenn er
-> 
+>
 >> `1.` alle fälligen Forderungen gezahlt hat und
-> 
+>
 >> `2.` bescheinigt, dass er künftig seiner Zahlungspflicht nachkommen wird\. Das ist insbesondere dann anzunehmen, wenn er die Forderungen für die kommenden zwei Monate
->> 
+>>
 >>> `a)` entweder auch schon gezahlt oder
->> 
+>>
 >>> `b)` zugunsten des Gläubigers gerichtlich erlegt hat\. Vor der Entscheidung ist der betreibende Gläubiger einzuvernehmen \(§ 55 Abs\. 1\)\.
 
 > `(3)` Auf Antrag des betreibenden Gläubigers hat das Gericht bei einer neuerlichen Bewilligung der Exekution auszusprechen, dass das Pfandrecht den ursprünglich begründeten Pfandrang, dessen Datum das Gericht anzugeben hat, erhält\.
@@ -3971,19 +3971,19 @@ Auch vom 14\. Monatsbezug \(Urlaubszuschuss, Urlaubsbeihilfe, Renten\- oder Pens
 > `(1)` Von allen einmaligen Leistungen zusammen, die dem Verpflichteten bei Beendigung seines Arbeitsverhältnisses vom Arbeitgeber gebühren, insbesondere von der Abfertigung, aber mit Ausnahme der Kündigungsentschädigung, hat dem Verpflichteten ein unpfändbarer Freibetrag nach § 291a zu verbleiben, wobei der erhöhte allgemeine Grundbetrag nach § 291a Abs\. 2 Z 1 maßgebend ist\. Die Höchstberechnungsgrundlage nach § 291a Abs\. 3 vervielfacht sich mit der Anzahl der Monate, für die die Leistung zusteht\. Bei einer Abfertigung nach dem Betrieblichen Mitarbeitervorsorgegesetz erhöht sich die Höchstberechnungsgrundlage ab dem vierten Jahr pro Jahr um ein Drittel\. Auf Antrag des Verpflichteten hat ihm jenes Vielfache des unpfändbaren Freibetrags zu verbleiben, das der Anzahl der Monate entspricht, für die diese Leistungen nach dem Gesetz zustehen, wenn die Voraussetzungen für eine Zusammenrechnung nicht vorliegen\. Der pfändbare Betrag ist dem betreibenden Gläubiger erst nach vier Wochen auszuzahlen\.
 
 > `(2)` Von einmaligen Leistungen, die gewährt werden, wenn kein Anspruch auf eine wiederkehrende Leistung besteht, oder die kraft Gesetzes an die Stelle von wiederkehrenden Leistungen treten, wie insbesondere von
-> 
+>
 >> `1.` der Abfindung für eine Hinterbliebenenpension,
-> 
+>
 >> `2.` der Abfertigung für eine Witwer\- oder Witwenpension,
-> 
+>
 >> `3.` der Abfertigung für eine Witwer\- oder Witwenrente,
-> 
+>
 >> `4.` der Gesamtvergütung für eine vorläufige Versehrtenrente,
-> 
+>
 >> `5.` dem Versehrtengeld aus der Unfallversicherung und
-> 
+>
 >> `6.` dem Übergangsbetrag,
-> 
+>
 > &nbsp; hat dem Verpflichteten jenes Vielfache des unpfändbaren Freibetrags zu verbleiben, das der Anzahl der Monate, für die diese einmalige Leistung gewährt wird, entspricht, mindestens jedoch der unpfändbare Freibetrag für einen Monat\.
 
 > `(3)` Abs\. 1 Satz 1 ist auch auf sonstige einmalige Leistungen anzuwenden, wenn diese beschränkt pfändbare Forderungen im Sinn des § 290a sind, die nicht von § 290a Abs\. 2 erfasst werden\.
@@ -4015,16 +4015,16 @@ Auch vom 14\. Monatsbezug \(Urlaubszuschuss, Urlaubsbeihilfe, Renten\- oder Pens
 > `(4)` Bei der Zusammenrechnung von beschränkt pfändbaren Geldforderungen mit Ansprüchen auf Sachleistungen vermindert sich der unpfändbare Freibetrag der Gesamtforderung um den Wert der dem Verpflichteten verbleibenden Sachleistungen\. Dem Verpflichteten hat jedoch von den Geldforderungen mindestens der halbe allgemeine Grundbetrag nach § 291a Abs\. 1 oder § 291b Abs\. 2 in Verbindung mit § 291a Abs\. 1 zu verbleiben\.
 
 > `(5)` Das Exekutionsgericht hat den Wert der Sachleistungen bei einer Zusammenrechnung
-> 
+>
 >> `1.` nach Abs\. 1 auf Antrag,
-> 
+>
 >> `2.` nach Abs\. 2 von Amts wegen zugleich mit der Anordnung der Zusammenrechnung
-> 
+>
 > &nbsp; nach freier Überzeugung im Sinn des § 273 ZPO festzulegen, wobei der gesetzliche Naturalunterhalt so zu bewerten ist, als ob der Unterhalt in Geld zu leisten wäre\.
 
 ### § 292a EO — Erhöhung des unpfändbaren Betrags
 
-Das Exekutionsgericht hat auf Antrag den unpfändbaren Freibetrag angemessen zu erhöhen, wenn dies mit Rücksicht auf
+> Das Exekutionsgericht hat auf Antrag den unpfändbaren Freibetrag angemessen zu erhöhen, wenn dies mit Rücksicht auf
 
 > `1.` wesentliche Mehrauslagen des Verpflichteten, insbesondere wegen Hilflosigkeit, Gebrechlichkeit oder Krankheit des Verpflichteten oder seiner unterhaltsberechtigten Familienangehörigen, oder
 
@@ -4036,11 +4036,11 @@ Das Exekutionsgericht hat auf Antrag den unpfändbaren Freibetrag angemessen zu 
 
 > `5.` besonders umfangreiche gesetzliche Unterhaltspflichten des Verpflichteten
 
-&nbsp; dringend geboten ist und nicht die Gefahr besteht, dass der betreibende Gläubiger dadurch schwer geschädigt werden könnte\. Der Beschluss über die Erhöhung ist vor Ablauf der Rekursfrist in Vollzug zu setzen\.
+> &nbsp; dringend geboten ist und nicht die Gefahr besteht, dass der betreibende Gläubiger dadurch schwer geschädigt werden könnte\. Der Beschluss über die Erhöhung ist vor Ablauf der Rekursfrist in Vollzug zu setzen\.
 
 ### § 292b EO — Herabsetzung des unpfändbaren Betrags
 
-Das Exekutionsgericht hat auf Antrag
+> Das Exekutionsgericht hat auf Antrag
 
 > `1.` den für Forderungen nach § 291b Abs\. 1 geltenden unpfändbaren Freibetrag angemessen herabzusetzen, wenn laufende gesetzliche Unterhaltsforderungen durch die Exekution nicht zur Gänze hereingebracht werden können;
 
@@ -4048,11 +4048,11 @@ Das Exekutionsgericht hat auf Antrag
 
 > `3.` den unpfändbaren Freibetrag herabzusetzen, wenn der Verpflichtete im Rahmen des Arbeitsverhältnisses Leistungen von Dritten erhält, die nicht von § 290a Abs\. 2 erfasst werden\.
 
-&nbsp; Der Beschluss über die Herabsetzung ist vor Ablauf der Rekursfrist in Vollzug zu setzen\.
+> &nbsp; Der Beschluss über die Herabsetzung ist vor Ablauf der Rekursfrist in Vollzug zu setzen\.
 
 ### § 292c EO — Änderung der Voraussetzungen der Unpfändbarkeit
 
-Das Exekutionsgericht hat auf Antrag die Beschlüsse, die den unpfändbaren Freibetrag festlegen, entsprechend zu ändern, wenn
+> Das Exekutionsgericht hat auf Antrag die Beschlüsse, die den unpfändbaren Freibetrag festlegen, entsprechend zu ändern, wenn
 
 > `1.` sich die für die Berechnung des unpfändbaren Freibetrags maßgebenden Verhältnisse geändert haben oder
 
@@ -4060,7 +4060,7 @@ Das Exekutionsgericht hat auf Antrag die Beschlüsse, die den unpfändbaren Frei
 
 ### § 292d EO — Auszahlung des Entgelts an Dritte
 
-Wenn
+> Wenn
 
 > `1.` der Verpflichtete für den Drittschuldner Arbeitsleistungen erbringt,
 
@@ -4068,20 +4068,20 @@ Wenn
 
 > `3.` auf Grund eines Exekutionstitels gegen den Verpflichteten die Pfändung des Entgeltsanspruchs des Verpflichteten bewilligt wurde,
 
-&nbsp; erstrecken sich die Wirkungen des Pfandrechts auch auf den Anspruch des Dritten, der ihm gegen den Drittschuldner zusteht\. Der Anspruch des Dritten wird insoweit erfasst, als ob er dem Verpflichteten zustehen würde\. Die Exekutionsbewilligung ist mit dem Verfügungsverbot dem Drittberechtigten ebenso wie dem Verpflichteten zuzustellen\.
+> &nbsp; erstrecken sich die Wirkungen des Pfandrechts auch auf den Anspruch des Dritten, der ihm gegen den Drittschuldner zusteht\. Der Anspruch des Dritten wird insoweit erfasst, als ob er dem Verpflichteten zustehen würde\. Die Exekutionsbewilligung ist mit dem Verfügungsverbot dem Drittberechtigten ebenso wie dem Verpflichteten zuzustellen\.
 
 ### § 292e EO — Verschleiertes Entgelt
 
 > `(1)` Erbringt der Verpflichtete dem Drittschuldner in einem ständigen Verhältnis Arbeitsleistungen, die nach Art und Umfang üblicherweise vergütet werden, ohne oder gegen eine unverhältnismäßig geringe Gegenleistung, so gilt im Verhältnis des betreibenden Gläubigers zum Drittschuldner ein angemessenes Entgelt als geschuldet\.
 
 > `(2)` Bei der Bemessung des Entgelts ist insbesondere auf
-> 
+>
 >> `1.` die Art der Arbeitsleistung,
-> 
+>
 >> `2.` die verwandtschaftlichen oder sonstigen Beziehungen zwischen dem Drittschuldner und dem Verpflichteten und
-> 
+>
 >> `3.` die wirtschaftliche Leistungsfähigkeit des Drittschuldners
-> 
+>
 > &nbsp; Rücksicht zu nehmen\. Die wirtschaftliche Existenz des Drittschuldners darf nicht beeinträchtigt werden\. Bei einem Betriebsübergang gilt das Entgelt ab dem Zeitpunkt des Übergangs als vereinbart\.
 
 ### § 292f EO — Bestimmungen für die Berechnung durch den Drittschuldner
@@ -4089,69 +4089,69 @@ Wenn
 > `(1)` Die Zahlung des Drittschuldners wirkt schuldbefreiend, wenn ihn weder Vorsatz noch grobe Fahrlässigkeit trifft\. Dies ist jedenfalls gegeben, wenn der Drittschuldner nach dem Inhalt des Beschlusses, der den unpfändbaren Freibetrag festlegt, leistet\.
 
 > `(1a)` Zahlt der Drittschuldner
-> 
+>
 >> `1.` in den ersten beiden Monaten des Kalenderjahres entsprechend den im Vorjahr gültigen Beträgen oder
-> 
+>
 >> `2.` während des ganzen Jahres entsprechend den im Jänner geltenden Beträgen,
-> 
+>
 > &nbsp; so wirkt dies schuldbefreiend\.
 
 > `(2)` Der Drittschuldner hat bei der Berücksichtigung der Unterhaltspflichten von den Angaben des Verpflichteten auszugehen, solange ihm deren Unrichtigkeit nicht bekannt ist\.
 
 > `(3)` Der Drittschuldner darf Entschädigungen nach § 290 Abs\. 1 Z 1 höchstens mit einem der Werte berücksichtigen, die
-> 
+>
 >> `1.` im Steuerrecht oder
-> 
+>
 >> `2.` in Rechtsvorschriften und Kollektivverträgen, die für einen Personenkreis gelten, dem der Verpflichtete angehört,
-> 
+>
 > &nbsp; vorgesehen sind\.
 
 > `(4)` Der Drittschuldner hat bei der Berücksichtigung von Sachleistungen den im Steuerrecht vorgesehenen Wert zugrunde zu legen\.
 
 > `(5)` Der Drittschuldner kann den Gesamtbetrag einer Forderung als pfändungsfrei behandeln, wenn die nicht gerundete Berechnungsgrundlage den unpfändbaren Betrag um nicht mehr als
-> 
+>
 >> `1.` 10 Euro monatlich,
-> 
+>
 >> `2.` 2,5 Euro wöchentlich,
-> 
+>
 >> `3.` 0,5 Euro täglich
-> 
+>
 > &nbsp; übersteigt\.
 
 ### § 292g EO — Entscheidung des Exekutionsgerichts – Antragsberechtigung
 
 > `(1)` Das Exekutionsgericht hat auf Antrag – in den Fällen der Z 1 und 2 nach freier Überzeugung im Sinn des § 273 ZPO – zu entscheiden,
-> 
+>
 >> `1.` ob bei der Berechnung des unpfändbaren Freibetrags Unterhaltspflichten zu berücksichtigen sind oder
-> 
+>
 >> `2.` ob und inwieweit ein Bezug oder Bezugsteil pfändbar ist, insbesondere auch, ob die Entschädigungen nach § 290 Abs\. 1 Z 1 dem tatsächlich erwachsenden Mehraufwand entsprechen, oder
-> 
+>
 >> `3.` ob an der Forderung, deren Pfändung durch das Gericht bewilligt wurde, tatsächlich ein Pfandrecht begründet wurde\.
 
 > `(2)` Der Drittschuldner kann die von einem Antrag nach Abs\. 1 erfassten Beträge bis zur rechtskräftigen Entscheidung des Gerichts zurückbehalten\.
 
 > `(3)` Antragsberechtigt sind neben den Parteien:
-> 
+>
 >> `1.` der Drittschuldner für einen Antrag nach Abs\. 1 sowie auf Änderung der Beschlüsse, die den unpfändbaren Freibetrag festlegen, nach § 292c,
-> 
+>
 >> `2.` ein Dritter, dem der Verpflichtete gesetzlichen Unterhalt zu gewähren hat, für einen Antrag nach Abs\. 1 Z 1, auf Erhöhung des unpfändbaren Betrags nach § 292a sowie auf Änderung der Beschlüsse, die den unpfändbaren Freibetrag festlegen, nach § 292c\.
-> 
+>
 >> `3.` ein betreibender Gläubiger sonstiger Forderungen, der einem betreibenden Gläubiger, der wegen einer Forderung nach § 291b Abs\. 1 Exekution führt, nachfolgt, für einen Antrag nach § 292c\.
-> 
+>
 > &nbsp; In diesen Fällen hat jede Partei ihre Kosten selbst zu tragen\.
 
 > `(4)` Vor der Entscheidung über folgende Anträge sind die Parteien und alle betreibenden Gläubiger, die auf den gegenständlichen Bezug Exekution führen, einzuvernehmen:
-> 
+>
 >> `1.` nach Abs\. 1,
-> 
+>
 >> `2.` auf Zusammenrechnung und Festlegung des Werts der Sachleistungen nach § 292,
-> 
+>
 >> `3.` auf Erhöhung des unpfändbaren Betrags nach § 292a,
-> 
+>
 >> `4.` auf Herabsetzung des unpfändbaren Betrags nach § 292b und
-> 
+>
 >> `5.` auf Änderung der Beschlüsse, die den unpfändbaren Freibetrag festlegen, nach § 292c\.
-> 
+>
 > &nbsp; Der Beschluss wirkt in allen diesen Verfahren für die künftig fällig werdenden Bezugsteile\.
 
 > `(5)` In den Verfahren nach Abs\. 4 kann der betreibende Gläubiger vom Verpflichteten den Ersatz seiner Kosten nur nach den Bestimmungen der ZPO und nur insoweit beanspruchen, als der Verpflichtete dem Antrag nicht zustimmt\. Dies gilt auch sinngemäß für einen Anspruch des Verpflichteten auf Kostenersatz\. Der Drittschuldner hat keinen Anspruch auf Kostenersatz und ist nicht zum Kostenersatz verpflichtet\.
@@ -4161,11 +4161,11 @@ Wenn
 ### § 292h EO — Kosten des Drittschuldners für die Berechnung
 
 > `(1)` Dem Drittschuldner steht für die Berechnung des unpfändbaren Teils einer beschränkt pfändbaren Geldforderung
-> 
+>
 >> `1.` bei der ersten Zahlung an den betreibenden Gläubiger 2% von dem dem betreibenden Gläubiger zu zahlenden Betrag, höchstens jedoch 8 Euro,
-> 
+>
 >> `2.` bei den weiteren Zahlungen 1%, höchstens jedoch 4 Euro,
-> 
+>
 > &nbsp; zu\. Dieser Betrag ist von dem dem Verpflichteten zustehenden Betrag einzubehalten, sofern dadurch der unpfändbare Betrag nicht geschmälert wird; sonst von dem dem betreibenden Gläubiger zustehenden Betrag\.
 
 > `(2)` Ist die Berechnung des dem Drittschuldner nach Abs\. 1 zustehenden Betrags strittig, so hat hierüber das Exekutionsgericht auf Antrag eines Beteiligten zu entscheiden\.
@@ -4213,11 +4213,11 @@ Wenn
 ### § 295 EO — Unbekannter Drittschuldner
 
 > `(1)` Das Exekutionsgericht hat den Dachverband der Sozialversicherungsträger um die Bekanntgabe zu ersuchen, ob nach den bei ihm gespeicherten Daten \(§ 30c Abs\. 1 Z 2 ASVG\) der Verpflichtete in einer Rechtsbeziehung steht, aus der ihm Forderungen im Sinn des § 290a zustehen können, und bejahendenfalls mit wem, wenn der betreibende Gläubiger
-> 
+>
 >> `1.` Forderungsexekution auf Arbeitseinkommen oder sonstige Bezüge, ohne einen Drittschuldner zu nennen, oder
-> 
+>
 >> `2.` Forderungsexekution, ohne die zu pfändenden Forderungen zu nennen,
-> 
+>
 > &nbsp; beantragt hat, im Exekutionsantrag das Geburtsdatum des Verpflichteten angegeben hat und die verpflichtete Partei eine natürliche Person ist\. Gibt der Dachverband der Sozialversicherungsträger einen oder mehrere mögliche Drittschuldner bekannt, so hat das Gericht mit den in § 294 vorgesehenen Zustellungen an den Verpflichteten und den Drittschuldner vorzugehen, wenn der Gläubiger nicht auf die Pfändung von Forderungen gegenüber einer von ihm genannten Person verzichtet hat\.
 
 > `(2)` Auf Antrag des betreibenden Gläubigers oder Ersuchen des Verwalters hat das Gericht, solange das Exekutionsverfahren weder eingestellt noch unter vollständiger Befriedigung des Gläubigers beendet wurde, eine neuerliche Auskunft vom Dachverband der Sozialversicherungsträger einzuholen, wenn seit der letzten Abfrage mehr als drei Monate vergangen sind oder glaubhaft gemacht wird, dass der Verpflichtete zwischenzeitig einen Bezug im Sinne des § 289 Abs\. 3 erworben hat\.
@@ -4230,7 +4230,7 @@ Wenn
 
 ### § 296 EO — Frühere Bewilligung einer Fahrnisexekution
 
-Eine Exekution nach § 295 ist nach Bewilligung einer Exekution auf bewegliche Sachen nur dann zu bewilligen, wenn seit Bewilligung ein Jahr vergangen ist oder der betreibende Gläubiger glaubhaft macht, dass er erst nach seinem Antrag auf Exekution auf bewegliche Sachen erfahren hat, dass dem Verpflichteten Forderungen im Sinn des § 290a zustehen\.
+> Eine Exekution nach § 295 ist nach Bewilligung einer Exekution auf bewegliche Sachen nur dann zu bewilligen, wenn seit Bewilligung ein Jahr vergangen ist oder der betreibende Gläubiger glaubhaft macht, dass er erst nach seinem Antrag auf Exekution auf bewegliche Sachen erfahren hat, dass dem Verpflichteten Forderungen im Sinn des § 290a zustehen\.
 
 ### § 297 EO — Pfändung von Forderungen gegen eine juristische Person des öffentlichen Rechts
 
@@ -4240,7 +4240,7 @@ Eine Exekution nach § 295 ist nach Bewilligung einer Exekution auf bewegliche 
 
 ### § 298 EO — Verwahrung eines Handpfands
 
-Ein für die gepfändete Forderung bestelltes Handpfand ist auf Antrag des betreibenden Gläubigers in Verwahrung zu nehmen \(§ 259\)\. Der Antrag auf Einleitung der Verwahrung kann mit dem Antrag auf Bewilligung der Forderungspfändung verbunden oder abgesondert nach Bewilligung der Pfändung beim Exekutionsgericht gestellt werden\.
+> Ein für die gepfändete Forderung bestelltes Handpfand ist auf Antrag des betreibenden Gläubigers in Verwahrung zu nehmen \(§ 259\)\. Der Antrag auf Einleitung der Verwahrung kann mit dem Antrag auf Bewilligung der Forderungspfändung verbunden oder abgesondert nach Bewilligung der Pfändung beim Exekutionsgericht gestellt werden\.
 
 ### § 299 EO — Umfang des Pfandrechts
 
@@ -4281,17 +4281,17 @@ Ein für die gepfändete Forderung bestelltes Handpfand ist auf Antrag des betre
 ### § 301 EO — Drittschuldnererklärung
 
 > `(1)` Sofern der betreibende Gläubiger nichts anderes beantragt und die Zustellung des Zahlungsverbots nach § 294 Abs\. 2 nicht dem Verwalter obliegt, hat das Gericht dem Drittschuldner gleichzeitig mit dem Zahlungsverbot aufzutragen, sich binnen vier Wochen darüber zu erklären:
-> 
+>
 >> `1.` ob und inwieweit er die gepfändete Forderung als begründet anerkenne und Zahlung zu leisten bereit sei;
-> 
+>
 >> `2.` ob und von welchen Gegenleistungen seine Zahlungspflicht abhängig sei;
-> 
+>
 >> `3.` ob und welche Ansprüche andere Personen auf die gepfändete Forderung erheben, insbesondere solche nach § 300 a;
-> 
+>
 >> `4.` ob und wegen welcher Ansprüche zu Gunsten anderer Gläubiger an der Forderung ein Pfandrecht bestehe, auch wenn das Verfahren nach § 291 c Abs\. 2 eingestellt wurde;
-> 
+>
 >> `5.` die vom Verpflichteten bekannt gegebenen Unterhaltspflichten,
-> 
+>
 >> `6.` ist ein Verwalter bestellt oder zu bestellen, ob die Berechnung des unpfändbaren Freibetrags durch diesen angeregt wird\.
 
 > `(2)` Der Drittschuldner hat seine Erklärung dem Exekutionsgericht sowie eine Abschrift davon dem Verwalter – ist keiner bestellt, dem betreibenden Gläubiger – zu übersenden\.
@@ -4305,9 +4305,9 @@ Ein für die gepfändete Forderung bestelltes Handpfand ist auf Antrag des betre
 ### § 302 EO — Kosten des Drittschuldners für seine Erklärung
 
 > `(1)` Für die mit der Abgabe der Erklärung verbundenen Kosten stehen dem Drittschuldner als Ersatz zu:
-> 
+>
 >> `1.` 35 Euro, wenn eine wiederkehrende Forderung gepfändet wurde und diese besteht;
-> 
+>
 >> `2.` 25 Euro in den sonstigen Fällen\.
 
 > `(2)` Die Kosten sind vorläufig vom betreibenden Gläubiger zu tragen; ihm ist deren Ersatz an den Drittschuldner vom Gericht aufzuerlegen\. Die zuerkannten Beträge sind von Amts wegen als Kosten des Exekutionsverfahrens zu bestimmen\. Mehrere betreibende Gläubiger haben die Kosten zu gleichen Teilen zu tragen\.
@@ -4324,7 +4324,7 @@ Ein für die gepfändete Forderung bestelltes Handpfand ist auf Antrag des betre
 
 ### § 304 EO — Besonderheiten im vereinfachten Bewilligungsverfahren
 
-Wurde die Forderungsexekution im vereinfachten Bewilligungsverfahren bewilligt, so darf an den betreibenden Gläubiger erst vier Wochen nach Zustellung des Zahlungsverbots an den Drittschuldner geleistet oder der Betrag hinterlegt werden\. Dies ist dem Drittschuldner bekanntzugeben\. Der Drittschuldner kann mit der Leistung oder Hinterlegung bis zum nächsten Auszahlungstermin zuwarten, nicht jedoch länger als 8 Wochen\.
+> Wurde die Forderungsexekution im vereinfachten Bewilligungsverfahren bewilligt, so darf an den betreibenden Gläubiger erst vier Wochen nach Zustellung des Zahlungsverbots an den Drittschuldner geleistet oder der Betrag hinterlegt werden\. Dies ist dem Drittschuldner bekanntzugeben\. Der Drittschuldner kann mit der Leistung oder Hinterlegung bis zum nächsten Auszahlungstermin zuwarten, nicht jedoch länger als 8 Wochen\.
 
 ### § 305 EO — Durchführung der Überweisung
 
@@ -4361,11 +4361,11 @@ Wurde die Forderungsexekution im vereinfachten Bewilligungsverfahren bewilligt, 
 ### § 308a EO — Klagerecht des Verpflichteten
 
 > `(1)` Wurde eine beschränkt pfändbare Forderung gepfändet und überwiesen und hat der betreibende Gläubiger diese nicht bereits gerichtlich geltend gemacht, so kann auch der Verpflichtete den pfändbaren Teil zugunsten des betreibenden Gläubigers gerichtlich geltend machen,
-> 
+>
 >> `1.` insoweit nicht der betreibende Gläubiger binnen 14 Tagen nach der Zustellung der Streitverkündung \(Abs\. 2\) mit Schriftsatz oder durch Erklärung in der Tagsatzung zur mündlichen Streitverhandlung in den Rechtsstreit eintritt oder
-> 
+>
 >> `2.` wenn drei Monate seit der Überweisung und dem Eintritt der Fälligkeit der Forderung abgelaufen sind\.
-> 
+>
 > &nbsp; Ein Zahlungsbefehl darf bereits davor erlassen werden\. Nach der Zustellung der Streitverkündung nach Z 1 oder dem Ablauf der Frist nach Z 2 erstreckt sich die Streitanhängigkeit auch auf den betreibenden Gläubiger\.
 
 > `(2)` Die Streitverkündung \(Abs\. 1 Z 1\) ist längstens binnen einer vom Gericht festzusetzenden, angemessenen, vier Wochen nicht überschreitenden Frist vorzunehmen und dem betreibenden Gläubiger nach den Vorschriften über die Zustellung von Klagen zuzustellen\. Tritt der betreibende Gläubiger nach Abs\. 1 Z 1 ein, so ist der Verpflichtete in diesem Umfang durch Beschluss des Prozessgerichts vom Rechtsstreit zu entbinden\. In das vom betreibenden Gläubiger vorgelegte Kostenverzeichnis können auch die dem Verpflichteten vor seiner Entbindung vom Rechtsstreit verursachten Kosten aufgenommen werden\. Soweit Kosten des Verpflichteten vom Beklagten zu ersetzen sind, sind sie dem Verpflichteten zuzusprechen\.
@@ -4406,7 +4406,7 @@ Wurde die Forderungsexekution im vereinfachten Bewilligungsverfahren bewilligt, 
 
 ### § 311a EO — Zahlungsvereinbarung
 
-Bei Aufschiebung einer Exekution zur Hereinbringung einer Forderung auf wiederkehrende Leistungen wegen einer Zahlungsvereinbarung nach § 45a werden bereits vollzogene Exekutionsakte aufgehoben; der Pfandrang bleibt erhalten\.
+> Bei Aufschiebung einer Exekution zur Hereinbringung einer Forderung auf wiederkehrende Leistungen wegen einer Zahlungsvereinbarung nach § 45a werden bereits vollzogene Exekutionsakte aufgehoben; der Pfandrang bleibt erhalten\.
 
 ### § 312 EO — Zahlung des Drittschuldners
 
@@ -4437,11 +4437,11 @@ Bei Aufschiebung einer Exekution zur Hereinbringung einer Forderung auf wiederke
 ### § 317 EO — Anderweitige Verwertung
 
 > `(1)` Der Verwalter kann die gepfändete Forderung auf eine andere Art verwerten:
-> 
+>
 >> `1.` wenn die Einziehung der gepfändeten Forderung wegen ihrer Abhängigkeit von einer, im Wege der Exekutionsführung nach § 309 nicht zu beschaffenden Gegenleistung des Verpflichteten mit Schwierigkeiten verbunden ist;
-> 
+>
 >> `2.` wenn die Fälligkeit der gepfändeten Forderung durch eine dem Drittschuldner zustehende Kündigung bedingt oder für die dem Verpflichteten vorbehaltene Kündigung eine mehr als halbjährige Kündigungsfrist vereinbart ist oder überhaupt die Forderung erst nach Ablauf eines halben Jahres von der Pfändung an fällig wird;
-> 
+>
 >> `3.` wenn nach erfolgter Überweisung zur Einziehung der Versuch der Einziehung der Forderung aus anderen Gründen als wegen Zahlungsunfähigkeit des Drittschuldners, wegen rechtskräftiger gerichtlicher Aberkennung der Forderung oder wegen Verzichtleistung des zur Einziehung ermächtigten Gläubigers \(§ 311\) nicht zum Ziele geführt hat, oder wenn sich einer der in Z 1 und 2 angeführten Umstände erst nach erfolgter Überweisung ergibt\.
 
 > `(2)` Wurde die Forderung einem Gläubiger überwiesen, so kann das Exekutionsgericht auf Antrag eines Gläubigers, zu dessen Gunsten die Forderung gepfändet wurde, eine andere Art der Verwertung anordnen\.
@@ -4450,24 +4450,24 @@ Bei Aufschiebung einer Exekution zur Hereinbringung einer Forderung auf wiederke
 
 ### § 318 EO — Verkauf einer Forderung
 
-Der Verkauf einer gepfändeten Forderung ist unter sinngemäßer Anwendung der Bestimmungen über den Verkauf gepfändeter beweglicher Sachen \(§§ 264 bis 276, 278, 281 und 282\) zu vollziehen\. Dabei hat der Nennwert der Forderung den Ausrufspreis zu bilden\. Die über die verkaufte Forderung vorhandenen Urkunden sind dem Käufer bei Erlag des Kaufpreises vom Verwalter oder von dem Vollstreckungsorgan zu übergeben\. Betreffs der erforderlichen schriftlichen Übertragungserklärungen haben die Bestimmungen des § 323 Abs\. 1, sinngemäße Anwendung zu finden\.
+> Der Verkauf einer gepfändeten Forderung ist unter sinngemäßer Anwendung der Bestimmungen über den Verkauf gepfändeter beweglicher Sachen \(§§ 264 bis 276, 278, 281 und 282\) zu vollziehen\. Dabei hat der Nennwert der Forderung den Ausrufspreis zu bilden\. Die über die verkaufte Forderung vorhandenen Urkunden sind dem Käufer bei Erlag des Kaufpreises vom Verwalter oder von dem Vollstreckungsorgan zu übergeben\. Betreffs der erforderlichen schriftlichen Übertragungserklärungen haben die Bestimmungen des § 323 Abs\. 1, sinngemäße Anwendung zu finden\.
 
 ### § 319 EO — Verkauf durch Versteigerung – Zwangsverwaltung
 
 > `(1)` Eine Forderung darf nicht öffentlich versteigert werden:
-> 
+>
 >> `1.` wenn für die Forderung ein genügende Deckung bietendes Handpfand bestellt ist;
-> 
+>
 >> `2.` wenn die Forderung dem Verpflichteten gegen den betreibenden Gläubiger selbst zusteht und mit dem zu vollstreckenden Anspruche kompensiert werden kann;
-> 
+>
 >> `3.` wenn die Forderung den Bezug jährlicher Renten, Unterhaltsgelder oder anderer wiederkehrender Zahlungen zum Gegenstande hat;
-> 
+>
 >> `4.` wenn sich die Forderung auf eine Sparurkunde gründet;
-> 
+>
 >> `5.` wenn die auf eines der im § 321 bezeichneten Papiere sich gründende Forderung einen Börsenpreis hat;
-> 
+>
 >> `6.` wenn der Betrag der Forderung nicht mit Bestimmtheit angegeben oder der Bestand der Forderung nicht glaubhaft gemacht werden kann,
-> 
+>
 >> `7.` wenn sie bücherlich sichergestellt ist\.
 
 > `(2)` Die Zwangsverwaltung von Forderungen ist nach § 332 durchzuführen\.
@@ -4525,13 +4525,13 @@ Der Verkauf einer gepfändeten Forderung ist unter sinngemäßer Anwendung der B
 > `(1)` Vermögensrechte des Verpflichteten im Sinn dieser Abteilung sind alle vermögenswerten Rechte, die nicht von §§ 88 bis 325 erfasst sind\. Zu den Vermögensrechten gehören auch Miteigentumsanteile von Liegenschaften, die durch deren Teilung verwertet werden sollen, und Rechte aus virtuellen Währungen\.
 
 > `(2)` Unpfändbar sind:
-> 
+>
 >> `1.` das Recht, die Aufteilung des ehelichen Gebrauchsvermögens und der ehelichen Ersparnisse sowie des partnerschaftlichen Gebrauchsvermögens und der partnerschaftlichen Ersparnisse zu verlangen, solange ein Aufteilungsverfahren nicht eingeleitet wurde oder nicht durch Vertrag, Vergleich oder rechtskräftige Entscheidung Einzelrechte begründet wurden,
-> 
+>
 >> `2.` höchstpersönliche oder sonst unübertragbare Rechte,
-> 
+>
 >> `3.` die nach den Sozialversicherungsgesetzen gewährten Sachleistungen,
-> 
+>
 >> `4.` Unternehmen, die derart durch die Person des Unternehmers geprägt sind, dass eine Verwaltung oder Verpachtung des Unternehmens ohne die persönliche Arbeitskraft des Unternehmers nicht möglich ist\. Dies wird bei einem Kleinunternehmen vermutet, das vom Unternehmer allein oder mit höchstens vier Arbeitnehmern betrieben wird\.
 
 > `(3)` Der neben einer Gehaltsforderung oder einer anderen in fortlaufenden Bezügen bestehenden beschränkt pfändbaren Forderung gegenüber einem Drittschuldner bestehende wiederkehrende Anspruch auf Herausgabe und Leistung beweglicher Sachen darf nur durch Zusammenrechnung mit der Forderung selbst in Exekution gezogen werden\.
@@ -4567,23 +4567,23 @@ Der Verkauf einer gepfändeten Forderung ist unter sinngemäßer Anwendung der B
 > `(1)` Wird im Exekutionsantrag das Vermögensrecht bestimmt bezeichnet und zugleich die Verwertung begehrt, hat das Gericht auf Antrag des betreibenden Gläubigers von der Bestellung eines Verwalters abzusehen\.
 
 > `(2)` Die Exekution ist auf Antrag des Verpflichteten unter gleichzeitiger Aufhebung aller bis dahin vollzogenen Exekutionsakte einzustellen, wenn der aus der beabsichtigten Art der Verwertung des Vermögensrechts oder der daraus entstehenden Forderungen und Ansprüche oder der daraus erlangten Sachen voraussichtlich erzielbare Erlös nicht
-> 
+>
 >> `1.` die umfassendste und schnellste Befriedigung des betreibenden Gläubigers bringt, wobei auf die Wahrung der Interessen des Verpflichteten Bedacht zu nehmen ist, oder
-> 
+>
 >> `2.` unter Berücksichtigung der Kosten höher ist als der voraussichtliche Erlös, der durch Bestellung eines Verwalters erzielt werden kann\.
 
 > `(3)` Wird kein Verwalter bestellt, so hat das Exekutionsgericht den betreibenden Gläubiger zur Geltendmachung und Einklagung des gepfändeten Rechtes \(§ 308\), zur Geltendmachung einer Teilung, Einleitung des Auseinandersetzungsverfahrens und Kündigung sowie zur Abgabe der sonst zur Ausübung und Nutzbarmachung des gepfändeten Rechtes erforderlichen Erklärungen für den Verpflichteten ermächtigen\. In den übrigen Fällen obliegt die Verwertung dem Gericht\.
 
 > `(4)` Geschieht die Verwertung durch
-> 
+>
 >> `1.` die Verpachtung eines Unternehmens,
-> 
+>
 >> `2.` den Verkauf, die Verpachtung oder Vermietung einer Liegenschaft,
-> 
+>
 >> `3.` den Verkauf eines Gesellschaftsanteils oder
-> 
+>
 >> `4.` die Kündigung eines Gesellschaftsverhältnisses,
-> 
+>
 > &nbsp; so ist jedenfalls ein Verwalter zu bestellen\.
 
 ### § 331 EO — Verwertung
@@ -4591,27 +4591,27 @@ Der Verkauf einer gepfändeten Forderung ist unter sinngemäßer Anwendung der B
 > `(1)` Die Verwertung geschieht insbesondere durch Verkauf, Versteigerung, Zwangsverwaltung, Verpachtung oder Vermietung\.
 
 > `(2)` Der Genehmigung des Gerichts bedürfen:
-> 
+>
 >> `1.` die Verpachtung eines Unternehmens,
-> 
+>
 >> `2.` der Verkauf, die Vermietung und die Verpachtung einer Liegenschaft,
-> 
+>
 >> `3.` die Zwangsverwaltung,
-> 
+>
 >> `4.` der Verkauf eines Gesellschaftsanteils und
-> 
+>
 >> `5.` die Kündigung eines Gesellschaftsverhältnisses\.
 
 ### § 332 EO — Zwangsverwaltung
 
 > `(1)` Durch Zwangsverwaltung können insbesondere verwertet werden
-> 
+>
 >> `1.` Rechte auf den wiederholten Bezug von Früchten,
-> 
+>
 >> `2.` Rechte, die eine andere zu Gunsten des betreibenden Gläubigers verwertbare Benützung beweglicher oder unbeweglicher Sachen gewähren,
-> 
+>
 >> `3.` Jagd\- und Fischereirechte sowie
-> 
+>
 >> `4.` Gesellschaftsanteile\.
 
 > `(2)` Auf die Zwangsverwaltung sind die Bestimmungen über die Zwangsverwaltung von Liegenschaften sinngemäß anzuwenden\. Vor der Genehmigung der in §§ 112 und 331 Abs\. 2 bezeichneten Verfügungen ist der Eigentümer der Sache einzuvernehmen, auf welche sich das gepfändete Recht bezieht\. Er ist auch zu Einwendungen und Beschwerden im Sinne des § 84 berechtigt\.
@@ -4630,7 +4630,7 @@ Der Verkauf einer gepfändeten Forderung ist unter sinngemäßer Anwendung der B
 
 ### § 334 EO — Freihandverkauf
 
-Ein Vermögensrecht, sowie daraus hervorgehende Forderungen oder Ansprüche oder daraus erlangte Sachen dürfen nur dann öffentlich versteigert werden, wenn hiebei unter Berücksichtigung der Kosten ein höherer Erlös als bei einem Verkauf erzielt werden kann\.
+> Ein Vermögensrecht, sowie daraus hervorgehende Forderungen oder Ansprüche oder daraus erlangte Sachen dürfen nur dann öffentlich versteigert werden, wenn hiebei unter Berücksichtigung der Kosten ein höherer Erlös als bei einem Verkauf erzielt werden kann\.
 
 ### § 335 EO — Freihandverkauf von Liegenschaften
 
@@ -4643,11 +4643,11 @@ Ein Vermögensrecht, sowie daraus hervorgehende Forderungen oder Ansprüche oder
 > `(4)` Unterlässt es der betreibende Gläubiger, die Einleitung der Zwangsverwaltung oder Zwangsversteigerung fristgerecht zu beantragen, so hat der Verwalter die Liegenschaft dem Verpflichteten zur freien Verfügung zu überlassen\.
 
 > `(5)` Die Anmerkung nach Abs\. 1 ist im Grundbuch zu löschen
-> 
+>
 >> `1.` auf Antrag des Käufers der Liegenschaft mit der bücherlichen Einverleibung dessen Eigentumsrechts,
-> 
+>
 >> `2.` auf Antrag des Verpflichteten, wenn diesem die Liegenschaft vom Verwalter überlassen wurde,
-> 
+>
 >> `3.` von Amts wegen bei Einstellung der Exekution\.
 
 > `(6)` Die Abs\. 1 bis 5 gelten für Superädifikate sinngemäß\.
@@ -4695,15 +4695,15 @@ Ein Vermögensrecht, sowie daraus hervorgehende Forderungen oder Ansprüche oder
 > `(1)` Unternehmen können nur durch Zwangsverwaltung oder Verpachtung verwertet werden\.
 
 > `(2)` Das Verfügungsverbot erfasst insbesondere das Verbot,
-> 
+>
 >> `1.` das Unternehmen zu veräußern oder zu verpachten,
-> 
+>
 >> `2.` den Unternehmensgegenstand zu ändern,
-> 
+>
 >> `3.` den Betrieb des Unternehmens einzustellen,
-> 
+>
 >> `4.` über Sachen und Rechte des Unternehmens zu verfügen, insbesondere sie zu veräußern,
-> 
+>
 >> `5.` Pfandrechte oder sonstige Rechte an den Sachen und Rechten des Unternehmens zu begründen\.
 
 > `(3)` Gegen das Verfügungsverbot verstoßende Verfügungen sind dem betreibenden Gläubiger gegenüber unwirksam\.
@@ -4721,9 +4721,9 @@ Ein Vermögensrecht, sowie daraus hervorgehende Forderungen oder Ansprüche oder
 > `(1)` Der Zwangsverwalter ist kraft seiner Bestellung zu allen Geschäften und Rechtshandlungen befugt, welche der Betrieb eines Unternehmens von der Art des zu verwaltenden gewöhnlich mit sich bringt\.
 
 > `(2)` Der Zwangsverwalter ist insbesondere berechtigt:
-> 
+>
 >> `1.` zum Widerruf einer vom Verpflichteten für den Betrieb des in Verwaltung gezogenen Unternehmens erteilten Prokura oder Handlungsvollmacht und
-> 
+>
 >> `2.` zur Empfangnahme der als Wertsendungen bezeichneten Postsendungen, welche an das verwaltete Unternehmen gerichtet sind\.
 
 > `(3)` Inwieweit die dem Inhaber des Unternehmens in gewerberechtlicher Beziehung zukommenden Befugnisse und Obliegenheiten auf den Zwangsverwalter übergehen, bestimmt sich nach der Gewerbeordnung\.
@@ -4737,15 +4737,15 @@ Ein Vermögensrecht, sowie daraus hervorgehende Forderungen oder Ansprüche oder
 ### § 345 EO — Rekurs
 
 > `(1)` Ein Rekurs ist unstatthaft gegen Beschlüsse, welche:
-> 
+>
 >> `1.` dem Verpflichteten nach bewilligter Pfändung die Verfügung über das gepfändete Recht und das für die gepfändete Forderung bestellte Pfand untersagen \(§§ 294, 327 Abs\. 2\);
-> 
+>
 >> `2.` dem Drittschuldner die Abgabe einer Erklärung nach §§ 301, 328 Abs\. 5 auftragen;
-> 
+>
 >> `3.` dem betreibenden Gläubiger gemäß §§ 306 und 323 Abs\. 2 die Leistung einer Sicherheit auftragen;
-> 
+>
 >> `4.` behufs Einziehung einer überwiesenen Forderung gemäß §§ 310, 314 und 322 einen Kurator bestellen;
-> 
+>
 >> `5.` die Anmerkung und Verlautbarung einer bewilligten Zwangsverwaltung verfügen\.
 
 > `(2)` In Betreff der Beschlüsse, durch welche die Verwahrung von Gegenständen angeordnet oder ein Verwahrer ernannt wird, gilt § 259 Abs\. 2 letzter Satz\.
@@ -4813,7 +4813,7 @@ Ein Vermögensrecht, sowie daraus hervorgehende Forderungen oder Ansprüche oder
 
 ### § 352 EO — Versteigerung einer gemeinschaftlichen Liegenschaft
 
-Auf die Vollstreckung des Anspruchs der gerichtlichen Versteigerung einer gemeinschaftlichen Liegenschaft zum Zwecke der Auseinandersetzung sind die Bestimmungen über die Zwangsversteigerung von Liegenschaften mit folgenden Abweichungen sinngemäß anzuwenden:
+> Auf die Vollstreckung des Anspruchs der gerichtlichen Versteigerung einer gemeinschaftlichen Liegenschaft zum Zwecke der Auseinandersetzung sind die Bestimmungen über die Zwangsversteigerung von Liegenschaften mit folgenden Abweichungen sinngemäß anzuwenden:
 
 > `1.` Die dem betreibenden Gläubiger oder dem Verpflichteten im Verfahren eingeräumten Rechte und aufgetragenen Pflichten treffen alle Miteigentümer\.
 
@@ -4839,7 +4839,7 @@ Auf die Vollstreckung des Anspruchs der gerichtlichen Versteigerung einer gemein
 
 ### § 352b EO — Versteigerung
 
-Bei der Versteigerung gilt Folgendes:
+> Bei der Versteigerung gilt Folgendes:
 
 > `1.` Die Frist des § 167 Abs\. 2 gilt nicht\.
 
@@ -4851,7 +4851,7 @@ Bei der Versteigerung gilt Folgendes:
 
 ### § 352c EO — Verteilung
 
-Das Meistbot ist nach dem Einvernehmen der Parteien aufzuteilen\. Einigen sich die Parteien nicht, so hat das Gericht hierüber nach mündlicher Verhandlung durch Urteil zu entscheiden\. Auf das Verfahren sind die Bestimmungen über das Verfahren vor den Bezirksgerichten \(§§ 431 ff ZPO\) anzuwenden\.
+> Das Meistbot ist nach dem Einvernehmen der Parteien aufzuteilen\. Einigen sich die Parteien nicht, so hat das Gericht hierüber nach mündlicher Verhandlung durch Urteil zu entscheiden\. Auf das Verfahren sind die Bestimmungen über das Verfahren vor den Bezirksgerichten \(§§ 431 ff ZPO\) anzuwenden\.
 
 ### § 353 EO — Erwirkung vertretbarer Handlungen
 
@@ -4881,7 +4881,7 @@ Das Meistbot ist nach dem Einvernehmen der Parteien aufzuteilen\. Einigen sich d
 
 ### § 357 EO — Widerstand des Verpflichteten
 
-Leistet der Verpflichtete gegen die Vornahme einer Handlung, die er nach Inhalt des § 356 Abs\. 1, zu dulden hat, Widerstand, so ist dem betreibenden Gläubiger auf Antrag zum Zwecke der Beseitigung des Widerstandes und zum Schutze der auszuführenden Arbeit ein Vollstreckungsorgan beizugeben\.
+> Leistet der Verpflichtete gegen die Vornahme einer Handlung, die er nach Inhalt des § 356 Abs\. 1, zu dulden hat, Widerstand, so ist dem betreibenden Gläubiger auf Antrag zum Zwecke der Beseitigung des Widerstandes und zum Schutze der auszuführenden Arbeit ein Vollstreckungsorgan beizugeben\.
 
 ### § 358 EO — Strafantrag – Strafzumessung
 
@@ -4904,7 +4904,7 @@ Leistet der Verpflichtete gegen die Vornahme einer Handlung, die er nach Inhalt 
 
 ### § 361 EO — Haftdauer
 
-Die Haft darf nur verhängt werden, wenn der maßgebliche Sachverhalt bewiesen ist \(§ 55 Abs\. 2\); sie darf in jeder einzelnen Strafverfügung nicht für länger als für die Dauer von zwei Monaten verhängt werden\. Nach Ablauf der in der Strafverfügung angegebenen Haftzeit ist der Verpflichtete von amtswegen aus der Haft zu entlassen\.
+> Die Haft darf nur verhängt werden, wenn der maßgebliche Sachverhalt bewiesen ist \(§ 55 Abs\. 2\); sie darf in jeder einzelnen Strafverfügung nicht für länger als für die Dauer von zwei Monaten verhängt werden\. Nach Ablauf der in der Strafverfügung angegebenen Haftzeit ist der Verpflichtete von amtswegen aus der Haft zu entlassen\.
 
 ### § 362 EO — Haft von im öffentlichen Amt oder Dienst stehenden Personen
 
@@ -4914,15 +4914,15 @@ Die Haft darf nur verhängt werden, wenn der maßgebliche Sachverhalt bewiesen i
 
 ### § 363 EO — Schadenersatz bei Mutwilligkeit
 
-Wird die Verhängung einer Strafe vom betreibenden Gläubiger mutwillig erwirkt, so hat er dem Verpflichteten alle verursachten Vermögensnachteile zu ersetzen\. § 63a Abs\. 2 ist sinngemäß anzuwenden\.
+> Wird die Verhängung einer Strafe vom betreibenden Gläubiger mutwillig erwirkt, so hat er dem Verpflichteten alle verursachten Vermögensnachteile zu ersetzen\. § 63a Abs\. 2 ist sinngemäß anzuwenden\.
 
 ### § 365 EO — Gesundheitsgefährdung
 
-Die Haft kann nicht vollzogen werden, so lange durch sie die Gesundheit des Verpflichteten einer nahen und erheblichen Gefahr ausgesetzt würde\. Sie ist von amtswegen aufzuheben, wenn sich nach ihrem Beginne solche Gefahren einstellen\.
+> Die Haft kann nicht vollzogen werden, so lange durch sie die Gesundheit des Verpflichteten einer nahen und erheblichen Gefahr ausgesetzt würde\. Sie ist von amtswegen aufzuheben, wenn sich nach ihrem Beginne solche Gefahren einstellen\.
 
 ### § 366 EO — Kostenvorschuss
 
-Der Vollzug der Haft ist nicht vom Erlag eines Kostenvorschusses abhängig zu machen\.
+> Der Vollzug der Haft ist nicht vom Erlag eines Kostenvorschusses abhängig zu machen\.
 
 ### § 367 EO — Abgabe einer Willenserklärung
 
@@ -4952,11 +4952,11 @@ Der Vollzug der Haft ist nicht vom Erlag eines Kostenvorschusses abhängig zu ma
 
 ### § 370 EO — Bewilligung
 
-Zur Sicherung von Geldforderungen kann auf Grund der von inländischen Zivilgerichten in nicht streitigen Rechtsangelegenheiten erlassenen, einstweilen noch nicht vollziehbaren Verfügungen, sowie auf Grund von Endurteilen und Zahlungsaufträgen inländischer Zivilgerichte schon vor Eintritt ihrer Rechtskraft oder vor Ablauf der für die Leistung bestimmten Frist auf Antrag die Vornahme von Exekutionshandlungen bewilligt werden, wenn dem Gericht glaubhaft gemacht wird, dass ohne diese die Einbringung der gerichtlich zuerkannten Geldforderung vereitelt oder erheblich erschwert werden würde oder dass zum Zweck ihrer Einbringung die Entscheidung in Staaten vollstreckt werden müsste, in denen die Vollstreckung des Anspruchs weder durch völkerrechtliche Verträge noch durch Unionsrecht gesichert ist\.
+> Zur Sicherung von Geldforderungen kann auf Grund der von inländischen Zivilgerichten in nicht streitigen Rechtsangelegenheiten erlassenen, einstweilen noch nicht vollziehbaren Verfügungen, sowie auf Grund von Endurteilen und Zahlungsaufträgen inländischer Zivilgerichte schon vor Eintritt ihrer Rechtskraft oder vor Ablauf der für die Leistung bestimmten Frist auf Antrag die Vornahme von Exekutionshandlungen bewilligt werden, wenn dem Gericht glaubhaft gemacht wird, dass ohne diese die Einbringung der gerichtlich zuerkannten Geldforderung vereitelt oder erheblich erschwert werden würde oder dass zum Zweck ihrer Einbringung die Entscheidung in Staaten vollstreckt werden müsste, in denen die Vollstreckung des Anspruchs weder durch völkerrechtliche Verträge noch durch Unionsrecht gesichert ist\.
 
 ### § 371 EO — Exekution zur Sicherstellung ohne Bescheinigung
 
-Selbst ohne solche Bescheinigung ist die Vornahme von Exekutionshandlungen zur Sicherung von Geldforderungen auf Antrag zu bewilligen:
+> Selbst ohne solche Bescheinigung ist die Vornahme von Exekutionshandlungen zur Sicherung von Geldforderungen auf Antrag zu bewilligen:
 
 > `1.` auf Grund der infolge Anerkenntnis ergangenen Endurteile erster Instanz \(§ 395 der ZPO\), wenn wider diese Urteile Berufung erhoben wurde, auf Grund der nach den §§ 396, 442 der ZPO gefällten Versäumnisurteile, wenn gegen sie Widerspruch nach den §§ 397a, 398, 442a ZPO erhoben wurde, auf Grund eines in zweiter Instanz bestätigten Urteils, wenn wider das Urteil des Berufungsgerichts Revision erhoben wurde oder wenn wider ein Urteil zweiter Instanz ein Antrag verbunden mit einer ordentlichen Revision nach § 508 Abs\. 1 ZPO gestellt wurde\.
 
@@ -4968,15 +4968,15 @@ Selbst ohne solche Bescheinigung ist die Vornahme von Exekutionshandlungen zur S
 
 ### § 371a EO — Leistung einer Sicherheit für drohenden Schaden
 
-Auf Grund von Endurteilen erster oder zweiter Instanz, wider die Berufung oder Revision erhoben wurde, sind Exekutionshandlungen zur Sicherung von Geldforderungen ohne die im § 370 geforderte Bescheinigung auch dann zulässig, wenn der betreibende Gläubiger eine vom Gericht nach freiem Ermessen zu bestimmende Sicherheit für den dem Verpflichteten durch die Exekutionshandlungen drohenden Schaden \(§ 376 Abs\. 2\) leistet\. Vor Nachweis des gerichtlichen Erlages der zu leistenden Sicherheit darf mit dem Vollzuge der Exekutionshandlungen nicht begonnen werden\.
+> Auf Grund von Endurteilen erster oder zweiter Instanz, wider die Berufung oder Revision erhoben wurde, sind Exekutionshandlungen zur Sicherung von Geldforderungen ohne die im § 370 geforderte Bescheinigung auch dann zulässig, wenn der betreibende Gläubiger eine vom Gericht nach freiem Ermessen zu bestimmende Sicherheit für den dem Verpflichteten durch die Exekutionshandlungen drohenden Schaden \(§ 376 Abs\. 2\) leistet\. Vor Nachweis des gerichtlichen Erlages der zu leistenden Sicherheit darf mit dem Vollzuge der Exekutionshandlungen nicht begonnen werden\.
 
 ### § 372 EO — Unterhaltsansprüche, Geldrenten
 
-Zur Sicherung noch nicht fälliger Unterhaltsansprüche und noch nicht fälliger Geldrenten wegen Tötung, Verletzung des Körpers oder der Gesundheit kann, soweit § 291c Abs\. 1 nicht anzuwenden ist, zugleich mit der Exekution zur Hereinbringung fälliger Beträge Exekution zur Sicherung der innerhalb eines Jahres fällig werdenden Beträge begehrt werden\.
+> Zur Sicherung noch nicht fälliger Unterhaltsansprüche und noch nicht fälliger Geldrenten wegen Tötung, Verletzung des Körpers oder der Gesundheit kann, soweit § 291c Abs\. 1 nicht anzuwenden ist, zugleich mit der Exekution zur Hereinbringung fälliger Beträge Exekution zur Sicherung der innerhalb eines Jahres fällig werdenden Beträge begehrt werden\.
 
 ### § 373 EO — Versäumungsurteil
 
-Exekutionshandlungen zur Sicherung von Geldforderungen sind auf Grund eines Versäumungsurteils, gegen das Widerspruch nach den §§ 397a, 398, 442a ZPO erhoben worden ist, auch dann zu bewilligen, wenn das Versäumungsurteil zwar infolge des Widerspruchs aufgehoben, aber die Geldforderung dem Gläubiger noch nicht aberkannt oder deren Erlöschung noch nicht festgestellt worden ist\.
+> Exekutionshandlungen zur Sicherung von Geldforderungen sind auf Grund eines Versäumungsurteils, gegen das Widerspruch nach den §§ 397a, 398, 442a ZPO erhoben worden ist, auch dann zu bewilligen, wenn das Versäumungsurteil zwar infolge des Widerspruchs aufgehoben, aber die Geldforderung dem Gläubiger noch nicht aberkannt oder deren Erlöschung noch nicht festgestellt worden ist\.
 
 ### § 374 EO — Sicherungsmittel von Geldforderungen
 
@@ -4995,13 +4995,13 @@ Exekutionshandlungen zur Sicherung von Geldforderungen sind auf Grund eines Vers
 ### § 376 EO — Vollziehung
 
 > `(1)` Die Vollziehung der bewilligten Exekutionshandlungen hat auf Antrag zu unterbleiben und die bereits vollzogenen Exekutionshandlungen sind aufzuheben:
-> 
+>
 >> `1.` wenn glaubhaft gemacht wird, dass die Geldforderung, zu deren Gunsten eine Exekutionshandlung bewilligt wurde, schon zur Zeit dieser Bewilligung berichtigt oder hinlänglich sichergestellt war;
-> 
+>
 >> `2.` wenn glaubhaft gemacht wird, dass diese Forderung derzeit berichtigt oder hinlänglich sichergestellt ist, insbesondere wenn der Verpflichtete den Betrag der zu sichernden Forderung samt Nebengebühren in barem Gelde oder in Wertpapieren zu Gerichtshanden erlegt; bei verzinslichen Forderungen müssen auch die Zinsen für die ganze Zeit der bewilligten Sicherung erlegt werden;
-> 
+>
 >> `3.` wenn die Geldforderung, zu Gunsten deren die Exekutionshandlung bewilligt wurde, dem Gläubiger rechtskräftig aberkannt oder wenn deren Erlöschung rechtskräftig festgestellt wird;
-> 
+>
 >> `4.` wenn im Falle des § 371 Z 3 dem Wiedereinsetzungsgesuche rechtskräftig stattgegeben wird\.
 
 > `(2)` In den unter Z 1, 3 und 4 bezeichneten Fällen hat der betreibende Gläubiger alle durch die Bewilligung, den Vollzug und die Wiederaufhebung der Exekutionshandlungen entstandenen Kosten zu tragen und den dem Verpflichteten verursachten Schaden zu ersetzen\. Ist die Exekution auf Grund eines Versäumungsurteils, gegen das Widerspruch erhoben ist, bewilligt worden, so tritt die Schadenersatzpflicht nicht ein, wenn dem betreibenden Gläubiger bei der Einleitung und der Fortsetzung der Exekution keine grobe Fahrlässigkeit zur Last fällt\.
@@ -5028,28 +5028,28 @@ Exekutionshandlungen zur Sicherung von Geldforderungen sind auf Grund eines Vers
 
 ### § 378a EO — Einstweilige Verfügungen in Verfahren außer Streitsachen
 
-In Verfahren außer Streitsachen, die von Amts wegen eingeleitet werden können, kann das Gericht einstweilige Verfügungen auch von Amts wegen erlassen, einschränken oder aufheben\.
+> In Verfahren außer Streitsachen, die von Amts wegen eingeleitet werden können, kann das Gericht einstweilige Verfügungen auch von Amts wegen erlassen, einschränken oder aufheben\.
 
 ### § 379 EO — Sicherung von Geldforderungen
 
 > `(1)` Zur Sicherung von Geldforderungen sind einstweilige Verfügungen unstatthaft, soweit die Partei zu gleichem Zwecke die Vornahme von Exekutionshandlungen auf das Vermögen des Gegners erwirken kann \(§ 370 ff\.\)\.
 
 > `(2)` Sonst können zur Sicherung von Geldforderungen einstweilige Verfügungen getroffen werden:
-> 
+>
 >> `1.` wenn wahrscheinlich ist, dass ohne sie der Gegner der gefährdeten Partei durch Beschädigen, Zerstören, Verheimlichen oder Verbringen von Vermögensstücken, durch Veräußerung oder andere Verfügungen über Gegenstände seines Vermögens, insbesondere durch darüber mit dritten Personen getroffene Vereinbarungen die Hereinbringung der Geldforderung vereiteln oder erheblich erschweren würde;
-> 
+>
 >> `2.` wenn die Entscheidung in Staaten vollstreckt werden müsste, in denen die Vollstreckung des Anspruchs weder durch völkerrechtliche Verträge noch durch Unionsrecht gesichert ist\.
 
 > `(3)` Zur Sicherung von Geldforderungen kann angeordnet werden:
-> 
+>
 >> `1.` die Verwahrung und Verwaltung von beweglichen körperlichen Sachen des Gegners der gefährdeten Partei \(§ 259 ff\.\), einschließlich der Hinterlegung von Geld;
-> 
+>
 >> `2.` das gerichtliche Verbot der Veräußerung oder Verpfändung beweglicher körperlicher Sachen mit der Wirkung, dass eine verbotswidrige Veräußerung oder Verpfändung ungültig ist, sofern nicht der Erwerber infolge sinngemäßer Anwendung der §§ 367 und 456 a\. b\. G\. B\. oder durch die Vorschriften der Artikel 306 und 307 des Handelsgesetzbuches geschützt ist;
-> 
+>
 >> `3.` das gerichtliche Drittverbot, wenn der Gegner der gefährdeten Partei an eine dritte Person eine Geldforderung oder einen Anspruch auf Leistung oder Herausgabe von anderen Sachen zu stellen hat\. Dieses Verbot wird dadurch vollzogen, dass dem Gegner der gefährdeten Partei jede Verfügung über den Anspruch und insbesondere dessen Einziehung untersagt und an den Dritten der Befehl gerichtet wird, bis auf weitere gerichtliche Anordnung das dem Gegner der gefährdeten Partei Geschuldete nicht zu zahlen und die diesem gebührenden Sachen weder auszufolgen noch sonst in Ansehung ihrer etwas zu unternehmen, was die Exekutionsführung auf die Geldforderung oder auf die geschuldeten oder herauszugebenden Sachen vereiteln oder erheblich erschweren könnte;
-> 
+>
 >> `4.` die Verwaltung von Liegenschaften des Gegners der gefährdeten Partei;
-> 
+>
 >> `5.` das Verbot der Veräußerung und Belastung von Liegenschaften oder bücherlichen Rechten des Gegners der gefährdeten Partei\.
 
 > `(4)` Die Pfändung von Sachen des Gegners der gefährdeten Partei darf nicht angeordnet werden\.
@@ -5064,11 +5064,11 @@ In Verfahren außer Streitsachen, die von Amts wegen eingeleitet werden können,
 
 ### § 380 EO — Der Exekution entzogene Vermögenswerte
 
-Soweit Ansprüche und Rechte der Exekution entzogen sind, können sie durch ein gerichtliches Verbot oder durch eine andere einstweilige, zur Sicherung einer Geldforderung angeordnete Verfügung nicht getroffen werden\.
+> Soweit Ansprüche und Rechte der Exekution entzogen sind, können sie durch ein gerichtliches Verbot oder durch eine andere einstweilige, zur Sicherung einer Geldforderung angeordnete Verfügung nicht getroffen werden\.
 
 ### § 381 EO — Sicherung anderer Ansprüche
 
-Zur Sicherung anderer Ansprüche können einstweilige Verfügungen getroffen werden:
+> Zur Sicherung anderer Ansprüche können einstweilige Verfügungen getroffen werden:
 
 > `1.` wenn zu besorgen ist, dass sonst die gerichtliche Verfolgung oder Verwirklichung des fraglichen Anspruches, insbesondere durch eine Veränderung des bestehenden Zustandes, vereitelt oder erheblich erschwert werden würde; als solche Erschwerung ist es anzusehen, wenn die Entscheidung in Staaten vollstreckt werden müsste, in denen die Vollstreckung des Anspruchs weder durch völkerrechtliche Verträge noch durch Unionsrecht gesichert ist;
 
@@ -5076,7 +5076,7 @@ Zur Sicherung anderer Ansprüche können einstweilige Verfügungen getroffen wer
 
 ### § 382 EO — Sicherungsmittel
 
-Sicherungsmittel, die das Gericht je nach Beschaffenheit des im einzelnen Falle zu erreichenden Zweckes auf Antrag anordnen kann, sind insbesondere:
+> Sicherungsmittel, die das Gericht je nach Beschaffenheit des im einzelnen Falle zu erreichenden Zweckes auf Antrag anordnen kann, sind insbesondere:
 
 > `1.` die gerichtliche Hinterlegung der beweglichen, in der Gewahrsame des Gegners der gefährdeten Partei befindlichen Sachen, auf deren Herausgabe oder Leistung der von letzterer behauptete oder ihr bereits zuerkannte Anspruch gerichtet ist, oder wenn sich die Sachen zum gerichtlichen Erlage nicht eignen sollten, die Anordnung einer Verwahrung im Sinne des § 259;
 
@@ -5093,7 +5093,7 @@ Sicherungsmittel, die das Gericht je nach Beschaffenheit des im einzelnen Falle 
 > `7.` das gerichtliche Drittverbot, wenn der Gegner der gefährdeten Partei an eine dritte Person einen Anspruch auf Leistung oder Herausgabe von Sachen zu stellen hat, auf welche sich der von der gefährdeten Partei behauptete oder ihr bereits zuerkannte Anspruch bezieht\. Dieses Verbot wird dadurch vollzogen, dass dem Gegner der gefährdeten Partei jede Verfügung über seinen Anspruch wider den Dritten und insbesondere die Empfangnahme jener Sachen untersagt und an den Dritten der Befehl gerichtet wird, bis auf weitere gerichtliche Anordnung die dem Gegner der gefährdeten Partei gebührenden Sachen weder auszufolgen noch sonst in Ansehung ihrer etwas zu unternehmen, was die Exekutionsführung darauf vereiteln oder erheblich erschweren könnte;
 
 > `8.` > `a)` die Bestimmung eines einstweilen von einem Ehegatten oder einem geschiedenen Ehegatten dem anderen oder von einem Elternteil seinem Kind zu leistenden Unterhalts, jeweils im Zusammenhang mit einem Verfahren auf Leistung des Unterhalts; handelt es sich um die Unterhaltspflicht des Vaters eines unehelichen Kindes, so gilt dies nur, wenn die Vaterschaft festgestellt ist; im Fall des Unterhalts des Ehegatten oder eines ehelichen Kindes genügt der Zusammenhang mit einem Verfahren auf Scheidung, Aufhebung oder Nichtigerklärung der Ehe;
-> 
+>
 >> `b)` die einstweilige Regelung der Benützung oder die einstweilige Sicherung ehelichen Gebrauchsvermögens und ehelicher Ersparnisse im Zusammenhang mit einem Verfahren auf Aufteilung dieses Vermögens oder im Zusammenhang mit einem Verfahren auf Scheidung, Aufhebung oder Nichtigerklärung der Ehe\.
 
 ### § 382a EO — Vorläufiger Unterhalt
@@ -5110,17 +5110,17 @@ Sicherungsmittel, die das Gericht je nach Beschaffenheit des im einzelnen Falle 
 
 ### § 382b EO — Schutz vor Gewalt in Wohnungen
 
-Das Gericht hat einer Person, die einer anderen Person durch einen körperlichen Angriff, eine Drohung mit einem solchen oder ein die psychische Gesundheit erheblich beeinträchtigendes Verhalten das weitere Zusammenleben unzumutbar macht, auf deren Antrag
+> Das Gericht hat einer Person, die einer anderen Person durch einen körperlichen Angriff, eine Drohung mit einem solchen oder ein die psychische Gesundheit erheblich beeinträchtigendes Verhalten das weitere Zusammenleben unzumutbar macht, auf deren Antrag
 
 > `1.` das Verlassen der Wohnung und deren unmittelbarer Umgebung aufzutragen und
 
 > `2.` die Rückkehr in die Wohnung und deren unmittelbare Umgebung zu verbieten,
 
-&nbsp; wenn die Wohnung der Befriedigung des dringenden Wohnbedürfnisses des Antragstellers dient\.
+> &nbsp; wenn die Wohnung der Befriedigung des dringenden Wohnbedürfnisses des Antragstellers dient\.
 
 ### § 382c EO — Allgemeiner Schutz vor Gewalt
 
-Das Gericht hat einer Person, die einer anderen Person durch einen körperlichen Angriff, eine Drohung mit einem solchen oder ein die psychische Gesundheit erheblich beeinträchtigendes Verhalten das weitere Zusammentreffen unzumutbar macht, auf deren Antrag
+> Das Gericht hat einer Person, die einer anderen Person durch einen körperlichen Angriff, eine Drohung mit einem solchen oder ein die psychische Gesundheit erheblich beeinträchtigendes Verhalten das weitere Zusammentreffen unzumutbar macht, auf deren Antrag
 
 > `1.` den Aufenthalt an bestimmt zu bezeichnenden Orten zu verbieten,
 
@@ -5128,11 +5128,11 @@ Das Gericht hat einer Person, die einer anderen Person durch einen körperlichen
 
 > `3.` zu verbieten, sich dem Antragsteller oder bestimmt zu bezeichnenden Orten in einem bestimmten Umkreis anzunähern,
 
-&nbsp; soweit dem nicht schwerwiegende Interessen des Antragsgegners zuwiderlaufen\.
+> &nbsp; soweit dem nicht schwerwiegende Interessen des Antragsgegners zuwiderlaufen\.
 
 ### § 382d EO — Schutz vor Eingriffen in die Privatsphäre
 
-Der Anspruch auf Unterlassung von Eingriffen in die Privatsphäre kann insbesondere durch folgende Mittel gesichert werden:
+> Der Anspruch auf Unterlassung von Eingriffen in die Privatsphäre kann insbesondere durch folgende Mittel gesichert werden:
 
 > `1.` Verbot persönlicher Kontaktaufnahme sowie Verbot der Verfolgung der gefährdeten Partei,
 
@@ -5176,28 +5176,28 @@ Der Anspruch auf Unterlassung von Eingriffen in die Privatsphäre kann insbesond
 
 ### § 382g EO — Abgabestelle des Antragsgegners
 
-Wenn eine einstweilige Verfügung zum Schutz vor Gewalt \(§§ 382b, 382c\) beantragt wurde und der Antragsgegner gegenüber Organen des öffentlichen Sicherheitsdienstes aus Anlass eines Betretungs\- und Annäherungsverbots nach § 38a SPG eine Abgabestelle bekanntgegeben hat, so gilt diese als Abgabestelle für das gerichtliche Verfahren über eine einstweilige Verfügung zum Schutz vor Gewalt\. Hat der Antragsgegner eine solche Bekanntgabe trotz Hinweises auf die Rechtsfolgen unterlassen, so können die Zustellungen im Verfahren über die einstweilige Verfügung durch Hinterlegung so lange ohne vorausgehenden Zustellversuch vorgenommen werden \(§§ 8 und 23 Zustellgesetz\), bis dem Gericht eine Abgabestelle bekanntgegeben wird\.
+> Wenn eine einstweilige Verfügung zum Schutz vor Gewalt \(§§ 382b, 382c\) beantragt wurde und der Antragsgegner gegenüber Organen des öffentlichen Sicherheitsdienstes aus Anlass eines Betretungs\- und Annäherungsverbots nach § 38a SPG eine Abgabestelle bekanntgegeben hat, so gilt diese als Abgabestelle für das gerichtliche Verfahren über eine einstweilige Verfügung zum Schutz vor Gewalt\. Hat der Antragsgegner eine solche Bekanntgabe trotz Hinweises auf die Rechtsfolgen unterlassen, so können die Zustellungen im Verfahren über die einstweilige Verfügung durch Hinterlegung so lange ohne vorausgehenden Zustellversuch vorgenommen werden \(§§ 8 und 23 Zustellgesetz\), bis dem Gericht eine Abgabestelle bekanntgegeben wird\.
 
 ### § 382h EO — Verständigungen
 
 > `(1)` Das Gericht, bei dem der Antrag auf Erlassung einer einstweiligen Verfügung zum Schutz vor Gewalt \(§§ 382b, 382c\) eingebracht wurde, hat die örtlich zuständige Sicherheitsbehörde von der Einbringung des Antrags und dessen Umfang sowie von einer allfälligen Zurückziehung unverzüglich in Kenntnis zu setzen\.
 
 > `(2)` Vom Inhalt des Beschlusses, mit dem über einen Antrag auf Erlassung einer einstweiligen Verfügung zum Schutz vor Gewalt oder zum Schutz vor Eingriffen in die Privatsphäre entschieden wird, und von einem Beschluss, mit dem die einstweilige Verfügung aufgehoben wird, sind auch
-> 
+>
 >> `1.` im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, die Landespolizeidirektion, sonst die örtlich zuständige Bezirksverwaltungsbehörde als Sicherheitsbehörde,
-> 
+>
 >> `2.` der örtlich zuständige Kinder\- und Jugendhilfeträger sowie das Pflegschaftsgericht, wenn eine der Parteien minderjährig oder sich aus der Aktenlage ergibt, dass eine minderjährige Person in der von der einstweiligen Verfügung erfassten Wohnung wohnt,
-> 
+>
 > &nbsp; unverzüglich zu verständigen\.
 
 ### § 382i EO — Vollzug
 
 > `(1)` Einstweilige Verfügungen zum Schutz vor Gewalt in Wohnungen sind sofort von Amts wegen oder auf Antrag zu vollziehen\. Dabei gilt Folgendes:
-> 
+>
 >> `1.` Das Vollstreckungsorgan hat den Antragsgegner aus der Wohnung zu weisen und ihm alle Schlüssel zur Wohnung abzunehmen und bei Gericht zu erlegen\. Es hat dem Antragsgegner Gelegenheit zur Mitnahme seiner persönlichen Wertsachen und Dokumente sowie jener Sachen zu gewähren, die seinem alleinigen persönlichen Gebrauch oder der Ausübung seines Berufs dienen\.
-> 
+>
 >> `2.` Ist der Antragsgegner beim Vollzug nicht anwesend, so hat ihm das Vollstreckungsorgan auf seinen Antrag binnen zwei Tagen Gelegenheit zu geben, seine Sachen im Sinn der Z 1 aus der Wohnung abzuholen\. Auf dieses Recht ist der Antragsgegner vom Vollstreckungsorgan durch Hinterlassung einer Nachricht an der Wohnungstüre sowie mit dem Beschluss auf Bewilligung der einstweiligen Verfügung hinzuweisen\.
-> 
+>
 >> `3.` Vor der Ausfolgung gemäß Z 1 abgenommener oder nach § 38a SPG bei Gericht erlegter Schlüssel sind die Parteien einzuvernehmen\. Ist strittig, wer über die Schlüssel verfügungsberechtigt ist, so sind die Parteien auf den streitigen Rechtsweg zu verweisen; die Schlüssel sind in diesem Fall weiter gerichtlich zu verwahren\.
 
 > `(2)` Das Gericht kann auch die Sicherheitsbehörden mit dem Vollzug einer einstweiligen Verfügung zum Schutz vor Gewalt \(§§ 382b, 382c\) oder zum Schutz vor Eingriffen in die Privatsphäre nach § 382d Z 1, 3 und 8 durch die ihnen zur Verfügung stehenden Organe des öffentlichen Sicherheitsdienstes beauftragen\. In diesem Fall sind diese Organe als Vollstreckungsorgane jeweils auf Ersuchen des Antragstellers verpflichtet, den einer solchen einstweiligen Verfügung entsprechenden Zustand durch unmittelbare Befehls\- und Zwangsgewalt herzustellen und dem Gericht, das die einstweilige Verfügung erlassen hat, darüber zu berichten\.
@@ -5249,9 +5249,9 @@ Wenn eine einstweilige Verfügung zum Schutz vor Gewalt \(§§ 382b, 382c\) bea
 > `(1)` Zum Zwecke der Sicherung der Person des Gegners der gefährdeten Partei darf nur die Verhaftung und Anhaltung stattfinden\. Die Verhaftung darf nur angeordnet werden, wenn der Gegner der gefährdeten Partei flüchtig oder der Flucht verdächtig und zugleich die Besorgnis begründet ist, dass durch seine Flucht die Verwirklichung des Rechtes der gefährdeten Partei vereitelt würde\.
 
 > `(2)` In Bezug auf die Zulässigkeit der Anhaltung in Haft und die Vollziehung dieser Haft gelten die Vorschriften der §§ 360 bis 366 mit der Abweichung:
-> 
+>
 >> `1.` dass gegen eine in aktiver Dienstleistung begriffene Person der bewaffneten Macht oder der Bundespolizei als einstweilige Vorkehrung weder Haft angeordnet, noch vollzogen werden darf,
-> 
+>
 >> `2.` dass die Haft wegen Fluchtverdachts auf Ansuchen des Verhafteten, sofern der Zweck der einstweiligen Verfügung hiedurch nicht vereitelt oder gefährdet wird, durch Anhaltung des Verhafteten in seiner Wohnung oder an einem anderen nicht öffentlichen Orte vollzogen werden kann\.
 
 > `(3)` Die Kosten einer solchen, nicht im öffentlichen Haftlokal zu vollziehenden Haft und insbesondere die mit der entsprechenden Überwachung des Verhafteten verbundenen Kosten hat dieser selbst zu tragen\. § 366 ist auf diese Kosten insoweit anzuwenden, als bei nicht rechtzeitigem Erlag der Kosten der Verhaftete in die Haftanstalt zu bringen ist\.
@@ -5284,7 +5284,7 @@ Wenn eine einstweilige Verfügung zum Schutz vor Gewalt \(§§ 382b, 382c\) bea
 
 ### § 389a EO — Bankguthaben
 
-Beantragt die gefährdete Partei, zur Sicherung einer Geldforderung ein Drittverbot zu erlassen, weil der Gegner ein Guthaben bei einer Bank hat, so hat die gefährdete Partei im Antrag und während des Verfahrens zur Erlangung einer einstweiligen Verfügung unverzüglich das Gericht zu informieren, wenn
+> Beantragt die gefährdete Partei, zur Sicherung einer Geldforderung ein Drittverbot zu erlassen, weil der Gegner ein Guthaben bei einer Bank hat, so hat die gefährdete Partei im Antrag und während des Verfahrens zur Erlangung einer einstweiligen Verfügung unverzüglich das Gericht zu informieren, wenn
 
 > `1.` sie gegen denselben Gegner der gefährdeten Partei im Hinblick auf die Sicherung derselben Geldforderung den Erlass eines Europäischen Beschlusses zur vorläufigen Kontenpfändung beantragte, einen solchen Beschluss erwirkte und inwieweit dieser ausgeführt wurde,
 
@@ -5328,9 +5328,9 @@ Beantragt die gefährdete Partei, zur Sicherung einer Geldforderung ein Drittver
 
 > `(2)` Wurde die einstweilige Verfügung offenbar mutwillig erwirkt, so ist der Partei überdies auf Antrag ihres Gegners eine vom Gericht mit Rücksicht auf die besonderen Umstände des einzelnen Falles zu bemessende Mutwillensstrafe aufzuerlegen\.
 
-*\(\_\_\_\_\_\_\_\_\_\_*
-
-*Anm\. 1: Art\. 6 Z 4 der Novelle BGBl\. I Nr\. 147/2021 lautet: „Folgende Begriffe werden in der Exekutionsordnung \(auch in den Überschriften\) in der grammatikalisch jeweils richtigen Form und dem dazu passenden bestimmten oder unbestimmten Artikel unter Berücksichtigung der Klein\- und Großschreibung ersetzt:…………\.\.10\. „Vermögensachtheile“ durch „Vermögensnachteile“\.* *Richtig wäre der Begriff „Vermögens**n**achtheile“ durch „Vermögensnachteile“\.\)*
+> *\(\_\_\_\_\_\_\_\_\_\_*
+>
+> *Anm\. 1: Art\. 6 Z 4 der Novelle BGBl\. I Nr\. 147/2021 lautet: „Folgende Begriffe werden in der Exekutionsordnung \(auch in den Überschriften\) in der grammatikalisch jeweils richtigen Form und dem dazu passenden bestimmten oder unbestimmten Artikel unter Berücksichtigung der Klein\- und Großschreibung ersetzt:…………\.\.10\. „Vermögensachtheile“ durch „Vermögensnachteile“\.* *Richtig wäre der Begriff „Vermögens**n**achtheile“ durch „Vermögensnachteile“\.\)*
 
 ### § 395 EO — Zustellung
 
@@ -5341,7 +5341,7 @@ Beantragt die gefährdete Partei, zur Sicherung einer Geldforderung ein Drittver
 
 ### § 396 EO — Unstatthaftigkeit der Vollziehung einer einstweiligen Verfügung
 
-Die Vollziehung einer bewilligten Verfügung ist, sofern sie nicht wegen eines angebrachten Rekurses aufgeschoben wurde, unstatthaft, wenn seit dem Tage, an welchem die Bewilligung verkündet oder der antragstellenden Partei durch Zustellung des Beschlusses bekannt gegeben wurde, mehr als ein Monat verstrichen ist\.
+> Die Vollziehung einer bewilligten Verfügung ist, sofern sie nicht wegen eines angebrachten Rekurses aufgeschoben wurde, unstatthaft, wenn seit dem Tage, an welchem die Bewilligung verkündet oder der antragstellenden Partei durch Zustellung des Beschlusses bekannt gegeben wurde, mehr als ein Monat verstrichen ist\.
 
 ### § 397 EO — Widerspruch
 
@@ -5360,15 +5360,15 @@ Die Vollziehung einer bewilligten Verfügung ist, sofern sie nicht wegen eines a
 ### § 399 EO — Aufhebung oder Einschränkung der angeordneten Verfügung
 
 > `(1)` Das Gericht kann auf Antrag eine angeordnete Verfügung selbst nach Zurückweisung eines gemäß § 397 erhobenen Widerspruchs insbesondere dann aufheben oder einschränken, wenn
-> 
+>
 >> `1.` die Verfügung in weiterem Umfang ausgeführt wurde, als es zur Sicherung der gefährdeten Partei notwendig ist,
-> 
+>
 >> `2.` sich inzwischen die Verhältnisse, in Anbetracht deren die einstweilige Verfügung bewilligt wurde, derart geändert haben, dass es des Fortbestandes dieser Verfügung zur Sicherung der Partei, auf deren Antrag sie bewilligt wurde, nicht mehr bedarf,
-> 
+>
 >> `3.` der Gegner der gefährdeten Partei die ihm vorbehaltene oder eine anderweitige, dem Gericht genügend erscheinende Sicherheit geleistet hat und sich darüber ausweist,
-> 
+>
 >> `4.` der Anspruch der gefährdeten Partei, für welchen die einstweilige Verfügung bewilligt wurde, berichtigt oder rechtskräftig aberkannt oder dessen Erlöschen rechtskräftig festgestellt wurde,
-> 
+>
 >> `5.` ein Fall des § 39 Abs\. 1 oder des § 391 vorliegt\.
 
 > `(2)` Über solche Anträge hat, wenn sie während des in der Hauptsache noch anhängigen Prozesses gestellt werden, das Prozessgericht erster Instanz, sonst das Gericht, das über Antrag auf Bewilligung der einstweiligen Verfügung in erster Instanz entschieden hat, mit Beschluss zu entscheiden\. Vor der Entscheidung ist die gefährdete Partei einzuvernehmen\.
@@ -5378,9 +5378,9 @@ Die Vollziehung einer bewilligten Verfügung ist, sofern sie nicht wegen eines a
 > `(1)` Eine einstweilige Verfügung nach § 382a ist soweit einzuschränken, als sich aus den Pflegschaftsakten ergibt oder der Gegner bescheinigt, dass er dem Minderjährigen offenbar nicht in dieser Höhe zu Unterhalt verpflichtet ist\.
 
 > `(2)` Eine einstweilige Verfügung nach § 382a ist aufzuheben:
-> 
+>
 >> `1.` wenn sich aus den Pflegschaftsakten ergibt oder der Gegner bescheinigt, dass er dem Minderjährigen zu Unterhalt nicht verpflichtet ist oder eine Bewilligungsvoraussetzung nach § 382a Abs\. 1 nicht vorliegt;
-> 
+>
 >> `2.` wenn das Unterhaltsverfahren beendet ist\.
 
 > `(3)` Die Aufhebung oder Einschränkung der einstweiligen Verfügung nach § 382a wirkt ab der Verwirklichung des Aufhebungsbeziehungsweise Einschränkungsgrundes\. Dieser Zeitpunkt ist im Beschluss über die Aufhebung oder Einschränkung der einstweiligen Verfügung festzustellen\.
@@ -5405,7 +5405,7 @@ Die Vollziehung einer bewilligten Verfügung ist, sofern sie nicht wegen eines a
 
 ### § 400 EO — Ausfolgung der Sicherheitsleistung
 
-Eine zur Deckung der Kosten oder der Schadenersatzansprüche von der gefährdeten Partei erlegte Sicherheit \(§§ 390 und 398\) darf ihr erst nach Ablauf von vierzehn Tagen seit Eintritt der Rechtskraft des Beschlusses ausgefolgt werden, durch welchen die einstweilige Verfügung aufgehoben wird\.
+> Eine zur Deckung der Kosten oder der Schadenersatzansprüche von der gefährdeten Partei erlegte Sicherheit \(§§ 390 und 398\) darf ihr erst nach Ablauf von vierzehn Tagen seit Eintritt der Rechtskraft des Beschlusses ausgefolgt werden, durch welchen die einstweilige Verfügung aufgehoben wird\.
 
 ### § 401 EO — Anordnungen über verwahrte Sachen
 
@@ -5435,7 +5435,7 @@ Eine zur Deckung der Kosten oder der Schadenersatzansprüche von der gefährdete
 
 ### § 403 EO — Allgemeines
 
-Akte und Urkunden, die im Ausland errichtet wurden \(ausländische Exekutionstitel\), bedürfen zur Vollstreckung einer Vollstreckbarerklärung im Inland, soweit sie nicht aufgrund einer völkerrechtlichen Vereinbarung oder eines Rechtsakts der Europäischen Union ohne gesonderte Vollstreckbarerklärung zu vollstrecken sind\.
+> Akte und Urkunden, die im Ausland errichtet wurden \(ausländische Exekutionstitel\), bedürfen zur Vollstreckung einer Vollstreckbarerklärung im Inland, soweit sie nicht aufgrund einer völkerrechtlichen Vereinbarung oder eines Rechtsakts der Europäischen Union ohne gesonderte Vollstreckbarerklärung zu vollstrecken sind\.
 
 ### § 404 EO — Anpassung ausländischer Exekutionstitel
 
@@ -5463,11 +5463,11 @@ Akte und Urkunden, die im Ausland errichtet wurden \(ausländische Exekutionstit
 
 ### § 406 EO
 
-Akte und Urkunden sind für vollstreckbar zu erklären, wenn die Akte und Urkunden nach den Bestimmungen des Staates, in dem sie errichtet wurden, vollstreckbar sind und die Gegenseitigkeit durch Staatsverträge oder durch Verordnungen verbürgt ist\.
+> Akte und Urkunden sind für vollstreckbar zu erklären, wenn die Akte und Urkunden nach den Bestimmungen des Staates, in dem sie errichtet wurden, vollstreckbar sind und die Gegenseitigkeit durch Staatsverträge oder durch Verordnungen verbürgt ist\.
 
 ### § 407 EO
 
-Einem Antrag auf Vollstreckbarerklärung, der sich auf ein Erkenntnis eines ausländischen Gerichts oder einer sonstigen Behörde, auf einen vor diesen geschlossenen Vergleich oder auf eine ausländische öffentliche Urkunde gründet, ist überdies nur dann stattzugeben:
+> Einem Antrag auf Vollstreckbarerklärung, der sich auf ein Erkenntnis eines ausländischen Gerichts oder einer sonstigen Behörde, auf einen vor diesen geschlossenen Vergleich oder auf eine ausländische öffentliche Urkunde gründet, ist überdies nur dann stattzugeben:
 
 > `1.` wenn die Rechtssache nach Maßgabe der im Inlande über die Zuständigkeit geltenden Bestimmungen im auswärtigen Staate anhängig gemacht werden konnte;
 
@@ -5477,7 +5477,7 @@ Einem Antrag auf Vollstreckbarerklärung, der sich auf ein Erkenntnis eines ausl
 
 ### § 408 EO — Versagungsgründe
 
-Die Vollstreckbarerklärung ist ungeachtet des Vorhandenseins der in §§ 406 und 407 angeführten Bedingungen zu versagen:
+> Die Vollstreckbarerklärung ist ungeachtet des Vorhandenseins der in §§ 406 und 407 angeführten Bedingungen zu versagen:
 
 > `1.` wenn es dem Antragsgegner wegen einer Unregelmäßigkeit des Verfahrens nicht möglich war, sich an dem vor dem ausländischen Gericht oder der ausländischen Behörde stattfindenden Verfahren zu beteiligen;
 
@@ -5487,7 +5487,7 @@ Die Vollstreckbarerklärung ist ungeachtet des Vorhandenseins der in §§ 406 u
 
 ### § 409 EO — Zuständigkeit
 
-Für die Vollstreckbarerklärung ist zuständig:
+> Für die Vollstreckbarerklärung ist zuständig:
 
 > `1.` das Bezirksgericht, bei dem der Verpflichtete seinen Wohnsitz oder Sitz hat, oder
 
@@ -5504,9 +5504,9 @@ Für die Vollstreckbarerklärung ist zuständig:
 > `(1)` Im Verfahren über einen Rekurs gegen einen Beschluss über den Antrag auf Vollstreckbarerklärung ist § 521a ZPO mit der Maßgabe sinngemäß anzuwenden, dass die Fristen für Rekurs und Rekursbeantwortung jeweils vier Wochen betragen\.
 
 > `(2)` Wird dem Antrag auf Vollstreckbarerklärung ganz oder teilweise stattgegeben, so gilt für den Rekurs des Antragsgegners an das Gericht zweiter Instanz Folgendes:
-> 
+>
 >> `1.` Befindet sich der Wohnsitz oder Sitz des Antragsgegners nicht im Inland und stellt der Rekurs dessen erste Möglichkeit dar, sich am Verfahren zu beteiligen, so beträgt die Frist für den Rekurs acht Wochen\. Die Frist für die Rekursbeantwortung beträgt auch in diesem Fall vier Wochen\.
-> 
+>
 >> `2.` Im Rekurs gegen die Vollstreckbarerklärung können Gründe für deren Versagung auch dann geltend gemacht werden, wenn sie in erster Instanz nicht aktenkundig waren\. Der Antragsgegner ist dabei zur gleichzeitigen Geltendmachung aller nicht aktenkundigen Versagungsgründe bei sonstigem Ausschluss verpflichtet\.
 
 > `(3)` Wird der Antrag auf Vollstreckbarerklärung ganz oder teilweise abgewiesen und erhebt der Antragsteller dagegen Rekurs, so ist auf die Rekursbeantwortung des Antragsgegners Abs\. 2 Z 1 erster Satz und Z 2 entsprechend anzuwenden\.
@@ -5523,7 +5523,7 @@ Für die Vollstreckbarerklärung ist zuständig:
 
 ### § 413 EO — Wirkung der Vollstreckbarerklärung
 
-Nach Eintritt der Rechtskraft der Vollstreckbarerklärung ist der ausländische Exekutionstitel wie ein inländischer zu behandeln\. Ihm kommt aber nie mehr Wirkung als im Ursprungsstaat zu\.
+> Nach Eintritt der Rechtskraft der Vollstreckbarerklärung ist der ausländische Exekutionstitel wie ein inländischer zu behandeln\. Ihm kommt aber nie mehr Wirkung als im Ursprungsstaat zu\.
 
 ### § 414 EO — Aufhebung und Abänderung der Vollstreckbarerklärung
 
@@ -5533,7 +5533,7 @@ Nach Eintritt der Rechtskraft der Vollstreckbarerklärung ist der ausländische 
 
 ### § 415 EO — Anerkennung
 
-Wird die Feststellung beantragt, ob Akte und Urkunden anzuerkennen sind, die
+> Wird die Feststellung beantragt, ob Akte und Urkunden anzuerkennen sind, die
 
 > `1.` im Ausland errichtet wurden,
 
@@ -5541,7 +5541,7 @@ Wird die Feststellung beantragt, ob Akte und Urkunden anzuerkennen sind, die
 
 > `3.` einer Vollstreckung nicht zugänglich sind,
 
-&nbsp; so sind die vorstehenden Bestimmungen sinngemäß anzuwenden\.
+> &nbsp; so sind die vorstehenden Bestimmungen sinngemäß anzuwenden\.
 
 ### § 416 EO
 
@@ -5555,7 +5555,7 @@ Wird die Feststellung beantragt, ob Akte und Urkunden anzuerkennen sind, die
 
 ### § 417 EO
 
-Akte und Urkunden supranationaler Organisationen, denen Österreich angehört, sind, unabhängig davon, ob sie im Inland oder im Ausland errichtet worden sind, ausländischen Akten und Urkunden gleichgestellt\.
+> Akte und Urkunden supranationaler Organisationen, denen Österreich angehört, sind, unabhängig davon, ob sie im Inland oder im Ausland errichtet worden sind, ausländischen Akten und Urkunden gleichgestellt\.
 
 ## Vierter Abschnitt
 
@@ -5590,17 +5590,17 @@ Akte und Urkunden supranationaler Organisationen, denen Österreich angehört, s
 ### § 420 EO — Zuständigkeit
 
 > `(1)` Das Bezirksgericht, bei dem die geschützte Person ihren allgemeinen Gerichtsstand in Streitsachen hat, ist zuständig für
-> 
+>
 >> `1.` die Anordnung der Vollstreckung einer ausländischen Schutzmaßnahme nach der Verordnung \(EU\) Nr\. 606/2013 über die gegenseitige Anerkennung von Schutzmaßnahmen in Zivilsachen \(EuSchMaVO\) und die Entscheidung über den Exekutionsantrag aufgrund einer solchen Schutzmaßnahme sowie
-> 
+>
 >> `2.` die Anpassung nach Art\. 11 EuSchMaVO\.
-> 
+>
 > &nbsp; Hat die geschützte Person ihren allgemeinen Gerichtsstand in Streitsachen nicht im Inland, so ist das Bezirksgericht Innere Stadt Wien zuständig\.
 
 > `(2)` Das Bezirksgericht, das die Vollstreckung einer Schutzmaßnahme angeordnet oder das die Exekution bewilligt hat, ist zuständig für
-> 
+>
 >> `1.` die Versagung der Anerkennung oder der Vollstreckung nach Art\. 13 EuSchMaVO und
-> 
+>
 >> `2.` die Aufhebung der Anerkennung oder der Vollstreckung nach Art\. 14 Abs\. 2 EuSchMaVO\.
 
 ### § 421 EO — Verfahren bei der Anpassung von Schutzmaßnahmen
@@ -5652,17 +5652,17 @@ Akte und Urkunden supranationaler Organisationen, denen Österreich angehört, s
 ### § 427 EO — Voraussetzungen
 
 > `(1)` Ein Gläubiger kann zur Beurteilung, ob er einen Rechtsstreit oder ein Exekutions\- oder Insolvenzverfahren einleiten oder weiterführen soll, in folgende Daten über Exekutionsverfahren, die gegen seinen Schuldner wegen Geldforderungen geführt werden, elektronisch Einsicht nehmen, wenn er eine Forderung und berechtigte Zweifel an der Bonität des Schuldners bescheinigt:
-> 
+>
 >> `1.` das Exekutionsgericht, das Aktenzeichen und die Höhe der betriebenen Forderungen der Verfahren, die länger als ein Monat seit der Bewilligung anhängig und weder eingestellt noch unter vollständiger Befriedigung des Gläubigers beendet sind und bei denen auch nicht zwei Jahre seit dem letzten in die Daten aufgenommenen Exekutionsschritt abgelaufen sind, samt dem Hinweis auf eine Aufschiebung des Exekutionsverfahrens und die Art der Exekutionsmittel,
-> 
+>
 >> `2.` bei solchen Exekutionsverfahren auf bewegliche körperliche Sachen die erfolgten Pfändungen und ergebnislosen Vollzugsversuche, und
-> 
+>
 >> `3.` die Tatsache, dass innerhalb eines Jahres vor der Abfrage ein Vermögensverzeichnis abgegeben wurde\.
 
 > `(2)` Abfrageberechtigt sind Rechtsanwälte und Notare als Vertreter von Gläubigern sowie folgende inländische Körperschaften des öffentlichen Rechts als Gläubiger:
-> 
+>
 >> `1.` Gebietskörperschaften und
-> 
+>
 >> `2.` Sozialversicherungsträger\.
 
 > `(3)` Ein Schuldner kann zur Vorbereitung eines Insolvenz\-, Restrukturierungs\- oder Reorganisationsverfahrens oder seiner sonstigen Entschuldung in die in Abs\. 1 genannten, seine Person betreffenden Daten einsehen\. Abfrageberechtigt sind Rechtsanwälte, Notare und anerkannte Schuldenberatungsstellen als Vertreter des Schuldners\.
@@ -5692,15 +5692,15 @@ Akte und Urkunden supranationaler Organisationen, denen Österreich angehört, s
 > `(2)` Die jeweilige Rechtsanwalts\- oder Notariatskammer hat Rechtsanwälten bzw\. Notaren, die gegen § 427 oder § 429 verstoßen, ungeachtet weiterer disziplinarrechtlicher Folgen die Befugnis zur Abfrage befristet oder unbefristet zu untersagen\. Jede Untersagung ist unverzüglich sämtlichen Verrechnungsstellen und dem Bundesministerium für Justiz zur Kenntnis zu bringen\.
 
 > `(3)` Die Bundesrechenzentrum GmbH hat
-> 
+>
 >> `1.` dem Bundesministerium für Justiz,
-> 
+>
 >> `2.` den Gerichten und Bezirksverwaltungsbehörden,
-> 
+>
 >> `3.` den Rechtsanwalts\- und Notariatskammern und den Körperschaften des öffentlichen Rechts nach § 427 Abs\. 2 sowie
-> 
+>
 >> `4.` der Dachorganisation der Schuldenberatungsstellen
-> 
+>
 > &nbsp; auf deren Ersuchen zur Wahrnehmung der ihnen gesetzlich zukommenden Aufgaben im Rahmen ihres jeweiligen gesetzlichen Wirkungs\- und Aufgabenbereichs Einsicht in die nach § 429 Abs\. 2 zu führenden Protokolle zu gewähren\.
 
 > `(4)` Jeder Person ist beim Bezirksgericht ihres Wohnsitzes oder gewöhnlichen Aufenthalts Auskunft über die sie betreffenden Protokolle \(§ 429 Abs\. 2\) zu erteilen\.
@@ -5727,64 +5727,64 @@ Akte und Urkunden supranationaler Organisationen, denen Österreich angehört, s
 
 ### § 433 EO — Auktionshallen
 
-In der Ediktsdatei ist bekannt zu machen, bei welchen Gerichten Auktionshallen betrieben werden\.
+> In der Ediktsdatei ist bekannt zu machen, bei welchen Gerichten Auktionshallen betrieben werden\.
 
 ### § 434 EO — Lagerzins
 
 > `(1)` Für die Lagerung in der Auktionshalle ist ein Lagerzins zu entrichten\. Er beträgt bei Verwahrung nach § 259 für jeden angefangenen Monat der Verwahrung 1/2% vom Wert der eingelagerten Sachen; sonst für einen Tag 1%\. Ist die Sache bereits verkauft worden, so ist Bemessungsgrundlage das Meistbot oder der Kaufpreis, sonst der Schätzwert oder mangels einer Schätzung der vom Vollstreckungsorgan bei der Pfändung angegebene voraussichtlich erzielbare Erlös\.
 
 > `(2)` Zur Zahlung sind verpflichtet
-> 
+>
 >> `1.` der betreibende Gläubiger für die Verwahrung nach § 259;
-> 
+>
 >> `2.` der Ersteher oder der Käufer, wenn er die erworbenen Sachen nicht rechtzeitig weggebracht hat, beginnend mit dem zweiten Tag nach der Versteigerung oder dem Verkauf;
-> 
+>
 >> `3.` der Verpflichtete oder ein sonstiger Empfangsberechtigter, wenn er innerhalb von 14 Tagen nach Zustellung der Aufforderung die Sache nicht abgeholt hat, beginnend mit dem fünfzehnten Tag nach Zustellung der Aufforderung\.
 
 > `(3)` Der Lagerzins ist von dem Gericht, bei dem die Auktionshalle eingerichtet ist, vorzuschreiben und nach den Bestimmungen des GEG einzubringen\. Für die Einbringung des Lagerzinses bei Verwahrung gilt außerdem § 274b Abs\. 2 sinngemäß\.
 
 ### § 435 EO — Formblätter
 
-Die Bundesministerin für Justiz wird ermächtigt, zur Ermöglichung einer zweckmäßigen Behandlung der Eingaben mit Verordnung Formblätter einzuführen, die die Parteien für ihre Eingaben an das Gericht zu verwenden haben\. Diese Formblätter sind so zu gestalten, dass sie die Parteien leicht und sicher verwenden können\.
+> Die Bundesministerin für Justiz wird ermächtigt, zur Ermöglichung einer zweckmäßigen Behandlung der Eingaben mit Verordnung Formblätter einzuführen, die die Parteien für ihre Eingaben an das Gericht zu verwenden haben\. Diese Formblätter sind so zu gestalten, dass sie die Parteien leicht und sicher verwenden können\.
 
 ### § 436 EO — Verwalterliste in Exekutionssachen
 
 > `(1)` Die Verwalterliste in Exekutionssachen hat Textfelder für folgende Angaben zu enthalten:
-> 
+>
 >> `1.` Name, Anschrift, Telefon\- und Telefaxnummer sowie E\-Mail\-Adresse;
-> 
+>
 >> `2.` Ausbildung;
-> 
+>
 >> `3.` berufliche Laufbahn;
-> 
+>
 >> `4.` eingetragen in eine Berufsliste \(seit wann\) oder Art der Berufserfahrung \(seit wann\);
-> 
+>
 >> `5.` besondere Fachkenntnisse \(in wirtschaftlichen Belangen\);
-> 
+>
 >> `6.` besondere Kenntnisse über die Verwertung bestimmter Vermögenswerte und die Verwaltung bestimmter Vermögensobjekte und Liegenschaftskategorien;
-> 
+>
 >> `7.` Infrastruktur
->> 
+>>
 >>> `a)` Gesamtzahl der Mitarbeiter,
->> 
+>>
 >>> `b)` Zahl der Mitarbeiter mit Exekutionsverwaltungspraxis,
->> 
+>>
 >>> `c)` Zahl der Mitarbeiter mit juristischer Ausbildung,
->> 
+>>
 >>> `d)` Zahl der Mitarbeiter mit betriebswirtschaftlicher Ausbildung,
->> 
+>>
 >>> `e)` geeignetes EDV\-Programm,
->> 
+>>
 >>> `f)` Haftpflichtversicherung als Verwalter;
-> 
+>
 >> `8.` Erfahrung als Verwalter in Exekutionssachen \(insbesondere Anzahl der Bestellungen sowie Umsatz und Mitarbeiteranzahl\)
-> 
+>
 >> `9.` angestrebter örtlicher Tätigkeitsbereich;
-> 
+>
 >> `10.` bei juristischen Personen und eingetragenen Personengesellschaften
->> 
+>>
 >>> `a)` Vertretung bei Ausübung der Verwaltung in Exekutionssachen samt Angaben nach Z 1 bis 6,
->> 
+>>
 >>> `b)` Gesellschafter und wirtschaftlich Beteiligte\.
 
 > `(2)` Die Verwalterliste in Exekutionssachen ist als allgemein zugängliche Datenbank vom Oberlandesgericht Linz für ganz Österreich zu führen\. Eintragungen sind von Amts wegen zu löschen, wenn sie gegenstandslos sind oder wenn die Gebühr für die Veröffentlichung in der Verwalterliste trotz Zahlungsauftrags samt Hinweis auf diese Rechtsfolge nicht innerhalb der im Zahlungsauftrag bestimmten Leistungsfrist entrichtet wurde\.
@@ -5795,7 +5795,7 @@ Die Bundesministerin für Justiz wird ermächtigt, zur Ermöglichung einer zweck
 
 ### § 437 EO — Überweisung bei Neuerrichtung eines Bezirksgerichts
 
-Wenn ein neues Bezirksgericht errichtet wird, sind die im Zeitpunkt der Errichtung dieses Bezirksgerichts bei dem Bezirksgericht, dessen Sprengelgrenzen geändert wurden, anhängigen Exekutionsverfahren von Amts wegen an das neue Bezirksgericht zu überweisen, wenn dieses nach §§ 4 ff zuständig ist\.
+> Wenn ein neues Bezirksgericht errichtet wird, sind die im Zeitpunkt der Errichtung dieses Bezirksgerichts bei dem Bezirksgericht, dessen Sprengelgrenzen geändert wurden, anhängigen Exekutionsverfahren von Amts wegen an das neue Bezirksgericht zu überweisen, wenn dieses nach §§ 4 ff zuständig ist\.
 
 ## Fünfter Teil
 
@@ -5803,11 +5803,11 @@ Wenn ein neues Bezirksgericht errichtet wird, sind die im Zeitpunkt der Errichtu
 
 ### § 438 EO — Anfechtungsrecht
 
-Rechtshandlungen, die das Vermögen eines Schuldners betreffen, können außerhalb des Insolvenzverfahrens nach den folgenden Bestimmungen zum Zweck der Befriedigung eines Gläubigers angefochten und diesem gegenüber als unwirksam erklärt werden\. §§ 36, 38 und 42 IO sind anzuwenden\.
+> Rechtshandlungen, die das Vermögen eines Schuldners betreffen, können außerhalb des Insolvenzverfahrens nach den folgenden Bestimmungen zum Zweck der Befriedigung eines Gläubigers angefochten und diesem gegenüber als unwirksam erklärt werden\. §§ 36, 38 und 42 IO sind anzuwenden\.
 
 ### § 439 EO — Benachteiligungsabsicht und Vermögensverschleuderung
 
-Anfechtbar sind
+> Anfechtbar sind
 
 > `1.` alle Rechtshandlungen, die der Schuldner in der dem anderen Teil bekannten Absicht, seine Gläubiger zu benachteiligen, in den letzten zehn Jahren vor der Anfechtung vorgenommen hat;
 
@@ -5819,7 +5819,7 @@ Anfechtbar sind
 
 ### § 440 EO — Unentgeltliche und ihnen gleichgestellte Verfügungen
 
-Anfechtbar sind folgende in den letzten zwei Jahren vor der Anfechtung vorgenommene Rechtshandlungen:
+> Anfechtbar sind folgende in den letzten zwei Jahren vor der Anfechtung vorgenommene Rechtshandlungen:
 
 > `1.` unentgeltliche Verfügungen des Schuldners, soweit es sich nicht um die Erfüllung einer gesetzlichen Verpflichtung, um gebräuchliche Gelegenheitsgeschenke oder um Verfügungen in angemessener Höhe handelt, die zu gemeinnützigen Zwecken gemacht wurden oder durch die einer sittlichen Pflicht oder Rücksichten des Anstandes entsprochen worden ist;
 
@@ -5827,11 +5827,11 @@ Anfechtbar sind folgende in den letzten zwei Jahren vor der Anfechtung vorgenomm
 
 ### § 441 EO — Einzelverkäufe
 
-Leistungen auf Grund von Einzelverkäufen beweglicher Sachen im gewerbemäßigen Betrieb des Schuldners können nur wegen Benachteiligungsabsicht nach § 439 Z 1 bis 3 angefochten werden\.
+> Leistungen auf Grund von Einzelverkäufen beweglicher Sachen im gewerbemäßigen Betrieb des Schuldners können nur wegen Benachteiligungsabsicht nach § 439 Z 1 bis 3 angefochten werden\.
 
 ### § 442 EO — Exekution und Anfechtung
 
-Die Anfechtung wird dadurch nicht ausgeschlossen, dass für die anzufechtende Handlung ein Exekutionstitel erworben oder dass sie durch Exekution bewirkt worden ist\. Wird die Rechtshandlung für unwirksam erklärt, so erlischt dem Gläubiger gegenüber auch die Wirksamkeit des Exekutionstitels\.
+> Die Anfechtung wird dadurch nicht ausgeschlossen, dass für die anzufechtende Handlung ein Exekutionstitel erworben oder dass sie durch Exekution bewirkt worden ist\. Wird die Rechtshandlung für unwirksam erklärt, so erlischt dem Gläubiger gegenüber auch die Wirksamkeit des Exekutionstitels\.
 
 ### § 443 EO — Anfechtungsbefugnis
 
@@ -5842,11 +5842,11 @@ Die Anfechtung wird dadurch nicht ausgeschlossen, dass für die anzufechtende Ha
 ### § 444 EO — Hemmung des Ablaufs der Anfechtungsfrist
 
 > `(1)` Der Ablauf der Anfechtungsfrist wird für den Gläubiger einer vor diesem Ablauf fällig gewordenen, aber noch nicht vollstreckbaren Forderung bis zum Ende des sechsten Monats seit dem Eintritt der Vollstreckbarkeit der Forderung gehemmt, wenn der Gläubiger, nachdem er von der anfechtbaren Rechtshandlung des Schuldners erfahren hat,
-> 
+>
 >> `1.` das Verfahren gegen den Schuldner über die bereits anhängige Klage gehörig fortsetzt oder
-> 
+>
 >> `2.` den Schuldner unverzüglich klagt und das Verfahren über die Klage gehörig fortsetzt und
-> 
+>
 >> `3.` in beiden Fällen demjenigen, dem gegenüber die Rechtshandlung vorgenommen worden ist, oder dessen Erben seine Anfechtungsabsicht vor dem Ablauf der Anfechtungsfrist mit einem gerichtlich oder notariell zugestellten Schriftsatz mitteilt\.
 
 > `(2)` Zur Entgegennahme und zur Zustellung des in Abs\. 1 genannten Schriftsatzes ist jedes mit bürgerlichen Rechtssachen befasste Bezirksgericht zuständig\. Die Zustellung dieses Schriftsatzes ist nach den Vorschriften über die Zustellung von Klagen vorzunehmen\.
@@ -5855,11 +5855,11 @@ Die Anfechtung wird dadurch nicht ausgeschlossen, dass für die anzufechtende Ha
 
 ### § 445 EO — Anfechtung vor Vollstreckbarkeit
 
-Die Anfechtung kann mittels Einrede ausgeübt werden, bevor die Forderung des Gläubigers vollstreckbar geworden ist\. Ebenso kann die Anfechtung im Verfahren zur Verteilung eines im Wege der Zwangsvollstreckung erzielten Erlöses auch stattfinden, bevor die Forderung des anfechtenden Gläubigers vollstreckbar geworden ist\.
+> Die Anfechtung kann mittels Einrede ausgeübt werden, bevor die Forderung des Gläubigers vollstreckbar geworden ist\. Ebenso kann die Anfechtung im Verfahren zur Verteilung eines im Wege der Zwangsvollstreckung erzielten Erlöses auch stattfinden, bevor die Forderung des anfechtenden Gläubigers vollstreckbar geworden ist\.
 
 ### § 446 EO — Anfechtungsklage
 
-In der Klage ist anzugeben, in welchem Umfang und in welcher Weise der Beklagte zum Zweck der Befriedigung des Gläubigers etwas leisten oder dulden soll\.
+> In der Klage ist anzugeben, in welchem Umfang und in welcher Weise der Beklagte zum Zweck der Befriedigung des Gläubigers etwas leisten oder dulden soll\.
 
 ### § 447 EO — Inhalt des Anfechtungsanspruchs
 
@@ -5871,19 +5871,19 @@ In der Klage ist anzugeben, in welchem Umfang und in welcher Weise der Beklagte 
 
 ### § 448 EO — Rechte Dritter
 
-Haben dritte Personen an Sachen, die zurückzustellen sind, unanfechtbare Rechte erworben, so ist derjenige, während dessen Besitz die Belastung stattgefunden hat, zum Ersatz des Schadens an den Gläubiger verpflichtet, wenn sein Erwerb anfechtbar war\. § 447 Abs\. 3 ist anzuwenden\.
+> Haben dritte Personen an Sachen, die zurückzustellen sind, unanfechtbare Rechte erworben, so ist derjenige, während dessen Besitz die Belastung stattgefunden hat, zum Ersatz des Schadens an den Gläubiger verpflichtet, wenn sein Erwerb anfechtbar war\. § 447 Abs\. 3 ist anzuwenden\.
 
 ### § 449 EO — Ansprüche des Anfechtungsgegners
 
-Wegen Erstattung einer Gegenleistung oder wegen einer infolge der Anfechtung wieder auflebenden Forderung kann sich der Anfechtungsgegner nur an den Schuldner halten\.
+> Wegen Erstattung einer Gegenleistung oder wegen einer infolge der Anfechtung wieder auflebenden Forderung kann sich der Anfechtungsgegner nur an den Schuldner halten\.
 
 ### § 450 EO — Befreiung des Anfechtungsgegners
 
-Der Anfechtungsgegner kann sich von dem Anfechtungsanspruch dadurch befreien, dass er die dem anfechtenden Gläubiger gegen den Schuldner zustehende Forderung befriedigt\.
+> Der Anfechtungsgegner kann sich von dem Anfechtungsanspruch dadurch befreien, dass er die dem anfechtenden Gläubiger gegen den Schuldner zustehende Forderung befriedigt\.
 
 ### § 451 EO — Mehrfache Anfechtung
 
-Der Umstand, dass dieselbe Rechtshandlung von mehreren Gläubigern angefochten wird, kann in keinem Fall zur Folge haben, dass die den Anfechtungsgegner treffenden Verbindlichkeiten das durch die §§ 447 und 448 bestimmte Maß überschreiten\.
+> Der Umstand, dass dieselbe Rechtshandlung von mehreren Gläubigern angefochten wird, kann in keinem Fall zur Folge haben, dass die den Anfechtungsgegner treffenden Verbindlichkeiten das durch die §§ 447 und 448 bestimmte Maß überschreiten\.
 
 ### § 452 EO — Anfechtbarkeit bei Eröffnung eines Insolvenzverfahrens
 
@@ -5915,7 +5915,7 @@ Der Umstand, dass dieselbe Rechtshandlung von mehreren Gläubigern angefochten w
 
 ### § 455 EO — Höhe der Gebühr
 
-Die Vollzugsgebühr beträgt für
+> Die Vollzugsgebühr beträgt für
 
 > `1.` die Zwangsverwaltung einer Liegenschaft, eines Superädifikats oder eines Baurechts 20 Euro,
 
@@ -5929,18 +5929,18 @@ Die Vollzugsgebühr beträgt für
 
 > `6.` die Räumungsexekution 30 Euro\.
 
-&nbsp; Wenn der betreibende Gläubiger in einem Antrag mehr als ein Exekutionsmittel zur Hereinbringung einer Geldforderung auf das bewegliche Vermögen beantragt, dann ist nur die höhere Gebühr zu entrichten\.
+> &nbsp; Wenn der betreibende Gläubiger in einem Antrag mehr als ein Exekutionsmittel zur Hereinbringung einer Geldforderung auf das bewegliche Vermögen beantragt, dann ist nur die höhere Gebühr zu entrichten\.
 
 ### § 456 EO — Anwendbarkeit anderer Vorschriften
 
 > `(1)` Auf die Vollzugsgebühren sind sinngemäß anzuwenden
-> 
+>
 >> `1.` § 4 Abs\. 1 bis 4 und Abs\. 6 GGG über die Art der Gebührenentrichtung,
-> 
+>
 >> `2.` § 7 Abs\. 2 bis 4 GGG über die Zahlungspflicht,
-> 
+>
 >> `3.` §§ 8 bis 10 sowie 12, 13 und 21 Abs\. 1 bis 3 GGG über die Gebührenfreiheit und
-> 
+>
 >> `4.` § 31 Abs\. 1 bis 4 GGG über den Gebührenmehrbetrag\.
 
 > `(2)` Auf die Vollzugsgebühren ist das Gerichtliche Einbringungsgesetz mit Ausnahme des § 6a Abs\. 3 anzuwenden\.
@@ -5954,67 +5954,67 @@ Die Vollzugsgebühr beträgt für
 > `(1)` Der Gerichtsvollzieher hat für die gesetz\- und auftragsgemäß durchgeführten Handlungen einen Anspruch auf Vergütung nach §§ 461 bis 473 sowie Ersatz seiner Fahrtkosten\.
 
 > `(2)` Der Gerichtsvollzieher erhält
-> 
+>
 >> `1.` die Vergütung für den an ihn gezahlten oder von ihm weggenommenen Betrag aus diesem,
-> 
+>
 >> `2.` die vom Verwertungserlös abhängige Vergütung aus der Verteilungsmasse sowie
-> 
+>
 >> `3.` die Fahrtkosten und sonst die Vergütung aus Amtsgeldern\.
 
 > `(3)` Die Vergütung steht im Rang vor der betriebenen Forderung\. Der Anspruch gegen den Bund entsteht mit Ende des Monats, der auf jenen Monat folgt, in dem der Gerichtsvollzieher über die Beendigung seiner Tätigkeit berichtete\.
 
 ### § 458 EO — Vergütung bei Handlungen zugunsten mehrerer Verfahren
 
-Für Handlungen, die zugunsten mehrerer Verfahren vorgenommen werden, gebühren die Vergütung und die Fahrtkosten für jedes Verfahren\. Für Handlungen im Rahmen eines einheitlichen Verwertungsverfahrens und bei nicht nach § 33 verbundenen Verfahren stehen die Vergütung und die Fahrtkosten jedoch nur einmal zu\.
+> Für Handlungen, die zugunsten mehrerer Verfahren vorgenommen werden, gebühren die Vergütung und die Fahrtkosten für jedes Verfahren\. Für Handlungen im Rahmen eines einheitlichen Verwertungsverfahrens und bei nicht nach § 33 verbundenen Verfahren stehen die Vergütung und die Fahrtkosten jedoch nur einmal zu\.
 
 ### § 459 EO — Vergütung bei mehreren Handlungen in einem Verfahren
 
 > `(1)` Für alle in einem Exekutionsverfahren und bei der Exekution auf bewegliche Sachen auch für alle nach einem Vollzugsauftrag auf Grund eines Antrags auf neuerlichen Vollzug oder auf neuerliche Versteigerung vorgenommenen Handlungen richtet sich die Vergütung nach dem höchsten vorgesehenen Betrag\.
 
 > `(2)` Die Vergütungen für
-> 
+>
 >> `1.` Pfändung, sofern nicht beim gleichen Vollzugsversuch Zahlung der gesamten Forderung geleistet wird,
-> 
+>
 >> `2.` Zahlung und
-> 
+>
 >> `3.` Verwertung
-> 
+>
 > &nbsp; stehen nebeneinander zu\. Wird Zahlung geleistet, so sind bei der Berechnung der Vergütung die vorher geleisteten Zahlungen, wird bei einem oder mehreren Vollzügen Zahlung nachgewiesen, so sind die insgesamt geleisteten Zahlungen zu berücksichtigen\.
 
 > `(3)` Die Vergütung für die Aufnahme des Vermögensverzeichnisses gebührt zusätzlich zu sonstigen Vergütungen\.
 
 ### § 460 EO — Zurückzahlung der Vergütung
 
-Der Gerichtsvollzieher hat die Vergütung und die Fahrtkosten zurückzuzahlen, soweit ein Anspruch hierauf nicht bestanden hat\.
+> Der Gerichtsvollzieher hat die Vergütung und die Fahrtkosten zurückzuzahlen, soweit ein Anspruch hierauf nicht bestanden hat\.
 
 ### § 461 EO — Vermögensverzeichnis
 
-Für die Aufnahme jedes Vermögensverzeichnisses, insbesondere auch einer Kontoangabe nach § 424 Abs\. 3, beträgt die Vergütung 4 Euro\.
+> Für die Aufnahme jedes Vermögensverzeichnisses, insbesondere auch einer Kontoangabe nach § 424 Abs\. 3, beträgt die Vergütung 4 Euro\.
 
 ### § 462 EO — Zahlung
 
 > `(1)` Bei der Exekution wegen Geldforderungen, ausgenommen bei der Exekution auf das unbewegliche Vermögen, bemisst sich die Höhe der Vergütung des Gerichtsvollziehers anhand des an ihn insgesamt gezahlten oder von ihm weggenommenen Betrages\.
 
 > `(2)` Hat der Gerichtsvollzieher insgesamt 10 Euro vom Verpflichteten erhalten, so gebühren ihm hierfür 5 Euro \(Sockelvergütung\)\. Die Vergütung darüber hinaus beträgt wie folgt:
-> 
+>
 >> `1.` bei Erreichen des Schwellenwerts von insgesamt 100 Euro gebühren ihm zusätzlich 3 Euro,
-> 
+>
 >> `2.` bei Erreichen der Schwellenwerte von insgesamt 200 Euro, 300 Euro, 400 Euro, 500 Euro, 600 Euro, 700 Euro, 800 Euro, 900 Euro und 1 000 Euro gebühren ihm zusätzlich jeweils 2 Euro,
-> 
+>
 >> `3.` bei Erreichen der Schwellenwerte von insgesamt 1 200 Euro, 1 400 Euro, 1 600 Euro und 1 800 Euro gebühren ihm zusätzlich jeweils 1 Euro,
-> 
+>
 >> `4.` bei Erreichen des Schwellenwerts von insgesamt 2 000 Euro gebühren ihm zusätzlich 2 Euro,
-> 
+>
 >> `5.` bei Erreichen der Schwellenwerte von insgesamt 2 500 Euro, 3 000 Euro, 3 500 Euro, 4 000 Euro, 4 500 Euro und 5 000 Euro gebühren ihm zusätzlich jeweils 5 Euro,
-> 
+>
 >> `6.` bei Erreichen der Schwellenwerte von insgesamt 7 500 Euro und 10 000 Euro gebühren ihm zusätzlich jeweils 10 Euro,
-> 
+>
 >> `7.` bei Erreichen der Schwellenwerte von insgesamt 20 000 Euro, 30 000 Euro, 40 000 Euro und 50 000 Euro gebühren ihm zusätzlich jeweils 30 Euro,
-> 
+>
 >> `8.` bei Erreichen der Schwellenwerte von insgesamt 60 000 Euro und 80 000 Euro gebühren ihm zusätzlich jeweils 20 Euro,
-> 
+>
 >> `9.` bei Erreichen der Schwellenwerte von insgesamt 100 000 Euro, 125 000 Euro und 150 000 Euro gebühren ihm zusätzlich jeweils 25 Euro und
-> 
+>
 >> `10.` bei Erreichen des Schwellenwerts von insgesamt 200 000 Euro gebühren ihm zusätzlich 30 Euro\.
 
 > `(3)` Die Sockelvergütung nach Abs\. 2 steht im Falle des § 466 Abs\. 2 jedoch nur abzüglich der dort genannten Vergütung zu\.
@@ -6023,15 +6023,15 @@ Für die Aufnahme jedes Vermögensverzeichnisses, insbesondere auch einer Kontoa
 
 ### § 463 EO — Verwertung von Gegenständen
 
-Werden Gegenstände verwertet, so gebührt eine vom Verwertungserlös abhängige Vergütung\. Diese bemisst sich nach § 462\.
+> Werden Gegenstände verwertet, so gebührt eine vom Verwertungserlös abhängige Vergütung\. Diese bemisst sich nach § 462\.
 
 ### § 464 EO — Zwangsverwaltung einer Liegenschaft
 
-Bei der Zwangsverwaltung einer Liegenschaft beträgt die Vergütung für die Einführung eines Verwalters 25 Euro\.
+> Bei der Zwangsverwaltung einer Liegenschaft beträgt die Vergütung für die Einführung eines Verwalters 25 Euro\.
 
 ### § 465 EO — Zwangsversteigerung einer Liegenschaft
 
-Bei der Zwangsversteigerung einer Liegenschaft, eines Superädifikats oder eines Baurechts beträgt die Vergütung für
+> Bei der Zwangsversteigerung einer Liegenschaft, eines Superädifikats oder eines Baurechts beträgt die Vergütung für
 
 > `1.` die Einführung eines einstweiligen Verwalters 25 Euro,
 
@@ -6049,25 +6049,25 @@ Bei der Zwangsversteigerung einer Liegenschaft, eines Superädifikats oder eines
 
 ### § 467 EO — Exekution auf Vermögensrechte
 
-Bei der Exekution auf Vermögensrechte beträgt die Vergütung für
+> Bei der Exekution auf Vermögensrechte beträgt die Vergütung für
 
 > `1.` die pfandweise Beschreibung solcher Rechte 7,50 Euro und für
 
 > `2.` die Einführung eines Pächters oder Verwalters solcher Rechte 25 Euro\.
 
-&nbsp; Im Übrigen ist § 466 sinngemäß anzuwenden\.
+> &nbsp; Im Übrigen ist § 466 sinngemäß anzuwenden\.
 
 ### § 468 EO — Exekution zur Herausgabe beweglicher Sachen
 
-Bei der Exekution zur Herausgabe oder Leistung beweglicher Sachen beträgt die Vergütung für die Abnahme der Sachen 7,50 Euro\.
+> Bei der Exekution zur Herausgabe oder Leistung beweglicher Sachen beträgt die Vergütung für die Abnahme der Sachen 7,50 Euro\.
 
 ### § 469 EO — Räumungsexekution
 
-Bei der Räumungsexekution beträgt die Vergütung für die Räumung 30 Euro für die erste Stunde und darüber hinaus 20 Euro für jede weitere, wenn auch nur begonnene Stunde\. Wird eine begonnene Räumung nicht beendet, so beträgt die Vergütung 20 Euro für die erste Stunde und darüber hinaus 20 Euro für jede weitere volle Stunde\. Eine Räumung gilt nur dann als begonnen, wenn der betreibende Gläubiger die zur Öffnung der Räumlichkeiten und zur Wegschaffung der zu entfernenden beweglichen Sachen erforderlichen Arbeitskräfte und Beförderungsmittel bereitgestellt hat\.
+> Bei der Räumungsexekution beträgt die Vergütung für die Räumung 30 Euro für die erste Stunde und darüber hinaus 20 Euro für jede weitere, wenn auch nur begonnene Stunde\. Wird eine begonnene Räumung nicht beendet, so beträgt die Vergütung 20 Euro für die erste Stunde und darüber hinaus 20 Euro für jede weitere volle Stunde\. Eine Räumung gilt nur dann als begonnen, wenn der betreibende Gläubiger die zur Öffnung der Räumlichkeiten und zur Wegschaffung der zu entfernenden beweglichen Sachen erforderlichen Arbeitskräfte und Beförderungsmittel bereitgestellt hat\.
 
 ### § 470 EO — Insolvenzverfahren
 
-Im Insolvenzverfahren beträgt die Vergütung für
+> Im Insolvenzverfahren beträgt die Vergütung für
 
 > `1.` die Aufnahme eines Inventars 7,50 Euro und für
 
@@ -6075,11 +6075,11 @@ Im Insolvenzverfahren beträgt die Vergütung für
 
 ### § 471 EO — Pfandweise Beschreibung
 
-Für die pfandweise Beschreibung nach § 1101 ABGB beträgt die Vergütung 7,50 Euro\.
+> Für die pfandweise Beschreibung nach § 1101 ABGB beträgt die Vergütung 7,50 Euro\.
 
 ### § 472 EO — Verhaftung und Vorführung
 
-Die Vergütung beträgt für
+> Die Vergütung beträgt für
 
 > `1.` die Verhaftung oder Vorführung einer Person außerhalb eines Exekutionsverfahrens sowie für den Vollzug einer einstweiligen Verfügung zum Schutz vor Gewalt 15 Euro,
 
@@ -6089,7 +6089,7 @@ Die Vergütung beträgt für
 
 ### § 473 EO — Zustellung
 
-Für die Zustellung von Schriftstücken und deren Anschlag im Haus beträgt die Vergütung 2 Euro, für jeden Anschlag an einem weiteren Anbringungsort 1 Euro\.
+> Für die Zustellung von Schriftstücken und deren Anschlag im Haus beträgt die Vergütung 2 Euro, für jeden Anschlag an einem weiteren Anbringungsort 1 Euro\.
 
 ## Dritter Abschnitt
 
@@ -6098,15 +6098,15 @@ Für die Zustellung von Schriftstücken und deren Anschlag im Haus beträgt die 
 ### § 474 EO — Höhe
 
 > `(1)` Der Fahrtkostenersatz beträgt, wenn das Vollzugsgebiet zum überwiegenden Teil
-> 
+>
 >> `1.` in einem mit öffentlichen Verkehrsmitteln gut erschlossenen städtischen Kerngebiet liegt  1,21 Euro,
-> 
+>
 >> `2.` in einem verbauten städtischen oder in einem Agglomerationsgebiet liegt, in dem ein Vollzug mit öffentlichen Verkehrsmitteln nicht möglich ist, 1,80 Euro,
-> 
+>
 >> `3.` in einem durchschnittlich bis dichter verbauten ländlichen Gebiet liegt 2,65 Euro,
-> 
+>
 >> `4.` > `a)` in einem dünn und verstreut besiedelten ländlichen Gebiet liegt 3,55 Euro und
->> 
+>>
 >>> `b)` in einem sehr dünn und verstreut besiedelten sowie weit ausgedehnten ländlichen Gebiet liegt  4,32 Euro\.
 
 > `(2)` Bei Benützung eines unentgeltlich beigestellten Kraftfahrzeugs sind keine Fahrtkosten zu erstatten\.
@@ -6135,28 +6135,28 @@ Für die Zustellung von Schriftstücken und deren Anschlag im Haus beträgt die 
 
 ### § 477 EO — Auflage des Vollzugsgebietsplans
 
-Der Vollzugsgebietsplan oder dessen Teile sind beim Oberlandesgericht zur Einsicht durch Gerichtsbedienstete während der Amtsstunden aufzulegen\.
+> Der Vollzugsgebietsplan oder dessen Teile sind beim Oberlandesgericht zur Einsicht durch Gerichtsbedienstete während der Amtsstunden aufzulegen\.
 
 ### § 478 EO — Änderung des Vollzugsgebietsplans
 
-Werden Vollzugsgebiete nicht bloß geringfügig geändert, so sind §§ 475 bis 477 sinngemäß anzuwenden\. Stellungnahmen können in diesem Fall nur zu den Änderungen abgegeben werden\.
+> Werden Vollzugsgebiete nicht bloß geringfügig geändert, so sind §§ 475 bis 477 sinngemäß anzuwenden\. Stellungnahmen können in diesem Fall nur zu den Änderungen abgegeben werden\.
 
 ### § 479 EO — Überprüfung des Vollzugsgebietsplans
 
-Der Präsident des Oberlandesgerichts hat den Vollzugsgebietsplan periodisch, jedenfalls alle zwei Jahre, zu überprüfen sowie notwendige und zweckmäßige Änderungen und Neuzuordnungen vorzunehmen\. §§ 475 bis 477 sind sinngemäß anzuwenden\.
+> Der Präsident des Oberlandesgerichts hat den Vollzugsgebietsplan periodisch, jedenfalls alle zwei Jahre, zu überprüfen sowie notwendige und zweckmäßige Änderungen und Neuzuordnungen vorzunehmen\. §§ 475 bis 477 sind sinngemäß anzuwenden\.
 
 ### § 480 EO — Zusammensetzung der Vergütung
 
 > `(1)` Die Vergütung und der Ersatz der Fahrtkosten treten an die Stelle der Ansprüche, die sich für Bundesbeamte aus §§ 16 bis 18 und 19a bis 20a des Gehaltsgesetzes 1956 und aus der Reisegebührenvorschrift 1955 ergeben\. Gleiches gilt für Vertragsbedienstete in Verbindung mit § 22 Abs\. 1 des Vertragsbedienstetengesetzes 1948\.
 
 > `(2)` Die Vergütung gilt mit
-> 
+>
 >> `1.` 70% als Überstundenvergütung \(§ 16 des Gehaltsgesetzes 1956\); hievon stellen 33,3% den Überstundenzuschlag dar,
-> 
+>
 >> `2.` 23% als Reisezulage \(§ 13 Abs\. 1 der Reisegebührenvorschrift 1955\),
-> 
+>
 >> `3.` 5% als Aufwandsentschädigung \(§ 20 Abs\. 1 des Gehaltsgesetzes 1956\) und
-> 
+>
 >> `4.` 2% als Fehlgeldentschädigung \(§ 20a des Gehaltsgesetzes 1956\)\.
 
 > `(3)` Der Fahrtkostenersatz gilt als Reisekostenvergütung und als Nächtigungsgebühr nach Abschnitt II der Reisegebührenvorschrift 1955\.
@@ -6169,15 +6169,15 @@ Der Präsident des Oberlandesgerichts hat den Vollzugsgebietsplan periodisch, je
 
 ### § 482 EO — Vollzugsgebietsbetrauung
 
-Es obliegt dem Präsidenten des Oberlandesgerichts, die Gerichtsvollzieher mit den Vollzugsgebieten zu betrauen\. Hiebei ist auf die persönliche Eignung der Gerichtsvollzieher Bedacht zu nehmen\.
+> Es obliegt dem Präsidenten des Oberlandesgerichts, die Gerichtsvollzieher mit den Vollzugsgebieten zu betrauen\. Hiebei ist auf die persönliche Eignung der Gerichtsvollzieher Bedacht zu nehmen\.
 
 ### § 483 EO — Sonstige Bedienstete
 
-Die Bestimmungen dieses Teils gelten auch für sonstige Bedienstete der Gerichte, die die im zweiten Abschnitt genannten Amtshandlungen außerhalb des Gerichts vornehmen\.
+> Die Bestimmungen dieses Teils gelten auch für sonstige Bedienstete der Gerichte, die die im zweiten Abschnitt genannten Amtshandlungen außerhalb des Gerichts vornehmen\.
 
 ### § 483a EO — Vollziehung
 
-Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Justiz betraut\.
+> Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Justiz betraut\.
 
 ## Siebenter Teil
 
@@ -6196,9 +6196,9 @@ Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Justiz b
 > `(2)` § 382c Abs\. 3 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 50/2012 tritt mit 1\. September 2012 in Kraft\.
 
 > `(3)` In der Fassung des Art\. 12 des Bundesgesetzes BGBl\. I Nr\. 33/2013 treten in Kraft:
-> 
+>
 >> `1.` § 1 Z 10, § 1 Z 12 in der Fassung der Z 2 und § 1 Z 14 mit Ablauf des Monats der Kundmachung dieses Bundesgesetzes;
-> 
+>
 >> `2.` § 1 Z 12 in der Fassung der Z 3 mit 1\. Jänner 2014\.
 
 ### § 486 EO — In-Kraft-Treten und Übergangsbestimmungen zur EO-Novelle 2003
@@ -6233,7 +6233,7 @@ Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Justiz b
 
 ### § 487 EO — In-Kraft-Treten und Übergangsbestimmung zur ZVN 2004
 
-§ 403 tritt am 1\. Jänner 2005 in Kraft; er ist auf Verstöße anzuwenden, die nach dem 31\. Dezember 2004 vorgenommen wurden\.
+> § 403 tritt am 1\. Jänner 2005 in Kraft; er ist auf Verstöße anzuwenden, die nach dem 31\. Dezember 2004 vorgenommen wurden\.
 
 ### § 488 EO — In-Kraft-Treten und Übergangsbestimmungen zur EO-Novelle 2005
 
@@ -6287,7 +6287,7 @@ Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Justiz b
 
 ### § 491 EO — Inkrafttreten und Übergangsbestimmungen zur Novelle BGBl. I Nr. 82/2008
 
-§ 290a Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 82/2008 tritt mit 1\. Juli 2008 in Kraft\.
+> § 290a Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 82/2008 tritt mit 1\. Juli 2008 in Kraft\.
 
 ### § 492 EO — Inkrafttreten und Übergangsbestimmungen zur ZVN 2009
 
@@ -6297,19 +6297,19 @@ Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Justiz b
 
 ### § 493 EO — Inkrafttreten und Übergangsbestimmungen zum 2. Gewaltschutzgesetz
 
-§§ 382b, 382e, 382g Abs\. 2 und 3, § 387 Abs\. 3 und 4, § 390 Abs\. 4 und § 393 Abs\. 2 in der Fassung des 2\. Gewaltschutzgesetzes, BGBl\. I Nr\. 40/2009, treten mit 1\. Juni 2009 in Kraft und sind anzuwenden, wenn der Antrag auf Erlassung der einstweiligen Verfügung nach dem 31\. Mai 2009 bei Gericht einlangt\.
+> §§ 382b, 382e, 382g Abs\. 2 und 3, § 387 Abs\. 3 und 4, § 390 Abs\. 4 und § 393 Abs\. 2 in der Fassung des 2\. Gewaltschutzgesetzes, BGBl\. I Nr\. 40/2009, treten mit 1\. Juni 2009 in Kraft und sind anzuwenden, wenn der Antrag auf Erlassung der einstweiligen Verfügung nach dem 31\. Mai 2009 bei Gericht einlangt\.
 
 ### § 494 EO — Inkrafttreten und Übergangsbestimmungen zum Familienrechts-Änderungsgesetz 2009
 
-§ 382a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 75/2009 tritt mit 1\. Jänner 2010 in Kraft und ist in der Fassung dieses Bundesgesetzes anzuwenden, wenn der Antrag auf Gewährung vorläufigen Unterhalts nach dem 31\. Dezember 2009 bei Gericht eingebracht wird\.
+> § 382a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 75/2009 tritt mit 1\. Jänner 2010 in Kraft und ist in der Fassung dieses Bundesgesetzes anzuwenden, wenn der Antrag auf Gewährung vorläufigen Unterhalts nach dem 31\. Dezember 2009 bei Gericht eingebracht wird\.
 
 ### § 495 EO — Inkrafttreten und Übergangsbestimmung zur Novelle BGBl. I Nr. 111/2010
 
-§ 78 in der Fassung des Budgetbegleitgesetzes 2011, BGBl\. I Nr\. 111/2010, tritt mit 1\. Mai 2011 in Kraft\. § 80 Z 2 tritt mit 1\. Jänner 2011 in Kraft und ist in dieser Fassung anzuwenden, wenn die Ladung oder Verfügung nach dem 30\. Juni 2009 zugestellt worden ist\. § 249 Abs\. 3 in der Fassung des Budgetbegleitgesetzes 2011, BGBl\. I Nr\. 111/2010, tritt mit 1\. Juli 2011 in Kraft und ist in dieser Fassung anzuwenden, wenn der Exekutionsantrag nach dem 30\. Juni 2011 bei Gericht einlangt\.
+> § 78 in der Fassung des Budgetbegleitgesetzes 2011, BGBl\. I Nr\. 111/2010, tritt mit 1\. Mai 2011 in Kraft\. § 80 Z 2 tritt mit 1\. Jänner 2011 in Kraft und ist in dieser Fassung anzuwenden, wenn die Ladung oder Verfügung nach dem 30\. Juni 2009 zugestellt worden ist\. § 249 Abs\. 3 in der Fassung des Budgetbegleitgesetzes 2011, BGBl\. I Nr\. 111/2010, tritt mit 1\. Juli 2011 in Kraft und ist in dieser Fassung anzuwenden, wenn der Exekutionsantrag nach dem 30\. Juni 2011 bei Gericht einlangt\.
 
 ### § 496 EO
 
-§ 290 Abs\. 1 Z 10 und § 290a Abs\. 1 Z 6 in der Fassung BGBl\. I Nr\. 139/2011 treten mit 1\. Jänner 2012 in Kraft\.
+> § 290 Abs\. 1 Z 10 und § 290a Abs\. 1 Z 6 in der Fassung BGBl\. I Nr\. 139/2011 treten mit 1\. Jänner 2012 in Kraft\.
 
 ### § 497 EO — Inkrafttreten und Übergangsbestimmungen zur EO-Novelle 2014
 
@@ -6369,11 +6369,11 @@ Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Justiz b
 
 ### § 500 EO — Inkrafttreten des ZZRÄG 2019
 
-§ 41a, § 427 Abs\. 1, § 428 Abs\. 3 und 4, § 429 Abs\. 2 und § 430 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 38/2019 treten mit 1\. Juni 2019 in Kraft\. § 107a Abs\. 2 tritt mit dem der Kundmachung folgenden Tag in Kraft\.
+> § 41a, § 427 Abs\. 1, § 428 Abs\. 3 und 4, § 429 Abs\. 2 und § 430 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 38/2019 treten mit 1\. Juni 2019 in Kraft\. § 107a Abs\. 2 tritt mit dem der Kundmachung folgenden Tag in Kraft\.
 
 ### § 501 EO — Inkrafttreten und Übergangsbestimmungen zum Gewaltschutzgesetz 2019
 
-§ 382b Abs\. 2, § 382c Abs\. 1, 3 und 4, § 382d Abs\. 2, 4 und 5, § 382e Abs\. 1 bis 3, § 382g Abs\. 1 bis 3, § 391 Abs\. 2, § 395 Abs\. 3, §§ 399 und 399c in der Fassung des Gewaltschutzgesetzes 2019, BGBl\. I Nr\. 105/2019, treten mit 01\.01\.2020 in Kraft und sind anzuwenden, wenn der Antrag auf Erlassung oder – im Fall des § 399c – auf Anpassung der einstweiligen Verfügung nach dem 01\.01\.2020 bei Gericht einlangt\.
+> § 382b Abs\. 2, § 382c Abs\. 1, 3 und 4, § 382d Abs\. 2, 4 und 5, § 382e Abs\. 1 bis 3, § 382g Abs\. 1 bis 3, § 391 Abs\. 2, § 395 Abs\. 3, §§ 399 und 399c in der Fassung des Gewaltschutzgesetzes 2019, BGBl\. I Nr\. 105/2019, treten mit 01\.01\.2020 in Kraft und sind anzuwenden, wenn der Antrag auf Erlassung oder – im Fall des § 399c – auf Anpassung der einstweiligen Verfügung nach dem 01\.01\.2020 bei Gericht einlangt\.
 
 ### § 502 EO — Inkrafttreten und Übergangsbestimmungen zur GREx
 
@@ -6397,11 +6397,11 @@ Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Justiz b
 
 ### § 503 EO — Inkrafttreten und Übergangsbestimmung zur Novelle BGBl. I Nr. 202/2021
 
-§ 382f in der Fassung des Bundesgesetzes BGBl\. I Nr\. 202/2021 tritt mit 1\. Juli 2022 in Kraft\. Ein Auftrag zur Kontaktierung einer Beratungsstelle für Gewaltprävention und zur Teilnahme an einer solchen Beratung kann auch in Verfahren über einstweilige Verfügungen erteilt werden, die vor dem Inkrafttreten eingeleitet worden sind\.
+> § 382f in der Fassung des Bundesgesetzes BGBl\. I Nr\. 202/2021 tritt mit 1\. Juli 2022 in Kraft\. Ein Auftrag zur Kontaktierung einer Beratungsstelle für Gewaltprävention und zur Teilnahme an einer solchen Beratung kann auch in Verfahren über einstweilige Verfügungen erteilt werden, die vor dem Inkrafttreten eingeleitet worden sind\.
 
 ### § 504 EO — Inkrafttretens- und Übergangsbestimmung zum BGBl. I Nr. 77/2023
 
-§ 59a und § 389 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 77/2023 treten mit 14\. Juli 2023 in Kraft\.
+> § 59a und § 389 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 77/2023 treten mit 14\. Juli 2023 in Kraft\.
 
 ### § 505 EO — Inkrafttreten und Übergangsbestimmungen zur Gerichtsvollzieher-Vergütungs-Novelle 2023
 

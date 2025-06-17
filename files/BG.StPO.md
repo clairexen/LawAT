@@ -919,7 +919,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 8 StPO — Unschuldsvermutung
 
-Jede Person gilt bis zu ihrer rechtskräftigen Verurteilung als unschuldig\.
+> Jede Person gilt bis zu ihrer rechtskräftigen Verurteilung als unschuldig\.
 
 ### § 9 StPO — Beschleunigungsgebot
 
@@ -957,15 +957,15 @@ Jede Person gilt bis zu ihrer rechtskräftigen Verurteilung als unschuldig\.
 
 ### § 14 StPO — Freie Beweiswürdigung
 
-Ob Tatsachen als erwiesen festzustellen sind, hat das Gericht auf Grund der Beweise nach freier Überzeugung zu entscheiden; im Zweifel stets zu Gunsten des Angeklagten oder sonst in seinen Rechten Betroffenen\.
+> Ob Tatsachen als erwiesen festzustellen sind, hat das Gericht auf Grund der Beweise nach freier Überzeugung zu entscheiden; im Zweifel stets zu Gunsten des Angeklagten oder sonst in seinen Rechten Betroffenen\.
 
 ### § 15 StPO — Vorfragen
 
-Vorfragen sind im Strafverfahren selbstständig zu beurteilen\. Entscheidungen zuständiger Behörden können jedoch abgewartet werden, wenn mit ihnen in absehbarer Zeit zu rechnen ist\. An die rechtsgestaltenden Wirkungen von Entscheidungen der Zivilgerichte und anderer Behörden sind die Strafgerichte jedoch gebunden\.
+> Vorfragen sind im Strafverfahren selbstständig zu beurteilen\. Entscheidungen zuständiger Behörden können jedoch abgewartet werden, wenn mit ihnen in absehbarer Zeit zu rechnen ist\. An die rechtsgestaltenden Wirkungen von Entscheidungen der Zivilgerichte und anderer Behörden sind die Strafgerichte jedoch gebunden\.
 
 ### § 16 StPO — Verbot der Verschlechterung
 
-Wenn ein Rechtsmittel oder ein Rechtsbehelf nur zu Gunsten des Beschuldigten erhoben wurde, darf der Beschuldigte durch den Inhalt einer darüber ergehenden gerichtlichen Entscheidung im Ermittlungsverfahren und in der Straffrage nicht schlechter gestellt werden, als wenn die Entscheidung nicht angefochten worden wäre\.
+> Wenn ein Rechtsmittel oder ein Rechtsbehelf nur zu Gunsten des Beschuldigten erhoben wurde, darf der Beschuldigte durch den Inhalt einer darüber ergehenden gerichtlichen Entscheidung im Ermittlungsverfahren und in der Straffrage nicht schlechter gestellt werden, als wenn die Entscheidung nicht angefochten worden wäre\.
 
 ### § 17 StPO — Verbot wiederholter Strafverfolgung
 
@@ -990,11 +990,11 @@ Wenn ein Rechtsmittel oder ein Rechtsbehelf nur zu Gunsten des Beschuldigten erh
 > `(3)` Die Organe des öffentlichen Sicherheitsdienstes \(§ 5 Abs\. 2 SPG\) versehen den kriminalpolizeilichen Exekutivdienst, der in der Aufklärung und Verfolgung von Straftaten nach den Bestimmungen dieses Gesetzes besteht\.
 
 > `(4)` Auf Antrag einer Gemeinde können die Angehörigen ihres Gemeindewachkörpers der Bezirksverwaltungsbehörde mit deren Zustimmung unterstellt werden, um kriminalpolizeilichen Exekutivdienst zu versehen\. Die Unterstellung erfolgt mit Verordnung des Landespolizeidirektors nach Anhörung der Oberstaatsanwaltschaft, in deren Sprengel sich die Gemeinde befindet\. Die Unterstellung ist durch Verordnung des Landespolizeidirektors
-> 
+>
 >> `1.` auf Antrag der Gemeinde oder
-> 
+>
 >> `2.` auf Antrag der Bezirksverwaltungsbehörde oder der Oberstaatsanwaltschaft, in deren Sprengel sich die Gemeinde befindet, soweit festgestellt wird, dass der Gemeindewachkörper die ihm übertragene Aufgabe nicht erfüllt,
-> 
+>
 > &nbsp; aufzuheben\.
 
 ## 2. Abschnitt
@@ -1004,11 +1004,11 @@ Wenn ein Rechtsmittel oder ein Rechtsbehelf nur zu Gunsten des Beschuldigten erh
 ### § 19 StPO — Allgemeines
 
 > `(1)` Als Staatsanwaltschaften sind im Strafverfahren tätig:
-> 
+>
 >> `1.` die Staatsanwaltschaften am Sitz der Landesgerichte,
-> 
+>
 >> `2.` die Oberstaatsanwaltschaften am Sitz der Oberlandesgerichte
-> 
+>
 >> `3.` die Zentrale Staatsanwaltschaft zur Verfolgung von Wirtschaftsstrafsachen und Korruption \(Wirtschafts\- und Korruptionsstaatsanwaltschaft – WKStA\)\.
 
 > `(2)` Die Staatsanwaltschaften üben ihre Tätigkeit als Organe der Rechtspflege durch Staatsanwälte aus\.
@@ -1026,23 +1026,23 @@ Wenn ein Rechtsmittel oder ein Rechtsbehelf nur zu Gunsten des Beschuldigten erh
 ### § 20a StPO — Zentrale Staatsanwaltschaft zur Verfolgung von Wirtschaftsstrafsachen und Korruption (WKStA)
 
 > `(1)` Der WKStA obliegt für das gesamte Bundesgebiet die Leitung des Ermittlungsverfahrens, dessen Beendigung im Sinne des 10\. und 11\. Hauptstücks sowie die Einbringung der Anklage und deren Vertretung im Hauptverfahren und im Verfahren vor dem Oberlandesgericht wegen folgender Vergehen oder Verbrechen:
-> 
+>
 >> `1.` Veruntreuung, schwerer oder gewerbsmäßig schwerer Betrug, betrügerischer Datenverarbeitungsmissbrauch, Untreue, Förderungsmissbrauch, betrügerische Krida, ausgabenseitiger Betrug zum Nachteil der finanziellen Interessen der Europäischen Union und missbräuchliche Verwendung von Mitteln und Vermögenswerten zum Nachteil der finanziellen Interessen der Europäischen Union, soweit auf Grund bestimmter Tatsachen anzunehmen ist, dass der durch die Tat herbeigeführte Schaden 5 000 000 Euro übersteigt oder sich der Vorsatz darauf erstreckt \(§ 133 Abs\. 2 zweiter Fall, § 147 Abs\. 3, § 148 zweiter Fall, § 148a Abs\. 2 zweiter Fall, § 153 Abs\. 3 zweiter Fall, § 153b Abs\. 4, § 156 Abs\. 2, § 168c Abs\. 4 und § 168d Abs\. 3 StGB\);
-> 
+>
 >> `2.` Betrügerisches Anmelden zur Sozialversicherung oder Bauarbeiter\-Urlaubs\- und Abfertigungskasse, soweit auf Grund bestimmter Tatsachen anzunehmen ist, dass das Ausmaß der vorenthaltenen Beiträge oder Zuschläge 5 000 000 Euro übersteigt oder sich der Vorsatz darauf erstreckt \(§ 153d Abs\. 2 und 3 StGB\) und Organisierte Schwarzarbeit \(§ 153e StGB\);
-> 
+>
 >> `3.` Grob fahrlässige Beeinträchtigung von Gläubigerinteressen gemäß § 159 Abs\. 4 StGB, in den Fällen des § 159 Abs\. 4 Z 1 und 2 StGB jedoch nur, soweit auf Grund bestimmter Tatsachen anzunehmen ist, dass der Befriedigungsausfall 5 000 000 Euro übersteigt;
-> 
+>
 >> `4.` Ketten\- oder Pyramidenspiele gemäß § 168a Abs\. 2 StGB;
-> 
+>
 >> `5.` Geschenkannahme durch Machthaber \(§ 153a StGB\), wettbewerbsbeschränkende Absprachen bei Vergabeverfahren \(§ 168b StGB\) und soweit auf Grund bestimmter Tatsachen anzunehmen ist, dass die Tat in Bezug auf einen 3 000 Euro übersteigenden Wert des Vorteils begangen wurde oder sich der Vorsatz darauf erstreckt, strafbare Verletzungen der Amtspflicht, Korruption und verwandte strafbare Handlungen nach den §§ 304 bis 309 StGB;
-> 
+>
 >> `6.` Unvertretbare Darstellung wesentlicher Informationen über bestimmte Verbände \(§ 163a StGB\) und unvertretbare Berichte von Prüfern bestimmter Verbände \(§ 163b StGB\) sowie Vergehen nach dem Immobilien\-Investmentfondsgesetz, BGBl\. I Nr\. 80/2003, Investmentfondsgesetz 2011, BGBl\. I Nr\. 77/2011, Kapitalmarktgesetz, BGBl\. Nr\. 625/1991, jeweils jedoch nur soweit die betroffene Gesellschaft über ein Stammkapital von zumindest 5 000 000 Euro oder über mehr als 2000 Beschäftigte verfügt, sowie Straftaten nach dem BörseG 2018, BGBl\. I Nr\. 107/2017, nach dem ElWOG 2010, BGBl\. I Nr\. 110/2010 und dem GWG 2011, BGBl\. I Nr\. 107/2011;
-> 
+>
 >> `7.` in die Zuständigkeit der Gerichte fallende Finanzvergehen, soweit auf Grund bestimmter Tatsachen anzunehmen ist, dass der strafbestimmende Wertbetrag 5 000 000 Euro übersteigt oder sich der Vorsatz darauf erstreckt;
-> 
+>
 >> `8.` Geldwäscherei \(§ 165 StGB\), soweit die Vermögensbestandteile aus einer in den vorstehenden Ziffern genannten Straftat herrühren;
-> 
+>
 >> `9.` Kriminelle Vereinigung oder kriminelle Organisation \(§§ 278 und 278a StGB\), soweit die Vereinigung oder Organisation auf die Begehung einer in den vorstehenden Ziffern genannten Straftaten ausgerichtet ist\.
 
 > `(2)` Ermittlungsverfahren wegen der in Abs\. 1 Z 5 und in § 20b Abs\. 3 erwähnten Straftaten und mit diesen in Zusammenhang stehende Straftaten nach Abs\. 1 Z 8 und 9 hat die WKStA nach den Bestimmungen dieses Bundesgesetzes in Zusammenarbeit mit dem Bundesamt zur Korruptionsprävention und Korruptionsbekämpfung zu führen, es sei denn, dass dessen Organe nicht rechtzeitig einschreiten können, das Bundesamt die Ermittlungen einer anderen kriminalpolizeilichen Behörde oder Dienststelle übertragen hat oder sonst ein wichtiger Grund vorliegt, Anordnungen an andere kriminalpolizeiliche Behörden oder Dienststellen zu richten\.
@@ -1069,7 +1069,7 @@ Wenn ein Rechtsmittel oder ein Rechtsbehelf nur zu Gunsten des Beschuldigten erh
 
 ### § 22 StPO — Generalprokuratur
 
-Die Generalprokuratur wirkt an allen Strafverfahren des Obersten Gerichtshofs mit\. Dabei schreitet sie nicht als Anklagebehörde ein; sie vertritt die Interessen des Staates in der Rechtspflege\.
+> Die Generalprokuratur wirkt an allen Strafverfahren des Obersten Gerichtshofs mit\. Dabei schreitet sie nicht als Anklagebehörde ein; sie vertritt die Interessen des Staates in der Rechtspflege\.
 
 ### § 23 StPO — Nichtigkeitsbeschwerde zur Wahrung des Gesetzes
 
@@ -1081,7 +1081,7 @@ Die Generalprokuratur wirkt an allen Strafverfahren des Obersten Gerichtshofs mi
 
 ### § 24 StPO — Stellungnahmen von Staatsanwaltschaften
 
-Nimmt eine Staatsanwaltschaft bei einem Rechtsmittelgericht zu einem Rechtsmittel oder Rechtsbehelf Stellung, so hat das Gericht diese Stellungnahme dem gegnerischen Beteiligten zur Äußerung binnen einer angemessen festzusetzenden Frist zuzustellen\. Diese Zustellung kann unterbleiben, wenn die Staatsanwaltschaft lediglich zu Gunsten dieses Beteiligten Stellung nimmt\.
+> Nimmt eine Staatsanwaltschaft bei einem Rechtsmittelgericht zu einem Rechtsmittel oder Rechtsbehelf Stellung, so hat das Gericht diese Stellungnahme dem gegnerischen Beteiligten zur Äußerung binnen einer angemessen festzusetzenden Frist zuzustellen\. Diese Zustellung kann unterbleiben, wenn die Staatsanwaltschaft lediglich zu Gunsten dieses Beteiligten Stellung nimmt\.
 
 ### § 25 StPO — Örtliche Zuständigkeit
 
@@ -1097,9 +1097,9 @@ Nimmt eine Staatsanwaltschaft bei einem Rechtsmittelgericht zu einem Rechtsmitte
 > *\(Anm\.: Abs\. 6 aufgehoben durch BGBl\. I Nr\. 121/2016\)*
 
 > `(7)` Liegt der Ort, an dem die Straftat ausgeführt wurde oder ausgeführt werden sollte, in einem anderen Mitgliedstaat der Europäischen Union, so hat die Staatsanwaltschaft unverzüglich bei ihr einlangende Anzeigen eines Opfers mit Wohnsitz im Inland an die zuständige Behörde des anderen Mitgliedstaates weiterzuleiten, es sei denn, dass diese Straftat der inländischen Gerichtsbarkeit unterliegt\. Von der Übermittlung kann abgesehen werden, wenn
-> 
+>
 >> `1.` die Tat und die für ihre Verfolgung wesentlichen Umstände der zuständigen ausländischen Behörde bekannt sind, oder
-> 
+>
 >> `2.` dem Opfer die Anzeige im Ausland möglich gewesen wäre, es sei denn, dass es sich um eine Straftat mit schweren Folgen handelt\.
 
 ### § 25a StPO — Abtretung
@@ -1118,7 +1118,7 @@ Nimmt eine Staatsanwaltschaft bei einem Rechtsmittelgericht zu einem Rechtsmitte
 
 ### § 27 StPO — Trennung von Verfahren
 
-Die Staatsanwaltschaft kann auf Antrag des Beschuldigten oder von Amts wegen anordnen, dass das Ermittlungsverfahren wegen einzelner Straftaten oder gegen einzelne Beschuldigte getrennt zu führen ist, insbesondere um Verzögerungen zu vermeiden, schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 Datenschutzgesetz – DSG, BGBl\. I Nr\. 165/1999\) eines Beschuldigten zu wahren oder die Haft eines Beschuldigten zu verkürzen\.
+> Die Staatsanwaltschaft kann auf Antrag des Beschuldigten oder von Amts wegen anordnen, dass das Ermittlungsverfahren wegen einzelner Straftaten oder gegen einzelne Beschuldigte getrennt zu führen ist, insbesondere um Verzögerungen zu vermeiden, schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 Datenschutzgesetz – DSG, BGBl\. I Nr\. 165/1999\) eines Beschuldigten zu wahren oder die Haft eines Beschuldigten zu verkürzen\.
 
 ### § 28 StPO — Bestimmung der Zuständigkeit
 
@@ -1128,7 +1128,7 @@ Die Staatsanwaltschaft kann auf Antrag des Beschuldigten oder von Amts wegen ano
 
 ### § 28a StPO — Zuständigkeitskonflikt bei Verfahren der WKStA
 
-Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen WKStA und anderen Staatsanwaltschaften gemäß § 28 zu entscheiden, welchen von ihnen die Zuständigkeit zukommt\. Gleiches gilt für den Fall, dass der WKStA ein Verfahren aus den in § 28 Abs\. 1 oder Abs\. 2 genannten Gründen abgenommen werden soll\.
+> Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen WKStA und anderen Staatsanwaltschaften gemäß § 28 zu entscheiden, welchen von ihnen die Zuständigkeit zukommt\. Gleiches gilt für den Fall, dass der WKStA ein Verfahren aus den in § 28 Abs\. 1 oder Abs\. 2 genannten Gründen abgenommen werden soll\.
 
 ## 3. Abschnitt
 
@@ -1137,11 +1137,11 @@ Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen 
 ### § 29 StPO — Allgemeines
 
 > `(1)` Als Gerichte sind im Strafverfahren tätig:
-> 
+>
 >> `1.` Bezirksgerichte im Hauptverfahren,
-> 
+>
 >> `2.` Landesgerichte im Ermittlungsverfahren, im Hauptverfahren und im Rechtsmittelverfahren,
-> 
+>
 >> `3.` Oberlandesgerichte und der Oberste Gerichtshof im Rechtsmittelverfahren sowie auf Grund besonderer Bestimmungen\.
 
 > `(2)` Soweit sich die Zuständigkeit der Gerichte nach der Höhe der angedrohten Freiheitsstrafe richtet, sind die Beschränkung der Strafbemessung durch § 287 Abs\. 1 letzter Satz StGB und die Möglichkeit einer Überschreitung des Höchstmaßes der Strafe nach § 313 StGB bei der Bestimmung der sachlichen Zuständigkeit zu berücksichtigen\.
@@ -1149,47 +1149,47 @@ Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen 
 ### § 30 StPO — Bezirksgericht
 
 > `(1)` Dem Bezirksgericht obliegt das Hauptverfahren wegen Straftaten, die nur mit einer Geldstrafe oder mit einer Geldstrafe und einer ein Jahr nicht übersteigenden Freiheitsstrafe oder nur mit einer solchen Freiheitsstrafe bedroht sind, mit Ausnahme
-> 
+>
 >> `1.` des Vergehens der Nötigung \(§ 105 StGB\),
-> 
+>
 >> `2.` des Vergehens der gefährlichen Drohung \(§ 107 StGB\),
-> 
+>
 >> `3.` des Vergehens der beharrlichen Verfolgung \(§ 107a StGB\),
-> 
+>
 >> `3a.` des Vergehens der fortdauernden Belästigung im Wege einer Telekommunikation oder eines Computersystems \(§ 107c StGB\),
-> 
+>
 >> `3b.` des Vergehens der Geschenkannahme durch Machthaber \(§ 153a StGB\),
-> 
+>
 >> `3c.` des Vergehens des Vorenthaltens von Dienstnehmerbeiträgen zur Sozialversicherung \(§ 153c StGB\),
-> 
+>
 >> `4.` des Vergehens der grob fahrlässigen Beeinträchtigung von Gläubigerinteressen \(§ 159 StGB\),
-> 
+>
 >> `5.` des Vergehens des fahrlässigen unerlaubten Umganges mit Kernmaterial, radioaktiven Stoffen oder Strahleneinrichtungen \(§ 177c StGB\),
-> 
+>
 >> `5a.` des Vergehens des vorsätzlichen unerlaubten Umgangs mit Stoffen, die zum Abbau der Ozonschicht beitragen \(§ 177d StGB\),
-> 
+>
 >> `5b.` des Vergehens des grob fahrlässigen unerlaubten Umgangs mit Stoffen, die zum Abbau der Ozonschicht beitragen \(§ 177e StGB\),
-> 
+>
 >> `6.` des Vergehens der fahrlässigen Beeinträchtigung der Umwelt \(§ 181 StGB\),
-> 
+>
 >> `6a.` des Vergehens des vorsätzlichen umweltgefährdenden Behandelns und Verbringens von Abfällen \(§ 181b Abs\. 3 StGB\),
-> 
+>
 >> `7.` des Vergehens des fahrlässigen umweltgefährdenden Behandelns von Abfällen \(§ 181c StGB\),
-> 
+>
 >> `8.` des Vergehens des grob fahrlässigen umweltgefährdenden Betreibens von Anlagen \(§ 181e StGB\),
-> 
+>
 >> `8a.` des Vergehens der grob fahrlässigen Schädigung des Tier\- oder Pflanzenbestandes \(§ 181g StGB\),
-> 
+>
 >> `8b.` des Vergehens der grob fahrlässigen Schädigung von Lebensräumen in geschützten Gebieten \(§ 181i StGB\)
-> 
+>
 > &nbsp; *\(Anm\.: Z 9 aufgehoben durch Art\. 3 Z 1, BGBl\. I Nr\. 135/2023\)*
-> 
+>
 >> `9a.` des Vergehens der staatsfeindlichen Bewegung \(§ 247a Abs\. 2 StGB\),
-> 
+>
 >> `9b.` des Vergehens der Verhetzung \(§ 283 Abs\. 4\),
-> 
+>
 >> `9c.` des Vergehens der religiös motivierten extremistischen Verbindung \(§ 247b Abs\. 2 StGB\) und
-> 
+>
 >> `10.` der Vergehen, für die auf Grund besonderer Bestimmungen das Landesgericht zuständig ist\.
 
 > `(2)` Das Bezirksgericht entscheidet durch Einzelrichter\.
@@ -1197,87 +1197,87 @@ Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen 
 ### § 31 StPO — Landesgericht
 
 > `(1)` Dem Einzelrichter des Landesgerichts obliegt im Ermittlungsverfahren
-> 
+>
 >> `1.` die Aufnahme von Beweisen gemäß § 104,
-> 
+>
 >> `2.` das Verfahren zur Entscheidung über Anträge auf Beschlagnahme, Verwertung sichergestellter oder beschlagnahmter Vermögenswerte und auf Verhängung und Fortsetzung der Untersuchungshaft sowie über Anträge auf Bewilligung anderer Zwangsmittel \(§ 105\),
-> 
+>
 >> `3.` die Entscheidung über Einsprüche wegen behaupteter Verletzung eines subjektiven Rechts durch die Staatsanwaltschaft oder die Kriminalpolizei \(§§ 106 und 107\),
-> 
+>
 >> `4.` die Entscheidung über Anträge auf Einstellung des Ermittlungsverfahrens \(§ 108\),
-> 
+>
 > &nbsp; *\(Anm\.: Z 5 aufgehoben durch Art\. 1 Z 8, BGBl\. I Nr\. 157/2024\)*
-> 
+>
 >> `6.` das Verfahren zur Entscheidung über Anträge auf Anordnungen zur Ausforschung des Beschuldigten \(§ 71 Abs\. 1 zweiter Satz\),
-> 
+>
 >> `7.` die Bestimmung des Beitrages zu den Kosten der Verteidigung im Ermittlungsverfahren \(§ 196a\)\.
 
 > `(2)` Dem Landesgericht als Geschworenengericht obliegt das Hauptverfahren wegen
-> 
+>
 >> `1.` Straftaten, die mit lebenslanger oder einer Freiheitsstrafe bedroht sind, deren Untergrenze mehr als fünf Jahre und deren Obergrenze mehr als zehn Jahre beträgt,
-> 
+>
 >> `2.` des Verbrechens der Überlieferung an eine ausländische Macht \(§ 103 StGB\),
-> 
+>
 >> `3.` der Verbrechen des Hochverrats \(§ 242 StGB\) und der Vorbereitung des Hochverrats \(§ 244 StGB\),
-> 
+>
 >> `4.` des Verbrechens oder Vergehens staatsfeindlicher Verbindungen \(§ 246 StGB\),
-> 
+>
 >> `5.` des Vergehens der Herabwürdigung des Staates und seiner Symbole \(§ 248 StGB\),
-> 
+>
 >> `6.` der Verbrechen des Angriffs auf oberste Staatsorgane \(§§ 249 bis 251 StGB\),
-> 
+>
 >> `7.` der Verbrechen und Vergehen des Landesverrats \(§§ 252 bis 258 StGB\),
-> 
+>
 >> `8.` des Vergehens bewaffneter Verbindungen \(§ 279 StGB\),
-> 
+>
 >> `9.` des Vergehens des Ansammelns von Kampfmitteln \(§ 280 StGB\),
-> 
+>
 >> `10.` der Verbrechen und Vergehen der Störung der Beziehungen zum Ausland \(§§ 316 bis 320 StGB\),
-> 
+>
 >> `10a.` des Verbrechens der Aggression \(§ 321k StGB\),
-> 
+>
 >> `11.` des Vergehens der Aufforderung zu mit Strafe bedrohten Handlungen und der Gutheißung mit Strafe bedrohter Handlungen \(§ 282 StGB\) sowie des Vergehens der Unterlassung der Verhinderung einer mit Strafe bedrohten Handlung \(§ 286 StGB\), wenn die Tat mit Beziehung auf eine der unter Z 2 bis 10a angeführten strafbaren Handlungen begangen worden ist, und
-> 
+>
 >> `12.` strafbarer Handlungen, für die es auf Grund besonderer Bestimmungen zuständig ist\.
 
 > `(3)` Dem Landesgericht als Schöffengericht obliegt, soweit es nicht als Geschworenengericht zuständig ist, das Hauptverfahren wegen
-> 
+>
 >> `1.` Straftaten, die mit einer fünf Jahre übersteigenden Freiheitsstrafe bedroht sind,
-> 
+>
 >> `2.` der Verbrechen der Tötung auf Verlangen \(§ 77 StGB\), der Mitwirkung am Selbstmord \(§ 78 StGB\) und der Tötung eines Kindes bei der Geburt \(§ 79 StGB\),
-> 
+>
 >> `3.` der Verbrechen des räuberischen Diebstahls \(§ 131 StGB\), der Gewaltanwendung eines Wilderers \(§ 140 StGB\) und des minderschweren Raubes \(§ 142 Abs\. 2 StGB\),
-> 
+>
 >> `4.` der Verbrechen der geschlechtlichen Nötigung \(§ 202 StGB\), des sexuellen Missbrauchs einer wehrlosen Person \(§ 205 StGB\) und des sexuellen Missbrauchs von Unmündigen \(§ 207 StGB\),
-> 
+>
 >> `5.` des Vergehens der schweren gemeinschaftlichen Gewalt und des Verbrechens oder Vergehens des Landzwangs \(§§ 274 und 275 StGB\),
-> 
+>
 >> `6.` des Verbrechens des Missbrauchs der Amtsgewalt \(§ 302 StGB\),
-> 
+>
 >> `6a.` des Vergehens des schweren Diebstahls \(§ 128 Abs\. 1 Z 5 StGB\), des Verbrechens des gewerbsmäßig schweren Diebstahls \(§ 130 Abs\. 2 erster Fall StGB\), der Vergehen der Entziehung von Energie \(§ 132 Abs\. 2 erster Fall StGB\), der Veruntreuung \(§ 133 Abs\. 2 erster Fall StGB\), des schweren Betrugs \(§ 147 Abs\. 2 StGB\), des betrügerischen Datenverarbeitungsmißbrauchs \(§ 148a Abs\. 2 zweiter Fall StGB\), der Untreue \(§ 153 Abs\. 3 erster Fall StGB\), der Verbrechen der betrügerischen Krida \(§ 156 Abs\. 1 StGB\) und der Schädigung fremder Gläubiger \(§ 157 StGB\), wenn der durch die Tat herbeigeführte Schaden 50\.000 Euro übersteigt oder die Tat in Bezug auf einen 50\.000 Euro übersteigenden Wert des Vorteils begangen wurde oder sich jeweils der Vorsatz darauf erstreckt,
-> 
+>
 >> `7.` strafbarer Handlungen, für die es auf Grund besonderer Bestimmungen zuständig ist\.
 
 > `(4)` Dem Einzelrichter des Landesgerichts obliegt, soweit nicht das Landesgericht als Geschworenen\- oder Schöffengericht zuständig ist, das Hauptverfahren wegen
-> 
+>
 >> `1.` Straftaten, die mit einer ein Jahr übersteigenden Freiheitsstrafe bedroht sind,
-> 
+>
 >> `2.` der im § 30 Abs\. 1 Z 1 bis 9c angeführten Vergehen,
-> 
+>
 >> `3.` Straftaten, für die der Einzelrichter des Landesgerichts auf Grund besonderer Bestimmungen zuständig ist\.
 
 > `(5)` Dem Einzelrichter des Landesgerichts obliegt das Verfahren über Beschwerden gegen Entscheidungen
-> 
+>
 >> `1.` über die Kosten des Strafverfahrens nach dem 18\. Hauptstück und
-> 
+>
 >> `2.` über die Bestimmung der Gebühren der Sachverständigen und Dolmetscher nach dem Gebührenanspruchsgesetz, BGBl\. Nr\. 136/1975\.
 
 > `(6)` Dem Landesgericht als Senat von drei Richtern obliegt
-> 
+>
 >> `1.` das Verfahren über Rechtsmittel und Rechtsbehelfe gegen Urteile und gegen andere als in Abs\. 5 angeführte Beschlüsse des Bezirksgerichts und über einen Kompetenzkonflikt untergeordneter Bezirksgerichte \(§ 38\),
-> 
+>
 >> `2.` die Entscheidung über einen Antrag auf Wiederaufnahme nach § 357, soweit nicht das Bezirksgericht \(§ 480\) oder der Einzelrichter \(§ 490\) zuständig ist, und über Beschlüsse nach § 495 in den Fällen, in denen nach § 494a Abs\. 2 eine Zuständigkeit des Einzelrichters ausgeschlossen wäre, und
-> 
+>
 >> `3.` die Entscheidung über Anträge auf Fortführung \(§§ 195 und 209a Abs\. 6\) und Anträge auf Verfolgung \(§ 197c\)\.
 
 ### § 32 StPO — Landesgericht als Geschworenen- und Schöffengericht
@@ -1285,21 +1285,21 @@ Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen 
 > `(1)` Das Landesgericht als Geschworenengericht setzt sich aus dem Schwurgerichtshof und der Geschworenenbank zusammen\. Der Schwurgerichtshof besteht aus drei Richtern, die Geschworenenbank ist mit acht Geschworenen besetzt\. Das Landesgericht als Schöffengericht besteht – ausgenommen den Fall des Abs\. 1a – aus einem Richter und zwei Schöffen\.
 
 > `(1a)` Das Landesgericht als Schöffengericht besteht aus zwei Richtern und zwei Schöffen im Hauptverfahren wegen folgender Straftaten:
-> 
+>
 >> `1.` Totschlag \(§ 76 StGB\);
-> 
+>
 >> `2.` Schwerer Raub \(§ 143 StGB\) und andere strafbare Handlungen gegen fremdes Vermögen, soweit die Höhe der Strafdrohung von dem ziffernmäßig bestimmten Wert der Sache, gegen die sich die Handlung richtet, oder von der ziffernmäßig bestimmten Höhe des Schadens abhängt, den die Handlung verursacht oder auf den sich der Vorsatz erstreckt, sofern die Werte oder Schadensbeträge 1 000 000 Euro übersteigen;
-> 
+>
 >> `3.` Brandstiftung \(§ 169 StGB\), vorsätzliche Gefährdung durch Kernenergie oder ionisierende Strahlen \(§ 171 StGB\), vorsätzliche Gefährdung durch Sprengmittel \(§ 173 StGB\), vorsätzliche Gemeingefährdung \(§ 176 StGB\) und Herstellung und Verbreitung von Massenvernichtungswaffen \(§ 177a StGB\);
-> 
+>
 >> `4.` Vergewaltigung \(§ 201 StGB\), Schwerer sexueller Missbrauch von Unmündigen \(§ 206 StGB\) und die in § 31 Abs\. 3 Z 4 genannten Verbrechen;
-> 
+>
 >> `5.` Missbrauch der Amtsgewalt gemäß § 302 Abs\. 2 zweiter Satz StGB und Straftaten nach den §§ 304 und 307 StGB, soweit dem Angeklagten die Herbeiführung eines 100 000 Euro übersteigenden Schadens oder die Begehung der Tat in Bezug auf einen 100 000 Euro übersteigenden Vorteil zur Last gelegt wird oder sich jeweils der Vorsatz darauf erstreckt;
-> 
+>
 >> `6.` Finanzvergehen, soweit der angelastete strafbestimmende Wertbetrag 1 000 000 Euro übersteigt oder sich der Vorsatz darauf erstreckt sowie
-> 
+>
 >> `7.` Terroristische Vereinigung \(§ 278b StGB\) sowie sonstige strafbare Handlungen, die qualifiziert im Rahmen oder als Mitglied einer kriminellen Vereinigung \(§ 278 StGB\) begangen werden;
-> 
+>
 >> `8.` die in die Zuständigkeit des Landesgerichts als Schöffengericht fallenden Verbrechen nach dem 25\. Abschnitt des Strafgesetzbuchs\.
 
 > `(1b)` Ein Besetzungsmangel nach Abs\. 1a kann nur geltend gemacht werden, wenn die Staatsanwaltschaft in der Anklageschrift oder der Angeklagte innerhalb der Einspruchsfrist \(§ 213 Abs\. 2\) eine solche Besetzung verlangt hat\. Wurde ein solches Verlangen rechtzeitig gestellt, so ist das Landesgericht als Schöffengericht unabhängig von den Voraussetzungen des Abs\. 1a mit zwei Richtern und zwei Schöffen zu besetzen\.
@@ -1319,17 +1319,17 @@ Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen 
 ### § 33 StPO — Oberlandesgericht
 
 > `(1)` Dem Oberlandesgericht obliegt die Entscheidung
-> 
+>
 >> `1.` über Rechtsmittel und Rechtsbehelfe gegen Entscheidungen des Landesgerichts als Einzelrichter \(§ 31 Abs\. 1 und 4\),
-> 
+>
 >> `2.` über Berufungen gegen Urteile des Landesgerichts als Geschworenen\- oder Schöffengericht,
-> 
+>
 > &nbsp; *\(Anm\.: Z 3 aufgehoben durch BGBl\. I Nr\. 52/2009\)*
-> 
+>
 >> `4.` über den Einspruch gegen die Anklageschrift \(§ 212\),
-> 
+>
 >> `5.` über Kompetenzkonflikte und Delegierungen \(§§ 38 und 39\) und
-> 
+>
 >> `6.` in Fällen, in denen es auf Grund besonderer Vorschriften zuständig ist\.
 
 > `(2)` Der Einzelrichter des Oberlandesgerichts entscheidet über Beschwerden gegen Entscheidungen über den Pauschalkostenbeitrag gemäß § 196 Abs\. 2, über den Betrag zu den Kosten der Verteidigung im Ermittlungsverfahren gemäß § 196a, über die Kosten des Strafverfahrens nach dem 18\. Hauptstück und über die Bestimmung der Gebühren der Sachverständigen und Dolmetscher nach dem GebAG\. In den übrigen Fällen entscheidet das Oberlandesgericht durch einen Senat von drei Richtern\.
@@ -1337,17 +1337,17 @@ Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen 
 ### § 34 StPO — Oberster Gerichtshof
 
 > `(1)` Dem Obersten Gerichtshof obliegt die Entscheidung
-> 
+>
 >> `1.` über Nichtigkeitsbeschwerden und nach Maßgabe der §§ 296, 344, 427 Abs\. 3 letzter Satz mit ihnen verbundene Berufungen und über Einsprüche gegen Urteile des Landesgerichts als Geschworenen\- oder Schöffengericht,
-> 
+>
 >> `2.` über Nichtigkeitsbeschwerden zur Wahrung des Gesetzes \(§§ 23, 292\), außerordentliche Wiederaufnahmen \(§ 362\) und Anträge auf Erneuerung des Verfahrens \(§ 363a\),
-> 
+>
 >> `3.` über Beschwerden nach § 285b Abs\. 2 und über Beschwerden wegen Verletzung des Grundrechtes auf persönliche Freiheit nach dem Grundrechtsbeschwerde\-Gesetz, BGBl\. Nr\. 864/1992,
-> 
+>
 >> `4.` über Verweisungen \(§ 334 Abs\. 2\),
-> 
+>
 >> `5.` über Kompetenzkonflikte und Delegierungen \(§§ 38 und 39\) und
-> 
+>
 >> `6.` in Fällen, in denen er auf Grund besonderer Vorschriften zuständig ist\.
 
 > `(2)` Im Übrigen bleiben die Bestimmungen des Bundesgesetzes über den Obersten Gerichtshof, BGBl\. Nr\. 328/1968, unberührt\.
@@ -1384,7 +1384,7 @@ Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen 
 
 ### § 38 StPO — Kompetenzkonflikt
 
-Ein Gericht, das sich für unzuständig hält, hat bei ihm eingebrachte Anträge, Einsprüche und Beschwerden dem zuständigen zu überweisen; § 213 Abs\. 6 bleibt unberührt\. Bei Gefahr im Verzug hat jedes Gericht innerhalb seiner sachlichen Zuständigkeit vor der Überweisung unaufschiebbare Entscheidungen zu treffen und unaufschiebbare Beweisaufnahmen durchzuführen\. Sofern auch das Gericht, dem überwiesen wird, seine Zuständigkeit bezweifelt, hat es die Entscheidung des gemeinsam übergeordneten Gerichts zu erwirken, gegen die ein Rechtsmittel nicht zusteht\.
+> Ein Gericht, das sich für unzuständig hält, hat bei ihm eingebrachte Anträge, Einsprüche und Beschwerden dem zuständigen zu überweisen; § 213 Abs\. 6 bleibt unberührt\. Bei Gefahr im Verzug hat jedes Gericht innerhalb seiner sachlichen Zuständigkeit vor der Überweisung unaufschiebbare Entscheidungen zu treffen und unaufschiebbare Beweisaufnahmen durchzuführen\. Sofern auch das Gericht, dem überwiesen wird, seine Zuständigkeit bezweifelt, hat es die Entscheidung des gemeinsam übergeordneten Gerichts zu erwirken, gegen die ein Rechtsmittel nicht zusteht\.
 
 ### § 39 StPO — Delegierung
 
@@ -1425,11 +1425,11 @@ Ein Gericht, das sich für unzuständig hält, hat bei ihm eingebrachte Anträge
 ### § 43 StPO — Ausgeschlossenheit von Richtern
 
 > `(1)` Ein Richter ist vom gesamten Verfahren ausgeschlossen, wenn
-> 
+>
 >> `1.` er selbst oder einer seiner Angehörigen \(§ 72 StGB\) im Verfahren Staatsanwalt, Privatankläger, Privatbeteiligter, Beschuldigter, Verteidiger oder Vertreter ist oder war oder durch die Straftat geschädigt worden sein könnte, wobei die durch Ehe begründete Eigenschaft einer Person als Angehörige auch dann aufrecht bleibt, wenn die Ehe nicht mehr besteht,
-> 
+>
 >> `2.` er außerhalb seiner Dienstverrichtungen Zeuge der in Frage stehenden Handlung gewesen oder in der Sache als Zeuge oder Sachverständiger vernommen worden ist oder vernommen werden soll oder
-> 
+>
 >> `3.` andere Gründe vorliegen, die geeignet sind, seine volle Unvoreingenommenheit und Unparteilichkeit in Zweifel zu ziehen\.
 
 > `(2)` Ein Richter ist außerdem vom Hauptverfahren ausgeschlossen, wenn er im Ermittlungsverfahren Beweise aufgenommen hat \(§ 104\), ein gegen den Beschuldigten gerichtetes Zwangsmittel bewilligt, über einen von ihm erhobenen Einspruch oder einen Antrag auf Einstellung entschieden oder an einer Entscheidung über die Fortführung des Verfahrens oder an einem Urteil mitgewirkt hat, das infolge eines Rechtsmittels oder Rechtsbehelfs aufgehoben wurde\.
@@ -1456,16 +1456,16 @@ Ein Gericht, das sich für unzuständig hält, hat bei ihm eingebrachte Anträge
 
 ### § 46 StPO — Ausschließung von Geschworenen, Schöffen und Protokollführern
 
-Für die Ausschließung und Ablehnung von Geschworenen und Schöffen sind die Bestimmungen über Richter sinngemäß mit der Maßgabe anzuwenden, dass über die Ablehnung der Vorsitzende des Geschworenen\- oder Schöffengerichts zu entscheiden hat\. Für Protokollführer gelten die Ausschließungsgründe des § 43 Abs\. 1; über ihre Ablehnung entscheidet der Richter oder der Vorsitzende des jeweiligen Senates\.
+> Für die Ausschließung und Ablehnung von Geschworenen und Schöffen sind die Bestimmungen über Richter sinngemäß mit der Maßgabe anzuwenden, dass über die Ablehnung der Vorsitzende des Geschworenen\- oder Schöffengerichts zu entscheiden hat\. Für Protokollführer gelten die Ausschließungsgründe des § 43 Abs\. 1; über ihre Ablehnung entscheidet der Richter oder der Vorsitzende des jeweiligen Senates\.
 
 ### § 47 StPO — Befangenheit von Kriminalpolizei und Staatsanwaltschaft
 
 > `(1)` Jedes Organ der Kriminalpolizei und der Staatsanwaltschaft hat sich der Ausübung seines Amtes zu enthalten und seine Vertretung zu veranlassen,
-> 
+>
 >> `1.` in Verfahren, in denen es selbst oder einer seiner Angehörigen \(§ 72 StGB\) als Beschuldigter, als Privatankläger, als Privatbeteiligter oder als deren Vertreter am Verfahren beteiligt ist oder war oder durch die Straftat geschädigt worden sein könnte, wobei die durch Ehe begründete Eigenschaft einer Person als Angehörige auch dann aufrecht bleibt, wenn die Ehe nicht mehr besteht,
-> 
+>
 >> `2.` in Verfahren, in denen es als Organ der Kriminalpolizei zuvor Richter oder Staatsanwalt, als Staatsanwalt zuvor Richter oder Organ der Kriminalpolizei gewesen ist,
-> 
+>
 >> `3.` wenn andere Gründe vorliegen, die geeignet sind, seine volle Unvoreingenommenheit und Unparteilichkeit in Zweifel zu ziehen\.
 
 > `(2)` Bei Gefahr im Verzug hat, wenn die Vertretung durch ein anderes Organ nicht sogleich bewirkt werden kann, auch das befangene Organ unaufschiebbare Amtshandlungen vorzunehmen, soweit es nicht gegen sich selbst oder gegen einen Angehörigen einzuschreiten hätte\.
@@ -1505,15 +1505,15 @@ Für die Ausschließung und Ablehnung von Geschworenen und Schöffen sind die Be
 ### § 48 StPO — Definitionen
 
 > `(1)` Im Sinne dieses Gesetzes ist
-> 
+>
 >> `1.` „Verdächtiger“ jede Person, gegen die auf Grund eines Anfangsverdachts \(§ 1 Abs\. 3\) ermittelt wird,
-> 
+>
 >> `2.` „Beschuldigter“ jeder Verdächtige, sobald er auf Grund bestimmter Tatsachen konkret verdächtig ist, eine strafbare Handlung begangen zu haben und zur Aufklärung dieses konkreten Verdachts nach dem 8\. oder 9\. Hauptstück dieses Bundesgesetzes Beweise aufgenommen oder Ermittlungsmaßnahmen angeordnet oder durchgeführt werden,
-> 
+>
 >> `3.` „Angeklagter“ jeder Beschuldigte, gegen den Anklage eingebracht worden ist,
-> 
+>
 >> `4.` „Betroffener“ jede Person, die durch Anordnung oder Durchführung von Zwang in ihren Rechten unmittelbar beeinträchtigt wird,
-> 
+>
 >> `5.` „Verteidiger“ eine zur Ausübung der Rechtsanwaltschaft, eine sonst gesetzlich zur Vertretung im Strafverfahren berechtigte oder eine Person, die an einer inländischen Universität die Lehrbefugnis für Strafrecht und Strafprozessrecht erworben hat, sobald sie der Beschuldigte als Rechtsbeistand bevollmächtigt hat, und eine Person, die dem Beschuldigten nach den Bestimmungen dieses Gesetzes als Rechtsbeistand bestellt wurde\.
 
 > `(2)` Soweit die Bestimmungen dieses Gesetzes auf den Beschuldigten verweisen und im Einzelnen nichts anderes bestimmt wird, sind sie auch auf Verdächtige, Angeklagte und auf Personen anzuwenden, gegen die ein Verfahren zur Unterbringung in einem forensisch\-therapeutischen Zentrum nach § 21 StGB geführt wird\.
@@ -1525,31 +1525,31 @@ Für die Ausschließung und Ablehnung von Geschworenen und Schöffen sind die Be
 ### § 49 StPO — Rechte des Beschuldigten
 
 > `(1)` Der Beschuldigte hat insbesondere das Recht,
-> 
+>
 >> `1.` vom Gegenstand des gegen ihn bestehenden Verdachts sowie über seine wesentlichen Rechte im Verfahren informiert zu werden \(§ 50\),
-> 
+>
 >> `2.` einen Verteidiger zu wählen \(§ 58\) und einen Verfahrenshilfeverteidiger zu erhalten \(§§ 61 und 62\),
-> 
+>
 >> `3.` Akteneinsicht zu nehmen \(§§ 51 bis 53\),
-> 
+>
 >> `4.` sich zum Vorwurf zu äußern oder nicht auszusagen sowie nach Maßgabe der §§ 58, 59 und 164 Abs\. 1 mit einem Verteidiger Kontakt aufzunehmen und sich mit ihm zu besprechen,
-> 
+>
 >> `5.` gemäß § 164 Abs\. 2 einen Verteidiger seiner Vernehmung beizuziehen,
-> 
+>
 >> `6.` die Aufnahme von Beweisen zu beantragen \(§ 55\),
-> 
+>
 >> `7.` Einspruch wegen der Verletzung eines subjektiven Rechts zu erheben \(§ 106\),
-> 
+>
 >> `8.` Beschwerde gegen die gerichtliche Bewilligung von Zwangsmitteln zu erheben \(§ 87\),
-> 
+>
 >> `9.` die Einstellung des Ermittlungsverfahrens zu beantragen \(§ 108\),
-> 
+>
 >> `10.` an der Hauptverhandlung, an einer kontradiktorischen Vernehmung von Zeugen und Mitbeschuldigten \(§ 165 Abs\. 2\) und an einer Tatrekonstruktion \(§ 150\) teilzunehmen,
-> 
+>
 >> `11.` Rechtsmittel und Rechtsbehelfe zu erheben,
-> 
+>
 >> `12.` Übersetzungshilfe zu erhalten \(§ 56\),
-> 
+>
 >> `13.` die Trennung von Verfahren zu beantragen \(§ 27\)\.
 
 > `(2)` Der Beschuldigte hat das Recht, dass Opfern, Privatbeteiligten oder Privatanklägern Akteneinsicht \(§ 68\) nur insoweit gewährt wird, als dies zur Wahrung ihrer Interessen erforderlich ist\.
@@ -1575,13 +1575,13 @@ Für die Ausschließung und Ablehnung von Geschworenen und Schöffen sind die Be
 > `(1)` Soweit dem Beschuldigten Akteneinsicht zusteht, sind ihm auf Antrag und gegen Gebühr Kopien oder Ausdrucke auszufolgen oder ist ihm nach Maßgabe der technischen Möglichkeiten zu gestatten, Kopien selbst herzustellen, sofern dieses Recht nicht durch einen Verteidiger ausgeübt wird \(§ 57 Abs\. 2\)\. Ton\- oder Bildaufnahmen, deren Besitz allgemein verboten ist, oder die Inhalte betreffen, die gemäß § 51 Abs\. 2 erster Satz der Akteneinsicht nicht unterliegen, sind davon ausgenommen; betrifft deren Inhalt schutzwürdige Geheimhaltungsinteressen anderer Beteiligter des Verfahrens oder Dritter, so ist dem Beschuldigten die Pflicht zur Geheimhaltung dieser Aufnahmen aufzuerlegen \(§ 301 Abs\. 2 StGB\)\. Sofern dies zur Gewährleistung der Datensicherheit erforderlich ist, sind dem Beschuldigten die Kopien auf von den Strafverfolgungsbehörden zur Verfügung gestellten Datenträgern zu übergeben\.
 
 > `(2)` In folgenden Fällen hat der Beschuldigte keine Gebühren nach Abs\. 1 zu entrichten:
-> 
+>
 >> `1.` wenn und so lange ihm Verfahrenshilfe bewilligt wurde,
-> 
+>
 >> `2.` wenn er sich in Haft befindet, bis zur ersten Haftverhandlung oder zur früher stattfindenden Hauptverhandlung hinsichtlich aller Aktenstücke, die für die Beurteilung des Tatverdachts oder der Haftgründe von Bedeutung sein können,
-> 
+>
 >> `3.` für Befunde und Gutachten von Sachverständigen, Behörden, Dienststellen und Anstalten,
-> 
+>
 >> `4.` für die Herstellung einer Kopie oder eines Ausdrucks des Protokolls seiner Vernehmung \(§ 96 Abs\. 5\)\.
 
 > `(3)` Dem Verfahrenshilfeverteidiger sind unverzüglich Kopien des Aktes von Amts wegen, im Haftfall durch das Gericht zuzustellen\. Gleiches gilt für die Fälle des Abs\. 2 Z 2 und 3\. Der Verteidiger des in Haft befindlichen Beschuldigten kann beantragen, dass ihm durch die Staatsanwaltschaft Kopien oder Ausdrucke der in Abs\. 2 Z 2 und 3 angeführten Aktenstücke auch in weiterer Folge von Amts wegen übermittelt werden\.
@@ -1594,18 +1594,18 @@ Für die Ausschließung und Ablehnung von Geschworenen und Schöffen sind die Be
 
 ### § 54 StPO — Verbot der Veröffentlichung
 
-Der Beschuldigte und sein Verteidiger sind berechtigt, Informationen, die sie im Verfahren in nicht öffentlicher Verhandlung oder im Zuge einer nicht öffentlichen Beweisaufnahme oder durch Akteneinsicht erlangt haben, im Interesse der Verteidigung und anderer überwiegender Interessen zu verwerten\. Es ist ihnen jedoch untersagt, solche Informationen, soweit sie personenbezogene Daten anderer Beteiligter des Verfahrens oder Dritter enthalten und nicht in öffentlicher Verhandlung vorgekommen sind oder sonst öffentlich bekannt wurden, in einem Medienwerk oder sonst auf eine Weise zu veröffentlichen, dass die Mitteilung einer breiten Öffentlichkeit zugänglich wird, wenn dadurch schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 DSG\) anderer Beteiligter des Verfahrens oder Dritter, die gegenüber dem öffentlichen Informationsinteresse überwiegen, verletzt würden\.
+> Der Beschuldigte und sein Verteidiger sind berechtigt, Informationen, die sie im Verfahren in nicht öffentlicher Verhandlung oder im Zuge einer nicht öffentlichen Beweisaufnahme oder durch Akteneinsicht erlangt haben, im Interesse der Verteidigung und anderer überwiegender Interessen zu verwerten\. Es ist ihnen jedoch untersagt, solche Informationen, soweit sie personenbezogene Daten anderer Beteiligter des Verfahrens oder Dritter enthalten und nicht in öffentlicher Verhandlung vorgekommen sind oder sonst öffentlich bekannt wurden, in einem Medienwerk oder sonst auf eine Weise zu veröffentlichen, dass die Mitteilung einer breiten Öffentlichkeit zugänglich wird, wenn dadurch schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 DSG\) anderer Beteiligter des Verfahrens oder Dritter, die gegenüber dem öffentlichen Informationsinteresse überwiegen, verletzt würden\.
 
 ### § 55 StPO — Beweisanträge
 
 > `(1)` Der Beschuldigte ist berechtigt, die Aufnahme von Beweisen zu beantragen\. Im Antrag sind Beweisthema, Beweismittel und jene Informationen, die für die Durchführung der Beweisaufnahme erforderlich sind, zu bezeichnen\. Soweit dies nicht offensichtlich ist, ist zu begründen, weswegen das Beweismittel geeignet sein könnte, das Beweisthema zu klären\.
 
 > `(2)` Unzulässige, unverwertbare und unmögliche Beweise sind nicht aufzunehmen\. Im Übrigen darf eine Beweisaufnahme auf Antrag des Beschuldigten nur unterbleiben, wenn
-> 
+>
 >> `1.` das Beweisthema offenkundig oder für die Beurteilung des Tatverdachts ohne Bedeutung ist,
-> 
+>
 >> `2.` das beantragte Beweismittel nicht geeignet ist, eine erhebliche Tatsache zu beweisen, oder
-> 
+>
 >> `3.` das Beweisthema als erwiesen gelten kann\.
 
 > `(3)` Im Ermittlungsverfahren kann die Aufnahme eines Beweises der Hauptverhandlung vorbehalten werden\. Dies ist unzulässig, wenn das Ergebnis der Beweisaufnahme geeignet sein kann, den Tatverdacht unmittelbar zu beseitigen, oder die Gefahr des Verlustes des Beweises einer erheblichen Tatsache besteht\.
@@ -1659,11 +1659,11 @@ Der Beschuldigte und sein Verteidiger sind berechtigt, Informationen, die sie im
 > `(4)` Sofern der Beschuldigte in den in Abs\. 1 genannten Fällen nicht einen frei gewählten Verteidiger \(§ 58 Abs\. 2\) beizieht, so ist ihm bis zur Entscheidung über die Verhängung der Untersuchungshaft auf Verlangen die Kontaktaufnahme mit einem „Verteidiger in Bereitschaft“ zu ermöglichen, der sich zur Übernahme einer solchen Verteidigung bereit erklärt hat\. Die Rechtsanwaltskammern haben Listen der Verteidiger, die sich zur Übernahme solcher Verteidigungen in Bereitschaft bereit erklärt haben, zu führen und deren jederzeitige Erreichbarkeit sicherzustellen\. Der Bundesminister für Justiz ist ermächtigt, den Österreichischen Rechtsanwaltskammertag vertraglich mit der Einrichtung eines solchen rechtsanwaltlichen Bereitschaftsdienstes zu beauftragen\.
 
 > `(5)` Die Kosten für die Beiziehung eines „Verteidigers in Bereitschaft“ \(Abs\. 4\) hat der Beschuldigte nicht zu tragen, wenn er erklärt, dazu aus den in § 61 Abs\. 2 erster Satz genannten Gründen außer Stande zu sein:
-> 
+>
 >> `1.` für die Beiziehung zu der nach § 174 Abs\. 1 durchzuführenden Vernehmung;
-> 
+>
 >> `2.` wenn es sich um einen schutzbedürftigen Beschuldigten handelt \(§ 61 Abs\. 2 Z 2\)\.
-> 
+>
 > &nbsp; Ergibt sich im weiteren Verfahren, dass die Erklärung des Beschuldigten falsch war, so ist er vom Gericht nachträglich zum Ersatz dieser Kosten zu verpflichten\.
 
 ### § 60 StPO — Ausschluss des Verteidigers
@@ -1677,37 +1677,37 @@ Der Beschuldigte und sein Verteidiger sind berechtigt, Informationen, die sie im
 ### § 61 StPO — Beigebung eines Verteidigers
 
 > `(1)` In folgenden Fällen muss der Beschuldigte durch einen Verteidiger vertreten sein \(notwendige Verteidigung\):
-> 
+>
 >> `1.` im gesamten Verfahren, wenn und solange er in Untersuchungshaft oder gemäß § 173 Abs\. 4 in Strafhaft angehalten wird,
-> 
+>
 >> `2.` im gesamten Verfahren zur Unterbringung in einem forensisch\-therapeutischen Zentrum nach § 21 StGB \(§ 430 Abs\. 1\),
-> 
+>
 >> `3.` in der Hauptverhandlung zur Unterbringung in einer der in den §§ 22 und 23 StGB genannten Anstalten \(§ 439 Abs\. 1\),
-> 
+>
 >> `4.` in der Hauptverhandlung vor dem Landesgericht als Geschworenen\- oder Schöffengericht,
-> 
+>
 >> `5.` in der Hauptverhandlung vor dem Landesgericht als Einzelrichter, wenn für die Straftat, außer in den Fällen des § 129 Abs\. 2 Z 1 und 164 Abs\. 4 StGB, eine drei Jahre übersteigende Freiheitsstrafe angedroht ist,
-> 
+>
 >> `5a.` in der kontradiktorischen Vernehmung \(§ 165\), soweit in der Hauptverhandlung nach den Z 3 bis 5 notwendige Verteidigung bestünde,
-> 
+>
 >> `6.` im Rechtsmittelverfahren auf Grund einer Anmeldung einer Nichtigkeitsbeschwerde oder einer Berufung gegen ein Urteil des Schöffen\- oder des Geschworenengerichts,
-> 
+>
 >> `7.` bei der Ausführung eines Antrags auf Erneuerung des Strafverfahrens und beim Gerichtstag zur öffentlichen Verhandlung über einen solchen \(§§ 363a Abs\. 2 und 363c\)\.
 
 > `(2)` Ist der Beschuldigte außerstande, ohne Beeinträchtigung des für ihn und seine Familie, für deren Unterhalt er zu sorgen hat, zu einer einfachen Lebensführung notwendigen Unterhaltes die gesamten Kosten der Verteidigung zu tragen, so hat das Gericht auf Antrag des Beschuldigten, in den Fällen der Z 2 auch nach Ermessen des Gerichts von Amts wegen, zu beschließen, dass diesem ein Verteidiger beigegeben wird, dessen Kosten er nicht oder nur zum Teil \(§ 393 Abs\. 1a\) zu tragen hat, wenn und soweit dies im Interesse der Rechtspflege, vor allem im Interesse einer zweckentsprechenden Verteidigung, erforderlich ist \(Verfahrenshilfeverteidiger\)\. Die Beigebung eines Verteidigers ist in diesem Sinn jedenfalls erforderlich:
-> 
+>
 >> `1.` in den Fällen des Abs\. 1,
-> 
+>
 >> `2.` wenn der Beschuldigte schutzbedürftig ist, weil er
->> 
+>>
 >>> `a.` blind, gehörlos, hochgradig seh\-, hör\- oder sprachbehindert ist oder
->> 
+>>
 >>> `b.` an einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung seiner Entscheidungsfähigkeit leidet,
->> 
+>>
 >> &nbsp; und er deshalb nicht in der Lage ist, sich selbst zu verteidigen,
-> 
+>
 >> `3.` für das Rechtsmittelverfahren auf Grund einer Anmeldung einer Berufung,
-> 
+>
 >> `4.` bei schwieriger Sach\- oder Rechtslage\.
 
 > `(3)` In den Fällen des Abs\. 1 sind der Beschuldigte und sein gesetzlicher Vertreter aufzufordern, einen Verteidiger zu bevollmächtigen oder die Beigebung eines Verfahrenshilfeverteidigers nach Abs\. 2 zu beantragen\. Bevollmächtigt weder der Beschuldigte noch sein gesetzlicher Vertreter für ihn einen Verteidiger, so hat ihm das Gericht von Amts wegen einen Verteidiger beizugeben, dessen Kosten er zu tragen hat \(Amtsverteidiger\), soweit nicht die Voraussetzungen des Abs\. 2 erster Satz vorliegen\.
@@ -1752,14 +1752,14 @@ Der Beschuldigte und sein Verteidiger sind berechtigt, Informationen, die sie im
 
 ### § 65 StPO — Definitionen
 
-Im Sinne dieses Gesetzes ist
+> Im Sinne dieses Gesetzes ist
 
 > `1.` „Opfer“
-> 
+>
 >> `a.` jede Person, die durch eine vorsätzlich begangene Straftat Gewalt oder gefährlicher Drohung ausgesetzt, in ihrer sexuellen Integrität und Selbstbestimmung beeinträchtigt oder deren persönliche Abhängigkeit durch eine solche Straftat ausgenützt worden sein könnte,
-> 
+>
 >> `b.` der Ehegatte, der eingetragene Partner, der Lebensgefährte, die Verwandten in gerader Linie, der Bruder oder die Schwester und sonstige Unterhaltsberechtigte einer Person, deren Tod durch eine Straftat herbeigeführt worden sein könnte, oder andere Angehörige, die Zeugen der Tat waren,
-> 
+>
 >> `c.` jede andere Person, die durch eine Straftat einen Schaden erlitten haben oder sonst in ihren strafrechtlich geschützten Rechtsgütern beeinträchtigt worden sein könnte,
 
 > `2.` „Privatbeteiligter“ jedes Opfer, das erklärt, sich am Verfahren zu beteiligen, um Ersatz für den erlittenen Schaden oder die erlittene Beeinträchtigung zu begehren,
@@ -1775,29 +1775,29 @@ Im Sinne dieses Gesetzes ist
 ### § 66 StPO — Opferrechte
 
 > `(1)` Opfer haben – unabhängig von ihrer Stellung als Privatbeteiligte – das Recht,
-> 
+>
 >> `1.` sich vertreten zu lassen \(§ 73\),
-> 
+>
 >> `1a.` eine schriftliche Bestätigung ihrer Anzeige zu erhalten \(§ 80 Abs\. 1\),
-> 
+>
 >> `1b.` auf ehestmögliche Beurteilung ihrer besonderen Schutzbedürftigkeit \(§ 66a\),
-> 
+>
 >> `1c.` die Übermittlung ihrer personenbezogenen Daten an eine in § 66b Abs\. 3 angeführte Einrichtung nach Wahl des Opfers zu verlangen, soweit dies zum Zweck einer Kontaktaufnahme und Beratung über mögliche Ansprüche nach § 66b Abs\. 1 erforderlich ist,
-> 
+>
 >> `2.` Akteneinsicht zu nehmen \(§ 68\),
-> 
+>
 >> `3.` vor ihrer Vernehmung vom Gegenstand des Verfahrens und über ihre wesentlichen Rechte informiert zu werden \(§ 70 Abs\. 1\),
-> 
+>
 >> `4.` vom Fortgang des Verfahrens verständigt zu werden \(§§ 177 Abs\. 5, 194, 197 Abs\. 3, 206 und 208 Abs\. 3\),
-> 
+>
 >> `5.` auf Übersetzungshilfe durch Dolmetschleistungen nach Maßgabe des Abs\. 3,
-> 
+>
 >> `6.` an einer kontradiktorischen Vernehmung von Zeugen und Beschuldigten \(§ 165\) und an einer Tatrekonstruktion \(§ 150 Abs\. 1\) teilzunehmen,
-> 
+>
 >> `7.` während der Hauptverhandlung anwesend zu sein und Angeklagte, Zeugen und Sachverständige zu befragen sowie zu ihren Ansprüchen gehört zu werden,
-> 
+>
 >> `8.` die Fortführung eines durch die Staatsanwaltschaft eingestellten Verfahrens zu verlangen \(§ 195 Abs\. 1\)\.
-> 
+>
 > *\(Anm\.: Abs\. 2 aufgehoben durch Art\. 10 Z 5, BGBl\. I Nr\. 148/2020\)*
 
 > `(3)` Übersetzungshilfe ist in sinngemäßer Anwendung der Bestimmungen des § 56 zu gewähren\. Als wesentliche Aktenstücke, die auf Verlangen des Opfers zu übersetzen sind, gelten die schriftliche Bestätigung der Anzeige \(§ 80 Abs\. 1\), die Verständigung von der Einstellung des Ermittlungsverfahrens und deren Begründung \(§ 194 Abs\. 2\) sowie eine Ausfertigung des Urteils und der Strafverfügung \(§ 491\); bei der Prüfung der Erforderlichkeit tritt an Stelle der Erforderlichkeit zur Wahrung der Verteidigungsrechte jene zur Wahrung der Rechte und Interessen des Opfers \(§ 10\)\.
@@ -1806,27 +1806,27 @@ Im Sinne dieses Gesetzes ist
 ### § 66a StPO — Besondere Schutzbedürftigkeit von Opfern
 
 > `(1)` Opfer haben das Recht auf ehestmögliche Beurteilung und Feststellung ihrer besonderen Schutzbedürftigkeit nach Maßgabe ihres Alters, ihres seelischen und gesundheitlichen Zustands sowie der Art und konkreten Umstände der Straftat\. Als besonders schutzbedürftig gelten jedenfalls Opfer,
-> 
+>
 >> `1.` die in ihrer sexuellen Integrität und Selbstbestimmung verletzt worden sein könnten,
-> 
+>
 >> `2.` zu deren Schutz ein Betretungs\- und Annäherungsverbot zum Schutz vor Gewalt nach § 38a Abs\. 1 SPG erteilt werden könnte,
-> 
+>
 >> `3.` die minderjährig \(§ 74 Abs\. 1 Z 3 StGB\) sind\.
 
 > `(2)` Besonders schutzbedürftige Opfer haben das Recht:
-> 
+>
 >> `1.` zu verlangen, im Ermittlungsverfahren nach Möglichkeit von einer Person des gleichen Geschlechts vernommen zu werden,
-> 
+>
 >> `1a.` zu verlangen, dass Dolmetschleistungen \(§ 66 Abs\. 3\) bei Vernehmungen des Opfers im Ermittlungsverfahren und in der Hauptverhandlung nach Möglichkeit von einer Person des gleichen Geschlechts erbracht werden,
-> 
+>
 >> `2.` die Beantwortung von Fragen nach Einzelheiten der Straftat, deren Schilderung sie für unzumutbar halten, oder nach Umständen aus ihrem höchstpersönlichen Lebensbereich zu verweigern \(§ 158 Abs\. 1 Z 2 und 3, Abs\. 2\),
-> 
+>
 >> `3.` zu verlangen, im Ermittlungsverfahren und in der Hauptverhandlung auf schonende Weise vernommen zu werden \(§§ 165, 250 Abs\. 3\), und zwar ein minderjähriges Opfer, das durch die dem Beschuldigten zur Last gelegte Straftat in seiner Geschlechtssphäre verletzt worden sein könnte, jedenfalls auf die in § 165 Abs\. 3 beschriebene Art und Weise, gegebenenfalls durch einen Sachverständigen,
-> 
+>
 >> `4.` zu verlangen, die Öffentlichkeit der Hauptverhandlung auszuschließen \(§ 229 Abs\. 1\),
-> 
+>
 >> `5.` unverzüglich von Amts wegen im Sinne der § 172 Abs\. 4, § 177 Abs\. 5, § 181a, § 431 Abs\. 4 und § 434g Abs\. 7 informiert zu werden,
-> 
+>
 >> `6.` einer Vernehmung eine Person ihres Vertrauens beizuziehen \(§ 160 Abs\. 2\)\.
 
 > `(3)` Ist ein gesetzlicher Vertreter des minderjährigen Opfers der Straftat verdächtig oder überwiesen, besteht sonst die Gefahr eines Widerstreitens der Interessen des minderjährigen Opfers und seines gesetzlichen Vertreters oder kann dem minderjährigen Opfer im Strafverfahren kein gesetzlicher Vertreter beistehen, so ist beim Pflegschaftsgericht die Bestellung eines Kurators anzuregen\.
@@ -1836,17 +1836,17 @@ Im Sinne dieses Gesetzes ist
 ### § 66b StPO — Prozessbegleitung
 
 > `(1)` Auf ihr Verlangen ist
-> 
+>
 >> `a)` Opfern im Sinne des § 65 Z 1 lit\. a oder b,
-> 
+>
 >> `b)` Opfern \(§ 65 Z 1\) terroristischer Straftaten \(§ 278c StGB\),
-> 
+>
 >> `c)` Opfern \(§ 65 Z 1\) von beharrlicher Verfolgung \(§ 107a StGB\), fortdauernder Belästigung im Wege einer Telekommunikation oder eines Computersystems \(§ 107c StGB\) und Verhetzung \(§ 283 StGB\),
-> 
+>
 >> `d)` Opfern \(§ 65 Z 1\) von übler Nachrede \(§ 111 StGB\), Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung \(§ 113 StGB\), Beleidigung \(§ 115 StGB\) und Verleumdung \(§ 297 StGB\), wenn auf Grund bestimmter Anhaltspunkte angenommen werden kann, dass eine solche Tat im Wege einer Telekommunikation oder unter Verwendung eines Computersystems begangen wurde, und
-> 
+>
 >> `e)` Minderjährigen, die Zeugen von Gewalt waren,
-> 
+>
 > &nbsp; psychosoziale und juristische Prozessbegleitung zu gewähren, soweit dies zur Wahrung ihrer prozessualen Rechte unter größtmöglicher Bedachtnahme auf ihre persönliche Betroffenheit erforderlich ist\. Opfern, die in ihrer sexuellen Integrität verletzt worden sein könnten und das vierzehnte Lebensjahr noch nicht vollendet haben, ist jedenfalls psychosoziale Prozessbegleitung zu gewähren\.
 
 > `(2)` Psychosoziale Prozessbegleitung umfasst die Vorbereitung der Betroffenen auf das Verfahren und die mit ihm verbundenen emotionalen Belastungen sowie die Begleitung zu Vernehmungen im Ermittlungs\- und Hauptverfahren, juristische Prozessbegleitung die rechtliche Beratung und Vertretung durch einen Rechtsanwalt\.
@@ -1862,25 +1862,25 @@ Im Sinne dieses Gesetzes ist
 > `(3)` Eine Erklärung nach Abs\. 2 ist bei der Kriminalpolizei oder bei der Staatsanwaltschaft, nach Einbringen der Anklage beim Gericht einzubringen\. Sie muss längstens bis zum Schluss des Beweisverfahrens abgegeben werden; bis dahin ist auch die Höhe des Schadenersatzes oder der Entschädigung zu beziffern\. Die Erklärung kann jederzeit zurückgezogen werden\.
 
 > `(4)` Eine Erklärung ist zurückzuweisen, wenn
-> 
+>
 >> `1.` sie offensichtlich unberechtigt ist,
-> 
+>
 >> `2.` sie verspätet abgegeben wurde \(Abs\. 3\) oder
-> 
+>
 >> `3.` die Höhe des Schadenersatzes oder der Entschädigung nicht rechtzeitig beziffert wurde\.
 
 > `(5)` Die Zurückweisung einer Erklärung nach Abs\. 4 obliegt der Staatsanwaltschaft, nach Einbringen der Anklage dem Gericht\.
 
 > `(6)` Privatbeteiligte haben über die Rechte der Opfer \(§ 66\) hinaus das Recht,
-> 
+>
 >> `1.` die Aufnahme von Beweisen nach § 55 zu beantragen,
-> 
+>
 >> `2.` die Anklage nach § 72 aufrechtzuerhalten, wenn die Staatsanwaltschaft von ihr zurücktritt,
-> 
+>
 >> `3.` Beschwerde gegen die gerichtliche Einstellung des Verfahrens nach § 87 zu erheben,
-> 
+>
 >> `4.` zur Hauptverhandlung geladen zu werden und Gelegenheit zu erhalten, nach dem Schlussantrag der Staatsanwaltschaft ihre Ansprüche auszuführen und zu begründen\.
-> 
+>
 >> `5.` Berufung wegen ihrer privatrechtlichen Ansprüche nach § 366 zu erheben\.
 
 > `(7)` Privatbeteiligten ist – soweit ihnen nicht juristische Prozessbegleitung zu gewähren ist \(§ 66b\) – Verfahrenshilfe durch unentgeltliche Beigebung eines Rechtsanwalts zu bewilligen, soweit die Vertretung durch einen Rechtsanwalt im Interesse der Rechtspflege, vor allem im Interesse einer zweckentsprechenden Durchsetzung ihrer Ansprüche zur Vermeidung eines nachfolgenden Zivilverfahrens erforderlich ist, und sie außerstande sind, die Kosten ihrer anwaltlichen Vertretung ohne Beeinträchtigung des notwendigen Unterhalts zu bestreiten\. Als notwendiger Unterhalt ist derjenige anzusehen, den die Person für sich und ihre Familie, für deren Unterhalt sie zu sorgen hat, zu einer einfachen Lebensführung benötigt\. Für die Beigebung und Bestellung eines solchen Vertreters gelten die Bestimmungen der § 61 Abs\. 4, § 62 Abs\. 1, 2 und 4 sowie § 63 Abs\. 1 sinngemäß\.
@@ -1904,15 +1904,15 @@ Im Sinne dieses Gesetzes ist
 ### § 70 StPO — Recht auf Information
 
 > `(1)` Sobald ein Ermittlungsverfahren geführt wird, hat die Kriminalpolizei oder die Staatsanwaltschaft Opfer über ihre wesentlichen Rechte \(§§ 66 bis 67\) zu informieren\. Dies darf nur so lange unterbleiben, als besondere Umstände befürchten lassen, dass ansonsten der Zweck der Ermittlungen gefährdet wäre\. Opfer im Sinn des § 65 Z 1 sind spätestens im Zeitpunkt ihrer Vernehmung darüber zu informieren, dass sie berechtigt sind, auf Antrag unverzüglich von
-> 
+>
 >> `1.` der Freilassung des Beschuldigten \(§ 172 Abs\. 4, § 177 Abs\. 5\),
-> 
+>
 >> `2.` der Flucht des in der Untersuchungshaft befindlichen Beschuldigten und seiner Wiederergreifung \(§ 181a\),
-> 
+>
 >> `3.` der Flucht und Wiederergreifung des Geflohenen \(§ 106 Abs\. 4 StVG\) sowie
-> 
+>
 >> `4.` dem ersten unbewachten Verlassen der Anstalt oder der bevorstehenden oder erfolgten Entlassung des Strafgefangenen \(§ 149 Abs\. 5 StVG\)
-> 
+>
 > &nbsp; verständigt zu werden\. § 50 Abs\. 2 gilt sinngemäß\.
 
 > `(2)` Spätestens vor ihrer ersten Vernehmung sind Opfer im Sinn des § 66b Abs\. 1 lit\. a bis d überdies über die Voraussetzungen der Prozessbegleitung und besonders schutzbedürftige Opfer über ihre Rechte nach § 66a zu informieren\.
@@ -1955,7 +1955,7 @@ Im Sinne dieses Gesetzes ist
 
 ### § 73 StPO — Vertreter
 
-Vertreter stehen Haftungsbeteiligten, Opfern, Privatbeteiligten, Privatanklägern und Subsidiaranklägern beratend und unterstützend zur Seite\. Sie üben, soweit in diesem Gesetz nichts anderes bestimmt wird, die Verfahrensrechte aus, die den Vertretenen zustehen\. Als Vertreter kann eine zur Ausübung der Rechtsanwaltschaft berechtigte, eine nach § 25 Abs\. 3 SPG anerkannte Opferschutzeinrichtung oder eine sonst geeignete Person bevollmächtigt werden\.
+> Vertreter stehen Haftungsbeteiligten, Opfern, Privatbeteiligten, Privatanklägern und Subsidiaranklägern beratend und unterstützend zur Seite\. Sie üben, soweit in diesem Gesetz nichts anderes bestimmt wird, die Verfahrensrechte aus, die den Vertretenen zustehen\. Als Vertreter kann eine zur Ausübung der Rechtsanwaltschaft berechtigte, eine nach § 25 Abs\. 3 SPG anerkannte Opferschutzeinrichtung oder eine sonst geeignete Person bevollmächtigt werden\.
 
 ## 5. Hauptstück
 
@@ -1976,9 +1976,9 @@ Vertreter stehen Haftungsbeteiligten, Opfern, Privatbeteiligten, Privatankläger
 > `(1)` Unrichtige, unvollständige oder entgegen den Bestimmungen dieses Gesetzes ermittelte personenbezogene Daten sind von Amts wegen oder auf Antrag der betroffenen Person unverzüglich richtig zu stellen, zu vervollständigen oder zu löschen\. Behörden und Gerichte sind von der Berichtigung oder Löschung jener personenbezogenen Daten zu verständigen, die ihnen zuvor übermittelt worden sind \(§ 76 Abs\. 4\)\. Überdies sind von der Berichtigung jene Behörden und öffentlichen Dienststellen des Bundes, der Länder und der Gemeinden sowie andere durch Gesetz eingerichtete Körperschaften und Anstalten des öffentlichen Rechts zu verständigen, von denen die zu berichtigenden Daten stammen\.
 
 > `(2)` Im Übrigen ist ein Zugriff auf Namensverzeichnisse zu unterbinden, und zwar
-> 
+>
 >> `1.` im Fall einer Verurteilung längstens nach Ablauf von zehn Jahren ab dem Zeitpunkt, ab dem die Strafe vollzogen wurde, wenn jedoch eine Strafe nicht ausgesprochen oder bedingt nachgesehen wurde, ab der Verurteilung,
-> 
+>
 >> `2.` im Fall eines Freispruchs, einer Einstellung des Verfahrens oder eines \(endgültigen\) Rücktritts von Verfolgung längstens nach Ablauf von zehn Jahren ab der Entscheidung\.
 
 > `(3)` Nach sechzig Jahren ab den in Abs\. 2 angeführten Zeitpunkten sind alle personenbezogenen Daten im direkten Zugriff zu löschen\.
@@ -2001,19 +2001,19 @@ Vertreter stehen Haftungsbeteiligten, Opfern, Privatbeteiligten, Privatankläger
 > `(3)` Auf den Verkehr mit ausländischen Behörden sind völkerrechtliche Verträge, das Auslieferungs\- und Rechtshilfegesetz, das Bundesgesetz über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union sowie das Polizeikooperationsgesetz anzuwenden\.
 
 > `(4)` Eine Übermittlung personenbezogener Daten, die nach diesem Gesetz ermittelt wurden, darf nur an Behörden und Gerichte auf Grund einer ausdrücklichen gesetzlichen Ermächtigung sowie nur dann vorgenommen werden, wenn die Verwendung dieser Daten in einem Strafverfahren als Beweis zulässig ist\. Sie hat zu unterbleiben, wenn
-> 
+>
 >> `1.` die mit der Übermittlung verfolgten Zwecke nicht im gesetzlichen Zuständigkeitsbereich der ersuchenden Behörden und Gerichte liegen oder
-> 
+>
 >> `2.` im Einzelfall schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 DSG\) die mit der Übermittlung verfolgten Zwecke überwiegen, insbesondere wenn es sich um personenbezogene Daten handelt, die durch eine körperliche Untersuchung, eine molekulargenetische Untersuchung \(§§ 123 und 124\) oder eine Ermittlungsmaßnahme nach dem 4\. bis 6\. Abschnitt des 8\. Hauptstücks ermittelt worden sind, oder eine Übermittlung den Zweck der Ermittlungen gefährden würde\.
 
 > `(5)` Vom Beginn und von der Beendigung eines Strafverfahrens gegen Beamte ist die Dienstbehörde zu verständigen\.
 
 > `(6)` Kriminalpolizei, Staatsanwaltschaften und Gerichte sind berechtigt, nach diesem Gesetz ermittelte personenbezogene Daten, die zulässig in einem Strafverfahren Verwendung finden können,
-> 
+>
 >> `1.` zum Zweck der Vorbeugung einer mit beträchtlicher Strafe bedrohten Handlung \(§ 17 SPG\) gegen Leben, Gesundheit, Freiheit oder Sittlichkeit an die Teilnehmer einer sicherheitspolizeilichen Fallkonferenz \(§ 22 Abs\. 2 SPG\);
-> 
+>
 >> `2.` zum Zweck des vorbeugenden Schutzes vor verfassungsgefährdenden Angriffen \(§ 6 Abs\. 2 Staatsschutz\- und Nachrichtendienst\-Gesetz – SNG, BGBl\. I Nr\. 5/2016\) an die Teilnehmer einer Fallkonferenz Staatsschutz \(§ 6a Abs\. 1 SNG\)
-> 
+>
 > &nbsp; zu übermitteln\. Dies hat jedenfalls dann zu unterbleiben, wenn im Einzelfall schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 DSG\) die mit der Übermittlung verfolgten Zwecke überwiegen\.
 
 ### § 77 StPO — Akteneinsicht
@@ -2033,16 +2033,16 @@ Vertreter stehen Haftungsbeteiligten, Opfern, Privatbeteiligten, Privatankläger
 > `(1)` Wird einer Behörde oder öffentlichen Dienststelle der Verdacht einer Straftat bekannt, die ihren gesetzmäßigen Wirkungsbereich betrifft, so ist sie zur Anzeige an Kriminalpolizei oder Staatsanwaltschaft verpflichtet\.
 
 > `(2)` Eine Pflicht zur Anzeige nach Abs\. 1 besteht nicht,
-> 
+>
 >> `1.` wenn die Anzeige eine amtliche Tätigkeit beeinträchtigen würde, deren Wirksamkeit eines persönlichen Vertrauensverhältnisses bedarf, oder
-> 
+>
 >> `2.` wenn und solange hinreichende Gründe für die Annahme vorliegen, die Strafbarkeit der Tat werde binnen kurzem durch schadensbereinigende Maßnahmen entfallen\.
 
 > `(3)` Die Behörde oder öffentliche Dienststelle hat jedenfalls alles zu unternehmen, was zum Schutz des Opfers oder anderer Personen vor Gefährdung notwendig ist; erforderlichenfalls ist auch in den Fällen des Abs\. 2 Anzeige zu erstatten\.
 
 ### § 79 StPO
 
-Soweit eine gesetzliche Anzeigepflicht besteht, sind der Kriminalpolizei, den Staatsanwaltschaften und den Gerichten zur Aufklärung einer Straftat einer bestimmten Person von Amts wegen oder auf Grund von Ersuchen Ablichtungen der Akten und sonstigen schriftlichen Aufzeichnungen zu übermitteln oder Akteneinsicht zu gewähren\. Eine Berufung auf bestehende gesetzliche Verschwiegenheitspflichten ist insoweit unzulässig\.
+> Soweit eine gesetzliche Anzeigepflicht besteht, sind der Kriminalpolizei, den Staatsanwaltschaften und den Gerichten zur Aufklärung einer Straftat einer bestimmten Person von Amts wegen oder auf Grund von Ersuchen Ablichtungen der Akten und sonstigen schriftlichen Aufzeichnungen zu übermitteln oder Akteneinsicht zu gewähren\. Eine Berufung auf bestehende gesetzliche Verschwiegenheitspflichten ist insoweit unzulässig\.
 
 ### § 80 StPO — Anzeige- und Anhalterecht
 
@@ -2085,15 +2085,15 @@ Soweit eine gesetzliche Anzeigepflicht besteht, sind der Kriminalpolizei, den St
 ### § 84 StPO — Fristen
 
 > `(1)` Soweit im Einzelnen nichts anderes bestimmt wird, gilt für die Berechnung der in diesem Gesetz normierten Fristen Folgendes:
-> 
+>
 >> `1.` Fristen können nicht verlängert werden,
-> 
+>
 >> `2.` Tage des Postlaufs sind in die Frist nicht einzurechnen,
-> 
+>
 >> `3.` der Tag, von dem ab die Frist zu laufen hat, zählt nicht,
-> 
+>
 >> `4.` nach Stunden bestimmte Fristen sind von Moment zu Moment zu berechnen,
-> 
+>
 >> `5.` Samstage, Sonntage, gesetzliche Feiertage und der Karfreitag sind ohne Einfluss auf Beginn und Lauf einer Frist; endet eine Frist an einem solchen Tag, so gilt der nächste Werktag als letzter Tag der Frist\.
 
 > `(2)` Soweit im Einzelnen nichts anderes bestimmt wird, können Rechtsmittel, Rechtsbehelfe und alle sonstigen Eingaben an die Kriminalpolizei, die Staatsanwaltschaft oder das Gericht schriftlich, per Telefax oder im elektronischen Rechtsverkehr \(§ 89a GOG\) eingebracht werden\. Sofern sie an eine Frist gebunden sind, sind sie auch dann rechtzeitig, wenn sie innerhalb dieser Frist bei der Behörde eingebracht werden, die darüber zu entscheiden hat\. Die näheren Vorschriften über die geschäftliche Behandlung solcher Eingaben werden durch Verordnung geregelt\.
@@ -2104,7 +2104,7 @@ Soweit eine gesetzliche Anzeigepflicht besteht, sind der Kriminalpolizei, den St
 
 ### § 85 StPO — Allgemeines
 
-Soweit im Einzelnen nicht etwas anderes bestimmt wird, gelten für Erledigungen von Anträgen gemäß § 101 Abs\. 2, gerichtliche Beschlüsse \(§ 35\) und dagegen erhobene Beschwerden sowie das dabei einzuhaltende Verfahren die Bestimmungen dieses Abschnitts\.
+> Soweit im Einzelnen nicht etwas anderes bestimmt wird, gelten für Erledigungen von Anträgen gemäß § 101 Abs\. 2, gerichtliche Beschlüsse \(§ 35\) und dagegen erhobene Beschwerden sowie das dabei einzuhaltende Verfahren die Bestimmungen dieses Abschnitts\.
 
 ### § 86 StPO — Beschlüsse
 
@@ -2139,13 +2139,13 @@ Soweit im Einzelnen nicht etwas anderes bestimmt wird, gelten für Erledigungen 
 > `(2)` Beschwerden, die verspätet oder von einer Person eingebracht wurden, der ein Rechtsmittel nicht zusteht \(§ 87 Abs\. 1\), hat das Rechtsmittelgericht als unzulässig zurückzuweisen\.
 
 > `(2a)` Das Rechtsmittelgericht kann den Beschluss aufheben und an das Erstgericht zur neuen Entscheidung nach Verfahrensergänzung unter sinngemäßer Anwendung des § 293 Abs\. 2 verweisen, wenn
-> 
+>
 >> `1.` das Erstgericht örtlich oder sachlich unzuständig oder nicht gehörig besetzt war oder wenn ein gesetzlich ausgeschlossener Richter \(§§ 43 und 46\) den Beschluss gefasst hat,
-> 
+>
 >> `2.` das Erstgericht zu Unrecht seine Unzuständigkeit ausgesprochen hat,
-> 
+>
 >> `3.` das Erstgericht die Anträge nicht erledigt oder zur Entscheidung in der Sache erforderliche Beweisaufnahmen unterlassen hat oder einer der im § 281 Abs\. 1 Z 5 oder 5a angeführten Gründe vorliegt, oder
-> 
+>
 >> `4.` rechtliches Gehör \(§ 6\) nicht gewährt werden kann, weil der Gegenstand der Beschwerde auf die Bewilligung einer Anordnung gerichtet ist, deren Erfolg voraussetzt, dass sie dem Gegner der Beschwerde vor ihrer Durchführung nicht bekannt wird\.
 
 > `(2b)` Bei Beschwerden gegen die Bewilligung der Festnahme und gegen die Verhängung oder Fortsetzung der Untersuchungshaft hat das Rechtsmittelgericht stets in der Sache zu entscheiden und dabei gegebenenfalls auch Umstände zu berücksichtigen, die nach dem bekämpften Beschluss eingetreten oder bekannt geworden sind\. Gleiches gilt, wenn es keinen Anlass findet, nach Abs\. 2a vorzugehen\. An die geltend gemachten Beschwerdepunkte ist das Rechtsmittelgericht nicht gebunden, zum Nachteil des Beschuldigten darf es jedoch niemals Beschlüsse ändern, gegen die nicht Beschwerde erhoben wurde\.
@@ -2214,7 +2214,7 @@ Soweit im Einzelnen nicht etwas anderes bestimmt wird, gelten für Erledigungen 
 
 ### § 94 StPO — Ordnungsstrafen
 
-Für die Aufrechterhaltung der Ordnung und für die Wahrung des Anstandes hat der Leiter der jeweiligen Amtshandlung zu sorgen\. Er ist zu diesem Zweck berechtigt, jede Person, die sich trotz vorausgegangener Ermahnung und Androhung ihrer Wegweisung seinen Anordnungen widersetzt, gegenüber anwesenden Personen aggressiv oder sonst grob ungebührlich verhält oder auf andere Weise die Amtshandlung behindert, auf einige Zeit oder für die gesamte Dauer der Amtshandlung aus dieser wegzuweisen oder zu entfernen\. Im Übrigen sind die §§ 233 Abs\. 3 und 235 bis 236a im Ermittlungsverfahren sinngemäß anzuwenden\. Über die Verhängung der dort erwähnten Ordnungsstrafen \(§ 235, § 236 Abs\. 1\) und die Aufforderung, einen anderen Vertreter zu bestellen \(§ 236 Abs\. 2, § 236a\), entscheidet das Gericht mit Beschluss\.
+> Für die Aufrechterhaltung der Ordnung und für die Wahrung des Anstandes hat der Leiter der jeweiligen Amtshandlung zu sorgen\. Er ist zu diesem Zweck berechtigt, jede Person, die sich trotz vorausgegangener Ermahnung und Androhung ihrer Wegweisung seinen Anordnungen widersetzt, gegenüber anwesenden Personen aggressiv oder sonst grob ungebührlich verhält oder auf andere Weise die Amtshandlung behindert, auf einige Zeit oder für die gesamte Dauer der Amtshandlung aus dieser wegzuweisen oder zu entfernen\. Im Übrigen sind die §§ 233 Abs\. 3 und 235 bis 236a im Ermittlungsverfahren sinngemäß anzuwenden\. Über die Verhängung der dort erwähnten Ordnungsstrafen \(§ 235, § 236 Abs\. 1\) und die Aufforderung, einen anderen Vertreter zu bestellen \(§ 236 Abs\. 2, § 236a\), entscheidet das Gericht mit Beschluss\.
 
 ## 3. Abschnitt
 
@@ -2222,22 +2222,22 @@ Für die Aufrechterhaltung der Ordnung und für die Wahrung des Anstandes hat de
 
 ### § 95 StPO — Amtsvermerk
 
-Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich festzuhalten, dass ihr wesentlicher Inhalt nachvollzogen werden kann\. Ein solcher Amtsvermerk ist jedenfalls vom aufnehmenden Organ und allenfalls von anderen Personen zu unterfertigen\.
+> Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich festzuhalten, dass ihr wesentlicher Inhalt nachvollzogen werden kann\. Ein solcher Amtsvermerk ist jedenfalls vom aufnehmenden Organ und allenfalls von anderen Personen zu unterfertigen\.
 
 ### § 96 StPO — Protokoll
 
 > `(1)` Die Aufnahme von Beweisen ist in einem Protokoll zu dokumentieren, welches insbesondere zu enthalten hat:
-> 
+>
 >> `1.` die Bezeichnung der Behörde und der an der Amtshandlung beteiligten Personen,
-> 
+>
 >> `2.` Ort, Zeit und Gegenstand der Amtshandlung,
-> 
+>
 >> `3.` den Inhalt von Aussagen,
-> 
+>
 >> `4.` andere wesentliche Vorgänge während der Amtshandlung,
-> 
+>
 >> `5.` allenfalls gestellte Anträge,
-> 
+>
 >> `6.` die Unterschriften der vernommenen Personen\. Wird eine Unterschrift verweigert oder unterbleibt sie aus anderen Gründen, so sind die hiefür maßgebenden Umstände im Protokoll zu vermerken\.
 
 > `(2)` Das Protokoll ist vom Leiter der Amtshandlung oder von einer anderen geeigneten Person als Schriftführer zu erstellen\. Es ist in Vollschrift abzufassen\. Sofern es diktiert wird, hat dies für die Anwesenden hörbar zu geschehen\. Es ist aber zulässig, vorläufig Kurzschrift zu verwenden oder das Diktat mit einem technischen Hilfsmittel aufzunehmen\. Eine solche Vorgangsweise und ein allenfalls verkündeter Beschluss sind jedenfalls sogleich in Vollschrift festzuhalten\. Kurzschrift und Tonaufnahme sind unverzüglich in Vollschrift zu übertragen, die Tonaufnahme ist überdies zuvor wiederzugeben, sofern dies einer der Beteiligten verlangt\.
@@ -2281,9 +2281,9 @@ Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich 
 > `(3)` Erfordert die Anordnung jedoch eine gerichtliche Bewilligung, so ist die Ermittlungsmaßnahme bei Gefahr im Verzug ohne diese Bewilligung nur dann zulässig, wenn das Gesetz dies ausdrücklich vorsieht\.
 
 > `(4)` Ein Aufschub kriminalpolizeilicher Ermittlungen ist zulässig, wenn
-> 
+>
 >> `1.` dadurch die Aufklärung einer wesentlich schwerer wiegenden Straftat oder die Ausforschung eines an der Begehung der strafbaren Handlung führend Beteiligten gefördert wird und mit dem Aufschub keine ernste Gefahr für Leben, Gesundheit, körperliche Unversehrtheit oder Freiheit Dritter verbunden ist, oder
-> 
+>
 >> `2.` andernfalls eine ernste Gefahr für Leben, Gesundheit, körperliche Unversehrtheit oder Freiheit einer Person entstehen würde, die auf andere Weise nicht abgewendet werden kann\.
 
 > `(5)` Die Kriminalpolizei hat die Staatsanwaltschaft von einem Aufschub nach Abs\. 4 unverzüglich zu verständigen\. Im Fall einer kontrollierten Lieferung, das ist der Transport von Gegenständen aus dem, in das oder durch das Bundesgebiet, ohne dass die Staatsanwaltschaft verpflichtet wäre, nach § 2 Abs\. 1 vorzugehen, gelten die Bestimmungen der §§ 71 und 72 des Bundesgesetzes über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union \(EU\-JZG\) sinngemäß\.
@@ -2293,23 +2293,23 @@ Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich 
 > `(1)` Die Kriminalpolizei hat Ermittlungen aktenmäßig festzuhalten, sodass Anlass, Durchführung und Ergebnis dieser Ermittlungen nachvollzogen werden können\. Die Ausübung von Zwang und von Befugnissen, die mit einem Eingriff in Rechte verbunden sind, hat sie zu begründen\.
 
 > `(2)` Die Kriminalpolizei hat der Staatsanwaltschaft schriftlich \(Abs\. 1\) oder im Wege automationsunterstützter Datenverarbeitung zu berichten, wenn und sobald
-> 
+>
 >> `1.` sie vom Anfangsverdacht eines schwer wiegenden Verbrechens, insbesondere eines Verbrechens nach den §§ 278b bis 278e und 278g StGB, oder einer sonstigen Straftat von besonderem öffentlichen Interesse \(§ 101 Abs\. 2 zweiter Satz\) Kenntnis erlangt \(Anfallsbericht\),
-> 
+>
 >> `2.` eine Anordnung oder Genehmigung der Staatsanwaltschaft oder eine Entscheidung des Gerichts erforderlich oder zweckmäßig ist oder die Staatsanwaltschaft einen Bericht verlangt \(Anlassbericht\),
-> 
+>
 >> `3.` in einem Verfahren gegen eine bestimmte Person seit der ersten gegen sie gerichteten Ermittlung drei Monate abgelaufen sind, ohne dass berichtet worden ist, oder seit dem letzten Bericht drei Monate vergangen sind \(Zwischenbericht\),
-> 
+>
 >> `4.` Sachverhalt und Tatverdacht soweit geklärt scheinen, dass eine Entscheidung der Staatsanwaltschaft über Anklage, Rücktritt von Verfolgung, Einstellen oder Abbrechen des Verfahrens ergehen kann \(Abschlussbericht\)\.
 
 > `(3)` Ein Bericht nach Abs\. 2 hat – soweit diese Umstände nicht bereits berichtet wurden – insbesondere zu enthalten:
-> 
+>
 >> `1.` die Namen der Beschuldigten, oder, soweit diese nicht bekannt sind, die zu ihrer Identifizierung oder Ausforschung nötigen Merkmale, die Taten, deren sie verdächtig sind, und deren gesetzliche Bezeichnung,
-> 
+>
 >> `2.` die Namen der Anzeiger, der Opfer und allfälliger weiterer Auskunftspersonen,
-> 
+>
 >> `3.` eine zusammenfassende Sachverhaltsdarstellung und das geplante weitere Vorgehen, soweit dieses nicht bereits erörtert oder einer Dienstbesprechung vorbehalten wurde,
-> 
+>
 >> `4.` allfällige Anträge der Beschuldigten oder anderer Verfahrensbeteiligter\.
 
 > `(3a)` Die Kriminalpolizei hat der Staatsanwaltschaft auch zu berichten, wenn aus ihrer Sicht kein Anfangsverdacht vorliegt, oder sie Zweifel hat, ob ein Anfangsverdacht vorliegt, zu dessen Aufklärung sie berechtigt und verpflichtet wäre, Ermittlungen zu führen\. Dieser Bericht hat ohne unnötigen Aufschub, längstens drei Wochen nach Durchführung der ersten Erkundigung \(§ 91 Abs\. 3\) zu erfolgen\.
@@ -2341,13 +2341,13 @@ Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich 
 > `(1)` Die Staatsanwaltschaft hat ihre Anordnungen und Genehmigungen an die Kriminalpolizei gemäß deren Zuständigkeit zu richten\. Die Anordnung von Zwangsmaßnahmen hat sie zu begründen und schriftlich auszufertigen\. In dringenden Fällen können aber auch solche Anordnungen und Genehmigungen vorläufig mündlich übermittelt werden\. Anstelle einer schriftlichen Ausfertigung ist auch die Bekanntmachung auf elektronischem Weg oder sonst unter Verwendung automationsunterstützter Datenverarbeitung zulässig\.
 
 > `(2)` Eine Ausfertigung hat jedenfalls zu enthalten:
-> 
+>
 >> `1.` die Bezeichnung der Staatsanwaltschaft,
-> 
+>
 >> `2.` die Bezeichnung des Verfahrens, den Namen des Beschuldigten, soweit er bekannt ist, die Tat, deren der Beschuldigte verdächtig ist und ihre gesetzliche Bezeichnung,
-> 
+>
 >> `3.` die Tatsachen, aus denen sich ergibt, dass die Anordnung oder Genehmigung zur Aufklärung der Straftat erforderlich und verhältnismäßig ist und die jeweiligen gesetzlichen Voraussetzungen vorliegen,
-> 
+>
 >> `4.` eine Information über die Rechte des von der Anordnung oder Genehmigung Betroffenen\.
 
 > `(3)` Im Fall einer im Rahmen der Rufbereitschaft bzw\. des Journaldienstes \(§§ 38, 39 GOG\) erteilten gerichtlichen Bewilligung \(§ 105 Abs\. 1\) hat die Anordnung der Staatsanwaltschaft an die Kriminalpolizei bis zum Ablauf des zweiten folgenden Werktages zu erfolgen, widrigenfalls die Bewilligung außer Kraft tritt\.
@@ -2379,11 +2379,11 @@ Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich 
 ### § 106 StPO — Einspruch wegen Rechtsverletzung
 
 > `(1)` Einspruch an das Gericht steht jeder Person zu, die behauptet, im Ermittlungsverfahren durch Staatsanwaltschaft in einem subjektiven Recht verletzt zu sein, weil
-> 
+>
 >> `1.` ihr die Ausübung eines Rechtes nach diesem Gesetz verweigert oder
-> 
+>
 >> `2.` eine Ermittlungs\- oder Zwangsmaßnahme unter Verletzung von Bestimmungen dieses Gesetzes angeordnet oder durchgeführt wurde\.
-> 
+>
 > &nbsp; Im Fall des Todes der zum Einspruch berechtigten Person kommt dieses Recht den in § 65 Z 1 lit\. b erwähnten Angehörigen zu\. Eine Verletzung eines subjektiven Rechts liegt nicht vor, soweit das Gesetz von einer bindenden Regelung des Verhaltens von Staatsanwaltschaft oder Kriminalpolizei absieht und von diesem Ermessen im Sinne des Gesetzes Gebrauch gemacht wurde\.
 
 > `(2)` Soweit gegen die Bewilligung einer Ermittlungsmaßnahme Beschwerde erhoben wird, ist ein Einspruch gegen deren Anordnung oder Durchführung mit der Beschwerde zu verbinden\. In einem solchen Fall entscheidet das Beschwerdegericht auch über den Einspruch\.
@@ -2409,9 +2409,9 @@ Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich 
 > `(1)` Die Dauer des Ermittlungsverfahrens darf bis zur Beendigung des Ermittlungsverfahrens nach dem 3\. Teil dieses Bundesgesetzes oder bis zur Einbringung der Anklage \(§ 210\) grundsätzlich zwei Jahre nicht übersteigen\.
 
 > `(2)` Das Gericht hat das Ermittlungsverfahren auf Antrag des Beschuldigten einzustellen, wenn
-> 
+>
 >> `1.` auf Grund der Anzeige oder der vorliegenden Ermittlungsergebnisse feststeht, dass die dem Ermittlungsverfahren zu Grunde liegende Tat nicht mit gerichtlicher Strafe bedroht oder die weitere Verfolgung des Beschuldigten sonst aus rechtlichen Gründen unzulässig ist, oder
-> 
+>
 >> `2.` der bestehende Tatverdacht nach Dringlichkeit und Gewicht sowie im Hinblick auf die bisherige Dauer und den Umfang des Ermittlungsverfahrens dessen Fortsetzung nicht rechtfertigt und von einer weiteren Klärung des Sachverhalts eine Intensivierung des Verdachts nicht zu erwarten ist\.
 
 > `(3)` Der Antrag ist bei der Staatsanwaltschaft einzubringen und kann sich auch auf die Einstellung wegen einzelner Straftaten beziehen\. Die Staatsanwaltschaft hat das Verfahren einzustellen \(§§ 190 bis 192\) oder den Antrag längstens binnen vier Wochen mit einer allfälligen Stellungnahme an das Gericht weiterzuleiten\. Wurde der Antrag innerhalb des ersten Monats ab Beginn des Strafverfahrens eingebracht, beträgt diese Frist sechs Wochen\. Sie kann den Antrag auch teils auf die eine, teils auf die andere Art erledigen\. Wird im Fall eines Antrags nach Abs\. 2 Z 2 eine Verletzung des Beschleunigungsgebots \(§ 9\) behauptet, so hat die Staatsanwaltschaft zu den Gründen für die Dauer des Ermittlungsverfahrens Stellung zu nehmen\. Im Fall der Überschreitung der Höchstdauer des Ermittlungsverfahrens hat die Staatsanwaltschaft jedenfalls zu den Gründen für die Dauer des Ermittlungsverfahrens und dazu Stellung zu nehmen, warum ihr eine Einhaltung der Höchstdauer des Ermittlungsverfahrens nicht möglich war\. § 106 Abs\. 5 letzter Satz gilt sinngemäß\.
@@ -2434,30 +2434,30 @@ Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich 
 
 ### § 109 StPO — Definitionen
 
-Im Sinne dieses Gesetzes ist
+> Im Sinne dieses Gesetzes ist
 
 > `1.` „Sicherstellung“
-> 
+>
 >> `a.` die vorläufige Begründung der Verfügungsmacht über Gegenstände, Vermögenswerte und Daten und
-> 
+>
 >> `b.` das vorläufige Verbot der Herausgabe von Gegenständen oder anderen Vermögenswerten an Dritte \(Drittverbot\) und das vorläufige Verbot der Veräußerung oder Verpfändung solcher Gegenstände und Vermögenswerte,
 
 > `1a.` „Vermögenswerte“ Vermögenswerte jeder Art, ob körperlich oder unkörperlich, beweglich oder unbeweglich, einschließlich Vermögensrechte und Kryptowerte sowie Urkunden in jeder Form, die ein Recht auf solche Vermögenswerte oder Rechte daran belegen,
 
 > `2.` „Beschlagnahme“
-> 
+>
 >> `a.` eine gerichtliche Entscheidung auf Begründung oder Fortsetzung einer Sicherstellung nach Z 1 und
-> 
+>
 >> `b.` das gerichtliche Verbot der Veräußerung, Belastung oder Verpfändung von Liegenschaften oder Rechten, die in einem öffentlichen Buch eingetragen sind,
 
 > `2a.` „Beschlagnahme von Datenträgern und Daten“ eine gerichtliche Entscheidung auf Begründung einer Sicherstellung von
-> 
+>
 >> `a.` Datenträgern und darauf gespeicherten Daten,
-> 
+>
 >> `b.` Daten, die an anderen Speicherorten als einem Datenträger gespeichert sind, soweit auf sie von diesem aus zugegriffen werden kann, oder
-> 
+>
 >> `c.` Daten, die auf Datenträgern oder an anderen Speicherorten gespeichert sind \(lit\. a und b\), die zuvor nach Z 1 lit\. a sichergestellt wurden,
-> 
+>
 > &nbsp; zum Zweck der Auswertung von Daten,
 
 > `2b.` „Aufbereitung von Daten“ eine aus Beweisgründen erfolgende technische Aufbereitung, einschließlich der Wiederherstellung von Daten, und deren Einschränkung auf den der gerichtlichen Entscheidung nach Z 2a in Bezug auf die Datenkategorien und den Zeitraum entsprechenden Umfang,
@@ -2475,33 +2475,33 @@ Im Sinne dieses Gesetzes ist
 ### § 110 StPO — Sicherstellung
 
 > `(1)` Sicherstellung ist zulässig, wenn sie
-> 
+>
 >> `1.` aus Beweisgründen, hinsichtlich Daten jedoch nur soweit, als es sich um punktuelle Daten oder Daten, die mittels Bild\- und Tonaufzeichnungsgeräten an öffentlichen oder öffentlich zugänglichen Orten aufgenommen wurden, handelt,
-> 
+>
 >> `2.` zur Sicherung privatrechtlicher Ansprüche oder
-> 
+>
 >> `3.` zur Sicherung der Konfiskation \(§ 19a StGB\), des Verfalls \(§ 20 StGB\), des erweiterten Verfalls \(§ 20b StGB\), der Einziehung \(§ 26 StGB\) oder einer anderen gesetzlich vorgesehenen vermögensrechtlichen Anordnung
-> 
+>
 > &nbsp; erforderlich scheint\.
 
 > `(2)` Sicherstellung ist von der Staatsanwaltschaft anzuordnen und von der Kriminalpolizei durchzuführen\.
 
 > `(3)` Die Kriminalpolizei ist berechtigt, Gegenstände und Vermögenswerte \(§ 109 Z 1 lit\. a\) von sich aus sicherzustellen,
-> 
+>
 >> `1.` wenn sie
->> 
+>>
 >>> `a.` in niemandes Verfügungsmacht stehen,
->> 
+>>
 >>> `b.` dem Opfer durch die Straftat entzogen wurden,
->> 
+>>
 >>> `c.` am Tatort aufgefunden wurden und zur Begehung der strafbaren Handlung verwendet oder dazu bestimmt worden sein könnten, oder
->> 
+>>
 >>> `d.` geringwertig oder vorübergehend leicht ersetzbar sind,
-> 
+>
 >> `2.` wenn ihr Besitz allgemein verboten ist \(§ 445a Abs\. 1\),
-> 
+>
 >> `3.` die im Rahmen einer Durchsuchung nach § 120 Abs\. 2 aufgefunden werden oder mit denen eine Person, die aus dem Grunde des § 170 Abs\. 1 Z 1 festgenommen wird, betreten wurde oder die im Rahmen ihrer Durchsuchung gemäß § 120 Abs\. 1 zweiter Satz aufgefunden werden, oder
-> 
+>
 >> `4.` in den Fällen des Artikels 18 der Verordnung \(EU\) Nr\. 608/2013 zur Durchsetzung der Rechte geistigen Eigentums durch die Zollbehörden und zur Aufhebung der Verordnung \(EG\) Nr\. 1383/2003 des Rates, ABl\. Nr\. L 181 vom 29\.06\.2013 S\. 15\.
 
 > `(3a)` Die Kriminalpolizei ist berechtigt, punktuelle Daten \(§111 Abs\. 2\) von sich aus sicherzustellen\.
@@ -2529,17 +2529,17 @@ Im Sinne dieses Gesetzes ist
 ### § 112a StPO
 
 > `(1)` Widerspricht eine von einer Sicherstellung betroffene Behörde oder öffentliche Dienststelle der Sicherstellung von schriftlichen Aufzeichnungen oder Daten \(§ 111 Abs\. 2\) unter Berufung darauf, dass diese
-> 
+>
 >> `1.` Informationen enthalten, die aufgrund gesetzlicher Vorschriften oder der gemäß § 12 Bundesministeriengesetz 1986, BGBl\. Nr\. 76/1986, ergangenen Geheimschutzordnung des Bundes – GehSO klassifizierte nachrichtendienstliche Informationen sind, deren Geheimhaltung das Interesse an der Strafverfolgung im Einzelfall überwiegt, oder
-> 
+>
 >> `2.` von ausländischen Sicherheitsbehörden oder Sicherheitsorganisationen \(§ 2 Abs\. 2 Polizeikooperationsgesetz – PolKG, BGBl\. I Nr\. 104/1997\) klassifiziert übermittelte Informationen enthalten und nur mit deren vorheriger Zustimmung zu anderen als den der Übermittlung zugrundeliegenden Zwecken verarbeitet werden dürfen,
-> 
+>
 > &nbsp; so sind diese Unterlagen auf geeignete Art und Weise gegen unbefugte Einsichtnahme oder Veränderung zu sichern und bei Gericht zu hinterlegen\. Die Unterlagen dürfen von Staatsanwaltschaft oder Kriminalpolizei nicht eingesehen werden, solange nicht über die Einsicht nach den folgenden Absätzen entschieden worden ist\.
 
 > `(2)` Die Behörde oder öffentliche Dienststelle \(Abs\. 1\) ist aufzufordern, binnen einer angemessenen, 14 Tage nicht unterschreitenden Frist jene Teile der Unterlagen konkret zu bezeichnen, deren Offenlegung einer der in Abs\. 1 genannten Gründe entgegenstehen würde; zu diesem Zweck ist sie berechtigt, in die hinterlegten Unterlagen Einsicht zu nehmen\. Überdies hat sie binnen der gesetzten Frist im Falle eines Widerspruchs aus dem Grund des
-> 
+>
 >> `1.` Abs\. 1 Z 1 das überwiegende Interesse an der Geheimhaltung im Einzelnen anzuführen und zu begründen,
-> 
+>
 >> `2.` Abs\. 1 Z 2 mitzuteilen, ob die ausländische Sicherheitsbehörde oder Sicherheitsorganisation der Verarbeitung für die in der Anordnung der Sicherstellung genannten Zwecke zugestimmt hat\.
 
 > `(3)` Unterlässt die Behörde oder öffentliche Dienststelle eine solche Bezeichnung, so sind die Unterlagen zum Akt zu nehmen und auszuwerten\. Anderenfalls hat das Gericht die Unterlagen unter Beiziehung der Behörde oder öffentlichen Dienststelle sowie gegebenenfalls geeigneter Hilfskräfte oder eines Sachverständigen zu sichten und anzuordnen, ob und in welchem Umfang sie zum Akt genommen werden dürfen\. Unterlagen, die nicht zum Akt genommen werden, sind der Behörde oder öffentlichen Dienststelle auszufolgen\. Aus deren Sichtung gewonnene Erkenntnisse dürfen bei sonstiger Nichtigkeit nicht für weitere Ermittlungen oder als Beweis verwendet werden\.
@@ -2549,11 +2549,11 @@ Im Sinne dieses Gesetzes ist
 ### § 113 StPO
 
 > `(1)` Die Sicherstellung endet,
-> 
+>
 >> `1.` wenn die Kriminalpolizei sie aufhebt \(Abs\. 2\),
-> 
+>
 >> `2.` wenn die Staatsanwaltschaft die Aufhebung anordnet \(Abs\. 3\),
-> 
+>
 >> `3.` wenn das Gericht die Beschlagnahme anordnet\.
 
 > `(2)` Die Kriminalpolizei hat der Staatsanwaltschaft über jede Sicherstellung unverzüglich, längstens jedoch binnen 14 Tagen zu berichten \(§ 100 Abs\. 2 Z 2\), soweit sie eine Sicherstellung nach § 110 Abs\. 3 nicht zuvor wegen Fehlens oder Wegfalls der Voraussetzungen aufhebt\. Dieser Bericht kann jedoch mit dem nächstfolgenden verbunden werden, wenn dadurch keine wesentlichen Interessen des Verfahrens oder von Personen beeinträchtigt werden und die sichergestellten Gegenstände und Vermögenswerte geringwertig sind, sich in niemandes Verfügungsmacht befinden oder ihr Besitz allgemein verboten ist \(§ 445a Abs\. 1\)\. Im Fall des § 110 Abs\. 3 Z 4 hat die Kriminalpolizei nach den Bestimmungen der §§ 3, 4 und 6 des Produktpirateriegesetzes 2004, BGBl\. I Nr\. 56/2004, vorzugehen\.
@@ -2573,11 +2573,11 @@ Im Sinne dieses Gesetzes ist
 ### § 115 StPO — Beschlagnahme
 
 > `(1)` Beschlagnahme ist zulässig, wenn die sichergestellten Gegenstände und Vermögenswerte voraussichtlich
-> 
+>
 >> `1.` im weiteren Verfahren als Beweismittel erforderlich sein werden,
-> 
+>
 >> `2.` privatrechtlichen Ansprüchen unterliegen oder
-> 
+>
 >> `3.` dazu dienen werden, eine gerichtliche Entscheidung auf Konfiskation \(§ 19a StGB\), auf Verfall \(§ 20 StGB\), auf erweiterten Verfall \(§ 20b StGB\), auf Einziehung \(§ 26 StGB\) oder eine andere gesetzlich vorgesehene vermögensrechtliche Anordnung zu sichern\.
 
 > `(2)` Über die Beschlagnahme hat das Gericht auf Antrag der Staatsanwaltschaft oder einer von der Sicherstellung betroffenen Person unverzüglich zu entscheiden\.
@@ -2593,15 +2593,15 @@ Im Sinne dieses Gesetzes ist
 ### § 115a StPO — Verwertung sichergestellter oder beschlagnahmter Vermögenswerte
 
 > `(1)` Vermögenswerte, die gemäß § 110 Abs\. 1 Z 3 sichergestellt wurden oder deren Beschlagnahme gemäß § 115 Abs\. 1 Z 3 zulässig ist, sind einzuziehen oder zu veräußern \(Verwertung\), wenn
-> 
+>
 >> `1.` über den Verfall oder den erweiterten Verfall nicht in einem Strafurteil \(§§ 443 bis 444a\) oder in einem selbstständigen Verfahren \(§§ 445 bis 446\) entschieden werden kann, weil der Beschuldigte oder ein Haftungsbeteiligter nicht ausgeforscht werden oder nicht vor Gericht gestellt werden kann und das Verfahren aus diesem Grund gemäß § 197 abzubrechen ist,
-> 
+>
 >> `2.` seit der Sicherstellung oder Beschlagnahme mindestens zwei Jahre vergangen sind und das Edikt über die bevorstehende Verwertung \(§ 115b\) mindestens ein Jahr öffentlich bekannt gemacht war \(§ 115b Abs\. 2\)\.
 
 > `(2)` Die Verwertung ist unzulässig, soweit und solange
-> 
+>
 >> `1.` eine Person, die nicht im Verdacht steht, sich an der strafbaren Handlung beteiligt zu haben, ein Recht auf den Vermögenswert \(Abs\. 1\) glaubhaft gemacht hat, oder
-> 
+>
 >> `2.` der Vermögenswert \(Abs\. 1\) gerichtlich gepfändet ist\.
 
 > `(3)` Über die Verwertung hat das Gericht auf Antrag der Staatsanwaltschaft, gegebenenfalls zugleich mit der Beschlagnahme zu entscheiden\.
@@ -2609,11 +2609,11 @@ Im Sinne dieses Gesetzes ist
 ### § 115b StPO
 
 > `(1)` Eine Verwertung hat das Gericht durch Edikt anzukündigen, das zu enthalten hat:
-> 
+>
 >> `1.` die Bezeichnung des Drittschuldners,
-> 
+>
 >> `2.` eine Beschreibung oder Bezeichnung des Vermögenswerts \(§ 115a Abs\. 1\) nach Art, Umfang und Höhe,
-> 
+>
 >> `3.` die Mitteilung, dass der Vermögenswert \(§ 115a Abs\. 1\) nach Ablauf eines Jahres verwertet werde, sofern nicht bis dahin die Aufhebung der Sicherstellung oder Beschlagnahme beantragt werde\.
 
 > `(2)` Das Edikt ist durch Aufnahme in die Ediktsdatei \(§ 89j GOG\) öffentlich bekannt zu machen\. Eine schriftliche Ausfertigung ist der Staatsanwaltschaft, gegebenenfalls dem von der Anordnung Betroffenen sowie dem Drittschuldner zuzustellen, der zu verpflichten ist, alle Tatsachen, die einer Verwertung entgegenstehen könnten, dem Gericht unverzüglich mitzuteilen\. Dabei entstehende angemessene und ortsübliche Kosten sind zu ersetzen \(§ 111 Abs\. 3\)\.
@@ -2649,13 +2649,13 @@ Im Sinne dieses Gesetzes ist
 > `(3)` Die Anordnung und die gerichtliche Bewilligung der Beschlagnahme von Datenträgern und Daten haben die Bezeichnung des Verfahrens, den Namen des Beschuldigten, soweit dieser bekannt ist, die Tat, deren der Beschuldigte verdächtig ist, und ihre gesetzliche Bezeichnung sowie die Tatsachen, aus denen sich ergibt, dass die Anordnung und Bewilligung zur Aufklärung der Tat voraussichtlich erforderlich und verhältnismäßig sind, anzuführen und über die Rechte des von der Anordnung und Bewilligung Betroffenen zu informieren; darüber hinaus haben sie die Umschreibung der Datenkategorien und Dateninhalte, die zu beschlagnahmen sind, und in Bezug auf welchen Zeitraum dies zu erfolgen hat, zu enthalten\.
 
 > `(4)` Die Kriminalpolizei ist berechtigt, Datenträger und Daten, die einer Beschlagnahme nach Abs\. 1 unterliegen, bei Gefahr im Verzug von sich aus sicherzustellen,
-> 
+>
 >> `1.` wenn andernfalls der Verlust des Datenträgers oder der darauf oder an anderen Speicherorten \(§ 109 Z 2a lit\. a und b\) gespeicherten Daten zu befürchten wäre,
-> 
+>
 >> `2.` in den Fällen der § 110 Abs\. 3 und § 170 Abs\. 1 Z 1, oder
-> 
+>
 >> `3.` wenn zu erwarten ist, dass dadurch der Aufenthalt eines flüchtigen Beschuldigten, der einer vorsätzlich begangenen, mit mehr als einjähriger Freiheitsstrafe bedrohten strafbaren Handlung dringend verdächtig ist, ermittelt werden kann\.
-> 
+>
 > &nbsp; In diesem Fall ist die Kriminalpolizei von sich aus zu einem Zugriff auf und Einsicht in die Daten vorläufig ohne Anordnung und Bewilligung berechtigt, wobei sie die ausgewerteten Daten zu protokollieren hat\.
 
 > `(5)` Eine neuerliche Anordnung und Bewilligung nach Abs\. 3 ist zulässig, soweit auf Grund bestimmter Tatsachen oder Umstände anzunehmen ist, dass ein weiterer Zugriff auf die Originalsicherung \(§ 109 Z 2c\) oder Arbeitskopie \(§ 109 Z 2d\) erforderlich ist und die Voraussetzungen \(Abs\. 1\) vorliegen\.
@@ -2702,7 +2702,7 @@ Im Sinne dieses Gesetzes ist
 
 ### § 115k StPO — Verwahrung von Datenträgern und Daten
 
-Die Originalsicherung und die Arbeitskopie sind auf geeignete Art und Weise gegen unbefugte Einsichtnahme oder Veränderung zu sichern und bis zur rechtskräftigen Beendigung des Strafverfahrens aufzubewahren; auf die Originalsicherung und Arbeitskopie darf außer im Fall des § 115f Abs\. 5 nicht zugegriffen werden; im Übrigen ist eine Einsichtnahme unzulässig\. Für die Verwahrung von Datenträgern, sofern sie nicht zurückgestellt werden können, und des Ergebnisses der Datenaufbereitung \(§ 109 Z 2e\) hat im Fall einer Aufbereitung der Daten durch die Kriminalpolizei bis zur Berichterstattung über die abschließende Auswertung der Daten \(§ 115i\) diese, danach die Staatsanwaltschaft zu sorgen\.
+> Die Originalsicherung und die Arbeitskopie sind auf geeignete Art und Weise gegen unbefugte Einsichtnahme oder Veränderung zu sichern und bis zur rechtskräftigen Beendigung des Strafverfahrens aufzubewahren; auf die Originalsicherung und Arbeitskopie darf außer im Fall des § 115f Abs\. 5 nicht zugegriffen werden; im Übrigen ist eine Einsichtnahme unzulässig\. Für die Verwahrung von Datenträgern, sofern sie nicht zurückgestellt werden können, und des Ergebnisses der Datenaufbereitung \(§ 109 Z 2e\) hat im Fall einer Aufbereitung der Daten durch die Kriminalpolizei bis zur Berichterstattung über die abschließende Auswertung der Daten \(§ 115i\) diese, danach die Staatsanwaltschaft zu sorgen\.
 
 ### § 115l StPO — Rechtsschutz
 
@@ -2723,25 +2723,25 @@ Die Originalsicherung und die Arbeitskopie sind auf geeignete Art und Weise gege
 > `(1)` Auskunft aus dem Kontenregister und Auskunft über Bankkonten und Bankgeschäfte sind zulässig, wenn sie zur Aufklärung einer vorsätzlich begangenen Straftat oder eines Vergehens, das in die Zuständigkeit des Landesgerichts fällt \(§ 31 Abs\. 2 bis 4\) oder zur Aufklärung der Voraussetzungen einer Anordnung auf Auskunft nach Abs\. 2 Z 2 in Verfahren wegen einer vorsätzlich begangenen Straftat, für die im Hauptverfahren das Landesgericht zuständig wäre \(§ 31 Abs\. 2 bis 4\), erforderlich erscheinen\.
 
 > `(2)` Auskunft über Bankkonten und Bankgeschäfte ist darüber hinaus nur zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist,
-> 
+>
 >> `1.` dass dadurch Gegenstände, Urkunden oder andere Unterlagen über eine Geschäftsverbindung oder damit im Zusammenhang stehende Transaktionen sichergestellt werden können, soweit dies für die Aufklärung der Straftat erforderlich ist,
-> 
+>
 >> `2.` dass Gegenstände oder andere Vermögenswerte zur Sicherung der Konfiskation \(§ 19a StGB\), des Verfalls \(§ 20 StGB\), des erweiterten Verfalls \(§ 20b StGB\), der Einziehung \(§ 26 StGB\) oder einer anderen gesetzlich vorgesehenen vermögensrechtlichen Anordnung gemäß § 109 Z 1 lit\. b sichergestellt werden können, oder
-> 
+>
 >> `3.` dass eine mit der Straftat im Zusammenhang stehende Transaktion über die Geschäftsverbindung abgewickelt werde\.
 
 > `(3)` Auskunft aus dem Kontenregister ist von der Staatsanwaltschaft anzuordnen \(§ 102 Abs\. 2\)\.
 
 > `(4)` Auskunft über Bankkonten und Bankgeschäfte ist durch die Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen\. Anordnung und Bewilligung der Auskunftserteilung haben zu enthalten:
-> 
+>
 >> `1.` die Bezeichnung des Verfahrens und der Tat, die ihm zu Grunde liegt, sowie deren gesetzliche Bezeichnung,
-> 
+>
 >> `2.` das Kredit\- oder Finanzinstitut,
-> 
+>
 >> `3.` die Umschreibung der sicherzustellenden Gegenstände, Urkunden \(Unterlagen\) oder Vermögenswerte,
-> 
+>
 >> `4.` die Tatsachen, aus denen sich die Erforderlichkeit und Verhältnismäßigkeit \(§ 5\) der Anordnungen ergibt,
-> 
+>
 >> `5.` im Fall einer Anordnung nach Abs\. 2 Z 3 den von ihr umfassten Zeitraum\.
 
 > `(5)` Die Anordnung der Auskunft aus dem Kontenregister und die Anordnung der Auskunft über Bankkonten und Bankgeschäfte samt gerichtlicher Bewilligung sind dem Beschuldigten und den aus der Geschäftsverbindung verfügungsberechtigten Personen zuzustellen, sobald diese der Staatsanwaltschaft bekannt geworden sind\. Die Zustellung kann jedoch aufgeschoben werden, solange durch sie der Zweck dieses oder eines anderen Verfahrens gefährdet wäre\.
@@ -2756,20 +2756,20 @@ Die Originalsicherung und die Arbeitskopie sind auf geeignete Art und Weise gege
 
 ### § 117 StPO — Definitionen
 
-Im Sinne dieses Gesetzes ist
+> Im Sinne dieses Gesetzes ist
 
 > `1.` „Identitätsfeststellung“ die Ermittlung und Feststellung von Daten \(§ 36 Abs\. 2 Z 1 DSG\), die eine bestimmte Person unverwechselbar kennzeichnen,
 
 > `2.` „Durchsuchung von Orten und Gegenständen“ das Durchsuchen
-> 
+>
 >> `a.` eines nicht allgemein zugänglichen Grundstückes, Raumes, Fahrzeuges oder Behältnisses,
-> 
+>
 >> `b.` einer Wohnung oder eines anderen Ortes, der durch das Hausrecht geschützt ist, und darin befindlicher Gegenstände,
 
 > `3.` „Durchsuchung einer Person“
-> 
+>
 >> `a.` die Durchsuchung der Bekleidung einer Person und der Gegenstände, die sie bei sich hat,
-> 
+>
 >> `b.` die Besichtigung des unbekleideten Körpers einer Person,
 
 > `4.` „körperliche Untersuchung“ die Durchsuchung von Körperöffnungen, die Abnahme einer Blutprobe und jeder andere Eingriff in die körperliche Integrität von Personen,
@@ -2791,11 +2791,11 @@ Im Sinne dieses Gesetzes ist
 > `(1)` Durchsuchung von Orten und Gegenständen \(§ 117 Z 2\) ist zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass sich dort eine Person verbirgt, die einer Straftat verdächtig ist, oder Gegenstände oder Spuren befinden, die sicherzustellen oder auszuwerten sind\.
 
 > `(2)` Durchsuchung einer Person \(§ 117 Z 3\) ist zulässig, wenn diese
-> 
+>
 >> `1.` festgenommen oder auf frischer Tat betreten wurde,
-> 
+>
 >> `2.` einer Straftat verdächtig ist und auf Grund bestimmter Tatsachen anzunehmen ist, dass sie Gegenstände, die der Sicherstellung unterliegen, bei sich oder Spuren an sich habe,
-> 
+>
 >> `3.` durch eine Straftat Verletzungen erlitten oder andere Veränderungen am Körper erfahren haben könnte, deren Feststellung für Zwecke eines Strafverfahrens erforderlich ist\.
 
 ### § 120 StPO
@@ -2823,11 +2823,11 @@ Im Sinne dieses Gesetzes ist
 ### § 123 StPO — Körperliche Untersuchung
 
 > `(1)` Eine körperliche Untersuchung ist zulässig, wenn
-> 
+>
 >> `1.` auf Grund bestimmter Tatsachen anzunehmen ist, dass eine Person Spuren hinterlassen hat, deren Sicherstellung und Untersuchung für die Aufklärung einer Straftat wesentlich sind,
-> 
+>
 >> `2.` auf Grund bestimmter Tatsachen anzunehmen ist, dass eine Person Gegenstände im Körper verbirgt, die der Sicherstellung unterliegen, oder
-> 
+>
 >> `3.` Tatsachen, die für die Aufklärung einer Straftat oder die Beurteilung der Zurechnungsfähigkeit von maßgebender Bedeutung sind, auf andere Weise nicht festgestellt werden können\.
 
 > `(2)` Eine körperliche Untersuchung nach Abs\. 1 Z 1 ist auch an Personen zulässig, die einem durch bestimmte Merkmale individualisierbaren Personenkreis angehören, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass sich der Täter in diesem Personenkreis befindet und die Aufklärung einer mit mehr als fünf Jahren Freiheitsstrafe bedrohten Straftat oder eines Verbrechens nach dem 10\. Abschnitt des Strafgesetzbuches andernfalls wesentlich erschwert wäre\.
@@ -2835,23 +2835,23 @@ Im Sinne dieses Gesetzes ist
 > `(3)` Eine körperliche Untersuchung ist von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen\. Bei Gefahr im Verzug kann die Untersuchung auch auf Grund einer Anordnung der Staatsanwaltschaft durchgeführt werden, doch hat die Staatsanwaltschaft in diesem Fall unverzüglich die gerichtliche Bewilligung einzuholen\. Wird diese nicht erteilt, so hat die Staatsanwaltschaft die Anordnung sofort zu widerrufen und das Ergebnis der körperlichen Untersuchung vernichten zu lassen\. Einen Mundhöhlenabstrich kann die Kriminalpolizei jedoch von sich aus abnehmen\.
 
 > `(4)` Operative Eingriffe und alle Eingriffe, die eine Gesundheitsschädigung von mehr als dreitägiger Dauer bewirken könnten, sind unzulässig\. Andere Eingriffe dürfen vorgenommen werden, wenn die zu untersuchende Person nach vorheriger Aufklärung über die möglichen Folgen ausdrücklich zustimmt\. Ohne Einwilligung des Betroffenen darf eine Blutabnahme oder ein vergleichbar geringfügiger Eingriff, bei dem der Eintritt von anderen als bloß unbedeutenden Folgen ausgeschlossen ist, vorgenommen werden, wenn
-> 
+>
 >> `1.` die Person im Verdacht steht,
->> 
+>>
 >>> `a)` eine Straftat nach § 178 StGB oder
->> 
+>>
 >>> `b)` eine Straftat gegen Leib und Leben durch Ausübung einer gefährlichen Tätigkeit in alkoholisiertem oder sonst durch ein berauschendes Mittel beeinträchtigtem Zustand begangen zu haben, oder
-> 
+>
 >> `2.` die körperliche Untersuchung des Beschuldigten zur Aufklärung einer mit mehr als fünf Jahren Freiheitsstrafe bedrohten Straftat oder eines Verbrechens nach dem 10\. Abschnitt des Strafgesetzbuches erforderlich ist\.
 
 > `(5)` Jede körperliche Untersuchung ist von einem Arzt vorzunehmen; ein Mundhöhlenabstrich kann jedoch auch von einer anderen Person, die für diesen Zweck besonders geschult ist, abgenommen werden\. Im Übrigen gelten die Bestimmungen der §§ 121 sowie 122 Abs\. 1 letzter Satz und 3 über die Durchsuchung sinngemäß\.
 
 > `(6)` Als Beweismittel dürfen die Ergebnisse einer körperlichen Untersuchung nur verwendet werden, wenn
-> 
+>
 >> `1.` die Voraussetzungen für eine körperliche Untersuchung vorlagen,
-> 
+>
 >> `2.` die körperliche Untersuchung rechtmäßig angeordnet worden ist und
-> 
+>
 >> `3.` die Verwendung zum Nachweis einer Straftat, deretwegen die körperliche Untersuchung angeordnet wurde oder hätte angeordnet werden können, dient\.
 
 > `(7)` Ergebnisse einer körperlichen Untersuchung, die aus anderen als strafprozessualen Gründen durchgeführt wurde, dürfen in einem Strafverfahren nur als Beweismittel verwendet werden, wenn dies zum Nachweis einer Straftat, deretwegen die körperliche Untersuchung hätte angeordnet werden können, erforderlich ist\.
@@ -2874,7 +2874,7 @@ Im Sinne dieses Gesetzes ist
 
 ### § 125 StPO — Definitionen
 
-Im Sinne dieses Gesetzes ist
+> Im Sinne dieses Gesetzes ist
 
 > `1.` „Sachverständiger“ eine Person, die auf Grund besonderen Fachwissens in der Lage ist, beweiserhebliche Tatsachen festzustellen \(Befundaufnahme\) oder aus diesen rechtsrelevante Schlüsse zu ziehen und sie zu begründen \(Gutachtenserstattung\),
 
@@ -2934,7 +2934,7 @@ Im Sinne dieses Gesetzes ist
 
 ### § 129 StPO — Definitionen
 
-Im Sinne dieses Gesetzes ist
+> Im Sinne dieses Gesetzes ist
 
 > `1.` „Observation“ das heimliche Überwachen des Verhaltens einer Person,
 
@@ -2949,13 +2949,13 @@ Im Sinne dieses Gesetzes ist
 > `(2)` Der Einsatz technischer Mittel, die im Wege der Übertragung von Signalen eine Feststellung des räumlichen Bereichs ermöglichen, in dem sich die überwachte Person aufhält, und das Öffnen von Fahrzeugen und Behältnissen zum Zweck der Einbringung solcher technischer Mittel ist zur Unterstützung der Observation zulässig, sofern die Observation ansonsten aussichtslos oder wesentlich erschwert wäre\.
 
 > `(3)` Sofern die Observation
-> 
+>
 >> `1.` durch den Einsatz technischer Mittel \(Abs\. 2\) unterstützt wird,
-> 
+>
 >> `2.` über einen Zeitraum von mehr als 48 Stunden oder
-> 
+>
 >> `3.` außerhalb des Bundesgebietes durchgeführt wird oder werden soll,
-> 
+>
 > &nbsp; ist sie nur dann zulässig, wenn der Verdacht einer vorsätzlich begangenen Straftat besteht, die mit mehr als einjähriger Freiheitsstrafe bedroht ist, und auf Grund bestimmter Tatsachen angenommen werden kann, dass die überwachte Person die strafbare Handlung begangen habe oder mit dem Beschuldigten Kontakt herstellen werde oder dadurch der Aufenthalt eines flüchtigen oder abwesenden Beschuldigten ermittelt werden kann\.
 
 ### § 131 StPO — Verdeckte Ermittlung
@@ -2970,7 +2970,7 @@ Im Sinne dieses Gesetzes ist
 
 ### § 132 StPO — Scheingeschäft
 
-Die Durchführung eines Scheingeschäfts ist zulässig, wenn die Aufklärung eines Verbrechens \(§ 17 Abs\. 1 StGB\) oder die Sicherstellung von Gegenständen oder Vermögenswerten, die aus einem Verbrechen herrühren oder von der Konfiskation \(§ 19a StGB\), vom Verfall \(§ 20 StGB\), vom erweiterten Verfall \(§ 20b Abs\. 1 StGB\) oder von der Einziehung \(§ 26 StGB\) bedroht sind, andernfalls wesentlich erschwert wäre\. Unter diesen Voraussetzungen ist es auch zulässig, zur Ausführung eines Scheingeschäfts durch Dritte beizutragen \(§ 12 dritter Fall StGB\)\.
+> Die Durchführung eines Scheingeschäfts ist zulässig, wenn die Aufklärung eines Verbrechens \(§ 17 Abs\. 1 StGB\) oder die Sicherstellung von Gegenständen oder Vermögenswerten, die aus einem Verbrechen herrühren oder von der Konfiskation \(§ 19a StGB\), vom Verfall \(§ 20 StGB\), vom erweiterten Verfall \(§ 20b Abs\. 1 StGB\) oder von der Einziehung \(§ 26 StGB\) bedroht sind, andernfalls wesentlich erschwert wäre\. Unter diesen Voraussetzungen ist es auch zulässig, zur Ausführung eines Scheingeschäfts durch Dritte beizutragen \(§ 12 dritter Fall StGB\)\.
 
 ### § 133 StPO — Gemeinsame Bestimmungen
 
@@ -2990,20 +2990,20 @@ Die Durchführung eines Scheingeschäfts ist zulässig, wenn die Aufklärung ein
 
 ### § 134 StPO — Definitionen
 
-Im Sinne dieses Bundesgesetzes ist
+> Im Sinne dieses Bundesgesetzes ist
 
 > `1.` „Beschlagnahme von Briefen“ das Öffnen und Zurückbehalten von Telegrammen, Briefen oder anderen Sendungen, die der Beschuldigte abschickt oder die an ihn gerichtet werden,
 
 > `1a.` „Auskunft über Stammdaten“ die Erteilung einer Auskunft über Stammdaten \(§ 160 Abs\. 3 Z 5 Telekommunikationsgesetz – TKG 2021, BGBl\. I Nr\. 190/2021\) eines Nutzers \(§ 4 Z 13 TKG 2021 oder § 3 Z 4 E\-Commerce–Gesetz – ECG, BGBl\. I Nr\. 152/2001\);
 
 > `1b.` „Auskunft über Zugangsdaten“ die Auskunft über folgende Zugangsdaten \(§ 160 Abs\. 3 Z 7 TKG 2021\) des Inhabers der betroffenen technischen Einrichtung:
-> 
+>
 >> `a.` Name, Anschrift und Nutzerkennung des Nutzers, dem eine öffentliche IP\-Adresse zu einem bestimmten Zeitpunkt unter Angabe der zugrunde liegenden Zeitzone zugewiesen war, es sei denn, dass diese Zuordnung viele Nutzer erfassen würde;
-> 
+>
 >> `b.` die bei Verwendung von E\-Mail Diensten dem Nutzer zugewiesene Nutzerkennung;
-> 
+>
 >> `c.` Name und Anschrift des Nutzers, dem eine E\-Mail\-Adresse zu einem bestimmten Zeitpunkt zugewiesen war, und
-> 
+>
 >> `d.` die E\-Mail\-Adresse und die öffentliche IP\-Adresse des Absenders einer E\-Mail,
 
 > `2.` „Auskunft über Daten einer Nachrichtenübermittlung“ die Erteilung einer Auskunft über Verkehrsdaten \(§ 160 Abs\. 3 Z 6 TKG 2021\), Zugangsdaten \(§ 160 Abs\. 3 Z 7 TKG 2021\), die nicht einer Anordnung gemäß § 135 Abs\. 1a zweiter Fall unterliegen, und Standortdaten \(§ 160 Abs\. 3 Z 9 TKG 2021\) eines Telekommunikationsdienstes oder eines Dienstes der Informationsgesellschaft \(§ 1 Abs\. 1 Z 2 des Notifikationsgesetzes\),
@@ -3014,7 +3014,7 @@ Im Sinne dieses Bundesgesetzes ist
 
 > `3.` „Überwachung von Nachrichten“ das Überwachen von Nachrichten und Informationen, die von einer natürlichen Person über ein Kommunikationsnetz \(§ 4 Z 1 TKG 2021\) oder einen Dienst der Informationsgesellschaft \(§ 1 Abs\. 1 Z 2 des Notifikationsgesetzes\) gesendet, übermittelt oder empfangen werden,
 
-&nbsp; *\(Anm\.: Z 3a aufgehoben durch VfGH, BGBl\. I Nr\. 113/2019\)*
+> &nbsp; *\(Anm\.: Z 3a aufgehoben durch VfGH, BGBl\. I Nr\. 113/2019\)*
 
 > `4.` „optische und akustische Überwachung von Personen“ die Überwachung des Verhaltens von Personen unter Durchbrechung ihrer Privatsphäre und der Äußerungen von Personen, die nicht zur unmittelbaren Kenntnisnahme Dritter bestimmt sind, unter Verwendung technischer Mittel zur Bild\- oder Tonübertragung und zur Bild\- oder Tonaufnahme ohne Kenntnis der Betroffenen,
 
@@ -3029,13 +3029,13 @@ Im Sinne dieses Bundesgesetzes ist
 > `(1a)` Auskunft über Stammdaten und Auskunft über Zugangsdaten sind zulässig, wenn sie zur Aufklärung eines konkreten Verdachts einer Straftat erforderlich erscheinen\.
 
 > `(2)` Auskunft über Daten einer Nachrichtenübermittlung ist zulässig,
-> 
+>
 >> `1.` wenn und solange der dringende Verdacht besteht, dass eine von der Auskunft betroffene Person eine andere entführt oder sich sonst ihrer bemächtigt hat, und sich die Auskunft auf Daten einer solchen Nachricht beschränkt, von der anzunehmen ist, dass sie zur Zeit der Freiheitsentziehung vom Beschuldigten übermittelt, empfangen oder gesendet wird,
-> 
+>
 >> `2.` wenn zu erwarten ist, dass dadurch die Aufklärung einer vorsätzlich begangenen Straftat, die mit einer Freiheitsstrafe von mehr als sechs Monaten bedroht ist, gefördert werden kann und der Inhaber der technischen Einrichtung, die Ursprung oder Ziel einer Übertragung von Nachrichten war oder sein wird, der Auskunft ausdrücklich zustimmt, oder
-> 
+>
 >> `3.` wenn zu erwarten ist, dass dadurch die Aufklärung einer vorsätzlich begangenen Straftat, die mit Freiheitsstrafe von mehr als einem Jahr bedroht ist, gefördert werden kann und auf Grund bestimmter Tatsachen anzunehmen ist, dass dadurch Daten des Beschuldigten ermittelt werden können\.
-> 
+>
 >> `4.` wenn auf Grund bestimmter Tatsachen zu erwarten ist, dass dadurch der Aufenthalt eines flüchtigen oder abwesenden Beschuldigten, der einer vorsätzlich begangenen, mit mehr als einjähriger Freiheitsstrafe bedrohten strafbaren Handlung dringend verdächtig ist, ermittelt werden kann\.
 
 > `(2a)` Lokalisierung einer technischen Einrichtung ist in den Fällen des Abs\. 2 Z 1, 3 und 4 ausschließlich zur Feststellung der in § 134 Z 2a genannten Daten zulässig\.
@@ -3043,39 +3043,39 @@ Im Sinne dieses Bundesgesetzes ist
 > `(2b)` Anlassdatenspeicherung ist zulässig, wenn dies aufgrund eines Anfangsverdachts \(§ 1 Abs\. 3\) zur Sicherung einer Anordnung nach Abs\. 1a zweiter Fall oder nach Abs\. 2 Z 2 bis 4 erforderlich erscheint\.
 
 > `(3)` Überwachung von Nachrichten ist zulässig,
-> 
+>
 >> `1.` in den Fällen des Abs\. 2 Z 1,
-> 
+>
 >> `2.` in den Fällen des Abs\. 2 Z 2, sofern der Inhaber der technischen Einrichtung, die Ursprung oder Ziel einer Übertragung von Nachrichten war oder sein wird, der Überwachung zustimmt,
-> 
+>
 >> `3.` wenn dies zur Aufklärung einer vorsätzlich begangenen Straftat, die mit Freiheitsstrafe von mehr als einem Jahr bedroht ist, erforderlich erscheint oder die Aufklärung oder Verhinderung von im Rahmen einer kriminellen oder terroristischen Vereinigung oder einer kriminellen Organisation \(§§ 278 bis 278b StGB\) begangenen oder geplanten Straftaten ansonsten wesentlich erschwert wäre und
->> 
+>>
 >>> `a.` der Inhaber der technischen Einrichtung, die Ursprung oder Ziel einer Übertragung von Nachrichten war oder sein wird, der vorsätzlich begangenen Straftat, die mit Freiheitsstrafe von mehr als einem Jahr bedroht ist, oder einer Straftat gemäß §§ 278 bis 278b StGB dringend verdächtig ist, oder
->> 
+>>
 >>> `b.` auf Grund bestimmter Tatsachen anzunehmen ist, dass eine der Tat \(lit\. a\) dringend verdächtige Person die technische Einrichtung benützen oder mit ihr eine Verbindung herstellen werde;
-> 
+>
 >> `4.` in den Fällen des Abs\. 2 Z 4\.
 
 ### § 136 StPO — Optische und akustische Überwachung von Personen
 
 > `(1)` Die optische und akustische Überwachung von Personen ist zulässig,
-> 
+>
 >> `1.` wenn und solange der dringende Verdacht besteht, dass eine von der Überwachung betroffene Person eine andere entführt oder sich ihrer sonst bemächtigt hat, und sich die Überwachung auf Vorgänge und Äußerungen zur Zeit und am Ort der Freiheitsentziehung beschränkt,
-> 
+>
 >> `2.` wenn sie sich auf Vorgänge und Äußerungen beschränkt, die zur Kenntnisnahme eines verdeckten Ermittlers oder sonst einer von der Überwachung informierten Person bestimmt sind oder von dieser unmittelbar wahrgenommen werden können, und sie zur Aufklärung eines Verbrechens \(§ 17 Abs\. 1 StGB\) erforderlich scheint oder
-> 
+>
 >> `3.` wenn die Aufklärung eines mit mehr als zehn Jahren Freiheitsstrafe bedrohten Verbrechens, einer Straftat nach §§ 278a bis 278e StGB oder die Aufklärung oder Verhinderung von im Rahmen einer kriminellen Organisation oder einer terroristischen Vereinigung \(§ 278a und § 278b StGB\) begangenen oder geplanten Verbrechen \(§ 17 Abs\. 1 StGB\) oder die Ermittlung des Aufenthalts des wegen einer der davor genannten Straftaten Beschuldigten ansonsten aussichtslos oder wesentlich erschwert wäre und
->> 
+>>
 >>> `a.` die Person, gegen die sich die Überwachung richtet, des mit mehr als zehn Jahren Freiheitsstrafe bedrohten Verbrechens oder einer Straftat nach §§ 278a bis 278e StGB dringend verdächtig ist oder
->> 
+>>
 >>> `b.` auf Grund bestimmter Tatsachen anzunehmen ist, dass ein Kontakt einer solcherart dringend verdächtigen Person mit der Person hergestellt werde, gegen die sich die Überwachung richtet\.
 
 > `(2)` Soweit dies zur Durchführung einer Überwachung nach Abs\. 1 Z 3 unumgänglich ist, ist es zulässig, in eine bestimmte Wohnung oder in andere durch das Hausrecht geschützte Räume einzudringen, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass der Beschuldigte die betroffenen Räume benützen werde\.
 
 > `(3)` Die optische Überwachung von Personen zur Aufklärung einer Straftat ist überdies zulässig,
-> 
+>
 >> `1.` wenn sie sich auf Vorgänge außerhalb einer Wohnung oder anderer durch das Hausrecht geschützter Räume beschränkt und ausschließlich zu dem Zweck erfolgt, Gegenstände oder Örtlichkeiten zu beobachten, um das Verhalten von Personen zu erfassen, die mit den Gegenständen in Kontakt treten oder die Örtlichkeiten betreten, oder
-> 
+>
 >> `2.` wenn sie ausschließlich zu dem in Z 1 erwähnten Zweck in einer Wohnung oder anderen durch das Hausrecht geschützten Räumen erfolgt, die Aufklärung einer vorsätzlich begangenen Straftat, die mit Freiheitsstrafe von mehr als einem Jahr bedroht ist, ansonsten wesentlich erschwert wäre und der Inhaber dieser Wohnung oder Räume in die Überwachung ausdrücklich einwilligt\.
 
 > `(4)` Eine Überwachung ist nur zulässig, soweit die Verhältnismäßigkeit \(§ 5\) gewahrt wird\. Eine Überwachung nach Abs\. 1 Z 3 zur Verhinderung von im Rahmen einer terroristischen Vereinigung oder einer kriminellen Organisation \(§§ 278a und 278b StGB\) begangenen oder geplanten Verbrechen \(§ 17 Abs\. 1 StGB\) ist überdies nur dann zulässig, wenn bestimmte Tatsachen auf eine schwere Gefahr für die öffentliche Sicherheit schließen lassen\.
@@ -3090,17 +3090,17 @@ Im Sinne dieses Bundesgesetzes ist
 ### § 138 StPO
 
 > `(1)` Anordnung und gerichtliche Bewilligung einer Beschlagnahme von Briefen nach § 135 Abs\. 1 haben die Bezeichnung des Verfahrens, den Namen des Beschuldigten, die Tat, deren der Beschuldigte verdächtig ist, und ihre gesetzliche Bezeichnung sowie die Tatsachen, aus denen sich ergibt, dass die Anordnung oder Genehmigung zur Aufklärung der Tat erforderlich und verhältnismäßig ist, anzuführen und über die Rechte des von der Anordnung oder Bewilligung Betroffenen zu informieren; Anordnung nach § 135 Abs\. 1a zweiter Fall und Abs\. 2b und Anordnung und Bewilligung nach den § 135 Abs\. 2, 2a und 3 und § 136 haben überdies zu enthalten:
-> 
+>
 >> `1.` die Namen oder sonstigen Identifizierungsmerkmale des Inhabers der technischen Einrichtung, die Ursprung oder Ziel einer Übertragung von Nachrichten war oder sein wird, oder der Person, deren Überwachung angeordnet wird,
-> 
+>
 >> `2.` die für die Durchführung der Ermittlungsmaßnahme in Aussicht genommenen Örtlichkeiten,
-> 
+>
 >> `3.` die Art der Nachrichtenübertragung, die technische Einrichtung oder die Art der voraussichtlich für die optische und akustische Überwachung zu verwendenden technischen Mittel,
-> 
+>
 >> `4.` den Zeitpunkt des Beginns und der Beendigung der Überwachung,
-> 
+>
 >> `5.` die Räume, in die auf Grund einer Anordnung eingedrungen werden darf,
-> 
+>
 >> `6.` im Fall des § 136 Abs\. 4 die Tatsachen, aus denen sich die schwere Gefahr für die öffentliche Sicherheit ergibt\.
 
 > `(2)` Betreiber von Post\- und Telegrafendiensten sind verpflichtet, an der Beschlagnahme von Briefen mitzuwirken und auf Anordnung der Staatsanwaltschaft solche Sendungen bis zum Eintreffen einer gerichtlichen Bewilligung zurückzuhalten; ergeht eine solche Bewilligung nicht binnen drei Tagen, so dürfen sie die Beförderung nicht weiter verschieben\. Anbieter \(§ 134 Z 6\) sind verpflichtet, unverzüglich Auskunft über Daten einer Nachrichtenübermittlung \(§ 135 Abs\. 2\) zu erteilen und an einer Überwachung von Nachrichten \(§ 135 Abs\. 3\) mitzuwirken; die rechtliche Zulässigkeit der Auskunftserteilung und Mitwirkung gründet auf der gerichtlichen Bewilligung\. Ersuchen zur Auskunft über Stammdaten \(§ 135 Abs\. 1a erster Fall\) sowie Anordnungen zur Auskunft über Zugangsdaten \(§ 135 Abs\. 1a zweiter Fall\) und zur Anlassdatenspeicherung \(§ 135 Abs\. 2b\) haben sie unverzüglich zu entsprechen und im Fall der Anlassdatenspeicherung die von der Löschungsverpflichtung ausgenommenen Daten \(§ 167 Abs\. 2 Z 4 TKG 2021\) nach Ablauf der angeordneten Dauer oder auf Grund einer Anordnung der Staatsanwaltschaft zu löschen\.
@@ -3124,13 +3124,13 @@ Im Sinne dieses Bundesgesetzes ist
 ### § 140 StPO
 
 > `(1)` Als Beweismittel dürfen Ergebnisse \(§ 134 Z 5\), bei sonstiger Nichtigkeit nur verwendet werden,
-> 
+>
 >> `1.` wenn die Voraussetzungen für die Ermittlungsmaßnahme nach § 136 Abs\. 1 Z 1 vorlagen,
-> 
+>
 >> `2.` wenn die Ermittlungsmaßnahme nach § 135 oder § 136 Abs\. 1 Z 2 oder 3 oder Abs\. 3 rechtmäßig angeordnet und bewilligt wurde \(§ 137\), und
-> 
+>
 >> `3.` in den Fällen des § 136 Abs\. 1 Z 2 und 3 nur zum Nachweis eines Verbrechens \(§ 17 Abs\. 1 StGB\),
-> 
+>
 >> `4.` in den Fällen der § 135 Abs\. 1, Abs\. 2 Z 2, 3 und 4, Abs\. 2a, Abs\. 3 Z 2 bis 4 nur zum Nachweis einer vorsätzlich begangenen strafbaren Handlung, derentwegen die Ermittlungsmaßnahme angeordnet wurde oder hätte angeordnet werden können\.
 
 > `(2)` Ergeben sich bei Prüfung der Ergebnisse Hinweise auf die Begehung einer anderen strafbaren Handlung als derjenigen, die Anlass zur Überwachung gegeben hat, so ist mit diesem Teil der Ergebnisse ein gesonderter Akt anzulegen, soweit die Verwendung als Beweismittel zulässig ist \(Abs\. 1, § 144, § 157 Abs\. 2\)\.
@@ -3155,11 +3155,11 @@ Im Sinne dieses Bundesgesetzes ist
 > `(1)` Der Datenabgleich ist von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen\. Die Staatsanwaltschaft oder die Kriminalpolizei hat dieses Ergebnis des Datenabgleichs, soweit es für das Verfahren von Bedeutung ist, in Schriftform zu übertragen\.
 
 > `(2)` Die Anordnung des Datenabgleichs sowie ihre gerichtliche Bewilligung haben außer den in § 102 Abs\. 2 genannten Angaben zu enthalten:
-> 
+>
 >> `1.` die Bezeichnung jener Merkmale, nach deren Übereinstimmung gesucht wird,
-> 
+>
 >> `2.` die Datenverarbeitung und jene ihrer Daten, welche die gesuchten Merkmale enthalten,
-> 
+>
 >> `3.` die zur Datenübermittlung verpflichteten Verantwortlichen\.
 
 > `(3)` Eine Anordnung nach Abs\. 2 ist samt ihrer gerichtlichen Bewilligung der Datenschutzbehörde und allen Personen zuzustellen, welche durch den Datenabgleich ausgeforscht werden; die Zustellung an die ausgeforschten Personen kann jedoch aufgeschoben werden, solange durch sie der Zweck dieses oder eines anderen bereits anhängigen Strafverfahrens gefährdet wäre\.
@@ -3202,17 +3202,17 @@ Im Sinne dieses Bundesgesetzes ist
 ### § 147 StPO
 
 > `(1)` Dem Rechtsschutzbeauftragten obliegt die Prüfung und Kontrolle der Anordnung, Genehmigung, Bewilligung und Durchführung
-> 
+>
 >> `1.` einer verdeckten Ermittlung nach § 131 Abs\. 2,
-> 
+>
 >> `2.` des Abschlusses eines Scheingeschäfts nach § 132, wenn dieses von der Staatsanwaltschaft anzuordnen ist \(§ 133 Abs\. 1\),
-> 
+>
 > &nbsp; *\(Anm\.: Z 2a tritt mit Ablauf des 31\.3\.2025 außer Kraft\)*
-> 
+>
 >> `3.` einer optischen und akustischen Überwachung von Personen nach § 136 Abs\. 1 Z 3,
-> 
+>
 >> `4.` eines automationsunterstützten Datenabgleichs nach § 141 sowie
-> 
+>
 >> `5.` einer Ermittlungsmaßnahme nach § 135 Abs\. 1, 2, 2a und 3 sowie einer optischen und akustischen Überwachung von Personen nach § 136 Abs\. 1 Z 2, die gegen eine Person gerichtet ist, die gemäß § 157 Abs\. 1 Z 2 bis 4 berechtigt ist, die Aussage zu verweigern \(§ 144 Abs\. 3\)\.
 
 > `(2)` Beantragt die Staatsanwaltschaft die gerichtliche Bewilligung einer in Abs\. 1 angeführten Ermittlungsmaßnahme, so hat sie dem Rechtsschutzbeauftragten zugleich eine Ausfertigung dieses Antrags samt einer Ablichtung der Anzeige und der maßgebenden Ermittlungsergebnisse zu übermitteln\. Gleiches gilt für Anordnungen und Genehmigungen der im Abs\. 1 Z 1, 2 und 5 angeführten Ermittlungsmaßnahmen durch die Staatsanwaltschaft\. Im Fall des § 144 Abs\. 3 hat die Staatsanwaltschaft zugleich um Ermächtigung zur Antragstellung zu ersuchen\. Eine Ermächtigung zu einem Antrag auf Bewilligung der Anordnung einer Überwachung von Nachrichten nach § 135 Abs\. 3 oder Überwachung verschlüsselter Nachrichten nach § 135a *\(Anm\. 1\)* von ausschließlich der Berufsausübung gewidmeten Computersystemen oder nach § 136 Abs\. 1 Z 3 in den ausschließlich der Berufsausübung gewidmeten Räumen einer der in § 157 Abs\. 1 Z 2 bis 4 erwähnten Personen darf der Rechtsschutzbeauftragte nur erteilen, wenn besonders schwerwiegende Gründe vorliegen, die diesen Eingriff verhältnismäßig erscheinen lassen\.
@@ -3223,13 +3223,13 @@ Im Sinne dieses Bundesgesetzes ist
 > `(4)` Nach Beendigung der Ermittlungsmaßnahme ist dem Rechtsschutzbeauftragten Gelegenheit zu geben, die gesamten Ergebnisse einzusehen und anzuhören, bevor diese zum Akt genommen werden \(§ 145 Abs\. 2\)\. Er ist ferner berechtigt, die Vernichtung von Ergebnissen oder Teilen von ihnen \(§ 139 Abs\. 4\) zu beantragen und sich von der ordnungsgemäßen Vernichtung dieser Ergebnisse zu überzeugen\. Das Gleiche gilt für die ordnungsgemäße Löschung von Daten, die in einen Datenabgleich einbezogen oder durch ihn gewonnen wurden\. Beabsichtigt die Staatsanwaltschaft, einem solchen Antrag des Rechtsschutzbeauftragten nicht nachzukommen, so hat sie unverzüglich die Entscheidung des Gerichts einzuholen\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 108/2010\)*
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*\(Anm\. 1: Die Wendung „oder nach § 135a“ tritt mit 1\. April 2020 in Kraft und mit Ablauf des 31\. März 2025 wieder außer Kraft \(vgl\. § 514 Abs\. 37 Z 3\)\.*
+> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+>
+> *\(Anm\. 1: Die Wendung „oder nach § 135a“ tritt mit 1\. April 2020 in Kraft und mit Ablauf des 31\. März 2025 wieder außer Kraft \(vgl\. § 514 Abs\. 37 Z 3\)\.*
 
 ### § 148 StPO — Schadenersatz
 
-Der Bund haftet für vermögensrechtliche Nachteile, die durch die Durchführung einer Überwachung von Personen nach § 136 Abs\. 1 Z 3 oder eines Datenabgleichs nach § 141 entstanden sind\. Der Ersatzanspruch ist ausgeschlossen, wenn der Geschädigte die Anordnung vorsätzlich herbeigeführt hat\. Weitergehende Ansprüche bleiben unberührt\. Auf das Verfahren ist das Amtshaftungsgesetz, BGBl\. Nr\. 20/1949, anzuwenden\.
+> Der Bund haftet für vermögensrechtliche Nachteile, die durch die Durchführung einer Überwachung von Personen nach § 136 Abs\. 1 Z 3 oder eines Datenabgleichs nach § 141 entstanden sind\. Der Ersatzanspruch ist ausgeschlossen, wenn der Geschädigte die Anordnung vorsätzlich herbeigeführt hat\. Weitergehende Ansprüche bleiben unberührt\. Auf das Verfahren ist das Amtshaftungsgesetz, BGBl\. Nr\. 20/1949, anzuwenden\.
 
 ## 9. Abschnitt
 
@@ -3238,9 +3238,9 @@ Der Bund haftet für vermögensrechtliche Nachteile, die durch die Durchführung
 ### § 149 StPO — Augenschein und Tatrekonstruktion
 
 > `(1)` Im Sinne dieses Gesetzes ist
-> 
+>
 >> `1.` „Augenschein“ jede unmittelbare sinnliche Wahrnehmung und deren Dokumentation durch Ton\- oder Bildaufnahme, soweit es sich nicht um eine Vernehmung handelt,
-> 
+>
 >> `2.` „Tatrekonstruktion“ die Vernehmung einer Person im Zuge eines Nachstellens des wahrscheinlichen Verlaufs der Tat am Tatort oder an einem anderen mit der Straftat im Zusammenhang stehenden Ort sowie die Ton\- oder Bildaufnahme über diese Vorgänge\.
 
 > `(2)` Ein Augenschein kann durch die Kriminalpolizei durchgeführt werden\. Wenn er besondere Sachkunde erfordert, über welche Kriminalpolizei oder Staatsanwaltschaft nicht durch besondere Einrichtungen oder deren Organe verfügen, kann mit seiner Durchführung auch ein Sachverständiger im Rahmen der Befundaufnahme beauftragt werden\. Art und Weise der Durchführung des Augenscheines und seine Ergebnisse sind in einem Amtsvermerk \(§ 95\) festzuhalten\.
@@ -3259,7 +3259,7 @@ Der Bund haftet für vermögensrechtliche Nachteile, die durch die Durchführung
 
 ### § 151 StPO — Definitionen
 
-Im Sinne dieses Gesetzes ist
+> Im Sinne dieses Gesetzes ist
 
 > `1.` „Erkundigung“ das Verlangen von Auskunft und das Entgegennehmen einer Mitteilung von einer Person,
 
@@ -3292,13 +3292,13 @@ Im Sinne dieses Gesetzes ist
 ### § 155 StPO — Verbot der Vernehmung als Zeuge
 
 > `(1)` Als Zeugen dürfen bei sonstiger Nichtigkeit nicht vernommen werden:
-> 
+>
 >> `1.` Geistliche über das, was ihnen in der Beichte oder sonst unter dem Siegel geistlicher Amtsverschwiegenheit anvertraut wurde,
-> 
+>
 >> `2.` Beamte \(§ 74 Abs\. 1 Z 4 bis 4c StGB\) über Umstände, die der Amtsverschwiegenheit unterliegen, soweit sie nicht von der Verschwiegenheitspflicht entbunden wurden,
-> 
+>
 >> `3.` Personen, denen Zugang zu klassifizierten Informationen des Nationalrates oder des Bundesrates gewährt wurde, soweit sie gemäß § 18 Abs\. 1 des Bundesgesetzes über die Informationsordnung des Nationalrates und des Bundesrates, BGBl\. I Nr\. 102/2014, zur Verschwiegenheit verpflichtet sind,
-> 
+>
 >> `4.` Personen, die wegen einer psychischen Krankheit, wegen einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit oder aus einem anderen Grund unfähig sind, die Wahrheit anzugeben\.
 
 > `(2)` Eine Verpflichtung zur Verschwiegenheit nach Abs\. 1 Z 2 besteht jedenfalls nicht, soweit der Zeuge im Dienste der Strafrechtspflege Wahrnehmungen zum Gegenstand des Verfahrens gemacht hat oder Anzeigepflicht \(§ 78\) besteht\.
@@ -3306,9 +3306,9 @@ Im Sinne dieses Gesetzes ist
 ### § 156 StPO — Aussagebefreiung
 
 > `(1)` Von der Pflicht zur Aussage sind befreit:
-> 
+>
 >> `1.` Personen, die im Verfahren gegen einen Angehörigen \(§ 72 StGB\) aussagen sollen;
-> 
+>
 >> `2.` Besonders schutzbedürftige Opfer \(§ 66a\), wenn die Parteien Gelegenheit hatten, sich an einer vorausgegangenen kontradiktorischen Vernehmung zu beteiligen \(§§ 165, 247\)\.
 
 > `(2)` Nach Abs\. 1 Z 1 ist eine erwachsene Person, die als Privatbeteiligte am Verfahren mitwirkt \(§ 67\), von der Aussage nicht befreit\.
@@ -3318,31 +3318,31 @@ Im Sinne dieses Gesetzes ist
 ### § 157 StPO — Aussageverweigerung
 
 > `(1)` Zur Verweigerung der Aussage sind berechtigt:
-> 
+>
 >> `1.` Personen, soweit sie ansonsten sich oder einen Angehörigen \(§ 156 Abs\. 1 Z 1\) der Gefahr strafrechtlicher Verfolgung oder im Zusammenhang mit einem gegen sie geführten Strafverfahren der Gefahr aussetzen würden, sich über ihre bisherige Aussage hinaus selbst zu belasten,
-> 
+>
 >> `2.` Verteidiger, Rechtsanwälte, Patentanwälte, Verfahrensanwälte in Untersuchungsausschüssen des Nationalrats, Notare und Wirtschaftstreuhänder über das, was ihnen in dieser Eigenschaft bekannt geworden ist,
-> 
+>
 >> `3.` Fachärzte für Psychiatrie, Psychotherapeuten, Psychologen, Bewährungshelfer, eingetragene Mediatoren nach dem Zivilrechts\-Mediations\-Gesetz, BGBl\. I Nr\. 29/2003, und Mitarbeiter anerkannter Einrichtungen zur psychosozialen Beratung und Betreuung über das, was ihnen in dieser Eigenschaft bekannt geworden ist,
-> 
+>
 >> `4.` Medieninhaber \(Herausgeber\), Medienmitarbeiter und Arbeitnehmer eines Medienunternehmens oder Mediendienstes über Fragen, welche die Person des Verfassers, Einsenders oder Gewährsmannes von Beiträgen und Unterlagen betreffen oder die sich auf Mitteilungen beziehen, die ihnen im Hinblick auf ihre Tätigkeit gemacht wurden,
-> 
+>
 >> `5.` Wahlberechtigte darüber, wie sie ein gesetzlich für geheim erklärtes Wahl\- oder Stimmrecht ausgeübt haben\.
 
 > `(2)` Das Recht der in Abs\. 1 Z 2 bis 5 angeführten Personen, die Aussage zu verweigern, darf bei sonstiger Nichtigkeit nicht umgangen werden, insbesondere nicht durch Sicherstellung und Beschlagnahme von Unterlagen oder auf Datenträgern gespeicherten Informationen *\(Anm\. 1\)* oder durch Vernehmung der Hilfskräfte oder der Personen, die zur Ausbildung an der berufsmäßigen Tätigkeit nach Abs\. 1 Z 2 bis 4 teilnehmen\. Dies gilt ebenso für Unterlagen und Informationen, die sich in der Verfügungsmacht des Beschuldigten oder eines Mitbeschuldigten befinden und zum Zwecke der Beratung oder Verteidigung des Beschuldigten durch eine in Abs\. 1 Z 2 genannte Person von dieser oder vom Beschuldigten erstellt wurden\.
 
-*\(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
-*Anm\. 1: Art\. 1 Z 57 der Novelle BGBl\. I Nr\. 157/2024 lautet: „§ 157 Abs\. 2 wird nach der Wendung „oder auf Datenträgern gespeicherte Informationen“ die Wendung „\(§ 111 Abs\. 2\), durch Beschlagnahme von Datenträgern und Daten“ eingefügt\.“\. Die Anweisung konnte nicht durchgeführt werden\.\)*
+> *\(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+>
+> *Anm\. 1: Art\. 1 Z 57 der Novelle BGBl\. I Nr\. 157/2024 lautet: „§ 157 Abs\. 2 wird nach der Wendung „oder auf Datenträgern gespeicherte Informationen“ die Wendung „\(§ 111 Abs\. 2\), durch Beschlagnahme von Datenträgern und Daten“ eingefügt\.“\. Die Anweisung konnte nicht durchgeführt werden\.\)*
 
 ### § 158 StPO
 
 > `(1)` Die Beantwortung einzelner Fragen können verweigern:
-> 
+>
 >> `1.` Personen, soweit sie ansonsten sich oder einen Angehörigen \(§ 156 Abs\. 1 Z 1\) der Schande oder der Gefahr eines unmittelbaren und bedeutenden vermögensrechtlichen Nachteils aussetzen würden,
-> 
+>
 >> `2.` Personen, die durch die dem Beschuldigten zur Last gelegte Straftat in ihrer Geschlechtssphäre verletzt wurden oder verletzt worden sein könnten, soweit sie Einzelheiten der Tat zu offenbaren hätten, deren Schilderung sie für unzumutbar halten,
-> 
+>
 >> `3.` Personen, soweit sie Umstände aus ihrem höchstpersönlichen Lebensbereich oder dem höchstpersönlichen Lebensbereich einer anderen Person zu offenbaren hätten\.
 
 > `(2)` Die in Abs\. 1 angeführten Personen können jedoch trotz Weigerung zur Aussage verpflichtet werden, wenn dies wegen der besonderen Bedeutung ihrer Aussage für den Gegenstand des Verfahrens unerlässlich ist\.
@@ -3373,7 +3373,7 @@ Im Sinne dieses Gesetzes ist
 
 ### § 162 StPO — Anonyme Aussage
 
-Ist auf Grund bestimmter Tatsachen zu befürchten, dass der Zeuge sich oder einen Dritten durch die Bekanntgabe des Namens und anderer Angaben zur Person \(§ 161 Abs\. 1\) oder durch Beantwortung von Fragen, die Rückschlüsse darauf zulassen, einer ernsten Gefahr für Leben, Gesundheit, körperliche Unversehrtheit oder Freiheit aussetzen würde, so kann ihm gestattet werden, solche Fragen nicht zu beantworten\. In diesem Fall ist auch zulässig, dass der Zeuge seine äußere Erscheinung derart verändert, dass er nicht wieder erkannt werden kann\. Es ist ihm jedoch nicht gestattet, sein Gesicht derart zu verhüllen, dass sein Mienenspiel nicht soweit wahrgenommen werden kann, als dies für die Beurteilung der Glaubwürdigkeit seiner Aussage unerlässlich ist\.
+> Ist auf Grund bestimmter Tatsachen zu befürchten, dass der Zeuge sich oder einen Dritten durch die Bekanntgabe des Namens und anderer Angaben zur Person \(§ 161 Abs\. 1\) oder durch Beantwortung von Fragen, die Rückschlüsse darauf zulassen, einer ernsten Gefahr für Leben, Gesundheit, körperliche Unversehrtheit oder Freiheit aussetzen würde, so kann ihm gestattet werden, solche Fragen nicht zu beantworten\. In diesem Fall ist auch zulässig, dass der Zeuge seine äußere Erscheinung derart verändert, dass er nicht wieder erkannt werden kann\. Es ist ihm jedoch nicht gestattet, sein Gesicht derart zu verhüllen, dass sein Mienenspiel nicht soweit wahrgenommen werden kann, als dies für die Beurteilung der Glaubwürdigkeit seiner Aussage unerlässlich ist\.
 
 ### § 163 StPO — Gegenüberstellung
 
@@ -3414,9 +3414,9 @@ Ist auf Grund bestimmter Tatsachen zu befürchten, dass der Zeuge sich oder eine
 ### § 166 StPO — Beweisverbot
 
 > `(1)` Zum Nachteil eines Beschuldigten – außer gegen eine Person, die im Zusammenhang mit einer Vernehmung einer Rechtsverletzung beschuldigt ist – dürfen seine Aussagen sowie jene von Zeugen und Mitbeschuldigten nicht als Beweis verwendet werden, soweit sie:
-> 
+>
 >> `1.` unter Folter \(Art\. 7 des Internationalen Pakts über bürgerliche und politische Rechte, BGBl\. Nr\. 591/1978, Art\. 3 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl\. Nr\. 210/1958, und Art\. 1 Abs\. 1 sowie 15 des Übereinkommens gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung, BGBl\. Nr\. 492/1987\) zustande gekommen sind, oder
-> 
+>
 >> `2.` sonst durch unerlaubte Einwirkung auf die Freiheit der Willensentschließung oder Willensbetätigung oder durch unzulässige Vernehmungsmethoden, soweit sie fundamentale Verfahrensgrundsätze verletzen, gewonnen wurden und ihr Ausschluss zur Wiedergutmachung dieser Verletzung unerlässlich ist\.
 
 > `(2)` Aussagen, die auf die im Abs\. 1 beschriebene Art und Weise zustande gekommen sind oder gewonnen wurden, sind nichtig\.
@@ -3431,7 +3431,7 @@ Ist auf Grund bestimmter Tatsachen zu befürchten, dass der Zeuge sich oder eine
 
 ### § 167 StPO — Definitionen
 
-Im Sinne dieses Gesetzes ist
+> Im Sinne dieses Gesetzes ist
 
 > `1.` „Personenfahndung“ jede Maßnahme zur Ermittlung des Aufenthaltes einer Person und zur Festnahme des Beschuldigten auf Grund einer Anordnung der Staatsanwaltschaft,
 
@@ -3460,13 +3460,13 @@ Im Sinne dieses Gesetzes ist
 ### § 170 StPO — Zulässigkeit
 
 > `(1)` Die Festnahme einer Person, die der Begehung einer strafbaren Handlung verdächtig ist, ist zulässig,
-> 
+>
 >> `1.` wenn sie auf frischer Tat betreten oder unmittelbar danach entweder glaubwürdig der Tatbegehung beschuldigt oder mit Gegenständen betreten wird, die auf ihre Beteiligung an der Tat hinweisen,
-> 
+>
 >> `2.` wenn sie flüchtig ist oder sich verborgen hält oder wenn auf Grund bestimmter Tatsachen die Gefahr besteht, sie werde flüchten oder sich verborgen halten,
-> 
+>
 >> `3.` wenn sie Zeugen, Sachverständige oder Mitbeschuldigte zu beeinflussen, Spuren der Tat zu beseitigen oder sonst die Ermittlung der Wahrheit zu erschweren versucht hat oder auf Grund bestimmter Tatsachen die Gefahr besteht, sie werde dies versuchen,
-> 
+>
 >> `4.` wenn die Person einer mit mehr als sechs Monaten Freiheitsstrafe bedrohten Tat verdächtig und auf Grund bestimmter Tatsachen anzunehmen ist, sie werde eine eben solche, gegen dasselbe Rechtsgut gerichtete Tat begehen, oder die ihr angelastete versuchte oder angedrohte Tat \(§ 74 Abs\. 1 Z 5 StGB\) ausführen\.
 
 > `(2)` Wenn es sich um ein Verbrechen handelt, bei dem nach dem Gesetz auf mindestens zehnjährige Freiheitsstrafe zu erkennen ist, muss die Festnahme angeordnet werden, es sei denn, dass auf Grund bestimmter Tatsachen anzunehmen ist, das Vorliegen aller im Abs\. 1 Z 2 bis 4 angeführten Haftgründe sei auszuschließen\.
@@ -3478,27 +3478,27 @@ Im Sinne dieses Gesetzes ist
 > `(1)` Die Festnahme ist durch die Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen und von der Kriminalpolizei durchzuführen\.
 
 > `(2)` Die Kriminalpolizei ist berechtigt, den Beschuldigten von sich aus festzunehmen
-> 
+>
 >> `1.` in den Fällen des § 170 Abs\. 1 Z 1 und
-> 
+>
 >> `2.` in den Fällen des § 170 Abs\. 1 Z 2 bis 4, wenn wegen Gefahr im Verzug eine Anordnung der Staatsanwaltschaft nicht rechtzeitig eingeholt werden kann\.
 
 > `(3)` Im Fall des Abs\. 1 ist dem Beschuldigten sogleich oder innerhalb von vierundzwanzig Stunden nach seiner Festnahme die Anordnung der Staatsanwaltschaft und deren gerichtliche Bewilligung zuzustellen; im Falle des Abs\. 2 eine schriftliche Begründung der Kriminalpolizei über Tatverdacht und Haftgrund\.
 
 > `(4)` Dem Beschuldigten ist sogleich oder unmittelbar nach seiner Festnahme schriftlich in einer für ihn verständlichen Art und Weise sowie in einer Sprache, die er versteht, Rechtsbelehrung \(§ 50, § 59 Abs\. 1\) zu erteilen, die ihn darüber hinaus zu informieren hat, dass er
-> 
+>
 >> `1.`  soweit er nicht freizulassen ist \(§ 172 Abs\. 2\), ohne unnötigen Aufschub in die Justizanstalt eingeliefert und dem Gericht zur Entscheidung über die Haft vorgeführt werden wird \(§§ 172 Abs\. 1 und 3 und 174 Abs\. 1\), sowie
-> 
+>
 >> `2.` berechtigt ist,
->> 
+>>
 >>> `a.` einen Angehörigen oder eine andere Vertrauensperson und einen Verteidiger unverzüglich von seiner Festnahme zu verständigen oder verständigen zu lassen \(Art\. 4 Abs\. 7 BVG über den Schutz der persönlichen Freiheit\),wobei ihm auf Verlangen die Kontaktaufnahme mit einem „Verteidiger in Bereitschaft“ \(§ 59 Abs\. 4\) zu ermöglichen ist, dessen Kosten er unter den Voraussetzungen des § 59 Abs\. 5 nicht zu tragen hat,
->> 
+>>
 >>> `b.` Beschwerde gegen die gerichtliche Bewilligung der Festnahme zu erheben und im Übrigen jederzeit seine Freilassung zu beantragen,
->> 
+>>
 >>> `c.` seine konsularische Vertretung unverzüglich verständigen zu lassen \(Art\. 36 des Wiener Übereinkommens über konsularische Beziehungen, BGBl\. Nr\. 318/1969\),
->> 
+>>
 >>> `d.` Zugang zu ärztlicher Betreuung zu erhalten \(§§ 66 bis 74 StVG\)\.
-> 
+>
 > &nbsp; Ist die schriftliche Belehrung in einer Sprache, die der Beschuldigten versteht, nicht verfügbar, so ist sie zunächst mündlich zu erteilen \(§ 56 Abs\. 2\) und sodann ohne unnötigen Aufschub nachzureichen\. Der Umstand der erteilten Belehrung ist in jedem Fall schriftlich festzuhalten \(§§ 95 und 96\)\.
 
 ### § 172 StPO — Durchführung
@@ -3530,19 +3530,19 @@ Im Sinne dieses Gesetzes ist
 > `(1)` Verhängung und Fortsetzung der Untersuchungshaft sind nur auf Antrag der Staatsanwaltschaft und nur dann zulässig, wenn der Beschuldigte einer bestimmten Straftat dringend verdächtig, vom Gericht zur Sache und zu den Voraussetzungen der Untersuchungshaft vernommen worden ist und einer der im Abs\. 2 angeführten Haftgründe vorliegt\. Sie darf nicht angeordnet oder fortgesetzt werden, wenn sie zur Bedeutung der Sache oder zu der zu erwartenden Strafe außer Verhältnis steht oder ihr Zweck durch Anwendung gelinderer Mittel \(Abs\. 5\) erreicht werden kann\.
 
 > `(2)` Ein Haftgrund liegt vor, wenn auf Grund bestimmter Tatsachen die Gefahr besteht, der Beschuldigte werde auf freiem Fuß
-> 
+>
 >> `1.` wegen Art und Ausmaß der ihm voraussichtlich bevorstehenden Strafe oder aus anderen Gründen flüchten oder sich verborgen halten,
-> 
+>
 >> `2.` Zeugen, Sachverständige oder Mitbeschuldigte zu beeinflussen, Spuren der Tat zu beseitigen oder sonst die Ermittlung der Wahrheit zu erschweren versuchen,
-> 
+>
 >> `3.` ungeachtet des wegen einer mit mehr als sechs Monaten Freiheitsstrafe bedrohten Straftat gegen ihn geführten Strafverfahrens
->> 
+>>
 >>> `a.` eine strafbare Handlung mit schweren Folgen begehen, die gegen dasselbe Rechtsgut gerichtet ist wie die ihm angelastete Straftat mit schweren Folgen,
->> 
+>>
 >>> `b.` eine strafbare Handlung mit nicht bloß leichten Folgen begehen, die gegen dasselbe Rechtsgut gerichtet ist wie die ihm angelastete strafbare Handlung, wenn er entweder wegen einer solchen Straftat bereits verurteilt worden ist oder wenn ihm nunmehr wiederholte oder fortgesetzte Handlungen angelastet werden,
->> 
+>>
 >>> `c.` eine strafbare Handlung mit einer Strafdrohung von mehr als sechsmonatiger Freiheitsstrafe begehen, die ebenso wie die ihm angelastete strafbare Handlung gegen dasselbe Rechtsgut gerichtet ist wie die Straftaten, derentwegen er bereits zweimal verurteilt worden ist, oder
->> 
+>>
 >>> `d.` die ihm angelastete versuchte oder angedrohte Tat \(§ 74 Abs\. 1 Z 5 StGB\) ausführen\.
 
 > `(3)` Fluchtgefahr ist jedenfalls nicht anzunehmen, wenn der Beschuldigte einer Straftat verdächtig ist, die nicht strenger als mit fünfjähriger Freiheitsstrafe bedroht ist, er sich in geordneten Lebensverhältnissen befindet und einen festen Wohnsitz im Inland hat, es sei denn, er habe bereits Vorbereitungen zur Flucht getroffen\. Bei Beurteilung von Tatbegehungsgefahr nach Abs\. 2 Z 3 fällt es besonders ins Gewicht, wenn vom Beschuldigten eine Gefahr für Leib und Leben von Menschen oder die Gefahr der Begehung von Verbrechen in einer kriminellen Organisation oder terroristischen Vereinigung ausgeht\. Im Übrigen ist bei Beurteilung dieses Haftgrundes zu berücksichtigen, inwieweit sich die Gefahr dadurch vermindert hat, dass sich die Verhältnisse, unter denen die dem Beschuldigten angelastete Tat begangen worden ist, geändert haben\.
@@ -3550,25 +3550,25 @@ Im Sinne dieses Gesetzes ist
 > `(4)` Die Untersuchungshaft darf nicht verhängt, aufrecht erhalten oder fortgesetzt werden, wenn die Haftzwecke auch durch eine gleichzeitige Strafhaft oder Haft anderer Art erreicht werden können\. Im Fall der Strafhaft hat die Staatsanwaltschaft die Abweichungen vom Vollzug anzuordnen, die für die Zwecke der Untersuchungshaft unentbehrlich sind\. Wird die Untersuchungshaft dennoch verhängt, so tritt eine Unterbrechung des Strafvollzuges ein\.
 
 > `(5)` Als gelindere Mittel sind insbesondere anwendbar:
-> 
+>
 >> `1.` das Gelöbnis, bis zur rechtskräftigen Beendigung des Strafverfahrens weder zu fliehen noch sich verborgen zu halten noch sich ohne Genehmigung der Staatsanwaltschaft von seinem Aufenthaltsort zu entfernen,
-> 
+>
 >> `2.` das Gelöbnis, keinen Versuch zu unternehmen, die Ermittlungen zu erschweren,
-> 
+>
 >> `3.` in den Fällen des § 38a Abs\. 1 SPG das Gelöbnis, jeden Kontakt mit dem Opfer zu unterlassen, und die Weisung, eine bestimmte Wohnung sowie bestimmte sonstige Örtlichkeiten nicht zu betreten und sich dem Opfer nicht anzunähern oder ein bereits erteiltes Betretungs\- und Annäherungsverbot zum Schutz vor Gewalt nach § 38a Abs\. 1 SPG oder eine einstweilige Verfügung nach § 382b EO nicht zu übertreten, samt Abnahme aller Schlüssel zur Wohnung,
-> 
+>
 >> `4.` die Weisung, an einem bestimmten Ort, bei einer bestimmten Familie zu wohnen, eine bestimmte Wohnung, bestimmte Orte oder bestimmten Umgang zu meiden, sich alkoholischer Getränke oder anderer Suchtmittel zu enthalten oder einer geregelten Arbeit nachzugehen,
-> 
+>
 >> `5.` die Weisung, jeden Wechsel des Aufenthaltes anzuzeigen oder sich in bestimmten Zeitabständen bei der Kriminalpolizei oder einer anderen Stelle zu melden,
-> 
+>
 >> `6.` die vorübergehende Abnahme von Identitäts\-, Kraftfahrzeugs\- oder sonstigen Berechtigungsdokumenten,
-> 
+>
 >> `7.` vorläufige Bewährungshilfe nach § 179,
-> 
+>
 >> `8.` die Leistung einer Sicherheit nach den §§ 180 und 181,
-> 
+>
 >> `9.` mit Zustimmung des Beschuldigten die Weisung, sich einer Entwöhnungsbehandlung, sonst einer medizinischen Behandlung oder einer Psychotherapie \(§ 51 Abs\. 3 StGB\) oder einer gesundheitsbezogenen Maßnahme \(§ 11 Abs\. 2 SMG\) zu unterziehen\.
-> 
+>
 > *\(Abs\. 6 aufgehoben durch VfGH, BGBl\. I Nr\. 1/2023\)*
 
 ### § 173a StPO — Hausarrest
@@ -3590,21 +3590,21 @@ Im Sinne dieses Gesetzes ist
 > `(2)` Der Beschluss nach Abs\. 1 ist dem Beschuldigten sofort mündlich zu verkünden\. Ein Beschluss auf Freilassung ist der Staatsanwaltschaft binnen 24 Stunden zuzustellen und der Kriminalpolizei zur Kenntnis zu bringen\. Wird die Untersuchungshaft verhängt, so ist die Zustellung an den Beschuldigten binnen 24 Stunden zu veranlassen und unverzüglich eine Ausfertigung der Staatsanwaltschaft, dem Verteidiger, der Justizanstalt und einem gegebenenfalls bestellten Bewährungshelfer zu übermitteln\. Der Beschuldigte kann auf die Zustellung nicht wirksam verzichten\.
 
 > `(3)` Ein Beschluss, mit dem die Untersuchungshaft verhängt wird, hat zu enthalten:
-> 
+>
 >> `1.` den Namen des Beschuldigten sowie weitere Angaben zur Person,
-> 
+>
 >> `2.` die strafbare Handlung, deren Begehung der Beschuldigte dringend verdächtig ist, Zeit, Ort und Umstände ihrer Begehung sowie ihre gesetzliche Bezeichnung,
-> 
+>
 >> `3.` den Haftgrund,
-> 
+>
 >> `4.` die bestimmten Tatsachen, aus denen sich der dringende Tatverdacht und der Haftgrund ergeben, und aus welchen Gründen der Haftzweck durch Anwendung gelinderer Mittel nicht erreicht werden kann,
-> 
+>
 >> `5.` die Mitteilung, bis zu welchem Tag der Beschluss längstens wirksam sei sowie dass vor einer allfälligen Fortsetzung der Haft eine Haftverhandlung stattfinden werde, sofern nicht einer der im Abs\. 4 oder im § 175 Abs\. 3, 4 oder 5 erwähnten Fälle eintritt,
-> 
+>
 >> `6.` die Mitteilung, dass der Beschuldigte, soweit dies nicht bereits geschehen ist, einen Verteidiger, einen Angehörigen oder eine andere Vertrauensperson verständigen oder verständigen lassen könne,
-> 
+>
 >> `7.` die Mitteilung, dass der Beschuldigte durch einen Verteidiger vertreten sein müsse, solange er sich in Untersuchungshaft befinde,
-> 
+>
 >> `8.` die Mitteilung, dass dem Beschuldigten Beschwerde zustehe und dass er im Übrigen jederzeit seine Enthaftung oder die Anordnung des Hausarrests \(§ 173a\) beantragen könne\.
 
 > `(4)` Eine Beschwerde des Beschuldigten gegen die Verhängung der Untersuchungshaft löst die Haftfrist nach § 175 Abs\. 2 Z 2 aus\. Ein darauf ergehender Beschluss des Oberlandesgerichts auf Fortsetzung der Untersuchungshaft löst die nächste Haftfrist aus; Abs\. 3 Z 1 bis 5 gilt sinngemäß\.
@@ -3614,11 +3614,11 @@ Im Sinne dieses Gesetzes ist
 > `(1)` Ein Beschluss, mit dem die Untersuchungshaft verhängt oder fortgesetzt wird, ist längstens für einen bestimmten Zeitraum wirksam \(Haftfrist\); der Ablauftag ist im Beschluss anzuführen\. Vor Ablauf der Haftfrist ist eine Haftverhandlung durchzuführen oder der Beschuldigte zu enthaften\.
 
 > `(2)` Die Haftfrist beträgt
-> 
+>
 >> `1.` 14 Tage ab Verhängung der Untersuchungshaft,
-> 
+>
 >> `2.` einen Monat ab erstmaliger Fortsetzung der Untersuchungshaft,
-> 
+>
 >> `3.` zwei Monate ab weiterer Fortsetzung der Untersuchungshaft\.
 
 > `(3)` Ist die Durchführung der Haftverhandlung vor Ablauf der Haftfrist wegen eines unvorhersehbaren oder unabwendbaren Ereignisses unmöglich, so kann die Haftverhandlung auf einen der drei dem Fristablauf folgenden Arbeitstage verlegt werden; in diesem Fall verlängert sich die Haftfrist entsprechend\.
@@ -3630,11 +3630,11 @@ Im Sinne dieses Gesetzes ist
 ### § 176 StPO — Haftverhandlung
 
 > `(1)` Eine Haftverhandlung hat das Gericht von Amts wegen anzuberaumen:
-> 
+>
 >> `1.` vor Ablauf der Haftfrist,
-> 
+>
 >> `2.` ohne Verzug, wenn der Beschuldigte seine Freilassung beantragt und sich die Staatsanwaltschaft dagegen ausspricht oder die Anordnung des Hausarrests \(§ 173a\) beantragt wird,
-> 
+>
 >> `3.` sofern das Gericht Bedenken gegen die Fortsetzung der Untersuchungshaft hegt\.
 
 > `(2)` Die Haftverhandlung leitet das Gericht; sie ist nicht öffentlich\. Die Staatsanwaltschaft, der Beschuldigte, sein gesetzlicher Vertreter, sein Verteidiger, die Kriminalpolizei, soweit sie darum ersucht hat, und der Bewährungshelfer sind vom Termin zu verständigen\.
@@ -3660,9 +3660,9 @@ Im Sinne dieses Gesetzes ist
 ### § 178 StPO — Höchstdauer der Untersuchungshaft
 
 > `(1)` Bis zum Beginn der Hauptverhandlung darf die Untersuchungshaft folgende Fristen nicht übersteigen:
-> 
+>
 >> `1.` zwei Monate, wenn der Beschuldigte nur aus dem Grunde der Verdunkelungsgefahr \(§ 173 Abs\. 2 Z 2\), im Übrigen
-> 
+>
 >> `2.` sechs Monate, wenn er wegen des Verdachts eines Vergehens, ein Jahr, wenn er wegen des Verdachts eines Verbrechens und zwei Jahre, wenn er wegen des Verdachts eines Verbrechens, das mit einer fünf Jahre übersteigenden Freiheitsstrafe bedroht ist, angehalten wird\.
 
 > `(2)` Über sechs Monate hinaus darf die Untersuchungshaft jedoch nur dann aufrecht erhalten werden, wenn dies wegen besonderer Schwierigkeiten oder besonderen Umfangs der Ermittlungen im Hinblick auf das Gewicht des Haftgrundes unvermeidbar ist\.
@@ -3699,7 +3699,7 @@ Im Sinne dieses Gesetzes ist
 
 ### § 181a StPO — Flucht
 
-Soweit das Opfer dies beantragt hat, ist es von einer Flucht des in Untersuchungshaft angehaltenen Beschuldigten sowie von seiner Wiederergreifung sogleich zu verständigen\. § 172 Abs\. 4 zweiter Satz gilt sinngemäß\. Die Justizanstalt hat die Staatsanwaltschaft unverzüglich von der Flucht und Wiedereinbringung zu verständigen; die Staatsanwaltschaft hat sodann das Opfer zu verständigen\.
+> Soweit das Opfer dies beantragt hat, ist es von einer Flucht des in Untersuchungshaft angehaltenen Beschuldigten sowie von seiner Wiederergreifung sogleich zu verständigen\. § 172 Abs\. 4 zweiter Satz gilt sinngemäß\. Die Justizanstalt hat die Staatsanwaltschaft unverzüglich von der Flucht und Wiedereinbringung zu verständigen; die Staatsanwaltschaft hat sodann das Opfer zu verständigen\.
 
 ## 4. Abschnitt
 
@@ -3712,11 +3712,11 @@ Soweit das Opfer dies beantragt hat, ist es von einer Flucht des in Untersuchung
 > `(2)` Das Leben in Untersuchungshaft soll den allgemeinen Lebensverhältnissen soweit wie möglich angeglichen werden\. Beschränkungen dürfen verhafteten Beschuldigten nur insoweit auferlegt werden, als dies gesetzlich zulässig und zur Erreichung des Haftzwecks \(Abs\. 1\) oder zur Aufrechterhaltung der Sicherheit und Ordnung in der Justizanstalt notwendig ist\.
 
 > `(3)` Beim Vollzug der Untersuchungshaft ist insbesondere darauf Bedacht zu nehmen, dass
-> 
+>
 >> `1.` für Beschuldigte die Vermutung der Unschuld gilt,
-> 
+>
 >> `2.` Beschuldigte ausreichend Gelegenheit zur Vorbereitung ihrer Verteidigung haben und
-> 
+>
 >> `3.` schädlichen Folgen des Freiheitsentzuges auf geeignete Weise entgegengewirkt wird\.
 
 > `(3a)` Ein Waffengebrauch im Sinne des § 105 Abs\. 6 Z 3 StVG ist nur zulässig, wenn der Beschuldigte wegen des Verdachts eines Verbrechens in Untersuchungshaft angehalten wird und auf Grund der Art oder Ausführung der vorgeworfenen Tat, der Persönlichkeit des Beschuldigten oder seines Vorlebens anzunehmen ist, dass er für die Sicherheit des Staates, von Leib und Leben, die sexuelle Integrität oder das Vermögen anderer Personen eine besondere Gefahr darstellt\.
@@ -3739,7 +3739,7 @@ Soweit das Opfer dies beantragt hat, ist es von einer Flucht des in Untersuchung
 
 ### § 184 StPO — Ausführungen
 
-Für Vernehmungen, Ausführungen und Überstellungen von Beschuldigten gelten die Bestimmungen der §§ 97 und 98 StVG sinngemäß mit der Maßgabe, dass
+> Für Vernehmungen, Ausführungen und Überstellungen von Beschuldigten gelten die Bestimmungen der §§ 97 und 98 StVG sinngemäß mit der Maßgabe, dass
 
 > `1.` Vernehmungen auch dann in der Anstalt durchzuführen sind, wenn sie nicht vom Gericht oder von der Staatsanwaltschaft durchgeführt werden,
 
@@ -3772,11 +3772,11 @@ Für Vernehmungen, Ausführungen und Überstellungen von Beschuldigten gelten di
 ### § 188 StPO — Verkehr mit der Außenwelt
 
 > `(1)` Angehaltene Beschuldigte dürfen Besuche innerhalb der festgesetzten Besuchszeiten so oft und in dem zeitlichen Ausmaß empfangen, als die Abwicklung ohne unvertretbaren Aufwand gewährleistet werden kann\. Im Übrigen gelten für den Empfang von Besuchen die §§ 85 bis 87 und 93 bis 96 StVG sinngemäß mit folgenden Maßgaben:
-> 
+>
 >> `1.` Beschuldigten darf nicht verwehrt werden, wenigstens zweimal in jeder Woche einen Besuch in der Dauer von mindestens einer halben Stunde zu empfangen,
-> 
+>
 >> `2.` auf den Inhalt des zwischen einem Beschuldigten und einem Besucher geführten Gesprächs hat sich die Überwachung nur zu erstrecken, wenn dies die Staatsanwaltschaft zur Sicherung des Haftzwecks oder der Anstaltsleiter zur Aufrechterhaltung der Sicherheit in der Anstalt anordnet,
-> 
+>
 >> `3.` der Besuch bestimmter Personen, von denen eine Gefährdung des Zweckes der Untersuchungshaft oder der Sicherheit der Anstalt zu befürchten ist, kann untersagt oder abgebrochen werden\.
 
 > `(2)` Angehaltene Beschuldigte sind berechtigt, auf eigene Kosten mit anderen Personen und Stellen schriftlich zu verkehren und zu telefonieren, es sei denn, dass durch den außerordentlichen Umfang des Brief\- oder Telefonverkehrs die Überwachung beeinträchtigt wird\. In diesem Fall sind diejenigen Beschränkungen anzuordnen, die für eine einwandfreie Überwachung notwendig sind\. Schreiben, von denen eine Beeinträchtigung des Haftzweckes zu befürchten ist, sind zurückzuhalten, soweit sich nicht aus den Bestimmungen der §§ 90a bis 90b und 96a des Strafvollzugsgesetzes über den schriftlichen Verkehr mit Behörden und Rechtsbeiständen etwas anderes ergibt\. Schreiben angehaltener Beschuldigter an einen inländischen allgemeinen Vertretungskörper, ein inländisches Gericht, eine andere inländische Behörde oder an Organe der Europäischen Union sowie an den Europäischen Gerichtshof für Menschenrechte dürfen in keinem Fall zurückgehalten werden\. Für die Überwachung des Inhalts von Telefongesprächen gilt Abs\. 1 Z 2\.
@@ -3801,14 +3801,14 @@ Für Vernehmungen, Ausführungen und Überstellungen von Beschuldigten gelten di
 
 ### § 190 StPO — Einstellung des Ermittlungsverfahrens
 
-Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen und das Ermittlungsverfahren einzustellen, soweit und sobald sich ergibt, dass die dem Ermittlungsverfahren zu Grunde liegende Tat nicht mit gerichtlicher Strafe bedroht ist, die weitere Verfolgung des Beschuldigten sonst aus rechtlichen Gründen unzulässig wäre oder kein tatsächlicher Grund zu dessen weiterer Verfolgung besteht\.
+> Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen und das Ermittlungsverfahren einzustellen, soweit und sobald sich ergibt, dass die dem Ermittlungsverfahren zu Grunde liegende Tat nicht mit gerichtlicher Strafe bedroht ist, die weitere Verfolgung des Beschuldigten sonst aus rechtlichen Gründen unzulässig wäre oder kein tatsächlicher Grund zu dessen weiterer Verfolgung besteht\.
 
 ### § 191 StPO — Einstellung wegen Geringfügigkeit
 
 > `(1)` Von der Verfolgung einer Straftat, die nur mit Geldstrafe, mit einer Freiheitsstrafe bedroht ist, deren Höchstmaß drei Jahre nicht übersteigt, oder mit einer solchen Freiheitsstrafe und Geldstrafe hat die Staatsanwaltschaft abzusehen und das Ermittlungsverfahren einzustellen, wenn
-> 
+>
 >> `1.` in Abwägung der Schuld, der Folgen der Tat und des Verhaltens des Beschuldigten nach der Tat, insbesondere im Hinblick auf eine allfällige Schadensgutmachung, sowie weiterer Umstände, die auf die Strafbemessung Einfluss hätten, der Störwert der Tat als gering anzusehen wäre und
-> 
+>
 >> `2.` eine Bestrafung oder ein Vorgehen nach dem 11\. Hauptstück nicht geboten erscheint, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten oder der Begehung strafbarer Handlungen durch andere entgegen zu wirken\.
 
 > `(2)` Nach Einbringen der Anklage, im Verfahren vor dem Landesgericht als Geschworenen\- oder Schöffengericht nach Rechtswirksamkeit der Anklageschrift wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht unter denselben Voraussetzungen \(Abs\. 1\) das Verfahren bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen\. § 209 Abs\. 2 erster Satz gilt sinngemäß\.
@@ -3816,11 +3816,11 @@ Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen 
 ### § 192 StPO — Einstellung bei mehreren Straftaten
 
 > `(1)` Von der Verfolgung einzelner Straftaten kann die Staatsanwaltschaft endgültig oder unter Vorbehalt späterer Verfolgung absehen und das Ermittlungsverfahren insoweit einstellen, wenn dem Beschuldigten mehrere Straftaten zur Last liegen und
-> 
+>
 >> `1.` dies voraussichtlich weder auf die Strafen oder vorbeugenden Maßnahmen, auf die mit der Verurteilung verbundenen Rechtsfolgen noch auf diversionelle Maßnahmen wesentlichen Einfluss hat oder
-> 
+>
 >> `1a.` die Ermittlungen zur Aufklärung des Verdachts jener Straftaten, deren Nachweis im Fall gemeinsamer Führung keinen Einfluss auf den anzuwendenden Strafrahmen hätte, mit einem beträchtlichen Aufwand verbunden wären und die Erledigung in der Hauptsache verzögern würden, oder
-> 
+>
 >> `2.` der Beschuldigte schon im Ausland für die ihm zur Last liegende Straftat bestraft oder dort nach Diversion außer Verfolgung gesetzt worden ist und nicht anzunehmen ist, dass das inländische Gericht eine strengere Strafe verhängen werde oder er wegen Begehung anderer strafbarer Handlungen an einen anderen Staat ausgeliefert wird und die im Inland zu erwartenden Strafen oder vorbeugenden Maßnahmen gegenüber jenen, auf die voraussichtlich im Ausland erkannt werden wird, nicht ins Gewicht fallen\.
 
 > `(2)` Eine nach Abs\. 1 vorbehaltene Verfolgung kann innerhalb dreier Monate nach rechtskräftigem Abschluss des inländischen oder innerhalb eines Jahres nach rechtskräftigem Abschluss des ausländischen Strafverfahrens wieder aufgenommen werden\. Ein abermaliger Vorbehalt wegen einzelner Straftaten ist sodann unzulässig\.
@@ -3830,9 +3830,9 @@ Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen 
 > `(1)` Nach der Einstellung des Verfahrens sind weitere Ermittlungen gegen den Beschuldigten zu unterlassen; erforderlichenfalls hat die Staatsanwaltschaft seine Freilassung anzuordnen\. Sofern jedoch für eine Entscheidung über die Fortführung des Verfahrens bestimmte Ermittlungen oder Beweisaufnahmen erforderlich sind, kann die Staatsanwaltschaft solche im Einzelnen anordnen oder durchführen\.
 
 > `(2)` Die Fortführung eines nach den §§ 190 oder 191 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, solange die Strafbarkeit der Tat nicht verjährt ist und wenn
-> 
+>
 >> `1.` der Beschuldigte wegen dieser Tat nicht vernommen \(§§ 164, 165\) und kein Zwang gegen ihn ausgeübt wurde oder
-> 
+>
 >> `2.` neue Tatsachen oder Beweismittel entstehen oder bekannt werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, die Bestrafung des Beschuldigten oder ein Vorgehen nach dem 11\. Hauptstück zu begründen\.
 
 > `(3)` Die Fortführung eines nach § 192 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, wenn sie sich die spätere Verfolgung vorbehalten hat \(§ 192 Abs\. 2\) oder die Voraussetzungen des Abs\. 2 Z 2 vorliegen\.
@@ -3844,21 +3844,21 @@ Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen 
 > `(2)` In einer Verständigung von der Einstellung des Ermittlungsverfahrens ist anzuführen, aus welchem Grund \(§§ 190 bis 192\) das Verfahren eingestellt wurde; gegebenenfalls ist der Vorbehalt späterer Verfolgung \(§ 192 Abs\. 2\) aufzunehmen\. Überdies sind Personen, die zur Einbringung eines Antrags auf Fortführung berechtigt sind \(§ 195 Abs\. 1\), über die Möglichkeit der Einbringung eines Antrags auf Fortführung und seine Voraussetzungen sowie darüber zu informieren, dass sie binnen 14 Tagen eine Begründung verlangen können, in welcher die Tatsachen und Erwägungen, die der Einstellung zu Grunde gelegt wurden, in gedrängter Darstellung anzuführen sind\. Das Recht, eine solche Begründung zu verlangen, steht auch dem Beschuldigten zu, worüber er gleichfalls in der Verständigung nach dem ersten Satz zu informieren ist\.
 
 > `(3)` Von der Einstellung eines Ermittlungsverfahrens,
-> 
+>
 >> `1.` das von der WKStA gemäß den Bestimmungen der §§ 20a oder 20b oder von einer anderen Staatsanwaltschaft wegen der in diesen Bestimmungen angeführten Vergehen oder Verbrechen geführt wurde und an dem wegen der Bedeutung der Straftat oder der Person des Beschuldigten ein besonderes öffentliches Interesse besteht, oder in dem noch nicht hinreichend geklärte Rechtsfragen von grundsätzlicher Bedeutung beurteilt wurden, oder
-> 
+>
 >> `2.` das sonst wegen einer Straftat geführt wurde, für das im Hauptverfahren das Landesgericht als Geschworenen\- oder Schöffengericht zuständig wäre und an dem kein Opfer im Sinne des § 65 Z 1 beteiligt war,
-> 
+>
 > &nbsp; ist überdies der Rechtsschutzbeauftragte unter Anführung des Grundes der Einstellung \(§§ 190 bis 192\) samt einer Begründung nach Abs\. 2 zu verständigen\. Auf sein Verlangen ist ihm der Ermittlungsakt zu übersenden, in welchem Fall die Frist zur Einbringung eines Antrags auf Fortführung \(§ 195 Abs\. 2\) mit dem Einlangen des Aktes auf sechs Monate verlängert wird\.
 
 ### § 195 StPO — Antrag auf Fortführung
 
 > `(1)` Solange die Strafbarkeit der Tat nicht verjährt ist, hat das Gericht auf Antrag des Opfers die Fortführung eines nach den §§ 190 bis 192 beendeten Ermittlungsverfahrens durch die Staatsanwaltschaft anzuordnen, wenn
-> 
+>
 >> `1.` das Gesetz verletzt oder unrichtig angewendet wurde,
-> 
+>
 >> `2.` erhebliche Bedenken gegen die Richtigkeit der Tatsachen bestehen, die der Entscheidung über die Beendigung zu Grunde gelegt wurden, oder
-> 
+>
 >> `3.` neue Tatsachen oder Beweismittel beigebracht werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, den Sachverhalt soweit zu klären, dass nach dem 11\. oder 12\. Hauptstück vorgegangen werden kann\.
 
 > `(2)` Der Antrag ist binnen vierzehn Tagen nach Verständigung von der Einstellung \(§ 194\) oder im Fall eines fristgerecht eingebrachten Verlangens nach § 194 Abs\. 2 nach Zustellung der Einstellungsbegründung, wurde jedoch das Opfer von der Einstellung nicht verständigt, innerhalb von drei Monaten ab der Einstellung des Verfahrens bei der Staatsanwaltschaft einzubringen\. Der Antrag eines minderjährigen Opfers bedarf keiner pflegschaftsgerichtlichen Genehmigung\. Der Antrag hat das Verfahren, dessen Fortführung begehrt wird, zu bezeichnen\. Überdies sind die Gründe einzeln und bestimmt zu bezeichnen, aus denen die Verletzung oder unrichtige Anwendung des Gesetzes oder die erheblichen Bedenken abzuleiten sind\. Werden neue Tatsachen oder Beweismittel vorgebracht, so gilt § 55 Abs\. 1 sinngemäß\.
@@ -3912,9 +3912,9 @@ Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen 
 > `(1)` Die Staatsanwaltschaft hat von der Einleitung eines Ermittlungsverfahrens abzusehen, wenn die Führung eines Ermittlungsverfahrens aus rechtlichen Gründen unzulässig wäre oder der angezeigte Sachverhalt sonst keinen Anfangsverdacht einer Straftat \(§ 1 Abs\. 3\) begründet\. Die §§ 25 bis 27 gelten sinngemäß\.
 
 > `(2)` Geht die Staatsanwaltschaft nach Abs\. 1 vor, kann sie ein Ermittlungsverfahren nur einleiten, solange die Strafbarkeit der Tat nicht verjährt ist, und
-> 
+>
 >> `1.` das Gesetz verletzt oder unrichtig angewendet wurde oder
-> 
+>
 >> `2.` neue Tatsachen oder Beweismittel beigebracht werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, einen Anfangsverdacht \(§ 1 Abs\. 3\) zu begründen\.
 
 ### § 197b StPO — Verständigungen
@@ -3925,7 +3925,7 @@ Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen 
 
 ### § 197c StPO — Antrag auf Verfolgung
 
-Im Fall eines Vorgehens nach § 197a Abs\. 1 erster Fall sind Personen, die Opfer \(§ 65 Z 1\) einer Straftat sein könnten, berechtigt, einen Antrag auf Verfolgung dieser Straftat zu stellen\. Für den Antrag und die Entscheidung darüber gelten § 195 und § 196 mit Ausnahme des Abs\. 1 vorletzter und letzter Satz sinngemäß\.
+> Im Fall eines Vorgehens nach § 197a Abs\. 1 erster Fall sind Personen, die Opfer \(§ 65 Z 1\) einer Straftat sein könnten, berechtigt, einen Antrag auf Verfolgung dieser Straftat zu stellen\. Für den Antrag und die Entscheidung darüber gelten § 195 und § 196 mit Ausnahme des Abs\. 1 vorletzter und letzter Satz sinngemäß\.
 
 ## 11. Hauptstück
 
@@ -3934,30 +3934,30 @@ Im Fall eines Vorgehens nach § 197a Abs\. 1 erster Fall sind Personen, die Op
 ### § 198 StPO — Allgemeines
 
 > `(1)` Die Staatsanwaltschaft hat nach diesem Hauptstück vorzugehen und von Verfolgung einer Straftat zurückzutreten, wenn auf Grund hinreichend geklärten Sachverhalts feststeht, dass eine Einstellung des Verfahrens nach den §§ 190 bis 192 nicht in Betracht kommt, eine Bestrafung jedoch im Hinblick auf
-> 
+>
 >> `1.` die Zahlung eines Geldbetrages \(§ 200\) oder
-> 
+>
 >> `2.` die Erbringung gemeinnütziger Leistungen \(§ 201\) oder
-> 
+>
 >> `3.` die Bestimmung einer Probezeit, in Verbindung mit Bewährungshilfe und der Erfüllung von Pflichten \(§ 203\), oder
-> 
+>
 >> `4.` einen Tatausgleich \(§ 204\)
-> 
+>
 > &nbsp; nicht geboten erscheint, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten oder der Begehung strafbarer Handlungen durch andere entgegenzuwirken\.
 
 > `(2)` Ein Vorgehen nach diesem Hauptstück ist jedoch nur zulässig, wenn
-> 
+>
 >> `1.` die Tat nicht mit mehr als fünf Jahren Freiheitsstrafe bedroht ist,
-> 
+>
 >> `2.` die Schuld des Beschuldigten nicht als schwer \(§ 32 StGB\) anzusehen wäre und
-> 
+>
 >> `3.` die Tat nicht den Tod eines Menschen zur Folge gehabt hat, es sei denn, dass ein Angehöriger des Beschuldigten fahrlässig getötet worden ist und eine Bestrafung im Hinblick auf die durch den Tod des Angehörigen beim Beschuldigten verursachte schwere psychische Belastung nicht geboten erscheint\.
 
 > `(3)` Nach diesem Hauptstück darf im Fall des Missbrauchs der Amtsgewalt nach § 302 Abs\. 1 StGB nur vorgegangen werden, soweit der Beschuldigte durch die Tat keine oder eine bloß geringfügige oder sonst unbedeutende Schädigung an Rechten herbeigeführt hat und die Tat nicht auch nach §§ 304 oder 307 StGB mit Strafe bedroht ist\. Im Übrigen ist ein Vorgehen nach diesem Hauptstück ausgeschlossen, soweit es sich um eine im Zehnten Abschnitt des Besonderen Teils des StGB geregelte strafbare Handlung handelt, die mit mehr als dreijähriger Freiheitsstrafe bedroht ist\.
 
 ### § 199 StPO
 
-Nach Einbringen der Anklage wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht die für die Staatsanwaltschaft geltenden Bestimmungen der §§ 198, 200 bis 209b sinngemäß anzuwenden und das Verfahren unter den für die Staatsanwaltschaft geltenden Voraussetzungen bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen\.
+> Nach Einbringen der Anklage wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht die für die Staatsanwaltschaft geltenden Bestimmungen der §§ 198, 200 bis 209b sinngemäß anzuwenden und das Verfahren unter den für die Staatsanwaltschaft geltenden Voraussetzungen bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen\.
 
 ### § 200 StPO — Zahlung eines Geldbetrages
 
@@ -4020,11 +4020,11 @@ Nach Einbringen der Anklage wegen Begehung einer strafbaren Handlung, die von Am
 > `(1)` Nach einem nicht bloß vorläufigen Rücktritt von der Verfolgung des Beschuldigten nach diesem Hauptstück \(§§ 200 Abs\. 5, 201 Abs\. 5, 203 Abs\. 4 und 204 Abs\. 1\) ist eine Fortsetzung des Strafverfahrens nur unter den Voraussetzungen der ordentlichen Wiederaufnahme zulässig\. Vor einem solchen Rücktritt ist das Strafverfahren jedenfalls dann fortzusetzen, wenn der Beschuldigte dies verlangt\.
 
 > `(2)` Hat die Staatsanwaltschaft dem Beschuldigten vorgeschlagen, einen Geldbetrag zu bezahlen \(§ 200 Abs\. 4\), gemeinnützige Leistungen zu erbringen \(§ 201 Abs\. 4\) oder eine Probezeit und allfällige Pflichten auf sich zu nehmen \(§ 203 Abs\. 3\), oder ist die Staatsanwaltschaft von der Verfolgung der Straftat vorläufig zurückgetreten \(§§ 201 Abs\. 1, 203 Abs\. 1, 204 Abs\. 3\), so hat sie das Strafverfahren fortzusetzen, wenn
-> 
+>
 >> `1.` der Beschuldigte den Geldbetrag samt allfälliger Schadensgutmachung, oder die gemeinnützigen Leistungen samt allfälligem Tatfolgenausgleich nicht vollständig oder nicht rechtzeitig zahlt oder erbringt oder wenn eine Ausgleichsvereinbarung nicht zustande kommt oder diese vom Beschuldigten nicht erfüllt wird,
-> 
+>
 >> `2.` der Beschuldigte übernommene Pflichten nicht hinreichend erfüllt, den Pauschalkostenbeitrag \(§ 388 Abs\. 1 und 2\) nicht leistet oder sich beharrlich dem Einfluss des Bewährungshelfers entzieht oder
-> 
+>
 >> `3.` gegen den Beschuldigten vor Ablauf der Probezeit oder vor Erstattung des abschließenden Berichts nach § 204 Abs\. 4 wegen einer anderen Straftat ein Strafverfahren eingeleitet wird\. In diesem Fall ist die nachträgliche Fortsetzung des Verfahrens zulässig, sobald gegen den Beschuldigten wegen der neuen oder neu hervorgekommenen Straftat Anklage eingebracht wird, und zwar auch noch während dreier Monate nach dem Einbringen, selbst wenn inzwischen die Probezeit abgelaufen ist\. Das nachträglich fortgesetzte Strafverfahren ist jedoch nach Maßgabe der übrigen Voraussetzungen zu beenden, wenn das neue Strafverfahren auf andere Weise als durch einen Schuldspruch beendet wird\.
 
 > `(3)` Von der Fortsetzung des Verfahrens kann jedoch abgesehen werden, wenn dies in den Fällen des Abs\. 2 Z 1 aus besonderen Gründen vertretbar erscheint, in den Fällen des Abs\. 2 Z 2 und 3 nach den Umständen nicht geboten ist, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten\. Im Übrigen ist die Fortsetzung des Verfahrens in den im Abs\. 2 angeführten Fällen außer unter den in Z 1 bis 3 angeführten Voraussetzungen nur zulässig, wenn der Beschuldigte den dort erwähnten Vorschlag der Staatsanwaltschaft nicht annimmt\.
@@ -4041,7 +4041,7 @@ Nach Einbringen der Anklage wegen Begehung einer strafbaren Handlung, die von Am
 
 ### § 207 StPO — Information des Beschuldigten
 
-Bei einem Vorgehen nach diesem Hauptstück ist der Beschuldigte eingehend über seine Rechte zu informieren, insbesondere über die Voraussetzungen für einen Rücktritt von der Verfolgung, über das Erfordernis seiner Zustimmung, über seine Möglichkeit, eine Fortsetzung des Verfahrens zu verlangen, über die sonstigen Umstände, die eine Fortsetzung des Verfahrens bewirken können \(§ 205 Abs\. 2\) und über die Notwendigkeit eines Pauschalkostenbeitrags \(§ 388\)\.
+> Bei einem Vorgehen nach diesem Hauptstück ist der Beschuldigte eingehend über seine Rechte zu informieren, insbesondere über die Voraussetzungen für einen Rücktritt von der Verfolgung, über das Erfordernis seiner Zustimmung, über seine Möglichkeit, eine Fortsetzung des Verfahrens zu verlangen, über die sonstigen Umstände, die eine Fortsetzung des Verfahrens bewirken können \(§ 205 Abs\. 2\) und über die Notwendigkeit eines Pauschalkostenbeitrags \(§ 388\)\.
 
 ### § 208 StPO — Gemeinsame Bestimmungen
 
@@ -4062,13 +4062,13 @@ Bei einem Vorgehen nach diesem Hauptstück ist der Beschuldigte eingehend über 
 ### § 209a StPO — Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft
 
 > `(1)` Der Täter einer Straftat,
-> 
+>
 >> `1.` die der Zuständigkeit des Landesgerichts als Schöffen\- oder Geschworenengericht \(§ 31 Abs\. 2 und 3\) unterliegt,
-> 
+>
 >> `2.` die der Zuständigkeit der WKStA \(§ 20a\) unterliegt oder die Kriterien des § 20b erfüllt, oder
-> 
+>
 >> `3.` nach den §§ 277, 278, 278a oder 278b StGB oder einer Tat, die mit einer solchen Verabredung, Vereinigung oder Organisation im Zusammenhang steht,
-> 
+>
 > &nbsp; hat nach Maßgabe der Abs\. 2 und 3 das Recht, ein Vorgehen nach den §§ 199, 200 bis 203 und 205 bis 209 zu verlangen, wenn er freiwillig an die Staatsanwaltschaft oder die Kriminalpolizei herantritt, ein reumütiges Geständnis \(§ 34 Abs\. 1 Z 17 StGB\) über seinen Tatbeitrag ablegt und sein Wissen über neue Tatsachen oder Beweismittel offenbart, deren Kenntnis wesentlich dazu beiträgt, die umfassende Aufklärung einer in den Z 1 bis 3 genannten Straftaten über seinen eigenen Tatbeitrag hinaus zu fördern oder eine Person auszuforschen, die an einer solchen Verabredung führend teilgenommen hat oder in einer solchen Vereinigung oder Organisation führend tätig war \(Z 3\)\.
 
 > `(2)` Soweit der Täter wegen seiner Kenntnisse über in Abs\. 1 genannte Taten noch nicht als Beschuldigter vernommen \(§§ 48 Abs\. 1 Z 2, 164, 165\) und wegen dieser Taten kein Zwang gegen ihn ausgeübt wurde, hat die Staatsanwaltschaft von der Verfolgung der Straftat dieser Person vorläufig zurückzutreten, es sei denn, das Vorliegen der Voraussetzungen nach Abs\. 1 ist von vornherein ausgeschlossen\.
@@ -4078,11 +4078,11 @@ Bei einem Vorgehen nach diesem Hauptstück ist der Beschuldigte eingehend über 
 > `(4)` Nach Erbringung der Leistungen hat die Staatsanwaltschaft das Ermittlungsverfahren unter dem Vorbehalt späterer Verfolgung einzustellen\.
 
 > `(5)` Wenn
-> 
+>
 >> `1.` die eingegangene Verpflichtung zur Zusammenarbeit bei der Aufklärung verletzt wurde oder
-> 
+>
 >> `2.` die zur Verfügung gestellten Unterlagen und Informationen falsch waren, keinen wesentlichen Beitrag im Sinn des Abs\. 1 zu liefern vermochten oder nur zur Verschleierung der eigenen führenden Tätigkeit in einer in Abs\. 1 Z 3 genannten Verabredung, Vereinigung oder Organisation gegeben wurden,
-> 
+>
 > &nbsp; kann die nach Abs\. 4 vorbehaltene Verfolgung wieder aufgenommen werden, es sei denn, dass die Staatsanwaltschaft die für die Wiederaufnahme erforderlichen Anordnungen nicht binnen einer Frist von vierzehn Tagen ab Zustellung der das Verfahren beendenden Entscheidung gestellt hat, in der einer der in Z 1 oder 2 umschriebenen Umstände festgestellt wurde\.
 
 > `(6)` Die Staatsanwaltschaft hat ihre Anordnung nach Abs\. 4 dem Rechtsschutzbeauftragten samt einer Begründung für das Vorgehen zuzustellen\. Der Rechtsschutzbeauftragte ist berechtigt, binnen drei Monaten die Fortführung des Verfahrens zu beantragen\. Auf sein Verlangen ist ihm der Ermittlungsakt zu übersenden, in welchem Fall der Fristenlauf mit dem Einlangen des Aktes beginnt\. §§ 195 Abs\. 3 und 196 gelten sinngemäß\.
@@ -4124,18 +4124,18 @@ Bei einem Vorgehen nach diesem Hauptstück ist der Beschuldigte eingehend über 
 ### § 211 StPO — Inhalt der Anklageschrift
 
 > `(1)` Die Anklageschrift hat anzuführen:
-> 
+>
 >> `1.` den Namen des Angeklagten sowie weitere Angaben zur Person,
-> 
+>
 >> `2.` Zeit, Ort und die näheren Umstände der Begehung der dem Angeklagten zur Last gelegten Tat und die gesetzliche Bezeichnung der durch sie verwirklichten strafbaren Handlung,
-> 
+>
 >> `3.` die übrigen anzuwendenden Strafgesetze\.
 
 > `(2)` In der Anklageschrift hat die Staatsanwaltschaft ihre Anträge für das Hauptverfahren zu stellen und dabei insbesondere auch die Beweise anzuführen, die im Hauptverfahren aufgenommen werden sollen; die Zuständigkeit des angerufenen Gerichts ist erforderlichenfalls zu begründen\. Schließlich ist der Sachverhalt nach den Ergebnissen des Ermittlungsverfahrens zusammenzufassen und zu beurteilen\.
 
 ### § 212 StPO — Einspruch gegen die Anklageschrift
 
-Gegen die Anklageschrift steht dem Angeklagten Einspruch zu, wenn
+> Gegen die Anklageschrift steht dem Angeklagten Einspruch zu, wenn
 
 > `1.` die zur Last gelegte Tat nicht mit gerichtlicher Strafe bedroht ist oder sonst ein Grund vorliegt, der die Verurteilung des Angeklagten aus rechtlichen Gründen ausschließt,
 
@@ -4193,7 +4193,7 @@ Gegen die Anklageschrift steht dem Angeklagten Einspruch zu, wenn
 
 ### § 220 StPO — Vorbereitungen zur Hauptverhandlung
 
-Beteiligte des Hauptverfahrens sind neben der Staatsanwaltschaft \(§ 210 Abs\. 2\) der Angeklagte \(§ 48 Abs\. 1 Z 2\), der Haftungsbeteiligte \(§ 64\), der Privatankläger \(§ 71\), der Subsidiarankläger \(§ 72\) sowie der Privatbeteiligte \(§ 67\)\.
+> Beteiligte des Hauptverfahrens sind neben der Staatsanwaltschaft \(§ 210 Abs\. 2\) der Angeklagte \(§ 48 Abs\. 1 Z 2\), der Haftungsbeteiligte \(§ 64\), der Privatankläger \(§ 71\), der Subsidiarankläger \(§ 72\) sowie der Privatbeteiligte \(§ 67\)\.
 
 ### § 221 StPO
 
@@ -4215,18 +4215,18 @@ Beteiligte des Hauptverfahrens sind neben der Staatsanwaltschaft \(§ 210 Abs\.
 
 ### § 223 StPO
 
-*\(Aufgehoben\)*
+> *\(Aufgehoben\)*
 
 ### § 226 StPO
 
 > `(1)` Die Hauptverhandlung kann auf Antrag eines Beteiligten des Verfahrens oder von Amts wegen durch Beschluss des Vorsitzenden vertagt werden, wenn
-> 
+>
 >> `1.` sich dem rechtzeitigen Erscheinen eines Beteiligten ein für ihn unabwendbares oder doch ein sehr erhebliches Hindernis entgegenstellt;
-> 
+>
 >> `2.` das Gericht durch anderweitige unaufschiebbare Amtshandlungen oder aus sonstigen wichtigen Gründen an der Durchführung der Hauptverhandlung verhindert ist;
-> 
+>
 >> `3.` eine in der Hauptverhandlung nicht sofort durchführbare, für die Urteilsfällung jedoch wesentliche Beweisaufnahme angeordnet wird;
-> 
+>
 >> `4.` die Hauptverhandlung aus anderen Gründen nicht geschlossen werden kann\.
 
 > `(2)` Ein Antrag auf Vertagung ist zu begründen, gegebenenfalls vorhandene Bescheinigungsmittel sind vorzulegen\.
@@ -4262,11 +4262,11 @@ Beteiligte des Hauptverfahrens sind neben der Staatsanwaltschaft \(§ 210 Abs\.
 ### § 229 StPO
 
 > `(1)` Die Öffentlichkeit einer Hauptverhandlung darf von Amts wegen oder auf Antrag eines Beteiligten des Verfahrens oder eines Opfers ausgeschlossen werden:
-> 
+>
 >> `1.` wegen Gefährdung der öffentlichen Ordnung oder der nationalen Sicherheit;
-> 
+>
 >> `2.` vor Erörterung des persönlichen Lebens\- oder Geheimnisbereiches eines Angeklagten, Opfers, Zeugen oder Dritten;
-> 
+>
 >> `3.` zum Schutz der Identität eines Zeugen oder eines Dritten aus den in § 162 angeführten Gründen\.
 
 > `(2)` Über einen Ausschluss gemäß Abs\. 1 entscheidet das Schöffengericht in jeder Lage des Verfahrens mit Beschluss\. Der Ausschluss kann das gesamte Verfahren oder einen Teil dessen umfassen, insoweit dies bei Überwiegen der schutzwürdigen Interessen \(Abs\. 1\) geboten ist\.
@@ -4283,9 +4283,9 @@ Beteiligte des Hauptverfahrens sind neben der Staatsanwaltschaft \(§ 210 Abs\.
 
 ### § 230a StPO
 
-Soweit die Öffentlichkeit einer Verhandlung ausgeschlossen worden ist, ist es untersagt, Mitteilungen daraus zu veröffentlichen\. Auch kann das Gericht den anwesenden Personen die Geheimhaltung der Tatsachen zur Pflicht machen, die durch die Verhandlung zu ihrer Kenntnis gelangen\. Dieser Beschluß ist im Verhandlungsprotokoll zu beurkunden\.
-
-*\(BGBl\. Nr\. 423/1974, Art\. I Z\. 70\)*
+> Soweit die Öffentlichkeit einer Verhandlung ausgeschlossen worden ist, ist es untersagt, Mitteilungen daraus zu veröffentlichen\. Auch kann das Gericht den anwesenden Personen die Geheimhaltung der Tatsachen zur Pflicht machen, die durch die Verhandlung zu ihrer Kenntnis gelangen\. Dieser Beschluß ist im Verhandlungsprotokoll zu beurkunden\.
+>
+> *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 70\)*
 
 ## 2. Amtsverrichtungen des Vorsitzenden und des Schöffengerichts während der Hauptverhandlung
 
@@ -4309,11 +4309,11 @@ Soweit die Öffentlichkeit einer Verhandlung ausgeschlossen worden ist, ist es u
 
 ### § 234 StPO
 
-Wenn der Angeklagte die Ordnung der Verhandlung durch ungeziemendes Benehmen stört und ungeachtet der Ermahnung des Vorsitzenden und der Androhung, daß er aus der Sitzung werde entfernt werden, nicht davon absteht, so kann er durch Beschluß des Schöffengerichts auf einige Zeit oder für die ganze Dauer der Verhandlung aus dieser entfernt, die Sitzung in seiner Abwesenheit fortgesetzt und ihm das Urteil durch ein Mitglied des Schöffengerichts in Gegenwart des Schriftführers verkündet werden\.
+> Wenn der Angeklagte die Ordnung der Verhandlung durch ungeziemendes Benehmen stört und ungeachtet der Ermahnung des Vorsitzenden und der Androhung, daß er aus der Sitzung werde entfernt werden, nicht davon absteht, so kann er durch Beschluß des Schöffengerichts auf einige Zeit oder für die ganze Dauer der Verhandlung aus dieser entfernt, die Sitzung in seiner Abwesenheit fortgesetzt und ihm das Urteil durch ein Mitglied des Schöffengerichts in Gegenwart des Schriftführers verkündet werden\.
 
 ### § 235 StPO
 
-Der Vorsitzende hat darüber zu wachen, daß gegen niemand Beschimpfungen oder offenbar ungegründete oder zur Sache nicht gehörige Beschuldigungen vorgebracht werden\. Haben sich Angeklagte, Privatankläger, Privatbeteiligte, Opfer, Haftungsbeteiligte, Zeugen oder Sachverständige solche Äußerungen erlaubt, so kann das Schöffengericht gegen sie auf Antrag des Betroffenen oder der Staatsanwaltschaft oder von Amts wegen gemäß §§ 233 Abs\. 3 und 234 vorgehen\. Gegebenenfalls ist der Betroffene über seine Rechte zu belehren\.
+> Der Vorsitzende hat darüber zu wachen, daß gegen niemand Beschimpfungen oder offenbar ungegründete oder zur Sache nicht gehörige Beschuldigungen vorgebracht werden\. Haben sich Angeklagte, Privatankläger, Privatbeteiligte, Opfer, Haftungsbeteiligte, Zeugen oder Sachverständige solche Äußerungen erlaubt, so kann das Schöffengericht gegen sie auf Antrag des Betroffenen oder der Staatsanwaltschaft oder von Amts wegen gemäß §§ 233 Abs\. 3 und 234 vorgehen\. Gegebenenfalls ist der Betroffene über seine Rechte zu belehren\.
 
 ### § 236 StPO
 
@@ -4325,7 +4325,7 @@ Der Vorsitzende hat darüber zu wachen, daß gegen niemand Beschimpfungen oder o
 
 ### § 236a StPO
 
-Macht sich ein Vertreter eines Beteiligten des Verfahrens, der der Disziplinargewalt einer Standesbehörde unterliegt, des im § 235 umschriebenen Verhaltens schuldig oder verletzt er die dem Gerichte gebührende Achtung, so kann der Vorsitzende nach Abmahnung die im § 236 Abs\. 2 vorgesehenen Maßnahmen treffen\.
+> Macht sich ein Vertreter eines Beteiligten des Verfahrens, der der Disziplinargewalt einer Standesbehörde unterliegt, des im § 235 umschriebenen Verhaltens schuldig oder verletzt er die dem Gerichte gebührende Achtung, so kann der Vorsitzende nach Abmahnung die im § 236 Abs\. 2 vorgesehenen Maßnahmen treffen\.
 
 ### § 237 StPO
 
@@ -4347,11 +4347,11 @@ Macht sich ein Vertreter eines Beteiligten des Verfahrens, der der Disziplinarge
 
 ### § 239 StPO
 
-Die Hauptverhandlung beginnt mit dem Aufruf der Sache\. Der Angeklagte erscheint ungefesselt, jedoch, wenn er in Untersuchungshaft ist, in Begleitung einer Wache\. In den in § 174 Abs\. 1 geregelten Fällen kann bei Angeklagten, die in Untersuchungshaft angehalten werden, gemäß § 153 Abs\. 4 vorgegangen werden\. Die zur Beweisführung etwa erforderlichen Gegenstände, die dem Angeklagten oder den Zeugen zur Anerkennung vorzulegen sind, müssen vor dem Beginn der Verhandlung in den Gerichtssaal gebracht werden\.
+> Die Hauptverhandlung beginnt mit dem Aufruf der Sache\. Der Angeklagte erscheint ungefesselt, jedoch, wenn er in Untersuchungshaft ist, in Begleitung einer Wache\. In den in § 174 Abs\. 1 geregelten Fällen kann bei Angeklagten, die in Untersuchungshaft angehalten werden, gemäß § 153 Abs\. 4 vorgegangen werden\. Die zur Beweisführung etwa erforderlichen Gegenstände, die dem Angeklagten oder den Zeugen zur Anerkennung vorzulegen sind, müssen vor dem Beginn der Verhandlung in den Gerichtssaal gebracht werden\.
 
 ### § 240 StPO
 
-Der Vorsitzende befragt hierauf den Angeklagten um seinen Vor\- und Familiennamen sowie alle früher geführten Namen, Tag und Ort seiner Geburt, seine Staatsangehörigkeit, die Vornamen seiner Eltern, seinen Beruf, seine Anschrift und erforderlichenfalls über andere persönliche Verhältnisse und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung\.
+> Der Vorsitzende befragt hierauf den Angeklagten um seinen Vor\- und Familiennamen sowie alle früher geführten Namen, Tag und Ort seiner Geburt, seine Staatsangehörigkeit, die Vornamen seiner Eltern, seinen Beruf, seine Anschrift und erforderlichenfalls über andere persönliche Verhältnisse und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung\.
 
 ### § 240a StPO
 
@@ -4414,7 +4414,7 @@ Der Vorsitzende befragt hierauf den Angeklagten um seinen Vor\- und Familienname
 
 ### § 247 StPO
 
-Zeugen und Sachverständige werden einzeln aufgerufen und in Anwesenheit der Beteiligten des Verfahrens vernommen\. Sie sind vor ihrer Vernehmung zur Angabe der Wahrheit zu erinnern und über die Folgen einer falschen Aussage zu belehren\.
+> Zeugen und Sachverständige werden einzeln aufgerufen und in Anwesenheit der Beteiligten des Verfahrens vernommen\. Sie sind vor ihrer Vernehmung zur Angabe der Wahrheit zu erinnern und über die Folgen einer falschen Aussage zu belehren\.
 
 ### § 247a StPO
 
@@ -4448,20 +4448,20 @@ Zeugen und Sachverständige werden einzeln aufgerufen und in Anwesenheit der Bet
 
 ### § 251 StPO
 
-Die Beteiligten des Verfahrens können verlangen, dass sich Zeugen nach ihrer Vernehmung aus dem in § 248 Abs\. 1 letzter Satz genannten Grund aus dem Sitzungssaal entfernen und später wieder aufgerufen und entweder allein oder in Gegenwart anderer Zeugen erneut vernommen werden\. Der Vorsitzende kann dies auch von Amts wegen anordnen\.
+> Die Beteiligten des Verfahrens können verlangen, dass sich Zeugen nach ihrer Vernehmung aus dem in § 248 Abs\. 1 letzter Satz genannten Grund aus dem Sitzungssaal entfernen und später wieder aufgerufen und entweder allein oder in Gegenwart anderer Zeugen erneut vernommen werden\. Der Vorsitzende kann dies auch von Amts wegen anordnen\.
 
 ### § 252 StPO
 
 > `(1)` Protokolle über die Vernehmung von Mitbeschuldigten und Zeugen, Protokolle über die Aufnahme von Beweisen, Amtsvermerke und andere amtliche Schriftstücke, in denen Aussagen von Zeugen oder Mitbeschuldigten festgehalten worden sind, Gutachten von Sachverständigen sowie Ton\- und Bildaufnahmen über die Vernehmung von Mitbeschuldigten oder Zeugen dürfen bei sonstiger Nichtigkeit nur in den folgenden Fällen verlesen oder vorgeführt werden:
-> 
+>
 >> `1.` wenn die Vernommenen in der Zwischenzeit gestorben sind; wenn ihr Aufenthalt unbekannt oder ihr persönliches Erscheinen wegen ihres Alters, wegen Krankheit oder Gebrechlichkeit oder wegen entfernten Aufenthaltes oder aus anderen erheblichen Gründen füglich nicht bewerkstelligt werden konnte;
-> 
+>
 >> `2.` wenn die in der Hauptverhandlung Vernommenen in wesentlichen Punkten von ihren früher abgelegten Aussagen abweichen;
-> 
+>
 >> `2a.` wenn Zeugen die Aussage berechtigt verweigern \(§§ 156, 157 und 158\) und die Staatsanwaltschaft und der Angeklagte Gelegenheit hatten, sich an einer gerichtlichen Vernehmung zu beteiligen \(§§ 165, 247\);
-> 
+>
 >> `3.` wenn Zeugen, ohne dazu berechtigt zu sein, oder wenn Mitangeklagte die Aussage verweigern; endlich
-> 
+>
 >> `4.` wenn über die Vorlesung Ankläger und Angeklagter einverstanden sind\.
 
 > `(2)` Amtsvermerke über einen Augenschein \(§ 149 Abs\. 2\) und Befunde, gegen den Angeklagten früher ergangene Straferkenntnisse sowie Urkunden und Schriftstücke anderer Art, die für die Sache von Bedeutung sind, müssen vorgelesen werden\.
@@ -4474,7 +4474,7 @@ Die Beteiligten des Verfahrens können verlangen, dass sich Zeugen nach ihrer Ve
 
 ### § 253 StPO
 
-Im Laufe oder am Schlusse des Beweisverfahrens läßt der Vorsitzende dem Angeklagten und, soweit es nötig ist, den Zeugen und Sachverständigen die Gegenstände, die zur Aufklärung des Sachverhaltes dienen können, vorlegen und fordert sie auf, sich zu erklären, ob sie diese anerkennen\.
+> Im Laufe oder am Schlusse des Beweisverfahrens läßt der Vorsitzende dem Angeklagten und, soweit es nötig ist, den Zeugen und Sachverständigen die Gegenstände, die zur Aufklärung des Sachverhaltes dienen können, vorlegen und fordert sie auf, sich zu erklären, ob sie diese anerkennen\.
 
 ### § 254 StPO
 
@@ -4502,7 +4502,7 @@ Im Laufe oder am Schlusse des Beweisverfahrens läßt der Vorsitzende dem Angekl
 
 ### § 257 StPO
 
-Nachdem der Vorsitzende die Verhandlung für geschlossen erklärt hat, zieht sich das Schöffengericht zur Urteilsfällung in das Beratungszimmer zurück\. Der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt\.
+> Nachdem der Vorsitzende die Verhandlung für geschlossen erklärt hat, zieht sich das Schöffengericht zur Urteilsfällung in das Beratungszimmer zurück\. Der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt\.
 
 ### § 258 StPO
 
@@ -4514,7 +4514,7 @@ Nachdem der Vorsitzende die Verhandlung für geschlossen erklärt hat, zieht sic
 
 ### § 259 StPO
 
-Der Angeklagte wird durch Urteil des Schöffengerichts von der Anklage freigesprochen:
+> Der Angeklagte wird durch Urteil des Schöffengerichts von der Anklage freigesprochen:
 
 > `1.` wenn sich zeigt, daß das Strafverfahren ohne den Antrag eines gesetzlich berechtigten Anklägers eingeleitet oder gegen dessen Willen fortgesetzt worden sei;
 
@@ -4525,22 +4525,22 @@ Der Angeklagte wird durch Urteil des Schöffengerichts von der Anklage freigespr
 ### § 260 StPO
 
 > `(1)` Wird der Angeklagte schuldig befunden, so muß das Strafurteil aussprechen:
-> 
+>
 >> `1.` welcher Tat der Angeklagte schuldig befunden worden ist, und zwar unter ausdrücklicher Bezeichnung der einen bestimmten Strafsatz bedingenden Tatumstände;
-> 
+>
 >> `2.` welche strafbare Handlung durch die als erwiesen angenommenen Tatsachen, deren der Angeklagte schuldig befunden worden ist, begründet wird, unter gleichzeitigem Ausspruch, ob die strafbare Handlung ein Verbrechen oder ein Vergehen ist;
-> 
+>
 >> `3.` zu welcher Strafe der Angeklagte verurteilt wird;  
 >> &nbsp; und zwar diese drei Punkte bei sonstiger Nichtigkeit; außerdem ist noch beizufügen:
-> 
+>
 >> `4.` welche strafgesetzlichen Bestimmungen auf ihn angewendet wurden;
-> 
+>
 >> `5.` die Entscheidung über die geltend gemachten Entschädigungsansprüche und über die Prozeßkosten\.
 
 > `(2)` Wird der Angeklagte wegen vorsätzlicher und fahrlässiger Taten
-> 
+>
 >> `1.` zu einer mehr als einjährigen Freiheitsstrafe verurteilt, so ist im Anschluss an den Strafausspruch festzustellen, ob auf eine oder mehrere vorsätzlich begangene Straftaten eine mehr als einjährige Freiheitsstrafe entfällt, oder
-> 
+>
 >> `2.` zu einer nicht bedingt nachgesehenen Freiheitsstrafe von mehr als sechs Monaten verurteilt, so ist im Anschluss an den Strafausspruch festzustellen, ob auf eine oder mehrere vorsätzlich begangene Straftaten eine nicht bedingt nachgesehene Freiheitsstrafe von mehr als sechs Monaten entfällt\.
 
 > `(3)` Ist die im Abs\. 2 genannte Feststellung im Strafurteil unterblieben, so ist sie von Amts wegen oder auf Antrag eines zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten mit Beschluß nachzuholen\. Gegen diesen Beschluß, der dem Ankläger und dem Angeklagten zuzustellen ist, steht jedem zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten die binnen vierzehn Tagen einzubringende Beschwerde an das Oberlandesgericht zu\. Ist außer über die Beschwerde noch über eine von wem immer ergriffene Nichtigkeitsbeschwerde zu entscheiden, so entscheidet der Oberste Gerichtshof auch über die Beschwerde\.
@@ -4553,7 +4553,7 @@ Der Angeklagte wird durch Urteil des Schöffengerichts von der Anklage freigespr
 
 ### § 262 StPO
 
-Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen an sich oder in Verbindung mit den erst in der Hauptverhandlung hervorgetretenen Umständen eine andere als die in der Anklage bezeichnete, nicht einem Gerichte höherer Ordnung vorbehaltene strafbare Handlung begründen, so hat es die Beteiligten des Verfahrens über den geänderten rechtlichen Gesichtspunkt zu hören und über einen allfälligen Vertagungsantrag zu entscheiden\. Das Urteil schöpft es nach seiner rechtlichen Überzeugung, ohne an die in der Anklageschrift enthaltene Bezeichnung der Tat gebunden zu sein\.
+> Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen an sich oder in Verbindung mit den erst in der Hauptverhandlung hervorgetretenen Umständen eine andere als die in der Anklage bezeichnete, nicht einem Gerichte höherer Ordnung vorbehaltene strafbare Handlung begründen, so hat es die Beteiligten des Verfahrens über den geänderten rechtlichen Gesichtspunkt zu hören und über einen allfälligen Vertagungsantrag zu entscheiden\. Das Urteil schöpft es nach seiner rechtlichen Überzeugung, ohne an die in der Anklageschrift enthaltene Bezeichnung der Tat gebunden zu sein\.
 
 ### § 263 StPO
 
@@ -4579,15 +4579,15 @@ Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen
 
 ### § 265a StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 82\)*
+> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 82\)*
 
 ### § 265b StPO
 
-*\(Aufgehoben\)*
+> *\(Aufgehoben\)*
 
 ### § 265c StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 82\)*
+> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 82\)*
 
 ### § 266 StPO
 
@@ -4597,42 +4597,42 @@ Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen
 
 ### § 267 StPO
 
-An die Anträge des Anklägers ist das Schöffengericht nur insoweit gebunden, daß es den Angeklagten nicht einer Tat schuldig erklären kann, auf die die Anklage weder ursprünglich gerichtet noch während der Hauptverhandlung ausgedehnt wurde \(§ 4 Abs\. 3\)\.
+> An die Anträge des Anklägers ist das Schöffengericht nur insoweit gebunden, daß es den Angeklagten nicht einer Tat schuldig erklären kann, auf die die Anklage weder ursprünglich gerichtet noch während der Hauptverhandlung ausgedehnt wurde \(§ 4 Abs\. 3\)\.
 
 ## 8. Verkündung und Ausfertigung des Urteiles
 
 ### § 268 StPO
 
-Unmittelbar nach dem Beschlusse des Schöffengerichts ist der Angeklagte wieder vorzuführen oder vorzurufen und ist in öffentlicher Sitzung vom Vorsitzenden das Urteil samt dessen wesentlichen Gründen unter Verlesung der angewendeten Gesetzesbestimmungen zu verkünden\. Zugleich belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel\.
+> Unmittelbar nach dem Beschlusse des Schöffengerichts ist der Angeklagte wieder vorzuführen oder vorzurufen und ist in öffentlicher Sitzung vom Vorsitzenden das Urteil samt dessen wesentlichen Gründen unter Verlesung der angewendeten Gesetzesbestimmungen zu verkünden\. Zugleich belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel\.
 
 ### § 269 StPO
 
-Hat sich der Angeklagte zur Urteilsverkündung nicht eingefunden, so kann der Vorsitzende ihn zu diesem Zwecke vorführen lassen oder anordnen, daß ihm das Urteil entweder durch einen hiezu abgeordneten Richter mündlich eröffnet oder in Abschrift zugestellt werde\.
+> Hat sich der Angeklagte zur Urteilsverkündung nicht eingefunden, so kann der Vorsitzende ihn zu diesem Zwecke vorführen lassen oder anordnen, daß ihm das Urteil entweder durch einen hiezu abgeordneten Richter mündlich eröffnet oder in Abschrift zugestellt werde\.
 
 ### § 270 StPO
 
 > `(1)` Jedes Urteil muß binnen vier Wochen vom Tage der Verkündung schriftlich ausgefertigt und vom Vorsitzenden unterschrieben werden\.
 
 > `(2)` Die Urteilsausfertigung muß enthalten:
-> 
+>
 >> `1.` die Bezeichnung des Gerichtes und die Namen der anwesenden Mitglieder des Schöffengerichts sowie der Beteiligten des Verfahrens;
-> 
+>
 >> `2.` den Vor\- und den Familiennamen sowie alle früher geführten Namen, Tag und Ort der Geburt, die Staatsangehörigkeit und den Beruf des Angeklagten sowie den Namen des Verteidigers;
-> 
+>
 >> `3.` den Tag der Hauptverhandlung und des ergehenden Urteiles;
-> 
+>
 >> `4.` den Ausspruch des Schöffengerichts über die Schuld des Angeklagten, und zwar im Fall einer Verurteilung mit allen in § 260 angeführten Punkten; schließlich
-> 
+>
 >> `5.` die Entscheidungsgründe\. In diesen muß in gedrängter Darstellung, aber mit voller Bestimmtheit angegeben sein, welche Tatsachen und aus welchen Gründen das Schöffengericht sie als erwiesen oder als nicht erwiesen angenommen hat, von welchen Erwägungen es bei der Entscheidung der Rechtsfragen und bei Beseitigung der vorgebrachten Einwendungen geleitet wurde und, im Fall einer Verurteilung, welche Erschwerungs\- und Milderungsumstände es gefunden hat\. Im Falle einer Verurteilung zu einer in Tagessätzen bemessenen Geldstrafe sind die für die Bemessung des Tagessatzes maßgebenden Umstände \(§ 19 Abs\. 2 StGB\) anzugeben\. Bei einem freisprechenden Urteile haben die Entscheidungsgründe insbesondere deutlich anzugeben, aus welchem der im § 259 angegebenen Gründe sich das Schöffengericht zur Freisprechung bestimmt gefunden hat\.
 
 > `(3)` Schreib\- und Rechenfehler, ferner solche Formgebrechen und Auslassungen, die nicht die im § 260 Abs\. 1 Z\. 1 bis 3 und Abs\. 2 erwähnten Punkte betreffen, hat der Vorsitzende jederzeit, allenfalls nach Anhörung der Beteiligten, zu berichtigen\. Die Zurückweisung eines auf eine solche Berichtigung abzielenden Antrages sowie die vorgenommene Berichtigung können von jedem zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten oder sonst Beteiligten mit der binnen vierzehn Tagen einzubringenden Beschwerde an das Oberlandesgericht angefochten werden\. Ist außer über die Beschwerde noch über eine von wem immer ergriffene Nichtigkeitsbeschwerde zu entscheiden, so entscheidet der Oberste Gerichtshof auch über die Beschwerde\. Die beschlossene Verbesserung ist am Rande des Urteils beizusetzen und muß allen Ausfertigungen beigefügt werden\.
 
 > `(4)` Verzichten die Beteiligten des Verfahrens auf ein Rechtsmittel oder melden sie innerhalb der dafür offen stehenden Frist kein Rechtsmittel an, so kann das Urteil in gekürzter Form ausgefertigt werden, es sei denn, dass eine zwei Jahre übersteigende Freiheitsstrafe verhängt oder eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme oder ein Tätigkeitsverbot \(§ 220b StGB\) angeordnet worden ist\. Die gekürzte Urteilsausfertigung hat zu enthalten:
-> 
+>
 >> `1.` die im Abs\. 2 enthaltenen Angaben mit Ausnahme der Entscheidungsgründe;
-> 
+>
 >> `2.` im Fall einer Verurteilung die vom Gericht als erwiesen angenommenen Tatsachen in gedrängter Darstellung sowie die für die Strafbemessung und gegebenenfalls die für die Bemessung des Tagessatzes \(§ 19 Abs\. 2 StGB\) maßgebenden Umstände in Schlagworten;
-> 
+>
 >> `3.` im Fall eines Freispruchs eine gedrängte Darstellung der dafür maßgebenden Gründe\.
 
 ## 9. Protokollführung
@@ -4640,21 +4640,21 @@ Hat sich der Angeklagte zur Urteilsverkündung nicht eingefunden, so kann der Vo
 ### § 271 StPO
 
 > `(1)` Über die Hauptverhandlung ist bei sonstiger Nichtigkeit ein Protokoll aufzunehmen, für das – soweit im Folgenden nicht anderes bestimmt wird – § 96 Abs\. 2 und 3 anzuwenden ist; es hat insbesondere zu enthalten:
-> 
+>
 >> `1.` die Bezeichnung des Gerichts sowie Ort, Beginn und Ende der Hauptverhandlung,
-> 
+>
 >> `2.` die Namen der Mitglieder des Schöffengerichts, der Beteiligten des Verfahrens und ihrer Vertreter und, wenn ein Schriftführer beigezogen wurde, dessen Namen,
-> 
+>
 >> `3.` die Namen der beigezogenen Dolmetscher, der vernommenen Zeugen und Sachverständigen,
-> 
+>
 >> `4.` alle wesentlichen Förmlichkeiten des Verfahrens,
-> 
+>
 >> `5.` die Bezeichnung der verlesenen und vorgetragenen Schriftstücke \(§ 252 Abs\. 2a und 3\),
-> 
+>
 >> `6.` alle Anträge der Beteiligten des Verfahrens und die darüber getroffenen Entscheidungen,
-> 
+>
 >> `7.` den Spruch des Urteils mit den in § 260 Abs\. 1 Z 1 bis 3 bezeichneten Angaben\.
-> 
+>
 > &nbsp; Den Beteiligten des Verfahrens steht es frei, die Feststellung einzelner Punkte im Protokoll zur Wahrung ihrer Rechte zu verlangen\.
 
 > `(1a)` Unter den Voraussetzungen des § 270 Abs\. 4 kann das Verhandlungsprotokoll durch einen vom Vorsitzenden zu unterschreibenden Vermerk ersetzt werden, der lediglich die in Abs\. 1 Z 1 bis 3 angeführten Angaben enthält\.
@@ -4681,35 +4681,35 @@ Hat sich der Angeklagte zur Urteilsverkündung nicht eingefunden, so kann der Vo
 
 ### § 272 StPO
 
-Über die Beratungen und Abstimmungen während und am Schlusse der Hauptverhandlung ist in den Fällen, wo sich das Gericht zur Beschlußfassung in das Beratungszimmer zurückgezogen hat, ein abgesondertes Protokoll zu führen\.
+> Über die Beratungen und Abstimmungen während und am Schlusse der Hauptverhandlung ist in den Fällen, wo sich das Gericht zur Beschlußfassung in das Beratungszimmer zurückgezogen hat, ein abgesondertes Protokoll zu führen\.
 
 ## 10. Vertagung der Hauptverhandlung
 
 ### § 273 StPO
 
-Die Hauptverhandlung darf, wenn sie begonnen hat, nur insoweit unterbrochen werden, als es der Vorsitzende zur nötigen Erholung der dabei beteiligten Personen oder zur unverzüglichen Herbeischaffung von Beweismitteln erforderlich findet; sie kann nach dem Ermessen des Schöffengerichts in dringenden Fällen auch an einem Sonn\- oder Feiertage fortgesetzt werden\.
+> Die Hauptverhandlung darf, wenn sie begonnen hat, nur insoweit unterbrochen werden, als es der Vorsitzende zur nötigen Erholung der dabei beteiligten Personen oder zur unverzüglichen Herbeischaffung von Beweismitteln erforderlich findet; sie kann nach dem Ermessen des Schöffengerichts in dringenden Fällen auch an einem Sonn\- oder Feiertage fortgesetzt werden\.
 
 ### § 274 StPO
 
-Ist der Verteidiger, ungeachtet gehöriger Ladung, bei der Hauptverhandlung nicht erschienen oder hat er sich vor deren Schluß entfernt oder tritt der im § 236 Abs\. 2 vorgesehene Fall ein, und kann ein anderer Verteidiger überhaupt nicht oder doch nicht ohne Beeinträchtigung der Verteidigung des Angeklagten bestellt werden, so ist die Verhandlung zu vertagen\. Die Kosten der Bestellung eines anderen Vertreters und der Vertagung hat der schuldige Verteidiger zu tragen\.
+> Ist der Verteidiger, ungeachtet gehöriger Ladung, bei der Hauptverhandlung nicht erschienen oder hat er sich vor deren Schluß entfernt oder tritt der im § 236 Abs\. 2 vorgesehene Fall ein, und kann ein anderer Verteidiger überhaupt nicht oder doch nicht ohne Beeinträchtigung der Verteidigung des Angeklagten bestellt werden, so ist die Verhandlung zu vertagen\. Die Kosten der Bestellung eines anderen Vertreters und der Vertagung hat der schuldige Verteidiger zu tragen\.
 
 ### § 275 StPO
 
-Erkrankt der Angeklagte während der Hauptverhandlung in dem Maße, daß er ihr nicht weiter beiwohnen kann, und willigt er nicht selbst ein, daß die Verhandlung in seiner Abwesenheit fortgesetzt und seine im Ermittlungsverfahren oder in einer früheren Hauptverhandlung abgelegte Aussage vorgelesen werde, so ist die Verhandlung zu vertagen\. § 197 Abs\. 2b gilt sinngemäß\.
+> Erkrankt der Angeklagte während der Hauptverhandlung in dem Maße, daß er ihr nicht weiter beiwohnen kann, und willigt er nicht selbst ein, daß die Verhandlung in seiner Abwesenheit fortgesetzt und seine im Ermittlungsverfahren oder in einer früheren Hauptverhandlung abgelegte Aussage vorgelesen werde, so ist die Verhandlung zu vertagen\. § 197 Abs\. 2b gilt sinngemäß\.
 
 ### § 276 StPO
 
-Für die Vertagung der Hauptverhandlung gilt § 226\.
+> Für die Vertagung der Hauptverhandlung gilt § 226\.
 
 ### § 276a StPO
 
-Ist die Verhandlung, nachdem sie begonnen hatte, vertagt worden \(§§ 274 bis 276\), so kann der Vorsitzende in der späteren Verhandlung die wesentlichen Ergebnisse der früheren nach dem Protokoll und den sonst zu berücksichtigenden Akten mündlich vortragen und die Fortsetzung der Verhandlung daran anknüpfen\. Die Verhandlung ist jedoch zu wiederholen, wenn sich die Zusammensetzung des Gerichtes geändert hat oder seit der Vertagung mehr als zwei Monate verstrichen sind, es sei denn, dass beide Teile auf die Wiederholung wegen Überschreitung der Frist von zwei Monaten verzichten\.
+> Ist die Verhandlung, nachdem sie begonnen hatte, vertagt worden \(§§ 274 bis 276\), so kann der Vorsitzende in der späteren Verhandlung die wesentlichen Ergebnisse der früheren nach dem Protokoll und den sonst zu berücksichtigenden Akten mündlich vortragen und die Fortsetzung der Verhandlung daran anknüpfen\. Die Verhandlung ist jedoch zu wiederholen, wenn sich die Zusammensetzung des Gerichtes geändert hat oder seit der Vertagung mehr als zwei Monate verstrichen sind, es sei denn, dass beide Teile auf die Wiederholung wegen Überschreitung der Frist von zwei Monaten verzichten\.
 
 ## 11. Zwischenfälle
 
 ### § 277 StPO
 
-Ergibt sich aus der Hauptverhandlung mit Wahrscheinlichkeit, daß ein Zeuge wissentlich falsch ausgesagt habe, so kann der Vorsitzende über dessen Aussage ein Protokoll aufnehmen und nach geschehener Vorlesung und Genehmigung vom Zeugen unterfertigen lassen; er kann den Zeugen auch festnehmen und dem Einzelrichter des Landesgerichts vorführen lassen\.
+> Ergibt sich aus der Hauptverhandlung mit Wahrscheinlichkeit, daß ein Zeuge wissentlich falsch ausgesagt habe, so kann der Vorsitzende über dessen Aussage ein Protokoll aufnehmen und nach geschehener Vorlesung und Genehmigung vom Zeugen unterfertigen lassen; er kann den Zeugen auch festnehmen und dem Einzelrichter des Landesgerichts vorführen lassen\.
 
 ### § 278 StPO
 
@@ -4721,52 +4721,52 @@ Ergibt sich aus der Hauptverhandlung mit Wahrscheinlichkeit, daß ein Zeuge wiss
 
 ### § 279 StPO
 
-Hat der Angeklagte während der Hauptverhandlung eine strafbare Handlung begangen, so sind die Bestimmungen des § 263 voll anzuwenden\.
+> Hat der Angeklagte während der Hauptverhandlung eine strafbare Handlung begangen, so sind die Bestimmungen des § 263 voll anzuwenden\.
 
 ## II. Rechtsmittel gegen das Urteil
 
 ### § 280 StPO
 
-Gegen die Urteile der Landesgerichte als Schöffengerichte \(§ 31 Abs\. 3\) stehen nur die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen\. Die Nichtigkeitsbeschwerde geht an den Obersten Gerichtshof, die Berufung an das Oberlandesgericht\.
+> Gegen die Urteile der Landesgerichte als Schöffengerichte \(§ 31 Abs\. 3\) stehen nur die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen\. Die Nichtigkeitsbeschwerde geht an den Obersten Gerichtshof, die Berufung an das Oberlandesgericht\.
 
 ### § 281 StPO
 
 > `(1)` Die Nichtigkeitsbeschwerde kann gegen ein freisprechendes Urteil nur zum Nachteile, gegen ein verurteilendes sowohl zum Vorteile als auch zum Nachteile des Angeklagten ergriffen werden, jedoch, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur wegen eines der folgenden Nichtigkeitsgründe:
-> 
+>
 >> `1.` wenn das Schöffengericht nicht gehörig besetzt war, wenn nicht alle Richter der ganzen Verhandlung beiwohnten oder wenn sich ein ausgeschlossener Richter \(§§ 43 und 46\) an der Entscheidung beteiligte; es sei denn, daß der die Nichtigkeit begründende Tatumstand dem Beschwerdeführer noch vor oder während der Hauptverhandlung bekannt und von ihm nicht gleich beim Beginne der Hauptverhandlung oder sofort, nachdem er in dessen Kenntnis gelangt war, geltend gemacht wurde;
-> 
+>
 >> `1a.` wenn der Angeklagte nicht während der ganzen Hauptverhandlung durch einen Verteidiger vertreten war, obwohl dies zwingend vorgeschrieben war;
-> 
+>
 >> `2.` wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren trotz Widerspruchs des Beschwerdeführers in der Hauptverhandlung verlesen wurde;
-> 
+>
 >> `3.` wenn in der Hauptverhandlung eine Bestimmung verletzt oder missachtet worden ist, deren Einhaltung das Gesetz bei sonstiger Nichtigkeit anordnet \(§§ 115j Abs\. 1, 126 Abs\. 4, 140 Abs\. 1, 144 Abs\. 1, 155 Abs\. 1, 157 Abs\. 2 und 159 Abs\. 3, 221 Abs\. 2, 228, 240a, 250, 252, 260, 271, 427, 434d Abs\. 1 und 2 sowie 439 Abs\. 1 und 2\);
-> 
+>
 >> `4.` wenn während der Hauptverhandlung über einen Antrag des Beschwerdeführers nicht erkannt worden ist oder wenn durch einen gegen seinen Antrag oder Widerspruch gefassten Beschluss Gesetze oder Grundsätze des Verfahrens hintangesetzt oder unrichtig angewendet worden sind, deren Beobachtung durch grundrechtliche Vorschriften, insbesondere durch Art\. 6 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl\. Nr\. 210/1958, oder sonst durch das Wesen eines die Strafverfolgung und die Verteidigung sichernden, fairen Verfahrens geboten ist;
-> 
+>
 >> `5.` wenn der Ausspruch des Schöffengerichts über entscheidende Tatsachen \(§ 270 Abs\. 2 Z\. 4 und 5\) undeutlich, unvollständig oder mit sich selbst im Widerspruch ist; wenn für diesen Ausspruch keine oder nur offenbar unzureichende Gründe angegeben sind; oder wenn zwischen den Angaben der Entscheidungsgründe über den Inhalt einer bei den Akten befindlichen Urkunde oder über eine Aussage und der Urkunde oder dem Vernehmungs\- oder Sitzungsprotokoll selbst ein erheblicher Widerspruch besteht;
-> 
+>
 >> `5a.` wenn sich aus den Akten erhebliche Bedenken gegen die Richtigkeit der dem Ausspruch über die Schuld zugrunde gelegten entscheidenden Tatsachen ergeben;
-> 
+>
 >> `6.` wenn das Schöffengericht zu Unrecht seine Unzuständigkeit \(§ 261\) ausgesprochen hat;
-> 
+>
 >> `7.` wenn das ergangene Endurteil die Anklage nicht erledigt oder
-> 
+>
 >> `8.` diese gegen die Vorschrift der § 262, § 263, § 267 und § 434b Abs\. 3 überschritten hat;
-> 
+>
 >> `9.` wenn durch den Ausspruch über die Frage,
->> 
+>>
 >>> `a)` ob die dem Angeklagten zur Last fallende Tat eine zur Zuständigkeit der Gerichte gehörige strafbare Handlung begründe,
->> 
+>>
 >>> `b)` ob Umstände vorhanden seien, durch die die Strafbarkeit der Tat aufgehoben oder die Verfolgung wegen der Tat ausgeschlossen ist, endlich
->> 
+>>
 >>> `c)` ob die nach dem Gesetz erforderliche Anklage fehle,
->> 
+>>
 >> &nbsp; ein Gesetz verletzt oder unrichtig angewendet wurde;
-> 
+>
 >> `10.` wenn die der Entscheidung zugrunde liegende Tat durch unrichtige Gesetzesauslegung einem Strafgesetz unterzogen wurde, das darauf nicht anzuwenden ist;
-> 
+>
 >> `10a.` wenn nach der Bestimmung des § 199 über die Einstellung des Verfahrens, anderen auf sie verweisenden Vorschriften oder nach § 37 SMG vorzugehen gewesen wäre;
-> 
+>
 >> `11.` wenn das Schöffengericht seine Strafbefugnis überschritten oder bei dem Ausspruch über die Strafe für die Strafbemessung maßgebende entscheidende Tatsachen offenbar unrichtig beurteilt oder in unvertretbarer Weise gegen Bestimmungen über die Strafbemessung verstoßen hat\.
 
 > `(2)` Die im Abs\. 1 Z\. 1a und 5a erwähnten Nichtigkeitsgründe können zum Nachteil des Angeklagten nicht geltend gemacht werden\.
@@ -4775,7 +4775,7 @@ Gegen die Urteile der Landesgerichte als Schöffengerichte \(§ 31 Abs\. 3\) s
 
 ### § 281a StPO
 
-Der Umstand, dass ein unzuständiges Oberlandesgericht die Rechtswirksamkeit der Anklageschrift festgestellt hat \(§ 215\), kann mit einer gegen das Urteil gerichteten Nichtigkeitsbeschwerde geltend gemacht werden\.
+> Der Umstand, dass ein unzuständiges Oberlandesgericht die Rechtswirksamkeit der Anklageschrift festgestellt hat \(§ 215\), kann mit einer gegen das Urteil gerichteten Nichtigkeitsbeschwerde geltend gemacht werden\.
 
 ### § 282 StPO
 
@@ -4819,7 +4819,7 @@ Der Umstand, dass ein unzuständiges Oberlandesgericht die Rechtswirksamkeit der
 
 ### § 285a StPO
 
-Das Landesgericht, bei dem eine gegen ein Endurteil gerichtete Nichtigkeitsbeschwerde angemeldet wird, hat diese zurückzuweisen:
+> Das Landesgericht, bei dem eine gegen ein Endurteil gerichtete Nichtigkeitsbeschwerde angemeldet wird, hat diese zurückzuweisen:
 
 > `1.` wenn sie zu spät angemeldet oder wenn sie von einer Person eingebracht wurde, der die Nichtigkeitsbeschwerde nicht zukommt oder die auf sie verzichtet hat;
 
@@ -4849,36 +4849,36 @@ Das Landesgericht, bei dem eine gegen ein Endurteil gerichtete Nichtigkeitsbesch
 ### § 285d StPO
 
 > `(1)` Bei der nichtöffentlichen Beratung kann die Nichtigkeitsbeschwerde sofort zurückgewiesen werden:
-> 
+>
 >> `1.` wenn sie schon gemäß § 285a hätte zurückgewiesen werden sollen oder wenn der geltend gemachte Nichtigkeitsgrund bereits durch eine in derselben Sache ergangene Entscheidung des Obersten Gerichtshofes beseitigt ist;
-> 
+>
 >> `2.` wenn die Nichtigkeitsbeschwerde sich auf die im § 281 Abs\. 1 Z\. 1 bis 8 und 11 oder im § 281a angegebenen Nichtigkeitsgründe stützt und der Oberste Gerichtshof einstimmig erachtet, daß die Beschwerde, ohne daß es einer weiteren Erörterung bedarf, als offenbar unbegründet zu verwerfen sei\.
 
 > `(2)` Der vorstehende Beschluß kann bei der nichtöffentlichen Beratung auch dann ergehen, wenn wegen anderer Nichtigkeitsgründe oder weil der Oberste Gerichtshof sich die Ausübung der ihm nach § 290 Abs\. 1 zustehenden Befugnis vorbehalten will, ein Gerichtstag zur öffentlichen Verhandlung anzuberaumen ist\.
 
 ### § 285e StPO
 
-Bei der nichtöffentlichen Beratung über eine zum Vorteile des Angeklagten ergriffene Nichtigkeitsbeschwerde kann dieser,, sofort Folge gegeben werden, wenn sich zeigt, daß die Anordnung einer neuen Hauptverhandlung nicht zu vermeiden ist, eine Entscheidung des Obersten Gerichtshofes in der Sache selbst aber noch nicht einzutreten hat\. Gleiches gilt, wenn nach dem 11\. Hauptstück oder § 37 SMG vorzugehen sein wird\.
+> Bei der nichtöffentlichen Beratung über eine zum Vorteile des Angeklagten ergriffene Nichtigkeitsbeschwerde kann dieser,, sofort Folge gegeben werden, wenn sich zeigt, daß die Anordnung einer neuen Hauptverhandlung nicht zu vermeiden ist, eine Entscheidung des Obersten Gerichtshofes in der Sache selbst aber noch nicht einzutreten hat\. Gleiches gilt, wenn nach dem 11\. Hauptstück oder § 37 SMG vorzugehen sein wird\.
 
 ### § 285f StPO
 
-Bei der nichtöffentlichen Beratung kann ferner die Einholung tatsächlicher Aufklärungen über behauptete Formverletzungen oder Verfahrensmängel angeordnet werden\.
+> Bei der nichtöffentlichen Beratung kann ferner die Einholung tatsächlicher Aufklärungen über behauptete Formverletzungen oder Verfahrensmängel angeordnet werden\.
 
 ### § 285g StPO
 
-Den im § 285d erwähnten Beschluß kann der Oberste Gerichtshof auch bei der Beratung über eine auf Grund des § 285b an ihn gelangte Beschwerde fassen, wenn die Ausführung der Nichtigkeitsbeschwerde überreicht oder die Frist hiezu verstrichen ist\.
+> Den im § 285d erwähnten Beschluß kann der Oberste Gerichtshof auch bei der Beratung über eine auf Grund des § 285b an ihn gelangte Beschwerde fassen, wenn die Ausführung der Nichtigkeitsbeschwerde überreicht oder die Frist hiezu verstrichen ist\.
 
 ### § 285h StPO
 
-Die Bestimmungen der §§ 285c bis 285g sind auch auf Nichtigkeitsbeschwerden nach § 281a anzuwenden\.
+> Die Bestimmungen der §§ 285c bis 285g sind auch auf Nichtigkeitsbeschwerden nach § 281a anzuwenden\.
 
 ### § 285i StPO
 
-Weist der Oberste Gerichtshof in nichtöffentlicher Sitzung die Nichtigkeitsbeschwerde oder die Beschwerde gegen deren Zurückweisung durch das Landesgericht zurück und war mit der Nichtigkeitsbeschwerde die Berufung verbunden, so entscheidet über diese das Oberlandesgericht\. Dasselbe gilt, wenn der Nichtigkeitsbeschwerde eines Angeklagten sofort Folge gegeben wird \(§ 285e\) und der Oberste Gerichtshof nur noch über die Berufung in Ansehung eines anderen Angeklagten zu entscheiden hätte\.
+> Weist der Oberste Gerichtshof in nichtöffentlicher Sitzung die Nichtigkeitsbeschwerde oder die Beschwerde gegen deren Zurückweisung durch das Landesgericht zurück und war mit der Nichtigkeitsbeschwerde die Berufung verbunden, so entscheidet über diese das Oberlandesgericht\. Dasselbe gilt, wenn der Nichtigkeitsbeschwerde eines Angeklagten sofort Folge gegeben wird \(§ 285e\) und der Oberste Gerichtshof nur noch über die Berufung in Ansehung eines anderen Angeklagten zu entscheiden hätte\.
 
 ### § 285j StPO
 
-Im Fall einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs\. 5 erster Satz oder 62a Abs\. 5 erster Satz VfGG hat das Landesgericht nach § 285a vorzugehen und eine Ausfertigung seines Beschlusses oder eines nach § 285b gefassten Beschlusses dem Verfassungsgerichtshof zu übermitteln und im Fall einer verbundenen Berufung die Verständigung des Verfassungsgerichtshofes dem Oberlandesgericht vorzulegen oder mitzuteilen, dass kein Grund für ein Vorgehen nach § 285a vorliegt\.
+> Im Fall einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs\. 5 erster Satz oder 62a Abs\. 5 erster Satz VfGG hat das Landesgericht nach § 285a vorzugehen und eine Ausfertigung seines Beschlusses oder eines nach § 285b gefassten Beschlusses dem Verfassungsgerichtshof zu übermitteln und im Fall einer verbundenen Berufung die Verständigung des Verfassungsgerichtshofes dem Oberlandesgericht vorzulegen oder mitzuteilen, dass kein Grund für ein Vorgehen nach § 285a vorliegt\.
 
 ### § 286 StPO
 
@@ -4903,22 +4903,22 @@ Im Fall einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs\
 > `(1)` Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde unbegründet, so hat er sie zu verwerfen\.
 
 > `(2)` Ist die Nichtigkeitsbeschwerde begründet, so ist das Urteil, soweit es angefochten und durch den Nichtigkeitsgrund berührt ist, aufzuheben und nach Verschiedenheit der Nichtigkeitsgründe gemäß den folgenden Vorschriften zu erkennen und weiter zu verfahren:
-> 
+>
 >> `1.` Liegt einer der im § 281 Abs\. 1 unter Z\. 1 bis 5a angeführten Nichtigkeitsgründe vor, so ordnet der Oberste Gerichtshof eine neue Hauptverhandlung an und verweist die Sache nach seinem Ermessen entweder an dasselbe oder an ein anderes Landesgericht\.
-> 
+>
 >> `2.` Hat das Schöffengericht mit Unrecht seine Unzuständigkeit ausgesprochen oder die Anklage nicht erledigt \(§ 281 Abs\. 1 Z\. 6 und 7\), so trägt ihm der Oberste Gerichtshof auf, sich der Verhandlung und Urteilsfällung zu unterziehen, die sich im Falle der Z\. 7 auf die unerledigt gebliebenen Anklagepunkte zu beschränken hat\.
-> 
+>
 >> `2a.` Hat das Schöffengericht das Vorliegen der Voraussetzungen einer Einstellung des Verfahrens nach dem 11\. Hauptstück oder § 37 SMG zu Unrecht nicht angenommen, so verweist der Oberste Gerichtshof die Sache an dasselbe oder an ein anderes Landesgericht, erforderlichenfalls auch an das zuständige Bezirksgericht, mit dem Auftrag, nach den Bestimmungen dieses Hauptstückes vorzugehen\.
-> 
+>
 >> `3.` In allen anderen Fällen erkennt der Oberste Gerichtshof in der Sache selbst, indem er seiner Entscheidung die Tatsachen zugrunde legt, die das Schöffengericht ohne Überschreitung der Anklage \(§ 281 Abs\. 1 Z\. 8\) festgestellt hat\. Findet der Oberste Gerichtshof jedoch im Urteil und dessen Entscheidungsgründen die Tatsachen nicht festgestellt, die bei richtiger Anwendung des Gesetzes dem Erkenntnisse zugrunde zu legen wären, so verweist er die Sache zu neuer Verhandlung und Entscheidung an dasselbe oder an ein anderes Landesgericht, geeignetenfalls auch an das zuständige Bezirksgericht\.
 
 ### § 288a StPO
 
-Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde nach § 281a gegründet, so vernichtet er die Hauptverhandlung, verweist die Sache zur nochmaligen Verhandlung vor das zuständige Landesgericht und verfügt die sonst nötige Verbesserung des Verfahrens\.
+> Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde nach § 281a gegründet, so vernichtet er die Hauptverhandlung, verweist die Sache zur nochmaligen Verhandlung vor das zuständige Landesgericht und verfügt die sonst nötige Verbesserung des Verfahrens\.
 
 ### § 289 StPO
 
-War die Nichtigkeitsbeschwerde nur gegen einzelne im Urteil enthaltene Verfügungen gerichtet und findet der Oberste Gerichtshof, daß diese vom Inhalte des ganzen Urteiles trennbar seien, so steht ihm auch frei, das angefochtene Urteil nur teilweise aufzuheben\. Eben dies ist der Fall, wenn dem angefochtenen Urteile mehrere strafbare Handlungen zugrunde liegen und die Nichtigkeitsbeschwerde sich nur auf das Verfahren oder die Beurteilung hinsichtlich einzelner von ihnen beschränkt, zugleich aber die erforderliche teilweise Wiederholung des Verfahrens oder auch ohne diese ein neuer Ausspruch hinsichtlich dieser einzelnen strafbaren Handlung ausführbar erscheint\.
+> War die Nichtigkeitsbeschwerde nur gegen einzelne im Urteil enthaltene Verfügungen gerichtet und findet der Oberste Gerichtshof, daß diese vom Inhalte des ganzen Urteiles trennbar seien, so steht ihm auch frei, das angefochtene Urteil nur teilweise aufzuheben\. Eben dies ist der Fall, wenn dem angefochtenen Urteile mehrere strafbare Handlungen zugrunde liegen und die Nichtigkeitsbeschwerde sich nur auf das Verfahren oder die Beurteilung hinsichtlich einzelner von ihnen beschränkt, zugleich aber die erforderliche teilweise Wiederholung des Verfahrens oder auch ohne diese ein neuer Ausspruch hinsichtlich dieser einzelnen strafbaren Handlung ausführbar erscheint\.
 
 ### § 290 StPO
 
@@ -4928,11 +4928,11 @@ War die Nichtigkeitsbeschwerde nur gegen einzelne im Urteil enthaltene Verfügun
 
 ### § 291 StPO
 
-Das Urteil des Obersten Gerichshofes ist, nachdem sich dieser in den Gerichtssaal zurückbegeben hat, samt den Entscheidungsgründen mündlich zu verkünden; hat der Angeklagte der Verhandlung beim Obersten Gerichtshofe nicht beigewohnt, so ist ihm ohne Verzug eine amtlich beglaubigte Abschrift des Urteiles durch das Landesgericht zuzustellen\. Für die Ausfertigung des Urteiles und die Führung des Protokolls bei den Verhandlungen des Obersten Gerichtshofes sind die in den §§ 260, 268 bis 271 enthaltenen Vorschriften zu beobachten\.
+> Das Urteil des Obersten Gerichshofes ist, nachdem sich dieser in den Gerichtssaal zurückbegeben hat, samt den Entscheidungsgründen mündlich zu verkünden; hat der Angeklagte der Verhandlung beim Obersten Gerichtshofe nicht beigewohnt, so ist ihm ohne Verzug eine amtlich beglaubigte Abschrift des Urteiles durch das Landesgericht zuzustellen\. Für die Ausfertigung des Urteiles und die Führung des Protokolls bei den Verhandlungen des Obersten Gerichtshofes sind die in den §§ 260, 268 bis 271 enthaltenen Vorschriften zu beobachten\.
 
 ### § 292 StPO
 
-Das Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsbeschwerde richtet sich im allgemeinen nach den in den §§ 286 Abs\. 1 bis 3 und 287 bis 291 enthaltenen Vorschriften\. Dem Angeklagten \(Verurteilten\) oder seinem Verteidiger ist eine Gleichschrift der Nichtigkeitsbeschwerde mit dem Bedeuten mitzuteilen, daß er sich binnen einer festzusetzenden angemessenen Frist hiezu äußern könne; vom Gerichtstag ist er mit der Bemerkung in Kenntnis zu setzen, daß es ihm freistehe zu erscheinen\. Ist der Aufenthaltsort des Angeklagten nicht bekannt und ohne besonderen Verfahrensaufwand nicht feststellbar, so kann die Zustellung an ihn unterbleiben\. Das gleiche gilt für den Privatbeteiligten, sofern der Ausspruch über die privatrechtlichen Ansprüche von der Nichtigkeitsbeschwerde betroffen ist, und für die sonst Beteiligten, sofern ihre Rechte betroffen sind\. Findet der Oberste Gerichtshof die zur Wahrung des Gesetzes erhobene Beschwerde gegründet, so hat er zu erkennen, daß in der fraglichen Strafsache durch den angefochtenen Beschluß oder Vorgang, durch das gepflogene Verfahren oder durch das erlassene Urteil das Gesetz verletzt worden sei\. Dieser Ausspruch ist in der Regel ohne Wirkung auf den Angeklagten\. Ist jedoch der Angeklagte durch ein solches nichtiges Urteil zu einer Strafe verurteilt worden, so steht es dem Obersten Gerichtshofe frei, nach seinem Ermessen entweder den Angeklagten freizusprechen oder einen milderen Strafsatz anzuwenden oder nach Umständen eine Erneuerung des gegen diesen gepflogenen Verfahrens anzuordnen\.
+> Das Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsbeschwerde richtet sich im allgemeinen nach den in den §§ 286 Abs\. 1 bis 3 und 287 bis 291 enthaltenen Vorschriften\. Dem Angeklagten \(Verurteilten\) oder seinem Verteidiger ist eine Gleichschrift der Nichtigkeitsbeschwerde mit dem Bedeuten mitzuteilen, daß er sich binnen einer festzusetzenden angemessenen Frist hiezu äußern könne; vom Gerichtstag ist er mit der Bemerkung in Kenntnis zu setzen, daß es ihm freistehe zu erscheinen\. Ist der Aufenthaltsort des Angeklagten nicht bekannt und ohne besonderen Verfahrensaufwand nicht feststellbar, so kann die Zustellung an ihn unterbleiben\. Das gleiche gilt für den Privatbeteiligten, sofern der Ausspruch über die privatrechtlichen Ansprüche von der Nichtigkeitsbeschwerde betroffen ist, und für die sonst Beteiligten, sofern ihre Rechte betroffen sind\. Findet der Oberste Gerichtshof die zur Wahrung des Gesetzes erhobene Beschwerde gegründet, so hat er zu erkennen, daß in der fraglichen Strafsache durch den angefochtenen Beschluß oder Vorgang, durch das gepflogene Verfahren oder durch das erlassene Urteil das Gesetz verletzt worden sei\. Dieser Ausspruch ist in der Regel ohne Wirkung auf den Angeklagten\. Ist jedoch der Angeklagte durch ein solches nichtiges Urteil zu einer Strafe verurteilt worden, so steht es dem Obersten Gerichtshofe frei, nach seinem Ermessen entweder den Angeklagten freizusprechen oder einen milderen Strafsatz anzuwenden oder nach Umständen eine Erneuerung des gegen diesen gepflogenen Verfahrens anzuordnen\.
 
 ### § 293 StPO
 
@@ -4978,13 +4978,13 @@ Das Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsb
 
 ### § 296a StPO
 
-Ist nach der Entscheidung über eine Nichtigkeitsbeschwerde oder Berufung
+> Ist nach der Entscheidung über eine Nichtigkeitsbeschwerde oder Berufung
 
 > `1.` an dem in Untersuchungshaft angehaltenen Angeklagten eine Freiheitsstrafe oder eine mit Freiheitsentziehung verbundene vorbeugende Maßnahme zu vollziehen oder
 
 > `2.` der Angeklagte in Freiheit zu setzen,
 
-&nbsp; so hat der Oberste Gerichtshof oder das Oberlandesgericht den Vorsitzenden des Schöffengerichtes davon sogleich unter Anschluß der erforderlichen Angaben zu verständigen, es sei denn, daß im Falle der Z\. 2 die Entscheidung bei einem Gerichtstag in Anwesenheit des Angeklagten ergeht \(§ 396\)\.
+> &nbsp; so hat der Oberste Gerichtshof oder das Oberlandesgericht den Vorsitzenden des Schöffengerichtes davon sogleich unter Anschluß der erforderlichen Angaben zu verständigen, es sei denn, daß im Falle der Z\. 2 die Entscheidung bei einem Gerichtstag in Anwesenheit des Angeklagten ergeht \(§ 396\)\.
 
 ## 5. TEIL
 
@@ -4998,15 +4998,15 @@ Ist nach der Entscheidung über eine Nichtigkeitsbeschwerde oder Berufung
 
 ### § 297 StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z 92\)*
+> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z 92\)*
 
 ### § 298 StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 92\)*
+> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 92\)*
 
 ### § 299 StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 92\)*
+> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 92\)*
 
 ### § 301 StPO
 
@@ -5028,13 +5028,13 @@ Ist nach der Entscheidung über eine Nichtigkeitsbeschwerde oder Berufung
 
 ### § 303 StPO
 
-Soweit nach den folgenden Vorschriften der Schwurgerichtshof gemeinsam mit den Geschworenen zu entscheiden hat, richten sich Abstimmung und Beschlußfassung nach den für die Schöffengerichte geltenden Bestimmungen\.
+> Soweit nach den folgenden Vorschriften der Schwurgerichtshof gemeinsam mit den Geschworenen zu entscheiden hat, richten sich Abstimmung und Beschlußfassung nach den für die Schöffengerichte geltenden Bestimmungen\.
 
 ## 2. Beginn der Hauptverhandlung
 
 ### § 304 StPO
 
-Sobald die Geschworenen ihre Sitze in der alphabetischen Reihenfolge ihrer Namen, Ersatzgeschworene nach den übrigen Geschworenen, eingenommen haben, beginnt die Hauptverhandlung mit dem Aufrufe der Sache durch den Schriftführer\. Der Vorsitzende stellt an den Angeklagten die im § 240 vorgeschriebenen Fragen und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung\.
+> Sobald die Geschworenen ihre Sitze in der alphabetischen Reihenfolge ihrer Namen, Ersatzgeschworene nach den übrigen Geschworenen, eingenommen haben, beginnt die Hauptverhandlung mit dem Aufrufe der Sache durch den Schriftführer\. Der Vorsitzende stellt an den Angeklagten die im § 240 vorgeschriebenen Fragen und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung\.
 
 ### § 305 StPO
 
@@ -5049,7 +5049,7 @@ Sobald die Geschworenen ihre Sitze in der alphabetischen Reihenfolge ihrer Namen
 
 ### § 306 StPO
 
-Nach der Beeidigung der Geschworenen läßt der Vorsitzende durch den Schriftführer die Zeugen und Sachverständigen aufrufen und trifft die im § 241 angeführten Verfügungen\. Das Verfahren gegen ungehorsame Zeugen oder Sachverständige richtet sich nach den Vorschriften der §§ 242 und 243\.
+> Nach der Beeidigung der Geschworenen läßt der Vorsitzende durch den Schriftführer die Zeugen und Sachverständigen aufrufen und trifft die im § 241 angeführten Verfügungen\. Das Verfahren gegen ungehorsame Zeugen oder Sachverständige richtet sich nach den Vorschriften der §§ 242 und 243\.
 
 ### § 308 StPO
 
@@ -5089,9 +5089,9 @@ Nach der Beeidigung der Geschworenen läßt der Vorsitzende durch den Schriftfü
 
 ### § 313 StPO
 
-Sind in der Hauptverhandlung Tatsachen vorgebracht worden, die – wenn sie als erwiesen angenommen werden – die Strafbarkeit ausschließen oder aufheben würden, so ist eine entsprechende Frage nach dem Strafausschließungs\- oder Strafaufhebungsgrunde \(Zusatzfrage\) zu stellen\.
-
-*\(BGBl\. Nr\. 423/1974, Art\. I Z\. 94\)*
+> Sind in der Hauptverhandlung Tatsachen vorgebracht worden, die – wenn sie als erwiesen angenommen werden – die Strafbarkeit ausschließen oder aufheben würden, so ist eine entsprechende Frage nach dem Strafausschließungs\- oder Strafaufhebungsgrunde \(Zusatzfrage\) zu stellen\.
+>
+> *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 94\)*
 
 ### § 314 StPO
 
@@ -5107,7 +5107,7 @@ Sind in der Hauptverhandlung Tatsachen vorgebracht worden, die – wenn sie als 
 
 ### § 316 StPO
 
-Erschwerungs\- und Milderungsumstände sind nur unter der Voraussetzung Gegenstand einer Zusatzfrage an die Geschworenen, daß in der Hauptverhandlung Tatsachen vorgebracht worden sind, die – wenn sie als erwiesen angenommen werden – einen im Gesetze namentlich angeführten Erschwerungs\- oder Milderungsumstand begründen würden, der nach dem Gesetze die Anwendung eines anderen Strafsatzes bedingt\.
+> Erschwerungs\- und Milderungsumstände sind nur unter der Voraussetzung Gegenstand einer Zusatzfrage an die Geschworenen, daß in der Hauptverhandlung Tatsachen vorgebracht worden sind, die – wenn sie als erwiesen angenommen werden – einen im Gesetze namentlich angeführten Erschwerungs\- oder Milderungsumstand begründen würden, der nach dem Gesetze die Anwendung eines anderen Strafsatzes bedingt\.
 
 ### § 317 StPO
 
@@ -5127,7 +5127,7 @@ Erschwerungs\- und Milderungsumstände sind nur unter der Voraussetzung Gegensta
 
 ### § 319 StPO
 
-Hierauf erklärt der Vorsitzende die Verhandlung für geschlossen; der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt\.
+> Hierauf erklärt der Vorsitzende die Verhandlung für geschlossen; der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt\.
 
 ## 6. Wahl des Obmannes der Geschworenen; Rechtsbelehrung durch den Vorsitzenden
 
@@ -5145,7 +5145,7 @@ Hierauf erklärt der Vorsitzende die Verhandlung für geschlossen; der Angeklagt
 
 ### § 322 StPO
 
-Nach Ausfertigung der Rechtsbelehrung begibt sich der Schwurgerichtshof mit dem Schriftführer in das Beratungszimmer der Geschworenen\. Der Vorsitzende läßt die Anklageschrift, den gemäß § 244 Abs\. 1 vorgelesenen Beschluss des Oberlandesgerichts, die Beweisgegenstände, Augenscheinsprotokolle und die übrigen Akten mit Ausnahme der in der Hauptverhandlung nicht vorgelesenen Vernehmungsprotokolle in das Beratungszimmer schaffen\.
+> Nach Ausfertigung der Rechtsbelehrung begibt sich der Schwurgerichtshof mit dem Schriftführer in das Beratungszimmer der Geschworenen\. Der Vorsitzende läßt die Anklageschrift, den gemäß § 244 Abs\. 1 vorgelesenen Beschluss des Oberlandesgerichts, die Beweisgegenstände, Augenscheinsprotokolle und die übrigen Akten mit Ausnahme der in der Hauptverhandlung nicht vorgelesenen Vernehmungsprotokolle in das Beratungszimmer schaffen\.
 
 ### § 323 StPO
 
@@ -5177,7 +5177,7 @@ Nach Ausfertigung der Rechtsbelehrung begibt sich der Schwurgerichtshof mit dem 
 
 ### § 326 StPO
 
-Die Geschworenen dürfen ihr Beratungszimmer nicht verlassen, bevor sie ihren Ausspruch über die an sie gerichteten Fragen gefällt haben\. Niemand darf während der Beratung und Abstimmung ohne Bewilligung des Vorsitzenden in ihr Beratungszimmer eintreten; auch ist den Geschworenen jeder Verkehr mit dritten Personen untersagt\. Gegen Geschworene und dritte Personen, die diesem Verbot zuwiderhandeln, ist vom Schwurgerichtshof eine Ordnungsstrafe bis zu 1 000 Euro zu verhängen\.
+> Die Geschworenen dürfen ihr Beratungszimmer nicht verlassen, bevor sie ihren Ausspruch über die an sie gerichteten Fragen gefällt haben\. Niemand darf während der Beratung und Abstimmung ohne Bewilligung des Vorsitzenden in ihr Beratungszimmer eintreten; auch ist den Geschworenen jeder Verkehr mit dritten Personen untersagt\. Gegen Geschworene und dritte Personen, die diesem Verbot zuwiderhandeln, ist vom Schwurgerichtshof eine Ordnungsstrafe bis zu 1 000 Euro zu verhängen\.
 
 ### § 327 StPO
 
@@ -5189,11 +5189,11 @@ Die Geschworenen dürfen ihr Beratungszimmer nicht verlassen, bevor sie ihren Au
 
 ### § 328 StPO
 
-Äußern die Geschworenen bei der Beratung den Wunsch nach einer Ergänzung des Beweisverfahrens zur Aufklärung erheblicher Tatsachen \(§ 309\) oder nach Änderung oder Ergänzung der an sie gerichteten Fragen, so ist die Verhandlung wieder zu eröffnen; sofern es sich um eine Ergänzung oder Änderung der Fragen handelt, gelten die Bestimmungen des § 310 Abs\. 3 und 4 sinngemäß\.
+> Äußern die Geschworenen bei der Beratung den Wunsch nach einer Ergänzung des Beweisverfahrens zur Aufklärung erheblicher Tatsachen \(§ 309\) oder nach Änderung oder Ergänzung der an sie gerichteten Fragen, so ist die Verhandlung wieder zu eröffnen; sofern es sich um eine Ergänzung oder Änderung der Fragen handelt, gelten die Bestimmungen des § 310 Abs\. 3 und 4 sinngemäß\.
 
 ### § 329 StPO
 
-Der Abstimmung der Geschworenen darf bei sonstiger Nichtigkeit niemand beiwohnen\.
+> Der Abstimmung der Geschworenen darf bei sonstiger Nichtigkeit niemand beiwohnen\.
 
 ### § 330 StPO
 
@@ -5229,7 +5229,7 @@ Der Abstimmung der Geschworenen darf bei sonstiger Nichtigkeit niemand beiwohnen
 
 ### § 333 StPO
 
-Hält der Schwurgerichtshof eine Verbesserung des Wahrspruches für erforderlich oder ist in diesem Fall auch die Fragestellung geändert oder ergänzt worden, so eröffnet der Vorsitzende den Geschworenen, daß sie nur zur Änderung der beanstandeten Antworten \(§ 332 Abs\. 4\) und zur Beantwortung der neu oder in geänderter Fassung vorgelegten Fragen \(§ 332 Abs\. 5\) berechtigt sind\. Die neuen oder geänderten Fragen sind dem Obmanne der Geschworenen in zwei Ausfertigungen zu übergeben\.
+> Hält der Schwurgerichtshof eine Verbesserung des Wahrspruches für erforderlich oder ist in diesem Fall auch die Fragestellung geändert oder ergänzt worden, so eröffnet der Vorsitzende den Geschworenen, daß sie nur zur Änderung der beanstandeten Antworten \(§ 332 Abs\. 4\) und zur Beantwortung der neu oder in geänderter Fassung vorgelegten Fragen \(§ 332 Abs\. 5\) berechtigt sind\. Die neuen oder geänderten Fragen sind dem Obmanne der Geschworenen in zwei Ausfertigungen zu übergeben\.
 
 ## 9. Weiteres Verfahren bis zur gemeinsamen Beratung über die Strafe
 
@@ -5245,25 +5245,25 @@ Hält der Schwurgerichtshof eine Verbesserung des Wahrspruches für erforderlich
 
 ### § 335 StPO
 
-Wird die Entscheidung nicht ausgesetzt, so ist der Wahrspruch der Geschworenen dem Urteile zugrunde zu legen\.
+> Wird die Entscheidung nicht ausgesetzt, so ist der Wahrspruch der Geschworenen dem Urteile zugrunde zu legen\.
 
 ### § 336 StPO
 
-Haben die Geschworenen die Schuldfragen verneint oder Zusatzfragen \(§ 313\) bejaht, so fällt der Schwurgerichtshof sofort ein freisprechendes Urteil\.
+> Haben die Geschworenen die Schuldfragen verneint oder Zusatzfragen \(§ 313\) bejaht, so fällt der Schwurgerichtshof sofort ein freisprechendes Urteil\.
 
 ### § 337 StPO
 
-Ebenso wird der Angeklagte durch Urteil des Schwurgerichtshofes freigesprochen, wenn ihn die Geschworenen zwar schuldig gesprochen haben, der Schwurgerichtshof jedoch der Meinung ist, daß bei Zugrundelegung der Tatsachen, die im Wahrspruche der Geschworenen festgestellt sind, und der rechtlichen Beurteilung, die die Geschworenen der Tat haben angedeihen lassen, die Verfolgung aus Gründen des Prozeßrechtes ausgeschlossen sei \(§ 311\), oder daß die Tat, die der Angeklagte nach dem Ausspruche der Geschworenen begangen hat, vom Gesetze nicht mit gerichtlicher Strafe bedroht sei\.
+> Ebenso wird der Angeklagte durch Urteil des Schwurgerichtshofes freigesprochen, wenn ihn die Geschworenen zwar schuldig gesprochen haben, der Schwurgerichtshof jedoch der Meinung ist, daß bei Zugrundelegung der Tatsachen, die im Wahrspruche der Geschworenen festgestellt sind, und der rechtlichen Beurteilung, die die Geschworenen der Tat haben angedeihen lassen, die Verfolgung aus Gründen des Prozeßrechtes ausgeschlossen sei \(§ 311\), oder daß die Tat, die der Angeklagte nach dem Ausspruche der Geschworenen begangen hat, vom Gesetze nicht mit gerichtlicher Strafe bedroht sei\.
 
 ## 10. Gemeinsame Beratung über die Strafe
 
 ### § 338 StPO
 
-Ist der Angeklagte schuldig befunden worden und ist er nicht nach § 336 oder § 337 freizusprechen, so entscheidet der Schwurgerichtshof gemeinsam mit den Geschworenen \(§ 303\) über die zu verhängende Strafe und die etwa anzuwendenden Maßnahmen der Besserung und Sicherung sowie über die privatrechtlichen Ansprüche und die Kosten des Strafverfahrens\.
+> Ist der Angeklagte schuldig befunden worden und ist er nicht nach § 336 oder § 337 freizusprechen, so entscheidet der Schwurgerichtshof gemeinsam mit den Geschworenen \(§ 303\) über die zu verhängende Strafe und die etwa anzuwendenden Maßnahmen der Besserung und Sicherung sowie über die privatrechtlichen Ansprüche und die Kosten des Strafverfahrens\.
 
 ### § 339 StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 98\)*
+> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 98\)*
 
 ## 11. Verkündung des Wahrspruches und des Urteiles
 
@@ -5284,7 +5284,7 @@ Ist der Angeklagte schuldig befunden worden und ist er nicht nach § 336 oder �
 
 ### § 342 StPO
 
-Das Urteil ist in der im § 270 Abs\. 1 bis 3 vorgeschriebenen Weise auszufertigen\. In der Ausfertigung sind auch die Namen der Geschworenen anzuführen, die der Ersatzgeschworenen jedoch nur dann, wenn diese vor Schluß der Verhandlung an die Stelle eines verhinderten Geschworenen getreten sind\. Die Ausfertigung muß auch die an die Geschworenen gestellten Fragen und ihre Beantwortung enthalten\. Auf die im § 331 Abs\. 3 bezeichnete Niederschrift darf im Urteile kein Bezug genommen werden\.
+> Das Urteil ist in der im § 270 Abs\. 1 bis 3 vorgeschriebenen Weise auszufertigen\. In der Ausfertigung sind auch die Namen der Geschworenen anzuführen, die der Ersatzgeschworenen jedoch nur dann, wenn diese vor Schluß der Verhandlung an die Stelle eines verhinderten Geschworenen getreten sind\. Die Ausfertigung muß auch die an die Geschworenen gestellten Fragen und ihre Beantwortung enthalten\. Auf die im § 331 Abs\. 3 bezeichnete Niederschrift darf im Urteile kein Bezug genommen werden\.
 
 ### § 343 StPO
 
@@ -5296,46 +5296,46 @@ Das Urteil ist in der im § 270 Abs\. 1 bis 3 vorgeschriebenen Weise auszufert
 
 ### § 344 StPO
 
-Gegen die Urteile der Geschworenengerichte stehen die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen\. Die für Rechtsmittel gegen Urteile der Schöffengerichte und für das Verfahren über solche Rechtsmittel geltenden Vorschriften \(§§ 280 bis 296a\) sind auf Rechtsmittel gegen Urteile der Geschworenengerichte dem Sinne nach anzuwenden, soweit im folgenden nichts anderes bestimmt ist\. An die Stelle der in den §§ 285a und 285d bezeichneten Nichtigkeitsgründe treten die folgenden Nichtigkeitsgründe des § 345 Abs\. 1, und zwar im § 285a die der Z\. 1 bis 13 und im § 285d die der Z\. 1 bis 5, 10a und 13\.
+> Gegen die Urteile der Geschworenengerichte stehen die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen\. Die für Rechtsmittel gegen Urteile der Schöffengerichte und für das Verfahren über solche Rechtsmittel geltenden Vorschriften \(§§ 280 bis 296a\) sind auf Rechtsmittel gegen Urteile der Geschworenengerichte dem Sinne nach anzuwenden, soweit im folgenden nichts anderes bestimmt ist\. An die Stelle der in den §§ 285a und 285d bezeichneten Nichtigkeitsgründe treten die folgenden Nichtigkeitsgründe des § 345 Abs\. 1, und zwar im § 285a die der Z\. 1 bis 13 und im § 285d die der Z\. 1 bis 5, 10a und 13\.
 
 ### § 345 StPO
 
 > `(1)` Die Nichtigkeitsbeschwerde kann, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur wegen eines der folgenden Nichtigkeitsgründe ergriffen werden:
-> 
+>
 >> `1.` wenn der Schwurgerichtshof oder die Geschworenenbank nicht gehörig besetzt war, wenn nicht alle Richter und Geschworenen der ganzen Verhandlung beigewohnt haben oder wenn sich ein ausgeschlossener Richter oder Geschworener \(§§ 43 und 46\) an der Verhandlung beteiligt hat; als nicht gehörig besetzt gilt die Geschworenenbank auch dann, wenn in einer Jugendstrafsache nicht Geschworene für Jugendstrafsachen oder nicht mindestens zwei im Lehrberufe tätige oder tätig gewesene Personen der Geschworenenbank angehört haben;
-> 
+>
 >> `2.` wenn die Hauptverhandlung ohne Beiziehung eines Verteidigers geführt worden ist;
-> 
+>
 >> `3.` wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren trotz Widerspruchs des Beschwerdeführers in der Hauptverhandlung verlesen wurde;
-> 
+>
 >> `4.` wenn in der Hauptverhandlung eine Bestimmung verletzt oder missachtet worden ist, deren Einhaltung das Gesetz bei sonstiger Nichtigkeit anordnet \(§§ 115j Abs\. 1, 126 Abs\. 4, 140 Abs\. 1, 144 Abs\. 1, 155 Abs\. 1, 157 Abs\. 2 und 159 Abs\. 3, 221 Abs\. 2, 228, 250, 252, 260, 271, 305, 310, 329, 340, 427, 434d Abs\. 1 und 2 sowie 439 Abs\. 1 und 2\);
-> 
+>
 >> `5.` wenn in der Hauptverhandlung über einen Antrag des Beschwerdeführers nicht erkannt worden ist oder wenn durch einen gegen seinen Antrag oder Widerspruch gefassten Beschluss Gesetze oder Grundsätze des Verfahrens hintangesetzt oder unrichtig angewendet worden sind, deren Beobachtung durch grundrechtliche Vorschriften, insbesondere durch Art\. 6 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl\. Nr\. 210/1958, oder sonst durch das Wesen eines die Strafverfolgung und die Verteidigung sichernden, fairen Verfahrens geboten ist;
-> 
+>
 >> `6.` wenn eine der in den §§ 312 bis 317 enthaltenen Vorschriften verletzt worden ist;
-> 
+>
 >> `7.` wenn an die Geschworenen eine Frage mit Verletzung der Vorschrift des § 267 gestellt und diese Frage bejaht worden ist;
-> 
+>
 >> `8.` wenn der Vorsitzende den Geschworenen eine unrichtige Rechtsbelehrung erteilt hat \(§§ 321, 323, 327\);
-> 
+>
 >> `9.` wenn die Antwort der Geschworenen auf die gestellten Fragen undeutlich, unvollständig oder in sich widersprechend ist;
-> 
+>
 >> `10.` wenn der Schwurgerichtshof den Geschworenen die Verbesserung des Wahrspruches gegen den Widerspruch des Beschwerdeführers mit Unrecht aufgetragen oder, obgleich ein oder mehrere Geschworene ein bei der Abstimmung unterlaufenes Mißverständnis behauptet haben, mit Unrecht nicht aufgetragen hat \(§ 332 Abs\. 4\);
-> 
+>
 >> `10a.` wenn sich aus den Akten erhebliche Bedenken gegen die Richtigkeit der im Wahrspruch der Geschworenen festgestellten entscheidenden Tatsachen ergeben;
-> 
+>
 >> `11.` wenn durch die Entscheidung über die Frage,
->> 
+>>
 >>> `a)` ob die dem Angeklagten zur Last fallende Tat eine zur Zuständigkeit der Gerichte gehörige strafbare Handlung begründet oder
->> 
+>>
 >>> `b)` ob die Verfolgung der Tat aus Gründen des Prozeßrechtes ausgeschlossen ist,
->> 
+>>
 >> &nbsp; ein Gesetz verletzt oder unrichtig angewendet worden ist;
-> 
+>
 >> `12.` wenn die der Entscheidung zugrunde liegende Tat durch unrichtige Gesetzesauslegung einem Strafgesetz unterzogen worden ist, das darauf nicht anzuwenden ist;
-> 
+>
 >> `12a.` wenn nach der Bestimmung des § 199 über die Einstellung des Verfahrens, anderen auf sie verweisenden Vorschriften oder nach § 37 SMG vorzugehen gewesen wäre;
-> 
+>
 >> `13.` wenn das Geschworenengericht seine Strafbefugnis überschritten oder bei dem Ausspruch über die Strafe für die Strafbemessung maßgebende entscheidende Tatsachen offenbar unrichtig beurteilt oder in unvertretbarer Weise gegen Bestimmungen über die Strafbemessung verstoßen hat\.
 
 > `(2)` Die in der Z\. 1 des Abs\. 1 angeführten Nichtigkeitsgründe können nur dann geltend gemacht werden, wenn der Beschwerdeführer den die Nichtigkeit begründenden Umstand gleich bei Beginn der Verhandlung oder, wenn er ihm erst später bekanntgeworden ist, sogleich, nachdem er ihm zur Kenntnis gekommen war, geltend gemacht hat\.
@@ -5346,13 +5346,13 @@ Gegen die Urteile der Geschworenengerichte stehen die Rechtsmittel der Nichtigke
 
 ### § 346 StPO
 
-Der Ausspruch über die Strafe kann in den im § 283 angeführten Fällen mit Berufung angefochten werden\.
+> Der Ausspruch über die Strafe kann in den im § 283 angeführten Fällen mit Berufung angefochten werden\.
 
 ### § 348 StPO
 
-Für den Gerichtstag beim Obersten Gerichtshof ist dem Angeklagten, wenn er keinen Verteidiger hat, ohne Rücksicht auf Art und Höhe der für die strafbare Handlung, die dem Angeklagten in der Anklageschrift oder im Urteil erster Instanz zur Last gelegt wird, angedrohten Strafe, ein Rechtsanwalt als Verteidiger beizugeben \(§ 286 Abs\. 4\)\.
-
-*\(BGBl\. Nr\. 569/1973, Art\. III Z\. 7\)*
+> Für den Gerichtstag beim Obersten Gerichtshof ist dem Angeklagten, wenn er keinen Verteidiger hat, ohne Rücksicht auf Art und Höhe der für die strafbare Handlung, die dem Angeklagten in der Anklageschrift oder im Urteil erster Instanz zur Last gelegt wird, angedrohten Strafe, ein Rechtsanwalt als Verteidiger beizugeben \(§ 286 Abs\. 4\)\.
+>
+> *\(BGBl\. Nr\. 569/1973, Art\. III Z\. 7\)*
 
 ### § 349 StPO
 
@@ -5368,7 +5368,7 @@ Für den Gerichtstag beim Obersten Gerichtshof ist dem Angeklagten, wenn er kein
 
 ### § 351 StPO
 
-Liegt einer der im § 345 Abs\. 1 Z 11 bis 13 angeführten Nichtigkeitsgründe vor, so entscheidet der Oberste Gerichtshof in der Sache selbst\. Sind jedoch die der Feststellung durch die Geschworenen vorbehaltenen Tatsachen, die er seiner Entscheidung zugrunde zu legen hätte, im Wahrspruche der Geschworenen nicht festgestellt, so verweist er die Sache an das Geschworenengericht des von ihm zu bezeichnenden Landesgerichts, wenn aber die strafbare Handlung bei richtiger Anwendung des Gesetzes nicht mehr vor das Geschworenengericht gehört, an das von ihm zu bezeichnende sachlich zuständige Gericht zur nochmaligen Verhandlung und Entscheidung\.
+> Liegt einer der im § 345 Abs\. 1 Z 11 bis 13 angeführten Nichtigkeitsgründe vor, so entscheidet der Oberste Gerichtshof in der Sache selbst\. Sind jedoch die der Feststellung durch die Geschworenen vorbehaltenen Tatsachen, die er seiner Entscheidung zugrunde zu legen hätte, im Wahrspruche der Geschworenen nicht festgestellt, so verweist er die Sache an das Geschworenengericht des von ihm zu bezeichnenden Landesgerichts, wenn aber die strafbare Handlung bei richtiger Anwendung des Gesetzes nicht mehr vor das Geschworenengericht gehört, an das von ihm zu bezeichnende sachlich zuständige Gericht zur nochmaligen Verhandlung und Entscheidung\.
 
 ## 16. Hauptstück
 
@@ -5379,16 +5379,16 @@ Liegt einer der im § 345 Abs\. 1 Z 11 bis 13 angeführten Nichtigkeitsgründ
 ### § 352 StPO
 
 > `(1)` Abgesehen von den Bestimmungen über die Fortführung des Ermittlungsverfahrens \(§§ 193, 195 und 196\), kann dem Antrag der Staatsanwaltschaft auf Wiederaufnahme eines Verfahrens gegen einen Beschuldigten, das durch gerichtlichen Beschluss oder einen nicht bloß vorläufigen Rücktritt der Staatsanwaltschaft von der Verfolgung nach den im 11\. Hauptstück enthaltenen Bestimmungen eingestellt wurde, nur dann stattgegeben werden, wenn die Strafbarkeit der Tat noch nicht durch Verjährung erloschen ist, und
-> 
+>
 >> `1.` die Einstellung durch Urkundenfälschung oder durch falsche Beweissaussage, Bestechung oder eine sonstige Straftat des Beschuldigten oder einer dritten Person herbeigeführt worden ist, oder
-> 
+>
 >> `2.` der Beschuldigte später ein Geständnis der ihm angelasteten Tat ablegt oder sich andere neue Tatsachen oder Beweismittel ergeben, die geeignet scheinen, die Verurteilung des Beschuldigten nahe zu legen \(§ 210 Abs\. 1\)\.
 
 > `(2)` Dem Privatankläger steht der Antrag auf Wiederaufnahme ausschließlich im Fall einer Einstellung gemäß § 215 Abs\. 2 zu\.
 
 ### § 353 StPO
 
-Der rechtskräftig Verurteilte kann die Wiederaufnahme des Strafverfahrens selbst nach vollzogener Strafe verlangen:
+> Der rechtskräftig Verurteilte kann die Wiederaufnahme des Strafverfahrens selbst nach vollzogener Strafe verlangen:
 
 > `1.` wenn dargetan ist, daß seine Verurteilung durch Urkundenfälschung oder durch falsche Beweisaussage, Bestechung oder eine sonstige Straftat einer dritten Person veranlaßt worden ist;
 
@@ -5398,15 +5398,15 @@ Der rechtskräftig Verurteilte kann die Wiederaufnahme des Strafverfahrens selbs
 
 ### § 354 StPO
 
-Den Antrag auf Wiederaufnahme des Strafverfahrens zugunsten des Angeklagten können, und zwar auch nach dessen Tod, alle Personen stellen, die berechtigt wären, zu seinen Gunsten die Nichtigkeitsbeschwerde oder Berufung zu ergreifen\. Erlangt die Staatsanwaltschaft die Kenntnis eines Umstandes, der einen Antrag auf Wiederaufnahme des Strafverfahrens zugunsten des Angeklagten begründen kann \(§ 353\), so ist sie verpflichtet, hievon den Angeklagten oder sonst eine zur Stellung dieses Antrages berechtigte Person in Kenntnis zu setzen oder selbst den Antrag zu stellen\.
+> Den Antrag auf Wiederaufnahme des Strafverfahrens zugunsten des Angeklagten können, und zwar auch nach dessen Tod, alle Personen stellen, die berechtigt wären, zu seinen Gunsten die Nichtigkeitsbeschwerde oder Berufung zu ergreifen\. Erlangt die Staatsanwaltschaft die Kenntnis eines Umstandes, der einen Antrag auf Wiederaufnahme des Strafverfahrens zugunsten des Angeklagten begründen kann \(§ 353\), so ist sie verpflichtet, hievon den Angeklagten oder sonst eine zur Stellung dieses Antrages berechtigte Person in Kenntnis zu setzen oder selbst den Antrag zu stellen\.
 
 ### § 355 StPO
 
-Die Staatsanwaltschaft oder der Privatankläger können die Wiederaufnahme des Strafverfahrens wegen einer Handlung, hinsichtlich der der Angeklagte rechtskräftig freigesprochen worden ist, nur aus den in § 352 Abs\. 1 genannten Gründen beantragen\.
+> Die Staatsanwaltschaft oder der Privatankläger können die Wiederaufnahme des Strafverfahrens wegen einer Handlung, hinsichtlich der der Angeklagte rechtskräftig freigesprochen worden ist, nur aus den in § 352 Abs\. 1 genannten Gründen beantragen\.
 
 ### § 356 StPO
 
-Die Staatsanwaltschaft kann die Wiederaufnahme des Verfahrens, um zu bewirken, daß eine Handlung, wegen der der Angeklagte verurteilt worden ist, nach einem strengeren Strafgesetz beurteilt werde, nur unter den im § 352 Abs\. 1 erwähnten Voraussetzungen und überdies nur dann beantragen, wenn die wirklich verübte Tat
+> Die Staatsanwaltschaft kann die Wiederaufnahme des Verfahrens, um zu bewirken, daß eine Handlung, wegen der der Angeklagte verurteilt worden ist, nach einem strengeren Strafgesetz beurteilt werde, nur unter den im § 352 Abs\. 1 erwähnten Voraussetzungen und überdies nur dann beantragen, wenn die wirklich verübte Tat
 
 > `1.` mit mindestens zehnjähriger Freiheitsstrafe bedroht ist, während der Angeklagte nur wegen einer mit nicht mehr als zehnjähriger Freiheitsstrafe bedrohten Handlung verurteilt wurde, oder
 
@@ -5445,9 +5445,9 @@ Die Staatsanwaltschaft kann die Wiederaufnahme des Verfahrens, um zu bewirken, d
 ### § 362 StPO
 
 > `(1)` Der Oberste Gerichtshof ist berechtigt, nach Anhörung des Generalprokurators im außerordentlichen Weg und ohne an die im § 353 vorgezeichneten Bedingungen gebunden zu sein, die Wiederaufnahme des Strafverfahrens zugunsten des wegen eines Verbrechens oder Vergehens Verurteilten zu verfügen, wenn sich ihm
-> 
+>
 >> `1.` bei der vorläufigen Beratung über eine Nichtigkeitsbeschwerde oder nach der öffentlichen Verhandlung über die Beschwerde oder
-> 
+>
 >> `2.` bei einer auf besonderen Antrag des Generalprokuraturs vorgenommenen Prüfung der Akten erhebliche Bedenken gegen die Richtigkeit der dem Urteil zugrunde gelegten Tatsachen ergeben, die auch nicht durch einzelne vom Obersten Gerichtshof etwa angeordnete Erhebungen beseitigt werden\.
 
 > `(2)` Der Oberste Gerichtshof kann in solchen Fällen auch sofort ein neues Urteil schöpfen, mit dem der Beschuldigte freigesprochen oder ein milderer Strafsatz auf ihn angewendet wird; hiefür ist jedoch Einstimmigkeit erforderlich\. Der Freigesprochene kann die Veröffentlichung des Erkenntnisses verlangen\.
@@ -5460,7 +5460,7 @@ Die Staatsanwaltschaft kann die Wiederaufnahme des Verfahrens, um zu bewirken, d
 
 ### § 363 StPO
 
-Das Hauptverfahren kann unabhängig von den Voraussetzungen der Wiederaufnahme durchgeführt werden, wenn der zur Klage noch berechtigte Privatankläger die Anklage einbringt, während im früheren Verfahren die Einstellung oder ein freisprechendes Urteil lediglich wegen Mangels des nach dem Gesetz erforderlichen Antrages eines Opfers \(§ 71\) erfolgt ist\.
+> Das Hauptverfahren kann unabhängig von den Voraussetzungen der Wiederaufnahme durchgeführt werden, wenn der zur Klage noch berechtigte Privatankläger die Anklage einbringt, während im früheren Verfahren die Einstellung oder ein freisprechendes Urteil lediglich wegen Mangels des nach dem Gesetz erforderlichen Antrages eines Opfers \(§ 71\) erfolgt ist\.
 
 ## II. Erneuerung des Strafverfahrens
 
@@ -5475,11 +5475,11 @@ Das Hauptverfahren kann unabhängig von den Voraussetzungen der Wiederaufnahme d
 > `(1)` Der Oberste Gerichtshof hat über den Antrag auf Erneuerung des Verfahrens nur dann in nichtöffentlicher Sitzung zu beraten, wenn der Generalprokurator oder der Berichterstatter einen der im Abs\. 2 oder 3 angeführten Beschlüsse beantragt\.
 
 > `(2)` Bei der nichtöffentlichen Beratung kann der Oberste Gerichtshof den Antrag zurückweisen,
-> 
+>
 >> `1.` wenn der Antrag des Betroffenen nicht von einem Verteidiger unterschrieben ist,
-> 
+>
 >> `2.` wenn der Antrag von einer Person gestellt worden ist, der das Antragsrecht nicht zusteht, oder
-> 
+>
 >> `3.` wenn der Gerichtshof den Antrag einstimmig als offenbar unbegründet erachtet\.
 
 > `(3)` Bei der nichtöffentlichen Beratung kann der Gerichtshof dem Antrag stattgeben, die strafgerichtliche Entscheidung aufheben und die Sache erforderlichenfalls an das Landesgericht oder Oberlandesgericht verweisen, wenn schon vor der öffentlichen Verhandlung über den Antrag feststeht, daß das Verfahren zu erneuern ist\. Im erneuerten Verfahren darf keine strengere Strafe über den Verurteilten verhängt werden, als das frühere Urteil ausgesprochen hatte\.
@@ -5495,19 +5495,19 @@ Das Hauptverfahren kann unabhängig von den Voraussetzungen der Wiederaufnahme d
 ### § 364 StPO
 
 > `(1)` Gegen die Versäumung der Frist zur Anmeldung, Ausführung oder Erhebung eines Rechtsmittels oder Rechtsbehelfs ist den Beteiligten des Verfahrens die Wiedereinsetzung in den vorigen Stand zu bewilligen, sofern sie
-> 
+>
 >> `1.` nachweisen, daß es ihnen durch unvorhersehbare oder unabwendbare Ereignisse unmöglich war, die Frist einzuhalten oder die Verfahrenshandlung vorzunehmen, es sei denn, daß ihnen oder ihren Vertretern ein Versehen nicht bloß minderen Grades zur Last liegt,
-> 
+>
 >> `2.` die Wiedereinsetzung innerhalb von vierzehn Tagen nach dem Aufhören des Hindernisses beantragen und
-> 
+>
 >> `3.` die versäumte schriftliche Verfahrenshandlung zugleich mit dem Antrag nachholen\.
 
 > `(2)` Über die Wiedereinsetzung entscheidet:
-> 
+>
 >> `1.` *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
-> 
+>
 >> `2.` im Falle des Einspruchs gegen das Abwesenheitsurteil eines Bezirksgerichts das Bezirksgericht;
-> 
+>
 >> `3.` in allen anderen Fällen das Gericht, dem die Entscheidung über das Rechtsmittel oder den Rechtsbehelf zusteht\.
 
 > `(3)` Der Antrag ist bei dem Gericht einzubringen, bei dem die Verfahrenshandlung versäumt wurde\. Das Gericht stellt ihn dem Gegner zur Äußerung binnen vierzehn Tagen zu und legt die Akten, sofern es nicht selbst zur Entscheidung berufen ist, nach Ablauf dieser Frist dem zuständigen Gericht vor\.
@@ -5524,7 +5524,7 @@ Das Hauptverfahren kann unabhängig von den Voraussetzungen der Wiederaufnahme d
 
 ### § 365 StPO
 
-*\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
+> *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
 ### § 366 StPO
 
@@ -5539,16 +5539,16 @@ Das Hauptverfahren kann unabhängig von den Voraussetzungen der Wiederaufnahme d
 > `(1)` Ein sichergestellter oder beschlagnahmter Gegenstand oder Vermögenswert des Opfers ist nach Rechtskraft des Urteils an das Opfer zurückzustellen\.
 
 > `(2)` Vor Rechtskraft des Urteils kann ein sichergestellter oder beschlagnahmter Gegenstand oder Vermögenswert an das Opfer von Amts wegen oder auf Antrag des Opfers, soweit möglich, nach Anhörung des Beschuldigten und der übrigen Beteiligten zurückgestellt werden, es sei denn,
-> 
+>
 >> `1.` der Gegenstand oder Vermögenswert ist im weiteren Verfahren als Beweismittel erforderlich, oder
-> 
+>
 >> `2.` es liegen sonstige Umstände \(§ 368\) vor, die der Ausfolgung an das Opfer entgegenstehen\.
-> 
+>
 > &nbsp; Die Entscheidung steht im Ermittlungsverfahren der Staatsanwaltschaft, in der Hauptverhandlung dem erkennenden Gericht und sonst dem Vorsitzenden zu\.
 
 ### § 368 StPO
 
-Kann das Opfer sein Recht an dem Gegenstand oder Vermögenswert nicht nachweisen, liegen bestimmte Anhaltspunkte für dingliche Rechte Dritter daran vor oder ist das Recht daran zwischen mehreren Opfern strittig \(§ 367 Abs\. 2 Z 2\), so ist der Antrag nach § 367 Abs\. 2 abzuweisen, die Sicherstellung oder Beschlagnahme aufzuheben und der Gegenstand oder Vermögenswert nach § 1425 ABGB bei dem für den Sitz des Gerichts zuständigen Bezirksgericht zu hinterlegen\. Das Gericht hat in diesen Fällen das Opfer mit seinem Begehren auf den Zivilrechtsweg zu verweisen\.
+> Kann das Opfer sein Recht an dem Gegenstand oder Vermögenswert nicht nachweisen, liegen bestimmte Anhaltspunkte für dingliche Rechte Dritter daran vor oder ist das Recht daran zwischen mehreren Opfern strittig \(§ 367 Abs\. 2 Z 2\), so ist der Antrag nach § 367 Abs\. 2 abzuweisen, die Sicherstellung oder Beschlagnahme aufzuheben und der Gegenstand oder Vermögenswert nach § 1425 ABGB bei dem für den Sitz des Gerichts zuständigen Bezirksgericht zu hinterlegen\. Das Gericht hat in diesen Fällen das Opfer mit seinem Begehren auf den Zivilrechtsweg zu verweisen\.
 
 ### § 369 StPO
 
@@ -5558,7 +5558,7 @@ Kann das Opfer sein Recht an dem Gegenstand oder Vermögenswert nicht nachweisen
 
 ### § 370 StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 106\)*
+> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 106\)*
 
 ### § 371 StPO
 
@@ -5568,11 +5568,11 @@ Kann das Opfer sein Recht an dem Gegenstand oder Vermögenswert nicht nachweisen
 
 ### § 372 StPO
 
-Dem Privatbeteiligten steht es frei, den Zivilrechtsweg zu betreten, wenn er sich mit der vom Strafgericht ihm zuerkannten Entschädigung nicht begnügen will\.
+> Dem Privatbeteiligten steht es frei, den Zivilrechtsweg zu betreten, wenn er sich mit der vom Strafgericht ihm zuerkannten Entschädigung nicht begnügen will\.
 
 ### § 373 StPO
 
-Ist das über die privatrechtlichen Ansprüche ergangene strafgerichtliche Erkenntnis in Rechtskraft erwachsen, so ist jeder Beteiligte berechtigt, vom Gerichte, das in erster Instanz erkannt hat, die Anmerkung der Rechtskräftigkeit des Erkenntnisses auf dem Urteile zu begehren; ein solches Erkenntnis hat dann die Wirkung, daß um seine Exekution unmittelbar beim Zivilgericht angesucht werden kann\.
+> Ist das über die privatrechtlichen Ansprüche ergangene strafgerichtliche Erkenntnis in Rechtskraft erwachsen, so ist jeder Beteiligte berechtigt, vom Gerichte, das in erster Instanz erkannt hat, die Anmerkung der Rechtskräftigkeit des Erkenntnisses auf dem Urteile zu begehren; ein solches Erkenntnis hat dann die Wirkung, daß um seine Exekution unmittelbar beim Zivilgericht angesucht werden kann\.
 
 ### § 373a StPO
 
@@ -5587,9 +5587,9 @@ Ist das über die privatrechtlichen Ansprüche ergangene strafgerichtliche Erken
 > `(5)` Die Gewährung eines Vorschusses ist ausgeschlossen, wenn dem Antragsteller mit Rücksicht auf seine Einkommens\- und Vermögensverhältnisse, auf die ihm von Gesetzes wegen obliegenden Unterhaltsverpflichtungen und auf seine sonstigen persönlichen Verhältnisse offenbar zugemutet werden kann, die Vereitelung hinzunehmen\. Ein Vorschuß kann ferner nicht gewährt werden, soweit der Antragsteller gegen einen Dritten Anspruch auf entsprechende Leistungen hat und die Verfolgung dieses Anspruches zumutbar und nicht offenbar aussichtslos ist\. Der Vorschuß darf jenen Entschädigungsbetrag nicht übersteigen, der vom Verurteilten ohne den Strafvollzug innerhalb eines Jahres hätte geleistet werden können \(Abs\. 2\)\.
 
 > `(6)` Die Gewährung eines Vorschusses ist auch ausgeschlossen,
-> 
+>
 >> `1.` soweit ein Anspruch nach dem Bundesgesetz über die Gewährung von Hilfeleistungen an Opfer von Verbrechen gegeben ist;
-> 
+>
 >> `2.` soweit der Anspruch sich auf Leistungen erstreckt, die im Falle des Bestehens von Ansprüchen nach dem in der Z\. 1 genannten Bundesgesetz nicht zu erbringen wären\.
 
 > `(7)` Vorschüsse auf Ansprüche wegen Schädigung am Vermögen sind nur bis zum Ausmaß der eigentlichen Schadloshaltung \(§ 1323 des Allgemeinen bürgerlichen Gesetzbuches\) zu gewähren\.
@@ -5602,11 +5602,11 @@ Ist das über die privatrechtlichen Ansprüche ergangene strafgerichtliche Erken
 
 ### § 373b StPO
 
-Hat das Opfer im Fall eines Verfalls nach § 20 StGB oder eines erweiterten Verfalls nach § 20b StGB einen vollstreckbaren Exekutionstitel für seine Entschädigung erwirkt und wurde diese noch nicht geleistet, so hat das Opfer unbeschadet des § 373a das Recht zu verlangen, dass seine Ansprüche aus dem vom Bund vereinnahmten Vermögenswert befriedigt werden\.
+> Hat das Opfer im Fall eines Verfalls nach § 20 StGB oder eines erweiterten Verfalls nach § 20b StGB einen vollstreckbaren Exekutionstitel für seine Entschädigung erwirkt und wurde diese noch nicht geleistet, so hat das Opfer unbeschadet des § 373a das Recht zu verlangen, dass seine Ansprüche aus dem vom Bund vereinnahmten Vermögenswert befriedigt werden\.
 
 ### § 374 StPO
 
-Um Änderung des rechtskräftigen strafgerichtlichen Ausspruches über privatrechtliche Ansprüche wegen neu aufgefundener Beweismittel sowie um Aufhebung seiner Vollstreckung wegen eines nachgefolgten Tatumstandes kann außer dem Fall einer aus anderen Gründen stattfindenden Wiederaufnahme des Strafverfahrens vom Verurteilten und dessen Rechtsnachfolgern nur vor dem Zivilrichter angesucht werden\.
+> Um Änderung des rechtskräftigen strafgerichtlichen Ausspruches über privatrechtliche Ansprüche wegen neu aufgefundener Beweismittel sowie um Aufhebung seiner Vollstreckung wegen eines nachgefolgten Tatumstandes kann außer dem Fall einer aus anderen Gründen stattfindenden Wiederaufnahme des Strafverfahrens vom Verurteilten und dessen Rechtsnachfolgern nur vor dem Zivilrichter angesucht werden\.
 
 ### § 375 StPO
 
@@ -5622,15 +5622,15 @@ Um Änderung des rechtskräftigen strafgerichtlichen Ausspruches über privatrec
 
 ### § 377 StPO
 
-Unterliegt der fremde Gegenstand oder Vermögenswert einem raschen Verderben, einer erheblichen Wertminderung oder Wertschwankung oder lässt er sich nur mit unverhältnismäßigen Kosten bis zum Ablauf der Ediktalfrist des § 376 Abs\. 1 aufbewahren, so ist er vom Gericht bereits vor diesem Zeitpunkt zu verwerten\. Die Verwertung hat nach den Bestimmungen der Exekutionsordnung zu erfolgen\. Die Verwertung hat durch öffentliche Versteigerung \(§ 274 EO\) oder bei sinngemäßem Vorliegen der in § 280 oder § 326 EO bezeichneten Voraussetzungen auf die dort vorgesehene Weise zu erfolgen\. In den Fällen des § 268 EO ist auch ein Freihandverkauf zulässig\. Der Kaufpreis ist beim Strafgericht zu erlegen, zugleich ist eine genaue Beschreibung jedes verkauften Gegenstands oder Vermögenswerts und der erzielte Erlös auf die in § 376 beschriebene Weise zu veröffentlichen\.
+> Unterliegt der fremde Gegenstand oder Vermögenswert einem raschen Verderben, einer erheblichen Wertminderung oder Wertschwankung oder lässt er sich nur mit unverhältnismäßigen Kosten bis zum Ablauf der Ediktalfrist des § 376 Abs\. 1 aufbewahren, so ist er vom Gericht bereits vor diesem Zeitpunkt zu verwerten\. Die Verwertung hat nach den Bestimmungen der Exekutionsordnung zu erfolgen\. Die Verwertung hat durch öffentliche Versteigerung \(§ 274 EO\) oder bei sinngemäßem Vorliegen der in § 280 oder § 326 EO bezeichneten Voraussetzungen auf die dort vorgesehene Weise zu erfolgen\. In den Fällen des § 268 EO ist auch ein Freihandverkauf zulässig\. Der Kaufpreis ist beim Strafgericht zu erlegen, zugleich ist eine genaue Beschreibung jedes verkauften Gegenstands oder Vermögenswerts und der erzielte Erlös auf die in § 376 beschriebene Weise zu veröffentlichen\.
 
 ### § 378 StPO
 
-Wenn binnen der Ediktalfrist niemand ein Recht auf die beschriebenen Gegenstände dartut, so sind sie, wenn sie aber der Dringlichkeit wegen verkauft wurden, so ist ihr Erlös dem Beschuldigten auf sein Verlangen auszufolgen, sofern nicht durch einen Beschluß des zur Entscheidung in erster Instanz berufenen Gerichtes ausgesprochen ist, daß die Rechtmäßigkeit des Besitzes des Beschuldigten nicht glaubwürdig sei\.
+> Wenn binnen der Ediktalfrist niemand ein Recht auf die beschriebenen Gegenstände dartut, so sind sie, wenn sie aber der Dringlichkeit wegen verkauft wurden, so ist ihr Erlös dem Beschuldigten auf sein Verlangen auszufolgen, sofern nicht durch einen Beschluß des zur Entscheidung in erster Instanz berufenen Gerichtes ausgesprochen ist, daß die Rechtmäßigkeit des Besitzes des Beschuldigten nicht glaubwürdig sei\.
 
 ### § 379 StPO
 
-Gegenstände und Vermögenswerte, die dem Beschuldigten nicht ausgefolgt werden, sind auf die im § 377 angeordnete Weise zu veräußern\. Der Kaufpreis ist an die Bundeskasse abzugeben\. Dem Berechtigten steht jedoch frei, seine Ansprüche auf den Kaufpreis gegen den Bund binnen dreißig Jahren vom Tage der dritten Einschaltung des Ediktes im Zivilrechtswege geltend zu machen\.
+> Gegenstände und Vermögenswerte, die dem Beschuldigten nicht ausgefolgt werden, sind auf die im § 377 angeordnete Weise zu veräußern\. Der Kaufpreis ist an die Bundeskasse abzugeben\. Dem Berechtigten steht jedoch frei, seine Ansprüche auf den Kaufpreis gegen den Bund binnen dreißig Jahren vom Tage der dritten Einschaltung des Ediktes im Zivilrechtswege geltend zu machen\.
 
 ## 18. Hauptstück
 
@@ -5638,42 +5638,42 @@ Gegenstände und Vermögenswerte, die dem Beschuldigten nicht ausgefolgt werden,
 
 ### § 380 StPO
 
-Sofern die besonderen Vorschriften über die Gerichtsgebühren nichts anderes bestimmen, sind in Strafsachen keine Gebühren zu entrichten\.
+> Sofern die besonderen Vorschriften über die Gerichtsgebühren nichts anderes bestimmen, sind in Strafsachen keine Gebühren zu entrichten\.
 
 ### § 381 StPO
 
 > `(1)` Die Kosten des Strafverfahrens, die von der zum Kostenersatze verpflichteten Partei zu ersetzen sind, umfassen:
-> 
+>
 >> `1.` einen Pauschalkostenbeitrag als Anteil an den im Folgenden nicht besonders angeführten Kosten des Strafverfahrens, einschließlich der Kosten der Ermittlungen der Kriminalpolizei und der zur Durchführung von Anordnungen der Staatsanwaltschaft oder des Gerichts notwendigen Amtshandlungen;
-> 
+>
 >> `2.` die Gebühren der Sachverständigen;
-> 
+>
 >> `2a.` soweit nicht nach Abs\. 6 vorzugehen ist, die Gebühren der Dolmetscher, im Fall einer Bestellung nach § 126 Abs\. 2a einen Pauschalbeitrag von 159 Euro;
-> 
+>
 >> `3.` eine Vergütung für Auskünfte, Befunde und Gutachten von Behörden \(Ämtern, Anstalten\) in der Höhe, wie sie für solche Auskünfte, Befunde und Gutachten in Privatangelegenheiten zu entrichten wäre;
-> 
+>
 >> `4.` die Kosten der Beförderung und Bewachung des Beschuldigten im Zusammenhang mit seiner Überstellung aus einem anderen Staat sowie die Kosten aus dem Ausland geladener Zeugen;
-> 
+>
 >> `5.` die Kosten einer Sicherstellung, einer Auskunft über Bankkonten und über Bankgeschäfte oder der Beschlagnahme von Briefen, der Auskunft über Daten einer Nachrichtenübermittlung und der Überwachung von Nachrichten gemäß §§ 111 Abs\. 3, 116 Abs\. 6 letzter Satz und 138 Abs\. 3, soweit diese Ermittlungsmaßnahmen einen erheblichen Beitrag zur Aufklärung der Tat geleistet haben;
-> 
+>
 >> `6.` die Kosten der Vollstreckung des Strafurteiles einschließlich der Kosten der Überstellung von Strafgefangenen in den in\- oder ausländischen Strafvollzug, ausgenommen die Kosten des Vollzuges einer Freiheitsstrafe;
-> 
+>
 >> `7.` die im Strafverfahren zu entrichtenden Gerichtsgebühren;
-> 
+>
 >> `8.` die Kosten der Verteidiger und anderer Vertreter;
-> 
+>
 >> `9.` einen Pauschalbetrag als Anteil an den Kosten der Prozessbegleitung \(§ 66b\) bis zu 1 000 Euro\.
 
 > `(2)` Diese Kosten werden, soweit sich aus besonderen gesetzlichen Vorschriften nichts anderes ergibt, mit Ausnahme der unter Abs\. 1 Z\. 3 und 7 bis 9 bezeichneten Kosten vom Bunde vorgeschossen, vorbehaltlich des Rückersatzes nach den Bestimmungen der §§ 389 bis 391\.
 
 > `(3)` Der Pauschalkostenbeitrag \(Abs\. 1 Z 1\) ist innerhalb der folgenden Grenzen zu bemessen \(Abs\. 5\):
-> 
+>
 >> `1.` im Verfahren vor dem Landesgericht als Geschworenengericht von 500 Euro bis 10 000 Euro
-> 
+>
 >> `2.` im Verfahren vor dem Landesgericht als Schöffengericht von 250 Euro bis 5 000 Euro
-> 
+>
 >> `3.` im Verfahren vor dem Einzelrichter des Landesgerichts von 150 Euro bis 3 000 Euro
-> 
+>
 >> `4.` im Verfahren vor dem Bezirksgericht von 50 Euro bis 1 000 Euro
 
 > `(4)` Spricht ein Landesgericht lediglich eine Verurteilung wegen einer in die Zuständigkeit der Bezirksgerichte fallenden strafbaren Handlung aus, so darf der Pauschalkostenbeitrag den für das Verfahren vor den Bezirksgerichten vorgesehenen Betrag nicht übersteigen\. Im Verfahren vor den Bezirksgerichten auf Grund einer Privatanklage ist ein Pauschalkostenbeitrag nicht zu bestimmen, wenn keine Hauptverhandlung stattgefunden hat und auch keine Zeugen\- oder Sachverständigengebühren aufgelaufen sind\.
@@ -5688,27 +5688,27 @@ Sofern die besonderen Vorschriften über die Gerichtsgebühren nichts anderes be
 
 ### § 382 StPO
 
-Die Gebühren der Organe der Kriminalpolizei für die Anfertigung von Kopien für Zwecke der Akteneinsicht, Zustellungen, Ladungen, Bewachung oder Beförderung des Beschuldigten oder anderer Personen werden durch besondere bundesgesetzliche Bestimmungen geregelt\.
+> Die Gebühren der Organe der Kriminalpolizei für die Anfertigung von Kopien für Zwecke der Akteneinsicht, Zustellungen, Ladungen, Bewachung oder Beförderung des Beschuldigten oder anderer Personen werden durch besondere bundesgesetzliche Bestimmungen geregelt\.
 
 ### § 383 StPO
 
-*\(Aufgehoben\)*
+> *\(Aufgehoben\)*
 
 ### § 384 StPO
 
-*\(Aufgehoben\)*
+> *\(Aufgehoben\)*
 
 ### § 385 StPO
 
-*\(Aufgehoben\)*
+> *\(Aufgehoben\)*
 
 ### § 386 StPO
 
-*\(Aufgehoben\)*
+> *\(Aufgehoben\)*
 
 ### § 387 StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 3\)*
+> *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 3\)*
 
 ### § 388 StPO
 
@@ -5773,13 +5773,13 @@ Die Gebühren der Organe der Kriminalpolizei für die Anfertigung von Kopien fü
 > `(1)` Wird ein nicht lediglich auf Grund einer Privatanklage oder der Anklage eines Privatbeteiligten \(§ 72\) Angeklagter freigesprochen oder das Strafverfahren gemäß § 215 Abs\. 2, § 227, § 451 Abs\. 2 oder § 485 Abs\. 1 Z 3 oder nach einer gemäß § 353, § 362 oder § 363a erfolgten Wiederaufnahme oder Erneuerung des Strafverfahrens eingestellt, so hat ihm der Bund auf Antrag einen Beitrag zu den Kosten der Verteidigung zu leisten\. Der Beitrag umfasst die nötig gewesenen und vom Angeklagten bestrittenen baren Auslagen und außer im Fall des § 61 Abs\. 2 auch einen Beitrag zu den Kosten des Verteidigers, dessen sich der Angeklagte bedient\.
 
 > `(2)` Der Beitrag zu den Kosten der Verteidigung ist unter Bedachtnahme auf den Umfang des Verfahrens, die Komplexität der zu lösenden Tat\- und Rechtsfragen und das Ausmaß des notwendigen oder zweckmäßigen Einsatzes des Verteidigers festzusetzen\. Er darf folgende Beträge nicht übersteigen:
-> 
+>
 >> `1.` im Verfahren vor dem Landesgericht als Schöffen\- und Geschworenengericht 30 000 Euro,
-> 
+>
 >> `2.` im Verfahren vor dem Einzelrichter des Landesgerichts 13 000 Euro,
-> 
+>
 >> `3.` im Verfahren vor dem Bezirksgericht 5 000 Euro\.
-> 
+>
 > &nbsp; Im Fall längerer Dauer der Hauptverhandlung \(§ 221 Abs\. 4\) kann das jeweilige Höchstmaß des Beitrags um die Hälfte überschritten und im Fall extremen Umfangs des Verfahrens \(§ 285 Abs\. 2\) auf das Doppelte erhöht werden\.
 
 > `(3)` Der Ersatzanspruch ist ausgeschlossen, soweit der Angeklagte den das Verfahren begründenden Verdacht vorsätzlich herbeigeführt hat oder das Verfahren lediglich deshalb beendet worden ist, weil der Angeklagte die Tat im Zustand der Zurechnungsunfähigkeit begangen hat oder weil die Ermächtigung zur Strafverfolgung in der Hauptverhandlung zurückgenommen worden ist\. Der Ersatzanspruch steht auch dann nicht zu, wenn die Strafbarkeit der Tat aus Gründen entfällt, die erst nach Einbringung der Anklageschrift oder des Antrages auf Bestrafung eingetreten sind\.
@@ -5790,7 +5790,7 @@ Die Gebühren der Organe der Kriminalpolizei für die Anfertigung von Kopien fü
 
 ### § 394 StPO
 
-Gebührt dem Verteidiger oder dem Vertreter gemäß § 73 eine Belohnung, so ist ihre Bestimmung sowohl in dem Falle, wenn sich der Beschuldigte, der Privatankläger oder der Privatbeteiligte selbst einen solchen wählte, als auch dann, wenn dem Angeklagten ein Verteidiger von Amts wegen beigegeben wurde, dem freien Übereinkommen zwischen dem Vertreter und dem Zahlungspflichtigen überlassen\.
+> Gebührt dem Verteidiger oder dem Vertreter gemäß § 73 eine Belohnung, so ist ihre Bestimmung sowohl in dem Falle, wenn sich der Beschuldigte, der Privatankläger oder der Privatbeteiligte selbst einen solchen wählte, als auch dann, wenn dem Angeklagten ein Verteidiger von Amts wegen beigegeben wurde, dem freien Übereinkommen zwischen dem Vertreter und dem Zahlungspflichtigen überlassen\.
 
 ### § 395 StPO
 
@@ -5817,19 +5817,19 @@ Gebührt dem Verteidiger oder dem Vertreter gemäß § 73 eine Belohnung, so is
 
 ### § 397 StPO
 
-Jedes Strafurteil ist ungesäumt in Vollzug zu setzen, sobald feststeht, daß der Vollstreckung kein gesetzliches Hindernis und insbesondere kein rechtzeitig und von einem hiezu Berechtigten ergriffenes Rechtsmittel entgegensteht, dem das Gesetz aufschiebende Wirkung beimißt \(§ 284 Abs\. 3, § 294 Abs\. 1 und § 344\)\. Ist ein Rechtsmittel zugunsten des verhafteten Angeklagten von solchen Personen ergriffen worden, die hiezu gegen seinen Willen nicht berechtigt sind, so ist der Angeklagte hievon in Kenntnis zu setzen und über den dadurch herbeigeführten Aufschub der Strafvollstreckung zu belehren\. Dasselbe hat zu geschehen, wenn es zweifelhaft ist, ob der verhaftete Angeklagte der Einlegung des Rechtsmittels durch seinen Verteidiger zugestimmt habe\. Die Anordnung des Vollzuges des Strafurteiles steht dem Vorsitzenden des erkennenden Gerichtes zu\.
-
-*\(BGBl\. Nr\. 145/1969, Art\. II Z\. 5\)*
+> Jedes Strafurteil ist ungesäumt in Vollzug zu setzen, sobald feststeht, daß der Vollstreckung kein gesetzliches Hindernis und insbesondere kein rechtzeitig und von einem hiezu Berechtigten ergriffenes Rechtsmittel entgegensteht, dem das Gesetz aufschiebende Wirkung beimißt \(§ 284 Abs\. 3, § 294 Abs\. 1 und § 344\)\. Ist ein Rechtsmittel zugunsten des verhafteten Angeklagten von solchen Personen ergriffen worden, die hiezu gegen seinen Willen nicht berechtigt sind, so ist der Angeklagte hievon in Kenntnis zu setzen und über den dadurch herbeigeführten Aufschub der Strafvollstreckung zu belehren\. Dasselbe hat zu geschehen, wenn es zweifelhaft ist, ob der verhaftete Angeklagte der Einlegung des Rechtsmittels durch seinen Verteidiger zugestimmt habe\. Die Anordnung des Vollzuges des Strafurteiles steht dem Vorsitzenden des erkennenden Gerichtes zu\.
+>
+> *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 5\)*
 
 ### § 398 StPO
 
-Jede Rechtswirkung eines Strafurteils beginnt, wenn nichts anderes bestimmt ist, mit seiner Rechtskraft\.
-
-*\(BGBl\. Nr\. 423/1974, Art\. I Z\. 112\)*
+> Jede Rechtswirkung eines Strafurteils beginnt, wenn nichts anderes bestimmt ist, mit seiner Rechtskraft\.
+>
+> *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 112\)*
 
 ### § 399 StPO
 
-Jedes Urteil gegen einen Beamten \(§ 74 Abs\. 1 Z 4 StGB\) ist, sobald es rechtskräftig wurde, dem Leiter der Dienststelle bekannt zu machen\.
+> Jedes Urteil gegen einen Beamten \(§ 74 Abs\. 1 Z 4 StGB\) ist, sobald es rechtskräftig wurde, dem Leiter der Dienststelle bekannt zu machen\.
 
 ### § 400 StPO
 
@@ -5839,41 +5839,41 @@ Jedes Urteil gegen einen Beamten \(§ 74 Abs\. 1 Z 4 StGB\) ist, sobald es re
 
 ### § 401 StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 6\)*
+> *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 6\)*
 
 ### § 401a StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 6\)*
+> *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 6\)*
 
 ### § 402 StPO
 
-Ist in einem Strafurteil auf den Verlust eines Rechtes erkannt worden oder ist in einem Gesetz vorgesehen, daß die Verurteilung einen solchen Verlust nach sich zieht oder nach sich ziehen kann, so hat das Strafgericht die rechtskräftige Verurteilung der in Betracht kommenden Stelle bekanntzumachen\. Sofern dieser Stelle nicht schon nach anderen gesetzlichen Bestimmungen eine Urteilsausfertigung zugestellt werden muß, ist ihr eine solche Ausfertigung auf ihr Ersuchen zu übersenden\.
-
-*\(BGBl\. Nr\. 145/1969, Art\. II Z\. 7\)*
+> Ist in einem Strafurteil auf den Verlust eines Rechtes erkannt worden oder ist in einem Gesetz vorgesehen, daß die Verurteilung einen solchen Verlust nach sich zieht oder nach sich ziehen kann, so hat das Strafgericht die rechtskräftige Verurteilung der in Betracht kommenden Stelle bekanntzumachen\. Sofern dieser Stelle nicht schon nach anderen gesetzlichen Bestimmungen eine Urteilsausfertigung zugestellt werden muß, ist ihr eine solche Ausfertigung auf ihr Ersuchen zu übersenden\.
+>
+> *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 7\)*
 
 ### § 403 StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 75/1968, Art\. IV Z\. 2\)*
+> *\(Aufgehoben; BGBl\. Nr\. 75/1968, Art\. IV Z\. 2\)*
 
 ### § 404 StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 75/1968, Art\. IV Z\. 2\)*
+> *\(Aufgehoben; BGBl\. Nr\. 75/1968, Art\. IV Z\. 2\)*
 
 ### § 405 StPO
 
-Wie auf Freiheitsstrafen lautende Strafurteile zu vollziehen sind, bestimmen besondere Gesetze\.
-
-*\(BGBl\. Nr\. 145/1969, Art\. II Z\. 8\)*
+> Wie auf Freiheitsstrafen lautende Strafurteile zu vollziehen sind, bestimmen besondere Gesetze\.
+>
+> *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 8\)*
 
 ### § 406 StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 9\)*
+> *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 9\)*
 
 ### § 407 StPO
 
-Von der Verurteilung einer Person, die nicht die österreichische Staatsbürgerschaft besitzt, ist die für die Ausübung der Fremdenpolizei zuständige Behörde unverzüglich zu verständigen\.
-
-*\(BGBl\. Nr\. 423/1974, Art\. I Z\. 114\)*
+> Von der Verurteilung einer Person, die nicht die österreichische Staatsbürgerschaft besitzt, ist die für die Ausübung der Fremdenpolizei zuständige Behörde unverzüglich zu verständigen\.
+>
+> *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 114\)*
 
 ### § 408 StPO
 
@@ -5894,13 +5894,13 @@ Von der Verurteilung einer Person, die nicht die österreichische Staatsbürgers
 > `(1)` Wenn die unverzügliche Zahlung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB den Zahlungspflichtigen unbillig hart träfe, hat der Vorsitzende auf Antrag durch Beschluß einen angemessenen Aufschub zu gewähren\.
 
 > `(2)` Der Aufschub darf jedoch
-> 
+>
 >> `1.` bei Zahlung der ganzen Strafe oder des gesamten Geldbetrages nach § 20 StGB auf einmal oder bei Entrichtung einer 180 Tagessätze nicht übersteigenden Strafe in Teilbeträgen nicht länger sein als ein Jahr,
-> 
+>
 >> `2.` bei Entrichtung einer 180, nicht aber 360 Tagessätze übersteigenden Strafe in Teilbeträgen nicht länger als zwei Jahre und
-> 
+>
 >> `2a.` bei Entrichtung einer 360 Tagessätze übersteigenden Strafe in Teilbeträgen nicht länger als drei Jahre sowie
-> 
+>
 >> `3.` bei Entrichtung einer nicht in Tagessätzen bemessenen Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen nicht länger als fünf Jahre\.
 
 > `(3)` In die gewährte Aufschubsfrist werden Zeiten, in denen der Zahlungspflichtige auf behördliche Anordnung angehalten worden ist, nicht eingerechnet\. Leistet der Zahlungspflichtige zur Schadloshaltung oder Genugtuung eines durch die strafbare Handlung Geschädigten Zahlungen, so ist dies bei der Entscheidung über einen Antrag auf Aufschub angemessen zu berücksichtigen\. Mit Rücksicht auf Entschädigungszahlungen, die innerhalb der zur Zahlung der Geldstrafe oder des Geldbetrages nach § 20 StGB gewährten Frist geleistet werden, kann der Aufschub angemessen längstens aber um ein weiteres Jahr verlängert werden\.
@@ -5923,7 +5923,7 @@ Von der Verurteilung einer Person, die nicht die österreichische Staatsbürgers
 
 ### § 411 StPO
 
-Mit dem Tod des Verurteilten erlischt die Verbindlichkeit zur Zahlung von Geldstrafen, soweit sie noch nicht vollzogen worden sind\. Dies gilt dem Sinne nach für den Verfalls\- und Wertersatz\.
+> Mit dem Tod des Verurteilten erlischt die Verbindlichkeit zur Zahlung von Geldstrafen, soweit sie noch nicht vollzogen worden sind\. Dies gilt dem Sinne nach für den Verfalls\- und Wertersatz\.
 
 ## 20. Hauptstück
 
@@ -5931,7 +5931,7 @@ Mit dem Tod des Verurteilten erlischt die Verbindlichkeit zur Zahlung von Geldst
 
 ### § 412 StPO
 
-*\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
+> *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
 ### § 427 StPO — Abwesenheitsverfahren
 
@@ -5943,7 +5943,7 @@ Mit dem Tod des Verurteilten erlischt die Verbindlichkeit zur Zahlung von Geldst
 
 ### § 428 StPO
 
-Durch das Nichterscheinen eines Angeklagten und das dadurch veranlaßte Ungehorsamverfahren darf das Verfahren gegen die anwesenden Mitangeklagten nicht verzögert werden\. Werden in solchen Fällen Gegenstände, die zur Überweisung der Angeklagten dienen können, den Eigentümern zurückgestellt, so kann diesen die Verpflichtung auferlegt werden, die Beweisstücke auf Begehren wieder beizubringen\. Zugleich ist eine genaue Beschreibung der zurückgestellten Gegenstände zu den Akten zu bringen\.
+> Durch das Nichterscheinen eines Angeklagten und das dadurch veranlaßte Ungehorsamverfahren darf das Verfahren gegen die anwesenden Mitangeklagten nicht verzögert werden\. Werden in solchen Fällen Gegenstände, die zur Überweisung der Angeklagten dienen können, den Eigentümern zurückgestellt, so kann diesen die Verpflichtung auferlegt werden, die Beweisstücke auf Begehren wieder beizubringen\. Zugleich ist eine genaue Beschreibung der zurückgestellten Gegenstände zu den Akten zu bringen\.
 
 ## 21. Hauptstück
 
@@ -5955,20 +5955,20 @@ Durch das Nichterscheinen eines Angeklagten und das dadurch veranlaßte Ungehors
 
 ### § 429 StPO — Verfahren zur Unterbringung
 
-Für die Unterbringung eines Betroffenen \(§ 48 Abs\. 2\) in einem forensisch\-therapeutischen Zentrum \(§ 21 StGB\) gelten die Bestimmungen über das Strafverfahren sinngemäß, soweit im Folgenden nichts anderes bestimmt wird\.
+> Für die Unterbringung eines Betroffenen \(§ 48 Abs\. 2\) in einem forensisch\-therapeutischen Zentrum \(§ 21 StGB\) gelten die Bestimmungen über das Strafverfahren sinngemäß, soweit im Folgenden nichts anderes bestimmt wird\.
 
 ### § 430 StPO — Besonderheiten des Verfahrens
 
 > `(1)` Sobald aufgrund bestimmter Anhaltspunkte \(§ 1 Abs\. 3 StPO\) angenommen werden kann, dass die Voraussetzungen für die Unterbringung in einem forensisch\-therapeutischen Zentrum vorliegen, gelten folgende Besonderheiten:
-> 
+>
 >> `1.` Der Verteidiger ist berechtigt, im Verfahren zur Unterbringung nach § 21 Abs\. 1 StGB zugunsten des Betroffenen auch gegen dessen Willen Anträge zu stellen\.
-> 
+>
 >> `2.` Der Betroffene ist durch einen Sachverständigen der Psychiatrie, vorzugsweise eines solchen, der auch für das Fachgebiet psychiatrische Kriminalprognostik eingetragen ist, zu untersuchen\. Steht ein Sachverständiger der Psychiatrie nicht oder nicht rechtzeitig zur Verfügung, so kann ein Sachverständiger der klinischen Psychologie bestellt werden\.
-> 
+>
 >> `3.` Zu jeder Vernehmung des Betroffenen können ein oder mehrere Sachverständige im Sinne der Z 2 beigezogen werden\.
-> 
+>
 >> `4.` Verhängung und Fortsetzung der Untersuchungshaft sind unzulässig\. Befindet sich der Betroffene bereits in Untersuchungshaft, so hat das Gericht von Amts wegen über die vorläufige Unterbringung zu entscheiden \(§ 431\)\.
-> 
+>
 >> `5.` Im Verfahren zur Unterbringung nach § 21 Abs\. 1 StGB ist ein Anschluss wegen privatrechtlicher Ansprüche unzulässig\.
 
 > `(2)` Das nach § 109 Jurisdiktionsnorm, RGBl\. Nr\. 111/1895, zuständige Gericht ist unverzüglich vom Verfahren und von dessen Beendigung, gegebenenfalls mit der Anregung, einen Erwachsenenvertreter zu bestellen, zu verständigen\. Hat der Betroffene einen gesetzlichen Vertreter, so ist auch dieser zu verständigen\.
@@ -6013,7 +6013,7 @@ Für die Unterbringung eines Betroffenen \(§ 48 Abs\. 2\) in einem forensisch
 
 ### § 434a StPO — Entscheidung durch Urteil
 
-Das Gericht entscheidet über die Unterbringung nach öffentlicher mündlicher Hauptverhandlung, die in sinngemäßer Anwendung der Bestimmungen des 14\. und 15\. Hauptstücks durchzuführen ist, durch Urteil\.
+> Das Gericht entscheidet über die Unterbringung nach öffentlicher mündlicher Hauptverhandlung, die in sinngemäßer Anwendung der Bestimmungen des 14\. und 15\. Hauptstücks durchzuführen ist, durch Urteil\.
 
 ### § 434b StPO — Gleichwertigkeit von Anklage und Antrag auf Unterbringung
 
@@ -6085,11 +6085,11 @@ Das Gericht entscheidet über die Unterbringung nach öffentlicher mündlicher H
 
 ### § 437 StPO
 
-Einen Antrag auf Unterbringung in einer der in den § 22 und § 23 StGB vorgesehenen Anstalten oder auf Anordnung eines Tätigkeitsverbotes hat die Staatsanwaltschaft in der Anklage zu stellen\. Das Gericht kann jedoch auch ohne einen solchen Antrag die Unterbringung oder das Tätigkeitsverbot anordnen\.
+> Einen Antrag auf Unterbringung in einer der in den § 22 und § 23 StGB vorgesehenen Anstalten oder auf Anordnung eines Tätigkeitsverbotes hat die Staatsanwaltschaft in der Anklage zu stellen\. Das Gericht kann jedoch auch ohne einen solchen Antrag die Unterbringung oder das Tätigkeitsverbot anordnen\.
 
 ### § 438 StPO
 
-Liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 22 StGB gegeben seien, und Haftgründe \(§ 173 Abs\. 2 und 6\) vor, kann der Beschuldigte aber nicht ohne Schwierigkeiten in einer Justizanstalt angehalten werden, so ist mit Beschluss anzuordnen, dass die Untersuchungshaft durch vorläufige Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher zu vollziehen ist\. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden\. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden\.
+> Liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 22 StGB gegeben seien, und Haftgründe \(§ 173 Abs\. 2 und 6\) vor, kann der Beschuldigte aber nicht ohne Schwierigkeiten in einer Justizanstalt angehalten werden, so ist mit Beschluss anzuordnen, dass die Untersuchungshaft durch vorläufige Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher zu vollziehen ist\. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden\. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden\.
 
 ### § 439 StPO
 
@@ -6101,7 +6101,7 @@ Liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 2
 
 ### § 440 StPO
 
-Hat der Beschuldigte einen gesetzlichen Vertreter, so ist in einem Verfahren, in dem hinreichende Gründe für die Annahme der Voraussetzungen des § 22 oder § 23 StGB vorliegen, § 434c sinngemäß anzuwenden\.
+> Hat der Beschuldigte einen gesetzlichen Vertreter, so ist in einem Verfahren, in dem hinreichende Gründe für die Annahme der Voraussetzungen des § 22 oder § 23 StGB vorliegen, § 434c sinngemäß anzuwenden\.
 
 ### § 441 StPO
 
@@ -6111,7 +6111,7 @@ Hat der Beschuldigte einen gesetzlichen Vertreter, so ist in einem Verfahren, in
 
 ### § 442 StPO
 
-Liegt einer der im § 173 Abs\. 2 genannten Haftgründe vor, so ist die vorläufige Anhaltung des Betroffenen in einer der im § 441 Abs\. 1 genannten Anstalten anzuordnen\. § 432 und § 433 gelten sinngemäß\.
+> Liegt einer der im § 173 Abs\. 2 genannten Haftgründe vor, so ist die vorläufige Anhaltung des Betroffenen in einer der im § 441 Abs\. 1 genannten Anstalten anzuordnen\. § 432 und § 433 gelten sinngemäß\.
 
 ## 3. Abschnitt
 
@@ -6151,7 +6151,7 @@ Liegt einer der im § 173 Abs\. 2 genannten Haftgründe vor, so ist die vorlä
 
 ### § 446 StPO
 
-Ergeben sich die Voraussetzungen für das selbständige Verfahren erst in der Hauptverhandlung, so kann die Entscheidung auch in einem Urteil ergehen, in dem der Angeklagte freigesprochen oder der Antrag auf Anstaltsunterbringung abgewiesen wird\.
+> Ergeben sich die Voraussetzungen für das selbständige Verfahren erst in der Hauptverhandlung, so kann die Entscheidung auch in einem Urteil ergehen, in dem der Angeklagte freigesprochen oder der Antrag auf Anstaltsunterbringung abgewiesen wird\.
 
 ## 4. Abschnitt
 
@@ -6169,7 +6169,7 @@ Ergeben sich die Voraussetzungen für das selbständige Verfahren erst in der Ha
 
 ### § 447 StPO
 
-Für das Hauptverfahren vor dem Bezirksgericht gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird\.
+> Für das Hauptverfahren vor dem Bezirksgericht gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird\.
 
 ## 1. Abschnitt
 
@@ -6177,7 +6177,7 @@ Für das Hauptverfahren vor dem Bezirksgericht gelten die Bestimmungen für das 
 
 ### § 450 StPO
 
-Ist das Bezirksgericht der Ansicht, dass das Landesgericht zuständig sei, so hat es vor Anordnung der Hauptverhandlung seine sachliche Unzuständigkeit mit Beschluss auszusprechen\. Sobald die Entscheidung rechtswirksam geworden ist, hat der Ankläger die für die Fortführung des Verfahrens erforderlichen Anträge zu stellen\.
+> Ist das Bezirksgericht der Ansicht, dass das Landesgericht zuständig sei, so hat es vor Anordnung der Hauptverhandlung seine sachliche Unzuständigkeit mit Beschluss auszusprechen\. Sobald die Entscheidung rechtswirksam geworden ist, hat der Ankläger die für die Fortführung des Verfahrens erforderlichen Anträge zu stellen\.
 
 ### § 451 StPO
 
@@ -6199,25 +6199,25 @@ Ist das Bezirksgericht der Ansicht, dass das Landesgericht zuständig sei, so ha
 
 ### § 456 StPO
 
-In Privatanklagesachen ist die Öffentlichkeit auch auszuschließen, wenn der Ankläger einem darauf gerichteten Antrag des Angeklagten nicht entgegen tritt\.
+> In Privatanklagesachen ist die Öffentlichkeit auch auszuschließen, wenn der Ankläger einem darauf gerichteten Antrag des Angeklagten nicht entgegen tritt\.
 
 ### § 457 StPO
 
-Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr\.
+> Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr\.
 
 ### § 458 StPO
 
-Der Richter ist berechtigt, nach Schluss der Verhandlung die Fällung des Urteils bis auf den folgenden Tag auszusetzen\. Im Übrigen gelten jedoch auch für die Verhandlung vor dem Bezirksgericht die Bestimmungen des 14\. Hauptstückes\.
+> Der Richter ist berechtigt, nach Schluss der Verhandlung die Fällung des Urteils bis auf den folgenden Tag auszusetzen\. Im Übrigen gelten jedoch auch für die Verhandlung vor dem Bezirksgericht die Bestimmungen des 14\. Hauptstückes\.
 
 ## 2. Abschnitt
 
 ### § 463 StPO — Rechtsmittel gegen Urteile der Bezirksgerichte
 
-Gegen Urteile der Bezirksgerichte, die gegen einen Anwesenden ergangen sind, ist nur das Rechtsmittel der Berufung zulässig, und zwar an das Landesgericht, in dessen Sprengel das Bezirksgericht liegt\.
+> Gegen Urteile der Bezirksgerichte, die gegen einen Anwesenden ergangen sind, ist nur das Rechtsmittel der Berufung zulässig, und zwar an das Landesgericht, in dessen Sprengel das Bezirksgericht liegt\.
 
 ### § 464 StPO
 
-Die Berufung kann ergriffen werden:
+> Die Berufung kann ergriffen werden:
 
 > `1.` wegen vorliegender Nichtigkeitsgründe;
 
@@ -6264,31 +6264,31 @@ Die Berufung kann ergriffen werden:
 ### § 468 StPO
 
 > `(1)` Wegen Nichtigkeit kann die Berufung gegen Urteile der Bezirksgerichte, sofern sie nicht nach besonderen gesetzlichen Vorschriften auch in anderen Fällen zugelassen ist, nur aus einem der folgenden Gründe ergriffen werden:
-> 
+>
 >> `1.` wenn das Bezirksgericht örtlich unzuständig oder nicht gehörig besetzt war oder wenn ein gesetzlich ausgeschlossener Richter \(§§ 43 und 46\) das Urteil gefällt hat;
-> 
+>
 >> `2.` wenn das Bezirksgericht nicht zuständig war, weil die Tat, über die es geurteilt hat, in die Zuständigkeit des Landesgerichts *\(Anm\. 1\) *fällt;
-> 
+>
 >> `2a.` wenn ein Protokoll oder ein anderes amtliches Schriftstück über eine nichtige Erkundigung oder Beweisaufnahme im Ermittlungsverfahren in der Hauptverhandlung verlesen wurde;
-> 
+>
 >> `3.` wenn eine Vorschrift verletzt oder vernachlässigt worden ist, deren Beobachtung das Gesetz bei sonstiger Nichtigkeit vorschreibt \(§§ 115j Abs\. 1, 126 Abs\. 4, 140 Abs\. 1, 144 Abs\. 1, 155 Abs\. 1, 157 Abs\. 2 und 159 Abs\. 3, 221 Abs\. 2 \(455 Abs\. 1\), 228, 250, 252, 260, 271, 427 sowie 439 Abs\. 1 und 2\), oder wenn einer der im § 281 Abs\. 1 Z\. 4 und 5 erwähnten Nichtigkeitsgründe vorliegt;
-> 
+>
 >> `4.` aus den im § 281 Abs\. 1 Z\. 6 bis 11 angegebenen Gründen\.
 
 > `(2)` Die unter Abs\. 1 Z\. 1 und 3 erwähnten Nichtigkeitsgründe können nur unter den in den §§ 281 und 282 Abs\. 2 bezeichneten Bedingungen geltend gemacht werden; doch wird auch der Ankläger der Geltendmachung eines Nichtigkeitsgrundes deshalb nicht verlustig, weil er hinsichtlich eines Formgebrechens die Entscheidung des Richters nicht begehrt und sich die Beschwerde nicht sofort nach Verweigerung oder Verkündung der Entscheidung vorbehalten hat\.
 
-*\(\_\_\_\_\_\_\_\_*
-
-*Anm\. 1: Art\. I Z 198 lit\. b der Novelle BGBl\. I Nr\. 93/2007 lautet: „Im Abs\. 1 Z 2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt\.“\. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“\.\)*
+> *\(\_\_\_\_\_\_\_\_*
+>
+> *Anm\. 1: Art\. I Z 198 lit\. b der Novelle BGBl\. I Nr\. 93/2007 lautet: „Im Abs\. 1 Z 2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt\.“\. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“\.\)*
 
 
 ### § 469 StPO
 
-Das Landesgericht berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder die Staatsanwaltschaft einen der im § 470 angeführten Beschlüsse beantragt\.
+> Das Landesgericht berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder die Staatsanwaltschaft einen der im § 470 angeführten Beschlüsse beantragt\.
 
 ### § 470 StPO
 
-Bei der nichtöffentlichen Beratung kann das Landesgericht:
+> Bei der nichtöffentlichen Beratung kann das Landesgericht:
 
 > `1.` die Berufung als unzulässig zurückweisen, wenn sie zu spät angemeldet oder von einer Person ergriffen worden ist, der das Berufungsrecht überhaupt nicht oder nicht in der Richtung zusteht, in der es in Anspruch genommen wird, oder die darauf verzichtet hat; ferner, wenn der Berufungswerber bei der Anmeldung der Berufung oder in ihrer Ausführung die Punkte des Erkenntnisses, durch die er sich beschwert findet, oder die Nichtigkeitsgründe, derentwegen allein die Berufung ergriffen worden ist, nicht deutlich und bestimmt bezeichnet hat, in welchen Fällen es gegebenenfalls diesen Beschluss dem Verfassungsgerichtshof zu übermitteln hat;
 
@@ -6298,11 +6298,11 @@ Bei der nichtöffentlichen Beratung kann das Landesgericht:
 
 ### § 471 StPO
 
-Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhandlung sowie für die Entscheidung über die Berufung gelten §§ 233 bis 237, 286 Abs\. 1 und 1a *\(Anm\. 1\)*, 287, 288 Abs\. 2 Z 3 erster Satz, 289, 290, 293 Abs\. 4, 294, 295 sowie 296a sinngemäß, soweit im Folgenden nicht anderes bestimmt wird\.
-
-*\(\_\_\_\_\_\_\_\_\_\_\_*
-
-*Anm\. 1: Art\. 1 Z 75 der Novelle BGBl\. I Nr\. 157/2024 lautet: „In § 471 wird das Zitat „§ 286 Abs\. 1 und 1a“ durch das Zitat „§ 286 Abs\. 1 und 2 zweiter Satz“ ersetzt“\.“\. Die Anweisung konnte nicht durchgeführt werden\.\)*
+> Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhandlung sowie für die Entscheidung über die Berufung gelten §§ 233 bis 237, 286 Abs\. 1 und 1a *\(Anm\. 1\)*, 287, 288 Abs\. 2 Z 3 erster Satz, 289, 290, 293 Abs\. 4, 294, 295 sowie 296a sinngemäß, soweit im Folgenden nicht anderes bestimmt wird\.
+>
+> *\(\_\_\_\_\_\_\_\_\_\_\_*
+>
+> *Anm\. 1: Art\. 1 Z 75 der Novelle BGBl\. I Nr\. 157/2024 lautet: „In § 471 wird das Zitat „§ 286 Abs\. 1 und 1a“ durch das Zitat „§ 286 Abs\. 1 und 2 zweiter Satz“ ersetzt“\.“\. Die Anweisung konnte nicht durchgeführt werden\.\)*
 
 ### § 473 StPO
 
@@ -6318,7 +6318,7 @@ Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhan
 
 ### § 474 StPO
 
-Nach Maßgabe der folgenden Bestimmungen erkennt das Landesgericht in der Sache selbst nach den für das Landesgericht als Schöffengericht geltenden Bestimmungen, es sei denn, dass die Berufung als unzulässig oder unbegründet zurückgewiesen wird oder sich das angerufene Landesgericht für unzuständig erklärt\.
+> Nach Maßgabe der folgenden Bestimmungen erkennt das Landesgericht in der Sache selbst nach den für das Landesgericht als Schöffengericht geltenden Bestimmungen, es sei denn, dass die Berufung als unzulässig oder unbegründet zurückgewiesen wird oder sich das angerufene Landesgericht für unzuständig erklärt\.
 
 ### § 475 StPO
 
@@ -6332,7 +6332,7 @@ Nach Maßgabe der folgenden Bestimmungen erkennt das Landesgericht in der Sache 
 
 ### § 476 StPO
 
-In den im § 475 Abs\. 1 und 3 erwähnten Fällen steht es jedoch der Berufungsbehörde frei, sofort oder in einer späteren Sitzung, nötigenfalls unter Wiederholung oder Ergänzung der in erster Instanz gepflogenen Verhandlung und unter Verbesserung der mangelhaft befundenen Prozeßhandlung, in der Sache selbst zu erkennen\.
+> In den im § 475 Abs\. 1 und 3 erwähnten Fällen steht es jedoch der Berufungsbehörde frei, sofort oder in einer späteren Sitzung, nötigenfalls unter Wiederholung oder Ergänzung der in erster Instanz gepflogenen Verhandlung und unter Verbesserung der mangelhaft befundenen Prozeßhandlung, in der Sache selbst zu erkennen\.
 
 ### § 478 StPO
 
@@ -6344,11 +6344,11 @@ In den im § 475 Abs\. 1 und 3 erwähnten Fällen steht es jedoch der Berufung
 
 ### § 479 StPO
 
-Gegen die Urteile der Landesgerichte über eine gemäß den §§ 463, 464 und 478 an sie gelangte Berufung ist ein weiteres Rechtsmittel nicht zulässig\.
+> Gegen die Urteile der Landesgerichte über eine gemäß den §§ 463, 464 und 478 an sie gelangte Berufung ist ein weiteres Rechtsmittel nicht zulässig\.
 
 ### § 480 StPO
 
-Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16\. Hauptstück enthaltenen Bestimmungen\. In den Fällen der §§ 352 bis 356 entscheidet das Bezirksgericht über die Bewilligung der Wiederaufnahme\.
+> Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16\. Hauptstück enthaltenen Bestimmungen\. In den Fällen der §§ 352 bis 356 entscheidet das Bezirksgericht über die Bewilligung der Wiederaufnahme\.
 
 ## 23. Hauptstück
 
@@ -6356,22 +6356,22 @@ Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wi
 
 ### § 483 StPO
 
-*\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
+> *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
 ### § 484 StPO
 
-Der Strafantrag \(§ 210 Abs\. 1\) hat die im § 211 Abs\. 1 angeführten Angaben zu enthalten und jene Beweise zu bezeichnen, deren Aufnahme in der Hauptverhandlung beantragt wird\. Das Gericht hat den Strafantrag dem Angeklagten, gegebenenfalls samt einer Rechtsbelehrung gemäß § 50, insbesondere der Information, ob ein Fall notwendiger Verteidigung gegeben ist, unverzüglich zuzustellen\. § 213 Abs\. 3 gilt sinngemäß\.
+> Der Strafantrag \(§ 210 Abs\. 1\) hat die im § 211 Abs\. 1 angeführten Angaben zu enthalten und jene Beweise zu bezeichnen, deren Aufnahme in der Hauptverhandlung beantragt wird\. Das Gericht hat den Strafantrag dem Angeklagten, gegebenenfalls samt einer Rechtsbelehrung gemäß § 50, insbesondere der Information, ob ein Fall notwendiger Verteidigung gegeben ist, unverzüglich zuzustellen\. § 213 Abs\. 3 gilt sinngemäß\.
 
 ### § 485 StPO
 
 > `(1)` Das Gericht hat den Strafantrag vor Anordnung der Hauptverhandlung zu prüfen und
-> 
+>
 >> `1.` im Fall seiner örtlichen oder sachlichen Unzuständigkeit gemäß § 450 vorzugehen;
-> 
+>
 >> `2.` in den Fällen des § 212 Z 3, 4 und 8 den Strafantrag mit Beschluss zurückzuweisen;
-> 
+>
 >> `3.` in den Fällen des § 212 Z 1, 2 und 7 den Strafantrag mit Beschluss zurückzuweisen und das Verfahren einzustellen;
-> 
+>
 >> `4.` im Übrigen jedoch die Hauptverhandlung nach den für das Verfahren vor dem Landesgericht als Schöffengericht geltenden Bestimmungen anzuordnen\.
 
 > `(1a)` Die Beschwerde der Staatsanwaltschaft gegen einen Beschluss nach Abs\. 1 Z 1 oder Z 2 hat aufschiebende Wirkung\.
@@ -6397,18 +6397,18 @@ Der Strafantrag \(§ 210 Abs\. 1\) hat die im § 211 Abs\. 1 angeführten An
 
 ### § 490 StPO
 
-Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16\. Hauptstück enthaltenen Bestimmungen\. In den Fällen der §§ 352 bis 356 entscheidet das Landesgericht als Einzelrichter über die Bewilligung der Wiederaufnahme\.
+> Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16\. Hauptstück enthaltenen Bestimmungen\. In den Fällen der §§ 352 bis 356 entscheidet das Landesgericht als Einzelrichter über die Bewilligung der Wiederaufnahme\.
 
 ## 23a. Hauptstück
 
 ### § 491 StPO — Mandatsverfahren
 
 > `(1)` Im Verfahren vor dem Bezirksgericht und vor dem Landesgericht als Einzelrichter kann das Gericht auf Antrag der Staatsanwaltschaft die Strafe durch schriftliche Strafverfügung ohne vorausgehende Hauptverhandlung festsetzen, wenn
-> 
+>
 >> `1.` es sich um ein Vergehen handelt und der Angeklagte gemäß §§ 164 oder 165 zum Anklagevorwurf vernommen wurde und nach Information über die Folgen ausdrücklich auf die Durchführung einer Hauptverhandlung verzichtet hat,
-> 
+>
 >> `2.` kein Grund für ein Vorgehen nach §§ 191 Abs\. 2, 199 oder anderen darauf verweisenden Vorschriften, §§ 450, 451 Abs\. 2 oder 485 Abs\. 1 Z 2 oder 3 sowie nach § 37 SMG vorliegt,
-> 
+>
 >> `3.` die Ergebnisse des Ermittlungsverfahrens in Verbindung mit der Verantwortung des Angeklagten zur Beurteilung aller für die Schuld\- und Straffrage entscheidenden Umstände ausreichen sowie die Rechte und gerechtfertigten Interessen des Opfers keine Beeinträchtigung erfahren\.
 
 > `(2)` Mit Strafverfügung darf nur eine Geldstrafe oder – soweit der Angeklagte durch einen Verteidiger vertreten ist – eine ein Jahr nicht übersteigende, gemäß § 43 Abs\. 1 StGB bedingt nachzusehende Freiheitsstrafe verhängt werden\. Ein Ausspruch nach § 494a Abs\. 1 Z 4 ist dem nach § 495 zuständigen Gericht vorzubehalten\.
@@ -6416,15 +6416,15 @@ Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wi
 > `(3)` Soweit das Gericht dies zur Klärung der Voraussetzungen nach Abs\. 1 für erforderlich erachtet, kann es den Angeklagten und das Opfer vernehmen und gegebenenfalls nach § 69 vorgehen\.
 
 > `(4)` Die Strafverfügung muss enthalten:
-> 
+>
 >> `1.` die Bezeichnung des Gerichts und den Namen des Richters,
-> 
+>
 >> `2.` den Vor\- und den Familiennamen sowie alle früher geführten Namen, Tag und Ort der Geburt, die Staatsangehörigkeit und den Beruf des Angeklagten,
-> 
+>
 >> `3.` den Ausspruch des Gerichts über die Schuld des Angeklagten mit allen in § 260 angeführten Punkten,
-> 
+>
 >> `4.` die vom Gericht als erwiesen angenommenen Tatsachen in gedrängter Darstellung sowie die für die Strafbemessung und gegebenenfalls die für die Bemessung des Tagessatzes \(§ 19 Abs\. 2 StGB\) maßgebenden Umstände in Schlagworten,
-> 
+>
 >> `5.` eine Information über das Recht, einen Einspruch zu erheben mit dem deutlichen Hinweis, dass die Strafverfügung mit allen Wirkungen einer Verurteilung in Rechtskraft übergehen und vollstreckt werden würde, falls ein solcher nicht oder nicht rechtzeitig erhoben wird\.
 
 > `(5)` Die Strafverfügung ist dem Angeklagten und gegebenenfalls seinem Verteidiger sowie dem Opfer und gegebenenfalls seinem Vertreter samt dem Strafantrag auf die in § 83 Abs\. 3 bezeichnete Weise zuzustellen\.
@@ -6439,11 +6439,11 @@ Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wi
 
 ### § 491a StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 148\)*
+> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 148\)*
 
 ### § 491b StPO
 
-*\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 148\)*
+> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 148\)*
 
 ## 24. Hauptstück
 
@@ -6476,13 +6476,13 @@ Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wi
 ### § 494a StPO
 
 > `(1)` Wird jemand wegen einer strafbaren Handlung verurteilt, die er vor Ablauf der Probezeit nach einem Schuldspruch unter Vorbehalt der Strafe, einer bedingten Nachsicht oder bedingten Entlassung begangen hat, so hat das erkennende Gericht nach den folgenden Bestimmungen vorzugehen:
-> 
+>
 >> `1.` Liegen die Voraussetzungen für ein Unterbleiben des nachträglichen Ausspruches der Strafe \(§§ 15, 16 JGG\) vor, so ist auszusprechen, daß die neue Verurteilung für einen solchen Ausspruch keinen Anlaß bildet\.
-> 
+>
 >> `2.` Liegen die Voraussetzungen für das Absehen vom Widerruf einer bedingten Nachsicht oder bedingten Entlassung vor, so ist auszusprechen, daß von einem Widerruf aus Anlaß der neuen Verurteilung abgesehen wird\.
-> 
+>
 >> `3.` Liegen die Voraussetzungen für einen nachträglichen Ausspruch der Strafe \(§§ 15, 16 JGG\) vor, so ist die Strafe in einem Ausspruch so zu bemessen, wie wenn die Verurteilung wegen beider strafbarer Handlungen gemeinsam erfolgt wäre; im übrigen ist auszusprechen, daß in dem Verfahren, in dem der Schuldspruch unter Vorbehalt der Strafe ergangen ist, ein nachträglicher Strafausspruch nicht mehr in Betracht kommt\.
-> 
+>
 >> `4.` Liegen die Voraussetzungen für den Widerruf einer bedingten Nachsicht oder bedingten Entlassung vor, so ist der Widerruf auszusprechen\.
 
 > `(2)` Ein Ausspruch nach Abs\. 1 Z\. 4 steht dem Einzelrichter beim Landesgericht nur bei Strafen und Strafresten zu, die das Ausmaß von je fünf Jahren nicht übersteigen, und dem Bezirksgericht nur bei Strafen und Strafresten, die das Ausmaß von je einem Jahr nicht übersteigen\. Der Widerruf einer bedingten Entlassung aus einer Unterbringung nach § 21 Abs\. 1 oder 2 StGB oder einer lebenslangen Freiheitsstrafe ist dem Landesgericht als Schöffen\- oder Geschworenengericht vorbehalten\. Soweit das erkennende Gericht sonach eine Entscheidung nach Abs\. 1 Z\. 4 nicht treffen darf, hat es auszusprechen, daß die Entscheidung über den Widerruf dem Gericht vorbehalten bleibt, dem sonst die Entscheidung zukäme\.
@@ -6498,7 +6498,7 @@ Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wi
 
 ### § 494b StPO
 
-Hat das erkennende Gericht bei der Urteilsfällung einen Ausspruch nach § 494a Abs\. 1 Z 3 oder 4 zu Unrecht unterlassen oder im Fall eines Ausspruches nach § 494a Abs\. 1 Z 2 die Probezeit nicht verlängert und hat der Ankläger das Unterbleiben einer solchen Entscheidung nicht angefochten, so darf ein nachträglicher Ausspruch der Strafe, ein Widerruf der bedingten Nachsicht oder Entlassung oder eine Verlängerung der Probezeit aus Anlaß der neuen Verurteilung nicht mehr erfolgen, sofern die frühere Verurteilung oder die bedingte Entlassung aktenkundig war\.
+> Hat das erkennende Gericht bei der Urteilsfällung einen Ausspruch nach § 494a Abs\. 1 Z 3 oder 4 zu Unrecht unterlassen oder im Fall eines Ausspruches nach § 494a Abs\. 1 Z 2 die Probezeit nicht verlängert und hat der Ankläger das Unterbleiben einer solchen Entscheidung nicht angefochten, so darf ein nachträglicher Ausspruch der Strafe, ein Widerruf der bedingten Nachsicht oder Entlassung oder eine Verlängerung der Probezeit aus Anlaß der neuen Verurteilung nicht mehr erfolgen, sofern die frühere Verurteilung oder die bedingte Entlassung aktenkundig war\.
 
 ### § 495 StPO
 
@@ -6538,7 +6538,7 @@ Hat das erkennende Gericht bei der Urteilsfällung einen Ausspruch nach § 494a
 
 ### § 499 StPO
 
-Soldat im Sinne dieses Gesetzes ist jeder Angehörige des Präsenzstandes des Bundesheeres\.
+> Soldat im Sinne dieses Gesetzes ist jeder Angehörige des Präsenzstandes des Bundesheeres\.
 
 ### § 500 StPO
 
@@ -6555,9 +6555,9 @@ Soldat im Sinne dieses Gesetzes ist jeder Angehörige des Präsenzstandes des Bu
 ### § 502 StPO
 
 > `(1)` Auch militärische Kommanden sowie jene Soldaten, die dem für die militärische Sicherheit und Ordnung im Standort oder in der Unterkunft verantwortlichen Kommandanten \(Garnisonskommandanten oder Kasernkommandanten\) zum Zwecke der Besorgung dieser Aufgaben unterstellt sind, und, soweit sie nicht schon zu diesem Personenkreis zählen, Wachen können die Festnahme \(§ 170\) des Beschuldigten vornehmen,
-> 
+>
 >> `1.` wenn der Beschuldigte auf einer militärischen Liegenschaft auf frischer Tat betreten wird oder
-> 
+>
 >> `2.` wenn der Beschuldigte Soldat ist, einer der in § 170 Abs\. 1 Z\. 2 bis 4 angeführten Umstände vorliegt und wegen Gefahr im Verzug eine vom Gericht bewilligte Anordnung der Staatsanwaltschaft nicht rechtzeitig eingeholt werden kann\.
 
 > `(2)` §§ 170 Abs\. 3 und 172 gelten dem Sinne nach\.
@@ -6574,11 +6574,11 @@ Soldat im Sinne dieses Gesetzes ist jeder Angehörige des Präsenzstandes des Bu
 
 ### § 504 StPO
 
-Von Amtshandlungen der Kriminalpolizei, der Staatsanwaltschaft oder des Gerichts auf militärischen Liegenschaften ist der Kommandant vorher in Kenntnis zu setzen; auf sein Verlangen ist ein von ihm beigegebener Soldat zuzuziehen\.
+> Von Amtshandlungen der Kriminalpolizei, der Staatsanwaltschaft oder des Gerichts auf militärischen Liegenschaften ist der Kommandant vorher in Kenntnis zu setzen; auf sein Verlangen ist ein von ihm beigegebener Soldat zuzuziehen\.
 
 ### § 505 StPO
 
-Ladungen und Anordnungen, Entscheidungen und sonstige Schriftstücke sind Soldaten in der Regel durch das unmittelbar vorgesetzte Kommando zuzustellen\. Dieses hat das rechtzeitige Erscheinen des Geladenen zu veranlassen und ihn nötigenfalls auch von Amts wegen zum Termin vorzuführen\.
+> Ladungen und Anordnungen, Entscheidungen und sonstige Schriftstücke sind Soldaten in der Regel durch das unmittelbar vorgesetzte Kommando zuzustellen\. Dieses hat das rechtzeitige Erscheinen des Geladenen zu veranlassen und ihn nötigenfalls auch von Amts wegen zum Termin vorzuführen\.
 
 ### § 506 StPO
 
@@ -6590,15 +6590,15 @@ Ladungen und Anordnungen, Entscheidungen und sonstige Schriftstücke sind Soldat
 
 ### § 507 StPO — Gnadenverfahren
 
-Eine Begnadigung steht nur dem Bundespräsidenten auf Vorschlag der Bundesregierung oder des von ihr ermächtigten Bundesministers für Justiz zu \(Art\. 65 Abs\. 2 lit\. c, Art\. 67 Abs\. 1 B\-VG\)\. Eine Begnadigung kann von Amts wegen oder aus Anlaß eines Gesuches vorgeschlagen werden; ein Recht darauf besteht nicht\.
+> Eine Begnadigung steht nur dem Bundespräsidenten auf Vorschlag der Bundesregierung oder des von ihr ermächtigten Bundesministers für Justiz zu \(Art\. 65 Abs\. 2 lit\. c, Art\. 67 Abs\. 1 B\-VG\)\. Eine Begnadigung kann von Amts wegen oder aus Anlaß eines Gesuches vorgeschlagen werden; ein Recht darauf besteht nicht\.
 
 ### § 508 StPO
 
-Gnadengesuche sind beim Bundesminister für Justiz einzubringen; bei Gerichten oder anderen Justizbehörden einlangende Gesuche sind unverzüglich und unmittelbar an den Bundesminister für Justiz weiterzuleiten\.
+> Gnadengesuche sind beim Bundesminister für Justiz einzubringen; bei Gerichten oder anderen Justizbehörden einlangende Gesuche sind unverzüglich und unmittelbar an den Bundesminister für Justiz weiterzuleiten\.
 
 ### § 509 StPO
 
-Der Bundesminister für Justiz kann zur Klärung der Voraussetzungen für die Erstattung von Gnadenvorschlägen
+> Der Bundesminister für Justiz kann zur Klärung der Voraussetzungen für die Erstattung von Gnadenvorschlägen
 
 > `1.` Erhebungen durchführen, die Sicherheitsbehörden und andere geeignete Stellen um Erhebungen ersuchen oder die Staatsanwaltschaften mit deren Veranlassung beauftragen;
 
@@ -6632,7 +6632,7 @@ Der Bundesminister für Justiz kann zur Klärung der Voraussetzungen für die Er
 
 ### § 513 StPO
 
-Bei den Erhebungen im Gnadenverfahren sind die Bestimmungen des Allgemeinen Verwaltungsverfahrensgesetzes 1991 sinngemäß anzuwenden\. Dem Verurteilten ist auf Verlangen Einsicht in die Ergebnisse der Erhebungen zu gewähren\.
+> Bei den Erhebungen im Gnadenverfahren sind die Bestimmungen des Allgemeinen Verwaltungsverfahrensgesetzes 1991 sinngemäß anzuwenden\. Dem Verurteilten ist auf Verlangen Einsicht in die Ergebnisse der Erhebungen zu gewähren\.
 
 ## 6. TEIL
 
@@ -6717,31 +6717,31 @@ Bei den Erhebungen im Gnadenverfahren sind die Bestimmungen des Allgemeinen Verw
 > `(36)` §§ 30 Abs\. 1 und 31 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 117/2017 treten mit 1\. September 2017 in Kraft\.
 
 > `(37)` Für das Inkrafttreten der durch das Bundesgesetz BGBl\. I Nr\. 27/2018 geänderten oder eingefügten Bestimmungen und das Außer\-Kraft\-Treten der durch dieses Bundesgesetz entfallenen Bestimmungen gilt Folgendes:
-> 
+>
 >> `1.` Der Eintrag des Titels von § 76a und von § 135 im Inhaltsverzeichnis sowie § 67 Abs\. 7, § 94, § 116 Abs\. 6, § 134 Z 2a, 2b und 3, die Überschrift von § 135, § 135 Abs\. 1, Abs\. 2a, 2b und 3 Z 3, § 136 Abs\. 1 Z 3, Abs\. 2 und 4, § 137 Abs\. 3, § 138 Abs\. 2, 3 und 5, § 147 Abs\. 1 Z 3, § 147 Abs\. 1 Z 5, § 221 Abs\. 1, § 381 Abs\. 1 Z 5, § 430 Abs\. 5 und § 516a Abs\. 7 und 8 treten mit 1\. Juni 2018 in Kraft; gleichzeitig entfällt § 137 Abs\. 2\.
-> 
+>
 >> `2.` Soweit nicht in Z 3 Abweichendes bestimmt ist, treten die Überschrift des 5\. Abschnitts des 8\. Hauptstücks im Inhaltsverzeichnis, die Überschrift des 5\. Abschnitts des 8\. Hauptstücks sowie § 134 Z 5, § 137 Abs\. 1, § 138 Abs\. 1, § 140 Abs\. 1 Z 2 und 4, § 144 Abs\. 3, § 145 Abs\. 3 und § 147 Abs\. 2 mit 1\. Juni 2018 in Kraft\.
-> 
+>
 >> `3.` Folgende Bestimmungen und Wendungen treten mit 1\. April 2020 in Kraft und mit Ablauf des 31\. März 2025 wieder außer Kraft:
->> 
+>>
 >>> `a.` in der Überschrift des 5\. Abschnitts des 8\. Hauptstücks im Inhaltsverzeichnis und in der Überschrift des 5\. Abschnitts des 8\. Hauptstücks die Wendung „, verschlüsselter Nachrichten“,
->> 
+>>
 >>> `b.` in § 134 Z 5 die Wendung, „die verschlüsselt gesendeten, übermittelten oder empfangenen Nachrichten und Informationen im Sinne von Z 3 sowie damit in Zusammenhang stehende Daten im Sinn des § 76a und des § 92 Abs\. 3 Z 4 und 4a TKG \(Z 3a\)“,
->> 
+>>
 >>> `c.` in § 137 Abs\. 1 die Wendung „§ 135a Abs\. 3 oder“,
->> 
+>>
 >>> `d.` in § 138 Abs\. 1, § 140 Z 2, § 144 Abs\. 3 und § 145 Abs\. 3 die Wendung „, § 135a“,
->> 
+>>
 >>> `e.` in § 138 Abs\. 1 Z 1 die Wendung „des Inhabers oder Verfügungsbefugten des Computersystems, in dem ein Programm zur Überwachung verschlüsselter Nachrichten installiert werden soll,“,
->> 
+>>
 >>> `f.` in § 138 Abs\. 1 Z 2 die Wendung „oder das Computersystem, in dem ein Programm zur Überwachung verschlüsselter Nachrichten installiert werden soll“,
->> 
+>>
 >>> `g.` in § 140 Abs\. 1 Z 4 die Wendung „und § 135a“, und
->> 
+>>
 >>> `h.` in § 147 Abs\. 2 die Wendung „oder Überwachung verschlüsselter Nachrichten nach § 135a“\.
-> 
+>
 >> `4.` Der Eintrag des Titels von § 135a im Inhaltsverzeichnis sowie § 134 Z 3a, § 135a, § 145 Abs\. 4, § 147 Abs\. 1 Z 2a und Abs\. 3a sowie § 148 treten mit 1\. April 2020 in Kraft und mit Ablauf des 31\. März 2025 wieder außer Kraft\.
-> 
+>
 >> `5.` § 209b Abs\. 1 tritt mit 1\. Juni 2018 in Kraft und mit Ablauf des 31\. Dezember 2021 wieder außer Kraft\.
 
 > `(38)` § 20a Abs\. 3 und § 99 Abs\. 5, in der Fassung des BGBl\. I Nr\. 28/2018 treten mit 1\. Juli 2018 in Kraft\.
@@ -6857,4 +6857,4 @@ Bei den Erhebungen im Gnadenverfahren sind die Bestimmungen des Allgemeinen Verw
 
 ### § 517 StPO — Vollziehung
 
-Mit der Vollziehung dieses Gesetzes ist der Bundesminister für Justiz betraut\.
+> Mit der Vollziehung dieses Gesetzes ist der Bundesminister für Justiz betraut\.
