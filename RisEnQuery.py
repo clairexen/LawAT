@@ -7,7 +7,7 @@
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
 Use with `from RisEnQuery import *`.
-Run `tx(intro())` (or `md(intro())`) for an introduction
+Run `intro()` for an introduction
 """
 
 _rex_src, _rex_repcnt = None, 0
@@ -20,9 +20,9 @@ def intro():
     """
         Print the introduction message for RisEnQuery.py.
     """
-    v(_rex_into_message)
+    v(_rex_intro_message)
 
-_rex_into_message = """
+_rex_intro_message = r"""
 Utility library for accessing and searching RisExFiles.zip.
 
 Import as follows in Chat-GPT(-like) script environments:
@@ -35,10 +35,10 @@ Formatbeschreibung (zipped) Markdown+JSON-Datensätze in RisExFiles.zip
 ======================================================================
 
 - Längere Normen sind in Blöcke zu je ca. 20 kB zerteilt
-- Paragraphenbeginn: "### § <nr> StGB. # <titel>" (Markdown H3)
-- Paragraph ohne Absätze: "`§ <nr> StGB.`␣␣\n<text>" (Markdown "quoted code", 2x space + newline)
-- Bzw. für jeden Absatz: "`§ <nr> (<abs>) StGB.`␣␣\n<text>" (Markdown "quoted code", 2x space + newline)
-- Unterpunkte: "`§ <nr> (<abs>) Z <Z> lit. <lit> StGB.`\n<text>" (ohne 2x space)
+- Paragraphenbeginn: ``` ### § <nr> StGB. # <titel> ``` (Markdown H3)
+- Paragraph ohne Absätze: ``` `§ <nr> StGB.`␣␣\n<text> ``` (Markdown "quoted code", 2x space + newline)
+- Bzw. für jeden Absatz: ``` `§ <nr> (<abs>) StGB.`␣␣\n<text> ``` (Markdown "quoted code", 2x space + newline)
+- Unterpunkte: ``` `§ <nr> (<abs>) Z <Z> lit. <lit> StGB.`\n<text> ``` (ohne 2x space)
 - TOC (`.index.json`) referenziert exakt die Zeilennummern der Überschriften im Markdown
 - Trennung der Paragraphen durch nächste "### §"-Zeile oder "## "-Heading oder Dateiende
 - Unicode-Zeichen (ä, ß, etc.) und geschützte Leerzeichen (\xa0) möglich
@@ -57,7 +57,7 @@ exec(open("/mnt/data/RisEnQuery.py").read().replace("#/#", "", 1))
 
 Example Session:
 
-```
+````
 >>> from RisEnQuery import *
 >>> p(toc("Begr", "BG.StGB"))
 ## Achter Abschnitt # Begriffsbestimmungen | BG.StGB.004:11-12
@@ -85,7 +85,7 @@ Example Session:
 
 >>> sel() # Reset Selection
 
->>> with sel("BG.StPO", "BG.StGB"): utoc("+Anzeig") # Change selection temporarily
+>>> with sel("BG.StPO", "BG.StGB"): p(toc("+Anzeig")) # Change selection temporarily
 ### § 25 StPO # Örtliche Zuständigkeit | BG.StPO.001:278-302
 ### § 25a StPO # Abtretung | BG.StPO.001:303-310
 ### § 44 StPO # Anzeige der Ausgeschlossenheit und Antrag auf Ablehnung | BG.StPO.003:33-43
@@ -104,7 +104,7 @@ Example Session:
 ### § 298 StGB # Vortäuschung einer mit Strafe bedrohten Handlung | BG.StGB.012:117-124
 
 
->>> with sel("BG.StPO", "BG.StGB", "BG.ABGB"): uls("*.toc.md")
+>>> with sel("BG.StPO", "BG.StGB", "BG.ABGB"): p(ls("*.toc.md"))
 BG.ABGB.toc.md
 BG.StGB.toc.md
 BG.StPO.toc.md
@@ -138,7 +138,7 @@ für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere 
 `    c)`
 sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder
 
->>> p(toc(find("+verfälscht", "BG.StGB") & find("+Urkund", "BG.StGB"))) # Liste der StGB Paragraphen mit "verfälscht" und "Urkund" im Text
+>>> p(toc(s("+verfälscht", "BG.StGB") & s("+Urkund", "BG.StGB"))) # Liste der StGB Paragraphen mit "verfälscht" und "Urkund" im Text
 ### § 147 StGB # Schwerer Betrug | BG.StGB.006:496-518
 ### § 223 StGB # Urkundenfälschung | BG.StGB.009:33-40
 ### § 224a StGB # Annahme, Weitergabe oder Besitz falscher oder verfälschter besonders geschützter Urkunden | BG.StGB.009:46-50
@@ -161,7 +161,7 @@ eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfrem
 
 ### § 165 StGB # Geldwäscherei | BG.StGB.006:894-925
 ...
-```
+````
 
 Zweck:
 ------
@@ -182,7 +182,7 @@ Funktionen:
   → Erstellt ein Regex-Objekt aus einem Shell-Muster, Fix-String (=) oder RegEx (/).
 
 - sel(*p):
-  → Selektiert die Liste der Normen die bei toc(), get(), und find() verwendet werden
+  → Selektiert die Liste der Normen die bei toc(), get(), und s() verwendet werden
      wenn normPat den Wert None hat. (Reset mit sel() ohne argumente.)
 
 - toc(searchPat, normPat=None):
@@ -190,12 +190,12 @@ Funktionen:
      Gibt eine liste der gefundenden Überschriften zurück.  WICHTIG: Die Dateinamen
      beginnen mit dem Typ des Gesetzes. Also zB "BG.StGB", nicht nur "StGB".
 
+- s(searchPat, normPat=None):
+  → Ähnlich toc(), aber gibt ein set von fetch keys zurück.
+
 - get(searchPat, normPat=None):
   → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Zitiert die gefundenden Paragraphen vollständig.
-
-- s(searchPat, normPat=None):
-  → Ähnlich toc() und get(), aber gibt ein set von fetch keys zurück.
 
 - g(searchPat, normPat=None):
   → Ein Alias für p(get(...))
@@ -227,7 +227,7 @@ Normbegriffe können ähnlich, aber unterschiedlich zwischen Ländern oder Parag
 Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem Recht korrekt zitiert wird.
 
 Merksatz: "Immer zuerst toc() oder get() – nie raten!"
-"""
+""".split("\n")
 
 import json, os, sys, re, fnmatch
 
@@ -260,6 +260,46 @@ _rex_selected = None
 _rex_index = _rex_rd_json("index.json")
 _rex_sorted_norms = tuple(sorted(_rex_index.keys()))
 _rex_is_upy = sys.implementation.name == 'micropython'
+_rex_edit_history = list()
+_rex_print_f = print
+_rex_trace_f = lambda*args,**kwargs: print(*args, **kwargs, file=sys.stderr) if _rex_trace else None
+
+def _rex_capture(fun):
+    capture_buffer = []
+    def capture_print_f(*args, sep=' ', end='\n', file=None, flush=False):
+        capture_buffer.append(sep.join(str(a) for a in args) + end)
+        return print(*args, sep=sep, end=end, file=file, flush=flush)
+
+    global _rex_print_f
+    old_rex_print_f = _rex_print_f
+    _rex_print_f = capture_print_f
+    fun()
+    _rex_print_f = old_rex_print_f
+    return "".join(capture_buffer).split("\n")
+
+def _rex_rerun_intro_examples(cmds = None):
+    if cmds is None:
+        cmds = [line.removeprefix(">>> ") for line in re.sub(r"^.*?\n````\n|\n````.*?$", "",
+                "\n".join(_rex_intro_message), 0, re.S).split("\n") if line.startswith(">>> ")]
+    output_buffer = []
+    local_vars = dict()
+
+    for cmd in cmds:
+        p(f"\n>>> {cmd}")
+        output_buffer.append("")
+        output_buffer.append(f">>> {cmd}")
+        if cmd.startswith("from RisEnQuery "): continue
+        output = _rex_capture(lambda: exec(cmd, globals(), local_vars))
+        if len(output) > 20: output = [*output[:20], "..."]
+        output_buffer += output
+
+    return output_buffer
+
+def _rex_update_intro_examples():
+    new_code = re.sub(r"\n````\n.*?\n````\n",
+            "\n````\n" + "\n".join(_rex_rerun_intro_examples()) + "\n````\n",
+            open("RisEnQuery.py").read(), 1, re.S)
+    open("RisEnQuery.py.new", "w").write(new_code)
 
 def reload(count=None):
     """
@@ -326,12 +366,10 @@ def fetch(key: str):
                     if (fn + ext) in _rex_dir: fn += ext; break
             src = _rex_src if _rex_src is not None else "files/"
             if fn.endswith(".json"):
-                if _rex_trace:
-                    print(f"Fetching JSON from '{src}': {fn}", file=sys.stderr)
+                _rex_trace_f(f"Fetching JSON from '{src}': {fn}")
                 _rex_fetch_cache[key] = _rex_rd_json(fn)
             else:
-                if _rex_trace:
-                    print(f"Fetching TEXT from '{src}': {fn}", file=sys.stderr)
+                _rex_trace_f(f"Fetching TEXT from '{src}': {fn}")
                 data = _rex_rd_text(fn)
                 if type(data) is str:
                     data = data.split("\n")
@@ -409,7 +447,7 @@ def sel(*p):
         Select a list of norms.
 
         This list of files is used whenever the normPat argument to toc(),
-        get(), or find() is left None.
+        get(), or s() is left None.
 
         Running sel() without arguments resets the list of selected files.
 
@@ -450,7 +488,7 @@ def toc(searchPat: str, normPat: str = None):
         See pat() for details on the pattern syntax.
 
         In addition, searchPat may also be a set of fetch keys,
-        such as returned by find().
+        such as returned by s().
     """
 
     setMode = type(searchPat) is set
@@ -608,17 +646,31 @@ def untag(*a):
 
     return "\n".join(outLines)
 
+def edit(text=""):
+    import tempfile
+    if not isinstance(text, str):
+        return edit("\n".join(text)).split("\n")
+    with tempfile.NamedTemporaryFile(delete_on_close=False) as fp:
+        fp.write(text.encode())
+        fp.close()
+        os.system(f"editor '{fp.name}' 2> x");
+        new_text = open(fp.name).read()
+    _rex_edit_history.append((text, new_text))
+    return new_text
+
 def p(*a):
     """
         Print (markdown or any other) text to the console as-is
     """
     for s in a:
-        if not isinstance(s, str):
+        if isinstance(s, (tuple, int)) or s is None:
+            s = str(s)
+        elif not isinstance(s, str):
             items = [str(t) for t in s]
             if isinstance(s, set):
                 items = sorted(items)
             s = "\n".join(items) + "\n"
-        print(s)
+        _rex_print_f(s)
 
 def h(a):
     """
@@ -628,7 +680,7 @@ def h(a):
         if type(s) is str:
             s = s.split("\n")
         for line in s:
-            if line.startswith("#"): print(line)
+            if line.startswith("#"): _rex_print_f(line)
 
 def v(*a):
     """
@@ -664,7 +716,7 @@ def v(*a):
 
     for s in a:
         if type(s) is not str:
-            s = "\n".join([f"{t[0]} | {t[1]}" if type(t) is tuple else t for t in s]) + "\n"
+            s = "\n".join([str(t) for t in s]) + "\n"
         Console().print(Markdown(s))
 
     Heading.__rich_console__ = original__rich_console__
@@ -673,7 +725,7 @@ if __name__ == "__main__" and len(sys.argv) > 1 and _rex_repcnt == 0:
     if sys.argv[1] == "intro":
         txintro()
     elif sys.argv[1] == "ls":
-        uls(*sys.argv[2:])
+        p(ls(*sys.argv[2:]))
     elif sys.argv[1] == "fetch":
         p(fetch(*sys.argv[2:]))
     elif sys.argv[1] == "pat":
