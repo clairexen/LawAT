@@ -545,6 +545,7 @@ class RisDocMarkdownEngine:
                 self.indentSinceLine(firstIndentLine)
                 firstIndentLine = None
 
+        anchor = None
         lastTyp = None
         for item in parDoc[1:]:
             if type(item[0]) is dict:
@@ -579,6 +580,7 @@ class RisDocMarkdownEngine:
                         if parCiteStr not in self.idxout:
                             self.idxout[parCiteStr] = SimpleNamespace(
                                 ref4human=None, ref4ai=None, title=parTitle)
+                        anchor = markdownHeaderToAnchor(parTitle)
                         self.pushHdr(f"### {parTitle}")
                         if tag[0] != "Text":
                             parTitle = None
@@ -623,6 +625,17 @@ class RisDocMarkdownEngine:
 
         performIndent()
         self.largeBreak()
+
+        if not flags.forai:
+            navItems = [
+                f"[🔗 Permalink](#{anchor})",
+                #f"[📜 RIS-Einzelansicht](#blabla)",
+                #f"[📖 RIS-Gesamtdarstellung](#blabla)",
+                #f"[🤖 KI-freundliche Fassung](#blabla)",
+            ]
+            self.push(f"\\[ {' | '.join(navItems)} \\]")
+            self.largeBreak()
+
         lastLine = len(self.lines)-2 # not including the empty line we just pushed
         byteCount = sum(len(self.lines[i]) for i in range(firstLine, lastLine+1))
 

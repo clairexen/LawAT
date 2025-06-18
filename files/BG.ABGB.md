@@ -1700,33 +1700,49 @@
 
 > Der Inbegriff der Gesetze, wodurch die Privat\-Rechte und Pflichten der Einwohner des Staates unter sich bestimmt werden, macht das bürgerliche Recht in demselben aus\.
 
+\[ [🔗 Permalink](#-1-abgb--begriff-des-bürgerlichen-rechtes) \]
+
 ### § 2 ABGB
 
 > Sobald ein Gesetz gehörig kund gemacht worden ist, kann sich niemand damit entschuldigen, daß ihm dasselbe nicht bekannt geworden sey\.
+
+\[ [🔗 Permalink](#-2-abgb) \]
 
 ### § 3 ABGB — Anfang der Wirksamkeit der Gesetze
 
 > Die Wirksamkeit eines Gesetzes und die daraus entspringenden rechtlichen Folgen nehmen gleich nach der Kundmachung ihren Anfang; es wäre denn, daß in dem kund gemachten Gesetze selbst der Zeitpunct seiner Wirksamkeit weiter hinaus bestimmt würde\.
 
+\[ [🔗 Permalink](#-3-abgb--anfang-der-wirksamkeit-der-gesetze) \]
+
 ### § 5 ABGB
 
 > Gesetze wirken nicht zurück; sie haben daher auf vorhergegangene Handlungen und auf vorher erworbene Rechte keinen Einfluß\.
+
+\[ [🔗 Permalink](#-5-abgb) \]
 
 ### § 6 ABGB — Auslegung
 
 > Einem Gesetze darf in der Anwendung kein anderer Verstand beygelegt werden, als welcher aus der eigenthümlichen Bedeutung der Worte in ihrem Zusammenhange und aus der klaren Absicht des Gesetzgebers hervorleuchtet\.
 
+\[ [🔗 Permalink](#-6-abgb--auslegung) \]
+
 ### § 7 ABGB
 
 > Läßt sich ein Rechtsfall weder aus den Worten, noch aus dem natürlichen Sinne eines Gesetzes entscheiden, so muß auf ähnliche, in den Gesetzen bestimmt entschiedene Fälle, und auf die Gründe anderer damit verwandten Gesetze Rücksicht genommen werden\. Bleibt der Rechtsfall noch zweifelhaft; so muß solcher mit Hinsicht auf die sorgfältig gesammelten und reiflich erwogenen Umstände nach den natürlichen Rechtsgrundsätzen entschieden werden\.
+
+\[ [🔗 Permalink](#-7-abgb) \]
 
 ### § 8 ABGB
 
 > Nur dem Gesetzgeber steht die Macht zu, ein Gesetz auf eine allgemein verbindliche Art zu erklären\. Eine solche Erklärung muß auf alle noch zu entscheidende Rechtsfälle angewendet werden, dafern der Gesetzgeber nicht hinzufügt, daß seine Erklärung bey Entscheidung solcher Rechtsfälle, welche die vor der Erklärung unternommenen Handlungen und angesprochenen Rechte zum Gegenstande haben, nicht bezogen werden solle\.
 
+\[ [🔗 Permalink](#-8-abgb) \]
+
 ### § 9 ABGB — Dauer des Gesetzes
 
 > Gesetze behalten so lange ihre Kraft, bis sie von dem Gesetzgeber abgeändert oder ausdrücklich aufgehoben werden\.
+
+\[ [🔗 Permalink](#-9-abgb--dauer-des-gesetzes) \]
 
 ## Andere Arten der Vorschriften, als:
 
@@ -1734,21 +1750,31 @@
 
 > Auf Gewohnheiten kann nur in den Fällen, in welchen sich ein Gesetz darauf beruft, Rücksicht genommen werden\.
 
+\[ [🔗 Permalink](#-10-abgb--a-gewohnheiten) \]
+
 ### § 11 ABGB — b) Provinzial-Statuten
 
 > Nur jene Statuten einzelner Provinzen und Landesbezirke haben Gesetzeskraft, welche nach der Kundmachung dieses Gesetzbuches von dem Landesfürsten ausdrücklich bestätigt werden\.
+
+\[ [🔗 Permalink](#-11-abgb--b-provinzial-statuten) \]
 
 ### § 12 ABGB — c) Richterliche Aussprüche
 
 > Die in einzelnen Fällen ergangenen Verfügungen und die von Richterstühlen in besonderen Rechtsstreitigkeiten gefällten Urtheile haben nie die Kraft eines Gesetzes, sie können auf andere Fälle oder auf andere Personen nicht ausgedehnet werden\.
 
+\[ [🔗 Permalink](#-12-abgb--c-richterliche-aussprüche) \]
+
 ### § 13 ABGB — d) Privilegien
 
 > Die einzelnen Personen oder auch ganzen Körpern verliehenen Privilegien und Befreyungen sind, in so fern hierüber die politischen Verordnungen keine besondere Bestimmung enthalten, gleich den übrigen Rechten zu beurtheilen\.
 
+\[ [🔗 Permalink](#-13-abgb--d-privilegien) \]
+
 ### § 14 ABGB — Haupteintheilung des bürgerlichen Rechtes
 
 > Die in dem bürgerlichen Gesetzbuche enthaltenen Vorschriften haben das Personen\-Recht, das Sachenrecht und die denselben gemeinschaftlich zukommenden Bestimmungen zum Gegenstande\.
+
+\[ [🔗 Permalink](#-14-abgb--haupteintheilung-des-bürgerlichen-rechtes) \]
 
 ## Erster Theil.
 
@@ -1762,15 +1788,21 @@
 
 > Die Personen\-Rechte beziehen sich theils auf persönliche Eigenschaften und Verhältnisse; theils gründen sie sich in dem Familien\-Verhältnisse\.
 
+\[ [🔗 Permalink](#-15-abgb--personen-rechte) \]
+
 ## I. Aus dem Charakter der Persönlichkeit.
 
 ### § 16 ABGB — Angeborne Rechte
 
 > Jeder Mensch hat angeborne, schon durch die Vernunft einleuchtende Rechte, und ist daher als eine Person zu betrachten\. Sclaverey oder Leibeigenschaft, und die Ausübung einer darauf sich beziehenden Macht, wird in diesen Ländern nicht gestattet\.
 
+\[ [🔗 Permalink](#-16-abgb--angeborne-rechte) \]
+
 ### § 17 ABGB — Rechtliche Vermuthung derselben
 
 > Was den angebornen natürlichen Rechten angemessen ist, dieses wird so lange als bestehend angenommen, als die gesetzmäßige Beschränkung dieser Rechte nicht bewiesen wird\.
+
+\[ [🔗 Permalink](#-17-abgb--rechtliche-vermuthung-derselben) \]
 
 ### § 17a ABGB — Wahrnehmung der Persönlichkeitsrechte
 
@@ -1780,13 +1812,19 @@
 
 > `(3)` Die Persönlichkeitsrechte einer Person wirken nach dem Tod in ihrem Andenken fort\. Verletzungen des Andenkens können die mit dem Verstorbenen im ersten Grad Verwandten und der überlebende Ehegatte, eingetragene Partner oder Lebensgefährte Zeit ihres Lebens geltend machen, andere Verwandte in auf\- oder absteigender Linie nur für zehn Jahre nach dem Ablauf des Todesjahres\. Jedenfalls zulässig sind im öffentlichen Interesse liegende Eingriffe zu Archivzwecken, zu wissenschaftlichen und zu künstlerischen Zwecken\.
 
+\[ [🔗 Permalink](#-17a-abgb--wahrnehmung-der-persönlichkeitsrechte) \]
+
 ### § 18 ABGB — Erwerbliche Rechte
 
 > Jedermann ist unter den von den Gesetzen vorgeschriebenen Bedingungen fähig, Rechte zu erwerben\.
 
+\[ [🔗 Permalink](#-18-abgb--erwerbliche-rechte) \]
+
 ### § 19 ABGB — Verfolgung der Rechte
 
 > Jedem, der sich in seinem Rechte gekränkt zu seyn erachtet, steht es frey, seine Beschwerde vor der durch die Gesetze bestimmten Behörde anzubringen\. Wer sich aber mit Hintansetzung derselben der eigenmächtigen Hülfe bedienet, oder, wer die Gränzen der Nothwehre überschreitet, ist dafür verantwortlich\.
+
+\[ [🔗 Permalink](#-19-abgb--verfolgung-der-rechte) \]
 
 ### § 20 ABGB — Unterlassungs- und Beseitigungsanspruch
 
@@ -1796,19 +1834,27 @@
 
 > `(3)` Bedient sich derjenige, der eine Verletzung eines Persönlichkeitsrechts begangen hat oder von dem eine solche Verletzung droht, hiezu der Dienste eines Vermittlers, so kann auch dieser auf Unterlassung und Beseitigung geklagt werden\. Anbieter von Vermittlungsdiensten nach Art\. 4 der Verordnung \(EU\) 2022/2065 über einen Binnenmarkt für digitale Dienste und zur Änderung der Richtlinie 2000/31/EG \(Gesetz über digitale Dienste\), ABl\. Nr\. L 277 vom 27\.10\.2022, S\. 1, gelten nicht als Vermittler im Sinne dieser Bestimmung\. Liegen beim Vermittler die Voraussetzungen für einen Ausschluss der Verantwortlichkeit nach den Art\. 5 und 6 der Verordnung \(EU\) 2022/2065 vor, kann er erst nach Abmahnung geklagt werden\.
 
+\[ [🔗 Permalink](#-20-abgb--unterlassungs--und-beseitigungsanspruch) \]
+
 ### § 21 ABGB — II. Personenrechte der Minderjährigen und sonstiger schutzberechtigter Personen
 
 > `(1)` Minderjährige und Personen, die aus einem anderen Grund als dem ihrer Minderjährigkeit alle oder einzelne ihrer Angelegenheiten selbst gehörig zu besorgen nicht vermögen, stehen unter dem besonderen Schutz der Gesetze\. Sie heißen schutzberechtigte Personen\.
 
 > `(2)` Minderjährige sind Personen, die das achtzehnte Lebensjahr noch nicht vollendet haben; haben sie das vierzehnte Lebensjahr noch nicht vollendet, so sind sie unmündig\.
 
+\[ [🔗 Permalink](#-21-abgb--ii-personenrechte-der-minderjährigen-und-sonstiger-schutzberechtigter-personen) \]
+
 ### § 22 ABGB
 
 > Selbst ungeborne Kinder haben von dem Zeitpuncte ihrer Empfängniß an, einen Anspruch auf den Schutz der Gesetze\. In so weit es um ihre und nicht um die Rechte eines Dritten zu thun ist, werden sie als Geborne angesehen; ein todtgebornes Kind aber wird in Rücksicht auf die ihm für den Lebensfall vorbehaltenen Rechte so betrachtet, als wäre es nie empfangen worden\.
 
+\[ [🔗 Permalink](#-22-abgb) \]
+
 ### § 23 ABGB
 
 > In zweifelhaftem Falle, ob ein Kind lebendig oder todt geboren worden sey, wird das Erstere vermuthet\. Wer das Gegentheil behauptet, muß es beweisen\.
+
+\[ [🔗 Permalink](#-23-abgb) \]
 
 ### § 24 ABGB — III. Handlungs- und Entscheidungsfähigkeit
 
@@ -1816,15 +1862,21 @@
 
 > `(2)` Entscheidungsfähig ist, wer die Bedeutung und die Folgen seines Handelns im jeweiligen Zusammenhang verstehen, seinen Willen danach bestimmen und sich entsprechend verhalten kann\. Dies wird im Zweifel bei Volljährigen vermutet\.
 
+\[ [🔗 Permalink](#-24-abgb--iii-handlungs--und-entscheidungsfähigkeit) \]
+
 ## IV. Aus dem Verhältnisse einer moralischen Person.
 
 ### § 26 ABGB
 
 > Die Rechte der Mitglieder einer erlaubten Gesellschaft unter sich werden durch den Vertrag oder Zweck und die besondern für dieselben bestehenden Vorschriften bestimmt\. Im Verhältnisse gegen Andere genießen erlaubte Gesellschaften in der Regel gleiche Rechte mit den einzelnen Personen\. Unerlaubte Gesellschaften haben als solche keine Rechte, weder gegen die Mitglieder, noch gegen Andere, und sie sind unfähig, Rechte zu erwerben\. Unerlaubte Gesellschaften sind aber diejenigen, welche durch die politischen Gesetze ins besondere verbothen werden, oder offenbar der Sicherheit, öffentlichen Ordnung oder den guten Sitten widerstreiten\.
 
+\[ [🔗 Permalink](#-26-abgb) \]
+
 ### § 27 ABGB
 
 > In wie fern Gemeinden in Rücksicht ihrer Rechte unter einer besonderen Vorsorge der öffentlichen Verwaltung stehen, ist in den politischen Gesetzen enthalten\.
+
+\[ [🔗 Permalink](#-27-abgb) \]
 
 ## V. Aus dem Verhältnisse eines Staatsbürgers.
 
@@ -1832,13 +1884,19 @@
 
 > Den vollen Genuß der bürgerlichen Rechte erwirbt man durch die Staatsbürgerschaft\. Die Staatsbürgerschaft in diesen Erbstaaten ist Kindern eines Oesterreichischen Staatsbürgers durch die Geburt eigen\.
 
+\[ [🔗 Permalink](#-28-abgb) \]
+
 ### § 33 ABGB — Rechte der Fremden
 
 > Den Fremden kommen überhaupt gleiche bürgerliche Rechte und Verbindlichkeiten mit den Eingebornen zu, wenn nicht zu dem Genusse dieser Rechte ausdrücklich die Eigenschaft eines Staatsbürgers erfordert wird\. Auch müssen die Fremden, um gleiches Recht mit den Eingebornen zu genießen, in zweifelhaften Fällen beweisen, daß der Staat, dem sie angehören, die hierländigen Staatsbürger in Rücksicht des Rechtes, wovon die Frage ist, ebenfalls wie die seinigen behandle\.
 
+\[ [🔗 Permalink](#-33-abgb--rechte-der-fremden) \]
+
 ### § 38 ABGB
 
 > Die Gesandten, die öffentlichen Geschäftsträger und die in ihren Diensten stehenden Personen genießen die in dem Völkerrechte und in den öffentlichen Verträgen gegründeten Befreyungen\.
+
+\[ [🔗 Permalink](#-38-abgb) \]
 
 ## VI. Personen-Rechte aus dem Religionsverhältnisse.
 
@@ -1846,25 +1904,35 @@
 
 > Die Verschiedenheit der Religion hat auf die Privat\-Rechte keinen Einfluß, außer in so fern dieses bey einigen Gegenständen durch die Gesetze ins besondere angeordnet wird\.
 
+\[ [🔗 Permalink](#-39-abgb) \]
+
 ## VII. Aus dem Familien-Verhältnisse Familie, Verwandtschaft und Schwägerschaft.
 
 ### § 40 ABGB
 
 > Unter Familie werden die Stammältern mit allen ihren Nachkommen verstanden\. Die Verbindung zwischen diesen Personen wird Verwandtschaft; die Verbindung aber, welche zwischen einem Ehegatten und den Verwandten des andern Ehegatten entsteht, Schwägerschaft genannt\.
 
+\[ [🔗 Permalink](#-40-abgb) \]
+
 ### § 41 ABGB
 
 > Die Grade der Verwandtschaft zwischen zwey Personen sind nach der Zahl der Zeugungen, mittelst welcher in der geraden Linie eine derselben von der andern, und in der Seitenlinie beyde von ihrem nächsten gemeinschaftlichen Stamme abhängen, zu bestimmen\. In welcher Linie und in welchem Grade jemand mit dem einen Ehegatten verwandt ist, in eben der Linie und in eben dem Grade ist er mit dem andern Ehegatten verschwägert\.
 
+\[ [🔗 Permalink](#-41-abgb) \]
+
 ### § 42 ABGB
 
 > Unter den Nahmen Aeltern werden in der Regel ohne Unterschied des Grades alle Verwandte in der aufsteigenden; und unter dem Nahmen Kinder, alle Verwandte in der absteigenden Linie begriffen\.
+
+\[ [🔗 Permalink](#-42-abgb) \]
 
 ## VIII. Schutz des Namens
 
 ### § 43 ABGB
 
 > Wird jemandem das Recht zur Führung seines Namens bestritten oder wird er durch unbefugten Gebrauch seines Namens \(Decknamens\) beeinträchtigt, so kann er auf Unterlassung und bei Verschulden auf Schadenersatz klagen\.
+
+\[ [🔗 Permalink](#-43-abgb) \]
 
 ## Zweytes Hauptstück.
 
@@ -1874,17 +1942,25 @@
 
 > Die Familien\-Verhältnisse werden durch den Ehevertrag gegründet\. In dem Ehevertrage erklären zwey Personen gesetzmäßig ihren Willen, in unzertrennlicher Gemeinschaft zu leben, Kinder zu zeugen, sie zu erziehen, und sich gegenseitigen Beystand zu leisten\.
 
+\[ [🔗 Permalink](#-44-abgb--begriff-der-ehe) \]
+
 ### § 45 ABGB — und des Eheverlöbnisses
 
 > Ein Eheverlöbniß oder ein vorläufiges Versprechen, sich zu ehelichen, unter was für Umständen oder Bedingungen es gegeben oder erhalten worden, zieht keine rechtliche Verbindlichkeit nach sich, weder zur Schließung der Ehe selbst, noch zur Leistung desjenigen, was auf den Fall des Rücktrittes bedungen worden ist\.
+
+\[ [🔗 Permalink](#-45-abgb--und-des-eheverlöbnisses) \]
 
 ### § 46 ABGB — Rechtliche Wirkung des Rücktrittes vom Eheverlöbnisse
 
 > Nur bleibt dem Theile, von dessen Seite keine gegründete Ursache zu dem Rücktritte entstanden ist, der Anspruch auf den Ersatz des wirklichen Schadens vorbehalten, welchen er aus diesem Rücktritte zu leiden beweisen kann\.
 
+\[ [🔗 Permalink](#-46-abgb--rechtliche-wirkung-des-rücktrittes-vom-eheverlöbnisse) \]
+
 ### § 89 ABGB — Persönliche Rechtswirkungen der Ehe
 
 > Die persönlichen Rechte und Pflichten der Ehegatten im Verhältnis zueinander sind, soweit in diesem Hauptstück nicht anderes bestimmt ist, gleich\.
+
+\[ [🔗 Permalink](#-89-abgb--persönliche-rechtswirkungen-der-ehe) \]
 
 ### § 90 ABGB
 
@@ -1894,11 +1970,15 @@
 
 > `(3)` Jeder Ehegatte hat dem anderen in der Ausübung der Obsorge für dessen Kinder in angemessener Weise beizustehen\. Soweit es die Umstände erfordern, vertritt er ihn auch in den Obsorgeangelegenheiten des täglichen Lebens\.
 
+\[ [🔗 Permalink](#-90-abgb) \]
+
 ### § 91 ABGB
 
 > `(1)` Die Ehegatten sollen ihre eheliche Lebensgemeinschaft, besonders die Haushaltsführung, die Erwerbstätigkeit, die Leistung des Beistandes und die Obsorge, unter Rücksichtnahme aufeinander und auf das Wohl der Kinder mit dem Ziel voller Ausgewogenheit ihrer Beiträge einvernehmlich gestalten\.
 
 > `(2)` Von einer einvernehmlichen Gestaltung kann ein Ehegatte abgehen, wenn dem nicht ein wichtiges Anliegen des anderen oder der Kinder entgegensteht oder, auch wenn ein solches Anliegen vorliegt, persönliche Gründe des Ehegatten, besonders sein Wunsch nach Aufnahme einer Erwerbstätigkeit, als gewichtiger anzusehen sind\. In diesen Fällen haben sich die Ehegatten um ein Einvernehmen über die Neugestaltung der ehelichen Lebensgemeinschaft zu bemühen\.
+
+\[ [🔗 Permalink](#-91-abgb) \]
 
 ### § 92 ABGB
 
@@ -1907,6 +1987,8 @@
 > `(2)` Ungeachtet des Abs\. 1, kann ein Ehegatte vorübergehend gesondert Wohnung nehmen, solange ihm ein Zusammenleben mit dem anderen Ehegatten, besonders wegen körperlicher Bedrohung, unzumutbar oder dies aus wichtigen persönlichen Gründen gerechtfertigt ist\.
 
 > `(3)` In den Fällen der Abs\. 1 und 2 kann jeder der Ehegatten vor oder auch nach der Verlegung der Wohnung oder der gesonderten Wohnungnahme die Entscheidung des Gerichtes beantragen\. Das Gericht hat im Verfahren außer Streitsachen festzustellen, ob das Verlangen auf Verlegung der gemeinsamen Wohnung oder die Weigerung mitzuziehen oder die gesonderte Wohnungnahme durch einen Ehegatten rechtmäßig war oder ist\. Es hat bei der Entscheidung auf die gesamten Umstände der Familie, besonders auf das Wohl der Kinder, Bedacht zu nehmen\.
+
+\[ [🔗 Permalink](#-92-abgb) \]
 
 ### § 93 ABGB — Name
 
@@ -1918,6 +2000,8 @@
 
 > `(4)` Ein Doppelname ist durch einen Bindestrich zwischen dessen einzelnen Teilen zu trennen\.
 
+\[ [🔗 Permalink](#-93-abgb--name) \]
+
 ### § 93a ABGB
 
 > `(1)` Ändert sich der Familienname eines Ehegatten, so kann eine erneute Bestimmung vorgenommen werden\.
@@ -1926,13 +2010,19 @@
 
 > `(3)` Eine Person kann bestimmen, dass ihr Familienname dem Geschlecht angepasst wird, soweit dies der Herkunft der Person oder der Tradition der Sprache entspricht, aus der der Name stammt\. Sie kann auch bestimmen, dass eine auf das Geschlecht hinweisende Endung des Namens entfällt\.
 
+\[ [🔗 Permalink](#-93a-abgb) \]
+
 ### § 93b ABGB
 
 > Die Bestimmung oder Wiederannahme eines Familiennamens nach den §§ 93 und 93a ist nur einmalig zulässig\.
 
+\[ [🔗 Permalink](#-93b-abgb) \]
+
 ### § 93c ABGB
 
 > Namensrechtliche Erklärungen sind dem Standesbeamten gegenüber in öffentlicher oder öffentlich beglaubigter Urkunde abzugeben\. Ihre Wirkungen treten ein, sobald sie dem Standesbeamten zukommen\.
+
+\[ [🔗 Permalink](#-93c-abgb) \]
 
 ### § 94 ABGB — Sonstige Wirkungen der Ehe
 
@@ -1942,29 +2032,43 @@
 
 > `(3)` Auf Verlangen des unterhaltsberechtigten Ehegatten ist der Unterhalt auch bei aufrechter Haushaltsgemeinschaft ganz oder zum Teil in Geld zu leisten, soweit nicht ein solches Verlangen, insbesondere im Hinblick auf die zur Deckung der Bedürfnisse zur Verfügung stehenden Mittel, unbillig wäre\. Auf den Unterhaltsanspruch an sich kann im vorhinein nicht verzichtet werden\.
 
+\[ [🔗 Permalink](#-94-abgb--sonstige-wirkungen-der-ehe) \]
+
 ### § 95 ABGB
 
 > Die Ehegatten haben an der Führung des gemeinsamen Haushalts nach ihren persönlichen Verhältnissen, besonders unter Berücksichtigung ihrer beruflichen Belastung, mitzuwirken\. Ist jedoch ein Ehegatte nicht erwerbstätig, so obliegt diesem die Haushaltsführung; der andere ist nach Maßgabe des § 91 zur Mithilfe verpflichtet\.
+
+\[ [🔗 Permalink](#-95-abgb) \]
 
 ### § 96 ABGB
 
 > Der Ehegatte, der den gemeinsamen Haushalt führt und keine Einkünfte hat, vertritt den anderen bei den Rechtsgeschäften des täglichen Lebens, die er für den gemeinsamen Haushalt schließt und die ein den Lebensverhältnissen der Ehegatten entsprechendes Maß nicht übersteigen\. Dies gilt nicht, wenn der andere Ehegatte dem Dritten zu erkennen gegeben hat, daß er von seinem Ehegatten nicht vertreten sein wolle\. Kann der Dritte aus den Umständen nicht erkennen, daß der handelnde Ehegatte als Vertreter auftritt, dann haften beide Ehegatten zur ungeteilten Hand\.
 
+\[ [🔗 Permalink](#-96-abgb) \]
+
 ### § 97 ABGB
 
 > Ist ein Ehegatte über die Wohnung, die der Befriedigung des dringenden Wohnbedürfnisses des anderen Ehegatten dient, verfügungsberechtigt, so hat dieser einen Anspruch darauf, daß der verfügungsberechtigte Ehegatte alles unterlasse und vorkehre, damit der auf die Wohnung angewiesene Ehegatte diese nicht verliere\. Dies gilt nicht, wenn das Handeln oder Unterlassen des verfügungsberechtigten Ehegatten durch die Umstände erzwungen wird\.
+
+\[ [🔗 Permalink](#-97-abgb) \]
 
 ### § 98 ABGB
 
 > Wirkt ein Ehegatte im Erwerb des anderen mit, so hat er Anspruch auf angemessene Abgeltung seiner Mitwirkung\. Die Höhe des Anspruchs richtet sich nach der Art und Dauer der Leistungen; die gesamten Lebensverhältnisse der Ehegatten, besonders auch die gewährten Unterhaltsleistungen, sind angemessen zu berücksichtigen\.
 
+\[ [🔗 Permalink](#-98-abgb) \]
+
 ### § 99 ABGB
 
 > Ansprüche auf Abgeltung der Mitwirkung eines Ehegatten im Erwerb des anderen \(§ 98\) sind vererblich, unter Lebenden oder von Todes wegen übertragbar und verpfändbar, soweit sie durch Vertrag oder Vergleich anerkannt oder gerichtlich geltend gemacht worden sind\.
 
+\[ [🔗 Permalink](#-99-abgb) \]
+
 ### § 100 ABGB
 
 > Der § 98 berührt nicht vertragliche Ansprüche eines Ehegatten an den anderen aus einem Mit\- oder Zusammenwirken im Erwerb\. Solche Ansprüche schließen einen Anspruch nach § 98 aus; bei einem Dienstverhältnis bleibt dem Ehegatten jedoch der Anspruch nach § 98 gewahrt, soweit er seine Ansprüche aus dem Dienstverhältnis übersteigt\.
+
+\[ [🔗 Permalink](#-100-abgb) \]
 
 ## Drittes Hauptstück
 
@@ -1979,6 +2083,8 @@
 > `(1)` Eltern und Kinder haben einander beizustehen und mit Achtung zu begegnen\. Die Rechte und Pflichten des Vaters und der Mutter sind, soweit nicht anderes bestimmt ist, gleich\.
 
 > `(2)` Eltern haben das Wohl ihrer minderjährigen Kinder zu fördern, ihnen Fürsorge, Geborgenheit und eine sorgfältige Erziehung zu gewähren\. Die Anwendung jeglicher Gewalt und die Zufügung körperlichen oder seelischen Leides sind unzulässig\. Soweit tunlich und möglich sollen die Eltern die Obsorge einvernehmlich wahrnehmen\.
+
+\[ [🔗 Permalink](#-137-abgb--allgemeine-grundsätze) \]
 
 ### § 138 ABGB — Kindeswohl
 
@@ -2008,11 +2114,15 @@
 >
 >> `12.` die Lebensverhältnisse des Kindes, seiner Eltern und seiner sonstigen Umgebung\.
 
+\[ [🔗 Permalink](#-138-abgb--kindeswohl) \]
+
 ### § 139 ABGB
 
 > `(1)` Dritte dürfen in die elterlichen Rechte nur insoweit eingreifen, als ihnen dies durch die Eltern selbst, unmittelbar auf Grund des Gesetzes oder durch eine behördliche Verfügung gestattet ist\.
 
 > `(2)` Eine mit einem Elternteil und dessen minderjährigem Kind nicht nur vorübergehend im gemeinsamen Haushalt lebende volljährige Person, die in einem familiären Verhältnis zum Elternteil steht, hat alles den Umständen nach Zumutbare zu tun, um das Kindeswohl zu schützen\. Soweit es die Umstände erfordern, vertritt sie den Elternteil auch in Obsorgeangelegenheiten des täglichen Lebens\.
+
+\[ [🔗 Permalink](#-139-abgb) \]
 
 ## Zweiter Abschnitt
 
@@ -2024,6 +2134,8 @@
 
 > Die nach diesem Gesetzbuch begründete Abstammung und deren Änderung sowie die Feststellung der Nichtabstammung wirken gegenüber jedermann\.
 
+\[ [🔗 Permalink](#-140-abgb) \]
+
 ### § 141 ABGB — Handlungsfähigkeit in Abstammungsangelegenheiten
 
 > `(1)` Eine Person kann in Angelegenheiten ihrer Abstammung und der Abstammung von ihr rechtswirksam handeln, wenn sie entscheidungsfähig ist\. Im Zweifel wird das Vorliegen der Entscheidungsfähigkeit bei mündigen Minderjährigen vermutet\.
@@ -2034,15 +2146,21 @@
 
 > `(4)` Der gesetzliche Vertreter hat sich vom Wohl der vertretenen Person leiten zu lassen\. Seine Vertretungshandlungen in Angelegenheiten der Abstammung bedürfen nicht der Genehmigung des Gerichts\.
 
+\[ [🔗 Permalink](#-141-abgb--handlungsfähigkeit-in-abstammungsangelegenheiten) \]
+
 ### § 142 ABGB — Rechtsnachfolge in Abstammungsangelegenheiten
 
 > Nach dem Tod der betroffenen Person kann die Feststellung der Abstammung, deren Änderung oder die Feststellung der Nichtabstammung von den Rechtsnachfolgern oder gegen diese bewirkt werden\.
+
+\[ [🔗 Permalink](#-142-abgb--rechtsnachfolge-in-abstammungsangelegenheiten) \]
 
 ## b) Abstammung von der Mutter
 
 ### § 143 ABGB
 
 > Mutter ist die Frau, die das Kind geboren hat\.
+
+\[ [🔗 Permalink](#-143-abgb) \]
 
 ## c) Abstammung
 
@@ -2068,6 +2186,8 @@
 
 > `(4)` Kommen nach Abs\. 1 Z 1 oder Abs\. 2 Z 1 mehrere Personen als Vater oder anderer Elternteil in Betracht, so ist Vater oder anderer Elternteil, wer mit der Mutter zuletzt die Ehe geschlossen oder die eingetragene Partnerschaft begründet hat\.
 
+\[ [🔗 Permalink](#-144-abgb--abstammung-vom-vater-und-vom-anderen-elternteil) \]
+
 ### § 145 ABGB — Anerkenntnis des Vaters und des anderen Elternteils
 
 > `(1)` Die Vaterschaft oder Elternschaft wird durch persönliche Erklärung in inländischer öffentlicher oder öffentlich\-beglaubigter Urkunde anerkannt\. Das Anerkenntnis wirkt ab dem Zeitpunkt der Erklärung, sofern die Urkunde oder ihre öffentlich\-beglaubigte Abschrift dem Standesbeamten zukommt\.
@@ -2076,11 +2196,15 @@
 
 > `(3)` Für Zustimmungen zum Anerkenntnis gelten die Abs\. 1 und 2 entsprechend\.
 
+\[ [🔗 Permalink](#-145-abgb--anerkenntnis-des-vaters-und-des-anderen-elternteils) \]
+
 ### § 146 ABGB
 
 > `(1)` Das Kind oder die Mutter, sofern sie entscheidungsfähig sowie am Leben ist, können gegen das Anerkenntnis innerhalb von zwei Jahren ab Kenntnis von dessen Rechtswirksamkeit bei Gericht Widerspruch erheben\.
 
 > `(2)` Der Lauf der Frist ist gehemmt, solange die zum Widerspruch berechtigte Person minderjährig oder nicht entscheidungsfähig ist oder innerhalb des letzten Jahres der Frist durch ein unvorhergesehenes oder unabwendbares Ereignis am Widerspruch gehindert ist\.
+
+\[ [🔗 Permalink](#-146-abgb) \]
 
 ### § 147 ABGB
 
@@ -2091,6 +2215,8 @@
 > `(3)` Der Mann, der als Vater feststand, oder die Mutter, sofern sie entscheidungsfähig sowie am Leben ist und nicht nach Abs\. 2 den Anerkennenden als Vater bezeichnet hat, kann gegen das Anerkenntnis bei Gericht Widerspruch erheben\. § 146 gilt entsprechend\.
 
 > `(4)` Für die Zustimmung des minderjährigen Kindes ist der Kinder\- und Jugendhilfeträger gesetzlicher Vertreter des Kindes\.
+
+\[ [🔗 Permalink](#-147-abgb) \]
 
 ### § 148 ABGB — Gerichtliche Feststellung der Vaterschaft
 
@@ -2106,15 +2232,21 @@
 
 > `(5)` Ein Dritter, dessen Samen für eine nicht\-medizinisch unterstützte Fortpflanzung verwendet wird, kann nicht als Vater des mit seinem Samen gezeugten Kindes festgestellt werden, wenn die Person, die mit der Mutter verheiratet oder in eingetragener Partnerschaft verbunden ist, der nicht\-medizinisch unterstützten Fortpflanzung zugestimmt hat\.
 
+\[ [🔗 Permalink](#-148-abgb--gerichtliche-feststellung-der-vaterschaft) \]
+
 ### § 149 ABGB
 
 > `(1)` Der gesetzliche Vertreter hat dafür zu sorgen, dass die Vaterschaft festgestellt wird, es sei denn, dass die Feststellung der Vaterschaft für das Wohl des Kindes nachteilig ist oder die Mutter von ihrem Recht, den Namen des Vaters nicht bekanntzugeben, Gebrauch macht\.
 
 > `(2)` Der Kinder\- und Jugendhilfeträger hat die Mutter darauf aufmerksam zu machen, welche Folgen es hat, wenn die Vaterschaft nicht festgestellt wird\.
 
+\[ [🔗 Permalink](#-149-abgb) \]
+
 ### § 150 ABGB — Vaterschaftsfeststellung bei bestehender Abstammung
 
 > Das Kind kann die Feststellung seiner Abstammung auch beantragen, wenn die Vaterschaft eines anderen Mannes bereits feststeht\. In einem solchen Fall hat die Feststellung der Abstammung die vom Gericht auszusprechende Wirkung, dass das Kind nicht vom anderen Mann abstammt\.
+
+\[ [🔗 Permalink](#-150-abgb--vaterschaftsfeststellung-bei-bestehender-abstammung) \]
 
 ### § 151 ABGB — Feststellung der Nichtabstammung vom Ehemann der Mutter
 
@@ -2122,13 +2254,19 @@
 
 > `(2)` Der Antrag kann vom Kind gegen den Mann und von diesem gegen das Kind gestellt werden\.
 
+\[ [🔗 Permalink](#-151-abgb--feststellung-der-nichtabstammung-vom-ehemann-der-mutter) \]
+
 ### § 152 ABGB
 
 > Hat der Ehemann der Mutter einer medizinisch unterstützten Fortpflanzung mit dem Samen eines Dritten in Form eines Notariatsakts zugestimmt, so kann nicht die Feststellung begehrt werden, dass das mit dem Samen des Dritten gezeugte Kind nicht vom Ehemann der Mutter abstammt\.
 
+\[ [🔗 Permalink](#-152-abgb) \]
+
 ### § 152a ABGB
 
 > Hat die Person, die mit der Mutter zu den in § 144 Abs\. 1 und 2 angegebenen Zeitpunkten verheiratet ist oder in eingetragener Partnerschaft lebt, einer nicht\-medizinisch unterstützten Fortpflanzung mit dem Samen einer dritten Person zugestimmt, so kann nicht die Feststellung begehrt werden, dass das mit dem Samen des Dritten gezeugte Kind nicht von ihr abstammt\.
+
+\[ [🔗 Permalink](#-152a-abgb) \]
 
 ### § 153 ABGB
 
@@ -2137,6 +2275,8 @@
 > `(2)` Der Lauf der Frist ist gehemmt, solange die antragsberechtigte Person minderjährig oder nicht entscheidungsfähig ist oder innerhalb des letzten Jahres der Frist durch ein unvorhergesehenes oder unabwendbares Ereignis an der Antragstellung gehindert ist\.
 
 > `(3)` Später als 30 Jahre nach der Geburt des Kindes oder nach einer Änderung der Abstammung kann nur das Kind die Feststellung der Nichtabstammung begehren\.
+
+\[ [🔗 Permalink](#-153-abgb) \]
 
 ### § 154 ABGB — Rechtsunwirksamerklärung des Vaterschaftsanerkenntnisses
 
@@ -2158,6 +2298,8 @@
 
 > `(2)` Der Antrag nach Abs\. 1 Z 3 kann längstens bis zum Ablauf von zwei Jahren nach Entdeckung der Täuschung, des Irrtums oder der genannten Umstände oder nach Wegfall der Zwangslage erhoben werden\. Die Frist beginnt frühestens mit der Geburt des Kindes\.
 
+\[ [🔗 Permalink](#-154-abgb--rechtsunwirksamerklärung-des-vaterschaftsanerkenntnisses) \]
+
 ### § 154a ABGB — Nicht-medizinisch unterstützte Fortpflanzung
 
 > `(1)` Eine nicht\-medizinisch unterstützte Fortpflanzung ist die Anwendung von nicht von § 1 Abs\. 2 FMedG, BGBl\. Nr\. 275/1992, erfassten Methoden zur Herbeiführung einer Schwangerschaft mit dem Samen einer dritten Person, die ihren Samen wissentlich zu diesem Zweck überlässt\.
@@ -2165,6 +2307,8 @@
 > `(2)` Es ist ratsam, aber nicht zwingend notwendig, dass die Mutter und die zustimmende Person die Identität des Samenspenders kennen und dass sie diese oder Informationen zur Identifizierbarkeit schriftlich festhalten\.
 
 > `(3)` Die § 16 und § 22 Abs\. 1 Z 4 und Abs\. 2 Z 1 sowie § 25 FMedG sind auf jede nicht\-medizinisch unterstützte Fortpflanzung sinngemäß anzuwenden\.
+
+\[ [🔗 Permalink](#-154a-abgb--nicht-medizinisch-unterstützte-fortpflanzung) \]
 
 ## Dritter Abschnitt
 
@@ -2178,11 +2322,15 @@
 
 > `(3)` Mangels einer solchen Bestimmung erhält das Kind den Familiennamen der Mutter, auch wenn dieser ein Doppelname ist\.
 
+\[ [🔗 Permalink](#-155-abgb) \]
+
 ### § 156 ABGB
 
 > `(1)` Den Familiennamen des Kindes bestimmt die mit der Pflege und Erziehung betraute Person\. Mehrere damit betraute Personen haben das Einvernehmen herzustellen; es genügt aber die Erklärung einer von ihnen, sofern sie versichert, dass die andere damit einverstanden ist oder das Einvernehmen nicht mit zumutbarem Aufwand erreicht werden kann\.
 
 > `(2)` Entscheidungsfähige Personen bestimmen ihren Familiennamen selbst\. Die Entscheidungsfähigkeit wird bei mündigen Minderjährigen vermutet\.
+
+\[ [🔗 Permalink](#-156-abgb) \]
 
 ### § 157 ABGB
 
@@ -2191,6 +2339,8 @@
 > `(2)` Ändert sich der Familienname der Eltern oder eines Elternteils oder heiraten die Eltern einander, so kann der Familienname des Kindes erneut bestimmt werden\. Das Gleiche gilt bei Änderungen in der Person eines Elternteils, etwa bei einer Annahme an Kindesstatt oder bei einer Begründung oder Änderung der Abstammung des Kindes\.
 
 > `(3)` Auf die Bestimmung des Familiennamens des Kindes sind die §§ 93a und 93c anzuwenden\.
+
+\[ [🔗 Permalink](#-157-abgb) \]
 
 ## Vierter Abschnitt
 
@@ -2202,9 +2352,13 @@
 
 > `(2)` Solange ein Elternteil minderjährig ist, hat er nicht das Recht und die Pflicht, das Vermögen des Kindes zu verwalten und das Kind zu vertreten\. Ein volljähriger Elternteil muss, um sein Kind vertreten und dessen Vermögen verwalten zu können, über jene Entscheidungsfähigkeit verfügen, die ein Handeln in eigenen Angelegenheiten erfordert; § 181 ist sinngemäß anzuwenden\.
 
+\[ [🔗 Permalink](#-158-abgb--inhalt-der-obsorge) \]
+
 ### § 159 ABGB — Wohlverhaltensgebot
 
 > Bei Ausübung der Rechte und Erfüllung der Pflichten nach diesem Hauptstück ist zur Wahrung des Kindeswohls alles zu unterlassen, was das Verhältnis des Minderjährigen zu anderen Personen, denen nach diesem Hauptstück das Kind betreffende Rechte und Pflichten zukommen, beeinträchtigt oder die Wahrnehmung von deren Aufgaben erschwert\.
+
+\[ [🔗 Permalink](#-159-abgb--wohlverhaltensgebot) \]
 
 ### § 160 ABGB — Pflege, Erziehung und Bestimmung des Aufenthalts des Kindes
 
@@ -2214,9 +2368,13 @@
 
 > `(3)` Die Eltern haben in Angelegenheiten der Pflege und Erziehung auch auf den Willen des Kindes Bedacht zu nehmen, soweit dem nicht dessen Wohl oder ihre Lebensverhältnisse entgegenstehen\. Der Wille des Kindes ist umso maßgeblicher, je mehr es den Grund und die Bedeutung einer Maßnahme einzusehen und seinen Willen nach dieser Einsicht zu bestimmen vermag\.
 
+\[ [🔗 Permalink](#-160-abgb--pflege-erziehung-und-bestimmung-des-aufenthalts-des-kindes) \]
+
 ### § 161 ABGB
 
 > Das minderjährige Kind hat die Anordnungen der Eltern zu befolgen\. Die Eltern haben bei ihren Anordnungen und deren Durchsetzung auf Alter, Entwicklung und Persönlichkeit des Kindes Bedacht zu nehmen\.
+
+\[ [🔗 Permalink](#-161-abgb) \]
 
 ### § 162 ABGB
 
@@ -2226,9 +2384,13 @@
 
 > `(3)` Ist nicht festgelegt, in wessen Haushalt das Kind hauptsächlich betreut werden soll, so darf der Wohnort des Kindes nur mit Zustimmung beider Elternteile oder Genehmigung des Gerichts in das Ausland verlegt werden\. Das Gericht hat bei der Entscheidung über die Genehmigung sowohl das Kindeswohl zu beachten als auch die Rechte der Eltern auf Schutz vor Gewalt, Freizügigkeit und Berufsfreiheit zu berücksichtigen\.
 
+\[ [🔗 Permalink](#-162-abgb) \]
+
 ### § 163 ABGB
 
 > Weder ein minderjähriges Kind noch die Eltern können in eine medizinische Maßnahme, die eine dauernde Fortpflanzungsunfähigkeit des minderjährigen Kindes zum Ziel hat, einwilligen\.
+
+\[ [🔗 Permalink](#-163-abgb) \]
 
 ### § 164 ABGB — Vermögensverwaltung
 
@@ -2236,13 +2398,19 @@
 
 > `(2)` Aus dem Vermögen sind jedenfalls die Kosten der Verwaltung einschließlich der für die Erhaltung des Vermögens und den ordentlichen Wirtschaftsbetrieb nötigen Aufwendungen und die fälligen Zahlungen zu berichtigen; weiter auch die Kosten des Unterhalts, soweit das Kind nach den §§ 231 und 232 zur Heranziehung seines Vermögens verpflichtet ist oder die Bedürfnisse des Kindes nicht in anderer Weise gedeckt sind\.
 
+\[ [🔗 Permalink](#-164-abgb--vermögensverwaltung) \]
+
 ### § 165 ABGB
 
 > Die Eltern haben über das Vermögen des minderjährigen Kindes dem Gericht Rechnung zu legen, soweit dies das Gericht aus besonderen Gründen verfügt; über die Erträgnisse jedoch nur, soweit sie nicht für den Unterhalt des Kindes verwendet worden sind\. Näheres wird in den Verfahrensgesetzen bestimmt\.
 
+\[ [🔗 Permalink](#-165-abgb) \]
+
 ### § 166 ABGB
 
 > Wird einem minderjährigen Kind ein Vermögen zugewendet und ein Elternteil von der Verwaltung ausgeschlossen, so ist der andere Elternteil mit der Verwaltung betraut\. Sind beide Elternteile oder jener Elternteil, der mit der Obsorge allein betraut ist, ausgeschlossen, so hat das Gericht andere Personen mit der Verwaltung zu betrauen\.
+
+\[ [🔗 Permalink](#-166-abgb) \]
 
 ### § 167 ABGB — Gesetzliche Vertretung des Kindes
 
@@ -2252,15 +2420,21 @@
 
 > `(3)` Vertretungshandlungen und Einwilligungen eines Elternteils in Vermögensangelegenheiten bedürfen zu ihrer Rechtswirksamkeit der Zustimmung des anderen obsorgebetrauten Elternteils und der Genehmigung des Gerichtes, sofern die Vermögensangelegenheit nicht zum ordentlichen Wirtschaftsbetrieb gehört\. Unter dieser Voraussetzung gehören dazu besonders die Veräußerung oder Belastung von Liegenschaften, die Gründung, der, auch erbrechtliche, Erwerb, die Umwandlung, Veräußerung oder Auflösung sowie die Änderung des Gegenstandes eines Unternehmens, der, auch erbrechtliche, Eintritt in eine oder die Umwandlung einer Gesellschaft oder Genossenschaft, der Verzicht auf ein Erbrecht, die unbedingte Annahme oder die Ausschlagung einer Erbschaft, die Annahme einer mit Belastungen verbundenen Schenkung oder die Ablehnung eines Schenkungsanbots, die Anlegung von Geld mit Ausnahme der in den §§ 216 und 217 geregelten Arten sowie die Erhebung einer Klage und alle verfahrensrechtlichen Verfügungen, die den Verfahrensgegenstand an sich betreffen\. Dies gilt nicht für die Entgegennahme von Willenserklärungen und Zustellstücken\.
 
+\[ [🔗 Permalink](#-167-abgb--gesetzliche-vertretung-des-kindes) \]
+
 ### § 168 ABGB
 
 > Bedarf ein Rechtsgeschäft der Einwilligung des gesetzlichen Vertreters, der Zustimmung des anderen Elternteils oder der Genehmigung des Pflegschaftsgerichts, so ist bei deren Fehlen das volljährig gewordene Kind nur dann daraus wirksam verpflichtet, wenn es schriftlich erklärt, diese Verpflichtungen als rechtswirksam anzuerkennen\. Fordert der Gläubiger den volljährig Gewordenen auf, sich nach dem ersten Satz zu erklären, so hat er ihm dafür eine angemessene Frist zu setzen\.
+
+\[ [🔗 Permalink](#-168-abgb) \]
 
 ### § 169 ABGB
 
 > `(1)` In zivilgerichtlichen Verfahren ist nur ein obsorgebetrauter Elternteil allein zur Vertretung des Kindes berechtigt; solange sich die Eltern nicht auf den anderen Elternteil einigen oder das Gericht nach § 181 diesen oder einen Dritten als Vertreter bestimmt, ist Vertreter derjenige Elternteil, der die erste Verfahrenshandlung setzt\.
 
 > `(2)` Die nach § 167 erforderliche Zustimmung des anderen Elternteils und Genehmigung des Gerichtes gelten für das ganze Verfahren\.
+
+\[ [🔗 Permalink](#-169-abgb) \]
 
 ### § 170 ABGB — Handlungsfähigkeit des Kindes
 
@@ -2270,13 +2444,19 @@
 
 > `(3)` Schließt ein minderjähriges Kind ein Rechtsgeschäft, das von Minderjährigen seines Alters üblicherweise geschlossen wird und eine geringfügige Angelegenheit des täglichen Lebens betrifft, so wird dieses Rechtsgeschäft, auch wenn die Voraussetzungen des Abs\. 2 nicht vorliegen, mit der Erfüllung der das Kind treffenden Pflichten rückwirkend rechtswirksam\.
 
+\[ [🔗 Permalink](#-170-abgb--handlungsfähigkeit-des-kindes) \]
+
 ### § 171 ABGB
 
 > Soweit nicht anderes bestimmt ist, kann sich ein mündiges minderjähriges Kind selbständig durch Vertrag zu Dienstleistungen verpflichten, ausgenommen zu Dienstleistungen auf Grund eines Lehr\- oder sonstigen Ausbildungsvertrags\. Der gesetzliche Vertreter des Kindes kann das durch den Vertrag begründete Rechtsverhältnis aus wichtigen Gründen vorzeitig lösen\.
 
+\[ [🔗 Permalink](#-171-abgb) \]
+
 ### § 172 ABGB
 
 > Hat das entscheidungsfähige Kind seine Meinung über seine Ausbildung den Eltern erfolglos vorgetragen, so kann es das Gericht anrufen\. Dieses hat nach sorgfältiger Abwägung der von den Eltern und dem Kind angeführten Gründe die zum Wohl des Kindes angemessenen Verfügungen zu treffen\.
+
+\[ [🔗 Permalink](#-172-abgb) \]
 
 ### § 173 ABGB
 
@@ -2286,13 +2466,19 @@
 
 > `(3)` Die Einwilligung des entscheidungsfähigen Kindes sowie die Zustimmung der Person, die mit Pflege und Erziehung betraut ist, sind nicht erforderlich, wenn die Behandlung so dringend notwendig ist, dass der mit der Einholung der Einwilligung oder der Zustimmung verbundene Aufschub das Leben des Kindes gefährden würde oder mit der Gefahr einer schweren Schädigung der Gesundheit verbunden wäre\.
 
+\[ [🔗 Permalink](#-173-abgb) \]
+
 ### § 174 ABGB
 
 > Ein verheiratetes minderjähriges Kind steht hinsichtlich seiner persönlichen Verhältnisse einem Volljährigen gleich, solange die Ehe dauert\.
 
+\[ [🔗 Permalink](#-174-abgb) \]
+
 ### § 176 ABGB — Deliktsfähigkeit des Kindes
 
 > Soweit einem minderjährigen Kind nicht bereits früher ein Verschulden zugerechnet werden kann \(§ 1310\), wird es mit der Erreichung der Mündigkeit nach den schadensersatzrechtlichen Bestimmungen deliktsfähig\.
+
+\[ [🔗 Permalink](#-176-abgb--deliktsfähigkeit-des-kindes) \]
 
 ### § 177 ABGB — Obsorge der Eltern
 
@@ -2304,6 +2490,8 @@
 
 > `(4)` Sind beide Elternteile mit der Obsorge betraut und leben sie nicht in häuslicher Gemeinschaft, so haben sie festzulegen, bei welchem Elternteil sich das Kind hauptsächlich aufhalten soll\. Außerdem muss der Elternteil, in dessen Haushalt das Kind hauptsächlich betreut wird, vorbehaltlich des § 158 Abs\. 2, mit der gesamten Obsorge betraut sein\. Im Fall des Abs\. 3 kann die Obsorge des Elternteils, in dessen Haushalt das Kind nicht hauptsächlich betreut wird, auf bestimmte Angelegenheiten beschränkt sein\.
 
+\[ [🔗 Permalink](#-177-abgb--obsorge-der-eltern) \]
+
 ### § 178 ABGB — Obsorge bei Verhinderung eines Elternteils
 
 > `(1)` Ist ein Elternteil, der mit der Obsorge für das Kind gemeinsam mit dem anderen Elternteil betraut war, gestorben, ist sein Aufenthalt seit mindestens sechs Monaten unbekannt, kann die Verbindung mit ihm nicht oder nur mit unverhältnismäßig großen Schwierigkeiten hergestellt werden oder ist ihm die Obsorge ganz oder teilweise entzogen, so ist der andere Elternteil insoweit allein mit der Obsorge betraut\.
@@ -2312,11 +2500,15 @@
 
 > `(3)` Geht die Obsorge auf den anderen Elternteil über oder überträgt das Gericht die Obsorge, so sind, sofern sich der Übergang oder die Übertragung der Obsorge darauf bezieht, das Vermögen sowie sämtliche die Person des Kindes betreffenden Urkunden und Nachweise zu übergeben\.
 
+\[ [🔗 Permalink](#-178-abgb--obsorge-bei-verhinderung-eines-elternteils) \]
+
 ### § 179 ABGB — Obsorge bei Auflösung der Ehe und der häuslichen Gemeinschaft
 
 > `(1)` Wird die Ehe oder die häusliche Gemeinschaft der Eltern aufgelöst, so bleibt die Obsorge beider Eltern aufrecht\. Sie können jedoch vor Gericht eine Vereinbarung schließen, wonach ein Elternteil allein mit der Obsorge betraut wird oder die Obsorge eines Elternteils auf bestimmte Angelegenheiten beschränkt wird\.
 
 > `(2)` Im Fall einer Obsorge beider Eltern nach Auflösung der Ehe oder der häuslichen Gemeinschaft haben diese vor Gericht eine Vereinbarung darüber zu schließen, in wessen Haushalt das Kind hauptsächlich betreut wird\.
+
+\[ [🔗 Permalink](#-179-abgb--obsorge-bei-auflösung-der-ehe-und-der-häuslichen-gemeinschaft) \]
 
 ### § 180 ABGB — Änderung der Obsorge
 
@@ -2332,6 +2524,8 @@
 
 > `(3)` Ist die Obsorge im Sinn des Abs\. 2 endgültig geregelt, so kann jeder Elternteil, sofern sich die Verhältnisse maßgeblich geändert haben, bei Gericht eine Neuregelung der Obsorge beantragen\. Für die Änderung einer geregelten Obsorge gelten die Abs\. 1 und 2 entsprechend\.
 
+\[ [🔗 Permalink](#-180-abgb--änderung-der-obsorge) \]
+
 ### § 181 ABGB — Entziehung oder Einschränkung der Obsorge
 
 > `(1)` Gefährden die Eltern durch ihr Verhalten das Wohl des minderjährigen Kindes, so hat das Gericht, von wem immer es angerufen wird, die zur Sicherung des Wohles des Kindes nötigen Verfügungen zu treffen\. Besonders darf das Gericht die Obsorge für das Kind ganz oder teilweise, auch gesetzlich vorgesehene Einwilligungs\- und Zustimmungsrechte, entziehen\. Im Einzelfall kann das Gericht auch eine gesetzlich erforderliche Einwilligung oder Zustimmung ersetzen, wenn keine gerechtfertigten Gründe für die Weigerung vorliegen\.
@@ -2342,9 +2536,13 @@
 
 > `(4)` Fordert das Gesetz die Einwilligung oder Zustimmung der mit Pflege und Erziehung betrauten Personen \(Erziehungsberechtigten\), so ist die Erklärung der mit der gesetzlichen Vertretung in diesem Bereich betrauten Person notwendig, aber auch hinreichend, sofern nicht Abweichendes bestimmt ist\.
 
+\[ [🔗 Permalink](#-181-abgb--entziehung-oder-einschränkung-der-obsorge) \]
+
 ### § 182 ABGB
 
 > Durch eine Verfügung nach § 181 darf das Gericht die Obsorge nur so weit beschränken, als dies zur Sicherung des Wohles des Kindes nötig ist\.
+
+\[ [🔗 Permalink](#-182-abgb) \]
 
 ### § 183 ABGB — Erlöschen der Obsorge
 
@@ -2352,9 +2550,13 @@
 
 > `(2)` Der gesetzliche Vertreter hat dem volljährig gewordenen Kind dessen Vermögen sowie sämtliche dessen Person betreffenden Urkunden und Nachweise zu übergeben\.
 
+\[ [🔗 Permalink](#-183-abgb--erlöschen-der-obsorge) \]
+
 ### § 184 ABGB — Pflegeeltern
 
 > Pflegeeltern sind Personen, die die Pflege und Erziehung des Kindes ganz oder teilweise besorgen und zu denen eine dem Verhältnis zwischen leiblichen Eltern und Kindern nahe kommende Beziehung besteht oder hergestellt werden soll\. Sie haben das Recht, in den die Person des Kindes betreffenden Verfahren Anträge zu stellen\.
+
+\[ [🔗 Permalink](#-184-abgb--pflegeeltern) \]
 
 ### § 185 ABGB
 
@@ -2366,6 +2568,8 @@
 
 > `(4)` Das Gericht hat vor seiner Entscheidung die Eltern, den gesetzlichen Vertreter, weitere Erziehungsberechtigte, den Kinder\- und Jugendhilfeträger und jedenfalls das bereits zehnjährige Kind zu hören\. § 196 Abs\. 2 gilt sinngemäß\.
 
+\[ [🔗 Permalink](#-185-abgb) \]
+
 ## Fünfter Abschnitt
 
 ## Sonstige Rechte und Pflichten
@@ -2374,17 +2578,23 @@
 
 > Jeder Elternteil eines minderjährigen Kindes hat mit dem Kind eine persönliche Beziehung einschließlich der persönlichen Kontakte \(§ 187\) zu pflegen\.
 
+\[ [🔗 Permalink](#-186-abgb--persönliche-kontakte) \]
+
 ### § 187 ABGB
 
 > `(1)` Das Kind und jeder Elternteil haben das Recht auf regelmäßige und den Bedürfnissen des Kindes entsprechende persönliche Kontakte\. Die persönlichen Kontakte sollen das Kind und die Eltern einvernehmlich regeln\. Soweit ein solches Einvernehmen nicht erzielt wird, hat das Gericht auf Antrag des Kindes oder eines Elternteils diese Kontakte in einer dem Wohl des Kindes entsprechenden Weise zu regeln und die Pflichten festzulegen\. Die Regelung hat die Anbahnung und Wahrung des besonderen Naheverhältnisses zwischen Eltern und Kind sicherzustellen und soll möglichst sowohl Zeiten der Freizeit als auch die Betreuung im Alltag des Kindes umfassen\. Das Alter, die Bedürfnisse und die Wünsche des Kindes sowie die Intensität der bisherigen Beziehung sind besonders zu berücksichtigen\.
 
 > `(2)` Das Gericht hat nötigenfalls die persönlichen Kontakte einzuschränken oder zu untersagen, insbesondere soweit dies aufgrund der Anwendung von Gewalt gegen das Kind oder eine wichtige Bezugsperson geboten erscheint oder der Elternteil, der mit dem minderjährigen Kind nicht im gemeinsamen Haushalt lebt, seine Verpflichtung aus § 159 nicht erfüllt\.
 
+\[ [🔗 Permalink](#-187-abgb) \]
+
 ### § 188 ABGB
 
 > `(1)` Zwischen Enkeln und ihren Großeltern gilt § 187 entsprechend\. Die persönlichen Kontakte der Großeltern sind jedoch auch so weit einzuschränken oder zu untersagen, als sonst das Familienleben der Eltern \(eines Elternteils\) oder deren Beziehung zu dem Kind gestört würde\.
 
 > `(2)` Wenn persönliche Kontakte des minderjährigen Kindes mit einem hiezu bereiten Dritten dem Wohl des Kindes dienen, hat das Gericht auf Antrag des Kindes, eines Elternteils oder des Dritten, sofern dieser zu dem Kind in einem besonderen persönlichen oder familiären Verhältnis steht oder gestanden ist, die zur Regelung der persönlichen Kontakte nötigen Verfügungen zu treffen\. Solche Verfügungen hat es auf Antrag des Kinder\- und Jugendhilfeträgers oder von Amts wegen zu treffen, wenn ansonsten das Kindeswohl gefährdet wäre\.
+
+\[ [🔗 Permalink](#-188-abgb) \]
 
 ### § 189 ABGB — Informations-, Äußerungs- und Vertretungsrecht
 
@@ -2404,6 +2614,8 @@
 
 > `(5)` Diese Bestimmung gilt sinngemäß auch für einen mit der Obsorge betrauten Elternteil\.
 
+\[ [🔗 Permalink](#-189-abgb--informations--äußerungs--und-vertretungsrecht) \]
+
 ### § 190 ABGB — Vereinbarungen über die Obsorge, die persönlichen Kontakte und den Unterhalt
 
 > `(1)` Die Eltern haben bei Vereinbarungen über die Obsorge, die persönlichen Kontakte sowie die Betreuung des Kindes das Wohl des Kindes bestmöglich zu wahren\.
@@ -2411,6 +2623,8 @@
 > `(2)` Die Bestimmung der Obsorge \(§ 177 Abs\. 2\) und vor Gericht geschlossene Vereinbarungen nach Abs\. 1 bedürfen zu ihrer Rechtswirksamkeit keiner gerichtlichen Genehmigung\. Das Gericht hat die Bestimmung der Obsorge und Vereinbarungen der Eltern aber für unwirksam zu erklären und zugleich eine davon abweichende Anordnung zu treffen, wenn ansonsten das Kindeswohl gefährdet wäre\.
 
 > `(3)` Vor Gericht geschlossene Vereinbarungen über die Höhe gesetzlicher Unterhaltsleistungen bedürfen zur ihrer Rechtswirksamkeit keiner gerichtlichen Genehmigung und sind für den Unterhaltsverpflichteten verbindlich\.
+
+\[ [🔗 Permalink](#-190-abgb--vereinbarungen-über-die-obsorge-die-persönlichen-kontakte-und-den-unterhalt) \]
 
 ## Sechster Abschnitt
 
@@ -2424,6 +2638,8 @@
 
 > `(3)` Personen, denen die Sorge für das Vermögen des anzunehmenden Wahlkindes durch gerichtliche Verfügung anvertraut ist, können dieses so lange nicht annehmen, als sie nicht von dieser Pflicht entbunden sind\. Sie müssen vorher Rechnung gelegt und die Bewahrung des anvertrauten Vermögens nachgewiesen haben\.
 
+\[ [🔗 Permalink](#-191-abgb) \]
+
 ### § 192 ABGB — Form; Eintritt der Wirksamkeit
 
 > `(1)` Die Annahme an Kindesstatt kommt durch schriftlichen Vertrag zwischen dem Annehmenden und dem Wahlkind und durch gerichtliche Bewilligung auf Antrag eines Vertragsteiles zustande\. Sie wird im Fall ihrer Bewilligung mit dem Zeitpunkt der vertraglichen Willenseinigung wirksam\. Stirbt der Annehmende nach diesem Zeitpunkt, so hindert dies die Bewilligung nicht\.
@@ -2434,17 +2650,23 @@
 
 > `(4)` Der Vertreter hat sich vom Wohl der vertretenen Person leiten zu lassen\. Seine Vertretungshandlungen in Angelegenheiten der Annahme an Kindesstatt bedürfen nicht der Genehmigung des Gerichts\.
 
+\[ [🔗 Permalink](#-192-abgb--form-eintritt-der-wirksamkeit) \]
+
 ### § 193 ABGB — Alter
 
 > `(1)` Die Wahleltern müssen das fünfundzwanzigste Lebensjahr vollendet haben\.
 
 > `(2)` Wahlvater und Wahlmutter müssen älter als das Wahlkind sein\.
 
+\[ [🔗 Permalink](#-193-abgb--alter) \]
+
 ### § 194 ABGB — Bewilligung
 
 > `(1)` Die Annahme eines minderjährigen Kindes ist zu bewilligen, wenn sie dessen Wohl dient und eine dem Verhältnis zwischen leiblichen Eltern und Kindern entsprechende Beziehung besteht oder hergestellt werden soll\. Ist das Wahlkind volljährig, so ist die Annahme nur zu bewilligen, wenn die Antragsteller nachweisen, dass bereits ein enges, der Beziehung zwischen leiblichen Eltern und Kindern entsprechendes Verhältnis vorliegt, insbesondere wenn Wahlkind und Annehmender während fünf Jahren entweder in häuslicher Gemeinschaft gelebt oder einander in einer vergleichbar engen Gemeinschaft Beistand geleistet haben\.
 
 > `(2)` Die Bewilligung ist, außer bei Fehlen der Voraussetzungen des Abs\. 1, zu versagen, wenn ein überwiegendes Anliegen eines leiblichen Kindes des Annehmenden entgegensteht, insbesondere dessen Unterhalt oder Erziehung gefährdet wäre; im übrigen sind wirtschaftliche Belange nicht zu beachten, außer der Annehmende handelt in der ausschließlichen oder überwiegenden Absicht, ein leibliches Kind zu schädigen\.
+
+\[ [🔗 Permalink](#-194-abgb--bewilligung) \]
 
 ### § 195 ABGB
 
@@ -2464,6 +2686,8 @@
 
 > `(3)` Das Gericht hat die verweigerte Zustimmung einer der in Abs\. 1 Z 1 bis 3 und 5 genannten Personen auf Antrag eines Vertragsteiles zu ersetzen, wenn keine gerechtfertigten Gründe für die Weigerung vorliegen\.
 
+\[ [🔗 Permalink](#-195-abgb) \]
+
 ### § 196 ABGB
 
 > `(1)` Ein Recht auf Anhörung haben:
@@ -2478,6 +2702,8 @@
 
 > `(2)` Das Anhörungsrecht des in Abs\. 1 genannten Wahlkindes entfällt, wenn es zu einer Äußerung nicht nur vorübergehend unfähig ist oder durch die Anhörung dessen Wohl gefährdet wäre\. Das Anhörungsrecht eines sonstigen im Abs\. 1 genannten Berechtigten entfällt, wenn er als gesetzlicher Vertreter des Wahlkindes den Annahmevertrag geschlossen hat; ferner, wenn er nicht oder nur mit unverhältnismäßigen Schwierigkeiten gehört werden könnte\.
 
+\[ [🔗 Permalink](#-196-abgb) \]
+
 ### § 197 ABGB — Wirkungen
 
 > `(1)` Zwischen dem Annehmenden und dessen Nachkommen einerseits und dem Wahlkind und dessen im Zeitpunkt des Wirksamwerdens der Annahme minderjährigen Nachkommen andererseits entstehen mit diesem Zeitpunkt die gleichen Rechte, wie sie durch die Abstammung begründet werden\.
@@ -2488,6 +2714,8 @@
 
 > `(4)` Nimmt ein Ehegatte, ein eingetragener Partner oder ein Lebensgefährte das Kind seines Ehegatten, eingetragenen Partners oder Lebensgefährten an, so erlöschen die familienrechtlichen Beziehungen nach Maßgabe des Abs\. 2 lediglich zum anderen Elternteil und zu dessen Verwandten\.
 
+\[ [🔗 Permalink](#-197-abgb--wirkungen) \]
+
 ### § 198 ABGB
 
 > `(1)` Die im Familienrecht begründeten Pflichten der leiblichen Eltern und deren Verwandten zur Leistung des Unterhaltes und der Ausstattung gegenüber dem Wahlkind und dessen im Zeitpunkt des Wirksamwerdens der Annahme minderjährigen Nachkommen bleiben aufrecht\.
@@ -2496,6 +2724,8 @@
 
 > `(3)` Die nach den Abs\. 1 und 2 aufrecht bleibenden Pflichten stehen jedoch den durch die Annahme begründeten gleichen Pflichten im Range nach\.
 
+\[ [🔗 Permalink](#-198-abgb) \]
+
 ### § 199 ABGB
 
 > `(1)` Die im Erbrecht begründeten Rechte zwischen den leiblichen Eltern und deren Verwandten einerseits und dem Wahlkind und dessen im Zeitpunkt des Wirksamwerdens der Annahme minderjährigen Nachkommen andererseits bleiben aufrecht\.
@@ -2503,6 +2733,8 @@
 > `(2)` Bei der gesetzlichen Erbfolge in das Vermögen des Wahlkindes in der zweiten Linie gehen die Wahleltern und deren Nachkommen einerseits den leiblichen Eltern und deren Nachkommen andererseits vor\.
 
 > `(3)` Ist das Wahlkind nur durch eine Person angenommen worden und sind sowohl diese Person oder deren Nachkommen als auch der nicht verdrängte leibliche Elternteil oder dessen Nachkommen vorhanden, so fällt die Verlassenschaft – ungeachtet eines allfälligen Erlöschens der familienrechtlichen Beziehungen nach § 197 Abs\. 3 zweiter Satz – je zur Hälfte auf den Stamm der annehmenden Person und des nicht verdrängten leiblichen Elternteils\.
+
+\[ [🔗 Permalink](#-199-abgb) \]
 
 ### § 200 ABGB — Widerruf und Aufhebung
 
@@ -2522,6 +2754,8 @@
 
 > `(3)` Einem Dritten, der im Vertrauen auf die Gültigkeit der Annahme an Kindesstatt vor dem Widerruf Rechte erworben hat, kann nicht eingewendet werden, dass die Bewilligung widerrufen worden ist\. Zum Nachteil eines der Vertragsteile, der den Widerrufsgrund bei Abschließung des Annahmevertrages nicht gekannt hat, kann ein Dritter nicht die Wirkungen des Widerrufes beanspruchen\.
 
+\[ [🔗 Permalink](#-200-abgb--widerruf-und-aufhebung) \]
+
 ### § 201 ABGB
 
 > `(1)` Die Wahlkindschaft ist vom Gericht aufzuheben:
@@ -2536,6 +2770,8 @@
 
 > `(2)` Besteht die Wahlkindschaft gegenüber einem Wahlvater und einer Wahlmutter, so darf die Aufhebung im Sinne des Abs\. 1 nur beiden gegenüber bewilligt werden; die Aufhebung gegenüber einem von ihnen allein ist nur im Falle der Auflösung oder Nichtigerklärung ihrer Ehe zulässig\.
 
+\[ [🔗 Permalink](#-201-abgb) \]
+
 ### § 202 ABGB
 
 > `(1)` Mit dem Eintritt der Rechtskraft des Aufhebungsbeschlusses erlöschen die durch die Annahme zwischen dem Wahlvater \(der Wahlmutter\) und dessen \(deren\) Nachkommen einerseits und dem Wahlkind und dessen Nachkommen andererseits begründeten Rechtsbeziehungen\.
@@ -2543,9 +2779,13 @@
 > `(2)` Mit diesem Zeitpunkt leben die familienrechtlichen Beziehungen zwischen den leiblichen Eltern und deren Verwandten einerseits und dem Wahlkind und dessen Nachkommen andererseits, soweit sie nach dem § 197 erloschen sind, wieder auf\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch Art\. 1 Z 34, BGBl\. I Nr\. 59/2017\)*
 
+\[ [🔗 Permalink](#-202-abgb) \]
+
 ### § 203 ABGB
 
 > Ein Widerruf oder eine Aufhebung aus anderen als den in den §§ 200 und 201 angeführten Gründen ist unzulässig; ebenso eine vertragliche Einigung oder ein Rechtsstreit über die Anfechtung des Annahmevertrages\.
+
+\[ [🔗 Permalink](#-203-abgb) \]
 
 ## Viertes Hauptstück
 
@@ -2554,6 +2794,8 @@
 ### § 204 ABGB
 
 > Soweit nach dem dritten Hauptstück weder Eltern mit der Obsorge betraut sind und kein Fall des § 207 vorliegt, hat das Gericht unter Beachtung des Wohles des Kindes eine andere geeignete Person mit der Obsorge zu betrauen\.
+
+\[ [🔗 Permalink](#-204-abgb) \]
 
 ### § 205 ABGB
 
@@ -2565,15 +2807,21 @@
 >
 >> `2.` Personen, von denen, besonders auch wegen der durch eine strafgerichtliche Verurteilung zutage getretenen Veranlagung oder Eigenschaft, eine dem Wohl des minderjährigen Kindes förderliche Ausübung der Obsorge nicht zu erwarten ist\.
 
+\[ [🔗 Permalink](#-205-abgb) \]
+
 ### § 206 ABGB
 
 > `(1)` Derjenige, den das Gericht mit der Obsorge betrauen will, hat alle Umstände, die ihn dafür ungeeignet erscheinen lassen, dem Gericht mitzuteilen\. Unterlässt er diese Mitteilung schuldhaft, so haftet er für alle dem minderjährigen Kind daraus entstehenden Nachteile\.
 
 > `(2)` Eine besonders geeignete Person kann die Betrauung mit der Obsorge nur ablehnen, wenn ihr diese unzumutbar wäre\.
 
+\[ [🔗 Permalink](#-206-abgb) \]
+
 ### § 207 ABGB — Aufgaben des Kinder- und Jugendhilfeträgers
 
 > Wird ein minderjähriges Kind im Inland gefunden und sind dessen Eltern unbekannt, so ist kraft Gesetzes der Kinder\- und Jugendhilfeträger mit der Obsorge betraut\. Dies gilt für den Bereich der Vermögensverwaltung und der Vertretung auch, wenn ein Kind im Inland geboren wird und dessen unverheiratete Mutter minderjährig ist\.
+
+\[ [🔗 Permalink](#-207-abgb--aufgaben-des-kinder--und-jugendhilfeträgers) \]
 
 ### § 208 ABGB
 
@@ -2587,9 +2835,13 @@
 
 > `(5)` Die Vertretungsbefugnis des Kinder\- und Jugendhilfeträgers endet, wenn der sonstige gesetzliche Vertreter seine Zustimmung schriftlich widerruft, der Kinder\- und Jugendhilfeträger seine Erklärung nach Abs\. 3 zurücknimmt oder das Gericht den Kinder\- und Jugendhilfeträger auf dessen Antrag als Vertreter enthebt, weil er zur Wahrung der Rechte und zur Durchsetzung der Ansprüche des Kindes nach Lage des Falles nichts mehr beizutragen vermag\.
 
+\[ [🔗 Permalink](#-208-abgb) \]
+
 ### § 209 ABGB
 
 > Ist eine andere Person mit der Obsorge für einen Minderjährigen ganz oder teilweise zu betrauen und lassen sich dafür Verwandte oder andere nahe stehende oder sonst besonders geeignete Personen nicht finden, so hat das Gericht die Obsorge dem Kinder\- und Jugendhilfeträger zu übertragen\. Gleiches gilt, wenn einem Minderjährigen ein Kurator zu bestellen ist\.
+
+\[ [🔗 Permalink](#-209-abgb) \]
 
 ### § 210 ABGB
 
@@ -2599,15 +2851,21 @@
 
 > `(3)` Der Kinder\- und Jugendhilfeträger hat Personen, die ein Kind pflegen und erziehen oder gesetzlich vertreten, über seine Vertretungstätigkeit bezüglich dieses Kindes Auskünfte zu erteilen, soweit das Wohl des Kindes hiedurch nicht gefährdet wird\.
 
+\[ [🔗 Permalink](#-210-abgb) \]
+
 ### § 211 ABGB
 
 > `(1)` Der Kinder\- und Jugendhilfeträger hat die zur Wahrung des Wohles eines Minderjährigen erforderlichen gerichtlichen Verfügungen im Bereich der Obsorge zu beantragen\. Bei Gefahr im Verzug kann er die erforderlichen Maßnahmen der Pflege und Erziehung vorläufig mit Wirksamkeit bis zur gerichtlichen Entscheidung selbst treffen; er hat diese Entscheidung unverzüglich, jedenfalls innerhalb von acht Tagen, zu beantragen\. Im Umfang der getroffenen Maßnahmen ist der Kinder\- und Jugendhilfeträger vorläufig mit der Obsorge betraut\.
 
 > `(2)` Eine einstweilige Verfügung nach den §§ 382b, 382c und 382d EO sowie deren Vollzug kann der Kinder\- und Jugendhilfeträger als Vertreter des Minderjährigen beantragen, wenn der sonstige gesetzliche Vertreter einen erforderlichen Antrag nicht unverzüglich gestellt hat; § 208 Abs\. 4 gilt hiefür entsprechend\.
 
+\[ [🔗 Permalink](#-211-abgb) \]
+
 ### § 212 ABGB
 
 > Sofern nicht anderes angeordnet ist, fallen die Aufgaben dem Bundesland als Kinder\- und Jugendhilfeträger zu, in dem das minderjährige Kind seinen gewöhnlichen Aufenthalt, mangels eines solchen im Inland seinen Aufenthalt hat\. Fehlt ein Aufenthalt im Inland, so ist, sofern das minderjährige Kind österreichischer Staatsbürger ist, für im Inland zu besorgende Aufgaben das Bundesland als Kinder\- und Jugendhilfeträger zuständig, in dem der Minderjährige seinen letzten Aufenthalt gehabt hat, dann dasjenige, in dem ein Elternteil seinen Aufenthalt hat oder zuletzt gehabt hat\. Wechselt das minderjährige Kind seinen Aufenthalt in ein anderes Bundesland, so kann der Kinder\- und Jugendhilfeträger seine Aufgaben dem anderen mit dessen Zustimmung übertragen\. Hievon ist das Gericht zu verständigen, wenn es mit den Angelegenheiten des minderjährigen Kindes bereits befasst war\.
+
+\[ [🔗 Permalink](#-212-abgb) \]
 
 ## Besondere Pflichten und Rechte anderer mit der Obsorge betrauter Personen
 
@@ -2617,6 +2875,8 @@
 
 > `(2)` Einer medizinischen Behandlung, die gewöhnlich mit einer schweren oder nachhaltigen Beeinträchtigung der körperlichen Unversehrtheit oder der Persönlichkeit verbunden ist, kann die mit der Obsorge betraute Person nur zustimmen, wenn ein vom behandelnden Arzt unabhängiger Arzt in einem ärztlichen Zeugnis bestätigt, dass das Kind nicht über die erforderliche Entscheidungsfähigkeit verfügt und die Vornahme der Behandlung zur Wahrung seines Wohles erforderlich ist\. Wenn ein solches Zeugnis nicht vorliegt oder das Kind zu erkennen gibt, dass es die Behandlung ablehnt, bedarf die Zustimmung der Genehmigung des Gerichts\. Erteilt die mit der Obsorge betraute Person die Zustimmung zu einer medizinischen Behandlung nicht und wird dadurch das Wohl des Kindes gefährdet, so kann das Gericht die Zustimmung ersetzen oder die Obsorge an eine andere Person übertragen\.
 
+\[ [🔗 Permalink](#-213-abgb--a-in-angelegenheiten-der-pflege-und-erziehung) \]
+
 ## b) in Angelegenheiten der Vermögensverwaltung
 
 ### § 214 ABGB — Überwachung der Vermögensverwaltung
@@ -2625,6 +2885,8 @@
 
 > `(2)` Auf Vertretungshandlungen und Einwilligungen in Vermögensangelegenheiten ist § 167 Abs\. 3 und § 168 sinngemäß anzuwenden\.
 
+\[ [🔗 Permalink](#-214-abgb--überwachung-der-vermögensverwaltung) \]
+
 ## Anlegung von Mündelgeld
 
 ### § 215 ABGB — Allgemeine Grundsätze
@@ -2632,6 +2894,8 @@
 > `(1)` Soweit Bargeld und Geld auf Zahlungskonten eines Kindes \(Mündelgeld\) nicht, dem Gesetz entsprechend, für besondere Zwecke zu verwenden ist, ist es unverzüglich sicher und möglichst fruchtbringend durch Spareinlagen, den Erwerb von Wertpapieren \(Forderungen\), die Gewährung von Krediten, den Erwerb von Liegenschaften oder in anderer Weise nach den folgenden Bestimmungen anzulegen\.
 
 > `(2)` Ist es wirtschaftlich zweckmäßig, so ist Mündelgeld auf mehrere dieser Arten anzulegen\.
+
+\[ [🔗 Permalink](#-215-abgb--allgemeine-grundsätze) \]
 
 ### § 216 ABGB — Mündelsichere Spareinlagen
 
@@ -2642,6 +2906,8 @@
 >> `2.` für die Verzinsung und Rückzahlung der Mündelspareinlagen ein vom Kreditinstitut gebildeter, jederzeit mit der jeweiligen Höhe solcher Einlagen übereinstimmender unbelasteter Deckungsstock haftet, und
 >
 >> `3.` der Deckungsstock ausschließlich in mündelsicheren Wertpapieren \(§ 217\), in Hypothekarforderungen mit gesetzmäßiger Sicherheit \(§ 218\), in Forderungen, für die der Bund oder ein Land haftet, oder in Bargeld besteht\.
+
+\[ [🔗 Permalink](#-216-abgb--mündelsichere-spareinlagen) \]
 
 ### § 217 ABGB — Mündelsichere Wertpapiere und Forderungen
 
@@ -2657,17 +2923,23 @@
 >
 >> `5.` sonstige Wertpapiere, sofern sie durch besondere gesetzliche Vorschriften zur Anlegung von Mündelgeld geeignet erklärt worden sind\.
 
+\[ [🔗 Permalink](#-217-abgb--mündelsichere-wertpapiere-und-forderungen) \]
+
 ### § 218 ABGB — Mündelsichere Kredite
 
 > `(1)` Kredite sind zur Anlegung von Mündelgeld geeignet, wenn zu ihrer Sicherstellung an einer inländischen Liegenschaft eine Hypothek bestellt wird und die Liegenschaft samt ihrem Zubehör während der Laufzeit des Kredites ausreichend feuerversichert ist\. Liegenschaften, deren Wert sich wegen eines darauf befindlichen Abbaubetriebs ständig und beträchtlich vermindert, sind nicht geeignet\.
 
 > `(2)` Es darf jedoch eine Liegenschaft nicht über die Hälfte des Verkehrswertes belastet werden\. Bei Weingärten, Wäldern und anderen Liegenschaften, deren Ertrag auf ähnlichen dauernden Anpflanzungen beruht, ist die Belastungsgrenze ohne Berücksichtigung des Wertes der Kulturgattung vom Grundwert zu errechnen\. Ebenso ist bei industriell oder gewerblich genutzten Liegenschaften vom bloßen Grundwert auszugehen, doch sind von diesem die Kosten der Freimachung der Liegenschaft von industriell oder gewerblich genutzten Baulichkeiten abzuziehen\.
 
+\[ [🔗 Permalink](#-218-abgb--mündelsichere-kredite) \]
+
 ### § 219 ABGB — Mündelsichere Liegenschaften
 
 > `(1)` Der Erwerb inländischer Liegenschaften ist zur Anlegung von Mündelgeld geeignet, wenn sich ihr Wert nicht wegen eines darauf befindlichen Abbaubetriebs ständig und beträchtlich vermindert oder sie nicht ausschließlich oder überwiegend industriellen oder gewerblichen Zwecken dienen\.
 
 > `(2)` Der Kaufpreis soll in der Regel den Verkehrswert nicht übersteigen\.
+
+\[ [🔗 Permalink](#-219-abgb--mündelsichere-liegenschaften) \]
 
 ### § 220 ABGB — Andere Anlageformen
 
@@ -2677,29 +2949,43 @@
 
 > `(3)` Bei Liegenschaften, die im § 219 nicht genannt sind, muss ihr Erwerb dem Kind mit Beziehung auf die gegenwärtige oder künftige Berufsausübung oder sonst zum offenbaren Vorteil gereichen; der Kaufpreis darf den Verkehrswert nicht übersteigen\.
 
+\[ [🔗 Permalink](#-220-abgb--andere-anlageformen) \]
+
 ### § 221 ABGB
 
 > Der gesetzliche Vertreter hat jedenfalls dann eine andere Anlegung von im Sinn des § 220 angelegtem Vermögen zu veranlassen, wenn ansonsten mit überwiegender Wahrscheinlichkeit damit zu rechnen ist, dass ein für das Kind unter Berücksichtigung seiner Lebensverhältnisse nicht unbeträchtliches Vermögen dauerhaft geschmälert werden wird und die Umschichtung dem Wohl des Kindes entspricht\.
+
+\[ [🔗 Permalink](#-221-abgb) \]
 
 ### § 222 ABGB — Veräußerung von beweglichem Vermögen
 
 > Bewegliches Vermögen, außer Mündelgeld oder im Sinn der §§ 216 bis 220 veranlagtes Vermögen, darf nur soweit verwertet werden, als dies zur Befriedigung der gegenwärtigen oder zukünftigen Bedürfnisse des Kindes nötig ist oder sonst dem Wohl des Kindes entspricht\.
 
+\[ [🔗 Permalink](#-222-abgb--veräußerung-von-beweglichem-vermögen) \]
+
 ### § 223 ABGB — Veräußerung von unbeweglichem Gut
 
 > Ein unbewegliches Gut oder ein Anteil an einem solchen darf nur im Notfall oder zum offenbaren Vorteil des Kindes veräußert werden\.
+
+\[ [🔗 Permalink](#-223-abgb--veräußerung-von-unbeweglichem-gut) \]
 
 ### § 224 ABGB — Entgegennahme von Zahlungen
 
 > Der gesetzliche Vertreter kann 10 000 Euro übersteigende Zahlungen an das Kind nur entgegennehmen und darüber quittieren, wenn er dazu vom Gericht im Einzelfall oder allgemein ermächtigt wurde oder eine gerichtliche Genehmigung des Wechsels der Anlageform vorliegt\. Fehlt eine solche Ermächtigung oder Genehmigung, so wird der Schuldner durch Zahlung an den Vertreter von seiner Schuld nur befreit, wenn das Gezahlte noch im Vermögen des Kindes vorhanden ist oder für dessen Zwecke verwendet wurde\.
 
+\[ [🔗 Permalink](#-224-abgb--entgegennahme-von-zahlungen) \]
+
 ### § 225 ABGB — Änderungen in der Obsorge
 
 > Die Obsorge des Kinder\- und Jugendhilfeträgers \(§ 207\) endet, sofern der Umstand, der die Eltern von der Ausübung der Obsorge ausgeschlossen hat, weggefallen ist; im ersten Fall des § 207 bedarf es hiezu jedoch der Übertragung der Obsorge an die Eltern durch das Gericht\.
 
+\[ [🔗 Permalink](#-225-abgb--änderungen-in-der-obsorge) \]
+
 ### § 226 ABGB
 
 > Das Gericht hat die Obsorge an eine andere Person zu übertragen, wenn das Wohl des minderjährigen Kindes dies erfordert, insbesondere wenn die mit der Obsorge betraute Person ihre Verpflichtungen aus § 159 nicht erfüllt, einer der Umstände des § 205 Abs\. 2 eintritt oder bekannt wird oder die Person, die bisher mit der Obsorge betraut war, stirbt\.
+
+\[ [🔗 Permalink](#-226-abgb) \]
 
 ### § 227 ABGB — Haftung
 
@@ -2707,9 +2993,13 @@
 
 > `(2)` Soweit sich die mit der Obsorge betraute Person zu ihrer Ausübung rechtmäßig anderer Personen bedient, haftet sie nur insoweit, als sie schuldhaft eine untüchtige oder gefährliche Person ausgewählt, deren Tätigkeit nur unzureichend überwacht oder die Geltendmachung von Ersatzansprüchen des minderjährigen Kindes gegen diese Personen schuldhaft unterlassen hat\.
 
+\[ [🔗 Permalink](#-227-abgb--haftung) \]
+
 ### § 228 ABGB
 
 > Der Richter kann die Ersatzpflicht nach § 227 insoweit mäßigen oder ganz erlassen, als sie die mit der Obsorge betraute Person unter Berücksichtigung aller Umstände, insbesondere des Grades des Verschuldens oder eines besonderen Naheverhältnisses zwischen dem Kind und der mit der Obsorge betrauten Person, unbillig hart träfe\.
+
+\[ [🔗 Permalink](#-228-abgb) \]
 
 ### § 229 ABGB — Entschädigung
 
@@ -2719,6 +3009,8 @@
 
 > `(3)` Bei besonders umfangreichen und erfolgreichen Bemühungen der mit der Obsorge betrauten Person kann das Gericht die Entschädigung auch höher als nach Abs\. 2 erster Satz bemessen, jedoch nicht höher als zehn vom Hundert der Einkünfte\.
 
+\[ [🔗 Permalink](#-229-abgb--entschädigung) \]
+
 ### § 230 ABGB — Entgelt und Aufwandsersatz
 
 > `(1)` Nützt die mit der Obsorge betraute Person für Angelegenheiten, deren Besorgung sonst einem Dritten übertragen werden müsste, ihre besonderen beruflichen Kenntnisse und Fähigkeiten, so hat sie hiefür einen Anspruch auf angemessenes Entgelt\. Dieser Anspruch besteht für die Kosten einer rechtsfreundlichen Vertretung jedoch nicht, soweit beim Kind die Voraussetzungen für die Bewilligung der Verfahrenshilfe gegeben sind oder diese Kosten nach gesetzlichen Vorschriften vom Gegner ersetzt werden\.
@@ -2726,6 +3018,8 @@
 > `(2)` Zur zweckentsprechenden Ausübung der Obsorge notwendige Barauslagen, tatsächliche Aufwendungen und die Kosten der Versicherung der Haftpflicht nach § 227 sind der mit der Obsorge betrauten Person vom Kind jedenfalls zu erstatten, soweit sie nach gesetzlichen Vorschriften nicht unmittelbar von Dritten getragen werden\.
 
 > `(3)` Ansprüche nach den Abs\. 1 und 2 bestehen insoweit nicht, als durch sie die Befriedigung der Lebensbedürfnisse des Kindes gefährdet wäre\.
+
+\[ [🔗 Permalink](#-230-abgb--entgelt-und-aufwandsersatz) \]
 
 ## Fünftes Hauptstück
 
@@ -2741,13 +3035,19 @@
 
 > `(4)` Vereinbarungen, wonach sich ein Elternteil dem anderen gegenüber verpflichtet, für den Unterhalt des Kindes allein oder überwiegend aufzukommen und den anderen für den Fall der Inanspruchnahme mit der Unterhaltspflicht schad\- und klaglos zu halten, sind unwirksam, sofern sie nicht im Rahmen einer umfassenden Regelung der Folgen einer Scheidung vor Gericht geschlossen werden\.
 
+\[ [🔗 Permalink](#-231-abgb) \]
+
 ### § 232 ABGB
 
 > Soweit die Eltern nach ihren Kräften zur Leistung des Unterhalts nicht imstande sind, schulden ihn die Großeltern nach den den Lebensverhältnissen der Eltern angemessenen Bedürfnissen des Kindes\. Im Übrigen gilt der § 231 sinngemäß; der Unterhaltsanspruch eines Enkels mindert sich jedoch auch insoweit, als ihm die Heranziehung des Stammes eigenen Vermögens zumutbar ist\. Überdies hat ein Großelternteil nur insoweit Unterhalt zu leisten, als er dadurch bei Berücksichtigung seiner sonstigen Sorgepflichten den eigenen angemessenen Unterhalt nicht gefährdet\.
 
+\[ [🔗 Permalink](#-232-abgb) \]
+
 ### § 233 ABGB
 
 > Die Schuld eines Elternteils, dem Kind den Unterhalt zu leisten, geht bis zum Wert der Verlassenschaft auf seine Erben über\. Auf den Anspruch des Kindes ist alles anzurechnen, was das Kind nach dem Verstorbenen durch eine vertragliche oder letztwillige Zuwendung, als gesetzlichen Erbteil, als Pflichtteil oder durch eine öffentlich\-rechtliche oder privatrechtliche Leistung erhält\. Reicht der Wert der Verlassenschaft nicht aus, um dem Kind den geschuldeten Unterhalt bis zum voraussichtlichen Eintritt der Selbsterhaltungsfähigkeit zu sichern, so mindert sich der Anspruch des Kindes entsprechend\.
+
+\[ [🔗 Permalink](#-233-abgb) \]
 
 ### § 234 ABGB
 
@@ -2757,11 +3057,15 @@
 
 > `(3)` Der Unterhaltsanspruch eines Eltern\- oder Großelternteils mindert sich insoweit, als ihm die Heranziehung des Stammes eigenen Vermögens zumutbar ist\. Überdies hat ein Kind nur insoweit Unterhalt zu leisten, als es dadurch bei Berücksichtigung seiner sonstigen Sorgepflichten den eigenen angemessenen Unterhalt nicht gefährdet\.
 
+\[ [🔗 Permalink](#-234-abgb) \]
+
 ### § 235 ABGB — Ansprüche im Zusammenhang mit der Geburt
 
 > `(1)` Der Vater ist verpflichtet, der Mutter die Kosten der Entbindung sowie die Kosten ihres Unterhaltes für die ersten acht Wochen nach der Entbindung und, falls infolge der Entbindung weitere Auslagen notwendig werden, auch diese zu ersetzen\.
 
 > `(2)` Die Forderung ist mit Ablauf von drei Jahren nach der Entbindung verjährt\.
+
+\[ [🔗 Permalink](#-235-abgb--ansprüche-im-zusammenhang-mit-der-geburt) \]
 
 ## Sechstes Hauptstück
 
@@ -2779,17 +3083,23 @@
 
 > `(2)` Unterstützung kann insbesondere durch die Familie, andere nahe stehende Personen, Pflegeeinrichtungen, Einrichtungen der Behindertenhilfe und soziale und psychosoziale Dienste, Gruppen von Gleichgestellten, Beratungsstellen oder im Rahmen eines betreuten Kontos oder eines Vorsorgedialogs geleistet werden\.
 
+\[ [🔗 Permalink](#-239-abgb--selbstbestimmung) \]
+
 ### § 240 ABGB — Nachrang der Stellvertretung
 
 > `(1)` Die in § 239 Abs\. 1 genannten Personen nehmen nur dann durch einen Vertreter am Rechtsverkehr teil, wenn sie dies selbst vorsehen oder eine Vertretung zur Wahrung ihrer Rechte und Interessen unvermeidlich ist\. Sie können durch eine von ihnen bevollmächtigte Person \(Vorsorgevollmacht\) oder durch einen gewählten oder gesetzlichen oder gerichtlichen Erwachsenenvertreter vertreten werden\.
 
 > `(2)` Soweit eine volljährige Person bei Besorgung ihrer Angelegenheiten entsprechend unterstützt wird oder selbst, besonders durch eine Vorsorgevollmacht, für deren Besorgung im erforderlichen Ausmaß vorgesorgt hat, darf für sie kein Erwachsenenvertreter tätig werden\.
 
+\[ [🔗 Permalink](#-240-abgb--nachrang-der-stellvertretung) \]
+
 ### § 241 ABGB — Selbstbestimmung trotz Stellvertretung
 
 > `(1)` Ein Vorsorgebevollmächtigter oder Erwachsenenvertreter hat danach zu trachten, dass die vertretene Person im Rahmen ihrer Fähigkeiten und Möglichkeiten ihre Lebensverhältnisse nach ihren Wünschen und Vorstellungen gestalten kann, und sie, soweit wie möglich, in die Lage zu versetzen, ihre Angelegenheiten selbst zu besorgen\.
 
 > `(2)` Ein Vorsorgebevollmächtigter oder Erwachsenenvertreter hat die vertretene Person von beabsichtigten, ihre Person oder ihr Vermögen betreffenden Entscheidungen rechtzeitig zu verständigen und ihr die Möglichkeit zu geben, sich dazu in angemessener Frist zu äußern\. Die Äußerung der vertretenen Person ist zu berücksichtigen, es sei denn, ihr Wohl wäre hierdurch erheblich gefährdet\.
+
+\[ [🔗 Permalink](#-241-abgb--selbstbestimmung-trotz-stellvertretung) \]
 
 ### § 242 ABGB — Handlungsfähigkeit
 
@@ -2798,6 +3108,8 @@
 > `(2)` Soweit dies zur Abwendung einer ernstlichen und erheblichen Gefahr für die vertretene Person erforderlich ist, hat das Gericht im Wirkungsbereich der gerichtlichen Erwachsenenvertretung anzuordnen, dass die Wirksamkeit bestimmter rechtsgeschäftlicher Handlungen der vertretenen Person oder bestimmter Verfahrenshandlungen bei Verwaltungsbehörden und Verwaltungsgerichten wie nach § 865 Abs\. 3 und Abs\. 5 die Genehmigung des Erwachsenenvertreters und in den Fällen des § 258 Abs\. 4 auch jene des Gerichts voraussetzt\. Der Genehmigungsvorbehalt bleibt ungeachtet der Übertragung einer Erwachsenenvertretung im Sinn des § 246 Abs\. 3 Z 2 bestehen; er ist vom Gericht aufzuheben, wenn er nicht mehr erforderlich ist\.
 
 > `(3)` Schließt eine volljährige Person, die nicht entscheidungsfähig ist, ein Rechtsgeschäft des täglichen Lebens, das ihre Lebensverhältnisse nicht übersteigt, so wird dieses – sofern in diesem Bereich kein Genehmigungsvorbehalt nach Abs\. 2 angeordnet wurde – mit der Erfüllung der sie treffenden Pflichten rückwirkend rechtswirksam\.
+
+\[ [🔗 Permalink](#-242-abgb--handlungsfähigkeit) \]
 
 ## II. Auswahl und Dauer der Vertretung
 
@@ -2815,6 +3127,8 @@
 
 > `(3)` Mehrere Erwachsenenvertreter können für eine Person nur mit jeweils unterschiedlichem Wirkungsbereich eingesetzt und im Österreichischen Zentralen Vertretungsverzeichnis eingetragen werden\.
 
+\[ [🔗 Permalink](#-243-abgb--eignung) \]
+
 ### § 244 ABGB — Erwachsenenvertreter-Verfügung
 
 > `(1)` Eine Person kann in einer Erwachsenenvertreter\-Verfügung jemanden bezeichnen, der für sie als Erwachsenenvertreter tätig oder nicht tätig werden soll\. Die verfügende Person muss hierfür fähig sein, die Bedeutung und Folgen einer Erwachsenenvertretung sowie der Verfügung in Grundzügen zu verstehen, ihren Willen danach zu bestimmen und sich entsprechend zu verhalten\.
@@ -2822,6 +3136,8 @@
 > `(2)` Die Erwachsenenvertreter\-Verfügung muss schriftlich vor einem Notar, Rechtsanwalt oder Mitarbeiter eines Erwachsenenschutzvereins errichtet und im Österreichischen Zentralen Vertretungsverzeichnis eingetragen werden\. Hegt die eintragende Person Bedenken gegen das Vorliegen der Entscheidungsfähigkeit der verfügenden Person, so hat sie die Eintragung abzulehnen und bei begründeten Anhaltspunkten für eine Gefährdung des Wohles der volljährigen Person unverzüglich das Pflegschaftsgericht zu verständigen\.
 
 > `(3)` Die verfügende Person kann die Erwachsenenvertreter\-Verfügung jederzeit widerrufen\. Der Widerruf muss von einem Notar, Rechtsanwalt oder Mitarbeiter eines Erwachsenenschutzvereins im Österreichischen Zentralen Vertretungsverzeichnis eingetragen werden\. Die Eintragung hat auf Verlangen der vertretenen Person zu erfolgen\. Für den Widerruf genügt es, dass die verfügende Person zu erkennen gibt, dass die Verfügung nicht mehr gelten soll\. Auf diese Möglichkeiten kann sie nicht verzichten\.
+
+\[ [🔗 Permalink](#-244-abgb--erwachsenenvertreter-verfügung) \]
 
 ### § 245 ABGB — Beginn und Fortbestand
 
@@ -2832,6 +3148,8 @@
 > `(3)` Eine gerichtliche Erwachsenenvertretung entsteht mit der Bestellung durch das Gericht\.
 
 > `(4)` Solange die Vertretungsbefugnis eines Vorsorgebevollmächtigten oder Erwachsenenvertreters im Österreichischen Zentralen Vertretungsverzeichnis eingetragen ist, besteht sie fort, auch wenn die vertretene Person im Wirkungsbereich ihres Vertreters handlungsfähig ist oder ihre Handlungsfähigkeit erlangt\.
+
+\[ [🔗 Permalink](#-245-abgb--beginn-und-fortbestand) \]
 
 ### § 246 ABGB — Änderung, Übertragung und Beendigung
 
@@ -2863,11 +3181,15 @@
 
 > `(4)` § 178 Abs\. 3, § 183 Abs\. 2 und § 1025 gelten sinngemäß\.
 
+\[ [🔗 Permalink](#-246-abgb--änderung-übertragung-und-beendigung) \]
+
 ## III. Besondere Rechte und Pflichten des Vertreters
 
 ### § 247 ABGB — Kontakte
 
 > Ein Erwachsenenvertreter hat mit der vertretenen Person in dem nach den Umständen des Einzelfalls erforderlichen Ausmaß persönlichen Kontakt zu halten\. Sofern ihm nicht ausschließlich Angelegenheiten übertragen worden sind, deren Besorgung vorwiegend Kenntnisse des Rechts oder der Vermögensverwaltung voraussetzen, soll der Kontakt mindestens einmal im Monat stattfinden\.
+
+\[ [🔗 Permalink](#-247-abgb--kontakte) \]
 
 ### § 248 ABGB — Verschwiegenheitspflicht
 
@@ -2883,11 +3205,15 @@
 >
 >> `3.` die Offenlegung zur Wahrung ihres Wohles erforderlich ist\.
 
+\[ [🔗 Permalink](#-248-abgb--verschwiegenheitspflicht) \]
+
 ### § 249 ABGB — Haftung und Aufwandersatz
 
 > `(1)` Ein Vorsorgebevollmächtigter oder Erwachsenenvertreter haftet der vertretenen Person für jeden durch sein Verschulden verursachten Schaden\. Das Gericht kann die Ersatzpflicht insoweit mäßigen oder ganz erlassen, als sie den Vertreter unter Berücksichtigung aller Umstände, insbesondere des Grades des Verschuldens oder seines besonderen Naheverhältnisses zur vertretenen Person, unbillig hart träfe\.
 
 > `(2)` Die zur zweckentsprechenden Ausübung der Vertretung notwendigen Barauslagen, die tatsächlichen Aufwendungen und die angemessenen Kosten einer zur Deckung der Haftung nach Abs\. 1 abgeschlossenen Haftpflichtversicherung sind dem gewählten und gesetzlichen Erwachsenenvertreter von der vertretenen Person zu erstatten, soweit sie nach gesetzlichen Vorschriften nicht unmittelbar von Dritten getragen werden; ist der einzelne Nachweis dem Erwachsenenvertreter nicht zumutbar, so ist ein angemessener Pauschalbetrag zu erstatten\. Für den gerichtlichen Erwachsenenvertreter gilt § 276 Abs\. 4\.
+
+\[ [🔗 Permalink](#-249-abgb--haftung-und-aufwandersatz) \]
 
 ## IV. Personensorge
 
@@ -2909,9 +3235,13 @@
 
 > `(4)` Das Recht der vertretenen Person auf persönliche Kontakte zu anderen Personen sowie ihr Schriftverkehr dürfen vom Vorsorgebevollmächtigten oder Erwachsenenvertreter nur eingeschränkt werden, wenn sonst ihr Wohl erheblich gefährdet wäre\.
 
+\[ [🔗 Permalink](#-250-abgb--vertretung-in-personenrechtlichen-angelegenheiten) \]
+
 ### § 251 ABGB — Bemühung um Betreuung
 
 > Ein Erwachsenenvertreter ist nicht zur Betreuung der vertretenen Person verpflichtet\. Ist sie aber nicht umfassend betreut, so hat er sich, unabhängig von seinem Wirkungsbereich, darum zu bemühen, dass ihr die gebotene medizinische und soziale Betreuung gewährt wird\.
+
+\[ [🔗 Permalink](#-251-abgb--bemühung-um-betreuung) \]
 
 ## Medizinische Behandlung
 
@@ -2925,6 +3255,8 @@
 
 > `(4)` Von einer Aufklärung der von der Behandlung betroffenen Person oder ihrer Unterstützung im Sinn des Abs\. 2 ist abzusehen, wenn mit der damit einhergehenden Verzögerung eine Gefährdung des Lebens, die Gefahr einer schweren Schädigung der Gesundheit oder starke Schmerzen verbunden wären\.
 
+\[ [🔗 Permalink](#-252-abgb--a-entscheidungsfähiger-personen) \]
+
 ### § 253 ABGB — b) nicht entscheidungsfähiger Personen
 
 > `(1)` Eine medizinische Behandlung an einer volljährigen Person, die nicht entscheidungsfähig ist, bedarf der Zustimmung ihres Vorsorgebevollmächtigten oder Erwachsenenvertreters, dessen Wirkungsbereich diese Angelegenheit umfasst\. Er hat sich dabei vom Willen der vertretenen Person leiten zu lassen\. Im Zweifel ist davon auszugehen, dass diese eine medizinisch indizierte Behandlung wünscht\.
@@ -2935,6 +3267,8 @@
 
 > `(4)` Hat die im Behandlungszeitpunkt nicht entscheidungsfähige Person die medizinische Behandlung in einer verbindlichen Patientenverfügung abgelehnt und gibt es keine Hinweise auf die Unwirksamkeit der Patientenverfügung, so muss die Behandlung ohne Befassung eines Vertreters unterbleiben\.
 
+\[ [🔗 Permalink](#-253-abgb--b-nicht-entscheidungsfähiger-personen) \]
+
 ### § 254 ABGB
 
 > `(1)` Gibt eine nicht entscheidungsfähige Person ihrem Vorsorgebevollmächtigten oder Erwachsenenvertreter oder dem Arzt gegenüber zu erkennen, dass sie die medizinische Behandlung oder deren Fortsetzung ablehnt, so bedarf die Zustimmung des Vorsorgebevollmächtigten oder Erwachsenenvertreters zur Behandlung der Genehmigung des Gerichts\.
@@ -2943,17 +3277,23 @@
 
 > `(3)` Die Genehmigung oder Ersetzung der Zustimmung durch das Gericht oder die Bestellung eines anderen Vertreters ist nicht erforderlich, wenn mit der mit solchen Gerichtsverfahren einhergehenden Verzögerung eine Gefährdung des Lebens, die Gefahr einer schweren Schädigung der Gesundheit oder starke Schmerzen verbunden wären\. Dauert die medizinische Behandlung voraussichtlich auch nach Abwendung dieser Gefahrenmomente noch an, so ist sie zu beginnen und unverzüglich das Gericht anzurufen\.
 
+\[ [🔗 Permalink](#-254-abgb) \]
+
 ### § 255 ABGB — Sterilisation
 
 > `(1)` Ein Vorsorgebevollmächtigter oder Erwachsenenvertreter darf einer medizinischen Maßnahme, die eine dauernde Fortpflanzungsunfähigkeit der vertretenen nicht entscheidungsfähigen Person zum Ziel hat, nicht zustimmen, es sei denn, dass sonst wegen eines dauerhaften körperlichen Leidens eine Gefährdung des Lebens oder die Gefahr einer schweren Schädigung der Gesundheit oder starker Schmerzen besteht\.
 
 > `(2)` Die Zustimmung des Vorsorgebevollmächtigten oder Erwachsenenvertreters bedarf der gerichtlichen Genehmigung\.
 
+\[ [🔗 Permalink](#-255-abgb--sterilisation) \]
+
 ### § 256 ABGB — Forschung
 
 > `(1)` Ebenso darf ein Vorsorgebevollmächtigter oder Erwachsenenvertreter einer medizinischen Forschung, die mit einer Beeinträchtigung der körperlichen Unversehrtheit oder der Persönlichkeit der vertretenen nicht entscheidungsfähigen Person verbunden ist, nicht zustimmen, es sei denn, dass diese für deren Gesundheit oder Wohlbefinden von unmittelbarem Nutzen sein kann\. Die Zustimmung bedarf der gerichtlichen Genehmigung, außer es liegt eine befürwortende Stellungnahme einer für die jeweilige Krankenanstalt eingerichteten Ethikkommission vor\.
 
 > `(2)` Gibt eine nicht entscheidungsfähige Person ihrem Vorsorgebevollmächtigten oder Erwachsenenvertreter oder dem Arzt gegenüber zu erkennen, dass sie die Forschung oder deren Fortsetzung ablehnt, so hat diese zu unterbleiben, es sei denn, das Wohl der vertretenen Person wäre sonst erheblich gefährdet\. Die Zustimmung des gesetzlichen Vertreters bedarf diesfalls auch bei Vorliegen einer befürwortenden Stellungnahme einer Ethikkommission der gerichtlichen Genehmigung\.
+
+\[ [🔗 Permalink](#-256-abgb--forschung) \]
 
 ### § 257 ABGB — Änderung des Wohnortes
 
@@ -2964,6 +3304,8 @@
 > `(3)` Soll der Wohnort der vertretenen Person dauerhaft geändert werden, so bedarf es zuvor der gerichtlichen Genehmigung\. Bis zum Vorliegen der gerichtlichen Entscheidung kann der Wohnort der vertretenen Person geändert werden, sofern eine Rückkehr möglich ist\.
 
 > `(4)` Abs\. 3 gilt für den Vorsorgebevollmächtigten sinngemäß, sofern der Wohnort der vertretenen Person dauerhaft ins Ausland verlegt werden soll\.
+
+\[ [🔗 Permalink](#-257-abgb--änderung-des-wohnortes) \]
 
 ## V. Vermögenssorge
 
@@ -2979,6 +3321,8 @@
 
 > `(5)` Ist ein Vorsorgebevollmächtigter mit der Verwaltung des Vermögens oder des Einkommens der vertretenen Person betraut, so gelten die §§ 215 bis 221, soweit dies in der Vorsorgevollmacht verfügt wurde\.
 
+\[ [🔗 Permalink](#-258-abgb) \]
+
 ## VI. Gerichtliche Kontrolle
 
 ### § 259 ABGB
@@ -2991,6 +3335,8 @@
 
 > `(4)` Ist das Wohl einer vertretenen Person gefährdet, so hat das Gericht jederzeit von Amts wegen die zur Sicherung des Wohles nötigen Verfügungen zu treffen\.
 
+\[ [🔗 Permalink](#-259-abgb) \]
+
 ## Zweiter Abschnitt
 
 ## Vorsorgevollmacht
@@ -2999,9 +3345,13 @@
 
 > Eine Vorsorgevollmacht ist eine Vollmacht, die nach ihrem Inhalt dann wirksam werden soll, wenn der Vollmachtgeber die zur Besorgung der anvertrauten Angelegenheiten erforderliche Entscheidungsfähigkeit verliert\. Der Vollmachtgeber kann auch die Umwandlung einer bestehenden Vollmacht in eine Vorsorgevollmacht bei Eintritt des Vorsorgefalls anordnen\.
 
+\[ [🔗 Permalink](#-260-abgb--vollmacht-für-den-vorsorgefall) \]
+
 ### § 261 ABGB — Wirkungsbereich
 
 > Die Vorsorgevollmacht kann für einzelne Angelegenheiten oder für Arten von Angelegenheiten erteilt werden\.
+
+\[ [🔗 Permalink](#-261-abgb--wirkungsbereich) \]
 
 ### § 262 ABGB — Form
 
@@ -3017,6 +3367,8 @@
 >
 > &nbsp; persönlich zu belehren\. Der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins hat die Vornahme dieser Belehrung in der Vollmachtsurkunde zu dokumentieren\.
 
+\[ [🔗 Permalink](#-262-abgb--form) \]
+
 ### § 263 ABGB — Registrierung
 
 > `(1)` Die Vorsorgevollmacht und der Eintritt des Vorsorgefalls sind von einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein \(§ 1 ErwSchVG\) im Österreichischen Zentralen Vertretungsverzeichnis einzutragen\. Der Eintritt des Vorsorgefalls darf nur insoweit eingetragen werden, als der Vollmachtgeber die zur Besorgung der anvertrauten Angelegenheiten erforderliche Entscheidungsfähigkeit verloren hat\.
@@ -3025,6 +3377,8 @@
 
 > `(3)` Erlangt die volljährige Person ihre Entscheidungsfähigkeit wieder, so ist dies auf ihr Verlangen oder jenes ihres Vertreters im Österreichischen Zentralen Vertretungsverzeichnis als Wegfall des Vorsorgefalls einzutragen\. Die Abs\. 1 und 2 gelten sinngemäß\.
 
+\[ [🔗 Permalink](#-263-abgb--registrierung) \]
+
 ## Dritter Abschnitt
 
 ## Gewählter Erwachsenenvertreter
@@ -3032,6 +3386,8 @@
 ### § 264 ABGB — Voraussetzungen
 
 > Soweit eine volljährige Person ihre Angelegenheiten aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit nicht für sich selbst besorgen kann, dafür keinen Vertreter hat und eine Vorsorgevollmacht nicht mehr errichten kann, aber noch fähig ist, die Bedeutung und Folgen einer Bevollmächtigung in Grundzügen zu verstehen, ihren Willen danach zu bestimmen und sich entsprechend zu verhalten, kann sie eine oder mehrere ihr nahe stehende Personen als Erwachsenenvertreter zur Besorgung dieser Angelegenheiten auswählen\.
+
+\[ [🔗 Permalink](#-264-abgb--voraussetzungen) \]
 
 ### § 265 ABGB — Wirkungsbereich
 
@@ -3043,17 +3399,23 @@
 
 > `(4)` Die Übertragung der Angelegenheiten umfasst, soweit nichts anderes vereinbart ist, immer auch die Vertretung vor Gericht\. In allen Fällen kann die Vertretungsbefugnis aber auch auf die Ausübung von Einsichts\- und Auskunftsrechten beschränkt werden\.
 
+\[ [🔗 Permalink](#-265-abgb--wirkungsbereich) \]
+
 ### § 266 ABGB — Form
 
 > `(1)` Die Vereinbarung einer gewählten Erwachsenenvertretung muss höchstpersönlich und schriftlich vor einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein \(§ 1 ErwSchVG\) errichtet werden\.
 
 > `(2)` Vor dem Abschluss der Vereinbarung sind die volljährige Person und der Erwachsenenvertreter über das Wesen und die Folgen der Erwachsenenvertretung, die Möglichkeit des jederzeitigen Widerrufs sowie die Rechte und Pflichten des gewählten Erwachsenenvertreters persönlich zu belehren\. Der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins hat die Vornahme dieser Belehrung in der Vereinbarung zu dokumentieren\.
 
+\[ [🔗 Permalink](#-266-abgb--form) \]
+
 ### § 267 ABGB — Registrierung
 
 > `(1)` Die Vereinbarung über die gewählte Erwachsenenvertretung ist von einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein \(§ 1 ErwSchVG\) im Österreichischen Zentralen Vertretungsverzeichnis einzutragen\.
 
 > `(2)` Hegt der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins am Vorliegen der Voraussetzungen der gewählten Erwachsenenvertretung oder an der Eignung der Person, die als Erwachsenenvertreter eingetragen werden soll, begründete Zweifel, so hat er die Eintragung abzulehnen und bei begründeten Anhaltspunkten für eine Gefährdung des Wohles der volljährigen Person unverzüglich das Pflegschaftsgericht zu verständigen\.
+
+\[ [🔗 Permalink](#-267-abgb--registrierung) \]
 
 ## Vierter Abschnitt
 
@@ -3072,6 +3434,8 @@
 >> `4.` der gesetzlichen Erwachsenenvertretung nicht vorab widersprochen hat und dies im Österreichischen Zentralen Vertretungsregister registriert wurde\.
 
 > `(2)` Nächste Angehörige sind die Eltern und Großeltern, volljährige Kinder und Enkelkinder, Geschwister, Nichten und Neffen der volljährigen Person, ihr Ehegatte oder eingetragener Partner und ihr Lebensgefährte, wenn dieser mit ihr seit mindestens drei Jahren im gemeinsamen Haushalt lebt, sowie die von der volljährigen Person in einer Erwachsenenvertreter\-Verfügung bezeichnete Person\.
+
+\[ [🔗 Permalink](#-268-abgb--voraussetzungen) \]
 
 ### § 269 ABGB — Wirkungsbereich
 
@@ -3095,6 +3459,8 @@
 
 > `(2)` Vom Wirkungsbereich der in Abs\. 1 Z 3 bis 8 geregelten Angelegenheiten ist immer auch die Vertretung vor Gericht und die Befugnis mitumfasst, über laufende Einkünfte und das Vermögen der vertretenen Person insoweit zu verfügen, als diese zur Besorgung der Rechtsgeschäfte erforderlich ist\.
 
+\[ [🔗 Permalink](#-269-abgb--wirkungsbereich) \]
+
 ### § 270 ABGB — Registrierung
 
 > `(1)` Die gesetzliche Erwachsenenvertretung ist von einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein \(§ 1 ErwSchVG\) im Österreichischen Zentralen Vertretungsverzeichnis einzutragen\.
@@ -3102,6 +3468,8 @@
 > `(2)` Hegt der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins am Vorliegen der Voraussetzungen der gesetzlichen Erwachsenenvertretung oder an der Eignung der Person, die als Erwachsenenvertreter eingetragen werden soll, begründete Zweifel, so hat er die Eintragung abzulehnen und bei begründeten Anhaltspunkten für eine Gefährdung des Wohles der volljährigen Person unverzüglich das Pflegschaftsgericht zu verständigen\.
 
 > `(3)` Vor der Eintragung der gesetzlichen Erwachsenenvertretung sind der Erwachsenenvertreter und die volljährige Person über das Wesen und die Folgen der Erwachsenenvertretung, über die Möglichkeit des jederzeitigen Widerspruchs sowie über die Rechte und Pflichten des gesetzlichen Erwachsenenvertreters persönlich zu belehren\. Der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins hat die Vornahme dieser Belehrung zu dokumentieren\.
+
+\[ [🔗 Permalink](#-270-abgb--registrierung) \]
 
 ## Fünfter Abschnitt
 
@@ -3119,17 +3487,23 @@
 >
 >> `4.` eine gesetzliche Erwachsenenvertretung nicht in Betracht kommt\.
 
+\[ [🔗 Permalink](#-271-abgb--voraussetzungen) \]
+
 ### § 272 ABGB — Wirkungsbereich
 
 > `(1)` Ein gerichtlicher Erwachsenenvertreter darf nur für einzelne oder Arten von gegenwärtig zu besorgenden und bestimmt zu bezeichnenden Angelegenheiten bestellt werden\.
 
 > `(2)` Nach Erledigung der übertragenen Angelegenheit ist die gerichtliche Erwachsenenvertretung einzuschränken oder zu beenden\. Darauf hat der Erwachsenenvertreter unverzüglich bei Gericht hinzuwirken\.
 
+\[ [🔗 Permalink](#-272-abgb--wirkungsbereich) \]
+
 ### § 273 ABGB — Auswahl und Bestellung
 
 > `(1)` Bei der Auswahl des gerichtlichen Erwachsenenvertreters ist auf die Bedürfnisse der volljährigen Person und deren Wünsche, die Eignung des Erwachsenenvertreters und auf die zu besorgenden Angelegenheiten Bedacht zu nehmen\.
 
 > `(2)` Eine Person, die das Gericht zum gerichtlichen Erwachsenenvertreter bestellen will, hat alle Umstände, die sie dafür ungeeignet erscheinen lassen, dem Gericht unverzüglich mitzuteilen\. Treten solche Umstände nach der Bestellung ein, so hat sie diese ebenso unverzüglich offen zu legen\. Unterlässt sie diese Mitteilung schuldhaft, so haftet sie für alle der volljährigen Person daraus entstehenden Nachteile\.
+
+\[ [🔗 Permalink](#-273-abgb--auswahl-und-bestellung) \]
 
 ### § 274 ABGB
 
@@ -3143,6 +3517,8 @@
 
 > `(5)` Ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\) ist vor allem dann zu bestellen, wenn die Besorgung der Angelegenheiten vorwiegend Rechtskenntnisse erfordert, ein Erwachsenenschutzverein \(§ 1 ErwSchVG\) vor allem dann, wenn sonst besondere Anforderungen mit der Erwachsenenvertretung verbunden sind\.
 
+\[ [🔗 Permalink](#-274-abgb) \]
+
 ### § 275 ABGB
 
 > Ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\), der nicht aufrecht in der Liste von zur Übernahme von Vorsorgevollmachten und gerichtlichen Erwachsenenvertretungen besonders geeigneten Rechtsanwälten oder Notaren eingetragen ist, kann die Übernahme einer gerichtlichen Erwachsenenvertretung nur ablehnen, wenn
@@ -3153,6 +3529,8 @@
 >
 >> `3.` ihm diese unter Berücksichtigung seiner persönlichen, familiären, beruflichen und sonstigen Verhältnisse nicht zugemutet werden kann\. Dies wird bei mehr als fünf gerichtlichen Erwachsenenvertretungen vermutet\.
 
+\[ [🔗 Permalink](#-275-abgb) \]
+
 ### § 276 ABGB — Entschädigung, Entgelt und Aufwandersatz
 
 > `(1)` Dem gerichtlichen Erwachsenenvertreter gebührt eine jährliche Entschädigung zuzüglich der allenfalls zu entrichtenden Umsatzsteuer\. Die Entschädigung beträgt fünf Prozent sämtlicher Einkünfte der vertretenen Person nach Abzug der davon zu entrichtenden Steuern und Abgaben, wobei Bezüge, die kraft besonderer gesetzlicher Anordnung zur Deckung bestimmter Aufwendungen dienen, nicht als Einkünfte zu berücksichtigen sind\. Übersteigt der Wert des Vermögens der vertretenen Person 15 000 Euro, so sind darüber hinaus pro Jahr zwei Prozent des Mehrbetrags an Entschädigung zu gewähren\. Ist der gerichtliche Erwachsenenvertreter kürzer als ein volles Jahr tätig, so vermindert sich der Anspruch auf Entschädigung entsprechend\.
@@ -3162,6 +3540,8 @@
 > `(3)` Nützt der gerichtliche Erwachsenenvertreter für Angelegenheiten, deren Besorgung sonst einem Dritten entgeltlich übertragen werden müsste, seine besonderen beruflichen Kenntnisse und Fähigkeiten, so hat er hiefür einen Anspruch auf angemessenes Entgelt\. Dieser Anspruch besteht für die Kosten einer rechtsfreundlichen Vertretung jedoch nicht, soweit bei der vertretenen Person die Voraussetzungen für die Bewilligung der Verfahrenshilfe gegeben sind oder diese Kosten nach gesetzlichen Vorschriften vom Gegner ersetzt werden\.
 
 > `(4)` Die zur zweckentsprechenden Ausübung der gerichtlichen Erwachsenenvertretung notwendigen Barauslagen, die tatsächlichen Aufwendungen und die angemessenen Kosten einer zur Deckung der Haftung nach § 249 Abs\. 1 abgeschlossenen Haftpflichtversicherung sind dem gerichtlichen Erwachsenenvertreter zu erstatten, soweit sie nach gesetzlichen Vorschriften nicht unmittelbar von Dritten getragen werden\. Ist der einzelne Nachweis dem gerichtlichen Erwachsenenvertreter nicht zumutbar, so ist ein angemessener Pauschalbetrag zu erstatten\.
+
+\[ [🔗 Permalink](#-276-abgb--entschädigung-entgelt-und-aufwandersatz) \]
 
 ## Siebentes Hauptstück
 
@@ -3185,9 +3565,13 @@
 
 > `(3)` Im berechtigten Interesse einer dritten Person ist ein Kurator zu bestellen, wenn der Dritte ansonsten an der Durchsetzung seiner Rechte aus seinem Rechtsverhältnis mit einer abwesenden oder unbekannten Person dieser gegenüber gehindert wäre\.
 
+\[ [🔗 Permalink](#-277-abgb--voraussetzungen) \]
+
 ### § 278 ABGB — Wirkungsbereich
 
 > Das Gericht hat den Kurator mit bestimmt zu bezeichnenden Angelegenheiten zu betrauen\.
+
+\[ [🔗 Permalink](#-278-abgb--wirkungsbereich) \]
 
 ### § 279 ABGB — Auswahl und Bestellung
 
@@ -3203,6 +3587,8 @@
 
 > `(4)` Zum Kurator kann auch eine juristische Person oder eine eingetragene Personengesellschaft bestellt werden\. Sie hat dem Gericht bekanntzugeben, wer sie bei Ausübung der Kuratel vertritt\.
 
+\[ [🔗 Permalink](#-279-abgb--auswahl-und-bestellung) \]
+
 ### § 280 ABGB
 
 > `(1)` Eine Person, die das Gericht zum Kurator bestellen will, hat alle Umstände, die sie dafür ungeeignet erscheinen lassen, dem Gericht unverzüglich mitzuteilen\. Treten solche Umstände nach der Bestellung ein, so hat sie diese ebenso unverzüglich offen zu legen\. Unterlässt sie diese Mitteilung schuldhaft, so haftet sie für alle der vertretenen Person daraus entstehenden Nachteile\.
@@ -3210,6 +3596,8 @@
 > `(2)` Eine Person darf nur so viele Kuratelen übernehmen, wie sie unter Bedachtnahme auf die damit verbundenen Pflichten ordnungsgemäß besorgen kann\.
 
 > `(3)` Die vom Gericht in Aussicht genommene Person kann die Übernahme der Kuratel ablehnen, soweit sie nicht durch besondere gesetzliche Bestimmungen zur Übernahme verpflichtet ist\. Ein Notar oder Rechtsanwalt kann die Übernahme nur ablehnen, wenn ihm diese unter Berücksichtigung seiner persönlichen, familiären, beruflichen und sonstigen Verhältnisse nicht zugemutet werden kann\. Dies wird bei mehr als fünf Kuratelen vermutet\.
+
+\[ [🔗 Permalink](#-280-abgb) \]
 
 ### § 281 ABGB — Besondere Rechte und Pflichten des Kurators
 
@@ -3219,11 +3607,15 @@
 
 > `(3)` In Vermögensangelegenheiten gelten § 258 Abs\. 3 und 4 sowie § 259 Abs\. 2 und 4 sinngemäß\.
 
+\[ [🔗 Permalink](#-281-abgb--besondere-rechte-und-pflichten-des-kurators) \]
+
 ### § 282 ABGB — Verschwiegenheitspflicht und Haftung
 
 > `(1)` Der Kurator ist, außer gegenüber dem Gericht, zur Verschwiegenheit über alle ihm in Ausübung seiner Funktion anvertrauten oder bekannt gewordenen Tatsachen verpflichtet\. § 248 Abs\. 2 und 3 gelten sinngemäß\.
 
 > `(2)` Der Kurator haftet der vertretenen Person für jeden durch sein Verschulden verursachten Schaden\. Das Gericht kann die Ersatzpflicht insoweit mäßigen oder ganz erlassen, als sie den Kurator unter Berücksichtigung aller Umstände, insbesondere des Grades des Verschuldens oder seines besonderen Naheverhältnisses zur vertretenen Person, unbillig hart träfe\.
+
+\[ [🔗 Permalink](#-282-abgb--verschwiegenheitspflicht-und-haftung) \]
 
 ### § 283 ABGB — Entschädigung, Entgelt und Aufwandersatz
 
@@ -3235,6 +3627,8 @@
 
 > `(4)` Die zur zweckentsprechenden Ausübung der Kuratel notwendigen Barauslagen, die tatsächlichen Aufwendungen und die angemessenen Kosten einer zur Deckung der Haftung nach § 282 Abs\. 2 abgeschlossenen Haftpflichtversicherung sind dem Kurator zu erstatten, soweit sie nach gesetzlichen Vorschriften nicht unmittelbar von Dritten getragen werden\. Ist dem Kurator der einzelne Nachweis nicht zumutbar, so ist ein angemessener Pauschalbetrag zu erstatten\.
 
+\[ [🔗 Permalink](#-283-abgb--entschädigung-entgelt-und-aufwandersatz) \]
+
 ### § 284 ABGB — Änderung und Beendigung der Kuratel
 
 > `(1)` Das Gericht hat die Kuratel auf Antrag des Kurators oder von Amts wegen einer anderen Person zu übertragen, wenn der Kurator stirbt, nicht die erforderliche Eignung aufweist oder durch die Kuratel unzumutbar belastet wird oder es sonst das Interesse der vertretenen Person aus anderen Gründen erfordert\. § 178 Abs\. 3 ist sinngemäß anzuwenden\.
@@ -3242,6 +3636,8 @@
 > `(2)` Das Gericht hat den Kurator auf Antrag oder von Amts wegen zu entheben, wenn die Voraussetzungen für seine Bestellung wegfallen; fallen diese Voraussetzungen nur für einen Teil der übertragenen Angelegenheiten weg, so ist der Wirkungskreis einzuschränken\. Der Wirkungskreis ist erforderlichenfalls zu erweitern\. Mit dem Tod der vertretenen Person erlischt die Kuratel\. § 183 Abs\. 2 ist sinngemäß anzuwenden\.
 
 > `(3)` Das Gericht hat in angemessenen Zeitabständen zu prüfen, ob die Kuratel zu ändern oder zu beenden ist\.
+
+\[ [🔗 Permalink](#-284-abgb--änderung-und-beendigung-der-kuratel) \]
 
 ## Zweyter Theil
 
@@ -3257,105 +3653,157 @@
 
 > Alles, was von der Person unterschieden ist, und zum Gebrauche der Menschen dient, wird im rechtlichen Sinne eine Sache genannt\.
 
+\[ [🔗 Permalink](#-285-abgb--begriff-von-sachen-im-rechtlichen-sinne) \]
+
 ### § 285a ABGB
 
 > Tiere sind keine Sachen; sie werden durch besondere Gesetze geschützt\. Die für Sachen geltenden Vorschriften sind auf Tiere nur insoweit anzuwenden, als keine abweichenden Regelungen bestehen\.
+
+\[ [🔗 Permalink](#-285a-abgb) \]
 
 ### § 286 ABGB — Eintheilung der Sachen nach Verschiedenheit des Subjectes, dem sie gehören
 
 > Die Sachen in dem Staatsgebiethe sind entweder ein Staats\- oder ein Privat\-Gut\. Das Letztere gehört einzelnen oder moralischen Personen, kleinern Gesellschaften, oder ganzen Gemeinden\.
 
+\[ [🔗 Permalink](#-286-abgb--eintheilung-der-sachen-nach-verschiedenheit-des-subjectes-dem-sie-gehören) \]
+
 ### § 287 ABGB — Freystehende Sachen; öffentliches Gut und Staatsvermögen
 
 > Sachen, welche allen Mitgliedern des Staates zur Zueignung überlassen sind, heißen freystehende Sachen\. Jenen, die ihnen nur zum Gebrauche verstattet werden, als: Landstraßen, Ströme, Flüsse, Seehäfen und Meeresufer, heißen ein allgemeines oder öffentliches Gut\. Was zur Bedeckung der Staatsbedürfnisse bestimmt ist, als: das Münz\- oder Post\- und andere Regalien, Kammergüter\-, Berg\- und Salzwerke, Steuern und Zölle, wird das Staatsvermögen genannt\.
+
+\[ [🔗 Permalink](#-287-abgb--freystehende-sachen-öffentliches-gut-und-staatsvermögen) \]
 
 ### § 288 ABGB — Gemeindegut, Gemeindevermögen
 
 > Auf gleiche Weise machen die Sachen, welche nach der Landesverfassung zum Gebrauche eines jeden Mitgliedes einer Gemeinde dienen, das Gemeindegut; diejenigen aber, deren Einkünfte zur Bestreitung der Gemeindeauslagen bestimmt sind, das Gemeindevermögen aus\.
 
+\[ [🔗 Permalink](#-288-abgb--gemeindegut-gemeindevermögen) \]
+
 ### § 289 ABGB — Privat-Gut des Landesfürsten
 
 > Auch dasjenige Vermögen des Landesfürsten, welches er nicht als Oberhaupt des Staates besitzt, wird als ein Privat\-Gut betrachtet\.
+
+\[ [🔗 Permalink](#-289-abgb--privat-gut-des-landesfürsten) \]
 
 ### § 290 ABGB — Allgemeine Vorschrift in Rücksicht dieser verschiedenen Arten der Güter
 
 > Die in diesem Privat\-Rechte enthaltenen Vorschriften über die Art, wie Sachen rechtmäßig erworben, erhalten und auf Andere übertragen werden können, sind in der Regel auch von den Verwaltern der Staats\- und Gemeindegüter, oder des Staats\- und Gemeindevermögens zu beobachten\. Die in Hinsicht auf die Verwaltung und den Gebrauch dieser Güter sich beziehenden Abweichungen und besondern Vorschriften sind in dem Staatsrechte und in den politischen Verordnungen enthalten\.
 
+\[ [🔗 Permalink](#-290-abgb--allgemeine-vorschrift-in-rücksicht-dieser-verschiedenen-arten-der-güter) \]
+
 ### § 291 ABGB — Eintheilung der Sachen nach dem Unterschiede ihrer Beschaffenheit
 
 > Die Sachen werden nach dem Unterschiede ihrer Beschaffenheit eingetheilt: in körperliche und unkörperliche; in bewegliche und unbewegliche; in verbrauchbare und unverbrauchbare; in schätzbare und unschätzbare\.
+
+\[ [🔗 Permalink](#-291-abgb--eintheilung-der-sachen-nach-dem-unterschiede-ihrer-beschaffenheit) \]
 
 ### § 292 ABGB — Körperliche und unkörperliche Sachen;
 
 > Körperliche Sachen sind diejenigen, welche in die Sinne fallen; sonst heißen sie unkörperliche; z\. B\. das Recht zu jagen, zu fischen und alle andere Rechte\.
 
+\[ [🔗 Permalink](#-292-abgb--körperliche-und-unkörperliche-sachen) \]
+
 ### § 293 ABGB — bewegliche und unbewegliche
 
 > Sachen, welche ohne Verletzung ihrer Substanz von einer Stelle zur andern versetzt werden können, sind beweglich; im entgegengesetzten Falle sind sie unbeweglich\. Sachen, die an sich beweglich sind, werden im rechtlichen Sinne für unbeweglich gehalten, wenn sie vermöge des Gesetzes oder der Bestimmung des Eigenthümers das Zugehör einer unbeweglichen Sache ausmachen\.
+
+\[ [🔗 Permalink](#-293-abgb--bewegliche-und-unbewegliche) \]
 
 ### § 294 ABGB — Zugehör überhaupt
 
 > Unter Zugehör versteht man dasjenige, was mit einer Sache in fortdauernde Verbindung gesetzt wird\. Dahin gehören nicht nur der Zuwachs einer Sache, so lange er von derselben nicht abgesondert ist, sondern auch die Nebensachen, ohne welche die Hauptsache nicht gebraucht werden kann, oder die das Gesetz oder der Eigenthümer zum fortdauernden Gebrauche der Hauptsache bestimmt hat\.
 
+\[ [🔗 Permalink](#-294-abgb--zugehör-überhaupt) \]
+
 ### § 295 ABGB — insbesondere bey Grundstücken und Teichen;
 
 > Gras, Bäume, Früchte und alle brauchbare Dinge, welche die Erde auf ihrer Oberfläche hervorbringt, bleiben so lange ein unbewegliches Vermögen, als sie nicht von Grund und Boden abgesondert worden sind\. Selbst die Fische in einem Teiche, und das Wild in einem Walde werden erst dann ein bewegliches Gut, wenn der Teich gefischet, und das Wild gefangen oder erlegt worden ist\.
+
+\[ [🔗 Permalink](#-295-abgb--insbesondere-bey-grundstücken-und-teichen) \]
 
 ### § 296 ABGB
 
 > Auch das Getreide, das Holz, das Viehfutter und alle übrige, obgleich schon eingebrachte Erzeugnisse, so wie alles Vieh und alle zu einem liegenden Gute gehörige Werkzeuge und Geräthschaften werden in so fern für unbewegliche Sachen gehalten, als sie zur Fortsetzung des ordentlichen Wirthschaftsbetriebes erforderlich sind\.
 
+\[ [🔗 Permalink](#-296-abgb) \]
+
 ### § 297 ABGB — und bey Gebäuden
 
 > Eben so gehören zu den unbeweglichen Sachen diejenigen, welche auf Grund und Boden in der Absicht aufgeführt werden, daß sie stets darauf bleiben sollen, als: Häuser und andere Gebäude mit dem in senkrechter Linie darüber befindlichen Luftraume; ferner: nicht nur Alles, was erd\- mauer\- niet\- und nagelfest ist, als: Braupfannen, Branntweinkessel und eingezimmerte Schränke, sondern auch diejenigen Dinge, die zum anhaltenden Gebrauche eines Ganzen bestimmt sind: z\. B\. Brunneneimer, Seile, Ketten, Löschgeräthe und dergleichen\.
+
+\[ [🔗 Permalink](#-297-abgb--und-bey-gebäuden) \]
 
 ### § 297a ABGB — Maschinen
 
 > Werden mit einer unbeweglichen Sache Maschinen in Verbindung gebracht, so gelten sie nicht als Zugehör, wenn mit Zustimmung des Eigentümers der Liegenschaft im öffentlichen Buch angemerkt wird, daß die Maschinen Eigentum eines anderen sind\. Werden sie als Ersatz an Stelle solcher Maschinen angebracht, die als Zugehör anzusehen waren, so ist zu dieser Anmerkung auch die Zustimmung der früher eingetragenen bücherlich Berechtigten erforderlich\. Die Anmerkung verliert mit Ablauf von fünf Jahren nach der Eintragung ihre Wirkung; durch das Insolvenz\- oder Zwangsversteigerungsverfahren wird der Ablauf der Frist gehemmt\.
 
+\[ [🔗 Permalink](#-297a-abgb--maschinen) \]
+
 ### § 298 ABGB — Rechte sind insgemein als bewegliche Sachen anzusehen;
 
 > Rechte werden den beweglichen Sachen beygezählt, wenn sie nicht mit dem Besitze einer unbeweglichen Sache verbunden, oder durch die Landesverfassung für eine unbewegliche Sache erkläret sind\.
+
+\[ [🔗 Permalink](#-298-abgb--rechte-sind-insgemein-als-bewegliche-sachen-anzusehen) \]
 
 ### § 299 ABGB — auch die vorgemerkten Forderungen
 
 > Schuldforderungen werden durch die Sicherstellung auf ein unbewegliches Gut nicht in ein unbewegliches Vermögen verwandelt\.
 
+\[ [🔗 Permalink](#-299-abgb--auch-die-vorgemerkten-forderungen) \]
+
 ### § 300 ABGB — Kellereigentum
 
 > An Räumen und Bauwerken, die sich unter der Erdoberfläche der Liegenschaft eines anderen befinden und nicht der Fundierung von über der Erdoberfläche errichteten Bauwerken dienen, wie Kellern, Tiefgaragen und industriellen oder wirtschaftlichen Zwecken gewidmeten Stollen, kann mit Einwilligung des Liegenschaftseigentümers gesondert Eigentum begründet werden\.
+
+\[ [🔗 Permalink](#-300-abgb--kellereigentum) \]
 
 ### § 301 ABGB — Verbrauchbare und unverbrauchbare Sachen
 
 > Sachen, welche ohne ihre Zerstörung oder Verzehrung den gewöhnlichen Nutzen nicht gewähren, heißen verbrauchbare; die von entgegengesetzter Beschaffenheit aber, unverbrauchbare Sachen\.
 
+\[ [🔗 Permalink](#-301-abgb--verbrauchbare-und-unverbrauchbare-sachen) \]
+
 ### § 302 ABGB — Gesamtsache (universitas rerum)
 
 > Ein Inbegriff von mehreren besondern Sachen, die als Eine Sache angesehen, und mit einem gemeinschaftlichen Nahmen bezeichnet zu werden pflegen, macht eine Gesammtsache aus, und wird als ein Ganzes betrachtet\.
+
+\[ [🔗 Permalink](#-302-abgb--gesamtsache-universitas-rerum) \]
 
 ### § 303 ABGB — Schätzbare und unschätzbare
 
 > Schätzbare Sachen sind diejenigen, deren Werth durch Vergleichung mit andern zum Verkehre bestimmt werden kann; darunter gehören auch Dienstleistungen, Hand\- und Kopfarbeiten\. Sachen hingegen, deren Werth durch keine Vergleichung mit andern im Verkehre befindlichen Sachen bestimmt werden kann, heißen unschätzbare\.
 
+\[ [🔗 Permalink](#-303-abgb--schätzbare-und-unschätzbare) \]
+
 ### § 304 ABGB — Maßstab der gerichtlichen Schätzung
 
 > Der bestimmte Werth einer Sache heißt ihr Preis\. Wenn eine Sache vom Gerichte zu schätzen ist, so muß die Schätzung nach einer bestimmten Summe Geldes geschehen\.
+
+\[ [🔗 Permalink](#-304-abgb--maßstab-der-gerichtlichen-schätzung) \]
 
 ### § 305 ABGB — Ordentlicher und außerordentlicher Preis
 
 > Wird eine Sache nach dem Nutzen geschätzt, den sie mit Rücksicht auf Zeit und Ort gewöhnlich und allgemein leistet, so fällt der ordentliche und gemeine Preis aus; nimmt man aber auf die besondern Verhältnisse und auf die in zufälligen Eigenschaften der Sache gegründete besondere Vorliebe desjenigen, dem der Werth ersetzt werden muß, Rücksicht, so entsteht ein außerordentlicher Preis\.
 
+\[ [🔗 Permalink](#-305-abgb--ordentlicher-und-außerordentlicher-preis) \]
+
 ### § 306 ABGB — Welcher bey gerichtlichen Schätzungen zur Richtschnur zu nehmen
 
 > In allen Fällen, wo nichts Anderes entweder bedungen, oder von dem Gesetze verordnet wird, muß bey der Schätzung einer Sache der gemeine Preis zur Richtschnur genommen werden\.
+
+\[ [🔗 Permalink](#-306-abgb--welcher-bey-gerichtlichen-schätzungen-zur-richtschnur-zu-nehmen) \]
 
 ### § 307 ABGB — Begriffe vom dinglichen und persönlichen Sachenrechte
 
 > Rechte, welche einer Person über eine Sache ohne Rücksicht auf gewisse Personen zustehen, werden dingliche Rechte genannt\. Rechte, welche zu einer Sache nur gegen gewisse Personen unmittelbar aus einem Gesetze, oder aus einer verbindlichen Handlung entstehen, heißen persönliche Sachenrechte\.
 
+\[ [🔗 Permalink](#-307-abgb--begriffe-vom-dinglichen-und-persönlichen-sachenrechte) \]
+
 ### § 308 ABGB
 
 > Dingliche Sachenrechte sind das Recht des Besitzes, des Eigentums, des Pfandes und der Dienstbarkeit\.
+
+\[ [🔗 Permalink](#-308-abgb) \]
 
 ## Erste Abtheilung
 
@@ -3371,83 +3819,123 @@
 
 > Wer eine Sache in seiner Macht oder Gewahrsame hat, heißt ihr Inhaber\. Hat der Inhaber einer Sache den Willen, sie als die seinige zu behalten, so ist er ihr Besitzer\.
 
+\[ [🔗 Permalink](#-309-abgb--inhaber-besitzer) \]
+
 ## Erwerbung des Besitzes.
 
 ### § 310 ABGB — Fähigkeit der Person zur Besitzerwerbung
 
 > Kinder unter sieben Jahren sowie nicht entscheidungsfähige Personen können – außer in den Fällen des § 170 Abs\. 3, § 242 Abs\. 3 und § 865 Abs\. 2 – Besitz nur durch ihren gesetzlichen Vertreter erwerben\. Im übrigen ist die Fähigkeit zum selbständigen Besitzerwerb gegeben\.
 
+\[ [🔗 Permalink](#-310-abgb--fähigkeit-der-person-zur-besitzerwerbung) \]
+
 ### § 311 ABGB — Gegenstände des Besitzes
 
 > Alle körperliche und unkörperliche Sachen, welche ein Gegenstand des rechtlichen Verkehres sind, können in Besitz genommen werden\.
+
+\[ [🔗 Permalink](#-311-abgb--gegenstände-des-besitzes) \]
 
 ### § 312 ABGB — Arten der Besitzerwerbung;
 
 > Körperliche, bewegliche Sachen werden durch physische Ergreifung, Wegführung oder Verwahrung; unbewegliche aber durch Betretung, Verrainung, Einzäunung, Bezeichnung oder Bearbeitung in Besitz genommen\. In den Besitz unkörperlicher Sachen oder Rechte kommt man durch den Gebrauch derselben im eigenen Nahmen\.
 
+\[ [🔗 Permalink](#-312-abgb--arten-der-besitzerwerbung) \]
+
 ### § 313 ABGB — insbesondere von einem bejahenden, verneinenden oder einem Verbothsrechte
 
 > Der Gebrauch eines Rechtes wird gemacht, wenn jemand von einem Andern etwas als eine Schuldigkeit fordert, und dieser es ihm leistet; ferner, wenn jemand die einem Andern gehörige Sache mit dessen Gestattung zu seinem Nutzen anwendet; endlich, wenn auf fremdes Verboth ein Anderer das, was er sonst zu thun befugt wäre, unterläßt\.
+
+\[ [🔗 Permalink](#-313-abgb--insbesondere-von-einem-bejahenden-verneinenden-oder-einem-verbothsrechte) \]
 
 ### § 314 ABGB — Unmittelbare und mittelbare Erwerbungsart des Besitzes
 
 > Den Besitz sowohl von Rechten, als von körperlichen Sachen erlangt man entweder unmittelbar, wenn man freystehender Rechte und Sachen; oder mittelbar, wenn man eines Rechtes, oder einer Sache, die einem Andern gehört, habhaft wird\.
 
+\[ [🔗 Permalink](#-314-abgb--unmittelbare-und-mittelbare-erwerbungsart-des-besitzes) \]
+
 ### § 315 ABGB — Umfang der Erwerbung
 
 > Durch die unmittelbare und durch die mittelbare eigenmächtige Besitzergreifung erhält man nur so viel in Besitz, als wirklich ergriffen, betreten, gebraucht, bezeichnet, oder in Verwahrung gebracht worden ist; bey der mittelbaren, wenn uns der Inhaber in seinem oder eines andern Nahmen ein Recht oder eine Sache überläßt, erhält man Alles, was der vorige Inhaber gehabt und durch deutliche Zeichen übergeben hat, ohne daß es nöthig ist, jeden Theil des Ganzen besonders zu übernehmen\.
+
+\[ [🔗 Permalink](#-315-abgb--umfang-der-erwerbung) \]
 
 ### § 316 ABGB — Rechtmäßiger; unrechtmäßiger Besitz
 
 > Der Besitz einer Sache heißt rechtmäßig, wenn er auf einem gültigen Titel, das ist, auf einem zur Erwerbung tauglichen Rechtsgrunde beruhet\. Im entgegen gesetzten Falle heißt er unrechtmäßig\.
 
+\[ [🔗 Permalink](#-316-abgb--rechtmäßiger-unrechtmäßiger-besitz) \]
+
 ### § 317 ABGB — Haupttitel des rechtmäßigen Besitzes
 
 > Der Titel liegt bey freystehenden Sachen in der angebornen Freyheit zu Handlungen, wodurch die Rechte Anderer nicht verletzt werden; bey andern in dem Willen des vorigen Besitzers, oder in dem Ausspruche des Richters, oder endlich in dem Gesetze, wodurch jemanden das Recht zum Besitze ertheilet wird\.
+
+\[ [🔗 Permalink](#-317-abgb--haupttitel-des-rechtmäßigen-besitzes) \]
 
 ### § 318 ABGB — Der Inhaber hat noch keinen Titel;
 
 > Dem Inhaber, der eine Sache nicht in seinem, sondern im Nahmen eines Andern inne hat, kommt noch kein Rechtsgrund zur Besitznahme dieser Sache zu\.
 
+\[ [🔗 Permalink](#-318-abgb--der-inhaber-hat-noch-keinen-titel) \]
+
 ### § 319 ABGB — und kann ihn nicht eigenmächtig erlangen
 
 > Der Inhaber einer Sache ist nicht berechtigt, den Grund seiner Gewahrsame eigenmächtig zu verwechseln, und sich dadurch eines Titels anzumaßen; wohl aber kann derjenige, welcher bisher eine Sache in eigenem Nahmen rechtmäßig besaß, das Besitzrecht einem Andern überlassen und sie künftig in dessen Nahmen inne haben\.
+
+\[ [🔗 Permalink](#-319-abgb--und-kann-ihn-nicht-eigenmächtig-erlangen) \]
 
 ### § 320 ABGB — Wirkung des bloßen Titels
 
 > Durch einen gültigen Titel erhält man nur das Recht zum Besitze einer Sache, nicht den Besitz selbst\. Wer nur das Recht zum Besitze hat, darf sich im Verweigerungsfalle nicht eigenmächtig in den Besitz setzen; er muß ihn von dem ordentlichen Richter mit Anführung seines Titels im Wege Rechtens fordern\.
 
+\[ [🔗 Permalink](#-320-abgb--wirkung-des-bloßen-titels) \]
+
 ### § 321 ABGB — Erforderung zum wirklichen Besitzrechte
 
 > Wo so genannte Landtafeln, Stadt\- oder Grundbücher, oder andere dergleichen öffentliche Register eingeführt sind, wird der rechtmäßige Besitz eines dinglichen Rechtes auf unbewegliche Sachen nur durch die ordentliche Eintragung in diese öffentlichen Bücher erlangt\.
+
+\[ [🔗 Permalink](#-321-abgb--erforderung-zum-wirklichen-besitzrechte) \]
 
 ### § 322 ABGB
 
 > Ist eine bewegliche Sache nach und nach mehreren Personen übergeben worden; so gebühret das Besitzrecht derjenigen, welche sie in ihrer Macht hat\. Ist aber die Sache unbeweglich, und sind öffentliche Bücher eingeführt, so steht das Besitzrecht ausschließlich demjenigen zu, welcher als Besitzer derselben eingeschrieben ist\.
 
+\[ [🔗 Permalink](#-322-abgb) \]
+
 ### § 323 ABGB — Der Besitzer kann zur Angabe des Rechtsgrundes nicht aufgefordert werden
 
 > Der Besitzer einer Sache hat die rechtliche Vermuthung eines gültigen Titels für sich; er kann also zur Angabe desselben nicht aufgefordert werden\.
+
+\[ [🔗 Permalink](#-323-abgb--der-besitzer-kann-zur-angabe-des-rechtsgrundes-nicht-aufgefordert-werden) \]
 
 ### § 324 ABGB
 
 > Diese Aufforderung findet auch dann noch nicht Statt, wenn jemand behauptet, daß der Besitz seines Gegners mit andern rechtlichen Vermuthungen, z\. B\. mit der Freyheit des Eigenthumes, sich nicht vereinbaren lasse\. In solchen Fällen muß der behauptende Gegner vor dem ordentlichen Richter klagen, und sein vermeintliches stärkeres Recht darthun\. Im Zweifel gebührt dem Besitzer der Vorzug\.
 
+\[ [🔗 Permalink](#-324-abgb) \]
+
 ### § 325 ABGB — Ausnahme
 
 > In wie fern der Besitzer einer Sache, deren Verkehr verbothen; oder die entwendet zu seyn scheint, den Titel seines Besitzes anzuzeigen verbunden sey, darüber entscheiden die Straf\- und politischen Gesetze\.
+
+\[ [🔗 Permalink](#-325-abgb--ausnahme) \]
 
 ### § 326 ABGB — Redlicher und unredlicher Besitzer
 
 > Wer aus wahrscheinlichen Gründen die Sache, die er besitzt, für die seinige hält, ist ein redlicher Besitzer\. Ein unredlicher Besitzer, ist derjenige, welcher weiß oder aus den Umständen vermuthen muß, daß die in seinem Besitze befindliche Sache einem Andern zugehöre\. Aus Irrthum in Thatsachen oder aus Unwissenheit der gesetzlichen Vorschriften kann man ein unrechtmäßiger \(§\. 316\) und doch ein redlicher Besitzer seyn\.
 
+\[ [🔗 Permalink](#-326-abgb--redlicher-und-unredlicher-besitzer) \]
+
 ### § 327 ABGB — Wie ein Mitbesitzer zum unredlichen oder unrechtmäßigen Besitzer werde
 
 > Besitzt eine Person die Sache selbst, eine andere aber das Recht auf alle oder auf einige Nutzungen dieser Sache; so kann eine und dieselbe Person, wenn sie die Gränzen ihres Rechtes überschreitet, in verschiedenen Rücksichten ein redlicher und unredlicher, ein rechtmäßiger und unrechtmäßiger Besitzer seyn\.
 
+\[ [🔗 Permalink](#-327-abgb--wie-ein-mitbesitzer-zum-unredlichen-oder-unrechtmäßigen-besitzer-werde) \]
+
 ### § 328 ABGB — Entscheidung über die Redlichkeit des Besitzes
 
 > Die Redlichkeit oder Unredlichkeit des Besitzes muß im Falle eines Rechtsstreites durch richterlichen Ausspruch entschieden werden\. Im Zweifel ist die Vermuthung für die Redlichkeit des Besitzes\.
+
+\[ [🔗 Permalink](#-328-abgb--entscheidung-über-die-redlichkeit-des-besitzes) \]
 
 ## Fortdauer des Besitzes.
 
@@ -3457,61 +3945,91 @@
 
 > Ein redlicher Besitzer kann schon allein aus dem Grunde des redlichen Besitzes die Sache, die er besitzt, ohne Verantwortung nach Belieben brauchen, verbrauchen, auch wohl vertilgen\.
 
+\[ [🔗 Permalink](#-329-abgb--a-in-rücksicht-der-substanz-der-sache) \]
+
 ### § 330 ABGB — b) der Nutzungen;
 
 > Dem redlichen Besitzer gehören alle aus der Sache entspringende Früchte, so bald sie von der Sache abgesondert worden sind; ihm gehören auch alle andere schon eingehobene Nutzungen, in so fern sie während des ruhigen Besitzes bereits fällig gewesen sind\.
+
+\[ [🔗 Permalink](#-330-abgb--b-der-nutzungen) \]
 
 ### § 331 ABGB — c) des Aufwandes
 
 > Hat der redliche Besitzer an die Sache entweder zur fortwährenden Erhaltung der Substanz einen nothwendigen, oder, zur Vermehrung noch fortdauernder Nutzungen einen nützlichen Aufwand gemacht; so gebührt ihm der Ersatz nach dem gegenwärtigen Werthe, in so fern er den wirklich gemachten Aufwand nicht übersteigt\.
 
+\[ [🔗 Permalink](#-331-abgb--c-des-aufwandes) \]
+
 ### § 332 ABGB
 
 > Von dem Aufwande, welcher nur zum Vergnügen und zur Verschönerung gemacht worden ist, wird nur so viel ersetzt, als die Sache dem gemeinen Werthe nach wirklich dadurch gewonnen hat; doch hat der vorige Besitzer die Wahl, Alles für sich wegzunehmen, was davon ohne Schaden der Substanz weggenommen werden kann\.
+
+\[ [🔗 Permalink](#-332-abgb) \]
 
 ### § 333 ABGB — Anspruch auf den Ersatz des Preises
 
 > Selbst der redliche Besitzer kann den Preis, welchen er seinem Vormanne für die ihm überlassene Sache gegeben hat, nicht fordern\. Wer aber eine fremde Sache, die der Eigenthümer sonst schwerlich wieder erlangt haben würde, redlicher Weise an sich gelöset, und dadurch dem Eigenthümer einen erweislichen Nutzen verschaffet hat, kann eine angemessene Vergütung fordern\.
 
+\[ [🔗 Permalink](#-333-abgb--anspruch-auf-den-ersatz-des-preises) \]
+
 ### § 334 ABGB
 
 > Ob einem redlichen Inhaber das Recht zustehe, seiner Forderung wegen die Sache zurück zu behalten, wird in dem Hauptstücke vom Pfandrechte bestimmt\.
+
+\[ [🔗 Permalink](#-334-abgb) \]
 
 ### § 335 ABGB — Verbindlichkeit des unredlichen Besitzers
 
 > Der unredliche Besitzer ist verbunden, nicht nur alle durch den Besitz einer fremden Sache erlangte Vortheile zurück zu stellen; sondern auch diejenigen, welche der Verkürzte erlangt haben würde, und allen durch seinen Besitz entstandenen Schaden zu ersetzen\. In dem Falle, daß der unredliche Besitzer durch eine in den Strafgesetzen verbothene Handlung zum Besitze gelanget ist, erstrecket sich der Ersatz bis zum Werthe der besondern Vorliebe\.
 
+\[ [🔗 Permalink](#-335-abgb--verbindlichkeit-des-unredlichen-besitzers) \]
+
 ### § 336 ABGB
 
 > Hat der unredliche Besitzer einen Aufwand auf die Sache gemacht, so ist dasjenige anzuwenden, was in Rücksicht des von einem Geschäftsführer ohne Auftrag gemachten Aufwandes in dem Hauptstücke von der Bevollmächtigung verordnet ist\.
+
+\[ [🔗 Permalink](#-336-abgb) \]
 
 ### § 337 ABGB — Beurtheilung der Redlichkeit des Besitzes einer Gemeinde
 
 > Der Besitz einer Gemeinde wird nach der Redlichkeit oder Unredlichkeit der im Nahmen der Mitglieder handelnden Machthaber beurtheilet\. Immer müssen jedoch die unredlichen sowohl den redlichen Mitgliedern, als dem Eigenthümer den Schaden ersetzen\.
 
+\[ [🔗 Permalink](#-337-abgb--beurtheilung-der-redlichkeit-des-besitzes-einer-gemeinde) \]
+
 ### § 338 ABGB — Inwiefern durch die Klage der Besitz unredlich werde
 
 > Auch der redliche Besitzer, wenn er durch richterlichen Ausspruch zur Zurückstellung der Sache verurtheilet wird, ist in Rücksicht des Ersatzes der Nutzungen und des Schadens, wie auch in Rücksicht des Aufwandes, von dem Zeitpuncte der ihm zugestellten Klage, gleich einem unredlichen Besitzer zu behandeln; doch haftet er für den Zufall, der die Sache bey dem Eigenthümer nicht getroffen hätte, nur in dem Falle, daß er die Zurückgabe durch einen muthwilligen Rechtsstreit verzögert hat\.
+
+\[ [🔗 Permalink](#-338-abgb--inwiefern-durch-die-klage-der-besitz-unredlich-werde) \]
 
 ### § 339 ABGB — Rechtsmittel des Besitzers bey einer Störung seines Besitzes;
 
 > Der Besitz mag von was immer für einer Beschaffenheit seyn, so ist niemand befugt, denselben eigenmächtig zu stören\. Der Gestörte hat das Recht, die Untersagung des Eingriffes, und den Ersatz des erweislichen Schadens gerichtlich zu fordern\.
 
+\[ [🔗 Permalink](#-339-abgb--rechtsmittel-des-besitzers-bey-einer-störung-seines-besitzes) \]
+
 ### § 340 ABGB — besonders durch eine Bauführung;
 
 > Wird der Besitzer einer unbeweglichen Sache oder eines dinglichen Rechtes durch Führung eines neuen Gebäudes, Wasserwerkes, oder andern Werkes in seinen Rechten gefährdet, ohne daß sich der Bauführer nach Vorschrift der allgemeinen Gerichtsordnung gegen ihn geschützt hat; so ist der Gefährdete berechtigt, das Verboth einer solchen Neuerung vor Gericht zu fordern, und das Gericht ist verbunden, die Sache auf das schleunigste zu entscheiden\.
+
+\[ [🔗 Permalink](#-340-abgb--besonders-durch-eine-bauführung) \]
 
 ### § 341 ABGB
 
 > Bis zur Entscheidung der Sache ist die Fortsetzung des Baues von dem Gerichte in der Regel nicht zu gestatten\. Nur bey einer nahen, offenbaren Gefahr, oder, wenn der Bauführer eine angemessene Sicherheit leistet, daß er die Sache in den vorigen Stand setzen, und den Schaden vergüten wolle, der Verbothsleger dagegen in dem letztern Falle keine ähnliche Sicherstellung für die Folgen seines Verbothes leistet, ist die einstweilige Fortsetzung des Baues zu bewilligen\.
 
+\[ [🔗 Permalink](#-341-abgb) \]
+
 ### § 342 ABGB
 
 > Was in den vorhergehenden §§\.in Rücksicht einer neuen Bauführung verordnet wird, ist auch auf die Niederreißung eines alten Gebäudes, oder andern Werkes anzuwenden\.
 
+\[ [🔗 Permalink](#-342-abgb) \]
+
 ### § 343 ABGB — und bey der Gefahr eines vorhandenen Baues
 
 > Kann der Besitzer eines dinglichen Rechtes beweisen, daß ein bereits vorhandener fremder Bau oder eine andere fremde Sache dem Einsturze nahe sey, und ihm offenbarer Schaden drohe; so ist er befugt, gerichtlich auf Sicherstellung zu dringen, wenn anders die politische Behörde nicht bereits hinlänglich für die öffentliche Sicherheit gesorgt hat\.
+
+\[ [🔗 Permalink](#-343-abgb--und-bey-der-gefahr-eines-vorhandenen-baues) \]
 
 ## Rechtsmittel zur Erhaltung des Besitzstandes:
 
@@ -3519,21 +4037,31 @@
 
 > Zu den Rechten des Besitzes gehört auch das Recht, sich in seinem Besitze zu schützen, und in dem Falle, daß die richterliche Hülfe zu spät kommen würde, Gewalt mit angemessener Gewalt abzutreiben \(§\. 19\)\. Uebrigens hat die politische Behörde für die Erhaltung der öffentlichen Ruhe, so wie das Strafgericht für die Bestrafung öffentlicher Gewaltthätigkeiten zu sorgen\.
 
+\[ [🔗 Permalink](#-344-abgb--a-bey-dringender-gefahr) \]
+
 ### § 345 ABGB — d) gegen den unechten Besitzer;
 
 > Wenn sich jemand in den Besitz eindringt, oder durch List oder Bitte heimlich einschleicht, und das, was man ihm aus Gefälligkeit, ohne sich einer fortdauernden Verbindlichkeit zu unterziehen gestattet, in ein fortwährendes Recht zu verwandeln sucht; so wird der an sich unrechtmäßige und unredliche Besitz noch überdieß unecht; in entgegengesetzten Fällen wird der Besitz für echt angesehen\.
+
+\[ [🔗 Permalink](#-345-abgb--d-gegen-den-unechten-besitzer) \]
 
 ### § 346 ABGB
 
 > Gegen jeden unechten Besitzer kann so wohl die Zurücksetzung in die vorige Lage, als auch die Schadloshaltung eingeklagt werden\. Beydes muß das Gericht nach rechtlicher Verhandlung, selbst ohne Rücksicht auf ein stärkeres Recht, welches der Geklagte auf die Sache haben könnte, verordnen\.
 
+\[ [🔗 Permalink](#-346-abgb) \]
+
 ### § 347 ABGB — c) beym Zweifel über die Echtheit des Besitzes
 
 > Zeigt es sich nicht gleich auf der Stelle, wer sich in einem echten Besitze befinde, und in wie fern der eine oder der andere Theil auf gerichtliche Unterstützung Anspruch habe; so wird die im Streite verfangene Sache so lange der Gewahrsame des Gerichtes oder eines Dritten anvertraut, bis der Streit über den Besitz verhandelt und entschieden worden ist\. Der Sachfällige kann auch nach dieser Entscheidung die Klage aus einem vermeintlich stärkeren Rechte auf die Sache noch anhängig machen\.
 
+\[ [🔗 Permalink](#-347-abgb--c-beym-zweifel-über-die-echtheit-des-besitzes) \]
+
 ### § 348 ABGB — Verwahrungsmittel des Inhabers gegen mehrere zusammentreffende Besitzwerber
 
 > Wenn der bloße Inhaber von mehreren Besitzwerbern zugleich um die Uebergabe der Sache angegangen wird, und sich Einer darunter befindet, in dessen Nahmen die Sache aufbewahrt wurde; so wird sie vorzüglich diesem übergeben, und die Uebergabe den Uebrigen bekannt gemacht\. Kommt dieser Umstand Keinem zu Statten, so wird die Sache der Gewahrsame des Richters oder eines Dritten anvertraut\. Der Richter hat die Rechtsgründe der Besitzwerber zu prüfen, und darüber zu entscheiden\.
+
+\[ [🔗 Permalink](#-348-abgb--verwahrungsmittel-des-inhabers-gegen-mehrere-zusammentreffende-besitzwerber) \]
 
 ## Erlöschung des Besitzes:
 
@@ -3541,17 +4069,25 @@
 
 > Der Besitz einer körperlichen Sache geht insgemein verloren, wenn dieselbe ohne Hoffnung, wieder gefunden zu werden, in Verlust geräth; wenn sie freywillig verlassen wird; oder, in fremden Besitz kommt\.
 
+\[ [🔗 Permalink](#-349-abgb--a-körperlicher-sachen) \]
+
 ### § 350 ABGB — b) der in die öffentlichen Bücher eingetragenen Rechte;
 
 > Der Besitz derjenigen Rechte und unbeweglichen Sachen, welche einen Gegenstand der öffentlichen Bücher ausmachen, erlischt, wenn sie aus den landtäflichen, Stadt\- oder Grundbüchern gelöscht; oder, wenn sie auf den Nahmen eines Anderen eingetragen werden\.
+
+\[ [🔗 Permalink](#-350-abgb--b-der-in-die-öffentlichen-bücher-eingetragenen-rechte) \]
 
 ### § 351 ABGB — c) anderer Rechte
 
 > Bey andern Rechten hört der Besitz auf, wenn der Gegentheil das, was er sonst geleistet hat, nicht mehr leisten zu wollen erkläret; wenn er die Ausübung des Rechtes eines Andern nicht mehr duldet; oder wenn er das Verboth, etwas zu unterlassen, nicht mehr achtet, der Besitzer aber in allen diesen Fällen es dabey bewenden läßt, und die Erhaltung des Besitzes nicht einklagt\. Durch den bloßen Nichtgebrauch eines Rechtes geht der Besitz, außer den im Gesetze bestimmten Verjährungsfällen, nicht verloren\.
 
+\[ [🔗 Permalink](#-351-abgb--c-anderer-rechte) \]
+
 ### § 352 ABGB
 
 > So lange noch Hoffnung vorhanden ist, eine verlorne Sache zu erhalten, kann man sich durch den bloßen Willen in ihrem Besitze erhalten\. Die Abwesenheit des Besitzers oder die eintretende Unfähigkeit einen Besitz zu erwerben, heben den bereits erworbenen Besitz nicht auf\.
+
+\[ [🔗 Permalink](#-352-abgb) \]
 
 ## Zweytes Hauptstück.
 
@@ -3563,33 +4099,49 @@
 
 > Alles, was jemanden zugehöret, alle seine körperlichen und unkörperlichen Sachen, heißen sein Eigenthum\.
 
+\[ [🔗 Permalink](#-353-abgb--eigenthum-im-objectiven-sinne) \]
+
 ### § 354 ABGB — im subjectiven
 
 > Als ein Recht betrachtet, ist Eigenthum das Befugniß, mit der Substanz und den Nutzungen einer Sache nach Willkühr zu schalten, und jeden Andern davon auszuschließen\.
+
+\[ [🔗 Permalink](#-354-abgb--im-subjectiven) \]
 
 ### § 355 ABGB — Objective und subjective Möglichkeit der Erwerbung des Eigenthumes
 
 > Alle Sachen sind insgemein Gegenstände des Eigenthumsrechtes, und jedermann, den die Gesetze nicht ausdrücklich ausschließen, ist befugt, dasselbe durch sich selbst oder durch einen andern in seinem Nahmen zu erwerben\.
 
+\[ [🔗 Permalink](#-355-abgb--objective-und-subjective-möglichkeit-der-erwerbung-des-eigenthumes) \]
+
 ### § 356 ABGB
 
 > Wer also behauptet, daß der Person, die etwas erwerben will, in Rücksicht ihrer persönlichen Fähigkeit, oder in Rücksicht auf die Sache, die erworben werden soll, ein gesetzliches Hinderniß entgegen stehe, dem liegt der Beweis ob\.
+
+\[ [🔗 Permalink](#-356-abgb) \]
 
 ### § 358 ABGB
 
 > Alle Arten der Beschränkungen durch das Gesetz oder durch den Willen des Eigenthümers heben die Vollständigkeit des Eigenthumes nicht auf\.
 
+\[ [🔗 Permalink](#-358-abgb) \]
+
 ### § 361 ABGB — Miteigenthum
 
 > Wenn eine noch ungetheilte Sache mehrern Personen zugleich zugehört; so entsteht ein gemeinschaftliches Eigenthum\. In Beziehung auf das Ganze werden die Miteigenthümer für eine einzige Person angesehen; in so weit ihnen aber gewisse, obgleich unabgesonderte Theile angewiesen sind, hat jeder Miteigenthümer das vollständige Eigenthum des ihm gehörigen Theiles\.
+
+\[ [🔗 Permalink](#-361-abgb--miteigenthum) \]
 
 ### § 362 ABGB — Rechte des Eigenthümers
 
 > Kraft des Rechtes, frey über sein Eigenthum zu verfügen, kann der vollständige Eigenthümer in der Regel seine Sache nach Willkühr benützen oder unbenützt lassen; er kann sie vertilgen, ganz oder zum Theile auf Andere übertragen, oder unbedingt sich derselben begeben, das ist, sie verlassen\.
 
+\[ [🔗 Permalink](#-362-abgb--rechte-des-eigenthümers) \]
+
 ### § 363 ABGB — Beschränkungen derselben
 
 > Eben diese Rechte genießen auch unvollständige, sowohl Ober\- als Nutzungseigenthümer; nur darf der Eine nichts vornehmen, was mit dem Rechte des Andern im Widerspruche steht\.
+
+\[ [🔗 Permalink](#-363-abgb--beschränkungen-derselben) \]
 
 ### § 364 ABGB
 
@@ -3599,21 +4151,31 @@
 
 > `(3)` Ebenso kann der Grundstückseigentümer einem Nachbarn die von dessen Bäumen oder anderen Pflanzen ausgehenden Einwirkungen durch den Entzug von Licht oder Luft insoweit untersagen, als diese das Maß des Abs\. 2 überschreiten und zu einer unzumutbaren Beeinträchtigung der Benutzung des Grundstücks führen\. Bundes\- und landesgesetzliche Regelungen über den Schutz von oder vor Bäumen und anderen Pflanzen, insbesondere über den Wald\-, Flur\-, Feld\-, Ortsbild\-, Natur\- und Baumschutz, bleiben unberührt\.
 
+\[ [🔗 Permalink](#-364-abgb) \]
+
 ### § 364a ABGB
 
 > Wird jedoch die Beeinträchtigung durch eine Bergwerksanlage oder eine behördlich genehmigte Anlage auf dem nachbarlichen Grund in einer dieses Maß überschreitenden Weise verursacht, so ist der Grundbesitzer nur berechtigt, den Ersatz des zugefügten Schadens gerichtlich zu verlangen, auch wenn der Schaden durch Umstände verursacht wird, auf die bei der behördlichen Verhandlung keine Rücksicht genommen wurde\.
+
+\[ [🔗 Permalink](#-364a-abgb) \]
 
 ### § 364b ABGB
 
 > Ein Grundstück darf nicht in der Weise vertieft werden, daß der Boden oder das Gebäude des Nachbars die erforderliche Stütze verliert, es sei denn, daß der Besitzer des Grundstückes für eine genügende anderweitige Befestigung Vorsorge trifft\.
 
+\[ [🔗 Permalink](#-364b-abgb) \]
+
 ### § 364c ABGB
 
 > Ein vertragsmäßiges oder letztwilliges Veräußerungs\- oder Belastungsverbot hinsichtlich einer Sache oder eines dinglichen Rechtes verpflichtet nur den ersten Eigentümer, nicht aber seine Erben oder sonstigen Rechtsnachfolger\. Gegen Dritte wirkt es dann, wenn es zwischen Ehegatten, eingetragenen Partnern, Eltern und Kindern, Wahl\- oder Pflegekindern oder deren Ehegatten oder eingetragenen Partnern begründet und im öffentlichen Buche eingetragen wurde\.
 
+\[ [🔗 Permalink](#-364c-abgb) \]
+
 ### § 365 ABGB
 
 > Wenn es das allgemeine Beste erheischt, muß ein Mitglied des Staates gegen eine angemessene Schadloshaltung selbst das vollständige Eigenthum einer Sache abtreten\.
+
+\[ [🔗 Permalink](#-365-abgb) \]
 
 ## Klagen aus dem Eigenthumsrechte.
 
@@ -3621,11 +4183,15 @@
 
 > Mit dem Rechte des Eigenthümers jeden Andern von dem Besitze seiner Sache auszuschließen, ist auch das Recht verbunden, seine ihm vorenthaltene Sache von jedem Inhaber durch die Eigenthumsklage gerichtlich zu fordern\. Doch steht dieses Recht demjenigen nicht zu, welcher eine Sache zur Zeit, da er noch nicht Eigenthümer war, in seinem eigenen Nahmen veräußert, in der Folge aber das Eigenthum derselben erlangt hat\.
 
+\[ [🔗 Permalink](#-366-abgb--a-eigentliche-eigenthumsklage-wem-und-gegen-wen-sie-gebühre) \]
+
 ### § 367 ABGB — Gutgläubiger Erwerb
 
 > `(1)` Die Eigentumsklage gegen den rechtmäßigen und redlichen Besitzer einer beweglichen Sache ist abzuweisen, wenn er beweist, dass er die Sache gegen Entgelt in einer öffentlichen Versteigerung, von einem Unternehmer im gewöhnlichen Betrieb seines Unternehmens oder von jemandem erworben hat, dem sie der vorige Eigentümer anvertraut hatte\. In diesen Fällen erwirbt der rechtmäßige und redliche Besitzer das Eigentum\. Der Anspruch des vorigen Eigentümers auf Schadenersatz gegen seinen Vertrauensmann oder gegen andere Personen bleibt unberührt\.
 
 > `(2)` Ist die Sache mit dem Recht eines Dritten belastet, so erlischt dieses Recht mit dem Erwerb des Eigentums durch den rechtmäßigen und redlichen Besitzer, es sei denn, dass dieser in Ansehung dieses Rechtes nicht redlich ist\.
+
+\[ [🔗 Permalink](#-367-abgb--gutgläubiger-erwerb) \]
 
 ### § 368 ABGB
 
@@ -3633,17 +4199,25 @@
 
 > `(2)` Beweist der Eigentümer, dass der Besitzer aus der Natur der Sache, aus ihrem auffällig geringen Preis, aus den ihm bekannten persönlichen Eigenschaften seines Vormanns, aus dessen Unternehmen oder aus anderen Umständen einen gegründeten Verdacht hätte schöpfen müssen, so hat der Besitzer die Sache dem Eigentümer zu überlassen\.
 
+\[ [🔗 Permalink](#-368-abgb) \]
+
 ### § 369 ABGB — Was dem Kläger zu beweisen obliege?
 
 > Wer die Eigenthumsklage übernimmt, muß den Beweis führen, daß der Geklagte die eingeklagte Sache in seiner Macht habe, und daß diese Sache sein Eigenthum sey\.
+
+\[ [🔗 Permalink](#-369-abgb--was-dem-kläger-zu-beweisen-obliege) \]
 
 ### § 370 ABGB
 
 > Wer eine bewegliche Sache gerichtlich zurückfordert, muß sie durch Merkmahle beschreiben, wodurch sie von allen ähnlichen Sachen gleicher Gattung ausgezeichnet wird\.
 
+\[ [🔗 Permalink](#-370-abgb) \]
+
 ### § 371 ABGB
 
 > Sachen, die sich auf diese Art nicht unterscheiden lassen, wie bares Geld mit anderm baren Gelde vermenget, oder auf den Ueberbringer lautende Schuldbriefe, sind also in der Regel kein Gegenstand der Eigenthumsklage; wenn nicht solche Umstände eintreten, aus denen der Kläger sein Eigenthumsrecht beweisen kann, und aus denen der Geklagte wissen mußte, daß er die Sache sich zuzuwenden nicht berechtiget sey\.
+
+\[ [🔗 Permalink](#-371-abgb) \]
 
 ## b) Eigenthumsklage aus dem rechtlich vermuteten Eigenthume des Klägers.
 
@@ -3651,17 +4225,25 @@
 
 > Wenn der Kläger mit dem Beweise des erworbenen Eigenthumes einer ihm vorenthaltenen Sache zwar nicht ausreicht, aber den gültigen Titel, und die echte Art, wodurch er zu ihrem Besitze gelangt ist, dargethan hat; so wird er doch in Rücksicht eines jeden Besitzers, der keinen, oder nur einen schwächern Titel seines Besitzes anzugeben vermag, für den wahren Eigenthümer gehalten\.
 
+\[ [🔗 Permalink](#-372-abgb--gegen-welchen-besitzer-diese-vermuthung-eintrete) \]
+
 ### § 373 ABGB
 
 > Wenn also der Geklagte die Sache auf eine unredliche oder unrechtmäßige Weise besitzt; wenn er keinen oder nur einen verdächtigen Vormann anzugeben vermag; oder, wenn er die Sache ohne Entgeld, der Kläger aber gegen Entgeld erhalten hat; so muß er dem Kläger weichen\.
+
+\[ [🔗 Permalink](#-373-abgb) \]
 
 ### § 374 ABGB
 
 > Haben der Geklagte und der Kläger einen gleichen Titel ihres echten Besitzes, so gebühret dem Geklagten kraft des Besitzes der Vorzug\.
 
+\[ [🔗 Permalink](#-374-abgb) \]
+
 ### § 375 ABGB
 
 > Wer eine Sache in fremdem Nahmen besitzt, kann sich gegen die Eigenthumsklage dadurch schützen, daß er seinen Vormann nahmhaft macht, und sich darüber ausweiset\.
+
+\[ [🔗 Permalink](#-375-abgb) \]
 
 ## Gesetzliche Folge:
 
@@ -3669,17 +4251,25 @@
 
 > Wer den Besitz einer Sache vor Gericht läugnet, und dessen überwiesen wird, muß dem Kläger deßwegen allein schon den Besitz abtreten; doch behält er das Recht, in der Folge seine Eigenthumsklage anzustellen\.
 
+\[ [🔗 Permalink](#-376-abgb--a-der-abläugnung-des-besitzes) \]
+
 ### § 377 ABGB — b) des vorgegebenen Besitzes;
 
 > Wer eine Sache, die er nicht besitzt, zu besitzen vorgibt, und den Kläger dadurch irre führt, haftet für allen daraus entstehenden Schaden\.
+
+\[ [🔗 Permalink](#-377-abgb--b-des-vorgegebenen-besitzes) \]
 
 ### § 378 ABGB — c) des aufgegebenen Besitzes der streitigen Sache
 
 > Wer eine Sache im Besitze hatte, und nach zugestellter Klage fahren ließ, muß sie dem Kläger, wenn dieser sich nicht an den wirklichen Inhaber halten will, auf seine Kosten zurück verschaffen, oder den außerordentlichen Werth derselben ersetzen\.
 
+\[ [🔗 Permalink](#-378-abgb--c-des-aufgegebenen-besitzes-der-streitigen-sache) \]
+
 ### § 379 ABGB — Was der Besitzer dem Eigenthümer erstatte
 
 > Was sowohl der redliche als unredliche Besitzer dem Eigenthümer in Ansehung des entgangenen Nutzens, oder des erlittenen Schadens zu ersetzen habe, ist in dem vorigen Hauptstücke bestimmt worden\.
+
+\[ [🔗 Permalink](#-379-abgb--was-der-besitzer-dem-eigenthümer-erstatte) \]
 
 ## Drittes Hauptstück.
 
@@ -3689,35 +4279,51 @@
 
 > Ohne Titel und ohne rechtliche Erwerbungsart kann kein Eigenthum erlangt werden\.
 
+\[ [🔗 Permalink](#-380-abgb--rechtliche-erfordernisse-der-erwerbung) \]
+
 ## Titel und Art der unmittelbaren Erwerbung.
 
 ### § 381 ABGB — Die Zueignung
 
 > Bey freystehenden Sachen besteht der Titel in der angebornen Freyheit, sie in Besitz zu nehmen\. Die Erwerbungsart ist die Zueignung, wodurch man sich einer freystehenden Sache bemächtigt, in der Absicht, sie als die seinige zu behandeln\.
 
+\[ [🔗 Permalink](#-381-abgb--die-zueignung) \]
+
 ### § 382 ABGB
 
 > Freystehende Sachen können von allen Mitgliedern des Staates durch die Zueignung erworben werden, in so fern dieses Befugniß nicht durch politische Gesetze eingeschränkt ist, oder einigen Mitgliedern das Vorrecht der Zueignung zusteht\.
+
+\[ [🔗 Permalink](#-382-abgb) \]
 
 ### § 383 ABGB — 1) Durch den Thierfang;
 
 > Dieses gilt insbesondere von dem Thierfange\. Wem das Recht zu jagen oder zu fischen gebühre; wie der übermäßige Anwachs des Wildes gehemmet, und der vom Wilde verursachte Schade ersetzet werde; wie der Honigraub, der durch fremde Bienen geschieht, zu verhindern sey; ist in den politischen Gesetzen festgesetzt\. Wie Wilddiebe zu bestrafen seyn, wird in den Strafgesetzen bestimmt\.
 
+\[ [🔗 Permalink](#-383-abgb--1-durch-den-thierfang) \]
+
 ### § 384 ABGB
 
 > Häusliche Bienenschwärme und andere zahme oder zahm gemachte Thiere sind kein Gegenstand des freyen Thierfanges, vielmehr hat der Eigenthümer das Recht, sie auf fremdem Grunde zu verfolgen; doch soll er dem Grundbesitzer den ihm etwa verursachten Schaden ersetzen\. Im Falle, daß der Eigenthümer des Mutterstockes den Schwarm durch zwey Tage nicht verfolgt hat; oder, daß ein zahm gemachtes Thier durch zwey und vierzig Tage von selbst ausgeblieben ist, kann sie auf gemeinem Grunde jedermann; auf dem seinigen der Grundeigenthümer für sich nehmen, und behalten\.
+
+\[ [🔗 Permalink](#-384-abgb) \]
 
 ### § 385 ABGB — 2) durch das Finden freystehender Sachen;
 
 > Keine Privat\-Person ist berechtigt, die dem Staate durch die politischen Verordnungen vorbehaltenen Erzeugnisse sich zuzueignen\.
 
+\[ [🔗 Permalink](#-385-abgb--2-durch-das-finden-freystehender-sachen) \]
+
 ### § 386 ABGB
 
 > Bewegliche Sachen, welche der Eigenthümer nicht mehr als die seinigen behalten will, und daher verläßt, kann sich jedes Mitglied des Staates eigen machen\. Im Zweifel ist nicht zu vermuten, dass jemand sein Eigentum aufgeben wolle; daher darf kein Finder eine gefundene Sache für verlassen ansehen und sich diese zueignen\.
 
+\[ [🔗 Permalink](#-386-abgb) \]
+
 ### § 387 ABGB
 
 > In wie fern Grundstücke wegen gänzlicher Unterlassung ihres Anbaues, oder Gebäude wegen der unterlassenen Herstellung für verlassen anzusehen, oder einzuziehen seyn, bestimmen die politischen Gesetze\.
+
+\[ [🔗 Permalink](#-387-abgb) \]
 
 ## Vorschriften über das Finden
 
@@ -3727,15 +4333,21 @@
 
 > `(2)` Vergessen sind bewegliche Sachen, die ohne den Willen des Inhabers an einem fremden, unter der Aufsicht eines anderen stehenden Ort zurückgelassen worden und dadurch in fremde Gewahrsame gekommen sind\.
 
+\[ [🔗 Permalink](#-388-abgb--a-verlorener-und-vergessener-sachen) \]
+
 ### § 389 ABGB
 
 > `(1)` Finder ist, wer eine verlorene oder vergessene Sache entdeckt und an sich nimmt\.
 
 > `(2)` Verlustträger sind der Eigentümer und andere zur Innehabung der verlorenen oder vergessenen Sache berechtigte Personen\.
 
+\[ [🔗 Permalink](#-389-abgb) \]
+
 ### § 390 ABGB
 
 > Der Finder hat den Fund unverzüglich der zuständigen Fundbehörde \(§ 14 Abs\. 5 SPG\) unter Abgabe der gefundenen Sache anzuzeigen und über alle für die Ausforschung eines Verlustträgers maßgeblichen Umstände Auskunft zu geben\.
+
+\[ [🔗 Permalink](#-390-abgb) \]
 
 ### § 391 ABGB
 
@@ -3745,15 +4357,21 @@
 >
 >> `2.` der gemeine Wert der gefundenen Sache 10 Euro nicht übersteigt, es sei denn erkennbar, dass die Wiedererlangung der Sache für einen Verlustträger von erheblicher Bedeutung ist\.
 
+\[ [🔗 Permalink](#-391-abgb) \]
+
 ### § 392 ABGB
 
 > Der Finder hat gegen den, dem der Fundgegenstand ausgefolgt wird, Anspruch auf Finderlohn und auf Ersatz des notwendig und zweckmäßig gemachten Aufwandes\.
+
+\[ [🔗 Permalink](#-392-abgb) \]
 
 ### § 393 ABGB
 
 > `(1)` Der Finderlohn beträgt bei verlorenen Sachen 10 vH, bei vergessenen Sachen 5 vH des gemeinen Wertes\. Übersteigt der gemeine Wert 2 000 Euro, so beträgt der Finderlohn in Rücksicht des Übermaßes die Hälfte dieser Hundertersätze\.
 
 > `(2)` Bei unschätzbaren Sachen und solchen, deren Wiedererlangung für den Verlustträger von erheblicher Bedeutung ist, ist der Finderlohn nach billigem Ermessen festzulegen; hierbei ist auf die Grundsätze des Abs\. 1, auf die dem Finder entstandene Mühe und auf den dem Verlustträger durch die Wiedererlangung der gefundenen Sache verschafften Vorteil Bedacht zu nehmen\.
+
+\[ [🔗 Permalink](#-393-abgb) \]
 
 ### § 394 ABGB
 
@@ -3765,13 +4383,19 @@
 >
 >> `3.` die vergessene Sache auch sonst ohne deren Gefährdung wiedererlangt worden wäre\.
 
+\[ [🔗 Permalink](#-394-abgb) \]
+
 ### § 395 ABGB
 
 > Wird die Sache innerhalb eines Jahres oder, wenn der gemeine Wert der Sache im Zeitpunkt des Fundes 100 Euro nicht übersteigt, innerhalb eines halben Jahres von keinem Verlustträger angesprochen, so erwirbt der Finder das Eigentum an der in seiner Gewahrsame befindlichen Sache mit Ablauf der Frist, an der abgegebenen Sache mit ihrer Ausfolgung an ihn\. Die Frist beginnt im Fall des § 391 Z 2 mit dem Zeitpunkt des Findens, sonst mit der Erstattung der Anzeige \(§ 390\)\.
 
+\[ [🔗 Permalink](#-395-abgb) \]
+
 ### § 396 ABGB
 
 > Wer eine verlorene oder vergessene Sache entdeckt, sie aber nicht an sich nehmen kann, hat Anspruch auf die Hälfte des im § 393 bestimmten Finderlohnes, wenn er die Entdeckung einer im § 390 bezeichneten Stelle anzeigt und der Verlustträger die Sache dadurch wiedererlangt, es sei denn, dass dieser die Sache auch sonst ohne deren Gefährdung wiedererlangt hätte\. § 394 Z 1 ist anzuwenden\.
+
+\[ [🔗 Permalink](#-396-abgb) \]
 
 ### § 397 ABGB — b) verborgener Gegenstände
 
@@ -3779,29 +4403,43 @@
 
 > `(2)` Der Finderlohn ist auch dann nicht zu entrichten, wenn die Sache auch sonst ohne deren Gefährdung wiedererlangt worden wäre\.
 
+\[ [🔗 Permalink](#-397-abgb--b-verborgener-gegenstände) \]
+
 ### § 398 ABGB — c) eines Schatzes
 
 > Bestehen die entdeckten Sachen in Geld, Schmuck oder andern Kostbarkeiten, die so lange im Verborgenen gelegen haben, daß man ihren vorigen Eigenthümer nicht mehr erfahren kann, dann heißen sie ein Schatz\. Die Entdeckung eines Schatzes ist von der Obrigkeit der Landesstelle anzuzeigen\.
+
+\[ [🔗 Permalink](#-398-abgb--c-eines-schatzes) \]
 
 ### § 399 ABGB
 
 > Von einem Schatz erhalten der Finder und der Eigentümer des Grundes je die Hälfte\.
 
+\[ [🔗 Permalink](#-399-abgb) \]
+
 ### § 400 ABGB
 
 > Wer sich dabey einer unerlaubten Handlung schuldig gemacht; wer ohne Wissen und Willen des Nutzungseigenthümers den Schatz aufgesucht; oder den Fund verheimlichet hat; dessen Antheil soll dem Angeber; oder, wenn kein Angeber vorhanden ist, dem Staate zufallen\.
+
+\[ [🔗 Permalink](#-400-abgb) \]
 
 ### § 401 ABGB
 
 > Finden Arbeitsleute zufälliger Weise einen Schatz, so gebührt ihnen als Findern ein Drittheil davon\. Sind sie aber von dem Eigenthümer ausdrücklich zur Aufsuchung eines Schatzes gedungen worden, so müssen sie sich mit ihrem ordentlichen Lohne begnügen\.
 
+\[ [🔗 Permalink](#-401-abgb) \]
+
 ### § 402 ABGB — 3) von der Beute
 
 > Ueber das Recht der Beute und der von dem Feinde zurück erbeuteten Sachen, sind die Vorschriften in den Kriegsgesetzen enthalten\.
 
+\[ [🔗 Permalink](#-402-abgb--3-von-der-beute) \]
+
 ### § 403 ABGB — Von dem Rechte aus der Rettung einer fremden beweglichen Sache
 
 > Wer eine fremde bewegliche Sache von dem unvermeidlichen Verluste oder Untergange rettet, ist berechtigt, von dem rückfordernden Eigenthümer den Ersatz seines Aufwandes, und eine verhältnismäßige Belohnung von höchstens Zehen von Hundert zu fordern\.
+
+\[ [🔗 Permalink](#-403-abgb--von-dem-rechte-aus-der-rettung-einer-fremden-beweglichen-sache) \]
 
 ## Viertes Hauptstück.
 
@@ -3811,43 +4449,63 @@
 
 > Zuwachs heißt alles, was aus einer Sache entsteht, oder neu zu derselben kommt, ohne daß es dem Eigenthümer von jemand Andern übergeben worden ist\. Der Zuwachs wird durch Natur, durch Kunst, oder durch beyde zugleich bewirkt\.
 
+\[ [🔗 Permalink](#-404-abgb--zuwachs) \]
+
 ## I. Natürlicher Zuwachs:
 
 ### § 405 ABGB — a) an Natur-Producten; — b) Werfen der Thiere;
 
 > Die natürlichen Früchte eines Grundes, nähmlich solche Nutzungen, die er, ohne bearbeitet zu werden, hervorbringt, als: Kräuter, Schwämme und dergleichen, wachsen dem Eigenthümer des Grundes, so wie alle Nutzungen, welche aus einem Thiere entstehen, dem Eigenthümer des Thieres zu\.
 
+\[ [🔗 Permalink](#-405-abgb--a-an-natur-producten--b-werfen-der-thiere) \]
+
 ### § 406 ABGB
 
 > Der Eigenthümer eines Thieres, welches durch das Thier eines andern befruchtet wird, ist diesem keinen Lohn schuldig, wenn er nicht bedungen worden ist\.
+
+\[ [🔗 Permalink](#-406-abgb) \]
 
 ### § 407 ABGB — c) Inseln;
 
 > Wenn in der Mitte eines Gewässers eine Insel entsteht, so sind die Eigenthümer der nach der Länge derselben an beyden Ufern liegenden Grundstücke ausschließend befugt, die entstandene Insel in zwey gleichen Theilen sich zuzueignen, und nach Maß der Länge ihrer Grundstücke unter sich zu theilen\. Entsteht die Insel auf der einen Hälfte des Gewässers, so hat der Eigenthümer des nähern Uferlandes allein darauf Anspruch\. Inseln auf schiffbaren Flüssen bleiben dem Staate vorbehalten\.
 
+\[ [🔗 Permalink](#-407-abgb--c-inseln) \]
+
 ### § 408 ABGB
 
 > Werden bloß durch die Austrocknung des Gewässers, oder durch desselben Theilung in mehrere Arme, Inseln gebildet, oder Grundstücke überschwemmt; so bleiben die Rechte des vorigen Eigenthumes unverletzt\.
+
+\[ [🔗 Permalink](#-408-abgb) \]
 
 ### § 409 ABGB — d) vom verlassenen Wasserbeete;
 
 > Wenn ein Gewässer sein Beet verläßt, so haben vor Allem die Grundbesitzer, welche durch den neuen Lauf des Gewässers Schaden leiden, das Recht, aus dem verlassenen Beete oder dessen Werthe entschädigt zu werden\.
 
+\[ [🔗 Permalink](#-409-abgb--d-vom-verlassenen-wasserbeete) \]
+
 ### § 410 ABGB
 
 > Außer dem Falle einer solchen Entschädigung gehört das verlassene Beet, so wie von einer entstandenen Insel verordnet wird, den angränzenden Uferbesitzern\.
+
+\[ [🔗 Permalink](#-410-abgb) \]
 
 ### § 411 ABGB — e) vom Anspühlen;
 
 > Das Erdreich, welches ein Gewässer unmerklich an ein Ufer anspühlt, gehört dem Eigenthümer des Ufers\.
 
+\[ [🔗 Permalink](#-411-abgb--e-vom-anspühlen) \]
+
 ### § 412 ABGB — f) vom abgerissenen Lande
 
 > Wird aber ein merklicher Erdtheil durch die Gewalt des Flusses an ein fremdes Ufer gelegt; so verliert der vorige Besitzer sein Eigenthumsrecht darauf nur in dem Falle, wenn er es in einer Jahresfrist nicht ausübt\.
 
+\[ [🔗 Permalink](#-412-abgb--f-vom-abgerissenen-lande) \]
+
 ### § 413 ABGB
 
 > Jeder Grundbesitzer ist befugt, sein Ufer gegen das Ausreißen des Flusses zu befestigen\. Allein niemand darf solche Werke oder Pflanzungen anlegen, die den ordentlichen Lauf des Flusses verändern, oder die der Schiffahrt, den Mühlen, der Fischerey oder andern fremden Rechten nachtheilig werden könnten\. Ueberhaupt können ähnliche Anlagen nur mit Erlaubniß der politischen Behörde gemacht werden\.
+
+\[ [🔗 Permalink](#-413-abgb) \]
 
 ## II. Künstlicher Zuwachs durch Verarbeitung oder Vereinigung überhaupt;
 
@@ -3855,25 +4513,37 @@
 
 > Wer fremde Sachen verarbeitet; wer sie mit den seinigen vereinigt, vermengt, oder vermischt, erhält dadurch noch keinen Anspruch auf das fremde Eigenthum\.
 
+\[ [🔗 Permalink](#-414-abgb) \]
+
 ### § 415 ABGB
 
 > Können dergleichen verarbeitete Sachen in ihren vorigen Stand zurückgebracht; vereinigte, vermengte oder vermischte Sachen wieder abgesondert werden; so wird einem jeden Eigenthümer das Seinige zurückgestellet, und demjenigen Schadloshaltung geleistet, dem sie gebührt\. Ist die Zurücksetzung in den vorigen Stand, oder die Absonderung nicht möglich, so wird die Sache den Theilnehmern gemein; doch steht demjenigen, mit dessen Sache der Andere durch Verschulden die Vereinigung vorgenommen hat, die Wahl frey, ob er den ganzen Gegenstand gegen Ersatz der Verbesserung behalten, oder ihn dem Andern ebenfalls gegen Vergütung überlassen wolle\. Der Schuld tragende Theilnehmer wird nach Beschaffenheit seiner redlichen oder unredlichen Absicht behandelt\. Kann aber keinem Theile ein Verschulden beygemessen werden, so bleibt dem, dessen Antheil mehr werth ist, die Auswahl vorbehalten\.
+
+\[ [🔗 Permalink](#-415-abgb) \]
 
 ### § 416 ABGB
 
 > Werden fremde Materialien nur zur Ausbesserung einer Sache verwendet, so fällt die fremde Materie dem Eigenthümer der Hauptsache zu, und dieser ist verbunden, nach Beschaffenheit seines redlichen oder unredlichen Verfahrens, dem vorigen Eigenthümer der verbrauchten Materialien den Werth derselben zu bezahlen\.
 
+\[ [🔗 Permalink](#-416-abgb) \]
+
 ### § 417 ABGB — insbesondere bey einem Baue;
 
 > Wenn jemand auf eigenem Boden ein Gebäude aufführet, und fremde Materialien dazu verwendet hat, so bleibt das Gebäude zwar sein Eigenthum; doch muß selbst ein redlicher Bauführer dem Beschädigten die Materialien, wenn er sie außer den im § 367 angeführten Verhältnissen an sich gebracht hat, nach dem gemeinen; ein unredlicher aber muß sie nach dem höchsten Preise, und überdieß noch allen anderweitigen Schaden ersetzen\.
+
+\[ [🔗 Permalink](#-417-abgb--insbesondere-bey-einem-baue) \]
 
 ### § 418 ABGB
 
 > Hat im entgegen gesetzen Falle jemand mit eigenen Materialien, ohne Wissen und Willen des Eigenthümers auf fremdem Grunde gebaut, so fällt das Gebäude dem Grundeigenthümer zu\. Der redliche Bauführer kann den Ersatz der nothwendigen und nützlichen Kosten fordern; der unredliche wird gleich einem Geschäftsführer ohne Auftrag behandelt\. Hat der Eigenthümer des Grundes die Bauführung gewußt, und sie nicht sogleich dem redlichen Bauführer untersagt, so kann er nur den gemeinen Werth für den Grund fordern\.
 
+\[ [🔗 Permalink](#-418-abgb) \]
+
 ### § 419 ABGB
 
 > Ist das Gebäude auf fremdem Grunde, und aus fremden Materialien entstanden, so wächst auch in diesem Falle das Eigenthum desselben dem Grundeigenthümer zu\. Zwischen dem Grundeigenthümer und dem Bauführer treten die nähmlichen Rechte und Verbindlichkeiten, wie in dem vorstehenden Paragraphe, ein, und der Bauführer muß dem vorigen Eigenthümer der Materialien, nach Beschaffenheit seiner redlichen oder unredlichen Absicht, den gemeinen oder den höchsten Werth ersetzen\.
+
+\[ [🔗 Permalink](#-419-abgb) \]
 
 ## III. Vermischter Zuwachs.
 
@@ -3881,15 +4551,21 @@
 
 > Was bisher wegen der mit fremden Materialien aufgeführten Gebäude bestimmt worden ist, gilt auch für die Fälle, wenn ein Feld mit fremden Samen besäet, oder mit fremden Pflanzen besetzt worden ist\. Ein solcher Zuwachs gehört dem Eigenthümer des Grundes, wenn anders die Pflanzen schon Wurzel geschlagen haben\.
 
+\[ [🔗 Permalink](#-420-abgb) \]
+
 ### § 421 ABGB
 
 > Das Eigenthum eines Baumes wird nicht nach den Wurzeln, die sich in einem angränzenden Grunde verbreiten, sondern nach dem Stamme bestimmt, der aus dem Grunde hervorragt\. Steht der Stamm auf den Gränzen mehrerer Eigenthümer, so ist ihnen der Baum gemein\.
+
+\[ [🔗 Permalink](#-421-abgb) \]
 
 ### § 422 ABGB
 
 > `(1)` Jeder Eigentümer kann die in seinen Grund eindringenden Wurzeln eines fremden Baumes oder einer anderen fremden Pflanze aus seinem Boden entfernen und die über seinem Luftraum hängenden Äste abschneiden oder sonst benützen\. Dabei hat er aber fachgerecht vorzugehen und die Pflanze möglichst zu schonen\. Bundes\- und landesgesetzliche Regelungen über den Schutz von oder vor Bäumen und anderen Pflanzen, insbesondere über den Wald\-, Flur\-, Feld\-, Ortsbild\-, Natur\- und Baumschutz, bleiben unberührt\.
 
 > `(2)` Die für die Entfernung der Wurzeln oder das Abschneiden der Äste notwendigen Kosten hat der beeinträchtigte Grundeigentümer zu tragen\. Sofern diesem aber durch die Wurzeln oder Äste ein Schaden entstanden ist oder offenbar droht, hat der Eigentümer des Baumes oder der Pflanze die Hälfte der notwendigen Kosten zu ersetzen\.
+
+\[ [🔗 Permalink](#-422-abgb) \]
 
 ## Fünftes Hauptstück.
 
@@ -3899,13 +4575,19 @@
 
 > Sachen, die schon einen Eigenthümer haben, werden mittelbar erworben, indem sie auf eine rechtliche Art von dem Eigenthümer auf einen Andern übergehen\.
 
+\[ [🔗 Permalink](#-423-abgb--mittelbare-erwerbung) \]
+
 ### § 424 ABGB — Titel derselben
 
 > Der Titel der mittelbaren Erwerbung liegt in einem Vertrage; in einer Verfügung auf den Todesfall; in dem richterlichen Ausspruche; oder, in der Anordnung des Gesetzes\.
 
+\[ [🔗 Permalink](#-424-abgb--titel-derselben) \]
+
 ### § 425 ABGB — Mittelbare Erwerbungsart
 
 > Der bloße Titel gibt noch kein Eigenthum\. Das Eigenthum und alle dingliche Rechte überhaupt können, außer den in dem Gesetze bestimmten Fällen, nur durch die rechtliche Uebergabe und Uebernahme erworben werden\.
+
+\[ [🔗 Permalink](#-425-abgb--mittelbare-erwerbungsart) \]
 
 ## Arten der Uebergabe;
 
@@ -3913,25 +4595,37 @@
 
 > Bewegliche Sachen können in der Regel nur durch körperliche Uebergabe von Hand zu Hand an einen Andern übertragen werden\.
 
+\[ [🔗 Permalink](#-426-abgb--1-bey-beweglichen-sachen--a-körperliche-uebergabe) \]
+
 ### § 427 ABGB — b) Uebergabe durch Zeichen;
 
 > Bey solchen beweglichen Sachen aber, welche ihrer Beschaffenheit nach keine körperliche Uebergabe zulassen, wie bey Schuldforderungen, Frachtgütern, bey einem Waarenlager oder einer andern Gesammtsache, gestattet das Gesetz die Uebergabe durch Zeichen; indem der Eigenthümer dem Uebernehmer die Urkunden, wodurch das Eigenthum dargethan wird, oder die Werkzeuge übergibt, durch die der Uebernehmer in den Stand gesetzt wird, ausschließend den Besitz der Sache zu ergreifen; oder, indem man mit der Sache ein Merkmahl verbindet, woraus jedermann deutlich erkennen kann, daß die Sache einem Andern überlassen worden ist\.
+
+\[ [🔗 Permalink](#-427-abgb--b-uebergabe-durch-zeichen) \]
 
 ### § 428 ABGB — c) durch Erklärung
 
 > Durch Erklärung wird die Sache übergeben, wenn der Veräußerer auf eine erweisliche Art seinen Willen an den Tag legt, daß er die Sache künftig im Nahmen des Uebernehmers inne habe; oder, daß der Uebernehmer die Sache, welche er bisher ohne ein dingliches Recht inne hatte, künftig aus einem dinglichen Rechte besitzen solle\.
 
+\[ [🔗 Permalink](#-428-abgb--c-durch-erklärung) \]
+
 ### § 429 ABGB — Folge in Rücksicht der übersendeten;
 
 > Wenn die Sache mit Willen des Übernehmers an einen anderen Ort als den Erfüllungsort übersendet wird, ist die Sache bereits mit ihrer Aushändigung an eine mit der Übersendung betraute Person übergeben, sofern die Art der Übersendung der getroffenen Vereinbarung, mangels einer solchen der Verkehrsübung entspricht\.
+
+\[ [🔗 Permalink](#-429-abgb--folge-in-rücksicht-der-übersendeten) \]
 
 ### § 430 ABGB — oder, an Mehrere veräußerten Sachen
 
 > Hat ein Eigenthümer eben dieselbe bewegliche Sache an zwey verschiedene Personen, an Eine mit, an die Andere ohne Uebergabe veräußert; so gebührt sie derjenigen, welcher sie zuerst übergeben worden ist; doch hat der Eigenthümer dem verletzten Theile zu haften\.
 
+\[ [🔗 Permalink](#-430-abgb--oder-an-mehrere-veräußerten-sachen) \]
+
 ### § 431 ABGB — 2. Bei unbeweglichen Sachen und Bauwerken
 
 > Zur Uebertragung des Eigenthumes unbeweglicher Sachen muß das Erwerbungsgeschäft in die dazu bestimmten öffentlichen Bücher eingetragen werden\. Diese Eintragung nennt man Einverleibung \(Intabulation\)\.
+
+\[ [🔗 Permalink](#-431-abgb--2-bei-unbeweglichen-sachen-und-bauwerken) \]
 
 ## Insbesondere bei Erwerbung
 
@@ -3939,37 +4633,55 @@
 
 > Zu diesem Zwecke muß über das Erwerbungsgeschäft eine beglaubigte Urkunde in der zur Gültigkeit des Geschäftes vorgeschriebenen Form oder eine öffentliche Urkunde ausgefertigt werden\.
 
+\[ [🔗 Permalink](#-432-abgb--a-durch-vertrag) \]
+
 ### § 433 ABGB
 
 > Die Urkunde muß die genaue Angabe der Personen, die das Eigentum übergeben und übernehmen; der Liegenschaft, die übergeben werden soll, mit ihren Bestandteilen; des Rechtsgrundes der Übergabe; ferner des Ortes und der Zeit des Vertragsschlusses enthalten; und es muß von dem Übergeber in dieser oder in einer besonderen Urkunde die ausdrückliche Erklärung abgegeben werden, daß er in die Einverleibung einwillige\.
+
+\[ [🔗 Permalink](#-433-abgb) \]
 
 ### § 434 ABGB
 
 > Zur Übertragung des Eigentums an Liegenschaften, die in keinem Grundbuche eingetragen sind, muß eine mit den Erfordernissen der §§ 432 und 433 versehene Urkunde bei Gericht hinterlegt werden\. An die Stelle der Bewilligung der Einverleibung tritt die Erklärung der Einwilligung zur Hinterlegung der Urkunde\.
 
+\[ [🔗 Permalink](#-434-abgb) \]
+
 ### § 435 ABGB
 
 > Dasselbe gilt auch für die Übertragung des Eigentums an Bauwerken, die auf fremdem Grund in der Absicht aufgeführt sind, daß sie nicht stets darauf bleiben sollen, soferne sie nicht Zugehör eines Baurechtes sind\.
+
+\[ [🔗 Permalink](#-435-abgb) \]
 
 ### § 436 ABGB — b) durch Urtheil und andere gerichtliche Urkunden;
 
 > Wenn das Eigentum unbeweglicher Sachen oder eines Bauwerkes zufolge rechtskräftigen Urteils, gerichtlicher Teilung oder Einantwortung einer Erbschaft übertragen werden soll, ist ebenfalls die Einverleibung \(§§ 431 bis 433\) oder die Hinterlegung der Urkunde \(§§ 434, 435\) erforderlich\.
 
+\[ [🔗 Permalink](#-436-abgb--b-durch-urtheil-und-andere-gerichtliche-urkunden) \]
+
 ### § 437 ABGB — oder c) durch Vermächtnis
 
 > Ebenso ist es, um das Eigentum eines vermachten unbeweglichen Gutes oder eines Bauwerkes zu erwerben, notwendig, daß die Sache dem Vermächtnisnehmer gemäß §§ 431 bis 435 übergeben werde\.
+
+\[ [🔗 Permalink](#-437-abgb--oder-c-durch-vermächtnis) \]
 
 ### § 438 ABGB — Bedingte Aufzeichnung in das öffentliche Buch; oder Vormerkung
 
 > Wenn derjenige, welcher das Eigenthum einer unbeweglichen Sache anspricht, darüber zwar eine glaubwürdige, aber nicht mit allen in den §§ 434 und 435 zur Einverleibung vorgeschriebenen Erfordernissen versehene Urkunde besitzt; so kann er doch, damit ihm niemand ein Vorrecht abgewinne, die bedingte Eintragung in das öffentliche Buch bewirken, welche Vormerkung \(Pränotation\) genannt wird\. Dadurch erhält er ein bedingtes Eigenthumsrecht, und er wird, sobald er zu Folge richterlichen Ausspruches die Vormerkung gerechtfertiget hat, von der Zeit des nach gesetzlicher Ordnung eingereichten Vormerkungsgesuches, für den wahren Eigenthümer gehalten\.
 
+\[ [🔗 Permalink](#-438-abgb--bedingte-aufzeichnung-in-das-öffentliche-buch-oder-vormerkung) \]
+
 ### § 439 ABGB
 
 > Die geschehene Vormerkung muß sowohl demjenigen, der sie bewirkt hat, als auch seinem Gegner durch Zustellung zu eigenen Handen bekannt gemacht werden\. Der Vormerkungswerber muß binnen vierzehn Tagen, vom Tage der erhaltenen Zustellung, die ordentliche Klage zum Erweise des Eigenthumrechtes einreichen; widrigen Falls soll die bewirkte Vormerkung auf Ansuchen des Gegners gelöschet werden\.
 
+\[ [🔗 Permalink](#-439-abgb) \]
+
 ### § 440 ABGB — Vorschrift über die Colision der Einverleibungen
 
 > Hat der Eigenthümer eben dieselbe unbewegliche Sache zwey verschiedenen Personen überlassen; so fällt sie derjenigen zu, welche früher die Einverleibung angesucht hat\.
+
+\[ [🔗 Permalink](#-440-abgb--vorschrift-über-die-colision-der-einverleibungen) \]
 
 ## Folge der Erwerbung:
 
@@ -3977,25 +4689,37 @@
 
 > So bald die Urkunde über das Eigenthumsrecht in das öffentliche Buch eingetragen ist, tritt der neue Eigenthümer in den rechtmäßigen Besitz\.
 
+\[ [🔗 Permalink](#-441-abgb--a-in-rücksicht-des-besitzes) \]
+
 ### § 442 ABGB — b) der damit verbundenen Rechte:
 
 > Wer das Eigenthum einer Sache erwirbt, erlangt auch die damit verbundenen Rechte\. Rechte, die auf die Person des Uebergebers eingeschränkt sind, kann er nicht übergeben\. Ueberhaupt kann niemand einem Andern mehr Recht abtreten, als er selbst hat\.
+
+\[ [🔗 Permalink](#-442-abgb--b-der-damit-verbundenen-rechte) \]
 
 ### § 443 ABGB — c) Lasten
 
 > Mit dem Eigenthume unbeweglicher Sachen werden auch die darauf haftenden in den öffentlichen Büchern angemerkten Lasten übernommen\. Wer diese Bücher nicht einsieht, leidet in allen Fällen für seine Nachlässigkeit\. Andere Forderungen und Ansprüche, die jemand an den vorigen Eigenthümer hat, gehen nicht auf den neuen Erwerber über\.
 
+\[ [🔗 Permalink](#-443-abgb--c-lasten) \]
+
 ### § 444 ABGB — Erlöschung des Eigenthumsrechtes
 
 > Das Eigenthum überhaupt kann durch den Willen des Eigenthümers; durch das Gesetz; und durch richterlichen Ausspruch verloren gehen\. Das Eigenthum der unbeweglichen Sachen aber wird nur durch die Löschung aus den öffentlichen Büchern aufgehoben\.
+
+\[ [🔗 Permalink](#-444-abgb--erlöschung-des-eigenthumsrechtes) \]
 
 ### § 445 ABGB — Ausdehnung dieser Vorschriften auf andere dingliche Rechte
 
 > Nach den in diesem Hauptstücke über die Erwerbungs\- und Erlöschungsart des Eigenthumsrechtes unbeweglicher Sachen gegebenen Vorschriften hat man sich auch bey den übrigen, auf unbewegliche Sachen sich beziehenden, dinglichen Rechten zu verhalten\.
 
+\[ [🔗 Permalink](#-445-abgb--ausdehnung-dieser-vorschriften-auf-andere-dingliche-rechte) \]
+
 ### § 446 ABGB — Form und Vorsichten der Einverleibungen
 
 > Auf was Art und mit welchen Vorsichten überhaupt bey Einverleibung dinglicher Rechte vorzugehen sey, ist in den über die Einrichtung der Landtafeln und Grundbücher bestehenden besondern Anordnungen enthalten\.
+
+\[ [🔗 Permalink](#-446-abgb--form-und-vorsichten-der-einverleibungen) \]
 
 ## Sechstes Hauptstück.
 
@@ -4005,17 +4729,25 @@
 
 > Das Pfandrecht ist das dingliche Recht, welches dem Gläubiger eingeräumt wird, aus einer Sache, wenn die Verbindlichkeit zur bestimmten Zeit nicht erfüllt wird, die Befriedigung zu erlangen\. Die Sache, worauf dem Gläubiger dieses Recht zusteht, heißt überhaupt ein Pfand\.
 
+\[ [🔗 Permalink](#-447-abgb--begriff-von-dem-pfandrechte-und-pfande) \]
+
 ### § 448 ABGB — Arten des Pfandes
 
 > Als Pfand kann jede Sache dienen, die im Verkehre steht\. Ist sie beweglich, so wird sie Handpfand, oder ein Pfand in enger Bedeutung genannt; ist sie unbeweglich, so heißt sie eine Hypothek oder ein Grundpfand\.
+
+\[ [🔗 Permalink](#-448-abgb--arten-des-pfandes) \]
 
 ### § 449 ABGB — Titel des Pfandrechtes
 
 > Das Pfandrecht bezieht sich zwar immer auf eine gültige Forderung, aber nicht jede Forderung gibt einen Titel zur Erwerbung des Pfandrechtes\. Dieser gründet sich auf das Gesetz; auf einen richterlichen Ausspruch; auf einen Vertrag; oder den letzten Willen des Eigenthümers\.
 
+\[ [🔗 Permalink](#-449-abgb--titel-des-pfandrechtes) \]
+
 ### § 450 ABGB
 
 > Die Fälle, in welchen das Gesetz jemanden das Pfandrecht einräumt, sind am gehörigen Orte dieses Gesetzbuches und bey dem Verfahren in Concurs\-Fällen angegeben\. In wie fern das Gericht ein Pfandrecht einräumen könne, bestimmt die Gerichtsordnung\. Soll durch die Einwilligung des Schuldners oder eines Dritten, der seine Sache für ihn verhaftet, das Pfandrecht erworben werden; so dienen die Vorschriften von Verträgen und Vermächtnissen zur Richtschnur\.
+
+\[ [🔗 Permalink](#-450-abgb) \]
 
 ## Erwerbungsart des Pfandrechtes:
 
@@ -4025,21 +4757,31 @@
 
 > `(2)` Das Pfandrecht an bücherlich nicht eingetragenen Liegenschaften \(§ 434\) oder an Bauwerken \(§ 435\) wird durch die gerichtliche Hinterlegung einer beglaubigten Pfandbestellungsurkunde erworben\. Die Urkunde muß die genaue Angabe des Pfandgegenstandes und der Forderung mit einer ziffermäßig bestimmten Geldsumme, bei einer verzinslichen Forderung auch die Höhe der Zinsen; ferner die ausdrückliche Zustimmung des Verpfänders zu der gerichtlichen Hinterlegung enthalten\.
 
+\[ [🔗 Permalink](#-451-abgb--a-durch-körperliche-übergabe--b-durch-einverleibung-oder-gerichtliche-urkundenhinterlegung) \]
+
 ### § 452 ABGB — c) durch symbolische Uebergabe;
 
 > Bey Verpfändung derjenigen beweglichen Sachen, welche keine körperliche Uebergabe von Hand zu Hand zulassen, muß man sich, wie bey der Uebertragung des Eigenthumes \(§ 427\), solcher Zeichen bedienen, woraus jedermann die Verpfändung leicht erfahren kann\. Wer diese Vorsicht unterläßt, haftet für die nachtheiligen Folgen\.
+
+\[ [🔗 Permalink](#-452-abgb--c-durch-symbolische-uebergabe) \]
 
 ### § 453 ABGB — d) durch die Vormerkung
 
 > Findet die Einverleibung einer Forderung in die öffentlichen Bücher wegen Mangels gesetzmäßiger Förmlichkeit in der Urkunde nicht Statt; so kann sich der Gläubiger vormerken \(pränotiren\) lassen\. Durch diese Vormerkung erhält er ein bedingtes Pfandrecht, welches, wenn die Forderung auf die oben §§ 438 und 439 angeführte Art gerechtfertiget worden ist, von dem Zeitpuncte des nach gesetzlicher Ordnung eingereichten Vormerkungsgesuches in ein unbedingtes übergeht\.
 
+\[ [🔗 Permalink](#-453-abgb--d-durch-die-vormerkung) \]
+
 ### § 454 ABGB — Erwerbung eines Afterpfandes
 
 > Der Pfandinhaber kann sein Pfand, in so weit er ein Recht darauf hat, einem Dritten wieder verpfänden, und in so fern wird es zum Afterpfande, wenn zugleich Letzerer sich dasselbe übergeben, oder die Afterverpfändung auf das Pfandrecht in die öffentlichen Bücher eintragen läßt\.
 
+\[ [🔗 Permalink](#-454-abgb--erwerbung-eines-afterpfandes) \]
+
 ### § 455 ABGB
 
 > Wird der Eigenthümer von der weiteren Verpfändung benachrichtiget; so kann er seine Schuld nur mit Willen dessen, der das Afterpfand hat, dem Gläubiger abführen, oder er muß sie gerichtlich hinterlegen, sonst bleibt das Pfand dem Inhaber des Afterpfandes verhaftet\.
+
+\[ [🔗 Permalink](#-455-abgb) \]
 
 ### § 456 ABGB — Verpfändung einer fremden Sache
 
@@ -4047,9 +4789,13 @@
 
 > `(2)` Ist die Sache mit dem Recht eines Dritten belastet, so geht das Pfandrecht des rechtmäßigen und redlichen Pfandbesitzers diesem Recht vor, es sei denn, dass der Pfandbesitzer in Ansehung dieses Rechtes nicht redlich ist \(§ 368\)\.
 
+\[ [🔗 Permalink](#-456-abgb--verpfändung-einer-fremden-sache) \]
+
 ### § 457 ABGB — Objectiver Umfang des Pfandrechtes
 
 > Das Pfandrecht erstreckt sich auf alle zu dem freyen Eigenthume des Verpfänders gehörige Theile, auf Zuwachs und Zugehör des Pfandes, folglich auch auf die Früchte, in so lange sie noch nicht abgesondert oder bezogen sind\. Wenn also ein Schuldner einem Gläubiger sein Gut, und einem andern später die Früchte desselben verpfändet; so ist die spätere Verpfändung nur in Rücksicht auf die schon abgesonderten und bezogenen Früchte wirksam\.
+
+\[ [🔗 Permalink](#-457-abgb--objectiver-umfang-des-pfandrechtes) \]
 
 ## Rechte und Verbindlichkeiten des Pfandgläubigers:
 
@@ -4057,13 +4803,19 @@
 
 > Wenn der Werth eines Pfandes durch Verschulden des Pfandgebers, oder wegen eines erst offenbar gewordenen Mangels der Sache zur Bedeckung der Schuld nicht mehr zureichend gefunden wird; so ist der Gläubiger berechtigt, von dem Pfandgeber ein anderes angemessenes Pfand zu fordern\.
 
+\[ [🔗 Permalink](#-458-abgb--a-bey-entdeckung-eines-unzureichenden-pfandes) \]
+
 ### § 459 ABGB — b) vor dem Verfalle;
 
 > Ohne Bewilligung des Pfandgebers darf der Gläubiger das Pfandstück nicht benützen; er muß es vielmehr genau bewahren, und, wenn es durch sein Verschulden in Verlust geräth, dafür haften\. Geht es ohne sein Verschulden verloren, so verliert er deßwegen seine Forderung nicht\.
 
+\[ [🔗 Permalink](#-459-abgb--b-vor-dem-verfalle) \]
+
 ### § 460 ABGB
 
 > Hat der Gläubiger das Pfand weiter verpfändet; so haftet er selbst für einen solchen Zufall, wodurch das Pfand bey ihm nicht zu Grunde gegangen oder verschlimmert worden wäre\.
+
+\[ [🔗 Permalink](#-460-abgb) \]
 
 ### § 460a ABGB
 
@@ -4071,29 +4823,43 @@
 
 > `(2)` Der Erlös tritt an die Stelle des Pfandes\. Auf Verlangen des Pfandgebers ist der Erlös zu hinterlegen\.
 
+\[ [🔗 Permalink](#-460a-abgb) \]
+
 ### § 461 ABGB — c) nach dem Verfalle der Forderung;
 
 > Wird der Pfandgläubiger nach Verlauf der bestimmten Zeit nicht befriediget; so ist er befugt, die Feilbiethung des Pfandes gerichtlich zu verlangen\. Das Gericht hat dabey nach Vorschrift der Gerichtsordnung zu verfahren\.
+
+\[ [🔗 Permalink](#-461-abgb--c-nach-dem-verfalle-der-forderung) \]
 
 ### § 462 ABGB
 
 > Vor der Feilbiethung des Gutes ist jedem darauf eingetragenen Pfandgläubiger die Einlösung der Forderung, wegen welcher die Feilbiethung angesucht worden, zu gestatten\.
 
+\[ [🔗 Permalink](#-462-abgb) \]
+
 ### § 463 ABGB
 
 > Schuldner haben kein Recht, bey Versteigerung einer von ihnen verpfändeten Sache mitzubiethen\.
+
+\[ [🔗 Permalink](#-463-abgb) \]
 
 ### § 464 ABGB
 
 > Wird der Schuldbetrag aus dem Pfande nicht gelöset, so ersetzt der Schuldner das Fehlende; ihm fällt aber auch das zu, was über den Schuldbetrag gelöset wird\.
 
+\[ [🔗 Permalink](#-464-abgb) \]
+
 ### § 465 ABGB
 
 > In wie fern ein Pfandgläubiger sich an sein Pfand zu halten schuldig; oder, auf ein anderes Vermögen seines Schuldners zu greifen berechtigt sey, bestimmt die Gerichtsordnung\.
 
+\[ [🔗 Permalink](#-465-abgb) \]
+
 ### § 466 ABGB
 
 > Hat der Schuldner während der Verpfändungszeit das Eigenthum der verpfändeten Sache auf einen Andern übertragen; so steht dem Gläubiger frey, erst sein persönliches Recht gegen den Schuldner, und dann seine volle Befriedigung an der verpfändeten Sache zu suchen\.
+
+\[ [🔗 Permalink](#-466-abgb) \]
 
 ### § 466a ABGB — d) außergerichtliche Pfandverwertung
 
@@ -4102,6 +4868,8 @@
 > `(2)` Der Pfandgläubiger hat bei der Verwertung der Sache angemessen auf die Interessen des Pfandgebers Bedacht zu nehmen\.
 
 > `(3)` Der Pfandgläubiger und der Pfandgeber können abweichende Arten der außergerichtlichen Pfandverwertung vereinbaren\. Besondere Vorschriften über die außergerichtliche Verwertung von Sicherheiten bleiben unberührt\.
+
+\[ [🔗 Permalink](#-466a-abgb--d-außergerichtliche-pfandverwertung) \]
 
 ### § 466b ABGB
 
@@ -4112,6 +4880,8 @@
 > `(3)` Zeit und Ort der Versteigerung sind unter allgemeiner Bezeichnung des Pfandes öffentlich bekannt zu machen\. Der Pfandgeber und Dritte, denen Rechte am Pfand zustehen, sind hievon zu benachrichtigen\.
 
 > `(4)` Sachen mit einem Börsen\- oder Marktpreis dürfen zu diesem Preis vom Pfandgläubiger auch aus freier Hand verkauft werden\. Wertpapiere, die einen Börsen\- oder Marktpreis haben, sowie Sparurkunden dürfen nur aus freier Hand zu ihrem Preis oder Wert verkauft werden\.
+
+\[ [🔗 Permalink](#-466b-abgb) \]
 
 ### § 466c ABGB
 
@@ -4125,9 +4895,13 @@
 
 > `(5)` Wenn der Pfandgläubiger und der Pfandgeber eine abweichende Art der Pfandverwertung vereinbaren und am Pfand einem Dritten ein Recht zusteht, das durch die Verwertung erlischt, so bedarf die Vereinbarung zu ihrer Wirksamkeit der Zustimmung des Dritten\.
 
+\[ [🔗 Permalink](#-466c-abgb) \]
+
 ### § 466d ABGB
 
 > Wenn der Pfandgläubiger die Sache außergerichtlich als Pfand verwertet, genügt für die Redlichkeit des Erwerbers \(§§ 367 und 368\) der gute Glaube in die Befugnis des Pfandgläubigers, über die Sache zu verfügen\.
+
+\[ [🔗 Permalink](#-466d-abgb) \]
 
 ### § 466e ABGB
 
@@ -4135,31 +4909,45 @@
 
 > `(2)` Ist die Forderung aus dem verpfändeten Papier bereits fällig, so kann der Pfandgläubiger diese auch dann einziehen, wenn die gesicherte Forderung noch nicht fällig ist\. In diesem Fall erwirbt der Pfandgläubiger ein Pfandrecht an der erhaltenen Leistung\. Besteht die Leistung in Geld, so hat der Pfandgläubiger den erhaltenen Betrag nach den Bestimmungen über die Anlegung von Mündelgeld zu veranlagen\.
 
+\[ [🔗 Permalink](#-466e-abgb) \]
+
 ### § 467 ABGB — Erlöschung des Pfandrechtes
 
 > Wenn die verpfändete Sache zerstört wird; wenn sich der Gläubiger seines Rechtes darauf gesetzmäßig begibt; oder, wenn er sie dem Schuldner ohne Vorbehalt zurückstellt; so erlischt zwar das Pfandrecht, aber die Schuldforderung besteht noch\.
+
+\[ [🔗 Permalink](#-467-abgb--erlöschung-des-pfandrechtes) \]
 
 ### § 468 ABGB
 
 > Das Pfandrecht erlischt ferner mit der Zeit, auf welche es eingeschränkt war, folglich auch mit dem zeitlichen Rechte des Pfandgebers auf die verpfändete Sache, wenn anders dieser Umstand dem Gläubiger bekannt war, oder aus den öffentlichen Büchern bekannt seyn konnte\.
 
+\[ [🔗 Permalink](#-468-abgb) \]
+
 ### § 469 ABGB
 
 > Durch Tilgung der Schuld hört das Pfandrecht auf\. Der Pfandgeber ist aber die Schuld nur gegen dem zu tilgen verbunden, daß ihm das Pfand zugleich zurückgestellt werde\. Zur Aufhebung einer Hypothek ist die Tilgung der Schuld allein nicht hinreichend\. Ein Hypothekargut bleibt so lange verhaftet, bis die Schuld aus den öffentlichen Büchern gelöscht ist\. Bis dahin kann der Eigentümer des Gutes auf Grund einer Quittung oder einer anderen, das Erlöschen der Pfandschuld dartuenden Urkunde das Pfandrecht auf eine neue Forderung übertragen, die den Betrag der eingetragenen Pfandforderung nicht übersteigt\.
+
+\[ [🔗 Permalink](#-469-abgb) \]
 
 ### § 469a ABGB
 
 > Bei Bestellung des Pfandrechtes kann auf dieses Verfügungsrecht nicht verzichtet werden\. Ist jedoch im öffentlichen Buch ein der Hypothek im Rang nachfolgendes oder ihr gleichrangiges, rechtsgeschäftlich bestelltes Recht eingetragen, so kann der Eigentümer über die Hypothek nur dann verfügen, wenn er sich das Verfügungsrecht gegenüber dem Buchberechtigten vertraglich vorbehalten hat und dieser Vorbehalt im öffentlichen Buch bei der Hypothek angemerkt ist\.
 
+\[ [🔗 Permalink](#-469a-abgb) \]
+
 ### § 470 ABGB
 
 > Wird nach Tilgung der Schuld \(§ 469\) oder eingetretener Vereinigung \(§ 1446\), bevor das Pfandrecht bücherlich gelöscht oder die Liegenschaft oder das Pfandrecht übertragen worden ist, das Hypothekargut zwangsweise versteigert oder dessen Zwangsverwaltung bewilligt, so ist bei Verteilung des Erlöses auf dieses Pfandrecht keine Rücksicht zu nehmen\. Nur insoweit die durch das Pfandrecht gesicherte Forderung gegen einen Dritten noch fortbesteht oder dem Eigentümer der Ersatz für deren Tilgung gebührt \(§ 1358\), wird der darauf entfallende Teil dem Eigentümer zugewiesen\.
+
+\[ [🔗 Permalink](#-470-abgb) \]
 
 ### § 471 ABGB — Von dem Retentions-Rechte
 
 > `(1)` Wer zur Herausgabe einer Sache verpflichtet ist, kann sie zur Sicherung seiner fälligen Forderungen wegen des für die Sache gemachten Aufwandes oder des durch die Sache ihm verursachten Schadens mit der Wirkung zurückbehalten, daß er zur Herausgabe nur gegen die Zug um Zug zu bewirkende Gegenleistung verurteilt werden kann\.
 
 > `(2)` Die Ausübung des Zurückbehaltungsrechtes kann durch Sicherheitsleistung abgewendet werden; Sicherheitsleistung durch Bürgen ist ausgeschlossen\.
+
+\[ [🔗 Permalink](#-471-abgb--von-dem-retentions-rechte) \]
 
 ## Siebentes Hauptstück
 
@@ -4169,13 +4957,19 @@
 
 > Durch das Recht der Dienstbarkeit wird ein Eigenthümer verbunden, zum Vortheile eines Andern in Rücksicht seiner Sache etwas zu dulden oder zu unterlassen\. Es ist ein dingliches, gegen jeden Besitzer der dienstbaren Sache wirksames Recht\.
 
+\[ [🔗 Permalink](#-472-abgb--begriff-des-rechtes-der-dienstbarkeit) \]
+
 ### § 473 ABGB — Eintheilung der Dienstbarkeiten in Grunddienstbarkeiten und persönliche;
 
 > Wird das Recht der Dienstbarkeit mit dem Besitze eines Grundstückes zu dessen vortheilhafteren oder bequemeren Benützung verknüpft; so entsteht eine Grunddienstbarkeit; außer dem ist die Dienstbarkeit persönlich\.
 
+\[ [🔗 Permalink](#-473-abgb--eintheilung-der-dienstbarkeiten-in-grunddienstbarkeiten-und-persönliche) \]
+
 ### § 474 ABGB — in Feld- und Haus-Servituten
 
 > Grunddienstbarkeiten setzen zwey Grundbesitzer voraus, deren Einem als Verpflichteten das dienstbare; dem Andern als Berechtigten das herrschende Gut gehört\. Das herrschende Grundstück ist entweder zur Landwirthschaft oder zu einem andern Gebrauche bestimmt; daher unterscheidet man auch die Feld\- und Haus\-Servituten\.
+
+\[ [🔗 Permalink](#-474-abgb--in-feld--und-haus-servituten) \]
 
 ## Gewöhnlichere Arten:
 
@@ -4199,6 +4993,8 @@
 >
 > Durch diese und ähnliche Haus\-Servituten wird ein Hausbesitzer befugt, etwas auf dem Grunde seines Nachbars vorzunehmen, was dieser dulden muß\.
 
+\[ [🔗 Permalink](#-475-abgb--a-der-haus-servituten) \]
+
 ### § 476 ABGB
 
 > Durch andere Haus\-Servituten wird der Besitzer des dienstbaren Grundes verpflichtet, etwas zu unterlassen, was ihm sonst zu thun frey stand\. Dergleichen sind:
@@ -4212,6 +5008,8 @@
 > 11\) Oder Aussicht nicht zu benehmen;
 >
 > 12\) Die Dachtraufe seines Hauses von dem Grunde des Nachbars, dem sie zur Bewässerung seines Gartens oder zur Füllung seiner Cisterne, oder auf eine andere Art nützlich seyn kann, nicht abzuleiten\.
+
+\[ [🔗 Permalink](#-476-abgb) \]
 
 ### § 477 ABGB — b) der Feld-Servituten
 
@@ -4229,17 +5027,25 @@
 >
 > 6\) Steine zu brechen, Sand zu graben, Kalk zu brennen\.
 
+\[ [🔗 Permalink](#-477-abgb--b-der-feld-servituten) \]
+
 ### § 478 ABGB — Arten der persönlichen Dienstbarkeiten
 
 > Die persönlichen Servituten sind: der nöthige Gebrauch einer Sache; die Fruchtnießung; und die Wohnung\.
+
+\[ [🔗 Permalink](#-478-abgb--arten-der-persönlichen-dienstbarkeiten) \]
 
 ### § 479 ABGB — Unregelmäßige und Schein-Servituten
 
 > Es können aber auch Dienstbarkeiten, welche an sich Grunddienstbarkeiten sind, der Person allein; oder, es können Begünstigungen, die ordentlicher Weise Servituten sind, nur bloß auf Widerrufen zugestanden werden\. Die Abweichungen von der Natur einer Servitut werden jedoch nicht vermuthet; wer sie behauptet, dem liegt der Beweis ob\.
 
+\[ [🔗 Permalink](#-479-abgb--unregelmäßige-und-schein-servituten) \]
+
 ### § 480 ABGB — Erwerbung des Rechtes der Dienstbarkeit. Titel zur Erwerbung
 
 > Der Titel zu einer Servitut ist auf einem Vertrage; auf einer letzten Willenserklärung; auf einem bey der Theilung gemeinschaftlicher Grundstücke erfolgten Rechtsspruche; oder endlich, auf Verjährung gegründet\.
+
+\[ [🔗 Permalink](#-480-abgb--erwerbung-des-rechtes-der-dienstbarkeit-titel-zur-erwerbung) \]
 
 ### § 481 ABGB — Erwerbungsart
 
@@ -4247,75 +5053,111 @@
 
 > `(2)` An bücherlich nicht eingetragenen Liegenschaften \(§ 434\) oder an Bauwerken \(§ 435\) wird das dingliche Recht durch die gerichtliche Hinterlegung einer über die Einräumung der Dienstbarkeit errichteten beglaubigten Urkunde; auf andere Sachen aber durch die oben \(§§ 426 bis 428\) angegebenen Arten der Übergabe erworben\.
 
+\[ [🔗 Permalink](#-481-abgb--erwerbungsart) \]
+
 ## Rechtsverhältnis bey den Dienstbarkeiten.
 
 ### § 482 ABGB — Allgemeine Vorschriften über das Recht der Dienstbarkeit
 
 > Alle Servituten kommen darin überein, daß der Besitzer der dienstbaren Sache in der Regel nicht verbunden ist, etwas zu thun; sondern nur einem Andern die Ausübung eines Rechtes zu gestatten, oder das zu unterlassen, was er als Eigenthümer sonst zu thun berechtiget wäre\.
 
+\[ [🔗 Permalink](#-482-abgb--allgemeine-vorschriften-über-das-recht-der-dienstbarkeit) \]
+
 ### § 483 ABGB
 
 > Daher muß auch der Aufwand zur Erhaltung und Herstellung der Sache, welche zur Dienstbarkeit bestimmt ist, in der Regel von dem Berechtigten getragen werden\. Wenn aber diese Sache auch von dem Verpflichteten benützet wird; so muß er verhältnißmäßig zu dem Aufwande beytragen, und nur durch die Abtretung derselben an den Berechtigten kann er sich, auch ohne dessen Beystimmung, von dem Beytrage befreyen\.
+
+\[ [🔗 Permalink](#-483-abgb) \]
 
 ### § 484 ABGB
 
 > Der Besitzer des herrschenden Gutes kann zwar sein Recht auf die ihm gefällige Art ausüben; doch dürfen Servituten nicht erweitert, sie müssen vielmehr, in so weit es ihre Natur und der Zweck der Bestellung gestattet, eingeschränkt werden\.
 
+\[ [🔗 Permalink](#-484-abgb) \]
+
 ### § 485 ABGB
 
 > Keine Servitut läßt sich eigenmächtig von der dienstbaren Sache absondern, noch auf eine andere Sache oder Person übertragen\. Auch wird jede Servitut insofern für unteilbar gehalten, als das auf dem Grundstücke haftende Recht durch Vergrößerung, Verkleinerung oder Zerstücklung desselben, abgesehen von dem im § 847 bezeichneten Falle, weder verändert noch geteilt werden kann\.
+
+\[ [🔗 Permalink](#-485-abgb) \]
 
 ### § 486 ABGB
 
 > Ein Grundstück kann mehrern Personen zugleich dienstbar seyn, wenn anders die ältern Rechte eines Dritten nicht darunter leiden\.
 
+\[ [🔗 Permalink](#-486-abgb) \]
+
 ### § 487 ABGB — Anwendung auf die Grunddienstbarkeiten: insbesondere auf das Recht, eine Last, einen Balken auf fremdem Gebäude zu haben oder den Rauch durchzuführen
 
 > Nach den hier aufgestellten Grundsätzen sind die Rechtsverhältnisse bey den besondern Arten der Servituten zu bestimmen\. Wer also die Last des benachbarten Gebäudes zu tragen; die Einfügung des fremden Balkens an seiner Wand; oder, den Durchzug des fremden Rauches in seinem Schorsteine zu dulden hat; der muß verhältnißmäßig zur Erhaltung der dazu bestimmten Mauer, Säule, Wand oder des Schorsteines beytragen\. Es kann ihm aber nicht zugemuthet werden, daß er das herrschende Gut unterstützen oder den Schorstein des Nachbars ausbessern lasse\.
+
+\[ [🔗 Permalink](#-487-abgb--anwendung-auf-die-grunddienstbarkeiten-insbesondere-auf-das-recht-eine-last-einen-balken-auf-fremdem-gebäude-zu-haben-oder-den-rauch-durchzuführen) \]
 
 ### § 488 ABGB — Fensterrecht
 
 > Das Fensterrecht gibt nur auf Licht und Luft Anspruch; die Aussicht muß besonders bewilligt werden\. Wer kein Recht zur Aussicht hat, kann angehalten werden, das Fenster zu vergittern\. Mit dem Fensterrechte ist die Schuldigkeit verbunden, die Oeffnung zu verwahren; wer diese Verwahrung vernachlässiget, haftet für den daraus entstehenden Schaden\.
 
+\[ [🔗 Permalink](#-488-abgb--fensterrecht) \]
+
 ### § 489 ABGB — Recht der Dachtraufe
 
 > Wer das Recht der Dachtraufe besitzt, kann das Regenwasser auf das fremde Dach frey oder durch Rinnen abfließen lassen; er kann auch sein Dach erhöhen; doch muß er solche Vorkehrungen treffen, daß dadurch die Dienstbarkeit nicht lästiger werde\. Eben so muß er häufig gefallenen Schnee zeitig hinwegräumen, wie auch die zum Abflusse bestimmten Rinnen unterhalten\.
+
+\[ [🔗 Permalink](#-489-abgb--recht-der-dachtraufe) \]
 
 ### § 490 ABGB — Recht der Ableitung des Regenwassers
 
 > Wer das Recht hat, das Regenwasser von dem benachbarten Dache auf seinen Grund zu leiten, hat die Obliegenheit, für Rinnen, Wasserkästen und andere dazu gehörige Anstalten die Auslagen allein zu bestreiten\.
 
+\[ [🔗 Permalink](#-490-abgb--recht-der-ableitung-des-regenwassers) \]
+
 ### § 491 ABGB
 
 > Erfordern die abzuführenden Flüssigkeiten Gräben und Canäle; so muß sie der Eigenthümer des herrschenden Grundes errichten; er muß sie auch ordentlich decken und reinigen, und dadurch die Last des dienstbaren Grundes erleichtern\.
+
+\[ [🔗 Permalink](#-491-abgb) \]
 
 ### § 492 ABGB — Recht des Fußsteiges, Viehtriebes und Fahrweges
 
 > Das Recht des Fußsteiges begreift das Recht in sich, auf diesem Steige zu gehen, sich von Menschen tragen, oder andere Menschen zu sich kommen zu lassen\. Mit dem Viehtriebe ist das Recht, einen Schiebkarren zu gebrauchen; und mit dem Fahrwege das Recht, mit Einem oder mehreren Zügen zu fahren, verbunden\.
 
+\[ [🔗 Permalink](#-492-abgb--recht-des-fußsteiges-viehtriebes-und-fahrweges) \]
+
 ### § 493 ABGB
 
 > Hingegen kann, ohne besondere Bewilligung, das Recht zu gehen, nicht auf das Recht, zu reiten, oder sich durch Thiere tragen zu lassen; weder das Recht des Viehtriebes auf das Recht, schwere Lasten über den dienstbaren Grund zu schleifen; noch das Recht zu fahren, auf das Recht, frey gelassenes Vieh darüber zu treiben, ausgedehnet werden\.
+
+\[ [🔗 Permalink](#-493-abgb) \]
 
 ### § 494 ABGB
 
 > Zur Erhaltung des Weges, der Brücken und Stege tragen verhältnißmäßig alle Personen oder Grundbesitzer, denen der Gebrauch derselben zusteht, folglich auch der Besitzer des dienstbaren Grundes, so weit bey, als er davon Nutzen zieht\.
 
+\[ [🔗 Permalink](#-494-abgb) \]
+
 ### § 495 ABGB — Raum hierzu
 
 > Der Raum für diese drey Servituten muß dem nöthigen Gebrauche und den Umständen des Ortes angemessen seyn\. Werden Wege und Steige durch Ueberschwemmung oder durch einen andern Zufall unbrauchbar; so muß, bis zu der Herstellung in den vorigen Stand, wenn nicht schon die politische Behörde eine Vorkehrung getroffen hat, ein neuer Raum angewiesen werden\.
+
+\[ [🔗 Permalink](#-495-abgb--raum-hierzu) \]
 
 ### § 496 ABGB — Recht, Wasser zu schöpfen
 
 > Mit dem Rechte, fremdes Wasser zu schöpfen, wird auch der Zugang zu demselben gestattet\.
 
+\[ [🔗 Permalink](#-496-abgb--recht-wasser-zu-schöpfen) \]
+
 ### § 497 ABGB — Recht der Wasserleitung
 
 > Wer das Recht hat, Wasser von fremdem Grunde auf den seinigen; oder von seinem Grunde auf fremden zu leiten, ist auch berechtigt, die dazu nöthigen Röhren, Rinnen und Schleußen auf eigene Kosten anzulegen\. Das nicht zu überschreitende Maß dieser Anlagen wird durch das Bedürfniß des herrschenden Grundes festgesetzt\.
 
+\[ [🔗 Permalink](#-497-abgb--recht-der-wasserleitung) \]
+
 ### § 498 ABGB — Weiderecht
 
 > Ist bey Erwerbung des Weiderechtes die Gattung und die Anzahl des Triebviehes; ferner, die Zeit und das Maß des Genusses nicht bestimmt worden; so ist der ruhige dreyßigjährige Besitz zu schützen\. In zweifelhaften Fällen dienen folgende Vorschriften zur Richtschnur\.
+
+\[ [🔗 Permalink](#-498-abgb--weiderecht) \]
 
 ## Gesetzliche Bestimmung:
 
@@ -4323,21 +5165,31 @@
 
 > Das Weiderecht erstrecket sich, in so weit die politischen, und im Forstwesen gegebenen Verordnungen nicht entgegenstehen, auf jede Gattung von Zug\-, Rind\- und Schafvieh, aber nicht auf Schweine und Federvieh; eben so wenig in waldigen Gegenden auf Ziegen\. Unreines, ungesundes und fremdes Vieh ist stets von der Weide ausgeschlossen\.
 
+\[ [🔗 Permalink](#-499-abgb--a-über-die-gattung-des-triebviehes) \]
+
 ### § 500 ABGB — b) dessen Anzahl;
 
 > Hat die Anzahl des Triebviehes während der letzten dreyßig Jahre abgewechselt; so muß aus dem Triebe der drey ersten Jahre die Mittelzahl angenommen werden\. Erhellet auch diese nicht; so ist theils auf den Umfang, theils auf die Beschaffenheit der Weide billige Rücksicht zu nehmen, und dem Berechtigten wenigstens nicht gestattet, daß er mehr Vieh auf der fremden Weide halte, als er mit dem auf dem herrschenden Grunde erzeugten Futter durchwintern kann\. Säugevieh wird nicht zur bestimmten Anzahl gerechnet\.
+
+\[ [🔗 Permalink](#-500-abgb--b-dessen-anzahl) \]
 
 ### § 501 ABGB — c) Triftzeit;
 
 > Die Triftzeit wird zwar überhaupt durch den in jeder Feldmarke eingeführten unangefochtenen Gebrauch bestimmt: allein in keinem Falle darf der vermöge politischer Bestimmungen geordnete Wirthschaftsbetrieb durch die Behüthung verhindert, oder erschweret werden\.
 
+\[ [🔗 Permalink](#-501-abgb--c-triftzeit) \]
+
 ### § 502 ABGB — d) Maß des Genusses
 
 > Der Genuß des Weiderechtes erstreckt sich auf keine andere Benutzung\. Der Berechtigte darf weder Gras mähen, noch in der Regel den Eigenthümer des Grundstückes von der Mitweide ausschließen, am wenigsten aber die Substanz der Weide verletzen\. Wenn ein Schade zu befürchten ist, muß er sein Vieh von einem Hirten hüthen lassen\.
 
+\[ [🔗 Permalink](#-502-abgb--d-maß-des-genusses) \]
+
 ### § 503 ABGB — Anwendung dieser Bestimmungen auf andere Servituten
 
 > Was bisher in Rücksicht auf das Weiderecht vorgeschrieben worden, ist verhältnißmäßig auch auf die Rechte des Thierfanges, des Holzschlages, des Steinbrechens und die übrigen Servituten anzuwenden\. Glaubt jemand diese Rechte auf das Miteigenthum gründen zu können; so sind die darüber entstehenden Streitigkeiten nach den, in dem Hauptstücke von der Gemeinschaft des Eigenthumes, enthaltenen Grundsätzen zu entscheiden\.
+
+\[ [🔗 Permalink](#-503-abgb--anwendung-dieser-bestimmungen-auf-andere-servituten) \]
 
 ## Persönliche Dienstbarkeiten; insbesondere:
 
@@ -4345,33 +5197,49 @@
 
 > Die Ausübung persönlicher Servituten wird, wenn nichts anderes verabredet worden ist, nach folgenden Grundsätzen bestimmt: Die Servitut des Gebrauches besteht darin, daß jemand befugt ist, eine fremde Sache, ohne Verletzung der Substanz, bloß zu seinem Bedürfnisse zu benützen\.
 
+\[ [🔗 Permalink](#-504-abgb--1-das-recht-des-gebrauches) \]
+
 ### § 505 ABGB — Bestimmung in Rücksicht der Nutzungen;
 
 > Wer also das Gebrauchsrecht einer Sache hat, der darf, ohne Rücksicht auf sein übriges Vermögen, den seinem Stande, seinem Gewerbe, und seinem Hauswesen angemessenen Nutzen davon ziehen\.
+
+\[ [🔗 Permalink](#-505-abgb--bestimmung-in-rücksicht-der-nutzungen) \]
 
 ### § 506 ABGB
 
 > Das Bedürfniß ist nach dem Zeitpuncte der Bewilligung des Gebrauches zu bestimmen\. Nachfolgende Veränderungen in dem Stande oder Gewerbe des Berechtigten geben keinen Anspruch auf einen ausgedehnteren Gebrauch\.
 
+\[ [🔗 Permalink](#-506-abgb) \]
+
 ### § 507 ABGB — der Substanz;
 
 > Der Berechtigte darf die Substanz der ihm zum Gebrauche bewilligten Sache nicht verändern; er darf auch das Recht an keinen andern übertragen\.
+
+\[ [🔗 Permalink](#-507-abgb--der-substanz) \]
 
 ### § 508 ABGB — und der Lasten;
 
 > Alle Benützungen, die sich ohne Störung des Gebrauchsberechtigten aus der Sache schöpfen lassen, kommen dem Eigenthümer zu Statten\. Dieser ist aber verbunden, alle ordentliche und außerordentliche, auf der Sache haftende Lasten zu tragen, und sie auf seine Kosten in gutem Stande zu erhalten\. Nur wenn die Kosten denjenigen Nutzen übersteigen, der dem Eigenthümer übrig bleibt, muß der Berechtigte den Ueberschuß tragen, oder vom Gebrauche abstehen\.
 
+\[ [🔗 Permalink](#-508-abgb--und-der-lasten) \]
+
 ### § 509 ABGB — 2) der Fruchtnießung
 
 > Die Fruchtnießung ist das Recht, eine fremde Sache, mit Schonung der Substanz, ohne alle Einschränkung zu genießen\.
+
+\[ [🔗 Permalink](#-509-abgb--2-der-fruchtnießung) \]
 
 ### § 510 ABGB — In wie fern sie sich auf verbrauchbare Sachen erstrecken könne
 
 > Verbrauchbare Sachen sind an sich selbst kein Gegenstand des Gebrauches oder der Fruchtnießung, sondern nur ihr Werth\. Mit dem baren Gelde kann der Berechtigte nach Belieben verfügen; Wird aber ein bereits anliegendes Capital zum Fruchtgenusse oder Gebrauche bewilliget; so kann der Berechtigte nur die Zinsen fordern\.
 
+\[ [🔗 Permalink](#-510-abgb--in-wie-fern-sie-sich-auf-verbrauchbare-sachen-erstrecken-könne) \]
+
 ### § 511 ABGB — Rechte und Verbindlichkeiten des Fruchtnießers
 
 > Der Fruchtnießer hat ein Recht auf den vollen, sowohl gewöhnlichen als ungewöhnlichen, Ertrag; ihm gehört daher auch die mit Beobachtung der bestehenden Bergwerksordnung erhaltene reine Ausbeute von Bergwerksantheilen, und das forstmäßig geschlagene Holz\. Auf einen Schatz, welcher in dem zur Fruchtnießung bestimmten Grunde gefunden wird, hat er keinen Anspruch\.
+
+\[ [🔗 Permalink](#-511-abgb--rechte-und-verbindlichkeiten-des-fruchtnießers) \]
 
 ## Insbesondere:
 
@@ -4379,49 +5247,73 @@
 
 > Als ein reiner Ertrag kann aber nur das angesehen werden, was nach Abzug aller nöthigen Auslagen übrig bleibt\. Der Fruchtnießer übernimmt also alle Lasten, welche zur Zeit der bewilligten Fruchtnießung mit der dienstbaren Sache verbunden waren, mithin auch die Zinsen der darauf eingetragenen Capitalien\. Auf ihn fallen alle ordentliche und außerordentliche, von der Sache zu leistende Schuldigkeiten, in so fern sie aus den während der Dauer der Fruchtnießung gezogenen Nutzungen bestritten werden können; er trägt auch die Kosten, ohne welche die Früchte nicht erzielet werden\.
 
+\[ [🔗 Permalink](#-512-abgb--a-in-rücksicht-der-auf-der-sache-haftenden-lasten) \]
+
 ### § 513 ABGB — b) der Erhaltung der Sache;
 
 > Der Fruchtnießer ist verbunden, die dienstbare Sache als ein guter Haushälter in dem Stande, in welchem er sie übernommen hat, zu erhalten, und aus dem Ertrage die Ausbesserungen, Ergänzungen und Herstellungen zu besorgen\. Wird dessen ungeachtet der Werth der dienstbaren Sache bloß durch den rechtmäßigen Genuß ohne Verschulden des Fruchtnießers verringert; so ist er dafür nicht verantwortlich\.
+
+\[ [🔗 Permalink](#-513-abgb--b-der-erhaltung-der-sache) \]
 
 ### § 514 ABGB — c) der Bauführungen;
 
 > Wenn der Eigenthümer Bauführungen, die durch das Alter des Gebäudes, oder durch einen Zufall nothwenig gemacht werden, auf Anzeige des Fruchtnießers auf seine Kosten besorgt; ist ihm der Fruchtnießer, nach Maß der dadurch verbesserten Fruchtnießung, die Zinsen des verwendeten Capitals zu vergüten schuldig\.
 
+\[ [🔗 Permalink](#-514-abgb--c-der-bauführungen) \]
+
 ### § 515 ABGB
 
 > Kann oder will der Eigenthümer dazu sich nicht verstehen; so ist der Fruchtnießer berechtigt, entweder den Bau zu führen, und nach geendigter Fruchtnießung, gleich einem redlichen Besitzer, den Ersatz zu fordern; oder, für die durch Unterbleibung des Baues vermißte Fruchtnießung, eine angemessene Vergütung zu verlangen\.
+
+\[ [🔗 Permalink](#-515-abgb) \]
 
 ### § 516 ABGB
 
 > Bauführungen, welche nicht nothwendig, obgleich sonst zur Vermehrung des Ertrages gedeihlich sind, ist der Fruchtnießer nicht verbunden, ohne vollständige Entschädigung, zu gestatten\.
 
+\[ [🔗 Permalink](#-516-abgb) \]
+
 ### § 517 ABGB — d) der Meliorations-Kosten
 
 > Was der Fruchtnießer ohne Einwilligung des Eigenthümers zur Vermehrung fortdauernder Nutzungen verwendet hat, kann er zurücknehmen; eine Vergütung der aus der Verbesserung noch bestehenden Nutzungen aber kann er nur fordern, in so fern sie ein Geschäftsführer ohne Auftrag zu fordern berechtigt ist\.
+
+\[ [🔗 Permalink](#-517-abgb--d-der-meliorations-kosten) \]
 
 ### § 518 ABGB — Beweismittel darüber
 
 > Zur Erleichterung des Beweises der gegenseitigen Forderungen, sollen der Eigenthümer und der Fruchtnießer eine beglaubte Beschreibung aller dienstbaren Sachen aufnehmen lassen\. Ist sie unterlassen worden; so wird vermuthet, daß der Fruchtnießer die Sache sammt allen zur ordentlichen Benützung derselben erforderlichen Stücken in brauchbarem Zustande von mittlerer Beschaffenheit erhalten habe\.
 
+\[ [🔗 Permalink](#-518-abgb--beweismittel-darüber) \]
+
 ### § 519 ABGB — Zutheilung der Nutzungen bey Erlöschung der Fruchtnießung
 
 > Nach geendigter Fruchtnießung gehören die noch stehenden Früchte dem Eigenthümer; doch muß er die auf deren Erzielung verwendeten Kosten dem Fruchtnießer oder dessen Erben, gleich einem redlichen Besitzer, ersetzen\. Auf andere Nutzungen haben der Fruchtnießer oder dessen Erben den Anspruch nach Maß der Dauer der Fruchtnießung\.
+
+\[ [🔗 Permalink](#-519-abgb--zutheilung-der-nutzungen-bey-erlöschung-der-fruchtnießung) \]
 
 ### § 520 ABGB — In wie fern der Gebrauchsberechtigte oder der Fruchtnießer zur Sicherstellung verbunden sey
 
 > In der Regel kann der Eigenthümer von dem Gebrauchsberechtigten oder Fruchtnießer nur bey einer sich äußernden Gefahr die Sicherstellung der Substanz verlangen\. Wird sie nicht geleistet; so soll die Sache entweder dem Eigenthümer gegen eine billige Abfindung überlassen, oder nach Umständen in gerichtliche Verwaltung gegeben werden\.
 
+\[ [🔗 Permalink](#-520-abgb--in-wie-fern-der-gebrauchsberechtigte-oder-der-fruchtnießer-zur-sicherstellung-verbunden-sey) \]
+
 ### § 521 ABGB — 3) Dienstbarkeit der Wohnung
 
 > Die Servitut der Wohnung ist das Recht, die bewohnbaren Theile eines Hauses zu seinem Bedürfnisse zu benützen\. Sie ist also eine Servitut des Gebrauches von dem Wohngebäude\. Werden aber jemanden alle bewohnbare Theile des Hauses, mit Schonung der Substanz, ohne Einschränkung zu genießen überlassen; so ist es eine Fruchtnießung des Wohngebäudes\. Hiernach sind die oben gegebenen Vorschriften auf das rechtliche Verhältniß zwischen dem Berechtigten und dem Eigenthümer anzuwenden\.
+
+\[ [🔗 Permalink](#-521-abgb--3-dienstbarkeit-der-wohnung) \]
 
 ### § 522 ABGB
 
 > In jedem Falle behält der Eigenthümer das Recht, über alle Theile des Hauses, die nicht zur eigentlichen Wohnung gehören, zu verfügen; auch darf ihm die nöthige Aufsicht über sein Haus nicht erschweret werden\.
 
+\[ [🔗 Permalink](#-522-abgb) \]
+
 ### § 523 ABGB — Klagerecht in Rücksicht der Servituten
 
 > In Ansehung der Servituten findet ein doppeltes Klagerecht Statt\. Man kann gegen den Eigenthümer das Recht der Servitut behaupten; oder, der Eigenthümer kann sich über die Anmaßung einer Servitut beschweren\. Im ersten Falle muß der Kläger die Erwerbung der Servitut oder wenigstens den Besitz derselben als eines dinglichen Rechtes; im zweyten Falle muß er die Anmaßung der Servitut in seiner Sache beweisen\.
+
+\[ [🔗 Permalink](#-523-abgb--klagerecht-in-rücksicht-der-servituten) \]
 
 ## Erlöschung der Dienstbarkeiten.
 
@@ -4429,31 +5321,45 @@
 
 > Die Servituten erlöschen im Allgemeinen auf diejenigen Arten, wodurch nach dem dritten und vierten Hauptstücke des dritten Theiles Rechte und Verbindlichkeiten überhaupt aufgehoben werden\.
 
+\[ [🔗 Permalink](#-524-abgb--im-allgemeinen) \]
+
 ## Besondere Anordnung bey deren Erlöschung:
 
 ### § 525 ABGB — a) durch den Untergang des dienstbaren oder herrschenden Grundes;
 
 > Der Untergang des dienstbaren oder des herrschenden Grundes stellt zwar die Dienstbarkeit ein; sobald aber der Grund, oder das Gebäude wieder in den vorigen Stand gesetzt ist, erhält die Servitut wieder ihre vorige Kraft\.
 
+\[ [🔗 Permalink](#-525-abgb--a-durch-den-untergang-des-dienstbaren-oder-herrschenden-grundes) \]
+
 ### § 526 ABGB — b) durch Vereinigung;
 
 > Wenn das Eigenthum des dienstbaren und des herrschenden Grundes in Einer Person vereinigt wird, hört die Dienstbarkeit von selbst auf\. Wird aber in der Folge Einer dieser vereinigten Gründe wieder veräußert, ohne daß inzwischen in den öffentlichen Büchern die Dienstbarkeit gelöschet worden; so ist der neue Besitzer des herrschenden Grundes befugt, die Servitut auszuüben\.
+
+\[ [🔗 Permalink](#-526-abgb--b-durch-vereinigung) \]
 
 ### § 527 ABGB — c) durch Zeitverlauf
 
 > Hat das bloß zeitliche Recht desjenigen, der die Servitut bestellt hat, oder die Zeit, auf welche sie beschränkt worden ist, dem Servituts\-Inhaber aus öffentlichen Büchern, oder auf eine andere Art bekannt seyn können; so hört nach Verlauf dieser Zeit die Servitut von selbst auf\.
 
+\[ [🔗 Permalink](#-527-abgb--c-durch-zeitverlauf) \]
+
 ### § 528 ABGB
 
 > Eine Servitut, welche jemanden bis zur Zeit, da ein Dritter ein bestimmtes Alter erreicht, verliehen wird, erlischt erst zu der bestimmten Zeit, obschon der Dritte vor diesem Alter verstorben ist\.
+
+\[ [🔗 Permalink](#-528-abgb) \]
 
 ### § 529 ABGB — Erlöschung der persönlichen Servituten insbesondere
 
 > Persönliche Servituten hören mit dem Tode auf\. Werden sie ausdrücklich auf die Erben ausgedehnt; so sind im Zweifel nur die ersten gesetzlichen Erben darunter verstanden\. Das einer Familie verliehene Recht aber geht auf alle Mitglieder derselben über\. Die von einer Gemeinde oder einer andern moralischen Person erworbene persönliche Servitut dauert so lange, als die moralische Person besteht\.
 
+\[ [🔗 Permalink](#-529-abgb--erlöschung-der-persönlichen-servituten-insbesondere) \]
+
 ### § 530 ABGB — Unanwendbarkeit auf beständige Renten
 
 > Beständige jährliche Renten sind keine persönliche Servitut, und können also ihrer Natur nach auf alle Nachfolger übertragen werden\.
+
+\[ [🔗 Permalink](#-530-abgb--unanwendbarkeit-auf-beständige-renten) \]
 
 ## Achtes Hauptstück
 
@@ -4465,21 +5371,31 @@
 
 > Die Rechte und Verbindlichkeiten eines Verstorbenen bilden, soweit sie nicht höchstpersönlicher Art sind, dessen Verlassenschaft\.
 
+\[ [🔗 Permalink](#-531-abgb--verlassenschaft) \]
+
 ### § 532 ABGB — Erbrecht
 
 > Das Erbrecht ist das absolute Recht, die ganze Verlassenschaft oder einen bestimmten Teil davon zu erwerben\. Diejenige Person, der das Erbrecht gebührt, wird Erbe genannt\.
+
+\[ [🔗 Permalink](#-532-abgb--erbrecht) \]
 
 ### § 533 ABGB — Erbrechtstitel
 
 > Das Erbrecht gründet sich auf einen Erbvertrag, auf den letzten Willen des Verstorbenen oder auf das Gesetz\.
 
+\[ [🔗 Permalink](#-533-abgb--erbrechtstitel) \]
+
 ### § 534 ABGB — Mehrere Berufungsgründe
 
 > Die angeführten Erbrechtstitel können auch nebeneinander bestehen, sodass einem Erben ein bestimmter Teil der Verlassenschaft aus dem letzten Willen, einem anderen ein Teil aus dem Erbvertrag und einem dritten ein Teil aus dem Gesetz gebühren können\.
 
+\[ [🔗 Permalink](#-534-abgb--mehrere-berufungsgründe) \]
+
 ### § 535 ABGB — Unterschied zwischen Erbschaft und Vermächtnis
 
 > Wird einer Person nicht ein Erbteil, der sich auf die ganze Verlassenschaft bezieht, sondern eine bestimmte Sache, eine oder mehrere Sachen einer Gattung, ein Betrag oder ein Recht zugedacht, so ist das Zugedachte, auch wenn sein Wert einen erheblichen Teil der Verlassenschaft ausmacht, ein Vermächtnis\. Diejenige Person, der es hinterlassen wurde, ist nicht Erbe, sondern Vermächtnisnehmer\.
+
+\[ [🔗 Permalink](#-535-abgb--unterschied-zwischen-erbschaft-und-vermächtnis) \]
 
 ## II. Entstehung des Erbrechts
 
@@ -4489,23 +5405,33 @@
 
 > `(2)` Wenn ein möglicher Erbe vor dem Erbanfall verstirbt, erwirbt er kein Erbrecht; es kann daher auch nicht auf seine Erben übergehen\.
 
+\[ [🔗 Permalink](#-536-abgb--erbanfall) \]
+
 ### § 537 ABGB — Vererblichkeit des Erbrechts
 
 > `(1)` Wenn der Erbe den Verstorbenen überlebt hat, geht das Erbrecht auch vor Einantwortung der Erbschaft auf seine Erben \(Erbeserben\) über, es sei denn, dass der Verstorbene dies ausgeschlossen hat, die Erbschaft ausgeschlagen wurde oder das Erbrecht auf eine andere Art erloschen ist\.
 
 > `(2)` Die Erbeserben gehen Anwachsungsberechtigten \(§ 560\) jedenfalls und Ersatzerben \(§ 604\) dann vor, wenn der Erbe nach Abgabe seiner Erbantrittserklärung verstirbt\.
 
+\[ [🔗 Permalink](#-537-abgb--vererblichkeit-des-erbrechts) \]
+
 ### § 538 ABGB — Erbfähigkeit
 
 > Erbfähig ist, wer rechtsfähig und erbwürdig ist\.
+
+\[ [🔗 Permalink](#-538-abgb--erbfähigkeit) \]
 
 ### § 539 ABGB — Gründe für die Erbunwürdigkeit
 
 > Wer gegen den Verstorbenen oder die Verlassenschaft eine gerichtlich strafbare Handlung begangen hat, die nur vorsätzlich begangen werden kann und mit mehr als einjähriger Freiheitsstrafe bedroht ist, ist erbunwürdig, sofern der Verstorbene nicht zu erkennen gegeben hat, dass er ihm verziehen hat\.
 
+\[ [🔗 Permalink](#-539-abgb--gründe-für-die-erbunwürdigkeit) \]
+
 ### § 540 ABGB
 
 > Wer absichtlich die Verwirklichung des wahren letzten Willens des Verstorbenen vereitelt oder zu vereiteln versucht hat, etwa indem er ihn zur Erklärung des letzten Willens gezwungen oder arglistig verleitet, ihn an der Erklärung oder Änderung des letzten Willens gehindert oder einen bereits errichteten letzten Willen unterdrückt hat, ist erbunwürdig, sofern der Verstorbene nicht zu erkennen gegeben hat, dass er ihm verziehen hat\. Er haftet für jeden einem Dritten dadurch zugefügten Schaden\.
+
+\[ [🔗 Permalink](#-540-abgb) \]
 
 ### § 541 ABGB
 
@@ -4519,9 +5445,13 @@
 >
 > &nbsp; ist erbunwürdig, wenn der Verstorbene aufgrund seiner Testierunfähigkeit, aus Unkenntnis oder aus sonstigen Gründen nicht in der Lage war, ihn zu enterben, und er auch nicht zu erkennen gegeben hat, dass er ihm verziehen hat\.
 
+\[ [🔗 Permalink](#-541-abgb) \]
+
 ### § 542 ABGB — Eintrittsrecht bei Erbunwürdigkeit
 
 > Bei gesetzlicher Erbfolge treten die Nachkommen der erbunwürdigen Person an deren Stelle, auch wenn diese den Verstorbenen überlebt hat\.
+
+\[ [🔗 Permalink](#-542-abgb--eintrittsrecht-bei-erbunwürdigkeit) \]
 
 ### § 543 ABGB — Beurteilung der Erbfähigkeit
 
@@ -4529,31 +5459,45 @@
 
 > `(2)` Wer nach dem Erbanfall eine gerichtlich strafbare Handlung gegen die Verlassenschaft im Sinn des § 539 begeht oder die Verwirklichung des wahren letzten Willens des Verstorbenen vereitelt oder zu vereiteln versucht \(§ 540\), verliert nachträglich seine Erbfähigkeit\.
 
+\[ [🔗 Permalink](#-543-abgb--beurteilung-der-erbfähigkeit) \]
+
 ### § 546 ABGB — Verlassenschaft als juristische Person
 
 > Mit dem Tod setzt die Verlassenschaft als juristische Person die Rechtsposition des Verstorbenen fort\.
+
+\[ [🔗 Permalink](#-546-abgb--verlassenschaft-als-juristische-person) \]
 
 ### § 547 ABGB — Gesamtrechtsnachfolge
 
 > Mit der Einantwortung folgt der Erbe der Rechtsposition der Verlassenschaft nach; dasselbe gilt mit Übergabebeschluss für die Aneignung durch den Bund\.
 
+\[ [🔗 Permalink](#-547-abgb--gesamtrechtsnachfolge) \]
+
 ### § 548 ABGB — Verbindlichkeiten
 
 > Verbindlichkeiten, die der Verstorbene aus seinem Vermögen zu leisten gehabt hätte, übernimmt sein Erbe\. Geldstrafen gehen nicht auf den Erben über\.
+
+\[ [🔗 Permalink](#-548-abgb--verbindlichkeiten) \]
 
 ### § 549 ABGB — Begräbniskosten
 
 > Zu den auf einer Verlassenschaft haftenden Lasten gehören auch die Kosten für ein ortsübliches und den Lebensverhältnissen sowie dem Vermögen des Verstorbenen angemessenes Begräbnis\.
 
+\[ [🔗 Permalink](#-549-abgb--begräbniskosten) \]
+
 ### § 550 ABGB — Erbengemeinschaft
 
 > Mehrere Erben bilden in Ansehung ihres gemeinschaftlichen Erbrechts eine Erbengemeinschaft\. Der Anteil eines dieser Miterben richtet sich nach seiner Erbquote\. Im Übrigen sind die Bestimmungen des Fünfzehnten und Sechzehnten Hauptstücks entsprechend anzuwenden\.
+
+\[ [🔗 Permalink](#-550-abgb--erbengemeinschaft) \]
 
 ### § 551 ABGB — Erbverzicht
 
 > `(1)` Wer über sein Erbrecht gültig verfügen kann, kann auch durch Vertrag mit dem Verstorbenen im Voraus darauf verzichten\. Der Vertrag bedarf zu seiner Gültigkeit der Aufnahme eines Notariatsakts oder der Beurkundung durch gerichtliches Protokoll; die Aufhebung des Vertrags bedarf der Schriftform\.
 
 > `(2)` Soweit nichts anderes vereinbart ist, erstreckt sich ein solcher Verzicht auch auf den Pflichtteil und auf die Nachkommen\.
+
+\[ [🔗 Permalink](#-551-abgb--erbverzicht) \]
 
 ## Neuntes Hauptstück
 
@@ -4567,33 +5511,49 @@
 
 > `(2)` Wird über die Erbfolge verfügt, so liegt ein Testament vor\. Es können aber auch sonstige letztwillige Verfügungen getroffen werden, insbesondere über Vermächtnisse, Auflagen oder die Einsetzung von Testamentsvollstreckern\.
 
+\[ [🔗 Permalink](#-552-abgb--letztwillige-verfügung) \]
+
 ### § 553 ABGB — Auslegung letztwilliger Verfügungen
 
 > Wörter sind nach ihrer gewöhnlichen Bedeutung auszulegen, außer der Verstorbene hat mit gewissen Ausdrücken einen besonderen Sinn verbunden\. Maßgeblich ist der wahre Wille des Verstorbenen, der im Wortlaut der Verfügung zumindest angedeutet sein muss\. Die Auslegung soll so erfolgen, dass der vom Verstorbenen angestrebte Erfolg eintritt und dass die letztwillige Verfügung als solche zumindest teilweise aufrecht bleiben kann\. Die §§ 681 bis 683 sind anzuwenden\.
+
+\[ [🔗 Permalink](#-553-abgb--auslegung-letztwilliger-verfügungen) \]
 
 ### § 554 ABGB — Einsetzung eines einzigen Erben
 
 > Hat der Verstorbene nur eine Person unbestimmt, also ohne ihren Erbteil festzulegen, als Erben eingesetzt, so erhält sie die gesamte Verlassenschaft\. Hat er einer Person nur einen bestimmten Erbteil zugedacht, so fällt der übrige Teil an die gesetzlichen Erben\.
 
+\[ [🔗 Permalink](#-554-abgb--einsetzung-eines-einzigen-erben) \]
+
 ### § 555 ABGB — Einsetzung mehrerer Erben
 
 > Hat der Verstorbene mehrere Personen unbestimmt als Erben eingesetzt, so erben sie zu gleichen Teilen\.
+
+\[ [🔗 Permalink](#-555-abgb--einsetzung-mehrerer-erben) \]
 
 ### § 556 ABGB
 
 > Hat der Verstorbene mehrere Personen als Erben zu bestimmten, die Verlassenschaft nicht erschöpfenden Erbteilen eingesetzt, so fällt der übrige Teil an die gesetzlichen Erben\. Hat der Verstorbene die Erben zur gesamten Verlassenschaft berufen, so schließt dies im Zweifel das gesetzliche Erbrecht aus, selbst wenn der Verstorbene sich verrechnet oder die Erbstücke unvollständig aufgezählt hat\.
 
+\[ [🔗 Permalink](#-556-abgb) \]
+
 ### § 557 ABGB — Bestimmte und unbestimmte Einsetzung nebeneinander
 
 > Hat der Verstorbene nur den Anteil eines oder mehrerer Erben bestimmt, die Anteile der übrigen Erben aber nicht, so erhalten diese den Rest zu gleichen Teilen\.
+
+\[ [🔗 Permalink](#-557-abgb--bestimmte-und-unbestimmte-einsetzung-nebeneinander) \]
 
 ### § 558 ABGB
 
 > Wenn danach für einen unbestimmt eingesetzten Erben nichts übrig bleibt, muss für ihn von sämtlichen bestimmten Teilen der anderen Erben verhältnismäßig so viel abgezogen werden, dass er den gleichen Anteil erhält wie der am geringsten bedachte Erbe\.
 
+\[ [🔗 Permalink](#-558-abgb) \]
+
 ### § 559 ABGB — Erbeinsetzung mehrerer Personen zu unbestimmten Anteilen
 
 > Sind unter mehreren unbestimmt eingesetzten Erben auch solche Personen, die nach der gesetzlichen Erbfolge als eine Person anzusehen sind \(etwa die Kinder des einen Bruders gegenüber dem anderen Bruder des Verstorbenen\), so gelten sie im Zweifel auch bei testamentarischer Einsetzung als eine Person\. Hat der Verstorbene als Erben bestimmbare Personen eingesetzt, so wird vermutet, dass er sie nebeneinander zu einzelnen Anteilen als Erben einsetzen wollte\. Wird eine Mehrheit unbestimmbarer Personen eingesetzt, so ist sie im Zweifel als eine Person zu betrachten\.
+
+\[ [🔗 Permalink](#-559-abgb--erbeinsetzung-mehrerer-personen-zu-unbestimmten-anteilen) \]
 
 ### § 560 ABGB — Anwachsung
 
@@ -4601,9 +5561,13 @@
 
 > `(2)` Kommt es zu keiner Anwachsung, so fällt der frei gewordene Teil an die gesetzlichen Erben\.
 
+\[ [🔗 Permalink](#-560-abgb--anwachsung) \]
+
 ### § 563 ABGB
 
 > Wer den frei gewordenen Erbteil erhält, übernimmt auch die damit verknüpften Lasten, soweit sie nicht in höchstpersönlichen Verpflichtungen des eingesetzten Erben bestehen\.
+
+\[ [🔗 Permalink](#-563-abgb) \]
 
 ## II. Anforderungen an den letzten Willen
 
@@ -4611,45 +5575,67 @@
 
 > Man kann seinen letzten Willen nur selbst erklären, den Erben nur selbst einsetzen und diese Erklärungen nicht einer dritten Person überlassen\. Auch genügt die bloße Bejahung des Vorschlags einer dritten Person nicht\.
 
+\[ [🔗 Permalink](#-564-abgb--höchstpersönliche-willenserklärung) \]
+
 ### § 565 ABGB — Bestimmtheit und Mangelfreiheit
 
 > Der letzte Wille muss bestimmt, mit Überlegung, ernst sowie frei von Drohung, List und wesentlichem Irrtum erklärt werden\.
+
+\[ [🔗 Permalink](#-565-abgb--bestimmtheit-und-mangelfreiheit) \]
 
 ### § 566 ABGB — Testierfähigkeit
 
 > Testierfähig ist, wer die Bedeutung und die Folgen seiner letztwilligen Verfügung verstehen und sich entsprechend verhalten kann\.
 
+\[ [🔗 Permalink](#-566-abgb--testierfähigkeit) \]
+
 ### § 567 ABGB
 
 > Hat der Verstorbene seinen letzten Willen in einem die Testierfähigkeit ausschließenden Zustand erklärt, etwa unter dem Einfluss einer psychischen Krankheit oder im Rausch, so ist die letztwillige Verfügung ungültig\.
+
+\[ [🔗 Permalink](#-567-abgb) \]
 
 ### § 568 ABGB
 
 > Wer behauptet, dass ein sonst nach § 566 testierunfähiger Verstorbener bei Erklärung des letzten Willens testierfähig war \(lichter Augenblick\), hat dies zu beweisen\.
 
+\[ [🔗 Permalink](#-568-abgb) \]
+
 ### § 569 ABGB — Alter
 
 > Unmündige Personen sind testierunfähig\. Mündige Minderjährige können – ausgenommen im Notfall \(§ 584\) – nur mündlich vor Gericht oder Notar testieren\. Das Gericht oder der Notar hat sich davon zu überzeugen, dass die Erklärung des letzten Willens frei und überlegt erfolgt\. Die Erklärung des letzten Willens und das Ergebnis der Erhebungen sind in einem Protokoll festzuhalten\.
+
+\[ [🔗 Permalink](#-569-abgb--alter) \]
 
 ### § 570 ABGB — Wesentlicher Irrtum
 
 > Ein wesentlicher Irrtum des Verstorbenen macht die Anordnung ungültig\. Der Irrtum ist insbesondere wesentlich, wenn der Verstorbene die bedachte Person oder die zugewendete Sache verfehlt hat\.
 
+\[ [🔗 Permalink](#-570-abgb--wesentlicher-irrtum) \]
+
 ### § 571 ABGB — Falsche Bezeichnung
 
 > Wenn sich zeigt, dass der Verstorbene die bedachte Person oder die zugewendete Sache nur unrichtig benannt oder beschrieben hat, ist die Verfügung gültig\.
+
+\[ [🔗 Permalink](#-571-abgb--falsche-bezeichnung) \]
 
 ### § 572 ABGB — Motivirrtum
 
 > Auch wenn sich der vom Verstorbenen angegebene Beweggrund als falsch herausstellt, bleibt die Verfügung gültig, es sei denn, dass sein Wille einzig und allein auf diesem irrigen Beweggrund beruht hat\.
 
+\[ [🔗 Permalink](#-572-abgb--motivirrtum) \]
+
 ### § 575 ABGB — Zeitpunkt für die Beurteilung der Gültigkeit
 
 > Die Voraussetzungen der Gültigkeit einer letztwilligen Verfügung müssen bei deren Errichtung vorliegen\.
 
+\[ [🔗 Permalink](#-575-abgb--zeitpunkt-für-die-beurteilung-der-gültigkeit) \]
+
 ### § 576 ABGB
 
 > Eine anfänglich ungültige letztwillige Verfügung wird durch den späteren Wegfall des Hindernisses nicht gültig\. Wird in diesem Fall keine neue Verfügung getroffen, so tritt die gesetzliche Erbfolge ein\.
+
+\[ [🔗 Permalink](#-576-abgb) \]
 
 ## III. Form der letztwilligen Verfügung
 
@@ -4657,9 +5643,13 @@
 
 > Eine letztwillige Verfügung kann nach Maßgabe der folgenden Bestimmungen außergerichtlich oder gerichtlich, schriftlich oder mündlich und schriftlich mit oder ohne Zeugen errichtet werden\.
 
+\[ [🔗 Permalink](#-577-abgb--arten) \]
+
 ### § 578 ABGB — Eigenhändige Verfügung
 
 > Wer schriftlich ohne Zeugen letztwillig verfügen will, muss die Verfügung eigenhändig schreiben und eigenhändig mit seinem Namen unterschreiben\. Die Beisetzung von Ort und Datum der Errichtung ist zwar nicht notwendig, aber ratsam\.
+
+\[ [🔗 Permalink](#-578-abgb--eigenhändige-verfügung) \]
 
 ### § 579 ABGB — Fremdhändige Verfügung
 
@@ -4667,11 +5657,15 @@
 
 > `(2)` Die Zeugen, deren Identität aus der Urkunde hervorgehen muss, haben auf der Urkunde mit einem auf ihre Eigenschaft als Zeugen hinweisenden und eigenhändig geschriebenen Zusatz zu unterschreiben\. Den Inhalt der letztwilligen Verfügung müssen sie nicht kennen\.
 
+\[ [🔗 Permalink](#-579-abgb--fremdhändige-verfügung) \]
+
 ### § 580 ABGB
 
 > `(1)` Wenn der letztwillig Verfügende nicht schreiben kann, muss er statt der Unterschrift und des eigenhändigen Zusatzes sein Handzeichen in Gegenwart der in § 579 genannten Zeugen eigenhändig setzen und ausdrücklich vor ihnen erklären, dass die Urkunde sein letzter Wille ist\. Die Anführung des Namens des letztwillig Verfügenden durch einen Zeugen ist zwar nicht notwendig, aber ratsam\.
 
 > `(2)` Wer nicht lesen kann, muss sich die fremdhändige Verfügung von einem Zeugen in Gegenwart der beiden anderen Zeugen, die den Inhalt eingesehen haben, vorlesen lassen und bekräftigen, dass dieser seinem Willen entspricht\.
+
+\[ [🔗 Permalink](#-580-abgb) \]
 
 ### § 581 ABGB — Gerichtliche Verfügung
 
@@ -4681,15 +5675,21 @@
 
 > `(3)` Will der letztwillig Verfügende seinen letzten Willen mündlich erklären, so ist über die Erklärung ein Protokoll aufzunehmen und dieses versiegelt zu hinterlegen\.
 
+\[ [🔗 Permalink](#-581-abgb--gerichtliche-verfügung) \]
+
 ### § 582 ABGB
 
 > `(1)` Das Gericht, das die schriftliche oder mündliche Erklärung des letzten Willens aufnimmt, muss zumindest aus zwei Gerichtsbediensteten bestehen, wobei eine Person an diesem Gericht als Richter tätig sein muss\. Der zweite Gerichtsbedienstete kann durch zwei andere Zeugen ersetzt werden\.
 
 > `(2)` Im Notfall kann sich das Gericht zu der Person begeben, die eine letztwillige Verfügung errichten will, und seinen letzten Willen zu Protokoll nehmen\.
 
+\[ [🔗 Permalink](#-582-abgb) \]
+
 ### § 583 ABGB — Notarielle Verfügung
 
 > Eine letztwillige Verfügung kann weiters vor zwei Notaren oder vor einem Notar und zwei Zeugen schriftlich oder mündlich errichtet werden\. Die §§ 67 und 70 bis 75 Notariatsordnung sind anzuwenden\.
+
+\[ [🔗 Permalink](#-583-abgb--notarielle-verfügung) \]
 
 ### § 584 ABGB — Nottestament
 
@@ -4697,9 +5697,13 @@
 
 > `(2)` Ein so erklärter letzter Wille verliert drei Monate nach Wegfall der Gefahr seine Gültigkeit und gilt als nicht errichtet\. Im Zweifel ist damit auch der durch das Nottestament erfolgte Widerruf einer früheren letztwilligen Verfügung \(§§ 713 und 714\) aufgehoben\.
 
+\[ [🔗 Permalink](#-584-abgb--nottestament) \]
+
 ### § 585 ABGB — Verweisende Verfügung
 
 > Eine Verfügung des Verstorbenen durch Verweis auf einen Zettel oder auf eine andere Urkunde ist nur wirksam, wenn eine solche Urkunde alle Gültigkeitserfordernisse einer letztwilligen Verfügung erfüllt\. Sonst können derartige schriftliche Bemerkungen des Verstorbenen nur zur Auslegung seines Willens herangezogen werden\.
+
+\[ [🔗 Permalink](#-585-abgb--verweisende-verfügung) \]
 
 ### § 586 ABGB — Gemeinschaftliche letztwillige Verfügungen
 
@@ -4707,9 +5711,13 @@
 
 > `(2)` Allerdings können Ehegatten oder eingetragene Partner in einem Testament einander gegenseitig oder andere Personen als Erben einsetzen\. Ein solches Testament ist widerruflich\. Aus dem Widerruf der gegenseitigen Erbeinsetzung durch einen Teil kann auf den Widerruf dieser Erbeinsetzung durch den anderen geschlossen werden\.
 
+\[ [🔗 Permalink](#-586-abgb--gemeinschaftliche-letztwillige-verfügungen) \]
+
 ### § 587 ABGB — Zeugen
 
 > Unmündige Minderjährige, Personen, die auf Grund einer körperlichen oder geistigen Beeinträchtigung nicht fähig sind, entsprechend der jeweiligen Testamentsform einen letzten Willen zu bezeugen, sowie Personen, die die Sprache des letztwillig Verfügenden nicht verstehen, können nicht Zeugen letztwilliger Verfügungen sein\. Mündige Minderjährige können nur Zeugen eines Nottestaments sein\.
+
+\[ [🔗 Permalink](#-587-abgb--zeugen) \]
 
 ### § 588 ABGB
 
@@ -4717,21 +5725,31 @@
 
 > `(2)` Zeugnisunfähig sind auch gesetzliche Vertreter, vertretungsbefugte Organe, Gesellschafter, Machthaber und Dienstnehmer bedachter Personen oder rechtsfähiger Gesellschaften\.
 
+\[ [🔗 Permalink](#-588-abgb) \]
+
 ### § 589 ABGB
 
 > Die Bestimmungen über die Fähigkeit und Unbefangenheit der Zeugen sind auch auf die Gerichtsbediensteten und Notare anzuwenden, die den letzten Willen aufnehmen\.
+
+\[ [🔗 Permalink](#-589-abgb) \]
 
 ### § 590 ABGB — Ausgeschlossenheit des Verfassers
 
 > Der Verfasser einer nicht vom letztwillig Verfügenden handschriftlich geschriebenen Erklärung kann zugleich Zeuge sein, ist aber, wenn der Verfügende nicht lesen kann, vom Vorlesen des letzten Willens ausgeschlossen\.
 
+\[ [🔗 Permalink](#-590-abgb--ausgeschlossenheit-des-verfassers) \]
+
 ### § 591 ABGB
 
 > Für den bedachten Verfasser einer letztwilligen Verfügung und ihm nahestehende bedachte Personen oder Gesellschaften gilt § 588 entsprechend\.
 
+\[ [🔗 Permalink](#-591-abgb) \]
+
 ### § 601 ABGB — Formungültige letztwillige Verfügungen
 
 > Wurde bei Errichtung einer letztwilligen Verfügung eine zwingende Formvorschrift nicht eingehalten, so ist die letztwillige Verfügung ungültig\.
+
+\[ [🔗 Permalink](#-601-abgb--formungültige-letztwillige-verfügungen) \]
 
 ## IV. Vereinbarungen von Todes wegen
 
@@ -4739,9 +5757,13 @@
 
 > Erbverträge können nur zwischen Ehegatten, eingetragenen Partnern sowie Personen, die sich verlobt oder die eingetragene Partnerschaft versprochen haben, gültig geschlossen werden\. Die Vorschriften hierüber sind im Achtundzwanzigsten Hauptstück enthalten\.
 
+\[ [🔗 Permalink](#-602-abgb--erbverträge) \]
+
 ### § 603 ABGB — Schenkung auf den Todesfall
 
 > Eine Schenkung auf den Todesfall ist auch nach dem Tod des Geschenkgebers als Vertrag anzusehen, wenn er sich kein Widerrufsrecht vertraglich vorbehalten hat und der Vertrag als Notariatsakt aufgenommen wurde\. Die Bestimmungen des Achtzehnten Hauptstücks von Schenkungen und § 1253 sind anzuwenden\.
+
+\[ [🔗 Permalink](#-603-abgb--schenkung-auf-den-todesfall) \]
 
 ## Zehntes Hauptstück
 
@@ -4753,17 +5775,25 @@
 
 > `(2)` Ersatzerben gehen Anwachsungsberechtigten \(§ 560\) jedenfalls vor\.
 
+\[ [🔗 Permalink](#-604-abgb--ersatzerbschaft) \]
+
 ### § 605 ABGB — Vermutete Ersatzerbschaft
 
 > Es wird vermutet, dass der Verstorbene die Nachkommen eingesetzter Kinder zu Ersatzerben einsetzen wollte\.
+
+\[ [🔗 Permalink](#-605-abgb--vermutete-ersatzerbschaft) \]
 
 ### § 606 ABGB — Rechte und Pflichten des Ersatzerben
 
 > Die Rechte und Pflichten des Erben kommen auch dem an seine Stelle tretenden Ersatzerben zu, sofern sie nicht nach dem ausdrücklichen Willen des Verstorbenen oder nach den Umständen des Falles allein die Person des Erben betreffen\. Für einschränkende Bedingungen gilt § 702\.
 
+\[ [🔗 Permalink](#-606-abgb--rechte-und-pflichten-des-ersatzerben) \]
+
 ### § 607 ABGB — Gegenseitige Ersatzerbschaft
 
 > Sind allein Miterben gegenseitig zu Ersatzerben berufen, so wird vermutet, dass der Verstorbene die in der Einsetzung bestimmten Teile auch auf die Ersatzerbschaft ausdehnen wollte\. Ist aber in der Ersatzerbschaft außer den Miterben auch eine andere Person zum Ersatzerben berufen, so fällt der frei gewordene Erbteil allen zu gleichen Teilen zu\.
+
+\[ [🔗 Permalink](#-607-abgb--gegenseitige-ersatzerbschaft) \]
 
 ### § 608 ABGB — Nacherbschaft
 
@@ -4771,9 +5801,13 @@
 
 > `(2)` Hat der Verstorbene nichts anderes verfügt, so tritt der Nacherbfall mit dem Tod des Vorerben ein\.
 
+\[ [🔗 Permalink](#-608-abgb--nacherbschaft) \]
+
 ### § 609 ABGB — Nacherbschaft auf den Überrest
 
 > Eine Nacherbschaft auf den Überrest liegt vor, wenn der Nacherbe nach dem Willen des Verstorbenen nur das erhalten soll, was beim Ableben des Vorerben noch übrig ist\.
+
+\[ [🔗 Permalink](#-609-abgb--nacherbschaft-auf-den-überrest) \]
 
 ### § 610 ABGB — Umdeutung von Testieranordnungen
 
@@ -4781,13 +5815,19 @@
 
 > `(2)` Das Verbot, eine Sache zu veräußern, schließt im Zweifel das Recht, darüber letztwillig zu verfügen, nicht aus\.
 
+\[ [🔗 Permalink](#-610-abgb--umdeutung-von-testieranordnungen) \]
+
 ### § 611 ABGB — Nacherbschaft bei Zeitgenossen
 
 > Wenn die Nacherben Zeitgenossen des letztwillig Verfügenden sind, kann er sie ohne zahlenmäßige Beschränkung als Nacherben einsetzen\. Zeitgenossen sind natürliche Personen, die zum Zeitpunkt der Errichtung der Nacherbschaft bereits gezeugt \(§ 22\) oder geboren sind\.
 
+\[ [🔗 Permalink](#-611-abgb--nacherbschaft-bei-zeitgenossen) \]
+
 ### § 612 ABGB — Einschränkung der Nacherbschaft
 
 > Sind die Nacherben im Zeitpunkt der Errichtung der letztwilligen Verfügung noch keine Zeitgenossen des Verfügenden, so ist die Nacherbschaft bei Geld und anderen beweglichen Sachen auf zwei Nacherbfälle, bei unbeweglichen Sachen auf einen Nacherbfall beschränkt\.
+
+\[ [🔗 Permalink](#-612-abgb--einschränkung-der-nacherbschaft) \]
 
 ### § 613 ABGB — Rechte des Vorerben
 
@@ -4799,9 +5839,13 @@
 
 > `(4)` Ist jedoch die angeordnete Nacherbschaft eine solche auf den Überrest, so kann der Vorerbe wie jeder Eigentümer über Sachen der Verlassenschaft unter Lebenden verfügen\.
 
+\[ [🔗 Permalink](#-613-abgb--rechte-des-vorerben) \]
+
 ### § 614 ABGB — Auslegung einer Ersatz- oder Nacherbschaft
 
 > Ist eine Ersatz\- oder Nacherbschaft undeutlich ausgedrückt, so ist sie auf eine solche Art auszulegen, dass die Freiheit des Erben, über das Eigentum zu verfügen, am wenigsten eingeschränkt wird\. Dies gilt auch für die Frage, ob überhaupt eine Ersatz\- oder Nacherbschaft angeordnet wurde\.
+
+\[ [🔗 Permalink](#-614-abgb--auslegung-einer-ersatz--oder-nacherbschaft) \]
 
 ### § 615 ABGB — Erlöschen der Ersatz- und Nacherbschaft
 
@@ -4809,15 +5853,21 @@
 
 > `(2)` Das Recht eines Nacherben geht im Zweifel auch dann auf seine Erben über \(§ 537 Abs\. 1\), wenn er den Eintritt des Nacherbfalls nicht erlebt\.
 
+\[ [🔗 Permalink](#-615-abgb--erlöschen-der-ersatz--und-nacherbschaft) \]
+
 ### § 616 ABGB
 
 > `(1)` Ist für eine vermeintlich testierunfähige Person ein Nacherbe bestimmt, so ist die Nacherbschaft im Zweifel ungültig, wenn diese Person im Zeitpunkt der Errichtung der letztwilligen Verfügung testierfähig war\.
 
 > `(2)` Ist für eine tatsächlich testierunfähige Person ein Nacherbe bestimmt, so erlischt die Nacherbschaft im Zweifel, wenn diese Person die Testierfähigkeit später erlangt\. Die Nacherbschaft lebt nicht wieder auf, wenn sie später wieder testierunfähig wird\.
 
+\[ [🔗 Permalink](#-616-abgb) \]
+
 ### § 617 ABGB
 
 > Die von einem letztwillig Verfügenden seinem Kind in einem Zeitpunkt angeordnete Ersatz\- oder Nacherbschaft, in dem dieses noch keine Kinder hatte, erlischt im Zweifel, wenn es später doch erbfähige Kinder hinterlassen hat\.
+
+\[ [🔗 Permalink](#-617-abgb) \]
 
 ## Elftes Hauptstück
 
@@ -4831,6 +5881,8 @@
 
 > `(2)` Die Bestimmungen über die Vererblichkeit des Erbrechts \(§ 537\) und die Erbfähigkeit \(§§ 538 bis 543\) sowie über die Ausschlagung der Erbschaft \(§§ 803 ff\.\) sind entsprechend anzuwenden\.
 
+\[ [🔗 Permalink](#-647-abgb--berufung-zum-vermächtnisnehmer) \]
+
 ### § 648 ABGB — Erbe und Vermächtnisnehmer
 
 > `(1)` Einem Erben kann auch ein Vermächtnis zugedacht werden\. Insoweit wird der Erbe als Vermächtnisnehmer behandelt\. Im Zweifel ist ein solches Vermächtnis nicht auf den Anteil des begünstigten Erben anzurechnen und belastet alle Erben nach ihrer Erbquote \(Vorausvermächtnis\)\.
@@ -4839,23 +5891,33 @@
 
 > `(3)` Übersteigt der Wert des Hineinvermächtnisses den letztwillig zugedachten Erbteil, so erhöht sich im Zweifel der Erbteil dieses Erben entsprechend\. Im selben Ausmaß vermindern sich die Erbteile der übrigen eingesetzten Erben verhältnismäßig\. Im Zweifel kommt es auf den Wert des Hineinvermächtnisses im Zeitpunkt der Errichtung der letztwilligen Verfügung an\.
 
+\[ [🔗 Permalink](#-648-abgb--erbe-und-vermächtnisnehmer) \]
+
 ### § 649 ABGB — Vermächtnisschuldner
 
 > `(1)` Aufgrund des Vermächtnisses erwirbt der Vermächtnisnehmer eine Forderung gegen die Verlassenschaft und nach der Einantwortung gegen die Erben\.
 
 > `(2)` Im Zweifel haften die Erben zur ungeteilten Hand\. Sie haben im Zweifel untereinander im Verhältnis ihrer Erbteile zur Leistung des Vermächtnisses beizutragen, selbst wenn die Sache eines Miterben vermacht worden ist\. Die Leistung des Vermächtnisses kann aber auch einem Miterben allein oder einem Vermächtnisnehmer aufgetragen werden\.
 
+\[ [🔗 Permalink](#-649-abgb--vermächtnisschuldner) \]
+
 ### § 650 ABGB — Untervermächtnis
 
 > Ein Vermächtnisnehmer kann sich von der vollständigen Erfüllung des ihm aufgetragenen weiteren Vermächtnisses nicht mit der Begründung befreien, dass es den Wert des ihm zugedachten Vermächtnisses übersteigt\. Nimmt er das Vermächtnis nicht an, so muss derjenige, dem es zufällt, das Untervermächtnis erfüllen oder das ihm zugefallene Vermächtnis dem darauf gewiesenen Untervermächtnisnehmer herausgeben\.
+
+\[ [🔗 Permalink](#-650-abgb--untervermächtnis) \]
 
 ### § 651 ABGB — Verteilungsvermächtnis
 
 > Wer ein Vermächtnis einer gewissen Personengruppe, etwa seinen Verwandten, seinen Dienstnehmern oder bedürftigen Menschen, zukommen lassen will, kann die Verteilung, welchen Personen was zukommen soll, dem Erben oder einem Dritten überlassen\. Ist dazu nichts bestimmt, so kann der Erbe die Verteilung vornehmen\.
 
+\[ [🔗 Permalink](#-651-abgb--verteilungsvermächtnis) \]
+
 ### § 652 ABGB — Ersatz- und Nachvermächtnis
 
 > Es kann auch ein Ersatz\- oder Nachvermächtnis angeordnet werden; die Bestimmungen des Zehnten Hauptstücks sind darauf sinngemäß anzuwenden\.
+
+\[ [🔗 Permalink](#-652-abgb--ersatz--und-nachvermächtnis) \]
 
 ### § 653 ABGB — Gegenstand eines Vermächtnisses
 
@@ -4863,9 +5925,13 @@
 
 > `(2)` Ist die vermachte Sache verpfändet oder sonst wie belastet, so hat der Vermächtnisnehmer auch die darauf haftenden Lasten zu übernehmen\.
 
+\[ [🔗 Permalink](#-653-abgb--gegenstand-eines-vermächtnisses) \]
+
 ### § 654 ABGB — Unmöglichkeit
 
 > Ist die Leistung des Vermächtnisses ohne Verschulden des Vermächtnisschuldners oder eines Dritten unmöglich, so erhält der Vermächtnisnehmer keinen Ersatz\. Werden aber verkehrsfähige Sachen vermacht, die der Vermächtnisnehmer aus rechtlichen Gründen nicht erwerben kann, so gebührt ihm der Verkehrswert\.
+
+\[ [🔗 Permalink](#-654-abgb--unmöglichkeit) \]
 
 ## II. Arten von Vermächtnissen
 
@@ -4873,9 +5939,13 @@
 
 > Wenn eine oder mehrere Sachen einer Gattung ohne eine nähere Bestimmung vermacht werden und sich mehrere solche Sachen in der Verlassenschaft befinden, kann die Wahl dem Erben, einem Dritten oder dem Vermächtnisnehmer überlassen werden\. Im Zweifel steht dem Erben die Wahl zu\. Der Erbe und der Dritte müssen ein Stück wählen, das unter Beachtung des letzten Willens den Bedürfnissen des Vermächtnisnehmers entspricht\. Der Vermächtnisnehmer kann auch das beste Stück wählen\.
 
+\[ [🔗 Permalink](#-656-abgb--1-gattungsvermächtnisse) \]
+
 ### § 657 ABGB
 
 > Wenn eine oder mehrere Sachen einer Gattung nach dem Willen des Verstorbenen dessen Eigentum entstammen sollen, sich aber nicht in der Verlassenschaft befinden, ist das Vermächtnis ungültig\. Finden sie sich nicht in der bestimmten Zahl, so muss sich der Vermächtnisnehmer mit den vorhandenen begnügen\.
+
+\[ [🔗 Permalink](#-657-abgb) \]
 
 ### § 658 ABGB
 
@@ -4883,9 +5953,13 @@
 
 > `(2)` Ein Geldvermächtnis verpflichtet den Erben zur Zahlung der bestimmten Summe ohne Rücksicht darauf, ob Bargeld in der Verlassenschaft vorhanden ist oder nicht\.
 
+\[ [🔗 Permalink](#-658-abgb) \]
+
 ### § 659 ABGB
 
 > Kann oder will der Dritte oder der wahlberechtigte Vermächtnisnehmer nicht wählen, so hat das Gericht das Vermächtnis mit Rücksicht auf die Bedürfnisse des Vermächtnisnehmers zu bestimmen\.
+
+\[ [🔗 Permalink](#-659-abgb) \]
 
 ### § 660 ABGB — 2. Vermächtnis einer bestimmten Sache
 
@@ -4893,9 +5967,13 @@
 
 > `(2)` Wie beim Gattungsvermächtnis kann auch einem Erben, Vermächtnisnehmer oder Dritten die Wahl überlassen werden, aus mehreren bestimmten Sachen auszuwählen\.
 
+\[ [🔗 Permalink](#-660-abgb--2-vermächtnis-einer-bestimmten-sache) \]
+
 ### § 661 ABGB
 
 > Das Vermächtnis ist ungültig, wenn die vermachte Sache im Zeitpunkt der Errichtung der letztwilligen Verfügung schon im Eigentum des Vermächtnisnehmers stand\. Hat er sie später erworben, so gebührt ihm der Verkehrswert\. Wenn er sie aber vom Verstorbenen vor dessen Tod unentgeltlich erhalten hat, gilt das Vermächtnis als aufgehoben\.
+
+\[ [🔗 Permalink](#-661-abgb) \]
 
 ### § 662 ABGB — 3. Vermächtnis einer fremden Sache
 
@@ -4903,25 +5981,37 @@
 
 > `(2)` Wenn der Verstorbene ausdrücklich angeordnet hat, dass eine bestimmte fremde Sache gekauft und dem Vermächtnisnehmer geleistet werden soll \(Verschaffungsvermächtnis\) und der Eigentümer diese Sache nicht um den Verkehrswert veräußern will, ist dem Vermächtnisnehmer dieser Wert zu leisten\.
 
+\[ [🔗 Permalink](#-662-abgb--3-vermächtnis-einer-fremden-sache) \]
+
 ### § 663 ABGB — 4. Vermächtnis einer Forderung
 
 > Das Vermächtnis einer Forderung, die der Verstorbene gegen den Vermächtnisnehmer hatte \(Befreiungsvermächtnis\), verpflichtet den Erben, die Forderung samt den rückständigen Zinsen zu erlassen\.
+
+\[ [🔗 Permalink](#-663-abgb--4-vermächtnis-einer-forderung) \]
 
 ### § 664 ABGB
 
 > Hat der Verstorbene dem Vermächtnisnehmer eine Forderung vermacht, die ihm gegen einen Dritten zustand \(Forderungsvermächtnis\), so muss der Erbe die Forderung samt den rückständigen und weiter laufenden Zinsen dem Vermächtnisnehmer abtreten\.
 
+\[ [🔗 Permalink](#-664-abgb) \]
+
 ### § 665 ABGB
 
 > Das Vermächtnis der Schuld, die der Verstorbene dem Vermächtnisnehmer gegenüber zu erfüllen hatte \(Schuldvermächtnis\), bewirkt, dass der Erbe die vom Verstorbenen bestimmte oder vom Vermächtnisnehmer ausgewiesene Schuld anerkennen und sie, ohne Rücksicht auf die mit der Schuld verbundenen Bedingungen oder Fristen, längstens binnen der zur Leistung der übrigen Vermächtnisse bestimmten Frist erfüllen muss\.
+
+\[ [🔗 Permalink](#-665-abgb) \]
 
 ### § 666 ABGB
 
 > Das Befreiungsvermächtnis umfasst im Zweifel nicht die erst nach Errichtung des Vermächtnisses entstandenen Schulden\. Hat der Verstorbene durch ein Vermächtnis ein Pfandrecht oder eine Bürgschaft erlassen, so folgt daraus nicht, dass er auch die Schuld erlassen hat\. Hat er die Zahlungsfristen verlängert, so müssen die Zinsen weiter bezahlt werden\.
 
+\[ [🔗 Permalink](#-666-abgb) \]
+
 ### § 667 ABGB
 
 > Wenn der Verstorbene einer Person den gleichen Betrag vermacht hat, den er ihr geschuldet hat, wird nicht vermutet, dass er die Schuld mit dem Vermächtnis erfüllen wollte\.
+
+\[ [🔗 Permalink](#-667-abgb) \]
 
 ### § 672 ABGB — 5. Vermächtnis des Unterhalts oder der Ausbildung
 
@@ -4929,21 +6019,31 @@
 
 > `(2)` Das Unterhaltsvermächtnis gewährt im Zweifel Unterhalt bis zur Selbsterhaltungsfähigkeit des Vermächtnisnehmers, wenn dieser im Zeitpunkt der Errichtung des Vermächtnisses nicht selbsterhaltungsfähig war\. Das einem selbsterhaltungsfähigen Vermächtnisnehmer eingeräumte Unterhaltsvermächtnis gewährt im Zweifel Unterhalt bis zum Lebensende\.
 
+\[ [🔗 Permalink](#-672-abgb--5-vermächtnis-des-unterhalts-oder-der-ausbildung) \]
+
 ### § 673 ABGB
 
 > Das Vermächtnis der Ausbildung umfasst im Zweifel alle Kosten einer den Fähigkeiten und Neigungen des Vermächtnisnehmers entsprechenden Ausbildung nach denselben Grundsätzen, wie sie für die Verpflichtung von Eltern gegenüber ihren Kindern gelten\. Die Kosten des notwendigen Lebensunterhalts sind im Zweifel insoweit mit umfasst, als dem Vermächtnisnehmer wegen seiner Ausbildung eine Erwerbstätigkeit nicht zuzumuten ist\.
+
+\[ [🔗 Permalink](#-673-abgb) \]
 
 ### § 674 ABGB — 6. Vermächtnis der Möbel und des Hausrats
 
 > Unter den Möbeln oder der Einrichtung werden nur die zum gewöhnlichen Gebrauch der Wohnung, unter dem Hausrat die zur Führung des Haushalts erforderlichen Sachen verstanden\. Sachen zum Betrieb eines Unternehmens fallen im Zweifel nicht darunter\.
 
+\[ [🔗 Permalink](#-674-abgb--6-vermächtnis-der-möbel-und-des-hausrats) \]
+
 ### § 675 ABGB — 7. Vermächtnis eines Behältnisses
 
 > Wenn der Verstorbene ein Behältnis vermacht hat, das nicht für sich selbst besteht \(etwa eine Schublade\), so wird vermutet, dass nur diejenigen Sachen erfasst sind, die sich bei seinem Ableben darin befinden und zu deren Aufbewahrung das Behältnis seiner Natur nach bestimmt oder vom Verstorbenen gewöhnlich verwendet worden ist\.
 
+\[ [🔗 Permalink](#-675-abgb--7-vermächtnis-eines-behältnisses) \]
+
 ### § 676 ABGB
 
 > Besteht das Behältnis dagegen für sich selbst \(etwa ein Kasten\), so hat der Vermächtnisnehmer im Zweifel nur auf das Behältnis, nicht aber auf die darin befindlichen Sachen Anspruch\.
+
+\[ [🔗 Permalink](#-676-abgb) \]
 
 ### § 677 ABGB — 8. Pflegevermächtnis
 
@@ -4953,11 +6053,15 @@
 
 > `(3)` Nahe stehend sind Personen aus dem Kreis der gesetzlichen Erben des Verstorbenen, deren Ehegatte, eingetragener Partner oder Lebensgefährte und deren Kinder sowie der Lebensgefährte des Verstorbenen und dessen Kinder\.
 
+\[ [🔗 Permalink](#-677-abgb--8-pflegevermächtnis) \]
+
 ### § 678 ABGB
 
 > `(1)` Die Höhe des Vermächtnisses richtet sich nach Art, Dauer und Umfang der Leistungen\.
 
 > `(2)` Das Vermächtnis gebührt jedenfalls neben dem Pflichtteil, neben anderen Leistungen aus der Verlassenschaft nur dann nicht, wenn der Verstorbene das verfügt hat\. Das Vermächtnis kann nur bei Vorliegen eines Enterbungsgrundes entzogen werden\.
+
+\[ [🔗 Permalink](#-678-abgb) \]
 
 ## 9. Auslegung bestimmter Begriffe
 
@@ -4965,13 +6069,19 @@
 
 > Unter dem Wort Kinder werden, wenn der Verstorbene die Kinder eines anderen bedacht hat, nur dessen Söhne und Töchter, wenn er aber seine eigenen Kinder bedacht hat, auch die an deren Stelle tretenden Nachkommen verstanden, die beim Ableben des Verstorbenen schon gezeugt waren\.
 
+\[ [🔗 Permalink](#-681-abgb--a-kinder) \]
+
 ### § 682 ABGB — b) Verwandte
 
 > Ein ohne nähere Bestimmung für die Verwandten ausgesetztes Vermächtnis wird den nach der gesetzlichen Erbfolge nächsten Verwandten zugewendet\. § 555 ist sinngemäß anzuwenden\.
 
+\[ [🔗 Permalink](#-682-abgb--b-verwandte) \]
+
 ### § 683 ABGB — c) Dienstnehmer
 
 > Hat der Verstorbene seinen Dienstnehmern ein Vermächtnis hinterlassen und sie bloß durch das Dienstverhältnis bezeichnet, so wird vermutet, dass es diejenigen erhalten sollen, die im Zeitpunkt seines Ablebens in einem Dienstverhältnis zu ihm stehen\.
+
+\[ [🔗 Permalink](#-683-abgb--c-dienstnehmer) \]
 
 ## III. Erwerb von Vermächtnissen
 
@@ -4981,45 +6091,67 @@
 
 > `(2)` Das Eigentum an der vermachten Sache wird nach den Bestimmungen des Fünften Hauptstücks über den Erwerb des Eigentums erlangt\.
 
+\[ [🔗 Permalink](#-684-abgb--anfallstag-und-erwerbsvoraussetzungen-bei-vermächtnissen) \]
+
 ### § 685 ABGB — Fälligkeit des Vermächtnisses
 
 > Das Vermächtnis ist im Zweifel sogleich mit dem Tod des Vermächtnisgebers zu erfüllen\. Geldvermächtnisse und Vermächtnisse von Sachen, die sich nicht in der Verlassenschaft befinden, können erst nach Ablauf eines Jahres nach dem Tod des Vermächtnisgebers geltend gemacht werden\.
+
+\[ [🔗 Permalink](#-685-abgb--fälligkeit-des-vermächtnisses) \]
 
 ### § 686 ABGB
 
 > Beim Vermächtnis von Sachen aus der Verlassenschaft gebühren dem Vermächtnisnehmer auch die seit dem Tod des Vermächtnisgebers laufenden Zinsen und entstandenen Nutzungen sowie jeder andere Zuwachs\. Er trägt hingegen alle auf dem Vermächtnis haftenden Lasten und selbst den Verlust, wenn es ohne Verschulden eines Dritten gemindert oder die Leistung gänzlich unmöglich wird\.
 
+\[ [🔗 Permalink](#-686-abgb) \]
+
 ### § 687 ABGB
 
 > Wenn der Verstorbene dem Vermächtnisnehmer ein Rentenvermächtnis, also einen bestimmten, jährlich, monatlich oder sonst in periodischen Zeiträumen zu leistenden Betrag vermacht hat, erhält der Vermächtnisnehmer ein Recht auf den ganzen Betrag für den Zeitraum, dessen Anfang er erlebt hat\. Den Betrag selbst kann er jedoch erst mit Ende des Zeitraums fordern\. Der erste Zeitraum beginnt mit dem Tod des Vermächtnisgebers\.
+
+\[ [🔗 Permalink](#-687-abgb) \]
 
 ### § 688 ABGB — Recht des Vermächtnisnehmers auf Sicherstellung
 
 > In allen Fällen, in denen ein Gläubiger von einem Schuldner Sicherstellung fordern kann, kann auch ein Vermächtnisnehmer die Sicherstellung seines Vermächtnisses verlangen\.
 
+\[ [🔗 Permalink](#-688-abgb--recht-des-vermächtnisnehmers-auf-sicherstellung) \]
+
 ### § 689 ABGB — Wem ein frei gewordenes Vermächtnis zufällt
 
 > Ein Vermächtnis, das der Vermächtnisnehmer nicht annehmen kann oder will, fällt dem Nachberufenen zu \(§ 652\)\. Wenn kein Nachberufener vorhanden ist und das gesamte Vermächtnis mehreren Personen zugedacht worden ist, wächst der Anteil, den einer von ihnen nicht erhält, den übrigen Vermächtnisnehmern zu\. Außer diesen beiden Fällen bleibt ein frei gewordenes Vermächtnis in der Verlassenschaft\.
+
+\[ [🔗 Permalink](#-689-abgb--wem-ein-frei-gewordenes-vermächtnis-zufällt) \]
 
 ### § 690 ABGB — Recht des Erben, wenn die Lasten die Verlassenschaft erschöpfen
 
 > Wenn die gesamte Verlassenschaft durch Vermächtnisse erschöpft ist, kann der beschränkt haftende Erbe nur die Vergütung seiner zum Besten der Verlassenschaft gemachten Auslagen und eine seinen Bemühungen angemessene Belohnung fordern\. Will er die Verlassenschaft nicht selbst verwalten, so muss er die Bestellung eines Kurators beantragen\.
 
+\[ [🔗 Permalink](#-690-abgb--recht-des-erben-wenn-die-lasten-die-verlassenschaft-erschöpfen) \]
+
 ### § 691 ABGB
 
 > Können nicht alle Vermächtnisnehmer aus der Verlassenschaft befriedigt werden, so wird das Vermächtnis des Unterhalts vor allen anderen entrichtet; diesem Vermächtnisnehmer gebührt der Unterhalt mit dem Erbfall\.
+
+\[ [🔗 Permalink](#-691-abgb) \]
 
 ### § 692 ABGB — Recht des Erben, wenn die Lasten die Verlassenschaft übersteigen
 
 > Reicht die Verlassenschaft nicht zur Zahlung der Schulden und anderer pflichtmäßiger Auslagen sowie zur Leistung aller Vermächtnisse aus, so erleiden die Vermächtnisnehmer bei beschränkter Haftung der Erben \(§ 802\) einen verhältnismäßigen Abzug\. Der beschränkt haftende Erbe kann, so lange eine solche Gefahr besteht, die Vermächtnisse auch nur gegen Sicherstellung leisten\.
 
+\[ [🔗 Permalink](#-692-abgb--recht-des-erben-wenn-die-lasten-die-verlassenschaft-übersteigen) \]
+
 ### § 693 ABGB
 
 > Haben die Vermächtnisnehmer die Vermächtnisse bereits empfangen, so wird der verhältnismäßige Abzug nach dem Wert, den das Vermächtnis zum Zeitpunkt des Empfangs hatte, und den daraus gezogenen Nutzungen bestimmt\.
 
+\[ [🔗 Permalink](#-693-abgb) \]
+
 ### § 694 ABGB
 
 > Der Vermächtnisnehmer kann zur Vermeidung einer Zahlung an die Verlassenschaft das Vermächtnis oder den in § 693 angeführten Wert und die bezogenen Nutzungen in die Verlassenschaft zurückstellen; in Rücksicht auf die Verbesserungen und Verschlechterungen wird er als ein redlicher Besitzer behandelt\.
+
+\[ [🔗 Permalink](#-694-abgb) \]
 
 ## Zwölftes Hauptstück
 
@@ -5031,69 +6163,101 @@
 
 > Der letztwillig Verfügende kann die Rechte der Erben oder Vermächtnisnehmer einschränken, etwa durch eine Bedingung, eine Befristung oder eine Auflage, sowie seine Beweggründe und den Zweck seiner Anordnung schildern\. Er kann seine letztwillige Verfügung auch ändern oder ganz aufheben\.
 
+\[ [🔗 Permalink](#-695-abgb) \]
+
 ## II. Arten der Einschränkung
 
 ### § 696 ABGB — 1. Bedingung
 
 > Eine Bedingung ist ein ungewisses Ereignis, von dem ein Recht abhängig gemacht wird\. Die Bedingung ist bejahend oder verneinend, je nachdem, ob sie sich auf den Eintritt oder Nichteintritt des Ereignisses bezieht\. Sie ist aufschiebend, wenn das zugedachte Recht erst nach ihrer Erfüllung wirksam wird, und auflösend, wenn das zugedachte Recht bei ihrem Eintritt verloren geht\.
 
+\[ [🔗 Permalink](#-696-abgb--1-bedingung) \]
+
 ### § 697 ABGB — a) Unverständliche und gesetz- oder sittenwidrige Bedingungen
 
 > Unverständliche, unbestimmte sowie gesetz\- oder sittenwidrige Bedingungen gelten als nicht beigesetzt\.
+
+\[ [🔗 Permalink](#-697-abgb--a-unverständliche-und-gesetz--oder-sittenwidrige-bedingungen) \]
 
 ### § 698 ABGB — b) Unmögliche Bedingungen
 
 > Die Anordnung, durch die einer Person unter einer aufschiebenden unmöglichen Bedingung ein Recht zukommen soll, ist ungültig, selbst wenn die Erfüllung der Bedingung erst in der Folge unmöglich und die Unmöglichkeit dem Verstorbenen bekannt geworden war\. Eine auflösende unmögliche Bedingung ist als nicht beigesetzt anzusehen\.
 
+\[ [🔗 Permalink](#-698-abgb--b-unmögliche-bedingungen) \]
+
 ### § 699 ABGB — c) Mögliche und erlaubte Bedingungen
 
 > Sind die Bedingungen möglich und erlaubt, so kann das davon abhängende Recht nur durch ihre genaue Erfüllung erworben werden, mögen sie vom Zufall oder vom Willen des bedachten Erben, Vermächtnisnehmers oder eines Dritten abhängen\.
+
+\[ [🔗 Permalink](#-699-abgb--c-mögliche-und-erlaubte-bedingungen) \]
 
 ### § 701 ABGB — d) Erfüllung der Bedingung zu Lebzeiten des Verstorbenen
 
 > Ist die im letzten Willen vorgeschriebene Bedingung schon zu Lebzeiten des Verstorbenen erfüllt worden, so muss sie nach dessen Tod nur dann neuerlich erfüllt werden, wenn sie in einer Handlung des Erben oder Vermächtnisnehmers besteht, die von ihm wiederholt werden kann\.
 
+\[ [🔗 Permalink](#-701-abgb--d-erfüllung-der-bedingung-zu-lebzeiten-des-verstorbenen) \]
+
 ### § 702 ABGB — e) Keine Erfüllung der Bedingung durch Nachberufene
 
 > Eine den Erben oder Vermächtnisnehmer einschränkende Bedingung ist ohne ausdrückliche Erklärung des Verstorbenen nicht auf den von diesem nachberufenen Erben oder Vermächtnisnehmer auszudehnen\.
+
+\[ [🔗 Permalink](#-702-abgb--e-keine-erfüllung-der-bedingung-durch-nachberufene) \]
 
 ### § 703 ABGB — f) Wirkung einer möglichen aufschiebenden Bedingung
 
 > Um eine unter einer aufschiebenden Bedingung zugedachte Verlassenschaft zu erwerben, muss die bedachte Person den Eintritt der Bedingung erleben und in diesem Zeitpunkt erbfähig sein\.
 
+\[ [🔗 Permalink](#-703-abgb--f-wirkung-einer-möglichen-aufschiebenden-bedingung) \]
+
 ### § 705 ABGB — 2. Befristung
 
 > Ist der Eintritt des Ereignisses, auf das der Verstorbene das zugedachte Recht eingeschränkt hat, gewiss, so geht das zugedachte Recht wie andere unbedingte Rechte auch auf die Erben der bedachten Person über\. In einem solchen Fall wird nur die Übergabe bis zum gesetzten Termin aufgeschoben\.
+
+\[ [🔗 Permalink](#-705-abgb--2-befristung) \]
 
 ### § 706 ABGB
 
 > Ein unmöglicher Anfangstermin macht die Anordnung ungültig\. Ein unmöglicher Endtermin gilt als nicht beigesetzt\. Wenn sich der Verstorbene in der Berechnung der Zeit geirrt hat, ist die Befristung nach seinem mutmaßlichen Willen zu bestimmen\.
 
+\[ [🔗 Permalink](#-706-abgb) \]
+
 ### § 707 ABGB — Vorberechtigung
 
 > Solange das Recht des Erben wegen einer noch nicht erfüllten Bedingung oder wegen einer Befristung in Schwebe bleibt, gelten zwischen dem gesetzlichen und dem eingesetzten Erben im Hinblick auf den einstweiligen Besitz und Genuss der Verlassenschaft die gleichen Rechte und Pflichten wie bei der Nacherbschaft\. Dies gilt sinngemäß für das Verhältnis zwischen dem Erben und dem bedingt oder befristet bedachten Vermächtnisnehmer\.
+
+\[ [🔗 Permalink](#-707-abgb--vorberechtigung) \]
 
 ### § 708 ABGB — Nachberechtigung
 
 > Wer eine Erbschaft oder ein Vermächtnis unter einer verneinenden oder auflösenden Bedingung oder nur auf eine gewisse Zeit erhält, hat gegen den, dem die Erbschaft oder das Vermächtnis bei Eintritt der Bedingung oder des bestimmten Zeitpunktes zufällt, die gleichen Rechte und Pflichten, die einem Vorerben oder Vorvermächtnisnehmer gegen den Nacherben oder Nachvermächtnisnehmer zukommen \(§§ 613 und 652\)\.
 
+\[ [🔗 Permalink](#-708-abgb--nachberechtigung) \]
+
 ### § 709 ABGB — 3. Auflage
 
 > Hat der Verstorbene die Verlassenschaft einer Person unter einer Auflage zugewendet, so muss der Belastete die Auflage möglichst genau erfüllen\.
+
+\[ [🔗 Permalink](#-709-abgb--3-auflage) \]
 
 ### § 710 ABGB
 
 > Wenn der Belastete die Auflage aus seinem Alleinverschulden nicht oder nicht vollständig erfüllt hat, ist die Auflage im Zweifel als auflösende Bedingung \(§ 696\) zu behandeln\.
 
+\[ [🔗 Permalink](#-710-abgb) \]
+
 ### § 711 ABGB
 
 > Ob der Verstorbene mit der Schilderung der Beweggründe oder des Zwecks seiner Verfügung eine Verpflichtung auferlegen wollte oder seine Erklärung nur ein Rat, ein Wunsch oder eine Bitte ist, dessen oder deren Nichteinhaltung keinen Nachteil bewirkt, ist durch Auslegung zu ermitteln\.
+
+\[ [🔗 Permalink](#-711-abgb) \]
 
 ### § 712 ABGB — Strafvermächtnis und Bestreitungsverbot
 
 > `(1)` Die Anordnung des Verstorbenen, dass der Erbe einem Dritten ein Vermächtnis entrichten soll, wenn er eine Auflage nicht befolgt, ist insoweit gültig, als die Auflage möglich und erlaubt ist\.
 
 > `(2)` Eine Anordnung des Verstorbenen, mit der er dem Erben oder Vermächtnisnehmer unter angedrohter Entziehung eines Vorteils verboten hat, den letzten Willen zu bestreiten, ist insoweit unwirksam, als nur die Echtheit oder der Sinn der letztwilligen Verfügung und die Auslegung des Bestreitungsverbots angefochten, sittenwidrige oder gesetzlich verbotene Anordnungen bekämpft oder Verstöße gegen zwingende Formvorschriften eingewendet werden\.
+
+\[ [🔗 Permalink](#-712-abgb--strafvermächtnis-und-bestreitungsverbot) \]
 
 ## III. Aufhebung letztwilliger Verfügungen
 
@@ -5103,41 +6267,61 @@
 
 > `(2)` Frühere letztwillige Verfügungen ohne Erbeinsetzung \(§ 552 Abs\. 2\) werden im Zweifel nur durch ein späteres Testament, mit dem über die gesamte Verlassenschaft verfügt wird, aufgehoben\.
 
+\[ [🔗 Permalink](#-713-abgb--1-durch-errichtung-eines-späteren-testaments) \]
+
 ### § 714 ABGB — oder einer sonstigen späteren letztwilligen Verfügung
 
 > Durch eine spätere letztwillige Verfügung ohne Erbeinsetzung werden frühere Vermächtnisse oder andere letztwillige Verfügungen ohne Erbeinsetzung nur insoweit aufgehoben, als sie ihr widersprechen\.
+
+\[ [🔗 Permalink](#-714-abgb--oder-einer-sonstigen-späteren-letztwilligen-verfügung) \]
 
 ### § 715 ABGB
 
 > Kann nicht festgestellt werden, welche von mehreren letztwilligen Verfügungen früher oder später errichtet wurde, so gelten alle, soweit sie nebeneinander bestehen können\. Die Bestimmungen des Sechzehnten Hauptstücks gelten entsprechend\.
 
+\[ [🔗 Permalink](#-715-abgb) \]
+
 ### § 716 ABGB — Unbeachtlichkeit der früher erklärten Unabänderlichkeit
 
 > Die Erklärung in einer letztwilligen Verfügung, wonach jede spätere letztwillige Verfügung überhaupt oder dann unwirksam sein soll, wenn sie nicht in einer besonderen Form errichtet oder besonders gekennzeichnet wird, gilt als nicht beigesetzt\.
+
+\[ [🔗 Permalink](#-716-abgb--unbeachtlichkeit-der-früher-erklärten-unabänderlichkeit) \]
 
 ### § 717 ABGB — 2. durch Widerruf — a) Allgemeines
 
 > Will der letztwillig Verfügende seine Verfügung aufheben, ohne eine neue zu errichten, so muss er sie ausdrücklich oder stillschweigend widerrufen\.
 
+\[ [🔗 Permalink](#-717-abgb--2-durch-widerruf--a-allgemeines) \]
+
 ### § 718 ABGB
 
 > Der Widerruf kann nur im Zustand der Testierfähigkeit gültig erfolgen\.
+
+\[ [🔗 Permalink](#-718-abgb) \]
 
 ### § 719 ABGB — b) Ausdrücklicher Widerruf
 
 > Der ausdrückliche Widerruf einer letztwilligen Verfügung kann nur in einer solchen Form erfolgen, die zur Errichtung einer letztwilligen Verfügung nötig ist\.
 
+\[ [🔗 Permalink](#-719-abgb--b-ausdrücklicher-widerruf) \]
+
 ### § 721 ABGB — c) Stillschweigender Widerruf
 
 > Wer seine letztwillige Verfügung zerstört, etwa indem er sie zerreißt, zerschneidet, verbrennt oder die Unterschrift oder den ganzen Inhalt durchstreicht, widerruft sie\. Wenn von mehreren gleichlautenden Urkunden nur eine zerstört wird, so ist daraus im Zweifel nicht auf einen Widerruf der letztwilligen Verfügung zu schließen\.
+
+\[ [🔗 Permalink](#-721-abgb--c-stillschweigender-widerruf) \]
 
 ### § 722 ABGB
 
 > Wenn die Urkunde nur zufällig zerstört wird oder verloren geht, bleibt der letzte Wille wirksam, sofern der Zufall oder Verlust und der Inhalt der Urkunde bewiesen werden\.
 
+\[ [🔗 Permalink](#-722-abgb) \]
+
 ### § 723 ABGB
 
 > Hat der Verstorbene eine spätere letztwillige Verfügung zerstört, eine frühere Verfügung aber unversehrt gelassen, so tritt im Zweifel diese frühere Anordnung wieder in Kraft\. Eine frühere mündliche Verfügung, ausgenommen die mündliche gerichtliche oder mündliche notarielle Verfügung, lebt dadurch aber nicht wieder auf\.
+
+\[ [🔗 Permalink](#-723-abgb) \]
 
 ### § 724 ABGB — d) Vermuteter Widerruf
 
@@ -5151,15 +6335,21 @@
 
 > `(2)` Wenn aber der Schuldner die Forderung aus eigenem Antrieb berichtigt hat, die Veräußerung des Vermächtnisses auf gerichtliche oder behördliche Anordnung erfolgt ist oder die Sache ohne Einwilligung des Verstorbenen umgestaltet worden ist, bleibt das Vermächtnis wirksam\.
 
+\[ [🔗 Permalink](#-724-abgb--d-vermuteter-widerruf) \]
+
 ### § 725 ABGB — 3. durch Verlust der Angehörigenstellung
 
 > `(1)` Mit Auflösung der Ehe, der eingetragenen Partnerschaft oder der Lebensgemeinschaft zu Lebzeiten des Verstorbenen werden davor errichtete letztwillige Verfügungen, soweit sie den früheren Ehegatten, eingetragenen Partner oder Lebensgefährten betreffen, aufgehoben, es sei denn, dass der Verstorbene ausdrücklich das Gegenteil angeordnet hat\. Das Gleiche gilt für die Aufhebung der Abstammung oder den Widerruf oder die Aufhebung der Adoption, auch wenn sie nach dem Erbfall erfolgt, für letztwillige Verfügungen zugunsten des früheren Angehörigen\.
 
 > `(2)` Die letztwillige Anordnung wird im Zweifel auch dann aufgehoben, wenn der Verstorbene oder die letztwillig bedachte Person das gerichtliche Verfahren zur Auflösung der Ehe oder eingetragenen Partnerschaft oder zum Widerruf oder zur Aufhebung der Adoption eingeleitet hat\. Das Gleiche gilt auch für den Fall, dass der Verstorbene das gerichtliche Abstammungsverfahren eingeleitet hat, wenn sich in der Folge herausstellt, dass der vermeintliche Angehörige tatsächlich nicht vom Verstorbenen abstammt\.
 
+\[ [🔗 Permalink](#-725-abgb--3-durch-verlust-der-angehörigenstellung) \]
+
 ### § 726 ABGB — 4. durch Ausfall des eingesetzten Erben
 
 > Wenn weder ein Erbe noch ein Nacherbe die Erbschaft annehmen will oder kann, fällt das Erbrecht auf die gesetzlichen Erben\. Diese sind verpflichtet, die übrigen Verfügungen des Verstorbenen zu befolgen\.
+
+\[ [🔗 Permalink](#-726-abgb--4-durch-ausfall-des-eingesetzten-erben) \]
 
 ## Dreizehntes Hauptstück
 
@@ -5171,9 +6361,13 @@
 
 > Wenn der Verstorbene seinen letzten Willen nicht gültig erklärt oder nicht über sein gesamtes Vermögen verfügt hat oder wenn die eingesetzten Erben die Verlassenschaft nicht annehmen können oder wollen, kommt es ganz oder zum Teil zur gesetzlichen Erbfolge\.
 
+\[ [🔗 Permalink](#-727-abgb--fälle-der-gesetzlichen-erbfolge) \]
+
 ### § 728 ABGB
 
 > Mangels einer gültigen Erklärung des letzten Willens fällt die gesamte Verlassenschaft den gesetzlichen Erben zu\. Hat der Verstorbene über einen Teil seines Vermögens nicht gültig verfügt, so kommt allein dieser den gesetzlichen Erben zu\.
+
+\[ [🔗 Permalink](#-728-abgb) \]
 
 ### § 729 ABGB — Verkürzter Pflichtteil und Folgen einer Enterbung
 
@@ -5183,9 +6377,13 @@
 
 > `(3)` Bei gesetzlicher Erbfolge erben die Nachkommen der enterbten Person an deren Stelle, auch wenn diese den Verstorbenen überlebt hat\.
 
+\[ [🔗 Permalink](#-729-abgb--verkürzter-pflichtteil-und-folgen-einer-enterbung) \]
+
 ### § 730 ABGB — Gesetzliche Erben
 
 > Gesetzliche Erben sind die in nächster Linie mit dem Verstorbenen Verwandten und sein Ehegatte oder eingetragener Partner\.
+
+\[ [🔗 Permalink](#-730-abgb--gesetzliche-erben) \]
 
 ## II. Gesetzliches Erbrecht der Verwandten
 
@@ -5199,41 +6397,61 @@
 
 > `(4)` In der vierten Linie sind nur die Urgroßeltern des Verstorbenen zur Erbfolge berufen\.
 
+\[ [🔗 Permalink](#-731-abgb) \]
+
 ### § 732 ABGB — 1. Linie: Kinder
 
 > Wenn der Verstorbene Kinder hat, fällt ihnen die gesamte Verlassenschaft zu, mögen sie zu seinen Lebzeiten oder nach seinem Tod geboren sein\. Mehreren Kindern fällt die Verlassenschaft zu gleichen Teilen zu\. Enkel von noch lebenden Kindern und Urenkel von noch lebenden Enkeln haben kein Recht zur Erbfolge\.
+
+\[ [🔗 Permalink](#-732-abgb--1-linie-kinder) \]
 
 ### § 733 ABGB
 
 > Wenn ein Nachkomme des Verstorbenen vor ihm gestorben ist und seinerseits Nachkommen hinterlassen hat, fällt der Anteil, der dem verstorbenen Nachkommen gebührt hätte, dessen Kindern zu gleichen Teilen zu\.
 
+\[ [🔗 Permalink](#-733-abgb) \]
+
 ### § 734 ABGB
 
 > Auf diese Art wird eine Verlassenschaft nicht nur dann geteilt, wenn Enkel von verstorbenen Kindern mit noch lebenden Kindern oder entferntere Nachkommen mit näheren Nachkommen des Verstorbenen zusammen treffen, sondern auch dann, wenn die Verlassenschaft bloß zwischen Enkeln von verschiedenen Kindern oder zwischen Urenkeln von verschiedenen Enkeln zu teilen ist\. Es können also die von jedem Kind hinterlassenen Enkel und die von jedem Enkel hinterlassenen Urenkel nie mehr und nie weniger erhalten, als das verstorbene Kind oder der verstorbene Enkel erhalten hätte, wenn es oder er am Leben geblieben wäre\.
+
+\[ [🔗 Permalink](#-734-abgb) \]
 
 ### § 735 ABGB — 2. Linie: Eltern und ihre Nachkommen
 
 > Ist kein Nachkomme des Verstorbenen vorhanden, so fällt die Verlassenschaft den mit ihm in zweiter Linie Verwandten, also seinen Eltern und deren Nachkommen zu\. Leben noch beide Eltern, so gebührt ihnen die ganze Verlassenschaft zu gleichen Teilen\. Ist ein Elternteil verstorben, so treten dessen Nachkommen in sein Recht ein\. Die Hälfte, die dem Verstorbenen gebührt hätte, wird nach den §§ 732 bis 734 geteilt\.
 
+\[ [🔗 Permalink](#-735-abgb--2-linie-eltern-und-ihre-nachkommen) \]
+
 ### § 736 ABGB
 
 > Wenn beide Eltern des Verstorbenen verstorben sind, wird die eine Hälfte der Verlassenschaft, die dem einen Elternteil zugefallen wäre, unter dessen Nachkommen, die andere Hälfte aber unter den Nachkommen des anderen nach den §§ 732 bis 734 geteilt\. Haben die Eltern nur gemeinsame Kinder oder deren Nachkommen hinterlassen, so teilen diese die beiden Hälften unter sich gleich\. Sind aber außer diesen noch Kinder nur eines Elternteils vorhanden, so erhalten diese und deren Nachkommen nur den ihnen von der Hälfte gebührenden Anteil\.
+
+\[ [🔗 Permalink](#-736-abgb) \]
 
 ### § 737 ABGB
 
 > Hat ein verstorbener Elternteil des Verstorbenen keine Nachkommen hinterlassen, so fällt die gesamte Verlassenschaft dem anderen noch lebenden Elternteil zu\. Ist auch dieser verstorben, so wird die gesamte Verlassenschaft unter seinen Kindern und Nachkommen nach den bereits angeführten Grundsätzen verteilt\.
 
+\[ [🔗 Permalink](#-737-abgb) \]
+
 ### § 738 ABGB — 3. Linie: Großeltern und ihre Nachkommen
 
 > Sind die Eltern des Verstorbenen ohne Nachkommen verstorben, so fällt die Verlassenschaft der dritten Linie, also den Großeltern und ihren Nachkommen zu\. Die Verlassenschaft wird dann in zwei gleiche Teile geteilt\. Die eine Hälfte gebührt den Eltern des einen Elternteils des Verstorbenen und ihren Nachkommen, die andere den Eltern des anderen und ihren Nachkommen\.
+
+\[ [🔗 Permalink](#-738-abgb--3-linie-großeltern-und-ihre-nachkommen) \]
 
 ### § 739 ABGB
 
 > Jede dieser Hälften wird unter den Großeltern der einen und der anderen Seite, wenn sie beide noch leben, gleich geteilt\. Ist ein Großelternteil oder sind beide Großeltern von der einen oder anderen Seite gestorben, so wird die dieser Seite zugefallene Hälfte zwischen den Kindern und Nachkommen dieser Großeltern nach den Grundsätzen geteilt, nach denen in der zweiten Linie die ganze Verlassenschaft zwischen den Kindern und Nachkommen der Eltern des Verstorbenen geteilt wird \(§§ 735 bis 737\)\.
 
+\[ [🔗 Permalink](#-739-abgb) \]
+
 ### § 740 ABGB
 
 > Sind von der Seite eines Elternteils beide Großeltern ohne Nachkommen verstorben, so fällt den von der anderen Seite noch lebenden Großeltern oder nach deren Tod deren Kindern und Nachkommen die gesamte Verlassenschaft zu\.
+
+\[ [🔗 Permalink](#-740-abgb) \]
 
 ### § 741 ABGB — 4. Linie: Urgroßeltern
 
@@ -5241,13 +6459,19 @@
 
 > `(2)` Fehlen die Großelternpaare des einen Elternteils des Verstorbenen, so sind zu der auf sie entfallenden Verlassenschaftshälfte die Großelternpaare des anderen Elternteils in demselben Ausmaß wie zu der ihnen unmittelbar zufallenden Verlassenschaftshälfte berufen\.
 
+\[ [🔗 Permalink](#-741-abgb--4-linie-urgroßeltern) \]
+
 ### § 742 ABGB — Mehrfache Verwandtschaft
 
 > Wenn jemand mit dem Verstorbenen mehrfach verwandt ist, genießt er von jeder Seite das Erbrecht, das ihm als einem Verwandten von dieser Seite gebührt\.
 
+\[ [🔗 Permalink](#-742-abgb--mehrfache-verwandtschaft) \]
+
 ### § 743 ABGB — Ausschluss von entfernten Verwandten
 
 > Auf diese vier Linien der Verwandtschaft \(§ 731\) wird die gesetzliche Erbfolge eingeschränkt\.
+
+\[ [🔗 Permalink](#-743-abgb--ausschluss-von-entfernten-verwandten) \]
 
 ## III. Gesetzliches Erbrecht des Ehegatten und eingetragenen Partners
 
@@ -5257,11 +6481,15 @@
 
 > `(2)` Auf den Erbteil des Ehegatten oder eingetragenen Partners ist alles anzurechnen, was er durch Ehe\- oder Partnerschaftspakt oder Erbvertrag aus dem Vermögen des Verstorbenen erhält\.
 
+\[ [🔗 Permalink](#-744-abgb) \]
+
 ### § 745 ABGB — Gesetzliches Vorausvermächtnis
 
 > `(1)` Sofern der Ehegatte oder eingetragene Partner nicht rechtmäßig enterbt worden ist, gebühren ihm als gesetzliches Vorausvermächtnis das Recht, in der Ehe\- oder Partnerschaftswohnung weiter zu wohnen, und die zum ehelichen oder partnerschaftlichen Haushalt gehörenden beweglichen Sachen, soweit sie zu dessen Fortführung entsprechend den bisherigen Lebensverhältnissen erforderlich sind\.
 
 > `(2)` Dem Lebensgefährten des Verstorbenen steht ein solches gesetzliches Vermächtnis zu, sofern er mit dem Verstorbenen als dessen Lebensgefährte zumindest in den letzten drei Jahren im gemeinsamen Haushalt gelebt hat und der Verstorbene im Zeitpunkt des Todes weder verheiratet war noch in einer eingetragenen Partnerschaft gelebt hat\. Die in Abs\. 1 erwähnten Rechte enden ein Jahr nach dem Tod des Verstorbenen\.
+
+\[ [🔗 Permalink](#-745-abgb--gesetzliches-vorausvermächtnis) \]
 
 ### § 746 ABGB — Auflösung der Ehe oder Partnerschaft
 
@@ -5269,9 +6497,13 @@
 
 > `(2)` Das gesetzliche Erbrecht und das gesetzliche Vorausvermächtnis stehen dem überlebenden Ehegatten oder eingetragenen Partner auch dann nicht zu, wenn in einem im Zeitpunkt des Erbfalls anhängigen Verfahren über die Auflösung der Ehe oder eingetragenen Partnerschaft eine Vereinbarung über die Aufteilung des Gebrauchsvermögens und der Ersparnisse für den Fall der Rechtskraft der Auflösungsentscheidung vorliegt\. Eine solche Vereinbarung gilt im Zweifel auch für die Auflösung der Ehe oder eingetragenen Partnerschaft durch den Tod eines Ehegatten oder eingetragenen Partners\.
 
+\[ [🔗 Permalink](#-746-abgb--auflösung-der-ehe-oder-partnerschaft) \]
+
 ### § 747 ABGB — Anspruch auf Unterhalt
 
 > Der Ehegatte oder eingetragene Partner hat, außer in den Fällen der §§ 746 und 777, gegen die Verlassenschaft und nach Einantwortung gegen die Erben bis zum Wert der Verlassenschaft einen Anspruch auf Unterhalt nach den sinngemäß anzuwendenden Grundsätzen des § 94 oder des § 12 EPG, solange er nicht wieder eine Ehe oder eingetragene Partnerschaft eingeht\. Auf diesen Anspruch ist alles anzurechnen, was der Ehegatte oder eingetragene Partner nach dem Verstorbenen durch vertragliche oder letztwillige Zuwendung, als gesetzlichen Erbteil, als Pflichtteil und durch öffentlich\-rechtliche oder privatrechtliche Leistung erhält, desgleichen eigenes Vermögen des Ehegatten oder eingetragenen Partners sowie Erträgnisse einer von ihm tatsächlich ausgeübten oder einer solchen Erwerbstätigkeit, die von ihm den Umständen nach erwartet werden kann\.
+
+\[ [🔗 Permalink](#-747-abgb--anspruch-auf-unterhalt) \]
 
 ## IV. Außerordentliches Erbrecht und Aneignung durch den Bund
 
@@ -5281,9 +6513,13 @@
 
 > `(2)` Vom Erfordernis eines gemeinsamen Haushalts ist dann abzusehen, wenn diesem erhebliche Gründe, etwa gesundheitlicher oder beruflicher Art, entgegenstanden, ansonsten aber eine für Lebensgefährten typische besondere Verbundenheit bestand\.
 
+\[ [🔗 Permalink](#-748-abgb--außerordentliches-erbrecht-des-lebensgefährten) \]
+
 ### § 749 ABGB — Außerordentliches Erbrecht der Vermächtnisnehmer
 
 > Gelangt weder ein gesetzlicher Erbe noch der Lebensgefährte des Verstorbenen zur Verlassenschaft, so werden die vom Verstorbenen bedachten Vermächtnisnehmer verhältnismäßig als Erben betrachtet\.
+
+\[ [🔗 Permalink](#-749-abgb--außerordentliches-erbrecht-der-vermächtnisnehmer) \]
 
 ### § 750 ABGB — Aneignung durch den Bund
 
@@ -5291,9 +6527,13 @@
 
 > `(2)` Soweit eine Verlassenschaft, die sich im Zeitpunkt des Todes des Verstorbenen in Österreich befindet, weder auf einen durch Verfügung von Todes wegen eingesetzten Erben oder Vermächtnisnehmer noch auf eine natürliche Person als gesetzlicher Erbe übergeht, hat der Bund das Recht, sie sich anzueignen, auch wenn sich die Erbfolge nicht nach österreichischem Recht richtet\.
 
+\[ [🔗 Permalink](#-750-abgb--aneignung-durch-den-bund) \]
+
 ### § 751 ABGB — Abweichungen von der allgemeinen Erbfolge
 
 > Abweichungen von der in diesem Hauptstück bestimmten gesetzlichen Erbfolge, insbesondere für land\- und forstwirtschaftliche Betriebe, sind gesondert geregelt\.
+
+\[ [🔗 Permalink](#-751-abgb--abweichungen-von-der-allgemeinen-erbfolge) \]
 
 ## V. Anrechnung beim Erbteil
 
@@ -5301,19 +6541,27 @@
 
 > Bei der gewillkürten und bei der gesetzlichen Erbfolge muss sich der Erbe eine Schenkung unter Lebenden \(§ 781\) anrechnen lassen, wenn der Verstorbene das letztwillig angeordnet oder mit dem Geschenknehmer vereinbart hat\. Dieser Vertrag und seine Aufhebung bedürfen der Schriftform, bei Abschluss erst nach erfolgter Schenkung aber der Formvorschriften für einen Erbverzicht\.
 
+\[ [🔗 Permalink](#-752-abgb) \]
+
 ### § 753 ABGB
 
 > Bei der gesetzlichen Erbfolge der Kinder muss sich ein Kind auf Verlangen eines anderen Kindes eine Schenkung unter Lebenden \(§ 781\) anrechnen lassen, es sei denn, dass der Verstorbene die Schenkung aus Einkünften ohne Schmälerung des Stammvermögens gemacht hat oder den Erlass dieser Anrechnung letztwillig verfügt oder mit dem Geschenknehmer vereinbart hat\. Dieser Vertrag und seine Aufhebung bedürfen der Schriftform\.
 
+\[ [🔗 Permalink](#-753-abgb) \]
+
 ### § 754 ABGB
 
 > Einem Nachkommen wird nicht nur das, was er selbst, sondern auch das, was seine Vorfahren, an deren Stelle er tritt, auf solche Art empfangen haben, auf den Erbteil angerechnet\. Auch wer einen Erbteil im Wege der Anwachsung erhält \(§ 560\), hat sich Schenkungen an denjenigen, dessen frei gewordenen Erbteil er übernimmt, anrechnen zu lassen\.
+
+\[ [🔗 Permalink](#-754-abgb) \]
 
 ### § 755 ABGB — Rechenmethode
 
 > `(1)` Das bei der Anrechnung zu berücksichtigende Vermögen ist auf den Zeitpunkt zu bewerten, in dem die Schenkung wirklich gemacht wurde\. Dieser Wert ist sodann auf den Todeszeitpunkt nach einem von der Statistik Austria verlautbarten Verbraucherpreisindex aufzuwerten und der Verlassenschaft hinzuzurechnen\.
 
 > `(2)` Von dem Erbteil des anrechnungspflichtigen Erben ist das anzurechnende Vermögen abzuziehen\. Der anrechnungspflichtige Erbe ist nicht zur Herausgabe seines Geschenks verpflichtet\.
+
+\[ [🔗 Permalink](#-755-abgb--rechenmethode) \]
 
 ## Vierzehntes Hauptstück
 
@@ -5325,9 +6573,13 @@
 
 > Der Pflichtteil ist der Anteil am Wert des Vermögens des Verstorbenen, der dem Pflichtteilsberechtigten zukommen soll\.
 
+\[ [🔗 Permalink](#-756-abgb--1-pflichtteilsberechtigung) \]
+
 ### § 757 ABGB
 
 > Pflichtteilsberechtigt sind die Nachkommen sowie der Ehegatte oder eingetragene Partner des Verstorbenen\.
+
+\[ [🔗 Permalink](#-757-abgb) \]
 
 ### § 758 ABGB
 
@@ -5337,9 +6589,13 @@
 
 > `(3)` Eine in ihrem Pflichtteil verkürzte Person kann sich auch dann auf ihre Pflichtteilsberechtigung stützen, wenn ihr ein Erbrecht aus einem Erbvertrag, einem letzten Willen oder dem Gesetz gebührt\.
 
+\[ [🔗 Permalink](#-758-abgb) \]
+
 ### § 759 ABGB — 2. Höhe
 
 > Als Pflichtteil gebührt jeder pflichtteilsberechtigten Person die Hälfte dessen, was ihr nach der gesetzlichen Erbfolge zustünde\.
+
+\[ [🔗 Permalink](#-759-abgb--2-höhe) \]
 
 ### § 760 ABGB
 
@@ -5347,19 +6603,27 @@
 
 > `(2)` Wenn aber einer der in § 757 angeführten Personen aus anderen Gründen kein oder nur ein geminderter Pflichtteil zusteht und an ihrer Stelle auch keine Nachkommen den Pflichtteil erhalten, erhöhen sich die Pflichtteile der anderen Pflichtteilsberechtigten anteilig; die §§ 733 und 734 sind anzuwenden\.
 
+\[ [🔗 Permalink](#-760-abgb) \]
+
 ### § 761 ABGB — 3. Erfüllungsarten — Leistung und Deckung des Pflichtteils
 
 > `(1)` Der Pflichtteil ist in Geld zu leisten\. Er kann aber auch durch eine Zuwendung auf den Todesfall des Verstorbenen \(§ 780\) oder eine Schenkung unter Lebenden \(§ 781\) gedeckt werden\.
 
 > `(2)` Wenn der Verstorbene jemanden auf den Pflichtteil gesetzt hat, wird vermutet, dass er ihm einen Geldanspruch und nicht ein Vermächtnis zuwenden wollte\.
 
+\[ [🔗 Permalink](#-761-abgb--3-erfüllungsarten--leistung-und-deckung-des-pflichtteils) \]
+
 ### § 762 ABGB — Bedingungen und Belastungen
 
 > Haften einer Zuwendung oder Schenkung im Sinn der §§ 780 und 781 Bedingungen oder Belastungen an, die der Verwertung des zugewendeten Vermögens entgegenstehen, so hindert dies nicht deren Eignung zur Pflichtteilsdeckung; ein dadurch fehlender oder verminderter Nutzen ist aber bei der Bewertung der Zuwendung oder Schenkung zu berücksichtigen\.
 
+\[ [🔗 Permalink](#-762-abgb--bedingungen-und-belastungen) \]
+
 ### § 763 ABGB — Geldpflichtteil
 
 > Soweit der Pflichtteil durch eine Zuwendung oder Schenkung im Sinn der §§ 780 und 781 nicht oder nicht voll gedeckt wird, kann der Pflichtteilsberechtigte den Pflichtteil selbst oder dessen Ergänzung in Geld fordern\.
+
+\[ [🔗 Permalink](#-763-abgb--geldpflichtteil) \]
 
 ### § 764 ABGB — 4. Pflichtteilsschuldner
 
@@ -5367,11 +6631,15 @@
 
 > `(2)` Wenn der Pflichtteil durch eine Zuwendung oder Schenkung im Sinn der §§ 780 und 781 nicht oder nicht voll gedeckt wird, haben neben den Erben auch die Vermächtnisnehmer höchstens bis zum Wert der Verlassenschaft zu seiner Bedeckung verhältnismäßig beizutragen, nicht jedoch der Ehegatte oder eingetragene Partner mit dem gesetzlichen Vorausvermächtnis, der Lebensgefährte mit einem solchen gesetzlichen Vermächtnis und der Begünstigte aus einem Pflegevermächtnis\.
 
+\[ [🔗 Permalink](#-764-abgb--4-pflichtteilsschuldner) \]
+
 ### § 765 ABGB — 5. Anfall und Fälligkeit
 
 > `(1)` Der Pflichtteilsberechtigte erwirbt den Anspruch für sich und seine Nachfolger mit dem Tod des Verstorbenen\.
 
 > `(2)` Den Geldpflichtteil kann der Pflichtteilsberechtigte erst ein Jahr nach dem Tod des Verstorbenen fordern\.
+
+\[ [🔗 Permalink](#-765-abgb--5-anfall-und-fälligkeit) \]
 
 ### § 766 ABGB — Stundung
 
@@ -5381,6 +6649,8 @@
 
 > `(3)` In besonders berücksichtigungswürdigen Fällen kann der in Abs\. 1 genannte Zeitraum auf insgesamt höchstens zehn Jahre durch das Gericht verlängert werden\.
 
+\[ [🔗 Permalink](#-766-abgb--stundung) \]
+
 ### § 767 ABGB
 
 > `(1)` Der Pflichtteilsanspruch ist auf Verlangen eines Pflichtteilsschuldners auch gerichtlich zu stunden, soweit diesen die Erfüllung unter Berücksichtigung aller Umstände unbillig hart träfe\. Dies kann insbesondere der Fall sein, wenn er mangels ausreichenden anderen Vermögens die Wohnung, die ihm zur Befriedigung seines dringenden Wohnbedürfnisses dient, oder ein Unternehmen, das seine wirtschaftliche Lebensgrundlage darstellt, veräußern müsste\. Ebenso ist der Geldpflichtteilsanspruch auf Verlangen eines Pflichtteilsschuldners zu stunden, wenn dessen sofortige Entrichtung den Fortbestand eines Unternehmens erheblich gefährdet\. Die Interessen des Pflichtteilsberechtigten sind angemessen zu berücksichtigen\.
@@ -5389,15 +6659,21 @@
 
 > `(3)` In besonders berücksichtigungswürdigen Fällen kann der in Abs\. 2 genannte Zeitraum auf insgesamt höchstens zehn Jahre durch das Gericht verlängert werden\.
 
+\[ [🔗 Permalink](#-767-abgb) \]
+
 ### § 768 ABGB — Sicherstellung des Pflichtteilsanspruchs und Anpassung einer Stundungsregelung
 
 > Das Gericht kann auf Antrag die Sicherstellung des Pflichtteilsanspruchs anordnen und bei einer erheblichen Änderung der Umstände eine Stundungsregelung ändern oder aufheben\. Der Pflichtteilsschuldner und der Pflichtteilsberechtigte haben einander über eine wesentliche Änderung der Umstände unverzüglich zu informieren\.
+
+\[ [🔗 Permalink](#-768-abgb--sicherstellung-des-pflichtteilsanspruchs-und-anpassung-einer-stundungsregelung) \]
 
 ## II. Ausschluss von der Pflichtteilsberechtigung
 
 ### § 769 ABGB — 1. Enterbung — Allgemeines
 
 > Enterbung ist die gänzliche oder teilweise Entziehung des Pflichtteils durch letztwillige Verfügung\.
+
+\[ [🔗 Permalink](#-769-abgb--1-enterbung--allgemeines) \]
 
 ### § 770 ABGB — Enterbungsgründe
 
@@ -5415,9 +6691,13 @@
 >
 >> `6.` wegen einer oder mehrerer mit Vorsatz begangener strafbarer Handlungen zu einer lebenslangen oder zwanzigjährigen Freiheitsstrafe verurteilt worden ist\.
 
+\[ [🔗 Permalink](#-770-abgb--enterbungsgründe) \]
+
 ### § 771 ABGB — Enterbung aus guter Absicht
 
 > Wenn auf Grund der Verschuldung oder des verschwenderischen Lebensstils eines Pflichtteilsberechtigten die Gefahr besteht, dass der ihm gebührende Pflichtteil ganz oder größtenteils seinen Kindern entgehen wird, kann ihm der Pflichtteil zugunsten seiner Kinder entzogen werden\.
+
+\[ [🔗 Permalink](#-771-abgb--enterbung-aus-guter-absicht) \]
 
 ### § 772 ABGB — Art der Erklärung und Ursächlichkeit des Grundes
 
@@ -5425,11 +6705,15 @@
 
 > `(2)` Der Enterbungsgrund muss für die Enterbung durch den Verstorbenen ursächlich gewesen sein\.
 
+\[ [🔗 Permalink](#-772-abgb--art-der-erklärung-und-ursächlichkeit-des-grundes) \]
+
 ### § 773 ABGB — Widerruf der Enterbung und Verzeihung
 
 > `(1)` Die Enterbung kann widerrufen werden, und zwar ausdrücklich oder stillschweigend durch die nachträgliche letztwillige Bedenkung des vorher Enterbten oder durch den Widerruf der letztwilligen Verfügung, welche die Enterbung anordnet\.
 
 > `(2)` Konnte der Verstorbene die Enterbung auf Grund fehlender Testierfähigkeit nicht mehr widerrufen, so ist die Enterbung unwirksam, wenn der Verstorbene zu erkennen gegeben hat, dass er dem Enterbten verziehen hat\.
+
+\[ [🔗 Permalink](#-773-abgb--widerruf-der-enterbung-und-verzeihung) \]
 
 ### § 774 ABGB — Beweislast
 
@@ -5437,11 +6721,15 @@
 
 > `(2)` Bei Vorliegen eines Enterbungsgrundes wird vermutet, dass dieser für die ausdrückliche oder stillschweigende Enterbung ursächlich war\.
 
+\[ [🔗 Permalink](#-774-abgb--beweislast) \]
+
 ### § 775 ABGB — Enterbung ohne Grund und Übergehung
 
 > `(1)` Hat der Verstorbene den Pflichtteilsberechtigten wegen eines bestimmten Verhaltens, das keinen Enterbungsgrund darstellt, ausdrücklich oder stillschweigend enterbt, so wird vermutet, dass er ihn auf den Pflichtteil setzen und nicht mit einem Erbteil bedenken wollte\.
 
 > `(2)` Wenn der Verstorbene Kinder und deren Nachkommen hatte, von deren Geburt er bei Errichtung einer letztwilligen Verfügung nicht wusste, wird vermutet, dass er ihnen letztwillig etwas zukommen lassen wollte\. Hatte er daneben noch andere Kinder, so wird vermutet, dass er das ihm nicht bekannte Kind zumindest gleich bedacht hätte wie das am mindesten bedachte Kind\. Wenn das ihm nicht bekannte Kind sein einziges war, gilt die letztwillige Verfügung als widerrufen, es sei denn, dass der Verstorbene diese Verfügung auch in Kenntnis von seinem Kind errichtet hätte\.
+
+\[ [🔗 Permalink](#-775-abgb--enterbung-ohne-grund-und-übergehung) \]
 
 ### § 776 ABGB — 2. Pflichtteilsminderung
 
@@ -5451,9 +6739,13 @@
 
 > `(3)` Die §§ 773 und 774 gelten sinngemäß für die Pflichtteilsminderung; die Pflichtteilsminderung kann auch stillschweigend durch Übergehung in der letztwilligen Verfügung angeordnet worden sein\.
 
+\[ [🔗 Permalink](#-776-abgb--2-pflichtteilsminderung) \]
+
 ### § 777 ABGB — 3. Notwendiger Unterhalt des Pflichtteilsberechtigten
 
 > Selbst wenn ein Pflichtteilsberechtigter erbunwürdig oder enterbt worden ist, steht ihm doch stets der notwendige Unterhalt zu\.
+
+\[ [🔗 Permalink](#-777-abgb--3-notwendiger-unterhalt-des-pflichtteilsberechtigten) \]
 
 ## III. Pflichtteilsermittlung
 
@@ -5463,17 +6755,23 @@
 
 > `(2)` Die Schätzung hat auf den Todestag des Verstorbenen abzustellen\. Bis zur Erfüllung des Geldpflichtteils stehen dem Pflichtteilsberechtigten die gesetzlichen Zinsen zu\.
 
+\[ [🔗 Permalink](#-778-abgb--1-ermittlung-und-berechnung-des-pflichtteils) \]
+
 ### § 779 ABGB
 
 > `(1)` Schulden und andere Lasten, die schon zu Lebzeiten des Verstorbenen auf dem Vermögen hafteten, werden von der Verlassenschaft ebenso abgezogen wie alle nach dem Erbfall und vor der Einantwortung entstandenen und mit der Besorgung, Verwaltung und Abhandlung der Verlassenschaft verbundenen Kosten\.
 
 > `(2)` Der Pflichtteil wird aber ohne Rücksicht auf Vermächtnisse und andere aus dem letzten Willen entspringende Lasten berechnet\.
 
+\[ [🔗 Permalink](#-779-abgb) \]
+
 ### § 780 ABGB — 2. Anrechnung von Zuwendungen auf den Todesfall
 
 > `(1)` Alles, was der Pflichtteilsberechtigte als Erbteil, Vermächtnis oder nach dem Erbfall als Begünstigter einer vom Verstorbenen errichteten Privatstiftung oder vergleichbaren Vermögensmasse erhält, wird auf den Geldpflichtteil angerechnet, also von diesem abgezogen\.
 
 > `(2)` Zuwendungen auf den Todesfall sind auf den Zeitpunkt des Todes des Verstorbenen zu bewerten\.
+
+\[ [🔗 Permalink](#-780-abgb--2-anrechnung-von-zuwendungen-auf-den-todesfall) \]
 
 ### § 781 ABGB — 3. Hinzu- und Anrechnung von Schenkungen unter Lebenden
 
@@ -5493,11 +6791,15 @@
 >
 >> `6.` jede andere Leistung, die nach ihrem wirtschaftlichen Gehalt einem unentgeltlichen Rechtsgeschäft unter Lebenden gleichkommt\.
 
+\[ [🔗 Permalink](#-781-abgb--3-hinzu--und-anrechnung-von-schenkungen-unter-lebenden) \]
+
 ### § 782 ABGB — Schenkungen an nicht pflichtteilsberechtigte Personen
 
 > `(1)` Auf Verlangen eines Pflichtteilsberechtigten sind Schenkungen, die der Verstorbene in den letzten beiden Jahren vor seinem Tod an Personen, die nicht dem Kreis der Pflichtteilsberechtigten angehören \(§ 757\), wirklich gemacht hat, bei der Berechnung der Verlassenschaft hinzuzurechnen\.
 
 > `(2)` Dieses Recht steht einem Nachkommen nur bei Schenkungen zu, die der Verstorbene zu einer Zeit gemacht hat, zu der er ein pflichtteilsberechtigtes Kind gehabt hat, dem Ehegatten oder eingetragenen Partner nur bei Schenkungen, die während seiner Ehe oder eingetragenen Partnerschaft mit dem Verstorbenen gemacht worden sind\.
+
+\[ [🔗 Permalink](#-782-abgb--schenkungen-an-nicht-pflichtteilsberechtigte-personen) \]
 
 ### § 783 ABGB — Schenkungen an Pflichtteilsberechtigte
 
@@ -5505,17 +6807,25 @@
 
 > `(2)` Die Hinzu\- und Anrechnung kann auch ein Vermächtnisnehmer verlangen, soweit er zur Pflichtteilserfüllung beizutragen hat oder einen verhältnismäßigen Abzug erleidet\.
 
+\[ [🔗 Permalink](#-783-abgb--schenkungen-an-pflichtteilsberechtigte) \]
+
 ### § 784 ABGB — Ausnahmen
 
 > Schenkungen, die der Verstorbene aus Einkünften ohne Schmälerung des Stammvermögens, zu gemeinnützigen Zwecken, in Entsprechung einer sittlichen Pflicht oder aus Gründen des Anstandes gemacht hat, sind weder hinzu\- noch anzurechnen, sofern der Verstorbene und der Geschenknehmer nichts anderes vereinbart haben\.
+
+\[ [🔗 Permalink](#-784-abgb--ausnahmen) \]
 
 ### § 785 ABGB
 
 > Schenkungen an einen Pflichtteilsberechtigten sind auf dessen Pflichtteil insoweit nicht anzurechnen, als der Verstorbene den Erlass dieser Anrechnung letztwillig verfügt oder mit ihm vereinbart hat\. In einem solchen Fall ist die von der Anrechnung befreite Zuwendung bei der Ermittlung des Pflichtteils dieses von der Anrechnung befreiten Pflichtteilsberechtigten nicht hinzuzurechnen\. Der Vertrag über den Erlass der Anrechnung bedarf der Schriftform; die Aufhebung dieses Vertrags bedarf der Formvorschriften für einen Pflichtteilsverzicht\.
 
+\[ [🔗 Permalink](#-785-abgb) \]
+
 ### § 786 ABGB — Auskunftsanspruch
 
 > Wer berechtigt ist, die Hinzurechnung bestimmter Schenkungen zu verlangen, hat in Bezug auf diese einen Auskunftsanspruch gegen die Verlassenschaft, die Erben und den Geschenknehmer\.
+
+\[ [🔗 Permalink](#-786-abgb--auskunftsanspruch) \]
 
 ### § 787 ABGB — Rechenmethode
 
@@ -5523,9 +6833,13 @@
 
 > `(2)` Von einem auf solche Art und Weise vergrößerten Pflichtteil ist die Schenkung an den pflichtteilsberechtigten Geschenknehmer, soweit sie auf seinen Pflichtteil anzurechnen ist, abzuziehen\.
 
+\[ [🔗 Permalink](#-787-abgb--rechenmethode) \]
+
 ### § 788 ABGB — Bewertung der Schenkung
 
 > Die geschenkte Sache ist auf den Zeitpunkt zu bewerten, in dem die Schenkung wirklich gemacht wurde\. Dieser Wert ist sodann auf den Todeszeitpunkt nach einem von der Statistik Austria verlautbarten Verbraucherpreisindex anzupassen\.
+
+\[ [🔗 Permalink](#-788-abgb--bewertung-der-schenkung) \]
 
 ## IV. Haftung des Geschenknehmers
 
@@ -5537,11 +6851,15 @@
 
 > `(3)` Bezahlt der Geschenknehmer den Fehlbetrag oder den Anteil, für den er nach Abs\. 2 einzustehen hat, nicht, so haftet er nur mit der zugewendeten Sache\.
 
+\[ [🔗 Permalink](#-789-abgb) \]
+
 ### § 790 ABGB
 
 > `(1)` Besitzt der Geschenknehmer die zugewendete Sache oder ihren Wert nicht mehr oder hat sich ihr Wert vermindert, so haftet er mit seinem gesamten Vermögen, wenn er diesen Verlust unredlich zugelassen hat\.
 
 > `(2)` Auf den Anspruch auf Zahlung des Fehlbetrags sind §§ 766 bis 768 über die Stundung des Pflichtteils sinngemäß anzuwenden\.
+
+\[ [🔗 Permalink](#-790-abgb) \]
 
 ### § 791 ABGB
 
@@ -5551,9 +6869,13 @@
 
 > `(3)` Soweit der Geschenknehmer oder dessen Erbe eine Haftungsbeschränkung bereits geltend gemacht hat, kann eine Person, der der Pflichtteil anstelle des Pflichtteilsberechtigten zufällt oder deren Pflichtteil durch den Wegfall des Pflichtteilsberechtigten erhöht wird, keine weitere solche Haftungsbeschränkung geltend machen\.
 
+\[ [🔗 Permalink](#-791-abgb) \]
+
 ### § 792 ABGB
 
 > Wenn der Geschenknehmer im Zeitpunkt der Schenkung nicht zum Kreis der pflichtteilsberechtigten Personen gehörte \(§ 757\), haftet er nicht, wenn der Verstorbene die Schenkung mehr als zwei Jahre vor seinem Tod wirklich gemacht hat\.
+
+\[ [🔗 Permalink](#-792-abgb) \]
 
 ## Fünfzehntes Hauptstück
 
@@ -5565,25 +6887,37 @@
 
 > `(2)` Wie weit das Gericht nach einem Todesfall von Amts wegen vorzugehen hat und welche Fristen und Sicherungsmittel bei der Abhandlung zu beachten sind, bestimmen die Verfahrensgesetze\. Sie regeln auch, wie ein Erbe oder Gläubiger Ansprüche gegen die Verlassenschaft geltend machen kann\.
 
+\[ [🔗 Permalink](#-797-abgb--i-voraussetzungen-für-den-erwerb-einer-erbschaft--einantwortungsprinzip) \]
+
 ### § 798 ABGB — Überlassung der Verlassenschaft
 
 > Überlässt das Gericht eine überschuldete Verlassenschaft an Zahlungs statt, so bildet der Überlassungsbeschluss den Titel zum Erwerb\. Das Gleiche gilt für die gerichtlich erteilte Ermächtigung, Verlassenschaftsvermögen zu übernehmen\.
+
+\[ [🔗 Permalink](#-798-abgb--überlassung-der-verlassenschaft) \]
 
 ### § 799 ABGB — Nachweis des Rechtstitels; Erbantrittserklärung
 
 > Wer eine Erbschaft erwerben will, muss dem Gericht den Rechtstitel \(Erbvertrag, letztwillige Verfügung oder Gesetz\) nachweisen und ausdrücklich erklären, die Erbschaft anzutreten\.
 
+\[ [🔗 Permalink](#-799-abgb--nachweis-des-rechtstitels-erbantrittserklärung) \]
+
 ### § 800 ABGB — Bedingte und unbedingte Erbantrittserklärung
 
 > Die Erbantrittserklärung kann unbedingt oder bedingt, also unter dem Vorbehalt der Errichtung eines Inventars, abgegeben werden\.
+
+\[ [🔗 Permalink](#-800-abgb--bedingte-und-unbedingte-erbantrittserklärung) \]
 
 ### § 801 ABGB — Wirkung der unbedingten Erbantrittserklärung
 
 > Die unbedingte Erbantrittserklärung bewirkt, dass der Erbe persönlich allen Gläubigern des Verstorbenen für ihre Forderungen und allen Vermächtnisnehmern für ihre Vermächtnisse haftet, selbst wenn die Verlassenschaft zur Deckung dieser Lasten nicht hinreicht\.
 
+\[ [🔗 Permalink](#-801-abgb--wirkung-der-unbedingten-erbantrittserklärung) \]
+
 ### § 802 ABGB — Wirkung der bedingten Erbantrittserklärung
 
 > Wird die Erbschaft mit Vorbehalt des Inventars angetreten, so hat das Gericht auf Kosten der Verlassenschaft ein Inventar zu errichten\. Ein solcher Erbe haftet den Gläubigern und Vermächtnisnehmern nur so weit, als die Verlassenschaft für ihre und auch seine eigenen Forderungen, das Erbrecht ausgenommen, hinreicht\.
+
+\[ [🔗 Permalink](#-802-abgb--wirkung-der-bedingten-erbantrittserklärung) \]
 
 ### § 803 ABGB — Berechtigung zum Antritt oder zur Ausschlagung der Erbschaft
 
@@ -5591,21 +6925,31 @@
 
 > `(2)` Auf das Recht, eine Erbschaft bedingt oder unbedingt anzutreten, sie auszuschlagen oder die Errichtung eines Inventars zu verlangen, kann im Voraus nicht verzichtet werden\.
 
+\[ [🔗 Permalink](#-803-abgb--berechtigung-zum-antritt-oder-zur-ausschlagung-der-erbschaft) \]
+
 ### § 804 ABGB
 
 > Auch ein Pflichtteilsberechtigter kann die Errichtung des Inventars beantragen\.
+
+\[ [🔗 Permalink](#-804-abgb) \]
 
 ### § 805 ABGB
 
 > Der Erbe kann die Erbschaft auch ausschlagen\.
 
+\[ [🔗 Permalink](#-805-abgb) \]
+
 ### § 806 ABGB
 
 > Der Erbe kann weder die Ausschlagung noch seine Erbantrittserklärung widerrufen noch seine unbedingte in eine bedingte Erbantrittserklärung ändern und sich die Errichtung des Inventars vorbehalten\.
 
+\[ [🔗 Permalink](#-806-abgb) \]
+
 ### § 807 ABGB
 
 > Wenn auch nur ein Miterbe eine bedingte Erbantrittserklärung abgibt, so ist ein Inventar zu errichten, das der Verlassenschaftsabhandlung zu Grunde zu legen ist\. Nach Errichtung eines Inventars genießt auch ein Erbe, der eine unbedingte Erbantrittserklärung abgegeben hat, die damit verbundene Haftungsbeschränkung\.
+
+\[ [🔗 Permalink](#-807-abgb) \]
 
 ### § 808 ABGB
 
@@ -5613,9 +6957,13 @@
 
 > `(2)` Eine pflichtteilsberechtigte Person kann die Erbschaft nicht unter dem Vorbehalt ihres Pflichtteiles ausschlagen\.
 
+\[ [🔗 Permalink](#-808-abgb) \]
+
 ### § 809 ABGB — Übertragung des Erbrechts
 
 > Stirbt der Erbe, bevor er die angefallene Erbschaft angetreten oder ausgeschlagen hat, so treten seine Erben in das Recht, die Erbschaft anzunehmen oder auszuschlagen, ein \(§ 537\)\.
+
+\[ [🔗 Permalink](#-809-abgb--übertragung-des-erbrechts) \]
 
 ## II. Vorkehrungen vor Einantwortung
 
@@ -5627,9 +6975,13 @@
 
 > `(3)` Ist nach der Aktenlage die Errichtung eines Inventars zu erwarten, so dürfen Vermögensgegenstände, deren Veräußerung nicht zum ordentlichen Wirtschaftsbetrieb gehört, erst veräußert werden, nachdem sie in ein Inventar \(Teilinventar\) aufgenommen worden sind\.
 
+\[ [🔗 Permalink](#-810-abgb--1-verwaltung) \]
+
 ### § 811 ABGB — 2. Sicherstellung oder Befriedigung der Gläubiger
 
 > Die Gläubiger können die Befriedigung oder Sicherstellung ihrer Forderungen gegen die Verlassenschaft bereits vor Abgabe einer Erbantrittserklärung verlangen und zur Vertretung der Verlassenschaft die Bestellung eines Kurators beantragen\.
+
+\[ [🔗 Permalink](#-811-abgb--2-sicherstellung-oder-befriedigung-der-gläubiger) \]
 
 ### § 812 ABGB — 3. Absonderung der Verlassenschaft vom Vermögen des Erben
 
@@ -5639,25 +6991,37 @@
 
 > `(3)` Die Absonderung kann durch eine angemessene Sicherheitsleistung des Erben, die auch der Verlassenschaft entnommen werden kann, abgewendet oder aufgehoben werden\. Die Absonderung ist weiters von Amts wegen oder auf Antrag aufzuheben, wenn sie zu Unrecht bewilligt wurde, ihre Voraussetzungen weggefallen sind oder die Separationsgläubiger ihre Ansprüche nicht ohne Verzug gehörig betreiben\.
 
+\[ [🔗 Permalink](#-812-abgb--3-absonderung-der-verlassenschaft-vom-vermögen-des-erben) \]
+
 ### § 813 ABGB — 4. Aufforderung der Verlassenschaftsgläubiger
 
 > Der Erbe oder Verlassenschaftskurator kann zur Feststellung des Schuldenstandes beantragen, dass mit Edikt alle Gläubiger aufgefordert werden, ihre Forderungen binnen einer zu bestimmenden angemessenen Frist anzumelden\. Dieses Edikt hat den Hinweis zu enthalten, dass bis zum Ablauf der Frist mit der Befriedigung der Gläubiger innegehalten werden kann\.
+
+\[ [🔗 Permalink](#-813-abgb--4-aufforderung-der-verlassenschaftsgläubiger) \]
 
 ### § 814 ABGB — Wirkung der Aufforderung oder ihrer Unterlassung
 
 > Die gerichtliche Aufforderung bewirkt, dass den Gläubigern, die ihre Forderung nicht fristgerecht angemeldet haben, gegen die Verlassenschaft kein weiterer Anspruch zusteht, wenn sie durch Befriedigung der angemeldeten Forderungen erschöpft ist\. Das gilt nicht, soweit die Forderung pfandrechtlich gesichert ist\.
 
+\[ [🔗 Permalink](#-814-abgb--wirkung-der-aufforderung-oder-ihrer-unterlassung) \]
+
 ### § 815 ABGB
 
 > Wenn der Erbe die Aufforderung unterlässt oder nur einige Gläubiger befriedigt, ohne auf die Rechte der anderen Rücksicht zu nehmen, und deshalb einige Gläubiger wegen Überschuldung der Verlassenschaft unbefriedigt bleiben, haftet der Erbe diesen Gläubigern, ungeachtet einer bedingten Erbantrittserklärung, mit seinem ganzen Vermögen für denjenigen Betrag, den sie bei gehöriger Aufforderung oder Befriedigung erhalten hätten\.
+
+\[ [🔗 Permalink](#-815-abgb) \]
 
 ### § 816 ABGB — 5. Nachweis über die Erfüllung des letzten Willens — Testamentsvollstrecker
 
 > Der Verstorbene kann letztwillig einen Vollstrecker seines letzten Willens ernennen\. Übernimmt der Testamentsvollstrecker diese Aufgabe, so hat er entweder als Machthaber die Anordnungen des Verstorbenen selbst zu vollziehen oder deren Einhaltung zu überwachen und den säumigen Erben zur Vollziehung derselben zu veranlassen\.
 
+\[ [🔗 Permalink](#-816-abgb--5-nachweis-über-die-erfüllung-des-letzten-willens--testamentsvollstrecker) \]
+
 ### § 817 ABGB — Nachweis der Testamentserfüllung
 
 > Ist kein Testamentsvollstrecker ernannt oder nimmt dieser seine Ernennung nicht an, so hat der Erbe dem Gericht nachzuweisen, dass er den Willen des Verstorbenen möglichst erfüllt oder Sicherheit geleistet hat\.
+
+\[ [🔗 Permalink](#-817-abgb--nachweis-der-testamentserfüllung) \]
 
 ## III. Einantwortung und ihre Folgen
 
@@ -5665,13 +7029,19 @@
 
 > Sobald die Erbantrittserklärungen abgegeben wurden, die Erben und ihre Quoten feststehen und die übrigen Voraussetzungen erfüllt sind, wird den Erben die Erbschaft eingeantwortet und die Abhandlung beendet\. Die Erben haben ihr durch die Einantwortung begründetes Eigentum an unbeweglichen Sachen in die öffentlichen Bücher eintragen zu lassen \(§ 436\)\.
 
+\[ [🔗 Permalink](#-819-abgb--einantwortung) \]
+
 ### § 820 ABGB — Haftung mehrerer Erben
 
 > Mehrere Erben, die eine Erbschaft unbedingt angetreten haben, haften Erbschaftsgläubigern und Vermächtnisnehmern zur ungeteilten Hand\. Im Verhältnis zueinander haften sie nach dem Verhältnis ihrer Erbteile\.
 
+\[ [🔗 Permalink](#-820-abgb--haftung-mehrerer-erben) \]
+
 ### § 821 ABGB
 
 > Wenn ein Inventar errichtet wurde und die Schuld teilbar ist, haftet jeder Miterbe persönlich nur für denjenigen Teil einer Forderung, der seiner Erbquote entspricht\. Ist die Schuld unteilbar, so haften die Erben trotz Inventarisierung zur ungeteilten Hand, insgesamt jedoch höchstens bis zum Wert der eingeantworteten Verlassenschaft\.
+
+\[ [🔗 Permalink](#-821-abgb) \]
 
 ### § 823 ABGB — Erbschafts- und Aneignungsklage
 
@@ -5679,9 +7049,13 @@
 
 > `(2)` Der Bund kann in sinngemäßer Anwendung des Abs\. 1 gegen den eingeantworteten Erben das Recht, sich die Verlassenschaft anzueignen, geltend machen\.
 
+\[ [🔗 Permalink](#-823-abgb--erbschafts--und-aneignungsklage) \]
+
 ### § 824 ABGB — Wirkung der Erbschafts- und Aneignungsklage
 
 > Wenn der Beklagte ganz oder zum Teil zur Herausgabe der Verlassenschaft verurteilt wird, sind die Ansprüche auf die Zurückstellung der von ihm gezogenen Früchte oder auf die Vergütung der von ihm getätigten Aufwendungen und Kosten nach denjenigen Grundsätzen zu beurteilen, die für den redlichen oder unredlichen Besitzer im Hauptstück vom Besitz festgesetzt sind\. Ein dritter redlicher Erwerber ist für die in der Zwischenzeit erworbenen Erbstücke niemandem verantwortlich\.
+
+\[ [🔗 Permalink](#-824-abgb--wirkung-der-erbschafts--und-aneignungsklage) \]
 
 ## Sechzehntes Hauptstück.
 
@@ -5691,13 +7065,19 @@
 
 > So oft das Eigenthum der nähmlichen Sache, oder ein und dasselbe Recht mehreren Personen ungetheilt zukommt; besteht eine Gemeinschaft\. Sie gründet sich auf eine zufällige Ereignung; auf ein Gesetz; auf eine letzte Willenserklärung; oder auf einen Vertrag\.
 
+\[ [🔗 Permalink](#-825-abgb--ursprung-einer-gemeinschaft) \]
+
 ### § 826 ABGB
 
 > Nach Verschiedenheit der Quellen, aus denen eine Gemeinschaft entspringt, erhalten auch die Rechte und Pflichten der Theilhaber ihre nähere Bestimmung\. Für eine bloße Miteigentumsgemeinschaft gelten die Bestimmungen des siebenundzwanzigsten Hauptstücks nur dann, wenn die Miteigentümer ausdrücklich vereinbaren, als Gesellschafter einer Gesellschaft bürgerlichen Rechts zusammenwirken zu wollen\.
 
+\[ [🔗 Permalink](#-826-abgb) \]
+
 ### § 827 ABGB
 
 > Wer einen Antheil an einer gemeinschaftlichen Sache anspricht, der muß sein Recht, wenn es von den übrigen Theilnehmern widersprochen wird, beweisen\.
+
+\[ [🔗 Permalink](#-827-abgb) \]
 
 ### § 828 ABGB — Gemeinschaftliche Rechte der Theilhaber
 
@@ -5705,21 +7085,31 @@
 
 > `(2)` Eine gerichtliche oder vertraglich vereinbarte Benützungsregelung zwischen den Teilhabern einer unbeweglichen Sache wirkt auch für deren Rechtsnachfolger, wenn sie im Grundbuch angemerkt ist\.
 
+\[ [🔗 Permalink](#-828-abgb--gemeinschaftliche-rechte-der-theilhaber) \]
+
 ### § 829 ABGB — Rechte des Theilhabers auf seinen Antheil
 
 > Jeder Theilhaber ist vollständiger Eigenthümer seines Antheiles\. In so fern er die Rechte seiner Mitgenossen nicht verletzt, kann er denselben, oder die Nutzungen davon willkührlich und unabhängig verpfänden, vermachen, oder sonst veräußern \(§\. 361\)\.
+
+\[ [🔗 Permalink](#-829-abgb--rechte-des-theilhabers-auf-seinen-antheil) \]
 
 ### § 830 ABGB
 
 > Jeder Theilhaber ist befugt, auf Ablegung der Rechnung und auf Vertheilung des Ertrages zu dringen\. Er kann in der Regel auch die Aufhebung der Gemeinschaft verlangen; doch nicht zur Unzeit, oder zum Nachtheile der Uebrigen\. Er muß sich daher einen, den Umständen angemessenen, nicht wohl vermeidlichen Aufschub gefallen lassen\.
 
+\[ [🔗 Permalink](#-830-abgb) \]
+
 ### § 831 ABGB
 
 > Hat sich ein Theilhaber zur Fortsetzung der Gemeinschaft verbunden, so kann er zwar vor Verlauf der Zeit nicht austreten; allein diese Verbindlichkeit wird, wie andere Verbindlichkeiten, aufgehoben, und erstreckt sich nicht auf die Erben, wenn diese nicht selbst dazu eingewilliget haben\.
 
+\[ [🔗 Permalink](#-831-abgb) \]
+
 ### § 832 ABGB
 
 > Auch die Anordnung eines Dritten, wodurch eine Sache zur Gemeinschaft bestimmt wird, muß zwar von den ersten Theilhabern, nicht auch von ihren Erben befolgt werden\. Eine Verbindlichkeit zu einer immerwährenden Gemeinschaft kann nicht bestehen\.
+
+\[ [🔗 Permalink](#-832-abgb) \]
 
 ## Rechte der Theilhaber in der gemeinschaftlichen Sache:
 
@@ -5727,81 +7117,121 @@
 
 > Der Besitz und die Verwaltung der gemeinschaftlichen Sache kommt allen Theilhabern insgesammt zu\. In Angelegenheiten, welche nur die ordentliche Verwaltung und Benützung des Hauptstammes betreffen, entscheidet die Mehrheit der Stimmen, welche nicht nach den Personen, sondern nach Verhältniß der Antheile der Theilnehmer gezählet werden\.
 
+\[ [🔗 Permalink](#-833-abgb--a-in-rücksicht-des-hauptstammes) \]
+
 ### § 834 ABGB
 
 > Bey wichtigen Veränderungen aber, welche zur Erhaltung oder bessern Benützung des Hauptstammes vorgeschlagen werden, können die Ueberstimmten Sicherstellung für künftigen Schaden; oder, wenn diese verweigert wird, den Austritt aus der Gemeinschaft verlangen\.
+
+\[ [🔗 Permalink](#-834-abgb) \]
 
 ### § 835 ABGB
 
 > Wollen sie nicht austreten; oder geschähe der Austritt zur Unzeit; so soll das Los, ein Schiedsmann, oder, wofern sie sich darüber nicht einhellig vereinigen, der Richter entscheiden, ob die Veränderung unbedingt oder gegen Sicherstellung Statt finden soll oder nicht\. Diese Arten der Entscheidung treten auch bey gleichen Stimmen der Mitglieder ein\.
 
+\[ [🔗 Permalink](#-835-abgb) \]
+
 ### § 836 ABGB
 
 > Ist ein Verwalter der gemeinschaftlichen Sachen zu bestellen; so entscheidet über dessen Auswahl die Mehrheit der Stimmen, und in deren Abgang der Richter\.
+
+\[ [🔗 Permalink](#-836-abgb) \]
 
 ### § 837 ABGB
 
 > Der Verwalter des gemeinschaftlichen Gutes wird als ein Machthaber angesehen\. Er ist einerseits verbunden, ordentliche Rechnung abzulegen; andererseits aber befugt, alle nützlich gemachte Auslagen in Abrechnung zu bringen\. Dieses gilt auch in dem Falle, daß ein Theilgenosse ein gemeinschaftliches Gut ohne Auftrag der übrigen Theilnehmer verwaltet\.
 
+\[ [🔗 Permalink](#-837-abgb) \]
+
 ### § 838 ABGB
 
 > Wird die Verwaltung Mehrern überlassen; so entscheidet auch unter ihnen die Mehrheit der Stimmen\.
+
+\[ [🔗 Permalink](#-838-abgb) \]
 
 ### § 838a ABGB
 
 > Streitigkeiten zwischen den Teilhabern über die mit der Verwaltung und Benützung der gemeinschaftlichen Sache unmittelbar zusammenhängenden Rechte und Pflichten sind im Verfahren außer Streitsachen zu entscheiden\.
 
+\[ [🔗 Permalink](#-838a-abgb) \]
+
 ### § 839 ABGB — b) der Nutzungen und Lasten;
 
 > Die gemeinschaftlichen Nutzungen und Lasten werden nach Verhältniß der Antheile ausgemessen\. Im Zweifel wird jeder Antheil gleich groß angesehen; wer das Gegentheil behauptet, muß es beweisen\.
+
+\[ [🔗 Permalink](#-839-abgb--b-der-nutzungen-und-lasten) \]
 
 ### § 840 ABGB
 
 > Ordentlicher Weise sind die erzielten Nutzungen in Natur zu theilen\. Ist aber diese Vertheilungsart nicht thunlich; so ist jeder berechtigt, auf die öffentliche Feilbiethung zu dringen\. Der gelöste Werth wird den Theilhabern verhältnißmäßig entrichtet\.
 
+\[ [🔗 Permalink](#-840-abgb) \]
+
 ### § 841 ABGB — c) der Theilung
 
 > Bey der nach aufgehobener Gemeinschaft vorzunehmenden Theilung der gemeinschaftlichen Sache gilt keine Mehrheit der Stimmen\. Die Theilung muß zur Zufriedenheit eines jeden Sachgenossen vorgenommen werden\. Können sie nicht einig werden; so entscheidet das Los, oder ein Schiedsmann, oder, wenn sie sich über die Bestimmung der einen oder andern dieser Entscheidungsarten nicht einhellig vereinigen, der Richter\.
+
+\[ [🔗 Permalink](#-841-abgb--c-der-theilung) \]
 
 ### § 842 ABGB
 
 > Ein Schiedsmann oder der Richter entscheidet auch, ob bey der Theilung liegender Gründe oder Gebäude ein Theilgenosse, zur Benützung seines Antheiles, einer Servitut bedürfe, und unter welcher Bedingung sie ihm zu verwilligen sey\.
 
+\[ [🔗 Permalink](#-842-abgb) \]
+
 ### § 843 ABGB
 
 > Kann eine gemeinschaftliche Sache entweder gar nicht, oder nicht ohne beträchtliche Verminderung des Werthes getheilt werden; so ist sie, und zwar wenn auch nur Ein Theilgenosse es verlangt, vermittelst gerichtlicher Feilbiethung zu verkaufen, und der Kaufschilling unter die Theilhaber zu vertheilen\.
+
+\[ [🔗 Permalink](#-843-abgb) \]
 
 ### § 844 ABGB
 
 > Servituten, Grenzzeichen und die zum gemeinschaftlichen Gebrauche nötigen Urkunden sind keiner Teilung fähig\. Die Urkunden werden, wenn sonst nichts im Wege steht, bei dem ältesten Teilhaber niedergelegt\. Die übrigen erhalten auf ihre Kosten beglaubigte Abschriften\. Die Grunddienstbarkeiten bestehen mangels Vereinbarung zugunsten aller Teile fort; jedoch darf die Dienstbarkeit dadurch nicht erweitert oder für das dienstbare Gut beschwerlicher werden\. Kommt die Ausübung der Dienstbarkeit nur einzelnen Teilen zugute, so erlischt das Recht hinsichtlich der übrigen Teile\.
 
+\[ [🔗 Permalink](#-844-abgb) \]
+
 ### § 845 ABGB
 
 > Bei Teilungen der Grundstücke sind die gegenseitigen Grenzen durch entsprechende Grenzzeichen auf eine deutliche und unwandelbare Art zu bezeichnen\.
+
+\[ [🔗 Permalink](#-845-abgb) \]
 
 ### § 846 ABGB
 
 > Ueber die gemachte Theilung sind Urkunden zu errichten\. Ein Theilhaber einer unbeweglichen Sache erhält auch erst dadurch ein dingliches Recht auf seinen Antheil, daß die darüber errichtete Urkunde den öffentlichen Büchern einverleibt wird\. \(§\. 436\)
 
+\[ [🔗 Permalink](#-846-abgb) \]
+
 ### § 847 ABGB
 
 > Die bloße Teilung was immer für eines gemeinschaftlichen Gutes kann einem Dritten nicht zum Nachteile gereichen; alle ihm zustehenden Pfand\-, Servituts\- und anderen dinglichen Rechte werden nach wie vor der Teilung ausgeübt\. Trifft jedoch die Ausübung einer Grunddienstbarkeit nur ein Teilstück, so erlischt das Recht hinsichtlich der übrigen Teile\.
+
+\[ [🔗 Permalink](#-847-abgb) \]
 
 ### § 848 ABGB
 
 > Auch persönliche Rechte, die einem Dritten gegen eine Gemeinschaft zustehen, haben ungeachtet des erfolgten Austrittes ihre vorige Kraft\. Ebenso kann derjenige, welcher an eine Gemeinschaft schuldig ist, die Zahlung nicht an einzelne Teilnehmer entrichten\. Solche Schulden müssen an die ganze Gemeinschaft oder an jenen, der sie ordentlich vorstellt, abgetragen werden\.
 
+\[ [🔗 Permalink](#-848-abgb) \]
+
 ### § 848a ABGB
 
 > Gewährt eine Dienstbarkeit oder eine andere dingliche Last einen Anspruch auf Nutzungen, so kann bei Teilung des herrschenden Grundstückes jeder Berechtigte und bei Teilung des belasteten Grundstückes jeder Belastete eine gerichtliche Regelung der Ausübung begehren\. Die Ausübung ist mit Rücksicht auf die Natur und Zweckbestimmung des Rechtes sowie auf das Größenverhältnis und die wirtschaftliche Besonderheit der einzelnen Liegenschaftsteile ohne Erschwerung der Last so zu regeln, wie es allen Interessen billigerweise entspricht\.
+
+\[ [🔗 Permalink](#-848a-abgb) \]
 
 ### § 849 ABGB
 
 > Was bisher von der Gemeinschaft überhaupt bestimmt worden ist, läßt sich auch auf die einer Familie, als einer Gemeinschaft, zustehenden Rechte und Sachen, z\. B\. Stiftungen, Fideicommisse u\. dgl\. anwenden\.
 
+\[ [🔗 Permalink](#-849-abgb) \]
+
 ### § 850 ABGB — Erneuerung und Berichtigung der Grenzen
 
 > Wenn die Grenzzeichen zwischen zwei Grundstücken durch was immer für Umstände so verletzt worden sind, daß sie ganz unkenntlich werden könnten, oder wenn die Grenzen wirklich unkennbar oder streitig sind, so hat jeder der Nachbarn das Recht, die gerichtliche Erneuerung oder Berichtigung der Grenze zu verlangen\. Zu diesem Behufe sind die Nachbarn zu einer Verhandlung im Verfahren außer Streitsachen mit dem Bedeuten zu laden, daß trotz Ausbleibens des Geladenen die Grenze festgesetzt und vermarkt werden wird\.
+
+\[ [🔗 Permalink](#-850-abgb--erneuerung-und-berichtigung-der-grenzen) \]
 
 ### § 851 ABGB
 
@@ -5809,9 +7239,13 @@
 
 > `(2)` Jeder Partei bleibt es vorbehalten, ihr besseres Recht im Prozeßweg geltend zu machen\.
 
+\[ [🔗 Permalink](#-851-abgb) \]
+
 ### § 852 ABGB
 
 > Die wichtigsten Behelfe bey einer Gränzberichtigung sind: die Ausmessung und Beschreibung, oder auch die Abzeichnung des streitigen Grundes; dann, die sich darauf beziehenden öffentlichen Bücher und andere Urkunden; endlich, die Aussagen sachkündiger Zeugen, und das von Sachverständigen nach vorgenommenem Augenscheine gegebene Gutachten\.
+
+\[ [🔗 Permalink](#-852-abgb) \]
 
 ### § 853 ABGB
 
@@ -5819,29 +7253,43 @@
 
 > `(2)` Wenn das Verfahren durch Störung des ruhigen Besitzes veranlaßt wurde, kann das Gericht die Kosten ganz oder teilweise der Partei auferlegen, die den Streit veranlaßt hat\.
 
+\[ [🔗 Permalink](#-853-abgb) \]
+
 ### § 853a ABGB
 
 > Für Grenzen von Grundstücken, die im Grenzkataster enthalten sind, finden die Bestimmungen der §§ 850 bis 853 keine Anwendung\.
+
+\[ [🔗 Permalink](#-853a-abgb) \]
 
 ### § 854 ABGB — Vermuthete Gemeinschaft
 
 > Erdfurchen, Zäune, Hecken, Planken, Mauern, Privat\-Bäche, Canäle, Plätze und andere dergleichen Scheidewände, die sich zwischen benachbarten Grundstücken befinden, werden für ein gemeinschaftliches Eigenthum angesehen, wenn nicht Wapen *\(Anm\.: richtig: Wappen\)*, Auf\- oder Inschriften, oder andere Kennzeichen und Behelfe das Gegentheil beweisen\.
 
+\[ [🔗 Permalink](#-854-abgb--vermuthete-gemeinschaft) \]
+
 ### § 855 ABGB
 
 > Jeder Mitgenosse kann eine gemeinschaftliche Mauer auf seiner Seite bis zur Hälfte in der Dicke benützen, auch Blindthüren und Wandschränke dort anbringen, wo auf der entgegengesetzten Seite noch keine angebracht sind\. Doch darf das Gebäude durch einen Schorstein, Feuerherd oder andere Anlagen nicht in Gefahr gesetzt, und der Nachbar auf keine Art in dem Gebrauche seines Antheiles gehindert werden\.
+
+\[ [🔗 Permalink](#-855-abgb) \]
 
 ### § 856 ABGB
 
 > Alle Miteigenthümer tragen zur Erhaltung solcher gemeinschaftlichen Scheidewände verhältnißmäßig bey\. Wo sie doppelt vorhanden sind; oder das Eigenthum getheilt ist, bestreitet jeder die Unterhaltungskosten für das, was ihm allein gehört\.
 
+\[ [🔗 Permalink](#-856-abgb) \]
+
 ### § 857 ABGB
 
 > Ist die Stellung einer Scheidewand von der Art, daß die Ziegel, Latten oder Steine nur auf einer Seite vorlaufen oder abhängen; oder sind die Pfeiler, Säulen, Ständer, Bachställe auf Einer Seite eingegraben; so ist im Zweifel auf dieser Seite das ungetheilte Eigenthum der Scheidewand, wenn nicht aus einer beyderseitigen Belastung, Einfügung, aus anderen Kennzeichen oder sonstigen Beweisen das Gegentheil erhellet\. Auch derjenige wird für den ausschließenden Besitzer einer Mauer gehalten, welcher eine in der Richtung gleich fortlaufende Mauer von gleicher Höhe und Dicke unstreitig besitzt\.
 
+\[ [🔗 Permalink](#-857-abgb) \]
+
 ### § 858 ABGB
 
 > In der Regel ist der ausschließende Besitzer nicht schuldig, seine verfallene Mauer oder Planke neu aufzuführen; nur dann muß er sie in gutem Stande erhalten, wenn durch die Oeffnung für den Gränznachbar Schaden zu befürchten stünde\. Es ist aber jeder Eigenthümer verbunden, auf der rechten Seite seines Haupteinganges für die nöthige Einschließung seines Raumes, und für die Abtheilung von dem fremden Raume zu sorgen\.
+
+\[ [🔗 Permalink](#-858-abgb) \]
 
 ## Zweyter Theil.
 
@@ -5857,29 +7305,43 @@
 
 > Die persönlichen Sachenrechte, vermöge welcher eine Person einer andern zu einer Leistung verbunden ist, gründen sich unmittelbar auf ein Gesetz; oder auf ein Rechtsgeschäft; oder auf eine erlittene Beschädigung\.
 
+\[ [🔗 Permalink](#-859-abgb--grund-der-persönlichen-sachenrechte) \]
+
 ### § 860 ABGB — Auslobung
 
 > Die nicht an bestimmte Personen gerichtete Zusage einer Belohnung für eine Leistung oder einen Erfolg \(Auslobung\) wird durch die öffentliche Bekanntmachung verbindlich\. Eine Auslobung, die eine Preisbewerbung zum Gegenstande hat, ist nur gültig, wenn in der Bekanntmachung eine Frist für die Bewerbung bestimmt ist\.
+
+\[ [🔗 Permalink](#-860-abgb--auslobung) \]
 
 ### § 860a ABGB
 
 > Bis zur Vollendung der Leistung kann die Auslobung in derselben Form, in welcher sie bekannt gemacht war, oder einer gleich wirksamen Form, oder durch besondere Mitteilung widerrufen werden, wenn anders darauf in der Bekanntmachung nicht ausdrücklich oder durch Bestimmung einer Frist verzichtet ist\. Der Widerruf ist aber unwirksam gegenüber demjenigen, der die Leistung im Hinblick auf die Auslobung vollbracht hat, wenn er dartut, daß der Widerruf ihm zu dieser Zeit ohne sein Verschulden nicht bekannt geworden war\.
 
+\[ [🔗 Permalink](#-860a-abgb) \]
+
 ### § 860b ABGB
 
 > Ist die Leistung von mehreren Personen vollbracht worden, so gebührt, falls nicht aus der Auslobung ein anderer Wille hervorgeht, die Belohnung demjenigen, der die Leistung zuerst vollbracht hat, und bei gleichzeitiger Vollendung allen zu gleichen Theilen\.
+
+\[ [🔗 Permalink](#-860b-abgb) \]
 
 ### § 861 ABGB — Abschließung des Vertrages
 
 > Wer sich erkläret, daß er jemanden sein Recht übertragen, das heißt, daß er ihm etwas gestatten, etwas geben, daß er für ihn etwas thun, oder seinetwegen etwas unterlassen wolle, macht ein Versprechen; nimmt aber der Andere das Versprechen gültig an, so kommt durch den übereinstimmenden Willen beyder Theile ein Vertrag zu Stande\. So lange die Unterhandlungen dauern, und das Versprechen noch nicht gemacht, oder weder zum voraus, noch nachher angenommen ist, entsteht kein Vertrag\.
 
+\[ [🔗 Permalink](#-861-abgb--abschließung-des-vertrages) \]
+
 ### § 862 ABGB
 
 > Das Versprechen \(Antrag\) muß innerhalb der vom Antragsteller bestimmten Frist angenommen werden\. In Ermanglung einer solchen muß der einem Anwesenden oder mittels Fernsprechers von Person zu Person gemachte Antrag sogleich, der sonst einem Abwesenden gemachte Antrag längstens bis zu dem Zeitpunkte angenommen werden, in welchem der Antragsteller unter der Voraussetzung, daß sein Antrag rechtzeitig angekommen sei, bei rechtzeitiger und ordnungsmäßiger Absendung der Antwort deren Eintreffen erwarten darf; widrigenfalls ist der Antrag erloschen\. Vor Ablauf der Annahmefrist kann der Antrag nicht zurückgenommen werden\. Er erlischt auch nicht, wenn ein Teil während der Annahmefrist stirbt oder handlungsunfähig wird, sofern nicht ein anderer Wille des Antragstellers aus den Umständen hervorgeht\.
 
+\[ [🔗 Permalink](#-862-abgb) \]
+
 ### § 862a ABGB
 
 > Als rechtzeitig gilt die Annahme, wenn die Erklärung innerhalb der Annahmefrist dem Antragsteller zugekommen ist\. Trotz ihrer Verspätung kommt jedoch der Vertrag zustande, wenn der Antragsteller erkennen mußte, daß die Annahmeerklärung rechtzeitig abgesendet wurde, und gleichwohl seinen Rücktritt dem andern nicht unverzüglich anzeigt\.
+
+\[ [🔗 Permalink](#-862a-abgb) \]
 
 ### § 863 ABGB
 
@@ -5887,15 +7349,21 @@
 
 > `(2)` In bezug auf die Bedeutung und Wirkung von Handlungen und Unterlassungen ist auf die im redlichen Verkehr geltenden Gewohnheiten und Gebräuche Rücksicht zu nehmen\.
 
+\[ [🔗 Permalink](#-863-abgb) \]
+
 ### § 864 ABGB
 
 > `(1)` Ist eine ausdrückliche Erklärung der Annahme nach der Natur des Geschäftes oder der Verkehrssitte nicht zu erwarten, so kommt der Vertrag zustande, wenn dem Antrag innerhalb der hierfür bestimmten oder den Umständen angemessenen Frist tatsächlich entsprochen worden ist\.
 
 > `(2)` Das Behalten, Verwenden oder Verbrauchen einer Sache, die dem Empfänger ohne seine Veranlassung übersandt worden ist, gilt nicht als Annahme eines Antrags\. Der Empfänger ist nicht verpflichtet, die Sache zu verwahren oder zurückzuleiten, er darf sich ihrer auch entledigen\. Muß ihm jedoch nach den Umständen auffallen, daß die Sache irrtümlich an ihn gelangt ist, so hat er in angemessener Frist dies dem Absender mitzuteilen oder die Sache an den Absender zurückzuleiten\.
 
+\[ [🔗 Permalink](#-864-abgb) \]
+
 ### § 864a ABGB
 
 > Bestimmungen ungewöhnlichen Inhaltes in Allgemeinen Geschäftsbedingungen oder Vertragsformblättern, die ein Vertragsteil verwendet hat, werden nicht Vertragsbestandteil, wenn sie dem anderen Teil nachteilig sind und er mit ihnen auch nach den Umständen, vor allem nach dem äußeren Erscheinungsbild der Urkunde, nicht zu rechnen brauchte; es sei denn, der eine Vertragsteil hat den anderen besonders darauf hingewiesen\.
+
+\[ [🔗 Permalink](#-864a-abgb) \]
 
 ## Erfordernisse eines gültigen Vertrages:
 
@@ -5911,17 +7379,25 @@
 
 > `(5)` Bis die nach Abs\. 3 und 4 erforderlichen Genehmigungen erteilt werden, ist der andere Teil an seine Vertragserklärung gebunden, er kann aber für die Erteilung der Genehmigung durch den Vertreter eine angemessene Frist setzen\.
 
+\[ [🔗 Permalink](#-865-abgb--1-fähigkeiten-der-personen) \]
+
 ### § 867 ABGB
 
 > Was zur Gültigkeit eines Vertrages mit einer unter der besondern Vorsorge der öffentlichen Verwaltung stehenden Gemeinde, \(§\. 27\) oder ihren einzelnen Gliedern und Stellvertretern erfordert werde, ist aus der Verfassung derselben und den politischen Gesetzen zu entnehmen \(§ 290\)\.
+
+\[ [🔗 Permalink](#-867-abgb) \]
 
 ### § 869 ABGB — 2) Wahre Einwilligung
 
 > Die Einwilligung in einen Vertrag muß frey, ernstlich, bestimmt und verständlich erkläret werden\. Ist die Erklärung unverständlich; ganz unbestimmt; oder erfolgt die Annahme unter andern Bestimmungen, als unter welchen das Versprechen geschehen ist; so entsteht kein Vertrag\. Wer sich, um einen Andern zu bevortheilen, undeutlicher Ausdrücke bedient, oder eine Scheinhandlung unternimmt, leistet Genugthuung\.
 
+\[ [🔗 Permalink](#-869-abgb--2-wahre-einwilligung) \]
+
 ### § 870 ABGB
 
 > Wer von dem anderen Teile durch List oder durch ungerechte und gegründete Furcht \(§ 55\) zu einem Vertrage veranlaßt worden, ist ihn zu halten nicht verbunden\.
+
+\[ [🔗 Permalink](#-870-abgb) \]
 
 ### § 871 ABGB
 
@@ -5929,33 +7405,49 @@
 
 > `(2)` Ein Irrtum eines Teiles über einen Umstand, über den ihn der andere nach geltenden Rechtsvorschriften aufzuklären gehabt hätte, gilt immer als Irrtum über den Inhalt des Vertrages und nicht bloß als solcher über den Bewegungsgrund oder den Endzweck \(§ 901\)\.
 
+\[ [🔗 Permalink](#-871-abgb) \]
+
 ### § 872 ABGB
 
 > Betrifft aber der Irrthum weder die Hauptsache, noch eine wesentliche Beschaffenheit derselben, sondern einen Nebenumstand; so bleibt der Vertrag, in so fern beyde Theile in den Hauptgegenstand gewilliget, und den Nebenumstand nicht als vorzügliche Absicht erkläret haben, noch immer gültig: allein dem Irregeführten ist von dem Urheber des Irrthumes die angemessene Vergütung zu leisten\.
+
+\[ [🔗 Permalink](#-872-abgb) \]
 
 ### § 873 ABGB
 
 > Eben diese Grundsätze sind auch auf den Irrthum in der Person desjenigen, welchem ein Versprechen gemacht worden ist, anzuwenden; in so fern ohne den Irrthum der Vertrag entweder gar nicht, oder doch nicht auf solche Art errichtet worden wäre\. Als Irrtum in der Person gilt jedenfalls der Irrtum über das Vorhandensein einer erforderlichen verwaltungsrechtlichen Befugnis zur Erbringung der Leistung\.
 
+\[ [🔗 Permalink](#-873-abgb) \]
+
 ### § 874 ABGB
 
 > In jedem Falle muß derjenige, welcher einen Vertrag durch List oder ungerechte Furcht bewirket hat, für die nachtheiligen Folgen Genugthuung leisten\.
+
+\[ [🔗 Permalink](#-874-abgb) \]
 
 ### § 875 ABGB
 
 > Ist einer der Vertragschließenden von einem Dritten durch List oder durch ungerechte und gegründete Furcht zu einem Vertrage bewogen; oder zu einer irrtümlichen Erklärung veranlaßt worden; so ist der Vertrag gültig\. Nur in dem Falle, daß der andere Teil an der Handlung des Dritten teilnahm oder von derselben offenbar wissen mußte, kommen die §§ 870 bis 874 zur Anwendung\.
 
+\[ [🔗 Permalink](#-875-abgb) \]
+
 ### § 876 ABGB
 
 > Die vorstehenden Bestimmungen \(§§ 869 bis 875\) finden entsprechende Anwendung auf sonstige Willenserklärungen, welche einer anderen Person gegenüber abzugeben sind\.
+
+\[ [🔗 Permalink](#-876-abgb) \]
 
 ### § 877 ABGB
 
 > Wer die Aufhebung eines Vertrages aus Mangel der Einwilligung verlangt, muß dagegen auch alles zurückstellen, was er aus einem solchen Vertrage zu seinem Vortheile erhalten hat\.
 
+\[ [🔗 Permalink](#-877-abgb) \]
+
 ### § 878 ABGB — 3. Möglichkeit und Erlaubtheit
 
 > Was geradezu unmöglich ist, kann nicht Gegenstand eines gültigen Vertrages werden\. Ist Mögliches und Unmögliches zugleich bedungen, so bleibt der Vertrag in ersterem Teile gültig, wenn anders aus dem Vertrage nicht hervorgeht, daß kein Punkt von dem anderen abgesondert werden könne\. Wer bei Abschließung des Vertrages die Unmöglichkeit kannte oder kennen mußte, hat dem anderen Teile, falls von diesem nicht dasselbe gilt, den Schaden zu ersetzen, den er durch das Vertrauen auf die Gültigkeit des Vertrages erlitten hat\.
+
+\[ [🔗 Permalink](#-878-abgb--3-möglichkeit-und-erlaubtheit) \]
 
 ### § 879 ABGB
 
@@ -5977,13 +7469,19 @@
 
 > `(3)` Eine in Allgemeinen Geschäftsbedingungen oder Vertragsformblättern enthaltene Vertragsbestimmung, die nicht eine der beiderseitigen Hauptleistungen festlegt, ist jedenfalls nichtig, wenn sie unter Berücksichtigung aller Umstände des Falles einen Teil gröblich benachteiligt\.
 
+\[ [🔗 Permalink](#-879-abgb) \]
+
 ### § 880 ABGB
 
 > Wird der Gegenstand, worüber ein Vertrag geschlossen worden, vor dessen Uebergabe dem Verkehre entzogen; so ist es eben so viel, als wenn man den Vertrag nicht geschlossen hätte\.
 
+\[ [🔗 Permalink](#-880-abgb) \]
+
 ### § 880a ABGB
 
 > Hat jemand einem andern eine Leistung eines Dritten versprochen, so gilt dies als Zusage seiner Verwendung bei dem Dritten; ist er aber für den Erfolg eingestanden, so haftet er für volle Genugtuung, wenn die Leistung des Dritten ausbleibt\.
+
+\[ [🔗 Permalink](#-880a-abgb) \]
 
 ### § 881 ABGB — Verträge zugunsten Dritter
 
@@ -5993,63 +7491,93 @@
 
 > `(3)` Das Recht auf die bei einer Gutsabtretung vom Übernehmer zugunsten eines Dritten versprochenen Leistungen gilt mangels anderer Vereinbarung dem Dritten als mit der Übergabe des Gutes erworben\.
 
+\[ [🔗 Permalink](#-881-abgb--verträge-zugunsten-dritter) \]
+
 ### § 882 ABGB
 
 > `(1)` Weist der Dritte das aus dem Vertrag erworbene Recht zurück, so gilt das Recht als nicht erworben\.
 
 > `(2)` Einwendungen aus dem Vertrage stehen dem Versprechenden auch gegen den Dritten zu\.
 
+\[ [🔗 Permalink](#-882-abgb) \]
+
 ### § 883 ABGB — Form der Verträge
 
 > Ein Vertrag kann mündlich oder schriftlich; vor Gerichte oder außerhalb desselben; mit oder ohne Zeugen errichtet werden\. Diese Verschiedenheit der Form macht, außer den im Gesetze bestimmten Fällen, in Ansehung der Verbindlichkeit keinen Unterschied\.
+
+\[ [🔗 Permalink](#-883-abgb--form-der-verträge) \]
 
 ### § 884 ABGB
 
 > Haben die Parteien für einen Vertrag die Anwendung einer bestimmten Form vorbehalten, so wird vermutet, daß sie vor Erfüllung dieser Form nicht gebunden sein wollen\.
 
+\[ [🔗 Permalink](#-884-abgb) \]
+
 ### § 885 ABGB
 
 > Ist zwar noch nicht die förmliche Urkunde, aber doch ein Aufsatz über die Hauptpunkte errichtet und von den Parteien unterfertigt worden \(Punktation\), so gründet auch schon ein solcher Aufsatz diejenigen Rechte und Verbindlichkeiten, welche darin ausgedrückt sind\.
+
+\[ [🔗 Permalink](#-885-abgb) \]
 
 ### § 886 ABGB
 
 > Ein Vertrag, für den Gesetz oder Parteiwille Schriftlichkeit bestimmt, kommt durch die Unterschrift der Parteien oder, falls sie des Schreibens unkundig oder wegen Gebrechens unfähig sind, durch Beisetzung ihres gerichtlich oder notariell beglaubigten Handzeichens oder Beisetzung des Handzeichens vor zwei Zeugen, deren einer den Namen der Partei unterfertigt, zustande\. Der schriftliche Abschluß des Vertrages wird durch gerichtliche oder notarielle Beurkundung ersetzt\. Eine Nachbildung der eigenhändigen Unterschrift auf mechanischem Wege ist nur da genügend, wo sie im Geschäftsverkehr üblich ist\.
 
+\[ [🔗 Permalink](#-886-abgb) \]
+
 ### § 888 ABGB — Gemeinschaftliche Verbindlichkeit oder Berechtigung
 
 > Wenn zwey oder mehrere Personen jemanden eben dasselbe Recht zu einer Sache versprechen, oder es von ihm annehmen; so wird sowohl die Forderung, als die Schuld nach den Grundsätzen der Gemeinschaft des Eigenthumes getheilt\.
+
+\[ [🔗 Permalink](#-888-abgb--gemeinschaftliche-verbindlichkeit-oder-berechtigung) \]
 
 ### § 889 ABGB
 
 > Außer den in dem Gesetze bestimmten Fällen haftet also aus mehrern Mitschuldnern einer theilbaren Sache jeder nur für seinen Antheil, und eben so muß von mehrern Mitgenossen einer theilbaren Sache, jeder sich mit dem ihm gebührenden Theile begnügen\.
 
+\[ [🔗 Permalink](#-889-abgb) \]
+
 ### § 890 ABGB
 
 > Betrifft es hingegen untheilbare Sachen; so kann ein Gläubiger, wenn er der einzige ist, solche von einem jeden Mitschuldner fordern\. Wenn aber mehrere Gläubiger und nur Ein Schuldner da sind; so ist dieser die Sache einem einzelnen Mitgläubiger, ohne Sicherstellung heraus zu geben, nicht verpflichtet; er kann auf die Uebereinkunft aller Mitgläubiger dringen, oder die gerichtliche Verwahrung der Sache verlangen\.
+
+\[ [🔗 Permalink](#-890-abgb) \]
 
 ### § 891 ABGB — Correalität
 
 > Versprechen mehrere Personen ein und dasselbe Ganze zur ungetheilten Hand dergestalt, daß sich Einer für Alle, und Alle für Einen ausdrücklich verbinden; so haftet jede einzelne Person für das Ganze\. Es hängt dann von dem Gläubiger ab, ob er von allen, oder von einigen Mitschuldnern das Ganze, oder nach von ihm gewählten Antheilen; oder ob er es von einem Einzigen fordern wolle\. Selbst nach erhobener Klage bleibt ihm, wenn er von derselben absteht, diese Wahl vorbehalten; und, wenn er von einem oder dem andern Mitschuldner nur zum Theile befriediget wird; so kann er das Rückständige von den übrigen fordern\.
 
+\[ [🔗 Permalink](#-891-abgb--correalität) \]
+
 ### § 892 ABGB
 
 > Hat hingegen Einer mehrern Personen eben dasselbe Ganze zugesagt, und sind diese ausdrücklich berechtiget worden, es zur ungetheilten Hand fordern zu können; so muß der Schuldner das Ganze demjenigen dieser Gläubiger entrichten, der ihn zuerst darum angeht\.
+
+\[ [🔗 Permalink](#-892-abgb) \]
 
 ### § 893 ABGB
 
 > Sobald ein Mitschuldner dem Gläubiger das Ganze entrichtet hat, darf dieser von den übrigen Mitschuldnern nichts mehr fordern; und sobald ein Mitgläubiger von dem Schuldner ganz befriediget worden ist, haben die übrigen Mitgläubiger keinen Anspruch mehr\.
 
+\[ [🔗 Permalink](#-893-abgb) \]
+
 ### § 894 ABGB
 
 > Ein Mitschuldner kann dadurch, daß er mit dem Gläubiger lästigere Bedingungen eingeht, den übrigen keinen Nachtheil zuziehen, und die Nachsicht oder Befreyung, welche ein Mitschuldner für seine Person erhält, kommt den übrigen nicht zu Statten\.
+
+\[ [🔗 Permalink](#-894-abgb) \]
 
 ### § 895 ABGB
 
 > Wie weit aus mehrern Mitgläubigern, welchen eben dasselbe Ganze zur ungetheilten Hand zugesagt worden ist, derjenige, welcher die ganze Forderung für sich erhalten hat, den übrigen Gläubigern hafte, muß aus den besondern, zwischen den Mitgläubigern bestehenden, rechtlichen Verhältnissen bestimmet werden\. Besteht kein solches Verhältniß; so ist einer dem andern keine Rechenschaft schuldig\.
 
+\[ [🔗 Permalink](#-895-abgb) \]
+
 ### § 896 ABGB
 
 > Ein Mitschuldner zur ungetheilten Hand, welcher die ganze Schuld aus dem Seinigen abgetragen hat, ist berechtiget, auch ohne geschehene Rechtsabtretung, von den übrigen den Ersatz, und zwar, wenn kein anderes besonderes Verhältniß unter ihnen besteht, zu gleichen Theilen zu fordern\. War einer aus ihnen unfähig, sich zu verpflichten, oder ist er unvermögend, seiner Verpflichtung Genüge zu leisten; so muß ein solcher ausfallender Antheil ebenfalls von allen Mitverpflichteten übernommen werden\. Die erhaltene Befreyung eines Mitverpflichteten kann den übrigen bey der Forderung des Ersatzes nicht nachtheilig seyn\. \(§\. 894\)\.
+
+\[ [🔗 Permalink](#-896-abgb) \]
 
 ## Nebenbestimmungen bey Verträgen:
 
@@ -6057,21 +7585,31 @@
 
 > In Ansehung der Bedingungen bey Verträgen gelten überhaupt die nähmlichen Vorschriften, welche über die den Erklärungen des letzten Willens beygesetzten Bedingungen aufgestellt worden sind\.
 
+\[ [🔗 Permalink](#-897-abgb--1-bedingungen) \]
+
 ### § 898 ABGB
 
 > Verabredungen unter solchen Bedingungen, welche bey einem letzten Willen für nicht beygesetzt angesehen werden, sind ungültig\.
+
+\[ [🔗 Permalink](#-898-abgb) \]
 
 ### § 899 ABGB
 
 > Ist die in einem Vertrage vorgeschriebene Bedingung schon vor dem Vertrage eingetroffen; so muß sie nach dem Vertrage nur dann wiederhohlet werden, wenn sie in einer Handlung dessen, der das Recht erwerben soll, besteht, und von ihm wiederhohlet werden kann\.
 
+\[ [🔗 Permalink](#-899-abgb) \]
+
 ### § 900 ABGB
 
 > Ein unter einer aufschiebenden Bedingung zugesagtes Recht geht auch auf die Erben über\.
 
+\[ [🔗 Permalink](#-900-abgb) \]
+
 ### § 901 ABGB — 2) Bewegungsgrund;
 
 > Haben die Parteyen den Bewegungsgrund, oder den Endzweck ihrer Einwilligung ausdrücklich zur Bedingung gemacht; so wird der Bewegungsgrund oder Endzweck wie eine andere Bedingung angesehen\. Außer dem haben dergleichen Aeußerungen auf die Gültigkeit entgeldlicher Verträge keinen Einfluß\. Bey den unentgeldlichen aber sind die bey den letzten Anordnungen gegebenen Vorschriften anzuwenden\.
+
+\[ [🔗 Permalink](#-901-abgb--2-bewegungsgrund) \]
 
 ### § 902 ABGB — 3) Zeit, Ort und Art der Erfüllung;
 
@@ -6081,13 +7619,19 @@
 
 > `(3)` Unter einem halben Monate sind fünfzehn Tage zu verstehen, unter die Mitte eines Monats der fünfzehnte dieses Monats\.
 
+\[ [🔗 Permalink](#-902-abgb--3-zeit-ort-und-art-der-erfüllung) \]
+
 ### § 903 ABGB
 
 > Ein Recht, dessen Erwerbung an einen bestimmten Tag gebunden ist, wird mit dem Anfang dieses Tages erworben\. Die Rechtsfolgen der Nichterfüllung einer Verbindlichkeit oder eines Versäumnisses treten erst mit dem Ablauf des letzten Tages der Frist ein\. Fällt der für die Abgabe einer Erklärung oder für eine Leistung bestimmte letzte Tag auf einen Sonntag oder anerkannten Feiertag, so tritt an dessen Stelle, vorbehaltlich gegenteiliger Vereinbarung, der nächstfolgende Werktag\.
 
+\[ [🔗 Permalink](#-903-abgb) \]
+
 ### § 904 ABGB
 
 > Ist keine gewisse Zeit für die Erfüllung des Vertrages bestimmt worden; so kann sie sogleich, nähmlich ohne unnöthigen Aufschub, gefordert werden\. Hat der Verpflichtete die Erfüllungszeit seiner Willkühr vorbehalten; so muß man entweder seinen Tod abwarten, und sich an die Erben halten; oder, wenn es um eine bloß persönliche, nicht vererbliche, Pflicht zu thun ist, die Erfüllungszeit von dem Richter nach Billigkeit festsetzen lassen\. Letzteres findet auch dann Statt, wenn der Verpflichtete die Erfüllung, nach Möglichkeit, oder Thunlichkeit versprochen hat\. Uebrigens müssen die Vorschriften, welche oben \(§§ 704 – 706\) in Rücksicht der den letzten Anordnungen beygerückten Zeitbestimmung gegeben werden, auch hier angewendet werden\.
+
+\[ [🔗 Permalink](#-904-abgb) \]
 
 ### § 905 ABGB
 
@@ -6097,9 +7641,13 @@
 
 > `(3)` Die Gefahr für eine mit Willen des Gläubigers an einen anderen Ort als den Erfüllungsort übersendete Sache geht mit dem Zeitpunkt der Übergabe \(§ 429\) an den Gläubiger über\.
 
+\[ [🔗 Permalink](#-905-abgb) \]
+
 ### § 905a ABGB
 
 > Wird eine nur der Gattung nach bestimmte Sache geschuldet, so ist diese in mittlerer Art und Güte zu leisten\.
+
+\[ [🔗 Permalink](#-905a-abgb) \]
 
 ### § 906 ABGB
 
@@ -6107,9 +7655,13 @@
 
 > `(2)` Hat der Gläubiger die Wahl und ist er mit ihr in Verzug, so kann der Schuldner die Wahl an Stelle des Gläubigers treffen oder nach den §§ 918 und 919 vorgehen\. Wenn er die Wahl an Stelle des Gläubigers trifft, hat er diesen davon zu verständigen und ihm zugleich eine angemessene Frist zur Vornahme einer anderen Wahl zu setzen\. Trifft der Gläubiger keine solche Wahl, so ist die Wahl des Schuldners maßgebend\. In jedem Fall gebührt dem Schuldner der Ersatz des Schadens\.
 
+\[ [🔗 Permalink](#-906-abgb) \]
+
 ### § 907 ABGB
 
 > Wird ein Vertrag ausdrücklich mit Vorbehalt der Wahl geschlossen, und dieselbe durch zufälligen Untergang eines oder mehrerer Wahlstücke vereitelt; so ist der Theil, dem die Wahl zusteht, an den Vertrag nicht gebunden\. Unterläuft aber ein Verschulden des Verpflichteten; so muß er dem Berechtigten für die Vereitlung der Wahl haften\.
+
+\[ [🔗 Permalink](#-907-abgb) \]
 
 ### § 907a ABGB
 
@@ -6117,43 +7669,63 @@
 
 > `(2)` Wird eine Geldschuld durch Banküberweisung erfüllt, so hat der Schuldner den Überweisungsauftrag so rechtzeitig zu erteilen, dass der geschuldete Betrag bei Fälligkeit auf dem Konto des Gläubigers wertgestellt ist\. Wenn der Fälligkeitstermin nicht schon im Vorhinein bestimmt ist, sondern die Fälligkeit erst durch Erbringung der Gegenleistung, Rechnungsstellung, Zahlungsaufforderung oder einen gleichartigen Umstand ausgelöst wird, hat der Schuldner den Überweisungsauftrag ohne unnötigen Aufschub nach Eintritt des für die Fälligkeit maßgeblichen Umstands zu erteilen\. Der Schuldner trägt die Gefahr für die Verzögerung oder das Unterbleiben der Gutschrift auf dem Konto des Gläubigers, soweit die Ursache dafür nicht beim Bankinstitut des Gläubigers liegt\.
 
+\[ [🔗 Permalink](#-907a-abgb) \]
+
 ### § 907b ABGB
 
 > `(1)` Ist eine in ausländischer Währung ausgedrückte Geldschuld im Inland zu zahlen, so kann die Zahlung in inländischer Währung erfolgen, es sei denn, dass die Zahlung in ausländischer Währung ausdrücklich bedungen worden ist\.
 
 > `(2)` Die Umrechnung erfolgt nach dem zur Zeit der Zahlung am Zahlungsort maßgeblichen Kurswert\. Wenn der Schuldner die Zahlung verzögert, hat der Gläubiger die Wahl zwischen dem bei Fälligkeit und dem zur Zeit der Zahlung maßgeblichen Kurswert\.
 
+\[ [🔗 Permalink](#-907b-abgb) \]
+
 ### § 908 ABGB — 4) Angeld;
 
 > Was bey Abschließung eines Vertrages voraus gegeben wird, ist, außer dem Falle einer besondern Verabredung, nur als ein Zeichen der Abschließung, oder als eine Sicherstellung für die Erfüllung des Vertrages zu betrachten, und heißt Angeld\. Wird der Vertrag durch Schuld einer Partey nicht erfüllet; so kann die schuldlose Partey das von ihr empfangene Angeld behalten, oder den doppelten Betrag des von ihr gegebenen Angeldes zurückfordern\. Will sie sich aber damit nicht begnügen, so kann sie auf die Erfüllung; oder, wenn diese nicht mehr möglich ist, auf den Ersatz dringen\.
+
+\[ [🔗 Permalink](#-908-abgb--4-angeld) \]
 
 ### § 909 ABGB — 5) Reugeld;
 
 > Wird bey Schließung eines Vertrages ein Betrag bestimmt, welchen ein oder der andere Theil in dem Falle, daß er von dem Vertrage vor der Erfüllung zurücktreten will, entrichten muß; so wird der Vertrag gegen Reugeld geschlossen\. In diesem Falle muß entweder der Vertrag erfüllt, oder das Reugeld bezahlet werden\. Wer den Vertrag auch nur zum Theile erfüllet; oder das, was von dem Andern auch nur zum Theile zur Erfüllung geleistet worden ist, angenommen hat, kann selbst gegen Entrichtung des Reugeldes nicht mehr zurücktreten\.
 
+\[ [🔗 Permalink](#-909-abgb--5-reugeld) \]
+
 ### § 910 ABGB
 
 > Wenn ein Angeld gegeben, und zugleich das Befugniß des Rücktrittes ohne Bestimmung eines besondern Reugeldes bedungen wird; so vertritt das Angeld die Stelle des Reugeldes\. Im Falle des Rücktrittes verliert also der Geber das Angeld; oder der Empfänger stellt das Doppelte zurück\.
+
+\[ [🔗 Permalink](#-910-abgb) \]
 
 ### § 911 ABGB
 
 > Wer nicht durch bloßen Zufall, sondern durch sein Verschulden an der Erfüllung des Vertrages verhindert wird, muß ebenfalls das Reugeld entrichten\.
 
+\[ [🔗 Permalink](#-911-abgb) \]
+
 ### § 912 ABGB — 6) Nebengebühren
 
 > Der Gläubiger ist von seinem Schuldner außer der Hauptschuld zuweilen auch Nebengebühren zu fordern berechtiget\. Sie bestehen in dem Zuwachse, und in den Früchten der Hauptsache, in den bestimmten oder in den Zögerungs\-Zinsen; oder in dem Ersatze des verursachten Schadens; oder dessen, was dem Andern daran liegt, daß die Verbindlichkeit nicht gehörig erfüllet worden; endlich in dem Betrage, welchen ein Theil sich auf diesen Fall bedungen hat\.
+
+\[ [🔗 Permalink](#-912-abgb--6-nebengebühren) \]
 
 ### § 913 ABGB
 
 > In wie weit mit einem dinglichen Rechte das Recht auf den Zuwachs, oder auf die Früchte verbunden sey, ist in dem ersten und vierten Hauptstücke des zweyten Theiles bestimmet worden\. Wegen eines bloß persönlichen Rechtes hat der Berechtigte noch keinen Anspruch auf Nebengebühren\. In wie weit dem Gläubiger ein Recht auf diese zukomme, ist theils aus den besondern Arten und Bestimmungen der Verträge; theils aus dem Hauptstücke, von dem Rechte des Schadenersatzes und der Genugthuung, zu entnehmen\.
 
+\[ [🔗 Permalink](#-913-abgb) \]
+
 ### § 914 ABGB — Auslegungsregeln bey Verträgen
 
 > Bei Auslegung von Verträgen ist nicht an dem buchstäblichen Sinne des Ausdrucks zu haften, sondern die Absicht der Parteien zu erforschen und der Vertrag so zu verstehen, wie es der Übung des redlichen Verkehrs entspricht\.
 
+\[ [🔗 Permalink](#-914-abgb--auslegungsregeln-bey-verträgen) \]
+
 ### § 915 ABGB
 
 > Bey einseitig verbindlichen Verträgen wird im Zweifel angenommen, daß sich der Verpflichtete eher die geringere als die schwerere Last auflegen wollte; bey zweyseitig verbindlichen wird eine undeutliche Aeußerung zum Nachtheile desjenigen erkläret, der sich derselben bedienet hat \(§\. 869\)\.
+
+\[ [🔗 Permalink](#-915-abgb) \]
 
 ### § 916 ABGB
 
@@ -6161,13 +7733,19 @@
 
 > `(2)` Einem Dritten, der im Vertrauen auf die Erklärung Rechte erworben hat, kann die Einrede des Scheingeschäftes nicht entgegengesetzt werden\.
 
+\[ [🔗 Permalink](#-916-abgb) \]
+
 ### § 917 ABGB — Allgemeine Bestimmungen über entgeltliche Verträge und Geschäfte
 
 > Bei einem entgeltlichen Vertrage werden entweder Sachen mit Sachen, oder Handlungen, worunter auch die Unterlassungen gehören, mit Handlungen, oder endlich Sachen mit Handlungen und Handlungen mit Sachen vergolten\.
 
+\[ [🔗 Permalink](#-917-abgb--allgemeine-bestimmungen-über-entgeltliche-verträge-und-geschäfte) \]
+
 ### § 917a ABGB
 
 > Ist zum Schutz eines Vertragspartners gesetzlich bestimmt, daß kein höheres oder kein niedrigeres als ein bestimmtes Entgelt vereinbart werden darf, so ist eine Entgeltvereinbarung soweit unwirksam, als sie dieses Höchstmaß über\- beziehungsweise dieses Mindestmaß unterschreitet\. Im zweiten Fall gilt das festgelegte Mindestentgelt als vereinbart\.
+
+\[ [🔗 Permalink](#-917a-abgb) \]
 
 ### § 918 ABGB
 
@@ -6175,17 +7753,25 @@
 
 > `(2)` Ist die Erfüllung für beide Seiten teilbar, so kann wegen Verzögerung einer Teilleistung der Rücktritt nur hinsichtlich der einzelnen oder auch aller noch ausstehenden Teilleistungen erklärt werden\.
 
+\[ [🔗 Permalink](#-918-abgb) \]
+
 ### § 919 ABGB
 
 > Ist die Erfüllung zu einer festbestimmten Zeit oder binnen einer festbestimmten Frist bei sonstigem Rücktritt bedungen, so muß der Rücktrittsberechtigte, wenn er auf der Erfüllung bestehen will, das nach Ablauf der Zeit dem andern ohne Verzug anzeigen; unterläßt er dies, so kann er später nicht mehr auf der Erfüllung bestehen\. Dasselbe gilt, wenn die Natur des Geschäftes oder der dem Verpflichteten bekannte Zweck der Leistung entnehmen läßt, daß die verspätete Leistung oder, im Falle der Verspätung einer Teilleistung, die noch übrigen Leistungen für den Empfänger kein Interesse haben\.
+
+\[ [🔗 Permalink](#-919-abgb) \]
 
 ### § 920 ABGB
 
 > Wird die Erfüllung durch Verschulden des Verpflichteten oder einen von ihm zu vertretenden Zufall vereitelt, so kann der andere Teil entweder Schadenersatz wegen Nichterfüllung fordern oder vom Vertrage zurücktreten\. Bei teilweiser Vereitlung steht ihm der Rücktritt zu, falls die Natur des Geschäftes oder der dem Verpflichteten bekannte Zweck der Leistung entnehmen läßt, daß die teilweise Erfüllung für ihn kein Interesse hat\.
 
+\[ [🔗 Permalink](#-920-abgb) \]
+
 ### § 921 ABGB
 
 > Der Rücktritt vom Vertrage läßt den Anspruch auf Ersatz des durch verschuldete Nichterfüllung verursachten Schadens unberührt\. Das bereits empfangene Entgelt ist auf solche Art zurückzustellen oder zu vergüten, daß kein Teil aus dem Schaden des anderen Gewinn zieht\.
+
+\[ [🔗 Permalink](#-921-abgb) \]
 
 ### § 922 ABGB — Gewährleistung
 
@@ -6193,41 +7779,61 @@
 
 > `(2)` Ob die Sache dem Vertrag entspricht, ist auch danach zu beurteilen, was der Übernehmer auf Grund der über sie gemachten öffentlichen Äußerungen des Übergebers oder des Herstellers, vor allem in der Werbung und in den der Sache beigefügten Angaben, erwarten kann; das gilt auch für öffentliche Äußerungen einer Person, die die Sache in den Europäischen Wirtschaftsraum eingeführt hat oder die sich durch die Anbringung ihres Namens, ihrer Marke oder eines anderen Kennzeichens an der Sache als Hersteller bezeichnet\. Solche öffentlichen Äußerungen binden den Übergeber jedoch nicht, wenn er sie weder kannte noch kennen konnte, wenn sie beim Abschluss des Vertrags berichtigt waren oder wenn sie den Vertragsabschluss nicht beeinflusst haben konnten\.
 
+\[ [🔗 Permalink](#-922-abgb--gewährleistung) \]
+
 ### § 923 ABGB — Fälle der Gewährleistung
 
 > Wer also der Sache Eigenschaften beylegt, die sie nicht hat, und die ausdrücklich oder vermöge der Natur des Geschäftes stillschweigend bedungen worden sind; wer ungewöhnliche Mängel, oder Lasten derselben verschweigt; wer eine nicht mehr vorhandene, oder eine fremde Sache als die seinige veräußert; wer fälschlich vorgibt, daß die Sache zu einem bestimmten Gebrauche tauglich; oder daß sie auch von den gewöhnlichen Mängeln und Lasten frey sey; der hat, wenn das Widerspiel hervorkommt, dafür zu haften\.
+
+\[ [🔗 Permalink](#-923-abgb--fälle-der-gewährleistung) \]
 
 ### § 924 ABGB — Vermutung der Mangelhaftigkeit
 
 > Der Übergeber leistet Gewähr für Mängel, die bei der Übergabe vorhanden sind\. Dies wird bis zum Beweis des Gegenteils vermutet, wenn der Mangel innerhalb von sechs Monaten nach der Übergabe hervorkommt\. Die Vermutung tritt nicht ein, wenn sie mit der Art der Sache oder des Mangels unvereinbar ist\.
 
+\[ [🔗 Permalink](#-924-abgb--vermutung-der-mangelhaftigkeit) \]
+
 ### § 925 ABGB
 
 > Durch Verordnung wird bestimmt, inwiefern die Vermutung eintritt, daß ein Tier schon vor der Übergabe krank gewesen ist, wenn innerhalb bestimmter Fristen gewisse Krankheiten und Mängel hervorkommen\.
+
+\[ [🔗 Permalink](#-925-abgb) \]
 
 ### § 926 ABGB
 
 > Von der rechtlichen Vermutung, daß der Mangel schon vor der Übergabe des Tieres vorhanden war, kann aber der Übernehmer nur dann Gebrauch machen, wenn dem Übergeber oder in dessen Abwesenheit dem Gemeindevorsteher sogleich von dem bemerkten Fehler Nachricht gibt oder das Tier durch einen Sachverständigen untersuchen läßt oder die gerichtliche Beweisaufnahme zur Sicherung des Beweises beantragt\.
 
+\[ [🔗 Permalink](#-926-abgb) \]
+
 ### § 927 ABGB
 
 > Vernachlässigt der Übernehmer diese Vorsicht, so liegt ihm der Beweis ob, daß das Tier schon vor der Übergabe mangelhaft war\. Immer steht aber auch dem Übergeber der Beweis offen, daß der gerügte Mangel erst nach der Übergabe eingetreten sei\.
+
+\[ [🔗 Permalink](#-927-abgb) \]
 
 ### § 928 ABGB
 
 > Fallen die Mängel einer Sache in die Augen oder sind die auf der Sache haftenden Lasten aus den öffentlichen Büchern zu ersehen, so findet außer dem Falle arglistigen Verschweigens des Mangels oder einer ausdrücklichen Zusage, daß die Sache von allen Fehlern und Lasten frei sei, keine Gewährleistung statt \(§ 443\)\. Schulden und Rückstände, welche auf der Sache haften, müssen stets vertreten werden\.
 
+\[ [🔗 Permalink](#-928-abgb) \]
+
 ### § 929 ABGB
 
 > Wer eine fremde Sache wissentlich an sich bringt, hat eben so wenig Anspruch auf eine Gewährleistung, als derjenige, welcher ausdrücklich darauf Verzicht gethan hat\.
+
+\[ [🔗 Permalink](#-929-abgb) \]
 
 ### § 930 ABGB
 
 > Werden Sachen in Pausch und Bogen, nähmlich so, wie sie stehen und liegen, ohne Zahl, Maß und Gewicht übergeben; so ist der Uebergeber, außer dem Falle, daß eine von ihm fälschlich vorgegebene, oder von dem Empfänger bedungene Beschaffenheit mangelt, für die daran entdeckten Fehler nicht verantwortlich\.
 
+\[ [🔗 Permalink](#-930-abgb) \]
+
 ### § 931 ABGB — Bedingung der Gewährleistung
 
 > Wenn der Übernehmer wegen eines von einem Dritten auf die Sache erhobenen Anspruches von der Gewährleistung Gebrauch machen will, so muß er seinem Vormann den Streit verkündigen\. Unterläßt er dies, so verliert er zwar noch nicht das Recht der Schadloshaltung, aber sein Vormann kann ihm alle wider den Dritten unausgeführt gebliebenen Einwendungen entgegensetzen und sich dadurch von der Entschädigung in dem Maße befreien, als erkannt wird, daß diese Einwendungen, wenn von ihnen der gehörige Gebrauch gemacht worden wäre, eine andere Entscheidung gegen den Dritten veranlaßt haben würden\.
+
+\[ [🔗 Permalink](#-931-abgb--bedingung-der-gewährleistung) \]
 
 ### § 932 ABGB — Rechte aus der Gewährleistung
 
@@ -6239,9 +7845,13 @@
 
 > `(4)` Sind sowohl die Verbesserung als auch der Austausch unmöglich oder für den Übergeber mit einem unverhältnismäßig hohen Aufwand verbunden, so hat der Übernehmer das Recht auf Preisminderung oder, sofern es sich nicht um einen geringfügigen Mangel handelt, das Recht auf Auflösung des Vertrags\. Dasselbe gilt, wenn der Übergeber die Verbesserung oder den Austausch verweigert oder nicht in angemessener Frist vornimmt, wenn diese Abhilfen für den Übernehmer mit erheblichen Unannehmlichkeiten verbunden wären oder wenn sie ihm aus triftigen, in der Person des Übergebers liegenden Gründen unzumutbar sind\.
 
+\[ [🔗 Permalink](#-932-abgb--rechte-aus-der-gewährleistung) \]
+
 ### § 932a ABGB
 
 > Während des Rechtsstreites über die Aufhebung des Vertrages wegen eines Viehmangels hat das Gericht auf Antrag einer der Parteien, sobald die Besichtigung nicht mehr erforderlich ist, durch einstweilige Verfügung den gerichtlichen Verkauf des Tieres und die gerichtliche Hinterlegung des Erlöses anzuordnen\.
+
+\[ [🔗 Permalink](#-932a-abgb) \]
 
 ### § 933 ABGB — Gewährleistungsfrist; Verjährung
 
@@ -6253,6 +7863,8 @@
 
 > `(4)` Die Parteien können eine Verkürzung oder Verlängerung der in Abs\. 1 bis 3 vorgesehenen Fristen vereinbaren\.
 
+\[ [🔗 Permalink](#-933-abgb--gewährleistungsfrist-verjährung) \]
+
 ### § 933a ABGB — Schadenersatz
 
 > `(1)` Hat der Übergeber den Mangel verschuldet, so kann der Übernehmer auch Schadenersatz fordern\.
@@ -6260,6 +7872,8 @@
 > `(2)` Wegen des Mangels selbst kann der Übernehmer auch als Schadenersatz zunächst nur die Verbesserung oder den Austausch verlangen\. Er kann jedoch Geldersatz verlangen, wenn sowohl die Verbesserung als auch der Austausch unmöglich ist oder für den Übergeber mit einem unverhältnismäßig hohen Aufwand verbunden wäre\. Dasselbe gilt, wenn der Übergeber die Verbesserung oder den Austausch verweigert oder nicht in angemessener Frist vornimmt, wenn diese Abhilfen für den Übernehmer mit erheblichen Unannehmlichkeiten verbunden wären oder wenn sie ihm aus triftigen, in der Person des Übergebers liegenden Gründen unzumutbar sind\.
 
 > `(3)` Nach Ablauf von zehn Jahren ab der Übergabe der Sache obliegt für einen Ersatzanspruch wegen der Mangelhaftigkeit selbst und wegen eines durch diese verursachten weiteren Schadens dem Übernehmer der Beweis des Verschuldens des Übergebers\.
+
+\[ [🔗 Permalink](#-933a-abgb--schadenersatz) \]
 
 ### § 933b ABGB — Rückgriff des gewährleistungspflichtigen Übergebers
 
@@ -6271,21 +7885,31 @@
 
 > `(4)` Eine Vereinbarung, mit der ein Anspruch nach Abs\. 1 ausgeschlossen oder beschränkt wird, ist nur verbindlich, wenn sie im Einzelnen ausgehandelt worden ist und den Übergeber unter Berücksichtigung aller Umstände des Falles nicht gröblich benachteiligt\.
 
+\[ [🔗 Permalink](#-933b-abgb--rückgriff-des-gewährleistungspflichtigen-übergebers) \]
+
 ### § 934 ABGB — Schadloshaltung wegen Verkürzung über die Hälfte
 
 > Hat bey zweyseitig verbindlichen Geschäften ein Theil nicht einmahl die Hälfte dessen, was er dem andern gegeben hat, von diesem an dem gemeinen Werthe erhalten, so räumt das Gesetz dem verletzten Theile das Recht ein, die Aufhebung, und die Herstellung in den vorigen Stand zu fordern\. Dem andern Theile steht aber bevor, das Geschäft dadurch aufrecht zu erhalten, daß er den Abgang bis zum gemeinen Werthe zu ersetzen bereit ist\. Das Mißverhältniß des Werthes wird nach dem Zeitpuncte des geschlossenen Geschäftes bestimmt\.
+
+\[ [🔗 Permalink](#-934-abgb--schadloshaltung-wegen-verkürzung-über-die-hälfte) \]
 
 ### § 935 ABGB
 
 > Die Anwendung des § 934 kann vertraglich nicht ausgeschlossen werden; er ist jedoch dann nicht anzuwenden, wenn jemand erklärt hat, die Sache aus besonderer Vorliebe um einen außerordentlichen Werth zu übernehmen; wenn er, obgleich ihm der wahre Werth bekannt war, sich dennoch zu dem unverhältnißmäßigen Werthe verstanden hat; ferner, wenn aus dem Verhältnisse der Personen zu vermuthen ist, daß sie einen, aus einem entgeldlichen und unentgeldlichen vermischten, Vertrag schließen wollten; wenn sich der eigentliche Werth nicht mehr erheben läßt; endlich, wenn die Sache von dem Gerichte versteigert worden ist\.
 
+\[ [🔗 Permalink](#-935-abgb) \]
+
 ### § 936 ABGB — Von der Verabredung eines künftigen Vertrages
 
 > Die Verabredung, künftig erst einen Vertrag schließen zu wollen, ist nur dann verbindlich, wenn sowohl die Zeit der Abschließung, als die wesentlichen Stücke des Vertrages bestimmt, und die Umstände inzwischen nicht dergestalt verändert worden sind, daß dadurch der ausdrücklich bestimmte, oder aus den Umständen hervorleuchtende Zweck vereitelt, oder das Zutrauen des einen oder andern Theiles verloren wird\. Ueberhaupt muß auf die Vollziehung solcher Zusagen längstens in einem Jahre nach dem bedungenen Zeitpuncte gedrungen werden; widrigen Falls ist das Recht erloschen\.
 
+\[ [🔗 Permalink](#-936-abgb--von-der-verabredung-eines-künftigen-vertrages) \]
+
 ### § 937 ABGB — Von dem Verzicht auf Einwendungen
 
 > Allgemeine, unbestimmte Verzichtleistungen auf Einwendungen gegen die Gültigkeit eines Vertrages sind ohne Wirkung\.
+
+\[ [🔗 Permalink](#-937-abgb--von-dem-verzicht-auf-einwendungen) \]
 
 ## Achtzehntes Hauptstück.
 
@@ -6295,37 +7919,55 @@
 
 > Ein Vertrag, wodurch eine Sache jemanden unentgeldlich überlassen wird, heißt eine Schenkung\.
 
+\[ [🔗 Permalink](#-938-abgb--schenkung) \]
+
 ### § 939 ABGB — In wie fern eine Verzichtleistung eine Schenkung sey
 
 > Wer auf ein gehofftes, oder wirklich angefallenes, oder zweyfelhaftes Recht Verzicht thut, ohne es einem Andern ordentlich abzutreten, oder dasselbe dem Verpflichteten mit dessen Einwilligung zu erlassen, ist für keinen Geschenkgeber anzusehen\.
+
+\[ [🔗 Permalink](#-939-abgb--in-wie-fern-eine-verzichtleistung-eine-schenkung-sey) \]
 
 ### § 940 ABGB — Belohnende Schenkung
 
 > Es verändert die Wesenheit der Schenkung nicht, wenn sie aus Erkenntlichkeit; oder in Rücksicht auf die Verdienste des Beschenkten; oder als eine besondere Belohnung desselben gemacht worden ist; nur darf er vorher kein Klagerecht darauf gehabt haben\.
 
+\[ [🔗 Permalink](#-940-abgb--belohnende-schenkung) \]
+
 ### § 941 ABGB
 
 > Hat der Beschenkte ein Klagerecht auf die Belohnung gehabt, entweder, weil sie unter den Parteyen schon bedungen, oder durch das Gesetz vorgeschrieben war; so hört das Geschäft auf, eine Schenkung zu seyn, und ist als ein entgeldlicher Vertrag anzusehen\.
+
+\[ [🔗 Permalink](#-941-abgb) \]
 
 ### § 942 ABGB — Wechselseitige Schenkungen
 
 > Sind Schenkungen vorher dergestalt bedungen, daß der Schenkende wieder beschenkt werden muß; so entsteht keine wahre Schenkung im Ganzen; sondern nur in Ansehung des übersteigenden Werthes\.
 
+\[ [🔗 Permalink](#-942-abgb--wechselseitige-schenkungen) \]
+
 ### § 943 ABGB — Form des Schenkungsvertrages
 
 > Aus einem bloß mündlichen, ohne wirkliche Uebergabe geschlossenen Schenkungsvertrage erwächst dem Geschenknehmer kein Klagerecht\. Dieses Recht muß durch eine schriftliche Urkunde begründet werden\.
+
+\[ [🔗 Permalink](#-943-abgb--form-des-schenkungsvertrages) \]
 
 ### § 944 ABGB — und Maß einer Schenkung
 
 > Ein unbeschränkter Eigenthümer kann mit Beobachtung der gesetzlichen Vorschriften auch sein ganzes gegenwärtiges Vermögen verschenken\. Ein Vertrag aber, wodurch das künftige Vermögen verschenket wird, besteht nur in so weit, als er die Hälfte dieses Vermögens nicht übersteigt\.
 
+\[ [🔗 Permalink](#-944-abgb--und-maß-einer-schenkung) \]
+
 ### § 945 ABGB — In wie fern der Geber für das Geschenkte hafte
 
 > Wer wissentlich eine fremde Sache verschenkt, und dem Geschenknehmer diesen Umstand verschweigt, haftet für die nachtheiligen Folgen\.
 
+\[ [🔗 Permalink](#-945-abgb--in-wie-fern-der-geber-für-das-geschenkte-hafte) \]
+
 ### § 946 ABGB — Unwiderruflichkeit der Schenkungen
 
 > Schenkungsverträge dürfen in der Regel nicht widerrufen werden\.
+
+\[ [🔗 Permalink](#-946-abgb--unwiderruflichkeit-der-schenkungen) \]
 
 ## Ausnahmen:
 
@@ -6333,29 +7975,43 @@
 
 > Geräth der Geschenkgeber in der Folge in solche Dürftigkeit, daß es ihm an dem nöthigen Unterhalte gebricht; so ist er befugt, jährlich von dem geschenkten Betrage die gesetzlichen Zinsen, in so weit die geschenkte Sache, oder derselben Werth noch vorhanden ist, und ihm der nöthige Unterhalt mangelt, von dem Beschenkten zu fordern, wenn sich anders dieser nicht selbst in gleich dürftigen Umständen befindet\. Aus mehrern Geschenknehmern ist der frühere nur in so weit verbunden, als die Beyträge der spätern zum Unterhalte nicht zureichen\.
 
+\[ [🔗 Permalink](#-947-abgb--1-wegen-dürftigkeit) \]
+
 ### § 948 ABGB — 2) Undankes;
 
 > Wenn der Beschenkte sich gegen seinen Wohlthäter eines groben Undankes schuldig macht, kann die Schenkung widerrufen werden\. Unter grobem Undanke wird eine Verletzung am Leibe, an Ehre, an Freyheit, oder am Vermögen verstanden, welche von der Art ist, daß gegen den Verletzer von Amts wegen, oder auf Verlangen des Verletzten nach dem Strafgesetze verfahren werden kann\.
+
+\[ [🔗 Permalink](#-948-abgb--2-undankes) \]
 
 ### § 949 ABGB
 
 > Der Undank macht den Undankbaren für seine Person zum unredlichen Besitzer, und gibt selbst dem Erben des Verletzten, in so fern der letztere den Undank nicht verziehen hat, und noch etwas von dem Geschenke in Natur oder Werthe vorhanden ist, ein Recht zur Widerrufungsklage auch gegen den Erben des Verletzers\.
 
+\[ [🔗 Permalink](#-949-abgb) \]
+
 ### § 950 ABGB — 3) Verkürzung des schuldigen Unterhalts;
 
 > Wer jemanden den Unterhalt zu reichen schuldig ist, kann dessen Recht durch Beschenkung eines Dritten nicht verletzen\. Der auf solche Art Verkürzte ist befugt, den Beschenkten um die Ergänzung desjenigen zu belangen, was ihm der Schenkende nun nicht mehr zu leisten vermag\. Bey mehrern Geschenknehmern ist die obige \(§\. 947\) Vorschrift anzuwenden\.
+
+\[ [🔗 Permalink](#-950-abgb--3-verkürzung-des-schuldigen-unterhalts) \]
 
 ### § 953 ABGB — 5) der Gläubiger;
 
 > Unter eben dieser \(§\. 952\) Beschränkung können auch diejenigen Geschenke zurückgefordert werden, wodurch die zur Zeit der Schenkung schon vorhandenen Gläubiger verkürzt worden sind\. Auf Gläubiger, deren Forderungen jünger sind, als die Schenkung, erstreckt sich dieses Recht nur dann, wenn der Beschenkte eines hinterlistigen Einverständnisses überwiesen werden kann\.
 
+\[ [🔗 Permalink](#-953-abgb--5-der-gläubiger) \]
+
 ### § 954 ABGB — 6) wegen nachgeborner Kinder
 
 > Dadurch, daß einem kinderlosen Geschenkgeber nach geschlossenem Schenkungsvertrage Kinder geboren werden, erwächst weder ihm, noch den nachgebornen Kindern das Recht, die Schenkung zu widerrufen\. Doch kann er, oder das nachgeborne Kind, im Nothfalle sowohl gegen den Beschenkten, als gegen dessen Erben das oben angeführte Recht auf die gesetzlichen Zinsen des geschenkten Betrages geltend machen \(§\. 947\)\.
 
+\[ [🔗 Permalink](#-954-abgb--6-wegen-nachgeborner-kinder) \]
+
 ### § 955 ABGB — Welche Schenkungen auf die Erben nicht übergehen
 
 > Hat der Geschenkgeber dem Beschenkten eine Unterstützung in gewissen Fristen zugesichert, so erwächst für die Erben derselben weder ein Recht, noch eine Verbindlichkeit; es müßte denn in dem Schenkungsvertrage ausdrücklich anders bedungen worden seyn\.
+
+\[ [🔗 Permalink](#-955-abgb--welche-schenkungen-auf-die-erben-nicht-übergehen) \]
 
 ## Neunzehntes Hauptstück.
 
@@ -6365,53 +8021,79 @@
 
 > Wenn jemand eine fremde Sache in seine Obsorge übernimmt; so entsteht ein Verwahrungsvertrag\. Das angenommene Versprechen, eine fremde, noch nicht übergebene Sache in die Obsorge zu übernehmen, macht zwar den versprechenden Theil verbindlich; es ist aber noch kein Verwahrungsvertrag\.
 
+\[ [🔗 Permalink](#-957-abgb--verwahrungsvertrag) \]
+
 ### § 958 ABGB
 
 > Durch den Verwahrungsvertrag erwirbt der Uebernehmer weder Eigenthum, noch Besitz, noch Gebrauchsrecht; er ist bloßer Inhaber mit der Pflicht, die ihm anvertraute Sache vor Schaden zu sichern\.
+
+\[ [🔗 Permalink](#-958-abgb) \]
 
 ### § 959 ABGB — Wann er in einen Darlehens- oder Leihvertrag;
 
 > Wird dem Verwahrer auf sein Verlangen, oder durch freywilliges Anerbiethen des Hinterlegers der Gebrauch gestattet; so hört im ersten Falle der Vertrag gleich nach der Verwilligung; im zweyten aber von dem Augenblicke, da das Anerbiethen angenommen, oder von der hinterlegten Sache wirklich Gebrauch gemacht worden ist, auf, ein Verwahrungsvertrag zu seyn; er wird bey verbrauchbaren Sachen in einen Darleihens\-, bey unverbrauchbaren in einen Leihvertrag umgeändert, und es treten die damit verbundenen Rechte und Pflichten ein\.
 
+\[ [🔗 Permalink](#-959-abgb--wann-er-in-einen-darlehens--oder-leihvertrag) \]
+
 ### § 960 ABGB — oder in eine Bevollmächtigung übergehe
 
 > Es können bewegliche und unbewegliche Sachen in Obsorge gegeben werden\. Wird aber dem Uebernehmer zugleich ein anderes, auf die anvertraute Sache sich beziehendes, Geschäft aufgetragen; so wird er als ein Gewalthaber angesehen\.
+
+\[ [🔗 Permalink](#-960-abgb--oder-in-eine-bevollmächtigung-übergehe) \]
 
 ### § 961 ABGB — Pflichten und Rechte des Verwahrers;
 
 > Die Hauptpflicht des Verwahrers ist: die ihm anvertraute Sache durch die bestimmte Zeit sorgfältig zu bewahren, und nach Verlauf derselben dem Hinterleger in eben dem Zustande, in welchem er sie übernommen hat, und mit allem Zuwachse zurückzustellen\.
 
+\[ [🔗 Permalink](#-961-abgb--pflichten-und-rechte-des-verwahrers) \]
+
 ### § 962 ABGB
 
 > Der Verwahrer muß dem Hinterleger auf Verlangen die Sache auch noch vor Verlauf der Zeit zurückstellen, und kann nur den Ersatz des ihm etwa verursachten Schadens begehren\. Er kann hingegen die ihm anvertraute Sache nicht früher zurückgeben; es wäre denn, daß ein unvorhergesehener Umstand ihn außer Stand setzte, die Sache mit Sicherheit oder ohne seinen eigenen Nachtheil zu verwahren\.
+
+\[ [🔗 Permalink](#-962-abgb) \]
 
 ### § 963 ABGB
 
 > Ist die Verwahrungszeit weder ausdrücklich bestimmt worden, noch sonst aus Nebenumständen abzunehmen; so kann die Verwahrung nach Belieben aufgekündet werden\.
 
+\[ [🔗 Permalink](#-963-abgb) \]
+
 ### § 964 ABGB
 
 > Der Verwahrer haftet dem Hinterleger für den aus der Unterlassung der pflichtmäßigen Obsorge verursachten Schaden, aber nicht für den Zufall; selbst dann nicht, wenn er die anvertraute, obschon kostbarere Sache, mit Aufopferung seiner eigenen hätte retten können\.
+
+\[ [🔗 Permalink](#-964-abgb) \]
 
 ### § 965 ABGB
 
 > Hat aber der Verwahrer von der hinterlegten Sache Gebrauch gemacht; hat er sie ohne Noth und ohne Erlaubniß des Hinterlegers einem Dritten in Verwahrung gegeben; oder die Zurückstellung verzögert, und die Sache leidet einen Schaden, welchem sie bey dem Hinterleger nicht ausgesetzt gewesen wäre; so kann er keinen Zufall vorschützen, und die Beschädigung wird ihm zugerechnet\.
 
+\[ [🔗 Permalink](#-965-abgb) \]
+
 ### § 966 ABGB
 
 > Wenn Sachen verschlossen oder versiegelt hinterlegt, und in der Folge das Schloß oder Siegel verletzt worden; so ist der Hinterleger, wenn er einen Abgang behauptet, zur Beschwörung seines Schadens, in so fern derselbe nach seinem Stande, Gewerbe, Vermögen und den übrigen Umständen wahrscheinlich ist, nach Vorschrift der Gerichtsordnung zuzulassen; es wäre denn, daß der Verwahrer beweisen könnte, daß die Verletzung des Schlosses oder Siegels ohne sein Verschulden geschehen sey\. Das Nähmliche hat auch dann zu gelten, wenn sämmtliche auf solche Art hinterlegte Sachen in Verlust gerathen sind\.
+
+\[ [🔗 Permalink](#-966-abgb) \]
 
 ### § 967 ABGB — und des Hinterlegers
 
 > Der Hinterleger ist verpflichtet, dem Verwahrer den schuldbarer Weise zugefügten Schaden, und die zur Erhaltung der verwahrten Sache, oder zur Vermehrung der fortdauernden Nutzungen verwendeten Kosten zu ersetzen\. Hat der Verwahrer im Nothfalle, um das hinterlegte Gut zu retten, seine eigenen Sachen aufgeopfert; so kann er einen angemessenen Ersatz fordern\. Die wechselseitigen Forderungen des Verwahres und Hinterlegers einer beweglichen Sache können aber nur binnen dreyßig Tagen von Zeit der Zurückstellung angebracht werden\.
 
+\[ [🔗 Permalink](#-967-abgb--und-des-hinterlegers) \]
+
 ### § 968 ABGB — Sequester
 
 > Wird eine in Anspruch genommene Sache von den streitenden Parteyen oder vom Gerichte jemanden in Verwahrung gegeben; so heißt der Verwahrer, Sequester\. Die Rechte und Verbindlichkeiten des Sequesters werden nach den hier festgesetzten Grundsätzen beurtheilt\.
 
+\[ [🔗 Permalink](#-968-abgb--sequester) \]
+
 ### § 969 ABGB — Ob dem Verwahrer ein Lohn gebühre
 
 > Ein Lohn kann für die Aufbewahrung nur dann gefordert werden, wenn er ausdrücklich, oder nach dem Stande des Aufbewahrers stillschweigend bedungen worden ist\.
+
+\[ [🔗 Permalink](#-969-abgb--ob-dem-verwahrer-ein-lohn-gebühre) \]
 
 ### § 970 ABGB — Gastaufnahme
 
@@ -6421,17 +8103,25 @@
 
 > `(3)` Den Wirten werden gleichgehalten die Besitzer von Badeanstalten in Rücksicht auf die üblicherweise eingebrachten Sachen der Badegäste\.
 
+\[ [🔗 Permalink](#-970-abgb--gastaufnahme) \]
+
 ### § 970a ABGB
 
 > Ablehnung der Haftung durch Anschlag ist ohne rechtliche Wirkung\. Für Kostbarkeiten, Geld und Wertpapiere haftet der Gastwirt nur bis zum Betrage von 550 Euro, es sei denn, daß er diese Sachen in Kenntnis ihrer Beschaffenheit zur Aufbewahrung übernommen hat oder daß der Schaden von ihm selbst oder seinen Leuten verschuldet ist\.
+
+\[ [🔗 Permalink](#-970a-abgb) \]
 
 ### § 970b ABGB
 
 > Der Ersatzanspruch aus der Gastaufnahme erlischt, wenn der Beschädigte nach erlangter Kenntnis von dem Schaden nicht ohne Verzug dem Wirte die Anzeige macht\. Dies gilt jedoch nicht, wenn die Sachen vom Wirte zur Aufbewahrung übernommen waren\.
 
+\[ [🔗 Permalink](#-970b-abgb) \]
+
 ### § 970c ABGB
 
 > Den im § 970 bezeichneten Personen steht das Recht zu, zur Sicherung ihrer Forderungen aus der Beherbergung und Verpflegung sowie ihrer Auslagen für die Gäste die eingebrachten Sachen zurückzuhalten\.
+
+\[ [🔗 Permalink](#-970c-abgb) \]
 
 ## Zwanzigstes Hauptstück.
 
@@ -6441,51 +8131,75 @@
 
 > Wenn jemanden eine unverbrauchbare Sache bloß zum unentgeldlichen Gebrauche auf eine bestimmte Zeit übergeben wird; so entsteht ein Leihvertrag\. Der Vertrag, wodurch man jemanden eine Sache zu leihen verspricht, ohne sie zu übergeben, ist zwar verbindlich, aber noch kein Leihvertrag\.
 
+\[ [🔗 Permalink](#-971-abgb--c-leihvertrag) \]
+
 ## Rechte und Pflichten des Entlehners.
 
 ### § 972 ABGB — 1) in Rücksicht des Gebrauches;
 
 > Der Entlehner erwirbt das Recht, den ordentlichen oder näher bestimmten Gebrauch von der Sache zu machen\. Nach Verlauf der Zeit ist er verpflichtet, eben dieselbe Sache zurückzustellen\.
 
+\[ [🔗 Permalink](#-972-abgb--1-in-rücksicht-des-gebrauches) \]
+
 ### § 973 ABGB — 2) der Zurückstellung;
 
 > Wenn keine Zeit zur Zurückgabe festgesetzt, wohl aber die Absicht des Gebrauches bestimmt worden ist; so ist der Entlehner verbunden, mit dem Gebrauche nicht zu zögern, und die Sache so bald als möglich zurück zu geben\.
+
+\[ [🔗 Permalink](#-973-abgb--2-der-zurückstellung) \]
 
 ### § 974 ABGB
 
 > Hat man weder die Dauer, noch die Absicht des Gebrauches bestimmt; so entsteht kein wahrer Vertrag, sondern ein unverbindliches Bittleihen \(Precarium\), und der Verleiher kann die entlehnte Sache nach Willkühr zurückfordern\.
 
+\[ [🔗 Permalink](#-974-abgb) \]
+
 ### § 975 ABGB
 
 > Bey einem Streite über die Dauer des Gebrauches muß der Entlehner das Recht auf den längern Gebrauch beweisen\.
+
+\[ [🔗 Permalink](#-975-abgb) \]
 
 ### § 976 ABGB
 
 > Wenn gleich die verlehnte Sache vor Verlauf der Zeit und vor geendigtem Gebrauche dem Verleiher selbst unentbehrlich wird; so hat er ohne ausdrückliche Verabredung doch kein Recht, die Sache früher zurück zu nehmen\.
 
+\[ [🔗 Permalink](#-976-abgb) \]
+
 ### § 977 ABGB
 
 > Der Entlehner ist zwar in der Regel berechtiget, die entlehnte Sache auch vor der bestimmten Zeit zurück zu geben: fällt aber die frühere Zurückgabe dem Verleiher beschwerlich; so kann sie wider seinen Willen nicht Statt finden\.
+
+\[ [🔗 Permalink](#-977-abgb) \]
 
 ### § 978 ABGB — 3) der Beschädigung;
 
 > Wenn der Entlehner die geliehene Sache anders gebraucht, als es bedungen war, oder den Gebrauch derselben eigenmächtig einem Dritten gestattet; so ist er dem Verleiher verantwortlich; und dieser auch berechtiget, die Sache sogleich zurück zu fordern\.
 
+\[ [🔗 Permalink](#-978-abgb--3-der-beschädigung) \]
+
 ### § 979 ABGB
 
 > Wird die geliehene Sache beschädiget, oder zu Grunde gerichtet; so muß der Entlehner nicht nur den zunächst durch sein Verschulden verursachten, sondern auch den zufälligen Schaden, den er durch eine widerrechtliche Handlung veranlaßt hat, so wie der Verwahrer einer Sache ersetzen \(§\. 965\)\.
+
+\[ [🔗 Permalink](#-979-abgb) \]
 
 ### § 980 ABGB
 
 > Dadurch, daß der Entlehner für ein verlornes Lehnstück den Werth erlegt, hat er noch kein Recht, dasselbe, wenn es wieder gefunden wird, gegen den Willen des Eigenthümers für sich zu behalten, wenn dieser bereit ist, den empfangenen Werth zurück zu geben\.
 
+\[ [🔗 Permalink](#-980-abgb) \]
+
 ### § 981 ABGB — 4) der Erhaltungskosten
 
 > Die mit dem Gebrauche ordentlicher Weise verbundenen Kosten muß der Entlehner selbst bestreiten\. Die außerordentlichen Erhaltungskosten hat er zwar, dafern er die Sache dem Verleiher nicht zur eigenen Besorgung überlassen kann oder will, inzwischen vorzuschießen; doch werden sie ihm gleich einem redlichen Besitzer vergütet\.
 
+\[ [🔗 Permalink](#-981-abgb--4-der-erhaltungskosten) \]
+
 ### § 982 ABGB — Beschränkung der wechselseitigen Klagen
 
 > Wenn der Verleiher nach der Zurücknahme des Lehnstückes dessen Mißbrauch, oder übertriebene Abnutzung innerhalb dreyßig Tagen nicht gerüget; oder, wenn der Entlehner nach der Zurückgabe von den auf die Sache verwendeten außerordentlichen Kosten binnen eben diesem Zeitraume keine Meldung gemacht hat; so ist die Klage erloschen\.
+
+\[ [🔗 Permalink](#-982-abgb--beschränkung-der-wechselseitigen-klagen) \]
 
 ## Ein u. zwanzigstes Hauptstück.
 
@@ -6495,15 +8209,21 @@
 
 > Im Darlehensvertrag verpflichtet sich der Darlehensgeber, dem Darlehensnehmer vertretbare Sachen mit der Bestimmung zu übergeben, dass der Darlehensnehmer über die Sachen nach seinem Belieben verfügen kann\. Der Darlehensnehmer ist verpflichtet, dem Darlehensgeber spätestens nach Vertragsende ebenso viele Sachen derselben Gattung und Güte zurückzugeben\.
 
+\[ [🔗 Permalink](#-983-abgb--darlehensvertrag) \]
+
 ### § 984 ABGB — Arten des Darlehensvertrags
 
 > `(1)` Gegenstand eines Darlehensvertrags können Geld oder andere vertretbare Sachen sein\. Ein Darlehen kann entweder unentgeltlich oder gegen Entgelt gewährt werden\. Wenn die Parteien nichts über ein Entgelt vereinbaren, gilt der Darlehensvertrag im Zweifel als entgeltlich\.
 
 > `(2)` Ein unentgeltlicher Darlehensvertrag ohne Übergabe der Sachen ist nur wirksam, wenn der Darlehensgeber seine Vertragserklärung schriftlich abgibt\.
 
+\[ [🔗 Permalink](#-984-abgb--arten-des-darlehensvertrags) \]
+
 ### § 985 ABGB — Steigerung und Minderung des Werts
 
 > Der Darlehensnehmer hat, sofern nichts anderes vereinbart ist, bei der Rückgabe der Sachen einen in der Zwischenzeit eingetretenen Wertverlust nicht auszugleichen\. Gleichermaßen kann er sich auch nicht auf eine Wertsteigerung zur Minderung seiner Rückgabepflicht berufen\.
+
+\[ [🔗 Permalink](#-985-abgb--steigerung-und-minderung-des-werts) \]
 
 ### § 986 ABGB — Dauer und Auflösung des Darlehensvertrags
 
@@ -6513,13 +8233,19 @@
 
 > `(3)` Ein auf bestimmte Zeit geschlossener Darlehensvertrag endet durch Zeitablauf\.
 
+\[ [🔗 Permalink](#-986-abgb--dauer-und-auflösung-des-darlehensvertrags) \]
+
 ### § 987 ABGB — Außerordentliche Kündigung des Darlehensvertrags
 
 > Jeder Vertragsteil kann den Darlehensvertrag jederzeit ohne Einhaltung einer Kündigungsfrist kündigen, wenn ihm die Aufrechterhaltung des Vertrags aus wichtigen Gründen unzumutbar ist\.
 
+\[ [🔗 Permalink](#-987-abgb--außerordentliche-kündigung-des-darlehensvertrags) \]
+
 ### § 988 ABGB — Kreditvertrag
 
 > Der entgeltliche Darlehensvertrag über Geld heißt Kreditvertrag; dazu zählt auch ein Vertrag, mit dem ein Geldbetrag zum Abruf zur Verfügung gestellt wird\. Die Parteien dieses Vertrags heißen Kreditgeber und Kreditnehmer\. Das Entgelt besteht in der Regel in den vom Kreditnehmer zu zahlenden Zinsen; für diese gilt § 1000 Abs\. 1\.
+
+\[ [🔗 Permalink](#-988-abgb--kreditvertrag) \]
 
 ### § 989 ABGB — Befristung und Ende des Kreditvertrags
 
@@ -6527,13 +8253,19 @@
 
 > `(2)` Nach Ende des Kreditvertrags hat der Kreditnehmer den Kreditbetrag samt den noch zu leistenden Zinsen zurückzuzahlen\.
 
+\[ [🔗 Permalink](#-989-abgb--befristung-und-ende-des-kreditvertrags) \]
+
 ### § 990 ABGB — Unwirksame Vereinbarungen über das Kündigungsrecht des Kreditgebers
 
 > Vereinbarungen, durch die dem Kreditgeber ein nicht an sachlich gerechtfertigte Gründe geknüpftes Recht zur vorzeitigen Kündigung eines auf bestimmte Zeit geschlossenen und seinerseits schon erfüllten Kreditvertrags eingeräumt wird, sind nicht wirksam\.
 
+\[ [🔗 Permalink](#-990-abgb--unwirksame-vereinbarungen-über-das-kündigungsrecht-des-kreditgebers) \]
+
 ### § 991 ABGB — Verweigerung der Kreditauszahlung
 
 > Der Kreditgeber kann die Auszahlung des Kreditbetrags verweigern, wenn sich nach Vertragsabschluss Umstände ergeben, die eine Verschlechterung der Vermögenslage des Kreditnehmers oder eine Entwertung bedungener Sicherheiten in einem solchen Ausmaß erweisen, dass die Rückzahlung des Kredits oder die Entrichtung der Zinsen selbst bei Verwertung der Sicherheiten gefährdet sind\.
+
+\[ [🔗 Permalink](#-991-abgb--verweigerung-der-kreditauszahlung) \]
 
 ### § 1000 ABGB — Zinsen und Zinseszinsen
 
@@ -6543,6 +8275,8 @@
 
 > `(3)` Haben die Parteien über die Frist zur Zahlung der Zinsen keine Vereinbarung getroffen, so sind diese bei der Zurückzahlung des Kapitals oder, sofern der Vertrag auf mehrere Jahre abgeschlossen worden ist, jährlich zu zahlen\.
 
+\[ [🔗 Permalink](#-1000-abgb--zinsen-und-zinseszinsen) \]
+
 ## Zwey u. zwanzigstes Hauptstück.
 
 ## Von der Bevollmächtigung und andern Arten der Geschäftsführung.
@@ -6551,109 +8285,163 @@
 
 > Der Vertrag, wodurch jemand ein ihm aufgetragenes Geschäft im Nahmen des Andern zur Besorgung übernimmt, heißt Bevollmächtigungsvertrag\.
 
+\[ [🔗 Permalink](#-1002-abgb--bevollmächtigungsvertrag) \]
+
 ### § 1003 ABGB
 
 > Personen, welche zur Besorgung bestimmter Geschäfte öffentlich bestellt worden, sind schuldig, über einen darauf sich beziehenden Auftrag ohne Zögerung gegen den Auftragenden sich ausdrücklich zu erklären, ob sie denselben annehmen oder nicht; widrigen Falls bleiben sie dem Auftragenden für den dadurch veranlaßten Nachtheil verantwortlich\.
+
+\[ [🔗 Permalink](#-1003-abgb) \]
 
 ### § 1004 ABGB — Eintheilung der Bevollmächtigung in eine unentgeldliche oder entgeldliche;
 
 > Wird für die Besorgung eines fremden Geschäftes entweder ausdrücklich, oder nach dem Stande des Geschäftsträgers auch nur stillschweigend eine Belohnung bedungen; so gehört der Vertrag zu den entgeldlichen, außer dem aber zu den unentgeldlichen\.
 
+\[ [🔗 Permalink](#-1004-abgb--eintheilung-der-bevollmächtigung-in-eine-unentgeldliche-oder-entgeldliche) \]
+
 ### § 1005 ABGB — mündliche oder schriftliche;
 
 > Bevollmächtigungsverträge können mündlich oder schriftlich geschlossen werden\. Die von dem Gewaltgeber dem Gewalthaber hierüber ausgestellte Urkunde wird Vollmacht genannt\.
+
+\[ [🔗 Permalink](#-1005-abgb--mündliche-oder-schriftliche) \]
 
 ### § 1006 ABGB — allgemeine oder besondere;
 
 > Es gibt allgemeine und besondere Vollmachten, je nachdem jemanden die Besorgung aller, oder nur einiger Geschäfte anvertraut wird\. Die besonderen Vollmachten können bloß gerichtliche oder bloß außergerichtliche Geschäfte überhaupt; oder sie können einzelne Angelegenheiten der einen oder der andern Gattung zum Gegenstande haben\.
 
+\[ [🔗 Permalink](#-1006-abgb--allgemeine-oder-besondere) \]
+
 ### § 1007 ABGB — unumschränkte, oder beschränkte;
 
 > Vollmachten werden entweder mit unumschränkter oder mit beschränkter Freyheit zu handeln ertheilet\. Durch die erstere wird der Gewalthaber berechtiget, das Geschäft nach seinem besten Wissen und Gewissen zu leiten; durch die letztere aber werden ihm die Gränzen, wie weit, und die Art, wie er dasselbe betreiben soll, vorgeschrieben\.
+
+\[ [🔗 Permalink](#-1007-abgb--unumschränkte-oder-beschränkte) \]
 
 ### § 1008 ABGB
 
 > Folgende Geschäfte: Wenn im Nahmen eines Andern Sachen veräußert, oder entgeldlich übernommen; Anleihen oder Darleihen geschlossen; Geld oder Geldeswerth erhoben; Processe anhängig gemacht; Eide aufgetragen, angenommen oder zurückgeschoben, oder Vergleiche getroffen werden sollen, erfordern eine besondere, auf diese Gattungen der Geschäfte lautende Vollmacht\. Wenn aber eine Erbschaft unbedingt angenommen oder ausgeschlagen; Gesellschaftsverträge errichtet; Schenkungen gemacht; das Befugniß, einen Schiedsrichter zu wählen, eingeräumt, oder Rechte unentgeldlich aufgegeben werden sollen; ist eine besondere, auf das einzelne Geschäft ausgestellte Vollmacht nothwendig\. Allgemeine, selbst unbeschränkte Vollmachten sind in diesen Fällen nur hinreichend, wenn die Gattung des Geschäftes in der Vollmacht ausgedrücket worden ist\.
 
+\[ [🔗 Permalink](#-1008-abgb) \]
+
 ### § 1009 ABGB — Rechte und Verbindlichkeiten des Gewalthabers;
 
 > Der Gewalthaber ist verpflichtet, das Geschäft seinem Versprechen und der erhaltenen Vollmacht gemäß, emsig und redlich zu besorgen, und allen aus dem Geschäfte entspringenden Nutzen dem Machtgeber zu überlassen\. Er ist, ob er gleich eine beschränkte Vollmacht hat, berechtiget, alle Mittel anzuwenden, die mit der Natur des Geschäftes nothwendig verbunden, oder der erklärten Absicht des Machtgebers gemäß sind\. Ueberschreitet er aber die Gränzen der Vollmacht; so haftet er für die Folgen\.
+
+\[ [🔗 Permalink](#-1009-abgb--rechte-und-verbindlichkeiten-des-gewalthabers) \]
 
 ### § 1010 ABGB
 
 > Trägt der Gewalthaber das Geschäft ohne Noth einem Dritten auf; so haftet er ganz allein für den Erfolg\. Wird ihm aber die Bestellung eines Stellvertreters in der Vollmacht ausdrücklich gestattet, oder durch die Umstände unvermeidlich; so verantwortet er nur ein bey der Auswahl der Person begangenes Verschulden\.
 
+\[ [🔗 Permalink](#-1010-abgb) \]
+
 ### § 1011 ABGB
 
 > Wird mehreren Bevollmächtigten zugleich ein Geschäft aufgetragen; so ist die Mitwirkung Aller zur Gültigkeit des Geschäftes, und Verpflichtung des Machtgebers nothwendig; wenn nicht ausdrücklich Einem oder Mehreren aus ihnen die volle Befugniß in der Vollmacht ertheilt worden ist\.
+
+\[ [🔗 Permalink](#-1011-abgb) \]
 
 ### § 1012 ABGB
 
 > Der Gewalthaber ist schuldig, dem Machtgeber den durch sein Verschulden verursachten Schaden zu ersetzen, und die bey dem Geschäfte vorkommenden Rechnungen, so oft dieser es verlangt, vorzulegen\.
 
+\[ [🔗 Permalink](#-1012-abgb) \]
+
 ### § 1013 ABGB
 
 > Gewalthaber sind, außer dem im §\. 1004 enthaltenen Falle, nicht befugt, ihrer Bemühung wegen eine Belohnung zu fordern\. Es ist ihnen nicht erlaubt, ohne Willen des Machtgebers in Rücksicht auf die Geschäftsverwaltung von einem Dritten Geschenke anzunehmen\. Die erhaltenen werden zur Armen\-Casse eingezogen\.
+
+\[ [🔗 Permalink](#-1013-abgb) \]
 
 ### § 1014 ABGB — des Gewaltgebers;
 
 > Der Gewaltgeber ist verbunden, dem Gewalthaber allen zur Besorgung des Geschäftes nothwendig oder nützlich gemachten Aufwand, selbst bey fehlgeschlagenem Erfolge, zu ersetzen, und ihm auf Verlangen zur Bestreitung der baren Auslagen auch einen angemessenen Vorschuß zu leisten; er muß ferner allen durch sein Verschulden entstandenen, oder mit der Erfüllung des Auftrages verbundenen Schaden vergüten\.
 
+\[ [🔗 Permalink](#-1014-abgb--des-gewaltgebers) \]
+
 ### § 1015 ABGB
 
 > Leidet der Gewalthaber bey der Geschäftsführung nur zufälliger Weise Schaden; so kann er in dem Falle, daß er das Geschäft unentgeldlich zu besorgen übernahm, einen solchen Betrag fordern, welcher ihm bey einem entgeldlichen Vertrage zur Vergütung der Bemühung nach dem höchsten Schätzungswerthe gebührt haben würde\.
+
+\[ [🔗 Permalink](#-1015-abgb) \]
 
 ### § 1016 ABGB
 
 > Ueberschreitet der Gewalthaber die Gränzen seiner Vollmacht; so ist der Gewaltgeber nur in so fern verbunden, als er das Geschäft genehmigt, oder den aus dem Geschäfte entstandenen Vortheil sich zuwendet\.
 
+\[ [🔗 Permalink](#-1016-abgb) \]
+
 ### § 1017 ABGB — in Rücksicht eines Dritten
 
 > In so fern der Gewalthaber nach dem Inhalte der Vollmacht den Gewaltgeber vorstellt, kann er ihm Rechte erwerben und Verbindlichkeiten auflegen\. Hat er also innerhalb der Gränzen der offenen Vollmacht mit einem Dritten einen Vertrag geschlossen; so kommen die dadurch gegründeten Rechte und Verbindlichkeiten dem Gewaltgeber und dem Dritten; nicht aber dem Gewalthaber zu\. Die dem Gewalthaber ertheilte geheime Vollmacht hat auf die Rechte des Dritten keinen Einfluß\.
+
+\[ [🔗 Permalink](#-1017-abgb--in-rücksicht-eines-dritten) \]
 
 ### § 1018 ABGB
 
 > Auch in dem Falle, daß der Gewaltgeber einen solchen Gewalthaber, der sich selbst zu verbinden unfähig ist, aufgestellt hat, sind die innerhalb der Gränzen der Vollmacht geschlossenen Geschäfte sowohl für den Gewaltgeber, als für den Dritten verbindlich\.
 
+\[ [🔗 Permalink](#-1018-abgb) \]
+
 ### § 1019 ABGB
 
 > Ist der Gewalthaber zu dem von ihm geschlossenen Geschäft nicht oder nicht ausreichend bevollmächtigt, so ist er, wenn der Gewaltgeber weder das Geschäft genehmigt noch sich den aus dem Geschäft entstandenen Vorteil zuwendet \(§ 1016\), dem anderen Teil zum Ersatz des Schadens verpflichtet, den dieser im Vertrauen auf die Vertretungsmacht erleidet\. Der Gewalthaber haftet jedoch nicht über den Betrag des Interesses hinaus, das der andere Teil an der Wirksamkeit des Vertrages hat\.
+
+\[ [🔗 Permalink](#-1019-abgb) \]
 
 ### § 1020 ABGB — Auflösung des Vertrages durch den Widerruf
 
 > Es steht dem Machtgeber frey; die Vollmacht nach Belieben zu widerrufen; doch muß er dem Gewalthaber nicht nur die in der Zwischenzeit gehabten Kosten und den sonst erlittenen Schaden ersetzen; sondern auch einen der Bemühung angemessenen Theil der Belohnung entrichten\. Dieses findet auch dann Statt, wenn die Vollendung des Geschäftes durch einen Zufall verhindert worden ist\.
 
+\[ [🔗 Permalink](#-1020-abgb--auflösung-des-vertrages-durch-den-widerruf) \]
+
 ### § 1021 ABGB — die Aufkündung;
 
 > Auch der Machthaber kann die angenommene Vollmacht aufkünden\. Wenn er sie aber vor Vollendung des ihm insbesondere aufgetragenen, oder vermöge der allgemeinen Vollmacht angefangenen Geschäftes aufkündet; so muß er, dafern nicht ein unvorgesehenes und unvermeidliches Hinderniß eingetreten ist, allen daraus entstandenen Schaden ersetzen\.
+
+\[ [🔗 Permalink](#-1021-abgb--die-aufkündung) \]
 
 ### § 1022 ABGB — den Tod
 
 > In der Regel wird die Vollmacht sowohl durch den Tod des Gewaltgebers als des Gewalthabers aufgehoben\. Läßt sich aber das angefangene Geschäft ohne offenbaren Nachtheil der Erben nicht unterbrechen, oder erstreckt sich die Vollmacht selbst auf den Sterbfall des Gewaltgebers; so hat der Gewalthaber das Recht und die Pflicht, das Geschäft zu vollenden\.
 
+\[ [🔗 Permalink](#-1022-abgb--den-tod) \]
+
 ### § 1023 ABGB
 
 > Die von einem Körper \(Gemeinschaft\) ausgestellten und übernommenen Vollmachten werden durch die Erlöschung der Gemeinschaft aufgehoben\.
+
+\[ [🔗 Permalink](#-1023-abgb) \]
 
 ### § 1024 ABGB — oder ein Insolvenzverfahren
 
 > Wird über das Vermögen des Machtgebers das Insolvenzverfahren eröffnet, so sind Vertretungshandlungen des Machthabers ab der Bekanntmachung der Insolvenzeröffnung nicht rechtswirksam\. Durch die Eröffnung des Insolvenzverfahrens über das Vermögen des Machthabers erlischt dessen Vollmacht\.
 
+\[ [🔗 Permalink](#-1024-abgb--oder-ein-insolvenzverfahren) \]
+
 ### § 1025 ABGB — In wiefern die Verbindlichkeit fortdauere
 
 > Wird die Vollmacht durch Widerruf, Aufkündung, oder durch den Tod des Gewaltgebers oder Gewalthabers aufgehoben; so müssen doch die Geschäfte, welche keinen Aufschub leiden, so lange fortgesetzt werden, bis von dem Machtgeber oder dessen Erben eine andere Verfügung getroffen worden ist, oder füglich getroffen werden konnte\.
+
+\[ [🔗 Permalink](#-1025-abgb--in-wiefern-die-verbindlichkeit-fortdauere) \]
 
 ### § 1026 ABGB
 
 > Auch bleiben die mit einem Dritten, dem die Aufhebung der Vollmacht ohne sein Verschulden unbekannt war, geschlossenen Verträge verbindlich, und der Gewaltgeber kann sich nur bey dem Gewalthaber, der die Aufhebung verschwiegen hat, wegen seines Schadens erhohlen\.
 
+\[ [🔗 Permalink](#-1026-abgb) \]
+
 ### § 1027 ABGB — Stillschweigende Bevollmächtigung der Dienstpersonen
 
 > Die in diesem Hauptstücke enthaltenen Vorschriften haben auch ihre Anwendung auf die Eigenthümer einer Handlung, eines Schiffes, Kaufladens oder andern Gewerbes, welche die Verwaltung einem Factor, Schiffer, Ladendiener oder andern Geschäftsträgern anvertrauen\.
 
+\[ [🔗 Permalink](#-1027-abgb--stillschweigende-bevollmächtigung-der-dienstpersonen) \]
+
 ### § 1028 ABGB
 
 > Die Rechte solcher Geschäftsführer sind vorzüglich aus der Urkunde ihrer Bestellung, dergleichen unter Handelsleuten das ordentlich kundgemachte Befugniß der Unterzeichnung \(Firma\) ist, zu beurtheilen\.
+
+\[ [🔗 Permalink](#-1028-abgb) \]
 
 ### § 1029 ABGB
 
@@ -6661,21 +8449,31 @@
 
 > `(2)` Der Überbringer einer Quittung gilt als ermächtigt, die Leistung zu empfangen, sofern nicht dem Leistenden bekannte Umstände der Annahme einer solchen Ermächtigung entgegenstehen\.
 
+\[ [🔗 Permalink](#-1029-abgb) \]
+
 ### § 1030 ABGB
 
 > Gestattet der Eigenthümer einer Handlung, oder eines Gewerbes seinem Diener oder Lehrlinge, Waaren im Laden oder außer demselben zu verkaufen; so wird vermuthet, daß sie bevollmächtigt seyn, die Bezahlung zu empfangen, und Quittungen dagegen auszustellen\.
+
+\[ [🔗 Permalink](#-1030-abgb) \]
 
 ### § 1031 ABGB
 
 > Die Vollmacht, Waaren im Nahmen des Eigenthümers zu verkaufen, erstreckt sich aber nicht auf das Recht, in seinem Nahmen Waaren einzukaufen; auch dürfen Fuhrleute weder den Werth der ihnen anvertrauten Güter beziehen, noch Geld darauf anleihen, wenn es nicht ausdrücklich in Frachtbriefen bestimmt worden ist\.
 
+\[ [🔗 Permalink](#-1031-abgb) \]
+
 ### § 1032 ABGB
 
 > Dienstgeber und Familienhäupter sind nicht verbunden, das, was von ihren Dienstpersonen oder andern Hausgenossen in ihrem Nahmen auf Borg genommen wird, zu bezahlen\. Der Borger muß in solchen Fällen den gemachten Auftrag erweisen\.
 
+\[ [🔗 Permalink](#-1032-abgb) \]
+
 ### § 1033 ABGB
 
 > Besteht aber zwischen dem Borgnehmer und dem Borggeber ein ordentliches Einschreibebuch, worin die ausgeborgten Sachen aufgezeichnet werden; so gilt die Vermuthung, daß der Ueberbringer dieses Buches bevollmächtiget sey, die Waare auf Borg zu nehmen\.
+
+\[ [🔗 Permalink](#-1033-abgb) \]
 
 ### § 1034 ABGB — Gesetzliche Vertretung
 
@@ -6691,45 +8489,67 @@
 
 > `(2)` Sofern nichts anderes angeordnet ist, wird eine durch Gerichtsentscheidung angeordnete gesetzliche Vertretung mit Rechtskraft der Entscheidung wirksam\.
 
+\[ [🔗 Permalink](#-1034-abgb--gesetzliche-vertretung) \]
+
 ### § 1035 ABGB — Geschäftsführung ohne Auftrag;
 
 > Wer weder durch ausdrücklichen oder stillschweigenden Vertrag, noch vom Gerichte, noch aus dem Gesetze das Befugniß erhalten hat, darf der Regel nach sich in das Geschäft eines Andern nicht mengen\. Hätte er sich dessen angemaßt; so ist er für alle Folgen verantwortlich\.
+
+\[ [🔗 Permalink](#-1035-abgb--geschäftsführung-ohne-auftrag) \]
 
 ### § 1036 ABGB — im Nothfalle;
 
 > Wer, obgleich unberufen, ein fremdes Geschäft zur Abwendung eines bevorstehenden Schadens besorgt, dem ist derjenige, dessen Geschäft er besorgt hat, den nothwendigen und zweckmäßig gemachten Aufwand zu ersetzen schuldig; wenn gleich die Bemühung ohne Verschulden fruchtlos geblieben ist \(§\. 403\)\.
 
+\[ [🔗 Permalink](#-1036-abgb--im-nothfalle) \]
+
 ### § 1037 ABGB — oder zum Nutzen des Andern;
 
 > Wer fremde Geschäfte bloß, um den Nutzen des Andern zu befördern, übernehmen will, soll sich um dessen Einwilligung bewerben\. Hat der Geschäftsführer zwar diese Vorschrift unterlassen, aber das Geschäft auf seine Kosten zu des Andern klarem, überwiegenden Vortheile geführet; so müssen ihm von diesem die darauf verwendeten Kosten ersetzt werden\.
+
+\[ [🔗 Permalink](#-1037-abgb--oder-zum-nutzen-des-andern) \]
 
 ### § 1038 ABGB
 
 > Ist aber der überwiegende Vortheil nicht klar; oder hat der Geschäftsführer eigenmächtig so wichtige Veränderungen in einer fremden Sache vorgenommen, daß die Sache dem Andern zu dem Zwecke, wozu er sie bisher benützte, unbrauchbar wird, so ist dieser zu keinem Ersatze verbunden; er kann vielmehr verlangen, daß der Geschäftsführer auf eigene Kosten die Sache in den vorigen Stand zurücksetze, oder, wenn das nicht möglich ist, ihm volle Genugthuung leiste\.
 
+\[ [🔗 Permalink](#-1038-abgb) \]
+
 ### § 1039 ABGB
 
 > Wer ein fremdes Geschäft ohne Auftrag auf sich genommen hat, muß es bis zur Vollendung fortsetzen, und gleich einem Bevollmächtigten genaue Rechnung darüber ablegen\.
+
+\[ [🔗 Permalink](#-1039-abgb) \]
 
 ### § 1040 ABGB — gegen den Willen des Andern
 
 > Wenn jemand gegen den gültig erklärten Willen des Eigenthümers sich eines fremden Geschäftes anmaßet, oder den rechtmäßigen Bevollmächtigten durch eine solche Einmengung an der Besorgung des Geschäftes verhindert; so verantwortet er nicht nur den hieraus erwachsenen Schaden und entgangenen Gewinn, sondern er verliert auch den gemachten Aufwand; in so fern er nicht in Natur zurückgenommen werden kann\.
 
+\[ [🔗 Permalink](#-1040-abgb--gegen-den-willen-des-andern) \]
+
 ### § 1041 ABGB — Verwendung einer Sache zum Nutzen des Andern
 
 > Wenn ohne Geschäftsführung eine Sache zum Nutzen eines Andern verwendet worden ist; kann der Eigenthümer sie in Natur, oder, wenn dieß nicht mehr geschehen kann, den Werth verlangen, den sie zur Zeit der Verwendung gehabt hat, obgleich der Nutzen in der Folge vereitelt worden ist\.
+
+\[ [🔗 Permalink](#-1041-abgb--verwendung-einer-sache-zum-nutzen-des-andern) \]
 
 ### § 1042 ABGB
 
 > Wer für einen Andern einen Aufwand macht, den dieser nach dem Gesetze selbst hätte machen müssen, hat das Recht, den Ersatz zu fordern\.
 
+\[ [🔗 Permalink](#-1042-abgb) \]
+
 ### § 1043 ABGB
 
 > Hat jemand in einem Nothfalle, um einen größern Schaden von sich und Andern abzuwenden, sein Eigenthum aufgeopfert; so müssen ihn Alle, welche daraus Vortheil zogen, verhältnißmäßig entschädigen\. Die ausführlichere Anwendung dieser Vorschrift auf Seegefahren ist ein Gegenstand der Seegesetze\.
 
+\[ [🔗 Permalink](#-1043-abgb) \]
+
 ### § 1044 ABGB
 
 > Die Vertheilung der Kriegsschäden wird nach besondern Vorschriften von den politischen Behörden bestimmt\.
+
+\[ [🔗 Permalink](#-1044-abgb) \]
 
 ## Drey u. zwanzigstes Hauptstück.
 
@@ -6739,33 +8559,49 @@
 
 > Der Tausch ist ein Vertrag, wodurch eine Sache gegen eine andere Sache überlassen wird\. Die wirkliche Uebergabe ist nicht zur Errichtung; sondern nur zur Erfüllung des Tauschvertrages, und zur Erwerbung des Eigenthumes nothwendig\.
 
+\[ [🔗 Permalink](#-1045-abgb--tausch) \]
+
 ### § 1046 ABGB
 
 > Das Geld ist kein Gegenstand des Tauschvertrages; doch lassen sich Gold und Silber als eine Waare, und selbst als Münz\-Sorten in so weit vertauschen; als sie nur gegen andere Münz\-Sorten, goldene nähmlich gegen silberne, kleinere gegen größere Stücke verwechselt werden sollen\.
+
+\[ [🔗 Permalink](#-1046-abgb) \]
 
 ### § 1047 ABGB — Rechte und Pflichten der Tauschenden;
 
 > Tauschende sind vermöge des Vertrages verpflichtet, die vertauschten Sachen der Verabredung gemäß mit ihren Bestandteilen und mit allem Zugehör zu rechter Zeit, am gehörigen Ort und in eben dem Zustande, in welchem sie sich bei Schließung des Vertrages befunden haben, zum freien Besitze zu übergeben und zu übernehmen\.
 
+\[ [🔗 Permalink](#-1047-abgb--rechte-und-pflichten-der-tauschenden) \]
+
 ### § 1048 ABGB — insbesondere in Rücksicht der Gefahr,
 
 > Ist eine Zeit bedungen, zu welcher die Uebergabe geschehen soll, und wird in der Zwischenzeit entweder die vertauschte bestimmte Sache durch Verboth außer Verkehr gesetzt, oder zufälliger Weise ganz, oder doch über die Hälfte am Werthe zu Grunde gerichtet, so ist der Tausch für nicht geschlossen anzusehen\.
+
+\[ [🔗 Permalink](#-1048-abgb--insbesondere-in-rücksicht-der-gefahr) \]
 
 ### § 1049 ABGB
 
 > Andere in dieser Zwischenzeit durch Zufall erfolgte Verschlimmerungen der Sache und Lasten gehen auf die Rechnung des Besitzers\. Sind jedoch Sachen in Pausch und Bogen behandelt worden; so trägt der Uebernehmer den zufälligen Untergang einzelner Stücke, wenn anders hierdurch das Ganze nicht über die Hälfte am Werthe verändert worden ist\.
 
+\[ [🔗 Permalink](#-1049-abgb) \]
+
 ### § 1050 ABGB — und der Nutzungen vor der Übergabe
 
 > Dem Besitzer gebühren die Nutzungen der vertauschten Sache bis zur bedungenen Zeit der Uebergabe\. Von dieser Zeit an gebühren sie, sammt dem Zuwachse, dem Uebernehmer, obgleich die Sache noch nicht übergeben worden ist\.
+
+\[ [🔗 Permalink](#-1050-abgb--und-der-nutzungen-vor-der-übergabe) \]
 
 ### § 1051 ABGB
 
 > Ist keine Zeit zur Uebergabe der bestimmten Sache bedungen, und fällt keinem Theile ein Versehen zur Last; so sind die obigen Vorschriften wegen Gefahr und Nutzungen \(§§\. 1048 – 1050\) auf den Zeitpunct der Uebergabe selbst anzuwenden; in so fern die Parteyen nicht etwas Anderes festgesetzt haben\.
 
+\[ [🔗 Permalink](#-1051-abgb) \]
+
 ### § 1052 ABGB
 
 > Wer auf die Übergabe dringen will, muß seine Verbindlichkeit erfüllt haben oder sie zu erfüllen bereit sein\. Auch der zur Vorausleistung Verpflichtete kann seine Leistung bis zur Bewirkung oder Sicherstellung der Gegenleistung verweigern, wenn diese durch schlechte Vermögensverhältnisse des anderen Teiles gefährdet ist, die ihm zur Zeit des Vertragsabschlusses nicht bekannt sein mußten\.
+
+\[ [🔗 Permalink](#-1052-abgb) \]
 
 ## Vier u. zwanzigstes Hauptstück.
 
@@ -6775,9 +8611,13 @@
 
 > Durch den Kaufvertrag wird eine Sache um eine bestimmte Summe Geldes einem Andern überlassen\. Er gehört, wie der Tausch, zu den Titeln ein Eigenthum zu erwerben\. Die Erwerbung erfolgt erst durch die Uebergabe des Kaufgegenstandes\. Bis zur Uebergabe behält der Verkäufer das Eigenthumsrecht\.
 
+\[ [🔗 Permalink](#-1053-abgb--kaufvertrag) \]
+
 ### § 1054 ABGB — Erfordernisse des Kaufvertrages
 
 > Wie die Einwilligung des Käufers und Verkäufers beschaffen seyn müsse, und welche Sachen gekauft und verkauft werden dürfen, dieses wird nach den Regeln der Verträge überhaupt bestimmt\. Der Kaufpreis muß im barem Gelde bestehen, und darf weder unbestimmt, noch gesetzwidrig seyn\.
+
+\[ [🔗 Permalink](#-1054-abgb--erfordernisse-des-kaufvertrages) \]
 
 ## Der Kaufpreis muß
 
@@ -6785,149 +8625,223 @@
 
 > Wird eine Sache theils gegen Geld, theils gegen eine andere Sache veräußert, so wird der Vertrag, je nachdem der Werth am Gelde mehr oder weniger, als der gemeine Werth der gegebenen Sache beträgt, zum Kaufe oder Tausche, und bey gleichem Werthe der Sache, zum Kaufe gerechnet\.
 
+\[ [🔗 Permalink](#-1055-abgb--a-in-barem-gelde-bestehen) \]
+
 ### § 1056 ABGB — b) bestimmt;
 
 > Käufer und Verkäufer können die Festsetzung des Preises auch einer dritten bestimmten Person überlassen\. Wird von dieser in dem bedungenen Zeitraume nichts festgesetzt; oder will im Falle, daß kein Zeitraum bedungen worden ist, ein Theil vor der Bestimmung des Preises zurücktreten; so wird der Kaufvertrag als nicht geschlossen angesehen\.
+
+\[ [🔗 Permalink](#-1056-abgb--b-bestimmt) \]
 
 ### § 1057 ABGB
 
 > Wird die Bestimmung des Preises mehreren Personen überlassen, so entscheidet die Mehrheit der Stimmen\. Fallen die Stimmen so verschieden aus, daß der Preis nicht einmahl durch wirkliche Mehrheit der Stimmen festgesetzt wird; so ist der Kauf für nicht eingegangen zu achten\.
 
+\[ [🔗 Permalink](#-1057-abgb) \]
+
 ### § 1058 ABGB
 
 > Auch der Werth, welcher bey einer früheren Veräußerung bedungen worden ist, kann zur Bestimmung des Preises dienen\. Hat man den ordentlichen Marktpreis zum Grunde gelegt, so wird der mittlere Marktpreis des Ortes und der Zeit, wo und in welcher der Vertrag erfüllet werden muß, angenommen\.
+
+\[ [🔗 Permalink](#-1058-abgb) \]
 
 ### § 1059 ABGB — c) nicht gesetzwidrig sein
 
 > *\(Anm\.: Aufgehoben durch § 33 Z 7, BGBl\. Nr\. 140/1979\.\)*
 
+\[ [🔗 Permalink](#-1059-abgb--c-nicht-gesetzwidrig-sein) \]
+
 ### § 1060 ABGB
 
 > Außer diesem Falle kann der Kauf sowohl von dem Käufer als Verkäufer nur wegen Verletzung über die Hälfte bestritten werden \(§§\. 934 – 935\)\. Diese Beschwerde findet auch dann Statt, wenn der Ausspruch des Kaufpreises einem Dritten überlassen worden ist\.
+
+\[ [🔗 Permalink](#-1060-abgb) \]
 
 ### § 1061 ABGB — Pflichten des Verkäufers,
 
 > Der Verkäufer ist schuldig, die Sache bis zur Zeit der Uebergabe sorgfältig zu verwahren und sie dem Käufer nach eben den Vorschriften zu übergeben, welche oben bey dem Tausche \(§\. 1047\) aufgestellt worden sind\.
 
+\[ [🔗 Permalink](#-1061-abgb--pflichten-des-verkäufers) \]
+
 ### § 1062 ABGB — und des Käufers
 
 > Der Käufer hingegen ist verbunden, die Sache sogleich, oder zur bedungenen Zeit zu übernehmen, zugleich aber auch das Kaufgeld bar abzuführen; widrigen Falls ist der Verkäufer ihm die Uebergabe der Sache zu verweigern berechtiget\.
+
+\[ [🔗 Permalink](#-1062-abgb--und-des-käufers) \]
 
 ### § 1063 ABGB
 
 > Wird die Sache dem Käufer von dem Verkäufer ohne das Kaufgeld zu erhalten, übergeben; so ist die Sache auf Borg verkauft, und das Eigenthum derselben geht gleich auf den Käufer über\.
 
+\[ [🔗 Permalink](#-1063-abgb) \]
+
 ### § 1063a ABGB
 
 > Die Kosten der Übergabe der verkauften Ware, insbesondere die Kosten des Messens und des Wägens, fallen dem Verkäufer zur Last, die Kosten der Abnahme und der Versendung der Sache an einen anderen Ort als den Erfüllungsort aber dem Käufer\.
+
+\[ [🔗 Permalink](#-1063a-abgb) \]
 
 ### § 1063b ABGB
 
 > Wenn dem Käufer beim Kauf einer beweglichen Sache die nähere Bestimmung der Form, des Maßes oder ähnlicher Verhältnisse vorbehalten ist, ist er verpflichtet, die vorbehaltene Bestimmung zu treffen\. Im Übrigen gilt § 906 Abs\. 2 sinngemäß\.
 
+\[ [🔗 Permalink](#-1063b-abgb) \]
+
 ### § 1064 ABGB — Gefahr und Nutzen des Kaufgegenstandes
 
 > In Rücksicht der Gefahr und Nutzungen einer zwar gekauften, aber noch nicht übergebenen Sache gelten die nähmlichen Vorschriften, die bey dem Tauschvertrage gegeben worden sind \(§§\. 1048 – 1051\)\.
+
+\[ [🔗 Permalink](#-1064-abgb--gefahr-und-nutzen-des-kaufgegenstandes) \]
 
 ### § 1065 ABGB — Kauf einer gehofften Sache
 
 > Wenn Sachen, die noch zu erwarten stehen, gekauft werden; so sind die in dem Hauptstücke von gewagten Geschäften gegebenen Anordnungen anzuwenden\.
 
+\[ [🔗 Permalink](#-1065-abgb--kauf-einer-gehofften-sache) \]
+
 ### § 1066 ABGB — Allgemeine Vorschrift
 
 > In allen bey einem Kaufvertrage vorkommenden Fällen, welche in dem Gesetze nicht ausdrücklich entschieden werden, sind die in den Hauptstücken von Verträgen überhaupt, und von dem Tauschvertrage insbesondere aufgestellten Vorschriften anzuwenden\.
+
+\[ [🔗 Permalink](#-1066-abgb--allgemeine-vorschrift) \]
 
 ### § 1067 ABGB — Besondere Arten oder Nebenverträge eines Kaufvertrages
 
 > Besondere Arten oder Nebenverträge eines Kaufvertrages sind: der Vorbehalt des Wiederkaufes, des Rückverkaufes, des Vorkaufes; der Verkauf auf die Probe; der Verkauf mit Vorbehalt eines bessern Käufers; und der Verkaufsauftrag\.
 
+\[ [🔗 Permalink](#-1067-abgb--besondere-arten-oder-nebenverträge-eines-kaufvertrages) \]
+
 ### § 1068 ABGB — Verkauf mit Vorbehalt des Wiederkaufes
 
 > Das Recht eine verkaufte Sache wieder einzulösen, heißt das Recht des Wiederkaufes\. Ist dieses Recht dem Verkäufer überhaupt und ohne nähere Bestimmung eingeräumt, so wird von einer Seite das Kaufstück in einem nicht verschlimmerten Zustande; von der andern Seite aber das erlegte Kaufgeld zurück gegeben, und die inzwischen beyderseits aus dem Gelde und der Sache gezogenen Nutzungen bleiben gegen einander aufgehoben\.
+
+\[ [🔗 Permalink](#-1068-abgb--verkauf-mit-vorbehalt-des-wiederkaufes) \]
 
 ### § 1069 ABGB
 
 > Hat der Käufer das Kaufstück aus dem Seinigen verbessert; oder zu dessen Erhaltung außerordentliche Kosten verwendet, so gebührt ihm gleich einem redlichen Besitzer der Ersatz; er haftet aber auch dafür, wenn durch sein Verschulden der Werth verändert, oder die Zurückgabe vereitelt worden ist\.
 
+\[ [🔗 Permalink](#-1069-abgb) \]
+
 ### § 1070 ABGB
 
 > Der Vorbehalt des Wiederkaufes findet nur bei unbeweglichen Sachen statt und gebührt dem Verkäufer nur für seine Lebenszeit\. Er kann sein Recht weder auf die Erben noch auf einen anderen übertragen\. Ist das Recht in die öffentlichen Bücher einverleibt, so kann die Sache auch einem Dritten abgefordert werden und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt\.
+
+\[ [🔗 Permalink](#-1070-abgb) \]
 
 ### § 1071 ABGB — Kauf mit Vorbehalt des Rückverkaufes
 
 > Den nähmlichen Beschränkungen unterliegt das von dem Käufer ausbedungene Recht, die Sache dem Verkäufer wieder zurück zu verkaufen; und es sind auf dasselbe die für den Wiederkauf ertheilten Vorschriften anzuwenden\. Ist aber die Bedingung des Wiederverkaufs oder Wiederkaufs verstellt, und eigentlich um ein Pfandrecht oder ein Borggeschäft zu verbergen, gebraucht worden, so tritt die Vorschrift des §\. 916 ein\.
 
+\[ [🔗 Permalink](#-1071-abgb--kauf-mit-vorbehalt-des-rückverkaufes) \]
+
 ### § 1072 ABGB — Vorbehalt des Vorkaufsrechtes
 
 > Wer eine Sache mit der Bedingung verkauft, daß der Käufer, wenn er solche wieder verkaufen will, ihm die Einlösung anbiethen soll, der hat das Vorkaufsrecht\.
+
+\[ [🔗 Permalink](#-1072-abgb--vorbehalt-des-vorkaufsrechtes) \]
 
 ### § 1073 ABGB
 
 > Das Vorkaufsrecht ist in der Regel ein persönliches Recht\. In Rücksicht auf unbewegliche Güter kann es durch Eintragung in die öffentlichen Bücher in ein dingliches verwandelt werden\.
 
+\[ [🔗 Permalink](#-1073-abgb) \]
+
 ### § 1074 ABGB
 
 > Auch kann das Vorkaufsrecht weder einem Dritten abgetreten, noch auf die Erben des Berechtigten übertragen werden\.
+
+\[ [🔗 Permalink](#-1074-abgb) \]
 
 ### § 1075 ABGB
 
 > Der Berechtigte muß bewegliche Sachen binnen vier und zwanzig Stunden; unbewegliche aber binnen dreyßig Tagen, nach der geschehenen Anbiethung, wirklich einlösen\. Nach Verlauf dieser Zeit ist das Vorkaufsrecht erloschen\.
 
+\[ [🔗 Permalink](#-1075-abgb) \]
+
 ### § 1076 ABGB
 
 > Das Vorkaufsrecht hat im Falle einer gerichtlichen Feilbiethung der mit diesem Rechte belasteten Sachen keine andere Wirkung, als daß der den öffentlichen Büchern einverleibte Berechtigte zur Feilbiethung insbesondere vorgeladen werden muß\.
+
+\[ [🔗 Permalink](#-1076-abgb) \]
 
 ### § 1077 ABGB
 
 > Der zur Einlösung Berechtigte, muß außer dem Falle einer andern Verabredung, den vollständigen Preis, welcher von einem Dritten angebothen worden ist, entrichten\. Kann er die außer dem gewöhnlichen Kaufpreise angebothenen Nebenbedingungen nicht erfüllen, und lassen sie sich auch durch einen Schätzungswerth nicht ausgleichen; so kann das Vorkaufsrecht nicht ausgeübt werden\.
 
+\[ [🔗 Permalink](#-1077-abgb) \]
+
 ### § 1078 ABGB
 
 > Das Vorkaufsrecht läßt sich auf andere Veräußerungsarten ohne eine besondere Verabredung nicht ausdehnen\.
+
+\[ [🔗 Permalink](#-1078-abgb) \]
 
 ### § 1079 ABGB
 
 > Hat der Besitzer dem Berechtigten die Einlösung nicht angebothen, so muß er ihm für allen Schaden haften\. Im Falle eines dinglichen Vorkaufsrechtes kann die veräußerte Sache dem Dritten abgefordert werden, und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt\.
 
+\[ [🔗 Permalink](#-1079-abgb) \]
+
 ### § 1080 ABGB — Kauf auf die Probe
 
 > Der Kauf auf Probe ist unter der im Belieben des Käufers stehenden Bedingung geschlossen, daß er die Ware genehmige\. Die Bedingung ist im Zweifel eine aufschiebende; der Käufer ist vor der Genehmigung an den Kauf nicht gebunden, der Verkäufer hört auf, gebunden zu sein, wenn der Käufer bis zum Ablaufe der Probezeit nicht genehmigt\.
+
+\[ [🔗 Permalink](#-1080-abgb--kauf-auf-die-probe) \]
 
 ### § 1081 ABGB
 
 > Ist die Sache zum Zwecke der Besichtigung oder Probe bereits übergeben, so gilt Stillschweigen des Käufers bis nach Ablauf der Probezeit als Genehmigung\.
 
+\[ [🔗 Permalink](#-1081-abgb) \]
+
 ### § 1082 ABGB
 
 > Ist bei einem Kauf auf Probe keine Probezeit vereinbart worden, so kann der Verkäufer dem Käufer eine angemessene Frist als Probezeit setzen\.
+
+\[ [🔗 Permalink](#-1082-abgb) \]
 
 ### § 1083 ABGB — Verkauf mit Vorbehalt eines besseren Käufers
 
 > Wird das Kaufgeschäft mit dem Vorbehalte verabredet, daß der Verkäufer, wenn sich binnen einer bestimmten Zeit ein besserer Käufer meldet, denselben vorzuziehen befugt sey; so bleibt in dem Falle, daß das Kaufstück nicht übergeben worden, die Wirklichkeit des Vertrages bis zum Eintritte der Bedingung aufgeschoben\.
 
+\[ [🔗 Permalink](#-1083-abgb--verkauf-mit-vorbehalt-eines-besseren-käufers) \]
+
 ### § 1084 ABGB
 
 > Ist das Kaufstück übergeben worden, so ist der Kaufvertrag abgeschlossen; er wird aber durch den Eintritt der Bedingung wieder aufgelöset\. Bey dem Mangel einer ausdrücklichen Zeitbestimmung wird der bey dem Kaufe auf die Probe angenommene Zeitraum vermuthet\.
+
+\[ [🔗 Permalink](#-1084-abgb) \]
 
 ### § 1085 ABGB
 
 > Ob der neue Käufer besser sey, beurtheilet der Verkäufer\. Er kann den zweyten Käufer, wenn der erste auch noch mehr zahlen wollte, vorziehen\. Bey der Auflösung des Vertrages heben sich die Nutzungen der Sache und des Geldes gegen einander auf\. In Rücksicht der Verbesserungen oder Verschlimmerungen wird der Käufer gleich einem redlichen Besitzer behandelt\.
 
+\[ [🔗 Permalink](#-1085-abgb) \]
+
 ### § 1086 ABGB — Verkaufsauftrag
 
 > Wenn jemand seine bewegliche Sache einem Andern für einen gewissen Preis zum Verkaufe übergibt, mit der Bedingung, daß ihm der Uebernehmer binnen einer festgesetzten Zeit entweder das bestimmte Kaufgeld liefern oder die Sache zurückstellen soll; so ist der Uebergeber vor Verlauf der Zeit die Sache zurück zu fordern nicht berechtiget; der Uebernehmer aber muß nach deren Ablauf das bestimmte Kaufgeld entrichten\.
+
+\[ [🔗 Permalink](#-1086-abgb--verkaufsauftrag) \]
 
 ### § 1087 ABGB
 
 > Während der festgesetzten Zeit bleibt der Uebergeber Eigenthümer, der Uebernehmer haftet ihm für den durch sein Verschulden verursachten Schaden, und es werden ihm bey Zurückstellung der Sache nur solche Kosten vergütet, die dem Uebergeber zum Nutzen gereichen\.
 
+\[ [🔗 Permalink](#-1087-abgb) \]
+
 ### § 1088 ABGB
 
 > Ist die Sache unbeweglich; oder ist der Preis, oder die Zahlungsfrist nicht bestimmt; so wird der Uebernehmer wie ein Gewalthaber angesehen\. In keinem Falle kann die zum Verkaufe anvertraute Sache dem Dritten, welcher sie von dem Uebernehmer redlicher Weise an sich gebracht hat, abgefordert werden \(§\. 367\)\.
 
+\[ [🔗 Permalink](#-1088-abgb) \]
+
 ### § 1089 ABGB
 
 > Auch bey gerichtlichen Verkäufen finden die über Verträge, und den Tausch\- und Kaufvertrag insbesondere aufgestellten Vorschriften in der Regel Statt; in so fern nicht in diesem Gesetze, oder in der Gerichtsordnung eigene Anordnungen enthalten sind\.
+
+\[ [🔗 Permalink](#-1089-abgb) \]
 
 ## Fünf u. zwanzigstes Hauptstück.
 
@@ -6937,25 +8851,37 @@
 
 > Der Vertrag, wodurch jemand den Gebrauch einer unverbrauchbaren Sache auf eine gewisse Zeit und gegen einen bestimmten Preis erhält, heißt überhaupt Bestandvertrag\.
 
+\[ [🔗 Permalink](#-1090-abgb--bestandvertrag) \]
+
 ### § 1091 ABGB — I) Mieth- und Pachtvertrag
 
 > Der Bestandvertrag wird, wenn sich die in Bestand gegebene Sache ohne weitere Bearbeitung gebrauchen läßt, ein Miethvertrag; wenn sie aber nur durch Fleiß und Mühe benützt werden kann, ein Pachtvertrag genannt\. Werden durch einen Vertrag Sachen von der ersten und zweyten Art zugleich in Bestand gegeben; so ist der Vertrag nach der Beschaffenheit der Hauptsache zu beurtheilen\.
+
+\[ [🔗 Permalink](#-1091-abgb--i-mieth--und-pachtvertrag) \]
 
 ### § 1092 ABGB — Erfordernisse
 
 > Mieth\- und Pachtverträge können über die nähmlichen Gegenstände und auf die nähmliche Art, als der Kaufvertrag geschlossen werden\. Der Mieth\- und Pachtzins wird, wenn keine andere Uebereinkunft getroffen worden ist, wie das Kaufgeld entrichtet\.
 
+\[ [🔗 Permalink](#-1092-abgb--erfordernisse) \]
+
 ### § 1093 ABGB
 
 > Der Eigenthümer kann sowohl seine beweglichen und unbeweglichen Sachen, als seine Rechte in Bestand geben; er kann aber auch in den Fall kommen, den Gebrauch seiner eigenen Sache, wenn er einem Dritten gebührt, in Bestand zu nehmen\.
+
+\[ [🔗 Permalink](#-1093-abgb) \]
 
 ### § 1094 ABGB — Wirkung
 
 > Sind die vertragschließenden Theile über das Wesentliche des Bestandes, nähmlich über die Sache und den Preis, übereingekommen; so ist der Vertrag vollkommen abgeschlossen, und der Gebrauch der Sache für gekauft anzusehen\.
 
+\[ [🔗 Permalink](#-1094-abgb--wirkung) \]
+
 ### § 1095 ABGB
 
 > Wenn ein Bestandvertrag in die öffentlichen Bücher eingetragen ist; so ist das Recht des Bestandnehmers als ein dingliches Recht zu betrachten, welches sich auch der nachfolgende Besitzer auf die noch übrige Zeit gefallen lassen muß\.
+
+\[ [🔗 Permalink](#-1095-abgb) \]
 
 ## Wechselseitige Rechte:
 
@@ -6965,21 +8891,31 @@
 
 > `(2)` Der Pächter hat die gewöhnlichen Ausbesserungen der Wirtschaftsgebäude nur insoweit selbst zu tragen, als sie mit den Materialien des Gutes und den Diensten, die er nach der Beschaffenheit des Gutes zu fordern berechtigt ist, bestritten werden können\.
 
+\[ [🔗 Permalink](#-1096-abgb--1-in-hinsicht-auf-ueberlassung-erhaltung-benützung) \]
+
 ### § 1097 ABGB
 
 > Werden Ausbesserungen nötig, welche dem Bestandgeber obliegen, so ist der Bestandnehmer bei sonstigem Schadenersatz verpflichtet, dem Bestandgeber ohne Verzug Anzeige zu machen\. Der Bestandnehmer wird als ein Geschäftsführer ohne Auftrag betrachtet, wenn er auf das Bestandstück einen dem Bestandgeber obliegenden Aufwand \(§ 1036\) oder einen nützlichen Aufwand \(§ 1037\) gemacht hat; er muß aber den Ersatz längstens binnen sechs Monaten nach Zurückstellung des Bestandstückes gerichtlich fordern, sonst ist die Klage erloschen\.
+
+\[ [🔗 Permalink](#-1097-abgb) \]
 
 ### § 1098 ABGB
 
 > Mieter und Pächter sind berechtiget, die Miet\- und Pachtstücke dem Vertrage gemäß durch die bestimmte Zeit zu gebrauchen und zu benützen, oder auch in Afterbestand zu geben, wenn es ohne Nachteil des Eigentümers geschehen kann und im Vertrage nicht ausdrücklich untersagt worden ist\.
 
+\[ [🔗 Permalink](#-1098-abgb) \]
+
 ### § 1099 ABGB — 2) Lasten;
 
 > Bey Vermiethungen trägt alle Lasten und Abgaben der Vermiether\. Bey eigentlichen Pachtungen, wenn sie in Pausch und Bogen geschehen, übernimmt der Pächter mit Ausschluß der eingetragenen Hypothecar\-Lasten, alle übrige; wird aber die Pachtung nach einem Anschlage geschlossen, so trägt er jene Lasten, welche von dem Ertrage abgezogen worden sind, oder bloß von den Früchten, und nicht von dem Grunde selbst entrichtet werden müssen\.
 
+\[ [🔗 Permalink](#-1099-abgb--2-lasten) \]
+
 ### § 1100 ABGB — 3) Zins
 
 > Ist nichts anderes vereinbart oder ortsüblich, so ist der Zins, wenn eine Sache auf ein oder mehrere Jahre in Bestand genommen wird, halbjährlich, bei einer kürzeren Bestandzeit hingegen nach Verlauf derselben zu entrichten\. Bei der Raummiete ist der Zins monatlich, und zwar jeweils am Fünften des Monats, zu entrichten\.
+
+\[ [🔗 Permalink](#-1100-abgb--3-zins) \]
 
 ### § 1101 ABGB
 
@@ -6989,45 +8925,67 @@
 
 > `(3)` Dem Verpächter eines Grundstückes steht in gleichem Umfange und mit gleicher Wirkung das Pfandrecht an dem auf dem Pachtgute vorhandenen Vieh und den Wirtschaftsgerätschaften und den darauf noch befindlichen Früchten zu\.
 
+\[ [🔗 Permalink](#-1101-abgb) \]
+
 ### § 1102 ABGB
 
 > Der Bestandgeber kann sich zwar die Vorausbezahlung des Bestandzinses bedingen\. Hat aber der Bestandnehmer mehr als eine Fristzahlung voraus geleistet, so kann er dieselbe einem später eingetragenen Gläubiger oder neuen Eigentümer nur dann entgegensetzen, wenn sie in dem öffentlichen Buch ersichtlich gemacht ist\.
+
+\[ [🔗 Permalink](#-1102-abgb) \]
 
 ### § 1103 ABGB — Zins in Früchten
 
 > Wenn der Eigenthümer sein Gut mit der Bedingung überläßt, daß der Uebernehmer die Wirthschaft betreiben, und dem Uebergeber einen auf die ganze Nutzung sich beziehenden Theil, z\. B\. ein Drittheil oder die Hälfte der Früchte geben solle; so entsteht kein Pacht\-, sondern ein Gesellschaftsvertrag, welcher nach den darüber aufgestellten Regeln beurtheilet wird\.
 
+\[ [🔗 Permalink](#-1103-abgb--zins-in-früchten) \]
+
 ### § 1104 ABGB — Fälle und Bedingungen einer Erlassung des Zinses
 
 > Wenn die in Bestand genommene Sache wegen außerordentlicher Zufälle, als Feuer, Krieg oder Seuche, großer Überschwemmungen, Wetterschläge, oder wegen gänzlichen Mißwachses gar nicht gebraucht oder benutzt werden kann, so ist der Bestandgeber zur Wiederherstellung nicht verpflichtet, doch ist auch kein Miet\- oder Pachtzins zu entrichten\.
+
+\[ [🔗 Permalink](#-1104-abgb--fälle-und-bedingungen-einer-erlassung-des-zinses) \]
 
 ### § 1105 ABGB
 
 > Behält der Mieter trotz eines solchen Zufalls einen beschränkten Gebrauch des Mietstückes, so wird ihm auch ein verhältnismäßiger Teil des Mietzinses erlassen\. Dem Pächter gebührt ein Erlaß an dem Pachtzinse, wenn durch außerordentliche Zufälle die Nutzungen des nur auf ein Jahr gepachteten Gutes um mehr als die Hälfte des gewöhnlichen Ertrages gefallen sind\. Der Verpächter ist so viel zu erlassen schuldig, als durch diesen Abfall an dem Pachtzinse mangelt\.
 
+\[ [🔗 Permalink](#-1105-abgb) \]
+
 ### § 1106 ABGB
 
 > Hat der Bestandnehmer unbestimmt alle Gefahren auf sich genommen; so werden darunter nur die Feuer\-, und Wasserschäden und Wetterschläge verstanden\. Andere außerordentliche Unglücksfälle kommen nicht auf seine Gefahr\. Verbindet er sich aber ausdrücklich, auch alle andere außerordentliche Unglücksfälle zu tragen; so wird deßwegen noch nicht vermuthet, daß er auch für den zufälligen Untergang des ganzen Pachtstückes haften wolle\.
+
+\[ [🔗 Permalink](#-1106-abgb) \]
 
 ### § 1107 ABGB
 
 > Wird der Gebrauch oder Genuß des Bestandstückes nicht wegen dessen Beschädigung oder sonst entstandener Unbrauchbarkeit, sondern aus einem dem Bestandnehmer zugestoßenen Hindernisse oder Unglücksfalle vereitelt, oder waren zur Zeit der Beschädigung die Früchte von dem Grunde schon abgesondert, so fällt die widrige Ereignung dem Bestandnehmer allein zur Last\. Er muß den Zins doch entrichten\. Der Bestandgeber muß sich aber den ersparten Aufwand und die Vorteile, die er durch anderweitige Verwertung des Bestandstückes erlangt, anrechnen\.
 
+\[ [🔗 Permalink](#-1107-abgb) \]
+
 ### § 1108 ABGB
 
 > Behauptet der Pächter den Erlaß des ganzen Pachtzinses oder eines Theiles davon entweder aus dem Vertrage oder aus dem Gesetze; so muß er dem Verpächter ohne Zeitverlust den geschehenen Unglücksfall anzeigen, und die Begebenheit, wenn sie nicht landkündig ist, gerichtlich, oder wenigstens durch zwey sachkündige Männer erheben lassen; ohne diese Vorsicht wird er nicht angehört\.
+
+\[ [🔗 Permalink](#-1108-abgb) \]
 
 ### § 1109 ABGB — 4) Zurückstellung;
 
 > Nach geendigtem Bestandvertrage muß der Bestandnehmer die Sache dem etwa errichteten Inventarium gemäß oder doch in dem Zustand, in welchem er sie übernommen hat, gepachtete Grundstücke aber mit Rücksicht auf die Jahreszeit, in welcher der Pacht geendigt worden ist, in gewöhnlicher wirtschaftlicher Kultur zurückstellen\. Weder ein Zurückbehaltungsrecht oder die Einwendung der Kompensation noch selbst des früheren Eigentumsrechtes kann ihn vor der Zurückstellung schützen\.
 
+\[ [🔗 Permalink](#-1109-abgb--4-zurückstellung) \]
+
 ### § 1110 ABGB
 
 > Wenn bey dem Bestandvertrage kein Inventarium errichtet worden ist; so tritt die nähmliche Vermuthung, wie bey der Fruchtnießung \(§\. 518\) ein\.
 
+\[ [🔗 Permalink](#-1110-abgb) \]
+
 ### § 1111 ABGB
 
 > Wird das Mieth\- oder Pachtstück beschädiget, oder durch Mißbrauch abgenützt; so haften Miether und Pächter sowohl für ihr eigenes, als des Afterbestandnehmers Verschulden, nicht aber für den Zufall\. Doch muß der Bestandgeber den Ersatz aus dieser Haftung längstens binnen Einem Jahre nach Zurückstellung des Bestandstückes gerichtlich fordern; sonst ist das Recht erloschen\.
+
+\[ [🔗 Permalink](#-1111-abgb) \]
 
 ## 5) Auflösung des Bestandvertrages:
 
@@ -7035,45 +8993,67 @@
 
 > Der Bestandvertrag löset sich von selbst auf, wenn die bestandene Sache zu Grunde geht\. Geschieht dies aus Verschulden des einen Theiles, so gebührt dem andern Ersatz; geschieht es durch einen Unglücksfall, so ist kein Theil dem andern dafür verantwortlich\.
 
+\[ [🔗 Permalink](#-1112-abgb--a-durch-untergang-der-sache) \]
+
 ### § 1113 ABGB — b) Verlauf der Zeit;
 
 > Der Bestandvertrag erlischt auch durch den Verlauf der Zeit, welcher ausdrücklich oder stillschweigend, entweder durch den nach einem gewissen Zeitraume ausgemessenen Zins, wie bey so genannten Tag\- Wochen\- und Monathzimmern, oder durch die erklärte, oder aus den Umständen hervorleuchtende Absicht des Bestandnehmers bedungen worden ist\.
+
+\[ [🔗 Permalink](#-1113-abgb--b-verlauf-der-zeit) \]
 
 ### § 1114 ABGB — Wenn keine Erneuerung geschieht;
 
 > Der Bestandvertrag kann aber nicht nur ausdrücklich; sondern auch stillschweigend erneuert werden\. Ist in dem Vertrage eine vorläufige Aufkündigung bedungen worden; so wird der Vertrag durch die Unterlassung der gehörigen Aufkündigung stillschweigend erneuert\. Ist keine Aufkündigung bedungen worden; so geschieht eine stillschweigende Erneuerung, wenn der Bestandnehmer nach Verlauf der Bestandzeit fortfährt, die Sache zu gebrauchen oder zu benützen, und der Bestandgeber es dabey bewenden läßt\.
 
+\[ [🔗 Permalink](#-1114-abgb--wenn-keine-erneuerung-geschieht) \]
+
 ### § 1115 ABGB
 
 > Die stillschweigende Erneuerung des Bestandvertrages geschieht unter den nähmlichen Bedingungen, unter welchen er vorher geschlossen war\. Doch erstreckt sie sich bey Pachtungen nur auf Ein Jahr; wenn aber der ordentliche Genuß erst in einem späteren Zeitraume erfolgen kann, auf eine so lange Zeit, als nothwendig ist, um die Nutzungen einmahl beziehen zu können\. Miethungen, wofür man den Zins erst nach einem ganzen oder halben Jahre zu bezahlen pflegt, werden auf ein halbes Jahr; alle kürzere Miethungen aber auf diejenige Zeit stillschweigend erneuert, welche vorher durch den Bestandvertrag bestimmt war\. Von wiederhohlten Erneuerungen gilt das Nähmliche, was hier in Rücksicht der ersten Erneuerung vorgeschrieben ist\.
+
+\[ [🔗 Permalink](#-1115-abgb) \]
 
 ### § 1116 ABGB — c) Aufkündigung;
 
 > In so fern die Dauer eines Bestandvertrages weder ausdrücklich, noch stillschweigend, noch durch besondere Vorschriften bestimmt ist, muß derjenige, welcher den Vertrag aufheben will, dem Andern die Pachtung sechs Monathe; die Miethung einer unbeweglichen Sache vierzehn Tage; und einer beweglichen vier und zwanzig Stunden vorher aufkündigen, als die Abtretung erfolgen soll\.
 
+\[ [🔗 Permalink](#-1116-abgb--c-aufkündigung) \]
+
 ### § 1116a ABGB
 
 > Durch den Tod eines der vertragschließenden Teile wird der Bestandvertrag nicht aufgehoben\. Wohnungsmieten können jedoch, wenn der Mieter stirbt, ohne Rücksicht auf die vereinbarte Dauer sowohl von den Erben des Mieters wie von dem Vermieter unter Einhaltung der gesetzlichen Kündigungsfrist gelöst werden\.
+
+\[ [🔗 Permalink](#-1116a-abgb) \]
 
 ### § 1117 ABGB
 
 > Der Bestandnehmer ist berechtigt, auch vor Verlauf der bedungenen Zeit von dem Vertrag ohne Kündigung abzustehen, wenn das Bestandstück in einem Zustand übergeben oder ohne seine Schuld in einen Zustand geraten ist, der es zu dem bedungenen Gebrauch untauglich macht, oder wenn ein beträchtlicher Teil durch Zufall auf eine längere Zeit entzogen oder unbrauchbar wird\. Aus dem Grunde der Gesundheitsschädlichkeit gemieteter Wohnräume steht dieses Recht dem Mieter auch dann zu, wenn er im Vertrage darauf verzichtet oder die Beschaffenheit der Räume beim Vertragsabschluß gekannt hat\.
 
+\[ [🔗 Permalink](#-1117-abgb) \]
+
 ### § 1118 ABGB
 
 > Der Bestandgeber kann seinerseits die frühere Aufhebung des Vertrages fordern, wenn der Bestandnehmer der Sache einen erheblichen nachtheiligen Gebrauch davon macht; wenn er nach geschehener Einmahnung mit der Bezahlung des Zinses dergestalt säumig ist, daß er mit Ablauf des Termins den rückständigen Bestandzins nicht vollständig entrichtet hat; oder, wenn ein vermiethetes Gebäude neu aufgeführt werden muß\. Eine nützlichere Bauführung ist der Miether zu seinem Nachtheile zuzulassen nicht schuldig, wohl aber nothwendige Ausbesserungen\.
+
+\[ [🔗 Permalink](#-1118-abgb) \]
 
 ### § 1119 ABGB
 
 > Wenn dem Vermiether die Nothwendigkeit der neuen Bauführung schon zur Zeit des geschlossenen Vertrages bekannt seyn mußte; oder, wenn die Nothwendigkeit der durch längere Zeit fortzusetzenden Ausbesserungen aus Vernachlässigung der kleinern Ausbesserungen entstanden ist; so muß dem Miether für den vermißten Gebrauch eine angemessene Entschädigung geleistet werden\.
 
+\[ [🔗 Permalink](#-1119-abgb) \]
+
 ### § 1120 ABGB — d) Veräußerung der Sache;
 
 > Hat der Eigenthümer das Bestandstück an einen Andern veräußert, und ihm bereits übergeben; so muß der Bestandinhaber, wenn sein Recht nicht in die öffentlichen Bücher eingetragen ist \(§\. 1095\), nach der gehörigen Aufkündigung dem neuen Besitzer weichen\. Er ist aber berechtiget, von dem Bestandgeber in Rücksicht auf den erlittenen Schaden, und entgangenen Nutzen eine vollkommene Genugthuung zu fordern\.
 
+\[ [🔗 Permalink](#-1120-abgb--d-veräußerung-der-sache) \]
+
 ### § 1121 ABGB
 
 > Bei einer zwangsweisen gerichtlichen Veräußerung ist das Bestandrecht, wenn es in die öffentlichen Bücher eingetragen ist, gleich einer Dienstbarkeit zu behandeln\. Hat der Ersteher das Bestandrecht nicht zu übernehmen, so muß ihm der Bestandnehmer nach gehöriger Aufkündigung weichen\.
+
+\[ [🔗 Permalink](#-1121-abgb) \]
 
 ## Sechs u. zwanzigstes Hauptstück.
 
@@ -7085,13 +9065,19 @@
 
 > `(2)` Insoweit damit eine Geschäftsbesorgung \(§ 1002\) verbunden ist, müssen auch die Vorschriften über den Bevollmächtigungsvertrag beobachtet werden\.
 
+\[ [🔗 Permalink](#-1151-abgb--dienst--und-werkvertrag) \]
+
 ### § 1152 ABGB
 
 > Ist im Vertrage kein Entgelt bestimmt und auch nicht Unentgeltlichkeit vereinbart, so gilt ein angemessenes Entgelt als bedungen\.
 
+\[ [🔗 Permalink](#-1152-abgb) \]
+
 ### § 1153 ABGB — 1. Dienstvertrag
 
 > Wenn sich aus dem Dienstvertrage oder aus den Umständen nichts anderes ergibt, hat der Dienstnehmer die Dienste in eigener Person zu leisten und ist der Anspruch auf die Dienste nicht übertragbar\. Soweit über Art und Umfang der Dienste nichts vereinbart ist, sind die den Umständen nach angemessenen Dienste zu leisten\.
+
+\[ [🔗 Permalink](#-1153-abgb--1-dienstvertrag) \]
 
 ### § 1154 ABGB — Anspruch auf das Entgelt
 
@@ -7101,9 +9087,13 @@
 
 > `(3)` In jedem Falle wird das bereits verdiente Entgelt mit der Beendigung des Dienstverhältnisses fällig\.
 
+\[ [🔗 Permalink](#-1154-abgb--anspruch-auf-das-entgelt) \]
+
 ### § 1154a ABGB
 
 > Der nach Stück oder Einzelleistungen entlohnte Dienstnehmer kann einen den geleisteten Diensten und seinen Auslagen entsprechenden Vorschuß vor Fälligkeit des Entgelts verlangen\.
+
+\[ [🔗 Permalink](#-1154a-abgb) \]
 
 ### § 1154b ABGB
 
@@ -7121,6 +9111,8 @@
 
 > `(7)` Der Ablauf von laufenden gesetzlichen, kollektivvertraglichen und vertraglichen Verjährungs\- und Verfallsfristen betreffend Ansprüche aus dem Dienstverhältnis, die der Dienstnehmer zu Beginn einer Dienstverhinderung nach Abs\. 5 wegen Krankheit oder Unfall eines nahen Angehörigen bereits erworben hat, bleibt bis zum Ablauf von zwei Wochen nach Ende dieser Dienstverhinderung gehemmt\.
 
+\[ [🔗 Permalink](#-1154b-abgb) \]
+
 ### § 1155 ABGB
 
 > `(1)` Auch für Dienstleistungen, die nicht zustande gekommen sind, gebührt dem Dienstnehmer das Entgelt, wenn er zur Leistung bereit war und durch Umstände, die auf Seite des Dienstgebers liegen, daran verhindert worden ist; er muß sich jedoch anrechnen, was er infolge Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat\.
@@ -7128,15 +9120,21 @@
 > `(2)` Wurde er infolge solcher Umstände durch Zeitverlust bei der Dienstleistung verkürzt, so gebührt ihm angemessene Entschädigung\.
 > *\(Anm\.: Abs\. 3 und 4 mit Ablauf des 31\.12\.2020 außer Kraft getreten\)*
 
+\[ [🔗 Permalink](#-1155-abgb) \]
+
 ### § 1156 ABGB — Erlöschen der Ansprüche
 
 > Die dem Dienstgeber nach § 1154b obliegenden Verpflichtungen erlöschen, wenn das Dienstverhältnis infolge Ablaufes der Zeit, für die es eingegangen wurde, oder infolge einer früheren Kündigung oder einer Entlassung endet, die nicht durch die Erkrankung oder sonstige die Person des Dienstnehmers betreffende wichtige Gründe im Sinne des § 1154b verursacht ist\. Wird der Dienstnehmer wegen der Verhinderung entlassen oder wird ihm während der Verhinderung gekündigt, so bleibt die dadurch herbeigeführte Beendigung des Dienstverhältnisses in Ansehung der bezeichneten Ansprüche außer Betracht\.
+
+\[ [🔗 Permalink](#-1156-abgb--erlöschen-der-ansprüche) \]
 
 ### § 1157 ABGB — Fürsorgepflicht des Dienstgebers
 
 > `(1)` Der Dienstgeber hat die Dienstleistungen so zu regeln und bezüglich der von ihm beizustellenden oder beigestellten Räume und Gerätschaften auf seine Kosten dafür zu sorgen, daß Leben und Gesundheit des Dienstnehmers, soweit es nach der Natur der Dienstleistung möglich ist, geschützt werden\.
 
 > `(2)` Ist der Dienstnehmer in die Hausgemeinschaft des Dienstgebers aufgenommen, so hat dieser in Ansehung des Wohn\- und Schlafraumes, der Verpflegung sowie der Arbeits\- und Erholungszeit die mit Rücksicht auf Gesundheit, Sittlichkeit und Religion des Dienstnehmers erforderlichen Anordnungen zu treffen\.
+
+\[ [🔗 Permalink](#-1157-abgb--fürsorgepflicht-des-dienstgebers) \]
 
 ### § 1158 ABGB — Endigung des Dienstverhältnisses
 
@@ -7146,6 +9144,8 @@
 
 > `(3)` Ein für die Lebenszeit einer Person oder für länger als fünf Jahre vereinbartes Dienstverhältnis kann von dem Dienstnehmer nach Ablauf von fünf Jahren unter Einhaltung einer Kündigungsfrist von sechs Monaten gelöst werden\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch Art\. 6 Z 2, BGBl\. I Nr\. 153/2017\)*
+
+\[ [🔗 Permalink](#-1158-abgb--endigung-des-dienstverhältnisses) \]
 
 ### § 1159 ABGB — Kündigung
 
@@ -7159,6 +9159,8 @@
 
 > `(5)` Ist das Dienstverhältnis nur für die Zeit eines vorübergehenden Bedarfes vereinbart, so kann es während des ersten Monats von beiden Teilen jederzeit unter Einhaltung einer einwöchigen Kündigungsfrist gelöst werden\.
 
+\[ [🔗 Permalink](#-1159-abgb--kündigung) \]
+
 ### § 1160 ABGB — Freizeit während der Kündigungsfrist
 
 > `(1)` Bei Kündigung durch den Dienstgeber ist dem Dienstnehmer während der Kündigungsfrist auf sein Verlangen wöchentlich mindestens ein Fünftel der regelmäßigen wöchentlichen Arbeitszeit ohne Schmälerung des Entgelts freizugeben\.
@@ -7167,35 +9169,51 @@
 
 > `(3)` Durch Kollektivvertrag können abweichende Regelungen getroffen werden\.
 
+\[ [🔗 Permalink](#-1160-abgb--freizeit-während-der-kündigungsfrist) \]
+
 ### § 1161 ABGB — Insolvenzverfahren
 
 > Welche Wirkungen die Eröffnung des Insolvenzverfahrens über das Vermögen des Dienstgebers auf das Dienstverhältnis hat, bestimmt die Insolvenzordnung\.
+
+\[ [🔗 Permalink](#-1161-abgb--insolvenzverfahren) \]
 
 ### § 1162 ABGB — Vorzeitige Auflösung
 
 > Das Dienstverhältnis kann, wenn es für bestimmte Zeit eingegangen wurde, vor Ablauf dieser Zeit, sonst aber ohne Einhaltung einer Kündigungsfrist von jedem Teile aus wichtigen Gründen gelöst werden\.
 
+\[ [🔗 Permalink](#-1162-abgb--vorzeitige-auflösung) \]
+
 ### § 1162a ABGB
 
 > Wenn der Dienstnehmer ohne wichtigen Grund vorzeitig austritt, kann der Dienstgeber entweder dessen Wiedereintritt zur Dienstleistung nebst Schadenersatz oder Schadenersatz wegen Nichterfüllung des Vertrages verlangen\. Wird der Dienstnehmer wegen eines Verschuldens vorzeitig entlassen, so hat er Schadenersatz wegen Nichterfüllung des Vertrages zu leisten\. Für die schon bewirkten Leistungen, deren Entgelt noch nicht fällig ist, steht dem Dienstnehmer ein Anspruch auf den entsprechenden Teil des Entgelts nur insoweit zu, als sie nicht durch die vorzeitige Auflösung des Dienstverhältnisses für den Dienstgeber ihren Wert ganz oder zum größten Teil eingebüßt haben\.
+
+\[ [🔗 Permalink](#-1162a-abgb) \]
 
 ### § 1162b ABGB
 
 > Wenn der Dienstgeber den Dienstnehmer ohne wichtigen Grund vorzeitig entläßt oder wenn ihn ein Verschulden an dem vorzeitigen Austritte des Dienstnehmers trifft, behält dieser, unbeschadet weitergehenden Schadenersatzes, seine vertragsgemäßen Ansprüche auf das Entgelt für den Zeitraum, der bis zur Beendigung des Dienstverhältnisses durch Ablauf der Vertragszeit oder durch ordnungsmäßige Kündigung hätte verstreichen müssen, unter Anrechnung dessen, was er infolge des Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat\. Soweit jedoch der oben genannte Zeitraum drei Monate nicht übersteigt, kann der Dienstnehmer das ganze für diese Zeit gebührende Entgelt ohne Abzug sofort fordern\.
 
+\[ [🔗 Permalink](#-1162b-abgb) \]
+
 ### § 1162c ABGB
 
 > Trifft beide Teile ein Verschulden an der vorzeitigen Lösung des Dienstverhältnisses, so hat der Richter nach freiem Ermessen zu entscheiden, ob und in welcher Höhe ein Ersatz gebührt\.
 
+\[ [🔗 Permalink](#-1162c-abgb) \]
+
 ### § 1162d ABGB
 
 > Ansprüche wegen vorzeitigen Austrittes oder vorzeitiger Entlassung im Sinne der §§ 1162a und 1162b müssen bei sonstigem Ausschlusse binnen sechs Monaten nach Ablauf des Tages, an dem sie erhoben werden konnten, gerichtlich geltend gemacht werden\.
+
+\[ [🔗 Permalink](#-1162d-abgb) \]
 
 ### § 1163 ABGB — Zeugnis
 
 > `(1)` Bei Beendigung des Dienstverhältnisses ist dem Dienstnehmer auf sein Verlangen ein schriftliches Zeugnis über die Dauer und Art der Dienstleistung auszustellen\. Verlangt der Dienstnehmer während der Dauer des Dienstverhältnisses ein Zeugnis, so ist ihm ein solches auf seine Kosten auszustellen\. Eintragungen und Anmerkungen im Zeugnisse, durch die dem Dienstnehmer die Erlangung einer neuen Stellung erschwert wird, sind unzulässig\.
 
 > `(2)` Zeugnisse des Dienstnehmers, die sich in Verwahrung des Dienstgebers befinden, sind dem Dienstnehmer auf Verlangen jederzeit auszufolgen\.
+
+\[ [🔗 Permalink](#-1163-abgb--zeugnis) \]
 
 ### § 1164 ABGB — Zwingende Vorschriften
 
@@ -7206,6 +9224,8 @@
 > `(3)` Die verlängerte Anspruchsdauer nach § 1154b Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 44/2000 bewirkt keine Verlängerung einer in Normen der kollektiven Rechtsgestaltung oder Dienstverträgen vorgesehenen längeren Anspruchsdauer\. Sehen Normen der kollektiven Rechtsgestaltung oder Dienstverträge einen zusätzlichen Anspruch im Anschluss an den Anspruch nach § 1154b Abs\. 1 vor, wird die Gesamtdauer der Ansprüche nicht verlängert\.
 
 > `(4)` Im Zeitpunkt des Inkrafttretens des Bundesgesetzes BGBl\. I Nr\. 44/2000 für die Dienstnehmer günstigere Regelungen in Dienstverträgen oder in Normen der kollektiven Rechtsgestaltung werden durch die Neuregelung des Bundesgesetzes BGBl\. I Nr\. 44/2000 nicht berührt\.
+
+\[ [🔗 Permalink](#-1164-abgb--zwingende-vorschriften) \]
 
 ### § 1164a ABGB — Dienstzettel für das freie Dienstverhältnis
 
@@ -7253,17 +9273,25 @@
 
 > `(6)` Die Bestimmungen der Abs\. 1 bis 5 können durch den freien Dienstvertrag weder aufgehoben noch beschränkt werden\.
 
+\[ [🔗 Permalink](#-1164a-abgb--dienstzettel-für-das-freie-dienstverhältnis) \]
+
 ### § 1165 ABGB — 2. Werkvertrag
 
 > Der Unternehmer ist verpflichtet, das Werk persönlich oder unter seiner persönlichen Verantwortung ausführen zu lassen\.
+
+\[ [🔗 Permalink](#-1165-abgb--2-werkvertrag) \]
 
 ### § 1166 ABGB
 
 > Hat derjenige, der die Verfertigung einer Sache übernommen hat, den Stoff dazu zu liefern, so ist der Vertrag im Zweifel als Kaufvertrag; liefert aber der Besteller den Stoff, im Zweifel als Werkvertrag zu betrachten\.
 
+\[ [🔗 Permalink](#-1166-abgb) \]
+
 ### § 1167 ABGB — Gewährleistung
 
 > Bei Mängeln des Werkes kommen die für entgeltliche Verträge überhaupt geltenden Bestimmungen \(§§ 922 bis 933b\) zur Anwendung\.
+
+\[ [🔗 Permalink](#-1167-abgb--gewährleistung) \]
 
 ### § 1168 ABGB — Vereitlung der Ausführung
 
@@ -7271,23 +9299,33 @@
 
 > `(2)` Unterbleibt eine zur Ausführung des Werkes erforderliche Mitwirkung des Bestellers, so ist der Unternehmer auch berechtigt, ihm zu Nachholung eine angemessenen Frist zu setzen mit der Erklärung, daß nach fruchtlosem Verstreichen der Frist der Vertrag als aufgehoben gelte\.
 
+\[ [🔗 Permalink](#-1168-abgb--vereitlung-der-ausführung) \]
+
 ### § 1168a ABGB
 
 > Geht das Werk vor seiner Übernahme durch einen bloßen Zufall zugrunde, so kann der Unternehmer kein Entgelt verlangen\. Der Verlust des Stoffes trifft denjenigen Teil, der ihn beigestellt hat\. Mißlingt aber das Werk infolge offenbarer Untauglichkeit des vom Besteller gegebenen Stoffes oder offenbar unrichtiger Anweisungen des Bestellers, so ist der Unternehmer für den Schaden verantwortlich, wenn er den Besteller nicht gewarnt hat\.
+
+\[ [🔗 Permalink](#-1168a-abgb) \]
 
 ### § 1169 ABGB — Fürsorgepflicht
 
 > Die Bestimmungen des § 1157, mit Ausnahme der die Regelung der Dienstleistungen und die Arbeits\- und Erholungszeit betreffenden, finden auf den Werkvertrag sinngemäße Anwendung\.
 
+\[ [🔗 Permalink](#-1169-abgb--fürsorgepflicht) \]
+
 ### § 1170 ABGB — Entrichtung des Entgelts
 
 > In der Regel ist das Entgelt nach vollendetem Werk zu entrichten\. Wird aber das Werk in gewissen Abteilungen verrichtet oder sind Auslagen damit verbunden, die der Unternehmer nicht auf sich genommen hat, so ist dieser befugt, einen verhältnismäßigen Teil des Entgelts und den Ersatz der gemachten Auslagen schon vorher zu fordern\.
+
+\[ [🔗 Permalink](#-1170-abgb--entrichtung-des-entgelts) \]
 
 ### § 1170a ABGB
 
 > `(1)` Ist dem Vertrage ein Kostenvoranschlag unter ausdrücklicher Gewährleistung für seine Richtigkeit zugrunde gelegt, so kann der Unternehmer auch bei unvorhergesehener Größe oder Kostspieligkeit der veranschlagten Arbeiten keine Erhöhung des Entgelts fordern\.
 
 > `(2)` Ist ein Voranschlag ohne Gewährleistung zugrunde gelegt und erweist sich eine beträchtliche Überschreitung als unvermeidlich, so kann der Besteller unter angemessener Vergütung der vom Unternehmer geleisteten Arbeit vom Vertrage zurücktreten\. Sobald sich eine solche Überschreitung als unvermeidlich herausstellt, hat der Unternehmer dies dem Besteller unverzüglich anzuzeigen, widrigenfalls er jeden Anspruch wegen der Mehrarbeiten verliert\.
+
+\[ [🔗 Permalink](#-1170a-abgb) \]
 
 ### § 1170b ABGB — Sicherstellung bei Bauverträgen
 
@@ -7297,23 +9335,33 @@
 
 > `(3)` Abs\. 1 und 2 gelten nicht, wenn der Werkbesteller eine juristische Person des öffentlichen Rechts oder ein Verbraucher im Sinne des § 1 Abs\. 1 Z 2 und Abs\. 3 KSchG ist\.
 
+\[ [🔗 Permalink](#-1170b-abgb--sicherstellung-bei-bauverträgen) \]
+
 ### § 1171 ABGB — Erlöschen durch Tod
 
 > Ein Werkvertrag über Arbeiten, bei denen es auf die besonderen persönlichen Eigenschaften des Unternehmers ankommt, erlischt durch dessen Tod und seine Erben können nur den Preis für den zubereiteten brauchbaren Stoff und einen dem Werte der geleisteten Arbeit angemessenen Teil des Entgelts fordern\. Stirbt der Besteller, so bleiben die Erben an den Vertrag gebunden\.
+
+\[ [🔗 Permalink](#-1171-abgb--erlöschen-durch-tod) \]
 
 ### § 1172 ABGB — 3. Verlagsvertrag
 
 > Durch den Verlagsvertrag verpflichtet sich der Urheber eines Werkes der Literatur, der Tonkunst oder der bildenden Künste oder sein Rechtsnachfolger, das Werk einem anderen zur Vervielfältigung und Verbreitung für eigene Rechnung zu überlassen, dieser \(der Verleger\) dagegen, das Werk zu vervielfältigen und die Vervielfältigungsstücke zu verbreiten\.
 
+\[ [🔗 Permalink](#-1172-abgb--3-verlagsvertrag) \]
+
 ### § 1173 ABGB
 
 > Wurde über die Anzahl der Auflagen nichts bestimmt, so ist der Verleger nur zu einer Auflage berechtigt\. Vor dem Absatze der Auflage darf der Urheber über das Werk nur dann anderweitig verfügen, wenn er dem Verleger eine angemessene Schadloshaltung leistet\.
+
+\[ [🔗 Permalink](#-1173-abgb) \]
 
 ### § 1174 ABGB — 4. Leistung zu unerlaubtem Zweck
 
 > `(1)` Was jemand wissentlich zur Bewirkung einer unmöglichen oder unerlaubten Handlung gegeben hat, kann er nicht wieder zurückfordern\. Inwiefern es der Fiskus einzuziehen berechtigt sei, bestimmen die politischen Verordnungen\. Ist aber etwas zu Verhinderung einer unerlaubten Handlung demjenigen der diese Handlung begehen wollte, gegeben worden, so findet die Zurückforderung statt\.
 
 > `(2)` Ein zum Zweck eines verbotenen Spieles gegebenes Darlehen kann nicht zurückgefordert werden\.
+
+\[ [🔗 Permalink](#-1174-abgb--4-leistung-zu-unerlaubtem-zweck) \]
 
 ## Siebenundzwanzigstes Hauptstück
 
@@ -7333,11 +9381,15 @@
 
 > `(4)` Die Bestimmungen dieses Hauptstücks sind auch auf andere Gesellschaften anzuwenden, soweit für diese keine besonderen Vorschriften bestehen und die Anwendung dieser Bestimmungen auch unter Berücksichtigung der für die jeweilige Gesellschaft geltenden Grundsätze angemessen ist\.
 
+\[ [🔗 Permalink](#-1175-abgb--begriff-und-rechtsnatur-der-gesellschaft-bürgerlichen-rechts) \]
+
 ### § 1176 ABGB — Innen- und Außengesellschaft
 
 > `(1)` Die Gesellschafter können die Gesellschaft auf ihr Verhältnis untereinander beschränken \(Innengesellschaft\) oder gemeinschaftlich im Rechtsverkehr auftreten \(Außengesellschaft\)\. Ist der Gegenstand der Gesellschaft der Betrieb eines Unternehmens oder führen die Gesellschafter einen gemeinsamen Gesellschaftsnamen \(§ 1177\), so wird vermutet, dass die Gesellschafter eine Außengesellschaft vereinbaren wollten\.
 
 > `(2)` Haben die Gesellschafter in den Fällen des Abs\. 1 zweiter Satz eine Außengesellschaft vertraglich ausgeschlossen, so kann dieser Umstand einem Dritten nur entgegengehalten werden, wenn dieser wusste oder hätte wissen müssen, dass es sich bloß um eine Innengesellschaft handelt\.
+
+\[ [🔗 Permalink](#-1176-abgb--innen--und-außengesellschaft) \]
 
 ### § 1177 ABGB — Gesellschaftsname
 
@@ -7345,11 +9397,15 @@
 
 > `(2)` Wer in Angelegenheiten der Gesellschaft für alle Gesellschafter gemeinsam auftritt, hat jedem, der ein rechtliches Interesse daran hat, die Identität und die Anschrift der Gesellschafter offenzulegen\.
 
+\[ [🔗 Permalink](#-1177-abgb--gesellschaftsname) \]
+
 ### § 1178 ABGB — Gesellschaftsvermögen
 
 > `(1)` Zum Gesellschaftsvermögen gehören das der Gesellschaft gewidmete Eigentum, die sonstigen gesellschaftsbezogenen Sachenrechte, die gesellschaftsbezogenen Vertragsverhältnisse, Forderungen und Verbindlichkeiten und die gesellschaftsbezogenen Immaterialgüterrechte sowie der jeweils daraus verschaffte Nutzen, die daraus gewonnenen Früchte und alles, was an Stelle bestehender Vermögenswerte zufließt\.
 
 > `(2)` Vom Gesellschaftsvermögen zu unterscheiden ist das sonstige Vermögen der einzelnen Gesellschafter\. Gegen eine Forderung, die zum Gesellschaftsvermögen gehört, kann der Schuldner nicht mit einer ihm gegen einen einzelnen Gesellschafter zustehenden Forderung aufrechnen\.
+
+\[ [🔗 Permalink](#-1178-abgb--gesellschaftsvermögen) \]
 
 ### § 1179 ABGB — Einbringung des Gesellschaftsvermögens
 
@@ -7357,11 +9413,15 @@
 
 > `(2)` Wenn nach dem Gesellschaftsvertrag das ganze Vermögen einzubringen ist, so ist darunter nur das gegenwärtige zu verstehen\. Soll aber auch das künftige Vermögen eingebracht werden, so ist darunter nicht das geerbte oder das geschenkte zu verstehen\.
 
+\[ [🔗 Permalink](#-1179-abgb--einbringung-des-gesellschaftsvermögens) \]
+
 ### § 1180 ABGB — Vermögensordnung
 
 > `(1)` Soweit nichts anderes vereinbart ist, stehen körperliche Sachen, die von Gesellschaftern in das Gesellschaftsvermögen übertragen oder für das Gesellschaftsvermögen \(§ 1178 Abs\. 1\) erworben worden sind, im Miteigentum der Gesellschafter; unkörperliche Sachen, insbesondere schuldrechtliche Forderungen, sind den Gesellschaftern zur gesamten Hand zugeordnet\.
 
 > `(2)` Im Gesellschaftsvertrag können der Gesellschaft Sachen auch bloß zum Gebrauch zur Verfügung gestellt oder im Innenverhältnis so behandelt werden, als ob sie allen gemeinsam gehörten\.
+
+\[ [🔗 Permalink](#-1180-abgb--vermögensordnung) \]
 
 ## 2. Abschnitt
 
@@ -7371,6 +9431,8 @@
 
 > Die Rechtsverhältnisse der Gesellschafter untereinander richten sich nach dem Gesellschaftsvertrag; die Vorschriften dieses Abschnitts finden nur insoweit Anwendung, als nicht durch den Gesellschaftsvertrag anderes bestimmt ist\.
 
+\[ [🔗 Permalink](#-1181-abgb--gestaltungsfreiheit) \]
+
 ### § 1182 ABGB — Gesellschaftsanteil und Beiträge der Gesellschafter
 
 > `(1)` Der Gesellschaftsanteil ist die Summe der gesellschaftsvertraglichen Rechte und Pflichten eines Gesellschafters gegenüber allen übrigen Gesellschaftern\. Ein Gesellschafter kann nicht ohne Zustimmung aller Gesellschafter über seinen Gesellschaftsanteil verfügen\.
@@ -7379,17 +9441,23 @@
 
 > `(3)` Der Beitrag eines Gesellschafters kann sich auch auf die Leistung von Diensten beschränken \(Arbeitsgesellschafter\)\. Einem solchen Gesellschafter kann im Gesellschaftsvertrag eine Beteiligungsquote zuerkannt werden, so als ob er einen Kapitalanteil geleistet hätte\. Andernfalls steht ihm für seine Mitwirkung bloß ein angemessener Betrag des Jahresgewinns zu \(§ 1195 Abs\. 4\)\.
 
+\[ [🔗 Permalink](#-1182-abgb--gesellschaftsanteil-und-beiträge-der-gesellschafter) \]
+
 ### § 1183 ABGB — Verzinsungspflicht
 
 > `(1)` Ein Gesellschafter, der seine Geldeinlage nicht zur rechten Zeit einzahlt, eingenommenes Gesellschaftsgeld nicht zur rechten Zeit an das Gesellschaftsvermögen abführt oder unbefugt Geld aus dem Gesellschaftsvermögen entnimmt, hat Zinsen von dem Tag an zu entrichten, an dem die Zahlung oder die Ablieferung hätte geschehen sollen oder die Herausnahme des Geldes erfolgt ist\.
 
 > `(2)` Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen\.
 
+\[ [🔗 Permalink](#-1183-abgb--verzinsungspflicht) \]
+
 ### § 1184 ABGB — Nachschuss
 
 > `(1)` Die Gesellschafter sind nicht verpflichtet, Nachschüsse zur vertraglich zugesagten Einlage zu leisten\.
 
 > `(2)` Auch ohne Vereinbarung im Gesellschaftsvertrag können die Gesellschafter mit Stimmenmehrheit \(§ 1192 Abs\. 2\) die Leistung von Nachschüssen im Verhältnis ihrer Kapitalanteile beschließen, wenn die Fortführung der Gesellschaft sonst nicht möglich wäre\. Ein Gesellschafter, der dem Beschluss nicht zugestimmt hat und den Nachschuss nicht leistet, kann innerhalb angemessener Frist aus der Gesellschaft austreten oder aufgrund einer Klage der übrigen Gesellschafter vom Gericht aus der Gesellschaft ausgeschlossen werden\. Auf das Austrittsrecht kann im Vorhinein nicht verzichtet werden\. Für die Auseinandersetzung mit dem ausgetretenen oder ausgeschlossenen Gesellschafter und für die Ermittlung seiner Beteiligung an schwebenden Geschäften ist der Zeitpunkt der Beschlussfassung über die Nachschusspflicht maßgeblich\.
+
+\[ [🔗 Permalink](#-1184-abgb--nachschuss) \]
 
 ### § 1185 ABGB — Ersatz für Aufwendungen und Verluste, Herausgabepflicht
 
@@ -7399,19 +9467,27 @@
 
 > `(3)` Ein Gesellschafter hat alles, was er zur Führung der Geschäfte erhält und was er aus der Geschäftsführung erlangt, an das Gesellschaftsvermögen abzuführen\.
 
+\[ [🔗 Permalink](#-1185-abgb--ersatz-für-aufwendungen-und-verluste-herausgabepflicht) \]
+
 ### § 1186 ABGB — Mitwirkung, Interessenwahrung und Gleichbehandlung
 
 > `(1)` Die Gesellschafter haben an der gesellschaftlichen Willensbildung und den zu treffenden Maßnahmen nach Kräften und mit gebotener Sorgfalt mitzuwirken, den Gesellschaftszweck redlich zu fördern und alles zu unterlassen, was den Gesellschaftsinteressen schadet\.
 
 > `(2)` Die Gesellschafter sind unter gleichen Voraussetzungen gleich zu behandeln\.
 
+\[ [🔗 Permalink](#-1186-abgb--mitwirkung-interessenwahrung-und-gleichbehandlung) \]
+
 ### § 1187 ABGB — Verbot schädlicher Nebengeschäfte
 
 > Die Gesellschafter dürfen kein der Gesellschaft schädliches Nebengeschäft unternehmen\. Für unternehmerisch tätige Gesellschaften gelten überdies die unternehmensrechtlichen Vorschriften über Wettbewerbsverbote und deren Rechtsfolgen\.
 
+\[ [🔗 Permalink](#-1187-abgb--verbot-schädlicher-nebengeschäfte) \]
+
 ### § 1188 ABGB — Durchsetzung von Gesellschaftsansprüchen
 
 > Die Erfüllung gesellschaftsbezogener Verpflichtungen eines Gesellschafters kann von jedem Gesellschafter zugunsten aller Gesellschafter gemeinsam eingefordert werden\. Davon abweichende Vereinbarungen sind unwirksam\.
+
+\[ [🔗 Permalink](#-1188-abgb--durchsetzung-von-gesellschaftsansprüchen) \]
 
 ### § 1189 ABGB — Geschäftsführung
 
@@ -7423,6 +9499,8 @@
 
 > `(4)` Ein Gesellschafter darf im Zweifel die Führung der Geschäfte nicht einem Dritten übertragen\. Ist die Übertragung gestattet, so hat er nur ein ihm bei der Übertragung zur Last fallendes Verschulden zu vertreten\. Das Verschulden eines Gehilfen hat er in gleichem Umfang zu vertreten wie eigenes Verschulden\.
 
+\[ [🔗 Permalink](#-1189-abgb--geschäftsführung) \]
+
 ### § 1190 ABGB — Geschäftsführung durch mehrere Gesellschafter, Weisungsgebundenheit
 
 > `(1)` Steht die Geschäftsführung allen oder mehreren Gesellschaftern zu, so ist im Rahmen der gewöhnlichen Geschäfte jeder von ihnen allein zu handeln berechtigt; widerspricht jedoch ein anderer geschäftsführender Gesellschafter der Vornahme einer Handlung, so muss diese unterbleiben\.
@@ -7430,6 +9508,8 @@
 > `(2)` Ist im Gesellschaftsvertrag bestimmt, dass die Gesellschafter, denen die Geschäftsführung zusteht, nur zusammen handeln können, so bedarf es für jedes Geschäft der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist\.
 
 > `(3)` Ist ein Gesellschafter an die Weisungen der übrigen Gesellschafter gebunden, so kann er von den ihm erteilten Weisungen abweichen, wenn er den Umständen nach annehmen darf, dass die übrigen Gesellschafter bei Kenntnis der Sachlage die Abweichung billigen würden\. Er hat die Abweichung den übrigen Gesellschaftern anzuzeigen und ihre Entscheidung abzuwarten, wenn nicht Gefahr im Verzug ist\.
+
+\[ [🔗 Permalink](#-1190-abgb--geschäftsführung-durch-mehrere-gesellschafter-weisungsgebundenheit) \]
 
 ### § 1191 ABGB — Umfang der Geschäftsführungsbefugnis
 
@@ -7439,11 +9519,15 @@
 
 > `(3)` Zur Einräumung einer Vollmacht gemäß § 1008 bedarf es der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist\. Der Widerruf einer solchen Vollmacht kann von jedem der zur Erteilung oder zur Mitwirkung bei der Erteilung befugten Gesellschafter erfolgen\.
 
+\[ [🔗 Permalink](#-1191-abgb--umfang-der-geschäftsführungsbefugnis) \]
+
 ### § 1192 ABGB — Gesellschafterbeschlüsse
 
 > `(1)` Gesellschafterbeschlüsse erfordern die Zustimmung aller zur Mitwirkung bei der Beschlussfassung berufenen Gesellschafter\.
 
 > `(2)` Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, so bestimmt sie sich nach den abgegebenen gültigen Stimmen\. Das Stimmgewicht entspricht den Beteiligungsverhältnissen\. Sind nicht alle Gesellschafter am Kapital beteiligt, wird die Mehrheit nach Köpfen berechnet\. Arbeitsgesellschafter, denen der Gesellschaftsvertrag einen am Wert ihrer Arbeit orientierten Kapitalanteil zubilligt, gelten als am Kapital beteiligt\.
+
+\[ [🔗 Permalink](#-1192-abgb--gesellschafterbeschlüsse) \]
 
 ### § 1193 ABGB — Entziehung und Kündigung der Geschäftsführungsbefugnis
 
@@ -7451,11 +9535,15 @@
 
 > `(2)` Ein Gesellschafter kann seine Befugnis zur Geschäftsführung kündigen, wenn ein wichtiger Grund vorliegt\. Auf dieses Recht kann nicht verzichtet werden\. Die Geschäftsführung darf nur in der Art gekündigt werden, dass die Gesellschafter für die Führung der Geschäfte anderweitig Vorsorge treffen können, es sei denn, dass der wichtige Grund auch die unzeitige Kündigung rechtfertigt\.
 
+\[ [🔗 Permalink](#-1193-abgb--entziehung-und-kündigung-der-geschäftsführungsbefugnis) \]
+
 ### § 1194 ABGB — Kontrollrechte der Gesellschafter
 
 > `(1)` Ein geschäftsführender Gesellschafter ist verpflichtet, jedem anderen Gesellschafter die erforderlichen Nachrichten zu geben, auf Verlangen über den Stand der Geschäfte Auskunft zu erteilen und Rechenschaft abzulegen\. Ein Gesellschafter kann sich, auch wenn er von der Geschäftsführung ausgeschlossen ist, von den Angelegenheiten der Gesellschaft persönlich unterrichten, die Aufzeichnungen der Gesellschaft einsehen und sich aus ihnen eine Abrechnung anfertigen oder die Vorlage einer solchen Abrechnung fordern\.
 
 > `(2)` Eine Vereinbarung, durch die dieses Recht ausgeschlossen oder beschränkt wird, ist unwirksam\.
+
+\[ [🔗 Permalink](#-1194-abgb--kontrollrechte-der-gesellschafter) \]
 
 ### § 1195 ABGB — Gewinn und Verlust
 
@@ -7469,11 +9557,15 @@
 
 > `(5)` Die Gesellschafterstellung steht der Vereinbarung eines Entgelts für der Gesellschaft geleistete Dienste nicht entgegen\.
 
+\[ [🔗 Permalink](#-1195-abgb--gewinn-und-verlust) \]
+
 ### § 1196 ABGB — Gewinnausschüttung und Entnahmen
 
 > `(1)` Jeder Gesellschafter hat Anspruch auf Auszahlung seines Gewinnanteils\. Der Anspruch kann nicht geltend gemacht werden, soweit die Auszahlung zum offenbaren Schaden der Gesellschaft gereicht, die Gesellschafter etwas anderes beschließen oder der Gesellschafter vereinbarungswidrig seine Einlage nicht geleistet hat\.
 
 > `(2)` Im Übrigen ist ein Gesellschafter nicht befugt, ohne Einwilligung der anderen Gesellschafter Entnahmen zu tätigen\.
+
+\[ [🔗 Permalink](#-1196-abgb--gewinnausschüttung-und-entnahmen) \]
 
 ## 3. Abschnitt
 
@@ -7489,9 +9581,13 @@
 
 > `(4)` Wer, ohne Gesellschafter zu sein, mit der Vertretung in Gesellschaftsangelegenheiten betraut wird, vertritt die Gesellschafter nach Maßgabe der erteilten Vollmacht\.
 
+\[ [🔗 Permalink](#-1197-abgb--vertretung) \]
+
 ### § 1198 ABGB — Entziehung der Vertretungsmacht
 
 > Die Vertretungsmacht kann einem Gesellschafter aufgrund einer Klage aller übrigen Gesellschafter durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsgemäßen Vertretung der Gesellschaft\.
+
+\[ [🔗 Permalink](#-1198-abgb--entziehung-der-vertretungsmacht) \]
 
 ### § 1199 ABGB — Haftung der Gesellschafter
 
@@ -7499,11 +9595,15 @@
 
 > `(2)` Aus Rechtsgeschäften, die ein Gesellschafter auf Rechnung der Gesellschaft, aber im eigenen Namen abschließt, wird er allein dem Dritten gegenüber berechtigt und verpflichtet\.
 
+\[ [🔗 Permalink](#-1199-abgb--haftung-der-gesellschafter) \]
+
 ### § 1200 ABGB — Einwendungen des Gesellschafters
 
 > `(1)` Wird ein Gesellschafter wegen einer gesellschaftsbezogenen Verbindlichkeit in Anspruch genommen, so kann er Einwendungen, die nicht in seiner Person begründet sind, nur insoweit geltend machen, als sie von den Gesellschaftern gemeinsam erhoben werden können\.
 
 > `(2)` Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange den Gesellschaftern gemeinsam das Recht zusteht, das ihrer Verbindlichkeit zugrunde liegende Rechtsgeschäft anzufechten oder ihre Verbindlichkeit durch Aufrechnung mit einer fälligen Forderung zu erfüllen\.
+
+\[ [🔗 Permalink](#-1200-abgb--einwendungen-des-gesellschafters) \]
 
 ## 4. Abschnitt
 
@@ -7519,11 +9619,15 @@
 
 > `(4)` Wurde dem Dritten nicht nachweislich mitgeteilt, ob das Vertragsverhältnis vom Erwerber übernommen wurde, oder kann der Dritte dieser Übernahme noch widersprechen, so kann er sowohl gegenüber dem ausscheidenden als auch gegenüber dem nachfolgenden Gesellschafter auf das Vertragsverhältnis bezogene Erklärungen abgeben und seine Verbindlichkeiten erfüllen\. Dies gilt auch für den Besteller einer für gesellschaftsbezogene Verbindlichkeiten gewährten Sicherheit\.
 
+\[ [🔗 Permalink](#-1201-abgb--rechtsübergang) \]
+
 ### § 1202 ABGB — Haftung des eintretenden und des ausscheidenden Gesellschafters
 
 > `(1)` Der eintretende Gesellschafter haftet nur insofern für vor seinem Eintritt begründete gesellschaftsbezogene Verbindlichkeiten, als er jenen gesellschaftsbezogenen Rechtsverhältnissen beitritt, auf denen die Verbindlichkeiten beruhen\.
 
 > `(2)` Der ausscheidende Gesellschafter haftet für gesellschaftsbezogene Verbindlichkeiten gegenüber Dritten, die vor seinem Ausscheiden aus der Gesellschaft begründet wurden, auch dann weiter, wenn er aus dem Rechtsverhältnis ausgeschieden ist \(§ 1201 Abs\. 3\)\. Soweit der Dritte einer Entlassung des Ausscheidenden aus der Haftung nicht zustimmt, haftet dieser für die Verbindlichkeiten nur, soweit sie innerhalb von fünf Jahren nach seinem Ausscheiden fällig werden\. Ansprüche daraus verjähren innerhalb der für die jeweilige Verbindlichkeit geltenden Verjährungsfrist, längstens jedoch innerhalb von drei Jahren\.
+
+\[ [🔗 Permalink](#-1202-abgb--haftung-des-eintretenden-und-des-ausscheidenden-gesellschafters) \]
 
 ### § 1203 ABGB — Auseinandersetzung mit dem ausscheidenden Gesellschafter
 
@@ -7535,11 +9639,15 @@
 
 > `(4)` Verbleibt dem ausscheidenden Gesellschafter eine Verbindlichkeit aus dem Gesellschaftsverhältnis, so ist er verpflichtet, einen Ausgleich in entsprechender Höhe an die Gesellschafter zu zahlen\.
 
+\[ [🔗 Permalink](#-1203-abgb--auseinandersetzung-mit-dem-ausscheidenden-gesellschafter) \]
+
 ### § 1204 ABGB — Beteiligung des Ausscheidenden an schwebenden Geschäften
 
 > `(1)` Der ausgeschiedene Gesellschafter nimmt am Gewinn und am Verlust teil, der sich aus den zur Zeit seines Ausscheidens schwebenden Geschäften ergibt\. Die übrigen Gesellschafter sind berechtigt, diese Geschäfte so zu beenden, wie es ihnen am vorteilhaftesten erscheint\.
 
 > `(2)` Der ausgeschiedene Gesellschafter kann am Schluss jedes Geschäftsjahres Rechenschaft über die inzwischen beendeten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen\.
+
+\[ [🔗 Permalink](#-1204-abgb--beteiligung-des-ausscheidenden-an-schwebenden-geschäften) \]
 
 ### § 1205 ABGB — Fortsetzung mit den Erben
 
@@ -7553,6 +9661,8 @@
 
 > `(5)` Der Gesellschaftsvertrag kann die Anwendung der Vorschriften der Abs\. 1 bis 4 nicht ausschließen; es kann jedoch für den Fall, dass der Erbe sein Verbleiben von der Einräumung der Stellung eines Kommanditisten abhängig macht, sein Gewinnanteil anders als der des Verstorbenen bestimmt werden\.
 
+\[ [🔗 Permalink](#-1205-abgb--fortsetzung-mit-den-erben) \]
+
 ## 5. Abschnitt
 
 ## Umwandlung
@@ -7565,11 +9675,15 @@
 
 > `(3)` Der Umwandlungsbeschluss enthält das von den geschäftsführenden Gesellschaftern aufgestellte Verzeichnis des Gesellschaftsvermögens \(§ 1178 Abs\. 1\)\. Was im Vermögensverzeichnis nicht angeführt ist, verbleibt den Gesellschaftern wie bisher\.
 
+\[ [🔗 Permalink](#-1206-abgb--umwandlung-in-eine-offene-gesellschaft-oder-kommanditgesellschaft) \]
+
 ### § 1207 ABGB — Wirkung gegenüber Dritten
 
 > `(1)` Die Gesellschafter haften nach der Umwandlung für die vorher begründeten Verbindlichkeiten auch als Gesellschafter bürgerlichen Rechts weiter\.
 
 > `(2)` Solange ein Dritter von der Umwandlung nicht verständigt wurde und sie ihm auch sonst nicht bekannt geworden ist, kann er seine Leistung mit schuldbefreiender Wirkung so erbringen, als würde die Gesellschaft bürgerlichen Rechts noch bestehen\.
+
+\[ [🔗 Permalink](#-1207-abgb--wirkung-gegenüber-dritten) \]
 
 ## 6. Abschnitt
 
@@ -7589,11 +9703,15 @@
 >
 >> `5.` durch den Tod eines Gesellschafters, sofern sich aus dem Gesellschaftsvertrag nichts anderes ergibt\.
 
+\[ [🔗 Permalink](#-1208-abgb--auflösungsgründe) \]
+
 ### § 1209 ABGB — Kündigung durch einen Gesellschafter
 
 > `(1)` Die Kündigung der Gesellschaft durch einen Gesellschafter kann, wenn die Gesellschaft für unbestimmte Zeit eingegangen ist, nur für den Schluss eines Geschäftsjahres erfolgen; sie muss mindestens sechs Monate vor diesem Zeitpunkt stattfinden\.
 
 > &nbsp; \(2\) Eine Vereinbarung, durch die das Kündigungsrecht ausgeschlossen oder in anderer Weise als durch angemessene Verlängerung der Kündigungsfrist erschwert wird, ist nichtig\. Dies gilt nicht für Innengesellschaften \(§ 1176 Abs\. 1\)\.
+
+\[ [🔗 Permalink](#-1209-abgb--kündigung-durch-einen-gesellschafter) \]
 
 ### § 1210 ABGB — Auflösung durch gerichtliche Entscheidung
 
@@ -7603,15 +9721,21 @@
 
 > `(3)` Eine Vereinbarung, durch die das Recht des Gesellschafters, die Auflösung der Gesellschaft zu verlangen, ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig\.
 
+\[ [🔗 Permalink](#-1210-abgb--auflösung-durch-gerichtliche-entscheidung) \]
+
 ### § 1211 ABGB — Gesellschaft auf Lebenszeit, Befristung
 
 > Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablauf der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinn der §§ 1209 und 1210 einer für unbestimmte Zeit eingegangen Gesellschaft gleich\.
+
+\[ [🔗 Permalink](#-1211-abgb--gesellschaft-auf-lebenszeit-befristung) \]
 
 ### § 1213 ABGB — Ausschluss statt Auflösung
 
 > `(1)` Tritt in der Person eines Gesellschafters ein Umstand ein, der nach § 1210 für jeden der übrigen Gesellschafter das Recht begründet, die Auflösung der Gesellschaft zu verlangen, so kann vom Gericht aufgrund einer Klage aller übrigen Gesellschafter anstatt der Auflösung der Ausschluss dieses Gesellschafters aus der Gesellschaft ausgesprochen werden\. Der Ausschließungsklage steht nicht entgegen, dass nach dem Ausschluss nur ein Gesellschafter verbleibt\.
 
 > `(2)` Für die Auseinandersetzung zwischen den verbleibenden Gesellschaftern und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkt maßgeblich, in dem die Klage auf Ausschließung erhoben wird\.
+
+\[ [🔗 Permalink](#-1213-abgb--ausschluss-statt-auflösung) \]
 
 ### § 1214 ABGB — Fortsetzungsbeschluss
 
@@ -7621,15 +9745,21 @@
 
 > `(3)` Im Fall der Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters ist Abs\. 1 mit der Maßgabe anzuwenden, dass eine Erklärung gegenüber dem Masseverwalter zu erfolgen hat und der Schuldner mit dem Zeitpunkt der Konkurseröffnung als aus der Gesellschaft ausgeschieden gilt\.
 
+\[ [🔗 Permalink](#-1214-abgb--fortsetzungsbeschluss) \]
+
 ### § 1215 ABGB — Übergang des Gesellschaftsvermögens
 
 > `(1)` Verbleibt nur noch ein Gesellschafter, so erlischt die Gesellschaft ohne Liquidation\. Das Gesellschaftsvermögen geht im Weg der Gesamtrechtsnachfolge auf diesen über\. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen\.
 
 > `(2)` Der ausscheidende Gesellschafter ist gemäß §§ 1203 und 1204 abzufinden\.
 
+\[ [🔗 Permalink](#-1215-abgb--übergang-des-gesellschaftsvermögens) \]
+
 ### § 1216 ABGB — Bekanntgabe der Auflösung der Außengesellschaft
 
 > Die Auflösung einer Außengesellschaft ist, soweit möglich, den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf verkehrsübliche Weise bekannt zu machen\.
+
+\[ [🔗 Permalink](#-1216-abgb--bekanntgabe-der-auflösung-der-außengesellschaft) \]
 
 ## 7. Abschnitt
 
@@ -7641,6 +9771,8 @@
 
 > `(2)` Die Gesellschafter können anstelle der Liquidation eine andere Art der Auseinandersetzung vereinbaren\. Ist die Gesellschaft durch Kündigung nach § 339 Abs\. 1 EO oder durch die Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters aufgelöst, so kann die Liquidation nur mit Zustimmung des Verwalters oder des Masseverwalters unterbleiben\.
 
+\[ [🔗 Permalink](#-1216a-abgb--nachwirkung-des-gesellschaftsvertrages) \]
+
 ### § 1216b ABGB — Bestellung der Liquidatoren
 
 > `(1)` Nach der Auflösung der Gesellschaft haben, sofern der Gesellschaftsvertrag nicht anderes bestimmt, die Gesellschafter als Liquidatoren das Gesellschaftsvermögen abzuwickeln\. Mehrere Erben eines Gesellschafters haben einen gemeinsamen Vertreter zu bestellen\. Ist über das Vermögen eines Gesellschafters das Konkursverfahren oder das Sanierungsverfahren eröffnet und dem Gesellschafter die Eigenverwaltung entzogen, so tritt der Insolvenzverwalter an die Stelle des Gesellschafters\.
@@ -7651,15 +9783,21 @@
 
 > `(4)` Die Gesellschafter sind verpflichtet, die Liquidation und die Liquidatoren soweit möglich den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf ortsübliche Weise bekannt zu machen\.
 
+\[ [🔗 Permalink](#-1216b-abgb--bestellung-der-liquidatoren) \]
+
 ### § 1216c ABGB — Rechte und Pflichten der Liquidatoren
 
 > `(1)` Die Liquidatoren haben die laufenden Geschäfte zu beenden, die gesellschaftsbezogenen Forderungen einzuziehen und die Gesellschaftsgläubiger zu befriedigen\. Zur Beendigung schwebender Geschäfte können die Liquidatoren auch neue Geschäfte eingehen\.
 
 > `(2)` Den Gesellschaftern sind die Gegenstände, die sie der Gesellschaft zur Benutzung überlassen haben, zurückzugeben\. Für einen durch Zufall abhanden gekommenen oder verschlechterten Gegenstand gebührt ihnen gegenüber den anderen Gesellschaftern kein Ersatz\.
 
+\[ [🔗 Permalink](#-1216c-abgb--rechte-und-pflichten-der-liquidatoren) \]
+
 ### § 1216d ABGB — Handeln der Liquidatoren
 
 > Die Liquidatoren vertreten die Gesellschafter gerichtlich und außergerichtlich als Gesamtvertreter, sofern die Gesellschafter nicht einvernehmlich etwas anderes vereinbaren\. Die Liquidatoren können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen\. Jeder Liquidator ist alleine befugt, gesellschaftsbezogene Erklärungen entgegenzunehmen\.
+
+\[ [🔗 Permalink](#-1216d-abgb--handeln-der-liquidatoren) \]
 
 ### § 1216e ABGB — Aufteilung und Ausgleich unter den Gesellschaftern
 
@@ -7671,6 +9809,8 @@
 
 > `(4)` Reicht das Gesellschaftsvermögen zur Deckung der Guthaben von Gesellschaftern aus dem Gesellschaftsverhältnis nicht aus, so sind die übrigen Gesellschafter ihnen gegenüber verpflichtet, für den Betrag im Verhältnis ihrer Verbindlichkeiten aus dem Gesellschaftsverhältnis aufzukommen\. Kann von einem Gesellschafter der auf ihn entfallende Betrag nicht erlangt werden, so wird der Ausfall auf die übrigen Gesellschafter wie ein Verlust verteilt\.
 
+\[ [🔗 Permalink](#-1216e-abgb--aufteilung-und-ausgleich-unter-den-gesellschaftern) \]
+
 ## Achtundzwanzigstes Hauptstück
 
 ## Von den Ehepakten und dem Anspruch auf Ausstattung
@@ -7681,81 +9821,121 @@
 
 > `(2)` Die Bestimmungen dieses Hauptstücks sind auf eingetragene Partner sinngemäß anzuwenden\.
 
+\[ [🔗 Permalink](#-1217-abgb--ehepakte) \]
+
 ### § 1220 ABGB — Ausstattung
 
 > Besitzt ein Kind kein eigenes, zu einer angemessenen Ausstattung hinlängliches Vermögen, so sind Eltern oder Großeltern nach der Reihenfolge und nach den Grundsätzen, nach denen sie für den Unterhalt der Kinder zu sorgen haben, verpflichtet, den Kindern oder Enkelkindern bei ihrer Verehelichung eine Ausstattung zu geben oder dazu verhältnismäßig beizutragen\.
+
+\[ [🔗 Permalink](#-1220-abgb--ausstattung) \]
 
 ### § 1221 ABGB
 
 > Berufen sich Eltern oder Großeltern auf ihr Unvermögen zur Bestellung einer angemessenen Ausstattung, so hat das Gericht auf Antrag des Ausstattungsberechtigten, jedoch ohne strenge Untersuchung des Vermögensstands, darüber zu entscheiden\.
 
+\[ [🔗 Permalink](#-1221-abgb) \]
+
 ### § 1222 ABGB
 
 > Wenn ein Kind ohne Wissen oder gegen den Willen seiner Eltern geheiratet hat und das Gericht die Ursache der Missbilligung begründet findet, sind die Eltern selbst in dem Falle, dass sie in der Folge die Ehe genehmigen, nicht schuldig, ihm eine Ausstattung zu geben\.
+
+\[ [🔗 Permalink](#-1222-abgb) \]
 
 ### § 1223 ABGB
 
 > Hat ein Kind seine Ausstattung schon erhalten und sie, wenn auch ohne sein Verschulden, verloren, so ist es nicht mehr – selbst nicht bei Eingehung einer weiteren Ehe – berechtigt, eine neue zu fordern\.
 
+\[ [🔗 Permalink](#-1223-abgb) \]
+
 ### § 1233 ABGB — Gütergemeinschaft
 
 > Die eheliche Verbindung allein begründet noch keine Gemeinschaft der Güter zwischen den Eheleuten\. Dazu wird ein besonderer Vertrag erfordert, dessen Umfang und rechtliche Form nach den §§\. 1177 und 1178 des vorigen Hauptstückes beurtheilet wird\.
+
+\[ [🔗 Permalink](#-1233-abgb--gütergemeinschaft) \]
 
 ### § 1234 ABGB
 
 > Die Gütergemeinschaft unter Ehegatten wird in der Regel nur auf den Todesfall verstanden\. Sie gibt dem Ehegatten das Recht auf die Hälfte dessen, was von den der Gemeinschaft wechselseitig unterzogenen Gütern nach Ableben des andern Ehegatten noch vorhanden seyn wird\.
 
+\[ [🔗 Permalink](#-1234-abgb) \]
+
 ### § 1235 ABGB
 
 > Bey einer Gemeinschaft, die sich auf das ganze Vermögen bezieht, sind vor der Theilung alle Schulden ohne Ausnahme; bey einer Gemeinschaft aber, die bloß das gegenwärtige, oder bloß das künftige Vermögen zum Gegenstande hat, nur diejenigen Schulden abzuziehen, die zum Nutzen des gemeinschaftlichen Gutes verwendet worden sind\.
+
+\[ [🔗 Permalink](#-1235-abgb) \]
 
 ### § 1236 ABGB
 
 > Besitzt ein Ehegatte ein unbewegliches Gut, und wird das Recht des andern Ehegatten zur Gemeinschaft in die öffentlichen Bücher eingetragen; so erhält dieser durch die Eintragung auf die Hälfte der Substanz des Gutes ein dingliches Recht, vermöge dessen der eine Ehegatte über diese Hälfte keine Anordnung machen kann; auf die Nutzungen aber während der Ehe erhält er durch die Einverleibung keinen Anspruch\. Nach dem Tode des Ehegatten gebührt dem überlebenden Theile sogleich das freye Eigenthum seines Antheiles\. Doch kann eine solche Einverleibung den auf das Gut früher eingetragenen Gläubigern nicht zum Nachtheile gereichen\.
 
+\[ [🔗 Permalink](#-1236-abgb) \]
+
 ### § 1237 ABGB — Gesetzlicher ehelicher Güterstand
 
 > Haben Eheleute über die Verwendung ihres Vermögens keine besondere Uebereinkunft getroffen, so behält jeder Ehegatte sein voriges Eigenthumsrecht, und auf das, was ein jeder Theil während der Ehe erwirbt, und auf was immer für eine Art überkommt, hat der andere, solange die Ehe besteht, keinen Anspruch\.
+
+\[ [🔗 Permalink](#-1237-abgb--gesetzlicher-ehelicher-güterstand) \]
 
 ### § 1246 ABGB — Schenkungen unter Ehegatten und Verlobten;
 
 > Die Gültigkeit oder Ungültigkeit der Schenkungen zwischen Ehegatten wird nach den für die Schenkungen überhaupt bestehenden Gesetzen beurtheilt\.
 
+\[ [🔗 Permalink](#-1246-abgb--schenkungen-unter-ehegatten-und-verlobten) \]
+
 ### § 1247 ABGB
 
 > Was ein Mann seiner Ehegattinn an Schmuck, Edelsteinen und andern Kostbarkeiten zum Putze gegeben hat, wird im Zweifel nicht für gelehnt; sondern für geschenkt angesehen\. Wenn aber ein verlobter Theil dem andern; oder auch ein Dritter dem einen oder andern Theile in Rücksicht auf die künftige Ehe etwas zusichert oder schenket; so kann, wenn die Ehe ohne Verschulden des Geschenkgebers nicht erfolgt, die Schenkung widerrufen werden\.
+
+\[ [🔗 Permalink](#-1247-abgb) \]
 
 ### § 1249 ABGB — Erbverträge
 
 > Zwischen Ehegatten kann auch ein Erbvertrag, wodurch die künftige Erbschaft oder ein Teil derselben versprochen und das Versprechen angenommen wird, geschlossen werden \(§ 602\)\. Ein solcher Vertrag muss als Notariatsakt und mit allen Erfordernissen eines schriftlichen Testamentes errichtet werden\.
 
+\[ [🔗 Permalink](#-1249-abgb--erbverträge) \]
+
 ### § 1251 ABGB — Bedingungen
 
 > Die Bestimmungen über Bedingungen bei Verträgen sind auch auf Erbverträge anzuwenden\.
+
+\[ [🔗 Permalink](#-1251-abgb--bedingungen) \]
 
 ### § 1252 ABGB — Wirkungen des Erbvertrags
 
 > Ein Erbvertrag hindert einen Vertragspartner nicht, zu Lebzeiten über sein Vermögen nach Belieben zu verfügen\. Aus dem Erbvertrag entstehende Rechte setzen den Tod eines Vertragsteils voraus und können vor Erbanfall nicht auf andere übertragen werden\. Aufgrund der künftigen Erbschaft kann keine Sicherstellung gefordert werden\.
 
+\[ [🔗 Permalink](#-1252-abgb--wirkungen-des-erbvertrags) \]
+
 ### § 1253 ABGB
 
 > Durch den Erbvertrag kann ein Vertragspartner auf das Recht zu testieren nicht gänzlich verzichten\. Ein reines Viertel, das weder durch Pflichtteile noch durch andere Forderungen belastet sein darf, muss zur freien letztwilligen Verfügung stehen\. Hat der Verstorbene darüber nicht verfügt, so fällt dieses Viertel nicht dem Vertragserben, auch wenn ihm im Erbvertrag die ganze Verlassenschaft versprochen wurde, sondern den gesetzlichen Erben zu\.
+
+\[ [🔗 Permalink](#-1253-abgb) \]
 
 ### § 1254 ABGB
 
 > Ein Erbvertrag kann nicht einseitig widerrufen, aber aus vertragsrechtlichen Gründen entkräftet werden\. Die Rechte von Pflichtteilsberechtigten bleiben vom Erbvertrag unberührt\.
 
+\[ [🔗 Permalink](#-1254-abgb) \]
+
 ### § 1262 ABGB
 
 > Ist zwischen den Ehegatten eine Gemeinschaft der Güter bedungen; so hört dieselbe durch den Concurs des einen oder des andern Ehegatten auf, und das zwischen ihnen gemeinschaftliche Vermögen wird, wie bey dem Tode, getheilt\.
+
+\[ [🔗 Permalink](#-1262-abgb) \]
 
 ### § 1265 ABGB — Nichtigerklärung der Ehe
 
 > Wird eine Ehe für ungültig erklärt; so zerfallen auch die Ehe\-Pacte; das Vermögen kommt, in so fern es vorhanden ist, in den vorigen Stand zurück\. Der schuldtragende Theil hat aber den schuldlosen Theile Entschädigung zu leisten\.
 
+\[ [🔗 Permalink](#-1265-abgb--nichtigerklärung-der-ehe) \]
+
 ### § 1266 ABGB — Scheidung oder Aufhebung der Ehe
 
 > Im Fall einer Scheidung oder Aufhebung der Ehe mit gleichteiligem oder ohne Verschulden oder einer Scheidung im Einvernehmen sind die Ehepakte für beide Teile erloschen, sofern keine andere Vereinbarung getroffen wurde\. Ansonsten gebührt dem schuldlosen oder minderschuldigen Ehegatten nicht nur volle Genugtuung, sondern ab dem Zeitpunkt der Scheidung alles dasjenige, was ihm in den Ehepakten auf den Fall des Überlebens bedungen worden ist\. Das Vermögen, worüber eine Gütergemeinschaft bestanden hat, wird wie im Falle des Todes geteilt, und das Recht aus einem Erbvertrag bleibt dem Schuldlosen oder Minderschuldigen auf den Todesfall vorbehalten\.
+
+\[ [🔗 Permalink](#-1266-abgb--scheidung-oder-aufhebung-der-ehe) \]
 
 ## Neun u. zwanzigstes Hauptstück.
 
@@ -7765,45 +9945,67 @@
 
 > Ein Vertrag, wodurch die Hoffnung eines noch ungewissen Vortheiles versprochen und angenommen wird, ist ein Glücksvertrag\. Er gehört, je nachdem etwas dagegen versprochen wird oder nicht, zu den entgeltlichen oder unentgeldlichen Verträgen\.
 
+\[ [🔗 Permalink](#-1267-abgb--glücksverträge) \]
+
 ### § 1268 ABGB
 
 > Bey Glücksverträgen findet das Rechtmittel wegen Verkürzung über die Hälfte des Werthes nicht Statt\.
+
+\[ [🔗 Permalink](#-1268-abgb) \]
 
 ### § 1269 ABGB — Arten der Glücksverträge;
 
 > Glücksverträge sind: die Wette; das Spiel und das Los; alle über gehoffte Rechte, oder über künftige noch unbestimmte Sachen errichtete Kauf\- und andere Verträge; ferner, die Leibrenten; die gesellschaftlichen Versorgungsanstalten; endlich die Versicherungs\- und Bodmereyverträge\.
 
+\[ [🔗 Permalink](#-1269-abgb--arten-der-glücksverträge) \]
+
 ### § 1270 ABGB — 1) die Wette;
 
 > Wenn über ein beyden Theilen noch unbekanntes Ereigniß ein bestimmter Preis zwischen ihnen für denjenigen, dessen Behauptung der Erfolg entspricht, verabredet wird: so entsteht eine Wette\. Hatte der gewinnende Theil von dem Ausgange Gewißheit, und verheimlichte er sie dem andern Theile; so macht er sich einer Arglist schuldig, und die Wette ist ungültig; der verlierende Theil aber, dem der Ausgang vorher bekannt war, ist als ein Geschenkgeber anzusehen\.
+
+\[ [🔗 Permalink](#-1270-abgb--1-die-wette) \]
 
 ### § 1271 ABGB
 
 > Redliche und sonst erlaubte Wetten sind in so weit verbindlich, als der bedungene Preis nicht bloß versprochen; sondern wirklich entrichtet, oder hinterlegt worden ist\. Gerichtlich kann der Preis nicht gefordert werden\.
 
+\[ [🔗 Permalink](#-1271-abgb) \]
+
 ### § 1272 ABGB — 2) das Spiel;
 
 > Jedes Spiel ist eine Art von Wette\. Die für Wetten festgesetzten Rechte gelten auch für Spiele\. Welche Spiele überhaupt, oder für besondere Classen verbothen; wie Personen, die verbothene Spiele treiben, und diejenigen, die ihnen dazu Unterschleif geben, zu bestrafen sind, bestimmen die politischen Gesetze\.
+
+\[ [🔗 Permalink](#-1272-abgb--2-das-spiel) \]
 
 ### § 1273 ABGB — 3) Los;
 
 > Ein zwischen Privat\-Personen auf eine Wette oder auf ein Spiel abzielendes Los wird nach den für Wetten und Spiele festgesetzten Vorschriften beurtheilet\. Soll aber eine Theilung, eine Wahl, oder eine Streitigkeit durch das Los entschieden werden; so treten dabey die Rechte der übrigen Verträge ein\.
 
+\[ [🔗 Permalink](#-1273-abgb--3-los) \]
+
 ### § 1274 ABGB
 
 > Staats\-Lotterien sind nicht nach der Eigenschaft der Wette und des Spieles; sondern nach den jedes Mahl darüber kundgemachten Plänen, zu beurtheilen\.
+
+\[ [🔗 Permalink](#-1274-abgb) \]
 
 ### § 1275 ABGB — 4) Hoffnungskauf
 
 > Wer für ein bestimmtes Maß von einem künftigen Erträgnisse einen verhältnißmäßigen Preis verspricht, schließt einen ordentlichen Kaufvertrag\.
 
+\[ [🔗 Permalink](#-1275-abgb--4-hoffnungskauf) \]
+
 ### § 1276 ABGB
 
 > Wer die künftigen Nutzungen einer Sache in Pausch und Bogen; oder wer die Hoffnung derselben in einem bestimmten Preise kauft, errichtet einen Glücksvertrag; er trägt die Gefahr der ganz vereitelten Erwartung; es gebühren ihm aber auch alle ordentliche erzielte Nutzungen\.
 
+\[ [🔗 Permalink](#-1276-abgb) \]
+
 ### § 1277 ABGB — insbesondere eines Kuxes;
 
 > Der Antheil an einem Bergwerke heißt Kux\. Der Kauf eines Kuxes gehört zu den gewagten Verträgen\. Der Verkäufer haftet nur für die Richtigkeit des Kuxes, und der Käufer hat sich nach den Gesetzen über den Bergbau zu benehmen\.
+
+\[ [🔗 Permalink](#-1277-abgb--insbesondere-eines-kuxes) \]
 
 ### § 1278 ABGB — Erbschaftskauf
 
@@ -7811,61 +10013,91 @@
 
 > `(2)` Der Erbschaftskauf bedarf zu seiner Gültigkeit eines Notariatsakts oder der Beurkundung durch gerichtliches Protokoll\.
 
+\[ [🔗 Permalink](#-1278-abgb--erbschaftskauf) \]
+
 ### § 1279 ABGB
 
 > Auf Sachen, die dem Verkäufer nicht als Erben, sondern aus einem anderen Grund, etwa als Vorausvermächtnis, als Ersatz\- oder Nacherbschaft oder als Schuldforderung aus der Verlassenschaft gebühren und ihm auch ohne Erbrecht gebührt hätten, hat der Erbschaftskäufer keinen Anspruch\. Dagegen erhält er alles, was der Erbschaft selbst zuwächst, insbesondere durch den Ausfall eines Vermächtnisnehmers, eines Miterben oder auf was immer für eine andere Art, soweit der Verkäufer darauf Anspruch gehabt hätte\.
+
+\[ [🔗 Permalink](#-1279-abgb) \]
 
 ### § 1280 ABGB
 
 > Alles, was der Erbe aus dem Erbrecht erhält, wie etwa die bezogenen Früchte und Forderungen, zählt zur Verlassenschaft\. Alle Aufwendungen, die er selbst für den Antritt der Erbschaft oder für die Verlassenschaft gemacht hat, werden hingegen von der Verlassenschaft abgezogen\. Dazu gehören die bezahlten Schulden, die schon abgeführten Vermächtnisse, Steuern, Abgaben und Gerichtsgebühren und, wenn nicht ausdrücklich etwas anderes vereinbart wurde, auch die Begräbniskosten\.
 
+\[ [🔗 Permalink](#-1280-abgb) \]
+
 ### § 1281 ABGB
 
 > Sofern der Verkäufer die Verlassenschaft vor der Übergabe verwaltet hat, haftet er dem Käufer dafür wie ein anderer Verwalter\.
+
+\[ [🔗 Permalink](#-1281-abgb) \]
 
 ### § 1282 ABGB
 
 > Die Erbschaftsgläubiger und Vermächtnisnehmer können sich mit ihren Ansprüchen sowohl an den Käufer der Erbschaft als auch an den Erben selbst halten\. Ihre Rechte werden so wie jene der Erbschaftsschuldner durch den Verkauf der Erbschaft nicht geändert\. Die Erbantrittserklärung des Verkäufers gilt auch für den Käufer\.
 
+\[ [🔗 Permalink](#-1282-abgb) \]
+
 ### § 1283 ABGB
 
 > Wurde dem Verkauf der Erbschaft ein Inventar zugrunde gelegt, so haftet der Verkäufer für dasselbe\. Andernfalls haftet er für die Richtigkeit seines Erbrechts, wie er es angegeben hat, und für jeden dem Käufer durch sein Verschulden zugefügten Schaden\.
+
+\[ [🔗 Permalink](#-1283-abgb) \]
 
 ### § 1284 ABGB — 5) Leibrente;
 
 > Wird jemanden für Geld, oder gegen eine für Geld geschätzte Sache auf die Lebensdauer einer gewissen Person eine bestimmte jährliche Entrichtung versprochen; so ist es ein Leibrentenvertrag\.
 
+\[ [🔗 Permalink](#-1284-abgb--5-leibrente) \]
+
 ### § 1285 ABGB
 
 > Die Dauer der Leibrente kann von dem Leben des einen oder andern Theiles, oder auch eines Dritten abhängen\. Sie wird im Zweifel vierteljährig vorhinein entrichtet; und nimmt in allen Fällen mit dem Leben desjenigen, auf dessen Kopf sie beruht, ihr Ende\.
+
+\[ [🔗 Permalink](#-1285-abgb) \]
 
 ### § 1286 ABGB
 
 > Weder die Gläubiger, noch die Kinder desjenigen, welcher sich eine Leibrente bedingt, sind berechtiget, den Vertrag umzustoßen\. Doch steht den Erstern frey, ihre Befriedigung aus den Leibrenten zu suchen; den Letztern aber, die Hinterlegung eines entbehrlichen Theiles der Rente zu fordern, um sich den ihnen nach dem Gesetze gebührenden Unterhalt darauf versichern zu lassen\.
 
+\[ [🔗 Permalink](#-1286-abgb) \]
+
 ### § 1287 ABGB — 6) gesellschaftliche Versorgungsanstalten;
 
 > Der Vertrag, wodurch vermittelst einer Einlage ein gemeinschaftlicher Versorgungsfond für die Mitglieder, ihre Gattinnen oder Waisen errichtet wird, ist aus der Natur und dem Zwecke einer solchen Anstalt, und den darüber festgesetzten Bedingungen, zu beurtheilen\.
+
+\[ [🔗 Permalink](#-1287-abgb--6-gesellschaftliche-versorgungsanstalten) \]
 
 ### § 1288 ABGB — 7) Versicherungsvertrag;
 
 > Wenn jemand die Gefahr des Schadens, welcher einen Andern ohne dessen Verschulden treffen könnte, auf sich nimmt, und ihm gegen einen gewissen Preis den bedungenen Ersatz zu leisten verspricht; so entsteht der Versicherungsvertrag\. Der Versicherer haftet dabey für den zufälligen Schaden, und der Versicherte für den versprochenen Preis\.
 
+\[ [🔗 Permalink](#-1288-abgb--7-versicherungsvertrag) \]
+
 ### § 1289 ABGB
 
 > Der gewöhnliche Gegenstand dieses Vertrages sind Waaren, die zu Wasser oder zu Lande verführt werden\. Es können aber auch andere Sachen, z\. B\. Häuser und Grundstücke gegen Feuer\- Wasser\- und andere Gefahren versichert werden\.
+
+\[ [🔗 Permalink](#-1289-abgb) \]
 
 ### § 1290 ABGB
 
 > Ereignet sich der zufällige Schade, wofür die Entschädigung versichert worden ist; so muß der Versicherte, wenn kein unüberwindliches Hinderniß dazwischen kommt, oder nichts anderes verabredet worden ist, dem Versicherer, wenn sie sich im nähmlichen Orte befinden, binnen drey Tagen, sonst aber in derjenigen Zeitfrist davon Nachricht geben, welche zur Bekanntmachung der Annahme eines von einem Abwesenden gemachten Versprechens bestimmt worden ist \(§\. 862\)\. Unterläßt er die Anzeige; kann er den Unfall nicht erweisen; oder kann der Versicherer beweisen, daß der Schade aus Verschulden des Versicherten entstanden ist; so hat dieser auch keinen Anspruch auf die versicherte Summe\.
 
+\[ [🔗 Permalink](#-1290-abgb) \]
+
 ### § 1291 ABGB
 
 > Wenn der Untergang der Sache dem Versicherten; oder der gefahrlose Zustand derselben dem Versicherer zur Zeit des geschlossenen Vertrages schon bekannt war; so ist der Vertrag ungültig\.
 
+\[ [🔗 Permalink](#-1291-abgb) \]
+
 ### § 1292 ABGB — 8) Bodmerey- und See-Assecuranzen
 
 > Die Bestimmungen in Rücksicht der Versicherungen zur See; so wie die Vorschriften über den Bodmerey\-Vertrag sind ein Gegenstand der Seegesetze\.
+
+\[ [🔗 Permalink](#-1292-abgb--8-bodmerey--und-see-assecuranzen) \]
 
 ## Dreyßigstes Hauptstück.
 
@@ -7875,9 +10107,13 @@
 
 > Schade heißt jeder Nachtheil, welcher jemanden an Vermögen, Rechten oder seiner Person zugefüget worden ist\. Davon unterscheidet sich der Entgang des Gewinnes, den jemand nach dem gewöhnlichen Laufe der Dinge zu erwarten hat\.
 
+\[ [🔗 Permalink](#-1293-abgb--schade) \]
+
 ### § 1294 ABGB — Quellen der Beschädigung
 
 > Der Schade entspringt entweder aus einer widerrechtlichen Handlung, oder Unterlassung eines Anderen; oder aus einem Zufalle\. Die widerrechtliche Beschädigung wird entweder willkührlich, oder unwillkührlich zugefügt\. Die willkührliche Beschädigung aber gründet sich theils in einer bösen Absicht, wenn der Schade mit Wissen und Willen; theils in einem Versehen, wenn er aus schuldbarer Unwissenheit, oder aus Mangel der gehörigen Aufmerksamkeit, oder des gehörigen Fleißes verursachet worden ist\. Beydes wird ein Verschulden genannt\.
+
+\[ [🔗 Permalink](#-1294-abgb--quellen-der-beschädigung) \]
 
 ## Von der Verbindlichkeit zum Schadenersatze:
 
@@ -7887,109 +10123,163 @@
 
 > `(2)` Auch wer in einer gegen die guten Sitten verstoßenden Weise absichtlich Schaden zufügt, ist dafür verantwortlich, jedoch falls dies in Ausübung eines Rechtes geschah, nur dann, wenn die Ausübung des Rechtes offenbar den Zweck hatte, den anderen zu schädigen\.
 
+\[ [🔗 Permalink](#-1295-abgb--1-von-dem-schaden-aus-verschulden) \]
+
 ### § 1296 ABGB
 
 > Im Zweifel gilt die Vermuthung, daß ein Schade ohne Verschulden eines Anderen entstanden sey\.
+
+\[ [🔗 Permalink](#-1296-abgb) \]
 
 ### § 1297 ABGB
 
 > Es wird aber auch vermuthet, daß jeder welcher den Verstandesgebrauch besitzt, eines solchen Grades des Fleißes und der Aufmerksamkeit fähig sey, welcher bey gewöhnlichen Fähigkeiten angewendet werden kann\. Wer bey Handlungen, woraus eine Verkürzung der Rechte eines Anderen entsteht, diesen Grad des Fleißes oder der Aufmerksamkeit unterläßt, macht sich eines Versehens schuldig\.
 
+\[ [🔗 Permalink](#-1297-abgb) \]
+
 ### § 1298 ABGB
 
 > Wer vorgibt, daß er an der Erfüllung seiner vertragsmäßigen oder gesetzlichen Verbindlichkeit ohne sein Verschulden verhindert worden sey, dem liegt der Beweis ob\. Soweit er auf Grund vertraglicher Vereinbarung nur für grobe Fahrlässigkeit haftet, muß er auch beweisen, daß es an dieser Voraussetzung fehlt\.
+
+\[ [🔗 Permalink](#-1298-abgb) \]
 
 ### § 1299 ABGB — insbesondere: a) der Sachverständigen;
 
 > Wer sich zu einem Amte, zu einer Kunst, zu einem Gewerbe oder Handwerke öffentlich bekennet; oder wer ohne Noth freywillig ein Geschäft übernimmt, dessen Ausführung eigene Kunstkenntnisse, oder einen nicht gewöhnlichen Fleiß erfordert, gibt dadurch zu erkennen, daß er sich den nothwendigen Fleiß und die erforderlichen, nicht gewöhnlichen Kenntnisse zutraue; er muß daher den Mangel derselben vertreten\. Hat aber derjenige, welcher ihm das Geschäft überließ, die Unerfahrenheit desselben gewußt; oder, bey gewöhnlicher Aufmerksamkeit wissen können; so fällt zugleich dem Letzteren ein Versehen zur Last\.
 
+\[ [🔗 Permalink](#-1299-abgb--insbesondere-a-der-sachverständigen) \]
+
 ### § 1300 ABGB
 
 > Ein Sachverständiger ist auch dann verantwortlich, wenn er gegen Belohnung in Angelegenheiten seiner Kunst oder Wissenschaft aus Versehen einen nachtheiligen Rath ertheilet\. Außer diesem Falle haftet ein Rathgeber nur für den Schaden, welchen er wissentlich durch Ertheilung des Rathes dem Anderen verursachet hat\.
+
+\[ [🔗 Permalink](#-1300-abgb) \]
 
 ### § 1301 ABGB — oder b) mehrere Theilnehmer;
 
 > Für einen widerrechtlich zugefügten Schaden können mehrere Personen verantwortlich werden, indem sie gemeinschaftlich, unmittelbarer oder mittelbarer Weise, durch Verleiten, Drohen, Befehlen, Helfen, Verhehlen u\. dgl\.; oder, auch nur durch Unterlassung der besonderen Verbindlichkeit, das Uebel zu verhindern, dazu beygetragen haben\.
 
+\[ [🔗 Permalink](#-1301-abgb--oder-b-mehrere-theilnehmer) \]
+
 ### § 1302 ABGB
 
 > In einem solchen Falle verantwortet, wenn die Beschädigung in einem Versehen gegründet ist, und die Antheile sich bestimmen lassen, jeder nur den durch sein Versehen verursachten Schaden\. Wenn aber der Schade vorsätzlich zugefügt worden ist; oder, wenn die Antheile der Einzelnen an der Beschädigung sich nicht bestimmen lassen, so haften Alle für Einen, und Einer für Alle; doch bleibt demjenigen, welcher den Schaden ersetzt hat, der Rückersatz gegen die Uebrigen vorbehalten\.
+
+\[ [🔗 Permalink](#-1302-abgb) \]
 
 ### § 1303 ABGB
 
 > In wie weit mehrere Mitschuldner bloß aus der unterlassenen Erfüllung ihrer Verbindlichkeit zu haften haben, ist aus der Beschaffenheit des Vertrages zu beurtheilen\.
 
+\[ [🔗 Permalink](#-1303-abgb) \]
+
 ### § 1304 ABGB
 
 > Wenn bey einer Beschädigung zugleich ein Verschulden von Seite des Beschädigten eintritt; so trägt er mit dem Beschädiger den Schaden verhältnißmäßig; und, wenn sich das Verhältniß nicht bestimmen läßt, zu gleichen Theilen\.
+
+\[ [🔗 Permalink](#-1304-abgb) \]
 
 ### § 1305 ABGB — 2) aus dem Gebrauche des Rechtes;
 
 > Wer von seinem Rechte innerhalb der rechtlichen Schranken \(§ 1295, Absatz 2\) Gebrauch macht, hat den für einen anderen daraus entspringenden Nachteil nicht zu verantworten\.
 
+\[ [🔗 Permalink](#-1305-abgb--2-aus-dem-gebrauche-des-rechtes) \]
+
 ### § 1306 ABGB — 3. aus einer schuldlosen oder unwillkührlichen Handlung;
 
 > Den Schaden, welchen jemand ohne Verschulden oder durch eine unwillkührliche Handlung verursachet hat, ist er in der Regel zu ersetzen nicht schuldig\.
+
+\[ [🔗 Permalink](#-1306-abgb--3-aus-einer-schuldlosen-oder-unwillkührlichen-handlung) \]
 
 ### § 1306a ABGB
 
 > Wenn jemand im Notstand einen Schaden verursacht, um eine unmittelbar drohende Gefahr von sich oder anderen abzuwenden, hat der Richter unter Erwägung, ob der Beschädigte die Abwehr aus Rücksicht auf die dem anderen drohende Gefahr unterlassen hat, sowie des Verhältnisses der Größe der Beschädigung zu dieser Gefahr oder endlich des Vermögens des Beschädigers und des Beschädigten zu erkennen, ob und in welchem Umfange der Schaden zu ersetzen ist\.
 
+\[ [🔗 Permalink](#-1306a-abgb) \]
+
 ### § 1307 ABGB
 
 > Wenn sich jemand aus eigenem Verschulden in einen Zustand der Sinnesverwirrung oder in einen Notstand versetzt hat, so ist auch der in demselben verursachte Schade seinem Verschulden zuzuschreiben\. Eben dieses gilt auch von einem Dritten, der durch sein Verschulden diese Lage bei dem Beschädiger veranlaßt hat\.
+
+\[ [🔗 Permalink](#-1307-abgb) \]
 
 ### § 1308 ABGB
 
 > Wenn Personen, die den Gebrauch der Vernunft nicht haben, oder Unmündige jemanden beschädigen, der durch irgendein Verschulden hierzu selbst Veranlassung gegeben hat, so kann er keinen Ersatz ansprechen\.
 
+\[ [🔗 Permalink](#-1308-abgb) \]
+
 ### § 1309 ABGB
 
 > Außer diesem Falle gebührt ihm der Ersatz von denjenigen Personen, denen der Schade wegen Vernachlässigung der ihnen über solche Personen anvertrauten Obsorge beygemessen werden kann\.
+
+\[ [🔗 Permalink](#-1309-abgb) \]
 
 ### § 1310 ABGB
 
 > Kann der Beschädigte auf solche Art den Ersatz nicht erhalten, so soll der Richter mit Erwägung des Umstandes, ob dem Beschädiger, ungeachtet er gewöhnlich seines Verstandes nicht mächtig ist, in dem bestimmten Falle nicht dennoch ein Verschulden zur Last liege; oder, ob der Beschädigte aus Schonung des Beschädigers die Vertheidigung unterlassen habe; oder endlich, mit Rücksicht auf das Vermögen des Beschädigers und des Beschädigten, auf den ganzen Ersatz, oder doch einen billigen Theil desselben erkennen\.
 
+\[ [🔗 Permalink](#-1310-abgb) \]
+
 ### § 1311 ABGB — 4. durch Zufall;
 
 > Der bloße Zufall trifft denjenigen, in dessen Vermögen oder Person er sich ereignet\. Hat aber jemand den Zufall durch ein Verschulden veranlaßt; hat er ein Gesetz, das den zufälligen Beschädigungen vorzubeugen sucht, übertreten; oder sich ohne Noth in fremde Geschäfte gemengt, so haftet er für allen Nachtheil, welcher außer dem nicht erfolgt wäre\.
+
+\[ [🔗 Permalink](#-1311-abgb--4-durch-zufall) \]
 
 ### § 1312 ABGB
 
 > Wer in einem Nothfalle jemanden einen Dienst geleistet hat, dem wird der Schade, welchen er nicht verhüthet hat, nicht zugerechnet; es wäre denn, daß er einen Anderen, der noch mehr geleistet haben würde, durch seine Schuld daran verhindert hätte\. Aber auch in diesem Falle kann er den sicher verschafften Nutzen gegen den verursachten Schaden in Rechnung bringen\.
 
+\[ [🔗 Permalink](#-1312-abgb) \]
+
 ### § 1313 ABGB — 5) durch fremde Handlungen;
 
 > Für fremde, widerrechtliche Handlungen, woran jemand keinen Theil genommen hat, ist er in der Regel auch nicht verantwortlich\. Selbst in den Fällen, wo die Gesetze das Gegentheil anordnen, bleibt ihm der Rückersatz gegen den Schuldtragenden vorbehalten\.
+
+\[ [🔗 Permalink](#-1313-abgb--5-durch-fremde-handlungen) \]
 
 ### § 1313a ABGB
 
 > Wer einem andern zu einer Leistung verpflichtet ist, haftet ihm für das Verschulden seines gesetzlichen Vertreters sowie der Personen, deren er sich zur Erfüllung bedient, wie für sein eigenes\.
 
+\[ [🔗 Permalink](#-1313a-abgb) \]
+
 ### § 1314 ABGB
 
 > Wer eine Dienstperson ohne Zeugnis aufnimmt oder wissentlich eine durch ihre Leibes\- oder Gemütsbeschaffenheit gefährliche Person im Dienste behält oder ihr Aufenthalt gibt, haftet dem Hausherrn und den Hausgenossen für den Ersatz des durch die gefährliche Beschaffenheit dieser Personen verursachten Schadens\.
+
+\[ [🔗 Permalink](#-1314-abgb) \]
 
 ### § 1315 ABGB
 
 > Überhaupt haftet derjenige, welcher sich einer untüchtigen oder wissentlich einer gefährlichen Person zur Besorgung seiner Angelegenheiten bedient, für den Schaden, den sie in dieser Eigenschaft einem Dritten zufügt\.
 
+\[ [🔗 Permalink](#-1315-abgb) \]
+
 ### § 1316 ABGB
 
 > Gastwirte, die Fremde beherbergen, sowie die anderen in § 970 bezeichneten Personen, ferner Fuhrleute haften für den Schaden, welchen ihre eigenen oder die von ihnen zugewiesenen Dienstpersonen an den eingebrachten oder übernommenen Sachen einem Gast oder Reisenden in ihrem Hause, ihrer Anstalt oder ihrem Fahrzeuge verursachen\.
+
+\[ [🔗 Permalink](#-1316-abgb) \]
 
 ### § 1317 ABGB
 
 > In wie fern bey öffentlichen Versendungsanstalten für den Schaden eine Haftung übernommen werde, bestimmen die besonderen Vorschriften\.
 
+\[ [🔗 Permalink](#-1317-abgb) \]
+
 ### § 1318 ABGB
 
 > Wird jemand durch das Herabfallen einer gefährlich aufgehängten oder gestellten Sache, oder durch Herauswerfen oder Herausgießen aus einer Wohnung beschädiget; so haftet derjenige, aus dessen Wohnung geworfen oder gegossen worden, oder die Sache herabgefallen ist, für den Schaden\.
 
+\[ [🔗 Permalink](#-1318-abgb) \]
+
 ### § 1319 ABGB — 6. Durch ein Bauwerk
 
 > Wird durch Einsturz oder Ablösung von Teilen eines Gebäudes oder eines anderen auf einem Grundstück aufgeführten Werkes jemand verletzt oder sonst ein Schaden verursacht, so ist der Besitzer des Gebäudes oder Werkes zum Ersatze verpflichtet, wenn die Ereignung die Folge der mangelhaften Beschaffenheit des Werkes ist und er nicht beweist, daß er alle zur Abwendung der Gefahr erforderliche Sorgfalt angewendet habe\.
+
+\[ [🔗 Permalink](#-1319-abgb--6-durch-ein-bauwerk) \]
 
 ### § 1319a ABGB — 6a. durch einen Weg;
 
@@ -7998,6 +10288,8 @@
 > `(2)` Ein Weg im Sinn des Abs\. 1 ist eine Landfläche, die von jedermann unter den gleichen Bedingungen für den Verkehr jeder Art oder für bestimmte Arten des Verkehres benützt werden darf, auch wenn sie nur für einen eingeschränkten Benützerkreis bestimmt ist; zu einem Weg gehören auch die in seinem Zug befindlichen und dem Verkehr dienenden Anlagen, wie besonders Brücken, Stützmauern, Futtermauern, Durchlässe, Gräben und Pflanzungen\. Ob der Zustand eines Weges mangelhaft ist, richtet sich danach, was nach der Art des Weges, besonders nach seiner Widmung, für seine Anlage und Betreuung angemessen und zumutbar ist\.
 
 > `(3)` Ist der mangelhafte Zustand durch Leute des Haftpflichtigen verschuldet worden, so haften auch sie nur bei Vorsatz oder grober Fahrlässigkeit\.
+
+\[ [🔗 Permalink](#-1319a-abgb--6a-durch-einen-weg) \]
 
 ### § 1319b ABGB — 6b. durch einen Baum
 
@@ -8009,27 +10301,39 @@
 
 > `(4)` § 176 Forstgesetz 1975 bleibt unberührt\.
 
+\[ [🔗 Permalink](#-1319b-abgb--6b-durch-einen-baum) \]
+
 ### § 1320 ABGB — 7. Durch ein Tier
 
 > `(1)` Wird jemand durch ein Tier beschädigt, so ist derjenige dafür verantwortlich, der es dazu angetrieben, gereizt oder zu verwahren vernachlässigt hat\. Derjenige, der das Tier hält, ist verantwortlich, wenn er nicht beweist, daß er für die erforderliche Verwahrung oder Beaufsichtigung gesorgt hatte\.
 
 > `(2)` In der Alm\- und Weidewirtschaft kann der Halter bei Beurteilung der Frage, welche Verwahrung erforderlich ist, auf anerkannte Standards der Tierhaltung zurückgreifen\. Andernfalls hat er die im Hinblick auf die ihm bekannte Gefährlichkeit der Tiere, die ihm zumutbaren Möglichkeiten zur Vermeidung solcher Gefahren und die erwartbare Eigenverantwortung anderer Personen gebotenen Maßnahmen zu ergreifen\. Die erwartbare Eigenverantwortung der Besucher von Almen und Weiden richtet sich nach den durch die Alm\- und Weidewirtschaft drohenden Gefahren, der Verkehrsübung und anwendbaren Verhaltensregeln\.
 
+\[ [🔗 Permalink](#-1320-abgb--7-durch-ein-tier) \]
+
 ### § 1321 ABGB
 
 > Wer auf seinem Grund und Boden fremdes Vieh antrifft, ist deßwegen noch nicht berechtiget, es zu töten\. Er kann es durch anpassende Gewalt verjagen, oder wenn er dadurch Schaden gelitten hat, das Recht der Privat\-Pfändung über so viele Stücke Viehes ausüben, als zu seiner Entschädigung hinreichet\. Doch muß er binnen acht Tagen sich mit dem Eigenthümer abfinden, oder seine Klage vor den Richter bringen; widrigen Falls aber das gepfändete Vieh zurückstellen\.
+
+\[ [🔗 Permalink](#-1321-abgb) \]
 
 ### § 1322 ABGB
 
 > Das gepfändete Vieh muß auch zurückgestellet werden, wenn der Eigenthümer eine andere angemessene Sicherheit leistet\.
 
+\[ [🔗 Permalink](#-1322-abgb) \]
+
 ### § 1323 ABGB — Arten des Schadenersatzes
 
 > Um den Ersatz eines verursachten Schadens zu leisten, muß Alles in den vorigen Stand zurückversetzt, oder, wenn dieses nicht thunlich ist, der Schätzungswerth vergütet werden\. Betrifft der Ersatz nur den erlittenen Schaden, so wird er eigentlich eine Schadloshaltung; wofern er sich aber auch auf den entgangenen Gewinn und die Tilgung der verursachten Beleidigung erstreckt, volle Genugthuung genannt\.
 
+\[ [🔗 Permalink](#-1323-abgb--arten-des-schadenersatzes) \]
+
 ### § 1324 ABGB
 
 > In dem Falle eines aus böser Absicht oder aus einer auffallenden Sorglosigkeit verursachten Schadens ist der Beschädigte volle Genugthung *\(Anm\.: richtig: Genugthuung\)*; in den übrigen Fällen aber nur die eigentliche Schadloshaltung zu fordern berechtiget\. Hiernach ist in den Fällen, wo im Gesetze der allgemeine Ausdruck: Ersatz, vorkommt, zu beurtheilen, welche Art des Ersatzes zu leisten sey\.
+
+\[ [🔗 Permalink](#-1324-abgb) \]
 
 ## Insbesondere
 
@@ -8037,17 +10341,25 @@
 
 > Wer jemanden an seinem Körper verletzet, bestreitet die Heilungskosten des Verletzten; ersetzet ihm den entgangenen, oder wenn der Beschädigte zum Erwerb unfähig wird, auch den künftig entgehenden Verdienst und bezahlt ihm auf Verlangen überdieß ein den erhobenen Umständen angemessenes Schmerzengeld\.
 
+\[ [🔗 Permalink](#-1325-abgb--1-bey-verletzungen-an-dem-körper) \]
+
 ### § 1326 ABGB
 
 > Ist die verletzte Person durch die Mißhandlung verunstaltet worden; so muß, zumahl wenn sie weiblichen Geschlechtes ist, in so fern auf diesen Umstand Rücksicht genommen werden, als ihr besseres Fortkommen dadurch verhindert werden kann\.
+
+\[ [🔗 Permalink](#-1326-abgb) \]
 
 ### § 1327 ABGB
 
 > Erfolgt aus einer körperlichen Verletzung der Tod, so müssen nicht nur alle Kosten, sondern auch den Hinterbliebenen, für deren Unterhalt der Getötete nach dem Gesetze zu sorgen hatte, das, was ihnen dadurch entgangen ist, ersetzt werden\.
 
+\[ [🔗 Permalink](#-1327-abgb) \]
+
 ### § 1328 ABGB — 1a. an der geschlechtlichen Selbstbestimmung
 
 > Wer jemanden durch eine strafbare Handlung oder sonst durch Hinterlist, Drohung oder Ausnutzung eines Abhängigkeits\- oder Autoritätsverhältnisses zur Beiwohnung oder sonst zu geschlechtlichen Handlungen mißbraucht, hat ihm den erlittenen Schaden und den entgangenen Gewinn zu ersetzen sowie eine angemessene Entschädigung für die erlittene Beeinträchtigung zu leisten\.
+
+\[ [🔗 Permalink](#-1328-abgb--1a-an-der-geschlechtlichen-selbstbestimmung) \]
 
 ### § 1328a ABGB — 1b. am Recht auf Wahrung der Privatsphäre
 
@@ -8055,9 +10367,13 @@
 
 > `(2)` Abs\. 1 ist nicht anzuwenden, sofern eine Verletzung der Privatsphäre nach besonderen Bestimmungen zu beurteilen ist\. Die Verantwortung für Verletzungen der Privatsphäre durch Medien richtet sich bei Dazwischentreten eines medienrechtlich Verantwortlichen allein nach den Bestimmungen des Mediengesetzes, BGBl\. Nr\. 314/1981, in der jeweils geltenden Fassung\.
 
+\[ [🔗 Permalink](#-1328a-abgb--1b-am-recht-auf-wahrung-der-privatsphäre) \]
+
 ### § 1329 ABGB — 2) an der persönlichen Freyheit;
 
 > Wer jemanden durch gewaltsame Entführung, durch Privatgefangennehmung oder vorsätzlich durch einen widerrechtlichen Arrest seiner Freiheit beraubt, ist verpflichtet, dem Verletzten die vorige Freiheit zu verschaffen und volle Genugtuung zu leisten\. Kann er ihm die Freiheit nicht mehr verschaffen, so muß er den Hinterbliebenen, wie bei der Tötung, Ersatz leisten\.
+
+\[ [🔗 Permalink](#-1329-abgb--2-an-der-persönlichen-freyheit) \]
 
 ### § 1330 ABGB — 3) an der Ehre;
 
@@ -8065,17 +10381,25 @@
 
 > `(2)` Dies gilt auch, wenn jemand Tatsachen verbreitet, die den Kredit, den Erwerb oder das Fortkommen eines anderen gefährden und deren Unwahrheit er kannte oder kennen mußte\. In diesem Falle kann auch der Widerruf und die Veröffentlichung desselben verlangt werden\. Für eine nicht öffentlich vorgebrachte Mitteilung, deren Unwahrheit der Mitteilende nicht kennt, haftet er nicht, wenn er oder der Empfänger der Mitteilung an ihr ein berechtigtes Interesse hatte\.
 
+\[ [🔗 Permalink](#-1330-abgb--3-an-der-ehre) \]
+
 ### § 1331 ABGB — 4) an dem Vermögen
 
 > Wird jemand an seinem Vermögen vorsätzlich oder durch auffallende Sorglosigkeit eines Anderen beschädiget; so ist er auch den entgangenen Gewinn, und, wen der Schade vermittelst einer durch ein Strafgesetz verbothenen Handlung oder aus Muthwillen und Schadenfreude verursachet worden ist, den Werth der besonderen Vorliebe zu fordern berechtiget\.
+
+\[ [🔗 Permalink](#-1331-abgb--4-an-dem-vermögen) \]
 
 ### § 1332 ABGB
 
 > Der Schade, welcher aus einem minderen Grade des Versehens oder der Nachlässigkeit verursachet worden ist, wird nach dem gemeinen Werthe, den die Sache zur Zeit der Beschädigung hatte, ersetzet\.
 
+\[ [🔗 Permalink](#-1332-abgb) \]
+
 ### § 1332a ABGB
 
 > Wird ein Tier verletzt, so gebühren die tatsächlich aufgewendeten Kosten der Heilung oder der versuchten Heilung auch dann, wenn sie den Wert des Tieres übersteigen, soweit auch ein verständiger Tierhalter in der Lage des Geschädigten diese Kosten aufgewendet hätte\.
+
+\[ [🔗 Permalink](#-1332a-abgb) \]
 
 ## Besonders durch die Verzögerung der Zahlung.
 
@@ -8085,13 +10409,19 @@
 
 > `(2)` Der Gläubiger kann außer den gesetzlichen Zinsen auch den Ersatz anderer, vom Schuldner verschuldeter und ihm erwachsener Schäden geltend machen, insbesondere die notwendigen Kosten zweckentsprechender außergerichtlicher Betreibungs\- oder Einbringungsmaßnahmen, soweit diese in einem angemessenen Verhältnis zur betriebenen Forderung stehen\.
 
+\[ [🔗 Permalink](#-1333-abgb--gesetzliche-zinsen-und-weitere-schäden) \]
+
 ### § 1334 ABGB
 
 > Eine Verzögerung fällt einem Schuldner zur Last, wenn er den durch Gesetz oder Vertrag bestimmten Zahlungstag nicht einhält\. Sofern die Parteien nicht anderes vereinbart haben, hat der Schuldner seine Leistung bei vertragsgemäßer Erbringung der Gegenleistung ohne unnötigen Aufschub nach der Erfüllung durch den Gläubiger oder, wenn die Parteien ein solches Verfahren vereinbart haben, nach der Abnahme oder Überprüfung der Leistung des Gläubigers oder, wenn die Forderung der Höhe nach noch nicht feststeht, nach dem Eingang der Rechnung oder einer gleichwertigen Zahlungsaufforderung zu erbringen\. Ist die Zahlungszeit sonst nicht bestimmt, so trägt der Schuldner die Folgen der Zahlungsverzögerung, wenn er sich nach dem Tag der gerichtlichen oder außergerichtlichen Einmahnung nicht mit dem Gläubiger abgefunden hat\.
 
+\[ [🔗 Permalink](#-1334-abgb) \]
+
 ### § 1335 ABGB
 
 > Hat der Gläubiger die Zinsen ohne gerichtliche Einmahnung bis auf den Betrag der Hauptschuld steigen lassen, so erlischt das Recht, vom Kapital weitere Zinsen zu fordern\. Vom Tag der Streitanhängigkeit an können jedoch neuerdings Zinsen verlangt werden\.
+
+\[ [🔗 Permalink](#-1335-abgb) \]
 
 ### § 1336 ABGB — Bedingung des Vergütungsvertrages (Conventional-Strafe)
 
@@ -8101,21 +10431,31 @@
 
 > `(3)` Der Gläubiger kann neben einer Konventionalstrafe den Ersatz eines diese übersteigenden Schadens geltend machen\. Ist der Schuldner ein Verbraucher im Sinne des § 1 Abs\. 1 Z 2 und Abs\. 3 KSchG, so muss dies im Einzelnen ausgehandelt werden\.
 
+\[ [🔗 Permalink](#-1336-abgb--bedingung-des-vergütungsvertrages-conventional-strafe) \]
+
 ### § 1337 ABGB — Verbindlichkeit der Erben des Beschädigers
 
 > Die Verbindlichkeit zum Ersatze des Schadens und des entgangenen Gewinnes, oder zur Entrichtung des bedungenen Vergütungsbetrages haftet auf dem Vermögen, und geht auf die Erben über\.
+
+\[ [🔗 Permalink](#-1337-abgb--verbindlichkeit-der-erben-des-beschädigers) \]
 
 ### § 1338 ABGB — Rechtsmittel der Entschädigung
 
 > Das Recht zum Schadenersatze muß in der Regel, wie jedes andere Privat\-Recht, bey dem ordentlichen Richter angebracht werden\. Hat der Beschädiger zugleich ein Strafgesetz übertreten; so trifft ihn auch die verhängte Strafe\. Die Verhandlung über den Schadensersatz aber gehöret auch in diesem Falle, in sofern sie nicht durch die Strafgesetze dem Strafgerichte oder der politischen Behörde aufgetragen ist, zu dem Civil\-Gerichte\.
 
+\[ [🔗 Permalink](#-1338-abgb--rechtsmittel-der-entschädigung) \]
+
 ### § 1340 ABGB
 
 > Diese Behörden haben in dem Falle, daß sich die Entschädigung unmittelbar bestimmen läßt, sogleich darüber nach den in diesem Hauptstücke ertheilten Vorschriften zu erkennen\. Wenn aber der Ersatz des Schadens nicht unmittelbar bestimmt werden kann, ist in dem Erkenntnisse überhaupt auszudrücken, daß dem Beschädigtem die Entschädigung im Wege Rechtens zu suchen vorbehalten bleibe\. Dieser Weg ist auch in Criminal\-Fällen dem Beschädigten, und in anderen Fällen beyden Theilen dann vorbehalten, wenn sie mit der von der Strafbehörde erfolgten Bestimmung des Ersatzes sich nicht befriedigen wollten\.
 
+\[ [🔗 Permalink](#-1340-abgb) \]
+
 ### § 1341 ABGB
 
 > Gegen das Verschulden eines Richters beschwert man sich bey der höheren Behörde\. Diese untersuchet und beurtheilet die Beschwerde von Amts wegen\.
+
+\[ [🔗 Permalink](#-1341-abgb) \]
 
 ## Dritter Theil
 
@@ -8133,17 +10473,25 @@
 
 > Sowohl Personenrechte als Sachenrechte, und daraus entspringende Verbindlichkeiten können gleichförmig befestiget, umgeändert und aufgehoben werden\.
 
+\[ [🔗 Permalink](#-1342-abgb--gemeinschaftliche-bestimmungen-der-rechte) \]
+
 ### § 1343 ABGB — Arten der Befestigung eines Rechtes:
 
 > Die rechtlichen Arten der Sicherstellung einer Verbindlichkeit und der Befestigung eines Rechtes, durch welche dem Berechtigten ein neues Recht eingeräumet wird, sind: die Verpflichtung eines Dritten für den Schuldner, und die Verpfändung\.
+
+\[ [🔗 Permalink](#-1343-abgb--arten-der-befestigung-eines-rechtes) \]
 
 ### § 1344 ABGB — I) durch Verpflichtung eines Dritten
 
 > Ein Dritter kann sich dem Gläubiger für den Schuldner auf dreyerley Art verpflichten: ein Mahl, wenn er mit Einwilligung des Gläubigers die Schuld als Alleinzahler übernimmt; dann, wenn er der Verbindlichkeit als Mitschuldner beytritt; endlich, wenn er sich für die Befriedigung des Gläubigers auf den Fall verbindet, daß der erste Schuldner die Verbindlichkeit nicht erfülle\.
 
+\[ [🔗 Permalink](#-1344-abgb--i-durch-verpflichtung-eines-dritten) \]
+
 ### § 1345 ABGB
 
 > Wenn jemand mit Einwilligung des Gläubigers die ganze Schuld eines Andern übernimmt; so geschieht keine Befestigung, sondern eine Umänderung der Verbindlichkeit, wovon in dem folgenden Hauptstücke gehandelt wird\.
+
+\[ [🔗 Permalink](#-1345-abgb) \]
 
 ### § 1346 ABGB — a) Als Bürge;
 
@@ -8151,117 +10499,175 @@
 
 > `(2)` Zur Gültigkeit des Bürgschaftsvertrages ist erforderlich, daß die Verpflichtungserklärung des Bürgen schriftlich abgegeben wird\.
 
+\[ [🔗 Permalink](#-1346-abgb--a-als-bürge) \]
+
 ### § 1347 ABGB — b) Als Mitschuldner;
 
 > Wenn jemand, ohne die den Bürgen zu Statten kommende Bedingung, einer Verbindlichkeit als Mitschuldner beytritt; so entsteht eine Gemeinschaft mehrerer Mitschuldner; deren rechtliche Folgen nach den in dem Hauptstücke von Verträgen überhaupt gegebenen Vorschriften zu beurtheilen sind \(§§\. 888 – 896\)\.
+
+\[ [🔗 Permalink](#-1347-abgb--b-als-mitschuldner) \]
 
 ### § 1348 ABGB — Entschädigungsbürge
 
 > Wer dem Bürgen auf den Fall, daß derselbe durch seine Bürgschaft zu Schaden kommen sollte, Entschädigung zusagt, heißt Entschädigungsbürge\.
 
+\[ [🔗 Permalink](#-1348-abgb--entschädigungsbürge) \]
+
 ### § 1349 ABGB — Wer sich verbürgen könne
 
 > Fremde Verbindlichkeiten kann ohne Unterschied des Geschlechtes jedermann auf sich nehmen, dem die freye Verwaltung seines Vermögens zusteht\.
+
+\[ [🔗 Permalink](#-1349-abgb--wer-sich-verbürgen-könne) \]
 
 ### § 1350 ABGB — Für welche Verbindlichkeiten
 
 > Eine Bürgschaft kann nicht nur über Summen und Sachen, sondern auch über erlaubte Handlungen und Unterlassungen in Beziehung auf den Vortheil oder Nachtheil, welcher aus denselben für den Sichergestellten entstehen kann, geleistet werden\.
 
+\[ [🔗 Permalink](#-1350-abgb--für-welche-verbindlichkeiten) \]
+
 ### § 1351 ABGB
 
 > Verbindlichkeiten, welche nie zu Recht bestanden haben, oder schon aufgehoben sind, können weder übernommen, noch bekräftiget werden\.
+
+\[ [🔗 Permalink](#-1351-abgb) \]
 
 ### § 1352 ABGB
 
 > Wer sich für eine Person verbürgt, die sich vermöge ihrer persönlichen Eigenschaft nicht verbinden kann, ist, obschon ihm diese Eigenschaft unbekannt war, gleich einem ungetheilten Mitschuldner verpflichtet \(§\. 896\)\.
 
+\[ [🔗 Permalink](#-1352-abgb) \]
+
 ### § 1353 ABGB — Umfang der Bürgschaft
 
 > Die Bürgschaft kann nicht weiter ausgedehnt werden, als sich der Bürge ausdrücklich erkläret hat\. Wer sich für ein zinsbares Capital verbürget, haftet nur für jene rückständigen Zinsen, welche der Gläubiger noch nicht einzutreiben berechtiget war\.
+
+\[ [🔗 Permalink](#-1353-abgb--umfang-der-bürgschaft) \]
 
 ### § 1354 ABGB
 
 > Von der Einwendung, wodurch ein Schuldner nach Vorschrift der Gesetze die Beybehaltung eines Theiles seines Vermögens zu seinem Unterhalte zu fordern berechtiget ist, kann der Bürge nicht Gebrauch machen\.
 
+\[ [🔗 Permalink](#-1354-abgb) \]
+
 ### § 1355 ABGB — Wirkung
 
 > Der Bürge kann in der Regel erst dann belanget werden, wenn der Hauptschuldner auf des Gläubigers gerichtliche oder außergerichtliche Einmahnung seine Verbindlichkeit nicht erfüllet hat\.
+
+\[ [🔗 Permalink](#-1355-abgb--wirkung) \]
 
 ### § 1356 ABGB
 
 > Der Bürge kann aber, selbst wenn er sich ausdrücklich nur für den Fall verbürget hat, daß der Hauptschuldner zu zahlen unvermögend sey, zuerst belanget werden, wenn über das Vermögen des Hauptschuldners das Insolvenzverfahren eröffnet wurde oder wenn der Hauptschuldner zu der Zeit, als die Zahlung geleistet werden sollte, unbekannten Aufenthaltes, und der Gläubiger keiner Nachlässigkeit zu beschuldigen ist\.
 
+\[ [🔗 Permalink](#-1356-abgb) \]
+
 ### § 1357 ABGB
 
 > Wer sich als Bürge und Zahler verpflichtet hat, haftet als ungetheilter Mitschuldner für die ganze Schuld; es hängt von der Willkühr des Gläubigers ab, ob er zuerst den Hauptschuldner, oder den Bürgen oder beyde zugleich belangen wolle \(§\. 891\)\.
+
+\[ [🔗 Permalink](#-1357-abgb) \]
 
 ### § 1358 ABGB
 
 > Wer eine fremde Schuld bezahlt, für die er persönlich oder mit bestimmten Vermögensstücken haftet, tritt in die Rechte des Gläubigers und ist befugt, von dem Schuldner den Ersatz der bezahlten Schuld zu fordern\. Zu diesem Ende ist der befriedigte Gläubiger verbunden, dem Zahler alle vorhandenen Rechtsbehelfe und Sicherungsmittel auszuliefern\.
 
+\[ [🔗 Permalink](#-1358-abgb) \]
+
 ### § 1359 ABGB
 
 > Haben für den nähmlichen ganzen Betrag mehrere Personen Bürgschaft geleistet; so haftet jede für den ganzen Betrag\. Hat aber Eine von ihnen die ganze Schuld abgetragen; so gebührt ihr gleich dem Mitschuldner \(§\. 896\) das Recht des Rückersatzes gegen die übrigen\.
+
+\[ [🔗 Permalink](#-1359-abgb) \]
 
 ### § 1360 ABGB
 
 > Wenn dem Gläubiger vor, oder bey Leistung der Bürgschaft noch außer derselben von dem Hauptschuldner, oder einem Dritten ein Pfand gegeben wird; so steht ihm zwar noch immer frey, den Bürgen der Ordnung nach \(§\. 1355\) zu belangen; aber er ist nicht befugt, zu dessen Nachtheil sich des Pfandes zu begeben\.
 
+\[ [🔗 Permalink](#-1360-abgb) \]
+
 ### § 1361 ABGB
 
 > Hat der Bürge oder Zahler den Gläubiger befriediget, ohne sich mit dem Hauptschuldner einzuverstehen; so kann dieser Alles gegen jene einwenden, was er gegen den Gläubiger hätte einwenden können\.
+
+\[ [🔗 Permalink](#-1361-abgb) \]
 
 ### § 1362 ABGB
 
 > Der Bürge kann von dem Entschädigungsbürgen nur dann Entschädigung verlangen, wenn er sich den Schaden nicht durch sein eigenes Verschulden zugezogen hat\.
 
+\[ [🔗 Permalink](#-1362-abgb) \]
+
 ### § 1363 ABGB — Arten der Erlöschung der Bürgschaft
 
 > Die Verbindlichkeit des Bürgen hört verhältnißmäßig mit der Verbindlichkeit des Schuldners auf\. Hat sich der Bürge nur auf eine gewisse Zeit verpflichtet; so haftet er nur für diesen Zeitraum\. Die Entlassung eines Mitbürgen kommt diesem zwar gegen den Gläubiger; aber nicht gegen die übrigen Mitbürgen zu Statten \(§\. 896\)\.
+
+\[ [🔗 Permalink](#-1363-abgb--arten-der-erlöschung-der-bürgschaft) \]
 
 ### § 1364 ABGB
 
 > Durch den Verlauf der Zeit, binnen welcher der Schuldner hätte zahlen sollen, wird der Bürge, wenn auch der Gläubiger auf die Befriedigung nicht gedrungen hat, noch nicht von seiner Bürgschaft befreyet, allein er ist befugt, von dem Schuldner, wenn er mit dessen Einwilligung Bürgschaft geleistet hat, zu verlangen, daß er ihm Sicherheit verschaffe\. Auch der Gläubiger ist dem Bürgen in so weit verantwortlich, als dieser wegen dessen Saumseligkeit in Eintreibung der Schuld an Erhohlung des Ersatzes zu Schaden kommt\.
 
+\[ [🔗 Permalink](#-1364-abgb) \]
+
 ### § 1365 ABGB
 
 > Wenn gegen den Schuldner ein gegründetes Besorgniß der Zahlungsunfähigkeit oder der Entfernung aus den Erbländern, für welche dieses Gesetzbuch vorgeschrieben ist, eintritt; so steht dem Bürgen das Recht zu, von dem Schuldner die Sicherstellung der verbürgten Schuld zu verlangen\.
+
+\[ [🔗 Permalink](#-1365-abgb) \]
 
 ### § 1366 ABGB
 
 > Wenn das verbürgte Geschäft beendiget ist; so kann die Abrechnung und die Aufhebung der Bürgschaft gefordert werden\.
 
+\[ [🔗 Permalink](#-1366-abgb) \]
+
 ### § 1367 ABGB
 
 > Ist der Bürgschaftsvertrag weder durch eine Hypothek, noch durch ein Faustpfand befestiget; so erlischt er binnen drey Jahren nach dem Tode des Bürgen, wenn der Gläubiger in der Zwischenzeit unterlassen hat, von dem Erben die verfallene Schuld gerichtlich oder außergerichtlich einzumahnen\.
+
+\[ [🔗 Permalink](#-1367-abgb) \]
 
 ### § 1368 ABGB — II.) Durch Pfandvertrag
 
 > Pfandvertrag heißt derjenige Vertrag, wodurch der Schuldner, oder ein Anderer anstatt seiner auf eine Sache dem Gläubiger das Pfandrecht wirklich einräumet, folglich ihm das bewegliche Pfandstück übergibt, oder das unbewegliche durch die Pfandbücher verschreibt\. Der Vertrag, ein Pfand übergeben zu wollen, ist noch kein Pfandvertrag\.
 
+\[ [🔗 Permalink](#-1368-abgb--ii-durch-pfandvertrag) \]
+
 ### § 1369 ABGB — Wirkung des Pfandvertrages
 
 > Was bey Verträgen überhaupt Rechtens ist, gilt auch bey dem Pfandvertrage; er ist zweyseitig verbindlich\. Der Pfandnehmer muß das Handpfand wohl verwahren und es dem Verpfänder, so bald dieser die Befriedigung leistet, zurück geben\. Betrifft es eine Hypothek; so muß der befriedigte Gläubiger den Verpfänder in den Stand setzen, die Löschung der Verbindlichkeit aus den Hypotheken\-Büchern bewirken zu können\. Die mit dem Pfandbesitze verknüpften Rechte und Verbindlichkeiten des Pfandgebers und Pfandnehmers sind im sechsten Hauptstücke des zweyten Theiles bestimmt worden\.
+
+\[ [🔗 Permalink](#-1369-abgb--wirkung-des-pfandvertrages) \]
 
 ### § 1370 ABGB
 
 > Der Handpfandnehmer ist verbunden, dem Pfandgeber einen Pfandschein auszustellen, und darin die unterscheidenden Kennzeichen des Pfandes zu beschreiben\. Auch können die wesentlichen Bedingungen des Pfandvertrages in dem Pfandscheine angeführet werden\.
 
+\[ [🔗 Permalink](#-1370-abgb) \]
+
 ### § 1371 ABGB — Unerlaubte Bedingungen
 
 > Alle der Natur des Pfand\- und Darleihensvertrages entgegen stehende Bedingungen und Nebenverträge sind ungültig\. Dahin gehören die Verabredungen: daß nach der Verfallzeit der Schuldforderung das Pfandstück dem Gläubiger zufalle; daß er es nach Willkühr, oder in einem schon im voraus bestimmten Preise veräußern, oder für sich behalten könne; daß der Schuldner das Pfand niemahls einlösen, oder ein liegendes Gut keinem Andern verschreiben, oder daß der Gläubiger nach der Verfallzeit die Veräußerung des Pfandes nicht verlangen dürfe\.
+
+\[ [🔗 Permalink](#-1371-abgb--unerlaubte-bedingungen) \]
 
 ### § 1372 ABGB
 
 > Der Nebenvertrag, daß dem Gläubiger die Fruchtnießung der verpfändeten Sache zustehen solle, ist ohne rechtliche Wirkung\. Ist dem Gläubiger der bloße Gebrauch eines beweglichen Pfandstückes eingeräumt worden \(§\. 459\), so muß diese Benützung auf eine dem Schuldner unschädliche Art geschehen\.
 
+\[ [🔗 Permalink](#-1372-abgb) \]
+
 ### § 1373 ABGB — Auf welche Art in der Regel Sicherstellung zu leisten ist
 
 > Wer verbunden ist, eine Sicherstellung zu leisten, muß diese Verbindlichkeit durch ein Handpfand, oder durch eine Hypothek erfüllen\. Nur in dem Falle, daß er ein Pfand zu geben außer Stande ist, werden taugliche Bürgen angenommen\.
 
+\[ [🔗 Permalink](#-1373-abgb--auf-welche-art-in-der-regel-sicherstellung-zu-leisten-ist) \]
+
 ### § 1374 ABGB
 
 > Niemand ist verpflichtet, eine Sache, die zur Sicherstellung dienen soll, in einem höheren Wert als der Hälfte ihres Verkehrswertes zum Pfand anzunehmen\. Wer ein angemessenes Vermögen besitzt und im Inland geklagt werden kann, ist ein tauglicher Bürge\.
+
+\[ [🔗 Permalink](#-1374-abgb) \]
 
 ## Zweytes Hauptstück.
 
@@ -8271,89 +10677,133 @@
 
 > Es hängt von dem Willen des Gläubigers und des Schuldners ab, ihre gegenseitigen willkührlichen Rechte und Verbindlichkeiten umzuändern\. Die Umänderung kann ohne, oder mit Hinzukunft einer dritten Person, und zwar entweder eines neuen Gläubigers, oder eines neuen Schuldners geschehen\.
 
+\[ [🔗 Permalink](#-1375-abgb--umänderung-der-rechte-und-verbindlichkeiten) \]
+
 ### § 1376 ABGB — 1) durch Novation;
 
 > Die Umänderung ohne Hinzukunft einer dritten Person findet Statt, wenn der Rechtsgrund, oder wenn der Hauptgegenstand einer Forderung verwechselt wird, folglich die alte Verbindlichkeit in eine neue übergeht\.
+
+\[ [🔗 Permalink](#-1376-abgb--1-durch-novation) \]
 
 ### § 1377 ABGB
 
 > Eine solche Umänderung heißt Neuerungsvertrag \(Novation\)\. Vermöge dieses Vertrages hört die vorige Hauptverbindlichkeit auf, und die neue nimmt zugleich ihren Anfang\.
 
+\[ [🔗 Permalink](#-1377-abgb) \]
+
 ### § 1378 ABGB
 
 > Die mit der vorigen Hauptverbindlichkeit verknüpften Bürgschafts\- Pfand\- und anderen Rechte erlöschen durch den Neuerungsvertrag, wenn die Theilnehmer nicht durch ein besonderes Einverständniß hierüber etwas Anderes festgesetzt haben\.
+
+\[ [🔗 Permalink](#-1378-abgb) \]
 
 ### § 1379 ABGB
 
 > Die näheren Bestimmungen, wo, wann und wie eine schon vorhandene Verbindlichkeit erfüllet werden soll, und andere Nebenbestimmungen, wodurch in Rücksicht auf den Hauptgegenstand oder Rechtsgrund keine Umänderungen geschieht, sind eben so wenig als ein Neuerungsvertrag anzusehen, als die bloße Ausstellung eines neuen Schuldscheines, oder einer andern dahin gehörigen Urkunde\. Auch kann eine solche Abänderung in den Nebenbestimmungen einem Dritten, welcher derselben nicht beygezogen worden ist, keine neue Last auflegen\. Im Zweifel wird die alte Verbindlichkeit nicht für aufgelöst gehalten, so lange sie mit der neuen noch wohl bestehen kann\.
 
+\[ [🔗 Permalink](#-1379-abgb) \]
+
 ### § 1380 ABGB — 2) Vergleich
 
 > Ein Neuerungsvertrag, durch welchen streitige, oder zweifelhafte Rechte dergestalt bestimmt werden, daß jede Partey sich wechselseitig etwas zu geben, zu thun, oder zu unterlassen verbindet, heißt Vergleich\. Der Vergleich gehört zu den zweyseitig verbindlichen Verträgen, und wird nach eben denselben Grundsätzen beurtheilet\.
+
+\[ [🔗 Permalink](#-1380-abgb--2-vergleich) \]
 
 ### § 1381 ABGB
 
 > Wer dem Verpflichteten mit dessen Einwilligung ein unstreitiges oder zweifelhaftes Recht unentgeldlich erläßt, macht eine Schenkung \(§\. 939\)\.
 
+\[ [🔗 Permalink](#-1381-abgb) \]
+
 ### § 1382 ABGB — Ungültigkeit eines Vergleiches in Rücksicht des Gegenstandes;
 
 > Es gibt zweifelhafte Fälle, welche durch einen Vergleich nicht beygelegt werden dürfen\. Dahin gehört der zwischen Eheleuten über die Gültigkeit ihrer Ehe entstandene Streit\. Diesen kann nur der durch das Gesetz bestimmte Gerichtsstand entscheiden\.
+
+\[ [🔗 Permalink](#-1382-abgb--ungültigkeit-eines-vergleiches-in-rücksicht-des-gegenstandes) \]
 
 ### § 1383 ABGB
 
 > Ueber den Inhalt einer letzten Anordnung kann vor deren Bekanntmachung kein Vergleich errichtet werden\. Die hierüber entstandene Wette wird nach den Grundsätzen von Glücksverträgen beurtheilt\.
 
+\[ [🔗 Permalink](#-1383-abgb) \]
+
 ### § 1384 ABGB
 
 > Vergleiche über Gesetzübertretungen sind nur in Hinsicht auf die Privat\-Genugthuung gültig; die gesetzmäßige Untersuchung und Bestrafung kann dadurch bloß dann abgewendet werden, wenn die Uebertretungen von der Art sind, daß die Behörde nur auf Verlangen der Parteyen ihr Amt zu handeln angewiesen ist\.
+
+\[ [🔗 Permalink](#-1384-abgb) \]
 
 ### § 1385 ABGB — oder anderer Mängel
 
 > Ein Irrthum kann den Vergleich nur in so weit ungültig machen, als er die Wesenheit der Person, oder des Gegenstandes betrifft\.
 
+\[ [🔗 Permalink](#-1385-abgb--oder-anderer-mängel) \]
+
 ### § 1386 ABGB
 
 > Aus dem Grunde einer Verletzung über die Hälfte kann ein redlich errichteter Vergleich nicht angefochten werden\.
+
+\[ [🔗 Permalink](#-1386-abgb) \]
 
 ### § 1387 ABGB
 
 > Eben so wenig können neu gefundene Urkunden, wenn sie auch den gänzlichen Mangel eines Rechtes auf Seite einer Partey entdeckten, einen redlich eingegangenen Vergleich entkräften\.
 
+\[ [🔗 Permalink](#-1387-abgb) \]
+
 ### § 1388 ABGB
 
 > Ein offenbarer Rechnungsverstoß, oder ein Fehler, welcher bey dem Abschlusse eines Vergleiches in dem Summiren oder Abziehen begangen wird, schadet keinem der vertragmachenden Theile\.
+
+\[ [🔗 Permalink](#-1388-abgb) \]
 
 ### § 1389 ABGB — Umfang des Vergleiches
 
 > Ein Vergleich, welcher über eine besondere Streitigkeit geschlossen worden ist, erstreckt sich nicht auf andere Fälle\. Selbst allgemeine, auf alle Streitigkeiten überhaupt lautende Vergleiche sind auf solche Rechte nicht anwendbar, die geflissentlich verheimlichet worden sind, oder auf welche die sich vergleichenden Parteyen nicht denken konnten\.
 
+\[ [🔗 Permalink](#-1389-abgb--umfang-des-vergleiches) \]
+
 ### § 1390 ABGB — Wirkung in Rücksicht der Nebenverbindlichkeiten
 
 > Bürgen und Pfänder, welche zur Sicherheit des ganzen noch streitigen Rechtes gegeben worden sind, haften auch für den Theil, der durch den Vergleich bestimmt worden ist\. Doch bleiben dem Bürgen und einem dritten Verpfänder, welche dem Vergleiche nicht beygestimmt haben, alle Einwendungen gegen den Gläubiger vorbehalten, welche ohne geschlossenen Vergleich der Forderung hätten entgegengesetzt werden können\.
+
+\[ [🔗 Permalink](#-1390-abgb--wirkung-in-rücksicht-der-nebenverbindlichkeiten) \]
 
 ### § 1391 ABGB
 
 > Der Vertrag, wodurch Parteyen zur Entscheidung streitiger Rechte einen Schiedsrichter bestellen, erhält seine Bestimmung in der Gerichtsordnung\.
 
+\[ [🔗 Permalink](#-1391-abgb) \]
+
 ### § 1392 ABGB — 3) Cession
 
 > Wenn eine Forderung von einer Person an die andere übertragen, und von dieser angenommen wird; so entsteht die Umänderung des Rechtes mit Hinzukunft eines neuen Gläubigers\. Eine solche Handlung heißt Abtretung \(Cession\), und kann mit, oder ohne Entgeld geschlossen werden\.
+
+\[ [🔗 Permalink](#-1392-abgb--3-cession) \]
 
 ### § 1393 ABGB — Gegenstände der Cession
 
 > Alle veräußerliche Rechte sind ein Gegenstand der Abtretung\. Rechte, die der Person ankleben, folglich mit ihr erlöschen, können nicht abgetreten werden\. Schuldscheine, die auf den Ueberbringer lauten, werden schon durch die Uebergabe abgetreten, und bedürfen nebst dem Besitze keines andern Beweises der Abtretung\.
 
+\[ [🔗 Permalink](#-1393-abgb--gegenstände-der-cession) \]
+
 ### § 1394 ABGB — Wirkung
 
 > Die Rechte des Uebernehmers sind mit den Rechten des Ueberträgers in Rücksicht auf die überlassene Forderung eben dieselben\.
+
+\[ [🔗 Permalink](#-1394-abgb--wirkung) \]
 
 ### § 1395 ABGB
 
 > Durch den Abtretungsvertrag entsteht nur zwischen dem Ueberträger \(Cedent\) und dem Uebernehmer der Forderung \(Cessionar\); nicht aber zwischen dem Letzten und dem übernommenen Schuldner \(Cessus\) eine neue Verbindlichkeit\. Daher ist der Schuldner, so lange ihm der Uebernehmer nicht bekannt wird, berechtiget, den ersten Gläubiger zu bezahlen, oder sich sonst mit ihm abzufinden\.
 
+\[ [🔗 Permalink](#-1395-abgb) \]
+
 ### § 1396 ABGB
 
 > Dieses kann der Schuldner nicht mehr, so bald ihm der Uebernehmer bekannt gemacht worden ist; allein es bleibt ihm das Recht, seine Einwendungen gegen die Forderung anzubringen\. Hat er die Forderung gegen den redlichen Uebernehmer für richtig erkannt; so ist er verbunden, denselben als seinen Gläubiger zu befriedigen\.
+
+\[ [🔗 Permalink](#-1396-abgb) \]
 
 ### § 1396a ABGB — Zessionsverbot
 
@@ -8363,21 +10813,31 @@
 
 > `(3)` Die Abs\. 1 und 2 gelten nicht für Zessionsverbote, die zwischen einer juristischen Person des öffentlichen Rechts oder einer von dieser gegründeten Einrichtung und einem Förderungswerber vereinbart werden\.
 
+\[ [🔗 Permalink](#-1396a-abgb--zessionsverbot) \]
+
 ### § 1397 ABGB — Haftung des Cedenten
 
 > Wer eine Forderung ohne Entgeld abtritt, also verschenkt, haftet nicht weiter für dieselbe\. Kommt aber die Abtretung auf eine entgeldliche Art zu Stande; so haftet der Ueberträger dem Uebernehmer sowohl für die Richtigkeit, als für die Einbringlichkeit der Forderung, jedoch nie für mehr, als er von dem Uebernehmer erhalten hat\.
+
+\[ [🔗 Permalink](#-1397-abgb--haftung-des-cedenten) \]
 
 ### § 1398 ABGB
 
 > In so fern der Uebernehmer über die Einbringlichkeit der Forderung aus den öffentlichen Pfandbüchern sich belehren konnte, gebührt ihm in Rücksicht der Uneinbringlichkeit keine Entschädigung\. Auch für eine zur Zeit der Abtretung einbringliche, und durch einen bloßen Zufall oder durch Versehen des Uebernehmers uneinbringlich gewordene Forderung haftet der Ueberträger nicht\.
 
+\[ [🔗 Permalink](#-1398-abgb) \]
+
 ### § 1399 ABGB
 
 > Ein Versehen dieser Art begeht der Uebernehmer, wenn er die Forderung zur Zeit, als sie aufgekündiget werden kann, nicht aufkündiget, oder nach verfallener Zahlungsfrist nicht eintreibt; wenn er dem Schuldner nachsieht; wenn er die noch mögliche Sicherheit zu rechter Zeit sich zu verschaffen versäumt, oder die gerichtliche Execution zu betreiben unterläßt\.
 
+\[ [🔗 Permalink](#-1399-abgb) \]
+
 ### § 1400 ABGB — 4) Anweisung (Assignation)
 
 > Durch die Anweisung auf eine Leistung eines Dritten wird der Empfänger der Anweisung \(Assignatar\) zur Einhebung der Leistung bei dem Angewiesenen \(Assignat\) und der letztere zur Leistung an ersteren für Rechnung des Anweisenden \(Assignant\) ermächtigt\. Einen unmittelbaren Anspruch erlangt der Anweisungsempfänger gegen den Angewiesenen erst, wenn die Erklärung des Angewiesenen über die Annahme der Anweisung ihm zugekommen ist\.
+
+\[ [🔗 Permalink](#-1400-abgb--4-anweisung-assignation) \]
 
 ### § 1401 ABGB
 
@@ -8387,9 +10847,13 @@
 
 > `(3)` Die Tilgung der Schuld erfolgt, wenn nichts anderes vereinbart ist, erst durch die Leistung\.
 
+\[ [🔗 Permalink](#-1401-abgb) \]
+
 ### § 1402 ABGB
 
 > Hat der Angewiesene die Anweisung dem Empfänger gegenüber angenommen, so kann er diesem nur solche Einwendungen entgegensetzen, welche die Gültigkeit der Annahme betreffen oder sich aus dem Inhalte der Anweisung oder aus seinen persönlichen Beziehungen zum Empfänger ergeben\.
+
+\[ [🔗 Permalink](#-1402-abgb) \]
 
 ### § 1403 ABGB
 
@@ -8397,13 +10861,19 @@
 
 > `(2)` Der Anspruch des Empfängers gegen den Angewiesenen verjährt in drei Jahren\.
 
+\[ [🔗 Permalink](#-1403-abgb) \]
+
 ### § 1404 ABGB — 5. Schuldübernahme
 
 > Wer einem Schuldner verspricht, die Leistung an dessen Gläubiger zu bewirken \(Erfüllungsübernahme\), haftet dem Schuldner dafür, daß der Gläubiger ihn nicht in Anspruch nehme\. Dem Gläubiger erwächst daraus unmittelbar kein Recht\.
 
+\[ [🔗 Permalink](#-1404-abgb--5-schuldübernahme) \]
+
 ### § 1405 ABGB
 
 > Wer einem Schuldner erklärt, seine Schuld zu übernehmen \(Schuldübernahme\), tritt als Schuldner an dessen Stelle, wenn der Gläubiger einwilligt\. Bis diese Einwilligung erfolgt oder falls sie verweigert wird, haftet er wie bei Erfüllungsübernahme \(§ 1404\)\. Die Einwilligung des Gläubigers kann entweder dem Schuldner oder dem Übernehmer erklärt werden\.
+
+\[ [🔗 Permalink](#-1405-abgb) \]
 
 ### § 1406 ABGB
 
@@ -8411,15 +10881,21 @@
 
 > `(2)` Im Zweifel ist aber die dem Gläubiger erklärte Übernahme als Haftung neben dem bisherigen Schuldner, nicht an dessen Stelle zu verstehen\.
 
+\[ [🔗 Permalink](#-1406-abgb) \]
+
 ### § 1407 ABGB
 
 > `(1)` Die Verbindlichkeiten des Übernehmers sind mit den Verbindlichkeiten des bisherigen Schuldners in Rücksicht auf die übernommene Schuld ebendieselben\. Der Übernehmer kann dem Gläubiger die aus dem Rechtsverhältnis zwischen diesem und dem bisherigen Schuldner entspringenden Einwendungen entgegensetzen\.
 
 > `(2)` Die Nebenrechte der Forderung werden durch den Schuldnerwechsel nicht berührt\. Bürgen und von dritten Personen bestellte Pfänder haften jedoch nur dann fort, wenn der Bürge oder Verpfänder dem Schuldnerwechsel zugestimmt hat\.
 
+\[ [🔗 Permalink](#-1407-abgb) \]
+
 ### § 1408 ABGB
 
 > Übernimmt bei Veräußerung einer Liegenschaft der Erwerber ein auf ihr haftendes Pfandrecht, so ist dies im Zweifel als Schuldübernahme zu verstehen\. Der Veräußerer kann, nach vollzogener Übertragung des Eigentums, den Gläubiger zur Annahme des neuen Schuldners an seiner Stelle schriftlich mit der Wirkung auffordern, daß die Einwilligung als erteilt gilt, wenn sie nicht binnen sechs Monaten versagt wird\. Auf diese Wirkung muß in der Aufforderung ausdrücklich hingewiesen sein\.
+
+\[ [🔗 Permalink](#-1408-abgb) \]
 
 ### § 1409 ABGB
 
@@ -8429,13 +10905,19 @@
 
 > `(3)` Entgegenstehende Vereinbarungen zwischen Veräußerer und Übernehmer zum Nachteile der Gläubiger sind diesen gegenüber unwirksam\.
 
+\[ [🔗 Permalink](#-1409-abgb) \]
+
 ### § 1409a ABGB
 
 > Wer ein Vermögen oder ein Unternehmen im Weg eines Zwangsvollstreckungsverfahrens, eines Insolvenzverfahrens oder einer Überwachung des Schuldners durch einen Treuhänder der Gläubiger erwirbt, haftet nicht nach § 1409 Abs\. 1 und 2\.
 
+\[ [🔗 Permalink](#-1409a-abgb) \]
+
 ### § 1410 ABGB
 
 > Wird der Eintritt des neuen Schuldners an Stelle des bisherigen Schuldners in der Weise verabredet, daß an die Stelle des aufgehobenen Schuldverhältnisses eine Verpflichtung des neuen Schuldners aus selbständigem Rechtsgrunde oder unter Änderung des Hauptgegenstandes der Forderung gesetzt wird, so treten nicht die Wirkungen der Schuldübernahme, sondern eines Neuerungsvertrages \(§§ 1377, 1378\) ein\.
+
+\[ [🔗 Permalink](#-1410-abgb) \]
 
 ## Drittes Hauptstück.
 
@@ -8445,161 +10927,241 @@
 
 > Rechte und Verbindlichkeiten stehen in einem solchen Zusammenhange, daß mit Erlöschung des Rechtes die Verbindlichkeit, und mit Erlöschung der letzteren das Recht aufgehoben wird\.
 
+\[ [🔗 Permalink](#-1411-abgb--aufhebung-der-rechte-und-verbindlichkeiten) \]
+
 ### § 1412 ABGB — 1) Durch die Zahlung
 
 > Die Verbindlichkeit wird vorzüglich durch die Zahlung, das ist, durch die Leistung dessen, was man zu leisten schuldig ist, aufgelöset \(§\. 469\)\.
+
+\[ [🔗 Permalink](#-1412-abgb--1-durch-die-zahlung) \]
 
 ### § 1413 ABGB — Wie die Zahlung zu leisten
 
 > Gegen seinen Willen kann weder der Gläubiger gezwungen werden, etwas anderes anzunehmen, als er zu fordern hat, noch der Schuldner, etwas anders zu leisten, als er zu leisten verbunden ist\. Dieses gilt auch von der Zeit, dem Orte und der Art, die Verbindlichkeit zu erfüllen\.
 
+\[ [🔗 Permalink](#-1413-abgb--wie-die-zahlung-zu-leisten) \]
+
 ### § 1414 ABGB
 
 > Wird, weil der Gläubiger und der Schuldner einverstanden sind, oder weil die Zahlung selbst unmöglich ist, etwas anderes an Zahlungs Statt gegeben; so ist die Handlung als ein entgeldliches Geschäft zu betrachten\.
+
+\[ [🔗 Permalink](#-1414-abgb) \]
 
 ### § 1415 ABGB
 
 > Der Gläubiger ist nicht schuldig, die Zahlung einer Schuldpost theilweise, oder auf Abschlag anzunehmen\. Sind aber verschiedene Posten zu zahlen; so wird diejenige für abgetragen gehalten, welche der Schuldner, mit Einwilligung des Gläubigers tilgen zu wollen, sich ausdrücklich erkläret hat\.
 
+\[ [🔗 Permalink](#-1415-abgb) \]
+
 ### § 1416 ABGB
 
 > Wird die Willensmeinung des Schuldners bezweifelt, oder von dem Gläubiger widersprochen; so sollen zuerst die Zinsen, dann das Capital, von mehreren Capitalien aber dasjenige, welches schon eingefordert, oder wenigstens fällig ist, und nach diesem dasjenige, welches schuldig zu bleiben dem Schuldner am meisten beschwerlich fällt, abgerechnet werden\.
+
+\[ [🔗 Permalink](#-1416-abgb) \]
 
 ### § 1417 ABGB — wann;
 
 > Wenn die Zahlungsfrist auf keine Art bestimmt ist; so tritt die Verbindlichkeit, die Schuld zu zahlen, erst mit dem Tage ein, an welchem die Einmahnung geschehen ist \(§\. 904\)\. Für die Zahlungsfrist bei Erfüllung einer Geldschuld durch Banküberweisung gilt § 907a Abs\. 2\.
 
+\[ [🔗 Permalink](#-1417-abgb--wann) \]
+
 ### § 1418 ABGB
 
 > In gewissen Fällen wird die Zahlungsfrist durch die Natur der Sache bestimmt\. Alimente werden wenigstens auf einen Monath voraus bezahlt\. Stirbt der Verpflegte während dieser Zeit; so sind dessen Erben nicht schuldig, etwas von der Vorausbezahlung zurück zu geben\.
+
+\[ [🔗 Permalink](#-1418-abgb) \]
 
 ### § 1419 ABGB
 
 > Hat der Gläubiger gezögert, die Zahlung anzunehmen; so fallen die widrigen Folgen auf ihn\.
 
+\[ [🔗 Permalink](#-1419-abgb) \]
+
 ### § 1420 ABGB
 
 > Wenn der Ort und die Art der Leistung nicht bestimmt sind, so müssen die oben \(§ 905 Abs\. 1 und 2, § 906, § 907a Abs\. 1, § 907b\) aufgestellten Vorschriften angewendet werden\.
+
+\[ [🔗 Permalink](#-1420-abgb) \]
 
 ### § 1421 ABGB — von wem;
 
 > Auch eine Person, die sonst unfähig ist, ihr Vermögen zu verwalten, kann eine richtige und verfallene Schuld rechtmäßig abtragen, und sich ihrer Verbindlichkeit entledigen\. Hätte sie aber eine noch ungewisse, oder nicht verfallene Schuld abgetragen, so ist ihr gesetzlicher Vertreter berechtigt, das Geleistete zurückzufordern\.
 
+\[ [🔗 Permalink](#-1421-abgb--von-wem) \]
+
 ### § 1422 ABGB
 
 > Wer die Schuld eines anderen, für die er nicht haftet \(§ 1358\), bezahlt, kann vor oder bei der Zahlung vom Gläubiger die Abtretung seiner Rechte verlangen; hat er dies getan, so wirkt die Zahlung als Einlösung der Forderung\.
+
+\[ [🔗 Permalink](#-1422-abgb) \]
 
 ### § 1423 ABGB
 
 > Wird die Einlösung mit Einverständnis des Schuldners angeboten, so muß der Gläubiger die Zahlung annehmen; doch hat er außer dem Falle des Betruges für die Einbringlichkeit und Richtigkeit der Forderung nicht zu haften\. Ohne Einwilligung des Schuldners kann dem Gläubiger von einem Dritten in der Regel \(§ 462\) die Zahlung nicht aufgedrängt werden\.
 
+\[ [🔗 Permalink](#-1423-abgb) \]
+
 ### § 1424 ABGB — an wen;
 
 > Der Schuldbetrag muß dem Gläubiger oder dessen zum Empfange geeigneten Machthaber, oder demjenigen geleistet werden, den das Gericht als Eigenthümer der Forderung erkannt hat\. Was jemand an eine Person bezahlt hat, die ihr Vermögen nicht selbst verwalten darf, ist er in so weit wieder zu zahlen verbunden, als das Bezahlte nicht wirklich vorhanden, oder zum Nutzen des Empfängers verwendet worden ist\.
+
+\[ [🔗 Permalink](#-1424-abgb--an-wen) \]
 
 ### § 1425 ABGB — Gerichtliche Hinterlegung der Schuld
 
 > Kann eine Schuld aus dem Grunde, weil der Gläubiger unbekannt, abwesend, oder mit dem Angebothenen unzufrieden ist, oder aus andern wichtigen Gründen nicht bezahlet werden; so steht dem Schuldner bevor, die abzutragende Sache bey dem Gerichte zu hinterlegen; oder, wenn sie dazu nicht geeignet ist, die gerichtliche Einleitung zu deren Verwahrung anzusuchen\. Jede dieser Handlungen; wenn sie rechtmäßig geschehen und dem Gläubiger bekannt gemacht worden ist, befreyt den Schuldner von seiner Verbindlichkeit, und wälzt die Gefahr der geleisteten Sache auf den Gläubiger\.
 
+\[ [🔗 Permalink](#-1425-abgb--gerichtliche-hinterlegung-der-schuld) \]
+
 ### § 1426 ABGB — Quittungen
 
 > Der Zahler ist in allen Fällen berechtiget, von dem Befriedigten eine Quittung, nähmlich ein schriftliches Zeugniß der erfüllten Verbindlichkeit, zu verlangen\. In der Quittung muß der Nahme des Schuldners und des Gläubigers, so wie der Ort, die Zeit und der Gegenstand der getilgten Schuld ausgedrückt, und sie muß von dem Gläubiger, oder dessen Machthaber unterschrieben werden\. Die Kosten der Quittung hat, wenn nichts anderes vereinbart ist, der Gläubiger zu tragen\.
+
+\[ [🔗 Permalink](#-1426-abgb--quittungen) \]
 
 ### § 1427 ABGB
 
 > Eine Quittung über das bezahlte Capital gründet die Vermuthung, daß auch die Zinsen davon bezahlt worden seyn\.
 
+\[ [🔗 Permalink](#-1427-abgb) \]
+
 ### § 1428 ABGB
 
 > Besitzt der Gläubiger von dem Schuldner einen Schuldschein; so ist er nebst Ausstellung einer Quittung verbunden, denselben zurück zu geben, oder die allenfalls geleistete Abschlagszahlung auf dem Schuldscheine selbst abschreiben zu lassen\. Der zurück erhaltene Schuldschein ohne Quittung gründet für den Schuldner die rechtliche Vermuthung der geleisteten Zahlung; er schließt aber den Gegenbeweis nicht aus\. Ist der Schuldschein, welcher zurück gegeben werden soll, in Verlust gerathen; so ist der Zahlende berechtiget, Sicherstellung zu fordern, oder den Betrag gerichtlich zu hinterlegen, und zu verlangen, daß der Gläubiger die Tödtung des Schuldscheines der Gerichtsordnung gemäß bewirke\.
+
+\[ [🔗 Permalink](#-1428-abgb) \]
 
 ### § 1429 ABGB
 
 > Eine Quittung, die der Gläubiger dem Schuldner für eine abgetragene neuere Schuldpost ausgestellt hat, beweiset zwar nicht, daß auch andere ältere Posten abgetragen worden seyn: wenn es aber gewisse Gefälle, Renten, oder solche Zahlungen betrifft, welche, wie Geld\- Grund\- Haus\- oder Capitals\-Zinsen, aus eben demselben Titel und zu einer gewissen Zeit geleistet werden sollen; so wird vermuthet, daß derjenige, welcher sich mit der Quittung des letzt verfallenen Termines ausweiset, auch die früher verfallenen berichtiget habe\.
 
+\[ [🔗 Permalink](#-1429-abgb) \]
+
 ### § 1430 ABGB
 
 > Eben so wird von Handels\- und Gewerbsleuten, welche mit ihren Abnehmern \(Kunden\) zu gewissen Fristen die Rechnungen abzuschließen pflegen, vermuthet, daß ihnen, wenn sie über die Rechnung aus einer späteren Frist quittirt haben, auch die früheren Rechnungen bezahlt seyn\.
+
+\[ [🔗 Permalink](#-1430-abgb) \]
 
 ### § 1431 ABGB — Zahlung einer Nichtschuld
 
 > Wenn jemanden aus einem Irrthume, wäre es auch ein Rechtsirrthum, eine Sache oder eine Handlung geleistet worden, wozu er gegen den Leistenden kein Recht hat; so kann in der Regel im ersten Falle die Sache zurückgefordert, im zweyten aber ein dem verschafften Nutzen angemessener Lohn verlangt werden\.
 
+\[ [🔗 Permalink](#-1431-abgb--zahlung-einer-nichtschuld) \]
+
 ### § 1432 ABGB
 
 > Doch können Zahlungen einer verjährten, oder einer solchen Schuld, welche nur aus Mangel der Förmlichkeiten ungültig ist, oder zu deren Eintreibung das Gesetz bloß das Klagerecht versagt, eben so wenig zurückgefordert werden, als wenn jemand eine Zahlung leistet, von der er weiß, daß er sie nicht schuldig ist\.
+
+\[ [🔗 Permalink](#-1432-abgb) \]
 
 ### § 1433 ABGB
 
 > Diese Vorschrift \(§ 1432\) kann aber auf den Fall, in dem eine minderjährige, eine nicht geschäftsfähige volljährige oder eine andere Person bezahlt hat, die nicht frei über ihr Eigentum verfügen kann, nicht angewendet werden\.
 
+\[ [🔗 Permalink](#-1433-abgb) \]
+
 ### § 1434 ABGB
 
 > Die Zurückstellung des Bezahlten kann auch dann begehret werden, wenn die Schuldforderung auf was immer für eine Art noch ungewiß ist; oder wenn sie noch von der Erfüllung einer beygesetzten Bedingung abhängt\. Die Bezahlung einer richtigen und unbedingten Schuld kann aber deßwegen nicht zurückgefordert werden, weil die Zahlungsfrist noch nicht verfallen ist\.
+
+\[ [🔗 Permalink](#-1434-abgb) \]
 
 ### § 1435 ABGB
 
 > Auch Sachen, die als eine wahre Schuldigkeit gegeben worden sind, kann der Geber von dem Empfänger zurück fordern, wenn der rechtliche Grund, sie zu behalten, aufgehört hat\.
 
+\[ [🔗 Permalink](#-1435-abgb) \]
+
 ### § 1436 ABGB
 
 > War jemand verbunden, aus zwey Sachen nur Eine nach seiner Willkühr zu geben, und hat er aus Irrthum beyde gegeben; so hängt es von ihm ab, die eine oder die andere zurück zu fordern\.
+
+\[ [🔗 Permalink](#-1436-abgb) \]
 
 ### § 1437 ABGB
 
 > Der Empfänger einer bezahlten Nichtschuld wird als ein redlicher oder unredlicher Besitzer angesehen, je nachdem er den Irrthum des Gebers gewußt hat, oder aus den Umständen vermuthen mußte, oder nicht\. Von einem minderjährigen oder nicht geschäftsfähigen volljährigen Empfänger kann der Geber das irrtümlich Bezahlte \(§ 1431\) nur insoweit zurückfordern, als es beim Empfänger wirklich vorhanden oder zum Nutzen des Empfängers verwendet worden ist\.
 
+\[ [🔗 Permalink](#-1437-abgb) \]
+
 ### § 1438 ABGB — 2) Compensation
 
 > Wenn Forderungen gegenseitig zusammentreffen, die richtig, gleichartig, und so beschaffen sind, daß eine Sache, die dem Einen als Gläubiger gebührt, von diesem auch als Schuldner dem Andern entrichtet werden kann; so entsteht, in so weit die Forderungen sich gegen einander ausgleichen, eine gegenseitige Aufhebung der Verbindlichkeiten \(Compensation\), welche schon für sich die gegenseitige Zahlung bewirket\.
+
+\[ [🔗 Permalink](#-1438-abgb--2-compensation) \]
 
 ### § 1439 ABGB
 
 > Zwischen einer richtigen und nicht richtigen, so wie zwischen einer fälligen und noch nicht fälligen Forderung findet die Compensation nicht Statt\. In wie fern gegen eine Insolvenzmasse die Compensation Statt finde, wird in der Insolvenzordnung bestimmt\.
 
+\[ [🔗 Permalink](#-1439-abgb) \]
+
 ### § 1440 ABGB
 
 > Ebenso lassen sich Forderungen, welche ungleichartige oder bestimmte und unbestimmte Sachen zum Gegenstande haben, gegeneinander nicht aufheben\. Eigenmächtig oder listig entzogene, entlehnte, in Verwahrung oder in Bestand genommene Stücke sind überhaupt kein Gegenstand der Zurückbehaltung oder der Kompensation\.
+
+\[ [🔗 Permalink](#-1440-abgb) \]
 
 ### § 1441 ABGB
 
 > Ein Schuldner kann seinem Gläubiger dasjenige nicht in Aufrechnung bringen, was dieser einem Dritten und der Dritte dem Schuldner zu zahlen hat\. Selbst eine Summe, die jemand an eine Staats\-Casse zu fordern hat, kann gegen eine Zahlung, die er an eine andere Staats\-Casse leisten muß, nicht abgerechnet werden\.
 
+\[ [🔗 Permalink](#-1441-abgb) \]
+
 ### § 1442 ABGB
 
 > Wenn eine Forderung allmählich auf mehrere übertragen wird; so kann der Schuldner zwar die Forderung, welche er zur Zeit der Abtretung an den ersten Inhaber derselben hatte, so wie auch jene, die ihm gegen den letzten Inhaber zusteht, in Abrechnung bringen; nicht aber auch diejenige, welche ihm an einen der Zwischeninhaber zustand\.
+
+\[ [🔗 Permalink](#-1442-abgb) \]
 
 ### § 1443 ABGB
 
 > Gegen eine den öffentlichen Büchern einverleibte Forderung kann die Einwendung der Compensation einem Cessionar nur dann entgegen gesetzt werden, wenn die Gegenforderung ebenfalls und zwar bey der Forderung selbst eingetragen, oder dem Cessionar bey Uebernehmung der letztern bekannt gemacht worden ist\.
 
+\[ [🔗 Permalink](#-1443-abgb) \]
+
 ### § 1444 ABGB — 3) Entsagung
 
 > In allen Fällen, in welchen der Gläubiger berechtiget ist, sich seines Rechtes zu begeben, kann er demselben auch zum Vortheile seines Schuldners entsagen, und hierdurch die Verbindlichkeit des Schuldners aufheben\.
+
+\[ [🔗 Permalink](#-1444-abgb--3-entsagung) \]
 
 ### § 1445 ABGB — 4) Vereinigung
 
 > So oft auf was immer für eine Art das Recht mit der Verbindlichkeit in Einer Person vereiniget wird, erlöschen beyde; außer, wenn es dem Gläubiger noch frey steht, eine Absonderung seiner Rechte zu verlangen, \(§§\. 802 und 812\), oder wenn Verhältnisse von ganz verschiedener Art eintreten\. Daher wird durch die Nachfolge des Schuldners in die Verlassenschaft seines Gläubigers in den Rechten der Erbschaftsgläubiger, der Miterben oder Vermächtnisnehmer, und durch die Beerbung des Schuldners und Bürgen in den Rechten des Gläubigers nichts geändert\.
 
+\[ [🔗 Permalink](#-1445-abgb--4-vereinigung) \]
+
 ### § 1446 ABGB
 
 > Rechte und Verbindlichkeiten, welche den öffentlichen Büchern einverleibt sind, werden durch die Vereinigung nicht aufgehoben, bis die Löschung aus den öffentlichen Büchern erfolgt ist \(§ 526\)\. Bis dahin kann das eingetragene Pfandrecht vom Eigentümer oder im Wege der Zwangsvollstreckung auf einen Dritten übertragen werden \(§§ 469 bis 470\)\.
+
+\[ [🔗 Permalink](#-1446-abgb) \]
 
 ### § 1447 ABGB — 5) Untergang der Sache
 
 > Der zufällige gänzliche Untergang einer bestimmten Sache hebt alle Verbindlichkeit, selbst die, den Werth derselben zu vergüten, auf\. Dieser Grundsatz gilt auch für diejenigen Fälle, in welchen die Erfüllung der Verbindlichkeit, oder die Zahlung einer Schuld durch einen andern Zufall unmöglich wird\. In jedem Falle muß aber der Schuldner das, was er um die Verbindlichkeit in Erfüllung zu bringen, erhalten hat, zwar gleich einem redlichen Besitzer, jedoch auf solche Art zurückstellen oder vergüten, daß er aus dem Schaden des Andern keinen Gewinn zieht\.
 
+\[ [🔗 Permalink](#-1447-abgb--5-untergang-der-sache) \]
+
 ### § 1448 ABGB — 6) Tod
 
 > Durch den Tod erlöschen nur solche Rechte und Verbindlichkeiten, welche auf die Person eingeschränkt sind, oder die bloß persönliche Handlungen des Verstorbenen betreffen\.
+
+\[ [🔗 Permalink](#-1448-abgb--6-tod) \]
 
 ### § 1449 ABGB — 7) Verlauf der Zeit
 
 > Rechte und Verbindlichkeiten erlöschen auch durch den Verlauf der Zeit, worauf sie durch einen letzten Willen, Vertrag, richterlichen Ausspruch, oder durch das Gesetz beschränkt sind\. Auf welche Art sie durch die von dem Gesetze bestimmte Verjährung aufgehoben werden, wird in dem folgenden Hauptstücke festgesetzt\.
 
+\[ [🔗 Permalink](#-1449-abgb--7-verlauf-der-zeit) \]
+
 ### § 1450 ABGB — Von der Einsetzung in den vorigen Stand
 
 > Die bürgerlichen Gesetze, nach welchen widerrechtliche Handlungen und Geschäfte, wenn die Verjährung nicht im Wege steht, unmittelbar bestritten werden können, gestatten keine Einsetzung in den vorigen Stand\. Die zum gerichtlichen Verfahren gehörigen Fälle der Einsetzung in den vorigen Stand, sind in der Gerichtsordnung bestimmt\.
+
+\[ [🔗 Permalink](#-1450-abgb--von-der-einsetzung-in-den-vorigen-stand) \]
 
 ## Viertes Hauptstück.
 
@@ -8609,131 +11171,195 @@
 
 > Die Verjährung ist der Verlust eines Rechtes, welches während der von dem Gesetze bestimmten Zeit nicht ausgeübt worden ist\.
 
+\[ [🔗 Permalink](#-1451-abgb--verjährung) \]
+
 ### § 1452 ABGB — Ersitzung
 
 > Wird das verjährte Recht vermöge des gesetzlichen Besitzes zugleich auf jemand Andern übertragen; so heißt es ein ersessenes Recht, und die Erwerbungsart Ersitzung\.
+
+\[ [🔗 Permalink](#-1452-abgb--ersitzung) \]
 
 ### § 1453 ABGB — Wer verjähren und ersitzen kann
 
 > Jeder, der sonst zu erwerben fähig ist, kann auch ein Eigenthum oder andere Rechte durch Ersitzung erwerben\.
 
+\[ [🔗 Permalink](#-1453-abgb--wer-verjähren-und-ersitzen-kann) \]
+
 ### § 1454 ABGB — Gegen wen;
 
 > Die Verjährung und Ersitzung kann gegen alle Privat\-Personen, welche ihre Rechte selbst auszuüben fähig sind, Statt finden\. Gegen Minderjährige und volljährige Personen, wenn diese aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit an der Durchsetzung ihrer Rechte gehindert sind; gegen Kirchen, Gemeinden und andere moralische Körper; gegen Verwalter des öffentlichen Vermögens und gegen diejenigen, welche ohne ihr Verschulden abwesend sind, wird sie nur unter den unten \(§§\. 1494, 1472 und 1475\) folgenden Beschränkungen gestattet\.
+
+\[ [🔗 Permalink](#-1454-abgb--gegen-wen) \]
 
 ### § 1455 ABGB — Welche Gegenstände
 
 > Was sich erwerben läßt, kann auch ersessen werden\. Sachen hingegen, welche man vermöge ihrer wesentlichen Beschaffenheit, oder vermöge der Gesetze nicht besitzen kann; ferner Sachen und Rechte, welche schlechterdings unveräußerlich sind, sind kein Gegenstand der Ersitzung\.
 
+\[ [🔗 Permalink](#-1455-abgb--welche-gegenstände) \]
+
 ### § 1456 ABGB
 
 > Aus diesem Grunde können weder die dem Staatsoberhaupte als solchem allein zukommenden Rechte, z\. B\. das Recht, Zölle anzulegen, Münzen zu prägen, Steuern auszuschreiben, und andere Hoheitsrechte \(Regalien\) durch Ersitzung erworben, noch die diesen Rechten entsprechenden Schuldigkeiten verjährt werden\.
+
+\[ [🔗 Permalink](#-1456-abgb) \]
 
 ### § 1457 ABGB
 
 > Andere dem Staatsoberhaupte zukommende, doch nicht ausschließend vorbehaltene Rechte, z\. B\. auf Waldungen, Jagden, Fischereyen u\. d\.gl\., können zwar überhaupt von andern Staatsbürgern, doch nur binnen einem längern als dem gewöhnlichen Zeitraume \(§\. 1472\) ersessen werden\.
 
+\[ [🔗 Permalink](#-1457-abgb) \]
+
 ### § 1458 ABGB
 
 > Die Rechte eines Ehegatten, eines eingetragenen Partners, der Eltern, eines Kindes und andere Personenrechte sind kein Gegenstand der Ersitzung\. Doch kommt denjenigen, welche dergleichen Rechte redlicher Weise ausüben, die schuldlose Unwissenheit zur einstweiligen Behauptung und Ausübung ihrer vermeinten Rechte zustatten\.
+
+\[ [🔗 Permalink](#-1458-abgb) \]
 
 ### § 1459 ABGB
 
 > Die Rechte eines Menschen über seine Handlungen und über sein Eigenthum, z\. B\. eine Waare da oder dort zu kaufen, seine Wiesen oder sein Wasser zu benutzen, unterliegen, außer dem Falle, daß das Gesetz mit der binnen einem Zeitraume unterlassenen Ausübung ausdrücklich den Verlust derselben verknüpfet, keiner Verjährung\. Hat aber eine Person der andern die Ausübung eines solchen Rechtes untersagt, oder sie daran verhindert; so fängt der Besitz des Untersagungsrechtes von Seite der Einen gegen die Freyheit der Andern von dem Augenblicke an, als sich diese dem Verbothe, oder der Verhinderung gefüget hat, und es wird dadurch, wenn alle übrige Erfordernisse eintreffen, die Verjährung oder die Ersitzung bewirket \(§§\.\. 313 u\. 351\)\.
 
+\[ [🔗 Permalink](#-1459-abgb) \]
+
 ### § 1460 ABGB — Erfordernisse zur Ersitzung: — 1) Besitz;
 
 > Zur Ersitzung wird nebst der Fähigkeit der Person und des Gegenstandes erfordert: daß jemand die Sache oder das Recht, die auf diese Art erworben werden sollen, wirklich besitze; daß sein Besitz rechtmäßig, redlich und echt sey, und durch die ganze von dem Gesetze bestimmte Zeit fortgesetzt werde\. \(§\. 309, 316, 326 und 345\)\.
+
+\[ [🔗 Permalink](#-1460-abgb--erfordernisse-zur-ersitzung--1-besitz) \]
 
 ### § 1461 ABGB — Und zwar a) ein rechtmäßiger;
 
 > Jeder Besitz, der sich auf einen solchen Titel gründet, welcher zur Uebernahme des Eigenthumes, wenn solches dem Uebergeber gebührt hätte, hinlänglich gewesen wäre, ist rechtmäßig und zur Ersitzung hinreichend\. Dergleichen sind, z\. B\. das Vermächtniß, die Schenkung, das Darleihen, der Kauf und Verkauf, der Tausch, die Zahlung, u\.s\.w\.
 
+\[ [🔗 Permalink](#-1461-abgb--und-zwar-a-ein-rechtmäßiger) \]
+
 ### § 1462 ABGB
 
 > Verpfändete, geliehene, in Verwahrung, oder zur Fruchtnießung gegebene Sachen können von Gläubigern, Entlehnern und Verwahrern oder Fruchtnießern, aus Mangel eines rechtmäßigen Titels, niemahls ersessen werden\. Ihre Erben stellen die Verstorbenen vor, und haben nicht mehr Titel als dieselben\. Nur dem dritten rechtmäßigen Besitzer kann die Ersitzungszeit zu Statten kommen\.
+
+\[ [🔗 Permalink](#-1462-abgb) \]
 
 ### § 1463 ABGB — b) redlicher,
 
 > Der Besitz muß redlich seyn\. Die Unredlichkeit des vorigen Besitzers hindert aber einen redlichen Nachfolger oder Erben nicht, die Ersitzung von dem Tage seines Besitzes anzufangen \(§\. 1493\)\.
 
+\[ [🔗 Permalink](#-1463-abgb--b-redlicher) \]
+
 ### § 1464 ABGB — c) echter
 
 > Der Besitz muß auch echt seyn\. Wenn jemand sich einer Sache mit Gewalt oder List bemächtiget, oder in den Besitz heimlich einschleicht, oder eine Sache nur bittweise besitzt; so kann weder er selbst, noch können seine Erben dieselbe verjähren\.
+
+\[ [🔗 Permalink](#-1464-abgb--c-echter) \]
 
 ### § 1465 ABGB — 2) Verlauf der Zeit
 
 > Zur Ersitzung und Verjährung ist auch der in dem Gesetze vorgeschriebene Verlauf der Zeit nothwendig\. Außer dem durch die Gesetze für einige besondere Fälle festgesetzten Zeitraume, wird hier das in allen übrigen Fällen zur Ersitzung oder Verjährung nöthige Zeitmaß überhaupt bestimmt\. Es kommt dabey sowohl auf die Verschiedenheit der Rechte und der Sachen, als der Personen an\.
 
+\[ [🔗 Permalink](#-1465-abgb--2-verlauf-der-zeit) \]
+
 ### § 1466 ABGB — Ersitzungszeit. Ordentliche;
 
 > Das Eigenthumsrecht, dessen Gegenstand eine bewegliche Sache ist, wird durch einen dreyjährigen rechtlichen Besitz ersessen\.
+
+\[ [🔗 Permalink](#-1466-abgb--ersitzungszeit-ordentliche) \]
 
 ### § 1468 ABGB
 
 > Wo noch keine ordentlichen öffentlichen Bücher eingeführt sind, und die Erwerbung unbeweglicher Sachen aus den Gerichts\-Acten und andern Urkunden zu erweisen ist, oder wenn die Sache auf den Nahmen desjenigen, der die Besitzrechte darüber ausübet, nicht eingetragen ist; wird die Ersitzung erst nach dreyßig Jahren vollendet\.
 
+\[ [🔗 Permalink](#-1468-abgb) \]
+
 ### § 1470 ABGB
 
 > Wo noch keine ordentlichen öffentlichen Bücher bestehen, oder ein solches Recht denselben nicht einverleibt ist, kann es der redliche Inhaber erst nach dreyßig Jahren ersitzen\.
+
+\[ [🔗 Permalink](#-1470-abgb) \]
 
 ### § 1471 ABGB
 
 > Bey Rechten, die selten ausgeübt werden können, z\. B\. bey dem Rechte, eine Pfründe zu vergeben, oder jemanden bey Herstellung einer Brücke zum Beytrage anzuhalten, muß derjenige, welcher die Ersitzung behauptet, nebst einem Verlaufe von dreyßig Jahren, zugleich erweisen, daß der Fall zur Ausübung binnen dieser Zeit wenigstens drey Mahl sich ergeben, und er jedes Mahl dieses Recht ausgeübt habe\.
 
+\[ [🔗 Permalink](#-1471-abgb) \]
+
 ### § 1472 ABGB — Außerordentliche
 
 > Gegen den Fiscus, das ist: gegen die Verwalter der Staatsgüter und des Staatsvermögens, in so weit die Verjährung Platz greift \(§§\. 287, 289 u\. 1456 – 1457\), ferner gegen die Verwalter der Güter der Kirchen, Gemeinden und anderer erlaubten Körper, reicht die gemeine ordentliche Ersitzungszeit nicht zu\. Der Besitz beweglicher Sachen, so wie auch der Besitz der unbeweglichen, oder der darauf ausgeübten Dienstbarkeiten und anderer Rechte, wenn sie auf den Nahmen des Besitzers den öffentlichen Büchern einverleibt sind, muß durch sechs Jahre fortgesetzt werden\. Rechte solcher Art, die auf den Nahmen des Besitzers in die öffentlichen Bücher nicht einverleibt sind, und alle übrige Rechte lassen sich gegen den Fiscus und die hier angeführten begünstigten Personen nur durch den Besitz von vierzig Jahren erwerben\.
+
+\[ [🔗 Permalink](#-1472-abgb--außerordentliche) \]
 
 ### § 1473 ABGB
 
 > Wer mit einer von dem Gesetze in Ansehung der Verjährungszeit begünstigten Person in Gemeinschaft steht, dem kommt die nähmliche Begünstigung zu Statten\. Begünstigungen der längeren Verjährungsfrist haben auch gegen andere, darin ebenfalls begünstigte Personen ihre Wirkung\.
 
+\[ [🔗 Permalink](#-1473-abgb) \]
+
 ### § 1475 ABGB
 
 > Der Aufenthalt des Eigenthümers außer der Provinz, in welcher sich die Sache befindet, steht der ordentliche Ersitzung und Verjährung in so weit entgegen, daß die Zeit einer willkührlichen und schuldlosen Abwesenheit nur zur Hälfte, folglich ein Jahr nur für sechs Monathe gerechnet wird\. Doch soll auf kurze Zeiträume der Abwesenheit, welche durch kein volles Jahr ununterbrochen gedauert haben, nicht Bedacht genommen, und überhaupt die Zeit nie weiter als bis auf dreyßig Jahre zusammen ausgedehnet werden\. Schuldbare Abwesenheit genießt keine Ausnahme von der ordentlichen Verjährungszeit\.
+
+\[ [🔗 Permalink](#-1475-abgb) \]
 
 ### § 1476 ABGB
 
 > Auch derjenige, welcher eine bewegliche Sache unmittelbar von einem unechten oder von einem unredlichen Besitzer an sich gebracht hat, oder seinen Vormann anzugeben nicht vermag; muß den Verlauf der sonst ordentlichen Ersitzungszeit doppelt abwarten\.
 
+\[ [🔗 Permalink](#-1476-abgb) \]
+
 ### § 1477 ABGB
 
 > Wer die Ersitzung auf einen Zeitraum von dreyßig oder vierzig Jahren stützt, bedarf keiner Angabe des rechtmäßigen Titels\. Die gegen ihn erwiesene Unredlichkeit des Besitzes schließt aber auch in diesem längeren Zeitraume die Ersitzung aus\.
+
+\[ [🔗 Permalink](#-1477-abgb) \]
 
 ### § 1478 ABGB — Verjährungszeit. Allgemeine
 
 > In so fern jede Ersitzung eine Verjährung in sich begreift, werden beyde mit den vorgeschriebenen Erfordernissen in Einem Zeitraume vollendet\. Zur eigentlichen Verjährung aber ist der bloße Nichtgebrauch eines Rechtes, das an sich schon hätte ausgeübt werden können, durch dreyßig Jahre hinlänglich\.
 
+\[ [🔗 Permalink](#-1478-abgb--verjährungszeit-allgemeine) \]
+
 ### § 1479 ABGB
 
 > Alle Rechte gegen einen Dritten, sie mögen den öffentlichen Büchern einverleibt seyn oder nicht, erlöschen also in der Regel längstens durch den dreyßigjährigen Nichtgebrauch, oder durch ein so lange Zeit beobachtetes Stillschweigen\.
+
+\[ [🔗 Permalink](#-1479-abgb) \]
 
 ### § 1480 ABGB
 
 > Forderungen von rückständigen jährlichen Leistungen, insbesondere Zinsen, Renten, Unterhaltsbeiträgen, Ausgedingsleistungen, sowie zur Kapitalstilgung vereinbarten Annuitäten erlöschen in drei Jahren; das Recht selbst wird durch einen Nichtgebrauch von dreißig Jahren verjährt\.
 
+\[ [🔗 Permalink](#-1480-abgb) \]
+
 ### § 1481 ABGB — Ausnahmen:
 
 > Die in dem Familien\- und überhaupt in dem Personen\-Rechte gegründeten Verbindlichkeiten, z\. B\. den Kindern den unentbehrlichen Unterhalt zu verschaffen, so wie diejenigen, welche dem oben \(§\. 1459\) angeführten Rechte, mit seinem Eigenthume frey zu schalten, zusagen, z\. B\. die Verbindlichkeit, die Theilung einer gemeinschaftlichen Sache oder die Gränzbestimmung vornehmen zu lassen, können nicht verjährt werden\.
+
+\[ [🔗 Permalink](#-1481-abgb--ausnahmen) \]
 
 ### § 1482 ABGB
 
 > Auf gleiche Weise wird derjenige, welcher ein Recht auf einem fremden Grunde in Ansehung des Ganzen oder auf verschiedene beliebige Arten ausüben konnte, bloß dadurch, daß er es durch noch so lange Zeit nur auf einem Theile des Grundes oder nur auf eine bestimmte Weise ausübte, in seinem Rechte nicht eingeschränkt; sondern die Beschränkung muß durch Erwerbung oder Ersitzung des Untersagungs\- oder Hinderungsrechtes bewirkt werden \(§\. 351\)\. Eben dieses ist auch auf den Fall anzuwenden, wenn jemand ein gegen alle Mitglieder einer Gemeinde zustehendes Recht bisher nur gegen gewisse Mitglieder derselben ausgeübt hat\.
 
+\[ [🔗 Permalink](#-1482-abgb) \]
+
 ### § 1483 ABGB
 
 > So lange der Gläubiger das Pfand in Händen hat, kann ihm die unterlassene Ausübung des Pfandrechtes nicht eingewendet und das Pfandrecht nicht verjährt werden\. Auch das Recht des Schuldners, sein Pfand einzulösen, bleibt unverjährt\. In so fern aber die Forderung den Werth des Pfandes übersteigt, kann sie inzwischen durch Verjährung erlöschen\.
 
+\[ [🔗 Permalink](#-1483-abgb) \]
+
 ### § 1484 ABGB
 
 > Zur Verjährung solcher Rechte, die nur selten ausgeübt werden können, wird erfordert, daß während der Verjährungszeit von dreyßig Jahren von drey Gelegenheiten, ein solches Recht auszuüben, kein Gebrauch gemacht worden sey \(§\. 1471\)\.
+
+\[ [🔗 Permalink](#-1484-abgb) \]
 
 ### § 1485 ABGB
 
 > `(1)` In Rücksicht der in dem § 1472 begünstigten Personen werden, wie zur Ersitzung, also auch zur Verjährung, vierzig Jahre erfordert\.
 
 > `(2)` Die allgemeine Regel, daß ein Recht wegen des Nichtgebrauches erst nach Verlauf von dreißig oder vierzig Jahren verloren gehe, ist nur auf diejenigen Fälle anwendbar, für welche das Gesetz nicht einen kürzeren Zeitraum ausgemessen hat \(§ 1465\)\.
+
+\[ [🔗 Permalink](#-1485-abgb) \]
 
 ### § 1486 ABGB — Besondere Verjährungszeit
 
@@ -8753,13 +11379,19 @@
 >
 >> `7.` von Ausstattungen\.
 
+\[ [🔗 Permalink](#-1486-abgb--besondere-verjährungszeit) \]
+
 ### § 1486a ABGB
 
 > Der Anspruch eines Ehegatten auf Abgeltung seiner Mitwirkung im Erwerb des anderen \(§ 98\) verjährt in sechs Jahren vom Ende des Monats, in dem die Leistung erbracht worden ist\.
 
+\[ [🔗 Permalink](#-1486a-abgb) \]
+
 ### § 1487 ABGB
 
 > Die Rechte, eine Schenkung wegen Undankbarkeit des Beschenkten zu widerrufen einen entgeltlichen Vertrag wegen Verletzung über die Hälfte aufzuheben, oder die vorgenommene Teilung eines gemeinschaftlichen Gutes zu bestreiten; und die Forderung wegen einer bei dem Vertrage unterlaufenen Furcht oder eines Irrtums, wobei sich der andere vertragmachende Teil keiner List schuldig gemacht hat, müssen binnen drei Jahren geltend gemacht werden\. Nach Verlauf dieser Zeit sind sie verjährt\.
+
+\[ [🔗 Permalink](#-1487-abgb) \]
 
 ### § 1487a ABGB — Verjährung erbrechtlicher Ansprüche
 
@@ -8767,25 +11399,37 @@
 
 > `(2)` Abs\. 1 gilt sinngemäß für die Aneignung durch den Bund\.
 
+\[ [🔗 Permalink](#-1487a-abgb--verjährung-erbrechtlicher-ansprüche) \]
+
 ### § 1488 ABGB
 
 > Das Recht der Dienstbarkeit wird durch den Nichtgebrauch verjährt, wenn sich der verpflichtete Theil der Ausübung der Servitut widersetzt, und der Berechtigte durch drey auf einander folgende Jahre sein Recht nicht geltend gemacht hat\.
+
+\[ [🔗 Permalink](#-1488-abgb) \]
 
 ### § 1489 ABGB
 
 > Jede Entschädigungsklage ist in drei Jahren von der Zeit an verjährt, zu welcher der Schade und die Person des Beschädigers dem Beschädigten bekannt wurde, der Schade mag durch Übertretung einer Vertragspflicht oder ohne Beziehung auf einen Vertrag verursacht worden sein\. Ist dem Beschädigten der Schade oder die Person des Beschädigers nicht bekannt geworden oder ist der Schade aus einer oder mehreren gerichtlich strafbaren Handlungen, die nur vorsätzlich begangen werden können und mit mehr als einjähriger Freiheitsstrafe bedroht sind, entstanden, so erlischt das Klagerecht nur nach dreißig Jahren\.
 
+\[ [🔗 Permalink](#-1489-abgb) \]
+
 ### § 1491 ABGB
 
 > Einige Rechte sind von den Gesetzen auf eine noch kürzere Zeit eingeschränkt\. Hierüber kommen die Vorschriften an den Orten, wo diese Rechte abgehandelt werden, vor\.
+
+\[ [🔗 Permalink](#-1491-abgb) \]
 
 ### § 1492 ABGB
 
 > Wie lange das Wechselrecht einem Wechselbriefe zu Statten komme, ist in der Wechselordnung bestimmt\.
 
+\[ [🔗 Permalink](#-1492-abgb) \]
+
 ### § 1493 ABGB — Einrechnung der Verjährungszeit des Vorfahrers
 
 > Wer eine Sache von einem rechtmäßigen und redlichen Besitzer redlich übernimmt, der ist als Nachfolger berechtiget, die Ersitzungszeit seines Vorfahrers mit einzurechnen \(§\. 1463\)\. Eben dieses gilt auch von der Verjährungszeit\. Bey einer Ersitzung von dreyßig oder vierzig Jahren findet diese Einrechnung auch ohne einen rechtmäßigen Titel, und bey der eigentlichen Verjährung selbst ohne guten Glauben, oder schuldlose Unwissenheit Statt\.
+
+\[ [🔗 Permalink](#-1493-abgb--einrechnung-der-verjährungszeit-des-vorfahrers) \]
 
 ### § 1494 ABGB — Hemmung der Verjährung
 
@@ -8795,37 +11439,55 @@
 
 > `(3)` Die einmal angefangene Ersitzungs\- oder Verjährungszeit läuft zwar fort; sie kann aber nie früher als zwei Jahre nach Wegfall der Hindernisse enden\.
 
+\[ [🔗 Permalink](#-1494-abgb--hemmung-der-verjährung) \]
+
 ### § 1495 ABGB
 
 > Auch zwischen Ehegatten oder eingetragenen Partnern sowie zwischen gesetzlichen Vertretern \(§ 1034\) und den von ihnen Vertretenen kann, solange die Ehe, die eingetragene Partnerschaft oder das Vertretungsverhältnis andauert, die Ersitzung oder Verjährung weder anfangen noch fortgesetzt werden\. Das gilt nicht für die Ansprüche eines Ehegatten oder eines eingetragenen Partners auf Abgeltung der Mitwirkung im Erwerb des anderen Teils, doch wird die Verjährung so lange gehemmt, als zwischen den Ehegatten oder eingetragenen Partnern ein gerichtliches Verfahren zur Entscheidung über einen Anspruch auf Abgeltung anhängig ist und gehörig fortgesetzt wird\.
+
+\[ [🔗 Permalink](#-1495-abgb) \]
 
 ### § 1496 ABGB
 
 > Durch Abwesenheit in Civil\- oder Kriegsdiensten, oder durch gänzlichen Stillstand der Rechtspflege, z\. B\. in Pest\- oder Kriegszeiten, wird nicht nur der Anfang, sondern so lange dieses Hinderniß dauert, auch die Fortsetzung der Ersitzung oder Verjährung gehemmet\.
 
+\[ [🔗 Permalink](#-1496-abgb) \]
+
 ### § 1497 ABGB — Unterbrechung der Verjährung
 
 > Die Ersitzung sowohl, als die Verjährung wird unterbrochen, wenn derjenige, welcher sich auf dieselbe berufen will, vor dem Verlaufe der Verjährungszeit entweder ausdrücklich oder stillschweigend das Recht des Andern anerkannt hat; oder wenn er von dem Berechtigten belangt, und die Klage gehörig fortgesetzt wird\. Wird aber die Klage durch einen rechtskräftigen Spruch für unstatthaft erklärt; so ist die Verjährung für ununterbrochen zu halten\.
+
+\[ [🔗 Permalink](#-1497-abgb--unterbrechung-der-verjährung) \]
 
 ### § 1498 ABGB — Wirkung der Ersitzung oder Verjährung
 
 > Wer eine Sache oder ein Recht ersessen hat, kann gegen den bisherigen Eigenthümer bey dem Gerichte die Zuerkennung des Eigenthumes ansuchen, und das zuerkannte Recht, wofern es einen Gegenstand der öffentlichen Bücher ausmacht, den letzteren einverleiben lassen\.
 
+\[ [🔗 Permalink](#-1498-abgb--wirkung-der-ersitzung-oder-verjährung) \]
+
 ### § 1499 ABGB
 
 > Auf gleiche Art kann nach Verlauf der Verjährung der Verpflichtete die Löschung seiner in den öffentlichen Büchern eingetragenen Verbindlichkeit, oder die Nichtigerklärung des dem Berechtigten bisher zugestandenen Rechtes und der darüber ausgestellten Urkunden erwirken\.
+
+\[ [🔗 Permalink](#-1499-abgb) \]
 
 ### § 1500 ABGB
 
 > Das aus der Ersitzung oder Verjährung erworbene Recht kann aber demjenigen, welcher im Vertrauen auf die öffentlichen Bücher noch vor der Einverleibung desselben eine Sache oder ein Recht an sich gebracht hat, zu keinem Nachtheile gereichen\.
 
+\[ [🔗 Permalink](#-1500-abgb) \]
+
 ### § 1501 ABGB
 
 > Auf die Verjährung ist, ohne Einwendung der Parteyen, von Amts wegen kein Bedacht zu nehmen\.
 
+\[ [🔗 Permalink](#-1501-abgb) \]
+
 ### § 1502 ABGB — Entsagung oder Verlängerung der Verjährung
 
 > Der Verjährung kann weder im voraus entsagt, noch kann eine längere Verjährungsfrist, als durch die Gesetze bestimmt ist, bedungen werden\.
+
+\[ [🔗 Permalink](#-1502-abgb--entsagung-oder-verlängerung-der-verjährung) \]
 
 ## Fünftes Hauptstück
 
@@ -8978,3 +11640,5 @@
 > `(25)` § 1164a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 11/2024 tritt mit dem auf die Kundmachung folgenden Tag in Kraft und gilt für ab diesem Zeitpunkt abgeschlossene freie Dienstverträge\.
 
 > `(25)` § 1319b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 33/2024 tritt mit 1\. Mai 2024 in Kraft und ist in dieser Fassung auf Schadensereignisse anzuwenden, die nach dem 30\. April 2024 eintreten\.
+
+\[ [🔗 Permalink](#-1503-abgb--inkrafttreten-und-übergangsbestimmungen-ab-1-februar-2013) \]

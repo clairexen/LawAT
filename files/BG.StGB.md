@@ -541,9 +541,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine schwerere als die zur Zeit der Begehung angedrohte Strafe darf nicht verhängt werden\. Eine vorbeugende Maßnahme darf nur angeordnet werden, wenn zur Zeit der Begehung diese vorbeugende Maßnahme oder eine der Art nach vergleichbare Strafe oder vorbeugende Maßnahme vorgesehen war\. Durch die Anordnung einer bloß der Art nach vergleichbaren vorbeugenden Maßnahme darf der Täter keiner ungünstigeren Behandlung unterworfen werden, als sie nach dem zur Zeit der Tat geltenden Gesetz zulässig war\.
 
+\[ [🔗 Permalink](#-1-stgb--keine-strafe-ohne-gesetz) \]
+
 ### § 2 StGB — Begehung durch Unterlassung
 
 > Bedroht das Gesetz die Herbeiführung eines Erfolges mit Strafe, so ist auch strafbar, wer es unterläßt, ihn abzuwenden, obwohl er zufolge einer ihn im besonderen treffenden Verpflichtung durch die Rechtsordnung dazu verhalten ist und die Unterlassung der Erfolgsabwendung einer Verwirklichung des gesetzlichen Tatbildes durch ein Tun gleichzuhalten ist\.
+
+\[ [🔗 Permalink](#-2-stgb--begehung-durch-unterlassung) \]
 
 ### § 3 StGB — Notwehr
 
@@ -551,9 +555,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer das gerechtfertigte Maß der Verteidigung überschreitet oder sich einer offensichtlich unangemessenen Verteidigung \(Abs\. 1\) bedient, ist, wenn dies lediglich aus Bestürzung, Furcht oder Schrecken geschieht, nur strafbar, wenn die Überschreitung auf Fahrlässigkeit beruht und die fahrlässige Handlung mit Strafe bedroht ist\.
 
+\[ [🔗 Permalink](#-3-stgb--notwehr) \]
+
 ### § 4 StGB — Keine Strafe ohne Schuld
 
 > Strafbar ist nur, wer schuldhaft handelt\.
+
+\[ [🔗 Permalink](#-4-stgb--keine-strafe-ohne-schuld) \]
 
 ### § 5 StGB — Vorsatz
 
@@ -563,6 +571,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter handelt wissentlich, wenn er den Umstand oder Erfolg, für den das Gesetz Wissentlichkeit voraussetzt, nicht bloß für möglich hält, sondern sein Vorliegen oder Eintreten für gewiß hält\.
 
+\[ [🔗 Permalink](#-5-stgb--vorsatz) \]
+
 ### § 6 StGB — Fahrlässigkeit
 
 > `(1)` Fahrlässig handelt, wer die Sorgfalt außer acht läßt, zu der er nach den Umständen verpflichtet und nach seinen geistigen und körperlichen Verhältnissen befähigt ist und die ihm zuzumuten ist, und deshalb nicht erkennt, daß er einen Sachverhalt verwirklichen könne, der einem gesetzlichen Tatbild entspricht\.
@@ -571,15 +581,21 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Grob fahrlässig handelt, wer ungewöhnlich und auffallend sorgfaltswidrig handelt, sodass der Eintritt eines dem gesetzlichen Tatbild entsprechenden Sachverhaltes als geradezu wahrscheinlich vorhersehbar war\.
 
+\[ [🔗 Permalink](#-6-stgb--fahrlässigkeit) \]
+
 ### § 7 StGB — Strafbarkeit vorsätzlichen und fahrlässigen Handelns
 
 > `(1)` Wenn das Gesetz nichts anderes bestimmt, ist nur vorsätzliches Handeln strafbar\.
 
 > `(2)` Eine schwerere Strafe, die an eine besondere Folge der Tat geknüpft ist, trifft den Täter nur, wenn er diese Folge wenigstens fahrlässig herbeigeführt hat\.
 
+\[ [🔗 Permalink](#-7-stgb--strafbarkeit-vorsätzlichen-und-fahrlässigen-handelns) \]
+
 ### § 8 StGB — Irrtümliche Annahme eines rechtfertigenden Sachverhaltes
 
 > Wer irrtümlich einen Sachverhalt annimmt, der die Rechtswidrigkeit der Tat ausschließen würde, kann wegen vorsätzlicher Begehung nicht bestraft werden\. Er ist wegen fahrlässiger Begehung zu bestrafen, wenn der Irrtum auf Fahrlässigkeit beruht und die fahrlässige Begehung mit Strafe bedroht ist\.
+
+\[ [🔗 Permalink](#-8-stgb--irrtümliche-annahme-eines-rechtfertigenden-sachverhaltes) \]
 
 ### § 9 StGB — Rechtsirrtum
 
@@ -589,29 +605,41 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ist der Irrtum vorzuwerfen, so ist, wenn der Täter vorsätzlich handelt, die für die vorsätzliche Tat vorgesehene Strafdrohung anzuwenden, wenn er fahrlässig handelt, die für die fahrlässige Tat\.
 
+\[ [🔗 Permalink](#-9-stgb--rechtsirrtum) \]
+
 ### § 10 StGB — Entschuldigender Notstand
 
 > `(1)` Wer eine mit Strafe bedrohte Tat begeht, um einen unmittelbar drohenden bedeutenden Nachteil von sich oder einem anderen abzuwenden, ist entschuldigt, wenn der aus der Tat drohende Schaden nicht unverhältnismäßig schwerer wiegt als der Nachteil, den sie abwenden soll, und in der Lage des Täters von einem mit den rechtlich geschützten Werten verbundenen Menschen kein anderes Verhalten zu erwarten war\.
 
 > `(2)` Der Täter ist nicht entschuldigt, wenn er sich der Gefahr ohne einen von der Rechtsordnung anerkannten Grund bewußt ausgesetzt hat\. Der Täter ist wegen fahrlässiger Begehung zu bestrafen, wenn er die Voraussetzungen, unter denen seine Handlung entschuldigt wäre, in einem Irrtum angenommen hat, der auf Fahrlässigkeit beruhte, und die fahrlässige Begehung mit Strafe bedroht ist\.
 
+\[ [🔗 Permalink](#-10-stgb--entschuldigender-notstand) \]
+
 ### § 11 StGB — Zurechnungsunfähigkeit
 
 > Wer zur Zeit der Tat wegen einer Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer tiefgreifenden Bewußtseinsstörung oder wegen einer anderen schweren, einem dieser Zustände gleichwertigen seelischen Störung unfähig ist, das Unrecht seiner Tat einzusehen oder nach dieser Einsicht zu handeln, handelt nicht schuldhaft\.
+
+\[ [🔗 Permalink](#-11-stgb--zurechnungsunfähigkeit) \]
 
 ### § 12 StGB — Behandlung aller Beteiligten als Täter
 
 > Nicht nur der unmittelbare Täter begeht die strafbare Handlung, sondern auch jeder, der einen anderen dazu bestimmt, sie auszuführen, oder der sonst zu ihrer Ausführung beiträgt\.
 
+\[ [🔗 Permalink](#-12-stgb--behandlung-aller-beteiligten-als-täter) \]
+
 ### § 13 StGB — Selbständige Strafbarkeit der Beteiligten
 
 > Waren an der Tat mehrere beteiligt, so ist jeder von ihnen nach seiner Schuld zu bestrafen\.
+
+\[ [🔗 Permalink](#-13-stgb--selbständige-strafbarkeit-der-beteiligten) \]
 
 ### § 14 StGB — Eigenschaften und Verhältnisse des Täters
 
 > `(1)` Macht das Gesetz die Strafbarkeit oder die Höhe der Strafe von besonderen persönlichen Eigenschaften oder Verhältnissen des Täters abhängig, die das Unrecht der Tat betreffen, so ist das Gesetz auf alle Beteiligten anzuwenden, wenn diese Eigenschaften oder Verhältnisse auch nur bei einem von ihnen vorliegen\. Hängt das Unrecht der Tat jedoch davon ab, daß der Träger der besonderen persönlichen Eigenschaften oder Verhältnisse die Tat unmittelbar ausführt oder sonst in bestimmter Weise an ihr mitwirkt, so muß auch diese Voraussetzung erfüllt sein\.
 
 > `(2)` Betreffen die besonderen persönlichen Eigenschaften oder Verhältnisse hingegen ausschließlich die Schuld, so ist das Gesetz nur auf die Beteiligten anzuwenden, bei denen diese Eigenschaften oder Verhältnisse vorliegen\.
+
+\[ [🔗 Permalink](#-14-stgb--eigenschaften-und-verhältnisse-des-täters) \]
 
 ### § 15 StGB — Strafbarkeit des Versuches
 
@@ -621,11 +649,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Versuch und die Beteiligung daran sind nicht strafbar, wenn die Vollendung der Tat mangels persönlicher Eigenschaften oder Verhältnisse, die das Gesetz beim Handelnden voraussetzt, oder nach der Art der Handlung oder des Gegenstands, an dem die Tat begangen wurde, unter keinen Umständen möglich war\.
 
+\[ [🔗 Permalink](#-15-stgb--strafbarkeit-des-versuches) \]
+
 ### § 16 StGB — Rücktritt vom Versuch
 
 > `(1)` Der Täter wird wegen des Versuches oder der Beteiligung daran nicht bestraft, wenn er freiwillig die Ausführung aufgibt oder, falls mehrere daran beteiligt sind, verhindert oder wenn er freiwillig den Erfolg abwendet\.
 
 > `(2)` Der Täter wird auch straflos, wenn die Ausführung oder der Erfolg ohne sein Zutun unterbleibt, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich bemüht, die Ausführung zu verhindern oder den Erfolg abzuwenden\.
+
+\[ [🔗 Permalink](#-16-stgb--rücktritt-vom-versuch) \]
 
 ## Zweiter Abschnitt
 
@@ -637,6 +669,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Alle anderen strafbaren Handlungen sind Vergehen\.
 
+\[ [🔗 Permalink](#-17-stgb--einteilung-der-strafbaren-handlungen) \]
+
 ## Dritter Abschnitt
 
 ## Strafen, Verfall und vorbeugende Maßnahmen
@@ -647,6 +681,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die zeitliche Freiheitsstrafe beträgt mindestens einen Tag und höchstens zwanzig Jahre\.
 
+\[ [🔗 Permalink](#-18-stgb--freiheitsstrafen) \]
+
 ### § 19 StGB — Geldstrafen
 
 > `(1)` Die Geldstrafe ist in Tagessätzen zu bemessen\. Sie beträgt mindestens zwei Tagessätze\.
@@ -656,6 +692,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Für den Fall der Uneinbringlichkeit der Geldstrafe ist eine Ersatzfreiheitsstrafe festzusetzen\. Ein Tag Ersatzfreiheitsstrafe entspricht dabei zwei Tagessätzen\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch BGBl\. Nr\. 762/1996\)*
 
+\[ [🔗 Permalink](#-19-stgb--geldstrafen) \]
+
 ### § 19a StGB — Konfiskation
 
 > `(1)` Gegenstände, die der Täter zur Begehung einer vorsätzlichen Straftat verwendet hat, die von ihm dazu bestimmt worden waren, bei der Begehung dieser Straftat verwendet zu werden, oder die durch diese Handlung hervorgebracht worden sind, sind zu konfiszieren, wenn sie zur Zeit der Entscheidung erster Instanz im Eigentum des Täters stehen\.
@@ -663,6 +701,8 @@ Der Nationalrat hat beschlossen:
 > `(1a)` Die Konfiskation erstreckt sich auch auf die zur Zeit der Entscheidung erster Instanz im Eigentum des Täters stehenden Ersatzwerte der in Abs\. 1 bezeichneten Gegenstände\.
 
 > `(2)` Von der Konfiskation ist abzusehen, soweit sie zur Bedeutung der Tat oder zu dem den Täter treffenden Vorwurf außer Verhältnis steht\.
+
+\[ [🔗 Permalink](#-19a-stgb--konfiskation) \]
 
 ### § 20 StGB — Verfall
 
@@ -673,6 +713,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Soweit die dem Verfall nach Abs\. 1 oder 2 unterliegenden Vermögenswerte nicht sichergestellt oder beschlagnahmt sind \(§§ 110 Abs\. 1 Z 3, 115 Abs\. 1 Z 3 StPO\), hat das Gericht einen Geldbetrag für verfallen zu erklären, der den nach Abs\. 1 und Abs\. 2 erlangten Vermögenswerten entspricht\.
 
 > `(4)` Soweit der Umfang der für verfallen zu erklärenden Vermögenswerte nicht oder nur mit unverhältnismäßigem Aufwand ermittelt werden kann, hat das Gericht ihn nach seiner Überzeugung festzusetzen\.
+
+\[ [🔗 Permalink](#-20-stgb--verfall) \]
 
 ### § 20a StGB — Unterbleiben des Verfalls
 
@@ -688,6 +730,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Vom Verfall ist abzusehen, soweit der für verfallen zu erklärende Vermögenswert oder die Aussicht auf dessen Einbringung außer Verhältnis zum Verfahrensaufwand steht, den der Verfall oder die Einbringung erfordern würde\.
 
+\[ [🔗 Permalink](#-20a-stgb--unterbleiben-des-verfalls) \]
+
 ### § 20b StGB — Erweiterter Verfall
 
 > `(1)` Vermögenswerte, die der Verfügungsmacht einer kriminellen Organisation \(§ 278a\) oder einer terroristischen Vereinigung \(§ 278b\) unterliegen oder als Mittel der Terrorismusfinanzierung \(§ 278d\) bereitgestellt oder gesammelt wurden, sind für verfallen zu erklären\.
@@ -698,11 +742,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 20 Abs\. 2 bis Abs\. 4 StGB gilt entsprechend\.
 
+\[ [🔗 Permalink](#-20b-stgb--erweiterter-verfall) \]
+
 ### § 20c StGB — Unterbleiben des erweiterten Verfalls
 
 > `(1)` Der erweiterte Verfall nach § 20b Abs\. 1 StGB ist ausgeschlossen, soweit an den betroffenen Vermögenswerten Rechtsansprüche von Personen bestehen, die an der kriminellen Organisation oder terroristischen Vereinigung oder Terrorismusfinanzierung nicht beteiligt sind\.
 
 > `(2)` § 20a StGB gilt entsprechend\.
+
+\[ [🔗 Permalink](#-20c-stgb--unterbleiben-des-erweiterten-verfalls) \]
 
 ### § 21 StGB — Strafrechtliche Unterbringung in einem forensisch-therapeutischen Zentrum
 
@@ -712,11 +760,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Anlass einer strafrechtlichen Unterbringung können nur Taten sein, die mit mehr als einem Jahr Freiheitsstrafe bedroht sind\. Wenn die angedrohte Freiheitsstrafe dieser Tat drei Jahre nicht übersteigt, muss sich die Befürchtung nach Abs\. 1 auf eine gegen Leib und Leben gerichtete mit mehr als zwei Jahren Freiheitsstrafe bedrohte Handlung oder auf eine gegen die sexuelle Integrität und Selbstbestimmung gerichtete mit mehr als einem Jahr Freiheitsstrafe bedrohte Handlung beziehen\. Als Anlasstaten kommen mit Strafe bedrohte Handlungen gegen fremdes Vermögen nicht in Betracht, es sei denn, sie wurden unter Anwendung von Gewalt gegen eine Person oder unter Drohung mit einer gegenwärtigen Gefahr für Leib oder Leben \(§ 89\) begangen\.
 
+\[ [🔗 Permalink](#-21-stgb--strafrechtliche-unterbringung-in-einem-forensisch-therapeutischen-zentrum) \]
+
 ### § 22 StGB — Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher
 
 > `(1)` Wer dem Mißbrauch eines berauschenden Mittels oder Suchtmittels ergeben ist und wegen einer im Rausch oder sonst im Zusammenhang mit seiner Gewöhnung begangenen strafbaren Handlung oder wegen Begehung einer mit Strafe bedrohten Handlung im Zustand voller Berauschung \(§ 287\) verurteilt wird, ist vom Gericht in eine Anstalt für entwöhnungsbedürftige Rechtsbrecher einzuweisen, wenn nach seiner Person und nach der Art der Tat zu befürchten ist, daß er sonst im Zusammenhang mit seiner Gewöhnung an berauschende Mittel oder Suchtmittel eine mit Strafe bedrohte Handlung mit schweren Folgen oder doch mit Strafe bedrohte Handlungen mit nicht bloß leichten Folgen begehen werde\.
 
 > `(2)` Von der Unterbringung ist abzusehen, wenn der Rechtsbrecher mehr als zwei Jahre in Strafhaft zu verbüßen hat, die Voraussetzungen für seine strafrechtliche Unterbringung in einem forensisch\-therapeutischen Zentrum vorliegen oder der Versuch einer Entwöhnung von vornherein aussichtslos scheint\.
+
+\[ [🔗 Permalink](#-22-stgb--unterbringung-in-einer-anstalt-für-entwöhnungsbedürftige-rechtsbrecher) \]
 
 ### § 23 StGB — Unterbringung von gefährlichen Rückfallstätern und gefährlichen terroristischen Straftätern in einer Anstalt für gefährliche Rückfallstäter
 
@@ -744,11 +796,15 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Ausländische Verurteilungen sind zu berücksichtigen, wenn die Voraussetzungen des § 73 vorliegen und anzunehmen ist, dass der Täter auch von einem inländischen Gericht zu einer Freiheitsstrafe von mehr als sechs Monaten \(Abs\. 1\) beziehungsweise einem Jahr \(Abs\. 1a\) verurteilt worden wäre und im Fall des Abs\. 1 die zur Erfüllung der Voraussetzungen des Abs\. 1 Z 2 erforderliche Zeit in Strafhaft zugebracht hätte\.
 
+\[ [🔗 Permalink](#-23-stgb--unterbringung-von-gefährlichen-rückfallstätern-und-gefährlichen-terroristischen-straftätern-in-einer-anstalt-für-gefährliche-rückfallstäter) \]
+
 ### § 24 StGB — Reihenfolge des Vollzugs von Freiheitsstrafen und mit Freiheitsentziehung verbundenen vorbeugenden Maßnahmen
 
 > `(1)` Die Unterbringung in einem forensisch\-therapeutischen Zentrum oder in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher ist vor einer Freiheitsstrafe zu vollziehen\. Die Zeit der Anhaltung ist auf die Strafe anzurechnen\. Dies gilt auch dann, wenn die Freiheitsstrafe nicht zugleich mit der Anordnung der Unterbringung verhängt wurde\. Wird die Unterbringung vor dem Ablauf der Strafzeit aufgehoben, so ist der Rechtsbrecher in den Strafvollzug zu überstellen, es sei denn, dass ihm der Rest der Strafe bedingt oder unbedingt erlassen wird\.
 
 > `(2)` Die Unterbringung in einer Anstalt für gefährliche Rückfallstäter ist nach der Freiheitsstrafe zu vollziehen\. Vor der Überstellung des Rechtsbrechers in die Anstalt für gefährliche Rückfallstäter hat das Gericht von Amts wegen zu prüfen, ob die Unterbringung noch notwendig ist\.
+
+\[ [🔗 Permalink](#-24-stgb--reihenfolge-des-vollzugs-von-freiheitsstrafen-und-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahmen) \]
 
 ### § 25 StGB — Dauer der mit Freiheitsentziehung verbundenen vorbeugenden Maßnahmen
 
@@ -762,6 +818,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Fristen nach Abs\. 3 und 4 beginnen mit der letzten Entscheidung erster Instanz\.
 
+\[ [🔗 Permalink](#-25-stgb--dauer-der-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahmen) \]
+
 ### § 26 StGB — Einziehung
 
 > `(1)` Gegenstände, die der Täter zur Begehung der mit Strafe bedrohten Handlung verwendet hat, die von ihm dazu bestimmt worden waren, bei Begehung dieser Handlung verwendet zu werden, oder die durch diese Handlung hervorgebracht worden sind, sind einzuziehen, wenn dies nach der besonderen Beschaffenheit der Gegenstände geboten erscheint, um der Begehung mit Strafe bedrohter Handlungen entgegenzuwirken\.
@@ -769,6 +827,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Von der Einziehung ist abzusehen, wenn der Berechtigte die besondere Beschaffenheit der Gegenstände beseitigt, insbesondere indem er Vorrichtungen oder Kennzeichnungen entfernt oder unbrauchbar macht, die die Begehung mit Strafe bedrohter Handlungen erleichtern\. Gegenstände, auf die eine an der strafbaren Handlung nicht beteiligte Person Rechtsansprüche hat, dürfen nur eingezogen werden, wenn die betreffende Person keine Gewähr dafür bietet, daß die Gegenstände nicht zur Begehung strafbarer Handlungen verwendet werden\.
 
 > `(3)` Liegen die Voraussetzungen der Einziehung vor, so sind die Gegenstände auch dann einzuziehen, wenn keine bestimmte Person wegen der mit Strafe bedrohten Handlung verfolgt oder verurteilt werden kann\.
+
+\[ [🔗 Permalink](#-26-stgb--einziehung) \]
 
 ### § 27 StGB — Amtsverlust und andere Rechtsfolgen der Verurteilung
 
@@ -782,6 +842,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Zieht eine strafgerichtliche Verurteilung nach einem Bundesgesetz eine andere als die im Abs\. 1 genannte Rechtsfolge nach sich, so endet die Rechtsfolge, wenn nichts anderes bestimmt ist, soweit sie nicht im Verlust besonderer auf Wahl, Verleihung oder Ernennung beruhender Rechte besteht, nach fünf Jahren\. Die Frist beginnt, sobald die Strafe vollstreckt ist und vorbeugende Maßnahmen vollzogen oder weggefallen sind; ist die Strafe nur durch Anrechnung einer Vorhaft verbüßt worden, so beginnt die Frist mit Rechtskraft des Urteils\.
 
+\[ [🔗 Permalink](#-27-stgb--amtsverlust-und-andere-rechtsfolgen-der-verurteilung) \]
+
 ### § 28 StGB — Zusammentreffen strafbarer Handlungen
 
 > `(1)` Hat jemand durch eine Tat oder durch mehrere selbständige Taten mehrere strafbare Handlungen derselben oder verschiedener Art begangen und wird über diese strafbaren Handlungen gleichzeitig erkannt, so ist, wenn die zusammentreffenden Gesetze nur Freiheitsstrafen oder nur Geldstrafen vorsehen, auf eine einzige Freiheitsstrafe oder Geldstrafe zu erkennen\. Diese Strafe ist nach dem Gesetz zu bestimmen, das die höchste Strafe androht\. Von der außerordentlichen Strafmilderung abgesehen, darf jedoch keine geringere Strafe als die höchste der in den zusammentreffenden Gesetzen vorgesehenen Mindeststrafen verhängt werden\.
@@ -792,19 +854,27 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Vorbeugende Maßnahmen sind anzuordnen, wenn die Voraussetzungen hiefür auf Grund einer oder mehrerer der mit Strafe bedrohten Handlungen, über die gleichzeitig geurteilt wird, gegeben sind\.
 
+\[ [🔗 Permalink](#-28-stgb--zusammentreffen-strafbarer-handlungen) \]
+
 ### § 29 StGB — Zusammenrechnung der Werte und Schadensbeträge
 
 > Hängt die Höhe der Strafdrohung von dem ziffernmäßig bestimmten Wert einer Sache, gegen die sich die Handlung richtet, oder von der ziffernmäßig bestimmten Höhe des Schadens ab, den sie verursacht oder auf den sich der Vorsatz des Täters erstreckt, so ist, wenn der Täter mehrere Taten derselben Art begangen hat, die Summe der Werte oder Schadensbeträge maßgebend\.
 
+\[ [🔗 Permalink](#-29-stgb--zusammenrechnung-der-werte-und-schadensbeträge) \]
+
 ### § 30 StGB — Unzulässigkeit mehrfacher Erhöhung der im Gesetz bestimmten Obergrenze
 
 > Eine Überschreitung der im Gesetz bestimmten Obergrenze einer Strafdrohung um die Hälfte ist immer nur einmal zulässig, mögen auch verschiedene Gründe, aus denen eine solche Überschreitung zulässig ist \(§§ 39, 313\), zusammentreffen\.
+
+\[ [🔗 Permalink](#-30-stgb--unzulässigkeit-mehrfacher-erhöhung-der-im-gesetz-bestimmten-obergrenze) \]
 
 ### § 31 StGB — Strafe bei nachträglicher Verurteilung
 
 > `(1)` Wird jemand, der bereits zu einer Strafe verurteilt worden ist, wegen einer anderen Tat verurteilt, die nach der Zeit ihrer Begehung schon in dem früheren Verfahren hätte abgeurteilt werden können, so ist eine Zusatzstrafe zu verhängen\. Diese darf das Höchstmaß der Strafe nicht übersteigen, die für die nun abzuurteilende Tat angedroht ist\. Die Summe der Strafen darf die Strafe nicht übersteigen, die nach den Regeln über die Strafbemessung beim Zusammentreffen strafbarer Handlungen und über die Zusammenrechnung der Werte und Schadensbeträge zulässig wäre\.
 
 > `(2)` Einer früheren inländischen Verurteilung steht eine frühere ausländische auch dann gleich, wenn die Voraussetzungen nach § 73 nicht vorliegen\.
+
+\[ [🔗 Permalink](#-31-stgb--strafe-bei-nachträglicher-verurteilung) \]
 
 ### § 31a StGB — Nachträgliche Milderung der Strafe und des Verfalls
 
@@ -813,6 +883,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Verschlechtern sich nachträglich die persönlichen Verhältnisse oder die wirtschaftliche Leistungsfähigkeit eines zu einer Geldstrafe Verurteilten nicht bloß unerheblich, so hat das Gericht für die noch aushaftende Geldstrafe die Höhe des Tagessatzes innerhalb der Grenzen des § 19 Abs\. 2 neu zu bemessen, es sei denn, daß der Verurteilte die Verschlechterung vorsätzlich, und sei es auch nur durch Unterlassung einer zumutbaren Erwerbstätigkeit, herbeigeführt hat\.
 
 > `(3)` Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils nicht auf Verfall oder nur auf Verfall geringerer Vermögenswerte zu erkennen gewesen wäre, hat das Gericht die Entscheidung entsprechend zu ändern\.
+
+\[ [🔗 Permalink](#-31a-stgb--nachträgliche-milderung-der-strafe-und-des-verfalls) \]
 
 ## Vierter Abschnitt
 
@@ -825,6 +897,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Bei Bemessung der Strafe hat das Gericht die Erschwerungs\- und die Milderungsgründe, soweit sie nicht schon die Strafdrohung bestimmen, gegeneinander abzuwägen und auch auf die Auswirkungen der Strafe und anderer zu erwartender Folgen der Tat auf das künftige Leben des Täters in der Gesellschaft Bedacht zu nehmen\. Dabei ist vor allem zu berücksichtigen, inwieweit die Tat auf eine gegenüber rechtlich geschützten Werten ablehnende oder gleichgültige Einstellung des Täters und inwieweit sie auf äußere Umstände oder Beweggründe zurückzuführen ist, durch die sie auch einem mit den rechtlich geschützten Werten verbundenen Menschen naheliegen könnte\.
 
 > `(3)` Im allgemeinen ist die Strafe umso strenger zu bemessen, je größer die Schädigung oder Gefährdung ist, die der Täter verschuldet hat oder die er zwar nicht herbeigeführt, aber auf die sich sein Verschulden erstreckt hat, je mehr Pflichten er durch seine Handlung verletzt, je reiflicher er seine Tat überlegt, je sorgfältiger er sie vorbereitet oder je rücksichtsloser er sie ausgeführt hat und je weniger Vorsicht gegen die Tat hat gebraucht werden können\.
+
+\[ [🔗 Permalink](#-32-stgb--allgemeine-grundsätze) \]
 
 ### § 33 StGB — Besondere Erschwerungsgründe
 
@@ -865,6 +939,8 @@ Der Nationalrat hat beschlossen:
 > &nbsp; begangen hat\.
 
 > `(3)` Ein Erschwerungsgrund ist es ferner auch, wenn der Täter einer strafbaren Handlung nach § 165 ein Verpflichteter im Sinne des Art\. 2 der Richtlinie \(EU\) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung, ABl\. Nr\. L 141 vom 05\.06\.2015 S 73, in der Fassung der Richtlinie \(EU\) 2018/843, ABl\. Nr\. L 156 vom 19\.06\.2018 S 43, ist und die Straftat in Ausübung seiner beruflichen Tätigkeit, die unter diese Richtlinie fällt, begangen hat\.
+
+\[ [🔗 Permalink](#-33-stgb--besondere-erschwerungsgründe) \]
 
 ### § 34 StGB — Besondere Milderungsgründe
 
@@ -910,19 +986,27 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Milderungsgrund ist es auch, wenn das gegen den Täter geführte Verfahren aus einem nicht von ihm oder seinem Verteidiger zu vertretenden Grund unverhältnismäßig lange gedauert hat\.
 
+\[ [🔗 Permalink](#-34-stgb--besondere-milderungsgründe) \]
+
 ### § 35 StGB — Berauschung
 
 > Hat der Täter in einem die Zurechnungsfähigkeit nicht ausschließenden Rauschzustand gehandelt, so ist dies nur insoweit mildernd, als die dadurch bedingte Herabsetzung der Zurechnungsfähigkeit nicht durch den Vorwurf aufgewogen wird, den der Genuß oder Gebrauch des berauschenden Mittels den Umständen nach begründet\.
 
+\[ [🔗 Permalink](#-35-stgb--berauschung) \]
+
 ### § 36 StGB — Verhängung von Freiheitsstrafen über Personen unter einundzwanzig Jahren
 
 > Für eine Person, die zur Zeit der Tat das einundzwanzigste Lebensjahr noch nicht vollendet hat, gelten die in § 19 JGG vorgesehenen Strafdrohungen\.
+
+\[ [🔗 Permalink](#-36-stgb--verhängung-von-freiheitsstrafen-über-personen-unter-einundzwanzig-jahren) \]
 
 ### § 37 StGB — Verhängung von Geldstrafen an Stelle von Freiheitsstrafen
 
 > `(1)` Ist für eine Tat keine strengere Strafe als Freiheitsstrafe bis zu fünf Jahren angedroht, so ist statt auf eine Freiheitsstrafe von nicht mehr als einem Jahr gleichwohl auf eine Geldstrafe von nicht mehr als 720 Tagessätzen zu erkennen, wenn es nicht der Verurteilung zu einer Freiheitsstrafe bedarf, um den Täter von weiteren strafbaren Handlungen abzuhalten\.
 
 > `(2)` Ist für eine Tat eine strengere Freiheitsstrafe als nach Abs\. 1, aber keine strengere als eine zehnjährige Freiheitsstrafe, angedroht, so ist die Verhängung einer Geldstrafe von nicht mehr als 720 Tagessätzen an Stelle einer Freiheitsstrafe von nicht mehr als einem Jahr nur zulässig, wenn es nicht der Verurteilung zu einer Freiheitsstrafe bedarf, um den Täter von weiteren strafbaren Handlungen abzuhalten, und die Verhängung einer Geldstrafe genügt, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken\.
+
+\[ [🔗 Permalink](#-37-stgb--verhängung-von-geldstrafen-an-stelle-von-freiheitsstrafen) \]
 
 ### § 38 StGB — Anrechnung der Vorhaft
 
@@ -936,6 +1020,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für die Anrechnung der Vorhaft auf eine Geldstrafe ist die Ersatzfreiheitsstrafe maßgebend\.
 
+\[ [🔗 Permalink](#-38-stgb--anrechnung-der-vorhaft) \]
+
 ### § 39 StGB — Strafschärfung bei Rückfall
 
 > `(1)` Ist der Täter schon zweimal wegen Taten, die auf der gleichen schädlichen Neigung beruhen, zu einer Freiheitsstrafe verurteilt worden und hat er diese Strafen wenigstens zum Teil, wenn auch nur durch Anrechnung einer Vorhaft oder der mit dem Vollzug einer vorbeugenden Maßnahme verbundenen Freiheitsentziehung, verbüßt, so erhöht sich, wenn er nach Vollendung des neunzehnten Lebensjahres neuerlich aus der gleichen schädlichen Neigung eine strafbare Handlung begeht, das Höchstmaß der angedrohten Freiheitsstrafe oder Geldstrafe um die Hälfte\. Doch darf die zeitliche Freiheitsstrafe die Dauer von zwanzig Jahren nicht überschreiten\.
@@ -947,6 +1033,8 @@ Der Nationalrat hat beschlossen:
 > *\(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 >
 > *Anm\. 1: Art\. 4 Z 4a der Novelle BGBl\. I Nr\. 105/2019 lautet: „In § 39 Abs\. 2 wird im zweiten Satz nach dem Wort „Strafe“ die Wendung „bedingt nachgesehen oder“ eingefügt\.“ Richtig wäre: „\.\.\. wird im dritten Satz \.\.\.“\.\)*
+
+\[ [🔗 Permalink](#-39-stgb--strafschärfung-bei-rückfall) \]
 
 ### § 39a StGB — Änderung der Strafdrohung bei bestimmten Gewalttaten
 
@@ -976,9 +1064,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Anwendung des § 39 bleibt hievon unberührt\. Bei der Anwendung des § 41 ist von den nach Abs\. 2 geänderten Strafdrohungen auszugehen\.
 
+\[ [🔗 Permalink](#-39a-stgb--änderung-der-strafdrohung-bei-bestimmten-gewalttaten) \]
+
 ### § 40 StGB — Strafbemessung bei nachträglicher Verurteilung
 
 > Bei nachträglicher Verurteilung ist die Zusatzstrafe innerhalb der im § 31 bestimmten Grenzen so zu bemessen, daß die Summe der Strafen jener Strafe entspricht, die bei gemeinsamer Aburteilung zu verhängen wäre\. Wäre bei gemeinsamer Aburteilung keine höhere Strafe als die im früheren Urteil verhängte auszusprechen, so ist von einer Zusatzstrafe abzusehen\.
+
+\[ [🔗 Permalink](#-40-stgb--strafbemessung-bei-nachträglicher-verurteilung) \]
 
 ### § 41 StGB — Außerordentliche Strafmilderung bei Überwiegen der Milderungsgründe
 
@@ -998,6 +1090,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die §§ 43 und 43a können auch angewendet werden, wenn auf eine Freiheitsstrafe von mehr als zwei beziehungsweise drei, aber nicht mehr als fünf Jahren erkannt wird oder zu erkennen wäre, sofern die Milderungsgründe die Erschwerungsgründe beträchtlich überwiegen und begründete Aussicht besteht, dass der Täter auch bei Verhängung einer solchen Strafe keine weiteren strafbaren Handlungen begehen werde\.
 
+\[ [🔗 Permalink](#-41-stgb--außerordentliche-strafmilderung-bei-überwiegen-der-milderungsgründe) \]
+
 ### § 41a StGB — Außerordentliche Strafmilderung bei Zusammenarbeit mit den Strafverfolgungsbehörden
 
 > `(1)` Offenbart der Täter einer nach den §§ 277, 278, 278a oder 278b strafbaren Handlung oder einer strafbaren Handlung, die mit einer solchen Verabredung, Vereinigung oder Organisation im Zusammenhang steht, einer Strafverfolgungsbehörde sein Wissen über Tatsachen, deren Kenntnis wesentlich dazu beiträgt,
@@ -1014,6 +1108,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Bezieht sich das Wissen des Täters auf strafbare Handlungen, für die die österreichischen Strafgesetze nicht gelten, so ist Abs\. 1 gleichwohl anzuwenden, soweit die Leistung von Rechtshilfe zulässig wäre\.
 
+\[ [🔗 Permalink](#-41a-stgb--außerordentliche-strafmilderung-bei-zusammenarbeit-mit-den-strafverfolgungsbehörden) \]
+
 ## Fünfter Abschnitt
 
 ## Bedingte Strafnachsicht und bedingte Entlassung, Weisungen und Bewährungshilfe
@@ -1026,6 +1122,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die bedingte Nachsicht \(Abs\. 1\) einer wegen Vergewaltigung \(§ 201\) verhängten Strafe ist ausgeschlossen\.
 
+\[ [🔗 Permalink](#-43-stgb--bedingte-strafnachsicht) \]
+
 ### § 43a StGB — Bedingte Nachsicht eines Teiles der Strafe
 
 > `(1)` Wird auf eine Geldstrafe erkannt und treffen die Voraussetzungen des § 43 Abs\. 1 auf einen Teil der Strafe zu, so hat das Gericht diesen Teil, höchstens jedoch drei Viertel davon, bedingt nachzusehen\.
@@ -1037,11 +1135,15 @@ Der Nationalrat hat beschlossen:
 > `(4)` Wird auf eine Freiheitsstrafe von mehr als zwei, aber nicht mehr als drei Jahren erkannt und besteht eine hohe Wahrscheinlichkeit, daß der Rechtsbrecher keine weiteren strafbaren Handlungen begehen werde, so ist unter den Voraussetzungen des § 43 Abs\. 1 ein Teil der Strafe bedingt nachzusehen\. Abs\. 3 letzter Satz ist anzuwenden\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 105/1997\)*
 
+\[ [🔗 Permalink](#-43a-stgb--bedingte-nachsicht-eines-teiles-der-strafe) \]
+
 ### § 44 StGB — Bedingte Nachsicht bei Zusammentreffen mehrerer Strafen
 
 > `(1)` Werden eine Freiheitsstrafe und eine Geldstrafe nebeneinander verhängt, so sind, wenn die Voraussetzungen dafür zutreffen, beide Strafen bedingt nachzusehen\. Ist anzunehmen, daß der Vollzug einer dieser Strafen oder eines Teiles einer Strafe genügen werde, so können die §§ 43 und 43a auf jede der beiden Strafen angewendet werden\.
 
 > `(2)` Nebenstrafen und Rechtsfolgen der Verurteilung können unabhängig von der Hauptstrafe bedingt nachgesehen werden\.
+
+\[ [🔗 Permalink](#-44-stgb--bedingte-nachsicht-bei-zusammentreffen-mehrerer-strafen) \]
 
 ### § 45 StGB — Bedingte Nachsicht von vorbeugenden Maßnahmen
 
@@ -1052,6 +1154,8 @@ Der Nationalrat hat beschlossen:
 >> `(3)` § 43 Abs\. 2 gilt dem Sinne nach\.
 >
 >> `(4)` Die bedingte Nachsicht anderer vorbeugender Maßnahmen ist unzulässig\.
+
+\[ [🔗 Permalink](#-45-stgb--bedingte-nachsicht-von-vorbeugenden-maßnahmen) \]
 
 ### § 46 StGB — Bedingte Entlassung aus einer Freiheitsstrafe
 
@@ -1066,6 +1170,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Ein zu einer lebenslangen Freiheitsstrafe Verurteilter darf nur bedingt entlassen werden, wenn er mindestens fünfzehn Jahre verbüßt hat und anzunehmen ist, dass er keine weiteren strafbaren Handlungen begehen werde\.
 
+\[ [🔗 Permalink](#-46-stgb--bedingte-entlassung-aus-einer-freiheitsstrafe) \]
+
 ### § 47 StGB — Entlassung aus einer mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme
 
 > `(1)` Aus einem forensisch\-therapeutischen Zentrum sind die Eingewiesenen stets nur unter Bestimmung einer Probezeit bedingt zu entlassen\. Aus einer Anstalt für entwöhnungsbedürftige Rechtsbrecher und aus einer Anstalt für gefährliche Rückfallstäter sind die Eingewiesenen unbedingt zu entlassen, wenn die Anhaltezeit \(§ 25 Abs\. 1\) abgelaufen ist oder im Fall der Anhaltung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher eine Fortsetzung oder Ergänzung der Entwöhnungsbehandlung keinen Erfolg verspräche, sonst unter Bestimmung einer Probezeit nur bedingt\.
@@ -1076,6 +1182,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Entscheidung, daß die Überstellung des Rechtsbrechers in die Anstalt für gefährliche Rückfallstäter nicht mehr notwendig ist \(§ 24 Abs\. 2\), steht einer bedingten Entlassung aus der Anstalt für gefährliche Rückfallstäter gleich\.
 
+\[ [🔗 Permalink](#-47-stgb--entlassung-aus-einer-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahme) \]
+
 ### § 48 StGB — Probezeiten
 
 > `(1)` Die Probezeit bei der bedingten Entlassung aus einer Freiheitsstrafe ist mit mindestens einem Jahr und höchstens drei Jahren zu bemessen\. Erweist sich die Fortsetzung einer Behandlung im Sinne von § 51 Abs\. 3, zu der sich der Verurteilte bereit erklärt hat, als notwendig, um eine bedingte Entlassung rechtfertigen zu können \(§ 46 Abs\. 4\), so ist die Probezeit mit mindestens einem und höchstens fünf Jahren zu bemessen\. Übersteigt der bedingt erlassene Strafrest drei Jahre oder erfolgt die bedingte Entlassung aus einer Freiheitsstrafe wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung von mehr als einem Jahr, so beträgt die Probezeit fünf Jahre\. Bei der bedingten Entlassung aus einer lebenslangen Freiheitsstrafe beträgt die Probezeit 10 Jahre\.
@@ -1084,9 +1192,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird die bedingte Nachsicht des Strafrestes oder die bedingte Entlassung aus einer mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme nicht widerrufen, so ist sie für endgültig zu erklären\. Fristen, deren Lauf beginnt, sobald die Strafe vollstreckt oder die vorbeugende Maßnahme vollzogen ist, sind in einem solchen Fall ab der bedingten Entlassung aus der Strafe oder aus der vorbeugenden Maßnahme zu berechnen\.
 
+\[ [🔗 Permalink](#-48-stgb--probezeiten) \]
+
 ### § 49 StGB — Berechnung der Probezeiten
 
 > Die Probezeit beginnt mit der Rechtskraft der Entscheidung, mit der die bedingte Nachsicht \(§§ 43 bis 45\) oder die bedingte Entlassung \(§§ 46 und 47\) ausgesprochen worden ist\. Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, werden in die Probezeit nicht eingerechnet\. Wird ein Verurteilter aus dem nicht bedingt nachgesehenen Teil einer Freiheitsstrafe vor Ablauf der für den bedingt nachgesehenen Strafteil bestimmten Probezeit bedingt entlassen, so laufen beide Probezeiten nur gemeinsam ab\.
+
+\[ [🔗 Permalink](#-49-stgb--berechnung-der-probezeiten) \]
 
 ### § 50 StGB — Erteilung von Weisungen und Anordnung der Bewährungshilfe
 
@@ -1108,6 +1220,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Weisungen sowie die Anordnung der Bewährungshilfe gelten für die Dauer des vom Gericht bestimmten Zeitraums, höchstens jedoch bis zum Ende der Probezeit, soweit sie nicht vorher aufgehoben oder gegenstandslos werden\. Im Fall des Abs\. 2 Z 3 ist Bewährungshilfe zumindest für das erste Jahr und im Fall der Abs\. 2 Z 4 zumindest für die ersten drei Jahre nach der Entlassung anzuordnen\.
 
+\[ [🔗 Permalink](#-50-stgb--erteilung-von-weisungen-und-anordnung-der-bewährungshilfe) \]
+
 ### § 51 StGB — Weisungen
 
 > `(1)` Als Weisungen kommen Gebote und Verbote in Betracht, deren Beachtung geeignet scheint, den Rechtsbrecher von weiteren mit Strafe bedrohten Handlungen abzuhalten\. Weisungen, die einen unzumutbaren Eingriff in die Persönlichkeitsrechte oder in die Lebensführung des Rechtsbrechers darstellen würden, sind unzulässig\.
@@ -1123,6 +1237,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Das Gericht hat während der Probezeit Weisungen auch nachträglich zu erteilen oder erteilte Weisungen zu ändern oder aufzuheben, soweit dies nach § 50 geboten scheint\.
 
 > `(5)` Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 45 gilt § 179a des Strafvollzugsgesetzes \(StVG\), BGBl\. Nr\. 144/1969, sinngemäß\.
+
+\[ [🔗 Permalink](#-51-stgb--weisungen) \]
 
 ### § 52 StGB — Bewährungshilfe
 
@@ -1140,6 +1256,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Das Gericht hat während der Probezeit die Bewährungshilfe auch nachträglich anzuordnen oder sie aufzuheben, soweit dies nach § 50 geboten erscheint\. In den Fällen des § 50 Abs\. 2 Z 1 bis 3 ist jedenfalls nach Ablauf eines Jahres seit der Entlassung nach Einholung eines Berichtes des Bewährungshelfers und einer Stellungnahme des Leiters der zuständigen Geschäftsstelle für Bewährungshilfe zu entscheiden, ob die Anordnung der Bewährungshilfe weiterhin notwendig oder zweckmäßig ist\.
 
+\[ [🔗 Permalink](#-52-stgb--bewährungshilfe) \]
+
 ### § 52a StGB — Gerichtliche Aufsicht bei Sexualstraftätern und sexuell motivierten Gewalttätern
 
 > `(1)` Wird ein Rechtsbrecher, der wegen einer strafbaren Handlung
@@ -1153,6 +1271,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Das Gericht hat während der gerichtlichen Aufsicht das Verhalten des Rechtsbrechers und die Erfüllung der Weisungen mit Unterstützung der Bewährungshilfe, in geeigneten Fällen unter Betrauung der Sicherheitsbehörden oder anderer geeigneter Einrichtungen, zu überwachen\. Die mit der Überwachung betrauten Stellen haben dem Gericht über die von ihnen gesetzten Maßnahmen und ihre Wahrnehmungen zu berichten\. Der Bewährungshelfer hat dem Gericht bei Anordnung der gerichtlichen Aufsicht, soweit dies das Gericht verlangt oder es erforderlich oder zweckmäßig ist, in jedem Fall aber in der ersten Hälfte der gerichtlichen Aufsicht mindestens alle drei, in der zweiten Hälfte mindestens alle sechs Monate zu berichten\.
 
 > `(3)` Die Organe des öffentlichen Sicherheitsdienstes sind zur Erfüllung der den Sicherheitsbehörden gemäß Abs\. 2 übertragenen Aufgaben zur Feststellung der Identität einer Person nach den Vorschriften des Sicherheitspolizeigesetzes ermächtigt, wenn aufgrund bestimmter Tatsachen anzunehmen ist, sie stehe unter gerichtlicher Aufsicht und habe die ihr erteilten Weisungen nicht befolgt oder sonst ein Verhalten gesetzt, das mit den Zwecken der gerichtlichen Aufsicht nicht vereinbar ist\.
+
+\[ [🔗 Permalink](#-52a-stgb--gerichtliche-aufsicht-bei-sexualstraftätern-und-sexuell-motivierten-gewalttätern) \]
 
 ### § 52b StGB — Gerichtliche Aufsicht bei staatsfeindlichen und terroristischen Strafsachen sowie Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen
 
@@ -1186,6 +1306,8 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` Die Bundesministerin für Justiz ist ermächtigt, durch Verordnung Richtlinien über die Art und die Durchführung der elektronischen Überwachung zu erlassen\.
 
+\[ [🔗 Permalink](#-52b-stgb--gerichtliche-aufsicht-bei-staatsfeindlichen-und-terroristischen-strafsachen-sowie-völkermord-verbrechen-gegen-die-menschlichkeit-kriegsverbrechen) \]
+
 ### § 53 StGB — Widerruf der bedingten Strafnachsicht und der bedingten Entlassung aus einer Freiheitsstrafe
 
 > `(1)` Wird der Rechtsbrecher wegen einer während der Probezeit begangenen strafbaren Handlung verurteilt, so hat das Gericht die bedingte Strafnachsicht oder die bedingte Entlassung aus einer Freiheitsstrafe zu widerrufen und die Strafe, den Strafteil oder den Strafrest vollziehen zu lassen, wenn dies in Anbetracht der neuerlichen Verurteilung zusätzlich zu dieser geboten erscheint, um den Rechtsbrecher von weiteren strafbaren Handlungen abzuhalten\. Im Fall des Widerrufs der bedingten Entlassung aus einer lebenslangen Freiheitsstrafe steht der Strafrest hinsichtlich der zeitlichen Voraussetzungen für eine abermalige bedingte Entlassung einer Freiheitsstrafe von zehn Jahren gleich\. Eine strafbare Handlung, die der Rechtsbrecher in der Zeit zwischen der Entscheidung erster Instanz und der Rechtskraft der Entscheidung über die Gewährung der bedingten Strafnachsicht oder der bedingten Entlassung oder während einer behördlichen Anhaltung, die in die Probezeit nicht einzurechnen ist \(§ 49\), begangen hat, steht einer in der Probezeit verübten strafbaren Handlung gleich\.
@@ -1197,6 +1319,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Bestehen gegen Ende der ursprünglichen oder verlängerten Probezeit nach bedingter Entlassung aus einer lebenslangen Freiheitsstrafe oder aus einer Freiheitsstrafe wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung von mehr als fünf Jahren sonst besondere Gründe zur Annahme, dass es einer weiteren Erprobung des Rechtsbrechers bedarf, so kann das Gericht die Probezeit um höchstens drei Jahre verlängern\. Eine wiederholte Verlängerung ist zulässig\.
 
 > `(5)` Nach Abs\. 4 kann auch in den Fällen vorgegangen werden, in denen nach § 52b gerichtliche Aufsicht nach bedingter Entlassung aus einer Freiheitsstrafe von mehr als achtzehn Monaten angeordnet wurde\. Vor einer solchen Anordnung ist eine gerichtliche Fallkonferenz nach § 52b Abs\. 3 StGB abzuhalten\. Die Weisung einer elektronischen Überwachung darf höchstens zehn Jahre aufrechterhalten werden\.
+
+\[ [🔗 Permalink](#-53-stgb--widerruf-der-bedingten-strafnachsicht-und-der-bedingten-entlassung-aus-einer-freiheitsstrafe) \]
 
 ### § 54 StGB — Widerruf der bedingten Nachsicht und der bedingten Entlassung bei einer vorbeugenden Maßnahme
 
@@ -1212,6 +1336,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Die bedingte Entlassung aus einer Anstalt für entwöhnungsbedürftige Rechtsbrecher ist nicht zu widerrufen, wenn die Fortsetzung der Behandlung von vornherein aussichtslos scheint\.
 
+\[ [🔗 Permalink](#-54-stgb--widerruf-der-bedingten-nachsicht-und-der-bedingten-entlassung-bei-einer-vorbeugenden-maßnahme) \]
+
 ### § 55 StGB — Widerruf bei nachträglicher Verurteilung
 
 > `(1)` Die bedingte Nachsicht einer Strafe, eines Strafteiles und der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher ist zu widerrufen, wenn eine nachträgliche Verurteilung gemäß § 31 erfolgt und die bedingte Nachsicht bei gemeinsamer Aburteilung nicht gewährt worden wäre\.
@@ -1220,9 +1346,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird die bedingte Nachsicht nicht widerrufen, so dauert jede der zusammentreffenden Probezeiten bis zum Ablauf der Probezeit, die zuletzt endet, jedoch nicht länger als fünf Jahre\.
 
+\[ [🔗 Permalink](#-55-stgb--widerruf-bei-nachträglicher-verurteilung) \]
+
 ### § 56 StGB — Widerrufsfristen
 
 > Die in den §§ 53 bis 55 vorgesehenen Verfügungen kann das Gericht nur in der Probezeit, wegen einer während dieser Zeit begangenen strafbaren Handlung jedoch auch innerhalb von sechs Monaten nach Ablauf der Probezeit oder nach Beendigung eines bei deren Ablauf gegen den Rechtsbrecher anhängigen Strafverfahrens treffen\.
+
+\[ [🔗 Permalink](#-56-stgb--widerrufsfristen) \]
 
 ## Sechster Abschnitt
 
@@ -1253,6 +1383,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende Maßnahmen unzulässig\.
 
+\[ [🔗 Permalink](#-57-stgb--verjährung-der-strafbarkeit) \]
+
 ### § 58 StGB — Verlängerung der Verjährungsfrist
 
 > `(1)` Tritt ein zum Tatbild gehörender Erfolg erst ein, nachdem die mit Strafe bedrohte Tätigkeit abgeschlossen worden ist oder das mit Strafe bedrohte Verhalten aufgehört hat, so endet die Verjährungsfrist nicht, bevor sie entweder auch vom Eintritt des Erfolges ab verstrichen ist oder seit dem im § 57 Abs\. 2 bezeichneten Zeitpunkt ihr Eineinhalbfaches, mindestens aber drei Jahre abgelaufen sind\.
@@ -1273,6 +1405,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wird die Tat nur auf Verlangen oder mit Ermächtigung eines dazu Berechtigten verfolgt, so wird der Lauf der Verjährung nicht dadurch gehemmt, daß die Verfolgung nicht verlangt oder die Ermächtigung nicht erteilt wird\.
 
+\[ [🔗 Permalink](#-58-stgb--verlängerung-der-verjährungsfrist) \]
+
 ### § 59 StGB — Verjährung der Vollstreckbarkeit
 
 > `(1)` Die Vollstreckbarkeit einer lebenslangen Freiheitsstrafe, einer Freiheitsstrafe von mehr als zehn Jahren, einer wegen einer strafbaren Handlung nach dem fünfundzwanzigsten Abschnitt verhängten Strafe und einer Unterbringung in einem forensisch\-therapeutischen Zentrum oder in einer Anstalt oder für gefährliche Rückfallstäter verjährt nicht\.
@@ -1292,6 +1426,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist gleichzeitig auf mehrere Strafen oder vorbeugende Maßnahmen erkannt worden, so richtet sich die Verjährung der Vollstreckbarkeit aller dieser Strafen oder Maßnahmen nach der Strafe oder Maßnahme, für die die längste Verjährungsfrist vorgesehen ist\. Sind eine Freiheitsstrafe und eine Geldstrafe gleichzeitig verhängt worden, so ist zur Berechnung der Verjährungsfrist die Ersatzfreiheitsstrafe zur Freiheitsstrafe hinzuzurechnen\.
 
+\[ [🔗 Permalink](#-59-stgb--verjährung-der-vollstreckbarkeit) \]
+
 ### § 60 StGB — Verlängerung der Frist für die Vollstreckungsverjährung
 
 > `(1)` Wird gegen den Verurteilten in der Verjährungsfrist auf eine neue Strafe oder vorbeugende Maßnahme erkannt, so tritt die Verjährung der Vollstreckbarkeit nicht ein, bevor nicht auch die Vollstreckbarkeit dieser Strafe oder vorbeugenden Maßnahme erloschen ist\.
@@ -1308,6 +1444,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Vollzug der Freiheitsstrafe oder der mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme unterbricht die Verjährung\. Hört die Unterbrechung auf, ohne daß der Verurteilte endgültig entlassen wird, so beginnt die Verjährungsfrist unbeschadet der Bestimmungen des Abs\. 2 von neuem zu laufen\.
 
+\[ [🔗 Permalink](#-60-stgb--verlängerung-der-frist-für-die-vollstreckungsverjährung) \]
+
 ## Siebenter Abschnitt
 
 ## Geltungsbereich
@@ -1316,13 +1454,19 @@ Der Nationalrat hat beschlossen:
 
 > Die Strafgesetze sind auf Taten anzuwenden, die nach dem Inkrafttreten begangen worden sind\. Auf früher begangene Taten sind sie dann anzuwenden, wenn die Gesetze, die zur Zeit der Tat gegolten haben, für den Täter in ihrer Gesamtauswirkung nicht günstiger waren\.
 
+\[ [🔗 Permalink](#-61-stgb--zeitliche-geltung) \]
+
 ### § 62 StGB — Strafbare Handlungen im Inland
 
 > Die österreichischen Strafgesetze gelten für alle Taten, die im Inland begangen worden sind\.
 
+\[ [🔗 Permalink](#-62-stgb--strafbare-handlungen-im-inland) \]
+
 ### § 63 StGB — Strafbare Handlungen an Bord österreichischer Schiffe oder Luftfahrzeuge
 
 > Die österreichischen Strafgesetze gelten auch für Taten, die auf einem österreichischen Schiff oder Luftfahrzeug begangen worden sind, unabhängig davon, wo sich dieses befindet\.
+
+\[ [🔗 Permalink](#-63-stgb--strafbare-handlungen-an-bord-österreichischer-schiffe-oder-luftfahrzeuge) \]
 
 ### § 64 StGB — Strafbare Handlungen im Ausland, die ohne Rücksicht auf die Gesetze des Tatorts bestraft werden
 
@@ -1396,6 +1540,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Können die im Abs\. 1 genannten Strafgesetze bloß deshalb nicht angewendet werden, weil sich die Tat als eine mit strengerer Strafe bedrohte Handlung darstellt, so ist die im Ausland begangene Tat gleichwohl unabhängig von den Strafgesetzen des Tatorts nach den österreichischen Strafgesetzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-64-stgb--strafbare-handlungen-im-ausland-die-ohne-rücksicht-auf-die-gesetze-des-tatorts-bestraft-werden) \]
+
 ### § 65 StGB — Strafbare Handlungen im Ausland, die nur bestraft werden, wenn sie nach den Gesetzen des Tatorts mit Strafe bedroht sind
 
 > `(1)` Für andere als die in den §§ 63 und 64 bezeichneten Taten, die im Ausland begangen worden sind, gelten, sofern die Taten auch durch die Gesetze des Tatorts mit Strafe bedroht sind, die österreichischen Strafgesetze:
@@ -1420,19 +1566,27 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach den österreichischen Gesetzen vorgesehene vorbeugende Maßnahmen sind, wenn die Voraussetzungen hiefür zutreffen, gegen einen Österreicher auch dann anzuordnen, wenn er aus einem der Gründe des vorhergehenden Absatzes im Inland nicht bestraft werden kann\.
 
+\[ [🔗 Permalink](#-65-stgb--strafbare-handlungen-im-ausland-die-nur-bestraft-werden-wenn-sie-nach-den-gesetzen-des-tatorts-mit-strafe-bedroht-sind) \]
+
 ### § 65a StGB — Erweiterter Geltungsbereich des Verfalls und der Einziehung bei Auslandstaten
 
 > Der Verfall und die Einziehung treffen auch im Inland befindliche Vermögenswerte und Gegenstände in Bezug auf Taten, die auch durch die Gesetze des Tatorts mit Strafe bedroht sind, aber nach den §§ 62 bis 65 nicht den österreichischen Strafgesetzen unterliegen\.
 
+\[ [🔗 Permalink](#-65a-stgb--erweiterter-geltungsbereich-des-verfalls-und-der-einziehung-bei-auslandstaten) \]
+
 ### § 66 StGB — Anrechnung im Ausland erlittener Strafen
 
 > Hat der Täter für die Tat, derentwegen er im Inland bestraft wird, schon im Ausland eine Strafe verbüßt, so ist sie auf die im Inland verhängte Strafe anzurechnen\.
+
+\[ [🔗 Permalink](#-66-stgb--anrechnung-im-ausland-erlittener-strafen) \]
 
 ### § 67 StGB — Zeit und Ort der Tat
 
 > `(1)` Eine mit Strafe bedrohte Handlung hat der Täter zu der Zeit begangen, da er gehandelt hat oder hätte handeln sollen; wann der Erfolg eintritt, ist nicht maßgebend\.
 
 > `(2)` Eine mit Strafe bedrohte Handlung hat der Täter an jedem Ort begangen, an dem er gehandelt hat oder hätte handeln sollen oder ein dem Tatbild entsprechender Erfolg ganz oder zum Teil eingetreten ist oder nach der Vorstellung des Täters hätte eintreten sollen\.
+
+\[ [🔗 Permalink](#-67-stgb--zeit-und-ort-der-tat) \]
 
 ## Achter Abschnitt
 
@@ -1442,9 +1596,13 @@ Der Nationalrat hat beschlossen:
 
 > Jahre und Monate sind nach dem Kalender zu berechnen\. Zeiträume werden so berechnet, daß der Tag, auf den das Ereignis fällt, mit dem der Zeitraum beginnt, nicht mitgezählt wird\. Sie enden mit dem Ablauf des letzten Tages\.
 
+\[ [🔗 Permalink](#-68-stgb--zeitberechnung) \]
+
 ### § 69 StGB — Öffentliche Begehung
 
 > Eine Handlung wird nur dann öffentlich begangen, wenn sie unmittelbar von einem größeren Personenkreis wahrgenommen werden kann\.
+
+\[ [🔗 Permalink](#-69-stgb--öffentliche-begehung) \]
 
 ### § 70 StGB — Gewerbsmäßige Begehung
 
@@ -1460,9 +1618,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine frühere Tat oder Verurteilung bleibt außer Betracht, wenn seit ihrer Begehung oder Rechtskraft bis zur folgenden Tat mehr als ein Jahr vergangen ist\. In diese Frist werden Zeiten, in denen der Täter auf behördliche Anordnung angehalten worden ist, nicht eingerechnet\.
 
+\[ [🔗 Permalink](#-70-stgb--gewerbsmäßige-begehung) \]
+
 ### § 71 StGB — Schädliche Neigung
 
 > Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind\.
+
+\[ [🔗 Permalink](#-71-stgb--schädliche-neigung) \]
 
 ### § 72 StGB — Angehörige
 
@@ -1470,9 +1632,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Personen, die miteinander in Lebensgemeinschaft leben, werden wie Angehörige behandelt, Kinder und Enkel einer von ihnen werden wie Angehörige auch der anderen behandelt\.
 
+\[ [🔗 Permalink](#-72-stgb--angehörige) \]
+
 ### § 73 StGB — Ausländische Verurteilungen
 
 > Sofern das Gesetz nicht ausdrücklich auf die Verurteilung durch ein inländisches Gericht abstellt, stehen ausländische Verurteilungen inländischen gleich, wenn sie den Rechtsbrecher wegen einer Tat schuldig sprechen, die auch nach österreichischem Recht gerichtlich strafbar ist, und in einem den Grundsätzen des Art\. 6 der europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl\. Nr\. 210/1958, entsprechenden Verfahren ergangen sind\.
+
+\[ [🔗 Permalink](#-73-stgb--ausländische-verurteilungen) \]
 
 ### § 74 StGB — Andere Begriffsbestimmungen
 
@@ -1523,6 +1689,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Unter leitenden Angestellten sind Angestellte eines Unternehmens, auf dessen Geschäftsführung ihnen ein maßgeblicher Einfluss zusteht, zu verstehen\. Ihnen stehen Geschäftsführer, Mitglieder des Vorstands oder Aufsichtsrats und Prokuristen ohne Angestelltenverhältnis gleich\.
 
+\[ [🔗 Permalink](#-74-stgb--andere-begriffsbestimmungen) \]
+
 ## Besonderer Teil
 
 ## Erster Abschnitt
@@ -1533,13 +1701,19 @@ Der Nationalrat hat beschlossen:
 
 > Wer einen anderen tötet, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
+\[ [🔗 Permalink](#-75-stgb--mord) \]
+
 ### § 76 StGB — Totschlag
 
 > Wer sich in einer allgemein begreiflichen heftigen Gemütsbewegung dazu hinreißen läßt, einen anderen zu töten, ist mit Freiheitsstrafe von fünf bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-76-stgb--totschlag) \]
+
 ### § 77 StGB — Tötung auf Verlangen
 
 > Wer einen anderen auf dessen ernstliches und eindringliches Verlangen tötet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-77-stgb--tötung-auf-verlangen) \]
 
 ### § 78 StGB — Mitwirkung an der Selbsttötung
 
@@ -1555,15 +1729,21 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; dazu physisch Hilfe leistet, sich selbst zu töten\.
 
+\[ [🔗 Permalink](#-78-stgb--mitwirkung-an-der-selbsttötung) \]
+
 ### § 79 StGB — Tötung eines Kindes bei der Geburt
 
 > Eine Mutter, die das Kind während der Geburt oder solange sie noch unter der Einwirkung des Geburtsvorgangs steht, tötet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-79-stgb--tötung-eines-kindes-bei-der-geburt) \]
 
 ### § 80 StGB — Fahrlässige Tötung
 
 > `(1)` Wer fahrlässig den Tod eines anderen herbeiführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Hat die Tat den Tod mehrerer Menschen zur Folge, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-80-stgb--fahrlässige-tötung) \]
 
 ### § 81 StGB — Grob fahrlässige Tötung
 
@@ -1573,6 +1753,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer grob fahrlässig \(§ 6 Abs\. 3\) oder in dem in Abs\. 2 bezeichneten Fall den Tod einer größeren Zahl von Menschen herbeiführt\.
 
+\[ [🔗 Permalink](#-81-stgb--grob-fahrlässige-tötung) \]
+
 ### § 82 StGB — Aussetzung
 
 > `(1)` Wer das Leben eines anderen dadurch gefährdet, daß er ihn in eine hilflose Lage bringt und in dieser Lage im Stich läßt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
@@ -1580,6 +1762,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ebenso ist zu bestrafen, wer das Leben eines anderen, der unter seiner Obhut steht oder dem er sonst beizustehen verpflichtet ist \(§ 2\), dadurch gefährdet, daß er ihn in einer hilflosen Lage im Stich läßt\.
 
 > `(3)` Hat die Tat den Tod des Gefährdeten zur Folge, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-82-stgb--aussetzung) \]
 
 ### § 83 StGB — Körperverletzung
 
@@ -1594,6 +1778,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` in einem gesetzlich geregelten Gesundheitsberuf, in einer anerkannten Rettungsorganisation oder in der Verwaltung im Bereich eines solchen Berufes, insbesondere einer Krankenanstalt, oder als Organ der Feuerwehr tätig ist,
 >
 > &nbsp; während oder wegen der Ausübung ihrer Tätigkeit begeht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-83-stgb--körperverletzung) \]
 
 ### § 84 StGB — Schwere Körperverletzung
 
@@ -1613,6 +1799,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` unter Zufügung besonderer Qualen\.
 
+\[ [🔗 Permalink](#-84-stgb--schwere-körperverletzung) \]
+
 ### § 85 StGB — Körperverletzung mit schweren Dauerfolgen
 
 > `(1)` Wer einen anderen am Körper misshandelt und dadurch fahrlässig für immer oder für lange Zeit
@@ -1629,11 +1817,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Dauerfolge \(Abs\. 1\) beim Verletzten herbeiführt\.
 
+\[ [🔗 Permalink](#-85-stgb--körperverletzung-mit-schweren-dauerfolgen) \]
+
 ### § 86 StGB — Körperverletzung mit tödlichem Ausgang
 
 > `(1)` Wer einen anderen am Körper misshandelt und dadurch fahrlässig dessen Tod herbeiführt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 > `(2)` Wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch fahrlässig dessen Tod herbeiführt, ist mit Freiheitsstrafe von einem bis zu fünfzehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-86-stgb--körperverletzung-mit-tödlichem-ausgang) \]
 
 ### § 87 StGB — Absichtliche schwere Körperverletzung
 
@@ -1642,6 +1834,8 @@ Der Nationalrat hat beschlossen:
 > `(1a)` Wer die Tat an einem Beamten, Zeugen oder Sachverständigen während oder wegen der Vollziehung seiner Aufgaben oder der Erfüllung seiner Pflichten begeht, ist mit Freiheitsstrafe von zwei bis zu zehn Jahren zu bestrafen\.
 
 > `(2)` Zieht die Tat nach Abs\. 1 eine schwere Dauerfolge \(§ 85\) nach sich, so ist der Täter mit Freiheitsstrafe von einem bis zu fünfzehn Jahren, im Falle des Abs\. 1a mit Freiheitsstrafe von zwei bis zu fünfzehn Jahren, hat die Tat den Tod des Geschädigten zur Folge, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-87-stgb--absichtliche-schwere-körperverletzung) \]
 
 ### § 88 StGB — Fahrlässige Körperverletzung
 
@@ -1661,9 +1855,13 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Hat die Tat nach Abs\. 1 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\. Hat die Tat nach Abs\. 3 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat sie jedoch eine schwere Körperverletzung \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-88-stgb--fahrlässige-körperverletzung) \]
+
 ### § 89 StGB — Gefährdung der körperlichen Sicherheit
 
 > Wer vorsätzlich, grob fahrlässig \(§ 6 Abs\. 3\) oder fahrlässig unter den in § 81 Abs\. 2 umschriebenen Umständen, eine Gefahr für das Leben, die Gesundheit oder die körperliche Sicherheit eines anderen herbeiführt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-89-stgb--gefährdung-der-körperlichen-sicherheit) \]
 
 ### § 90 StGB — Einwilligung des Verletzten
 
@@ -1672,6 +1870,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die von einem Arzt an einer Person mit deren Einwilligung vorgenommene Sterilisation ist nicht rechtswidrig, wenn entweder die Person bereits das fünfundzwanzigste Lebensjahr vollendet hat oder der Eingriff aus anderen Gründen nicht gegen die guten Sitten verstößt\.
 
 > `(3)` In eine Genitalverstümmelung \(§ 85 Abs\. 1 Z 2a\) kann nicht eingewilligt werden\.
+
+\[ [🔗 Permalink](#-90-stgb--einwilligung-des-verletzten) \]
 
 ### § 91 StGB — Raufhandel
 
@@ -1683,6 +1883,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter, dem aus der Teilnahme kein Vorwurf gemacht werden kann, ist nicht zu bestrafen\.
 
+\[ [🔗 Permalink](#-91-stgb--raufhandel) \]
+
 ### § 91a StGB — Tätlicher Angriff auf mit bestimmten Aufgaben betraute Bedienstete einer dem öffentlichen Verkehr dienenden Anstalt oder Angehörige des Gesundheits- oder Rettungswesens oder Organe der Feuerwehr
 
 > Wer eine Person, 
@@ -1693,6 +1895,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; während der Ausübung ihrer Tätigkeit tätlich angreift, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-91a-stgb--tätlicher-angriff-auf-mit-bestimmten-aufgaben-betraute-bedienstete-einer-dem-öffentlichen-verkehr-dienenden-anstalt-oder-angehörige-des-gesundheits--oder-rettungswesens-oder-organe-der-feuerwehr) \]
+
 ### § 92 StGB — Quälen oder Vernachlässigen unmündiger, jüngerer oder wehrloser Personen
 
 > `(1)` Wer einem anderen, der seiner Fürsorge oder Obhut untersteht und der das achtzehnte Lebensjahr noch nicht vollendet hat oder wegen Gebrechlichkeit, Krankheit oder einer geistigen Behinderung wehrlos ist, körperliche oder seelische Qualen zufügt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
@@ -1701,11 +1905,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat eine Körperverletzung mit schweren Dauerfolgen \(§ 85\) zur Folge, so ist der Täter mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, hat sie den Tod des Geschädigten zur Folge, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-92-stgb--quälen-oder-vernachlässigen-unmündiger-jüngerer-oder-wehrloser-personen) \]
+
 ### § 93 StGB — Überanstrengung unmündiger, jüngerer oder schonungsbedürftiger Personen
 
 > `(1)` Wer einen anderen, der von ihm abhängig ist oder seiner Fürsorge oder Obhut untersteht und der das achtzehnte Lebensjahr noch nicht vollendet hat oder wegen seines Gesundheitszustandes offensichtlich schonungsbedürftig ist, aus Bosheit oder rücksichtslos überanstrengt und dadurch, wenn auch nur fahrlässig, die Gefahr des Todes oder einer beträchtlichen Körperverletzung oder Gesundheitsschädigung des Überanstrengten herbeiführt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(2)` Hat die Tat eine der im § 92 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
+
+\[ [🔗 Permalink](#-93-stgb--überanstrengung-unmündiger-jüngerer-oder-schonungsbedürftiger-personen) \]
 
 ### § 94 StGB — Imstichlassen eines Verletzten
 
@@ -1717,11 +1925,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter ist nach Abs\. 1 und 2 nicht zu bestrafen, wenn er schon wegen der Verletzung mit der gleichen oder einer strengeren Strafe bedroht ist\.
 
+\[ [🔗 Permalink](#-94-stgb--imstichlassen-eines-verletzten) \]
+
 ### § 95 StGB — Unterlassung der Hilfeleistung
 
 > `(1)` Wer es bei einem Unglücksfall oder einer Gemeingefahr \(§ 176\) unterläßt, die zur Rettung eines Menschen aus der Gefahr des Todes oder einer beträchtlichen Körperverletzung oder Gesundheitsschädigung offensichtlich erforderliche Hilfe zu leisten, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen, wenn die Unterlassung der Hilfeleistung jedoch den Tod eines Menschen zur Folge hat, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen, es sei denn, daß die Hilfeleistung dem Täter nicht zuzumuten ist\.
 
 > `(2)` Die Hilfeleistung ist insbesondere dann nicht zuzumuten, wenn sie nur unter Gefahr für Leib oder Leben oder unter Verletzung anderer ins Gewicht fallender Interessen möglich wäre\.
+
+\[ [🔗 Permalink](#-95-stgb--unterlassung-der-hilfeleistung) \]
 
 ## Zweiter Abschnitt
 
@@ -1734,6 +1946,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ist der unmittelbare Täter kein Arzt, so ist er mit Freiheitsstrafe bis zu drei Jahren, begeht er die Tat gewerbsmäßig oder hat sie den Tod der Schwangeren zur Folge, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
 > `(3)` Eine Frau, die den Abbruch ihrer Schwangerschaft selbst vornimmt oder durch einen anderen zuläßt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-96-stgb--schwangerschaftsabbruch) \]
 
 ### § 97 StGB — Straflosigkeit des Schwangerschaftsabbruchs
 
@@ -1749,11 +1963,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Niemand darf wegen der Durchführung eines straflosen Schwangerschaftsabbruchs oder der Mitwirkung daran oder wegen der Weigerung, einen solchen Schwangerschaftsabbruch durchzuführen oder daran mitzuwirken, in welcher Art immer benachteiligt werden\.
 
+\[ [🔗 Permalink](#-97-stgb--straflosigkeit-des-schwangerschaftsabbruchs) \]
+
 ### § 98 StGB — Schwangerschaftsabbruch ohne Einwilligung der Schwangeren
 
 > `(1)` Wer ohne Einwilligung der Schwangeren deren Schwangerschaft abbricht, ist mit Freiheitsstrafe bis zu drei Jahren, hat die Tat den Tod der Schwangeren zur Folge, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
 > `(2)` Der Täter ist nach Abs\. 1 nicht zu bestrafen, wenn der Schwangerschaftsabbruch zur Rettung der Schwangeren aus einer unmittelbaren, nicht anders abwendbaren Lebensgefahr unter Umständen vorgenommen wird, unter denen die Einwilligung der Schwangeren nicht rechtzeitig zu erlangen ist\.
+
+\[ [🔗 Permalink](#-98-stgb--schwangerschaftsabbruch-ohne-einwilligung-der-schwangeren) \]
 
 ## Dritter Abschnitt
 
@@ -1765,13 +1983,19 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Freiheitsentziehung länger als einen Monat aufrecht erhält oder sie auf solche Weise, daß sie dem Festgehaltenen besondere Qualen bereitet, oder unter solchen Umständen begeht, daß sie für ihn mit besonders schweren Nachteilen verbunden ist, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-99-stgb--freiheitsentziehung) \]
+
 ### § 100 StGB — Entführung einer geisteskranken oder wehrlosen Person
 
 > Wer eine geisteskranke oder wehrlose Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-100-stgb--entführung-einer-geisteskranken-oder-wehrlosen-person) \]
+
 ### § 101 StGB — Entführung einer unmündigen Person
 
 > Wer eine unmündige Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-101-stgb--entführung-einer-unmündigen-person) \]
 
 ### § 102 StGB — Erpresserische Entführung
 
@@ -1787,17 +2011,23 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Läßt der Täter freiwillig unter Verzicht auf die begehrte Leistung die Person, die entführt worden ist oder deren sich der Täter sonst bemächtigt hat, ohne ernstlichen Schaden in ihren Lebenskreis zurückgelangen, so ist er mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-102-stgb--erpresserische-entführung) \]
+
 ### § 103 StGB — Überlieferung an eine ausländische Macht
 
 > `(1)` Wer einen anderen ohne dessen Einwilligung mit Gewalt oder nachdem er seine Einwilligung durch gefährliche Drohung oder List erlangt hat, ebenso wer eine unmündige, geisteskranke oder wegen ihres Zustands zum Widerstand unfähige Person einer ausländischen Macht überliefert, ist, wenn der Täter oder der Überlieferte ein Österreicher ist oder sich der Überlieferte zur Zeit der Tat im Inland aufgehalten hat, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen\.
 
 > `(2)` Wird das Opfer durch die Tat keiner erheblichen Gefahr ausgesetzt, so ist der Täter mit Freiheitsstrafe von fünf bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-103-stgb--überlieferung-an-eine-ausländische-macht) \]
+
 ### § 104 StGB — Sklaverei
 
 > `(1)` Wer Sklavenhandel treibt oder sonst einer anderen Person in Form von Sklaverei oder einer sklavereiähnlichen Lage die persönliche Freiheit entzieht, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen\.
 
 > `(2)` Ebenso ist zu bestrafen, wer bewirkt, daß ein anderer versklavt oder in eine sklavereiähnliche Lage gebracht wird oder daß sich ein anderer in Sklaverei oder eine sklavereiähnliche Lage begibt\.
+
+\[ [🔗 Permalink](#-104-stgb--sklaverei) \]
 
 ### § 104a StGB — Menschenhandel
 
@@ -1811,11 +2041,15 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Mit Freiheitsstrafe von einem bis zu zehn Jahren ist auch zu bestrafen, wer eine minderjährige Person mit dem Vorsatz, dass sie ausgebeutet werde \(Abs\. 3\), anwirbt, beherbergt oder sonst aufnimmt, befördert oder einem anderen anbietet oder weitergibt\.
 
+\[ [🔗 Permalink](#-104a-stgb--menschenhandel) \]
+
 ### § 105 StGB — Nötigung
 
 > `(1)` Wer einen anderen mit Gewalt oder durch gefährliche Drohung zu einer Handlung, Duldung oder Unterlassung nötigt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Die Tat ist nicht rechtswidrig, wenn die Anwendung der Gewalt oder Drohung als Mittel zu dem angestrebten Zweck nicht den guten Sitten widerstreitet\.
+
+\[ [🔗 Permalink](#-105-stgb--nötigung) \]
 
 ### § 106 StGB — Schwere Nötigung
 
@@ -1833,6 +2067,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ebenso ist zu bestrafen, wer eine Nötigung zur Prostitution oder zur Mitwirkung an einer pornographischen Darbietung gegen eine unmündige Person, im Rahmen einer kriminellen Vereinigung, unter Anwendung schwerer Gewalt oder so begeht, dass durch die Tat das Leben der Person vorsätzlich oder grob fahrlässig \(§ 6 Abs\. 3\) gefährdet wird oder die Tat einen besonders schweren Nachteil für die Person zur Folge hat\.
 
+\[ [🔗 Permalink](#-106-stgb--schwere-nötigung) \]
+
 ### § 106a StGB — Zwangsheirat
 
 > `(1)` Wer eine Person mit Gewalt oder durch gefährliche Drohung oder Drohung mit dem Abbruch oder Entzug der familiären Kontakte zur Eheschließung oder zur Begründung einer eingetragenen Partnerschaft nötigt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
@@ -1840,6 +2076,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ebenso ist zu bestrafen, wer eine Person in der Absicht, dass sie in einem anderen Staat als in dem, dessen Staatsangehörigkeit sie besitzt oder in dem sie ihren gewöhnlichen Aufenthalt hat, zur Eheschließung oder zur Begründung einer eingetragenen Partnerschaft gezwungen werde \(Abs\. 1\), durch Täuschung über dieses Vorhaben verleitet oder mit Gewalt oder durch gefährliche Drohung oder Drohung mit dem Abbruch oder Entzug der familiären Kontakte nötigt, sich in einen anderen Staat zu begeben, oder sie mit Gewalt oder unter Ausnützung ihres Irrtums über dieses Vorhaben in einen anderen Staat befördert\.
 
 > `(3)` § 106 Abs\. 2 gilt sinngemäß\.
+
+\[ [🔗 Permalink](#-106a-stgb--zwangsheirat) \]
 
 ### § 107 StGB — Gefährliche Drohung
 
@@ -1849,6 +2087,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` In den im § 106 Abs\. 2 genannten Fällen ist die dort vorgesehene Strafe zu verhängen\.
 > *\(Anm\.:Abs\. 4 aufgehoben durch BGBl\. I Nr\. 56/2006\)*
+
+\[ [🔗 Permalink](#-107-stgb--gefährliche-drohung) \]
 
 ### § 107a StGB — Beharrliche Verfolgung
 
@@ -1867,6 +2107,8 @@ Der Nationalrat hat beschlossen:
 >> `5.` Tatsachen oder Bildaufnahmen des höchstpersönlichen Lebensbereiches dieser Person ohne deren Zustimmung veröffentlicht\.
 
 > `(3)` Übersteigt der Tatzeitraum nach Abs\. 1 ein Jahr oder hat die Tat den Selbstmord oder einen Selbstmordversuch der im Sinn des Abs\. 2 verfolgten Person zur Folge, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-107a-stgb--beharrliche-verfolgung) \]
 
 ### § 107b StGB — Fortgesetzte Gewaltausübung
 
@@ -1888,6 +2130,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Täter ist nicht nach den vorstehenden Bestimmungen zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist\.
 
+\[ [🔗 Permalink](#-107b-stgb--fortgesetzte-gewaltausübung) \]
+
 ### § 107c StGB — Fortdauernde Belästigung im Wege einer Telekommunikation oder eines Computersystems
 
 > `(1)` Wer im Wege einer Telekommunikation oder unter Verwendung eines Computersystems in einer Weise, die geeignet ist, eine Person in ihrer Lebensführung unzumutbar zu beeinträchtigen,
@@ -1900,6 +2144,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat den Selbstmord oder einen Selbstmordversuch der im Sinn des Abs\. 1 verletzten Person zur Folge, begeht der Täter innerhalb eines ein Jahr übersteigenden Zeitraums fortgesetzt gegen die verletzte Person gerichtete Tathandlungen im Sinne des Abs\. 1 oder übersteigt die Dauer der Wahrnehmbarkeit nach Abs\. 1 ein Jahr, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-107c-stgb--fortdauernde-belästigung-im-wege-einer-telekommunikation-oder-eines-computersystems) \]
+
 ### § 108 StGB — Täuschung
 
 > `(1)` Wer einem anderen in seinen Rechten dadurch absichtlich einen Schaden zufügt, daß er ihn oder einen Dritten durch Täuschung über Tatsachen zu einer Handlung, Duldung oder Unterlassung verleitet, die den Schaden herbeiführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
@@ -1907,6 +2153,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Hoheitsrechte gelten nicht als Rechte im Sinn des Abs\. 1\.
 
 > `(3)` Der Täter ist nur mit Ermächtigung des in seinen Rechten Verletzten zu verfolgen\.
+
+\[ [🔗 Permalink](#-108-stgb--täuschung) \]
 
 ### § 109 StGB — Hausfriedensbruch
 
@@ -1922,6 +2170,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` das Eindringen mehrerer Personen erzwungen wird, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-109-stgb--hausfriedensbruch) \]
+
 ### § 110 StGB — Eigenmächtige Heilbehandlung
 
 > `(1)` Wer einen anderen ohne dessen Einwilligung, wenn auch nach den Regeln der medizinischen Wissenschaft, behandelt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
@@ -1929,6 +2179,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Hat der Täter die Einwilligung des Behandelten in der Annahme nicht eingeholt, daß durch den Aufschub der Behandlung das Leben oder die Gesundheit des Behandelten ernstlich gefährdet wäre, so ist er nach Abs\. 1 nur zu bestrafen, wenn die vermeintliche Gefahr nicht bestanden hat und er sich dessen bei Aufwendung der nötigen Sorgfalt \(§ 6\) hätte bewußt sein können\.
 
 > `(3)` Der Täter ist nur auf Verlangen des eigenmächtig Behandelten zu verfolgen\.
+
+\[ [🔗 Permalink](#-110-stgb--eigenmächtige-heilbehandlung) \]
 
 ## Vierter Abschnitt
 
@@ -1942,19 +2194,27 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nicht zu bestrafen, wenn die Behauptung als wahr erwiesen wird\. Im Fall des Abs\. 1 ist der Täter auch dann nicht zu bestrafen, wenn Umstände erwiesen werden, aus denen sich für den Täter hinreichende Gründe ergeben haben, die Behauptung für wahr zu halten\.
 
+\[ [🔗 Permalink](#-111-stgb--üble-nachrede) \]
+
 ### § 112 StGB — Wahrheitsbeweis und Beweis des guten Glaubens
 
 > Der Wahrheitsbeweis und der Beweis des guten Glaubens sind nur aufzunehmen, wenn sich der Täter auf die Richtigkeit der Behauptung oder auf seinen guten Glauben beruft\. Über Tatsachen des Privat\- oder Familienlebens und über strafbare Handlungen, die nur auf Verlangen eines Dritten verfolgt werden, sind der Wahrheitsbeweis und der Beweis des guten Glaubens nicht zuzulassen\.
 
+\[ [🔗 Permalink](#-112-stgb--wahrheitsbeweis-und-beweis-des-guten-glaubens) \]
+
 ### § 113 StGB — Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung
 
 > Wer einem anderen in einer für einen Dritten wahrnehmbaren Weise eine strafbare Handlung vorwirft, für die die Strafe schon vollzogen oder wenn auch nur bedingt nachgesehen oder nachgelassen oder für die der Ausspruch der Strafe vorläufig aufgeschoben worden ist, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-113-stgb--vorwurf-einer-schon-abgetanen-gerichtlich-strafbaren-handlung) \]
 
 ### § 114 StGB — Straflosigkeit wegen Ausübung eines Rechtes oder Nötigung durch besondere Umstände
 
 > `(1)` Wird durch eine im § 111 oder im § 113 genannte Handlung eine Rechtspflicht erfüllt oder ein Recht ausgeübt, so ist die Tat gerechtfertigt\.
 
 > `(2)` Wer durch besondere Umstände genötigt ist, eine dem § 111 oder dem § 113 entsprechende Behauptung in der Form und auf die Weise vorzubringen, wie es geschieht, ist nicht zu bestrafen, es sei denn, daß die Behauptung unrichtig ist und der Täter sich dessen bei Aufwendung der nötigen Sorgfalt \(§ 6\) hätte bewußt sein können\.
+
+\[ [🔗 Permalink](#-114-stgb--straflosigkeit-wegen-ausübung-eines-rechtes-oder-nötigung-durch-besondere-umstände) \]
 
 ### § 115 StGB — Beleidigung
 
@@ -1964,9 +2224,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer sich nur durch Entrüstung über das Verhalten eines anderen dazu hinreißen läßt, ihn in einer den Umständen nach entschuldbaren Weise zu beschimpfen, zu verspotten, zu mißhandeln oder mit Mißhandlungen zu bedrohen, ist entschuldigt, wenn seine Entrüstung, insbesondere auch im Hinblick auf die seit ihrem Anlaß verstrichene Zeit, allgemein begreiflich ist\.
 
+\[ [🔗 Permalink](#-115-stgb--beleidigung) \]
+
 ### § 116 StGB — Öffentliche Beleidigung eines verfassungsmäßigen Vertretungskörpers, des Bundesheeres oder einer Behörde
 
 > Handlungen nach dem § 111 oder dem § 115 sind auch strafbar, wenn sie gegen den Nationalrat, den Bundesrat, die Bundesversammlung oder einen Landtag, gegen das Bundesheer, eine selbständige Abteilung des Bundesheeres oder gegen eine Behörde gerichtet sind und öffentlich begangen werden\. Die Bestimmungen der §§ 111 Abs\. 3, 112 und 114 gelten auch für solche strafbare Handlungen\.
+
+\[ [🔗 Permalink](#-116-stgb--öffentliche-beleidigung-eines-verfassungsmäßigen-vertretungskörpers-des-bundesheeres-oder-einer-behörde) \]
 
 ### § 117 StGB — Berechtigung zur Anklage
 
@@ -1978,6 +2242,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` In den Fällen der Abs\. 2 und 3 ist der Verletzte jederzeit berechtigt, sich der Anklage anzuschließen\. Verfolgt die Staatsanwaltschaft eine solche strafbare Handlung nicht oder tritt sie von der Verfolgung zurück, so ist der Verletzte selbst zur Anklage berechtigt\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 98/2009\)*
+
+\[ [🔗 Permalink](#-117-stgb--berechtigung-zur-anklage) \]
 
 ## Fünfter Abschnitt
 
@@ -1997,6 +2263,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter ist nur auf Verlangen des Verletzten zu verfolgen\. Wird die Tat jedoch von einem Beamten in Ausübung seines Amtes oder unter Ausnützung der ihm durch seine Amtstätigkeit gebotenen Gelegenheit begangen, so hat die Staatsanwaltschaft den Täter mit Ermächtigung des Verletzten zu verfolgen\.
 
+\[ [🔗 Permalink](#-118-stgb--verletzung-des-briefgeheimnisses-und-unterdrückung-von-briefen) \]
+
 ### § 118a StGB — Widerrechtlicher Zugriff auf ein Computersystem
 
 > `(1)` Wer sich zu einem Computersystem, über das er nicht oder nicht allein verfügen darf, oder zu einem Teil eines solchen durch Überwindung einer spezifischen Sicherheitsvorkehrung im Computersystem in der Absicht Zugang verschafft,
@@ -2013,17 +2281,23 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wer die Tat nach Abs\. 1 im Rahmen einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer die Tat nach Abs\. 2 im Rahmen einer kriminellen Vereinigung begeht, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-118a-stgb--widerrechtlicher-zugriff-auf-ein-computersystem) \]
+
 ### § 119 StGB — Verletzung des Telekommunikationsgeheimnisses
 
 > `(1)` Wer in der Absicht, sich oder einem anderen Unbefugten vom Inhalt einer im Wege einer Telekommunikation oder eines Computersystems übermittelten und nicht für ihn bestimmten Nachricht Kenntnis zu verschaffen, eine Vorrichtung, die an der Telekommunikationsanlage oder an dem Computersystem angebracht oder sonst empfangsbereit gemacht wurde, benützt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(2)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
 
+\[ [🔗 Permalink](#-119-stgb--verletzung-des-telekommunikationsgeheimnisses) \]
+
 ### § 119a StGB — Missbräuchliches Abfangen von Daten
 
 > `(1)` Wer in der Absicht, sich oder einem anderen Unbefugten von im Wege eines Computersystems übermittelten und nicht für ihn bestimmten Daten Kenntnis zu verschaffen und dadurch, dass er die Daten selbst benützt, einem anderen, für den sie nicht bestimmt sind, zugänglich macht oder veröffentlicht, sich oder einem anderen einen Vermögensvorteil zuzuwenden oder einem anderen einen Nachteil zuzufügen, eine Vorrichtung, die an dem Computersystem angebracht oder sonst empfangsbereit gemacht wurde, benützt oder die elektromagnetische Abstrahlung eines Computersystems auffängt, ist, wenn die Tat nicht nach § 119 mit Strafe bedroht ist, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(2)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
+
+\[ [🔗 Permalink](#-119a-stgb--missbräuchliches-abfangen-von-daten) \]
 
 ### § 120 StGB — Mißbrauch von Tonaufnahme- oder Abhörgeräten
 
@@ -2035,6 +2309,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
 
+\[ [🔗 Permalink](#-120-stgb--mißbrauch-von-tonaufnahme--oder-abhörgeräten) \]
+
 ### § 120a StGB — Unbefugte Bildaufnahmen
 
 > `(1)` Wer absichtlich eine Bildaufnahme der Genitalien, der Schamgegend, des Gesäßes, der weiblichen Brust oder der diese Körperstellen bedeckenden Unterwäsche einer anderen Person, die diese Bereiche gegen Anblick geschützt hat oder sich in einer Wohnstätte oder in einem gegen Einblick besonders geschützten Raum befindet, ohne deren Einwilligung herstellt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
@@ -2042,6 +2318,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wer eine Bildaufnahme nach Abs\. 1 ohne Einwilligung der abgebildeten Person einem Dritten zugänglich macht oder veröffentlicht, ist, wenn die Tat nicht nach einer anderen Bestimmung mit gleicher oder strengerer Strafe bedroht ist, mit Freiheitsstrafe bis zu zwölf Monaten oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(3)` Der Täter ist nur mit Ermächtigung der verletzten Person zu verfolgen\.
+
+\[ [🔗 Permalink](#-120a-stgb--unbefugte-bildaufnahmen) \]
 
 ### § 121 StGB — Verletzung von Berufsgeheimnissen
 
@@ -2059,6 +2337,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Der Täter ist nur mit Ermächtigung des in seinem Interesse an der Geheimhaltung Verletzten \(Abs\. 1 und 3\) zu verfolgen\.
 
+\[ [🔗 Permalink](#-121-stgb--verletzung-von-berufsgeheimnissen) \]
+
 ### § 122 StGB — Verletzung eines Geschäfts- oder Betriebsgeheimnisses
 
 > `(1)` Wer ein Geschäfts\- oder Betriebsgeheimnis \(Abs\. 3\) offenbart oder verwertet, das ihm bei seiner Tätigkeit in Durchführung einer durch Gesetz oder behördlichen Auftrag vorgeschriebenen Aufsicht, Überprüfung oder Erhebung anvertraut oder zugänglich geworden ist, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
@@ -2071,17 +2351,23 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Täter ist nur mit Ermächtigung des in seinem Interesse an der Geheimhaltung Verletzten \(Abs\. 3\) zu verfolgen\.
 
+\[ [🔗 Permalink](#-122-stgb--verletzung-eines-geschäfts--oder-betriebsgeheimnisses) \]
+
 ### § 123 StGB — Auskundschaftung eines Geschäfts- oder Betriebsgeheimnisses
 
 > `(1)` Wer ein Geschäfts\- oder Betriebsgeheimnis mit dem Vorsatz auskundschaftet, es zu verwerten, einem anderen zur Verwertung zu überlassen oder der Öffentlichkeit preiszugeben, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 > `(2)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
 
+\[ [🔗 Permalink](#-123-stgb--auskundschaftung-eines-geschäfts--oder-betriebsgeheimnisses) \]
+
 ### § 124 StGB — Auskundschaftung eines Geschäfts- oder Betriebsgeheimnisses zugunsten des Auslands
 
 > `(1)` Wer ein Geschäfts\- oder Betriebsgeheimnis mit dem Vorsatz auskundschaftet, daß es im Ausland verwertet, verwendet oder sonst ausgewertet werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
 > `(2)` Ebenso ist zu bestrafen, wer ein Geschäfts\- oder Betriebsgeheimnis, zu dessen Wahrung er verpflichtet ist, der Verwertung, Verwendung oder sonstigen Auswertung im Ausland preisgibt\.
+
+\[ [🔗 Permalink](#-124-stgb--auskundschaftung-eines-geschäfts--oder-betriebsgeheimnisses-zugunsten-des-auslands) \]
 
 ## Sechster Abschnitt
 
@@ -2090,6 +2376,8 @@ Der Nationalrat hat beschlossen:
 ### § 125 StGB — Sachbeschädigung
 
 > Wer eine fremde Sache zerstört, beschädigt, verunstaltet oder unbrauchbar macht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-125-stgb--sachbeschädigung) \]
 
 ### § 126 StGB — Schwere Sachbeschädigung
 
@@ -2111,6 +2399,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer durch die Tat an der Sache einen 300 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-126-stgb--schwere-sachbeschädigung) \]
+
 ### § 126a StGB — Datenbeschädigung
 
 > `(1)` Wer einen anderen dadurch schädigt, daß er automationsunterstützt verarbeitete, übermittelte oder überlassene Daten, über die er nicht oder nicht allein verfügen darf, verändert, löscht oder sonst unbrauchbar macht oder unterdrückt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
@@ -2126,6 +2416,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` durch die Tat wesentliche Bestandteile der kritischen Infrastruktur \(§ 74 Abs\. 1 Z 11\) beeinträchtigt oder
 >
 >> `3.` die Tat als Mitglied einer kriminellen Vereinigung begeht\.
+
+\[ [🔗 Permalink](#-126a-stgb--datenbeschädigung) \]
 
 ### § 126b StGB — Störung der Funktionsfähigkeit eines Computersystems
 
@@ -2143,6 +2435,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` die Tat als Mitglied einer kriminellen Vereinigung begeht\.
 
+\[ [🔗 Permalink](#-126b-stgb--störung-der-funktionsfähigkeit-eines-computersystems) \]
+
 ### § 126c StGB — Missbrauch von Computerprogrammen oder Zugangsdaten
 
 > `(1)` Wer
@@ -2159,9 +2453,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Mit Freiheitsstrafe bis zu drei Jahren ist zu bestrafen, wer die Tat nach Abs\. 1 oder Abs\. 1a in Bezug auf ein Computerprogramm oder eine damit vergleichbare Vorrichtung oder ein Computerpasswort, einen Zugangscode oder damit vergleichbare Daten begeht, die geeignet sind, eine Beeinträchtigung wesentlicher Bestandteile der kritischen Infrastruktur \(§ 74 Abs\. 1 Z 11\) zu verursachen\.
 
+\[ [🔗 Permalink](#-126c-stgb--missbrauch-von-computerprogrammen-oder-zugangsdaten) \]
+
 ### § 127 StGB — Diebstahl
 
 > Wer eine fremde bewegliche Sache einem anderen mit dem Vorsatz wegnimmt, sich oder einen Dritten durch deren Zueignung unrechtmäßig zu bereichern, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-127-stgb--diebstahl) \]
 
 ### § 128 StGB — Schwerer Diebstahl
 
@@ -2178,6 +2476,8 @@ Der Nationalrat hat beschlossen:
 >> `5.` an einer Sache, deren Wert 5 000 Euro übersteigt\.
 
 > `(2)` Wer eine Sache stiehlt, deren Wert 300 000 Euro übersteigt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-128-stgb--schwerer-diebstahl) \]
 
 ### § 129 StGB — Diebstahl durch Einbruch oder mit Waffen
 
@@ -2197,6 +2497,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` bei dem er oder mit seinem Wissen ein anderer Beteiligter \(§ 12\) eine Waffe oder ein anderes Mittel bei sich führt, um den Widerstand einer Person zu überwinden oder zu verhindern\.
 
+\[ [🔗 Permalink](#-129-stgb--diebstahl-durch-einbruch-oder-mit-waffen) \]
+
 ### § 130 StGB — Gewerbsmäßiger Diebstahl und Diebstahl im Rahmen einer kriminellen Vereinigung
 
 > `(1)` Wer einen Diebstahl gewerbsmäßig oder als Mitglied einer kriminellen Vereinigung unter Mitwirkung \(§ 12\) eines anderen Mitglieds dieser Vereinigung begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
@@ -2205,9 +2507,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer auf die in Abs\. 1 bezeichnete Weise einen Diebstahl nach § 129 Abs\. 2 begeht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-130-stgb--gewerbsmäßiger-diebstahl-und-diebstahl-im-rahmen-einer-kriminellen-vereinigung) \]
+
 ### § 131 StGB — Räuberischer Diebstahl
 
 > Wer, bei einem Diebstahl auf frischer Tat betreten, Gewalt gegen eine Person anwendet oder sie mit einer gegenwärtigen Gefahr für Leib oder Leben \(§ 89\) bedroht, um sich oder einem Dritten die weggenommene Sache zu erhalten, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wenn die Gewaltanwendung jedoch eine Körperverletzung mit schweren Dauerfolgen \(§ 85\) oder den Tod eines Menschen zur Folge hat, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-131-stgb--räuberischer-diebstahl) \]
 
 ### § 132 StGB — Entziehung von Energie
 
@@ -2215,11 +2521,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer Energie entzieht, deren Wert 5 000 Euro übersteigt, ist mit Freiheitsstrafe bis zu drei Jahren, wer Energie im Wert von mehr als 300 000 Euro entzieht, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-132-stgb--entziehung-von-energie) \]
+
 ### § 133 StGB — Veruntreuung
 
 > `(1)` Wer ein Gut, das ihm anvertraut worden ist, sich oder einem Dritten mit dem Vorsatz zueignet, sich oder den Dritten dadurch unrechtmäßig zu bereichern, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 > `(2)` Wer ein Gut veruntreut, dessen Wert 5 000 Euro übersteigt, ist mit Freiheitsstrafe bis zu drei Jahren, wer ein Gut im Wert von mehr als 300 000 Euro veruntreut, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-133-stgb--veruntreuung) \]
 
 ### § 134 StGB — Unterschlagung
 
@@ -2229,11 +2539,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer ein fremdes Gut unterschlägt, dessen Wert 5 000 Euro übersteigt, ist mit Freiheitsstrafe bis zu zwei Jahren, wer ein fremdes Gut im Wert von mehr als 300 000 Euro unterschlägt, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-134-stgb--unterschlagung) \]
+
 ### § 135 StGB — Dauernde Sachentziehung
 
 > `(1)` Wer einen anderen dadurch schädigt, daß er eine fremde bewegliche Sache aus dessen Gewahrsam dauernd entzieht, ohne die Sache sich oder einem Dritten zuzueignen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 > `(2)` Wer die Tat an einer der im § 126 Abs\. 1 Z 1 bis 6 genannten Sachen oder an einer Sache begeht, deren Wert 5 000 Euro übersteigt, ist mit Freiheitsstrafe bis zu zwei Jahren, wer die Tat an einer Sache begeht, deren Wert 300 000 Euro übersteigt, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-135-stgb--dauernde-sachentziehung) \]
 
 ### § 136 StGB — Unbefugter Gebrauch von Fahrzeugen
 
@@ -2245,9 +2559,13 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter ist nicht zu bestrafen, wenn die Berechtigung, über das Fahrzeug zu verfügen, seinem Ehegatten, seinem eingetragenen Partner, einem Verwandten in gerader Linie, seinem Bruder oder seiner Schwester oder einem anderen Angehörigen zusteht, sofern er mit diesem in Hausgemeinschaft lebt, oder wenn ihm das Fahrzeug von seinem dazu berechtigten Dienstgeber anvertraut war\. Eine bloß vorübergehende Berechtigung kommt nicht in Betracht\. An einer solchen Tat Beteiligte \(§ 12\) sind ebenfalls nicht zu bestrafen\.
 
+\[ [🔗 Permalink](#-136-stgb--unbefugter-gebrauch-von-fahrzeugen) \]
+
 ### § 137 StGB — Eingriff in fremdes Jagd- oder Fischereirecht
 
 > Wer unter Verletzung fremden Jagd\- oder Fischereirechts dem Wild nachstellt, fischt, Wild oder Fische tötet, verletzt oder sich oder einem Dritten zueignet oder sonst eine Sache, die dem Jagd\- oder Fischereirecht eines anderen unterliegt, zerstört, beschädigt oder sich oder einem Dritten zueignet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-137-stgb--eingriff-in-fremdes-jagd--oder-fischereirecht) \]
 
 ### § 138 StGB — Schwerer Eingriff in fremdes Jagd- oder Fischereirecht
 
@@ -2263,13 +2581,19 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; begeht\.
 
+\[ [🔗 Permalink](#-138-stgb--schwerer-eingriff-in-fremdes-jagd--oder-fischereirecht) \]
+
 ### § 139 StGB — Verfolgungsvoraussetzung
 
 > Begeht der Täter den Eingriff in fremdes Jagdrecht an einem Ort, wo er die Jagd, oder den Eingriff in fremdes Fischereirecht an einem Ort, wo er die Fischerei in beschränktem Umfang ausüben darf, so ist er wegen der nach den §§ 137 und 138 strafbaren Handlungen nur mit Ermächtigung des Jagd\- oder Fischereiberechtigten zu verfolgen\.
 
+\[ [🔗 Permalink](#-139-stgb--verfolgungsvoraussetzung) \]
+
 ### § 140 StGB — Gewaltanwendung eines Wilderers
 
 > Wer, bei einem Eingriff in fremdes Jagd\- oder Fischereirecht auf frischer Tat betreten, Gewalt gegen eine Person anwendet oder sie mit einer gegenwärtigen Gefahr für Leib oder Leben \(§ 89\) bedroht, um sich oder einem Dritten die Beute zu erhalten, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wenn die Gewaltanwendung jedoch eine Körperverletzung mit schweren Dauerfolgen \(§ 85\) oder den Tod eines Menschen zur Folge hat, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-140-stgb--gewaltanwendung-eines-wilderers) \]
 
 ### § 141 StGB — Entwendung
 
@@ -2281,11 +2605,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die rechtswidrige Aneignung von Bodenerzeugnissen oder Bodenbestandteilen \(wie Baumfrüchte, Waldprodukte, Klaubholz\) geringen Wertes ist gerichtlich nicht strafbar\.
 
+\[ [🔗 Permalink](#-141-stgb--entwendung) \]
+
 ### § 142 StGB — Raub
 
 > `(1)` Wer mit Gewalt gegen eine Person oder durch Drohung mit gegenwärtiger Gefahr für Leib oder Leben \(§ 89\) einem anderen eine fremde bewegliche Sache mit dem Vorsatz wegnimmt oder abnötigt, durch deren Zueignung sich oder einen Dritten unrechtmäßig zu bereichern, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 > `(2)` Wer einen Raub ohne Anwendung erheblicher Gewalt an einer Sache geringen Wertes begeht, ist, wenn die Tat nur unbedeutende Folgen nach sich gezogen hat und es sich um keinen schweren Raub \(§ 143\) handelt, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-142-stgb--raub) \]
 
 ### § 143 StGB — Schwerer Raub
 
@@ -2293,11 +2621,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird durch die ausgeübte Gewalt jemand schwer verletzt \(§ 84 Abs\. 1\), so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\. Hat die Gewaltanwendung jedoch eine Körperverletzung mit schweren Dauerfolgen \(§ 85 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe von zehn bis zu zwanzig Jahren, hat sie aber den Tod eines Menschen zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
+\[ [🔗 Permalink](#-143-stgb--schwerer-raub) \]
+
 ### § 144 StGB — Erpressung
 
 > `(1)` Wer jemanden mit Gewalt oder durch gefährliche Drohung zu einer Handlung, Duldung oder Unterlassung nötigt, die diesen oder einen anderen am Vermögen schädigt, ist, wenn er mit dem Vorsatz gehandelt hat, durch das Verhalten des Genötigten sich oder einen Dritten unrechtmäßig zu bereichern, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
 > `(2)` Die Tat ist nicht rechtswidrig, wenn die Anwendung der Gewalt oder Drohung als Mittel zu dem angestrebten Zweck nicht den guten Sitten widerstreitet\.
+
+\[ [🔗 Permalink](#-144-stgb--erpressung) \]
 
 ### § 145 StGB — Schwere Erpressung
 
@@ -2317,9 +2649,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ebenso ist der Täter zu bestrafen, wenn die Tat einen Selbstmord oder Selbstmordversuch des Genötigten oder eines anderen zur Folge hat, gegen den sich die Gewalt oder gefährliche Drohung richtet\.
 
+\[ [🔗 Permalink](#-145-stgb--schwere-erpressung) \]
+
 ### § 146 StGB — Betrug
 
 > Wer mit dem Vorsatz, durch das Verhalten des Getäuschten sich oder einen Dritten unrechtmäßig zu bereichern, jemanden durch Täuschung über Tatsachen zu einer Handlung, Duldung oder Unterlassung verleitet, die diesen oder einen anderen am Vermögen schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-146-stgb--betrug) \]
 
 ### § 147 StGB — Schwerer Betrug
 
@@ -2341,9 +2677,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-147-stgb--schwerer-betrug) \]
+
 ### § 148 StGB — Gewerbsmäßiger Betrug
 
 > Wer einen Betrug gewerbsmäßig begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer jedoch einen schweren Betrug nach § 147 Abs\. 1 bis 2 gewerbsmäßig begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-148-stgb--gewerbsmäßiger-betrug) \]
 
 ### § 148a StGB — Betrügerischer Datenverarbeitungsmißbrauch
 
@@ -2355,6 +2695,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-148a-stgb--betrügerischer-datenverarbeitungsmißbrauch) \]
+
 ### § 149 StGB — Erschleichung einer Leistung
 
 > `(1)` Wer die Beförderung durch eine dem öffentlichen Verkehr dienende Anstalt oder den Zutritt zu einer Aufführung, Ausstellung oder einer anderen Veranstaltung oder zu einer Einrichtung durch Täuschung über Tatsachen erschleicht, ohne das festgesetzte Entgelt zu entrichten, ist, wenn das Entgelt nur gering ist, mit Freiheitsstrafe bis zu einem Monat oder mit Geldstrafe bis zu 60 Tagessätzen zu bestrafen\.
@@ -2365,6 +2707,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
 
+\[ [🔗 Permalink](#-149-stgb--erschleichung-einer-leistung) \]
+
 ### § 150 StGB — Notbetrug
 
 > `(1)` Wer einen Betrug mit nur geringem Schaden aus Not begeht, ist, wenn es sich nicht um einen der Fälle der §§ 147 und 148 handelt, mit Freiheitsstrafe bis zu einem Monat oder mit Geldstrafe bis zu 60 Tagessätzen zu bestrafen\.
@@ -2372,6 +2716,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
 
 > `(3)` Wer die Tat zum Nachteil seines Ehegatten, seines eingetragenen Partners, eines Verwandten in gerader Linie, seines Bruders oder seiner Schwester oder zum Nachteil eines anderen Angehörigen, sofern er mit diesem in Hausgemeinschaft lebt, begeht, ist nicht zu bestrafen\.
+
+\[ [🔗 Permalink](#-150-stgb--notbetrug) \]
 
 ### § 151 StGB — Versicherungsmißbrauch
 
@@ -2385,11 +2731,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Unter einer Behörde im Sinn des Abs\. 2 ist eine zur Strafverfolgung berufene Behörde in dieser ihrer Eigenschaft zu verstehen\. Ihr stehen zur Strafverfolgung berufene öffentliche Sicherheitsorgane in dieser ihrer Eigenschaft gleich\.
 
+\[ [🔗 Permalink](#-151-stgb--versicherungsmißbrauch) \]
+
 ### § 152 StGB — Kreditschädigung
 
 > `(1)` Wer unrichtige Tatsachen behauptet und dadurch den Kredit, den Erwerb oder das berufliche Fortkommen eines anderen schädigt oder gefährdet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 > `(2)` Der Täter ist nur auf Verlangen des Verletzten zu verfolgen\.
+
+\[ [🔗 Permalink](#-152-stgb--kreditschädigung) \]
 
 ### § 153 StGB — Untreue
 
@@ -2399,9 +2749,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer durch die Tat einen 5 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe bis zu drei Jahren, wer einen 300 000 Euro übersteigenden Schaden herbeiführt, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-153-stgb--untreue) \]
+
 ### § 153a StGB — Geschenkannahme durch Machthaber
 
 > Wer für die Ausübung der ihm durch Gesetz, behördlichen Auftrag oder Rechtsgeschäft eingeräumten Befugnis, über fremdes Vermögen zu verfügen oder einen anderen zu verpflichten, einen nicht bloß geringfügigen Vermögensvorteil angenommen hat und pflichtwidrig nicht abführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-153a-stgb--geschenkannahme-durch-machthaber) \]
 
 ### § 153b StGB — Förderungsmißbrauch
 
@@ -2414,6 +2768,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Wer die Tat in bezug auf einen 300 000 Euro übersteigenden Betrag begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
 > `(5)` Eine Förderung ist eine Zuwendung, die zur Verfolgung öffentlicher Interessen aus öffentlichen Haushalten gewährt wird und für die keine angemessene geldwerte Gegenleistung erbracht wird; ausgenommen sind Zuwendungen mit Sozialleistungscharakter und Zuschüsse nach § 12 des Finanz\-Verfassungsgesetzes 1948\. Öffentliche Haushalte sind die Haushalte der Gebietskörperschaften sowie anderer Personen des öffentlichen Rechts, mit Ausnahme der Kirchen und Religionsgesellschaften\.
+
+\[ [🔗 Permalink](#-153b-stgb--förderungsmißbrauch) \]
 
 ### § 153c StGB — Vorenthalten von Dienstnehmerbeiträgen zur Sozialversicherung
 
@@ -2429,6 +2785,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Strafbarkeit lebt wieder auf, wenn der Täter seine nach Abs\. 3 Z 2 eingegangene Verpflichtung nicht einhält\.
 
+\[ [🔗 Permalink](#-153c-stgb--vorenthalten-von-dienstnehmerbeiträgen-zur-sozialversicherung) \]
+
 ### § 153d StGB — Betrügerisches Anmelden zur Sozialversicherung oder Bauarbeiter-Urlaubs- und Abfertigungskasse
 
 > `(1)` Wer die Anmeldung einer Person zur Sozialversicherung in dem Wissen, dass die in Folge der Anmeldung auflaufenden Sozialversicherungsbeiträge nicht vollständig geleistet werden sollen, vornimmt, vermittelt oder in Auftrag gibt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wenn die in Folge der Anmeldung auflaufenden Sozialversicherungsbeiträge nicht vollständig geleistet werden\.
@@ -2436,6 +2794,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ebenso ist zu bestrafen, wer die Meldung einer Person zur Bauarbeiter\-Urlaubs\- und Abfertigungskasse in dem Wissen, dass die in Folge der Meldung auflaufenden Zuschläge nach dem Bauarbeiter\-Urlaubs\- und Abfertigungsgesetz nicht vollständig geleistet werden sollen, vornimmt, vermittelt oder in Auftrag gibt, wenn die in Folge der Meldung auflaufenden Zuschläge nicht vollständig geleistet werden\.
 
 > `(3)` Wer die Tat nach Abs\. 1 oder Abs\. 2 gewerbsmäßig oder in Bezug auf eine größere Zahl von Personen begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-153d-stgb--betrügerisches-anmelden-zur-sozialversicherung-oder-bauarbeiter-urlaubs--und-abfertigungskasse) \]
 
 ### § 153e StGB — Organisierte Schwarzarbeit
 
@@ -2451,6 +2811,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist auch zu bestrafen, wer eine der dort genannten Handlungen als leitender Angestellter \(§ 74 Abs\. 3\) einer juristischen Person oder einer Personengemeinschaft ohne Rechtspersönlichkeit begeht\.
 
+\[ [🔗 Permalink](#-153e-stgb--organisierte-schwarzarbeit) \]
+
 ### § 154 StGB — Geldwucher
 
 > `(1)` Wer die Zwangslage, den Leichtsinn, die Unerfahrenheit oder den Mangel an Urteilsvermögen eines anderen dadurch ausbeutet, daß er sich oder einem Dritten für eine Leistung, die der Befriedigung eines Geldbedürfnisses dient, insbesondere für die Gewährung oder Vermittlung eines Darlehens oder für die Stundung einer Geldforderung oder die Vermittlung einer solchen Stundung einen Vermögensvorteil versprechen oder gewähren läßt, der in auffallendem Mißverhältnis zum Wert der eigenen Leistung steht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
@@ -2460,6 +2822,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Wer Geldwucher gewerbsmäßig begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch BGBl\. I Nr\. 112/2015\)*
 
+\[ [🔗 Permalink](#-154-stgb--geldwucher) \]
+
 ### § 155 StGB — Sachwucher
 
 > `(1)` Wer außer den Fällen des § 154 gewerbsmäßig die Zwangslage, den Leichtsinn, die Unerfahrenheit oder den Mangel an Urteilsvermögen eines anderen dadurch ausbeutet, daß er sich oder einem Dritten für eine Ware oder eine andere Leistung einen Vermögensvorteil versprechen oder gewähren läßt, der in auffallendem Mißverhältnis zum Wert der eigenen Leistung steht, ist mit Freiheitsstrafe bis zu drei Jahren, wenn er jedoch durch die Tat eine größere Zahl von Menschen schwer geschädigt hat, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
@@ -2467,21 +2831,29 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ebenso ist zu bestrafen, wer eine solche Forderung, die auf ihn übergegangen ist, gewerbsmäßig wucherisch verwertet\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 112/2015\)*
 
+\[ [🔗 Permalink](#-155-stgb--sachwucher) \]
+
 ### § 156 StGB — Betrügerische Krida
 
 > `(1)` Wer einen Bestandteil seines Vermögens verheimlicht, beiseite schafft, veräußert oder beschädigt, eine nicht bestehende Verbindlichkeit vorschützt oder anerkennt oder sonst sein Vermögen wirklich oder zum Schein verringert und dadurch die Befriedigung seiner Gläubiger oder wenigstens eines von ihnen vereitelt oder schmälert, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
 > `(2)` Wer durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-156-stgb--betrügerische-krida) \]
+
 ### § 157 StGB — Schädigung fremder Gläubiger
 
 > Ebenso ist zu bestrafen, wer ohne Einverständnis mit dem Schuldner einen Bestandteil des Vermögens des Schuldners verheimlicht, beiseite schafft, veräußert oder beschädigt oder ein nicht bestehendes Recht gegen das Vermögen des Schuldners geltend macht und dadurch die Befriedigung der Gläubiger oder wenigstens eines von ihnen vereitelt oder schmälert\.
+
+\[ [🔗 Permalink](#-157-stgb--schädigung-fremder-gläubiger) \]
 
 ### § 158 StGB — Begünstigung eines Gläubigers
 
 > `(1)` Wer nach Eintritt seiner Zahlungsunfähigkeit einen Gläubiger begünstigt und dadurch die anderen Gläubiger oder wenigstens einen von ihnen benachteiligt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(2)` Der Gläubiger, der den Schuldner zur Sicherstellung oder Zahlung einer ihm zustehenden Forderung verleitet oder die Sicherstellung oder Zahlung annimmt, ist nach Abs\. 1 nicht zu bestrafen\.
+
+\[ [🔗 Permalink](#-158-stgb--begünstigung-eines-gläubigers) \]
 
 ### § 159 StGB — Grob fahrlässige Beeinträchtigung von Gläubigerinteressen
 
@@ -2511,6 +2883,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `5.` Jahresabschlüsse, zu deren Erstellung er verpflichtet ist, zu erstellen unterlässt oder auf eine solche Weise oder so spät erstellt, dass ein zeitnaher Überblick über seine wahre Vermögens\-, Finanz\- und Ertragslage erheblich erschwert wird\.
 
+\[ [🔗 Permalink](#-159-stgb--grob-fahrlässige-beeinträchtigung-von-gläubigerinteressen) \]
+
 ### § 160 StGB — Umtriebe während einer Geschäftsaufsicht oder im Insolvenzverfahren
 
 > `(1)` Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen ist zu bestrafen:
@@ -2523,11 +2897,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso sind eine zur Geschäftsaufsicht bestellte Person, der Insolvenzverwalter und ein Mitglied des Gläubigerausschusses im Insolvenzverfahren zu bestrafen, die für sich oder einen Dritten zum Nachteil der Gläubiger einen ihnen nicht gebührenden Vermögensvorteil annehmen oder sich versprechen lassen\.
 
+\[ [🔗 Permalink](#-160-stgb--umtriebe-während-einer-geschäftsaufsicht-oder-im-insolvenzverfahren) \]
+
 ### § 161 StGB — Gemeinsame Bestimmungen über die Verantwortlichkeit leitender Angestellter
 
 > `(1)` Nach den §§ 156, 158, 159 und 162 ist gleich einem Schuldner, nach § 160 gleich einem Gläubiger zu bestrafen, wer eine der dort genannten Handlungen als leitender Angestellter \(§ 74 Abs\. 3\) einer juristischen Person oder einer Personengemeinschaft ohne Rechtspersönlichkeit begeht\. Ebenso ist nach den genannten Bestimmungen zu bestrafen, wer zwar ohne Einverständnis mit dem Schuldner oder Gläubiger, aber als dessen leitender Angestellter \(§ 74 Abs\. 3\) handelt\.
 
 > `(2)` Nach § 160 Abs\. 2 ist auch zu bestrafen, wer eine der dort genannten Handlungen als leitender Angestellter \(§ 74 Abs\. 3\) einer juristischen Person oder einer Personengemeinschaft ohne Rechtspersönlichkeit begeht, der eine der dort bezeichneten Aufgaben übertragen worden ist\.
+
+\[ [🔗 Permalink](#-161-stgb--gemeinsame-bestimmungen-über-die-verantwortlichkeit-leitender-angestellter) \]
 
 ### § 162 StGB — Vollstreckungsvereitelung
 
@@ -2535,9 +2913,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer durch die Tat einen 5 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-162-stgb--vollstreckungsvereitelung) \]
+
 ### § 163 StGB — Vollstreckungsvereitelung zugunsten eines anderen
 
 > Ebenso ist zu bestrafen, wer ohne Einverständnis mit dem Schuldner einen Bestandteil des Vermögens des Schuldners verheimlicht, beiseite schafft, veräußert oder beschädigt oder ein nicht bestehendes Recht gegen das Vermögen des Schuldners geltend macht und dadurch die Befriedigung eines Gläubigers durch Zwangsvollstreckung oder in einem anhängigen Zwangsvollstreckungsverfahren vereitelt oder schmälert\.
+
+\[ [🔗 Permalink](#-163-stgb--vollstreckungsvereitelung-zugunsten-eines-anderen) \]
 
 ### § 163a StGB — Unvertretbare Darstellung wesentlicher Informationen über bestimmte Verbände
 
@@ -2561,6 +2943,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wegen Beteiligung \(§§ 12, 14\) ist nicht zu bestrafen, wer schon nach § 163b mit Strafe bedroht ist\.
 
+\[ [🔗 Permalink](#-163a-stgb--unvertretbare-darstellung-wesentlicher-informationen-über-bestimmte-verbände) \]
+
 ### § 163b StGB — Unvertretbare Berichte von Prüfern bestimmter Verbände
 
 > `(1)` Wer als Abschlussprüfer, Gründungsprüfer, Sonderprüfer, Verschmelzungsprüfer, Spaltungsprüfer, Revisor, Stiftungsprüfer, Mitglied der Prüfungskommission \(§ 40 ORF\-Gesetz, BGBl\. Nr\. 379/1984\) oder sonst als aufgrund verbandsrechtlicher Bestimmungen bestellter Prüfer mit vergleichbaren Funktionen eines in § 163c angeführten Verbandes in
@@ -2582,6 +2966,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Wer eine Tat nach Abs\. 1 oder 2 als Prüfer eines in § 163a Abs\. 3 angeführten Verbandes begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 > `(5)` Wegen Beteiligung \(§§ 12, 14\) ist nicht zu bestrafen, wer schon nach § 163a mit Strafe bedroht ist\.
+
+\[ [🔗 Permalink](#-163b-stgb--unvertretbare-berichte-von-prüfern-bestimmter-verbände) \]
 
 ### § 163c StGB — Verbände
 
@@ -2611,6 +2997,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `12.` den in Z 1 bis 11 genannten Verbänden vergleichbare ausländische Verbände, deren übertragbare Wertpapiere zum Handel an einem geregelten Markt im Inland zugelassen sind oder die im Hinblick auf eine Zweigniederlassung im Inland im Firmenbuch eingetragen sind \(§ 12 UGB\)\.
 
+\[ [🔗 Permalink](#-163c-stgb--verbände) \]
+
 ### § 163d StGB — Tätige Reue
 
 > `(1)` Nach § 163a ist nicht zu bestrafen, wer freiwillig die falschen Angaben richtig stellt oder die fehlenden Angaben nachträgt,
@@ -2627,6 +3015,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach § 163b Abs\. 1 Z 2 ist nicht zu bestrafen, wer freiwillig die verschwiegenen Angaben nachträgt, bevor die Haupt\-,General\- oder Mitgliederversammlung oder sonst die Versammlung der Gesellschafter oder Mitglieder des Verbandes beendet ist\.
 
+\[ [🔗 Permalink](#-163d-stgb--tätige-reue) \]
+
 ### § 164 StGB — Hehlerei
 
 > `(1)` Wer den Täter einer mit Strafe bedrohten Handlung gegen fremdes Vermögen nach der Tat dabei unterstützt, eine Sache, die dieser durch sie erlangt hat, zu verheimlichen oder zu verwerten, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
@@ -2642,6 +3032,8 @@ Der Nationalrat hat beschlossen:
 > `(6)` Wer eine Tat nach Abs\. 5 begeht, ist nur mit Ermächtigung des durch die Vortat Verletzten zu verfolgen\.
 
 > `(7)` Wer eine Tat nach Abs\. 5 begeht, ist nicht zu bestrafen, wenn die Vortat zum Nachteil seines Ehegatten, seines eingetragenen Partners, eines Verwandten in gerader Linie, seines Bruders oder seiner Schwester oder zum Nachteil eines anderen Angehörigen, sofern er mit diesem in Hausgemeinschaft lebt, begangen wurde\.
+
+\[ [🔗 Permalink](#-164-stgb--hehlerei) \]
 
 ### § 165 StGB — Geldwäscherei
 
@@ -2669,11 +3061,15 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Ein Vermögensbestandteil rührt aus einer kriminellen Tätigkeit \(Abs\. 5\) her, wenn ihn der Täter der kriminellen Tätigkeit durch die Tat erlangt oder für ihre Begehung empfangen hat oder wenn sich in ihm der Wert des ursprünglich erlangten oder empfangenen Vermögensbestandteils verkörpert\.
 
+\[ [🔗 Permalink](#-165-stgb--geldwäscherei) \]
+
 ### § 165a StGB — Tätige Reue
 
 > `(1)` Wegen Geldwäscherei ist nicht zu bestrafen, wer freiwillig und bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, durch Mitteilung an die Behörde oder auf andere Weise die Sicherstellung wesentlicher Vermögensbestandteile, auf die sich die Geldwäscherei bezogen hat, bewirkt\.
 
 > `(2)` Wenn ohne Zutun des Täters wesentliche Vermögensbestandteile, auf die sich die Geldwäscherei bezogen hat, sichergestellt werden, ist der Täter nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich um die Sicherstellung bemüht hat\.
+
+\[ [🔗 Permalink](#-165a-stgb--tätige-reue) \]
 
 ### § 166 StGB — Begehung im Familienkreis
 
@@ -2682,6 +3078,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ebenso ist zu bestrafen, wer sich an der Tat bloß zum Vorteil eines anderen beteiligt \(§ 12\), der zum Verletzten in einer der genannten Beziehungen steht\.
 
 > `(3)` Der Täter ist nur auf Verlangen des Verletzten zu verfolgen\.
+
+\[ [🔗 Permalink](#-166-stgb--begehung-im-familienkreis) \]
 
 ### § 167 StGB — Tätige Reue
 
@@ -2697,11 +3095,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter, der sich um die Schadensgutmachung ernstlich bemüht hat, ist auch dann nicht zu bestrafen, wenn ein Dritter in seinem Namen oder wenn ein anderer an der Tat Mitwirkender den ganzen aus der Tat entstandenen Schaden unter den im Abs\. 2 genannten Voraussetzungen gutmacht\.
 
+\[ [🔗 Permalink](#-167-stgb--tätige-reue) \]
+
 ### § 168 StGB — Glücksspiel
 
 > `(1)` Wer ein Spiel, bei dem Gewinn und Verlust ausschließlich oder vorwiegend vom Zufall abhängen oder das ausdrücklich verboten ist, veranstaltet oder eine zur Abhaltung eines solchen Spieles veranstaltete Zusammenkunft fördert, um aus dieser Veranstaltung oder Zusammenkunft sich oder einem anderen einen Vermögensvorteil zuzuwenden, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen, es sei denn, daß bloß zu gemeinnützigen Zwecken oder bloß zum Zeitvertreib und um geringe Beträge gespielt wird\.
 
 > `(2)` Wer sich gewerbsmäßig an einem solchen Spiel beteiligt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-168-stgb--glücksspiel) \]
 
 ### § 168a StGB — Ketten- oder Pyramidenspiele
 
@@ -2717,11 +3119,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer durch die Tat eine größere Zahl von Menschen schwer geschädigt hat, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-168a-stgb--ketten--oder-pyramidenspiele) \]
+
 ### § 168b StGB — Wettbewerbsbeschränkende Absprachen bei Vergabeverfahren
 
 > `(1)` Wer bei einem Vergabeverfahren einen Teilnahmeantrag stellt, ein Angebot legt oder Verhandlungen führt, die auf einer rechtswidrigen Absprache beruhen, die darauf abzielt, den Auftraggeber zur Annahme eines bestimmten Angebots zu veranlassen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig verhindert, dass der Auftraggeber das Angebot annimmt oder dieser seine Leistung erbringt\. Wird ohne Zutun des Täters das Angebot nicht angenommen oder die Leistung des Auftraggebers nicht erbracht, so wird er straflos, wenn er sich freiwillig und ernsthaft bemüht, die Annahme des Angebots oder das Erbringen der Leistung zu verhindern\.
+
+\[ [🔗 Permalink](#-168b-stgb--wettbewerbsbeschränkende-absprachen-bei-vergabeverfahren) \]
 
 ### § 168f StGB — Ausgabenseitiger Betrug zum Nachteil der finanziellen Interessen der Europäischen Union
 
@@ -2741,6 +3147,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Ausgaben im Zusammenhang mit der Vergabe öffentlicher Aufträge sind alle Ausgaben in Verbindung mit öffentlichen Aufträgen im Sinne des Art\. 101 Abs\. 1 der Verordnung \(EU, Euratom\) Nr\. 966/2012 über die Haushaltsordnung für den Gesamthaushaltsplan der Union und zur Aufhebung der Verordnung \(EG, Euratom\) Nr\. 1605/2002 des Rates, ABl\. L 298 vom 26\.10\.2012, S\. 1\.
 
+\[ [🔗 Permalink](#-168f-stgb--ausgabenseitiger-betrug-zum-nachteil-der-finanziellen-interessen-der-europäischen-union) \]
+
 ### § 168g StGB — Missbräuchliche Verwendung von Mitteln und Vermögenswerten zum Nachteil der finanziellen Interessen der Europäischen Union
 
 > `(1)` Wer als Amtsträger unmittelbar oder mittelbar Mittel oder Vermögenswerte verwaltet und diese Mittel entgegen ihrer Zweckbestimmung bindet oder ausbezahlt oder sonstige Vermögenswerte entgegen ihrer Zweckbestimmung zuweist oder verwendet und dadurch die finanziellen Interessen der Union schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
@@ -2748,6 +3156,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wer durch die Tat einen 5 000 Euro übersteigenden Schaden herbeiführt oder die Tat im Rahmen einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 > `(3)` Wer durch die Tat einen 100 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wer durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-168g-stgb--missbräuchliche-verwendung-von-mitteln-und-vermögenswerten-zum-nachteil-der-finanziellen-interessen-der-europäischen-union) \]
 
 ## Siebenter Abschnitt
 
@@ -2761,11 +3171,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge oder sind durch die Tat viele Menschen in Not versetzt worden, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-169-stgb--brandstiftung) \]
+
 ### § 170 StGB — Fahrlässige Herbeiführung einer Feuersbrunst
 
 > `(1)` Wer eine der im § 169 mit Strafe bedrohten Taten fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge oder sind durch die Tat viele Menschen in Not versetzt worden, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-170-stgb--fahrlässige-herbeiführung-einer-feuersbrunst) \]
 
 ### § 171 StGB — Vorsätzliche Gefährdung durch Kernenergie oder ionisierende Strahlen
 
@@ -2773,11 +3187,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine der im § 169 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
+\[ [🔗 Permalink](#-171-stgb--vorsätzliche-gefährdung-durch-kernenergie-oder-ionisierende-strahlen) \]
+
 ### § 172 StGB — Fahrlässige Gefährdung durch Kernenergie oder ionisierende Strahlen
 
 > `(1)` Wer die im § 171 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
+
+\[ [🔗 Permalink](#-172-stgb--fahrlässige-gefährdung-durch-kernenergie-oder-ionisierende-strahlen) \]
 
 ### § 173 StGB — Vorsätzliche Gefährdung durch Sprengmittel
 
@@ -2785,11 +3203,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine der im § 169 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
+\[ [🔗 Permalink](#-173-stgb--vorsätzliche-gefährdung-durch-sprengmittel) \]
+
 ### § 174 StGB — Fahrlässige Gefährdung durch Sprengmittel
 
 > `(1)` Wer die im § 173 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
+
+\[ [🔗 Permalink](#-174-stgb--fahrlässige-gefährdung-durch-sprengmittel) \]
 
 ### § 175 StGB — Vorbereitung eines Verbrechens durch Kernenergie, ionisierende Strahlen oder Sprengmittel
 
@@ -2797,17 +3219,23 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nicht zu bestrafen, wenn er freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, den Gegenstand der Behörde übergibt, es ihr ermöglicht, des Gegenstands habhaft zu werden, oder sonst die Gefahr beseitigt, daß von dem Gegenstand zur Begehung einer nach § 171 oder § 173 mit Strafe bedrohten Handlung Gebrauch gemacht wird\.
 
+\[ [🔗 Permalink](#-175-stgb--vorbereitung-eines-verbrechens-durch-kernenergie-ionisierende-strahlen-oder-sprengmittel) \]
+
 ### § 176 StGB — Vorsätzliche Gemeingefährdung
 
 > `(1)` Wer anders als durch eine der in den §§ 169, 171 und 173 mit Strafe bedrohten Handlungen eine Gefahr für Leib oder Leben \(§ 89\) einer größeren Zahl von Menschen oder für fremdes Eigentum in großem Ausmaß herbeiführt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 > `(2)` Hat die Tat eine der im § 169 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
+\[ [🔗 Permalink](#-176-stgb--vorsätzliche-gemeingefährdung) \]
+
 ### § 177 StGB — Fahrlässige Gemeingefährdung
 
 > `(1)` Wer anders als durch eine der in den §§ 170, 172 und 174 mit Strafe bedrohten Handlungen fahrlässig eine Gefahr für Leib oder Leben \(§ 89\) einer größeren Zahl von Menschen oder für fremdes Eigentum in großem Ausmaß herbeiführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
+
+\[ [🔗 Permalink](#-177-stgb--fahrlässige-gemeingefährdung) \]
 
 ### § 177a StGB — Herstellung und Verbreitung von Massenvernichtungswaffen
 
@@ -2822,6 +3250,8 @@ Der Nationalrat hat beschlossen:
 > &nbsp; ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 > `(2)` Weiß der Täter, daß die Kampfmittel in ein Gebiet gelangen sollen, in dem ein Krieg oder ein bewaffneter Konflikt ausgebrochen ist oder unmittelbar auszubrechen droht, so ist er mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, weiß er aber, daß die Kampfmittel zum Einsatz gelangen sollen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
+
+\[ [🔗 Permalink](#-177a-stgb--herstellung-und-verbreitung-von-massenvernichtungswaffen) \]
 
 ### § 177b StGB — Unerlaubter Umgang mit Kernmaterial, radioaktiven Stoffen oder Strahleneinrichtungen
 
@@ -2845,27 +3275,39 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Begriff Kernmaterial bezeichnet Ausgangsmaterial und besonderes spaltbares Material sowie Ausrüstung, Technologie und Material, die dem Sicherheitskontrollsystem nach dem Sicherheitskontrollgesetz 1991, BGBl\. Nr\. 415/1992, unterliegen\. Der Begriff radioaktive Stoffe bezeichnet Stoffe, die ein oder mehrere Radionuklide enthalten, sofern deren Aktivität oder Konzentration nach dem Stand der Technik im Zusammenhang mit dem Strahlenschutz nicht außer Acht gelassen werden kann; Gegenstände, die radioaktive Stoffe enthalten oder an deren Oberfläche sich solche Stoffe befinden, stehen radioaktiven Stoffen gleich\. Unter Strahleneinrichtungen sind solche Geräte oder Anlagen zu verstehen, die, ohne radioaktive Stoffe zu enthalten, imstande sind, ionisierende Strahlung auszusenden, und deren Betrieb einer Bewilligungspflicht nach dem Strahlenschutzgesetz, BGBl\. Nr\. 227/1969 in der jeweils geltenden Fassung, unterliegt\.
 
+\[ [🔗 Permalink](#-177b-stgb--unerlaubter-umgang-mit-kernmaterial-radioaktiven-stoffen-oder-strahleneinrichtungen) \]
+
 ### § 177c StGB — Fahrlässiger unerlaubter Umgang mit Kernmaterial, radioaktiven Stoffen oder Strahleneinrichtungen
 
 > `(1)` Wer fahrlässig entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 177b Abs\. 1, 2 oder 3 mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Wird durch die Tat die im § 171 Abs\. 1 genannte Gefahr herbeigeführt, der Tier\- oder Pflanzenbestand erheblich geschädigt oder eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\. Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
+\[ [🔗 Permalink](#-177c-stgb--fahrlässiger-unerlaubter-umgang-mit-kernmaterial-radioaktiven-stoffen-oder-strahleneinrichtungen) \]
+
 ### § 177d StGB — Vorsätzlicher unerlaubter Umgang mit Stoffen, die zum Abbau der Ozonschicht beitragen
 
 > Wer Stoffe, die zum Abbau der Ozonschicht beitragen, entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag herstellt, einführt, ausführt, in Verkehr setzt oder verwendet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-177d-stgb--vorsätzlicher-unerlaubter-umgang-mit-stoffen-die-zum-abbau-der-ozonschicht-beitragen) \]
 
 ### § 177e StGB — Grob fahrlässiger unerlaubter Umgang mit Stoffen, die zum Abbau der Ozonschicht beitragen
 
 > Wer grob fahrlässig \(§ 6 Abs\. 3\) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 177d mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-177e-stgb--grob-fahrlässiger-unerlaubter-umgang-mit-stoffen-die-zum-abbau-der-ozonschicht-beitragen) \]
+
 ### § 178 StGB — Vorsätzliche Gefährdung von Menschen durch übertragbare Krankheiten
 
 > Wer eine Handlung begeht, die geeignet ist, die Gefahr der Verbreitung einer übertragbaren Krankheit unter Menschen herbeizuführen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wenn die Krankheit ihrer Art nach zu den wenn auch nur beschränkt anzeige\- oder meldepflichtigen Krankheiten gehört\.
 
+\[ [🔗 Permalink](#-178-stgb--vorsätzliche-gefährdung-von-menschen-durch-übertragbare-krankheiten) \]
+
 ### § 179 StGB — Fahrlässige Gefährdung von Menschen durch übertragbare Krankheiten
 
 > Wer die im § 178 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-179-stgb--fahrlässige-gefährdung-von-menschen-durch-übertragbare-krankheiten) \]
 
 ### § 180 StGB — Vorsätzliche Beeinträchtigung der Umwelt
 
@@ -2883,15 +3325,21 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird durch die Tat der Tier\- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt oder ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt, herbeigeführt, so ist der Täter mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. Hat die Tat eine der im § 169 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
+\[ [🔗 Permalink](#-180-stgb--vorsätzliche-beeinträchtigung-der-umwelt) \]
+
 ### § 181 StGB — Fahrlässige Beeinträchtigung der Umwelt
 
 > `(1)` Wer fahrlässig entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 180 mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Wird durch die Tat der Tier\- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt oder ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt, herbeigeführt, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\. Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
+\[ [🔗 Permalink](#-181-stgb--fahrlässige-beeinträchtigung-der-umwelt) \]
+
 ### § 181a StGB — Schwere Beeinträchtigung durch Lärm
 
 > Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Lärm in einem solchen Ausmaß oder unter solchen Umständen erzeugt, daß die Tat eine nachhaltige und schwere Beeinträchtigung des körperlichen Befindens vieler Menschen nach sich zieht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-181a-stgb--schwere-beeinträchtigung-durch-lärm) \]
 
 ### § 181b StGB — Vorsätzliches umweltgefährdendes Behandeln und Verbringen von Abfällen
 
@@ -2911,6 +3359,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer außer dem Fall des Abs\. 2 Abfälle entgegen Art\. 2 Nummer 35 der Verordnung 1013/2006/EG über die Verbringung von Abfällen in nicht unerheblicher Menge verbringt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-181b-stgb--vorsätzliches-umweltgefährdendes-behandeln-und-verbringen-von-abfällen) \]
+
 ### § 181c StGB — Fahrlässiges umweltgefährdendes Behandeln und Verbringen von Abfällen
 
 > `(1)` Wer fahrlässig entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 181b mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
@@ -2918,6 +3368,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wird durch die Tat der Tier\- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder ein Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\. Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
 > `(3)` Wer außer den Fällen der Abs\. 1 und 2 grob fahrlässig \(§ 6 Abs\. 3\) Abfälle entgegen Art\. 2 Nummer 35 der Verordnung 1013/2006/EG über die Verbringung von Abfällen in nicht unerheblicher Menge verbringt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-181c-stgb--fahrlässiges-umweltgefährdendes-behandeln-und-verbringen-von-abfällen) \]
 
 ### § 181d StGB — Vorsätzliches umweltgefährdendes Betreiben von Anlagen
 
@@ -2935,11 +3387,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird durch die Tat der Tier\- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder ein Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\. Hat die Tat eine der im § 169 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
+\[ [🔗 Permalink](#-181d-stgb--vorsätzliches-umweltgefährdendes-betreiben-von-anlagen) \]
+
 ### § 181e StGB — Grob fahrlässiges umweltgefährdendes Betreiben von Anlagen
 
 > `(1)` Wer grob fahrlässig \(§ 6 Abs\. 3\) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag die im § 181d Abs\. 1 mit Strafe bedrohte Handlung begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 > `(2)` Wird durch die Tat der Tier\- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder ein Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\. Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
+
+\[ [🔗 Permalink](#-181e-stgb--grob-fahrlässiges-umweltgefährdendes-betreiben-von-anlagen) \]
 
 ### § 181f StGB — Vorsätzliche Schädigung des Tier- oder Pflanzenbestandes
 
@@ -2947,9 +3403,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Geschützte wildlebende Tierarten sind die in Anhang IV lit\. a\) der Richtlinie 92/43/EWG zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen oder des Anhangs I der Richtlinie 2009/147/EG über die Erhaltung der wildlebenden Vogelarten aufgezählten Arten; geschützte wildlebende Pflanzenarten sind die in Anhang IV lit\. b\) der Richtlinie 92/43/EWG zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen aufgezählten Arten\.
 
+\[ [🔗 Permalink](#-181f-stgb--vorsätzliche-schädigung-des-tier--oder-pflanzenbestandes) \]
+
 ### § 181g StGB — Grob fahrlässige Schädigung des Tier- oder Pflanzenbestandes
 
 > Wer grob fahrlässig \(§ 6 Abs\. 3\) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 181f mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-181g-stgb--grob-fahrlässige-schädigung-des-tier--oder-pflanzenbestandes) \]
 
 ### § 181h StGB — Vorsätzliche Schädigung von Lebensräumen in geschützten Gebieten
 
@@ -2957,9 +3417,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Lebensraum innerhalb eines geschützten Gebiets ist jeder Lebensraum einer Art, für die ein Gebiet durch Gesetz oder Verordnung zu einem Schutzgebiet gemäß Art\. 4 Abs\. 2 oder Anhang I der Richtlinie 2009/147/EG über die Erhaltung der wildlebenden Vogelarten erklärt wurde oder jeder natürliche Lebensraum oder Lebensraum einer Art, für die ein Gebiet durch Gesetz oder Verordnung zu einem besonderen Schutzgebiet gemäß Art\. 4 Abs\. 4 der Richtlinie 92/43/EWG zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen erklärt wurde\.
 
+\[ [🔗 Permalink](#-181h-stgb--vorsätzliche-schädigung-von-lebensräumen-in-geschützten-gebieten) \]
+
 ### § 181i StGB — Grob fahrlässige Schädigung von Lebensräumen in geschützten Gebieten
 
 > Wer grob fahrlässig \(§ 6 Abs\. 3\) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag die im § 181h mit Strafe bedrohte Handlung begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-181i-stgb--grob-fahrlässige-schädigung-von-lebensräumen-in-geschützten-gebieten) \]
 
 ### § 182 StGB — Andere Gefährdungen des Tier- oder Pflanzenbestandes
 
@@ -2973,9 +3437,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag auf andere als die im § 180 bezeichnete Weise eine Gefahr für den Tier\- oder Pflanzenbestand in erheblichem Ausmaß herbeiführt\.
 
+\[ [🔗 Permalink](#-182-stgb--andere-gefährdungen-des-tier--oder-pflanzenbestandes) \]
+
 ### § 183 StGB — Fahrlässige Gefährdung des Tier- oder Pflanzenbestandes
 
 > Wer eine der im § 182 mit Strafe bedrohten Handlungen fahrlässig begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-183-stgb--fahrlässige-gefährdung-des-tier--oder-pflanzenbestandes) \]
 
 ### § 183a StGB — Irrtum über Rechtsvorschriften und behördliche Aufträge
 
@@ -2983,21 +3451,29 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Abs\. 1 gilt in den Fällen der §§ 181, 181c Abs\. 1 und 2 und 183 entsprechend, wenn der Täter fahrlässig handelt, in den Fällen der §§ 181c Abs\. 3, 181e, 181g und 181i, wenn er grob fahrlässig \(§ 6 Abs\. 3\) handelt\.
 
+\[ [🔗 Permalink](#-183a-stgb--irrtum-über-rechtsvorschriften-und-behördliche-aufträge) \]
+
 ### § 183b StGB — Tätige Reue
 
 > `(1)` Wegen einer der in den §§ 180, 181 und 181b bis 183 mit Strafe bedrohten Handlungen ist nicht zu bestrafen, wer freiwillig und bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, die von ihm herbeigeführten Gefahren, Verunreinigungen und sonstigen Beeinträchtigungen beseitigt, sofern es nicht schon zu einer Schädigung eines Menschen oder des Tier\- oder Pflanzenbestandes gekommen ist\.
 
 > `(2)` § 167 Abs\. 4 ist dem Sinne nach anzuwenden\.
 
+\[ [🔗 Permalink](#-183b-stgb--tätige-reue) \]
+
 ### § 184 StGB — Kurpfuscherei
 
 > Wer, ohne die zur Ausübung des ärztlichen Berufes erforderliche Ausbildung erhalten zu haben, eine Tätigkeit, die den Ärzten vorbehalten ist, in bezug auf eine größere Zahl von Menschen gewerbsmäßig ausübt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-184-stgb--kurpfuscherei) \]
 
 ### § 185 StGB — Luftpiraterie
 
 > `(1)` Wer unter Ausnutzung der besonderen Verhältnisse des Luftverkehrs mit Gewalt oder durch gefährliche Drohung gegen eine an Bord des Luftfahrzeuges befindliche Person oder gegen eine Person, die auf den Kurs des Luftfahrzeuges oder auf die Sicherheit an Bord Einfluß nehmen kann, ein Luftfahrzeug in seine Gewalt oder unter seine Kontrolle bringt oder die Herrschaft darüber ausübt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 > `(2)` Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
+
+\[ [🔗 Permalink](#-185-stgb--luftpiraterie) \]
 
 ### § 186 StGB — Vorsätzliche Gefährdung der Sicherheit der Luftfahrt
 
@@ -3019,9 +3495,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
+\[ [🔗 Permalink](#-186-stgb--vorsätzliche-gefährdung-der-sicherheit-der-luftfahrt) \]
+
 ### § 187 StGB — Hinderung der Bekämpfung einer Gemeingefahr
 
 > Wer eine Maßnahme, die zur Abwendung einer gegenwärtigen Gefahr für Leib oder Leben \(§ 89\) einer größeren Zahl von Menschen oder für fremdes Eigentum in großem Ausmaß notwendig ist, vereitelt oder erschwert, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-187-stgb--hinderung-der-bekämpfung-einer-gemeingefahr) \]
 
 ## Achter Abschnitt
 
@@ -3030,6 +3510,8 @@ Der Nationalrat hat beschlossen:
 ### § 188 StGB — Herabwürdigung religiöser Lehren
 
 > Wer öffentlich eine Person oder eine Sache, die den Gegenstand der Verehrung einer im Inland bestehenden Kirche oder Religionsgesellschaft bildet, oder eine Glaubenslehre, einen gesetzlich zulässigen Brauch oder eine gesetzlich zulässige Einrichtung einer solchen Kirche oder Religionsgesellschaft unter Umständen herabwürdigt oder verspottet, unter denen sein Verhalten geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-188-stgb--herabwürdigung-religiöser-lehren) \]
 
 ### § 189 StGB — Störung einer Religionsübung
 
@@ -3045,15 +3527,21 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; auf eine Weise Unfug treibt, die geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-189-stgb--störung-einer-religionsübung) \]
+
 ### § 190 StGB — Störung der Totenruhe
 
 > `(1)` Wer einen Leichnam oder Teile eines Leichnams oder die Asche eines Toten einem Verfügungsberechtigten entzieht oder aus einer Beisetzungs\- oder Aufbahrungsstätte wegschafft, ferner wer einen Leichnam mißhandelt oder einen Leichnam, die Asche eines Toten oder eine Beisetzungs\-, Aufbahrungs\- oder Totengedenkstätte verunehrt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 > `(2)` Wer Schmuck von einer Beisetzungs\-, Aufbahrungs\- oder Totengedenkstätte entfernt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-190-stgb--störung-der-totenruhe) \]
+
 ### § 191 StGB — Störung einer Bestattungsfeier
 
 > Wer wissentlich eine Bestattungsfeier durch einen Lärm, der geeignet ist, berechtigtes Ärgernis zu erregen, oder durch ein anderes solches Verhalten stört, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-191-stgb--störung-einer-bestattungsfeier) \]
 
 ## Neunter Abschnitt
 
@@ -3063,6 +3551,8 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine neue Ehe schließt oder eine eingetragene Partnerschaft begründet, obwohl er verheiratet ist oder eine eingetragene Partnerschaft führt, oder wer mit einer verheirateten Person oder einer Person, die eine eingetragene Partnerschaft führt, eine Ehe schließt oder eine eingetragene Partnerschaft begründet, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-192-stgb--mehrfache-ehe-oder-eingetragene-partnerschaft) \]
+
 ### § 193 StGB — Ehetäuschung
 
 > `(1)` Wer bei Eingehung einer Ehe dem anderen Teil eine Tatsache verschweigt, die die Ehe nichtig macht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
@@ -3071,11 +3561,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nur dann zu bestrafen, wenn die Ehe wegen der verschwiegenen Tatsache für nichtig erklärt oder wegen der Täuschung aufgehoben worden ist\. Auch ist er nur auf Verlangen des Verletzten zu verfolgen\.
 
+\[ [🔗 Permalink](#-193-stgb--ehetäuschung) \]
+
 ### § 193a StGB — Partnerschaftstäuschung
 
 > `(1)` Wer einen anderen durch Täuschung über Tatsachen, derentwegen die Auflösung der eingetragenen Partnerschaft begehrt werden kann, verleitet, mit ihm eine eingetragene Partnerschaft zu begründen, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Der Täter ist nur dann zu bestrafen, wenn die eingetragene Partnerschaft wegen der Täuschung erfolgreich aufgelöst worden ist\. Auch ist er nur auf Verlangen des Verletzten zu verfolgen\.
+
+\[ [🔗 Permalink](#-193a-stgb--partnerschaftstäuschung) \]
 
 ### § 194 StGB — Verbotene Adoptionsvermittlung
 
@@ -3091,6 +3585,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Annehmende und Wahlkinder, zwischen denen die Adoption vermittelt wird, sind nicht als Beteiligte \(§ 12 StGB\) zu bestrafen\.
 
+\[ [🔗 Permalink](#-194-stgb--verbotene-adoptionsvermittlung) \]
+
 ### § 195 StGB — Kindesentziehung
 
 > `(1)` Wer eine Person unter sechzehn Jahren dem Erziehungsberechtigten entzieht, sie vor ihm verborgen hält, sie verleitet, sich ihm zu entziehen oder sich vor ihm verborgen zu halten, oder ihr dazu Hilfe leistet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
@@ -3103,6 +3599,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Eine Person unter sechzehn Jahren, die einen anderen dazu verleitet, sie dem Erziehungsberechtigten zu entziehen oder ihr Hilfe zu leisten, sich selbst dem Erziehungsberechtigten zu entziehen, ist nicht zu bestrafen\.
 
+\[ [🔗 Permalink](#-195-stgb--kindesentziehung) \]
+
 ### § 196 StGB — Vereitelung behördlich angeordneter Erziehungshilfen
 
 > `(1)` Wer eine minderjährige Person einer behördlich angeordneten Erziehungshilfe entzieht, sie verleitet, sich einer solchen zu entziehen, oder ihr dazu Hilfe leistet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
@@ -3110,6 +3608,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Täter ist nur mit Ermächtigung der Behörde zu verfolgen, die über die Fortsetzung der Erziehungshilfe zu entscheiden hat\.
 
 > `(3)` § 195 Abs\. 5 gilt entsprechend\.
+
+\[ [🔗 Permalink](#-196-stgb--vereitelung-behördlich-angeordneter-erziehungshilfen) \]
 
 ### § 198 StGB — Verletzung der Unterhaltspflicht
 
@@ -3119,13 +3619,19 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nicht nach Abs\. 1 zu bestrafen, wenn er bis zum Schluss der Verhandlung die vom Verfolgungsantrag umfassten Unterhaltsbeträge zur Gänze bezahlt\.
 
+\[ [🔗 Permalink](#-198-stgb--verletzung-der-unterhaltspflicht) \]
+
 ### § 199 StGB — Vernachlässigung der Pflege, Erziehung oder Beaufsichtigung
 
 > Wer die ihm auf Grund eines Gesetzes obliegende Pflege, Erziehung oder Beaufsichtigung einer minderjährigen Person gröblich vernachlässigt und dadurch, wenn auch nur fahrlässig, deren Verwahrlosung bewirkt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-199-stgb--vernachlässigung-der-pflege-erziehung-oder-beaufsichtigung) \]
+
 ### § 200 StGB — Unterschiebung eines Kindes
 
 > Wer ein Kind unterschiebt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-200-stgb--unterschiebung-eines-kindes) \]
 
 ## Zehnter Abschnitt
 
@@ -3137,11 +3643,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine schwere Körperverletzung \(§ 84 Abs\. 1\) oder eine Schwangerschaft der vergewaltigten Person zur Folge oder wird die vergewaltigte Person durch die Tat längere Zeit hindurch in einen qualvollen Zustand versetzt oder in besonderer Weise erniedrigt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat aber den Tod der vergewaltigten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
+\[ [🔗 Permalink](#-201-stgb--vergewaltigung) \]
+
 ### § 202 StGB — Geschlechtliche Nötigung
 
 > `(1)` Wer außer den Fällen des § 201 eine Person mit Gewalt oder durch gefährliche Drohung zur Vornahme oder Duldung einer geschlechtlichen Handlung nötigt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
 > `(2)` Hat die Tat eine schwere Körperverletzung \(§ 84 Abs\. 1\) oder eine Schwangerschaft der genötigten Person zur Folge oder wird die genötigte Person durch die Tat längere Zeit hindurch in einen qualvollen Zustand versetzt oder in besonderer Weise erniedrigt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat aber den Tod der genötigten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
+
+\[ [🔗 Permalink](#-202-stgb--geschlechtliche-nötigung) \]
 
 ### § 205 StGB — Sexueller Missbrauch einer wehrlosen oder psychisch beeinträchtigten Person
 
@@ -3151,11 +3661,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat eine schwere Körperverletzung \(§ 84 Abs\. 1\) oder eine Schwangerschaft der missbrauchten Person zur Folge oder wird die missbrauchte Person durch die Tat längere Zeit hindurch in einen qualvollen Zustand versetzt oder in besonderer Weise erniedrigt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat aber den Tod der missbrauchten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
+\[ [🔗 Permalink](#-205-stgb--sexueller-missbrauch-einer-wehrlosen-oder-psychisch-beeinträchtigten-person) \]
+
 ### § 205a StGB — Verletzung der sexuellen Selbstbestimmung
 
 > `(1)` Wer mit einer Person gegen deren Willen, unter Ausnützung einer Zwangslage oder nach vorangegangener Einschüchterung den Beischlaf oder eine dem Beischlaf gleichzusetzende geschlechtliche Handlung vornimmt, ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(2)` Ebenso ist zu bestrafen, wer eine Person auf die im Abs\. 1 beschriebene Weise zur Vornahme oder Duldung des Beischlafes oder einer dem Beischlaf gleichzusetzenden geschlechtlichen Handlung mit einer anderen Person oder, um sich oder einen Dritten geschlechtlich zu erregen oder zu befriedigen, dazu veranlasst, eine dem Beischlaf gleichzusetzende geschlechtliche Handlung unfreiwillig an sich selbst vorzunehmen\.
+
+\[ [🔗 Permalink](#-205a-stgb--verletzung-der-sexuellen-selbstbestimmung) \]
 
 ### § 206 StGB — Schwerer sexueller Mißbrauch von Unmündigen
 
@@ -3167,6 +3681,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Übersteigt das Alter des Täters das Alter der unmündigen Person nicht um mehr als drei Jahre, wird die unmündige Person durch die Tat weder längere Zeit hindurch in einen qualvollen Zustand versetzt noch in besonderer Weise erniedrigt und hat die Tat weder eine schwere Körperverletzung \(§ 84 Abs\. 1\) noch den Tod der unmündigen Person zur Folge, so ist der Täter nach Abs\. 1 und 2 nicht zu bestrafen, es sei denn, die unmündige Person hätte das 13\. Lebensjahr noch nicht vollendet\.
 
+\[ [🔗 Permalink](#-206-stgb--schwerer-sexueller-mißbrauch-von-unmündigen) \]
+
 ### § 207 StGB — Sexueller Mißbrauch von Unmündigen
 
 > `(1)` Wer außer dem Fall des § 206 eine geschlechtliche Handlung an einer unmündigen Person vornimmt oder von einer unmündigen Person an sich vornehmen läßt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
@@ -3176,6 +3692,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Hat die Tat eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge oder wird die unmündige Person durch die Tat längere Zeit hindurch in einen qualvollen Zustand versetzt oder in besonderer Weise erniedrigt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod der unmündigen Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
 > `(4)` Übersteigt das Alter des Täters das Alter der unmündigen Person nicht um mehr als vier Jahre, wird die unmündige Person durch die Tat weder längere Zeit hindurch in einen qualvollen Zustand versetzt noch in besonderer Weise erniedrigt und ist keine der Folgen des Abs\. 3 eingetreten, so ist der Täter nach Abs\. 1 und 2 nicht zu bestrafen, es sei denn, die unmündige Person hätte das zwölfte Lebensjahr noch nicht vollendet\.
+
+\[ [🔗 Permalink](#-207-stgb--sexueller-mißbrauch-von-unmündigen) \]
 
 ### § 207a StGB — Bildliches sexualbezogenes Kindesmissbrauchsmaterial und bildliche sexualbezogene Darstellungen minderjähriger Personen
 
@@ -3227,6 +3745,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` eine Abbildung oder Darstellung einer unmündigen minderjährigen Person nach Abs\. 4 von sich selbst besitzt\.
 
+\[ [🔗 Permalink](#-207a-stgb--bildliches-sexualbezogenes-kindesmissbrauchsmaterial-und-bildliche-sexualbezogene-darstellungen-minderjähriger-personen) \]
+
 ### § 207b StGB — Sexueller Missbrauch von Jugendlichen
 
 > `(1)` Wer an einer Person, die das 16\. Lebensjahr noch nicht vollendet hat und aus bestimmten Gründen noch nicht reif genug ist, die Bedeutung des Vorgangs einzusehen oder nach dieser Einsicht zu handeln, unter Ausnützung dieser mangelnden Reife sowie seiner altersbedingten Überlegenheit eine geschlechtliche Handlung vornimmt, von einer solchen Person an sich vornehmen lässt oder eine solche Person dazu verleitet, eine geschlechtliche Handlung an einem Dritten vorzunehmen oder von einem Dritten an sich vornehmen zu lassen, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
@@ -3234,6 +3754,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wer an einer Person, die das 18\. Lebensjahr noch nicht vollendet hat, unter Ausnützung einer Zwangslage dieser Person eine geschlechtliche Handlung vornimmt, von einer solchen Person an sich vornehmen lässt oder eine solche Person dazu verleitet, eine geschlechtliche Handlung an einem Dritten vorzunehmen oder von einem Dritten an sich vornehmen zu lassen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 > `(3)` Wer eine Person, die das 18\. Lebensjahr noch nicht vollendet hat, unmittelbar durch ein Entgelt dazu verleitet, eine geschlechtliche Handlung an ihm oder einem Dritten vorzunehmen oder von ihm oder einem Dritten an sich vornehmen zu lassen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-207b-stgb--sexueller-missbrauch-von-jugendlichen) \]
 
 ### § 208 StGB — Sittliche Gefährdung von Personen unter sechzehn Jahren
 
@@ -3244,6 +3766,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Wer, um sich oder einen Dritten geschlechtlich zu erregen oder zu befriedigen, bewirkt, dass eine unmündige Person eine strafbare Handlung nach den §§ 201 bis 207 oder 207b wahrnimmt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(4)` Übersteigt das Alter des Täters im ersten Fall des Abs\. 1 und im Abs\. 2 das Alter der unmündigen Person nicht um mehr als vier Jahre, so ist der Täter nach Abs\. 1 und 2 nicht zu bestrafen, es sei denn, die unmündige Person hätte das zwölfte Lebensjahr noch nicht vollendet\.
+
+\[ [🔗 Permalink](#-208-stgb--sittliche-gefährdung-von-personen-unter-sechzehn-jahren) \]
 
 ### § 208a StGB — Anbahnung von Sexualkontakten zu Unmündigen
 
@@ -3259,6 +3783,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 und 1a ist nicht zu bestrafen, wer freiwillig und bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, sein Vorhaben aufgibt und der Behörde sein Verschulden offenbart\.
 
+\[ [🔗 Permalink](#-208a-stgb--anbahnung-von-sexualkontakten-zu-unmündigen) \]
+
 ### § 211 StGB — Blutschande
 
 > `(1)` Wer mit einer Person, die mit ihm in gerader Linie verwandt ist, den Beischlaf vollzieht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
@@ -3268,6 +3794,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Wer mit seinem Bruder oder mit seiner Schwester den Beischlaf vollzieht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 > `(4)` Wer zur Zeit der Tat das neunzehnte Lebensjahr noch nicht vollendet hat, ist wegen Blutschande nicht zu bestrafen, wenn er zur Tat verführt worden ist\.
+
+\[ [🔗 Permalink](#-211-stgb--blutschande) \]
 
 ### § 212 StGB — Mißbrauch eines Autoritätsverhältnisses
 
@@ -3291,11 +3819,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer eine sexuelle Belästigung nach § 218 Abs\. 1a unter den Umständen des Abs\. 1 oder 2 begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-212-stgb--mißbrauch-eines-autoritätsverhältnisses) \]
+
 ### § 213 StGB — Kuppelei
 
 > `(1)` Wer eine Person, zu der er in einem der im § 212 bezeichneten Verhältnisse steht, unter den dort genannten Voraussetzungen zu einer geschlechtlichen Handlung mit einer anderen Person verleitet oder die persönliche Annäherung der beiden Personen zur Vornahme einer geschlechtlichen Handlung herbeiführt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 > `(2)` Handelt der Täter, um sich oder einem anderen einen Vermögensvorteil zu verschaffen, so ist er mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-213-stgb--kuppelei) \]
 
 ### § 214 StGB — Entgeltliche Vermittlung von Sexualkontakten mit Minderjährigen
 
@@ -3303,9 +3835,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer außer dem Fall des Abs\. 1 die persönliche Annäherung einer minderjährigen mit einer anderen Person zur Vornahme einer geschlechtlichen Handlung herbeiführt, um sich oder einem anderen einen Vermögensvorteil zu verschaffen, ist mit Freiheitsstrafe von sechs Monaten bis zu zwei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-214-stgb--entgeltliche-vermittlung-von-sexualkontakten-mit-minderjährigen) \]
+
 ### § 215 StGB — Zuführen zur Prostitution
 
 > Wer eine Person der Prostitution zuführt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-215-stgb--zuführen-zur-prostitution) \]
 
 ### § 215a StGB — Förderung der Prostitution und pornographischer Darbietungen Minderjähriger
 
@@ -3317,6 +3853,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` An einer pornographischen Darbietung wirkt mit, wer dabei eine auf sich selbst reduzierte, von anderen Lebensäußerungen losgelöste und der sexuellen Erregung eines Betrachters dienende geschlechtliche Handlung an sich selbst, an einer anderen Person oder mit einem Tier vornimmt, eine solche geschlechtliche Handlung an sich vornehmen lässt oder auf solche Weise seine Genitalien oder seine Schamgegend zur Schau stellt\.
 
+\[ [🔗 Permalink](#-215a-stgb--förderung-der-prostitution-und-pornographischer-darbietungen-minderjähriger) \]
+
 ### § 216 StGB — Zuhälterei
 
 > `(1)` Wer mit dem Vorsatz, sich aus der Prostitution einer anderen Person eine fortlaufende Einnahme zu verschaffen, diese Person ausnützt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
@@ -3327,11 +3865,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist auch zu bestrafen, wer durch Einschüchterung eine Person davon abhält, die Prostitution aufzugeben\.
 
+\[ [🔗 Permalink](#-216-stgb--zuhälterei) \]
+
 ### § 217 StGB — Grenzüberschreitender Prostitutionshandel
 
 > `(1)` Wer eine Person, mag sie auch bereits der Prostitution nachgehen, der Prostitution in einem anderen Staat als in dem, dessen Staatsangehörigkeit sie besitzt oder in dem sie ihren gewöhnlichen Aufenthalt hat, zuführt oder sie hiefür anwirbt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wenn er die Tat jedoch gewerbsmäßig begeht, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 > `(2)` Wer eine Person \(Abs\. 1\) mit dem Vorsatz, daß sie in einem anderen Staat als in dem, dessen Staatsangehörigkeit sie besitzt oder in dem sie ihren gewöhnlichen Aufenthalt hat, der Prostitution nachgehe, durch Täuschung über dieses Vorhaben verleitet oder mit Gewalt oder durch gefährliche Drohung nötigt, sich in einen anderen Staat zu begeben, oder sie mit Gewalt oder unter Ausnützung ihres Irrtums über dieses Vorhaben in einen anderen Staat befördert, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-217-stgb--grenzüberschreitender-prostitutionshandel) \]
 
 ### § 218 StGB — Sexuelle Belästigung und öffentliche geschlechtliche Handlungen
 
@@ -3353,9 +3895,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Falle der Abs\. 1 und 1a ist der Täter nur mit Ermächtigung der verletzten Person zu verfolgen\.
 
+\[ [🔗 Permalink](#-218-stgb--sexuelle-belästigung-und-öffentliche-geschlechtliche-handlungen) \]
+
 ### § 219 StGB — Ankündigung zur Herbeiführung unzüchtigen Verkehrs
 
 > Wer öffentlich eine Ankündigung erläßt, die bestimmt ist, unzüchtigen Verkehr herbeizuführen, und die nach ihrem Inhalt geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-219-stgb--ankündigung-zur-herbeiführung-unzüchtigen-verkehrs) \]
 
 ### § 220b StGB — Tätigkeitsverbot
 
@@ -3366,6 +3912,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Das Tätigkeitsverbot beginnt mit Rechtskraft der Entscheidung, mit der das Verbot ausgesprochen wird\. Das Gericht hat mindestens alle fünf Jahre zu überprüfen, ob die Gefahr, wegen der das Tätigkeitsverbot verhängt wurde, noch besteht\. Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Tätigkeitsverbot ausgesprochen worden wäre, hat das Gericht das Tätigkeitsverbot aufzuheben\.
 
 > `(4)` Wer einer Tätigkeit nachgeht, obwohl ihm deren Ausübung nach den vorstehenden Bestimmungen untersagt wurde, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-220b-stgb--tätigkeitsverbot) \]
 
 ## Elfter Abschnitt
 
@@ -3387,6 +3935,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ebenso ist zu bestrafen, wer ein Wirbeltier mutwillig tötet\.
 
+\[ [🔗 Permalink](#-222-stgb--tierquälerei) \]
+
 ## Zwölfter Abschnitt
 
 ## Strafbare Handlungen gegen die Zuverlässigkeit von Urkunden und Beweiszeichen
@@ -3397,13 +3947,19 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer eine falsche oder verfälschte Urkunde im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht\.
 
+\[ [🔗 Permalink](#-223-stgb--urkundenfälschung) \]
+
 ### § 224 StGB — Fälschung besonders geschützter Urkunden
 
 > Wer eine der im § 223 mit Strafe bedrohten Handlungen in Beziehung auf eine inländische öffentliche Urkunde, eine ausländische öffentliche Urkunde, wenn sie durch Gesetz oder zwischenstaatlichen Vertrag inländischen öffentlichen Urkunden gleichgestellt ist, eine letztwillige Verfügung oder ein nicht im § 237 genanntes Wertpapier begeht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-224-stgb--fälschung-besonders-geschützter-urkunden) \]
+
 ### § 224a StGB — Annahme, Weitergabe oder Besitz falscher oder verfälschter besonders geschützter Urkunden
 
 > Wer eine falsche oder verfälschte besonders geschützte Urkunde \(§ 224\) mit dem Vorsatz, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-224a-stgb--annahme-weitergabe-oder-besitz-falscher-oder-verfälschter-besonders-geschützter-urkunden) \]
 
 ### § 225 StGB — Fälschung öffentlicher Beglaubigungszeichen
 
@@ -3413,9 +3969,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Als öffentliches Beglaubigungszeichen gilt jedes Zeichen, das ein Beamter innerhalb seiner Amtsbefugnisse oder eine mit öffentlichem Glauben versehene Person innerhalb des ihr zugewiesenen Geschäftskreises an einer Sache in der vorgeschriebenen Form angebracht hat, um eine auf die Sache bezügliche Tatsache zu bestätigen\.
 
+\[ [🔗 Permalink](#-225-stgb--fälschung-öffentlicher-beglaubigungszeichen) \]
+
 ### § 225a StGB — Datenfälschung
 
 > Wer durch Eingabe, Veränderung, Löschung oder Unterdrückung von Daten falsche Daten mit dem Vorsatz herstellt oder echte Daten mit dem Vorsatz verfälscht, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werden, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-225a-stgb--datenfälschung) \]
 
 ### § 226 StGB — Tätige Reue
 
@@ -3423,11 +3983,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Besteht die Gefahr eines solchen Gebrauches nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen\.
 
+\[ [🔗 Permalink](#-226-stgb--tätige-reue) \]
+
 ### § 227 StGB — Vorbereitung der Fälschung öffentlicher Urkunden oder Beglaubigungszeichen
 
 > `(1)` Wer mit dem Vorsatz, sich oder einem anderen eine Urkundenfälschung in Beziehung auf eine inländische öffentliche Urkunde oder eine ausländische öffentliche Urkunde, wenn sie durch Gesetz oder zwischenstaatlichen Vertrag inländischen öffentlichen Urkunden gleichgestellt ist \(§ 224\), oder eine Fälschung öffentlicher Beglaubigungszeichen \(§ 225\) zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor das Mittel oder Werkzeug zur Begehung einer der dort genannten strafbaren Handlungen gebraucht worden ist, durch dessen Vernichtung oder auf andere Art die Gefahr eines solchen Gebrauches beseitigt\. § 226 Abs\. 2 gilt entsprechend\.
+
+\[ [🔗 Permalink](#-227-stgb--vorbereitung-der-fälschung-öffentlicher-urkunden-oder-beglaubigungszeichen) \]
 
 ### § 228 StGB — Mittelbare unrichtige Beurkundung oder Beglaubigung
 
@@ -3437,17 +4001,23 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 226 gilt entsprechend\.
 
+\[ [🔗 Permalink](#-228-stgb--mittelbare-unrichtige-beurkundung-oder-beglaubigung) \]
+
 ### § 229 StGB — Urkundenunterdrückung
 
 > `(1)` Wer eine Urkunde, über die er nicht oder nicht allein verfügen darf, vernichtet, beschädigt oder unterdrückt, ist, wenn er mit dem Vorsatz handelt, zu verhindern, daß sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig die Unterdrückung der Urkunde, bevor diese im Rechtsverkehr gebraucht werden sollte, rückgängig macht oder auf andere Art bewirkt, daß die Tat den Beweis, dem die Urkunde dienen sollte, nicht behindert\.
 
+\[ [🔗 Permalink](#-229-stgb--urkundenunterdrückung) \]
+
 ### § 230 StGB — Versetzung von Grenzzeichen
 
 > `(1)` Wer ein zur Bezeichnung der Grenze oder des Wasserstands bestimmtes Zeichen mit dem Vorsatz, ein Beweismittel für eine Tatsache von rechtlicher Bedeutung zu schaffen oder zu unterdrücken, unrichtig setzt, verrückt, beseitigt oder unkenntlich macht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig das Zeichen, bevor es als Beweismittel herangezogen werden sollte oder herangezogen worden ist, berichtigt oder wiederherstellt oder auf andere Art bewirkt, daß die Tat den Beweis, dem das Zeichen dienen sollte, nicht behindert\.
+
+\[ [🔗 Permalink](#-230-stgb--versetzung-von-grenzzeichen) \]
 
 ### § 231 StGB — Gebrauch fremder Ausweise
 
@@ -3456,6 +4026,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ebenso ist zu bestrafen, wer einem anderen einen amtlichen Ausweis mit dem Vorsatz überläßt, daß er von einem Nichtberechtigten im Rechtsverkehr gebraucht werde, als wäre er für ihn ausgestellt\.
 
 > `(3)` Nach Abs\. 2 ist nicht zu bestrafen, wer freiwillig den Ausweis, bevor ihn ein Nichtberechtigter im Rechtsverkehr gebraucht hat, zurücknimmt oder auf andere Art die Gefahr beseitigt, daß der amtliche Ausweis in der im Abs\. 2 bezeichneten Weise gebraucht werde\.
+
+\[ [🔗 Permalink](#-231-stgb--gebrauch-fremder-ausweise) \]
 
 ## Dreizehnter Abschnitt
 
@@ -3469,6 +4041,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Als Nachmachen von Geld gilt auch die Herstellung unter Nutzung der zur rechtmäßigen Herstellung bestimmten Einrichtungen oder Materialien, jedoch unter Missachtung der Rechte oder der Bedingungen, nach denen die zuständigen Stellen zur Geldausgabe befugt sind, und ohne die Zustimmung dieser Stellen\.
 
+\[ [🔗 Permalink](#-232-stgb--geldfälschung) \]
+
 ### § 233 StGB — Weitergabe und Besitz nachgemachten oder verfälschten Geldes
 
 > `(1)` Wer nachgemachtes oder verfälschtes Geld
@@ -3480,6 +4054,8 @@ Der Nationalrat hat beschlossen:
 > &nbsp; ist mit Freiheitsstrafe bis zu fünf Jahren zu bestrafen\.
 
 > `(2)` Wer die Tat an nachgemachtem oder verfälschtem Geld im Nennwert von mehr als 300 000 Euro begeht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-233-stgb--weitergabe-und-besitz-nachgemachten-oder-verfälschten-geldes) \]
 
 ### § 234 StGB — Verringerung von Geldmünzen und Weitergabe verringerter Geldmünzen
 
@@ -3493,9 +4069,13 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\. Wer die Tat an verringerten Geldmünzen begeht, deren Nennwert 300 000 Euro übersteigt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-234-stgb--verringerung-von-geldmünzen-und-weitergabe-verringerter-geldmünzen) \]
+
 ### § 235 StGB — Ansichbringen, Verheimlichen oder Verhandeln des Münzabfalls
 
 > Wer das von einem anderen durch die Verringerung von Geldmünzen \(§ 234 Abs\. 1\) gewonnene Metall kauft, zum Pfand nimmt oder sonst an sich bringt, verheimlicht oder verhandelt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-235-stgb--ansichbringen-verheimlichen-oder-verhandeln-des-münzabfalls) \]
 
 ### § 236 StGB — Weitergabe von Falschgeld oder verringerten Geldmünzen
 
@@ -3503,9 +4083,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer eine der im Abs\. 1 genannten Handlungen für einen anderen begeht, der, ohne sich dadurch strafbar zu machen, das Geld oder die Münze gutgläubig als echt und unverfälscht oder als vollwertig empfangen hat\.
 
+\[ [🔗 Permalink](#-236-stgb--weitergabe-von-falschgeld-oder-verringerten-geldmünzen) \]
+
 ### § 237 StGB — Fälschung besonders geschützter Wertpapiere
 
 > Nach den §§ 232, 233 oder 236 ist auch zu bestrafen, wer eine der dort mit Strafe bedrohten Handlungen in Beziehung auf Banknoten oder Geldmünzen, die nicht gesetzliche Zahlungsmittel sind, Pfandbriefe, Teilschuldverschreibungen, Aktien oder sonstige Anteilscheine, Zins\-, Genuß\-, Gewinnanteil\- oder Erneuerungsscheine begeht, sofern diese Wertpapiere auf Inhaber lauten\.
+
+\[ [🔗 Permalink](#-237-stgb--fälschung-besonders-geschützter-wertpapiere) \]
 
 ### § 238 StGB — Wertzeichenfälschung
 
@@ -3523,9 +4107,13 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Wiederverwendung eines schon verwendeten amtlichen Wertzeichens und die Entfernung des Entwertungsstempels von einem schon verwendeten amtlichen Wertzeichen sind gerichtlich nicht strafbar\.
 
+\[ [🔗 Permalink](#-238-stgb--wertzeichenfälschung) \]
+
 ### § 239 StGB — Vorbereitung einer Geld-, Wertpapier- oder Wertzeichenfälschung
 
 > Wer mit dem Vorsatz, sich oder einem anderen die Begehung einer der nach den §§ 232, 234, 237 oder 238 mit Strafe bedrohten Handlungen zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, ein Hologramm oder einen anderen der Sicherung gegen Fälschung dienenden Bestandteil von Geld, eines besonders geschützten Wertpapieres oder eines amtlichen Wertzeichens anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-239-stgb--vorbereitung-einer-geld--wertpapier--oder-wertzeichenfälschung) \]
 
 ### § 240 StGB — Tätige Reue
 
@@ -3539,9 +4127,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist auch nicht zu bestrafen, wenn die im Abs\. 1 bezeichneten Gefahren nicht bestehen oder ohne sein Zutun beseitigt werden, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich darum bemüht, sie zu beseitigen\.
 
+\[ [🔗 Permalink](#-240-stgb--tätige-reue) \]
+
 ### § 241 StGB — Geld, Wertpapiere und Wertzeichen des Auslands
 
 > Die Bestimmungen dieses Abschnitts gelten auch für Geld, Wertpapiere, Wertzeichen sowie zur Ausgabe als gesetzliches Zahlungsmittel bestimmte Banknoten und Geldmünzen des Auslands\.
+
+\[ [🔗 Permalink](#-241-stgb--geld-wertpapiere-und-wertzeichen-des-auslands) \]
 
 ### § 241a StGB — Fälschung unbarer Zahlungsmittel
 
@@ -3549,21 +4141,29 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Tat gewerbsmäßig oder als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-241a-stgb--fälschung-unbarer-zahlungsmittel) \]
+
 ### § 241b StGB — Annahme, Weitergabe oder Besitz falscher oder verfälschter unbarer Zahlungsmittel
 
 > `(1)` Wer ein falsches oder verfälschtes unbares Zahlungsmittel mit dem Vorsatz, dass es im Rechtsverkehr wie ein echtes verwendet werde, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt, einführt, ausführt, verbreitet, bereitstellt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-241b-stgb--annahme-weitergabe-oder-besitz-falscher-oder-verfälschter-unbarer-zahlungsmittel) \]
+
 ### § 241c StGB — Vorbereitung der Fälschung oder Entfremdung unbarer Zahlungsmittel
 
 > Wer mit dem Vorsatz, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel \(§ 241a\) oder eine Entfremdung unbarer Zahlungsmittel nach § 241e Abs\. 1 zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-241c-stgb--vorbereitung-der-fälschung-oder-entfremdung-unbarer-zahlungsmittel) \]
 
 ### § 241d StGB — Tätige Reue
 
 > `(1)` Wegen einer der in den §§ 241a bis 241c mit Strafe bedrohten Handlungen ist nicht zu bestrafen, wer freiwillig, bevor das falsche oder verfälschte unbare Zahlungsmittel im Rechtsverkehr verwendet worden ist, durch Vernichtung des unbaren Zahlungsmittels, oder, bevor das Mittel oder Werkzeug zur Fälschung eines unbaren Zahlungsmittels verwendet worden ist, durch Vernichtung des Mittels oder Werkzeuges, oder auf andere Art die Gefahr einer solchen Verwendung beseitigt\.
 
 > `(2)` Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen\.
+
+\[ [🔗 Permalink](#-241d-stgb--tätige-reue) \]
 
 ### § 241e StGB — Entfremdung unbarer Zahlungsmittel
 
@@ -3573,17 +4173,23 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer ein unbares Zahlungsmittel, über das er nicht oder nicht allein verfügen darf, mit dem Vorsatz, dessen Verwendung im Rechtsverkehr zu verhindern, vernichtet, beschädigt oder unterdrückt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-241e-stgb--entfremdung-unbarer-zahlungsmittel) \]
+
 ### § 241f StGB — Annahme, Weitergabe oder Besitz entfremdeter unbarer Zahlungsmittel
 
 > `(1)` Wer ein entfremdetes unbares Zahlungsmittel mit dem Vorsatz, dass er oder ein Dritter durch dessen Verwendung unrechtmäßig bereichert werde, oder mit dem Vorsatz, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel \(§ 241a\) zu ermöglichen, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt, einführt, ausführt, verbreitet, bereitstellt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-241f-stgb--annahme-weitergabe-oder-besitz-entfremdeter-unbarer-zahlungsmittel) \]
+
 ### § 241g StGB — Tätige Reue
 
 > `(1)` Nach den §§ 241e und 241f ist nicht zu bestrafen, wer freiwillig, bevor das entfremdete unbare Zahlungsmittel im Rechtsverkehr oder zur Fälschung eines unbaren Zahlungsmittels verwendet worden ist, durch Übergabe an die Behörde \(§ 151 Abs\. 3\) oder auf andere Art die Gefahr einer solchen Verwendung beseitigt\.
 
 > `(2)` Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen\.
+
+\[ [🔗 Permalink](#-241g-stgb--tätige-reue) \]
 
 ### § 241h StGB — Ausspähen von Daten eines unbaren Zahlungsmittels
 
@@ -3599,6 +4205,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nicht zu bestrafen, wenn er freiwillig, bevor die ausgespähten Daten im Sinne des Abs\. 1 Z 1 oder 2 verwendet wurden, die Gefahr ihrer Verwendung durch Verständigung der Behörde, des Berechtigten oder auf andere Weise beseitigt\. Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen\.
 
+\[ [🔗 Permalink](#-241h-stgb--ausspähen-von-daten-eines-unbaren-zahlungsmittels) \]
+
 ## Vierzehnter Abschnitt
 
 ## Hochverrat und andere Angriffe gegen den Staat
@@ -3609,11 +4217,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Unternehmen im Sinn des Abs\. 1 liegt auch schon bei einem Versuch vor\.
 
+\[ [🔗 Permalink](#-242-stgb--hochverrat) \]
+
 ### § 243 StGB — Tätige Reue
 
 > `(1)` Der Täter ist wegen Hochverrats nicht zu bestrafen, wenn er freiwillig die Ausführung aufgibt oder diese, falls mehrere an dem Vorhaben beteiligt sind, verhindert oder wenn er freiwillig den Erfolg abwendet\.
 
 > `(2)` Der Täter ist auch dann nicht zu bestrafen, wenn die Ausführung oder der Erfolg ohne sein Zutun unterbleibt, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich bemüht, die Ausführung zu verhindern oder den Erfolg abzuwenden\.
+
+\[ [🔗 Permalink](#-243-stgb--tätige-reue) \]
 
 ### § 244 StGB — Vorbereitung eines Hochverrats
 
@@ -3621,11 +4233,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer einen Hochverrat in anderer Weise vorbereitet und dadurch die Gefahr eines hochverräterischen Unternehmens herbeiführt oder erheblich vergrößert oder wer einen Hochverrat im Zusammenwirken mit einer ausländischen Macht vorbereitet\.
 
+\[ [🔗 Permalink](#-244-stgb--vorbereitung-eines-hochverrats) \]
+
 ### § 245 StGB — Tätige Reue
 
 > `(1)` Der Täter ist wegen Vorbereitung eines Hochverrats nicht zu bestrafen, wenn er freiwillig seine Tätigkeit aufgibt oder, falls mehrere an der Vorbereitung beteiligt sind, den Hochverrat verhindert\.
 
 > `(2)` § 243 Abs\. 2 gilt entsprechend\.
+
+\[ [🔗 Permalink](#-245-stgb--tätige-reue) \]
 
 ### § 246 StGB — Staatsfeindliche Verbindungen
 
@@ -3635,9 +4251,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer an einer solchen Verbindung sonst teilnimmt oder sie auf eine andere als die im Abs\. 2 bezeichnete Weise unterstützt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-246-stgb--staatsfeindliche-verbindungen) \]
+
 ### § 247 StGB — Tätige Reue
 
 > Nach § 246 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, alles, was ihm von der Verbindung und ihren Plänen bekannt ist, zu einer Zeit, da es noch geheim ist, einer solchen Behörde aufdeckt\.
+
+\[ [🔗 Permalink](#-247-stgb--tätige-reue) \]
 
 ### § 247a StGB — Staatsfeindliche Bewegung
 
@@ -3651,6 +4271,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Abs\. 1 und 2 ist nicht zu bestrafen, wer sich freiwillig und bevor die Behörde von seinem Verschulden erfahren hat, aus der Bewegung in einer Weise zurückzieht, die eindeutig zu erkennen gibt, dass die staatsfeindliche Ausrichtung nicht mehr unterstützt wird\.
 
+\[ [🔗 Permalink](#-247a-stgb--staatsfeindliche-bewegung) \]
+
 ### § 247b StGB — Religiös motivierte extremistische Verbindung
 
 > `(1)` Wer eine religiös motivierte extremistische Verbindung gründet oder sich in einer solchen führend betätigt, ist, wenn er oder ein anderer Teilnehmer eine ernstzunehmende gesetzwidrige Handlung ausgeführt oder zu ihr beigetragen hat, in der sich die religiös motivierte extremistische Ausrichtung eindeutig manifestiert, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
@@ -3663,11 +4285,15 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Abs\. 1 und 2 ist nicht zu bestrafen, wer sich freiwillig und bevor die Behörde von seinem Verschulden erfahren hat, aus der Verbindung in einer Weise zurückzieht, die eindeutig zu erkennen gibt, dass die religiös motivierte extremistische Ausrichtung nicht mehr unterstützt wird\.
 
+\[ [🔗 Permalink](#-247b-stgb--religiös-motivierte-extremistische-verbindung) \]
+
 ### § 248 StGB — Herabwürdigung des Staates und seiner Symbole
 
 > `(1)` Wer auf eine Art, daß die Tat einer breiten Öffentlichkeit bekannt wird, in gehässiger Weise die Republik Österreich oder eines ihrer Bundesländer beschimpft oder verächtlich macht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Wer in der im Abs\. 1 bezeichneten Art in gehässiger Weise eine aus einem öffentlichen Anlaß oder bei einer allgemein zugänglichen Veranstaltung gezeigte Fahne der Republik Österreich oder eines ihrer Bundesländer, ein von einer österreichischen Behörde angebrachtes Hoheitszeichen, die Bundeshymne oder eine Landeshymne beschimpft, verächtlich macht oder sonst herabwürdigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-248-stgb--herabwürdigung-des-staates-und-seiner-symbole) \]
 
 ## Fünfzehnter Abschnitt
 
@@ -3677,13 +4303,19 @@ Der Nationalrat hat beschlossen:
 
 > Wer es unternimmt \(§ 242 Abs\. 2\), mit Gewalt oder durch gefährliche Drohung den Bundespräsidenten abzusetzen oder durch eines dieser Mittel zu nötigen oder zu hindern, seine Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-249-stgb--gewalt-und-gefährliche-drohung-gegen-den-bundespräsidenten) \]
+
 ### § 250 StGB — Nötigung eines verfassungsmäßigen Vertretungskörpers, einer Regierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs
 
 > Wer es unternimmt \(§ 242 Abs\. 2\), den Nationalrat, den Bundesrat, die Bundesversammlung, die Bundesregierung, einen Landtag, eine Landesregierung, den Verfassungsgerichtshof, den Verwaltungsgerichtshof oder den Obersten Gerichtshof mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder zu hindern, ihre Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-250-stgb--nötigung-eines-verfassungsmäßigen-vertretungskörpers-einer-regierung-des-verfassungsgerichtshofs-des-verwaltungsgerichtshofs-oder-des-obersten-gerichtshofs) \]
+
 ### § 251 StGB — Nötigung von Mitgliedern eines verfassungsmäßigen Vertretungskörpers, einer Regierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs oder des Präsidenten des Rechnungshofs oder des Leiters eines Landesrechnungshofs
 
 > Wer ein Mitglied des Nationalrats, des Bundesrats, der Bundesversammlung, der Bundesregierung, eines Landtags, einer Landesregierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs oder den Präsidenten des Rechnungshofs, den Leiter eines Landesrechnungshofs oder deren Stellvertreter mit Gewalt oder durch gefährliche Drohung nötigt oder hindert, seine Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren und im Fall einer schweren Nötigung \(§ 106\) mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-251-stgb--nötigung-von-mitgliedern-eines-verfassungsmäßigen-vertretungskörpers-einer-regierung-des-verfassungsgerichtshofs-des-verwaltungsgerichtshofs-oder-des-obersten-gerichtshofs-oder-des-präsidenten-des-rechnungshofs-oder-des-leiters-eines-landesrechnungshofs) \]
 
 ## Sechzehnter Abschnitt
 
@@ -3697,11 +4329,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Verfassungsgefährdende Tatsachen sind solche, die Bestrebungen offenbaren, in verfassungswidriger Weise den demokratischen, bundesstaatlichen oder rechtsstaatlichen Aufbau der Republik Österreich zu beseitigen, deren dauernde Neutralität aufzuheben oder ein verfassungsgesetzlich gewährleistetes Recht abzuschaffen oder einzuschränken oder wiederholt gegen ein solches Recht zu verstoßen\.
 
+\[ [🔗 Permalink](#-252-stgb--verrat-von-staatsgeheimnissen) \]
+
 ### § 253 StGB — Preisgabe von Staatsgeheimnissen
 
 > `(1)` Wer zufolge einer ihn im besonderen treffenden rechtlichen Verpflichtung dazu verhalten ist, ein Geheimnis zu wahren, von dem er weiß, daß es ein Staatsgeheimnis ist, und diese Verpflichtung unter Umständen verletzt, unter denen das Geheimnis einer fremden Macht, einer über\- oder zwischenstaatlichen Einrichtung oder der Öffentlichkeit bekannt oder zugänglich werden kann, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 > `(2)` Betrifft das Staatsgeheimnis verfassungsgefährdende Tatsachen \(§ 252 Abs\. 3\), so ist der Täter jedoch nur zu bestrafen, wenn er in der Absicht handelt, der Republik Österreich einen Nachteil zuzufügen\. Die irrtümliche Annahme verfassungsgefährdender Tatsachen befreit den Täter nicht von Strafe\.
+
+\[ [🔗 Permalink](#-253-stgb--preisgabe-von-staatsgeheimnissen) \]
 
 ### § 254 StGB — Ausspähung von Staatsgeheimnissen
 
@@ -3709,19 +4345,27 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 253 Abs\. 2 gilt entsprechend\.
 
+\[ [🔗 Permalink](#-254-stgb--ausspähung-von-staatsgeheimnissen) \]
+
 ### § 255 StGB — Begriff des Staatsgeheimnisses
 
 > Staatsgeheimnisse im Sinn dieses Abschnitts sind Tatsachen, Gegenstände oder Erkenntnisse, insbesondere Schriften, Zeichnungen, Modelle und Formeln, und Nachrichten darüber, die nur einem begrenzten Personenkreis zugänglich sind und vor einer fremden Macht oder einer über\- oder zwischenstaatlichen Einrichtung geheimgehalten werden müssen, um die Gefahr eines schweren Nachteils für die Landesverteidigung der Republik Österreich oder für die Beziehungen der Republik Österreich zu einer fremden Macht oder einer über\- oder zwischenstaatlichen Einrichtung hintanzuhalten\.
 
+\[ [🔗 Permalink](#-255-stgb--begriff-des-staatsgeheimnisses) \]
+
 ### § 256 StGB — Geheimer Nachrichtendienst zum Nachteil Österreichs
 
 > Wer zum Nachteil der Republik Österreich einen geheimen Nachrichtendienst einrichtet oder betreibt oder einen solchen Nachrichtendienst wie immer unterstützt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-256-stgb--geheimer-nachrichtendienst-zum-nachteil-österreichs) \]
 
 ### § 257 StGB — Begünstigung feindlicher Streitkräfte
 
 > `(1)` Ein Österreicher, der während eines Krieges oder eines bewaffneten Konfliktes, an denen die Republik Österreich beteiligt ist, in den Dienst der feindlichen Streitkräfte tritt oder gegen die Republik Österreich Waffen trägt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 > `(2)` Ebenso ist zu bestrafen, wer während eines Krieges oder eines bewaffneten Konfliktes, an denen die Republik Österreich beteiligt ist, oder bei unmittelbar drohender Gefahr eines solchen Krieges oder bewaffneten Konfliktes den feindlichen Streitkräften einen Vorteil verschafft oder dem österreichischen Bundesheer einen Nachteil zufügt\. Ausländer sind nach dieser Bestimmung nur zu bestrafen, wenn sie die Tat begehen, während sie sich im Inland befinden\.
+
+\[ [🔗 Permalink](#-257-stgb--begünstigung-feindlicher-streitkräfte) \]
 
 ### § 258 StGB — Landesverräterische Fälschung und Vernichtung von Beweisen
 
@@ -3735,6 +4379,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer von einem solchen falschen oder verfälschten Beweismittel Gebrauch macht und dadurch die Interessen der Republik Österreich oder eines ihrer Bundesländer gefährdet\.
 
+\[ [🔗 Permalink](#-258-stgb--landesverräterische-fälschung-und-vernichtung-von-beweisen) \]
+
 ## Siebzehnter Abschnitt
 
 ## Strafbare Handlungen gegen das Bundesheer
@@ -3743,9 +4389,13 @@ Der Nationalrat hat beschlossen:
 
 > Wer, ohne Soldat zu sein, einen anderen bestimmt, eine ausschließlich im Militärstrafgesetz mit einer drei Jahre übersteigenden Freiheitsstrafe bedrohte Handlung oder eine der in den §§ 16, 19 und 21 des Militärstrafgesetzes mit Strafe bedrohten Handlungen auszuführen oder sonst zur Ausführung einer solchen Handlung beiträgt, ist mit Freiheitsstrafe bis zu zwei Jahren, wer die Tat aber mit Beziehung auf die im § 18 des Militärstrafgesetzes mit Strafe bedrohte Handlung begeht, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-259-stgb--beteiligung-an-militärischen-strafbaren-handlungen) \]
+
 ### § 260 StGB — Wehrmittelsabotage
 
 > Wer ein Wehrmittel oder eine Einrichtung oder Anlage, die ausschließlich oder vorwiegend der Landesverteidigung oder dem Schutz der Zivilbevölkerung gegen Kriegsgefahren dient, oder einen dafür bestimmten Werkstoff entgegen einer übernommenen Verpflichtung nicht oder fehlerhaft herstellt oder liefert und dadurch wissentlich die Landesverteidigung, die Schlagkraft des Bundesheeres oder eines Teiles des Bundesheeres oder den Schutz der Zivilbevölkerung gefährdet, ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-260-stgb--wehrmittelsabotage) \]
 
 ## Achtzehnter Abschnitt
 
@@ -3757,11 +4407,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Einer Wahl oder Volksabstimmung steht eine Volksbefragung, das Unterschreiben eines Wahlvorschlags oder einer Unterstützungserklärung für einen Wahlvorschlag, das Verfahren für ein Volksbegehren und die Abgabe einer Unterstützungsbekundung für eine Europäische Bürgerinitiative gleich\.
 
+\[ [🔗 Permalink](#-261-stgb--geltungsbereich) \]
+
 ### § 262 StGB — Wahlbehinderung
 
 > `(1)` Wer einen anderen mit Gewalt oder durch gefährliche Drohung nötigt oder hindert, überhaupt oder in einem bestimmten Sinn zu wählen oder zu stimmen, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen, unter den Voraussetzungen des § 106 jedoch mit den dort bezeichneten Strafen zu bestrafen\.
 
 > `(2)` Wer einen anderen auf andere Weise als durch Nötigung an der Ausübung seines Wahl\- oder Stimmrechts hindert, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-262-stgb--wahlbehinderung) \]
 
 ### § 263 StGB — Täuschung bei einer Wahl oder Volksabstimmung
 
@@ -3769,17 +4423,23 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer durch Täuschung über einen die Durchführung der Wahl oder Volksabstimmung betreffenden Umstand bewirkt oder zu bewirken versucht, daß ein anderer die Stimmabgabe unterläßt\.
 
+\[ [🔗 Permalink](#-263-stgb--täuschung-bei-einer-wahl-oder-volksabstimmung) \]
+
 ### § 264 StGB — Verbreitung falscher Nachrichten bei einer Wahl oder Volksabstimmung
 
 > `(1)` Wer öffentlich eine falsche Nachricht über einen Umstand, der geeignet ist, Wahl\- oder Stimmberechtigte von der Stimmabgabe abzuhalten oder zur Ausübung des Wahl\- oder Stimmrechts in einem bestimmten Sinn zu veranlassen, zu einer Zeit verbreitet, da eine Gegenäußerung nicht mehr wirksam verbreitet werden kann, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 > `(2)` Wer sich dabei einer falschen oder verfälschten Urkunde bedient, um die falsche Nachricht glaubwürdig erscheinen zu lassen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-264-stgb--verbreitung-falscher-nachrichten-bei-einer-wahl-oder-volksabstimmung) \]
+
 ### § 265 StGB — Bestechung bei einer Wahl oder Volksabstimmung
 
 > `(1)` Wer einem Wahl\- oder Stimmberechtigten ein Entgelt anbietet, verspricht oder gewährt, damit er in einem bestimmten Sinn oder damit er nicht oder nicht in einem bestimmten Sinn wähle oder stimme, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
 > `(2)` Ebenso ist ein Wahl\- oder Stimmberechtigter zu bestrafen, der dafür, daß er in einem bestimmten Sinn, oder dafür, daß er nicht oder nicht in einem bestimmten Sinn wähle oder stimme, ein Entgelt fordert, annimmt oder sich versprechen läßt\.
+
+\[ [🔗 Permalink](#-265-stgb--bestechung-bei-einer-wahl-oder-volksabstimmung) \]
 
 ### § 265a StGB — Mandatskauf
 
@@ -3793,19 +4453,27 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Täter ist nach den vorstehenden Absätzen nur dann zu bestrafen, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist\.
 
+\[ [🔗 Permalink](#-265a-stgb--mandatskauf) \]
+
 ### § 266 StGB — Fälschung bei einer Wahl oder Volksabstimmung
 
 > `(1)` Wer, ohne wahl\- oder stimmberechtigt zu sein, oder namens eines anderen ohne oder gegen dessen Auftrag unzulässigerweise wählt oder stimmt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 > `(2)` Wer das Ergebnis einer Wahl oder Volksabstimmung fälscht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-266-stgb--fälschung-bei-einer-wahl-oder-volksabstimmung) \]
+
 ### § 267 StGB — Verhinderung einer Wahl oder Volksabstimmung
 
 > Wer mit Gewalt oder durch gefährliche Drohung eine Wahl, eine Volksabstimmung oder die Feststellung oder Verkündung ihrer Ergebnisse verhindert oder absichtlich stört, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-267-stgb--verhinderung-einer-wahl-oder-volksabstimmung) \]
+
 ### § 268 StGB — Verletzung des Wahl- oder Volksabstimmungsgeheimnisses
 
 > Wer einer dem Schutz des Wahl\- oder Abstimmungsgeheimnisses dienenden Vorschrift in der Absicht zuwiderhandelt, sich oder einem anderen Kenntnis davon zu verschaffen, wie jemand gewählt oder gestimmt hat, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-268-stgb--verletzung-des-wahl--oder-volksabstimmungsgeheimnisses) \]
 
 ## Neunzehnter Abschnitt
 
@@ -3821,11 +4489,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter ist nach Abs\. 1 nicht zu bestrafen, wenn die Behörde oder der Beamte zu der Amtshandlung ihrer Art nach nicht berechtigt ist oder die Amtshandlung gegen strafgesetzliche Vorschriften verstößt\.
 
+\[ [🔗 Permalink](#-269-stgb--widerstand-gegen-die-staatsgewalt) \]
+
 ### § 270 StGB — Tätlicher Angriff auf einen Beamten
 
 > `(1)` Wer einen Beamten während einer Amtshandlung \(§ 269 Abs\. 3\) tätlich angreift, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(2)` § 269 Abs\. 4 gilt entsprechend\.
+
+\[ [🔗 Permalink](#-270-stgb--tätlicher-angriff-auf-einen-beamten) \]
 
 ### § 271 StGB — Verstrickungsbruch
 
@@ -3835,6 +4507,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, die der Verstrickung entzogene Sache zurückstellt\.
 
+\[ [🔗 Permalink](#-271-stgb--verstrickungsbruch) \]
+
 ### § 272 StGB — Siegelbruch
 
 > `(1)` Wer ein Siegel beschädigt oder ablöst, das ein Beamter in Ausübung seines Amtes angelegt hat, um eine Sache unter Verschluß oder in Beschlag zu nehmen oder zu bezeichnen, und wer einen durch ein solches Siegel bewirkten Verschluß ganz oder zum Teil unwirksam macht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
@@ -3843,6 +4517,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, bewirkt, daß die Sache ohne wesentliche Beeinträchtigung des Zweckes wieder unter Verschluß oder in Beschlag genommen wird\.
 
+\[ [🔗 Permalink](#-272-stgb--siegelbruch) \]
+
 ### § 273 StGB — Verletzung behördlicher Bekanntmachungen
 
 > `(1)` Wer ein Schriftstück, von dem er weiß \(§ 5 Abs\. 3\), daß es von einer Behörde zur Bekanntmachung öffentlich angeschlagen oder ausgelegt worden ist, zerstört, beschädigt, beseitigt, verändert oder den Inhalt des Schriftstücks ganz oder zum Teil unkenntlich macht und dadurch den Zweck der Bekanntmachung dieses Schriftstücks vereitelt oder beeinträchtigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
@@ -3850,6 +4526,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` § 269 Abs\. 4 gilt entsprechend\.
 
 > `(3)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, bewirkt, daß der Zweck der Bekanntmachung ohne wesentliche Beeinträchtigung erreicht wird\.
+
+\[ [🔗 Permalink](#-273-stgb--verletzung-behördlicher-bekanntmachungen) \]
 
 ## Zwanzigster Abschnitt
 
@@ -3862,6 +4540,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wer an einer solchen Zusammenkunft führend oder dadurch teilnimmt, dass er zur Begehung einer der im Abs\. 1 angeführten strafbaren Handlungen aufstachelt, oder als Teilnehmer eine solche strafbare Handlung ausführt oder zu ihrer Ausführung beiträgt \(§ 12\), ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 > `(3)` Nach Abs\. 1 ist nicht zu bestrafen, wer sich freiwillig aus der Zusammenkunft zurückzieht oder ernstlich zurückzuziehen sucht, bevor sie zu einer Gewaltanwendung geführt hat, es sei denn, dass er an der Zusammenkunft in der in Abs\. 2 umschriebenen Weise teilgenommen hat\.
+
+\[ [🔗 Permalink](#-274-stgb--schwere-gemeinschaftliche-gewalt) \]
 
 ### § 275 StGB — Landzwang
 
@@ -3879,11 +4559,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat aber den Tod einer größeren Zahl von Menschen nach sich gezogen, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-275-stgb--landzwang) \]
+
 ### § 277 StGB — Verbrecherisches Komplott
 
 > `(1)` Wer mit einem anderen die gemeinsame Ausführung eines Mordes \(§ 75\), einer erpresserischen Entführung \(§ 102\), einer Überlieferung an eine ausländische Macht \(§ 103\), eines Sklavenhandels \(§ 104\), eines Raubes \(§ 142\), einer gemeingefährlichen strafbaren Handlung nach den §§ 169, 171, 173, 176, 185 oder 186, eines grenzüberschreitenden Prostitutionshandels \(§ 217\) oder einer nach den §§ 28a oder 31a des Suchtmittelgesetzes strafbaren Handlung verabredet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig durch eine Mitteilung an die Behörde \(§ 151 Abs\. 3\) oder an den Bedrohten oder auf andere Art die beabsichtigte strafbare Handlung verhindert\. Unterbleibt die strafbare Handlung ohne Zutun des Täters, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, die strafbare Handlung zu verhindern\.
+
+\[ [🔗 Permalink](#-277-stgb--verbrecherisches-komplott) \]
 
 ### § 278 StGB — Kriminelle Vereinigung
 
@@ -3894,6 +4578,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Als Mitglied beteiligt sich an einer kriminellen Vereinigung, wer im Rahmen ihrer kriminellen Ausrichtung eine strafbare Handlung begeht oder sich an ihren Aktivitäten durch die Bereitstellung von Informationen oder Vermögenswerten oder auf andere Weise in dem Wissen beteiligt, dass er dadurch die Vereinigung oder deren strafbare Handlungen fördert\.
 
 > `(4)` Hat die Vereinigung zu keiner strafbaren Handlung der geplanten Art geführt, so ist kein Mitglied zu bestrafen, wenn sich die Vereinigung freiwillig auflöst oder sich sonst aus ihrem Verhalten ergibt, dass sie ihr Vorhaben freiwillig aufgegeben hat\. Ferner ist wegen krimineller Vereinigung nicht zu bestrafen, wer freiwillig von der Vereinigung zurücktritt, bevor eine Tat der geplanten Art ausgeführt oder versucht worden ist; wer an der Vereinigung führend teilgenommen hat, jedoch nur dann, wenn er freiwillig durch Mitteilung an die Behörde \(§ 151 Abs\. 3\) oder auf andere Art bewirkt, dass die aus der Vereinigung entstandene Gefahr beseitigt wird\.
+
+\[ [🔗 Permalink](#-278-stgb--kriminelle-vereinigung) \]
 
 ### § 278a StGB — Kriminelle Organisation
 
@@ -3907,6 +4593,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. § 278 Abs\. 4 gilt entsprechend\.
 
+\[ [🔗 Permalink](#-278a-stgb--kriminelle-organisation) \]
+
 ### § 278b StGB — Terroristische Vereinigung
 
 > `(1)` Wer eine terroristische Vereinigung \(Abs\. 3\) anführt, ist mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\.
@@ -3914,6 +4602,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wer sich als Mitglied \(§ 278 Abs\. 3\) an einer terroristischen Vereinigung beteiligt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 > `(3)` Eine terroristische Vereinigung ist ein auf längere Zeit angelegter Zusammenschluss von mehr als zwei Personen, der darauf ausgerichtet ist, dass von einem oder mehreren Mitgliedern dieser Vereinigung eine oder mehrere terroristische Straftaten \(§ 278c\) ausgeführt werden oder Terrorismusfinanzierung \(§ 278d\) betrieben wird\.
+
+\[ [🔗 Permalink](#-278b-stgb--terroristische-vereinigung) \]
 
 ### § 278c StGB — Terroristische Straftaten
 
@@ -3949,6 +4639,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine Tat nach Abs\. 1 oder Abs\. 2a gilt nicht als terroristische Straftat, wenn sie auf die Herstellung oder Wiederherstellung demokratischer und rechtsstaatlicher Verhältnisse oder die Ausübung oder Wahrung von Menschenrechten ausgerichtet ist\.
 
+\[ [🔗 Permalink](#-278c-stgb--terroristische-straftaten) \]
+
 ### § 278d StGB — Terrorismusfinanzierung
 
 > `(1)` Wer Vermögenswerte mit dem Vorsatz bereitstellt oder sammelt, dass sie, wenn auch nur zum Teil, zur Ausführung
@@ -3983,11 +4675,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nach Abs\. 1 oder Abs\. 1a nicht zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist\.
 
+\[ [🔗 Permalink](#-278d-stgb--terrorismusfinanzierung) \]
+
 ### § 278e StGB — Ausbildung für terroristische Zwecke
 
 > `(1)` Wer eine andere Person in der Herstellung oder im Gebrauch von Sprengstoff, Schuss\- oder sonstigen Waffen oder schädlichen oder gefährlichen Stoffen oder in einer anderen ebenso schädlichen oder gefährlichen spezifisch zur Begehung einer terroristischen Straftat nach § 278c Abs\. 1 Z 1 bis 9 oder 10 geeigneten Methode oder einem solchen Verfahren zum Zweck der Begehung einer solchen terroristischen Straftat unterweist, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen, wenn er weiß, dass die vermittelten Fähigkeiten für diesen Zweck eingesetzt werden sollen\.
 
 > `(2)` Wer sich in der Herstellung oder im Gebrauch von Sprengstoff, Schuss\- oder sonstigen Waffen oder schädlichen oder gefährlichen Stoffen oder in einer anderen ebenso schädlichen oder gefährlichen spezifisch zur Begehung einer terroristischen Straftat nach § 278c Abs\. 1 Z 1 bis 9 oder 10 geeigneten Methode oder einem solchen Verfahren unterweisen lässt, um eine solche terroristische Straftat unter Einsatz der erworbenen Fähigkeiten zu begehen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. Die Strafe darf jedoch nach Art und Maß nicht strenger sein, als sie das Gesetz für die beabsichtigte Tat androht\.
+
+\[ [🔗 Permalink](#-278e-stgb--ausbildung-für-terroristische-zwecke) \]
 
 ### § 278f StGB — Anleitung zur Begehung einer terroristischen Straftat
 
@@ -3995,9 +4691,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer sich ein Medienwerk im Sinne des Abs\. 1 oder solche Informationen aus dem Internet verschafft, um eine terroristische Straftat \(§ 278c Abs\. 1 Z 1 bis 9 oder 10\) zu begehen\.
 
+\[ [🔗 Permalink](#-278f-stgb--anleitung-zur-begehung-einer-terroristischen-straftat) \]
+
 ### § 278g StGB — Reisen für terroristische Zwecke
 
 > Wer in einen anderen Staat reist, um eine strafbare Handlung nach den §§ 278b, 278c, 278e oder 278f zu begehen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. Die Strafe darf jedoch nach Art und Maß nicht strenger sein, als sie das Gesetz für die beabsichtigte Tat androht\.
+
+\[ [🔗 Permalink](#-278g-stgb--reisen-für-terroristische-zwecke) \]
 
 ### § 279 StGB — Bewaffnete Verbindungen
 
@@ -4005,11 +4705,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, alles, was ihm von der Verbindung und ihren Plänen bekannt ist, zu einer Zeit, da es noch geheim ist, einer solchen Behörde aufdeckt\.
 
+\[ [🔗 Permalink](#-279-stgb--bewaffnete-verbindungen) \]
+
 ### § 280 StGB — Ansammeln von Kampfmitteln
 
 > `(1)` Wer Waffen, Munition oder andere Kampfmittel an sich bringt, besitzt oder einem anderen verschafft, um eine größere Zahl von Menschen zum Kampf auszurüsten, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, die Kampfmittel auf Dauer unbrauchbar macht, einer solchen Behörde übergibt oder es ihr ermöglicht, der Kampfmittel habhaft zu werden\.
+
+\[ [🔗 Permalink](#-280-stgb--ansammeln-von-kampfmitteln) \]
 
 ### § 282 StGB — Aufforderung zu mit Strafe bedrohten Handlungen und Gutheißung mit Strafe bedrohter Handlungen
 
@@ -4017,11 +4721,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer auf die im Abs\. 1 bezeichnete Weise eine vorsätzlich begangene, mit einer ein Jahr übersteigenden Freiheitsstrafe bedrohte Handlung in einer Art gutheißt, die geeignet ist, das allgemeine Rechtsempfinden zu empören oder zur Begehung einer solchen Handlung aufzureizen\.
 
+\[ [🔗 Permalink](#-282-stgb--aufforderung-zu-mit-strafe-bedrohten-handlungen-und-gutheißung-mit-strafe-bedrohter-handlungen) \]
+
 ### § 282a StGB — Aufforderung zu terroristischen Straftaten und Gutheißung terroristischer Straftaten
 
 > `(1)` Wer in einem Druckwerk, im Rundfunk oder in einem anderen Medium oder sonst öffentlich auf eine Weise, dass es vielen Menschen zugänglich wird, zur Begehung einer terroristischen Straftat \(§ 278c Abs\. 1 Z 1 bis 9 oder 10\) auffordert, ist, wenn er nicht als an dieser Handlung Beteiligter \(§ 12\) mit strengerer Strafe bedroht ist, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(2)` Ebenso ist zu bestrafen, wer auf die im Abs\. 1 bezeichnete Weise eine terroristische Straftat \(§ 278c Abs\. 1 Z 1 bis 9 oder 10\) in einer Art gutheißt, die geeignet ist, die Gefahr der Begehung einer oder mehrerer solcher Straftaten herbeizuführen\.
+
+\[ [🔗 Permalink](#-282a-stgb--aufforderung-zu-terroristischen-straftaten-und-gutheißung-terroristischer-straftaten) \]
 
 ### § 283 StGB — Verhetzung
 
@@ -4040,9 +4748,13 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wer, wenn er nicht als an einer Handlung nach den Abs\. 1 bis 3 Beteiligter \(§ 12\) mit strengerer Strafe bedroht ist, schriftliches Material, Bilder oder andere Darstellungen von Ideen oder Theorien, die Hass oder Gewalt gegen eine in Abs\. 1 Z 1 bezeichnete Gruppe oder gegen ein Mitglied einer solchen Gruppe wegen dessen Zugehörigkeit zu dieser Gruppe befürworten, fördern oder dazu aufstacheln, in einem Druckwerk, im Rundfunk oder sonst auf eine Weise, wodurch diese einer breiten Öffentlichkeit zugänglich werden, in gutheißender oder rechtfertigender Weise verbreitet oder anderweitig öffentlich verfügbar macht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-283-stgb--verhetzung) \]
+
 ### § 284 StGB — Sprengung einer Versammlung
 
 > Wer eine Versammlung, einen Aufmarsch oder eine ähnliche Kundgebung, die nicht verboten sind, mit Gewalt oder durch Drohung mit Gewalt verhindert oder sprengt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-284-stgb--sprengung-einer-versammlung) \]
 
 ### § 285 StGB — Verhinderung oder Störung einer Versammlung
 
@@ -4056,6 +4768,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `4.` eine zur Leitung oder Aufrechterhaltung der Ordnung berufene Person verdrängt oder sich einer ihrer auf den Verlauf der Versammlung bezüglichen Anordnungen tätlich widersetzt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-285-stgb--verhinderung-oder-störung-einer-versammlung) \]
+
 ### § 286 StGB — Unterlassung der Verhinderung einer mit Strafe bedrohten Handlung
 
 > `(1)` Wer es mit dem Vorsatz, daß vorsätzlich eine mit Strafe bedrohte Handlung begangen werde, unterläßt, ihre unmittelbar bevorstehende oder schon begonnene Ausführung zu verhindern oder in den Fällen, in denen eine Benachrichtigung die Verhinderung ermöglicht, der Behörde \(§ 151 Abs\. 3\) oder dem Bedrohten mitzuteilen, ist, wenn die strafbare Handlung zumindest versucht worden und mit einer ein Jahr übersteigenden Freiheitsstrafe bedroht ist, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\. Die Strafe darf jedoch nach Art und Maß nicht strenger sein, als sie das Gesetz für die nicht verhinderte Tat androht\.
@@ -4068,11 +4782,15 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` durch die Verhinderung oder Benachrichtigung eine andere rechtlich anerkannte Verschwiegenheitspflicht verletzen würde und die aus der Verletzung dieser Pflicht drohenden Folgen schwerer gewogen hätten als die nachteiligen Folgen aus der Unterlassung der Verhinderung oder Bekanntmachung\.
 
+\[ [🔗 Permalink](#-286-stgb--unterlassung-der-verhinderung-einer-mit-strafe-bedrohten-handlung) \]
+
 ### § 287 StGB — Begehung einer mit Strafe bedrohten Handlung im Zustand voller Berauschung
 
 > `(1)` Wer sich, wenn auch nur fahrlässig, durch den Genuß von Alkohol oder den Gebrauch eines anderen berauschenden Mittels in einen die Zurechnungsfähigkeit ausschließenden Rausch versetzt, ist, wenn er im Rausch eine Handlung begeht, die ihm außer diesem Zustand als Verbrechen oder Vergehen zugerechnet würde, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\. Die Strafe darf jedoch nach Art und Maß nicht strenger sein, als sie das Gesetz für die im Rausch begangene Tat androht\.
 
 > `(2)` Der Täter ist nur auf Verlangen oder mit Ermächtigung zu verfolgen, wenn die im Rausch begangene mit Strafe bedrohte Handlung nur auf Verlangen, auf Antrag oder mit Ermächtigung zu verfolgen ist\.
+
+\[ [🔗 Permalink](#-287-stgb--begehung-einer-mit-strafe-bedrohten-handlung-im-zustand-voller-berauschung) \]
 
 ## Einundzwanzigster Abschnitt
 
@@ -4088,9 +4806,13 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Nach Abs\. 1 ist auch zu bestrafen, wer als Zeuge oder Sachverständiger eine der dort genannten Handlungen in einem Ermittlungsverfahren nach der Strafprozessordnung vor Kriminalpolizei, Staatsanwaltschaft oder Europäischer Staatsanwaltschaft begeht\.
 
+\[ [🔗 Permalink](#-288-stgb--falsche-beweisaussage) \]
+
 ### § 289 StGB — Falsche Beweisaussage vor einer Verwaltungsbehörde
 
 > Wer außer in den Fällen des § 288 Abs\. 3 und 4 vor einer Verwaltungsbehörde als Zeuge bei seiner förmlichen Vernehmung zur Sache falsch aussagt oder als Sachverständiger einen falschen Befund oder ein falsches Gutachten erstattet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-289-stgb--falsche-beweisaussage-vor-einer-verwaltungsbehörde) \]
 
 ### § 290 StGB — Aussagenotstand
 
@@ -4108,9 +4830,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist jedoch auch bei Vorliegen der Voraussetzungen des Abs\. 1 zu bestrafen, wenn es ihm insbesondere im Hinblick auf den aus der falschen Aussage einem anderen drohenden Nachteil dennoch zuzumuten ist, wahrheitsgemäß auszusagen\.
 
+\[ [🔗 Permalink](#-290-stgb--aussagenotstand) \]
+
 ### § 291 StGB — Tätige Reue
 
 > Wegen einer nach den §§ 288 oder 289 mit Strafe bedrohten Handlung ist der Täter nicht zu bestrafen, wenn er die unwahre Erklärung vor Beendigung seiner Vernehmung richtigstellt\.
+
+\[ [🔗 Permalink](#-291-stgb--tätige-reue) \]
 
 ### § 292 StGB — Herbeiführung einer unrichtigen Beweisaussage
 
@@ -4118,13 +4844,19 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer auf die im Abs\. 1 bezeichnete Weise bewirkt, daß jemand gutgläubig eine unrichtige Beweisaussage vor einer Verwaltungsbehörde ablegt \(§ 289\), ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-292-stgb--herbeiführung-einer-unrichtigen-beweisaussage) \]
+
 ### § 292a StGB — Falsches Vermögensverzeichnis
 
 > Wer im Zuge eines Exekutions\- oder Insolvenzverfahrens vor Gericht oder vor einem Vollstreckungsorgan ein falsches oder unvollständiges Vermögensverzeichnis abgibt und dadurch die Befriedigung eines Gläubigers gefährdet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-292a-stgb--falsches-vermögensverzeichnis) \]
+
 ### § 292b StGB — Tätige Reue
 
 > Wegen falschen Vermögensverzeichnisses \(§ 292a\) ist nicht zu bestrafen, wer freiwillig und bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, die falschen Angaben richtigstellt oder die unvollständigen ergänzt, sofern nicht bereits die Befriedigung eines Gläubigers vereitelt oder geschmälert wurde\.
+
+\[ [🔗 Permalink](#-292b-stgb--tätige-reue) \]
 
 ### § 292c StGB — Unzulässige Bieterabsprachen in exekutiven Versteigerungsverfahren
 
@@ -4132,11 +4864,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer einem Mitbieter ohne dessen Andringen für eine Zusage im Sinne des Abs\. 1 für ihn oder einen Dritten einen Vorteil anbietet, verspricht oder gewährt\.
 
+\[ [🔗 Permalink](#-292c-stgb--unzulässige-bieterabsprachen-in-exekutiven-versteigerungsverfahren) \]
+
 ### § 293 StGB — Fälschung eines Beweismittels
 
 > `(1)` Wer ein falsches Beweismittel herstellt oder ein echtes Beweismittel verfälscht, ist, wenn er mit dem Vorsatz handelt, daß das Beweismittel in einem gerichtlichen oder verwaltungsbehördlichen Verfahren, in einem Ermittlungsverfahren nach der Strafprozessordnung, nach der Verordnung \(EU\) 2017/1939 oder im Verfahren vor einem Untersuchungsausschuss des Nationalrates gebraucht werde, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen, wenn die Tat nicht nach den §§ 223, 224, 225 oder 230 mit Strafe bedroht ist\.
 
 > `(2)` Ebenso ist zu bestrafen, wer ein falsches oder verfälschtes Beweismittel in einem gerichtlichen oder verwaltungsbehördlichen Verfahren, in einem Ermittlungsverfahren nach der Strafprozessordnung, nach der Verordnung \(EU\) 2017/1939 oder im Verfahren vor einem Untersuchungsausschuss des Nationalrates gebraucht\.
+
+\[ [🔗 Permalink](#-293-stgb--fälschung-eines-beweismittels) \]
 
 ### § 294 StGB — Tätige Reue
 
@@ -4144,13 +4880,19 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Besteht die Gefahr eines solchen Gebrauches nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen\.
 
+\[ [🔗 Permalink](#-294-stgb--tätige-reue) \]
+
 ### § 295 StGB — Unterdrückung eines Beweismittels
 
 > Wer ein Beweismittel, das zur Verwendung in einem gerichtlichen oder verwaltungsbehördlichen Verfahren oder in einem Ermittlungsverfahren nach der Strafprozessordnung oder nach der Verordnung \(EU\) 2017/1939 bestimmt ist und über das er nicht oder nicht allein verfügen darf, vernichtet, beschädigt oder unterdrückt, ist, wenn er mit dem Vorsatz handelt, zu verhindern, daß das Beweismittel im Verfahren gebraucht werde, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen, wenn die Tat nicht nach den §§ 229 oder 230 mit Strafe bedroht ist\.
 
+\[ [🔗 Permalink](#-295-stgb--unterdrückung-eines-beweismittels) \]
+
 ### § 296 StGB — Tätige Reue
 
 > Wegen Unterdrückung eines Beweismittels \(§ 295\) ist nicht zu bestrafen, wer freiwillig das Beweismittel dem Gericht, der Staatsanwaltschaft, der Europäischen Staatsanwaltschaft, der Verwaltungsbehörde oder der Kriminalpolizei \(§ 18 StPO\) zu einer Zeit vorlegt, da es bei der zu treffenden Entscheidung oder Verfügung noch berücksichtigt werden kann\.
+
+\[ [🔗 Permalink](#-296-stgb--tätige-reue) \]
 
 ### § 297 StGB — Verleumdung
 
@@ -4158,11 +4900,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig die Gefahr einer behördlichen Verfolgung beseitigt, bevor eine Behörde etwas zur Verfolgung des Verdächtigten unternommen hat\.
 
+\[ [🔗 Permalink](#-297-stgb--verleumdung) \]
+
 ### § 298 StGB — Vortäuschung einer mit Strafe bedrohten Handlung
 
 > `(1)` Wer einer Behörde \(§ 151 Abs\. 3\) oder einem zur Entgegennahme von Anzeigen zuständigen Beamten die Begehung einer mit Strafe bedrohten Handlung wissentlich vortäuscht, ist, wenn er nicht nach dem § 297 Abs\. 1 mit Strafe bedroht ist, mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig bewirkt, daß die Tat keine behördliche Ermittlung zur Folge hat\.
+
+\[ [🔗 Permalink](#-298-stgb--vortäuschung-einer-mit-strafe-bedrohten-handlung) \]
 
 ### § 299 StGB — Begünstigung
 
@@ -4174,11 +4920,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wer eine der im Abs\. 1 mit Strafe bedrohten Handlungen begeht, um von sich oder einem Angehörigen Schande oder die Gefahr strafrechtlicher Verfolgung oder eines unmittelbaren und bedeutenden vermögensrechtlichen Nachteils abzuwenden, ist nicht zu bestrafen, wenn die Folgen, die durch die Tat abgewendet werden sollten, auch unter Berücksichtigung der Gefährlichkeit des Begünstigten und der Schwere der Tat, die der Begünstigte begangen hat oder derentwegen er verurteilt worden ist, schwerer gewogen hätten als die nachteiligen Folgen, die aus der Tat entstanden sind oder hätten entstehen können\.
 
+\[ [🔗 Permalink](#-299-stgb--begünstigung) \]
+
 ### § 300 StGB — Befreiung von Gefangenen
 
 > `(1)` Wer einen Gefangenen, der auf Grund einer Entscheidung oder Verfügung eines Gerichtes oder einer Verwaltungsbehörde festgehalten wird, befreit, zum Entweichen verleitet oder ihm dazu Hilfe leistet, ist, sofern der Täter nicht nach den §§ 196 oder 299 mit Strafe bedroht ist, mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(2)` Ein Gefangener, der einen anderen dazu verleitet, ihn zu befreien oder beim Entweichen zu unterstützen, ist nach Abs\. 1 nicht zu bestrafen\.
+
+\[ [🔗 Permalink](#-300-stgb--befreiung-von-gefangenen) \]
 
 ### § 301 StGB — Verbotene Veröffentlichung
 
@@ -4187,6 +4937,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ebenso ist zu bestrafen, wer auf eine im Abs\. 1 bezeichnete Weise eine Mitteilung über die Beratung in einem Verfahren vor einem Gericht oder einer Verwaltungsbehörde, über eine solche Abstimmung oder deren Ergebnis veröffentlicht und wer die ihm in einem solchen Verfahren auf Grund einer gesetzlichen Bestimmung vom Gericht oder von der Verwaltungsbehörde auferlegte Pflicht zur Geheimhaltung verletzt\.
 
 > `(3)` Wer auf eine im Abs\. 1 bezeichnete Weise eine Mitteilung über den Inhalt von Ergebnissen aus einer Auskunft über Vorratsdaten oder Daten einer Nachrichtenübermittlung oder einer Überwachung von Nachrichten oder aus einer optischen oder akustischen Überwachung von Personen unter Verwendung technischer Mittel \(§ 134 Z 5 StPO\) veröffentlicht, ist, wenn diese Ergebnisse nicht zuvor zum Akt genommen wurden \(§ 145 Abs\. 2 StPO\), mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-301-stgb--verbotene-veröffentlichung) \]
 
 ## Zweiundzwanzigster Abschnitt
 
@@ -4198,9 +4950,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Tat bei der Führung eines Amtsgeschäfts mit einer fremden Macht oder einer über\- oder zwischenstaatlichen Einrichtung begeht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\. Ebenso ist zu bestrafen, wer durch die Tat einen 50 000 Euro übersteigenden Schaden herbeiführt\.
 
+\[ [🔗 Permalink](#-302-stgb--mißbrauch-der-amtsgewalt) \]
+
 ### § 303 StGB — Fahrlässige Verletzung der Freiheit der Person oder des Hausrechts
 
 > Ein Beamter, der grob fahrlässig \(§ 6 Abs\. 3\) durch eine gesetzwidrige Beeinträchtigung oder Entziehung der persönlichen Freiheit oder durch eine gesetzwidrige Hausdurchsuchung einen anderen an seinen Rechten schädigt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-303-stgb--fahrlässige-verletzung-der-freiheit-der-person-oder-des-hausrechts) \]
 
 ### § 304 StGB — Bestechlichkeit
 
@@ -4211,6 +4967,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wer die Tat in Bezug auf einen 3\.000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen, wer jedoch die Tat in Bezug auf einen 50\.000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\. Übersteigt der Wert des Vorteils 300 000 Euro, so ist der Täter mit Freiheitsstrafe von einem bis zu fünfzehn Jahren zu bestrafen\.
 
 > `(3)` Wer ausschließlich nach § 74 Abs\. 1 Z 4a lit\. b letzte Alternative Amtsträger ist, ist nach dieser Bestimmung strafbar, wenn er mit dem Vorsatz handelt, dass durch die Vornahme oder Unterlassung des Amtsgeschäftes die finanziellen Interessen der Union geschädigt oder wahrscheinlich geschädigt werden\.
+
+\[ [🔗 Permalink](#-304-stgb--bestechlichkeit) \]
 
 ### § 305 StGB — Vorteilsannahme
 
@@ -4229,6 +4987,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` § 304 Abs\. 3 gilt sinngemäß\.
 
+\[ [🔗 Permalink](#-305-stgb--vorteilsannahme) \]
+
 ### § 306 StGB — Vorteilsannahme zur Beeinflussung
 
 > `(1)` Ein Amtsträger oder Schiedsrichter, der außer in den Fällen der §§ 304 und 305 mit dem Vorsatz, sich dadurch in seiner Tätigkeit als Amtsträger oder Schiedsrichter beeinflussen zu lassen, für sich oder einen Dritten einen Vorteil fordert oder einen ungebührlichen Vorteil \(§ 305 Abs\. 4\) annimmt oder sich versprechen lässt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
@@ -4236,6 +4996,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wer die Tat in Bezug auf einen 3 000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer die Tat in Bezug auf einen 50 000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. Übersteigt der Wert des Vorteils 300 000 Euro, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 > `(3)` Wer lediglich einen geringfügigen Vorteil annimmt oder sich versprechen lässt, ist nach Abs\. 1 nicht zu bestrafen, es sei denn, dass die Tat gewerbsmäßig begangen wird\.
+
+\[ [🔗 Permalink](#-306-stgb--vorteilsannahme-zur-beeinflussung) \]
 
 ### § 307 StGB — Bestechung
 
@@ -4247,6 +5009,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer die Tat in Bezug auf eine Person begeht, die ausschließlich nach § 74 Abs\. 1 Z 4a lit\. b letzte Alternative Amtsträger ist, ist nach dieser Bestimmung strafbar, wenn er mit dem Vorsatz handelt, dass durch die Vornahme oder Unterlassung des Amtsgeschäftes die finanziellen Interessen der Union geschädigt oder wahrscheinlich geschädigt werden\.
 
+\[ [🔗 Permalink](#-307-stgb--bestechung) \]
+
 ### § 307a StGB — Vorteilszuwendung
 
 > `(1)` Wer einem Amtsträger oder Schiedsrichter für die pflichtgemäße Vornahme oder Unterlassung eines Amtsgeschäfts einen ungebührlichen Vorteil \(§ 305 Abs\. 4\) für ihn oder einen Dritten anbietet, verspricht oder gewährt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
@@ -4255,11 +5019,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 307 Abs\. 3 gilt sinngemäß\.
 
+\[ [🔗 Permalink](#-307a-stgb--vorteilszuwendung) \]
+
 ### § 307b StGB — Vorteilszuwendung zur Beeinflussung
 
 > `(1)` Wer außer in den Fällen der §§ 307 und 307a einem Amtsträger oder Schiedsrichter einen ungebührlichen Vorteil \(§ 305 Abs\. 4\) für ihn oder einen Dritten mit dem Vorsatz anbietet, verspricht oder gewährt, ihn dadurch in seiner Tätigkeit als Amtsträger oder Schiedsrichter zu beeinflussen, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
 > `(2)` Wer die Tat in Bezug auf einen 3 000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wer jedoch die Tat in Bezug auf einen 50 000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. Übersteigt der Wert des Vorteils 300 000 Euro, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-307b-stgb--vorteilszuwendung-zur-beeinflussung) \]
 
 ### § 308 StGB — Verbotene Intervention
 
@@ -4273,6 +5041,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Täter ist nicht nach den vorstehenden Absätzen zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist\.
 
+\[ [🔗 Permalink](#-308-stgb--verbotene-intervention) \]
+
 ### § 309 StGB — Geschenkannahme und Bestechung von Bediensteten oder Beauftragten
 
 > `(1)` Ein Bediensteter oder Beauftragter eines Unternehmens, der im geschäftlichen Verkehr für die pflichtwidrige Vornahme oder Unterlassung einer Rechtshandlung von einem anderen für sich oder einen Dritten einen Vorteil fordert, annimmt oder sich versprechen lässt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
@@ -4280,6 +5050,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ebenso ist zu bestrafen, wer einem Bediensteten oder Beauftragten eines Unternehmens im geschäftlichen Verkehr für die pflichtwidrige Vornahme oder Unterlassung einer Rechtshandlung für ihn oder einen Dritten einen Vorteil anbietet, verspricht oder gewährt\.
 
 > `(3)` Wer die Tat in Bezug auf einen 3 000 Euro übersteigenden Vorteil begeht, ist mit Freiheitsstrafe bis zu drei Jahren, übersteigt der Vorteil jedoch 50 000 Euro mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-309-stgb--geschenkannahme-und-bestechung-von-bediensteten-oder-beauftragten) \]
 
 ### § 310 StGB — Verletzung des Amtsgeheimnisses
 
@@ -4290,9 +5062,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Offenbart der Täter ein Amtsgeheimnis, das verfassungsgefährdende Tatsachen \(§ 252 Abs\. 3\) betrifft, so ist er nur zu bestrafen, wenn er in der Absicht handelt, private Interessen zu verletzen oder der Republik Österreich einen Nachteil zuzufügen\. Die irrtümliche Annahme verfassungsgefährdender Tatsachen befreit den Täter nicht von Strafe\.
 
+\[ [🔗 Permalink](#-310-stgb--verletzung-des-amtsgeheimnisses) \]
+
 ### § 311 StGB — Falsche Beurkundung und Beglaubigung im Amt
 
 > Ein Beamter, der in einer öffentlichen Urkunde, deren Ausstellung in den Bereich seines Amtes fällt, ein Recht, ein Rechtsverhältnis oder eine Tatsache fälschlich beurkundet oder der an einer Sache ein öffentliches Beglaubigungszeichen, dessen Anbringung in den Bereich seines Amtes fällt, fälschlich anbringt, ist, wenn er mit dem Vorsatz handelt, daß die Urkunde im Rechtsverkehr zum Beweis des Rechtes, des Rechtsverhältnisses oder der Tatsache gebraucht oder die Sache im Rechtsverkehr gebraucht werde, wenn die Tat nicht nach § 302 mit Strafe bedroht ist, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-311-stgb--falsche-beurkundung-und-beglaubigung-im-amt) \]
 
 ### § 312 StGB — Quälen oder Vernachlässigen eines Gefangenen
 
@@ -4302,6 +5078,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren, hat sie eine Körperverletzung mit schweren Dauerfolgen \(§ 85\) zur Folge, mit Freiheitsstrafe bis zu fünf Jahren, hat sie den Tod des Geschädigten zur Folge, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-312-stgb--quälen-oder-vernachlässigen-eines-gefangenen) \]
+
 ### § 312a StGB — Folter
 
 > `(1)` Wer als Amtsträger nach § 74 Abs\. 1 Z 4a lit\. b oder c, auf Veranlassung eines solchen Amtsträgers oder mit ausdrücklichem oder stillschweigendem Einverständnis eines solchen Amtsträgers einer anderen Person, insbesondere um von ihr oder einem Dritten eine Aussage oder ein Geständnis zu erlangen, um sie für eine tatsächlich oder mutmaßlich von ihr oder einem Dritten begangene Tat zu bestrafen, um sie oder einen Dritten einzuschüchtern oder zu nötigen, oder aus einem auf Diskriminierung beruhenden Grund große körperliche oder seelische Schmerzen oder Leiden zufügt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
@@ -4310,13 +5088,19 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Amtsträger im Sinne dieser Bestimmung ist auch, wer im Falle der Abwesenheit oder des Ausfalls der staatlichen Stellen faktisch als Amtsträger handelt\.
 
+\[ [🔗 Permalink](#-312a-stgb--folter) \]
+
 ### § 312b StGB — Verschwindenlassen einer Person
 
 > Wer eine Person im Auftrag oder mit Billigung eines Staates oder einer politischen Organisation entführt oder ihr sonst die persönliche Freiheit entzieht und das Schicksal oder den Verbleib der verschwundenen Person verschleiert, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-312b-stgb--verschwindenlassen-einer-person) \]
+
 ### § 313 StGB — Strafbare Handlungen unter Ausnützung einer Amtsstellung
 
 > Wird eine auch sonst mit Strafe bedrohte vorsätzliche Handlung von einem Beamten unter Ausnützung der ihm durch seine Amtstätigkeit gebotenen Gelegenheit begangen, so kann bei ihm das Höchstmaß der angedrohten Freiheitsstrafe oder Geldstrafe um die Hälfte überschritten werden\. Doch darf die zeitliche Freiheitsstrafe die Dauer von zwanzig Jahren nicht überschreiten\.
+
+\[ [🔗 Permalink](#-313-stgb--strafbare-handlungen-unter-ausnützung-einer-amtsstellung) \]
 
 ## Dreiundzwanzigster Abschnitt
 
@@ -4326,9 +5110,13 @@ Der Nationalrat hat beschlossen:
 
 > Wer sich die Ausübung eines öffentlichen Amtes anmaßt oder, ohne dazu befugt zu sein, eine Handlung vornimmt, die nur kraft eines öffentlichen Amtes vorgenommen werden darf, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
+\[ [🔗 Permalink](#-314-stgb--amtsanmaßung) \]
+
 ### § 315 StGB — Erschleichung eines Amtes
 
 > Wer wissentlich eine zur Übertragung eines öffentlichen Amtes berufene Stelle über eine Tatsache täuscht, die nach einem Gesetz oder einer Rechtsverordnung die Übertragung eines bestimmten öffentlichen Amtes ausschließen würde, und dadurch bewirkt, daß ihm dieses Amt übertragen wird, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-315-stgb--erschleichung-eines-amtes) \]
 
 ## Vierundzwanzigster Abschnitt
 
@@ -4340,9 +5128,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 243 gilt entsprechend\.
 
+\[ [🔗 Permalink](#-316-stgb--hochverräterische-angriffe-gegen-einen-fremden-staat) \]
+
 ### § 317 StGB — Herabwürdigung fremder Symbole
 
 > Wer auf eine Art, daß die Tat einer breiten Öffentlichkeit bekannt wird, in gehässiger Weise eine Fahne oder ein Hoheitszeichen eines fremden Staates oder einer zwischenstaatlichen Einrichtung, die von einer inländischen Behörde oder von einer Vertretung des fremden Staates oder der zwischenstaatlichen Einrichtung nach den allgemeinen Regeln des Völkerrechts oder nach zwischenstaatlichen Vereinbarungen angebracht worden ist, oder die bei einem öffentlichen Anlaß vorgetragene Hymne eines fremden Staates beschimpft, verächtlich macht oder sonst herabwürdigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
+
+\[ [🔗 Permalink](#-317-stgb--herabwürdigung-fremder-symbole) \]
 
 ### § 318 StGB — Voraussetzungen der Bestrafung
 
@@ -4352,9 +5144,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wegen der im § 317 mit Strafe bedrohten Handlungen gegen eine zwischenstaatliche Einrichtung ist der Täter nur zu bestrafen, wenn die Republik Österreich dieser Einrichtung angehört\.
 
+\[ [🔗 Permalink](#-318-stgb--voraussetzungen-der-bestrafung) \]
+
 ### § 319 StGB — Militärischer Nachrichtendienst für einen fremden Staat
 
 > Wer im Inland für eine fremde Macht oder eine über\- oder zwischenstaatliche Einrichtung einen militärischen Nachrichtendienst einrichtet oder betreibt oder einen solchen Nachrichtendienst wie immer unterstützt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-319-stgb--militärischer-nachrichtendienst-für-einen-fremden-staat) \]
 
 ### § 320 StGB — Verbotene Unterstützung von Parteien bewaffneter Konflikte
 
@@ -4382,6 +5178,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; durchgeführt wird\.
 
+\[ [🔗 Permalink](#-320-stgb--verbotene-unterstützung-von-parteien-bewaffneter-konflikte) \]
+
 ## Fünfundzwanzigster Abschnitt
 
 ## Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen
@@ -4391,6 +5189,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Wer in der Absicht, eine durch ihre Zugehörigkeit zu einer Kirche oder Religionsgesellschaft, zu einer Rasse, einem Volk, einem Volksstamm oder einem Staat bestimmte Gruppe als solche ganz oder teilweise zu vernichten, Mitglieder der Gruppe tötet, ihnen schwere körperliche \(§ 84 Abs\. 1\) oder seelische Schäden zufügt, die Gruppe Lebensbedingungen unterwirft, die geeignet sind, den Tod aller Mitglieder oder eines Teiles der Gruppe herbeizuführen, Maßnahmen verhängt, die auf die Geburtenverhinderung innerhalb der Gruppe gerichtet sind, oder Kinder der Gruppe mit Gewalt oder durch Drohung mit Gewalt in eine andere Gruppe überführt, ist mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
 > `(2)` Wer mit einem anderen die gemeinsame Ausführung einer der im Abs\. 1 bezeichneten strafbaren Handlungen verabredet, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-321-stgb--völkermord) \]
 
 ### § 321a StGB — Verbrechen gegen die Menschlichkeit
 
@@ -4427,6 +5227,8 @@ Der Nationalrat hat beschlossen:
 >> `3.` eine identifizierbare Gruppe oder Gemeinschaft verfolgt, indem er ihr aus politischen, rassischen, nationalen, ethnischen, kulturellen oder religiösen Gründen, aus Gründen des Geschlechts oder aus anderen nach dem Völkerrecht als unzulässig anerkannten Gründen grundlegende Menschenrechte entzieht oder diese wesentlich einschränkt,
 >
 > &nbsp; ist mit Freiheitsstrafe von einem bis zu zehn Jahren, hat die Tat den Tod einer Person zur Folge oder wird sie in der Absicht begangen, ein institutionalisiertes Regime der systematischen Unterdrückung und Beherrschung einer rassischen Gruppe durch eine andere aufrechtzuerhalten, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-321a-stgb--verbrechen-gegen-die-menschlichkeit) \]
 
 ### § 321b StGB — Kriegsverbrechen gegen Personen
 
@@ -4478,6 +5280,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Nach dem humanitären Völkerrecht zu schützende Personen sind geschützte Personen im Sinne der Genfer Abkommen zum Schutze der Opfer des Krieges, BGBl\. Nr\. 155/1953, und deren Zusatzprotokolle I und II \(Zusatzprotokoll zu den Genfer Abkommen über den Schutz der Opfer internationaler bewaffneter Konflikte \(Protokoll I\) samt Anhängen und Zusatzprotokoll zu den Genfer Abkommen über den Schutz der Opfer nicht internationaler bewaffneter Konflikte \(Protokoll II\) samt Erklärung und Vorbehalten, BGBl\. Nr\. 527/1982\) insbesondere Verwundete, Kranke, Schiffbrüchige, Angehörige der Streitkräfte und Kämpfer der gegnerischen Partei, die sich bedingungslos ergeben haben oder sonst außer Gefecht sind, Kriegsgefangene und Zivilpersonen, sofern und solange letztere nicht unmittelbar an Feindseligkeiten teilnehmen\.
 
+\[ [🔗 Permalink](#-321b-stgb--kriegsverbrechen-gegen-personen) \]
+
 ### § 321c StGB — Kriegsverbrechen gegen Eigentum und sonstige Rechte
 
 > Wer im Zusammenhang mit einem bewaffneten Konflikt
@@ -4490,6 +5294,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-321c-stgb--kriegsverbrechen-gegen-eigentum-und-sonstige-rechte) \]
+
 ### § 321d StGB — Kriegsverbrechen gegen internationale Missionen und Missbrauch von Schutz- und Nationalitätszeichen
 
 > `(1)` Wer im Zusammenhang mit einem bewaffneten Konflikt
@@ -4501,6 +5307,8 @@ Der Nationalrat hat beschlossen:
 > &nbsp; ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
 > `(2)` Wer im Zusammenhang mit einem bewaffneten Konflikt die durch die Genfer Abkommen zum Schutze der Opfer des Krieges oder deren Protokoll III anerkannten Schutzzeichen, die Parlamentärflagge oder die Flagge, die militärischen Abzeichen oder die Uniform des Feindes, neutraler oder anderer nicht am Konflikt beteiligter Staaten, oder der Vereinten Nationen missbraucht und dadurch die schwere Verletzung einer Person \(§ 84 Abs\. 1\) verursacht, ist mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat den Tod einer Person zu Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen\.
+
+\[ [🔗 Permalink](#-321d-stgb--kriegsverbrechen-gegen-internationale-missionen-und-missbrauch-von-schutz--und-nationalitätszeichen) \]
 
 ### § 321e StGB — Kriegsverbrechen des Einsatzes verbotener Methoden der Kriegsführung
 
@@ -4532,6 +5340,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat eine Tat nach Abs\. 1 Z 1 bis 10 die schwere Verletzung \(§ 84 Abs\. 1\) einer nach dem humanitären Völkerrecht zu schützenden Person \(§ 321b Abs\. 6\) zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie den Tod einer solchen Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-321e-stgb--kriegsverbrechen-des-einsatzes-verbotener-methoden-der-kriegsführung) \]
+
 ### § 321f StGB — Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsführung
 
 > `(1)` Wer im Zusammenhang mit einem bewaffneten Konflikt
@@ -4546,11 +5356,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat die schwere Körperverletzung einer Person \(§ 84 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie den Tod einer Person zur Folge oder sind die verwendeten Mittel \(Abs\. 1\) zur Massenvernichtung bestimmt und geeignet, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-321f-stgb--kriegsverbrechen-des-einsatzes-verbotener-mittel-der-kriegsführung) \]
+
 ### § 321g StGB — Verantwortlichkeit als Vorgesetzter
 
 > `(1)` Wer es als Vorgesetzter \(Abs\. 2\) unterlässt, einen Untergebenen, der seiner tatsächlichen Befehls\- oder Führungsgewalt und Kontrolle untersteht, daran zu hindern, eine Tat nach diesem Abschnitt zu begehen, ist wie ein Täter der von dem Untergebenen begangenen Tat zu bestrafen\.
 
 > `(2)` Vorgesetzte sind militärische oder zivile Vorgesetzte sowie Personen, die ohne militärischer oder ziviler Vorgesetzter zu sein, in einer Truppe, in einer zivilen Organisation oder in einem Unternehmen tatsächliche Führungsgewalt und Kontrolle ausüben\.
+
+\[ [🔗 Permalink](#-321g-stgb--verantwortlichkeit-als-vorgesetzter) \]
 
 ### § 321h StGB — Verletzung der Aufsichtspflicht
 
@@ -4558,13 +5372,19 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer als Vorgesetzter \(§ 321g Abs\. 2\) eine im Abs\. 1 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-321h-stgb--verletzung-der-aufsichtspflicht) \]
+
 ### § 321i StGB — Unterlassen der Meldung einer Straftat
 
 > Ein Vorgesetzter \(§ 321g Abs\. 2\), der es unterlässt, eine Tat nach diesem Abschnitt, die ein Untergebener begangen hat, unverzüglich den für die Untersuchung oder Verfolgung solcher Taten zuständigen Stellen zur Kenntnis zu bringen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
+\[ [🔗 Permalink](#-321i-stgb--unterlassen-der-meldung-einer-straftat) \]
+
 ### § 321j StGB — Handeln auf Befehl oder sonstige Anordnung
 
 > Der Täter ist wegen einer Tat nach den §§ 321b bis 321i nicht zu bestrafen, wenn er die Tat in Ausführung eines militärischen Befehls oder einer sonstigen Anordnung von vergleichbarer Bindungswirkung begeht, sofern der Täter nicht erkennt, dass der Befehl oder die Anordnung rechtswidrig ist und deren Rechtswidrigkeit auch nicht offensichtlich ist\.
+
+\[ [🔗 Permalink](#-321j-stgb--handeln-auf-befehl-oder-sonstige-anordnung) \]
 
 ### § 321k StGB — Verbrechen der Aggression
 
@@ -4573,6 +5393,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wer unter den in Abs\. 1 bezeichneten Voraussetzungen eine solche Angriffshandlung plant oder vorbereitet, ist mit Freiheitsstrafe von fünf bis zu zehn Jahren zu bestrafen\.
 
 > `(3)` Im Sinne des Abs\. 1 bedeutet „Angriffshandlung“ eine gegen die Souveränität, die territoriale Unversehrtheit oder die politische Unabhängigkeit eines Staates gerichtete oder sonst mit der Satzung der Vereinten Nationen unvereinbare Anwendung von Waffengewalt durch einen anderen Staat\.
+
+\[ [🔗 Permalink](#-321k-stgb--verbrechen-der-aggression) \]
 
 ## Schlußteil
 
@@ -4590,6 +5412,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Welche Bundesgesetze mit dem Tag des Inkrafttretens dieses Bundesgesetzes aufgehoben oder an die Bestimmungen dieses Bundesgesetzes angepaßt werden, bestimmen besondere Bundesgesetze\.
 
+\[ [🔗 Permalink](#-322-stgb--inkrafttreten) \]
+
 ### § 323 StGB — Übergangsbestimmungen
 
 > `(1)` Die §§ 27, 28, 31 bis 38 und 40 bis 56 sind auch auf Taten anzuwenden, auf die im übrigen die Gesetze anzuwenden sind, die vor dem Inkrafttreten dieses Bundesgesetzes gegolten haben\.
@@ -4600,6 +5424,10 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Bei einer Tat, wegen der zum Zeitpunkt des Inkrafttretens des Strafprozessreformgesetzes, BGBl\. I Nr\. 19/2004, bereits gerichtliche Fahndungsmaßnahmen gegen den Beschuldigten eingeleitet waren oder Anklage eingebracht worden ist, wird die Zeit, während der wegen dieser Tat Fahndungsmaßnahmen aufrecht sind oder ein Hauptverfahren anhängig ist, nicht in die Verjährungsfrist eingerechnet\.
 
+\[ [🔗 Permalink](#-323-stgb--übergangsbestimmungen) \]
+
 ### § 324 StGB — Vollzugsklausel
 
 > Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Justiz betraut\.
+
+\[ [🔗 Permalink](#-324-stgb--vollzugsklausel) \]

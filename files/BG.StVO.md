@@ -213,6 +213,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für Straßen ohne öffentlichen Verkehr gilt dieses Bundesgesetz insoweit, als andere Rechtsvorschriften oder die Straßenerhalter nichts anderes bestimmen\. Die Befugnisse der Behörden und Organe der Straßenaufsicht erstrecken sich auf diese Straßen nicht\.
 
+\[ [🔗 Permalink](#-1-stvo--geltungsbereich) \]
+
 ### § 2 StVO — Begriffsbestimmungen
 
 > `(1)` Im Sinne dieses Bundesgesetzes gilt als
@@ -315,11 +317,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soweit sich Bestimmungen dieses Bundesgesetzes auf den Kraftfahrlinienverkehr, Unternehmen oder Fahrzeuge des Kraftfahrlinienverkehrs oder Lenker von Fahrzeugen des Kraftfahrlinienverkehrs beziehen, gelten diese auch für Oberleitungsomnibusse, den Verkehr mit und Lenker von Oberleitungsomnibussen sowie Unternehmen, die Oberleitungsomnibusse im regionalen Linienverkehr einsetzen\.
 
+\[ [🔗 Permalink](#-2-stvo--begriffsbestimmungen) \]
+
 ### § 3 StVO — Vertrauensgrundsatz
 
 > `(1)` Die Teilnahme am Straßenverkehr erfordert ständige Vorsicht und gegenseitige Rücksichtnahme; dessen ungeachtet darf jeder Straßenbenützer vertrauen, dass andere Personen die für die Benützung der Straße maßgeblichen Rechtsvorschriften befolgen, außer er müsste annehmen, dass es sich um Kinder, Menschen mit Sehbehinderung mit weißem Stock oder gelber Armbinde, Menschen mit offensichtlicher körperlicher Beeinträchtigung oder um Personen handelt, aus deren augenfälligem Gehaben geschlossen werden muss, dass sie unfähig sind, die Gefahren des Straßenverkehrs einzusehen oder sich dieser Einsicht gemäß zu verhalten\.
 
 > `(2)` Der Lenker eines Fahrzeuges hat sich gegenüber Personen, gegenüber denen der Vertrauensgrundsatz gemäß Abs\. 1 nicht gilt, insbesondere durch Verminderung der Fahrgeschwindigkeit und durch Bremsbereitschaft so zu verhalten, daß eine Gefährdung dieser Personen ausgeschlossen ist\.
+
+\[ [🔗 Permalink](#-3-stvo--vertrauensgrundsatz) \]
 
 ### § 4 StVO — Verkehrsunfälle
 
@@ -344,6 +350,8 @@ Der Nationalrat hat beschlossen:
 > `(5b)` Für Verständigungen nach Abs\. 5 und Meldungen gemäß Abs\. 5a ist eine Gebühr von 36 Euro einzuheben, es sei denn, die Verständigung nach Abs\. 5 ist deshalb erfolgt, weil die im Abs\. 1 genannten Personen oder jene, in deren Vermögen der Schaden eingetreten ist, einander Namen und Anschrift nicht nachweisen konnten\. Von der Verpflichtung zur Entrichtung dieser Gebühr sind die Gebietskörperschaften, Lenker von Fahrzeugen und Reiter von Dienstpferden derselben sowie die Lenker von Rettungs\- und Feuerwehrfahrzeugen ausgenommen\. Auf Wunsch erhält jede Person des Abs\. 5, die eine gebührenpflichtige Verständigung oder Meldung vorgenommen hat oder die die Gebühr entrichtet, eine Ausfertigung des von der Polizeidienststelle erstatteten Unfallberichtes\. Die Gebühren sind, sofern sie nicht ohne weiteres entrichtet werden, von den Bezirksverwaltungsbehörden, im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, von der Landespolizeidirektion vorzuschreiben\. Sie fließen der Gebietskörperschaft zu, die den Aufwand der Organe zu tragen hat\.
 
 > `(6)` Aus einer Verletzung der Hilfeleistungspflicht können keine Ersatzansprüche nach dem bürgerlichen Recht abgeleitet werden\.
+
+\[ [🔗 Permalink](#-4-stvo--verkehrsunfälle) \]
 
 ### § 5 StVO — Besondere Sicherungsmaßnahmen gegen Beeinträchtigung durch Alkohol
 
@@ -412,6 +420,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; anzunehmen, dass die zum Arzt gebrachte Person Suchtgift missbraucht, so ist an Stelle einer Strafanzeige nach dem Suchtmittelgesetz dieser Umstand der nach dem Hauptwohnsitz der untersuchten Person zuständigen Bezirksverwaltungsbehörde als Gesundheitsbehörde mitzuteilen \(§§ 12 bis 14 des Suchtmittelgesetzes, BGBl\. I Nr\. 112/1997\)\.
 
+\[ [🔗 Permalink](#-5-stvo--besondere-sicherungsmaßnahmen-gegen-beeinträchtigung-durch-alkohol) \]
+
 ### § 5a StVO
 
 > `(1)` \(Grundsatzbestimmung\) Der Rechtsträger einer öffentlichen Krankenanstalt hat dem diensthabenden Arzt die für eine Blutabnahme gemäß § 5 Abs\. 4a, 8 und 10 erforderlichen Einrichtungen der Anstalt zur Verfügung zu stellen\. Die Ausführungsgesetze der Länder sind binnen sechs Monaten zu erlassen\.
@@ -422,15 +432,21 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Bundesminister für Verkehr, Innovation und Technologie hat im Einvernehmen mit der Bundesministerin für Inneres und der Bundesministerin für Gesundheit und Frauen die für eine Ermächtigung zur Durchführung der in § 5 Abs\. 4a, 5 oder 6 genannten Untersuchungen erforderliche Weiterbildung für Ärzte durch Verordnung festzulegen\.
 
+\[ [🔗 Permalink](#-5a-stvo) \]
+
 ### § 5b StVO — Zwangsmaßnahmen bei Alkoholisierung
 
 > `(1)` Die Organe der Straßenaufsicht sind berechtigt, Personen, die sich offenbar in einem durch Alkohol oder Suchtgift beeinträchtigten Zustand befinden \(§ 5 Abs\. 1\), oder bei denen der Alkoholgehalt des Blutes 0,5 g/l \(0,5 Promille\) oder mehr oder der Alkoholgehalt der Atemluft 0,25 mg/l oder mehr beträgt, an der Lenkung oder Inbetriebnahme eines Fahrzeuges zu hindern\. Zu diesem Zweck sind, falls erforderlich, je nach Lage des Falles und Art des Fahrzeuges, Zwangsmaßnahmen, wie etwa Abnahme der Fahrzeugschlüssel, Absperren oder Einstellung des Fahrzeuges, Anlegen von technischen Sperren und dergleichen, anzuwenden\. Solche Zwangsmaßnahmen sind unverzüglich aufzuheben, wenn bei der Person, gegen die sie angewendet worden sind, der durch Alkohol oder Suchtgift beeinträchtigte Zustand nicht mehr gegeben und ihr auch nicht ein zum Lenken des betreffenden Fahrzeuges allenfalls nötiger Führerschein nach den kraftfahrrechtlichen Vorschriften abgenommen ist oder wenn eine andere Person, bei der keine Hinderungsgründe gegeben sind, beabsichtigt, das Fahrzeug in Betrieb zu nehmen und zu lenken\.
 
 > `(2)` Die Organe der Straßenaufsicht sind weiters berechtigt, Personen an der Lenkung oder Inbetriebnahme eines Fahrzeuges zu hindern, deren Fahrlehrer \(§ 114 Abs\. 4 und 4a KFG 1967\), Begleiter \(§§ 122 Abs\. 2 und 5 KFG 1967 oder 19 Abs\. 3 und 6 FSG\) oder Ausbildner \(§ 122a Abs\. 2 KFG 1967\) sich offenbar in einem durch Alkohol oder Suchtgift beeinträchtigten Zustand befinden oder bei deren Fahrlehrer, Begleiter oder Ausbildner der Alkoholgehalt des Blutes 0,5 g/l \(0,5 Promille\) oder mehr oder der Alkoholgehalt der Atemluft 0,25 mg/l oder mehr beträgt\. Zu diesem Zweck sind, falls erforderlich, je nach Lage des Falles und Art des Fahrzeuges, Zwangsmaßnahmen, wie etwa Abnahme der Fahrzeugschlüssel, Absperren oder Einstellung des Fahrzeuges, Anlegen von technischen Sperren und dergleichen, anzuwenden\. Solche Zwangsmaßnahmen sind unverzüglich aufzuheben, wenn beim Fahrlehrer, Begleiter oder Ausbildner der durch Alkohol oder Suchtgift beeinträchtigte Zustand nicht mehr gegeben und ihm auch nicht ein zum Lenken des betreffenden Fahrzeuges allenfalls nötiger Führerschein nach den kraftfahrrechtlichen Vorschriften abgenommen ist oder wenn eine andere Person, bei der keine Hinderungsgründe gegeben sind, entweder beabsichtigt, das Fahrzeug selbst in Betrieb zu nehmen und zu lenken, oder die Aufgaben des Fahrlehrers, Begleiters oder Ausbildners wahrzunehmen\.
 
+\[ [🔗 Permalink](#-5b-stvo--zwangsmaßnahmen-bei-alkoholisierung) \]
+
 ### § 6 StVO — Benützung schienengleicher Eisenbahnübergänge
 
 > Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und bei der Übersetzung solcher Übergänge sowie für die Beachtung der den schienengleichen Eisenbahnübergang sichernden Zeichen gelten die eisenbahnrechtlichen Vorschriften\.
+
+\[ [🔗 Permalink](#-6-stvo--benützung-schienengleicher-eisenbahnübergänge) \]
 
 ## II. ABSCHNITT.
 
@@ -452,6 +468,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Mit Kraftfahrzeugen ist es verboten, dieselbe Straße oder dieselben Straßenzüge innerhalb eines örtlichen Bereiches ohne zwingenden Grund mehrmals hintereinander zu befahren oder den Motor am Stand länger als unbedingt notwendig laufen zu lassen\.
 
+\[ [🔗 Permalink](#-7-stvo--allgemeine-fahrordnung) \]
+
 ### § 8 StVO — Fahrordnung auf Straßen mit besonderen Anlagen
 
 > `(1)` Nebenfahrbahnen sind zum Ziehen oder Schieben von Handwagen, Handkarren oder Handschlitten sowie zum Schieben von einspurigen Fahrzeugen zu benützen\. Radfahrer dürfen in Nebenfahrbahnen auch fahren, wenn kein Radfahrstreifen, Radweg oder Geh\- und Radweg vorhanden ist\. Sonst dürfen Nebenfahrbahnen, sofern sich aus Straßenverkehrszeichen oder Bodenmarkierungen nichts anderes ergibt, nur zum Zu\- oder Abfahren benützt werden\. Nebenfahrbahnen dürfen nur in der dem zunächst gelegenen Fahrstreifen der Hauptfahrbahn entsprechenden Fahrtrichtung befahren werden, sofern sich aus Straßenverkehrszeichen nichts anderes ergibt\.
@@ -472,6 +490,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Lenker von anderen als Schienenfahrzeugen dürfen selbständige Gleiskörper nicht in der Längsrichtung befahren und dürfen sie nur an den dazu bestimmten Stellen überqueren\. Von diesem Verbot sind Fahrzeuge des Verkehrsunternehmens, das den Verkehr mit den Schienenfahrzeugen betreibt, oder in dessen Auftrag fahrende Fahrzeuge und Fahrzeuge des Straßendienstes ausgenommen\.
 
+\[ [🔗 Permalink](#-8-stvo--fahrordnung-auf-straßen-mit-besonderen-anlagen) \]
+
 ### § 8a StVO — Fahrordnung auf Radfahranlagen
 
 > `(1)` Radfahranlagen dürfen in beiden Fahrtrichtungen befahren werden, sofern sich aus Bodenmarkierungen \(Richtungspfeilen\) nichts anderes ergibt\.
@@ -479,6 +499,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Abweichend von Abs\. 1 darf jedoch ein Radfahrstreifen, ausgenommen in Einbahnstraßen, nur in der dem angrenzenden Fahrstreifen entsprechenden Fahrtrichtung befahren werden; diese Fahrtrichtung ist auch auf einer Radfahrerüberfahrt einzuhalten, die an den Radfahrstreifen anschließt\.
 
 > `(3)` Die Behörde kann, abweichend von § 8 Abs\. 4, das Befahren von Radfahranlagen mit landwirtschaftlichen Fahrzeugen und, jedoch nur außerhalb des Ortsgebietes, Fahrzeugen der Klasse L1e mit elektrischem Antrieb erlauben\. Auf Geh\- und Radwegen dürfen Lenker von Kraftfahrzeugen, wenn sie sich Fußgängern nähern, mit einer Geschwindigkeit von höchstens 10 km/h fahren\.
+
+\[ [🔗 Permalink](#-8a-stvo--fahrordnung-auf-radfahranlagen) \]
 
 ### § 8b StVO
 
@@ -489,6 +511,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` umzukehren\.
 
 > `(2)` Muss wegen einer Panne, in Notfällen oder bei Gefahr angehalten werden, ist das Fahrzeug, soweit möglich, in den durch Hinweiszeichen gemäß § 53 Abs\. 1 Z 1c gekennzeichneten Pannenbuchten abzustellen\.
+
+\[ [🔗 Permalink](#-8b-stvo) \]
 
 ### § 9 StVO — Verhalten bei Bodenmarkierungen
 
@@ -510,11 +534,15 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Im Fall des § 55 Abs\. 6 2\. Satz haben sich die Verkehrsteilnehmer ausschließlich entsprechend den vorübergehend geltenden Bodenmarkierungen zu verhalten\.
 
+\[ [🔗 Permalink](#-9-stvo--verhalten-bei-bodenmarkierungen) \]
+
 ### § 10 StVO — Ausweichen
 
 > `(1)` Der Lenker eines Fahrzeuges hat einem entgegenkommenden Fahrzeug rechtzeitig und ausreichend nach rechts auszuweichen\. Einem entgegenkommenden Schienenfahrzeug ist jedoch, wenn der Abstand zwischen ihm und dem Fahrbahnrand ein Ausweichen nach rechts nicht zuläßt, unter Bedachtnahme auf den Gegenverkehr nach links auszuweichen\.
 
 > `(2)` Kann nicht oder nicht ausreichend ausgewichen werden, so sind die einander begegnenden Fahrzeuge anzuhalten\. In einem solchen Fall muß jenes Fahrzeug zurückgefahren werden, mit dem dies wegen seiner Art und wegen der örtlichen Verhältnisse leichter möglich ist\.
+
+\[ [🔗 Permalink](#-10-stvo--ausweichen) \]
 
 ### § 11 StVO — Änderung der Fahrtrichtung und Wechsel des Fahrstreifens
 
@@ -528,6 +556,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wenn auf Straßen mit mehr als einem Fahrstreifen für die betreffende Fahrtrichtung das durchgehende Befahren eines Fahrstreifens nicht möglich oder nicht zulässig ist oder ein Fahrstreifen endet, ist den am Weiterfahren gehinderten Fahrzeugen der Wechsel auf den zunächst gelegen verbleibenden Fahrstreifen in der Weise zu ermöglichen, dass diese Fahrzeuge jeweils im Wechsel einem auf dem durchgehenden Fahrstreifen fahrenden Fahrzeug nachfolgen können \(Reißverschlusssystem\)\. Das Reißverschlusssystem ist auch anzuwenden, wenn die beschriebenen Umstände in Bezug auf einen Radfahrstreifen oder innerhalb des Ortsgebietes auf einen parallel einmündenden Radweg, nach dessen Verlassen der Radfahrer die Fahrtrichtung beibehält, auftreten\.
 
+\[ [🔗 Permalink](#-11-stvo--änderung-der-fahrtrichtung-und-wechsel-des-fahrstreifens) \]
+
 ### § 12 StVO — Einordnen
 
 > `(1)` Beabsichtigt der Lenker eines Fahrzeuges nach links einzubiegen, so hat er das Fahrzeug, nachdem er sich davon überzeugt hat, daß niemand zum Überholen angesetzt hat, auf den der Fahrbahnmitte zunächst gelegenen Fahrstreifen seiner Fahrtrichtung, auf Einbahnstraßen jedoch auf den linken Fahrstreifen der Fahrbahn zu lenken\. Radfahrer können durch Hinweiszeichen von dieser Einordnungsverpflichtung befreit werden; sie haben sich entsprechend den Hinweiszeichen zu verhalten\.
@@ -540,6 +570,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Müssen Fahrzeuge vor Kreuzungen, Straßenengen, schienengleichen Eisenbahnübergängen und dergleichen angehalten werden, so dürfen die Lenker einspuriger, später ankommender Fahrzeuge nur dann neben oder zwischen den bereits angehaltenen Fahrzeugen vorfahren, um sich mit ihren Fahrzeugen weiter vorne aufzustellen, wenn für das Vorfahren ausreichend Platz vorhanden ist und die Lenker von Fahrzeugen, die ihre Absicht zum Einbiegen angezeigt haben, dadurch beim Einbiegen nicht behindert werden\.
 
+\[ [🔗 Permalink](#-12-stvo--einordnen) \]
+
 ### § 13 StVO — Einbiegen, Einfahren und Ausfahren
 
 > `(1)` Nach rechts ist in kurzem, nach links in weitem Bogen einzubiegen\.
@@ -551,6 +583,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Wenn es die Verkehrssicherheit erfordert, hat sich der Lenker beim Einfahren in Häuser oder Grundstücke und beim Ausfahren aus Häusern oder Grundstücken von einer geeigneten Person einweisen zu lassen\.
 
 > `(4)` Beim Einbiegen in eine Fahrbahn hat der Lenker eines Fahrzeuges, das kein Schienenfahrzeug ist, einem Fußgänger, der die Fahrbahn bereits betreten hat, das unbehinderte und ungefährdete Überqueren dieser Fahrbahn zu ermöglichen\.
+
+\[ [🔗 Permalink](#-13-stvo--einbiegen-einfahren-und-ausfahren) \]
 
 ### § 14 StVO — Umkehren und Rückwärtsfahren
 
@@ -572,6 +606,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ob und inwieweit das Umkehren im Bereich schienengleicher Eisenbahnübergänge verboten ist, ergibt sich aus den eisenbahnrechtlichen Vorschriften\.
 
+\[ [🔗 Permalink](#-14-stvo--umkehren-und-rückwärtsfahren) \]
+
 ### § 15 StVO — Überholen
 
 > `(1)` Außer in den Fällen der Abs\. 2 und 2a darf der Lenker eines Fahrzeuges nur links überholen\.
@@ -589,6 +625,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Beim Überholen ist ein der Verkehrssicherheit und der Fahrgeschwindigkeit entsprechender seitlicher Abstand vom Fahrzeug, das überholt wird, einzuhalten\. Beim Überholen mit Kraftfahrzeugen von Radfahrern und Rollerfahrern \(§ 88b\) hat der Seitenabstand im Ortsgebiet mindestens 1, 5 m und außerhalb des Ortsgebietes mindesten 2 m zu betragen; bei einer gefahrenen Geschwindigkeit des überholenden Kraftfahrzeuges von höchstens 30 km/h kann der Seitenabstand der Verkehrssicherheit entsprechend reduziert werden\.
 
 > `(5)` Der Lenker eines Fahrzeuges, das überholt wird, darf die Geschwindigkeit nicht erhöhen, sobald ihm der Überholvorgang angezeigt worden ist \(Abs\. 3\) oder er den Überholvorgang nach den Verkehrsverhältnissen sonst wahrgenommen haben mußte\. Dies gilt nicht für die Führer von Schienenfahrzeugen\.
+
+\[ [🔗 Permalink](#-15-stvo--überholen) \]
 
 ### § 16 StVO — Überholverbote
 
@@ -618,6 +656,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ob und inwieweit das Überholen im Bereich schienengleicher Eisenbahnübergänge verboten ist, richtet sich nach den eisenbahnrechtlichen Vorschriften\.
 
+\[ [🔗 Permalink](#-16-stvo--überholverbote) \]
+
 ### § 17 StVO — Vorbeifahren
 
 > `(1)` Das Vorbeifahren ist nur gestattet, wenn dadurch andere Straßenbenützer, insbesondere entgegenkommende, weder gefährdet noch behindert werden\. Für die Anzeige des Vorbeifahrens, die Einhaltung eines Sicherheitsabstandes und das Vorbeifahren an Schienenfahrzeugen gelten die beim Überholen zu beachtenden Vorschriften \(§ 15\)\. An einem entsprechend eingeordneten Fahrzeug, dessen Lenker die Absicht nach links einzubiegen anzeigt \(§ 13 Abs\. 2\), ist rechts vorbeizufahren\.
@@ -638,6 +678,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` An Fahrzeugen, die gemäß § 18 Abs\. 3 anhalten, darf nur vorbeigefahren werden, wenn wenigstens zwei Fahrstreifen für die betreffende Fahrtrichtung vorhanden sind, auf Fahrbahnen mit Gegenverkehr die Fahrbahnmitte oder eine zur Trennung der Fahrtrichtungen angebrachte Sperrlinie nicht überfahren wird und für den weiteren Fahrstreifen nicht auch schon die Voraussetzungen des § 18 Abs\. 3 gegeben sind\.
 
+\[ [🔗 Permalink](#-17-stvo--vorbeifahren) \]
+
 ### § 18 StVO — Hintereinanderfahren
 
 > `(1)` Der Lenker eines Fahrzeuges hat stets einen solchen Abstand vom nächsten vor ihm fahrenden Fahrzeug einzuhalten, daß ihm jederzeit das rechtzeitige Anhalten möglich ist, auch wenn das vordere Fahrzeug plötzlich abgebremst wird\.
@@ -647,6 +689,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Müssen die Lenker hintereinanderfahrender Fahrzeuge anhalten und reicht die Reihe der anhaltenden Fahrzeuge auf dem betreffenden Fahrstreifen bis zu einer Querstraße, einem Schutzweg, einer Radfahrerüberfahrt oder einer die Fahrbahn querenden Gleisanlage zurück, so haben die Lenker weiterer auf demselben Fahrstreifen herannahender Fahrzeuge so anzuhalten, daß der Verkehr auf der Querstraße, dem Schutzweg, der Radfahrerüberfahrt oder Gleisanlage nicht behindert wird\.
 
 > `(4)` Der Lenker eines Fahrzeuges mit größeren Längsabmessungen \(Lastfahrzeuge, Kraftwagenzüge, Omnibusse u\. dgl\.\) hat auf Freilandstraßen nach einem solchen Fahrzeug einen Abstand von mindestens 50 m einzuhalten\.
+
+\[ [🔗 Permalink](#-18-stvo--hintereinanderfahren) \]
 
 ### § 19 StVO — Vorrang
 
@@ -670,6 +714,8 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Der Lenker eines Fahrzeuges darf auf seinen Vorrang verzichten, wobei ein solcher Verzicht dem Wartepflichtigen deutlich erkennbar zu machen ist\. Das Zum\-Stillstand\-Bringen eines Fahrzeuges, ausgenommen eines Schienenfahrzeuges in Haltestellen, aus welchem Grund immer, insbesondere auch in Befolgung eines gesetzlichen Gebotes, gilt als Verzicht auf den Vorrang\. Der Wartepflichtige darf nicht annehmen, daß ein Vorrangberechtigter auf seinen Vorrang verzichten werde, und er darf insbesondere auch nicht annehmen, daß bei Vorrangverzicht eines Vorrangberechtigten ein anderer Vorrangberechtigter gleichfalls auf seinen Vorrang verzichten werde, es sei denn, dem Wartepflichtigen ist der Vorrangverzicht von Vorrangberechtigten zweifelsfrei erkennbar\.
 
+\[ [🔗 Permalink](#-19-stvo--vorrang) \]
+
 ### § 20 StVO — Fahrgeschwindigkeit
 
 > `(1)` Der Lenker eines Fahrzeuges hat die Fahrgeschwindigkeit den gegebenen oder durch Straßenverkehrszeichen angekündigten Umständen, insbesondere den Straßen\-, Verkehrs\- und Sichtverhältnissen, sowie den Eigenschaften von Fahrzeug und Ladung anzupassen\. Er darf auch nicht so schnell fahren, daß er andere Straßenbenützer oder an der Straße gelegene Sachen beschmutzt oder Vieh verletzt, wenn dies vermeidbar ist\. Er darf auch nicht ohne zwingenden Grund so langsam fahren, daß er den übrigen Verkehr behindert\.
@@ -684,6 +730,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Bestimmungen des Abs\. 1 werden durch die Regelungen nach Abs\. 2 bis 3 nicht berührt\.
 
+\[ [🔗 Permalink](#-20-stvo--fahrgeschwindigkeit) \]
+
 ### § 21 StVO — Verminderung der Fahrgeschwindigkeit
 
 > `(1)` Der Lenker darf das Fahrzeug nicht jäh und für den Lenker eines nachfolgenden Fahrzeuges überraschend abbremsen, wenn andere Straßenbenützer dadurch gefährdet oder behindert werden, es sei denn, daß es die Verkehrssicherheit erfordert\.
@@ -694,6 +742,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ob und in welcher Weise die Führer von Schienenfahrzeugen die Geschwindigkeitsverminderung anzuzeigen haben, ergibt sich aus den eisenbahnrechtlichen Vorschriften\.
 
+\[ [🔗 Permalink](#-21-stvo--verminderung-der-fahrgeschwindigkeit) \]
+
 ### § 22 StVO — Warnzeichen
 
 > `(1)` Wenn es die Verkehrssicherheit erfordert, hat der Lenker eines Fahrzeuges andere Straßenbenützer mit der zum Abgeben von akustischen Warnzeichen bestimmten Vorrichtung durch deutliche Schallzeichen, sofern solche Vorrichtungen nicht vorhanden oder gestört sind, durch deutliche Zurufe zu warnen\. Der Lenker darf auch durch Blinkzeichen warnen, wenn sie ausreichen und nicht blenden\.
@@ -701,6 +751,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Abgabe von Schallzeichen \(Abs\. 1\) ist unbeschadet der Bestimmungen über das Hupverbot \(§ 43 Abs\. 2\) verboten, wenn es die Sicherheit des Verkehrs nicht erfordert\. Schallzeichen dürfen insbesondere vor Kirchen und gekennzeichneten Schulen und Krankenhäusern sowie zur Nachtzeit nicht länger als unbedingt nötig gegeben werden\.
 
 > `(3)` Der Lenker, der mit einem Kraftfahrzeug mit mehr als insgesamt 9 Sitzplätzen ausschließlich einen Schülertransport gemäß § 106 Abs\. 6 zweiter Satz KFG 1967 durchführt, hat dafür zu sorgen, daß an diesem Kraftfahrzeug während der Dauer der ausschließlichen Verwendung für Schülertransporte hinten eine Tafel gemäß § 17 Abs\. 2a angebracht ist\. In allen anderen Fällen ist die Tafel zu entfernen oder abzudecken\. Er hat die Alarmblinkanlage und mindestens zwei am Kraftfahrzeug angebrachte, von hinten sichtbare gelbrote Warnleuchten einzuschalten, wenn das Kraftfahrzeug stillsteht und Schüler ein\- oder aussteigen\.
+
+\[ [🔗 Permalink](#-22-stvo--warnzeichen) \]
 
 ### § 23 StVO — Halten und Parken
 
@@ -719,6 +771,8 @@ Der Nationalrat hat beschlossen:
 > `(5)` Bevor der Lenker das Fahrzeug verläßt, hat er es so zu sichern, daß es nicht abrollen kann\.
 
 > `(6)` Unbespannte Fuhrwerke, Anhänger ohne Zugfahrzeug sowie Transportbehälter zur Güterbeförderung \(wie Container, Lademulden u\. dgl\.\) dürfen nur während des Beladens oder Entladens auf der Fahrbahn stehengelassen werden, es sei denn, die genannten Fahrzeuge und Behälter können nach der Ladetätigkeit nicht sofort entfernt werden, das Entfernen wäre eine unbillige Wirtschaftserschwernis oder es liegen sonstige wichtige Gründe für das Stehenlassen vor\. Für das Aufstellen der genannten Fahrzeuge und Behälter gelten die Bestimmungen über das Halten und Parken sinngemäß\. Bei unbespannten Fuhrwerken ist die Deichsel abzunehmen oder gesichert in eine solche Stellung zu bringen, daß niemand gefährdet oder behindert wird\.
+
+\[ [🔗 Permalink](#-23-stvo--halten-und-parken) \]
 
 ### § 24 StVO — Halte- und Parkverbote
 
@@ -804,6 +858,8 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Wenn eine Beeinträchtigung der Umwelt nicht gegeben oder zu erwarten ist, kann die Behörde allgemein oder für bestimmte Gebiete Ausnahmen von dem im Abs\. 3 lit\. f angeführten Verbot bewilligen\. Eine solche Entscheidung ist durch Anschlag auf der Amtstafel der Behörde kundzumachen\.
 
+\[ [🔗 Permalink](#-24-stvo--halte--und-parkverbote) \]
+
 ### § 25 StVO — Kurzparkzonen
 
 > `(1)` Wenn und insoweit es zu bestimmten Zeiten aus ortsbedingten Gründen \(auch im Interesse der Wohnbevölkerung\) oder zur Erleichterung der Verkehrslage erforderlich ist, kann die Behörde durch Verordnung für bestimmte Straßen oder Straßenstrecken oder für Straßen innerhalb eines bestimmten Gebietes das Parken zeitlich beschränken \(Kurzparkzone\)\. Die Kurzparkdauer darf nicht weniger als 30 Minuten und nicht mehr als 3 Stunden betragen\.
@@ -817,6 +873,8 @@ Der Nationalrat hat beschlossen:
 > `(4a)` Für Kurzparkzonen, in denen für das Abstellen eines mehrspurigen Fahrzeuges auf Grund abgabenrechtlicher Vorschriften eine Gebühr zu entrichten und für die Überwachung der Gebührenentrichtung die Verwendung eines technischen oder sonstigen Hilfsmittels vorgesehen ist, kann der Bundesminister für Verkehr, Innovation und Technologie mit Verordnung festlegen, unter welchen Voraussetzungen dieses Hilfsmittel zugleich auch als Hilfsmittel für die Überwachung der Kurzparkdauer gilt\. Wenn für die Überwachung der Gebührenentrichtung die Anbringung des Hilfsmittels am Fahrzeug vorgesehen ist, kann der Bundesminister für Verkehr, Innovation und Technologie weiters aus Gründen der Einheitlichkeit mit Verordnung auch die Art, das Aussehen und die Handhabung des Hilfsmittels bestimmen\.
 
 > `(5)` Die Behörde hat unter Bedachtnahme auf den Zweck einer nach § 43 Abs\. 2a verordneten Regelung durch Verordnung das zur Kontrolle notwendige Hilfsmittel zu bestimmen\.
+
+\[ [🔗 Permalink](#-25-stvo--kurzparkzonen) \]
 
 ## III. ABSCHNITT
 
@@ -841,6 +899,8 @@ Der Nationalrat hat beschlossen:
 >> `4.` Sonstige Einsatzfahrzeuge\.
 
 > `(5)` Alle Straßenbenützer haben einem herannahenden Einsatzfahrzeug Platz zu machen\. Kein Lenker eines anderen Fahrzeuges darf unmittelbar hinter einem Einsatzfahrzeug nachfahren oder, außer um ihm Platz zu machen, vor ihm in eine Kreuzung einfahren\.
+
+\[ [🔗 Permalink](#-26-stvo--einsatzfahrzeuge) \]
 
 ### § 26a StVO — Fahrzeuge im öffentlichen Dienst
 
@@ -868,6 +928,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; sind bei der Zustellung und Abholung von Postsendungen, bei der Instandhaltung von Telekommunikations\- oder Fernmeldeeinrichtungen, bei der Zustellung und Abholung von Bargeld oder Edelmetallen sowie bei Einsätzen der Funküberwachung an Halte\- und Parkverbote nicht gebunden, sofern dies der Betriebseinsatz erfordert und der übrige Verkehr dadurch nicht wesentlich beeinträchtigt wird\.
 
+\[ [🔗 Permalink](#-26a-stvo--fahrzeuge-im-öffentlichen-dienst) \]
+
 ### § 27 StVO — Fahrzeuge des Straßendienstes, der Müllabfuhr und der Kanalwartung
 
 > `(1)` Die Lenker von Fahrzeugen des Straßendienstes, wie Streufahrzeuge, Schneeräumfahrzeuge und \-geräte, Arbeitsmaschinen und sonstige Fahrzeuge, die für den Straßenbau, die Straßenerhaltung, die Straßenpflege, die Straßenreinigung oder die Instandhaltung von Einrichtungen zur Regelung und Sicherung des Verkehrs, der öffentlichen Beleuchtung oder der Straßenbahnanlagen verwendet werden, sind bei Arbeitsfahrten an die Bestimmungen über das Verhalten bei Bodenmarkierungen und über das Einordnen sowie an Zufahrtsbeschränkungen, an Halte\- und Parkverbote und an die Verbote bezüglich des Zufahrens zum linken Fahrbahnrand nicht gebunden\. Sie dürfen auch durch Nebenfahrbahnen durchfahren sowie an Schutzinseln in Einbahnstraßen oder in einer Fahrbahnhälfte, für die das Gebot, rechts vorbeizufahren, angeordnet ist, links vorbeifahren und dürfen die Betriebszufahrten und \-abfahrten sowie die Betriebsumkehren einer Autobahn befahren\. Weiters dürfen die Lenker von Fahrzeugen des Straßendienstes auch auf der linken Fahrbahnseite fahren, wenn durch die Ausstattung dieser Fahrzeuge oder durch sonstige Maßnahmen in ausreichender Weise für die Sicherheit anderer Straßenbenützer gesorgt ist\.
@@ -880,11 +942,15 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Soweit dies zur Erreichung des Zwecks der jeweiligen Arbeitsfahrt notwendig ist, sind auch die Lenker von Fahrzeugen der Kanalwartung und \-revision bei Arbeitsfahrten an die Bestimmungen über das Verhalten bei Bodenmarkierungen und über das Einordnen sowie an Zufahrtsbeschränkungen, an Halte\- und Parkverbote und an die Verbote bezüglich des Zufahrens zum linken Fahrbahnrand nicht gebunden\. Sie dürfen dabei auch durch Nebenfahrbahnen durchfahren und das Fahrzeug erforderlichenfalls abweichend von den Bestimmungen des § 23 Abs\. 2 aufstellen\. Abs\. 4 ist anzuwenden\.
 
+\[ [🔗 Permalink](#-27-stvo--fahrzeuge-des-straßendienstes-der-müllabfuhr-und-der-kanalwartung) \]
+
 ### § 28 StVO — Schienenfahrzeuge
 
 > `(1)` Die Führer von Schienenfahrzeugen sind von der Einhaltung der straßenpolizeilichen Vorschriften insoweit befreit, als die Befolgung dieser Vorschriften wegen der Bindung dieser Fahrzeuge an Gleise nicht möglich ist\.
 
 > `(2)` Sofern sich aus den Bestimmungen des § 19 Abs\. 2 bis 6 über den Vorrang nichts anderes ergibt, haben beim Herannahen eines Schienenfahrzeuges andere Straßenbenützer die Gleise jedenfalls so rasch wie möglich zu verlassen, um dem Schienenfahrzeug Platz zu machen; beim Halten auf Gleisen müssen die Lenker während der Betriebszeiten der Schienenfahrzeuge im Fahrzeug verbleiben, um dieser Verpflichtung nachkommen zu können\. Unmittelbar vor und unmittelbar nach dem Vorüberfahren eines Schienenfahrzeuges dürfen die Gleise nicht überquert werden\. Bodenmarkierungen für das Einordnen der Fahrzeuge vor Kreuzungen sind ungeachtet der Bestimmungen dieses Absatzes zu beachten\. Bodenschwellen oder ähnliche bauliche Einrichtungen, die entlang von Gleisen angebracht sind, dürfen nicht überfahren werden\.
+
+\[ [🔗 Permalink](#-28-stvo--schienenfahrzeuge) \]
 
 ### § 29 StVO — Geschlossene Züge von Straßenbenützern
 
@@ -910,6 +976,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Bestimmungen des Abs\. 3 gelten sinngemäß für Kolonnen der Feuerwehren auf einer Einsatzübungs\- oder Einsatzfahrt; in diesem Falle werden die nach Abs\. 3 den Soldaten zustehenden Rechte von besonders geschulten und ausgerüsteten Feuerwehrmännern ausgeübt\.
 
+\[ [🔗 Permalink](#-29-stvo--geschlossene-züge-von-straßenbenützern) \]
+
 ### § 29a StVO — Kinder
 
 > `(1)` Vermag der Lenker eines Fahrzeuges zu erkennen, daß Kinder die Fahrbahn einzeln oder in Gruppen, sei es beaufsichtigt oder unbeaufsichtigt, überqueren oder überqueren wollen, so hat er ihnen das unbehinderte und ungefährdete Überqueren der Fahrbahn zu ermöglichen und hat zu diesem Zweck, falls erforderlich, anzuhalten\. Die Bestimmungen des § 76 werden dadurch nicht berührt\.
@@ -919,6 +987,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Leitung einer Schule kann der Behörde geeignete Schüler als Aufsichtspersonen nach Abs\. 2 \(Schülerlotsen\) namhaft machen, die diese Aufgaben regelmäßig übernehmen\. Die Behörde hat diesen Schülerlotsen einen Ausweis, aus dem ihre Eigenschaft als Aufsichtsperson hervorgeht, auszufolgen\.
 
 > `(4)` Die Schülerlotsen sind mit einem geeigneten Signalstab sowie mit einer gut wahrnehmbaren Schutzausrüstung auszustatten, die sie während der Aufsichtstätigkeit zu tragen haben\. Der Bundesminister für Inneres hat durch Verordnung die Ausführung, Beschaffenheit, Farbe und sonstige zur Wahrnehmbarkeit erforderlichen Eigenschaften des Signalstabes und der Schutzausrüstung sowie den Inhalt und die Form des Ausweises zu bestimmen\.
+
+\[ [🔗 Permalink](#-29a-stvo--kinder) \]
 
 ### § 29b StVO — Menschen mit Behinderungen
 
@@ -952,6 +1022,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Ausweise, die vor dem 1\. Jänner 2001 ausgestellt worden sind und der Verordnung des Bundesministers für Verkehr vom 16\. November 1976, BGBl\. Nr\. 655/1976, zuletzt geändert durch BGBl\. Nr\. 80/1990, entsprechen, verlieren ihre Gültigkeit mit 31\. Dezember 2015\. Ausweise, die nach dem 1\. Jänner 2001 ausgestellt worden sind und der Verordnung des Bundesministers für Verkehr, Innovation und Technologie über den Ausweis für dauernd stark gehbehinderte Personen \(Gehbehindertenausweisverordnung\), BGBl\. II Nr\. 252/2000, entsprechen, bleiben weiterhin gültig\.
 
+\[ [🔗 Permalink](#-29b-stvo--menschen-mit-behinderungen) \]
+
 ### § 30 StVO — Wirtschaftsfuhren
 
 > `(1)` Als Wirtschaftsfuhre gilt die Beförderung von Gütern im Betriebe eines land\- und forstwirtschaftlichen Unternehmens innerhalb seines örtlichen Bereiches, insbesondere zwischen den zu diesem Unternehmen gehörenden Liegenschaften mit Fahrzeugen eines land\- und forstwirtschaftlichen Unternehmens\.
@@ -966,6 +1038,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Im Betriebe eines land\- und forstwirtschaftlichen Unternehmens gelten für die Beförderung eigener Erzeugnisse mit eigenen Fahrzeugen bis zur nächsten Eisenbahn\- oder Schiffsstation oder bis zur nächsten Sammelstelle land\- und forstwirtschaftlicher Erzeugnisse die Bestimmungen der Abs\. 2 bis 5 sinngemäß, doch hat die Behörde eine solche Beförderung zu verbieten oder im erforderlichen Ausmaße einzuschränken, wenn es aus Gründen der Verkehrssicherheit geboten ist\.
 
+\[ [🔗 Permalink](#-30-stvo--wirtschaftsfuhren) \]
+
 ## IV. ABSCHNITT.
 
 ## Regelung und Sicherung des Verkehrs.
@@ -979,6 +1053,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Es ist verboten, an den in Abs\. 1 bezeichneten Einrichtungen Beschriftungen, bildliche Darstellungen, Anschläge, geschäftliche Anpreisungen oder dgl\. anzubringen\. Dies gilt jedoch nicht für das Anbringen von Tabellen für Preise von Taxi\- und Ausflugsfahrten unter den in § 96 Abs\. 4 genannten Straßenverkehrszeichen, für die Nutzung der Rückseite der in Abs\. 1 bezeichneten Einrichtungen gemäß § 82 Abs\. 3 lit\. f sowie bei Vorliegen einer Bewilligung nach den §§ 82 bis 84\.
 
 > `(3)` Die Behörde ist berechtigt, unbefugt an den in Abs\. 1 bezeichneten Einrichtungen angebrachte Beschriftungen, bildliche Darstellungen, Anschläge, geschäftliche Anpreisungen oder dgl\. auf Kosten des für die Anbringung Verantwortlichen ohne weiteres Verfahren entfernen zu lassen\.
+
+\[ [🔗 Permalink](#-31-stvo--einrichtungen-zur-regelung-und-sicherung-des-verkehrs) \]
 
 ### § 32 StVO — Anbringungspflicht und Kosten
 
@@ -998,11 +1074,15 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Die Bestimmungen der Abs\. 1 bis 6 gelten nicht für das Zeichen „Andreaskreuz“ \(§ 50 Z 6d\); hiefür sind die eisenbahnrechtlichen Vorschriften maßgebend\.
 
+\[ [🔗 Permalink](#-32-stvo--anbringungspflicht-und-kosten) \]
+
 ### § 33 StVO — Einrichtungen auf benachbarten Grundstücken zur Regelung und Sicherung des Verkehrs
 
 > `(1)` Ist die Anbringung der Einrichtungen zur Sicherung und Regelung des Verkehrs auf Straßengrund nicht zweckentsprechend oder wegen der Beschaffenheit der Straße oder ihrer Anlage nicht möglich, so sind diese Einrichtungen unter tunlichster Vermeidung von Wirtschaftserschwernissen auf den Liegenschaften neben der Straße anzubringen\. Die Eigentümer dieser Liegenschaften sind, wenn mit ihnen hierüber keine Einigung erzielt wurde, von der Behörde durch Bescheid zu verpflichten, die Anbringung zu dulden\.
 
 > `(2)` Der Eigentümer der Liegenschaft ist, wenn durch die Anbringung der Einrichtungen die bestimmungsgemäße Verwendung der Liegenschaft erheblich beeinträchtigt wird, von demjenigen, der die Kosten der Anbringung zu tragen hat, zu entschädigen\. Werden Ersatzansprüche innerhalb von sechs Monaten, gerechnet vom Zeitpunkt, in dem der Eigentümer der Liegenschaft von der Anbringung Kenntnis erlangt hat, nicht anerkannt, so hat auf seinen Antrag das Gericht im Verfahren außer Streitsachen zu entscheiden\.
+
+\[ [🔗 Permalink](#-33-stvo--einrichtungen-auf-benachbarten-grundstücken-zur-regelung-und-sicherung-des-verkehrs) \]
 
 ### § 34 StVO — Ausstattung der Einrichtungen zur Regelung und Sicherung des Verkehrs
 
@@ -1016,6 +1096,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Zum Zwecke der Erprobung im Rahmen der Durchführung wissenschaftlicher Untersuchungen kann der Bundesminister für Verkehr, Innovation und Technologie durch Verordnung für eine bestimmte Zeit eine von den Bestimmungen dieses Gesetzes abweichende Ausführung von Einrichtungen zur Regelung und Sicherung des Verkehrs festlegen, wenn dagegen aus Gründen der Verkehrssicherheit keine Bedenken bestehen und eine solche Untersuchung im überwiegenden Interesse des Straßenverkehrs gelegen ist; der Zeitraum der Erprobung darf fünf Jahre ab dem In\-Kraft\-Treten der Verordnung nicht überschreiten\.
 
+\[ [🔗 Permalink](#-34-stvo--ausstattung-der-einrichtungen-zur-regelung-und-sicherung-des-verkehrs) \]
+
 ### § 35 StVO — Vermeidung von Verkehrsbeeinträchtigungen
 
 > `(1)` Die Behörde hat, wenn es die Sicherheit des Straßenverkehrs erfordert, die Besitzer von Gegenständen, die auf der Straße oder auf Liegenschaften in der Umgebung der Straße angebracht sind und durch ihre Beschaffenheit oder Lage oder durch die Art ihrer Anbringung oder ihrer Anordnung geeignet sind, die Sicherheit des Straßenverkehrs zu beeinträchtigen, durch Bescheid zu verpflichten,
@@ -1028,6 +1110,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Behörde hat auf Antrag dessen, der einen im Abs\. 1 bezeichneten Gegenstand anzubringen beabsichtigt, durch Bescheid festzustellen, ob durch die Verwirklichung des Vorhabens eine Beeinträchtigung der Sicherheit des Straßenverkehrs im Sinne des Abs\. 2 zu erwarten ist\.
 
+\[ [🔗 Permalink](#-35-stvo--vermeidung-von-verkehrsbeeinträchtigungen) \]
+
 ## B. Armzeichen und Lichtzeichen.
 
 ### § 36 StVO — Zeichengebung
@@ -1039,6 +1123,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Werden auf einer Straßenstelle die Lichtzeichen automatisch oder von Straßenbenützern ausgelöst, \(Abs\. 2\) so sind diese Vorrichtungen unter Bedachtnahme auf die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs sowie auf Bedürfnisse von Fußgängern, nach kurzer Wartezeit und ohne Eile queren zu können, so einzustellen, dass die Zeichenfolge den auf dieser Straßenstelle bestehenden Verkehrsverhältnissen entspricht\.
 
 > `(4)` Wenn der Verkehr durch Armzeichen oder Lichtzeichen geregelt wird, so gehen diese sowohl den Straßenverkehrszeichen als auch den Bodenmarkierungen vor\.
+
+\[ [🔗 Permalink](#-36-stvo--zeichengebung) \]
 
 ### § 37 StVO — Bedeutung der Armzeichen
 
@@ -1055,6 +1141,8 @@ Der Nationalrat hat beschlossen:
 > `(6)` Ein Verkehrsposten darf, nachdem er die Armzeichen gemäß Abs\. 3 und 5 gegeben hat, die Arme wieder senken\. In diesem Falle sind die senkrecht zur Brust und zum Rücken des Verkehrspostens verlaufenden Fahrtrichtungen gesperrt \(Abs\. 3\)\.
 
 > `(7)` Bewegt ein Verkehrsposten einen Arm auf und ab, so bedeutet dies, daß die Fahrgeschwindigkeit zu verringern ist\.
+
+\[ [🔗 Permalink](#-37-stvo--bedeutung-der-armzeichen) \]
 
 ### § 38 StVO — Bedeutung der Lichtzeichen
 
@@ -1102,17 +1190,23 @@ Der Nationalrat hat beschlossen:
 
 > `(10)` Für die Fahrstreifensignalisierung sind Lichtzeichen mit roten gekreuzten Schrägbalken, grün nach unten zeigendem Pfeil und gelb blinkendem halb links oder halb rechts nach unten zeigendem Pfeil auf nicht leuchtendem Hintergrund zu verwenden\. Solche Zeichen sind für jeden Fahrstreifen oberhalb des Fahrstreifens anzubringen\. Bei Lichtzeichen dieser Art bedeuten rote gekreuzte Schrägbalken, daß der betreffende Fahrstreifen gesperrt ist, der grün nach unten zeigende Pfeil, daß der Verkehr auf dem betreffenden Fahrstreifen gestattet ist und der gelb blinkende halb links oder halb rechts nach unten zeigende Pfeil, daß Fahrzeuglenker den betreffenden Fahrstreifen ehestmöglich in der angezeigten Richtung verlassen müssen\.
 
+\[ [🔗 Permalink](#-38-stvo--bedeutung-der-lichtzeichen) \]
+
 ### § 39 StVO — Anordnung der Lichtzeichen
 
 > `(1)` Die Lichtzeichen sind entweder untereinander in der Reihenfolge oben rot, in der Mitte gelb und unten grün oder in Ausnahmefällen nebeneinander in der Reihenfolge links rot, in der Mitte gelb und rechts grün anzuordnen\.
 
 > `(2)` Die Anlagen zur Abgabe von Lichtzeichen sind deutlich erkennbar anzubringen\. Sind mehrere Fahrstreifen vorhanden, so ist sowohl eine getrennte als auch eine unterschiedliche Regelung für einzelne Fahrstreifen oder Fahrtrichtungen zulässig \(Spurensignalisation\)\. Der Abstand zwischen dem unteren Rand des Gehäuses einer Lichtsignalanlage und der Fahrbahn darf bei Anordnung am Fahrbahnrand nicht weniger als 2 m und nicht mehr als 3,50 m, bei Anordnung oberhalb der Fahrbahn nicht weniger als 4,50 m und nur in Ausnahmefällen mehr als 5,50 m betragen\. Die Anbringung zusätzlicher Signale an anderen Stellen ist zulässig\.
 
+\[ [🔗 Permalink](#-39-stvo--anordnung-der-lichtzeichen) \]
+
 ### § 40 StVO — Signalscheiben
 
 > `(1)` Die Zeichen „Halt“ oder „Freie Fahrt“ nach den §§ 37 Abs\. 3 und 5 und 38 Abs\. 4 und 5 können, wenn eine solche Zeichengebung an einer Straßenstelle zur Aufrechterhaltung der Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs vorübergehend erforderlich ist, mittels besonderer, den genannten Arm\- oder Lichtzeichen im wesentlichen entsprechenden Hilfseinrichtungen, insbesondere mittels roter und grüner Signalscheiben, gegeben werden\.
 
 > `(2)` Wenn bei Arbeiten auf der Straße nur ein Fahrstreifen befahrbar ist, hat die Behörde unter Bedachtnahme auf die Verkehrssicherheit zu bestimmen, ob und inwieweit der Verkehr durch die in Abs\. 1 bezeichneten Hilfsmittel besonders zu regeln ist\. Sofern aus Gründen der Verkehrssicherheit keine erheblichen Bedenken entgegenstehen, kann die Behörde mit einer solchen Regelung des Verkehrs ein mit der Durchführung der Straßenbauarbeiten betrautes Unternehmen beauftragen\.
+
+\[ [🔗 Permalink](#-40-stvo--signalscheiben) \]
 
 ### § 41 StVO — Hilfszeichen
 
@@ -1125,6 +1219,8 @@ Der Nationalrat hat beschlossen:
 >> `b)` ihre Befolgung ohne Gefährdung von Personen und ohne Beschädigung von Sachen möglich ist\.
 
 > `(3)` Die Straßenbenützer, denen Hilfszeichen gegeben werden, haben sie nur zu befolgen, wenn dies ohne Gefährdung von Personen und ohne Beschädigung von Sachen möglich ist\.
+
+\[ [🔗 Permalink](#-41-stvo--hilfszeichen) \]
 
 ## C. Allgemeine Regelung und Sicherung des Verkehrs.
 
@@ -1162,6 +1258,8 @@ Der Nationalrat hat beschlossen:
 
 > `(10)` Rechtsvorschriften, mit denen weitergehende Fahrverbote oder Geschwindigkeitsbeschränkungen angeordnet werden, bleiben unberührt\.
 > *\(Anm\.: Abs\. 11 und 12 mit Ablauf des 31\.12\.2021 außer Kraft getreten\)*
+
+\[ [🔗 Permalink](#-42-stvo--fahrverbot-für-lastkraftfahrzeuge) \]
 
 ### § 43 StVO — Verkehrsverbote, Verkehrserleichterungen und Hinweise
 
@@ -1223,6 +1321,8 @@ Der Nationalrat hat beschlossen:
 
 > `(11)` Wenn Bedenken aus Gründen der Sicherheit des Straßenverkehrs nicht entgegenstehen, hat die Behörde von einem von ihr erlassenen Halteverbot \(Abs\. 1\) das rasche Auf\- oder Abladen geringer Warenmengen im Zustell\- oder Abholdienst gewerblicher Betriebe sowie das rasche Einsteigen oder das rasche Aussteigen auf Antrag der gesetzlichen Interessenvertretung der in Betracht kommenden Gewerbebetriebe allgemein auszunehmen\.
 
+\[ [🔗 Permalink](#-43-stvo--verkehrsverbote-verkehrserleichterungen-und-hinweise) \]
+
 ### § 44 StVO — Kundmachung der Verordnungen
 
 > `(1)` Die im § 43 bezeichneten Verordnungen sind, sofern sich aus den folgenden Absätzen nichts anderes ergibt, durch Straßenverkehrszeichen oder Bodenmarkierungen kundzumachen und treten mit deren Anbringung in Kraft\. Der Zeitpunkt der erfolgten Anbringung ist in einem Aktenvermerk \(§ 16 AVG\) festzuhalten\. Parteien im Sinne des § 8 AVG ist die Einsicht in einen solchen Aktenvermerk und die Abschriftnahme zu gestatten\. Als Straßenverkehrszeichen zur Kundmachung von im § 43 bezeichneten Verordnungen kommen die Vorschriftszeichen sowie die Hinweiszeichen „Autobahn“, „Ende der Autobahn“, „Autostraße“, „Ende der Autostraße“, „Einbahnstraße“, „Ortstafel“, „Ortsende“, „Internationaler Hauptverkehrsweg“, „Straße mit Vorrang“, „Straße ohne Vorrang“, „Straße für Omnibusse“ und „Fahrstreifen für Omnibusse“ in Betracht\. Als Bodenmarkierungen zur Kundmachung von im § 43 bezeichneten Verordnungen kommen Markierungen, die ein Verbot oder Gebot bedeuten, wie etwa Sperrlinien, Haltelinien vor Kreuzungen, Richtungspfeile, Sperrflächen, Zickzacklinien, Schutzwegmarkierungen oder Radfahrerüberfahrtmarkierungen in Betracht\.
@@ -1241,6 +1341,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Verordnungen, die vom Bundesminister für Verkehr, Innovation und Technologie, von einer Landesregierung oder von einer Bezirksverwaltungsbehörde erlassen werden, sind, sofern sie nicht anders rechtzeitig und wirksam kundgemacht werden können, durch Verlautbarungen in der Presse oder im Rundfunk oder im Fernsehen kundzumachen\.
 
+\[ [🔗 Permalink](#-44-stvo--kundmachung-der-verordnungen) \]
+
 ### § 44a StVO — Vorbereitende Verkehrsmaßnahmen
 
 > `(1)` Wenn auf Grund von Verkehrsbeobachtungen, Verkehrszählungen oder Verkehrserfahrungen aus Anlaß vorhersehbarer Ereignisse oder Umstände Verkehrsverhältnisse zu erwarten sind, für deren Bewältigung besondere Verkehrsmaßnahmen \(Verkehrsverbote, Verkehrsbeschränkungen, Verkehrserleichterungen\) notwendig sind, hat die Behörde diese unter Bedachtnahme auf die Sicherheit, Leichtigkeit und Flüssigkeit des sich bewegenden und die Ordnung des ruhenden Verkehrs durch Verordnung zu bestimmen\.
@@ -1256,6 +1358,8 @@ Der Nationalrat hat beschlossen:
 >> `d)` die in Betracht kommenden Verkehrsmaßnahmen, wie Geschwindigkeitsbeschränkungen, Fahrverbote, Einfahrtverbote, Beschränkungen für Halten und Parken, Einbahnregelungen, Ausnahmen von bestehenden Verkehrsverboten oder Verkehrsbeschränkungen u\. dgl\.
 
 > `(3)` Verordnungen nach Abs\. 1 treten mit der Anbringung oder Sichtbarmachung der ihnen entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen in Kraft\. Die Behörde hat die Person, Dienststelle oder Unternehmung zu bestimmen, welche die Straßenverkehrszeichen oder Bodenmarkierungen anzubringen oder sichtbar zu machen hat\. Die Aufstellung oder Sichtbarmachung der Straßenverkehrszeichen oder die Anbringung der Bodenmarkierungen ist der Behörde unverzüglich zur Kenntnis zu bringen; diese hat den Zeitpunkt der erfolgten Anbringung oder Sichtbarmachung in einem Aktenvermerk \(§ 16 AVG\) festzuhalten\.
+
+\[ [🔗 Permalink](#-44a-stvo--vorbereitende-verkehrsmaßnahmen) \]
 
 ### § 44b StVO — Unaufschiebbare Verkehrsbeschränkungen
 
@@ -1277,6 +1381,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Im Fall von Arbeiten gemäß § 90 Abs\. 2, die voraussichtlich nicht länger als 24 Stunden dauern werden, dürfen die Organe des Straßenerhalters eine besondere Verkehrsregelung durch Anweisungen an die Straßenbenützer oder durch Anbringung von Verkehrsampeln oder Signalscheiben veranlassen oder eine der in § 43 Abs\. 1 lit\. b bezeichneten Maßnahmen durch Anbringung der entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen mit der Wirkung treffen, als ob die Veranlassung oder Maßnahme von der Behörde getroffen worden wäre; darüber hinaus ist der Arbeitsbereich entsprechend dem Stand der Technik abzusichern\. Die Abs\. 2, 3a und 4 gelten mit der Maßgabe, dass die Veranlassungen oder Maßnahmen jedenfalls nach 24 Stunden aufzuheben sind; sofern die Arbeiten zu diesem Zeitpunkt noch nicht abgeschlossen sind, hat der Straßenerhalter unverzüglich die Behörde zu verständigen und ihr alle Umstände, die für die Erlassung einer Verordnung nach § 43 maßgebend sein können, bekanntzugeben\.
 
+\[ [🔗 Permalink](#-44b-stvo--unaufschiebbare-verkehrsbeschränkungen) \]
+
 ### § 44c StVO — Verkehrsbeeinflussung
 
 > `(1)` Die Behörde kann für eine bestimmte Straße oder Straßenstrecke für den Fall besonderer Verkehrs\- oder Fahrbahnverhältnisse, deren Auftreten zeitlich und/oder örtlich nicht vorhersehbar ist, durch Verordnung Verkehrsmaßnahmen \(Verkehrsverbote, Verkehrsbeschränkungen, Verkehrserleichterungen\) festlegen, die auf Grund der örtlichen oder verkehrsmäßigen Gegebenheiten nach dem Stand der Wissenschaft zur Aufrechterhaltung oder Förderung der Leichtigkeit oder Flüssigkeit des Verkehrs unter Bedachtnahme auf die Verkehrssicherheit zweckmäßig sind\.
@@ -1291,6 +1397,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Verordnungen gemäß Abs\. 1 sind mittels eines Verkehrsbeeinflussungssystems \(§ 44 Abs\. 1a\) kundzumachen\. Der örtliche und zeitliche Umfang der von der Behörde verordneten Verkehrsmaßnahmen wird dabei durch die Anzeige der betreffenden Straßenverkehrszeichen mit der Wirkung bestimmt, als ob der örtliche und zeitliche Umfang von der Behörde bestimmt worden wäre\.
 
+\[ [🔗 Permalink](#-44c-stvo--verkehrsbeeinflussung) \]
+
 ### § 44d StVO — Pannenstreifenfreigabe
 
 > `(1)` Auf einer gemäß § 43 Abs\. 3 lit\. d verordneten Autobahnstrecke oder auf Teilen derselben dürfen Organe des Straßenerhalters das Befahren des Pannenstreifens erlauben \(Pannenstreifenfreigabe\), wenn
@@ -1304,6 +1412,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Randlinien gelten im Bereich und zu Zeiten einer Pannenstreifenfreigabe nicht als Sperrlinie und dürfen überfahren werden; dasselbe gilt für Sperrflächen im Zuge der Pannenstreifensignalisierung\.
 
 > `(4)` Der Straßenerhalter hat sicherzustellen, dass der Zeitpunkt und die Dauer der Anzeige selbsttätig durch das System aufgezeichnet werden; diese Aufzeichnungen sind entweder in elektronisch lesbarer Form zu speichern oder in Form von Ausdrucken aufzubewahren\. Parteien im Sinne des § 8 AVG ist auf Verlangen ein Ausdruck der Aufzeichnungen oder eine Kopie des Ausdruckes auszufolgen
+
+\[ [🔗 Permalink](#-44d-stvo--pannenstreifenfreigabe) \]
 
 ### § 45 StVO — Ausnahmen in Einzelfällen
 
@@ -1332,6 +1442,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` entweder die Tätigkeit des Antragstellers ohne Bewilligung erheblich erschwert oder unmöglich wäre, oder die Erteilung der Bewilligung im Interesse der Nahversorgung liegt\.
 
 > `(5)` Behördliche Erledigungen gemäß den vorstehenden Absätzen können im Wege der automationsunterstützten Datenverarbeitung ohne Unterschrift hergestellt und ausgefertigt werden\.
+
+\[ [🔗 Permalink](#-45-stvo--ausnahmen-in-einzelfällen) \]
 
 ### § 46 StVO — Autobahnen
 
@@ -1365,9 +1477,13 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Stockt der Verkehr auf einer Richtungsfahrbahn in einem Abschnitt mit mindestens zwei Fahrstreifen, so müssen Fahrzeuge für die Durchfahrt von Einsatzfahrzeugen in der Mitte zwischen den Fahrstreifen, in Abschnitten mit mehr als zwei Fahrstreifen zwischen dem äußerst linken und dem daneben liegenden Fahrstreifen, eine freie Gasse bilden \(Rettungsgasse\); diese Gasse darf, außer von Einsatzfahrzeugen, nur von Fahrzeugen des Straßendienstes, Fahrzeugen des Pannendienstes und Leichenwägen benützt werden\.
 
+\[ [🔗 Permalink](#-46-stvo--autobahnen) \]
+
 ### § 47 StVO — Autostraßen
 
 > Autostraßen sind Vorrangstraßen; für sie gelten die im § 46 Abs\. 1, 3, 4 und 6 enthaltenen Bestimmungen über den Verkehr auf Autobahnen sinngemäß\.
+
+\[ [🔗 Permalink](#-47-stvo--autostraßen) \]
 
 ## D. Straßenverkehrszeichen.
 
@@ -1395,6 +1511,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Wenn es die Verkehrssicherheit erfordert, insbesondere bei unübersichtlichem Straßenverlauf, sind in angemessener Entfernung vor einem nach den Bestimmungen der §§ 49, 50, 52 oder 53 angebrachten Straßenverkehrszeichen ein oder mehrere gleiche Zeichen \- ausgenommen beim Zeichen „Halt“ \- anzubringen, unter denen auf einer Zusatztafel nach § 54 Abs\. 5 lit\. a die Entfernung bis zu der Straßenstelle anzugeben ist, auf die sich das Straßenverkehrszeichen bezieht\. Dies gilt insbesondere für die Gefahrenzeichen „Fußgängerübergang“ und „Voranzeiger für Verkehrsampel“, für die Vorschriftszeichen „Vorrang geben“ und „Wartepflicht bei Gegenverkehr“ sowie für das Hinweiszeichen „Krankenhaus“\. Wird das Vorschriftszeichen „Halt“ vorangekündigt, so ist hiefür das Vorschriftszeichen „Vorrang geben“ mit einer Zusatztafel nach § 54 Abs\. 5 lit\. c zu verwenden\.
 
+\[ [🔗 Permalink](#-48-stvo--anbringung-der-straßenverkehrszeichen) \]
+
 ### § 49 StVO — Allgemeines über Gefahrenzeichen
 
 > `(1)` Die Gefahrenzeichen kündigen an, daß sich in der Fahrtrichtung auf der Fahrbahn Gefahrenstellen befinden\. Die Lenker von Fahrzeugen haben sich in geeigneter Weise, erforderlichenfalls durch Verminderung der Geschwindigkeit, der angekündigten Gefahr entsprechend zu verhalten\.
@@ -1404,6 +1522,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Wenn es jedoch der Verkehrssicherheit besser entspricht, sind die Gefahrenzeichen in einer anderen als im Abs\. 2 bezeichneten Entfernung anzubringen\. In einem solchen Fall ist auf Freilandstraßen unter dem Zeichen auf einer Zusatztafel nach § 54 Abs\. 5 lit\. a die Entfernung bis zur Gefahrenstelle anzugeben\.
 
 > `(4)` Wenn sich Gefahrenstellen über einen längeren Straßenabschnitt erstrecken \(wie etwa Gefälle, Schleudergefahr, Steinschlag, Wildwechsel u\. a\.\) und dies nicht erkennbar ist oder nicht vermutet werden kann, so ist auf einer Zusatztafel nach § 54 Abs\. 5 lit\. b die Länge der Gefahrenstelle anzugeben\. Innerhalb einer längeren Gefahrenstelle ist das betreffende Gefahrenzeichen zu wiederholen, wenn dies die Verkehrssicherheit erfordert\.
+
+\[ [🔗 Permalink](#-49-stvo--allgemeines-über-gefahrenzeichen) \]
 
 ### § 50 StVO — Die Gefahrenzeichen
 
@@ -1598,6 +1718,8 @@ Der Nationalrat hat beschlossen:
 >
 > Dieses Zeichen kündigt andere als in Z 1 bis 15 angeführte Gefahrenstellen an\. Auf einer Zusatztafel unter dem Zeichen kann die Gefahr näher bezeichnet werden, wie etwa Bankett nicht befahrbar, Holzbringung, Lawinengefahr, Wasserschutzgebiet u\. dgl\.
 
+\[ [🔗 Permalink](#-50-stvo--die-gefahrenzeichen) \]
+
 ### § 51 StVO — Allgemeines über Vorschriftszeichen
 
 > `(1)` Die Vorschriftszeichen sind vor der Stelle, für die sie gelten, anzubringen\. Gilt die Vorschrift für eine längere Straßenstrecke, so ist das Ende der Strecke durch ein gleiches Zeichen, unter dem eine Zusatztafel mit der Aufschrift „ENDE“ anzubringen ist, kenntlich zu machen, sofern sich aus den Bestimmungen des § 52 nichts anderes ergibt\. Innerhalb dieser Strecke ist das Zeichen zu wiederholen, wenn es die Verkehrssicherheit erfordert\. Gilt ein Überholverbot oder eine Geschwindigkeitsbeschränkung für eine Straßenstrecke von mehr als 1 km, so ist bei den betreffenden Vorschriftszeichen die Länge der Strecke mit einer Zusatztafel nach § 54 Abs\. 5 lit\. b anzugeben, wenn es die Verkehrssicherheit erfordert; dies gilt für allfällige Wiederholungszeichen sinngemäß\.
@@ -1609,6 +1731,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Für die Anbringung von Vorschriftszeichen, die sich auf ein ganzes Ortsgebiet oder auf Straßen mit bestimmten Merkmalen innerhalb eines Ortsgebietes beziehen, gilt § 44 Abs\. 4\.
 
 > `(5)` Mündet in einen Straßenabschnitt, für den durch Vorschriftszeichen Verkehrsbeschränkungen kundgemacht sind, eine andere Straße ein, so können diese Beschränkungen auch schon auf der einmündenden Straße durch die betreffenden Vorschriftszeichen mit einer Zusatztafel mit Pfeilen angezeigt werden\. Solche Zeichen sind im Ortsgebiet höchstens 20 m und auf Freilandstraßen höchstens 50 m vor der Einmündung anzubringen\.
+
+\[ [🔗 Permalink](#-51-stvo--allgemeines-über-vorschriftszeichen) \]
 
 ### § 52 StVO — Die Vorschriftszeichen
 
@@ -1980,6 +2104,8 @@ Der Nationalrat hat beschlossen:
 > ![BG.StVO.obj.BN.NOR40261453.H.img59is.png](BG.StVO.obj.BN.NOR40261453.H.img59is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img59is.png")  
 > &nbsp; Dieses Zeichen zeigt das Ende einer Vorrangstraße an\.
 
+\[ [🔗 Permalink](#-52-stvo--die-vorschriftszeichen) \]
+
 ### § 53 StVO — Die Hinweiszeichen
 
 > `(1)` Die Hinweiszeichen weisen auf verkehrswichtige Umstände hin\. Hinweiszeichen sind die folgenden Zeichen:
@@ -2347,6 +2473,8 @@ Der Nationalrat hat beschlossen:
 >> `undefined` „Ende einer Fahrradstraße, einer Schulstraße, eines Radweges oder eines Geh\- und Radweges ohne Benützungspflicht“  
 >> &nbsp; Ein roter Querbalken von links unten nach rechts oben in den Zeichen nach Z 26, 26a, 27, 28 und 29 zeigt das Ende der jeweiligen Fahrradstraße, Schulstraße oder Radfahranlage an\.
 
+\[ [🔗 Permalink](#-53-stvo--die-hinweiszeichen) \]
+
 ### § 54 StVO — Zusatztafeln
 
 > `(1)` Unter den in den §§ 50, 52 und 53 genannten Straßenverkehrszeichen sowie unter den in § 38 genannten Lichtzeichen können auf Zusatztafeln weitere, das Straßenverkehrszeichen oder Lichtzeichen erläuternde oder wichtige, sich auf das Straßenverkehrszeichen oder Lichtzeichen beziehende, dieses erweiternde oder einschränkende oder der Sicherheit oder Leichtigkeit des Verkehrs dienliche Angaben gemacht werden\.
@@ -2414,6 +2542,8 @@ Der Nationalrat hat beschlossen:
 > ![BG.StVO.obj.BN.NOR40245684.image014.png](BG.StVO.obj.BN.NOR40245684.image014.png "~/Dokumente/Bundesnormen/NOR40245684/image014.png") ![BG.StVO.obj.BN.NOR40245684.image015.jpg](BG.StVO.obj.BN.NOR40245684.image015.jpg "~/Dokumente/Bundesnormen/NOR40245684/image015.jpg")  
 > &nbsp; Eine solche Zusatztafel neben einem roten Lichtzeichen zeigt an, dass i\. S\. von § 38 Abs\. 5a die Lenker von Fahrrädern trotz rotem Licht rechts abbiegen bzw\. bei T\-Kreuzungen geradeaus fahren dürfen\.
 
+\[ [🔗 Permalink](#-54-stvo--zusatztafeln) \]
+
 ## E. Verkehrsleiteinrichtungen.
 
 ### § 55 StVO — Bodenmarkierungen auf der Straße
@@ -2435,6 +2565,8 @@ Der Nationalrat hat beschlossen:
 > `(8)` Abweichend von Abs\. 6 sind die in § 24 Abs\. 1 lit\. p und 3 lit\. a genannten Linien in gelber Farbe auszuführen; die in § 24 Abs\. 3 lit\. a angeführten Linien sind überdies abweichend von Abs\. 2 als unterbrochene Linien auszuführen\. Die genannten Linien sind außerhalb einer allenfalls vorhandenen Randlinie anzubringen und können bei Vorhandensein eines Gehsteigs auch auf diesem in einer Entfernung von nicht mehr als 0,30 m zum Fahrbahnrand angebracht werden\.
 > *\(Anm\.: Abs\. 9 aufgehoben durch BGBl\. Nr\. 518/1994\)*
 
+\[ [🔗 Permalink](#-55-stvo--bodenmarkierungen-auf-der-straße) \]
+
 ### § 56 StVO — Schutzwegmarkierungen
 
 > `(1)` In Ortsgebieten sind auf Straßenstellen, wo ständig betriebene Lichtzeichen zur Regelung des Verkehrs oder zur Abgabe blinkenden gelben Lichtes vorhanden sind, auch Schutzwege \(§ 2 Abs\. 1 Z 12\) in entsprechender Anzahl anzulegen, sofern für den Fußgängerverkehr nicht in anderer Weise, etwa durch Über\- oder Unterführungen, Vorsorge getroffen ist\.
@@ -2442,6 +2574,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Auf anderen als den in Abs\. 1 bezeichneten Straßenstellen sind Schutzwege dann anzulegen, wenn es Sicherheit und Umfang des Fußgängerverkehrs erfordern\. Die Benützung solcher Schutzwege ist durch Lichtzeichen zu regeln\.
 
 > `(3)` Solange es die Verkehrsverhältnisse nicht erfordern, kann von einer Regelung des Verkehrs durch Lichtzeichen bei den in Abs\. 2 genannten Schutzwegen Abstand genommen werden\. In diesem Falle ist der Schutzweg mit blinkendem gelbem Licht \(§ 38 Abs\. 3\) oder mit dem Hinweiszeichen nach § 53 Z 2a \(„Kennzeichnung eines Schutzweges“\) zu kennzeichnen\.
+
+\[ [🔗 Permalink](#-56-stvo--schutzwegmarkierungen) \]
 
 ### § 56a StVO — Radfahrerüberfahrtmarkierungen
 
@@ -2451,11 +2585,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Solange es die Verkehrsverhältnisse nicht erfordern, kann von einer Regelung des Verkehrs durch Lichtzeichen bei den in Abs\. 2 genannten Radfahrerüberfahrten Abstand genommen werden\. In diesem Falle ist die Radfahrerüberfahrt mit blinkendem gelben Licht oder mit dem Hinweiszeichen nach § 53 Abs\. 1 Z 2b \(„Kennzeichnung einer Radfahrerüberfahrt“\) zu kennzeichnen\.
 
+\[ [🔗 Permalink](#-56a-stvo--radfahrerüberfahrtmarkierungen) \]
+
 ### § 57 StVO — Einrichtungen neben und auf der Fahrbahn
 
 > `(1)` Zur besseren Kenntlichmachung des Verlaufes einer Straße können neben der Fahrbahn Leitpflöcke, Leitplanken, Leitbaken, Leitmale, Schneestangen u\. dgl\. angebracht werden\. Überdies können, wenn es die Anlageverhältnisse der Straße erfordern, zur Sicherung des Straßenverkehrs Sicherheitsleitschienen, Lauflichtanlagen, andere Anlagen zur Abgabe von blinkendem Licht oder ähnliche Einrichtungen verwendet werden\. Solche Einrichtungen sowie Fahrstreifenbegrenzer, straßenbauliche Einrichtungen u\. dgl\. können zur Ordnung und Sicherung des Verkehrs, insbesondere zur Teilung der Verkehrseinrichtungen, auch auf der Fahrbahn vorgesehen werden\. Außerhalb von Ortsgebieten sind auf Bundes\- und Landesstraßen ab einer Fahrbahnbreite von 5,5 m Randlinien anzubringen\.
 
 > `(2)` Leitplanken, Leitbaken und Leitmale sind zur besseren Erkennbarkeit mit rückstrahlendem Material in roter und weißer Farbe auszustatten\. Lauflichtanlagen und andere Anlagen zur Abgabe von blinkendem Licht haben weißgelbes oder gelbes Licht auszustrahlen\. Werden die übrigen Einrichtungen gemäß Abs\. 1 zur besseren Erkennbarkeit mit rückstrahlendem Material ausgestattet, so ist an der rechten Straßenseite im Sinne der Fahrtrichtung die Farbe Rot, an der linken die Farbe Weiß zu verwenden\. Kann an solchen Einrichtungen an beiden Seiten vorbeigefahren werden, so ist die Farbe Gelb zu verwenden\. Anstelle des rückstrahlenden Materials kann auch eine Lichtquelle in der entsprechenden Farbe verwendet werden\.
+
+\[ [🔗 Permalink](#-57-stvo--einrichtungen-neben-und-auf-der-fahrbahn) \]
 
 ## V. ABSCHNITT.
 
@@ -2471,6 +2609,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist der Lenker eines Fahrzeuges nicht auch dessen Besitzer, bei Kraftfahrzeugen dessen Zulassungsbesitzer, so hat er, wenn sich das Fahrzeug oder die Ladung nicht in einem den rechtlichen Vorschriften entsprechenden Zustand befindet, dies dem Besitzer des Fahrzeuges oder dem Verfügungsberechtigten, bei Kraftfahrzeugen dem Zulassungsbesitzer, zu melden\.
 
+\[ [🔗 Permalink](#-58-stvo--lenker-von-fahrzeugen) \]
+
 ### § 59 StVO — Verbot des Lenkens von Fahrzeugen
 
 > `(1)` Die Behörde hat einer Person das Lenken eines Fahrzeuges, das ohne besondere Berechtigung gelenkt werden darf, ausdrücklich zu verbieten, wenn diese
@@ -2483,6 +2623,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soll eine Verfügung nach Abs\. 1 oder 2 für zwei oder mehrere Bundesländer wirksam werden, so ist hiefür die Landesregierung, in deren örtlichem Wirkungsbereich die Partei ihren Wohnsitz hat, zuständig\. Diese Behörde hat das Einvernehmen mit den anderen in Betracht kommenden Landesregierungen herzustellen\.
 
+\[ [🔗 Permalink](#-59-stvo--verbot-des-lenkens-von-fahrzeugen) \]
+
 ### § 60 StVO — Zustand und Beleuchtung der Fahrzeuge
 
 > `(1)` Ein Fahrzeug darf auf Straßen nur verwendet werden, wenn es so gebaut und ausgerüstet ist, daß durch seinen sachgemäßen Betrieb Personen nicht gefährdet oder durch Geruch, Geräusch, Staub, Schmutz u\. dgl\. nicht über das gewöhnliche Maß hinaus belästigt oder Sachen, insbesondere die Fahrbahn, nicht beschädigt werden\.
@@ -2492,6 +2634,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Während der Dämmerung, bei Dunkelheit oder Nebel oder wenn es die Witterung sonst erfordert, sind Fahrzeuge auf der Fahrbahn zu beleuchten; ausgenommen hievon sind Fahrräder, die geschoben werden\. Weißes Licht darf nicht nach hinten und rotes Licht nicht nach vorne leuchten\. Eine Beleuchtung des Fahrzeuges darf unterbleiben, wenn es stillsteht und die sonstige Beleuchtung ausreicht, um es aus einer Entfernung von ungefähr 50 m zu erkennen\.
 
 > `(4)` Wenn es die Verkehrssicherheit erfordert, hat der Bundesminister für Verkehr, Innovation und Technologie unter Bedachtnahme auf den jeweiligen Stand der Technik nähere Vorschriften über die Ausführung und Beschaffenheit der an Fahrzeugen anzubringenden Rückstrahleinrichtungen einschließlich der gelben Rückstrahler an den Pedalen von Fahrrädern und über ihre Lichtwirkungen durch Verordnung zu erlassen\.
+
+\[ [🔗 Permalink](#-60-stvo--zustand-und-beleuchtung-der-fahrzeuge) \]
 
 ### § 61 StVO — Verwahrung der Ladung
 
@@ -2507,6 +2651,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Ist die Ladung ganz oder teilweise auf die Straße gefallen, so hat der Lenker zunächst allenfalls erforderliche Maßnahmen zur Verhinderung von Verkehrsstörungen zu treffen, das Beförderungsgut von der Straße zu entfernen und die Straße zu reinigen\.
 
+\[ [🔗 Permalink](#-61-stvo--verwahrung-der-ladung) \]
+
 ### § 62 StVO — Ladetätigkeit
 
 > `(1)` Durch eine Ladetätigkeit auf Straßen, das ist das Beladen oder Entladen von Fahrzeugen sowie das Abschlauchen von Flüssigkeiten aus Fahrzeugen oder in Fahrzeuge, darf die Sicherheit des Verkehrs nicht und die Leichtigkeit des Verkehrs nicht wesentlich beeinträchtigt werden\.
@@ -2519,6 +2665,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Eine Bewilligung nach Abs\. 4 ist von der Behörde zu erteilen, wenn die Ladetätigkeit an einer anderen Stelle besonders umständlich wäre und weder eine Beschädigung des Gehsteiges oder seiner Einbauten noch eine Beeinträchtigung der Sicherheit oder eine wesentliche Behinderung des Verkehrs zu befürchten ist\. Auf Grund der Bewilligung dürfen nicht nur die Ladetätigkeiten des Antragstellers, sondern auch alle anderen im wesentlichen gleichartigen Ladetätigkeiten ausgeübt werden\. Auch ein Organ der Straßenaufsicht darf eine solche Bewilligung erteilen, jedoch nur dann, wenn es sich um einen dringenden Einzelfall handelt und die sonstigen Voraussetzungen zur Erteilung vorliegen; das Aufstellen von Fahrzeugen auf Gehsteigen darf ein Organ der Straßenaufsicht jedoch nicht bewilligen\.
 
+\[ [🔗 Permalink](#-62-stvo--ladetätigkeit) \]
+
 ### § 64 StVO — Sportliche Veranstaltungen auf Straßen
 
 > `(1)` Wer auf der Straße sportliche Veranstaltungen wie Wettlaufen, Wettfahren usw\. durchführen will, bedarf hiezu der Bewilligung der Behörde\. Die Bewilligung darf nur erteilt werden, wenn die Veranstaltung die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs nicht wesentlich beeinträchtigt und schädliche Einwirkungen auf die Bevölkerung und die Umwelt durch Lärm, Geruch oder Schadstoffe nicht zu erwarten sind\.
@@ -2530,6 +2678,8 @@ Der Nationalrat hat beschlossen:
 > `(3a)` Wer auf der Straße kraftfahrsportliche Veranstaltungen, einschließlich Rennen, Wettbewerbe, Trainings, Tests und Demonstrationen durchführt, bedarf der Bewilligung der Behörde\. Für den Fall der für den gesamten übrigen Verkehr gesperrten Straße darf die Bewilligung nur dann erteilt werden, wenn der Veranstalter eine Haftpflichtversicherung im Sinne des Abs\. 2 abgeschlossen hat\.
 
 > `(4)` Erstreckt sich eine sportliche Veranstaltung auf zwei oder mehrere Bundesländer, so ist zur Erteilung der Bewilligung nach Abs\. 1 die Landesregierung zuständig, in deren örtlichem Wirkungsbereich die Veranstaltung beginnt; das Einvernehmen mit den übrigen in Betracht kommenden Landesregierungen ist herzustellen\.
+
+\[ [🔗 Permalink](#-64-stvo--sportliche-veranstaltungen-auf-straßen) \]
 
 ## VI. ABSCHNITT.
 
@@ -2549,6 +2699,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Radfahrer, die auf dem Fahrrad Personen mitführen, müssen das 16\. Lebensjahr vollendet haben\. Ist die mitgeführte Person noch nicht acht Jahre alt, so muß für sie ein eigener, der Größe des Kindes entsprechender Sitz vorhanden sein\. Ist die mitgeführte Person mehr als acht Jahre alt, so darf nur ein Fahrrad verwendet werden, das hinsichtlich seiner Bauart den Anforderungen der Produktsicherheitsbestimmungen für Fahrräder zum Transport mehrerer Personen \(§ 104 Abs\. 8\) entspricht\.
 
+\[ [🔗 Permalink](#-65-stvo--benützung-von-fahrrädern) \]
+
 ### § 66 StVO — Beschaffenheit von Fahrrädern, Fahrradanhängern und Kindersitzen
 
 > `(1)` Fahrräder müssen der Größe des Benützers entsprechen\. Fahrräder, Fahrradanhänger und Kindersitze müssen in einem Zustand erhalten werden, der den Anforderungen der Produktsicherheitsbestimmungen für Fahrräder \(§ 104 Abs\. 8\) entspricht\.
@@ -2561,6 +2713,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` das Ladegewicht, das bei der Beförderung von Lasten oder Personen mit Fahrrädern oder mit Fahrradanhängern nicht überschritten werden darf\.
 
+\[ [🔗 Permalink](#-66-stvo--beschaffenheit-von-fahrrädern-fahrradanhängern-und-kindersitzen) \]
+
 ### § 67 StVO — Fahrradstraße
 
 > `(1)` Die Behörde kann, wenn es der Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs, insbesondere des Fahrradverkehrs, oder der Entflechtung des Verkehrs dient oder aufgrund der Lage, Widmung oder Beschaffenheit eines Gebäudes oder Gebietes im öffentlichen Interesse gelegen ist, durch Verordnung Straßen oder Straßenabschnitte dauernd oder zeitweilig zu Fahrradstraßen erklären\. In einer solchen Fahrradstraße ist außer dem Fahrradverkehr jeder Fahrzeugverkehr verboten; ausgenommen davon ist das Befahren mit den in § 76a Abs\. 5 genannten Fahrzeugen sowie das Befahren zum Zweck des Zu\- und Abfahrens\.
@@ -2570,6 +2724,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Lenker von Fahrzeugen dürfen in Fahrradstraßen nicht schneller als 30 km/h fahren\. Radfahrer dürfen weder gefährdet noch behindert werden\.
 
 > `(4)` Für die Kundmachung einer Verordnung nach Abs\. 1 gelten die Bestimmungen des § 44 Abs\. 1 mit der Maßgabe, dass am Anfang und am Ende einer Fahrradstraße die betreffenden Hinweiszeichen \(§ 53 Abs\. 1 Z 26 und 29\) anzubringen sind\.
+
+\[ [🔗 Permalink](#-67-stvo--fahrradstraße) \]
 
 ### § 68 StVO — Fahrradverkehr
 
@@ -2599,6 +2755,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Kinder unter 12 Jahren müssen beim Rad fahren, beim Transport in einem Fahrradanhänger und wenn sie auf einem Fahrrad mitgeführt werden, einen Sturzhelm in bestimmungsgemäßer Weise gebrauchen\. Dies gilt nicht, wenn der Gebrauch des Helms wegen der körperlichen Beschaffenheit des Kindes nicht möglich ist\. Wer ein Kind beim Rad fahren beaufsichtigt, auf einem Fahrrad mitführt oder in einem Fahrradanhänger transportiert, muss dafür sorgen, dass das Kind den Sturzhelm in bestimmungsgemäßer Weise gebraucht\. Im Falle eines Verkehrsunfalls begründet das Nichttragen des Helms kein Mitverschulden im Sinne des § 1304 des allgemeinen bürgerlichen Gesetzbuches, JGS Nr\. 946/1811, an den Folgen des Unfalls\.
 
+\[ [🔗 Permalink](#-68-stvo--fahrradverkehr) \]
+
 ### § 69 StVO — Motorfahrräder
 
 > `(1)` Mit Motorfahrrädern ist ausschließlich die Fahrbahn zu benützen\.
@@ -2613,6 +2771,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; *\(Anm\.: lit\. c aufgehoben durch BGBl\. I Nr\. 122/2022\)*
 
+\[ [🔗 Permalink](#-69-stvo--motorfahrräder) \]
+
 ## VII. ABSCHNITT.
 
 ## Besondere Vorschriften für den Fuhrwerksverkehr.
@@ -2626,6 +2786,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Der Besitzer eines Fuhrwerkes hat dafür zu sorgen, daß es nur im vorschriftsmäßigen Zustand in Betrieb genommen wird\. Werden Frachtstücke auf geteilte Fahrzeuge geladen, deren rückwärtiger Teil frei beweglich ist, so ist dem Fuhrwerk eine zweite Person beizugeben, die das Ende des Fuhrwerkes zu beaufsichtigen und zu bedienen hat\.
 
 > `(4)` Werden auf einem Fuhrwerk Personen befördert, so hat der Lenker dafür zu sorgen, daß sie so untergebracht sind, daß sie den sicheren Betrieb des Fuhrwerkes und die Verkehrssicherheit nicht beeinträchtigen und gefahrlos befördert werden können\.
+
+\[ [🔗 Permalink](#-70-stvo--lenkung-von-fuhrwerken) \]
 
 ### § 71 StVO — Maße und Gewichte
 
@@ -2645,6 +2807,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `(5)` Die im Abs\. 4 angeführten Gesamtgewichte dürfen bei mehr als zweispännigen Fuhrwerken überschritten werden, doch darf das Gesamtgewicht keinesfalls 10 t übersteigen\.
 
+\[ [🔗 Permalink](#-71-stvo--maße-und-gewichte) \]
+
 ### § 72 StVO — Beschaffenheit und Ausstattung des Fuhrwerkes
 
 > `(1)` Der Lenker eines Fuhrwerkes, das nicht durch eine Zugmaschine fortbewegt wird, darf keine Vorrichtungen zur Abgabe von Schall\- oder Blinkzeichen \(§ 22\) verwenden\. Glocken und Schellen an Zugtieren und Schlitten werden von diesem Verbot nicht berührt\.
@@ -2656,6 +2820,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Zur Verstärkung der Wirkung der Bremsvorrichtungen \(Abs\. 3\) dürfen Radschuhe nur zur Abwendung einer Gefahr und Ketten nur bei Glatteis oder verschneiter Fahrbahn verwendet werden\. Die Glieder der Schneeketten aus starrem Material ohne elastische Überzüge dürfen nicht länger als 3 cm und nicht höher als 2 cm sein\. Sie dürfen weder scharfe Kanten, Ecken, ebene Flächen noch wulstartige Erhöhungen aufweisen und müssen so am Rad befestigt sein, daß eine Schlagwirkung auf die Fahrbahn möglichst vermieden wird\.
 
 > `(5)` Radfelgen, Radreifen und Radschuhe, die wulstartige Erhöhungen, hervorstehende Nägel oder Schrauben aufweisen oder sonst geeignet sind, die Fahrbahn zu beschädigen, dürfen nicht verwendet werden\. Durch das Ziehen von Maschinen und Geräten darf die Fahrbahn nicht beschädigt werden\.
+
+\[ [🔗 Permalink](#-72-stvo--beschaffenheit-und-ausstattung-des-fuhrwerkes) \]
 
 ### § 73 StVO — Beleuchtung des Fuhrwerkes
 
@@ -2669,6 +2835,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Beleuchtungseinrichtungen und Rückstrahler müssen in einem solchen Zustand gehalten werden, daß sie voll wirksam sind\.
 
+\[ [🔗 Permalink](#-73-stvo--beleuchtung-des-fuhrwerkes) \]
+
 ### § 74 StVO — Bespannung
 
 > `(1)` Die Zugtiere müssen zum Ziehen des Fuhrwerkes tauglich sein\. Lahme oder übermüdete Tiere sowie solche, deren Eignung zum Ziehen eines Fuhrwerkes insbesondere durch äußerlich erkennbare Leiden oder Wunden herabgemindert ist, dürfen nicht als Zugtiere verwendet werden\.
@@ -2679,6 +2847,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Geschirr und Zügel müssen zweckmäßig sein und sich in gutem Zustand befinden\. Die Verwendung von Gabelzügeln ist verboten\.
 
+\[ [🔗 Permalink](#-74-stvo--bespannung) \]
+
 ### § 75 StVO — Ankoppeln
 
 > `(1)` An ein Fuhrwerk darf nur ein weiteres Fuhrwerk angekoppelt werden\. Dies gilt jedoch nur dann, wenn beide Fuhrwerke mit besonders leichtem Gut oder nur mäßig beladen sind oder wenn das zweite Fuhrwerk unbeladen, ein zweirädriger Karren oder ein Handwagen ist\. Das Fuhrwerk ist so anzukoppeln, daß es nicht losreißen kann\.
@@ -2686,6 +2856,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Länge des gekoppelten Wagenzuges einschließlich der Deichsel und der Ladung darf 16 m nicht überschreiten\.
 
 > `(3)` Die Bestimmungen der Abs\. 1 und 2 gelten auch für das Ankoppeln von Fuhrwerken an Kraftfahrzeuge, sofern sich aus den kraftfahrrechtlichen Vorschriften nichts anderes ergibt\.
+
+\[ [🔗 Permalink](#-75-stvo--ankoppeln) \]
 
 ## VIII. ABSCHNITT.
 
@@ -2716,6 +2888,8 @@ Der Nationalrat hat beschlossen:
 > `(9)` Mit anderen als den im Abs\. 1 genannten Kleinfahrzeugen und von Lastenträgern dürfen Gehsteige, Gehwege oder Straßenbankette dann benützt werden, wenn der Fußgängerverkehr dadurch nicht übermäßig behindert wird\. Jedoch dürfen Gehsteige oder Gehwege mit Schubkarren in Ortsgebieten in der Nähe von Baustellen, landwirtschaftlichen Betrieben oder Gärten in Längsrichtung befahren werden\.
 
 > `(10)` entfällt\.
+
+\[ [🔗 Permalink](#-76-stvo--fußverkehr) \]
 
 ### § 76a StVO — Fußgängerzone
 
@@ -2755,6 +2929,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Fußgänger dürfen in Fußgängerzonen auch die Fahrbahn benützen\. Sie dürfen dabei aber den erlaubten Fahrzeugverkehr nicht mutwillig behindern\.
 
+\[ [🔗 Permalink](#-76a-stvo--fußgängerzone) \]
+
 ### § 76b StVO — Wohnstraße
 
 > `(1)` Die Behörde kann, wenn es die Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs, insbesondere des Fußgängerverkehrs, die Entflechtung des Verkehrs oder die Lage, Widmung oder Beschaffenheit eines Gebäudes oder Gebietes erfordert, durch Verordnung Straßenstellen oder Gebiete dauernd oder zeitweilig zu Wohnstraßen erklären\. In einer solchen Wohnstraße ist der Fahrzeugverkehr verboten; ausgenommen davon sind der Fahrradverkehr, das Befahren mit Fahrzeugen des Straßendienstes, der Müllabfuhr, des öffentlichen Sicherheitsdienstes, der Strafvollzugsverwaltung und der Feuerwehr in Ausübung des Dienstes sowie das Befahren zum Zwecke des Zu\- und Abfahrens\.
@@ -2766,6 +2942,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Die Anbringung von Schwellen, Rillen, Bordsteinen u\. dgl\. sowie von horizontalen baulichen Einrichtungen ist in verkehrsgerechter Gestaltung zulässig, wenn dadurch die Einhaltung der Schrittgeschwindigkeit nach Abs\. 3 gewährleistet wird\.
 
 > `(5)` Für die Kundmachung einer Verordnung nach Abs\. 1 gelten die Bestimmungen des § 44 Abs\. 1 mit der Maßgabe, daß am Anfang und am Ende einer Wohnstraße die betreffenden Hinweiszeichen \(§ 53 Abs\. 1 Z 9c bzw\. 9d\) anzubringen sind\.
+
+\[ [🔗 Permalink](#-76b-stvo--wohnstraße) \]
 
 ### § 76c StVO — Begegnungszonen
 
@@ -2781,6 +2959,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Wenn es der Leichtigkeit und Flüssigkeit des Verkehrs dient und aus Gründen der Sicherheit des Verkehrs keine Bedenken dagegen bestehen, kann die Behörde in der Verordnung nach Abs\. 1 die erlaubte Höchstgeschwindigkeit auf 30 km/h erhöhen\.
 
+\[ [🔗 Permalink](#-76c-stvo--begegnungszonen) \]
+
 ### § 76d StVO — Schulstraße
 
 > `(1)` Die Behörde kann, wenn es der Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs, insbesondere des Fußgängerverkehrs, dient, durch Verordnung Straßenstellen oder Gebiete in der unmittelbaren Umgebung von Schulgebäuden, zu Schulstraßen erklären\. Bei der Verordnung ist insbesondere auf Schultage sowie die Tageszeiten von Schulbeginn und Schulende Bedacht zu nehmen\.
@@ -2793,6 +2973,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Für die Kundmachung einer Verordnung nach Abs\. 1 gelten die Bestimmungen des § 44 Abs\. 1 mit der Maßgabe, dass am Anfang und am Ende einer Schulstraße die betreffenden Hinweiszeichen \(§ 53 Abs\. 1 Z 26a und 29\) anzubringen sind\.
 
+\[ [🔗 Permalink](#-76d-stvo--schulstraße) \]
+
 ### § 77 StVO — Geschlossene Züge von Fußgängern
 
 > `(1)` Geschlossene Züge von Fußgängern, insbesondere geschlossene Verbände des Bundesheeres oder des Sicherheitsdienstes, Prozessionen, Leichenbegängnisse und sonstige Umzüge haben die Fahrbahn zu benützen\. Für geschlossene Kinder\- oder Schülergruppen gilt dies jedoch nur dann, wenn Gehsteige, Gehwege oder Straßenbankette nicht vorhanden sind\. Geschlossene Züge von Fußgängern dürfen über Brücken und Stege nicht im Gleichschritt marschieren\. Bei der Benützung der Fahrbahn durch solche Züge gelten die Bestimmungen des II\. Abschnittes sowie die Bestimmungen über die Bedeutung der Arm\- oder Lichtzeichen sinngemäß\.
@@ -2801,6 +2983,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein geschlossener Zug von Fußgängern darf auch durch mitfahrende Fahrzeuge beleuchtet werden\. In einem solchen Falle gelten die Bestimmungen des Abs\. 2 sinngemäß\. Das linke Licht muß in einer Linie mit den links gehenden Personen liegen\.
 
+\[ [🔗 Permalink](#-77-stvo--geschlossene-züge-von-fußgängern) \]
+
 ### § 78 StVO — Verhalten auf Verkehrsflächen mit Fußverkehr
 
 > Auf Verkehrsflächen mit Fußgängerverkehr ist verboten:
@@ -2808,6 +2992,8 @@ Der Nationalrat hat beschlossen:
 >> `a)` andere Straßenbenützer zu gefährden, insbesondere mit Gegenständen, die scharf, spitz oder sonst gefährlich sind sowie
 >
 >> `b)` den Fußgängerverkehr mutwillig zu behindern\.
+
+\[ [🔗 Permalink](#-78-stvo--verhalten-auf-verkehrsflächen-mit-fußverkehr) \]
 
 ## IX. ABSCHNITT.
 
@@ -2823,6 +3009,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Absatz 2 und 3 gelten nicht für Organe der Bundespolizei als Reiter von Dienstpferden\.
 
+\[ [🔗 Permalink](#-79-stvo--reiten) \]
+
 ### § 80 StVO — Viehtrieb
 
 > `(1)` Treiber und Führer von Vieh müssen im Hinblick auf die Anzahl und die Art der Tiere sowie im Hinblick auf die für den Viehtrieb in Betracht kommenden Straßen körperlich und geistig geeignet sein\.
@@ -2837,6 +3025,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Bei Dämmerung und Dunkelheit, starkem Nebel oder wenn es die Witterung sonst erfordert, muß der Viehtrieb, wenn die sonstige Beleuchtung nicht ausreicht, an seinem Anfang durch einen Treiber mit einer nach vorne weiß und an seinem Ende durch einen Treiber mit einer nach hinten rot leuchtenden Lampe gesichert werden\. Beim Treiben oder Führen von einzelnen Tieren genügt eine helleuchtende Lampe\.
 
+\[ [🔗 Permalink](#-80-stvo--viehtrieb) \]
+
 ### § 81 StVO — Weiden an Straßen
 
 > `(1)` Vieh, das auf nicht abgezäunten Grundstücken an Autobahnen oder Vorrangstraßen weidet, muß von Personen, die zum Treiben und Führen von Vieh geeignet sind \(§ 80 Abs\. 1\), beaufsichtigt und von der Straße ferngehalten werden\.
@@ -2846,6 +3036,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Behörde hat Alpgebiete und Gebiete, in denen der unbeaufsichtigte Weidegang nach altem Herkommen üblich ist, von den Bestimmungen des Abs\. 2 überhaupt, von den Bestimmungen des Abs\. 1 dann auszunehmen, wenn nicht erhebliche Bedenken aus Gründen der Verkehrssicherheit entgegenstehen\.
 
 > `(4)` Eine Verordnung gemäß Abs\. 3 ist durch Anschlag auf der Amtstafel der Behörde kundzumachen\.
+
+\[ [🔗 Permalink](#-81-stvo--weiden-an-straßen) \]
 
 ## X. ABSCHNITT.
 
@@ -2879,6 +3071,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Das Aufstellen von Kisten, Brettern, Tafeln u\. dgl\. auf Parkflächen ist unbeschadet der Bestimmungen des Abs\. 1 bis 6 verboten\.
 
+\[ [🔗 Permalink](#-82-stvo--bewilligungspflicht) \]
+
 ### § 83 StVO — Prüfung des Vorhabens
 
 > `(1)` Vor Erteilung einer Bewilligung nach § 82 ist das Vorhaben unter Bedachtnahme auf die gegenwärtigen und zu erwartenden Verkehrsverhältnisse zu prüfen\. Eine wesentliche, die Erteilung der Bewilligung ausschließende Beeinträchtigung der Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs \(§ 82 Abs\. 5\) liegt insbesondere vor, wenn
@@ -2894,6 +3088,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wenn in einer Fußgängerzone, in einer Wohnstraße oder in einer Begegnungszone kein Gehsteig vorhanden ist, so gilt die Maßangabe nach Abs\. 1 lit\. c bezüglich eines Gehsteiges für einen 1,5 m breiten Streifen entlang der Häuserfronten, für den übrigen Teil der Fußgängerzone, Wohnstraße oder Begegnungszone gilt die Angabe bezüglich der Fahrbahn\.
 
 > `(3)` Ist aufgrund bestimmter Tatsachen anzunehmen, dass der Zweck des Vorhabens \(§ 82 Abs\. 1\) gegen die öffentliche Ordnung im Sinne des § 81 SPG oder öffentliche Sicherheit verstößt, so sind davon die Sicherheitsbehörden in Kenntnis zu setzen\. Eine Bewilligung nach § 82 Abs\. 1 ist nicht zu erteilen, wenn die jeweilige Landespolizeidirektion in der Stellungnahme erklärt hat, dass die Durchführung des Vorhabens \(§ 82 Abs\. 1\) eine Gefährdung der öffentlichen Ordnung oder Sicherheit darstellen würde\. Die Stellungnahme ist ohne unnötigen Aufschub, möglichst innerhalb von 10 Werktagen zu übermitteln\.
+
+\[ [🔗 Permalink](#-83-stvo--prüfung-des-vorhabens) \]
 
 ### § 84 StVO — Werbungen und Ankündigungen außerhalb des Straßengrundes
 
@@ -2913,6 +3109,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist eine Werbung oder Ankündigung entgegen der Bestimmung des Abs\. 2 und ohne Bewilligung nach Abs\. 3 angebracht worden, so hat die Behörde die Entfernung ohne weiteres Verfahren zu veranlassen\. Die Kosten für die Entfernung sind vom Besitzer oder Verfügungsberechtigten zu tragen und sind ihm mit Bescheid vorzuschreiben\.
 
+\[ [🔗 Permalink](#-84-stvo--werbungen-und-ankündigungen-außerhalb-des-straßengrundes) \]
+
 ### § 85 StVO — Ausübung von Erwerbstätigkeiten
 
 > `(1)` Die Ausübung von Erwerbstätigkeiten im Umherziehen auf Straßen ist bei starkem Verkehr oder wenn sie mit lärmender Kundenwerbung verbunden ist, in der Nähe von Krankenhäusern, Schulen, Theatern, Kinos, Markthallen, Marktplätzen und dergleichen während der Betriebszeit sowie vor Kirchen während des Gottesdienstes verboten\.
@@ -2921,9 +3119,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Inhabern einer Lizenz zur Ausübung der Bettelmusik ist auf Antrag oder von Amts wegen von der Behörde ein geeigneter Platz zur Ausübung dieser Tätigkeit unter Bedachtnahme auf die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs anzuweisen\.
 
+\[ [🔗 Permalink](#-85-stvo--ausübung-von-erwerbstätigkeiten) \]
+
 ### § 86 StVO — Umzüge
 
 > Sofern eine Benützung der Straße hiefür in Betracht kommt, sind, unbeschadet sonstiger Rechtsvorschriften, Versammlungen unter freiem Himmel, öffentliche oder ortsübliche Umzüge, volkstümliche Feste, Prozessionen oder dergleichen von den Veranstaltern drei Tage, Leichenbegängnisse von der Leichenbestattung 24 Stunden vorher der Behörde anzuzeigen\.
+
+\[ [🔗 Permalink](#-86-stvo--umzüge) \]
 
 ### § 87 StVO — Wintersport auf Straßen
 
@@ -2932,6 +3134,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Eine Verordnung nach Abs\. 1 ist durch Anschlag auf der Amtstafel der Behörde kundzumachen\.
 
 > `(3)` Personen, die auf Straßen skifahren, schlittschuhlaufen oder rodeln, haben auf andere Straßenbenützer Rücksicht zu nehmen und ihnen auszuweichen\.
+
+\[ [🔗 Permalink](#-87-stvo--wintersport-auf-straßen) \]
 
 ### § 88 StVO — Spielen auf Straßen
 
@@ -2942,6 +3146,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Spiele auf Gehsteigen oder Gehwegen und deren Befahren mit fahrzeugähnlichem Spielzeug und ähnlichen Bewegungsmitteln in Schrittgeschwindigkeit sind gestattet, wenn hiedurch der Verkehr auf der Fahrbahn oder Fußgänger nicht gefährdet oder behindert werden\. Kinder unter zwölf Jahren müssen beim Befahren von Gehsteigen oder Gehwegen mit den genannten Geräten von einer Person, die das 16\. Lebensjahr vollendet hat, beaufsichtigt werden, wenn sie nicht Inhaber eines Radfahrausweises gemäß § 65 sind\. Die Beaufsichtigungspflicht entfällt für Kinder über 8 Jahren für die Benützung der genannten Geräte, sofern diese ausschließlich durch Muskelkraft betrieben werden\.
 
 > `(3)` Es ist verboten, die Ordnung des Straßenverkehrs durch Werfen von Steinen, Schießen mit Schleudern, Auslösen von Knallpräparaten, Eisschleifen, Eisstockschießen, Blenden mit Spiegeln und ähnlichen Betätigungen zu stören oder Straßenbenützer auf diese Weise zu belästigen\.
+
+\[ [🔗 Permalink](#-88-stvo--spielen-auf-straßen) \]
 
 ### § 88a StVO — Rollschuhfahren
 
@@ -2961,6 +3167,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Kinder unter zwölf Jahren dürfen auf Straßen mit öffentlichem Verkehr, außer in Wohnstraßen, nur unter Aufsicht einer Person, die das 16\. Lebensjahr vollendet hat, rollschuhfahren, wenn sie nicht Inhaber eines Radfahrausweises gemäß § 65 sind\.
 
+\[ [🔗 Permalink](#-88a-stvo--rollschuhfahren) \]
+
 ### § 88b StVO — Rollerfahren
 
 > `(1)` Das Fahren mit Klein\- und Minirollern mit elektrischem Antrieb \(elektrisch betriebene Klein\- und Miniroller\) ist auf Gehsteigen, Gehwegen und Schutzwegen verboten\. Ausgenommen von diesem Verbot sind Gehsteige und Gehwege, auf denen durch Verordnung der Behörde das Fahren mit elektrisch betriebenen Klein\- und Minirollern mit einer höchsten zulässigen Leistung von nicht mehr als 600 Watt und einer Bauartgeschwindigkeit von nicht mehr als 25 km/h erlaubt wurde\. Das Fahren ist ferner mit elektrisch betriebenen Klein\- und Minirollern mit einer höchsten zulässigen Leistung von nicht mehr als 600 Watt und einer Bauartgeschwindigkeit von nicht mehr als 25 km/h auf Fahrbahnen, auf denen das Radfahren erlaubt ist, zulässig\.
@@ -2973,6 +3181,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Elektrisch betriebene Klein\- und Miniroller sind mit einer wirksamen Bremsvorrichtung, mit Rückstrahlern oder Rückstrahlfolien, die nach vorne in weiß, nach hinten in rot und zur Seite in gelb wirken sowie bei Dunkelheit und schlechter Sicht mit weißem Licht nach vorne und rotem Rücklicht auszurüsten\.
 
+\[ [🔗 Permalink](#-88b-stvo--rollerfahren) \]
+
 ## XI. ABSCHNITT.
 
 ## Verkehrserschwernisse.
@@ -2982,6 +3192,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Gegenstände, die auf der Straße stehen oder liegen, sind von den Verfügungsberechtigten durch das Gefahrenzeichen „Andere Gefahren“ und bei Dämmerung, Dunkelheit, Nebel oder wenn es die Witterung sonst erfordert durch Lampen kenntlich zu machen\. Kann nur an einer Seite vorbeigefahren werden, so ist der Gegenstand für diejenigen, die links vorbeifahren, durch rotes Licht und für diejenigen, die rechts vorbeifahren, durch weißes Licht zu kennzeichnen\. Kann an beiden Seiten vorbeigefahren werden, so ist der Gegenstand durch gelbes Licht zu kennzeichnen\. Die Kennzeichnung darf unterbleiben, wenn die Gegenstände am Straßenrand so gelagert sind, daß niemand gefährdet oder behindert wird und sie bei schlechten Sichtverhältnissen durch rückstrahlendes Material oder eine sonstige Beleuchtung erkennbar sind\. Dauernde Absperrungen, wie etwa Mautschranken u\. dgl\., müssen ständig gut erkennbar sein\.
 
 > `(2)` Ist ein mehrspuriges Fahrzeug auf einer Freilandstraße auf einer unübersichtlichen Straßenstelle, bei durch Witterung bedingter schlechter Sicht, Dämmerung oder Dunkelheit zum Stillstand gelangt, so hat der Lenker diesen Umstand unverzüglich den Lenkern anderer, auf dem verlegten Fahrstreifen herannahender Fahrzeuge durch das Aufstellen einer nach den kraftfahrrechtlichen Vorschriften genehmigten Warneinrichtung anzuzeigen\. Diese Warneinrichtung ist auf dem verlegten Fahrstreifen in der Richtung des ankommenden Verkehrs in einer der Verkehrssicherheit entsprechenden Entfernung von dem zum Stillstand gelangten Fahrzeug aufzustellen, damit sich die Lenker herannahender Fahrzeuge rechtzeitig auf das Verkehrshindernis einstellen können\.
+
+\[ [🔗 Permalink](#-89-stvo--kennzeichnung-von-verkehrshindernissen) \]
 
 ### § 89a StVO — Entfernung von Hindernissen
 
@@ -3031,6 +3243,8 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Durch die Bestimmungen der Abs\. 2 bis 7 werden Rechtsvorschriften über gefundene oder vom Eigentümer preisgegebene Sachen nicht berührt\. Ist die Entsorgung einer preisgegebenen Sache erforderlich, so sind die Kosten hierfür vom letzten Eigentümer, im Fall eines Kraftfahrzeuges vom letzten Zulassungsbesitzer, zu tragen\. Wird die Bezahlung der Kosten verweigert, so sind die Kosten dem letzten Eigentümer, im Fall eines Kraftfahrzeuges dem letzten Zulassungsbesitzer mit Bescheid vorzuschreiben\. Ein bei der Entsorgung erzielter Gewinn ist von den Kosten in Abzug zu bringen\.
 
+\[ [🔗 Permalink](#-89a-stvo--entfernung-von-hindernissen) \]
+
 ### § 90 StVO — Arbeiten auf oder neben der Straße
 
 > `(1)` Wird durch Arbeiten auf oder neben der Straße der Straßenverkehr beeinträchtigt, so ist hiefür unbeschadet sonstiger Rechtsvorschriften eine Bewilligung der Behörde erforderlich\. Die Bewilligung ist auf Antrag des Bauführers zu erteilen, wenn die Beeinträchtigung nicht wesentlich ist oder wenn es möglich ist, für die Aufrechterhaltung der Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs in anderer Weise zu sorgen\.
@@ -3040,6 +3254,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Bewilligung ist unter Berücksichtigung der Art und des Umfanges der Bauführung und der Verkehrsbedeutung der Straße zur Wahrung der Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs bedingt, befristet oder mit Auflagen \(z\. B\. Absperrung mit rot\-weiß gestreiften Schranken\) zu erteilen\. Geschwindigkeitsbeschränkungen aus Anlaß von Arbeiten auf oder neben der Straße dürfen nur von der Behörde und nur im unbedingt notwendigen Ausmaß und nur für die unbedingt notwendige Strecke angeordnet werden\.
 
 > `(4)` Der Antragsteller hat dem Antrag sämtliche Unterlagen beizulegen, die erforderlich sind, damit die Behörde das Vorliegen der Voraussetzungen gemäß Abs\. 1 beurteilen kann\.
+
+\[ [🔗 Permalink](#-90-stvo--arbeiten-auf-oder-neben-der-straße) \]
 
 ### § 91 StVO — Bäume und Einfriedungen neben der Straße
 
@@ -3052,6 +3268,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Frisch gestrichene Gegenstände auf oder an der Straße müssen, solange sie abfärben, auffallend kenntlich gemacht werden\.
 
+\[ [🔗 Permalink](#-91-stvo--bäume-und-einfriedungen-neben-der-straße) \]
+
 ### § 92 StVO — Verunreinigung der Straße
 
 > `(1)` Jede gröbliche oder die Sicherheit der Straßenbenützer gefährdende Verunreinigung der Straße durch feste oder flüssige Stoffe, insbesondere durch Schutt, Kehricht, Abfälle und Unrat aller Art, sowie das Ausgießen von Flüssigkeiten bei Gefahr einer Glatteisbildung ist verboten\. Haften an einem Fahrzeug, insbesondere auf seinen Rädern, größere Erdmengen, so hat sie der Lenker vor dem Einfahren auf eine staubfreie Straße zu entfernen\.
@@ -3059,6 +3277,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Besitzer oder Verwahrer von Hunden haben dafür zu sorgen, dass diese Gehsteige, Gehwege, Geh\- und Radwege, Fußgängerzonen, Wohnstraßen und Begegnungszonen nicht verunreinigen\.
 
 > `(3)` Personen, die den Vorschriften der vorhergehenden Absätze zuwiderhandeln, können, abgesehen von den Straffolgen, zur Entfernung, Reinigung oder zur Kostentragung für die Entfernung oder Reinigung verhalten werden\.
+
+\[ [🔗 Permalink](#-92-stvo--verunreinigung-der-straße) \]
 
 ### § 93 StVO — Pflichten der Anrainer
 
@@ -3084,6 +3304,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Zum Ablagern von Schnee aus Häusern oder Grundstücken auf die Straße ist eine Bewilligung der Behörde erforderlich\. Die Bewilligung ist zu erteilen, wenn das Vorhaben die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs nicht beeinträchtigt\.
 
+\[ [🔗 Permalink](#-93-stvo--pflichten-der-anrainer) \]
+
 ## XII. ABSCHNITT.
 
 ## Behörden und Straßenerhalter.
@@ -3097,6 +3319,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` für die Erlassung von Verordnungen, die Autobahnen betreffen, ausgenommen jedoch Verordnungen gemäß § 43 Abs\. 1a, und
 >
 >> `3.` für die Erlassung von Verordnungen, mit denen Bundesstraßen zu Autostraßen oder Vorrangstraßen erklärt werden\.
+
+\[ [🔗 Permalink](#-94-stvo--zuständigkeit-des-bundesministers-für-verkehr-innovation-und-technologie) \]
 
 ### § 94a StVO — Zuständigkeit der Landesregierung
 
@@ -3117,6 +3341,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Abs\. 2 lit\. b bis e gilt nicht für das Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist\.
 
 > `(4)` Die Landesregierung kann sich im Gebiet einer Gemeinde, für das eine Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist zur Vollziehung des Abs\. 1 zweiter Satz auch der Angehörigen des Wachkörpers Bundespolizei dieser Behörden bedienen\.
+
+\[ [🔗 Permalink](#-94a-stvo--zuständigkeit-der-landesregierung) \]
 
 ### § 94b StVO — Zuständigkeit der Bezirksverwaltungsbehörde
 
@@ -3143,6 +3369,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `b)` für die Erteilung einer Bewilligung sowie die Ausstellung eines Radfahrausweises nach § 65 Abs\. 2\.
 
+\[ [🔗 Permalink](#-94b-stvo--zuständigkeit-der-bezirksverwaltungsbehörde) \]
+
 ### § 94c StVO — Übertragener Wirkungsbereich der Gemeinde
 
 > `(1)` Die Landesregierung kann durch Verordnung von der Bezirksverwaltungsbehörde zu besorgende Angelegenheiten \(§ 94b\), die nur das Gebiet einer Gemeinde betreffen, wenn und insoweit dies im Interesse der Zweckmäßigkeit, Raschheit und Einfachheit gelegen ist, dieser Gemeinde übertragen\. Bei der Besorgung der übertragenen Angelegenheiten tritt die Gemeinde an die Stelle der Bezirksverwaltungsbehörde\. Vor Erlassung der Verordnung ist der Bezirksverwaltungsbehörde Gelegenheit zur Stellungnahme zu geben\.
@@ -3150,6 +3378,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Übertragung kann sich, sofern sich aus Abs\. 3 nichts anderes ergibt, sowohl auf gleichartige einzelne, als auch auf alle im § 94b bezeichneten Angelegenheiten hinsichtlich einzelner oder aller Straßen beziehen\. Angelegenheiten des Verwaltungsstrafverfahrens mit Ausnahme der Vollziehung des § 50 VStG und Angelegenheiten des Verkehrsunterrichtes \(§ 101\) sind von der Übertragung ausgeschlossen\. Die Übertragung ist durch Verordnung zu widerrufen oder einzuschränken, wenn die Voraussetzungen, unter denen sie erfolgt ist, überhaupt weggefallen bzw\. nicht mehr im seinerzeitigen Umfang gegeben sind\.
 
 > `(3)` Sofern eine Gemeinde über einen Gemeindewachkörper verfügt, kann ihr die Handhabung der Verkehrspolizei \(§ 94b Abs\. 1 lit\. a\) durch diesen übertragen werden\. Hiebei können alle oder nur bestimmte Angelegenheiten der Verkehrspolizei hinsichtlich aller oder nur einzelner Straßen übertragen werden\. Verfügt eine Gemeinde über keinen Gemeindewachkörper, so darf ihr die Handhabung der Verkehrspolizei ausschließlich hinsichtlich der punktuellen Geschwindigkeitsmessung gemäß § 98b hinsichtlich aller oder nur einzelner Straßen übertragen werden, wenn dies aus Gründen der Verkehrssicherheit \(zB bei vermehrtem Unfallgeschehen oder zum Schutz schwacher Verkehrsteilnehmer\) erforderlich und sichergestellt ist, dass diese Aufgabe von der Gemeinde mit den ihr zur Verfügung gestellten Mitteln besorgt werden kann\. Im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, ist eine Übertragung der Handhabung der Verkehrspolizei nicht zulässig\. Die Ermächtigung der übrigen Organe der Straßenaufsicht, die Verkehrspolizei im Gemeindegebiet zu handhaben, bleibt unberührt\.
+
+\[ [🔗 Permalink](#-94c-stvo--übertragener-wirkungsbereich-der-gemeinde) \]
 
 ### § 94d StVO — Eigener Wirkungsbereich der Gemeinde
 
@@ -3227,9 +3457,13 @@ Der Nationalrat hat beschlossen:
 >
 >> `21.` die Erlassung von Verordnungen nach § 88b Abs\. 1 StVO\.
 
+\[ [🔗 Permalink](#-94d-stvo--eigener-wirkungsbereich-der-gemeinde) \]
+
 ### § 94e StVO — Verordnungen
 
 > Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innovation und Technologie zu erlassen sind, steht ihre Erlassung den Ländern zu\.
+
+\[ [🔗 Permalink](#-94e-stvo--verordnungen) \]
 
 ### § 94f StVO — Mitwirkung
 
@@ -3252,6 +3486,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Landesregierung und die Bezirksverwaltungsbehörde haben, außer bei Gefahr im Verzuge, vor Erlassung eines Bescheides in Angelegenheiten, die das Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, oder das Gebiet nur einer Gemeinde berühren, die Landespolizeidirektion bzw\. die Gemeinde anzuhören\. Dies gilt jedoch nicht für Strafverfügungen oder Straferkenntnisse wegen Übertretungen nach § 99 und für die Anordnung der Teilnahme am Verkehrsunterricht \(§ 101\)\. Die Gemeinde \(§ 94c und d\) hat, außer bei Gefahr im Verzuge, vor Erlassung eines Bescheides in Angelegenheiten, die das Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, berühren, die Landespolizeidirektion anzuhören\.
 
 > `(3)` Die Anhörung der Gemeinde nach den Abs\. 1 und 2 hat zu entfallen, wenn die Gemeinde Straßenerhalter ist\. In diesem Falle gilt § 98 Abs\. 1\.
+
+\[ [🔗 Permalink](#-94f-stvo--mitwirkung) \]
 
 ### § 95 StVO — Landespolizeidirektionen
 
@@ -3280,6 +3516,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Landespolizeidirektionen haben bei Amtshandlungen nach Abs\. 1 lit\. f und g den Ortsgemeinden Gelegenheit zur Stellungnahme zu geben\.
 
+\[ [🔗 Permalink](#-95-stvo--landespolizeidirektionen) \]
+
 ### § 96 StVO — Besondere Rechte und Pflichten der Behörde
 
 > `(1)` Ereignen sich an einer Straßenstelle oder \-strecke, unter besonderer Berücksichtigung von Abbiegevorgängen an Kreuzungen, wiederholt Unfälle mit Personen\- oder Sachschaden, so hat die Behörde unverzüglich – insbesondere auf Grund von Berichten der Dienststellen von Organen der Straßenaufsicht oder sonstiger geeigneter Stellen, unter Durchführung eines Lokalaugenscheins, Einholung eines Sachverständigengutachten, Auswertung von Unfallverzeichnissen u\. dgl\. – festzustellen, welche Maßnahmen zur Verhütung weiterer Unfälle ergriffen werden können; hiebei ist auf den jeweiligen Stand der Wissenschaft und Forschung Bedacht zu nehmen\. Das Ergebnis dieser Feststellungen ist demjenigen, der für die Ergreifung der jeweiligen Maßnahme zuständig ist, und der Landesregierung mitzuteilen\.
@@ -3299,6 +3537,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Die Behörde hat ein Verzeichnis aller Personen zu führen, die in ihrem örtlichen Wirkungsbereich den Hauptwohnsitz haben und innerhalb der letzten fünf Jahre wegen einer Übertretung nach § 99 Abs\. 1 bis 2 oder § 37a FSG bestraft worden sind\. Hat eine Person ihren Hauptwohnsitz nicht innerhalb des örtlichen Wirkungsbereiches der Behörde, die das Strafverfahren durchführt, so hat diese die Bestrafung nach Rechtskraft der Behörde des Hauptwohnsitzes bekanntzugeben\.
 > *\(Anm\.: Abs\. 8 aufgehoben durch BGBl\. Nr\. 518/1994\)*
+
+\[ [🔗 Permalink](#-96-stvo--besondere-rechte-und-pflichten-der-behörde) \]
 
 ### § 97 StVO — Organe der Straßenaufsicht
 
@@ -3330,6 +3570,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Alle Personen, die auf Grund der Bestimmungen dieses Bundesgesetzes mit der unmittelbaren Regelung des Verkehrs befaßt sind, müssen während dieser Tätigkeit so ausgerüstet sein und sich so aufstellen, daß sie von allen Straßenbenützern bei gehöriger Aufmerksamkeit leicht gesehen werden können\.
 
+\[ [🔗 Permalink](#-97-stvo--organe-der-straßenaufsicht) \]
+
 ### § 97a StVO — Sicherung des Schulweges
 
 > `(1)` Die Behörde kann auf Vorschlag oder nach Anhörung der Leitung eines Kindergartens oder einer Schule geeignete Personen mit der Regelung des Verkehrs nach Maßgabe des Abs\. 3 betrauen; sie hat den betrauten Personen einen Ausweis, aus dem die Betrauung hervorgeht, auszufolgen\.
@@ -3344,6 +3586,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Den Anordnungen \(Abs\. 3\) der betrauten Personen ist Folge zu leisten\.
 
+\[ [🔗 Permalink](#-97a-stvo--sicherung-des-schulweges) \]
+
 ### § 98 StVO — Besondere Rechte und Pflichten des Straßenerhalters
 
 > `(1)` Der Straßenerhalter ist in jedem nach den Bestimmungen dieses Bundesgesetzes durchzuführenden Verfahren Partei im Sinne des § 8 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 – AVG, BGBl\. Nr\. 51/1991; dies gilt jedoch nicht für Verfahren nach § 59 über das Verbot des Lenkens von Fahrzeugen, nach § 65 über die Bewilligung der Benützung von Fahrrädern durch Personen unter 12 Jahren, nach § 99 über die Bestrafung von Übertretungen straßenpolizeilicher Vorschriften, es sei denn, daß auch über privatrechtliche Ansprüche des Straßenerhalters zu entscheiden ist \(§ 100 Abs\. 6\) und nach § 101 über die Verpflichtung zur Teilnahme am Verkehrsunterricht\. Vor Erlassung einer Verordnung auf Grund dieses Bundesgesetzes hat die Behörde den Straßenerhalter anzuhören, es sei denn, daß Gefahr im Verzuge ist und er nicht rechtzeitig beteiligt werden kann\. Vom Inhalt der Verordnung ist er in jedem Falle in Kenntnis zu setzen\.
@@ -3353,6 +3597,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Der Straßenerhalter darf auch ohne behördlichen Auftrag Einrichtungen zur Regelung und Sicherung des Verkehrs \(§ 31 Abs\. 1\) anbringen; dies gilt unbeschadet der Bestimmungen über unaufschiebbare Verkehrsbeschränkungen \(§ 44b\), jedoch nicht für die in § 44 Abs\. 1 genannten Straßenverkehrszeichen und Bodenmarkierungen\. Die Behörde kann ihm jedoch, wenn es die Sicherheit, Leichtigkeit oder Flüssigkeit des Verkehrs erfordert, vorschreiben, Einrichtungen zur Regelung und Sicherung des Verkehrs zu entfernen oder an den von ihr zu bestimmenden Stellen anzubringen\. Die Entfernung der genannten Einrichtungen kann die Behörde insbesondere verlangen, wenn ihre Anbringung gesetzwidrig oder sachlich unrichtig ist\.
 
 > `(4)` Der Straßenerhalter hat der Behörde Umstände, die in der Anlage oder Beschaffenheit der Straße begründet sind und für die Erlassung einer Verordnung nach § 43 maßgebend sein können, bekanntzugeben\.
+
+\[ [🔗 Permalink](#-98-stvo--besondere-rechte-und-pflichten-des-straßenerhalters) \]
 
 ## XIII. ABSCHNITT
 
@@ -3368,6 +3614,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Beginn und Ende der mit einer technischen Einrichtung gemäß Abs\. 1 überwachten Messstrecke sind anzukündigen\.
 
+\[ [🔗 Permalink](#-98a-stvo--abschnittsbezogene-geschwindigkeitsüberwachung) \]
+
 ### § 98b StVO — Punktuelle Geschwindigkeitsmessung
 
 > `(1)` Die Behörden dürfen zur automationsunterstützten Feststellung einer Überschreitung einer ziffernmäßig festgesetzten zulässigen Höchstgeschwindigkeit bildverarbeitende technische Einrichtungen verwenden, mit denen die Fahrgeschwindigkeit eines Fahrzeuges an einem Punkt gemessen werden kann\. Diese technischen Einrichtungen umfassen jeweils alle Anlagenteile, die dem vorgenannten Zweck dienen\. Ihr Einsatz hat dort zu erfolgen, wo dies aus Gründen der Erhöhung oder Gewährleistung der Verkehrssicherheit oder zur Fernhaltung von Gefahren oder Belästigungen, insbesondere durch Lärm, Geruch oder Schadstoffe und zum Schutz der Bevölkerung oder der Umwelt oder aus anderen wichtigen Gründen erforderlich erscheint\.
@@ -3375,6 +3623,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Ermittlung von Daten, die zur Identifizierung von Fahrzeugen oder Fahrzeuglenkern geeignet sind, mittels Einrichtungen gemäß Abs\. 1 ist jeweils auf den Fall einer festgestellten Überschreitung einer ziffernmäßig festgesetzten zulässigen Höchstgeschwindigkeit zu beschränken\. Soweit die bildgebende Erfassung von Personen außer dem Fahrzeuglenker technisch nicht ausgeschlossen werden kann, sind diese Personen ohne unnötigen Verzug in nicht rückführbarer Weise unkenntlich zu machen\.
 
 > `(3)` Die bei einer Messung gemäß Abs\. 1 ermittelten Daten dürfen ausschließlich für die Identifizierung des Fahrzeuges oder des Fahrzeuglenkers und nur für Zwecke eines Verwaltungsstrafverfahrens wegen einer Überschreitung einer ziffernmäßig festgesetzten zulässigen Höchstgeschwindigkeit verwendet werden\.
+
+\[ [🔗 Permalink](#-98b-stvo--punktuelle-geschwindigkeitsmessung) \]
 
 ### § 98c StVO — Abstandsmessung
 
@@ -3384,6 +3634,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soweit die bildgebende Erfassung von Personen außer dem Fahrzeuglenker technisch nicht ausgeschlossen werden kann, sind diese Personen ohne unnötigen Verzug in nicht rückführbarer Weise unkenntlich zu machen\. Dasselbe gilt für Kennzeichen von anderen Fahrzeugen als des auffahrenden Fahrzeuges, soweit ein solches Kennzeichen nicht für Zwecke des Ermittlungsverfahrens zwingend erforderlich ist\.
 
+\[ [🔗 Permalink](#-98c-stvo--abstandsmessung) \]
+
 ### § 98d StVO — Überwachung der Beachtung von Lichtzeichen
 
 > `(1)` Für Zwecke der automationsunterstützten Feststellung einer Missachtung eines Rotlichtzeichens durch Verkehrsteilnehmer dürfen Behörden bildverarbeitende technische Einrichtungen verwenden\. Diese technischen Einrichtungen umfassen jeweils alle Anlagenteile, die diesem Zweck dienen\.
@@ -3391,6 +3643,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Ermittlung von Daten, die zur Identifizierung von Fahrzeugen oder Verkehrsteilnehmern geeignet sind, mittels Einrichtungen gemäß Abs\. 1 ist jeweils auf den Fall einer festgestellten Missachtung eines Rotlichtzeichens zu beschränken\. Soweit die bildgebende Erfassung von Personen, die keine Übertretung begangen haben, technisch nicht ausgeschlossen werden kann, sind diese Personen ohne unnötigen Verzug in nicht rückführbarer Weise unkenntlich zu machen\.
 
 > `(3)` Gemäß Abs\. 1 ermittelte Daten dürfen ausschließlich für die Identifizierung des Fahrzeuges oder des Verkehrsteilnehmers verwendet werden, und zwar ausschließlich für Zwecke eines Verwaltungsstrafverfahrens wegen einer Missachtung gemäß Abs\. 1\.
+
+\[ [🔗 Permalink](#-98d-stvo--überwachung-der-beachtung-von-lichtzeichen) \]
 
 ### § 98e StVO — Überwachung aus Fahrzeugen
 
@@ -3408,6 +3662,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Soweit die bildgebende Erfassung von Personen, die nicht im Verdacht stehen, eine der in Abs\. 1 genannten Übertretungen begangen zu haben, technisch nicht ausgeschlossen werden kann, sind diese Personen ohne unnötigen Verzug in nicht rückführbarer Weise unkenntlich zu machen\. Dies gilt nicht, wenn und insoweit die Daten für Zwecke eines nachfolgenden Ermittlungsverfahrens zwingend erforderlich sind\.
 
+\[ [🔗 Permalink](#-98e-stvo--überwachung-aus-fahrzeugen) \]
+
 ### § 98f StVO — Verkehrsbeobachtung
 
 > `(1)` Soweit dies
@@ -3422,11 +3678,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine Speicherung von gemäß Abs\. 1 gewonnenen Daten ist nicht zulässig\. Für Zwecke der Information der Öffentlichkeit im Wege von Medien dürfen im Bedarfsfall auf Anfrage manuell einzelne Bildquellen ausgewählt und daraus kurze Bildfolgen gespeichert und an Medien übermittelt werden, soweit eine Identifizierung von Personen oder Fahrzeugen nicht möglich ist\.
 
+\[ [🔗 Permalink](#-98f-stvo--verkehrsbeobachtung) \]
+
 ### § 98g StVO — Zulässige Weiterverwendung von Daten in bestimmten Fällen
 
 > `(1)` Die Behörde darf durch Verwendung bildverarbeitender technischer Einrichtungen gemäß den §§ 98a bis 98d ermittelte Daten außer für die dort genannten Zwecke auch für Zwecke eines nachfolgenden Verwaltungsstrafverfahrens wegen einer in Abs\. 2 genannten Verwaltungsübertretung verwenden\. Bei bildgebender Erfassung von Personen außer dem Fahrzeuglenker müssen diese Personen nicht unkenntlich gemacht werden, wenn aufgrund der bildgebenden Erfassung der Verdacht hinsichtlich einer Übertretung durch diese Personen besteht\.
 
 > `(2)` Als Verwaltungsübertretung im Sinne des Abs\. 1 gelten Verstöße gegen § 102 Abs\. 3 5\. Satz sowie § 106 Abs\. 1, 2, 5, 7 und 12 KFG\.
+
+\[ [🔗 Permalink](#-98g-stvo--zulässige-weiterverwendung-von-daten-in-bestimmten-fällen) \]
 
 ### § 99 StVO — Strafbestimmungen
 
@@ -3552,6 +3812,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Wegen einer in Abs\. 1 bis 5 genannten Verwaltungsübertretung ist auch strafbar, wer diese auf dem Gebiet einer österreichischen Grenzabfertigungsstelle, die auf ausländischem Gebiet liegt, begeht\. Die Überwachung der Einhaltung straßenpolizeilicher Vorschriften zählt zur Grenzabfertigung\.
 
+\[ [🔗 Permalink](#-99-stvo--strafbestimmungen) \]
+
 ### § 99a StVO — Vorläufige Beschlagnahme
 
 > `(1)` Die Organe der Straßenaufsicht haben unter Bedachtnahme auf die Verkehrssicherheit Fahrzeuge vorläufig zu beschlagnahmen, wenn mit technischen Hilfsmitteln festgestellt wurde, dass der Lenker die erlaubte Höchstgeschwindigkeit im Ortsgebiet um mehr als 60 km/h oder außerhalb des Ortsgebiets um mehr als 70 km/h überschritten hat\.
@@ -3561,6 +3823,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Über die vorläufige Beschlagnahme hat das Organ der Straßenaufsicht dem Lenker eine Bescheinigung auszuhändigen, in welcher die Marke und Type und das Kennzeichen des beschlagnahmten Fahrzeugs anzugeben sind\.
 
 > `(4)` Das Verfügungsrecht über die gemäß Abs\. 1 vorläufig beschlagnahmten Fahrzeuge steht der Behörde zu\.
+
+\[ [🔗 Permalink](#-99a-stvo--vorläufige-beschlagnahme) \]
 
 ### § 99b StVO — Beschlagnahme
 
@@ -3588,6 +3852,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die bei der Behörde anfallenden Transport\- und Lagerkosten gelten als Barauslagen gemäß § 64 VStG\.
 
+\[ [🔗 Permalink](#-99b-stvo--beschlagnahme) \]
+
 ### § 99c StVO — Verfall
 
 > `(1)` Die Behörde hat zusätzlich zu einer Geldstrafe nach § 99 ein von ihr beschlagnahmtes Fahrzeug gemäß § 17 VStG für verfallen zu erklären, wenn das geboten erscheint, um den Täter von weiteren gleichartigen Übertretungen abzuhalten, und
@@ -3602,11 +3868,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Verfallene Fahrzeuge sind bestmöglich zu verwerten\. 70 vH des Erlöses aus der Verwertung fließen dem Österreichischen Verkehrssicherheitsfonds zu; 30 vH des Erlöses fließen der Gebietskörperschaft zu, die den Aufwand jener Behörde zu tragen hat, die das Strafverfahren in erster Instanz durchführt\.
 
+\[ [🔗 Permalink](#-99c-stvo--verfall) \]
+
 ### § 99d StVO — Herausgabe von beschlagnahmten Fahrzeugen
 
 > `(1)` Weist eine vom Lenker verschiedene Person dingliche Rechte an einem gemäß § 99a vorläufig beschlagnahmten oder gemäß § 99b beschlagnahmten Fahrzeug nach, so ist das Fahrzeug ausschließlich an diese Person auszuhändigen\.
 
 > `(2)` Liegen die Voraussetzungen des § 99b Abs\. 1 Z 1 oder 2 oder § 99c Abs\. 1 Z 1 oder 2 vor, werden jedoch von einer vom Lenker verschiedenen Person dingliche Rechte am Fahrzeug nachgewiesen, so darf der Lenker dieses Fahrzeug nicht mehr lenken; dieses Lenkverbot ist von der Behörde mit Bescheid zu verhängen und im Führerscheinregister zu vermerken\. Der Zulassungsbesitzer des Fahrzeugs ist von der Behörde vom Lenkverbot zu verständigen\.
+
+\[ [🔗 Permalink](#-99d-stvo--herausgabe-von-beschlagnahmten-fahrzeugen) \]
 
 ### § 100 StVO — Besondere Vorschriften für das Strafverfahren
 
@@ -3662,6 +3932,8 @@ Der Nationalrat hat beschlossen:
 
 > `(11)` Abweichend von Abs\. 10 fließen 30 vH der Strafgelder aus jenen Verwaltungsübertretungen, die 2019 von Organen der Bundespolizei auf Bundesstraßen wahrgenommen werden, der Gebietskörperschaft zu, die den Aufwand für diese Organe zu tragen hat\. Die Strafgelder sind für die Abdeckung des Personal\- und Sachaufwandes, der aus dem Einsatz der Organe auf dem Gebiet der Verkehrsüberwachung entsteht, und für die Beschaffung und Erhaltung von Einrichtungen zur Verkehrsüberwachung zu verwenden\.
 
+\[ [🔗 Permalink](#-100-stvo--besondere-vorschriften-für-das-strafverfahren) \]
+
 ### § 101 StVO — Verkehrsunterricht
 
 > `(1)` Wer als Lenker eines Fahrzeuges wegen einer Übertretung dieses Bundesgesetzes bestraft oder ermahnt \(§ 21 des Verwaltungsstrafgesetzes 1991 – VStG, BGBl\. Nr\. 52/1991\) wurde, kann von der Behörde seines Hauptwohnsitzes durch Bescheid zur Teilnahme an einem von ihr abzuhaltenden Verkehrsunterricht bis zu einer Gesamtdauer von sechs Stunden verpflichtet werden, wenn sein Verhalten im Straßenverkehr insbesondere mit Rücksicht auf wiederholte Beanstandungen vermuten läßt, daß er die Verkehrsvorschriften nicht beherrscht\.
@@ -3670,13 +3942,19 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Verkehrsunterricht kann auch an Sonn\- oder Feiertagen abgehalten werden, darf aber an solchen Tagen nicht länger als zwei Stunden dauern\. Die Bestimmung des § 20 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 – AVG, BGBl\. Nr\. 51/1991, ist anzuwenden\.
 
+\[ [🔗 Permalink](#-101-stvo--verkehrsunterricht) \]
+
 ### § 102 StVO — Abgrenzung zu anderen Rechtsvorschriften
 
 > Durch dieses Bundesgesetz werden die Straßenverwaltungsgesetze sowie eisenbahnrechtliche und arbeitsrechtliche Vorschriften nicht berührt\.
 
+\[ [🔗 Permalink](#-102-stvo--abgrenzung-zu-anderen-rechtsvorschriften) \]
+
 ### § 102a StVO — Verweisungen
 
 > Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese, sofern nichts anderes ausdrücklich angeordnet ist, in ihrer jeweils geltenden Fassung anzuwenden\.
+
+\[ [🔗 Permalink](#-102a-stvo--verweisungen) \]
 
 ### § 103 StVO — Inkrafttreten und Aufhebung
 
@@ -3748,6 +4026,8 @@ Der Nationalrat hat beschlossen:
 
 > `(28)` § 2 Abs\. 1 Z 12a, § 24 Abs\. 1 lit\. o, § 26a Abs\. 1, § 38 Abs\. 6a, § 43 Abs\. 2 und 4a, § 44b Abs\. 5, § 53 Abs\. 1 Z 2d, § 94c Abs\. 3, § 94d Z 8d, § 97 Abs\. 1 und § 100 Abs\. 10a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 52/2024 treten am 1\. Juli 2024 in Kraft; gleichzeitig tritt § 52 lit\. b Z 18 außer Kraft\.
 
+\[ [🔗 Permalink](#-103-stvo--inkrafttreten-und-aufhebung) \]
+
 ### § 104 StVO — Übergangsbestimmungen
 
 > `(1)` Soweit die bisher in Verwendung stehenden Einrichtungen zur Regelung und Sicherung des Verkehrs den Vorschriften dieses Bundesgesetzes nicht entsprechen, sind sie bis zum 31\. Dezember 1964 durch die diesem Bundesgesetz entsprechenden Einrichtungen zu ersetzen und bis dahin zu beachten\.
@@ -3778,6 +4058,8 @@ Der Nationalrat hat beschlossen:
 
 > `(14)` Straßenverkehrszeichen, deren Anbringung den Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl\. I Nr\. /2022 nicht entspricht, sind bei einer allfälligen Neuanbringung entsprechend den Bestimmungen dieses Bundesgesetzes anzubringen\. Bis dahin sind Straßenverkehrszeichen nach den Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl\. I Nr\. 154/2021 zu beachten\.
 
+\[ [🔗 Permalink](#-104-stvo--übergangsbestimmungen) \]
+
 ### § 105 StVO — Vollziehung
 
 > `(1)` Mit der Vollziehung der §§ 4 Abs\. 5b und 95 ist der Bundesminister für Verkehr, Innovation und Technologie im Einvernehmen mit dem Bundesminister für Inneres betraut\.
@@ -3790,6 +4072,10 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` \(Verfassungsbestimmung\) Mit der Vollziehung des § 29b Abs\. 1a ist die Bundesregierung betraut\.
 
+\[ [🔗 Permalink](#-105-stvo--vollziehung) \]
+
 ### § 106 StVO — Bezugnahme auf Richtlinien
 
 > Durch dieses Bundesgesetz, in der Fassung des Bundesgesetzes BGBl\. I Nr\. 54/2006, wird die Richtlinie 2004/54/EG über Mindestanforderungen an die Sicherheit von Tunneln im transeuropäischen Straßennetz, ABl\. Nr\. L 201 vom 7\.6\.2004, S\. 56 in österreichisches Recht umgesetzt\.
+
+\[ [🔗 Permalink](#-106-stvo--bezugnahme-auf-richtlinien) \]

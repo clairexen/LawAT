@@ -877,17 +877,23 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein Anfangsverdacht liegt vor, wenn auf Grund bestimmter Anhaltspunkte angenommen werden kann, dass eine Straftat begangen worden ist\.
 
+\[ [🔗 Permalink](#-1-stpo--das-strafverfahren) \]
+
 ### § 2 StPO — Amtswegigkeit
 
 > `(1)` Kriminalpolizei und Staatsanwaltschaft sind im Rahmen ihrer Aufgaben verpflichtet, jeden ihnen zur Kenntnis gelangten Anfangsverdacht einer Straftat, die nicht bloß auf Verlangen einer hiezu berechtigten Person zu verfolgen ist, in einem Ermittlungsverfahren von Amts wegen aufzuklären\.
 
 > `(2)` Im Hauptverfahren hat das Gericht die der Anklage zu Grunde liegende Tat und die Schuld des Angeklagten von Amts wegen aufzuklären\.
 
+\[ [🔗 Permalink](#-2-stpo--amtswegigkeit) \]
+
 ### § 3 StPO — Objektivität und Wahrheitserforschung
 
 > `(1)` Kriminalpolizei, Staatsanwaltschaft und Gericht haben die Wahrheit zu erforschen und alle Tatsachen aufzuklären, die für die Beurteilung der Tat und des Beschuldigten von Bedeutung sind\.
 
 > `(2)` Alle Richter, Staatsanwälte und kriminalpolizeilichen Organe haben ihr Amt unparteilich und unvoreingenommen auszuüben und jeden Anschein der Befangenheit zu vermeiden\. Sie haben die zur Belastung und die zur Verteidigung des Beschuldigten dienenden Umstände mit der gleichen Sorgfalt zu ermitteln\.
+
+\[ [🔗 Permalink](#-3-stpo--objektivität-und-wahrheitserforschung) \]
 
 ### § 4 StPO — Anklagegrundsatz
 
@@ -897,6 +903,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Entscheidung des Gerichts hat die Anklage zu erledigen, darf sie jedoch nicht überschreiten\. An eine rechtliche Beurteilung ist das Gericht nicht gebunden\.
 
+\[ [🔗 Permalink](#-4-stpo--anklagegrundsatz) \]
+
 ### § 5 StPO — Gesetz- und Verhältnismäßigkeit
 
 > `(1)` Kriminalpolizei, Staatsanwaltschaft und Gericht dürfen bei der Ausübung von Befugnissen und bei der Aufnahme von Beweisen nur soweit in Rechte von Personen eingreifen, als dies gesetzlich ausdrücklich vorgesehen und zur Aufgabenerfüllung erforderlich ist\. Jede dadurch bewirkte Rechtsgutbeeinträchtigung muss in einem angemessenen Verhältnis zum Gewicht der Straftat, zum Grad des Verdachts und zum angestrebten Erfolg stehen\.
@@ -905,11 +913,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Es ist unzulässig, Personen zur Begehung von strafbaren Handlungen in einer dem Grundsatz des fairen Verfahrens \(Art\. 6 Abs\. 1 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl\. Nr\. 210/1958\) widerstreitenden Weise zu verleiten, oder durch heimlich bestellte Personen zu einem Geständnis zu verlocken\.
 
+\[ [🔗 Permalink](#-5-stpo--gesetz--und-verhältnismäßigkeit) \]
+
 ### § 6 StPO — Rechtliches Gehör
 
 > `(1)` Der Beschuldigte hat das Recht, am gesamten Verfahren mitzuwirken und die Pflicht, während der Hauptverhandlung anwesend zu sein\. Er ist mit Achtung seiner persönlichen Würde zu behandeln\.
 
 > `(2)` Jede am Verfahren beteiligte oder von der Ausübung von Zwangsmaßnahmen betroffene Person hat das Recht auf angemessenes rechtliches Gehör und auf Information über Anlass und Zweck der sie betreffenden Verfahrenshandlung sowie über ihre wesentlichen Rechte im Verfahren\. Der Beschuldigte hat das Recht, alle gegen ihn vorliegende Verdachtsgründe zu erfahren und vollständige Gelegenheit zu deren Beseitigung und zu seiner Rechtfertigung zu erhalten\.
+
+\[ [🔗 Permalink](#-6-stpo--rechtliches-gehör) \]
 
 ### § 7 StPO — Recht auf Verteidigung
 
@@ -917,15 +929,21 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Beschuldigte darf nicht gezwungen werden, sich selbst zu belasten\. Es steht ihm jederzeit frei, auszusagen oder die Aussage zu verweigern\. Er darf nicht durch Zwangsmittel, Drohungen, Versprechungen oder Vorspiegelungen zu Äußerungen genötigt oder bewogen werden\.
 
+\[ [🔗 Permalink](#-7-stpo--recht-auf-verteidigung) \]
+
 ### § 8 StPO — Unschuldsvermutung
 
 > Jede Person gilt bis zu ihrer rechtskräftigen Verurteilung als unschuldig\.
+
+\[ [🔗 Permalink](#-8-stpo--unschuldsvermutung) \]
 
 ### § 9 StPO — Beschleunigungsgebot
 
 > `(1)` Jeder Beschuldigte hat Anspruch auf Beendigung des Verfahrens innerhalb angemessener Frist\. Das Verfahren ist stets zügig und ohne unnötige Verzögerung durchzuführen\.
 
 > `(2)` Verfahren, in denen ein Beschuldigter in Haft gehalten wird, sind mit besonderer Beschleunigung zu führen\. Jeder verhaftete Beschuldigte hat Anspruch auf ehest mögliche Urteilsfällung oder Enthaftung während des Verfahrens\. Alle im Strafverfahren tätigen Behörden, Einrichtungen und Personen sind verpflichtet, auf eine möglichst kurze Dauer der Haft hinzuwirken\.
+
+\[ [🔗 Permalink](#-9-stpo--beschleunigungsgebot) \]
 
 ### § 10 StPO — Beteiligung der Opfer
 
@@ -935,17 +953,23 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Alle im Strafverfahren tätigen Behörden, Einrichtungen und Personen haben Opfer während des Verfahrens mit Achtung ihrer persönlichen Würde zu behandeln und deren Interesse an der Wahrung ihres höchstpersönlichen Lebensbereiches zu beachten\. Dies gilt insbesondere für die Weitergabe von Lichtbildern und die Mitteilung von Angaben zur Person, die zu einem Bekanntwerden der Identität in einem größeren Personenkreis führen kann, ohne dass dies durch Zwecke der Strafrechtspflege geboten ist\. Staatsanwaltschaft und Gericht haben bei ihren Entscheidungen über die Beendigung des Verfahrens stets die Wiedergutmachungsinteressen der Opfer zu prüfen und im größtmöglichen Ausmaß zu fördern\.
 
+\[ [🔗 Permalink](#-10-stpo--beteiligung-der-opfer) \]
+
 ### § 11 StPO — Geschworene und Schöffen
 
 > `(1)` In den in diesem Gesetz vorgesehenen Fällen wirken Geschworene oder Schöffen an Hauptverhandlung und Urteilsfindung mit\.
 
 > `(2)` Geschworene und Schöffen sind über ihre Aufgaben und Befugnisse sowie über den Ablauf des Verfahrens zu informieren\.
 
+\[ [🔗 Permalink](#-11-stpo--geschworene-und-schöffen) \]
+
 ### § 12 StPO — Mündlichkeit und Öffentlichkeit
 
 > `(1)` Gerichtliche Verhandlungen im Haupt\- und Rechtsmittelverfahren werden mündlich und öffentlich durchgeführt\. Das Ermittlungsverfahren ist nicht öffentlich\.
 
 > `(2)` Das Gericht hat bei der Urteilsfällung nur auf das Rücksicht zu nehmen, was in der Hauptverhandlung vorgekommen ist\.
+
+\[ [🔗 Permalink](#-12-stpo--mündlichkeit-und-öffentlichkeit) \]
 
 ### § 13 StPO — Unmittelbarkeit
 
@@ -955,23 +979,33 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soweit ein Beweis unmittelbar aufgenommen werden kann, darf er nicht durch einen mittelbaren ersetzt werden\. Der Inhalt von Akten und anderen Schriftstücken darf nur soweit als Beweis verwertet werden, als er in einer nach diesem Gesetz zulässigen Weise wiedergegeben wird\.
 
+\[ [🔗 Permalink](#-13-stpo--unmittelbarkeit) \]
+
 ### § 14 StPO — Freie Beweiswürdigung
 
 > Ob Tatsachen als erwiesen festzustellen sind, hat das Gericht auf Grund der Beweise nach freier Überzeugung zu entscheiden; im Zweifel stets zu Gunsten des Angeklagten oder sonst in seinen Rechten Betroffenen\.
+
+\[ [🔗 Permalink](#-14-stpo--freie-beweiswürdigung) \]
 
 ### § 15 StPO — Vorfragen
 
 > Vorfragen sind im Strafverfahren selbstständig zu beurteilen\. Entscheidungen zuständiger Behörden können jedoch abgewartet werden, wenn mit ihnen in absehbarer Zeit zu rechnen ist\. An die rechtsgestaltenden Wirkungen von Entscheidungen der Zivilgerichte und anderer Behörden sind die Strafgerichte jedoch gebunden\.
 
+\[ [🔗 Permalink](#-15-stpo--vorfragen) \]
+
 ### § 16 StPO — Verbot der Verschlechterung
 
 > Wenn ein Rechtsmittel oder ein Rechtsbehelf nur zu Gunsten des Beschuldigten erhoben wurde, darf der Beschuldigte durch den Inhalt einer darüber ergehenden gerichtlichen Entscheidung im Ermittlungsverfahren und in der Straffrage nicht schlechter gestellt werden, als wenn die Entscheidung nicht angefochten worden wäre\.
+
+\[ [🔗 Permalink](#-16-stpo--verbot-der-verschlechterung) \]
 
 ### § 17 StPO — Verbot wiederholter Strafverfolgung
 
 > `(1)` Nach rechtswirksamer Beendigung eines Strafverfahrens ist die neuerliche Verfolgung desselben Verdächtigen wegen derselben Tat unzulässig\.
 
 > `(2)` Die Bestimmungen über die Fortsetzung, die Fortführung, die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie über die Nichtigkeitsbeschwerde zur Wahrung des Gesetzes bleiben hievon unberührt\.
+
+\[ [🔗 Permalink](#-17-stpo--verbot-wiederholter-strafverfolgung) \]
 
 ## 2. Hauptstück
 
@@ -997,6 +1031,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; aufzuheben\.
 
+\[ [🔗 Permalink](#-18-stpo--kriminalpolizei) \]
+
 ## 2. Abschnitt
 
 ## Staatsanwaltschaften und ihre Zuständigkeiten
@@ -1015,6 +1051,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soweit dieses Gesetz im Einzelnen nichts anderes bestimmt, richten sich Organisation und Aufgaben der Staatsanwaltschaften nach den Vorschriften des Staatsanwaltschaftsgesetzes \(StAG\), BGBl\. Nr\. 164/1986\.
 
+\[ [🔗 Permalink](#-19-stpo--allgemeines) \]
+
 ### § 20 StPO — Staatsanwaltschaft
 
 > `(1)` Die Staatsanwaltschaft leitet das Ermittlungsverfahren; ihr allein steht die Erhebung der öffentlichen Anklage zu\. Sie entscheidet, ob gegen eine bestimmte Person Anklage einzubringen, von der Verfolgung zurückzutreten oder das Verfahren einzustellen ist\.
@@ -1022,6 +1060,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ermittlungen, Anordnungen und andere Verfahrenshandlungen im Verfahren wegen Straftaten, für die im Hauptverfahren das Bezirksgericht zuständig wäre, sowie die Vertretung der Anklage vor den Bezirksgerichten können nach Maßgabe des Staatsanwaltschaftsgesetzes Bezirksanwälten übertragen werden, die unter Aufsicht und Leitung von Staatsanwälten stehen\.
 
 > `(3)` Die Staatsanwaltschaft ist auch für die Erledigung von Rechtshilfeersuchen in\- und ausländischer Justizbehörden zuständig, soweit im Einzelnen nichts anderes bestimmt wird\.
+
+\[ [🔗 Permalink](#-20-stpo--staatsanwaltschaft) \]
 
 ### § 20a StPO — Zentrale Staatsanwaltschaft zur Verfolgung von Wirtschaftsstrafsachen und Korruption (WKStA)
 
@@ -1051,6 +1091,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` In den Fällen des Zusammenhangs mit in Abs\. 1 erwähnten Straftaten hat die WKStA gemäß den §§ 25a, 26 und 27 vorzugehen\. Hinsichtlich anderer Taten hat die WKStA das Verfahren zu trennen und der danach zuständigen Staatsanwaltschaft abzutreten, soweit ihre Zuständigkeit nicht gemäß § 20b begründet wäre; darüber hinaus kann die WKStA auf diese Weise vorgehen, wenn das Verfahren wegen der ihre Zuständigkeit begründenden Straftaten beendet wird\.
 
+\[ [🔗 Permalink](#-20a-stpo--zentrale-staatsanwaltschaft-zur-verfolgung-von-wirtschaftsstrafsachen-und-korruption-wksta) \]
+
 ### § 20b StPO
 
 > `(1)` Soweit zur wirksamen und zügigen Führung von Wirtschaftsstrafsachen besondere Kenntnisse des Wirtschaftslebens oder Erfahrungen mit solchen Verfahren erforderlich erscheinen, kann die WKStA eine Wirtschaftsstrafsache der zuständigen Staatsanwaltschaft abnehmen und diese an sich ziehen\.
@@ -1061,15 +1103,21 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Staatsanwaltschaften haben der WKStA unverzüglich über anhängige Verfahren nach den vorstehenden Absätzen zu berichten, die von ihr effizienter und zügiger geführt werden könnten\. Bis zur Entscheidung der WKStA haben sie ungeachtet dessen die erforderlichen Anordnungen zu treffen\.
 
+\[ [🔗 Permalink](#-20b-stpo) \]
+
 ### § 21 StPO — Oberstaatsanwaltschaft
 
 > `(1)` Die Oberstaatsanwaltschaft wirkt an allen Strafverfahren vor dem Oberlandesgericht mit und beteiligt sich an allen Verhandlungen vor diesem\.
 
 > `(2)` Die Oberstaatsanwaltschaft führt die Aufsicht über die ihr unterstellten Staatsanwaltschaften und ist berechtigt, sich an jedem Verfahren in ihrem Zuständigkeitsbereich unmittelbar zu beteiligen\. Im Einzelfall kann sie die Aufgaben und Befugnisse einer Staatsanwaltschaft übernehmen\.
 
+\[ [🔗 Permalink](#-21-stpo--oberstaatsanwaltschaft) \]
+
 ### § 22 StPO — Generalprokuratur
 
 > Die Generalprokuratur wirkt an allen Strafverfahren des Obersten Gerichtshofs mit\. Dabei schreitet sie nicht als Anklagebehörde ein; sie vertritt die Interessen des Staates in der Rechtspflege\.
+
+\[ [🔗 Permalink](#-22-stpo--generalprokuratur) \]
 
 ### § 23 StPO — Nichtigkeitsbeschwerde zur Wahrung des Gesetzes
 
@@ -1079,9 +1127,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Staatsanwaltschaften haben Fälle, in denen sie eine Beschwerde für erforderlich halten, von Amts wegen den Oberstaatsanwaltschaften vorzulegen; diese entscheiden, ob die Fälle an die Generalprokuratur weiter zu leiten sind\. Im Übrigen ist jedermann berechtigt, die Erhebung einer Nichtigkeitsbeschwerde zur Wahrung des Gesetzes anzuregen\.
 
+\[ [🔗 Permalink](#-23-stpo--nichtigkeitsbeschwerde-zur-wahrung-des-gesetzes) \]
+
 ### § 24 StPO — Stellungnahmen von Staatsanwaltschaften
 
 > Nimmt eine Staatsanwaltschaft bei einem Rechtsmittelgericht zu einem Rechtsmittel oder Rechtsbehelf Stellung, so hat das Gericht diese Stellungnahme dem gegnerischen Beteiligten zur Äußerung binnen einer angemessen festzusetzenden Frist zuzustellen\. Diese Zustellung kann unterbleiben, wenn die Staatsanwaltschaft lediglich zu Gunsten dieses Beteiligten Stellung nimmt\.
+
+\[ [🔗 Permalink](#-24-stpo--stellungnahmen-von-staatsanwaltschaften) \]
 
 ### § 25 StPO — Örtliche Zuständigkeit
 
@@ -1102,11 +1154,15 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` dem Opfer die Anzeige im Ausland möglich gewesen wäre, es sei denn, dass es sich um eine Straftat mit schweren Folgen handelt\.
 
+\[ [🔗 Permalink](#-25-stpo--örtliche-zuständigkeit) \]
+
 ### § 25a StPO — Abtretung
 
 > `(1)` Eine Staatsanwaltschaft, die sich für unzuständig erachtet, hat die keinen Aufschub duldenden Anordnungen zu treffen und sodann das Ermittlungsverfahren der zuständigen Staatsanwaltschaft abzutreten\.
 
 > `(2)` Eine unzuständige Staatsanwaltschaft hat bei ihr einlangende Anzeigen, Berichte und Rechtshilfeersuchen an die zuständige weiterzuleiten\.
+
+\[ [🔗 Permalink](#-25a-stpo--abtretung) \]
 
 ### § 26 StPO — Zusammenhang
 
@@ -1116,9 +1172,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Verhältnis zur WKStA ist ein Zusammenhang nach den vorstehenden Bestimmungen nicht anzunehmen, wenn das Verfahren wegen der Straftaten, die eine Zuständigkeit der WKStA begründen würde, im Hinblick auf die Dauer und den Umfang der Ermittlungen oder das Gewicht der Straftat von untergeordneter Bedeutung ist\.
 
+\[ [🔗 Permalink](#-26-stpo--zusammenhang) \]
+
 ### § 27 StPO — Trennung von Verfahren
 
 > Die Staatsanwaltschaft kann auf Antrag des Beschuldigten oder von Amts wegen anordnen, dass das Ermittlungsverfahren wegen einzelner Straftaten oder gegen einzelne Beschuldigte getrennt zu führen ist, insbesondere um Verzögerungen zu vermeiden, schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 Datenschutzgesetz – DSG, BGBl\. I Nr\. 165/1999\) eines Beschuldigten zu wahren oder die Haft eines Beschuldigten zu verkürzen\.
+
+\[ [🔗 Permalink](#-27-stpo--trennung-von-verfahren) \]
 
 ### § 28 StPO — Bestimmung der Zuständigkeit
 
@@ -1126,9 +1186,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist unter den dort beschriebenen Umständen auch vorzugehen, wenn das Absehen von der Einleitung eines Ermittlungsverfahrens zu prüfen ist \(§ 197a\)\.
 
+\[ [🔗 Permalink](#-28-stpo--bestimmung-der-zuständigkeit) \]
+
 ### § 28a StPO — Zuständigkeitskonflikt bei Verfahren der WKStA
 
 > Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen WKStA und anderen Staatsanwaltschaften gemäß § 28 zu entscheiden, welchen von ihnen die Zuständigkeit zukommt\. Gleiches gilt für den Fall, dass der WKStA ein Verfahren aus den in § 28 Abs\. 1 oder Abs\. 2 genannten Gründen abgenommen werden soll\.
+
+\[ [🔗 Permalink](#-28a-stpo--zuständigkeitskonflikt-bei-verfahren-der-wksta) \]
 
 ## 3. Abschnitt
 
@@ -1145,6 +1209,8 @@ Der Nationalrat hat beschlossen:
 >> `3.` Oberlandesgerichte und der Oberste Gerichtshof im Rechtsmittelverfahren sowie auf Grund besonderer Bestimmungen\.
 
 > `(2)` Soweit sich die Zuständigkeit der Gerichte nach der Höhe der angedrohten Freiheitsstrafe richtet, sind die Beschränkung der Strafbemessung durch § 287 Abs\. 1 letzter Satz StGB und die Möglichkeit einer Überschreitung des Höchstmaßes der Strafe nach § 313 StGB bei der Bestimmung der sachlichen Zuständigkeit zu berücksichtigen\.
+
+\[ [🔗 Permalink](#-29-stpo--allgemeines) \]
 
 ### § 30 StPO — Bezirksgericht
 
@@ -1193,6 +1259,8 @@ Der Nationalrat hat beschlossen:
 >> `10.` der Vergehen, für die auf Grund besonderer Bestimmungen das Landesgericht zuständig ist\.
 
 > `(2)` Das Bezirksgericht entscheidet durch Einzelrichter\.
+
+\[ [🔗 Permalink](#-30-stpo--bezirksgericht) \]
 
 ### § 31 StPO — Landesgericht
 
@@ -1280,6 +1348,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` die Entscheidung über Anträge auf Fortführung \(§§ 195 und 209a Abs\. 6\) und Anträge auf Verfolgung \(§ 197c\)\.
 
+\[ [🔗 Permalink](#-31-stpo--landesgericht) \]
+
 ### § 32 StPO — Landesgericht als Geschworenen- und Schöffengericht
 
 > `(1)` Das Landesgericht als Geschworenengericht setzt sich aus dem Schwurgerichtshof und der Geschworenenbank zusammen\. Der Schwurgerichtshof besteht aus drei Richtern, die Geschworenenbank ist mit acht Geschworenen besetzt\. Das Landesgericht als Schöffengericht besteht – ausgenommen den Fall des Abs\. 1a – aus einem Richter und zwei Schöffen\.
@@ -1310,11 +1380,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Geschworenen werden in dem vom Gesetz \(15\. Hauptstück\) vorgesehenen Umfang tätig; die Schöffen üben in der Hauptverhandlung das Richteramt im vollen Umfang aus\. Soweit im Einzelnen nichts anderes bestimmt wird, sind die für Richter geltenden Vorschriften auch auf Geschworene und Schöffen anzuwenden\. Die Voraussetzungen und das Verfahren zur Berufung von Geschworenen und Schöffen sind im Geschworenen\- und Schöffengesetz 1990, BGBl\. Nr\. 256, geregelt\.
 
+\[ [🔗 Permalink](#-32-stpo--landesgericht-als-geschworenen--und-schöffengericht) \]
+
 ### § 32a StPO — Zuständigkeit für Wirtschaftsstrafsachen und Korruption
 
 > `(1)` Den beim Landesgericht für Strafsachen Wien eingerichteten besonderen Gerichtsabteilungen \(§ 32a GOG\) obliegt für das gesamte Bundesgebiet die Führung des Hauptverfahrens auf Grund von Anklagen wegen der in § 20a genannten Straftaten, soweit eine Delegierung gemäß § 39 Abs\. 1a erfolgt ist\.
 
 > `(2)` Nach den Bestimmungen der §§ 31 und 32 entscheidet das Landesgericht durch Einzelrichter oder als Geschworenen\- und Schöffengericht\. § 213 Abs\. 6 zweiter und dritter Satz sind nicht anzuwenden\.
+
+\[ [🔗 Permalink](#-32a-stpo--zuständigkeit-für-wirtschaftsstrafsachen-und-korruption) \]
 
 ### § 33 StPO — Oberlandesgericht
 
@@ -1334,6 +1408,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Einzelrichter des Oberlandesgerichts entscheidet über Beschwerden gegen Entscheidungen über den Pauschalkostenbeitrag gemäß § 196 Abs\. 2, über den Betrag zu den Kosten der Verteidigung im Ermittlungsverfahren gemäß § 196a, über die Kosten des Strafverfahrens nach dem 18\. Hauptstück und über die Bestimmung der Gebühren der Sachverständigen und Dolmetscher nach dem GebAG\. In den übrigen Fällen entscheidet das Oberlandesgericht durch einen Senat von drei Richtern\.
 
+\[ [🔗 Permalink](#-33-stpo--oberlandesgericht) \]
+
 ### § 34 StPO — Oberster Gerichtshof
 
 > `(1)` Dem Obersten Gerichtshof obliegt die Entscheidung
@@ -1352,11 +1428,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Im Übrigen bleiben die Bestimmungen des Bundesgesetzes über den Obersten Gerichtshof, BGBl\. Nr\. 328/1968, unberührt\.
 
+\[ [🔗 Permalink](#-34-stpo--oberster-gerichtshof) \]
+
 ### § 35 StPO — Form gerichtlicher Entscheidungen
 
 > `(1)` Mit Urteil entscheiden die Gerichte im Haupt\- und Rechtsmittelverfahren über Schuld, Strafe und privatrechtliche Ansprüche, über ein Verfahrenshindernis oder eine fehlende Prozessvoraussetzung, über die Anordnung freiheitsentziehender Maßnahmen, über selbstständige Anträge nach § 441, über die im § 445 genannten vermögensrechtlichen Anordnungen und über ihre Unzuständigkeit nach den §§ 261 und 488 Abs\. 3\. Soweit im Einzelnen nichts anderes bestimmt wird, sind Urteile nach öffentlicher mündlicher Verhandlung zu verkünden und auszufertigen\.
 
 > `(2)` Im Übrigen entscheiden die Gerichte mit Beschluss \(§ 86\), soweit sie nicht bloß eine auf den Fortgang des Verfahrens oder die Bekanntmachung einer gerichtlichen Entscheidung gerichtete Verfügung erlassen\.
+
+\[ [🔗 Permalink](#-35-stpo--form-gerichtlicher-entscheidungen) \]
 
 ### § 36 StPO — Örtliche Zuständigkeit
 
@@ -1372,6 +1452,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wenn sich zum Zeitpunkt der Einbringung der Anklage ein Angeklagter in Untersuchungshaft befindet und die Verhandlung und Entscheidung der Strafsache dem Bezirksgericht zusteht, ist das Bezirksgericht örtlich zuständig, an dessen Sitz sich die Staatsanwaltschaft befindet, die nach den §§ 25 bis 28 für das Ermittlungsverfahren zuständig war\. Wird der Angeklagte nach diesem Zeitpunkt freigelassen, so ändert dies die Zuständigkeit nicht\.
 
+\[ [🔗 Permalink](#-36-stpo--örtliche-zuständigkeit) \]
+
 ### § 37 StPO — Zuständigkeit des Zusammenhangs
 
 > `(1)` Im Falle gleichzeitiger Anklage mehrerer beteiligter Personen \(§ 12 StGB\) oder einer Person wegen mehrerer Straftaten ist das Hauptverfahren vom selben Gericht gemeinsam zu führen\. Gleiches gilt, wenn mehrere Personen der Begehung strafbarer Handlungen verdächtig sind, die sonst in einem engen sachlichen Zusammenhang stehen\.
@@ -1382,9 +1464,13 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Das Gericht kann auf Antrag der Staatsanwaltschaft oder eines Angeklagten oder von Amts wegen unter den Voraussetzungen des § 27 StPO eine getrennte Führung der Verfahren anordnen; § 36 Abs\. 4 gilt\.
 
+\[ [🔗 Permalink](#-37-stpo--zuständigkeit-des-zusammenhangs) \]
+
 ### § 38 StPO — Kompetenzkonflikt
 
 > Ein Gericht, das sich für unzuständig hält, hat bei ihm eingebrachte Anträge, Einsprüche und Beschwerden dem zuständigen zu überweisen; § 213 Abs\. 6 bleibt unberührt\. Bei Gefahr im Verzug hat jedes Gericht innerhalb seiner sachlichen Zuständigkeit vor der Überweisung unaufschiebbare Entscheidungen zu treffen und unaufschiebbare Beweisaufnahmen durchzuführen\. Sofern auch das Gericht, dem überwiesen wird, seine Zuständigkeit bezweifelt, hat es die Entscheidung des gemeinsam übergeordneten Gerichts zu erwirken, gegen die ein Rechtsmittel nicht zusteht\.
+
+\[ [🔗 Permalink](#-38-stpo--kompetenzkonflikt) \]
 
 ### § 39 StPO — Delegierung
 
@@ -1394,6 +1480,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Antrag auf Delegierung steht der Staatsanwaltschaft und dem Beschuldigten zu; das Gericht kann sie anregen\. Der Antrag ist bei dem Gericht einzubringen, das für das Verfahren zuständig ist, und hat eine Begründung zu enthalten\.
 
+\[ [🔗 Permalink](#-39-stpo--delegierung) \]
+
 ### § 40 StPO — Vorsitz und Abstimmung in den Senaten
 
 > `(1)` Im Geschworenengericht, im Schöffengericht und in allen anderen Senaten führt ein Richter den Vorsitz\. Der Vorsitzende hat Verhandlungen und Sitzungen sowie Beratungen und Abstimmungen zu leiten\. Die Zahl der Senatsmitglieder darf weder größer noch kleiner sein als sie in den §§ 31 bis 34 festgesetzt ist\.
@@ -1401,6 +1489,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Jeder Abstimmung hat eine Beratung vorauszugehen\. Sieht das Gesetz einen Berichterstatter vor, so stimmt dieser zuerst\. Der Vorsitzende stimmt zuletzt\. Die anderen Richter stimmen nach der Dienstzeit bei dem Gericht, das die Entscheidung trifft, bei gleicher Dienstzeit nach der für die Vorrückung in höhere Bezüge maßgebenden Dienstzeit, und zwar die älteren vor den jüngeren\. Die Geschworenen und Schöffen geben ihre Stimme in alphabetischer Reihenfolge vor den Richtern ab\.
 
 > `(3)` Eine Stimmenthaltung ist außer im Fall des § 42 Abs\. 3 nicht zulässig\.
+
+\[ [🔗 Permalink](#-40-stpo--vorsitz-und-abstimmung-in-den-senaten) \]
 
 ### § 41 StPO
 
@@ -1410,6 +1500,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Entstehen unterschiedliche Ansichten darüber, welche von zwei Meinungen für den Angeklagten die günstigere ist, so ist zunächst darüber abzustimmen\. Ergibt sich auch dabei keine Mehrheit, so gibt die Stimme des Vorsitzenden den Ausschlag\.
 
+\[ [🔗 Permalink](#-41-stpo) \]
+
 ### § 42 StPO
 
 > `(1)` Über die Zuständigkeit des Gerichts, über eine Ergänzung des Verfahrens und andere Vorfragen ist vor der Hauptsache abzustimmen\.
@@ -1417,6 +1509,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` In der Hauptsache ist zunächst die Frage der Schuld und deren rechtliche Beurteilung zu entscheiden\. Liegen dem Angeklagten mehrere Straftaten zur Last, so muss über jede Tat einzeln abgestimmt werden\.
 
 > `(3)` Wer den Angeklagten auch nur in einem Fall für nicht schuldig hält, kann sich bei der Beratung über die Strafe der Stimme enthalten\. Diese ist der für den Angeklagten jeweils günstigsten Meinung zuzuzählen\.
+
+\[ [🔗 Permalink](#-42-stpo) \]
 
 ## 4. Abschnitt
 
@@ -1438,6 +1532,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ein Richter ist ebenso von der Entscheidung über einen Antrag auf Wiederaufnahme oder einen Antrag auf Erneuerung des Strafverfahrens \(§ 363a\) und von der Mitwirkung und Entscheidung im erneuerten Verfahren ausgeschlossen, wenn er im Verfahren bereits als Richter tätig gewesen ist\.
 
+\[ [🔗 Permalink](#-43-stpo--ausgeschlossenheit-von-richtern) \]
+
 ### § 44 StPO — Anzeige der Ausgeschlossenheit und Antrag auf Ablehnung
 
 > `(1)` Bei Vorliegen eines Ausschließungsgrundes hat sich ein Richter im Verfahren bei sonstiger Nichtigkeit aller Handlungen zu enthalten\. Unaufschiebbare Handlungen hat er jedoch vorzunehmen, es sei denn, dass er gegen einen Angehörigen einzuschreiten hätte; in diesem Fall hat er das Verfahren unverzüglich abzutreten\.
@@ -1445,6 +1541,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ein Richter, dem ein Ausschließungsgrund bekannt wird, hat diesen sogleich dem Vorsteher oder Präsidenten des Gerichts, dem er angehört, der Vorsteher eines Bezirksgerichts und der Präsident eines Landesgerichts oder Oberlandesgerichts dem Präsidenten des jeweils übergeordneten Gerichts, der Präsident des Obersten Gerichtshofs dem Vizepräsidenten des Obersten Gerichtshofs \(§ 3 Abs\. 5 des Bundesgesetzes vom 19\. Juni 1968 über den Obersten Gerichtshof\) anzuzeigen\.
 
 > `(3)` Allen Beteiligten des Verfahrens steht der Antrag auf Ablehnung eines Richters wegen Ausschließung zu\. Er ist bei dem Richter einzubringen, dem die Ausschließung gemäß Abs\. 2 anzuzeigen wäre\.
+
+\[ [🔗 Permalink](#-44-stpo--anzeige-der-ausgeschlossenheit-und-antrag-auf-ablehnung) \]
 
 ### § 45 StPO — Entscheidung über Ausschließung
 
@@ -1454,9 +1552,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Gegen einen Beschluss nach Abs\. 2 steht ein selbstständiges Rechtsmittel nicht zu\.
 
+\[ [🔗 Permalink](#-45-stpo--entscheidung-über-ausschließung) \]
+
 ### § 46 StPO — Ausschließung von Geschworenen, Schöffen und Protokollführern
 
 > Für die Ausschließung und Ablehnung von Geschworenen und Schöffen sind die Bestimmungen über Richter sinngemäß mit der Maßgabe anzuwenden, dass über die Ablehnung der Vorsitzende des Geschworenen\- oder Schöffengerichts zu entscheiden hat\. Für Protokollführer gelten die Ausschließungsgründe des § 43 Abs\. 1; über ihre Ablehnung entscheidet der Richter oder der Vorsitzende des jeweiligen Senates\.
+
+\[ [🔗 Permalink](#-46-stpo--ausschließung-von-geschworenen-schöffen-und-protokollführern) \]
 
 ### § 47 StPO — Befangenheit von Kriminalpolizei und Staatsanwaltschaft
 
@@ -1471,6 +1573,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Bei Gefahr im Verzug hat, wenn die Vertretung durch ein anderes Organ nicht sogleich bewirkt werden kann, auch das befangene Organ unaufschiebbare Amtshandlungen vorzunehmen, soweit es nicht gegen sich selbst oder gegen einen Angehörigen einzuschreiten hätte\.
 
 > `(3)` Über die Befangenheit hat der Leiter der Behörde, der das Organ angehört, im Fall der Befangenheit des Leiters dieser Behörde der Leiter der übergeordneten Behörde im Dienstaufsichtsweg zu entscheiden und das Erforderliche zu veranlassen\.
+
+\[ [🔗 Permalink](#-47-stpo--befangenheit-von-kriminalpolizei-und-staatsanwaltschaft) \]
 
 ## 5. Abschnitt
 
@@ -1493,6 +1597,8 @@ Der Nationalrat hat beschlossen:
 > `(6)` Dem Rechtsschutzbeauftragten gebührt als Entschädigung für die Erfüllung seiner Aufgaben nach diesem Bundesgesetz für jede, wenn auch nur begonnene Stunde ein Zehntel der Entschädigung eines Ersatzmitgliedes des Verfassungsgerichtshofes für einen Sitzungstag \(§ 4 Abs\. 3 des Verfassungsgerichtshofgesetzes\)\. Für die Vergütung seiner Reisekosten gelten die Bestimmungen der Reisegebührenvorschrift für Bundesbedienstete sinngemäß mit der Maßgabe, dass sein Wohnsitz als Dienstort gilt und dass ihm die Reisezulage in der Gebührenstufe 3 gebührt\. Für die Bemessung der dem Rechtsschutzbeauftragten zustehenden Gebühren ist der Bundesminister für Justiz zuständig\.
 
 > `(7)` Bis zum 31\. März eines jeden Jahres hat der Rechtschutzbeauftragte dem Bundesminister für Justiz einen Bericht über seine Tätigkeit und seine Wahrnehmungen im Rahmen seiner Aufgabenerfüllung \(§ 23 Abs\. 1a, § 115l, § 147, § 195 Abs\. 2a, § 209a Abs\. 6\) im vorangegangenen Jahr zu übermitteln\.
+
+\[ [🔗 Permalink](#-47a-stpo) \]
 
 ## 3. Hauptstück
 
@@ -1517,6 +1623,8 @@ Der Nationalrat hat beschlossen:
 >> `5.` „Verteidiger“ eine zur Ausübung der Rechtsanwaltschaft, eine sonst gesetzlich zur Vertretung im Strafverfahren berechtigte oder eine Person, die an einer inländischen Universität die Lehrbefugnis für Strafrecht und Strafprozessrecht erworben hat, sobald sie der Beschuldigte als Rechtsbeistand bevollmächtigt hat, und eine Person, die dem Beschuldigten nach den Bestimmungen dieses Gesetzes als Rechtsbeistand bestellt wurde\.
 
 > `(2)` Soweit die Bestimmungen dieses Gesetzes auf den Beschuldigten verweisen und im Einzelnen nichts anderes bestimmt wird, sind sie auch auf Verdächtige, Angeklagte und auf Personen anzuwenden, gegen die ein Verfahren zur Unterbringung in einem forensisch\-therapeutischen Zentrum nach § 21 StGB geführt wird\.
+
+\[ [🔗 Permalink](#-48-stpo--definitionen) \]
 
 ## 2. Abschnitt
 
@@ -1554,6 +1662,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Beschuldigte hat das Recht, dass Opfern, Privatbeteiligten oder Privatanklägern Akteneinsicht \(§ 68\) nur insoweit gewährt wird, als dies zur Wahrung ihrer Interessen erforderlich ist\.
 
+\[ [🔗 Permalink](#-49-stpo--rechte-des-beschuldigten) \]
+
 ### § 50 StPO — Rechtsbelehrung
 
 > `(1)` Jeder Beschuldigte ist durch die Kriminalpolizei oder die Staatsanwaltschaft sobald wie möglich über das gegen ihn geführte Ermittlungsverfahren und den gegen ihn bestehenden Tatverdacht sowie über seine wesentlichen Rechte im Verfahren \(§§ 49, 164 Abs\. 1\) zu informieren\. Sobald die dem Ermittlungsverfahren zu Grunde liegenden Tatsachen an sich oder in Verbindung mit neu hervorgetretenen Umständen den Verdacht der Begehung einer anderen oder einer weiteren strafbaren Handlung begründen, ist der Beschuldigte auch über diese geänderten Gesichtspunkte des gegen ihn bestehenden Tatverdachts zu informieren\. Dies darf nur so lange unterbleiben als besondere Umstände befürchten lassen, dass ansonsten der Zweck der Ermittlungen gefährdet wäre, insbesondere weil Ermittlungen oder Beweisaufnahmen durchzuführen sind, deren Erfolg voraussetzt, dass der Beschuldigte keine Kenntnis von den gegen ihn geführten Ermittlungen hat\.
@@ -1562,6 +1672,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Umstand der erteilten oder ergänzten Belehrung des Beschuldigten sowie eines Verzichts auf ein Recht des Beschuldigten ist schriftlich festzuhalten \(§§ 95 und 96\)\.
 
+\[ [🔗 Permalink](#-50-stpo--rechtsbelehrung) \]
+
 ### § 51 StPO — Akteneinsicht
 
 > `(1)` Der Beschuldigte ist berechtigt, in die der Kriminalpolizei, der Staatsanwaltschaft und dem Gericht vorliegenden Ergebnisse des Ermittlungs\- und des Hauptverfahrens Einsicht zu nehmen\. Das Recht auf Akteneinsicht berechtigt auch dazu, Beweisgegenstände in Augenschein zu nehmen, soweit dies ohne Nachteil für die Ermittlungen möglich ist\.
@@ -1569,6 +1681,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Soweit die im § 162 angeführte Gefahr besteht, ist es zulässig, personenbezogene Daten und andere Umstände, die Rückschlüsse auf die Identität oder die höchstpersönlichen Lebensumstände der gefährdeten Person zulassen, von der Akteneinsicht auszunehmen und Kopien auszufolgen, in denen diese Umstände unkenntlich gemacht wurden\. Im Übrigen darf Akteneinsicht nur vor Beendigung des Ermittlungsverfahrens und nur insoweit beschränkt werden, als besondere Umstände befürchten lassen, dass durch eine sofortige Kenntnisnahme von bestimmten Aktenstücken der Zweck der Ermittlungen gefährdet wäre\. Befindet sich der Beschuldigte jedoch in Haft, so ist eine Beschränkung der Akteneinsicht hinsichtlich solcher Aktenstücke, die für die Beurteilung des Tatverdachts oder der Haftgründe von Bedeutung sein können, ab Verhängung der Untersuchungshaft unzulässig\.
 
 > `(3)` Einfache Auskünfte können auch mündlich erteilt werden\. Hiefür gelten die Bestimmungen über Akteneinsicht sinngemäß\.
+
+\[ [🔗 Permalink](#-51-stpo--akteneinsicht) \]
 
 ### § 52 StPO
 
@@ -1586,15 +1700,21 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Dem Verfahrenshilfeverteidiger sind unverzüglich Kopien des Aktes von Amts wegen, im Haftfall durch das Gericht zuzustellen\. Gleiches gilt für die Fälle des Abs\. 2 Z 2 und 3\. Der Verteidiger des in Haft befindlichen Beschuldigten kann beantragen, dass ihm durch die Staatsanwaltschaft Kopien oder Ausdrucke der in Abs\. 2 Z 2 und 3 angeführten Aktenstücke auch in weiterer Folge von Amts wegen übermittelt werden\.
 
+\[ [🔗 Permalink](#-52-stpo) \]
+
 ### § 53 StPO — Verfahren bei Akteneinsicht
 
 > `(1)` Einsicht in den jeweiligen Akt kann im Ermittlungsverfahren bei der Staatsanwaltschaft und bis zur Erstattung des Abschlussberichts \(§ 100 Abs\. 2 Z 4\) auch bei der Kriminalpolizei begehrt werden, im Verfahren zur Ausforschung des Beschuldigten auf Verlangen des Opfers \(§ 71 Abs\. 1 und 2\) und im Hauptverfahren bei Gericht\. Solange der Beschuldigte in Untersuchungshaft angehalten wird, hat ihm auf Antrag auch das Gericht Akteneinsicht in die im § 52 Abs\. 2 Z 2 angeführten Aktenstücke zu gewähren\.
 
 > `(2)` Soweit Akteneinsicht zusteht, ist sie grundsätzlich während der Amtsstunden in den jeweiligen Amtsräumen zu ermöglichen\. Im Rahmen der technischen Möglichkeiten kann sie auch über Bildschirm oder im Wege elektronischer Datenübertragung gewährt werden\. Es ist unzulässig, dem Beschuldigten oder seinem Vertreter Akten oder Teile davon zur Herstellung von Kopien außerhalb des Amtsgebäudes mitzugeben\.
 
+\[ [🔗 Permalink](#-53-stpo--verfahren-bei-akteneinsicht) \]
+
 ### § 54 StPO — Verbot der Veröffentlichung
 
 > Der Beschuldigte und sein Verteidiger sind berechtigt, Informationen, die sie im Verfahren in nicht öffentlicher Verhandlung oder im Zuge einer nicht öffentlichen Beweisaufnahme oder durch Akteneinsicht erlangt haben, im Interesse der Verteidigung und anderer überwiegender Interessen zu verwerten\. Es ist ihnen jedoch untersagt, solche Informationen, soweit sie personenbezogene Daten anderer Beteiligter des Verfahrens oder Dritter enthalten und nicht in öffentlicher Verhandlung vorgekommen sind oder sonst öffentlich bekannt wurden, in einem Medienwerk oder sonst auf eine Weise zu veröffentlichen, dass die Mitteilung einer breiten Öffentlichkeit zugänglich wird, wenn dadurch schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 DSG\) anderer Beteiligter des Verfahrens oder Dritter, die gegenüber dem öffentlichen Informationsinteresse überwiegen, verletzt würden\.
+
+\[ [🔗 Permalink](#-54-stpo--verbot-der-veröffentlichung) \]
 
 ### § 55 StPO — Beweisanträge
 
@@ -1612,6 +1732,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Kriminalpolizei hat im Ermittlungsverfahren den beantragten Beweis aufzunehmen oder den Antrag mit Anlassbericht \(§ 100 Abs\. 2 Z 2\) der Staatsanwaltschaft vorzulegen\. Die Staatsanwaltschaft hat ihrerseits die Beweisaufnahme zu veranlassen oder den Beschuldigten zu verständigen, aus welchen Gründen sie unterbleibt\.
 
+\[ [🔗 Permalink](#-55-stpo--beweisanträge) \]
+
 ### § 56 StPO — Übersetzungshilfe
 
 > `(1)` Ein Beschuldigter, der die Verfahrenssprache nicht spricht oder versteht, hat das Recht auf Dolmetschleistungen \(Abs\. 2\)\. Soweit dies zur Wahrung der Verteidigungsrechte und eines fairen Verfahrens erforderlich ist, hat der Beschuldigte darüber hinaus das Recht auf schriftliche Übersetzung der wesentlichen Aktenstücke \(Abs\. 3\), die innerhalb einer angemessen festzusetzenden Frist vorzunehmen ist\. Für das Verfahren zur Geltendmachung dieses Rechts gilt § 53 Abs\. 1 erster Satz sinngemäß\.
@@ -1628,6 +1750,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Ist der Beschuldigte gehörlos oder stumm, so ist ein Dolmetscher für die Gebärdensprache beizuziehen, sofern sich der Beschuldigte in dieser verständigen kann\. Andernfalls ist zu versuchen, mit dem Beschuldigten schriftlich oder auf andere geeignete Art, in der sich der Beschuldigte verständlich machen kann, zu verkehren\.
 
+\[ [🔗 Permalink](#-56-stpo--übersetzungshilfe) \]
+
 ## 3. Abschnitt
 
 ## Der Verteidiger
@@ -1638,6 +1762,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Verteidiger übt, soweit in diesem Gesetz nichts anderes bestimmt ist, die Verfahrensrechte aus, die dem Beschuldigten zustehen\. Der Beschuldigte kann aber immer selbst Erklärungen abgeben; im Fall einander widersprechender Erklärungen gilt seine\. Ein Verzicht auf Rechtsmittel gegen das Urteil, den der Beschuldigte nicht im Beisein seines Verteidigers und nach Beratung mit diesem abgibt, ist jedoch ohne Wirkung\.
 
+\[ [🔗 Permalink](#-57-stpo--rechte-des-verteidigers) \]
+
 ### § 58 StPO — Bevollmächtigung des Verteidigers
 
 > `(1)` Der Beschuldigte hat das Recht, mit einem Verteidiger Kontakt aufzunehmen, ihn zu bevollmächtigen und sich mit ihm zu besprechen\.
@@ -1647,6 +1773,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Der Beschuldigte kann die Verteidigung vom gewählten Verteidiger jederzeit auf einen anderen übertragen, doch darf das Verfahren durch diesen Wechsel nicht unangemessen verzögert werden\. Wenn der Beschuldigte mehrere Verteidiger bevollmächtigt, wird das Fragerecht und das Recht vorzutragen dadurch nicht erweitert\. In diesem Fall gelten Zustellungen an ihn als bewirkt, sobald auch nur einem der Verteidiger zugestellt wurde\.
 
 > `(4)` Für einen Minderjährigen und eine volljährige Person, die einen gesetzlichen Vertreter nach § 1034 Abs\. 1 Z 2 oder 3 ABGB hat, kann der gesetzliche Vertreter selbst gegen ihren Willen einen Verteidiger bevollmächtigen\.
+
+\[ [🔗 Permalink](#-58-stpo--bevollmächtigung-des-verteidigers) \]
 
 ### § 59 StPO
 
@@ -1666,6 +1794,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; Ergibt sich im weiteren Verfahren, dass die Erklärung des Beschuldigten falsch war, so ist er vom Gericht nachträglich zum Ersatz dieser Kosten zu verpflichten\.
 
+\[ [🔗 Permalink](#-59-stpo) \]
+
 ### § 60 StPO — Ausschluss des Verteidigers
 
 > `(1)` Von der Verteidigung ist auszuschließen, gegen wen ein Verfahren wegen Beteiligung an derselben Straftat oder wegen Begünstigung hinsichtlich dieser Straftat anhängig ist, oder wer den Verkehr mit dem angehaltenen Beschuldigten dazu missbraucht, Straftaten zu begehen oder die Sicherheit und Ordnung einer Vollzugsanstalt erheblich zu gefährden, insbesondere dadurch, dass er in gesetzwidriger Weise Gegenstände oder Nachrichten überbringt oder entgegennimmt\.
@@ -1673,6 +1803,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Ausschluss von der Verteidigung ist vom Gericht mit Beschluss auszusprechen; zuvor hat es dem Verteidiger Gelegenheit zu geben, sich zu äußern\. Im Ermittlungsverfahren ist auch die Kriminalpolizei vom Ausschluss zu verständigen\. Im Übrigen ist § 236a anzuwenden; in den Fällen notwendiger Verteidigung ist nach § 61 Abs\. 3 vorzugehen\.
 
 > `(3)` Der Ausschluss ist aufzuheben, sobald seine Voraussetzungen weggefallen sind\.
+
+\[ [🔗 Permalink](#-60-stpo--ausschluss-des-verteidigers) \]
 
 ### § 61 StPO — Beigebung eines Verteidigers
 
@@ -1714,6 +1846,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Beigebung eines Verfahrenshilfeverteidigers gilt, wenn das Gericht nicht im Einzelnen etwas anderes anordnet, für das gesamte weitere Verfahren bis zu dessen rechtskräftigem Abschluss sowie für ein allfälliges Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsbeschwerde oder eines Antrages auf Erneuerung des Strafverfahrens\.
 
+\[ [🔗 Permalink](#-61-stpo--beigebung-eines-verteidigers) \]
+
 ### § 62 StPO — Bestellung eines Verteidigers
 
 > `(1)` Hat das Gericht die Beigebung eines Verteidigers beschlossen, so hat es den Ausschuss der nach seinem Sitz zuständigen Rechtsanwaltskammer zu benachrichtigen, damit dieser einen Rechtsanwalt zum Verteidiger bestelle\. Dabei hat der Ausschuss Wünschen des Beschuldigten zur Auswahl der Person dieses Verteidigers im Einvernehmen mit dem namhaft gemachten Rechtsanwalt nach Möglichkeit zu entsprechen\.
@@ -1726,11 +1860,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Beigebung und Bestellung eines Verteidigers erlöschen jedenfalls mit dem Einschreiten eines bevollmächtigten Verteidigers \(§ 58 Abs\. 2\)\.
 
+\[ [🔗 Permalink](#-62-stpo--bestellung-eines-verteidigers) \]
+
 ### § 63 StPO — Fristenlauf
 
 > `(1)` Wird dem Beschuldigten innerhalb der für die Ausführung eines Rechtsmittels oder für eine sonstige Prozesshandlung offen stehenden Frist ein Verteidiger nach § 61 Abs\. 2 oder 3 beigegeben oder hat der Beschuldigte vor Ablauf dieser Frist die Beigebung eines Verfahrenshilfeverteidigers beantragt, so beginnt die Frist ab dem Zeitpunkt neu zu laufen, ab welchem dem Verteidiger der Bescheid über seine Bestellung und das Aktenstück, das die Frist sonst in Lauf setzt, oder dem Beschuldigten der den Antrag abweisende Beschluss zugestellt wird\.
 
 > `(2)` Wurde durch eine Zustellung an den Verteidiger eine Frist ausgelöst, so wird deren Lauf nicht dadurch unterbrochen oder gehemmt, dass die Vollmacht des Verteidigers zurückgelegt oder gekündigt wird\. In diesem Fall hat der Verteidiger weiterhin die Interessen des Beschuldigten zu wahren und innerhalb der Frist erforderliche Prozesshandlungen nötigenfalls vorzunehmen, es sei denn, der Beschuldigte hätte ihm dies ausdrücklich untersagt\.
+
+\[ [🔗 Permalink](#-63-stpo--fristenlauf) \]
 
 ## 4. Abschnitt
 
@@ -1741,6 +1879,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Haftungsbeteiligte sind Personen, die für Geldstrafen, Geldbußen oder für die Kosten des Verfahrens haften, oder die, ohne selbst angeklagt zu sein, vom Verfall, vom erweiterten Verfall oder von der Einziehung einer Sache bedroht sind\. Sie haben in der Hauptverhandlung und im Rechtsmittelverfahren, soweit es sich um die Entscheidung über diese vermögensrechtlichen Anordnungen handelt, die Rechte des Angeklagten\.
 
 > `(2)` Haftungsbeteiligte können ihre Sache selbst führen oder sich vertreten lassen \(§ 73\)\.
+
+\[ [🔗 Permalink](#-64-stpo--haftungsbeteiligte) \]
 
 ## 4. Hauptstück
 
@@ -1767,6 +1907,8 @@ Der Nationalrat hat beschlossen:
 >> `3.` „Privatankläger“ jede Person, die eine Anklage oder einen anderen Antrag auf Einleitung des Hauptverfahrens wegen einer nicht von Amts wegen zu verfolgenden Straftat bei Gericht einbringt \(§ 71\),
 >
 >> `4.` „Subsidiarankläger“ jeder Privatbeteiligte, der eine von der Staatsanwaltschaft zurückgezogene Anklage aufrecht hält\.
+
+\[ [🔗 Permalink](#-65-stpo--definitionen) \]
 
 ## 2. Abschnitt
 
@@ -1803,6 +1945,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Übersetzungshilfe ist in sinngemäßer Anwendung der Bestimmungen des § 56 zu gewähren\. Als wesentliche Aktenstücke, die auf Verlangen des Opfers zu übersetzen sind, gelten die schriftliche Bestätigung der Anzeige \(§ 80 Abs\. 1\), die Verständigung von der Einstellung des Ermittlungsverfahrens und deren Begründung \(§ 194 Abs\. 2\) sowie eine Ausfertigung des Urteils und der Strafverfügung \(§ 491\); bei der Prüfung der Erforderlichkeit tritt an Stelle der Erforderlichkeit zur Wahrung der Verteidigungsrechte jene zur Wahrung der Rechte und Interessen des Opfers \(§ 10\)\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch Art\. 10 Z 5, BGBl\. I Nr\. 148/2020\)*
 
+\[ [🔗 Permalink](#-66-stpo--opferrechte) \]
+
 ### § 66a StPO — Besondere Schutzbedürftigkeit von Opfern
 
 > `(1)` Opfer haben das Recht auf ehestmögliche Beurteilung und Feststellung ihrer besonderen Schutzbedürftigkeit nach Maßgabe ihres Alters, ihres seelischen und gesundheitlichen Zustands sowie der Art und konkreten Umstände der Straftat\. Als besonders schutzbedürftig gelten jedenfalls Opfer,
@@ -1833,6 +1977,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Einem Opfer, dem auf Antrag Rechte nach Abs\. 2 nicht gewährt werden, sind die Gründe dafür mitzuteilen\.
 
+\[ [🔗 Permalink](#-66a-stpo--besondere-schutzbedürftigkeit-von-opfern) \]
+
 ### § 66b StPO — Prozessbegleitung
 
 > `(1)` Auf ihr Verlangen ist
@@ -1852,6 +1998,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Psychosoziale Prozessbegleitung umfasst die Vorbereitung der Betroffenen auf das Verfahren und die mit ihm verbundenen emotionalen Belastungen sowie die Begleitung zu Vernehmungen im Ermittlungs\- und Hauptverfahren, juristische Prozessbegleitung die rechtliche Beratung und Vertretung durch einen Rechtsanwalt\.
 
 > `(3)` Die Bundesministerin für Justiz ist ermächtigt, bewährte geeignete Einrichtungen vertraglich zu beauftragen, den in Abs\. 1 genannten Personen nach Prüfung der gesetzlichen Voraussetzungen Prozessbegleitung zu gewähren sowie durch Verordnung nähere Bestimmungen über die Voraussetzungen der Beauftragung solcher Einrichtungen und im Einvernehmen mit der Bundesministerin für Frauen und Integration im Bundeskanzleramt sowie der Bundesministerin für Arbeit, Familien und Jugend über Qualitätsstandards der Prozessbegleitung, insbesondere über die Aus\- und Weiterbildung von Prozessbegleitern, zu erlassen\.
+
+\[ [🔗 Permalink](#-66b-stpo--prozessbegleitung) \]
 
 ### § 67 StPO — Privatbeteiligung
 
@@ -1885,6 +2033,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Privatbeteiligten ist – soweit ihnen nicht juristische Prozessbegleitung zu gewähren ist \(§ 66b\) – Verfahrenshilfe durch unentgeltliche Beigebung eines Rechtsanwalts zu bewilligen, soweit die Vertretung durch einen Rechtsanwalt im Interesse der Rechtspflege, vor allem im Interesse einer zweckentsprechenden Durchsetzung ihrer Ansprüche zur Vermeidung eines nachfolgenden Zivilverfahrens erforderlich ist, und sie außerstande sind, die Kosten ihrer anwaltlichen Vertretung ohne Beeinträchtigung des notwendigen Unterhalts zu bestreiten\. Als notwendiger Unterhalt ist derjenige anzusehen, den die Person für sich und ihre Familie, für deren Unterhalt sie zu sorgen hat, zu einer einfachen Lebensführung benötigt\. Für die Beigebung und Bestellung eines solchen Vertreters gelten die Bestimmungen der § 61 Abs\. 4, § 62 Abs\. 1, 2 und 4 sowie § 63 Abs\. 1 sinngemäß\.
 
+\[ [🔗 Permalink](#-67-stpo--privatbeteiligung) \]
+
 ### § 68 StPO — Akteneinsicht
 
 > `(1)` Privatbeteiligte und Privatankläger sind zur Akteneinsicht berechtigt, soweit ihre Interessen betroffen sind; hiefür gelten die §§ 51, 52 Abs\. 1, Abs\. 2 Z 1, 3 und 4 sowie 53 sinngemäß\. Im Übrigen darf die Akteneinsicht nur verweigert oder beschränkt werden, soweit durch sie der Zweck der Ermittlungen oder eine unbeeinflusste Aussage als Zeuge gefährdet wäre\.
@@ -1893,6 +2043,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Das Verbot der Veröffentlichung nach § 54 gilt für Opfer, Privatbeteiligte und Privatankläger sinngemäß\.
 
+\[ [🔗 Permalink](#-68-stpo--akteneinsicht) \]
+
 ### § 69 StPO — Privatrechtliche Ansprüche
 
 > `(1)` Der Privatbeteiligte kann einen aus der Straftat abgeleiteten, auf Leistung, Feststellung oder Rechtsgestaltung gerichteten Anspruch gegen den Beschuldigten geltend machen\. Die Gültigkeit einer Ehe oder eingetragenen Partnerschaft kann im Strafverfahren jedoch immer nur als Vorfrage \(§ 15\) beurteilt werden\.
@@ -1900,6 +2052,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Das Gericht hat im Hauptverfahren jederzeit einen Vergleich über privatrechtliche Ansprüche zu Protokoll zu nehmen\. Es kann den Privatbeteiligten und den Beschuldigten auch auf Antrag oder von Amts wegen zu einem Vergleichsversuch laden und einen Vorschlag für einen Vergleich unterbreiten\. Kommt ein Vergleich zustande, so sind dem Privatbeteiligten, der Staatsanwaltschaft und dem Beschuldigten Vergleichsausfertigungen auszufolgen\.
 
 > `(3)` Im Fall einer Sicherstellung nach § 110 Abs\. 1 Z 2 hat die Staatsanwaltschaft die Rückgabe des Gegenstandes oder Vermögenswertes an das Opfer anzuordnen, wenn eine Beschlagnahme aus Beweisgründen nicht erforderlich ist und in die Rechte Dritter dadurch nicht eingegriffen wird\.
+
+\[ [🔗 Permalink](#-69-stpo--privatrechtliche-ansprüche) \]
 
 ### § 70 StPO — Recht auf Information
 
@@ -1918,6 +2072,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Spätestens vor ihrer ersten Vernehmung sind Opfer im Sinn des § 66b Abs\. 1 lit\. a bis d überdies über die Voraussetzungen der Prozessbegleitung und besonders schutzbedürftige Opfer über ihre Rechte nach § 66a zu informieren\.
 
 > `(3)` Nach erfolgter Belehrung kann das Opfer in jeder Lage des Verfahrens erklären, auf weitere Verständigungen und Ladungen zu verzichten, in welchem Fall von einer weiteren Beteiligung des Opfers am Verfahren Abstand zu nehmen ist\.
+
+\[ [🔗 Permalink](#-70-stpo--recht-auf-information) \]
 
 ## 3. Abschnitt
 
@@ -1939,6 +2095,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Kommt der Privatankläger nicht zur Hauptverhandlung oder stellt er nicht die erforderlichen Anträge, so wird angenommen, dass er auf die Verfolgung verzichtet habe\. In diesen Fällen ist das Verfahren durch Beschluss einzustellen\.
 
+\[ [🔗 Permalink](#-71-stpo--privatankläger) \]
+
 ### § 72 StPO — Subsidiarankläger
 
 > `(1)` Privatbeteiligte sind berechtigt, die Anklage als Subsidiarankläger aufrecht zu erhalten, wenn die Staatsanwaltschaft von der Anklage zurücktritt\. Zum Subsidiarankläger wird der Privatbeteiligte durch die Erklärung, die Anklage aufrecht zu erhalten; das Opfer hat zuvor überdies zu erklären, am Verfahren als Privatbeteiligter mitzuwirken\.
@@ -1949,6 +2107,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Subsidiarankläger hat im Hauptverfahren die gleichen Rechte wie der Privatankläger\. Rechtsmittel gegen Urteile stehen ihm jedoch nur soweit zu, als der Privatbeteiligte sie zu erheben berechtigt ist\. Die Staatsanwaltschaft kann sich jederzeit über den Gang des Verfahrens informieren und die Anklage wieder an sich ziehen; in diesem Fall stehen dem Subsidiarankläger wieder die Rechte des Privatbeteiligten zu\.
 
+\[ [🔗 Permalink](#-72-stpo--subsidiarankläger) \]
+
 ## 4. Abschnitt
 
 ## Vertreter
@@ -1956,6 +2116,8 @@ Der Nationalrat hat beschlossen:
 ### § 73 StPO — Vertreter
 
 > Vertreter stehen Haftungsbeteiligten, Opfern, Privatbeteiligten, Privatanklägern und Subsidiaranklägern beratend und unterstützend zur Seite\. Sie üben, soweit in diesem Gesetz nichts anderes bestimmt wird, die Verfahrensrechte aus, die den Vertretenen zustehen\. Als Vertreter kann eine zur Ausübung der Rechtsanwaltschaft berechtigte, eine nach § 25 Abs\. 3 SPG anerkannte Opferschutzeinrichtung oder eine sonst geeignete Person bevollmächtigt werden\.
+
+\[ [🔗 Permalink](#-73-stpo--vertreter) \]
 
 ## 5. Hauptstück
 
@@ -1971,6 +2133,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Kriminalpolizei, Staatsanwaltschaft und Gericht haben beim Verarbeiten personenbezogener Daten den Grundsatz der Gesetz\- und Verhältnismäßigkeit \(§ 5\) zu beachten\. Jedenfalls haben sie schutzwürdige Interessen der betroffenen Personen an der Geheimhaltung zu wahren und vertraulicher Behandlung personenbezogener Daten Vorrang einzuräumen\. Bei der Verarbeitung besonderer Kategorien \(§ 39 DSG\) und strafrechtlich relevanter personenbezogener Daten haben sie angemessene Vorkehrungen zur Wahrung der Geheimhaltungsinteressen der betroffenen Personen zu treffen\.
 
+\[ [🔗 Permalink](#-74-stpo--verarbeitung-personenbezogener-daten) \]
+
 ### § 75 StPO — Berichtigen, Löschen und Sperren personenbezogener Daten
 
 > `(1)` Unrichtige, unvollständige oder entgegen den Bestimmungen dieses Gesetzes ermittelte personenbezogene Daten sind von Amts wegen oder auf Antrag der betroffenen Person unverzüglich richtig zu stellen, zu vervollständigen oder zu löschen\. Behörden und Gerichte sind von der Berichtigung oder Löschung jener personenbezogenen Daten zu verständigen, die ihnen zuvor übermittelt worden sind \(§ 76 Abs\. 4\)\. Überdies sind von der Berichtigung jene Behörden und öffentlichen Dienststellen des Bundes, der Länder und der Gemeinden sowie andere durch Gesetz eingerichtete Körperschaften und Anstalten des öffentlichen Rechts zu verständigen, von denen die zu berichtigenden Daten stammen\.
@@ -1985,6 +2149,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Personenbezogene Daten, die ausschließlich auf Grund einer Identitätsfeststellung \(§ 118\), einer körperlichen Untersuchung \(§ 123\) oder einer molekulargenetischen Analyse \(§ 124\) gewonnen wurden, dürfen nur solange verarbeitet werden, als wegen der Art der Ausführung der Tat, der Persönlichkeit der betroffenen Person oder auf Grund anderer Umstände zu befürchten ist, dass diese Person eine strafbare Handlung mit nicht bloß leichten Folgen begehen werde\. Wird der Angeklagte rechtskräftig freigesprochen oder das Ermittlungsverfahren ohne Vorbehalt späterer Verfolgung eingestellt, so sind diese personenbezogenen Daten zu löschen\. Die §§ 73 und 74 SPG bleiben hievon unberührt\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 71/2014\)*
+
+\[ [🔗 Permalink](#-75-stpo--berichtigen-löschen-und-sperren-personenbezogener-daten) \]
 
 ## 2. Abschnitt
 
@@ -2016,6 +2182,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; zu übermitteln\. Dies hat jedenfalls dann zu unterbleiben, wenn im Einzelfall schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 DSG\) die mit der Übermittlung verfolgten Zwecke überwiegen\.
 
+\[ [🔗 Permalink](#-76-stpo--amts--und-rechtshilfe) \]
+
 ### § 77 StPO — Akteneinsicht
 
 > `(1)` Im Falle begründeten rechtlichen Interesses haben Staatsanwaltschaften und Gerichte auch außer den in diesem Gesetz besonders bezeichneten Fällen Einsicht in die ihnen vorliegenden Ergebnisse eines Ermittlungs\- oder Hauptverfahrens zu gewähren, soweit dem nicht überwiegende öffentliche oder private Interessen entgegenstehen\.
@@ -2023,6 +2191,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Zum Zweck einer nicht personenbezogenen Auswertung für wissenschaftliche oder historische Forschungszwecke, statistische Zwecke oder vergleichbare, im öffentlichen Interesse liegende Untersuchungen können die Staatsanwaltschaften, die Leitungen der Gerichte und das Bundesministerium für Justiz auf Ersuchen der Leitung anerkannter wissenschaftlicher Einrichtungen die Übermittlung personenbezogener Daten durch Erteilung von Auskünften, Einsicht in Akten eines Verfahrens und Herstellung von Kopien oder Ausdrucken bewilligen, soweit diese Daten pseudonymisiert wurden\. Ist eine Pseudonymisierung nicht oder nur mit einem unverhältnismäßigen Aufwand möglich, darf eine Übermittlung nur erfolgen, wenn das öffentliche Interesse an der Forschungsarbeit das schutzwürdige Geheimhaltungsinteresse der betroffenen Personen \(§ 1 Abs\. 1 DSG\) erheblich überwiegt\. Die § 43 und § 44 DSG sind nicht anwendbar\.
 
 > `(3)` § 54 ist sinngemäß anzuwenden\.
+
+\[ [🔗 Permalink](#-77-stpo--akteneinsicht) \]
 
 ## 3. Abschnitt
 
@@ -2040,15 +2210,21 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Behörde oder öffentliche Dienststelle hat jedenfalls alles zu unternehmen, was zum Schutz des Opfers oder anderer Personen vor Gefährdung notwendig ist; erforderlichenfalls ist auch in den Fällen des Abs\. 2 Anzeige zu erstatten\.
 
+\[ [🔗 Permalink](#-78-stpo--anzeigepflicht) \]
+
 ### § 79 StPO
 
 > Soweit eine gesetzliche Anzeigepflicht besteht, sind der Kriminalpolizei, den Staatsanwaltschaften und den Gerichten zur Aufklärung einer Straftat einer bestimmten Person von Amts wegen oder auf Grund von Ersuchen Ablichtungen der Akten und sonstigen schriftlichen Aufzeichnungen zu übermitteln oder Akteneinsicht zu gewähren\. Eine Berufung auf bestehende gesetzliche Verschwiegenheitspflichten ist insoweit unzulässig\.
+
+\[ [🔗 Permalink](#-79-stpo) \]
 
 ### § 80 StPO — Anzeige- und Anhalterecht
 
 > `(1)` Wer von der Begehung einer strafbaren Handlung Kenntnis erlangt, ist zur Anzeige an Kriminalpolizei oder Staatsanwaltschaft berechtigt\. Einem Opfer \(§ 65 Z 1\), das Anzeige erstattet hat, ist eine schriftliche Bestätigung der Anzeige gebührenfrei auszufolgen\.
 
 > `(2)` Wer auf Grund bestimmter Tatsachen annehmen kann, dass eine Person eine strafbare Handlung ausführe, unmittelbar zuvor ausgeführt habe oder dass wegen der Begehung einer strafbaren Handlung nach ihr gefahndet werde, ist berechtigt, diese Person auf verhältnismäßige Weise anzuhalten, jedoch zur unverzüglichen Anzeige an das nächst erreichbare Organ des öffentlichen Sicherheitsdienstes verpflichtet\.
+
+\[ [🔗 Permalink](#-80-stpo--anzeige--und-anhalterecht) \]
 
 ## 4. Abschnitt
 
@@ -2062,6 +2238,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Staatsanwaltschaft und dem Gericht können die Akten zur Einsicht in die Erledigung übermittelt werden\. In diesem Fall hat die Staatsanwaltschaft oder das Gericht den Tag des Einlangens der Akten und den Tag der Einsichtnahme nachvollziehbar in den Akten zu beurkunden\.
 
+\[ [🔗 Permalink](#-81-stpo--bekanntmachung) \]
+
 ### § 82 StPO — Zustellung
 
 > `(1)` Soweit in diesem Gesetz nichts anderes bestimmt wird, gelten für Zustellungen das Zustellgesetz, BGBl\. Nr\. 200/1982, und die §§ 87, 89, 91 und 100 der Zivilprozessordnung sinngemäß\.
@@ -2069,6 +2247,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die §§ 8, 9 Abs\. 2 erster Satz und Abs\. 3 sowie 10 des Zustellgesetzes und § 98 ZPO sind außer im Fall des § 180 Abs\. 4 nur auf Subsidiarankläger, Privatankläger, Opfer, Privatbeteiligte, Haftungsbeteiligte und auf Bevollmächtigte dieser Personen anzuwenden\.
 
 > `(3)` Zustellungen haben durch unmittelbare Übergabe oder durch Zustelldienste \(§ 2 Zustellgesetz\) zu erfolgen\. Die Kriminalpolizei ist nur dann um eine Zustellung zu ersuchen, wenn dies im Interesse der Strafrechtspflege unbedingt erforderlich ist\.
+
+\[ [🔗 Permalink](#-82-stpo--zustellung) \]
 
 ### § 83 StPO — Arten der Zustellung
 
@@ -2081,6 +2261,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Soweit der Beschuldigte oder ein anderer Beteiligter des Verfahrens durch einen Verteidiger oder eine andere Person vertreten wird, ist diesem Verteidiger oder Vertreter zuzustellen\. Die Ladung zur Hauptverhandlung in erster Instanz, das Abwesenheitsurteil sowie Verständigungen und Mitteilungen nach den §§ 200 Abs\. 4, 201 Abs\. 1 und 4 sowie 203 Abs\. 1 und 3 sind dem Angeklagten oder Beschuldigten jedoch immer selbst und zu eigenen Handen zuzustellen\.
 
 > `(5)` Opfern kann durch öffentliche Bekanntmachung zugestellt werden, soweit die Voraussetzungen des § 25 des Zustellgesetzes vorliegen oder schon deren Ausforschung oder die Aufforderung zur Namhaftmachung eines Zustellungsbevollmächtigten \(§ 82 Abs\. 2\) einen dem Beschleunigungsgebot \(§ 9\) widerstreitenden Verfahrensaufwand bedeuten würde\. Die Bekanntmachung ist in die Ediktsdatei \(§ 89j Abs\. 1 GOG\) aufzunehmen, wodurch die Zustellung als bewirkt gilt\.
+
+\[ [🔗 Permalink](#-83-stpo--arten-der-zustellung) \]
 
 ### § 84 StPO — Fristen
 
@@ -2098,6 +2280,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soweit im Einzelnen nichts anderes bestimmt wird, können Rechtsmittel, Rechtsbehelfe und alle sonstigen Eingaben an die Kriminalpolizei, die Staatsanwaltschaft oder das Gericht schriftlich, per Telefax oder im elektronischen Rechtsverkehr \(§ 89a GOG\) eingebracht werden\. Sofern sie an eine Frist gebunden sind, sind sie auch dann rechtzeitig, wenn sie innerhalb dieser Frist bei der Behörde eingebracht werden, die darüber zu entscheiden hat\. Die näheren Vorschriften über die geschäftliche Behandlung solcher Eingaben werden durch Verordnung geregelt\.
 
+\[ [🔗 Permalink](#-84-stpo--fristen) \]
+
 ## 5. Abschnitt
 
 ## Beschlüsse und Beschwerden
@@ -2105,6 +2289,8 @@ Der Nationalrat hat beschlossen:
 ### § 85 StPO — Allgemeines
 
 > Soweit im Einzelnen nicht etwas anderes bestimmt wird, gelten für Erledigungen von Anträgen gemäß § 101 Abs\. 2, gerichtliche Beschlüsse \(§ 35\) und dagegen erhobene Beschwerden sowie das dabei einzuhaltende Verfahren die Bestimmungen dieses Abschnitts\.
+
+\[ [🔗 Permalink](#-85-stpo--allgemeines) \]
 
 ### § 86 StPO — Beschlüsse
 
@@ -2114,6 +2300,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ausfertigung und Zustellung eines Beschlusses, der nach dem Gesetz mündlich zu verkünden ist, können unterbleiben, wenn die Berechtigten sogleich nach der Verkündung auf Beschwerde verzichten\. In diesem Fall und soweit das Gesetz die Verkündung des Beschlusses in der Hauptverhandlung vorsieht, jedoch ein selbstständiges, die weitere Verhandlung hemmendes Rechtsmittel dagegen nicht zulässt, ist der wesentliche Inhalt des Beschlusses im Protokoll zu beurkunden\.
 
+\[ [🔗 Permalink](#-86-stpo--beschlüsse) \]
+
 ### § 87 StPO — Beschwerden
 
 > `(1)` Gegen gerichtliche Beschlüsse steht der Staatsanwaltschaft, dem Beschuldigten, soweit dessen Interessen unmittelbar betroffen sind, und jeder anderen Person, der durch den Beschluss unmittelbar Rechte verweigert werden oder Pflichten entstehen oder die von einem Zwangsmittel betroffen ist, gegen einen Beschluss, mit dem das Verfahren eingestellt wird, auch dem Privatbeteiligten Beschwerde an das Rechtsmittelgericht zu, soweit das Gesetz im Einzelnen nichts anderes bestimmt\.
@@ -2121,6 +2309,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Staatsanwaltschaft steht auch Beschwerde zu, wenn ihre Anträge gemäß § 101 Abs\. 2 nicht erledigt wurden\. Überdies steht jeder Person Beschwerde zu, die behauptet, durch das Gericht im Rahmen einer Beweisaufnahme in einem subjektiven Recht \(§ 106 Abs\. 1\) verletzt worden zu sein\.
 
 > `(3)` Aufschiebende Wirkung hat eine Beschwerde nur dann, wenn das Gesetz dies ausdrücklich vorsieht\.
+
+\[ [🔗 Permalink](#-87-stpo--beschwerden) \]
 
 ### § 88 StPO — Verfahren über Beschwerden
 
@@ -2131,6 +2321,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Beschwerde ist dem Rechtsmittelgericht ohne Verzug mit dem Akt vorzulegen\. Der Gang des Verfahrens darf dadurch nicht aufgehalten werden; erforderlichenfalls sind Kopien jener Aktenteile, die zur Fortführung des Verfahrens erforderlich sind, zurückzubehalten\.
 
 > `(4)` Eine Beschwerde, die innerhalb der Frist beim Rechtsmittelgericht oder im Fall des Abs\. 1 bei der Staatsanwaltschaft, im Fall des Abs\. 2 beim Gericht eingebracht wird, gilt als rechtzeitig\.
+
+\[ [🔗 Permalink](#-88-stpo--verfahren-über-beschwerden) \]
 
 ### § 89 StPO — Verfahren vor dem Rechtsmittelgericht
 
@@ -2158,6 +2350,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Gegen die Entscheidung des Rechtsmittelgerichts steht ein weiterer Rechtszug nicht zu\.
 
+\[ [🔗 Permalink](#-89-stpo--verfahren-vor-dem-rechtsmittelgericht) \]
+
 ## 6. Abschnitt
 
 ## Vollstreckung von Geld- und Freiheitsstrafen
@@ -2169,6 +2363,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ist eine nach diesem Gesetz ausgesprochene Geldstrafe ganz oder teilweise uneinbringlich, so hat das Gericht sie in berücksichtigungswürdigen Fällen neu zu bemessen, sonst aber in eine Ersatzfreiheitsstrafe bis zu acht Tagen umzuwandeln\.
 
 > `(3)` Auf den Vollzug von Ersatzfreiheitsstrafen nach Abs\. 2 und der in diesem Gesetz angedrohten Freiheitsstrafen und der Beugehaft sind die Bestimmungen des Strafvollzugsgesetzes über den Vollzug von Freiheitsstrafen, deren Strafzeit drei Monate nicht übersteigt, sinngemäß anzuwenden\.
+
+\[ [🔗 Permalink](#-90-stpo--vollstreckung-von-geld--und-freiheitsstrafen) \]
 
 ## 2. TEIL
 
@@ -2190,11 +2386,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Erkundigungen \(§ 151 Z 1\) zur Klärung, ob auf Grund bestimmter Anhaltspunkte angenommen werden kann, dass ein Sachverhalt einem gesetzlichen Tatbild entspricht, sind keine Ermittlungen im Sinn des Abs\. 2\.
 
+\[ [🔗 Permalink](#-91-stpo--zweck-des-ermittlungsverfahrens) \]
+
 ### § 92 StPO — Ermächtigung zur Strafverfolgung
 
 > `(1)` Soweit das Gesetz eine Ermächtigung zur Strafverfolgung voraussetzt, haben Kriminalpolizei oder Staatsanwaltschaft unverzüglich bei der gesetzlich berechtigten Person anzufragen, ob sie die Ermächtigung erteile\. Wird diese verweigert, so ist jede weitere Ermittlung gegen die betreffende Person unzulässig und das Verfahren einzustellen\. Die Ermächtigung gilt als verweigert, wenn die berechtigte Person sie nicht binnen vierzehn Tagen nach Anfrage erteilt\. Diese Frist beträgt im Falle der öffentlichen Beleidigung eines verfassungsmäßigen Vertretungskörpers sechs Wochen; die tagungsfreie Zeit ist nicht einzurechnen\.
 
 > `(2)` Die Ermächtigung muss sich auf eine bestimmte Person beziehen und spätestens bei Einleitung diversioneller Maßnahmen oder Einbringen der Anklage vorliegen\. Sie kann bis zum Schluss des Beweisverfahrens erster Instanz zurückgenommen werden\. Die Erklärung, als Privatbeteiligter am Verfahren mitzuwirken \(§ 67\), gilt als Ermächtigung\.
+
+\[ [🔗 Permalink](#-92-stpo--ermächtigung-zur-strafverfolgung) \]
 
 ## 2. Abschnitt
 
@@ -2212,9 +2412,13 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Ausübung unmittelbaren Zwangs ist anzudrohen und anzukündigen, wenn die davon betroffene Person anwesend ist\. Hievon darf nur abgesehen werden, wenn der Erfolg der Ermittlung oder der Beweisaufnahme dadurch gefährdet wäre\. Für den Waffengebrauch gelten die Bestimmungen des Waffengebrauchsgesetzes 1969\.
 
+\[ [🔗 Permalink](#-93-stpo--zwangsgewalt-und-beugemittel) \]
+
 ### § 94 StPO — Ordnungsstrafen
 
 > Für die Aufrechterhaltung der Ordnung und für die Wahrung des Anstandes hat der Leiter der jeweiligen Amtshandlung zu sorgen\. Er ist zu diesem Zweck berechtigt, jede Person, die sich trotz vorausgegangener Ermahnung und Androhung ihrer Wegweisung seinen Anordnungen widersetzt, gegenüber anwesenden Personen aggressiv oder sonst grob ungebührlich verhält oder auf andere Weise die Amtshandlung behindert, auf einige Zeit oder für die gesamte Dauer der Amtshandlung aus dieser wegzuweisen oder zu entfernen\. Im Übrigen sind die §§ 233 Abs\. 3 und 235 bis 236a im Ermittlungsverfahren sinngemäß anzuwenden\. Über die Verhängung der dort erwähnten Ordnungsstrafen \(§ 235, § 236 Abs\. 1\) und die Aufforderung, einen anderen Vertreter zu bestellen \(§ 236 Abs\. 2, § 236a\), entscheidet das Gericht mit Beschluss\.
+
+\[ [🔗 Permalink](#-94-stpo--ordnungsstrafen) \]
 
 ## 3. Abschnitt
 
@@ -2223,6 +2427,8 @@ Der Nationalrat hat beschlossen:
 ### § 95 StPO — Amtsvermerk
 
 > Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich festzuhalten, dass ihr wesentlicher Inhalt nachvollzogen werden kann\. Ein solcher Amtsvermerk ist jedenfalls vom aufnehmenden Organ und allenfalls von anderen Personen zu unterfertigen\.
+
+\[ [🔗 Permalink](#-95-stpo--amtsvermerk) \]
 
 ### § 96 StPO — Protokoll
 
@@ -2248,11 +2454,15 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Das Protokoll ist zum Akt zu nehmen\. Soweit die vernommene Person zur Akteneinsicht berechtigt ist, ist ihr auf Verlangen sogleich gebührenfrei eine Abschrift oder Kopie auszufolgen, sofern dem schutzwürdige Interessen des Verfahrens oder Dritter nicht entgegen stehen; § 54 ist anzuwenden\. Auf Kurzschriften und Tonaufnahmen \(Abs\. 2\) ist § 271 Abs\. 6 anzuwenden\.
 
+\[ [🔗 Permalink](#-96-stpo--protokoll) \]
+
 ### § 97 StPO — Ton- und Bildaufnahme
 
 > `(1)` Nach ausdrücklicher Information der vernommenen Person ist es zulässig, eine Tonaufnahme oder Ton\- und Bildaufnahme einer Vernehmung anzufertigen, sofern diese zur Gänze aufgenommen wird\. Im Fall der Vernehmung eines Zeugen hat dies, unbeschadet besonderer gesetzlicher Bestimmungen \(§§ 150, 165, 247a, 250 Abs\. 3\), zu unterbleiben, wenn und sobald der Zeuge der Aufnahme widerspricht\.
 
 > `(2)` Im Falle einer Aufnahme nach Abs\. 1 kann an Stelle eines Protokolls eine schriftliche Zusammenfassung des Inhalts der Vernehmung erstellt werden, welche der Leiter der Amtshandlung unterfertigt und zum Akt nimmt\. Auf diese Zusammenfassung sind im Übrigen die Vorschriften der §§ 96 Abs\. 1 und 3 und 271 Abs\. 6 anzuwenden\.
+
+\[ [🔗 Permalink](#-97-stpo--ton--und-bildaufnahme) \]
 
 ## 7. Hauptstück
 
@@ -2267,6 +2477,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Kriminalpolizei und Staatsanwaltschaft haben das Ermittlungsverfahren nach Maßgabe dieses Gesetzes soweit wie möglich im Einvernehmen zu führen\. Kann ein solches nicht erzielt werden, so hat die Staatsanwaltschaft die erforderlichen Anordnungen zu erteilen, die von der Kriminalpolizei zu befolgen sind \(§ 99 Abs\. 1\)\.
 
 > `(2)` Das Gericht wird im Ermittlungsverfahren auf Antrag, von Amts wegen gemäß den §§ 104 und 105 Abs\. 2 oder auf Grund eines Einspruchs tätig\.
+
+\[ [🔗 Permalink](#-98-stpo--allgemeines) \]
 
 ## 2. Abschnitt
 
@@ -2287,6 +2499,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` andernfalls eine ernste Gefahr für Leben, Gesundheit, körperliche Unversehrtheit oder Freiheit einer Person entstehen würde, die auf andere Weise nicht abgewendet werden kann\.
 
 > `(5)` Die Kriminalpolizei hat die Staatsanwaltschaft von einem Aufschub nach Abs\. 4 unverzüglich zu verständigen\. Im Fall einer kontrollierten Lieferung, das ist der Transport von Gegenständen aus dem, in das oder durch das Bundesgebiet, ohne dass die Staatsanwaltschaft verpflichtet wäre, nach § 2 Abs\. 1 vorzugehen, gelten die Bestimmungen der §§ 71 und 72 des Bundesgesetzes über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union \(EU\-JZG\) sinngemäß\.
+
+\[ [🔗 Permalink](#-99-stpo--ermittlungen) \]
 
 ### § 100 StPO — Berichte
 
@@ -2316,11 +2530,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Mit jedem Bericht sind der Staatsanwaltschaft, soweit dies noch nicht geschehen ist, alle für die Beurteilung der Sach\- und Rechtslage erforderlichen kriminalpolizeilichen Akten zu übermitteln oder auf elektronischem Weg zugänglich zu machen\.
 
+\[ [🔗 Permalink](#-100-stpo--berichte) \]
+
 ### § 100a StPO — Berichte an die WKStA
 
 > `(1)` Die Kriminalpolizei hat der WKStA über jeden Verdacht einer im § 20a Abs\. 1 erwähnten Straftat gemäß § 100 Abs\. 2 Z 1 zu berichten\.
 
 > `(2)` Die WKStA kann aus Zweckmäßigkeitsgründen und zur Vermeidung von Verzögerungen andere Staatsanwaltschaften um Durchführung einzelner Ermittlungs\- oder sonstiger Amtshandlungen ersuchen\. Diese sind verpflichtet, die WKStA in vollem Umfang zu unterstützen und Hilfe bei der Strafverfolgung zu leisten\.
+
+\[ [🔗 Permalink](#-100a-stpo--berichte-an-die-wksta) \]
 
 ## 3. Abschnitt
 
@@ -2335,6 +2553,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Staatsanwaltschaft hat ihre Anträge nach Abs\. 2 zu begründen und sie dem Gericht samt den Akten zu übermitteln\. Bewilligt das Gericht eine Maßnahme, so entscheidet die Staatsanwaltschaft über die Durchführung\. Wenn die Voraussetzungen, unter denen der Antrag bewilligt wurde, weggefallen sind oder sich derart geändert haben, dass die Durchführung rechtswidrig, unverhältnismäßig oder nicht mehr zweckmäßig wäre, hat die Staatsanwaltschaft von ihr abzusehen und das Gericht hievon zu verständigen\.
 
 > `(4)` Die Staatsanwaltschaft prüft die Berichte der Kriminalpolizei und trifft die erforderlichen Anordnungen\. Soweit dies aus rechtlichen oder tatsächlichen Gründen erforderlich ist, kann sie jederzeit weitere Ermittlungen und die Ausübung von Zwang durch die Kriminalpolizei anordnen\.
+
+\[ [🔗 Permalink](#-101-stpo--aufgaben) \]
 
 ### § 102 StPO — Anordnungen und Genehmigungen
 
@@ -2352,11 +2572,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Fall einer im Rahmen der Rufbereitschaft bzw\. des Journaldienstes \(§§ 38, 39 GOG\) erteilten gerichtlichen Bewilligung \(§ 105 Abs\. 1\) hat die Anordnung der Staatsanwaltschaft an die Kriminalpolizei bis zum Ablauf des zweiten folgenden Werktages zu erfolgen, widrigenfalls die Bewilligung außer Kraft tritt\.
 
+\[ [🔗 Permalink](#-102-stpo--anordnungen-und-genehmigungen) \]
+
 ### § 103 StPO — Ermittlungen
 
 > `(1)` Soweit dieses Gesetz im Einzelnen nichts anderes bestimmt, obliegt es der Kriminalpolizei, die Anordnungen der Staatsanwaltschaft durchzuführen\. Die Staatsanwaltschaft kann sich an allen Ermittlungen der Kriminalpolizei beteiligen und dem Leiter der kriminalpolizeilichen Amtshandlung einzelne Aufträge erteilen, soweit dies aus rechtlichen oder tatsächlichen Gründen, insbesondere wegen der Bedeutung der Ermittlungen für die Entscheidung über die Fortsetzung des Verfahrens, zweckmäßig ist\.
 
 > `(2)` Die Staatsanwaltschaft kann auch selbst Ermittlungen \(§ 91 Abs\. 2\) durchführen oder durch einen Sachverständigen durchführen lassen\.
+
+\[ [🔗 Permalink](#-103-stpo--ermittlungen) \]
 
 ## 4. Abschnitt
 
@@ -2368,6 +2592,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soweit sich im Rahmen einer gerichtlichen Beweisaufnahme Umstände ergeben, die für die Beurteilung des Tatverdachts bedeutsam sind, kann das Gericht von Amts wegen oder auf Antrag weitere Beweise selbst aufnehmen\. Gleiches gilt, wenn dies erforderlich ist, um die Gefahr abzuwenden, dass ein Beweismittel für eine erhebliche Tatsache verloren geht\. In diesen Fällen hat das Gericht die Staatsanwaltschaft von der Beweisaufnahme zu verständigen\. Die Protokolle über die Beweisaufnahmen hat das Gericht der Staatsanwaltschaft unverzüglich zu übermitteln\. Das Gericht kann die Staatsanwaltschaft auch auf die Notwendigkeit der Durchführung bestimmter weiterer Ermittlungen aufmerksam machen\.
 
+\[ [🔗 Permalink](#-104-stpo--gerichtliche-beweisaufnahme) \]
+
 ### § 105 StPO — Bewilligung von Zwangsmitteln
 
 > `(1)` Das Gericht hat über Anträge auf Verhängung und Fortsetzung der Untersuchungshaft sowie auf Bewilligung bestimmter anderer Zwangsmittel zu entscheiden\. Für die Durchführung einer von ihm bewilligten Maßnahme \(§ 101 Abs\. 3\) hat das Gericht eine Frist zu setzen, bei deren ungenütztem Ablauf die Bewilligung außer Kraft tritt\. Im Fall einer Anordnung der Ausschreibung zur Festnahme nach § 169 wird in die Frist die Zeit der Gültigkeit der Ausschreibung nicht eingerechnet, doch hat die Staatsanwaltschaft mindestens einmal jährlich zu prüfen, ob die Voraussetzungen der Festnahme noch vorliegen\.
@@ -2375,6 +2601,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Soweit dies zur Entscheidung über einen Antrag nach Abs\. 1 aus rechtlichen oder tatsächlichen Gründen erforderlich ist, kann das Gericht weitere Ermittlungen durch die Kriminalpolizei anordnen oder von Amts wegen vornehmen\. Es kann auch von der Staatsanwaltschaft und der Kriminalpolizei tatsächliche Aufklärungen aus den Akten und die Übermittlung eines Berichts über die Durchführung der bewilligten Maßnahme und der weiteren Ermittlungen verlangen\. Nach Verhängung der Untersuchungshaft kann das Gericht anordnen, dass ihm Kopien der im § 52 Abs\. 2 Z 2 und 3 angeführten Aktenstücke auch in weiterer Folge übermittelt werden\.
 
 > `(3)` Wird die Durchführung einer Zwangsmaßnahme durch das Gericht vorläufig mündlich bewilligt, hat das Gericht den wesentlichen Inhalt des Vorbringens der Staatsanwaltschaft und die Gründe für die Dringlichkeit in einem Amtsvermerk \(§ 95\) festzuhalten\. Im Rahmen der Rufbereitschaft oder des Journaldienstes \(§ 38, § 39 Gerichtsorganisationsgesetz – GOG, RGBl\. 217/1896\) darf eine Bewilligung von Zwangsmitteln nur erfolgen, wenn damit nicht bis zum Beginn der nächsten gerichtlichen Dienststunden zugewartet werden kann\.
+
+\[ [🔗 Permalink](#-105-stpo--bewilligung-von-zwangsmitteln) \]
 
 ### § 106 StPO — Einspruch wegen Rechtsverletzung
 
@@ -2394,6 +2622,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wenn die Staatsanwaltschaft dem Einspruch nicht,binnen vier Wochen entspricht oder der Einspruchswerber eine Entscheidung des Gerichts verlangt, hat die Staatsanwaltschaft den Einspruch unverzüglich an das Gericht weiter zu leiten\. Stellungnahmen der Staatsanwaltschaft und der Kriminalpolizei hat das Gericht dem Einspruchswerber zur Äußerung binnen einer festzusetzenden, sieben Tage nicht übersteigenden Frist zuzustellen\.
 
+\[ [🔗 Permalink](#-106-stpo--einspruch-wegen-rechtsverletzung) \]
+
 ### § 107 StPO
 
 > `(1)` Unzulässige, verspätete und solche Einsprüche, denen die Staatsanwaltschaft entsprochen hat, sind zurückzuweisen\. Im Übrigen hat das Gericht in der Sache zu entscheiden\. Im Falle, dass Anklage eingebracht wurde, hat über den Einspruch jenes Gericht zu entscheiden, das im Ermittlungsverfahren zuständig gewesen wäre\.
@@ -2403,6 +2633,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Der Staatsanwaltschaft und dem Einspruchswerber steht Beschwerde zu; diese hat aufschiebende Wirkung\. Das Oberlandesgericht kann die Behandlung einer Beschwerde ablehnen, es sei denn, dass die Entscheidung von der Lösung einer Rechtsfrage abhängt, der grundsätzliche Bedeutung zukommt, insbesondere weil das Gericht von der Rechtsprechung des Oberlandesgerichts oder des Obersten Gerichtshofs abweicht, eine solche Rechtsprechung fehlt oder die zu lösende Rechtsfrage in der bisherigen Rechtsprechung nicht einheitlich beantwortet wird\.
 
 > `(4)` Im Falle, dass das Gericht dem Einspruch stattgibt, haben Staatsanwaltschaft und Kriminalpolizei den entsprechenden Rechtszustand mit den ihnen zu Gebote stehenden Mitteln herzustellen\.
+
+\[ [🔗 Permalink](#-107-stpo) \]
 
 ### § 108 StPO — Antrag auf Einstellung
 
@@ -2423,6 +2655,8 @@ Der Nationalrat hat beschlossen:
 > `(6)` Kann das Ermittlungsverfahren auch nicht vor Ablauf der nach Abs\. 5 verlängerten Frist beendet werden, so hat die Staatsanwaltschaft von Amts wegen auf die in Abs\. 3 bezeichnete Weise und das Gericht wiederum nach den vorangehenden Absätzen vorzugehen\.
 
 > `(7)` Die Frist nach Abs\. 1 wird durch die in § 58 Abs\. 3 Z 2 StGB genannten Verfahrenshandlungen für jeden Beschuldigten, gegen den sich diese gerichtet haben, ausgelöst\. Zeiten eines gerichtlichen Verfahrens nach § 112 und § 112a sowie Zeiten der Erledigung von Rechtshilfeersuchen oder Ermittlungsanordnungen durch ausländische Justizbehörden sind nicht in die Frist einzurechnen\. Wird ein nach § 197 abgebrochenes oder ein nach den §§ 190 bis 192 beendetes Verfahren fortgeführt oder ein Ermittlungsverfahren nach § 215, § 352 Abs\. 1 oder § 485 Abs\. 1 Z 2 wiedereröffnet, so werden jene Zeiten, in denen das Verfahren unterbrochen oder eingestellt war, in die Fristen nach Abs\. 1 und Abs\. 5 erster Satz nicht eingerechnet\.
+
+\[ [🔗 Permalink](#-108-stpo--antrag-auf-einstellung) \]
 
 ## 8. Hauptstück
 
@@ -2472,6 +2706,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `4.` „Auskunft über Bankkonten und Bankgeschäfte“ die Herausgabe aller Unterlagen über die Identität des Inhabers einer Geschäftsverbindung und über seine Verfügungsberechtigung, die Einsicht in Urkunden und andere Unterlagen eines Kredit\- oder Finanzinstituts über Art und Umfang einer Geschäftsverbindung und damit im Zusammenhang stehende Geschäftsvorgänge und sonstige Geschäftsvorfälle für einen bestimmten vergangenen oder zukünftigen Zeitraum\.
 
+\[ [🔗 Permalink](#-109-stpo--definitionen) \]
+
 ### § 110 StPO — Sicherstellung
 
 > `(1)` Sicherstellung ist zulässig, wenn sie
@@ -2508,6 +2744,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Sicherstellung von Gegenständen oder Vermögenswerten aus Beweisgründen \(Abs\. 1 Z 1\) ist nicht zulässig und jedenfalls auf Verlangen der betroffenen Person aufzuheben, soweit und sobald der Beweiszweck durch Bild\-, Ton\- oder sonstige Aufnahmen oder durch Kopien schriftlicher Aufzeichnungen oder automationsunterstützt verarbeiteter Daten erfüllt werden kann und nicht anzunehmen ist, dass die sichergestellten Gegenstände oder Vermögenswerte selbst oder die Originale der sichergestellten Informationen in der Hauptverhandlung in Augenschein zu nehmen sein werden\.
 
+\[ [🔗 Permalink](#-110-stpo--sicherstellung) \]
+
 ### § 111 StPO
 
 > `(1)` Jede Person, die Gegenstände oder Vermögenswerte, die sichergestellt werden sollen, in ihrer Verfügungsmacht hat, ist verpflichtet \(§ 93 Abs\. 2\), diese auf Verlangen der Kriminalpolizei herauszugeben oder die Sicherstellung auf andere Weise zu ermöglichen\. Diese Pflicht kann erforderlichenfalls auch mittels Durchsuchung von Personen oder Wohnungen erzwungen werden; dabei sind die §§ 119 bis 122 sinngemäß anzuwenden\.
@@ -2518,6 +2756,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` In jedem Fall ist der von der Sicherstellung betroffenen Person sogleich oder längstens binnen 24 Stunden eine Bestätigung über die Sicherstellung auszufolgen oder zuzustellen und sie über das Recht, Einspruch zu erheben \(§ 106\) und eine gerichtliche Entscheidung über die Aufhebung oder Fortsetzung der Sicherstellung zu beantragen \(§ 115\), zu informieren\. Von einer Sicherstellung zur Sicherung einer Entscheidung über privatrechtliche Ansprüche \(§ 110 Abs\. 1 Z 2\) ist, soweit möglich, auch das Opfer zu verständigen\.
 
+\[ [🔗 Permalink](#-111-stpo) \]
+
 ### § 112 StPO
 
 > `(1)` Widerspricht die von der Sicherstellung betroffene oder anwesende Person, auch wenn sie selbst der Tat beschuldigt ist, der Sicherstellung von schriftlichen Aufzeichnungen oder Daten \(§ 111 Abs\. 2\) unter Berufung auf ein gesetzlich anerkanntes Recht auf Verschwiegenheit, das bei sonstiger Nichtigkeit nicht durch Sicherstellung umgangen werden darf, so sind diese Unterlagen auf geeignete Art und Weise gegen unbefugte Einsichtnahme oder Veränderung zu sichern und bei Gericht zu hinterlegen\. Auf Antrag des Betroffenen sind die Unterlagen jedoch bei der Staatsanwaltschaft zu hinterlegen, die sie vom Ermittlungsakt getrennt aufzubewahren hat\. In beiden Fällen dürfen die Unterlagen von Staatsanwaltschaft oder Kriminalpolizei nicht eingesehen werden, solange nicht über die Einsicht nach den folgenden Absätzen entschieden worden ist\.
@@ -2525,6 +2765,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Betroffene ist aufzufordern, binnen einer angemessenen, 14 Tage nicht unterschreitenden Frist jene Teile der Aufzeichnungen oder Daten \(§ 111 Abs\. 2\) konkret zu bezeichnen, deren Offenlegung eine Umgehung seiner Verschwiegenheit bedeuten würde; zu diesem Zweck ist er berechtigt, in die hinterlegten Unterlagen Einsicht zu nehmen\. Unterlässt der Betroffene eine solche Bezeichnung, so sind die Unterlagen zum Akt zu nehmen und auszuwerten\. Anderenfalls hat das Gericht, im Fall eines Antrags nach Abs\. 1 vorletzter Satz jedoch die Staatsanwaltschaft die Unterlagen unter Beiziehung des Betroffenen sowie gegebenenfalls geeigneter Hilfskräfte oder eines Sachverständigen zu sichten und anzuordnen, ob und in welchem Umfang sie zum Akt genommen werden dürfen\. Unterlagen, die nicht zum Akt genommen werden, sind dem Betroffenen auszufolgen\. Aus deren Sichtung gewonnene Erkenntnisse dürfen bei sonstiger Nichtigkeit nicht für weitere Ermittlungen oder als Beweis verwendet werden\.
 
 > `(3)` Gegen die Anordnung der Staatsanwaltschaft kann der Betroffene Einspruch erheben, in welchem Fall die Unterlagen dem Gericht vorzulegen sind, das zu entscheiden hat, ob und in welchem Umfang sie zum Akt genommen werden dürfen; Abs\. 2 letzter Satz gilt\. Einer Beschwerde gegen den Beschluss des Gerichts kommt aufschiebende Wirkung zu\.
+
+\[ [🔗 Permalink](#-112-stpo) \]
 
 ### § 112a StPO
 
@@ -2546,6 +2788,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Behörde oder öffentlichen Dienststelle steht gegen den Beschluss des Gerichts Beschwerde zu; diese hat aufschiebende Wirkung\.
 
+\[ [🔗 Permalink](#-112a-stpo) \]
+
 ### § 113 StPO
 
 > `(1)` Die Sicherstellung endet,
@@ -2562,6 +2806,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Im Fall einer Sicherstellung von Gegenständen oder Vermögenswerten \(§ 109 Z 1 lit\. a\) findet eine Beschlagnahme auch auf Antrag nicht statt, wenn sich die Sicherstellung auf Gegenstände oder Vermögenswerte im Sinne des § 110 Abs\. 3 Z 1 lit\. a und d oder Z 2 bezieht oder der Sicherungszweck durch andere behördliche Maßnahmen erfüllt werden kann\. In diesen Fällen hat die Staatsanwaltschaft die erforderlichen Verfügungen über die sichergestellten Gegenstände oder Vermögenswerte und ihre weitere Verwahrung zu treffen und gegebenenfalls die Sicherstellung aufzuheben\.
 
+\[ [🔗 Permalink](#-113-stpo) \]
+
 ### § 114 StPO
 
 > `(1)` Für die Verwahrung sichergestellter Gegenstände und Vermögenswerte hat bis zur Berichterstattung über die Sicherstellung \(§ 113 Abs\. 2\) die Kriminalpolizei, danach die Staatsanwaltschaft zu sorgen\.
@@ -2569,6 +2815,8 @@ Der Nationalrat hat beschlossen:
 > `(1a)` Sichergestellte Kryptowerte sind auf behördeneigene Infrastruktur der Kriminalpolizei zu transferieren und dort zu verwahren\. Soweit dies aus rechtlichen oder tatsächlichen Gründen erforderlich ist, kann die Staatsanwaltschaft anordnen, dass die Verwahrung von Kryptowerten auch nach der Berichterstattung durch die Kriminalpolizei erfolgt\.
 
 > `(2)` Wenn der Grund für die weitere Verwahrung sichergestellter Gegenstände und Vermögenswerte wegfällt, sind diese sogleich jener Person auszufolgen, in deren Verfügungsmacht sie sichergestellt wurden, es sei denn, dass diese Person offensichtlich nicht berechtigt ist\. In diesem Fall sind sie der berechtigten Person auszufolgen oder, wenn eine solche nicht ersichtlich ist und nicht ohne unverhältnismäßigen Aufwand festgestellt werden kann, nach § 1425 ABGB gerichtlich zu hinterlegen\. Die hievon betroffenen Personen sind zu verständigen\.
+
+\[ [🔗 Permalink](#-114-stpo) \]
 
 ### § 115 StPO — Beschlagnahme
 
@@ -2590,6 +2838,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Wenn und sobald die Voraussetzungen der Beschlagnahme nicht oder nicht mehr bestehen oder ein nach Abs\. 5 bestimmter Geldbetrag erlegt wird, hat die Staatsanwaltschaft, nach dem Einbringen der Anklage das Gericht, die Beschlagnahme aufzuheben\.
 
+\[ [🔗 Permalink](#-115-stpo--beschlagnahme) \]
+
 ### § 115a StPO — Verwertung sichergestellter oder beschlagnahmter Vermögenswerte
 
 > `(1)` Vermögenswerte, die gemäß § 110 Abs\. 1 Z 3 sichergestellt wurden oder deren Beschlagnahme gemäß § 115 Abs\. 1 Z 3 zulässig ist, sind einzuziehen oder zu veräußern \(Verwertung\), wenn
@@ -2606,6 +2856,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über die Verwertung hat das Gericht auf Antrag der Staatsanwaltschaft, gegebenenfalls zugleich mit der Beschlagnahme zu entscheiden\.
 
+\[ [🔗 Permalink](#-115a-stpo--verwertung-sichergestellter-oder-beschlagnahmter-vermögenswerte) \]
+
 ### § 115b StPO
 
 > `(1)` Eine Verwertung hat das Gericht durch Edikt anzukündigen, das zu enthalten hat:
@@ -2618,11 +2870,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Edikt ist durch Aufnahme in die Ediktsdatei \(§ 89j GOG\) öffentlich bekannt zu machen\. Eine schriftliche Ausfertigung ist der Staatsanwaltschaft, gegebenenfalls dem von der Anordnung Betroffenen sowie dem Drittschuldner zuzustellen, der zu verpflichten ist, alle Tatsachen, die einer Verwertung entgegenstehen könnten, dem Gericht unverzüglich mitzuteilen\. Dabei entstehende angemessene und ortsübliche Kosten sind zu ersetzen \(§ 111 Abs\. 3\)\.
 
+\[ [🔗 Permalink](#-115b-stpo) \]
+
 ### § 115c StPO
 
 > `(1)` Ein Beschluss auf Verwertung ist durch Aufnahme in die Ediktsdatei \(§ 89j GOG\) öffentlich bekannt zu machen\. Die Zustellung gilt dadurch als bewirkt\. Dieses Edikt hat zumindest dreißig Jahre lang in der Ediktsdatei abfragbar zu bleiben\.
 
 > `(2)` Eine rechtzeitig eingebrachte Beschwerde hat aufschiebende Wirkung\.
+
+\[ [🔗 Permalink](#-115c-stpo) \]
 
 ### § 115d StPO
 
@@ -2632,6 +2888,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein Ersatz für zu Gunsten des Bundes verwertete Vermögenswerte \(§ 115a Abs\. 1\) ist nur in Geld zu leisten\. Der Bund ist dabei wie ein redlicher Besitzer zu behandeln \(§ 330 ABGB\)\.
 
+\[ [🔗 Permalink](#-115d-stpo) \]
+
 ### § 115e StPO
 
 > `(1)` Unterliegen sichergestellte \(§ 110 Abs\. 1 Z 3\) oder beschlagnahmte \(§ 115 Abs\. 1 Z 3\) Gegenstände oder Vermögenswerte einem raschen Verderben, einer erheblichen Wertminderung oder Wertschwankung oder lassen sie sich nur mit unverhältnismäßigen Kosten aufbewahren, so kann das Gericht diese auf Antrag der Staatsanwaltschaft auf die im § 377 angeordnete Weise veräußern\. Die Verwertung hat jedoch solange zu unterbleiben, als die Gegenstände für Beweiszwecke benötigt werden \(§ 110 Abs\. 4\)\.
@@ -2639,6 +2897,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Personen, die von der Veräußerung betroffen sind, sind vor der Verwertung, gegebenenfalls unter sinngemäßer Anwendung des § 83 Abs\. 5 zu verständigen\. Der Erlös tritt an die Stelle der veräußerten Gegenstände und Vermögenswerte\. Die Verwertung wegen unverhältnismäßiger Aufbewahrungskosten unterbleibt, wenn rechtzeitig ein zur Deckung dieser Kosten ausreichender Betrag erlegt wird\.
 
 > `(3)` Über die Verwertung hat das Gericht auf Antrag der Staatsanwaltschaft, gegebenenfalls zugleich mit der Beschlagnahme zu entscheiden\.
+
+\[ [🔗 Permalink](#-115e-stpo) \]
 
 ### § 115f StPO — Beschlagnahme von Datenträgern und Daten
 
@@ -2668,6 +2928,8 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` Wenn und sobald die Voraussetzungen der Beschlagnahme nicht oder nicht mehr bestehen, hat die Staatsanwaltschaft, nach Einbringen der Anklage das Gericht, die Beschlagnahme aufzuheben\. Wird einer Beschwerde Folge gegeben, weil festgestellt wird, dass kein Anfangsverdacht \(§ 1 Abs\. 3\) vorgelegen ist, so gilt § 89 Abs\. 4\.
 
+\[ [🔗 Permalink](#-115f-stpo--beschlagnahme-von-datenträgern-und-daten) \]
+
 ### § 115g StPO
 
 > `(1)` Sollen Datenträger und Daten beschlagnahmt werden \(§ 109 Z 2a\), so ist jede Person verpflichtet \(§ 93 Abs\. 2\), Zugang zu diesen zu gewähren und auf Verlangen Daten in einem allgemein gebräuchlichen Dateiformat auszufolgen oder eine Kopie herstellen zu lassen\. Überdies hat sie die Herstellung einer Originalsicherung \(§ 109 Z 2c\) der auf den Datenträgern oder an anderen Speicherorten gespeicherten Daten zu dulden; § 111 Abs\. 3 gilt sinngemäß\.
@@ -2676,11 +2938,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über jede Sicherstellung eines Datenträgers nach § 115f Abs\. 4 hat die Kriminalpolizei unverzüglich, längstens jedoch binnen 14 Tagen der Staatsanwaltschaft zu berichten \(§ 100 Abs\. 2 Z 2\), welche im Nachhinein sogleich beim Gericht die Beschlagnahme von Datenträgern und Daten \(§ 115f Abs\. 1 bis 3\) zu beantragen oder, wenn deren Voraussetzungen nicht vorliegen oder weggefallen sind, die Aufhebung der Sicherstellung anzuordnen hat\. Wird die Bewilligung nicht erteilt, so haben Staatsanwaltschaft und Kriminalpolizei mit den ihnen zu Gebote stehenden rechtlichen Mitteln den der gerichtlichen Entscheidung entsprechenden Rechtszustand herzustellen und alle durch diese Ermittlungsmaßnahme gewonnenen Ergebnisse zu vernichten; einer Beschwerde der Staatsanwaltschaft gegen einen solchen Beschluss des Gerichts kommt aufschiebende Wirkung zu\.
 
+\[ [🔗 Permalink](#-115g-stpo) \]
+
 ### § 115h StPO — Aufbereitung von Daten
 
 > `(1)` Eine Originalsicherung \(§ 109 Z 2c\) ist herzustellen, eine Arbeitskopie \(§ 109 Z 2d\) zu erstellen und anhand dieser die Daten im Umfang der gerichtlichen Bewilligung aufzubereiten \(§ 109 Z 2b\)\. Das Ergebnis der Datenaufbereitung \(§ 109 Z 2e\) ist in einem allgemein gebräuchlichen Dateiformat in strukturierter Form herzustellen, sodass die Daten elektronisch weiterverarbeitet werden können\. Es ist ein Aufbereitungsbericht zu erstellen, der jedenfalls den Ablauf der Aufbereitung von Daten zu dokumentieren sowie den Umstand einer Wiederherstellung von Daten und die Kriterien für die erfolgte Einschränkung von Daten festzuhalten hat\. Gleiches gilt, wenn Anlass besteht, nach § 101 Abs\. 2 zweiter Satz oder § 103 Abs\. 2 vorzugehen\.
 
 > `(2)` Die Staatsanwaltschaft hat das Ergebnis der Datenaufbereitung \(§ 109 Z 2e\) dem Gericht bei Einbringung der Anklage zu übermitteln\. Das Gericht hat diese nach rechtskräftigem Abschluss des Verfahrens zu löschen und die Löschung der Originalsicherung sowie der Arbeitskopie anzuordnen, soweit sie nicht in einem anderen, bereits anhängigen Strafverfahren als Beweismittel Verwendung finden\. Gleiches gilt für die Staatsanwaltschaft im Fall der Einstellung des Verfahrens\.
+
+\[ [🔗 Permalink](#-115h-stpo--aufbereitung-von-daten) \]
 
 ### § 115i StPO — Auswertung von Daten
 
@@ -2694,15 +2960,21 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Auf Antrag des Beschuldigten oder von Amts wegen sind Daten aus dem Ergebnis der Datenaufbereitung zu vernichten, wenn sie für ein Strafverfahren nicht von Bedeutung sein können oder als Beweismittel nicht verwendet werden dürfen\. Dieses Antragsrecht steht auch den in Abs\. 4 genannten betroffenen Personen zu\.
 
+\[ [🔗 Permalink](#-115i-stpo--auswertung-von-daten) \]
+
 ### § 115j StPO
 
 > `(1)` Als Beweismittel dürfen Ergebnisse einer Auswertung bei sonstiger Nichtigkeit nur verwendet werden, wenn die Ermittlungsmaßnahme rechtmäßig angeordnet und bewilligt \(§ 115f Abs\. 2 und 4 sowie § 115g Abs\. 3\) wurde\.
 
 > `(2)` Ergeben sich bei der Auswertung von Daten Hinweise auf die Begehung einer anderen strafbaren Handlung als derjenigen, die Anlass zur Beschlagnahme von Datenträgern und Daten gegeben hat, so ist mit diesen ein gesonderter Akt anzulegen, soweit die Verwendung als Beweismittel zulässig ist \(Abs\. 1, § 144, § 157 Abs\. 2\)\.
 
+\[ [🔗 Permalink](#-115j-stpo) \]
+
 ### § 115k StPO — Verwahrung von Datenträgern und Daten
 
 > Die Originalsicherung und die Arbeitskopie sind auf geeignete Art und Weise gegen unbefugte Einsichtnahme oder Veränderung zu sichern und bis zur rechtskräftigen Beendigung des Strafverfahrens aufzubewahren; auf die Originalsicherung und Arbeitskopie darf außer im Fall des § 115f Abs\. 5 nicht zugegriffen werden; im Übrigen ist eine Einsichtnahme unzulässig\. Für die Verwahrung von Datenträgern, sofern sie nicht zurückgestellt werden können, und des Ergebnisses der Datenaufbereitung \(§ 109 Z 2e\) hat im Fall einer Aufbereitung der Daten durch die Kriminalpolizei bis zur Berichterstattung über die abschließende Auswertung der Daten \(§ 115i\) diese, danach die Staatsanwaltschaft zu sorgen\.
+
+\[ [🔗 Permalink](#-115k-stpo--verwahrung-von-datenträgern-und-daten) \]
 
 ### § 115l StPO — Rechtsschutz
 
@@ -2717,6 +2989,8 @@ Der Nationalrat hat beschlossen:
 > `(5)` Der Rechtsschutzbeauftragte ist berechtigt, die Vernichtung von Daten \(§ 115i Abs\. 5\) zu beantragen\. Beabsichtigt die Staatsanwaltschaft, einem solchen Antrag des Rechtsschutzbeauftragten nicht nachzukommen, so hat sie unverzüglich die Entscheidung des Gerichts einzuholen\.
 
 > `(6)` Nach Beendigung der Ermittlungsmaßnahme ist dem Rechtsschutzbeauftragten Gelegenheit zu geben, den Aufbereitungsbericht und das Ergebnis der Datenaufbereitung \(§ 109 Z 2e\) einzusehen\. Nach Beendigung des Strafverfahrens ist ihm Gelegenheit zu geben, sich von der ordnungsgemäßen Vernichtung der Originalsicherung, der Arbeitskopie und des Ergebnisses der Datenaufbereitung zu überzeugen\.
+
+\[ [🔗 Permalink](#-115l-stpo--rechtsschutz) \]
 
 ### § 116 StPO — Auskunft aus dem Kontenregister und Auskunft über Bankkonten und Bankgeschäfte
 
@@ -2750,6 +3024,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Wird einem Einspruch wegen Rechtsverletzung oder einer Beschwerde Folge gegeben, so gilt § 89 Abs\. 4\. Eine Durchsuchung des Kredit\- oder Finanzinstituts bedarf stets einer Anordnung der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung\. §§ 110 Abs\. 4 und 111 Abs\. 3 sind anzuwenden\.
 
+\[ [🔗 Permalink](#-116-stpo--auskunft-aus-dem-kontenregister-und-auskunft-über-bankkonten-und-bankgeschäfte) \]
+
 ## 2. Abschnitt
 
 ## Identitätsfeststellung, Durchsuchung von Orten und Gegenständen, Durchsuchung von Personen, körperliche Untersuchung und molekulargenetische Untersuchung
@@ -2776,6 +3052,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `5.` „molekulargenetische Untersuchung“ die Ermittlung jener Bereiche in der DNA einer Person, die der Wiedererkennung dienen\.
 
+\[ [🔗 Permalink](#-117-stpo--definitionen) \]
+
 ### § 118 StPO — Identitätsfeststellung
 
 > `(1)` Identitätsfeststellung ist zulässig, wenn auf Grund bestimmter Tatsachen angenommen werden kann, dass eine Person an einer Straftat beteiligt ist, über die Umstände der Begehung Auskunft geben kann oder Spuren hinterlassen hat, die der Aufklärung dienen könnten\.
@@ -2785,6 +3063,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Jedermann ist verpflichtet, auf eine den Umständen nach angemessene Weise an der Feststellung seiner Identität mitzuwirken; die Kriminalpolizei hat ihm auf Aufforderung mitzuteilen, aus welchem Anlass diese Feststellung erfolgt\.
 
 > `(4)` Wenn die Person an der Identitätsfeststellung nicht mitwirkt oder ihre Identität aus anderen Gründen nicht sogleich festgestellt werden kann, ist die Kriminalpolizei berechtigt, zur Feststellung der Identität eine Durchsuchung der Person nach § 117 Z 3 lit\. a von sich aus durchzuführen\.
+
+\[ [🔗 Permalink](#-118-stpo--identitätsfeststellung) \]
 
 ### § 119 StPO — Durchsuchung von Orten und Gegenständen sowie von Personen
 
@@ -2798,11 +3078,15 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` durch eine Straftat Verletzungen erlitten oder andere Veränderungen am Körper erfahren haben könnte, deren Feststellung für Zwecke eines Strafverfahrens erforderlich ist\.
 
+\[ [🔗 Permalink](#-119-stpo--durchsuchung-von-orten-und-gegenständen-sowie-von-personen) \]
+
 ### § 120 StPO
 
 > `(1)` Durchsuchungen von Orten und Gegenständen nach § 117 Z 2 lit\. b und von Personen nach § 117 Z 3 lit\. b sind von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen; bei Gefahr im Verzug ist die Kriminalpolizei allerdings berechtigt, diese Durchsuchungen vorläufig ohne Anordnung und Bewilligung vorzunehmen\. Gleiches gilt in den Fällen des § 170 Abs\. 1 Z 1 für die Durchsuchung von Personen nach § 117 Z 3 lit\. b\. Das Opfer darf jedoch in keinem Fall dazu gezwungen werden, sich gegen seinen Willen durchsuchen zu lassen \(§§ 119 Abs\. 2 Z 3 und 121 Abs\. 1 letzter Satz\)\.
 
 > `(2)` Durchsuchungen nach § 117 Z 2 lit\. a und nach § 117 Z 3 lit\. a kann die Kriminalpolizei von sich aus durchführen\.
+
+\[ [🔗 Permalink](#-120-stpo) \]
 
 ### § 121 StPO
 
@@ -2812,6 +3096,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Bei der Durchführung sind Aufsehen, Belästigungen und Störungen auf das unvermeidbare Maß zu beschränken\. Die Eigentums\- und Persönlichkeitsrechte sämtlicher Betroffener sind soweit wie möglich zu wahren\. Eine Durchsuchung von Personen nach § 117 Z 3 lit\. b ist stets von einer Person desselben Geschlechts oder von einem Arzt unter Achtung der Würde der zu untersuchenden Person vorzunehmen\.
 
+\[ [🔗 Permalink](#-121-stpo) \]
+
 ### § 122 StPO
 
 > `(1)` Über jede Durchsuchung nach § 120 Abs\. 1 erster Satz letzter Halbsatz hat die Kriminalpolizei sobald wie möglich der Staatsanwaltschaft zu berichten \(§ 100 Abs\. 2 Z 2\), welche im Nachhinein eine Entscheidung des Gerichts über die Zulässigkeit der Durchsuchung \(§ 99 Abs\. 3\) zu beantragen hat\. Wird die Bewilligung nicht erteilt, so haben Staatsanwaltschaft und Kriminalpolizei mit den ihnen zu Gebote stehenden rechtlichen Mitteln den der gerichtlichen Entscheidung entsprechenden Rechtszustand herzustellen\.
@@ -2819,6 +3105,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Werden bei einer Durchsuchung Gegenstände gefunden, die auf die Begehung einer anderen als der Straftat schließen lassen, derentwegen die Durchsuchung vorgenommen wird, so sind sie zwar sicherzustellen; es muss jedoch hierüber ein besonderes Protokoll aufgenommen und sofort der Staatsanwaltschaft berichtet werden\.
 
 > `(3)` In jedem Fall ist dem Betroffenen sogleich oder längstens binnen 24 Stunden eine Bestätigung über die Durchsuchung und deren Ergebnis sowie gegebenenfalls die Anordnung der Staatsanwaltschaft samt gerichtlicher Entscheidung auszufolgen oder zuzustellen\.
+
+\[ [🔗 Permalink](#-122-stpo) \]
 
 ### § 123 StPO — Körperliche Untersuchung
 
@@ -2856,6 +3144,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Ergebnisse einer körperlichen Untersuchung, die aus anderen als strafprozessualen Gründen durchgeführt wurde, dürfen in einem Strafverfahren nur als Beweismittel verwendet werden, wenn dies zum Nachweis einer Straftat, deretwegen die körperliche Untersuchung hätte angeordnet werden können, erforderlich ist\.
 
+\[ [🔗 Permalink](#-123-stpo--körperliche-untersuchung) \]
+
 ### § 124 StPO — Molekulargenetische Untersuchung
 
 > `(1)` Zur Aufklärung einer Straftat ist es zulässig, einerseits biologische Spuren und andererseits Material, das einer bestimmten Person zugehört oder zugehören dürfte, molekulargenetisch zu untersuchen, um die Spur einer Person zuzuordnen oder die Identität einer Person oder deren Abstammung festzustellen, und mit nach diesem Gesetz oder nach dem Sicherheitspolizeigesetz rechtmäßig gewonnenen Ergebnissen molekulargenetischer Untersuchungen abzugleichen\.
@@ -2867,6 +3157,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Untersuchungsmaterial, das einer bestimmten Person zugehört oder zugehören dürfte, und die Ergebnisse der Untersuchung dürfen nur so lange verwendet und verarbeitet werden, als die Zuordnung zur Spur oder die Feststellung der Identität oder der Abstammung nicht ausgeschlossen ist; danach sind sie zu vernichten\. Sicherheitspolizeiliche Vorschriften \(§§ 65 bis 67, 75 SPG\) bleiben hievon unberührt\.
 
 > `(5)` Daten, die auf Grund dieser Bestimmung ermittelt wurden, sind den Sicherheitsbehörden auf deren Verlangen zu übermitteln, soweit Ermittlung und Verarbeitung dieser Daten nach sicherheitspolizeilichen Vorschriften \(§§ 65 bis 67, 75 SPG\) zulässig wäre\.
+
+\[ [🔗 Permalink](#-124-stpo--molekulargenetische-untersuchung) \]
 
 ## 3. Abschnitt
 
@@ -2883,6 +3175,8 @@ Der Nationalrat hat beschlossen:
 >> `3.` „Leichenbeschau“ die Besichtigung der äußeren Beschaffenheit einer Leiche,
 >
 >> `4.` „Obduktion“ die Öffnung einer Leiche durch einen Sachverständigen zum Zweck der Feststellung von Anlass und Ursache des Todes oder von anderen für die Aufklärung einer Straftat wesentlichen Umständen\.
+
+\[ [🔗 Permalink](#-125-stpo--definitionen) \]
 
 ### § 126 StPO — Sachverständige und Dolmetscher
 
@@ -2906,6 +3200,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Im Ermittlungsverfahren hat der Beschuldigte das Recht, binnen 14 Tagen ab Zustellung \(Abs\. 3\), Kenntnis eines Befangenheitsgrundes oder Vorliegen begründeter Zweifel an der Sachkunde des Sachverständigen einen Antrag auf dessen Enthebung zu stellen, er kann auch die Bestellung im Rahmen gerichtlicher Beweisaufnahme verlangen und eine andere, nach den Kriterien der Sachkunde \(Abs\. 2\) besser qualifizierte Person zur Bestellung vorschlagen\. Will die Staatsanwaltschaft dem Begehren auf Umbestellung keine Folge geben oder wurde gerichtliche Beweisaufnahme verlangt, so hat sie den Antrag unverzüglich samt einer Stellungnahme dem Gericht vorzulegen\. Wurde der Sachverständige durch das Gericht bestellt, so entscheidet es über einen Antrag nach dem ersten Satz mit Beschluss\.
 
+\[ [🔗 Permalink](#-126-stpo--sachverständige-und-dolmetscher) \]
+
 ### § 127 StPO
 
 > `(1)` Sachverständige und Dolmetscher haben Anspruch auf Gebühren nach dem Gebührenanspruchsgesetz 1975\. Sofern nicht besondere Gründe entgegen stehen, ist ihnen die Anwesenheit bei Vernehmungen zu gestatten und im erforderlichen Umfang Akteneinsicht zu gewähren\. Sie unterliegen der Amtsverschwiegenheit\.
@@ -2918,6 +3214,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wenn ein Sachverständiger oder ein Dolmetscher die ihm gesetzte Frist zur Erstattung des Befundes oder Gutachtens oder der Übersetzung trotz Mahnung wesentlich überschreitet, kann er seines Amtes enthoben werden\. Überdies kann das Gericht, wenn der Sachverständige oder Dolmetscher die Verzögerung verschuldet hat, über ihn eine Geldstrafe bis zu 10 000 Euro verhängen\.
 
+\[ [🔗 Permalink](#-127-stpo) \]
+
 ### § 128 StPO — Leichenbeschau und Obduktion
 
 > `(1)` Sofern nicht ein natürlicher Tod feststeht, hat die Kriminalpolizei einen Arzt beizuziehen und grundsätzlich am Ort der Auffindung die äußere Beschaffenheit der Leiche zu besichtigen, der Staatsanwaltschaft über das Ergebnis der Leichenbeschau zu berichten und dafür zu sorgen, dass die Leiche für den Fall der Obduktion zur Verfügung steht\.
@@ -2927,6 +3225,8 @@ Der Nationalrat hat beschlossen:
 > `(2a)` Im Fall einer Beauftragung einer Universitätseinheit hat die Leitung dieser Einheit die persönliche Verantwortung für die Obduktion im Sinne des § 127 Abs\. 2 einem Angehörigen des wissenschaftlichen Personals dieser Einheit zu übertragen, der die persönlichen und fachlichen Voraussetzungen für die Eintragung in die Liste der allgemein beeideten und gerichtlich zertifizierten Sachverständigen erfüllt\. Ersucht eine Staatsanwaltschaft oder ein Gericht um die Übertragung an eine bestimmte Person, so hat die Leitung diesem Ersuchen zu entsprechen, es sei denn, dass wichtige Gründe entgegenstehen\. Ist dies der Fall, so hat die Leitung die Zustimmung der Staatsanwaltschaft oder des Gerichts zu einer anderweitigen Übertragung einzuholen\. Die Universitätseinrichtung kann Gebühren in sinngemäßer Anwendung des Gebührensanspruchsgesetzes \(GebAG\), BGBl\. Nr\. 136/1975, geltend machen, wobei sie die Gebühr für Mühewaltung nach Abzug der Gebühren für die Nutzung der Untersuchungsräumlichkeiten, einschließlich der Infrastruktur der Person zu überweisen hat, der die Verantwortung für die Obduktion übertragen wurde\.
 
 > `(3)` Wenn dies zur Aufklärung einer Straftat erforderlich ist, ist auch die Exhumierung einer Leiche zum Zweck einer Obduktion \(Abs\. 2\) zulässig\. Sie ist von der Staatsanwaltschaft anzuordnen\.
+
+\[ [🔗 Permalink](#-128-stpo--leichenbeschau-und-obduktion) \]
 
 ## 4. Abschnitt
 
@@ -2941,6 +3241,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` „verdeckte Ermittlung“ der Einsatz von kriminalpolizeilichen Organen oder anderen Personen im Auftrag der Kriminalpolizei, die ihre amtliche Stellung oder ihren Auftrag weder offen legen noch erkennen lassen,
 >
 >> `3.` „Scheingeschäft“ der Versuch oder die scheinbare Ausführung von Straftaten, soweit diese im Erwerben, Ansichbringen, Besitzen, Ein\-, Aus\- oder Durchführen von Gegenständen oder Vermögenswerten bestehen, die entfremdet wurden, aus einem Verbrechen herrühren oder der Begehung eines solchen gewidmet sind oder deren Besitz absolut verboten ist\.
+
+\[ [🔗 Permalink](#-129-stpo--definitionen) \]
 
 ### § 130 StPO — Observation
 
@@ -2958,6 +3260,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ist sie nur dann zulässig, wenn der Verdacht einer vorsätzlich begangenen Straftat besteht, die mit mehr als einjähriger Freiheitsstrafe bedroht ist, und auf Grund bestimmter Tatsachen angenommen werden kann, dass die überwachte Person die strafbare Handlung begangen habe oder mit dem Beschuldigten Kontakt herstellen werde oder dadurch der Aufenthalt eines flüchtigen oder abwesenden Beschuldigten ermittelt werden kann\.
 
+\[ [🔗 Permalink](#-130-stpo--observation) \]
+
 ### § 131 StPO — Verdeckte Ermittlung
 
 > `(1)` Verdeckte Ermittlung ist zulässig, wenn sie zur Aufklärung einer Straftat erforderlich erscheint\.
@@ -2968,9 +3272,13 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wohnungen und andere vom Hausrecht geschützte Räume dürfen verdeckte Ermittler nur im Einverständnis mit dem Inhaber betreten\. Das Einverständnis darf nicht durch Täuschung über eine Zutrittsberechtigung herbeigeführt werden\.
 
+\[ [🔗 Permalink](#-131-stpo--verdeckte-ermittlung) \]
+
 ### § 132 StPO — Scheingeschäft
 
 > Die Durchführung eines Scheingeschäfts ist zulässig, wenn die Aufklärung eines Verbrechens \(§ 17 Abs\. 1 StGB\) oder die Sicherstellung von Gegenständen oder Vermögenswerten, die aus einem Verbrechen herrühren oder von der Konfiskation \(§ 19a StGB\), vom Verfall \(§ 20 StGB\), vom erweiterten Verfall \(§ 20b Abs\. 1 StGB\) oder von der Einziehung \(§ 26 StGB\) bedroht sind, andernfalls wesentlich erschwert wäre\. Unter diesen Voraussetzungen ist es auch zulässig, zur Ausführung eines Scheingeschäfts durch Dritte beizutragen \(§ 12 dritter Fall StGB\)\.
+
+\[ [🔗 Permalink](#-132-stpo--scheingeschäft) \]
 
 ### § 133 StPO — Gemeinsame Bestimmungen
 
@@ -2983,6 +3291,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Nach Beendigung der Observation nach § 130 Abs\. 3 und der verdeckten Ermittlung nach § 131 Abs\. 2 und nach Abschluss des Scheingeschäfts sind dem Beschuldigten und den Betroffenen, sofern ihre Identität bekannt oder ohne besonderen Verfahrensaufwand feststellbar ist, die Anordnungen und Genehmigungen nach Abs\. 1 und 2 zuzustellen\. Diese Zustellung kann jedoch aufgeschoben werden, solange durch sie der Zweck der Ermittlungen in diesem oder in einem anderen Verfahren gefährdet wäre\.
 
 > `(5)` Von der Verfolgung eines Beschuldigten wegen der strafbaren Handlung, zu deren Begehung er nach § 5 Abs\. 3 verleitet wurde, hat die Staatsanwaltschaft abzusehen\. § 191 Abs\. 2 gilt sinngemäß\.
+
+\[ [🔗 Permalink](#-133-stpo--gemeinsame-bestimmungen) \]
 
 ## 5. Abschnitt
 
@@ -3022,6 +3332,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `6.` „Anbieter“ ein Anbieter \(§ 160 Abs\. 3 Z 1 TKG 2021\), ein Diensteanbieter \(§ 3 Z 2 ECG\) sowie ein Vermittlungsdiensteanbieter \(§ 3 Z 3a ECG\)\.
 
+\[ [🔗 Permalink](#-134-stpo--definitionen) \]
+
 ### § 135 StPO — Beschlagnahme von Briefen, Auskunft über Stamm- und Zugangsdaten, Auskunft über Daten einer Nachrichtenübermittlung, Lokalisierung einer technischen Einrichtung, Anlassdatenspeicherung und Überwachung von Nachrichten
 
 > `(1)` Beschlagnahme von Briefen ist zulässig, wenn sie zur Aufklärung einer vorsätzlich begangenen Straftat, die mit mehr als einjähriger Freiheitsstrafe bedroht ist, erforderlich ist\.
@@ -3056,6 +3368,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `4.` in den Fällen des Abs\. 2 Z 4\.
 
+\[ [🔗 Permalink](#-135-stpo--beschlagnahme-von-briefen-auskunft-über-stamm--und-zugangsdaten-auskunft-über-daten-einer-nachrichtenübermittlung-lokalisierung-einer-technischen-einrichtung-anlassdatenspeicherung-und-überwachung-von-nachrichten) \]
+
 ### § 136 StPO — Optische und akustische Überwachung von Personen
 
 > `(1)` Die optische und akustische Überwachung von Personen ist zulässig,
@@ -3080,12 +3394,16 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Eine Überwachung ist nur zulässig, soweit die Verhältnismäßigkeit \(§ 5\) gewahrt wird\. Eine Überwachung nach Abs\. 1 Z 3 zur Verhinderung von im Rahmen einer terroristischen Vereinigung oder einer kriminellen Organisation \(§§ 278a und 278b StGB\) begangenen oder geplanten Verbrechen \(§ 17 Abs\. 1 StGB\) ist überdies nur dann zulässig, wenn bestimmte Tatsachen auf eine schwere Gefahr für die öffentliche Sicherheit schließen lassen\.
 
+\[ [🔗 Permalink](#-136-stpo--optische-und-akustische-überwachung-von-personen) \]
+
 ### § 137 StPO — Gemeinsame Bestimmungen
 
 > `(1)` Eine Überwachung nach § 136 Abs\. 1 Z 1 kann die Kriminalpolizei von sich aus durchführen\. Eine Auskunft über Stammdaten nach § 135 Abs\. 1a erster Fall ist auf Ersuchen von Kriminalpolizei, Staatsanwaltschaft oder Gericht zu erteilen\. Eine Auskunft über Zugangsdaten nach § 135 Abs\. 1a zweiter Fall sowie eine Anlassdatenspeicherung nach § 135 Abs\. 2b ist von der Staatsanwaltschaft anzuordnen \(§ 102\)\. Die übrigen Ermittlungsmaßnahmen nach den §§ 135 bis 136 sind von der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung anzuordnen, wobei das Eindringen in Räume nach § 136 Abs\. 2 jeweils im Einzelnen einer gerichtlichen Bewilligung bedarf\.
 > *\(Anm\.: Abs\. 2 aufgehoben durch Art\. 1 Z 21, BGBl\. I Nr\. 27/2018\)*
 
 > `(3)` Eine Anlassdatenspeicherung nach § 135 Abs\. 2b darf nur für jenen Zeitraum angeordnet werden, der zur Erreichung ihres Zwecks voraussichtlich erforderlich ist, längstens jedoch für zwölf Monate; eine neuerliche Anordnung ist nicht zulässig\. Sonstige Ermittlungsmaßnahmen nach §§ 135 bis 136 dürfen nur für einen solchen künftigen, in den Fällen des § 135 Abs\. 1a zweiter Fall und Abs\. 2 auch vergangenen, Zeitraum angeordnet werden, der zur Erreichung ihres Zwecks voraussichtlich erforderlich ist\. Eine neuerliche Anordnung ist jeweils zulässig, soweit auf Grund bestimmter Tatsachen anzunehmen ist, dass die weitere Durchführung der Ermittlungsmaßnahme Erfolg haben werde\. Im Übrigen ist die Ermittlungsmaßnahme zu beenden, sobald ihre Voraussetzungen wegfallen\.
+
+\[ [🔗 Permalink](#-137-stpo--gemeinsame-bestimmungen) \]
 
 ### § 138 StPO
 
@@ -3111,6 +3429,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Beendigung einer Ermittlungsmaßnahme nach § 135 Abs\. 1a zweiter Fall und Abs\. 2b hat die Staatsanwaltschaft ihre Anordnung, in den übrigen Fällen von Ermittlungsmaßnahmen nach den §§ 135 bis 136 samt deren gerichtlicher Bewilligung, dem Beschuldigten und den von der Durchführung der Ermittlungsmaßnahme Betroffenen unverzüglich zuzustellen\. Die Zustellung kann jedoch aufgeschoben werden, solange durch sie der Zweck dieses oder eines anderen Verfahrens gefährdet wäre\. Wenn die Ermittlungsmaßnahme später begonnen oder früher beendet wurde als zu den in Abs\. 1 Z 4 genannten Zeitpunkten, ist auch der Zeitraum der tatsächlichen Durchführung mitzuteilen\.
 
+\[ [🔗 Permalink](#-138-stpo) \]
+
 ### § 139 StPO
 
 > `(1)` Dem Beschuldigten ist zu ermöglichen, die gesamten Ergebnisse \(§ 134 Z 5\) einzusehen und anzuhören\. Soweit berechtigte Interessen Dritter dies erfordern, hat die Staatsanwaltschaft jedoch Teile der Ergebnisse, die nicht für das Verfahren von Bedeutung sind, von der Kenntnisnahme durch den Beschuldigten auszunehmen\. Dies gilt nicht, soweit während der Hauptverhandlung von den Ergebnissen Gebrauch gemacht wird\.
@@ -3120,6 +3440,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Auf Antrag des Beschuldigten sind weitere Ergebnisse in Bild\- oder Schriftform zu übertragen, wenn diese für das Verfahren von Bedeutung sind und ihre Verwendung als Beweismittel zulässig ist \(§§ 140 Abs\. 1, 144, 157 Abs\. 2\)\.
 
 > `(4)` Auf Antrag des Beschuldigten oder von Amts wegen sind Ergebnisse der Ermittlungsmaßnahme zu vernichten, wenn diese für ein Strafverfahren nicht von Bedeutung sein können oder als Beweismittel nicht verwendet werden dürfen\. Dieses Antragsrecht steht auch den von der Ermittlungsmaßnahme Betroffenen zu, insoweit für sie bestimmte oder von ihnen ausgehende Nachrichten oder Bilder, auf denen sie dargestellt sind, oder von ihnen geführte Gespräche betroffen sind\.
+
+\[ [🔗 Permalink](#-139-stpo) \]
 
 ### § 140 StPO
 
@@ -3136,6 +3458,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ergeben sich bei Prüfung der Ergebnisse Hinweise auf die Begehung einer anderen strafbaren Handlung als derjenigen, die Anlass zur Überwachung gegeben hat, so ist mit diesem Teil der Ergebnisse ein gesonderter Akt anzulegen, soweit die Verwendung als Beweismittel zulässig ist \(Abs\. 1, § 144, § 157 Abs\. 2\)\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 204/2013\)*
 
+\[ [🔗 Permalink](#-140-stpo) \]
+
 ## 6. Abschnitt
 
 ## Automationsunterstützter Datenabgleich
@@ -3149,6 +3473,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Sofern die Aufklärung eines mit mehr als zehn Jahren Freiheitsstrafe bedrohten Verbrechens oder eines Verbrechens nach § 278a oder § 278b StGB ansonsten aussichtslos oder wesentlich erschwert wäre, ist es zulässig, in einen Datenabgleich auch Daten, die Gerichten und Staatsanwaltschaften sowie der Kriminalpolizei nach § 76 Abs\. 2 zu übermitteln sind, und Daten über Personen einzubeziehen, die von einem bestimmten Unternehmen bestimmte Waren oder Dienstleistungen bezogen haben oder die Mitglieder von Personenvereinigungen des Privatrechts oder von juristischen Personen des Privatrechts oder des öffentlichen Rechts sind\.
 
 > `(4)` Besondere Kategorien personenbezogener Daten \(§ 39 DSG\) dürfen in einen Datenabgleich nicht einbezogen werden\. Dies gilt nicht für Daten über die Staatsangehörigkeit, Daten zur tatbildmäßigen Bezeichnung einer Tätergruppe sowie für Daten, die Staatsanwaltschaften oder Sicherheitsbehörden durch erkennungsdienstliche Maßnahmen, durch Durchsuchung einer Person, durch körperliche Untersuchung oder durch molekulargenetische Analyse rechtmäßig ermittelt haben, sofern diese Daten ausschließlich für einen Datenabgleich nach Abs\. 2 verwendet werden\. Daten von Personenvereinigungen, deren Zweck in unmittelbarem Zusammenhang mit einem der besonders geschützten Merkmale steht, dürfen in einen Datenabgleich in keinem Fall einbezogen werden\.
+
+\[ [🔗 Permalink](#-141-stpo--datenabgleich) \]
 
 ### § 142 StPO — Durchführung
 
@@ -3168,11 +3494,15 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wird einer Beschwerde gegen die Bewilligung einer Anordnung Folge gegeben oder die Anordnung des automationsunterstützten Datenabgleichs aus anderen Gründen widerrufen, so ist zugleich anzuordnen, dass alle in den Datenabgleich einbezogenen und alle durch ihn gewonnenen Daten zu vernichten und personenbezogene Daten, die auf andere Datenträger übertragen wurden, unverzüglich zu löschen sind\. Gleiches gilt, wenn der automationsunterstützte Datenabgleich ergibt, dass die Merkmale auf keine Person zutreffen\.
 
+\[ [🔗 Permalink](#-142-stpo--durchführung) \]
+
 ### § 143 StPO — Mitwirkungspflicht
 
 > `(1)` Jeder Verantwortliche einer Datenverarbeitung, deren Daten in einen Abgleich nach § 141 einbezogen werden sollen, ist verpflichtet, die Datenverarbeitung auf die gesuchten Merkmale hin zu durchsuchen und alle Daten, die diese Merkmale enthalten, auf einem elektronischen Datenträger in einem allgemein gebräuchlichen Dateiformat zu übermitteln\. Hierbei hat er sich neben den gesuchten Merkmalen auf die Übermittlung der Namen, der Geburtsdaten und der Anschriften zu beschränken\. Danach hat er allfällige Ergebnisse des Suchvorganges zu vernichten und – abweichend von den § 50 Abs\. 1 und 2 DSG – lediglich die Daten der Übermittlung und die Anordnung nach Abs\. 2 zu protokollieren\.
 
 > `(2)` Die Verpflichtung nach Abs\. 1 hat die Staatsanwaltschaft dem Verantwortlichen mit gesonderter Anordnung aufzutragen; diese Anordnung hat die entsprechende gerichtliche Bewilligung anzuführen\. Die §§ 93 Abs\. 2 und 112 sowie die Bestimmungen über die Durchsuchung gelten sinngemäß\.
+
+\[ [🔗 Permalink](#-143-stpo--mitwirkungspflicht) \]
 
 ## 7. Abschnitt
 
@@ -3186,6 +3516,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein Umgehungsverbot nach Abs\. 1 erster Satz oder Abs\. 2 besteht insoweit nicht, als die betreffende Person selbst der Tat dringend verdächtig ist\. In einem solchen Fall ist für die Anordnung und Durchführung einer Ermittlungsmaßnahme in den Fällen der § 135 Abs\. 1, 2, 2a und 3 sowie § 136 Abs\. 1 Z 2 und 3 eine Ermächtigung des Rechtsschutzbeauftragten \(§ 147 Abs\. 2\) Voraussetzung\.
 
+\[ [🔗 Permalink](#-144-stpo--schutz-der-geistlichen-amtsverschwiegenheit-und-von-berufsgeheimnissen) \]
+
 ## 8. Abschnitt
 
 ## Besondere Durchführungsbestimmungen, Rechtsschutz und Schadenersatz
@@ -3198,6 +3530,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Solange in Bild\- oder Schriftform übertragene Ergebnisse einer Ermittlungsmaßnahme in den Fällen der § 135 Abs\. 2, 2a und 3 sowie § 136 Abs\. 1 Z 2 und 3 nicht zum Akt genommen werden, sind sie samt den zugehörigen Anordnungen, gerichtlichen Bewilligungen und sonstigen Aktenstücken unter Verschluss aufzubewahren\. Näheres hat der Bundesminister für Justiz durch Verordnung zu bestimmen\.
 > *\(Anm\.: Abs\. 4 tritt mit Ablauf des 31\.3\.2025 außer Kraft\)*
+
+\[ [🔗 Permalink](#-145-stpo--besondere-durchführungsbestimmungen) \]
 
 ### § 147 StPO
 
@@ -3227,9 +3561,13 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Anm\. 1: Die Wendung „oder nach § 135a“ tritt mit 1\. April 2020 in Kraft und mit Ablauf des 31\. März 2025 wieder außer Kraft \(vgl\. § 514 Abs\. 37 Z 3\)\.*
 
+\[ [🔗 Permalink](#-147-stpo) \]
+
 ### § 148 StPO — Schadenersatz
 
 > Der Bund haftet für vermögensrechtliche Nachteile, die durch die Durchführung einer Überwachung von Personen nach § 136 Abs\. 1 Z 3 oder eines Datenabgleichs nach § 141 entstanden sind\. Der Ersatzanspruch ist ausgeschlossen, wenn der Geschädigte die Anordnung vorsätzlich herbeigeführt hat\. Weitergehende Ansprüche bleiben unberührt\. Auf das Verfahren ist das Amtshaftungsgesetz, BGBl\. Nr\. 20/1949, anzuwenden\.
+
+\[ [🔗 Permalink](#-148-stpo--schadenersatz) \]
 
 ## 9. Abschnitt
 
@@ -3247,11 +3585,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine Tatrekonstruktion hat auf Antrag der Staatsanwaltschaft durch das Gericht zu erfolgen \(§ 104\)\.
 
+\[ [🔗 Permalink](#-149-stpo--augenschein-und-tatrekonstruktion) \]
+
 ### § 150 StPO — Durchführung der Tatrekonstruktion
 
 > `(1)` Der Staatsanwaltschaft, dem Beschuldigten, dem Opfer, dem Privatbeteiligten und deren Vertretern ist Gelegenheit zu geben, sich an der Tatrekonstruktion zu beteiligen\. Sie haben das Recht, Fragen zu stellen sowie ergänzende Ermittlungen und Feststellungen zu verlangen\. Soweit die Kriminalpolizei nicht an der Durchführung beteiligt wird, ist sie vom Termin zu verständigen\.
 
 > `(2)` Der Beschuldigte kann von der Teilnahme vorübergehend ausgeschlossen werden, wenn seine Anwesenheit den Zweck des Verfahrens gefährden könnte oder besondere Interessen dies erfordern \(§ 250 Abs\. 1\)\. Dem Opfer und dem Privatbeteiligten ist die Beteiligung vorübergehend zu versagen, wenn zu besorgen ist, dass seine Anwesenheit den Beschuldigten oder Zeugen bei der Ablegung einer freien und vollständigen Aussage beeinflussen könnte\. In diesen Fällen ist den betroffenen Beteiligten sogleich eine Kopie des Protokolls zu übermitteln\. Die Beteiligung des Verteidigers darf jedoch in keinem Fall eingeschränkt werden\. Im Übrigen ist § 97 anzuwenden\.
+
+\[ [🔗 Permalink](#-150-stpo--durchführung-der-tatrekonstruktion) \]
 
 ## 10. Abschnitt
 
@@ -3265,6 +3607,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` „Vernehmung“ das Befragen von Personen nach förmlicher Information über ihre Stellung und ihre Rechte im Verfahren\.
 
+\[ [🔗 Permalink](#-151-stpo--definitionen) \]
+
 ### § 152 StPO — Erkundigungen
 
 > `(1)` Erkundigungen dienen der Aufklärung einer Straftat und der Vorbereitung einer Beweisaufnahme; die Bestimmungen über die Vernehmung des Beschuldigten und von Zeugen dürfen durch Erkundigungen bei sonstiger Nichtigkeit nicht umgangen werden\.
@@ -3272,6 +3616,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Soweit die Kriminalpolizei nicht verdeckt ermittelt, hat sie bei Erkundigungen auf ihre amtliche Stellung hinzuweisen, wenn diese nicht aus den Umständen offensichtlich ist\. Die Auskunft erfolgt freiwillig und darf nicht erzwungen werden, soweit sie nicht auf Grund einer gesetzlichen Verpflichtung zu erteilen ist\.
 
 > `(3)` Auskünfte und sonstige Umstände, die durch Erkundigungen erlangt wurden und für das Verfahren von Bedeutung sein können, sind in einem Amtsvermerk festzuhalten\.
+
+\[ [🔗 Permalink](#-152-stpo--erkundigungen) \]
 
 ### § 153 StPO — Vernehmungen
 
@@ -3283,11 +3629,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist der Aufenthaltsort eines Zeugen oder Beschuldigten außerhalb des Sprengels der zuständigen Staatsanwaltschaft oder des zuständigen Gerichts gelegen, so ist die unmittelbare Vernehmung am Sitz der Staatsanwaltschaft oder des Gerichts, in deren oder dessen Sprengel sich der Zeuge oder der Beschuldigte befindet, unter Verwendung technischer Einrichtungen zur Wort\- und Bildübertragung durchzuführen, es sei denn, dass es unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder sonst aus besonderen Gründen erforderlich ist, den Zeugen oder Beschuldigten vor die zuständige Staatsanwaltschaft oder vor das zuständige Gericht zu laden\.
 
+\[ [🔗 Permalink](#-153-stpo--vernehmungen) \]
+
 ### § 154 StPO — Zeuge und Wahrheitspflicht
 
 > `(1)` Im Sinne dieses Gesetzes ist Zeuge eine vom Beschuldigten verschiedene Person, die zur Aufklärung der Straftat wesentliche oder sonst den Gegenstand des Verfahrens betreffende Tatsachen mittelbar oder unmittelbar wahrgenommen haben könnte und darüber im Verfahren aussagen soll\.
 
 > `(2)` Zeugen sind verpflichtet, richtig und vollständig auszusagen\.
+
+\[ [🔗 Permalink](#-154-stpo--zeuge-und-wahrheitspflicht) \]
 
 ### § 155 StPO — Verbot der Vernehmung als Zeuge
 
@@ -3303,6 +3653,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine Verpflichtung zur Verschwiegenheit nach Abs\. 1 Z 2 besteht jedenfalls nicht, soweit der Zeuge im Dienste der Strafrechtspflege Wahrnehmungen zum Gegenstand des Verfahrens gemacht hat oder Anzeigepflicht \(§ 78\) besteht\.
 
+\[ [🔗 Permalink](#-155-stpo--verbot-der-vernehmung-als-zeuge) \]
+
 ### § 156 StPO — Aussagebefreiung
 
 > `(1)` Von der Pflicht zur Aussage sind befreit:
@@ -3314,6 +3666,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Nach Abs\. 1 Z 1 ist eine erwachsene Person, die als Privatbeteiligte am Verfahren mitwirkt \(§ 67\), von der Aussage nicht befreit\.
 
 > `(3)` Besteht die Befreiung von der Aussage im Verfahren gegen mehrere Beschuldigte nur gegenüber einem von ihnen, so ist der Zeuge hinsichtlich der anderen nur dann befreit, wenn eine Trennung der Aussagen nicht möglich ist\. Gleiches gilt, wenn sich der Befreiungsgrund nur auf einen von mehreren Sachverhalten bezieht\.
+
+\[ [🔗 Permalink](#-156-stpo--aussagebefreiung) \]
 
 ### § 157 StPO — Aussageverweigerung
 
@@ -3335,6 +3689,8 @@ Der Nationalrat hat beschlossen:
 >
 > *Anm\. 1: Art\. 1 Z 57 der Novelle BGBl\. I Nr\. 157/2024 lautet: „§ 157 Abs\. 2 wird nach der Wendung „oder auf Datenträgern gespeicherte Informationen“ die Wendung „\(§ 111 Abs\. 2\), durch Beschlagnahme von Datenträgern und Daten“ eingefügt\.“\. Die Anweisung konnte nicht durchgeführt werden\.\)*
 
+\[ [🔗 Permalink](#-157-stpo--aussageverweigerung) \]
+
 ### § 158 StPO
 
 > `(1)` Die Beantwortung einzelner Fragen können verweigern:
@@ -3347,6 +3703,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die in Abs\. 1 angeführten Personen können jedoch trotz Weigerung zur Aussage verpflichtet werden, wenn dies wegen der besonderen Bedeutung ihrer Aussage für den Gegenstand des Verfahrens unerlässlich ist\.
 
+\[ [🔗 Permalink](#-158-stpo) \]
+
 ### § 159 StPO — Information und Nichtigkeit
 
 > `(1)` Über ihre Befreiung von der Aussagepflicht oder ihr Recht auf Verweigerung der gesamten oder eines Teiles der Aussage sind Zeugen vor Beginn ihrer Vernehmung zu informieren\. Werden Anhaltspunkte für ein solches Recht erst während der Vernehmung bekannt, so ist die Information zu diesem Zeitpunkt vorzunehmen\.
@@ -3354,6 +3712,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ein Zeuge, der einen Befreiungs\- oder Verweigerungsgrund in Anspruch nehmen will, hat diesen, soweit er nicht offenkundig ist, glaubhaft zu machen\. Darüber abgegebene Erklärungen sind zu protokollieren\.
 
 > `(3)` Hat ein Zeuge auf seine Befreiung von der Aussagepflicht nach § 156 Abs\. 1 Z 1 nicht ausdrücklich verzichtet, so ist seine gesamte Aussage nichtig\. Wurde ein Zeuge, der ein Recht auf Verweigerung der Aussage nach § 157 Abs\. 1 Z 2 bis 5 hat, darüber nicht rechtzeitig informiert, so ist jener Teil seiner Aussage nichtig, auf den sich das Verweigerungsrecht bezieht\. Das aufgenommene Protokoll ist insoweit zu vernichten\.
+
+\[ [🔗 Permalink](#-159-stpo--information-und-nichtigkeit) \]
 
 ### § 160 StPO — Durchführung der Vernehmung
 
@@ -3363,6 +3723,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Vernehmung einer Person, die psychisch krank oder vergleichbar in ihrer Entscheidungsfähigkeit beschränkt ist oder die das vierzehnte Lebensjahr noch nicht zurückgelegt hat, ist jedenfalls eine Person ihres Vertrauens beizuziehen\.
 
+\[ [🔗 Permalink](#-160-stpo--durchführung-der-vernehmung) \]
+
 ### § 161 StPO
 
 > `(1)` Der Zeuge ist vor Beginn der Vernehmung zu ermahnen, richtig und vollständig auszusagen\. Sodann ist er über Vor\- und Familienname, Geburtsort und \-datum, Beruf und Wohnort oder eine sonstige zur Ladung geeignete Anschrift sowie über sein Verhältnis zum Beschuldigten zu befragen\. Im Falle der Anwesenheit anderer Personen ist darauf zu achten, dass die persönlichen Verhältnisse des Zeugen möglichst nicht öffentlich bekannt werden\.
@@ -3371,9 +3733,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Fragen, mit denen dem Zeugen Umstände vorgehalten werden, die erst durch seine Antwort festgestellt werden sollen, dürfen nur dann gestellt werden, wenn dies zum Verständnis des Zusammenhanges erforderlich ist; solche Fragen und die darauf gegebenen Antworten sind wörtlich zu protokollieren\. Fragen nach allfälligen strafgerichtlichen Verfahren gegen den Zeugen und nach deren Ausgang sowie Fragen nach Umständen aus dem höchstpersönlichen Lebensbereich des Zeugen dürfen nicht gestellt werden, es sei denn, dass dies nach den besonderen Umständen des Falles unerlässlich ist\.
 
+\[ [🔗 Permalink](#-161-stpo) \]
+
 ### § 162 StPO — Anonyme Aussage
 
 > Ist auf Grund bestimmter Tatsachen zu befürchten, dass der Zeuge sich oder einen Dritten durch die Bekanntgabe des Namens und anderer Angaben zur Person \(§ 161 Abs\. 1\) oder durch Beantwortung von Fragen, die Rückschlüsse darauf zulassen, einer ernsten Gefahr für Leben, Gesundheit, körperliche Unversehrtheit oder Freiheit aussetzen würde, so kann ihm gestattet werden, solche Fragen nicht zu beantworten\. In diesem Fall ist auch zulässig, dass der Zeuge seine äußere Erscheinung derart verändert, dass er nicht wieder erkannt werden kann\. Es ist ihm jedoch nicht gestattet, sein Gesicht derart zu verhüllen, dass sein Mienenspiel nicht soweit wahrgenommen werden kann, als dies für die Beurteilung der Glaubwürdigkeit seiner Aussage unerlässlich ist\.
+
+\[ [🔗 Permalink](#-162-stpo--anonyme-aussage) \]
 
 ### § 163 StPO — Gegenüberstellung
 
@@ -3385,6 +3751,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Sofern der Beschuldigte zur Gegenüberstellung beigezogen wird, ist auch seinem Verteidiger Gelegenheit zur Teilnahme zu geben\.
 
+\[ [🔗 Permalink](#-163-stpo--gegenüberstellung) \]
+
 ### § 164 StPO — Vernehmung des Beschuldigten
 
 > `(1)` Vor Beginn der Vernehmung ist zu prüfen, ob Übersetzungshilfe gemäß § 56 erforderlich ist\. Anschließend ist dem Beschuldigten mitzuteilen, welcher Tat er verdächtig ist\. Sodann ist er im Sinn des Abs\. 2 und darüber zu informieren, dass er berechtigt sei, sich zur Sache zu äußern oder nicht auszusagen und sich zuvor mit einem Verteidiger zu beraten, soweit dieser Kontakt nicht gemäß § 59 Abs\. 2 beschränkt werden kann\. Der Beschuldigte ist auch darauf aufmerksam zu machen, dass seine Aussage seiner Verteidigung dienen, aber auch als Beweis gegen ihn Verwendung finden könne\.
@@ -3394,6 +3762,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Der Beschuldigte ist zunächst über seine persönlichen Verhältnisse zu befragen\. Dann ist ihm Gelegenheit zu geben, sich in einer zusammenhängenden Darstellung zu dem gegen ihn erhobenen Tatvorwurf zu äußern\. Zu schwierigen Fragen, die besondere Sachkunde voraussetzen oder eine Beurteilung durch einen Sachverständigen erfordern, ist ihm zu gestatten, sich binnen angemessener Frist ergänzend schriftlich zu äußern\.
 
 > `(4)` Es dürfen weder Versprechungen oder Vorspiegelungen noch Drohungen oder Zwangsmittel angewendet werden, um den Beschuldigten zu einem Geständnis oder zu anderen Angaben zu bewegen\. Die Freiheit seiner Willensentschließung und seiner Willensbetätigung sowie sein Erinnerungsvermögen und seine Einsichtsfähigkeit dürfen durch keinerlei Maßnahmen oder gar Eingriffe in seine körperliche Integrität beeinträchtigt werden\. Dem Beschuldigten gestellte Fragen müssen deutlich und klar verständlich und dürfen nicht unbestimmt, mehrdeutig oder verfänglich sein\. Fragen, mit denen ihm Umstände vorgehalten werden, die erst durch seine Antwort festgestellt werden sollen, dürfen nur dann gestellt werden, wenn dies zum Verständnis des Zusammenhanges erforderlich ist; solche Fragen und die darauf gegebenen Antworten sind wörtlich zu protokollieren\. Fragen, die eine vom Beschuldigten nicht zugestandene Tatsache als bereits zugestanden behandeln, sind nicht zulässig\.
+
+\[ [🔗 Permalink](#-164-stpo--vernehmung-des-beschuldigten) \]
 
 ### § 165 StPO — Kontradiktorische Vernehmung des Beschuldigten oder eines Zeugen
 
@@ -3411,6 +3781,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Im Übrigen sind die Bestimmungen dieses Abschnitts sinngemäß anzuwenden\.
 
+\[ [🔗 Permalink](#-165-stpo--kontradiktorische-vernehmung-des-beschuldigten-oder-eines-zeugen) \]
+
 ### § 166 StPO — Beweisverbot
 
 > `(1)` Zum Nachteil eines Beschuldigten – außer gegen eine Person, die im Zusammenhang mit einer Vernehmung einer Rechtsverletzung beschuldigt ist – dürfen seine Aussagen sowie jene von Zeugen und Mitbeschuldigten nicht als Beweis verwendet werden, soweit sie:
@@ -3420,6 +3792,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` sonst durch unerlaubte Einwirkung auf die Freiheit der Willensentschließung oder Willensbetätigung oder durch unzulässige Vernehmungsmethoden, soweit sie fundamentale Verfahrensgrundsätze verletzen, gewonnen wurden und ihr Ausschluss zur Wiedergutmachung dieser Verletzung unerlässlich ist\.
 
 > `(2)` Aussagen, die auf die im Abs\. 1 beschriebene Art und Weise zustande gekommen sind oder gewonnen wurden, sind nichtig\.
+
+\[ [🔗 Permalink](#-166-stpo--beweisverbot) \]
 
 ## 9. Hauptstück
 
@@ -3437,6 +3811,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` „Sachenfahndung“ jede Maßnahme zur Feststellung des Verbleibes einer Sache und zu ihrer Sicherstellung\.
 
+\[ [🔗 Permalink](#-167-stpo--definitionen) \]
+
 ### § 168 StPO — Fahndung
 
 > `(1)` Personenfahndung zur Aufenthaltsermittlung ist zulässig, wenn der Aufenthalt des Beschuldigten oder einer Person, deren Identität festgestellt oder die als Zeuge vernommen werden soll, unbekannt ist\.
@@ -3445,6 +3821,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Sachenfahndung ist zulässig, wenn ein Gegenstand, der sichergestellt werden soll, nicht aufgefunden werden kann\.
 
+\[ [🔗 Permalink](#-168-stpo--fahndung) \]
+
 ### § 169 StPO
 
 > `(1)` Personenfahndung durch Ausschreibung zur Aufenthaltsermittlung oder zur Festnahme ist von der Staatsanwaltschaft anzuordnen\. Über weitere Anordnung der Staatsanwaltschaft kann sie öffentlich bekannt gemacht werden, wenn die Ausforschung des Beschuldigten, weiterer Opfer oder die Auffindung einer anderen Person andernfalls wenig erfolgversprechend wäre und der Beschuldigte einer vorsätzlich begangenen Straftat, die mit einer Freiheitsstrafe von mehr als einem Jahr bedroht ist, dringend verdächtig ist\. Abbildungen von Personen dürfen jedoch nur dann veröffentlicht oder zur Veröffentlichung in Medien oder sonst öffentlich zugänglichen Dateien freigegeben werden, wenn der damit angestrebte Vorteil den mit der Veröffentlichung verbundenen Eingriff in die Intimsphäre deutlich überwiegt oder die Veröffentlichung zum Schutz der Rechte und Interessen von durch den Beschuldigten gefährdeten Personen erforderlich scheint\.
@@ -3452,6 +3830,8 @@ Der Nationalrat hat beschlossen:
 > `(1a)` Eine Veröffentlichung von Abbildungen eines in Untersuchungshaft angehaltenen Beschuldigten ist auf Grund einer Anordnung der Staatsanwaltschaft unter den Voraussetzungen des Abs\. 1 letzter Satz zulässig, soweit anderenfalls die Aufklärung weiterer Straftaten, deren Begehung er verdächtig ist, wesentlich erschwert wäre\.
 
 > `(2)` Sachenfahndung kann die Kriminalpolizei von sich aus anordnen und durchführen; sie hat die erforderlichen Veröffentlichungen und anderen notwendigen Maßnahmen zu veranlassen\.
+
+\[ [🔗 Permalink](#-169-stpo) \]
 
 ## 2. Abschnitt
 
@@ -3472,6 +3852,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wenn es sich um ein Verbrechen handelt, bei dem nach dem Gesetz auf mindestens zehnjährige Freiheitsstrafe zu erkennen ist, muss die Festnahme angeordnet werden, es sei denn, dass auf Grund bestimmter Tatsachen anzunehmen ist, das Vorliegen aller im Abs\. 1 Z 2 bis 4 angeführten Haftgründe sei auszuschließen\.
 
 > `(3)` Festnahme und Anhaltung sind nicht zulässig, soweit sie zur Bedeutung der Sache außer Verhältnis stehen \(§ 5\)\.
+
+\[ [🔗 Permalink](#-170-stpo--zulässigkeit) \]
 
 ### § 171 StPO — Anordnung
 
@@ -3501,6 +3883,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; Ist die schriftliche Belehrung in einer Sprache, die der Beschuldigten versteht, nicht verfügbar, so ist sie zunächst mündlich zu erteilen \(§ 56 Abs\. 2\) und sodann ohne unnötigen Aufschub nachzureichen\. Der Umstand der erteilten Belehrung ist in jedem Fall schriftlich festzuhalten \(§§ 95 und 96\)\.
 
+\[ [🔗 Permalink](#-171-stpo--anordnung) \]
+
 ### § 172 StPO — Durchführung
 
 > `(1)` Vom Vollzug einer Anordnung auf Festnahme hat die Kriminalpolizei die Staatsanwaltschaft und diese das Gericht unverzüglich zu verständigen\. Der Beschuldigte ist ohne unnötigen Aufschub, längstens aber binnen 48 Stunden ab Festnahme in die Justizanstalt des zuständigen Gerichts einzuliefern\. Wenn dies, insbesondere wegen der Entfernung des Ortes der Festnahme nur mit unverhältnismäßigen Aufwand möglich oder wegen Erkrankung oder Verletzung des Beschuldigten nicht tunlich wäre, ist es zulässig, ihn der Justizanstalt eines unzuständigen Gerichts einzuliefern oder einer Krankenanstalt zu überstellen\. In diesen Fällen kann das Gericht den Beschuldigten unter Verwendung technischer Einrichtungen zur Wort\- und Bildübertragung vernehmen und ihm den Beschluss über die Untersuchungshaft auf gleiche Weise verkünden \(§ 174\)\.
@@ -3511,6 +3895,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Soweit das Opfer dies beantragt hat, ist es von einer Freilassung des Beschuldigten nach dieser Bestimmung unter Angabe der hiefür maßgeblichen Gründe und der dem Beschuldigten auferlegten gelinderen Mittel sogleich zu verständigen\. Opfer nach § 65 Abs\. 1 Z 1 lit\. a und besonders schutzbedürftige Opfer \(§ 66a\) sind jedoch unverzüglich von Amts wegen zu verständigen\. Diese Verständigung obliegt der Staatsanwaltschaft, wenn sie nach Einlieferung in die Justizanstalt erklärt, keinen Antrag auf Verhängung der Untersuchungshaft zu stellen, im Übrigen jedoch der Kriminalpolizei\.
 
+\[ [🔗 Permalink](#-172-stpo--durchführung) \]
+
 ### § 172a StPO — Sicherheitsleistung
 
 > `(1)` Der Auftrag an den Beschuldigten, eine angemessene Sicherheit zur Sicherstellung der Durchführung des Strafverfahrens, der Zahlung der zu erwartenden Geldstrafe und der Kosten des Verfahrens sowie der dem Opfer zustehenden Entschädigung \(§ 67 Abs\. 1\) zu leisten, ist zulässig, wenn der Beschuldigte einer bestimmten Straftat dringend verdächtig ist sowie zur Sache, zum Tatverdacht und zu den Voraussetzungen der Sicherheitsleistung vernommen wurde und auf Grund bestimmter Tatsachen zu besorgen ist, dass sich der Beschuldigte dem Verfahren entziehen oder die Durchführung des Strafverfahrens sonst offenbar unmöglich oder wesentlich erschwert sein werde\.
@@ -3520,6 +3906,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Sicherheit wird frei, sobald das Strafverfahren rechtswirksam beendet ist, im Fall der Verurteilung des Angeklagten jedoch erst, sobald er die Geldstrafe und die ihm auferlegten Kosten des Verfahrens und gegebenenfalls dem Privatbeteiligten die im Strafurteil zugesprochene Entschädigung gezahlt sowie im Fall einer nicht bedingt nachgesehenen Geld – oder Freiheitsstrafe die Freiheitsstrafe angetreten hat\. Als Sicherheit sichergestellte Gegenstände und Vermögenswerte werden auch frei, sobald der Beschuldigte die aufgetragene Sicherheit in Geld erlegt oder ein Dritter, dem keine Beteiligung an der Tat zur Last liegt, Rechte an den Gegenständen oder Vermögenswerten glaubhaft macht\.
 
 > `(4)` Die Sicherheit ist vom Gericht auf Antrag der Staatsanwaltschaft oder von Amts wegen mit Beschluss für verfallen zu erklären, wenn sich der Beschuldigte dem Verfahren oder der Vollstreckung der Strafe und der Kosten des Verfahrens oder der Zahlung der Entschädigung an den Privatbeteiligten entzieht, insbesondere dadurch, dass er eine Ladung oder die Aufforderung zum Strafantritt oder Zahlung der Geldstrafe oder der Kosten des Verfahrens nicht befolgt\. § 180 Abs\. 4 letzter Satz und Abs\. 5 gelten sinngemäß\.
+
+\[ [🔗 Permalink](#-172a-stpo--sicherheitsleistung) \]
 
 ## 3. Abschnitt
 
@@ -3571,6 +3959,8 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Abs\. 6 aufgehoben durch VfGH, BGBl\. I Nr\. 1/2023\)*
 
+\[ [🔗 Permalink](#-173-stpo--zulässigkeit) \]
+
 ### § 173a StPO — Hausarrest
 
 > `(1)` Auf Antrag der Staatsanwaltschaft oder des Beschuldigten kann die Untersuchungshaft als Hausarrest fortgesetzt werden, der in der Unterkunft zu vollziehen ist, in welcher der Beschuldigte seinen inländischen Wohnsitz begründet hat\. Die Anordnung des Hausarrests ist zulässig, wenn die Untersuchungshaft nicht gegen gelindere Mittel \(§ 173 Abs\. 5\) aufgehoben, der Zweck der Anhaltung \(§ 182 Abs\. 1\) aber auch durch diese Art des Vollzugs der Untersuchungshaft erreicht werden kann, weil sich der Beschuldigte in geordneten Lebensverhältnissen befindet und er zustimmt, sich durch geeignete Mittel der elektronischen Aufsicht \(§ 156b Abs\. 1 und 2 StVG\) überwachen zu lassen\. Im Übrigen gelten die Bestimmungen über die Fortsetzung, Aufhebung und Höchstdauer der Untersuchungshaft mit der Maßgabe sinngemäß, dass ab Anordnung des Hausarrests Haftverhandlungen von Amts wegen nicht mehr stattfinden und der Beschluss über die Fortsetzung oder Aufhebung der Untersuchungshaft ohne vorangegangene mündliche Verhandlung schriftlich ergehen kann\.
@@ -3582,6 +3972,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Das Gericht hat den Hausarrest zu widerrufen und den weiteren Vollzug der Untersuchungshaft in der Justizanstalt anzuordnen, wenn der Beschuldigte erklärt, seine Zustimmung zu widerrufen\. Gleiches gilt auf Antrag der Staatsanwaltschaft, wenn der Beschuldigte seinem Gelöbnis zuwider die Bedingungen nicht einhält oder wenn sonst hervorkommt, dass die Haftzwecke durch den Hausarrest nicht erreicht werden können\. Mit der Durchführung der Überstellung ist die Kriminalpolizei zu beauftragen\.
 
 > `(5)` Wird der Hausarrest nicht nach Abs\. 4 widerrufen, so gilt für den Fall der Rechtskraft des Urteils § 3 Abs\. 2 StVG sinngemäß\.
+
+\[ [🔗 Permalink](#-173a-stpo--hausarrest) \]
 
 ### § 174 StPO — Verhängung der Untersuchungshaft
 
@@ -3609,6 +4001,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Eine Beschwerde des Beschuldigten gegen die Verhängung der Untersuchungshaft löst die Haftfrist nach § 175 Abs\. 2 Z 2 aus\. Ein darauf ergehender Beschluss des Oberlandesgerichts auf Fortsetzung der Untersuchungshaft löst die nächste Haftfrist aus; Abs\. 3 Z 1 bis 5 gilt sinngemäß\.
 
+\[ [🔗 Permalink](#-174-stpo--verhängung-der-untersuchungshaft) \]
+
 ### § 175 StPO — Haftfristen
 
 > `(1)` Ein Beschluss, mit dem die Untersuchungshaft verhängt oder fortgesetzt wird, ist längstens für einen bestimmten Zeitraum wirksam \(Haftfrist\); der Ablauftag ist im Beschluss anzuführen\. Vor Ablauf der Haftfrist ist eine Haftverhandlung durchzuführen oder der Beschuldigte zu enthaften\.
@@ -3626,6 +4020,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Der Beschuldigte kann durch seinen Verteidiger auf die Durchführung einer bevorstehenden Haftverhandlung verzichten\. In diesem Fall kann der Beschluss über die Aufhebung oder Fortsetzung der Untersuchungshaft \(§ 176 Abs\. 4\) ohne vorangegangene mündliche Verhandlung schriftlich ergehen\.
 
 > `(5)` Nach Einbringen der Anklage ist die Wirksamkeit eines Beschlusses auf Verhängung oder Fortsetzung der Untersuchungshaft durch die Haftfrist nicht mehr begrenzt; Haftverhandlungen finden nach diesem Zeitpunkt nur statt, wenn der Angeklagte seine Enthaftung beantragt und darüber nicht ohne Verzug in einer Hauptverhandlung entschieden werden kann\. Die §§ 233 bis 237 gelten in diesem Fall sinngemäß\.
+
+\[ [🔗 Permalink](#-175-stpo--haftfristen) \]
 
 ### § 176 StPO — Haftverhandlung
 
@@ -3645,6 +4041,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Eine Beschwerde gegen einen Beschluss nach Abs\. 4 ist binnen drei Tagen nach Verkündung des Beschlusses einzubringen; § 174 Abs\. 4 zweiter Satz ist anzuwenden\.
 
+\[ [🔗 Permalink](#-176-stpo--haftverhandlung) \]
+
 ### § 177 StPO — Aufhebung der Untersuchungshaft
 
 > `(1)` Sämtliche am Strafverfahren beteiligten Behörden sind verpflichtet, darauf hinzuwirken, dass die Haft so kurz wie möglich dauere\. Die Ermittlungen sind von Staatsanwaltschaft und Kriminalpolizei mit Nachdruck und unter besonderer Beschleunigung zu führen\.
@@ -3656,6 +4054,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Ist die Staatsanwaltschaft der Ansicht, dass die Aufhebung gelinderer Mittel zu verfügen sei, so beantragt sie dies beim Gericht, das daraufhin entsprechend zu verfügen hat\. Beantragt die Staatsanwaltschaft eine Änderung oder der Beschuldigte eine Aufhebung oder Änderung gelinderer Mittel und spricht sich die Staatsanwaltschaft dagegen aus, so hat das Gericht zu entscheiden\. Eine Beschwerde gegen diesen Beschluss ist binnen drei Tagen ab seiner Bekanntmachung einzubringen\.
 
 > `(5)` Wird der Beschuldigte freigelassen, so hat das Gericht nach § 172 Abs\. 4 erster und zweiter Satz vorzugehen und auch die Kriminalpolizei von diesen Verständigungen zu informieren\.
+
+\[ [🔗 Permalink](#-177-stpo--aufhebung-der-untersuchungshaft) \]
 
 ### § 178 StPO — Höchstdauer der Untersuchungshaft
 
@@ -3669,6 +4069,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Muss ein wegen Fristablaufs freigelassener Angeklagter zum Zweck der Durchführung der Hauptverhandlung neuerlich in Haft genommen werden, so darf dies jeweils höchstens für die Dauer von sechs weiteren Wochen geschehen\.
 
+\[ [🔗 Permalink](#-178-stpo--höchstdauer-der-untersuchungshaft) \]
+
 ### § 179 StPO — Vorläufige Bewährungshilfe
 
 > `(1)` Vorläufige Bewährungshilfe ist anzuordnen, wenn der Beschuldigte dem zustimmt und es geboten scheint, dadurch seine Bemühungen um eine Lebensführung und Einstellung, die ihn in Zukunft von der Begehung strafbarer Handlungen abhalten werde, zu fördern\.
@@ -3676,6 +4078,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Hat der Beschuldigte einen gesetzlichen Vertreter, so ist diesem die Anordnung der vorläufigen Bewährungshilfe mitzuteilen\.
 
 > `(3)` Die vorläufige Bewährungshilfe endet spätestens mit rechtskräftiger Beendigung des Strafverfahrens\. Im Übrigen gelten die Bestimmungen über die Bewährungshilfe dem Sinne nach\.
+
+\[ [🔗 Permalink](#-179-stpo--vorläufige-bewährungshilfe) \]
 
 ### § 180 StPO — Kaution
 
@@ -3689,6 +4093,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Mit Rechtskraft des Beschlusses nach Abs\. 4 ist die verfallene Sicherheit für den Bund einzuziehen, doch hat das Opfer das Recht zu verlangen, dass seine Entschädigungsansprüche aus der Sicherheit oder ihrem Verwertungserlös vorrangig befriedigt werden\.
 
+\[ [🔗 Permalink](#-180-stpo--kaution) \]
+
 ### § 181 StPO
 
 > `(1)` Wenn der Beschuldigte nach seiner Freilassung gegen Sicherheit seine Flucht vorbereitet oder wenn neue Umstände hervorkommen, die seine Verhaftung erfordern, so ist er ungeachtet der Sicherheit festzunehmen, doch wird in diesen Fällen die Sicherheitsleistung frei\.
@@ -3697,9 +4103,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über die Freigabe der Sicherheit entscheidet das Gericht\.
 
+\[ [🔗 Permalink](#-181-stpo) \]
+
 ### § 181a StPO — Flucht
 
 > Soweit das Opfer dies beantragt hat, ist es von einer Flucht des in Untersuchungshaft angehaltenen Beschuldigten sowie von seiner Wiederergreifung sogleich zu verständigen\. § 172 Abs\. 4 zweiter Satz gilt sinngemäß\. Die Justizanstalt hat die Staatsanwaltschaft unverzüglich von der Flucht und Wiedereinbringung zu verständigen; die Staatsanwaltschaft hat sodann das Opfer zu verständigen\.
+
+\[ [🔗 Permalink](#-181a-stpo--flucht) \]
 
 ## 4. Abschnitt
 
@@ -3725,6 +4135,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Soweit im Einzelnen nichts anderes bestimmt wird, gelten die Bestimmungen über den Vollzug der Untersuchungshaft für alle Anhaltungen nach diesem Gesetz, die in einer Justizanstalt vollzogen werden\.
 
+\[ [🔗 Permalink](#-182-stpo--allgemeines) \]
+
 ### § 183 StPO — Haftort
 
 > `(1)` Beschuldigte sind in der Justizanstalt des für die Entscheidung über die Verhängung und Fortsetzung der Untersuchungshaft zuständigen Gerichts anzuhalten\. Soweit dies – insbesondere im Interesse einer wirtschaftlichen Führung der Justizanstalten – notwendig ist, können weibliche Beschuldigte in der Justizanstalt eines benachbarten Gerichts angehalten werden\.
@@ -3737,6 +4149,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Rechtswirksamkeit der Anklage ist der Angeklagte, soweit die Zuständigkeit eines anderen Landesgerichts begründet wird, unverzüglich in die Justizanstalt des nunmehr zuständigen Landesgerichts zu überstellen\.
 
+\[ [🔗 Permalink](#-183-stpo--haftort) \]
+
 ### § 184 StPO — Ausführungen
 
 > Für Vernehmungen, Ausführungen und Überstellungen von Beschuldigten gelten die Bestimmungen der §§ 97 und 98 StVG sinngemäß mit der Maßgabe, dass
@@ -3744,6 +4158,8 @@ Der Nationalrat hat beschlossen:
 >> `1.` Vernehmungen auch dann in der Anstalt durchzuführen sind, wenn sie nicht vom Gericht oder von der Staatsanwaltschaft durchgeführt werden,
 >
 >> `2.` Ausführungen auf Ersuchen der Kriminalpolizei oder anderer Behörden \(§ 98 Abs\. 1 StVG\) nur auf Anordnung oder mit Zustimmung der Staatsanwaltschaft und nur zum Zweck der Teilnahme an Verhandlungen, Tatrekonstruktionen und anderen kontradiktorischen Einvernahmen, an Gegenüberstellungen, Augenscheinen sowie sonstigen Befundaufnahmen zulässig sind\.
+
+\[ [🔗 Permalink](#-184-stpo--ausführungen) \]
 
 ### § 185 StPO — Getrennte Anhaltung
 
@@ -3753,11 +4169,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Weibliche Beschuldigte sind in jedem Fall von männlichen Beschuldigten und männlichen Strafgefangenen getrennt unterzubringen\.
 
+\[ [🔗 Permalink](#-185-stpo--getrennte-anhaltung) \]
+
 ### § 186 StPO — Kleidung und Bedarfsgegenstände
 
 > `(1)` Angehaltene Beschuldigte sind unter Achtung ihrer Persönlichkeit und ihres Ehrgefühls sowie mit möglichster Schonung ihrer Person zu behandeln\. Sie sind berechtigt, eigene Kleidung zu tragen, soweit die regelmäßige Reinigung in der Anstalt möglich ist oder außerhalb der Anstalt durch deren Vermittlung besorgt werden kann\. Verfügt ein angehaltener Beschuldigter über keine geeignete Kleidung, so ist ihm eine solche für Verhandlungen vor Gericht, für Ausführungen und für Überstellungen mit öffentlichen Verkehrsmitteln zur Verfügung zu stellen\.
 
 > `(2)` Angehaltene Beschuldigte sind berechtigt, sich auf eigene Kosten Bedarfsgegenstände, Dienstleistungen und andere Annehmlichkeiten zu verschaffen, soweit dies mit dem Haftzweck vereinbar ist und weder die Sicherheit gefährdet noch die Ordnung in der Anstalt erheblich beeinträchtigt oder Mithäftlinge belästigt\.
+
+\[ [🔗 Permalink](#-186-stpo--kleidung-und-bedarfsgegenstände) \]
 
 ### § 187 StPO — Arbeit und Arbeitsvergütung
 
@@ -3768,6 +4188,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 111/2010\)*
 
 > `(4)` Angehaltene Beschuldigte dürfen sich auf ihre Kosten selbst beschäftigen, soweit dies mit dem Haftzweck vereinbar ist und die Ordnung in der Anstalt nicht stört\. Aus dieser Beschäftigung erzielte Einkünfte sind dem Hausgeld gutzuschreiben\.
+
+\[ [🔗 Permalink](#-187-stpo--arbeit-und-arbeitsvergütung) \]
 
 ### § 188 StPO — Verkehr mit der Außenwelt
 
@@ -3783,6 +4205,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Für die Überwachung des mündlichen und schriftlichen Verkehrs des angehaltenen Beschuldigten mit seinem Verteidiger gilt § 59 Abs\. 3\.
 
+\[ [🔗 Permalink](#-188-stpo--verkehr-mit-der-außenwelt) \]
+
 ### § 189 StPO — Zuständigkeit für Entscheidungen
 
 > `(1)` Die Entscheidung darüber, mit welchen Personen angehaltene Beschuldigte schriftlich und telefonisch verkehren und welche Besuche sie empfangen dürfen, die Überwachung ihres Brief\- und Telefonverkehrs und ihrer Besuche sowie alle übrigen Anordnungen und Entscheidungen, die sich auf den Verkehr der angehaltenen Beschuldigten mit der Außenwelt \(§§ 86 bis 100 des Strafvollzugsgesetzes\) beziehen, stehen, mit Ausnahme der Überwachung der Paketsendungen, im Ermittlungsverfahren der Staatsanwaltschaft, im Hauptverfahren dem Gericht zu\. Von der Überwachung des Brief\- und Telefonverkehrs darf nur insoweit abgesehen werden, als davon keine Beeinträchtigung des Haftzweckes zu befürchten ist\.
@@ -3790,6 +4214,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Entscheidungen nach § 16 Abs\. 2 Z 4 und 5 des Strafvollzugsgesetzes stehen dem für die Entscheidung über die Verhängung und Fortsetzung der Untersuchungshaft zuständigen Gericht zu\.
 
 > `(3)` Im Übrigen stehen alle Anordnungen und Entscheidungen hinsichtlich der Anhaltung in Untersuchungshaft dem Anstaltsleiter oder dem von diesem dazu bestellten Vollzugsbediensteten zu\. Vor jeder Entscheidung nach den §§ 185 Abs\. 2, 186 Abs\. 2 und 187 Abs\. 1 ist im Ermittlungsverfahren die Staatsanwaltschaft, nach Einbringung der Anklage das Gericht zu hören\. Ordnungswidrigkeiten, die von angehaltenen Beschuldigten begangen wurden, sind der Staatsanwaltschaft und dem Gericht mitzuteilen\. Das gleiche gilt von Vorfällen, von denen eine Beeinträchtigung der Haftzwecke zu befürchten ist\.
+
+\[ [🔗 Permalink](#-189-stpo--zuständigkeit-für-entscheidungen) \]
 
 ## 3. TEIL
 
@@ -3803,6 +4229,8 @@ Der Nationalrat hat beschlossen:
 
 > Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen und das Ermittlungsverfahren einzustellen, soweit und sobald sich ergibt, dass die dem Ermittlungsverfahren zu Grunde liegende Tat nicht mit gerichtlicher Strafe bedroht ist, die weitere Verfolgung des Beschuldigten sonst aus rechtlichen Gründen unzulässig wäre oder kein tatsächlicher Grund zu dessen weiterer Verfolgung besteht\.
 
+\[ [🔗 Permalink](#-190-stpo--einstellung-des-ermittlungsverfahrens) \]
+
 ### § 191 StPO — Einstellung wegen Geringfügigkeit
 
 > `(1)` Von der Verfolgung einer Straftat, die nur mit Geldstrafe, mit einer Freiheitsstrafe bedroht ist, deren Höchstmaß drei Jahre nicht übersteigt, oder mit einer solchen Freiheitsstrafe und Geldstrafe hat die Staatsanwaltschaft abzusehen und das Ermittlungsverfahren einzustellen, wenn
@@ -3812,6 +4240,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` eine Bestrafung oder ein Vorgehen nach dem 11\. Hauptstück nicht geboten erscheint, um den Beschuldigten von der Begehung strafbarer Handlungen abzuhalten oder der Begehung strafbarer Handlungen durch andere entgegen zu wirken\.
 
 > `(2)` Nach Einbringen der Anklage, im Verfahren vor dem Landesgericht als Geschworenen\- oder Schöffengericht nach Rechtswirksamkeit der Anklageschrift wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht unter denselben Voraussetzungen \(Abs\. 1\) das Verfahren bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen\. § 209 Abs\. 2 erster Satz gilt sinngemäß\.
+
+\[ [🔗 Permalink](#-191-stpo--einstellung-wegen-geringfügigkeit) \]
 
 ### § 192 StPO — Einstellung bei mehreren Straftaten
 
@@ -3825,6 +4255,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine nach Abs\. 1 vorbehaltene Verfolgung kann innerhalb dreier Monate nach rechtskräftigem Abschluss des inländischen oder innerhalb eines Jahres nach rechtskräftigem Abschluss des ausländischen Strafverfahrens wieder aufgenommen werden\. Ein abermaliger Vorbehalt wegen einzelner Straftaten ist sodann unzulässig\.
 
+\[ [🔗 Permalink](#-192-stpo--einstellung-bei-mehreren-straftaten) \]
+
 ### § 193 StPO — Fortführung des Verfahrens
 
 > `(1)` Nach der Einstellung des Verfahrens sind weitere Ermittlungen gegen den Beschuldigten zu unterlassen; erforderlichenfalls hat die Staatsanwaltschaft seine Freilassung anzuordnen\. Sofern jedoch für eine Entscheidung über die Fortführung des Verfahrens bestimmte Ermittlungen oder Beweisaufnahmen erforderlich sind, kann die Staatsanwaltschaft solche im Einzelnen anordnen oder durchführen\.
@@ -3836,6 +4268,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` neue Tatsachen oder Beweismittel entstehen oder bekannt werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, die Bestrafung des Beschuldigten oder ein Vorgehen nach dem 11\. Hauptstück zu begründen\.
 
 > `(3)` Die Fortführung eines nach § 192 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, wenn sie sich die spätere Verfolgung vorbehalten hat \(§ 192 Abs\. 2\) oder die Voraussetzungen des Abs\. 2 Z 2 vorliegen\.
+
+\[ [🔗 Permalink](#-193-stpo--fortführung-des-verfahrens) \]
 
 ### § 194 StPO — Verständigungen
 
@@ -3850,6 +4284,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` das sonst wegen einer Straftat geführt wurde, für das im Hauptverfahren das Landesgericht als Geschworenen\- oder Schöffengericht zuständig wäre und an dem kein Opfer im Sinne des § 65 Z 1 beteiligt war,
 >
 > &nbsp; ist überdies der Rechtsschutzbeauftragte unter Anführung des Grundes der Einstellung \(§§ 190 bis 192\) samt einer Begründung nach Abs\. 2 zu verständigen\. Auf sein Verlangen ist ihm der Ermittlungsakt zu übersenden, in welchem Fall die Frist zur Einbringung eines Antrags auf Fortführung \(§ 195 Abs\. 2\) mit dem Einlangen des Aktes auf sechs Monate verlängert wird\.
+
+\[ [🔗 Permalink](#-194-stpo--verständigungen) \]
 
 ### § 195 StPO — Antrag auf Fortführung
 
@@ -3867,6 +4303,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Erachtet die Staatsanwaltschaft den Antrag für berechtigt, so hat sie das Verfahren unabhängig von den Voraussetzungen des § 193 Abs\. 2 Z 1 oder 2 fortzuführen\. Andernfalls hat sie ihn mit dem Akt und einer Stellungnahme dem Gericht zu übermitteln\.
 
+\[ [🔗 Permalink](#-195-stpo--antrag-auf-fortführung) \]
+
 ### § 196 StPO
 
 > `(1)` Das Gericht entscheidet in nichtöffentlicher Sitzung, gegen seine Entscheidung steht ein Rechtsmittel nicht zu\. Zuvor hat es dem Beschuldigten und dem Antragsteller Gelegenheit zur Äußerung zur Stellungnahme der Staatsanwaltschaft binnen angemessener Frist einzuräumen, wobei der Antragsteller gegebenenfalls auf die Pflicht zur bestimmten Bezeichnung der geltend gemachten Fortführungsgründe hinzuweisen ist\. Vor seiner Entscheidung kann es auch die Kriminalpolizei mit Ermittlungen beauftragen oder von der Staatsanwaltschaft tatsächliche Aufklärungen über die behaupteten Rechtsverletzungen oder Verfahrensmängel verlangen\. Gegebenenfalls kann es nach § 107 Abs\. 2 vorgehen\.
@@ -3874,6 +4312,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Anträge, die verspätet oder von einer nicht berechtigten Person eingebracht wurden, bereits rechtskräftig erledigt sind oder den Voraussetzungen des § 195 nicht entsprechen, hat das Gericht als unzulässig zurückzuweisen und im Übrigen in der Sache zu entscheiden\. Wird ein Antrag zurück\- oder abgewiesen, so ist die Zahlung eines Pauschalkostenbeitrags von 90 Euro aufzutragen\. Haben mehrere Opfer wegen derselben Handlung erfolglos eine Fortführung beantragt, so haften sie für den Pauschalkostenbeitrag zur ungeteilten Hand\. Minderjährigen Opfern und dem Rechtsschutzbeauftragten ist in keinem Fall ein Pauschalkostenbeitrag aufzuerlegen\. § 391 gilt sinngemäß\.
 
 > `(3)` Gibt das Gericht dem Antrag statt, so hat die Staatsanwaltschaft das Verfahren fortzuführen\.
+
+\[ [🔗 Permalink](#-196-stpo) \]
 
 ### § 196a StPO — Beitrag zu den Kosten der Verteidigung im Ermittlungsverfahren
 
@@ -3889,6 +4329,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Weitergehende Rechte des Beschuldigten nach diesem Bundesgesetz, dem Amtshaftungsgesetz, BGBl\. Nr\. 20/1949, und dem Strafrechtlichen Entschädigungsgesetz 2005, BGBl\. I Nr\. 125/2004, bleiben unberührt\.
 
+\[ [🔗 Permalink](#-196a-stpo--beitrag-zu-den-kosten-der-verteidigung-im-ermittlungsverfahren) \]
+
 ### § 197 StPO — Abbrechung des Ermittlungsverfahrens gegen Abwesende und gegen unbekannte Täter
 
 > `(1)` Wenn der Beschuldigte flüchtig oder unbekannten Aufenthalts ist, ist das Ermittlungsverfahren soweit fortzuführen, als dies zur Sicherung von Spuren und Beweisen erforderlich ist\. Ermittlungshandlungen und Beweisaufnahmen, bei denen der Beschuldigte das Recht hat, sich zu beteiligen \(§§ 150, 165\), können in diesem Fall auch in seiner Abwesenheit durchgeführt werden\. Der Beschuldigte kann zur Ermittlung seines Aufenthalts oder zur Festnahme ausgeschrieben werden\. Danach hat die Staatsanwaltschaft das Verfahren abzubrechen und nach Ausforschung des Beschuldigten fortzusetzen\.
@@ -3902,6 +4344,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Von der Abbrechung des Verfahrens gegen einen bekannten Täter und von der Fortsetzung oder Einleitung des Verfahrens sind die Kriminalpolizei und das Opfer zu verständigen\.
 
 > `(4)` Einem abwesenden oder flüchtigen Beschuldigten, der freiwillig erklärt, sich dem Verfahren stellen zu wollen, kann sicheres Geleit vom Bundesministerium für Justiz nach Stellungnahme der Oberstaatsanwaltschaft, in deren Sprengel die zuständige Staatsanwaltschaft ihren Sitz hat, allenfalls gegen Sicherheitsleistung sowie gegen Ablegung der im § 173 Abs\. 5 Z 1 und 2 erwähnten Gelöbnisse mit der Wirkung erteilt werden, dass der Beschuldigte wegen der Straftat, für die das sichere Geleit erteilt wurde, bis zur Urteilsfällung in erster Instanz von der Haft befreit bleiben soll\. Für die Sicherheitsleistung, ihren Verfall und den Verlust der Wirkung des sicheren Geleits gilt § 180 sinngemäß\.
+
+\[ [🔗 Permalink](#-197-stpo--abbrechung-des-ermittlungsverfahrens-gegen-abwesende-und-gegen-unbekannte-täter) \]
 
 ## 10a. Hauptstück
 
@@ -3917,15 +4361,21 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` neue Tatsachen oder Beweismittel beigebracht werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, einen Anfangsverdacht \(§ 1 Abs\. 3\) zu begründen\.
 
+\[ [🔗 Permalink](#-197a-stpo--absehen-von-der-einleitung-eines-ermittlungsverfahrens) \]
+
 ### § 197b StPO — Verständigungen
 
 > `(1)` Vom Absehen von der Einleitung eines Ermittlungsverfahrens nach § 197a Abs\. 1 erster Fall sind alle Personen zu verständigen, die im Fall der Führung eines Ermittlungsverfahrens nach diesem Gesetz von seiner Einstellung zu verständigen wären; die §§ 51 bis 53 und § 68 gelten sinngemäß\.
 
 > `(2)` In der Verständigung ist anzuführen, aus welchem Grund von der Einleitung eines Ermittlungsverfahrens abgesehen wurde\. § 194 Abs\. 3 gilt sinngemäß\. Überdies sind Personen, die zur Einbringung eines Antrags auf Verfolgung einer Straftat \(§ 197c\) berechtigt sind, über die Möglichkeit der Einbringung eines solchen Antrags und seine Voraussetzungen zu informieren\.
 
+\[ [🔗 Permalink](#-197b-stpo--verständigungen) \]
+
 ### § 197c StPO — Antrag auf Verfolgung
 
 > Im Fall eines Vorgehens nach § 197a Abs\. 1 erster Fall sind Personen, die Opfer \(§ 65 Z 1\) einer Straftat sein könnten, berechtigt, einen Antrag auf Verfolgung dieser Straftat zu stellen\. Für den Antrag und die Entscheidung darüber gelten § 195 und § 196 mit Ausnahme des Abs\. 1 vorletzter und letzter Satz sinngemäß\.
+
+\[ [🔗 Permalink](#-197c-stpo--antrag-auf-verfolgung) \]
 
 ## 11. Hauptstück
 
@@ -3955,9 +4405,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Nach diesem Hauptstück darf im Fall des Missbrauchs der Amtsgewalt nach § 302 Abs\. 1 StGB nur vorgegangen werden, soweit der Beschuldigte durch die Tat keine oder eine bloß geringfügige oder sonst unbedeutende Schädigung an Rechten herbeigeführt hat und die Tat nicht auch nach §§ 304 oder 307 StGB mit Strafe bedroht ist\. Im Übrigen ist ein Vorgehen nach diesem Hauptstück ausgeschlossen, soweit es sich um eine im Zehnten Abschnitt des Besonderen Teils des StGB geregelte strafbare Handlung handelt, die mit mehr als dreijähriger Freiheitsstrafe bedroht ist\.
 
+\[ [🔗 Permalink](#-198-stpo--allgemeines) \]
+
 ### § 199 StPO
 
 > Nach Einbringen der Anklage wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht die für die Staatsanwaltschaft geltenden Bestimmungen der §§ 198, 200 bis 209b sinngemäß anzuwenden und das Verfahren unter den für die Staatsanwaltschaft geltenden Voraussetzungen bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen\.
+
+\[ [🔗 Permalink](#-199-stpo) \]
 
 ### § 200 StPO — Zahlung eines Geldbetrages
 
@@ -3971,6 +4425,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Leistung des Geldbetrages und allfälliger Schadensgutmachung hat die Staatsanwaltschaft von der Verfolgung zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist\.
 
+\[ [🔗 Permalink](#-200-stpo--zahlung-eines-geldbetrages) \]
+
 ### § 201 StPO — Gemeinnützige Leistungen
 
 > `(1)` Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat vorläufig zurücktreten, wenn sich der Beschuldigte ausdrücklich bereit erklärt hat, innerhalb einer zu bestimmenden Frist von höchstens sechs Monaten unentgeltlich gemeinnützige Leistungen zu erbringen\.
@@ -3982,6 +4438,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Die Staatsanwaltschaft hat dem Beschuldigten mitzuteilen, dass Anklage gegen ihn wegen einer bestimmten Straftat beabsichtigt sei, aber vorläufig unterbleiben werde, wenn er sich bereit erklärt, binnen bestimmter Frist gemeinnützige Leistungen in nach Art und Ausmaß bestimmter Weise zu erbringen und gegebenenfalls Tatfolgenausgleich zu leisten\. Die Staatsanwaltschaft hat den Beschuldigten dabei im Sinne des § 207 zu informieren; sie kann auch eine in der Sozialarbeit erfahrene Person um die Erteilung dieser Informationen sowie darum ersuchen, die gemeinnützigen Leistungen zu vermitteln \(§ 29b des Bewährungshilfegesetzes\)\. Die Einrichtung \(Abs\. 2\) hat dem Beschuldigten oder dem Sozialarbeiter eine Bestätigung über die erbrachten Leistungen auszustellen, die unverzüglich vorzulegen ist\.
 
 > `(5)` Nach Erbringung der gemeinnützigen Leistungen und allfälligem Tatfolgenausgleich hat die Staatsanwaltschaft von der Verfolgung endgültig zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist\.
+
+\[ [🔗 Permalink](#-201-stpo--gemeinnützige-leistungen) \]
 
 ### § 202 StPO
 
@@ -3995,6 +4453,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Erleidet der Beschuldigte bei Erbringung gemeinnütziger Leistungen einen Unfall oder eine Krankheit, so gelten die Bestimmungen der §§ 76 bis 84 des Strafvollzugsgesetzes dem Sinne nach\.
 
+\[ [🔗 Permalink](#-202-stpo) \]
+
 ### § 203 StPO — Probezeit
 
 > `(1)` Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat unter Bestimmung einer Probezeit von einem Jahr bis zu zwei Jahren vorläufig zurücktreten\. Der Lauf der Probezeit beginnt mit der Zustellung der Verständigung über den vorläufigen Rücktritt von der Verfolgung\.
@@ -4005,6 +4465,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Nach Ablauf der Probezeit und Erfüllung allfälliger Pflichten hat die Staatsanwaltschaft von der Verfolgung endgültig zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist\.
 
+\[ [🔗 Permalink](#-203-stpo--probezeit) \]
+
 ### § 204 StPO — Tatausgleich
 
 > `(1)` Unter den Voraussetzungen des § 198 kann die Staatsanwaltschaft von der Verfolgung einer Straftat zurücktreten oder im Fall eines Vorgehens nach Abs\. 3 endgültig zurücktreten, wenn durch die Tat Rechtsgüter einer Person unmittelbar beeinträchtigt sein könnten und der Beschuldigte bereit ist, für die Tat einzustehen und sich mit deren Ursachen auseinander zu setzen, wenn er allfällige Folgen der Tat auf eine den Umständen nach geeignete Weise ausgleicht, insbesondere dadurch, dass er aus der Tat entstandenen Schaden gutmacht oder sonst zum Ausgleich der Folgen der Tat beiträgt, und wenn er erforderlichenfalls Verpflichtungen eingeht, die seine Bereitschaft bekunden, Verhaltensweisen, die zur Tat geführt haben, künftig zu unterlassen\.
@@ -4014,6 +4476,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Staatsanwaltschaft kann einen Konfliktregler ersuchen, das Opfer und den Beschuldigten und ihre Vertreter über die Möglichkeit eines Tatausgleichs sowie im Sinne der §§ 206 und 207 zu informieren und bei ihren Bemühungen um einen solchen Ausgleich anzuleiten und zu unterstützen \(§ 29a des Bewährungshilfegesetzes\)\. In diesem Fall hat die Staatsanwaltschaft von der Verfolgung vorläufig zurückzutreten\.
 
 > `(4)` Der Konfliktregler hat der Staatsanwaltschaft über Ausgleichsvereinbarungen zu berichten und deren Erfüllung zu überprüfen\. Einen abschließenden Bericht hat er zu erstatten, wenn der Beschuldigte seinen Verpflichtungen zumindest soweit nachgekommen ist, dass unter Berücksichtigung seines übrigen Verhaltens angenommen werden kann, er werde die Vereinbarungen weiter einhalten, oder wenn nicht mehr zu erwarten ist, dass ein Ausgleich zustande kommt\.
+
+\[ [🔗 Permalink](#-204-stpo--tatausgleich) \]
 
 ### § 205 StPO — Nachträgliche Fortsetzung des Strafverfahrens
 
@@ -4033,15 +4497,21 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Verpflichtungen, die der Beschuldigte übernommen, und Zahlungen und sonstige Ausgleichsmaßnahmen, zu denen er sich bereit erklärt hat, werden mit der nachträglichen Fortsetzung des Verfahrens gegenstandslos\. Die Bewährungshilfe endet; § 179 bleibt jedoch unberührt\. Geldbeträge, die der Beschuldigte geleistet hat \(§ 200\), sind auf eine nicht bedingt nachgesehene Geldstrafe unter sinngemäßer Anwendung des § 38 Abs\. 1 Z 1 StGB anzurechnen; im Übrigen sind sie zurückzuzahlen\. Andere Leistungen sind nicht zu ersetzen, im Fall einer Verurteilung jedoch gleichfalls angemessen auf die Strafe anzurechnen\. Dabei sind insbesondere Art und Dauer der Leistung zu berücksichtigen\.
 
+\[ [🔗 Permalink](#-205-stpo--nachträgliche-fortsetzung-des-strafverfahrens) \]
+
 ### § 206 StPO — Rechte und Interessen der Opfer
 
 > `(1)` Bei einem Vorgehen nach diesem Hauptstück sind stets die Interessen des Opfers, insbesondere jenes auf Wiedergutmachung zu prüfen und im größtmöglichen Ausmaß zu fördern\. Das Opfer hat das Recht, eine Vertrauensperson beizuziehen\. Jedenfalls sind Opfer unverzüglich im Sinne von § 70 Abs\. 1 über ihre Rechte, insbesondere jenes auf Prozessbegleitung und die in Betracht kommenden Opferschutzeinrichtungen zu informieren\. Soweit dies zur Wahrung ihrer Interessen und Rechte, insbesondere jenem auf Schadensgutmachung geboten erscheint, ist ihnen und ihrer Vertretung, jedenfalls im Fall eines erteilten Betretungs\- und Annäherungsverbotes zum Schutz vor Gewalt nach § 38a Abs\. 1 SPG und bei Opfern im Sinn des § 65 Z 1 lit\. a vor einem Rücktritt von der Verfolgung ausreichend Zeit zur Stellungnahme zu geben\.
 
 > `(2)` Das Opfer ist jedenfalls zu verständigen, wenn sich der Beschuldigte bereit erklärt, aus der Tat entstandenen Schaden gutzumachen oder sonst zum Ausgleich der Folgen der Tat beizutragen\. Gleiches gilt für den Fall, dass der Beschuldigte eine Pflicht übernimmt, welche die Interessen des Geschädigten unmittelbar berührt\.
 
+\[ [🔗 Permalink](#-206-stpo--rechte-und-interessen-der-opfer) \]
+
 ### § 207 StPO — Information des Beschuldigten
 
 > Bei einem Vorgehen nach diesem Hauptstück ist der Beschuldigte eingehend über seine Rechte zu informieren, insbesondere über die Voraussetzungen für einen Rücktritt von der Verfolgung, über das Erfordernis seiner Zustimmung, über seine Möglichkeit, eine Fortsetzung des Verfahrens zu verlangen, über die sonstigen Umstände, die eine Fortsetzung des Verfahrens bewirken können \(§ 205 Abs\. 2\) und über die Notwendigkeit eines Pauschalkostenbeitrags \(§ 388\)\.
+
+\[ [🔗 Permalink](#-207-stpo--information-des-beschuldigten) \]
 
 ### § 208 StPO — Gemeinsame Bestimmungen
 
@@ -4051,6 +4521,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Vom Rücktritt von der Verfolgung hat die Staatsanwaltschaft die Kriminalpolizei, den Beschuldigten, das Opfer und, sofern es mit dem Verfahren befasst war, das Gericht zu verständigen\. Hat das Gericht das Verfahren gemäß § 199 eingestellt, obliegen die Verständigungen diesem\. In der Verständigung sind die maßgebenden Umstände für die Erledigung in Schlagworten darzustellen\.
 
+\[ [🔗 Permalink](#-208-stpo--gemeinsame-bestimmungen) \]
+
 ### § 209 StPO
 
 > `(1)` Die Staatsanwaltschaft kann nach diesem Hauptstück von der Verfolgung zurücktreten, solange sie noch nicht Anklage eingebracht hat\. Danach hat sie bei Gericht zu beantragen, das Verfahren einzustellen \(§ 199\)\.
@@ -4058,6 +4530,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Gerichtliche Beschlüsse nach diesem Hauptstück sind in der Hauptverhandlung vom erkennenden Gericht, sonst vom Vorsitzenden, in der Hauptverhandlung vor dem Geschworenengericht jedoch vom Schwurgerichtshof zu fassen\. Bevor das Gericht dem Beschuldigten eine Mitteilung nach den §§ 200 Abs\. 4, 201 Abs\. 4, 203 Abs\. 3 oder einen Beschluss, mit dem das Verfahren eingestellt wird, zustellt, hat es die Staatsanwaltschaft zu hören\. Gegen einen solchen Beschluss steht nur der Staatsanwaltschaft Beschwerde zu; dem Beschuldigten ist dieser Beschluss erst dann zuzustellen, wenn er der Staatsanwaltschaft gegenüber in Rechtskraft erwachsen ist\.
 
 > `(3)` Solange über eine Beschwerde gegen einen Beschluss, mit dem ein Antrag auf Einstellung des Strafverfahrens nach diesem Hauptstück abgewiesen wurde, noch nicht entschieden wurde, ist die Durchführung einer Hauptverhandlung nicht zulässig\. Eine Beschwerde gegen die nachträgliche Fortsetzung des Strafverfahrens hat aufschiebende Wirkung\.
+
+\[ [🔗 Permalink](#-209-stpo) \]
 
 ### § 209a StPO — Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft
 
@@ -4089,11 +4563,15 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Im Verfahren gegen Verbände nach dem Verbandsverantwortlichkeitsgesetz \(VbVG\), BGBl\. I Nr\. 151/2005, ist sinngemäß mit der Maßgabe vorzugehen, dass die Bestimmungen des § 19 Abs\. 1 Z 1 bis 3 VbVG anzuwenden sind\. Der zu entrichtende Geldbetrag darf abweichend von § 19 Abs\. 1 Z 1 VbVG einer Verbandsgeldbuße von 100 Tagessätzen entsprechen\.
 
+\[ [🔗 Permalink](#-209a-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft) \]
+
 ### § 209b StPO — Rücktritt von der Verfolgung wegen Zusammenarbeit mit der Staatsanwaltschaft im Zusammenhang mit einer kartellrechtlichen Zuwiderhandlung
 
 > `(1)` Der Bundeskartellanwalt hat die Staatsanwaltschaft von einem Vorgehen der Bundeswettbewerbsbehörde nach § 11b Abs\. 1 oder 2 des Wettbewerbsgesetzes, BGBl\. I Nr\. 62/2002, oder von einem solchen Vorgehen der Europäischen Kommission oder von Wettbewerbsbehörden der anderen Mitgliedstaaten \(§ 84 des Kartellgesetzes, BGBl\. I Nr\. 61/2005\) zu verständigen, wenn es im Hinblick auf das Gewicht des Beitrags des Unternehmens zur Aufklärung einer Zuwiderhandlung im Sinne von § 11b Abs\. 1 Z 3 Wettbewerbsgesetz und die aktive Mitwirkung der einzelnen Mitarbeiter daran unverhältnismäßig wäre, diese Mitarbeiter, die für das Unternehmen an einer solchen Zuwiderhandlung beteiligt waren, wegen einer durch eine solche Zuwiderhandlung begangenen Straftat zu verfolgen\.
 
 > `(2)` Die Staatsanwaltschaft hat sodann das Ermittlungsverfahren gegen die Mitarbeiter, die Staatsanwaltschaft und Gericht ihr gesamtes Wissen über die eigenen Taten und andere Tatsachen, die für die Aufklärung der durch die Zuwiderhandlung begangenen Straftaten von Bedeutung sind, offenbart haben, unter dem Vorbehalt späterer Verfolgung einzustellen\. § 209a Abs\. 5 und 6 gelten sinngemäß\.
+
+\[ [🔗 Permalink](#-209b-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft-im-zusammenhang-mit-einer-kartellrechtlichen-zuwiderhandlung) \]
 
 ## 4. TEIL
 
@@ -4117,6 +4595,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Außerhalb der Hauptverhandlung bestimmt sich die Zuständigkeit des Landesgerichts als Geschworenen\- oder Schöffengericht nach § 32 Abs\. 3\.
 
+\[ [🔗 Permalink](#-210-stpo--die-anklage) \]
+
 ## 2. Abschnitt
 
 ## Die Anklageschrift
@@ -4132,6 +4612,8 @@ Der Nationalrat hat beschlossen:
 >> `3.` die übrigen anzuwendenden Strafgesetze\.
 
 > `(2)` In der Anklageschrift hat die Staatsanwaltschaft ihre Anträge für das Hauptverfahren zu stellen und dabei insbesondere auch die Beweise anzuführen, die im Hauptverfahren aufgenommen werden sollen; die Zuständigkeit des angerufenen Gerichts ist erforderlichenfalls zu begründen\. Schließlich ist der Sachverhalt nach den Ergebnissen des Ermittlungsverfahrens zusammenzufassen und zu beurteilen\.
+
+\[ [🔗 Permalink](#-211-stpo--inhalt-der-anklageschrift) \]
 
 ### § 212 StPO — Einspruch gegen die Anklageschrift
 
@@ -4153,6 +4635,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `8.` die Staatsanwaltschaft das Verfahren zu Unrecht nachträglich gemäß § 205 Abs\. 2 oder nach § 38 Abs\. 1 oder 1a SMG fortgesetzt hat\.
 
+\[ [🔗 Permalink](#-212-stpo--einspruch-gegen-die-anklageschrift) \]
+
 ### § 213 StPO
 
 > `(1)` Das Gericht hat die Anklageschrift dem Angeklagten zuzustellen\.
@@ -4167,6 +4651,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Ein Einspruch ist dem Oberlandesgericht vorzulegen\. Hat das Gericht Bedenken gegen seine Zuständigkeit, so hat es diese dem Oberlandesgericht unter Angabe der Gründe mitzuteilen, und zwar auch dann, wenn ein Einspruch nicht erhoben wurde\. Für ein solches Begehren gelten die Vorschriften über den Einspruch sinngemäß\.
 
+\[ [🔗 Permalink](#-213-stpo) \]
+
 ### § 214 StPO — Verfahren vor dem Oberlandesgericht
 
 > `(1)` Das Oberlandesgericht hat der Oberstaatsanwaltschaft Gelegenheit zu geben, sich zum Einspruch zu äußern; § 89 Abs\. 5 letzter Satz gilt\. Sodann hat es über den Einspruch in nicht öffentlicher Sitzung zu entscheiden; gegen seine Entscheidung steht ein Rechtsmittel nicht zu\.
@@ -4174,6 +4660,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Treffen dieselben Gründe auch auf eine Person zu, die keinen Einspruch erhoben hat, so hat das Oberlandesgericht so vorzugehen, als ob ein solcher Einspruch vorläge\.
 
 > `(3)` Wird der Einspruch von einem Angeklagten erhoben, der sich in Untersuchungshaft befindet, so hat das Oberlandesgericht von Amts wegen über die Haft zu entscheiden\. Beschließt das Oberlandesgericht die Fortsetzung der Haft, so gilt § 174 Abs\. 3 Z 1 bis 5 sinngemäß\.
+
+\[ [🔗 Permalink](#-214-stpo--verfahren-vor-dem-oberlandesgericht) \]
 
 ### § 215 StPO
 
@@ -4189,11 +4677,15 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Liegt keiner der Fälle der Abs\. 2 bis 4 vor, so hat das Oberlandesgericht den Einspruch abzuweisen und die Rechtswirksamkeit der Anklageschrift festzustellen\.
 
+\[ [🔗 Permalink](#-215-stpo) \]
+
 ## 13. Hauptstück
 
 ### § 220 StPO — Vorbereitungen zur Hauptverhandlung
 
 > Beteiligte des Hauptverfahrens sind neben der Staatsanwaltschaft \(§ 210 Abs\. 2\) der Angeklagte \(§ 48 Abs\. 1 Z 2\), der Haftungsbeteiligte \(§ 64\), der Privatankläger \(§ 71\), der Subsidiarankläger \(§ 72\) sowie der Privatbeteiligte \(§ 67\)\.
+
+\[ [🔗 Permalink](#-220-stpo--vorbereitungen-zur-hauptverhandlung) \]
 
 ### § 221 StPO
 
@@ -4205,6 +4697,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist zu erwarten, dass die Hauptverhandlung von längerer Dauer sein wird, so ist für den Fall der Verhinderung eines Richters oder Schöffen die erforderliche Anzahl von Ersatzrichtern und Ersatzschöffen, und zwar nach der in der Geschäftsverteilung beziehungsweise Dienstliste \(§§ 13 und 14 des Geschworenen\- und Schöffengesetzes – GSchG, BGBl\. Nr\. 256/1990\) zu bestimmenden Reihenfolge zu laden\. Auf § 32 Abs\. 2 ist Bedacht zu nehmen\.
 
+\[ [🔗 Permalink](#-221-stpo) \]
+
 ### § 222 StPO
 
 > `(1)` Beweise, die nicht bereits nach der Anklageschrift oder dem über den Einspruch ergangenen Beschluss aufzunehmen sind, sollen Beteiligte des Verfahrens so rechtzeitig beantragen \(§ 55 Abs\. 1\), dass die Beweisaufnahme noch zum Termin der Hauptverhandlung vorgenommen werden kann\. Der Antrag ist in so vielen Ausfertigungen einzubringen, dass jedem der Beteiligten eine Ausfertigung zugestellt werden kann\.
@@ -4213,9 +4707,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Dem Verteidiger steht es auch frei, eine schriftliche Gegenäußerung \(§ 244 Abs\. 3\) zur Anklageschrift einzubringen, in die er die Anträge gemäß Abs\. 1 aufzunehmen hat\. Für eine solche Gegenäußerung gilt Abs\. 1; stützt sich die Anklageschrift auf Befund und Gutachten eines Sachverständigen, so kann der Gegenäußerung eine Stellungnahme samt Schlussfolgerungen einer Person mit besonderem Fachwissen zur Begründung eines Beweisantrags nach Abs\. 1 angeschlossen werden\.
 
+\[ [🔗 Permalink](#-222-stpo) \]
+
 ### § 223 StPO
 
 > *\(Aufgehoben\)*
+
+\[ [🔗 Permalink](#-223-stpo) \]
 
 ### § 226 StPO
 
@@ -4235,11 +4733,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Gegen einen Beschluss gemäß Abs\. 1 steht den Beteiligten ein selbständiges, die weitere Verhandlung hemmendes Rechtsmittel nicht zu\.
 
+\[ [🔗 Permalink](#-226-stpo) \]
+
 ### § 227 StPO
 
 > `(1)` Tritt die Staatsanwaltschaft vor Beginn der Hauptverhandlung von der Anklage zurück, so ist nach § 72 Abs\. 3 vorzugehen, im Übrigen jedoch das Verfahren durch Beschluss des Vorsitzenden einzustellen\.
 
 > `(2)` Die Staatsanwaltschaft hat das Recht, die von ihr eingebrachte Anklageschrift unter gleichzeitiger Einbringung einer neuen zurückzuziehen, wenn dies erforderlich ist, um eine gemeinsame Verfahrensführung wegen neuer Vorwürfe oder einer auf Grund neuer Tatsachen oder Beweismittel geänderten rechtlichen Beurteilung zu ermöglichen\. Mit der neuen Anklageschrift ist sodann nach den im 12\. Hauptstück enthaltenen Bestimmungen zu verfahren\.
+
+\[ [🔗 Permalink](#-227-stpo) \]
 
 ## 14. Hauptstück
 
@@ -4259,6 +4761,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Fernseh\- und Hörfunkaufnahmen und \-übertragungen sowie Film\- und Fotoaufnahmen von Verhandlungen der Gerichte sind unzulässig\.
 
+\[ [🔗 Permalink](#-228-stpo) \]
+
 ### § 229 StPO
 
 > `(1)` Die Öffentlichkeit einer Hauptverhandlung darf von Amts wegen oder auf Antrag eines Beteiligten des Verfahrens oder eines Opfers ausgeschlossen werden:
@@ -4275,17 +4779,23 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Verkündung des Urteils \(§§ 259, 260\) hat stets in öffentlicher Sitzung zu erfolgen\.
 
+\[ [🔗 Permalink](#-229-stpo) \]
+
 ### § 230 StPO
 
 > `(1)` Nach der öffentlichen Verkündung dieses Beschlusses müssen sich alle Zuhörer entfernen\.
 
 > `(2)` Richter und Staatsanwälte des Dienststandes, Richteramtsanwärter und Rechtspraktikanten sowie die in § 48 Abs\. 1 Z 5 genannten Personen dürfen niemals ausgeschlossen werden\. Angeklagte, Opfer, Privatbeteiligte oder Privatankläger können verlangen, dass drei Personen ihres Vertrauens der Zutritt gestattet werde\. § 160 Abs\. 2 und 3 ist sinngemäß anzuwenden\.
 
+\[ [🔗 Permalink](#-230-stpo) \]
+
 ### § 230a StPO
 
 > Soweit die Öffentlichkeit einer Verhandlung ausgeschlossen worden ist, ist es untersagt, Mitteilungen daraus zu veröffentlichen\. Auch kann das Gericht den anwesenden Personen die Geheimhaltung der Tatsachen zur Pflicht machen, die durch die Verhandlung zu ihrer Kenntnis gelangen\. Dieser Beschluß ist im Verhandlungsprotokoll zu beurkunden\.
 >
 > *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 70\)*
+
+\[ [🔗 Permalink](#-230a-stpo) \]
 
 ## 2. Amtsverrichtungen des Vorsitzenden und des Schöffengerichts während der Hauptverhandlung
 
@@ -4299,6 +4809,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wenn mehrere Anklagepunkte vorliegen, kann er verfügen, daß über jeden oder über einzelne davon abgesondert zu verhandeln sei\.
 
+\[ [🔗 Permalink](#-232-stpo) \]
+
 ### § 233 StPO
 
 > `(1)` Dem Vorsitzenden liegt die Erhaltung der Ruhe und Ordnung und des der Würde des Gerichtes entsprechenden Anstandes im Gerichtssaal ob\.
@@ -4307,13 +4819,19 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Zeichen des Beifalles oder der Mißbilligung sind untersagt\. Der Vorsitzende ist berechtigt, Personen, die die Sitzung durch solche Zeichen oder auf eine andere Weise stören, zur Ordnung zu ermahnen und nötigenfalls einzelne oder alle Zuhörer aus dem Sitzungssaal entfernen zu lassen\. Widersetzt sich jemand oder werden die Störungen wiederholt, so kann der Vorsitzende über die Widersetzlichen eine Ordnungsstrafe bis zu 1 000 Euro, wenn es aber zur Aufrechterhaltung der Ordnung unerläßlich ist, eine Freiheitsstrafe bis zu acht Tagen verhängen\.
 
+\[ [🔗 Permalink](#-233-stpo) \]
+
 ### § 234 StPO
 
 > Wenn der Angeklagte die Ordnung der Verhandlung durch ungeziemendes Benehmen stört und ungeachtet der Ermahnung des Vorsitzenden und der Androhung, daß er aus der Sitzung werde entfernt werden, nicht davon absteht, so kann er durch Beschluß des Schöffengerichts auf einige Zeit oder für die ganze Dauer der Verhandlung aus dieser entfernt, die Sitzung in seiner Abwesenheit fortgesetzt und ihm das Urteil durch ein Mitglied des Schöffengerichts in Gegenwart des Schriftführers verkündet werden\.
 
+\[ [🔗 Permalink](#-234-stpo) \]
+
 ### § 235 StPO
 
 > Der Vorsitzende hat darüber zu wachen, daß gegen niemand Beschimpfungen oder offenbar ungegründete oder zur Sache nicht gehörige Beschuldigungen vorgebracht werden\. Haben sich Angeklagte, Privatankläger, Privatbeteiligte, Opfer, Haftungsbeteiligte, Zeugen oder Sachverständige solche Äußerungen erlaubt, so kann das Schöffengericht gegen sie auf Antrag des Betroffenen oder der Staatsanwaltschaft oder von Amts wegen gemäß §§ 233 Abs\. 3 und 234 vorgehen\. Gegebenenfalls ist der Betroffene über seine Rechte zu belehren\.
+
+\[ [🔗 Permalink](#-235-stpo) \]
 
 ### § 236 StPO
 
@@ -4323,9 +4841,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Bei erschwerenden Umständen kann das Oberlandesgericht auf Antrag der Staatsanwaltschaft dem schuldigen Vertreter auch die Befugnis, als Vertreter in Strafsachen vor Gericht zu erscheinen, für die Dauer von einem bis zu sechs Monaten entziehen\.
 
+\[ [🔗 Permalink](#-236-stpo) \]
+
 ### § 236a StPO
 
 > Macht sich ein Vertreter eines Beteiligten des Verfahrens, der der Disziplinargewalt einer Standesbehörde unterliegt, des im § 235 umschriebenen Verhaltens schuldig oder verletzt er die dem Gerichte gebührende Achtung, so kann der Vorsitzende nach Abmahnung die im § 236 Abs\. 2 vorgesehenen Maßnahmen treffen\.
+
+\[ [🔗 Permalink](#-236a-stpo) \]
 
 ### § 237 StPO
 
@@ -4335,6 +4857,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
+\[ [🔗 Permalink](#-237-stpo) \]
+
 ### § 238 StPO
 
 > `(1)` Über Beweisanträge \(§ 55 Abs\. 1 und 2\), die in der Hauptverhandlung gestellt werden, entscheidet das Schöffengericht mit Beschluss \(§ 40 Abs\. 2 und § 116 Abs\. 4 Geo\), soweit ihnen der Vorsitzende \(§ 254\) nicht Folge zu geben gedenkt\.
@@ -4343,15 +4867,21 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Beschluss ist samt seinen Entscheidungsgründen sofort, jedenfalls jedoch vor Schluss der Verhandlung mündlich zu verkünden\. Den Beteiligten steht ein selbständiges, die weitere Verhandlung hemmendes Rechtsmittel gegen ihn nicht zu \(§ 86 Abs\. 3\)\.
 
+\[ [🔗 Permalink](#-238-stpo) \]
+
 ## 3. Beginn der Hauptverhandlung
 
 ### § 239 StPO
 
 > Die Hauptverhandlung beginnt mit dem Aufruf der Sache\. Der Angeklagte erscheint ungefesselt, jedoch, wenn er in Untersuchungshaft ist, in Begleitung einer Wache\. In den in § 174 Abs\. 1 geregelten Fällen kann bei Angeklagten, die in Untersuchungshaft angehalten werden, gemäß § 153 Abs\. 4 vorgegangen werden\. Die zur Beweisführung etwa erforderlichen Gegenstände, die dem Angeklagten oder den Zeugen zur Anerkennung vorzulegen sind, müssen vor dem Beginn der Verhandlung in den Gerichtssaal gebracht werden\.
 
+\[ [🔗 Permalink](#-239-stpo) \]
+
 ### § 240 StPO
 
 > Der Vorsitzende befragt hierauf den Angeklagten um seinen Vor\- und Familiennamen sowie alle früher geführten Namen, Tag und Ort seiner Geburt, seine Staatsangehörigkeit, die Vornamen seiner Eltern, seinen Beruf, seine Anschrift und erforderlichenfalls über andere persönliche Verhältnisse und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung\.
+
+\[ [🔗 Permalink](#-240-stpo) \]
 
 ### § 240a StPO
 
@@ -4362,11 +4892,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Beeidigung gilt für die Dauer des Kalenderjahres; sie ist im Verhandlungsprotokoll und fortlaufend in einem besonderen Buche zu beurkunden\.
 
+\[ [🔗 Permalink](#-240a-stpo) \]
+
 ### § 241 StPO
 
 > `(1)` Hierauf werden die Zeugen und Sachverständigen aufgerufen, soweit sie nicht erst für einen späteren Zeitpunkt vorgeladen worden sind; der Vorsitzende teilt ihnen mit, wo sie sich bis zu ihrer Vernehmung aufhalten können und zu welchem Zeitpunkt sie sich für die Vernehmung bereitzuhalten haben\. Der Vorsitzende hat die nach den Umständen erforderlichen Vorkehrungen zu veranlassen, um Verabredungen und Besprechungen der Zeugen zu verhindern\.
 
 > `(2)` Bei den Sachverständigen kann der Vorsitzende in allen Fällen, in denen er es für die Erforschung der Wahrheit zweckdienlich findet, verfügen, daß sie sowohl während der Vernehmung des Angeklagten als auch der Zeugen im Sitzungssaale bleiben\.
+
+\[ [🔗 Permalink](#-241-stpo) \]
 
 ### § 242 StPO
 
@@ -4376,6 +4910,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über den Ausgebliebenen ist mit Beschluss des Vorsitzenden eine Geldstrafe bis zu 1 000 Euro zu verhängen\. Musste die Hauptverhandlung vertagt werden, so ist der Ausgebliebene überdies in diesem Beschluss zum Ersatz der durch sein Ausbleiben verursachten Kosten zu verpflichten\. Soweit dies erforderlich ist, um Anwesenheit des Ausgebliebenen beim neuen Termin sicherzustellen, hat der Vorsitzende dessen Vorführung anzuordnen \(§ 210 Abs\. 3\)\.
 
+\[ [🔗 Permalink](#-242-stpo) \]
+
 ### § 243 StPO
 
 > `(1)` Eine Beschwerde gegen einen Beschluss gemäß § 242 Abs\. 3 ist beim erkennenden Schöffengericht einzubringen; ihr kommt aufschiebende Wirkung zu\.
@@ -4384,6 +4920,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird der Beschwerde nicht durch eine im Abs\. 2 erwähnten Maßnahme zur Gänze entsprochen, so hat sie der Vorsitzende dem Oberlandesgericht zur Entscheidung vorzulegen \(§ 89\)\. Im Übrigen ist gegen einen Beschluss gemäß Abs\. 2 kein Rechtsmittel zulässig\.
 
+\[ [🔗 Permalink](#-243-stpo) \]
+
 ### § 244 StPO
 
 > `(1)` Nachdem die Zeugen abgetreten sind, erteilt der Vorsitzende dem Ankläger das Wort zum Vortrag der Anklage\. Im Vortrag sind alle Anklagepunkte anzuführen und so weit zu begründen, wie dies zum Verständnis der Anklage erforderlich erscheint\. Bei mehreren Angeklagten ist hiebei auf jeden einzelnen von ihnen Bezug zu nehmen\. Falls ein Beschluss des Oberlandesgerichts vorliegt, nach dem ein Anklagepunkt zu entfallen hat, ist auch dieser zu berücksichtigen\.
@@ -4391,6 +4929,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Nach dem Vortrag der Anklage hat sich der Vorsitzende zu vergewissern, daß der Angeklagte von Gegenstand und Umfang der Anklage ausreichend in Kenntnis gesetzt ist\.
 
 > `(3)` Der Verteidiger hat das Recht, auf den Vortrag der Anklage mit einer Gegenäußerung zu erwidern\.
+
+\[ [🔗 Permalink](#-244-stpo) \]
 
 ## 4. Vernehmung des Angeklagten
 
@@ -4404,6 +4944,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Angeklagte darf sich während der Hauptverhandlung mit seinem Verteidiger besprechen, jedoch nicht über die Beantwortung einzelner Fragen beraten\.
 
+\[ [🔗 Permalink](#-245-stpo) \]
+
 ## 5. Beweisverfahren
 
 ### § 246 StPO
@@ -4412,15 +4954,21 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Ankläger und der Angeklagte können im Laufe der Hauptverhandlung Beweismittel fallen lassen, jedoch nur, wenn der Gegner zustimmt\.
 
+\[ [🔗 Permalink](#-246-stpo) \]
+
 ### § 247 StPO
 
 > Zeugen und Sachverständige werden einzeln aufgerufen und in Anwesenheit der Beteiligten des Verfahrens vernommen\. Sie sind vor ihrer Vernehmung zur Angabe der Wahrheit zu erinnern und über die Folgen einer falschen Aussage zu belehren\.
+
+\[ [🔗 Permalink](#-247-stpo) \]
 
 ### § 247a StPO
 
 > `(1)` Ein Zeuge, der wegen seines Alters, wegen Krankheit oder Gebrechlichkeit oder aus sonstigen erheblichen Gründen nicht in der Lage ist, vor Gericht zu erscheinen, kann unter Verwendung technischer Einrichtungen zur Wort\- und Bildübertragung vernommen werden\. Gleiches gilt in dem in § 153 Abs\. 4 geregelten Fall, soweit Ankläger und Verteidiger einverstanden sind oder dies übereinstimmend beantragen\.
 
 > `(2)` Ein Zeuge, der wegen seines Aufenthalts im Ausland nicht in der Lage oder nicht willens ist, vor Gericht zu erscheinen, kann in gleicher Weise vernommen werden, sofern die zuständige ausländische Behörde Rechtshilfe leistet\.
+
+\[ [🔗 Permalink](#-247a-stpo) \]
 
 ### § 248 StPO
 
@@ -4430,6 +4978,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Dem Angeklagten muss nach der Vernehmung eines jeden Zeugen, Sachverständigen oder Mitangeklagten die Möglichkeit zur Stellungnahme zu den jeweiligen Aussagen geboten werden\.
 
+\[ [🔗 Permalink](#-248-stpo) \]
+
 ### § 249 StPO
 
 > `(1)` Außer dem Vorsitzenden sind auch die übrigen Mitglieder des Schöffengerichts, die Beteiligten des Verfahrens und Opfer sowie deren Vertreter befugt, an jede zu vernehmende Person, nachdem sie das Wort hiezu vom Vorsitzenden erhalten haben, Fragen zu stellen\. Bei großem Verfahrensumfang ist dies nach Tunlichkeit zu thematisch zusammenhängenden Abschnitten zu gewähren\.
@@ -4437,6 +4987,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Vorsitzende hat unzulässige Fragen zurückzuweisen; Fragen, die sonst unangemessen erscheinen, kann er untersagen\.
 
 > `(3)` Der Angeklagte kann zur Befragung eines Sachverständigen eine Person mit besonderem Fachwissen beiziehen, der ein Sitz neben dem Verteidiger zu gestatten ist\. Diese darf den Verteidiger bei der Fragestellung unterstützen oder selbst Fragen zu Befund und Gutachten an den Sachverständigen richten\.
+
+\[ [🔗 Permalink](#-249-stpo) \]
 
 ### § 250 StPO
 
@@ -4446,9 +4998,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Opfer gemäß § 65 Z 1 lit\. a und besonders schutzbedürftige Opfer \(§ 66a\) hat der Vorsitzende auf ihren Antrag auf die in § 165 Abs\. 3 beschriebene Art und Weise zu vernehmen; im Übrigen hat er bei der Vernehmung von Zeugen § 165 sinngemäß anzuwenden\. Dabei hat er auch den bei der Befragung nicht anwesenden Mitgliedern des Schöffengerichts Gelegenheit zu geben, die Vernehmung des Zeugen mitzuverfolgen und den Zeugen zu befragen\.
 
+\[ [🔗 Permalink](#-250-stpo) \]
+
 ### § 251 StPO
 
 > Die Beteiligten des Verfahrens können verlangen, dass sich Zeugen nach ihrer Vernehmung aus dem in § 248 Abs\. 1 letzter Satz genannten Grund aus dem Sitzungssaal entfernen und später wieder aufgerufen und entweder allein oder in Gegenwart anderer Zeugen erneut vernommen werden\. Der Vorsitzende kann dies auch von Amts wegen anordnen\.
+
+\[ [🔗 Permalink](#-251-stpo) \]
 
 ### § 252 StPO
 
@@ -4472,15 +5028,21 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Bestimmungen des Abs\. 1 dürfen bei sonstiger Nichtigkeit nicht umgangen werden\.
 
+\[ [🔗 Permalink](#-252-stpo) \]
+
 ### § 253 StPO
 
 > Im Laufe oder am Schlusse des Beweisverfahrens läßt der Vorsitzende dem Angeklagten und, soweit es nötig ist, den Zeugen und Sachverständigen die Gegenstände, die zur Aufklärung des Sachverhaltes dienen können, vorlegen und fordert sie auf, sich zu erklären, ob sie diese anerkennen\.
+
+\[ [🔗 Permalink](#-253-stpo) \]
 
 ### § 254 StPO
 
 > `(1)` Der Vorsitzende ist ermächtigt, ohne Antrag der Beteiligten des Verfahrens Zeugen und Sachverständige, von denen nach dem Gange der Verhandlung Aufklärung über erhebliche Tatsachen zu erwarten ist, im Laufe des Verfahrens vorladen und nötigenfalls vorführen zu lassen und zu vernehmen\.
 
 > `(2)` Der Vorsitzende kann auch neue Sachverständige bestellen oder die Aufnahme anderer Beweise anordnen, insbesondere einen Augenschein in Anwesenheit der Beteiligten des Verfahrens durchführen oder durch den beisitzenden Richter vornehmen lassen\. Soweit besondere Umstände eine Durchführung der Beweisaufnahme vor dem Schöffengericht nicht zulassen, ist über die Ergebnisse in der Hauptverhandlung zu berichten\.
+
+\[ [🔗 Permalink](#-254-stpo) \]
 
 ## 6. Vorträge der Parteien
 
@@ -4492,17 +5054,23 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Dem Angeklagten und seinem Verteidiger steht das Recht zu, darauf zu antworten\. Findet der Staatsanwalt, der Privatankläger oder der Privatbeteiligte hierauf etwas zu erwidern, so gebührt dem Angeklagten und seinem Verteidiger jedenfalls die Schlußrede\.
 
+\[ [🔗 Permalink](#-255-stpo) \]
+
 ### § 256 StPO
 
 > `(1)` In der Regel ist in den Schlußvorträgen über alle im Urteile zu entscheidenden Fragen ungetrennt zu verhandeln\.
 
 > `(2)` Doch steht es dem Vorsitzenden oder dem Schöffengericht \(§ 238\) frei, zu verfügen, daß die Schlußvorträge über die Schuldfrage von denen über die Strafbestimmungen, über die privatrechtlichen Ansprüche und über die Prozeßkosten zu trennen seien\. In diesen Fällen werden, nachdem das Schöffengericht über die Schuld des Angeklagten entschieden und seinen Ausspruch verkündet hat, neuerlich Schlußvorträge gehalten, die jedoch auf die noch zu entscheidenden Fragen einzuschränken sind\.
 
+\[ [🔗 Permalink](#-256-stpo) \]
+
 ## 7. Urteil des Gerichtshofes
 
 ### § 257 StPO
 
 > Nachdem der Vorsitzende die Verhandlung für geschlossen erklärt hat, zieht sich das Schöffengericht zur Urteilsfällung in das Beratungszimmer zurück\. Der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt\.
+
+\[ [🔗 Permalink](#-257-stpo) \]
 
 ### § 258 StPO
 
@@ -4511,6 +5079,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Das Gericht hat die Beweismittel auf ihre Glaubwürdigkeit und Beweiskraft sowohl einzeln als auch in ihrem inneren Zusammenhange sorgfältig und gewissenhaft zu prüfen\. Über die Frage, ob eine Tatsache als erwiesen anzunehmen sei, entscheiden die Richter nicht nach gesetzlichen Beweisregeln, sondern nur nach ihrer freien, aus der gewissenhaften Prüfung aller für und wider vorgebrachten Beweismittel gewonnenen Überzeugung\.
 
 > `(3)` Bei der Beurteilung der Aussage eines Zeugen, dem nach § 162 gestattet worden ist, bestimmte Fragen nicht zu beantworten, ist insbesondere zu prüfen, ob dem Gericht und den Beteiligten ausreichend Gelegenheit geboten war, sich mit der Glaubwürdigkeit des Zeugen und der Beweiskraft seiner Aussage auseinanderzusetzen\.
+
+\[ [🔗 Permalink](#-258-stpo) \]
 
 ### § 259 StPO
 
@@ -4521,6 +5091,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` wenn der Ankläger nach Eröffnung der Hauptverhandlung und ehe das Schöffengericht sich zur Schöpfung des Urteiles zurückzieht, von der Anklage zurücktritt;
 >
 >> `3.` wenn das Schöffengericht erkennt, daß die der Anklage zugrunde liegende Tat vom Gesetze nicht mit Strafe bedroht oder der Tatbestand nicht hergestellt oder nicht erwiesen sei, daß der Angeklagte die ihm zur Last gelegte Tat begangen habe, oder daß Umstände vorliegen, durch die die Strafbarkeit aufgehoben oder die Verfolgung aus anderen als den unter Z\. 1 und 2 angegebenen Gründen ausgeschlossen ist\.
+
+\[ [🔗 Permalink](#-259-stpo) \]
 
 ### § 260 StPO
 
@@ -4545,15 +5117,21 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ist die im Abs\. 2 genannte Feststellung im Strafurteil unterblieben, so ist sie von Amts wegen oder auf Antrag eines zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten mit Beschluß nachzuholen\. Gegen diesen Beschluß, der dem Ankläger und dem Angeklagten zuzustellen ist, steht jedem zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten die binnen vierzehn Tagen einzubringende Beschwerde an das Oberlandesgericht zu\. Ist außer über die Beschwerde noch über eine von wem immer ergriffene Nichtigkeitsbeschwerde zu entscheiden, so entscheidet der Oberste Gerichtshof auch über die Beschwerde\.
 
+\[ [🔗 Permalink](#-260-stpo) \]
+
 ### § 261 StPO
 
 > `(1)` Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen an sich oder in Verbindung mit den in der Hauptverhandlung hervorgetretenen Umständen eine zur Zuständigkeit des Geschworenengerichtes gehörige strafbare Handlung begründen, so spricht es seine Unzuständigkeit aus\.
 
 > `(2)` Sobald dieses Urteil rechtskräftig ist, hat die Staatsanwaltschaft binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts das Ermittlungsverfahren fortzuführen oder die Anordnung der Hauptverhandlung vor dem Geschworenengericht zu beantragen, wenn weitere Ermittlungen nicht erforderlich sind\. Im ersten Falle muß eine neue Anklageschrift eingebracht werden; außer diesem Fall aber ist bei der neuen Hauptverhandlung die ursprüngliche Anklageschrift und der nach diesem Paragraphen gefällte Ausspruch des Schöffengerichtes zu verlesen\.
 
+\[ [🔗 Permalink](#-261-stpo) \]
+
 ### § 262 StPO
 
 > Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen an sich oder in Verbindung mit den erst in der Hauptverhandlung hervorgetretenen Umständen eine andere als die in der Anklage bezeichnete, nicht einem Gerichte höherer Ordnung vorbehaltene strafbare Handlung begründen, so hat es die Beteiligten des Verfahrens über den geänderten rechtlichen Gesichtspunkt zu hören und über einen allfälligen Vertagungsantrag zu entscheiden\. Das Urteil schöpft es nach seiner rechtlichen Überzeugung, ohne an die in der Anklageschrift enthaltene Bezeichnung der Tat gebunden zu sein\.
+
+\[ [🔗 Permalink](#-262-stpo) \]
 
 ### § 263 StPO
 
@@ -4565,11 +5143,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` In beiden Fällen muss der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts von der Verfolgung zurücktreten \(§ 209 Abs\. 1\), die Anklage einbringen oder das Ermittlungsverfahren fortführen\.
 
+\[ [🔗 Permalink](#-263-stpo) \]
+
 ### § 264 StPO
 
 > `(1)` Wird gegen den Angeklagten ein Strafurteil gefällt, so steht dessen Vollstreckung der Umstand nicht entgegen, daß die Verfolgung wegen einer anderen Straftat noch vorbehalten ist\.
 
 > `(2)` Macht der Ankläger von dem im § 263 erwähnten Vorbehalte Gebrauch, so kann das Schöffengericht anordnen, daß die Vollstreckung des unter diesem Vorbehalt erlassenen Urteiles bis zur Entscheidung über die neue Anklage auf sich zu beruhen habe\. In diesem Falle sind beide Urteile hinsichtlich der Rechtsmittel so zu behandeln, als wären sie gleichzeitig gefällt worden\.
+
+\[ [🔗 Permalink](#-264-stpo) \]
 
 ### § 265 StPO
 
@@ -4577,17 +5159,25 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für den Beschluß nach Abs\. 1 und für das Verfahren nach einer solchen bedingten Entlassung gelten die Bestimmungen des 24\. Hauptstückes dem Sinne nach\.
 
+\[ [🔗 Permalink](#-265-stpo) \]
+
 ### § 265a StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 82\)*
+
+\[ [🔗 Permalink](#-265a-stpo) \]
 
 ### § 265b StPO
 
 > *\(Aufgehoben\)*
 
+\[ [🔗 Permalink](#-265b-stpo) \]
+
 ### § 265c StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 82\)*
+
+\[ [🔗 Permalink](#-265c-stpo) \]
 
 ### § 266 StPO
 
@@ -4595,9 +5185,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs\. 1 gefällt worden wäre, so hat das Gericht diesen aufzuheben\.
 
+\[ [🔗 Permalink](#-266-stpo) \]
+
 ### § 267 StPO
 
 > An die Anträge des Anklägers ist das Schöffengericht nur insoweit gebunden, daß es den Angeklagten nicht einer Tat schuldig erklären kann, auf die die Anklage weder ursprünglich gerichtet noch während der Hauptverhandlung ausgedehnt wurde \(§ 4 Abs\. 3\)\.
+
+\[ [🔗 Permalink](#-267-stpo) \]
 
 ## 8. Verkündung und Ausfertigung des Urteiles
 
@@ -4605,9 +5199,13 @@ Der Nationalrat hat beschlossen:
 
 > Unmittelbar nach dem Beschlusse des Schöffengerichts ist der Angeklagte wieder vorzuführen oder vorzurufen und ist in öffentlicher Sitzung vom Vorsitzenden das Urteil samt dessen wesentlichen Gründen unter Verlesung der angewendeten Gesetzesbestimmungen zu verkünden\. Zugleich belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel\.
 
+\[ [🔗 Permalink](#-268-stpo) \]
+
 ### § 269 StPO
 
 > Hat sich der Angeklagte zur Urteilsverkündung nicht eingefunden, so kann der Vorsitzende ihn zu diesem Zwecke vorführen lassen oder anordnen, daß ihm das Urteil entweder durch einen hiezu abgeordneten Richter mündlich eröffnet oder in Abschrift zugestellt werde\.
+
+\[ [🔗 Permalink](#-269-stpo) \]
 
 ### § 270 StPO
 
@@ -4634,6 +5232,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` im Fall einer Verurteilung die vom Gericht als erwiesen angenommenen Tatsachen in gedrängter Darstellung sowie die für die Strafbemessung und gegebenenfalls die für die Bemessung des Tagessatzes \(§ 19 Abs\. 2 StGB\) maßgebenden Umstände in Schlagworten;
 >
 >> `3.` im Fall eines Freispruchs eine gedrängte Darstellung der dafür maßgebenden Gründe\.
+
+\[ [🔗 Permalink](#-270-stpo) \]
 
 ## 9. Protokollführung
 
@@ -4671,6 +5271,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Für die Berichtigung von Schreib\- und Rechenfehlern im Verhandlungsprotokoll gilt § 270 Abs\. 3 erster Satz sinngemäß\. Im Übrigen hat der Vorsitzende das Protokoll von Amts wegen oder auf Antrag einer zur Ergreifung von Berufung oder Nichtigkeitsbeschwerde berechtigten Partei nach Vornahme der erforderlichen Erhebungen durch Beschluss zu ergänzen oder zu berichtigen, soweit erhebliche Umstände oder Vorgänge im Protokoll der Hauptverhandlung zu Unrecht nicht erwähnt oder unrichtig wiedergegeben wurden\. Der Antrag ist spätestens mit Ablauf der für die Ausführung einer gegen das Urteil angemeldeten Nichtigkeitsbeschwerde oder Berufung offen stehenden Frist einzubringen, ansonsten als unzulässig zurückzuweisen\. Den Parteien ist Gelegenheit zur Stellungnahme zur in Aussicht genommenen oder begehrten Berichtigung oder Ergänzung und zu den Ergebnissen der gepflogenen Erhebungen binnen festzusetzender angemessener Frist einzuräumen\. § 270 Abs\. 3 zweiter bis vierter Satz gilt sinngemäß\. Wird eine Ergänzung oder Berichtigung des Verhandlungsprotokolls nach Zustellung der Abschrift des Urteils an den Beschwerdeführer vorgenommen, so löst erst die neuerliche Zustellung die Fristen zur Ausführung angemeldeter Rechtsmittel \(§§ 285 und 294\) aus\.
 
+\[ [🔗 Permalink](#-271-stpo) \]
+
 ### § 271a StPO
 
 > `(1)` Wenn der Vorsitzende es für zweckmäßig erachtet, kann die Protokollführung nach Maßgabe der den Gerichten zur Verfügung stehenden Ausstattung durch die Verwendung technischer Einrichtungen zur Wort\- oder Bildaufnahme unterstützt werden\. In diesem Fall ist der gesamte Verlauf der Hauptverhandlung unmittelbar aufzunehmen und dies allen Beteiligten zuvor bekannt zu machen\. Abgesehen von den in § 271 Abs\. 1 Z 1 bis 3 erwähnten Angaben kann der Vorsitzende Verhandlungsmitschrift oder Diktat auf die Anordnung beschränken, welche Teile der Aufnahme in Schriftform zu übertragen sind\.
@@ -4679,9 +5281,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wurde der gesamte Verlauf der Hauptverhandlung nach Abs\. 1 aufgenommen und verzichten die Beteiligten des Verfahrens auf ein Rechtsmittel oder melden sie innerhalb der hiefür offen stehenden Frist kein Rechtsmittel an, so kann das Verhandlungsprotokoll durch einen vom Vorsitzenden zu unterschreibenden Vermerk ersetzt werden, der lediglich die in § 271 Abs\. 1 Z 1 bis 3 angeführten Angaben enthält\. Sofern sie ein rechtliches Interesse glaubhaft machen, können die Beteiligten des Verfahrens binnen vierzehn Tagen nach Verkündung des Urteils die Herstellung des Protokolls und die Zustellung einer Ausfertigung verlangen\.
 
+\[ [🔗 Permalink](#-271a-stpo) \]
+
 ### § 272 StPO
 
 > Über die Beratungen und Abstimmungen während und am Schlusse der Hauptverhandlung ist in den Fällen, wo sich das Gericht zur Beschlußfassung in das Beratungszimmer zurückgezogen hat, ein abgesondertes Protokoll zu führen\.
+
+\[ [🔗 Permalink](#-272-stpo) \]
 
 ## 10. Vertagung der Hauptverhandlung
 
@@ -4689,27 +5295,39 @@ Der Nationalrat hat beschlossen:
 
 > Die Hauptverhandlung darf, wenn sie begonnen hat, nur insoweit unterbrochen werden, als es der Vorsitzende zur nötigen Erholung der dabei beteiligten Personen oder zur unverzüglichen Herbeischaffung von Beweismitteln erforderlich findet; sie kann nach dem Ermessen des Schöffengerichts in dringenden Fällen auch an einem Sonn\- oder Feiertage fortgesetzt werden\.
 
+\[ [🔗 Permalink](#-273-stpo) \]
+
 ### § 274 StPO
 
 > Ist der Verteidiger, ungeachtet gehöriger Ladung, bei der Hauptverhandlung nicht erschienen oder hat er sich vor deren Schluß entfernt oder tritt der im § 236 Abs\. 2 vorgesehene Fall ein, und kann ein anderer Verteidiger überhaupt nicht oder doch nicht ohne Beeinträchtigung der Verteidigung des Angeklagten bestellt werden, so ist die Verhandlung zu vertagen\. Die Kosten der Bestellung eines anderen Vertreters und der Vertagung hat der schuldige Verteidiger zu tragen\.
+
+\[ [🔗 Permalink](#-274-stpo) \]
 
 ### § 275 StPO
 
 > Erkrankt der Angeklagte während der Hauptverhandlung in dem Maße, daß er ihr nicht weiter beiwohnen kann, und willigt er nicht selbst ein, daß die Verhandlung in seiner Abwesenheit fortgesetzt und seine im Ermittlungsverfahren oder in einer früheren Hauptverhandlung abgelegte Aussage vorgelesen werde, so ist die Verhandlung zu vertagen\. § 197 Abs\. 2b gilt sinngemäß\.
 
+\[ [🔗 Permalink](#-275-stpo) \]
+
 ### § 276 StPO
 
 > Für die Vertagung der Hauptverhandlung gilt § 226\.
 
+\[ [🔗 Permalink](#-276-stpo) \]
+
 ### § 276a StPO
 
 > Ist die Verhandlung, nachdem sie begonnen hatte, vertagt worden \(§§ 274 bis 276\), so kann der Vorsitzende in der späteren Verhandlung die wesentlichen Ergebnisse der früheren nach dem Protokoll und den sonst zu berücksichtigenden Akten mündlich vortragen und die Fortsetzung der Verhandlung daran anknüpfen\. Die Verhandlung ist jedoch zu wiederholen, wenn sich die Zusammensetzung des Gerichtes geändert hat oder seit der Vertagung mehr als zwei Monate verstrichen sind, es sei denn, dass beide Teile auf die Wiederholung wegen Überschreitung der Frist von zwei Monaten verzichten\.
+
+\[ [🔗 Permalink](#-276a-stpo) \]
 
 ## 11. Zwischenfälle
 
 ### § 277 StPO
 
 > Ergibt sich aus der Hauptverhandlung mit Wahrscheinlichkeit, daß ein Zeuge wissentlich falsch ausgesagt habe, so kann der Vorsitzende über dessen Aussage ein Protokoll aufnehmen und nach geschehener Vorlesung und Genehmigung vom Zeugen unterfertigen lassen; er kann den Zeugen auch festnehmen und dem Einzelrichter des Landesgerichts vorführen lassen\.
+
+\[ [🔗 Permalink](#-277-stpo) \]
 
 ### § 278 StPO
 
@@ -4719,15 +5337,21 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über einen solchen Vorgang ist ein besonderes Protokoll aufzunehmen\.
 
+\[ [🔗 Permalink](#-278-stpo) \]
+
 ### § 279 StPO
 
 > Hat der Angeklagte während der Hauptverhandlung eine strafbare Handlung begangen, so sind die Bestimmungen des § 263 voll anzuwenden\.
+
+\[ [🔗 Permalink](#-279-stpo) \]
 
 ## II. Rechtsmittel gegen das Urteil
 
 ### § 280 StPO
 
 > Gegen die Urteile der Landesgerichte als Schöffengerichte \(§ 31 Abs\. 3\) stehen nur die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen\. Die Nichtigkeitsbeschwerde geht an den Obersten Gerichtshof, die Berufung an das Oberlandesgericht\.
+
+\[ [🔗 Permalink](#-280-stpo) \]
 
 ### § 281 StPO
 
@@ -4773,15 +5397,21 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die unter Abs\. 1 Z\. 2, 3 und 4 erwähnten Nichtigkeitsgründe können zum Vorteile des Angeklagten nicht geltend gemacht werden, wenn unzweifelhaft erkennbar ist, daß die Formverletzung auf die Entscheidung keinen dem Angeklagten nachteiligen Einfluß üben konnte\. Zum Nachteile des Angeklagten können sie, abgesehen von dem im § 282 Abs\. 2 geregelten Fall, nur geltend gemacht werden, wenn erkennbar ist, daß die Formverletzung einen die Anklage beeinträchtigenden Einfluß auf die Entscheidung zu üben vermochte, und wenn außerdem der Ankläger sich ihr widersetzt, die Entscheidung des Schöffengerichts begehrt und sich sofort nach der Verweigerung oder Verkündung dieser Entscheidung die Nichtigkeitsbeschwerde vorbehalten hat\.
 
+\[ [🔗 Permalink](#-281-stpo) \]
+
 ### § 281a StPO
 
 > Der Umstand, dass ein unzuständiges Oberlandesgericht die Rechtswirksamkeit der Anklageschrift festgestellt hat \(§ 215\), kann mit einer gegen das Urteil gerichteten Nichtigkeitsbeschwerde geltend gemacht werden\.
+
+\[ [🔗 Permalink](#-281a-stpo) \]
 
 ### § 282 StPO
 
 > `(1)` Zugunsten des Angeklagten kann die Nichtigkeitsbeschwerde sowohl von ihm selbst als auch von seinem gesetzlichen Vertreter und von der Staatsanwaltschaft ergriffen werden\. Soweit es sich um die Beurteilung der geltend gemachten Nichtigkeitsgründe handelt, ist die zugunsten des Angeklagten von anderen ergriffene Nichtigkeitsbeschwerde als von ihm selbst eingelegt anzusehen\.
 
 > `(2)` Zum Nachteile des Angeklagten kann die Nichtigkeitsbeschwerde nur vom Staatsanwalt oder vom Privatankläger sowie vom Privatbeteiligten, jedoch von diesem nur im Fall eines Freispruchs und aus dem Grund des § 281 Abs\. 1 Z 4 ergriffen werden\. Der Privatbeteiligte kann den zuvor angeführten Nichtigkeitsgrund überdies nur insoweit geltend machen, als er wegen des Freispruchs auf den Zivilrechtsweg verwiesen wurde und erkennbar ist, dass die Abweisung eines von ihm in der Hauptverhandlung gestellten Antrags einen auf die Geltendmachung seiner privatrechtlichen Ansprüche nachteiligen Einfluss zu üben vermochte\.
+
+\[ [🔗 Permalink](#-282-stpo) \]
 
 ### § 283 StPO
 
@@ -4792,6 +5422,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die im § 260 Abs\. 2 erwähnte Feststellung kann zugunsten und zum Nachteil des Angeklagten mit Berufung angefochten werden\.
 
 > `(4)` Gegen die Entscheidung über die privatrechtlichen Ansprüche können nur der Angeklagte und dessen gesetzliche Vertreter und Erben Berufung einlegen\. Gegen die Verweisung auf den Zivilrechtsweg können nach Maßgabe des § 366 Abs\. 3 der Privatbeteiligte und seine Erben Berufung einlegen\.
+
+\[ [🔗 Permalink](#-283-stpo) \]
 
 ## 1. Verfahren bei Nichtigkeitsbeschwerden
 
@@ -4805,6 +5437,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden\.
 
+\[ [🔗 Permalink](#-284-stpo) \]
+
 ### § 285 StPO
 
 > `(1)` Der Beschwerdeführer hat das Recht, binnen vier Wochen nach der Anmeldung der Nichtigkeitsbeschwerde, wenn ihm eine Urteilsabschrift aber erst nach der Anmeldung des Rechtsmittels zugestellt wurde, binnen vier Wochen nach der Zustellung eine Ausführung seiner Beschwerdegründe beim Gericht in zweifacher Ausfertigung zu überreichen\. Er muss entweder in dieser Schrift oder bei Anmeldung seiner Beschwerde die Nichtigkeitsgründe einzeln und bestimmt bezeichnen, widrigens auf seine Beschwerde vom Obersten Gerichtshofe keine Rücksicht zu nehmen ist\.
@@ -4817,6 +5451,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Gegenausführung ist dem Beschwerdeführer zuzustellen\. Danach sind alle Akten an den Obersten Gerichtshof zu senden, der darüber zu entscheiden hat\.
 
+\[ [🔗 Permalink](#-285-stpo) \]
+
 ### § 285a StPO
 
 > Das Landesgericht, bei dem eine gegen ein Endurteil gerichtete Nichtigkeitsbeschwerde angemeldet wird, hat diese zurückzuweisen:
@@ -4826,6 +5462,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` wenn nicht bei der Anmeldung der Nichtigkeitsbeschwerde oder in ihrer Ausführung einer der im § 281 Abs\. 1 Z 1 bis 11 oder im § 281a angegebenen Nichtigkeitsgründe deutlich und bestimmt bezeichnet, insbesondere wenn der Tatumstand, der den Nichtigkeitsgrund bilden soll, nicht ausdrücklich oder doch durch deutliche Hinweisung angeführt ist;
 >
 >> `3.` wenn die unter Z 2 geforderte Angabe, soweit es sich nicht um eine von der Staatsanwaltschaft erhobene Nichtigkeitsbeschwerde handelt, nicht entweder zu Protokoll oder in einer Eingabe gemacht wird, die von einem Verteidiger \(§ 48 Abs\. 1 Z 4\) unterschrieben ist\. Besteht der Mangel lediglich im Fehlen der Unterschrift eines berechtigten Verteidigers, so ist die Eingabe vorerst zur Behebung dieses Mangels und Wiedervorlage binnen vierzehn Tagen zurückzustellen\.
+
+\[ [🔗 Permalink](#-285a-stpo) \]
 
 ### § 285b StPO
 
@@ -4840,11 +5478,15 @@ Der Nationalrat hat beschlossen:
 > `(5)` Gibt der Oberste Gerichtshof der Beschwerde Folge, so läuft im Falle des § 285a Z\. 1 die Frist zur Ausführung der Nichtigkeitsbeschwerde, sofern diese nicht schon erstattet ist, vom Tage der Bekanntmachung der Entscheidung des Obersten Gerichtshofes; dem Beschwerdeführer ist gleichzeitig mit dieser Bekanntmachung, wenn es nicht bereits geschehen ist, eine Ausfertigung des Urteiles zuzustellen; im übrigen ist nach § 285 vorzugehen\.
 > *\(Anm\.: Abs\. 6 aufgehoben durch BGBl\. Nr\. 605/1987\)*
 
+\[ [🔗 Permalink](#-285b-stpo) \]
+
 ### § 285c StPO
 
 > `(1)` Der Oberste Gerichtshof hat über die nach § 285 Abs\. 5 an ihn gelangte Nichtigkeitsbeschwerde nur dann zuerst in nichtöffentlicher Sitzung nach Anhörung des Generalprokurators zu beraten, wenn der Generalprokurator oder der Berichterstatter einen der in den §§ 285d, 285e und 285f bezeichneten Beschlüsse beantragt\.
 
 > `(2)` Außerdem wird der Gerichtstag zur öffentlichen Verhandlung der Sache unter Beobachtung der hiefür im § 286 erteilten Vorschrift angeordnet, ohne daß es hiezu eines Beschlusses des Obersten Gerichtshofes bedarf\.
+
+\[ [🔗 Permalink](#-285c-stpo) \]
 
 ### § 285d StPO
 
@@ -4856,29 +5498,43 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der vorstehende Beschluß kann bei der nichtöffentlichen Beratung auch dann ergehen, wenn wegen anderer Nichtigkeitsgründe oder weil der Oberste Gerichtshof sich die Ausübung der ihm nach § 290 Abs\. 1 zustehenden Befugnis vorbehalten will, ein Gerichtstag zur öffentlichen Verhandlung anzuberaumen ist\.
 
+\[ [🔗 Permalink](#-285d-stpo) \]
+
 ### § 285e StPO
 
 > Bei der nichtöffentlichen Beratung über eine zum Vorteile des Angeklagten ergriffene Nichtigkeitsbeschwerde kann dieser,, sofort Folge gegeben werden, wenn sich zeigt, daß die Anordnung einer neuen Hauptverhandlung nicht zu vermeiden ist, eine Entscheidung des Obersten Gerichtshofes in der Sache selbst aber noch nicht einzutreten hat\. Gleiches gilt, wenn nach dem 11\. Hauptstück oder § 37 SMG vorzugehen sein wird\.
+
+\[ [🔗 Permalink](#-285e-stpo) \]
 
 ### § 285f StPO
 
 > Bei der nichtöffentlichen Beratung kann ferner die Einholung tatsächlicher Aufklärungen über behauptete Formverletzungen oder Verfahrensmängel angeordnet werden\.
 
+\[ [🔗 Permalink](#-285f-stpo) \]
+
 ### § 285g StPO
 
 > Den im § 285d erwähnten Beschluß kann der Oberste Gerichtshof auch bei der Beratung über eine auf Grund des § 285b an ihn gelangte Beschwerde fassen, wenn die Ausführung der Nichtigkeitsbeschwerde überreicht oder die Frist hiezu verstrichen ist\.
+
+\[ [🔗 Permalink](#-285g-stpo) \]
 
 ### § 285h StPO
 
 > Die Bestimmungen der §§ 285c bis 285g sind auch auf Nichtigkeitsbeschwerden nach § 281a anzuwenden\.
 
+\[ [🔗 Permalink](#-285h-stpo) \]
+
 ### § 285i StPO
 
 > Weist der Oberste Gerichtshof in nichtöffentlicher Sitzung die Nichtigkeitsbeschwerde oder die Beschwerde gegen deren Zurückweisung durch das Landesgericht zurück und war mit der Nichtigkeitsbeschwerde die Berufung verbunden, so entscheidet über diese das Oberlandesgericht\. Dasselbe gilt, wenn der Nichtigkeitsbeschwerde eines Angeklagten sofort Folge gegeben wird \(§ 285e\) und der Oberste Gerichtshof nur noch über die Berufung in Ansehung eines anderen Angeklagten zu entscheiden hätte\.
 
+\[ [🔗 Permalink](#-285i-stpo) \]
+
 ### § 285j StPO
 
 > Im Fall einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs\. 5 erster Satz oder 62a Abs\. 5 erster Satz VfGG hat das Landesgericht nach § 285a vorzugehen und eine Ausfertigung seines Beschlusses oder eines nach § 285b gefassten Beschlusses dem Verfassungsgerichtshof zu übermitteln und im Fall einer verbundenen Berufung die Verständigung des Verfassungsgerichtshofes dem Oberlandesgericht vorzulegen oder mitzuteilen, dass kein Grund für ein Vorgehen nach § 285a vorliegt\.
+
+\[ [🔗 Permalink](#-285j-stpo) \]
 
 ### § 286 StPO
 
@@ -4890,6 +5546,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Hat er noch keinen Verteidiger, so ist ihm von Amts wegen ein Rechtsanwalt als Verteidiger beizugeben \(§ 61 Abs\. 3\)\. Liegen die Voraussetzungen des § 61 Abs\. 2 vor, so ist dem Angeklagten nach dieser Gesetzesstelle ein Rechtsanwalt als Verteidiger beizugeben\.
 
+\[ [🔗 Permalink](#-286-stpo) \]
+
 ### § 287 StPO
 
 > `(1)` Die Verhandlung der Sache vor dem Obersten Gerichtshof am angesetzten Gerichtstag ist öffentlich nach den Vorschriften der §§ 228 bis 230a\. Die §§ 233 bis 237 gelten sinngemäß\.
@@ -4897,6 +5555,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Zuerst trägt der Berichterstatter eine Darstellung des bisherigen Ganges des Strafverfahrens vor und bezeichnet die vom Beschwerdeführer aufgestellten Nichtigkeitsgründe und die sich daraus ergebenden Streitpunkte, ohne eine Ansicht über die zu fällende Entscheidung zu äußern\.
 
 > `(3)` Hierauf erhält der Beschwerdeführer das Wort zur Begründung seiner Beschwerde und sodann sein Gegner zur Erwiderung\. Dem Angeklagten oder seinem Verteidiger gebührt jedenfalls das Recht der letzten Äußerung\. Ist ein Teil nicht erschienen, so wird dessen Beschwerdeschrift oder Gegenausführung vorgelesen\. Hierauf zieht sich der Gerichtshof in sein Beratungszimmer zurück\.
+
+\[ [🔗 Permalink](#-287-stpo) \]
 
 ### § 288 StPO
 
@@ -4912,13 +5572,19 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` In allen anderen Fällen erkennt der Oberste Gerichtshof in der Sache selbst, indem er seiner Entscheidung die Tatsachen zugrunde legt, die das Schöffengericht ohne Überschreitung der Anklage \(§ 281 Abs\. 1 Z\. 8\) festgestellt hat\. Findet der Oberste Gerichtshof jedoch im Urteil und dessen Entscheidungsgründen die Tatsachen nicht festgestellt, die bei richtiger Anwendung des Gesetzes dem Erkenntnisse zugrunde zu legen wären, so verweist er die Sache zu neuer Verhandlung und Entscheidung an dasselbe oder an ein anderes Landesgericht, geeignetenfalls auch an das zuständige Bezirksgericht\.
 
+\[ [🔗 Permalink](#-288-stpo) \]
+
 ### § 288a StPO
 
 > Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde nach § 281a gegründet, so vernichtet er die Hauptverhandlung, verweist die Sache zur nochmaligen Verhandlung vor das zuständige Landesgericht und verfügt die sonst nötige Verbesserung des Verfahrens\.
 
+\[ [🔗 Permalink](#-288a-stpo) \]
+
 ### § 289 StPO
 
 > War die Nichtigkeitsbeschwerde nur gegen einzelne im Urteil enthaltene Verfügungen gerichtet und findet der Oberste Gerichtshof, daß diese vom Inhalte des ganzen Urteiles trennbar seien, so steht ihm auch frei, das angefochtene Urteil nur teilweise aufzuheben\. Eben dies ist der Fall, wenn dem angefochtenen Urteile mehrere strafbare Handlungen zugrunde liegen und die Nichtigkeitsbeschwerde sich nur auf das Verfahren oder die Beurteilung hinsichtlich einzelner von ihnen beschränkt, zugleich aber die erforderliche teilweise Wiederholung des Verfahrens oder auch ohne diese ein neuer Ausspruch hinsichtlich dieser einzelnen strafbaren Handlung ausführbar erscheint\.
+
+\[ [🔗 Permalink](#-289-stpo) \]
 
 ### § 290 StPO
 
@@ -4926,13 +5592,19 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ist die Nichtigkeitsbeschwerde lediglich zugunsten des Angeklagten ergriffen worden, so kann der Oberste Gerichtshof keine strengere Strafe über den Angeklagten verhängen, als das angefochtene Urteil ausgesprochen hatte\.
 
+\[ [🔗 Permalink](#-290-stpo) \]
+
 ### § 291 StPO
 
 > Das Urteil des Obersten Gerichshofes ist, nachdem sich dieser in den Gerichtssaal zurückbegeben hat, samt den Entscheidungsgründen mündlich zu verkünden; hat der Angeklagte der Verhandlung beim Obersten Gerichtshofe nicht beigewohnt, so ist ihm ohne Verzug eine amtlich beglaubigte Abschrift des Urteiles durch das Landesgericht zuzustellen\. Für die Ausfertigung des Urteiles und die Führung des Protokolls bei den Verhandlungen des Obersten Gerichtshofes sind die in den §§ 260, 268 bis 271 enthaltenen Vorschriften zu beobachten\.
 
+\[ [🔗 Permalink](#-291-stpo) \]
+
 ### § 292 StPO
 
 > Das Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsbeschwerde richtet sich im allgemeinen nach den in den §§ 286 Abs\. 1 bis 3 und 287 bis 291 enthaltenen Vorschriften\. Dem Angeklagten \(Verurteilten\) oder seinem Verteidiger ist eine Gleichschrift der Nichtigkeitsbeschwerde mit dem Bedeuten mitzuteilen, daß er sich binnen einer festzusetzenden angemessenen Frist hiezu äußern könne; vom Gerichtstag ist er mit der Bemerkung in Kenntnis zu setzen, daß es ihm freistehe zu erscheinen\. Ist der Aufenthaltsort des Angeklagten nicht bekannt und ohne besonderen Verfahrensaufwand nicht feststellbar, so kann die Zustellung an ihn unterbleiben\. Das gleiche gilt für den Privatbeteiligten, sofern der Ausspruch über die privatrechtlichen Ansprüche von der Nichtigkeitsbeschwerde betroffen ist, und für die sonst Beteiligten, sofern ihre Rechte betroffen sind\. Findet der Oberste Gerichtshof die zur Wahrung des Gesetzes erhobene Beschwerde gegründet, so hat er zu erkennen, daß in der fraglichen Strafsache durch den angefochtenen Beschluß oder Vorgang, durch das gepflogene Verfahren oder durch das erlassene Urteil das Gesetz verletzt worden sei\. Dieser Ausspruch ist in der Regel ohne Wirkung auf den Angeklagten\. Ist jedoch der Angeklagte durch ein solches nichtiges Urteil zu einer Strafe verurteilt worden, so steht es dem Obersten Gerichtshofe frei, nach seinem Ermessen entweder den Angeklagten freizusprechen oder einen milderen Strafsatz anzuwenden oder nach Umständen eine Erneuerung des gegen diesen gepflogenen Verfahrens anzuordnen\.
+
+\[ [🔗 Permalink](#-292-stpo) \]
 
 ### § 293 StPO
 
@@ -4943,6 +5615,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Bestimmung des § 290 Abs\. 2 ist auch für das auf Grund der neuen Hauptverhandlung ergehende Urteil maßgebend\.
 
 > `(4)` Gegen dieses Urteil kann die Nichtigkeitsbeschwerde aus allen im § 281 erwähnten Gründen ergriffen werden, soweit diese nicht bereits durch eine in derselben Sache ergangene Entscheidung des Obersten Gerichtshofes beseitigt sind\.
+
+\[ [🔗 Permalink](#-293-stpo) \]
 
 ## 2. Verfahren bei Berufungen
 
@@ -4958,6 +5632,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschieden, so hat der Vorsitzende einen Gerichtstag zur öffentlichen Verhandlung über die Berufung anzuordnen\. Für die Anberaumung und Durchführung des Gerichtstages gelten die Bestimmungen der §§ 286 und 287 dem Sinne nach mit der Maßgabe, dass der nicht verhaftete Angeklagte vorzuladen und auch die Vorführung des verhafteten Angeklagten zu veranlassen ist, es sei denn, dieser hätte durch seinen Verteidiger ausdrücklich darauf verzichtet oder es liegt ein Fall des § 286 Abs\. 2 zweiter Satz vor\. Ist die Berufung gegen den Ausspruch über die privatrechtlichen Ansprüche gerichtet, so ist auch der Privatbeteiligte vorzuladen\. Die §§ 233 bis 237 gelten sinngemäß\.
 
+\[ [🔗 Permalink](#-294-stpo) \]
+
 ### § 295 StPO
 
 > `(1)` Das Oberlandesgericht hat sich bei seiner Entscheidung auf die der Berufung unterzogenen Punkte zu beschränken und dabei den Ausspruch des Gerichtes über die Schuld des Angeklagten und über das anzuwendende Strafgesetz zugrunde zu legen\. Setzt es die Strafe zugunsten eines oder mehrerer Mitschuldiger aus Gründen herab, die auch anderen zustatten kommen, so hat es von Amts wegen so vorzugehen, als hätten auch diese Mitschuldigen die Berufung ergriffen\.
@@ -4966,6 +5642,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Gegen seine Entscheidung ist kein Rechtsmittel zulässig\.
 
+\[ [🔗 Permalink](#-295-stpo) \]
+
 ### § 296 StPO
 
 > `(1)` Ist außer über die Berufung auch über eine Nichtigkeitsbeschwerde zu entscheiden, die von der einen oder der anderen Seite ergriffen worden ist, so sind bei Vorlegung der Akten an den Obersten Gerichtshof auch die Aktenstücke beizulegen, die die Berufung betreffen\. In diesem Fall entscheidet der Oberste Gerichtshof, sofern er nicht nach § 285i vorgeht, auch über die Berufung\.
@@ -4973,6 +5651,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Oberste Gerichtshof berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder der Generalprokurator die Zurückweisung der Berufung aus einem der im § 294 Abs\. 4 angeführten Gründe beantragt und nicht über die Nichtigkeitsbeschwerde bei einem Gerichtstag zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde entschieden werden muß\.
 
 > `(3)` Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschieden, so entscheidet der Oberste Gerichtshof über die Berufung beim Gerichtstag zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde\. In diesem Fall ist zum Gerichtstag der nicht verhaftete Angeklagte vorzuladen und die Vorführung des verhafteten Angeklagten zu veranlassen, es sei denn, dieser hätte durch seinen Verteidiger ausdrücklich darauf verzichtet oder es liegt ein Fall des § 286 Abs\. 2 zweiter Satz vor\. Ist die Berufung gegen den Ausspruch über die privatrechtlichen Ansprüche gerichtet, so ist auch der Privatbeteiligte vorzuladen\.
+
+\[ [🔗 Permalink](#-296-stpo) \]
 
 ## 3. Gemeinsame Bestimmung
 
@@ -4985,6 +5665,8 @@ Der Nationalrat hat beschlossen:
 >> `2.` der Angeklagte in Freiheit zu setzen,
 >
 > &nbsp; so hat der Oberste Gerichtshof oder das Oberlandesgericht den Vorsitzenden des Schöffengerichtes davon sogleich unter Anschluß der erforderlichen Angaben zu verständigen, es sei denn, daß im Falle der Z\. 2 die Entscheidung bei einem Gerichtstag in Anwesenheit des Angeklagten ergeht \(§ 396\)\.
+
+\[ [🔗 Permalink](#-296a-stpo) \]
 
 ## 5. TEIL
 
@@ -5000,13 +5682,19 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z 92\)*
 
+\[ [🔗 Permalink](#-297-stpo) \]
+
 ### § 298 StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 92\)*
 
+\[ [🔗 Permalink](#-298-stpo) \]
+
 ### § 299 StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 92\)*
+
+\[ [🔗 Permalink](#-299-stpo) \]
 
 ### § 301 StPO
 
@@ -5015,6 +5703,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Bildung der Listen, denen die Geschworenen zu entnehmen sind, die Heranziehung der in diesen Listen verzeichneten Personen zum Dienst als Geschworene und die wegen Pflichtverletzungen der Geschworenen zulässigen Maßnahmen regelt ein besonderes Gesetz\.
 
 > `(3)` § 221 Abs\. 4 ist sinngemäß anzuwenden\.
+
+\[ [🔗 Permalink](#-301-stpo) \]
 
 ## II. Hauptverhandlung vor dem Geschworenengerichte
 
@@ -5026,15 +5716,21 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Vorsitzende des Schwurgerichtshofes ist insbesondere verpflichtet, den Geschworenen auch außer den Fällen, für die es im Gesetz ausdrücklich vorgeschrieben ist, die zur Ausübung ihres Amtes erforderlichen Anleitungen zu geben und sie nötigenfalls an ihre Pflichten zu erinnern\.
 
+\[ [🔗 Permalink](#-302-stpo) \]
+
 ### § 303 StPO
 
 > Soweit nach den folgenden Vorschriften der Schwurgerichtshof gemeinsam mit den Geschworenen zu entscheiden hat, richten sich Abstimmung und Beschlußfassung nach den für die Schöffengerichte geltenden Bestimmungen\.
+
+\[ [🔗 Permalink](#-303-stpo) \]
 
 ## 2. Beginn der Hauptverhandlung
 
 ### § 304 StPO
 
 > Sobald die Geschworenen ihre Sitze in der alphabetischen Reihenfolge ihrer Namen, Ersatzgeschworene nach den übrigen Geschworenen, eingenommen haben, beginnt die Hauptverhandlung mit dem Aufrufe der Sache durch den Schriftführer\. Der Vorsitzende stellt an den Angeklagten die im § 240 vorgeschriebenen Fragen und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung\.
+
+\[ [🔗 Permalink](#-304-stpo) \]
 
 ### § 305 StPO
 
@@ -5045,11 +5741,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Beeidigung gilt für die Dauer des Kalenderjahres\. Sie ist im Verhandlungsprotokoll und fortlaufend in einem besonderen Abschnitte des Buches über die Beeidigung der Schöffen \(§ 240a Abs\. 3\) zu beurkunden\.
 
+\[ [🔗 Permalink](#-305-stpo) \]
+
 ## 3. Beweisverfahren
 
 ### § 306 StPO
 
 > Nach der Beeidigung der Geschworenen läßt der Vorsitzende durch den Schriftführer die Zeugen und Sachverständigen aufrufen und trifft die im § 241 angeführten Verfügungen\. Das Verfahren gegen ungehorsame Zeugen oder Sachverständige richtet sich nach den Vorschriften der §§ 242 und 243\.
+
+\[ [🔗 Permalink](#-306-stpo) \]
 
 ### § 308 StPO
 
@@ -5057,11 +5757,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Recht der Fragestellung \(§ 249\) steht auch dem Ersatzrichter und den Geschworenen mit Einschluß der Ersatzgeschworenen zu\.
 
+\[ [🔗 Permalink](#-308-stpo) \]
+
 ### § 309 StPO
 
 > `(1)` Auch Geschworene einschließlich der Ersatzgeschworenen können Beweisaufnahmen zur Aufklärung von erheblichen Tatsachen, die Gegenüberstellung von Zeugen, deren Aussagen voneinander abweichen, und die nochmalige Vernehmung bereits abgehörter Zeugen \(§ 251\) begehren\.
 
 > `(2)` Über ein solches Begehren entscheidet der Schwurgerichtshof\.
+
+\[ [🔗 Permalink](#-309-stpo) \]
 
 ## 4. Fragestellung an die Geschworenen
 
@@ -5075,11 +5779,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Vorsitzende übergibt sodann mindestens zwei Ausfertigungen der Fragen den Geschworenen\.
 
+\[ [🔗 Permalink](#-310-stpo) \]
+
 ### § 311 StPO
 
 > `(1)` Die Fragestellung an die Geschworenen entfällt, wenn der Schwurgerichtshof nach Anhörung der Parteien erkennt, daß der Angeklagte freizusprechen sei, weil einer der im § 259 Z\. 1 und 2 erwähnten Fälle vorliegt oder die Verfolgung aus anderen Gründen des Prozeßrechtes ausgeschlossen ist\.
 
 > `(2)` Kann jedoch über diese Frage nicht entschieden werden, ohne einer den Geschworenen vorbehaltenen Feststellung entscheidender Tatsachen oder der rechtlichen Beurteilung der Tat durch die Geschworenen vorzugreifen, so ist vorerst der Wahrspruch der Geschworenen abzuwarten \(§ 337\)\.
+
+\[ [🔗 Permalink](#-311-stpo) \]
 
 ### § 312 StPO
 
@@ -5087,11 +5795,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Treffen in der dem Angeklagten in der Anklage zur Last gelegten Tat die Merkmale mehrerer strafbarer Handlungen zusammen, ohne daß eine in der anderen aufgeht, so ist für jede der zusammentreffenden strafbaren Handlungen eine besondere Hauptfrage zu stellen\.
 
+\[ [🔗 Permalink](#-312-stpo) \]
+
 ### § 313 StPO
 
 > Sind in der Hauptverhandlung Tatsachen vorgebracht worden, die – wenn sie als erwiesen angenommen werden – die Strafbarkeit ausschließen oder aufheben würden, so ist eine entsprechende Frage nach dem Strafausschließungs\- oder Strafaufhebungsgrunde \(Zusatzfrage\) zu stellen\.
 >
 > *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 94\)*
+
+\[ [🔗 Permalink](#-313-stpo) \]
 
 ### § 314 StPO
 
@@ -5099,15 +5811,21 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine Frage, nach der die dem Angeklagten zur Last gelegte Tat unter ein strengeres Strafgesetz als das in der Anklageschrift angegebene fiele, kann gestellt werden, sofern der Schwurgerichtshof nach Anhörung der Parteien die Vertagung der Hauptverhandlung oder die Ausscheidung des Verfahrens wegen dieser Tat nicht für notwendig erachtet\.
 
+\[ [🔗 Permalink](#-314-stpo) \]
+
 ### § 315 StPO
 
 > `(1)` Ist der Angeklagte in der Hauptverhandlung noch einer anderen als der der Anklageschrift zugrunde liegenden Tat beschuldigt worden oder hat er während der Hauptverhandlung eine strafbare Handlung begangen, so sind die Bestimmungen der §§ 263 und 279 anzuwenden\.
 
 > `(2)` Ist die Verhandlung auf die neue Tat ausgedehnt worden, so sind auch wegen dieser Tat die entsprechenden Fragen zu stellen\. Die Stellung solcher Fragen unterbleibt jedoch, wenn sich in der Hauptverhandlung ergibt, daß eine bessere Vorbereitung der Anklage oder Verteidigung notwendig ist\. In diesem Falle hat der Schwurgerichtshof die Hauptverhandlung gegen den Angeklagten, dem die hinzugekommene Tat zur Last gelegt ist, abzubrechen und die Entscheidung über alle diesem Angeklagten zur Last liegenden strafbaren Handlungen einer neuen Hauptverhandlung vorzubehalten oder, falls er diesen Vorgang nicht für zweckmäßig erachtet, dem Ankläger auf dessen Verlangen die Verfolgung wegen der hinzugekommenen Tat im Urteile vorzubehalten\.
 
+\[ [🔗 Permalink](#-315-stpo) \]
+
 ### § 316 StPO
 
 > Erschwerungs\- und Milderungsumstände sind nur unter der Voraussetzung Gegenstand einer Zusatzfrage an die Geschworenen, daß in der Hauptverhandlung Tatsachen vorgebracht worden sind, die – wenn sie als erwiesen angenommen werden – einen im Gesetze namentlich angeführten Erschwerungs\- oder Milderungsumstand begründen würden, der nach dem Gesetze die Anwendung eines anderen Strafsatzes bedingt\.
+
+\[ [🔗 Permalink](#-316-stpo) \]
 
 ### § 317 StPO
 
@@ -5117,6 +5835,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Fragen, die nur für den Fall der Bejahung \(Zusatzfragen\) oder für den Fall der Verneinung einer anderen Frage \(Eventualfragen\) gestellt werden, sind als solche ausdrücklich zu bezeichnen\.
 
+\[ [🔗 Permalink](#-317-stpo) \]
+
 ## 5. Vorträge der Parteien; Schluß der Verhandlung
 
 ### § 318 StPO
@@ -5125,9 +5845,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` In den Schlußvorträgen sind alle im Urteile zu entscheidenden Punkte zu behandeln\.
 
+\[ [🔗 Permalink](#-318-stpo) \]
+
 ### § 319 StPO
 
 > Hierauf erklärt der Vorsitzende die Verhandlung für geschlossen; der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt\.
+
+\[ [🔗 Permalink](#-319-stpo) \]
 
 ## 6. Wahl des Obmannes der Geschworenen; Rechtsbelehrung durch den Vorsitzenden
 
@@ -5137,15 +5861,21 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Ersatzrichter und die Ersatzgeschworenen dürfen im Beratungszimmer nur anwesend sein, sofern sie vor Schluß der Verhandlung an die Stelle eines verhinderten Mitgliedes des Geschworenengerichtes getreten sind\.
 
+\[ [🔗 Permalink](#-320-stpo) \]
+
 ### § 321 StPO
 
 > `(1)` Der Vorsitzende verfaßt nach Beratung mit den übrigen Mitgliedern des Schwurgerichtshofes die den Geschworenen zu erteilende Rechtsbelehrung\. Das Schriftstück ist von ihm zu unterfertigen und dem Protokoll über die Hauptverhandlung anzuschließen\.
 
 > `(2)` Die Rechtsbelehrung muß – für jede Frage gesondert – eine Darlegung der gesetzlichen Merkmale der strafbaren Handlung, auf die die Haupt\- oder Eventualfrage gerichtet ist, sowie eine Auslegung der in den einzelnen Fragen vorkommenden Ausdrücke des Gesetzes enthalten und das Verhältnis der einzelnen Fragen zueinander sowie die Folgen der Bejahung oder Verneinung jeder Frage klarlegen\.
 
+\[ [🔗 Permalink](#-321-stpo) \]
+
 ### § 322 StPO
 
 > Nach Ausfertigung der Rechtsbelehrung begibt sich der Schwurgerichtshof mit dem Schriftführer in das Beratungszimmer der Geschworenen\. Der Vorsitzende läßt die Anklageschrift, den gemäß § 244 Abs\. 1 vorgelesenen Beschluss des Oberlandesgerichts, die Beweisgegenstände, Augenscheinsprotokolle und die übrigen Akten mit Ausnahme der in der Hauptverhandlung nicht vorgelesenen Vernehmungsprotokolle in das Beratungszimmer schaffen\.
+
+\[ [🔗 Permalink](#-322-stpo) \]
 
 ### § 323 StPO
 
@@ -5154,6 +5884,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Im Anschluß an die Rechtsbelehrung bespricht der Vorsitzende mit den Geschworenen die einzelnen Fragen; er führt die in die Fragen aufgenommenen gesetzlichen Merkmale der strafbaren Handlung auf den ihnen zugrunde liegenden Sachverhalt zurück, hebt die für die Beantwortung der Frage entscheidenden Tatsachen hervor, verweist auf die Verantwortung des Angeklagten und auf die in der Hauptverhandlung durchgeführten Beweise, ohne sich in eine Würdigung der Beweismittel einzulassen, und gibt die von den Geschworenen etwa begehrten Aufklärungen\. Er bespricht mit den Geschworenen das Wesen der freien Beweiswürdigung \(§ 258 Abs\. 2\)\. Ist einem Zeugen nach § 162 gestattet worden, bestimmte Fragen nicht zu beantworten, so fordert der Vorsitzende die Geschworenen auf, insbesondere zu prüfen, ob ihnen und den Beteiligten ausreichend Gelegenheit geboten war, sich mit der Glaubwürdigkeit des Zeugen und der Beweiskraft seiner Aussage auseinanderzusetzen\. Er belehrt ferner den Obmann der Geschworenen über die ihm obliegenden Aufgaben, insbesondere über den Vorgang bei der Abstimmung und Aufzeichnung ihres Ergebnisses\.
 
 > `(3)` Am Schlusse seines Vortrages überzeugt sich der Vorsitzende, ob seine Belehrung von den Geschworenen verstanden worden ist, und ergänzt sie, wenn es zur Behebung von Zweifeln erforderlich ist\. Er übergibt sodann dem Obmanne der Geschworenen die Niederschrift der Rechtsbelehrung und des allfälligen Anhanges zu ihr\.
+
+\[ [🔗 Permalink](#-323-stpo) \]
 
 ## 7. Beratung und Abstimmung der Geschworenen
 
@@ -5165,6 +5897,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein Beschluß im Sinne des Abs\. 1 ist vom Vorsitzenden den Geschworenen mitzuteilen\. Eine schriftliche Ausfertigung dieses Beschlusses samt Gründen ist von den Mitgliedern des Schwurgerichtshofes zu unterfertigen und dem Hauptverhandlungsprotokoll anzuschließen\. Ein Rechtsmittel steht gegen den Beschluß nicht offen\.
 
+\[ [🔗 Permalink](#-324-stpo) \]
+
 ### § 325 StPO
 
 > `(1)` Der Obmann leitet die Beratung der Geschworenen damit ein, daß er ihnen folgende Belehrung vorliest:
@@ -5175,9 +5909,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Mehrere Abdrucke dieser Belehrung sowie der Bestimmungen der §§ 326, 329, 330, 331, 332 Abs\. 1 bis 3 sowie des § 340 sollen im Beratungszimmer der Geschworenen angeschlagen sein\.
 
+\[ [🔗 Permalink](#-325-stpo) \]
+
 ### § 326 StPO
 
 > Die Geschworenen dürfen ihr Beratungszimmer nicht verlassen, bevor sie ihren Ausspruch über die an sie gerichteten Fragen gefällt haben\. Niemand darf während der Beratung und Abstimmung ohne Bewilligung des Vorsitzenden in ihr Beratungszimmer eintreten; auch ist den Geschworenen jeder Verkehr mit dritten Personen untersagt\. Gegen Geschworene und dritte Personen, die diesem Verbot zuwiderhandeln, ist vom Schwurgerichtshof eine Ordnungsstrafe bis zu 1 000 Euro zu verhängen\.
+
+\[ [🔗 Permalink](#-326-stpo) \]
 
 ### § 327 StPO
 
@@ -5187,19 +5925,27 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im übrigen wird über die Beratung der Geschworenen kein Protokoll geführt\.
 
+\[ [🔗 Permalink](#-327-stpo) \]
+
 ### § 328 StPO
 
 > Äußern die Geschworenen bei der Beratung den Wunsch nach einer Ergänzung des Beweisverfahrens zur Aufklärung erheblicher Tatsachen \(§ 309\) oder nach Änderung oder Ergänzung der an sie gerichteten Fragen, so ist die Verhandlung wieder zu eröffnen; sofern es sich um eine Ergänzung oder Änderung der Fragen handelt, gelten die Bestimmungen des § 310 Abs\. 3 und 4 sinngemäß\.
 
+\[ [🔗 Permalink](#-328-stpo) \]
+
 ### § 329 StPO
 
 > Der Abstimmung der Geschworenen darf bei sonstiger Nichtigkeit niemand beiwohnen\.
+
+\[ [🔗 Permalink](#-329-stpo) \]
 
 ### § 330 StPO
 
 > `(1)` Der Obmann der Geschworenen läßt über die einzelnen Fragen der Reihe nach mündlich abstimmen, indem er jeden Geschworenen um seine Meinung befragt; er selbst gibt seine Stimme zuletzt ab\.
 
 > `(2)` Die Geschworenen stimmen über jede Frage mit „ja“ oder „nein“ ab; doch ist ihnen auch gestattet, eine Frage nur teilweise zu bejahen\. In diesem Fall ist die Beschränkung kurz beizufügen \(zum Beispiel: „Ja, aber nicht mit diesen oder jenen in der Frage enthaltenen Umständen“\)\.
+
+\[ [🔗 Permalink](#-330-stpo) \]
 
 ### § 331 StPO
 
@@ -5210,6 +5956,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Nach Beendigung der Abstimmung hat der Obmann in einer kurzen Niederschrift, gesondert für jede Frage, die Erwägungen anzugeben, von denen die Mehrheit der Geschworenen bei der Beantwortung dieser Frage ausgegangen ist\. Die Niederschrift ist im Einvernehmen mit diesen Geschworenen abzufassen und vom Obmanne zu unterfertigen\.
 
 > `(4)` Der Obmann der Geschworenen benachrichtigt sodann den Vorsitzenden des Schwurgerichtshofes schriftlich von der Beendigung der Abstimmung\.
+
+\[ [🔗 Permalink](#-331-stpo) \]
 
 ## 8. Verbesserung des Wahrspruches der Geschworenen
 
@@ -5227,9 +5975,13 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Das über die Beratung des Schwurgerichtshofes \(Abs\. 4 und 5\) aufgenommene Protokoll und der ursprüngliche Wahrspruch und die im § 331 Abs\. 3 bezeichnete Niederschrift sind dem Hauptverhandlungsprotokoll anzuschließen\.
 
+\[ [🔗 Permalink](#-332-stpo) \]
+
 ### § 333 StPO
 
 > Hält der Schwurgerichtshof eine Verbesserung des Wahrspruches für erforderlich oder ist in diesem Fall auch die Fragestellung geändert oder ergänzt worden, so eröffnet der Vorsitzende den Geschworenen, daß sie nur zur Änderung der beanstandeten Antworten \(§ 332 Abs\. 4\) und zur Beantwortung der neu oder in geänderter Fassung vorgelegten Fragen \(§ 332 Abs\. 5\) berechtigt sind\. Die neuen oder geänderten Fragen sind dem Obmanne der Geschworenen in zwei Ausfertigungen zu übergeben\.
+
+\[ [🔗 Permalink](#-333-stpo) \]
 
 ## 9. Weiteres Verfahren bis zur gemeinsamen Beratung über die Strafe
 
@@ -5243,17 +5995,25 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Stimmt der Wahrspruch des zweiten Geschworenengerichtes mit dem des ersten überein, so ist er dem Urteile zugrunde zu legen\.
 
+\[ [🔗 Permalink](#-334-stpo) \]
+
 ### § 335 StPO
 
 > Wird die Entscheidung nicht ausgesetzt, so ist der Wahrspruch der Geschworenen dem Urteile zugrunde zu legen\.
+
+\[ [🔗 Permalink](#-335-stpo) \]
 
 ### § 336 StPO
 
 > Haben die Geschworenen die Schuldfragen verneint oder Zusatzfragen \(§ 313\) bejaht, so fällt der Schwurgerichtshof sofort ein freisprechendes Urteil\.
 
+\[ [🔗 Permalink](#-336-stpo) \]
+
 ### § 337 StPO
 
 > Ebenso wird der Angeklagte durch Urteil des Schwurgerichtshofes freigesprochen, wenn ihn die Geschworenen zwar schuldig gesprochen haben, der Schwurgerichtshof jedoch der Meinung ist, daß bei Zugrundelegung der Tatsachen, die im Wahrspruche der Geschworenen festgestellt sind, und der rechtlichen Beurteilung, die die Geschworenen der Tat haben angedeihen lassen, die Verfolgung aus Gründen des Prozeßrechtes ausgeschlossen sei \(§ 311\), oder daß die Tat, die der Angeklagte nach dem Ausspruche der Geschworenen begangen hat, vom Gesetze nicht mit gerichtlicher Strafe bedroht sei\.
+
+\[ [🔗 Permalink](#-337-stpo) \]
 
 ## 10. Gemeinsame Beratung über die Strafe
 
@@ -5261,9 +6021,13 @@ Der Nationalrat hat beschlossen:
 
 > Ist der Angeklagte schuldig befunden worden und ist er nicht nach § 336 oder § 337 freizusprechen, so entscheidet der Schwurgerichtshof gemeinsam mit den Geschworenen \(§ 303\) über die zu verhängende Strafe und die etwa anzuwendenden Maßnahmen der Besserung und Sicherung sowie über die privatrechtlichen Ansprüche und die Kosten des Strafverfahrens\.
 
+\[ [🔗 Permalink](#-338-stpo) \]
+
 ### § 339 StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 98\)*
+
+\[ [🔗 Permalink](#-339-stpo) \]
 
 ## 11. Verkündung des Wahrspruches und des Urteiles
 
@@ -5274,11 +6038,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Obmann verliest sodann bei sonstiger Nichtigkeit in Gegenwart aller Geschworenen die an sie gerichteten Fragen und unmittelbar nach jeder den beigefügten Wahrspruch der Geschworenen\.
 
+\[ [🔗 Permalink](#-340-stpo) \]
+
 ### § 341 StPO
 
 > `(1)` Der Vorsitzende verkündet sodann in der öffentlichen Gerichtssitzung in Gegenwart des Anklägers, des Angeklagten \(§§ 234, 269\) und des Verteidigers das Urteil samt den wesentlichen Gründen oder den Beschluß auf Aussetzung der Entscheidung \(§ 334\), diesen ohne Begründung\.
 
 > `(2)` Anschließend belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel\.
+
+\[ [🔗 Permalink](#-341-stpo) \]
 
 ## 12. Ausfertigung des Urteiles, Protokollführung
 
@@ -5286,17 +6054,23 @@ Der Nationalrat hat beschlossen:
 
 > Das Urteil ist in der im § 270 Abs\. 1 bis 3 vorgeschriebenen Weise auszufertigen\. In der Ausfertigung sind auch die Namen der Geschworenen anzuführen, die der Ersatzgeschworenen jedoch nur dann, wenn diese vor Schluß der Verhandlung an die Stelle eines verhinderten Geschworenen getreten sind\. Die Ausfertigung muß auch die an die Geschworenen gestellten Fragen und ihre Beantwortung enthalten\. Auf die im § 331 Abs\. 3 bezeichnete Niederschrift darf im Urteile kein Bezug genommen werden\.
 
+\[ [🔗 Permalink](#-342-stpo) \]
+
 ### § 343 StPO
 
 > `(1)` Für die Führung des Protokolls über die Hauptverhandlung sowie über die Beratungen und Abstimmungen des Schwurgerichtshofs oder des Geschworenengerichtes während und am Schlusse der Hauptverhandlung gelten die Vorschriften der §§ 271, 271a, 272 und 305 Abs\. 3 mit der Maßgabe, dass stets ein Schriftführer beizuziehen und ein Protokollvermerk \(§ 271 Abs\. 1a\) nicht zulässig ist\.
 
 > `(2)` Das Hauptverhandlungsprotokoll muß auch die Namen der Geschworenen einschließlich der Ersatzgeschworenen enthalten\. Ist infolge Verhinderung eines Geschworenen ein Ersatzgeschworener an dessen Stelle getreten, so ist das im Hauptverhandlungsprotokoll zu beurkunden\.
 
+\[ [🔗 Permalink](#-343-stpo) \]
+
 ## III. Rechtsmittel gegen Urteile der Geschworenengerichte
 
 ### § 344 StPO
 
 > Gegen die Urteile der Geschworenengerichte stehen die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen\. Die für Rechtsmittel gegen Urteile der Schöffengerichte und für das Verfahren über solche Rechtsmittel geltenden Vorschriften \(§§ 280 bis 296a\) sind auf Rechtsmittel gegen Urteile der Geschworenengerichte dem Sinne nach anzuwenden, soweit im folgenden nichts anderes bestimmt ist\. An die Stelle der in den §§ 285a und 285d bezeichneten Nichtigkeitsgründe treten die folgenden Nichtigkeitsgründe des § 345 Abs\. 1, und zwar im § 285a die der Z\. 1 bis 13 und im § 285d die der Z\. 1 bis 5, 10a und 13\.
+
+\[ [🔗 Permalink](#-344-stpo) \]
 
 ### § 345 StPO
 
@@ -5344,9 +6118,13 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Zum Nachteile des Angeklagten können die unter Abs\. 1 Z\. 2, 7 und 10a erwähnten Nichtigkeitsgründe niemals, die unter Abs\. 1 Z\. 3 bis 6 und 10 erwähnten aber nur dann geltend gemacht werden, wenn erkennbar ist, daß die Formverletzung einen die Anklage beeinträchtigenden Einfluß auf die Entscheidung üben konnte, wenn sich außerdem der Ankläger widersetzt, die Entscheidung des Schwurgerichtshofes begehrt und sich sofort nach der Verweigerung oder Verkündung dieser Entscheidung die Nichtigkeitsbeschwerde vorbehalten hat\. § 282 Abs\. 2 gilt sinngemäß\.
 
+\[ [🔗 Permalink](#-345-stpo) \]
+
 ### § 346 StPO
 
 > Der Ausspruch über die Strafe kann in den im § 283 angeführten Fällen mit Berufung angefochten werden\.
+
+\[ [🔗 Permalink](#-346-stpo) \]
 
 ### § 348 StPO
 
@@ -5354,11 +6132,15 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 569/1973, Art\. III Z\. 7\)*
 
+\[ [🔗 Permalink](#-348-stpo) \]
+
 ### § 349 StPO
 
 > `(1)` Liegt einer der im § 345 Abs\. 1 Z\. 1 bis 9 und 10a erwähnten Nichtigkeitsgründe vor, so hebt der Oberste Gerichtshof den Wahrspruch der Geschworenen und das darauf beruhende Urteil auf und verweist, sofern er nicht aus dem im § 345 Abs\. 1 Z\. 7 angeführten Grunde den Angeklagten freispricht, die Sache an das Geschworenengericht des von ihm zu bezeichnenden Landesgerichts zur nochmaligen Verhandlung und Entscheidung\.
 
 > `(2)` Werden nicht alle Teile des Wahrspruches vom geltend gemachten Nichtigkeitsgrund getroffen und ist eine Sonderung möglich, so läßt der Oberste Gerichtshof die nicht betroffenen Teile des Wahrspruches und des Urteiles von dieser Verfügung unberührt und trägt dem Gericht, an das die Sache verwiesen wird, auf, die unberührt gebliebenen Teile des Wahrspruches der Entscheidung mit zugrunde zu legen\.
+
+\[ [🔗 Permalink](#-349-stpo) \]
 
 ### § 350 StPO
 
@@ -5366,9 +6148,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Liegt der im § 345 Abs\. 1 Z\. 10 bezeichnete Nichtigkeitsgrund vor, so hebt der Oberste Gerichtshof den Wahrspruch der Geschworenen, soweit er vom Nichtigkeitsgrunde betroffen ist, und das darauf beruhende Urteil auf\. Ist den Geschworenen mit Unrecht die Verbesserung des Wahrspruches aufgetragen worden, so entscheidet er auf Grund des ursprünglichen Wahrspruches in der Sache selbst\. Ist den Geschworenen die Verbesserung wegen eines von ihnen behaupteten Mißverständnisses mit Unrecht nicht aufgetragen worden, so verweist der Oberste Gerichtshof die Sache an das Geschworenengericht zur neuen Verhandlung und Entscheidung zurück\.
 
+\[ [🔗 Permalink](#-350-stpo) \]
+
 ### § 351 StPO
 
 > Liegt einer der im § 345 Abs\. 1 Z 11 bis 13 angeführten Nichtigkeitsgründe vor, so entscheidet der Oberste Gerichtshof in der Sache selbst\. Sind jedoch die der Feststellung durch die Geschworenen vorbehaltenen Tatsachen, die er seiner Entscheidung zugrunde zu legen hätte, im Wahrspruche der Geschworenen nicht festgestellt, so verweist er die Sache an das Geschworenengericht des von ihm zu bezeichnenden Landesgerichts, wenn aber die strafbare Handlung bei richtiger Anwendung des Gesetzes nicht mehr vor das Geschworenengericht gehört, an das von ihm zu bezeichnende sachlich zuständige Gericht zur nochmaligen Verhandlung und Entscheidung\.
+
+\[ [🔗 Permalink](#-351-stpo) \]
 
 ## 16. Hauptstück
 
@@ -5386,6 +6172,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Dem Privatankläger steht der Antrag auf Wiederaufnahme ausschließlich im Fall einer Einstellung gemäß § 215 Abs\. 2 zu\.
 
+\[ [🔗 Permalink](#-352-stpo) \]
+
 ### § 353 StPO
 
 > Der rechtskräftig Verurteilte kann die Wiederaufnahme des Strafverfahrens selbst nach vollzogener Strafe verlangen:
@@ -5396,13 +6184,19 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` wenn wegen derselben Tat zwei oder mehrere Personen durch verschiedene Erkenntnisse verurteilt worden sind und bei der Vergleichung dieser Erkenntnisse sowie der ihnen zugrunde liegenden Tatsachen die Nichtschuld einer oder mehrerer dieser Personen notwendig anzunehmen ist\.
 
+\[ [🔗 Permalink](#-353-stpo) \]
+
 ### § 354 StPO
 
 > Den Antrag auf Wiederaufnahme des Strafverfahrens zugunsten des Angeklagten können, und zwar auch nach dessen Tod, alle Personen stellen, die berechtigt wären, zu seinen Gunsten die Nichtigkeitsbeschwerde oder Berufung zu ergreifen\. Erlangt die Staatsanwaltschaft die Kenntnis eines Umstandes, der einen Antrag auf Wiederaufnahme des Strafverfahrens zugunsten des Angeklagten begründen kann \(§ 353\), so ist sie verpflichtet, hievon den Angeklagten oder sonst eine zur Stellung dieses Antrages berechtigte Person in Kenntnis zu setzen oder selbst den Antrag zu stellen\.
 
+\[ [🔗 Permalink](#-354-stpo) \]
+
 ### § 355 StPO
 
 > Die Staatsanwaltschaft oder der Privatankläger können die Wiederaufnahme des Strafverfahrens wegen einer Handlung, hinsichtlich der der Angeklagte rechtskräftig freigesprochen worden ist, nur aus den in § 352 Abs\. 1 genannten Gründen beantragen\.
+
+\[ [🔗 Permalink](#-355-stpo) \]
 
 ### § 356 StPO
 
@@ -5414,6 +6208,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` sich als ein Verbrechen darstellt, während der Angeklagte nur wegen eines mit nicht mehr als einjähriger Freiheitsstrafe bedrohten Vergehens verurteilt wurde\.
 
+\[ [🔗 Permalink](#-356-stpo) \]
+
 ### § 357 StPO
 
 > `(1)` Der Antrag auf Wiederaufnahme des Strafverfahrens ist im Fall einer gerichtlichen Einstellung im Ermittlungsverfahren bei dem Landesgericht einzubringen, das die Einstellung beschlossen hat, im Falle eines nicht bloß vorläufigen Rücktritts der Staatsanwaltschaft von der Verfolgung nach den im 11\. Hauptstück enthaltenen Bestimmungen bei dem Landesgericht, das im Ermittlungsverfahren zuständig gewesen wäre, in den übrigen Fällen jedoch bei dem Landesgericht, das für das Hauptverfahren zuständig war\.
@@ -5421,6 +6217,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Das Landesgericht \(§ 31 Abs\. 6 Z 2\) hat den Antrag dem Gegner des Antragstellers mit der Belehrung zuzustellen, dass er seine Gegenäußerung binnen 14 Tagen überreichen könne\. Das Landesgericht kann Ermittlungen durch die Kriminalpolizei anordnen oder Beweise selbst aufnehmen, wenn dies erforderlich ist, um die Gefahr abzuwenden, dass ein Beweismittel für eine erhebliche Tatsache verloren geht\. Zum Ergebnis dieser Ermittlungen oder Beweisaufnahmen hat es Antragsteller und Antragsgegner Gelegenheit zur Äußerung binnen 14 Tagen einzuräumen\. Sodann entscheidet das Landesgericht grundsätzlich nach nichtöffentlicher Sitzung mit Beschluss\. Sofern sich jedoch die Tatsachen, durch die der Antrag begründet wird, und ihre Eignung, eine Änderung der rechtskräftigen Entscheidung im Sinne der vorstehenden Bestimmungen herbeizuführen, nur durch eine unmittelbare Beweisaufnahme klären lassen, kann das Gericht von Amts wegen oder auf Antrag eine mündliche Verhandlung anberaumen und in dieser über die Wiederaufnahme entscheiden\. Die Verhandlung ist nicht öffentlich, doch hat das Gericht Antragsteller und Antragsgegner Gelegenheit zur Teilnahme und Stellungnahme zu geben\.
 
 > `(3)` Der Antrag eines Verurteilten auf Wiederaufnahme des Verfahrens hemmt den Vollzug der Strafe nicht, es sei denn, dass das Gericht nach Anhörung der Staatsanwaltschaft oder des Privatanklägers die Hemmung des Strafvollzuges nach den Umständen des Falles für angemessen erachtet und mit Beschluss die Hemmung ausspricht\.
+
+\[ [🔗 Permalink](#-357-stpo) \]
 
 ### § 358 StPO
 
@@ -5436,11 +6234,15 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Gegen das neue Erkenntnis stehen dieselben Rechtsmittel offen wie gegen jedes andere Urteil\.
 
+\[ [🔗 Permalink](#-358-stpo) \]
+
 ### § 360 StPO
 
 > `(1)` Das Gericht, das die Wiederaufnahme des Strafverfahrens zugunsten des Beschuldigten für zulässig erklärt, kann sofort ein Urteil fällen, wodurch der Beschuldigte freigesprochen oder seinem Antrag auf Anwendung eines milderen Strafsatzes stattgegeben wird\.
 
 > `(2)` Der Freigesprochene kann die Veröffentlichung des Erkenntnisses verlangen\.
+
+\[ [🔗 Permalink](#-360-stpo) \]
 
 ### § 362 StPO
 
@@ -5458,9 +6260,13 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Entscheidung über die Hemmung des Strafvollzuges und über die Verweisung des weiteren Verfahrens an das Gericht eines anderen Sprengels steht nur dem Obersten Gerichtshofe zu\.
 
+\[ [🔗 Permalink](#-362-stpo) \]
+
 ### § 363 StPO
 
 > Das Hauptverfahren kann unabhängig von den Voraussetzungen der Wiederaufnahme durchgeführt werden, wenn der zur Klage noch berechtigte Privatankläger die Anklage einbringt, während im früheren Verfahren die Einstellung oder ein freisprechendes Urteil lediglich wegen Mangels des nach dem Gesetz erforderlichen Antrages eines Opfers \(§ 71\) erfolgt ist\.
+
+\[ [🔗 Permalink](#-363-stpo) \]
 
 ## II. Erneuerung des Strafverfahrens
 
@@ -5469,6 +6275,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Wird in einem Urteil des Europäischen Gerichtshofes für Menschenrechte eine Verletzung der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl\. Nr\. 210/1958, oder eines ihrer Zusatzprotokolle durch eine Entscheidung oder Verfügung eines Strafgerichtes festgestellt, so ist das Verfahren auf Antrag insoweit zu erneuern, als nicht auszuschließen ist, daß die Verletzung einen für den hievon Betroffenen nachteiligen Einfluß auf den Inhalt einer strafgerichtlichen Entscheidung ausüben konnte\.
 
 > `(2)` Über den Antrag auf Erneuerung des Verfahrens entscheidet in allen Fällen der Oberste Gerichtshof\. Den Antrag können der von der festgestellten Verletzung Betroffene und der Generalprokurator stellen; § 282 Abs\. 1 ist sinngemäß anzuwenden\. Der Antrag ist beim Obersten Gerichtshof einzubringen\. Zu einem Antrag des Generalprokurators ist der Betroffene, zu einem Antrag des Betroffenen ist der Generalprokurator zu hören; § 35 Abs\. 2 ist sinngemäß anzuwenden\.
+
+\[ [🔗 Permalink](#-363a-stpo) \]
 
 ### § 363b StPO
 
@@ -5484,11 +6292,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Bei der nichtöffentlichen Beratung kann der Gerichtshof dem Antrag stattgeben, die strafgerichtliche Entscheidung aufheben und die Sache erforderlichenfalls an das Landesgericht oder Oberlandesgericht verweisen, wenn schon vor der öffentlichen Verhandlung über den Antrag feststeht, daß das Verfahren zu erneuern ist\. Im erneuerten Verfahren darf keine strengere Strafe über den Verurteilten verhängt werden, als das frühere Urteil ausgesprochen hatte\.
 
+\[ [🔗 Permalink](#-363b-stpo) \]
+
 ### § 363c StPO
 
 > `(1)` Wird über den Antrag nicht schon in nichtöffentlicher Sitzung entschieden, so ist ein Gerichtstag zur öffentlichen Verhandlung der Sache anzuberaumen\. Für dessen Anordnung und Durchführung gelten die §§ 286 und 287 dem Sinne nach mit der Maßgabe, daß der nicht verhaftete Angeklagte stets vorzuladen und auch die Vorführung des verhafteten Angeklagten zu veranlassen ist, wenn er dies beantragt hat oder die Vorführung sonst im Interesse der Rechtspflege geboten erscheint\.
 
 > `(2)` Wenn der Oberste Gerichtshof den Antrag weder nach § 363b Abs\. 2 Z 1 oder 2 zurückweist noch als unbegründet erachtet, gibt er ihm statt, hebt die strafgerichtliche Entscheidung auf und verweist die Sache erforderlichenfalls an das Landesgericht oder Oberlandesgericht\.
+
+\[ [🔗 Permalink](#-363c-stpo) \]
 
 ## III. Wiedereinsetzung in den vorigen Stand
 
@@ -5518,6 +6330,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Gegen die Versäumung der Frist für einen Wiedereinsetzungsantrag \(Abs\. 1 Z 2\) ist eine Wiedereinsetzung in den vorigen Stand nicht zulässig\.
 
+\[ [🔗 Permalink](#-364-stpo) \]
+
 ## 17. Hauptstück
 
 ## Verfahren über privatrechtliche Ansprüche
@@ -5526,6 +6340,8 @@ Der Nationalrat hat beschlossen:
 
 > *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
+\[ [🔗 Permalink](#-365-stpo) \]
+
 ### § 366 StPO
 
 > `(1)` Wird der Angeklagte freigesprochen, so ist der Privatbeteiligte mit seinen Ansprüchen auf den Zivilrechtsweg zu verweisen\.
@@ -5533,6 +6349,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wird der Angeklagte verurteilt, so ist im Urteil \(§§ 260 Abs\. 1 Z 5 und 270 Abs\. 2 Z 4\) über die privatrechtlichen Ansprüche des Privatbeteiligten zu entscheiden \(§§ 395, 407 und 409 ZPO\)\. Bieten die Ergebnisse des Strafverfahrens keine ausreichende Grundlage für eine auch nur teilweise Beurteilung des geltend gemachten privatrechtlichen Anspruchs \(§ 69 Abs\. 1\), so ist der Privatbeteiligte auch in diesem Fall auf den Zivilrechtsweg zu verweisen, es sei denn, dass die erforderlichen Entscheidungsgrundlagen durch eine die Entscheidung in der Schuld\- und Straffrage nicht erheblich verzögernde Beweisaufnahme ermittelt werden können\.
 
 > `(3)` Wird der Privatbeteiligte trotz Verurteilung auf den Zivilrechtsweg verwiesen, so steht diesem, seinem Nachlass und seinen Erben die Berufung aus dem Grund zu, dass über den privatrechtlichen Anspruch bereits gemäß Abs\. 2 hätte entschieden werden können\.
+
+\[ [🔗 Permalink](#-366-stpo) \]
 
 ### § 367 StPO
 
@@ -5546,9 +6364,13 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; Die Entscheidung steht im Ermittlungsverfahren der Staatsanwaltschaft, in der Hauptverhandlung dem erkennenden Gericht und sonst dem Vorsitzenden zu\.
 
+\[ [🔗 Permalink](#-367-stpo) \]
+
 ### § 368 StPO
 
 > Kann das Opfer sein Recht an dem Gegenstand oder Vermögenswert nicht nachweisen, liegen bestimmte Anhaltspunkte für dingliche Rechte Dritter daran vor oder ist das Recht daran zwischen mehreren Opfern strittig \(§ 367 Abs\. 2 Z 2\), so ist der Antrag nach § 367 Abs\. 2 abzuweisen, die Sicherstellung oder Beschlagnahme aufzuheben und der Gegenstand oder Vermögenswert nach § 1425 ABGB bei dem für den Sitz des Gerichts zuständigen Bezirksgericht zu hinterlegen\. Das Gericht hat in diesen Fällen das Opfer mit seinem Begehren auf den Zivilrechtsweg zu verweisen\.
+
+\[ [🔗 Permalink](#-368-stpo) \]
 
 ### § 369 StPO
 
@@ -5556,9 +6378,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Liegen hinreichende Gründe für die Annahme vor, dass das Opfer seinen Schaden zu hoch angebe, so kann ihn das Gericht nach Erwägung aller Umstände, allenfalls nach vorgenommener Schätzung durch Sachverständige, ermäßigen\.
 
+\[ [🔗 Permalink](#-369-stpo) \]
+
 ### § 370 StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 106\)*
+
+\[ [🔗 Permalink](#-370-stpo) \]
 
 ### § 371 StPO
 
@@ -5566,13 +6392,19 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der rechtswirksame Ausspruch, daß eine Ehe nichtig sei, bleibt jedoch stets dem Zivilgerichte vorbehalten\. Das Strafgericht kann die Nichtigkeit einer Ehe nur als Vorfrage beurteilen \(§§ 15 und 69 Abs\. 1\)\.
 
+\[ [🔗 Permalink](#-371-stpo) \]
+
 ### § 372 StPO
 
 > Dem Privatbeteiligten steht es frei, den Zivilrechtsweg zu betreten, wenn er sich mit der vom Strafgericht ihm zuerkannten Entschädigung nicht begnügen will\.
 
+\[ [🔗 Permalink](#-372-stpo) \]
+
 ### § 373 StPO
 
 > Ist das über die privatrechtlichen Ansprüche ergangene strafgerichtliche Erkenntnis in Rechtskraft erwachsen, so ist jeder Beteiligte berechtigt, vom Gerichte, das in erster Instanz erkannt hat, die Anmerkung der Rechtskräftigkeit des Erkenntnisses auf dem Urteile zu begehren; ein solches Erkenntnis hat dann die Wirkung, daß um seine Exekution unmittelbar beim Zivilgericht angesucht werden kann\.
+
+\[ [🔗 Permalink](#-373-stpo) \]
 
 ### § 373a StPO
 
@@ -5600,13 +6432,19 @@ Der Nationalrat hat beschlossen:
 
 > `(10)` Soweit der Verurteilte keine Zahlungen \(Abs\. 9\) leistet, hat die Einbringungsstelle beim Oberlandesgericht Wien die Forderung zwangsweise hereinzubringen\. Soweit eine sofortige zwangsweise Hereinbringung mit Rücksicht auf den Vollzug der Strafe offenbar aussichtslos wäre, kann sie bis nach dessen Beendigung aufgeschoben werden\.
 
+\[ [🔗 Permalink](#-373a-stpo) \]
+
 ### § 373b StPO
 
 > Hat das Opfer im Fall eines Verfalls nach § 20 StGB oder eines erweiterten Verfalls nach § 20b StGB einen vollstreckbaren Exekutionstitel für seine Entschädigung erwirkt und wurde diese noch nicht geleistet, so hat das Opfer unbeschadet des § 373a das Recht zu verlangen, dass seine Ansprüche aus dem vom Bund vereinnahmten Vermögenswert befriedigt werden\.
 
+\[ [🔗 Permalink](#-373b-stpo) \]
+
 ### § 374 StPO
 
 > Um Änderung des rechtskräftigen strafgerichtlichen Ausspruches über privatrechtliche Ansprüche wegen neu aufgefundener Beweismittel sowie um Aufhebung seiner Vollstreckung wegen eines nachgefolgten Tatumstandes kann außer dem Fall einer aus anderen Gründen stattfindenden Wiederaufnahme des Strafverfahrens vom Verurteilten und dessen Rechtsnachfolgern nur vor dem Zivilrichter angesucht werden\.
+
+\[ [🔗 Permalink](#-374-stpo) \]
 
 ### § 375 StPO
 
@@ -5614,23 +6452,33 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für das Verfahren auf Grund von erhobenen Ansprüchen gelten die Bestimmungen der §§ 367 bis 369\.
 
+\[ [🔗 Permalink](#-375-stpo) \]
+
 ### § 376 StPO
 
 > `(1)` Eine solche Beschreibung ist durch Aufnahme in die Ediktsdatei öffentlich bekannt zu machen \(§ 89j Abs\. 1 GOG\)\. In diesem Edikt ist der Eigentümer aufzufordern, sich binnen eines Jahres ab Bekanntmachung zu melden und sein Recht nachzuweisen\.
 
 > `(2)` Die Auffindung von Gegenständen, derentwegen eine unverzügliche abgesonderte Bekanntmachung nicht notwendig erscheint, kann von Zeit zu Zeit in gemeinsamen Edikten bekanntgemacht werden\.
 
+\[ [🔗 Permalink](#-376-stpo) \]
+
 ### § 377 StPO
 
 > Unterliegt der fremde Gegenstand oder Vermögenswert einem raschen Verderben, einer erheblichen Wertminderung oder Wertschwankung oder lässt er sich nur mit unverhältnismäßigen Kosten bis zum Ablauf der Ediktalfrist des § 376 Abs\. 1 aufbewahren, so ist er vom Gericht bereits vor diesem Zeitpunkt zu verwerten\. Die Verwertung hat nach den Bestimmungen der Exekutionsordnung zu erfolgen\. Die Verwertung hat durch öffentliche Versteigerung \(§ 274 EO\) oder bei sinngemäßem Vorliegen der in § 280 oder § 326 EO bezeichneten Voraussetzungen auf die dort vorgesehene Weise zu erfolgen\. In den Fällen des § 268 EO ist auch ein Freihandverkauf zulässig\. Der Kaufpreis ist beim Strafgericht zu erlegen, zugleich ist eine genaue Beschreibung jedes verkauften Gegenstands oder Vermögenswerts und der erzielte Erlös auf die in § 376 beschriebene Weise zu veröffentlichen\.
+
+\[ [🔗 Permalink](#-377-stpo) \]
 
 ### § 378 StPO
 
 > Wenn binnen der Ediktalfrist niemand ein Recht auf die beschriebenen Gegenstände dartut, so sind sie, wenn sie aber der Dringlichkeit wegen verkauft wurden, so ist ihr Erlös dem Beschuldigten auf sein Verlangen auszufolgen, sofern nicht durch einen Beschluß des zur Entscheidung in erster Instanz berufenen Gerichtes ausgesprochen ist, daß die Rechtmäßigkeit des Besitzes des Beschuldigten nicht glaubwürdig sei\.
 
+\[ [🔗 Permalink](#-378-stpo) \]
+
 ### § 379 StPO
 
 > Gegenstände und Vermögenswerte, die dem Beschuldigten nicht ausgefolgt werden, sind auf die im § 377 angeordnete Weise zu veräußern\. Der Kaufpreis ist an die Bundeskasse abzugeben\. Dem Berechtigten steht jedoch frei, seine Ansprüche auf den Kaufpreis gegen den Bund binnen dreißig Jahren vom Tage der dritten Einschaltung des Ediktes im Zivilrechtswege geltend zu machen\.
+
+\[ [🔗 Permalink](#-379-stpo) \]
 
 ## 18. Hauptstück
 
@@ -5639,6 +6487,8 @@ Der Nationalrat hat beschlossen:
 ### § 380 StPO
 
 > Sofern die besonderen Vorschriften über die Gerichtsgebühren nichts anderes bestimmen, sind in Strafsachen keine Gebühren zu entrichten\.
+
+\[ [🔗 Permalink](#-380-stpo) \]
 
 ### § 381 StPO
 
@@ -5686,29 +6536,43 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Die durch eine Festnahme verursachten Kosten und die Kosten der Untersuchungshaft sind bei Bemessung des Pauschalkostenbeitrages nicht zu berücksichtigen\.
 
+\[ [🔗 Permalink](#-381-stpo) \]
+
 ### § 382 StPO
 
 > Die Gebühren der Organe der Kriminalpolizei für die Anfertigung von Kopien für Zwecke der Akteneinsicht, Zustellungen, Ladungen, Bewachung oder Beförderung des Beschuldigten oder anderer Personen werden durch besondere bundesgesetzliche Bestimmungen geregelt\.
+
+\[ [🔗 Permalink](#-382-stpo) \]
 
 ### § 383 StPO
 
 > *\(Aufgehoben\)*
 
+\[ [🔗 Permalink](#-383-stpo) \]
+
 ### § 384 StPO
 
 > *\(Aufgehoben\)*
+
+\[ [🔗 Permalink](#-384-stpo) \]
 
 ### § 385 StPO
 
 > *\(Aufgehoben\)*
 
+\[ [🔗 Permalink](#-385-stpo) \]
+
 ### § 386 StPO
 
 > *\(Aufgehoben\)*
 
+\[ [🔗 Permalink](#-386-stpo) \]
+
 ### § 387 StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 3\)*
+
+\[ [🔗 Permalink](#-387-stpo) \]
 
 ### § 388 StPO
 
@@ -5718,6 +6582,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Für die Bemessung der Kostenbeiträge gilt § 381 Abs\. 5 sinngemäß\. Die Zahlung ist insoweit nachzusehen, als dadurch der zu einer einfachen Lebensführung notwendige Unterhalt des Beschuldigten und seiner Familie, für deren Unterhalt er zu sorgen hat, Schadensgutmachung, Tatfolgenausgleich oder die Erfüllung des Tatausgleichs gefährdet würde\.
 
+\[ [🔗 Permalink](#-388-stpo) \]
+
 ### § 389 StPO
 
 > `(1)` Im Fall eines Schuldspruchs ist der Angeklagte auch zum Ersatz der Kosten des Strafverfahrens zu verpflichten \(§ 260 Abs\. 1 Z 5\)\.
@@ -5725,6 +6591,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wird das Strafverfahren gegen einen Angeklagten wegen mehrerer Straftaten teils mit Schuld\-, teils mit Freispruch erledigt, so ist der Angeklagte nur zum Ersatz jener Kosten zu verpflichten, die sich auf den Schuldspruch beziehen\.
 
 > `(3)` Die Verpflichtung zum Ersatz der Kosten trifft jedoch den rechtskräftig Verurteilten nur für seine Person; sie geht nicht auf die Erben über\. Von mehreren Angeklagten ist jeder einzelne zur Tragung des Pauschalkostenbeitrages, der dem gegen ihn gefällten Erkenntnis entspricht, sowie der Kosten zu verurteilen, die durch seine Verteidigung oder durch besondere, nur bei ihm eingetretene Ereignisse oder durch sein besonderes Verschulden entstanden sind\. Zur Bezahlung aller anderen Kosten des Strafverfahrens sind sämtliche Angeklagten zur ungeteilten Hand zu verurteilen, sofern das Gericht nicht besondere Gründe findet, eine Beschränkung dieser Haftung eintreten zu lassen\.
+
+\[ [🔗 Permalink](#-389-stpo) \]
 
 ### § 390 StPO
 
@@ -5738,11 +6606,15 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wurde endlich das Strafverfahren durch eine wissentlich falsche Anzeige veranlaßt, so hat die Kosten der Anzeiger zu ersetzen\.
 
+\[ [🔗 Permalink](#-390-stpo) \]
+
 ### § 390a StPO
 
 > `(1)` Den nach den §§ 389 und 390 zum Kostenersatze Verpflichteten fallen auch die Kosten des Rechtsmittelverfahrens zur Last, sofern sie nicht durch ein ganz erfolglos gebliebenes Rechtsmittel des Gegners verursacht worden sind\. Ist ein solches Rechtsmittel vom Privatankläger oder vom Privatbeteiligten ergriffen worden, so ist ihm der Ersatz der dadurch verursachten Kosten unabhängig vom Ausgange des Verfahrens aufzuerlegen\.
 
 > `(2)` Für die durch ein erfolgloses Begehren um Wiederaufnahme des Verfahrens verursachten Kosten haftet der Antragsteller\.
+
+\[ [🔗 Permalink](#-390a-stpo) \]
 
 ### § 391 StPO
 
@@ -5752,6 +6624,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Gegen Entscheidungen der Gerichte, womit ein Antrag abgelehnt wird, die Kosten für uneinbringlich zu erklären, ist kein Rechtsmittel zulässig\.
 > *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 4\)*
+
+\[ [🔗 Permalink](#-391-stpo) \]
 
 ### § 393 StPO
 
@@ -5767,6 +6641,8 @@ Der Nationalrat hat beschlossen:
 > `(4a)` Wird ein Strafverfahren wegen übler Nachrede \(§ 111 StGB\), Vorwurf einer schon abgetanen gerichtlich strafbaren Handlung \(§ 113 StGB\) oder Beleidigung \(§ 115 StGB\), die im Wege einer Telekommunikation oder unter Verwendung eines Computersystems begangen wurden, auf andere Weise als durch einen Schuldspruch beendigt, so hat im Haupt\- und Rechtsmittelverfahren der Privatankläger dem Angeklagten alle Kosten der Verteidigung zu ersetzen, sofern nicht ohnedies eine Ersatzpflicht nach Abs\. 4 vorliegt\.
 
 > `(5)` Soweit jedoch der Privatbeteiligte mit seinen privatrechtlichen Ansprüchen auf den Zivilrechtsweg verwiesen worden ist, bilden die zur zweckentsprechenden Geltendmachung seiner Ansprüche im Strafverfahren aufgewendeten Kosten seines Vertreters einen Teil der Kosten des zivilgerichtlichen Verfahrens, in dem über den Anspruch erkannt wird\.
+
+\[ [🔗 Permalink](#-393-stpo) \]
 
 ### § 393a StPO — Beitrag zu den Kosten der Verteidigung
 
@@ -5788,9 +6664,13 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` § 196a Abs\. 5 und 6 gilt sinngemäß\.
 
+\[ [🔗 Permalink](#-393a-stpo--beitrag-zu-den-kosten-der-verteidigung) \]
+
 ### § 394 StPO
 
 > Gebührt dem Verteidiger oder dem Vertreter gemäß § 73 eine Belohnung, so ist ihre Bestimmung sowohl in dem Falle, wenn sich der Beschuldigte, der Privatankläger oder der Privatbeteiligte selbst einen solchen wählte, als auch dann, wenn dem Angeklagten ein Verteidiger von Amts wegen beigegeben wurde, dem freien Übereinkommen zwischen dem Vertreter und dem Zahlungspflichtigen überlassen\.
+
+\[ [🔗 Permalink](#-394-stpo) \]
 
 ### § 395 StPO
 
@@ -5802,6 +6682,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss gemäß Abs\. 1 kommt aufschiebende Wirkung zu\.
 
 > `(5)` Die vorhergehenden Absätze sind auch anzuwenden, wenn zwischen dem von Amts wegen bestellten Verteidiger und dem von ihm vertretenen Angeklagten über die Entlohnung kein Übereinkommen erzielt wird\. Das Gericht hat die Entlohnung des von Amts wegen bestellten Verteidigers festzusetzen und dem Angeklagten die Zahlung aufzutragen\. Der rechtskräftige Beschluß ist vollstreckbar\.
+
+\[ [🔗 Permalink](#-395-stpo) \]
 
 ## 19. Hauptstück
 
@@ -5815,11 +6697,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Kriminalpolizei ist durch das Gericht, das in erster Instanz entschieden hat, von der Einstellung des Verfahrens sowie von einem Freispruch zu verständigen\.
 
+\[ [🔗 Permalink](#-396-stpo) \]
+
 ### § 397 StPO
 
 > Jedes Strafurteil ist ungesäumt in Vollzug zu setzen, sobald feststeht, daß der Vollstreckung kein gesetzliches Hindernis und insbesondere kein rechtzeitig und von einem hiezu Berechtigten ergriffenes Rechtsmittel entgegensteht, dem das Gesetz aufschiebende Wirkung beimißt \(§ 284 Abs\. 3, § 294 Abs\. 1 und § 344\)\. Ist ein Rechtsmittel zugunsten des verhafteten Angeklagten von solchen Personen ergriffen worden, die hiezu gegen seinen Willen nicht berechtigt sind, so ist der Angeklagte hievon in Kenntnis zu setzen und über den dadurch herbeigeführten Aufschub der Strafvollstreckung zu belehren\. Dasselbe hat zu geschehen, wenn es zweifelhaft ist, ob der verhaftete Angeklagte der Einlegung des Rechtsmittels durch seinen Verteidiger zugestimmt habe\. Die Anordnung des Vollzuges des Strafurteiles steht dem Vorsitzenden des erkennenden Gerichtes zu\.
 >
 > *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 5\)*
+
+\[ [🔗 Permalink](#-397-stpo) \]
 
 ### § 398 StPO
 
@@ -5827,9 +6713,13 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 112\)*
 
+\[ [🔗 Permalink](#-398-stpo) \]
+
 ### § 399 StPO
 
 > Jedes Urteil gegen einen Beamten \(§ 74 Abs\. 1 Z 4 StGB\) ist, sobald es rechtskräftig wurde, dem Leiter der Dienststelle bekannt zu machen\.
+
+\[ [🔗 Permalink](#-399-stpo) \]
 
 ### § 400 StPO
 
@@ -5837,13 +6727,19 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Einen Beschluß nach Abs\. 1 hat der Vorsitzende auf Antrag oder von Amts wegen auch dann zu fassen, wenn im Urteil die Anrechnung einer Vorhaft oder einer im Ausland verbüßten Strafe \(§ 66 StGB\) unterblieben ist\. Ist eine solche Anrechnung fehlerhaft erfolgt, so hat sie der Vorsitzende jederzeit zu berichtigen \(§ 270 Abs\. 3\), zum Nachteil des Angeklagten jedoch nur, solange das Urteil nicht rechtskräftig ist\. Die Abweisung eines darauf gerichteten Antrages sowie die vorgenommene Berichtigung können nach Maßgabe des § 270 Abs\. 3 mit Beschwerde angefochten werden\.
 
+\[ [🔗 Permalink](#-400-stpo) \]
+
 ### § 401 StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 6\)*
 
+\[ [🔗 Permalink](#-401-stpo) \]
+
 ### § 401a StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 6\)*
+
+\[ [🔗 Permalink](#-401a-stpo) \]
 
 ### § 402 StPO
 
@@ -5851,13 +6747,19 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 7\)*
 
+\[ [🔗 Permalink](#-402-stpo) \]
+
 ### § 403 StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 75/1968, Art\. IV Z\. 2\)*
 
+\[ [🔗 Permalink](#-403-stpo) \]
+
 ### § 404 StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 75/1968, Art\. IV Z\. 2\)*
+
+\[ [🔗 Permalink](#-404-stpo) \]
 
 ### § 405 StPO
 
@@ -5865,9 +6767,13 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 8\)*
 
+\[ [🔗 Permalink](#-405-stpo) \]
+
 ### § 406 StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 9\)*
+
+\[ [🔗 Permalink](#-406-stpo) \]
 
 ### § 407 StPO
 
@@ -5875,11 +6781,15 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 114\)*
 
+\[ [🔗 Permalink](#-407-stpo) \]
+
 ### § 408 StPO
 
 > `(1)` Ist der Verfall, der erweiterte Verfall, die Konfiskation oder die Einziehung von Vermögenswerten oder Gegenständen ausgesprochen und befinden sich diese nicht bereits in gerichtlicher Verwahrung, so ist der Verurteilte oder der Haftungsbeteiligte \(§ 64\) vom Strafgericht schriftlich aufzufordern, sie binnen vierzehn Tagen zu erlegen oder dem Gericht die Verfügungsmacht zu übertragen, widrigenfalls zwangsweise vorgegangen werden würde\. Kommt der Verfügungsberechtigte dieser Aufforderung nicht nach, so ist die Einbringungsstelle um die Einleitung der Exekution zu ersuchen\.
 
 > `(2)` Ein verfallener, konfiszierter oder eingezogener Gegenstand oder Vermögenswert, der für wissenschaftliche, historische oder vergleichbare, im öffentlichen Interesse liegende Forschungszwecke von Interesse ist, ist einer anerkannten wissenschaftlichen Einrichtung zur Verfügung zu stellen\. Im Übrigen sind Gegenstände oder Vermögenswerte, die zur Deckung des Sachaufwandes der Justiz unmittelbar herangezogen werden können, dazu zu verwenden, alle anderen Gegenstände oder Vermögenswerte aber auf die in § 377 angeordnete Weise zu veräußern\. Gegenstände oder Vermögenswerte, die auf diese Weise weder verwendet noch verwertet werden können, sind zu vernichten\.
+
+\[ [🔗 Permalink](#-408-stpo) \]
 
 ### § 409 StPO
 
@@ -5888,6 +6798,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Wie die im Abs\. 1 genannten Geldbeträge einzutreiben sind, wird im Gerichtlichen Einbringungsgesetz in der jeweils geltenden Fassung angeordnet\. Die Auskunft aus dem Kontenregister oder die Auskunft über Bankkonten und Bankgeschäfte \(§§ 116, 210 Abs\. 3 StPO\) ist auch dann zulässig, wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass Vermögenswerte zur Vollstreckung einer Geldstrafe, einer Konfiskation \(§ 19a StGB\), eines Verfalls \(§ 20 StGB\), eines erweiterten Verfalls \(§ 20b StGB\) oder einer anderen gesetzlich vorgesehenen vermögensrechtlichen Anordnung aufgefunden werden können\.
 
 > `(3)` Ersatzfreiheitsstrafen sind wie andere Freiheitsstrafen nach den Bestimmungen des StVG anzuordnen und zu vollziehen\.
+
+\[ [🔗 Permalink](#-409-stpo) \]
 
 ### § 409a StPO
 
@@ -5908,11 +6820,15 @@ Der Nationalrat hat beschlossen:
 > `(4)` Die Entrichtung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen darf nur mit der Maßgabe gestattet werden, daß alle noch aushaftenden Teilbeträge sofort fällig werden, wenn der Zahlungspflichtige mit mindestens zwei Ratenzahlungen in Verzug ist\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
+\[ [🔗 Permalink](#-409a-stpo) \]
+
 ### § 409b StPO
 
 > `(1)` Geldstrafen, verfallene Geldbeträge und Veräußerungserlöse \(§§ 115e, 377\) fließen dem Bund zu\.
 
 > `(2)` 20 vH der nach §§ 20, 20b StGB für verfallen erklärten Vermögenswerte fließen dem Bundesministerium für Inneres zu\.
+
+\[ [🔗 Permalink](#-409b-stpo) \]
 
 ### § 410 StPO
 
@@ -5921,9 +6837,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wenn der Zweck der Entscheidung nach Abs\. 1 sonst ganz oder teilweise vereitelt werden könnte, hat das Gericht den Vollzug der Strafe, des Verfalls oder des erweiterten Verfalls bis zur Rechtskraft seiner Entscheidung vorläufig zu hemmen oder zu unterbrechen, es sei denn, daß ihm ein offenbar aussichtsloser Antrag vorliegt\.
 
+\[ [🔗 Permalink](#-410-stpo) \]
+
 ### § 411 StPO
 
 > Mit dem Tod des Verurteilten erlischt die Verbindlichkeit zur Zahlung von Geldstrafen, soweit sie noch nicht vollzogen worden sind\. Dies gilt dem Sinne nach für den Verfalls\- und Wertersatz\.
+
+\[ [🔗 Permalink](#-411-stpo) \]
 
 ## 20. Hauptstück
 
@@ -5933,6 +6853,8 @@ Der Nationalrat hat beschlossen:
 
 > *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
+\[ [🔗 Permalink](#-412-stpo) \]
+
 ### § 427 StPO — Abwesenheitsverfahren
 
 > `(1)` Ist der Angeklagte bei der Hauptverhandlung nicht erschienen, so darf bei sonstiger Nichtigkeit in seiner Abwesenheit die Hauptverhandlung nur dann durchgeführt und das Urteil gefällt werden, wenn es sich um ein Vergehen handelt, der Angeklagte gemäß §§ 164 oder 165 zum Anklagevorwurf vernommen wurde und ihm die Ladung zur Hauptverhandlung persönlich zugestellt wurde\. Das Urteil ist in diesem Fall dem Angeklagten in seiner schriftlichen Ausfertigung zuzustellen\.
@@ -5941,9 +6863,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Gegen das in Abwesenheit des Angeklagten gefällte Urteil kann dieser beim Landesgericht innerhalb von vierzehn Tagen Einspruch erheben\. Die Nichtigkeitsbeschwerde und die Berufung gegen ein Abwesenheitsurteil können auch nach Ablauf der Anmeldungsfrist zusammen mit dem Einspruch angemeldet werden\. Dem Einspruch ist stattzugeben, wenn nachgewiesen wird, daß der Angeklagte durch ein unabweisbares Hindernis abgehalten wurde, in der Hauptverhandlung zu erscheinen\. In diesem Fall ist eine neue Hauptverhandlung anzuordnen\. Über den Einspruch entscheidet das Oberlandesgericht nach Anhörung der Oberstaatsanwaltschaft in nichtöffentlicher Sitzung\. Weist es den Einspruch zurück, so steht dem Angeklagten gegen das Urteil ein Rechtsmittel nicht mehr offen\. Hat der Verurteilte zugleich mit dem Einspruche die Nichtigkeitsbeschwerde oder die Berufung ergriffen oder liegt eine von anderer Seite ergriffene Berufung oder Nichtigkeitsbeschwerde vor, so ist von dem Gerichte, dem die Akten nach Vorschrift der §§ 285 und 294 vorgelegt werden, vorerst über den Einspruch in nichtöffentlicher Sitzung nach Anhörung der Staatsanwaltschaft zu entscheiden; nur wenn der Einspruch zurückgewiesen wird, ist in die Prüfung der Berufung oder Nichtigkeitsbeschwerde einzugehen\.
 
+\[ [🔗 Permalink](#-427-stpo--abwesenheitsverfahren) \]
+
 ### § 428 StPO
 
 > Durch das Nichterscheinen eines Angeklagten und das dadurch veranlaßte Ungehorsamverfahren darf das Verfahren gegen die anwesenden Mitangeklagten nicht verzögert werden\. Werden in solchen Fällen Gegenstände, die zur Überweisung der Angeklagten dienen können, den Eigentümern zurückgestellt, so kann diesen die Verpflichtung auferlegt werden, die Beweisstücke auf Begehren wieder beizubringen\. Zugleich ist eine genaue Beschreibung der zurückgestellten Gegenstände zu den Akten zu bringen\.
+
+\[ [🔗 Permalink](#-428-stpo) \]
 
 ## 21. Hauptstück
 
@@ -5956,6 +6882,8 @@ Der Nationalrat hat beschlossen:
 ### § 429 StPO — Verfahren zur Unterbringung
 
 > Für die Unterbringung eines Betroffenen \(§ 48 Abs\. 2\) in einem forensisch\-therapeutischen Zentrum \(§ 21 StGB\) gelten die Bestimmungen über das Strafverfahren sinngemäß, soweit im Folgenden nichts anderes bestimmt wird\.
+
+\[ [🔗 Permalink](#-429-stpo--verfahren-zur-unterbringung) \]
 
 ### § 430 StPO — Besonderheiten des Verfahrens
 
@@ -5973,6 +6901,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das nach § 109 Jurisdiktionsnorm, RGBl\. Nr\. 111/1895, zuständige Gericht ist unverzüglich vom Verfahren und von dessen Beendigung, gegebenenfalls mit der Anregung, einen Erwachsenenvertreter zu bestellen, zu verständigen\. Hat der Betroffene einen gesetzlichen Vertreter, so ist auch dieser zu verständigen\.
 
+\[ [🔗 Permalink](#-430-stpo--besonderheiten-des-verfahrens) \]
+
 ### § 431 StPO — Vorläufige Unterbringung
 
 > `(1)` Ist der Betroffene einer strafbaren Handlung dringend verdächtig und liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 21 Abs\. 1 oder 2 StGB gegeben seien, sowie einer der in § 173 Abs\. 2 und 6 angeführten Haftgründe vor, so ist der Betroffene vorläufig in einem forensisch\-therapeutischen Zentrum unterzubringen\. Über die Zulässigkeit der vorläufigen Unterbringung ist in sinngemäßer Anwendung des § 173 Abs\. 1, 3 und 5 sowie der §§ 174 bis 178 zu entscheiden\.
@@ -5983,6 +6913,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` § 172 Abs\. 4 und § 181a gelten sinngemäß\.
 
+\[ [🔗 Permalink](#-431-stpo--vorläufige-unterbringung) \]
+
 ### § 432 StPO — Ort der vorläufigen Unterbringung
 
 > `(1)` Die vorläufige Unterbringung erfolgt in einem forensisch\-therapeutischen Zentrum, wobei vorläufig Untergebrachte nicht in Gemeinschaft mit rechtskräftig Untergebrachten angehalten werden sollen\. Sie kann in einer öffentlichen Krankenanstalt für Psychiatrie oder in einer öffentlichen Krankenanstalt mit einer Abteilung für Psychiatrie erfolgen, wenn dies zweckmäßig ist und der Betroffene dort angemessen behandelt und betreut werden kann\. Die öffentlichen Krankenanstalten für Psychiatrie und die öffentlichen Krankenanstalten mit einer Abteilung für Psychiatrie sind verpflichtet, den Betroffenen aufzunehmen und für die erforderliche Sicherung seiner Person zu sorgen\. § 71 Abs\. 2 StVG gilt sinngemäß mit der Maßgabe, dass für den Fall, dass durch die strafrechtliche Unterbringung in öffentlichen Krankenanstalten zusätzliche Aufwendungen entstehen, der Bund mit dem Rechtsträger der Krankenanstalt eine Vereinbarung über die Vergütung solcher Aufwendungen abschließen kann\.
@@ -5992,6 +6924,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Befindet sich der Betroffene in Untersuchungshaft, so ist er nach Entscheidung über die vorläufige Unterbringung in das forensisch\-therapeutische Zentrum zu überstellen, in dem die vorläufige Unterbringung zu vollziehen ist\.
 
 > `(4)` Vor einer Änderung des Unterbringungsortes nach Abs\. 2 sind der Betroffene und dessen gesetzlicher Vertreter, die Staatsanwaltschaft und das Gericht zu hören; nach der Überstellung sind die Staatsanwaltschaft, das Gericht, der Verteidiger und der gesetzliche Vertreter des Betroffenen durch das nunmehr zuständige forensisch\-therapeutische Zentrum unverzüglich zu verständigen\.
+
+\[ [🔗 Permalink](#-432-stpo--ort-der-vorläufigen-unterbringung) \]
 
 ### § 433 StPO — Vollzug der vorläufigen Unterbringung
 
@@ -6005,15 +6939,21 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Im Falle eines Strafurteils \(§ 21 Abs\. 2 StGB, § 434b Abs\. 1 zweiter Satz\) ist die vorläufige Unterbringung auf Freiheits\- und Geldstrafen anzurechnen \(§ 38 StGB\)\.
 
+\[ [🔗 Permalink](#-433-stpo--vollzug-der-vorläufigen-unterbringung) \]
+
 ### § 434 StPO — Antrag auf Unterbringung
 
 > `(1)` Liegen hinreichende Gründe für die Unterbringung nach § 21 Abs\. 1 StGB vor, so hat die Staatsanwaltschaft einen Antrag auf Unterbringung zu stellen\. Für diesen Antrag gelten die Bestimmungen über die Anklageschrift \(§§ 210 bis 215\) sinngemäß\. Im Fall des § 21 Abs\. 2 StGB ist die Unterbringung in einem forensisch\-therapeutischen Zentrum in der Anklageschrift zu beantragen\.
 
 > `(2)` Über den Antrag auf Unterbringung entscheidet das Landesgericht, das für ein Strafverfahren auf Grund einer Anklage oder eines Strafantrages gegen den Betroffenen wegen seiner Tat \(§ 21 Abs\. 3 StGB\) zuständig ist oder zuständig wäre\. Anstelle des Einzelrichters des Landesgerichts entscheidet jedoch das Landesgericht als Schöffengericht in der Besetzung mit zwei Berufsrichtern und zwei Schöffen \(§ 32 Abs\. 1a\)\.
 
+\[ [🔗 Permalink](#-434-stpo--antrag-auf-unterbringung) \]
+
 ### § 434a StPO — Entscheidung durch Urteil
 
 > Das Gericht entscheidet über die Unterbringung nach öffentlicher mündlicher Hauptverhandlung, die in sinngemäßer Anwendung der Bestimmungen des 14\. und 15\. Hauptstücks durchzuführen ist, durch Urteil\.
+
+\[ [🔗 Permalink](#-434a-stpo--entscheidung-durch-urteil) \]
 
 ### § 434b StPO — Gleichwertigkeit von Anklage und Antrag auf Unterbringung
 
@@ -6025,6 +6965,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Eine Unterbringung darf nur dann ausgesprochen werden, wenn während der gesamten Hauptverhandlung die Voraussetzungen nach § 434 Abs\. 2 zweiter Satz und § 434d Abs\. 1 und 2 erfüllt waren, widrigenfalls die Hauptverhandlung zu vertagen \(§ 276\) und zu wiederholen \(§ 276a zweiter Satz\) ist\.
 
+\[ [🔗 Permalink](#-434b-stpo--gleichwertigkeit-von-anklage-und-antrag-auf-unterbringung) \]
+
 ### § 434c StPO — Rechte des gesetzlichen Vertreters
 
 > `(1)` Hat der Betroffene einen gesetzlichen Vertreter, dessen Wirkungsbereich die Vertretung im Verfahren zur Unterbringung umfasst, so sind diesem die Anklage oder der Antrag auf Unterbringung sowie sämtliche gerichtlichen Entscheidungen auf dieselbe Weise bekanntzumachen wie dem Betroffenen\. Der gesetzliche Vertreter ist zur Hauptverhandlung zu laden\.
@@ -6034,6 +6976,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Hat der Betroffene einen gesetzlichen Vertreter und ist dieser der Beteiligung an der mit Strafe bedrohten Handlung des Betroffenen verdächtig oder überwiesen, kann er dem Betroffenen aus anderen Gründen im Verfahren nicht beistehen oder ist er zur Hauptverhandlung nicht erschienen, so hat der Verteidiger auch die Rechte des gesetzlichen Vertreters\. Gleiches gilt, wenn der Betroffene in den Fällen des § 21 Abs\. 1 StGB keinen gesetzlichen Vertreter hat\.
 
 > `(4)` Wird die vorläufige Unterbringung des Betroffenen angeordnet oder aufgehoben, so ist der gesetzliche Vertreter davon zu verständigen\. Das Recht auf Besuch durch den gesetzlichen Vertreter steht einem vorläufig Angehaltenen in gleichem Umfang zu wie das Recht auf Besuch von einem Rechtsbeistand\.
+
+\[ [🔗 Permalink](#-434c-stpo--rechte-des-gesetzlichen-vertreters) \]
 
 ### § 434d StPO — Besonderheiten der Hauptverhandlung
 
@@ -6045,17 +6989,23 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wird über mehrere Taten gleichzeitig erkannt und eine Unterbringung angeordnet, so ist im Urteil auszusprechen, welche Taten Anlass für die Unterbringung waren; die Unterbringung darf nur einmal angeordnet werden\.
 
+\[ [🔗 Permalink](#-434d-stpo--besonderheiten-der-hauptverhandlung) \]
+
 ### § 434e StPO — Verfahren vor dem Landesgericht als Geschworenengericht
 
 > `(1)` Im Verfahren zur Unterbringung nach § 21 Abs\. 1 StGB vor dem Landesgericht als Geschworenengericht ist den Geschworenen eine Zusatzfrage zu stellen, ob der Betroffene zur Zeit der Tat zurechnungsunfähig war\. Für etwaige andere Zusatzfragen und das Verfahren über einen Antrag auf Unterbringung nach § 21 Abs\. 2 StGB gilt § 313 sinngemäß\.
 
 > `(2)` Über die Anordnung der Unterbringung entscheidet der Schwurgerichtshof gemeinsam mit den Geschworenen \(§ 303\)\.
 
+\[ [🔗 Permalink](#-434e-stpo--verfahren-vor-dem-landesgericht-als-geschworenengericht) \]
+
 ### § 434f StPO — Rechtsmittel
 
 > `(1)` Das Urteil kann hinsichtlich des Ausspruchs über die Unterbringung in sinngemäßer Anwendung der § 281 und § 283, im Falle eines Urteils des Landesgerichts als Geschworenengericht in sinngemäßer Anwendung der § 345 und § 346, zugunsten und zum Nachteil des Betroffenen mit Nichtigkeitsbeschwerde und Berufung angefochten werden\. Die Anmeldung der Nichtigkeitsbeschwerde oder der Berufung hat aufschiebende Wirkung\.
 
 > `(2)` Für die Wiederaufnahme und die Erneuerung des Unterbringungsverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die Bestimmungen des 16\. Hauptstücks sinngemäß\.
+
+\[ [🔗 Permalink](#-434f-stpo--rechtsmittel) \]
 
 ### § 434g StPO — Verfahren beim vorläufigen Absehen vom Vollzug der Unterbringung
 
@@ -6073,6 +7023,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Wird eine Bedingung festgelegt, die die Interessen des Opfers unmittelbar berührt, so ist das Opfer über deren Inhalt und ihre Bedeutung zu verständigen\.
 
+\[ [🔗 Permalink](#-434g-stpo--verfahren-beim-vorläufigen-absehen-vom-vollzug-der-unterbringung) \]
+
 ## 2. Abschnitt
 
 ## Verfahren zur Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 22 StGB oder in einer Anstalt für gefährliche Rückfallstäter nach § 23 StGB und zur Verhängung eines Tätigkeitsverbotes nach § 220b StGB
@@ -6083,13 +7035,19 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Anordnung der Unterbringung in einer der in diesen Bestimmungen genannten Anstalten oder ihr Unterbleiben sowie die Anordnung eines Tätigkeitsverbotes oder deren Unterbleiben bilden einen Teil des Ausspruches über die Strafe und können zugunsten und zum Nachteil des Verurteilten mit Nichtigkeitsbeschwerde und mit Berufung angefochten werden\.
 
+\[ [🔗 Permalink](#-435-stpo) \]
+
 ### § 437 StPO
 
 > Einen Antrag auf Unterbringung in einer der in den § 22 und § 23 StGB vorgesehenen Anstalten oder auf Anordnung eines Tätigkeitsverbotes hat die Staatsanwaltschaft in der Anklage zu stellen\. Das Gericht kann jedoch auch ohne einen solchen Antrag die Unterbringung oder das Tätigkeitsverbot anordnen\.
 
+\[ [🔗 Permalink](#-437-stpo) \]
+
 ### § 438 StPO
 
 > Liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 22 StGB gegeben seien, und Haftgründe \(§ 173 Abs\. 2 und 6\) vor, kann der Beschuldigte aber nicht ohne Schwierigkeiten in einer Justizanstalt angehalten werden, so ist mit Beschluss anzuordnen, dass die Untersuchungshaft durch vorläufige Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher zu vollziehen ist\. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden\. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden\.
+
+\[ [🔗 Permalink](#-438-stpo) \]
 
 ### § 439 StPO
 
@@ -6099,9 +7057,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Sieht das Gericht von der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher wegen der Höhe der ausgesprochenen Strafe ab \(§ 22 Abs\. 2 StGB\), so hat es diesen Umstand in den Entscheidungsgründen auszusprechen\.
 
+\[ [🔗 Permalink](#-439-stpo) \]
+
 ### § 440 StPO
 
 > Hat der Beschuldigte einen gesetzlichen Vertreter, so ist in einem Verfahren, in dem hinreichende Gründe für die Annahme der Voraussetzungen des § 22 oder § 23 StGB vorliegen, § 434c sinngemäß anzuwenden\.
+
+\[ [🔗 Permalink](#-440-stpo) \]
 
 ### § 441 StPO
 
@@ -6109,9 +7071,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 439 Abs\. 1 und 2 sowie § 440 gelten in diesem Fall sinngemäß\.
 
+\[ [🔗 Permalink](#-441-stpo) \]
+
 ### § 442 StPO
 
 > Liegt einer der im § 173 Abs\. 2 genannten Haftgründe vor, so ist die vorläufige Anhaltung des Betroffenen in einer der im § 441 Abs\. 1 genannten Anstalten anzuordnen\. § 432 und § 433 gelten sinngemäß\.
+
+\[ [🔗 Permalink](#-442-stpo) \]
 
 ## 3. Abschnitt
 
@@ -6125,11 +7091,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Entscheidung über vermögensrechtliche Anordnungen steht, außer im Fall des § 445a, dem Ausspruch über die Strafe gleich und kann zugunsten und zum Nachteil des Verurteilten oder des Haftungsbeteiligten \(§§ 64, 444\) mit Berufung angefochten werden\.
 
+\[ [🔗 Permalink](#-443-stpo) \]
+
 ### § 444 StPO
 
 > `(1)` Die Hauptverhandlung und die Urteilsverkündung können in Abwesenheit des Haftungsbeteiligten \(§ 64\) vorgenommen werden, wenn dieser ordnungsgemäß zur Hauptverhandlung geladen wurde \(§ 221 Abs\. 2\)\.
 
 > `(2)` Hat ein Haftungsbeteiligter sein Recht nicht vor Rechtskraft der Entscheidung über den Verfall, den erweiterten Verfall oder die Einziehung geltend gemacht, so kann er seine Ansprüche auf den Gegenstand oder Vermögenswert oder dessen Verkaufs\- oder Verwertungserlös \(§ 408\) binnen dreißig Jahren nach der Entscheidung gegen den Bund im Zivilrechtsweg geltend machen\.
+
+\[ [🔗 Permalink](#-444-stpo) \]
 
 ### § 445 StPO
 
@@ -6143,15 +7113,21 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Das Urteil kann in sinngemäßer Anwendung der §§ 463 bis 468 \(§ 489\) zugunsten und zum Nachteil des Betroffenen mit Berufung angefochten werden; § 444 Abs\. 1 letzter Satz gilt entsprechend\.
 
+\[ [🔗 Permalink](#-445-stpo) \]
+
 ### § 445a StPO
 
 > `(1)` Über einen Antrag auf Einziehung in einem selbständigen Verfahren kann das Bezirksgericht nach Anhörung des Anklägers und der Haftungsbeteiligten \(§ 444\) durch Beschluß entscheiden, wenn der Wert des von der Einziehung bedrohten Gegenstandes 1 000 Euro nicht übersteigt oder es sich um einen Gegenstand handelt, dessen Besitz allgemein verboten ist\. Sofern der Aufenthaltsort des Haftungsbeteiligten im Ausland liegt oder ohne besonderen Verfahrensaufwand nicht feststellbar ist, kann von dessen Anhörung abgesehen werden\.
 
 > `(2)` In den Fällen, in denen das Verfahren durch die Staatsanwaltschaft nach den Bestimmungen des 10\. oder 11\. Hauptstücks, anderen auf sie verweisenden Vorschriften oder gemäß § 35 SMG beendet wird, hat die Staatsanwaltschaft nach Durchführung des in Abs\. 1 vorgesehenen Verfahrens die Einziehung anzuordnen und das in § 408 Abs\. 2 vorgesehene Verfahren durchzuführen, soweit nicht ein Haftungsbeteiligter die Entscheidung des Gerichts verlangt\. § 444 Abs\. 2 gilt sinngemäß\.
 
+\[ [🔗 Permalink](#-445a-stpo) \]
+
 ### § 446 StPO
 
 > Ergeben sich die Voraussetzungen für das selbständige Verfahren erst in der Hauptverhandlung, so kann die Entscheidung auch in einem Urteil ergehen, in dem der Angeklagte freigesprochen oder der Antrag auf Anstaltsunterbringung abgewiesen wird\.
+
+\[ [🔗 Permalink](#-446-stpo) \]
 
 ## 4. Abschnitt
 
@@ -6163,6 +7139,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs\. 1 gefällt worden wäre, so ist nach § 410 vorzugehen\.
 
+\[ [🔗 Permalink](#-446a-stpo) \]
+
 ## 22. Hauptstück
 
 ## Verfahren vor dem Bezirksgericht
@@ -6171,6 +7149,8 @@ Der Nationalrat hat beschlossen:
 
 > Für das Hauptverfahren vor dem Bezirksgericht gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird\.
 
+\[ [🔗 Permalink](#-447-stpo) \]
+
 ## 1. Abschnitt
 
 ## Hauptverfahren
@@ -6178,6 +7158,8 @@ Der Nationalrat hat beschlossen:
 ### § 450 StPO
 
 > Ist das Bezirksgericht der Ansicht, dass das Landesgericht zuständig sei, so hat es vor Anordnung der Hauptverhandlung seine sachliche Unzuständigkeit mit Beschluss auszusprechen\. Sobald die Entscheidung rechtswirksam geworden ist, hat der Ankläger die für die Fortführung des Verfahrens erforderlichen Anträge zu stellen\.
+
+\[ [🔗 Permalink](#-450-stpo) \]
 
 ### § 451 StPO
 
@@ -6189,6 +7171,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
+\[ [🔗 Permalink](#-451-stpo) \]
+
 ### § 455 StPO
 
 > `(1)` § 221 ist mit der Maßgabe anzuwenden, dass an die Stelle einer Frist von acht Tagen eine solche von drei Tagen tritt, es sei denn, dass der Angeklagte auf eine Vorbereitungsfrist verzichtet\.
@@ -6197,23 +7181,33 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Lässt sich der Angeklagte durch einen Machthaber vertreten, so kommt diesem in der Hauptverhandlung die Stellung des Angeklagten zu\.
 
+\[ [🔗 Permalink](#-455-stpo) \]
+
 ### § 456 StPO
 
 > In Privatanklagesachen ist die Öffentlichkeit auch auszuschließen, wenn der Ankläger einem darauf gerichteten Antrag des Angeklagten nicht entgegen tritt\.
+
+\[ [🔗 Permalink](#-456-stpo) \]
 
 ### § 457 StPO
 
 > Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr\.
 
+\[ [🔗 Permalink](#-457-stpo) \]
+
 ### § 458 StPO
 
 > Der Richter ist berechtigt, nach Schluss der Verhandlung die Fällung des Urteils bis auf den folgenden Tag auszusetzen\. Im Übrigen gelten jedoch auch für die Verhandlung vor dem Bezirksgericht die Bestimmungen des 14\. Hauptstückes\.
+
+\[ [🔗 Permalink](#-458-stpo) \]
 
 ## 2. Abschnitt
 
 ### § 463 StPO — Rechtsmittel gegen Urteile der Bezirksgerichte
 
 > Gegen Urteile der Bezirksgerichte, die gegen einen Anwesenden ergangen sind, ist nur das Rechtsmittel der Berufung zulässig, und zwar an das Landesgericht, in dessen Sprengel das Bezirksgericht liegt\.
+
+\[ [🔗 Permalink](#-463-stpo--rechtsmittel-gegen-urteile-der-bezirksgerichte) \]
 
 ### § 464 StPO
 
@@ -6225,6 +7219,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` wegen des Ausspruches über die privatrechtlichen Ansprüche\.
 
+\[ [🔗 Permalink](#-464-stpo) \]
+
 ### § 465 StPO
 
 > `(1)` Zugunsten des Angeklagten kann die Berufung sowohl von ihm selbst als auch von seinem gesetzlichen Vertreter ergriffen werden\. Die Staatsanwaltschaft kann stets auch gegen den Willen des Angeklagten zu dessen Gunsten die Berufung ergreifen\.
@@ -6232,6 +7228,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Erben des Angeklagten, die nicht in einem der erwähnten Verhältnisse zum Angeklagten standen, können die Berufung nur wegen der im Urteil allenfalls enthaltenen Entscheidung über privatrechtliche Ansprüche ergreifen oder fortsetzen\.
 
 > `(3)` Zum Nachteile des Angeklagten kann die Berufung nur vom Ankläger und vom Privatbeteiligten, von diesem aber nur wegen Nichtigkeit unter den in § 282 Abs\. 2 geregelten Voraussetzungen und wegen seiner privatrechtlichen Ansprüche ergriffen werden\.
+
+\[ [🔗 Permalink](#-465-stpo) \]
 
 ### § 466 StPO
 
@@ -6249,6 +7247,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden\.
 
+\[ [🔗 Permalink](#-466-stpo) \]
+
 ### § 467 StPO
 
 > `(1)` Der Beschwerdeführer hat das Recht, binnen vier Wochen nach der Anmeldung der Berufung, wenn ihm eine Urteilsabschrift aber erst nach der Anmeldung des Rechtsmittels zugestellt wurde, binnen vier Wochen nach der Zustellung eine Ausführung der Gründe seiner Berufung beim Bezirksgerichte zu überreichen und allenfalls neue Tatsachen oder Beweismittel unter genauer Angabe aller zur Beurteilung ihrer Erheblichkeit dienenden Umstände anzuzeigen\.
@@ -6260,6 +7260,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Geschieht die Anmeldung der Berufung mündlich, so hat der Richter, der das Protokoll hierüber aufnimmt, den Beschwerdeführer zur genauen Angabe der Beschwerdepunkte besonders aufzufordern und über die Rechtsfolgen der Unterlassung dieser Angabe zu belehren\.
 
 > `(5)` Die Berufung oder Berufungsausführung ist in zweifacher Ausfertigung vorzulegen oder aufzunehmen\. Eine Ausfertigung ist dem Gegner mit dem Bedeuten mitzuteilen, daß er binnen vier Wochen seine Gegenausführung überreichen könne\. Die Gegenausführung ist dem Beschwerdeführer zuzustellen; danach sind alle Akten dem Landesgericht – gegebenenfalls samt einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs\. 5 erster Satz oder 62a Abs\. 5 erster Satz VfGG – vorzulegen\.
+
+\[ [🔗 Permalink](#-467-stpo) \]
 
 ### § 468 StPO
 
@@ -6282,9 +7284,13 @@ Der Nationalrat hat beschlossen:
 > *Anm\. 1: Art\. I Z 198 lit\. b der Novelle BGBl\. I Nr\. 93/2007 lautet: „Im Abs\. 1 Z 2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt\.“\. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“\.\)*
 
 
+\[ [🔗 Permalink](#-468-stpo) \]
+
 ### § 469 StPO
 
 > Das Landesgericht berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder die Staatsanwaltschaft einen der im § 470 angeführten Beschlüsse beantragt\.
+
+\[ [🔗 Permalink](#-469-stpo) \]
 
 ### § 470 StPO
 
@@ -6296,6 +7302,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` wenn schon vor der öffentlichen Verhandlung über die Berufung feststeht, daß das Urteil aufzuheben und die Verhandlung in erster Instanz zu wiederholen oder nach dem 11\. Hauptstück oder § 37 SMG vorzugehen ist, der Berufung stattgeben, das Urteil, soweit es angefochten wird, aufheben und die Sache an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Gerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht zurückweisen\.
 
+\[ [🔗 Permalink](#-470-stpo) \]
+
 ### § 471 StPO
 
 > Für die Anberaumung und Durchführung des Gerichtstags zur öffentlichen Verhandlung sowie für die Entscheidung über die Berufung gelten §§ 233 bis 237, 286 Abs\. 1 und 1a *\(Anm\. 1\)*, 287, 288 Abs\. 2 Z 3 erster Satz, 289, 290, 293 Abs\. 4, 294, 295 sowie 296a sinngemäß, soweit im Folgenden nicht anderes bestimmt wird\.
@@ -6303,6 +7311,8 @@ Der Nationalrat hat beschlossen:
 > *\(\_\_\_\_\_\_\_\_\_\_\_*
 >
 > *Anm\. 1: Art\. 1 Z 75 der Novelle BGBl\. I Nr\. 157/2024 lautet: „In § 471 wird das Zitat „§ 286 Abs\. 1 und 1a“ durch das Zitat „§ 286 Abs\. 1 und 2 zweiter Satz“ ersetzt“\.“\. Die Anweisung konnte nicht durchgeführt werden\.\)*
+
+\[ [🔗 Permalink](#-471-stpo) \]
 
 ### § 473 StPO
 
@@ -6316,9 +7326,13 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Hierauf zieht sich das Landesgericht zur Beratung und Beschlußfassung zurück\.
 
+\[ [🔗 Permalink](#-473-stpo) \]
+
 ### § 474 StPO
 
 > Nach Maßgabe der folgenden Bestimmungen erkennt das Landesgericht in der Sache selbst nach den für das Landesgericht als Schöffengericht geltenden Bestimmungen, es sei denn, dass die Berufung als unzulässig oder unbegründet zurückgewiesen wird oder sich das angerufene Landesgericht für unzuständig erklärt\.
+
+\[ [🔗 Permalink](#-474-stpo) \]
 
 ### § 475 StPO
 
@@ -6330,9 +7344,13 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Hat das Bezirksgericht das Vorliegen der Voraussetzungen für eine Einstellung des Strafverfahrens nach dem 11\. Hauptstück \(§ 199\) oder § 37 SMG zu Unrecht nicht angenommen, so verweist das Landesgericht die Sache an dasselbe oder an ein anderes Bezirksgericht mit dem Auftrag, nach den entsprechenden Bestimmungen vorzugehen\.
 
+\[ [🔗 Permalink](#-475-stpo) \]
+
 ### § 476 StPO
 
 > In den im § 475 Abs\. 1 und 3 erwähnten Fällen steht es jedoch der Berufungsbehörde frei, sofort oder in einer späteren Sitzung, nötigenfalls unter Wiederholung oder Ergänzung der in erster Instanz gepflogenen Verhandlung und unter Verbesserung der mangelhaft befundenen Prozeßhandlung, in der Sache selbst zu erkennen\.
+
+\[ [🔗 Permalink](#-476-stpo) \]
 
 ### § 478 StPO
 
@@ -6342,13 +7360,19 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Findet das Bezirksgericht oder infolge der Beschwerde das Landesgericht den Einspruch begründet, so ist eine neue Verhandlung vor dem Bezirksgericht anzuordnen, bei der, wenn der Angeklagte erscheint, die Sache so verhandelt wird, wie im § 457 vorgeschrieben ist\.
 
+\[ [🔗 Permalink](#-478-stpo) \]
+
 ### § 479 StPO
 
 > Gegen die Urteile der Landesgerichte über eine gemäß den §§ 463, 464 und 478 an sie gelangte Berufung ist ein weiteres Rechtsmittel nicht zulässig\.
 
+\[ [🔗 Permalink](#-479-stpo) \]
+
 ### § 480 StPO
 
 > Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16\. Hauptstück enthaltenen Bestimmungen\. In den Fällen der §§ 352 bis 356 entscheidet das Bezirksgericht über die Bewilligung der Wiederaufnahme\.
+
+\[ [🔗 Permalink](#-480-stpo) \]
 
 ## 23. Hauptstück
 
@@ -6358,9 +7382,13 @@ Der Nationalrat hat beschlossen:
 
 > *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
+\[ [🔗 Permalink](#-483-stpo) \]
+
 ### § 484 StPO
 
 > Der Strafantrag \(§ 210 Abs\. 1\) hat die im § 211 Abs\. 1 angeführten Angaben zu enthalten und jene Beweise zu bezeichnen, deren Aufnahme in der Hauptverhandlung beantragt wird\. Das Gericht hat den Strafantrag dem Angeklagten, gegebenenfalls samt einer Rechtsbelehrung gemäß § 50, insbesondere der Information, ob ein Fall notwendiger Verteidigung gegeben ist, unverzüglich zuzustellen\. § 213 Abs\. 3 gilt sinngemäß\.
+
+\[ [🔗 Permalink](#-484-stpo) \]
 
 ### § 485 StPO
 
@@ -6378,6 +7406,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Sobald ein Beschluss gemäß Abs\. 1 Z 1 oder 2 rechtswirksam geworden ist, hat der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts die für die Fortführung des Verfahrens erforderlichen Anträge oder Anordnungen zu stellen\.
 
+\[ [🔗 Permalink](#-485-stpo) \]
+
 ### § 488 StPO
 
 > `(1)` Für das Hauptverfahren vor dem Landesgericht als Einzelrichter und für Rechtsmittel gegen dessen Urteile gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird\. Der Einzelrichter erfüllt die Aufgaben des Vorsitzenden und des Schöffengerichts\.
@@ -6387,6 +7417,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Ist das Landesgericht als Einzelrichter der Ansicht, dass das Landesgericht als Schöffen\- oder Geschworenengericht zuständig ist, so hat es, nachdem die Beteiligten des Verfahrens zu den geänderten Umständen angehört wurden, mit Urteil seine Unzuständigkeit auszusprechen\. Sobald dieses Urteil rechtskräftig wurde, hat der Ankläger die zur Fortführung des Verfahrens erforderlichen Anträge zu stellen\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch BGBl\. I Nr\. 52/2009\)*
 
+\[ [🔗 Permalink](#-488-stpo) \]
+
 ### § 489 StPO
 
 > `(1)` Gegen die vom Landesgericht als Einzelrichter ausgesprochenen Urteile kann außer dem Einspruch gemäß § 427 Abs\. 3 nur das Rechtsmittel der Berufung wegen der in § 281 Abs\. 1 Z 1a bis 5 und 6 bis 11 und § 468 Abs\. 1 Z 1 und 2 aufgezählten Nichtigkeitsgründe oder gegen die im § 464 Z 2 und 3 genannten Aussprüche ergriffen werden\. Für das Verfahren gelten die §§ 281, 282 Abs\. 2, 285 Abs\. 2 bis Abs\. 5, 465 bis 467, 469 bis 476 und 479 sinngemäß\. Für den Nichtigkeitsgrund des § 281 Abs\. 1 Z 3 gelten die in § 468 Abs\. 1 Z 3 zitierten Bestimmungen\.
@@ -6395,9 +7427,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Von der Verhandlung und Entscheidung über eine Berufung sind auch Mitglieder des Oberlandesgerichts ausgeschlossen, die im vorangegangenen Verfahren an der Entscheidung über eine Beschwerde gegen die vom Landesgericht als Einzelrichter beschlossene Zurückweisung oder Einstellung \(§ 485\) beteiligt waren\.
 
+\[ [🔗 Permalink](#-489-stpo) \]
+
 ### § 490 StPO
 
 > Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16\. Hauptstück enthaltenen Bestimmungen\. In den Fällen der §§ 352 bis 356 entscheidet das Landesgericht als Einzelrichter über die Bewilligung der Wiederaufnahme\.
+
+\[ [🔗 Permalink](#-490-stpo) \]
 
 ## 23a. Hauptstück
 
@@ -6437,13 +7473,19 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` Wird ein Einspruch nicht erhoben oder ein solcher als unzulässig zurückgewiesen, so steht die Strafverfügung einem rechtskräftigen Urteil gleich und ist nach den Bestimmungen des 19\. Hauptstückes zu vollstrecken\.
 
+\[ [🔗 Permalink](#-491-stpo--mandatsverfahren) \]
+
 ### § 491a StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 148\)*
 
+\[ [🔗 Permalink](#-491a-stpo) \]
+
 ### § 491b StPO
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 148\)*
+
+\[ [🔗 Permalink](#-491b-stpo) \]
 
 ## 24. Hauptstück
 
@@ -6457,11 +7499,15 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Gericht hat den Verurteilten über den Sinn der bedingten Nachsicht zu belehren und ihm, sobald die Entscheidung darüber rechtskräftig geworden ist, eine Urkunde zuzustellen, die kurz und in einfachen Worten den wesentlichen Inhalt der Entscheidung, die ihm auferlegten Verpflichtungen und die Gründe angibt, aus denen die Nachsicht widerrufen werden kann\.
 
+\[ [🔗 Permalink](#-492-stpo) \]
+
 ### § 493 StPO
 
 > `(1)` Die bedingte Nachsicht oder deren Unterbleiben bildet einen Teil des Ausspruches über die Strafe und kann zugunsten und zum Nachteil des Verurteilten mit Berufung angefochten werden\. Die Berufung hat nur, soweit es sich um die Vollstreckung der Strafe oder der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder um den Eintritt der Rechtsfolge handelt, aufschiebende Wirkung\.
 
 > `(2)` Hat das Gericht durch die Entscheidung über die bedingte Nachsicht seine Befugnisse überschritten, so kann das Urteil wegen Nichtigkeit nach den §§ 281 Abs\. 1 Z\. 11, 345 Abs\. 1 Z\. 13 oder 468 Abs\. 1 Z\. 4 angefochten werden\.
+
+\[ [🔗 Permalink](#-493-stpo) \]
 
 ## II. Erteilung von Weisungen und Anordnung der Bewährungshilfe
 
@@ -6470,6 +7516,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Über die Erteilung von Weisungen und die Anordnung der Bewährungshilfe entscheidet das Gericht mit Beschluß\. Die Entscheidung obliegt in der Hauptverhandlung dem erkennenden Gericht, sonst dem Vorsitzenden\.
 
 > `(2)` Wird dem Rechtsbrecher eine Weisung erteilt, welche die Interessen des Verletzten unmittelbar berührt, so ist dieser hievon zu verständigen\.
+
+\[ [🔗 Permalink](#-494-stpo) \]
 
 ## III. Widerruf einer bedingten Nachsicht
 
@@ -6496,9 +7544,13 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Das erkennende Gericht hat unverzüglich alle Gerichte zu verständigen, deren Vorentscheidungen von einer Entscheidung nach den vorstehenden Bestimmungen betroffen sind\.
 
+\[ [🔗 Permalink](#-494a-stpo) \]
+
 ### § 494b StPO
 
 > Hat das erkennende Gericht bei der Urteilsfällung einen Ausspruch nach § 494a Abs\. 1 Z 3 oder 4 zu Unrecht unterlassen oder im Fall eines Ausspruches nach § 494a Abs\. 1 Z 2 die Probezeit nicht verlängert und hat der Ankläger das Unterbleiben einer solchen Entscheidung nicht angefochten, so darf ein nachträglicher Ausspruch der Strafe, ein Widerruf der bedingten Nachsicht oder Entlassung oder eine Verlängerung der Probezeit aus Anlaß der neuen Verurteilung nicht mehr erfolgen, sofern die frühere Verurteilung oder die bedingte Entlassung aktenkundig war\.
+
+\[ [🔗 Permalink](#-494b-stpo) \]
 
 ### § 495 StPO
 
@@ -6508,11 +7560,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Vor der Entscheidung hat das Gericht den Ankläger, den Verurteilten und den Bewährungshelfer zu hören und eine Strafregisterauskunft einzuholen\. Von der Anhörung des Verurteilten kann abgesehen werden, wenn sich erweist, daß sie ohne unverhältnismäßigen Aufwand nicht durchführbar ist\.
 
+\[ [🔗 Permalink](#-495-stpo) \]
+
 ### § 496 StPO
 
 > `(1)` Wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass die bedingte Nachsicht einer Strafe oder eines Strafteils widerrufen werde, und der Verurteilte aus diesem Grund flüchten werde \(§ 173 Abs\. 2 Z 1 und Abs\. 3\), ist seine Festnahme zulässig, zu der die Kriminalpolizei von sich aus berechtigt ist, wenn wegen Gefahr im Verzug eine Anordnung der Staatsanwaltschaft nicht rechtzeitig eingeholt werden kann\. Für das weitere Verfahren gelten die im 9\. Hauptstück enthaltenen Bestimmungen sinngemäß mit der Maßgabe, dass die Haftfrist einen Monat beträgt\. Über drei Monate hinaus darf die Haft in keinem Fall aufrecht erhalten werden\.
 
 > `(2)` Wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass ein Verurteilter, der unter gerichtlicher Aufsicht nach § 52a oder § 52b StGB steht, ihm erteilte Weisungen nicht befolgt oder sich dem Einfluss des Bewährungshelfers entzieht, ist die Vorführung des Verurteilten zur sofortigen Erteilung einer förmlichen Mahnung zulässig\. Zur Vorführung ist die Kriminalpolizei von sich aus berechtigt, wenn wegen Gefahr im Verzug eine Anordnung des Gerichts nicht rechtzeitig eingeholt werden kann\.
+
+\[ [🔗 Permalink](#-496-stpo) \]
 
 ## IV. Endgültige Nachsicht
 
@@ -6521,6 +7577,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Der Ausspruch, daß die bedingte Nachsicht einer Strafe, der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher oder einer Rechtsfolge endgültig geworden ist, hat durch Beschluß des Vorsitzenden zu erfolgen\.
 
 > `(2)` Vor der Entscheidung ist der Ankläger zu hören und eine Strafregisterauskunft einzuholen\.
+
+\[ [🔗 Permalink](#-497-stpo) \]
 
 ## V. Gemeinsame Bestimmungen
 
@@ -6532,6 +7590,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Beschwerde kann auch mit einer Nichtigkeitsbeschwerde oder Berufung gegen das Urteil verbunden werden, das zugleich mit dem angefochtenen Beschluß ergangen ist \(§§ 494 und 494a\)\. In diesem Fall ist die Beschwerde rechtzeitig eingebracht, wenn das Rechtsmittel, mit dessen Ausführung sie verbunden ist, rechtzeitig eingebracht wurde\. Im übrigen ist eine zugunsten des Angeklagten ergriffene Berufung wegen des Ausspruchs über die Strafe auch als Beschwerde gegen den Beschluß zu betrachten\. Wird die Beschwerde mit einem anderen Rechtsmittel verbunden oder wird sonst gegen das zugleich mit dem angefochtenen Beschluß ergangene Urteil Nichtigkeitsbeschwerde oder Berufung erhoben, so entscheidet das für deren Erledigung zuständige Gericht auch über die Beschwerde\.
 
+\[ [🔗 Permalink](#-498-stpo) \]
+
 ## 25. Hauptstück
 
 ## Ausübung der Strafgerichtsbarkeit über Soldaten im Frieden
@@ -6540,17 +7600,23 @@ Der Nationalrat hat beschlossen:
 
 > Soldat im Sinne dieses Gesetzes ist jeder Angehörige des Präsenzstandes des Bundesheeres\.
 
+\[ [🔗 Permalink](#-499-stpo) \]
+
 ### § 500 StPO
 
 > `(1)` Alle Soldaten unterstehen im Frieden der Strafgerichtsbarkeit der bürgerlichen Gerichte\.
 
 > `(2)` Soweit im folgenden nichts anderes bestimmt ist, sind die allgemeinen Vorschriften über das Verfahren in Strafsachen auch auf Soldaten anzuwenden\.
 
+\[ [🔗 Permalink](#-500-stpo) \]
+
 ### § 501 StPO
 
 > `(1)` Die Durchführung eines Strafverfahrens wegen einer Tat ist nicht allein deshalb unzulässig, weil sie auch als Verstoß gegen eine besondere militärische Dienst\- oder Standespflicht von den dafür zuständigen Behörden verfolgt werden kann\.
 
 > `(2)` Wegen eines mit nicht mehr als sechsmonatiger Freiheitsstrafe bedrohten Vergehens nach dem Militärstrafgesetz darf ein Strafverfahren nicht geführt oder ein bereits begonnenes Strafverfahren vorläufig nicht fortgesetzt werden \(§ 197\), sobald Staatsanwaltschaft oder Gericht von der zuständigen Behörde mitgeteilt wurde, dass wegen der Tat ein militärisches Disziplinarverfahren durchgeführt wird\. Handelt es sich um ein mit mehr als sechsmonatiger, aber nicht mehr als zweijähriger Freiheitsstrafe bedrohtes Vergehen nach dem Militärstrafgesetz, so kann die Staatsanwaltschaft oder das Gericht die Einleitung oder Fortsetzung des Verfahrens aufschieben, wenn dies im Hinblick auf ein wegen der Tat durchgeführtes militärisches Disziplinarverfahren zweckmäßig erscheint\. Nach Abschluss des Disziplinarverfahrens hat die Staatsanwaltschaft in sinngemäßer Anwendung des § 263 Abs\. 4 vorzugehen\. Solange ein Verfahren nach diesem Bundesgesetz nicht eingeleitet oder fortgesetzt wird, ruht die Verjährung\.
+
+\[ [🔗 Permalink](#-501-stpo) \]
 
 ### § 502 StPO
 
@@ -6562,6 +7628,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` §§ 170 Abs\. 3 und 172 gelten dem Sinne nach\.
 
+\[ [🔗 Permalink](#-502-stpo) \]
+
 ### § 503 StPO
 
 > `(1)` Von jeder Ladung und von jeder Festnahme oder Freilassung eines Soldaten sowie von der Anordnung des Vollzuges der gegen Soldaten verhängten Freiheitsstrafen ist das unmittelbar vorgesetzte Kommando zu benachrichtigen; die Benachrichtigung von der Ladung hat zu entfallen, wenn diese durch das vorgesetzte Kommando zugestellt wird\.
@@ -6572,13 +7640,19 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die bevorstehende Entlassung eines Soldaten aus einer Strafvollzugsanstalt ist von dieser, die Entlassung aus einer Justizanstalt vom Gerichte dem nächstgelegenen militärischen Kommando anzuzeigen, damit die zur Übernahme notwendigen Verfügungen rechtzeitig getroffen werden können\.
 
+\[ [🔗 Permalink](#-503-stpo) \]
+
 ### § 504 StPO
 
 > Von Amtshandlungen der Kriminalpolizei, der Staatsanwaltschaft oder des Gerichts auf militärischen Liegenschaften ist der Kommandant vorher in Kenntnis zu setzen; auf sein Verlangen ist ein von ihm beigegebener Soldat zuzuziehen\.
 
+\[ [🔗 Permalink](#-504-stpo) \]
+
 ### § 505 StPO
 
 > Ladungen und Anordnungen, Entscheidungen und sonstige Schriftstücke sind Soldaten in der Regel durch das unmittelbar vorgesetzte Kommando zuzustellen\. Dieses hat das rechtzeitige Erscheinen des Geladenen zu veranlassen und ihn nötigenfalls auch von Amts wegen zum Termin vorzuführen\.
+
+\[ [🔗 Permalink](#-505-stpo) \]
 
 ### § 506 StPO
 
@@ -6586,15 +7660,21 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Dienstgrad und der Standeskörper des Beschuldigten sind in allen Schriftstücken, die ihm oder militärischen Stellen \(§ 503\) zuzustellen sind oder durch die seine Fahndung veranlasst werden soll, anzuführen\.
 
+\[ [🔗 Permalink](#-506-stpo) \]
+
 ## 26. Hauptstück
 
 ### § 507 StPO — Gnadenverfahren
 
 > Eine Begnadigung steht nur dem Bundespräsidenten auf Vorschlag der Bundesregierung oder des von ihr ermächtigten Bundesministers für Justiz zu \(Art\. 65 Abs\. 2 lit\. c, Art\. 67 Abs\. 1 B\-VG\)\. Eine Begnadigung kann von Amts wegen oder aus Anlaß eines Gesuches vorgeschlagen werden; ein Recht darauf besteht nicht\.
 
+\[ [🔗 Permalink](#-507-stpo--gnadenverfahren) \]
+
 ### § 508 StPO
 
 > Gnadengesuche sind beim Bundesminister für Justiz einzubringen; bei Gerichten oder anderen Justizbehörden einlangende Gesuche sind unverzüglich und unmittelbar an den Bundesminister für Justiz weiterzuleiten\.
+
+\[ [🔗 Permalink](#-508-stpo) \]
 
 ### § 509 StPO
 
@@ -6603,6 +7683,8 @@ Der Nationalrat hat beschlossen:
 >> `1.` Erhebungen durchführen, die Sicherheitsbehörden und andere geeignete Stellen um Erhebungen ersuchen oder die Staatsanwaltschaften mit deren Veranlassung beauftragen;
 >
 >> `2.` Gerichten, insbesondere jenen, die in erster Instanz erkannt oder die Strafe mit der Entscheidung über ein Rechtsmittel festgesetzt haben, Gelegenheit zur Stellungnahme geben sowie Stellungnahmen staatsanwaltschaftlicher und anderer Behörden einholen\.
+
+\[ [🔗 Permalink](#-509-stpo) \]
 
 ### § 510 StPO
 
@@ -6618,11 +7700,15 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Der Verurteilte kann auch vor Beendigung der Hemmung die Freiheitsstrafe antreten oder die Geldstrafe zahlen\.
 
+\[ [🔗 Permalink](#-510-stpo) \]
+
 ### § 511 StPO
 
 > `(1)` Eine vom Bundespräsidenten ausgesprochene Begnadigung ist dem Verurteilten durch den Bundesminister für Justiz mitzuteilen\. Dieser hat überdies den Gesuchsteller, das Gericht, das in erster Instanz erkannt hat, die Landespolizeidirektion Wien \(§ 1 Abs\. 2 Strafregistergesetz\) und, wenn der Verurteilte in einer Justizanstalt angehalten wird, den Leiter dieser Anstalt zu verständigen\.
 
 > `(2)` Bleibt ein Gnadengesuch erfolglos, so hat der Bundesminister für Justiz davon den Verurteilten, den Gesuchsteller und das Gericht, das in erster Instanz erkannt hat, zu verständigen\.
+
+\[ [🔗 Permalink](#-511-stpo) \]
 
 ### § 512 StPO
 
@@ -6630,9 +7716,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Anordnung des Vollzuges solcher Strafen und die sonst auf Grund einer Begnadigung oder einer Hemmung des Vollzuges von Strafen zu treffenden Verfügungen kommen dem Vorsitzenden \(Einzelrichter\) des Gerichtes zu, das in erster Instanz erkannt hat\.
 
+\[ [🔗 Permalink](#-512-stpo) \]
+
 ### § 513 StPO
 
 > Bei den Erhebungen im Gnadenverfahren sind die Bestimmungen des Allgemeinen Verwaltungsverfahrensgesetzes 1991 sinngemäß anzuwenden\. Dem Verurteilten ist auf Verlangen Einsicht in die Ergebnisse der Erhebungen zu gewähren\.
+
+\[ [🔗 Permalink](#-513-stpo) \]
 
 ## 6. TEIL
 
@@ -6782,11 +7872,15 @@ Der Nationalrat hat beschlossen:
 
 > `(56)` Die Einträge im Inhaltsverzeichnis zum 1\. Abschnitt des 8\. Hauptstücks, zu den §§ 115a bis 115l, zur Überschrift des 3\. Teils, zu einem 10a\. Hauptstück samt Überschrift, zu § 197a, § 197b und § 197c, § 1 Abs\. 2, § 27, § 28 Abs\. 2, § 31 Abs\. 3 Z 6a und Abs\. 6 Z 3, § 36 Abs\. 2a, § 37 Abs\. 4, § 47a Abs\. 4a und 7, § 49 Abs\. 1 Z 12 und 13, § 52 Abs\. 1, Abs\. 2 Z 4 und Abs\. 3, § 53 Abs\. 1, § 61 Abs\. 2 Z 2 lit\. a, § 66 Abs\. 1 Z 1c, § 66b Abs\. 1 lit\. e, § 69 Abs\. 3, § 71 Abs\. 1, § 76 Abs\. 6, § 77 Abs\. 2, § 91 Abs\. 2 und 3, § 100 Abs\. 3a, § 102 Abs\. 3, § 105 Abs\. 3, § 108, die Überschrift des 1\. Abschnitts des 8\. Hauptstücks, § 109 Z 1 lit\. a und b, Z 1a und Z 2a bis 2e, § 110 Abs\. 1 Z 1, Abs\. 3 und 4, § 111 Abs\. 2 und 3, § 112 Abs\. 1 und 2, § 112a Abs\. 1, § 113 Abs\. 2 und 4, § 114 Abs\. 1, 1a und 2, § 115 Abs\. 1, § 115a Abs\. 1, § 115e Abs\. 1 und 2, §§ 115f bis 115l samt Überschriften, § 116 Abs\. 5, 6 und 7, § 126 Abs\. 2a, 3a, 3b und 4, § 157 Abs\. 1 Z 2 und Abs\. 2, § 174 Abs\. 1, die Überschrift des 3\. Teils, § 190, § 195 Abs\. 2,§ 196a Abs\. 2, das 10a\. Hauptstück, § 281 Abs\. 1 Z 3, § 284 Abs\. 2, § 286 Abs\. 1 und 2, § 294 Abs\. 5, § 296 Abs\. 3, § 345 Abs\. 1 Z 4, §§ 367 bis 369, § 373b, § 377, § 379, § 408 Abs\. 2, § 444 Abs\. 2, § 466 Abs\. 3, § 468 Abs\. 1 Z 3 und § 471 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 treten mit 1\. Jänner 2025 in Kraft; gleichzeitig treten § 31 Abs\. 1 Z 5, § 108a samt Überschrift und § 286 Abs\. 1a außer Kraft\.
 
+\[ [🔗 Permalink](#-514-stpo--in-kraft-treten) \]
+
 ### § 515 StPO — Verweisungen
 
 > `(1)` Verweisungen in diesem Gesetz auf andere Rechtsvorschriften des Bundes oder auf unmittelbar anwendbare Rechtsakte der Europäischen Gemeinschaft sind als Verweisungen auf die jeweils geltende Fassung zu verstehen\. Wird in anderen Bundesgesetzen auf Bestimmungen verwiesen, an deren Stelle mit dem In\-Kraft\-Treten des Strafprozessreformgesetzes neue Bestimmungen wirksam werden, so sind diese Verweisungen auf die entsprechenden neuen Bestimmungen zu beziehen\.
 
 > `(2)` Soweit in diesem Gesetz personenbezogene Bezeichnungen nur in männlicher Form angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise\. Bei der Anwendung auf bestimmte Personen ist die jeweils geschlechtsspezifische Form zu verwenden\.
+
+\[ [🔗 Permalink](#-515-stpo--verweisungen) \]
 
 ### § 516 StPO — Übergangsbestimmungen
 
@@ -6818,6 +7912,8 @@ Der Nationalrat hat beschlossen:
 > `(12)` § 196a und § 393a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 96/2024 sind auf Verfahren anzuwenden, in denen die in § 196a Abs\. 1 und in § 393a Abs\. 1 genannten verfahrensbeendenden Entscheidungen ab dem 1\. Jänner 2024 rechtskräftig geworden sind\. Ist in diesen Verfahren bereits über einen Beitrag zu den Kosten der Verteidigung nach § 393a StPO in der Fassung des Bundesgesetzes BGBl\. I Nr\. 152/2022 entschieden worden, so kann ein neuerlicher Antrag auf Zuerkennung eines Beitrags zu den Kosten für die Verteidigung gestellt werden\. Für die Entscheidung über diesen Antrag ist § 393a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 96/2024 anzuwenden, wobei bei der Festsetzung der Höhe des Beitrags zu den Kosten der Verteidigung der bereits zugesprochene Beitrag zu berücksichtigen ist\. Für vor dem 1\. Jänner 2024 rechtskräftig gewordene verfahrensbeendende Entscheidungen gilt weiterhin § 393a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 152/2022\.
 
 > `(13)` § 111 Abs\. 2 und §§ 115f bis 115l in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 sind in jenen Strafverfahren anzuwenden, die ab dem 1\. Jänner 2025 beginnen \(§ 1 Abs\. 2\) sowie für alle Sicherstellungen gemäß § 111 Abs\. 2 und Beschlagnahmen von Datenträgern und Daten \(§ 109 Z 2a\), die ab dem 1\. Jänner 2025 angeordnet werden\. In allen anderen Fällen gelten § 115i, § 115k und § 115l sinngemäß\. § 126 Abs\. 3a und § 127 Abs\. 4a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 sind auf Gutachtensaufträge anzuwenden, die nach dem 1\. Jänner 2025 erteilt werden\.
+
+\[ [🔗 Permalink](#-516-stpo--übergangsbestimmungen) \]
 
 ### § 516a StPO — Umsetzung von Richtlinien der Europäischen Union
 
@@ -6855,6 +7951,10 @@ Der Nationalrat hat beschlossen:
 
 > `(16)` § 69 Abs\. 3, § 109 Z 1 lit\. a, Z 1a, § 110 Abs\. 3, § 113 Abs\. 2, § 114 Abs\. 1, Abs\. 1a und Abs\. 2, § 115 Abs\. 1, § 115e Abs\. 2, § 367, § 379, § 408 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 dienen der Umsetzung der Richtlinie 2024/1260/EU über die Abschöpfung und Einziehung von Vermögenswerten, ABl\. Nr\. L 1260 vom 24\.04\.2024 S 1\. § 115i in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 dient der Umsetzung der Richtlinie 2016/680/EU zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates, ABl\. Nr\. L 119 vom 27\.4\.2016 S\. 1\. § 195 Abs\. 2, § 197a, § 197b und § 197c in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 dienen der Umsetzung der Richtlinie 2012/29/EU über Mindeststandards für die Rechte, die Unterstützung und den Schutz von Opfern von Straftaten sowie zur Ersetzung des Rahmenbeschlusses 2001/220/JI, ABl\. Nr\. L 315 vom 14\.11\.2012 S\. 57\. § 286 Abs\. 1 und 2, § 294 Abs\. 5, § 296 Abs\. 3 und § 471 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 dienen der Umsetzung der Richtlinie 2016/343/EU über die Stärkung bestimmter Aspekte der Unschuldsvermutung und des Rechts auf Anwesenheit in der Verhandlung im Strafverfahren, ABl\. Nr\. L 65 vom 11\.03\.2016 S\. 1\.
 
+\[ [🔗 Permalink](#-516a-stpo--umsetzung-von-richtlinien-der-europäischen-union) \]
+
 ### § 517 StPO — Vollziehung
 
 > Mit der Vollziehung dieses Gesetzes ist der Bundesminister für Justiz betraut\.
+
+\[ [🔗 Permalink](#-517-stpo--vollziehung) \]

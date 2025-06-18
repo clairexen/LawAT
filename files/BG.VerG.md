@@ -85,6 +85,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Ein Verband ist ein Verein, in dem sich in der Regel Vereine zur Verfolgung gemeinsamer Interessen zusammenschließen\. Ein Dachverband ist ein Verein zur Verfolgung gemeinsamer Interessen von Verbänden\.
 
+\[ [🔗 Permalink](#-1-verg--verein) \]
+
 ### § 2 VerG — Gründung des Vereins
 
 > `(1)` Die Gründung eines Vereins umfasst seine Errichtung und seine Entstehung\. Der Verein wird durch die Vereinbarung von Statuten \(Gründungsvereinbarung\) errichtet\. Er entsteht als Rechtsperson mit Ablauf der Frist gemäß § 13 Abs\. 1 oder mit früherer Erlassung eines Bescheids gemäß § 13 Abs\. 2\.
@@ -94,6 +96,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Hat ein Verein nicht innerhalb eines Jahres ab seiner Entstehung organschaftliche Vertreter bestellt, so ist er von der Vereinsbehörde aufzulösen\. Die Frist ist von der Vereinsbehörde auf Antrag der Gründer zu verlängern, wenn diese glaubhaft machen, dass sie durch ein unvorhergesehenes oder unabwendbares Ereignis ohne ihr Verschulden verhindert waren, die Frist einzuhalten\.
 
 > `(4)` Für Handlungen im Namen des Vereins vor seiner Entstehung haften die Handelnden persönlich zur ungeteilten Hand \(Gesamtschuldner\)\. Rechte und Pflichten, die im Namen des Vereins vor seiner Entstehung von den Gründern oder von bereits bestellten organschaftlichen Vertretern begründet wurden, werden mit der Entstehung des Vereins für diesen wirksam, ohne dass es einer Genehmigung durch Vereinsorgane oder Gläubiger bedarf\.
+
+\[ [🔗 Permalink](#-2-verg--gründung-des-vereins) \]
 
 ### § 3 VerG — Statuten
 
@@ -125,11 +129,15 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Das Leitungsorgan eines Vereins ist verpflichtet, jedem Vereinsmitglied auf Verlangen die Statuten auszufolgen\.
 
+\[ [🔗 Permalink](#-3-verg--statuten) \]
+
 ### § 4 VerG — Name, Sitz
 
 > `(1)` Der Name des Vereins muss einen Schluss auf den Vereinszweck zulassen und darf nicht irreführend sein\. Verwechslungen mit anderen bestehenden Vereinen, Einrichtungen oder Rechtsformen müssen ausgeschlossen sein\.
 
 > `(2)` Der Sitz des Vereins muss im Inland liegen\. Als Sitz ist der Ort zu bestimmen, an dem der Verein seine tatsächliche Hauptverwaltung hat\.
+
+\[ [🔗 Permalink](#-4-verg--name-sitz) \]
 
 ### § 5 VerG — Organe, Prüfer
 
@@ -143,6 +151,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Jeder Verein hat mindestens zwei Rechnungsprüfer zu bestellen, ein großer Verein im Sinne des § 22 Abs\. 2 einen Abschlussprüfer\. Rechnungsprüfer wie Abschlussprüfer müssen unabhängig und unbefangen sein, Abs\. 4 vierter Satz gilt sinngemäß\. Sofern die Statuten nicht anderes vorsehen, wird der Abschlussprüfer für ein Rechnungsjahr bestellt\. Die Auswahl der Rechnungsprüfer und des Abschlussprüfers obliegt der Mitgliederversammlung\. Ist eine Bestellung noch vor der nächsten Mitgliederversammlung notwendig, so hat das Aufsichtsorgan, fehlt ein solches, das Leitungsorgan den oder die Prüfer auszuwählen\.
 
+\[ [🔗 Permalink](#-5-verg--organe-prüfer) \]
+
 ### § 6 VerG — Geschäftsführung, Vertretung
 
 > `(1)` Sehen die Statuten nicht anderes vor, so ist Gesamtgeschäftsführung anzunehmen\. Hiefür genügt im Zweifel einfache Stimmenmehrheit\.
@@ -153,15 +163,21 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Im eigenen Namen oder für einen anderen geschlossene Geschäfte eines organschaftlichen Vertreters mit dem Verein \(Insichgeschäfte\) bedürfen der Zustimmung eines anderen, zur Vertretung oder Geschäftsführung befugten Organwalters\.
 
+\[ [🔗 Permalink](#-6-verg--geschäftsführung-vertretung) \]
+
 ### § 7 VerG — Nichtigkeit und Anfechtbarkeit von Vereinsbeschlüssen
 
 > Beschlüsse von Vereinsorganen sind nichtig, wenn dies Inhalt und Zweck eines verletzten Gesetzes oder die guten Sitten gebieten\. Andere gesetz\- oder statutenwidrige Beschlüsse bleiben gültig, sofern sie nicht binnen eines Jahres ab Beschlussfassung gerichtlich angefochten werden\. Jedes von einem Vereinsbeschluss betroffene Vereinsmitglied ist zur Anfechtung berechtigt\.
+
+\[ [🔗 Permalink](#-7-verg--nichtigkeit-und-anfechtbarkeit-von-vereinsbeschlüssen) \]
 
 ### § 8 VerG — Streitschlichtung
 
 > `(1)` Die Statuten haben vorzusehen, dass Streitigkeiten aus dem Vereinsverhältnis vor einer Schlichtungseinrichtung auszutragen sind\. Sofern das Verfahren vor der Schlichtungseinrichtung nicht früher beendet ist, steht für Rechtsstreitigkeiten nach Ablauf von sechs Monaten ab Anrufung der Schlichtungseinrichtung der ordentliche Rechtsweg offen\. Die Anrufung des ordentlichen Gerichts kann nur insofern ausgeschlossen werden, als ein Schiedsgericht nach den §§ 577 ff ZPO eingerichtet wird\.
 
 > `(2)` Die Statuten haben die Zusammensetzung und die Art der Bestellung der Mitglieder der Schlichtungseinrichtung unter Bedachtnahme auf deren Unbefangenheit zu regeln\. Den Streitparteien ist beiderseitiges Gehör zu gewähren\.
+
+\[ [🔗 Permalink](#-8-verg--streitschlichtung) \]
 
 ### § 9 VerG — Vereinsbehörden, Verfahren
 
@@ -171,9 +187,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die örtliche Zuständigkeit richtet sich, sofern nicht anderes bestimmt ist \(§ 19 Abs\. 2\), nach dem in den Statuten angegebenen Vereinssitz\.
 
+\[ [🔗 Permalink](#-9-verg--vereinsbehörden-verfahren) \]
+
 ### § 10 VerG — Vereinsversammlungen
 
 > Für Versammlungen, die von einem Verein abgehalten werden, gilt das Versammlungsgesetz 1953, BGBl\. Nr\. 98/1953, mit der Maßgabe, dass die Mitglieder des Vereins als geladene Gäste gemäß § 2 Abs\. 1 dieses Gesetzes anzusehen sind\.
+
+\[ [🔗 Permalink](#-10-verg--vereinsversammlungen) \]
 
 ## 2. Abschnitt
 
@@ -184,6 +204,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Die Errichtung eines Vereins \(§ 2 Abs\. 1\) ist der Vereinsbehörde von den Gründern oder den bereits bestellten organschaftlichen Vertretern unter Angabe ihres Namens, ihres Geburtsdatums, ihres Geburtsorts und ihrer für Zustellungen maßgeblichen Anschrift \(§ 2 Z 4 Zustellgesetz, BGBl\. Nr\. 200/1982\) mit einem Exemplar der vereinbarten Statuten schriftlich anzuzeigen\. Bereits bestellte organschaftliche Vertreter haben zudem ihre Funktion und den Zeitpunkt ihrer Bestellung anzugeben\. Sofern bereits vorhanden, ist auch die für Zustellungen maßgebliche Anschrift des Vereins bekannt zu geben\.
 
 > `(2)` Besteht der in den Statuten umschriebene Vereinszweck in der Ausübung eines Kultus, hat die Vereinsbehörde die Statuten unverzüglich an den Bundeskanzler zu übermitteln\. Dieser hat zu prüfen, ob die umschriebene Ausübung dieses Kultus einen Eingriff in die inneren Angelegenheiten einer gesetzlich anerkannten Kirche oder Religionsgesellschaft darstellt\. Das Ergebnis der Prüfung ist unverzüglich an die Vereinsbehörde zu übermitteln\.
+
+\[ [🔗 Permalink](#-11-verg--anzeige-der-vereinserrichtung) \]
 
 ### § 12 VerG — Erklärung, dass die Vereinsgründung nicht gestattet ist
 
@@ -197,11 +219,15 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Ein Bescheid gemäß Abs\. 1 gilt hinsichtlich der in Abs\. 2 angeführten und allenfalls gemäß Abs\. 3 verlängerten Frist auch dann als rechtzeitig erlassen, wenn seine Zustellung innerhalb dieser Frist an der in der Errichtungsanzeige angegebenen Abgabestelle versucht worden ist\.
 
+\[ [🔗 Permalink](#-12-verg--erklärung-dass-die-vereinsgründung-nicht-gestattet-ist) \]
+
 ### § 13 VerG — Einladung zur Aufnahme der Vereinstätigkeit
 
 > `(1)` Ergeht binnen vier, im Fall einer Verlängerung gemäß § 12 Abs\. 3 binnen längstens sechs Wochen nach Einlangen der Errichtungsanzeige keine Erklärung gemäß § 12 Abs\. 1, so gilt das Schweigen der Vereinsbehörde als Einladung zur Aufnahme der Vereinstätigkeit\. Der mit Fristablauf entstandene Verein \(§ 2 Abs\. 1\) kann seine Tätigkeit beginnen\. Die Vereinsbehörde hat den Anzeigern eine unbeglaubigte Abschrift der Statuten und einen Auszug aus dem Vereinsregister zu übermitteln\.
 
 > `(2)` Schon vor Fristablauf kann an die Anzeiger mit Bescheid eine ausdrückliche Einladung zur Aufnahme der Vereinstätigkeit ergehen, sobald die Vereinsbehörde zu einer Erklärung gemäß § 12 Abs\. 1 keinen Anlass sieht\. Der Einladung ist eine unbeglaubigte Abschrift der Statuten und ein Auszug aus dem Vereinsregister anzuschließen\.
+
+\[ [🔗 Permalink](#-13-verg--einladung-zur-aufnahme-der-vereinstätigkeit) \]
 
 ### § 14 VerG — Änderung der Statuten, der organschaftlichen Vertreter und der Vereinsanschrift
 
@@ -210,6 +236,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Verein hat alle seine organschaftlichen Vertreter unter Angabe ihrer statutengemäßen Funktion, ihres Namens, ihres Geburtsdatums, ihres Geburtsorts und ihrer für Zustellungen maßgeblichen Anschrift sowie des Beginns ihrer Vertretungsbefugnis jeweils binnen vier Wochen nach ihrer Bestellung der Vereinsbehörde bekannt zu geben\.
 
 > `(3)` Der Verein hat der Vereinsbehörde auch jede Änderung seiner für Zustellungen maßgeblichen Anschrift binnen vier Wochen mitzuteilen\.
+
+\[ [🔗 Permalink](#-14-verg--änderung-der-statuten-der-organschaftlichen-vertreter-und-der-vereinsanschrift) \]
 
 ## 3. Abschnitt
 
@@ -220,6 +248,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Personenbezogene Daten gemäß § 16 Abs\. 1 dürfen die Vereinsbehörden im Interesse der Offenlegung der für den Rechtsverkehr bedeutsamen Tatsachen sowie im Interesse der Ausschließlichkeit der Vereinsnamen \(§ 4 Abs\. 1\) auch dann verarbeiten, wenn es sich im Hinblick auf den aus seinem Namen erschließbaren Zweck eines Vereins \(§ 4 Abs\. 1\) um besondere Kategorien personenbezogener Daten im Sinne des Art\. 9 der Verordnung \(EU\) 2016/679 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG \(Datenschutz\-Grundverordnung\), ABl\. Nr\. L 119 vom 4\.5\.2016 S\. 1, \(im Folgenden: DSGVO\) handelt\.
 
 > `(2)` Eine Weiterverarbeitung besonderer Kategorien personenbezogener Daten gemäß § 19a durch die Vereinsbehörden ist weder im Lokalen noch im Zentralen Vereinsregister zulässig\.
+
+\[ [🔗 Permalink](#-15-verg--verarbeitung-besonderer-kategorien-personenbezogener-daten) \]
 
 ### § 16 VerG — Lokales Vereinsregister
 
@@ -269,6 +299,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Protokolldaten über tatsächlich durchgeführte Verarbeitungsvorgänge, wie insbesondere Änderungen, Abfragen und Übermittlungen, sind drei Jahre lang aufzubewahren\.
 
+\[ [🔗 Permalink](#-16-verg--lokales-vereinsregister) \]
+
 ### § 17 VerG — Erteilung von Auskünften aus dem Lokalen Vereinsregister
 
 > `(1)` Die Vereinsbehörden haben auf Verlangen aus dem Lokalen Vereinsregister jedermann über die in § 16 Abs\. 1 Z 1 bis 7, 10 bis 13 und 16 angeführten Daten eines nach
@@ -301,6 +333,8 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` Auskünfte, die sich auf die Registerdaten aller oder mehrerer gemeinsamer Kriterien beziehen \(Sammelabfrage\), sind unzulässig\. Sofern die Behörden das Register automationsunterstützt führen, darf nicht vorgesehen werden, dass die Gesamtmenge der gespeicherten Daten nach anderen als den in § 17 Abs\. 1 genannten Auswahlkriterien geordnet werden kann\. Insbesondere darf die Auswählbarkeit der Vereinsdaten aus der Gesamtmenge nach dem Namen einer physischen Person nicht vorgesehen werden\.
 
+\[ [🔗 Permalink](#-17-verg--erteilung-von-auskünften-aus-dem-lokalen-vereinsregister) \]
+
 ### § 18 VerG — Zentrales Vereinsregister
 
 > `(1)` Die Vereinsbehörden sind als gemeinsam Verantwortliche gemäß Art\. 4 Z 7 in Verbindung mit Art\. 26 Abs\. 1 DSGVO ermächtigt, die für die Wahrnehmung der ihnen nach diesem Bundesgesetz übertragenen Aufgaben erforderlichen personenbezogenen Daten gemeinsam in der Art zu verarbeiten, dass jeder Verantwortliche auch auf jene Daten in der Datenverarbeitung Zugriff hat, die dieser von den anderen Verantwortlichen zur Verfügung gestellt wurden \(Zentrales Vereinsregister – ZVR\)\. Die Vereinsbehörden haben dem Bundesminister für Inneres für die Zwecke der Führung des Zentralen Vereinsregisters unverzüglich ihre Vereinsdaten gemäß § 16 Abs\. 1 im Wege der Datenfernübertragung zu übermitteln\.
@@ -314,6 +348,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Protokollierungsregelungen des § 16 Abs\. 6 finden auch auf das Zentrale Vereinsregister Anwendung\.
 
 > `(4)` Hinsichtlich der Verarbeitung personenbezogener Daten nach diesem Bundesgesetz besteht kein Widerspruchsrecht gemäß Art\. 21 DSGVO sowie kein Recht auf Einschränkung der Verarbeitung gemäß Art\. 18 DSGVO\. Darüber sind die Betroffenen in geeigneter Weise zu informieren\.
+
+\[ [🔗 Permalink](#-18-verg--zentrales-vereinsregister) \]
 
 ### § 19 VerG — Erteilung von Auskünften aus dem Zentralen Vereinsregister
 
@@ -357,6 +393,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Der Österreichischen Nationalbank sind gegen Ersatz der dafür anfallenden Kosten die Daten aus dem Zentralen Vereinsregister zur Erfüllung ihrer gesetzlich oder unionsrechtlich übertragenen Aufgaben nach Maßgabe der technischen Möglichkeiten im Datenfernverkehr zu übermitteln\.
 
+\[ [🔗 Permalink](#-19-verg--erteilung-von-auskünften-aus-dem-zentralen-vereinsregister) \]
+
 ### § 19a VerG — Übermittlung personenbezogener Daten
 
 > `(1)` Kriminalpolizei, Staatsanwaltschaften und Gerichte sind ermächtigt, den Vereinsbehörden nach der Strafprozeßordnung 1975 \(StPO\), BGBl\. Nr\. 631/1975, insbesondere auch durch Ermittlungsmaßnahmen nach dem 4\. bis 6\. Abschnitt des 8\. Hauptstücks, ermittelte personenbezogene Daten zu übermitteln, soweit eine Weiterverarbeitung dieser Daten durch die Vereinsbehörden in Verfahren betreffend die Vereinserrichtung sowie die behördliche Auflösung eines Vereins erforderlich ist\. Im Rahmen eines Rechtsmittelverfahrens obliegt die Übermittlung dieser Daten an das zuständige Landesverwaltungsgericht der jeweiligen Vereinsbehörde\.
@@ -365,6 +403,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine Übermittlung gemäß Abs\. 1 und 2 ist unzulässig, sofern es sich um personenbezogene Daten handelt, die durch eine körperliche oder molekulargenetische Untersuchung gemäß den §§ 123 und 124 StPO ermittelt worden sind\.
 
+\[ [🔗 Permalink](#-19a-verg--übermittlung-personenbezogener-daten) \]
+
 ## 4. Abschnitt
 
 ## Vereinsgebarung
@@ -372,6 +412,8 @@ Der Nationalrat hat beschlossen:
 ### § 20 VerG — Informationspflicht
 
 > Das Leitungsorgan ist verpflichtet, in der Mitgliederversammlung die Mitglieder über die Tätigkeit und die finanzielle Gebarung des Vereins zu informieren\. Wenn mindestens ein Zehntel der Mitglieder dies unter Angabe von Gründen verlangt, hat das Leitungsorgan eine solche Information den betreffenden Mitgliedern auch sonst binnen vier Wochen zu geben\.
+
+\[ [🔗 Permalink](#-20-verg--informationspflicht) \]
 
 ### § 21 VerG — Rechnungslegung
 
@@ -385,6 +427,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Stellen die Rechnungsprüfer fest, dass das Leitungsorgan beharrlich und auf schwerwiegende Weise gegen die ihm obliegenden Rechnungslegungspflichten verstößt, ohne dass zu erwarten ist, dass im Verein in absehbarer Zeit für wirksame Abhilfe gesorgt wird, so haben sie vom Leitungsorgan die Einberufung einer Mitgliederversammlung zu verlangen\. Sie können auch selbst eine Mitgliederversammlung einberufen\.
 
+\[ [🔗 Permalink](#-21-verg--rechnungslegung) \]
+
 ### § 22 VerG — Qualifizierte Rechnungslegung für große Vereine
 
 > `(1)` Das Leitungsorgan eines Vereins, dessen gewöhnliche Einnahmen oder gewöhnliche Ausgaben in zwei aufeinander folgenden Rechnungsjahren jeweils höher als eine Million Euro waren, hat ab dem folgenden Rechnungsjahr an Stelle der Einnahmen\- und Ausgabenrechnung einen Jahresabschluss \(Bilanz, Gewinn\- und Verlustrechnung\) aufzustellen\. § 21 und die §§ 190 bis 193 Abs\. 1 und 193 Abs\. 3 bis 216 UGB sind sinngemäß anzuwenden\. Die Verpflichtung zur Aufstellung eines Jahresabschlusses entfällt, sobald der Schwellenwert in zwei aufeinander folgenden Rechnungsjahren nicht mehr überschritten wird\.
@@ -397,6 +441,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Stellt der Abschlussprüfer bei seiner Prüfung Tatsachen fest, die erkennen lassen, dass der Verein seine bestehenden Verpflichtungen nicht erfüllen kann, oder die erwarten lassen, dass der Verein in Zukunft zur Erfüllung seiner Verpflichtungen nicht in der Lage sein wird, so hat er dies der Vereinsbehörde mitzuteilen\. Die Vereinsbehörde hat diesen Umstand im Vereinsregister ersichtlich zu machen\. Die Eintragung ist wieder zu löschen, wenn der Abschlussprüfer mitteilt, dass die ihr zu Grunde liegenden Tatsachen nicht mehr bestehen\. Die Eintragung ist in einer Weise zu löschen, dass sie – abweichend von § 16 Abs\. 2 – nicht weiter abfragbar ist\.
 
+\[ [🔗 Permalink](#-22-verg--qualifizierte-rechnungslegung-für-große-vereine) \]
+
 ## 5. Abschnitt
 
 ## Haftung
@@ -404,6 +450,8 @@ Der Nationalrat hat beschlossen:
 ### § 23 VerG — Haftung für Verbindlichkeiten des Vereins
 
 > Für Verbindlichkeiten des Vereins haftet der Verein mit seinem Vermögen\. Organwalter und Vereinsmitglieder haften persönlich nur dann, wenn sich dies aus anderen gesetzlichen Vorschriften oder auf Grund persönlicher rechtsgeschäftlicher Verpflichtung ergibt\.
+
+\[ [🔗 Permalink](#-23-verg--haftung-für-verbindlichkeiten-des-vereins) \]
 
 ### § 24 VerG — Haftung von Organwaltern und Rechnungsprüfern
 
@@ -435,6 +483,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Eine von einem Verein abgeschlossene Haftpflichtversicherung hat auch den in Abs\. 5 genannten Anspruch eines Organwalters oder Rechnungsprüfers gegen den Verein zu decken\.
 
+\[ [🔗 Permalink](#-24-verg--haftung-von-organwaltern-und-rechnungsprüfern) \]
+
 ### § 25 VerG — Geltendmachung von Ersatzansprüchen des Vereins
 
 > `(1)` Zur Geltendmachung von Ersatzansprüchen des Vereins gegen einen Organwalter kann die Mitgliederversammlung einen Sondervertreter bestellen\. Dazu kann die Mitgliederversammlung jedenfalls auch von einem allfälligen Aufsichtsorgan einberufen werden\.
@@ -443,9 +493,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Dringt im Fall des Abs\. 2 der Verein mit den erhobenen Ansprüchen nicht oder nicht zur Gänze durch, so tragen die betreffenden Mitglieder die aus der Rechtsverfolgung erwachsenden Kosten nach außen zur ungeteilten Hand \(Gesamtschuldner\) und im Innenverhältnis, sofern nicht anderes vereinbart ist, zu gleichen Teilen\.
 
+\[ [🔗 Permalink](#-25-verg--geltendmachung-von-ersatzansprüchen-des-vereins) \]
+
 ### § 26 VerG — Verzicht auf Ersatzansprüche durch den Verein
 
 > Ein Verzicht auf oder ein Vergleich über Ersatzansprüche des Vereins gegen Organwalter oder Prüfer ist Gläubigern des Vereins gegenüber unwirksam\. Anderes gilt nur, wenn der Ersatzpflichtige zahlungsunfähig oder überschuldet ist und sich zur Überwindung der Zahlungsunfähigkeit oder Überschuldung mit seinen Gläubigern vergleicht\.
+
+\[ [🔗 Permalink](#-26-verg--verzicht-auf-ersatzansprüche-durch-den-verein) \]
 
 ## 6. Abschnitt
 
@@ -455,6 +509,8 @@ Der Nationalrat hat beschlossen:
 
 > Die Rechtspersönlichkeit eines Vereins endet mit der Eintragung seiner Auflösung im Vereinsregister; ist eine Abwicklung erforderlich, verliert er seine Rechtsfähigkeit jedoch erst mit Eintragung ihrer Beendigung\.
 
+\[ [🔗 Permalink](#-27-verg--ende-der-rechtspersönlichkeit) \]
+
 ### § 28 VerG — Freiwillige Auflösung
 
 > `(1)` Die Statuten bestimmen, unter welchen Voraussetzungen sich ein Verein selbst auflösen kann und was in diesem Fall mit dem Vereinsvermögen zu geschehen hat\.
@@ -462,6 +518,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Verein hat der Vereinsbehörde das Datum der freiwilligen Auflösung und, falls Vermögen vorhanden ist, das Erfordernis der Abwicklung sowie den Namen, das Geburtsdatum, den Geburtsort und die für Zustellungen maßgebliche Anschrift sowie den Beginn der Vertretungsbefugnis eines allenfalls bestellten Abwicklers binnen vier Wochen nach der Auflösung mitzuteilen\.
 
 > `(3)` Ist eine Abwicklung nicht erforderlich, so müssen die Eintragung der freiwilligen Auflösung im Vereinsregister und die anderen, zu diesem Zeitpunkt aktuell gewesenen Registerdaten \- abweichend von § 17 Abs\. 2 \- noch ein Jahr nach Eintragung der Auflösung allgemein abfragbar bleiben \(§ 17 Abs\. 1\)\. Bis zur Betriebsaufnahme des Zentralen Vereinsregisters ist die freiwillige Auflösung überdies vom Verein binnen vier Wochen nach der Auflösung in einer für amtliche Verlautbarungen bestimmten Zeitung zu veröffentlichen\.
+
+\[ [🔗 Permalink](#-28-verg--freiwillige-auflösung) \]
 
 ### § 29 VerG — Behördliche Auflösung
 
@@ -472,6 +530,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Bei Vorhandensein eines Vereinsvermögens hat die Vereinsbehörde die angemessenen gesetzmäßigen Vorkehrungen zu dessen Sicherung zu treffen\.
 
 > `(4)` Schließlich hat die Vereinsbehörde bei Vorhandensein eines Vereinsvermögens dieses abzuwickeln\. Wenn dies aus Gründen möglichster Sparsamkeit, Raschheit, Einfachheit oder Zweckmäßigkeit, insbesondere im berechtigten Interesse Dritter, erforderlich ist, hat sie einen von ihr verschiedenen Abwickler zu bestellen\.
+
+\[ [🔗 Permalink](#-29-verg--behördliche-auflösung) \]
 
 ### § 30 VerG — Abwicklung, Nachabwicklung
 
@@ -487,6 +547,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Stellt sich nach Beendigung des Vereins \(§ 27\) heraus, dass \(noch weitere\) Abwicklungsmaßnahmen erforderlich sind, so ist gemäß §§ 29 Abs\. 3 und 4 sowie 30 Abs\. 1 bis 5 vorzugehen\. Für die Zeit der Nachabwicklung lebt der Verein vorübergehend wieder auf\. Die entsprechenden Eintragungen im Vereinsregister sind vorzunehmen; für die Eintragung der Beendigung der Nachabwicklung gilt Abs\. 5 letzter Satz sinngemäß\.
 
+\[ [🔗 Permalink](#-30-verg--abwicklung-nachabwicklung) \]
+
 ### § 30a VerG — Umwandlung eines Vereins in eine Genossenschaft
 
 > `(1)` Ein Verein kann gemäß § 91a GenG in eine Genossenschaft umgewandelt werden\. Handelt es sich bei dem Verein um einen anerkannten Revisionsverband, so hat eine allfällige Umwandlung gemäß § 19a GenRevG zu erfolgen\.
@@ -494,6 +556,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Abweichend von § 7 beträgt die Frist für die Erhebung einer Klage gegen die Wirksamkeit des Umwandlungsbeschlusses einen Monat ab Beschlussfassung\.
 
 > `(3)` Die Umwandlung wird gemäß § 91a Abs\. 5 GenG mit der Eintragung der Genossenschaft in das Firmenbuch wirksam\. Der Eintragungsbeschluss ist danach auch der zuständigen Vereinsbehörde zuzustellen\. Mit der Eintragung der Genossenschaft gilt der Verein als freiwillig aufgelöst\. Einer entsprechenden Eintragung im Vereinsregister kommt deklarative Wirkung zu\.
+
+\[ [🔗 Permalink](#-30a-verg--umwandlung-eines-vereins-in-eine-genossenschaft) \]
 
 ## 7. Abschnitt
 
@@ -525,11 +589,15 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; begeht – wenn die Tat nicht von den Strafgerichten zu verfolgen ist – eine Verwaltungsübertretung und ist von der Bezirksverwaltungsbehörde, im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, von der Landespolizeidirektion, mit Geldstrafe bis zu 218 Euro, im Wiederholungsfall mit Geldstrafe bis zu 726 Euro zu bestrafen\.
 
+\[ [🔗 Permalink](#-31-verg--strafbestimmung) \]
+
 ### § 32 VerG — Verweisungen
 
 > `(1)` Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden\.
 
 > `(2)` Soweit in anderen Bundesgesetzen und Verordnungen auf Bestimmungen verwiesen ist, die durch dieses Bundesgesetz geändert oder aufgehoben werden, erhält die Verweisung ihren Inhalt aus den entsprechenden Bestimmungen dieses Bundesgesetzes\.
+
+\[ [🔗 Permalink](#-32-verg--verweisungen) \]
 
 ### § 33 VerG — In-Kraft-Treten, Außer-Kraft-Treten und Übergangsbestimmungen
 
@@ -573,6 +641,10 @@ Der Nationalrat hat beschlossen:
 >
 > *Anm\. 2: gemäß BGBl\. II Nr\. 340/2023: 5\.12\.2023\)*
 
+\[ [🔗 Permalink](#-33-verg--in-kraft-treten-außer-kraft-treten-und-übergangsbestimmungen) \]
+
 ### § 34 VerG — Vollziehung
 
 > Mit der Vollziehung dieses Bundesgesetzes sind hinsichtlich §§ 9 und 10, § 14 Abs\. 2 und 3, §§ 15 bis 17 Abs\. 7, § 17 Abs\. 9, §§ 18 und 19, § 29, § 30 Abs\. 5, § 31 der Bundesminister für Inneres, hinsichtlich § 2 Abs\. 4, §§ 6 und 7, §§ 23 bis 26 der Bundesminister für Justiz, hinsichtlich § 11 Abs\. 2 der Bundesminister für Inneres und der Bundeskanzler, hinsichtlich § 30 Abs\. 4 der Bundesminister für Inneres und der Bundesminister für Finanzen, hinsichtlich aller übrigen Bestimmungen der Bundesminister für Inneres und der Bundesminister für Justiz betraut\.
+
+\[ [🔗 Permalink](#-34-verg--vollziehung) \]
