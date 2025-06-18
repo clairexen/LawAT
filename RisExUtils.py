@@ -779,9 +779,13 @@ class RisEnDocMarkdownEngine:
                     self.idxout[p.citename].ref4human = ref
 
                 if not flags.forai:
+                    gnr = None
+                    if self.normdata['docurl'].startswith(pf := "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer="):
+                        gnr = self.normdata['docurl'].removeprefix(pf)
                     navItems = [
                         f"[🔗 Permalink]({flags.permauri}/{self.normkey}.md#{p.anchor})",
-                        #f"[📜 RIS-Paragraphenansicht](#blabla)",
+                        f"[📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?" +
+                                f"Abfrage=Bundesnormen&Gesetzesnummer={gnr}&Paragraf={p.name.split()[-1]})",
                         f"[📖 RIS-Gesamtansicht]({self.normdata['docurl']}#{self.srcAnchors[p.name]})",
                         #f"[🤖 KI-freundliche Fassung](#blabla)",
                     ]
