@@ -28,39 +28,29 @@
       ]}
     },
     "Head": {
-      "type": "array", "minItems": 2, "maxItems": 2,
+      "type": "array", "minItems": 2,
       "prefixItems": [
-      	{ "type": "string", "pattern": "^Head( |$)" },
-      	{ "type": "string" }
-      ]
+        { "type": "string", "pattern": "^Head( |$)" }
+      ],
+      "items": { "$ref": "#/$defs/TextContent" }
+    },
+    "SubHdr": {
+      "type": "array", "minItems": 2,
+      "prefixItems": [
+        { "type": "string", "pattern": "^SubHdr( |$)" }
+      ],
+      "items": { "$ref": "#/$defs/TextContent" }
     },
     "Title": {
-      "type": "array", "minItems": 2, "maxItems": 2,
+      "type": "array", "minItems": 2,
       "prefixItems": [
-      	{ "type": "string", "pattern": "^Title( |$)" },
-      	{ "type": "string" }
-      ]
+        { "type": "string", "pattern": "^Title( |$)" }
+      ],
+      "items": { "$ref": "#/$defs/TextContent" }
     },
     "Break": {
       "type": "array", "minItems": 1, "maxItems": 1,
-      "pattern": "^Break$"
-    },
-    "Text": {
-      "type": "array",
-      "minItems": 1,
-      "prefixItems": [{ "type": "string", "pattern": "^Text( |$)" }],
-      "items": { "anyOf": [
-        { "type": "string" },
-        { "$ref": "#/$defs/Anm" }
-      ]}
-    },
-    "Anm": {
-      "type": "array",
-      "minItems": 1,
-      "prefixItems": [{ "type": "string", "pattern": "^Anm$" }],
-      "items": {
-        "type": "string"
-      }
+      "items": { "pattern": "^Break$" }
     },
     "List": {
       "type": "array",
@@ -95,17 +85,24 @@
       "type": "array",
       "minItems": 2, "maxItems": 2,
       "prefixItems": [
-      	{ "type": "string", "pattern": "^Img( |$)" },
-      	{ "type": "string" }
+        { "type": "string", "pattern": "^Img( |$)" },
+        { "type": "string" }
       ]
     },
-    "SubHdr": {
+    "Text": {
+      "type": "array", "minItems": 1,
+      "prefixItems": [{ "type": "string", "pattern": "^Text( |$)" }],
+      "items": { "$ref": "#/$defs/TextContent" }
+    },
+    "TextContent": { "anyOf": [
+      { "type": "string" },
+      { "$ref": "#/$defs/Anm" }
+    ]},
+    "Anm": {
       "type": "array",
-      "minItems": 2, "maxItems": 2,
-      "prefixItems": [
-      	{ "type": "string", "pattern": "^SubHdr( |$)" },
-      	{ "type": "string" }
-      ]
+      "minItems": 1,
+      "prefixItems": [{ "type": "string", "pattern": "^Anm$" }],
+      "items": { "type": "string" }
     }
   }
 }

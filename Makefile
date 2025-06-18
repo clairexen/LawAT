@@ -36,7 +36,8 @@ update:
 	$(MAKE) zip json
 
 check-markup:
-	check-jsonschema --schemafile schema.json files/*.markup.json
+	check-jsonschema -v --check-metaschema schema.json
+	set -e; for f in files/*.markup.json; do check-jsonschema -v --schemafile schema.json $$f; done
 	grep -h '^ *\[' files/*.markup.json | sed -e 's/^ *//; s/\]*,.*//; /\["\(Par\|RisDoc\|Item\|Meta\) / s/ .*/ ..."/' | sort | uniq -c
 
 purge:
