@@ -5,8 +5,8 @@
 **Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
 **Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768  
-**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md  
-*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+**RisEn-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md  
+*Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Inhaltsverzeichnis
 
@@ -148,6 +148,8 @@
 
 Der Nationalrat hat beschlossen:
 
+----
+
 ## I. Teil: Allgemeine Bestimmungen
 
 ## 1. Abschnitt: Behörden
@@ -158,11 +160,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-1-avg--zuständigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) \]
 
+----
+
 ### § 2 AVG
 
 > Enthalten die in § 1 erwähnten Vorschriften über die sachliche Zuständigkeit keine Bestimmungen, so sind in den Angelegenheiten der Bundesverwaltung die Bezirksverwaltungsbehörden sachlich zuständig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-2-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) \]
+
+----
 
 ### § 3 AVG
 
@@ -176,6 +182,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-3-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) \]
 
+----
+
 ### § 4 AVG
 
 > `(1)` Ist gemäß den in § 1 erwähnten Vorschriften die örtliche Zuständigkeit mehrerer Behörden gegeben und für diesen Fall nicht anderes bestimmt oder begründen die in § 3 Z 1 und 2 angeführten Umstände die örtliche Zuständigkeit mehrerer Behörden, so haben diese Behörden einvernehmlich vorzugehen\.
@@ -186,6 +194,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-4-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) \]
 
+----
+
 ### § 5 AVG
 
 > `(1)` Über Zuständigkeitsstreite zwischen Behörden entscheidet die sachlich in Betracht kommende gemeinsame Oberbehörde\.
@@ -194,6 +204,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-5-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) \]
 
+----
+
 ### § 6 AVG
 
 > `(1)` Die Behörde hat ihre sachliche und örtliche Zuständigkeit von Amts wegen wahrzunehmen; langen bei ihr Anbringen ein, zu deren Behandlung sie nicht zuständig ist, so hat sie diese ohne unnötigen Aufschub auf Gefahr des Einschreiters an die zuständige Stelle weiterzuleiten oder den Einschreiter an diese zu weisen\.
@@ -201,6 +213,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Durch Vereinbarung der Parteien kann die Zuständigkeit der Behörde weder begründet noch geändert werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-6-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) \]
+
+----
 
 ### § 7 AVG — Befangenheit von Verwaltungsorganen
 
@@ -218,6 +232,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-7-avg--befangenheit-von-verwaltungsorganen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) \]
 
+----
+
 ## 2. Abschnitt: Beteiligte und deren Vertreter
 
 ### § 8 AVG — Beteiligte; Parteien
@@ -226,11 +242,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-8-avg--beteiligte-parteien) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) \]
 
+----
+
 ### § 9 AVG — Rechts- und Handlungsfähigkeit
 
 > Insoweit die persönliche Rechts\- und Handlungsfähigkeit von Beteiligten in Frage kommt, ist sie von der Behörde, wenn in den Verwaltungsvorschriften nicht anderes bestimmt ist, nach den Vorschriften des bürgerlichen Rechts zu beurteilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-9-avg--rechts--und-handlungsfähigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) \]
+
+----
 
 ### § 10 AVG — Vertreter
 
@@ -248,17 +268,23 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-10-avg--vertreter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) \]
 
+----
+
 ### § 11 AVG
 
 > Soll von Amts wegen oder auf Antrag gegen einen schutzberechtigten Beteiligten, der eines gesetzlichen Vertreters entbehrt, oder gegen eine Person, deren Aufenthalt unbekannt ist, eine Amtshandlung vorgenommen werden, so kann die Behörde, wenn die Wichtigkeit der Sache es erfordert, die Betrauung einer Person mit der Obsorge oder die Bestellung eines gerichtlichen Erwachsenenvertreters oder Kurators beim zuständigen Gericht \(§ 109 JN\) veranlassen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-11-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) \]
 
+----
+
 ### § 12 AVG
 
 > Die Vorschriften dieses Bundesgesetzes über die Beteiligten sind auch auf deren gesetzliche Vertreter und Bevollmächtigte zu beziehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-12-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) \]
+
+----
 
 ## 3. Abschnitt: Verkehr zwischen Behörden und Beteiligten
 
@@ -284,11 +310,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-13-avg--anbringen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) \]
 
+----
+
 ### § 13a AVG — Rechtsbelehrung
 
 > Die Behörde hat Personen, die nicht durch berufsmäßige Parteienvertreter vertreten sind, die zur Vornahme ihrer Verfahrenshandlungen nötigen Anleitungen in der Regel mündlich zu geben und sie über die mit diesen Handlungen oder Unterlassungen unmittelbar verbundenen Rechtsfolgen zu belehren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-13a-avg--rechtsbelehrung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) \]
+
+----
 
 ### § 14 AVG — Niederschriften
 
@@ -315,11 +345,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-14-avg--niederschriften) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) \]
 
+----
+
 ### § 15 AVG
 
 > Soweit nicht Einwendungen erhoben wurden, liefert eine gemäß § 14 aufgenommene Niederschrift über den Verlauf und den Gegenstand der betreffenden Amtshandlung vollen Beweis\. Der Gegenbeweis der Unrichtigkeit des bezeugten Vorganges bleibt zulässig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-15-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) \]
+
+----
 
 ### § 16 AVG — Aktenvermerke
 
@@ -328,6 +362,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Aktenvermerk ist vom Amtsorgan unter Beisetzung des Datums zu unterschreiben; wurde der Aktenvermerk elektronisch erstellt, kann an die Stelle dieser Unterschrift ein Verfahren zum Nachweis der Identität \(§ 2 Z 1 E\-GovG\) des Amtsorgans und der Authentizität \(§ 2 Z 5 E\-GovG\) des Aktenvermerks treten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-16-avg--aktenvermerke) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) \]
+
+----
 
 ### § 17 AVG — Akteneinsicht
 
@@ -341,11 +377,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-17-avg--akteneinsicht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) \]
 
+----
+
 ### § 17a AVG — Blinde und hochgradig sehbehinderte Beteiligte
 
 > Blinden oder hochgradig sehbehinderten Beteiligten, die eines Vertreters entbehren, hat die Behörde auf Verlangen den Inhalt von Akten oder Aktenteilen durch Verlesung oder nach Maßgabe der vorhandenen technischen Möglichkeiten in sonst geeigneter Weise zur Kenntnis zu bringen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-17a-avg--blinde-und-hochgradig-sehbehinderte-beteiligte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) \]
+
+----
 
 ### § 18 AVG — Erledigungen
 
@@ -361,6 +401,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-18-avg--erledigungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) \]
 
+----
+
 ### § 19 AVG — Ladungen
 
 > `(1)` Die Behörde ist berechtigt, Personen, die in ihrem Amtsbereich ihren Aufenthalt \(Sitz\) haben und deren Erscheinen nötig ist, vorzuladen\.
@@ -373,11 +415,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-19-avg--ladungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) \]
 
+----
+
 ### § 20 AVG
 
 > Steht die zu ladende Person in einem öffentlichen Amt oder Dienst oder im Dienst eines dem öffentlichen Verkehr dienenden Unternehmens und muß voraussichtlich zur Wahrung der Sicherheit oder anderer öffentlicher Interessen eine Stellvertretung während der Verhinderung dieser Person eintreten, so ist gleichzeitig deren vorgesetzte Stelle von der Ladung zu benachrichtigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-20-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) \]
+
+----
 
 ## 4. Abschnitt: Zustellungen
 
@@ -387,11 +433,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-21-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) \]
 
+----
+
 ### § 22 AVG
 
 > Wenn wichtige Gründe hiefür vorliegen, ist eine schriftliche Ausfertigung mit Zustellnachweis zuzustellen\. Bei Vorliegen besonders wichtiger Gründe oder wenn es gesetzlich vorgesehen ist, ist die Zustellung zu eigenen Handen des Empfängers zu bewirken\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-22-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) \]
+
+----
 
 ### § 23 AVG
 
@@ -399,11 +449,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-23-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) \]
 
+----
+
 ### § 24 AVG
 
 > *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-24-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) \]
+
+----
 
 ### § 25 AVG
 
@@ -411,11 +465,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-25-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) \]
 
+----
+
 ### § 26 AVG
 
 > *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-26-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) \]
+
+----
 
 ### § 27 AVG
 
@@ -423,11 +481,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-27-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) \]
 
+----
+
 ### § 28 AVG
 
 > *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-28-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) \]
+
+----
 
 ### § 29 AVG
 
@@ -435,17 +497,23 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-29-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) \]
 
+----
+
 ### § 30 AVG
 
 > *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-30-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) \]
 
+----
+
 ### § 31 AVG
 
 > *\(Entfällt; Art\. III Abs\. 2 der Kundmachung\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-31-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) \]
+
+----
 
 ## 5. Abschnitt: Fristen
 
@@ -456,6 +524,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Nach Wochen, Monaten oder Jahren bestimmte Fristen enden mit dem Ablauf desjenigen Tages der letzten Woche oder des letzten Monats, der durch seine Benennung oder Zahl dem Tag entspricht, an dem die Frist begonnen hat\. Fehlt dieser Tag im letzten Monat, so endet die Frist mit Ablauf des letzten Tages dieses Monats\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-32-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) \]
+
+----
 
 ### § 33 AVG
 
@@ -473,6 +543,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-33-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) \]
 
+----
+
 ## 6. Abschnitt: Ordnungs- und Mutwillensstrafen
 
 ### § 34 AVG — Ordnungsstrafen
@@ -489,17 +561,23 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-34-avg--ordnungsstrafen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) \]
 
+----
+
 ### § 35 AVG — Mutwillensstrafen
 
 > Gegen Personen, die offenbar mutwillig die Tätigkeit der Behörde in Anspruch nehmen oder in der Absicht einer Verschleppung der Angelegenheit unrichtige Angaben machen, kann die Behörde eine Mutwillensstrafe bis 726 Euro verhängen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-35-avg--mutwillensstrafen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) \]
 
+----
+
 ### § 36 AVG — Widmung und Vollzug der Ordnungs- und Mutwillensstrafen
 
 > Die Ordnungs\- und Mutwillensstrafen fließen der Gebietskörperschaft zu, die den Aufwand der Behörde zu tragen hat\. Die Bestimmungen des Verwaltungsstrafgesetzes über den Strafvollzug sind sinngemäß anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-36-avg--widmung-und-vollzug-der-ordnungs--und-mutwillensstrafen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) \]
+
+----
 
 ## 7. Abschnitt: Begriffsbestimmungen
 
@@ -525,6 +603,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-36a-avg--angehörige) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) \]
 
+----
+
 ## II. Teil: Ermittlungsverfahren
 
 ## 1. Abschnitt: Zweck und Gang des Ermittlungsverfahrens
@@ -535,11 +615,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-37-avg--allgemeine-grundsätze) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) \]
 
+----
+
 ### § 38 AVG
 
 > Sofern die Gesetze nicht anderes bestimmen, ist die Behörde berechtigt, im Ermittlungsverfahren auftauchende Vorfragen, die als Hauptfragen von anderen Verwaltungsbehörden oder von den Gerichten zu entscheiden wären, nach der über die maßgebenden Verhältnisse gewonnenen eigenen Anschauung zu beurteilen und diese Beurteilung ihrem Bescheid zugrunde zu legen\. Sie kann aber auch das Verfahren bis zur rechtskräftigen Entscheidung der Vorfrage aussetzen, wenn die Vorfrage schon den Gegenstand eines anhängigen Verfahrens bei der zuständigen Verwaltungsbehörde bzw\. beim zuständigen Gericht bildet oder ein solches Verfahren gleichzeitig anhängig gemacht wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-38-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) \]
+
+----
 
 ### § 38a AVG
 
@@ -548,6 +632,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Erachtet die Behörde die noch nicht ergangene Vorabentscheidung für ihre Entscheidung in der Sache als nicht mehr erforderlich, so hat sie ihren Antrag unverzüglich zurückzuziehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-38a-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) \]
+
+----
 
 ### § 39 AVG
 
@@ -567,6 +653,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-39-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) \]
 
+----
+
 ### § 39a AVG — Dolmetscher und Übersetzer
 
 > `(1)` Ist eine Partei oder eine zu vernehmende Person der deutschen Sprache nicht hinreichend kundig, stumm, gehörlos oder hochgradig hörbehindert, so ist erforderlichenfalls der der Behörde beigegebene oder zur Verfügung stehende Dolmetscher \(Amtsdolmetscher\) beizuziehen\. Die §§ 52 Abs\. 2 bis 4 und 53 sind anzuwenden\.
@@ -574,6 +662,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Als Dolmetscher im Sinne dieses Bundesgesetzes gelten auch die Übersetzer\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-39a-avg--dolmetscher-und-übersetzer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) \]
+
+----
 
 ### § 40 AVG — Mündliche Verhandlung
 
@@ -583,6 +673,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-40-avg--mündliche-verhandlung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) \]
 
+----
+
 ### § 41 AVG
 
 > `(1)` Die Anberaumung einer mündlichen Verhandlung hat durch persönliche Verständigung der bekannten Beteiligten zu erfolgen\. Wenn noch andere Personen als Beteiligte in Betracht kommen, ist die Verhandlung überdies an der Amtstafel der Gemeinde, durch Verlautbarung in der für amtliche Kundmachungen der Behörde bestimmten Zeitung oder durch Verlautbarung im elektronischen Amtsblatt der Behörde kundzumachen\.
@@ -590,6 +682,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Verhandlung ist so anzuberaumen, dass die Teilnehmer rechtzeitig und vorbereitet erscheinen können\. Die Verständigung \(Kundmachung\) über die Anberaumung der Verhandlung hat die für Ladungen vorgeschriebenen Angaben einschließlich des Hinweises auf die gemäß § 42 eintretenden Folgen zu enthalten\. Sie kann unter Hinweis auf die gemäß § 39 Abs\. 3 eintretenden Folgen die Aufforderung an die Parteien enthalten, binnen einer angemessenen, vier Wochen möglichst nicht übersteigenden Frist alle ihnen bekannten Tatsachen und Beweismittel geltend zu machen\. Falls für Zwecke der Verhandlung Pläne oder sonstige Behelfe zur Einsicht der Beteiligten aufzulegen sind, ist dies bei der Anberaumung der Verhandlung unter Angabe von Zeit und Ort der Einsichtnahme bekanntzugeben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-41-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) \]
+
+----
 
 ### § 42 AVG
 
@@ -605,6 +699,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-42-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) \]
 
+----
+
 ### § 43 AVG
 
 > `(1)` Das mit der Leitung der mündlichen Verhandlung betraute Organ \(Verhandlungsleiter\) hat sich von der Identität der Erschienenen zu überzeugen und ihre Stellung als Parteien oder sonst Beteiligte und die etwaige Vertretungsbefugnis zu prüfen\.
@@ -619,6 +715,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-43-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) \]
 
+----
+
 ### § 43a AVG
 
 > `(1)` Über jede mündliche Verhandlung ist eine Verhandlungsschrift nach den §§ 14 und 15 aufzunehmen\.
@@ -628,6 +726,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Sobald die zulässigen Vorbringen aller Beteiligten aufgenommen sind und die Beweisaufnahme beendet ist, hat der Verhandlungsleiter die Verhandlung, gegebenenfalls nach Wiedergabe der Verhandlungsschrift \(§ 14 Abs\. 3\) und nach mündlicher Verkündung des Bescheides \(§ 62 Abs\. 2\), für geschlossen zu erklären\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-43a-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) \]
+
+----
 
 ### § 44 AVG
 
@@ -640,6 +740,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Niederschriften über Verhandlungen unter Verwendung technischer Einrichtungen zur Wort\- und Bildübertragung bedürfen nur der Unterschrift des Verhandlungsleiters und der persönlich erschienenen beigezogenen Personen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-44-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) \]
+
+----
 
 ### § 44a AVG — Großverfahren
 
@@ -659,6 +761,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-44a-avg--großverfahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) \]
 
+----
+
 ### § 44b AVG
 
 > `(1)` Wurde ein Antrag durch Edikt kundgemacht, so hat dies zur Folge, daß Personen ihre Stellung als Partei verlieren, soweit sie nicht rechtzeitig bei der Behörde schriftlich Einwendungen erheben\. § 42 Abs\. 3 ist sinngemäß anzuwenden\.
@@ -666,6 +770,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Antrag, die Antragsunterlagen und die vorliegenden Gutachten der Sachverständigen sind, soweit sie nicht von der Akteneinsicht ausgenommen sind, während der Einwendungsfrist bei der Behörde und bei der Gemeinde zur öffentlichen Einsicht aufzulegen\. Die Beteiligten können sich hievon Abschriften selbst anfertigen oder auf ihre Kosten Kopien oder Ausdrucke erstellen lassen\. Soweit die Behörde die die Sache betreffenden Akten elektronisch führt, kann den Beteiligten auf Verlangen die Akteneinsicht in jeder technisch möglichen Form gewährt werden\. Erforderlichenfalls hat die Behörde der Gemeinde eine ausreichende Anzahl von Kopien oder Ausdrucken zur Verfügung zu stellen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-44b-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) \]
+
+----
 
 ### § 44c AVG
 
@@ -676,6 +782,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Über die öffentliche Erörterung ist eine Niederschrift nicht zu erstellen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-44c-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) \]
+
+----
 
 ### § 44d AVG
 
@@ -689,6 +797,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-44d-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) \]
 
+----
+
 ### § 44e AVG
 
 > `(1)` Die durch Edikt anberaumte mündliche Verhandlung ist öffentlich\.
@@ -699,6 +809,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-44e-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) \]
 
+----
+
 ### § 44f AVG
 
 > `(1)` Ist der Antrag gemäß § 44a Abs\. 1 kundgemacht worden, so kann die Behörde Schriftstücke durch Edikt zustellen\. Hiezu hat sie gemäß § 44a Abs\. 3 zu verlautbaren, daß ein Schriftstück bestimmten Inhalts bei der Behörde zur öffentlichen Einsicht aufliegt; auf die Bestimmungen des Abs\. 2 ist hinzuweisen\. Mit Ablauf von zwei Wochen nach dieser Verlautbarung gilt das Schriftstück als zugestellt\.
@@ -707,11 +819,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-44f-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) \]
 
+----
+
 ### § 44g AVG
 
 > Die Kosten der Verlautbarung des Edikts im „Amtsblatt zur Wiener Zeitung“ sind von Amts wegen zu tragen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-44g-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) \]
+
+----
 
 ## 2. Abschnitt: Beweise
 
@@ -725,17 +841,23 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-45-avg--allgemeine-grundsätze-über-den-beweis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) \]
 
+----
+
 ### § 46 AVG
 
 > Als Beweismittel kommt alles in Betracht, was zur Feststellung des maßgebenden Sachverhaltes geeignet und nach Lage des einzelnen Falles zweckdienlich ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-46-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) \]
 
+----
+
 ### § 47 AVG — Urkunden
 
 > Die Beweiskraft von öffentlichen Urkunden und Privaturkunden ist von der Behörde nach den §§ 292 bis 294, 296, 310 und 311 ZPO zu beurteilen\. Dabei gilt § 292 Abs\. 1 erster Satz ZPO jedoch mit der Maßgabe, daß inländische öffentliche Urkunden den Beweis auch über jene Tatsachen und Rechtsverhältnisse liefern, die die Voraussetzung für ihre Ausstellung bildeten und in der Urkunde ausdrücklich genannt sind; wenn die Behörde im Hinblick auf die besonderen Umstände des Einzelfalles dagegen Bedenken hat, daß die Urkunde diesen Beweis liefert, so kann sie der Partei auftragen, den Beweis auf andere Weise zu führen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-47-avg--urkunden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) \]
+
+----
 
 ### § 48 AVG — Zeugen
 
@@ -748,6 +870,8 @@ Der Nationalrat hat beschlossen:
 >> `3.` mit Aufgaben der Bundes\-, Landes\- und Gemeindeverwaltung betraute Organe sowie Organe anderer Körperschaften des öffentlichen Rechts, wenn der Gegenstand ihrer Aussage der Amtsverschwiegenheit unterliegt und sie von der Pflicht zur Amtsverschwiegenheit nicht entbunden worden sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-48-avg--zeugen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) \]
+
+----
 
 ### § 49 AVG
 
@@ -769,11 +893,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-49-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) \]
 
+----
+
 ### § 50 AVG
 
 > Jeder Zeuge ist zu Beginn seiner Vernehmung über die für die Vernehmung maßgebenden persönlichen Verhältnisse zu befragen und zu ermahnen, die Wahrheit anzugeben und nichts zu verschweigen\. Er ist auch auf die gesetzlichen Gründe für die Verweigerung der Aussage, auf die Folgen einer ungerechtfertigten Verweigerung der Aussage und die strafrechtlichen Folgen einer falschen Aussage aufmerksam zu machen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-50-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) \]
+
+----
 
 ### § 51 AVG — Vernehmung von Beteiligten
 
@@ -781,11 +909,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-51-avg--vernehmung-von-beteiligten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) \]
 
+----
+
 ### § 51a AVG — Audiovisuelle Vernehmungen
 
 > Nach Maßgabe der technischen Möglichkeiten kann eine Vernehmung unter Verwendung technischer Einrichtungen zur Wort\- und Bildübertragung durchgeführt werden, es sei denn, das persönliche Erscheinen vor der Behörde ist unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder aus besonderen Gründen erforderlich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-51a-avg--audiovisuelle-vernehmungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) \]
+
+----
 
 ### § 52 AVG — Sachverständige
 
@@ -799,6 +931,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-52-avg--sachverständige) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) \]
 
+----
+
 ### § 53 AVG
 
 > `(1)` Auf Amtssachverständige ist § 7 anzuwenden\. Andere Sachverständige sind ausgeschlossen, wenn einer der Gründe des § 7 Abs\. 1 Z 1, 2 und 4 zutrifft; außerdem können sie von einer Partei abgelehnt werden, wenn diese Umstände glaubhaft macht, die die Unbefangenheit oder Fachkunde des Sachverständigen in Zweifel stellen\. Die Ablehnung kann vor der Vernehmung des Sachverständigen, später aber nur dann erfolgen, wenn die Partei glaubhaft macht, daß sie den Ablehnungsgrund vorher nicht erfahren oder wegen eines für sie unüberwindbaren Hindernisses nicht rechtzeitig geltend machen konnte\.
@@ -806,6 +940,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Entscheidung über den Ablehnungsantrag erfolgt durch Verfahrensanordnung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-53-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) \]
+
+----
 
 ### § 53a AVG — Gebühren der nichtamtlichen Sachverständigen
 
@@ -818,17 +954,23 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-53a-avg--gebühren-der-nichtamtlichen-sachverständigen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) \]
 
+----
+
 ### § 53b AVG — Gebühren der nichtamtlichen Dolmetscher
 
 > Nichtamtliche Dolmetscher haben für ihre Tätigkeit im Verfahren Anspruch auf Gebühren, die durch Verordnung der Bundesregierung in Pauschalbeträgen \(nach Tarifen\) festzusetzen sind\. Soweit keine solchen Pauschalbeträge \(Tarife\) festgesetzt sind, sind auf den Umfang der Gebühr die §§ 24 bis 34, 36 und 37 Abs\. 2 des Gebührenanspruchsgesetzes – GebAG, BGBl\. Nr\. 136/1975, mit den in § 53 Abs\. 1 GebAG genannten Besonderheiten und § 54 GebAG sinngemäß anzuwenden\. Unter nichtamtlichen Dolmetschern im Sinne dieses Bundesgesetzes sind auch die nichtamtlichen Übersetzer zu verstehen\. § 53a Abs\. 1 letzter Satz und Abs\. 2 und 3 ist sinngemäß anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-53b-avg--gebühren-der-nichtamtlichen-dolmetscher) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) \]
 
+----
+
 ### § 54 AVG — Augenschein
 
 > Zur Aufklärung der Sache kann die Behörde auf Antrag oder von Amts wegen auch einen Augenschein, nötigenfalls mit Zuziehung von Sachverständigen, vornehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-54-avg--augenschein) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) \]
+
+----
 
 ### § 55 AVG — Mittelbare Beweisaufnahmen und Erhebungen
 
@@ -838,11 +980,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-55-avg--mittelbare-beweisaufnahmen-und-erhebungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) \]
 
+----
+
 ### § 55a AVG — Amtshilfe
 
 > Soweit dies für die Durchführung des Ermittlungsverfahrens erforderlich und nicht unverhältnismäßig ist, kann die Behörde die Kriminalpolizei, die Staatsanwaltschaften und die Gerichte um die Übermittlung von nach der Strafprozessordnung 1975 – StPO, BGBl\. Nr\. 631/1975, ermittelten personenbezogenen Daten ersuchen und die ihr übermittelten personenbezogenen Daten verarbeiten\. Ein solches Ersuchen hat alle erforderlichen Angaben, einschließlich des Zwecks der Datenverarbeitung, zu enthalten und ist zu begründen\. Dem Ersuchen ist ehestmöglich zu entsprechen oder es sind entgegenstehende Hindernisse unverzüglich bekannt zu geben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-55a-avg--amtshilfe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) \]
+
+----
 
 ## III. Teil: Bescheide
 
@@ -851,6 +997,8 @@ Der Nationalrat hat beschlossen:
 > Der Erlassung eines Bescheides hat, wenn es sich nicht um eine Ladung \(§ 19\) oder einen Bescheid nach § 57 handelt, die Feststellung des maßgebenden Sachverhaltes, soweit er nicht von vornherein klar gegeben ist, nach den §§ 37 und 39 voranzugehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-56-avg--erlassung-von-bescheiden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) \]
+
+----
 
 ### § 57 AVG
 
@@ -862,6 +1010,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-57-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) \]
 
+----
+
 ### § 58 AVG — Inhalt und Form der Bescheide
 
 > `(1)` Jeder Bescheid ist ausdrücklich als solcher zu bezeichnen und hat den Spruch und die Rechtsmittelbelehrung zu enthalten\.
@@ -872,11 +1022,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-58-avg--inhalt-und-form-der-bescheide) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) \]
 
+----
+
 ### § 58a AVG
 
 > In verbundenen Verfahren \(§ 39 Abs\. 2b\) hat die Behörde über die nach den Verwaltungsvorschriften erforderlichen Bewilligungen oder Genehmigungen in einem Bescheid zu entscheiden\. Der Spruch des Bescheides ist nach den jeweils angewendeten Verwaltungsvorschriften in Spruchpunkte zu gliedern\. Die Behörde kann über einzelne oder mehrere Bewilligungen oder Genehmigungen gesondert absprechen, wenn dies zweckmäßig erscheint\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-58a-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) \]
+
+----
 
 ### § 59 AVG
 
@@ -886,11 +1040,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-59-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) \]
 
+----
+
 ### § 60 AVG
 
 > In der Begründung sind die Ergebnisse des Ermittlungsverfahrens, die bei der Beweiswürdigung maßgebenden Erwägungen und die darauf gestützte Beurteilung der Rechtsfrage klar und übersichtlich zusammenzufassen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-60-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) \]
+
+----
 
 ### § 61 AVG
 
@@ -905,6 +1063,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-61-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) \]
 
+----
+
 ### § 62 AVG
 
 > `(1)` Wenn in den Verwaltungsvorschriften nicht anderes bestimmt ist, können Bescheide sowohl schriftlich als auch mündlich erlassen werden\.
@@ -916,6 +1076,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Schreib\- und Rechenfehler oder diesen gleichzuhaltende, offenbar auf einem Versehen oder offenbar ausschließlich auf technisch mangelhaftem Betrieb einer automationsunterstützten Datenverarbeitungsanlage beruhende Unrichtigkeiten in Bescheiden kann die Behörde jederzeit von Amts wegen berichtigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-62-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) \]
+
+----
 
 ## IV. Teil: Rechtsschutz
 
@@ -935,6 +1097,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-63-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) \]
 
+----
+
 ### § 64 AVG
 
 > `(1)` Eine rechtzeitig eingebrachte und zulässige Berufung hat aufschiebende Wirkung\.
@@ -942,6 +1106,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Behörde kann die aufschiebende Wirkung mit Bescheid ausschließen, wenn nach Abwägung der berührten öffentlichen Interessen und Interessen anderer Parteien der vorzeitige Vollzug des angefochtenen Bescheides oder die Ausübung der durch den angefochtenen Bescheid eingeräumten Berechtigung wegen Gefahr im Verzug dringend geboten ist\. Ein solcher Ausspruch ist tunlichst schon in den über die Hauptsache ergehenden Bescheid aufzunehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-64-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) \]
+
+----
 
 ### § 64a AVG
 
@@ -953,11 +1119,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-64a-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) \]
 
+----
+
 ### § 65 AVG
 
 > Werden in einer Berufung neue Tatsachen oder Beweise, die der Behörde erheblich scheinen, vorgebracht, so hat sie hievon unverzüglich den etwaigen Berufungsgegnern Mitteilung zu machen und ihnen Gelegenheit zu geben, binnen angemessener, zwei Wochen nicht übersteigender Frist vom Inhalt der Berufung Kenntnis zu nehmen und sich dazu zu äußern\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-65-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) \]
+
+----
 
 ### § 66 AVG
 
@@ -971,11 +1141,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-66-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) \]
 
+----
+
 ### § 67 AVG
 
 > Der III\. Teil gilt auch für die Bescheide der Berufungsbehörde, doch ist der Spruch auch dann zu begründen, wenn dem Berufungsantrag stattgegeben wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-67-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) \]
+
+----
 
 ## 2. Abschnitt: Sonstige Abänderung von Bescheiden
 
@@ -1005,6 +1179,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-68-avg--abänderung-und-behebung-von-amts-wegen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) \]
 
+----
+
 ### § 69 AVG — Wiederaufnahme des Verfahrens
 
 > `(1)` Dem Antrag einer Partei auf Wiederaufnahme eines durch Bescheid abgeschlossenen Verfahrens ist stattzugeben, wenn ein Rechtsmittel gegen den Bescheid nicht oder nicht mehr zulässig ist und:
@@ -1025,6 +1201,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-69-avg--wiederaufnahme-des-verfahrens) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) \]
 
+----
+
 ### § 70 AVG
 
 > `(1)` In dem die Wiederaufnahme bewilligenden oder verfügenden Bescheid ist, sofern nicht schon auf Grund der vorliegenden Akten ein neuer Bescheid erlassen werden kann, auszusprechen, inwieweit und in welcher Instanz das Verfahren wieder aufzunehmen ist\.
@@ -1033,6 +1211,8 @@ Der Nationalrat hat beschlossen:
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 33/2013\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-70-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) \]
+
+----
 
 ### § 71 AVG — Wiedereinsetzung in den vorigen Stand
 
@@ -1056,6 +1236,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-71-avg--wiedereinsetzung-in-den-vorigen-stand) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) \]
 
+----
+
 ### § 72 AVG
 
 > `(1)` Durch die Bewilligung der Wiedereinsetzung tritt das Verfahren in die Lage zurück, in der es sich vor dem Eintritt der Versäumung befunden hat\.
@@ -1066,6 +1248,8 @@ Der Nationalrat hat beschlossen:
 > *\(Anm\.: Abs\. 4 aufgehoben durch BGBl\. I Nr\. 33/2013\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-72-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) \]
+
+----
 
 ## 3. Abschnitt: Entscheidungspflicht
 
@@ -1079,6 +1263,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-73-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) \]
 
+----
+
 ## V. Teil: Kosten
 
 ### § 74 AVG — Kosten der Beteiligten
@@ -1089,6 +1275,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-74-avg--kosten-der-beteiligten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) \]
 
+----
+
 ### § 75 AVG — Kosten der Behörden
 
 > `(1)` Sofern sich aus den §§ 76 bis 78 nicht anderes ergibt, sind die Kosten für die Tätigkeit der Behörden im Verwaltungsverfahren von Amts wegen zu tragen\.
@@ -1098,6 +1286,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die gesetzlichen Bestimmungen über die Stempel\- und Rechtsgebühren des Bundes bleiben unberührt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-75-avg--kosten-der-behörden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) \]
+
+----
 
 ### § 76 AVG
 
@@ -1112,6 +1302,8 @@ Der Nationalrat hat beschlossen:
 > `(5)` Die Kosten, die der Behörde aus ihrer Verpflichtung nach § 17a erwachsen, sowie die den Sachverständigen und Dolmetschern zustehenden Gebühren sind – falls hiefür nicht die Beteiligten des Verfahrens aufzukommen haben – von jenem Rechtsträger zu tragen, in dessen Namen die Behörde in der Angelegenheit gehandelt hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-76-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) \]
+
+----
 
 ### § 77 AVG
 
@@ -1129,6 +1321,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-77-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) \]
 
+----
+
 ### § 78 AVG
 
 > `(1)` Den Parteien können in den Angelegenheiten der Bundesverwaltung \(unmittelbare oder mittelbare Bundesverwaltung, übertragener Wirkungsbereich der Gemeinden in Bundesangelegenheiten\) für die Verleihung von Berechtigungen oder sonstige wesentlich in ihrem Privatinteresse liegende Amtshandlungen der Behörden Bundesverwaltungsabgaben auferlegt werden, sofern die Freiheit von derlei Abgaben nicht ausdrücklich durch Gesetz festgesetzt ist\. Wenn ein im Verwaltungsverfahren als Partei auftretender Rechtsträger zur Vollziehung der Gesetze berufen ist, so unterliegt er insoweit der Verpflichtung zur Entrichtung von Bundesverwaltungsabgaben nicht, als die Amtshandlung eine unmittelbare Voraussetzung der dem Rechtsträger obliegenden Vollziehung der Gesetze bildet\. Die Gebietskörperschaften unterliegen ferner der Verpflichtung zur Entrichtung einer Bundesverwaltungsabgabe nicht, wenn diese der als Partei einschreitenden Gebietskörperschaft zufließen würde\.
@@ -1143,6 +1337,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-78-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) \]
 
+----
+
 ### § 78a AVG
 
 > Von den Bundesverwaltungsabgaben befreit sind
@@ -1155,11 +1351,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-78a-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) \]
 
+----
+
 ### § 79 AVG
 
 > Die in den §§ 76 bis 78 vorgesehenen Leistungen sind nur insoweit einzuheben, als dadurch der notwendige Unterhalt des Beteiligten und der Personen, für die er nach dem Gesetz zu sorgen hat, nicht gefährdet wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-79-avg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) \]
+
+----
 
 ## VI. Teil: Schlußbestimmungen
 
@@ -1169,17 +1369,23 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-80-avg--verweisungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) \]
 
+----
+
 ### § 80a AVG — Sprachliche Gleichbehandlung
 
 > Soweit sich die in diesem Bundesgesetz verwendeten Bezeichnungen auf natürliche Personen beziehen, gilt die gewählte Form für beide Geschlechter\. Bei der Anwendung dieser Bezeichnungen auf bestimmte natürliche Personen ist die jeweils geschlechtsspezifische Form zu verwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-80a-avg--sprachliche-gleichbehandlung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) \]
 
+----
+
 ### § 81 AVG — Vollziehung
 
 > Mit der Vollziehung dieses Bundesgesetzes ist die Bundesregierung betraut\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-81-avg--vollziehung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) \]
+
+----
 
 ### § 82 AVG — Inkrafttreten
 
@@ -1255,3 +1461,7 @@ Der Nationalrat hat beschlossen:
 > `(25)` § 55a samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 tritt mit Ablauf des Tages der Kundmachung des genannten Bundesgesetzes in Kraft\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md#-82-avg--inkrafttreten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) \]
+
+----
+
+*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) zu dieser Rechtsvorschrift.)*

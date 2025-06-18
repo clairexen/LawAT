@@ -5,8 +5,8 @@
 **Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md  
-*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+**RisEn-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md  
+*Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Inhaltsverzeichnis
 
@@ -1692,6 +1692,8 @@
 * [§ 1503 ABGB — Inkrafttreten und Übergangsbestimmungen ab 1. Februar 2013](#-1503-abgb--inkrafttreten-und-übergangsbestimmungen-ab-1-februar-2013)
 
 
+----
+
 ## Einleitung.
 
 ## Von den bürgerlichen Gesetzen überhaupt.
@@ -1702,11 +1704,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1-abgb--begriff-des-bürgerlichen-rechtes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) \]
 
+----
+
 ### § 2 ABGB
 
 > Sobald ein Gesetz gehörig kund gemacht worden ist, kann sich niemand damit entschuldigen, daß ihm dasselbe nicht bekannt geworden sey\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-2-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) \]
+
+----
 
 ### § 3 ABGB — Anfang der Wirksamkeit der Gesetze
 
@@ -1714,11 +1720,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-3-abgb--anfang-der-wirksamkeit-der-gesetze) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) \]
 
+----
+
 ### § 5 ABGB
 
 > Gesetze wirken nicht zurück; sie haben daher auf vorhergegangene Handlungen und auf vorher erworbene Rechte keinen Einfluß\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-5-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) \]
+
+----
 
 ### § 6 ABGB — Auslegung
 
@@ -1726,11 +1736,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-6-abgb--auslegung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) \]
 
+----
+
 ### § 7 ABGB
 
 > Läßt sich ein Rechtsfall weder aus den Worten, noch aus dem natürlichen Sinne eines Gesetzes entscheiden, so muß auf ähnliche, in den Gesetzen bestimmt entschiedene Fälle, und auf die Gründe anderer damit verwandten Gesetze Rücksicht genommen werden\. Bleibt der Rechtsfall noch zweifelhaft; so muß solcher mit Hinsicht auf die sorgfältig gesammelten und reiflich erwogenen Umstände nach den natürlichen Rechtsgrundsätzen entschieden werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-7-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) \]
+
+----
 
 ### § 8 ABGB
 
@@ -1738,11 +1752,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-8-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) \]
 
+----
+
 ### § 9 ABGB — Dauer des Gesetzes
 
 > Gesetze behalten so lange ihre Kraft, bis sie von dem Gesetzgeber abgeändert oder ausdrücklich aufgehoben werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-9-abgb--dauer-des-gesetzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) \]
+
+----
 
 ## Andere Arten der Vorschriften, als:
 
@@ -1752,11 +1770,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-10-abgb--a-gewohnheiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) \]
 
+----
+
 ### § 11 ABGB — b) Provinzial-Statuten
 
 > Nur jene Statuten einzelner Provinzen und Landesbezirke haben Gesetzeskraft, welche nach der Kundmachung dieses Gesetzbuches von dem Landesfürsten ausdrücklich bestätigt werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-11-abgb--b-provinzial-statuten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) \]
+
+----
 
 ### § 12 ABGB — c) Richterliche Aussprüche
 
@@ -1764,17 +1786,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-12-abgb--c-richterliche-aussprüche) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) \]
 
+----
+
 ### § 13 ABGB — d) Privilegien
 
 > Die einzelnen Personen oder auch ganzen Körpern verliehenen Privilegien und Befreyungen sind, in so fern hierüber die politischen Verordnungen keine besondere Bestimmung enthalten, gleich den übrigen Rechten zu beurtheilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-13-abgb--d-privilegien) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) \]
 
+----
+
 ### § 14 ABGB — Haupteintheilung des bürgerlichen Rechtes
 
 > Die in dem bürgerlichen Gesetzbuche enthaltenen Vorschriften haben das Personen\-Recht, das Sachenrecht und die denselben gemeinschaftlich zukommenden Bestimmungen zum Gegenstande\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-14-abgb--haupteintheilung-des-bürgerlichen-rechtes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) \]
+
+----
 
 ## Erster Theil.
 
@@ -1790,6 +1818,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-15-abgb--personen-rechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) \]
 
+----
+
 ## I. Aus dem Charakter der Persönlichkeit.
 
 ### § 16 ABGB — Angeborne Rechte
@@ -1798,11 +1828,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-16-abgb--angeborne-rechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) \]
 
+----
+
 ### § 17 ABGB — Rechtliche Vermuthung derselben
 
 > Was den angebornen natürlichen Rechten angemessen ist, dieses wird so lange als bestehend angenommen, als die gesetzmäßige Beschränkung dieser Rechte nicht bewiesen wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-17-abgb--rechtliche-vermuthung-derselben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) \]
+
+----
 
 ### § 17a ABGB — Wahrnehmung der Persönlichkeitsrechte
 
@@ -1814,17 +1848,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-17a-abgb--wahrnehmung-der-persönlichkeitsrechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) \]
 
+----
+
 ### § 18 ABGB — Erwerbliche Rechte
 
 > Jedermann ist unter den von den Gesetzen vorgeschriebenen Bedingungen fähig, Rechte zu erwerben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-18-abgb--erwerbliche-rechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) \]
 
+----
+
 ### § 19 ABGB — Verfolgung der Rechte
 
 > Jedem, der sich in seinem Rechte gekränkt zu seyn erachtet, steht es frey, seine Beschwerde vor der durch die Gesetze bestimmten Behörde anzubringen\. Wer sich aber mit Hintansetzung derselben der eigenmächtigen Hülfe bedienet, oder, wer die Gränzen der Nothwehre überschreitet, ist dafür verantwortlich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-19-abgb--verfolgung-der-rechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) \]
+
+----
 
 ### § 20 ABGB — Unterlassungs- und Beseitigungsanspruch
 
@@ -1836,6 +1876,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-20-abgb--unterlassungs--und-beseitigungsanspruch) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) \]
 
+----
+
 ### § 21 ABGB — II. Personenrechte der Minderjährigen und sonstiger schutzberechtigter Personen
 
 > `(1)` Minderjährige und Personen, die aus einem anderen Grund als dem ihrer Minderjährigkeit alle oder einzelne ihrer Angelegenheiten selbst gehörig zu besorgen nicht vermögen, stehen unter dem besonderen Schutz der Gesetze\. Sie heißen schutzberechtigte Personen\.
@@ -1844,17 +1886,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-21-abgb--ii-personenrechte-der-minderjährigen-und-sonstiger-schutzberechtigter-personen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) \]
 
+----
+
 ### § 22 ABGB
 
 > Selbst ungeborne Kinder haben von dem Zeitpuncte ihrer Empfängniß an, einen Anspruch auf den Schutz der Gesetze\. In so weit es um ihre und nicht um die Rechte eines Dritten zu thun ist, werden sie als Geborne angesehen; ein todtgebornes Kind aber wird in Rücksicht auf die ihm für den Lebensfall vorbehaltenen Rechte so betrachtet, als wäre es nie empfangen worden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-22-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) \]
 
+----
+
 ### § 23 ABGB
 
 > In zweifelhaftem Falle, ob ein Kind lebendig oder todt geboren worden sey, wird das Erstere vermuthet\. Wer das Gegentheil behauptet, muß es beweisen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-23-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) \]
+
+----
 
 ### § 24 ABGB — III. Handlungs- und Entscheidungsfähigkeit
 
@@ -1864,6 +1912,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-24-abgb--iii-handlungs--und-entscheidungsfähigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) \]
 
+----
+
 ## IV. Aus dem Verhältnisse einer moralischen Person.
 
 ### § 26 ABGB
@@ -1872,11 +1922,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-26-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) \]
 
+----
+
 ### § 27 ABGB
 
 > In wie fern Gemeinden in Rücksicht ihrer Rechte unter einer besonderen Vorsorge der öffentlichen Verwaltung stehen, ist in den politischen Gesetzen enthalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-27-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) \]
+
+----
 
 ## V. Aus dem Verhältnisse eines Staatsbürgers.
 
@@ -1886,17 +1940,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-28-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) \]
 
+----
+
 ### § 33 ABGB — Rechte der Fremden
 
 > Den Fremden kommen überhaupt gleiche bürgerliche Rechte und Verbindlichkeiten mit den Eingebornen zu, wenn nicht zu dem Genusse dieser Rechte ausdrücklich die Eigenschaft eines Staatsbürgers erfordert wird\. Auch müssen die Fremden, um gleiches Recht mit den Eingebornen zu genießen, in zweifelhaften Fällen beweisen, daß der Staat, dem sie angehören, die hierländigen Staatsbürger in Rücksicht des Rechtes, wovon die Frage ist, ebenfalls wie die seinigen behandle\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-33-abgb--rechte-der-fremden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) \]
 
+----
+
 ### § 38 ABGB
 
 > Die Gesandten, die öffentlichen Geschäftsträger und die in ihren Diensten stehenden Personen genießen die in dem Völkerrechte und in den öffentlichen Verträgen gegründeten Befreyungen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-38-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) \]
+
+----
 
 ## VI. Personen-Rechte aus dem Religionsverhältnisse.
 
@@ -1906,6 +1966,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-39-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) \]
 
+----
+
 ## VII. Aus dem Familien-Verhältnisse Familie, Verwandtschaft und Schwägerschaft.
 
 ### § 40 ABGB
@@ -1914,17 +1976,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-40-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) \]
 
+----
+
 ### § 41 ABGB
 
 > Die Grade der Verwandtschaft zwischen zwey Personen sind nach der Zahl der Zeugungen, mittelst welcher in der geraden Linie eine derselben von der andern, und in der Seitenlinie beyde von ihrem nächsten gemeinschaftlichen Stamme abhängen, zu bestimmen\. In welcher Linie und in welchem Grade jemand mit dem einen Ehegatten verwandt ist, in eben der Linie und in eben dem Grade ist er mit dem andern Ehegatten verschwägert\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-41-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) \]
 
+----
+
 ### § 42 ABGB
 
 > Unter den Nahmen Aeltern werden in der Regel ohne Unterschied des Grades alle Verwandte in der aufsteigenden; und unter dem Nahmen Kinder, alle Verwandte in der absteigenden Linie begriffen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-42-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) \]
+
+----
 
 ## VIII. Schutz des Namens
 
@@ -1933,6 +2001,8 @@
 > Wird jemandem das Recht zur Führung seines Namens bestritten oder wird er durch unbefugten Gebrauch seines Namens \(Decknamens\) beeinträchtigt, so kann er auf Unterlassung und bei Verschulden auf Schadenersatz klagen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-43-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) \]
+
+----
 
 ## Zweytes Hauptstück.
 
@@ -1944,11 +2014,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-44-abgb--begriff-der-ehe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) \]
 
+----
+
 ### § 45 ABGB — und des Eheverlöbnisses
 
 > Ein Eheverlöbniß oder ein vorläufiges Versprechen, sich zu ehelichen, unter was für Umständen oder Bedingungen es gegeben oder erhalten worden, zieht keine rechtliche Verbindlichkeit nach sich, weder zur Schließung der Ehe selbst, noch zur Leistung desjenigen, was auf den Fall des Rücktrittes bedungen worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-45-abgb--und-des-eheverlöbnisses) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) \]
+
+----
 
 ### § 46 ABGB — Rechtliche Wirkung des Rücktrittes vom Eheverlöbnisse
 
@@ -1956,11 +2030,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-46-abgb--rechtliche-wirkung-des-rücktrittes-vom-eheverlöbnisse) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) \]
 
+----
+
 ### § 89 ABGB — Persönliche Rechtswirkungen der Ehe
 
 > Die persönlichen Rechte und Pflichten der Ehegatten im Verhältnis zueinander sind, soweit in diesem Hauptstück nicht anderes bestimmt ist, gleich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-89-abgb--persönliche-rechtswirkungen-der-ehe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) \]
+
+----
 
 ### § 90 ABGB
 
@@ -1972,6 +2050,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-90-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) \]
 
+----
+
 ### § 91 ABGB
 
 > `(1)` Die Ehegatten sollen ihre eheliche Lebensgemeinschaft, besonders die Haushaltsführung, die Erwerbstätigkeit, die Leistung des Beistandes und die Obsorge, unter Rücksichtnahme aufeinander und auf das Wohl der Kinder mit dem Ziel voller Ausgewogenheit ihrer Beiträge einvernehmlich gestalten\.
@@ -1979,6 +2059,8 @@
 > `(2)` Von einer einvernehmlichen Gestaltung kann ein Ehegatte abgehen, wenn dem nicht ein wichtiges Anliegen des anderen oder der Kinder entgegensteht oder, auch wenn ein solches Anliegen vorliegt, persönliche Gründe des Ehegatten, besonders sein Wunsch nach Aufnahme einer Erwerbstätigkeit, als gewichtiger anzusehen sind\. In diesen Fällen haben sich die Ehegatten um ein Einvernehmen über die Neugestaltung der ehelichen Lebensgemeinschaft zu bemühen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-91-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) \]
+
+----
 
 ### § 92 ABGB
 
@@ -1989,6 +2071,8 @@
 > `(3)` In den Fällen der Abs\. 1 und 2 kann jeder der Ehegatten vor oder auch nach der Verlegung der Wohnung oder der gesonderten Wohnungnahme die Entscheidung des Gerichtes beantragen\. Das Gericht hat im Verfahren außer Streitsachen festzustellen, ob das Verlangen auf Verlegung der gemeinsamen Wohnung oder die Weigerung mitzuziehen oder die gesonderte Wohnungnahme durch einen Ehegatten rechtmäßig war oder ist\. Es hat bei der Entscheidung auf die gesamten Umstände der Familie, besonders auf das Wohl der Kinder, Bedacht zu nehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-92-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) \]
+
+----
 
 ### § 93 ABGB — Name
 
@@ -2002,6 +2086,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-93-abgb--name) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) \]
 
+----
+
 ### § 93a ABGB
 
 > `(1)` Ändert sich der Familienname eines Ehegatten, so kann eine erneute Bestimmung vorgenommen werden\.
@@ -2012,17 +2098,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-93a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) \]
 
+----
+
 ### § 93b ABGB
 
 > Die Bestimmung oder Wiederannahme eines Familiennamens nach den §§ 93 und 93a ist nur einmalig zulässig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-93b-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) \]
 
+----
+
 ### § 93c ABGB
 
 > Namensrechtliche Erklärungen sind dem Standesbeamten gegenüber in öffentlicher oder öffentlich beglaubigter Urkunde abzugeben\. Ihre Wirkungen treten ein, sobald sie dem Standesbeamten zukommen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-93c-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) \]
+
+----
 
 ### § 94 ABGB — Sonstige Wirkungen der Ehe
 
@@ -2034,11 +2126,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-94-abgb--sonstige-wirkungen-der-ehe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) \]
 
+----
+
 ### § 95 ABGB
 
 > Die Ehegatten haben an der Führung des gemeinsamen Haushalts nach ihren persönlichen Verhältnissen, besonders unter Berücksichtigung ihrer beruflichen Belastung, mitzuwirken\. Ist jedoch ein Ehegatte nicht erwerbstätig, so obliegt diesem die Haushaltsführung; der andere ist nach Maßgabe des § 91 zur Mithilfe verpflichtet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-95-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) \]
+
+----
 
 ### § 96 ABGB
 
@@ -2046,11 +2142,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-96-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) \]
 
+----
+
 ### § 97 ABGB
 
 > Ist ein Ehegatte über die Wohnung, die der Befriedigung des dringenden Wohnbedürfnisses des anderen Ehegatten dient, verfügungsberechtigt, so hat dieser einen Anspruch darauf, daß der verfügungsberechtigte Ehegatte alles unterlasse und vorkehre, damit der auf die Wohnung angewiesene Ehegatte diese nicht verliere\. Dies gilt nicht, wenn das Handeln oder Unterlassen des verfügungsberechtigten Ehegatten durch die Umstände erzwungen wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-97-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) \]
+
+----
 
 ### § 98 ABGB
 
@@ -2058,17 +2158,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-98-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) \]
 
+----
+
 ### § 99 ABGB
 
 > Ansprüche auf Abgeltung der Mitwirkung eines Ehegatten im Erwerb des anderen \(§ 98\) sind vererblich, unter Lebenden oder von Todes wegen übertragbar und verpfändbar, soweit sie durch Vertrag oder Vergleich anerkannt oder gerichtlich geltend gemacht worden sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-99-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) \]
 
+----
+
 ### § 100 ABGB
 
 > Der § 98 berührt nicht vertragliche Ansprüche eines Ehegatten an den anderen aus einem Mit\- oder Zusammenwirken im Erwerb\. Solche Ansprüche schließen einen Anspruch nach § 98 aus; bei einem Dienstverhältnis bleibt dem Ehegatten jedoch der Anspruch nach § 98 gewahrt, soweit er seine Ansprüche aus dem Dienstverhältnis übersteigt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-100-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) \]
+
+----
 
 ## Drittes Hauptstück
 
@@ -2085,6 +2191,8 @@
 > `(2)` Eltern haben das Wohl ihrer minderjährigen Kinder zu fördern, ihnen Fürsorge, Geborgenheit und eine sorgfältige Erziehung zu gewähren\. Die Anwendung jeglicher Gewalt und die Zufügung körperlichen oder seelischen Leides sind unzulässig\. Soweit tunlich und möglich sollen die Eltern die Obsorge einvernehmlich wahrnehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-137-abgb--allgemeine-grundsätze) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) \]
+
+----
 
 ### § 138 ABGB — Kindeswohl
 
@@ -2116,6 +2224,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-138-abgb--kindeswohl) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) \]
 
+----
+
 ### § 139 ABGB
 
 > `(1)` Dritte dürfen in die elterlichen Rechte nur insoweit eingreifen, als ihnen dies durch die Eltern selbst, unmittelbar auf Grund des Gesetzes oder durch eine behördliche Verfügung gestattet ist\.
@@ -2123,6 +2233,8 @@
 > `(2)` Eine mit einem Elternteil und dessen minderjährigem Kind nicht nur vorübergehend im gemeinsamen Haushalt lebende volljährige Person, die in einem familiären Verhältnis zum Elternteil steht, hat alles den Umständen nach Zumutbare zu tun, um das Kindeswohl zu schützen\. Soweit es die Umstände erfordern, vertritt sie den Elternteil auch in Obsorgeangelegenheiten des täglichen Lebens\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-139-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) \]
+
+----
 
 ## Zweiter Abschnitt
 
@@ -2136,6 +2248,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-140-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) \]
 
+----
+
 ### § 141 ABGB — Handlungsfähigkeit in Abstammungsangelegenheiten
 
 > `(1)` Eine Person kann in Angelegenheiten ihrer Abstammung und der Abstammung von ihr rechtswirksam handeln, wenn sie entscheidungsfähig ist\. Im Zweifel wird das Vorliegen der Entscheidungsfähigkeit bei mündigen Minderjährigen vermutet\.
@@ -2148,11 +2262,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-141-abgb--handlungsfähigkeit-in-abstammungsangelegenheiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) \]
 
+----
+
 ### § 142 ABGB — Rechtsnachfolge in Abstammungsangelegenheiten
 
 > Nach dem Tod der betroffenen Person kann die Feststellung der Abstammung, deren Änderung oder die Feststellung der Nichtabstammung von den Rechtsnachfolgern oder gegen diese bewirkt werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-142-abgb--rechtsnachfolge-in-abstammungsangelegenheiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) \]
+
+----
 
 ## b) Abstammung von der Mutter
 
@@ -2161,6 +2279,8 @@
 > Mutter ist die Frau, die das Kind geboren hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-143-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) \]
+
+----
 
 ## c) Abstammung
 
@@ -2188,6 +2308,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-144-abgb--abstammung-vom-vater-und-vom-anderen-elternteil) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) \]
 
+----
+
 ### § 145 ABGB — Anerkenntnis des Vaters und des anderen Elternteils
 
 > `(1)` Die Vaterschaft oder Elternschaft wird durch persönliche Erklärung in inländischer öffentlicher oder öffentlich\-beglaubigter Urkunde anerkannt\. Das Anerkenntnis wirkt ab dem Zeitpunkt der Erklärung, sofern die Urkunde oder ihre öffentlich\-beglaubigte Abschrift dem Standesbeamten zukommt\.
@@ -2198,6 +2320,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-145-abgb--anerkenntnis-des-vaters-und-des-anderen-elternteils) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) \]
 
+----
+
 ### § 146 ABGB
 
 > `(1)` Das Kind oder die Mutter, sofern sie entscheidungsfähig sowie am Leben ist, können gegen das Anerkenntnis innerhalb von zwei Jahren ab Kenntnis von dessen Rechtswirksamkeit bei Gericht Widerspruch erheben\.
@@ -2205,6 +2329,8 @@
 > `(2)` Der Lauf der Frist ist gehemmt, solange die zum Widerspruch berechtigte Person minderjährig oder nicht entscheidungsfähig ist oder innerhalb des letzten Jahres der Frist durch ein unvorhergesehenes oder unabwendbares Ereignis am Widerspruch gehindert ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-146-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) \]
+
+----
 
 ### § 147 ABGB
 
@@ -2217,6 +2343,8 @@
 > `(4)` Für die Zustimmung des minderjährigen Kindes ist der Kinder\- und Jugendhilfeträger gesetzlicher Vertreter des Kindes\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-147-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) \]
+
+----
 
 ### § 148 ABGB — Gerichtliche Feststellung der Vaterschaft
 
@@ -2234,6 +2362,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-148-abgb--gerichtliche-feststellung-der-vaterschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) \]
 
+----
+
 ### § 149 ABGB
 
 > `(1)` Der gesetzliche Vertreter hat dafür zu sorgen, dass die Vaterschaft festgestellt wird, es sei denn, dass die Feststellung der Vaterschaft für das Wohl des Kindes nachteilig ist oder die Mutter von ihrem Recht, den Namen des Vaters nicht bekanntzugeben, Gebrauch macht\.
@@ -2242,11 +2372,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-149-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) \]
 
+----
+
 ### § 150 ABGB — Vaterschaftsfeststellung bei bestehender Abstammung
 
 > Das Kind kann die Feststellung seiner Abstammung auch beantragen, wenn die Vaterschaft eines anderen Mannes bereits feststeht\. In einem solchen Fall hat die Feststellung der Abstammung die vom Gericht auszusprechende Wirkung, dass das Kind nicht vom anderen Mann abstammt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-150-abgb--vaterschaftsfeststellung-bei-bestehender-abstammung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) \]
+
+----
 
 ### § 151 ABGB — Feststellung der Nichtabstammung vom Ehemann der Mutter
 
@@ -2256,17 +2390,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-151-abgb--feststellung-der-nichtabstammung-vom-ehemann-der-mutter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) \]
 
+----
+
 ### § 152 ABGB
 
 > Hat der Ehemann der Mutter einer medizinisch unterstützten Fortpflanzung mit dem Samen eines Dritten in Form eines Notariatsakts zugestimmt, so kann nicht die Feststellung begehrt werden, dass das mit dem Samen des Dritten gezeugte Kind nicht vom Ehemann der Mutter abstammt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-152-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) \]
 
+----
+
 ### § 152a ABGB
 
 > Hat die Person, die mit der Mutter zu den in § 144 Abs\. 1 und 2 angegebenen Zeitpunkten verheiratet ist oder in eingetragener Partnerschaft lebt, einer nicht\-medizinisch unterstützten Fortpflanzung mit dem Samen einer dritten Person zugestimmt, so kann nicht die Feststellung begehrt werden, dass das mit dem Samen des Dritten gezeugte Kind nicht von ihr abstammt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-152a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) \]
+
+----
 
 ### § 153 ABGB
 
@@ -2277,6 +2417,8 @@
 > `(3)` Später als 30 Jahre nach der Geburt des Kindes oder nach einer Änderung der Abstammung kann nur das Kind die Feststellung der Nichtabstammung begehren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-153-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) \]
+
+----
 
 ### § 154 ABGB — Rechtsunwirksamerklärung des Vaterschaftsanerkenntnisses
 
@@ -2300,6 +2442,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-154-abgb--rechtsunwirksamerklärung-des-vaterschaftsanerkenntnisses) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) \]
 
+----
+
 ### § 154a ABGB — Nicht-medizinisch unterstützte Fortpflanzung
 
 > `(1)` Eine nicht\-medizinisch unterstützte Fortpflanzung ist die Anwendung von nicht von § 1 Abs\. 2 FMedG, BGBl\. Nr\. 275/1992, erfassten Methoden zur Herbeiführung einer Schwangerschaft mit dem Samen einer dritten Person, die ihren Samen wissentlich zu diesem Zweck überlässt\.
@@ -2309,6 +2453,8 @@
 > `(3)` Die § 16 und § 22 Abs\. 1 Z 4 und Abs\. 2 Z 1 sowie § 25 FMedG sind auf jede nicht\-medizinisch unterstützte Fortpflanzung sinngemäß anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-154a-abgb--nicht-medizinisch-unterstützte-fortpflanzung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) \]
+
+----
 
 ## Dritter Abschnitt
 
@@ -2324,6 +2470,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-155-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) \]
 
+----
+
 ### § 156 ABGB
 
 > `(1)` Den Familiennamen des Kindes bestimmt die mit der Pflege und Erziehung betraute Person\. Mehrere damit betraute Personen haben das Einvernehmen herzustellen; es genügt aber die Erklärung einer von ihnen, sofern sie versichert, dass die andere damit einverstanden ist oder das Einvernehmen nicht mit zumutbarem Aufwand erreicht werden kann\.
@@ -2331,6 +2479,8 @@
 > `(2)` Entscheidungsfähige Personen bestimmen ihren Familiennamen selbst\. Die Entscheidungsfähigkeit wird bei mündigen Minderjährigen vermutet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-156-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) \]
+
+----
 
 ### § 157 ABGB
 
@@ -2341,6 +2491,8 @@
 > `(3)` Auf die Bestimmung des Familiennamens des Kindes sind die §§ 93a und 93c anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-157-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) \]
+
+----
 
 ## Vierter Abschnitt
 
@@ -2354,11 +2506,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-158-abgb--inhalt-der-obsorge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) \]
 
+----
+
 ### § 159 ABGB — Wohlverhaltensgebot
 
 > Bei Ausübung der Rechte und Erfüllung der Pflichten nach diesem Hauptstück ist zur Wahrung des Kindeswohls alles zu unterlassen, was das Verhältnis des Minderjährigen zu anderen Personen, denen nach diesem Hauptstück das Kind betreffende Rechte und Pflichten zukommen, beeinträchtigt oder die Wahrnehmung von deren Aufgaben erschwert\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-159-abgb--wohlverhaltensgebot) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) \]
+
+----
 
 ### § 160 ABGB — Pflege, Erziehung und Bestimmung des Aufenthalts des Kindes
 
@@ -2370,11 +2526,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-160-abgb--pflege-erziehung-und-bestimmung-des-aufenthalts-des-kindes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) \]
 
+----
+
 ### § 161 ABGB
 
 > Das minderjährige Kind hat die Anordnungen der Eltern zu befolgen\. Die Eltern haben bei ihren Anordnungen und deren Durchsetzung auf Alter, Entwicklung und Persönlichkeit des Kindes Bedacht zu nehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-161-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) \]
+
+----
 
 ### § 162 ABGB
 
@@ -2386,11 +2546,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-162-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) \]
 
+----
+
 ### § 163 ABGB
 
 > Weder ein minderjähriges Kind noch die Eltern können in eine medizinische Maßnahme, die eine dauernde Fortpflanzungsunfähigkeit des minderjährigen Kindes zum Ziel hat, einwilligen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-163-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) \]
+
+----
 
 ### § 164 ABGB — Vermögensverwaltung
 
@@ -2400,17 +2564,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-164-abgb--vermögensverwaltung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) \]
 
+----
+
 ### § 165 ABGB
 
 > Die Eltern haben über das Vermögen des minderjährigen Kindes dem Gericht Rechnung zu legen, soweit dies das Gericht aus besonderen Gründen verfügt; über die Erträgnisse jedoch nur, soweit sie nicht für den Unterhalt des Kindes verwendet worden sind\. Näheres wird in den Verfahrensgesetzen bestimmt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-165-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) \]
 
+----
+
 ### § 166 ABGB
 
 > Wird einem minderjährigen Kind ein Vermögen zugewendet und ein Elternteil von der Verwaltung ausgeschlossen, so ist der andere Elternteil mit der Verwaltung betraut\. Sind beide Elternteile oder jener Elternteil, der mit der Obsorge allein betraut ist, ausgeschlossen, so hat das Gericht andere Personen mit der Verwaltung zu betrauen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-166-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) \]
+
+----
 
 ### § 167 ABGB — Gesetzliche Vertretung des Kindes
 
@@ -2422,11 +2592,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-167-abgb--gesetzliche-vertretung-des-kindes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) \]
 
+----
+
 ### § 168 ABGB
 
 > Bedarf ein Rechtsgeschäft der Einwilligung des gesetzlichen Vertreters, der Zustimmung des anderen Elternteils oder der Genehmigung des Pflegschaftsgerichts, so ist bei deren Fehlen das volljährig gewordene Kind nur dann daraus wirksam verpflichtet, wenn es schriftlich erklärt, diese Verpflichtungen als rechtswirksam anzuerkennen\. Fordert der Gläubiger den volljährig Gewordenen auf, sich nach dem ersten Satz zu erklären, so hat er ihm dafür eine angemessene Frist zu setzen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-168-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) \]
+
+----
 
 ### § 169 ABGB
 
@@ -2435,6 +2609,8 @@
 > `(2)` Die nach § 167 erforderliche Zustimmung des anderen Elternteils und Genehmigung des Gerichtes gelten für das ganze Verfahren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-169-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) \]
+
+----
 
 ### § 170 ABGB — Handlungsfähigkeit des Kindes
 
@@ -2446,17 +2622,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-170-abgb--handlungsfähigkeit-des-kindes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) \]
 
+----
+
 ### § 171 ABGB
 
 > Soweit nicht anderes bestimmt ist, kann sich ein mündiges minderjähriges Kind selbständig durch Vertrag zu Dienstleistungen verpflichten, ausgenommen zu Dienstleistungen auf Grund eines Lehr\- oder sonstigen Ausbildungsvertrags\. Der gesetzliche Vertreter des Kindes kann das durch den Vertrag begründete Rechtsverhältnis aus wichtigen Gründen vorzeitig lösen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-171-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) \]
 
+----
+
 ### § 172 ABGB
 
 > Hat das entscheidungsfähige Kind seine Meinung über seine Ausbildung den Eltern erfolglos vorgetragen, so kann es das Gericht anrufen\. Dieses hat nach sorgfältiger Abwägung der von den Eltern und dem Kind angeführten Gründe die zum Wohl des Kindes angemessenen Verfügungen zu treffen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-172-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) \]
+
+----
 
 ### § 173 ABGB
 
@@ -2468,17 +2650,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-173-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) \]
 
+----
+
 ### § 174 ABGB
 
 > Ein verheiratetes minderjähriges Kind steht hinsichtlich seiner persönlichen Verhältnisse einem Volljährigen gleich, solange die Ehe dauert\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-174-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) \]
 
+----
+
 ### § 176 ABGB — Deliktsfähigkeit des Kindes
 
 > Soweit einem minderjährigen Kind nicht bereits früher ein Verschulden zugerechnet werden kann \(§ 1310\), wird es mit der Erreichung der Mündigkeit nach den schadensersatzrechtlichen Bestimmungen deliktsfähig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-176-abgb--deliktsfähigkeit-des-kindes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) \]
+
+----
 
 ### § 177 ABGB — Obsorge der Eltern
 
@@ -2492,6 +2680,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-177-abgb--obsorge-der-eltern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) \]
 
+----
+
 ### § 178 ABGB — Obsorge bei Verhinderung eines Elternteils
 
 > `(1)` Ist ein Elternteil, der mit der Obsorge für das Kind gemeinsam mit dem anderen Elternteil betraut war, gestorben, ist sein Aufenthalt seit mindestens sechs Monaten unbekannt, kann die Verbindung mit ihm nicht oder nur mit unverhältnismäßig großen Schwierigkeiten hergestellt werden oder ist ihm die Obsorge ganz oder teilweise entzogen, so ist der andere Elternteil insoweit allein mit der Obsorge betraut\.
@@ -2502,6 +2692,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-178-abgb--obsorge-bei-verhinderung-eines-elternteils) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) \]
 
+----
+
 ### § 179 ABGB — Obsorge bei Auflösung der Ehe und der häuslichen Gemeinschaft
 
 > `(1)` Wird die Ehe oder die häusliche Gemeinschaft der Eltern aufgelöst, so bleibt die Obsorge beider Eltern aufrecht\. Sie können jedoch vor Gericht eine Vereinbarung schließen, wonach ein Elternteil allein mit der Obsorge betraut wird oder die Obsorge eines Elternteils auf bestimmte Angelegenheiten beschränkt wird\.
@@ -2509,6 +2701,8 @@
 > `(2)` Im Fall einer Obsorge beider Eltern nach Auflösung der Ehe oder der häuslichen Gemeinschaft haben diese vor Gericht eine Vereinbarung darüber zu schließen, in wessen Haushalt das Kind hauptsächlich betreut wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-179-abgb--obsorge-bei-auflösung-der-ehe-und-der-häuslichen-gemeinschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) \]
+
+----
 
 ### § 180 ABGB — Änderung der Obsorge
 
@@ -2526,6 +2720,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-180-abgb--änderung-der-obsorge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) \]
 
+----
+
 ### § 181 ABGB — Entziehung oder Einschränkung der Obsorge
 
 > `(1)` Gefährden die Eltern durch ihr Verhalten das Wohl des minderjährigen Kindes, so hat das Gericht, von wem immer es angerufen wird, die zur Sicherung des Wohles des Kindes nötigen Verfügungen zu treffen\. Besonders darf das Gericht die Obsorge für das Kind ganz oder teilweise, auch gesetzlich vorgesehene Einwilligungs\- und Zustimmungsrechte, entziehen\. Im Einzelfall kann das Gericht auch eine gesetzlich erforderliche Einwilligung oder Zustimmung ersetzen, wenn keine gerechtfertigten Gründe für die Weigerung vorliegen\.
@@ -2538,11 +2734,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-181-abgb--entziehung-oder-einschränkung-der-obsorge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) \]
 
+----
+
 ### § 182 ABGB
 
 > Durch eine Verfügung nach § 181 darf das Gericht die Obsorge nur so weit beschränken, als dies zur Sicherung des Wohles des Kindes nötig ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-182-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) \]
+
+----
 
 ### § 183 ABGB — Erlöschen der Obsorge
 
@@ -2552,11 +2752,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-183-abgb--erlöschen-der-obsorge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) \]
 
+----
+
 ### § 184 ABGB — Pflegeeltern
 
 > Pflegeeltern sind Personen, die die Pflege und Erziehung des Kindes ganz oder teilweise besorgen und zu denen eine dem Verhältnis zwischen leiblichen Eltern und Kindern nahe kommende Beziehung besteht oder hergestellt werden soll\. Sie haben das Recht, in den die Person des Kindes betreffenden Verfahren Anträge zu stellen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-184-abgb--pflegeeltern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) \]
+
+----
 
 ### § 185 ABGB
 
@@ -2570,6 +2774,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-185-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) \]
 
+----
+
 ## Fünfter Abschnitt
 
 ## Sonstige Rechte und Pflichten
@@ -2580,6 +2786,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-186-abgb--persönliche-kontakte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) \]
 
+----
+
 ### § 187 ABGB
 
 > `(1)` Das Kind und jeder Elternteil haben das Recht auf regelmäßige und den Bedürfnissen des Kindes entsprechende persönliche Kontakte\. Die persönlichen Kontakte sollen das Kind und die Eltern einvernehmlich regeln\. Soweit ein solches Einvernehmen nicht erzielt wird, hat das Gericht auf Antrag des Kindes oder eines Elternteils diese Kontakte in einer dem Wohl des Kindes entsprechenden Weise zu regeln und die Pflichten festzulegen\. Die Regelung hat die Anbahnung und Wahrung des besonderen Naheverhältnisses zwischen Eltern und Kind sicherzustellen und soll möglichst sowohl Zeiten der Freizeit als auch die Betreuung im Alltag des Kindes umfassen\. Das Alter, die Bedürfnisse und die Wünsche des Kindes sowie die Intensität der bisherigen Beziehung sind besonders zu berücksichtigen\.
@@ -2588,6 +2796,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-187-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) \]
 
+----
+
 ### § 188 ABGB
 
 > `(1)` Zwischen Enkeln und ihren Großeltern gilt § 187 entsprechend\. Die persönlichen Kontakte der Großeltern sind jedoch auch so weit einzuschränken oder zu untersagen, als sonst das Familienleben der Eltern \(eines Elternteils\) oder deren Beziehung zu dem Kind gestört würde\.
@@ -2595,6 +2805,8 @@
 > `(2)` Wenn persönliche Kontakte des minderjährigen Kindes mit einem hiezu bereiten Dritten dem Wohl des Kindes dienen, hat das Gericht auf Antrag des Kindes, eines Elternteils oder des Dritten, sofern dieser zu dem Kind in einem besonderen persönlichen oder familiären Verhältnis steht oder gestanden ist, die zur Regelung der persönlichen Kontakte nötigen Verfügungen zu treffen\. Solche Verfügungen hat es auf Antrag des Kinder\- und Jugendhilfeträgers oder von Amts wegen zu treffen, wenn ansonsten das Kindeswohl gefährdet wäre\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-188-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) \]
+
+----
 
 ### § 189 ABGB — Informations-, Äußerungs- und Vertretungsrecht
 
@@ -2616,6 +2828,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-189-abgb--informations--äußerungs--und-vertretungsrecht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) \]
 
+----
+
 ### § 190 ABGB — Vereinbarungen über die Obsorge, die persönlichen Kontakte und den Unterhalt
 
 > `(1)` Die Eltern haben bei Vereinbarungen über die Obsorge, die persönlichen Kontakte sowie die Betreuung des Kindes das Wohl des Kindes bestmöglich zu wahren\.
@@ -2625,6 +2839,8 @@
 > `(3)` Vor Gericht geschlossene Vereinbarungen über die Höhe gesetzlicher Unterhaltsleistungen bedürfen zur ihrer Rechtswirksamkeit keiner gerichtlichen Genehmigung und sind für den Unterhaltsverpflichteten verbindlich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-190-abgb--vereinbarungen-über-die-obsorge-die-persönlichen-kontakte-und-den-unterhalt) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) \]
+
+----
 
 ## Sechster Abschnitt
 
@@ -2640,6 +2856,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-191-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) \]
 
+----
+
 ### § 192 ABGB — Form; Eintritt der Wirksamkeit
 
 > `(1)` Die Annahme an Kindesstatt kommt durch schriftlichen Vertrag zwischen dem Annehmenden und dem Wahlkind und durch gerichtliche Bewilligung auf Antrag eines Vertragsteiles zustande\. Sie wird im Fall ihrer Bewilligung mit dem Zeitpunkt der vertraglichen Willenseinigung wirksam\. Stirbt der Annehmende nach diesem Zeitpunkt, so hindert dies die Bewilligung nicht\.
@@ -2652,6 +2870,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-192-abgb--form-eintritt-der-wirksamkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) \]
 
+----
+
 ### § 193 ABGB — Alter
 
 > `(1)` Die Wahleltern müssen das fünfundzwanzigste Lebensjahr vollendet haben\.
@@ -2660,6 +2880,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-193-abgb--alter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) \]
 
+----
+
 ### § 194 ABGB — Bewilligung
 
 > `(1)` Die Annahme eines minderjährigen Kindes ist zu bewilligen, wenn sie dessen Wohl dient und eine dem Verhältnis zwischen leiblichen Eltern und Kindern entsprechende Beziehung besteht oder hergestellt werden soll\. Ist das Wahlkind volljährig, so ist die Annahme nur zu bewilligen, wenn die Antragsteller nachweisen, dass bereits ein enges, der Beziehung zwischen leiblichen Eltern und Kindern entsprechendes Verhältnis vorliegt, insbesondere wenn Wahlkind und Annehmender während fünf Jahren entweder in häuslicher Gemeinschaft gelebt oder einander in einer vergleichbar engen Gemeinschaft Beistand geleistet haben\.
@@ -2667,6 +2889,8 @@
 > `(2)` Die Bewilligung ist, außer bei Fehlen der Voraussetzungen des Abs\. 1, zu versagen, wenn ein überwiegendes Anliegen eines leiblichen Kindes des Annehmenden entgegensteht, insbesondere dessen Unterhalt oder Erziehung gefährdet wäre; im übrigen sind wirtschaftliche Belange nicht zu beachten, außer der Annehmende handelt in der ausschließlichen oder überwiegenden Absicht, ein leibliches Kind zu schädigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-194-abgb--bewilligung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) \]
+
+----
 
 ### § 195 ABGB
 
@@ -2688,6 +2912,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-195-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) \]
 
+----
+
 ### § 196 ABGB
 
 > `(1)` Ein Recht auf Anhörung haben:
@@ -2704,6 +2930,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-196-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) \]
 
+----
+
 ### § 197 ABGB — Wirkungen
 
 > `(1)` Zwischen dem Annehmenden und dessen Nachkommen einerseits und dem Wahlkind und dessen im Zeitpunkt des Wirksamwerdens der Annahme minderjährigen Nachkommen andererseits entstehen mit diesem Zeitpunkt die gleichen Rechte, wie sie durch die Abstammung begründet werden\.
@@ -2716,6 +2944,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-197-abgb--wirkungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) \]
 
+----
+
 ### § 198 ABGB
 
 > `(1)` Die im Familienrecht begründeten Pflichten der leiblichen Eltern und deren Verwandten zur Leistung des Unterhaltes und der Ausstattung gegenüber dem Wahlkind und dessen im Zeitpunkt des Wirksamwerdens der Annahme minderjährigen Nachkommen bleiben aufrecht\.
@@ -2726,6 +2956,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-198-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) \]
 
+----
+
 ### § 199 ABGB
 
 > `(1)` Die im Erbrecht begründeten Rechte zwischen den leiblichen Eltern und deren Verwandten einerseits und dem Wahlkind und dessen im Zeitpunkt des Wirksamwerdens der Annahme minderjährigen Nachkommen andererseits bleiben aufrecht\.
@@ -2735,6 +2967,8 @@
 > `(3)` Ist das Wahlkind nur durch eine Person angenommen worden und sind sowohl diese Person oder deren Nachkommen als auch der nicht verdrängte leibliche Elternteil oder dessen Nachkommen vorhanden, so fällt die Verlassenschaft – ungeachtet eines allfälligen Erlöschens der familienrechtlichen Beziehungen nach § 197 Abs\. 3 zweiter Satz – je zur Hälfte auf den Stamm der annehmenden Person und des nicht verdrängten leiblichen Elternteils\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-199-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) \]
+
+----
 
 ### § 200 ABGB — Widerruf und Aufhebung
 
@@ -2756,6 +2990,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-200-abgb--widerruf-und-aufhebung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) \]
 
+----
+
 ### § 201 ABGB
 
 > `(1)` Die Wahlkindschaft ist vom Gericht aufzuheben:
@@ -2772,6 +3008,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-201-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) \]
 
+----
+
 ### § 202 ABGB
 
 > `(1)` Mit dem Eintritt der Rechtskraft des Aufhebungsbeschlusses erlöschen die durch die Annahme zwischen dem Wahlvater \(der Wahlmutter\) und dessen \(deren\) Nachkommen einerseits und dem Wahlkind und dessen Nachkommen andererseits begründeten Rechtsbeziehungen\.
@@ -2781,11 +3019,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-202-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) \]
 
+----
+
 ### § 203 ABGB
 
 > Ein Widerruf oder eine Aufhebung aus anderen als den in den §§ 200 und 201 angeführten Gründen ist unzulässig; ebenso eine vertragliche Einigung oder ein Rechtsstreit über die Anfechtung des Annahmevertrages\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-203-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) \]
+
+----
 
 ## Viertes Hauptstück
 
@@ -2796,6 +3038,8 @@
 > Soweit nach dem dritten Hauptstück weder Eltern mit der Obsorge betraut sind und kein Fall des § 207 vorliegt, hat das Gericht unter Beachtung des Wohles des Kindes eine andere geeignete Person mit der Obsorge zu betrauen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-204-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) \]
+
+----
 
 ### § 205 ABGB
 
@@ -2809,6 +3053,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-205-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) \]
 
+----
+
 ### § 206 ABGB
 
 > `(1)` Derjenige, den das Gericht mit der Obsorge betrauen will, hat alle Umstände, die ihn dafür ungeeignet erscheinen lassen, dem Gericht mitzuteilen\. Unterlässt er diese Mitteilung schuldhaft, so haftet er für alle dem minderjährigen Kind daraus entstehenden Nachteile\.
@@ -2817,11 +3063,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-206-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) \]
 
+----
+
 ### § 207 ABGB — Aufgaben des Kinder- und Jugendhilfeträgers
 
 > Wird ein minderjähriges Kind im Inland gefunden und sind dessen Eltern unbekannt, so ist kraft Gesetzes der Kinder\- und Jugendhilfeträger mit der Obsorge betraut\. Dies gilt für den Bereich der Vermögensverwaltung und der Vertretung auch, wenn ein Kind im Inland geboren wird und dessen unverheiratete Mutter minderjährig ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-207-abgb--aufgaben-des-kinder--und-jugendhilfeträgers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) \]
+
+----
 
 ### § 208 ABGB
 
@@ -2837,11 +3087,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-208-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) \]
 
+----
+
 ### § 209 ABGB
 
 > Ist eine andere Person mit der Obsorge für einen Minderjährigen ganz oder teilweise zu betrauen und lassen sich dafür Verwandte oder andere nahe stehende oder sonst besonders geeignete Personen nicht finden, so hat das Gericht die Obsorge dem Kinder\- und Jugendhilfeträger zu übertragen\. Gleiches gilt, wenn einem Minderjährigen ein Kurator zu bestellen ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-209-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) \]
+
+----
 
 ### § 210 ABGB
 
@@ -2853,6 +3107,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-210-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) \]
 
+----
+
 ### § 211 ABGB
 
 > `(1)` Der Kinder\- und Jugendhilfeträger hat die zur Wahrung des Wohles eines Minderjährigen erforderlichen gerichtlichen Verfügungen im Bereich der Obsorge zu beantragen\. Bei Gefahr im Verzug kann er die erforderlichen Maßnahmen der Pflege und Erziehung vorläufig mit Wirksamkeit bis zur gerichtlichen Entscheidung selbst treffen; er hat diese Entscheidung unverzüglich, jedenfalls innerhalb von acht Tagen, zu beantragen\. Im Umfang der getroffenen Maßnahmen ist der Kinder\- und Jugendhilfeträger vorläufig mit der Obsorge betraut\.
@@ -2861,11 +3117,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-211-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) \]
 
+----
+
 ### § 212 ABGB
 
 > Sofern nicht anderes angeordnet ist, fallen die Aufgaben dem Bundesland als Kinder\- und Jugendhilfeträger zu, in dem das minderjährige Kind seinen gewöhnlichen Aufenthalt, mangels eines solchen im Inland seinen Aufenthalt hat\. Fehlt ein Aufenthalt im Inland, so ist, sofern das minderjährige Kind österreichischer Staatsbürger ist, für im Inland zu besorgende Aufgaben das Bundesland als Kinder\- und Jugendhilfeträger zuständig, in dem der Minderjährige seinen letzten Aufenthalt gehabt hat, dann dasjenige, in dem ein Elternteil seinen Aufenthalt hat oder zuletzt gehabt hat\. Wechselt das minderjährige Kind seinen Aufenthalt in ein anderes Bundesland, so kann der Kinder\- und Jugendhilfeträger seine Aufgaben dem anderen mit dessen Zustimmung übertragen\. Hievon ist das Gericht zu verständigen, wenn es mit den Angelegenheiten des minderjährigen Kindes bereits befasst war\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-212-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) \]
+
+----
 
 ## Besondere Pflichten und Rechte anderer mit der Obsorge betrauter Personen
 
@@ -2877,6 +3137,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-213-abgb--a-in-angelegenheiten-der-pflege-und-erziehung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) \]
 
+----
+
 ## b) in Angelegenheiten der Vermögensverwaltung
 
 ### § 214 ABGB — Überwachung der Vermögensverwaltung
@@ -2887,6 +3149,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-214-abgb--überwachung-der-vermögensverwaltung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) \]
 
+----
+
 ## Anlegung von Mündelgeld
 
 ### § 215 ABGB — Allgemeine Grundsätze
@@ -2896,6 +3160,8 @@
 > `(2)` Ist es wirtschaftlich zweckmäßig, so ist Mündelgeld auf mehrere dieser Arten anzulegen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-215-abgb--allgemeine-grundsätze) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) \]
+
+----
 
 ### § 216 ABGB — Mündelsichere Spareinlagen
 
@@ -2908,6 +3174,8 @@
 >> `3.` der Deckungsstock ausschließlich in mündelsicheren Wertpapieren \(§ 217\), in Hypothekarforderungen mit gesetzmäßiger Sicherheit \(§ 218\), in Forderungen, für die der Bund oder ein Land haftet, oder in Bargeld besteht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-216-abgb--mündelsichere-spareinlagen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) \]
+
+----
 
 ### § 217 ABGB — Mündelsichere Wertpapiere und Forderungen
 
@@ -2925,6 +3193,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-217-abgb--mündelsichere-wertpapiere-und-forderungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) \]
 
+----
+
 ### § 218 ABGB — Mündelsichere Kredite
 
 > `(1)` Kredite sind zur Anlegung von Mündelgeld geeignet, wenn zu ihrer Sicherstellung an einer inländischen Liegenschaft eine Hypothek bestellt wird und die Liegenschaft samt ihrem Zubehör während der Laufzeit des Kredites ausreichend feuerversichert ist\. Liegenschaften, deren Wert sich wegen eines darauf befindlichen Abbaubetriebs ständig und beträchtlich vermindert, sind nicht geeignet\.
@@ -2933,6 +3203,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-218-abgb--mündelsichere-kredite) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) \]
 
+----
+
 ### § 219 ABGB — Mündelsichere Liegenschaften
 
 > `(1)` Der Erwerb inländischer Liegenschaften ist zur Anlegung von Mündelgeld geeignet, wenn sich ihr Wert nicht wegen eines darauf befindlichen Abbaubetriebs ständig und beträchtlich vermindert oder sie nicht ausschließlich oder überwiegend industriellen oder gewerblichen Zwecken dienen\.
@@ -2940,6 +3212,8 @@
 > `(2)` Der Kaufpreis soll in der Regel den Verkehrswert nicht übersteigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-219-abgb--mündelsichere-liegenschaften) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) \]
+
+----
 
 ### § 220 ABGB — Andere Anlageformen
 
@@ -2951,11 +3225,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-220-abgb--andere-anlageformen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) \]
 
+----
+
 ### § 221 ABGB
 
 > Der gesetzliche Vertreter hat jedenfalls dann eine andere Anlegung von im Sinn des § 220 angelegtem Vermögen zu veranlassen, wenn ansonsten mit überwiegender Wahrscheinlichkeit damit zu rechnen ist, dass ein für das Kind unter Berücksichtigung seiner Lebensverhältnisse nicht unbeträchtliches Vermögen dauerhaft geschmälert werden wird und die Umschichtung dem Wohl des Kindes entspricht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-221-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) \]
+
+----
 
 ### § 222 ABGB — Veräußerung von beweglichem Vermögen
 
@@ -2963,11 +3241,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-222-abgb--veräußerung-von-beweglichem-vermögen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) \]
 
+----
+
 ### § 223 ABGB — Veräußerung von unbeweglichem Gut
 
 > Ein unbewegliches Gut oder ein Anteil an einem solchen darf nur im Notfall oder zum offenbaren Vorteil des Kindes veräußert werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-223-abgb--veräußerung-von-unbeweglichem-gut) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) \]
+
+----
 
 ### § 224 ABGB — Entgegennahme von Zahlungen
 
@@ -2975,17 +3257,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-224-abgb--entgegennahme-von-zahlungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) \]
 
+----
+
 ### § 225 ABGB — Änderungen in der Obsorge
 
 > Die Obsorge des Kinder\- und Jugendhilfeträgers \(§ 207\) endet, sofern der Umstand, der die Eltern von der Ausübung der Obsorge ausgeschlossen hat, weggefallen ist; im ersten Fall des § 207 bedarf es hiezu jedoch der Übertragung der Obsorge an die Eltern durch das Gericht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-225-abgb--änderungen-in-der-obsorge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) \]
 
+----
+
 ### § 226 ABGB
 
 > Das Gericht hat die Obsorge an eine andere Person zu übertragen, wenn das Wohl des minderjährigen Kindes dies erfordert, insbesondere wenn die mit der Obsorge betraute Person ihre Verpflichtungen aus § 159 nicht erfüllt, einer der Umstände des § 205 Abs\. 2 eintritt oder bekannt wird oder die Person, die bisher mit der Obsorge betraut war, stirbt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-226-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) \]
+
+----
 
 ### § 227 ABGB — Haftung
 
@@ -2995,11 +3283,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-227-abgb--haftung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) \]
 
+----
+
 ### § 228 ABGB
 
 > Der Richter kann die Ersatzpflicht nach § 227 insoweit mäßigen oder ganz erlassen, als sie die mit der Obsorge betraute Person unter Berücksichtigung aller Umstände, insbesondere des Grades des Verschuldens oder eines besonderen Naheverhältnisses zwischen dem Kind und der mit der Obsorge betrauten Person, unbillig hart träfe\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-228-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) \]
+
+----
 
 ### § 229 ABGB — Entschädigung
 
@@ -3011,6 +3303,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-229-abgb--entschädigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) \]
 
+----
+
 ### § 230 ABGB — Entgelt und Aufwandsersatz
 
 > `(1)` Nützt die mit der Obsorge betraute Person für Angelegenheiten, deren Besorgung sonst einem Dritten übertragen werden müsste, ihre besonderen beruflichen Kenntnisse und Fähigkeiten, so hat sie hiefür einen Anspruch auf angemessenes Entgelt\. Dieser Anspruch besteht für die Kosten einer rechtsfreundlichen Vertretung jedoch nicht, soweit beim Kind die Voraussetzungen für die Bewilligung der Verfahrenshilfe gegeben sind oder diese Kosten nach gesetzlichen Vorschriften vom Gegner ersetzt werden\.
@@ -3020,6 +3314,8 @@
 > `(3)` Ansprüche nach den Abs\. 1 und 2 bestehen insoweit nicht, als durch sie die Befriedigung der Lebensbedürfnisse des Kindes gefährdet wäre\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-230-abgb--entgelt-und-aufwandsersatz) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) \]
+
+----
 
 ## Fünftes Hauptstück
 
@@ -3037,17 +3333,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-231-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) \]
 
+----
+
 ### § 232 ABGB
 
 > Soweit die Eltern nach ihren Kräften zur Leistung des Unterhalts nicht imstande sind, schulden ihn die Großeltern nach den den Lebensverhältnissen der Eltern angemessenen Bedürfnissen des Kindes\. Im Übrigen gilt der § 231 sinngemäß; der Unterhaltsanspruch eines Enkels mindert sich jedoch auch insoweit, als ihm die Heranziehung des Stammes eigenen Vermögens zumutbar ist\. Überdies hat ein Großelternteil nur insoweit Unterhalt zu leisten, als er dadurch bei Berücksichtigung seiner sonstigen Sorgepflichten den eigenen angemessenen Unterhalt nicht gefährdet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-232-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) \]
 
+----
+
 ### § 233 ABGB
 
 > Die Schuld eines Elternteils, dem Kind den Unterhalt zu leisten, geht bis zum Wert der Verlassenschaft auf seine Erben über\. Auf den Anspruch des Kindes ist alles anzurechnen, was das Kind nach dem Verstorbenen durch eine vertragliche oder letztwillige Zuwendung, als gesetzlichen Erbteil, als Pflichtteil oder durch eine öffentlich\-rechtliche oder privatrechtliche Leistung erhält\. Reicht der Wert der Verlassenschaft nicht aus, um dem Kind den geschuldeten Unterhalt bis zum voraussichtlichen Eintritt der Selbsterhaltungsfähigkeit zu sichern, so mindert sich der Anspruch des Kindes entsprechend\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-233-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) \]
+
+----
 
 ### § 234 ABGB
 
@@ -3059,6 +3361,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-234-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) \]
 
+----
+
 ### § 235 ABGB — Ansprüche im Zusammenhang mit der Geburt
 
 > `(1)` Der Vater ist verpflichtet, der Mutter die Kosten der Entbindung sowie die Kosten ihres Unterhaltes für die ersten acht Wochen nach der Entbindung und, falls infolge der Entbindung weitere Auslagen notwendig werden, auch diese zu ersetzen\.
@@ -3066,6 +3370,8 @@
 > `(2)` Die Forderung ist mit Ablauf von drei Jahren nach der Entbindung verjährt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-235-abgb--ansprüche-im-zusammenhang-mit-der-geburt) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) \]
+
+----
 
 ## Sechstes Hauptstück
 
@@ -3085,6 +3391,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-239-abgb--selbstbestimmung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) \]
 
+----
+
 ### § 240 ABGB — Nachrang der Stellvertretung
 
 > `(1)` Die in § 239 Abs\. 1 genannten Personen nehmen nur dann durch einen Vertreter am Rechtsverkehr teil, wenn sie dies selbst vorsehen oder eine Vertretung zur Wahrung ihrer Rechte und Interessen unvermeidlich ist\. Sie können durch eine von ihnen bevollmächtigte Person \(Vorsorgevollmacht\) oder durch einen gewählten oder gesetzlichen oder gerichtlichen Erwachsenenvertreter vertreten werden\.
@@ -3093,6 +3401,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-240-abgb--nachrang-der-stellvertretung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) \]
 
+----
+
 ### § 241 ABGB — Selbstbestimmung trotz Stellvertretung
 
 > `(1)` Ein Vorsorgebevollmächtigter oder Erwachsenenvertreter hat danach zu trachten, dass die vertretene Person im Rahmen ihrer Fähigkeiten und Möglichkeiten ihre Lebensverhältnisse nach ihren Wünschen und Vorstellungen gestalten kann, und sie, soweit wie möglich, in die Lage zu versetzen, ihre Angelegenheiten selbst zu besorgen\.
@@ -3100,6 +3410,8 @@
 > `(2)` Ein Vorsorgebevollmächtigter oder Erwachsenenvertreter hat die vertretene Person von beabsichtigten, ihre Person oder ihr Vermögen betreffenden Entscheidungen rechtzeitig zu verständigen und ihr die Möglichkeit zu geben, sich dazu in angemessener Frist zu äußern\. Die Äußerung der vertretenen Person ist zu berücksichtigen, es sei denn, ihr Wohl wäre hierdurch erheblich gefährdet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-241-abgb--selbstbestimmung-trotz-stellvertretung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) \]
+
+----
 
 ### § 242 ABGB — Handlungsfähigkeit
 
@@ -3110,6 +3422,8 @@
 > `(3)` Schließt eine volljährige Person, die nicht entscheidungsfähig ist, ein Rechtsgeschäft des täglichen Lebens, das ihre Lebensverhältnisse nicht übersteigt, so wird dieses – sofern in diesem Bereich kein Genehmigungsvorbehalt nach Abs\. 2 angeordnet wurde – mit der Erfüllung der sie treffenden Pflichten rückwirkend rechtswirksam\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-242-abgb--handlungsfähigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) \]
+
+----
 
 ## II. Auswahl und Dauer der Vertretung
 
@@ -3129,6 +3443,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-243-abgb--eignung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) \]
 
+----
+
 ### § 244 ABGB — Erwachsenenvertreter-Verfügung
 
 > `(1)` Eine Person kann in einer Erwachsenenvertreter\-Verfügung jemanden bezeichnen, der für sie als Erwachsenenvertreter tätig oder nicht tätig werden soll\. Die verfügende Person muss hierfür fähig sein, die Bedeutung und Folgen einer Erwachsenenvertretung sowie der Verfügung in Grundzügen zu verstehen, ihren Willen danach zu bestimmen und sich entsprechend zu verhalten\.
@@ -3138,6 +3454,8 @@
 > `(3)` Die verfügende Person kann die Erwachsenenvertreter\-Verfügung jederzeit widerrufen\. Der Widerruf muss von einem Notar, Rechtsanwalt oder Mitarbeiter eines Erwachsenenschutzvereins im Österreichischen Zentralen Vertretungsverzeichnis eingetragen werden\. Die Eintragung hat auf Verlangen der vertretenen Person zu erfolgen\. Für den Widerruf genügt es, dass die verfügende Person zu erkennen gibt, dass die Verfügung nicht mehr gelten soll\. Auf diese Möglichkeiten kann sie nicht verzichten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-244-abgb--erwachsenenvertreter-verfügung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) \]
+
+----
 
 ### § 245 ABGB — Beginn und Fortbestand
 
@@ -3150,6 +3468,8 @@
 > `(4)` Solange die Vertretungsbefugnis eines Vorsorgebevollmächtigten oder Erwachsenenvertreters im Österreichischen Zentralen Vertretungsverzeichnis eingetragen ist, besteht sie fort, auch wenn die vertretene Person im Wirkungsbereich ihres Vertreters handlungsfähig ist oder ihre Handlungsfähigkeit erlangt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-245-abgb--beginn-und-fortbestand) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) \]
+
+----
 
 ### § 246 ABGB — Änderung, Übertragung und Beendigung
 
@@ -3183,6 +3503,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-246-abgb--änderung-übertragung-und-beendigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) \]
 
+----
+
 ## III. Besondere Rechte und Pflichten des Vertreters
 
 ### § 247 ABGB — Kontakte
@@ -3190,6 +3512,8 @@
 > Ein Erwachsenenvertreter hat mit der vertretenen Person in dem nach den Umständen des Einzelfalls erforderlichen Ausmaß persönlichen Kontakt zu halten\. Sofern ihm nicht ausschließlich Angelegenheiten übertragen worden sind, deren Besorgung vorwiegend Kenntnisse des Rechts oder der Vermögensverwaltung voraussetzen, soll der Kontakt mindestens einmal im Monat stattfinden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-247-abgb--kontakte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) \]
+
+----
 
 ### § 248 ABGB — Verschwiegenheitspflicht
 
@@ -3207,6 +3531,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-248-abgb--verschwiegenheitspflicht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) \]
 
+----
+
 ### § 249 ABGB — Haftung und Aufwandersatz
 
 > `(1)` Ein Vorsorgebevollmächtigter oder Erwachsenenvertreter haftet der vertretenen Person für jeden durch sein Verschulden verursachten Schaden\. Das Gericht kann die Ersatzpflicht insoweit mäßigen oder ganz erlassen, als sie den Vertreter unter Berücksichtigung aller Umstände, insbesondere des Grades des Verschuldens oder seines besonderen Naheverhältnisses zur vertretenen Person, unbillig hart träfe\.
@@ -3214,6 +3540,8 @@
 > `(2)` Die zur zweckentsprechenden Ausübung der Vertretung notwendigen Barauslagen, die tatsächlichen Aufwendungen und die angemessenen Kosten einer zur Deckung der Haftung nach Abs\. 1 abgeschlossenen Haftpflichtversicherung sind dem gewählten und gesetzlichen Erwachsenenvertreter von der vertretenen Person zu erstatten, soweit sie nach gesetzlichen Vorschriften nicht unmittelbar von Dritten getragen werden; ist der einzelne Nachweis dem Erwachsenenvertreter nicht zumutbar, so ist ein angemessener Pauschalbetrag zu erstatten\. Für den gerichtlichen Erwachsenenvertreter gilt § 276 Abs\. 4\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-249-abgb--haftung-und-aufwandersatz) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) \]
+
+----
 
 ## IV. Personensorge
 
@@ -3237,11 +3565,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-250-abgb--vertretung-in-personenrechtlichen-angelegenheiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) \]
 
+----
+
 ### § 251 ABGB — Bemühung um Betreuung
 
 > Ein Erwachsenenvertreter ist nicht zur Betreuung der vertretenen Person verpflichtet\. Ist sie aber nicht umfassend betreut, so hat er sich, unabhängig von seinem Wirkungsbereich, darum zu bemühen, dass ihr die gebotene medizinische und soziale Betreuung gewährt wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-251-abgb--bemühung-um-betreuung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) \]
+
+----
 
 ## Medizinische Behandlung
 
@@ -3257,6 +3589,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-252-abgb--a-entscheidungsfähiger-personen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) \]
 
+----
+
 ### § 253 ABGB — b) nicht entscheidungsfähiger Personen
 
 > `(1)` Eine medizinische Behandlung an einer volljährigen Person, die nicht entscheidungsfähig ist, bedarf der Zustimmung ihres Vorsorgebevollmächtigten oder Erwachsenenvertreters, dessen Wirkungsbereich diese Angelegenheit umfasst\. Er hat sich dabei vom Willen der vertretenen Person leiten zu lassen\. Im Zweifel ist davon auszugehen, dass diese eine medizinisch indizierte Behandlung wünscht\.
@@ -3269,6 +3603,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-253-abgb--b-nicht-entscheidungsfähiger-personen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) \]
 
+----
+
 ### § 254 ABGB
 
 > `(1)` Gibt eine nicht entscheidungsfähige Person ihrem Vorsorgebevollmächtigten oder Erwachsenenvertreter oder dem Arzt gegenüber zu erkennen, dass sie die medizinische Behandlung oder deren Fortsetzung ablehnt, so bedarf die Zustimmung des Vorsorgebevollmächtigten oder Erwachsenenvertreters zur Behandlung der Genehmigung des Gerichts\.
@@ -3279,6 +3615,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-254-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) \]
 
+----
+
 ### § 255 ABGB — Sterilisation
 
 > `(1)` Ein Vorsorgebevollmächtigter oder Erwachsenenvertreter darf einer medizinischen Maßnahme, die eine dauernde Fortpflanzungsunfähigkeit der vertretenen nicht entscheidungsfähigen Person zum Ziel hat, nicht zustimmen, es sei denn, dass sonst wegen eines dauerhaften körperlichen Leidens eine Gefährdung des Lebens oder die Gefahr einer schweren Schädigung der Gesundheit oder starker Schmerzen besteht\.
@@ -3287,6 +3625,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-255-abgb--sterilisation) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) \]
 
+----
+
 ### § 256 ABGB — Forschung
 
 > `(1)` Ebenso darf ein Vorsorgebevollmächtigter oder Erwachsenenvertreter einer medizinischen Forschung, die mit einer Beeinträchtigung der körperlichen Unversehrtheit oder der Persönlichkeit der vertretenen nicht entscheidungsfähigen Person verbunden ist, nicht zustimmen, es sei denn, dass diese für deren Gesundheit oder Wohlbefinden von unmittelbarem Nutzen sein kann\. Die Zustimmung bedarf der gerichtlichen Genehmigung, außer es liegt eine befürwortende Stellungnahme einer für die jeweilige Krankenanstalt eingerichteten Ethikkommission vor\.
@@ -3294,6 +3634,8 @@
 > `(2)` Gibt eine nicht entscheidungsfähige Person ihrem Vorsorgebevollmächtigten oder Erwachsenenvertreter oder dem Arzt gegenüber zu erkennen, dass sie die Forschung oder deren Fortsetzung ablehnt, so hat diese zu unterbleiben, es sei denn, das Wohl der vertretenen Person wäre sonst erheblich gefährdet\. Die Zustimmung des gesetzlichen Vertreters bedarf diesfalls auch bei Vorliegen einer befürwortenden Stellungnahme einer Ethikkommission der gerichtlichen Genehmigung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-256-abgb--forschung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) \]
+
+----
 
 ### § 257 ABGB — Änderung des Wohnortes
 
@@ -3306,6 +3648,8 @@
 > `(4)` Abs\. 3 gilt für den Vorsorgebevollmächtigten sinngemäß, sofern der Wohnort der vertretenen Person dauerhaft ins Ausland verlegt werden soll\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-257-abgb--änderung-des-wohnortes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) \]
+
+----
 
 ## V. Vermögenssorge
 
@@ -3323,6 +3667,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-258-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) \]
 
+----
+
 ## VI. Gerichtliche Kontrolle
 
 ### § 259 ABGB
@@ -3337,6 +3683,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-259-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) \]
 
+----
+
 ## Zweiter Abschnitt
 
 ## Vorsorgevollmacht
@@ -3347,11 +3695,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-260-abgb--vollmacht-für-den-vorsorgefall) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) \]
 
+----
+
 ### § 261 ABGB — Wirkungsbereich
 
 > Die Vorsorgevollmacht kann für einzelne Angelegenheiten oder für Arten von Angelegenheiten erteilt werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-261-abgb--wirkungsbereich) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) \]
+
+----
 
 ### § 262 ABGB — Form
 
@@ -3369,6 +3721,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-262-abgb--form) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) \]
 
+----
+
 ### § 263 ABGB — Registrierung
 
 > `(1)` Die Vorsorgevollmacht und der Eintritt des Vorsorgefalls sind von einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein \(§ 1 ErwSchVG\) im Österreichischen Zentralen Vertretungsverzeichnis einzutragen\. Der Eintritt des Vorsorgefalls darf nur insoweit eingetragen werden, als der Vollmachtgeber die zur Besorgung der anvertrauten Angelegenheiten erforderliche Entscheidungsfähigkeit verloren hat\.
@@ -3379,6 +3733,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-263-abgb--registrierung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) \]
 
+----
+
 ## Dritter Abschnitt
 
 ## Gewählter Erwachsenenvertreter
@@ -3388,6 +3744,8 @@
 > Soweit eine volljährige Person ihre Angelegenheiten aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit nicht für sich selbst besorgen kann, dafür keinen Vertreter hat und eine Vorsorgevollmacht nicht mehr errichten kann, aber noch fähig ist, die Bedeutung und Folgen einer Bevollmächtigung in Grundzügen zu verstehen, ihren Willen danach zu bestimmen und sich entsprechend zu verhalten, kann sie eine oder mehrere ihr nahe stehende Personen als Erwachsenenvertreter zur Besorgung dieser Angelegenheiten auswählen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-264-abgb--voraussetzungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) \]
+
+----
 
 ### § 265 ABGB — Wirkungsbereich
 
@@ -3401,6 +3759,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-265-abgb--wirkungsbereich) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) \]
 
+----
+
 ### § 266 ABGB — Form
 
 > `(1)` Die Vereinbarung einer gewählten Erwachsenenvertretung muss höchstpersönlich und schriftlich vor einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein \(§ 1 ErwSchVG\) errichtet werden\.
@@ -3409,6 +3769,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-266-abgb--form) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) \]
 
+----
+
 ### § 267 ABGB — Registrierung
 
 > `(1)` Die Vereinbarung über die gewählte Erwachsenenvertretung ist von einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein \(§ 1 ErwSchVG\) im Österreichischen Zentralen Vertretungsverzeichnis einzutragen\.
@@ -3416,6 +3778,8 @@
 > `(2)` Hegt der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins am Vorliegen der Voraussetzungen der gewählten Erwachsenenvertretung oder an der Eignung der Person, die als Erwachsenenvertreter eingetragen werden soll, begründete Zweifel, so hat er die Eintragung abzulehnen und bei begründeten Anhaltspunkten für eine Gefährdung des Wohles der volljährigen Person unverzüglich das Pflegschaftsgericht zu verständigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-267-abgb--registrierung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) \]
+
+----
 
 ## Vierter Abschnitt
 
@@ -3436,6 +3800,8 @@
 > `(2)` Nächste Angehörige sind die Eltern und Großeltern, volljährige Kinder und Enkelkinder, Geschwister, Nichten und Neffen der volljährigen Person, ihr Ehegatte oder eingetragener Partner und ihr Lebensgefährte, wenn dieser mit ihr seit mindestens drei Jahren im gemeinsamen Haushalt lebt, sowie die von der volljährigen Person in einer Erwachsenenvertreter\-Verfügung bezeichnete Person\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-268-abgb--voraussetzungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) \]
+
+----
 
 ### § 269 ABGB — Wirkungsbereich
 
@@ -3461,6 +3827,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-269-abgb--wirkungsbereich) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) \]
 
+----
+
 ### § 270 ABGB — Registrierung
 
 > `(1)` Die gesetzliche Erwachsenenvertretung ist von einem Notar, einem Rechtsanwalt oder einem Erwachsenenschutzverein \(§ 1 ErwSchVG\) im Österreichischen Zentralen Vertretungsverzeichnis einzutragen\.
@@ -3470,6 +3838,8 @@
 > `(3)` Vor der Eintragung der gesetzlichen Erwachsenenvertretung sind der Erwachsenenvertreter und die volljährige Person über das Wesen und die Folgen der Erwachsenenvertretung, über die Möglichkeit des jederzeitigen Widerspruchs sowie über die Rechte und Pflichten des gesetzlichen Erwachsenenvertreters persönlich zu belehren\. Der Notar, der Rechtsanwalt oder der Mitarbeiter des Erwachsenenschutzvereins hat die Vornahme dieser Belehrung zu dokumentieren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-270-abgb--registrierung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) \]
+
+----
 
 ## Fünfter Abschnitt
 
@@ -3489,6 +3859,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-271-abgb--voraussetzungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) \]
 
+----
+
 ### § 272 ABGB — Wirkungsbereich
 
 > `(1)` Ein gerichtlicher Erwachsenenvertreter darf nur für einzelne oder Arten von gegenwärtig zu besorgenden und bestimmt zu bezeichnenden Angelegenheiten bestellt werden\.
@@ -3497,6 +3869,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-272-abgb--wirkungsbereich) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) \]
 
+----
+
 ### § 273 ABGB — Auswahl und Bestellung
 
 > `(1)` Bei der Auswahl des gerichtlichen Erwachsenenvertreters ist auf die Bedürfnisse der volljährigen Person und deren Wünsche, die Eignung des Erwachsenenvertreters und auf die zu besorgenden Angelegenheiten Bedacht zu nehmen\.
@@ -3504,6 +3878,8 @@
 > `(2)` Eine Person, die das Gericht zum gerichtlichen Erwachsenenvertreter bestellen will, hat alle Umstände, die sie dafür ungeeignet erscheinen lassen, dem Gericht unverzüglich mitzuteilen\. Treten solche Umstände nach der Bestellung ein, so hat sie diese ebenso unverzüglich offen zu legen\. Unterlässt sie diese Mitteilung schuldhaft, so haftet sie für alle der volljährigen Person daraus entstehenden Nachteile\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-273-abgb--auswahl-und-bestellung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) \]
+
+----
 
 ### § 274 ABGB
 
@@ -3519,6 +3895,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-274-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) \]
 
+----
+
 ### § 275 ABGB
 
 > Ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\), der nicht aufrecht in der Liste von zur Übernahme von Vorsorgevollmachten und gerichtlichen Erwachsenenvertretungen besonders geeigneten Rechtsanwälten oder Notaren eingetragen ist, kann die Übernahme einer gerichtlichen Erwachsenenvertretung nur ablehnen, wenn
@@ -3531,6 +3909,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-275-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) \]
 
+----
+
 ### § 276 ABGB — Entschädigung, Entgelt und Aufwandersatz
 
 > `(1)` Dem gerichtlichen Erwachsenenvertreter gebührt eine jährliche Entschädigung zuzüglich der allenfalls zu entrichtenden Umsatzsteuer\. Die Entschädigung beträgt fünf Prozent sämtlicher Einkünfte der vertretenen Person nach Abzug der davon zu entrichtenden Steuern und Abgaben, wobei Bezüge, die kraft besonderer gesetzlicher Anordnung zur Deckung bestimmter Aufwendungen dienen, nicht als Einkünfte zu berücksichtigen sind\. Übersteigt der Wert des Vermögens der vertretenen Person 15 000 Euro, so sind darüber hinaus pro Jahr zwei Prozent des Mehrbetrags an Entschädigung zu gewähren\. Ist der gerichtliche Erwachsenenvertreter kürzer als ein volles Jahr tätig, so vermindert sich der Anspruch auf Entschädigung entsprechend\.
@@ -3542,6 +3922,8 @@
 > `(4)` Die zur zweckentsprechenden Ausübung der gerichtlichen Erwachsenenvertretung notwendigen Barauslagen, die tatsächlichen Aufwendungen und die angemessenen Kosten einer zur Deckung der Haftung nach § 249 Abs\. 1 abgeschlossenen Haftpflichtversicherung sind dem gerichtlichen Erwachsenenvertreter zu erstatten, soweit sie nach gesetzlichen Vorschriften nicht unmittelbar von Dritten getragen werden\. Ist der einzelne Nachweis dem gerichtlichen Erwachsenenvertreter nicht zumutbar, so ist ein angemessener Pauschalbetrag zu erstatten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-276-abgb--entschädigung-entgelt-und-aufwandersatz) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) \]
+
+----
 
 ## Siebentes Hauptstück
 
@@ -3567,11 +3949,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-277-abgb--voraussetzungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) \]
 
+----
+
 ### § 278 ABGB — Wirkungsbereich
 
 > Das Gericht hat den Kurator mit bestimmt zu bezeichnenden Angelegenheiten zu betrauen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-278-abgb--wirkungsbereich) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) \]
+
+----
 
 ### § 279 ABGB — Auswahl und Bestellung
 
@@ -3589,6 +3975,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-279-abgb--auswahl-und-bestellung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) \]
 
+----
+
 ### § 280 ABGB
 
 > `(1)` Eine Person, die das Gericht zum Kurator bestellen will, hat alle Umstände, die sie dafür ungeeignet erscheinen lassen, dem Gericht unverzüglich mitzuteilen\. Treten solche Umstände nach der Bestellung ein, so hat sie diese ebenso unverzüglich offen zu legen\. Unterlässt sie diese Mitteilung schuldhaft, so haftet sie für alle der vertretenen Person daraus entstehenden Nachteile\.
@@ -3598,6 +3986,8 @@
 > `(3)` Die vom Gericht in Aussicht genommene Person kann die Übernahme der Kuratel ablehnen, soweit sie nicht durch besondere gesetzliche Bestimmungen zur Übernahme verpflichtet ist\. Ein Notar oder Rechtsanwalt kann die Übernahme nur ablehnen, wenn ihm diese unter Berücksichtigung seiner persönlichen, familiären, beruflichen und sonstigen Verhältnisse nicht zugemutet werden kann\. Dies wird bei mehr als fünf Kuratelen vermutet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-280-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) \]
+
+----
 
 ### § 281 ABGB — Besondere Rechte und Pflichten des Kurators
 
@@ -3609,6 +3999,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-281-abgb--besondere-rechte-und-pflichten-des-kurators) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) \]
 
+----
+
 ### § 282 ABGB — Verschwiegenheitspflicht und Haftung
 
 > `(1)` Der Kurator ist, außer gegenüber dem Gericht, zur Verschwiegenheit über alle ihm in Ausübung seiner Funktion anvertrauten oder bekannt gewordenen Tatsachen verpflichtet\. § 248 Abs\. 2 und 3 gelten sinngemäß\.
@@ -3616,6 +4008,8 @@
 > `(2)` Der Kurator haftet der vertretenen Person für jeden durch sein Verschulden verursachten Schaden\. Das Gericht kann die Ersatzpflicht insoweit mäßigen oder ganz erlassen, als sie den Kurator unter Berücksichtigung aller Umstände, insbesondere des Grades des Verschuldens oder seines besonderen Naheverhältnisses zur vertretenen Person, unbillig hart träfe\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-282-abgb--verschwiegenheitspflicht-und-haftung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) \]
+
+----
 
 ### § 283 ABGB — Entschädigung, Entgelt und Aufwandersatz
 
@@ -3629,6 +4023,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-283-abgb--entschädigung-entgelt-und-aufwandersatz) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) \]
 
+----
+
 ### § 284 ABGB — Änderung und Beendigung der Kuratel
 
 > `(1)` Das Gericht hat die Kuratel auf Antrag des Kurators oder von Amts wegen einer anderen Person zu übertragen, wenn der Kurator stirbt, nicht die erforderliche Eignung aufweist oder durch die Kuratel unzumutbar belastet wird oder es sonst das Interesse der vertretenen Person aus anderen Gründen erfordert\. § 178 Abs\. 3 ist sinngemäß anzuwenden\.
@@ -3638,6 +4034,8 @@
 > `(3)` Das Gericht hat in angemessenen Zeitabständen zu prüfen, ob die Kuratel zu ändern oder zu beenden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-284-abgb--änderung-und-beendigung-der-kuratel) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) \]
+
+----
 
 ## Zweyter Theil
 
@@ -3655,11 +4053,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-285-abgb--begriff-von-sachen-im-rechtlichen-sinne) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) \]
 
+----
+
 ### § 285a ABGB
 
 > Tiere sind keine Sachen; sie werden durch besondere Gesetze geschützt\. Die für Sachen geltenden Vorschriften sind auf Tiere nur insoweit anzuwenden, als keine abweichenden Regelungen bestehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-285a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) \]
+
+----
 
 ### § 286 ABGB — Eintheilung der Sachen nach Verschiedenheit des Subjectes, dem sie gehören
 
@@ -3667,11 +4069,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-286-abgb--eintheilung-der-sachen-nach-verschiedenheit-des-subjectes-dem-sie-gehören) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) \]
 
+----
+
 ### § 287 ABGB — Freystehende Sachen; öffentliches Gut und Staatsvermögen
 
 > Sachen, welche allen Mitgliedern des Staates zur Zueignung überlassen sind, heißen freystehende Sachen\. Jenen, die ihnen nur zum Gebrauche verstattet werden, als: Landstraßen, Ströme, Flüsse, Seehäfen und Meeresufer, heißen ein allgemeines oder öffentliches Gut\. Was zur Bedeckung der Staatsbedürfnisse bestimmt ist, als: das Münz\- oder Post\- und andere Regalien, Kammergüter\-, Berg\- und Salzwerke, Steuern und Zölle, wird das Staatsvermögen genannt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-287-abgb--freystehende-sachen-öffentliches-gut-und-staatsvermögen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) \]
+
+----
 
 ### § 288 ABGB — Gemeindegut, Gemeindevermögen
 
@@ -3679,11 +4085,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-288-abgb--gemeindegut-gemeindevermögen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) \]
 
+----
+
 ### § 289 ABGB — Privat-Gut des Landesfürsten
 
 > Auch dasjenige Vermögen des Landesfürsten, welches er nicht als Oberhaupt des Staates besitzt, wird als ein Privat\-Gut betrachtet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-289-abgb--privat-gut-des-landesfürsten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) \]
+
+----
 
 ### § 290 ABGB — Allgemeine Vorschrift in Rücksicht dieser verschiedenen Arten der Güter
 
@@ -3691,11 +4101,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-290-abgb--allgemeine-vorschrift-in-rücksicht-dieser-verschiedenen-arten-der-güter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) \]
 
+----
+
 ### § 291 ABGB — Eintheilung der Sachen nach dem Unterschiede ihrer Beschaffenheit
 
 > Die Sachen werden nach dem Unterschiede ihrer Beschaffenheit eingetheilt: in körperliche und unkörperliche; in bewegliche und unbewegliche; in verbrauchbare und unverbrauchbare; in schätzbare und unschätzbare\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-291-abgb--eintheilung-der-sachen-nach-dem-unterschiede-ihrer-beschaffenheit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) \]
+
+----
 
 ### § 292 ABGB — Körperliche und unkörperliche Sachen;
 
@@ -3703,11 +4117,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-292-abgb--körperliche-und-unkörperliche-sachen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) \]
 
+----
+
 ### § 293 ABGB — bewegliche und unbewegliche
 
 > Sachen, welche ohne Verletzung ihrer Substanz von einer Stelle zur andern versetzt werden können, sind beweglich; im entgegengesetzten Falle sind sie unbeweglich\. Sachen, die an sich beweglich sind, werden im rechtlichen Sinne für unbeweglich gehalten, wenn sie vermöge des Gesetzes oder der Bestimmung des Eigenthümers das Zugehör einer unbeweglichen Sache ausmachen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-293-abgb--bewegliche-und-unbewegliche) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) \]
+
+----
 
 ### § 294 ABGB — Zugehör überhaupt
 
@@ -3715,11 +4133,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-294-abgb--zugehör-überhaupt) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) \]
 
+----
+
 ### § 295 ABGB — insbesondere bey Grundstücken und Teichen;
 
 > Gras, Bäume, Früchte und alle brauchbare Dinge, welche die Erde auf ihrer Oberfläche hervorbringt, bleiben so lange ein unbewegliches Vermögen, als sie nicht von Grund und Boden abgesondert worden sind\. Selbst die Fische in einem Teiche, und das Wild in einem Walde werden erst dann ein bewegliches Gut, wenn der Teich gefischet, und das Wild gefangen oder erlegt worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-295-abgb--insbesondere-bey-grundstücken-und-teichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) \]
+
+----
 
 ### § 296 ABGB
 
@@ -3727,11 +4149,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-296-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) \]
 
+----
+
 ### § 297 ABGB — und bey Gebäuden
 
 > Eben so gehören zu den unbeweglichen Sachen diejenigen, welche auf Grund und Boden in der Absicht aufgeführt werden, daß sie stets darauf bleiben sollen, als: Häuser und andere Gebäude mit dem in senkrechter Linie darüber befindlichen Luftraume; ferner: nicht nur Alles, was erd\- mauer\- niet\- und nagelfest ist, als: Braupfannen, Branntweinkessel und eingezimmerte Schränke, sondern auch diejenigen Dinge, die zum anhaltenden Gebrauche eines Ganzen bestimmt sind: z\. B\. Brunneneimer, Seile, Ketten, Löschgeräthe und dergleichen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-297-abgb--und-bey-gebäuden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) \]
+
+----
 
 ### § 297a ABGB — Maschinen
 
@@ -3739,11 +4165,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-297a-abgb--maschinen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) \]
 
+----
+
 ### § 298 ABGB — Rechte sind insgemein als bewegliche Sachen anzusehen;
 
 > Rechte werden den beweglichen Sachen beygezählt, wenn sie nicht mit dem Besitze einer unbeweglichen Sache verbunden, oder durch die Landesverfassung für eine unbewegliche Sache erkläret sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-298-abgb--rechte-sind-insgemein-als-bewegliche-sachen-anzusehen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) \]
+
+----
 
 ### § 299 ABGB — auch die vorgemerkten Forderungen
 
@@ -3751,11 +4181,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-299-abgb--auch-die-vorgemerkten-forderungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) \]
 
+----
+
 ### § 300 ABGB — Kellereigentum
 
 > An Räumen und Bauwerken, die sich unter der Erdoberfläche der Liegenschaft eines anderen befinden und nicht der Fundierung von über der Erdoberfläche errichteten Bauwerken dienen, wie Kellern, Tiefgaragen und industriellen oder wirtschaftlichen Zwecken gewidmeten Stollen, kann mit Einwilligung des Liegenschaftseigentümers gesondert Eigentum begründet werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-300-abgb--kellereigentum) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) \]
+
+----
 
 ### § 301 ABGB — Verbrauchbare und unverbrauchbare Sachen
 
@@ -3763,11 +4197,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-301-abgb--verbrauchbare-und-unverbrauchbare-sachen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) \]
 
+----
+
 ### § 302 ABGB — Gesamtsache (universitas rerum)
 
 > Ein Inbegriff von mehreren besondern Sachen, die als Eine Sache angesehen, und mit einem gemeinschaftlichen Nahmen bezeichnet zu werden pflegen, macht eine Gesammtsache aus, und wird als ein Ganzes betrachtet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-302-abgb--gesamtsache-universitas-rerum) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) \]
+
+----
 
 ### § 303 ABGB — Schätzbare und unschätzbare
 
@@ -3775,11 +4213,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-303-abgb--schätzbare-und-unschätzbare) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) \]
 
+----
+
 ### § 304 ABGB — Maßstab der gerichtlichen Schätzung
 
 > Der bestimmte Werth einer Sache heißt ihr Preis\. Wenn eine Sache vom Gerichte zu schätzen ist, so muß die Schätzung nach einer bestimmten Summe Geldes geschehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-304-abgb--maßstab-der-gerichtlichen-schätzung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) \]
+
+----
 
 ### § 305 ABGB — Ordentlicher und außerordentlicher Preis
 
@@ -3787,11 +4229,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-305-abgb--ordentlicher-und-außerordentlicher-preis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) \]
 
+----
+
 ### § 306 ABGB — Welcher bey gerichtlichen Schätzungen zur Richtschnur zu nehmen
 
 > In allen Fällen, wo nichts Anderes entweder bedungen, oder von dem Gesetze verordnet wird, muß bey der Schätzung einer Sache der gemeine Preis zur Richtschnur genommen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-306-abgb--welcher-bey-gerichtlichen-schätzungen-zur-richtschnur-zu-nehmen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) \]
+
+----
 
 ### § 307 ABGB — Begriffe vom dinglichen und persönlichen Sachenrechte
 
@@ -3799,11 +4245,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-307-abgb--begriffe-vom-dinglichen-und-persönlichen-sachenrechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) \]
 
+----
+
 ### § 308 ABGB
 
 > Dingliche Sachenrechte sind das Recht des Besitzes, des Eigentums, des Pfandes und der Dienstbarkeit\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-308-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) \]
+
+----
 
 ## Erste Abtheilung
 
@@ -3821,6 +4271,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-309-abgb--inhaber-besitzer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) \]
 
+----
+
 ## Erwerbung des Besitzes.
 
 ### § 310 ABGB — Fähigkeit der Person zur Besitzerwerbung
@@ -3829,11 +4281,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-310-abgb--fähigkeit-der-person-zur-besitzerwerbung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) \]
 
+----
+
 ### § 311 ABGB — Gegenstände des Besitzes
 
 > Alle körperliche und unkörperliche Sachen, welche ein Gegenstand des rechtlichen Verkehres sind, können in Besitz genommen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-311-abgb--gegenstände-des-besitzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) \]
+
+----
 
 ### § 312 ABGB — Arten der Besitzerwerbung;
 
@@ -3841,11 +4297,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-312-abgb--arten-der-besitzerwerbung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) \]
 
+----
+
 ### § 313 ABGB — insbesondere von einem bejahenden, verneinenden oder einem Verbothsrechte
 
 > Der Gebrauch eines Rechtes wird gemacht, wenn jemand von einem Andern etwas als eine Schuldigkeit fordert, und dieser es ihm leistet; ferner, wenn jemand die einem Andern gehörige Sache mit dessen Gestattung zu seinem Nutzen anwendet; endlich, wenn auf fremdes Verboth ein Anderer das, was er sonst zu thun befugt wäre, unterläßt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-313-abgb--insbesondere-von-einem-bejahenden-verneinenden-oder-einem-verbothsrechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) \]
+
+----
 
 ### § 314 ABGB — Unmittelbare und mittelbare Erwerbungsart des Besitzes
 
@@ -3853,11 +4313,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-314-abgb--unmittelbare-und-mittelbare-erwerbungsart-des-besitzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) \]
 
+----
+
 ### § 315 ABGB — Umfang der Erwerbung
 
 > Durch die unmittelbare und durch die mittelbare eigenmächtige Besitzergreifung erhält man nur so viel in Besitz, als wirklich ergriffen, betreten, gebraucht, bezeichnet, oder in Verwahrung gebracht worden ist; bey der mittelbaren, wenn uns der Inhaber in seinem oder eines andern Nahmen ein Recht oder eine Sache überläßt, erhält man Alles, was der vorige Inhaber gehabt und durch deutliche Zeichen übergeben hat, ohne daß es nöthig ist, jeden Theil des Ganzen besonders zu übernehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-315-abgb--umfang-der-erwerbung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) \]
+
+----
 
 ### § 316 ABGB — Rechtmäßiger; unrechtmäßiger Besitz
 
@@ -3865,11 +4329,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-316-abgb--rechtmäßiger-unrechtmäßiger-besitz) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) \]
 
+----
+
 ### § 317 ABGB — Haupttitel des rechtmäßigen Besitzes
 
 > Der Titel liegt bey freystehenden Sachen in der angebornen Freyheit zu Handlungen, wodurch die Rechte Anderer nicht verletzt werden; bey andern in dem Willen des vorigen Besitzers, oder in dem Ausspruche des Richters, oder endlich in dem Gesetze, wodurch jemanden das Recht zum Besitze ertheilet wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-317-abgb--haupttitel-des-rechtmäßigen-besitzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) \]
+
+----
 
 ### § 318 ABGB — Der Inhaber hat noch keinen Titel;
 
@@ -3877,11 +4345,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-318-abgb--der-inhaber-hat-noch-keinen-titel) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) \]
 
+----
+
 ### § 319 ABGB — und kann ihn nicht eigenmächtig erlangen
 
 > Der Inhaber einer Sache ist nicht berechtigt, den Grund seiner Gewahrsame eigenmächtig zu verwechseln, und sich dadurch eines Titels anzumaßen; wohl aber kann derjenige, welcher bisher eine Sache in eigenem Nahmen rechtmäßig besaß, das Besitzrecht einem Andern überlassen und sie künftig in dessen Nahmen inne haben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-319-abgb--und-kann-ihn-nicht-eigenmächtig-erlangen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) \]
+
+----
 
 ### § 320 ABGB — Wirkung des bloßen Titels
 
@@ -3889,11 +4361,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-320-abgb--wirkung-des-bloßen-titels) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) \]
 
+----
+
 ### § 321 ABGB — Erforderung zum wirklichen Besitzrechte
 
 > Wo so genannte Landtafeln, Stadt\- oder Grundbücher, oder andere dergleichen öffentliche Register eingeführt sind, wird der rechtmäßige Besitz eines dinglichen Rechtes auf unbewegliche Sachen nur durch die ordentliche Eintragung in diese öffentlichen Bücher erlangt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-321-abgb--erforderung-zum-wirklichen-besitzrechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) \]
+
+----
 
 ### § 322 ABGB
 
@@ -3901,11 +4377,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-322-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) \]
 
+----
+
 ### § 323 ABGB — Der Besitzer kann zur Angabe des Rechtsgrundes nicht aufgefordert werden
 
 > Der Besitzer einer Sache hat die rechtliche Vermuthung eines gültigen Titels für sich; er kann also zur Angabe desselben nicht aufgefordert werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-323-abgb--der-besitzer-kann-zur-angabe-des-rechtsgrundes-nicht-aufgefordert-werden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) \]
+
+----
 
 ### § 324 ABGB
 
@@ -3913,11 +4393,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-324-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) \]
 
+----
+
 ### § 325 ABGB — Ausnahme
 
 > In wie fern der Besitzer einer Sache, deren Verkehr verbothen; oder die entwendet zu seyn scheint, den Titel seines Besitzes anzuzeigen verbunden sey, darüber entscheiden die Straf\- und politischen Gesetze\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-325-abgb--ausnahme) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) \]
+
+----
 
 ### § 326 ABGB — Redlicher und unredlicher Besitzer
 
@@ -3925,17 +4409,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-326-abgb--redlicher-und-unredlicher-besitzer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) \]
 
+----
+
 ### § 327 ABGB — Wie ein Mitbesitzer zum unredlichen oder unrechtmäßigen Besitzer werde
 
 > Besitzt eine Person die Sache selbst, eine andere aber das Recht auf alle oder auf einige Nutzungen dieser Sache; so kann eine und dieselbe Person, wenn sie die Gränzen ihres Rechtes überschreitet, in verschiedenen Rücksichten ein redlicher und unredlicher, ein rechtmäßiger und unrechtmäßiger Besitzer seyn\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-327-abgb--wie-ein-mitbesitzer-zum-unredlichen-oder-unrechtmäßigen-besitzer-werde) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) \]
 
+----
+
 ### § 328 ABGB — Entscheidung über die Redlichkeit des Besitzes
 
 > Die Redlichkeit oder Unredlichkeit des Besitzes muß im Falle eines Rechtsstreites durch richterlichen Ausspruch entschieden werden\. Im Zweifel ist die Vermuthung für die Redlichkeit des Besitzes\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-328-abgb--entscheidung-über-die-redlichkeit-des-besitzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) \]
+
+----
 
 ## Fortdauer des Besitzes.
 
@@ -3947,11 +4437,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-329-abgb--a-in-rücksicht-der-substanz-der-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) \]
 
+----
+
 ### § 330 ABGB — b) der Nutzungen;
 
 > Dem redlichen Besitzer gehören alle aus der Sache entspringende Früchte, so bald sie von der Sache abgesondert worden sind; ihm gehören auch alle andere schon eingehobene Nutzungen, in so fern sie während des ruhigen Besitzes bereits fällig gewesen sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-330-abgb--b-der-nutzungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) \]
+
+----
 
 ### § 331 ABGB — c) des Aufwandes
 
@@ -3959,11 +4453,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-331-abgb--c-des-aufwandes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) \]
 
+----
+
 ### § 332 ABGB
 
 > Von dem Aufwande, welcher nur zum Vergnügen und zur Verschönerung gemacht worden ist, wird nur so viel ersetzt, als die Sache dem gemeinen Werthe nach wirklich dadurch gewonnen hat; doch hat der vorige Besitzer die Wahl, Alles für sich wegzunehmen, was davon ohne Schaden der Substanz weggenommen werden kann\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-332-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) \]
+
+----
 
 ### § 333 ABGB — Anspruch auf den Ersatz des Preises
 
@@ -3971,11 +4469,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-333-abgb--anspruch-auf-den-ersatz-des-preises) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) \]
 
+----
+
 ### § 334 ABGB
 
 > Ob einem redlichen Inhaber das Recht zustehe, seiner Forderung wegen die Sache zurück zu behalten, wird in dem Hauptstücke vom Pfandrechte bestimmt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-334-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) \]
+
+----
 
 ### § 335 ABGB — Verbindlichkeit des unredlichen Besitzers
 
@@ -3983,11 +4485,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-335-abgb--verbindlichkeit-des-unredlichen-besitzers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) \]
 
+----
+
 ### § 336 ABGB
 
 > Hat der unredliche Besitzer einen Aufwand auf die Sache gemacht, so ist dasjenige anzuwenden, was in Rücksicht des von einem Geschäftsführer ohne Auftrag gemachten Aufwandes in dem Hauptstücke von der Bevollmächtigung verordnet ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-336-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) \]
+
+----
 
 ### § 337 ABGB — Beurtheilung der Redlichkeit des Besitzes einer Gemeinde
 
@@ -3995,11 +4501,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-337-abgb--beurtheilung-der-redlichkeit-des-besitzes-einer-gemeinde) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) \]
 
+----
+
 ### § 338 ABGB — Inwiefern durch die Klage der Besitz unredlich werde
 
 > Auch der redliche Besitzer, wenn er durch richterlichen Ausspruch zur Zurückstellung der Sache verurtheilet wird, ist in Rücksicht des Ersatzes der Nutzungen und des Schadens, wie auch in Rücksicht des Aufwandes, von dem Zeitpuncte der ihm zugestellten Klage, gleich einem unredlichen Besitzer zu behandeln; doch haftet er für den Zufall, der die Sache bey dem Eigenthümer nicht getroffen hätte, nur in dem Falle, daß er die Zurückgabe durch einen muthwilligen Rechtsstreit verzögert hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-338-abgb--inwiefern-durch-die-klage-der-besitz-unredlich-werde) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) \]
+
+----
 
 ### § 339 ABGB — Rechtsmittel des Besitzers bey einer Störung seines Besitzes;
 
@@ -4007,11 +4517,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-339-abgb--rechtsmittel-des-besitzers-bey-einer-störung-seines-besitzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) \]
 
+----
+
 ### § 340 ABGB — besonders durch eine Bauführung;
 
 > Wird der Besitzer einer unbeweglichen Sache oder eines dinglichen Rechtes durch Führung eines neuen Gebäudes, Wasserwerkes, oder andern Werkes in seinen Rechten gefährdet, ohne daß sich der Bauführer nach Vorschrift der allgemeinen Gerichtsordnung gegen ihn geschützt hat; so ist der Gefährdete berechtigt, das Verboth einer solchen Neuerung vor Gericht zu fordern, und das Gericht ist verbunden, die Sache auf das schleunigste zu entscheiden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-340-abgb--besonders-durch-eine-bauführung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) \]
+
+----
 
 ### § 341 ABGB
 
@@ -4019,17 +4533,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-341-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) \]
 
+----
+
 ### § 342 ABGB
 
 > Was in den vorhergehenden §§\.in Rücksicht einer neuen Bauführung verordnet wird, ist auch auf die Niederreißung eines alten Gebäudes, oder andern Werkes anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-342-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) \]
 
+----
+
 ### § 343 ABGB — und bey der Gefahr eines vorhandenen Baues
 
 > Kann der Besitzer eines dinglichen Rechtes beweisen, daß ein bereits vorhandener fremder Bau oder eine andere fremde Sache dem Einsturze nahe sey, und ihm offenbarer Schaden drohe; so ist er befugt, gerichtlich auf Sicherstellung zu dringen, wenn anders die politische Behörde nicht bereits hinlänglich für die öffentliche Sicherheit gesorgt hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-343-abgb--und-bey-der-gefahr-eines-vorhandenen-baues) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) \]
+
+----
 
 ## Rechtsmittel zur Erhaltung des Besitzstandes:
 
@@ -4039,11 +4559,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-344-abgb--a-bey-dringender-gefahr) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) \]
 
+----
+
 ### § 345 ABGB — d) gegen den unechten Besitzer;
 
 > Wenn sich jemand in den Besitz eindringt, oder durch List oder Bitte heimlich einschleicht, und das, was man ihm aus Gefälligkeit, ohne sich einer fortdauernden Verbindlichkeit zu unterziehen gestattet, in ein fortwährendes Recht zu verwandeln sucht; so wird der an sich unrechtmäßige und unredliche Besitz noch überdieß unecht; in entgegengesetzten Fällen wird der Besitz für echt angesehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-345-abgb--d-gegen-den-unechten-besitzer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) \]
+
+----
 
 ### § 346 ABGB
 
@@ -4051,17 +4575,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-346-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) \]
 
+----
+
 ### § 347 ABGB — c) beym Zweifel über die Echtheit des Besitzes
 
 > Zeigt es sich nicht gleich auf der Stelle, wer sich in einem echten Besitze befinde, und in wie fern der eine oder der andere Theil auf gerichtliche Unterstützung Anspruch habe; so wird die im Streite verfangene Sache so lange der Gewahrsame des Gerichtes oder eines Dritten anvertraut, bis der Streit über den Besitz verhandelt und entschieden worden ist\. Der Sachfällige kann auch nach dieser Entscheidung die Klage aus einem vermeintlich stärkeren Rechte auf die Sache noch anhängig machen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-347-abgb--c-beym-zweifel-über-die-echtheit-des-besitzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) \]
 
+----
+
 ### § 348 ABGB — Verwahrungsmittel des Inhabers gegen mehrere zusammentreffende Besitzwerber
 
 > Wenn der bloße Inhaber von mehreren Besitzwerbern zugleich um die Uebergabe der Sache angegangen wird, und sich Einer darunter befindet, in dessen Nahmen die Sache aufbewahrt wurde; so wird sie vorzüglich diesem übergeben, und die Uebergabe den Uebrigen bekannt gemacht\. Kommt dieser Umstand Keinem zu Statten, so wird die Sache der Gewahrsame des Richters oder eines Dritten anvertraut\. Der Richter hat die Rechtsgründe der Besitzwerber zu prüfen, und darüber zu entscheiden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-348-abgb--verwahrungsmittel-des-inhabers-gegen-mehrere-zusammentreffende-besitzwerber) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) \]
+
+----
 
 ## Erlöschung des Besitzes:
 
@@ -4071,11 +4601,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-349-abgb--a-körperlicher-sachen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) \]
 
+----
+
 ### § 350 ABGB — b) der in die öffentlichen Bücher eingetragenen Rechte;
 
 > Der Besitz derjenigen Rechte und unbeweglichen Sachen, welche einen Gegenstand der öffentlichen Bücher ausmachen, erlischt, wenn sie aus den landtäflichen, Stadt\- oder Grundbüchern gelöscht; oder, wenn sie auf den Nahmen eines Anderen eingetragen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-350-abgb--b-der-in-die-öffentlichen-bücher-eingetragenen-rechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) \]
+
+----
 
 ### § 351 ABGB — c) anderer Rechte
 
@@ -4083,11 +4617,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-351-abgb--c-anderer-rechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) \]
 
+----
+
 ### § 352 ABGB
 
 > So lange noch Hoffnung vorhanden ist, eine verlorne Sache zu erhalten, kann man sich durch den bloßen Willen in ihrem Besitze erhalten\. Die Abwesenheit des Besitzers oder die eintretende Unfähigkeit einen Besitz zu erwerben, heben den bereits erworbenen Besitz nicht auf\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-352-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) \]
+
+----
 
 ## Zweytes Hauptstück.
 
@@ -4101,11 +4639,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-353-abgb--eigenthum-im-objectiven-sinne) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) \]
 
+----
+
 ### § 354 ABGB — im subjectiven
 
 > Als ein Recht betrachtet, ist Eigenthum das Befugniß, mit der Substanz und den Nutzungen einer Sache nach Willkühr zu schalten, und jeden Andern davon auszuschließen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-354-abgb--im-subjectiven) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) \]
+
+----
 
 ### § 355 ABGB — Objective und subjective Möglichkeit der Erwerbung des Eigenthumes
 
@@ -4113,11 +4655,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-355-abgb--objective-und-subjective-möglichkeit-der-erwerbung-des-eigenthumes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) \]
 
+----
+
 ### § 356 ABGB
 
 > Wer also behauptet, daß der Person, die etwas erwerben will, in Rücksicht ihrer persönlichen Fähigkeit, oder in Rücksicht auf die Sache, die erworben werden soll, ein gesetzliches Hinderniß entgegen stehe, dem liegt der Beweis ob\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-356-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) \]
+
+----
 
 ### § 358 ABGB
 
@@ -4125,11 +4671,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-358-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) \]
 
+----
+
 ### § 361 ABGB — Miteigenthum
 
 > Wenn eine noch ungetheilte Sache mehrern Personen zugleich zugehört; so entsteht ein gemeinschaftliches Eigenthum\. In Beziehung auf das Ganze werden die Miteigenthümer für eine einzige Person angesehen; in so weit ihnen aber gewisse, obgleich unabgesonderte Theile angewiesen sind, hat jeder Miteigenthümer das vollständige Eigenthum des ihm gehörigen Theiles\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-361-abgb--miteigenthum) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) \]
+
+----
 
 ### § 362 ABGB — Rechte des Eigenthümers
 
@@ -4137,11 +4687,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-362-abgb--rechte-des-eigenthümers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) \]
 
+----
+
 ### § 363 ABGB — Beschränkungen derselben
 
 > Eben diese Rechte genießen auch unvollständige, sowohl Ober\- als Nutzungseigenthümer; nur darf der Eine nichts vornehmen, was mit dem Rechte des Andern im Widerspruche steht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-363-abgb--beschränkungen-derselben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) \]
+
+----
 
 ### § 364 ABGB
 
@@ -4153,11 +4707,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-364-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) \]
 
+----
+
 ### § 364a ABGB
 
 > Wird jedoch die Beeinträchtigung durch eine Bergwerksanlage oder eine behördlich genehmigte Anlage auf dem nachbarlichen Grund in einer dieses Maß überschreitenden Weise verursacht, so ist der Grundbesitzer nur berechtigt, den Ersatz des zugefügten Schadens gerichtlich zu verlangen, auch wenn der Schaden durch Umstände verursacht wird, auf die bei der behördlichen Verhandlung keine Rücksicht genommen wurde\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-364a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) \]
+
+----
 
 ### § 364b ABGB
 
@@ -4165,17 +4723,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-364b-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) \]
 
+----
+
 ### § 364c ABGB
 
 > Ein vertragsmäßiges oder letztwilliges Veräußerungs\- oder Belastungsverbot hinsichtlich einer Sache oder eines dinglichen Rechtes verpflichtet nur den ersten Eigentümer, nicht aber seine Erben oder sonstigen Rechtsnachfolger\. Gegen Dritte wirkt es dann, wenn es zwischen Ehegatten, eingetragenen Partnern, Eltern und Kindern, Wahl\- oder Pflegekindern oder deren Ehegatten oder eingetragenen Partnern begründet und im öffentlichen Buche eingetragen wurde\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-364c-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) \]
 
+----
+
 ### § 365 ABGB
 
 > Wenn es das allgemeine Beste erheischt, muß ein Mitglied des Staates gegen eine angemessene Schadloshaltung selbst das vollständige Eigenthum einer Sache abtreten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-365-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) \]
+
+----
 
 ## Klagen aus dem Eigenthumsrechte.
 
@@ -4185,6 +4749,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-366-abgb--a-eigentliche-eigenthumsklage-wem-und-gegen-wen-sie-gebühre) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) \]
 
+----
+
 ### § 367 ABGB — Gutgläubiger Erwerb
 
 > `(1)` Die Eigentumsklage gegen den rechtmäßigen und redlichen Besitzer einer beweglichen Sache ist abzuweisen, wenn er beweist, dass er die Sache gegen Entgelt in einer öffentlichen Versteigerung, von einem Unternehmer im gewöhnlichen Betrieb seines Unternehmens oder von jemandem erworben hat, dem sie der vorige Eigentümer anvertraut hatte\. In diesen Fällen erwirbt der rechtmäßige und redliche Besitzer das Eigentum\. Der Anspruch des vorigen Eigentümers auf Schadenersatz gegen seinen Vertrauensmann oder gegen andere Personen bleibt unberührt\.
@@ -4192,6 +4758,8 @@
 > `(2)` Ist die Sache mit dem Recht eines Dritten belastet, so erlischt dieses Recht mit dem Erwerb des Eigentums durch den rechtmäßigen und redlichen Besitzer, es sei denn, dass dieser in Ansehung dieses Rechtes nicht redlich ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-367-abgb--gutgläubiger-erwerb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) \]
+
+----
 
 ### § 368 ABGB
 
@@ -4201,11 +4769,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-368-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) \]
 
+----
+
 ### § 369 ABGB — Was dem Kläger zu beweisen obliege?
 
 > Wer die Eigenthumsklage übernimmt, muß den Beweis führen, daß der Geklagte die eingeklagte Sache in seiner Macht habe, und daß diese Sache sein Eigenthum sey\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-369-abgb--was-dem-kläger-zu-beweisen-obliege) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) \]
+
+----
 
 ### § 370 ABGB
 
@@ -4213,11 +4785,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-370-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) \]
 
+----
+
 ### § 371 ABGB
 
 > Sachen, die sich auf diese Art nicht unterscheiden lassen, wie bares Geld mit anderm baren Gelde vermenget, oder auf den Ueberbringer lautende Schuldbriefe, sind also in der Regel kein Gegenstand der Eigenthumsklage; wenn nicht solche Umstände eintreten, aus denen der Kläger sein Eigenthumsrecht beweisen kann, und aus denen der Geklagte wissen mußte, daß er die Sache sich zuzuwenden nicht berechtiget sey\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-371-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_287_TextContainer_287) \]
+
+----
 
 ## b) Eigenthumsklage aus dem rechtlich vermuteten Eigenthume des Klägers.
 
@@ -4227,11 +4803,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-372-abgb--gegen-welchen-besitzer-diese-vermuthung-eintrete) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_288_TextContainer_288) \]
 
+----
+
 ### § 373 ABGB
 
 > Wenn also der Geklagte die Sache auf eine unredliche oder unrechtmäßige Weise besitzt; wenn er keinen oder nur einen verdächtigen Vormann anzugeben vermag; oder, wenn er die Sache ohne Entgeld, der Kläger aber gegen Entgeld erhalten hat; so muß er dem Kläger weichen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-373-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_289_TextContainer_289) \]
+
+----
 
 ### § 374 ABGB
 
@@ -4239,11 +4819,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-374-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_290_TextContainer_290) \]
 
+----
+
 ### § 375 ABGB
 
 > Wer eine Sache in fremdem Nahmen besitzt, kann sich gegen die Eigenthumsklage dadurch schützen, daß er seinen Vormann nahmhaft macht, und sich darüber ausweiset\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-375-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_291_TextContainer_291) \]
+
+----
 
 ## Gesetzliche Folge:
 
@@ -4253,11 +4837,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-376-abgb--a-der-abläugnung-des-besitzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) \]
 
+----
+
 ### § 377 ABGB — b) des vorgegebenen Besitzes;
 
 > Wer eine Sache, die er nicht besitzt, zu besitzen vorgibt, und den Kläger dadurch irre führt, haftet für allen daraus entstehenden Schaden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-377-abgb--b-des-vorgegebenen-besitzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_293_TextContainer_293) \]
+
+----
 
 ### § 378 ABGB — c) des aufgegebenen Besitzes der streitigen Sache
 
@@ -4265,11 +4853,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-378-abgb--c-des-aufgegebenen-besitzes-der-streitigen-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_294_TextContainer_294) \]
 
+----
+
 ### § 379 ABGB — Was der Besitzer dem Eigenthümer erstatte
 
 > Was sowohl der redliche als unredliche Besitzer dem Eigenthümer in Ansehung des entgangenen Nutzens, oder des erlittenen Schadens zu ersetzen habe, ist in dem vorigen Hauptstücke bestimmt worden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-379-abgb--was-der-besitzer-dem-eigenthümer-erstatte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_295_TextContainer_295) \]
+
+----
 
 ## Drittes Hauptstück.
 
@@ -4281,6 +4873,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-380-abgb--rechtliche-erfordernisse-der-erwerbung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_296_TextContainer_296) \]
 
+----
+
 ## Titel und Art der unmittelbaren Erwerbung.
 
 ### § 381 ABGB — Die Zueignung
@@ -4289,11 +4883,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-381-abgb--die-zueignung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_297_TextContainer_297) \]
 
+----
+
 ### § 382 ABGB
 
 > Freystehende Sachen können von allen Mitgliedern des Staates durch die Zueignung erworben werden, in so fern dieses Befugniß nicht durch politische Gesetze eingeschränkt ist, oder einigen Mitgliedern das Vorrecht der Zueignung zusteht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-382-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_298_TextContainer_298) \]
+
+----
 
 ### § 383 ABGB — 1) Durch den Thierfang;
 
@@ -4301,11 +4899,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-383-abgb--1-durch-den-thierfang) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_299_TextContainer_299) \]
 
+----
+
 ### § 384 ABGB
 
 > Häusliche Bienenschwärme und andere zahme oder zahm gemachte Thiere sind kein Gegenstand des freyen Thierfanges, vielmehr hat der Eigenthümer das Recht, sie auf fremdem Grunde zu verfolgen; doch soll er dem Grundbesitzer den ihm etwa verursachten Schaden ersetzen\. Im Falle, daß der Eigenthümer des Mutterstockes den Schwarm durch zwey Tage nicht verfolgt hat; oder, daß ein zahm gemachtes Thier durch zwey und vierzig Tage von selbst ausgeblieben ist, kann sie auf gemeinem Grunde jedermann; auf dem seinigen der Grundeigenthümer für sich nehmen, und behalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-384-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_300_TextContainer_300) \]
+
+----
 
 ### § 385 ABGB — 2) durch das Finden freystehender Sachen;
 
@@ -4313,17 +4915,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-385-abgb--2-durch-das-finden-freystehender-sachen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_301_TextContainer_301) \]
 
+----
+
 ### § 386 ABGB
 
 > Bewegliche Sachen, welche der Eigenthümer nicht mehr als die seinigen behalten will, und daher verläßt, kann sich jedes Mitglied des Staates eigen machen\. Im Zweifel ist nicht zu vermuten, dass jemand sein Eigentum aufgeben wolle; daher darf kein Finder eine gefundene Sache für verlassen ansehen und sich diese zueignen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-386-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_302_TextContainer_302) \]
 
+----
+
 ### § 387 ABGB
 
 > In wie fern Grundstücke wegen gänzlicher Unterlassung ihres Anbaues, oder Gebäude wegen der unterlassenen Herstellung für verlassen anzusehen, oder einzuziehen seyn, bestimmen die politischen Gesetze\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-387-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_303_TextContainer_303) \]
+
+----
 
 ## Vorschriften über das Finden
 
@@ -4335,6 +4943,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-388-abgb--a-verlorener-und-vergessener-sachen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_304_TextContainer_304) \]
 
+----
+
 ### § 389 ABGB
 
 > `(1)` Finder ist, wer eine verlorene oder vergessene Sache entdeckt und an sich nimmt\.
@@ -4343,11 +4953,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-389-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_305_TextContainer_305) \]
 
+----
+
 ### § 390 ABGB
 
 > Der Finder hat den Fund unverzüglich der zuständigen Fundbehörde \(§ 14 Abs\. 5 SPG\) unter Abgabe der gefundenen Sache anzuzeigen und über alle für die Ausforschung eines Verlustträgers maßgeblichen Umstände Auskunft zu geben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-390-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_306_TextContainer_306) \]
+
+----
 
 ### § 391 ABGB
 
@@ -4359,11 +4973,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-391-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_307_TextContainer_307) \]
 
+----
+
 ### § 392 ABGB
 
 > Der Finder hat gegen den, dem der Fundgegenstand ausgefolgt wird, Anspruch auf Finderlohn und auf Ersatz des notwendig und zweckmäßig gemachten Aufwandes\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-392-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_308_TextContainer_308) \]
+
+----
 
 ### § 393 ABGB
 
@@ -4372,6 +4990,8 @@
 > `(2)` Bei unschätzbaren Sachen und solchen, deren Wiedererlangung für den Verlustträger von erheblicher Bedeutung ist, ist der Finderlohn nach billigem Ermessen festzulegen; hierbei ist auf die Grundsätze des Abs\. 1, auf die dem Finder entstandene Mühe und auf den dem Verlustträger durch die Wiedererlangung der gefundenen Sache verschafften Vorteil Bedacht zu nehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-393-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_309_TextContainer_309) \]
+
+----
 
 ### § 394 ABGB
 
@@ -4385,17 +5005,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-394-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_310_TextContainer_310) \]
 
+----
+
 ### § 395 ABGB
 
 > Wird die Sache innerhalb eines Jahres oder, wenn der gemeine Wert der Sache im Zeitpunkt des Fundes 100 Euro nicht übersteigt, innerhalb eines halben Jahres von keinem Verlustträger angesprochen, so erwirbt der Finder das Eigentum an der in seiner Gewahrsame befindlichen Sache mit Ablauf der Frist, an der abgegebenen Sache mit ihrer Ausfolgung an ihn\. Die Frist beginnt im Fall des § 391 Z 2 mit dem Zeitpunkt des Findens, sonst mit der Erstattung der Anzeige \(§ 390\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-395-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_311_TextContainer_311) \]
 
+----
+
 ### § 396 ABGB
 
 > Wer eine verlorene oder vergessene Sache entdeckt, sie aber nicht an sich nehmen kann, hat Anspruch auf die Hälfte des im § 393 bestimmten Finderlohnes, wenn er die Entdeckung einer im § 390 bezeichneten Stelle anzeigt und der Verlustträger die Sache dadurch wiedererlangt, es sei denn, dass dieser die Sache auch sonst ohne deren Gefährdung wiedererlangt hätte\. § 394 Z 1 ist anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-396-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_312_TextContainer_312) \]
+
+----
 
 ### § 397 ABGB — b) verborgener Gegenstände
 
@@ -4405,11 +5031,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-397-abgb--b-verborgener-gegenstände) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_313_TextContainer_313) \]
 
+----
+
 ### § 398 ABGB — c) eines Schatzes
 
 > Bestehen die entdeckten Sachen in Geld, Schmuck oder andern Kostbarkeiten, die so lange im Verborgenen gelegen haben, daß man ihren vorigen Eigenthümer nicht mehr erfahren kann, dann heißen sie ein Schatz\. Die Entdeckung eines Schatzes ist von der Obrigkeit der Landesstelle anzuzeigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-398-abgb--c-eines-schatzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_314_TextContainer_314) \]
+
+----
 
 ### § 399 ABGB
 
@@ -4417,11 +5047,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-399-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_315_TextContainer_315) \]
 
+----
+
 ### § 400 ABGB
 
 > Wer sich dabey einer unerlaubten Handlung schuldig gemacht; wer ohne Wissen und Willen des Nutzungseigenthümers den Schatz aufgesucht; oder den Fund verheimlichet hat; dessen Antheil soll dem Angeber; oder, wenn kein Angeber vorhanden ist, dem Staate zufallen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-400-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_316_TextContainer_316) \]
+
+----
 
 ### § 401 ABGB
 
@@ -4429,17 +5063,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-401-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_317_TextContainer_317) \]
 
+----
+
 ### § 402 ABGB — 3) von der Beute
 
 > Ueber das Recht der Beute und der von dem Feinde zurück erbeuteten Sachen, sind die Vorschriften in den Kriegsgesetzen enthalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-402-abgb--3-von-der-beute) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_318_TextContainer_318) \]
 
+----
+
 ### § 403 ABGB — Von dem Rechte aus der Rettung einer fremden beweglichen Sache
 
 > Wer eine fremde bewegliche Sache von dem unvermeidlichen Verluste oder Untergange rettet, ist berechtigt, von dem rückfordernden Eigenthümer den Ersatz seines Aufwandes, und eine verhältnismäßige Belohnung von höchstens Zehen von Hundert zu fordern\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-403-abgb--von-dem-rechte-aus-der-rettung-einer-fremden-beweglichen-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_319_TextContainer_319) \]
+
+----
 
 ## Viertes Hauptstück.
 
@@ -4451,6 +5091,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-404-abgb--zuwachs) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_320_TextContainer_320) \]
 
+----
+
 ## I. Natürlicher Zuwachs:
 
 ### § 405 ABGB — a) an Natur-Producten; — b) Werfen der Thiere;
@@ -4459,11 +5101,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-405-abgb--a-an-natur-producten--b-werfen-der-thiere) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_321_TextContainer_321) \]
 
+----
+
 ### § 406 ABGB
 
 > Der Eigenthümer eines Thieres, welches durch das Thier eines andern befruchtet wird, ist diesem keinen Lohn schuldig, wenn er nicht bedungen worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-406-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_322_TextContainer_322) \]
+
+----
 
 ### § 407 ABGB — c) Inseln;
 
@@ -4471,11 +5117,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-407-abgb--c-inseln) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_323_TextContainer_323) \]
 
+----
+
 ### § 408 ABGB
 
 > Werden bloß durch die Austrocknung des Gewässers, oder durch desselben Theilung in mehrere Arme, Inseln gebildet, oder Grundstücke überschwemmt; so bleiben die Rechte des vorigen Eigenthumes unverletzt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-408-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_324_TextContainer_324) \]
+
+----
 
 ### § 409 ABGB — d) vom verlassenen Wasserbeete;
 
@@ -4483,11 +5133,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-409-abgb--d-vom-verlassenen-wasserbeete) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_325_TextContainer_325) \]
 
+----
+
 ### § 410 ABGB
 
 > Außer dem Falle einer solchen Entschädigung gehört das verlassene Beet, so wie von einer entstandenen Insel verordnet wird, den angränzenden Uferbesitzern\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-410-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_326_TextContainer_326) \]
+
+----
 
 ### § 411 ABGB — e) vom Anspühlen;
 
@@ -4495,17 +5149,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-411-abgb--e-vom-anspühlen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_327_TextContainer_327) \]
 
+----
+
 ### § 412 ABGB — f) vom abgerissenen Lande
 
 > Wird aber ein merklicher Erdtheil durch die Gewalt des Flusses an ein fremdes Ufer gelegt; so verliert der vorige Besitzer sein Eigenthumsrecht darauf nur in dem Falle, wenn er es in einer Jahresfrist nicht ausübt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-412-abgb--f-vom-abgerissenen-lande) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_328_TextContainer_328) \]
 
+----
+
 ### § 413 ABGB
 
 > Jeder Grundbesitzer ist befugt, sein Ufer gegen das Ausreißen des Flusses zu befestigen\. Allein niemand darf solche Werke oder Pflanzungen anlegen, die den ordentlichen Lauf des Flusses verändern, oder die der Schiffahrt, den Mühlen, der Fischerey oder andern fremden Rechten nachtheilig werden könnten\. Ueberhaupt können ähnliche Anlagen nur mit Erlaubniß der politischen Behörde gemacht werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-413-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) \]
+
+----
 
 ## II. Künstlicher Zuwachs durch Verarbeitung oder Vereinigung überhaupt;
 
@@ -4515,11 +5175,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-414-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) \]
 
+----
+
 ### § 415 ABGB
 
 > Können dergleichen verarbeitete Sachen in ihren vorigen Stand zurückgebracht; vereinigte, vermengte oder vermischte Sachen wieder abgesondert werden; so wird einem jeden Eigenthümer das Seinige zurückgestellet, und demjenigen Schadloshaltung geleistet, dem sie gebührt\. Ist die Zurücksetzung in den vorigen Stand, oder die Absonderung nicht möglich, so wird die Sache den Theilnehmern gemein; doch steht demjenigen, mit dessen Sache der Andere durch Verschulden die Vereinigung vorgenommen hat, die Wahl frey, ob er den ganzen Gegenstand gegen Ersatz der Verbesserung behalten, oder ihn dem Andern ebenfalls gegen Vergütung überlassen wolle\. Der Schuld tragende Theilnehmer wird nach Beschaffenheit seiner redlichen oder unredlichen Absicht behandelt\. Kann aber keinem Theile ein Verschulden beygemessen werden, so bleibt dem, dessen Antheil mehr werth ist, die Auswahl vorbehalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-415-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_331_TextContainer_331) \]
+
+----
 
 ### § 416 ABGB
 
@@ -4527,11 +5191,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-416-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_332_TextContainer_332) \]
 
+----
+
 ### § 417 ABGB — insbesondere bey einem Baue;
 
 > Wenn jemand auf eigenem Boden ein Gebäude aufführet, und fremde Materialien dazu verwendet hat, so bleibt das Gebäude zwar sein Eigenthum; doch muß selbst ein redlicher Bauführer dem Beschädigten die Materialien, wenn er sie außer den im § 367 angeführten Verhältnissen an sich gebracht hat, nach dem gemeinen; ein unredlicher aber muß sie nach dem höchsten Preise, und überdieß noch allen anderweitigen Schaden ersetzen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-417-abgb--insbesondere-bey-einem-baue) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_333_TextContainer_333) \]
+
+----
 
 ### § 418 ABGB
 
@@ -4539,11 +5207,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-418-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_334_TextContainer_334) \]
 
+----
+
 ### § 419 ABGB
 
 > Ist das Gebäude auf fremdem Grunde, und aus fremden Materialien entstanden, so wächst auch in diesem Falle das Eigenthum desselben dem Grundeigenthümer zu\. Zwischen dem Grundeigenthümer und dem Bauführer treten die nähmlichen Rechte und Verbindlichkeiten, wie in dem vorstehenden Paragraphe, ein, und der Bauführer muß dem vorigen Eigenthümer der Materialien, nach Beschaffenheit seiner redlichen oder unredlichen Absicht, den gemeinen oder den höchsten Werth ersetzen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-419-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_335_TextContainer_335) \]
+
+----
 
 ## III. Vermischter Zuwachs.
 
@@ -4553,11 +5225,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-420-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_336_TextContainer_336) \]
 
+----
+
 ### § 421 ABGB
 
 > Das Eigenthum eines Baumes wird nicht nach den Wurzeln, die sich in einem angränzenden Grunde verbreiten, sondern nach dem Stamme bestimmt, der aus dem Grunde hervorragt\. Steht der Stamm auf den Gränzen mehrerer Eigenthümer, so ist ihnen der Baum gemein\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-421-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_337_TextContainer_337) \]
+
+----
 
 ### § 422 ABGB
 
@@ -4566,6 +5242,8 @@
 > `(2)` Die für die Entfernung der Wurzeln oder das Abschneiden der Äste notwendigen Kosten hat der beeinträchtigte Grundeigentümer zu tragen\. Sofern diesem aber durch die Wurzeln oder Äste ein Schaden entstanden ist oder offenbar droht, hat der Eigentümer des Baumes oder der Pflanze die Hälfte der notwendigen Kosten zu ersetzen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-422-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_338_TextContainer_338) \]
+
+----
 
 ## Fünftes Hauptstück.
 
@@ -4577,17 +5255,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-423-abgb--mittelbare-erwerbung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_339_TextContainer_339) \]
 
+----
+
 ### § 424 ABGB — Titel derselben
 
 > Der Titel der mittelbaren Erwerbung liegt in einem Vertrage; in einer Verfügung auf den Todesfall; in dem richterlichen Ausspruche; oder, in der Anordnung des Gesetzes\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-424-abgb--titel-derselben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_340_TextContainer_340) \]
 
+----
+
 ### § 425 ABGB — Mittelbare Erwerbungsart
 
 > Der bloße Titel gibt noch kein Eigenthum\. Das Eigenthum und alle dingliche Rechte überhaupt können, außer den in dem Gesetze bestimmten Fällen, nur durch die rechtliche Uebergabe und Uebernahme erworben werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-425-abgb--mittelbare-erwerbungsart) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_341_TextContainer_341) \]
+
+----
 
 ## Arten der Uebergabe;
 
@@ -4597,11 +5281,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-426-abgb--1-bey-beweglichen-sachen--a-körperliche-uebergabe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_342_TextContainer_342) \]
 
+----
+
 ### § 427 ABGB — b) Uebergabe durch Zeichen;
 
 > Bey solchen beweglichen Sachen aber, welche ihrer Beschaffenheit nach keine körperliche Uebergabe zulassen, wie bey Schuldforderungen, Frachtgütern, bey einem Waarenlager oder einer andern Gesammtsache, gestattet das Gesetz die Uebergabe durch Zeichen; indem der Eigenthümer dem Uebernehmer die Urkunden, wodurch das Eigenthum dargethan wird, oder die Werkzeuge übergibt, durch die der Uebernehmer in den Stand gesetzt wird, ausschließend den Besitz der Sache zu ergreifen; oder, indem man mit der Sache ein Merkmahl verbindet, woraus jedermann deutlich erkennen kann, daß die Sache einem Andern überlassen worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-427-abgb--b-uebergabe-durch-zeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_343_TextContainer_343) \]
+
+----
 
 ### § 428 ABGB — c) durch Erklärung
 
@@ -4609,11 +5297,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-428-abgb--c-durch-erklärung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_344_TextContainer_344) \]
 
+----
+
 ### § 429 ABGB — Folge in Rücksicht der übersendeten;
 
 > Wenn die Sache mit Willen des Übernehmers an einen anderen Ort als den Erfüllungsort übersendet wird, ist die Sache bereits mit ihrer Aushändigung an eine mit der Übersendung betraute Person übergeben, sofern die Art der Übersendung der getroffenen Vereinbarung, mangels einer solchen der Verkehrsübung entspricht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-429-abgb--folge-in-rücksicht-der-übersendeten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_345_TextContainer_345) \]
+
+----
 
 ### § 430 ABGB — oder, an Mehrere veräußerten Sachen
 
@@ -4621,11 +5313,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-430-abgb--oder-an-mehrere-veräußerten-sachen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_346_TextContainer_346) \]
 
+----
+
 ### § 431 ABGB — 2. Bei unbeweglichen Sachen und Bauwerken
 
 > Zur Uebertragung des Eigenthumes unbeweglicher Sachen muß das Erwerbungsgeschäft in die dazu bestimmten öffentlichen Bücher eingetragen werden\. Diese Eintragung nennt man Einverleibung \(Intabulation\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-431-abgb--2-bei-unbeweglichen-sachen-und-bauwerken) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_347_TextContainer_347) \]
+
+----
 
 ## Insbesondere bei Erwerbung
 
@@ -4635,11 +5331,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-432-abgb--a-durch-vertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_348_TextContainer_348) \]
 
+----
+
 ### § 433 ABGB
 
 > Die Urkunde muß die genaue Angabe der Personen, die das Eigentum übergeben und übernehmen; der Liegenschaft, die übergeben werden soll, mit ihren Bestandteilen; des Rechtsgrundes der Übergabe; ferner des Ortes und der Zeit des Vertragsschlusses enthalten; und es muß von dem Übergeber in dieser oder in einer besonderen Urkunde die ausdrückliche Erklärung abgegeben werden, daß er in die Einverleibung einwillige\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-433-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_349_TextContainer_349) \]
+
+----
 
 ### § 434 ABGB
 
@@ -4647,11 +5347,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-434-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_350_TextContainer_350) \]
 
+----
+
 ### § 435 ABGB
 
 > Dasselbe gilt auch für die Übertragung des Eigentums an Bauwerken, die auf fremdem Grund in der Absicht aufgeführt sind, daß sie nicht stets darauf bleiben sollen, soferne sie nicht Zugehör eines Baurechtes sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-435-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_351_TextContainer_351) \]
+
+----
 
 ### § 436 ABGB — b) durch Urtheil und andere gerichtliche Urkunden;
 
@@ -4659,11 +5363,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-436-abgb--b-durch-urtheil-und-andere-gerichtliche-urkunden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_352_TextContainer_352) \]
 
+----
+
 ### § 437 ABGB — oder c) durch Vermächtnis
 
 > Ebenso ist es, um das Eigentum eines vermachten unbeweglichen Gutes oder eines Bauwerkes zu erwerben, notwendig, daß die Sache dem Vermächtnisnehmer gemäß §§ 431 bis 435 übergeben werde\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-437-abgb--oder-c-durch-vermächtnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_353_TextContainer_353) \]
+
+----
 
 ### § 438 ABGB — Bedingte Aufzeichnung in das öffentliche Buch; oder Vormerkung
 
@@ -4671,17 +5379,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-438-abgb--bedingte-aufzeichnung-in-das-öffentliche-buch-oder-vormerkung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_354_TextContainer_354) \]
 
+----
+
 ### § 439 ABGB
 
 > Die geschehene Vormerkung muß sowohl demjenigen, der sie bewirkt hat, als auch seinem Gegner durch Zustellung zu eigenen Handen bekannt gemacht werden\. Der Vormerkungswerber muß binnen vierzehn Tagen, vom Tage der erhaltenen Zustellung, die ordentliche Klage zum Erweise des Eigenthumrechtes einreichen; widrigen Falls soll die bewirkte Vormerkung auf Ansuchen des Gegners gelöschet werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-439-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_355_TextContainer_355) \]
 
+----
+
 ### § 440 ABGB — Vorschrift über die Colision der Einverleibungen
 
 > Hat der Eigenthümer eben dieselbe unbewegliche Sache zwey verschiedenen Personen überlassen; so fällt sie derjenigen zu, welche früher die Einverleibung angesucht hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-440-abgb--vorschrift-über-die-colision-der-einverleibungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_356_TextContainer_356) \]
+
+----
 
 ## Folge der Erwerbung:
 
@@ -4691,11 +5405,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-441-abgb--a-in-rücksicht-des-besitzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_357_TextContainer_357) \]
 
+----
+
 ### § 442 ABGB — b) der damit verbundenen Rechte:
 
 > Wer das Eigenthum einer Sache erwirbt, erlangt auch die damit verbundenen Rechte\. Rechte, die auf die Person des Uebergebers eingeschränkt sind, kann er nicht übergeben\. Ueberhaupt kann niemand einem Andern mehr Recht abtreten, als er selbst hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-442-abgb--b-der-damit-verbundenen-rechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_358_TextContainer_358) \]
+
+----
 
 ### § 443 ABGB — c) Lasten
 
@@ -4703,11 +5421,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-443-abgb--c-lasten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_359_TextContainer_359) \]
 
+----
+
 ### § 444 ABGB — Erlöschung des Eigenthumsrechtes
 
 > Das Eigenthum überhaupt kann durch den Willen des Eigenthümers; durch das Gesetz; und durch richterlichen Ausspruch verloren gehen\. Das Eigenthum der unbeweglichen Sachen aber wird nur durch die Löschung aus den öffentlichen Büchern aufgehoben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-444-abgb--erlöschung-des-eigenthumsrechtes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_360_TextContainer_360) \]
+
+----
 
 ### § 445 ABGB — Ausdehnung dieser Vorschriften auf andere dingliche Rechte
 
@@ -4715,11 +5437,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-445-abgb--ausdehnung-dieser-vorschriften-auf-andere-dingliche-rechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_361_TextContainer_361) \]
 
+----
+
 ### § 446 ABGB — Form und Vorsichten der Einverleibungen
 
 > Auf was Art und mit welchen Vorsichten überhaupt bey Einverleibung dinglicher Rechte vorzugehen sey, ist in den über die Einrichtung der Landtafeln und Grundbücher bestehenden besondern Anordnungen enthalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-446-abgb--form-und-vorsichten-der-einverleibungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_362_TextContainer_362) \]
+
+----
 
 ## Sechstes Hauptstück.
 
@@ -4731,11 +5457,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-447-abgb--begriff-von-dem-pfandrechte-und-pfande) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_363_TextContainer_363) \]
 
+----
+
 ### § 448 ABGB — Arten des Pfandes
 
 > Als Pfand kann jede Sache dienen, die im Verkehre steht\. Ist sie beweglich, so wird sie Handpfand, oder ein Pfand in enger Bedeutung genannt; ist sie unbeweglich, so heißt sie eine Hypothek oder ein Grundpfand\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-448-abgb--arten-des-pfandes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_364_TextContainer_364) \]
+
+----
 
 ### § 449 ABGB — Titel des Pfandrechtes
 
@@ -4743,11 +5473,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-449-abgb--titel-des-pfandrechtes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_365_TextContainer_365) \]
 
+----
+
 ### § 450 ABGB
 
 > Die Fälle, in welchen das Gesetz jemanden das Pfandrecht einräumt, sind am gehörigen Orte dieses Gesetzbuches und bey dem Verfahren in Concurs\-Fällen angegeben\. In wie fern das Gericht ein Pfandrecht einräumen könne, bestimmt die Gerichtsordnung\. Soll durch die Einwilligung des Schuldners oder eines Dritten, der seine Sache für ihn verhaftet, das Pfandrecht erworben werden; so dienen die Vorschriften von Verträgen und Vermächtnissen zur Richtschnur\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-450-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_366_TextContainer_366) \]
+
+----
 
 ## Erwerbungsart des Pfandrechtes:
 
@@ -4759,11 +5493,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-451-abgb--a-durch-körperliche-übergabe--b-durch-einverleibung-oder-gerichtliche-urkundenhinterlegung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_367_TextContainer_367) \]
 
+----
+
 ### § 452 ABGB — c) durch symbolische Uebergabe;
 
 > Bey Verpfändung derjenigen beweglichen Sachen, welche keine körperliche Uebergabe von Hand zu Hand zulassen, muß man sich, wie bey der Uebertragung des Eigenthumes \(§ 427\), solcher Zeichen bedienen, woraus jedermann die Verpfändung leicht erfahren kann\. Wer diese Vorsicht unterläßt, haftet für die nachtheiligen Folgen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-452-abgb--c-durch-symbolische-uebergabe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_368_TextContainer_368) \]
+
+----
 
 ### § 453 ABGB — d) durch die Vormerkung
 
@@ -4771,17 +5509,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-453-abgb--d-durch-die-vormerkung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_369_TextContainer_369) \]
 
+----
+
 ### § 454 ABGB — Erwerbung eines Afterpfandes
 
 > Der Pfandinhaber kann sein Pfand, in so weit er ein Recht darauf hat, einem Dritten wieder verpfänden, und in so fern wird es zum Afterpfande, wenn zugleich Letzerer sich dasselbe übergeben, oder die Afterverpfändung auf das Pfandrecht in die öffentlichen Bücher eintragen läßt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-454-abgb--erwerbung-eines-afterpfandes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_370_TextContainer_370) \]
 
+----
+
 ### § 455 ABGB
 
 > Wird der Eigenthümer von der weiteren Verpfändung benachrichtiget; so kann er seine Schuld nur mit Willen dessen, der das Afterpfand hat, dem Gläubiger abführen, oder er muß sie gerichtlich hinterlegen, sonst bleibt das Pfand dem Inhaber des Afterpfandes verhaftet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-455-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_371_TextContainer_371) \]
+
+----
 
 ### § 456 ABGB — Verpfändung einer fremden Sache
 
@@ -4791,11 +5535,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-456-abgb--verpfändung-einer-fremden-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_372_TextContainer_372) \]
 
+----
+
 ### § 457 ABGB — Objectiver Umfang des Pfandrechtes
 
 > Das Pfandrecht erstreckt sich auf alle zu dem freyen Eigenthume des Verpfänders gehörige Theile, auf Zuwachs und Zugehör des Pfandes, folglich auch auf die Früchte, in so lange sie noch nicht abgesondert oder bezogen sind\. Wenn also ein Schuldner einem Gläubiger sein Gut, und einem andern später die Früchte desselben verpfändet; so ist die spätere Verpfändung nur in Rücksicht auf die schon abgesonderten und bezogenen Früchte wirksam\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-457-abgb--objectiver-umfang-des-pfandrechtes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_373_TextContainer_373) \]
+
+----
 
 ## Rechte und Verbindlichkeiten des Pfandgläubigers:
 
@@ -4805,17 +5553,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-458-abgb--a-bey-entdeckung-eines-unzureichenden-pfandes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_374_TextContainer_374) \]
 
+----
+
 ### § 459 ABGB — b) vor dem Verfalle;
 
 > Ohne Bewilligung des Pfandgebers darf der Gläubiger das Pfandstück nicht benützen; er muß es vielmehr genau bewahren, und, wenn es durch sein Verschulden in Verlust geräth, dafür haften\. Geht es ohne sein Verschulden verloren, so verliert er deßwegen seine Forderung nicht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-459-abgb--b-vor-dem-verfalle) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_375_TextContainer_375) \]
 
+----
+
 ### § 460 ABGB
 
 > Hat der Gläubiger das Pfand weiter verpfändet; so haftet er selbst für einen solchen Zufall, wodurch das Pfand bey ihm nicht zu Grunde gegangen oder verschlimmert worden wäre\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-460-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_376_TextContainer_376) \]
+
+----
 
 ### § 460a ABGB
 
@@ -4825,11 +5579,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-460a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_377_TextContainer_377) \]
 
+----
+
 ### § 461 ABGB — c) nach dem Verfalle der Forderung;
 
 > Wird der Pfandgläubiger nach Verlauf der bestimmten Zeit nicht befriediget; so ist er befugt, die Feilbiethung des Pfandes gerichtlich zu verlangen\. Das Gericht hat dabey nach Vorschrift der Gerichtsordnung zu verfahren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-461-abgb--c-nach-dem-verfalle-der-forderung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_378_TextContainer_378) \]
+
+----
 
 ### § 462 ABGB
 
@@ -4837,11 +5595,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-462-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_379_TextContainer_379) \]
 
+----
+
 ### § 463 ABGB
 
 > Schuldner haben kein Recht, bey Versteigerung einer von ihnen verpfändeten Sache mitzubiethen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-463-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_380_TextContainer_380) \]
+
+----
 
 ### § 464 ABGB
 
@@ -4849,17 +5611,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-464-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_381_TextContainer_381) \]
 
+----
+
 ### § 465 ABGB
 
 > In wie fern ein Pfandgläubiger sich an sein Pfand zu halten schuldig; oder, auf ein anderes Vermögen seines Schuldners zu greifen berechtigt sey, bestimmt die Gerichtsordnung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-465-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_382_TextContainer_382) \]
 
+----
+
 ### § 466 ABGB
 
 > Hat der Schuldner während der Verpfändungszeit das Eigenthum der verpfändeten Sache auf einen Andern übertragen; so steht dem Gläubiger frey, erst sein persönliches Recht gegen den Schuldner, und dann seine volle Befriedigung an der verpfändeten Sache zu suchen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-466-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_383_TextContainer_383) \]
+
+----
 
 ### § 466a ABGB — d) außergerichtliche Pfandverwertung
 
@@ -4870,6 +5638,8 @@
 > `(3)` Der Pfandgläubiger und der Pfandgeber können abweichende Arten der außergerichtlichen Pfandverwertung vereinbaren\. Besondere Vorschriften über die außergerichtliche Verwertung von Sicherheiten bleiben unberührt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-466a-abgb--d-außergerichtliche-pfandverwertung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_384_TextContainer_384) \]
+
+----
 
 ### § 466b ABGB
 
@@ -4882,6 +5652,8 @@
 > `(4)` Sachen mit einem Börsen\- oder Marktpreis dürfen zu diesem Preis vom Pfandgläubiger auch aus freier Hand verkauft werden\. Wertpapiere, die einen Börsen\- oder Marktpreis haben, sowie Sparurkunden dürfen nur aus freier Hand zu ihrem Preis oder Wert verkauft werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-466b-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_385_TextContainer_385) \]
+
+----
 
 ### § 466c ABGB
 
@@ -4897,11 +5669,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-466c-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_386_TextContainer_386) \]
 
+----
+
 ### § 466d ABGB
 
 > Wenn der Pfandgläubiger die Sache außergerichtlich als Pfand verwertet, genügt für die Redlichkeit des Erwerbers \(§§ 367 und 368\) der gute Glaube in die Befugnis des Pfandgläubigers, über die Sache zu verfügen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-466d-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_387_TextContainer_387) \]
+
+----
 
 ### § 466e ABGB
 
@@ -4911,11 +5687,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-466e-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_388_TextContainer_388) \]
 
+----
+
 ### § 467 ABGB — Erlöschung des Pfandrechtes
 
 > Wenn die verpfändete Sache zerstört wird; wenn sich der Gläubiger seines Rechtes darauf gesetzmäßig begibt; oder, wenn er sie dem Schuldner ohne Vorbehalt zurückstellt; so erlischt zwar das Pfandrecht, aber die Schuldforderung besteht noch\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-467-abgb--erlöschung-des-pfandrechtes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_389_TextContainer_389) \]
+
+----
 
 ### § 468 ABGB
 
@@ -4923,11 +5703,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-468-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_390_TextContainer_390) \]
 
+----
+
 ### § 469 ABGB
 
 > Durch Tilgung der Schuld hört das Pfandrecht auf\. Der Pfandgeber ist aber die Schuld nur gegen dem zu tilgen verbunden, daß ihm das Pfand zugleich zurückgestellt werde\. Zur Aufhebung einer Hypothek ist die Tilgung der Schuld allein nicht hinreichend\. Ein Hypothekargut bleibt so lange verhaftet, bis die Schuld aus den öffentlichen Büchern gelöscht ist\. Bis dahin kann der Eigentümer des Gutes auf Grund einer Quittung oder einer anderen, das Erlöschen der Pfandschuld dartuenden Urkunde das Pfandrecht auf eine neue Forderung übertragen, die den Betrag der eingetragenen Pfandforderung nicht übersteigt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-469-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_391_TextContainer_391) \]
+
+----
 
 ### § 469a ABGB
 
@@ -4935,11 +5719,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-469a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_392_TextContainer_392) \]
 
+----
+
 ### § 470 ABGB
 
 > Wird nach Tilgung der Schuld \(§ 469\) oder eingetretener Vereinigung \(§ 1446\), bevor das Pfandrecht bücherlich gelöscht oder die Liegenschaft oder das Pfandrecht übertragen worden ist, das Hypothekargut zwangsweise versteigert oder dessen Zwangsverwaltung bewilligt, so ist bei Verteilung des Erlöses auf dieses Pfandrecht keine Rücksicht zu nehmen\. Nur insoweit die durch das Pfandrecht gesicherte Forderung gegen einen Dritten noch fortbesteht oder dem Eigentümer der Ersatz für deren Tilgung gebührt \(§ 1358\), wird der darauf entfallende Teil dem Eigentümer zugewiesen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-470-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_393_TextContainer_393) \]
+
+----
 
 ### § 471 ABGB — Von dem Retentions-Rechte
 
@@ -4948,6 +5736,8 @@
 > `(2)` Die Ausübung des Zurückbehaltungsrechtes kann durch Sicherheitsleistung abgewendet werden; Sicherheitsleistung durch Bürgen ist ausgeschlossen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-471-abgb--von-dem-retentions-rechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_394_TextContainer_394) \]
+
+----
 
 ## Siebentes Hauptstück
 
@@ -4959,17 +5749,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-472-abgb--begriff-des-rechtes-der-dienstbarkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_395_TextContainer_395) \]
 
+----
+
 ### § 473 ABGB — Eintheilung der Dienstbarkeiten in Grunddienstbarkeiten und persönliche;
 
 > Wird das Recht der Dienstbarkeit mit dem Besitze eines Grundstückes zu dessen vortheilhafteren oder bequemeren Benützung verknüpft; so entsteht eine Grunddienstbarkeit; außer dem ist die Dienstbarkeit persönlich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-473-abgb--eintheilung-der-dienstbarkeiten-in-grunddienstbarkeiten-und-persönliche) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_396_TextContainer_396) \]
 
+----
+
 ### § 474 ABGB — in Feld- und Haus-Servituten
 
 > Grunddienstbarkeiten setzen zwey Grundbesitzer voraus, deren Einem als Verpflichteten das dienstbare; dem Andern als Berechtigten das herrschende Gut gehört\. Das herrschende Grundstück ist entweder zur Landwirthschaft oder zu einem andern Gebrauche bestimmt; daher unterscheidet man auch die Feld\- und Haus\-Servituten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-474-abgb--in-feld--und-haus-servituten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_397_TextContainer_397) \]
+
+----
 
 ## Gewöhnlichere Arten:
 
@@ -4995,6 +5791,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-475-abgb--a-der-haus-servituten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_398_TextContainer_398) \]
 
+----
+
 ### § 476 ABGB
 
 > Durch andere Haus\-Servituten wird der Besitzer des dienstbaren Grundes verpflichtet, etwas zu unterlassen, was ihm sonst zu thun frey stand\. Dergleichen sind:
@@ -5010,6 +5808,8 @@
 > 12\) Die Dachtraufe seines Hauses von dem Grunde des Nachbars, dem sie zur Bewässerung seines Gartens oder zur Füllung seiner Cisterne, oder auf eine andere Art nützlich seyn kann, nicht abzuleiten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-476-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_399_TextContainer_399) \]
+
+----
 
 ### § 477 ABGB — b) der Feld-Servituten
 
@@ -5029,11 +5829,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-477-abgb--b-der-feld-servituten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_400_TextContainer_400) \]
 
+----
+
 ### § 478 ABGB — Arten der persönlichen Dienstbarkeiten
 
 > Die persönlichen Servituten sind: der nöthige Gebrauch einer Sache; die Fruchtnießung; und die Wohnung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-478-abgb--arten-der-persönlichen-dienstbarkeiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_401_TextContainer_401) \]
+
+----
 
 ### § 479 ABGB — Unregelmäßige und Schein-Servituten
 
@@ -5041,11 +5845,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-479-abgb--unregelmäßige-und-schein-servituten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_402_TextContainer_402) \]
 
+----
+
 ### § 480 ABGB — Erwerbung des Rechtes der Dienstbarkeit. Titel zur Erwerbung
 
 > Der Titel zu einer Servitut ist auf einem Vertrage; auf einer letzten Willenserklärung; auf einem bey der Theilung gemeinschaftlicher Grundstücke erfolgten Rechtsspruche; oder endlich, auf Verjährung gegründet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-480-abgb--erwerbung-des-rechtes-der-dienstbarkeit-titel-zur-erwerbung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_403_TextContainer_403) \]
+
+----
 
 ### § 481 ABGB — Erwerbungsart
 
@@ -5055,6 +5863,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-481-abgb--erwerbungsart) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_404_TextContainer_404) \]
 
+----
+
 ## Rechtsverhältnis bey den Dienstbarkeiten.
 
 ### § 482 ABGB — Allgemeine Vorschriften über das Recht der Dienstbarkeit
@@ -5063,11 +5873,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-482-abgb--allgemeine-vorschriften-über-das-recht-der-dienstbarkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_405_TextContainer_405) \]
 
+----
+
 ### § 483 ABGB
 
 > Daher muß auch der Aufwand zur Erhaltung und Herstellung der Sache, welche zur Dienstbarkeit bestimmt ist, in der Regel von dem Berechtigten getragen werden\. Wenn aber diese Sache auch von dem Verpflichteten benützet wird; so muß er verhältnißmäßig zu dem Aufwande beytragen, und nur durch die Abtretung derselben an den Berechtigten kann er sich, auch ohne dessen Beystimmung, von dem Beytrage befreyen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-483-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_406_TextContainer_406) \]
+
+----
 
 ### § 484 ABGB
 
@@ -5075,11 +5889,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-484-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_407_TextContainer_407) \]
 
+----
+
 ### § 485 ABGB
 
 > Keine Servitut läßt sich eigenmächtig von der dienstbaren Sache absondern, noch auf eine andere Sache oder Person übertragen\. Auch wird jede Servitut insofern für unteilbar gehalten, als das auf dem Grundstücke haftende Recht durch Vergrößerung, Verkleinerung oder Zerstücklung desselben, abgesehen von dem im § 847 bezeichneten Falle, weder verändert noch geteilt werden kann\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-485-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_408_TextContainer_408) \]
+
+----
 
 ### § 486 ABGB
 
@@ -5087,11 +5905,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-486-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_409_TextContainer_409) \]
 
+----
+
 ### § 487 ABGB — Anwendung auf die Grunddienstbarkeiten: insbesondere auf das Recht, eine Last, einen Balken auf fremdem Gebäude zu haben oder den Rauch durchzuführen
 
 > Nach den hier aufgestellten Grundsätzen sind die Rechtsverhältnisse bey den besondern Arten der Servituten zu bestimmen\. Wer also die Last des benachbarten Gebäudes zu tragen; die Einfügung des fremden Balkens an seiner Wand; oder, den Durchzug des fremden Rauches in seinem Schorsteine zu dulden hat; der muß verhältnißmäßig zur Erhaltung der dazu bestimmten Mauer, Säule, Wand oder des Schorsteines beytragen\. Es kann ihm aber nicht zugemuthet werden, daß er das herrschende Gut unterstützen oder den Schorstein des Nachbars ausbessern lasse\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-487-abgb--anwendung-auf-die-grunddienstbarkeiten-insbesondere-auf-das-recht-eine-last-einen-balken-auf-fremdem-gebäude-zu-haben-oder-den-rauch-durchzuführen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_410_TextContainer_410) \]
+
+----
 
 ### § 488 ABGB — Fensterrecht
 
@@ -5099,11 +5921,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-488-abgb--fensterrecht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_411_TextContainer_411) \]
 
+----
+
 ### § 489 ABGB — Recht der Dachtraufe
 
 > Wer das Recht der Dachtraufe besitzt, kann das Regenwasser auf das fremde Dach frey oder durch Rinnen abfließen lassen; er kann auch sein Dach erhöhen; doch muß er solche Vorkehrungen treffen, daß dadurch die Dienstbarkeit nicht lästiger werde\. Eben so muß er häufig gefallenen Schnee zeitig hinwegräumen, wie auch die zum Abflusse bestimmten Rinnen unterhalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-489-abgb--recht-der-dachtraufe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_412_TextContainer_412) \]
+
+----
 
 ### § 490 ABGB — Recht der Ableitung des Regenwassers
 
@@ -5111,11 +5937,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-490-abgb--recht-der-ableitung-des-regenwassers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_413_TextContainer_413) \]
 
+----
+
 ### § 491 ABGB
 
 > Erfordern die abzuführenden Flüssigkeiten Gräben und Canäle; so muß sie der Eigenthümer des herrschenden Grundes errichten; er muß sie auch ordentlich decken und reinigen, und dadurch die Last des dienstbaren Grundes erleichtern\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-491-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_414_TextContainer_414) \]
+
+----
 
 ### § 492 ABGB — Recht des Fußsteiges, Viehtriebes und Fahrweges
 
@@ -5123,11 +5953,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-492-abgb--recht-des-fußsteiges-viehtriebes-und-fahrweges) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_415_TextContainer_415) \]
 
+----
+
 ### § 493 ABGB
 
 > Hingegen kann, ohne besondere Bewilligung, das Recht zu gehen, nicht auf das Recht, zu reiten, oder sich durch Thiere tragen zu lassen; weder das Recht des Viehtriebes auf das Recht, schwere Lasten über den dienstbaren Grund zu schleifen; noch das Recht zu fahren, auf das Recht, frey gelassenes Vieh darüber zu treiben, ausgedehnet werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-493-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_416_TextContainer_416) \]
+
+----
 
 ### § 494 ABGB
 
@@ -5135,11 +5969,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-494-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_417_TextContainer_417) \]
 
+----
+
 ### § 495 ABGB — Raum hierzu
 
 > Der Raum für diese drey Servituten muß dem nöthigen Gebrauche und den Umständen des Ortes angemessen seyn\. Werden Wege und Steige durch Ueberschwemmung oder durch einen andern Zufall unbrauchbar; so muß, bis zu der Herstellung in den vorigen Stand, wenn nicht schon die politische Behörde eine Vorkehrung getroffen hat, ein neuer Raum angewiesen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-495-abgb--raum-hierzu) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_418_TextContainer_418) \]
+
+----
 
 ### § 496 ABGB — Recht, Wasser zu schöpfen
 
@@ -5147,17 +5985,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-496-abgb--recht-wasser-zu-schöpfen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_419_TextContainer_419) \]
 
+----
+
 ### § 497 ABGB — Recht der Wasserleitung
 
 > Wer das Recht hat, Wasser von fremdem Grunde auf den seinigen; oder von seinem Grunde auf fremden zu leiten, ist auch berechtigt, die dazu nöthigen Röhren, Rinnen und Schleußen auf eigene Kosten anzulegen\. Das nicht zu überschreitende Maß dieser Anlagen wird durch das Bedürfniß des herrschenden Grundes festgesetzt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-497-abgb--recht-der-wasserleitung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_420_TextContainer_420) \]
 
+----
+
 ### § 498 ABGB — Weiderecht
 
 > Ist bey Erwerbung des Weiderechtes die Gattung und die Anzahl des Triebviehes; ferner, die Zeit und das Maß des Genusses nicht bestimmt worden; so ist der ruhige dreyßigjährige Besitz zu schützen\. In zweifelhaften Fällen dienen folgende Vorschriften zur Richtschnur\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-498-abgb--weiderecht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_421_TextContainer_421) \]
+
+----
 
 ## Gesetzliche Bestimmung:
 
@@ -5167,11 +6011,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-499-abgb--a-über-die-gattung-des-triebviehes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_422_TextContainer_422) \]
 
+----
+
 ### § 500 ABGB — b) dessen Anzahl;
 
 > Hat die Anzahl des Triebviehes während der letzten dreyßig Jahre abgewechselt; so muß aus dem Triebe der drey ersten Jahre die Mittelzahl angenommen werden\. Erhellet auch diese nicht; so ist theils auf den Umfang, theils auf die Beschaffenheit der Weide billige Rücksicht zu nehmen, und dem Berechtigten wenigstens nicht gestattet, daß er mehr Vieh auf der fremden Weide halte, als er mit dem auf dem herrschenden Grunde erzeugten Futter durchwintern kann\. Säugevieh wird nicht zur bestimmten Anzahl gerechnet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-500-abgb--b-dessen-anzahl) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_423_TextContainer_423) \]
+
+----
 
 ### § 501 ABGB — c) Triftzeit;
 
@@ -5179,17 +6027,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-501-abgb--c-triftzeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_424_TextContainer_424) \]
 
+----
+
 ### § 502 ABGB — d) Maß des Genusses
 
 > Der Genuß des Weiderechtes erstreckt sich auf keine andere Benutzung\. Der Berechtigte darf weder Gras mähen, noch in der Regel den Eigenthümer des Grundstückes von der Mitweide ausschließen, am wenigsten aber die Substanz der Weide verletzen\. Wenn ein Schade zu befürchten ist, muß er sein Vieh von einem Hirten hüthen lassen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-502-abgb--d-maß-des-genusses) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_425_TextContainer_425) \]
 
+----
+
 ### § 503 ABGB — Anwendung dieser Bestimmungen auf andere Servituten
 
 > Was bisher in Rücksicht auf das Weiderecht vorgeschrieben worden, ist verhältnißmäßig auch auf die Rechte des Thierfanges, des Holzschlages, des Steinbrechens und die übrigen Servituten anzuwenden\. Glaubt jemand diese Rechte auf das Miteigenthum gründen zu können; so sind die darüber entstehenden Streitigkeiten nach den, in dem Hauptstücke von der Gemeinschaft des Eigenthumes, enthaltenen Grundsätzen zu entscheiden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-503-abgb--anwendung-dieser-bestimmungen-auf-andere-servituten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_426_TextContainer_426) \]
+
+----
 
 ## Persönliche Dienstbarkeiten; insbesondere:
 
@@ -5199,11 +6053,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-504-abgb--1-das-recht-des-gebrauches) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_427_TextContainer_427) \]
 
+----
+
 ### § 505 ABGB — Bestimmung in Rücksicht der Nutzungen;
 
 > Wer also das Gebrauchsrecht einer Sache hat, der darf, ohne Rücksicht auf sein übriges Vermögen, den seinem Stande, seinem Gewerbe, und seinem Hauswesen angemessenen Nutzen davon ziehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-505-abgb--bestimmung-in-rücksicht-der-nutzungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_428_TextContainer_428) \]
+
+----
 
 ### § 506 ABGB
 
@@ -5211,11 +6069,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-506-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_429_TextContainer_429) \]
 
+----
+
 ### § 507 ABGB — der Substanz;
 
 > Der Berechtigte darf die Substanz der ihm zum Gebrauche bewilligten Sache nicht verändern; er darf auch das Recht an keinen andern übertragen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-507-abgb--der-substanz) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_430_TextContainer_430) \]
+
+----
 
 ### § 508 ABGB — und der Lasten;
 
@@ -5223,11 +6085,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-508-abgb--und-der-lasten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_431_TextContainer_431) \]
 
+----
+
 ### § 509 ABGB — 2) der Fruchtnießung
 
 > Die Fruchtnießung ist das Recht, eine fremde Sache, mit Schonung der Substanz, ohne alle Einschränkung zu genießen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-509-abgb--2-der-fruchtnießung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_432_TextContainer_432) \]
+
+----
 
 ### § 510 ABGB — In wie fern sie sich auf verbrauchbare Sachen erstrecken könne
 
@@ -5235,11 +6101,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-510-abgb--in-wie-fern-sie-sich-auf-verbrauchbare-sachen-erstrecken-könne) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_433_TextContainer_433) \]
 
+----
+
 ### § 511 ABGB — Rechte und Verbindlichkeiten des Fruchtnießers
 
 > Der Fruchtnießer hat ein Recht auf den vollen, sowohl gewöhnlichen als ungewöhnlichen, Ertrag; ihm gehört daher auch die mit Beobachtung der bestehenden Bergwerksordnung erhaltene reine Ausbeute von Bergwerksantheilen, und das forstmäßig geschlagene Holz\. Auf einen Schatz, welcher in dem zur Fruchtnießung bestimmten Grunde gefunden wird, hat er keinen Anspruch\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-511-abgb--rechte-und-verbindlichkeiten-des-fruchtnießers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_434_TextContainer_434) \]
+
+----
 
 ## Insbesondere:
 
@@ -5249,11 +6119,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-512-abgb--a-in-rücksicht-der-auf-der-sache-haftenden-lasten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_435_TextContainer_435) \]
 
+----
+
 ### § 513 ABGB — b) der Erhaltung der Sache;
 
 > Der Fruchtnießer ist verbunden, die dienstbare Sache als ein guter Haushälter in dem Stande, in welchem er sie übernommen hat, zu erhalten, und aus dem Ertrage die Ausbesserungen, Ergänzungen und Herstellungen zu besorgen\. Wird dessen ungeachtet der Werth der dienstbaren Sache bloß durch den rechtmäßigen Genuß ohne Verschulden des Fruchtnießers verringert; so ist er dafür nicht verantwortlich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-513-abgb--b-der-erhaltung-der-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_436_TextContainer_436) \]
+
+----
 
 ### § 514 ABGB — c) der Bauführungen;
 
@@ -5261,11 +6135,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-514-abgb--c-der-bauführungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_437_TextContainer_437) \]
 
+----
+
 ### § 515 ABGB
 
 > Kann oder will der Eigenthümer dazu sich nicht verstehen; so ist der Fruchtnießer berechtigt, entweder den Bau zu führen, und nach geendigter Fruchtnießung, gleich einem redlichen Besitzer, den Ersatz zu fordern; oder, für die durch Unterbleibung des Baues vermißte Fruchtnießung, eine angemessene Vergütung zu verlangen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-515-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_438_TextContainer_438) \]
+
+----
 
 ### § 516 ABGB
 
@@ -5273,11 +6151,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-516-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_439_TextContainer_439) \]
 
+----
+
 ### § 517 ABGB — d) der Meliorations-Kosten
 
 > Was der Fruchtnießer ohne Einwilligung des Eigenthümers zur Vermehrung fortdauernder Nutzungen verwendet hat, kann er zurücknehmen; eine Vergütung der aus der Verbesserung noch bestehenden Nutzungen aber kann er nur fordern, in so fern sie ein Geschäftsführer ohne Auftrag zu fordern berechtigt ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-517-abgb--d-der-meliorations-kosten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_440_TextContainer_440) \]
+
+----
 
 ### § 518 ABGB — Beweismittel darüber
 
@@ -5285,11 +6167,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-518-abgb--beweismittel-darüber) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_441_TextContainer_441) \]
 
+----
+
 ### § 519 ABGB — Zutheilung der Nutzungen bey Erlöschung der Fruchtnießung
 
 > Nach geendigter Fruchtnießung gehören die noch stehenden Früchte dem Eigenthümer; doch muß er die auf deren Erzielung verwendeten Kosten dem Fruchtnießer oder dessen Erben, gleich einem redlichen Besitzer, ersetzen\. Auf andere Nutzungen haben der Fruchtnießer oder dessen Erben den Anspruch nach Maß der Dauer der Fruchtnießung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-519-abgb--zutheilung-der-nutzungen-bey-erlöschung-der-fruchtnießung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_442_TextContainer_442) \]
+
+----
 
 ### § 520 ABGB — In wie fern der Gebrauchsberechtigte oder der Fruchtnießer zur Sicherstellung verbunden sey
 
@@ -5297,11 +6183,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-520-abgb--in-wie-fern-der-gebrauchsberechtigte-oder-der-fruchtnießer-zur-sicherstellung-verbunden-sey) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_443_TextContainer_443) \]
 
+----
+
 ### § 521 ABGB — 3) Dienstbarkeit der Wohnung
 
 > Die Servitut der Wohnung ist das Recht, die bewohnbaren Theile eines Hauses zu seinem Bedürfnisse zu benützen\. Sie ist also eine Servitut des Gebrauches von dem Wohngebäude\. Werden aber jemanden alle bewohnbare Theile des Hauses, mit Schonung der Substanz, ohne Einschränkung zu genießen überlassen; so ist es eine Fruchtnießung des Wohngebäudes\. Hiernach sind die oben gegebenen Vorschriften auf das rechtliche Verhältniß zwischen dem Berechtigten und dem Eigenthümer anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-521-abgb--3-dienstbarkeit-der-wohnung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_444_TextContainer_444) \]
+
+----
 
 ### § 522 ABGB
 
@@ -5309,11 +6199,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-522-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_445_TextContainer_445) \]
 
+----
+
 ### § 523 ABGB — Klagerecht in Rücksicht der Servituten
 
 > In Ansehung der Servituten findet ein doppeltes Klagerecht Statt\. Man kann gegen den Eigenthümer das Recht der Servitut behaupten; oder, der Eigenthümer kann sich über die Anmaßung einer Servitut beschweren\. Im ersten Falle muß der Kläger die Erwerbung der Servitut oder wenigstens den Besitz derselben als eines dinglichen Rechtes; im zweyten Falle muß er die Anmaßung der Servitut in seiner Sache beweisen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-523-abgb--klagerecht-in-rücksicht-der-servituten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_446_TextContainer_446) \]
+
+----
 
 ## Erlöschung der Dienstbarkeiten.
 
@@ -5323,6 +6217,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-524-abgb--im-allgemeinen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_447_TextContainer_447) \]
 
+----
+
 ## Besondere Anordnung bey deren Erlöschung:
 
 ### § 525 ABGB — a) durch den Untergang des dienstbaren oder herrschenden Grundes;
@@ -5331,11 +6227,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-525-abgb--a-durch-den-untergang-des-dienstbaren-oder-herrschenden-grundes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_448_TextContainer_448) \]
 
+----
+
 ### § 526 ABGB — b) durch Vereinigung;
 
 > Wenn das Eigenthum des dienstbaren und des herrschenden Grundes in Einer Person vereinigt wird, hört die Dienstbarkeit von selbst auf\. Wird aber in der Folge Einer dieser vereinigten Gründe wieder veräußert, ohne daß inzwischen in den öffentlichen Büchern die Dienstbarkeit gelöschet worden; so ist der neue Besitzer des herrschenden Grundes befugt, die Servitut auszuüben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-526-abgb--b-durch-vereinigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_449_TextContainer_449) \]
+
+----
 
 ### § 527 ABGB — c) durch Zeitverlauf
 
@@ -5343,11 +6243,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-527-abgb--c-durch-zeitverlauf) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_450_TextContainer_450) \]
 
+----
+
 ### § 528 ABGB
 
 > Eine Servitut, welche jemanden bis zur Zeit, da ein Dritter ein bestimmtes Alter erreicht, verliehen wird, erlischt erst zu der bestimmten Zeit, obschon der Dritte vor diesem Alter verstorben ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-528-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_451_TextContainer_451) \]
+
+----
 
 ### § 529 ABGB — Erlöschung der persönlichen Servituten insbesondere
 
@@ -5355,11 +6259,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-529-abgb--erlöschung-der-persönlichen-servituten-insbesondere) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_452_TextContainer_452) \]
 
+----
+
 ### § 530 ABGB — Unanwendbarkeit auf beständige Renten
 
 > Beständige jährliche Renten sind keine persönliche Servitut, und können also ihrer Natur nach auf alle Nachfolger übertragen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-530-abgb--unanwendbarkeit-auf-beständige-renten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_453_TextContainer_453) \]
+
+----
 
 ## Achtes Hauptstück
 
@@ -5373,11 +6281,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-531-abgb--verlassenschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_454_TextContainer_454) \]
 
+----
+
 ### § 532 ABGB — Erbrecht
 
 > Das Erbrecht ist das absolute Recht, die ganze Verlassenschaft oder einen bestimmten Teil davon zu erwerben\. Diejenige Person, der das Erbrecht gebührt, wird Erbe genannt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-532-abgb--erbrecht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_455_TextContainer_455) \]
+
+----
 
 ### § 533 ABGB — Erbrechtstitel
 
@@ -5385,17 +6297,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-533-abgb--erbrechtstitel) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_456_TextContainer_456) \]
 
+----
+
 ### § 534 ABGB — Mehrere Berufungsgründe
 
 > Die angeführten Erbrechtstitel können auch nebeneinander bestehen, sodass einem Erben ein bestimmter Teil der Verlassenschaft aus dem letzten Willen, einem anderen ein Teil aus dem Erbvertrag und einem dritten ein Teil aus dem Gesetz gebühren können\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-534-abgb--mehrere-berufungsgründe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_457_TextContainer_457) \]
 
+----
+
 ### § 535 ABGB — Unterschied zwischen Erbschaft und Vermächtnis
 
 > Wird einer Person nicht ein Erbteil, der sich auf die ganze Verlassenschaft bezieht, sondern eine bestimmte Sache, eine oder mehrere Sachen einer Gattung, ein Betrag oder ein Recht zugedacht, so ist das Zugedachte, auch wenn sein Wert einen erheblichen Teil der Verlassenschaft ausmacht, ein Vermächtnis\. Diejenige Person, der es hinterlassen wurde, ist nicht Erbe, sondern Vermächtnisnehmer\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-535-abgb--unterschied-zwischen-erbschaft-und-vermächtnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_458_TextContainer_458) \]
+
+----
 
 ## II. Entstehung des Erbrechts
 
@@ -5407,6 +6325,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-536-abgb--erbanfall) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_459_TextContainer_459) \]
 
+----
+
 ### § 537 ABGB — Vererblichkeit des Erbrechts
 
 > `(1)` Wenn der Erbe den Verstorbenen überlebt hat, geht das Erbrecht auch vor Einantwortung der Erbschaft auf seine Erben \(Erbeserben\) über, es sei denn, dass der Verstorbene dies ausgeschlossen hat, die Erbschaft ausgeschlagen wurde oder das Erbrecht auf eine andere Art erloschen ist\.
@@ -5415,11 +6335,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-537-abgb--vererblichkeit-des-erbrechts) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_460_TextContainer_460) \]
 
+----
+
 ### § 538 ABGB — Erbfähigkeit
 
 > Erbfähig ist, wer rechtsfähig und erbwürdig ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-538-abgb--erbfähigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_461_TextContainer_461) \]
+
+----
 
 ### § 539 ABGB — Gründe für die Erbunwürdigkeit
 
@@ -5427,11 +6351,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-539-abgb--gründe-für-die-erbunwürdigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_462_TextContainer_462) \]
 
+----
+
 ### § 540 ABGB
 
 > Wer absichtlich die Verwirklichung des wahren letzten Willens des Verstorbenen vereitelt oder zu vereiteln versucht hat, etwa indem er ihn zur Erklärung des letzten Willens gezwungen oder arglistig verleitet, ihn an der Erklärung oder Änderung des letzten Willens gehindert oder einen bereits errichteten letzten Willen unterdrückt hat, ist erbunwürdig, sofern der Verstorbene nicht zu erkennen gegeben hat, dass er ihm verziehen hat\. Er haftet für jeden einem Dritten dadurch zugefügten Schaden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-540-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_463_TextContainer_463) \]
+
+----
 
 ### § 541 ABGB
 
@@ -5447,11 +6375,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-541-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_464_TextContainer_464) \]
 
+----
+
 ### § 542 ABGB — Eintrittsrecht bei Erbunwürdigkeit
 
 > Bei gesetzlicher Erbfolge treten die Nachkommen der erbunwürdigen Person an deren Stelle, auch wenn diese den Verstorbenen überlebt hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-542-abgb--eintrittsrecht-bei-erbunwürdigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_465_TextContainer_465) \]
+
+----
 
 ### § 543 ABGB — Beurteilung der Erbfähigkeit
 
@@ -5461,11 +6393,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-543-abgb--beurteilung-der-erbfähigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_466_TextContainer_466) \]
 
+----
+
 ### § 546 ABGB — Verlassenschaft als juristische Person
 
 > Mit dem Tod setzt die Verlassenschaft als juristische Person die Rechtsposition des Verstorbenen fort\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-546-abgb--verlassenschaft-als-juristische-person) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_467_TextContainer_467) \]
+
+----
 
 ### § 547 ABGB — Gesamtrechtsnachfolge
 
@@ -5473,11 +6409,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-547-abgb--gesamtrechtsnachfolge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_468_TextContainer_468) \]
 
+----
+
 ### § 548 ABGB — Verbindlichkeiten
 
 > Verbindlichkeiten, die der Verstorbene aus seinem Vermögen zu leisten gehabt hätte, übernimmt sein Erbe\. Geldstrafen gehen nicht auf den Erben über\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-548-abgb--verbindlichkeiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_469_TextContainer_469) \]
+
+----
 
 ### § 549 ABGB — Begräbniskosten
 
@@ -5485,11 +6425,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-549-abgb--begräbniskosten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_470_TextContainer_470) \]
 
+----
+
 ### § 550 ABGB — Erbengemeinschaft
 
 > Mehrere Erben bilden in Ansehung ihres gemeinschaftlichen Erbrechts eine Erbengemeinschaft\. Der Anteil eines dieser Miterben richtet sich nach seiner Erbquote\. Im Übrigen sind die Bestimmungen des Fünfzehnten und Sechzehnten Hauptstücks entsprechend anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-550-abgb--erbengemeinschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_471_TextContainer_471) \]
+
+----
 
 ### § 551 ABGB — Erbverzicht
 
@@ -5498,6 +6442,8 @@
 > `(2)` Soweit nichts anderes vereinbart ist, erstreckt sich ein solcher Verzicht auch auf den Pflichtteil und auf die Nachkommen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-551-abgb--erbverzicht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_472_TextContainer_472) \]
+
+----
 
 ## Neuntes Hauptstück
 
@@ -5513,11 +6459,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-552-abgb--letztwillige-verfügung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_473_TextContainer_473) \]
 
+----
+
 ### § 553 ABGB — Auslegung letztwilliger Verfügungen
 
 > Wörter sind nach ihrer gewöhnlichen Bedeutung auszulegen, außer der Verstorbene hat mit gewissen Ausdrücken einen besonderen Sinn verbunden\. Maßgeblich ist der wahre Wille des Verstorbenen, der im Wortlaut der Verfügung zumindest angedeutet sein muss\. Die Auslegung soll so erfolgen, dass der vom Verstorbenen angestrebte Erfolg eintritt und dass die letztwillige Verfügung als solche zumindest teilweise aufrecht bleiben kann\. Die §§ 681 bis 683 sind anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-553-abgb--auslegung-letztwilliger-verfügungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_474_TextContainer_474) \]
+
+----
 
 ### § 554 ABGB — Einsetzung eines einzigen Erben
 
@@ -5525,11 +6475,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-554-abgb--einsetzung-eines-einzigen-erben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_475_TextContainer_475) \]
 
+----
+
 ### § 555 ABGB — Einsetzung mehrerer Erben
 
 > Hat der Verstorbene mehrere Personen unbestimmt als Erben eingesetzt, so erben sie zu gleichen Teilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-555-abgb--einsetzung-mehrerer-erben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_476_TextContainer_476) \]
+
+----
 
 ### § 556 ABGB
 
@@ -5537,11 +6491,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-556-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_477_TextContainer_477) \]
 
+----
+
 ### § 557 ABGB — Bestimmte und unbestimmte Einsetzung nebeneinander
 
 > Hat der Verstorbene nur den Anteil eines oder mehrerer Erben bestimmt, die Anteile der übrigen Erben aber nicht, so erhalten diese den Rest zu gleichen Teilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-557-abgb--bestimmte-und-unbestimmte-einsetzung-nebeneinander) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_478_TextContainer_478) \]
+
+----
 
 ### § 558 ABGB
 
@@ -5549,11 +6507,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-558-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_479_TextContainer_479) \]
 
+----
+
 ### § 559 ABGB — Erbeinsetzung mehrerer Personen zu unbestimmten Anteilen
 
 > Sind unter mehreren unbestimmt eingesetzten Erben auch solche Personen, die nach der gesetzlichen Erbfolge als eine Person anzusehen sind \(etwa die Kinder des einen Bruders gegenüber dem anderen Bruder des Verstorbenen\), so gelten sie im Zweifel auch bei testamentarischer Einsetzung als eine Person\. Hat der Verstorbene als Erben bestimmbare Personen eingesetzt, so wird vermutet, dass er sie nebeneinander zu einzelnen Anteilen als Erben einsetzen wollte\. Wird eine Mehrheit unbestimmbarer Personen eingesetzt, so ist sie im Zweifel als eine Person zu betrachten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-559-abgb--erbeinsetzung-mehrerer-personen-zu-unbestimmten-anteilen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_480_TextContainer_480) \]
+
+----
 
 ### § 560 ABGB — Anwachsung
 
@@ -5563,11 +6525,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-560-abgb--anwachsung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_481_TextContainer_481) \]
 
+----
+
 ### § 563 ABGB
 
 > Wer den frei gewordenen Erbteil erhält, übernimmt auch die damit verknüpften Lasten, soweit sie nicht in höchstpersönlichen Verpflichtungen des eingesetzten Erben bestehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-563-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_482_TextContainer_482) \]
+
+----
 
 ## II. Anforderungen an den letzten Willen
 
@@ -5577,11 +6543,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-564-abgb--höchstpersönliche-willenserklärung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_483_TextContainer_483) \]
 
+----
+
 ### § 565 ABGB — Bestimmtheit und Mangelfreiheit
 
 > Der letzte Wille muss bestimmt, mit Überlegung, ernst sowie frei von Drohung, List und wesentlichem Irrtum erklärt werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-565-abgb--bestimmtheit-und-mangelfreiheit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_484_TextContainer_484) \]
+
+----
 
 ### § 566 ABGB — Testierfähigkeit
 
@@ -5589,11 +6559,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-566-abgb--testierfähigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_485_TextContainer_485) \]
 
+----
+
 ### § 567 ABGB
 
 > Hat der Verstorbene seinen letzten Willen in einem die Testierfähigkeit ausschließenden Zustand erklärt, etwa unter dem Einfluss einer psychischen Krankheit oder im Rausch, so ist die letztwillige Verfügung ungültig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-567-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_486_TextContainer_486) \]
+
+----
 
 ### § 568 ABGB
 
@@ -5601,11 +6575,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-568-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_487_TextContainer_487) \]
 
+----
+
 ### § 569 ABGB — Alter
 
 > Unmündige Personen sind testierunfähig\. Mündige Minderjährige können – ausgenommen im Notfall \(§ 584\) – nur mündlich vor Gericht oder Notar testieren\. Das Gericht oder der Notar hat sich davon zu überzeugen, dass die Erklärung des letzten Willens frei und überlegt erfolgt\. Die Erklärung des letzten Willens und das Ergebnis der Erhebungen sind in einem Protokoll festzuhalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-569-abgb--alter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_488_TextContainer_488) \]
+
+----
 
 ### § 570 ABGB — Wesentlicher Irrtum
 
@@ -5613,11 +6591,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-570-abgb--wesentlicher-irrtum) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_489_TextContainer_489) \]
 
+----
+
 ### § 571 ABGB — Falsche Bezeichnung
 
 > Wenn sich zeigt, dass der Verstorbene die bedachte Person oder die zugewendete Sache nur unrichtig benannt oder beschrieben hat, ist die Verfügung gültig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-571-abgb--falsche-bezeichnung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_490_TextContainer_490) \]
+
+----
 
 ### § 572 ABGB — Motivirrtum
 
@@ -5625,17 +6607,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-572-abgb--motivirrtum) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_491_TextContainer_491) \]
 
+----
+
 ### § 575 ABGB — Zeitpunkt für die Beurteilung der Gültigkeit
 
 > Die Voraussetzungen der Gültigkeit einer letztwilligen Verfügung müssen bei deren Errichtung vorliegen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-575-abgb--zeitpunkt-für-die-beurteilung-der-gültigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_492_TextContainer_492) \]
 
+----
+
 ### § 576 ABGB
 
 > Eine anfänglich ungültige letztwillige Verfügung wird durch den späteren Wegfall des Hindernisses nicht gültig\. Wird in diesem Fall keine neue Verfügung getroffen, so tritt die gesetzliche Erbfolge ein\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-576-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_493_TextContainer_493) \]
+
+----
 
 ## III. Form der letztwilligen Verfügung
 
@@ -5645,11 +6633,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-577-abgb--arten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_494_TextContainer_494) \]
 
+----
+
 ### § 578 ABGB — Eigenhändige Verfügung
 
 > Wer schriftlich ohne Zeugen letztwillig verfügen will, muss die Verfügung eigenhändig schreiben und eigenhändig mit seinem Namen unterschreiben\. Die Beisetzung von Ort und Datum der Errichtung ist zwar nicht notwendig, aber ratsam\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-578-abgb--eigenhändige-verfügung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_495_TextContainer_495) \]
+
+----
 
 ### § 579 ABGB — Fremdhändige Verfügung
 
@@ -5659,6 +6651,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-579-abgb--fremdhändige-verfügung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_496_TextContainer_496) \]
 
+----
+
 ### § 580 ABGB
 
 > `(1)` Wenn der letztwillig Verfügende nicht schreiben kann, muss er statt der Unterschrift und des eigenhändigen Zusatzes sein Handzeichen in Gegenwart der in § 579 genannten Zeugen eigenhändig setzen und ausdrücklich vor ihnen erklären, dass die Urkunde sein letzter Wille ist\. Die Anführung des Namens des letztwillig Verfügenden durch einen Zeugen ist zwar nicht notwendig, aber ratsam\.
@@ -5666,6 +6660,8 @@
 > `(2)` Wer nicht lesen kann, muss sich die fremdhändige Verfügung von einem Zeugen in Gegenwart der beiden anderen Zeugen, die den Inhalt eingesehen haben, vorlesen lassen und bekräftigen, dass dieser seinem Willen entspricht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-580-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_497_TextContainer_497) \]
+
+----
 
 ### § 581 ABGB — Gerichtliche Verfügung
 
@@ -5677,6 +6673,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-581-abgb--gerichtliche-verfügung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_498_TextContainer_498) \]
 
+----
+
 ### § 582 ABGB
 
 > `(1)` Das Gericht, das die schriftliche oder mündliche Erklärung des letzten Willens aufnimmt, muss zumindest aus zwei Gerichtsbediensteten bestehen, wobei eine Person an diesem Gericht als Richter tätig sein muss\. Der zweite Gerichtsbedienstete kann durch zwei andere Zeugen ersetzt werden\.
@@ -5685,11 +6683,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-582-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_499_TextContainer_499) \]
 
+----
+
 ### § 583 ABGB — Notarielle Verfügung
 
 > Eine letztwillige Verfügung kann weiters vor zwei Notaren oder vor einem Notar und zwei Zeugen schriftlich oder mündlich errichtet werden\. Die §§ 67 und 70 bis 75 Notariatsordnung sind anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-583-abgb--notarielle-verfügung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_500_TextContainer_500) \]
+
+----
 
 ### § 584 ABGB — Nottestament
 
@@ -5699,11 +6701,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-584-abgb--nottestament) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_501_TextContainer_501) \]
 
+----
+
 ### § 585 ABGB — Verweisende Verfügung
 
 > Eine Verfügung des Verstorbenen durch Verweis auf einen Zettel oder auf eine andere Urkunde ist nur wirksam, wenn eine solche Urkunde alle Gültigkeitserfordernisse einer letztwilligen Verfügung erfüllt\. Sonst können derartige schriftliche Bemerkungen des Verstorbenen nur zur Auslegung seines Willens herangezogen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-585-abgb--verweisende-verfügung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_502_TextContainer_502) \]
+
+----
 
 ### § 586 ABGB — Gemeinschaftliche letztwillige Verfügungen
 
@@ -5713,11 +6719,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-586-abgb--gemeinschaftliche-letztwillige-verfügungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_503_TextContainer_503) \]
 
+----
+
 ### § 587 ABGB — Zeugen
 
 > Unmündige Minderjährige, Personen, die auf Grund einer körperlichen oder geistigen Beeinträchtigung nicht fähig sind, entsprechend der jeweiligen Testamentsform einen letzten Willen zu bezeugen, sowie Personen, die die Sprache des letztwillig Verfügenden nicht verstehen, können nicht Zeugen letztwilliger Verfügungen sein\. Mündige Minderjährige können nur Zeugen eines Nottestaments sein\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-587-abgb--zeugen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_504_TextContainer_504) \]
+
+----
 
 ### § 588 ABGB
 
@@ -5727,11 +6737,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-588-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_505_TextContainer_505) \]
 
+----
+
 ### § 589 ABGB
 
 > Die Bestimmungen über die Fähigkeit und Unbefangenheit der Zeugen sind auch auf die Gerichtsbediensteten und Notare anzuwenden, die den letzten Willen aufnehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-589-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_506_TextContainer_506) \]
+
+----
 
 ### § 590 ABGB — Ausgeschlossenheit des Verfassers
 
@@ -5739,17 +6753,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-590-abgb--ausgeschlossenheit-des-verfassers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_507_TextContainer_507) \]
 
+----
+
 ### § 591 ABGB
 
 > Für den bedachten Verfasser einer letztwilligen Verfügung und ihm nahestehende bedachte Personen oder Gesellschaften gilt § 588 entsprechend\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-591-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_508_TextContainer_508) \]
 
+----
+
 ### § 601 ABGB — Formungültige letztwillige Verfügungen
 
 > Wurde bei Errichtung einer letztwilligen Verfügung eine zwingende Formvorschrift nicht eingehalten, so ist die letztwillige Verfügung ungültig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-601-abgb--formungültige-letztwillige-verfügungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_509_TextContainer_509) \]
+
+----
 
 ## IV. Vereinbarungen von Todes wegen
 
@@ -5759,11 +6779,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-602-abgb--erbverträge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_510_TextContainer_510) \]
 
+----
+
 ### § 603 ABGB — Schenkung auf den Todesfall
 
 > Eine Schenkung auf den Todesfall ist auch nach dem Tod des Geschenkgebers als Vertrag anzusehen, wenn er sich kein Widerrufsrecht vertraglich vorbehalten hat und der Vertrag als Notariatsakt aufgenommen wurde\. Die Bestimmungen des Achtzehnten Hauptstücks von Schenkungen und § 1253 sind anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-603-abgb--schenkung-auf-den-todesfall) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_511_TextContainer_511) \]
+
+----
 
 ## Zehntes Hauptstück
 
@@ -5777,11 +6801,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-604-abgb--ersatzerbschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_512_TextContainer_512) \]
 
+----
+
 ### § 605 ABGB — Vermutete Ersatzerbschaft
 
 > Es wird vermutet, dass der Verstorbene die Nachkommen eingesetzter Kinder zu Ersatzerben einsetzen wollte\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-605-abgb--vermutete-ersatzerbschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_513_TextContainer_513) \]
+
+----
 
 ### § 606 ABGB — Rechte und Pflichten des Ersatzerben
 
@@ -5789,11 +6817,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-606-abgb--rechte-und-pflichten-des-ersatzerben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_514_TextContainer_514) \]
 
+----
+
 ### § 607 ABGB — Gegenseitige Ersatzerbschaft
 
 > Sind allein Miterben gegenseitig zu Ersatzerben berufen, so wird vermutet, dass der Verstorbene die in der Einsetzung bestimmten Teile auch auf die Ersatzerbschaft ausdehnen wollte\. Ist aber in der Ersatzerbschaft außer den Miterben auch eine andere Person zum Ersatzerben berufen, so fällt der frei gewordene Erbteil allen zu gleichen Teilen zu\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-607-abgb--gegenseitige-ersatzerbschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_515_TextContainer_515) \]
+
+----
 
 ### § 608 ABGB — Nacherbschaft
 
@@ -5803,11 +6835,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-608-abgb--nacherbschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_516_TextContainer_516) \]
 
+----
+
 ### § 609 ABGB — Nacherbschaft auf den Überrest
 
 > Eine Nacherbschaft auf den Überrest liegt vor, wenn der Nacherbe nach dem Willen des Verstorbenen nur das erhalten soll, was beim Ableben des Vorerben noch übrig ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-609-abgb--nacherbschaft-auf-den-überrest) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_517_TextContainer_517) \]
+
+----
 
 ### § 610 ABGB — Umdeutung von Testieranordnungen
 
@@ -5817,17 +6853,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-610-abgb--umdeutung-von-testieranordnungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_518_TextContainer_518) \]
 
+----
+
 ### § 611 ABGB — Nacherbschaft bei Zeitgenossen
 
 > Wenn die Nacherben Zeitgenossen des letztwillig Verfügenden sind, kann er sie ohne zahlenmäßige Beschränkung als Nacherben einsetzen\. Zeitgenossen sind natürliche Personen, die zum Zeitpunkt der Errichtung der Nacherbschaft bereits gezeugt \(§ 22\) oder geboren sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-611-abgb--nacherbschaft-bei-zeitgenossen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_519_TextContainer_519) \]
 
+----
+
 ### § 612 ABGB — Einschränkung der Nacherbschaft
 
 > Sind die Nacherben im Zeitpunkt der Errichtung der letztwilligen Verfügung noch keine Zeitgenossen des Verfügenden, so ist die Nacherbschaft bei Geld und anderen beweglichen Sachen auf zwei Nacherbfälle, bei unbeweglichen Sachen auf einen Nacherbfall beschränkt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-612-abgb--einschränkung-der-nacherbschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_520_TextContainer_520) \]
+
+----
 
 ### § 613 ABGB — Rechte des Vorerben
 
@@ -5841,11 +6883,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-613-abgb--rechte-des-vorerben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_521_TextContainer_521) \]
 
+----
+
 ### § 614 ABGB — Auslegung einer Ersatz- oder Nacherbschaft
 
 > Ist eine Ersatz\- oder Nacherbschaft undeutlich ausgedrückt, so ist sie auf eine solche Art auszulegen, dass die Freiheit des Erben, über das Eigentum zu verfügen, am wenigsten eingeschränkt wird\. Dies gilt auch für die Frage, ob überhaupt eine Ersatz\- oder Nacherbschaft angeordnet wurde\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-614-abgb--auslegung-einer-ersatz--oder-nacherbschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_522_TextContainer_522) \]
+
+----
 
 ### § 615 ABGB — Erlöschen der Ersatz- und Nacherbschaft
 
@@ -5855,6 +6901,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-615-abgb--erlöschen-der-ersatz--und-nacherbschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_523_TextContainer_523) \]
 
+----
+
 ### § 616 ABGB
 
 > `(1)` Ist für eine vermeintlich testierunfähige Person ein Nacherbe bestimmt, so ist die Nacherbschaft im Zweifel ungültig, wenn diese Person im Zeitpunkt der Errichtung der letztwilligen Verfügung testierfähig war\.
@@ -5863,11 +6911,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-616-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_524_TextContainer_524) \]
 
+----
+
 ### § 617 ABGB
 
 > Die von einem letztwillig Verfügenden seinem Kind in einem Zeitpunkt angeordnete Ersatz\- oder Nacherbschaft, in dem dieses noch keine Kinder hatte, erlischt im Zweifel, wenn es später doch erbfähige Kinder hinterlassen hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-617-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_525_TextContainer_525) \]
+
+----
 
 ## Elftes Hauptstück
 
@@ -5883,6 +6935,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-647-abgb--berufung-zum-vermächtnisnehmer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_526_TextContainer_526) \]
 
+----
+
 ### § 648 ABGB — Erbe und Vermächtnisnehmer
 
 > `(1)` Einem Erben kann auch ein Vermächtnis zugedacht werden\. Insoweit wird der Erbe als Vermächtnisnehmer behandelt\. Im Zweifel ist ein solches Vermächtnis nicht auf den Anteil des begünstigten Erben anzurechnen und belastet alle Erben nach ihrer Erbquote \(Vorausvermächtnis\)\.
@@ -5893,6 +6947,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-648-abgb--erbe-und-vermächtnisnehmer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_527_TextContainer_527) \]
 
+----
+
 ### § 649 ABGB — Vermächtnisschuldner
 
 > `(1)` Aufgrund des Vermächtnisses erwirbt der Vermächtnisnehmer eine Forderung gegen die Verlassenschaft und nach der Einantwortung gegen die Erben\.
@@ -5901,11 +6957,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-649-abgb--vermächtnisschuldner) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_528_TextContainer_528) \]
 
+----
+
 ### § 650 ABGB — Untervermächtnis
 
 > Ein Vermächtnisnehmer kann sich von der vollständigen Erfüllung des ihm aufgetragenen weiteren Vermächtnisses nicht mit der Begründung befreien, dass es den Wert des ihm zugedachten Vermächtnisses übersteigt\. Nimmt er das Vermächtnis nicht an, so muss derjenige, dem es zufällt, das Untervermächtnis erfüllen oder das ihm zugefallene Vermächtnis dem darauf gewiesenen Untervermächtnisnehmer herausgeben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-650-abgb--untervermächtnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_529_TextContainer_529) \]
+
+----
 
 ### § 651 ABGB — Verteilungsvermächtnis
 
@@ -5913,11 +6973,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-651-abgb--verteilungsvermächtnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_530_TextContainer_530) \]
 
+----
+
 ### § 652 ABGB — Ersatz- und Nachvermächtnis
 
 > Es kann auch ein Ersatz\- oder Nachvermächtnis angeordnet werden; die Bestimmungen des Zehnten Hauptstücks sind darauf sinngemäß anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-652-abgb--ersatz--und-nachvermächtnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_531_TextContainer_531) \]
+
+----
 
 ### § 653 ABGB — Gegenstand eines Vermächtnisses
 
@@ -5927,11 +6991,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-653-abgb--gegenstand-eines-vermächtnisses) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_532_TextContainer_532) \]
 
+----
+
 ### § 654 ABGB — Unmöglichkeit
 
 > Ist die Leistung des Vermächtnisses ohne Verschulden des Vermächtnisschuldners oder eines Dritten unmöglich, so erhält der Vermächtnisnehmer keinen Ersatz\. Werden aber verkehrsfähige Sachen vermacht, die der Vermächtnisnehmer aus rechtlichen Gründen nicht erwerben kann, so gebührt ihm der Verkehrswert\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-654-abgb--unmöglichkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_533_TextContainer_533) \]
+
+----
 
 ## II. Arten von Vermächtnissen
 
@@ -5941,11 +7009,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-656-abgb--1-gattungsvermächtnisse) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_534_TextContainer_534) \]
 
+----
+
 ### § 657 ABGB
 
 > Wenn eine oder mehrere Sachen einer Gattung nach dem Willen des Verstorbenen dessen Eigentum entstammen sollen, sich aber nicht in der Verlassenschaft befinden, ist das Vermächtnis ungültig\. Finden sie sich nicht in der bestimmten Zahl, so muss sich der Vermächtnisnehmer mit den vorhandenen begnügen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-657-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_535_TextContainer_535) \]
+
+----
 
 ### § 658 ABGB
 
@@ -5955,11 +7027,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-658-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_536_TextContainer_536) \]
 
+----
+
 ### § 659 ABGB
 
 > Kann oder will der Dritte oder der wahlberechtigte Vermächtnisnehmer nicht wählen, so hat das Gericht das Vermächtnis mit Rücksicht auf die Bedürfnisse des Vermächtnisnehmers zu bestimmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-659-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_537_TextContainer_537) \]
+
+----
 
 ### § 660 ABGB — 2. Vermächtnis einer bestimmten Sache
 
@@ -5969,11 +7045,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-660-abgb--2-vermächtnis-einer-bestimmten-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_538_TextContainer_538) \]
 
+----
+
 ### § 661 ABGB
 
 > Das Vermächtnis ist ungültig, wenn die vermachte Sache im Zeitpunkt der Errichtung der letztwilligen Verfügung schon im Eigentum des Vermächtnisnehmers stand\. Hat er sie später erworben, so gebührt ihm der Verkehrswert\. Wenn er sie aber vom Verstorbenen vor dessen Tod unentgeltlich erhalten hat, gilt das Vermächtnis als aufgehoben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-661-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_539_TextContainer_539) \]
+
+----
 
 ### § 662 ABGB — 3. Vermächtnis einer fremden Sache
 
@@ -5983,11 +7063,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-662-abgb--3-vermächtnis-einer-fremden-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_540_TextContainer_540) \]
 
+----
+
 ### § 663 ABGB — 4. Vermächtnis einer Forderung
 
 > Das Vermächtnis einer Forderung, die der Verstorbene gegen den Vermächtnisnehmer hatte \(Befreiungsvermächtnis\), verpflichtet den Erben, die Forderung samt den rückständigen Zinsen zu erlassen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-663-abgb--4-vermächtnis-einer-forderung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_541_TextContainer_541) \]
+
+----
 
 ### § 664 ABGB
 
@@ -5995,11 +7079,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-664-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_542_TextContainer_542) \]
 
+----
+
 ### § 665 ABGB
 
 > Das Vermächtnis der Schuld, die der Verstorbene dem Vermächtnisnehmer gegenüber zu erfüllen hatte \(Schuldvermächtnis\), bewirkt, dass der Erbe die vom Verstorbenen bestimmte oder vom Vermächtnisnehmer ausgewiesene Schuld anerkennen und sie, ohne Rücksicht auf die mit der Schuld verbundenen Bedingungen oder Fristen, längstens binnen der zur Leistung der übrigen Vermächtnisse bestimmten Frist erfüllen muss\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-665-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_543_TextContainer_543) \]
+
+----
 
 ### § 666 ABGB
 
@@ -6007,11 +7095,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-666-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_544_TextContainer_544) \]
 
+----
+
 ### § 667 ABGB
 
 > Wenn der Verstorbene einer Person den gleichen Betrag vermacht hat, den er ihr geschuldet hat, wird nicht vermutet, dass er die Schuld mit dem Vermächtnis erfüllen wollte\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-667-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_545_TextContainer_545) \]
+
+----
 
 ### § 672 ABGB — 5. Vermächtnis des Unterhalts oder der Ausbildung
 
@@ -6021,11 +7113,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-672-abgb--5-vermächtnis-des-unterhalts-oder-der-ausbildung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_546_TextContainer_546) \]
 
+----
+
 ### § 673 ABGB
 
 > Das Vermächtnis der Ausbildung umfasst im Zweifel alle Kosten einer den Fähigkeiten und Neigungen des Vermächtnisnehmers entsprechenden Ausbildung nach denselben Grundsätzen, wie sie für die Verpflichtung von Eltern gegenüber ihren Kindern gelten\. Die Kosten des notwendigen Lebensunterhalts sind im Zweifel insoweit mit umfasst, als dem Vermächtnisnehmer wegen seiner Ausbildung eine Erwerbstätigkeit nicht zuzumuten ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-673-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_547_TextContainer_547) \]
+
+----
 
 ### § 674 ABGB — 6. Vermächtnis der Möbel und des Hausrats
 
@@ -6033,17 +7129,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-674-abgb--6-vermächtnis-der-möbel-und-des-hausrats) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_548_TextContainer_548) \]
 
+----
+
 ### § 675 ABGB — 7. Vermächtnis eines Behältnisses
 
 > Wenn der Verstorbene ein Behältnis vermacht hat, das nicht für sich selbst besteht \(etwa eine Schublade\), so wird vermutet, dass nur diejenigen Sachen erfasst sind, die sich bei seinem Ableben darin befinden und zu deren Aufbewahrung das Behältnis seiner Natur nach bestimmt oder vom Verstorbenen gewöhnlich verwendet worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-675-abgb--7-vermächtnis-eines-behältnisses) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_549_TextContainer_549) \]
 
+----
+
 ### § 676 ABGB
 
 > Besteht das Behältnis dagegen für sich selbst \(etwa ein Kasten\), so hat der Vermächtnisnehmer im Zweifel nur auf das Behältnis, nicht aber auf die darin befindlichen Sachen Anspruch\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-676-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_550_TextContainer_550) \]
+
+----
 
 ### § 677 ABGB — 8. Pflegevermächtnis
 
@@ -6055,6 +7157,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-677-abgb--8-pflegevermächtnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_551_TextContainer_551) \]
 
+----
+
 ### § 678 ABGB
 
 > `(1)` Die Höhe des Vermächtnisses richtet sich nach Art, Dauer und Umfang der Leistungen\.
@@ -6062,6 +7166,8 @@
 > `(2)` Das Vermächtnis gebührt jedenfalls neben dem Pflichtteil, neben anderen Leistungen aus der Verlassenschaft nur dann nicht, wenn der Verstorbene das verfügt hat\. Das Vermächtnis kann nur bei Vorliegen eines Enterbungsgrundes entzogen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-678-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_552_TextContainer_552) \]
+
+----
 
 ## 9. Auslegung bestimmter Begriffe
 
@@ -6071,17 +7177,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-681-abgb--a-kinder) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_553_TextContainer_553) \]
 
+----
+
 ### § 682 ABGB — b) Verwandte
 
 > Ein ohne nähere Bestimmung für die Verwandten ausgesetztes Vermächtnis wird den nach der gesetzlichen Erbfolge nächsten Verwandten zugewendet\. § 555 ist sinngemäß anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-682-abgb--b-verwandte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_554_TextContainer_554) \]
 
+----
+
 ### § 683 ABGB — c) Dienstnehmer
 
 > Hat der Verstorbene seinen Dienstnehmern ein Vermächtnis hinterlassen und sie bloß durch das Dienstverhältnis bezeichnet, so wird vermutet, dass es diejenigen erhalten sollen, die im Zeitpunkt seines Ablebens in einem Dienstverhältnis zu ihm stehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-683-abgb--c-dienstnehmer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_555_TextContainer_555) \]
+
+----
 
 ## III. Erwerb von Vermächtnissen
 
@@ -6093,11 +7205,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-684-abgb--anfallstag-und-erwerbsvoraussetzungen-bei-vermächtnissen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_556_TextContainer_556) \]
 
+----
+
 ### § 685 ABGB — Fälligkeit des Vermächtnisses
 
 > Das Vermächtnis ist im Zweifel sogleich mit dem Tod des Vermächtnisgebers zu erfüllen\. Geldvermächtnisse und Vermächtnisse von Sachen, die sich nicht in der Verlassenschaft befinden, können erst nach Ablauf eines Jahres nach dem Tod des Vermächtnisgebers geltend gemacht werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-685-abgb--fälligkeit-des-vermächtnisses) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_557_TextContainer_557) \]
+
+----
 
 ### § 686 ABGB
 
@@ -6105,11 +7221,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-686-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_558_TextContainer_558) \]
 
+----
+
 ### § 687 ABGB
 
 > Wenn der Verstorbene dem Vermächtnisnehmer ein Rentenvermächtnis, also einen bestimmten, jährlich, monatlich oder sonst in periodischen Zeiträumen zu leistenden Betrag vermacht hat, erhält der Vermächtnisnehmer ein Recht auf den ganzen Betrag für den Zeitraum, dessen Anfang er erlebt hat\. Den Betrag selbst kann er jedoch erst mit Ende des Zeitraums fordern\. Der erste Zeitraum beginnt mit dem Tod des Vermächtnisgebers\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-687-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_559_TextContainer_559) \]
+
+----
 
 ### § 688 ABGB — Recht des Vermächtnisnehmers auf Sicherstellung
 
@@ -6117,11 +7237,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-688-abgb--recht-des-vermächtnisnehmers-auf-sicherstellung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_560_TextContainer_560) \]
 
+----
+
 ### § 689 ABGB — Wem ein frei gewordenes Vermächtnis zufällt
 
 > Ein Vermächtnis, das der Vermächtnisnehmer nicht annehmen kann oder will, fällt dem Nachberufenen zu \(§ 652\)\. Wenn kein Nachberufener vorhanden ist und das gesamte Vermächtnis mehreren Personen zugedacht worden ist, wächst der Anteil, den einer von ihnen nicht erhält, den übrigen Vermächtnisnehmern zu\. Außer diesen beiden Fällen bleibt ein frei gewordenes Vermächtnis in der Verlassenschaft\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-689-abgb--wem-ein-frei-gewordenes-vermächtnis-zufällt) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_561_TextContainer_561) \]
+
+----
 
 ### § 690 ABGB — Recht des Erben, wenn die Lasten die Verlassenschaft erschöpfen
 
@@ -6129,11 +7253,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-690-abgb--recht-des-erben-wenn-die-lasten-die-verlassenschaft-erschöpfen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_562_TextContainer_562) \]
 
+----
+
 ### § 691 ABGB
 
 > Können nicht alle Vermächtnisnehmer aus der Verlassenschaft befriedigt werden, so wird das Vermächtnis des Unterhalts vor allen anderen entrichtet; diesem Vermächtnisnehmer gebührt der Unterhalt mit dem Erbfall\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-691-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_563_TextContainer_563) \]
+
+----
 
 ### § 692 ABGB — Recht des Erben, wenn die Lasten die Verlassenschaft übersteigen
 
@@ -6141,17 +7269,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-692-abgb--recht-des-erben-wenn-die-lasten-die-verlassenschaft-übersteigen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_564_TextContainer_564) \]
 
+----
+
 ### § 693 ABGB
 
 > Haben die Vermächtnisnehmer die Vermächtnisse bereits empfangen, so wird der verhältnismäßige Abzug nach dem Wert, den das Vermächtnis zum Zeitpunkt des Empfangs hatte, und den daraus gezogenen Nutzungen bestimmt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-693-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_565_TextContainer_565) \]
 
+----
+
 ### § 694 ABGB
 
 > Der Vermächtnisnehmer kann zur Vermeidung einer Zahlung an die Verlassenschaft das Vermächtnis oder den in § 693 angeführten Wert und die bezogenen Nutzungen in die Verlassenschaft zurückstellen; in Rücksicht auf die Verbesserungen und Verschlechterungen wird er als ein redlicher Besitzer behandelt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-694-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_566_TextContainer_566) \]
+
+----
 
 ## Zwölftes Hauptstück
 
@@ -6165,6 +7299,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-695-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_567_TextContainer_567) \]
 
+----
+
 ## II. Arten der Einschränkung
 
 ### § 696 ABGB — 1. Bedingung
@@ -6173,11 +7309,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-696-abgb--1-bedingung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_568_TextContainer_568) \]
 
+----
+
 ### § 697 ABGB — a) Unverständliche und gesetz- oder sittenwidrige Bedingungen
 
 > Unverständliche, unbestimmte sowie gesetz\- oder sittenwidrige Bedingungen gelten als nicht beigesetzt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-697-abgb--a-unverständliche-und-gesetz--oder-sittenwidrige-bedingungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_569_TextContainer_569) \]
+
+----
 
 ### § 698 ABGB — b) Unmögliche Bedingungen
 
@@ -6185,11 +7325,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-698-abgb--b-unmögliche-bedingungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_570_TextContainer_570) \]
 
+----
+
 ### § 699 ABGB — c) Mögliche und erlaubte Bedingungen
 
 > Sind die Bedingungen möglich und erlaubt, so kann das davon abhängende Recht nur durch ihre genaue Erfüllung erworben werden, mögen sie vom Zufall oder vom Willen des bedachten Erben, Vermächtnisnehmers oder eines Dritten abhängen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-699-abgb--c-mögliche-und-erlaubte-bedingungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_571_TextContainer_571) \]
+
+----
 
 ### § 701 ABGB — d) Erfüllung der Bedingung zu Lebzeiten des Verstorbenen
 
@@ -6197,11 +7341,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-701-abgb--d-erfüllung-der-bedingung-zu-lebzeiten-des-verstorbenen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_572_TextContainer_572) \]
 
+----
+
 ### § 702 ABGB — e) Keine Erfüllung der Bedingung durch Nachberufene
 
 > Eine den Erben oder Vermächtnisnehmer einschränkende Bedingung ist ohne ausdrückliche Erklärung des Verstorbenen nicht auf den von diesem nachberufenen Erben oder Vermächtnisnehmer auszudehnen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-702-abgb--e-keine-erfüllung-der-bedingung-durch-nachberufene) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_573_TextContainer_573) \]
+
+----
 
 ### § 703 ABGB — f) Wirkung einer möglichen aufschiebenden Bedingung
 
@@ -6209,11 +7357,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-703-abgb--f-wirkung-einer-möglichen-aufschiebenden-bedingung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_574_TextContainer_574) \]
 
+----
+
 ### § 705 ABGB — 2. Befristung
 
 > Ist der Eintritt des Ereignisses, auf das der Verstorbene das zugedachte Recht eingeschränkt hat, gewiss, so geht das zugedachte Recht wie andere unbedingte Rechte auch auf die Erben der bedachten Person über\. In einem solchen Fall wird nur die Übergabe bis zum gesetzten Termin aufgeschoben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-705-abgb--2-befristung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_575_TextContainer_575) \]
+
+----
 
 ### § 706 ABGB
 
@@ -6221,11 +7373,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-706-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_576_TextContainer_576) \]
 
+----
+
 ### § 707 ABGB — Vorberechtigung
 
 > Solange das Recht des Erben wegen einer noch nicht erfüllten Bedingung oder wegen einer Befristung in Schwebe bleibt, gelten zwischen dem gesetzlichen und dem eingesetzten Erben im Hinblick auf den einstweiligen Besitz und Genuss der Verlassenschaft die gleichen Rechte und Pflichten wie bei der Nacherbschaft\. Dies gilt sinngemäß für das Verhältnis zwischen dem Erben und dem bedingt oder befristet bedachten Vermächtnisnehmer\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-707-abgb--vorberechtigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_577_TextContainer_577) \]
+
+----
 
 ### § 708 ABGB — Nachberechtigung
 
@@ -6233,11 +7389,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-708-abgb--nachberechtigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_578_TextContainer_578) \]
 
+----
+
 ### § 709 ABGB — 3. Auflage
 
 > Hat der Verstorbene die Verlassenschaft einer Person unter einer Auflage zugewendet, so muss der Belastete die Auflage möglichst genau erfüllen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-709-abgb--3-auflage) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_579_TextContainer_579) \]
+
+----
 
 ### § 710 ABGB
 
@@ -6245,11 +7405,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-710-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_580_TextContainer_580) \]
 
+----
+
 ### § 711 ABGB
 
 > Ob der Verstorbene mit der Schilderung der Beweggründe oder des Zwecks seiner Verfügung eine Verpflichtung auferlegen wollte oder seine Erklärung nur ein Rat, ein Wunsch oder eine Bitte ist, dessen oder deren Nichteinhaltung keinen Nachteil bewirkt, ist durch Auslegung zu ermitteln\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-711-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_581_TextContainer_581) \]
+
+----
 
 ### § 712 ABGB — Strafvermächtnis und Bestreitungsverbot
 
@@ -6258,6 +7422,8 @@
 > `(2)` Eine Anordnung des Verstorbenen, mit der er dem Erben oder Vermächtnisnehmer unter angedrohter Entziehung eines Vorteils verboten hat, den letzten Willen zu bestreiten, ist insoweit unwirksam, als nur die Echtheit oder der Sinn der letztwilligen Verfügung und die Auslegung des Bestreitungsverbots angefochten, sittenwidrige oder gesetzlich verbotene Anordnungen bekämpft oder Verstöße gegen zwingende Formvorschriften eingewendet werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-712-abgb--strafvermächtnis-und-bestreitungsverbot) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_582_TextContainer_582) \]
+
+----
 
 ## III. Aufhebung letztwilliger Verfügungen
 
@@ -6269,11 +7435,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-713-abgb--1-durch-errichtung-eines-späteren-testaments) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_583_TextContainer_583) \]
 
+----
+
 ### § 714 ABGB — oder einer sonstigen späteren letztwilligen Verfügung
 
 > Durch eine spätere letztwillige Verfügung ohne Erbeinsetzung werden frühere Vermächtnisse oder andere letztwillige Verfügungen ohne Erbeinsetzung nur insoweit aufgehoben, als sie ihr widersprechen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-714-abgb--oder-einer-sonstigen-späteren-letztwilligen-verfügung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_584_TextContainer_584) \]
+
+----
 
 ### § 715 ABGB
 
@@ -6281,11 +7451,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-715-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_585_TextContainer_585) \]
 
+----
+
 ### § 716 ABGB — Unbeachtlichkeit der früher erklärten Unabänderlichkeit
 
 > Die Erklärung in einer letztwilligen Verfügung, wonach jede spätere letztwillige Verfügung überhaupt oder dann unwirksam sein soll, wenn sie nicht in einer besonderen Form errichtet oder besonders gekennzeichnet wird, gilt als nicht beigesetzt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-716-abgb--unbeachtlichkeit-der-früher-erklärten-unabänderlichkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_586_TextContainer_586) \]
+
+----
 
 ### § 717 ABGB — 2. durch Widerruf — a) Allgemeines
 
@@ -6293,11 +7467,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-717-abgb--2-durch-widerruf--a-allgemeines) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_587_TextContainer_587) \]
 
+----
+
 ### § 718 ABGB
 
 > Der Widerruf kann nur im Zustand der Testierfähigkeit gültig erfolgen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-718-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_588_TextContainer_588) \]
+
+----
 
 ### § 719 ABGB — b) Ausdrücklicher Widerruf
 
@@ -6305,11 +7483,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-719-abgb--b-ausdrücklicher-widerruf) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_589_TextContainer_589) \]
 
+----
+
 ### § 721 ABGB — c) Stillschweigender Widerruf
 
 > Wer seine letztwillige Verfügung zerstört, etwa indem er sie zerreißt, zerschneidet, verbrennt oder die Unterschrift oder den ganzen Inhalt durchstreicht, widerruft sie\. Wenn von mehreren gleichlautenden Urkunden nur eine zerstört wird, so ist daraus im Zweifel nicht auf einen Widerruf der letztwilligen Verfügung zu schließen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-721-abgb--c-stillschweigender-widerruf) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_590_TextContainer_590) \]
+
+----
 
 ### § 722 ABGB
 
@@ -6317,11 +7499,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-722-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_591_TextContainer_591) \]
 
+----
+
 ### § 723 ABGB
 
 > Hat der Verstorbene eine spätere letztwillige Verfügung zerstört, eine frühere Verfügung aber unversehrt gelassen, so tritt im Zweifel diese frühere Anordnung wieder in Kraft\. Eine frühere mündliche Verfügung, ausgenommen die mündliche gerichtliche oder mündliche notarielle Verfügung, lebt dadurch aber nicht wieder auf\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-723-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_592_TextContainer_592) \]
+
+----
 
 ### § 724 ABGB — d) Vermuteter Widerruf
 
@@ -6337,6 +7523,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-724-abgb--d-vermuteter-widerruf) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_593_TextContainer_593) \]
 
+----
+
 ### § 725 ABGB — 3. durch Verlust der Angehörigenstellung
 
 > `(1)` Mit Auflösung der Ehe, der eingetragenen Partnerschaft oder der Lebensgemeinschaft zu Lebzeiten des Verstorbenen werden davor errichtete letztwillige Verfügungen, soweit sie den früheren Ehegatten, eingetragenen Partner oder Lebensgefährten betreffen, aufgehoben, es sei denn, dass der Verstorbene ausdrücklich das Gegenteil angeordnet hat\. Das Gleiche gilt für die Aufhebung der Abstammung oder den Widerruf oder die Aufhebung der Adoption, auch wenn sie nach dem Erbfall erfolgt, für letztwillige Verfügungen zugunsten des früheren Angehörigen\.
@@ -6345,11 +7533,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-725-abgb--3-durch-verlust-der-angehörigenstellung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_594_TextContainer_594) \]
 
+----
+
 ### § 726 ABGB — 4. durch Ausfall des eingesetzten Erben
 
 > Wenn weder ein Erbe noch ein Nacherbe die Erbschaft annehmen will oder kann, fällt das Erbrecht auf die gesetzlichen Erben\. Diese sind verpflichtet, die übrigen Verfügungen des Verstorbenen zu befolgen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-726-abgb--4-durch-ausfall-des-eingesetzten-erben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_595_TextContainer_595) \]
+
+----
 
 ## Dreizehntes Hauptstück
 
@@ -6363,11 +7555,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-727-abgb--fälle-der-gesetzlichen-erbfolge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_596_TextContainer_596) \]
 
+----
+
 ### § 728 ABGB
 
 > Mangels einer gültigen Erklärung des letzten Willens fällt die gesamte Verlassenschaft den gesetzlichen Erben zu\. Hat der Verstorbene über einen Teil seines Vermögens nicht gültig verfügt, so kommt allein dieser den gesetzlichen Erben zu\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-728-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_597_TextContainer_597) \]
+
+----
 
 ### § 729 ABGB — Verkürzter Pflichtteil und Folgen einer Enterbung
 
@@ -6379,11 +7575,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-729-abgb--verkürzter-pflichtteil-und-folgen-einer-enterbung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_598_TextContainer_598) \]
 
+----
+
 ### § 730 ABGB — Gesetzliche Erben
 
 > Gesetzliche Erben sind die in nächster Linie mit dem Verstorbenen Verwandten und sein Ehegatte oder eingetragener Partner\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-730-abgb--gesetzliche-erben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_599_TextContainer_599) \]
+
+----
 
 ## II. Gesetzliches Erbrecht der Verwandten
 
@@ -6399,11 +7599,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-731-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_600_TextContainer_600) \]
 
+----
+
 ### § 732 ABGB — 1. Linie: Kinder
 
 > Wenn der Verstorbene Kinder hat, fällt ihnen die gesamte Verlassenschaft zu, mögen sie zu seinen Lebzeiten oder nach seinem Tod geboren sein\. Mehreren Kindern fällt die Verlassenschaft zu gleichen Teilen zu\. Enkel von noch lebenden Kindern und Urenkel von noch lebenden Enkeln haben kein Recht zur Erbfolge\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-732-abgb--1-linie-kinder) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_601_TextContainer_601) \]
+
+----
 
 ### § 733 ABGB
 
@@ -6411,11 +7615,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-733-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_602_TextContainer_602) \]
 
+----
+
 ### § 734 ABGB
 
 > Auf diese Art wird eine Verlassenschaft nicht nur dann geteilt, wenn Enkel von verstorbenen Kindern mit noch lebenden Kindern oder entferntere Nachkommen mit näheren Nachkommen des Verstorbenen zusammen treffen, sondern auch dann, wenn die Verlassenschaft bloß zwischen Enkeln von verschiedenen Kindern oder zwischen Urenkeln von verschiedenen Enkeln zu teilen ist\. Es können also die von jedem Kind hinterlassenen Enkel und die von jedem Enkel hinterlassenen Urenkel nie mehr und nie weniger erhalten, als das verstorbene Kind oder der verstorbene Enkel erhalten hätte, wenn es oder er am Leben geblieben wäre\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-734-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_603_TextContainer_603) \]
+
+----
 
 ### § 735 ABGB — 2. Linie: Eltern und ihre Nachkommen
 
@@ -6423,11 +7631,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-735-abgb--2-linie-eltern-und-ihre-nachkommen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_604_TextContainer_604) \]
 
+----
+
 ### § 736 ABGB
 
 > Wenn beide Eltern des Verstorbenen verstorben sind, wird die eine Hälfte der Verlassenschaft, die dem einen Elternteil zugefallen wäre, unter dessen Nachkommen, die andere Hälfte aber unter den Nachkommen des anderen nach den §§ 732 bis 734 geteilt\. Haben die Eltern nur gemeinsame Kinder oder deren Nachkommen hinterlassen, so teilen diese die beiden Hälften unter sich gleich\. Sind aber außer diesen noch Kinder nur eines Elternteils vorhanden, so erhalten diese und deren Nachkommen nur den ihnen von der Hälfte gebührenden Anteil\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-736-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_605_TextContainer_605) \]
+
+----
 
 ### § 737 ABGB
 
@@ -6435,11 +7647,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-737-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_606_TextContainer_606) \]
 
+----
+
 ### § 738 ABGB — 3. Linie: Großeltern und ihre Nachkommen
 
 > Sind die Eltern des Verstorbenen ohne Nachkommen verstorben, so fällt die Verlassenschaft der dritten Linie, also den Großeltern und ihren Nachkommen zu\. Die Verlassenschaft wird dann in zwei gleiche Teile geteilt\. Die eine Hälfte gebührt den Eltern des einen Elternteils des Verstorbenen und ihren Nachkommen, die andere den Eltern des anderen und ihren Nachkommen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-738-abgb--3-linie-großeltern-und-ihre-nachkommen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_607_TextContainer_607) \]
+
+----
 
 ### § 739 ABGB
 
@@ -6447,11 +7663,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-739-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_608_TextContainer_608) \]
 
+----
+
 ### § 740 ABGB
 
 > Sind von der Seite eines Elternteils beide Großeltern ohne Nachkommen verstorben, so fällt den von der anderen Seite noch lebenden Großeltern oder nach deren Tod deren Kindern und Nachkommen die gesamte Verlassenschaft zu\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-740-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_609_TextContainer_609) \]
+
+----
 
 ### § 741 ABGB — 4. Linie: Urgroßeltern
 
@@ -6461,17 +7681,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-741-abgb--4-linie-urgroßeltern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_610_TextContainer_610) \]
 
+----
+
 ### § 742 ABGB — Mehrfache Verwandtschaft
 
 > Wenn jemand mit dem Verstorbenen mehrfach verwandt ist, genießt er von jeder Seite das Erbrecht, das ihm als einem Verwandten von dieser Seite gebührt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-742-abgb--mehrfache-verwandtschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_611_TextContainer_611) \]
 
+----
+
 ### § 743 ABGB — Ausschluss von entfernten Verwandten
 
 > Auf diese vier Linien der Verwandtschaft \(§ 731\) wird die gesetzliche Erbfolge eingeschränkt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-743-abgb--ausschluss-von-entfernten-verwandten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_612_TextContainer_612) \]
+
+----
 
 ## III. Gesetzliches Erbrecht des Ehegatten und eingetragenen Partners
 
@@ -6483,6 +7709,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-744-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_613_TextContainer_613) \]
 
+----
+
 ### § 745 ABGB — Gesetzliches Vorausvermächtnis
 
 > `(1)` Sofern der Ehegatte oder eingetragene Partner nicht rechtmäßig enterbt worden ist, gebühren ihm als gesetzliches Vorausvermächtnis das Recht, in der Ehe\- oder Partnerschaftswohnung weiter zu wohnen, und die zum ehelichen oder partnerschaftlichen Haushalt gehörenden beweglichen Sachen, soweit sie zu dessen Fortführung entsprechend den bisherigen Lebensverhältnissen erforderlich sind\.
@@ -6490,6 +7718,8 @@
 > `(2)` Dem Lebensgefährten des Verstorbenen steht ein solches gesetzliches Vermächtnis zu, sofern er mit dem Verstorbenen als dessen Lebensgefährte zumindest in den letzten drei Jahren im gemeinsamen Haushalt gelebt hat und der Verstorbene im Zeitpunkt des Todes weder verheiratet war noch in einer eingetragenen Partnerschaft gelebt hat\. Die in Abs\. 1 erwähnten Rechte enden ein Jahr nach dem Tod des Verstorbenen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-745-abgb--gesetzliches-vorausvermächtnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_614_TextContainer_614) \]
+
+----
 
 ### § 746 ABGB — Auflösung der Ehe oder Partnerschaft
 
@@ -6499,11 +7729,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-746-abgb--auflösung-der-ehe-oder-partnerschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_615_TextContainer_615) \]
 
+----
+
 ### § 747 ABGB — Anspruch auf Unterhalt
 
 > Der Ehegatte oder eingetragene Partner hat, außer in den Fällen der §§ 746 und 777, gegen die Verlassenschaft und nach Einantwortung gegen die Erben bis zum Wert der Verlassenschaft einen Anspruch auf Unterhalt nach den sinngemäß anzuwendenden Grundsätzen des § 94 oder des § 12 EPG, solange er nicht wieder eine Ehe oder eingetragene Partnerschaft eingeht\. Auf diesen Anspruch ist alles anzurechnen, was der Ehegatte oder eingetragene Partner nach dem Verstorbenen durch vertragliche oder letztwillige Zuwendung, als gesetzlichen Erbteil, als Pflichtteil und durch öffentlich\-rechtliche oder privatrechtliche Leistung erhält, desgleichen eigenes Vermögen des Ehegatten oder eingetragenen Partners sowie Erträgnisse einer von ihm tatsächlich ausgeübten oder einer solchen Erwerbstätigkeit, die von ihm den Umständen nach erwartet werden kann\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-747-abgb--anspruch-auf-unterhalt) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_616_TextContainer_616) \]
+
+----
 
 ## IV. Außerordentliches Erbrecht und Aneignung durch den Bund
 
@@ -6515,11 +7749,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-748-abgb--außerordentliches-erbrecht-des-lebensgefährten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_617_TextContainer_617) \]
 
+----
+
 ### § 749 ABGB — Außerordentliches Erbrecht der Vermächtnisnehmer
 
 > Gelangt weder ein gesetzlicher Erbe noch der Lebensgefährte des Verstorbenen zur Verlassenschaft, so werden die vom Verstorbenen bedachten Vermächtnisnehmer verhältnismäßig als Erben betrachtet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-749-abgb--außerordentliches-erbrecht-der-vermächtnisnehmer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_618_TextContainer_618) \]
+
+----
 
 ### § 750 ABGB — Aneignung durch den Bund
 
@@ -6529,11 +7767,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-750-abgb--aneignung-durch-den-bund) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_619_TextContainer_619) \]
 
+----
+
 ### § 751 ABGB — Abweichungen von der allgemeinen Erbfolge
 
 > Abweichungen von der in diesem Hauptstück bestimmten gesetzlichen Erbfolge, insbesondere für land\- und forstwirtschaftliche Betriebe, sind gesondert geregelt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-751-abgb--abweichungen-von-der-allgemeinen-erbfolge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_620_TextContainer_620) \]
+
+----
 
 ## V. Anrechnung beim Erbteil
 
@@ -6543,17 +7785,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-752-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_621_TextContainer_621) \]
 
+----
+
 ### § 753 ABGB
 
 > Bei der gesetzlichen Erbfolge der Kinder muss sich ein Kind auf Verlangen eines anderen Kindes eine Schenkung unter Lebenden \(§ 781\) anrechnen lassen, es sei denn, dass der Verstorbene die Schenkung aus Einkünften ohne Schmälerung des Stammvermögens gemacht hat oder den Erlass dieser Anrechnung letztwillig verfügt oder mit dem Geschenknehmer vereinbart hat\. Dieser Vertrag und seine Aufhebung bedürfen der Schriftform\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-753-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_622_TextContainer_622) \]
 
+----
+
 ### § 754 ABGB
 
 > Einem Nachkommen wird nicht nur das, was er selbst, sondern auch das, was seine Vorfahren, an deren Stelle er tritt, auf solche Art empfangen haben, auf den Erbteil angerechnet\. Auch wer einen Erbteil im Wege der Anwachsung erhält \(§ 560\), hat sich Schenkungen an denjenigen, dessen frei gewordenen Erbteil er übernimmt, anrechnen zu lassen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-754-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_623_TextContainer_623) \]
+
+----
 
 ### § 755 ABGB — Rechenmethode
 
@@ -6562,6 +7810,8 @@
 > `(2)` Von dem Erbteil des anrechnungspflichtigen Erben ist das anzurechnende Vermögen abzuziehen\. Der anrechnungspflichtige Erbe ist nicht zur Herausgabe seines Geschenks verpflichtet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-755-abgb--rechenmethode) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_624_TextContainer_624) \]
+
+----
 
 ## Vierzehntes Hauptstück
 
@@ -6575,11 +7825,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-756-abgb--1-pflichtteilsberechtigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_625_TextContainer_625) \]
 
+----
+
 ### § 757 ABGB
 
 > Pflichtteilsberechtigt sind die Nachkommen sowie der Ehegatte oder eingetragene Partner des Verstorbenen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-757-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_626_TextContainer_626) \]
+
+----
 
 ### § 758 ABGB
 
@@ -6591,11 +7845,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-758-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_627_TextContainer_627) \]
 
+----
+
 ### § 759 ABGB — 2. Höhe
 
 > Als Pflichtteil gebührt jeder pflichtteilsberechtigten Person die Hälfte dessen, was ihr nach der gesetzlichen Erbfolge zustünde\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-759-abgb--2-höhe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_628_TextContainer_628) \]
+
+----
 
 ### § 760 ABGB
 
@@ -6605,6 +7863,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-760-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_629_TextContainer_629) \]
 
+----
+
 ### § 761 ABGB — 3. Erfüllungsarten — Leistung und Deckung des Pflichtteils
 
 > `(1)` Der Pflichtteil ist in Geld zu leisten\. Er kann aber auch durch eine Zuwendung auf den Todesfall des Verstorbenen \(§ 780\) oder eine Schenkung unter Lebenden \(§ 781\) gedeckt werden\.
@@ -6613,17 +7873,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-761-abgb--3-erfüllungsarten--leistung-und-deckung-des-pflichtteils) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_630_TextContainer_630) \]
 
+----
+
 ### § 762 ABGB — Bedingungen und Belastungen
 
 > Haften einer Zuwendung oder Schenkung im Sinn der §§ 780 und 781 Bedingungen oder Belastungen an, die der Verwertung des zugewendeten Vermögens entgegenstehen, so hindert dies nicht deren Eignung zur Pflichtteilsdeckung; ein dadurch fehlender oder verminderter Nutzen ist aber bei der Bewertung der Zuwendung oder Schenkung zu berücksichtigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-762-abgb--bedingungen-und-belastungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_631_TextContainer_631) \]
 
+----
+
 ### § 763 ABGB — Geldpflichtteil
 
 > Soweit der Pflichtteil durch eine Zuwendung oder Schenkung im Sinn der §§ 780 und 781 nicht oder nicht voll gedeckt wird, kann der Pflichtteilsberechtigte den Pflichtteil selbst oder dessen Ergänzung in Geld fordern\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-763-abgb--geldpflichtteil) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_632_TextContainer_632) \]
+
+----
 
 ### § 764 ABGB — 4. Pflichtteilsschuldner
 
@@ -6633,6 +7899,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-764-abgb--4-pflichtteilsschuldner) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_633_TextContainer_633) \]
 
+----
+
 ### § 765 ABGB — 5. Anfall und Fälligkeit
 
 > `(1)` Der Pflichtteilsberechtigte erwirbt den Anspruch für sich und seine Nachfolger mit dem Tod des Verstorbenen\.
@@ -6640,6 +7908,8 @@
 > `(2)` Den Geldpflichtteil kann der Pflichtteilsberechtigte erst ein Jahr nach dem Tod des Verstorbenen fordern\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-765-abgb--5-anfall-und-fälligkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_634_TextContainer_634) \]
+
+----
 
 ### § 766 ABGB — Stundung
 
@@ -6651,6 +7921,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-766-abgb--stundung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_635_TextContainer_635) \]
 
+----
+
 ### § 767 ABGB
 
 > `(1)` Der Pflichtteilsanspruch ist auf Verlangen eines Pflichtteilsschuldners auch gerichtlich zu stunden, soweit diesen die Erfüllung unter Berücksichtigung aller Umstände unbillig hart träfe\. Dies kann insbesondere der Fall sein, wenn er mangels ausreichenden anderen Vermögens die Wohnung, die ihm zur Befriedigung seines dringenden Wohnbedürfnisses dient, oder ein Unternehmen, das seine wirtschaftliche Lebensgrundlage darstellt, veräußern müsste\. Ebenso ist der Geldpflichtteilsanspruch auf Verlangen eines Pflichtteilsschuldners zu stunden, wenn dessen sofortige Entrichtung den Fortbestand eines Unternehmens erheblich gefährdet\. Die Interessen des Pflichtteilsberechtigten sind angemessen zu berücksichtigen\.
@@ -6661,11 +7933,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-767-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_636_TextContainer_636) \]
 
+----
+
 ### § 768 ABGB — Sicherstellung des Pflichtteilsanspruchs und Anpassung einer Stundungsregelung
 
 > Das Gericht kann auf Antrag die Sicherstellung des Pflichtteilsanspruchs anordnen und bei einer erheblichen Änderung der Umstände eine Stundungsregelung ändern oder aufheben\. Der Pflichtteilsschuldner und der Pflichtteilsberechtigte haben einander über eine wesentliche Änderung der Umstände unverzüglich zu informieren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-768-abgb--sicherstellung-des-pflichtteilsanspruchs-und-anpassung-einer-stundungsregelung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_637_TextContainer_637) \]
+
+----
 
 ## II. Ausschluss von der Pflichtteilsberechtigung
 
@@ -6674,6 +7950,8 @@
 > Enterbung ist die gänzliche oder teilweise Entziehung des Pflichtteils durch letztwillige Verfügung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-769-abgb--1-enterbung--allgemeines) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_638_TextContainer_638) \]
+
+----
 
 ### § 770 ABGB — Enterbungsgründe
 
@@ -6693,11 +7971,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-770-abgb--enterbungsgründe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_639_TextContainer_639) \]
 
+----
+
 ### § 771 ABGB — Enterbung aus guter Absicht
 
 > Wenn auf Grund der Verschuldung oder des verschwenderischen Lebensstils eines Pflichtteilsberechtigten die Gefahr besteht, dass der ihm gebührende Pflichtteil ganz oder größtenteils seinen Kindern entgehen wird, kann ihm der Pflichtteil zugunsten seiner Kinder entzogen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-771-abgb--enterbung-aus-guter-absicht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_640_TextContainer_640) \]
+
+----
 
 ### § 772 ABGB — Art der Erklärung und Ursächlichkeit des Grundes
 
@@ -6707,6 +7989,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-772-abgb--art-der-erklärung-und-ursächlichkeit-des-grundes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_641_TextContainer_641) \]
 
+----
+
 ### § 773 ABGB — Widerruf der Enterbung und Verzeihung
 
 > `(1)` Die Enterbung kann widerrufen werden, und zwar ausdrücklich oder stillschweigend durch die nachträgliche letztwillige Bedenkung des vorher Enterbten oder durch den Widerruf der letztwilligen Verfügung, welche die Enterbung anordnet\.
@@ -6714,6 +7998,8 @@
 > `(2)` Konnte der Verstorbene die Enterbung auf Grund fehlender Testierfähigkeit nicht mehr widerrufen, so ist die Enterbung unwirksam, wenn der Verstorbene zu erkennen gegeben hat, dass er dem Enterbten verziehen hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-773-abgb--widerruf-der-enterbung-und-verzeihung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_642_TextContainer_642) \]
+
+----
 
 ### § 774 ABGB — Beweislast
 
@@ -6723,6 +8009,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-774-abgb--beweislast) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_643_TextContainer_643) \]
 
+----
+
 ### § 775 ABGB — Enterbung ohne Grund und Übergehung
 
 > `(1)` Hat der Verstorbene den Pflichtteilsberechtigten wegen eines bestimmten Verhaltens, das keinen Enterbungsgrund darstellt, ausdrücklich oder stillschweigend enterbt, so wird vermutet, dass er ihn auf den Pflichtteil setzen und nicht mit einem Erbteil bedenken wollte\.
@@ -6730,6 +8018,8 @@
 > `(2)` Wenn der Verstorbene Kinder und deren Nachkommen hatte, von deren Geburt er bei Errichtung einer letztwilligen Verfügung nicht wusste, wird vermutet, dass er ihnen letztwillig etwas zukommen lassen wollte\. Hatte er daneben noch andere Kinder, so wird vermutet, dass er das ihm nicht bekannte Kind zumindest gleich bedacht hätte wie das am mindesten bedachte Kind\. Wenn das ihm nicht bekannte Kind sein einziges war, gilt die letztwillige Verfügung als widerrufen, es sei denn, dass der Verstorbene diese Verfügung auch in Kenntnis von seinem Kind errichtet hätte\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-775-abgb--enterbung-ohne-grund-und-übergehung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_644_TextContainer_644) \]
+
+----
 
 ### § 776 ABGB — 2. Pflichtteilsminderung
 
@@ -6741,11 +8031,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-776-abgb--2-pflichtteilsminderung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_645_TextContainer_645) \]
 
+----
+
 ### § 777 ABGB — 3. Notwendiger Unterhalt des Pflichtteilsberechtigten
 
 > Selbst wenn ein Pflichtteilsberechtigter erbunwürdig oder enterbt worden ist, steht ihm doch stets der notwendige Unterhalt zu\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-777-abgb--3-notwendiger-unterhalt-des-pflichtteilsberechtigten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_646_TextContainer_646) \]
+
+----
 
 ## III. Pflichtteilsermittlung
 
@@ -6757,6 +8051,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-778-abgb--1-ermittlung-und-berechnung-des-pflichtteils) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_647_TextContainer_647) \]
 
+----
+
 ### § 779 ABGB
 
 > `(1)` Schulden und andere Lasten, die schon zu Lebzeiten des Verstorbenen auf dem Vermögen hafteten, werden von der Verlassenschaft ebenso abgezogen wie alle nach dem Erbfall und vor der Einantwortung entstandenen und mit der Besorgung, Verwaltung und Abhandlung der Verlassenschaft verbundenen Kosten\.
@@ -6765,6 +8061,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-779-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_648_TextContainer_648) \]
 
+----
+
 ### § 780 ABGB — 2. Anrechnung von Zuwendungen auf den Todesfall
 
 > `(1)` Alles, was der Pflichtteilsberechtigte als Erbteil, Vermächtnis oder nach dem Erbfall als Begünstigter einer vom Verstorbenen errichteten Privatstiftung oder vergleichbaren Vermögensmasse erhält, wird auf den Geldpflichtteil angerechnet, also von diesem abgezogen\.
@@ -6772,6 +8070,8 @@
 > `(2)` Zuwendungen auf den Todesfall sind auf den Zeitpunkt des Todes des Verstorbenen zu bewerten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-780-abgb--2-anrechnung-von-zuwendungen-auf-den-todesfall) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_649_TextContainer_649) \]
+
+----
 
 ### § 781 ABGB — 3. Hinzu- und Anrechnung von Schenkungen unter Lebenden
 
@@ -6793,6 +8093,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-781-abgb--3-hinzu--und-anrechnung-von-schenkungen-unter-lebenden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_650_TextContainer_650) \]
 
+----
+
 ### § 782 ABGB — Schenkungen an nicht pflichtteilsberechtigte Personen
 
 > `(1)` Auf Verlangen eines Pflichtteilsberechtigten sind Schenkungen, die der Verstorbene in den letzten beiden Jahren vor seinem Tod an Personen, die nicht dem Kreis der Pflichtteilsberechtigten angehören \(§ 757\), wirklich gemacht hat, bei der Berechnung der Verlassenschaft hinzuzurechnen\.
@@ -6800,6 +8102,8 @@
 > `(2)` Dieses Recht steht einem Nachkommen nur bei Schenkungen zu, die der Verstorbene zu einer Zeit gemacht hat, zu der er ein pflichtteilsberechtigtes Kind gehabt hat, dem Ehegatten oder eingetragenen Partner nur bei Schenkungen, die während seiner Ehe oder eingetragenen Partnerschaft mit dem Verstorbenen gemacht worden sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-782-abgb--schenkungen-an-nicht-pflichtteilsberechtigte-personen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_651_TextContainer_651) \]
+
+----
 
 ### § 783 ABGB — Schenkungen an Pflichtteilsberechtigte
 
@@ -6809,11 +8113,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-783-abgb--schenkungen-an-pflichtteilsberechtigte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_652_TextContainer_652) \]
 
+----
+
 ### § 784 ABGB — Ausnahmen
 
 > Schenkungen, die der Verstorbene aus Einkünften ohne Schmälerung des Stammvermögens, zu gemeinnützigen Zwecken, in Entsprechung einer sittlichen Pflicht oder aus Gründen des Anstandes gemacht hat, sind weder hinzu\- noch anzurechnen, sofern der Verstorbene und der Geschenknehmer nichts anderes vereinbart haben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-784-abgb--ausnahmen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_653_TextContainer_653) \]
+
+----
 
 ### § 785 ABGB
 
@@ -6821,11 +8129,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-785-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_654_TextContainer_654) \]
 
+----
+
 ### § 786 ABGB — Auskunftsanspruch
 
 > Wer berechtigt ist, die Hinzurechnung bestimmter Schenkungen zu verlangen, hat in Bezug auf diese einen Auskunftsanspruch gegen die Verlassenschaft, die Erben und den Geschenknehmer\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-786-abgb--auskunftsanspruch) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_655_TextContainer_655) \]
+
+----
 
 ### § 787 ABGB — Rechenmethode
 
@@ -6835,11 +8147,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-787-abgb--rechenmethode) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_656_TextContainer_656) \]
 
+----
+
 ### § 788 ABGB — Bewertung der Schenkung
 
 > Die geschenkte Sache ist auf den Zeitpunkt zu bewerten, in dem die Schenkung wirklich gemacht wurde\. Dieser Wert ist sodann auf den Todeszeitpunkt nach einem von der Statistik Austria verlautbarten Verbraucherpreisindex anzupassen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-788-abgb--bewertung-der-schenkung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_657_TextContainer_657) \]
+
+----
 
 ## IV. Haftung des Geschenknehmers
 
@@ -6853,6 +8169,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-789-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_658_TextContainer_658) \]
 
+----
+
 ### § 790 ABGB
 
 > `(1)` Besitzt der Geschenknehmer die zugewendete Sache oder ihren Wert nicht mehr oder hat sich ihr Wert vermindert, so haftet er mit seinem gesamten Vermögen, wenn er diesen Verlust unredlich zugelassen hat\.
@@ -6860,6 +8178,8 @@
 > `(2)` Auf den Anspruch auf Zahlung des Fehlbetrags sind §§ 766 bis 768 über die Stundung des Pflichtteils sinngemäß anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-790-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_659_TextContainer_659) \]
+
+----
 
 ### § 791 ABGB
 
@@ -6871,11 +8191,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-791-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_660_TextContainer_660) \]
 
+----
+
 ### § 792 ABGB
 
 > Wenn der Geschenknehmer im Zeitpunkt der Schenkung nicht zum Kreis der pflichtteilsberechtigten Personen gehörte \(§ 757\), haftet er nicht, wenn der Verstorbene die Schenkung mehr als zwei Jahre vor seinem Tod wirklich gemacht hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-792-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_661_TextContainer_661) \]
+
+----
 
 ## Fünfzehntes Hauptstück
 
@@ -6889,11 +8213,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-797-abgb--i-voraussetzungen-für-den-erwerb-einer-erbschaft--einantwortungsprinzip) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_662_TextContainer_662) \]
 
+----
+
 ### § 798 ABGB — Überlassung der Verlassenschaft
 
 > Überlässt das Gericht eine überschuldete Verlassenschaft an Zahlungs statt, so bildet der Überlassungsbeschluss den Titel zum Erwerb\. Das Gleiche gilt für die gerichtlich erteilte Ermächtigung, Verlassenschaftsvermögen zu übernehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-798-abgb--überlassung-der-verlassenschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_663_TextContainer_663) \]
+
+----
 
 ### § 799 ABGB — Nachweis des Rechtstitels; Erbantrittserklärung
 
@@ -6901,11 +8229,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-799-abgb--nachweis-des-rechtstitels-erbantrittserklärung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_664_TextContainer_664) \]
 
+----
+
 ### § 800 ABGB — Bedingte und unbedingte Erbantrittserklärung
 
 > Die Erbantrittserklärung kann unbedingt oder bedingt, also unter dem Vorbehalt der Errichtung eines Inventars, abgegeben werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-800-abgb--bedingte-und-unbedingte-erbantrittserklärung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_665_TextContainer_665) \]
+
+----
 
 ### § 801 ABGB — Wirkung der unbedingten Erbantrittserklärung
 
@@ -6913,11 +8245,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-801-abgb--wirkung-der-unbedingten-erbantrittserklärung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_666_TextContainer_666) \]
 
+----
+
 ### § 802 ABGB — Wirkung der bedingten Erbantrittserklärung
 
 > Wird die Erbschaft mit Vorbehalt des Inventars angetreten, so hat das Gericht auf Kosten der Verlassenschaft ein Inventar zu errichten\. Ein solcher Erbe haftet den Gläubigern und Vermächtnisnehmern nur so weit, als die Verlassenschaft für ihre und auch seine eigenen Forderungen, das Erbrecht ausgenommen, hinreicht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-802-abgb--wirkung-der-bedingten-erbantrittserklärung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_667_TextContainer_667) \]
+
+----
 
 ### § 803 ABGB — Berechtigung zum Antritt oder zur Ausschlagung der Erbschaft
 
@@ -6927,11 +8263,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-803-abgb--berechtigung-zum-antritt-oder-zur-ausschlagung-der-erbschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_668_TextContainer_668) \]
 
+----
+
 ### § 804 ABGB
 
 > Auch ein Pflichtteilsberechtigter kann die Errichtung des Inventars beantragen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-804-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_669_TextContainer_669) \]
+
+----
 
 ### § 805 ABGB
 
@@ -6939,17 +8279,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-805-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_670_TextContainer_670) \]
 
+----
+
 ### § 806 ABGB
 
 > Der Erbe kann weder die Ausschlagung noch seine Erbantrittserklärung widerrufen noch seine unbedingte in eine bedingte Erbantrittserklärung ändern und sich die Errichtung des Inventars vorbehalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-806-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_671_TextContainer_671) \]
 
+----
+
 ### § 807 ABGB
 
 > Wenn auch nur ein Miterbe eine bedingte Erbantrittserklärung abgibt, so ist ein Inventar zu errichten, das der Verlassenschaftsabhandlung zu Grunde zu legen ist\. Nach Errichtung eines Inventars genießt auch ein Erbe, der eine unbedingte Erbantrittserklärung abgegeben hat, die damit verbundene Haftungsbeschränkung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-807-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_672_TextContainer_672) \]
+
+----
 
 ### § 808 ABGB
 
@@ -6959,11 +8305,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-808-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_673_TextContainer_673) \]
 
+----
+
 ### § 809 ABGB — Übertragung des Erbrechts
 
 > Stirbt der Erbe, bevor er die angefallene Erbschaft angetreten oder ausgeschlagen hat, so treten seine Erben in das Recht, die Erbschaft anzunehmen oder auszuschlagen, ein \(§ 537\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-809-abgb--übertragung-des-erbrechts) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_674_TextContainer_674) \]
+
+----
 
 ## II. Vorkehrungen vor Einantwortung
 
@@ -6977,11 +8327,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-810-abgb--1-verwaltung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_675_TextContainer_675) \]
 
+----
+
 ### § 811 ABGB — 2. Sicherstellung oder Befriedigung der Gläubiger
 
 > Die Gläubiger können die Befriedigung oder Sicherstellung ihrer Forderungen gegen die Verlassenschaft bereits vor Abgabe einer Erbantrittserklärung verlangen und zur Vertretung der Verlassenschaft die Bestellung eines Kurators beantragen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-811-abgb--2-sicherstellung-oder-befriedigung-der-gläubiger) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_676_TextContainer_676) \]
+
+----
 
 ### § 812 ABGB — 3. Absonderung der Verlassenschaft vom Vermögen des Erben
 
@@ -6993,11 +8347,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-812-abgb--3-absonderung-der-verlassenschaft-vom-vermögen-des-erben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_677_TextContainer_677) \]
 
+----
+
 ### § 813 ABGB — 4. Aufforderung der Verlassenschaftsgläubiger
 
 > Der Erbe oder Verlassenschaftskurator kann zur Feststellung des Schuldenstandes beantragen, dass mit Edikt alle Gläubiger aufgefordert werden, ihre Forderungen binnen einer zu bestimmenden angemessenen Frist anzumelden\. Dieses Edikt hat den Hinweis zu enthalten, dass bis zum Ablauf der Frist mit der Befriedigung der Gläubiger innegehalten werden kann\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-813-abgb--4-aufforderung-der-verlassenschaftsgläubiger) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_678_TextContainer_678) \]
+
+----
 
 ### § 814 ABGB — Wirkung der Aufforderung oder ihrer Unterlassung
 
@@ -7005,11 +8363,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-814-abgb--wirkung-der-aufforderung-oder-ihrer-unterlassung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_679_TextContainer_679) \]
 
+----
+
 ### § 815 ABGB
 
 > Wenn der Erbe die Aufforderung unterlässt oder nur einige Gläubiger befriedigt, ohne auf die Rechte der anderen Rücksicht zu nehmen, und deshalb einige Gläubiger wegen Überschuldung der Verlassenschaft unbefriedigt bleiben, haftet der Erbe diesen Gläubigern, ungeachtet einer bedingten Erbantrittserklärung, mit seinem ganzen Vermögen für denjenigen Betrag, den sie bei gehöriger Aufforderung oder Befriedigung erhalten hätten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-815-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_680_TextContainer_680) \]
+
+----
 
 ### § 816 ABGB — 5. Nachweis über die Erfüllung des letzten Willens — Testamentsvollstrecker
 
@@ -7017,11 +8379,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-816-abgb--5-nachweis-über-die-erfüllung-des-letzten-willens--testamentsvollstrecker) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_681_TextContainer_681) \]
 
+----
+
 ### § 817 ABGB — Nachweis der Testamentserfüllung
 
 > Ist kein Testamentsvollstrecker ernannt oder nimmt dieser seine Ernennung nicht an, so hat der Erbe dem Gericht nachzuweisen, dass er den Willen des Verstorbenen möglichst erfüllt oder Sicherheit geleistet hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-817-abgb--nachweis-der-testamentserfüllung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_682_TextContainer_682) \]
+
+----
 
 ## III. Einantwortung und ihre Folgen
 
@@ -7031,17 +8397,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-819-abgb--einantwortung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_683_TextContainer_683) \]
 
+----
+
 ### § 820 ABGB — Haftung mehrerer Erben
 
 > Mehrere Erben, die eine Erbschaft unbedingt angetreten haben, haften Erbschaftsgläubigern und Vermächtnisnehmern zur ungeteilten Hand\. Im Verhältnis zueinander haften sie nach dem Verhältnis ihrer Erbteile\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-820-abgb--haftung-mehrerer-erben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_684_TextContainer_684) \]
 
+----
+
 ### § 821 ABGB
 
 > Wenn ein Inventar errichtet wurde und die Schuld teilbar ist, haftet jeder Miterbe persönlich nur für denjenigen Teil einer Forderung, der seiner Erbquote entspricht\. Ist die Schuld unteilbar, so haften die Erben trotz Inventarisierung zur ungeteilten Hand, insgesamt jedoch höchstens bis zum Wert der eingeantworteten Verlassenschaft\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-821-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_685_TextContainer_685) \]
+
+----
 
 ### § 823 ABGB — Erbschafts- und Aneignungsklage
 
@@ -7051,11 +8423,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-823-abgb--erbschafts--und-aneignungsklage) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_686_TextContainer_686) \]
 
+----
+
 ### § 824 ABGB — Wirkung der Erbschafts- und Aneignungsklage
 
 > Wenn der Beklagte ganz oder zum Teil zur Herausgabe der Verlassenschaft verurteilt wird, sind die Ansprüche auf die Zurückstellung der von ihm gezogenen Früchte oder auf die Vergütung der von ihm getätigten Aufwendungen und Kosten nach denjenigen Grundsätzen zu beurteilen, die für den redlichen oder unredlichen Besitzer im Hauptstück vom Besitz festgesetzt sind\. Ein dritter redlicher Erwerber ist für die in der Zwischenzeit erworbenen Erbstücke niemandem verantwortlich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-824-abgb--wirkung-der-erbschafts--und-aneignungsklage) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_687_TextContainer_687) \]
+
+----
 
 ## Sechzehntes Hauptstück.
 
@@ -7067,17 +8443,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-825-abgb--ursprung-einer-gemeinschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_688_TextContainer_688) \]
 
+----
+
 ### § 826 ABGB
 
 > Nach Verschiedenheit der Quellen, aus denen eine Gemeinschaft entspringt, erhalten auch die Rechte und Pflichten der Theilhaber ihre nähere Bestimmung\. Für eine bloße Miteigentumsgemeinschaft gelten die Bestimmungen des siebenundzwanzigsten Hauptstücks nur dann, wenn die Miteigentümer ausdrücklich vereinbaren, als Gesellschafter einer Gesellschaft bürgerlichen Rechts zusammenwirken zu wollen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-826-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_689_TextContainer_689) \]
 
+----
+
 ### § 827 ABGB
 
 > Wer einen Antheil an einer gemeinschaftlichen Sache anspricht, der muß sein Recht, wenn es von den übrigen Theilnehmern widersprochen wird, beweisen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-827-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_690_TextContainer_690) \]
+
+----
 
 ### § 828 ABGB — Gemeinschaftliche Rechte der Theilhaber
 
@@ -7087,11 +8469,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-828-abgb--gemeinschaftliche-rechte-der-theilhaber) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_691_TextContainer_691) \]
 
+----
+
 ### § 829 ABGB — Rechte des Theilhabers auf seinen Antheil
 
 > Jeder Theilhaber ist vollständiger Eigenthümer seines Antheiles\. In so fern er die Rechte seiner Mitgenossen nicht verletzt, kann er denselben, oder die Nutzungen davon willkührlich und unabhängig verpfänden, vermachen, oder sonst veräußern \(§\. 361\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-829-abgb--rechte-des-theilhabers-auf-seinen-antheil) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_692_TextContainer_692) \]
+
+----
 
 ### § 830 ABGB
 
@@ -7099,17 +8485,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-830-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_693_TextContainer_693) \]
 
+----
+
 ### § 831 ABGB
 
 > Hat sich ein Theilhaber zur Fortsetzung der Gemeinschaft verbunden, so kann er zwar vor Verlauf der Zeit nicht austreten; allein diese Verbindlichkeit wird, wie andere Verbindlichkeiten, aufgehoben, und erstreckt sich nicht auf die Erben, wenn diese nicht selbst dazu eingewilliget haben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-831-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_694_TextContainer_694) \]
 
+----
+
 ### § 832 ABGB
 
 > Auch die Anordnung eines Dritten, wodurch eine Sache zur Gemeinschaft bestimmt wird, muß zwar von den ersten Theilhabern, nicht auch von ihren Erben befolgt werden\. Eine Verbindlichkeit zu einer immerwährenden Gemeinschaft kann nicht bestehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-832-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_695_TextContainer_695) \]
+
+----
 
 ## Rechte der Theilhaber in der gemeinschaftlichen Sache:
 
@@ -7119,11 +8511,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-833-abgb--a-in-rücksicht-des-hauptstammes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_696_TextContainer_696) \]
 
+----
+
 ### § 834 ABGB
 
 > Bey wichtigen Veränderungen aber, welche zur Erhaltung oder bessern Benützung des Hauptstammes vorgeschlagen werden, können die Ueberstimmten Sicherstellung für künftigen Schaden; oder, wenn diese verweigert wird, den Austritt aus der Gemeinschaft verlangen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-834-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_697_TextContainer_697) \]
+
+----
 
 ### § 835 ABGB
 
@@ -7131,11 +8527,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-835-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_698_TextContainer_698) \]
 
+----
+
 ### § 836 ABGB
 
 > Ist ein Verwalter der gemeinschaftlichen Sachen zu bestellen; so entscheidet über dessen Auswahl die Mehrheit der Stimmen, und in deren Abgang der Richter\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-836-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_699_TextContainer_699) \]
+
+----
 
 ### § 837 ABGB
 
@@ -7143,11 +8543,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-837-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_700_TextContainer_700) \]
 
+----
+
 ### § 838 ABGB
 
 > Wird die Verwaltung Mehrern überlassen; so entscheidet auch unter ihnen die Mehrheit der Stimmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-838-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_701_TextContainer_701) \]
+
+----
 
 ### § 838a ABGB
 
@@ -7155,11 +8559,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-838a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_702_TextContainer_702) \]
 
+----
+
 ### § 839 ABGB — b) der Nutzungen und Lasten;
 
 > Die gemeinschaftlichen Nutzungen und Lasten werden nach Verhältniß der Antheile ausgemessen\. Im Zweifel wird jeder Antheil gleich groß angesehen; wer das Gegentheil behauptet, muß es beweisen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-839-abgb--b-der-nutzungen-und-lasten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_703_TextContainer_703) \]
+
+----
 
 ### § 840 ABGB
 
@@ -7167,11 +8575,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-840-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_704_TextContainer_704) \]
 
+----
+
 ### § 841 ABGB — c) der Theilung
 
 > Bey der nach aufgehobener Gemeinschaft vorzunehmenden Theilung der gemeinschaftlichen Sache gilt keine Mehrheit der Stimmen\. Die Theilung muß zur Zufriedenheit eines jeden Sachgenossen vorgenommen werden\. Können sie nicht einig werden; so entscheidet das Los, oder ein Schiedsmann, oder, wenn sie sich über die Bestimmung der einen oder andern dieser Entscheidungsarten nicht einhellig vereinigen, der Richter\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-841-abgb--c-der-theilung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_705_TextContainer_705) \]
+
+----
 
 ### § 842 ABGB
 
@@ -7179,11 +8591,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-842-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_706_TextContainer_706) \]
 
+----
+
 ### § 843 ABGB
 
 > Kann eine gemeinschaftliche Sache entweder gar nicht, oder nicht ohne beträchtliche Verminderung des Werthes getheilt werden; so ist sie, und zwar wenn auch nur Ein Theilgenosse es verlangt, vermittelst gerichtlicher Feilbiethung zu verkaufen, und der Kaufschilling unter die Theilhaber zu vertheilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-843-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_707_TextContainer_707) \]
+
+----
 
 ### § 844 ABGB
 
@@ -7191,11 +8607,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-844-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_708_TextContainer_708) \]
 
+----
+
 ### § 845 ABGB
 
 > Bei Teilungen der Grundstücke sind die gegenseitigen Grenzen durch entsprechende Grenzzeichen auf eine deutliche und unwandelbare Art zu bezeichnen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-845-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_709_TextContainer_709) \]
+
+----
 
 ### § 846 ABGB
 
@@ -7203,11 +8623,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-846-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_710_TextContainer_710) \]
 
+----
+
 ### § 847 ABGB
 
 > Die bloße Teilung was immer für eines gemeinschaftlichen Gutes kann einem Dritten nicht zum Nachteile gereichen; alle ihm zustehenden Pfand\-, Servituts\- und anderen dinglichen Rechte werden nach wie vor der Teilung ausgeübt\. Trifft jedoch die Ausübung einer Grunddienstbarkeit nur ein Teilstück, so erlischt das Recht hinsichtlich der übrigen Teile\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-847-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_711_TextContainer_711) \]
+
+----
 
 ### § 848 ABGB
 
@@ -7215,11 +8639,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-848-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_712_TextContainer_712) \]
 
+----
+
 ### § 848a ABGB
 
 > Gewährt eine Dienstbarkeit oder eine andere dingliche Last einen Anspruch auf Nutzungen, so kann bei Teilung des herrschenden Grundstückes jeder Berechtigte und bei Teilung des belasteten Grundstückes jeder Belastete eine gerichtliche Regelung der Ausübung begehren\. Die Ausübung ist mit Rücksicht auf die Natur und Zweckbestimmung des Rechtes sowie auf das Größenverhältnis und die wirtschaftliche Besonderheit der einzelnen Liegenschaftsteile ohne Erschwerung der Last so zu regeln, wie es allen Interessen billigerweise entspricht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-848a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_713_TextContainer_713) \]
+
+----
 
 ### § 849 ABGB
 
@@ -7227,11 +8655,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-849-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_714_TextContainer_714) \]
 
+----
+
 ### § 850 ABGB — Erneuerung und Berichtigung der Grenzen
 
 > Wenn die Grenzzeichen zwischen zwei Grundstücken durch was immer für Umstände so verletzt worden sind, daß sie ganz unkenntlich werden könnten, oder wenn die Grenzen wirklich unkennbar oder streitig sind, so hat jeder der Nachbarn das Recht, die gerichtliche Erneuerung oder Berichtigung der Grenze zu verlangen\. Zu diesem Behufe sind die Nachbarn zu einer Verhandlung im Verfahren außer Streitsachen mit dem Bedeuten zu laden, daß trotz Ausbleibens des Geladenen die Grenze festgesetzt und vermarkt werden wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-850-abgb--erneuerung-und-berichtigung-der-grenzen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_715_TextContainer_715) \]
+
+----
 
 ### § 851 ABGB
 
@@ -7241,11 +8673,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-851-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_716_TextContainer_716) \]
 
+----
+
 ### § 852 ABGB
 
 > Die wichtigsten Behelfe bey einer Gränzberichtigung sind: die Ausmessung und Beschreibung, oder auch die Abzeichnung des streitigen Grundes; dann, die sich darauf beziehenden öffentlichen Bücher und andere Urkunden; endlich, die Aussagen sachkündiger Zeugen, und das von Sachverständigen nach vorgenommenem Augenscheine gegebene Gutachten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-852-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_717_TextContainer_717) \]
+
+----
 
 ### § 853 ABGB
 
@@ -7255,11 +8691,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-853-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_718_TextContainer_718) \]
 
+----
+
 ### § 853a ABGB
 
 > Für Grenzen von Grundstücken, die im Grenzkataster enthalten sind, finden die Bestimmungen der §§ 850 bis 853 keine Anwendung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-853a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_719_TextContainer_719) \]
+
+----
 
 ### § 854 ABGB — Vermuthete Gemeinschaft
 
@@ -7267,11 +8707,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-854-abgb--vermuthete-gemeinschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_720_TextContainer_720) \]
 
+----
+
 ### § 855 ABGB
 
 > Jeder Mitgenosse kann eine gemeinschaftliche Mauer auf seiner Seite bis zur Hälfte in der Dicke benützen, auch Blindthüren und Wandschränke dort anbringen, wo auf der entgegengesetzten Seite noch keine angebracht sind\. Doch darf das Gebäude durch einen Schorstein, Feuerherd oder andere Anlagen nicht in Gefahr gesetzt, und der Nachbar auf keine Art in dem Gebrauche seines Antheiles gehindert werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-855-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_721_TextContainer_721) \]
+
+----
 
 ### § 856 ABGB
 
@@ -7279,17 +8723,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-856-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_722_TextContainer_722) \]
 
+----
+
 ### § 857 ABGB
 
 > Ist die Stellung einer Scheidewand von der Art, daß die Ziegel, Latten oder Steine nur auf einer Seite vorlaufen oder abhängen; oder sind die Pfeiler, Säulen, Ständer, Bachställe auf Einer Seite eingegraben; so ist im Zweifel auf dieser Seite das ungetheilte Eigenthum der Scheidewand, wenn nicht aus einer beyderseitigen Belastung, Einfügung, aus anderen Kennzeichen oder sonstigen Beweisen das Gegentheil erhellet\. Auch derjenige wird für den ausschließenden Besitzer einer Mauer gehalten, welcher eine in der Richtung gleich fortlaufende Mauer von gleicher Höhe und Dicke unstreitig besitzt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-857-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_723_TextContainer_723) \]
 
+----
+
 ### § 858 ABGB
 
 > In der Regel ist der ausschließende Besitzer nicht schuldig, seine verfallene Mauer oder Planke neu aufzuführen; nur dann muß er sie in gutem Stande erhalten, wenn durch die Oeffnung für den Gränznachbar Schaden zu befürchten stünde\. Es ist aber jeder Eigenthümer verbunden, auf der rechten Seite seines Haupteinganges für die nöthige Einschließung seines Raumes, und für die Abtheilung von dem fremden Raume zu sorgen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-858-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_724_TextContainer_724) \]
+
+----
 
 ## Zweyter Theil.
 
@@ -7307,11 +8757,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-859-abgb--grund-der-persönlichen-sachenrechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_725_TextContainer_725) \]
 
+----
+
 ### § 860 ABGB — Auslobung
 
 > Die nicht an bestimmte Personen gerichtete Zusage einer Belohnung für eine Leistung oder einen Erfolg \(Auslobung\) wird durch die öffentliche Bekanntmachung verbindlich\. Eine Auslobung, die eine Preisbewerbung zum Gegenstande hat, ist nur gültig, wenn in der Bekanntmachung eine Frist für die Bewerbung bestimmt ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-860-abgb--auslobung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_726_TextContainer_726) \]
+
+----
 
 ### § 860a ABGB
 
@@ -7319,11 +8773,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-860a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_727_TextContainer_727) \]
 
+----
+
 ### § 860b ABGB
 
 > Ist die Leistung von mehreren Personen vollbracht worden, so gebührt, falls nicht aus der Auslobung ein anderer Wille hervorgeht, die Belohnung demjenigen, der die Leistung zuerst vollbracht hat, und bei gleichzeitiger Vollendung allen zu gleichen Theilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-860b-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_728_TextContainer_728) \]
+
+----
 
 ### § 861 ABGB — Abschließung des Vertrages
 
@@ -7331,17 +8789,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-861-abgb--abschließung-des-vertrages) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_729_TextContainer_729) \]
 
+----
+
 ### § 862 ABGB
 
 > Das Versprechen \(Antrag\) muß innerhalb der vom Antragsteller bestimmten Frist angenommen werden\. In Ermanglung einer solchen muß der einem Anwesenden oder mittels Fernsprechers von Person zu Person gemachte Antrag sogleich, der sonst einem Abwesenden gemachte Antrag längstens bis zu dem Zeitpunkte angenommen werden, in welchem der Antragsteller unter der Voraussetzung, daß sein Antrag rechtzeitig angekommen sei, bei rechtzeitiger und ordnungsmäßiger Absendung der Antwort deren Eintreffen erwarten darf; widrigenfalls ist der Antrag erloschen\. Vor Ablauf der Annahmefrist kann der Antrag nicht zurückgenommen werden\. Er erlischt auch nicht, wenn ein Teil während der Annahmefrist stirbt oder handlungsunfähig wird, sofern nicht ein anderer Wille des Antragstellers aus den Umständen hervorgeht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-862-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_730_TextContainer_730) \]
 
+----
+
 ### § 862a ABGB
 
 > Als rechtzeitig gilt die Annahme, wenn die Erklärung innerhalb der Annahmefrist dem Antragsteller zugekommen ist\. Trotz ihrer Verspätung kommt jedoch der Vertrag zustande, wenn der Antragsteller erkennen mußte, daß die Annahmeerklärung rechtzeitig abgesendet wurde, und gleichwohl seinen Rücktritt dem andern nicht unverzüglich anzeigt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-862a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_731_TextContainer_731) \]
+
+----
 
 ### § 863 ABGB
 
@@ -7351,6 +8815,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-863-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_732_TextContainer_732) \]
 
+----
+
 ### § 864 ABGB
 
 > `(1)` Ist eine ausdrückliche Erklärung der Annahme nach der Natur des Geschäftes oder der Verkehrssitte nicht zu erwarten, so kommt der Vertrag zustande, wenn dem Antrag innerhalb der hierfür bestimmten oder den Umständen angemessenen Frist tatsächlich entsprochen worden ist\.
@@ -7359,11 +8825,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-864-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_733_TextContainer_733) \]
 
+----
+
 ### § 864a ABGB
 
 > Bestimmungen ungewöhnlichen Inhaltes in Allgemeinen Geschäftsbedingungen oder Vertragsformblättern, die ein Vertragsteil verwendet hat, werden nicht Vertragsbestandteil, wenn sie dem anderen Teil nachteilig sind und er mit ihnen auch nach den Umständen, vor allem nach dem äußeren Erscheinungsbild der Urkunde, nicht zu rechnen brauchte; es sei denn, der eine Vertragsteil hat den anderen besonders darauf hingewiesen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-864a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_734_TextContainer_734) \]
+
+----
 
 ## Erfordernisse eines gültigen Vertrages:
 
@@ -7381,11 +8851,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-865-abgb--1-fähigkeiten-der-personen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_735_TextContainer_735) \]
 
+----
+
 ### § 867 ABGB
 
 > Was zur Gültigkeit eines Vertrages mit einer unter der besondern Vorsorge der öffentlichen Verwaltung stehenden Gemeinde, \(§\. 27\) oder ihren einzelnen Gliedern und Stellvertretern erfordert werde, ist aus der Verfassung derselben und den politischen Gesetzen zu entnehmen \(§ 290\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-867-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_736_TextContainer_736) \]
+
+----
 
 ### § 869 ABGB — 2) Wahre Einwilligung
 
@@ -7393,11 +8867,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-869-abgb--2-wahre-einwilligung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_737_TextContainer_737) \]
 
+----
+
 ### § 870 ABGB
 
 > Wer von dem anderen Teile durch List oder durch ungerechte und gegründete Furcht \(§ 55\) zu einem Vertrage veranlaßt worden, ist ihn zu halten nicht verbunden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-870-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_738_TextContainer_738) \]
+
+----
 
 ### § 871 ABGB
 
@@ -7407,11 +8885,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-871-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_739_TextContainer_739) \]
 
+----
+
 ### § 872 ABGB
 
 > Betrifft aber der Irrthum weder die Hauptsache, noch eine wesentliche Beschaffenheit derselben, sondern einen Nebenumstand; so bleibt der Vertrag, in so fern beyde Theile in den Hauptgegenstand gewilliget, und den Nebenumstand nicht als vorzügliche Absicht erkläret haben, noch immer gültig: allein dem Irregeführten ist von dem Urheber des Irrthumes die angemessene Vergütung zu leisten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-872-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_740_TextContainer_740) \]
+
+----
 
 ### § 873 ABGB
 
@@ -7419,11 +8901,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-873-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_741_TextContainer_741) \]
 
+----
+
 ### § 874 ABGB
 
 > In jedem Falle muß derjenige, welcher einen Vertrag durch List oder ungerechte Furcht bewirket hat, für die nachtheiligen Folgen Genugthuung leisten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-874-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_742_TextContainer_742) \]
+
+----
 
 ### § 875 ABGB
 
@@ -7431,11 +8917,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-875-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_743_TextContainer_743) \]
 
+----
+
 ### § 876 ABGB
 
 > Die vorstehenden Bestimmungen \(§§ 869 bis 875\) finden entsprechende Anwendung auf sonstige Willenserklärungen, welche einer anderen Person gegenüber abzugeben sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-876-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_744_TextContainer_744) \]
+
+----
 
 ### § 877 ABGB
 
@@ -7443,11 +8933,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-877-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_745_TextContainer_745) \]
 
+----
+
 ### § 878 ABGB — 3. Möglichkeit und Erlaubtheit
 
 > Was geradezu unmöglich ist, kann nicht Gegenstand eines gültigen Vertrages werden\. Ist Mögliches und Unmögliches zugleich bedungen, so bleibt der Vertrag in ersterem Teile gültig, wenn anders aus dem Vertrage nicht hervorgeht, daß kein Punkt von dem anderen abgesondert werden könne\. Wer bei Abschließung des Vertrages die Unmöglichkeit kannte oder kennen mußte, hat dem anderen Teile, falls von diesem nicht dasselbe gilt, den Schaden zu ersetzen, den er durch das Vertrauen auf die Gültigkeit des Vertrages erlitten hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-878-abgb--3-möglichkeit-und-erlaubtheit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_746_TextContainer_746) \]
+
+----
 
 ### § 879 ABGB
 
@@ -7471,17 +8965,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-879-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_747_TextContainer_747) \]
 
+----
+
 ### § 880 ABGB
 
 > Wird der Gegenstand, worüber ein Vertrag geschlossen worden, vor dessen Uebergabe dem Verkehre entzogen; so ist es eben so viel, als wenn man den Vertrag nicht geschlossen hätte\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-880-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_748_TextContainer_748) \]
 
+----
+
 ### § 880a ABGB
 
 > Hat jemand einem andern eine Leistung eines Dritten versprochen, so gilt dies als Zusage seiner Verwendung bei dem Dritten; ist er aber für den Erfolg eingestanden, so haftet er für volle Genugtuung, wenn die Leistung des Dritten ausbleibt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-880a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_749_TextContainer_749) \]
+
+----
 
 ### § 881 ABGB — Verträge zugunsten Dritter
 
@@ -7493,6 +8993,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-881-abgb--verträge-zugunsten-dritter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_750_TextContainer_750) \]
 
+----
+
 ### § 882 ABGB
 
 > `(1)` Weist der Dritte das aus dem Vertrag erworbene Recht zurück, so gilt das Recht als nicht erworben\.
@@ -7501,11 +9003,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-882-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_751_TextContainer_751) \]
 
+----
+
 ### § 883 ABGB — Form der Verträge
 
 > Ein Vertrag kann mündlich oder schriftlich; vor Gerichte oder außerhalb desselben; mit oder ohne Zeugen errichtet werden\. Diese Verschiedenheit der Form macht, außer den im Gesetze bestimmten Fällen, in Ansehung der Verbindlichkeit keinen Unterschied\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-883-abgb--form-der-verträge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_752_TextContainer_752) \]
+
+----
 
 ### § 884 ABGB
 
@@ -7513,11 +9019,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-884-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_753_TextContainer_753) \]
 
+----
+
 ### § 885 ABGB
 
 > Ist zwar noch nicht die förmliche Urkunde, aber doch ein Aufsatz über die Hauptpunkte errichtet und von den Parteien unterfertigt worden \(Punktation\), so gründet auch schon ein solcher Aufsatz diejenigen Rechte und Verbindlichkeiten, welche darin ausgedrückt sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-885-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_754_TextContainer_754) \]
+
+----
 
 ### § 886 ABGB
 
@@ -7525,11 +9035,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-886-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_755_TextContainer_755) \]
 
+----
+
 ### § 888 ABGB — Gemeinschaftliche Verbindlichkeit oder Berechtigung
 
 > Wenn zwey oder mehrere Personen jemanden eben dasselbe Recht zu einer Sache versprechen, oder es von ihm annehmen; so wird sowohl die Forderung, als die Schuld nach den Grundsätzen der Gemeinschaft des Eigenthumes getheilt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-888-abgb--gemeinschaftliche-verbindlichkeit-oder-berechtigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_756_TextContainer_756) \]
+
+----
 
 ### § 889 ABGB
 
@@ -7537,11 +9051,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-889-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_757_TextContainer_757) \]
 
+----
+
 ### § 890 ABGB
 
 > Betrifft es hingegen untheilbare Sachen; so kann ein Gläubiger, wenn er der einzige ist, solche von einem jeden Mitschuldner fordern\. Wenn aber mehrere Gläubiger und nur Ein Schuldner da sind; so ist dieser die Sache einem einzelnen Mitgläubiger, ohne Sicherstellung heraus zu geben, nicht verpflichtet; er kann auf die Uebereinkunft aller Mitgläubiger dringen, oder die gerichtliche Verwahrung der Sache verlangen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-890-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_758_TextContainer_758) \]
+
+----
 
 ### § 891 ABGB — Correalität
 
@@ -7549,11 +9067,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-891-abgb--correalität) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_759_TextContainer_759) \]
 
+----
+
 ### § 892 ABGB
 
 > Hat hingegen Einer mehrern Personen eben dasselbe Ganze zugesagt, und sind diese ausdrücklich berechtiget worden, es zur ungetheilten Hand fordern zu können; so muß der Schuldner das Ganze demjenigen dieser Gläubiger entrichten, der ihn zuerst darum angeht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-892-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_760_TextContainer_760) \]
+
+----
 
 ### § 893 ABGB
 
@@ -7561,11 +9083,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-893-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_761_TextContainer_761) \]
 
+----
+
 ### § 894 ABGB
 
 > Ein Mitschuldner kann dadurch, daß er mit dem Gläubiger lästigere Bedingungen eingeht, den übrigen keinen Nachtheil zuziehen, und die Nachsicht oder Befreyung, welche ein Mitschuldner für seine Person erhält, kommt den übrigen nicht zu Statten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-894-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_762_TextContainer_762) \]
+
+----
 
 ### § 895 ABGB
 
@@ -7573,11 +9099,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-895-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_763_TextContainer_763) \]
 
+----
+
 ### § 896 ABGB
 
 > Ein Mitschuldner zur ungetheilten Hand, welcher die ganze Schuld aus dem Seinigen abgetragen hat, ist berechtiget, auch ohne geschehene Rechtsabtretung, von den übrigen den Ersatz, und zwar, wenn kein anderes besonderes Verhältniß unter ihnen besteht, zu gleichen Theilen zu fordern\. War einer aus ihnen unfähig, sich zu verpflichten, oder ist er unvermögend, seiner Verpflichtung Genüge zu leisten; so muß ein solcher ausfallender Antheil ebenfalls von allen Mitverpflichteten übernommen werden\. Die erhaltene Befreyung eines Mitverpflichteten kann den übrigen bey der Forderung des Ersatzes nicht nachtheilig seyn\. \(§\. 894\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-896-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_764_TextContainer_764) \]
+
+----
 
 ## Nebenbestimmungen bey Verträgen:
 
@@ -7587,11 +9117,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-897-abgb--1-bedingungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_765_TextContainer_765) \]
 
+----
+
 ### § 898 ABGB
 
 > Verabredungen unter solchen Bedingungen, welche bey einem letzten Willen für nicht beygesetzt angesehen werden, sind ungültig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-898-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_766_TextContainer_766) \]
+
+----
 
 ### § 899 ABGB
 
@@ -7599,17 +9133,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-899-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_767_TextContainer_767) \]
 
+----
+
 ### § 900 ABGB
 
 > Ein unter einer aufschiebenden Bedingung zugesagtes Recht geht auch auf die Erben über\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-900-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_768_TextContainer_768) \]
 
+----
+
 ### § 901 ABGB — 2) Bewegungsgrund;
 
 > Haben die Parteyen den Bewegungsgrund, oder den Endzweck ihrer Einwilligung ausdrücklich zur Bedingung gemacht; so wird der Bewegungsgrund oder Endzweck wie eine andere Bedingung angesehen\. Außer dem haben dergleichen Aeußerungen auf die Gültigkeit entgeldlicher Verträge keinen Einfluß\. Bey den unentgeldlichen aber sind die bey den letzten Anordnungen gegebenen Vorschriften anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-901-abgb--2-bewegungsgrund) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_769_TextContainer_769) \]
+
+----
 
 ### § 902 ABGB — 3) Zeit, Ort und Art der Erfüllung;
 
@@ -7621,17 +9161,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-902-abgb--3-zeit-ort-und-art-der-erfüllung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_770_TextContainer_770) \]
 
+----
+
 ### § 903 ABGB
 
 > Ein Recht, dessen Erwerbung an einen bestimmten Tag gebunden ist, wird mit dem Anfang dieses Tages erworben\. Die Rechtsfolgen der Nichterfüllung einer Verbindlichkeit oder eines Versäumnisses treten erst mit dem Ablauf des letzten Tages der Frist ein\. Fällt der für die Abgabe einer Erklärung oder für eine Leistung bestimmte letzte Tag auf einen Sonntag oder anerkannten Feiertag, so tritt an dessen Stelle, vorbehaltlich gegenteiliger Vereinbarung, der nächstfolgende Werktag\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-903-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_771_TextContainer_771) \]
 
+----
+
 ### § 904 ABGB
 
 > Ist keine gewisse Zeit für die Erfüllung des Vertrages bestimmt worden; so kann sie sogleich, nähmlich ohne unnöthigen Aufschub, gefordert werden\. Hat der Verpflichtete die Erfüllungszeit seiner Willkühr vorbehalten; so muß man entweder seinen Tod abwarten, und sich an die Erben halten; oder, wenn es um eine bloß persönliche, nicht vererbliche, Pflicht zu thun ist, die Erfüllungszeit von dem Richter nach Billigkeit festsetzen lassen\. Letzteres findet auch dann Statt, wenn der Verpflichtete die Erfüllung, nach Möglichkeit, oder Thunlichkeit versprochen hat\. Uebrigens müssen die Vorschriften, welche oben \(§§ 704 – 706\) in Rücksicht der den letzten Anordnungen beygerückten Zeitbestimmung gegeben werden, auch hier angewendet werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-904-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_772_TextContainer_772) \]
+
+----
 
 ### § 905 ABGB
 
@@ -7643,11 +9189,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-905-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_773_TextContainer_773) \]
 
+----
+
 ### § 905a ABGB
 
 > Wird eine nur der Gattung nach bestimmte Sache geschuldet, so ist diese in mittlerer Art und Güte zu leisten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-905a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_774_TextContainer_774) \]
+
+----
 
 ### § 906 ABGB
 
@@ -7657,11 +9207,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-906-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_775_TextContainer_775) \]
 
+----
+
 ### § 907 ABGB
 
 > Wird ein Vertrag ausdrücklich mit Vorbehalt der Wahl geschlossen, und dieselbe durch zufälligen Untergang eines oder mehrerer Wahlstücke vereitelt; so ist der Theil, dem die Wahl zusteht, an den Vertrag nicht gebunden\. Unterläuft aber ein Verschulden des Verpflichteten; so muß er dem Berechtigten für die Vereitlung der Wahl haften\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-907-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_776_TextContainer_776) \]
+
+----
 
 ### § 907a ABGB
 
@@ -7671,6 +9225,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-907a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_777_TextContainer_777) \]
 
+----
+
 ### § 907b ABGB
 
 > `(1)` Ist eine in ausländischer Währung ausgedrückte Geldschuld im Inland zu zahlen, so kann die Zahlung in inländischer Währung erfolgen, es sei denn, dass die Zahlung in ausländischer Währung ausdrücklich bedungen worden ist\.
@@ -7679,11 +9235,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-907b-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_778_TextContainer_778) \]
 
+----
+
 ### § 908 ABGB — 4) Angeld;
 
 > Was bey Abschließung eines Vertrages voraus gegeben wird, ist, außer dem Falle einer besondern Verabredung, nur als ein Zeichen der Abschließung, oder als eine Sicherstellung für die Erfüllung des Vertrages zu betrachten, und heißt Angeld\. Wird der Vertrag durch Schuld einer Partey nicht erfüllet; so kann die schuldlose Partey das von ihr empfangene Angeld behalten, oder den doppelten Betrag des von ihr gegebenen Angeldes zurückfordern\. Will sie sich aber damit nicht begnügen, so kann sie auf die Erfüllung; oder, wenn diese nicht mehr möglich ist, auf den Ersatz dringen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-908-abgb--4-angeld) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_779_TextContainer_779) \]
+
+----
 
 ### § 909 ABGB — 5) Reugeld;
 
@@ -7691,11 +9251,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-909-abgb--5-reugeld) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_780_TextContainer_780) \]
 
+----
+
 ### § 910 ABGB
 
 > Wenn ein Angeld gegeben, und zugleich das Befugniß des Rücktrittes ohne Bestimmung eines besondern Reugeldes bedungen wird; so vertritt das Angeld die Stelle des Reugeldes\. Im Falle des Rücktrittes verliert also der Geber das Angeld; oder der Empfänger stellt das Doppelte zurück\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-910-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_781_TextContainer_781) \]
+
+----
 
 ### § 911 ABGB
 
@@ -7703,11 +9267,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-911-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_782_TextContainer_782) \]
 
+----
+
 ### § 912 ABGB — 6) Nebengebühren
 
 > Der Gläubiger ist von seinem Schuldner außer der Hauptschuld zuweilen auch Nebengebühren zu fordern berechtiget\. Sie bestehen in dem Zuwachse, und in den Früchten der Hauptsache, in den bestimmten oder in den Zögerungs\-Zinsen; oder in dem Ersatze des verursachten Schadens; oder dessen, was dem Andern daran liegt, daß die Verbindlichkeit nicht gehörig erfüllet worden; endlich in dem Betrage, welchen ein Theil sich auf diesen Fall bedungen hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-912-abgb--6-nebengebühren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_783_TextContainer_783) \]
+
+----
 
 ### § 913 ABGB
 
@@ -7715,17 +9283,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-913-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_784_TextContainer_784) \]
 
+----
+
 ### § 914 ABGB — Auslegungsregeln bey Verträgen
 
 > Bei Auslegung von Verträgen ist nicht an dem buchstäblichen Sinne des Ausdrucks zu haften, sondern die Absicht der Parteien zu erforschen und der Vertrag so zu verstehen, wie es der Übung des redlichen Verkehrs entspricht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-914-abgb--auslegungsregeln-bey-verträgen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_785_TextContainer_785) \]
 
+----
+
 ### § 915 ABGB
 
 > Bey einseitig verbindlichen Verträgen wird im Zweifel angenommen, daß sich der Verpflichtete eher die geringere als die schwerere Last auflegen wollte; bey zweyseitig verbindlichen wird eine undeutliche Aeußerung zum Nachtheile desjenigen erkläret, der sich derselben bedienet hat \(§\. 869\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-915-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_786_TextContainer_786) \]
+
+----
 
 ### § 916 ABGB
 
@@ -7735,17 +9309,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-916-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_787_TextContainer_787) \]
 
+----
+
 ### § 917 ABGB — Allgemeine Bestimmungen über entgeltliche Verträge und Geschäfte
 
 > Bei einem entgeltlichen Vertrage werden entweder Sachen mit Sachen, oder Handlungen, worunter auch die Unterlassungen gehören, mit Handlungen, oder endlich Sachen mit Handlungen und Handlungen mit Sachen vergolten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-917-abgb--allgemeine-bestimmungen-über-entgeltliche-verträge-und-geschäfte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_788_TextContainer_788) \]
 
+----
+
 ### § 917a ABGB
 
 > Ist zum Schutz eines Vertragspartners gesetzlich bestimmt, daß kein höheres oder kein niedrigeres als ein bestimmtes Entgelt vereinbart werden darf, so ist eine Entgeltvereinbarung soweit unwirksam, als sie dieses Höchstmaß über\- beziehungsweise dieses Mindestmaß unterschreitet\. Im zweiten Fall gilt das festgelegte Mindestentgelt als vereinbart\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-917a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_789_TextContainer_789) \]
+
+----
 
 ### § 918 ABGB
 
@@ -7755,11 +9335,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-918-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_790_TextContainer_790) \]
 
+----
+
 ### § 919 ABGB
 
 > Ist die Erfüllung zu einer festbestimmten Zeit oder binnen einer festbestimmten Frist bei sonstigem Rücktritt bedungen, so muß der Rücktrittsberechtigte, wenn er auf der Erfüllung bestehen will, das nach Ablauf der Zeit dem andern ohne Verzug anzeigen; unterläßt er dies, so kann er später nicht mehr auf der Erfüllung bestehen\. Dasselbe gilt, wenn die Natur des Geschäftes oder der dem Verpflichteten bekannte Zweck der Leistung entnehmen läßt, daß die verspätete Leistung oder, im Falle der Verspätung einer Teilleistung, die noch übrigen Leistungen für den Empfänger kein Interesse haben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-919-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_791_TextContainer_791) \]
+
+----
 
 ### § 920 ABGB
 
@@ -7767,11 +9351,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-920-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_792_TextContainer_792) \]
 
+----
+
 ### § 921 ABGB
 
 > Der Rücktritt vom Vertrage läßt den Anspruch auf Ersatz des durch verschuldete Nichterfüllung verursachten Schadens unberührt\. Das bereits empfangene Entgelt ist auf solche Art zurückzustellen oder zu vergüten, daß kein Teil aus dem Schaden des anderen Gewinn zieht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-921-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_793_TextContainer_793) \]
+
+----
 
 ### § 922 ABGB — Gewährleistung
 
@@ -7781,11 +9369,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-922-abgb--gewährleistung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_794_TextContainer_794) \]
 
+----
+
 ### § 923 ABGB — Fälle der Gewährleistung
 
 > Wer also der Sache Eigenschaften beylegt, die sie nicht hat, und die ausdrücklich oder vermöge der Natur des Geschäftes stillschweigend bedungen worden sind; wer ungewöhnliche Mängel, oder Lasten derselben verschweigt; wer eine nicht mehr vorhandene, oder eine fremde Sache als die seinige veräußert; wer fälschlich vorgibt, daß die Sache zu einem bestimmten Gebrauche tauglich; oder daß sie auch von den gewöhnlichen Mängeln und Lasten frey sey; der hat, wenn das Widerspiel hervorkommt, dafür zu haften\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-923-abgb--fälle-der-gewährleistung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_795_TextContainer_795) \]
+
+----
 
 ### § 924 ABGB — Vermutung der Mangelhaftigkeit
 
@@ -7793,11 +9385,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-924-abgb--vermutung-der-mangelhaftigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_796_TextContainer_796) \]
 
+----
+
 ### § 925 ABGB
 
 > Durch Verordnung wird bestimmt, inwiefern die Vermutung eintritt, daß ein Tier schon vor der Übergabe krank gewesen ist, wenn innerhalb bestimmter Fristen gewisse Krankheiten und Mängel hervorkommen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-925-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_797_TextContainer_797) \]
+
+----
 
 ### § 926 ABGB
 
@@ -7805,11 +9401,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-926-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_798_TextContainer_798) \]
 
+----
+
 ### § 927 ABGB
 
 > Vernachlässigt der Übernehmer diese Vorsicht, so liegt ihm der Beweis ob, daß das Tier schon vor der Übergabe mangelhaft war\. Immer steht aber auch dem Übergeber der Beweis offen, daß der gerügte Mangel erst nach der Übergabe eingetreten sei\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-927-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_799_TextContainer_799) \]
+
+----
 
 ### § 928 ABGB
 
@@ -7817,11 +9417,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-928-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_800_TextContainer_800) \]
 
+----
+
 ### § 929 ABGB
 
 > Wer eine fremde Sache wissentlich an sich bringt, hat eben so wenig Anspruch auf eine Gewährleistung, als derjenige, welcher ausdrücklich darauf Verzicht gethan hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-929-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_801_TextContainer_801) \]
+
+----
 
 ### § 930 ABGB
 
@@ -7829,11 +9433,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-930-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_802_TextContainer_802) \]
 
+----
+
 ### § 931 ABGB — Bedingung der Gewährleistung
 
 > Wenn der Übernehmer wegen eines von einem Dritten auf die Sache erhobenen Anspruches von der Gewährleistung Gebrauch machen will, so muß er seinem Vormann den Streit verkündigen\. Unterläßt er dies, so verliert er zwar noch nicht das Recht der Schadloshaltung, aber sein Vormann kann ihm alle wider den Dritten unausgeführt gebliebenen Einwendungen entgegensetzen und sich dadurch von der Entschädigung in dem Maße befreien, als erkannt wird, daß diese Einwendungen, wenn von ihnen der gehörige Gebrauch gemacht worden wäre, eine andere Entscheidung gegen den Dritten veranlaßt haben würden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-931-abgb--bedingung-der-gewährleistung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_803_TextContainer_803) \]
+
+----
 
 ### § 932 ABGB — Rechte aus der Gewährleistung
 
@@ -7847,11 +9455,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-932-abgb--rechte-aus-der-gewährleistung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_804_TextContainer_804) \]
 
+----
+
 ### § 932a ABGB
 
 > Während des Rechtsstreites über die Aufhebung des Vertrages wegen eines Viehmangels hat das Gericht auf Antrag einer der Parteien, sobald die Besichtigung nicht mehr erforderlich ist, durch einstweilige Verfügung den gerichtlichen Verkauf des Tieres und die gerichtliche Hinterlegung des Erlöses anzuordnen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-932a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_805_TextContainer_805) \]
+
+----
 
 ### § 933 ABGB — Gewährleistungsfrist; Verjährung
 
@@ -7865,6 +9477,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-933-abgb--gewährleistungsfrist-verjährung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_806_TextContainer_806) \]
 
+----
+
 ### § 933a ABGB — Schadenersatz
 
 > `(1)` Hat der Übergeber den Mangel verschuldet, so kann der Übernehmer auch Schadenersatz fordern\.
@@ -7874,6 +9488,8 @@
 > `(3)` Nach Ablauf von zehn Jahren ab der Übergabe der Sache obliegt für einen Ersatzanspruch wegen der Mangelhaftigkeit selbst und wegen eines durch diese verursachten weiteren Schadens dem Übernehmer der Beweis des Verschuldens des Übergebers\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-933a-abgb--schadenersatz) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_807_TextContainer_807) \]
+
+----
 
 ### § 933b ABGB — Rückgriff des gewährleistungspflichtigen Übergebers
 
@@ -7887,11 +9503,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-933b-abgb--rückgriff-des-gewährleistungspflichtigen-übergebers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_808_TextContainer_808) \]
 
+----
+
 ### § 934 ABGB — Schadloshaltung wegen Verkürzung über die Hälfte
 
 > Hat bey zweyseitig verbindlichen Geschäften ein Theil nicht einmahl die Hälfte dessen, was er dem andern gegeben hat, von diesem an dem gemeinen Werthe erhalten, so räumt das Gesetz dem verletzten Theile das Recht ein, die Aufhebung, und die Herstellung in den vorigen Stand zu fordern\. Dem andern Theile steht aber bevor, das Geschäft dadurch aufrecht zu erhalten, daß er den Abgang bis zum gemeinen Werthe zu ersetzen bereit ist\. Das Mißverhältniß des Werthes wird nach dem Zeitpuncte des geschlossenen Geschäftes bestimmt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-934-abgb--schadloshaltung-wegen-verkürzung-über-die-hälfte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_809_TextContainer_809) \]
+
+----
 
 ### § 935 ABGB
 
@@ -7899,17 +9519,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-935-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_810_TextContainer_810) \]
 
+----
+
 ### § 936 ABGB — Von der Verabredung eines künftigen Vertrages
 
 > Die Verabredung, künftig erst einen Vertrag schließen zu wollen, ist nur dann verbindlich, wenn sowohl die Zeit der Abschließung, als die wesentlichen Stücke des Vertrages bestimmt, und die Umstände inzwischen nicht dergestalt verändert worden sind, daß dadurch der ausdrücklich bestimmte, oder aus den Umständen hervorleuchtende Zweck vereitelt, oder das Zutrauen des einen oder andern Theiles verloren wird\. Ueberhaupt muß auf die Vollziehung solcher Zusagen längstens in einem Jahre nach dem bedungenen Zeitpuncte gedrungen werden; widrigen Falls ist das Recht erloschen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-936-abgb--von-der-verabredung-eines-künftigen-vertrages) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_811_TextContainer_811) \]
 
+----
+
 ### § 937 ABGB — Von dem Verzicht auf Einwendungen
 
 > Allgemeine, unbestimmte Verzichtleistungen auf Einwendungen gegen die Gültigkeit eines Vertrages sind ohne Wirkung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-937-abgb--von-dem-verzicht-auf-einwendungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_812_TextContainer_812) \]
+
+----
 
 ## Achtzehntes Hauptstück.
 
@@ -7921,11 +9547,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-938-abgb--schenkung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_813_TextContainer_813) \]
 
+----
+
 ### § 939 ABGB — In wie fern eine Verzichtleistung eine Schenkung sey
 
 > Wer auf ein gehofftes, oder wirklich angefallenes, oder zweyfelhaftes Recht Verzicht thut, ohne es einem Andern ordentlich abzutreten, oder dasselbe dem Verpflichteten mit dessen Einwilligung zu erlassen, ist für keinen Geschenkgeber anzusehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-939-abgb--in-wie-fern-eine-verzichtleistung-eine-schenkung-sey) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_814_TextContainer_814) \]
+
+----
 
 ### § 940 ABGB — Belohnende Schenkung
 
@@ -7933,11 +9563,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-940-abgb--belohnende-schenkung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_815_TextContainer_815) \]
 
+----
+
 ### § 941 ABGB
 
 > Hat der Beschenkte ein Klagerecht auf die Belohnung gehabt, entweder, weil sie unter den Parteyen schon bedungen, oder durch das Gesetz vorgeschrieben war; so hört das Geschäft auf, eine Schenkung zu seyn, und ist als ein entgeldlicher Vertrag anzusehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-941-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_816_TextContainer_816) \]
+
+----
 
 ### § 942 ABGB — Wechselseitige Schenkungen
 
@@ -7945,11 +9579,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-942-abgb--wechselseitige-schenkungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_817_TextContainer_817) \]
 
+----
+
 ### § 943 ABGB — Form des Schenkungsvertrages
 
 > Aus einem bloß mündlichen, ohne wirkliche Uebergabe geschlossenen Schenkungsvertrage erwächst dem Geschenknehmer kein Klagerecht\. Dieses Recht muß durch eine schriftliche Urkunde begründet werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-943-abgb--form-des-schenkungsvertrages) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_818_TextContainer_818) \]
+
+----
 
 ### § 944 ABGB — und Maß einer Schenkung
 
@@ -7957,17 +9595,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-944-abgb--und-maß-einer-schenkung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_819_TextContainer_819) \]
 
+----
+
 ### § 945 ABGB — In wie fern der Geber für das Geschenkte hafte
 
 > Wer wissentlich eine fremde Sache verschenkt, und dem Geschenknehmer diesen Umstand verschweigt, haftet für die nachtheiligen Folgen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-945-abgb--in-wie-fern-der-geber-für-das-geschenkte-hafte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_820_TextContainer_820) \]
 
+----
+
 ### § 946 ABGB — Unwiderruflichkeit der Schenkungen
 
 > Schenkungsverträge dürfen in der Regel nicht widerrufen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-946-abgb--unwiderruflichkeit-der-schenkungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_821_TextContainer_821) \]
+
+----
 
 ## Ausnahmen:
 
@@ -7977,11 +9621,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-947-abgb--1-wegen-dürftigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_822_TextContainer_822) \]
 
+----
+
 ### § 948 ABGB — 2) Undankes;
 
 > Wenn der Beschenkte sich gegen seinen Wohlthäter eines groben Undankes schuldig macht, kann die Schenkung widerrufen werden\. Unter grobem Undanke wird eine Verletzung am Leibe, an Ehre, an Freyheit, oder am Vermögen verstanden, welche von der Art ist, daß gegen den Verletzer von Amts wegen, oder auf Verlangen des Verletzten nach dem Strafgesetze verfahren werden kann\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-948-abgb--2-undankes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_823_TextContainer_823) \]
+
+----
 
 ### § 949 ABGB
 
@@ -7989,11 +9637,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-949-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_824_TextContainer_824) \]
 
+----
+
 ### § 950 ABGB — 3) Verkürzung des schuldigen Unterhalts;
 
 > Wer jemanden den Unterhalt zu reichen schuldig ist, kann dessen Recht durch Beschenkung eines Dritten nicht verletzen\. Der auf solche Art Verkürzte ist befugt, den Beschenkten um die Ergänzung desjenigen zu belangen, was ihm der Schenkende nun nicht mehr zu leisten vermag\. Bey mehrern Geschenknehmern ist die obige \(§\. 947\) Vorschrift anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-950-abgb--3-verkürzung-des-schuldigen-unterhalts) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_825_TextContainer_825) \]
+
+----
 
 ### § 953 ABGB — 5) der Gläubiger;
 
@@ -8001,17 +9653,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-953-abgb--5-der-gläubiger) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_826_TextContainer_826) \]
 
+----
+
 ### § 954 ABGB — 6) wegen nachgeborner Kinder
 
 > Dadurch, daß einem kinderlosen Geschenkgeber nach geschlossenem Schenkungsvertrage Kinder geboren werden, erwächst weder ihm, noch den nachgebornen Kindern das Recht, die Schenkung zu widerrufen\. Doch kann er, oder das nachgeborne Kind, im Nothfalle sowohl gegen den Beschenkten, als gegen dessen Erben das oben angeführte Recht auf die gesetzlichen Zinsen des geschenkten Betrages geltend machen \(§\. 947\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-954-abgb--6-wegen-nachgeborner-kinder) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_827_TextContainer_827) \]
 
+----
+
 ### § 955 ABGB — Welche Schenkungen auf die Erben nicht übergehen
 
 > Hat der Geschenkgeber dem Beschenkten eine Unterstützung in gewissen Fristen zugesichert, so erwächst für die Erben derselben weder ein Recht, noch eine Verbindlichkeit; es müßte denn in dem Schenkungsvertrage ausdrücklich anders bedungen worden seyn\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-955-abgb--welche-schenkungen-auf-die-erben-nicht-übergehen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_828_TextContainer_828) \]
+
+----
 
 ## Neunzehntes Hauptstück.
 
@@ -8023,11 +9681,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-957-abgb--verwahrungsvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_829_TextContainer_829) \]
 
+----
+
 ### § 958 ABGB
 
 > Durch den Verwahrungsvertrag erwirbt der Uebernehmer weder Eigenthum, noch Besitz, noch Gebrauchsrecht; er ist bloßer Inhaber mit der Pflicht, die ihm anvertraute Sache vor Schaden zu sichern\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-958-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_830_TextContainer_830) \]
+
+----
 
 ### § 959 ABGB — Wann er in einen Darlehens- oder Leihvertrag;
 
@@ -8035,11 +9697,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-959-abgb--wann-er-in-einen-darlehens--oder-leihvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_831_TextContainer_831) \]
 
+----
+
 ### § 960 ABGB — oder in eine Bevollmächtigung übergehe
 
 > Es können bewegliche und unbewegliche Sachen in Obsorge gegeben werden\. Wird aber dem Uebernehmer zugleich ein anderes, auf die anvertraute Sache sich beziehendes, Geschäft aufgetragen; so wird er als ein Gewalthaber angesehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-960-abgb--oder-in-eine-bevollmächtigung-übergehe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_832_TextContainer_832) \]
+
+----
 
 ### § 961 ABGB — Pflichten und Rechte des Verwahrers;
 
@@ -8047,11 +9713,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-961-abgb--pflichten-und-rechte-des-verwahrers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_833_TextContainer_833) \]
 
+----
+
 ### § 962 ABGB
 
 > Der Verwahrer muß dem Hinterleger auf Verlangen die Sache auch noch vor Verlauf der Zeit zurückstellen, und kann nur den Ersatz des ihm etwa verursachten Schadens begehren\. Er kann hingegen die ihm anvertraute Sache nicht früher zurückgeben; es wäre denn, daß ein unvorhergesehener Umstand ihn außer Stand setzte, die Sache mit Sicherheit oder ohne seinen eigenen Nachtheil zu verwahren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-962-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_834_TextContainer_834) \]
+
+----
 
 ### § 963 ABGB
 
@@ -8059,11 +9729,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-963-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_835_TextContainer_835) \]
 
+----
+
 ### § 964 ABGB
 
 > Der Verwahrer haftet dem Hinterleger für den aus der Unterlassung der pflichtmäßigen Obsorge verursachten Schaden, aber nicht für den Zufall; selbst dann nicht, wenn er die anvertraute, obschon kostbarere Sache, mit Aufopferung seiner eigenen hätte retten können\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-964-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_836_TextContainer_836) \]
+
+----
 
 ### § 965 ABGB
 
@@ -8071,11 +9745,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-965-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_837_TextContainer_837) \]
 
+----
+
 ### § 966 ABGB
 
 > Wenn Sachen verschlossen oder versiegelt hinterlegt, und in der Folge das Schloß oder Siegel verletzt worden; so ist der Hinterleger, wenn er einen Abgang behauptet, zur Beschwörung seines Schadens, in so fern derselbe nach seinem Stande, Gewerbe, Vermögen und den übrigen Umständen wahrscheinlich ist, nach Vorschrift der Gerichtsordnung zuzulassen; es wäre denn, daß der Verwahrer beweisen könnte, daß die Verletzung des Schlosses oder Siegels ohne sein Verschulden geschehen sey\. Das Nähmliche hat auch dann zu gelten, wenn sämmtliche auf solche Art hinterlegte Sachen in Verlust gerathen sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-966-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_838_TextContainer_838) \]
+
+----
 
 ### § 967 ABGB — und des Hinterlegers
 
@@ -8083,17 +9761,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-967-abgb--und-des-hinterlegers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_839_TextContainer_839) \]
 
+----
+
 ### § 968 ABGB — Sequester
 
 > Wird eine in Anspruch genommene Sache von den streitenden Parteyen oder vom Gerichte jemanden in Verwahrung gegeben; so heißt der Verwahrer, Sequester\. Die Rechte und Verbindlichkeiten des Sequesters werden nach den hier festgesetzten Grundsätzen beurtheilt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-968-abgb--sequester) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_840_TextContainer_840) \]
 
+----
+
 ### § 969 ABGB — Ob dem Verwahrer ein Lohn gebühre
 
 > Ein Lohn kann für die Aufbewahrung nur dann gefordert werden, wenn er ausdrücklich, oder nach dem Stande des Aufbewahrers stillschweigend bedungen worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-969-abgb--ob-dem-verwahrer-ein-lohn-gebühre) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_841_TextContainer_841) \]
+
+----
 
 ### § 970 ABGB — Gastaufnahme
 
@@ -8105,11 +9789,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-970-abgb--gastaufnahme) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_842_TextContainer_842) \]
 
+----
+
 ### § 970a ABGB
 
 > Ablehnung der Haftung durch Anschlag ist ohne rechtliche Wirkung\. Für Kostbarkeiten, Geld und Wertpapiere haftet der Gastwirt nur bis zum Betrage von 550 Euro, es sei denn, daß er diese Sachen in Kenntnis ihrer Beschaffenheit zur Aufbewahrung übernommen hat oder daß der Schaden von ihm selbst oder seinen Leuten verschuldet ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-970a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_843_TextContainer_843) \]
+
+----
 
 ### § 970b ABGB
 
@@ -8117,11 +9805,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-970b-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_844_TextContainer_844) \]
 
+----
+
 ### § 970c ABGB
 
 > Den im § 970 bezeichneten Personen steht das Recht zu, zur Sicherung ihrer Forderungen aus der Beherbergung und Verpflegung sowie ihrer Auslagen für die Gäste die eingebrachten Sachen zurückzuhalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-970c-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_845_TextContainer_845) \]
+
+----
 
 ## Zwanzigstes Hauptstück.
 
@@ -8133,6 +9825,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-971-abgb--c-leihvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_846_TextContainer_846) \]
 
+----
+
 ## Rechte und Pflichten des Entlehners.
 
 ### § 972 ABGB — 1) in Rücksicht des Gebrauches;
@@ -8141,11 +9835,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-972-abgb--1-in-rücksicht-des-gebrauches) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_847_TextContainer_847) \]
 
+----
+
 ### § 973 ABGB — 2) der Zurückstellung;
 
 > Wenn keine Zeit zur Zurückgabe festgesetzt, wohl aber die Absicht des Gebrauches bestimmt worden ist; so ist der Entlehner verbunden, mit dem Gebrauche nicht zu zögern, und die Sache so bald als möglich zurück zu geben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-973-abgb--2-der-zurückstellung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_848_TextContainer_848) \]
+
+----
 
 ### § 974 ABGB
 
@@ -8153,11 +9851,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-974-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_849_TextContainer_849) \]
 
+----
+
 ### § 975 ABGB
 
 > Bey einem Streite über die Dauer des Gebrauches muß der Entlehner das Recht auf den längern Gebrauch beweisen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-975-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_850_TextContainer_850) \]
+
+----
 
 ### § 976 ABGB
 
@@ -8165,11 +9867,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-976-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_851_TextContainer_851) \]
 
+----
+
 ### § 977 ABGB
 
 > Der Entlehner ist zwar in der Regel berechtiget, die entlehnte Sache auch vor der bestimmten Zeit zurück zu geben: fällt aber die frühere Zurückgabe dem Verleiher beschwerlich; so kann sie wider seinen Willen nicht Statt finden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-977-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_852_TextContainer_852) \]
+
+----
 
 ### § 978 ABGB — 3) der Beschädigung;
 
@@ -8177,11 +9883,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-978-abgb--3-der-beschädigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_853_TextContainer_853) \]
 
+----
+
 ### § 979 ABGB
 
 > Wird die geliehene Sache beschädiget, oder zu Grunde gerichtet; so muß der Entlehner nicht nur den zunächst durch sein Verschulden verursachten, sondern auch den zufälligen Schaden, den er durch eine widerrechtliche Handlung veranlaßt hat, so wie der Verwahrer einer Sache ersetzen \(§\. 965\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-979-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_854_TextContainer_854) \]
+
+----
 
 ### § 980 ABGB
 
@@ -8189,17 +9899,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-980-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_855_TextContainer_855) \]
 
+----
+
 ### § 981 ABGB — 4) der Erhaltungskosten
 
 > Die mit dem Gebrauche ordentlicher Weise verbundenen Kosten muß der Entlehner selbst bestreiten\. Die außerordentlichen Erhaltungskosten hat er zwar, dafern er die Sache dem Verleiher nicht zur eigenen Besorgung überlassen kann oder will, inzwischen vorzuschießen; doch werden sie ihm gleich einem redlichen Besitzer vergütet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-981-abgb--4-der-erhaltungskosten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_856_TextContainer_856) \]
 
+----
+
 ### § 982 ABGB — Beschränkung der wechselseitigen Klagen
 
 > Wenn der Verleiher nach der Zurücknahme des Lehnstückes dessen Mißbrauch, oder übertriebene Abnutzung innerhalb dreyßig Tagen nicht gerüget; oder, wenn der Entlehner nach der Zurückgabe von den auf die Sache verwendeten außerordentlichen Kosten binnen eben diesem Zeitraume keine Meldung gemacht hat; so ist die Klage erloschen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-982-abgb--beschränkung-der-wechselseitigen-klagen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_857_TextContainer_857) \]
+
+----
 
 ## Ein u. zwanzigstes Hauptstück.
 
@@ -8211,6 +9927,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-983-abgb--darlehensvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_858_TextContainer_858) \]
 
+----
+
 ### § 984 ABGB — Arten des Darlehensvertrags
 
 > `(1)` Gegenstand eines Darlehensvertrags können Geld oder andere vertretbare Sachen sein\. Ein Darlehen kann entweder unentgeltlich oder gegen Entgelt gewährt werden\. Wenn die Parteien nichts über ein Entgelt vereinbaren, gilt der Darlehensvertrag im Zweifel als entgeltlich\.
@@ -8219,11 +9937,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-984-abgb--arten-des-darlehensvertrags) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_859_TextContainer_859) \]
 
+----
+
 ### § 985 ABGB — Steigerung und Minderung des Werts
 
 > Der Darlehensnehmer hat, sofern nichts anderes vereinbart ist, bei der Rückgabe der Sachen einen in der Zwischenzeit eingetretenen Wertverlust nicht auszugleichen\. Gleichermaßen kann er sich auch nicht auf eine Wertsteigerung zur Minderung seiner Rückgabepflicht berufen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-985-abgb--steigerung-und-minderung-des-werts) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_860_TextContainer_860) \]
+
+----
 
 ### § 986 ABGB — Dauer und Auflösung des Darlehensvertrags
 
@@ -8235,17 +9957,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-986-abgb--dauer-und-auflösung-des-darlehensvertrags) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_861_TextContainer_861) \]
 
+----
+
 ### § 987 ABGB — Außerordentliche Kündigung des Darlehensvertrags
 
 > Jeder Vertragsteil kann den Darlehensvertrag jederzeit ohne Einhaltung einer Kündigungsfrist kündigen, wenn ihm die Aufrechterhaltung des Vertrags aus wichtigen Gründen unzumutbar ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-987-abgb--außerordentliche-kündigung-des-darlehensvertrags) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_862_TextContainer_862) \]
 
+----
+
 ### § 988 ABGB — Kreditvertrag
 
 > Der entgeltliche Darlehensvertrag über Geld heißt Kreditvertrag; dazu zählt auch ein Vertrag, mit dem ein Geldbetrag zum Abruf zur Verfügung gestellt wird\. Die Parteien dieses Vertrags heißen Kreditgeber und Kreditnehmer\. Das Entgelt besteht in der Regel in den vom Kreditnehmer zu zahlenden Zinsen; für diese gilt § 1000 Abs\. 1\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-988-abgb--kreditvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_863_TextContainer_863) \]
+
+----
 
 ### § 989 ABGB — Befristung und Ende des Kreditvertrags
 
@@ -8255,17 +9983,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-989-abgb--befristung-und-ende-des-kreditvertrags) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_864_TextContainer_864) \]
 
+----
+
 ### § 990 ABGB — Unwirksame Vereinbarungen über das Kündigungsrecht des Kreditgebers
 
 > Vereinbarungen, durch die dem Kreditgeber ein nicht an sachlich gerechtfertigte Gründe geknüpftes Recht zur vorzeitigen Kündigung eines auf bestimmte Zeit geschlossenen und seinerseits schon erfüllten Kreditvertrags eingeräumt wird, sind nicht wirksam\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-990-abgb--unwirksame-vereinbarungen-über-das-kündigungsrecht-des-kreditgebers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_865_TextContainer_865) \]
 
+----
+
 ### § 991 ABGB — Verweigerung der Kreditauszahlung
 
 > Der Kreditgeber kann die Auszahlung des Kreditbetrags verweigern, wenn sich nach Vertragsabschluss Umstände ergeben, die eine Verschlechterung der Vermögenslage des Kreditnehmers oder eine Entwertung bedungener Sicherheiten in einem solchen Ausmaß erweisen, dass die Rückzahlung des Kredits oder die Entrichtung der Zinsen selbst bei Verwertung der Sicherheiten gefährdet sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-991-abgb--verweigerung-der-kreditauszahlung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_866_TextContainer_866) \]
+
+----
 
 ### § 1000 ABGB — Zinsen und Zinseszinsen
 
@@ -8277,6 +10011,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1000-abgb--zinsen-und-zinseszinsen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_867_TextContainer_867) \]
 
+----
+
 ## Zwey u. zwanzigstes Hauptstück.
 
 ## Von der Bevollmächtigung und andern Arten der Geschäftsführung.
@@ -8287,11 +10023,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1002-abgb--bevollmächtigungsvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_868_TextContainer_868) \]
 
+----
+
 ### § 1003 ABGB
 
 > Personen, welche zur Besorgung bestimmter Geschäfte öffentlich bestellt worden, sind schuldig, über einen darauf sich beziehenden Auftrag ohne Zögerung gegen den Auftragenden sich ausdrücklich zu erklären, ob sie denselben annehmen oder nicht; widrigen Falls bleiben sie dem Auftragenden für den dadurch veranlaßten Nachtheil verantwortlich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1003-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_869_TextContainer_869) \]
+
+----
 
 ### § 1004 ABGB — Eintheilung der Bevollmächtigung in eine unentgeldliche oder entgeldliche;
 
@@ -8299,11 +10039,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1004-abgb--eintheilung-der-bevollmächtigung-in-eine-unentgeldliche-oder-entgeldliche) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_870_TextContainer_870) \]
 
+----
+
 ### § 1005 ABGB — mündliche oder schriftliche;
 
 > Bevollmächtigungsverträge können mündlich oder schriftlich geschlossen werden\. Die von dem Gewaltgeber dem Gewalthaber hierüber ausgestellte Urkunde wird Vollmacht genannt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1005-abgb--mündliche-oder-schriftliche) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_871_TextContainer_871) \]
+
+----
 
 ### § 1006 ABGB — allgemeine oder besondere;
 
@@ -8311,11 +10055,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1006-abgb--allgemeine-oder-besondere) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_872_TextContainer_872) \]
 
+----
+
 ### § 1007 ABGB — unumschränkte, oder beschränkte;
 
 > Vollmachten werden entweder mit unumschränkter oder mit beschränkter Freyheit zu handeln ertheilet\. Durch die erstere wird der Gewalthaber berechtiget, das Geschäft nach seinem besten Wissen und Gewissen zu leiten; durch die letztere aber werden ihm die Gränzen, wie weit, und die Art, wie er dasselbe betreiben soll, vorgeschrieben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1007-abgb--unumschränkte-oder-beschränkte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_873_TextContainer_873) \]
+
+----
 
 ### § 1008 ABGB
 
@@ -8323,11 +10071,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1008-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_874_TextContainer_874) \]
 
+----
+
 ### § 1009 ABGB — Rechte und Verbindlichkeiten des Gewalthabers;
 
 > Der Gewalthaber ist verpflichtet, das Geschäft seinem Versprechen und der erhaltenen Vollmacht gemäß, emsig und redlich zu besorgen, und allen aus dem Geschäfte entspringenden Nutzen dem Machtgeber zu überlassen\. Er ist, ob er gleich eine beschränkte Vollmacht hat, berechtiget, alle Mittel anzuwenden, die mit der Natur des Geschäftes nothwendig verbunden, oder der erklärten Absicht des Machtgebers gemäß sind\. Ueberschreitet er aber die Gränzen der Vollmacht; so haftet er für die Folgen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1009-abgb--rechte-und-verbindlichkeiten-des-gewalthabers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_875_TextContainer_875) \]
+
+----
 
 ### § 1010 ABGB
 
@@ -8335,11 +10087,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1010-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_876_TextContainer_876) \]
 
+----
+
 ### § 1011 ABGB
 
 > Wird mehreren Bevollmächtigten zugleich ein Geschäft aufgetragen; so ist die Mitwirkung Aller zur Gültigkeit des Geschäftes, und Verpflichtung des Machtgebers nothwendig; wenn nicht ausdrücklich Einem oder Mehreren aus ihnen die volle Befugniß in der Vollmacht ertheilt worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1011-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_877_TextContainer_877) \]
+
+----
 
 ### § 1012 ABGB
 
@@ -8347,11 +10103,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1012-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_878_TextContainer_878) \]
 
+----
+
 ### § 1013 ABGB
 
 > Gewalthaber sind, außer dem im §\. 1004 enthaltenen Falle, nicht befugt, ihrer Bemühung wegen eine Belohnung zu fordern\. Es ist ihnen nicht erlaubt, ohne Willen des Machtgebers in Rücksicht auf die Geschäftsverwaltung von einem Dritten Geschenke anzunehmen\. Die erhaltenen werden zur Armen\-Casse eingezogen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1013-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_879_TextContainer_879) \]
+
+----
 
 ### § 1014 ABGB — des Gewaltgebers;
 
@@ -8359,11 +10119,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1014-abgb--des-gewaltgebers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_880_TextContainer_880) \]
 
+----
+
 ### § 1015 ABGB
 
 > Leidet der Gewalthaber bey der Geschäftsführung nur zufälliger Weise Schaden; so kann er in dem Falle, daß er das Geschäft unentgeldlich zu besorgen übernahm, einen solchen Betrag fordern, welcher ihm bey einem entgeldlichen Vertrage zur Vergütung der Bemühung nach dem höchsten Schätzungswerthe gebührt haben würde\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1015-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_881_TextContainer_881) \]
+
+----
 
 ### § 1016 ABGB
 
@@ -8371,11 +10135,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1016-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_882_TextContainer_882) \]
 
+----
+
 ### § 1017 ABGB — in Rücksicht eines Dritten
 
 > In so fern der Gewalthaber nach dem Inhalte der Vollmacht den Gewaltgeber vorstellt, kann er ihm Rechte erwerben und Verbindlichkeiten auflegen\. Hat er also innerhalb der Gränzen der offenen Vollmacht mit einem Dritten einen Vertrag geschlossen; so kommen die dadurch gegründeten Rechte und Verbindlichkeiten dem Gewaltgeber und dem Dritten; nicht aber dem Gewalthaber zu\. Die dem Gewalthaber ertheilte geheime Vollmacht hat auf die Rechte des Dritten keinen Einfluß\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1017-abgb--in-rücksicht-eines-dritten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_883_TextContainer_883) \]
+
+----
 
 ### § 1018 ABGB
 
@@ -8383,11 +10151,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1018-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_884_TextContainer_884) \]
 
+----
+
 ### § 1019 ABGB
 
 > Ist der Gewalthaber zu dem von ihm geschlossenen Geschäft nicht oder nicht ausreichend bevollmächtigt, so ist er, wenn der Gewaltgeber weder das Geschäft genehmigt noch sich den aus dem Geschäft entstandenen Vorteil zuwendet \(§ 1016\), dem anderen Teil zum Ersatz des Schadens verpflichtet, den dieser im Vertrauen auf die Vertretungsmacht erleidet\. Der Gewalthaber haftet jedoch nicht über den Betrag des Interesses hinaus, das der andere Teil an der Wirksamkeit des Vertrages hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1019-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_885_TextContainer_885) \]
+
+----
 
 ### § 1020 ABGB — Auflösung des Vertrages durch den Widerruf
 
@@ -8395,11 +10167,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1020-abgb--auflösung-des-vertrages-durch-den-widerruf) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_886_TextContainer_886) \]
 
+----
+
 ### § 1021 ABGB — die Aufkündung;
 
 > Auch der Machthaber kann die angenommene Vollmacht aufkünden\. Wenn er sie aber vor Vollendung des ihm insbesondere aufgetragenen, oder vermöge der allgemeinen Vollmacht angefangenen Geschäftes aufkündet; so muß er, dafern nicht ein unvorgesehenes und unvermeidliches Hinderniß eingetreten ist, allen daraus entstandenen Schaden ersetzen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1021-abgb--die-aufkündung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_887_TextContainer_887) \]
+
+----
 
 ### § 1022 ABGB — den Tod
 
@@ -8407,11 +10183,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1022-abgb--den-tod) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_888_TextContainer_888) \]
 
+----
+
 ### § 1023 ABGB
 
 > Die von einem Körper \(Gemeinschaft\) ausgestellten und übernommenen Vollmachten werden durch die Erlöschung der Gemeinschaft aufgehoben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1023-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_889_TextContainer_889) \]
+
+----
 
 ### § 1024 ABGB — oder ein Insolvenzverfahren
 
@@ -8419,11 +10199,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1024-abgb--oder-ein-insolvenzverfahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_890_TextContainer_890) \]
 
+----
+
 ### § 1025 ABGB — In wiefern die Verbindlichkeit fortdauere
 
 > Wird die Vollmacht durch Widerruf, Aufkündung, oder durch den Tod des Gewaltgebers oder Gewalthabers aufgehoben; so müssen doch die Geschäfte, welche keinen Aufschub leiden, so lange fortgesetzt werden, bis von dem Machtgeber oder dessen Erben eine andere Verfügung getroffen worden ist, oder füglich getroffen werden konnte\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1025-abgb--in-wiefern-die-verbindlichkeit-fortdauere) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_891_TextContainer_891) \]
+
+----
 
 ### § 1026 ABGB
 
@@ -8431,17 +10215,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1026-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_892_TextContainer_892) \]
 
+----
+
 ### § 1027 ABGB — Stillschweigende Bevollmächtigung der Dienstpersonen
 
 > Die in diesem Hauptstücke enthaltenen Vorschriften haben auch ihre Anwendung auf die Eigenthümer einer Handlung, eines Schiffes, Kaufladens oder andern Gewerbes, welche die Verwaltung einem Factor, Schiffer, Ladendiener oder andern Geschäftsträgern anvertrauen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1027-abgb--stillschweigende-bevollmächtigung-der-dienstpersonen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_893_TextContainer_893) \]
 
+----
+
 ### § 1028 ABGB
 
 > Die Rechte solcher Geschäftsführer sind vorzüglich aus der Urkunde ihrer Bestellung, dergleichen unter Handelsleuten das ordentlich kundgemachte Befugniß der Unterzeichnung \(Firma\) ist, zu beurtheilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1028-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_894_TextContainer_894) \]
+
+----
 
 ### § 1029 ABGB
 
@@ -8451,11 +10241,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1029-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_895_TextContainer_895) \]
 
+----
+
 ### § 1030 ABGB
 
 > Gestattet der Eigenthümer einer Handlung, oder eines Gewerbes seinem Diener oder Lehrlinge, Waaren im Laden oder außer demselben zu verkaufen; so wird vermuthet, daß sie bevollmächtigt seyn, die Bezahlung zu empfangen, und Quittungen dagegen auszustellen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1030-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_896_TextContainer_896) \]
+
+----
 
 ### § 1031 ABGB
 
@@ -8463,17 +10257,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1031-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_897_TextContainer_897) \]
 
+----
+
 ### § 1032 ABGB
 
 > Dienstgeber und Familienhäupter sind nicht verbunden, das, was von ihren Dienstpersonen oder andern Hausgenossen in ihrem Nahmen auf Borg genommen wird, zu bezahlen\. Der Borger muß in solchen Fällen den gemachten Auftrag erweisen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1032-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_898_TextContainer_898) \]
 
+----
+
 ### § 1033 ABGB
 
 > Besteht aber zwischen dem Borgnehmer und dem Borggeber ein ordentliches Einschreibebuch, worin die ausgeborgten Sachen aufgezeichnet werden; so gilt die Vermuthung, daß der Ueberbringer dieses Buches bevollmächtiget sey, die Waare auf Borg zu nehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1033-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_899_TextContainer_899) \]
+
+----
 
 ### § 1034 ABGB — Gesetzliche Vertretung
 
@@ -8491,11 +10291,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1034-abgb--gesetzliche-vertretung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_900_TextContainer_900) \]
 
+----
+
 ### § 1035 ABGB — Geschäftsführung ohne Auftrag;
 
 > Wer weder durch ausdrücklichen oder stillschweigenden Vertrag, noch vom Gerichte, noch aus dem Gesetze das Befugniß erhalten hat, darf der Regel nach sich in das Geschäft eines Andern nicht mengen\. Hätte er sich dessen angemaßt; so ist er für alle Folgen verantwortlich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1035-abgb--geschäftsführung-ohne-auftrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_901_TextContainer_901) \]
+
+----
 
 ### § 1036 ABGB — im Nothfalle;
 
@@ -8503,11 +10307,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1036-abgb--im-nothfalle) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_902_TextContainer_902) \]
 
+----
+
 ### § 1037 ABGB — oder zum Nutzen des Andern;
 
 > Wer fremde Geschäfte bloß, um den Nutzen des Andern zu befördern, übernehmen will, soll sich um dessen Einwilligung bewerben\. Hat der Geschäftsführer zwar diese Vorschrift unterlassen, aber das Geschäft auf seine Kosten zu des Andern klarem, überwiegenden Vortheile geführet; so müssen ihm von diesem die darauf verwendeten Kosten ersetzt werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1037-abgb--oder-zum-nutzen-des-andern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_903_TextContainer_903) \]
+
+----
 
 ### § 1038 ABGB
 
@@ -8515,11 +10323,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1038-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_904_TextContainer_904) \]
 
+----
+
 ### § 1039 ABGB
 
 > Wer ein fremdes Geschäft ohne Auftrag auf sich genommen hat, muß es bis zur Vollendung fortsetzen, und gleich einem Bevollmächtigten genaue Rechnung darüber ablegen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1039-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_905_TextContainer_905) \]
+
+----
 
 ### § 1040 ABGB — gegen den Willen des Andern
 
@@ -8527,11 +10339,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1040-abgb--gegen-den-willen-des-andern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_906_TextContainer_906) \]
 
+----
+
 ### § 1041 ABGB — Verwendung einer Sache zum Nutzen des Andern
 
 > Wenn ohne Geschäftsführung eine Sache zum Nutzen eines Andern verwendet worden ist; kann der Eigenthümer sie in Natur, oder, wenn dieß nicht mehr geschehen kann, den Werth verlangen, den sie zur Zeit der Verwendung gehabt hat, obgleich der Nutzen in der Folge vereitelt worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1041-abgb--verwendung-einer-sache-zum-nutzen-des-andern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_907_TextContainer_907) \]
+
+----
 
 ### § 1042 ABGB
 
@@ -8539,17 +10355,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1042-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_908_TextContainer_908) \]
 
+----
+
 ### § 1043 ABGB
 
 > Hat jemand in einem Nothfalle, um einen größern Schaden von sich und Andern abzuwenden, sein Eigenthum aufgeopfert; so müssen ihn Alle, welche daraus Vortheil zogen, verhältnißmäßig entschädigen\. Die ausführlichere Anwendung dieser Vorschrift auf Seegefahren ist ein Gegenstand der Seegesetze\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1043-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_909_TextContainer_909) \]
 
+----
+
 ### § 1044 ABGB
 
 > Die Vertheilung der Kriegsschäden wird nach besondern Vorschriften von den politischen Behörden bestimmt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1044-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_910_TextContainer_910) \]
+
+----
 
 ## Drey u. zwanzigstes Hauptstück.
 
@@ -8561,11 +10383,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1045-abgb--tausch) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_911_TextContainer_911) \]
 
+----
+
 ### § 1046 ABGB
 
 > Das Geld ist kein Gegenstand des Tauschvertrages; doch lassen sich Gold und Silber als eine Waare, und selbst als Münz\-Sorten in so weit vertauschen; als sie nur gegen andere Münz\-Sorten, goldene nähmlich gegen silberne, kleinere gegen größere Stücke verwechselt werden sollen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1046-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_912_TextContainer_912) \]
+
+----
 
 ### § 1047 ABGB — Rechte und Pflichten der Tauschenden;
 
@@ -8573,11 +10399,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1047-abgb--rechte-und-pflichten-der-tauschenden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_913_TextContainer_913) \]
 
+----
+
 ### § 1048 ABGB — insbesondere in Rücksicht der Gefahr,
 
 > Ist eine Zeit bedungen, zu welcher die Uebergabe geschehen soll, und wird in der Zwischenzeit entweder die vertauschte bestimmte Sache durch Verboth außer Verkehr gesetzt, oder zufälliger Weise ganz, oder doch über die Hälfte am Werthe zu Grunde gerichtet, so ist der Tausch für nicht geschlossen anzusehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1048-abgb--insbesondere-in-rücksicht-der-gefahr) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_914_TextContainer_914) \]
+
+----
 
 ### § 1049 ABGB
 
@@ -8585,11 +10415,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1049-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_915_TextContainer_915) \]
 
+----
+
 ### § 1050 ABGB — und der Nutzungen vor der Übergabe
 
 > Dem Besitzer gebühren die Nutzungen der vertauschten Sache bis zur bedungenen Zeit der Uebergabe\. Von dieser Zeit an gebühren sie, sammt dem Zuwachse, dem Uebernehmer, obgleich die Sache noch nicht übergeben worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1050-abgb--und-der-nutzungen-vor-der-übergabe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_916_TextContainer_916) \]
+
+----
 
 ### § 1051 ABGB
 
@@ -8597,11 +10431,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1051-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_917_TextContainer_917) \]
 
+----
+
 ### § 1052 ABGB
 
 > Wer auf die Übergabe dringen will, muß seine Verbindlichkeit erfüllt haben oder sie zu erfüllen bereit sein\. Auch der zur Vorausleistung Verpflichtete kann seine Leistung bis zur Bewirkung oder Sicherstellung der Gegenleistung verweigern, wenn diese durch schlechte Vermögensverhältnisse des anderen Teiles gefährdet ist, die ihm zur Zeit des Vertragsabschlusses nicht bekannt sein mußten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1052-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_918_TextContainer_918) \]
+
+----
 
 ## Vier u. zwanzigstes Hauptstück.
 
@@ -8613,11 +10451,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1053-abgb--kaufvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_919_TextContainer_919) \]
 
+----
+
 ### § 1054 ABGB — Erfordernisse des Kaufvertrages
 
 > Wie die Einwilligung des Käufers und Verkäufers beschaffen seyn müsse, und welche Sachen gekauft und verkauft werden dürfen, dieses wird nach den Regeln der Verträge überhaupt bestimmt\. Der Kaufpreis muß im barem Gelde bestehen, und darf weder unbestimmt, noch gesetzwidrig seyn\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1054-abgb--erfordernisse-des-kaufvertrages) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_920_TextContainer_920) \]
+
+----
 
 ## Der Kaufpreis muß
 
@@ -8627,11 +10469,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1055-abgb--a-in-barem-gelde-bestehen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_921_TextContainer_921) \]
 
+----
+
 ### § 1056 ABGB — b) bestimmt;
 
 > Käufer und Verkäufer können die Festsetzung des Preises auch einer dritten bestimmten Person überlassen\. Wird von dieser in dem bedungenen Zeitraume nichts festgesetzt; oder will im Falle, daß kein Zeitraum bedungen worden ist, ein Theil vor der Bestimmung des Preises zurücktreten; so wird der Kaufvertrag als nicht geschlossen angesehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1056-abgb--b-bestimmt) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_922_TextContainer_922) \]
+
+----
 
 ### § 1057 ABGB
 
@@ -8639,11 +10485,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1057-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_923_TextContainer_923) \]
 
+----
+
 ### § 1058 ABGB
 
 > Auch der Werth, welcher bey einer früheren Veräußerung bedungen worden ist, kann zur Bestimmung des Preises dienen\. Hat man den ordentlichen Marktpreis zum Grunde gelegt, so wird der mittlere Marktpreis des Ortes und der Zeit, wo und in welcher der Vertrag erfüllet werden muß, angenommen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1058-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_924_TextContainer_924) \]
+
+----
 
 ### § 1059 ABGB — c) nicht gesetzwidrig sein
 
@@ -8651,11 +10501,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1059-abgb--c-nicht-gesetzwidrig-sein) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_925_TextContainer_925) \]
 
+----
+
 ### § 1060 ABGB
 
 > Außer diesem Falle kann der Kauf sowohl von dem Käufer als Verkäufer nur wegen Verletzung über die Hälfte bestritten werden \(§§\. 934 – 935\)\. Diese Beschwerde findet auch dann Statt, wenn der Ausspruch des Kaufpreises einem Dritten überlassen worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1060-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_926_TextContainer_926) \]
+
+----
 
 ### § 1061 ABGB — Pflichten des Verkäufers,
 
@@ -8663,11 +10517,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1061-abgb--pflichten-des-verkäufers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_927_TextContainer_927) \]
 
+----
+
 ### § 1062 ABGB — und des Käufers
 
 > Der Käufer hingegen ist verbunden, die Sache sogleich, oder zur bedungenen Zeit zu übernehmen, zugleich aber auch das Kaufgeld bar abzuführen; widrigen Falls ist der Verkäufer ihm die Uebergabe der Sache zu verweigern berechtiget\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1062-abgb--und-des-käufers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_928_TextContainer_928) \]
+
+----
 
 ### § 1063 ABGB
 
@@ -8675,11 +10533,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1063-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_929_TextContainer_929) \]
 
+----
+
 ### § 1063a ABGB
 
 > Die Kosten der Übergabe der verkauften Ware, insbesondere die Kosten des Messens und des Wägens, fallen dem Verkäufer zur Last, die Kosten der Abnahme und der Versendung der Sache an einen anderen Ort als den Erfüllungsort aber dem Käufer\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1063a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_930_TextContainer_930) \]
+
+----
 
 ### § 1063b ABGB
 
@@ -8687,11 +10549,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1063b-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_931_TextContainer_931) \]
 
+----
+
 ### § 1064 ABGB — Gefahr und Nutzen des Kaufgegenstandes
 
 > In Rücksicht der Gefahr und Nutzungen einer zwar gekauften, aber noch nicht übergebenen Sache gelten die nähmlichen Vorschriften, die bey dem Tauschvertrage gegeben worden sind \(§§\. 1048 – 1051\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1064-abgb--gefahr-und-nutzen-des-kaufgegenstandes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_932_TextContainer_932) \]
+
+----
 
 ### § 1065 ABGB — Kauf einer gehofften Sache
 
@@ -8699,11 +10565,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1065-abgb--kauf-einer-gehofften-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_933_TextContainer_933) \]
 
+----
+
 ### § 1066 ABGB — Allgemeine Vorschrift
 
 > In allen bey einem Kaufvertrage vorkommenden Fällen, welche in dem Gesetze nicht ausdrücklich entschieden werden, sind die in den Hauptstücken von Verträgen überhaupt, und von dem Tauschvertrage insbesondere aufgestellten Vorschriften anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1066-abgb--allgemeine-vorschrift) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_934_TextContainer_934) \]
+
+----
 
 ### § 1067 ABGB — Besondere Arten oder Nebenverträge eines Kaufvertrages
 
@@ -8711,11 +10581,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1067-abgb--besondere-arten-oder-nebenverträge-eines-kaufvertrages) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_935_TextContainer_935) \]
 
+----
+
 ### § 1068 ABGB — Verkauf mit Vorbehalt des Wiederkaufes
 
 > Das Recht eine verkaufte Sache wieder einzulösen, heißt das Recht des Wiederkaufes\. Ist dieses Recht dem Verkäufer überhaupt und ohne nähere Bestimmung eingeräumt, so wird von einer Seite das Kaufstück in einem nicht verschlimmerten Zustande; von der andern Seite aber das erlegte Kaufgeld zurück gegeben, und die inzwischen beyderseits aus dem Gelde und der Sache gezogenen Nutzungen bleiben gegen einander aufgehoben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1068-abgb--verkauf-mit-vorbehalt-des-wiederkaufes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_936_TextContainer_936) \]
+
+----
 
 ### § 1069 ABGB
 
@@ -8723,11 +10597,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1069-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_937_TextContainer_937) \]
 
+----
+
 ### § 1070 ABGB
 
 > Der Vorbehalt des Wiederkaufes findet nur bei unbeweglichen Sachen statt und gebührt dem Verkäufer nur für seine Lebenszeit\. Er kann sein Recht weder auf die Erben noch auf einen anderen übertragen\. Ist das Recht in die öffentlichen Bücher einverleibt, so kann die Sache auch einem Dritten abgefordert werden und dieser wird nach Beschaffenheit seines redlichen oder unredlichen Besitzes behandelt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1070-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_938_TextContainer_938) \]
+
+----
 
 ### § 1071 ABGB — Kauf mit Vorbehalt des Rückverkaufes
 
@@ -8735,11 +10613,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1071-abgb--kauf-mit-vorbehalt-des-rückverkaufes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_939_TextContainer_939) \]
 
+----
+
 ### § 1072 ABGB — Vorbehalt des Vorkaufsrechtes
 
 > Wer eine Sache mit der Bedingung verkauft, daß der Käufer, wenn er solche wieder verkaufen will, ihm die Einlösung anbiethen soll, der hat das Vorkaufsrecht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1072-abgb--vorbehalt-des-vorkaufsrechtes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_940_TextContainer_940) \]
+
+----
 
 ### § 1073 ABGB
 
@@ -8747,11 +10629,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1073-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_941_TextContainer_941) \]
 
+----
+
 ### § 1074 ABGB
 
 > Auch kann das Vorkaufsrecht weder einem Dritten abgetreten, noch auf die Erben des Berechtigten übertragen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1074-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_942_TextContainer_942) \]
+
+----
 
 ### § 1075 ABGB
 
@@ -8759,11 +10645,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1075-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_943_TextContainer_943) \]
 
+----
+
 ### § 1076 ABGB
 
 > Das Vorkaufsrecht hat im Falle einer gerichtlichen Feilbiethung der mit diesem Rechte belasteten Sachen keine andere Wirkung, als daß der den öffentlichen Büchern einverleibte Berechtigte zur Feilbiethung insbesondere vorgeladen werden muß\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1076-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_944_TextContainer_944) \]
+
+----
 
 ### § 1077 ABGB
 
@@ -8771,11 +10661,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1077-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_945_TextContainer_945) \]
 
+----
+
 ### § 1078 ABGB
 
 > Das Vorkaufsrecht läßt sich auf andere Veräußerungsarten ohne eine besondere Verabredung nicht ausdehnen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1078-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_946_TextContainer_946) \]
+
+----
 
 ### § 1079 ABGB
 
@@ -8783,11 +10677,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1079-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_947_TextContainer_947) \]
 
+----
+
 ### § 1080 ABGB — Kauf auf die Probe
 
 > Der Kauf auf Probe ist unter der im Belieben des Käufers stehenden Bedingung geschlossen, daß er die Ware genehmige\. Die Bedingung ist im Zweifel eine aufschiebende; der Käufer ist vor der Genehmigung an den Kauf nicht gebunden, der Verkäufer hört auf, gebunden zu sein, wenn der Käufer bis zum Ablaufe der Probezeit nicht genehmigt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1080-abgb--kauf-auf-die-probe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_948_TextContainer_948) \]
+
+----
 
 ### § 1081 ABGB
 
@@ -8795,11 +10693,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1081-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_949_TextContainer_949) \]
 
+----
+
 ### § 1082 ABGB
 
 > Ist bei einem Kauf auf Probe keine Probezeit vereinbart worden, so kann der Verkäufer dem Käufer eine angemessene Frist als Probezeit setzen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1082-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_950_TextContainer_950) \]
+
+----
 
 ### § 1083 ABGB — Verkauf mit Vorbehalt eines besseren Käufers
 
@@ -8807,11 +10709,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1083-abgb--verkauf-mit-vorbehalt-eines-besseren-käufers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_951_TextContainer_951) \]
 
+----
+
 ### § 1084 ABGB
 
 > Ist das Kaufstück übergeben worden, so ist der Kaufvertrag abgeschlossen; er wird aber durch den Eintritt der Bedingung wieder aufgelöset\. Bey dem Mangel einer ausdrücklichen Zeitbestimmung wird der bey dem Kaufe auf die Probe angenommene Zeitraum vermuthet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1084-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_952_TextContainer_952) \]
+
+----
 
 ### § 1085 ABGB
 
@@ -8819,11 +10725,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1085-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_953_TextContainer_953) \]
 
+----
+
 ### § 1086 ABGB — Verkaufsauftrag
 
 > Wenn jemand seine bewegliche Sache einem Andern für einen gewissen Preis zum Verkaufe übergibt, mit der Bedingung, daß ihm der Uebernehmer binnen einer festgesetzten Zeit entweder das bestimmte Kaufgeld liefern oder die Sache zurückstellen soll; so ist der Uebergeber vor Verlauf der Zeit die Sache zurück zu fordern nicht berechtiget; der Uebernehmer aber muß nach deren Ablauf das bestimmte Kaufgeld entrichten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1086-abgb--verkaufsauftrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_954_TextContainer_954) \]
+
+----
 
 ### § 1087 ABGB
 
@@ -8831,17 +10741,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1087-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_955_TextContainer_955) \]
 
+----
+
 ### § 1088 ABGB
 
 > Ist die Sache unbeweglich; oder ist der Preis, oder die Zahlungsfrist nicht bestimmt; so wird der Uebernehmer wie ein Gewalthaber angesehen\. In keinem Falle kann die zum Verkaufe anvertraute Sache dem Dritten, welcher sie von dem Uebernehmer redlicher Weise an sich gebracht hat, abgefordert werden \(§\. 367\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1088-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_956_TextContainer_956) \]
 
+----
+
 ### § 1089 ABGB
 
 > Auch bey gerichtlichen Verkäufen finden die über Verträge, und den Tausch\- und Kaufvertrag insbesondere aufgestellten Vorschriften in der Regel Statt; in so fern nicht in diesem Gesetze, oder in der Gerichtsordnung eigene Anordnungen enthalten sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1089-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_957_TextContainer_957) \]
+
+----
 
 ## Fünf u. zwanzigstes Hauptstück.
 
@@ -8853,11 +10769,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1090-abgb--bestandvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_958_TextContainer_958) \]
 
+----
+
 ### § 1091 ABGB — I) Mieth- und Pachtvertrag
 
 > Der Bestandvertrag wird, wenn sich die in Bestand gegebene Sache ohne weitere Bearbeitung gebrauchen läßt, ein Miethvertrag; wenn sie aber nur durch Fleiß und Mühe benützt werden kann, ein Pachtvertrag genannt\. Werden durch einen Vertrag Sachen von der ersten und zweyten Art zugleich in Bestand gegeben; so ist der Vertrag nach der Beschaffenheit der Hauptsache zu beurtheilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1091-abgb--i-mieth--und-pachtvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_959_TextContainer_959) \]
+
+----
 
 ### § 1092 ABGB — Erfordernisse
 
@@ -8865,11 +10785,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1092-abgb--erfordernisse) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_960_TextContainer_960) \]
 
+----
+
 ### § 1093 ABGB
 
 > Der Eigenthümer kann sowohl seine beweglichen und unbeweglichen Sachen, als seine Rechte in Bestand geben; er kann aber auch in den Fall kommen, den Gebrauch seiner eigenen Sache, wenn er einem Dritten gebührt, in Bestand zu nehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1093-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_961_TextContainer_961) \]
+
+----
 
 ### § 1094 ABGB — Wirkung
 
@@ -8877,11 +10801,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1094-abgb--wirkung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_962_TextContainer_962) \]
 
+----
+
 ### § 1095 ABGB
 
 > Wenn ein Bestandvertrag in die öffentlichen Bücher eingetragen ist; so ist das Recht des Bestandnehmers als ein dingliches Recht zu betrachten, welches sich auch der nachfolgende Besitzer auf die noch übrige Zeit gefallen lassen muß\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1095-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_963_TextContainer_963) \]
+
+----
 
 ## Wechselseitige Rechte:
 
@@ -8893,11 +10821,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1096-abgb--1-in-hinsicht-auf-ueberlassung-erhaltung-benützung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_964_TextContainer_964) \]
 
+----
+
 ### § 1097 ABGB
 
 > Werden Ausbesserungen nötig, welche dem Bestandgeber obliegen, so ist der Bestandnehmer bei sonstigem Schadenersatz verpflichtet, dem Bestandgeber ohne Verzug Anzeige zu machen\. Der Bestandnehmer wird als ein Geschäftsführer ohne Auftrag betrachtet, wenn er auf das Bestandstück einen dem Bestandgeber obliegenden Aufwand \(§ 1036\) oder einen nützlichen Aufwand \(§ 1037\) gemacht hat; er muß aber den Ersatz längstens binnen sechs Monaten nach Zurückstellung des Bestandstückes gerichtlich fordern, sonst ist die Klage erloschen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1097-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_965_TextContainer_965) \]
+
+----
 
 ### § 1098 ABGB
 
@@ -8905,17 +10837,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1098-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_966_TextContainer_966) \]
 
+----
+
 ### § 1099 ABGB — 2) Lasten;
 
 > Bey Vermiethungen trägt alle Lasten und Abgaben der Vermiether\. Bey eigentlichen Pachtungen, wenn sie in Pausch und Bogen geschehen, übernimmt der Pächter mit Ausschluß der eingetragenen Hypothecar\-Lasten, alle übrige; wird aber die Pachtung nach einem Anschlage geschlossen, so trägt er jene Lasten, welche von dem Ertrage abgezogen worden sind, oder bloß von den Früchten, und nicht von dem Grunde selbst entrichtet werden müssen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1099-abgb--2-lasten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_967_TextContainer_967) \]
 
+----
+
 ### § 1100 ABGB — 3) Zins
 
 > Ist nichts anderes vereinbart oder ortsüblich, so ist der Zins, wenn eine Sache auf ein oder mehrere Jahre in Bestand genommen wird, halbjährlich, bei einer kürzeren Bestandzeit hingegen nach Verlauf derselben zu entrichten\. Bei der Raummiete ist der Zins monatlich, und zwar jeweils am Fünften des Monats, zu entrichten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1100-abgb--3-zins) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_968_TextContainer_968) \]
+
+----
 
 ### § 1101 ABGB
 
@@ -8927,11 +10865,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1101-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_969_TextContainer_969) \]
 
+----
+
 ### § 1102 ABGB
 
 > Der Bestandgeber kann sich zwar die Vorausbezahlung des Bestandzinses bedingen\. Hat aber der Bestandnehmer mehr als eine Fristzahlung voraus geleistet, so kann er dieselbe einem später eingetragenen Gläubiger oder neuen Eigentümer nur dann entgegensetzen, wenn sie in dem öffentlichen Buch ersichtlich gemacht ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1102-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_970_TextContainer_970) \]
+
+----
 
 ### § 1103 ABGB — Zins in Früchten
 
@@ -8939,11 +10881,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1103-abgb--zins-in-früchten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_971_TextContainer_971) \]
 
+----
+
 ### § 1104 ABGB — Fälle und Bedingungen einer Erlassung des Zinses
 
 > Wenn die in Bestand genommene Sache wegen außerordentlicher Zufälle, als Feuer, Krieg oder Seuche, großer Überschwemmungen, Wetterschläge, oder wegen gänzlichen Mißwachses gar nicht gebraucht oder benutzt werden kann, so ist der Bestandgeber zur Wiederherstellung nicht verpflichtet, doch ist auch kein Miet\- oder Pachtzins zu entrichten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1104-abgb--fälle-und-bedingungen-einer-erlassung-des-zinses) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_972_TextContainer_972) \]
+
+----
 
 ### § 1105 ABGB
 
@@ -8951,11 +10897,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1105-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_973_TextContainer_973) \]
 
+----
+
 ### § 1106 ABGB
 
 > Hat der Bestandnehmer unbestimmt alle Gefahren auf sich genommen; so werden darunter nur die Feuer\-, und Wasserschäden und Wetterschläge verstanden\. Andere außerordentliche Unglücksfälle kommen nicht auf seine Gefahr\. Verbindet er sich aber ausdrücklich, auch alle andere außerordentliche Unglücksfälle zu tragen; so wird deßwegen noch nicht vermuthet, daß er auch für den zufälligen Untergang des ganzen Pachtstückes haften wolle\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1106-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_974_TextContainer_974) \]
+
+----
 
 ### § 1107 ABGB
 
@@ -8963,11 +10913,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1107-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_975_TextContainer_975) \]
 
+----
+
 ### § 1108 ABGB
 
 > Behauptet der Pächter den Erlaß des ganzen Pachtzinses oder eines Theiles davon entweder aus dem Vertrage oder aus dem Gesetze; so muß er dem Verpächter ohne Zeitverlust den geschehenen Unglücksfall anzeigen, und die Begebenheit, wenn sie nicht landkündig ist, gerichtlich, oder wenigstens durch zwey sachkündige Männer erheben lassen; ohne diese Vorsicht wird er nicht angehört\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1108-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_976_TextContainer_976) \]
+
+----
 
 ### § 1109 ABGB — 4) Zurückstellung;
 
@@ -8975,17 +10929,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1109-abgb--4-zurückstellung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_977_TextContainer_977) \]
 
+----
+
 ### § 1110 ABGB
 
 > Wenn bey dem Bestandvertrage kein Inventarium errichtet worden ist; so tritt die nähmliche Vermuthung, wie bey der Fruchtnießung \(§\. 518\) ein\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1110-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_978_TextContainer_978) \]
 
+----
+
 ### § 1111 ABGB
 
 > Wird das Mieth\- oder Pachtstück beschädiget, oder durch Mißbrauch abgenützt; so haften Miether und Pächter sowohl für ihr eigenes, als des Afterbestandnehmers Verschulden, nicht aber für den Zufall\. Doch muß der Bestandgeber den Ersatz aus dieser Haftung längstens binnen Einem Jahre nach Zurückstellung des Bestandstückes gerichtlich fordern; sonst ist das Recht erloschen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1111-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_979_TextContainer_979) \]
+
+----
 
 ## 5) Auflösung des Bestandvertrages:
 
@@ -8995,11 +10955,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1112-abgb--a-durch-untergang-der-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_980_TextContainer_980) \]
 
+----
+
 ### § 1113 ABGB — b) Verlauf der Zeit;
 
 > Der Bestandvertrag erlischt auch durch den Verlauf der Zeit, welcher ausdrücklich oder stillschweigend, entweder durch den nach einem gewissen Zeitraume ausgemessenen Zins, wie bey so genannten Tag\- Wochen\- und Monathzimmern, oder durch die erklärte, oder aus den Umständen hervorleuchtende Absicht des Bestandnehmers bedungen worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1113-abgb--b-verlauf-der-zeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_981_TextContainer_981) \]
+
+----
 
 ### § 1114 ABGB — Wenn keine Erneuerung geschieht;
 
@@ -9007,11 +10971,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1114-abgb--wenn-keine-erneuerung-geschieht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_982_TextContainer_982) \]
 
+----
+
 ### § 1115 ABGB
 
 > Die stillschweigende Erneuerung des Bestandvertrages geschieht unter den nähmlichen Bedingungen, unter welchen er vorher geschlossen war\. Doch erstreckt sie sich bey Pachtungen nur auf Ein Jahr; wenn aber der ordentliche Genuß erst in einem späteren Zeitraume erfolgen kann, auf eine so lange Zeit, als nothwendig ist, um die Nutzungen einmahl beziehen zu können\. Miethungen, wofür man den Zins erst nach einem ganzen oder halben Jahre zu bezahlen pflegt, werden auf ein halbes Jahr; alle kürzere Miethungen aber auf diejenige Zeit stillschweigend erneuert, welche vorher durch den Bestandvertrag bestimmt war\. Von wiederhohlten Erneuerungen gilt das Nähmliche, was hier in Rücksicht der ersten Erneuerung vorgeschrieben ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1115-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_983_TextContainer_983) \]
+
+----
 
 ### § 1116 ABGB — c) Aufkündigung;
 
@@ -9019,11 +10987,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1116-abgb--c-aufkündigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_984_TextContainer_984) \]
 
+----
+
 ### § 1116a ABGB
 
 > Durch den Tod eines der vertragschließenden Teile wird der Bestandvertrag nicht aufgehoben\. Wohnungsmieten können jedoch, wenn der Mieter stirbt, ohne Rücksicht auf die vereinbarte Dauer sowohl von den Erben des Mieters wie von dem Vermieter unter Einhaltung der gesetzlichen Kündigungsfrist gelöst werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1116a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_985_TextContainer_985) \]
+
+----
 
 ### § 1117 ABGB
 
@@ -9031,11 +11003,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1117-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_986_TextContainer_986) \]
 
+----
+
 ### § 1118 ABGB
 
 > Der Bestandgeber kann seinerseits die frühere Aufhebung des Vertrages fordern, wenn der Bestandnehmer der Sache einen erheblichen nachtheiligen Gebrauch davon macht; wenn er nach geschehener Einmahnung mit der Bezahlung des Zinses dergestalt säumig ist, daß er mit Ablauf des Termins den rückständigen Bestandzins nicht vollständig entrichtet hat; oder, wenn ein vermiethetes Gebäude neu aufgeführt werden muß\. Eine nützlichere Bauführung ist der Miether zu seinem Nachtheile zuzulassen nicht schuldig, wohl aber nothwendige Ausbesserungen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1118-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_987_TextContainer_987) \]
+
+----
 
 ### § 1119 ABGB
 
@@ -9043,17 +11019,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1119-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_988_TextContainer_988) \]
 
+----
+
 ### § 1120 ABGB — d) Veräußerung der Sache;
 
 > Hat der Eigenthümer das Bestandstück an einen Andern veräußert, und ihm bereits übergeben; so muß der Bestandinhaber, wenn sein Recht nicht in die öffentlichen Bücher eingetragen ist \(§\. 1095\), nach der gehörigen Aufkündigung dem neuen Besitzer weichen\. Er ist aber berechtiget, von dem Bestandgeber in Rücksicht auf den erlittenen Schaden, und entgangenen Nutzen eine vollkommene Genugthuung zu fordern\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1120-abgb--d-veräußerung-der-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_989_TextContainer_989) \]
 
+----
+
 ### § 1121 ABGB
 
 > Bei einer zwangsweisen gerichtlichen Veräußerung ist das Bestandrecht, wenn es in die öffentlichen Bücher eingetragen ist, gleich einer Dienstbarkeit zu behandeln\. Hat der Ersteher das Bestandrecht nicht zu übernehmen, so muß ihm der Bestandnehmer nach gehöriger Aufkündigung weichen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1121-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_990_TextContainer_990) \]
+
+----
 
 ## Sechs u. zwanzigstes Hauptstück.
 
@@ -9067,17 +11049,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1151-abgb--dienst--und-werkvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_991_TextContainer_991) \]
 
+----
+
 ### § 1152 ABGB
 
 > Ist im Vertrage kein Entgelt bestimmt und auch nicht Unentgeltlichkeit vereinbart, so gilt ein angemessenes Entgelt als bedungen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1152-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_992_TextContainer_992) \]
 
+----
+
 ### § 1153 ABGB — 1. Dienstvertrag
 
 > Wenn sich aus dem Dienstvertrage oder aus den Umständen nichts anderes ergibt, hat der Dienstnehmer die Dienste in eigener Person zu leisten und ist der Anspruch auf die Dienste nicht übertragbar\. Soweit über Art und Umfang der Dienste nichts vereinbart ist, sind die den Umständen nach angemessenen Dienste zu leisten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1153-abgb--1-dienstvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_993_TextContainer_993) \]
+
+----
 
 ### § 1154 ABGB — Anspruch auf das Entgelt
 
@@ -9089,11 +11077,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1154-abgb--anspruch-auf-das-entgelt) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_994_TextContainer_994) \]
 
+----
+
 ### § 1154a ABGB
 
 > Der nach Stück oder Einzelleistungen entlohnte Dienstnehmer kann einen den geleisteten Diensten und seinen Auslagen entsprechenden Vorschuß vor Fälligkeit des Entgelts verlangen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1154a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_995_TextContainer_995) \]
+
+----
 
 ### § 1154b ABGB
 
@@ -9113,6 +11105,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1154b-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_996_TextContainer_996) \]
 
+----
+
 ### § 1155 ABGB
 
 > `(1)` Auch für Dienstleistungen, die nicht zustande gekommen sind, gebührt dem Dienstnehmer das Entgelt, wenn er zur Leistung bereit war und durch Umstände, die auf Seite des Dienstgebers liegen, daran verhindert worden ist; er muß sich jedoch anrechnen, was er infolge Unterbleibens der Dienstleistung erspart oder durch anderweitige Verwendung erworben oder zu erwerben absichtlich versäumt hat\.
@@ -9122,11 +11116,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1155-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_997_TextContainer_997) \]
 
+----
+
 ### § 1156 ABGB — Erlöschen der Ansprüche
 
 > Die dem Dienstgeber nach § 1154b obliegenden Verpflichtungen erlöschen, wenn das Dienstverhältnis infolge Ablaufes der Zeit, für die es eingegangen wurde, oder infolge einer früheren Kündigung oder einer Entlassung endet, die nicht durch die Erkrankung oder sonstige die Person des Dienstnehmers betreffende wichtige Gründe im Sinne des § 1154b verursacht ist\. Wird der Dienstnehmer wegen der Verhinderung entlassen oder wird ihm während der Verhinderung gekündigt, so bleibt die dadurch herbeigeführte Beendigung des Dienstverhältnisses in Ansehung der bezeichneten Ansprüche außer Betracht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1156-abgb--erlöschen-der-ansprüche) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_998_TextContainer_998) \]
+
+----
 
 ### § 1157 ABGB — Fürsorgepflicht des Dienstgebers
 
@@ -9135,6 +11133,8 @@
 > `(2)` Ist der Dienstnehmer in die Hausgemeinschaft des Dienstgebers aufgenommen, so hat dieser in Ansehung des Wohn\- und Schlafraumes, der Verpflegung sowie der Arbeits\- und Erholungszeit die mit Rücksicht auf Gesundheit, Sittlichkeit und Religion des Dienstnehmers erforderlichen Anordnungen zu treffen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1157-abgb--fürsorgepflicht-des-dienstgebers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_999_TextContainer_999) \]
+
+----
 
 ### § 1158 ABGB — Endigung des Dienstverhältnisses
 
@@ -9146,6 +11146,8 @@
 > *\(Anm\.: Abs\. 4 aufgehoben durch Art\. 6 Z 2, BGBl\. I Nr\. 153/2017\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1158-abgb--endigung-des-dienstverhältnisses) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1000_TextContainer_1000) \]
+
+----
 
 ### § 1159 ABGB — Kündigung
 
@@ -9161,6 +11163,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1159-abgb--kündigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1001_TextContainer_1001) \]
 
+----
+
 ### § 1160 ABGB — Freizeit während der Kündigungsfrist
 
 > `(1)` Bei Kündigung durch den Dienstgeber ist dem Dienstnehmer während der Kündigungsfrist auf sein Verlangen wöchentlich mindestens ein Fünftel der regelmäßigen wöchentlichen Arbeitszeit ohne Schmälerung des Entgelts freizugeben\.
@@ -9171,11 +11175,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1160-abgb--freizeit-während-der-kündigungsfrist) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1002_TextContainer_1002) \]
 
+----
+
 ### § 1161 ABGB — Insolvenzverfahren
 
 > Welche Wirkungen die Eröffnung des Insolvenzverfahrens über das Vermögen des Dienstgebers auf das Dienstverhältnis hat, bestimmt die Insolvenzordnung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1161-abgb--insolvenzverfahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1003_TextContainer_1003) \]
+
+----
 
 ### § 1162 ABGB — Vorzeitige Auflösung
 
@@ -9183,11 +11191,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1162-abgb--vorzeitige-auflösung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1004_TextContainer_1004) \]
 
+----
+
 ### § 1162a ABGB
 
 > Wenn der Dienstnehmer ohne wichtigen Grund vorzeitig austritt, kann der Dienstgeber entweder dessen Wiedereintritt zur Dienstleistung nebst Schadenersatz oder Schadenersatz wegen Nichterfüllung des Vertrages verlangen\. Wird der Dienstnehmer wegen eines Verschuldens vorzeitig entlassen, so hat er Schadenersatz wegen Nichterfüllung des Vertrages zu leisten\. Für die schon bewirkten Leistungen, deren Entgelt noch nicht fällig ist, steht dem Dienstnehmer ein Anspruch auf den entsprechenden Teil des Entgelts nur insoweit zu, als sie nicht durch die vorzeitige Auflösung des Dienstverhältnisses für den Dienstgeber ihren Wert ganz oder zum größten Teil eingebüßt haben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1162a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1005_TextContainer_1005) \]
+
+----
 
 ### § 1162b ABGB
 
@@ -9195,17 +11207,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1162b-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1006_TextContainer_1006) \]
 
+----
+
 ### § 1162c ABGB
 
 > Trifft beide Teile ein Verschulden an der vorzeitigen Lösung des Dienstverhältnisses, so hat der Richter nach freiem Ermessen zu entscheiden, ob und in welcher Höhe ein Ersatz gebührt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1162c-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1007_TextContainer_1007) \]
 
+----
+
 ### § 1162d ABGB
 
 > Ansprüche wegen vorzeitigen Austrittes oder vorzeitiger Entlassung im Sinne der §§ 1162a und 1162b müssen bei sonstigem Ausschlusse binnen sechs Monaten nach Ablauf des Tages, an dem sie erhoben werden konnten, gerichtlich geltend gemacht werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1162d-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1008_TextContainer_1008) \]
+
+----
 
 ### § 1163 ABGB — Zeugnis
 
@@ -9214,6 +11232,8 @@
 > `(2)` Zeugnisse des Dienstnehmers, die sich in Verwahrung des Dienstgebers befinden, sind dem Dienstnehmer auf Verlangen jederzeit auszufolgen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1163-abgb--zeugnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1009_TextContainer_1009) \]
+
+----
 
 ### § 1164 ABGB — Zwingende Vorschriften
 
@@ -9226,6 +11246,8 @@
 > `(4)` Im Zeitpunkt des Inkrafttretens des Bundesgesetzes BGBl\. I Nr\. 44/2000 für die Dienstnehmer günstigere Regelungen in Dienstverträgen oder in Normen der kollektiven Rechtsgestaltung werden durch die Neuregelung des Bundesgesetzes BGBl\. I Nr\. 44/2000 nicht berührt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1164-abgb--zwingende-vorschriften) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1010_TextContainer_1010) \]
+
+----
 
 ### § 1164a ABGB — Dienstzettel für das freie Dienstverhältnis
 
@@ -9275,11 +11297,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1164a-abgb--dienstzettel-für-das-freie-dienstverhältnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1011_TextContainer_1011) \]
 
+----
+
 ### § 1165 ABGB — 2. Werkvertrag
 
 > Der Unternehmer ist verpflichtet, das Werk persönlich oder unter seiner persönlichen Verantwortung ausführen zu lassen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1165-abgb--2-werkvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1012_TextContainer_1012) \]
+
+----
 
 ### § 1166 ABGB
 
@@ -9287,11 +11313,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1166-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1013_TextContainer_1013) \]
 
+----
+
 ### § 1167 ABGB — Gewährleistung
 
 > Bei Mängeln des Werkes kommen die für entgeltliche Verträge überhaupt geltenden Bestimmungen \(§§ 922 bis 933b\) zur Anwendung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1167-abgb--gewährleistung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1014_TextContainer_1014) \]
+
+----
 
 ### § 1168 ABGB — Vereitlung der Ausführung
 
@@ -9301,11 +11331,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1168-abgb--vereitlung-der-ausführung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1015_TextContainer_1015) \]
 
+----
+
 ### § 1168a ABGB
 
 > Geht das Werk vor seiner Übernahme durch einen bloßen Zufall zugrunde, so kann der Unternehmer kein Entgelt verlangen\. Der Verlust des Stoffes trifft denjenigen Teil, der ihn beigestellt hat\. Mißlingt aber das Werk infolge offenbarer Untauglichkeit des vom Besteller gegebenen Stoffes oder offenbar unrichtiger Anweisungen des Bestellers, so ist der Unternehmer für den Schaden verantwortlich, wenn er den Besteller nicht gewarnt hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1168a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1016_TextContainer_1016) \]
+
+----
 
 ### § 1169 ABGB — Fürsorgepflicht
 
@@ -9313,11 +11347,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1169-abgb--fürsorgepflicht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1017_TextContainer_1017) \]
 
+----
+
 ### § 1170 ABGB — Entrichtung des Entgelts
 
 > In der Regel ist das Entgelt nach vollendetem Werk zu entrichten\. Wird aber das Werk in gewissen Abteilungen verrichtet oder sind Auslagen damit verbunden, die der Unternehmer nicht auf sich genommen hat, so ist dieser befugt, einen verhältnismäßigen Teil des Entgelts und den Ersatz der gemachten Auslagen schon vorher zu fordern\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1170-abgb--entrichtung-des-entgelts) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1018_TextContainer_1018) \]
+
+----
 
 ### § 1170a ABGB
 
@@ -9326,6 +11364,8 @@
 > `(2)` Ist ein Voranschlag ohne Gewährleistung zugrunde gelegt und erweist sich eine beträchtliche Überschreitung als unvermeidlich, so kann der Besteller unter angemessener Vergütung der vom Unternehmer geleisteten Arbeit vom Vertrage zurücktreten\. Sobald sich eine solche Überschreitung als unvermeidlich herausstellt, hat der Unternehmer dies dem Besteller unverzüglich anzuzeigen, widrigenfalls er jeden Anspruch wegen der Mehrarbeiten verliert\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1170a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1019_TextContainer_1019) \]
+
+----
 
 ### § 1170b ABGB — Sicherstellung bei Bauverträgen
 
@@ -9337,11 +11377,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1170b-abgb--sicherstellung-bei-bauverträgen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1020_TextContainer_1020) \]
 
+----
+
 ### § 1171 ABGB — Erlöschen durch Tod
 
 > Ein Werkvertrag über Arbeiten, bei denen es auf die besonderen persönlichen Eigenschaften des Unternehmers ankommt, erlischt durch dessen Tod und seine Erben können nur den Preis für den zubereiteten brauchbaren Stoff und einen dem Werte der geleisteten Arbeit angemessenen Teil des Entgelts fordern\. Stirbt der Besteller, so bleiben die Erben an den Vertrag gebunden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1171-abgb--erlöschen-durch-tod) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1021_TextContainer_1021) \]
+
+----
 
 ### § 1172 ABGB — 3. Verlagsvertrag
 
@@ -9349,11 +11393,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1172-abgb--3-verlagsvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1022_TextContainer_1022) \]
 
+----
+
 ### § 1173 ABGB
 
 > Wurde über die Anzahl der Auflagen nichts bestimmt, so ist der Verleger nur zu einer Auflage berechtigt\. Vor dem Absatze der Auflage darf der Urheber über das Werk nur dann anderweitig verfügen, wenn er dem Verleger eine angemessene Schadloshaltung leistet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1173-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1023_TextContainer_1023) \]
+
+----
 
 ### § 1174 ABGB — 4. Leistung zu unerlaubtem Zweck
 
@@ -9362,6 +11410,8 @@
 > `(2)` Ein zum Zweck eines verbotenen Spieles gegebenes Darlehen kann nicht zurückgefordert werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1174-abgb--4-leistung-zu-unerlaubtem-zweck) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1024_TextContainer_1024) \]
+
+----
 
 ## Siebenundzwanzigstes Hauptstück
 
@@ -9383,6 +11433,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1175-abgb--begriff-und-rechtsnatur-der-gesellschaft-bürgerlichen-rechts) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1025_TextContainer_1025) \]
 
+----
+
 ### § 1176 ABGB — Innen- und Außengesellschaft
 
 > `(1)` Die Gesellschafter können die Gesellschaft auf ihr Verhältnis untereinander beschränken \(Innengesellschaft\) oder gemeinschaftlich im Rechtsverkehr auftreten \(Außengesellschaft\)\. Ist der Gegenstand der Gesellschaft der Betrieb eines Unternehmens oder führen die Gesellschafter einen gemeinsamen Gesellschaftsnamen \(§ 1177\), so wird vermutet, dass die Gesellschafter eine Außengesellschaft vereinbaren wollten\.
@@ -9390,6 +11442,8 @@
 > `(2)` Haben die Gesellschafter in den Fällen des Abs\. 1 zweiter Satz eine Außengesellschaft vertraglich ausgeschlossen, so kann dieser Umstand einem Dritten nur entgegengehalten werden, wenn dieser wusste oder hätte wissen müssen, dass es sich bloß um eine Innengesellschaft handelt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1176-abgb--innen--und-außengesellschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1026_TextContainer_1026) \]
+
+----
 
 ### § 1177 ABGB — Gesellschaftsname
 
@@ -9399,6 +11453,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1177-abgb--gesellschaftsname) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1027_TextContainer_1027) \]
 
+----
+
 ### § 1178 ABGB — Gesellschaftsvermögen
 
 > `(1)` Zum Gesellschaftsvermögen gehören das der Gesellschaft gewidmete Eigentum, die sonstigen gesellschaftsbezogenen Sachenrechte, die gesellschaftsbezogenen Vertragsverhältnisse, Forderungen und Verbindlichkeiten und die gesellschaftsbezogenen Immaterialgüterrechte sowie der jeweils daraus verschaffte Nutzen, die daraus gewonnenen Früchte und alles, was an Stelle bestehender Vermögenswerte zufließt\.
@@ -9406,6 +11462,8 @@
 > `(2)` Vom Gesellschaftsvermögen zu unterscheiden ist das sonstige Vermögen der einzelnen Gesellschafter\. Gegen eine Forderung, die zum Gesellschaftsvermögen gehört, kann der Schuldner nicht mit einer ihm gegen einen einzelnen Gesellschafter zustehenden Forderung aufrechnen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1178-abgb--gesellschaftsvermögen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1028_TextContainer_1028) \]
+
+----
 
 ### § 1179 ABGB — Einbringung des Gesellschaftsvermögens
 
@@ -9415,6 +11473,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1179-abgb--einbringung-des-gesellschaftsvermögens) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1029_TextContainer_1029) \]
 
+----
+
 ### § 1180 ABGB — Vermögensordnung
 
 > `(1)` Soweit nichts anderes vereinbart ist, stehen körperliche Sachen, die von Gesellschaftern in das Gesellschaftsvermögen übertragen oder für das Gesellschaftsvermögen \(§ 1178 Abs\. 1\) erworben worden sind, im Miteigentum der Gesellschafter; unkörperliche Sachen, insbesondere schuldrechtliche Forderungen, sind den Gesellschaftern zur gesamten Hand zugeordnet\.
@@ -9422,6 +11482,8 @@
 > `(2)` Im Gesellschaftsvertrag können der Gesellschaft Sachen auch bloß zum Gebrauch zur Verfügung gestellt oder im Innenverhältnis so behandelt werden, als ob sie allen gemeinsam gehörten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1180-abgb--vermögensordnung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1030_TextContainer_1030) \]
+
+----
 
 ## 2. Abschnitt
 
@@ -9433,6 +11495,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1181-abgb--gestaltungsfreiheit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1031_TextContainer_1031) \]
 
+----
+
 ### § 1182 ABGB — Gesellschaftsanteil und Beiträge der Gesellschafter
 
 > `(1)` Der Gesellschaftsanteil ist die Summe der gesellschaftsvertraglichen Rechte und Pflichten eines Gesellschafters gegenüber allen übrigen Gesellschaftern\. Ein Gesellschafter kann nicht ohne Zustimmung aller Gesellschafter über seinen Gesellschaftsanteil verfügen\.
@@ -9443,6 +11507,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1182-abgb--gesellschaftsanteil-und-beiträge-der-gesellschafter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1032_TextContainer_1032) \]
 
+----
+
 ### § 1183 ABGB — Verzinsungspflicht
 
 > `(1)` Ein Gesellschafter, der seine Geldeinlage nicht zur rechten Zeit einzahlt, eingenommenes Gesellschaftsgeld nicht zur rechten Zeit an das Gesellschaftsvermögen abführt oder unbefugt Geld aus dem Gesellschaftsvermögen entnimmt, hat Zinsen von dem Tag an zu entrichten, an dem die Zahlung oder die Ablieferung hätte geschehen sollen oder die Herausnahme des Geldes erfolgt ist\.
@@ -9451,6 +11517,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1183-abgb--verzinsungspflicht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1033_TextContainer_1033) \]
 
+----
+
 ### § 1184 ABGB — Nachschuss
 
 > `(1)` Die Gesellschafter sind nicht verpflichtet, Nachschüsse zur vertraglich zugesagten Einlage zu leisten\.
@@ -9458,6 +11526,8 @@
 > `(2)` Auch ohne Vereinbarung im Gesellschaftsvertrag können die Gesellschafter mit Stimmenmehrheit \(§ 1192 Abs\. 2\) die Leistung von Nachschüssen im Verhältnis ihrer Kapitalanteile beschließen, wenn die Fortführung der Gesellschaft sonst nicht möglich wäre\. Ein Gesellschafter, der dem Beschluss nicht zugestimmt hat und den Nachschuss nicht leistet, kann innerhalb angemessener Frist aus der Gesellschaft austreten oder aufgrund einer Klage der übrigen Gesellschafter vom Gericht aus der Gesellschaft ausgeschlossen werden\. Auf das Austrittsrecht kann im Vorhinein nicht verzichtet werden\. Für die Auseinandersetzung mit dem ausgetretenen oder ausgeschlossenen Gesellschafter und für die Ermittlung seiner Beteiligung an schwebenden Geschäften ist der Zeitpunkt der Beschlussfassung über die Nachschusspflicht maßgeblich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1184-abgb--nachschuss) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1034_TextContainer_1034) \]
+
+----
 
 ### § 1185 ABGB — Ersatz für Aufwendungen und Verluste, Herausgabepflicht
 
@@ -9469,6 +11539,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1185-abgb--ersatz-für-aufwendungen-und-verluste-herausgabepflicht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1035_TextContainer_1035) \]
 
+----
+
 ### § 1186 ABGB — Mitwirkung, Interessenwahrung und Gleichbehandlung
 
 > `(1)` Die Gesellschafter haben an der gesellschaftlichen Willensbildung und den zu treffenden Maßnahmen nach Kräften und mit gebotener Sorgfalt mitzuwirken, den Gesellschaftszweck redlich zu fördern und alles zu unterlassen, was den Gesellschaftsinteressen schadet\.
@@ -9477,17 +11549,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1186-abgb--mitwirkung-interessenwahrung-und-gleichbehandlung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1036_TextContainer_1036) \]
 
+----
+
 ### § 1187 ABGB — Verbot schädlicher Nebengeschäfte
 
 > Die Gesellschafter dürfen kein der Gesellschaft schädliches Nebengeschäft unternehmen\. Für unternehmerisch tätige Gesellschaften gelten überdies die unternehmensrechtlichen Vorschriften über Wettbewerbsverbote und deren Rechtsfolgen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1187-abgb--verbot-schädlicher-nebengeschäfte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1037_TextContainer_1037) \]
 
+----
+
 ### § 1188 ABGB — Durchsetzung von Gesellschaftsansprüchen
 
 > Die Erfüllung gesellschaftsbezogener Verpflichtungen eines Gesellschafters kann von jedem Gesellschafter zugunsten aller Gesellschafter gemeinsam eingefordert werden\. Davon abweichende Vereinbarungen sind unwirksam\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1188-abgb--durchsetzung-von-gesellschaftsansprüchen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1038_TextContainer_1038) \]
+
+----
 
 ### § 1189 ABGB — Geschäftsführung
 
@@ -9501,6 +11579,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1189-abgb--geschäftsführung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1039_TextContainer_1039) \]
 
+----
+
 ### § 1190 ABGB — Geschäftsführung durch mehrere Gesellschafter, Weisungsgebundenheit
 
 > `(1)` Steht die Geschäftsführung allen oder mehreren Gesellschaftern zu, so ist im Rahmen der gewöhnlichen Geschäfte jeder von ihnen allein zu handeln berechtigt; widerspricht jedoch ein anderer geschäftsführender Gesellschafter der Vornahme einer Handlung, so muss diese unterbleiben\.
@@ -9510,6 +11590,8 @@
 > `(3)` Ist ein Gesellschafter an die Weisungen der übrigen Gesellschafter gebunden, so kann er von den ihm erteilten Weisungen abweichen, wenn er den Umständen nach annehmen darf, dass die übrigen Gesellschafter bei Kenntnis der Sachlage die Abweichung billigen würden\. Er hat die Abweichung den übrigen Gesellschaftern anzuzeigen und ihre Entscheidung abzuwarten, wenn nicht Gefahr im Verzug ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1190-abgb--geschäftsführung-durch-mehrere-gesellschafter-weisungsgebundenheit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1040_TextContainer_1040) \]
+
+----
 
 ### § 1191 ABGB — Umfang der Geschäftsführungsbefugnis
 
@@ -9521,6 +11603,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1191-abgb--umfang-der-geschäftsführungsbefugnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1041_TextContainer_1041) \]
 
+----
+
 ### § 1192 ABGB — Gesellschafterbeschlüsse
 
 > `(1)` Gesellschafterbeschlüsse erfordern die Zustimmung aller zur Mitwirkung bei der Beschlussfassung berufenen Gesellschafter\.
@@ -9528,6 +11612,8 @@
 > `(2)` Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, so bestimmt sie sich nach den abgegebenen gültigen Stimmen\. Das Stimmgewicht entspricht den Beteiligungsverhältnissen\. Sind nicht alle Gesellschafter am Kapital beteiligt, wird die Mehrheit nach Köpfen berechnet\. Arbeitsgesellschafter, denen der Gesellschaftsvertrag einen am Wert ihrer Arbeit orientierten Kapitalanteil zubilligt, gelten als am Kapital beteiligt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1192-abgb--gesellschafterbeschlüsse) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1042_TextContainer_1042) \]
+
+----
 
 ### § 1193 ABGB — Entziehung und Kündigung der Geschäftsführungsbefugnis
 
@@ -9537,6 +11623,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1193-abgb--entziehung-und-kündigung-der-geschäftsführungsbefugnis) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1043_TextContainer_1043) \]
 
+----
+
 ### § 1194 ABGB — Kontrollrechte der Gesellschafter
 
 > `(1)` Ein geschäftsführender Gesellschafter ist verpflichtet, jedem anderen Gesellschafter die erforderlichen Nachrichten zu geben, auf Verlangen über den Stand der Geschäfte Auskunft zu erteilen und Rechenschaft abzulegen\. Ein Gesellschafter kann sich, auch wenn er von der Geschäftsführung ausgeschlossen ist, von den Angelegenheiten der Gesellschaft persönlich unterrichten, die Aufzeichnungen der Gesellschaft einsehen und sich aus ihnen eine Abrechnung anfertigen oder die Vorlage einer solchen Abrechnung fordern\.
@@ -9544,6 +11632,8 @@
 > `(2)` Eine Vereinbarung, durch die dieses Recht ausgeschlossen oder beschränkt wird, ist unwirksam\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1194-abgb--kontrollrechte-der-gesellschafter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1044_TextContainer_1044) \]
+
+----
 
 ### § 1195 ABGB — Gewinn und Verlust
 
@@ -9559,6 +11649,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1195-abgb--gewinn-und-verlust) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1045_TextContainer_1045) \]
 
+----
+
 ### § 1196 ABGB — Gewinnausschüttung und Entnahmen
 
 > `(1)` Jeder Gesellschafter hat Anspruch auf Auszahlung seines Gewinnanteils\. Der Anspruch kann nicht geltend gemacht werden, soweit die Auszahlung zum offenbaren Schaden der Gesellschaft gereicht, die Gesellschafter etwas anderes beschließen oder der Gesellschafter vereinbarungswidrig seine Einlage nicht geleistet hat\.
@@ -9566,6 +11658,8 @@
 > `(2)` Im Übrigen ist ein Gesellschafter nicht befugt, ohne Einwilligung der anderen Gesellschafter Entnahmen zu tätigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1196-abgb--gewinnausschüttung-und-entnahmen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1046_TextContainer_1046) \]
+
+----
 
 ## 3. Abschnitt
 
@@ -9583,11 +11677,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1197-abgb--vertretung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1047_TextContainer_1047) \]
 
+----
+
 ### § 1198 ABGB — Entziehung der Vertretungsmacht
 
 > Die Vertretungsmacht kann einem Gesellschafter aufgrund einer Klage aller übrigen Gesellschafter durch gerichtliche Entscheidung entzogen werden, wenn ein wichtiger Grund vorliegt; ein solcher Grund ist insbesondere grobe Pflichtverletzung oder Unfähigkeit zur ordnungsgemäßen Vertretung der Gesellschaft\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1198-abgb--entziehung-der-vertretungsmacht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1048_TextContainer_1048) \]
+
+----
 
 ### § 1199 ABGB — Haftung der Gesellschafter
 
@@ -9597,6 +11695,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1199-abgb--haftung-der-gesellschafter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1049_TextContainer_1049) \]
 
+----
+
 ### § 1200 ABGB — Einwendungen des Gesellschafters
 
 > `(1)` Wird ein Gesellschafter wegen einer gesellschaftsbezogenen Verbindlichkeit in Anspruch genommen, so kann er Einwendungen, die nicht in seiner Person begründet sind, nur insoweit geltend machen, als sie von den Gesellschaftern gemeinsam erhoben werden können\.
@@ -9604,6 +11704,8 @@
 > `(2)` Der Gesellschafter kann die Befriedigung des Gläubigers verweigern, solange den Gesellschaftern gemeinsam das Recht zusteht, das ihrer Verbindlichkeit zugrunde liegende Rechtsgeschäft anzufechten oder ihre Verbindlichkeit durch Aufrechnung mit einer fälligen Forderung zu erfüllen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1200-abgb--einwendungen-des-gesellschafters) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1050_TextContainer_1050) \]
+
+----
 
 ## 4. Abschnitt
 
@@ -9621,6 +11723,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1201-abgb--rechtsübergang) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1051_TextContainer_1051) \]
 
+----
+
 ### § 1202 ABGB — Haftung des eintretenden und des ausscheidenden Gesellschafters
 
 > `(1)` Der eintretende Gesellschafter haftet nur insofern für vor seinem Eintritt begründete gesellschaftsbezogene Verbindlichkeiten, als er jenen gesellschaftsbezogenen Rechtsverhältnissen beitritt, auf denen die Verbindlichkeiten beruhen\.
@@ -9628,6 +11732,8 @@
 > `(2)` Der ausscheidende Gesellschafter haftet für gesellschaftsbezogene Verbindlichkeiten gegenüber Dritten, die vor seinem Ausscheiden aus der Gesellschaft begründet wurden, auch dann weiter, wenn er aus dem Rechtsverhältnis ausgeschieden ist \(§ 1201 Abs\. 3\)\. Soweit der Dritte einer Entlassung des Ausscheidenden aus der Haftung nicht zustimmt, haftet dieser für die Verbindlichkeiten nur, soweit sie innerhalb von fünf Jahren nach seinem Ausscheiden fällig werden\. Ansprüche daraus verjähren innerhalb der für die jeweilige Verbindlichkeit geltenden Verjährungsfrist, längstens jedoch innerhalb von drei Jahren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1202-abgb--haftung-des-eintretenden-und-des-ausscheidenden-gesellschafters) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1052_TextContainer_1052) \]
+
+----
 
 ### § 1203 ABGB — Auseinandersetzung mit dem ausscheidenden Gesellschafter
 
@@ -9641,6 +11747,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1203-abgb--auseinandersetzung-mit-dem-ausscheidenden-gesellschafter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1053_TextContainer_1053) \]
 
+----
+
 ### § 1204 ABGB — Beteiligung des Ausscheidenden an schwebenden Geschäften
 
 > `(1)` Der ausgeschiedene Gesellschafter nimmt am Gewinn und am Verlust teil, der sich aus den zur Zeit seines Ausscheidens schwebenden Geschäften ergibt\. Die übrigen Gesellschafter sind berechtigt, diese Geschäfte so zu beenden, wie es ihnen am vorteilhaftesten erscheint\.
@@ -9648,6 +11756,8 @@
 > `(2)` Der ausgeschiedene Gesellschafter kann am Schluss jedes Geschäftsjahres Rechenschaft über die inzwischen beendeten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1204-abgb--beteiligung-des-ausscheidenden-an-schwebenden-geschäften) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1054_TextContainer_1054) \]
+
+----
 
 ### § 1205 ABGB — Fortsetzung mit den Erben
 
@@ -9663,6 +11773,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1205-abgb--fortsetzung-mit-den-erben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1055_TextContainer_1055) \]
 
+----
+
 ## 5. Abschnitt
 
 ## Umwandlung
@@ -9677,6 +11789,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1206-abgb--umwandlung-in-eine-offene-gesellschaft-oder-kommanditgesellschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1056_TextContainer_1056) \]
 
+----
+
 ### § 1207 ABGB — Wirkung gegenüber Dritten
 
 > `(1)` Die Gesellschafter haften nach der Umwandlung für die vorher begründeten Verbindlichkeiten auch als Gesellschafter bürgerlichen Rechts weiter\.
@@ -9684,6 +11798,8 @@
 > `(2)` Solange ein Dritter von der Umwandlung nicht verständigt wurde und sie ihm auch sonst nicht bekannt geworden ist, kann er seine Leistung mit schuldbefreiender Wirkung so erbringen, als würde die Gesellschaft bürgerlichen Rechts noch bestehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1207-abgb--wirkung-gegenüber-dritten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1057_TextContainer_1057) \]
+
+----
 
 ## 6. Abschnitt
 
@@ -9705,6 +11821,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1208-abgb--auflösungsgründe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1058_TextContainer_1058) \]
 
+----
+
 ### § 1209 ABGB — Kündigung durch einen Gesellschafter
 
 > `(1)` Die Kündigung der Gesellschaft durch einen Gesellschafter kann, wenn die Gesellschaft für unbestimmte Zeit eingegangen ist, nur für den Schluss eines Geschäftsjahres erfolgen; sie muss mindestens sechs Monate vor diesem Zeitpunkt stattfinden\.
@@ -9712,6 +11830,8 @@
 > &nbsp; \(2\) Eine Vereinbarung, durch die das Kündigungsrecht ausgeschlossen oder in anderer Weise als durch angemessene Verlängerung der Kündigungsfrist erschwert wird, ist nichtig\. Dies gilt nicht für Innengesellschaften \(§ 1176 Abs\. 1\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1209-abgb--kündigung-durch-einen-gesellschafter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1059_TextContainer_1059) \]
+
+----
 
 ### § 1210 ABGB — Auflösung durch gerichtliche Entscheidung
 
@@ -9723,11 +11843,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1210-abgb--auflösung-durch-gerichtliche-entscheidung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1060_TextContainer_1060) \]
 
+----
+
 ### § 1211 ABGB — Gesellschaft auf Lebenszeit, Befristung
 
 > Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablauf der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinn der §§ 1209 und 1210 einer für unbestimmte Zeit eingegangen Gesellschaft gleich\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1211-abgb--gesellschaft-auf-lebenszeit-befristung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1061_TextContainer_1061) \]
+
+----
 
 ### § 1213 ABGB — Ausschluss statt Auflösung
 
@@ -9736,6 +11860,8 @@
 > `(2)` Für die Auseinandersetzung zwischen den verbleibenden Gesellschaftern und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkt maßgeblich, in dem die Klage auf Ausschließung erhoben wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1213-abgb--ausschluss-statt-auflösung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1062_TextContainer_1062) \]
+
+----
 
 ### § 1214 ABGB — Fortsetzungsbeschluss
 
@@ -9747,6 +11873,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1214-abgb--fortsetzungsbeschluss) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1063_TextContainer_1063) \]
 
+----
+
 ### § 1215 ABGB — Übergang des Gesellschaftsvermögens
 
 > `(1)` Verbleibt nur noch ein Gesellschafter, so erlischt die Gesellschaft ohne Liquidation\. Das Gesellschaftsvermögen geht im Weg der Gesamtrechtsnachfolge auf diesen über\. Bücherliche Rechte sind nach den dafür geltenden Vorschriften zu übertragen\.
@@ -9755,11 +11883,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1215-abgb--übergang-des-gesellschaftsvermögens) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1064_TextContainer_1064) \]
 
+----
+
 ### § 1216 ABGB — Bekanntgabe der Auflösung der Außengesellschaft
 
 > Die Auflösung einer Außengesellschaft ist, soweit möglich, den Vertragspartnern, Gläubigern und Schuldnern mitzuteilen sowie auf verkehrsübliche Weise bekannt zu machen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1216-abgb--bekanntgabe-der-auflösung-der-außengesellschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1065_TextContainer_1065) \]
+
+----
 
 ## 7. Abschnitt
 
@@ -9773,6 +11905,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1216a-abgb--nachwirkung-des-gesellschaftsvertrages) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1066_TextContainer_1066) \]
 
+----
+
 ### § 1216b ABGB — Bestellung der Liquidatoren
 
 > `(1)` Nach der Auflösung der Gesellschaft haben, sofern der Gesellschaftsvertrag nicht anderes bestimmt, die Gesellschafter als Liquidatoren das Gesellschaftsvermögen abzuwickeln\. Mehrere Erben eines Gesellschafters haben einen gemeinsamen Vertreter zu bestellen\. Ist über das Vermögen eines Gesellschafters das Konkursverfahren oder das Sanierungsverfahren eröffnet und dem Gesellschafter die Eigenverwaltung entzogen, so tritt der Insolvenzverwalter an die Stelle des Gesellschafters\.
@@ -9785,6 +11919,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1216b-abgb--bestellung-der-liquidatoren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1067_TextContainer_1067) \]
 
+----
+
 ### § 1216c ABGB — Rechte und Pflichten der Liquidatoren
 
 > `(1)` Die Liquidatoren haben die laufenden Geschäfte zu beenden, die gesellschaftsbezogenen Forderungen einzuziehen und die Gesellschaftsgläubiger zu befriedigen\. Zur Beendigung schwebender Geschäfte können die Liquidatoren auch neue Geschäfte eingehen\.
@@ -9793,11 +11929,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1216c-abgb--rechte-und-pflichten-der-liquidatoren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1068_TextContainer_1068) \]
 
+----
+
 ### § 1216d ABGB — Handeln der Liquidatoren
 
 > Die Liquidatoren vertreten die Gesellschafter gerichtlich und außergerichtlich als Gesamtvertreter, sofern die Gesellschafter nicht einvernehmlich etwas anderes vereinbaren\. Die Liquidatoren können einzelne von ihnen zur Vornahme bestimmter Geschäfte oder bestimmter Arten von Geschäften ermächtigen\. Jeder Liquidator ist alleine befugt, gesellschaftsbezogene Erklärungen entgegenzunehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1216d-abgb--handeln-der-liquidatoren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1069_TextContainer_1069) \]
+
+----
 
 ### § 1216e ABGB — Aufteilung und Ausgleich unter den Gesellschaftern
 
@@ -9811,6 +11951,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1216e-abgb--aufteilung-und-ausgleich-unter-den-gesellschaftern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1070_TextContainer_1070) \]
 
+----
+
 ## Achtundzwanzigstes Hauptstück
 
 ## Von den Ehepakten und dem Anspruch auf Ausstattung
@@ -9823,11 +11965,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1217-abgb--ehepakte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1071_TextContainer_1071) \]
 
+----
+
 ### § 1220 ABGB — Ausstattung
 
 > Besitzt ein Kind kein eigenes, zu einer angemessenen Ausstattung hinlängliches Vermögen, so sind Eltern oder Großeltern nach der Reihenfolge und nach den Grundsätzen, nach denen sie für den Unterhalt der Kinder zu sorgen haben, verpflichtet, den Kindern oder Enkelkindern bei ihrer Verehelichung eine Ausstattung zu geben oder dazu verhältnismäßig beizutragen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1220-abgb--ausstattung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1072_TextContainer_1072) \]
+
+----
 
 ### § 1221 ABGB
 
@@ -9835,11 +11981,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1221-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1073_TextContainer_1073) \]
 
+----
+
 ### § 1222 ABGB
 
 > Wenn ein Kind ohne Wissen oder gegen den Willen seiner Eltern geheiratet hat und das Gericht die Ursache der Missbilligung begründet findet, sind die Eltern selbst in dem Falle, dass sie in der Folge die Ehe genehmigen, nicht schuldig, ihm eine Ausstattung zu geben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1222-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1074_TextContainer_1074) \]
+
+----
 
 ### § 1223 ABGB
 
@@ -9847,11 +11997,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1223-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1075_TextContainer_1075) \]
 
+----
+
 ### § 1233 ABGB — Gütergemeinschaft
 
 > Die eheliche Verbindung allein begründet noch keine Gemeinschaft der Güter zwischen den Eheleuten\. Dazu wird ein besonderer Vertrag erfordert, dessen Umfang und rechtliche Form nach den §§\. 1177 und 1178 des vorigen Hauptstückes beurtheilet wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1233-abgb--gütergemeinschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1076_TextContainer_1076) \]
+
+----
 
 ### § 1234 ABGB
 
@@ -9859,11 +12013,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1234-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1077_TextContainer_1077) \]
 
+----
+
 ### § 1235 ABGB
 
 > Bey einer Gemeinschaft, die sich auf das ganze Vermögen bezieht, sind vor der Theilung alle Schulden ohne Ausnahme; bey einer Gemeinschaft aber, die bloß das gegenwärtige, oder bloß das künftige Vermögen zum Gegenstande hat, nur diejenigen Schulden abzuziehen, die zum Nutzen des gemeinschaftlichen Gutes verwendet worden sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1235-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1078_TextContainer_1078) \]
+
+----
 
 ### § 1236 ABGB
 
@@ -9871,11 +12029,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1236-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1079_TextContainer_1079) \]
 
+----
+
 ### § 1237 ABGB — Gesetzlicher ehelicher Güterstand
 
 > Haben Eheleute über die Verwendung ihres Vermögens keine besondere Uebereinkunft getroffen, so behält jeder Ehegatte sein voriges Eigenthumsrecht, und auf das, was ein jeder Theil während der Ehe erwirbt, und auf was immer für eine Art überkommt, hat der andere, solange die Ehe besteht, keinen Anspruch\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1237-abgb--gesetzlicher-ehelicher-güterstand) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1080_TextContainer_1080) \]
+
+----
 
 ### § 1246 ABGB — Schenkungen unter Ehegatten und Verlobten;
 
@@ -9883,11 +12045,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1246-abgb--schenkungen-unter-ehegatten-und-verlobten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1081_TextContainer_1081) \]
 
+----
+
 ### § 1247 ABGB
 
 > Was ein Mann seiner Ehegattinn an Schmuck, Edelsteinen und andern Kostbarkeiten zum Putze gegeben hat, wird im Zweifel nicht für gelehnt; sondern für geschenkt angesehen\. Wenn aber ein verlobter Theil dem andern; oder auch ein Dritter dem einen oder andern Theile in Rücksicht auf die künftige Ehe etwas zusichert oder schenket; so kann, wenn die Ehe ohne Verschulden des Geschenkgebers nicht erfolgt, die Schenkung widerrufen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1247-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1082_TextContainer_1082) \]
+
+----
 
 ### § 1249 ABGB — Erbverträge
 
@@ -9895,11 +12061,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1249-abgb--erbverträge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1083_TextContainer_1083) \]
 
+----
+
 ### § 1251 ABGB — Bedingungen
 
 > Die Bestimmungen über Bedingungen bei Verträgen sind auch auf Erbverträge anzuwenden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1251-abgb--bedingungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1084_TextContainer_1084) \]
+
+----
 
 ### § 1252 ABGB — Wirkungen des Erbvertrags
 
@@ -9907,11 +12077,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1252-abgb--wirkungen-des-erbvertrags) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1085_TextContainer_1085) \]
 
+----
+
 ### § 1253 ABGB
 
 > Durch den Erbvertrag kann ein Vertragspartner auf das Recht zu testieren nicht gänzlich verzichten\. Ein reines Viertel, das weder durch Pflichtteile noch durch andere Forderungen belastet sein darf, muss zur freien letztwilligen Verfügung stehen\. Hat der Verstorbene darüber nicht verfügt, so fällt dieses Viertel nicht dem Vertragserben, auch wenn ihm im Erbvertrag die ganze Verlassenschaft versprochen wurde, sondern den gesetzlichen Erben zu\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1253-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1086_TextContainer_1086) \]
+
+----
 
 ### § 1254 ABGB
 
@@ -9919,11 +12093,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1254-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1087_TextContainer_1087) \]
 
+----
+
 ### § 1262 ABGB
 
 > Ist zwischen den Ehegatten eine Gemeinschaft der Güter bedungen; so hört dieselbe durch den Concurs des einen oder des andern Ehegatten auf, und das zwischen ihnen gemeinschaftliche Vermögen wird, wie bey dem Tode, getheilt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1262-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1088_TextContainer_1088) \]
+
+----
 
 ### § 1265 ABGB — Nichtigerklärung der Ehe
 
@@ -9931,11 +12109,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1265-abgb--nichtigerklärung-der-ehe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1089_TextContainer_1089) \]
 
+----
+
 ### § 1266 ABGB — Scheidung oder Aufhebung der Ehe
 
 > Im Fall einer Scheidung oder Aufhebung der Ehe mit gleichteiligem oder ohne Verschulden oder einer Scheidung im Einvernehmen sind die Ehepakte für beide Teile erloschen, sofern keine andere Vereinbarung getroffen wurde\. Ansonsten gebührt dem schuldlosen oder minderschuldigen Ehegatten nicht nur volle Genugtuung, sondern ab dem Zeitpunkt der Scheidung alles dasjenige, was ihm in den Ehepakten auf den Fall des Überlebens bedungen worden ist\. Das Vermögen, worüber eine Gütergemeinschaft bestanden hat, wird wie im Falle des Todes geteilt, und das Recht aus einem Erbvertrag bleibt dem Schuldlosen oder Minderschuldigen auf den Todesfall vorbehalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1266-abgb--scheidung-oder-aufhebung-der-ehe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1090_TextContainer_1090) \]
+
+----
 
 ## Neun u. zwanzigstes Hauptstück.
 
@@ -9947,11 +12129,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1267-abgb--glücksverträge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1091_TextContainer_1091) \]
 
+----
+
 ### § 1268 ABGB
 
 > Bey Glücksverträgen findet das Rechtmittel wegen Verkürzung über die Hälfte des Werthes nicht Statt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1268-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1092_TextContainer_1092) \]
+
+----
 
 ### § 1269 ABGB — Arten der Glücksverträge;
 
@@ -9959,11 +12145,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1269-abgb--arten-der-glücksverträge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1093_TextContainer_1093) \]
 
+----
+
 ### § 1270 ABGB — 1) die Wette;
 
 > Wenn über ein beyden Theilen noch unbekanntes Ereigniß ein bestimmter Preis zwischen ihnen für denjenigen, dessen Behauptung der Erfolg entspricht, verabredet wird: so entsteht eine Wette\. Hatte der gewinnende Theil von dem Ausgange Gewißheit, und verheimlichte er sie dem andern Theile; so macht er sich einer Arglist schuldig, und die Wette ist ungültig; der verlierende Theil aber, dem der Ausgang vorher bekannt war, ist als ein Geschenkgeber anzusehen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1270-abgb--1-die-wette) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1094_TextContainer_1094) \]
+
+----
 
 ### § 1271 ABGB
 
@@ -9971,11 +12161,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1271-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1095_TextContainer_1095) \]
 
+----
+
 ### § 1272 ABGB — 2) das Spiel;
 
 > Jedes Spiel ist eine Art von Wette\. Die für Wetten festgesetzten Rechte gelten auch für Spiele\. Welche Spiele überhaupt, oder für besondere Classen verbothen; wie Personen, die verbothene Spiele treiben, und diejenigen, die ihnen dazu Unterschleif geben, zu bestrafen sind, bestimmen die politischen Gesetze\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1272-abgb--2-das-spiel) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1096_TextContainer_1096) \]
+
+----
 
 ### § 1273 ABGB — 3) Los;
 
@@ -9983,11 +12177,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1273-abgb--3-los) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1097_TextContainer_1097) \]
 
+----
+
 ### § 1274 ABGB
 
 > Staats\-Lotterien sind nicht nach der Eigenschaft der Wette und des Spieles; sondern nach den jedes Mahl darüber kundgemachten Plänen, zu beurtheilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1274-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1098_TextContainer_1098) \]
+
+----
 
 ### § 1275 ABGB — 4) Hoffnungskauf
 
@@ -9995,17 +12193,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1275-abgb--4-hoffnungskauf) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1099_TextContainer_1099) \]
 
+----
+
 ### § 1276 ABGB
 
 > Wer die künftigen Nutzungen einer Sache in Pausch und Bogen; oder wer die Hoffnung derselben in einem bestimmten Preise kauft, errichtet einen Glücksvertrag; er trägt die Gefahr der ganz vereitelten Erwartung; es gebühren ihm aber auch alle ordentliche erzielte Nutzungen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1276-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1100_TextContainer_1100) \]
 
+----
+
 ### § 1277 ABGB — insbesondere eines Kuxes;
 
 > Der Antheil an einem Bergwerke heißt Kux\. Der Kauf eines Kuxes gehört zu den gewagten Verträgen\. Der Verkäufer haftet nur für die Richtigkeit des Kuxes, und der Käufer hat sich nach den Gesetzen über den Bergbau zu benehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1277-abgb--insbesondere-eines-kuxes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1101_TextContainer_1101) \]
+
+----
 
 ### § 1278 ABGB — Erbschaftskauf
 
@@ -10015,11 +12219,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1278-abgb--erbschaftskauf) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1102_TextContainer_1102) \]
 
+----
+
 ### § 1279 ABGB
 
 > Auf Sachen, die dem Verkäufer nicht als Erben, sondern aus einem anderen Grund, etwa als Vorausvermächtnis, als Ersatz\- oder Nacherbschaft oder als Schuldforderung aus der Verlassenschaft gebühren und ihm auch ohne Erbrecht gebührt hätten, hat der Erbschaftskäufer keinen Anspruch\. Dagegen erhält er alles, was der Erbschaft selbst zuwächst, insbesondere durch den Ausfall eines Vermächtnisnehmers, eines Miterben oder auf was immer für eine andere Art, soweit der Verkäufer darauf Anspruch gehabt hätte\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1279-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1103_TextContainer_1103) \]
+
+----
 
 ### § 1280 ABGB
 
@@ -10027,11 +12235,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1280-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1104_TextContainer_1104) \]
 
+----
+
 ### § 1281 ABGB
 
 > Sofern der Verkäufer die Verlassenschaft vor der Übergabe verwaltet hat, haftet er dem Käufer dafür wie ein anderer Verwalter\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1281-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1105_TextContainer_1105) \]
+
+----
 
 ### § 1282 ABGB
 
@@ -10039,11 +12251,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1282-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1106_TextContainer_1106) \]
 
+----
+
 ### § 1283 ABGB
 
 > Wurde dem Verkauf der Erbschaft ein Inventar zugrunde gelegt, so haftet der Verkäufer für dasselbe\. Andernfalls haftet er für die Richtigkeit seines Erbrechts, wie er es angegeben hat, und für jeden dem Käufer durch sein Verschulden zugefügten Schaden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1283-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1107_TextContainer_1107) \]
+
+----
 
 ### § 1284 ABGB — 5) Leibrente;
 
@@ -10051,11 +12267,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1284-abgb--5-leibrente) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1108_TextContainer_1108) \]
 
+----
+
 ### § 1285 ABGB
 
 > Die Dauer der Leibrente kann von dem Leben des einen oder andern Theiles, oder auch eines Dritten abhängen\. Sie wird im Zweifel vierteljährig vorhinein entrichtet; und nimmt in allen Fällen mit dem Leben desjenigen, auf dessen Kopf sie beruht, ihr Ende\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1285-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1109_TextContainer_1109) \]
+
+----
 
 ### § 1286 ABGB
 
@@ -10063,11 +12283,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1286-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1110_TextContainer_1110) \]
 
+----
+
 ### § 1287 ABGB — 6) gesellschaftliche Versorgungsanstalten;
 
 > Der Vertrag, wodurch vermittelst einer Einlage ein gemeinschaftlicher Versorgungsfond für die Mitglieder, ihre Gattinnen oder Waisen errichtet wird, ist aus der Natur und dem Zwecke einer solchen Anstalt, und den darüber festgesetzten Bedingungen, zu beurtheilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1287-abgb--6-gesellschaftliche-versorgungsanstalten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1111_TextContainer_1111) \]
+
+----
 
 ### § 1288 ABGB — 7) Versicherungsvertrag;
 
@@ -10075,11 +12299,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1288-abgb--7-versicherungsvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1112_TextContainer_1112) \]
 
+----
+
 ### § 1289 ABGB
 
 > Der gewöhnliche Gegenstand dieses Vertrages sind Waaren, die zu Wasser oder zu Lande verführt werden\. Es können aber auch andere Sachen, z\. B\. Häuser und Grundstücke gegen Feuer\- Wasser\- und andere Gefahren versichert werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1289-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1113_TextContainer_1113) \]
+
+----
 
 ### § 1290 ABGB
 
@@ -10087,17 +12315,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1290-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1114_TextContainer_1114) \]
 
+----
+
 ### § 1291 ABGB
 
 > Wenn der Untergang der Sache dem Versicherten; oder der gefahrlose Zustand derselben dem Versicherer zur Zeit des geschlossenen Vertrages schon bekannt war; so ist der Vertrag ungültig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1291-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1115_TextContainer_1115) \]
 
+----
+
 ### § 1292 ABGB — 8) Bodmerey- und See-Assecuranzen
 
 > Die Bestimmungen in Rücksicht der Versicherungen zur See; so wie die Vorschriften über den Bodmerey\-Vertrag sind ein Gegenstand der Seegesetze\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1292-abgb--8-bodmerey--und-see-assecuranzen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1116_TextContainer_1116) \]
+
+----
 
 ## Dreyßigstes Hauptstück.
 
@@ -10109,11 +12343,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1293-abgb--schade) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1117_TextContainer_1117) \]
 
+----
+
 ### § 1294 ABGB — Quellen der Beschädigung
 
 > Der Schade entspringt entweder aus einer widerrechtlichen Handlung, oder Unterlassung eines Anderen; oder aus einem Zufalle\. Die widerrechtliche Beschädigung wird entweder willkührlich, oder unwillkührlich zugefügt\. Die willkührliche Beschädigung aber gründet sich theils in einer bösen Absicht, wenn der Schade mit Wissen und Willen; theils in einem Versehen, wenn er aus schuldbarer Unwissenheit, oder aus Mangel der gehörigen Aufmerksamkeit, oder des gehörigen Fleißes verursachet worden ist\. Beydes wird ein Verschulden genannt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1294-abgb--quellen-der-beschädigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1118_TextContainer_1118) \]
+
+----
 
 ## Von der Verbindlichkeit zum Schadenersatze:
 
@@ -10125,11 +12363,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1295-abgb--1-von-dem-schaden-aus-verschulden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1119_TextContainer_1119) \]
 
+----
+
 ### § 1296 ABGB
 
 > Im Zweifel gilt die Vermuthung, daß ein Schade ohne Verschulden eines Anderen entstanden sey\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1296-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1120_TextContainer_1120) \]
+
+----
 
 ### § 1297 ABGB
 
@@ -10137,11 +12379,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1297-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1121_TextContainer_1121) \]
 
+----
+
 ### § 1298 ABGB
 
 > Wer vorgibt, daß er an der Erfüllung seiner vertragsmäßigen oder gesetzlichen Verbindlichkeit ohne sein Verschulden verhindert worden sey, dem liegt der Beweis ob\. Soweit er auf Grund vertraglicher Vereinbarung nur für grobe Fahrlässigkeit haftet, muß er auch beweisen, daß es an dieser Voraussetzung fehlt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1298-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1122_TextContainer_1122) \]
+
+----
 
 ### § 1299 ABGB — insbesondere: a) der Sachverständigen;
 
@@ -10149,11 +12395,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1299-abgb--insbesondere-a-der-sachverständigen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1123_TextContainer_1123) \]
 
+----
+
 ### § 1300 ABGB
 
 > Ein Sachverständiger ist auch dann verantwortlich, wenn er gegen Belohnung in Angelegenheiten seiner Kunst oder Wissenschaft aus Versehen einen nachtheiligen Rath ertheilet\. Außer diesem Falle haftet ein Rathgeber nur für den Schaden, welchen er wissentlich durch Ertheilung des Rathes dem Anderen verursachet hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1300-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1124_TextContainer_1124) \]
+
+----
 
 ### § 1301 ABGB — oder b) mehrere Theilnehmer;
 
@@ -10161,11 +12411,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1301-abgb--oder-b-mehrere-theilnehmer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1125_TextContainer_1125) \]
 
+----
+
 ### § 1302 ABGB
 
 > In einem solchen Falle verantwortet, wenn die Beschädigung in einem Versehen gegründet ist, und die Antheile sich bestimmen lassen, jeder nur den durch sein Versehen verursachten Schaden\. Wenn aber der Schade vorsätzlich zugefügt worden ist; oder, wenn die Antheile der Einzelnen an der Beschädigung sich nicht bestimmen lassen, so haften Alle für Einen, und Einer für Alle; doch bleibt demjenigen, welcher den Schaden ersetzt hat, der Rückersatz gegen die Uebrigen vorbehalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1302-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1126_TextContainer_1126) \]
+
+----
 
 ### § 1303 ABGB
 
@@ -10173,11 +12427,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1303-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1127_TextContainer_1127) \]
 
+----
+
 ### § 1304 ABGB
 
 > Wenn bey einer Beschädigung zugleich ein Verschulden von Seite des Beschädigten eintritt; so trägt er mit dem Beschädiger den Schaden verhältnißmäßig; und, wenn sich das Verhältniß nicht bestimmen läßt, zu gleichen Theilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1304-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1128_TextContainer_1128) \]
+
+----
 
 ### § 1305 ABGB — 2) aus dem Gebrauche des Rechtes;
 
@@ -10185,11 +12443,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1305-abgb--2-aus-dem-gebrauche-des-rechtes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1129_TextContainer_1129) \]
 
+----
+
 ### § 1306 ABGB — 3. aus einer schuldlosen oder unwillkührlichen Handlung;
 
 > Den Schaden, welchen jemand ohne Verschulden oder durch eine unwillkührliche Handlung verursachet hat, ist er in der Regel zu ersetzen nicht schuldig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1306-abgb--3-aus-einer-schuldlosen-oder-unwillkührlichen-handlung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1130_TextContainer_1130) \]
+
+----
 
 ### § 1306a ABGB
 
@@ -10197,11 +12459,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1306a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1131_TextContainer_1131) \]
 
+----
+
 ### § 1307 ABGB
 
 > Wenn sich jemand aus eigenem Verschulden in einen Zustand der Sinnesverwirrung oder in einen Notstand versetzt hat, so ist auch der in demselben verursachte Schade seinem Verschulden zuzuschreiben\. Eben dieses gilt auch von einem Dritten, der durch sein Verschulden diese Lage bei dem Beschädiger veranlaßt hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1307-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1132_TextContainer_1132) \]
+
+----
 
 ### § 1308 ABGB
 
@@ -10209,11 +12475,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1308-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1133_TextContainer_1133) \]
 
+----
+
 ### § 1309 ABGB
 
 > Außer diesem Falle gebührt ihm der Ersatz von denjenigen Personen, denen der Schade wegen Vernachlässigung der ihnen über solche Personen anvertrauten Obsorge beygemessen werden kann\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1309-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1134_TextContainer_1134) \]
+
+----
 
 ### § 1310 ABGB
 
@@ -10221,11 +12491,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1310-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1135_TextContainer_1135) \]
 
+----
+
 ### § 1311 ABGB — 4. durch Zufall;
 
 > Der bloße Zufall trifft denjenigen, in dessen Vermögen oder Person er sich ereignet\. Hat aber jemand den Zufall durch ein Verschulden veranlaßt; hat er ein Gesetz, das den zufälligen Beschädigungen vorzubeugen sucht, übertreten; oder sich ohne Noth in fremde Geschäfte gemengt, so haftet er für allen Nachtheil, welcher außer dem nicht erfolgt wäre\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1311-abgb--4-durch-zufall) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1136_TextContainer_1136) \]
+
+----
 
 ### § 1312 ABGB
 
@@ -10233,11 +12507,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1312-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1137_TextContainer_1137) \]
 
+----
+
 ### § 1313 ABGB — 5) durch fremde Handlungen;
 
 > Für fremde, widerrechtliche Handlungen, woran jemand keinen Theil genommen hat, ist er in der Regel auch nicht verantwortlich\. Selbst in den Fällen, wo die Gesetze das Gegentheil anordnen, bleibt ihm der Rückersatz gegen den Schuldtragenden vorbehalten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1313-abgb--5-durch-fremde-handlungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1138_TextContainer_1138) \]
+
+----
 
 ### § 1313a ABGB
 
@@ -10245,11 +12523,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1313a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1139_TextContainer_1139) \]
 
+----
+
 ### § 1314 ABGB
 
 > Wer eine Dienstperson ohne Zeugnis aufnimmt oder wissentlich eine durch ihre Leibes\- oder Gemütsbeschaffenheit gefährliche Person im Dienste behält oder ihr Aufenthalt gibt, haftet dem Hausherrn und den Hausgenossen für den Ersatz des durch die gefährliche Beschaffenheit dieser Personen verursachten Schadens\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1314-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1140_TextContainer_1140) \]
+
+----
 
 ### § 1315 ABGB
 
@@ -10257,11 +12539,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1315-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1141_TextContainer_1141) \]
 
+----
+
 ### § 1316 ABGB
 
 > Gastwirte, die Fremde beherbergen, sowie die anderen in § 970 bezeichneten Personen, ferner Fuhrleute haften für den Schaden, welchen ihre eigenen oder die von ihnen zugewiesenen Dienstpersonen an den eingebrachten oder übernommenen Sachen einem Gast oder Reisenden in ihrem Hause, ihrer Anstalt oder ihrem Fahrzeuge verursachen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1316-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1142_TextContainer_1142) \]
+
+----
 
 ### § 1317 ABGB
 
@@ -10269,17 +12555,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1317-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1143_TextContainer_1143) \]
 
+----
+
 ### § 1318 ABGB
 
 > Wird jemand durch das Herabfallen einer gefährlich aufgehängten oder gestellten Sache, oder durch Herauswerfen oder Herausgießen aus einer Wohnung beschädiget; so haftet derjenige, aus dessen Wohnung geworfen oder gegossen worden, oder die Sache herabgefallen ist, für den Schaden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1318-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1144_TextContainer_1144) \]
 
+----
+
 ### § 1319 ABGB — 6. Durch ein Bauwerk
 
 > Wird durch Einsturz oder Ablösung von Teilen eines Gebäudes oder eines anderen auf einem Grundstück aufgeführten Werkes jemand verletzt oder sonst ein Schaden verursacht, so ist der Besitzer des Gebäudes oder Werkes zum Ersatze verpflichtet, wenn die Ereignung die Folge der mangelhaften Beschaffenheit des Werkes ist und er nicht beweist, daß er alle zur Abwendung der Gefahr erforderliche Sorgfalt angewendet habe\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1319-abgb--6-durch-ein-bauwerk) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1145_TextContainer_1145) \]
+
+----
 
 ### § 1319a ABGB — 6a. durch einen Weg;
 
@@ -10290,6 +12582,8 @@
 > `(3)` Ist der mangelhafte Zustand durch Leute des Haftpflichtigen verschuldet worden, so haften auch sie nur bei Vorsatz oder grober Fahrlässigkeit\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1319a-abgb--6a-durch-einen-weg) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1146_TextContainer_1146) \]
+
+----
 
 ### § 1319b ABGB — 6b. durch einen Baum
 
@@ -10303,6 +12597,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1319b-abgb--6b-durch-einen-baum) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1147_TextContainer_1147) \]
 
+----
+
 ### § 1320 ABGB — 7. Durch ein Tier
 
 > `(1)` Wird jemand durch ein Tier beschädigt, so ist derjenige dafür verantwortlich, der es dazu angetrieben, gereizt oder zu verwahren vernachlässigt hat\. Derjenige, der das Tier hält, ist verantwortlich, wenn er nicht beweist, daß er für die erforderliche Verwahrung oder Beaufsichtigung gesorgt hatte\.
@@ -10311,11 +12607,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1320-abgb--7-durch-ein-tier) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1148_TextContainer_1148) \]
 
+----
+
 ### § 1321 ABGB
 
 > Wer auf seinem Grund und Boden fremdes Vieh antrifft, ist deßwegen noch nicht berechtiget, es zu töten\. Er kann es durch anpassende Gewalt verjagen, oder wenn er dadurch Schaden gelitten hat, das Recht der Privat\-Pfändung über so viele Stücke Viehes ausüben, als zu seiner Entschädigung hinreichet\. Doch muß er binnen acht Tagen sich mit dem Eigenthümer abfinden, oder seine Klage vor den Richter bringen; widrigen Falls aber das gepfändete Vieh zurückstellen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1321-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1149_TextContainer_1149) \]
+
+----
 
 ### § 1322 ABGB
 
@@ -10323,17 +12623,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1322-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1150_TextContainer_1150) \]
 
+----
+
 ### § 1323 ABGB — Arten des Schadenersatzes
 
 > Um den Ersatz eines verursachten Schadens zu leisten, muß Alles in den vorigen Stand zurückversetzt, oder, wenn dieses nicht thunlich ist, der Schätzungswerth vergütet werden\. Betrifft der Ersatz nur den erlittenen Schaden, so wird er eigentlich eine Schadloshaltung; wofern er sich aber auch auf den entgangenen Gewinn und die Tilgung der verursachten Beleidigung erstreckt, volle Genugthuung genannt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1323-abgb--arten-des-schadenersatzes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1151_TextContainer_1151) \]
 
+----
+
 ### § 1324 ABGB
 
 > In dem Falle eines aus böser Absicht oder aus einer auffallenden Sorglosigkeit verursachten Schadens ist der Beschädigte volle Genugthung *\(Anm\.: richtig: Genugthuung\)*; in den übrigen Fällen aber nur die eigentliche Schadloshaltung zu fordern berechtiget\. Hiernach ist in den Fällen, wo im Gesetze der allgemeine Ausdruck: Ersatz, vorkommt, zu beurtheilen, welche Art des Ersatzes zu leisten sey\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1324-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1152_TextContainer_1152) \]
+
+----
 
 ## Insbesondere
 
@@ -10343,11 +12649,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1325-abgb--1-bey-verletzungen-an-dem-körper) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1153_TextContainer_1153) \]
 
+----
+
 ### § 1326 ABGB
 
 > Ist die verletzte Person durch die Mißhandlung verunstaltet worden; so muß, zumahl wenn sie weiblichen Geschlechtes ist, in so fern auf diesen Umstand Rücksicht genommen werden, als ihr besseres Fortkommen dadurch verhindert werden kann\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1326-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1154_TextContainer_1154) \]
+
+----
 
 ### § 1327 ABGB
 
@@ -10355,11 +12665,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1327-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1155_TextContainer_1155) \]
 
+----
+
 ### § 1328 ABGB — 1a. an der geschlechtlichen Selbstbestimmung
 
 > Wer jemanden durch eine strafbare Handlung oder sonst durch Hinterlist, Drohung oder Ausnutzung eines Abhängigkeits\- oder Autoritätsverhältnisses zur Beiwohnung oder sonst zu geschlechtlichen Handlungen mißbraucht, hat ihm den erlittenen Schaden und den entgangenen Gewinn zu ersetzen sowie eine angemessene Entschädigung für die erlittene Beeinträchtigung zu leisten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1328-abgb--1a-an-der-geschlechtlichen-selbstbestimmung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1156_TextContainer_1156) \]
+
+----
 
 ### § 1328a ABGB — 1b. am Recht auf Wahrung der Privatsphäre
 
@@ -10369,11 +12683,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1328a-abgb--1b-am-recht-auf-wahrung-der-privatsphäre) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1157_TextContainer_1157) \]
 
+----
+
 ### § 1329 ABGB — 2) an der persönlichen Freyheit;
 
 > Wer jemanden durch gewaltsame Entführung, durch Privatgefangennehmung oder vorsätzlich durch einen widerrechtlichen Arrest seiner Freiheit beraubt, ist verpflichtet, dem Verletzten die vorige Freiheit zu verschaffen und volle Genugtuung zu leisten\. Kann er ihm die Freiheit nicht mehr verschaffen, so muß er den Hinterbliebenen, wie bei der Tötung, Ersatz leisten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1329-abgb--2-an-der-persönlichen-freyheit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1158_TextContainer_1158) \]
+
+----
 
 ### § 1330 ABGB — 3) an der Ehre;
 
@@ -10383,11 +12701,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1330-abgb--3-an-der-ehre) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1159_TextContainer_1159) \]
 
+----
+
 ### § 1331 ABGB — 4) an dem Vermögen
 
 > Wird jemand an seinem Vermögen vorsätzlich oder durch auffallende Sorglosigkeit eines Anderen beschädiget; so ist er auch den entgangenen Gewinn, und, wen der Schade vermittelst einer durch ein Strafgesetz verbothenen Handlung oder aus Muthwillen und Schadenfreude verursachet worden ist, den Werth der besonderen Vorliebe zu fordern berechtiget\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1331-abgb--4-an-dem-vermögen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1160_TextContainer_1160) \]
+
+----
 
 ### § 1332 ABGB
 
@@ -10395,11 +12717,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1332-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1161_TextContainer_1161) \]
 
+----
+
 ### § 1332a ABGB
 
 > Wird ein Tier verletzt, so gebühren die tatsächlich aufgewendeten Kosten der Heilung oder der versuchten Heilung auch dann, wenn sie den Wert des Tieres übersteigen, soweit auch ein verständiger Tierhalter in der Lage des Geschädigten diese Kosten aufgewendet hätte\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1332a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1162_TextContainer_1162) \]
+
+----
 
 ## Besonders durch die Verzögerung der Zahlung.
 
@@ -10411,17 +12737,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1333-abgb--gesetzliche-zinsen-und-weitere-schäden) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1163_TextContainer_1163) \]
 
+----
+
 ### § 1334 ABGB
 
 > Eine Verzögerung fällt einem Schuldner zur Last, wenn er den durch Gesetz oder Vertrag bestimmten Zahlungstag nicht einhält\. Sofern die Parteien nicht anderes vereinbart haben, hat der Schuldner seine Leistung bei vertragsgemäßer Erbringung der Gegenleistung ohne unnötigen Aufschub nach der Erfüllung durch den Gläubiger oder, wenn die Parteien ein solches Verfahren vereinbart haben, nach der Abnahme oder Überprüfung der Leistung des Gläubigers oder, wenn die Forderung der Höhe nach noch nicht feststeht, nach dem Eingang der Rechnung oder einer gleichwertigen Zahlungsaufforderung zu erbringen\. Ist die Zahlungszeit sonst nicht bestimmt, so trägt der Schuldner die Folgen der Zahlungsverzögerung, wenn er sich nach dem Tag der gerichtlichen oder außergerichtlichen Einmahnung nicht mit dem Gläubiger abgefunden hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1334-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1164_TextContainer_1164) \]
 
+----
+
 ### § 1335 ABGB
 
 > Hat der Gläubiger die Zinsen ohne gerichtliche Einmahnung bis auf den Betrag der Hauptschuld steigen lassen, so erlischt das Recht, vom Kapital weitere Zinsen zu fordern\. Vom Tag der Streitanhängigkeit an können jedoch neuerdings Zinsen verlangt werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1335-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1165_TextContainer_1165) \]
+
+----
 
 ### § 1336 ABGB — Bedingung des Vergütungsvertrages (Conventional-Strafe)
 
@@ -10433,11 +12765,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1336-abgb--bedingung-des-vergütungsvertrages-conventional-strafe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1166_TextContainer_1166) \]
 
+----
+
 ### § 1337 ABGB — Verbindlichkeit der Erben des Beschädigers
 
 > Die Verbindlichkeit zum Ersatze des Schadens und des entgangenen Gewinnes, oder zur Entrichtung des bedungenen Vergütungsbetrages haftet auf dem Vermögen, und geht auf die Erben über\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1337-abgb--verbindlichkeit-der-erben-des-beschädigers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1167_TextContainer_1167) \]
+
+----
 
 ### § 1338 ABGB — Rechtsmittel der Entschädigung
 
@@ -10445,17 +12781,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1338-abgb--rechtsmittel-der-entschädigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1168_TextContainer_1168) \]
 
+----
+
 ### § 1340 ABGB
 
 > Diese Behörden haben in dem Falle, daß sich die Entschädigung unmittelbar bestimmen läßt, sogleich darüber nach den in diesem Hauptstücke ertheilten Vorschriften zu erkennen\. Wenn aber der Ersatz des Schadens nicht unmittelbar bestimmt werden kann, ist in dem Erkenntnisse überhaupt auszudrücken, daß dem Beschädigtem die Entschädigung im Wege Rechtens zu suchen vorbehalten bleibe\. Dieser Weg ist auch in Criminal\-Fällen dem Beschädigten, und in anderen Fällen beyden Theilen dann vorbehalten, wenn sie mit der von der Strafbehörde erfolgten Bestimmung des Ersatzes sich nicht befriedigen wollten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1340-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1169_TextContainer_1169) \]
 
+----
+
 ### § 1341 ABGB
 
 > Gegen das Verschulden eines Richters beschwert man sich bey der höheren Behörde\. Diese untersuchet und beurtheilet die Beschwerde von Amts wegen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1341-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1170_TextContainer_1170) \]
+
+----
 
 ## Dritter Theil
 
@@ -10475,11 +12817,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1342-abgb--gemeinschaftliche-bestimmungen-der-rechte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1171_TextContainer_1171) \]
 
+----
+
 ### § 1343 ABGB — Arten der Befestigung eines Rechtes:
 
 > Die rechtlichen Arten der Sicherstellung einer Verbindlichkeit und der Befestigung eines Rechtes, durch welche dem Berechtigten ein neues Recht eingeräumet wird, sind: die Verpflichtung eines Dritten für den Schuldner, und die Verpfändung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1343-abgb--arten-der-befestigung-eines-rechtes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1172_TextContainer_1172) \]
+
+----
 
 ### § 1344 ABGB — I) durch Verpflichtung eines Dritten
 
@@ -10487,11 +12833,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1344-abgb--i-durch-verpflichtung-eines-dritten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1173_TextContainer_1173) \]
 
+----
+
 ### § 1345 ABGB
 
 > Wenn jemand mit Einwilligung des Gläubigers die ganze Schuld eines Andern übernimmt; so geschieht keine Befestigung, sondern eine Umänderung der Verbindlichkeit, wovon in dem folgenden Hauptstücke gehandelt wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1345-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1174_TextContainer_1174) \]
+
+----
 
 ### § 1346 ABGB — a) Als Bürge;
 
@@ -10501,11 +12851,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1346-abgb--a-als-bürge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1175_TextContainer_1175) \]
 
+----
+
 ### § 1347 ABGB — b) Als Mitschuldner;
 
 > Wenn jemand, ohne die den Bürgen zu Statten kommende Bedingung, einer Verbindlichkeit als Mitschuldner beytritt; so entsteht eine Gemeinschaft mehrerer Mitschuldner; deren rechtliche Folgen nach den in dem Hauptstücke von Verträgen überhaupt gegebenen Vorschriften zu beurtheilen sind \(§§\. 888 – 896\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1347-abgb--b-als-mitschuldner) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1176_TextContainer_1176) \]
+
+----
 
 ### § 1348 ABGB — Entschädigungsbürge
 
@@ -10513,11 +12867,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1348-abgb--entschädigungsbürge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1177_TextContainer_1177) \]
 
+----
+
 ### § 1349 ABGB — Wer sich verbürgen könne
 
 > Fremde Verbindlichkeiten kann ohne Unterschied des Geschlechtes jedermann auf sich nehmen, dem die freye Verwaltung seines Vermögens zusteht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1349-abgb--wer-sich-verbürgen-könne) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1178_TextContainer_1178) \]
+
+----
 
 ### § 1350 ABGB — Für welche Verbindlichkeiten
 
@@ -10525,11 +12883,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1350-abgb--für-welche-verbindlichkeiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1179_TextContainer_1179) \]
 
+----
+
 ### § 1351 ABGB
 
 > Verbindlichkeiten, welche nie zu Recht bestanden haben, oder schon aufgehoben sind, können weder übernommen, noch bekräftiget werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1351-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1180_TextContainer_1180) \]
+
+----
 
 ### § 1352 ABGB
 
@@ -10537,11 +12899,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1352-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1181_TextContainer_1181) \]
 
+----
+
 ### § 1353 ABGB — Umfang der Bürgschaft
 
 > Die Bürgschaft kann nicht weiter ausgedehnt werden, als sich der Bürge ausdrücklich erkläret hat\. Wer sich für ein zinsbares Capital verbürget, haftet nur für jene rückständigen Zinsen, welche der Gläubiger noch nicht einzutreiben berechtiget war\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1353-abgb--umfang-der-bürgschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1182_TextContainer_1182) \]
+
+----
 
 ### § 1354 ABGB
 
@@ -10549,11 +12915,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1354-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1183_TextContainer_1183) \]
 
+----
+
 ### § 1355 ABGB — Wirkung
 
 > Der Bürge kann in der Regel erst dann belanget werden, wenn der Hauptschuldner auf des Gläubigers gerichtliche oder außergerichtliche Einmahnung seine Verbindlichkeit nicht erfüllet hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1355-abgb--wirkung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1184_TextContainer_1184) \]
+
+----
 
 ### § 1356 ABGB
 
@@ -10561,11 +12931,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1356-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1185_TextContainer_1185) \]
 
+----
+
 ### § 1357 ABGB
 
 > Wer sich als Bürge und Zahler verpflichtet hat, haftet als ungetheilter Mitschuldner für die ganze Schuld; es hängt von der Willkühr des Gläubigers ab, ob er zuerst den Hauptschuldner, oder den Bürgen oder beyde zugleich belangen wolle \(§\. 891\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1357-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1186_TextContainer_1186) \]
+
+----
 
 ### § 1358 ABGB
 
@@ -10573,11 +12947,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1358-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1187_TextContainer_1187) \]
 
+----
+
 ### § 1359 ABGB
 
 > Haben für den nähmlichen ganzen Betrag mehrere Personen Bürgschaft geleistet; so haftet jede für den ganzen Betrag\. Hat aber Eine von ihnen die ganze Schuld abgetragen; so gebührt ihr gleich dem Mitschuldner \(§\. 896\) das Recht des Rückersatzes gegen die übrigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1359-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1188_TextContainer_1188) \]
+
+----
 
 ### § 1360 ABGB
 
@@ -10585,11 +12963,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1360-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1189_TextContainer_1189) \]
 
+----
+
 ### § 1361 ABGB
 
 > Hat der Bürge oder Zahler den Gläubiger befriediget, ohne sich mit dem Hauptschuldner einzuverstehen; so kann dieser Alles gegen jene einwenden, was er gegen den Gläubiger hätte einwenden können\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1361-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1190_TextContainer_1190) \]
+
+----
 
 ### § 1362 ABGB
 
@@ -10597,11 +12979,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1362-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1191_TextContainer_1191) \]
 
+----
+
 ### § 1363 ABGB — Arten der Erlöschung der Bürgschaft
 
 > Die Verbindlichkeit des Bürgen hört verhältnißmäßig mit der Verbindlichkeit des Schuldners auf\. Hat sich der Bürge nur auf eine gewisse Zeit verpflichtet; so haftet er nur für diesen Zeitraum\. Die Entlassung eines Mitbürgen kommt diesem zwar gegen den Gläubiger; aber nicht gegen die übrigen Mitbürgen zu Statten \(§\. 896\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1363-abgb--arten-der-erlöschung-der-bürgschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1192_TextContainer_1192) \]
+
+----
 
 ### § 1364 ABGB
 
@@ -10609,11 +12995,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1364-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1193_TextContainer_1193) \]
 
+----
+
 ### § 1365 ABGB
 
 > Wenn gegen den Schuldner ein gegründetes Besorgniß der Zahlungsunfähigkeit oder der Entfernung aus den Erbländern, für welche dieses Gesetzbuch vorgeschrieben ist, eintritt; so steht dem Bürgen das Recht zu, von dem Schuldner die Sicherstellung der verbürgten Schuld zu verlangen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1365-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1194_TextContainer_1194) \]
+
+----
 
 ### § 1366 ABGB
 
@@ -10621,11 +13011,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1366-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1195_TextContainer_1195) \]
 
+----
+
 ### § 1367 ABGB
 
 > Ist der Bürgschaftsvertrag weder durch eine Hypothek, noch durch ein Faustpfand befestiget; so erlischt er binnen drey Jahren nach dem Tode des Bürgen, wenn der Gläubiger in der Zwischenzeit unterlassen hat, von dem Erben die verfallene Schuld gerichtlich oder außergerichtlich einzumahnen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1367-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1196_TextContainer_1196) \]
+
+----
 
 ### § 1368 ABGB — II.) Durch Pfandvertrag
 
@@ -10633,11 +13027,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1368-abgb--ii-durch-pfandvertrag) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1197_TextContainer_1197) \]
 
+----
+
 ### § 1369 ABGB — Wirkung des Pfandvertrages
 
 > Was bey Verträgen überhaupt Rechtens ist, gilt auch bey dem Pfandvertrage; er ist zweyseitig verbindlich\. Der Pfandnehmer muß das Handpfand wohl verwahren und es dem Verpfänder, so bald dieser die Befriedigung leistet, zurück geben\. Betrifft es eine Hypothek; so muß der befriedigte Gläubiger den Verpfänder in den Stand setzen, die Löschung der Verbindlichkeit aus den Hypotheken\-Büchern bewirken zu können\. Die mit dem Pfandbesitze verknüpften Rechte und Verbindlichkeiten des Pfandgebers und Pfandnehmers sind im sechsten Hauptstücke des zweyten Theiles bestimmt worden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1369-abgb--wirkung-des-pfandvertrages) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1198_TextContainer_1198) \]
+
+----
 
 ### § 1370 ABGB
 
@@ -10645,11 +13043,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1370-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1199_TextContainer_1199) \]
 
+----
+
 ### § 1371 ABGB — Unerlaubte Bedingungen
 
 > Alle der Natur des Pfand\- und Darleihensvertrages entgegen stehende Bedingungen und Nebenverträge sind ungültig\. Dahin gehören die Verabredungen: daß nach der Verfallzeit der Schuldforderung das Pfandstück dem Gläubiger zufalle; daß er es nach Willkühr, oder in einem schon im voraus bestimmten Preise veräußern, oder für sich behalten könne; daß der Schuldner das Pfand niemahls einlösen, oder ein liegendes Gut keinem Andern verschreiben, oder daß der Gläubiger nach der Verfallzeit die Veräußerung des Pfandes nicht verlangen dürfe\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1371-abgb--unerlaubte-bedingungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1200_TextContainer_1200) \]
+
+----
 
 ### § 1372 ABGB
 
@@ -10657,17 +13059,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1372-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1201_TextContainer_1201) \]
 
+----
+
 ### § 1373 ABGB — Auf welche Art in der Regel Sicherstellung zu leisten ist
 
 > Wer verbunden ist, eine Sicherstellung zu leisten, muß diese Verbindlichkeit durch ein Handpfand, oder durch eine Hypothek erfüllen\. Nur in dem Falle, daß er ein Pfand zu geben außer Stande ist, werden taugliche Bürgen angenommen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1373-abgb--auf-welche-art-in-der-regel-sicherstellung-zu-leisten-ist) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1202_TextContainer_1202) \]
 
+----
+
 ### § 1374 ABGB
 
 > Niemand ist verpflichtet, eine Sache, die zur Sicherstellung dienen soll, in einem höheren Wert als der Hälfte ihres Verkehrswertes zum Pfand anzunehmen\. Wer ein angemessenes Vermögen besitzt und im Inland geklagt werden kann, ist ein tauglicher Bürge\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1374-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1203_TextContainer_1203) \]
+
+----
 
 ## Zweytes Hauptstück.
 
@@ -10679,11 +13087,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1375-abgb--umänderung-der-rechte-und-verbindlichkeiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1204_TextContainer_1204) \]
 
+----
+
 ### § 1376 ABGB — 1) durch Novation;
 
 > Die Umänderung ohne Hinzukunft einer dritten Person findet Statt, wenn der Rechtsgrund, oder wenn der Hauptgegenstand einer Forderung verwechselt wird, folglich die alte Verbindlichkeit in eine neue übergeht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1376-abgb--1-durch-novation) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1205_TextContainer_1205) \]
+
+----
 
 ### § 1377 ABGB
 
@@ -10691,11 +13103,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1377-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1206_TextContainer_1206) \]
 
+----
+
 ### § 1378 ABGB
 
 > Die mit der vorigen Hauptverbindlichkeit verknüpften Bürgschafts\- Pfand\- und anderen Rechte erlöschen durch den Neuerungsvertrag, wenn die Theilnehmer nicht durch ein besonderes Einverständniß hierüber etwas Anderes festgesetzt haben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1378-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1207_TextContainer_1207) \]
+
+----
 
 ### § 1379 ABGB
 
@@ -10703,11 +13119,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1379-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1208_TextContainer_1208) \]
 
+----
+
 ### § 1380 ABGB — 2) Vergleich
 
 > Ein Neuerungsvertrag, durch welchen streitige, oder zweifelhafte Rechte dergestalt bestimmt werden, daß jede Partey sich wechselseitig etwas zu geben, zu thun, oder zu unterlassen verbindet, heißt Vergleich\. Der Vergleich gehört zu den zweyseitig verbindlichen Verträgen, und wird nach eben denselben Grundsätzen beurtheilet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1380-abgb--2-vergleich) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1209_TextContainer_1209) \]
+
+----
 
 ### § 1381 ABGB
 
@@ -10715,11 +13135,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1381-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1210_TextContainer_1210) \]
 
+----
+
 ### § 1382 ABGB — Ungültigkeit eines Vergleiches in Rücksicht des Gegenstandes;
 
 > Es gibt zweifelhafte Fälle, welche durch einen Vergleich nicht beygelegt werden dürfen\. Dahin gehört der zwischen Eheleuten über die Gültigkeit ihrer Ehe entstandene Streit\. Diesen kann nur der durch das Gesetz bestimmte Gerichtsstand entscheiden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1382-abgb--ungültigkeit-eines-vergleiches-in-rücksicht-des-gegenstandes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1211_TextContainer_1211) \]
+
+----
 
 ### § 1383 ABGB
 
@@ -10727,11 +13151,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1383-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1212_TextContainer_1212) \]
 
+----
+
 ### § 1384 ABGB
 
 > Vergleiche über Gesetzübertretungen sind nur in Hinsicht auf die Privat\-Genugthuung gültig; die gesetzmäßige Untersuchung und Bestrafung kann dadurch bloß dann abgewendet werden, wenn die Uebertretungen von der Art sind, daß die Behörde nur auf Verlangen der Parteyen ihr Amt zu handeln angewiesen ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1384-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1213_TextContainer_1213) \]
+
+----
 
 ### § 1385 ABGB — oder anderer Mängel
 
@@ -10739,11 +13167,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1385-abgb--oder-anderer-mängel) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1214_TextContainer_1214) \]
 
+----
+
 ### § 1386 ABGB
 
 > Aus dem Grunde einer Verletzung über die Hälfte kann ein redlich errichteter Vergleich nicht angefochten werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1386-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1215_TextContainer_1215) \]
+
+----
 
 ### § 1387 ABGB
 
@@ -10751,11 +13183,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1387-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1216_TextContainer_1216) \]
 
+----
+
 ### § 1388 ABGB
 
 > Ein offenbarer Rechnungsverstoß, oder ein Fehler, welcher bey dem Abschlusse eines Vergleiches in dem Summiren oder Abziehen begangen wird, schadet keinem der vertragmachenden Theile\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1388-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1217_TextContainer_1217) \]
+
+----
 
 ### § 1389 ABGB — Umfang des Vergleiches
 
@@ -10763,11 +13199,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1389-abgb--umfang-des-vergleiches) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1218_TextContainer_1218) \]
 
+----
+
 ### § 1390 ABGB — Wirkung in Rücksicht der Nebenverbindlichkeiten
 
 > Bürgen und Pfänder, welche zur Sicherheit des ganzen noch streitigen Rechtes gegeben worden sind, haften auch für den Theil, der durch den Vergleich bestimmt worden ist\. Doch bleiben dem Bürgen und einem dritten Verpfänder, welche dem Vergleiche nicht beygestimmt haben, alle Einwendungen gegen den Gläubiger vorbehalten, welche ohne geschlossenen Vergleich der Forderung hätten entgegengesetzt werden können\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1390-abgb--wirkung-in-rücksicht-der-nebenverbindlichkeiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1219_TextContainer_1219) \]
+
+----
 
 ### § 1391 ABGB
 
@@ -10775,11 +13215,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1391-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1220_TextContainer_1220) \]
 
+----
+
 ### § 1392 ABGB — 3) Cession
 
 > Wenn eine Forderung von einer Person an die andere übertragen, und von dieser angenommen wird; so entsteht die Umänderung des Rechtes mit Hinzukunft eines neuen Gläubigers\. Eine solche Handlung heißt Abtretung \(Cession\), und kann mit, oder ohne Entgeld geschlossen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1392-abgb--3-cession) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1221_TextContainer_1221) \]
+
+----
 
 ### § 1393 ABGB — Gegenstände der Cession
 
@@ -10787,11 +13231,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1393-abgb--gegenstände-der-cession) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1222_TextContainer_1222) \]
 
+----
+
 ### § 1394 ABGB — Wirkung
 
 > Die Rechte des Uebernehmers sind mit den Rechten des Ueberträgers in Rücksicht auf die überlassene Forderung eben dieselben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1394-abgb--wirkung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1223_TextContainer_1223) \]
+
+----
 
 ### § 1395 ABGB
 
@@ -10799,11 +13247,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1395-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1224_TextContainer_1224) \]
 
+----
+
 ### § 1396 ABGB
 
 > Dieses kann der Schuldner nicht mehr, so bald ihm der Uebernehmer bekannt gemacht worden ist; allein es bleibt ihm das Recht, seine Einwendungen gegen die Forderung anzubringen\. Hat er die Forderung gegen den redlichen Uebernehmer für richtig erkannt; so ist er verbunden, denselben als seinen Gläubiger zu befriedigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1396-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1225_TextContainer_1225) \]
+
+----
 
 ### § 1396a ABGB — Zessionsverbot
 
@@ -10815,11 +13267,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1396a-abgb--zessionsverbot) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1226_TextContainer_1226) \]
 
+----
+
 ### § 1397 ABGB — Haftung des Cedenten
 
 > Wer eine Forderung ohne Entgeld abtritt, also verschenkt, haftet nicht weiter für dieselbe\. Kommt aber die Abtretung auf eine entgeldliche Art zu Stande; so haftet der Ueberträger dem Uebernehmer sowohl für die Richtigkeit, als für die Einbringlichkeit der Forderung, jedoch nie für mehr, als er von dem Uebernehmer erhalten hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1397-abgb--haftung-des-cedenten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1227_TextContainer_1227) \]
+
+----
 
 ### § 1398 ABGB
 
@@ -10827,17 +13283,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1398-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1228_TextContainer_1228) \]
 
+----
+
 ### § 1399 ABGB
 
 > Ein Versehen dieser Art begeht der Uebernehmer, wenn er die Forderung zur Zeit, als sie aufgekündiget werden kann, nicht aufkündiget, oder nach verfallener Zahlungsfrist nicht eintreibt; wenn er dem Schuldner nachsieht; wenn er die noch mögliche Sicherheit zu rechter Zeit sich zu verschaffen versäumt, oder die gerichtliche Execution zu betreiben unterläßt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1399-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1229_TextContainer_1229) \]
 
+----
+
 ### § 1400 ABGB — 4) Anweisung (Assignation)
 
 > Durch die Anweisung auf eine Leistung eines Dritten wird der Empfänger der Anweisung \(Assignatar\) zur Einhebung der Leistung bei dem Angewiesenen \(Assignat\) und der letztere zur Leistung an ersteren für Rechnung des Anweisenden \(Assignant\) ermächtigt\. Einen unmittelbaren Anspruch erlangt der Anweisungsempfänger gegen den Angewiesenen erst, wenn die Erklärung des Angewiesenen über die Annahme der Anweisung ihm zugekommen ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1400-abgb--4-anweisung-assignation) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1230_TextContainer_1230) \]
+
+----
 
 ### § 1401 ABGB
 
@@ -10849,11 +13311,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1401-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1231_TextContainer_1231) \]
 
+----
+
 ### § 1402 ABGB
 
 > Hat der Angewiesene die Anweisung dem Empfänger gegenüber angenommen, so kann er diesem nur solche Einwendungen entgegensetzen, welche die Gültigkeit der Annahme betreffen oder sich aus dem Inhalte der Anweisung oder aus seinen persönlichen Beziehungen zum Empfänger ergeben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1402-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1232_TextContainer_1232) \]
+
+----
 
 ### § 1403 ABGB
 
@@ -10863,17 +13329,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1403-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1233_TextContainer_1233) \]
 
+----
+
 ### § 1404 ABGB — 5. Schuldübernahme
 
 > Wer einem Schuldner verspricht, die Leistung an dessen Gläubiger zu bewirken \(Erfüllungsübernahme\), haftet dem Schuldner dafür, daß der Gläubiger ihn nicht in Anspruch nehme\. Dem Gläubiger erwächst daraus unmittelbar kein Recht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1404-abgb--5-schuldübernahme) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1234_TextContainer_1234) \]
 
+----
+
 ### § 1405 ABGB
 
 > Wer einem Schuldner erklärt, seine Schuld zu übernehmen \(Schuldübernahme\), tritt als Schuldner an dessen Stelle, wenn der Gläubiger einwilligt\. Bis diese Einwilligung erfolgt oder falls sie verweigert wird, haftet er wie bei Erfüllungsübernahme \(§ 1404\)\. Die Einwilligung des Gläubigers kann entweder dem Schuldner oder dem Übernehmer erklärt werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1405-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1235_TextContainer_1235) \]
+
+----
 
 ### § 1406 ABGB
 
@@ -10883,6 +13355,8 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1406-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1236_TextContainer_1236) \]
 
+----
+
 ### § 1407 ABGB
 
 > `(1)` Die Verbindlichkeiten des Übernehmers sind mit den Verbindlichkeiten des bisherigen Schuldners in Rücksicht auf die übernommene Schuld ebendieselben\. Der Übernehmer kann dem Gläubiger die aus dem Rechtsverhältnis zwischen diesem und dem bisherigen Schuldner entspringenden Einwendungen entgegensetzen\.
@@ -10891,11 +13365,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1407-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1237_TextContainer_1237) \]
 
+----
+
 ### § 1408 ABGB
 
 > Übernimmt bei Veräußerung einer Liegenschaft der Erwerber ein auf ihr haftendes Pfandrecht, so ist dies im Zweifel als Schuldübernahme zu verstehen\. Der Veräußerer kann, nach vollzogener Übertragung des Eigentums, den Gläubiger zur Annahme des neuen Schuldners an seiner Stelle schriftlich mit der Wirkung auffordern, daß die Einwilligung als erteilt gilt, wenn sie nicht binnen sechs Monaten versagt wird\. Auf diese Wirkung muß in der Aufforderung ausdrücklich hingewiesen sein\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1408-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1238_TextContainer_1238) \]
+
+----
 
 ### § 1409 ABGB
 
@@ -10907,17 +13385,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1409-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1239_TextContainer_1239) \]
 
+----
+
 ### § 1409a ABGB
 
 > Wer ein Vermögen oder ein Unternehmen im Weg eines Zwangsvollstreckungsverfahrens, eines Insolvenzverfahrens oder einer Überwachung des Schuldners durch einen Treuhänder der Gläubiger erwirbt, haftet nicht nach § 1409 Abs\. 1 und 2\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1409a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1240_TextContainer_1240) \]
 
+----
+
 ### § 1410 ABGB
 
 > Wird der Eintritt des neuen Schuldners an Stelle des bisherigen Schuldners in der Weise verabredet, daß an die Stelle des aufgehobenen Schuldverhältnisses eine Verpflichtung des neuen Schuldners aus selbständigem Rechtsgrunde oder unter Änderung des Hauptgegenstandes der Forderung gesetzt wird, so treten nicht die Wirkungen der Schuldübernahme, sondern eines Neuerungsvertrages \(§§ 1377, 1378\) ein\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1410-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1241_TextContainer_1241) \]
+
+----
 
 ## Drittes Hauptstück.
 
@@ -10929,11 +13413,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1411-abgb--aufhebung-der-rechte-und-verbindlichkeiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1242_TextContainer_1242) \]
 
+----
+
 ### § 1412 ABGB — 1) Durch die Zahlung
 
 > Die Verbindlichkeit wird vorzüglich durch die Zahlung, das ist, durch die Leistung dessen, was man zu leisten schuldig ist, aufgelöset \(§\. 469\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1412-abgb--1-durch-die-zahlung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1243_TextContainer_1243) \]
+
+----
 
 ### § 1413 ABGB — Wie die Zahlung zu leisten
 
@@ -10941,11 +13429,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1413-abgb--wie-die-zahlung-zu-leisten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1244_TextContainer_1244) \]
 
+----
+
 ### § 1414 ABGB
 
 > Wird, weil der Gläubiger und der Schuldner einverstanden sind, oder weil die Zahlung selbst unmöglich ist, etwas anderes an Zahlungs Statt gegeben; so ist die Handlung als ein entgeldliches Geschäft zu betrachten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1414-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1245_TextContainer_1245) \]
+
+----
 
 ### § 1415 ABGB
 
@@ -10953,11 +13445,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1415-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1246_TextContainer_1246) \]
 
+----
+
 ### § 1416 ABGB
 
 > Wird die Willensmeinung des Schuldners bezweifelt, oder von dem Gläubiger widersprochen; so sollen zuerst die Zinsen, dann das Capital, von mehreren Capitalien aber dasjenige, welches schon eingefordert, oder wenigstens fällig ist, und nach diesem dasjenige, welches schuldig zu bleiben dem Schuldner am meisten beschwerlich fällt, abgerechnet werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1416-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1247_TextContainer_1247) \]
+
+----
 
 ### § 1417 ABGB — wann;
 
@@ -10965,11 +13461,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1417-abgb--wann) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1248_TextContainer_1248) \]
 
+----
+
 ### § 1418 ABGB
 
 > In gewissen Fällen wird die Zahlungsfrist durch die Natur der Sache bestimmt\. Alimente werden wenigstens auf einen Monath voraus bezahlt\. Stirbt der Verpflegte während dieser Zeit; so sind dessen Erben nicht schuldig, etwas von der Vorausbezahlung zurück zu geben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1418-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1249_TextContainer_1249) \]
+
+----
 
 ### § 1419 ABGB
 
@@ -10977,11 +13477,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1419-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1250_TextContainer_1250) \]
 
+----
+
 ### § 1420 ABGB
 
 > Wenn der Ort und die Art der Leistung nicht bestimmt sind, so müssen die oben \(§ 905 Abs\. 1 und 2, § 906, § 907a Abs\. 1, § 907b\) aufgestellten Vorschriften angewendet werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1420-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1251_TextContainer_1251) \]
+
+----
 
 ### § 1421 ABGB — von wem;
 
@@ -10989,11 +13493,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1421-abgb--von-wem) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1252_TextContainer_1252) \]
 
+----
+
 ### § 1422 ABGB
 
 > Wer die Schuld eines anderen, für die er nicht haftet \(§ 1358\), bezahlt, kann vor oder bei der Zahlung vom Gläubiger die Abtretung seiner Rechte verlangen; hat er dies getan, so wirkt die Zahlung als Einlösung der Forderung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1422-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1253_TextContainer_1253) \]
+
+----
 
 ### § 1423 ABGB
 
@@ -11001,11 +13509,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1423-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1254_TextContainer_1254) \]
 
+----
+
 ### § 1424 ABGB — an wen;
 
 > Der Schuldbetrag muß dem Gläubiger oder dessen zum Empfange geeigneten Machthaber, oder demjenigen geleistet werden, den das Gericht als Eigenthümer der Forderung erkannt hat\. Was jemand an eine Person bezahlt hat, die ihr Vermögen nicht selbst verwalten darf, ist er in so weit wieder zu zahlen verbunden, als das Bezahlte nicht wirklich vorhanden, oder zum Nutzen des Empfängers verwendet worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1424-abgb--an-wen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1255_TextContainer_1255) \]
+
+----
 
 ### § 1425 ABGB — Gerichtliche Hinterlegung der Schuld
 
@@ -11013,11 +13525,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1425-abgb--gerichtliche-hinterlegung-der-schuld) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1256_TextContainer_1256) \]
 
+----
+
 ### § 1426 ABGB — Quittungen
 
 > Der Zahler ist in allen Fällen berechtiget, von dem Befriedigten eine Quittung, nähmlich ein schriftliches Zeugniß der erfüllten Verbindlichkeit, zu verlangen\. In der Quittung muß der Nahme des Schuldners und des Gläubigers, so wie der Ort, die Zeit und der Gegenstand der getilgten Schuld ausgedrückt, und sie muß von dem Gläubiger, oder dessen Machthaber unterschrieben werden\. Die Kosten der Quittung hat, wenn nichts anderes vereinbart ist, der Gläubiger zu tragen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1426-abgb--quittungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1257_TextContainer_1257) \]
+
+----
 
 ### § 1427 ABGB
 
@@ -11025,11 +13541,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1427-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1258_TextContainer_1258) \]
 
+----
+
 ### § 1428 ABGB
 
 > Besitzt der Gläubiger von dem Schuldner einen Schuldschein; so ist er nebst Ausstellung einer Quittung verbunden, denselben zurück zu geben, oder die allenfalls geleistete Abschlagszahlung auf dem Schuldscheine selbst abschreiben zu lassen\. Der zurück erhaltene Schuldschein ohne Quittung gründet für den Schuldner die rechtliche Vermuthung der geleisteten Zahlung; er schließt aber den Gegenbeweis nicht aus\. Ist der Schuldschein, welcher zurück gegeben werden soll, in Verlust gerathen; so ist der Zahlende berechtiget, Sicherstellung zu fordern, oder den Betrag gerichtlich zu hinterlegen, und zu verlangen, daß der Gläubiger die Tödtung des Schuldscheines der Gerichtsordnung gemäß bewirke\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1428-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1259_TextContainer_1259) \]
+
+----
 
 ### § 1429 ABGB
 
@@ -11037,11 +13557,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1429-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1260_TextContainer_1260) \]
 
+----
+
 ### § 1430 ABGB
 
 > Eben so wird von Handels\- und Gewerbsleuten, welche mit ihren Abnehmern \(Kunden\) zu gewissen Fristen die Rechnungen abzuschließen pflegen, vermuthet, daß ihnen, wenn sie über die Rechnung aus einer späteren Frist quittirt haben, auch die früheren Rechnungen bezahlt seyn\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1430-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1261_TextContainer_1261) \]
+
+----
 
 ### § 1431 ABGB — Zahlung einer Nichtschuld
 
@@ -11049,11 +13573,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1431-abgb--zahlung-einer-nichtschuld) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1262_TextContainer_1262) \]
 
+----
+
 ### § 1432 ABGB
 
 > Doch können Zahlungen einer verjährten, oder einer solchen Schuld, welche nur aus Mangel der Förmlichkeiten ungültig ist, oder zu deren Eintreibung das Gesetz bloß das Klagerecht versagt, eben so wenig zurückgefordert werden, als wenn jemand eine Zahlung leistet, von der er weiß, daß er sie nicht schuldig ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1432-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1263_TextContainer_1263) \]
+
+----
 
 ### § 1433 ABGB
 
@@ -11061,11 +13589,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1433-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1264_TextContainer_1264) \]
 
+----
+
 ### § 1434 ABGB
 
 > Die Zurückstellung des Bezahlten kann auch dann begehret werden, wenn die Schuldforderung auf was immer für eine Art noch ungewiß ist; oder wenn sie noch von der Erfüllung einer beygesetzten Bedingung abhängt\. Die Bezahlung einer richtigen und unbedingten Schuld kann aber deßwegen nicht zurückgefordert werden, weil die Zahlungsfrist noch nicht verfallen ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1434-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1265_TextContainer_1265) \]
+
+----
 
 ### § 1435 ABGB
 
@@ -11073,11 +13605,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1435-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1266_TextContainer_1266) \]
 
+----
+
 ### § 1436 ABGB
 
 > War jemand verbunden, aus zwey Sachen nur Eine nach seiner Willkühr zu geben, und hat er aus Irrthum beyde gegeben; so hängt es von ihm ab, die eine oder die andere zurück zu fordern\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1436-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1267_TextContainer_1267) \]
+
+----
 
 ### § 1437 ABGB
 
@@ -11085,11 +13621,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1437-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1268_TextContainer_1268) \]
 
+----
+
 ### § 1438 ABGB — 2) Compensation
 
 > Wenn Forderungen gegenseitig zusammentreffen, die richtig, gleichartig, und so beschaffen sind, daß eine Sache, die dem Einen als Gläubiger gebührt, von diesem auch als Schuldner dem Andern entrichtet werden kann; so entsteht, in so weit die Forderungen sich gegen einander ausgleichen, eine gegenseitige Aufhebung der Verbindlichkeiten \(Compensation\), welche schon für sich die gegenseitige Zahlung bewirket\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1438-abgb--2-compensation) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1269_TextContainer_1269) \]
+
+----
 
 ### § 1439 ABGB
 
@@ -11097,11 +13637,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1439-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1270_TextContainer_1270) \]
 
+----
+
 ### § 1440 ABGB
 
 > Ebenso lassen sich Forderungen, welche ungleichartige oder bestimmte und unbestimmte Sachen zum Gegenstande haben, gegeneinander nicht aufheben\. Eigenmächtig oder listig entzogene, entlehnte, in Verwahrung oder in Bestand genommene Stücke sind überhaupt kein Gegenstand der Zurückbehaltung oder der Kompensation\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1440-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1271_TextContainer_1271) \]
+
+----
 
 ### § 1441 ABGB
 
@@ -11109,11 +13653,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1441-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1272_TextContainer_1272) \]
 
+----
+
 ### § 1442 ABGB
 
 > Wenn eine Forderung allmählich auf mehrere übertragen wird; so kann der Schuldner zwar die Forderung, welche er zur Zeit der Abtretung an den ersten Inhaber derselben hatte, so wie auch jene, die ihm gegen den letzten Inhaber zusteht, in Abrechnung bringen; nicht aber auch diejenige, welche ihm an einen der Zwischeninhaber zustand\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1442-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1273_TextContainer_1273) \]
+
+----
 
 ### § 1443 ABGB
 
@@ -11121,11 +13669,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1443-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1274_TextContainer_1274) \]
 
+----
+
 ### § 1444 ABGB — 3) Entsagung
 
 > In allen Fällen, in welchen der Gläubiger berechtiget ist, sich seines Rechtes zu begeben, kann er demselben auch zum Vortheile seines Schuldners entsagen, und hierdurch die Verbindlichkeit des Schuldners aufheben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1444-abgb--3-entsagung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1275_TextContainer_1275) \]
+
+----
 
 ### § 1445 ABGB — 4) Vereinigung
 
@@ -11133,11 +13685,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1445-abgb--4-vereinigung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1276_TextContainer_1276) \]
 
+----
+
 ### § 1446 ABGB
 
 > Rechte und Verbindlichkeiten, welche den öffentlichen Büchern einverleibt sind, werden durch die Vereinigung nicht aufgehoben, bis die Löschung aus den öffentlichen Büchern erfolgt ist \(§ 526\)\. Bis dahin kann das eingetragene Pfandrecht vom Eigentümer oder im Wege der Zwangsvollstreckung auf einen Dritten übertragen werden \(§§ 469 bis 470\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1446-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1277_TextContainer_1277) \]
+
+----
 
 ### § 1447 ABGB — 5) Untergang der Sache
 
@@ -11145,11 +13701,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1447-abgb--5-untergang-der-sache) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1278_TextContainer_1278) \]
 
+----
+
 ### § 1448 ABGB — 6) Tod
 
 > Durch den Tod erlöschen nur solche Rechte und Verbindlichkeiten, welche auf die Person eingeschränkt sind, oder die bloß persönliche Handlungen des Verstorbenen betreffen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1448-abgb--6-tod) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1279_TextContainer_1279) \]
+
+----
 
 ### § 1449 ABGB — 7) Verlauf der Zeit
 
@@ -11157,11 +13717,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1449-abgb--7-verlauf-der-zeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1280_TextContainer_1280) \]
 
+----
+
 ### § 1450 ABGB — Von der Einsetzung in den vorigen Stand
 
 > Die bürgerlichen Gesetze, nach welchen widerrechtliche Handlungen und Geschäfte, wenn die Verjährung nicht im Wege steht, unmittelbar bestritten werden können, gestatten keine Einsetzung in den vorigen Stand\. Die zum gerichtlichen Verfahren gehörigen Fälle der Einsetzung in den vorigen Stand, sind in der Gerichtsordnung bestimmt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1450-abgb--von-der-einsetzung-in-den-vorigen-stand) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1281_TextContainer_1281) \]
+
+----
 
 ## Viertes Hauptstück.
 
@@ -11173,11 +13737,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1451-abgb--verjährung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1282_TextContainer_1282) \]
 
+----
+
 ### § 1452 ABGB — Ersitzung
 
 > Wird das verjährte Recht vermöge des gesetzlichen Besitzes zugleich auf jemand Andern übertragen; so heißt es ein ersessenes Recht, und die Erwerbungsart Ersitzung\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1452-abgb--ersitzung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1283_TextContainer_1283) \]
+
+----
 
 ### § 1453 ABGB — Wer verjähren und ersitzen kann
 
@@ -11185,11 +13753,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1453-abgb--wer-verjähren-und-ersitzen-kann) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1284_TextContainer_1284) \]
 
+----
+
 ### § 1454 ABGB — Gegen wen;
 
 > Die Verjährung und Ersitzung kann gegen alle Privat\-Personen, welche ihre Rechte selbst auszuüben fähig sind, Statt finden\. Gegen Minderjährige und volljährige Personen, wenn diese aufgrund einer psychischen Krankheit oder einer vergleichbaren Beeinträchtigung ihrer Entscheidungsfähigkeit an der Durchsetzung ihrer Rechte gehindert sind; gegen Kirchen, Gemeinden und andere moralische Körper; gegen Verwalter des öffentlichen Vermögens und gegen diejenigen, welche ohne ihr Verschulden abwesend sind, wird sie nur unter den unten \(§§\. 1494, 1472 und 1475\) folgenden Beschränkungen gestattet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1454-abgb--gegen-wen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1285_TextContainer_1285) \]
+
+----
 
 ### § 1455 ABGB — Welche Gegenstände
 
@@ -11197,11 +13769,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1455-abgb--welche-gegenstände) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1286_TextContainer_1286) \]
 
+----
+
 ### § 1456 ABGB
 
 > Aus diesem Grunde können weder die dem Staatsoberhaupte als solchem allein zukommenden Rechte, z\. B\. das Recht, Zölle anzulegen, Münzen zu prägen, Steuern auszuschreiben, und andere Hoheitsrechte \(Regalien\) durch Ersitzung erworben, noch die diesen Rechten entsprechenden Schuldigkeiten verjährt werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1456-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1287_TextContainer_1287) \]
+
+----
 
 ### § 1457 ABGB
 
@@ -11209,11 +13785,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1457-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1288_TextContainer_1288) \]
 
+----
+
 ### § 1458 ABGB
 
 > Die Rechte eines Ehegatten, eines eingetragenen Partners, der Eltern, eines Kindes und andere Personenrechte sind kein Gegenstand der Ersitzung\. Doch kommt denjenigen, welche dergleichen Rechte redlicher Weise ausüben, die schuldlose Unwissenheit zur einstweiligen Behauptung und Ausübung ihrer vermeinten Rechte zustatten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1458-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1289_TextContainer_1289) \]
+
+----
 
 ### § 1459 ABGB
 
@@ -11221,11 +13801,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1459-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1290_TextContainer_1290) \]
 
+----
+
 ### § 1460 ABGB — Erfordernisse zur Ersitzung: — 1) Besitz;
 
 > Zur Ersitzung wird nebst der Fähigkeit der Person und des Gegenstandes erfordert: daß jemand die Sache oder das Recht, die auf diese Art erworben werden sollen, wirklich besitze; daß sein Besitz rechtmäßig, redlich und echt sey, und durch die ganze von dem Gesetze bestimmte Zeit fortgesetzt werde\. \(§\. 309, 316, 326 und 345\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1460-abgb--erfordernisse-zur-ersitzung--1-besitz) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1291_TextContainer_1291) \]
+
+----
 
 ### § 1461 ABGB — Und zwar a) ein rechtmäßiger;
 
@@ -11233,11 +13817,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1461-abgb--und-zwar-a-ein-rechtmäßiger) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1292_TextContainer_1292) \]
 
+----
+
 ### § 1462 ABGB
 
 > Verpfändete, geliehene, in Verwahrung, oder zur Fruchtnießung gegebene Sachen können von Gläubigern, Entlehnern und Verwahrern oder Fruchtnießern, aus Mangel eines rechtmäßigen Titels, niemahls ersessen werden\. Ihre Erben stellen die Verstorbenen vor, und haben nicht mehr Titel als dieselben\. Nur dem dritten rechtmäßigen Besitzer kann die Ersitzungszeit zu Statten kommen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1462-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1293_TextContainer_1293) \]
+
+----
 
 ### § 1463 ABGB — b) redlicher,
 
@@ -11245,11 +13833,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1463-abgb--b-redlicher) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1294_TextContainer_1294) \]
 
+----
+
 ### § 1464 ABGB — c) echter
 
 > Der Besitz muß auch echt seyn\. Wenn jemand sich einer Sache mit Gewalt oder List bemächtiget, oder in den Besitz heimlich einschleicht, oder eine Sache nur bittweise besitzt; so kann weder er selbst, noch können seine Erben dieselbe verjähren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1464-abgb--c-echter) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1295_TextContainer_1295) \]
+
+----
 
 ### § 1465 ABGB — 2) Verlauf der Zeit
 
@@ -11257,11 +13849,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1465-abgb--2-verlauf-der-zeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1296_TextContainer_1296) \]
 
+----
+
 ### § 1466 ABGB — Ersitzungszeit. Ordentliche;
 
 > Das Eigenthumsrecht, dessen Gegenstand eine bewegliche Sache ist, wird durch einen dreyjährigen rechtlichen Besitz ersessen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1466-abgb--ersitzungszeit-ordentliche) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1297_TextContainer_1297) \]
+
+----
 
 ### § 1468 ABGB
 
@@ -11269,11 +13865,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1468-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1298_TextContainer_1298) \]
 
+----
+
 ### § 1470 ABGB
 
 > Wo noch keine ordentlichen öffentlichen Bücher bestehen, oder ein solches Recht denselben nicht einverleibt ist, kann es der redliche Inhaber erst nach dreyßig Jahren ersitzen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1470-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1299_TextContainer_1299) \]
+
+----
 
 ### § 1471 ABGB
 
@@ -11281,11 +13881,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1471-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1300_TextContainer_1300) \]
 
+----
+
 ### § 1472 ABGB — Außerordentliche
 
 > Gegen den Fiscus, das ist: gegen die Verwalter der Staatsgüter und des Staatsvermögens, in so weit die Verjährung Platz greift \(§§\. 287, 289 u\. 1456 – 1457\), ferner gegen die Verwalter der Güter der Kirchen, Gemeinden und anderer erlaubten Körper, reicht die gemeine ordentliche Ersitzungszeit nicht zu\. Der Besitz beweglicher Sachen, so wie auch der Besitz der unbeweglichen, oder der darauf ausgeübten Dienstbarkeiten und anderer Rechte, wenn sie auf den Nahmen des Besitzers den öffentlichen Büchern einverleibt sind, muß durch sechs Jahre fortgesetzt werden\. Rechte solcher Art, die auf den Nahmen des Besitzers in die öffentlichen Bücher nicht einverleibt sind, und alle übrige Rechte lassen sich gegen den Fiscus und die hier angeführten begünstigten Personen nur durch den Besitz von vierzig Jahren erwerben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1472-abgb--außerordentliche) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1301_TextContainer_1301) \]
+
+----
 
 ### § 1473 ABGB
 
@@ -11293,11 +13897,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1473-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1302_TextContainer_1302) \]
 
+----
+
 ### § 1475 ABGB
 
 > Der Aufenthalt des Eigenthümers außer der Provinz, in welcher sich die Sache befindet, steht der ordentliche Ersitzung und Verjährung in so weit entgegen, daß die Zeit einer willkührlichen und schuldlosen Abwesenheit nur zur Hälfte, folglich ein Jahr nur für sechs Monathe gerechnet wird\. Doch soll auf kurze Zeiträume der Abwesenheit, welche durch kein volles Jahr ununterbrochen gedauert haben, nicht Bedacht genommen, und überhaupt die Zeit nie weiter als bis auf dreyßig Jahre zusammen ausgedehnet werden\. Schuldbare Abwesenheit genießt keine Ausnahme von der ordentlichen Verjährungszeit\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1475-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1303_TextContainer_1303) \]
+
+----
 
 ### § 1476 ABGB
 
@@ -11305,11 +13913,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1476-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1304_TextContainer_1304) \]
 
+----
+
 ### § 1477 ABGB
 
 > Wer die Ersitzung auf einen Zeitraum von dreyßig oder vierzig Jahren stützt, bedarf keiner Angabe des rechtmäßigen Titels\. Die gegen ihn erwiesene Unredlichkeit des Besitzes schließt aber auch in diesem längeren Zeitraume die Ersitzung aus\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1477-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1305_TextContainer_1305) \]
+
+----
 
 ### § 1478 ABGB — Verjährungszeit. Allgemeine
 
@@ -11317,11 +13929,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1478-abgb--verjährungszeit-allgemeine) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1306_TextContainer_1306) \]
 
+----
+
 ### § 1479 ABGB
 
 > Alle Rechte gegen einen Dritten, sie mögen den öffentlichen Büchern einverleibt seyn oder nicht, erlöschen also in der Regel längstens durch den dreyßigjährigen Nichtgebrauch, oder durch ein so lange Zeit beobachtetes Stillschweigen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1479-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1307_TextContainer_1307) \]
+
+----
 
 ### § 1480 ABGB
 
@@ -11329,11 +13945,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1480-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1308_TextContainer_1308) \]
 
+----
+
 ### § 1481 ABGB — Ausnahmen:
 
 > Die in dem Familien\- und überhaupt in dem Personen\-Rechte gegründeten Verbindlichkeiten, z\. B\. den Kindern den unentbehrlichen Unterhalt zu verschaffen, so wie diejenigen, welche dem oben \(§\. 1459\) angeführten Rechte, mit seinem Eigenthume frey zu schalten, zusagen, z\. B\. die Verbindlichkeit, die Theilung einer gemeinschaftlichen Sache oder die Gränzbestimmung vornehmen zu lassen, können nicht verjährt werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1481-abgb--ausnahmen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1309_TextContainer_1309) \]
+
+----
 
 ### § 1482 ABGB
 
@@ -11341,17 +13961,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1482-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1310_TextContainer_1310) \]
 
+----
+
 ### § 1483 ABGB
 
 > So lange der Gläubiger das Pfand in Händen hat, kann ihm die unterlassene Ausübung des Pfandrechtes nicht eingewendet und das Pfandrecht nicht verjährt werden\. Auch das Recht des Schuldners, sein Pfand einzulösen, bleibt unverjährt\. In so fern aber die Forderung den Werth des Pfandes übersteigt, kann sie inzwischen durch Verjährung erlöschen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1483-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1311_TextContainer_1311) \]
 
+----
+
 ### § 1484 ABGB
 
 > Zur Verjährung solcher Rechte, die nur selten ausgeübt werden können, wird erfordert, daß während der Verjährungszeit von dreyßig Jahren von drey Gelegenheiten, ein solches Recht auszuüben, kein Gebrauch gemacht worden sey \(§\. 1471\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1484-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1312_TextContainer_1312) \]
+
+----
 
 ### § 1485 ABGB
 
@@ -11360,6 +13986,8 @@
 > `(2)` Die allgemeine Regel, daß ein Recht wegen des Nichtgebrauches erst nach Verlauf von dreißig oder vierzig Jahren verloren gehe, ist nur auf diejenigen Fälle anwendbar, für welche das Gesetz nicht einen kürzeren Zeitraum ausgemessen hat \(§ 1465\)\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1485-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1313_TextContainer_1313) \]
+
+----
 
 ### § 1486 ABGB — Besondere Verjährungszeit
 
@@ -11381,17 +14009,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1486-abgb--besondere-verjährungszeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1314_TextContainer_1314) \]
 
+----
+
 ### § 1486a ABGB
 
 > Der Anspruch eines Ehegatten auf Abgeltung seiner Mitwirkung im Erwerb des anderen \(§ 98\) verjährt in sechs Jahren vom Ende des Monats, in dem die Leistung erbracht worden ist\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1486a-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1315_TextContainer_1315) \]
 
+----
+
 ### § 1487 ABGB
 
 > Die Rechte, eine Schenkung wegen Undankbarkeit des Beschenkten zu widerrufen einen entgeltlichen Vertrag wegen Verletzung über die Hälfte aufzuheben, oder die vorgenommene Teilung eines gemeinschaftlichen Gutes zu bestreiten; und die Forderung wegen einer bei dem Vertrage unterlaufenen Furcht oder eines Irrtums, wobei sich der andere vertragmachende Teil keiner List schuldig gemacht hat, müssen binnen drei Jahren geltend gemacht werden\. Nach Verlauf dieser Zeit sind sie verjährt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1487-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1316_TextContainer_1316) \]
+
+----
 
 ### § 1487a ABGB — Verjährung erbrechtlicher Ansprüche
 
@@ -11401,11 +14035,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1487a-abgb--verjährung-erbrechtlicher-ansprüche) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1317_TextContainer_1317) \]
 
+----
+
 ### § 1488 ABGB
 
 > Das Recht der Dienstbarkeit wird durch den Nichtgebrauch verjährt, wenn sich der verpflichtete Theil der Ausübung der Servitut widersetzt, und der Berechtigte durch drey auf einander folgende Jahre sein Recht nicht geltend gemacht hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1488-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1318_TextContainer_1318) \]
+
+----
 
 ### § 1489 ABGB
 
@@ -11413,11 +14051,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1489-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1319_TextContainer_1319) \]
 
+----
+
 ### § 1491 ABGB
 
 > Einige Rechte sind von den Gesetzen auf eine noch kürzere Zeit eingeschränkt\. Hierüber kommen die Vorschriften an den Orten, wo diese Rechte abgehandelt werden, vor\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1491-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1320_TextContainer_1320) \]
+
+----
 
 ### § 1492 ABGB
 
@@ -11425,11 +14067,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1492-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1321_TextContainer_1321) \]
 
+----
+
 ### § 1493 ABGB — Einrechnung der Verjährungszeit des Vorfahrers
 
 > Wer eine Sache von einem rechtmäßigen und redlichen Besitzer redlich übernimmt, der ist als Nachfolger berechtiget, die Ersitzungszeit seines Vorfahrers mit einzurechnen \(§\. 1463\)\. Eben dieses gilt auch von der Verjährungszeit\. Bey einer Ersitzung von dreyßig oder vierzig Jahren findet diese Einrechnung auch ohne einen rechtmäßigen Titel, und bey der eigentlichen Verjährung selbst ohne guten Glauben, oder schuldlose Unwissenheit Statt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1493-abgb--einrechnung-der-verjährungszeit-des-vorfahrers) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1322_TextContainer_1322) \]
+
+----
 
 ### § 1494 ABGB — Hemmung der Verjährung
 
@@ -11441,11 +14087,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1494-abgb--hemmung-der-verjährung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1323_TextContainer_1323) \]
 
+----
+
 ### § 1495 ABGB
 
 > Auch zwischen Ehegatten oder eingetragenen Partnern sowie zwischen gesetzlichen Vertretern \(§ 1034\) und den von ihnen Vertretenen kann, solange die Ehe, die eingetragene Partnerschaft oder das Vertretungsverhältnis andauert, die Ersitzung oder Verjährung weder anfangen noch fortgesetzt werden\. Das gilt nicht für die Ansprüche eines Ehegatten oder eines eingetragenen Partners auf Abgeltung der Mitwirkung im Erwerb des anderen Teils, doch wird die Verjährung so lange gehemmt, als zwischen den Ehegatten oder eingetragenen Partnern ein gerichtliches Verfahren zur Entscheidung über einen Anspruch auf Abgeltung anhängig ist und gehörig fortgesetzt wird\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1495-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1324_TextContainer_1324) \]
+
+----
 
 ### § 1496 ABGB
 
@@ -11453,11 +14103,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1496-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1325_TextContainer_1325) \]
 
+----
+
 ### § 1497 ABGB — Unterbrechung der Verjährung
 
 > Die Ersitzung sowohl, als die Verjährung wird unterbrochen, wenn derjenige, welcher sich auf dieselbe berufen will, vor dem Verlaufe der Verjährungszeit entweder ausdrücklich oder stillschweigend das Recht des Andern anerkannt hat; oder wenn er von dem Berechtigten belangt, und die Klage gehörig fortgesetzt wird\. Wird aber die Klage durch einen rechtskräftigen Spruch für unstatthaft erklärt; so ist die Verjährung für ununterbrochen zu halten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1497-abgb--unterbrechung-der-verjährung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1326_TextContainer_1326) \]
+
+----
 
 ### § 1498 ABGB — Wirkung der Ersitzung oder Verjährung
 
@@ -11465,11 +14119,15 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1498-abgb--wirkung-der-ersitzung-oder-verjährung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1327_TextContainer_1327) \]
 
+----
+
 ### § 1499 ABGB
 
 > Auf gleiche Art kann nach Verlauf der Verjährung der Verpflichtete die Löschung seiner in den öffentlichen Büchern eingetragenen Verbindlichkeit, oder die Nichtigerklärung des dem Berechtigten bisher zugestandenen Rechtes und der darüber ausgestellten Urkunden erwirken\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1499-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1328_TextContainer_1328) \]
+
+----
 
 ### § 1500 ABGB
 
@@ -11477,17 +14135,23 @@
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1500-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1329_TextContainer_1329) \]
 
+----
+
 ### § 1501 ABGB
 
 > Auf die Verjährung ist, ohne Einwendung der Parteyen, von Amts wegen kein Bedacht zu nehmen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1501-abgb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1330_TextContainer_1330) \]
 
+----
+
 ### § 1502 ABGB — Entsagung oder Verlängerung der Verjährung
 
 > Der Verjährung kann weder im voraus entsagt, noch kann eine längere Verjährungsfrist, als durch die Gesetze bestimmt ist, bedungen werden\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1502-abgb--entsagung-oder-verlängerung-der-verjährung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1331_TextContainer_1331) \]
+
+----
 
 ## Fünftes Hauptstück
 
@@ -11642,3 +14306,7 @@
 > `(25)` § 1319b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 33/2024 tritt mit 1\. Mai 2024 in Kraft und ist in dieser Fassung auf Schadensereignisse anzuwenden, die nach dem 30\. April 2024 eintreten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md#-1503-abgb--inkrafttreten-und-übergangsbestimmungen-ab-1-februar-2013) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1332_TextContainer_1332) \]
+
+----
+
+*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1333_TextContainer_1333) zu dieser Rechtsvorschrift.)*

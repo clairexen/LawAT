@@ -5,8 +5,8 @@
 **Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 133/2024 (NR: GP XXVII IA 4123/A AB 2622 S. 274. BR: AB 11571 S. 970.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917  
-**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md  
-*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+**RisEn-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md  
+*Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Inhaltsverzeichnis
 
@@ -69,6 +69,8 @@
 
 Der Nationalrat hat beschlossen:
 
+----
+
 ## 1. Abschnitt
 
 ## Allgemeine Bestimmungen
@@ -87,6 +89,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-1-verg--verein) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) \]
 
+----
+
 ### § 2 VerG — Gründung des Vereins
 
 > `(1)` Die Gründung eines Vereins umfasst seine Errichtung und seine Entstehung\. Der Verein wird durch die Vereinbarung von Statuten \(Gründungsvereinbarung\) errichtet\. Er entsteht als Rechtsperson mit Ablauf der Frist gemäß § 13 Abs\. 1 oder mit früherer Erlassung eines Bescheids gemäß § 13 Abs\. 2\.
@@ -98,6 +102,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Für Handlungen im Namen des Vereins vor seiner Entstehung haften die Handelnden persönlich zur ungeteilten Hand \(Gesamtschuldner\)\. Rechte und Pflichten, die im Namen des Vereins vor seiner Entstehung von den Gründern oder von bereits bestellten organschaftlichen Vertretern begründet wurden, werden mit der Entstehung des Vereins für diesen wirksam, ohne dass es einer Genehmigung durch Vereinsorgane oder Gläubiger bedarf\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-2-verg--gründung-des-vereins) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) \]
+
+----
 
 ### § 3 VerG — Statuten
 
@@ -131,6 +137,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-3-verg--statuten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) \]
 
+----
+
 ### § 4 VerG — Name, Sitz
 
 > `(1)` Der Name des Vereins muss einen Schluss auf den Vereinszweck zulassen und darf nicht irreführend sein\. Verwechslungen mit anderen bestehenden Vereinen, Einrichtungen oder Rechtsformen müssen ausgeschlossen sein\.
@@ -138,6 +146,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Der Sitz des Vereins muss im Inland liegen\. Als Sitz ist der Ort zu bestimmen, an dem der Verein seine tatsächliche Hauptverwaltung hat\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-4-verg--name-sitz) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) \]
+
+----
 
 ### § 5 VerG — Organe, Prüfer
 
@@ -153,6 +163,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-5-verg--organe-prüfer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) \]
 
+----
+
 ### § 6 VerG — Geschäftsführung, Vertretung
 
 > `(1)` Sehen die Statuten nicht anderes vor, so ist Gesamtgeschäftsführung anzunehmen\. Hiefür genügt im Zweifel einfache Stimmenmehrheit\.
@@ -165,11 +177,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-6-verg--geschäftsführung-vertretung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) \]
 
+----
+
 ### § 7 VerG — Nichtigkeit und Anfechtbarkeit von Vereinsbeschlüssen
 
 > Beschlüsse von Vereinsorganen sind nichtig, wenn dies Inhalt und Zweck eines verletzten Gesetzes oder die guten Sitten gebieten\. Andere gesetz\- oder statutenwidrige Beschlüsse bleiben gültig, sofern sie nicht binnen eines Jahres ab Beschlussfassung gerichtlich angefochten werden\. Jedes von einem Vereinsbeschluss betroffene Vereinsmitglied ist zur Anfechtung berechtigt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-7-verg--nichtigkeit-und-anfechtbarkeit-von-vereinsbeschlüssen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) \]
+
+----
 
 ### § 8 VerG — Streitschlichtung
 
@@ -178,6 +194,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Statuten haben die Zusammensetzung und die Art der Bestellung der Mitglieder der Schlichtungseinrichtung unter Bedachtnahme auf deren Unbefangenheit zu regeln\. Den Streitparteien ist beiderseitiges Gehör zu gewähren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-8-verg--streitschlichtung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) \]
+
+----
 
 ### § 9 VerG — Vereinsbehörden, Verfahren
 
@@ -189,11 +207,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-9-verg--vereinsbehörden-verfahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) \]
 
+----
+
 ### § 10 VerG — Vereinsversammlungen
 
 > Für Versammlungen, die von einem Verein abgehalten werden, gilt das Versammlungsgesetz 1953, BGBl\. Nr\. 98/1953, mit der Maßgabe, dass die Mitglieder des Vereins als geladene Gäste gemäß § 2 Abs\. 1 dieses Gesetzes anzusehen sind\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-10-verg--vereinsversammlungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) \]
+
+----
 
 ## 2. Abschnitt
 
@@ -206,6 +228,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Besteht der in den Statuten umschriebene Vereinszweck in der Ausübung eines Kultus, hat die Vereinsbehörde die Statuten unverzüglich an den Bundeskanzler zu übermitteln\. Dieser hat zu prüfen, ob die umschriebene Ausübung dieses Kultus einen Eingriff in die inneren Angelegenheiten einer gesetzlich anerkannten Kirche oder Religionsgesellschaft darstellt\. Das Ergebnis der Prüfung ist unverzüglich an die Vereinsbehörde zu übermitteln\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-11-verg--anzeige-der-vereinserrichtung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) \]
+
+----
 
 ### § 12 VerG — Erklärung, dass die Vereinsgründung nicht gestattet ist
 
@@ -221,6 +245,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-12-verg--erklärung-dass-die-vereinsgründung-nicht-gestattet-ist) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) \]
 
+----
+
 ### § 13 VerG — Einladung zur Aufnahme der Vereinstätigkeit
 
 > `(1)` Ergeht binnen vier, im Fall einer Verlängerung gemäß § 12 Abs\. 3 binnen längstens sechs Wochen nach Einlangen der Errichtungsanzeige keine Erklärung gemäß § 12 Abs\. 1, so gilt das Schweigen der Vereinsbehörde als Einladung zur Aufnahme der Vereinstätigkeit\. Der mit Fristablauf entstandene Verein \(§ 2 Abs\. 1\) kann seine Tätigkeit beginnen\. Die Vereinsbehörde hat den Anzeigern eine unbeglaubigte Abschrift der Statuten und einen Auszug aus dem Vereinsregister zu übermitteln\.
@@ -228,6 +254,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Schon vor Fristablauf kann an die Anzeiger mit Bescheid eine ausdrückliche Einladung zur Aufnahme der Vereinstätigkeit ergehen, sobald die Vereinsbehörde zu einer Erklärung gemäß § 12 Abs\. 1 keinen Anlass sieht\. Der Einladung ist eine unbeglaubigte Abschrift der Statuten und ein Auszug aus dem Vereinsregister anzuschließen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-13-verg--einladung-zur-aufnahme-der-vereinstätigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) \]
+
+----
 
 ### § 14 VerG — Änderung der Statuten, der organschaftlichen Vertreter und der Vereinsanschrift
 
@@ -238,6 +266,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Der Verein hat der Vereinsbehörde auch jede Änderung seiner für Zustellungen maßgeblichen Anschrift binnen vier Wochen mitzuteilen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-14-verg--änderung-der-statuten-der-organschaftlichen-vertreter-und-der-vereinsanschrift) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) \]
+
+----
 
 ## 3. Abschnitt
 
@@ -250,6 +280,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Eine Weiterverarbeitung besonderer Kategorien personenbezogener Daten gemäß § 19a durch die Vereinsbehörden ist weder im Lokalen noch im Zentralen Vereinsregister zulässig\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-15-verg--verarbeitung-besonderer-kategorien-personenbezogener-daten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) \]
+
+----
 
 ### § 16 VerG — Lokales Vereinsregister
 
@@ -301,6 +333,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-16-verg--lokales-vereinsregister) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) \]
 
+----
+
 ### § 17 VerG — Erteilung von Auskünften aus dem Lokalen Vereinsregister
 
 > `(1)` Die Vereinsbehörden haben auf Verlangen aus dem Lokalen Vereinsregister jedermann über die in § 16 Abs\. 1 Z 1 bis 7, 10 bis 13 und 16 angeführten Daten eines nach
@@ -335,6 +369,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-17-verg--erteilung-von-auskünften-aus-dem-lokalen-vereinsregister) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) \]
 
+----
+
 ### § 18 VerG — Zentrales Vereinsregister
 
 > `(1)` Die Vereinsbehörden sind als gemeinsam Verantwortliche gemäß Art\. 4 Z 7 in Verbindung mit Art\. 26 Abs\. 1 DSGVO ermächtigt, die für die Wahrnehmung der ihnen nach diesem Bundesgesetz übertragenen Aufgaben erforderlichen personenbezogenen Daten gemeinsam in der Art zu verarbeiten, dass jeder Verantwortliche auch auf jene Daten in der Datenverarbeitung Zugriff hat, die dieser von den anderen Verantwortlichen zur Verfügung gestellt wurden \(Zentrales Vereinsregister – ZVR\)\. Die Vereinsbehörden haben dem Bundesminister für Inneres für die Zwecke der Führung des Zentralen Vereinsregisters unverzüglich ihre Vereinsdaten gemäß § 16 Abs\. 1 im Wege der Datenfernübertragung zu übermitteln\.
@@ -350,6 +386,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Hinsichtlich der Verarbeitung personenbezogener Daten nach diesem Bundesgesetz besteht kein Widerspruchsrecht gemäß Art\. 21 DSGVO sowie kein Recht auf Einschränkung der Verarbeitung gemäß Art\. 18 DSGVO\. Darüber sind die Betroffenen in geeigneter Weise zu informieren\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-18-verg--zentrales-vereinsregister) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) \]
+
+----
 
 ### § 19 VerG — Erteilung von Auskünften aus dem Zentralen Vereinsregister
 
@@ -395,6 +433,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-19-verg--erteilung-von-auskünften-aus-dem-zentralen-vereinsregister) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) \]
 
+----
+
 ### § 19a VerG — Übermittlung personenbezogener Daten
 
 > `(1)` Kriminalpolizei, Staatsanwaltschaften und Gerichte sind ermächtigt, den Vereinsbehörden nach der Strafprozeßordnung 1975 \(StPO\), BGBl\. Nr\. 631/1975, insbesondere auch durch Ermittlungsmaßnahmen nach dem 4\. bis 6\. Abschnitt des 8\. Hauptstücks, ermittelte personenbezogene Daten zu übermitteln, soweit eine Weiterverarbeitung dieser Daten durch die Vereinsbehörden in Verfahren betreffend die Vereinserrichtung sowie die behördliche Auflösung eines Vereins erforderlich ist\. Im Rahmen eines Rechtsmittelverfahrens obliegt die Übermittlung dieser Daten an das zuständige Landesverwaltungsgericht der jeweiligen Vereinsbehörde\.
@@ -405,6 +445,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-19a-verg--übermittlung-personenbezogener-daten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) \]
 
+----
+
 ## 4. Abschnitt
 
 ## Vereinsgebarung
@@ -414,6 +456,8 @@ Der Nationalrat hat beschlossen:
 > Das Leitungsorgan ist verpflichtet, in der Mitgliederversammlung die Mitglieder über die Tätigkeit und die finanzielle Gebarung des Vereins zu informieren\. Wenn mindestens ein Zehntel der Mitglieder dies unter Angabe von Gründen verlangt, hat das Leitungsorgan eine solche Information den betreffenden Mitgliedern auch sonst binnen vier Wochen zu geben\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-20-verg--informationspflicht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) \]
+
+----
 
 ### § 21 VerG — Rechnungslegung
 
@@ -429,6 +473,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-21-verg--rechnungslegung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) \]
 
+----
+
 ### § 22 VerG — Qualifizierte Rechnungslegung für große Vereine
 
 > `(1)` Das Leitungsorgan eines Vereins, dessen gewöhnliche Einnahmen oder gewöhnliche Ausgaben in zwei aufeinander folgenden Rechnungsjahren jeweils höher als eine Million Euro waren, hat ab dem folgenden Rechnungsjahr an Stelle der Einnahmen\- und Ausgabenrechnung einen Jahresabschluss \(Bilanz, Gewinn\- und Verlustrechnung\) aufzustellen\. § 21 und die §§ 190 bis 193 Abs\. 1 und 193 Abs\. 3 bis 216 UGB sind sinngemäß anzuwenden\. Die Verpflichtung zur Aufstellung eines Jahresabschlusses entfällt, sobald der Schwellenwert in zwei aufeinander folgenden Rechnungsjahren nicht mehr überschritten wird\.
@@ -443,6 +489,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-22-verg--qualifizierte-rechnungslegung-für-große-vereine) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) \]
 
+----
+
 ## 5. Abschnitt
 
 ## Haftung
@@ -452,6 +500,8 @@ Der Nationalrat hat beschlossen:
 > Für Verbindlichkeiten des Vereins haftet der Verein mit seinem Vermögen\. Organwalter und Vereinsmitglieder haften persönlich nur dann, wenn sich dies aus anderen gesetzlichen Vorschriften oder auf Grund persönlicher rechtsgeschäftlicher Verpflichtung ergibt\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-23-verg--haftung-für-verbindlichkeiten-des-vereins) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) \]
+
+----
 
 ### § 24 VerG — Haftung von Organwaltern und Rechnungsprüfern
 
@@ -485,6 +535,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-24-verg--haftung-von-organwaltern-und-rechnungsprüfern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) \]
 
+----
+
 ### § 25 VerG — Geltendmachung von Ersatzansprüchen des Vereins
 
 > `(1)` Zur Geltendmachung von Ersatzansprüchen des Vereins gegen einen Organwalter kann die Mitgliederversammlung einen Sondervertreter bestellen\. Dazu kann die Mitgliederversammlung jedenfalls auch von einem allfälligen Aufsichtsorgan einberufen werden\.
@@ -495,11 +547,15 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-25-verg--geltendmachung-von-ersatzansprüchen-des-vereins) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) \]
 
+----
+
 ### § 26 VerG — Verzicht auf Ersatzansprüche durch den Verein
 
 > Ein Verzicht auf oder ein Vergleich über Ersatzansprüche des Vereins gegen Organwalter oder Prüfer ist Gläubigern des Vereins gegenüber unwirksam\. Anderes gilt nur, wenn der Ersatzpflichtige zahlungsunfähig oder überschuldet ist und sich zur Überwindung der Zahlungsunfähigkeit oder Überschuldung mit seinen Gläubigern vergleicht\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-26-verg--verzicht-auf-ersatzansprüche-durch-den-verein) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) \]
+
+----
 
 ## 6. Abschnitt
 
@@ -511,6 +567,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-27-verg--ende-der-rechtspersönlichkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) \]
 
+----
+
 ### § 28 VerG — Freiwillige Auflösung
 
 > `(1)` Die Statuten bestimmen, unter welchen Voraussetzungen sich ein Verein selbst auflösen kann und was in diesem Fall mit dem Vereinsvermögen zu geschehen hat\.
@@ -520,6 +578,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Ist eine Abwicklung nicht erforderlich, so müssen die Eintragung der freiwilligen Auflösung im Vereinsregister und die anderen, zu diesem Zeitpunkt aktuell gewesenen Registerdaten \- abweichend von § 17 Abs\. 2 \- noch ein Jahr nach Eintragung der Auflösung allgemein abfragbar bleiben \(§ 17 Abs\. 1\)\. Bis zur Betriebsaufnahme des Zentralen Vereinsregisters ist die freiwillige Auflösung überdies vom Verein binnen vier Wochen nach der Auflösung in einer für amtliche Verlautbarungen bestimmten Zeitung zu veröffentlichen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-28-verg--freiwillige-auflösung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) \]
+
+----
 
 ### § 29 VerG — Behördliche Auflösung
 
@@ -532,6 +592,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Schließlich hat die Vereinsbehörde bei Vorhandensein eines Vereinsvermögens dieses abzuwickeln\. Wenn dies aus Gründen möglichster Sparsamkeit, Raschheit, Einfachheit oder Zweckmäßigkeit, insbesondere im berechtigten Interesse Dritter, erforderlich ist, hat sie einen von ihr verschiedenen Abwickler zu bestellen\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-29-verg--behördliche-auflösung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) \]
+
+----
 
 ### § 30 VerG — Abwicklung, Nachabwicklung
 
@@ -549,6 +611,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-30-verg--abwicklung-nachabwicklung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) \]
 
+----
+
 ### § 30a VerG — Umwandlung eines Vereins in eine Genossenschaft
 
 > `(1)` Ein Verein kann gemäß § 91a GenG in eine Genossenschaft umgewandelt werden\. Handelt es sich bei dem Verein um einen anerkannten Revisionsverband, so hat eine allfällige Umwandlung gemäß § 19a GenRevG zu erfolgen\.
@@ -558,6 +622,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Umwandlung wird gemäß § 91a Abs\. 5 GenG mit der Eintragung der Genossenschaft in das Firmenbuch wirksam\. Der Eintragungsbeschluss ist danach auch der zuständigen Vereinsbehörde zuzustellen\. Mit der Eintragung der Genossenschaft gilt der Verein als freiwillig aufgelöst\. Einer entsprechenden Eintragung im Vereinsregister kommt deklarative Wirkung zu\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-30a-verg--umwandlung-eines-vereins-in-eine-genossenschaft) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) \]
+
+----
 
 ## 7. Abschnitt
 
@@ -591,6 +657,8 @@ Der Nationalrat hat beschlossen:
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-31-verg--strafbestimmung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) \]
 
+----
+
 ### § 32 VerG — Verweisungen
 
 > `(1)` Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden\.
@@ -598,6 +666,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Soweit in anderen Bundesgesetzen und Verordnungen auf Bestimmungen verwiesen ist, die durch dieses Bundesgesetz geändert oder aufgehoben werden, erhält die Verweisung ihren Inhalt aus den entsprechenden Bestimmungen dieses Bundesgesetzes\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-32-verg--verweisungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) \]
+
+----
 
 ### § 33 VerG — In-Kraft-Treten, Außer-Kraft-Treten und Übergangsbestimmungen
 
@@ -642,6 +712,8 @@ Der Nationalrat hat beschlossen:
 > *Anm\. 2: gemäß BGBl\. II Nr\. 340/2023: 5\.12\.2023\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md#-33-verg--in-kraft-treten-außer-kraft-treten-und-übergangsbestimmungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) \]
+
+----
 
 ### § 34 VerG — Vollziehung
 

@@ -630,16 +630,6 @@ class RisEnDocMarkdownEngine:
         performIndent()
         self.largeBreak()
 
-        if not flags.forai:
-            navItems = [
-                f"[🔗 Permalink]({flags.permauri}/{self.normkey}.md#{anchor})",
-                #f"[📜 RIS-Paragraphenansicht](#blabla)",
-                f"[📖 RIS-Gesamtansicht]({self.normdata['docurl']}#{self.srcAnchors[self.citepath[0]]})",
-                #f"[🤖 KI-freundliche Fassung](#blabla)",
-            ]
-            self.push(f"\\[ {' | '.join(navItems)} \\]")
-            self.largeBreak()
-
         lastLine = len(self.lines)-2 # not including the empty line we just pushed
         byteCount = sum(len(self.lines[i]) for i in range(firstLine, lastLine+1))
 
@@ -651,6 +641,7 @@ class RisEnDocMarkdownEngine:
 
         parinfo = SimpleNamespace(
             name=self.citepath[0],
+            anchor=anchor,
             citename=parCiteStr,
             section=len(self.sections)-1,
             indexInDoc=len(self.pars),
@@ -717,8 +708,8 @@ class RisEnDocMarkdownEngine:
         self.push(f"**Gesamte Rechtsvorschrift in der Fassung vom:** {self.meta['FassungVom'][-1]}  ")
         self.push(f"**Letzte Änderung:** {self.meta['LastChange'][-1]}  ")
         self.push(f"**Quelle:** {self.normdata['docurl']}  ")
-        self.push(f"**RisEx-Link:** {flags.permauri}/{self.normkey}{partSuff}.md  ")
-        self.push(f"*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
+        self.push(f"**RisEn-Link:** {flags.permauri}/{self.normkey}{partSuff}.md  ")
+        self.push(f"*Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
 
         if partIdx is not None:
             self.largeBreak()
@@ -766,6 +757,10 @@ class RisEnDocMarkdownEngine:
                 if isinstance(p, str):
                     p = self.parmap[p]
 
+                if not flags.forai:
+                    self.largeBreak()
+                    self.push("----")
+
                 self.largeBreak()
                 #self.push("----")
                 firstParLine = len(self.lines)
@@ -779,12 +774,30 @@ class RisEnDocMarkdownEngine:
                 else:
                     self.idxout[p.citename].ref4human = ref
 
+                if not flags.forai:
+                    navItems = [
+                        f"[🔗 Permalink]({flags.permauri}/{self.normkey}.md#{p.anchor})",
+                        #f"[📜 RIS-Paragraphenansicht](#blabla)",
+                        f"[📖 RIS-Gesamtansicht]({self.normdata['docurl']}#{self.srcAnchors[p.name]})",
+                        #f"[🤖 KI-freundliche Fassung](#blabla)",
+                    ]
+                    self.largeBreak()
+                    self.push(f"\\[ {' | '.join(navItems)} \\]")
+
+
             if partIdx is not None:
                 self.largeBreak()
                 if partIdx < len(self.parts):
                     self.push(f"`END-OF-DATA-FILE` *(fortges. in [{self.normkey}.{partIdx+1:03}]({self.normkey}.{partIdx+1:03}.md))*")
                 else:
                     self.push(f"`END-OF-DATA-SET`")
+
+            elif self.srcAnchors["END"] != "footer":
+                self.largeBreak()
+                self.push("----")
+                self.largeBreak()
+                self.push("*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht]" +
+                        f"({self.normdata['docurl']}#{self.srcAnchors['END']}) zu dieser Rechtsvorschrift.)*")
 
             lastLine = len(self.lines)-1
             byteCount = sum(len(self.lines[i]) for i in range(firstLine, lastLine+1))
