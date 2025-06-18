@@ -17,6 +17,6 @@ deactivate() {
 	unset -f deactivate
 }
 if [ -z "${VIRTUAL_ENV_DISABLE_PROMPT:-}" ] ; then
-	export PS1="(RisEx) ${PS1#${VIRTUAL_ENV_PROMPT}}"
-	export VIRTUAL_ENV_PROMPT='(RisEx) '
+	export PS1="(RisEn) ${PS1#${VIRTUAL_ENV_PROMPT}}"
+	export VIRTUAL_ENV_PROMPT='(RisEn) '
 fi

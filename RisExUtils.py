@@ -32,7 +32,7 @@ GlobalFlagDefaults = {
     "limit": 30000,
     "filesdir": "files",
     "proxy": "http://127.0.0.1:8080",
-    "permauri": "https://github.com/clairexen/RisEx/blob/main/files"
+    "permauri": "https://github.com/clairexen/LawAT/blob/main/files"
 }
 
 FlagsType = namedtuple("FlagsType", GlobalFlagDefaults.keys(),
