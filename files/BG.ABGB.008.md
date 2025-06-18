@@ -5,7 +5,7 @@
 **Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-**RisEn-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.008.md  
+**RisEn-Link:** https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.008.md  
 *Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.ABGB.md](BG.ABGB.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*

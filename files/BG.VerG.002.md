@@ -5,7 +5,7 @@
 **Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 133/2024 (NR: GP XXVII IA 4123/A AB 2622 S. 274. BR: AB 11571 S. 970.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917  
-**RisEn-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.002.md  
+**RisEn-Link:** https://github.com/clairexen/LawAT/blob/main/files/BG.VerG.002.md  
 *Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.VerG.md](BG.VerG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
