@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 17.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.005.md  
@@ -93,7 +93,6 @@ zu bestimmen, dass in bestimmten Gebieten oder auf bestimmten Straßen Vorrichtu
 Bei der Erlassung solcher Verordnungen ist auf den angestrebten Zweck und auf die Verkehrserfordernisse Bedacht zu nehmen.
 
 `§ 43 (2a) StVO.`  
-
 `§ 43 (2a) Z 1 StVO.`
 Um Erschwernisse für die Wohnbevölkerung auszugleichen, die durch Verkehrsbeschränkungen hervorgerufen werden, kann die Behörde durch Verordnung Gebiete bestimmen, deren Bewohner die Erteilung einer Ausnahmegenehmigung für ein zeitlich uneingeschränktes Parken in - in der Verordnung zu bezeichnenden - nahegelegenen Kurzparkzonen mit Kraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von nicht mehr als 3 500 kg gemäß § 45 Abs. 4 beantragen können.  
 `§ 43 (2a) Z 2 StVO.`

@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** VerG, VerG_2002  
 **Langtitel:** Bundesgesetz über Vereine (Vereinsgesetz 2002 – VerG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 17.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 133/2024 (NR: GP XXVII IA 4123/A AB 2622 S. 274. BR: AB 11571 S. 970.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.003.md  

@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 17.06.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
 **Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
 **RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md  
@@ -1191,7 +1191,6 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; Bei der Erlassung solcher Verordnungen ist auf den angestrebten Zweck und auf die Verkehrserfordernisse Bedacht zu nehmen\.
 
-
 > `(2a)` > `1.` Um Erschwernisse für die Wohnbevölkerung auszugleichen, die durch Verkehrsbeschränkungen hervorgerufen werden, kann die Behörde durch Verordnung Gebiete bestimmen, deren Bewohner die Erteilung einer Ausnahmegenehmigung für ein zeitlich uneingeschränktes Parken in \- in der Verordnung zu bezeichnenden \- nahegelegenen Kurzparkzonen mit Kraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von nicht mehr als 3 500 kg gemäß § 45 Abs\. 4 beantragen können\.
 >
 >> `2.` Wenn es in den nach Z 1 bestimmten Gebieten auf Grund der örtlichen Gegebenheiten möglich ist und eine Notwendigkeit dafür besteht, hat die Behörde durch Verordnung zu bestimmen, daß auch Angehörige bestimmter Personenkreise, die in diesen Gebieten ständig tätig sind, die Erteilung einer Ausnahmegenehmigung für ein auf das notwendige zeitliche Ausmaß eingeschränktes Parken in den in der Verordnung nach Z 1 bezeichneten nahegelegenen Kurzparkzonen mit Kraftfahrzeugen mit einem höchsten zulässigen Gesamtgewicht von nicht mehr als 3 500 kg gemäß § 45 Abs\. 4a beantragen können\.
@@ -1499,12 +1498,9 @@ Der Nationalrat hat beschlossen:
 
 #### 8\. „FAHRBAHNVERENGUNG“
 
-
 > ![BG.StVO.obj.BN.NOR40081328.image021.png](BG.StVO.obj.BN.NOR40081328.image021.png "~/Dokumente/Bundesnormen/NOR40081328/image021.png")
 >
->
 > ![BG.StVO.obj.BN.NOR40081328.image022.png](BG.StVO.obj.BN.NOR40081328.image022.png "~/Dokumente/Bundesnormen/NOR40081328/image022.png")
->
 >
 > ![BG.StVO.obj.BN.NOR40081328.image023.png](BG.StVO.obj.BN.NOR40081328.image023.png "~/Dokumente/Bundesnormen/NOR40081328/image023.png")
 >
@@ -1921,9 +1917,7 @@ Der Nationalrat hat beschlossen:
 
 #### 17a\. „GEH\- UND RADWEG“
 
-
 > ![BG.StVO.obj.BN.NOR40261453.H.img50is.png](BG.StVO.obj.BN.NOR40261453.H.img50is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img50is.png")
->
 >
 > ![BG.StVO.obj.BN.NOR40261453.H.img51is.png](BG.StVO.obj.BN.NOR40261453.H.img51is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img51is.png")
 >
@@ -2218,15 +2212,11 @@ Der Nationalrat hat beschlossen:
 
 #### 15a\. „VORWEGWEISER \- AUTOBAHN ODER AUTOSTRASSE“
 
-
 > ![BG.StVO.obj.BN.NOR40261454.H.img50is.jpg](BG.StVO.obj.BN.NOR40261454.H.img50is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img50is.jpg")
->
 >
 > ![BG.StVO.obj.BN.NOR40261454.H.img51is.jpg](BG.StVO.obj.BN.NOR40261454.H.img51is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img51is.jpg")
 >
->
 > ![BG.StVO.obj.BN.NOR40261454.H.img52is.png](BG.StVO.obj.BN.NOR40261454.H.img52is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img52is.png")
->
 >
 > ![BG.StVO.obj.BN.NOR40261454.H.img53is.jpg](BG.StVO.obj.BN.NOR40261454.H.img53is.jpg "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img53is.jpg")  
 > &nbsp; Diese Zeichen zeigen den weiteren Verlauf einer Autobahn oder Autostraße und die nächste Ausfahrt an\. Ein Zeichen nach a\) ist etwa 1000 m, ein Zeichen nach b\) etwa 700 m oder, wenn ein Zeichen nach c\) nicht angebracht wird, etwa 500 m, ein Zeichen nach c\) etwa 400 m vor dem Beginn einer Ausfahrt aus einer Autobahn oder Autostraße anzubringen; ein Zeichen nach d\) ist etwa 1000 m vor dem Beginn einer Ausfahrt zu einer anderen Autobahn oder Autostraße anzubringen\.  
@@ -2234,9 +2224,7 @@ Der Nationalrat hat beschlossen:
 
 #### 15b\. „AUSFAHRTSWEGWEISER \- AUTOBAHN ODER AUTOSTRASSE“
 
-
 > ![BG.StVO.obj.BN.NOR40261454.H.img54is.png](BG.StVO.obj.BN.NOR40261454.H.img54is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img54is.png")
->
 >
 > ![BG.StVO.obj.BN.NOR40261454.H.img55is.png](BG.StVO.obj.BN.NOR40261454.H.img55is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img55is.png")  
 > ![BG.StVO.obj.BN.NOR40261454.H.img56is.png](BG.StVO.obj.BN.NOR40261454.H.img56is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img56is.png")  
@@ -2259,9 +2247,7 @@ Der Nationalrat hat beschlossen:
 
 #### 16c\. „WECHSEL DER RICHTUNGSFAHRBAHN“
 
-
 > ![BG.StVO.obj.BN.NOR40261454.H.img60is.png](BG.StVO.obj.BN.NOR40261454.H.img60is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img60is.png")
->
 >
 > ![BG.StVO.obj.BN.NOR40261454.H.img61is.png](BG.StVO.obj.BN.NOR40261454.H.img61is.png "~/Dokumente/Bundesnormen/NOR40261454/hauptdokument.img61is.png")  
 > &nbsp; Diese Zeichen kündigen auf Straßen mit Richtungsfahrbahnen einen Wechsel der Richtungsfahrbahn an, und zwar ein Zeichen nach a\) die Überleitung des Verkehrs von einer dann gesperrten Richtungsfahrbahn auf die Gegenfahrbahn, ein Zeichen nach b\) die Rückleitung zum getrennten Richtungsverkehr\. Auf den Zeichen ist die Anzahl und der Verlauf der zur Verfügung stehenden Fahrstreifen anzuzeigen\. In den Pfeilen können auch Hinweise auf Beschränkungen oder Verbote enthalten sein\. Auf den Zeichen können auch Entfernungsangaben angebracht werden\.
@@ -2372,67 +2358,54 @@ Der Nationalrat hat beschlossen:
 > `(4)` Zusatztafeln dürfen nicht verwendet werden, wenn ihre Bedeutung durch ein anderes Straßenverkehrszeichen \(§§ 50, 52 und 53\) zum Ausdruck gebracht werden kann\.
 
 > `(5)` Die nachstehenden Zusatztafeln bedeuten:
->
 
 > ![BG.StVO.obj.BN.NOR40245684.image001.png](BG.StVO.obj.BN.NOR40245684.image001.png "~/Dokumente/Bundesnormen/NOR40245684/image001.png")
 >
 > Eine solche Zusatztafel gibt die Entfernung bis zu der Straßenstelle an, auf die sich das betreffende Straßenverkehrszeichen bezieht\.
 >
->
 > ![BG.StVO.obj.BN.NOR40245684.image002.png](BG.StVO.obj.BN.NOR40245684.image002.png "~/Dokumente/Bundesnormen/NOR40245684/image002.png")
 >
 > Eine solche Zusatztafel gibt die Länge eines Straßenabschnittes an, für den das betreffende Straßenverkehrszeichen gilt, wie etwa eine längere Gefahrenstelle, die Länge einer Verbots\- oder Beschränkungsstrecke u\. dgl\.
->
 >
 > ![BG.StVO.obj.BN.NOR40245684.image003.png](BG.StVO.obj.BN.NOR40245684.image003.png "~/Dokumente/Bundesnormen/NOR40245684/image003.png")
 >
 > Eine solche Zusatztafel unter dem Zeichen „Vorrang geben“ kündigt das Zeichen „Halt“ an \(§ 48 Abs\. 6\)\.
 >
->
 > ![BG.StVO.obj.BN.NOR40245684.image004.png](BG.StVO.obj.BN.NOR40245684.image004.png "~/Dokumente/Bundesnormen/NOR40245684/image004.png")
 >
 > Eine solche Zusatztafel unter den Zeichen „Vorrang geben“ oder „Halt“ zeigt an, dass die Querstraße eine Vorrangstraße ist\.
->
 >
 > ![BG.StVO.obj.BN.NOR40245684.image005.png](BG.StVO.obj.BN.NOR40245684.image005.png "~/Dokumente/Bundesnormen/NOR40245684/image005.png")
 >
 > Eine solche Zusatztafel unter den Zeichen „Vorrang geben“, „Halt“ oder „Vorrangstraße“ zeigt an, dass eine Straße mit Vorrang einen besonderen Verlauf nimmt \(§ 19 Abs\. 4\)\.
 >
->
 > ![BG.StVO.obj.BN.NOR40245684.image006.jpg](BG.StVO.obj.BN.NOR40245684.image006.jpg "~/Dokumente/Bundesnormen/NOR40245684/image006.jpg")
 >
 > Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei Schneelage oder Eisbildung auf der Fahrbahn zu beachten ist\.
->
 >
 > ![BG.StVO.obj.BN.NOR40245684.image007.png](BG.StVO.obj.BN.NOR40245684.image007.png "~/Dokumente/Bundesnormen/NOR40245684/image007.png")
 >
 > Diese Zusatztafel weist darauf hin, dass das Straßenverkehrszeichen bei nasser Fahrbahn zu beachten ist\. Die Symbole der Zusatztafeln nach lit\. f und g dürfen auch auf einer Zusatztafel nebeneinander angebracht werden\.
 >
->
 > ![BG.StVO.obj.BN.NOR40245684.image008.png](BG.StVO.obj.BN.NOR40245684.image008.png "~/Dokumente/Bundesnormen/NOR40245684/image008.png")
 >
 > Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt an, dass das Halte\- und Parkverbot nicht für Fahrzeuge gilt, die nach der Bestimmung des § 29b Abs\. 4 gekennzeichnet sind\.
->
 >
 > ![BG.StVO.obj.BN.NOR40245684.image009.png](BG.StVO.obj.BN.NOR40245684.image009.png "~/Dokumente/Bundesnormen/NOR40245684/image009.png")
 >
 > Eine solche Zusatztafel unter dem Zeichen „Überholen verboten“ zeigt an, dass Zugmaschinen, Motorkarren, selbstfahrende Arbeitsmaschinen und vierrädrige Leichtkraftfahrzeuge überholt werden dürfen\.
 >
->
 > ![BG.StVO.obj.BN.NOR40245684.image010.png](BG.StVO.obj.BN.NOR40245684.image010.png "~/Dokumente/Bundesnormen/NOR40245684/image010.png")
 >
 > Eine solche Zusatztafel unter dem Zeichen „Halten und Parken verboten“ zeigt eine Abschleppzone \(§ 89a Abs\. 2 lit\. b\) an\.
->
 >
 > ![BG.StVO.obj.BN.NOR40245684.image011.png](BG.StVO.obj.BN.NOR40245684.image011.png "~/Dokumente/Bundesnormen/NOR40245684/image011.png")
 >
 > Diese Zusatztafel darf nur verwendet werden, wenn auf einer Fahrbahn mit mehreren Fahrstreifen für dieselbe Fahrtrichtung Straßenverkehrszeichen oberhalb eines Fahrstreifens angebracht sind; sie zeigt an, dass das Straßenverkehrszeichen nur für diesen Fahrstreifen gilt\.
 >
->
 > ![BG.StVO.obj.BN.NOR40245684.image012.png](BG.StVO.obj.BN.NOR40245684.image012.png "~/Dokumente/Bundesnormen/NOR40245684/image012.png")
 >
 > Diese Zusatztafel darf nur in Verbindung mit einem Straßenverkehrszeichen verwendet werden, das auf einer Verkehrsinsel, einem Fahrbahnteiler oder einer ähnlichen baulichen Einrichtung, die die Fahrbahn in mehrere Fahrstreifen für dieselbe Fahrtrichtung aufteilt, angebracht ist\. Sie zeigt an, dass das Straßenverkehrszeichen nur für den Fahrstreifen gilt, der links an der Trennungseinrichtung vorbeiführt\.
->
 >
 > ![BG.StVO.obj.BN.NOR40245684.image013.jpg](BG.StVO.obj.BN.NOR40245684.image013.jpg "~/Dokumente/Bundesnormen/NOR40245684/image013.jpg")  
 > &nbsp; Eine solche Zusatztafel unter dem Zeichen ‚Halten und Parken verboten‘ zeigt an, dass das Halte\- und Parkverbot nicht für ein von außen aufladbares Kraftfahrzeug mit einem Antriebsstrang, der mindestens einen nicht\-peripheren elektrischen Motor als Energiewandler mit einem elektrisch aufladbaren Energiespeichersystem, das extern aufgeladen werden kann, enthält \(Elektrofahrzeug\), während des Ladevorgangs gilt\.
