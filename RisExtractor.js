@@ -210,15 +210,18 @@ function getVisibleTextTree(el) {
 	return snippets;
 }
 
-risParList = []
-risContentBlocks = {}
-document.querySelectorAll("div.document > div.documentContent").forEach(el => {
-	const parName = el.querySelector(":scope > h2.onlyScreenreader:first-child").
-			textContent.trimStart().trimEnd();
-	// if (parName != "§ 31") return;
-	risContentBlocks[parName] = el;
-	risParList.push(parName);
-});
+risParList = [];
+risContentBlocks = {};
+_rex_initialize = () => {
+	document.querySelectorAll("div.document > div.documentContent").forEach(el => {
+		const parName = el.querySelector(":scope > h2.onlyScreenreader:first-child").
+				textContent.trimStart().trimEnd();
+		// if (parName != "§ 31") return;
+		risContentBlocks[parName] = el;
+		risParList.push(parName);
+	});
+	_rex_initialize = () => undefined;
+};
 
 class RisExAST {
 	risClsToRisExTyp = (() => {
@@ -544,6 +547,7 @@ function getMetaPromulgation() {
 }
 
 function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, annotate=false) {
+	_rex_initialize();
 	if (!parName) {
 		let doc = ["RisEnDoc" + (docName ? " " + docName : "")];
 		doc.push(getMetaLangtitel());
@@ -563,8 +567,36 @@ function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, a
 	}
 	let el = risContentBlocks[parName];
 	let ast = new RisExAST(null, el);
-	window.dbgAst = ast;
+	// window.dbgAst = ast;
 	ast.set("par", parName);
 	ast.parsePar();
 	return ast.getJSON(verbose, annotate);
+}
+
+const isNode = typeof process !== 'undefined' &&
+               process.versions != null &&
+               process.versions.node != null;
+
+if (isNode) {
+	const originalConsoleError = console.error;
+	console.error = (...args) => {
+		if (args[0]?.includes?.("Could not parse CSS @import URL")) return;
+		originalConsoleError(...args);
+	};
+	const fs = require("fs");
+	const { JSDOM, ResourceLoader } = require("jsdom");
+	const src = process.argv[2];
+	const html = fs.readFileSync(src, "utf-8");
+	class NoopResourceLoader extends ResourceLoader {
+		fetch() { return null; /* block everything */ }
+	};
+	const dom = new JSDOM(html, {
+		resources: new NoopResourceLoader(),
+		runScripts: "outside-only"
+	});
+	global.document = dom.window.document; // make it global if your code expects it
+	global.Element = dom.window.Element;
+	if (process.argv.length > 2)
+		global.risUserPromKl = process.argv[3];
+	process.stdout.write(prettyJSON(risExtractor()))
 }
