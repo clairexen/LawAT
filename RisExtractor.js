@@ -436,6 +436,9 @@ class RisExAST {
 				}
 
 				tag = this.get("type");
+				if (tag == "Text" && this.text.length == 0)
+					return null;
+
 				let tagTyp = "";
 				let isHeaderOrTitle = this.typeIn("Head", "Title");
 				if (isHeaderOrTitle && !inParPretext)
@@ -477,8 +480,10 @@ class RisExAST {
 		for (let item of this.text)
 			s.push(item);
 
-		for (let child of this.children)
-			s.push(child.getJSON(verbose, annotate));
+		for (let child of this.children) {
+			let c = child.getJSON(verbose, annotate);
+			if (c !== null) s.push(c);
+		}
 
 		return s;
 	}

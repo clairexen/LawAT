@@ -90,7 +90,7 @@
       ]
     },
     "Text": {
-      "type": "array", "minItems": 1,
+      "type": "array", "minItems": 2,
       "prefixItems": [{ "type": "string", "pattern": "^Text( |$)" }],
       "items": { "$ref": "#/$defs/TextContent" }
     },
@@ -100,7 +100,7 @@
     ]},
     "Anm": {
       "type": "array",
-      "minItems": 1,
+      "minItems": 2,
       "prefixItems": [{ "type": "string", "pattern": "^Anm$" }],
       "items": { "type": "string" }
     }
