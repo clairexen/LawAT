@@ -788,7 +788,7 @@ class RisEnDocMarkdownEngine:
                         f"[📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?" +
                                 f"Abfrage=Bundesnormen&Gesetzesnummer={gnr}&Paragraf={p.name.split()[-1]})",
                         f"[📖 RIS-Gesamtansicht]({self.normdata['docurl']}#{self.srcAnchors[p.name]})",
-                        f"[🤖 KI-freundliche Fassung]({flags.permauri}/{self.normkey}.{aipartidx:03}.md#{p.anchor}))",
+                        f"[🤖 KI-freundliche Fassung]({flags.permauri}/{self.normkey}.{aipartidx:03}.md#{p.anchor})",
                     ]
                     self.largeBreak()
                     self.push(f"\\[ {' | '.join(navItems)} \\]")

@@ -543,7 +543,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine schwerere als die zur Zeit der Begehung angedrohte Strafe darf nicht verhängt werden\. Eine vorbeugende Maßnahme darf nur angeordnet werden, wenn zur Zeit der Begehung diese vorbeugende Maßnahme oder eine der Art nach vergleichbare Strafe oder vorbeugende Maßnahme vorgesehen war\. Durch die Anordnung einer bloß der Art nach vergleichbaren vorbeugenden Maßnahme darf der Täter keiner ungünstigeren Behandlung unterworfen werden, als sie nach dem zur Zeit der Tat geltenden Gesetz zulässig war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-1-stgb--keine-strafe-ohne-gesetz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-1-stgb--keine-strafe-ohne-gesetz)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-1-stgb--keine-strafe-ohne-gesetz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-1-stgb--keine-strafe-ohne-gesetz) \]
 
 ----
 
@@ -551,7 +551,7 @@ Der Nationalrat hat beschlossen:
 
 > Bedroht das Gesetz die Herbeiführung eines Erfolges mit Strafe, so ist auch strafbar, wer es unterläßt, ihn abzuwenden, obwohl er zufolge einer ihn im besonderen treffenden Verpflichtung durch die Rechtsordnung dazu verhalten ist und die Unterlassung der Erfolgsabwendung einer Verwirklichung des gesetzlichen Tatbildes durch ein Tun gleichzuhalten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-2-stgb--begehung-durch-unterlassung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-2-stgb--begehung-durch-unterlassung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-2-stgb--begehung-durch-unterlassung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-2-stgb--begehung-durch-unterlassung) \]
 
 ----
 
@@ -561,7 +561,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer das gerechtfertigte Maß der Verteidigung überschreitet oder sich einer offensichtlich unangemessenen Verteidigung \(Abs\. 1\) bedient, ist, wenn dies lediglich aus Bestürzung, Furcht oder Schrecken geschieht, nur strafbar, wenn die Überschreitung auf Fahrlässigkeit beruht und die fahrlässige Handlung mit Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-3-stgb--notwehr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-3-stgb--notwehr)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-3-stgb--notwehr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-3-stgb--notwehr) \]
 
 ----
 
@@ -569,7 +569,7 @@ Der Nationalrat hat beschlossen:
 
 > Strafbar ist nur, wer schuldhaft handelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-4-stgb--keine-strafe-ohne-schuld) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-4-stgb--keine-strafe-ohne-schuld)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-4-stgb--keine-strafe-ohne-schuld) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-4-stgb--keine-strafe-ohne-schuld) \]
 
 ----
 
@@ -581,7 +581,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter handelt wissentlich, wenn er den Umstand oder Erfolg, für den das Gesetz Wissentlichkeit voraussetzt, nicht bloß für möglich hält, sondern sein Vorliegen oder Eintreten für gewiß hält\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-5-stgb--vorsatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-5-stgb--vorsatz)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-5-stgb--vorsatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-5-stgb--vorsatz) \]
 
 ----
 
@@ -593,7 +593,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Grob fahrlässig handelt, wer ungewöhnlich und auffallend sorgfaltswidrig handelt, sodass der Eintritt eines dem gesetzlichen Tatbild entsprechenden Sachverhaltes als geradezu wahrscheinlich vorhersehbar war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-6-stgb--fahrlässigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-6-stgb--fahrlässigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-6-stgb--fahrlässigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-6-stgb--fahrlässigkeit) \]
 
 ----
 
@@ -603,7 +603,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine schwerere Strafe, die an eine besondere Folge der Tat geknüpft ist, trifft den Täter nur, wenn er diese Folge wenigstens fahrlässig herbeigeführt hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-7-stgb--strafbarkeit-vorsätzlichen-und-fahrlässigen-handelns) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-7-stgb--strafbarkeit-vorsätzlichen-und-fahrlässigen-handelns)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-7-stgb--strafbarkeit-vorsätzlichen-und-fahrlässigen-handelns) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-7-stgb--strafbarkeit-vorsätzlichen-und-fahrlässigen-handelns) \]
 
 ----
 
@@ -611,7 +611,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer irrtümlich einen Sachverhalt annimmt, der die Rechtswidrigkeit der Tat ausschließen würde, kann wegen vorsätzlicher Begehung nicht bestraft werden\. Er ist wegen fahrlässiger Begehung zu bestrafen, wenn der Irrtum auf Fahrlässigkeit beruht und die fahrlässige Begehung mit Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-8-stgb--irrtümliche-annahme-eines-rechtfertigenden-sachverhaltes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-8-stgb--irrtümliche-annahme-eines-rechtfertigenden-sachverhaltes)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-8-stgb--irrtümliche-annahme-eines-rechtfertigenden-sachverhaltes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-8-stgb--irrtümliche-annahme-eines-rechtfertigenden-sachverhaltes) \]
 
 ----
 
@@ -623,7 +623,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ist der Irrtum vorzuwerfen, so ist, wenn der Täter vorsätzlich handelt, die für die vorsätzliche Tat vorgesehene Strafdrohung anzuwenden, wenn er fahrlässig handelt, die für die fahrlässige Tat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-9-stgb--rechtsirrtum) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-9-stgb--rechtsirrtum)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-9-stgb--rechtsirrtum) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-9-stgb--rechtsirrtum) \]
 
 ----
 
@@ -633,7 +633,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nicht entschuldigt, wenn er sich der Gefahr ohne einen von der Rechtsordnung anerkannten Grund bewußt ausgesetzt hat\. Der Täter ist wegen fahrlässiger Begehung zu bestrafen, wenn er die Voraussetzungen, unter denen seine Handlung entschuldigt wäre, in einem Irrtum angenommen hat, der auf Fahrlässigkeit beruhte, und die fahrlässige Begehung mit Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-10-stgb--entschuldigender-notstand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-10-stgb--entschuldigender-notstand)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-10-stgb--entschuldigender-notstand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-10-stgb--entschuldigender-notstand) \]
 
 ----
 
@@ -641,7 +641,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer zur Zeit der Tat wegen einer Geisteskrankheit, wegen einer geistigen Behinderung, wegen einer tiefgreifenden Bewußtseinsstörung oder wegen einer anderen schweren, einem dieser Zustände gleichwertigen seelischen Störung unfähig ist, das Unrecht seiner Tat einzusehen oder nach dieser Einsicht zu handeln, handelt nicht schuldhaft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-11-stgb--zurechnungsunfähigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-11-stgb--zurechnungsunfähigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-11-stgb--zurechnungsunfähigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-11-stgb--zurechnungsunfähigkeit) \]
 
 ----
 
@@ -649,7 +649,7 @@ Der Nationalrat hat beschlossen:
 
 > Nicht nur der unmittelbare Täter begeht die strafbare Handlung, sondern auch jeder, der einen anderen dazu bestimmt, sie auszuführen, oder der sonst zu ihrer Ausführung beiträgt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-12-stgb--behandlung-aller-beteiligten-als-täter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-12-stgb--behandlung-aller-beteiligten-als-täter)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-12-stgb--behandlung-aller-beteiligten-als-täter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-12-stgb--behandlung-aller-beteiligten-als-täter) \]
 
 ----
 
@@ -657,7 +657,7 @@ Der Nationalrat hat beschlossen:
 
 > Waren an der Tat mehrere beteiligt, so ist jeder von ihnen nach seiner Schuld zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-13-stgb--selbständige-strafbarkeit-der-beteiligten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-13-stgb--selbständige-strafbarkeit-der-beteiligten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-13-stgb--selbständige-strafbarkeit-der-beteiligten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-13-stgb--selbständige-strafbarkeit-der-beteiligten) \]
 
 ----
 
@@ -667,7 +667,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Betreffen die besonderen persönlichen Eigenschaften oder Verhältnisse hingegen ausschließlich die Schuld, so ist das Gesetz nur auf die Beteiligten anzuwenden, bei denen diese Eigenschaften oder Verhältnisse vorliegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-14-stgb--eigenschaften-und-verhältnisse-des-täters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-14-stgb--eigenschaften-und-verhältnisse-des-täters)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-14-stgb--eigenschaften-und-verhältnisse-des-täters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-14-stgb--eigenschaften-und-verhältnisse-des-täters) \]
 
 ----
 
@@ -679,7 +679,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Versuch und die Beteiligung daran sind nicht strafbar, wenn die Vollendung der Tat mangels persönlicher Eigenschaften oder Verhältnisse, die das Gesetz beim Handelnden voraussetzt, oder nach der Art der Handlung oder des Gegenstands, an dem die Tat begangen wurde, unter keinen Umständen möglich war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-15-stgb--strafbarkeit-des-versuches) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-15-stgb--strafbarkeit-des-versuches)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-15-stgb--strafbarkeit-des-versuches) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-15-stgb--strafbarkeit-des-versuches) \]
 
 ----
 
@@ -689,7 +689,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter wird auch straflos, wenn die Ausführung oder der Erfolg ohne sein Zutun unterbleibt, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich bemüht, die Ausführung zu verhindern oder den Erfolg abzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-16-stgb--rücktritt-vom-versuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-16-stgb--rücktritt-vom-versuch)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-16-stgb--rücktritt-vom-versuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-16-stgb--rücktritt-vom-versuch) \]
 
 ----
 
@@ -703,7 +703,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Alle anderen strafbaren Handlungen sind Vergehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-17-stgb--einteilung-der-strafbaren-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-17-stgb--einteilung-der-strafbaren-handlungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-17-stgb--einteilung-der-strafbaren-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.001.md#-17-stgb--einteilung-der-strafbaren-handlungen) \]
 
 ----
 
@@ -717,7 +717,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die zeitliche Freiheitsstrafe beträgt mindestens einen Tag und höchstens zwanzig Jahre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-18-stgb--freiheitsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-18-stgb--freiheitsstrafen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-18-stgb--freiheitsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-18-stgb--freiheitsstrafen) \]
 
 ----
 
@@ -730,7 +730,7 @@ Der Nationalrat hat beschlossen:
 > `(3)` Für den Fall der Uneinbringlichkeit der Geldstrafe ist eine Ersatzfreiheitsstrafe festzusetzen\. Ein Tag Ersatzfreiheitsstrafe entspricht dabei zwei Tagessätzen\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch BGBl\. Nr\. 762/1996\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-19-stgb--geldstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-19-stgb--geldstrafen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-19-stgb--geldstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-19-stgb--geldstrafen) \]
 
 ----
 
@@ -742,7 +742,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Von der Konfiskation ist abzusehen, soweit sie zur Bedeutung der Tat oder zu dem den Täter treffenden Vorwurf außer Verhältnis steht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-19a-stgb--konfiskation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=19a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-19a-stgb--konfiskation)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-19a-stgb--konfiskation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=19a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-19a-stgb--konfiskation) \]
 
 ----
 
@@ -756,7 +756,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Soweit der Umfang der für verfallen zu erklärenden Vermögenswerte nicht oder nur mit unverhältnismäßigem Aufwand ermittelt werden kann, hat das Gericht ihn nach seiner Überzeugung festzusetzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-20-stgb--verfall) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-20-stgb--verfall)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-20-stgb--verfall) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-20-stgb--verfall) \]
 
 ----
 
@@ -774,7 +774,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Vom Verfall ist abzusehen, soweit der für verfallen zu erklärende Vermögenswert oder die Aussicht auf dessen Einbringung außer Verhältnis zum Verfahrensaufwand steht, den der Verfall oder die Einbringung erfordern würde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-20a-stgb--unterbleiben-des-verfalls) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=20a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-20a-stgb--unterbleiben-des-verfalls)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-20a-stgb--unterbleiben-des-verfalls) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=20a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-20a-stgb--unterbleiben-des-verfalls) \]
 
 ----
 
@@ -788,7 +788,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 20 Abs\. 2 bis Abs\. 4 StGB gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-20b-stgb--erweiterter-verfall) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=20b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-20b-stgb--erweiterter-verfall)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-20b-stgb--erweiterter-verfall) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=20b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-20b-stgb--erweiterter-verfall) \]
 
 ----
 
@@ -798,7 +798,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 20a StGB gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-20c-stgb--unterbleiben-des-erweiterten-verfalls) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=20c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-20c-stgb--unterbleiben-des-erweiterten-verfalls)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-20c-stgb--unterbleiben-des-erweiterten-verfalls) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=20c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-20c-stgb--unterbleiben-des-erweiterten-verfalls) \]
 
 ----
 
@@ -810,7 +810,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Anlass einer strafrechtlichen Unterbringung können nur Taten sein, die mit mehr als einem Jahr Freiheitsstrafe bedroht sind\. Wenn die angedrohte Freiheitsstrafe dieser Tat drei Jahre nicht übersteigt, muss sich die Befürchtung nach Abs\. 1 auf eine gegen Leib und Leben gerichtete mit mehr als zwei Jahren Freiheitsstrafe bedrohte Handlung oder auf eine gegen die sexuelle Integrität und Selbstbestimmung gerichtete mit mehr als einem Jahr Freiheitsstrafe bedrohte Handlung beziehen\. Als Anlasstaten kommen mit Strafe bedrohte Handlungen gegen fremdes Vermögen nicht in Betracht, es sei denn, sie wurden unter Anwendung von Gewalt gegen eine Person oder unter Drohung mit einer gegenwärtigen Gefahr für Leib oder Leben \(§ 89\) begangen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-21-stgb--strafrechtliche-unterbringung-in-einem-forensisch-therapeutischen-zentrum) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-21-stgb--strafrechtliche-unterbringung-in-einem-forensisch-therapeutischen-zentrum)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-21-stgb--strafrechtliche-unterbringung-in-einem-forensisch-therapeutischen-zentrum) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-21-stgb--strafrechtliche-unterbringung-in-einem-forensisch-therapeutischen-zentrum) \]
 
 ----
 
@@ -820,7 +820,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Von der Unterbringung ist abzusehen, wenn der Rechtsbrecher mehr als zwei Jahre in Strafhaft zu verbüßen hat, die Voraussetzungen für seine strafrechtliche Unterbringung in einem forensisch\-therapeutischen Zentrum vorliegen oder der Versuch einer Entwöhnung von vornherein aussichtslos scheint\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-22-stgb--unterbringung-in-einer-anstalt-für-entwöhnungsbedürftige-rechtsbrecher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-22-stgb--unterbringung-in-einer-anstalt-für-entwöhnungsbedürftige-rechtsbrecher)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-22-stgb--unterbringung-in-einer-anstalt-für-entwöhnungsbedürftige-rechtsbrecher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-22-stgb--unterbringung-in-einer-anstalt-für-entwöhnungsbedürftige-rechtsbrecher) \]
 
 ----
 
@@ -850,7 +850,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Ausländische Verurteilungen sind zu berücksichtigen, wenn die Voraussetzungen des § 73 vorliegen und anzunehmen ist, dass der Täter auch von einem inländischen Gericht zu einer Freiheitsstrafe von mehr als sechs Monaten \(Abs\. 1\) beziehungsweise einem Jahr \(Abs\. 1a\) verurteilt worden wäre und im Fall des Abs\. 1 die zur Erfüllung der Voraussetzungen des Abs\. 1 Z 2 erforderliche Zeit in Strafhaft zugebracht hätte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-23-stgb--unterbringung-von-gefährlichen-rückfallstätern-und-gefährlichen-terroristischen-straftätern-in-einer-anstalt-für-gefährliche-rückfallstäter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-23-stgb--unterbringung-von-gefährlichen-rückfallstätern-und-gefährlichen-terroristischen-straftätern-in-einer-anstalt-für-gefährliche-rückfallstäter)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-23-stgb--unterbringung-von-gefährlichen-rückfallstätern-und-gefährlichen-terroristischen-straftätern-in-einer-anstalt-für-gefährliche-rückfallstäter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-23-stgb--unterbringung-von-gefährlichen-rückfallstätern-und-gefährlichen-terroristischen-straftätern-in-einer-anstalt-für-gefährliche-rückfallstäter) \]
 
 ----
 
@@ -860,7 +860,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Unterbringung in einer Anstalt für gefährliche Rückfallstäter ist nach der Freiheitsstrafe zu vollziehen\. Vor der Überstellung des Rechtsbrechers in die Anstalt für gefährliche Rückfallstäter hat das Gericht von Amts wegen zu prüfen, ob die Unterbringung noch notwendig ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-24-stgb--reihenfolge-des-vollzugs-von-freiheitsstrafen-und-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-24-stgb--reihenfolge-des-vollzugs-von-freiheitsstrafen-und-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahmen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-24-stgb--reihenfolge-des-vollzugs-von-freiheitsstrafen-und-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-24-stgb--reihenfolge-des-vollzugs-von-freiheitsstrafen-und-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahmen) \]
 
 ----
 
@@ -876,7 +876,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Fristen nach Abs\. 3 und 4 beginnen mit der letzten Entscheidung erster Instanz\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-25-stgb--dauer-der-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-25-stgb--dauer-der-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahmen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-25-stgb--dauer-der-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-25-stgb--dauer-der-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahmen) \]
 
 ----
 
@@ -888,7 +888,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Liegen die Voraussetzungen der Einziehung vor, so sind die Gegenstände auch dann einzuziehen, wenn keine bestimmte Person wegen der mit Strafe bedrohten Handlung verfolgt oder verurteilt werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-26-stgb--einziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-26-stgb--einziehung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-26-stgb--einziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-26-stgb--einziehung) \]
 
 ----
 
@@ -904,7 +904,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Zieht eine strafgerichtliche Verurteilung nach einem Bundesgesetz eine andere als die im Abs\. 1 genannte Rechtsfolge nach sich, so endet die Rechtsfolge, wenn nichts anderes bestimmt ist, soweit sie nicht im Verlust besonderer auf Wahl, Verleihung oder Ernennung beruhender Rechte besteht, nach fünf Jahren\. Die Frist beginnt, sobald die Strafe vollstreckt ist und vorbeugende Maßnahmen vollzogen oder weggefallen sind; ist die Strafe nur durch Anrechnung einer Vorhaft verbüßt worden, so beginnt die Frist mit Rechtskraft des Urteils\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-27-stgb--amtsverlust-und-andere-rechtsfolgen-der-verurteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-27-stgb--amtsverlust-und-andere-rechtsfolgen-der-verurteilung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-27-stgb--amtsverlust-und-andere-rechtsfolgen-der-verurteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-27-stgb--amtsverlust-und-andere-rechtsfolgen-der-verurteilung) \]
 
 ----
 
@@ -918,7 +918,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Vorbeugende Maßnahmen sind anzuordnen, wenn die Voraussetzungen hiefür auf Grund einer oder mehrerer der mit Strafe bedrohten Handlungen, über die gleichzeitig geurteilt wird, gegeben sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-28-stgb--zusammentreffen-strafbarer-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-28-stgb--zusammentreffen-strafbarer-handlungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-28-stgb--zusammentreffen-strafbarer-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-28-stgb--zusammentreffen-strafbarer-handlungen) \]
 
 ----
 
@@ -926,7 +926,7 @@ Der Nationalrat hat beschlossen:
 
 > Hängt die Höhe der Strafdrohung von dem ziffernmäßig bestimmten Wert einer Sache, gegen die sich die Handlung richtet, oder von der ziffernmäßig bestimmten Höhe des Schadens ab, den sie verursacht oder auf den sich der Vorsatz des Täters erstreckt, so ist, wenn der Täter mehrere Taten derselben Art begangen hat, die Summe der Werte oder Schadensbeträge maßgebend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-29-stgb--zusammenrechnung-der-werte-und-schadensbeträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-29-stgb--zusammenrechnung-der-werte-und-schadensbeträge)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-29-stgb--zusammenrechnung-der-werte-und-schadensbeträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-29-stgb--zusammenrechnung-der-werte-und-schadensbeträge) \]
 
 ----
 
@@ -934,7 +934,7 @@ Der Nationalrat hat beschlossen:
 
 > Eine Überschreitung der im Gesetz bestimmten Obergrenze einer Strafdrohung um die Hälfte ist immer nur einmal zulässig, mögen auch verschiedene Gründe, aus denen eine solche Überschreitung zulässig ist \(§§ 39, 313\), zusammentreffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-30-stgb--unzulässigkeit-mehrfacher-erhöhung-der-im-gesetz-bestimmten-obergrenze) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-30-stgb--unzulässigkeit-mehrfacher-erhöhung-der-im-gesetz-bestimmten-obergrenze)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-30-stgb--unzulässigkeit-mehrfacher-erhöhung-der-im-gesetz-bestimmten-obergrenze) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-30-stgb--unzulässigkeit-mehrfacher-erhöhung-der-im-gesetz-bestimmten-obergrenze) \]
 
 ----
 
@@ -944,7 +944,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Einer früheren inländischen Verurteilung steht eine frühere ausländische auch dann gleich, wenn die Voraussetzungen nach § 73 nicht vorliegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-31-stgb--strafe-bei-nachträglicher-verurteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-31-stgb--strafe-bei-nachträglicher-verurteilung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-31-stgb--strafe-bei-nachträglicher-verurteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-31-stgb--strafe-bei-nachträglicher-verurteilung) \]
 
 ----
 
@@ -956,7 +956,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils nicht auf Verfall oder nur auf Verfall geringerer Vermögenswerte zu erkennen gewesen wäre, hat das Gericht die Entscheidung entsprechend zu ändern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-31a-stgb--nachträgliche-milderung-der-strafe-und-des-verfalls) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=31a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-31a-stgb--nachträgliche-milderung-der-strafe-und-des-verfalls)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-31a-stgb--nachträgliche-milderung-der-strafe-und-des-verfalls) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=31a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.002.md#-31a-stgb--nachträgliche-milderung-der-strafe-und-des-verfalls) \]
 
 ----
 
@@ -972,7 +972,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im allgemeinen ist die Strafe umso strenger zu bemessen, je größer die Schädigung oder Gefährdung ist, die der Täter verschuldet hat oder die er zwar nicht herbeigeführt, aber auf die sich sein Verschulden erstreckt hat, je mehr Pflichten er durch seine Handlung verletzt, je reiflicher er seine Tat überlegt, je sorgfältiger er sie vorbereitet oder je rücksichtsloser er sie ausgeführt hat und je weniger Vorsicht gegen die Tat hat gebraucht werden können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-32-stgb--allgemeine-grundsätze) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-32-stgb--allgemeine-grundsätze)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-32-stgb--allgemeine-grundsätze) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-32-stgb--allgemeine-grundsätze) \]
 
 ----
 
@@ -1016,7 +1016,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein Erschwerungsgrund ist es ferner auch, wenn der Täter einer strafbaren Handlung nach § 165 ein Verpflichteter im Sinne des Art\. 2 der Richtlinie \(EU\) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung, ABl\. Nr\. L 141 vom 05\.06\.2015 S 73, in der Fassung der Richtlinie \(EU\) 2018/843, ABl\. Nr\. L 156 vom 19\.06\.2018 S 43, ist und die Straftat in Ausübung seiner beruflichen Tätigkeit, die unter diese Richtlinie fällt, begangen hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-33-stgb--besondere-erschwerungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-33-stgb--besondere-erschwerungsgründe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-33-stgb--besondere-erschwerungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-33-stgb--besondere-erschwerungsgründe) \]
 
 ----
 
@@ -1064,7 +1064,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Milderungsgrund ist es auch, wenn das gegen den Täter geführte Verfahren aus einem nicht von ihm oder seinem Verteidiger zu vertretenden Grund unverhältnismäßig lange gedauert hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-34-stgb--besondere-milderungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-34-stgb--besondere-milderungsgründe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-34-stgb--besondere-milderungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-34-stgb--besondere-milderungsgründe) \]
 
 ----
 
@@ -1072,7 +1072,7 @@ Der Nationalrat hat beschlossen:
 
 > Hat der Täter in einem die Zurechnungsfähigkeit nicht ausschließenden Rauschzustand gehandelt, so ist dies nur insoweit mildernd, als die dadurch bedingte Herabsetzung der Zurechnungsfähigkeit nicht durch den Vorwurf aufgewogen wird, den der Genuß oder Gebrauch des berauschenden Mittels den Umständen nach begründet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-35-stgb--berauschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-35-stgb--berauschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-35-stgb--berauschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-35-stgb--berauschung) \]
 
 ----
 
@@ -1080,7 +1080,7 @@ Der Nationalrat hat beschlossen:
 
 > Für eine Person, die zur Zeit der Tat das einundzwanzigste Lebensjahr noch nicht vollendet hat, gelten die in § 19 JGG vorgesehenen Strafdrohungen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-36-stgb--verhängung-von-freiheitsstrafen-über-personen-unter-einundzwanzig-jahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-36-stgb--verhängung-von-freiheitsstrafen-über-personen-unter-einundzwanzig-jahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-36-stgb--verhängung-von-freiheitsstrafen-über-personen-unter-einundzwanzig-jahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-36-stgb--verhängung-von-freiheitsstrafen-über-personen-unter-einundzwanzig-jahren) \]
 
 ----
 
@@ -1090,7 +1090,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ist für eine Tat eine strengere Freiheitsstrafe als nach Abs\. 1, aber keine strengere als eine zehnjährige Freiheitsstrafe, angedroht, so ist die Verhängung einer Geldstrafe von nicht mehr als 720 Tagessätzen an Stelle einer Freiheitsstrafe von nicht mehr als einem Jahr nur zulässig, wenn es nicht der Verurteilung zu einer Freiheitsstrafe bedarf, um den Täter von weiteren strafbaren Handlungen abzuhalten, und die Verhängung einer Geldstrafe genügt, um der Begehung strafbarer Handlungen durch andere entgegenzuwirken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-37-stgb--verhängung-von-geldstrafen-an-stelle-von-freiheitsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-37-stgb--verhängung-von-geldstrafen-an-stelle-von-freiheitsstrafen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-37-stgb--verhängung-von-geldstrafen-an-stelle-von-freiheitsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-37-stgb--verhängung-von-geldstrafen-an-stelle-von-freiheitsstrafen) \]
 
 ----
 
@@ -1106,7 +1106,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für die Anrechnung der Vorhaft auf eine Geldstrafe ist die Ersatzfreiheitsstrafe maßgebend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-38-stgb--anrechnung-der-vorhaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-38-stgb--anrechnung-der-vorhaft)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-38-stgb--anrechnung-der-vorhaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-38-stgb--anrechnung-der-vorhaft) \]
 
 ----
 
@@ -1122,7 +1122,7 @@ Der Nationalrat hat beschlossen:
 >
 > *Anm\. 1: Art\. 4 Z 4a der Novelle BGBl\. I Nr\. 105/2019 lautet: „In § 39 Abs\. 2 wird im zweiten Satz nach dem Wort „Strafe“ die Wendung „bedingt nachgesehen oder“ eingefügt\.“ Richtig wäre: „\.\.\. wird im dritten Satz \.\.\.“\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-39-stgb--strafschärfung-bei-rückfall) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-39-stgb--strafschärfung-bei-rückfall)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-39-stgb--strafschärfung-bei-rückfall) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-39-stgb--strafschärfung-bei-rückfall) \]
 
 ----
 
@@ -1154,7 +1154,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Anwendung des § 39 bleibt hievon unberührt\. Bei der Anwendung des § 41 ist von den nach Abs\. 2 geänderten Strafdrohungen auszugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-39a-stgb--änderung-der-strafdrohung-bei-bestimmten-gewalttaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=39a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-39a-stgb--änderung-der-strafdrohung-bei-bestimmten-gewalttaten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-39a-stgb--änderung-der-strafdrohung-bei-bestimmten-gewalttaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=39a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-39a-stgb--änderung-der-strafdrohung-bei-bestimmten-gewalttaten) \]
 
 ----
 
@@ -1162,7 +1162,7 @@ Der Nationalrat hat beschlossen:
 
 > Bei nachträglicher Verurteilung ist die Zusatzstrafe innerhalb der im § 31 bestimmten Grenzen so zu bemessen, daß die Summe der Strafen jener Strafe entspricht, die bei gemeinsamer Aburteilung zu verhängen wäre\. Wäre bei gemeinsamer Aburteilung keine höhere Strafe als die im früheren Urteil verhängte auszusprechen, so ist von einer Zusatzstrafe abzusehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-40-stgb--strafbemessung-bei-nachträglicher-verurteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-40-stgb--strafbemessung-bei-nachträglicher-verurteilung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-40-stgb--strafbemessung-bei-nachträglicher-verurteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-40-stgb--strafbemessung-bei-nachträglicher-verurteilung) \]
 
 ----
 
@@ -1184,7 +1184,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die §§ 43 und 43a können auch angewendet werden, wenn auf eine Freiheitsstrafe von mehr als zwei beziehungsweise drei, aber nicht mehr als fünf Jahren erkannt wird oder zu erkennen wäre, sofern die Milderungsgründe die Erschwerungsgründe beträchtlich überwiegen und begründete Aussicht besteht, dass der Täter auch bei Verhängung einer solchen Strafe keine weiteren strafbaren Handlungen begehen werde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-41-stgb--außerordentliche-strafmilderung-bei-überwiegen-der-milderungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-41-stgb--außerordentliche-strafmilderung-bei-überwiegen-der-milderungsgründe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-41-stgb--außerordentliche-strafmilderung-bei-überwiegen-der-milderungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-41-stgb--außerordentliche-strafmilderung-bei-überwiegen-der-milderungsgründe) \]
 
 ----
 
@@ -1204,7 +1204,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Bezieht sich das Wissen des Täters auf strafbare Handlungen, für die die österreichischen Strafgesetze nicht gelten, so ist Abs\. 1 gleichwohl anzuwenden, soweit die Leistung von Rechtshilfe zulässig wäre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-41a-stgb--außerordentliche-strafmilderung-bei-zusammenarbeit-mit-den-strafverfolgungsbehörden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=41a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-41a-stgb--außerordentliche-strafmilderung-bei-zusammenarbeit-mit-den-strafverfolgungsbehörden)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-41a-stgb--außerordentliche-strafmilderung-bei-zusammenarbeit-mit-den-strafverfolgungsbehörden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=41a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.003.md#-41a-stgb--außerordentliche-strafmilderung-bei-zusammenarbeit-mit-den-strafverfolgungsbehörden) \]
 
 ----
 
@@ -1220,7 +1220,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die bedingte Nachsicht \(Abs\. 1\) einer wegen Vergewaltigung \(§ 201\) verhängten Strafe ist ausgeschlossen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-43-stgb--bedingte-strafnachsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-43-stgb--bedingte-strafnachsicht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-43-stgb--bedingte-strafnachsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-43-stgb--bedingte-strafnachsicht) \]
 
 ----
 
@@ -1235,7 +1235,7 @@ Der Nationalrat hat beschlossen:
 > `(4)` Wird auf eine Freiheitsstrafe von mehr als zwei, aber nicht mehr als drei Jahren erkannt und besteht eine hohe Wahrscheinlichkeit, daß der Rechtsbrecher keine weiteren strafbaren Handlungen begehen werde, so ist unter den Voraussetzungen des § 43 Abs\. 1 ein Teil der Strafe bedingt nachzusehen\. Abs\. 3 letzter Satz ist anzuwenden\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 105/1997\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-43a-stgb--bedingte-nachsicht-eines-teiles-der-strafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=43a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-43a-stgb--bedingte-nachsicht-eines-teiles-der-strafe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-43a-stgb--bedingte-nachsicht-eines-teiles-der-strafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=43a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-43a-stgb--bedingte-nachsicht-eines-teiles-der-strafe) \]
 
 ----
 
@@ -1245,7 +1245,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nebenstrafen und Rechtsfolgen der Verurteilung können unabhängig von der Hauptstrafe bedingt nachgesehen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-44-stgb--bedingte-nachsicht-bei-zusammentreffen-mehrerer-strafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-44-stgb--bedingte-nachsicht-bei-zusammentreffen-mehrerer-strafen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-44-stgb--bedingte-nachsicht-bei-zusammentreffen-mehrerer-strafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-44-stgb--bedingte-nachsicht-bei-zusammentreffen-mehrerer-strafen) \]
 
 ----
 
@@ -1259,7 +1259,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `(4)` Die bedingte Nachsicht anderer vorbeugender Maßnahmen ist unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-45-stgb--bedingte-nachsicht-von-vorbeugenden-maßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-45-stgb--bedingte-nachsicht-von-vorbeugenden-maßnahmen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-45-stgb--bedingte-nachsicht-von-vorbeugenden-maßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-45-stgb--bedingte-nachsicht-von-vorbeugenden-maßnahmen) \]
 
 ----
 
@@ -1276,7 +1276,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Ein zu einer lebenslangen Freiheitsstrafe Verurteilter darf nur bedingt entlassen werden, wenn er mindestens fünfzehn Jahre verbüßt hat und anzunehmen ist, dass er keine weiteren strafbaren Handlungen begehen werde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-46-stgb--bedingte-entlassung-aus-einer-freiheitsstrafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-46-stgb--bedingte-entlassung-aus-einer-freiheitsstrafe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-46-stgb--bedingte-entlassung-aus-einer-freiheitsstrafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-46-stgb--bedingte-entlassung-aus-einer-freiheitsstrafe) \]
 
 ----
 
@@ -1290,7 +1290,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Entscheidung, daß die Überstellung des Rechtsbrechers in die Anstalt für gefährliche Rückfallstäter nicht mehr notwendig ist \(§ 24 Abs\. 2\), steht einer bedingten Entlassung aus der Anstalt für gefährliche Rückfallstäter gleich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-47-stgb--entlassung-aus-einer-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-47-stgb--entlassung-aus-einer-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahme)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-47-stgb--entlassung-aus-einer-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-47-stgb--entlassung-aus-einer-mit-freiheitsentziehung-verbundenen-vorbeugenden-maßnahme) \]
 
 ----
 
@@ -1302,7 +1302,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird die bedingte Nachsicht des Strafrestes oder die bedingte Entlassung aus einer mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme nicht widerrufen, so ist sie für endgültig zu erklären\. Fristen, deren Lauf beginnt, sobald die Strafe vollstreckt oder die vorbeugende Maßnahme vollzogen ist, sind in einem solchen Fall ab der bedingten Entlassung aus der Strafe oder aus der vorbeugenden Maßnahme zu berechnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-48-stgb--probezeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-48-stgb--probezeiten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-48-stgb--probezeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-48-stgb--probezeiten) \]
 
 ----
 
@@ -1310,7 +1310,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Probezeit beginnt mit der Rechtskraft der Entscheidung, mit der die bedingte Nachsicht \(§§ 43 bis 45\) oder die bedingte Entlassung \(§§ 46 und 47\) ausgesprochen worden ist\. Zeiten, in denen der Verurteilte auf behördliche Anordnung angehalten worden ist, werden in die Probezeit nicht eingerechnet\. Wird ein Verurteilter aus dem nicht bedingt nachgesehenen Teil einer Freiheitsstrafe vor Ablauf der für den bedingt nachgesehenen Strafteil bestimmten Probezeit bedingt entlassen, so laufen beide Probezeiten nur gemeinsam ab\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-49-stgb--berechnung-der-probezeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-49-stgb--berechnung-der-probezeiten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-49-stgb--berechnung-der-probezeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-49-stgb--berechnung-der-probezeiten) \]
 
 ----
 
@@ -1334,7 +1334,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Weisungen sowie die Anordnung der Bewährungshilfe gelten für die Dauer des vom Gericht bestimmten Zeitraums, höchstens jedoch bis zum Ende der Probezeit, soweit sie nicht vorher aufgehoben oder gegenstandslos werden\. Im Fall des Abs\. 2 Z 3 ist Bewährungshilfe zumindest für das erste Jahr und im Fall der Abs\. 2 Z 4 zumindest für die ersten drei Jahre nach der Entlassung anzuordnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-50-stgb--erteilung-von-weisungen-und-anordnung-der-bewährungshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-50-stgb--erteilung-von-weisungen-und-anordnung-der-bewährungshilfe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-50-stgb--erteilung-von-weisungen-und-anordnung-der-bewährungshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-50-stgb--erteilung-von-weisungen-und-anordnung-der-bewährungshilfe) \]
 
 ----
 
@@ -1354,7 +1354,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Für Weisungen im Zusammenhang mit der bedingten Nachsicht einer Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher nach § 45 gilt § 179a des Strafvollzugsgesetzes \(StVG\), BGBl\. Nr\. 144/1969, sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-51-stgb--weisungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-51-stgb--weisungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-51-stgb--weisungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-51-stgb--weisungen) \]
 
 ----
 
@@ -1374,7 +1374,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Das Gericht hat während der Probezeit die Bewährungshilfe auch nachträglich anzuordnen oder sie aufzuheben, soweit dies nach § 50 geboten erscheint\. In den Fällen des § 50 Abs\. 2 Z 1 bis 3 ist jedenfalls nach Ablauf eines Jahres seit der Entlassung nach Einholung eines Berichtes des Bewährungshelfers und einer Stellungnahme des Leiters der zuständigen Geschäftsstelle für Bewährungshilfe zu entscheiden, ob die Anordnung der Bewährungshilfe weiterhin notwendig oder zweckmäßig ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-52-stgb--bewährungshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-52-stgb--bewährungshilfe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-52-stgb--bewährungshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-52-stgb--bewährungshilfe) \]
 
 ----
 
@@ -1392,7 +1392,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Organe des öffentlichen Sicherheitsdienstes sind zur Erfüllung der den Sicherheitsbehörden gemäß Abs\. 2 übertragenen Aufgaben zur Feststellung der Identität einer Person nach den Vorschriften des Sicherheitspolizeigesetzes ermächtigt, wenn aufgrund bestimmter Tatsachen anzunehmen ist, sie stehe unter gerichtlicher Aufsicht und habe die ihr erteilten Weisungen nicht befolgt oder sonst ein Verhalten gesetzt, das mit den Zwecken der gerichtlichen Aufsicht nicht vereinbar ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-52a-stgb--gerichtliche-aufsicht-bei-sexualstraftätern-und-sexuell-motivierten-gewalttätern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=52a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-52a-stgb--gerichtliche-aufsicht-bei-sexualstraftätern-und-sexuell-motivierten-gewalttätern)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-52a-stgb--gerichtliche-aufsicht-bei-sexualstraftätern-und-sexuell-motivierten-gewalttätern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=52a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-52a-stgb--gerichtliche-aufsicht-bei-sexualstraftätern-und-sexuell-motivierten-gewalttätern) \]
 
 ----
 
@@ -1428,7 +1428,7 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` Die Bundesministerin für Justiz ist ermächtigt, durch Verordnung Richtlinien über die Art und die Durchführung der elektronischen Überwachung zu erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-52b-stgb--gerichtliche-aufsicht-bei-staatsfeindlichen-und-terroristischen-strafsachen-sowie-völkermord-verbrechen-gegen-die-menschlichkeit-kriegsverbrechen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=52b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-52b-stgb--gerichtliche-aufsicht-bei-staatsfeindlichen-und-terroristischen-strafsachen-sowie-völkermord-verbrechen-gegen-die-menschlichkeit-kriegsverbrechen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-52b-stgb--gerichtliche-aufsicht-bei-staatsfeindlichen-und-terroristischen-strafsachen-sowie-völkermord-verbrechen-gegen-die-menschlichkeit-kriegsverbrechen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=52b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-52b-stgb--gerichtliche-aufsicht-bei-staatsfeindlichen-und-terroristischen-strafsachen-sowie-völkermord-verbrechen-gegen-die-menschlichkeit-kriegsverbrechen) \]
 
 ----
 
@@ -1444,7 +1444,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Abs\. 4 kann auch in den Fällen vorgegangen werden, in denen nach § 52b gerichtliche Aufsicht nach bedingter Entlassung aus einer Freiheitsstrafe von mehr als achtzehn Monaten angeordnet wurde\. Vor einer solchen Anordnung ist eine gerichtliche Fallkonferenz nach § 52b Abs\. 3 StGB abzuhalten\. Die Weisung einer elektronischen Überwachung darf höchstens zehn Jahre aufrechterhalten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-53-stgb--widerruf-der-bedingten-strafnachsicht-und-der-bedingten-entlassung-aus-einer-freiheitsstrafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-53-stgb--widerruf-der-bedingten-strafnachsicht-und-der-bedingten-entlassung-aus-einer-freiheitsstrafe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-53-stgb--widerruf-der-bedingten-strafnachsicht-und-der-bedingten-entlassung-aus-einer-freiheitsstrafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-53-stgb--widerruf-der-bedingten-strafnachsicht-und-der-bedingten-entlassung-aus-einer-freiheitsstrafe) \]
 
 ----
 
@@ -1462,7 +1462,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Die bedingte Entlassung aus einer Anstalt für entwöhnungsbedürftige Rechtsbrecher ist nicht zu widerrufen, wenn die Fortsetzung der Behandlung von vornherein aussichtslos scheint\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-54-stgb--widerruf-der-bedingten-nachsicht-und-der-bedingten-entlassung-bei-einer-vorbeugenden-maßnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-54-stgb--widerruf-der-bedingten-nachsicht-und-der-bedingten-entlassung-bei-einer-vorbeugenden-maßnahme)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-54-stgb--widerruf-der-bedingten-nachsicht-und-der-bedingten-entlassung-bei-einer-vorbeugenden-maßnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-54-stgb--widerruf-der-bedingten-nachsicht-und-der-bedingten-entlassung-bei-einer-vorbeugenden-maßnahme) \]
 
 ----
 
@@ -1474,7 +1474,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird die bedingte Nachsicht nicht widerrufen, so dauert jede der zusammentreffenden Probezeiten bis zum Ablauf der Probezeit, die zuletzt endet, jedoch nicht länger als fünf Jahre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-55-stgb--widerruf-bei-nachträglicher-verurteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-55-stgb--widerruf-bei-nachträglicher-verurteilung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-55-stgb--widerruf-bei-nachträglicher-verurteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-55-stgb--widerruf-bei-nachträglicher-verurteilung) \]
 
 ----
 
@@ -1482,7 +1482,7 @@ Der Nationalrat hat beschlossen:
 
 > Die in den §§ 53 bis 55 vorgesehenen Verfügungen kann das Gericht nur in der Probezeit, wegen einer während dieser Zeit begangenen strafbaren Handlung jedoch auch innerhalb von sechs Monaten nach Ablauf der Probezeit oder nach Beendigung eines bei deren Ablauf gegen den Rechtsbrecher anhängigen Strafverfahrens treffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-56-stgb--widerrufsfristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-56-stgb--widerrufsfristen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-56-stgb--widerrufsfristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-56-stgb--widerrufsfristen) \]
 
 ----
 
@@ -1515,7 +1515,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende Maßnahmen unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-57-stgb--verjährung-der-strafbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-57-stgb--verjährung-der-strafbarkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-57-stgb--verjährung-der-strafbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-57-stgb--verjährung-der-strafbarkeit) \]
 
 ----
 
@@ -1539,7 +1539,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wird die Tat nur auf Verlangen oder mit Ermächtigung eines dazu Berechtigten verfolgt, so wird der Lauf der Verjährung nicht dadurch gehemmt, daß die Verfolgung nicht verlangt oder die Ermächtigung nicht erteilt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-58-stgb--verlängerung-der-verjährungsfrist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-58-stgb--verlängerung-der-verjährungsfrist)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-58-stgb--verlängerung-der-verjährungsfrist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-58-stgb--verlängerung-der-verjährungsfrist) \]
 
 ----
 
@@ -1562,7 +1562,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist gleichzeitig auf mehrere Strafen oder vorbeugende Maßnahmen erkannt worden, so richtet sich die Verjährung der Vollstreckbarkeit aller dieser Strafen oder Maßnahmen nach der Strafe oder Maßnahme, für die die längste Verjährungsfrist vorgesehen ist\. Sind eine Freiheitsstrafe und eine Geldstrafe gleichzeitig verhängt worden, so ist zur Berechnung der Verjährungsfrist die Ersatzfreiheitsstrafe zur Freiheitsstrafe hinzuzurechnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-59-stgb--verjährung-der-vollstreckbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-59-stgb--verjährung-der-vollstreckbarkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-59-stgb--verjährung-der-vollstreckbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-59-stgb--verjährung-der-vollstreckbarkeit) \]
 
 ----
 
@@ -1582,7 +1582,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Vollzug der Freiheitsstrafe oder der mit Freiheitsentziehung verbundenen vorbeugenden Maßnahme unterbricht die Verjährung\. Hört die Unterbrechung auf, ohne daß der Verurteilte endgültig entlassen wird, so beginnt die Verjährungsfrist unbeschadet der Bestimmungen des Abs\. 2 von neuem zu laufen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-60-stgb--verlängerung-der-frist-für-die-vollstreckungsverjährung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-60-stgb--verlängerung-der-frist-für-die-vollstreckungsverjährung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-60-stgb--verlängerung-der-frist-für-die-vollstreckungsverjährung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-60-stgb--verlängerung-der-frist-für-die-vollstreckungsverjährung) \]
 
 ----
 
@@ -1594,7 +1594,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Strafgesetze sind auf Taten anzuwenden, die nach dem Inkrafttreten begangen worden sind\. Auf früher begangene Taten sind sie dann anzuwenden, wenn die Gesetze, die zur Zeit der Tat gegolten haben, für den Täter in ihrer Gesamtauswirkung nicht günstiger waren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-61-stgb--zeitliche-geltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-61-stgb--zeitliche-geltung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-61-stgb--zeitliche-geltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-61-stgb--zeitliche-geltung) \]
 
 ----
 
@@ -1602,7 +1602,7 @@ Der Nationalrat hat beschlossen:
 
 > Die österreichischen Strafgesetze gelten für alle Taten, die im Inland begangen worden sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-62-stgb--strafbare-handlungen-im-inland) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=62) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-62-stgb--strafbare-handlungen-im-inland)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-62-stgb--strafbare-handlungen-im-inland) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=62) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-62-stgb--strafbare-handlungen-im-inland) \]
 
 ----
 
@@ -1610,7 +1610,7 @@ Der Nationalrat hat beschlossen:
 
 > Die österreichischen Strafgesetze gelten auch für Taten, die auf einem österreichischen Schiff oder Luftfahrzeug begangen worden sind, unabhängig davon, wo sich dieses befindet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-63-stgb--strafbare-handlungen-an-bord-österreichischer-schiffe-oder-luftfahrzeuge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-63-stgb--strafbare-handlungen-an-bord-österreichischer-schiffe-oder-luftfahrzeuge)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-63-stgb--strafbare-handlungen-an-bord-österreichischer-schiffe-oder-luftfahrzeuge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-63-stgb--strafbare-handlungen-an-bord-österreichischer-schiffe-oder-luftfahrzeuge) \]
 
 ----
 
@@ -1686,7 +1686,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Können die im Abs\. 1 genannten Strafgesetze bloß deshalb nicht angewendet werden, weil sich die Tat als eine mit strengerer Strafe bedrohte Handlung darstellt, so ist die im Ausland begangene Tat gleichwohl unabhängig von den Strafgesetzen des Tatorts nach den österreichischen Strafgesetzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-64-stgb--strafbare-handlungen-im-ausland-die-ohne-rücksicht-auf-die-gesetze-des-tatorts-bestraft-werden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-64-stgb--strafbare-handlungen-im-ausland-die-ohne-rücksicht-auf-die-gesetze-des-tatorts-bestraft-werden)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-64-stgb--strafbare-handlungen-im-ausland-die-ohne-rücksicht-auf-die-gesetze-des-tatorts-bestraft-werden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-64-stgb--strafbare-handlungen-im-ausland-die-ohne-rücksicht-auf-die-gesetze-des-tatorts-bestraft-werden) \]
 
 ----
 
@@ -1714,7 +1714,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach den österreichischen Gesetzen vorgesehene vorbeugende Maßnahmen sind, wenn die Voraussetzungen hiefür zutreffen, gegen einen Österreicher auch dann anzuordnen, wenn er aus einem der Gründe des vorhergehenden Absatzes im Inland nicht bestraft werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-65-stgb--strafbare-handlungen-im-ausland-die-nur-bestraft-werden-wenn-sie-nach-den-gesetzen-des-tatorts-mit-strafe-bedroht-sind) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-65-stgb--strafbare-handlungen-im-ausland-die-nur-bestraft-werden-wenn-sie-nach-den-gesetzen-des-tatorts-mit-strafe-bedroht-sind)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-65-stgb--strafbare-handlungen-im-ausland-die-nur-bestraft-werden-wenn-sie-nach-den-gesetzen-des-tatorts-mit-strafe-bedroht-sind) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-65-stgb--strafbare-handlungen-im-ausland-die-nur-bestraft-werden-wenn-sie-nach-den-gesetzen-des-tatorts-mit-strafe-bedroht-sind) \]
 
 ----
 
@@ -1722,7 +1722,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Verfall und die Einziehung treffen auch im Inland befindliche Vermögenswerte und Gegenstände in Bezug auf Taten, die auch durch die Gesetze des Tatorts mit Strafe bedroht sind, aber nach den §§ 62 bis 65 nicht den österreichischen Strafgesetzen unterliegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-65a-stgb--erweiterter-geltungsbereich-des-verfalls-und-der-einziehung-bei-auslandstaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=65a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-65a-stgb--erweiterter-geltungsbereich-des-verfalls-und-der-einziehung-bei-auslandstaten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-65a-stgb--erweiterter-geltungsbereich-des-verfalls-und-der-einziehung-bei-auslandstaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=65a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-65a-stgb--erweiterter-geltungsbereich-des-verfalls-und-der-einziehung-bei-auslandstaten) \]
 
 ----
 
@@ -1730,7 +1730,7 @@ Der Nationalrat hat beschlossen:
 
 > Hat der Täter für die Tat, derentwegen er im Inland bestraft wird, schon im Ausland eine Strafe verbüßt, so ist sie auf die im Inland verhängte Strafe anzurechnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-66-stgb--anrechnung-im-ausland-erlittener-strafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=66) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-66-stgb--anrechnung-im-ausland-erlittener-strafen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-66-stgb--anrechnung-im-ausland-erlittener-strafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=66) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-66-stgb--anrechnung-im-ausland-erlittener-strafen) \]
 
 ----
 
@@ -1740,7 +1740,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine mit Strafe bedrohte Handlung hat der Täter an jedem Ort begangen, an dem er gehandelt hat oder hätte handeln sollen oder ein dem Tatbild entsprechender Erfolg ganz oder zum Teil eingetreten ist oder nach der Vorstellung des Täters hätte eintreten sollen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-67-stgb--zeit-und-ort-der-tat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=67) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-67-stgb--zeit-und-ort-der-tat)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-67-stgb--zeit-und-ort-der-tat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=67) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-67-stgb--zeit-und-ort-der-tat) \]
 
 ----
 
@@ -1752,7 +1752,7 @@ Der Nationalrat hat beschlossen:
 
 > Jahre und Monate sind nach dem Kalender zu berechnen\. Zeiträume werden so berechnet, daß der Tag, auf den das Ereignis fällt, mit dem der Zeitraum beginnt, nicht mitgezählt wird\. Sie enden mit dem Ablauf des letzten Tages\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-68-stgb--zeitberechnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-68-stgb--zeitberechnung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-68-stgb--zeitberechnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-68-stgb--zeitberechnung) \]
 
 ----
 
@@ -1760,7 +1760,7 @@ Der Nationalrat hat beschlossen:
 
 > Eine Handlung wird nur dann öffentlich begangen, wenn sie unmittelbar von einem größeren Personenkreis wahrgenommen werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-69-stgb--öffentliche-begehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-69-stgb--öffentliche-begehung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-69-stgb--öffentliche-begehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-69-stgb--öffentliche-begehung) \]
 
 ----
 
@@ -1778,7 +1778,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine frühere Tat oder Verurteilung bleibt außer Betracht, wenn seit ihrer Begehung oder Rechtskraft bis zur folgenden Tat mehr als ein Jahr vergangen ist\. In diese Frist werden Zeiten, in denen der Täter auf behördliche Anordnung angehalten worden ist, nicht eingerechnet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-70-stgb--gewerbsmäßige-begehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-70-stgb--gewerbsmäßige-begehung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-70-stgb--gewerbsmäßige-begehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-70-stgb--gewerbsmäßige-begehung) \]
 
 ----
 
@@ -1786,7 +1786,7 @@ Der Nationalrat hat beschlossen:
 
 > Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-71-stgb--schädliche-neigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-71-stgb--schädliche-neigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-71-stgb--schädliche-neigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-71-stgb--schädliche-neigung) \]
 
 ----
 
@@ -1796,7 +1796,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Personen, die miteinander in Lebensgemeinschaft leben, werden wie Angehörige behandelt, Kinder und Enkel einer von ihnen werden wie Angehörige auch der anderen behandelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-72-stgb--angehörige) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-72-stgb--angehörige)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-72-stgb--angehörige) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-72-stgb--angehörige) \]
 
 ----
 
@@ -1804,7 +1804,7 @@ Der Nationalrat hat beschlossen:
 
 > Sofern das Gesetz nicht ausdrücklich auf die Verurteilung durch ein inländisches Gericht abstellt, stehen ausländische Verurteilungen inländischen gleich, wenn sie den Rechtsbrecher wegen einer Tat schuldig sprechen, die auch nach österreichischem Recht gerichtlich strafbar ist, und in einem den Grundsätzen des Art\. 6 der europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl\. Nr\. 210/1958, entsprechenden Verfahren ergangen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-73-stgb--ausländische-verurteilungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-73-stgb--ausländische-verurteilungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-73-stgb--ausländische-verurteilungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-73-stgb--ausländische-verurteilungen) \]
 
 ----
 
@@ -1857,7 +1857,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Unter leitenden Angestellten sind Angestellte eines Unternehmens, auf dessen Geschäftsführung ihnen ein maßgeblicher Einfluss zusteht, zu verstehen\. Ihnen stehen Geschäftsführer, Mitglieder des Vorstands oder Aufsichtsrats und Prokuristen ohne Angestelltenverhältnis gleich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-74-stgb--andere-begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-74-stgb--andere-begriffsbestimmungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-74-stgb--andere-begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md#-74-stgb--andere-begriffsbestimmungen) \]
 
 ----
 
@@ -1871,7 +1871,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer einen anderen tötet, ist mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-75-stgb--mord) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-75-stgb--mord)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-75-stgb--mord) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-75-stgb--mord) \]
 
 ----
 
@@ -1879,7 +1879,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer sich in einer allgemein begreiflichen heftigen Gemütsbewegung dazu hinreißen läßt, einen anderen zu töten, ist mit Freiheitsstrafe von fünf bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-76-stgb--totschlag) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-76-stgb--totschlag)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-76-stgb--totschlag) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-76-stgb--totschlag) \]
 
 ----
 
@@ -1887,7 +1887,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer einen anderen auf dessen ernstliches und eindringliches Verlangen tötet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-77-stgb--tötung-auf-verlangen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-77-stgb--tötung-auf-verlangen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-77-stgb--tötung-auf-verlangen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-77-stgb--tötung-auf-verlangen) \]
 
 ----
 
@@ -1905,7 +1905,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; dazu physisch Hilfe leistet, sich selbst zu töten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-78-stgb--mitwirkung-an-der-selbsttötung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-78-stgb--mitwirkung-an-der-selbsttötung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-78-stgb--mitwirkung-an-der-selbsttötung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-78-stgb--mitwirkung-an-der-selbsttötung) \]
 
 ----
 
@@ -1913,7 +1913,7 @@ Der Nationalrat hat beschlossen:
 
 > Eine Mutter, die das Kind während der Geburt oder solange sie noch unter der Einwirkung des Geburtsvorgangs steht, tötet, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-79-stgb--tötung-eines-kindes-bei-der-geburt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-79-stgb--tötung-eines-kindes-bei-der-geburt)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-79-stgb--tötung-eines-kindes-bei-der-geburt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-79-stgb--tötung-eines-kindes-bei-der-geburt) \]
 
 ----
 
@@ -1923,7 +1923,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat den Tod mehrerer Menschen zur Folge, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-80-stgb--fahrlässige-tötung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=80) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-80-stgb--fahrlässige-tötung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-80-stgb--fahrlässige-tötung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=80) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-80-stgb--fahrlässige-tötung) \]
 
 ----
 
@@ -1935,7 +1935,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist zu bestrafen, wer grob fahrlässig \(§ 6 Abs\. 3\) oder in dem in Abs\. 2 bezeichneten Fall den Tod einer größeren Zahl von Menschen herbeiführt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-81-stgb--grob-fahrlässige-tötung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-81-stgb--grob-fahrlässige-tötung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-81-stgb--grob-fahrlässige-tötung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-81-stgb--grob-fahrlässige-tötung) \]
 
 ----
 
@@ -1947,7 +1947,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat den Tod des Gefährdeten zur Folge, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-82-stgb--aussetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-82-stgb--aussetzung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-82-stgb--aussetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-82-stgb--aussetzung) \]
 
 ----
 
@@ -1965,7 +1965,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; während oder wegen der Ausübung ihrer Tätigkeit begeht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-83-stgb--körperverletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=83) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-83-stgb--körperverletzung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-83-stgb--körperverletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=83) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-83-stgb--körperverletzung) \]
 
 ----
 
@@ -1987,7 +1987,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` unter Zufügung besonderer Qualen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-84-stgb--schwere-körperverletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=84) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-84-stgb--schwere-körperverletzung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-84-stgb--schwere-körperverletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=84) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-84-stgb--schwere-körperverletzung) \]
 
 ----
 
@@ -2007,7 +2007,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Mit Freiheitsstrafe von einem bis zu zehn Jahren ist zu bestrafen, wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch, wenn auch nur fahrlässig, eine schwere Dauerfolge \(Abs\. 1\) beim Verletzten herbeiführt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-85-stgb--körperverletzung-mit-schweren-dauerfolgen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=85) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-85-stgb--körperverletzung-mit-schweren-dauerfolgen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-85-stgb--körperverletzung-mit-schweren-dauerfolgen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=85) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-85-stgb--körperverletzung-mit-schweren-dauerfolgen) \]
 
 ----
 
@@ -2017,7 +2017,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer einen anderen am Körper verletzt oder an der Gesundheit schädigt und dadurch fahrlässig dessen Tod herbeiführt, ist mit Freiheitsstrafe von einem bis zu fünfzehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-86-stgb--körperverletzung-mit-tödlichem-ausgang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=86) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-86-stgb--körperverletzung-mit-tödlichem-ausgang)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-86-stgb--körperverletzung-mit-tödlichem-ausgang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=86) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-86-stgb--körperverletzung-mit-tödlichem-ausgang) \]
 
 ----
 
@@ -2029,7 +2029,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Zieht die Tat nach Abs\. 1 eine schwere Dauerfolge \(§ 85\) nach sich, so ist der Täter mit Freiheitsstrafe von einem bis zu fünfzehn Jahren, im Falle des Abs\. 1a mit Freiheitsstrafe von zwei bis zu fünfzehn Jahren, hat die Tat den Tod des Geschädigten zur Folge, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-87-stgb--absichtliche-schwere-körperverletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-87-stgb--absichtliche-schwere-körperverletzung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-87-stgb--absichtliche-schwere-körperverletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-87-stgb--absichtliche-schwere-körperverletzung) \]
 
 ----
 
@@ -2051,7 +2051,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Hat die Tat nach Abs\. 1 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\. Hat die Tat nach Abs\. 3 eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, ist der Täter mit Freiheitsstrafe bis zu zwei Jahren, hat sie jedoch eine schwere Körperverletzung \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-88-stgb--fahrlässige-körperverletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-88-stgb--fahrlässige-körperverletzung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-88-stgb--fahrlässige-körperverletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-88-stgb--fahrlässige-körperverletzung) \]
 
 ----
 
@@ -2059,7 +2059,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer vorsätzlich, grob fahrlässig \(§ 6 Abs\. 3\) oder fahrlässig unter den in § 81 Abs\. 2 umschriebenen Umständen, eine Gefahr für das Leben, die Gesundheit oder die körperliche Sicherheit eines anderen herbeiführt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-89-stgb--gefährdung-der-körperlichen-sicherheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-89-stgb--gefährdung-der-körperlichen-sicherheit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-89-stgb--gefährdung-der-körperlichen-sicherheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-89-stgb--gefährdung-der-körperlichen-sicherheit) \]
 
 ----
 
@@ -2071,7 +2071,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` In eine Genitalverstümmelung \(§ 85 Abs\. 1 Z 2a\) kann nicht eingewilligt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-90-stgb--einwilligung-des-verletzten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-90-stgb--einwilligung-des-verletzten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-90-stgb--einwilligung-des-verletzten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-90-stgb--einwilligung-des-verletzten) \]
 
 ----
 
@@ -2085,7 +2085,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter, dem aus der Teilnahme kein Vorwurf gemacht werden kann, ist nicht zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-91-stgb--raufhandel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=91) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-91-stgb--raufhandel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-91-stgb--raufhandel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=91) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-91-stgb--raufhandel) \]
 
 ----
 
@@ -2099,7 +2099,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; während der Ausübung ihrer Tätigkeit tätlich angreift, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-91a-stgb--tätlicher-angriff-auf-mit-bestimmten-aufgaben-betraute-bedienstete-einer-dem-öffentlichen-verkehr-dienenden-anstalt-oder-angehörige-des-gesundheits--oder-rettungswesens-oder-organe-der-feuerwehr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=91a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-91a-stgb--tätlicher-angriff-auf-mit-bestimmten-aufgaben-betraute-bedienstete-einer-dem-öffentlichen-verkehr-dienenden-anstalt-oder-angehörige-des-gesundheits--oder-rettungswesens-oder-organe-der-feuerwehr)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-91a-stgb--tätlicher-angriff-auf-mit-bestimmten-aufgaben-betraute-bedienstete-einer-dem-öffentlichen-verkehr-dienenden-anstalt-oder-angehörige-des-gesundheits--oder-rettungswesens-oder-organe-der-feuerwehr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=91a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-91a-stgb--tätlicher-angriff-auf-mit-bestimmten-aufgaben-betraute-bedienstete-einer-dem-öffentlichen-verkehr-dienenden-anstalt-oder-angehörige-des-gesundheits--oder-rettungswesens-oder-organe-der-feuerwehr) \]
 
 ----
 
@@ -2111,7 +2111,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat eine Körperverletzung mit schweren Dauerfolgen \(§ 85\) zur Folge, so ist der Täter mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, hat sie den Tod des Geschädigten zur Folge, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-92-stgb--quälen-oder-vernachlässigen-unmündiger-jüngerer-oder-wehrloser-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-92-stgb--quälen-oder-vernachlässigen-unmündiger-jüngerer-oder-wehrloser-personen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-92-stgb--quälen-oder-vernachlässigen-unmündiger-jüngerer-oder-wehrloser-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-92-stgb--quälen-oder-vernachlässigen-unmündiger-jüngerer-oder-wehrloser-personen) \]
 
 ----
 
@@ -2121,7 +2121,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine der im § 92 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-93-stgb--überanstrengung-unmündiger-jüngerer-oder-schonungsbedürftiger-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-93-stgb--überanstrengung-unmündiger-jüngerer-oder-schonungsbedürftiger-personen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-93-stgb--überanstrengung-unmündiger-jüngerer-oder-schonungsbedürftiger-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-93-stgb--überanstrengung-unmündiger-jüngerer-oder-schonungsbedürftiger-personen) \]
 
 ----
 
@@ -2135,7 +2135,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter ist nach Abs\. 1 und 2 nicht zu bestrafen, wenn er schon wegen der Verletzung mit der gleichen oder einer strengeren Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-94-stgb--imstichlassen-eines-verletzten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=94) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-94-stgb--imstichlassen-eines-verletzten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-94-stgb--imstichlassen-eines-verletzten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=94) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-94-stgb--imstichlassen-eines-verletzten) \]
 
 ----
 
@@ -2145,7 +2145,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Hilfeleistung ist insbesondere dann nicht zuzumuten, wenn sie nur unter Gefahr für Leib oder Leben oder unter Verletzung anderer ins Gewicht fallender Interessen möglich wäre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-95-stgb--unterlassung-der-hilfeleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-95-stgb--unterlassung-der-hilfeleistung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-95-stgb--unterlassung-der-hilfeleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-95-stgb--unterlassung-der-hilfeleistung) \]
 
 ----
 
@@ -2161,7 +2161,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine Frau, die den Abbruch ihrer Schwangerschaft selbst vornimmt oder durch einen anderen zuläßt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-96-stgb--schwangerschaftsabbruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=96) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-96-stgb--schwangerschaftsabbruch)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-96-stgb--schwangerschaftsabbruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=96) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-96-stgb--schwangerschaftsabbruch) \]
 
 ----
 
@@ -2179,7 +2179,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Niemand darf wegen der Durchführung eines straflosen Schwangerschaftsabbruchs oder der Mitwirkung daran oder wegen der Weigerung, einen solchen Schwangerschaftsabbruch durchzuführen oder daran mitzuwirken, in welcher Art immer benachteiligt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-97-stgb--straflosigkeit-des-schwangerschaftsabbruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-97-stgb--straflosigkeit-des-schwangerschaftsabbruchs)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-97-stgb--straflosigkeit-des-schwangerschaftsabbruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-97-stgb--straflosigkeit-des-schwangerschaftsabbruchs) \]
 
 ----
 
@@ -2189,7 +2189,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nach Abs\. 1 nicht zu bestrafen, wenn der Schwangerschaftsabbruch zur Rettung der Schwangeren aus einer unmittelbaren, nicht anders abwendbaren Lebensgefahr unter Umständen vorgenommen wird, unter denen die Einwilligung der Schwangeren nicht rechtzeitig zu erlangen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-98-stgb--schwangerschaftsabbruch-ohne-einwilligung-der-schwangeren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-98-stgb--schwangerschaftsabbruch-ohne-einwilligung-der-schwangeren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-98-stgb--schwangerschaftsabbruch-ohne-einwilligung-der-schwangeren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.006.md#-98-stgb--schwangerschaftsabbruch-ohne-einwilligung-der-schwangeren) \]
 
 ----
 
@@ -2203,7 +2203,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Freiheitsentziehung länger als einen Monat aufrecht erhält oder sie auf solche Weise, daß sie dem Festgehaltenen besondere Qualen bereitet, oder unter solchen Umständen begeht, daß sie für ihn mit besonders schweren Nachteilen verbunden ist, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-99-stgb--freiheitsentziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-99-stgb--freiheitsentziehung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-99-stgb--freiheitsentziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-99-stgb--freiheitsentziehung) \]
 
 ----
 
@@ -2211,7 +2211,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine geisteskranke oder wehrlose Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-100-stgb--entführung-einer-geisteskranken-oder-wehrlosen-person) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=100) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-100-stgb--entführung-einer-geisteskranken-oder-wehrlosen-person)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-100-stgb--entführung-einer-geisteskranken-oder-wehrlosen-person) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=100) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-100-stgb--entführung-einer-geisteskranken-oder-wehrlosen-person) \]
 
 ----
 
@@ -2219,7 +2219,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine unmündige Person in der Absicht entführt, dass sie von ihm oder einem Dritten sexuell missbraucht werde, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-101-stgb--entführung-einer-unmündigen-person) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-101-stgb--entführung-einer-unmündigen-person)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-101-stgb--entführung-einer-unmündigen-person) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-101-stgb--entführung-einer-unmündigen-person) \]
 
 ----
 
@@ -2237,7 +2237,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Läßt der Täter freiwillig unter Verzicht auf die begehrte Leistung die Person, die entführt worden ist oder deren sich der Täter sonst bemächtigt hat, ohne ernstlichen Schaden in ihren Lebenskreis zurückgelangen, so ist er mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-102-stgb--erpresserische-entführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=102) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-102-stgb--erpresserische-entführung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-102-stgb--erpresserische-entführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=102) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-102-stgb--erpresserische-entführung) \]
 
 ----
 
@@ -2247,7 +2247,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird das Opfer durch die Tat keiner erheblichen Gefahr ausgesetzt, so ist der Täter mit Freiheitsstrafe von fünf bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-103-stgb--überlieferung-an-eine-ausländische-macht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=103) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-103-stgb--überlieferung-an-eine-ausländische-macht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-103-stgb--überlieferung-an-eine-ausländische-macht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=103) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-103-stgb--überlieferung-an-eine-ausländische-macht) \]
 
 ----
 
@@ -2257,7 +2257,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer bewirkt, daß ein anderer versklavt oder in eine sklavereiähnliche Lage gebracht wird oder daß sich ein anderer in Sklaverei oder eine sklavereiähnliche Lage begibt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-104-stgb--sklaverei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-104-stgb--sklaverei)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-104-stgb--sklaverei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-104-stgb--sklaverei) \]
 
 ----
 
@@ -2273,7 +2273,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Mit Freiheitsstrafe von einem bis zu zehn Jahren ist auch zu bestrafen, wer eine minderjährige Person mit dem Vorsatz, dass sie ausgebeutet werde \(Abs\. 3\), anwirbt, beherbergt oder sonst aufnimmt, befördert oder einem anderen anbietet oder weitergibt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-104a-stgb--menschenhandel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=104a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-104a-stgb--menschenhandel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-104a-stgb--menschenhandel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=104a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-104a-stgb--menschenhandel) \]
 
 ----
 
@@ -2283,7 +2283,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Tat ist nicht rechtswidrig, wenn die Anwendung der Gewalt oder Drohung als Mittel zu dem angestrebten Zweck nicht den guten Sitten widerstreitet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-105-stgb--nötigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=105) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-105-stgb--nötigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-105-stgb--nötigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=105) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-105-stgb--nötigung) \]
 
 ----
 
@@ -2303,7 +2303,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ebenso ist zu bestrafen, wer eine Nötigung zur Prostitution oder zur Mitwirkung an einer pornographischen Darbietung gegen eine unmündige Person, im Rahmen einer kriminellen Vereinigung, unter Anwendung schwerer Gewalt oder so begeht, dass durch die Tat das Leben der Person vorsätzlich oder grob fahrlässig \(§ 6 Abs\. 3\) gefährdet wird oder die Tat einen besonders schweren Nachteil für die Person zur Folge hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-106-stgb--schwere-nötigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=106) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-106-stgb--schwere-nötigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-106-stgb--schwere-nötigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=106) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-106-stgb--schwere-nötigung) \]
 
 ----
 
@@ -2315,7 +2315,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 106 Abs\. 2 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-106a-stgb--zwangsheirat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=106a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-106a-stgb--zwangsheirat)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-106a-stgb--zwangsheirat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=106a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-106a-stgb--zwangsheirat) \]
 
 ----
 
@@ -2328,7 +2328,7 @@ Der Nationalrat hat beschlossen:
 > `(3)` In den im § 106 Abs\. 2 genannten Fällen ist die dort vorgesehene Strafe zu verhängen\.
 > *\(Anm\.:Abs\. 4 aufgehoben durch BGBl\. I Nr\. 56/2006\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-107-stgb--gefährliche-drohung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=107) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-107-stgb--gefährliche-drohung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-107-stgb--gefährliche-drohung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=107) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-107-stgb--gefährliche-drohung) \]
 
 ----
 
@@ -2350,7 +2350,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Übersteigt der Tatzeitraum nach Abs\. 1 ein Jahr oder hat die Tat den Selbstmord oder einen Selbstmordversuch der im Sinn des Abs\. 2 verfolgten Person zur Folge, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-107a-stgb--beharrliche-verfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=107a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-107a-stgb--beharrliche-verfolgung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-107a-stgb--beharrliche-verfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=107a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-107a-stgb--beharrliche-verfolgung) \]
 
 ----
 
@@ -2374,7 +2374,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Täter ist nicht nach den vorstehenden Bestimmungen zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-107b-stgb--fortgesetzte-gewaltausübung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=107b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-107b-stgb--fortgesetzte-gewaltausübung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-107b-stgb--fortgesetzte-gewaltausübung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=107b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-107b-stgb--fortgesetzte-gewaltausübung) \]
 
 ----
 
@@ -2390,7 +2390,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat den Selbstmord oder einen Selbstmordversuch der im Sinn des Abs\. 1 verletzten Person zur Folge, begeht der Täter innerhalb eines ein Jahr übersteigenden Zeitraums fortgesetzt gegen die verletzte Person gerichtete Tathandlungen im Sinne des Abs\. 1 oder übersteigt die Dauer der Wahrnehmbarkeit nach Abs\. 1 ein Jahr, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-107c-stgb--fortdauernde-belästigung-im-wege-einer-telekommunikation-oder-eines-computersystems) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=107c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-107c-stgb--fortdauernde-belästigung-im-wege-einer-telekommunikation-oder-eines-computersystems)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-107c-stgb--fortdauernde-belästigung-im-wege-einer-telekommunikation-oder-eines-computersystems) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=107c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-107c-stgb--fortdauernde-belästigung-im-wege-einer-telekommunikation-oder-eines-computersystems) \]
 
 ----
 
@@ -2402,7 +2402,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nur mit Ermächtigung des in seinen Rechten Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-108-stgb--täuschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=108) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-108-stgb--täuschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-108-stgb--täuschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=108) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-108-stgb--täuschung) \]
 
 ----
 
@@ -2420,7 +2420,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` das Eindringen mehrerer Personen erzwungen wird, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-109-stgb--hausfriedensbruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=109) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-109-stgb--hausfriedensbruch)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-109-stgb--hausfriedensbruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=109) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-109-stgb--hausfriedensbruch) \]
 
 ----
 
@@ -2432,7 +2432,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nur auf Verlangen des eigenmächtig Behandelten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-110-stgb--eigenmächtige-heilbehandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=110) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-110-stgb--eigenmächtige-heilbehandlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-110-stgb--eigenmächtige-heilbehandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=110) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-110-stgb--eigenmächtige-heilbehandlung) \]
 
 ----
 
@@ -2448,7 +2448,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nicht zu bestrafen, wenn die Behauptung als wahr erwiesen wird\. Im Fall des Abs\. 1 ist der Täter auch dann nicht zu bestrafen, wenn Umstände erwiesen werden, aus denen sich für den Täter hinreichende Gründe ergeben haben, die Behauptung für wahr zu halten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-111-stgb--üble-nachrede) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=111) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-111-stgb--üble-nachrede)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-111-stgb--üble-nachrede) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=111) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-111-stgb--üble-nachrede) \]
 
 ----
 
@@ -2456,7 +2456,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Wahrheitsbeweis und der Beweis des guten Glaubens sind nur aufzunehmen, wenn sich der Täter auf die Richtigkeit der Behauptung oder auf seinen guten Glauben beruft\. Über Tatsachen des Privat\- oder Familienlebens und über strafbare Handlungen, die nur auf Verlangen eines Dritten verfolgt werden, sind der Wahrheitsbeweis und der Beweis des guten Glaubens nicht zuzulassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-112-stgb--wahrheitsbeweis-und-beweis-des-guten-glaubens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=112) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-112-stgb--wahrheitsbeweis-und-beweis-des-guten-glaubens)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-112-stgb--wahrheitsbeweis-und-beweis-des-guten-glaubens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=112) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-112-stgb--wahrheitsbeweis-und-beweis-des-guten-glaubens) \]
 
 ----
 
@@ -2464,7 +2464,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer einem anderen in einer für einen Dritten wahrnehmbaren Weise eine strafbare Handlung vorwirft, für die die Strafe schon vollzogen oder wenn auch nur bedingt nachgesehen oder nachgelassen oder für die der Ausspruch der Strafe vorläufig aufgeschoben worden ist, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-113-stgb--vorwurf-einer-schon-abgetanen-gerichtlich-strafbaren-handlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=113) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-113-stgb--vorwurf-einer-schon-abgetanen-gerichtlich-strafbaren-handlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-113-stgb--vorwurf-einer-schon-abgetanen-gerichtlich-strafbaren-handlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=113) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-113-stgb--vorwurf-einer-schon-abgetanen-gerichtlich-strafbaren-handlung) \]
 
 ----
 
@@ -2474,7 +2474,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer durch besondere Umstände genötigt ist, eine dem § 111 oder dem § 113 entsprechende Behauptung in der Form und auf die Weise vorzubringen, wie es geschieht, ist nicht zu bestrafen, es sei denn, daß die Behauptung unrichtig ist und der Täter sich dessen bei Aufwendung der nötigen Sorgfalt \(§ 6\) hätte bewußt sein können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-114-stgb--straflosigkeit-wegen-ausübung-eines-rechtes-oder-nötigung-durch-besondere-umstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-114-stgb--straflosigkeit-wegen-ausübung-eines-rechtes-oder-nötigung-durch-besondere-umstände)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-114-stgb--straflosigkeit-wegen-ausübung-eines-rechtes-oder-nötigung-durch-besondere-umstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-114-stgb--straflosigkeit-wegen-ausübung-eines-rechtes-oder-nötigung-durch-besondere-umstände) \]
 
 ----
 
@@ -2486,7 +2486,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer sich nur durch Entrüstung über das Verhalten eines anderen dazu hinreißen läßt, ihn in einer den Umständen nach entschuldbaren Weise zu beschimpfen, zu verspotten, zu mißhandeln oder mit Mißhandlungen zu bedrohen, ist entschuldigt, wenn seine Entrüstung, insbesondere auch im Hinblick auf die seit ihrem Anlaß verstrichene Zeit, allgemein begreiflich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-115-stgb--beleidigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-115-stgb--beleidigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-115-stgb--beleidigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-115-stgb--beleidigung) \]
 
 ----
 
@@ -2494,7 +2494,7 @@ Der Nationalrat hat beschlossen:
 
 > Handlungen nach dem § 111 oder dem § 115 sind auch strafbar, wenn sie gegen den Nationalrat, den Bundesrat, die Bundesversammlung oder einen Landtag, gegen das Bundesheer, eine selbständige Abteilung des Bundesheeres oder gegen eine Behörde gerichtet sind und öffentlich begangen werden\. Die Bestimmungen der §§ 111 Abs\. 3, 112 und 114 gelten auch für solche strafbare Handlungen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-116-stgb--öffentliche-beleidigung-eines-verfassungsmäßigen-vertretungskörpers-des-bundesheeres-oder-einer-behörde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=116) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-116-stgb--öffentliche-beleidigung-eines-verfassungsmäßigen-vertretungskörpers-des-bundesheeres-oder-einer-behörde)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-116-stgb--öffentliche-beleidigung-eines-verfassungsmäßigen-vertretungskörpers-des-bundesheeres-oder-einer-behörde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=116) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-116-stgb--öffentliche-beleidigung-eines-verfassungsmäßigen-vertretungskörpers-des-bundesheeres-oder-einer-behörde) \]
 
 ----
 
@@ -2509,7 +2509,7 @@ Der Nationalrat hat beschlossen:
 > `(4)` In den Fällen der Abs\. 2 und 3 ist der Verletzte jederzeit berechtigt, sich der Anklage anzuschließen\. Verfolgt die Staatsanwaltschaft eine solche strafbare Handlung nicht oder tritt sie von der Verfolgung zurück, so ist der Verletzte selbst zur Anklage berechtigt\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 98/2009\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-117-stgb--berechtigung-zur-anklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=117) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-117-stgb--berechtigung-zur-anklage)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-117-stgb--berechtigung-zur-anklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=117) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.007.md#-117-stgb--berechtigung-zur-anklage) \]
 
 ----
 
@@ -2531,7 +2531,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter ist nur auf Verlangen des Verletzten zu verfolgen\. Wird die Tat jedoch von einem Beamten in Ausübung seines Amtes oder unter Ausnützung der ihm durch seine Amtstätigkeit gebotenen Gelegenheit begangen, so hat die Staatsanwaltschaft den Täter mit Ermächtigung des Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-118-stgb--verletzung-des-briefgeheimnisses-und-unterdrückung-von-briefen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=118) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-118-stgb--verletzung-des-briefgeheimnisses-und-unterdrückung-von-briefen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-118-stgb--verletzung-des-briefgeheimnisses-und-unterdrückung-von-briefen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=118) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-118-stgb--verletzung-des-briefgeheimnisses-und-unterdrückung-von-briefen) \]
 
 ----
 
@@ -2551,7 +2551,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wer die Tat nach Abs\. 1 im Rahmen einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer die Tat nach Abs\. 2 im Rahmen einer kriminellen Vereinigung begeht, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-118a-stgb--widerrechtlicher-zugriff-auf-ein-computersystem) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=118a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-118a-stgb--widerrechtlicher-zugriff-auf-ein-computersystem)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-118a-stgb--widerrechtlicher-zugriff-auf-ein-computersystem) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=118a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-118a-stgb--widerrechtlicher-zugriff-auf-ein-computersystem) \]
 
 ----
 
@@ -2561,7 +2561,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-119-stgb--verletzung-des-telekommunikationsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=119) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-119-stgb--verletzung-des-telekommunikationsgeheimnisses)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-119-stgb--verletzung-des-telekommunikationsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=119) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-119-stgb--verletzung-des-telekommunikationsgeheimnisses) \]
 
 ----
 
@@ -2571,7 +2571,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-119a-stgb--missbräuchliches-abfangen-von-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=119a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-119a-stgb--missbräuchliches-abfangen-von-daten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-119a-stgb--missbräuchliches-abfangen-von-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=119a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-119a-stgb--missbräuchliches-abfangen-von-daten) \]
 
 ----
 
@@ -2585,7 +2585,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-120-stgb--mißbrauch-von-tonaufnahme--oder-abhörgeräten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=120) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-120-stgb--mißbrauch-von-tonaufnahme--oder-abhörgeräten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-120-stgb--mißbrauch-von-tonaufnahme--oder-abhörgeräten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=120) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-120-stgb--mißbrauch-von-tonaufnahme--oder-abhörgeräten) \]
 
 ----
 
@@ -2597,7 +2597,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nur mit Ermächtigung der verletzten Person zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-120a-stgb--unbefugte-bildaufnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=120a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-120a-stgb--unbefugte-bildaufnahmen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-120a-stgb--unbefugte-bildaufnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=120a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-120a-stgb--unbefugte-bildaufnahmen) \]
 
 ----
 
@@ -2617,7 +2617,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Der Täter ist nur mit Ermächtigung des in seinem Interesse an der Geheimhaltung Verletzten \(Abs\. 1 und 3\) zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-121-stgb--verletzung-von-berufsgeheimnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-121-stgb--verletzung-von-berufsgeheimnissen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-121-stgb--verletzung-von-berufsgeheimnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-121-stgb--verletzung-von-berufsgeheimnissen) \]
 
 ----
 
@@ -2633,7 +2633,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Täter ist nur mit Ermächtigung des in seinem Interesse an der Geheimhaltung Verletzten \(Abs\. 3\) zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-122-stgb--verletzung-eines-geschäfts--oder-betriebsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=122) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-122-stgb--verletzung-eines-geschäfts--oder-betriebsgeheimnisses)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-122-stgb--verletzung-eines-geschäfts--oder-betriebsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=122) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-122-stgb--verletzung-eines-geschäfts--oder-betriebsgeheimnisses) \]
 
 ----
 
@@ -2643,7 +2643,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-123-stgb--auskundschaftung-eines-geschäfts--oder-betriebsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=123) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-123-stgb--auskundschaftung-eines-geschäfts--oder-betriebsgeheimnisses)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-123-stgb--auskundschaftung-eines-geschäfts--oder-betriebsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=123) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-123-stgb--auskundschaftung-eines-geschäfts--oder-betriebsgeheimnisses) \]
 
 ----
 
@@ -2653,7 +2653,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer ein Geschäfts\- oder Betriebsgeheimnis, zu dessen Wahrung er verpflichtet ist, der Verwertung, Verwendung oder sonstigen Auswertung im Ausland preisgibt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-124-stgb--auskundschaftung-eines-geschäfts--oder-betriebsgeheimnisses-zugunsten-des-auslands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=124) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-124-stgb--auskundschaftung-eines-geschäfts--oder-betriebsgeheimnisses-zugunsten-des-auslands)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-124-stgb--auskundschaftung-eines-geschäfts--oder-betriebsgeheimnisses-zugunsten-des-auslands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=124) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md#-124-stgb--auskundschaftung-eines-geschäfts--oder-betriebsgeheimnisses-zugunsten-des-auslands) \]
 
 ----
 
@@ -2665,7 +2665,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine fremde Sache zerstört, beschädigt, verunstaltet oder unbrauchbar macht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-125-stgb--sachbeschädigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-125-stgb--sachbeschädigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-125-stgb--sachbeschädigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-125-stgb--sachbeschädigung) \]
 
 ----
 
@@ -2689,7 +2689,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer durch die Tat an der Sache einen 300 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-126-stgb--schwere-sachbeschädigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=126) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-126-stgb--schwere-sachbeschädigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-126-stgb--schwere-sachbeschädigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=126) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-126-stgb--schwere-sachbeschädigung) \]
 
 ----
 
@@ -2709,7 +2709,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` die Tat als Mitglied einer kriminellen Vereinigung begeht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-126a-stgb--datenbeschädigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=126a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-126a-stgb--datenbeschädigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-126a-stgb--datenbeschädigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=126a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-126a-stgb--datenbeschädigung) \]
 
 ----
 
@@ -2729,7 +2729,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` die Tat als Mitglied einer kriminellen Vereinigung begeht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-126b-stgb--störung-der-funktionsfähigkeit-eines-computersystems) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=126b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-126b-stgb--störung-der-funktionsfähigkeit-eines-computersystems)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-126b-stgb--störung-der-funktionsfähigkeit-eines-computersystems) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=126b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-126b-stgb--störung-der-funktionsfähigkeit-eines-computersystems) \]
 
 ----
 
@@ -2749,7 +2749,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Mit Freiheitsstrafe bis zu drei Jahren ist zu bestrafen, wer die Tat nach Abs\. 1 oder Abs\. 1a in Bezug auf ein Computerprogramm oder eine damit vergleichbare Vorrichtung oder ein Computerpasswort, einen Zugangscode oder damit vergleichbare Daten begeht, die geeignet sind, eine Beeinträchtigung wesentlicher Bestandteile der kritischen Infrastruktur \(§ 74 Abs\. 1 Z 11\) zu verursachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-126c-stgb--missbrauch-von-computerprogrammen-oder-zugangsdaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=126c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-126c-stgb--missbrauch-von-computerprogrammen-oder-zugangsdaten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-126c-stgb--missbrauch-von-computerprogrammen-oder-zugangsdaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=126c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-126c-stgb--missbrauch-von-computerprogrammen-oder-zugangsdaten) \]
 
 ----
 
@@ -2757,7 +2757,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine fremde bewegliche Sache einem anderen mit dem Vorsatz wegnimmt, sich oder einen Dritten durch deren Zueignung unrechtmäßig zu bereichern, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-127-stgb--diebstahl) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=127) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-127-stgb--diebstahl)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-127-stgb--diebstahl) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=127) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-127-stgb--diebstahl) \]
 
 ----
 
@@ -2777,7 +2777,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer eine Sache stiehlt, deren Wert 300 000 Euro übersteigt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-128-stgb--schwerer-diebstahl) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=128) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-128-stgb--schwerer-diebstahl)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-128-stgb--schwerer-diebstahl) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=128) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-128-stgb--schwerer-diebstahl) \]
 
 ----
 
@@ -2799,7 +2799,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` bei dem er oder mit seinem Wissen ein anderer Beteiligter \(§ 12\) eine Waffe oder ein anderes Mittel bei sich führt, um den Widerstand einer Person zu überwinden oder zu verhindern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-129-stgb--diebstahl-durch-einbruch-oder-mit-waffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=129) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-129-stgb--diebstahl-durch-einbruch-oder-mit-waffen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-129-stgb--diebstahl-durch-einbruch-oder-mit-waffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=129) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-129-stgb--diebstahl-durch-einbruch-oder-mit-waffen) \]
 
 ----
 
@@ -2811,7 +2811,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer auf die in Abs\. 1 bezeichnete Weise einen Diebstahl nach § 129 Abs\. 2 begeht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-130-stgb--gewerbsmäßiger-diebstahl-und-diebstahl-im-rahmen-einer-kriminellen-vereinigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=130) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-130-stgb--gewerbsmäßiger-diebstahl-und-diebstahl-im-rahmen-einer-kriminellen-vereinigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-130-stgb--gewerbsmäßiger-diebstahl-und-diebstahl-im-rahmen-einer-kriminellen-vereinigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=130) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-130-stgb--gewerbsmäßiger-diebstahl-und-diebstahl-im-rahmen-einer-kriminellen-vereinigung) \]
 
 ----
 
@@ -2819,7 +2819,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer, bei einem Diebstahl auf frischer Tat betreten, Gewalt gegen eine Person anwendet oder sie mit einer gegenwärtigen Gefahr für Leib oder Leben \(§ 89\) bedroht, um sich oder einem Dritten die weggenommene Sache zu erhalten, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wenn die Gewaltanwendung jedoch eine Körperverletzung mit schweren Dauerfolgen \(§ 85\) oder den Tod eines Menschen zur Folge hat, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-131-stgb--räuberischer-diebstahl) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=131) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-131-stgb--räuberischer-diebstahl)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-131-stgb--räuberischer-diebstahl) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=131) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-131-stgb--räuberischer-diebstahl) \]
 
 ----
 
@@ -2829,7 +2829,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer Energie entzieht, deren Wert 5 000 Euro übersteigt, ist mit Freiheitsstrafe bis zu drei Jahren, wer Energie im Wert von mehr als 300 000 Euro entzieht, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-132-stgb--entziehung-von-energie) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=132) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-132-stgb--entziehung-von-energie)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-132-stgb--entziehung-von-energie) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=132) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-132-stgb--entziehung-von-energie) \]
 
 ----
 
@@ -2839,7 +2839,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer ein Gut veruntreut, dessen Wert 5 000 Euro übersteigt, ist mit Freiheitsstrafe bis zu drei Jahren, wer ein Gut im Wert von mehr als 300 000 Euro veruntreut, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-133-stgb--veruntreuung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=133) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-133-stgb--veruntreuung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-133-stgb--veruntreuung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=133) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-133-stgb--veruntreuung) \]
 
 ----
 
@@ -2851,7 +2851,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer ein fremdes Gut unterschlägt, dessen Wert 5 000 Euro übersteigt, ist mit Freiheitsstrafe bis zu zwei Jahren, wer ein fremdes Gut im Wert von mehr als 300 000 Euro unterschlägt, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-134-stgb--unterschlagung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=134) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-134-stgb--unterschlagung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-134-stgb--unterschlagung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=134) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-134-stgb--unterschlagung) \]
 
 ----
 
@@ -2861,7 +2861,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Tat an einer der im § 126 Abs\. 1 Z 1 bis 6 genannten Sachen oder an einer Sache begeht, deren Wert 5 000 Euro übersteigt, ist mit Freiheitsstrafe bis zu zwei Jahren, wer die Tat an einer Sache begeht, deren Wert 300 000 Euro übersteigt, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-135-stgb--dauernde-sachentziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=135) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-135-stgb--dauernde-sachentziehung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-135-stgb--dauernde-sachentziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=135) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-135-stgb--dauernde-sachentziehung) \]
 
 ----
 
@@ -2875,7 +2875,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter ist nicht zu bestrafen, wenn die Berechtigung, über das Fahrzeug zu verfügen, seinem Ehegatten, seinem eingetragenen Partner, einem Verwandten in gerader Linie, seinem Bruder oder seiner Schwester oder einem anderen Angehörigen zusteht, sofern er mit diesem in Hausgemeinschaft lebt, oder wenn ihm das Fahrzeug von seinem dazu berechtigten Dienstgeber anvertraut war\. Eine bloß vorübergehende Berechtigung kommt nicht in Betracht\. An einer solchen Tat Beteiligte \(§ 12\) sind ebenfalls nicht zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-136-stgb--unbefugter-gebrauch-von-fahrzeugen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=136) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-136-stgb--unbefugter-gebrauch-von-fahrzeugen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-136-stgb--unbefugter-gebrauch-von-fahrzeugen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=136) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-136-stgb--unbefugter-gebrauch-von-fahrzeugen) \]
 
 ----
 
@@ -2883,7 +2883,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer unter Verletzung fremden Jagd\- oder Fischereirechts dem Wild nachstellt, fischt, Wild oder Fische tötet, verletzt oder sich oder einem Dritten zueignet oder sonst eine Sache, die dem Jagd\- oder Fischereirecht eines anderen unterliegt, zerstört, beschädigt oder sich oder einem Dritten zueignet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-137-stgb--eingriff-in-fremdes-jagd--oder-fischereirecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=137) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-137-stgb--eingriff-in-fremdes-jagd--oder-fischereirecht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-137-stgb--eingriff-in-fremdes-jagd--oder-fischereirecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=137) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-137-stgb--eingriff-in-fremdes-jagd--oder-fischereirecht) \]
 
 ----
 
@@ -2901,7 +2901,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; begeht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-138-stgb--schwerer-eingriff-in-fremdes-jagd--oder-fischereirecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=138) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-138-stgb--schwerer-eingriff-in-fremdes-jagd--oder-fischereirecht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-138-stgb--schwerer-eingriff-in-fremdes-jagd--oder-fischereirecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=138) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-138-stgb--schwerer-eingriff-in-fremdes-jagd--oder-fischereirecht) \]
 
 ----
 
@@ -2909,7 +2909,7 @@ Der Nationalrat hat beschlossen:
 
 > Begeht der Täter den Eingriff in fremdes Jagdrecht an einem Ort, wo er die Jagd, oder den Eingriff in fremdes Fischereirecht an einem Ort, wo er die Fischerei in beschränktem Umfang ausüben darf, so ist er wegen der nach den §§ 137 und 138 strafbaren Handlungen nur mit Ermächtigung des Jagd\- oder Fischereiberechtigten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-139-stgb--verfolgungsvoraussetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=139) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-139-stgb--verfolgungsvoraussetzung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-139-stgb--verfolgungsvoraussetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=139) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-139-stgb--verfolgungsvoraussetzung) \]
 
 ----
 
@@ -2917,7 +2917,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer, bei einem Eingriff in fremdes Jagd\- oder Fischereirecht auf frischer Tat betreten, Gewalt gegen eine Person anwendet oder sie mit einer gegenwärtigen Gefahr für Leib oder Leben \(§ 89\) bedroht, um sich oder einem Dritten die Beute zu erhalten, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wenn die Gewaltanwendung jedoch eine Körperverletzung mit schweren Dauerfolgen \(§ 85\) oder den Tod eines Menschen zur Folge hat, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-140-stgb--gewaltanwendung-eines-wilderers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=140) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-140-stgb--gewaltanwendung-eines-wilderers)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-140-stgb--gewaltanwendung-eines-wilderers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=140) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-140-stgb--gewaltanwendung-eines-wilderers) \]
 
 ----
 
@@ -2931,7 +2931,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die rechtswidrige Aneignung von Bodenerzeugnissen oder Bodenbestandteilen \(wie Baumfrüchte, Waldprodukte, Klaubholz\) geringen Wertes ist gerichtlich nicht strafbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-141-stgb--entwendung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=141) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-141-stgb--entwendung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-141-stgb--entwendung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=141) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-141-stgb--entwendung) \]
 
 ----
 
@@ -2941,7 +2941,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer einen Raub ohne Anwendung erheblicher Gewalt an einer Sache geringen Wertes begeht, ist, wenn die Tat nur unbedeutende Folgen nach sich gezogen hat und es sich um keinen schweren Raub \(§ 143\) handelt, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-142-stgb--raub) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=142) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-142-stgb--raub)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-142-stgb--raub) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=142) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-142-stgb--raub) \]
 
 ----
 
@@ -2951,7 +2951,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird durch die ausgeübte Gewalt jemand schwer verletzt \(§ 84 Abs\. 1\), so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\. Hat die Gewaltanwendung jedoch eine Körperverletzung mit schweren Dauerfolgen \(§ 85 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe von zehn bis zu zwanzig Jahren, hat sie aber den Tod eines Menschen zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-143-stgb--schwerer-raub) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=143) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-143-stgb--schwerer-raub)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-143-stgb--schwerer-raub) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=143) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-143-stgb--schwerer-raub) \]
 
 ----
 
@@ -2961,7 +2961,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Tat ist nicht rechtswidrig, wenn die Anwendung der Gewalt oder Drohung als Mittel zu dem angestrebten Zweck nicht den guten Sitten widerstreitet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-144-stgb--erpressung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=144) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-144-stgb--erpressung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-144-stgb--erpressung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=144) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-144-stgb--erpressung) \]
 
 ----
 
@@ -2983,7 +2983,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ebenso ist der Täter zu bestrafen, wenn die Tat einen Selbstmord oder Selbstmordversuch des Genötigten oder eines anderen zur Folge hat, gegen den sich die Gewalt oder gefährliche Drohung richtet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-145-stgb--schwere-erpressung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=145) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-145-stgb--schwere-erpressung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-145-stgb--schwere-erpressung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=145) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-145-stgb--schwere-erpressung) \]
 
 ----
 
@@ -2991,7 +2991,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer mit dem Vorsatz, durch das Verhalten des Getäuschten sich oder einen Dritten unrechtmäßig zu bereichern, jemanden durch Täuschung über Tatsachen zu einer Handlung, Duldung oder Unterlassung verleitet, die diesen oder einen anderen am Vermögen schädigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-146-stgb--betrug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=146) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-146-stgb--betrug)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-146-stgb--betrug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=146) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-146-stgb--betrug) \]
 
 ----
 
@@ -3015,7 +3015,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-147-stgb--schwerer-betrug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=147) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-147-stgb--schwerer-betrug)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-147-stgb--schwerer-betrug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=147) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-147-stgb--schwerer-betrug) \]
 
 ----
 
@@ -3023,7 +3023,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer einen Betrug gewerbsmäßig begeht, ist mit Freiheitsstrafe bis zu drei Jahren, wer jedoch einen schweren Betrug nach § 147 Abs\. 1 bis 2 gewerbsmäßig begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-148-stgb--gewerbsmäßiger-betrug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=148) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-148-stgb--gewerbsmäßiger-betrug)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-148-stgb--gewerbsmäßiger-betrug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=148) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-148-stgb--gewerbsmäßiger-betrug) \]
 
 ----
 
@@ -3037,7 +3037,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-148a-stgb--betrügerischer-datenverarbeitungsmißbrauch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=148a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-148a-stgb--betrügerischer-datenverarbeitungsmißbrauch)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-148a-stgb--betrügerischer-datenverarbeitungsmißbrauch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=148a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-148a-stgb--betrügerischer-datenverarbeitungsmißbrauch) \]
 
 ----
 
@@ -3051,7 +3051,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter ist nur mit Ermächtigung des Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-149-stgb--erschleichung-einer-leistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=149) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-149-stgb--erschleichung-einer-leistung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-149-stgb--erschleichung-einer-leistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=149) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-149-stgb--erschleichung-einer-leistung) \]
 
 ----
 
@@ -3063,7 +3063,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer die Tat zum Nachteil seines Ehegatten, seines eingetragenen Partners, eines Verwandten in gerader Linie, seines Bruders oder seiner Schwester oder zum Nachteil eines anderen Angehörigen, sofern er mit diesem in Hausgemeinschaft lebt, begeht, ist nicht zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-150-stgb--notbetrug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=150) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-150-stgb--notbetrug)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-150-stgb--notbetrug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=150) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-150-stgb--notbetrug) \]
 
 ----
 
@@ -3079,7 +3079,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Unter einer Behörde im Sinn des Abs\. 2 ist eine zur Strafverfolgung berufene Behörde in dieser ihrer Eigenschaft zu verstehen\. Ihr stehen zur Strafverfolgung berufene öffentliche Sicherheitsorgane in dieser ihrer Eigenschaft gleich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-151-stgb--versicherungsmißbrauch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=151) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-151-stgb--versicherungsmißbrauch)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-151-stgb--versicherungsmißbrauch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=151) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-151-stgb--versicherungsmißbrauch) \]
 
 ----
 
@@ -3089,7 +3089,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nur auf Verlangen des Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-152-stgb--kreditschädigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=152) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-152-stgb--kreditschädigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-152-stgb--kreditschädigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=152) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-152-stgb--kreditschädigung) \]
 
 ----
 
@@ -3101,7 +3101,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer durch die Tat einen 5 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe bis zu drei Jahren, wer einen 300 000 Euro übersteigenden Schaden herbeiführt, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153-stgb--untreue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153-stgb--untreue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153-stgb--untreue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153-stgb--untreue) \]
 
 ----
 
@@ -3109,7 +3109,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer für die Ausübung der ihm durch Gesetz, behördlichen Auftrag oder Rechtsgeschäft eingeräumten Befugnis, über fremdes Vermögen zu verfügen oder einen anderen zu verpflichten, einen nicht bloß geringfügigen Vermögensvorteil angenommen hat und pflichtwidrig nicht abführt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153a-stgb--geschenkannahme-durch-machthaber) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153a-stgb--geschenkannahme-durch-machthaber)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153a-stgb--geschenkannahme-durch-machthaber) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153a-stgb--geschenkannahme-durch-machthaber) \]
 
 ----
 
@@ -3125,7 +3125,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Eine Förderung ist eine Zuwendung, die zur Verfolgung öffentlicher Interessen aus öffentlichen Haushalten gewährt wird und für die keine angemessene geldwerte Gegenleistung erbracht wird; ausgenommen sind Zuwendungen mit Sozialleistungscharakter und Zuschüsse nach § 12 des Finanz\-Verfassungsgesetzes 1948\. Öffentliche Haushalte sind die Haushalte der Gebietskörperschaften sowie anderer Personen des öffentlichen Rechts, mit Ausnahme der Kirchen und Religionsgesellschaften\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153b-stgb--förderungsmißbrauch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153b-stgb--förderungsmißbrauch)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153b-stgb--förderungsmißbrauch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153b-stgb--förderungsmißbrauch) \]
 
 ----
 
@@ -3143,7 +3143,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Strafbarkeit lebt wieder auf, wenn der Täter seine nach Abs\. 3 Z 2 eingegangene Verpflichtung nicht einhält\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153c-stgb--vorenthalten-von-dienstnehmerbeiträgen-zur-sozialversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153c-stgb--vorenthalten-von-dienstnehmerbeiträgen-zur-sozialversicherung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153c-stgb--vorenthalten-von-dienstnehmerbeiträgen-zur-sozialversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153c-stgb--vorenthalten-von-dienstnehmerbeiträgen-zur-sozialversicherung) \]
 
 ----
 
@@ -3155,7 +3155,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer die Tat nach Abs\. 1 oder Abs\. 2 gewerbsmäßig oder in Bezug auf eine größere Zahl von Personen begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153d-stgb--betrügerisches-anmelden-zur-sozialversicherung-oder-bauarbeiter-urlaubs--und-abfertigungskasse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153d-stgb--betrügerisches-anmelden-zur-sozialversicherung-oder-bauarbeiter-urlaubs--und-abfertigungskasse)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153d-stgb--betrügerisches-anmelden-zur-sozialversicherung-oder-bauarbeiter-urlaubs--und-abfertigungskasse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153d-stgb--betrügerisches-anmelden-zur-sozialversicherung-oder-bauarbeiter-urlaubs--und-abfertigungskasse) \]
 
 ----
 
@@ -3173,7 +3173,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist auch zu bestrafen, wer eine der dort genannten Handlungen als leitender Angestellter \(§ 74 Abs\. 3\) einer juristischen Person oder einer Personengemeinschaft ohne Rechtspersönlichkeit begeht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153e-stgb--organisierte-schwarzarbeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153e-stgb--organisierte-schwarzarbeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-153e-stgb--organisierte-schwarzarbeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=153e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-153e-stgb--organisierte-schwarzarbeit) \]
 
 ----
 
@@ -3186,7 +3186,7 @@ Der Nationalrat hat beschlossen:
 > `(3)` Wer Geldwucher gewerbsmäßig begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch BGBl\. I Nr\. 112/2015\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-154-stgb--geldwucher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=154) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-154-stgb--geldwucher)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-154-stgb--geldwucher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=154) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-154-stgb--geldwucher) \]
 
 ----
 
@@ -3197,7 +3197,7 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ebenso ist zu bestrafen, wer eine solche Forderung, die auf ihn übergegangen ist, gewerbsmäßig wucherisch verwertet\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 112/2015\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-155-stgb--sachwucher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=155) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-155-stgb--sachwucher)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-155-stgb--sachwucher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=155) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-155-stgb--sachwucher) \]
 
 ----
 
@@ -3207,7 +3207,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-156-stgb--betrügerische-krida) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=156) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-156-stgb--betrügerische-krida)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-156-stgb--betrügerische-krida) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=156) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-156-stgb--betrügerische-krida) \]
 
 ----
 
@@ -3215,7 +3215,7 @@ Der Nationalrat hat beschlossen:
 
 > Ebenso ist zu bestrafen, wer ohne Einverständnis mit dem Schuldner einen Bestandteil des Vermögens des Schuldners verheimlicht, beiseite schafft, veräußert oder beschädigt oder ein nicht bestehendes Recht gegen das Vermögen des Schuldners geltend macht und dadurch die Befriedigung der Gläubiger oder wenigstens eines von ihnen vereitelt oder schmälert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-157-stgb--schädigung-fremder-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=157) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-157-stgb--schädigung-fremder-gläubiger)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-157-stgb--schädigung-fremder-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=157) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-157-stgb--schädigung-fremder-gläubiger) \]
 
 ----
 
@@ -3225,7 +3225,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Gläubiger, der den Schuldner zur Sicherstellung oder Zahlung einer ihm zustehenden Forderung verleitet oder die Sicherstellung oder Zahlung annimmt, ist nach Abs\. 1 nicht zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-158-stgb--begünstigung-eines-gläubigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=158) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-158-stgb--begünstigung-eines-gläubigers)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-158-stgb--begünstigung-eines-gläubigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=158) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-158-stgb--begünstigung-eines-gläubigers) \]
 
 ----
 
@@ -3257,7 +3257,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `5.` Jahresabschlüsse, zu deren Erstellung er verpflichtet ist, zu erstellen unterlässt oder auf eine solche Weise oder so spät erstellt, dass ein zeitnaher Überblick über seine wahre Vermögens\-, Finanz\- und Ertragslage erheblich erschwert wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-159-stgb--grob-fahrlässige-beeinträchtigung-von-gläubigerinteressen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=159) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-159-stgb--grob-fahrlässige-beeinträchtigung-von-gläubigerinteressen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-159-stgb--grob-fahrlässige-beeinträchtigung-von-gläubigerinteressen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=159) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-159-stgb--grob-fahrlässige-beeinträchtigung-von-gläubigerinteressen) \]
 
 ----
 
@@ -3273,7 +3273,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso sind eine zur Geschäftsaufsicht bestellte Person, der Insolvenzverwalter und ein Mitglied des Gläubigerausschusses im Insolvenzverfahren zu bestrafen, die für sich oder einen Dritten zum Nachteil der Gläubiger einen ihnen nicht gebührenden Vermögensvorteil annehmen oder sich versprechen lassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-160-stgb--umtriebe-während-einer-geschäftsaufsicht-oder-im-insolvenzverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=160) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-160-stgb--umtriebe-während-einer-geschäftsaufsicht-oder-im-insolvenzverfahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-160-stgb--umtriebe-während-einer-geschäftsaufsicht-oder-im-insolvenzverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=160) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-160-stgb--umtriebe-während-einer-geschäftsaufsicht-oder-im-insolvenzverfahren) \]
 
 ----
 
@@ -3283,7 +3283,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach § 160 Abs\. 2 ist auch zu bestrafen, wer eine der dort genannten Handlungen als leitender Angestellter \(§ 74 Abs\. 3\) einer juristischen Person oder einer Personengemeinschaft ohne Rechtspersönlichkeit begeht, der eine der dort bezeichneten Aufgaben übertragen worden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-161-stgb--gemeinsame-bestimmungen-über-die-verantwortlichkeit-leitender-angestellter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=161) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-161-stgb--gemeinsame-bestimmungen-über-die-verantwortlichkeit-leitender-angestellter)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-161-stgb--gemeinsame-bestimmungen-über-die-verantwortlichkeit-leitender-angestellter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=161) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-161-stgb--gemeinsame-bestimmungen-über-die-verantwortlichkeit-leitender-angestellter) \]
 
 ----
 
@@ -3293,7 +3293,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer durch die Tat einen 5 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-162-stgb--vollstreckungsvereitelung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=162) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-162-stgb--vollstreckungsvereitelung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-162-stgb--vollstreckungsvereitelung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=162) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-162-stgb--vollstreckungsvereitelung) \]
 
 ----
 
@@ -3301,7 +3301,7 @@ Der Nationalrat hat beschlossen:
 
 > Ebenso ist zu bestrafen, wer ohne Einverständnis mit dem Schuldner einen Bestandteil des Vermögens des Schuldners verheimlicht, beiseite schafft, veräußert oder beschädigt oder ein nicht bestehendes Recht gegen das Vermögen des Schuldners geltend macht und dadurch die Befriedigung eines Gläubigers durch Zwangsvollstreckung oder in einem anhängigen Zwangsvollstreckungsverfahren vereitelt oder schmälert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-163-stgb--vollstreckungsvereitelung-zugunsten-eines-anderen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=163) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-163-stgb--vollstreckungsvereitelung-zugunsten-eines-anderen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-163-stgb--vollstreckungsvereitelung-zugunsten-eines-anderen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=163) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-163-stgb--vollstreckungsvereitelung-zugunsten-eines-anderen) \]
 
 ----
 
@@ -3327,7 +3327,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wegen Beteiligung \(§§ 12, 14\) ist nicht zu bestrafen, wer schon nach § 163b mit Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-163a-stgb--unvertretbare-darstellung-wesentlicher-informationen-über-bestimmte-verbände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=163a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-163a-stgb--unvertretbare-darstellung-wesentlicher-informationen-über-bestimmte-verbände)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-163a-stgb--unvertretbare-darstellung-wesentlicher-informationen-über-bestimmte-verbände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=163a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-163a-stgb--unvertretbare-darstellung-wesentlicher-informationen-über-bestimmte-verbände) \]
 
 ----
 
@@ -3353,7 +3353,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wegen Beteiligung \(§§ 12, 14\) ist nicht zu bestrafen, wer schon nach § 163a mit Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-163b-stgb--unvertretbare-berichte-von-prüfern-bestimmter-verbände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=163b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-163b-stgb--unvertretbare-berichte-von-prüfern-bestimmter-verbände)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-163b-stgb--unvertretbare-berichte-von-prüfern-bestimmter-verbände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=163b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-163b-stgb--unvertretbare-berichte-von-prüfern-bestimmter-verbände) \]
 
 ----
 
@@ -3385,7 +3385,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `12.` den in Z 1 bis 11 genannten Verbänden vergleichbare ausländische Verbände, deren übertragbare Wertpapiere zum Handel an einem geregelten Markt im Inland zugelassen sind oder die im Hinblick auf eine Zweigniederlassung im Inland im Firmenbuch eingetragen sind \(§ 12 UGB\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-163c-stgb--verbände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=163c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-163c-stgb--verbände)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-163c-stgb--verbände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=163c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-163c-stgb--verbände) \]
 
 ----
 
@@ -3405,7 +3405,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach § 163b Abs\. 1 Z 2 ist nicht zu bestrafen, wer freiwillig die verschwiegenen Angaben nachträgt, bevor die Haupt\-,General\- oder Mitgliederversammlung oder sonst die Versammlung der Gesellschafter oder Mitglieder des Verbandes beendet ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-163d-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=163d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-163d-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-163d-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=163d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-163d-stgb--tätige-reue) \]
 
 ----
 
@@ -3425,7 +3425,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Wer eine Tat nach Abs\. 5 begeht, ist nicht zu bestrafen, wenn die Vortat zum Nachteil seines Ehegatten, seines eingetragenen Partners, eines Verwandten in gerader Linie, seines Bruders oder seiner Schwester oder zum Nachteil eines anderen Angehörigen, sofern er mit diesem in Hausgemeinschaft lebt, begangen wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-164-stgb--hehlerei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=164) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-164-stgb--hehlerei)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-164-stgb--hehlerei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=164) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-164-stgb--hehlerei) \]
 
 ----
 
@@ -3455,7 +3455,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Ein Vermögensbestandteil rührt aus einer kriminellen Tätigkeit \(Abs\. 5\) her, wenn ihn der Täter der kriminellen Tätigkeit durch die Tat erlangt oder für ihre Begehung empfangen hat oder wenn sich in ihm der Wert des ursprünglich erlangten oder empfangenen Vermögensbestandteils verkörpert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-165-stgb--geldwäscherei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=165) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-165-stgb--geldwäscherei)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-165-stgb--geldwäscherei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=165) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-165-stgb--geldwäscherei) \]
 
 ----
 
@@ -3465,7 +3465,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wenn ohne Zutun des Täters wesentliche Vermögensbestandteile, auf die sich die Geldwäscherei bezogen hat, sichergestellt werden, ist der Täter nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich um die Sicherstellung bemüht hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-165a-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=165a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-165a-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-165a-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=165a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-165a-stgb--tätige-reue) \]
 
 ----
 
@@ -3477,7 +3477,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nur auf Verlangen des Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-166-stgb--begehung-im-familienkreis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=166) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-166-stgb--begehung-im-familienkreis)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-166-stgb--begehung-im-familienkreis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=166) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-166-stgb--begehung-im-familienkreis) \]
 
 ----
 
@@ -3495,7 +3495,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter, der sich um die Schadensgutmachung ernstlich bemüht hat, ist auch dann nicht zu bestrafen, wenn ein Dritter in seinem Namen oder wenn ein anderer an der Tat Mitwirkender den ganzen aus der Tat entstandenen Schaden unter den im Abs\. 2 genannten Voraussetzungen gutmacht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-167-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=167) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-167-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-167-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=167) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-167-stgb--tätige-reue) \]
 
 ----
 
@@ -3505,7 +3505,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer sich gewerbsmäßig an einem solchen Spiel beteiligt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-168-stgb--glücksspiel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=168) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-168-stgb--glücksspiel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-168-stgb--glücksspiel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=168) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-168-stgb--glücksspiel) \]
 
 ----
 
@@ -3523,7 +3523,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer durch die Tat eine größere Zahl von Menschen schwer geschädigt hat, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-168a-stgb--ketten--oder-pyramidenspiele) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=168a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-168a-stgb--ketten--oder-pyramidenspiele)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-168a-stgb--ketten--oder-pyramidenspiele) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=168a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-168a-stgb--ketten--oder-pyramidenspiele) \]
 
 ----
 
@@ -3533,7 +3533,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig verhindert, dass der Auftraggeber das Angebot annimmt oder dieser seine Leistung erbringt\. Wird ohne Zutun des Täters das Angebot nicht angenommen oder die Leistung des Auftraggebers nicht erbracht, so wird er straflos, wenn er sich freiwillig und ernsthaft bemüht, die Annahme des Angebots oder das Erbringen der Leistung zu verhindern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-168b-stgb--wettbewerbsbeschränkende-absprachen-bei-vergabeverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=168b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-168b-stgb--wettbewerbsbeschränkende-absprachen-bei-vergabeverfahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-168b-stgb--wettbewerbsbeschränkende-absprachen-bei-vergabeverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=168b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-168b-stgb--wettbewerbsbeschränkende-absprachen-bei-vergabeverfahren) \]
 
 ----
 
@@ -3555,7 +3555,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Ausgaben im Zusammenhang mit der Vergabe öffentlicher Aufträge sind alle Ausgaben in Verbindung mit öffentlichen Aufträgen im Sinne des Art\. 101 Abs\. 1 der Verordnung \(EU, Euratom\) Nr\. 966/2012 über die Haushaltsordnung für den Gesamthaushaltsplan der Union und zur Aufhebung der Verordnung \(EG, Euratom\) Nr\. 1605/2002 des Rates, ABl\. L 298 vom 26\.10\.2012, S\. 1\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-168f-stgb--ausgabenseitiger-betrug-zum-nachteil-der-finanziellen-interessen-der-europäischen-union) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=168f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-168f-stgb--ausgabenseitiger-betrug-zum-nachteil-der-finanziellen-interessen-der-europäischen-union)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-168f-stgb--ausgabenseitiger-betrug-zum-nachteil-der-finanziellen-interessen-der-europäischen-union) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=168f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-168f-stgb--ausgabenseitiger-betrug-zum-nachteil-der-finanziellen-interessen-der-europäischen-union) \]
 
 ----
 
@@ -3567,7 +3567,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer durch die Tat einen 100 000 Euro übersteigenden Schaden herbeiführt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren, wer durch die Tat einen 300 000 Euro übersteigenden Schaden herbeiführt, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-168g-stgb--missbräuchliche-verwendung-von-mitteln-und-vermögenswerten-zum-nachteil-der-finanziellen-interessen-der-europäischen-union) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=168g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-168g-stgb--missbräuchliche-verwendung-von-mitteln-und-vermögenswerten-zum-nachteil-der-finanziellen-interessen-der-europäischen-union)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-168g-stgb--missbräuchliche-verwendung-von-mitteln-und-vermögenswerten-zum-nachteil-der-finanziellen-interessen-der-europäischen-union) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=168g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.009.md#-168g-stgb--missbräuchliche-verwendung-von-mitteln-und-vermögenswerten-zum-nachteil-der-finanziellen-interessen-der-europäischen-union) \]
 
 ----
 
@@ -3583,7 +3583,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge oder sind durch die Tat viele Menschen in Not versetzt worden, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-169-stgb--brandstiftung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=169) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-169-stgb--brandstiftung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-169-stgb--brandstiftung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=169) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-169-stgb--brandstiftung) \]
 
 ----
 
@@ -3593,7 +3593,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge oder sind durch die Tat viele Menschen in Not versetzt worden, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-170-stgb--fahrlässige-herbeiführung-einer-feuersbrunst) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=170) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-170-stgb--fahrlässige-herbeiführung-einer-feuersbrunst)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-170-stgb--fahrlässige-herbeiführung-einer-feuersbrunst) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=170) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-170-stgb--fahrlässige-herbeiführung-einer-feuersbrunst) \]
 
 ----
 
@@ -3603,7 +3603,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine der im § 169 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-171-stgb--vorsätzliche-gefährdung-durch-kernenergie-oder-ionisierende-strahlen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=171) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-171-stgb--vorsätzliche-gefährdung-durch-kernenergie-oder-ionisierende-strahlen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-171-stgb--vorsätzliche-gefährdung-durch-kernenergie-oder-ionisierende-strahlen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=171) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-171-stgb--vorsätzliche-gefährdung-durch-kernenergie-oder-ionisierende-strahlen) \]
 
 ----
 
@@ -3613,7 +3613,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-172-stgb--fahrlässige-gefährdung-durch-kernenergie-oder-ionisierende-strahlen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=172) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-172-stgb--fahrlässige-gefährdung-durch-kernenergie-oder-ionisierende-strahlen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-172-stgb--fahrlässige-gefährdung-durch-kernenergie-oder-ionisierende-strahlen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=172) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-172-stgb--fahrlässige-gefährdung-durch-kernenergie-oder-ionisierende-strahlen) \]
 
 ----
 
@@ -3623,7 +3623,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine der im § 169 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-173-stgb--vorsätzliche-gefährdung-durch-sprengmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=173) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-173-stgb--vorsätzliche-gefährdung-durch-sprengmittel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-173-stgb--vorsätzliche-gefährdung-durch-sprengmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=173) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-173-stgb--vorsätzliche-gefährdung-durch-sprengmittel) \]
 
 ----
 
@@ -3633,7 +3633,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-174-stgb--fahrlässige-gefährdung-durch-sprengmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=174) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-174-stgb--fahrlässige-gefährdung-durch-sprengmittel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-174-stgb--fahrlässige-gefährdung-durch-sprengmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=174) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-174-stgb--fahrlässige-gefährdung-durch-sprengmittel) \]
 
 ----
 
@@ -3643,7 +3643,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nicht zu bestrafen, wenn er freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, den Gegenstand der Behörde übergibt, es ihr ermöglicht, des Gegenstands habhaft zu werden, oder sonst die Gefahr beseitigt, daß von dem Gegenstand zur Begehung einer nach § 171 oder § 173 mit Strafe bedrohten Handlung Gebrauch gemacht wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-175-stgb--vorbereitung-eines-verbrechens-durch-kernenergie-ionisierende-strahlen-oder-sprengmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=175) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-175-stgb--vorbereitung-eines-verbrechens-durch-kernenergie-ionisierende-strahlen-oder-sprengmittel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-175-stgb--vorbereitung-eines-verbrechens-durch-kernenergie-ionisierende-strahlen-oder-sprengmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=175) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-175-stgb--vorbereitung-eines-verbrechens-durch-kernenergie-ionisierende-strahlen-oder-sprengmittel) \]
 
 ----
 
@@ -3653,7 +3653,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine der im § 169 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-176-stgb--vorsätzliche-gemeingefährdung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=176) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-176-stgb--vorsätzliche-gemeingefährdung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-176-stgb--vorsätzliche-gemeingefährdung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=176) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-176-stgb--vorsätzliche-gemeingefährdung) \]
 
 ----
 
@@ -3663,7 +3663,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177-stgb--fahrlässige-gemeingefährdung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177-stgb--fahrlässige-gemeingefährdung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177-stgb--fahrlässige-gemeingefährdung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177-stgb--fahrlässige-gemeingefährdung) \]
 
 ----
 
@@ -3681,7 +3681,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Weiß der Täter, daß die Kampfmittel in ein Gebiet gelangen sollen, in dem ein Krieg oder ein bewaffneter Konflikt ausgebrochen ist oder unmittelbar auszubrechen droht, so ist er mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, weiß er aber, daß die Kampfmittel zum Einsatz gelangen sollen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177a-stgb--herstellung-und-verbreitung-von-massenvernichtungswaffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177a-stgb--herstellung-und-verbreitung-von-massenvernichtungswaffen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177a-stgb--herstellung-und-verbreitung-von-massenvernichtungswaffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177a-stgb--herstellung-und-verbreitung-von-massenvernichtungswaffen) \]
 
 ----
 
@@ -3707,7 +3707,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Begriff Kernmaterial bezeichnet Ausgangsmaterial und besonderes spaltbares Material sowie Ausrüstung, Technologie und Material, die dem Sicherheitskontrollsystem nach dem Sicherheitskontrollgesetz 1991, BGBl\. Nr\. 415/1992, unterliegen\. Der Begriff radioaktive Stoffe bezeichnet Stoffe, die ein oder mehrere Radionuklide enthalten, sofern deren Aktivität oder Konzentration nach dem Stand der Technik im Zusammenhang mit dem Strahlenschutz nicht außer Acht gelassen werden kann; Gegenstände, die radioaktive Stoffe enthalten oder an deren Oberfläche sich solche Stoffe befinden, stehen radioaktiven Stoffen gleich\. Unter Strahleneinrichtungen sind solche Geräte oder Anlagen zu verstehen, die, ohne radioaktive Stoffe zu enthalten, imstande sind, ionisierende Strahlung auszusenden, und deren Betrieb einer Bewilligungspflicht nach dem Strahlenschutzgesetz, BGBl\. Nr\. 227/1969 in der jeweils geltenden Fassung, unterliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177b-stgb--unerlaubter-umgang-mit-kernmaterial-radioaktiven-stoffen-oder-strahleneinrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177b-stgb--unerlaubter-umgang-mit-kernmaterial-radioaktiven-stoffen-oder-strahleneinrichtungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177b-stgb--unerlaubter-umgang-mit-kernmaterial-radioaktiven-stoffen-oder-strahleneinrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177b-stgb--unerlaubter-umgang-mit-kernmaterial-radioaktiven-stoffen-oder-strahleneinrichtungen) \]
 
 ----
 
@@ -3717,7 +3717,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird durch die Tat die im § 171 Abs\. 1 genannte Gefahr herbeigeführt, der Tier\- oder Pflanzenbestand erheblich geschädigt oder eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\. Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177c-stgb--fahrlässiger-unerlaubter-umgang-mit-kernmaterial-radioaktiven-stoffen-oder-strahleneinrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177c-stgb--fahrlässiger-unerlaubter-umgang-mit-kernmaterial-radioaktiven-stoffen-oder-strahleneinrichtungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177c-stgb--fahrlässiger-unerlaubter-umgang-mit-kernmaterial-radioaktiven-stoffen-oder-strahleneinrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177c-stgb--fahrlässiger-unerlaubter-umgang-mit-kernmaterial-radioaktiven-stoffen-oder-strahleneinrichtungen) \]
 
 ----
 
@@ -3725,7 +3725,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer Stoffe, die zum Abbau der Ozonschicht beitragen, entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag herstellt, einführt, ausführt, in Verkehr setzt oder verwendet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177d-stgb--vorsätzlicher-unerlaubter-umgang-mit-stoffen-die-zum-abbau-der-ozonschicht-beitragen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177d-stgb--vorsätzlicher-unerlaubter-umgang-mit-stoffen-die-zum-abbau-der-ozonschicht-beitragen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177d-stgb--vorsätzlicher-unerlaubter-umgang-mit-stoffen-die-zum-abbau-der-ozonschicht-beitragen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177d-stgb--vorsätzlicher-unerlaubter-umgang-mit-stoffen-die-zum-abbau-der-ozonschicht-beitragen) \]
 
 ----
 
@@ -3733,7 +3733,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer grob fahrlässig \(§ 6 Abs\. 3\) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 177d mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177e-stgb--grob-fahrlässiger-unerlaubter-umgang-mit-stoffen-die-zum-abbau-der-ozonschicht-beitragen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177e-stgb--grob-fahrlässiger-unerlaubter-umgang-mit-stoffen-die-zum-abbau-der-ozonschicht-beitragen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-177e-stgb--grob-fahrlässiger-unerlaubter-umgang-mit-stoffen-die-zum-abbau-der-ozonschicht-beitragen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=177e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-177e-stgb--grob-fahrlässiger-unerlaubter-umgang-mit-stoffen-die-zum-abbau-der-ozonschicht-beitragen) \]
 
 ----
 
@@ -3741,7 +3741,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine Handlung begeht, die geeignet ist, die Gefahr der Verbreitung einer übertragbaren Krankheit unter Menschen herbeizuführen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wenn die Krankheit ihrer Art nach zu den wenn auch nur beschränkt anzeige\- oder meldepflichtigen Krankheiten gehört\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-178-stgb--vorsätzliche-gefährdung-von-menschen-durch-übertragbare-krankheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=178) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-178-stgb--vorsätzliche-gefährdung-von-menschen-durch-übertragbare-krankheiten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-178-stgb--vorsätzliche-gefährdung-von-menschen-durch-übertragbare-krankheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=178) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-178-stgb--vorsätzliche-gefährdung-von-menschen-durch-übertragbare-krankheiten) \]
 
 ----
 
@@ -3749,7 +3749,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer die im § 178 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-179-stgb--fahrlässige-gefährdung-von-menschen-durch-übertragbare-krankheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=179) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-179-stgb--fahrlässige-gefährdung-von-menschen-durch-übertragbare-krankheiten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-179-stgb--fahrlässige-gefährdung-von-menschen-durch-übertragbare-krankheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=179) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-179-stgb--fahrlässige-gefährdung-von-menschen-durch-übertragbare-krankheiten) \]
 
 ----
 
@@ -3769,7 +3769,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird durch die Tat der Tier\- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt oder ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt, herbeigeführt, so ist der Täter mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. Hat die Tat eine der im § 169 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-180-stgb--vorsätzliche-beeinträchtigung-der-umwelt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=180) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-180-stgb--vorsätzliche-beeinträchtigung-der-umwelt)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-180-stgb--vorsätzliche-beeinträchtigung-der-umwelt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=180) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-180-stgb--vorsätzliche-beeinträchtigung-der-umwelt) \]
 
 ----
 
@@ -3779,7 +3779,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird durch die Tat der Tier\- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft bewirkt oder ein Beseitigungsaufwand oder sonst ein Schaden an einer fremden Sache, an einem unter Denkmalschutz stehenden Gegenstand oder an einem Naturdenkmal, der 50 000 Euro übersteigt, herbeigeführt, so ist der Täter mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\. Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181-stgb--fahrlässige-beeinträchtigung-der-umwelt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181-stgb--fahrlässige-beeinträchtigung-der-umwelt)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181-stgb--fahrlässige-beeinträchtigung-der-umwelt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181-stgb--fahrlässige-beeinträchtigung-der-umwelt) \]
 
 ----
 
@@ -3787,7 +3787,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag Lärm in einem solchen Ausmaß oder unter solchen Umständen erzeugt, daß die Tat eine nachhaltige und schwere Beeinträchtigung des körperlichen Befindens vieler Menschen nach sich zieht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181a-stgb--schwere-beeinträchtigung-durch-lärm) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181a-stgb--schwere-beeinträchtigung-durch-lärm)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181a-stgb--schwere-beeinträchtigung-durch-lärm) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181a-stgb--schwere-beeinträchtigung-durch-lärm) \]
 
 ----
 
@@ -3809,7 +3809,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer außer dem Fall des Abs\. 2 Abfälle entgegen Art\. 2 Nummer 35 der Verordnung 1013/2006/EG über die Verbringung von Abfällen in nicht unerheblicher Menge verbringt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181b-stgb--vorsätzliches-umweltgefährdendes-behandeln-und-verbringen-von-abfällen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181b-stgb--vorsätzliches-umweltgefährdendes-behandeln-und-verbringen-von-abfällen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181b-stgb--vorsätzliches-umweltgefährdendes-behandeln-und-verbringen-von-abfällen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181b-stgb--vorsätzliches-umweltgefährdendes-behandeln-und-verbringen-von-abfällen) \]
 
 ----
 
@@ -3821,7 +3821,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer außer den Fällen der Abs\. 1 und 2 grob fahrlässig \(§ 6 Abs\. 3\) Abfälle entgegen Art\. 2 Nummer 35 der Verordnung 1013/2006/EG über die Verbringung von Abfällen in nicht unerheblicher Menge verbringt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181c-stgb--fahrlässiges-umweltgefährdendes-behandeln-und-verbringen-von-abfällen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181c-stgb--fahrlässiges-umweltgefährdendes-behandeln-und-verbringen-von-abfällen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181c-stgb--fahrlässiges-umweltgefährdendes-behandeln-und-verbringen-von-abfällen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181c-stgb--fahrlässiges-umweltgefährdendes-behandeln-und-verbringen-von-abfällen) \]
 
 ----
 
@@ -3841,7 +3841,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird durch die Tat der Tier\- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder ein Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\. Hat die Tat eine der im § 169 Abs\. 3 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181d-stgb--vorsätzliches-umweltgefährdendes-betreiben-von-anlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181d-stgb--vorsätzliches-umweltgefährdendes-betreiben-von-anlagen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181d-stgb--vorsätzliches-umweltgefährdendes-betreiben-von-anlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181d-stgb--vorsätzliches-umweltgefährdendes-betreiben-von-anlagen) \]
 
 ----
 
@@ -3851,7 +3851,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird durch die Tat der Tier\- oder Pflanzenbestand erheblich geschädigt, eine lange Zeit andauernde Verschlechterung des Zustands eines Gewässers, des Bodens oder der Luft oder ein Beseitigungsaufwand, der 50 000 Euro übersteigt, bewirkt, so ist der Täter mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\. Hat die Tat eine der im § 170 Abs\. 2 genannten Folgen, so sind die dort angedrohten Strafen zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181e-stgb--grob-fahrlässiges-umweltgefährdendes-betreiben-von-anlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181e-stgb--grob-fahrlässiges-umweltgefährdendes-betreiben-von-anlagen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181e-stgb--grob-fahrlässiges-umweltgefährdendes-betreiben-von-anlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181e-stgb--grob-fahrlässiges-umweltgefährdendes-betreiben-von-anlagen) \]
 
 ----
 
@@ -3861,7 +3861,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Geschützte wildlebende Tierarten sind die in Anhang IV lit\. a\) der Richtlinie 92/43/EWG zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen oder des Anhangs I der Richtlinie 2009/147/EG über die Erhaltung der wildlebenden Vogelarten aufgezählten Arten; geschützte wildlebende Pflanzenarten sind die in Anhang IV lit\. b\) der Richtlinie 92/43/EWG zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen aufgezählten Arten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181f-stgb--vorsätzliche-schädigung-des-tier--oder-pflanzenbestandes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181f-stgb--vorsätzliche-schädigung-des-tier--oder-pflanzenbestandes)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181f-stgb--vorsätzliche-schädigung-des-tier--oder-pflanzenbestandes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181f-stgb--vorsätzliche-schädigung-des-tier--oder-pflanzenbestandes) \]
 
 ----
 
@@ -3869,7 +3869,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer grob fahrlässig \(§ 6 Abs\. 3\) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag eine der im § 181f mit Strafe bedrohten Handlungen begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181g-stgb--grob-fahrlässige-schädigung-des-tier--oder-pflanzenbestandes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181g-stgb--grob-fahrlässige-schädigung-des-tier--oder-pflanzenbestandes)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181g-stgb--grob-fahrlässige-schädigung-des-tier--oder-pflanzenbestandes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181g-stgb--grob-fahrlässige-schädigung-des-tier--oder-pflanzenbestandes) \]
 
 ----
 
@@ -3879,7 +3879,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Lebensraum innerhalb eines geschützten Gebiets ist jeder Lebensraum einer Art, für die ein Gebiet durch Gesetz oder Verordnung zu einem Schutzgebiet gemäß Art\. 4 Abs\. 2 oder Anhang I der Richtlinie 2009/147/EG über die Erhaltung der wildlebenden Vogelarten erklärt wurde oder jeder natürliche Lebensraum oder Lebensraum einer Art, für die ein Gebiet durch Gesetz oder Verordnung zu einem besonderen Schutzgebiet gemäß Art\. 4 Abs\. 4 der Richtlinie 92/43/EWG zur Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und Pflanzen erklärt wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181h-stgb--vorsätzliche-schädigung-von-lebensräumen-in-geschützten-gebieten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181h-stgb--vorsätzliche-schädigung-von-lebensräumen-in-geschützten-gebieten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181h-stgb--vorsätzliche-schädigung-von-lebensräumen-in-geschützten-gebieten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181h-stgb--vorsätzliche-schädigung-von-lebensräumen-in-geschützten-gebieten) \]
 
 ----
 
@@ -3887,7 +3887,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer grob fahrlässig \(§ 6 Abs\. 3\) entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag die im § 181h mit Strafe bedrohte Handlung begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181i-stgb--grob-fahrlässige-schädigung-von-lebensräumen-in-geschützten-gebieten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181i-stgb--grob-fahrlässige-schädigung-von-lebensräumen-in-geschützten-gebieten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-181i-stgb--grob-fahrlässige-schädigung-von-lebensräumen-in-geschützten-gebieten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=181i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-181i-stgb--grob-fahrlässige-schädigung-von-lebensräumen-in-geschützten-gebieten) \]
 
 ----
 
@@ -3903,7 +3903,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer entgegen einer Rechtsvorschrift oder einem behördlichen Auftrag auf andere als die im § 180 bezeichnete Weise eine Gefahr für den Tier\- oder Pflanzenbestand in erheblichem Ausmaß herbeiführt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-182-stgb--andere-gefährdungen-des-tier--oder-pflanzenbestandes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=182) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-182-stgb--andere-gefährdungen-des-tier--oder-pflanzenbestandes)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-182-stgb--andere-gefährdungen-des-tier--oder-pflanzenbestandes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=182) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-182-stgb--andere-gefährdungen-des-tier--oder-pflanzenbestandes) \]
 
 ----
 
@@ -3911,7 +3911,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine der im § 182 mit Strafe bedrohten Handlungen fahrlässig begeht, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-183-stgb--fahrlässige-gefährdung-des-tier--oder-pflanzenbestandes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=183) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-183-stgb--fahrlässige-gefährdung-des-tier--oder-pflanzenbestandes)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-183-stgb--fahrlässige-gefährdung-des-tier--oder-pflanzenbestandes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=183) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-183-stgb--fahrlässige-gefährdung-des-tier--oder-pflanzenbestandes) \]
 
 ----
 
@@ -3921,7 +3921,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Abs\. 1 gilt in den Fällen der §§ 181, 181c Abs\. 1 und 2 und 183 entsprechend, wenn der Täter fahrlässig handelt, in den Fällen der §§ 181c Abs\. 3, 181e, 181g und 181i, wenn er grob fahrlässig \(§ 6 Abs\. 3\) handelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-183a-stgb--irrtum-über-rechtsvorschriften-und-behördliche-aufträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=183a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-183a-stgb--irrtum-über-rechtsvorschriften-und-behördliche-aufträge)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-183a-stgb--irrtum-über-rechtsvorschriften-und-behördliche-aufträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=183a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-183a-stgb--irrtum-über-rechtsvorschriften-und-behördliche-aufträge) \]
 
 ----
 
@@ -3931,7 +3931,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 167 Abs\. 4 ist dem Sinne nach anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-183b-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=183b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-183b-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-183b-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=183b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-183b-stgb--tätige-reue) \]
 
 ----
 
@@ -3939,7 +3939,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer, ohne die zur Ausübung des ärztlichen Berufes erforderliche Ausbildung erhalten zu haben, eine Tätigkeit, die den Ärzten vorbehalten ist, in bezug auf eine größere Zahl von Menschen gewerbsmäßig ausübt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-184-stgb--kurpfuscherei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=184) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-184-stgb--kurpfuscherei)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-184-stgb--kurpfuscherei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=184) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-184-stgb--kurpfuscherei) \]
 
 ----
 
@@ -3949,7 +3949,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-185-stgb--luftpiraterie) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=185) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-185-stgb--luftpiraterie)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-185-stgb--luftpiraterie) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=185) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-185-stgb--luftpiraterie) \]
 
 ----
 
@@ -3973,7 +3973,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat den Tod eines Menschen oder schwere Körperverletzungen \(§ 84 Abs\. 1\) einer größeren Zahl von Menschen zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie aber den Tod einer größeren Zahl von Menschen nach sich gezogen, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-186-stgb--vorsätzliche-gefährdung-der-sicherheit-der-luftfahrt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=186) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-186-stgb--vorsätzliche-gefährdung-der-sicherheit-der-luftfahrt)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-186-stgb--vorsätzliche-gefährdung-der-sicherheit-der-luftfahrt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=186) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-186-stgb--vorsätzliche-gefährdung-der-sicherheit-der-luftfahrt) \]
 
 ----
 
@@ -3981,7 +3981,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine Maßnahme, die zur Abwendung einer gegenwärtigen Gefahr für Leib oder Leben \(§ 89\) einer größeren Zahl von Menschen oder für fremdes Eigentum in großem Ausmaß notwendig ist, vereitelt oder erschwert, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-187-stgb--hinderung-der-bekämpfung-einer-gemeingefahr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=187) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-187-stgb--hinderung-der-bekämpfung-einer-gemeingefahr)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-187-stgb--hinderung-der-bekämpfung-einer-gemeingefahr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=187) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.010.md#-187-stgb--hinderung-der-bekämpfung-einer-gemeingefahr) \]
 
 ----
 
@@ -3993,7 +3993,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer öffentlich eine Person oder eine Sache, die den Gegenstand der Verehrung einer im Inland bestehenden Kirche oder Religionsgesellschaft bildet, oder eine Glaubenslehre, einen gesetzlich zulässigen Brauch oder eine gesetzlich zulässige Einrichtung einer solchen Kirche oder Religionsgesellschaft unter Umständen herabwürdigt oder verspottet, unter denen sein Verhalten geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-188-stgb--herabwürdigung-religiöser-lehren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=188) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-188-stgb--herabwürdigung-religiöser-lehren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-188-stgb--herabwürdigung-religiöser-lehren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=188) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-188-stgb--herabwürdigung-religiöser-lehren) \]
 
 ----
 
@@ -4011,7 +4011,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; auf eine Weise Unfug treibt, die geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-189-stgb--störung-einer-religionsübung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=189) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-189-stgb--störung-einer-religionsübung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-189-stgb--störung-einer-religionsübung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=189) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-189-stgb--störung-einer-religionsübung) \]
 
 ----
 
@@ -4021,7 +4021,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer Schmuck von einer Beisetzungs\-, Aufbahrungs\- oder Totengedenkstätte entfernt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-190-stgb--störung-der-totenruhe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=190) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-190-stgb--störung-der-totenruhe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-190-stgb--störung-der-totenruhe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=190) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-190-stgb--störung-der-totenruhe) \]
 
 ----
 
@@ -4029,7 +4029,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer wissentlich eine Bestattungsfeier durch einen Lärm, der geeignet ist, berechtigtes Ärgernis zu erregen, oder durch ein anderes solches Verhalten stört, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-191-stgb--störung-einer-bestattungsfeier) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=191) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-191-stgb--störung-einer-bestattungsfeier)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-191-stgb--störung-einer-bestattungsfeier) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=191) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-191-stgb--störung-einer-bestattungsfeier) \]
 
 ----
 
@@ -4041,7 +4041,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine neue Ehe schließt oder eine eingetragene Partnerschaft begründet, obwohl er verheiratet ist oder eine eingetragene Partnerschaft führt, oder wer mit einer verheirateten Person oder einer Person, die eine eingetragene Partnerschaft führt, eine Ehe schließt oder eine eingetragene Partnerschaft begründet, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-192-stgb--mehrfache-ehe-oder-eingetragene-partnerschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=192) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-192-stgb--mehrfache-ehe-oder-eingetragene-partnerschaft)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-192-stgb--mehrfache-ehe-oder-eingetragene-partnerschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=192) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-192-stgb--mehrfache-ehe-oder-eingetragene-partnerschaft) \]
 
 ----
 
@@ -4053,7 +4053,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nur dann zu bestrafen, wenn die Ehe wegen der verschwiegenen Tatsache für nichtig erklärt oder wegen der Täuschung aufgehoben worden ist\. Auch ist er nur auf Verlangen des Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-193-stgb--ehetäuschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=193) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-193-stgb--ehetäuschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-193-stgb--ehetäuschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=193) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-193-stgb--ehetäuschung) \]
 
 ----
 
@@ -4063,7 +4063,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nur dann zu bestrafen, wenn die eingetragene Partnerschaft wegen der Täuschung erfolgreich aufgelöst worden ist\. Auch ist er nur auf Verlangen des Verletzten zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-193a-stgb--partnerschaftstäuschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=193a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-193a-stgb--partnerschaftstäuschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-193a-stgb--partnerschaftstäuschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=193a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-193a-stgb--partnerschaftstäuschung) \]
 
 ----
 
@@ -4081,7 +4081,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Annehmende und Wahlkinder, zwischen denen die Adoption vermittelt wird, sind nicht als Beteiligte \(§ 12 StGB\) zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-194-stgb--verbotene-adoptionsvermittlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=194) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-194-stgb--verbotene-adoptionsvermittlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-194-stgb--verbotene-adoptionsvermittlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=194) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-194-stgb--verbotene-adoptionsvermittlung) \]
 
 ----
 
@@ -4097,7 +4097,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Eine Person unter sechzehn Jahren, die einen anderen dazu verleitet, sie dem Erziehungsberechtigten zu entziehen oder ihr Hilfe zu leisten, sich selbst dem Erziehungsberechtigten zu entziehen, ist nicht zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-195-stgb--kindesentziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=195) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-195-stgb--kindesentziehung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-195-stgb--kindesentziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=195) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-195-stgb--kindesentziehung) \]
 
 ----
 
@@ -4109,7 +4109,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 195 Abs\. 5 gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-196-stgb--vereitelung-behördlich-angeordneter-erziehungshilfen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=196) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-196-stgb--vereitelung-behördlich-angeordneter-erziehungshilfen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-196-stgb--vereitelung-behördlich-angeordneter-erziehungshilfen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=196) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-196-stgb--vereitelung-behördlich-angeordneter-erziehungshilfen) \]
 
 ----
 
@@ -4121,7 +4121,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nicht nach Abs\. 1 zu bestrafen, wenn er bis zum Schluss der Verhandlung die vom Verfolgungsantrag umfassten Unterhaltsbeträge zur Gänze bezahlt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-198-stgb--verletzung-der-unterhaltspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=198) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-198-stgb--verletzung-der-unterhaltspflicht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-198-stgb--verletzung-der-unterhaltspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=198) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-198-stgb--verletzung-der-unterhaltspflicht) \]
 
 ----
 
@@ -4129,7 +4129,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer die ihm auf Grund eines Gesetzes obliegende Pflege, Erziehung oder Beaufsichtigung einer minderjährigen Person gröblich vernachlässigt und dadurch, wenn auch nur fahrlässig, deren Verwahrlosung bewirkt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-199-stgb--vernachlässigung-der-pflege-erziehung-oder-beaufsichtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=199) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-199-stgb--vernachlässigung-der-pflege-erziehung-oder-beaufsichtigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-199-stgb--vernachlässigung-der-pflege-erziehung-oder-beaufsichtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=199) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-199-stgb--vernachlässigung-der-pflege-erziehung-oder-beaufsichtigung) \]
 
 ----
 
@@ -4137,7 +4137,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer ein Kind unterschiebt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-200-stgb--unterschiebung-eines-kindes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=200) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-200-stgb--unterschiebung-eines-kindes)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-200-stgb--unterschiebung-eines-kindes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=200) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.011.md#-200-stgb--unterschiebung-eines-kindes) \]
 
 ----
 
@@ -4151,7 +4151,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine schwere Körperverletzung \(§ 84 Abs\. 1\) oder eine Schwangerschaft der vergewaltigten Person zur Folge oder wird die vergewaltigte Person durch die Tat längere Zeit hindurch in einen qualvollen Zustand versetzt oder in besonderer Weise erniedrigt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat aber den Tod der vergewaltigten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-201-stgb--vergewaltigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=201) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-201-stgb--vergewaltigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-201-stgb--vergewaltigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=201) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-201-stgb--vergewaltigung) \]
 
 ----
 
@@ -4161,7 +4161,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat eine schwere Körperverletzung \(§ 84 Abs\. 1\) oder eine Schwangerschaft der genötigten Person zur Folge oder wird die genötigte Person durch die Tat längere Zeit hindurch in einen qualvollen Zustand versetzt oder in besonderer Weise erniedrigt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat aber den Tod der genötigten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-202-stgb--geschlechtliche-nötigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=202) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-202-stgb--geschlechtliche-nötigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-202-stgb--geschlechtliche-nötigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=202) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-202-stgb--geschlechtliche-nötigung) \]
 
 ----
 
@@ -4173,7 +4173,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat eine schwere Körperverletzung \(§ 84 Abs\. 1\) oder eine Schwangerschaft der missbrauchten Person zur Folge oder wird die missbrauchte Person durch die Tat längere Zeit hindurch in einen qualvollen Zustand versetzt oder in besonderer Weise erniedrigt, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat aber den Tod der missbrauchten Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren oder mit lebenslanger Freiheitsstrafe zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-205-stgb--sexueller-missbrauch-einer-wehrlosen-oder-psychisch-beeinträchtigten-person) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=205) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-205-stgb--sexueller-missbrauch-einer-wehrlosen-oder-psychisch-beeinträchtigten-person)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-205-stgb--sexueller-missbrauch-einer-wehrlosen-oder-psychisch-beeinträchtigten-person) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=205) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-205-stgb--sexueller-missbrauch-einer-wehrlosen-oder-psychisch-beeinträchtigten-person) \]
 
 ----
 
@@ -4183,7 +4183,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer eine Person auf die im Abs\. 1 beschriebene Weise zur Vornahme oder Duldung des Beischlafes oder einer dem Beischlaf gleichzusetzenden geschlechtlichen Handlung mit einer anderen Person oder, um sich oder einen Dritten geschlechtlich zu erregen oder zu befriedigen, dazu veranlasst, eine dem Beischlaf gleichzusetzende geschlechtliche Handlung unfreiwillig an sich selbst vorzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-205a-stgb--verletzung-der-sexuellen-selbstbestimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=205a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-205a-stgb--verletzung-der-sexuellen-selbstbestimmung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-205a-stgb--verletzung-der-sexuellen-selbstbestimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=205a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-205a-stgb--verletzung-der-sexuellen-selbstbestimmung) \]
 
 ----
 
@@ -4197,7 +4197,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Übersteigt das Alter des Täters das Alter der unmündigen Person nicht um mehr als drei Jahre, wird die unmündige Person durch die Tat weder längere Zeit hindurch in einen qualvollen Zustand versetzt noch in besonderer Weise erniedrigt und hat die Tat weder eine schwere Körperverletzung \(§ 84 Abs\. 1\) noch den Tod der unmündigen Person zur Folge, so ist der Täter nach Abs\. 1 und 2 nicht zu bestrafen, es sei denn, die unmündige Person hätte das 13\. Lebensjahr noch nicht vollendet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-206-stgb--schwerer-sexueller-mißbrauch-von-unmündigen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=206) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-206-stgb--schwerer-sexueller-mißbrauch-von-unmündigen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-206-stgb--schwerer-sexueller-mißbrauch-von-unmündigen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=206) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-206-stgb--schwerer-sexueller-mißbrauch-von-unmündigen) \]
 
 ----
 
@@ -4211,7 +4211,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Übersteigt das Alter des Täters das Alter der unmündigen Person nicht um mehr als vier Jahre, wird die unmündige Person durch die Tat weder längere Zeit hindurch in einen qualvollen Zustand versetzt noch in besonderer Weise erniedrigt und ist keine der Folgen des Abs\. 3 eingetreten, so ist der Täter nach Abs\. 1 und 2 nicht zu bestrafen, es sei denn, die unmündige Person hätte das zwölfte Lebensjahr noch nicht vollendet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-207-stgb--sexueller-mißbrauch-von-unmündigen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=207) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-207-stgb--sexueller-mißbrauch-von-unmündigen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-207-stgb--sexueller-mißbrauch-von-unmündigen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=207) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-207-stgb--sexueller-mißbrauch-von-unmündigen) \]
 
 ----
 
@@ -4265,7 +4265,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` eine Abbildung oder Darstellung einer unmündigen minderjährigen Person nach Abs\. 4 von sich selbst besitzt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-207a-stgb--bildliches-sexualbezogenes-kindesmissbrauchsmaterial-und-bildliche-sexualbezogene-darstellungen-minderjähriger-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=207a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-207a-stgb--bildliches-sexualbezogenes-kindesmissbrauchsmaterial-und-bildliche-sexualbezogene-darstellungen-minderjähriger-personen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-207a-stgb--bildliches-sexualbezogenes-kindesmissbrauchsmaterial-und-bildliche-sexualbezogene-darstellungen-minderjähriger-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=207a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-207a-stgb--bildliches-sexualbezogenes-kindesmissbrauchsmaterial-und-bildliche-sexualbezogene-darstellungen-minderjähriger-personen) \]
 
 ----
 
@@ -4277,7 +4277,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer eine Person, die das 18\. Lebensjahr noch nicht vollendet hat, unmittelbar durch ein Entgelt dazu verleitet, eine geschlechtliche Handlung an ihm oder einem Dritten vorzunehmen oder von ihm oder einem Dritten an sich vornehmen zu lassen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-207b-stgb--sexueller-missbrauch-von-jugendlichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=207b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-207b-stgb--sexueller-missbrauch-von-jugendlichen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-207b-stgb--sexueller-missbrauch-von-jugendlichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=207b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-207b-stgb--sexueller-missbrauch-von-jugendlichen) \]
 
 ----
 
@@ -4291,7 +4291,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Übersteigt das Alter des Täters im ersten Fall des Abs\. 1 und im Abs\. 2 das Alter der unmündigen Person nicht um mehr als vier Jahre, so ist der Täter nach Abs\. 1 und 2 nicht zu bestrafen, es sei denn, die unmündige Person hätte das zwölfte Lebensjahr noch nicht vollendet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-208-stgb--sittliche-gefährdung-von-personen-unter-sechzehn-jahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=208) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-208-stgb--sittliche-gefährdung-von-personen-unter-sechzehn-jahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-208-stgb--sittliche-gefährdung-von-personen-unter-sechzehn-jahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=208) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-208-stgb--sittliche-gefährdung-von-personen-unter-sechzehn-jahren) \]
 
 ----
 
@@ -4309,7 +4309,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 und 1a ist nicht zu bestrafen, wer freiwillig und bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, sein Vorhaben aufgibt und der Behörde sein Verschulden offenbart\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-208a-stgb--anbahnung-von-sexualkontakten-zu-unmündigen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=208a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-208a-stgb--anbahnung-von-sexualkontakten-zu-unmündigen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-208a-stgb--anbahnung-von-sexualkontakten-zu-unmündigen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=208a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-208a-stgb--anbahnung-von-sexualkontakten-zu-unmündigen) \]
 
 ----
 
@@ -4323,7 +4323,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wer zur Zeit der Tat das neunzehnte Lebensjahr noch nicht vollendet hat, ist wegen Blutschande nicht zu bestrafen, wenn er zur Tat verführt worden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-211-stgb--blutschande) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=211) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-211-stgb--blutschande)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-211-stgb--blutschande) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=211) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-211-stgb--blutschande) \]
 
 ----
 
@@ -4349,7 +4349,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer eine sexuelle Belästigung nach § 218 Abs\. 1a unter den Umständen des Abs\. 1 oder 2 begeht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-212-stgb--mißbrauch-eines-autoritätsverhältnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=212) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-212-stgb--mißbrauch-eines-autoritätsverhältnisses)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-212-stgb--mißbrauch-eines-autoritätsverhältnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=212) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-212-stgb--mißbrauch-eines-autoritätsverhältnisses) \]
 
 ----
 
@@ -4359,7 +4359,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Handelt der Täter, um sich oder einem anderen einen Vermögensvorteil zu verschaffen, so ist er mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-213-stgb--kuppelei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=213) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-213-stgb--kuppelei)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-213-stgb--kuppelei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=213) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-213-stgb--kuppelei) \]
 
 ----
 
@@ -4369,7 +4369,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer außer dem Fall des Abs\. 1 die persönliche Annäherung einer minderjährigen mit einer anderen Person zur Vornahme einer geschlechtlichen Handlung herbeiführt, um sich oder einem anderen einen Vermögensvorteil zu verschaffen, ist mit Freiheitsstrafe von sechs Monaten bis zu zwei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-214-stgb--entgeltliche-vermittlung-von-sexualkontakten-mit-minderjährigen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=214) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-214-stgb--entgeltliche-vermittlung-von-sexualkontakten-mit-minderjährigen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-214-stgb--entgeltliche-vermittlung-von-sexualkontakten-mit-minderjährigen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=214) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-214-stgb--entgeltliche-vermittlung-von-sexualkontakten-mit-minderjährigen) \]
 
 ----
 
@@ -4377,7 +4377,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine Person der Prostitution zuführt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-215-stgb--zuführen-zur-prostitution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=215) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-215-stgb--zuführen-zur-prostitution)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-215-stgb--zuführen-zur-prostitution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=215) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-215-stgb--zuführen-zur-prostitution) \]
 
 ----
 
@@ -4391,7 +4391,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` An einer pornographischen Darbietung wirkt mit, wer dabei eine auf sich selbst reduzierte, von anderen Lebensäußerungen losgelöste und der sexuellen Erregung eines Betrachters dienende geschlechtliche Handlung an sich selbst, an einer anderen Person oder mit einem Tier vornimmt, eine solche geschlechtliche Handlung an sich vornehmen lässt oder auf solche Weise seine Genitalien oder seine Schamgegend zur Schau stellt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-215a-stgb--förderung-der-prostitution-und-pornographischer-darbietungen-minderjähriger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=215a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-215a-stgb--förderung-der-prostitution-und-pornographischer-darbietungen-minderjähriger)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-215a-stgb--förderung-der-prostitution-und-pornographischer-darbietungen-minderjähriger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=215a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-215a-stgb--förderung-der-prostitution-und-pornographischer-darbietungen-minderjähriger) \]
 
 ----
 
@@ -4405,7 +4405,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren ist auch zu bestrafen, wer durch Einschüchterung eine Person davon abhält, die Prostitution aufzugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-216-stgb--zuhälterei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=216) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-216-stgb--zuhälterei)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-216-stgb--zuhälterei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=216) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-216-stgb--zuhälterei) \]
 
 ----
 
@@ -4415,7 +4415,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer eine Person \(Abs\. 1\) mit dem Vorsatz, daß sie in einem anderen Staat als in dem, dessen Staatsangehörigkeit sie besitzt oder in dem sie ihren gewöhnlichen Aufenthalt hat, der Prostitution nachgehe, durch Täuschung über dieses Vorhaben verleitet oder mit Gewalt oder durch gefährliche Drohung nötigt, sich in einen anderen Staat zu begeben, oder sie mit Gewalt oder unter Ausnützung ihres Irrtums über dieses Vorhaben in einen anderen Staat befördert, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-217-stgb--grenzüberschreitender-prostitutionshandel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=217) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-217-stgb--grenzüberschreitender-prostitutionshandel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-217-stgb--grenzüberschreitender-prostitutionshandel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=217) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-217-stgb--grenzüberschreitender-prostitutionshandel) \]
 
 ----
 
@@ -4439,7 +4439,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Falle der Abs\. 1 und 1a ist der Täter nur mit Ermächtigung der verletzten Person zu verfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-218-stgb--sexuelle-belästigung-und-öffentliche-geschlechtliche-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=218) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-218-stgb--sexuelle-belästigung-und-öffentliche-geschlechtliche-handlungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-218-stgb--sexuelle-belästigung-und-öffentliche-geschlechtliche-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=218) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-218-stgb--sexuelle-belästigung-und-öffentliche-geschlechtliche-handlungen) \]
 
 ----
 
@@ -4447,7 +4447,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer öffentlich eine Ankündigung erläßt, die bestimmt ist, unzüchtigen Verkehr herbeizuführen, und die nach ihrem Inhalt geeignet ist, berechtigtes Ärgernis zu erregen, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-219-stgb--ankündigung-zur-herbeiführung-unzüchtigen-verkehrs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=219) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-219-stgb--ankündigung-zur-herbeiführung-unzüchtigen-verkehrs)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-219-stgb--ankündigung-zur-herbeiführung-unzüchtigen-verkehrs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=219) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-219-stgb--ankündigung-zur-herbeiführung-unzüchtigen-verkehrs) \]
 
 ----
 
@@ -4461,7 +4461,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wer einer Tätigkeit nachgeht, obwohl ihm deren Ausübung nach den vorstehenden Bestimmungen untersagt wurde, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-220b-stgb--tätigkeitsverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=220b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-220b-stgb--tätigkeitsverbot)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-220b-stgb--tätigkeitsverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=220b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-220b-stgb--tätigkeitsverbot) \]
 
 ----
 
@@ -4485,7 +4485,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ebenso ist zu bestrafen, wer ein Wirbeltier mutwillig tötet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-222-stgb--tierquälerei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=222) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-222-stgb--tierquälerei)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-222-stgb--tierquälerei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=222) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.012.md#-222-stgb--tierquälerei) \]
 
 ----
 
@@ -4499,7 +4499,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer eine falsche oder verfälschte Urkunde im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-223-stgb--urkundenfälschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=223) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-223-stgb--urkundenfälschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-223-stgb--urkundenfälschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=223) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-223-stgb--urkundenfälschung) \]
 
 ----
 
@@ -4507,7 +4507,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine der im § 223 mit Strafe bedrohten Handlungen in Beziehung auf eine inländische öffentliche Urkunde, eine ausländische öffentliche Urkunde, wenn sie durch Gesetz oder zwischenstaatlichen Vertrag inländischen öffentlichen Urkunden gleichgestellt ist, eine letztwillige Verfügung oder ein nicht im § 237 genanntes Wertpapier begeht, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-224-stgb--fälschung-besonders-geschützter-urkunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=224) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-224-stgb--fälschung-besonders-geschützter-urkunden)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-224-stgb--fälschung-besonders-geschützter-urkunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=224) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-224-stgb--fälschung-besonders-geschützter-urkunden) \]
 
 ----
 
@@ -4515,7 +4515,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine falsche oder verfälschte besonders geschützte Urkunde \(§ 224\) mit dem Vorsatz, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werde, von einem anderen übernimmt, sich oder einem anderen verschafft, befördert, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-224a-stgb--annahme-weitergabe-oder-besitz-falscher-oder-verfälschter-besonders-geschützter-urkunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=224a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-224a-stgb--annahme-weitergabe-oder-besitz-falscher-oder-verfälschter-besonders-geschützter-urkunden)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-224a-stgb--annahme-weitergabe-oder-besitz-falscher-oder-verfälschter-besonders-geschützter-urkunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=224a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-224a-stgb--annahme-weitergabe-oder-besitz-falscher-oder-verfälschter-besonders-geschützter-urkunden) \]
 
 ----
 
@@ -4527,7 +4527,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Als öffentliches Beglaubigungszeichen gilt jedes Zeichen, das ein Beamter innerhalb seiner Amtsbefugnisse oder eine mit öffentlichem Glauben versehene Person innerhalb des ihr zugewiesenen Geschäftskreises an einer Sache in der vorgeschriebenen Form angebracht hat, um eine auf die Sache bezügliche Tatsache zu bestätigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-225-stgb--fälschung-öffentlicher-beglaubigungszeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=225) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-225-stgb--fälschung-öffentlicher-beglaubigungszeichen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-225-stgb--fälschung-öffentlicher-beglaubigungszeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=225) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-225-stgb--fälschung-öffentlicher-beglaubigungszeichen) \]
 
 ----
 
@@ -4535,7 +4535,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer durch Eingabe, Veränderung, Löschung oder Unterdrückung von Daten falsche Daten mit dem Vorsatz herstellt oder echte Daten mit dem Vorsatz verfälscht, dass sie im Rechtsverkehr zum Beweis eines Rechtes, eines Rechtsverhältnisses oder einer Tatsache gebraucht werden, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-225a-stgb--datenfälschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=225a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-225a-stgb--datenfälschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-225a-stgb--datenfälschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=225a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-225a-stgb--datenfälschung) \]
 
 ----
 
@@ -4545,7 +4545,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Besteht die Gefahr eines solchen Gebrauches nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-226-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=226) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-226-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-226-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=226) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-226-stgb--tätige-reue) \]
 
 ----
 
@@ -4555,7 +4555,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor das Mittel oder Werkzeug zur Begehung einer der dort genannten strafbaren Handlungen gebraucht worden ist, durch dessen Vernichtung oder auf andere Art die Gefahr eines solchen Gebrauches beseitigt\. § 226 Abs\. 2 gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-227-stgb--vorbereitung-der-fälschung-öffentlicher-urkunden-oder-beglaubigungszeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=227) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-227-stgb--vorbereitung-der-fälschung-öffentlicher-urkunden-oder-beglaubigungszeichen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-227-stgb--vorbereitung-der-fälschung-öffentlicher-urkunden-oder-beglaubigungszeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=227) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-227-stgb--vorbereitung-der-fälschung-öffentlicher-urkunden-oder-beglaubigungszeichen) \]
 
 ----
 
@@ -4567,7 +4567,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 226 gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-228-stgb--mittelbare-unrichtige-beurkundung-oder-beglaubigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=228) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-228-stgb--mittelbare-unrichtige-beurkundung-oder-beglaubigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-228-stgb--mittelbare-unrichtige-beurkundung-oder-beglaubigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=228) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-228-stgb--mittelbare-unrichtige-beurkundung-oder-beglaubigung) \]
 
 ----
 
@@ -4577,7 +4577,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig die Unterdrückung der Urkunde, bevor diese im Rechtsverkehr gebraucht werden sollte, rückgängig macht oder auf andere Art bewirkt, daß die Tat den Beweis, dem die Urkunde dienen sollte, nicht behindert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-229-stgb--urkundenunterdrückung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=229) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-229-stgb--urkundenunterdrückung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-229-stgb--urkundenunterdrückung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=229) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-229-stgb--urkundenunterdrückung) \]
 
 ----
 
@@ -4587,7 +4587,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig das Zeichen, bevor es als Beweismittel herangezogen werden sollte oder herangezogen worden ist, berichtigt oder wiederherstellt oder auf andere Art bewirkt, daß die Tat den Beweis, dem das Zeichen dienen sollte, nicht behindert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-230-stgb--versetzung-von-grenzzeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=230) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-230-stgb--versetzung-von-grenzzeichen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-230-stgb--versetzung-von-grenzzeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=230) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-230-stgb--versetzung-von-grenzzeichen) \]
 
 ----
 
@@ -4599,7 +4599,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Nach Abs\. 2 ist nicht zu bestrafen, wer freiwillig den Ausweis, bevor ihn ein Nichtberechtigter im Rechtsverkehr gebraucht hat, zurücknimmt oder auf andere Art die Gefahr beseitigt, daß der amtliche Ausweis in der im Abs\. 2 bezeichneten Weise gebraucht werde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-231-stgb--gebrauch-fremder-ausweise) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=231) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-231-stgb--gebrauch-fremder-ausweise)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-231-stgb--gebrauch-fremder-ausweise) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=231) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-231-stgb--gebrauch-fremder-ausweise) \]
 
 ----
 
@@ -4615,7 +4615,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Als Nachmachen von Geld gilt auch die Herstellung unter Nutzung der zur rechtmäßigen Herstellung bestimmten Einrichtungen oder Materialien, jedoch unter Missachtung der Rechte oder der Bedingungen, nach denen die zuständigen Stellen zur Geldausgabe befugt sind, und ohne die Zustimmung dieser Stellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-232-stgb--geldfälschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=232) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_287_TextContainer_287) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-232-stgb--geldfälschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-232-stgb--geldfälschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=232) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_287_TextContainer_287) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-232-stgb--geldfälschung) \]
 
 ----
 
@@ -4631,7 +4631,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Tat an nachgemachtem oder verfälschtem Geld im Nennwert von mehr als 300 000 Euro begeht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-233-stgb--weitergabe-und-besitz-nachgemachten-oder-verfälschten-geldes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=233) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_288_TextContainer_288) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-233-stgb--weitergabe-und-besitz-nachgemachten-oder-verfälschten-geldes)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-233-stgb--weitergabe-und-besitz-nachgemachten-oder-verfälschten-geldes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=233) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_288_TextContainer_288) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-233-stgb--weitergabe-und-besitz-nachgemachten-oder-verfälschten-geldes) \]
 
 ----
 
@@ -4647,7 +4647,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\. Wer die Tat an verringerten Geldmünzen begeht, deren Nennwert 300 000 Euro übersteigt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-234-stgb--verringerung-von-geldmünzen-und-weitergabe-verringerter-geldmünzen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=234) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_289_TextContainer_289) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-234-stgb--verringerung-von-geldmünzen-und-weitergabe-verringerter-geldmünzen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-234-stgb--verringerung-von-geldmünzen-und-weitergabe-verringerter-geldmünzen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=234) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_289_TextContainer_289) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-234-stgb--verringerung-von-geldmünzen-und-weitergabe-verringerter-geldmünzen) \]
 
 ----
 
@@ -4655,7 +4655,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer das von einem anderen durch die Verringerung von Geldmünzen \(§ 234 Abs\. 1\) gewonnene Metall kauft, zum Pfand nimmt oder sonst an sich bringt, verheimlicht oder verhandelt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-235-stgb--ansichbringen-verheimlichen-oder-verhandeln-des-münzabfalls) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=235) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_290_TextContainer_290) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-235-stgb--ansichbringen-verheimlichen-oder-verhandeln-des-münzabfalls)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-235-stgb--ansichbringen-verheimlichen-oder-verhandeln-des-münzabfalls) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=235) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_290_TextContainer_290) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-235-stgb--ansichbringen-verheimlichen-oder-verhandeln-des-münzabfalls) \]
 
 ----
 
@@ -4665,7 +4665,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer eine der im Abs\. 1 genannten Handlungen für einen anderen begeht, der, ohne sich dadurch strafbar zu machen, das Geld oder die Münze gutgläubig als echt und unverfälscht oder als vollwertig empfangen hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-236-stgb--weitergabe-von-falschgeld-oder-verringerten-geldmünzen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=236) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_291_TextContainer_291) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-236-stgb--weitergabe-von-falschgeld-oder-verringerten-geldmünzen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-236-stgb--weitergabe-von-falschgeld-oder-verringerten-geldmünzen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=236) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_291_TextContainer_291) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-236-stgb--weitergabe-von-falschgeld-oder-verringerten-geldmünzen) \]
 
 ----
 
@@ -4673,7 +4673,7 @@ Der Nationalrat hat beschlossen:
 
 > Nach den §§ 232, 233 oder 236 ist auch zu bestrafen, wer eine der dort mit Strafe bedrohten Handlungen in Beziehung auf Banknoten oder Geldmünzen, die nicht gesetzliche Zahlungsmittel sind, Pfandbriefe, Teilschuldverschreibungen, Aktien oder sonstige Anteilscheine, Zins\-, Genuß\-, Gewinnanteil\- oder Erneuerungsscheine begeht, sofern diese Wertpapiere auf Inhaber lauten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-237-stgb--fälschung-besonders-geschützter-wertpapiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=237) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-237-stgb--fälschung-besonders-geschützter-wertpapiere)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-237-stgb--fälschung-besonders-geschützter-wertpapiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=237) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-237-stgb--fälschung-besonders-geschützter-wertpapiere) \]
 
 ----
 
@@ -4693,7 +4693,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Wiederverwendung eines schon verwendeten amtlichen Wertzeichens und die Entfernung des Entwertungsstempels von einem schon verwendeten amtlichen Wertzeichen sind gerichtlich nicht strafbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-238-stgb--wertzeichenfälschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=238) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_293_TextContainer_293) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-238-stgb--wertzeichenfälschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-238-stgb--wertzeichenfälschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=238) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_293_TextContainer_293) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-238-stgb--wertzeichenfälschung) \]
 
 ----
 
@@ -4701,7 +4701,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer mit dem Vorsatz, sich oder einem anderen die Begehung einer der nach den §§ 232, 234, 237 oder 238 mit Strafe bedrohten Handlungen zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, ein Hologramm oder einen anderen der Sicherung gegen Fälschung dienenden Bestandteil von Geld, eines besonders geschützten Wertpapieres oder eines amtlichen Wertzeichens anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-239-stgb--vorbereitung-einer-geld--wertpapier--oder-wertzeichenfälschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=239) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_294_TextContainer_294) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-239-stgb--vorbereitung-einer-geld--wertpapier--oder-wertzeichenfälschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-239-stgb--vorbereitung-einer-geld--wertpapier--oder-wertzeichenfälschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=239) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_294_TextContainer_294) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-239-stgb--vorbereitung-einer-geld--wertpapier--oder-wertzeichenfälschung) \]
 
 ----
 
@@ -4717,7 +4717,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist auch nicht zu bestrafen, wenn die im Abs\. 1 bezeichneten Gefahren nicht bestehen oder ohne sein Zutun beseitigt werden, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich darum bemüht, sie zu beseitigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-240-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=240) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_295_TextContainer_295) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-240-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-240-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=240) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_295_TextContainer_295) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-240-stgb--tätige-reue) \]
 
 ----
 
@@ -4725,7 +4725,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Bestimmungen dieses Abschnitts gelten auch für Geld, Wertpapiere, Wertzeichen sowie zur Ausgabe als gesetzliches Zahlungsmittel bestimmte Banknoten und Geldmünzen des Auslands\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241-stgb--geld-wertpapiere-und-wertzeichen-des-auslands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_296_TextContainer_296) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241-stgb--geld-wertpapiere-und-wertzeichen-des-auslands)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241-stgb--geld-wertpapiere-und-wertzeichen-des-auslands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_296_TextContainer_296) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241-stgb--geld-wertpapiere-und-wertzeichen-des-auslands) \]
 
 ----
 
@@ -4735,7 +4735,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Tat gewerbsmäßig oder als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241a-stgb--fälschung-unbarer-zahlungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_297_TextContainer_297) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241a-stgb--fälschung-unbarer-zahlungsmittel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241a-stgb--fälschung-unbarer-zahlungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_297_TextContainer_297) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241a-stgb--fälschung-unbarer-zahlungsmittel) \]
 
 ----
 
@@ -4745,7 +4745,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241b-stgb--annahme-weitergabe-oder-besitz-falscher-oder-verfälschter-unbarer-zahlungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_298_TextContainer_298) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241b-stgb--annahme-weitergabe-oder-besitz-falscher-oder-verfälschter-unbarer-zahlungsmittel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241b-stgb--annahme-weitergabe-oder-besitz-falscher-oder-verfälschter-unbarer-zahlungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_298_TextContainer_298) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241b-stgb--annahme-weitergabe-oder-besitz-falscher-oder-verfälschter-unbarer-zahlungsmittel) \]
 
 ----
 
@@ -4753,7 +4753,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer mit dem Vorsatz, sich oder einem anderen eine Fälschung unbarer Zahlungsmittel \(§ 241a\) oder eine Entfremdung unbarer Zahlungsmittel nach § 241e Abs\. 1 zu ermöglichen, ein Mittel oder Werkzeug, das nach seiner besonderen Beschaffenheit ersichtlich zu einem solchen Zweck bestimmt ist, anfertigt, von einem anderen übernimmt, sich oder einem anderen verschafft, einem anderen überlässt oder sonst besitzt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241c-stgb--vorbereitung-der-fälschung-oder-entfremdung-unbarer-zahlungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_299_TextContainer_299) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241c-stgb--vorbereitung-der-fälschung-oder-entfremdung-unbarer-zahlungsmittel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241c-stgb--vorbereitung-der-fälschung-oder-entfremdung-unbarer-zahlungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_299_TextContainer_299) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241c-stgb--vorbereitung-der-fälschung-oder-entfremdung-unbarer-zahlungsmittel) \]
 
 ----
 
@@ -4763,7 +4763,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241d-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_300_TextContainer_300) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241d-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241d-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_300_TextContainer_300) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241d-stgb--tätige-reue) \]
 
 ----
 
@@ -4775,7 +4775,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer ein unbares Zahlungsmittel, über das er nicht oder nicht allein verfügen darf, mit dem Vorsatz, dessen Verwendung im Rechtsverkehr zu verhindern, vernichtet, beschädigt oder unterdrückt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241e-stgb--entfremdung-unbarer-zahlungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_301_TextContainer_301) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241e-stgb--entfremdung-unbarer-zahlungsmittel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241e-stgb--entfremdung-unbarer-zahlungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_301_TextContainer_301) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241e-stgb--entfremdung-unbarer-zahlungsmittel) \]
 
 ----
 
@@ -4785,7 +4785,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Tat als Mitglied einer kriminellen Vereinigung begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241f-stgb--annahme-weitergabe-oder-besitz-entfremdeter-unbarer-zahlungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_302_TextContainer_302) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241f-stgb--annahme-weitergabe-oder-besitz-entfremdeter-unbarer-zahlungsmittel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241f-stgb--annahme-weitergabe-oder-besitz-entfremdeter-unbarer-zahlungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_302_TextContainer_302) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241f-stgb--annahme-weitergabe-oder-besitz-entfremdeter-unbarer-zahlungsmittel) \]
 
 ----
 
@@ -4795,7 +4795,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241g-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_303_TextContainer_303) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241g-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241g-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_303_TextContainer_303) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241g-stgb--tätige-reue) \]
 
 ----
 
@@ -4813,7 +4813,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist nicht zu bestrafen, wenn er freiwillig, bevor die ausgespähten Daten im Sinne des Abs\. 1 Z 1 oder 2 verwendet wurden, die Gefahr ihrer Verwendung durch Verständigung der Behörde, des Berechtigten oder auf andere Weise beseitigt\. Besteht die Gefahr einer solchen Verwendung nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241h-stgb--ausspähen-von-daten-eines-unbaren-zahlungsmittels) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_304_TextContainer_304) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241h-stgb--ausspähen-von-daten-eines-unbaren-zahlungsmittels)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-241h-stgb--ausspähen-von-daten-eines-unbaren-zahlungsmittels) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=241h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_304_TextContainer_304) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-241h-stgb--ausspähen-von-daten-eines-unbaren-zahlungsmittels) \]
 
 ----
 
@@ -4827,7 +4827,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Unternehmen im Sinn des Abs\. 1 liegt auch schon bei einem Versuch vor\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-242-stgb--hochverrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=242) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_305_TextContainer_305) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-242-stgb--hochverrat)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-242-stgb--hochverrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=242) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_305_TextContainer_305) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-242-stgb--hochverrat) \]
 
 ----
 
@@ -4837,7 +4837,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist auch dann nicht zu bestrafen, wenn die Ausführung oder der Erfolg ohne sein Zutun unterbleibt, er sich jedoch in Unkenntnis dessen freiwillig und ernstlich bemüht, die Ausführung zu verhindern oder den Erfolg abzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-243-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=243) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_306_TextContainer_306) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-243-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-243-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=243) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_306_TextContainer_306) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-243-stgb--tätige-reue) \]
 
 ----
 
@@ -4847,7 +4847,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer einen Hochverrat in anderer Weise vorbereitet und dadurch die Gefahr eines hochverräterischen Unternehmens herbeiführt oder erheblich vergrößert oder wer einen Hochverrat im Zusammenwirken mit einer ausländischen Macht vorbereitet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-244-stgb--vorbereitung-eines-hochverrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=244) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_307_TextContainer_307) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-244-stgb--vorbereitung-eines-hochverrats)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-244-stgb--vorbereitung-eines-hochverrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=244) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_307_TextContainer_307) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-244-stgb--vorbereitung-eines-hochverrats) \]
 
 ----
 
@@ -4857,7 +4857,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 243 Abs\. 2 gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-245-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=245) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_308_TextContainer_308) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-245-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-245-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=245) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_308_TextContainer_308) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-245-stgb--tätige-reue) \]
 
 ----
 
@@ -4869,7 +4869,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer an einer solchen Verbindung sonst teilnimmt oder sie auf eine andere als die im Abs\. 2 bezeichnete Weise unterstützt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-246-stgb--staatsfeindliche-verbindungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=246) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_309_TextContainer_309) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-246-stgb--staatsfeindliche-verbindungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-246-stgb--staatsfeindliche-verbindungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=246) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_309_TextContainer_309) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-246-stgb--staatsfeindliche-verbindungen) \]
 
 ----
 
@@ -4877,7 +4877,7 @@ Der Nationalrat hat beschlossen:
 
 > Nach § 246 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, alles, was ihm von der Verbindung und ihren Plänen bekannt ist, zu einer Zeit, da es noch geheim ist, einer solchen Behörde aufdeckt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-247-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=247) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_310_TextContainer_310) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-247-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-247-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=247) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_310_TextContainer_310) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-247-stgb--tätige-reue) \]
 
 ----
 
@@ -4893,7 +4893,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Abs\. 1 und 2 ist nicht zu bestrafen, wer sich freiwillig und bevor die Behörde von seinem Verschulden erfahren hat, aus der Bewegung in einer Weise zurückzieht, die eindeutig zu erkennen gibt, dass die staatsfeindliche Ausrichtung nicht mehr unterstützt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-247a-stgb--staatsfeindliche-bewegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=247a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_311_TextContainer_311) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-247a-stgb--staatsfeindliche-bewegung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-247a-stgb--staatsfeindliche-bewegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=247a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_311_TextContainer_311) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-247a-stgb--staatsfeindliche-bewegung) \]
 
 ----
 
@@ -4909,7 +4909,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Abs\. 1 und 2 ist nicht zu bestrafen, wer sich freiwillig und bevor die Behörde von seinem Verschulden erfahren hat, aus der Verbindung in einer Weise zurückzieht, die eindeutig zu erkennen gibt, dass die religiös motivierte extremistische Ausrichtung nicht mehr unterstützt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-247b-stgb--religiös-motivierte-extremistische-verbindung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=247b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_312_TextContainer_312) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-247b-stgb--religiös-motivierte-extremistische-verbindung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-247b-stgb--religiös-motivierte-extremistische-verbindung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=247b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_312_TextContainer_312) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-247b-stgb--religiös-motivierte-extremistische-verbindung) \]
 
 ----
 
@@ -4919,7 +4919,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer in der im Abs\. 1 bezeichneten Art in gehässiger Weise eine aus einem öffentlichen Anlaß oder bei einer allgemein zugänglichen Veranstaltung gezeigte Fahne der Republik Österreich oder eines ihrer Bundesländer, ein von einer österreichischen Behörde angebrachtes Hoheitszeichen, die Bundeshymne oder eine Landeshymne beschimpft, verächtlich macht oder sonst herabwürdigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-248-stgb--herabwürdigung-des-staates-und-seiner-symbole) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=248) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_313_TextContainer_313) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-248-stgb--herabwürdigung-des-staates-und-seiner-symbole)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-248-stgb--herabwürdigung-des-staates-und-seiner-symbole) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=248) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_313_TextContainer_313) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.013.md#-248-stgb--herabwürdigung-des-staates-und-seiner-symbole) \]
 
 ----
 
@@ -4931,7 +4931,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer es unternimmt \(§ 242 Abs\. 2\), mit Gewalt oder durch gefährliche Drohung den Bundespräsidenten abzusetzen oder durch eines dieser Mittel zu nötigen oder zu hindern, seine Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-249-stgb--gewalt-und-gefährliche-drohung-gegen-den-bundespräsidenten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=249) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_314_TextContainer_314) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-249-stgb--gewalt-und-gefährliche-drohung-gegen-den-bundespräsidenten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-249-stgb--gewalt-und-gefährliche-drohung-gegen-den-bundespräsidenten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=249) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_314_TextContainer_314) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-249-stgb--gewalt-und-gefährliche-drohung-gegen-den-bundespräsidenten) \]
 
 ----
 
@@ -4939,7 +4939,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer es unternimmt \(§ 242 Abs\. 2\), den Nationalrat, den Bundesrat, die Bundesversammlung, die Bundesregierung, einen Landtag, eine Landesregierung, den Verfassungsgerichtshof, den Verwaltungsgerichtshof oder den Obersten Gerichtshof mit Gewalt oder durch Drohung mit Gewalt zu nötigen oder zu hindern, ihre Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-250-stgb--nötigung-eines-verfassungsmäßigen-vertretungskörpers-einer-regierung-des-verfassungsgerichtshofs-des-verwaltungsgerichtshofs-oder-des-obersten-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=250) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_315_TextContainer_315) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-250-stgb--nötigung-eines-verfassungsmäßigen-vertretungskörpers-einer-regierung-des-verfassungsgerichtshofs-des-verwaltungsgerichtshofs-oder-des-obersten-gerichtshofs)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-250-stgb--nötigung-eines-verfassungsmäßigen-vertretungskörpers-einer-regierung-des-verfassungsgerichtshofs-des-verwaltungsgerichtshofs-oder-des-obersten-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=250) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_315_TextContainer_315) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-250-stgb--nötigung-eines-verfassungsmäßigen-vertretungskörpers-einer-regierung-des-verfassungsgerichtshofs-des-verwaltungsgerichtshofs-oder-des-obersten-gerichtshofs) \]
 
 ----
 
@@ -4947,7 +4947,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer ein Mitglied des Nationalrats, des Bundesrats, der Bundesversammlung, der Bundesregierung, eines Landtags, einer Landesregierung, des Verfassungsgerichtshofs, des Verwaltungsgerichtshofs oder des Obersten Gerichtshofs oder den Präsidenten des Rechnungshofs, den Leiter eines Landesrechnungshofs oder deren Stellvertreter mit Gewalt oder durch gefährliche Drohung nötigt oder hindert, seine Befugnisse überhaupt oder in einem bestimmten Sinn auszuüben, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren und im Fall einer schweren Nötigung \(§ 106\) mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-251-stgb--nötigung-von-mitgliedern-eines-verfassungsmäßigen-vertretungskörpers-einer-regierung-des-verfassungsgerichtshofs-des-verwaltungsgerichtshofs-oder-des-obersten-gerichtshofs-oder-des-präsidenten-des-rechnungshofs-oder-des-leiters-eines-landesrechnungshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=251) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_316_TextContainer_316) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-251-stgb--nötigung-von-mitgliedern-eines-verfassungsmäßigen-vertretungskörpers-einer-regierung-des-verfassungsgerichtshofs-des-verwaltungsgerichtshofs-oder-des-obersten-gerichtshofs-oder-des-präsidenten-des-rechnungshofs-oder-des-leiters-eines-landesrechnungshofs)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-251-stgb--nötigung-von-mitgliedern-eines-verfassungsmäßigen-vertretungskörpers-einer-regierung-des-verfassungsgerichtshofs-des-verwaltungsgerichtshofs-oder-des-obersten-gerichtshofs-oder-des-präsidenten-des-rechnungshofs-oder-des-leiters-eines-landesrechnungshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=251) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_316_TextContainer_316) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-251-stgb--nötigung-von-mitgliedern-eines-verfassungsmäßigen-vertretungskörpers-einer-regierung-des-verfassungsgerichtshofs-des-verwaltungsgerichtshofs-oder-des-obersten-gerichtshofs-oder-des-präsidenten-des-rechnungshofs-oder-des-leiters-eines-landesrechnungshofs) \]
 
 ----
 
@@ -4963,7 +4963,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Verfassungsgefährdende Tatsachen sind solche, die Bestrebungen offenbaren, in verfassungswidriger Weise den demokratischen, bundesstaatlichen oder rechtsstaatlichen Aufbau der Republik Österreich zu beseitigen, deren dauernde Neutralität aufzuheben oder ein verfassungsgesetzlich gewährleistetes Recht abzuschaffen oder einzuschränken oder wiederholt gegen ein solches Recht zu verstoßen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-252-stgb--verrat-von-staatsgeheimnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=252) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_317_TextContainer_317) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-252-stgb--verrat-von-staatsgeheimnissen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-252-stgb--verrat-von-staatsgeheimnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=252) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_317_TextContainer_317) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-252-stgb--verrat-von-staatsgeheimnissen) \]
 
 ----
 
@@ -4973,7 +4973,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Betrifft das Staatsgeheimnis verfassungsgefährdende Tatsachen \(§ 252 Abs\. 3\), so ist der Täter jedoch nur zu bestrafen, wenn er in der Absicht handelt, der Republik Österreich einen Nachteil zuzufügen\. Die irrtümliche Annahme verfassungsgefährdender Tatsachen befreit den Täter nicht von Strafe\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-253-stgb--preisgabe-von-staatsgeheimnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=253) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_318_TextContainer_318) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-253-stgb--preisgabe-von-staatsgeheimnissen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-253-stgb--preisgabe-von-staatsgeheimnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=253) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_318_TextContainer_318) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-253-stgb--preisgabe-von-staatsgeheimnissen) \]
 
 ----
 
@@ -4983,7 +4983,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 253 Abs\. 2 gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-254-stgb--ausspähung-von-staatsgeheimnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=254) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_319_TextContainer_319) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-254-stgb--ausspähung-von-staatsgeheimnissen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-254-stgb--ausspähung-von-staatsgeheimnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=254) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_319_TextContainer_319) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-254-stgb--ausspähung-von-staatsgeheimnissen) \]
 
 ----
 
@@ -4991,7 +4991,7 @@ Der Nationalrat hat beschlossen:
 
 > Staatsgeheimnisse im Sinn dieses Abschnitts sind Tatsachen, Gegenstände oder Erkenntnisse, insbesondere Schriften, Zeichnungen, Modelle und Formeln, und Nachrichten darüber, die nur einem begrenzten Personenkreis zugänglich sind und vor einer fremden Macht oder einer über\- oder zwischenstaatlichen Einrichtung geheimgehalten werden müssen, um die Gefahr eines schweren Nachteils für die Landesverteidigung der Republik Österreich oder für die Beziehungen der Republik Österreich zu einer fremden Macht oder einer über\- oder zwischenstaatlichen Einrichtung hintanzuhalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-255-stgb--begriff-des-staatsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=255) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_320_TextContainer_320) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-255-stgb--begriff-des-staatsgeheimnisses)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-255-stgb--begriff-des-staatsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=255) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_320_TextContainer_320) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-255-stgb--begriff-des-staatsgeheimnisses) \]
 
 ----
 
@@ -4999,7 +4999,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer zum Nachteil der Republik Österreich einen geheimen Nachrichtendienst einrichtet oder betreibt oder einen solchen Nachrichtendienst wie immer unterstützt, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-256-stgb--geheimer-nachrichtendienst-zum-nachteil-österreichs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=256) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_321_TextContainer_321) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-256-stgb--geheimer-nachrichtendienst-zum-nachteil-österreichs)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-256-stgb--geheimer-nachrichtendienst-zum-nachteil-österreichs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=256) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_321_TextContainer_321) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-256-stgb--geheimer-nachrichtendienst-zum-nachteil-österreichs) \]
 
 ----
 
@@ -5009,7 +5009,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer während eines Krieges oder eines bewaffneten Konfliktes, an denen die Republik Österreich beteiligt ist, oder bei unmittelbar drohender Gefahr eines solchen Krieges oder bewaffneten Konfliktes den feindlichen Streitkräften einen Vorteil verschafft oder dem österreichischen Bundesheer einen Nachteil zufügt\. Ausländer sind nach dieser Bestimmung nur zu bestrafen, wenn sie die Tat begehen, während sie sich im Inland befinden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-257-stgb--begünstigung-feindlicher-streitkräfte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=257) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_322_TextContainer_322) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-257-stgb--begünstigung-feindlicher-streitkräfte)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-257-stgb--begünstigung-feindlicher-streitkräfte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=257) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_322_TextContainer_322) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-257-stgb--begünstigung-feindlicher-streitkräfte) \]
 
 ----
 
@@ -5025,7 +5025,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer von einem solchen falschen oder verfälschten Beweismittel Gebrauch macht und dadurch die Interessen der Republik Österreich oder eines ihrer Bundesländer gefährdet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-258-stgb--landesverräterische-fälschung-und-vernichtung-von-beweisen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=258) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_323_TextContainer_323) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-258-stgb--landesverräterische-fälschung-und-vernichtung-von-beweisen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-258-stgb--landesverräterische-fälschung-und-vernichtung-von-beweisen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=258) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_323_TextContainer_323) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-258-stgb--landesverräterische-fälschung-und-vernichtung-von-beweisen) \]
 
 ----
 
@@ -5037,7 +5037,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer, ohne Soldat zu sein, einen anderen bestimmt, eine ausschließlich im Militärstrafgesetz mit einer drei Jahre übersteigenden Freiheitsstrafe bedrohte Handlung oder eine der in den §§ 16, 19 und 21 des Militärstrafgesetzes mit Strafe bedrohten Handlungen auszuführen oder sonst zur Ausführung einer solchen Handlung beiträgt, ist mit Freiheitsstrafe bis zu zwei Jahren, wer die Tat aber mit Beziehung auf die im § 18 des Militärstrafgesetzes mit Strafe bedrohte Handlung begeht, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-259-stgb--beteiligung-an-militärischen-strafbaren-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=259) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_324_TextContainer_324) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-259-stgb--beteiligung-an-militärischen-strafbaren-handlungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-259-stgb--beteiligung-an-militärischen-strafbaren-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=259) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_324_TextContainer_324) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-259-stgb--beteiligung-an-militärischen-strafbaren-handlungen) \]
 
 ----
 
@@ -5045,7 +5045,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer ein Wehrmittel oder eine Einrichtung oder Anlage, die ausschließlich oder vorwiegend der Landesverteidigung oder dem Schutz der Zivilbevölkerung gegen Kriegsgefahren dient, oder einen dafür bestimmten Werkstoff entgegen einer übernommenen Verpflichtung nicht oder fehlerhaft herstellt oder liefert und dadurch wissentlich die Landesverteidigung, die Schlagkraft des Bundesheeres oder eines Teiles des Bundesheeres oder den Schutz der Zivilbevölkerung gefährdet, ist, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist, mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-260-stgb--wehrmittelsabotage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=260) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_325_TextContainer_325) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-260-stgb--wehrmittelsabotage)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-260-stgb--wehrmittelsabotage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=260) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_325_TextContainer_325) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-260-stgb--wehrmittelsabotage) \]
 
 ----
 
@@ -5059,7 +5059,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Einer Wahl oder Volksabstimmung steht eine Volksbefragung, das Unterschreiben eines Wahlvorschlags oder einer Unterstützungserklärung für einen Wahlvorschlag, das Verfahren für ein Volksbegehren und die Abgabe einer Unterstützungsbekundung für eine Europäische Bürgerinitiative gleich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-261-stgb--geltungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=261) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_326_TextContainer_326) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-261-stgb--geltungsbereich)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-261-stgb--geltungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=261) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_326_TextContainer_326) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-261-stgb--geltungsbereich) \]
 
 ----
 
@@ -5069,7 +5069,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer einen anderen auf andere Weise als durch Nötigung an der Ausübung seines Wahl\- oder Stimmrechts hindert, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-262-stgb--wahlbehinderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=262) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_327_TextContainer_327) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-262-stgb--wahlbehinderung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-262-stgb--wahlbehinderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=262) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_327_TextContainer_327) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-262-stgb--wahlbehinderung) \]
 
 ----
 
@@ -5079,7 +5079,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer durch Täuschung über einen die Durchführung der Wahl oder Volksabstimmung betreffenden Umstand bewirkt oder zu bewirken versucht, daß ein anderer die Stimmabgabe unterläßt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-263-stgb--täuschung-bei-einer-wahl-oder-volksabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=263) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_328_TextContainer_328) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-263-stgb--täuschung-bei-einer-wahl-oder-volksabstimmung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-263-stgb--täuschung-bei-einer-wahl-oder-volksabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=263) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_328_TextContainer_328) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-263-stgb--täuschung-bei-einer-wahl-oder-volksabstimmung) \]
 
 ----
 
@@ -5089,7 +5089,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer sich dabei einer falschen oder verfälschten Urkunde bedient, um die falsche Nachricht glaubwürdig erscheinen zu lassen, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-264-stgb--verbreitung-falscher-nachrichten-bei-einer-wahl-oder-volksabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=264) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-264-stgb--verbreitung-falscher-nachrichten-bei-einer-wahl-oder-volksabstimmung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-264-stgb--verbreitung-falscher-nachrichten-bei-einer-wahl-oder-volksabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=264) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-264-stgb--verbreitung-falscher-nachrichten-bei-einer-wahl-oder-volksabstimmung) \]
 
 ----
 
@@ -5099,7 +5099,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist ein Wahl\- oder Stimmberechtigter zu bestrafen, der dafür, daß er in einem bestimmten Sinn, oder dafür, daß er nicht oder nicht in einem bestimmten Sinn wähle oder stimme, ein Entgelt fordert, annimmt oder sich versprechen läßt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-265-stgb--bestechung-bei-einer-wahl-oder-volksabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=265) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-265-stgb--bestechung-bei-einer-wahl-oder-volksabstimmung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-265-stgb--bestechung-bei-einer-wahl-oder-volksabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=265) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-265-stgb--bestechung-bei-einer-wahl-oder-volksabstimmung) \]
 
 ----
 
@@ -5115,7 +5115,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Täter ist nach den vorstehenden Absätzen nur dann zu bestrafen, wenn die Tat nicht nach einer anderen Bestimmung mit strengerer Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-265a-stgb--mandatskauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=265a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_331_TextContainer_331) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-265a-stgb--mandatskauf)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-265a-stgb--mandatskauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=265a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_331_TextContainer_331) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-265a-stgb--mandatskauf) \]
 
 ----
 
@@ -5125,7 +5125,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer das Ergebnis einer Wahl oder Volksabstimmung fälscht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-266-stgb--fälschung-bei-einer-wahl-oder-volksabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=266) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_332_TextContainer_332) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-266-stgb--fälschung-bei-einer-wahl-oder-volksabstimmung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-266-stgb--fälschung-bei-einer-wahl-oder-volksabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=266) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_332_TextContainer_332) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-266-stgb--fälschung-bei-einer-wahl-oder-volksabstimmung) \]
 
 ----
 
@@ -5133,7 +5133,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer mit Gewalt oder durch gefährliche Drohung eine Wahl, eine Volksabstimmung oder die Feststellung oder Verkündung ihrer Ergebnisse verhindert oder absichtlich stört, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-267-stgb--verhinderung-einer-wahl-oder-volksabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=267) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_333_TextContainer_333) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-267-stgb--verhinderung-einer-wahl-oder-volksabstimmung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-267-stgb--verhinderung-einer-wahl-oder-volksabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=267) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_333_TextContainer_333) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-267-stgb--verhinderung-einer-wahl-oder-volksabstimmung) \]
 
 ----
 
@@ -5141,7 +5141,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer einer dem Schutz des Wahl\- oder Abstimmungsgeheimnisses dienenden Vorschrift in der Absicht zuwiderhandelt, sich oder einem anderen Kenntnis davon zu verschaffen, wie jemand gewählt oder gestimmt hat, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-268-stgb--verletzung-des-wahl--oder-volksabstimmungsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=268) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_334_TextContainer_334) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-268-stgb--verletzung-des-wahl--oder-volksabstimmungsgeheimnisses)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-268-stgb--verletzung-des-wahl--oder-volksabstimmungsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=268) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_334_TextContainer_334) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-268-stgb--verletzung-des-wahl--oder-volksabstimmungsgeheimnisses) \]
 
 ----
 
@@ -5159,7 +5159,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Täter ist nach Abs\. 1 nicht zu bestrafen, wenn die Behörde oder der Beamte zu der Amtshandlung ihrer Art nach nicht berechtigt ist oder die Amtshandlung gegen strafgesetzliche Vorschriften verstößt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-269-stgb--widerstand-gegen-die-staatsgewalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=269) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_335_TextContainer_335) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-269-stgb--widerstand-gegen-die-staatsgewalt)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-269-stgb--widerstand-gegen-die-staatsgewalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=269) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_335_TextContainer_335) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-269-stgb--widerstand-gegen-die-staatsgewalt) \]
 
 ----
 
@@ -5169,7 +5169,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 269 Abs\. 4 gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-270-stgb--tätlicher-angriff-auf-einen-beamten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=270) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_336_TextContainer_336) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-270-stgb--tätlicher-angriff-auf-einen-beamten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-270-stgb--tätlicher-angriff-auf-einen-beamten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=270) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_336_TextContainer_336) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-270-stgb--tätlicher-angriff-auf-einen-beamten) \]
 
 ----
 
@@ -5181,7 +5181,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, die der Verstrickung entzogene Sache zurückstellt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-271-stgb--verstrickungsbruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=271) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_337_TextContainer_337) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-271-stgb--verstrickungsbruch)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-271-stgb--verstrickungsbruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=271) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_337_TextContainer_337) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-271-stgb--verstrickungsbruch) \]
 
 ----
 
@@ -5193,7 +5193,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, bewirkt, daß die Sache ohne wesentliche Beeinträchtigung des Zweckes wieder unter Verschluß oder in Beschlag genommen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-272-stgb--siegelbruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=272) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_338_TextContainer_338) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-272-stgb--siegelbruch)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-272-stgb--siegelbruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=272) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_338_TextContainer_338) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-272-stgb--siegelbruch) \]
 
 ----
 
@@ -5205,7 +5205,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, bewirkt, daß der Zweck der Bekanntmachung ohne wesentliche Beeinträchtigung erreicht wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-273-stgb--verletzung-behördlicher-bekanntmachungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=273) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_339_TextContainer_339) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-273-stgb--verletzung-behördlicher-bekanntmachungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-273-stgb--verletzung-behördlicher-bekanntmachungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=273) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_339_TextContainer_339) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.014.md#-273-stgb--verletzung-behördlicher-bekanntmachungen) \]
 
 ----
 
@@ -5221,7 +5221,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Nach Abs\. 1 ist nicht zu bestrafen, wer sich freiwillig aus der Zusammenkunft zurückzieht oder ernstlich zurückzuziehen sucht, bevor sie zu einer Gewaltanwendung geführt hat, es sei denn, dass er an der Zusammenkunft in der in Abs\. 2 umschriebenen Weise teilgenommen hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-274-stgb--schwere-gemeinschaftliche-gewalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=274) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_340_TextContainer_340) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-274-stgb--schwere-gemeinschaftliche-gewalt)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-274-stgb--schwere-gemeinschaftliche-gewalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=274) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_340_TextContainer_340) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-274-stgb--schwere-gemeinschaftliche-gewalt) \]
 
 ----
 
@@ -5241,7 +5241,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat aber den Tod einer größeren Zahl von Menschen nach sich gezogen, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-275-stgb--landzwang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=275) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_341_TextContainer_341) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-275-stgb--landzwang)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-275-stgb--landzwang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=275) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_341_TextContainer_341) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-275-stgb--landzwang) \]
 
 ----
 
@@ -5251,7 +5251,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig durch eine Mitteilung an die Behörde \(§ 151 Abs\. 3\) oder an den Bedrohten oder auf andere Art die beabsichtigte strafbare Handlung verhindert\. Unterbleibt die strafbare Handlung ohne Zutun des Täters, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, die strafbare Handlung zu verhindern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-277-stgb--verbrecherisches-komplott) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=277) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_342_TextContainer_342) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-277-stgb--verbrecherisches-komplott)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-277-stgb--verbrecherisches-komplott) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=277) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_342_TextContainer_342) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-277-stgb--verbrecherisches-komplott) \]
 
 ----
 
@@ -5265,7 +5265,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Hat die Vereinigung zu keiner strafbaren Handlung der geplanten Art geführt, so ist kein Mitglied zu bestrafen, wenn sich die Vereinigung freiwillig auflöst oder sich sonst aus ihrem Verhalten ergibt, dass sie ihr Vorhaben freiwillig aufgegeben hat\. Ferner ist wegen krimineller Vereinigung nicht zu bestrafen, wer freiwillig von der Vereinigung zurücktritt, bevor eine Tat der geplanten Art ausgeführt oder versucht worden ist; wer an der Vereinigung führend teilgenommen hat, jedoch nur dann, wenn er freiwillig durch Mitteilung an die Behörde \(§ 151 Abs\. 3\) oder auf andere Art bewirkt, dass die aus der Vereinigung entstandene Gefahr beseitigt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278-stgb--kriminelle-vereinigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_343_TextContainer_343) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278-stgb--kriminelle-vereinigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278-stgb--kriminelle-vereinigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_343_TextContainer_343) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278-stgb--kriminelle-vereinigung) \]
 
 ----
 
@@ -5281,7 +5281,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. § 278 Abs\. 4 gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278a-stgb--kriminelle-organisation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_344_TextContainer_344) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278a-stgb--kriminelle-organisation)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278a-stgb--kriminelle-organisation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_344_TextContainer_344) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278a-stgb--kriminelle-organisation) \]
 
 ----
 
@@ -5293,7 +5293,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine terroristische Vereinigung ist ein auf längere Zeit angelegter Zusammenschluss von mehr als zwei Personen, der darauf ausgerichtet ist, dass von einem oder mehreren Mitgliedern dieser Vereinigung eine oder mehrere terroristische Straftaten \(§ 278c\) ausgeführt werden oder Terrorismusfinanzierung \(§ 278d\) betrieben wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278b-stgb--terroristische-vereinigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_345_TextContainer_345) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278b-stgb--terroristische-vereinigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278b-stgb--terroristische-vereinigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_345_TextContainer_345) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278b-stgb--terroristische-vereinigung) \]
 
 ----
 
@@ -5331,7 +5331,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine Tat nach Abs\. 1 oder Abs\. 2a gilt nicht als terroristische Straftat, wenn sie auf die Herstellung oder Wiederherstellung demokratischer und rechtsstaatlicher Verhältnisse oder die Ausübung oder Wahrung von Menschenrechten ausgerichtet ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278c-stgb--terroristische-straftaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_346_TextContainer_346) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278c-stgb--terroristische-straftaten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278c-stgb--terroristische-straftaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_346_TextContainer_346) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278c-stgb--terroristische-straftaten) \]
 
 ----
 
@@ -5369,7 +5369,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nach Abs\. 1 oder Abs\. 1a nicht zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278d-stgb--terrorismusfinanzierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_347_TextContainer_347) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278d-stgb--terrorismusfinanzierung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278d-stgb--terrorismusfinanzierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_347_TextContainer_347) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278d-stgb--terrorismusfinanzierung) \]
 
 ----
 
@@ -5379,7 +5379,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer sich in der Herstellung oder im Gebrauch von Sprengstoff, Schuss\- oder sonstigen Waffen oder schädlichen oder gefährlichen Stoffen oder in einer anderen ebenso schädlichen oder gefährlichen spezifisch zur Begehung einer terroristischen Straftat nach § 278c Abs\. 1 Z 1 bis 9 oder 10 geeigneten Methode oder einem solchen Verfahren unterweisen lässt, um eine solche terroristische Straftat unter Einsatz der erworbenen Fähigkeiten zu begehen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. Die Strafe darf jedoch nach Art und Maß nicht strenger sein, als sie das Gesetz für die beabsichtigte Tat androht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278e-stgb--ausbildung-für-terroristische-zwecke) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_348_TextContainer_348) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278e-stgb--ausbildung-für-terroristische-zwecke)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278e-stgb--ausbildung-für-terroristische-zwecke) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_348_TextContainer_348) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278e-stgb--ausbildung-für-terroristische-zwecke) \]
 
 ----
 
@@ -5389,7 +5389,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer sich ein Medienwerk im Sinne des Abs\. 1 oder solche Informationen aus dem Internet verschafft, um eine terroristische Straftat \(§ 278c Abs\. 1 Z 1 bis 9 oder 10\) zu begehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278f-stgb--anleitung-zur-begehung-einer-terroristischen-straftat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_349_TextContainer_349) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278f-stgb--anleitung-zur-begehung-einer-terroristischen-straftat)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278f-stgb--anleitung-zur-begehung-einer-terroristischen-straftat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_349_TextContainer_349) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278f-stgb--anleitung-zur-begehung-einer-terroristischen-straftat) \]
 
 ----
 
@@ -5397,7 +5397,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer in einen anderen Staat reist, um eine strafbare Handlung nach den §§ 278b, 278c, 278e oder 278f zu begehen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. Die Strafe darf jedoch nach Art und Maß nicht strenger sein, als sie das Gesetz für die beabsichtigte Tat androht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278g-stgb--reisen-für-terroristische-zwecke) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_350_TextContainer_350) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278g-stgb--reisen-für-terroristische-zwecke)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-278g-stgb--reisen-für-terroristische-zwecke) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=278g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_350_TextContainer_350) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-278g-stgb--reisen-für-terroristische-zwecke) \]
 
 ----
 
@@ -5407,7 +5407,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, alles, was ihm von der Verbindung und ihren Plänen bekannt ist, zu einer Zeit, da es noch geheim ist, einer solchen Behörde aufdeckt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-279-stgb--bewaffnete-verbindungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=279) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_351_TextContainer_351) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-279-stgb--bewaffnete-verbindungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-279-stgb--bewaffnete-verbindungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=279) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_351_TextContainer_351) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-279-stgb--bewaffnete-verbindungen) \]
 
 ----
 
@@ -5417,7 +5417,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig, bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, die Kampfmittel auf Dauer unbrauchbar macht, einer solchen Behörde übergibt oder es ihr ermöglicht, der Kampfmittel habhaft zu werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-280-stgb--ansammeln-von-kampfmitteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=280) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_352_TextContainer_352) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-280-stgb--ansammeln-von-kampfmitteln)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-280-stgb--ansammeln-von-kampfmitteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=280) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_352_TextContainer_352) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-280-stgb--ansammeln-von-kampfmitteln) \]
 
 ----
 
@@ -5427,7 +5427,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer auf die im Abs\. 1 bezeichnete Weise eine vorsätzlich begangene, mit einer ein Jahr übersteigenden Freiheitsstrafe bedrohte Handlung in einer Art gutheißt, die geeignet ist, das allgemeine Rechtsempfinden zu empören oder zur Begehung einer solchen Handlung aufzureizen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-282-stgb--aufforderung-zu-mit-strafe-bedrohten-handlungen-und-gutheißung-mit-strafe-bedrohter-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=282) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_353_TextContainer_353) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-282-stgb--aufforderung-zu-mit-strafe-bedrohten-handlungen-und-gutheißung-mit-strafe-bedrohter-handlungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-282-stgb--aufforderung-zu-mit-strafe-bedrohten-handlungen-und-gutheißung-mit-strafe-bedrohter-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=282) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_353_TextContainer_353) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-282-stgb--aufforderung-zu-mit-strafe-bedrohten-handlungen-und-gutheißung-mit-strafe-bedrohter-handlungen) \]
 
 ----
 
@@ -5437,7 +5437,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer auf die im Abs\. 1 bezeichnete Weise eine terroristische Straftat \(§ 278c Abs\. 1 Z 1 bis 9 oder 10\) in einer Art gutheißt, die geeignet ist, die Gefahr der Begehung einer oder mehrerer solcher Straftaten herbeizuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-282a-stgb--aufforderung-zu-terroristischen-straftaten-und-gutheißung-terroristischer-straftaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=282a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_354_TextContainer_354) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-282a-stgb--aufforderung-zu-terroristischen-straftaten-und-gutheißung-terroristischer-straftaten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-282a-stgb--aufforderung-zu-terroristischen-straftaten-und-gutheißung-terroristischer-straftaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=282a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_354_TextContainer_354) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-282a-stgb--aufforderung-zu-terroristischen-straftaten-und-gutheißung-terroristischer-straftaten) \]
 
 ----
 
@@ -5458,7 +5458,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wer, wenn er nicht als an einer Handlung nach den Abs\. 1 bis 3 Beteiligter \(§ 12\) mit strengerer Strafe bedroht ist, schriftliches Material, Bilder oder andere Darstellungen von Ideen oder Theorien, die Hass oder Gewalt gegen eine in Abs\. 1 Z 1 bezeichnete Gruppe oder gegen ein Mitglied einer solchen Gruppe wegen dessen Zugehörigkeit zu dieser Gruppe befürworten, fördern oder dazu aufstacheln, in einem Druckwerk, im Rundfunk oder sonst auf eine Weise, wodurch diese einer breiten Öffentlichkeit zugänglich werden, in gutheißender oder rechtfertigender Weise verbreitet oder anderweitig öffentlich verfügbar macht, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-283-stgb--verhetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=283) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_355_TextContainer_355) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-283-stgb--verhetzung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-283-stgb--verhetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=283) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_355_TextContainer_355) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-283-stgb--verhetzung) \]
 
 ----
 
@@ -5466,7 +5466,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine Versammlung, einen Aufmarsch oder eine ähnliche Kundgebung, die nicht verboten sind, mit Gewalt oder durch Drohung mit Gewalt verhindert oder sprengt, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-284-stgb--sprengung-einer-versammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=284) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_356_TextContainer_356) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-284-stgb--sprengung-einer-versammlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-284-stgb--sprengung-einer-versammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=284) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_356_TextContainer_356) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-284-stgb--sprengung-einer-versammlung) \]
 
 ----
 
@@ -5482,7 +5482,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `4.` eine zur Leitung oder Aufrechterhaltung der Ordnung berufene Person verdrängt oder sich einer ihrer auf den Verlauf der Versammlung bezüglichen Anordnungen tätlich widersetzt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-285-stgb--verhinderung-oder-störung-einer-versammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=285) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_357_TextContainer_357) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-285-stgb--verhinderung-oder-störung-einer-versammlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-285-stgb--verhinderung-oder-störung-einer-versammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=285) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_357_TextContainer_357) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-285-stgb--verhinderung-oder-störung-einer-versammlung) \]
 
 ----
 
@@ -5498,7 +5498,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` durch die Verhinderung oder Benachrichtigung eine andere rechtlich anerkannte Verschwiegenheitspflicht verletzen würde und die aus der Verletzung dieser Pflicht drohenden Folgen schwerer gewogen hätten als die nachteiligen Folgen aus der Unterlassung der Verhinderung oder Bekanntmachung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-286-stgb--unterlassung-der-verhinderung-einer-mit-strafe-bedrohten-handlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=286) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_358_TextContainer_358) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-286-stgb--unterlassung-der-verhinderung-einer-mit-strafe-bedrohten-handlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-286-stgb--unterlassung-der-verhinderung-einer-mit-strafe-bedrohten-handlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=286) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_358_TextContainer_358) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-286-stgb--unterlassung-der-verhinderung-einer-mit-strafe-bedrohten-handlung) \]
 
 ----
 
@@ -5508,7 +5508,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Täter ist nur auf Verlangen oder mit Ermächtigung zu verfolgen, wenn die im Rausch begangene mit Strafe bedrohte Handlung nur auf Verlangen, auf Antrag oder mit Ermächtigung zu verfolgen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-287-stgb--begehung-einer-mit-strafe-bedrohten-handlung-im-zustand-voller-berauschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=287) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_359_TextContainer_359) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-287-stgb--begehung-einer-mit-strafe-bedrohten-handlung-im-zustand-voller-berauschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-287-stgb--begehung-einer-mit-strafe-bedrohten-handlung-im-zustand-voller-berauschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=287) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_359_TextContainer_359) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.015.md#-287-stgb--begehung-einer-mit-strafe-bedrohten-handlung-im-zustand-voller-berauschung) \]
 
 ----
 
@@ -5526,7 +5526,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Nach Abs\. 1 ist auch zu bestrafen, wer als Zeuge oder Sachverständiger eine der dort genannten Handlungen in einem Ermittlungsverfahren nach der Strafprozessordnung vor Kriminalpolizei, Staatsanwaltschaft oder Europäischer Staatsanwaltschaft begeht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-288-stgb--falsche-beweisaussage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=288) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_360_TextContainer_360) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-288-stgb--falsche-beweisaussage)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-288-stgb--falsche-beweisaussage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=288) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_360_TextContainer_360) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-288-stgb--falsche-beweisaussage) \]
 
 ----
 
@@ -5534,7 +5534,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer außer in den Fällen des § 288 Abs\. 3 und 4 vor einer Verwaltungsbehörde als Zeuge bei seiner förmlichen Vernehmung zur Sache falsch aussagt oder als Sachverständiger einen falschen Befund oder ein falsches Gutachten erstattet, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-289-stgb--falsche-beweisaussage-vor-einer-verwaltungsbehörde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=289) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_361_TextContainer_361) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-289-stgb--falsche-beweisaussage-vor-einer-verwaltungsbehörde)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-289-stgb--falsche-beweisaussage-vor-einer-verwaltungsbehörde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=289) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_361_TextContainer_361) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-289-stgb--falsche-beweisaussage-vor-einer-verwaltungsbehörde) \]
 
 ----
 
@@ -5554,7 +5554,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Täter ist jedoch auch bei Vorliegen der Voraussetzungen des Abs\. 1 zu bestrafen, wenn es ihm insbesondere im Hinblick auf den aus der falschen Aussage einem anderen drohenden Nachteil dennoch zuzumuten ist, wahrheitsgemäß auszusagen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-290-stgb--aussagenotstand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=290) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_362_TextContainer_362) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-290-stgb--aussagenotstand)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-290-stgb--aussagenotstand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=290) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_362_TextContainer_362) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-290-stgb--aussagenotstand) \]
 
 ----
 
@@ -5562,7 +5562,7 @@ Der Nationalrat hat beschlossen:
 
 > Wegen einer nach den §§ 288 oder 289 mit Strafe bedrohten Handlung ist der Täter nicht zu bestrafen, wenn er die unwahre Erklärung vor Beendigung seiner Vernehmung richtigstellt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-291-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=291) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_363_TextContainer_363) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-291-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-291-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=291) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_363_TextContainer_363) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-291-stgb--tätige-reue) \]
 
 ----
 
@@ -5572,7 +5572,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer auf die im Abs\. 1 bezeichnete Weise bewirkt, daß jemand gutgläubig eine unrichtige Beweisaussage vor einer Verwaltungsbehörde ablegt \(§ 289\), ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-292-stgb--herbeiführung-einer-unrichtigen-beweisaussage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=292) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_364_TextContainer_364) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-292-stgb--herbeiführung-einer-unrichtigen-beweisaussage)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-292-stgb--herbeiführung-einer-unrichtigen-beweisaussage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=292) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_364_TextContainer_364) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-292-stgb--herbeiführung-einer-unrichtigen-beweisaussage) \]
 
 ----
 
@@ -5580,7 +5580,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer im Zuge eines Exekutions\- oder Insolvenzverfahrens vor Gericht oder vor einem Vollstreckungsorgan ein falsches oder unvollständiges Vermögensverzeichnis abgibt und dadurch die Befriedigung eines Gläubigers gefährdet, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-292a-stgb--falsches-vermögensverzeichnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=292a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_365_TextContainer_365) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-292a-stgb--falsches-vermögensverzeichnis)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-292a-stgb--falsches-vermögensverzeichnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=292a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_365_TextContainer_365) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-292a-stgb--falsches-vermögensverzeichnis) \]
 
 ----
 
@@ -5588,7 +5588,7 @@ Der Nationalrat hat beschlossen:
 
 > Wegen falschen Vermögensverzeichnisses \(§ 292a\) ist nicht zu bestrafen, wer freiwillig und bevor die Behörde \(§ 151 Abs\. 3\) von seinem Verschulden erfahren hat, die falschen Angaben richtigstellt oder die unvollständigen ergänzt, sofern nicht bereits die Befriedigung eines Gläubigers vereitelt oder geschmälert wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-292b-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=292b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_366_TextContainer_366) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-292b-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-292b-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=292b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_366_TextContainer_366) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-292b-stgb--tätige-reue) \]
 
 ----
 
@@ -5598,7 +5598,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer einem Mitbieter ohne dessen Andringen für eine Zusage im Sinne des Abs\. 1 für ihn oder einen Dritten einen Vorteil anbietet, verspricht oder gewährt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-292c-stgb--unzulässige-bieterabsprachen-in-exekutiven-versteigerungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=292c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_367_TextContainer_367) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-292c-stgb--unzulässige-bieterabsprachen-in-exekutiven-versteigerungsverfahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-292c-stgb--unzulässige-bieterabsprachen-in-exekutiven-versteigerungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=292c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_367_TextContainer_367) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-292c-stgb--unzulässige-bieterabsprachen-in-exekutiven-versteigerungsverfahren) \]
 
 ----
 
@@ -5608,7 +5608,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ebenso ist zu bestrafen, wer ein falsches oder verfälschtes Beweismittel in einem gerichtlichen oder verwaltungsbehördlichen Verfahren, in einem Ermittlungsverfahren nach der Strafprozessordnung, nach der Verordnung \(EU\) 2017/1939 oder im Verfahren vor einem Untersuchungsausschuss des Nationalrates gebraucht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-293-stgb--fälschung-eines-beweismittels) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=293) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_368_TextContainer_368) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-293-stgb--fälschung-eines-beweismittels)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-293-stgb--fälschung-eines-beweismittels) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=293) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_368_TextContainer_368) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-293-stgb--fälschung-eines-beweismittels) \]
 
 ----
 
@@ -5618,7 +5618,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Besteht die Gefahr eines solchen Gebrauches nicht oder ist sie ohne Zutun des Täters beseitigt worden, so ist er nicht zu bestrafen, wenn er sich in Unkenntnis dessen freiwillig und ernstlich bemüht, sie zu beseitigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-294-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=294) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_369_TextContainer_369) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-294-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-294-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=294) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_369_TextContainer_369) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-294-stgb--tätige-reue) \]
 
 ----
 
@@ -5626,7 +5626,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer ein Beweismittel, das zur Verwendung in einem gerichtlichen oder verwaltungsbehördlichen Verfahren oder in einem Ermittlungsverfahren nach der Strafprozessordnung oder nach der Verordnung \(EU\) 2017/1939 bestimmt ist und über das er nicht oder nicht allein verfügen darf, vernichtet, beschädigt oder unterdrückt, ist, wenn er mit dem Vorsatz handelt, zu verhindern, daß das Beweismittel im Verfahren gebraucht werde, mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen, wenn die Tat nicht nach den §§ 229 oder 230 mit Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-295-stgb--unterdrückung-eines-beweismittels) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=295) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_370_TextContainer_370) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-295-stgb--unterdrückung-eines-beweismittels)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-295-stgb--unterdrückung-eines-beweismittels) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=295) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_370_TextContainer_370) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-295-stgb--unterdrückung-eines-beweismittels) \]
 
 ----
 
@@ -5634,7 +5634,7 @@ Der Nationalrat hat beschlossen:
 
 > Wegen Unterdrückung eines Beweismittels \(§ 295\) ist nicht zu bestrafen, wer freiwillig das Beweismittel dem Gericht, der Staatsanwaltschaft, der Europäischen Staatsanwaltschaft, der Verwaltungsbehörde oder der Kriminalpolizei \(§ 18 StPO\) zu einer Zeit vorlegt, da es bei der zu treffenden Entscheidung oder Verfügung noch berücksichtigt werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-296-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=296) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_371_TextContainer_371) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-296-stgb--tätige-reue)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-296-stgb--tätige-reue) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=296) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_371_TextContainer_371) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-296-stgb--tätige-reue) \]
 
 ----
 
@@ -5644,7 +5644,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig die Gefahr einer behördlichen Verfolgung beseitigt, bevor eine Behörde etwas zur Verfolgung des Verdächtigten unternommen hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-297-stgb--verleumdung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=297) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_372_TextContainer_372) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-297-stgb--verleumdung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-297-stgb--verleumdung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=297) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_372_TextContainer_372) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-297-stgb--verleumdung) \]
 
 ----
 
@@ -5654,7 +5654,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist nicht zu bestrafen, wer freiwillig bewirkt, daß die Tat keine behördliche Ermittlung zur Folge hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-298-stgb--vortäuschung-einer-mit-strafe-bedrohten-handlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=298) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_373_TextContainer_373) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-298-stgb--vortäuschung-einer-mit-strafe-bedrohten-handlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-298-stgb--vortäuschung-einer-mit-strafe-bedrohten-handlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=298) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_373_TextContainer_373) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-298-stgb--vortäuschung-einer-mit-strafe-bedrohten-handlung) \]
 
 ----
 
@@ -5668,7 +5668,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wer eine der im Abs\. 1 mit Strafe bedrohten Handlungen begeht, um von sich oder einem Angehörigen Schande oder die Gefahr strafrechtlicher Verfolgung oder eines unmittelbaren und bedeutenden vermögensrechtlichen Nachteils abzuwenden, ist nicht zu bestrafen, wenn die Folgen, die durch die Tat abgewendet werden sollten, auch unter Berücksichtigung der Gefährlichkeit des Begünstigten und der Schwere der Tat, die der Begünstigte begangen hat oder derentwegen er verurteilt worden ist, schwerer gewogen hätten als die nachteiligen Folgen, die aus der Tat entstanden sind oder hätten entstehen können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-299-stgb--begünstigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=299) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_374_TextContainer_374) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-299-stgb--begünstigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-299-stgb--begünstigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=299) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_374_TextContainer_374) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-299-stgb--begünstigung) \]
 
 ----
 
@@ -5678,7 +5678,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Gefangener, der einen anderen dazu verleitet, ihn zu befreien oder beim Entweichen zu unterstützen, ist nach Abs\. 1 nicht zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-300-stgb--befreiung-von-gefangenen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=300) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_375_TextContainer_375) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-300-stgb--befreiung-von-gefangenen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-300-stgb--befreiung-von-gefangenen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=300) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_375_TextContainer_375) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-300-stgb--befreiung-von-gefangenen) \]
 
 ----
 
@@ -5690,7 +5690,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer auf eine im Abs\. 1 bezeichnete Weise eine Mitteilung über den Inhalt von Ergebnissen aus einer Auskunft über Vorratsdaten oder Daten einer Nachrichtenübermittlung oder einer Überwachung von Nachrichten oder aus einer optischen oder akustischen Überwachung von Personen unter Verwendung technischer Mittel \(§ 134 Z 5 StPO\) veröffentlicht, ist, wenn diese Ergebnisse nicht zuvor zum Akt genommen wurden \(§ 145 Abs\. 2 StPO\), mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-301-stgb--verbotene-veröffentlichung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=301) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_376_TextContainer_376) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-301-stgb--verbotene-veröffentlichung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-301-stgb--verbotene-veröffentlichung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=301) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_376_TextContainer_376) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-301-stgb--verbotene-veröffentlichung) \]
 
 ----
 
@@ -5704,7 +5704,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Tat bei der Führung eines Amtsgeschäfts mit einer fremden Macht oder einer über\- oder zwischenstaatlichen Einrichtung begeht, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\. Ebenso ist zu bestrafen, wer durch die Tat einen 50 000 Euro übersteigenden Schaden herbeiführt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-302-stgb--mißbrauch-der-amtsgewalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=302) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_377_TextContainer_377) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-302-stgb--mißbrauch-der-amtsgewalt)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-302-stgb--mißbrauch-der-amtsgewalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=302) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_377_TextContainer_377) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-302-stgb--mißbrauch-der-amtsgewalt) \]
 
 ----
 
@@ -5712,7 +5712,7 @@ Der Nationalrat hat beschlossen:
 
 > Ein Beamter, der grob fahrlässig \(§ 6 Abs\. 3\) durch eine gesetzwidrige Beeinträchtigung oder Entziehung der persönlichen Freiheit oder durch eine gesetzwidrige Hausdurchsuchung einen anderen an seinen Rechten schädigt, ist mit Freiheitsstrafe bis zu drei Monaten oder mit Geldstrafe bis zu 180 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-303-stgb--fahrlässige-verletzung-der-freiheit-der-person-oder-des-hausrechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=303) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_378_TextContainer_378) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-303-stgb--fahrlässige-verletzung-der-freiheit-der-person-oder-des-hausrechts)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-303-stgb--fahrlässige-verletzung-der-freiheit-der-person-oder-des-hausrechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=303) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_378_TextContainer_378) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-303-stgb--fahrlässige-verletzung-der-freiheit-der-person-oder-des-hausrechts) \]
 
 ----
 
@@ -5726,7 +5726,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer ausschließlich nach § 74 Abs\. 1 Z 4a lit\. b letzte Alternative Amtsträger ist, ist nach dieser Bestimmung strafbar, wenn er mit dem Vorsatz handelt, dass durch die Vornahme oder Unterlassung des Amtsgeschäftes die finanziellen Interessen der Union geschädigt oder wahrscheinlich geschädigt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-304-stgb--bestechlichkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=304) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_379_TextContainer_379) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-304-stgb--bestechlichkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-304-stgb--bestechlichkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=304) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_379_TextContainer_379) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-304-stgb--bestechlichkeit) \]
 
 ----
 
@@ -5747,7 +5747,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` § 304 Abs\. 3 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-305-stgb--vorteilsannahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=305) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_380_TextContainer_380) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-305-stgb--vorteilsannahme)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-305-stgb--vorteilsannahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=305) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_380_TextContainer_380) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-305-stgb--vorteilsannahme) \]
 
 ----
 
@@ -5759,7 +5759,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer lediglich einen geringfügigen Vorteil annimmt oder sich versprechen lässt, ist nach Abs\. 1 nicht zu bestrafen, es sei denn, dass die Tat gewerbsmäßig begangen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-306-stgb--vorteilsannahme-zur-beeinflussung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=306) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_381_TextContainer_381) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-306-stgb--vorteilsannahme-zur-beeinflussung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-306-stgb--vorteilsannahme-zur-beeinflussung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=306) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_381_TextContainer_381) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-306-stgb--vorteilsannahme-zur-beeinflussung) \]
 
 ----
 
@@ -5773,7 +5773,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer die Tat in Bezug auf eine Person begeht, die ausschließlich nach § 74 Abs\. 1 Z 4a lit\. b letzte Alternative Amtsträger ist, ist nach dieser Bestimmung strafbar, wenn er mit dem Vorsatz handelt, dass durch die Vornahme oder Unterlassung des Amtsgeschäftes die finanziellen Interessen der Union geschädigt oder wahrscheinlich geschädigt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-307-stgb--bestechung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=307) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_382_TextContainer_382) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-307-stgb--bestechung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-307-stgb--bestechung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=307) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_382_TextContainer_382) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-307-stgb--bestechung) \]
 
 ----
 
@@ -5785,7 +5785,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 307 Abs\. 3 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-307a-stgb--vorteilszuwendung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=307a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_383_TextContainer_383) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-307a-stgb--vorteilszuwendung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-307a-stgb--vorteilszuwendung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=307a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_383_TextContainer_383) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-307a-stgb--vorteilszuwendung) \]
 
 ----
 
@@ -5795,7 +5795,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer die Tat in Bezug auf einen 3 000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen, wer jedoch die Tat in Bezug auf einen 50 000 Euro übersteigenden Wert des Vorteils begeht, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\. Übersteigt der Wert des Vorteils 300 000 Euro, so ist der Täter mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-307b-stgb--vorteilszuwendung-zur-beeinflussung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=307b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_384_TextContainer_384) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-307b-stgb--vorteilszuwendung-zur-beeinflussung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-307b-stgb--vorteilszuwendung-zur-beeinflussung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=307b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_384_TextContainer_384) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-307b-stgb--vorteilszuwendung-zur-beeinflussung) \]
 
 ----
 
@@ -5811,7 +5811,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Täter ist nicht nach den vorstehenden Absätzen zu bestrafen, wenn die Tat nach einer anderen Bestimmung mit strengerer Strafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-308-stgb--verbotene-intervention) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=308) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_385_TextContainer_385) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-308-stgb--verbotene-intervention)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-308-stgb--verbotene-intervention) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=308) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_385_TextContainer_385) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-308-stgb--verbotene-intervention) \]
 
 ----
 
@@ -5823,7 +5823,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer die Tat in Bezug auf einen 3 000 Euro übersteigenden Vorteil begeht, ist mit Freiheitsstrafe bis zu drei Jahren, übersteigt der Vorteil jedoch 50 000 Euro mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-309-stgb--geschenkannahme-und-bestechung-von-bediensteten-oder-beauftragten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=309) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_386_TextContainer_386) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-309-stgb--geschenkannahme-und-bestechung-von-bediensteten-oder-beauftragten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-309-stgb--geschenkannahme-und-bestechung-von-bediensteten-oder-beauftragten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=309) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_386_TextContainer_386) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-309-stgb--geschenkannahme-und-bestechung-von-bediensteten-oder-beauftragten) \]
 
 ----
 
@@ -5836,7 +5836,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Offenbart der Täter ein Amtsgeheimnis, das verfassungsgefährdende Tatsachen \(§ 252 Abs\. 3\) betrifft, so ist er nur zu bestrafen, wenn er in der Absicht handelt, private Interessen zu verletzen oder der Republik Österreich einen Nachteil zuzufügen\. Die irrtümliche Annahme verfassungsgefährdender Tatsachen befreit den Täter nicht von Strafe\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-310-stgb--verletzung-des-amtsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=310) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_387_TextContainer_387) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-310-stgb--verletzung-des-amtsgeheimnisses)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-310-stgb--verletzung-des-amtsgeheimnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=310) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_387_TextContainer_387) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-310-stgb--verletzung-des-amtsgeheimnisses) \]
 
 ----
 
@@ -5844,7 +5844,7 @@ Der Nationalrat hat beschlossen:
 
 > Ein Beamter, der in einer öffentlichen Urkunde, deren Ausstellung in den Bereich seines Amtes fällt, ein Recht, ein Rechtsverhältnis oder eine Tatsache fälschlich beurkundet oder der an einer Sache ein öffentliches Beglaubigungszeichen, dessen Anbringung in den Bereich seines Amtes fällt, fälschlich anbringt, ist, wenn er mit dem Vorsatz handelt, daß die Urkunde im Rechtsverkehr zum Beweis des Rechtes, des Rechtsverhältnisses oder der Tatsache gebraucht oder die Sache im Rechtsverkehr gebraucht werde, wenn die Tat nicht nach § 302 mit Strafe bedroht ist, mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-311-stgb--falsche-beurkundung-und-beglaubigung-im-amt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=311) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_388_TextContainer_388) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-311-stgb--falsche-beurkundung-und-beglaubigung-im-amt)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-311-stgb--falsche-beurkundung-und-beglaubigung-im-amt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=311) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_388_TextContainer_388) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-311-stgb--falsche-beurkundung-und-beglaubigung-im-amt) \]
 
 ----
 
@@ -5856,7 +5856,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Tat eine schwere Körperverletzung \(§ 84 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe bis zu drei Jahren, hat sie eine Körperverletzung mit schweren Dauerfolgen \(§ 85\) zur Folge, mit Freiheitsstrafe bis zu fünf Jahren, hat sie den Tod des Geschädigten zur Folge, mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-312-stgb--quälen-oder-vernachlässigen-eines-gefangenen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=312) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_389_TextContainer_389) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-312-stgb--quälen-oder-vernachlässigen-eines-gefangenen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-312-stgb--quälen-oder-vernachlässigen-eines-gefangenen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=312) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_389_TextContainer_389) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-312-stgb--quälen-oder-vernachlässigen-eines-gefangenen) \]
 
 ----
 
@@ -5868,7 +5868,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Amtsträger im Sinne dieser Bestimmung ist auch, wer im Falle der Abwesenheit oder des Ausfalls der staatlichen Stellen faktisch als Amtsträger handelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-312a-stgb--folter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=312a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_390_TextContainer_390) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-312a-stgb--folter)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-312a-stgb--folter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=312a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_390_TextContainer_390) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-312a-stgb--folter) \]
 
 ----
 
@@ -5876,7 +5876,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer eine Person im Auftrag oder mit Billigung eines Staates oder einer politischen Organisation entführt oder ihr sonst die persönliche Freiheit entzieht und das Schicksal oder den Verbleib der verschwundenen Person verschleiert, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-312b-stgb--verschwindenlassen-einer-person) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=312b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_391_TextContainer_391) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-312b-stgb--verschwindenlassen-einer-person)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-312b-stgb--verschwindenlassen-einer-person) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=312b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_391_TextContainer_391) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-312b-stgb--verschwindenlassen-einer-person) \]
 
 ----
 
@@ -5884,7 +5884,7 @@ Der Nationalrat hat beschlossen:
 
 > Wird eine auch sonst mit Strafe bedrohte vorsätzliche Handlung von einem Beamten unter Ausnützung der ihm durch seine Amtstätigkeit gebotenen Gelegenheit begangen, so kann bei ihm das Höchstmaß der angedrohten Freiheitsstrafe oder Geldstrafe um die Hälfte überschritten werden\. Doch darf die zeitliche Freiheitsstrafe die Dauer von zwanzig Jahren nicht überschreiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-313-stgb--strafbare-handlungen-unter-ausnützung-einer-amtsstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=313) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_392_TextContainer_392) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-313-stgb--strafbare-handlungen-unter-ausnützung-einer-amtsstellung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-313-stgb--strafbare-handlungen-unter-ausnützung-einer-amtsstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=313) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_392_TextContainer_392) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.016.md#-313-stgb--strafbare-handlungen-unter-ausnützung-einer-amtsstellung) \]
 
 ----
 
@@ -5896,7 +5896,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer sich die Ausübung eines öffentlichen Amtes anmaßt oder, ohne dazu befugt zu sein, eine Handlung vornimmt, die nur kraft eines öffentlichen Amtes vorgenommen werden darf, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-314-stgb--amtsanmaßung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=314) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_393_TextContainer_393) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-314-stgb--amtsanmaßung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-314-stgb--amtsanmaßung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=314) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_393_TextContainer_393) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-314-stgb--amtsanmaßung) \]
 
 ----
 
@@ -5904,7 +5904,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer wissentlich eine zur Übertragung eines öffentlichen Amtes berufene Stelle über eine Tatsache täuscht, die nach einem Gesetz oder einer Rechtsverordnung die Übertragung eines bestimmten öffentlichen Amtes ausschließen würde, und dadurch bewirkt, daß ihm dieses Amt übertragen wird, ist mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bis zu 720 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-315-stgb--erschleichung-eines-amtes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=315) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_394_TextContainer_394) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-315-stgb--erschleichung-eines-amtes)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-315-stgb--erschleichung-eines-amtes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=315) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_394_TextContainer_394) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-315-stgb--erschleichung-eines-amtes) \]
 
 ----
 
@@ -5918,7 +5918,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 243 gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-316-stgb--hochverräterische-angriffe-gegen-einen-fremden-staat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=316) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_395_TextContainer_395) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-316-stgb--hochverräterische-angriffe-gegen-einen-fremden-staat)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-316-stgb--hochverräterische-angriffe-gegen-einen-fremden-staat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=316) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_395_TextContainer_395) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-316-stgb--hochverräterische-angriffe-gegen-einen-fremden-staat) \]
 
 ----
 
@@ -5926,7 +5926,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer auf eine Art, daß die Tat einer breiten Öffentlichkeit bekannt wird, in gehässiger Weise eine Fahne oder ein Hoheitszeichen eines fremden Staates oder einer zwischenstaatlichen Einrichtung, die von einer inländischen Behörde oder von einer Vertretung des fremden Staates oder der zwischenstaatlichen Einrichtung nach den allgemeinen Regeln des Völkerrechts oder nach zwischenstaatlichen Vereinbarungen angebracht worden ist, oder die bei einem öffentlichen Anlaß vorgetragene Hymne eines fremden Staates beschimpft, verächtlich macht oder sonst herabwürdigt, ist mit Freiheitsstrafe bis zu sechs Monaten oder mit Geldstrafe bis zu 360 Tagessätzen zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-317-stgb--herabwürdigung-fremder-symbole) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=317) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_396_TextContainer_396) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-317-stgb--herabwürdigung-fremder-symbole)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-317-stgb--herabwürdigung-fremder-symbole) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=317) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_396_TextContainer_396) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-317-stgb--herabwürdigung-fremder-symbole) \]
 
 ----
 
@@ -5938,7 +5938,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wegen der im § 317 mit Strafe bedrohten Handlungen gegen eine zwischenstaatliche Einrichtung ist der Täter nur zu bestrafen, wenn die Republik Österreich dieser Einrichtung angehört\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-318-stgb--voraussetzungen-der-bestrafung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=318) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_397_TextContainer_397) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-318-stgb--voraussetzungen-der-bestrafung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-318-stgb--voraussetzungen-der-bestrafung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=318) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_397_TextContainer_397) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-318-stgb--voraussetzungen-der-bestrafung) \]
 
 ----
 
@@ -5946,7 +5946,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer im Inland für eine fremde Macht oder eine über\- oder zwischenstaatliche Einrichtung einen militärischen Nachrichtendienst einrichtet oder betreibt oder einen solchen Nachrichtendienst wie immer unterstützt, ist mit Freiheitsstrafe bis zu zwei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-319-stgb--militärischer-nachrichtendienst-für-einen-fremden-staat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=319) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_398_TextContainer_398) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-319-stgb--militärischer-nachrichtendienst-für-einen-fremden-staat)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-319-stgb--militärischer-nachrichtendienst-für-einen-fremden-staat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=319) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_398_TextContainer_398) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-319-stgb--militärischer-nachrichtendienst-für-einen-fremden-staat) \]
 
 ----
 
@@ -5976,7 +5976,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; durchgeführt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-320-stgb--verbotene-unterstützung-von-parteien-bewaffneter-konflikte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=320) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_399_TextContainer_399) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-320-stgb--verbotene-unterstützung-von-parteien-bewaffneter-konflikte)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-320-stgb--verbotene-unterstützung-von-parteien-bewaffneter-konflikte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=320) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_399_TextContainer_399) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-320-stgb--verbotene-unterstützung-von-parteien-bewaffneter-konflikte) \]
 
 ----
 
@@ -5990,7 +5990,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer mit einem anderen die gemeinsame Ausführung einer der im Abs\. 1 bezeichneten strafbaren Handlungen verabredet, ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321-stgb--völkermord) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_400_TextContainer_400) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321-stgb--völkermord)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321-stgb--völkermord) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_400_TextContainer_400) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321-stgb--völkermord) \]
 
 ----
 
@@ -6030,7 +6030,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ist mit Freiheitsstrafe von einem bis zu zehn Jahren, hat die Tat den Tod einer Person zur Folge oder wird sie in der Absicht begangen, ein institutionalisiertes Regime der systematischen Unterdrückung und Beherrschung einer rassischen Gruppe durch eine andere aufrechtzuerhalten, mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321a-stgb--verbrechen-gegen-die-menschlichkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_401_TextContainer_401) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321a-stgb--verbrechen-gegen-die-menschlichkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321a-stgb--verbrechen-gegen-die-menschlichkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_401_TextContainer_401) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321a-stgb--verbrechen-gegen-die-menschlichkeit) \]
 
 ----
 
@@ -6084,7 +6084,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Nach dem humanitären Völkerrecht zu schützende Personen sind geschützte Personen im Sinne der Genfer Abkommen zum Schutze der Opfer des Krieges, BGBl\. Nr\. 155/1953, und deren Zusatzprotokolle I und II \(Zusatzprotokoll zu den Genfer Abkommen über den Schutz der Opfer internationaler bewaffneter Konflikte \(Protokoll I\) samt Anhängen und Zusatzprotokoll zu den Genfer Abkommen über den Schutz der Opfer nicht internationaler bewaffneter Konflikte \(Protokoll II\) samt Erklärung und Vorbehalten, BGBl\. Nr\. 527/1982\) insbesondere Verwundete, Kranke, Schiffbrüchige, Angehörige der Streitkräfte und Kämpfer der gegnerischen Partei, die sich bedingungslos ergeben haben oder sonst außer Gefecht sind, Kriegsgefangene und Zivilpersonen, sofern und solange letztere nicht unmittelbar an Feindseligkeiten teilnehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321b-stgb--kriegsverbrechen-gegen-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_402_TextContainer_402) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321b-stgb--kriegsverbrechen-gegen-personen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321b-stgb--kriegsverbrechen-gegen-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_402_TextContainer_402) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321b-stgb--kriegsverbrechen-gegen-personen) \]
 
 ----
 
@@ -6100,7 +6100,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ist mit Freiheitsstrafe von einem bis zu zehn Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321c-stgb--kriegsverbrechen-gegen-eigentum-und-sonstige-rechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_403_TextContainer_403) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321c-stgb--kriegsverbrechen-gegen-eigentum-und-sonstige-rechte)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321c-stgb--kriegsverbrechen-gegen-eigentum-und-sonstige-rechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_403_TextContainer_403) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321c-stgb--kriegsverbrechen-gegen-eigentum-und-sonstige-rechte) \]
 
 ----
 
@@ -6116,7 +6116,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer im Zusammenhang mit einem bewaffneten Konflikt die durch die Genfer Abkommen zum Schutze der Opfer des Krieges oder deren Protokoll III anerkannten Schutzzeichen, die Parlamentärflagge oder die Flagge, die militärischen Abzeichen oder die Uniform des Feindes, neutraler oder anderer nicht am Konflikt beteiligter Staaten, oder der Vereinten Nationen missbraucht und dadurch die schwere Verletzung einer Person \(§ 84 Abs\. 1\) verursacht, ist mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat die Tat den Tod einer Person zu Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321d-stgb--kriegsverbrechen-gegen-internationale-missionen-und-missbrauch-von-schutz--und-nationalitätszeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_404_TextContainer_404) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321d-stgb--kriegsverbrechen-gegen-internationale-missionen-und-missbrauch-von-schutz--und-nationalitätszeichen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321d-stgb--kriegsverbrechen-gegen-internationale-missionen-und-missbrauch-von-schutz--und-nationalitätszeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_404_TextContainer_404) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321d-stgb--kriegsverbrechen-gegen-internationale-missionen-und-missbrauch-von-schutz--und-nationalitätszeichen) \]
 
 ----
 
@@ -6150,7 +6150,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat eine Tat nach Abs\. 1 Z 1 bis 10 die schwere Verletzung \(§ 84 Abs\. 1\) einer nach dem humanitären Völkerrecht zu schützenden Person \(§ 321b Abs\. 6\) zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie den Tod einer solchen Person zur Folge, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321e-stgb--kriegsverbrechen-des-einsatzes-verbotener-methoden-der-kriegsführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_405_TextContainer_405) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321e-stgb--kriegsverbrechen-des-einsatzes-verbotener-methoden-der-kriegsführung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321e-stgb--kriegsverbrechen-des-einsatzes-verbotener-methoden-der-kriegsführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_405_TextContainer_405) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321e-stgb--kriegsverbrechen-des-einsatzes-verbotener-methoden-der-kriegsführung) \]
 
 ----
 
@@ -6168,7 +6168,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat die Tat die schwere Körperverletzung einer Person \(§ 84 Abs\. 1\) zur Folge, so ist der Täter mit Freiheitsstrafe von fünf bis zu fünfzehn Jahren, hat sie den Tod einer Person zur Folge oder sind die verwendeten Mittel \(Abs\. 1\) zur Massenvernichtung bestimmt und geeignet, mit Freiheitsstrafe von zehn bis zu zwanzig Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321f-stgb--kriegsverbrechen-des-einsatzes-verbotener-mittel-der-kriegsführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_406_TextContainer_406) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321f-stgb--kriegsverbrechen-des-einsatzes-verbotener-mittel-der-kriegsführung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321f-stgb--kriegsverbrechen-des-einsatzes-verbotener-mittel-der-kriegsführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_406_TextContainer_406) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321f-stgb--kriegsverbrechen-des-einsatzes-verbotener-mittel-der-kriegsführung) \]
 
 ----
 
@@ -6178,7 +6178,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Vorgesetzte sind militärische oder zivile Vorgesetzte sowie Personen, die ohne militärischer oder ziviler Vorgesetzter zu sein, in einer Truppe, in einer zivilen Organisation oder in einem Unternehmen tatsächliche Führungsgewalt und Kontrolle ausüben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321g-stgb--verantwortlichkeit-als-vorgesetzter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_407_TextContainer_407) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321g-stgb--verantwortlichkeit-als-vorgesetzter)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321g-stgb--verantwortlichkeit-als-vorgesetzter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_407_TextContainer_407) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321g-stgb--verantwortlichkeit-als-vorgesetzter) \]
 
 ----
 
@@ -6188,7 +6188,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer als Vorgesetzter \(§ 321g Abs\. 2\) eine im Abs\. 1 mit Strafe bedrohte Handlung fahrlässig begeht, ist mit Freiheitsstrafe bis zu drei Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321h-stgb--verletzung-der-aufsichtspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_408_TextContainer_408) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321h-stgb--verletzung-der-aufsichtspflicht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321h-stgb--verletzung-der-aufsichtspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_408_TextContainer_408) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321h-stgb--verletzung-der-aufsichtspflicht) \]
 
 ----
 
@@ -6196,7 +6196,7 @@ Der Nationalrat hat beschlossen:
 
 > Ein Vorgesetzter \(§ 321g Abs\. 2\), der es unterlässt, eine Tat nach diesem Abschnitt, die ein Untergebener begangen hat, unverzüglich den für die Untersuchung oder Verfolgung solcher Taten zuständigen Stellen zur Kenntnis zu bringen, ist mit Freiheitsstrafe von sechs Monaten bis zu fünf Jahren zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321i-stgb--unterlassen-der-meldung-einer-straftat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_409_TextContainer_409) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321i-stgb--unterlassen-der-meldung-einer-straftat)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321i-stgb--unterlassen-der-meldung-einer-straftat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_409_TextContainer_409) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321i-stgb--unterlassen-der-meldung-einer-straftat) \]
 
 ----
 
@@ -6204,7 +6204,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Täter ist wegen einer Tat nach den §§ 321b bis 321i nicht zu bestrafen, wenn er die Tat in Ausführung eines militärischen Befehls oder einer sonstigen Anordnung von vergleichbarer Bindungswirkung begeht, sofern der Täter nicht erkennt, dass der Befehl oder die Anordnung rechtswidrig ist und deren Rechtswidrigkeit auch nicht offensichtlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321j-stgb--handeln-auf-befehl-oder-sonstige-anordnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_410_TextContainer_410) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321j-stgb--handeln-auf-befehl-oder-sonstige-anordnung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321j-stgb--handeln-auf-befehl-oder-sonstige-anordnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_410_TextContainer_410) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321j-stgb--handeln-auf-befehl-oder-sonstige-anordnung) \]
 
 ----
 
@@ -6216,7 +6216,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Sinne des Abs\. 1 bedeutet „Angriffshandlung“ eine gegen die Souveränität, die territoriale Unversehrtheit oder die politische Unabhängigkeit eines Staates gerichtete oder sonst mit der Satzung der Vereinten Nationen unvereinbare Anwendung von Waffengewalt durch einen anderen Staat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321k-stgb--verbrechen-der-aggression) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_411_TextContainer_411) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321k-stgb--verbrechen-der-aggression)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-321k-stgb--verbrechen-der-aggression) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=321k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_411_TextContainer_411) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-321k-stgb--verbrechen-der-aggression) \]
 
 ----
 
@@ -6236,7 +6236,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Welche Bundesgesetze mit dem Tag des Inkrafttretens dieses Bundesgesetzes aufgehoben oder an die Bestimmungen dieses Bundesgesetzes angepaßt werden, bestimmen besondere Bundesgesetze\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-322-stgb--inkrafttreten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=322) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_412_TextContainer_412) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-322-stgb--inkrafttreten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-322-stgb--inkrafttreten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=322) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_412_TextContainer_412) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-322-stgb--inkrafttreten) \]
 
 ----
 
@@ -6250,7 +6250,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Bei einer Tat, wegen der zum Zeitpunkt des Inkrafttretens des Strafprozessreformgesetzes, BGBl\. I Nr\. 19/2004, bereits gerichtliche Fahndungsmaßnahmen gegen den Beschuldigten eingeleitet waren oder Anklage eingebracht worden ist, wird die Zeit, während der wegen dieser Tat Fahndungsmaßnahmen aufrecht sind oder ein Hauptverfahren anhängig ist, nicht in die Verjährungsfrist eingerechnet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-323-stgb--übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=323) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_413_TextContainer_413) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-323-stgb--übergangsbestimmungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-323-stgb--übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=323) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_413_TextContainer_413) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-323-stgb--übergangsbestimmungen) \]
 
 ----
 
@@ -6258,7 +6258,7 @@ Der Nationalrat hat beschlossen:
 
 > Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Justiz betraut\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-324-stgb--vollzugsklausel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=324) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_414_TextContainer_414) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-324-stgb--vollzugsklausel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-324-stgb--vollzugsklausel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=324) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_414_TextContainer_414) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.017.md#-324-stgb--vollzugsklausel) \]
 
 ----
 

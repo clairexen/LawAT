@@ -879,7 +879,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein Anfangsverdacht liegt vor, wenn auf Grund bestimmter Anhaltspunkte angenommen werden kann, dass eine Straftat begangen worden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-1-stpo--das-strafverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-1-stpo--das-strafverfahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-1-stpo--das-strafverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-1-stpo--das-strafverfahren) \]
 
 ----
 
@@ -889,7 +889,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Im Hauptverfahren hat das Gericht die der Anklage zu Grunde liegende Tat und die Schuld des Angeklagten von Amts wegen aufzuklären\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-2-stpo--amtswegigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-2-stpo--amtswegigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-2-stpo--amtswegigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-2-stpo--amtswegigkeit) \]
 
 ----
 
@@ -899,7 +899,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Alle Richter, Staatsanwälte und kriminalpolizeilichen Organe haben ihr Amt unparteilich und unvoreingenommen auszuüben und jeden Anschein der Befangenheit zu vermeiden\. Sie haben die zur Belastung und die zur Verteidigung des Beschuldigten dienenden Umstände mit der gleichen Sorgfalt zu ermitteln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-3-stpo--objektivität-und-wahrheitserforschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-3-stpo--objektivität-und-wahrheitserforschung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-3-stpo--objektivität-und-wahrheitserforschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-3-stpo--objektivität-und-wahrheitserforschung) \]
 
 ----
 
@@ -911,7 +911,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Entscheidung des Gerichts hat die Anklage zu erledigen, darf sie jedoch nicht überschreiten\. An eine rechtliche Beurteilung ist das Gericht nicht gebunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-4-stpo--anklagegrundsatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-4-stpo--anklagegrundsatz)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-4-stpo--anklagegrundsatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-4-stpo--anklagegrundsatz) \]
 
 ----
 
@@ -923,7 +923,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Es ist unzulässig, Personen zur Begehung von strafbaren Handlungen in einer dem Grundsatz des fairen Verfahrens \(Art\. 6 Abs\. 1 der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl\. Nr\. 210/1958\) widerstreitenden Weise zu verleiten, oder durch heimlich bestellte Personen zu einem Geständnis zu verlocken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-5-stpo--gesetz--und-verhältnismäßigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-5-stpo--gesetz--und-verhältnismäßigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-5-stpo--gesetz--und-verhältnismäßigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-5-stpo--gesetz--und-verhältnismäßigkeit) \]
 
 ----
 
@@ -933,7 +933,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Jede am Verfahren beteiligte oder von der Ausübung von Zwangsmaßnahmen betroffene Person hat das Recht auf angemessenes rechtliches Gehör und auf Information über Anlass und Zweck der sie betreffenden Verfahrenshandlung sowie über ihre wesentlichen Rechte im Verfahren\. Der Beschuldigte hat das Recht, alle gegen ihn vorliegende Verdachtsgründe zu erfahren und vollständige Gelegenheit zu deren Beseitigung und zu seiner Rechtfertigung zu erhalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-6-stpo--rechtliches-gehör) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-6-stpo--rechtliches-gehör)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-6-stpo--rechtliches-gehör) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-6-stpo--rechtliches-gehör) \]
 
 ----
 
@@ -943,7 +943,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Beschuldigte darf nicht gezwungen werden, sich selbst zu belasten\. Es steht ihm jederzeit frei, auszusagen oder die Aussage zu verweigern\. Er darf nicht durch Zwangsmittel, Drohungen, Versprechungen oder Vorspiegelungen zu Äußerungen genötigt oder bewogen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-7-stpo--recht-auf-verteidigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-7-stpo--recht-auf-verteidigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-7-stpo--recht-auf-verteidigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-7-stpo--recht-auf-verteidigung) \]
 
 ----
 
@@ -951,7 +951,7 @@ Der Nationalrat hat beschlossen:
 
 > Jede Person gilt bis zu ihrer rechtskräftigen Verurteilung als unschuldig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-8-stpo--unschuldsvermutung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-8-stpo--unschuldsvermutung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-8-stpo--unschuldsvermutung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-8-stpo--unschuldsvermutung) \]
 
 ----
 
@@ -961,7 +961,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Verfahren, in denen ein Beschuldigter in Haft gehalten wird, sind mit besonderer Beschleunigung zu führen\. Jeder verhaftete Beschuldigte hat Anspruch auf ehest mögliche Urteilsfällung oder Enthaftung während des Verfahrens\. Alle im Strafverfahren tätigen Behörden, Einrichtungen und Personen sind verpflichtet, auf eine möglichst kurze Dauer der Haft hinzuwirken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-9-stpo--beschleunigungsgebot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-9-stpo--beschleunigungsgebot)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-9-stpo--beschleunigungsgebot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-9-stpo--beschleunigungsgebot) \]
 
 ----
 
@@ -973,7 +973,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Alle im Strafverfahren tätigen Behörden, Einrichtungen und Personen haben Opfer während des Verfahrens mit Achtung ihrer persönlichen Würde zu behandeln und deren Interesse an der Wahrung ihres höchstpersönlichen Lebensbereiches zu beachten\. Dies gilt insbesondere für die Weitergabe von Lichtbildern und die Mitteilung von Angaben zur Person, die zu einem Bekanntwerden der Identität in einem größeren Personenkreis führen kann, ohne dass dies durch Zwecke der Strafrechtspflege geboten ist\. Staatsanwaltschaft und Gericht haben bei ihren Entscheidungen über die Beendigung des Verfahrens stets die Wiedergutmachungsinteressen der Opfer zu prüfen und im größtmöglichen Ausmaß zu fördern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-10-stpo--beteiligung-der-opfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-10-stpo--beteiligung-der-opfer)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-10-stpo--beteiligung-der-opfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-10-stpo--beteiligung-der-opfer) \]
 
 ----
 
@@ -983,7 +983,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Geschworene und Schöffen sind über ihre Aufgaben und Befugnisse sowie über den Ablauf des Verfahrens zu informieren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-11-stpo--geschworene-und-schöffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-11-stpo--geschworene-und-schöffen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-11-stpo--geschworene-und-schöffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-11-stpo--geschworene-und-schöffen) \]
 
 ----
 
@@ -993,7 +993,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Gericht hat bei der Urteilsfällung nur auf das Rücksicht zu nehmen, was in der Hauptverhandlung vorgekommen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-12-stpo--mündlichkeit-und-öffentlichkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-12-stpo--mündlichkeit-und-öffentlichkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-12-stpo--mündlichkeit-und-öffentlichkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-12-stpo--mündlichkeit-und-öffentlichkeit) \]
 
 ----
 
@@ -1005,7 +1005,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soweit ein Beweis unmittelbar aufgenommen werden kann, darf er nicht durch einen mittelbaren ersetzt werden\. Der Inhalt von Akten und anderen Schriftstücken darf nur soweit als Beweis verwertet werden, als er in einer nach diesem Gesetz zulässigen Weise wiedergegeben wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-13-stpo--unmittelbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-13-stpo--unmittelbarkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-13-stpo--unmittelbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-13-stpo--unmittelbarkeit) \]
 
 ----
 
@@ -1013,7 +1013,7 @@ Der Nationalrat hat beschlossen:
 
 > Ob Tatsachen als erwiesen festzustellen sind, hat das Gericht auf Grund der Beweise nach freier Überzeugung zu entscheiden; im Zweifel stets zu Gunsten des Angeklagten oder sonst in seinen Rechten Betroffenen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-14-stpo--freie-beweiswürdigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-14-stpo--freie-beweiswürdigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-14-stpo--freie-beweiswürdigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-14-stpo--freie-beweiswürdigung) \]
 
 ----
 
@@ -1021,7 +1021,7 @@ Der Nationalrat hat beschlossen:
 
 > Vorfragen sind im Strafverfahren selbstständig zu beurteilen\. Entscheidungen zuständiger Behörden können jedoch abgewartet werden, wenn mit ihnen in absehbarer Zeit zu rechnen ist\. An die rechtsgestaltenden Wirkungen von Entscheidungen der Zivilgerichte und anderer Behörden sind die Strafgerichte jedoch gebunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-15-stpo--vorfragen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-15-stpo--vorfragen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-15-stpo--vorfragen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-15-stpo--vorfragen) \]
 
 ----
 
@@ -1029,7 +1029,7 @@ Der Nationalrat hat beschlossen:
 
 > Wenn ein Rechtsmittel oder ein Rechtsbehelf nur zu Gunsten des Beschuldigten erhoben wurde, darf der Beschuldigte durch den Inhalt einer darüber ergehenden gerichtlichen Entscheidung im Ermittlungsverfahren und in der Straffrage nicht schlechter gestellt werden, als wenn die Entscheidung nicht angefochten worden wäre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-16-stpo--verbot-der-verschlechterung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-16-stpo--verbot-der-verschlechterung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-16-stpo--verbot-der-verschlechterung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-16-stpo--verbot-der-verschlechterung) \]
 
 ----
 
@@ -1039,7 +1039,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Bestimmungen über die Fortsetzung, die Fortführung, die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie über die Nichtigkeitsbeschwerde zur Wahrung des Gesetzes bleiben hievon unberührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-17-stpo--verbot-wiederholter-strafverfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-17-stpo--verbot-wiederholter-strafverfolgung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-17-stpo--verbot-wiederholter-strafverfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-17-stpo--verbot-wiederholter-strafverfolgung) \]
 
 ----
 
@@ -1067,7 +1067,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; aufzuheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-18-stpo--kriminalpolizei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-18-stpo--kriminalpolizei)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-18-stpo--kriminalpolizei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-18-stpo--kriminalpolizei) \]
 
 ----
 
@@ -1089,7 +1089,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soweit dieses Gesetz im Einzelnen nichts anderes bestimmt, richten sich Organisation und Aufgaben der Staatsanwaltschaften nach den Vorschriften des Staatsanwaltschaftsgesetzes \(StAG\), BGBl\. Nr\. 164/1986\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-19-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-19-stpo--allgemeines)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-19-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-19-stpo--allgemeines) \]
 
 ----
 
@@ -1101,7 +1101,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Staatsanwaltschaft ist auch für die Erledigung von Rechtshilfeersuchen in\- und ausländischer Justizbehörden zuständig, soweit im Einzelnen nichts anderes bestimmt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-20-stpo--staatsanwaltschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-20-stpo--staatsanwaltschaft)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-20-stpo--staatsanwaltschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-20-stpo--staatsanwaltschaft) \]
 
 ----
 
@@ -1133,7 +1133,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` In den Fällen des Zusammenhangs mit in Abs\. 1 erwähnten Straftaten hat die WKStA gemäß den §§ 25a, 26 und 27 vorzugehen\. Hinsichtlich anderer Taten hat die WKStA das Verfahren zu trennen und der danach zuständigen Staatsanwaltschaft abzutreten, soweit ihre Zuständigkeit nicht gemäß § 20b begründet wäre; darüber hinaus kann die WKStA auf diese Weise vorgehen, wenn das Verfahren wegen der ihre Zuständigkeit begründenden Straftaten beendet wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-20a-stpo--zentrale-staatsanwaltschaft-zur-verfolgung-von-wirtschaftsstrafsachen-und-korruption-wksta) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=20a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-20a-stpo--zentrale-staatsanwaltschaft-zur-verfolgung-von-wirtschaftsstrafsachen-und-korruption-wksta)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-20a-stpo--zentrale-staatsanwaltschaft-zur-verfolgung-von-wirtschaftsstrafsachen-und-korruption-wksta) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=20a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-20a-stpo--zentrale-staatsanwaltschaft-zur-verfolgung-von-wirtschaftsstrafsachen-und-korruption-wksta) \]
 
 ----
 
@@ -1147,7 +1147,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Staatsanwaltschaften haben der WKStA unverzüglich über anhängige Verfahren nach den vorstehenden Absätzen zu berichten, die von ihr effizienter und zügiger geführt werden könnten\. Bis zur Entscheidung der WKStA haben sie ungeachtet dessen die erforderlichen Anordnungen zu treffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-20b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=20b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-20b-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-20b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=20b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-20b-stpo) \]
 
 ----
 
@@ -1157,7 +1157,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Oberstaatsanwaltschaft führt die Aufsicht über die ihr unterstellten Staatsanwaltschaften und ist berechtigt, sich an jedem Verfahren in ihrem Zuständigkeitsbereich unmittelbar zu beteiligen\. Im Einzelfall kann sie die Aufgaben und Befugnisse einer Staatsanwaltschaft übernehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-21-stpo--oberstaatsanwaltschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-21-stpo--oberstaatsanwaltschaft)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-21-stpo--oberstaatsanwaltschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-21-stpo--oberstaatsanwaltschaft) \]
 
 ----
 
@@ -1165,7 +1165,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Generalprokuratur wirkt an allen Strafverfahren des Obersten Gerichtshofs mit\. Dabei schreitet sie nicht als Anklagebehörde ein; sie vertritt die Interessen des Staates in der Rechtspflege\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-22-stpo--generalprokuratur) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-22-stpo--generalprokuratur)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-22-stpo--generalprokuratur) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-22-stpo--generalprokuratur) \]
 
 ----
 
@@ -1177,7 +1177,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Staatsanwaltschaften haben Fälle, in denen sie eine Beschwerde für erforderlich halten, von Amts wegen den Oberstaatsanwaltschaften vorzulegen; diese entscheiden, ob die Fälle an die Generalprokuratur weiter zu leiten sind\. Im Übrigen ist jedermann berechtigt, die Erhebung einer Nichtigkeitsbeschwerde zur Wahrung des Gesetzes anzuregen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-23-stpo--nichtigkeitsbeschwerde-zur-wahrung-des-gesetzes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-23-stpo--nichtigkeitsbeschwerde-zur-wahrung-des-gesetzes)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-23-stpo--nichtigkeitsbeschwerde-zur-wahrung-des-gesetzes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-23-stpo--nichtigkeitsbeschwerde-zur-wahrung-des-gesetzes) \]
 
 ----
 
@@ -1185,7 +1185,7 @@ Der Nationalrat hat beschlossen:
 
 > Nimmt eine Staatsanwaltschaft bei einem Rechtsmittelgericht zu einem Rechtsmittel oder Rechtsbehelf Stellung, so hat das Gericht diese Stellungnahme dem gegnerischen Beteiligten zur Äußerung binnen einer angemessen festzusetzenden Frist zuzustellen\. Diese Zustellung kann unterbleiben, wenn die Staatsanwaltschaft lediglich zu Gunsten dieses Beteiligten Stellung nimmt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-24-stpo--stellungnahmen-von-staatsanwaltschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-24-stpo--stellungnahmen-von-staatsanwaltschaften)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-24-stpo--stellungnahmen-von-staatsanwaltschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-24-stpo--stellungnahmen-von-staatsanwaltschaften) \]
 
 ----
 
@@ -1208,7 +1208,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` dem Opfer die Anzeige im Ausland möglich gewesen wäre, es sei denn, dass es sich um eine Straftat mit schweren Folgen handelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-25-stpo--örtliche-zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-25-stpo--örtliche-zuständigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-25-stpo--örtliche-zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-25-stpo--örtliche-zuständigkeit) \]
 
 ----
 
@@ -1218,7 +1218,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine unzuständige Staatsanwaltschaft hat bei ihr einlangende Anzeigen, Berichte und Rechtshilfeersuchen an die zuständige weiterzuleiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-25a-stpo--abtretung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=25a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-25a-stpo--abtretung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-25a-stpo--abtretung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=25a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-25a-stpo--abtretung) \]
 
 ----
 
@@ -1230,7 +1230,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Verhältnis zur WKStA ist ein Zusammenhang nach den vorstehenden Bestimmungen nicht anzunehmen, wenn das Verfahren wegen der Straftaten, die eine Zuständigkeit der WKStA begründen würde, im Hinblick auf die Dauer und den Umfang der Ermittlungen oder das Gewicht der Straftat von untergeordneter Bedeutung ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-26-stpo--zusammenhang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-26-stpo--zusammenhang)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-26-stpo--zusammenhang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-26-stpo--zusammenhang) \]
 
 ----
 
@@ -1238,7 +1238,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Staatsanwaltschaft kann auf Antrag des Beschuldigten oder von Amts wegen anordnen, dass das Ermittlungsverfahren wegen einzelner Straftaten oder gegen einzelne Beschuldigte getrennt zu führen ist, insbesondere um Verzögerungen zu vermeiden, schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 Datenschutzgesetz – DSG, BGBl\. I Nr\. 165/1999\) eines Beschuldigten zu wahren oder die Haft eines Beschuldigten zu verkürzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-27-stpo--trennung-von-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-27-stpo--trennung-von-verfahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-27-stpo--trennung-von-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-27-stpo--trennung-von-verfahren) \]
 
 ----
 
@@ -1248,7 +1248,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Abs\. 1 ist unter den dort beschriebenen Umständen auch vorzugehen, wenn das Absehen von der Einleitung eines Ermittlungsverfahrens zu prüfen ist \(§ 197a\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-28-stpo--bestimmung-der-zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-28-stpo--bestimmung-der-zuständigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-28-stpo--bestimmung-der-zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-28-stpo--bestimmung-der-zuständigkeit) \]
 
 ----
 
@@ -1256,7 +1256,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Generalprokuratur hat für den Fall eines Zuständigkeitskonflikts zwischen WKStA und anderen Staatsanwaltschaften gemäß § 28 zu entscheiden, welchen von ihnen die Zuständigkeit zukommt\. Gleiches gilt für den Fall, dass der WKStA ein Verfahren aus den in § 28 Abs\. 1 oder Abs\. 2 genannten Gründen abgenommen werden soll\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-28a-stpo--zuständigkeitskonflikt-bei-verfahren-der-wksta) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-28a-stpo--zuständigkeitskonflikt-bei-verfahren-der-wksta)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-28a-stpo--zuständigkeitskonflikt-bei-verfahren-der-wksta) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md#-28a-stpo--zuständigkeitskonflikt-bei-verfahren-der-wksta) \]
 
 ----
 
@@ -1276,7 +1276,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soweit sich die Zuständigkeit der Gerichte nach der Höhe der angedrohten Freiheitsstrafe richtet, sind die Beschränkung der Strafbemessung durch § 287 Abs\. 1 letzter Satz StGB und die Möglichkeit einer Überschreitung des Höchstmaßes der Strafe nach § 313 StGB bei der Bestimmung der sachlichen Zuständigkeit zu berücksichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-29-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-29-stpo--allgemeines)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-29-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-29-stpo--allgemeines) \]
 
 ----
 
@@ -1328,7 +1328,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Bezirksgericht entscheidet durch Einzelrichter\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-30-stpo--bezirksgericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-30-stpo--bezirksgericht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-30-stpo--bezirksgericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-30-stpo--bezirksgericht) \]
 
 ----
 
@@ -1418,7 +1418,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` die Entscheidung über Anträge auf Fortführung \(§§ 195 und 209a Abs\. 6\) und Anträge auf Verfolgung \(§ 197c\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-31-stpo--landesgericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-31-stpo--landesgericht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-31-stpo--landesgericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-31-stpo--landesgericht) \]
 
 ----
 
@@ -1452,7 +1452,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Geschworenen werden in dem vom Gesetz \(15\. Hauptstück\) vorgesehenen Umfang tätig; die Schöffen üben in der Hauptverhandlung das Richteramt im vollen Umfang aus\. Soweit im Einzelnen nichts anderes bestimmt wird, sind die für Richter geltenden Vorschriften auch auf Geschworene und Schöffen anzuwenden\. Die Voraussetzungen und das Verfahren zur Berufung von Geschworenen und Schöffen sind im Geschworenen\- und Schöffengesetz 1990, BGBl\. Nr\. 256, geregelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-32-stpo--landesgericht-als-geschworenen--und-schöffengericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-32-stpo--landesgericht-als-geschworenen--und-schöffengericht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-32-stpo--landesgericht-als-geschworenen--und-schöffengericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-32-stpo--landesgericht-als-geschworenen--und-schöffengericht) \]
 
 ----
 
@@ -1462,7 +1462,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach den Bestimmungen der §§ 31 und 32 entscheidet das Landesgericht durch Einzelrichter oder als Geschworenen\- und Schöffengericht\. § 213 Abs\. 6 zweiter und dritter Satz sind nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-32a-stpo--zuständigkeit-für-wirtschaftsstrafsachen-und-korruption) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=32a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-32a-stpo--zuständigkeit-für-wirtschaftsstrafsachen-und-korruption)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-32a-stpo--zuständigkeit-für-wirtschaftsstrafsachen-und-korruption) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=32a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-32a-stpo--zuständigkeit-für-wirtschaftsstrafsachen-und-korruption) \]
 
 ----
 
@@ -1484,7 +1484,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Einzelrichter des Oberlandesgerichts entscheidet über Beschwerden gegen Entscheidungen über den Pauschalkostenbeitrag gemäß § 196 Abs\. 2, über den Betrag zu den Kosten der Verteidigung im Ermittlungsverfahren gemäß § 196a, über die Kosten des Strafverfahrens nach dem 18\. Hauptstück und über die Bestimmung der Gebühren der Sachverständigen und Dolmetscher nach dem GebAG\. In den übrigen Fällen entscheidet das Oberlandesgericht durch einen Senat von drei Richtern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-33-stpo--oberlandesgericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-33-stpo--oberlandesgericht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-33-stpo--oberlandesgericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-33-stpo--oberlandesgericht) \]
 
 ----
 
@@ -1506,7 +1506,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Im Übrigen bleiben die Bestimmungen des Bundesgesetzes über den Obersten Gerichtshof, BGBl\. Nr\. 328/1968, unberührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-34-stpo--oberster-gerichtshof) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-34-stpo--oberster-gerichtshof)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-34-stpo--oberster-gerichtshof) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-34-stpo--oberster-gerichtshof) \]
 
 ----
 
@@ -1516,7 +1516,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Im Übrigen entscheiden die Gerichte mit Beschluss \(§ 86\), soweit sie nicht bloß eine auf den Fortgang des Verfahrens oder die Bekanntmachung einer gerichtlichen Entscheidung gerichtete Verfügung erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-35-stpo--form-gerichtlicher-entscheidungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-35-stpo--form-gerichtlicher-entscheidungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-35-stpo--form-gerichtlicher-entscheidungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-35-stpo--form-gerichtlicher-entscheidungen) \]
 
 ----
 
@@ -1534,7 +1534,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wenn sich zum Zeitpunkt der Einbringung der Anklage ein Angeklagter in Untersuchungshaft befindet und die Verhandlung und Entscheidung der Strafsache dem Bezirksgericht zusteht, ist das Bezirksgericht örtlich zuständig, an dessen Sitz sich die Staatsanwaltschaft befindet, die nach den §§ 25 bis 28 für das Ermittlungsverfahren zuständig war\. Wird der Angeklagte nach diesem Zeitpunkt freigelassen, so ändert dies die Zuständigkeit nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-36-stpo--örtliche-zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-36-stpo--örtliche-zuständigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-36-stpo--örtliche-zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-36-stpo--örtliche-zuständigkeit) \]
 
 ----
 
@@ -1548,7 +1548,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Das Gericht kann auf Antrag der Staatsanwaltschaft oder eines Angeklagten oder von Amts wegen unter den Voraussetzungen des § 27 StPO eine getrennte Führung der Verfahren anordnen; § 36 Abs\. 4 gilt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-37-stpo--zuständigkeit-des-zusammenhangs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-37-stpo--zuständigkeit-des-zusammenhangs)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-37-stpo--zuständigkeit-des-zusammenhangs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-37-stpo--zuständigkeit-des-zusammenhangs) \]
 
 ----
 
@@ -1556,7 +1556,7 @@ Der Nationalrat hat beschlossen:
 
 > Ein Gericht, das sich für unzuständig hält, hat bei ihm eingebrachte Anträge, Einsprüche und Beschwerden dem zuständigen zu überweisen; § 213 Abs\. 6 bleibt unberührt\. Bei Gefahr im Verzug hat jedes Gericht innerhalb seiner sachlichen Zuständigkeit vor der Überweisung unaufschiebbare Entscheidungen zu treffen und unaufschiebbare Beweisaufnahmen durchzuführen\. Sofern auch das Gericht, dem überwiesen wird, seine Zuständigkeit bezweifelt, hat es die Entscheidung des gemeinsam übergeordneten Gerichts zu erwirken, gegen die ein Rechtsmittel nicht zusteht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-38-stpo--kompetenzkonflikt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-38-stpo--kompetenzkonflikt)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-38-stpo--kompetenzkonflikt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-38-stpo--kompetenzkonflikt) \]
 
 ----
 
@@ -1568,7 +1568,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Antrag auf Delegierung steht der Staatsanwaltschaft und dem Beschuldigten zu; das Gericht kann sie anregen\. Der Antrag ist bei dem Gericht einzubringen, das für das Verfahren zuständig ist, und hat eine Begründung zu enthalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-39-stpo--delegierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-39-stpo--delegierung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-39-stpo--delegierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-39-stpo--delegierung) \]
 
 ----
 
@@ -1580,7 +1580,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine Stimmenthaltung ist außer im Fall des § 42 Abs\. 3 nicht zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-40-stpo--vorsitz-und-abstimmung-in-den-senaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-40-stpo--vorsitz-und-abstimmung-in-den-senaten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-40-stpo--vorsitz-und-abstimmung-in-den-senaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-40-stpo--vorsitz-und-abstimmung-in-den-senaten) \]
 
 ----
 
@@ -1592,7 +1592,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Entstehen unterschiedliche Ansichten darüber, welche von zwei Meinungen für den Angeklagten die günstigere ist, so ist zunächst darüber abzustimmen\. Ergibt sich auch dabei keine Mehrheit, so gibt die Stimme des Vorsitzenden den Ausschlag\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-41-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-41-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-41-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-41-stpo) \]
 
 ----
 
@@ -1604,7 +1604,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wer den Angeklagten auch nur in einem Fall für nicht schuldig hält, kann sich bei der Beratung über die Strafe der Stimme enthalten\. Diese ist der für den Angeklagten jeweils günstigsten Meinung zuzuzählen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-42-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-42-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-42-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.002.md#-42-stpo) \]
 
 ----
 
@@ -1628,7 +1628,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ein Richter ist ebenso von der Entscheidung über einen Antrag auf Wiederaufnahme oder einen Antrag auf Erneuerung des Strafverfahrens \(§ 363a\) und von der Mitwirkung und Entscheidung im erneuerten Verfahren ausgeschlossen, wenn er im Verfahren bereits als Richter tätig gewesen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-43-stpo--ausgeschlossenheit-von-richtern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-43-stpo--ausgeschlossenheit-von-richtern)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-43-stpo--ausgeschlossenheit-von-richtern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-43-stpo--ausgeschlossenheit-von-richtern) \]
 
 ----
 
@@ -1640,7 +1640,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Allen Beteiligten des Verfahrens steht der Antrag auf Ablehnung eines Richters wegen Ausschließung zu\. Er ist bei dem Richter einzubringen, dem die Ausschließung gemäß Abs\. 2 anzuzeigen wäre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-44-stpo--anzeige-der-ausgeschlossenheit-und-antrag-auf-ablehnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-44-stpo--anzeige-der-ausgeschlossenheit-und-antrag-auf-ablehnung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-44-stpo--anzeige-der-ausgeschlossenheit-und-antrag-auf-ablehnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-44-stpo--anzeige-der-ausgeschlossenheit-und-antrag-auf-ablehnung) \]
 
 ----
 
@@ -1652,7 +1652,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Gegen einen Beschluss nach Abs\. 2 steht ein selbstständiges Rechtsmittel nicht zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-45-stpo--entscheidung-über-ausschließung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-45-stpo--entscheidung-über-ausschließung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-45-stpo--entscheidung-über-ausschließung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-45-stpo--entscheidung-über-ausschließung) \]
 
 ----
 
@@ -1660,7 +1660,7 @@ Der Nationalrat hat beschlossen:
 
 > Für die Ausschließung und Ablehnung von Geschworenen und Schöffen sind die Bestimmungen über Richter sinngemäß mit der Maßgabe anzuwenden, dass über die Ablehnung der Vorsitzende des Geschworenen\- oder Schöffengerichts zu entscheiden hat\. Für Protokollführer gelten die Ausschließungsgründe des § 43 Abs\. 1; über ihre Ablehnung entscheidet der Richter oder der Vorsitzende des jeweiligen Senates\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-46-stpo--ausschließung-von-geschworenen-schöffen-und-protokollführern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-46-stpo--ausschließung-von-geschworenen-schöffen-und-protokollführern)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-46-stpo--ausschließung-von-geschworenen-schöffen-und-protokollführern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-46-stpo--ausschließung-von-geschworenen-schöffen-und-protokollführern) \]
 
 ----
 
@@ -1678,7 +1678,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über die Befangenheit hat der Leiter der Behörde, der das Organ angehört, im Fall der Befangenheit des Leiters dieser Behörde der Leiter der übergeordneten Behörde im Dienstaufsichtsweg zu entscheiden und das Erforderliche zu veranlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-47-stpo--befangenheit-von-kriminalpolizei-und-staatsanwaltschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-47-stpo--befangenheit-von-kriminalpolizei-und-staatsanwaltschaft)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-47-stpo--befangenheit-von-kriminalpolizei-und-staatsanwaltschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-47-stpo--befangenheit-von-kriminalpolizei-und-staatsanwaltschaft) \]
 
 ----
 
@@ -1704,7 +1704,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Bis zum 31\. März eines jeden Jahres hat der Rechtschutzbeauftragte dem Bundesminister für Justiz einen Bericht über seine Tätigkeit und seine Wahrnehmungen im Rahmen seiner Aufgabenerfüllung \(§ 23 Abs\. 1a, § 115l, § 147, § 195 Abs\. 2a, § 209a Abs\. 6\) im vorangegangenen Jahr zu übermitteln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-47a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=47a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-47a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-47a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=47a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-47a-stpo) \]
 
 ----
 
@@ -1732,7 +1732,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soweit die Bestimmungen dieses Gesetzes auf den Beschuldigten verweisen und im Einzelnen nichts anderes bestimmt wird, sind sie auch auf Verdächtige, Angeklagte und auf Personen anzuwenden, gegen die ein Verfahren zur Unterbringung in einem forensisch\-therapeutischen Zentrum nach § 21 StGB geführt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-48-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-48-stpo--definitionen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-48-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-48-stpo--definitionen) \]
 
 ----
 
@@ -1772,7 +1772,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Beschuldigte hat das Recht, dass Opfern, Privatbeteiligten oder Privatanklägern Akteneinsicht \(§ 68\) nur insoweit gewährt wird, als dies zur Wahrung ihrer Interessen erforderlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-49-stpo--rechte-des-beschuldigten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-49-stpo--rechte-des-beschuldigten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-49-stpo--rechte-des-beschuldigten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-49-stpo--rechte-des-beschuldigten) \]
 
 ----
 
@@ -1784,7 +1784,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Umstand der erteilten oder ergänzten Belehrung des Beschuldigten sowie eines Verzichts auf ein Recht des Beschuldigten ist schriftlich festzuhalten \(§§ 95 und 96\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-50-stpo--rechtsbelehrung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-50-stpo--rechtsbelehrung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-50-stpo--rechtsbelehrung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-50-stpo--rechtsbelehrung) \]
 
 ----
 
@@ -1796,7 +1796,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Einfache Auskünfte können auch mündlich erteilt werden\. Hiefür gelten die Bestimmungen über Akteneinsicht sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-51-stpo--akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-51-stpo--akteneinsicht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-51-stpo--akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-51-stpo--akteneinsicht) \]
 
 ----
 
@@ -1816,7 +1816,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Dem Verfahrenshilfeverteidiger sind unverzüglich Kopien des Aktes von Amts wegen, im Haftfall durch das Gericht zuzustellen\. Gleiches gilt für die Fälle des Abs\. 2 Z 2 und 3\. Der Verteidiger des in Haft befindlichen Beschuldigten kann beantragen, dass ihm durch die Staatsanwaltschaft Kopien oder Ausdrucke der in Abs\. 2 Z 2 und 3 angeführten Aktenstücke auch in weiterer Folge von Amts wegen übermittelt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-52-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-52-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-52-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-52-stpo) \]
 
 ----
 
@@ -1826,7 +1826,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soweit Akteneinsicht zusteht, ist sie grundsätzlich während der Amtsstunden in den jeweiligen Amtsräumen zu ermöglichen\. Im Rahmen der technischen Möglichkeiten kann sie auch über Bildschirm oder im Wege elektronischer Datenübertragung gewährt werden\. Es ist unzulässig, dem Beschuldigten oder seinem Vertreter Akten oder Teile davon zur Herstellung von Kopien außerhalb des Amtsgebäudes mitzugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-53-stpo--verfahren-bei-akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-53-stpo--verfahren-bei-akteneinsicht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-53-stpo--verfahren-bei-akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-53-stpo--verfahren-bei-akteneinsicht) \]
 
 ----
 
@@ -1834,7 +1834,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Beschuldigte und sein Verteidiger sind berechtigt, Informationen, die sie im Verfahren in nicht öffentlicher Verhandlung oder im Zuge einer nicht öffentlichen Beweisaufnahme oder durch Akteneinsicht erlangt haben, im Interesse der Verteidigung und anderer überwiegender Interessen zu verwerten\. Es ist ihnen jedoch untersagt, solche Informationen, soweit sie personenbezogene Daten anderer Beteiligter des Verfahrens oder Dritter enthalten und nicht in öffentlicher Verhandlung vorgekommen sind oder sonst öffentlich bekannt wurden, in einem Medienwerk oder sonst auf eine Weise zu veröffentlichen, dass die Mitteilung einer breiten Öffentlichkeit zugänglich wird, wenn dadurch schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 DSG\) anderer Beteiligter des Verfahrens oder Dritter, die gegenüber dem öffentlichen Informationsinteresse überwiegen, verletzt würden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-54-stpo--verbot-der-veröffentlichung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-54-stpo--verbot-der-veröffentlichung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-54-stpo--verbot-der-veröffentlichung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-54-stpo--verbot-der-veröffentlichung) \]
 
 ----
 
@@ -1854,7 +1854,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Kriminalpolizei hat im Ermittlungsverfahren den beantragten Beweis aufzunehmen oder den Antrag mit Anlassbericht \(§ 100 Abs\. 2 Z 2\) der Staatsanwaltschaft vorzulegen\. Die Staatsanwaltschaft hat ihrerseits die Beweisaufnahme zu veranlassen oder den Beschuldigten zu verständigen, aus welchen Gründen sie unterbleibt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-55-stpo--beweisanträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-55-stpo--beweisanträge)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-55-stpo--beweisanträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-55-stpo--beweisanträge) \]
 
 ----
 
@@ -1874,7 +1874,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Ist der Beschuldigte gehörlos oder stumm, so ist ein Dolmetscher für die Gebärdensprache beizuziehen, sofern sich der Beschuldigte in dieser verständigen kann\. Andernfalls ist zu versuchen, mit dem Beschuldigten schriftlich oder auf andere geeignete Art, in der sich der Beschuldigte verständlich machen kann, zu verkehren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-56-stpo--übersetzungshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-56-stpo--übersetzungshilfe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-56-stpo--übersetzungshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.003.md#-56-stpo--übersetzungshilfe) \]
 
 ----
 
@@ -1888,7 +1888,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Verteidiger übt, soweit in diesem Gesetz nichts anderes bestimmt ist, die Verfahrensrechte aus, die dem Beschuldigten zustehen\. Der Beschuldigte kann aber immer selbst Erklärungen abgeben; im Fall einander widersprechender Erklärungen gilt seine\. Ein Verzicht auf Rechtsmittel gegen das Urteil, den der Beschuldigte nicht im Beisein seines Verteidigers und nach Beratung mit diesem abgibt, ist jedoch ohne Wirkung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-57-stpo--rechte-des-verteidigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-57-stpo--rechte-des-verteidigers)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-57-stpo--rechte-des-verteidigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-57-stpo--rechte-des-verteidigers) \]
 
 ----
 
@@ -1902,7 +1902,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Für einen Minderjährigen und eine volljährige Person, die einen gesetzlichen Vertreter nach § 1034 Abs\. 1 Z 2 oder 3 ABGB hat, kann der gesetzliche Vertreter selbst gegen ihren Willen einen Verteidiger bevollmächtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-58-stpo--bevollmächtigung-des-verteidigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-58-stpo--bevollmächtigung-des-verteidigers)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-58-stpo--bevollmächtigung-des-verteidigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-58-stpo--bevollmächtigung-des-verteidigers) \]
 
 ----
 
@@ -1924,7 +1924,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; Ergibt sich im weiteren Verfahren, dass die Erklärung des Beschuldigten falsch war, so ist er vom Gericht nachträglich zum Ersatz dieser Kosten zu verpflichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-59-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-59-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-59-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-59-stpo) \]
 
 ----
 
@@ -1936,7 +1936,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Ausschluss ist aufzuheben, sobald seine Voraussetzungen weggefallen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-60-stpo--ausschluss-des-verteidigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-60-stpo--ausschluss-des-verteidigers)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-60-stpo--ausschluss-des-verteidigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-60-stpo--ausschluss-des-verteidigers) \]
 
 ----
 
@@ -1980,7 +1980,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Beigebung eines Verfahrenshilfeverteidigers gilt, wenn das Gericht nicht im Einzelnen etwas anderes anordnet, für das gesamte weitere Verfahren bis zu dessen rechtskräftigem Abschluss sowie für ein allfälliges Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsbeschwerde oder eines Antrages auf Erneuerung des Strafverfahrens\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-61-stpo--beigebung-eines-verteidigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-61-stpo--beigebung-eines-verteidigers)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-61-stpo--beigebung-eines-verteidigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-61-stpo--beigebung-eines-verteidigers) \]
 
 ----
 
@@ -1996,7 +1996,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Beigebung und Bestellung eines Verteidigers erlöschen jedenfalls mit dem Einschreiten eines bevollmächtigten Verteidigers \(§ 58 Abs\. 2\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-62-stpo--bestellung-eines-verteidigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=62) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-62-stpo--bestellung-eines-verteidigers)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-62-stpo--bestellung-eines-verteidigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=62) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-62-stpo--bestellung-eines-verteidigers) \]
 
 ----
 
@@ -2006,7 +2006,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wurde durch eine Zustellung an den Verteidiger eine Frist ausgelöst, so wird deren Lauf nicht dadurch unterbrochen oder gehemmt, dass die Vollmacht des Verteidigers zurückgelegt oder gekündigt wird\. In diesem Fall hat der Verteidiger weiterhin die Interessen des Beschuldigten zu wahren und innerhalb der Frist erforderliche Prozesshandlungen nötigenfalls vorzunehmen, es sei denn, der Beschuldigte hätte ihm dies ausdrücklich untersagt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-63-stpo--fristenlauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-63-stpo--fristenlauf)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-63-stpo--fristenlauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-63-stpo--fristenlauf) \]
 
 ----
 
@@ -2020,7 +2020,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Haftungsbeteiligte können ihre Sache selbst führen oder sich vertreten lassen \(§ 73\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-64-stpo--haftungsbeteiligte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-64-stpo--haftungsbeteiligte)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-64-stpo--haftungsbeteiligte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-64-stpo--haftungsbeteiligte) \]
 
 ----
 
@@ -2050,7 +2050,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `4.` „Subsidiarankläger“ jeder Privatbeteiligte, der eine von der Staatsanwaltschaft zurückgezogene Anklage aufrecht hält\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-65-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-65-stpo--definitionen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-65-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-65-stpo--definitionen) \]
 
 ----
 
@@ -2089,7 +2089,7 @@ Der Nationalrat hat beschlossen:
 > `(3)` Übersetzungshilfe ist in sinngemäßer Anwendung der Bestimmungen des § 56 zu gewähren\. Als wesentliche Aktenstücke, die auf Verlangen des Opfers zu übersetzen sind, gelten die schriftliche Bestätigung der Anzeige \(§ 80 Abs\. 1\), die Verständigung von der Einstellung des Ermittlungsverfahrens und deren Begründung \(§ 194 Abs\. 2\) sowie eine Ausfertigung des Urteils und der Strafverfügung \(§ 491\); bei der Prüfung der Erforderlichkeit tritt an Stelle der Erforderlichkeit zur Wahrung der Verteidigungsrechte jene zur Wahrung der Rechte und Interessen des Opfers \(§ 10\)\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch Art\. 10 Z 5, BGBl\. I Nr\. 148/2020\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-66-stpo--opferrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=66) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-66-stpo--opferrechte)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-66-stpo--opferrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=66) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-66-stpo--opferrechte) \]
 
 ----
 
@@ -2123,7 +2123,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Einem Opfer, dem auf Antrag Rechte nach Abs\. 2 nicht gewährt werden, sind die Gründe dafür mitzuteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-66a-stpo--besondere-schutzbedürftigkeit-von-opfern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=66a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-66a-stpo--besondere-schutzbedürftigkeit-von-opfern)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-66a-stpo--besondere-schutzbedürftigkeit-von-opfern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=66a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-66a-stpo--besondere-schutzbedürftigkeit-von-opfern) \]
 
 ----
 
@@ -2147,7 +2147,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Bundesministerin für Justiz ist ermächtigt, bewährte geeignete Einrichtungen vertraglich zu beauftragen, den in Abs\. 1 genannten Personen nach Prüfung der gesetzlichen Voraussetzungen Prozessbegleitung zu gewähren sowie durch Verordnung nähere Bestimmungen über die Voraussetzungen der Beauftragung solcher Einrichtungen und im Einvernehmen mit der Bundesministerin für Frauen und Integration im Bundeskanzleramt sowie der Bundesministerin für Arbeit, Familien und Jugend über Qualitätsstandards der Prozessbegleitung, insbesondere über die Aus\- und Weiterbildung von Prozessbegleitern, zu erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-66b-stpo--prozessbegleitung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=66b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-66b-stpo--prozessbegleitung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-66b-stpo--prozessbegleitung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=66b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-66b-stpo--prozessbegleitung) \]
 
 ----
 
@@ -2183,7 +2183,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Privatbeteiligten ist – soweit ihnen nicht juristische Prozessbegleitung zu gewähren ist \(§ 66b\) – Verfahrenshilfe durch unentgeltliche Beigebung eines Rechtsanwalts zu bewilligen, soweit die Vertretung durch einen Rechtsanwalt im Interesse der Rechtspflege, vor allem im Interesse einer zweckentsprechenden Durchsetzung ihrer Ansprüche zur Vermeidung eines nachfolgenden Zivilverfahrens erforderlich ist, und sie außerstande sind, die Kosten ihrer anwaltlichen Vertretung ohne Beeinträchtigung des notwendigen Unterhalts zu bestreiten\. Als notwendiger Unterhalt ist derjenige anzusehen, den die Person für sich und ihre Familie, für deren Unterhalt sie zu sorgen hat, zu einer einfachen Lebensführung benötigt\. Für die Beigebung und Bestellung eines solchen Vertreters gelten die Bestimmungen der § 61 Abs\. 4, § 62 Abs\. 1, 2 und 4 sowie § 63 Abs\. 1 sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-67-stpo--privatbeteiligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=67) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-67-stpo--privatbeteiligung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-67-stpo--privatbeteiligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=67) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-67-stpo--privatbeteiligung) \]
 
 ----
 
@@ -2195,7 +2195,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Das Verbot der Veröffentlichung nach § 54 gilt für Opfer, Privatbeteiligte und Privatankläger sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-68-stpo--akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-68-stpo--akteneinsicht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-68-stpo--akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-68-stpo--akteneinsicht) \]
 
 ----
 
@@ -2207,7 +2207,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Fall einer Sicherstellung nach § 110 Abs\. 1 Z 2 hat die Staatsanwaltschaft die Rückgabe des Gegenstandes oder Vermögenswertes an das Opfer anzuordnen, wenn eine Beschlagnahme aus Beweisgründen nicht erforderlich ist und in die Rechte Dritter dadurch nicht eingegriffen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-69-stpo--privatrechtliche-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-69-stpo--privatrechtliche-ansprüche)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-69-stpo--privatrechtliche-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-69-stpo--privatrechtliche-ansprüche) \]
 
 ----
 
@@ -2229,7 +2229,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Nach erfolgter Belehrung kann das Opfer in jeder Lage des Verfahrens erklären, auf weitere Verständigungen und Ladungen zu verzichten, in welchem Fall von einer weiteren Beteiligung des Opfers am Verfahren Abstand zu nehmen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-70-stpo--recht-auf-information) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-70-stpo--recht-auf-information)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-70-stpo--recht-auf-information) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.004.md#-70-stpo--recht-auf-information) \]
 
 ----
 
@@ -2253,7 +2253,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Kommt der Privatankläger nicht zur Hauptverhandlung oder stellt er nicht die erforderlichen Anträge, so wird angenommen, dass er auf die Verfolgung verzichtet habe\. In diesen Fällen ist das Verfahren durch Beschluss einzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-71-stpo--privatankläger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-71-stpo--privatankläger)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-71-stpo--privatankläger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-71-stpo--privatankläger) \]
 
 ----
 
@@ -2267,7 +2267,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Subsidiarankläger hat im Hauptverfahren die gleichen Rechte wie der Privatankläger\. Rechtsmittel gegen Urteile stehen ihm jedoch nur soweit zu, als der Privatbeteiligte sie zu erheben berechtigt ist\. Die Staatsanwaltschaft kann sich jederzeit über den Gang des Verfahrens informieren und die Anklage wieder an sich ziehen; in diesem Fall stehen dem Subsidiarankläger wieder die Rechte des Privatbeteiligten zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-72-stpo--subsidiarankläger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-72-stpo--subsidiarankläger)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-72-stpo--subsidiarankläger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-72-stpo--subsidiarankläger) \]
 
 ----
 
@@ -2279,7 +2279,7 @@ Der Nationalrat hat beschlossen:
 
 > Vertreter stehen Haftungsbeteiligten, Opfern, Privatbeteiligten, Privatanklägern und Subsidiaranklägern beratend und unterstützend zur Seite\. Sie üben, soweit in diesem Gesetz nichts anderes bestimmt wird, die Verfahrensrechte aus, die den Vertretenen zustehen\. Als Vertreter kann eine zur Ausübung der Rechtsanwaltschaft berechtigte, eine nach § 25 Abs\. 3 SPG anerkannte Opferschutzeinrichtung oder eine sonst geeignete Person bevollmächtigt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-73-stpo--vertreter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-73-stpo--vertreter)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-73-stpo--vertreter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-73-stpo--vertreter) \]
 
 ----
 
@@ -2297,7 +2297,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Kriminalpolizei, Staatsanwaltschaft und Gericht haben beim Verarbeiten personenbezogener Daten den Grundsatz der Gesetz\- und Verhältnismäßigkeit \(§ 5\) zu beachten\. Jedenfalls haben sie schutzwürdige Interessen der betroffenen Personen an der Geheimhaltung zu wahren und vertraulicher Behandlung personenbezogener Daten Vorrang einzuräumen\. Bei der Verarbeitung besonderer Kategorien \(§ 39 DSG\) und strafrechtlich relevanter personenbezogener Daten haben sie angemessene Vorkehrungen zur Wahrung der Geheimhaltungsinteressen der betroffenen Personen zu treffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-74-stpo--verarbeitung-personenbezogener-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-74-stpo--verarbeitung-personenbezogener-daten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-74-stpo--verarbeitung-personenbezogener-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-74-stpo--verarbeitung-personenbezogener-daten) \]
 
 ----
 
@@ -2316,7 +2316,7 @@ Der Nationalrat hat beschlossen:
 > `(4)` Personenbezogene Daten, die ausschließlich auf Grund einer Identitätsfeststellung \(§ 118\), einer körperlichen Untersuchung \(§ 123\) oder einer molekulargenetischen Analyse \(§ 124\) gewonnen wurden, dürfen nur solange verarbeitet werden, als wegen der Art der Ausführung der Tat, der Persönlichkeit der betroffenen Person oder auf Grund anderer Umstände zu befürchten ist, dass diese Person eine strafbare Handlung mit nicht bloß leichten Folgen begehen werde\. Wird der Angeklagte rechtskräftig freigesprochen oder das Ermittlungsverfahren ohne Vorbehalt späterer Verfolgung eingestellt, so sind diese personenbezogenen Daten zu löschen\. Die §§ 73 und 74 SPG bleiben hievon unberührt\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 71/2014\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-75-stpo--berichtigen-löschen-und-sperren-personenbezogener-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-75-stpo--berichtigen-löschen-und-sperren-personenbezogener-daten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-75-stpo--berichtigen-löschen-und-sperren-personenbezogener-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-75-stpo--berichtigen-löschen-und-sperren-personenbezogener-daten) \]
 
 ----
 
@@ -2350,7 +2350,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; zu übermitteln\. Dies hat jedenfalls dann zu unterbleiben, wenn im Einzelfall schutzwürdige Geheimhaltungsinteressen \(§ 1 Abs\. 1 DSG\) die mit der Übermittlung verfolgten Zwecke überwiegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-76-stpo--amts--und-rechtshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-76-stpo--amts--und-rechtshilfe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-76-stpo--amts--und-rechtshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-76-stpo--amts--und-rechtshilfe) \]
 
 ----
 
@@ -2362,7 +2362,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 54 ist sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-77-stpo--akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-77-stpo--akteneinsicht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-77-stpo--akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-77-stpo--akteneinsicht) \]
 
 ----
 
@@ -2382,7 +2382,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Behörde oder öffentliche Dienststelle hat jedenfalls alles zu unternehmen, was zum Schutz des Opfers oder anderer Personen vor Gefährdung notwendig ist; erforderlichenfalls ist auch in den Fällen des Abs\. 2 Anzeige zu erstatten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-78-stpo--anzeigepflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-78-stpo--anzeigepflicht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-78-stpo--anzeigepflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-78-stpo--anzeigepflicht) \]
 
 ----
 
@@ -2390,7 +2390,7 @@ Der Nationalrat hat beschlossen:
 
 > Soweit eine gesetzliche Anzeigepflicht besteht, sind der Kriminalpolizei, den Staatsanwaltschaften und den Gerichten zur Aufklärung einer Straftat einer bestimmten Person von Amts wegen oder auf Grund von Ersuchen Ablichtungen der Akten und sonstigen schriftlichen Aufzeichnungen zu übermitteln oder Akteneinsicht zu gewähren\. Eine Berufung auf bestehende gesetzliche Verschwiegenheitspflichten ist insoweit unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-79-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-79-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-79-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-79-stpo) \]
 
 ----
 
@@ -2400,7 +2400,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wer auf Grund bestimmter Tatsachen annehmen kann, dass eine Person eine strafbare Handlung ausführe, unmittelbar zuvor ausgeführt habe oder dass wegen der Begehung einer strafbaren Handlung nach ihr gefahndet werde, ist berechtigt, diese Person auf verhältnismäßige Weise anzuhalten, jedoch zur unverzüglichen Anzeige an das nächst erreichbare Organ des öffentlichen Sicherheitsdienstes verpflichtet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-80-stpo--anzeige--und-anhalterecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=80) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-80-stpo--anzeige--und-anhalterecht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-80-stpo--anzeige--und-anhalterecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=80) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-80-stpo--anzeige--und-anhalterecht) \]
 
 ----
 
@@ -2416,7 +2416,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Staatsanwaltschaft und dem Gericht können die Akten zur Einsicht in die Erledigung übermittelt werden\. In diesem Fall hat die Staatsanwaltschaft oder das Gericht den Tag des Einlangens der Akten und den Tag der Einsichtnahme nachvollziehbar in den Akten zu beurkunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-81-stpo--bekanntmachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-81-stpo--bekanntmachung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-81-stpo--bekanntmachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-81-stpo--bekanntmachung) \]
 
 ----
 
@@ -2428,7 +2428,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Zustellungen haben durch unmittelbare Übergabe oder durch Zustelldienste \(§ 2 Zustellgesetz\) zu erfolgen\. Die Kriminalpolizei ist nur dann um eine Zustellung zu ersuchen, wenn dies im Interesse der Strafrechtspflege unbedingt erforderlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-82-stpo--zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-82-stpo--zustellung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-82-stpo--zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-82-stpo--zustellung) \]
 
 ----
 
@@ -2444,7 +2444,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Opfern kann durch öffentliche Bekanntmachung zugestellt werden, soweit die Voraussetzungen des § 25 des Zustellgesetzes vorliegen oder schon deren Ausforschung oder die Aufforderung zur Namhaftmachung eines Zustellungsbevollmächtigten \(§ 82 Abs\. 2\) einen dem Beschleunigungsgebot \(§ 9\) widerstreitenden Verfahrensaufwand bedeuten würde\. Die Bekanntmachung ist in die Ediktsdatei \(§ 89j Abs\. 1 GOG\) aufzunehmen, wodurch die Zustellung als bewirkt gilt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-83-stpo--arten-der-zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=83) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-83-stpo--arten-der-zustellung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-83-stpo--arten-der-zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=83) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-83-stpo--arten-der-zustellung) \]
 
 ----
 
@@ -2464,7 +2464,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soweit im Einzelnen nichts anderes bestimmt wird, können Rechtsmittel, Rechtsbehelfe und alle sonstigen Eingaben an die Kriminalpolizei, die Staatsanwaltschaft oder das Gericht schriftlich, per Telefax oder im elektronischen Rechtsverkehr \(§ 89a GOG\) eingebracht werden\. Sofern sie an eine Frist gebunden sind, sind sie auch dann rechtzeitig, wenn sie innerhalb dieser Frist bei der Behörde eingebracht werden, die darüber zu entscheiden hat\. Die näheren Vorschriften über die geschäftliche Behandlung solcher Eingaben werden durch Verordnung geregelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-84-stpo--fristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=84) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-84-stpo--fristen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-84-stpo--fristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=84) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-84-stpo--fristen) \]
 
 ----
 
@@ -2476,7 +2476,7 @@ Der Nationalrat hat beschlossen:
 
 > Soweit im Einzelnen nicht etwas anderes bestimmt wird, gelten für Erledigungen von Anträgen gemäß § 101 Abs\. 2, gerichtliche Beschlüsse \(§ 35\) und dagegen erhobene Beschwerden sowie das dabei einzuhaltende Verfahren die Bestimmungen dieses Abschnitts\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-85-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=85) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-85-stpo--allgemeines)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-85-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=85) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-85-stpo--allgemeines) \]
 
 ----
 
@@ -2488,7 +2488,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ausfertigung und Zustellung eines Beschlusses, der nach dem Gesetz mündlich zu verkünden ist, können unterbleiben, wenn die Berechtigten sogleich nach der Verkündung auf Beschwerde verzichten\. In diesem Fall und soweit das Gesetz die Verkündung des Beschlusses in der Hauptverhandlung vorsieht, jedoch ein selbstständiges, die weitere Verhandlung hemmendes Rechtsmittel dagegen nicht zulässt, ist der wesentliche Inhalt des Beschlusses im Protokoll zu beurkunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-86-stpo--beschlüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=86) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-86-stpo--beschlüsse)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-86-stpo--beschlüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=86) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-86-stpo--beschlüsse) \]
 
 ----
 
@@ -2500,7 +2500,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Aufschiebende Wirkung hat eine Beschwerde nur dann, wenn das Gesetz dies ausdrücklich vorsieht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-87-stpo--beschwerden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-87-stpo--beschwerden)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-87-stpo--beschwerden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-87-stpo--beschwerden) \]
 
 ----
 
@@ -2514,7 +2514,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Eine Beschwerde, die innerhalb der Frist beim Rechtsmittelgericht oder im Fall des Abs\. 1 bei der Staatsanwaltschaft, im Fall des Abs\. 2 beim Gericht eingebracht wird, gilt als rechtzeitig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-88-stpo--verfahren-über-beschwerden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-88-stpo--verfahren-über-beschwerden)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-88-stpo--verfahren-über-beschwerden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-88-stpo--verfahren-über-beschwerden) \]
 
 ----
 
@@ -2544,7 +2544,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Gegen die Entscheidung des Rechtsmittelgerichts steht ein weiterer Rechtszug nicht zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-89-stpo--verfahren-vor-dem-rechtsmittelgericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-89-stpo--verfahren-vor-dem-rechtsmittelgericht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-89-stpo--verfahren-vor-dem-rechtsmittelgericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-89-stpo--verfahren-vor-dem-rechtsmittelgericht) \]
 
 ----
 
@@ -2560,7 +2560,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Auf den Vollzug von Ersatzfreiheitsstrafen nach Abs\. 2 und der in diesem Gesetz angedrohten Freiheitsstrafen und der Beugehaft sind die Bestimmungen des Strafvollzugsgesetzes über den Vollzug von Freiheitsstrafen, deren Strafzeit drei Monate nicht übersteigt, sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-90-stpo--vollstreckung-von-geld--und-freiheitsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-90-stpo--vollstreckung-von-geld--und-freiheitsstrafen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-90-stpo--vollstreckung-von-geld--und-freiheitsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.005.md#-90-stpo--vollstreckung-von-geld--und-freiheitsstrafen) \]
 
 ----
 
@@ -2584,7 +2584,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Erkundigungen \(§ 151 Z 1\) zur Klärung, ob auf Grund bestimmter Anhaltspunkte angenommen werden kann, dass ein Sachverhalt einem gesetzlichen Tatbild entspricht, sind keine Ermittlungen im Sinn des Abs\. 2\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-91-stpo--zweck-des-ermittlungsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=91) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-91-stpo--zweck-des-ermittlungsverfahrens)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-91-stpo--zweck-des-ermittlungsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=91) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-91-stpo--zweck-des-ermittlungsverfahrens) \]
 
 ----
 
@@ -2594,7 +2594,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Ermächtigung muss sich auf eine bestimmte Person beziehen und spätestens bei Einleitung diversioneller Maßnahmen oder Einbringen der Anklage vorliegen\. Sie kann bis zum Schluss des Beweisverfahrens erster Instanz zurückgenommen werden\. Die Erklärung, als Privatbeteiligter am Verfahren mitzuwirken \(§ 67\), gilt als Ermächtigung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-92-stpo--ermächtigung-zur-strafverfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-92-stpo--ermächtigung-zur-strafverfolgung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-92-stpo--ermächtigung-zur-strafverfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-92-stpo--ermächtigung-zur-strafverfolgung) \]
 
 ----
 
@@ -2614,7 +2614,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Ausübung unmittelbaren Zwangs ist anzudrohen und anzukündigen, wenn die davon betroffene Person anwesend ist\. Hievon darf nur abgesehen werden, wenn der Erfolg der Ermittlung oder der Beweisaufnahme dadurch gefährdet wäre\. Für den Waffengebrauch gelten die Bestimmungen des Waffengebrauchsgesetzes 1969\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-93-stpo--zwangsgewalt-und-beugemittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-93-stpo--zwangsgewalt-und-beugemittel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-93-stpo--zwangsgewalt-und-beugemittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-93-stpo--zwangsgewalt-und-beugemittel) \]
 
 ----
 
@@ -2622,7 +2622,7 @@ Der Nationalrat hat beschlossen:
 
 > Für die Aufrechterhaltung der Ordnung und für die Wahrung des Anstandes hat der Leiter der jeweiligen Amtshandlung zu sorgen\. Er ist zu diesem Zweck berechtigt, jede Person, die sich trotz vorausgegangener Ermahnung und Androhung ihrer Wegweisung seinen Anordnungen widersetzt, gegenüber anwesenden Personen aggressiv oder sonst grob ungebührlich verhält oder auf andere Weise die Amtshandlung behindert, auf einige Zeit oder für die gesamte Dauer der Amtshandlung aus dieser wegzuweisen oder zu entfernen\. Im Übrigen sind die §§ 233 Abs\. 3 und 235 bis 236a im Ermittlungsverfahren sinngemäß anzuwenden\. Über die Verhängung der dort erwähnten Ordnungsstrafen \(§ 235, § 236 Abs\. 1\) und die Aufforderung, einen anderen Vertreter zu bestellen \(§ 236 Abs\. 2, § 236a\), entscheidet das Gericht mit Beschluss\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-94-stpo--ordnungsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=94) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-94-stpo--ordnungsstrafen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-94-stpo--ordnungsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=94) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-94-stpo--ordnungsstrafen) \]
 
 ----
 
@@ -2634,7 +2634,7 @@ Der Nationalrat hat beschlossen:
 
 > Vorbringen von Personen und andere bedeutsame Vorgänge sind derart schriftlich festzuhalten, dass ihr wesentlicher Inhalt nachvollzogen werden kann\. Ein solcher Amtsvermerk ist jedenfalls vom aufnehmenden Organ und allenfalls von anderen Personen zu unterfertigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-95-stpo--amtsvermerk) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-95-stpo--amtsvermerk)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-95-stpo--amtsvermerk) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-95-stpo--amtsvermerk) \]
 
 ----
 
@@ -2662,7 +2662,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Das Protokoll ist zum Akt zu nehmen\. Soweit die vernommene Person zur Akteneinsicht berechtigt ist, ist ihr auf Verlangen sogleich gebührenfrei eine Abschrift oder Kopie auszufolgen, sofern dem schutzwürdige Interessen des Verfahrens oder Dritter nicht entgegen stehen; § 54 ist anzuwenden\. Auf Kurzschriften und Tonaufnahmen \(Abs\. 2\) ist § 271 Abs\. 6 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-96-stpo--protokoll) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=96) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-96-stpo--protokoll)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-96-stpo--protokoll) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=96) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-96-stpo--protokoll) \]
 
 ----
 
@@ -2672,7 +2672,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Im Falle einer Aufnahme nach Abs\. 1 kann an Stelle eines Protokolls eine schriftliche Zusammenfassung des Inhalts der Vernehmung erstellt werden, welche der Leiter der Amtshandlung unterfertigt und zum Akt nimmt\. Auf diese Zusammenfassung sind im Übrigen die Vorschriften der §§ 96 Abs\. 1 und 3 und 271 Abs\. 6 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-97-stpo--ton--und-bildaufnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-97-stpo--ton--und-bildaufnahme)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-97-stpo--ton--und-bildaufnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-97-stpo--ton--und-bildaufnahme) \]
 
 ----
 
@@ -2690,7 +2690,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Gericht wird im Ermittlungsverfahren auf Antrag, von Amts wegen gemäß den §§ 104 und 105 Abs\. 2 oder auf Grund eines Einspruchs tätig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-98-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-98-stpo--allgemeines)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-98-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-98-stpo--allgemeines) \]
 
 ----
 
@@ -2714,7 +2714,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Kriminalpolizei hat die Staatsanwaltschaft von einem Aufschub nach Abs\. 4 unverzüglich zu verständigen\. Im Fall einer kontrollierten Lieferung, das ist der Transport von Gegenständen aus dem, in das oder durch das Bundesgebiet, ohne dass die Staatsanwaltschaft verpflichtet wäre, nach § 2 Abs\. 1 vorzugehen, gelten die Bestimmungen der §§ 71 und 72 des Bundesgesetzes über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union \(EU\-JZG\) sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-99-stpo--ermittlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-99-stpo--ermittlungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-99-stpo--ermittlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-99-stpo--ermittlungen) \]
 
 ----
 
@@ -2746,7 +2746,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Mit jedem Bericht sind der Staatsanwaltschaft, soweit dies noch nicht geschehen ist, alle für die Beurteilung der Sach\- und Rechtslage erforderlichen kriminalpolizeilichen Akten zu übermitteln oder auf elektronischem Weg zugänglich zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-100-stpo--berichte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=100) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-100-stpo--berichte)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-100-stpo--berichte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=100) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-100-stpo--berichte) \]
 
 ----
 
@@ -2756,7 +2756,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die WKStA kann aus Zweckmäßigkeitsgründen und zur Vermeidung von Verzögerungen andere Staatsanwaltschaften um Durchführung einzelner Ermittlungs\- oder sonstiger Amtshandlungen ersuchen\. Diese sind verpflichtet, die WKStA in vollem Umfang zu unterstützen und Hilfe bei der Strafverfolgung zu leisten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-100a-stpo--berichte-an-die-wksta) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=100a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-100a-stpo--berichte-an-die-wksta)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-100a-stpo--berichte-an-die-wksta) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=100a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-100a-stpo--berichte-an-die-wksta) \]
 
 ----
 
@@ -2774,7 +2774,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Staatsanwaltschaft prüft die Berichte der Kriminalpolizei und trifft die erforderlichen Anordnungen\. Soweit dies aus rechtlichen oder tatsächlichen Gründen erforderlich ist, kann sie jederzeit weitere Ermittlungen und die Ausübung von Zwang durch die Kriminalpolizei anordnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-101-stpo--aufgaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-101-stpo--aufgaben)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-101-stpo--aufgaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-101-stpo--aufgaben) \]
 
 ----
 
@@ -2794,7 +2794,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Fall einer im Rahmen der Rufbereitschaft bzw\. des Journaldienstes \(§§ 38, 39 GOG\) erteilten gerichtlichen Bewilligung \(§ 105 Abs\. 1\) hat die Anordnung der Staatsanwaltschaft an die Kriminalpolizei bis zum Ablauf des zweiten folgenden Werktages zu erfolgen, widrigenfalls die Bewilligung außer Kraft tritt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-102-stpo--anordnungen-und-genehmigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=102) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-102-stpo--anordnungen-und-genehmigungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-102-stpo--anordnungen-und-genehmigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=102) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-102-stpo--anordnungen-und-genehmigungen) \]
 
 ----
 
@@ -2804,7 +2804,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Staatsanwaltschaft kann auch selbst Ermittlungen \(§ 91 Abs\. 2\) durchführen oder durch einen Sachverständigen durchführen lassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-103-stpo--ermittlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=103) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-103-stpo--ermittlungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-103-stpo--ermittlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=103) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.006.md#-103-stpo--ermittlungen) \]
 
 ----
 
@@ -2818,7 +2818,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soweit sich im Rahmen einer gerichtlichen Beweisaufnahme Umstände ergeben, die für die Beurteilung des Tatverdachts bedeutsam sind, kann das Gericht von Amts wegen oder auf Antrag weitere Beweise selbst aufnehmen\. Gleiches gilt, wenn dies erforderlich ist, um die Gefahr abzuwenden, dass ein Beweismittel für eine erhebliche Tatsache verloren geht\. In diesen Fällen hat das Gericht die Staatsanwaltschaft von der Beweisaufnahme zu verständigen\. Die Protokolle über die Beweisaufnahmen hat das Gericht der Staatsanwaltschaft unverzüglich zu übermitteln\. Das Gericht kann die Staatsanwaltschaft auch auf die Notwendigkeit der Durchführung bestimmter weiterer Ermittlungen aufmerksam machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-104-stpo--gerichtliche-beweisaufnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.007.md#-104-stpo--gerichtliche-beweisaufnahme)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-104-stpo--gerichtliche-beweisaufnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.007.md#-104-stpo--gerichtliche-beweisaufnahme) \]
 
 ----
 
@@ -2830,7 +2830,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird die Durchführung einer Zwangsmaßnahme durch das Gericht vorläufig mündlich bewilligt, hat das Gericht den wesentlichen Inhalt des Vorbringens der Staatsanwaltschaft und die Gründe für die Dringlichkeit in einem Amtsvermerk \(§ 95\) festzuhalten\. Im Rahmen der Rufbereitschaft oder des Journaldienstes \(§ 38, § 39 Gerichtsorganisationsgesetz – GOG, RGBl\. 217/1896\) darf eine Bewilligung von Zwangsmitteln nur erfolgen, wenn damit nicht bis zum Beginn der nächsten gerichtlichen Dienststunden zugewartet werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-105-stpo--bewilligung-von-zwangsmitteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=105) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.007.md#-105-stpo--bewilligung-von-zwangsmitteln)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-105-stpo--bewilligung-von-zwangsmitteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=105) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.007.md#-105-stpo--bewilligung-von-zwangsmitteln) \]
 
 ----
 
@@ -2852,7 +2852,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wenn die Staatsanwaltschaft dem Einspruch nicht,binnen vier Wochen entspricht oder der Einspruchswerber eine Entscheidung des Gerichts verlangt, hat die Staatsanwaltschaft den Einspruch unverzüglich an das Gericht weiter zu leiten\. Stellungnahmen der Staatsanwaltschaft und der Kriminalpolizei hat das Gericht dem Einspruchswerber zur Äußerung binnen einer festzusetzenden, sieben Tage nicht übersteigenden Frist zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-106-stpo--einspruch-wegen-rechtsverletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=106) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.007.md#-106-stpo--einspruch-wegen-rechtsverletzung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-106-stpo--einspruch-wegen-rechtsverletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=106) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.007.md#-106-stpo--einspruch-wegen-rechtsverletzung) \]
 
 ----
 
@@ -2866,7 +2866,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Im Falle, dass das Gericht dem Einspruch stattgibt, haben Staatsanwaltschaft und Kriminalpolizei den entsprechenden Rechtszustand mit den ihnen zu Gebote stehenden Mitteln herzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-107-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=107) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.007.md#-107-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-107-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=107) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.007.md#-107-stpo) \]
 
 ----
 
@@ -2890,7 +2890,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Die Frist nach Abs\. 1 wird durch die in § 58 Abs\. 3 Z 2 StGB genannten Verfahrenshandlungen für jeden Beschuldigten, gegen den sich diese gerichtet haben, ausgelöst\. Zeiten eines gerichtlichen Verfahrens nach § 112 und § 112a sowie Zeiten der Erledigung von Rechtshilfeersuchen oder Ermittlungsanordnungen durch ausländische Justizbehörden sind nicht in die Frist einzurechnen\. Wird ein nach § 197 abgebrochenes oder ein nach den §§ 190 bis 192 beendetes Verfahren fortgeführt oder ein Ermittlungsverfahren nach § 215, § 352 Abs\. 1 oder § 485 Abs\. 1 Z 2 wiedereröffnet, so werden jene Zeiten, in denen das Verfahren unterbrochen oder eingestellt war, in die Fristen nach Abs\. 1 und Abs\. 5 erster Satz nicht eingerechnet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-108-stpo--antrag-auf-einstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=108) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.007.md#-108-stpo--antrag-auf-einstellung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-108-stpo--antrag-auf-einstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=108) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.007.md#-108-stpo--antrag-auf-einstellung) \]
 
 ----
 
@@ -2942,7 +2942,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `4.` „Auskunft über Bankkonten und Bankgeschäfte“ die Herausgabe aller Unterlagen über die Identität des Inhabers einer Geschäftsverbindung und über seine Verfügungsberechtigung, die Einsicht in Urkunden und andere Unterlagen eines Kredit\- oder Finanzinstituts über Art und Umfang einer Geschäftsverbindung und damit im Zusammenhang stehende Geschäftsvorgänge und sonstige Geschäftsvorfälle für einen bestimmten vergangenen oder zukünftigen Zeitraum\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-109-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=109) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-109-stpo--definitionen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-109-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=109) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-109-stpo--definitionen) \]
 
 ----
 
@@ -2982,7 +2982,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Sicherstellung von Gegenständen oder Vermögenswerten aus Beweisgründen \(Abs\. 1 Z 1\) ist nicht zulässig und jedenfalls auf Verlangen der betroffenen Person aufzuheben, soweit und sobald der Beweiszweck durch Bild\-, Ton\- oder sonstige Aufnahmen oder durch Kopien schriftlicher Aufzeichnungen oder automationsunterstützt verarbeiteter Daten erfüllt werden kann und nicht anzunehmen ist, dass die sichergestellten Gegenstände oder Vermögenswerte selbst oder die Originale der sichergestellten Informationen in der Hauptverhandlung in Augenschein zu nehmen sein werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-110-stpo--sicherstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=110) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-110-stpo--sicherstellung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-110-stpo--sicherstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=110) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-110-stpo--sicherstellung) \]
 
 ----
 
@@ -2996,7 +2996,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` In jedem Fall ist der von der Sicherstellung betroffenen Person sogleich oder längstens binnen 24 Stunden eine Bestätigung über die Sicherstellung auszufolgen oder zuzustellen und sie über das Recht, Einspruch zu erheben \(§ 106\) und eine gerichtliche Entscheidung über die Aufhebung oder Fortsetzung der Sicherstellung zu beantragen \(§ 115\), zu informieren\. Von einer Sicherstellung zur Sicherung einer Entscheidung über privatrechtliche Ansprüche \(§ 110 Abs\. 1 Z 2\) ist, soweit möglich, auch das Opfer zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-111-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=111) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-111-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-111-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=111) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-111-stpo) \]
 
 ----
 
@@ -3008,7 +3008,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Gegen die Anordnung der Staatsanwaltschaft kann der Betroffene Einspruch erheben, in welchem Fall die Unterlagen dem Gericht vorzulegen sind, das zu entscheiden hat, ob und in welchem Umfang sie zum Akt genommen werden dürfen; Abs\. 2 letzter Satz gilt\. Einer Beschwerde gegen den Beschluss des Gerichts kommt aufschiebende Wirkung zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-112-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=112) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-112-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-112-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=112) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-112-stpo) \]
 
 ----
 
@@ -3032,7 +3032,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Behörde oder öffentlichen Dienststelle steht gegen den Beschluss des Gerichts Beschwerde zu; diese hat aufschiebende Wirkung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-112a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=112a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-112a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-112a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=112a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-112a-stpo) \]
 
 ----
 
@@ -3052,7 +3052,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Im Fall einer Sicherstellung von Gegenständen oder Vermögenswerten \(§ 109 Z 1 lit\. a\) findet eine Beschlagnahme auch auf Antrag nicht statt, wenn sich die Sicherstellung auf Gegenstände oder Vermögenswerte im Sinne des § 110 Abs\. 3 Z 1 lit\. a und d oder Z 2 bezieht oder der Sicherungszweck durch andere behördliche Maßnahmen erfüllt werden kann\. In diesen Fällen hat die Staatsanwaltschaft die erforderlichen Verfügungen über die sichergestellten Gegenstände oder Vermögenswerte und ihre weitere Verwahrung zu treffen und gegebenenfalls die Sicherstellung aufzuheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-113-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=113) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-113-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-113-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=113) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-113-stpo) \]
 
 ----
 
@@ -3064,7 +3064,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wenn der Grund für die weitere Verwahrung sichergestellter Gegenstände und Vermögenswerte wegfällt, sind diese sogleich jener Person auszufolgen, in deren Verfügungsmacht sie sichergestellt wurden, es sei denn, dass diese Person offensichtlich nicht berechtigt ist\. In diesem Fall sind sie der berechtigten Person auszufolgen oder, wenn eine solche nicht ersichtlich ist und nicht ohne unverhältnismäßigen Aufwand festgestellt werden kann, nach § 1425 ABGB gerichtlich zu hinterlegen\. Die hievon betroffenen Personen sind zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-114-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-114-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-114-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-114-stpo) \]
 
 ----
 
@@ -3088,7 +3088,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Wenn und sobald die Voraussetzungen der Beschlagnahme nicht oder nicht mehr bestehen oder ein nach Abs\. 5 bestimmter Geldbetrag erlegt wird, hat die Staatsanwaltschaft, nach dem Einbringen der Anklage das Gericht, die Beschlagnahme aufzuheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115-stpo--beschlagnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115-stpo--beschlagnahme)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115-stpo--beschlagnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115-stpo--beschlagnahme) \]
 
 ----
 
@@ -3108,7 +3108,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über die Verwertung hat das Gericht auf Antrag der Staatsanwaltschaft, gegebenenfalls zugleich mit der Beschlagnahme zu entscheiden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115a-stpo--verwertung-sichergestellter-oder-beschlagnahmter-vermögenswerte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115a-stpo--verwertung-sichergestellter-oder-beschlagnahmter-vermögenswerte)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115a-stpo--verwertung-sichergestellter-oder-beschlagnahmter-vermögenswerte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115a-stpo--verwertung-sichergestellter-oder-beschlagnahmter-vermögenswerte) \]
 
 ----
 
@@ -3124,7 +3124,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Edikt ist durch Aufnahme in die Ediktsdatei \(§ 89j GOG\) öffentlich bekannt zu machen\. Eine schriftliche Ausfertigung ist der Staatsanwaltschaft, gegebenenfalls dem von der Anordnung Betroffenen sowie dem Drittschuldner zuzustellen, der zu verpflichten ist, alle Tatsachen, die einer Verwertung entgegenstehen könnten, dem Gericht unverzüglich mitzuteilen\. Dabei entstehende angemessene und ortsübliche Kosten sind zu ersetzen \(§ 111 Abs\. 3\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115b-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115b-stpo) \]
 
 ----
 
@@ -3134,7 +3134,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine rechtzeitig eingebrachte Beschwerde hat aufschiebende Wirkung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115c-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115c-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115c-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115c-stpo) \]
 
 ----
 
@@ -3146,7 +3146,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein Ersatz für zu Gunsten des Bundes verwertete Vermögenswerte \(§ 115a Abs\. 1\) ist nur in Geld zu leisten\. Der Bund ist dabei wie ein redlicher Besitzer zu behandeln \(§ 330 ABGB\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115d-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115d-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115d-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115d-stpo) \]
 
 ----
 
@@ -3158,7 +3158,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über die Verwertung hat das Gericht auf Antrag der Staatsanwaltschaft, gegebenenfalls zugleich mit der Beschlagnahme zu entscheiden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115e-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115e-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115e-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115e-stpo) \]
 
 ----
 
@@ -3190,7 +3190,7 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` Wenn und sobald die Voraussetzungen der Beschlagnahme nicht oder nicht mehr bestehen, hat die Staatsanwaltschaft, nach Einbringen der Anklage das Gericht, die Beschlagnahme aufzuheben\. Wird einer Beschwerde Folge gegeben, weil festgestellt wird, dass kein Anfangsverdacht \(§ 1 Abs\. 3\) vorgelegen ist, so gilt § 89 Abs\. 4\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115f-stpo--beschlagnahme-von-datenträgern-und-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115f-stpo--beschlagnahme-von-datenträgern-und-daten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115f-stpo--beschlagnahme-von-datenträgern-und-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115f-stpo--beschlagnahme-von-datenträgern-und-daten) \]
 
 ----
 
@@ -3202,7 +3202,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über jede Sicherstellung eines Datenträgers nach § 115f Abs\. 4 hat die Kriminalpolizei unverzüglich, längstens jedoch binnen 14 Tagen der Staatsanwaltschaft zu berichten \(§ 100 Abs\. 2 Z 2\), welche im Nachhinein sogleich beim Gericht die Beschlagnahme von Datenträgern und Daten \(§ 115f Abs\. 1 bis 3\) zu beantragen oder, wenn deren Voraussetzungen nicht vorliegen oder weggefallen sind, die Aufhebung der Sicherstellung anzuordnen hat\. Wird die Bewilligung nicht erteilt, so haben Staatsanwaltschaft und Kriminalpolizei mit den ihnen zu Gebote stehenden rechtlichen Mitteln den der gerichtlichen Entscheidung entsprechenden Rechtszustand herzustellen und alle durch diese Ermittlungsmaßnahme gewonnenen Ergebnisse zu vernichten; einer Beschwerde der Staatsanwaltschaft gegen einen solchen Beschluss des Gerichts kommt aufschiebende Wirkung zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115g-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115g-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115g-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115g-stpo) \]
 
 ----
 
@@ -3212,7 +3212,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Staatsanwaltschaft hat das Ergebnis der Datenaufbereitung \(§ 109 Z 2e\) dem Gericht bei Einbringung der Anklage zu übermitteln\. Das Gericht hat diese nach rechtskräftigem Abschluss des Verfahrens zu löschen und die Löschung der Originalsicherung sowie der Arbeitskopie anzuordnen, soweit sie nicht in einem anderen, bereits anhängigen Strafverfahren als Beweismittel Verwendung finden\. Gleiches gilt für die Staatsanwaltschaft im Fall der Einstellung des Verfahrens\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115h-stpo--aufbereitung-von-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115h-stpo--aufbereitung-von-daten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115h-stpo--aufbereitung-von-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115h-stpo--aufbereitung-von-daten) \]
 
 ----
 
@@ -3228,7 +3228,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Auf Antrag des Beschuldigten oder von Amts wegen sind Daten aus dem Ergebnis der Datenaufbereitung zu vernichten, wenn sie für ein Strafverfahren nicht von Bedeutung sein können oder als Beweismittel nicht verwendet werden dürfen\. Dieses Antragsrecht steht auch den in Abs\. 4 genannten betroffenen Personen zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115i-stpo--auswertung-von-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115i-stpo--auswertung-von-daten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115i-stpo--auswertung-von-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115i-stpo--auswertung-von-daten) \]
 
 ----
 
@@ -3238,7 +3238,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ergeben sich bei der Auswertung von Daten Hinweise auf die Begehung einer anderen strafbaren Handlung als derjenigen, die Anlass zur Beschlagnahme von Datenträgern und Daten gegeben hat, so ist mit diesen ein gesonderter Akt anzulegen, soweit die Verwendung als Beweismittel zulässig ist \(Abs\. 1, § 144, § 157 Abs\. 2\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115j-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115j-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115j-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115j-stpo) \]
 
 ----
 
@@ -3246,7 +3246,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Originalsicherung und die Arbeitskopie sind auf geeignete Art und Weise gegen unbefugte Einsichtnahme oder Veränderung zu sichern und bis zur rechtskräftigen Beendigung des Strafverfahrens aufzubewahren; auf die Originalsicherung und Arbeitskopie darf außer im Fall des § 115f Abs\. 5 nicht zugegriffen werden; im Übrigen ist eine Einsichtnahme unzulässig\. Für die Verwahrung von Datenträgern, sofern sie nicht zurückgestellt werden können, und des Ergebnisses der Datenaufbereitung \(§ 109 Z 2e\) hat im Fall einer Aufbereitung der Daten durch die Kriminalpolizei bis zur Berichterstattung über die abschließende Auswertung der Daten \(§ 115i\) diese, danach die Staatsanwaltschaft zu sorgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115k-stpo--verwahrung-von-datenträgern-und-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115k-stpo--verwahrung-von-datenträgern-und-daten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115k-stpo--verwahrung-von-datenträgern-und-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115k-stpo--verwahrung-von-datenträgern-und-daten) \]
 
 ----
 
@@ -3264,7 +3264,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Nach Beendigung der Ermittlungsmaßnahme ist dem Rechtsschutzbeauftragten Gelegenheit zu geben, den Aufbereitungsbericht und das Ergebnis der Datenaufbereitung \(§ 109 Z 2e\) einzusehen\. Nach Beendigung des Strafverfahrens ist ihm Gelegenheit zu geben, sich von der ordnungsgemäßen Vernichtung der Originalsicherung, der Arbeitskopie und des Ergebnisses der Datenaufbereitung zu überzeugen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115l-stpo--rechtsschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115l) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115l-stpo--rechtsschutz)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-115l-stpo--rechtsschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=115l) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-115l-stpo--rechtsschutz) \]
 
 ----
 
@@ -3300,7 +3300,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Wird einem Einspruch wegen Rechtsverletzung oder einer Beschwerde Folge gegeben, so gilt § 89 Abs\. 4\. Eine Durchsuchung des Kredit\- oder Finanzinstituts bedarf stets einer Anordnung der Staatsanwaltschaft auf Grund einer gerichtlichen Bewilligung\. §§ 110 Abs\. 4 und 111 Abs\. 3 sind anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-116-stpo--auskunft-aus-dem-kontenregister-und-auskunft-über-bankkonten-und-bankgeschäfte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=116) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-116-stpo--auskunft-aus-dem-kontenregister-und-auskunft-über-bankkonten-und-bankgeschäfte)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-116-stpo--auskunft-aus-dem-kontenregister-und-auskunft-über-bankkonten-und-bankgeschäfte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=116) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.008.md#-116-stpo--auskunft-aus-dem-kontenregister-und-auskunft-über-bankkonten-und-bankgeschäfte) \]
 
 ----
 
@@ -3330,7 +3330,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `5.` „molekulargenetische Untersuchung“ die Ermittlung jener Bereiche in der DNA einer Person, die der Wiedererkennung dienen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-117-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=117) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-117-stpo--definitionen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-117-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=117) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-117-stpo--definitionen) \]
 
 ----
 
@@ -3344,7 +3344,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wenn die Person an der Identitätsfeststellung nicht mitwirkt oder ihre Identität aus anderen Gründen nicht sogleich festgestellt werden kann, ist die Kriminalpolizei berechtigt, zur Feststellung der Identität eine Durchsuchung der Person nach § 117 Z 3 lit\. a von sich aus durchzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-118-stpo--identitätsfeststellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=118) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-118-stpo--identitätsfeststellung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-118-stpo--identitätsfeststellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=118) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-118-stpo--identitätsfeststellung) \]
 
 ----
 
@@ -3360,7 +3360,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` durch eine Straftat Verletzungen erlitten oder andere Veränderungen am Körper erfahren haben könnte, deren Feststellung für Zwecke eines Strafverfahrens erforderlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-119-stpo--durchsuchung-von-orten-und-gegenständen-sowie-von-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=119) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-119-stpo--durchsuchung-von-orten-und-gegenständen-sowie-von-personen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-119-stpo--durchsuchung-von-orten-und-gegenständen-sowie-von-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=119) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-119-stpo--durchsuchung-von-orten-und-gegenständen-sowie-von-personen) \]
 
 ----
 
@@ -3370,7 +3370,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Durchsuchungen nach § 117 Z 2 lit\. a und nach § 117 Z 3 lit\. a kann die Kriminalpolizei von sich aus durchführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-120-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=120) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-120-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-120-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=120) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-120-stpo) \]
 
 ----
 
@@ -3382,7 +3382,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Bei der Durchführung sind Aufsehen, Belästigungen und Störungen auf das unvermeidbare Maß zu beschränken\. Die Eigentums\- und Persönlichkeitsrechte sämtlicher Betroffener sind soweit wie möglich zu wahren\. Eine Durchsuchung von Personen nach § 117 Z 3 lit\. b ist stets von einer Person desselben Geschlechts oder von einem Arzt unter Achtung der Würde der zu untersuchenden Person vorzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-121-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-121-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-121-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-121-stpo) \]
 
 ----
 
@@ -3394,7 +3394,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` In jedem Fall ist dem Betroffenen sogleich oder längstens binnen 24 Stunden eine Bestätigung über die Durchsuchung und deren Ergebnis sowie gegebenenfalls die Anordnung der Staatsanwaltschaft samt gerichtlicher Entscheidung auszufolgen oder zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-122-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=122) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-122-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-122-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=122) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-122-stpo) \]
 
 ----
 
@@ -3434,7 +3434,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Ergebnisse einer körperlichen Untersuchung, die aus anderen als strafprozessualen Gründen durchgeführt wurde, dürfen in einem Strafverfahren nur als Beweismittel verwendet werden, wenn dies zum Nachweis einer Straftat, deretwegen die körperliche Untersuchung hätte angeordnet werden können, erforderlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-123-stpo--körperliche-untersuchung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=123) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-123-stpo--körperliche-untersuchung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-123-stpo--körperliche-untersuchung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=123) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-123-stpo--körperliche-untersuchung) \]
 
 ----
 
@@ -3450,7 +3450,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Daten, die auf Grund dieser Bestimmung ermittelt wurden, sind den Sicherheitsbehörden auf deren Verlangen zu übermitteln, soweit Ermittlung und Verarbeitung dieser Daten nach sicherheitspolizeilichen Vorschriften \(§§ 65 bis 67, 75 SPG\) zulässig wäre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-124-stpo--molekulargenetische-untersuchung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=124) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-124-stpo--molekulargenetische-untersuchung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-124-stpo--molekulargenetische-untersuchung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=124) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-124-stpo--molekulargenetische-untersuchung) \]
 
 ----
 
@@ -3470,7 +3470,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `4.` „Obduktion“ die Öffnung einer Leiche durch einen Sachverständigen zum Zweck der Feststellung von Anlass und Ursache des Todes oder von anderen für die Aufklärung einer Straftat wesentlichen Umständen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-125-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-125-stpo--definitionen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-125-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-125-stpo--definitionen) \]
 
 ----
 
@@ -3496,7 +3496,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Im Ermittlungsverfahren hat der Beschuldigte das Recht, binnen 14 Tagen ab Zustellung \(Abs\. 3\), Kenntnis eines Befangenheitsgrundes oder Vorliegen begründeter Zweifel an der Sachkunde des Sachverständigen einen Antrag auf dessen Enthebung zu stellen, er kann auch die Bestellung im Rahmen gerichtlicher Beweisaufnahme verlangen und eine andere, nach den Kriterien der Sachkunde \(Abs\. 2\) besser qualifizierte Person zur Bestellung vorschlagen\. Will die Staatsanwaltschaft dem Begehren auf Umbestellung keine Folge geben oder wurde gerichtliche Beweisaufnahme verlangt, so hat sie den Antrag unverzüglich samt einer Stellungnahme dem Gericht vorzulegen\. Wurde der Sachverständige durch das Gericht bestellt, so entscheidet es über einen Antrag nach dem ersten Satz mit Beschluss\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-126-stpo--sachverständige-und-dolmetscher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=126) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-126-stpo--sachverständige-und-dolmetscher)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-126-stpo--sachverständige-und-dolmetscher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=126) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-126-stpo--sachverständige-und-dolmetscher) \]
 
 ----
 
@@ -3512,7 +3512,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wenn ein Sachverständiger oder ein Dolmetscher die ihm gesetzte Frist zur Erstattung des Befundes oder Gutachtens oder der Übersetzung trotz Mahnung wesentlich überschreitet, kann er seines Amtes enthoben werden\. Überdies kann das Gericht, wenn der Sachverständige oder Dolmetscher die Verzögerung verschuldet hat, über ihn eine Geldstrafe bis zu 10 000 Euro verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-127-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=127) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-127-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-127-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=127) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-127-stpo) \]
 
 ----
 
@@ -3526,7 +3526,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wenn dies zur Aufklärung einer Straftat erforderlich ist, ist auch die Exhumierung einer Leiche zum Zweck einer Obduktion \(Abs\. 2\) zulässig\. Sie ist von der Staatsanwaltschaft anzuordnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-128-stpo--leichenbeschau-und-obduktion) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=128) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-128-stpo--leichenbeschau-und-obduktion)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-128-stpo--leichenbeschau-und-obduktion) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=128) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.009.md#-128-stpo--leichenbeschau-und-obduktion) \]
 
 ----
 
@@ -3544,7 +3544,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` „Scheingeschäft“ der Versuch oder die scheinbare Ausführung von Straftaten, soweit diese im Erwerben, Ansichbringen, Besitzen, Ein\-, Aus\- oder Durchführen von Gegenständen oder Vermögenswerten bestehen, die entfremdet wurden, aus einem Verbrechen herrühren oder der Begehung eines solchen gewidmet sind oder deren Besitz absolut verboten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-129-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=129) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-129-stpo--definitionen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-129-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=129) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-129-stpo--definitionen) \]
 
 ----
 
@@ -3564,7 +3564,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ist sie nur dann zulässig, wenn der Verdacht einer vorsätzlich begangenen Straftat besteht, die mit mehr als einjähriger Freiheitsstrafe bedroht ist, und auf Grund bestimmter Tatsachen angenommen werden kann, dass die überwachte Person die strafbare Handlung begangen habe oder mit dem Beschuldigten Kontakt herstellen werde oder dadurch der Aufenthalt eines flüchtigen oder abwesenden Beschuldigten ermittelt werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-130-stpo--observation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=130) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-130-stpo--observation)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-130-stpo--observation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=130) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-130-stpo--observation) \]
 
 ----
 
@@ -3578,7 +3578,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wohnungen und andere vom Hausrecht geschützte Räume dürfen verdeckte Ermittler nur im Einverständnis mit dem Inhaber betreten\. Das Einverständnis darf nicht durch Täuschung über eine Zutrittsberechtigung herbeigeführt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-131-stpo--verdeckte-ermittlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=131) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-131-stpo--verdeckte-ermittlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-131-stpo--verdeckte-ermittlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=131) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-131-stpo--verdeckte-ermittlung) \]
 
 ----
 
@@ -3586,7 +3586,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Durchführung eines Scheingeschäfts ist zulässig, wenn die Aufklärung eines Verbrechens \(§ 17 Abs\. 1 StGB\) oder die Sicherstellung von Gegenständen oder Vermögenswerten, die aus einem Verbrechen herrühren oder von der Konfiskation \(§ 19a StGB\), vom Verfall \(§ 20 StGB\), vom erweiterten Verfall \(§ 20b Abs\. 1 StGB\) oder von der Einziehung \(§ 26 StGB\) bedroht sind, andernfalls wesentlich erschwert wäre\. Unter diesen Voraussetzungen ist es auch zulässig, zur Ausführung eines Scheingeschäfts durch Dritte beizutragen \(§ 12 dritter Fall StGB\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-132-stpo--scheingeschäft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=132) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-132-stpo--scheingeschäft)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-132-stpo--scheingeschäft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=132) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-132-stpo--scheingeschäft) \]
 
 ----
 
@@ -3602,7 +3602,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Von der Verfolgung eines Beschuldigten wegen der strafbaren Handlung, zu deren Begehung er nach § 5 Abs\. 3 verleitet wurde, hat die Staatsanwaltschaft abzusehen\. § 191 Abs\. 2 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-133-stpo--gemeinsame-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=133) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-133-stpo--gemeinsame-bestimmungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-133-stpo--gemeinsame-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=133) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-133-stpo--gemeinsame-bestimmungen) \]
 
 ----
 
@@ -3644,7 +3644,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `6.` „Anbieter“ ein Anbieter \(§ 160 Abs\. 3 Z 1 TKG 2021\), ein Diensteanbieter \(§ 3 Z 2 ECG\) sowie ein Vermittlungsdiensteanbieter \(§ 3 Z 3a ECG\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-134-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=134) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-134-stpo--definitionen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-134-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=134) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-134-stpo--definitionen) \]
 
 ----
 
@@ -3682,7 +3682,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `4.` in den Fällen des Abs\. 2 Z 4\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-135-stpo--beschlagnahme-von-briefen-auskunft-über-stamm--und-zugangsdaten-auskunft-über-daten-einer-nachrichtenübermittlung-lokalisierung-einer-technischen-einrichtung-anlassdatenspeicherung-und-überwachung-von-nachrichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=135) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-135-stpo--beschlagnahme-von-briefen-auskunft-über-stamm--und-zugangsdaten-auskunft-über-daten-einer-nachrichtenübermittlung-lokalisierung-einer-technischen-einrichtung-anlassdatenspeicherung-und-überwachung-von-nachrichten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-135-stpo--beschlagnahme-von-briefen-auskunft-über-stamm--und-zugangsdaten-auskunft-über-daten-einer-nachrichtenübermittlung-lokalisierung-einer-technischen-einrichtung-anlassdatenspeicherung-und-überwachung-von-nachrichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=135) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-135-stpo--beschlagnahme-von-briefen-auskunft-über-stamm--und-zugangsdaten-auskunft-über-daten-einer-nachrichtenübermittlung-lokalisierung-einer-technischen-einrichtung-anlassdatenspeicherung-und-überwachung-von-nachrichten) \]
 
 ----
 
@@ -3710,7 +3710,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Eine Überwachung ist nur zulässig, soweit die Verhältnismäßigkeit \(§ 5\) gewahrt wird\. Eine Überwachung nach Abs\. 1 Z 3 zur Verhinderung von im Rahmen einer terroristischen Vereinigung oder einer kriminellen Organisation \(§§ 278a und 278b StGB\) begangenen oder geplanten Verbrechen \(§ 17 Abs\. 1 StGB\) ist überdies nur dann zulässig, wenn bestimmte Tatsachen auf eine schwere Gefahr für die öffentliche Sicherheit schließen lassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-136-stpo--optische-und-akustische-überwachung-von-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=136) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-136-stpo--optische-und-akustische-überwachung-von-personen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-136-stpo--optische-und-akustische-überwachung-von-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=136) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-136-stpo--optische-und-akustische-überwachung-von-personen) \]
 
 ----
 
@@ -3721,7 +3721,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine Anlassdatenspeicherung nach § 135 Abs\. 2b darf nur für jenen Zeitraum angeordnet werden, der zur Erreichung ihres Zwecks voraussichtlich erforderlich ist, längstens jedoch für zwölf Monate; eine neuerliche Anordnung ist nicht zulässig\. Sonstige Ermittlungsmaßnahmen nach §§ 135 bis 136 dürfen nur für einen solchen künftigen, in den Fällen des § 135 Abs\. 1a zweiter Fall und Abs\. 2 auch vergangenen, Zeitraum angeordnet werden, der zur Erreichung ihres Zwecks voraussichtlich erforderlich ist\. Eine neuerliche Anordnung ist jeweils zulässig, soweit auf Grund bestimmter Tatsachen anzunehmen ist, dass die weitere Durchführung der Ermittlungsmaßnahme Erfolg haben werde\. Im Übrigen ist die Ermittlungsmaßnahme zu beenden, sobald ihre Voraussetzungen wegfallen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-137-stpo--gemeinsame-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=137) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-137-stpo--gemeinsame-bestimmungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-137-stpo--gemeinsame-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=137) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-137-stpo--gemeinsame-bestimmungen) \]
 
 ----
 
@@ -3749,7 +3749,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Beendigung einer Ermittlungsmaßnahme nach § 135 Abs\. 1a zweiter Fall und Abs\. 2b hat die Staatsanwaltschaft ihre Anordnung, in den übrigen Fällen von Ermittlungsmaßnahmen nach den §§ 135 bis 136 samt deren gerichtlicher Bewilligung, dem Beschuldigten und den von der Durchführung der Ermittlungsmaßnahme Betroffenen unverzüglich zuzustellen\. Die Zustellung kann jedoch aufgeschoben werden, solange durch sie der Zweck dieses oder eines anderen Verfahrens gefährdet wäre\. Wenn die Ermittlungsmaßnahme später begonnen oder früher beendet wurde als zu den in Abs\. 1 Z 4 genannten Zeitpunkten, ist auch der Zeitraum der tatsächlichen Durchführung mitzuteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-138-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=138) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-138-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-138-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=138) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-138-stpo) \]
 
 ----
 
@@ -3763,7 +3763,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Auf Antrag des Beschuldigten oder von Amts wegen sind Ergebnisse der Ermittlungsmaßnahme zu vernichten, wenn diese für ein Strafverfahren nicht von Bedeutung sein können oder als Beweismittel nicht verwendet werden dürfen\. Dieses Antragsrecht steht auch den von der Ermittlungsmaßnahme Betroffenen zu, insoweit für sie bestimmte oder von ihnen ausgehende Nachrichten oder Bilder, auf denen sie dargestellt sind, oder von ihnen geführte Gespräche betroffen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-139-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=139) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-139-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-139-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=139) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-139-stpo) \]
 
 ----
 
@@ -3782,7 +3782,7 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ergeben sich bei Prüfung der Ergebnisse Hinweise auf die Begehung einer anderen strafbaren Handlung als derjenigen, die Anlass zur Überwachung gegeben hat, so ist mit diesem Teil der Ergebnisse ein gesonderter Akt anzulegen, soweit die Verwendung als Beweismittel zulässig ist \(Abs\. 1, § 144, § 157 Abs\. 2\)\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 204/2013\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-140-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=140) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-140-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-140-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=140) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.010.md#-140-stpo) \]
 
 ----
 
@@ -3800,7 +3800,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Besondere Kategorien personenbezogener Daten \(§ 39 DSG\) dürfen in einen Datenabgleich nicht einbezogen werden\. Dies gilt nicht für Daten über die Staatsangehörigkeit, Daten zur tatbildmäßigen Bezeichnung einer Tätergruppe sowie für Daten, die Staatsanwaltschaften oder Sicherheitsbehörden durch erkennungsdienstliche Maßnahmen, durch Durchsuchung einer Person, durch körperliche Untersuchung oder durch molekulargenetische Analyse rechtmäßig ermittelt haben, sofern diese Daten ausschließlich für einen Datenabgleich nach Abs\. 2 verwendet werden\. Daten von Personenvereinigungen, deren Zweck in unmittelbarem Zusammenhang mit einem der besonders geschützten Merkmale steht, dürfen in einen Datenabgleich in keinem Fall einbezogen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-141-stpo--datenabgleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=141) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-141-stpo--datenabgleich)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-141-stpo--datenabgleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=141) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-141-stpo--datenabgleich) \]
 
 ----
 
@@ -3822,7 +3822,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wird einer Beschwerde gegen die Bewilligung einer Anordnung Folge gegeben oder die Anordnung des automationsunterstützten Datenabgleichs aus anderen Gründen widerrufen, so ist zugleich anzuordnen, dass alle in den Datenabgleich einbezogenen und alle durch ihn gewonnenen Daten zu vernichten und personenbezogene Daten, die auf andere Datenträger übertragen wurden, unverzüglich zu löschen sind\. Gleiches gilt, wenn der automationsunterstützte Datenabgleich ergibt, dass die Merkmale auf keine Person zutreffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-142-stpo--durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=142) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-142-stpo--durchführung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-142-stpo--durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=142) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-142-stpo--durchführung) \]
 
 ----
 
@@ -3832,7 +3832,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Verpflichtung nach Abs\. 1 hat die Staatsanwaltschaft dem Verantwortlichen mit gesonderter Anordnung aufzutragen; diese Anordnung hat die entsprechende gerichtliche Bewilligung anzuführen\. Die §§ 93 Abs\. 2 und 112 sowie die Bestimmungen über die Durchsuchung gelten sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-143-stpo--mitwirkungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=143) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-143-stpo--mitwirkungspflicht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-143-stpo--mitwirkungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=143) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-143-stpo--mitwirkungspflicht) \]
 
 ----
 
@@ -3848,7 +3848,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein Umgehungsverbot nach Abs\. 1 erster Satz oder Abs\. 2 besteht insoweit nicht, als die betreffende Person selbst der Tat dringend verdächtig ist\. In einem solchen Fall ist für die Anordnung und Durchführung einer Ermittlungsmaßnahme in den Fällen der § 135 Abs\. 1, 2, 2a und 3 sowie § 136 Abs\. 1 Z 2 und 3 eine Ermächtigung des Rechtsschutzbeauftragten \(§ 147 Abs\. 2\) Voraussetzung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-144-stpo--schutz-der-geistlichen-amtsverschwiegenheit-und-von-berufsgeheimnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=144) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-144-stpo--schutz-der-geistlichen-amtsverschwiegenheit-und-von-berufsgeheimnissen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-144-stpo--schutz-der-geistlichen-amtsverschwiegenheit-und-von-berufsgeheimnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=144) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-144-stpo--schutz-der-geistlichen-amtsverschwiegenheit-und-von-berufsgeheimnissen) \]
 
 ----
 
@@ -3865,7 +3865,7 @@ Der Nationalrat hat beschlossen:
 > `(3)` Solange in Bild\- oder Schriftform übertragene Ergebnisse einer Ermittlungsmaßnahme in den Fällen der § 135 Abs\. 2, 2a und 3 sowie § 136 Abs\. 1 Z 2 und 3 nicht zum Akt genommen werden, sind sie samt den zugehörigen Anordnungen, gerichtlichen Bewilligungen und sonstigen Aktenstücken unter Verschluss aufzubewahren\. Näheres hat der Bundesminister für Justiz durch Verordnung zu bestimmen\.
 > *\(Anm\.: Abs\. 4 tritt mit Ablauf des 31\.3\.2025 außer Kraft\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-145-stpo--besondere-durchführungsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=145) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-145-stpo--besondere-durchführungsbestimmungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-145-stpo--besondere-durchführungsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=145) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-145-stpo--besondere-durchführungsbestimmungen) \]
 
 ----
 
@@ -3897,7 +3897,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Anm\. 1: Die Wendung „oder nach § 135a“ tritt mit 1\. April 2020 in Kraft und mit Ablauf des 31\. März 2025 wieder außer Kraft \(vgl\. § 514 Abs\. 37 Z 3\)\.*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-147-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=147) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-147-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-147-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=147) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-147-stpo) \]
 
 ----
 
@@ -3905,7 +3905,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Bund haftet für vermögensrechtliche Nachteile, die durch die Durchführung einer Überwachung von Personen nach § 136 Abs\. 1 Z 3 oder eines Datenabgleichs nach § 141 entstanden sind\. Der Ersatzanspruch ist ausgeschlossen, wenn der Geschädigte die Anordnung vorsätzlich herbeigeführt hat\. Weitergehende Ansprüche bleiben unberührt\. Auf das Verfahren ist das Amtshaftungsgesetz, BGBl\. Nr\. 20/1949, anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-148-stpo--schadenersatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=148) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-148-stpo--schadenersatz)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-148-stpo--schadenersatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=148) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-148-stpo--schadenersatz) \]
 
 ----
 
@@ -3925,7 +3925,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine Tatrekonstruktion hat auf Antrag der Staatsanwaltschaft durch das Gericht zu erfolgen \(§ 104\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-149-stpo--augenschein-und-tatrekonstruktion) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=149) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-149-stpo--augenschein-und-tatrekonstruktion)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-149-stpo--augenschein-und-tatrekonstruktion) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=149) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-149-stpo--augenschein-und-tatrekonstruktion) \]
 
 ----
 
@@ -3935,7 +3935,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Beschuldigte kann von der Teilnahme vorübergehend ausgeschlossen werden, wenn seine Anwesenheit den Zweck des Verfahrens gefährden könnte oder besondere Interessen dies erfordern \(§ 250 Abs\. 1\)\. Dem Opfer und dem Privatbeteiligten ist die Beteiligung vorübergehend zu versagen, wenn zu besorgen ist, dass seine Anwesenheit den Beschuldigten oder Zeugen bei der Ablegung einer freien und vollständigen Aussage beeinflussen könnte\. In diesen Fällen ist den betroffenen Beteiligten sogleich eine Kopie des Protokolls zu übermitteln\. Die Beteiligung des Verteidigers darf jedoch in keinem Fall eingeschränkt werden\. Im Übrigen ist § 97 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-150-stpo--durchführung-der-tatrekonstruktion) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=150) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-150-stpo--durchführung-der-tatrekonstruktion)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-150-stpo--durchführung-der-tatrekonstruktion) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=150) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.011.md#-150-stpo--durchführung-der-tatrekonstruktion) \]
 
 ----
 
@@ -3951,7 +3951,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` „Vernehmung“ das Befragen von Personen nach förmlicher Information über ihre Stellung und ihre Rechte im Verfahren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-151-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=151) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-151-stpo--definitionen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-151-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=151) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-151-stpo--definitionen) \]
 
 ----
 
@@ -3963,7 +3963,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Auskünfte und sonstige Umstände, die durch Erkundigungen erlangt wurden und für das Verfahren von Bedeutung sein können, sind in einem Amtsvermerk festzuhalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-152-stpo--erkundigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=152) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-152-stpo--erkundigungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-152-stpo--erkundigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=152) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-152-stpo--erkundigungen) \]
 
 ----
 
@@ -3977,7 +3977,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist der Aufenthaltsort eines Zeugen oder Beschuldigten außerhalb des Sprengels der zuständigen Staatsanwaltschaft oder des zuständigen Gerichts gelegen, so ist die unmittelbare Vernehmung am Sitz der Staatsanwaltschaft oder des Gerichts, in deren oder dessen Sprengel sich der Zeuge oder der Beschuldigte befindet, unter Verwendung technischer Einrichtungen zur Wort\- und Bildübertragung durchzuführen, es sei denn, dass es unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder sonst aus besonderen Gründen erforderlich ist, den Zeugen oder Beschuldigten vor die zuständige Staatsanwaltschaft oder vor das zuständige Gericht zu laden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-153-stpo--vernehmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=153) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-153-stpo--vernehmungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-153-stpo--vernehmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=153) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-153-stpo--vernehmungen) \]
 
 ----
 
@@ -3987,7 +3987,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Zeugen sind verpflichtet, richtig und vollständig auszusagen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-154-stpo--zeuge-und-wahrheitspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=154) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-154-stpo--zeuge-und-wahrheitspflicht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-154-stpo--zeuge-und-wahrheitspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=154) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-154-stpo--zeuge-und-wahrheitspflicht) \]
 
 ----
 
@@ -4005,7 +4005,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine Verpflichtung zur Verschwiegenheit nach Abs\. 1 Z 2 besteht jedenfalls nicht, soweit der Zeuge im Dienste der Strafrechtspflege Wahrnehmungen zum Gegenstand des Verfahrens gemacht hat oder Anzeigepflicht \(§ 78\) besteht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-155-stpo--verbot-der-vernehmung-als-zeuge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=155) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-155-stpo--verbot-der-vernehmung-als-zeuge)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-155-stpo--verbot-der-vernehmung-als-zeuge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=155) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-155-stpo--verbot-der-vernehmung-als-zeuge) \]
 
 ----
 
@@ -4021,7 +4021,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Besteht die Befreiung von der Aussage im Verfahren gegen mehrere Beschuldigte nur gegenüber einem von ihnen, so ist der Zeuge hinsichtlich der anderen nur dann befreit, wenn eine Trennung der Aussagen nicht möglich ist\. Gleiches gilt, wenn sich der Befreiungsgrund nur auf einen von mehreren Sachverhalten bezieht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-156-stpo--aussagebefreiung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=156) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-156-stpo--aussagebefreiung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-156-stpo--aussagebefreiung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=156) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-156-stpo--aussagebefreiung) \]
 
 ----
 
@@ -4045,7 +4045,7 @@ Der Nationalrat hat beschlossen:
 >
 > *Anm\. 1: Art\. 1 Z 57 der Novelle BGBl\. I Nr\. 157/2024 lautet: „§ 157 Abs\. 2 wird nach der Wendung „oder auf Datenträgern gespeicherte Informationen“ die Wendung „\(§ 111 Abs\. 2\), durch Beschlagnahme von Datenträgern und Daten“ eingefügt\.“\. Die Anweisung konnte nicht durchgeführt werden\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-157-stpo--aussageverweigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=157) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-157-stpo--aussageverweigerung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-157-stpo--aussageverweigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=157) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-157-stpo--aussageverweigerung) \]
 
 ----
 
@@ -4061,7 +4061,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die in Abs\. 1 angeführten Personen können jedoch trotz Weigerung zur Aussage verpflichtet werden, wenn dies wegen der besonderen Bedeutung ihrer Aussage für den Gegenstand des Verfahrens unerlässlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-158-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=158) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-158-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-158-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=158) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-158-stpo) \]
 
 ----
 
@@ -4073,7 +4073,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat ein Zeuge auf seine Befreiung von der Aussagepflicht nach § 156 Abs\. 1 Z 1 nicht ausdrücklich verzichtet, so ist seine gesamte Aussage nichtig\. Wurde ein Zeuge, der ein Recht auf Verweigerung der Aussage nach § 157 Abs\. 1 Z 2 bis 5 hat, darüber nicht rechtzeitig informiert, so ist jener Teil seiner Aussage nichtig, auf den sich das Verweigerungsrecht bezieht\. Das aufgenommene Protokoll ist insoweit zu vernichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-159-stpo--information-und-nichtigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=159) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-159-stpo--information-und-nichtigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-159-stpo--information-und-nichtigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=159) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-159-stpo--information-und-nichtigkeit) \]
 
 ----
 
@@ -4085,7 +4085,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Vernehmung einer Person, die psychisch krank oder vergleichbar in ihrer Entscheidungsfähigkeit beschränkt ist oder die das vierzehnte Lebensjahr noch nicht zurückgelegt hat, ist jedenfalls eine Person ihres Vertrauens beizuziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-160-stpo--durchführung-der-vernehmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=160) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-160-stpo--durchführung-der-vernehmung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-160-stpo--durchführung-der-vernehmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=160) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-160-stpo--durchführung-der-vernehmung) \]
 
 ----
 
@@ -4097,7 +4097,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Fragen, mit denen dem Zeugen Umstände vorgehalten werden, die erst durch seine Antwort festgestellt werden sollen, dürfen nur dann gestellt werden, wenn dies zum Verständnis des Zusammenhanges erforderlich ist; solche Fragen und die darauf gegebenen Antworten sind wörtlich zu protokollieren\. Fragen nach allfälligen strafgerichtlichen Verfahren gegen den Zeugen und nach deren Ausgang sowie Fragen nach Umständen aus dem höchstpersönlichen Lebensbereich des Zeugen dürfen nicht gestellt werden, es sei denn, dass dies nach den besonderen Umständen des Falles unerlässlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-161-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=161) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-161-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-161-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=161) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-161-stpo) \]
 
 ----
 
@@ -4105,7 +4105,7 @@ Der Nationalrat hat beschlossen:
 
 > Ist auf Grund bestimmter Tatsachen zu befürchten, dass der Zeuge sich oder einen Dritten durch die Bekanntgabe des Namens und anderer Angaben zur Person \(§ 161 Abs\. 1\) oder durch Beantwortung von Fragen, die Rückschlüsse darauf zulassen, einer ernsten Gefahr für Leben, Gesundheit, körperliche Unversehrtheit oder Freiheit aussetzen würde, so kann ihm gestattet werden, solche Fragen nicht zu beantworten\. In diesem Fall ist auch zulässig, dass der Zeuge seine äußere Erscheinung derart verändert, dass er nicht wieder erkannt werden kann\. Es ist ihm jedoch nicht gestattet, sein Gesicht derart zu verhüllen, dass sein Mienenspiel nicht soweit wahrgenommen werden kann, als dies für die Beurteilung der Glaubwürdigkeit seiner Aussage unerlässlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-162-stpo--anonyme-aussage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=162) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-162-stpo--anonyme-aussage)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-162-stpo--anonyme-aussage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=162) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-162-stpo--anonyme-aussage) \]
 
 ----
 
@@ -4119,7 +4119,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Sofern der Beschuldigte zur Gegenüberstellung beigezogen wird, ist auch seinem Verteidiger Gelegenheit zur Teilnahme zu geben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-163-stpo--gegenüberstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=163) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-163-stpo--gegenüberstellung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-163-stpo--gegenüberstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=163) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-163-stpo--gegenüberstellung) \]
 
 ----
 
@@ -4133,7 +4133,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Es dürfen weder Versprechungen oder Vorspiegelungen noch Drohungen oder Zwangsmittel angewendet werden, um den Beschuldigten zu einem Geständnis oder zu anderen Angaben zu bewegen\. Die Freiheit seiner Willensentschließung und seiner Willensbetätigung sowie sein Erinnerungsvermögen und seine Einsichtsfähigkeit dürfen durch keinerlei Maßnahmen oder gar Eingriffe in seine körperliche Integrität beeinträchtigt werden\. Dem Beschuldigten gestellte Fragen müssen deutlich und klar verständlich und dürfen nicht unbestimmt, mehrdeutig oder verfänglich sein\. Fragen, mit denen ihm Umstände vorgehalten werden, die erst durch seine Antwort festgestellt werden sollen, dürfen nur dann gestellt werden, wenn dies zum Verständnis des Zusammenhanges erforderlich ist; solche Fragen und die darauf gegebenen Antworten sind wörtlich zu protokollieren\. Fragen, die eine vom Beschuldigten nicht zugestandene Tatsache als bereits zugestanden behandeln, sind nicht zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-164-stpo--vernehmung-des-beschuldigten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=164) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-164-stpo--vernehmung-des-beschuldigten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-164-stpo--vernehmung-des-beschuldigten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=164) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-164-stpo--vernehmung-des-beschuldigten) \]
 
 ----
 
@@ -4153,7 +4153,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Im Übrigen sind die Bestimmungen dieses Abschnitts sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-165-stpo--kontradiktorische-vernehmung-des-beschuldigten-oder-eines-zeugen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=165) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-165-stpo--kontradiktorische-vernehmung-des-beschuldigten-oder-eines-zeugen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-165-stpo--kontradiktorische-vernehmung-des-beschuldigten-oder-eines-zeugen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=165) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-165-stpo--kontradiktorische-vernehmung-des-beschuldigten-oder-eines-zeugen) \]
 
 ----
 
@@ -4167,7 +4167,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Aussagen, die auf die im Abs\. 1 beschriebene Art und Weise zustande gekommen sind oder gewonnen wurden, sind nichtig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-166-stpo--beweisverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=166) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-166-stpo--beweisverbot)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-166-stpo--beweisverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=166) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-166-stpo--beweisverbot) \]
 
 ----
 
@@ -4187,7 +4187,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` „Sachenfahndung“ jede Maßnahme zur Feststellung des Verbleibes einer Sache und zu ihrer Sicherstellung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-167-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=167) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-167-stpo--definitionen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-167-stpo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=167) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-167-stpo--definitionen) \]
 
 ----
 
@@ -4199,7 +4199,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Sachenfahndung ist zulässig, wenn ein Gegenstand, der sichergestellt werden soll, nicht aufgefunden werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-168-stpo--fahndung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=168) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-168-stpo--fahndung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-168-stpo--fahndung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=168) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-168-stpo--fahndung) \]
 
 ----
 
@@ -4211,7 +4211,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Sachenfahndung kann die Kriminalpolizei von sich aus anordnen und durchführen; sie hat die erforderlichen Veröffentlichungen und anderen notwendigen Maßnahmen zu veranlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-169-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=169) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-169-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-169-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=169) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.012.md#-169-stpo) \]
 
 ----
 
@@ -4235,7 +4235,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Festnahme und Anhaltung sind nicht zulässig, soweit sie zur Bedeutung der Sache außer Verhältnis stehen \(§ 5\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-170-stpo--zulässigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=170) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.013.md#-170-stpo--zulässigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-170-stpo--zulässigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=170) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.013.md#-170-stpo--zulässigkeit) \]
 
 ----
 
@@ -4267,7 +4267,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; Ist die schriftliche Belehrung in einer Sprache, die der Beschuldigten versteht, nicht verfügbar, so ist sie zunächst mündlich zu erteilen \(§ 56 Abs\. 2\) und sodann ohne unnötigen Aufschub nachzureichen\. Der Umstand der erteilten Belehrung ist in jedem Fall schriftlich festzuhalten \(§§ 95 und 96\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-171-stpo--anordnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=171) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.013.md#-171-stpo--anordnung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-171-stpo--anordnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=171) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.013.md#-171-stpo--anordnung) \]
 
 ----
 
@@ -4281,7 +4281,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Soweit das Opfer dies beantragt hat, ist es von einer Freilassung des Beschuldigten nach dieser Bestimmung unter Angabe der hiefür maßgeblichen Gründe und der dem Beschuldigten auferlegten gelinderen Mittel sogleich zu verständigen\. Opfer nach § 65 Abs\. 1 Z 1 lit\. a und besonders schutzbedürftige Opfer \(§ 66a\) sind jedoch unverzüglich von Amts wegen zu verständigen\. Diese Verständigung obliegt der Staatsanwaltschaft, wenn sie nach Einlieferung in die Justizanstalt erklärt, keinen Antrag auf Verhängung der Untersuchungshaft zu stellen, im Übrigen jedoch der Kriminalpolizei\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-172-stpo--durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=172) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.013.md#-172-stpo--durchführung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-172-stpo--durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=172) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.013.md#-172-stpo--durchführung) \]
 
 ----
 
@@ -4295,7 +4295,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Sicherheit ist vom Gericht auf Antrag der Staatsanwaltschaft oder von Amts wegen mit Beschluss für verfallen zu erklären, wenn sich der Beschuldigte dem Verfahren oder der Vollstreckung der Strafe und der Kosten des Verfahrens oder der Zahlung der Entschädigung an den Privatbeteiligten entzieht, insbesondere dadurch, dass er eine Ladung oder die Aufforderung zum Strafantritt oder Zahlung der Geldstrafe oder der Kosten des Verfahrens nicht befolgt\. § 180 Abs\. 4 letzter Satz und Abs\. 5 gelten sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-172a-stpo--sicherheitsleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=172a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.013.md#-172a-stpo--sicherheitsleistung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-172a-stpo--sicherheitsleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=172a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.013.md#-172a-stpo--sicherheitsleistung) \]
 
 ----
 
@@ -4349,7 +4349,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Abs\. 6 aufgehoben durch VfGH, BGBl\. I Nr\. 1/2023\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-173-stpo--zulässigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=173) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-173-stpo--zulässigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-173-stpo--zulässigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=173) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-173-stpo--zulässigkeit) \]
 
 ----
 
@@ -4365,7 +4365,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wird der Hausarrest nicht nach Abs\. 4 widerrufen, so gilt für den Fall der Rechtskraft des Urteils § 3 Abs\. 2 StVG sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-173a-stpo--hausarrest) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=173a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-173a-stpo--hausarrest)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-173a-stpo--hausarrest) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=173a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-173a-stpo--hausarrest) \]
 
 ----
 
@@ -4395,7 +4395,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Eine Beschwerde des Beschuldigten gegen die Verhängung der Untersuchungshaft löst die Haftfrist nach § 175 Abs\. 2 Z 2 aus\. Ein darauf ergehender Beschluss des Oberlandesgerichts auf Fortsetzung der Untersuchungshaft löst die nächste Haftfrist aus; Abs\. 3 Z 1 bis 5 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-174-stpo--verhängung-der-untersuchungshaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=174) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-174-stpo--verhängung-der-untersuchungshaft)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-174-stpo--verhängung-der-untersuchungshaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=174) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-174-stpo--verhängung-der-untersuchungshaft) \]
 
 ----
 
@@ -4417,7 +4417,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Einbringen der Anklage ist die Wirksamkeit eines Beschlusses auf Verhängung oder Fortsetzung der Untersuchungshaft durch die Haftfrist nicht mehr begrenzt; Haftverhandlungen finden nach diesem Zeitpunkt nur statt, wenn der Angeklagte seine Enthaftung beantragt und darüber nicht ohne Verzug in einer Hauptverhandlung entschieden werden kann\. Die §§ 233 bis 237 gelten in diesem Fall sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-175-stpo--haftfristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=175) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-175-stpo--haftfristen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-175-stpo--haftfristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=175) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-175-stpo--haftfristen) \]
 
 ----
 
@@ -4439,7 +4439,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Eine Beschwerde gegen einen Beschluss nach Abs\. 4 ist binnen drei Tagen nach Verkündung des Beschlusses einzubringen; § 174 Abs\. 4 zweiter Satz ist anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-176-stpo--haftverhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=176) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-176-stpo--haftverhandlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-176-stpo--haftverhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=176) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-176-stpo--haftverhandlung) \]
 
 ----
 
@@ -4455,7 +4455,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wird der Beschuldigte freigelassen, so hat das Gericht nach § 172 Abs\. 4 erster und zweiter Satz vorzugehen und auch die Kriminalpolizei von diesen Verständigungen zu informieren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-177-stpo--aufhebung-der-untersuchungshaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=177) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-177-stpo--aufhebung-der-untersuchungshaft)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-177-stpo--aufhebung-der-untersuchungshaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=177) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-177-stpo--aufhebung-der-untersuchungshaft) \]
 
 ----
 
@@ -4471,7 +4471,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Muss ein wegen Fristablaufs freigelassener Angeklagter zum Zweck der Durchführung der Hauptverhandlung neuerlich in Haft genommen werden, so darf dies jeweils höchstens für die Dauer von sechs weiteren Wochen geschehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-178-stpo--höchstdauer-der-untersuchungshaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=178) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-178-stpo--höchstdauer-der-untersuchungshaft)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-178-stpo--höchstdauer-der-untersuchungshaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=178) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-178-stpo--höchstdauer-der-untersuchungshaft) \]
 
 ----
 
@@ -4483,7 +4483,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die vorläufige Bewährungshilfe endet spätestens mit rechtskräftiger Beendigung des Strafverfahrens\. Im Übrigen gelten die Bestimmungen über die Bewährungshilfe dem Sinne nach\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-179-stpo--vorläufige-bewährungshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=179) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-179-stpo--vorläufige-bewährungshilfe)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-179-stpo--vorläufige-bewährungshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=179) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-179-stpo--vorläufige-bewährungshilfe) \]
 
 ----
 
@@ -4499,7 +4499,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Mit Rechtskraft des Beschlusses nach Abs\. 4 ist die verfallene Sicherheit für den Bund einzuziehen, doch hat das Opfer das Recht zu verlangen, dass seine Entschädigungsansprüche aus der Sicherheit oder ihrem Verwertungserlös vorrangig befriedigt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-180-stpo--kaution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=180) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-180-stpo--kaution)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-180-stpo--kaution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=180) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-180-stpo--kaution) \]
 
 ----
 
@@ -4511,7 +4511,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über die Freigabe der Sicherheit entscheidet das Gericht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-181-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=181) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-181-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-181-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=181) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-181-stpo) \]
 
 ----
 
@@ -4519,7 +4519,7 @@ Der Nationalrat hat beschlossen:
 
 > Soweit das Opfer dies beantragt hat, ist es von einer Flucht des in Untersuchungshaft angehaltenen Beschuldigten sowie von seiner Wiederergreifung sogleich zu verständigen\. § 172 Abs\. 4 zweiter Satz gilt sinngemäß\. Die Justizanstalt hat die Staatsanwaltschaft unverzüglich von der Flucht und Wiedereinbringung zu verständigen; die Staatsanwaltschaft hat sodann das Opfer zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-181a-stpo--flucht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=181a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-181a-stpo--flucht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-181a-stpo--flucht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=181a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.014.md#-181a-stpo--flucht) \]
 
 ----
 
@@ -4547,7 +4547,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Soweit im Einzelnen nichts anderes bestimmt wird, gelten die Bestimmungen über den Vollzug der Untersuchungshaft für alle Anhaltungen nach diesem Gesetz, die in einer Justizanstalt vollzogen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-182-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=182) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-182-stpo--allgemeines)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-182-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=182) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-182-stpo--allgemeines) \]
 
 ----
 
@@ -4563,7 +4563,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Rechtswirksamkeit der Anklage ist der Angeklagte, soweit die Zuständigkeit eines anderen Landesgerichts begründet wird, unverzüglich in die Justizanstalt des nunmehr zuständigen Landesgerichts zu überstellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-183-stpo--haftort) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=183) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-183-stpo--haftort)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-183-stpo--haftort) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=183) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-183-stpo--haftort) \]
 
 ----
 
@@ -4575,7 +4575,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` Ausführungen auf Ersuchen der Kriminalpolizei oder anderer Behörden \(§ 98 Abs\. 1 StVG\) nur auf Anordnung oder mit Zustimmung der Staatsanwaltschaft und nur zum Zweck der Teilnahme an Verhandlungen, Tatrekonstruktionen und anderen kontradiktorischen Einvernahmen, an Gegenüberstellungen, Augenscheinen sowie sonstigen Befundaufnahmen zulässig sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-184-stpo--ausführungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=184) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-184-stpo--ausführungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-184-stpo--ausführungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=184) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-184-stpo--ausführungen) \]
 
 ----
 
@@ -4587,7 +4587,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Weibliche Beschuldigte sind in jedem Fall von männlichen Beschuldigten und männlichen Strafgefangenen getrennt unterzubringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-185-stpo--getrennte-anhaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=185) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-185-stpo--getrennte-anhaltung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-185-stpo--getrennte-anhaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=185) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-185-stpo--getrennte-anhaltung) \]
 
 ----
 
@@ -4597,7 +4597,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Angehaltene Beschuldigte sind berechtigt, sich auf eigene Kosten Bedarfsgegenstände, Dienstleistungen und andere Annehmlichkeiten zu verschaffen, soweit dies mit dem Haftzweck vereinbar ist und weder die Sicherheit gefährdet noch die Ordnung in der Anstalt erheblich beeinträchtigt oder Mithäftlinge belästigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-186-stpo--kleidung-und-bedarfsgegenstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=186) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-186-stpo--kleidung-und-bedarfsgegenstände)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-186-stpo--kleidung-und-bedarfsgegenstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=186) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-186-stpo--kleidung-und-bedarfsgegenstände) \]
 
 ----
 
@@ -4611,7 +4611,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Angehaltene Beschuldigte dürfen sich auf ihre Kosten selbst beschäftigen, soweit dies mit dem Haftzweck vereinbar ist und die Ordnung in der Anstalt nicht stört\. Aus dieser Beschäftigung erzielte Einkünfte sind dem Hausgeld gutzuschreiben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-187-stpo--arbeit-und-arbeitsvergütung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=187) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-187-stpo--arbeit-und-arbeitsvergütung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-187-stpo--arbeit-und-arbeitsvergütung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=187) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-187-stpo--arbeit-und-arbeitsvergütung) \]
 
 ----
 
@@ -4629,7 +4629,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Für die Überwachung des mündlichen und schriftlichen Verkehrs des angehaltenen Beschuldigten mit seinem Verteidiger gilt § 59 Abs\. 3\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-188-stpo--verkehr-mit-der-außenwelt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=188) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-188-stpo--verkehr-mit-der-außenwelt)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-188-stpo--verkehr-mit-der-außenwelt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=188) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-188-stpo--verkehr-mit-der-außenwelt) \]
 
 ----
 
@@ -4641,7 +4641,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Übrigen stehen alle Anordnungen und Entscheidungen hinsichtlich der Anhaltung in Untersuchungshaft dem Anstaltsleiter oder dem von diesem dazu bestellten Vollzugsbediensteten zu\. Vor jeder Entscheidung nach den §§ 185 Abs\. 2, 186 Abs\. 2 und 187 Abs\. 1 ist im Ermittlungsverfahren die Staatsanwaltschaft, nach Einbringung der Anklage das Gericht zu hören\. Ordnungswidrigkeiten, die von angehaltenen Beschuldigten begangen wurden, sind der Staatsanwaltschaft und dem Gericht mitzuteilen\. Das gleiche gilt von Vorfällen, von denen eine Beeinträchtigung der Haftzwecke zu befürchten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-189-stpo--zuständigkeit-für-entscheidungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=189) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-189-stpo--zuständigkeit-für-entscheidungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-189-stpo--zuständigkeit-für-entscheidungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=189) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-189-stpo--zuständigkeit-für-entscheidungen) \]
 
 ----
 
@@ -4657,7 +4657,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Staatsanwaltschaft hat von der weiteren Verfolgung einer Straftat abzusehen und das Ermittlungsverfahren einzustellen, soweit und sobald sich ergibt, dass die dem Ermittlungsverfahren zu Grunde liegende Tat nicht mit gerichtlicher Strafe bedroht ist, die weitere Verfolgung des Beschuldigten sonst aus rechtlichen Gründen unzulässig wäre oder kein tatsächlicher Grund zu dessen weiterer Verfolgung besteht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-190-stpo--einstellung-des-ermittlungsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=190) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-190-stpo--einstellung-des-ermittlungsverfahrens)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-190-stpo--einstellung-des-ermittlungsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=190) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-190-stpo--einstellung-des-ermittlungsverfahrens) \]
 
 ----
 
@@ -4671,7 +4671,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Nach Einbringen der Anklage, im Verfahren vor dem Landesgericht als Geschworenen\- oder Schöffengericht nach Rechtswirksamkeit der Anklageschrift wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht unter denselben Voraussetzungen \(Abs\. 1\) das Verfahren bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen\. § 209 Abs\. 2 erster Satz gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-191-stpo--einstellung-wegen-geringfügigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=191) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-191-stpo--einstellung-wegen-geringfügigkeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-191-stpo--einstellung-wegen-geringfügigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=191) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-191-stpo--einstellung-wegen-geringfügigkeit) \]
 
 ----
 
@@ -4687,7 +4687,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine nach Abs\. 1 vorbehaltene Verfolgung kann innerhalb dreier Monate nach rechtskräftigem Abschluss des inländischen oder innerhalb eines Jahres nach rechtskräftigem Abschluss des ausländischen Strafverfahrens wieder aufgenommen werden\. Ein abermaliger Vorbehalt wegen einzelner Straftaten ist sodann unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-192-stpo--einstellung-bei-mehreren-straftaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=192) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-192-stpo--einstellung-bei-mehreren-straftaten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-192-stpo--einstellung-bei-mehreren-straftaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=192) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-192-stpo--einstellung-bei-mehreren-straftaten) \]
 
 ----
 
@@ -4703,7 +4703,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Fortführung eines nach § 192 beendeten Ermittlungsverfahrens kann die Staatsanwaltschaft anordnen, wenn sie sich die spätere Verfolgung vorbehalten hat \(§ 192 Abs\. 2\) oder die Voraussetzungen des Abs\. 2 Z 2 vorliegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-193-stpo--fortführung-des-verfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=193) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-193-stpo--fortführung-des-verfahrens)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-193-stpo--fortführung-des-verfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=193) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-193-stpo--fortführung-des-verfahrens) \]
 
 ----
 
@@ -4721,7 +4721,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ist überdies der Rechtsschutzbeauftragte unter Anführung des Grundes der Einstellung \(§§ 190 bis 192\) samt einer Begründung nach Abs\. 2 zu verständigen\. Auf sein Verlangen ist ihm der Ermittlungsakt zu übersenden, in welchem Fall die Frist zur Einbringung eines Antrags auf Fortführung \(§ 195 Abs\. 2\) mit dem Einlangen des Aktes auf sechs Monate verlängert wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-194-stpo--verständigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=194) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-194-stpo--verständigungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-194-stpo--verständigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=194) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-194-stpo--verständigungen) \]
 
 ----
 
@@ -4741,7 +4741,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Erachtet die Staatsanwaltschaft den Antrag für berechtigt, so hat sie das Verfahren unabhängig von den Voraussetzungen des § 193 Abs\. 2 Z 1 oder 2 fortzuführen\. Andernfalls hat sie ihn mit dem Akt und einer Stellungnahme dem Gericht zu übermitteln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-195-stpo--antrag-auf-fortführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=195) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-195-stpo--antrag-auf-fortführung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-195-stpo--antrag-auf-fortführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=195) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-195-stpo--antrag-auf-fortführung) \]
 
 ----
 
@@ -4753,7 +4753,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Gibt das Gericht dem Antrag statt, so hat die Staatsanwaltschaft das Verfahren fortzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-196-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=196) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-196-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-196-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=196) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-196-stpo) \]
 
 ----
 
@@ -4771,7 +4771,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Weitergehende Rechte des Beschuldigten nach diesem Bundesgesetz, dem Amtshaftungsgesetz, BGBl\. Nr\. 20/1949, und dem Strafrechtlichen Entschädigungsgesetz 2005, BGBl\. I Nr\. 125/2004, bleiben unberührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-196a-stpo--beitrag-zu-den-kosten-der-verteidigung-im-ermittlungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=196a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-196a-stpo--beitrag-zu-den-kosten-der-verteidigung-im-ermittlungsverfahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-196a-stpo--beitrag-zu-den-kosten-der-verteidigung-im-ermittlungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=196a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-196a-stpo--beitrag-zu-den-kosten-der-verteidigung-im-ermittlungsverfahren) \]
 
 ----
 
@@ -4789,7 +4789,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Einem abwesenden oder flüchtigen Beschuldigten, der freiwillig erklärt, sich dem Verfahren stellen zu wollen, kann sicheres Geleit vom Bundesministerium für Justiz nach Stellungnahme der Oberstaatsanwaltschaft, in deren Sprengel die zuständige Staatsanwaltschaft ihren Sitz hat, allenfalls gegen Sicherheitsleistung sowie gegen Ablegung der im § 173 Abs\. 5 Z 1 und 2 erwähnten Gelöbnisse mit der Wirkung erteilt werden, dass der Beschuldigte wegen der Straftat, für die das sichere Geleit erteilt wurde, bis zur Urteilsfällung in erster Instanz von der Haft befreit bleiben soll\. Für die Sicherheitsleistung, ihren Verfall und den Verlust der Wirkung des sicheren Geleits gilt § 180 sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-197-stpo--abbrechung-des-ermittlungsverfahrens-gegen-abwesende-und-gegen-unbekannte-täter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=197) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-197-stpo--abbrechung-des-ermittlungsverfahrens-gegen-abwesende-und-gegen-unbekannte-täter)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-197-stpo--abbrechung-des-ermittlungsverfahrens-gegen-abwesende-und-gegen-unbekannte-täter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=197) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-197-stpo--abbrechung-des-ermittlungsverfahrens-gegen-abwesende-und-gegen-unbekannte-täter) \]
 
 ----
 
@@ -4807,7 +4807,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` neue Tatsachen oder Beweismittel beigebracht werden, die für sich allein oder im Zusammenhalt mit übrigen Verfahrensergebnissen geeignet erscheinen, einen Anfangsverdacht \(§ 1 Abs\. 3\) zu begründen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-197a-stpo--absehen-von-der-einleitung-eines-ermittlungsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=197a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-197a-stpo--absehen-von-der-einleitung-eines-ermittlungsverfahrens)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-197a-stpo--absehen-von-der-einleitung-eines-ermittlungsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=197a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-197a-stpo--absehen-von-der-einleitung-eines-ermittlungsverfahrens) \]
 
 ----
 
@@ -4817,7 +4817,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` In der Verständigung ist anzuführen, aus welchem Grund von der Einleitung eines Ermittlungsverfahrens abgesehen wurde\. § 194 Abs\. 3 gilt sinngemäß\. Überdies sind Personen, die zur Einbringung eines Antrags auf Verfolgung einer Straftat \(§ 197c\) berechtigt sind, über die Möglichkeit der Einbringung eines solchen Antrags und seine Voraussetzungen zu informieren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-197b-stpo--verständigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=197b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-197b-stpo--verständigungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-197b-stpo--verständigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=197b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-197b-stpo--verständigungen) \]
 
 ----
 
@@ -4825,7 +4825,7 @@ Der Nationalrat hat beschlossen:
 
 > Im Fall eines Vorgehens nach § 197a Abs\. 1 erster Fall sind Personen, die Opfer \(§ 65 Z 1\) einer Straftat sein könnten, berechtigt, einen Antrag auf Verfolgung dieser Straftat zu stellen\. Für den Antrag und die Entscheidung darüber gelten § 195 und § 196 mit Ausnahme des Abs\. 1 vorletzter und letzter Satz sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-197c-stpo--antrag-auf-verfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=197c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-197c-stpo--antrag-auf-verfolgung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-197c-stpo--antrag-auf-verfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=197c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-197c-stpo--antrag-auf-verfolgung) \]
 
 ----
 
@@ -4857,7 +4857,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Nach diesem Hauptstück darf im Fall des Missbrauchs der Amtsgewalt nach § 302 Abs\. 1 StGB nur vorgegangen werden, soweit der Beschuldigte durch die Tat keine oder eine bloß geringfügige oder sonst unbedeutende Schädigung an Rechten herbeigeführt hat und die Tat nicht auch nach §§ 304 oder 307 StGB mit Strafe bedroht ist\. Im Übrigen ist ein Vorgehen nach diesem Hauptstück ausgeschlossen, soweit es sich um eine im Zehnten Abschnitt des Besonderen Teils des StGB geregelte strafbare Handlung handelt, die mit mehr als dreijähriger Freiheitsstrafe bedroht ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-198-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=198) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-198-stpo--allgemeines)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-198-stpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=198) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-198-stpo--allgemeines) \]
 
 ----
 
@@ -4865,7 +4865,7 @@ Der Nationalrat hat beschlossen:
 
 > Nach Einbringen der Anklage wegen Begehung einer strafbaren Handlung, die von Amts wegen zu verfolgen ist, hat das Gericht die für die Staatsanwaltschaft geltenden Bestimmungen der §§ 198, 200 bis 209b sinngemäß anzuwenden und das Verfahren unter den für die Staatsanwaltschaft geltenden Voraussetzungen bis zum Schluss der Hauptverhandlung mit Beschluss einzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-199-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=199) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-199-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-199-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=199) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-199-stpo) \]
 
 ----
 
@@ -4881,7 +4881,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Leistung des Geldbetrages und allfälliger Schadensgutmachung hat die Staatsanwaltschaft von der Verfolgung zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-200-stpo--zahlung-eines-geldbetrages) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=200) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-200-stpo--zahlung-eines-geldbetrages)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-200-stpo--zahlung-eines-geldbetrages) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=200) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-200-stpo--zahlung-eines-geldbetrages) \]
 
 ----
 
@@ -4897,7 +4897,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Nach Erbringung der gemeinnützigen Leistungen und allfälligem Tatfolgenausgleich hat die Staatsanwaltschaft von der Verfolgung endgültig zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-201-stpo--gemeinnützige-leistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=201) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-201-stpo--gemeinnützige-leistungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-201-stpo--gemeinnützige-leistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=201) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-201-stpo--gemeinnützige-leistungen) \]
 
 ----
 
@@ -4913,7 +4913,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Erleidet der Beschuldigte bei Erbringung gemeinnütziger Leistungen einen Unfall oder eine Krankheit, so gelten die Bestimmungen der §§ 76 bis 84 des Strafvollzugsgesetzes dem Sinne nach\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-202-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=202) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-202-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-202-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=202) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-202-stpo) \]
 
 ----
 
@@ -4927,7 +4927,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Nach Ablauf der Probezeit und Erfüllung allfälliger Pflichten hat die Staatsanwaltschaft von der Verfolgung endgültig zurückzutreten, sofern das Verfahren nicht gemäß § 205 nachträglich fortzusetzen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-203-stpo--probezeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=203) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-203-stpo--probezeit)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-203-stpo--probezeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=203) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-203-stpo--probezeit) \]
 
 ----
 
@@ -4941,7 +4941,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Konfliktregler hat der Staatsanwaltschaft über Ausgleichsvereinbarungen zu berichten und deren Erfüllung zu überprüfen\. Einen abschließenden Bericht hat er zu erstatten, wenn der Beschuldigte seinen Verpflichtungen zumindest soweit nachgekommen ist, dass unter Berücksichtigung seines übrigen Verhaltens angenommen werden kann, er werde die Vereinbarungen weiter einhalten, oder wenn nicht mehr zu erwarten ist, dass ein Ausgleich zustande kommt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-204-stpo--tatausgleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=204) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-204-stpo--tatausgleich)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-204-stpo--tatausgleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=204) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-204-stpo--tatausgleich) \]
 
 ----
 
@@ -4963,7 +4963,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Verpflichtungen, die der Beschuldigte übernommen, und Zahlungen und sonstige Ausgleichsmaßnahmen, zu denen er sich bereit erklärt hat, werden mit der nachträglichen Fortsetzung des Verfahrens gegenstandslos\. Die Bewährungshilfe endet; § 179 bleibt jedoch unberührt\. Geldbeträge, die der Beschuldigte geleistet hat \(§ 200\), sind auf eine nicht bedingt nachgesehene Geldstrafe unter sinngemäßer Anwendung des § 38 Abs\. 1 Z 1 StGB anzurechnen; im Übrigen sind sie zurückzuzahlen\. Andere Leistungen sind nicht zu ersetzen, im Fall einer Verurteilung jedoch gleichfalls angemessen auf die Strafe anzurechnen\. Dabei sind insbesondere Art und Dauer der Leistung zu berücksichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-205-stpo--nachträgliche-fortsetzung-des-strafverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=205) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-205-stpo--nachträgliche-fortsetzung-des-strafverfahrens)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-205-stpo--nachträgliche-fortsetzung-des-strafverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=205) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-205-stpo--nachträgliche-fortsetzung-des-strafverfahrens) \]
 
 ----
 
@@ -4973,7 +4973,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Opfer ist jedenfalls zu verständigen, wenn sich der Beschuldigte bereit erklärt, aus der Tat entstandenen Schaden gutzumachen oder sonst zum Ausgleich der Folgen der Tat beizutragen\. Gleiches gilt für den Fall, dass der Beschuldigte eine Pflicht übernimmt, welche die Interessen des Geschädigten unmittelbar berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-206-stpo--rechte-und-interessen-der-opfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=206) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-206-stpo--rechte-und-interessen-der-opfer)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-206-stpo--rechte-und-interessen-der-opfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=206) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-206-stpo--rechte-und-interessen-der-opfer) \]
 
 ----
 
@@ -4981,7 +4981,7 @@ Der Nationalrat hat beschlossen:
 
 > Bei einem Vorgehen nach diesem Hauptstück ist der Beschuldigte eingehend über seine Rechte zu informieren, insbesondere über die Voraussetzungen für einen Rücktritt von der Verfolgung, über das Erfordernis seiner Zustimmung, über seine Möglichkeit, eine Fortsetzung des Verfahrens zu verlangen, über die sonstigen Umstände, die eine Fortsetzung des Verfahrens bewirken können \(§ 205 Abs\. 2\) und über die Notwendigkeit eines Pauschalkostenbeitrags \(§ 388\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-207-stpo--information-des-beschuldigten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=207) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-207-stpo--information-des-beschuldigten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-207-stpo--information-des-beschuldigten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=207) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-207-stpo--information-des-beschuldigten) \]
 
 ----
 
@@ -4993,7 +4993,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Vom Rücktritt von der Verfolgung hat die Staatsanwaltschaft die Kriminalpolizei, den Beschuldigten, das Opfer und, sofern es mit dem Verfahren befasst war, das Gericht zu verständigen\. Hat das Gericht das Verfahren gemäß § 199 eingestellt, obliegen die Verständigungen diesem\. In der Verständigung sind die maßgebenden Umstände für die Erledigung in Schlagworten darzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-208-stpo--gemeinsame-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=208) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-208-stpo--gemeinsame-bestimmungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-208-stpo--gemeinsame-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=208) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-208-stpo--gemeinsame-bestimmungen) \]
 
 ----
 
@@ -5005,7 +5005,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Solange über eine Beschwerde gegen einen Beschluss, mit dem ein Antrag auf Einstellung des Strafverfahrens nach diesem Hauptstück abgewiesen wurde, noch nicht entschieden wurde, ist die Durchführung einer Hauptverhandlung nicht zulässig\. Eine Beschwerde gegen die nachträgliche Fortsetzung des Strafverfahrens hat aufschiebende Wirkung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-209-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=209) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-209-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-209-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=209) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-209-stpo) \]
 
 ----
 
@@ -5039,7 +5039,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Im Verfahren gegen Verbände nach dem Verbandsverantwortlichkeitsgesetz \(VbVG\), BGBl\. I Nr\. 151/2005, ist sinngemäß mit der Maßgabe vorzugehen, dass die Bestimmungen des § 19 Abs\. 1 Z 1 bis 3 VbVG anzuwenden sind\. Der zu entrichtende Geldbetrag darf abweichend von § 19 Abs\. 1 Z 1 VbVG einer Verbandsgeldbuße von 100 Tagessätzen entsprechen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-209a-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=209a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-209a-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-209a-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=209a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-209a-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft) \]
 
 ----
 
@@ -5049,7 +5049,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Staatsanwaltschaft hat sodann das Ermittlungsverfahren gegen die Mitarbeiter, die Staatsanwaltschaft und Gericht ihr gesamtes Wissen über die eigenen Taten und andere Tatsachen, die für die Aufklärung der durch die Zuwiderhandlung begangenen Straftaten von Bedeutung sind, offenbart haben, unter dem Vorbehalt späterer Verfolgung einzustellen\. § 209a Abs\. 5 und 6 gelten sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-209b-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft-im-zusammenhang-mit-einer-kartellrechtlichen-zuwiderhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=209b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-209b-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft-im-zusammenhang-mit-einer-kartellrechtlichen-zuwiderhandlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-209b-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft-im-zusammenhang-mit-einer-kartellrechtlichen-zuwiderhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=209b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-209b-stpo--rücktritt-von-der-verfolgung-wegen-zusammenarbeit-mit-der-staatsanwaltschaft-im-zusammenhang-mit-einer-kartellrechtlichen-zuwiderhandlung) \]
 
 ----
 
@@ -5075,7 +5075,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Außerhalb der Hauptverhandlung bestimmt sich die Zuständigkeit des Landesgerichts als Geschworenen\- oder Schöffengericht nach § 32 Abs\. 3\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-210-stpo--die-anklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=210) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-210-stpo--die-anklage)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-210-stpo--die-anklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=210) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.016.md#-210-stpo--die-anklage) \]
 
 ----
 
@@ -5095,7 +5095,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` In der Anklageschrift hat die Staatsanwaltschaft ihre Anträge für das Hauptverfahren zu stellen und dabei insbesondere auch die Beweise anzuführen, die im Hauptverfahren aufgenommen werden sollen; die Zuständigkeit des angerufenen Gerichts ist erforderlichenfalls zu begründen\. Schließlich ist der Sachverhalt nach den Ergebnissen des Ermittlungsverfahrens zusammenzufassen und zu beurteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-211-stpo--inhalt-der-anklageschrift) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=211) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-211-stpo--inhalt-der-anklageschrift)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-211-stpo--inhalt-der-anklageschrift) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=211) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-211-stpo--inhalt-der-anklageschrift) \]
 
 ----
 
@@ -5119,7 +5119,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `8.` die Staatsanwaltschaft das Verfahren zu Unrecht nachträglich gemäß § 205 Abs\. 2 oder nach § 38 Abs\. 1 oder 1a SMG fortgesetzt hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-212-stpo--einspruch-gegen-die-anklageschrift) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=212) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-212-stpo--einspruch-gegen-die-anklageschrift)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-212-stpo--einspruch-gegen-die-anklageschrift) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=212) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-212-stpo--einspruch-gegen-die-anklageschrift) \]
 
 ----
 
@@ -5137,7 +5137,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Ein Einspruch ist dem Oberlandesgericht vorzulegen\. Hat das Gericht Bedenken gegen seine Zuständigkeit, so hat es diese dem Oberlandesgericht unter Angabe der Gründe mitzuteilen, und zwar auch dann, wenn ein Einspruch nicht erhoben wurde\. Für ein solches Begehren gelten die Vorschriften über den Einspruch sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-213-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=213) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-213-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-213-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=213) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-213-stpo) \]
 
 ----
 
@@ -5149,7 +5149,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird der Einspruch von einem Angeklagten erhoben, der sich in Untersuchungshaft befindet, so hat das Oberlandesgericht von Amts wegen über die Haft zu entscheiden\. Beschließt das Oberlandesgericht die Fortsetzung der Haft, so gilt § 174 Abs\. 3 Z 1 bis 5 sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-214-stpo--verfahren-vor-dem-oberlandesgericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=214) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-214-stpo--verfahren-vor-dem-oberlandesgericht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-214-stpo--verfahren-vor-dem-oberlandesgericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=214) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-214-stpo--verfahren-vor-dem-oberlandesgericht) \]
 
 ----
 
@@ -5167,7 +5167,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Liegt keiner der Fälle der Abs\. 2 bis 4 vor, so hat das Oberlandesgericht den Einspruch abzuweisen und die Rechtswirksamkeit der Anklageschrift festzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-215-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=215) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-215-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-215-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=215) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-215-stpo) \]
 
 ----
 
@@ -5177,7 +5177,7 @@ Der Nationalrat hat beschlossen:
 
 > Beteiligte des Hauptverfahrens sind neben der Staatsanwaltschaft \(§ 210 Abs\. 2\) der Angeklagte \(§ 48 Abs\. 1 Z 2\), der Haftungsbeteiligte \(§ 64\), der Privatankläger \(§ 71\), der Subsidiarankläger \(§ 72\) sowie der Privatbeteiligte \(§ 67\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-220-stpo--vorbereitungen-zur-hauptverhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=220) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-220-stpo--vorbereitungen-zur-hauptverhandlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-220-stpo--vorbereitungen-zur-hauptverhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=220) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-220-stpo--vorbereitungen-zur-hauptverhandlung) \]
 
 ----
 
@@ -5191,7 +5191,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist zu erwarten, dass die Hauptverhandlung von längerer Dauer sein wird, so ist für den Fall der Verhinderung eines Richters oder Schöffen die erforderliche Anzahl von Ersatzrichtern und Ersatzschöffen, und zwar nach der in der Geschäftsverteilung beziehungsweise Dienstliste \(§§ 13 und 14 des Geschworenen\- und Schöffengesetzes – GSchG, BGBl\. Nr\. 256/1990\) zu bestimmenden Reihenfolge zu laden\. Auf § 32 Abs\. 2 ist Bedacht zu nehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-221-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=221) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-221-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-221-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=221) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-221-stpo) \]
 
 ----
 
@@ -5203,7 +5203,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Dem Verteidiger steht es auch frei, eine schriftliche Gegenäußerung \(§ 244 Abs\. 3\) zur Anklageschrift einzubringen, in die er die Anträge gemäß Abs\. 1 aufzunehmen hat\. Für eine solche Gegenäußerung gilt Abs\. 1; stützt sich die Anklageschrift auf Befund und Gutachten eines Sachverständigen, so kann der Gegenäußerung eine Stellungnahme samt Schlussfolgerungen einer Person mit besonderem Fachwissen zur Begründung eines Beweisantrags nach Abs\. 1 angeschlossen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-222-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=222) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-222-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-222-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=222) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-222-stpo) \]
 
 ----
 
@@ -5211,7 +5211,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-223-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=223) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-223-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-223-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=223) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-223-stpo) \]
 
 ----
 
@@ -5233,7 +5233,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Gegen einen Beschluss gemäß Abs\. 1 steht den Beteiligten ein selbständiges, die weitere Verhandlung hemmendes Rechtsmittel nicht zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-226-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=226) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-226-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-226-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=226) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-226-stpo) \]
 
 ----
 
@@ -5243,7 +5243,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Staatsanwaltschaft hat das Recht, die von ihr eingebrachte Anklageschrift unter gleichzeitiger Einbringung einer neuen zurückzuziehen, wenn dies erforderlich ist, um eine gemeinsame Verfahrensführung wegen neuer Vorwürfe oder einer auf Grund neuer Tatsachen oder Beweismittel geänderten rechtlichen Beurteilung zu ermöglichen\. Mit der neuen Anklageschrift ist sodann nach den im 12\. Hauptstück enthaltenen Bestimmungen zu verfahren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-227-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=227) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-227-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-227-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=227) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-227-stpo) \]
 
 ----
 
@@ -5265,7 +5265,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Fernseh\- und Hörfunkaufnahmen und \-übertragungen sowie Film\- und Fotoaufnahmen von Verhandlungen der Gerichte sind unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-228-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=228) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-228-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-228-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=228) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-228-stpo) \]
 
 ----
 
@@ -5285,7 +5285,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Verkündung des Urteils \(§§ 259, 260\) hat stets in öffentlicher Sitzung zu erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-229-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=229) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-229-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-229-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=229) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-229-stpo) \]
 
 ----
 
@@ -5295,7 +5295,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Richter und Staatsanwälte des Dienststandes, Richteramtsanwärter und Rechtspraktikanten sowie die in § 48 Abs\. 1 Z 5 genannten Personen dürfen niemals ausgeschlossen werden\. Angeklagte, Opfer, Privatbeteiligte oder Privatankläger können verlangen, dass drei Personen ihres Vertrauens der Zutritt gestattet werde\. § 160 Abs\. 2 und 3 ist sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-230-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=230) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-230-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-230-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=230) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-230-stpo) \]
 
 ----
 
@@ -5305,7 +5305,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 70\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-230a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=230a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-230a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-230a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=230a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-230a-stpo) \]
 
 ----
 
@@ -5321,7 +5321,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wenn mehrere Anklagepunkte vorliegen, kann er verfügen, daß über jeden oder über einzelne davon abgesondert zu verhandeln sei\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-232-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=232) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-232-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-232-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=232) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-232-stpo) \]
 
 ----
 
@@ -5333,7 +5333,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Zeichen des Beifalles oder der Mißbilligung sind untersagt\. Der Vorsitzende ist berechtigt, Personen, die die Sitzung durch solche Zeichen oder auf eine andere Weise stören, zur Ordnung zu ermahnen und nötigenfalls einzelne oder alle Zuhörer aus dem Sitzungssaal entfernen zu lassen\. Widersetzt sich jemand oder werden die Störungen wiederholt, so kann der Vorsitzende über die Widersetzlichen eine Ordnungsstrafe bis zu 1 000 Euro, wenn es aber zur Aufrechterhaltung der Ordnung unerläßlich ist, eine Freiheitsstrafe bis zu acht Tagen verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-233-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=233) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-233-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-233-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=233) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-233-stpo) \]
 
 ----
 
@@ -5341,7 +5341,7 @@ Der Nationalrat hat beschlossen:
 
 > Wenn der Angeklagte die Ordnung der Verhandlung durch ungeziemendes Benehmen stört und ungeachtet der Ermahnung des Vorsitzenden und der Androhung, daß er aus der Sitzung werde entfernt werden, nicht davon absteht, so kann er durch Beschluß des Schöffengerichts auf einige Zeit oder für die ganze Dauer der Verhandlung aus dieser entfernt, die Sitzung in seiner Abwesenheit fortgesetzt und ihm das Urteil durch ein Mitglied des Schöffengerichts in Gegenwart des Schriftführers verkündet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-234-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=234) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-234-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-234-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=234) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-234-stpo) \]
 
 ----
 
@@ -5349,7 +5349,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Vorsitzende hat darüber zu wachen, daß gegen niemand Beschimpfungen oder offenbar ungegründete oder zur Sache nicht gehörige Beschuldigungen vorgebracht werden\. Haben sich Angeklagte, Privatankläger, Privatbeteiligte, Opfer, Haftungsbeteiligte, Zeugen oder Sachverständige solche Äußerungen erlaubt, so kann das Schöffengericht gegen sie auf Antrag des Betroffenen oder der Staatsanwaltschaft oder von Amts wegen gemäß §§ 233 Abs\. 3 und 234 vorgehen\. Gegebenenfalls ist der Betroffene über seine Rechte zu belehren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-235-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=235) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-235-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-235-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=235) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-235-stpo) \]
 
 ----
 
@@ -5361,7 +5361,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Bei erschwerenden Umständen kann das Oberlandesgericht auf Antrag der Staatsanwaltschaft dem schuldigen Vertreter auch die Befugnis, als Vertreter in Strafsachen vor Gericht zu erscheinen, für die Dauer von einem bis zu sechs Monaten entziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-236-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=236) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-236-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-236-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=236) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-236-stpo) \]
 
 ----
 
@@ -5369,7 +5369,7 @@ Der Nationalrat hat beschlossen:
 
 > Macht sich ein Vertreter eines Beteiligten des Verfahrens, der der Disziplinargewalt einer Standesbehörde unterliegt, des im § 235 umschriebenen Verhaltens schuldig oder verletzt er die dem Gerichte gebührende Achtung, so kann der Vorsitzende nach Abmahnung die im § 236 Abs\. 2 vorgesehenen Maßnahmen treffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-236a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=236a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-236a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-236a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=236a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-236a-stpo) \]
 
 ----
 
@@ -5381,7 +5381,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-237-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=237) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-237-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-237-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=237) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-237-stpo) \]
 
 ----
 
@@ -5393,7 +5393,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Beschluss ist samt seinen Entscheidungsgründen sofort, jedenfalls jedoch vor Schluss der Verhandlung mündlich zu verkünden\. Den Beteiligten steht ein selbständiges, die weitere Verhandlung hemmendes Rechtsmittel gegen ihn nicht zu \(§ 86 Abs\. 3\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-238-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=238) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-238-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-238-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=238) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-238-stpo) \]
 
 ----
 
@@ -5403,7 +5403,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Hauptverhandlung beginnt mit dem Aufruf der Sache\. Der Angeklagte erscheint ungefesselt, jedoch, wenn er in Untersuchungshaft ist, in Begleitung einer Wache\. In den in § 174 Abs\. 1 geregelten Fällen kann bei Angeklagten, die in Untersuchungshaft angehalten werden, gemäß § 153 Abs\. 4 vorgegangen werden\. Die zur Beweisführung etwa erforderlichen Gegenstände, die dem Angeklagten oder den Zeugen zur Anerkennung vorzulegen sind, müssen vor dem Beginn der Verhandlung in den Gerichtssaal gebracht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-239-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=239) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-239-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-239-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=239) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-239-stpo) \]
 
 ----
 
@@ -5411,7 +5411,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Vorsitzende befragt hierauf den Angeklagten um seinen Vor\- und Familiennamen sowie alle früher geführten Namen, Tag und Ort seiner Geburt, seine Staatsangehörigkeit, die Vornamen seiner Eltern, seinen Beruf, seine Anschrift und erforderlichenfalls über andere persönliche Verhältnisse und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-240-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=240) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-240-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-240-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=240) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-240-stpo) \]
 
 ----
 
@@ -5424,7 +5424,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Beeidigung gilt für die Dauer des Kalenderjahres; sie ist im Verhandlungsprotokoll und fortlaufend in einem besonderen Buche zu beurkunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-240a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=240a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-240a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-240a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=240a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-240a-stpo) \]
 
 ----
 
@@ -5434,7 +5434,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Bei den Sachverständigen kann der Vorsitzende in allen Fällen, in denen er es für die Erforschung der Wahrheit zweckdienlich findet, verfügen, daß sie sowohl während der Vernehmung des Angeklagten als auch der Zeugen im Sitzungssaale bleiben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-241-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=241) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-241-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-241-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=241) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-241-stpo) \]
 
 ----
 
@@ -5446,7 +5446,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über den Ausgebliebenen ist mit Beschluss des Vorsitzenden eine Geldstrafe bis zu 1 000 Euro zu verhängen\. Musste die Hauptverhandlung vertagt werden, so ist der Ausgebliebene überdies in diesem Beschluss zum Ersatz der durch sein Ausbleiben verursachten Kosten zu verpflichten\. Soweit dies erforderlich ist, um Anwesenheit des Ausgebliebenen beim neuen Termin sicherzustellen, hat der Vorsitzende dessen Vorführung anzuordnen \(§ 210 Abs\. 3\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-242-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=242) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-242-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-242-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=242) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-242-stpo) \]
 
 ----
 
@@ -5458,7 +5458,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird der Beschwerde nicht durch eine im Abs\. 2 erwähnten Maßnahme zur Gänze entsprochen, so hat sie der Vorsitzende dem Oberlandesgericht zur Entscheidung vorzulegen \(§ 89\)\. Im Übrigen ist gegen einen Beschluss gemäß Abs\. 2 kein Rechtsmittel zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-243-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=243) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-243-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-243-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=243) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-243-stpo) \]
 
 ----
 
@@ -5470,7 +5470,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Verteidiger hat das Recht, auf den Vortrag der Anklage mit einer Gegenäußerung zu erwidern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-244-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=244) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-244-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-244-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=244) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-244-stpo) \]
 
 ----
 
@@ -5486,7 +5486,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Angeklagte darf sich während der Hauptverhandlung mit seinem Verteidiger besprechen, jedoch nicht über die Beantwortung einzelner Fragen beraten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-245-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=245) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-245-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-245-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=245) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.017.md#-245-stpo) \]
 
 ----
 
@@ -5498,7 +5498,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Ankläger und der Angeklagte können im Laufe der Hauptverhandlung Beweismittel fallen lassen, jedoch nur, wenn der Gegner zustimmt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-246-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=246) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-246-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-246-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=246) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-246-stpo) \]
 
 ----
 
@@ -5506,7 +5506,7 @@ Der Nationalrat hat beschlossen:
 
 > Zeugen und Sachverständige werden einzeln aufgerufen und in Anwesenheit der Beteiligten des Verfahrens vernommen\. Sie sind vor ihrer Vernehmung zur Angabe der Wahrheit zu erinnern und über die Folgen einer falschen Aussage zu belehren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-247-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=247) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-247-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-247-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=247) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-247-stpo) \]
 
 ----
 
@@ -5516,7 +5516,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Zeuge, der wegen seines Aufenthalts im Ausland nicht in der Lage oder nicht willens ist, vor Gericht zu erscheinen, kann in gleicher Weise vernommen werden, sofern die zuständige ausländische Behörde Rechtshilfe leistet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-247a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=247a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-247a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-247a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=247a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-247a-stpo) \]
 
 ----
 
@@ -5528,7 +5528,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Dem Angeklagten muss nach der Vernehmung eines jeden Zeugen, Sachverständigen oder Mitangeklagten die Möglichkeit zur Stellungnahme zu den jeweiligen Aussagen geboten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-248-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=248) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-248-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-248-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=248) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-248-stpo) \]
 
 ----
 
@@ -5540,7 +5540,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Angeklagte kann zur Befragung eines Sachverständigen eine Person mit besonderem Fachwissen beiziehen, der ein Sitz neben dem Verteidiger zu gestatten ist\. Diese darf den Verteidiger bei der Fragestellung unterstützen oder selbst Fragen zu Befund und Gutachten an den Sachverständigen richten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-249-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=249) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-249-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-249-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=249) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-249-stpo) \]
 
 ----
 
@@ -5552,7 +5552,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Opfer gemäß § 65 Z 1 lit\. a und besonders schutzbedürftige Opfer \(§ 66a\) hat der Vorsitzende auf ihren Antrag auf die in § 165 Abs\. 3 beschriebene Art und Weise zu vernehmen; im Übrigen hat er bei der Vernehmung von Zeugen § 165 sinngemäß anzuwenden\. Dabei hat er auch den bei der Befragung nicht anwesenden Mitgliedern des Schöffengerichts Gelegenheit zu geben, die Vernehmung des Zeugen mitzuverfolgen und den Zeugen zu befragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-250-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=250) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-250-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-250-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=250) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-250-stpo) \]
 
 ----
 
@@ -5560,7 +5560,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Beteiligten des Verfahrens können verlangen, dass sich Zeugen nach ihrer Vernehmung aus dem in § 248 Abs\. 1 letzter Satz genannten Grund aus dem Sitzungssaal entfernen und später wieder aufgerufen und entweder allein oder in Gegenwart anderer Zeugen erneut vernommen werden\. Der Vorsitzende kann dies auch von Amts wegen anordnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-251-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=251) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-251-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-251-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=251) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-251-stpo) \]
 
 ----
 
@@ -5586,7 +5586,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Bestimmungen des Abs\. 1 dürfen bei sonstiger Nichtigkeit nicht umgangen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-252-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=252) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-252-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-252-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=252) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-252-stpo) \]
 
 ----
 
@@ -5594,7 +5594,7 @@ Der Nationalrat hat beschlossen:
 
 > Im Laufe oder am Schlusse des Beweisverfahrens läßt der Vorsitzende dem Angeklagten und, soweit es nötig ist, den Zeugen und Sachverständigen die Gegenstände, die zur Aufklärung des Sachverhaltes dienen können, vorlegen und fordert sie auf, sich zu erklären, ob sie diese anerkennen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-253-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=253) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-253-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-253-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=253) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-253-stpo) \]
 
 ----
 
@@ -5604,7 +5604,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Vorsitzende kann auch neue Sachverständige bestellen oder die Aufnahme anderer Beweise anordnen, insbesondere einen Augenschein in Anwesenheit der Beteiligten des Verfahrens durchführen oder durch den beisitzenden Richter vornehmen lassen\. Soweit besondere Umstände eine Durchführung der Beweisaufnahme vor dem Schöffengericht nicht zulassen, ist über die Ergebnisse in der Hauptverhandlung zu berichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-254-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=254) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-254-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-254-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=254) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-254-stpo) \]
 
 ----
 
@@ -5618,7 +5618,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Dem Angeklagten und seinem Verteidiger steht das Recht zu, darauf zu antworten\. Findet der Staatsanwalt, der Privatankläger oder der Privatbeteiligte hierauf etwas zu erwidern, so gebührt dem Angeklagten und seinem Verteidiger jedenfalls die Schlußrede\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-255-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=255) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-255-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-255-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=255) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-255-stpo) \]
 
 ----
 
@@ -5628,7 +5628,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Doch steht es dem Vorsitzenden oder dem Schöffengericht \(§ 238\) frei, zu verfügen, daß die Schlußvorträge über die Schuldfrage von denen über die Strafbestimmungen, über die privatrechtlichen Ansprüche und über die Prozeßkosten zu trennen seien\. In diesen Fällen werden, nachdem das Schöffengericht über die Schuld des Angeklagten entschieden und seinen Ausspruch verkündet hat, neuerlich Schlußvorträge gehalten, die jedoch auf die noch zu entscheidenden Fragen einzuschränken sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-256-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=256) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-256-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-256-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=256) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-256-stpo) \]
 
 ----
 
@@ -5638,7 +5638,7 @@ Der Nationalrat hat beschlossen:
 
 > Nachdem der Vorsitzende die Verhandlung für geschlossen erklärt hat, zieht sich das Schöffengericht zur Urteilsfällung in das Beratungszimmer zurück\. Der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-257-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=257) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-257-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-257-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=257) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-257-stpo) \]
 
 ----
 
@@ -5650,7 +5650,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Bei der Beurteilung der Aussage eines Zeugen, dem nach § 162 gestattet worden ist, bestimmte Fragen nicht zu beantworten, ist insbesondere zu prüfen, ob dem Gericht und den Beteiligten ausreichend Gelegenheit geboten war, sich mit der Glaubwürdigkeit des Zeugen und der Beweiskraft seiner Aussage auseinanderzusetzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-258-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=258) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-258-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-258-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=258) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-258-stpo) \]
 
 ----
 
@@ -5664,7 +5664,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` wenn das Schöffengericht erkennt, daß die der Anklage zugrunde liegende Tat vom Gesetze nicht mit Strafe bedroht oder der Tatbestand nicht hergestellt oder nicht erwiesen sei, daß der Angeklagte die ihm zur Last gelegte Tat begangen habe, oder daß Umstände vorliegen, durch die die Strafbarkeit aufgehoben oder die Verfolgung aus anderen als den unter Z\. 1 und 2 angegebenen Gründen ausgeschlossen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-259-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=259) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-259-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-259-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=259) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-259-stpo) \]
 
 ----
 
@@ -5691,7 +5691,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ist die im Abs\. 2 genannte Feststellung im Strafurteil unterblieben, so ist sie von Amts wegen oder auf Antrag eines zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten mit Beschluß nachzuholen\. Gegen diesen Beschluß, der dem Ankläger und dem Angeklagten zuzustellen ist, steht jedem zur Ergreifung der Nichtigkeitsbeschwerde Berechtigten die binnen vierzehn Tagen einzubringende Beschwerde an das Oberlandesgericht zu\. Ist außer über die Beschwerde noch über eine von wem immer ergriffene Nichtigkeitsbeschwerde zu entscheiden, so entscheidet der Oberste Gerichtshof auch über die Beschwerde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-260-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=260) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_287_TextContainer_287) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-260-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-260-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=260) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_287_TextContainer_287) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-260-stpo) \]
 
 ----
 
@@ -5701,7 +5701,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Sobald dieses Urteil rechtskräftig ist, hat die Staatsanwaltschaft binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts das Ermittlungsverfahren fortzuführen oder die Anordnung der Hauptverhandlung vor dem Geschworenengericht zu beantragen, wenn weitere Ermittlungen nicht erforderlich sind\. Im ersten Falle muß eine neue Anklageschrift eingebracht werden; außer diesem Fall aber ist bei der neuen Hauptverhandlung die ursprüngliche Anklageschrift und der nach diesem Paragraphen gefällte Ausspruch des Schöffengerichtes zu verlesen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-261-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=261) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_288_TextContainer_288) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-261-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-261-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=261) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_288_TextContainer_288) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-261-stpo) \]
 
 ----
 
@@ -5709,7 +5709,7 @@ Der Nationalrat hat beschlossen:
 
 > Erachtet das Schöffengericht, daß die der Anklage zugrunde liegenden Tatsachen an sich oder in Verbindung mit den erst in der Hauptverhandlung hervorgetretenen Umständen eine andere als die in der Anklage bezeichnete, nicht einem Gerichte höherer Ordnung vorbehaltene strafbare Handlung begründen, so hat es die Beteiligten des Verfahrens über den geänderten rechtlichen Gesichtspunkt zu hören und über einen allfälligen Vertagungsantrag zu entscheiden\. Das Urteil schöpft es nach seiner rechtlichen Überzeugung, ohne an die in der Anklageschrift enthaltene Bezeichnung der Tat gebunden zu sein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-262-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=262) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_289_TextContainer_289) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-262-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-262-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=262) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_289_TextContainer_289) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-262-stpo) \]
 
 ----
 
@@ -5723,7 +5723,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` In beiden Fällen muss der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts von der Verfolgung zurücktreten \(§ 209 Abs\. 1\), die Anklage einbringen oder das Ermittlungsverfahren fortführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-263-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=263) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_290_TextContainer_290) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-263-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-263-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=263) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_290_TextContainer_290) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-263-stpo) \]
 
 ----
 
@@ -5733,7 +5733,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Macht der Ankläger von dem im § 263 erwähnten Vorbehalte Gebrauch, so kann das Schöffengericht anordnen, daß die Vollstreckung des unter diesem Vorbehalt erlassenen Urteiles bis zur Entscheidung über die neue Anklage auf sich zu beruhen habe\. In diesem Falle sind beide Urteile hinsichtlich der Rechtsmittel so zu behandeln, als wären sie gleichzeitig gefällt worden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-264-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=264) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_291_TextContainer_291) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-264-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-264-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=264) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_291_TextContainer_291) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-264-stpo) \]
 
 ----
 
@@ -5743,7 +5743,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für den Beschluß nach Abs\. 1 und für das Verfahren nach einer solchen bedingten Entlassung gelten die Bestimmungen des 24\. Hauptstückes dem Sinne nach\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-265-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=265) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-265-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-265-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=265) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-265-stpo) \]
 
 ----
 
@@ -5751,7 +5751,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 82\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-265a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=265a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_293_TextContainer_293) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-265a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-265a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=265a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_293_TextContainer_293) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-265a-stpo) \]
 
 ----
 
@@ -5759,7 +5759,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-265b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=265b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_294_TextContainer_294) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-265b-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-265b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=265b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_294_TextContainer_294) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-265b-stpo) \]
 
 ----
 
@@ -5767,7 +5767,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 82\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-265c-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=265c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_295_TextContainer_295) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-265c-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-265c-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=265c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_295_TextContainer_295) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-265c-stpo) \]
 
 ----
 
@@ -5777,7 +5777,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs\. 1 gefällt worden wäre, so hat das Gericht diesen aufzuheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-266-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=266) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_296_TextContainer_296) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-266-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-266-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=266) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_296_TextContainer_296) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-266-stpo) \]
 
 ----
 
@@ -5785,7 +5785,7 @@ Der Nationalrat hat beschlossen:
 
 > An die Anträge des Anklägers ist das Schöffengericht nur insoweit gebunden, daß es den Angeklagten nicht einer Tat schuldig erklären kann, auf die die Anklage weder ursprünglich gerichtet noch während der Hauptverhandlung ausgedehnt wurde \(§ 4 Abs\. 3\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-267-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=267) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_297_TextContainer_297) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-267-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-267-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=267) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_297_TextContainer_297) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-267-stpo) \]
 
 ----
 
@@ -5795,7 +5795,7 @@ Der Nationalrat hat beschlossen:
 
 > Unmittelbar nach dem Beschlusse des Schöffengerichts ist der Angeklagte wieder vorzuführen oder vorzurufen und ist in öffentlicher Sitzung vom Vorsitzenden das Urteil samt dessen wesentlichen Gründen unter Verlesung der angewendeten Gesetzesbestimmungen zu verkünden\. Zugleich belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-268-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=268) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_298_TextContainer_298) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-268-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-268-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=268) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_298_TextContainer_298) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-268-stpo) \]
 
 ----
 
@@ -5803,7 +5803,7 @@ Der Nationalrat hat beschlossen:
 
 > Hat sich der Angeklagte zur Urteilsverkündung nicht eingefunden, so kann der Vorsitzende ihn zu diesem Zwecke vorführen lassen oder anordnen, daß ihm das Urteil entweder durch einen hiezu abgeordneten Richter mündlich eröffnet oder in Abschrift zugestellt werde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-269-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=269) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_299_TextContainer_299) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-269-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-269-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=269) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_299_TextContainer_299) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-269-stpo) \]
 
 ----
 
@@ -5833,7 +5833,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` im Fall eines Freispruchs eine gedrängte Darstellung der dafür maßgebenden Gründe\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-270-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=270) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_300_TextContainer_300) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-270-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-270-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=270) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_300_TextContainer_300) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.018.md#-270-stpo) \]
 
 ----
 
@@ -5873,7 +5873,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Für die Berichtigung von Schreib\- und Rechenfehlern im Verhandlungsprotokoll gilt § 270 Abs\. 3 erster Satz sinngemäß\. Im Übrigen hat der Vorsitzende das Protokoll von Amts wegen oder auf Antrag einer zur Ergreifung von Berufung oder Nichtigkeitsbeschwerde berechtigten Partei nach Vornahme der erforderlichen Erhebungen durch Beschluss zu ergänzen oder zu berichtigen, soweit erhebliche Umstände oder Vorgänge im Protokoll der Hauptverhandlung zu Unrecht nicht erwähnt oder unrichtig wiedergegeben wurden\. Der Antrag ist spätestens mit Ablauf der für die Ausführung einer gegen das Urteil angemeldeten Nichtigkeitsbeschwerde oder Berufung offen stehenden Frist einzubringen, ansonsten als unzulässig zurückzuweisen\. Den Parteien ist Gelegenheit zur Stellungnahme zur in Aussicht genommenen oder begehrten Berichtigung oder Ergänzung und zu den Ergebnissen der gepflogenen Erhebungen binnen festzusetzender angemessener Frist einzuräumen\. § 270 Abs\. 3 zweiter bis vierter Satz gilt sinngemäß\. Wird eine Ergänzung oder Berichtigung des Verhandlungsprotokolls nach Zustellung der Abschrift des Urteils an den Beschwerdeführer vorgenommen, so löst erst die neuerliche Zustellung die Fristen zur Ausführung angemeldeter Rechtsmittel \(§§ 285 und 294\) aus\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-271-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=271) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_301_TextContainer_301) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-271-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-271-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=271) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_301_TextContainer_301) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-271-stpo) \]
 
 ----
 
@@ -5885,7 +5885,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wurde der gesamte Verlauf der Hauptverhandlung nach Abs\. 1 aufgenommen und verzichten die Beteiligten des Verfahrens auf ein Rechtsmittel oder melden sie innerhalb der hiefür offen stehenden Frist kein Rechtsmittel an, so kann das Verhandlungsprotokoll durch einen vom Vorsitzenden zu unterschreibenden Vermerk ersetzt werden, der lediglich die in § 271 Abs\. 1 Z 1 bis 3 angeführten Angaben enthält\. Sofern sie ein rechtliches Interesse glaubhaft machen, können die Beteiligten des Verfahrens binnen vierzehn Tagen nach Verkündung des Urteils die Herstellung des Protokolls und die Zustellung einer Ausfertigung verlangen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-271a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=271a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_302_TextContainer_302) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-271a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-271a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=271a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_302_TextContainer_302) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-271a-stpo) \]
 
 ----
 
@@ -5893,7 +5893,7 @@ Der Nationalrat hat beschlossen:
 
 > Über die Beratungen und Abstimmungen während und am Schlusse der Hauptverhandlung ist in den Fällen, wo sich das Gericht zur Beschlußfassung in das Beratungszimmer zurückgezogen hat, ein abgesondertes Protokoll zu führen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-272-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=272) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_303_TextContainer_303) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-272-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-272-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=272) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_303_TextContainer_303) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-272-stpo) \]
 
 ----
 
@@ -5903,7 +5903,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Hauptverhandlung darf, wenn sie begonnen hat, nur insoweit unterbrochen werden, als es der Vorsitzende zur nötigen Erholung der dabei beteiligten Personen oder zur unverzüglichen Herbeischaffung von Beweismitteln erforderlich findet; sie kann nach dem Ermessen des Schöffengerichts in dringenden Fällen auch an einem Sonn\- oder Feiertage fortgesetzt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-273-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=273) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_304_TextContainer_304) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-273-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-273-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=273) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_304_TextContainer_304) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-273-stpo) \]
 
 ----
 
@@ -5911,7 +5911,7 @@ Der Nationalrat hat beschlossen:
 
 > Ist der Verteidiger, ungeachtet gehöriger Ladung, bei der Hauptverhandlung nicht erschienen oder hat er sich vor deren Schluß entfernt oder tritt der im § 236 Abs\. 2 vorgesehene Fall ein, und kann ein anderer Verteidiger überhaupt nicht oder doch nicht ohne Beeinträchtigung der Verteidigung des Angeklagten bestellt werden, so ist die Verhandlung zu vertagen\. Die Kosten der Bestellung eines anderen Vertreters und der Vertagung hat der schuldige Verteidiger zu tragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-274-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=274) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_305_TextContainer_305) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-274-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-274-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=274) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_305_TextContainer_305) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-274-stpo) \]
 
 ----
 
@@ -5919,7 +5919,7 @@ Der Nationalrat hat beschlossen:
 
 > Erkrankt der Angeklagte während der Hauptverhandlung in dem Maße, daß er ihr nicht weiter beiwohnen kann, und willigt er nicht selbst ein, daß die Verhandlung in seiner Abwesenheit fortgesetzt und seine im Ermittlungsverfahren oder in einer früheren Hauptverhandlung abgelegte Aussage vorgelesen werde, so ist die Verhandlung zu vertagen\. § 197 Abs\. 2b gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-275-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=275) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_306_TextContainer_306) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-275-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-275-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=275) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_306_TextContainer_306) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-275-stpo) \]
 
 ----
 
@@ -5927,7 +5927,7 @@ Der Nationalrat hat beschlossen:
 
 > Für die Vertagung der Hauptverhandlung gilt § 226\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-276-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=276) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_307_TextContainer_307) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-276-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-276-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=276) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_307_TextContainer_307) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-276-stpo) \]
 
 ----
 
@@ -5935,7 +5935,7 @@ Der Nationalrat hat beschlossen:
 
 > Ist die Verhandlung, nachdem sie begonnen hatte, vertagt worden \(§§ 274 bis 276\), so kann der Vorsitzende in der späteren Verhandlung die wesentlichen Ergebnisse der früheren nach dem Protokoll und den sonst zu berücksichtigenden Akten mündlich vortragen und die Fortsetzung der Verhandlung daran anknüpfen\. Die Verhandlung ist jedoch zu wiederholen, wenn sich die Zusammensetzung des Gerichtes geändert hat oder seit der Vertagung mehr als zwei Monate verstrichen sind, es sei denn, dass beide Teile auf die Wiederholung wegen Überschreitung der Frist von zwei Monaten verzichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-276a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=276a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_308_TextContainer_308) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-276a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-276a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=276a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_308_TextContainer_308) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-276a-stpo) \]
 
 ----
 
@@ -5945,7 +5945,7 @@ Der Nationalrat hat beschlossen:
 
 > Ergibt sich aus der Hauptverhandlung mit Wahrscheinlichkeit, daß ein Zeuge wissentlich falsch ausgesagt habe, so kann der Vorsitzende über dessen Aussage ein Protokoll aufnehmen und nach geschehener Vorlesung und Genehmigung vom Zeugen unterfertigen lassen; er kann den Zeugen auch festnehmen und dem Einzelrichter des Landesgerichts vorführen lassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-277-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=277) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_309_TextContainer_309) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-277-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-277-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=277) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_309_TextContainer_309) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-277-stpo) \]
 
 ----
 
@@ -5957,7 +5957,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Über einen solchen Vorgang ist ein besonderes Protokoll aufzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-278-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=278) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_310_TextContainer_310) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-278-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-278-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=278) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_310_TextContainer_310) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-278-stpo) \]
 
 ----
 
@@ -5965,7 +5965,7 @@ Der Nationalrat hat beschlossen:
 
 > Hat der Angeklagte während der Hauptverhandlung eine strafbare Handlung begangen, so sind die Bestimmungen des § 263 voll anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-279-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=279) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_311_TextContainer_311) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-279-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-279-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=279) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_311_TextContainer_311) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-279-stpo) \]
 
 ----
 
@@ -5975,7 +5975,7 @@ Der Nationalrat hat beschlossen:
 
 > Gegen die Urteile der Landesgerichte als Schöffengerichte \(§ 31 Abs\. 3\) stehen nur die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen\. Die Nichtigkeitsbeschwerde geht an den Obersten Gerichtshof, die Berufung an das Oberlandesgericht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-280-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=280) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_312_TextContainer_312) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-280-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-280-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=280) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_312_TextContainer_312) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-280-stpo) \]
 
 ----
 
@@ -6023,7 +6023,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die unter Abs\. 1 Z\. 2, 3 und 4 erwähnten Nichtigkeitsgründe können zum Vorteile des Angeklagten nicht geltend gemacht werden, wenn unzweifelhaft erkennbar ist, daß die Formverletzung auf die Entscheidung keinen dem Angeklagten nachteiligen Einfluß üben konnte\. Zum Nachteile des Angeklagten können sie, abgesehen von dem im § 282 Abs\. 2 geregelten Fall, nur geltend gemacht werden, wenn erkennbar ist, daß die Formverletzung einen die Anklage beeinträchtigenden Einfluß auf die Entscheidung zu üben vermochte, und wenn außerdem der Ankläger sich ihr widersetzt, die Entscheidung des Schöffengerichts begehrt und sich sofort nach der Verweigerung oder Verkündung dieser Entscheidung die Nichtigkeitsbeschwerde vorbehalten hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-281-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=281) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_313_TextContainer_313) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-281-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-281-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=281) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_313_TextContainer_313) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-281-stpo) \]
 
 ----
 
@@ -6031,7 +6031,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Umstand, dass ein unzuständiges Oberlandesgericht die Rechtswirksamkeit der Anklageschrift festgestellt hat \(§ 215\), kann mit einer gegen das Urteil gerichteten Nichtigkeitsbeschwerde geltend gemacht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-281a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=281a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_314_TextContainer_314) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-281a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-281a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=281a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_314_TextContainer_314) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-281a-stpo) \]
 
 ----
 
@@ -6041,7 +6041,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Zum Nachteile des Angeklagten kann die Nichtigkeitsbeschwerde nur vom Staatsanwalt oder vom Privatankläger sowie vom Privatbeteiligten, jedoch von diesem nur im Fall eines Freispruchs und aus dem Grund des § 281 Abs\. 1 Z 4 ergriffen werden\. Der Privatbeteiligte kann den zuvor angeführten Nichtigkeitsgrund überdies nur insoweit geltend machen, als er wegen des Freispruchs auf den Zivilrechtsweg verwiesen wurde und erkennbar ist, dass die Abweisung eines von ihm in der Hauptverhandlung gestellten Antrags einen auf die Geltendmachung seiner privatrechtlichen Ansprüche nachteiligen Einfluss zu üben vermochte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-282-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=282) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_315_TextContainer_315) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-282-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-282-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=282) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_315_TextContainer_315) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-282-stpo) \]
 
 ----
 
@@ -6055,7 +6055,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Gegen die Entscheidung über die privatrechtlichen Ansprüche können nur der Angeklagte und dessen gesetzliche Vertreter und Erben Berufung einlegen\. Gegen die Verweisung auf den Zivilrechtsweg können nach Maßgabe des § 366 Abs\. 3 der Privatbeteiligte und seine Erben Berufung einlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-283-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=283) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_316_TextContainer_316) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-283-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-283-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=283) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_316_TextContainer_316) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.019.md#-283-stpo) \]
 
 ----
 
@@ -6071,7 +6071,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-284-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=284) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_317_TextContainer_317) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-284-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-284-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=284) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_317_TextContainer_317) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-284-stpo) \]
 
 ----
 
@@ -6087,7 +6087,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Gegenausführung ist dem Beschwerdeführer zuzustellen\. Danach sind alle Akten an den Obersten Gerichtshof zu senden, der darüber zu entscheiden hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_318_TextContainer_318) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_318_TextContainer_318) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285-stpo) \]
 
 ----
 
@@ -6101,7 +6101,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` wenn die unter Z 2 geforderte Angabe, soweit es sich nicht um eine von der Staatsanwaltschaft erhobene Nichtigkeitsbeschwerde handelt, nicht entweder zu Protokoll oder in einer Eingabe gemacht wird, die von einem Verteidiger \(§ 48 Abs\. 1 Z 4\) unterschrieben ist\. Besteht der Mangel lediglich im Fehlen der Unterschrift eines berechtigten Verteidigers, so ist die Eingabe vorerst zur Behebung dieses Mangels und Wiedervorlage binnen vierzehn Tagen zurückzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_319_TextContainer_319) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_319_TextContainer_319) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285a-stpo) \]
 
 ----
 
@@ -6118,7 +6118,7 @@ Der Nationalrat hat beschlossen:
 > `(5)` Gibt der Oberste Gerichtshof der Beschwerde Folge, so läuft im Falle des § 285a Z\. 1 die Frist zur Ausführung der Nichtigkeitsbeschwerde, sofern diese nicht schon erstattet ist, vom Tage der Bekanntmachung der Entscheidung des Obersten Gerichtshofes; dem Beschwerdeführer ist gleichzeitig mit dieser Bekanntmachung, wenn es nicht bereits geschehen ist, eine Ausfertigung des Urteiles zuzustellen; im übrigen ist nach § 285 vorzugehen\.
 > *\(Anm\.: Abs\. 6 aufgehoben durch BGBl\. Nr\. 605/1987\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_320_TextContainer_320) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285b-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_320_TextContainer_320) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285b-stpo) \]
 
 ----
 
@@ -6128,7 +6128,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Außerdem wird der Gerichtstag zur öffentlichen Verhandlung der Sache unter Beobachtung der hiefür im § 286 erteilten Vorschrift angeordnet, ohne daß es hiezu eines Beschlusses des Obersten Gerichtshofes bedarf\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285c-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_321_TextContainer_321) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285c-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285c-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_321_TextContainer_321) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285c-stpo) \]
 
 ----
 
@@ -6142,7 +6142,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der vorstehende Beschluß kann bei der nichtöffentlichen Beratung auch dann ergehen, wenn wegen anderer Nichtigkeitsgründe oder weil der Oberste Gerichtshof sich die Ausübung der ihm nach § 290 Abs\. 1 zustehenden Befugnis vorbehalten will, ein Gerichtstag zur öffentlichen Verhandlung anzuberaumen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285d-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_322_TextContainer_322) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285d-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285d-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_322_TextContainer_322) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285d-stpo) \]
 
 ----
 
@@ -6150,7 +6150,7 @@ Der Nationalrat hat beschlossen:
 
 > Bei der nichtöffentlichen Beratung über eine zum Vorteile des Angeklagten ergriffene Nichtigkeitsbeschwerde kann dieser,, sofort Folge gegeben werden, wenn sich zeigt, daß die Anordnung einer neuen Hauptverhandlung nicht zu vermeiden ist, eine Entscheidung des Obersten Gerichtshofes in der Sache selbst aber noch nicht einzutreten hat\. Gleiches gilt, wenn nach dem 11\. Hauptstück oder § 37 SMG vorzugehen sein wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285e-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_323_TextContainer_323) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285e-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285e-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_323_TextContainer_323) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285e-stpo) \]
 
 ----
 
@@ -6158,7 +6158,7 @@ Der Nationalrat hat beschlossen:
 
 > Bei der nichtöffentlichen Beratung kann ferner die Einholung tatsächlicher Aufklärungen über behauptete Formverletzungen oder Verfahrensmängel angeordnet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285f-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_324_TextContainer_324) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285f-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285f-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_324_TextContainer_324) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285f-stpo) \]
 
 ----
 
@@ -6166,7 +6166,7 @@ Der Nationalrat hat beschlossen:
 
 > Den im § 285d erwähnten Beschluß kann der Oberste Gerichtshof auch bei der Beratung über eine auf Grund des § 285b an ihn gelangte Beschwerde fassen, wenn die Ausführung der Nichtigkeitsbeschwerde überreicht oder die Frist hiezu verstrichen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285g-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_325_TextContainer_325) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285g-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285g-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_325_TextContainer_325) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285g-stpo) \]
 
 ----
 
@@ -6174,7 +6174,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Bestimmungen der §§ 285c bis 285g sind auch auf Nichtigkeitsbeschwerden nach § 281a anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285h-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_326_TextContainer_326) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285h-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285h-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_326_TextContainer_326) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285h-stpo) \]
 
 ----
 
@@ -6182,7 +6182,7 @@ Der Nationalrat hat beschlossen:
 
 > Weist der Oberste Gerichtshof in nichtöffentlicher Sitzung die Nichtigkeitsbeschwerde oder die Beschwerde gegen deren Zurückweisung durch das Landesgericht zurück und war mit der Nichtigkeitsbeschwerde die Berufung verbunden, so entscheidet über diese das Oberlandesgericht\. Dasselbe gilt, wenn der Nichtigkeitsbeschwerde eines Angeklagten sofort Folge gegeben wird \(§ 285e\) und der Oberste Gerichtshof nur noch über die Berufung in Ansehung eines anderen Angeklagten zu entscheiden hätte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285i-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_327_TextContainer_327) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285i-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285i-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_327_TextContainer_327) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285i-stpo) \]
 
 ----
 
@@ -6190,7 +6190,7 @@ Der Nationalrat hat beschlossen:
 
 > Im Fall einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs\. 5 erster Satz oder 62a Abs\. 5 erster Satz VfGG hat das Landesgericht nach § 285a vorzugehen und eine Ausfertigung seines Beschlusses oder eines nach § 285b gefassten Beschlusses dem Verfassungsgerichtshof zu übermitteln und im Fall einer verbundenen Berufung die Verständigung des Verfassungsgerichtshofes dem Oberlandesgericht vorzulegen oder mitzuteilen, dass kein Grund für ein Vorgehen nach § 285a vorliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285j-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_328_TextContainer_328) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285j-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-285j-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=285j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_328_TextContainer_328) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-285j-stpo) \]
 
 ----
 
@@ -6204,7 +6204,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Hat er noch keinen Verteidiger, so ist ihm von Amts wegen ein Rechtsanwalt als Verteidiger beizugeben \(§ 61 Abs\. 3\)\. Liegen die Voraussetzungen des § 61 Abs\. 2 vor, so ist dem Angeklagten nach dieser Gesetzesstelle ein Rechtsanwalt als Verteidiger beizugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-286-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=286) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-286-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-286-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=286) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-286-stpo) \]
 
 ----
 
@@ -6216,7 +6216,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hierauf erhält der Beschwerdeführer das Wort zur Begründung seiner Beschwerde und sodann sein Gegner zur Erwiderung\. Dem Angeklagten oder seinem Verteidiger gebührt jedenfalls das Recht der letzten Äußerung\. Ist ein Teil nicht erschienen, so wird dessen Beschwerdeschrift oder Gegenausführung vorgelesen\. Hierauf zieht sich der Gerichtshof in sein Beratungszimmer zurück\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-287-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=287) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-287-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-287-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=287) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-287-stpo) \]
 
 ----
 
@@ -6234,7 +6234,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` In allen anderen Fällen erkennt der Oberste Gerichtshof in der Sache selbst, indem er seiner Entscheidung die Tatsachen zugrunde legt, die das Schöffengericht ohne Überschreitung der Anklage \(§ 281 Abs\. 1 Z\. 8\) festgestellt hat\. Findet der Oberste Gerichtshof jedoch im Urteil und dessen Entscheidungsgründen die Tatsachen nicht festgestellt, die bei richtiger Anwendung des Gesetzes dem Erkenntnisse zugrunde zu legen wären, so verweist er die Sache zu neuer Verhandlung und Entscheidung an dasselbe oder an ein anderes Landesgericht, geeignetenfalls auch an das zuständige Bezirksgericht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-288-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=288) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_331_TextContainer_331) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-288-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-288-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=288) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_331_TextContainer_331) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-288-stpo) \]
 
 ----
 
@@ -6242,7 +6242,7 @@ Der Nationalrat hat beschlossen:
 
 > Findet der Oberste Gerichtshof die Nichtigkeitsbeschwerde nach § 281a gegründet, so vernichtet er die Hauptverhandlung, verweist die Sache zur nochmaligen Verhandlung vor das zuständige Landesgericht und verfügt die sonst nötige Verbesserung des Verfahrens\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-288a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=288a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_332_TextContainer_332) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-288a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-288a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=288a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_332_TextContainer_332) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-288a-stpo) \]
 
 ----
 
@@ -6250,7 +6250,7 @@ Der Nationalrat hat beschlossen:
 
 > War die Nichtigkeitsbeschwerde nur gegen einzelne im Urteil enthaltene Verfügungen gerichtet und findet der Oberste Gerichtshof, daß diese vom Inhalte des ganzen Urteiles trennbar seien, so steht ihm auch frei, das angefochtene Urteil nur teilweise aufzuheben\. Eben dies ist der Fall, wenn dem angefochtenen Urteile mehrere strafbare Handlungen zugrunde liegen und die Nichtigkeitsbeschwerde sich nur auf das Verfahren oder die Beurteilung hinsichtlich einzelner von ihnen beschränkt, zugleich aber die erforderliche teilweise Wiederholung des Verfahrens oder auch ohne diese ein neuer Ausspruch hinsichtlich dieser einzelnen strafbaren Handlung ausführbar erscheint\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-289-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=289) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_333_TextContainer_333) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-289-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-289-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=289) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_333_TextContainer_333) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-289-stpo) \]
 
 ----
 
@@ -6260,7 +6260,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ist die Nichtigkeitsbeschwerde lediglich zugunsten des Angeklagten ergriffen worden, so kann der Oberste Gerichtshof keine strengere Strafe über den Angeklagten verhängen, als das angefochtene Urteil ausgesprochen hatte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-290-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=290) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_334_TextContainer_334) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-290-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-290-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=290) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_334_TextContainer_334) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-290-stpo) \]
 
 ----
 
@@ -6268,7 +6268,7 @@ Der Nationalrat hat beschlossen:
 
 > Das Urteil des Obersten Gerichshofes ist, nachdem sich dieser in den Gerichtssaal zurückbegeben hat, samt den Entscheidungsgründen mündlich zu verkünden; hat der Angeklagte der Verhandlung beim Obersten Gerichtshofe nicht beigewohnt, so ist ihm ohne Verzug eine amtlich beglaubigte Abschrift des Urteiles durch das Landesgericht zuzustellen\. Für die Ausfertigung des Urteiles und die Führung des Protokolls bei den Verhandlungen des Obersten Gerichtshofes sind die in den §§ 260, 268 bis 271 enthaltenen Vorschriften zu beobachten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-291-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=291) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_335_TextContainer_335) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-291-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-291-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=291) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_335_TextContainer_335) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-291-stpo) \]
 
 ----
 
@@ -6276,7 +6276,7 @@ Der Nationalrat hat beschlossen:
 
 > Das Verfahren auf Grund einer zur Wahrung des Gesetzes ergriffenen Nichtigkeitsbeschwerde richtet sich im allgemeinen nach den in den §§ 286 Abs\. 1 bis 3 und 287 bis 291 enthaltenen Vorschriften\. Dem Angeklagten \(Verurteilten\) oder seinem Verteidiger ist eine Gleichschrift der Nichtigkeitsbeschwerde mit dem Bedeuten mitzuteilen, daß er sich binnen einer festzusetzenden angemessenen Frist hiezu äußern könne; vom Gerichtstag ist er mit der Bemerkung in Kenntnis zu setzen, daß es ihm freistehe zu erscheinen\. Ist der Aufenthaltsort des Angeklagten nicht bekannt und ohne besonderen Verfahrensaufwand nicht feststellbar, so kann die Zustellung an ihn unterbleiben\. Das gleiche gilt für den Privatbeteiligten, sofern der Ausspruch über die privatrechtlichen Ansprüche von der Nichtigkeitsbeschwerde betroffen ist, und für die sonst Beteiligten, sofern ihre Rechte betroffen sind\. Findet der Oberste Gerichtshof die zur Wahrung des Gesetzes erhobene Beschwerde gegründet, so hat er zu erkennen, daß in der fraglichen Strafsache durch den angefochtenen Beschluß oder Vorgang, durch das gepflogene Verfahren oder durch das erlassene Urteil das Gesetz verletzt worden sei\. Dieser Ausspruch ist in der Regel ohne Wirkung auf den Angeklagten\. Ist jedoch der Angeklagte durch ein solches nichtiges Urteil zu einer Strafe verurteilt worden, so steht es dem Obersten Gerichtshofe frei, nach seinem Ermessen entweder den Angeklagten freizusprechen oder einen milderen Strafsatz anzuwenden oder nach Umständen eine Erneuerung des gegen diesen gepflogenen Verfahrens anzuordnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-292-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=292) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_336_TextContainer_336) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-292-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-292-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=292) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_336_TextContainer_336) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-292-stpo) \]
 
 ----
 
@@ -6290,7 +6290,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Gegen dieses Urteil kann die Nichtigkeitsbeschwerde aus allen im § 281 erwähnten Gründen ergriffen werden, soweit diese nicht bereits durch eine in derselben Sache ergangene Entscheidung des Obersten Gerichtshofes beseitigt sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-293-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=293) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_337_TextContainer_337) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-293-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-293-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=293) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_337_TextContainer_337) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-293-stpo) \]
 
 ----
 
@@ -6308,7 +6308,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschieden, so hat der Vorsitzende einen Gerichtstag zur öffentlichen Verhandlung über die Berufung anzuordnen\. Für die Anberaumung und Durchführung des Gerichtstages gelten die Bestimmungen der §§ 286 und 287 dem Sinne nach mit der Maßgabe, dass der nicht verhaftete Angeklagte vorzuladen und auch die Vorführung des verhafteten Angeklagten zu veranlassen ist, es sei denn, dieser hätte durch seinen Verteidiger ausdrücklich darauf verzichtet oder es liegt ein Fall des § 286 Abs\. 2 zweiter Satz vor\. Ist die Berufung gegen den Ausspruch über die privatrechtlichen Ansprüche gerichtet, so ist auch der Privatbeteiligte vorzuladen\. Die §§ 233 bis 237 gelten sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-294-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=294) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_338_TextContainer_338) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-294-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-294-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=294) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_338_TextContainer_338) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-294-stpo) \]
 
 ----
 
@@ -6320,7 +6320,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Gegen seine Entscheidung ist kein Rechtsmittel zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-295-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=295) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_339_TextContainer_339) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-295-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-295-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=295) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_339_TextContainer_339) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-295-stpo) \]
 
 ----
 
@@ -6332,7 +6332,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird über die Berufung nicht schon in der nichtöffentlichen Sitzung entschieden, so entscheidet der Oberste Gerichtshof über die Berufung beim Gerichtstag zur öffentlichen Verhandlung über die Nichtigkeitsbeschwerde\. In diesem Fall ist zum Gerichtstag der nicht verhaftete Angeklagte vorzuladen und die Vorführung des verhafteten Angeklagten zu veranlassen, es sei denn, dieser hätte durch seinen Verteidiger ausdrücklich darauf verzichtet oder es liegt ein Fall des § 286 Abs\. 2 zweiter Satz vor\. Ist die Berufung gegen den Ausspruch über die privatrechtlichen Ansprüche gerichtet, so ist auch der Privatbeteiligte vorzuladen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-296-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=296) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_340_TextContainer_340) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-296-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-296-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=296) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_340_TextContainer_340) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-296-stpo) \]
 
 ----
 
@@ -6348,7 +6348,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; so hat der Oberste Gerichtshof oder das Oberlandesgericht den Vorsitzenden des Schöffengerichtes davon sogleich unter Anschluß der erforderlichen Angaben zu verständigen, es sei denn, daß im Falle der Z\. 2 die Entscheidung bei einem Gerichtstag in Anwesenheit des Angeklagten ergeht \(§ 396\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-296a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=296a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_341_TextContainer_341) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-296a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-296a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=296a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_341_TextContainer_341) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-296a-stpo) \]
 
 ----
 
@@ -6366,7 +6366,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z 92\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-297-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=297) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_342_TextContainer_342) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-297-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-297-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=297) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_342_TextContainer_342) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-297-stpo) \]
 
 ----
 
@@ -6374,7 +6374,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 92\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-298-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=298) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_343_TextContainer_343) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-298-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-298-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=298) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_343_TextContainer_343) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-298-stpo) \]
 
 ----
 
@@ -6382,7 +6382,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 92\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-299-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=299) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_344_TextContainer_344) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-299-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-299-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=299) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_344_TextContainer_344) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-299-stpo) \]
 
 ----
 
@@ -6394,7 +6394,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 221 Abs\. 4 ist sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-301-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=301) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_345_TextContainer_345) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-301-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-301-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=301) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_345_TextContainer_345) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-301-stpo) \]
 
 ----
 
@@ -6408,7 +6408,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Vorsitzende des Schwurgerichtshofes ist insbesondere verpflichtet, den Geschworenen auch außer den Fällen, für die es im Gesetz ausdrücklich vorgeschrieben ist, die zur Ausübung ihres Amtes erforderlichen Anleitungen zu geben und sie nötigenfalls an ihre Pflichten zu erinnern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-302-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=302) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_346_TextContainer_346) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-302-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-302-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=302) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_346_TextContainer_346) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-302-stpo) \]
 
 ----
 
@@ -6416,7 +6416,7 @@ Der Nationalrat hat beschlossen:
 
 > Soweit nach den folgenden Vorschriften der Schwurgerichtshof gemeinsam mit den Geschworenen zu entscheiden hat, richten sich Abstimmung und Beschlußfassung nach den für die Schöffengerichte geltenden Bestimmungen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-303-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=303) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_347_TextContainer_347) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-303-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-303-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=303) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_347_TextContainer_347) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-303-stpo) \]
 
 ----
 
@@ -6426,7 +6426,7 @@ Der Nationalrat hat beschlossen:
 
 > Sobald die Geschworenen ihre Sitze in der alphabetischen Reihenfolge ihrer Namen, Ersatzgeschworene nach den übrigen Geschworenen, eingenommen haben, beginnt die Hauptverhandlung mit dem Aufrufe der Sache durch den Schriftführer\. Der Vorsitzende stellt an den Angeklagten die im § 240 vorgeschriebenen Fragen und ermahnt ihn zur Aufmerksamkeit auf die vorzutragende Anklage und auf den Gang der Verhandlung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-304-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=304) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_348_TextContainer_348) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-304-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-304-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=304) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_348_TextContainer_348) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-304-stpo) \]
 
 ----
 
@@ -6439,7 +6439,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Beeidigung gilt für die Dauer des Kalenderjahres\. Sie ist im Verhandlungsprotokoll und fortlaufend in einem besonderen Abschnitte des Buches über die Beeidigung der Schöffen \(§ 240a Abs\. 3\) zu beurkunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-305-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=305) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_349_TextContainer_349) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-305-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-305-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=305) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_349_TextContainer_349) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-305-stpo) \]
 
 ----
 
@@ -6449,7 +6449,7 @@ Der Nationalrat hat beschlossen:
 
 > Nach der Beeidigung der Geschworenen läßt der Vorsitzende durch den Schriftführer die Zeugen und Sachverständigen aufrufen und trifft die im § 241 angeführten Verfügungen\. Das Verfahren gegen ungehorsame Zeugen oder Sachverständige richtet sich nach den Vorschriften der §§ 242 und 243\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-306-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=306) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_350_TextContainer_350) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-306-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-306-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=306) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_350_TextContainer_350) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-306-stpo) \]
 
 ----
 
@@ -6459,7 +6459,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Recht der Fragestellung \(§ 249\) steht auch dem Ersatzrichter und den Geschworenen mit Einschluß der Ersatzgeschworenen zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-308-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=308) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_351_TextContainer_351) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-308-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-308-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=308) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_351_TextContainer_351) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-308-stpo) \]
 
 ----
 
@@ -6469,7 +6469,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Über ein solches Begehren entscheidet der Schwurgerichtshof\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-309-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=309) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_352_TextContainer_352) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-309-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-309-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=309) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_352_TextContainer_352) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-309-stpo) \]
 
 ----
 
@@ -6485,7 +6485,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Vorsitzende übergibt sodann mindestens zwei Ausfertigungen der Fragen den Geschworenen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-310-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=310) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_353_TextContainer_353) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-310-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-310-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=310) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_353_TextContainer_353) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-310-stpo) \]
 
 ----
 
@@ -6495,7 +6495,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Kann jedoch über diese Frage nicht entschieden werden, ohne einer den Geschworenen vorbehaltenen Feststellung entscheidender Tatsachen oder der rechtlichen Beurteilung der Tat durch die Geschworenen vorzugreifen, so ist vorerst der Wahrspruch der Geschworenen abzuwarten \(§ 337\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-311-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=311) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_354_TextContainer_354) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-311-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-311-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=311) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_354_TextContainer_354) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-311-stpo) \]
 
 ----
 
@@ -6505,7 +6505,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Treffen in der dem Angeklagten in der Anklage zur Last gelegten Tat die Merkmale mehrerer strafbarer Handlungen zusammen, ohne daß eine in der anderen aufgeht, so ist für jede der zusammentreffenden strafbaren Handlungen eine besondere Hauptfrage zu stellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-312-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=312) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_355_TextContainer_355) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-312-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-312-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=312) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_355_TextContainer_355) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-312-stpo) \]
 
 ----
 
@@ -6515,7 +6515,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 94\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-313-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=313) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_356_TextContainer_356) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-313-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-313-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=313) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_356_TextContainer_356) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-313-stpo) \]
 
 ----
 
@@ -6525,7 +6525,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Eine Frage, nach der die dem Angeklagten zur Last gelegte Tat unter ein strengeres Strafgesetz als das in der Anklageschrift angegebene fiele, kann gestellt werden, sofern der Schwurgerichtshof nach Anhörung der Parteien die Vertagung der Hauptverhandlung oder die Ausscheidung des Verfahrens wegen dieser Tat nicht für notwendig erachtet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-314-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=314) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_357_TextContainer_357) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-314-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-314-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=314) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_357_TextContainer_357) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-314-stpo) \]
 
 ----
 
@@ -6535,7 +6535,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ist die Verhandlung auf die neue Tat ausgedehnt worden, so sind auch wegen dieser Tat die entsprechenden Fragen zu stellen\. Die Stellung solcher Fragen unterbleibt jedoch, wenn sich in der Hauptverhandlung ergibt, daß eine bessere Vorbereitung der Anklage oder Verteidigung notwendig ist\. In diesem Falle hat der Schwurgerichtshof die Hauptverhandlung gegen den Angeklagten, dem die hinzugekommene Tat zur Last gelegt ist, abzubrechen und die Entscheidung über alle diesem Angeklagten zur Last liegenden strafbaren Handlungen einer neuen Hauptverhandlung vorzubehalten oder, falls er diesen Vorgang nicht für zweckmäßig erachtet, dem Ankläger auf dessen Verlangen die Verfolgung wegen der hinzugekommenen Tat im Urteile vorzubehalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-315-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=315) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_358_TextContainer_358) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-315-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-315-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=315) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_358_TextContainer_358) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-315-stpo) \]
 
 ----
 
@@ -6543,7 +6543,7 @@ Der Nationalrat hat beschlossen:
 
 > Erschwerungs\- und Milderungsumstände sind nur unter der Voraussetzung Gegenstand einer Zusatzfrage an die Geschworenen, daß in der Hauptverhandlung Tatsachen vorgebracht worden sind, die – wenn sie als erwiesen angenommen werden – einen im Gesetze namentlich angeführten Erschwerungs\- oder Milderungsumstand begründen würden, der nach dem Gesetze die Anwendung eines anderen Strafsatzes bedingt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-316-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=316) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_359_TextContainer_359) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-316-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-316-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=316) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_359_TextContainer_359) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-316-stpo) \]
 
 ----
 
@@ -6555,7 +6555,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Fragen, die nur für den Fall der Bejahung \(Zusatzfragen\) oder für den Fall der Verneinung einer anderen Frage \(Eventualfragen\) gestellt werden, sind als solche ausdrücklich zu bezeichnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-317-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=317) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_360_TextContainer_360) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-317-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-317-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=317) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_360_TextContainer_360) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-317-stpo) \]
 
 ----
 
@@ -6567,7 +6567,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` In den Schlußvorträgen sind alle im Urteile zu entscheidenden Punkte zu behandeln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-318-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=318) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_361_TextContainer_361) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-318-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-318-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=318) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_361_TextContainer_361) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-318-stpo) \]
 
 ----
 
@@ -6575,7 +6575,7 @@ Der Nationalrat hat beschlossen:
 
 > Hierauf erklärt der Vorsitzende die Verhandlung für geschlossen; der Angeklagte wird, wenn er verhaftet ist, einstweilen aus dem Sitzungssaal abgeführt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-319-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=319) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_362_TextContainer_362) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-319-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-319-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=319) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_362_TextContainer_362) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-319-stpo) \]
 
 ----
 
@@ -6587,7 +6587,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Ersatzrichter und die Ersatzgeschworenen dürfen im Beratungszimmer nur anwesend sein, sofern sie vor Schluß der Verhandlung an die Stelle eines verhinderten Mitgliedes des Geschworenengerichtes getreten sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-320-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=320) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_363_TextContainer_363) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-320-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-320-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=320) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_363_TextContainer_363) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-320-stpo) \]
 
 ----
 
@@ -6597,7 +6597,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Rechtsbelehrung muß – für jede Frage gesondert – eine Darlegung der gesetzlichen Merkmale der strafbaren Handlung, auf die die Haupt\- oder Eventualfrage gerichtet ist, sowie eine Auslegung der in den einzelnen Fragen vorkommenden Ausdrücke des Gesetzes enthalten und das Verhältnis der einzelnen Fragen zueinander sowie die Folgen der Bejahung oder Verneinung jeder Frage klarlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-321-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=321) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_364_TextContainer_364) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-321-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-321-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=321) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_364_TextContainer_364) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-321-stpo) \]
 
 ----
 
@@ -6605,7 +6605,7 @@ Der Nationalrat hat beschlossen:
 
 > Nach Ausfertigung der Rechtsbelehrung begibt sich der Schwurgerichtshof mit dem Schriftführer in das Beratungszimmer der Geschworenen\. Der Vorsitzende läßt die Anklageschrift, den gemäß § 244 Abs\. 1 vorgelesenen Beschluss des Oberlandesgerichts, die Beweisgegenstände, Augenscheinsprotokolle und die übrigen Akten mit Ausnahme der in der Hauptverhandlung nicht vorgelesenen Vernehmungsprotokolle in das Beratungszimmer schaffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-322-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=322) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_365_TextContainer_365) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-322-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-322-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=322) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_365_TextContainer_365) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-322-stpo) \]
 
 ----
 
@@ -6617,7 +6617,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Am Schlusse seines Vortrages überzeugt sich der Vorsitzende, ob seine Belehrung von den Geschworenen verstanden worden ist, und ergänzt sie, wenn es zur Behebung von Zweifeln erforderlich ist\. Er übergibt sodann dem Obmanne der Geschworenen die Niederschrift der Rechtsbelehrung und des allfälligen Anhanges zu ihr\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-323-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=323) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_366_TextContainer_366) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-323-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-323-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=323) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_366_TextContainer_366) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-323-stpo) \]
 
 ----
 
@@ -6631,7 +6631,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein Beschluß im Sinne des Abs\. 1 ist vom Vorsitzenden den Geschworenen mitzuteilen\. Eine schriftliche Ausfertigung dieses Beschlusses samt Gründen ist von den Mitgliedern des Schwurgerichtshofes zu unterfertigen und dem Hauptverhandlungsprotokoll anzuschließen\. Ein Rechtsmittel steht gegen den Beschluß nicht offen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-324-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=324) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_367_TextContainer_367) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-324-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-324-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=324) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_367_TextContainer_367) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-324-stpo) \]
 
 ----
 
@@ -6645,7 +6645,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Mehrere Abdrucke dieser Belehrung sowie der Bestimmungen der §§ 326, 329, 330, 331, 332 Abs\. 1 bis 3 sowie des § 340 sollen im Beratungszimmer der Geschworenen angeschlagen sein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-325-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=325) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_368_TextContainer_368) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-325-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-325-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=325) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_368_TextContainer_368) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-325-stpo) \]
 
 ----
 
@@ -6653,7 +6653,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Geschworenen dürfen ihr Beratungszimmer nicht verlassen, bevor sie ihren Ausspruch über die an sie gerichteten Fragen gefällt haben\. Niemand darf während der Beratung und Abstimmung ohne Bewilligung des Vorsitzenden in ihr Beratungszimmer eintreten; auch ist den Geschworenen jeder Verkehr mit dritten Personen untersagt\. Gegen Geschworene und dritte Personen, die diesem Verbot zuwiderhandeln, ist vom Schwurgerichtshof eine Ordnungsstrafe bis zu 1 000 Euro zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-326-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=326) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_369_TextContainer_369) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-326-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-326-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=326) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_369_TextContainer_369) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-326-stpo) \]
 
 ----
 
@@ -6665,7 +6665,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im übrigen wird über die Beratung der Geschworenen kein Protokoll geführt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-327-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=327) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_370_TextContainer_370) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-327-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-327-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=327) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_370_TextContainer_370) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-327-stpo) \]
 
 ----
 
@@ -6673,7 +6673,7 @@ Der Nationalrat hat beschlossen:
 
 > Äußern die Geschworenen bei der Beratung den Wunsch nach einer Ergänzung des Beweisverfahrens zur Aufklärung erheblicher Tatsachen \(§ 309\) oder nach Änderung oder Ergänzung der an sie gerichteten Fragen, so ist die Verhandlung wieder zu eröffnen; sofern es sich um eine Ergänzung oder Änderung der Fragen handelt, gelten die Bestimmungen des § 310 Abs\. 3 und 4 sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-328-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=328) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_371_TextContainer_371) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-328-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-328-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=328) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_371_TextContainer_371) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-328-stpo) \]
 
 ----
 
@@ -6681,7 +6681,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Abstimmung der Geschworenen darf bei sonstiger Nichtigkeit niemand beiwohnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-329-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=329) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_372_TextContainer_372) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-329-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-329-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=329) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_372_TextContainer_372) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-329-stpo) \]
 
 ----
 
@@ -6691,7 +6691,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Geschworenen stimmen über jede Frage mit „ja“ oder „nein“ ab; doch ist ihnen auch gestattet, eine Frage nur teilweise zu bejahen\. In diesem Fall ist die Beschränkung kurz beizufügen \(zum Beispiel: „Ja, aber nicht mit diesen oder jenen in der Frage enthaltenen Umständen“\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-330-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=330) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_373_TextContainer_373) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-330-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-330-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=330) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_373_TextContainer_373) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-330-stpo) \]
 
 ----
 
@@ -6705,7 +6705,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Obmann der Geschworenen benachrichtigt sodann den Vorsitzenden des Schwurgerichtshofes schriftlich von der Beendigung der Abstimmung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-331-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=331) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_374_TextContainer_374) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-331-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-331-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=331) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_374_TextContainer_374) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-331-stpo) \]
 
 ----
 
@@ -6725,7 +6725,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Das über die Beratung des Schwurgerichtshofes \(Abs\. 4 und 5\) aufgenommene Protokoll und der ursprüngliche Wahrspruch und die im § 331 Abs\. 3 bezeichnete Niederschrift sind dem Hauptverhandlungsprotokoll anzuschließen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-332-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=332) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_375_TextContainer_375) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-332-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-332-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=332) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_375_TextContainer_375) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-332-stpo) \]
 
 ----
 
@@ -6733,7 +6733,7 @@ Der Nationalrat hat beschlossen:
 
 > Hält der Schwurgerichtshof eine Verbesserung des Wahrspruches für erforderlich oder ist in diesem Fall auch die Fragestellung geändert oder ergänzt worden, so eröffnet der Vorsitzende den Geschworenen, daß sie nur zur Änderung der beanstandeten Antworten \(§ 332 Abs\. 4\) und zur Beantwortung der neu oder in geänderter Fassung vorgelegten Fragen \(§ 332 Abs\. 5\) berechtigt sind\. Die neuen oder geänderten Fragen sind dem Obmanne der Geschworenen in zwei Ausfertigungen zu übergeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-333-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=333) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_376_TextContainer_376) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-333-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-333-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=333) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_376_TextContainer_376) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-333-stpo) \]
 
 ----
 
@@ -6749,7 +6749,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Stimmt der Wahrspruch des zweiten Geschworenengerichtes mit dem des ersten überein, so ist er dem Urteile zugrunde zu legen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-334-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=334) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_377_TextContainer_377) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-334-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-334-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=334) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_377_TextContainer_377) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-334-stpo) \]
 
 ----
 
@@ -6757,7 +6757,7 @@ Der Nationalrat hat beschlossen:
 
 > Wird die Entscheidung nicht ausgesetzt, so ist der Wahrspruch der Geschworenen dem Urteile zugrunde zu legen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-335-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=335) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_378_TextContainer_378) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-335-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-335-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=335) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_378_TextContainer_378) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-335-stpo) \]
 
 ----
 
@@ -6765,7 +6765,7 @@ Der Nationalrat hat beschlossen:
 
 > Haben die Geschworenen die Schuldfragen verneint oder Zusatzfragen \(§ 313\) bejaht, so fällt der Schwurgerichtshof sofort ein freisprechendes Urteil\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-336-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=336) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_379_TextContainer_379) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-336-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-336-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=336) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_379_TextContainer_379) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-336-stpo) \]
 
 ----
 
@@ -6773,7 +6773,7 @@ Der Nationalrat hat beschlossen:
 
 > Ebenso wird der Angeklagte durch Urteil des Schwurgerichtshofes freigesprochen, wenn ihn die Geschworenen zwar schuldig gesprochen haben, der Schwurgerichtshof jedoch der Meinung ist, daß bei Zugrundelegung der Tatsachen, die im Wahrspruche der Geschworenen festgestellt sind, und der rechtlichen Beurteilung, die die Geschworenen der Tat haben angedeihen lassen, die Verfolgung aus Gründen des Prozeßrechtes ausgeschlossen sei \(§ 311\), oder daß die Tat, die der Angeklagte nach dem Ausspruche der Geschworenen begangen hat, vom Gesetze nicht mit gerichtlicher Strafe bedroht sei\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-337-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=337) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_380_TextContainer_380) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-337-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-337-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=337) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_380_TextContainer_380) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-337-stpo) \]
 
 ----
 
@@ -6783,7 +6783,7 @@ Der Nationalrat hat beschlossen:
 
 > Ist der Angeklagte schuldig befunden worden und ist er nicht nach § 336 oder § 337 freizusprechen, so entscheidet der Schwurgerichtshof gemeinsam mit den Geschworenen \(§ 303\) über die zu verhängende Strafe und die etwa anzuwendenden Maßnahmen der Besserung und Sicherung sowie über die privatrechtlichen Ansprüche und die Kosten des Strafverfahrens\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-338-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=338) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_381_TextContainer_381) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-338-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-338-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=338) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_381_TextContainer_381) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-338-stpo) \]
 
 ----
 
@@ -6791,7 +6791,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 98\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-339-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=339) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_382_TextContainer_382) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-339-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-339-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=339) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_382_TextContainer_382) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-339-stpo) \]
 
 ----
 
@@ -6804,7 +6804,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Obmann verliest sodann bei sonstiger Nichtigkeit in Gegenwart aller Geschworenen die an sie gerichteten Fragen und unmittelbar nach jeder den beigefügten Wahrspruch der Geschworenen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-340-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=340) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_383_TextContainer_383) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-340-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-340-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=340) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_383_TextContainer_383) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-340-stpo) \]
 
 ----
 
@@ -6814,7 +6814,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Anschließend belehrt der Vorsitzende den Angeklagten über die ihm zustehenden Rechtsmittel\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-341-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=341) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_384_TextContainer_384) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-341-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-341-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=341) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_384_TextContainer_384) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-341-stpo) \]
 
 ----
 
@@ -6824,7 +6824,7 @@ Der Nationalrat hat beschlossen:
 
 > Das Urteil ist in der im § 270 Abs\. 1 bis 3 vorgeschriebenen Weise auszufertigen\. In der Ausfertigung sind auch die Namen der Geschworenen anzuführen, die der Ersatzgeschworenen jedoch nur dann, wenn diese vor Schluß der Verhandlung an die Stelle eines verhinderten Geschworenen getreten sind\. Die Ausfertigung muß auch die an die Geschworenen gestellten Fragen und ihre Beantwortung enthalten\. Auf die im § 331 Abs\. 3 bezeichnete Niederschrift darf im Urteile kein Bezug genommen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-342-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=342) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_385_TextContainer_385) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-342-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-342-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=342) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_385_TextContainer_385) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-342-stpo) \]
 
 ----
 
@@ -6834,7 +6834,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Hauptverhandlungsprotokoll muß auch die Namen der Geschworenen einschließlich der Ersatzgeschworenen enthalten\. Ist infolge Verhinderung eines Geschworenen ein Ersatzgeschworener an dessen Stelle getreten, so ist das im Hauptverhandlungsprotokoll zu beurkunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-343-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=343) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_386_TextContainer_386) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-343-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-343-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=343) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_386_TextContainer_386) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.021.md#-343-stpo) \]
 
 ----
 
@@ -6844,7 +6844,7 @@ Der Nationalrat hat beschlossen:
 
 > Gegen die Urteile der Geschworenengerichte stehen die Rechtsmittel der Nichtigkeitsbeschwerde und der Berufung offen\. Die für Rechtsmittel gegen Urteile der Schöffengerichte und für das Verfahren über solche Rechtsmittel geltenden Vorschriften \(§§ 280 bis 296a\) sind auf Rechtsmittel gegen Urteile der Geschworenengerichte dem Sinne nach anzuwenden, soweit im folgenden nichts anderes bestimmt ist\. An die Stelle der in den §§ 285a und 285d bezeichneten Nichtigkeitsgründe treten die folgenden Nichtigkeitsgründe des § 345 Abs\. 1, und zwar im § 285a die der Z\. 1 bis 13 und im § 285d die der Z\. 1 bis 5, 10a und 13\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-344-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=344) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_387_TextContainer_387) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-344-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-344-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=344) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_387_TextContainer_387) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-344-stpo) \]
 
 ----
 
@@ -6894,7 +6894,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Zum Nachteile des Angeklagten können die unter Abs\. 1 Z\. 2, 7 und 10a erwähnten Nichtigkeitsgründe niemals, die unter Abs\. 1 Z\. 3 bis 6 und 10 erwähnten aber nur dann geltend gemacht werden, wenn erkennbar ist, daß die Formverletzung einen die Anklage beeinträchtigenden Einfluß auf die Entscheidung üben konnte, wenn sich außerdem der Ankläger widersetzt, die Entscheidung des Schwurgerichtshofes begehrt und sich sofort nach der Verweigerung oder Verkündung dieser Entscheidung die Nichtigkeitsbeschwerde vorbehalten hat\. § 282 Abs\. 2 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-345-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=345) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_388_TextContainer_388) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-345-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-345-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=345) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_388_TextContainer_388) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-345-stpo) \]
 
 ----
 
@@ -6902,7 +6902,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Ausspruch über die Strafe kann in den im § 283 angeführten Fällen mit Berufung angefochten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-346-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=346) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_389_TextContainer_389) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-346-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-346-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=346) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_389_TextContainer_389) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-346-stpo) \]
 
 ----
 
@@ -6912,7 +6912,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 569/1973, Art\. III Z\. 7\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-348-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=348) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_390_TextContainer_390) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-348-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-348-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=348) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_390_TextContainer_390) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-348-stpo) \]
 
 ----
 
@@ -6922,7 +6922,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Werden nicht alle Teile des Wahrspruches vom geltend gemachten Nichtigkeitsgrund getroffen und ist eine Sonderung möglich, so läßt der Oberste Gerichtshof die nicht betroffenen Teile des Wahrspruches und des Urteiles von dieser Verfügung unberührt und trägt dem Gericht, an das die Sache verwiesen wird, auf, die unberührt gebliebenen Teile des Wahrspruches der Entscheidung mit zugrunde zu legen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-349-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=349) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_391_TextContainer_391) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-349-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-349-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=349) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_391_TextContainer_391) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-349-stpo) \]
 
 ----
 
@@ -6932,7 +6932,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Liegt der im § 345 Abs\. 1 Z\. 10 bezeichnete Nichtigkeitsgrund vor, so hebt der Oberste Gerichtshof den Wahrspruch der Geschworenen, soweit er vom Nichtigkeitsgrunde betroffen ist, und das darauf beruhende Urteil auf\. Ist den Geschworenen mit Unrecht die Verbesserung des Wahrspruches aufgetragen worden, so entscheidet er auf Grund des ursprünglichen Wahrspruches in der Sache selbst\. Ist den Geschworenen die Verbesserung wegen eines von ihnen behaupteten Mißverständnisses mit Unrecht nicht aufgetragen worden, so verweist der Oberste Gerichtshof die Sache an das Geschworenengericht zur neuen Verhandlung und Entscheidung zurück\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-350-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=350) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_392_TextContainer_392) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-350-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-350-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=350) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_392_TextContainer_392) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-350-stpo) \]
 
 ----
 
@@ -6940,7 +6940,7 @@ Der Nationalrat hat beschlossen:
 
 > Liegt einer der im § 345 Abs\. 1 Z 11 bis 13 angeführten Nichtigkeitsgründe vor, so entscheidet der Oberste Gerichtshof in der Sache selbst\. Sind jedoch die der Feststellung durch die Geschworenen vorbehaltenen Tatsachen, die er seiner Entscheidung zugrunde zu legen hätte, im Wahrspruche der Geschworenen nicht festgestellt, so verweist er die Sache an das Geschworenengericht des von ihm zu bezeichnenden Landesgerichts, wenn aber die strafbare Handlung bei richtiger Anwendung des Gesetzes nicht mehr vor das Geschworenengericht gehört, an das von ihm zu bezeichnende sachlich zuständige Gericht zur nochmaligen Verhandlung und Entscheidung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-351-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=351) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_393_TextContainer_393) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-351-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-351-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=351) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_393_TextContainer_393) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-351-stpo) \]
 
 ----
 
@@ -6960,7 +6960,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Dem Privatankläger steht der Antrag auf Wiederaufnahme ausschließlich im Fall einer Einstellung gemäß § 215 Abs\. 2 zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-352-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=352) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_394_TextContainer_394) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-352-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-352-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=352) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_394_TextContainer_394) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-352-stpo) \]
 
 ----
 
@@ -6974,7 +6974,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` wenn wegen derselben Tat zwei oder mehrere Personen durch verschiedene Erkenntnisse verurteilt worden sind und bei der Vergleichung dieser Erkenntnisse sowie der ihnen zugrunde liegenden Tatsachen die Nichtschuld einer oder mehrerer dieser Personen notwendig anzunehmen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-353-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=353) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_395_TextContainer_395) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-353-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-353-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=353) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_395_TextContainer_395) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-353-stpo) \]
 
 ----
 
@@ -6982,7 +6982,7 @@ Der Nationalrat hat beschlossen:
 
 > Den Antrag auf Wiederaufnahme des Strafverfahrens zugunsten des Angeklagten können, und zwar auch nach dessen Tod, alle Personen stellen, die berechtigt wären, zu seinen Gunsten die Nichtigkeitsbeschwerde oder Berufung zu ergreifen\. Erlangt die Staatsanwaltschaft die Kenntnis eines Umstandes, der einen Antrag auf Wiederaufnahme des Strafverfahrens zugunsten des Angeklagten begründen kann \(§ 353\), so ist sie verpflichtet, hievon den Angeklagten oder sonst eine zur Stellung dieses Antrages berechtigte Person in Kenntnis zu setzen oder selbst den Antrag zu stellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-354-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=354) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_396_TextContainer_396) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-354-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-354-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=354) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_396_TextContainer_396) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-354-stpo) \]
 
 ----
 
@@ -6990,7 +6990,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Staatsanwaltschaft oder der Privatankläger können die Wiederaufnahme des Strafverfahrens wegen einer Handlung, hinsichtlich der der Angeklagte rechtskräftig freigesprochen worden ist, nur aus den in § 352 Abs\. 1 genannten Gründen beantragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-355-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=355) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_397_TextContainer_397) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-355-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-355-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=355) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_397_TextContainer_397) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-355-stpo) \]
 
 ----
 
@@ -7004,7 +7004,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` sich als ein Verbrechen darstellt, während der Angeklagte nur wegen eines mit nicht mehr als einjähriger Freiheitsstrafe bedrohten Vergehens verurteilt wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-356-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=356) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_398_TextContainer_398) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-356-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-356-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=356) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_398_TextContainer_398) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-356-stpo) \]
 
 ----
 
@@ -7016,7 +7016,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Antrag eines Verurteilten auf Wiederaufnahme des Verfahrens hemmt den Vollzug der Strafe nicht, es sei denn, dass das Gericht nach Anhörung der Staatsanwaltschaft oder des Privatanklägers die Hemmung des Strafvollzuges nach den Umständen des Falles für angemessen erachtet und mit Beschluss die Hemmung ausspricht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-357-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=357) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_399_TextContainer_399) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-357-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-357-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=357) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_399_TextContainer_399) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-357-stpo) \]
 
 ----
 
@@ -7034,7 +7034,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Gegen das neue Erkenntnis stehen dieselben Rechtsmittel offen wie gegen jedes andere Urteil\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-358-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=358) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_400_TextContainer_400) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-358-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-358-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=358) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_400_TextContainer_400) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-358-stpo) \]
 
 ----
 
@@ -7044,7 +7044,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Freigesprochene kann die Veröffentlichung des Erkenntnisses verlangen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-360-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=360) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_401_TextContainer_401) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-360-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-360-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=360) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_401_TextContainer_401) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-360-stpo) \]
 
 ----
 
@@ -7064,7 +7064,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Entscheidung über die Hemmung des Strafvollzuges und über die Verweisung des weiteren Verfahrens an das Gericht eines anderen Sprengels steht nur dem Obersten Gerichtshofe zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-362-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=362) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_402_TextContainer_402) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-362-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-362-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=362) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_402_TextContainer_402) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-362-stpo) \]
 
 ----
 
@@ -7072,7 +7072,7 @@ Der Nationalrat hat beschlossen:
 
 > Das Hauptverfahren kann unabhängig von den Voraussetzungen der Wiederaufnahme durchgeführt werden, wenn der zur Klage noch berechtigte Privatankläger die Anklage einbringt, während im früheren Verfahren die Einstellung oder ein freisprechendes Urteil lediglich wegen Mangels des nach dem Gesetz erforderlichen Antrages eines Opfers \(§ 71\) erfolgt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-363-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=363) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_403_TextContainer_403) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-363-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-363-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=363) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_403_TextContainer_403) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-363-stpo) \]
 
 ----
 
@@ -7084,7 +7084,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Über den Antrag auf Erneuerung des Verfahrens entscheidet in allen Fällen der Oberste Gerichtshof\. Den Antrag können der von der festgestellten Verletzung Betroffene und der Generalprokurator stellen; § 282 Abs\. 1 ist sinngemäß anzuwenden\. Der Antrag ist beim Obersten Gerichtshof einzubringen\. Zu einem Antrag des Generalprokurators ist der Betroffene, zu einem Antrag des Betroffenen ist der Generalprokurator zu hören; § 35 Abs\. 2 ist sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-363a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=363a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_404_TextContainer_404) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-363a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-363a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=363a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_404_TextContainer_404) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-363a-stpo) \]
 
 ----
 
@@ -7102,7 +7102,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Bei der nichtöffentlichen Beratung kann der Gerichtshof dem Antrag stattgeben, die strafgerichtliche Entscheidung aufheben und die Sache erforderlichenfalls an das Landesgericht oder Oberlandesgericht verweisen, wenn schon vor der öffentlichen Verhandlung über den Antrag feststeht, daß das Verfahren zu erneuern ist\. Im erneuerten Verfahren darf keine strengere Strafe über den Verurteilten verhängt werden, als das frühere Urteil ausgesprochen hatte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-363b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=363b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_405_TextContainer_405) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-363b-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-363b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=363b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_405_TextContainer_405) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-363b-stpo) \]
 
 ----
 
@@ -7112,7 +7112,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wenn der Oberste Gerichtshof den Antrag weder nach § 363b Abs\. 2 Z 1 oder 2 zurückweist noch als unbegründet erachtet, gibt er ihm statt, hebt die strafgerichtliche Entscheidung auf und verweist die Sache erforderlichenfalls an das Landesgericht oder Oberlandesgericht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-363c-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=363c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_406_TextContainer_406) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-363c-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-363c-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=363c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_406_TextContainer_406) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-363c-stpo) \]
 
 ----
 
@@ -7144,7 +7144,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Gegen die Versäumung der Frist für einen Wiedereinsetzungsantrag \(Abs\. 1 Z 2\) ist eine Wiedereinsetzung in den vorigen Stand nicht zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-364-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=364) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_407_TextContainer_407) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-364-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-364-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=364) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_407_TextContainer_407) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.022.md#-364-stpo) \]
 
 ----
 
@@ -7156,7 +7156,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-365-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=365) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_408_TextContainer_408) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-365-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-365-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=365) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_408_TextContainer_408) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-365-stpo) \]
 
 ----
 
@@ -7168,7 +7168,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird der Privatbeteiligte trotz Verurteilung auf den Zivilrechtsweg verwiesen, so steht diesem, seinem Nachlass und seinen Erben die Berufung aus dem Grund zu, dass über den privatrechtlichen Anspruch bereits gemäß Abs\. 2 hätte entschieden werden können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-366-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=366) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_409_TextContainer_409) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-366-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-366-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=366) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_409_TextContainer_409) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-366-stpo) \]
 
 ----
 
@@ -7184,7 +7184,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; Die Entscheidung steht im Ermittlungsverfahren der Staatsanwaltschaft, in der Hauptverhandlung dem erkennenden Gericht und sonst dem Vorsitzenden zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-367-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=367) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_410_TextContainer_410) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-367-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-367-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=367) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_410_TextContainer_410) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-367-stpo) \]
 
 ----
 
@@ -7192,7 +7192,7 @@ Der Nationalrat hat beschlossen:
 
 > Kann das Opfer sein Recht an dem Gegenstand oder Vermögenswert nicht nachweisen, liegen bestimmte Anhaltspunkte für dingliche Rechte Dritter daran vor oder ist das Recht daran zwischen mehreren Opfern strittig \(§ 367 Abs\. 2 Z 2\), so ist der Antrag nach § 367 Abs\. 2 abzuweisen, die Sicherstellung oder Beschlagnahme aufzuheben und der Gegenstand oder Vermögenswert nach § 1425 ABGB bei dem für den Sitz des Gerichts zuständigen Bezirksgericht zu hinterlegen\. Das Gericht hat in diesen Fällen das Opfer mit seinem Begehren auf den Zivilrechtsweg zu verweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-368-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=368) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_411_TextContainer_411) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-368-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-368-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=368) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_411_TextContainer_411) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-368-stpo) \]
 
 ----
 
@@ -7202,7 +7202,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Liegen hinreichende Gründe für die Annahme vor, dass das Opfer seinen Schaden zu hoch angebe, so kann ihn das Gericht nach Erwägung aller Umstände, allenfalls nach vorgenommener Schätzung durch Sachverständige, ermäßigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-369-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=369) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_412_TextContainer_412) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-369-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-369-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=369) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_412_TextContainer_412) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-369-stpo) \]
 
 ----
 
@@ -7210,7 +7210,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 106\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-370-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=370) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_413_TextContainer_413) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-370-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-370-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=370) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_413_TextContainer_413) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-370-stpo) \]
 
 ----
 
@@ -7220,7 +7220,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der rechtswirksame Ausspruch, daß eine Ehe nichtig sei, bleibt jedoch stets dem Zivilgerichte vorbehalten\. Das Strafgericht kann die Nichtigkeit einer Ehe nur als Vorfrage beurteilen \(§§ 15 und 69 Abs\. 1\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-371-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=371) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_414_TextContainer_414) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-371-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-371-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=371) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_414_TextContainer_414) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-371-stpo) \]
 
 ----
 
@@ -7228,7 +7228,7 @@ Der Nationalrat hat beschlossen:
 
 > Dem Privatbeteiligten steht es frei, den Zivilrechtsweg zu betreten, wenn er sich mit der vom Strafgericht ihm zuerkannten Entschädigung nicht begnügen will\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-372-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=372) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_415_TextContainer_415) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-372-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-372-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=372) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_415_TextContainer_415) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-372-stpo) \]
 
 ----
 
@@ -7236,7 +7236,7 @@ Der Nationalrat hat beschlossen:
 
 > Ist das über die privatrechtlichen Ansprüche ergangene strafgerichtliche Erkenntnis in Rechtskraft erwachsen, so ist jeder Beteiligte berechtigt, vom Gerichte, das in erster Instanz erkannt hat, die Anmerkung der Rechtskräftigkeit des Erkenntnisses auf dem Urteile zu begehren; ein solches Erkenntnis hat dann die Wirkung, daß um seine Exekution unmittelbar beim Zivilgericht angesucht werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-373-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=373) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_416_TextContainer_416) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-373-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-373-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=373) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_416_TextContainer_416) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-373-stpo) \]
 
 ----
 
@@ -7266,7 +7266,7 @@ Der Nationalrat hat beschlossen:
 
 > `(10)` Soweit der Verurteilte keine Zahlungen \(Abs\. 9\) leistet, hat die Einbringungsstelle beim Oberlandesgericht Wien die Forderung zwangsweise hereinzubringen\. Soweit eine sofortige zwangsweise Hereinbringung mit Rücksicht auf den Vollzug der Strafe offenbar aussichtslos wäre, kann sie bis nach dessen Beendigung aufgeschoben werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-373a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=373a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_417_TextContainer_417) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-373a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-373a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=373a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_417_TextContainer_417) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-373a-stpo) \]
 
 ----
 
@@ -7274,7 +7274,7 @@ Der Nationalrat hat beschlossen:
 
 > Hat das Opfer im Fall eines Verfalls nach § 20 StGB oder eines erweiterten Verfalls nach § 20b StGB einen vollstreckbaren Exekutionstitel für seine Entschädigung erwirkt und wurde diese noch nicht geleistet, so hat das Opfer unbeschadet des § 373a das Recht zu verlangen, dass seine Ansprüche aus dem vom Bund vereinnahmten Vermögenswert befriedigt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-373b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=373b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_418_TextContainer_418) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-373b-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-373b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=373b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_418_TextContainer_418) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-373b-stpo) \]
 
 ----
 
@@ -7282,7 +7282,7 @@ Der Nationalrat hat beschlossen:
 
 > Um Änderung des rechtskräftigen strafgerichtlichen Ausspruches über privatrechtliche Ansprüche wegen neu aufgefundener Beweismittel sowie um Aufhebung seiner Vollstreckung wegen eines nachgefolgten Tatumstandes kann außer dem Fall einer aus anderen Gründen stattfindenden Wiederaufnahme des Strafverfahrens vom Verurteilten und dessen Rechtsnachfolgern nur vor dem Zivilrichter angesucht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-374-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=374) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_419_TextContainer_419) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-374-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-374-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=374) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_419_TextContainer_419) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-374-stpo) \]
 
 ----
 
@@ -7292,7 +7292,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für das Verfahren auf Grund von erhobenen Ansprüchen gelten die Bestimmungen der §§ 367 bis 369\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-375-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=375) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_420_TextContainer_420) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-375-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-375-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=375) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_420_TextContainer_420) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-375-stpo) \]
 
 ----
 
@@ -7302,7 +7302,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Auffindung von Gegenständen, derentwegen eine unverzügliche abgesonderte Bekanntmachung nicht notwendig erscheint, kann von Zeit zu Zeit in gemeinsamen Edikten bekanntgemacht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-376-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=376) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_421_TextContainer_421) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-376-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-376-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=376) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_421_TextContainer_421) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-376-stpo) \]
 
 ----
 
@@ -7310,7 +7310,7 @@ Der Nationalrat hat beschlossen:
 
 > Unterliegt der fremde Gegenstand oder Vermögenswert einem raschen Verderben, einer erheblichen Wertminderung oder Wertschwankung oder lässt er sich nur mit unverhältnismäßigen Kosten bis zum Ablauf der Ediktalfrist des § 376 Abs\. 1 aufbewahren, so ist er vom Gericht bereits vor diesem Zeitpunkt zu verwerten\. Die Verwertung hat nach den Bestimmungen der Exekutionsordnung zu erfolgen\. Die Verwertung hat durch öffentliche Versteigerung \(§ 274 EO\) oder bei sinngemäßem Vorliegen der in § 280 oder § 326 EO bezeichneten Voraussetzungen auf die dort vorgesehene Weise zu erfolgen\. In den Fällen des § 268 EO ist auch ein Freihandverkauf zulässig\. Der Kaufpreis ist beim Strafgericht zu erlegen, zugleich ist eine genaue Beschreibung jedes verkauften Gegenstands oder Vermögenswerts und der erzielte Erlös auf die in § 376 beschriebene Weise zu veröffentlichen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-377-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=377) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_422_TextContainer_422) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-377-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-377-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=377) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_422_TextContainer_422) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-377-stpo) \]
 
 ----
 
@@ -7318,7 +7318,7 @@ Der Nationalrat hat beschlossen:
 
 > Wenn binnen der Ediktalfrist niemand ein Recht auf die beschriebenen Gegenstände dartut, so sind sie, wenn sie aber der Dringlichkeit wegen verkauft wurden, so ist ihr Erlös dem Beschuldigten auf sein Verlangen auszufolgen, sofern nicht durch einen Beschluß des zur Entscheidung in erster Instanz berufenen Gerichtes ausgesprochen ist, daß die Rechtmäßigkeit des Besitzes des Beschuldigten nicht glaubwürdig sei\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-378-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=378) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_423_TextContainer_423) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-378-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-378-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=378) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_423_TextContainer_423) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-378-stpo) \]
 
 ----
 
@@ -7326,7 +7326,7 @@ Der Nationalrat hat beschlossen:
 
 > Gegenstände und Vermögenswerte, die dem Beschuldigten nicht ausgefolgt werden, sind auf die im § 377 angeordnete Weise zu veräußern\. Der Kaufpreis ist an die Bundeskasse abzugeben\. Dem Berechtigten steht jedoch frei, seine Ansprüche auf den Kaufpreis gegen den Bund binnen dreißig Jahren vom Tage der dritten Einschaltung des Ediktes im Zivilrechtswege geltend zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-379-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=379) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_424_TextContainer_424) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-379-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-379-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=379) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_424_TextContainer_424) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.023.md#-379-stpo) \]
 
 ----
 
@@ -7338,7 +7338,7 @@ Der Nationalrat hat beschlossen:
 
 > Sofern die besonderen Vorschriften über die Gerichtsgebühren nichts anderes bestimmen, sind in Strafsachen keine Gebühren zu entrichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-380-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=380) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_425_TextContainer_425) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-380-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-380-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=380) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_425_TextContainer_425) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-380-stpo) \]
 
 ----
 
@@ -7388,7 +7388,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Die durch eine Festnahme verursachten Kosten und die Kosten der Untersuchungshaft sind bei Bemessung des Pauschalkostenbeitrages nicht zu berücksichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-381-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=381) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_426_TextContainer_426) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-381-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-381-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=381) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_426_TextContainer_426) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-381-stpo) \]
 
 ----
 
@@ -7396,7 +7396,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Gebühren der Organe der Kriminalpolizei für die Anfertigung von Kopien für Zwecke der Akteneinsicht, Zustellungen, Ladungen, Bewachung oder Beförderung des Beschuldigten oder anderer Personen werden durch besondere bundesgesetzliche Bestimmungen geregelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-382-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=382) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_427_TextContainer_427) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-382-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-382-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=382) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_427_TextContainer_427) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-382-stpo) \]
 
 ----
 
@@ -7404,7 +7404,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-383-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=383) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_428_TextContainer_428) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-383-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-383-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=383) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_428_TextContainer_428) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-383-stpo) \]
 
 ----
 
@@ -7412,7 +7412,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-384-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=384) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_429_TextContainer_429) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-384-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-384-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=384) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_429_TextContainer_429) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-384-stpo) \]
 
 ----
 
@@ -7420,7 +7420,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-385-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=385) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_430_TextContainer_430) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-385-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-385-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=385) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_430_TextContainer_430) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-385-stpo) \]
 
 ----
 
@@ -7428,7 +7428,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-386-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=386) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_431_TextContainer_431) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-386-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-386-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=386) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_431_TextContainer_431) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-386-stpo) \]
 
 ----
 
@@ -7436,7 +7436,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 3\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-387-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=387) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_432_TextContainer_432) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-387-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-387-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=387) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_432_TextContainer_432) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-387-stpo) \]
 
 ----
 
@@ -7448,7 +7448,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Für die Bemessung der Kostenbeiträge gilt § 381 Abs\. 5 sinngemäß\. Die Zahlung ist insoweit nachzusehen, als dadurch der zu einer einfachen Lebensführung notwendige Unterhalt des Beschuldigten und seiner Familie, für deren Unterhalt er zu sorgen hat, Schadensgutmachung, Tatfolgenausgleich oder die Erfüllung des Tatausgleichs gefährdet würde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-388-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=388) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_433_TextContainer_433) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-388-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-388-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=388) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_433_TextContainer_433) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-388-stpo) \]
 
 ----
 
@@ -7460,7 +7460,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Verpflichtung zum Ersatz der Kosten trifft jedoch den rechtskräftig Verurteilten nur für seine Person; sie geht nicht auf die Erben über\. Von mehreren Angeklagten ist jeder einzelne zur Tragung des Pauschalkostenbeitrages, der dem gegen ihn gefällten Erkenntnis entspricht, sowie der Kosten zu verurteilen, die durch seine Verteidigung oder durch besondere, nur bei ihm eingetretene Ereignisse oder durch sein besonderes Verschulden entstanden sind\. Zur Bezahlung aller anderen Kosten des Strafverfahrens sind sämtliche Angeklagten zur ungeteilten Hand zu verurteilen, sofern das Gericht nicht besondere Gründe findet, eine Beschränkung dieser Haftung eintreten zu lassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-389-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=389) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_434_TextContainer_434) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-389-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-389-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=389) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_434_TextContainer_434) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-389-stpo) \]
 
 ----
 
@@ -7476,7 +7476,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wurde endlich das Strafverfahren durch eine wissentlich falsche Anzeige veranlaßt, so hat die Kosten der Anzeiger zu ersetzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-390-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=390) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_435_TextContainer_435) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-390-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-390-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=390) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_435_TextContainer_435) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-390-stpo) \]
 
 ----
 
@@ -7486,7 +7486,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für die durch ein erfolgloses Begehren um Wiederaufnahme des Verfahrens verursachten Kosten haftet der Antragsteller\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-390a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=390a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_436_TextContainer_436) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-390a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-390a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=390a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_436_TextContainer_436) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-390a-stpo) \]
 
 ----
 
@@ -7499,7 +7499,7 @@ Der Nationalrat hat beschlossen:
 > `(3)` Gegen Entscheidungen der Gerichte, womit ein Antrag abgelehnt wird, die Kosten für uneinbringlich zu erklären, ist kein Rechtsmittel zulässig\.
 > *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 4\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-391-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=391) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_437_TextContainer_437) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-391-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-391-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=391) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_437_TextContainer_437) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-391-stpo) \]
 
 ----
 
@@ -7518,7 +7518,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Soweit jedoch der Privatbeteiligte mit seinen privatrechtlichen Ansprüchen auf den Zivilrechtsweg verwiesen worden ist, bilden die zur zweckentsprechenden Geltendmachung seiner Ansprüche im Strafverfahren aufgewendeten Kosten seines Vertreters einen Teil der Kosten des zivilgerichtlichen Verfahrens, in dem über den Anspruch erkannt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-393-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=393) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_438_TextContainer_438) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-393-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-393-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=393) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_438_TextContainer_438) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-393-stpo) \]
 
 ----
 
@@ -7542,7 +7542,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` § 196a Abs\. 5 und 6 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-393a-stpo--beitrag-zu-den-kosten-der-verteidigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=393a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_439_TextContainer_439) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-393a-stpo--beitrag-zu-den-kosten-der-verteidigung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-393a-stpo--beitrag-zu-den-kosten-der-verteidigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=393a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_439_TextContainer_439) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-393a-stpo--beitrag-zu-den-kosten-der-verteidigung) \]
 
 ----
 
@@ -7550,7 +7550,7 @@ Der Nationalrat hat beschlossen:
 
 > Gebührt dem Verteidiger oder dem Vertreter gemäß § 73 eine Belohnung, so ist ihre Bestimmung sowohl in dem Falle, wenn sich der Beschuldigte, der Privatankläger oder der Privatbeteiligte selbst einen solchen wählte, als auch dann, wenn dem Angeklagten ein Verteidiger von Amts wegen beigegeben wurde, dem freien Übereinkommen zwischen dem Vertreter und dem Zahlungspflichtigen überlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-394-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=394) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_440_TextContainer_440) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-394-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-394-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=394) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_440_TextContainer_440) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-394-stpo) \]
 
 ----
 
@@ -7565,7 +7565,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die vorhergehenden Absätze sind auch anzuwenden, wenn zwischen dem von Amts wegen bestellten Verteidiger und dem von ihm vertretenen Angeklagten über die Entlohnung kein Übereinkommen erzielt wird\. Das Gericht hat die Entlohnung des von Amts wegen bestellten Verteidigers festzusetzen und dem Angeklagten die Zahlung aufzutragen\. Der rechtskräftige Beschluß ist vollstreckbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-395-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=395) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_441_TextContainer_441) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-395-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-395-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=395) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_441_TextContainer_441) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-395-stpo) \]
 
 ----
 
@@ -7581,7 +7581,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Kriminalpolizei ist durch das Gericht, das in erster Instanz entschieden hat, von der Einstellung des Verfahrens sowie von einem Freispruch zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-396-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=396) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_442_TextContainer_442) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-396-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-396-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=396) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_442_TextContainer_442) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-396-stpo) \]
 
 ----
 
@@ -7591,7 +7591,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 5\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-397-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=397) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_443_TextContainer_443) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-397-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-397-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=397) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_443_TextContainer_443) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-397-stpo) \]
 
 ----
 
@@ -7601,7 +7601,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 112\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-398-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=398) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_444_TextContainer_444) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-398-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-398-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=398) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_444_TextContainer_444) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-398-stpo) \]
 
 ----
 
@@ -7609,7 +7609,7 @@ Der Nationalrat hat beschlossen:
 
 > Jedes Urteil gegen einen Beamten \(§ 74 Abs\. 1 Z 4 StGB\) ist, sobald es rechtskräftig wurde, dem Leiter der Dienststelle bekannt zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-399-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=399) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_445_TextContainer_445) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-399-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-399-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=399) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_445_TextContainer_445) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-399-stpo) \]
 
 ----
 
@@ -7619,7 +7619,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Einen Beschluß nach Abs\. 1 hat der Vorsitzende auf Antrag oder von Amts wegen auch dann zu fassen, wenn im Urteil die Anrechnung einer Vorhaft oder einer im Ausland verbüßten Strafe \(§ 66 StGB\) unterblieben ist\. Ist eine solche Anrechnung fehlerhaft erfolgt, so hat sie der Vorsitzende jederzeit zu berichtigen \(§ 270 Abs\. 3\), zum Nachteil des Angeklagten jedoch nur, solange das Urteil nicht rechtskräftig ist\. Die Abweisung eines darauf gerichteten Antrages sowie die vorgenommene Berichtigung können nach Maßgabe des § 270 Abs\. 3 mit Beschwerde angefochten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-400-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=400) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_446_TextContainer_446) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-400-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-400-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=400) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_446_TextContainer_446) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-400-stpo) \]
 
 ----
 
@@ -7627,7 +7627,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 6\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-401-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=401) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_447_TextContainer_447) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-401-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-401-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=401) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_447_TextContainer_447) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-401-stpo) \]
 
 ----
 
@@ -7635,7 +7635,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 6\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-401a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=401a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_448_TextContainer_448) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-401a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-401a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=401a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_448_TextContainer_448) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-401a-stpo) \]
 
 ----
 
@@ -7645,7 +7645,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 7\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-402-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=402) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_449_TextContainer_449) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-402-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-402-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=402) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_449_TextContainer_449) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-402-stpo) \]
 
 ----
 
@@ -7653,7 +7653,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 75/1968, Art\. IV Z\. 2\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-403-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=403) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_450_TextContainer_450) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-403-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-403-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=403) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_450_TextContainer_450) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-403-stpo) \]
 
 ----
 
@@ -7661,7 +7661,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 75/1968, Art\. IV Z\. 2\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-404-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=404) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_451_TextContainer_451) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-404-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-404-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=404) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_451_TextContainer_451) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-404-stpo) \]
 
 ----
 
@@ -7671,7 +7671,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 145/1969, Art\. II Z\. 8\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-405-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=405) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_452_TextContainer_452) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-405-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-405-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=405) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_452_TextContainer_452) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-405-stpo) \]
 
 ----
 
@@ -7679,7 +7679,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 145/1969, Art\. II Z\. 9\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-406-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=406) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_453_TextContainer_453) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-406-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-406-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=406) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_453_TextContainer_453) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-406-stpo) \]
 
 ----
 
@@ -7689,7 +7689,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(BGBl\. Nr\. 423/1974, Art\. I Z\. 114\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-407-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=407) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_454_TextContainer_454) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-407-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-407-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=407) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_454_TextContainer_454) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-407-stpo) \]
 
 ----
 
@@ -7699,7 +7699,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein verfallener, konfiszierter oder eingezogener Gegenstand oder Vermögenswert, der für wissenschaftliche, historische oder vergleichbare, im öffentlichen Interesse liegende Forschungszwecke von Interesse ist, ist einer anerkannten wissenschaftlichen Einrichtung zur Verfügung zu stellen\. Im Übrigen sind Gegenstände oder Vermögenswerte, die zur Deckung des Sachaufwandes der Justiz unmittelbar herangezogen werden können, dazu zu verwenden, alle anderen Gegenstände oder Vermögenswerte aber auf die in § 377 angeordnete Weise zu veräußern\. Gegenstände oder Vermögenswerte, die auf diese Weise weder verwendet noch verwertet werden können, sind zu vernichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-408-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=408) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_455_TextContainer_455) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-408-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-408-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=408) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_455_TextContainer_455) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-408-stpo) \]
 
 ----
 
@@ -7711,7 +7711,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ersatzfreiheitsstrafen sind wie andere Freiheitsstrafen nach den Bestimmungen des StVG anzuordnen und zu vollziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-409-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=409) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_456_TextContainer_456) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-409-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-409-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=409) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_456_TextContainer_456) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-409-stpo) \]
 
 ----
 
@@ -7734,7 +7734,7 @@ Der Nationalrat hat beschlossen:
 > `(4)` Die Entrichtung einer Geldstrafe oder eines Geldbetrages nach § 20 StGB in Teilbeträgen darf nur mit der Maßgabe gestattet werden, daß alle noch aushaftenden Teilbeträge sofort fällig werden, wenn der Zahlungspflichtige mit mindestens zwei Ratenzahlungen in Verzug ist\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-409a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=409a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_457_TextContainer_457) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-409a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-409a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=409a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_457_TextContainer_457) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-409a-stpo) \]
 
 ----
 
@@ -7744,7 +7744,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` 20 vH der nach §§ 20, 20b StGB für verfallen erklärten Vermögenswerte fließen dem Bundesministerium für Inneres zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-409b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=409b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_458_TextContainer_458) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-409b-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-409b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=409b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_458_TextContainer_458) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-409b-stpo) \]
 
 ----
 
@@ -7755,7 +7755,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wenn der Zweck der Entscheidung nach Abs\. 1 sonst ganz oder teilweise vereitelt werden könnte, hat das Gericht den Vollzug der Strafe, des Verfalls oder des erweiterten Verfalls bis zur Rechtskraft seiner Entscheidung vorläufig zu hemmen oder zu unterbrechen, es sei denn, daß ihm ein offenbar aussichtsloser Antrag vorliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-410-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=410) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_459_TextContainer_459) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-410-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-410-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=410) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_459_TextContainer_459) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-410-stpo) \]
 
 ----
 
@@ -7763,7 +7763,7 @@ Der Nationalrat hat beschlossen:
 
 > Mit dem Tod des Verurteilten erlischt die Verbindlichkeit zur Zahlung von Geldstrafen, soweit sie noch nicht vollzogen worden sind\. Dies gilt dem Sinne nach für den Verfalls\- und Wertersatz\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-411-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=411) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_460_TextContainer_460) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-411-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-411-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=411) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_460_TextContainer_460) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-411-stpo) \]
 
 ----
 
@@ -7775,7 +7775,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-412-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=412) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_461_TextContainer_461) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-412-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-412-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=412) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_461_TextContainer_461) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-412-stpo) \]
 
 ----
 
@@ -7787,7 +7787,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Gegen das in Abwesenheit des Angeklagten gefällte Urteil kann dieser beim Landesgericht innerhalb von vierzehn Tagen Einspruch erheben\. Die Nichtigkeitsbeschwerde und die Berufung gegen ein Abwesenheitsurteil können auch nach Ablauf der Anmeldungsfrist zusammen mit dem Einspruch angemeldet werden\. Dem Einspruch ist stattzugeben, wenn nachgewiesen wird, daß der Angeklagte durch ein unabweisbares Hindernis abgehalten wurde, in der Hauptverhandlung zu erscheinen\. In diesem Fall ist eine neue Hauptverhandlung anzuordnen\. Über den Einspruch entscheidet das Oberlandesgericht nach Anhörung der Oberstaatsanwaltschaft in nichtöffentlicher Sitzung\. Weist es den Einspruch zurück, so steht dem Angeklagten gegen das Urteil ein Rechtsmittel nicht mehr offen\. Hat der Verurteilte zugleich mit dem Einspruche die Nichtigkeitsbeschwerde oder die Berufung ergriffen oder liegt eine von anderer Seite ergriffene Berufung oder Nichtigkeitsbeschwerde vor, so ist von dem Gerichte, dem die Akten nach Vorschrift der §§ 285 und 294 vorgelegt werden, vorerst über den Einspruch in nichtöffentlicher Sitzung nach Anhörung der Staatsanwaltschaft zu entscheiden; nur wenn der Einspruch zurückgewiesen wird, ist in die Prüfung der Berufung oder Nichtigkeitsbeschwerde einzugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-427-stpo--abwesenheitsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=427) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_462_TextContainer_462) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-427-stpo--abwesenheitsverfahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-427-stpo--abwesenheitsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=427) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_462_TextContainer_462) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-427-stpo--abwesenheitsverfahren) \]
 
 ----
 
@@ -7795,7 +7795,7 @@ Der Nationalrat hat beschlossen:
 
 > Durch das Nichterscheinen eines Angeklagten und das dadurch veranlaßte Ungehorsamverfahren darf das Verfahren gegen die anwesenden Mitangeklagten nicht verzögert werden\. Werden in solchen Fällen Gegenstände, die zur Überweisung der Angeklagten dienen können, den Eigentümern zurückgestellt, so kann diesen die Verpflichtung auferlegt werden, die Beweisstücke auf Begehren wieder beizubringen\. Zugleich ist eine genaue Beschreibung der zurückgestellten Gegenstände zu den Akten zu bringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-428-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=428) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_463_TextContainer_463) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-428-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-428-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=428) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_463_TextContainer_463) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-428-stpo) \]
 
 ----
 
@@ -7811,7 +7811,7 @@ Der Nationalrat hat beschlossen:
 
 > Für die Unterbringung eines Betroffenen \(§ 48 Abs\. 2\) in einem forensisch\-therapeutischen Zentrum \(§ 21 StGB\) gelten die Bestimmungen über das Strafverfahren sinngemäß, soweit im Folgenden nichts anderes bestimmt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-429-stpo--verfahren-zur-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=429) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_464_TextContainer_464) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-429-stpo--verfahren-zur-unterbringung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-429-stpo--verfahren-zur-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=429) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_464_TextContainer_464) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-429-stpo--verfahren-zur-unterbringung) \]
 
 ----
 
@@ -7831,7 +7831,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das nach § 109 Jurisdiktionsnorm, RGBl\. Nr\. 111/1895, zuständige Gericht ist unverzüglich vom Verfahren und von dessen Beendigung, gegebenenfalls mit der Anregung, einen Erwachsenenvertreter zu bestellen, zu verständigen\. Hat der Betroffene einen gesetzlichen Vertreter, so ist auch dieser zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-430-stpo--besonderheiten-des-verfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=430) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_465_TextContainer_465) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-430-stpo--besonderheiten-des-verfahrens)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-430-stpo--besonderheiten-des-verfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=430) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_465_TextContainer_465) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-430-stpo--besonderheiten-des-verfahrens) \]
 
 ----
 
@@ -7845,7 +7845,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` § 172 Abs\. 4 und § 181a gelten sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-431-stpo--vorläufige-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=431) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_466_TextContainer_466) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-431-stpo--vorläufige-unterbringung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-431-stpo--vorläufige-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=431) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_466_TextContainer_466) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-431-stpo--vorläufige-unterbringung) \]
 
 ----
 
@@ -7859,7 +7859,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Vor einer Änderung des Unterbringungsortes nach Abs\. 2 sind der Betroffene und dessen gesetzlicher Vertreter, die Staatsanwaltschaft und das Gericht zu hören; nach der Überstellung sind die Staatsanwaltschaft, das Gericht, der Verteidiger und der gesetzliche Vertreter des Betroffenen durch das nunmehr zuständige forensisch\-therapeutische Zentrum unverzüglich zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-432-stpo--ort-der-vorläufigen-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=432) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_467_TextContainer_467) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-432-stpo--ort-der-vorläufigen-unterbringung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-432-stpo--ort-der-vorläufigen-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=432) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_467_TextContainer_467) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-432-stpo--ort-der-vorläufigen-unterbringung) \]
 
 ----
 
@@ -7875,7 +7875,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Im Falle eines Strafurteils \(§ 21 Abs\. 2 StGB, § 434b Abs\. 1 zweiter Satz\) ist die vorläufige Unterbringung auf Freiheits\- und Geldstrafen anzurechnen \(§ 38 StGB\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-433-stpo--vollzug-der-vorläufigen-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=433) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_468_TextContainer_468) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-433-stpo--vollzug-der-vorläufigen-unterbringung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-433-stpo--vollzug-der-vorläufigen-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=433) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_468_TextContainer_468) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-433-stpo--vollzug-der-vorläufigen-unterbringung) \]
 
 ----
 
@@ -7885,7 +7885,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Über den Antrag auf Unterbringung entscheidet das Landesgericht, das für ein Strafverfahren auf Grund einer Anklage oder eines Strafantrages gegen den Betroffenen wegen seiner Tat \(§ 21 Abs\. 3 StGB\) zuständig ist oder zuständig wäre\. Anstelle des Einzelrichters des Landesgerichts entscheidet jedoch das Landesgericht als Schöffengericht in der Besetzung mit zwei Berufsrichtern und zwei Schöffen \(§ 32 Abs\. 1a\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434-stpo--antrag-auf-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_469_TextContainer_469) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434-stpo--antrag-auf-unterbringung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434-stpo--antrag-auf-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_469_TextContainer_469) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434-stpo--antrag-auf-unterbringung) \]
 
 ----
 
@@ -7893,7 +7893,7 @@ Der Nationalrat hat beschlossen:
 
 > Das Gericht entscheidet über die Unterbringung nach öffentlicher mündlicher Hauptverhandlung, die in sinngemäßer Anwendung der Bestimmungen des 14\. und 15\. Hauptstücks durchzuführen ist, durch Urteil\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434a-stpo--entscheidung-durch-urteil) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_470_TextContainer_470) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434a-stpo--entscheidung-durch-urteil)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434a-stpo--entscheidung-durch-urteil) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_470_TextContainer_470) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434a-stpo--entscheidung-durch-urteil) \]
 
 ----
 
@@ -7907,7 +7907,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Eine Unterbringung darf nur dann ausgesprochen werden, wenn während der gesamten Hauptverhandlung die Voraussetzungen nach § 434 Abs\. 2 zweiter Satz und § 434d Abs\. 1 und 2 erfüllt waren, widrigenfalls die Hauptverhandlung zu vertagen \(§ 276\) und zu wiederholen \(§ 276a zweiter Satz\) ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434b-stpo--gleichwertigkeit-von-anklage-und-antrag-auf-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_471_TextContainer_471) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434b-stpo--gleichwertigkeit-von-anklage-und-antrag-auf-unterbringung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434b-stpo--gleichwertigkeit-von-anklage-und-antrag-auf-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_471_TextContainer_471) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434b-stpo--gleichwertigkeit-von-anklage-und-antrag-auf-unterbringung) \]
 
 ----
 
@@ -7921,7 +7921,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wird die vorläufige Unterbringung des Betroffenen angeordnet oder aufgehoben, so ist der gesetzliche Vertreter davon zu verständigen\. Das Recht auf Besuch durch den gesetzlichen Vertreter steht einem vorläufig Angehaltenen in gleichem Umfang zu wie das Recht auf Besuch von einem Rechtsbeistand\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434c-stpo--rechte-des-gesetzlichen-vertreters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_472_TextContainer_472) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434c-stpo--rechte-des-gesetzlichen-vertreters)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434c-stpo--rechte-des-gesetzlichen-vertreters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_472_TextContainer_472) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434c-stpo--rechte-des-gesetzlichen-vertreters) \]
 
 ----
 
@@ -7935,7 +7935,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wird über mehrere Taten gleichzeitig erkannt und eine Unterbringung angeordnet, so ist im Urteil auszusprechen, welche Taten Anlass für die Unterbringung waren; die Unterbringung darf nur einmal angeordnet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434d-stpo--besonderheiten-der-hauptverhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_473_TextContainer_473) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434d-stpo--besonderheiten-der-hauptverhandlung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434d-stpo--besonderheiten-der-hauptverhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_473_TextContainer_473) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434d-stpo--besonderheiten-der-hauptverhandlung) \]
 
 ----
 
@@ -7945,7 +7945,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Über die Anordnung der Unterbringung entscheidet der Schwurgerichtshof gemeinsam mit den Geschworenen \(§ 303\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434e-stpo--verfahren-vor-dem-landesgericht-als-geschworenengericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_474_TextContainer_474) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434e-stpo--verfahren-vor-dem-landesgericht-als-geschworenengericht)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434e-stpo--verfahren-vor-dem-landesgericht-als-geschworenengericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_474_TextContainer_474) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434e-stpo--verfahren-vor-dem-landesgericht-als-geschworenengericht) \]
 
 ----
 
@@ -7955,7 +7955,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für die Wiederaufnahme und die Erneuerung des Unterbringungsverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die Bestimmungen des 16\. Hauptstücks sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434f-stpo--rechtsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_475_TextContainer_475) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434f-stpo--rechtsmittel)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434f-stpo--rechtsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_475_TextContainer_475) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434f-stpo--rechtsmittel) \]
 
 ----
 
@@ -7975,7 +7975,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Wird eine Bedingung festgelegt, die die Interessen des Opfers unmittelbar berührt, so ist das Opfer über deren Inhalt und ihre Bedeutung zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434g-stpo--verfahren-beim-vorläufigen-absehen-vom-vollzug-der-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_476_TextContainer_476) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434g-stpo--verfahren-beim-vorläufigen-absehen-vom-vollzug-der-unterbringung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-434g-stpo--verfahren-beim-vorläufigen-absehen-vom-vollzug-der-unterbringung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=434g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_476_TextContainer_476) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-434g-stpo--verfahren-beim-vorläufigen-absehen-vom-vollzug-der-unterbringung) \]
 
 ----
 
@@ -7989,7 +7989,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Anordnung der Unterbringung in einer der in diesen Bestimmungen genannten Anstalten oder ihr Unterbleiben sowie die Anordnung eines Tätigkeitsverbotes oder deren Unterbleiben bilden einen Teil des Ausspruches über die Strafe und können zugunsten und zum Nachteil des Verurteilten mit Nichtigkeitsbeschwerde und mit Berufung angefochten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-435-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=435) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_477_TextContainer_477) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-435-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-435-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=435) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_477_TextContainer_477) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-435-stpo) \]
 
 ----
 
@@ -7997,7 +7997,7 @@ Der Nationalrat hat beschlossen:
 
 > Einen Antrag auf Unterbringung in einer der in den § 22 und § 23 StGB vorgesehenen Anstalten oder auf Anordnung eines Tätigkeitsverbotes hat die Staatsanwaltschaft in der Anklage zu stellen\. Das Gericht kann jedoch auch ohne einen solchen Antrag die Unterbringung oder das Tätigkeitsverbot anordnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-437-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=437) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_478_TextContainer_478) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-437-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-437-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=437) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_478_TextContainer_478) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-437-stpo) \]
 
 ----
 
@@ -8005,7 +8005,7 @@ Der Nationalrat hat beschlossen:
 
 > Liegen hinreichende Gründe für die Annahme, dass die Voraussetzungen des § 22 StGB gegeben seien, und Haftgründe \(§ 173 Abs\. 2 und 6\) vor, kann der Beschuldigte aber nicht ohne Schwierigkeiten in einer Justizanstalt angehalten werden, so ist mit Beschluss anzuordnen, dass die Untersuchungshaft durch vorläufige Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher zu vollziehen ist\. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden\. Auf den Vollzug der Untersuchungshaft sind in diesem Fall die Bestimmungen über den Vollzug dieser vorbeugenden Maßnahmen dem Sinne nach anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-438-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=438) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_479_TextContainer_479) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-438-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-438-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=438) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_479_TextContainer_479) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-438-stpo) \]
 
 ----
 
@@ -8017,7 +8017,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Sieht das Gericht von der Unterbringung in einer Anstalt für entwöhnungsbedürftige Rechtsbrecher wegen der Höhe der ausgesprochenen Strafe ab \(§ 22 Abs\. 2 StGB\), so hat es diesen Umstand in den Entscheidungsgründen auszusprechen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-439-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=439) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_480_TextContainer_480) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-439-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-439-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=439) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_480_TextContainer_480) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-439-stpo) \]
 
 ----
 
@@ -8025,7 +8025,7 @@ Der Nationalrat hat beschlossen:
 
 > Hat der Beschuldigte einen gesetzlichen Vertreter, so ist in einem Verfahren, in dem hinreichende Gründe für die Annahme der Voraussetzungen des § 22 oder § 23 StGB vorliegen, § 434c sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-440-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=440) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_481_TextContainer_481) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-440-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-440-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=440) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_481_TextContainer_481) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-440-stpo) \]
 
 ----
 
@@ -8035,7 +8035,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 439 Abs\. 1 und 2 sowie § 440 gelten in diesem Fall sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-441-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=441) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_482_TextContainer_482) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-441-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-441-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=441) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_482_TextContainer_482) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-441-stpo) \]
 
 ----
 
@@ -8043,7 +8043,7 @@ Der Nationalrat hat beschlossen:
 
 > Liegt einer der im § 173 Abs\. 2 genannten Haftgründe vor, so ist die vorläufige Anhaltung des Betroffenen in einer der im § 441 Abs\. 1 genannten Anstalten anzuordnen\. § 432 und § 433 gelten sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-442-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=442) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_483_TextContainer_483) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-442-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-442-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=442) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_483_TextContainer_483) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.025.md#-442-stpo) \]
 
 ----
 
@@ -8059,7 +8059,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Entscheidung über vermögensrechtliche Anordnungen steht, außer im Fall des § 445a, dem Ausspruch über die Strafe gleich und kann zugunsten und zum Nachteil des Verurteilten oder des Haftungsbeteiligten \(§§ 64, 444\) mit Berufung angefochten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-443-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=443) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_484_TextContainer_484) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-443-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-443-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=443) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_484_TextContainer_484) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-443-stpo) \]
 
 ----
 
@@ -8069,7 +8069,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat ein Haftungsbeteiligter sein Recht nicht vor Rechtskraft der Entscheidung über den Verfall, den erweiterten Verfall oder die Einziehung geltend gemacht, so kann er seine Ansprüche auf den Gegenstand oder Vermögenswert oder dessen Verkaufs\- oder Verwertungserlös \(§ 408\) binnen dreißig Jahren nach der Entscheidung gegen den Bund im Zivilrechtsweg geltend machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-444-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=444) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_485_TextContainer_485) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-444-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-444-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=444) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_485_TextContainer_485) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-444-stpo) \]
 
 ----
 
@@ -8085,7 +8085,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Das Urteil kann in sinngemäßer Anwendung der §§ 463 bis 468 \(§ 489\) zugunsten und zum Nachteil des Betroffenen mit Berufung angefochten werden; § 444 Abs\. 1 letzter Satz gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-445-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=445) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_486_TextContainer_486) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-445-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-445-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=445) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_486_TextContainer_486) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-445-stpo) \]
 
 ----
 
@@ -8095,7 +8095,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` In den Fällen, in denen das Verfahren durch die Staatsanwaltschaft nach den Bestimmungen des 10\. oder 11\. Hauptstücks, anderen auf sie verweisenden Vorschriften oder gemäß § 35 SMG beendet wird, hat die Staatsanwaltschaft nach Durchführung des in Abs\. 1 vorgesehenen Verfahrens die Einziehung anzuordnen und das in § 408 Abs\. 2 vorgesehene Verfahren durchzuführen, soweit nicht ein Haftungsbeteiligter die Entscheidung des Gerichts verlangt\. § 444 Abs\. 2 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-445a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=445a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_487_TextContainer_487) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-445a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-445a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=445a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_487_TextContainer_487) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-445a-stpo) \]
 
 ----
 
@@ -8103,7 +8103,7 @@ Der Nationalrat hat beschlossen:
 
 > Ergeben sich die Voraussetzungen für das selbständige Verfahren erst in der Hauptverhandlung, so kann die Entscheidung auch in einem Urteil ergehen, in dem der Angeklagte freigesprochen oder der Antrag auf Anstaltsunterbringung abgewiesen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-446-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=446) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_488_TextContainer_488) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-446-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-446-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=446) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_488_TextContainer_488) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-446-stpo) \]
 
 ----
 
@@ -8117,7 +8117,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wenn nachträglich Umstände eintreten oder bekannt werden, bei deren Vorliegen im Zeitpunkt des Urteils kein Ausspruch nach Abs\. 1 gefällt worden wäre, so ist nach § 410 vorzugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-446a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=446a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_489_TextContainer_489) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-446a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-446a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=446a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_489_TextContainer_489) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-446a-stpo) \]
 
 ----
 
@@ -8129,7 +8129,7 @@ Der Nationalrat hat beschlossen:
 
 > Für das Hauptverfahren vor dem Bezirksgericht gelten die Bestimmungen für das Verfahren vor dem Landesgericht als Schöffengericht, soweit im Folgenden nichts anderes bestimmt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-447-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=447) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_490_TextContainer_490) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-447-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-447-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=447) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_490_TextContainer_490) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-447-stpo) \]
 
 ----
 
@@ -8141,7 +8141,7 @@ Der Nationalrat hat beschlossen:
 
 > Ist das Bezirksgericht der Ansicht, dass das Landesgericht zuständig sei, so hat es vor Anordnung der Hauptverhandlung seine sachliche Unzuständigkeit mit Beschluss auszusprechen\. Sobald die Entscheidung rechtswirksam geworden ist, hat der Ankläger die für die Fortführung des Verfahrens erforderlichen Anträge zu stellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-450-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=450) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_491_TextContainer_491) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-450-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-450-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=450) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_491_TextContainer_491) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-450-stpo) \]
 
 ----
 
@@ -8155,7 +8155,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-451-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=451) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_492_TextContainer_492) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-451-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-451-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=451) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_492_TextContainer_492) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-451-stpo) \]
 
 ----
 
@@ -8167,7 +8167,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Lässt sich der Angeklagte durch einen Machthaber vertreten, so kommt diesem in der Hauptverhandlung die Stellung des Angeklagten zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-455-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=455) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_493_TextContainer_493) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-455-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-455-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=455) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_493_TextContainer_493) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-455-stpo) \]
 
 ----
 
@@ -8175,7 +8175,7 @@ Der Nationalrat hat beschlossen:
 
 > In Privatanklagesachen ist die Öffentlichkeit auch auszuschließen, wenn der Ankläger einem darauf gerichteten Antrag des Angeklagten nicht entgegen tritt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-456-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=456) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_494_TextContainer_494) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-456-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-456-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=456) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_494_TextContainer_494) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-456-stpo) \]
 
 ----
 
@@ -8183,7 +8183,7 @@ Der Nationalrat hat beschlossen:
 
 > Hat der Angeklagte keinen Verteidiger, so nimmt er dessen Rechte im Hauptverfahren selbst wahr\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-457-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=457) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_495_TextContainer_495) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-457-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-457-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=457) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_495_TextContainer_495) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-457-stpo) \]
 
 ----
 
@@ -8191,7 +8191,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Richter ist berechtigt, nach Schluss der Verhandlung die Fällung des Urteils bis auf den folgenden Tag auszusetzen\. Im Übrigen gelten jedoch auch für die Verhandlung vor dem Bezirksgericht die Bestimmungen des 14\. Hauptstückes\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-458-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=458) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_496_TextContainer_496) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-458-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-458-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=458) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_496_TextContainer_496) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-458-stpo) \]
 
 ----
 
@@ -8201,7 +8201,7 @@ Der Nationalrat hat beschlossen:
 
 > Gegen Urteile der Bezirksgerichte, die gegen einen Anwesenden ergangen sind, ist nur das Rechtsmittel der Berufung zulässig, und zwar an das Landesgericht, in dessen Sprengel das Bezirksgericht liegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-463-stpo--rechtsmittel-gegen-urteile-der-bezirksgerichte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=463) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_497_TextContainer_497) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-463-stpo--rechtsmittel-gegen-urteile-der-bezirksgerichte)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-463-stpo--rechtsmittel-gegen-urteile-der-bezirksgerichte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=463) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_497_TextContainer_497) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-463-stpo--rechtsmittel-gegen-urteile-der-bezirksgerichte) \]
 
 ----
 
@@ -8215,7 +8215,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` wegen des Ausspruches über die privatrechtlichen Ansprüche\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-464-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=464) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_498_TextContainer_498) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-464-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-464-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=464) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_498_TextContainer_498) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-464-stpo) \]
 
 ----
 
@@ -8227,7 +8227,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Zum Nachteile des Angeklagten kann die Berufung nur vom Ankläger und vom Privatbeteiligten, von diesem aber nur wegen Nichtigkeit unter den in § 282 Abs\. 2 geregelten Voraussetzungen und wegen seiner privatrechtlichen Ansprüche ergriffen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-465-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=465) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_499_TextContainer_499) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-465-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-465-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=465) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_499_TextContainer_499) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-465-stpo) \]
 
 ----
 
@@ -8247,7 +8247,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Dem Beschwerdeführer muß, sofern dies nicht schon geschehen ist, eine Urteilsabschrift zugestellt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-466-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=466) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_500_TextContainer_500) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-466-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-466-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=466) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_500_TextContainer_500) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-466-stpo) \]
 
 ----
 
@@ -8263,7 +8263,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Berufung oder Berufungsausführung ist in zweifacher Ausfertigung vorzulegen oder aufzunehmen\. Eine Ausfertigung ist dem Gegner mit dem Bedeuten mitzuteilen, daß er binnen vier Wochen seine Gegenausführung überreichen könne\. Die Gegenausführung ist dem Beschwerdeführer zuzustellen; danach sind alle Akten dem Landesgericht – gegebenenfalls samt einer Verständigung des Verfassungsgerichtshofes gemäß §§ 57a Abs\. 5 erster Satz oder 62a Abs\. 5 erster Satz VfGG – vorzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-467-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=467) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_501_TextContainer_501) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-467-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-467-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=467) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_501_TextContainer_501) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-467-stpo) \]
 
 ----
 
@@ -8288,7 +8288,7 @@ Der Nationalrat hat beschlossen:
 > *Anm\. 1: Art\. I Z 198 lit\. b der Novelle BGBl\. I Nr\. 93/2007 lautet: „Im Abs\. 1 Z 2 wird die Wendung „Gerichtshof erster Instanz oder des Geschworenengerichtes“ durch das Wort „Landesgerichts“ ersetzt\.“\. Die zu ersetzende Wendung lautet richtig: „Gerichtshofes erster Instanz oder des Geschworenengerichtes“\.\)*
 
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-468-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=468) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_502_TextContainer_502) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-468-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-468-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=468) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_502_TextContainer_502) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-468-stpo) \]
 
 ----
 
@@ -8296,7 +8296,7 @@ Der Nationalrat hat beschlossen:
 
 > Das Landesgericht berät über die Berufung nur dann in nichtöffentlicher Sitzung, wenn der Berichterstatter oder die Staatsanwaltschaft einen der im § 470 angeführten Beschlüsse beantragt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-469-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=469) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_503_TextContainer_503) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-469-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-469-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=469) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_503_TextContainer_503) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-469-stpo) \]
 
 ----
 
@@ -8310,7 +8310,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` wenn schon vor der öffentlichen Verhandlung über die Berufung feststeht, daß das Urteil aufzuheben und die Verhandlung in erster Instanz zu wiederholen oder nach dem 11\. Hauptstück oder § 37 SMG vorzugehen ist, der Berufung stattgeben, das Urteil, soweit es angefochten wird, aufheben und die Sache an das Bezirksgericht, das das Urteil gefällt hat, oder an ein anderes Bezirksgericht seines Sprengels, wenn aber das Urteil wegen örtlicher Unzuständigkeit des Gerichtes aufgehoben wird, an das örtlich zuständige Bezirksgericht zurückweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-470-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=470) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_504_TextContainer_504) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-470-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-470-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=470) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_504_TextContainer_504) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-470-stpo) \]
 
 ----
 
@@ -8322,7 +8322,7 @@ Der Nationalrat hat beschlossen:
 >
 > *Anm\. 1: Art\. 1 Z 75 der Novelle BGBl\. I Nr\. 157/2024 lautet: „In § 471 wird das Zitat „§ 286 Abs\. 1 und 1a“ durch das Zitat „§ 286 Abs\. 1 und 2 zweiter Satz“ ersetzt“\.“\. Die Anweisung konnte nicht durchgeführt werden\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-471-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=471) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_505_TextContainer_505) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-471-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-471-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=471) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_505_TextContainer_505) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-471-stpo) \]
 
 ----
 
@@ -8338,7 +8338,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Hierauf zieht sich das Landesgericht zur Beratung und Beschlußfassung zurück\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-473-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=473) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_506_TextContainer_506) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-473-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-473-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=473) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_506_TextContainer_506) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-473-stpo) \]
 
 ----
 
@@ -8346,7 +8346,7 @@ Der Nationalrat hat beschlossen:
 
 > Nach Maßgabe der folgenden Bestimmungen erkennt das Landesgericht in der Sache selbst nach den für das Landesgericht als Schöffengericht geltenden Bestimmungen, es sei denn, dass die Berufung als unzulässig oder unbegründet zurückgewiesen wird oder sich das angerufene Landesgericht für unzuständig erklärt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-474-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=474) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_507_TextContainer_507) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-474-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-474-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=474) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_507_TextContainer_507) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-474-stpo) \]
 
 ----
 
@@ -8360,7 +8360,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Hat das Bezirksgericht das Vorliegen der Voraussetzungen für eine Einstellung des Strafverfahrens nach dem 11\. Hauptstück \(§ 199\) oder § 37 SMG zu Unrecht nicht angenommen, so verweist das Landesgericht die Sache an dasselbe oder an ein anderes Bezirksgericht mit dem Auftrag, nach den entsprechenden Bestimmungen vorzugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-475-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=475) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_508_TextContainer_508) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-475-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-475-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=475) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_508_TextContainer_508) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-475-stpo) \]
 
 ----
 
@@ -8368,7 +8368,7 @@ Der Nationalrat hat beschlossen:
 
 > In den im § 475 Abs\. 1 und 3 erwähnten Fällen steht es jedoch der Berufungsbehörde frei, sofort oder in einer späteren Sitzung, nötigenfalls unter Wiederholung oder Ergänzung der in erster Instanz gepflogenen Verhandlung und unter Verbesserung der mangelhaft befundenen Prozeßhandlung, in der Sache selbst zu erkennen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-476-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=476) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_509_TextContainer_509) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-476-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-476-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=476) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_509_TextContainer_509) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-476-stpo) \]
 
 ----
 
@@ -8380,7 +8380,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Findet das Bezirksgericht oder infolge der Beschwerde das Landesgericht den Einspruch begründet, so ist eine neue Verhandlung vor dem Bezirksgericht anzuordnen, bei der, wenn der Angeklagte erscheint, die Sache so verhandelt wird, wie im § 457 vorgeschrieben ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-478-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=478) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_510_TextContainer_510) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-478-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-478-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=478) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_510_TextContainer_510) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-478-stpo) \]
 
 ----
 
@@ -8388,7 +8388,7 @@ Der Nationalrat hat beschlossen:
 
 > Gegen die Urteile der Landesgerichte über eine gemäß den §§ 463, 464 und 478 an sie gelangte Berufung ist ein weiteres Rechtsmittel nicht zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-479-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=479) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_511_TextContainer_511) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-479-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-479-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=479) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_511_TextContainer_511) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-479-stpo) \]
 
 ----
 
@@ -8396,7 +8396,7 @@ Der Nationalrat hat beschlossen:
 
 > Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16\. Hauptstück enthaltenen Bestimmungen\. In den Fällen der §§ 352 bis 356 entscheidet das Bezirksgericht über die Bewilligung der Wiederaufnahme\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-480-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=480) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_512_TextContainer_512) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-480-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-480-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=480) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_512_TextContainer_512) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-480-stpo) \]
 
 ----
 
@@ -8408,7 +8408,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 93/2007\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-483-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=483) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_513_TextContainer_513) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-483-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-483-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=483) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_513_TextContainer_513) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-483-stpo) \]
 
 ----
 
@@ -8416,7 +8416,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Strafantrag \(§ 210 Abs\. 1\) hat die im § 211 Abs\. 1 angeführten Angaben zu enthalten und jene Beweise zu bezeichnen, deren Aufnahme in der Hauptverhandlung beantragt wird\. Das Gericht hat den Strafantrag dem Angeklagten, gegebenenfalls samt einer Rechtsbelehrung gemäß § 50, insbesondere der Information, ob ein Fall notwendiger Verteidigung gegeben ist, unverzüglich zuzustellen\. § 213 Abs\. 3 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-484-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=484) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_514_TextContainer_514) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-484-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-484-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=484) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_514_TextContainer_514) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-484-stpo) \]
 
 ----
 
@@ -8436,7 +8436,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Sobald ein Beschluss gemäß Abs\. 1 Z 1 oder 2 rechtswirksam geworden ist, hat der Ankläger binnen dreier Monate bei sonstigem Verlust des Verfolgungsrechts die für die Fortführung des Verfahrens erforderlichen Anträge oder Anordnungen zu stellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-485-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=485) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_515_TextContainer_515) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-485-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-485-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=485) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_515_TextContainer_515) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-485-stpo) \]
 
 ----
 
@@ -8449,7 +8449,7 @@ Der Nationalrat hat beschlossen:
 > `(3)` Ist das Landesgericht als Einzelrichter der Ansicht, dass das Landesgericht als Schöffen\- oder Geschworenengericht zuständig ist, so hat es, nachdem die Beteiligten des Verfahrens zu den geänderten Umständen angehört wurden, mit Urteil seine Unzuständigkeit auszusprechen\. Sobald dieses Urteil rechtskräftig wurde, hat der Ankläger die zur Fortführung des Verfahrens erforderlichen Anträge zu stellen\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch BGBl\. I Nr\. 52/2009\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-488-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=488) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_516_TextContainer_516) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-488-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-488-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=488) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_516_TextContainer_516) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-488-stpo) \]
 
 ----
 
@@ -8461,7 +8461,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Von der Verhandlung und Entscheidung über eine Berufung sind auch Mitglieder des Oberlandesgerichts ausgeschlossen, die im vorangegangenen Verfahren an der Entscheidung über eine Beschwerde gegen die vom Landesgericht als Einzelrichter beschlossene Zurückweisung oder Einstellung \(§ 485\) beteiligt waren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-489-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=489) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_517_TextContainer_517) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-489-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-489-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=489) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_517_TextContainer_517) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-489-stpo) \]
 
 ----
 
@@ -8469,7 +8469,7 @@ Der Nationalrat hat beschlossen:
 
 > Für die Wiederaufnahme und die Erneuerung des Strafverfahrens sowie für die Wiedereinsetzung in den vorigen Stand gelten die im 16\. Hauptstück enthaltenen Bestimmungen\. In den Fällen der §§ 352 bis 356 entscheidet das Landesgericht als Einzelrichter über die Bewilligung der Wiederaufnahme\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-490-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=490) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_518_TextContainer_518) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-490-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-490-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=490) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_518_TextContainer_518) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.026.md#-490-stpo) \]
 
 ----
 
@@ -8511,7 +8511,7 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` Wird ein Einspruch nicht erhoben oder ein solcher als unzulässig zurückgewiesen, so steht die Strafverfügung einem rechtskräftigen Urteil gleich und ist nach den Bestimmungen des 19\. Hauptstückes zu vollstrecken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-491-stpo--mandatsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=491) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_519_TextContainer_519) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-491-stpo--mandatsverfahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-491-stpo--mandatsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=491) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_519_TextContainer_519) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-491-stpo--mandatsverfahren) \]
 
 ----
 
@@ -8519,7 +8519,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 148\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-491a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=491a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_520_TextContainer_520) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-491a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-491a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=491a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_520_TextContainer_520) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-491a-stpo) \]
 
 ----
 
@@ -8527,7 +8527,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 148\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-491b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=491b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_521_TextContainer_521) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-491b-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-491b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=491b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_521_TextContainer_521) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-491b-stpo) \]
 
 ----
 
@@ -8543,7 +8543,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Gericht hat den Verurteilten über den Sinn der bedingten Nachsicht zu belehren und ihm, sobald die Entscheidung darüber rechtskräftig geworden ist, eine Urkunde zuzustellen, die kurz und in einfachen Worten den wesentlichen Inhalt der Entscheidung, die ihm auferlegten Verpflichtungen und die Gründe angibt, aus denen die Nachsicht widerrufen werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-492-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=492) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_522_TextContainer_522) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-492-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-492-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=492) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_522_TextContainer_522) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-492-stpo) \]
 
 ----
 
@@ -8553,7 +8553,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Hat das Gericht durch die Entscheidung über die bedingte Nachsicht seine Befugnisse überschritten, so kann das Urteil wegen Nichtigkeit nach den §§ 281 Abs\. 1 Z\. 11, 345 Abs\. 1 Z\. 13 oder 468 Abs\. 1 Z\. 4 angefochten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-493-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=493) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_523_TextContainer_523) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-493-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-493-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=493) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_523_TextContainer_523) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-493-stpo) \]
 
 ----
 
@@ -8565,7 +8565,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird dem Rechtsbrecher eine Weisung erteilt, welche die Interessen des Verletzten unmittelbar berührt, so ist dieser hievon zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-494-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=494) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_524_TextContainer_524) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-494-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-494-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=494) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_524_TextContainer_524) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-494-stpo) \]
 
 ----
 
@@ -8594,7 +8594,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Das erkennende Gericht hat unverzüglich alle Gerichte zu verständigen, deren Vorentscheidungen von einer Entscheidung nach den vorstehenden Bestimmungen betroffen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-494a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=494a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_525_TextContainer_525) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-494a-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-494a-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=494a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_525_TextContainer_525) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-494a-stpo) \]
 
 ----
 
@@ -8602,7 +8602,7 @@ Der Nationalrat hat beschlossen:
 
 > Hat das erkennende Gericht bei der Urteilsfällung einen Ausspruch nach § 494a Abs\. 1 Z 3 oder 4 zu Unrecht unterlassen oder im Fall eines Ausspruches nach § 494a Abs\. 1 Z 2 die Probezeit nicht verlängert und hat der Ankläger das Unterbleiben einer solchen Entscheidung nicht angefochten, so darf ein nachträglicher Ausspruch der Strafe, ein Widerruf der bedingten Nachsicht oder Entlassung oder eine Verlängerung der Probezeit aus Anlaß der neuen Verurteilung nicht mehr erfolgen, sofern die frühere Verurteilung oder die bedingte Entlassung aktenkundig war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-494b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=494b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_526_TextContainer_526) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-494b-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-494b-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=494b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_526_TextContainer_526) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-494b-stpo) \]
 
 ----
 
@@ -8614,7 +8614,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Vor der Entscheidung hat das Gericht den Ankläger, den Verurteilten und den Bewährungshelfer zu hören und eine Strafregisterauskunft einzuholen\. Von der Anhörung des Verurteilten kann abgesehen werden, wenn sich erweist, daß sie ohne unverhältnismäßigen Aufwand nicht durchführbar ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-495-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=495) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_527_TextContainer_527) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-495-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-495-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=495) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_527_TextContainer_527) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-495-stpo) \]
 
 ----
 
@@ -8624,7 +8624,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wenn auf Grund bestimmter Tatsachen anzunehmen ist, dass ein Verurteilter, der unter gerichtlicher Aufsicht nach § 52a oder § 52b StGB steht, ihm erteilte Weisungen nicht befolgt oder sich dem Einfluss des Bewährungshelfers entzieht, ist die Vorführung des Verurteilten zur sofortigen Erteilung einer förmlichen Mahnung zulässig\. Zur Vorführung ist die Kriminalpolizei von sich aus berechtigt, wenn wegen Gefahr im Verzug eine Anordnung des Gerichts nicht rechtzeitig eingeholt werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-496-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=496) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_528_TextContainer_528) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-496-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-496-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=496) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_528_TextContainer_528) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-496-stpo) \]
 
 ----
 
@@ -8636,7 +8636,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Vor der Entscheidung ist der Ankläger zu hören und eine Strafregisterauskunft einzuholen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-497-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=497) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_529_TextContainer_529) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-497-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-497-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=497) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_529_TextContainer_529) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-497-stpo) \]
 
 ----
 
@@ -8650,7 +8650,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Beschwerde kann auch mit einer Nichtigkeitsbeschwerde oder Berufung gegen das Urteil verbunden werden, das zugleich mit dem angefochtenen Beschluß ergangen ist \(§§ 494 und 494a\)\. In diesem Fall ist die Beschwerde rechtzeitig eingebracht, wenn das Rechtsmittel, mit dessen Ausführung sie verbunden ist, rechtzeitig eingebracht wurde\. Im übrigen ist eine zugunsten des Angeklagten ergriffene Berufung wegen des Ausspruchs über die Strafe auch als Beschwerde gegen den Beschluß zu betrachten\. Wird die Beschwerde mit einem anderen Rechtsmittel verbunden oder wird sonst gegen das zugleich mit dem angefochtenen Beschluß ergangene Urteil Nichtigkeitsbeschwerde oder Berufung erhoben, so entscheidet das für deren Erledigung zuständige Gericht auch über die Beschwerde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-498-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=498) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_530_TextContainer_530) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-498-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-498-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=498) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_530_TextContainer_530) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-498-stpo) \]
 
 ----
 
@@ -8662,7 +8662,7 @@ Der Nationalrat hat beschlossen:
 
 > Soldat im Sinne dieses Gesetzes ist jeder Angehörige des Präsenzstandes des Bundesheeres\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-499-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=499) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_531_TextContainer_531) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-499-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-499-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=499) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_531_TextContainer_531) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-499-stpo) \]
 
 ----
 
@@ -8672,7 +8672,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soweit im folgenden nichts anderes bestimmt ist, sind die allgemeinen Vorschriften über das Verfahren in Strafsachen auch auf Soldaten anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-500-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=500) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_532_TextContainer_532) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-500-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-500-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=500) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_532_TextContainer_532) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-500-stpo) \]
 
 ----
 
@@ -8682,7 +8682,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wegen eines mit nicht mehr als sechsmonatiger Freiheitsstrafe bedrohten Vergehens nach dem Militärstrafgesetz darf ein Strafverfahren nicht geführt oder ein bereits begonnenes Strafverfahren vorläufig nicht fortgesetzt werden \(§ 197\), sobald Staatsanwaltschaft oder Gericht von der zuständigen Behörde mitgeteilt wurde, dass wegen der Tat ein militärisches Disziplinarverfahren durchgeführt wird\. Handelt es sich um ein mit mehr als sechsmonatiger, aber nicht mehr als zweijähriger Freiheitsstrafe bedrohtes Vergehen nach dem Militärstrafgesetz, so kann die Staatsanwaltschaft oder das Gericht die Einleitung oder Fortsetzung des Verfahrens aufschieben, wenn dies im Hinblick auf ein wegen der Tat durchgeführtes militärisches Disziplinarverfahren zweckmäßig erscheint\. Nach Abschluss des Disziplinarverfahrens hat die Staatsanwaltschaft in sinngemäßer Anwendung des § 263 Abs\. 4 vorzugehen\. Solange ein Verfahren nach diesem Bundesgesetz nicht eingeleitet oder fortgesetzt wird, ruht die Verjährung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-501-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=501) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_533_TextContainer_533) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-501-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-501-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=501) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_533_TextContainer_533) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-501-stpo) \]
 
 ----
 
@@ -8696,7 +8696,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` §§ 170 Abs\. 3 und 172 gelten dem Sinne nach\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-502-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=502) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_534_TextContainer_534) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-502-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-502-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=502) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_534_TextContainer_534) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-502-stpo) \]
 
 ----
 
@@ -8710,7 +8710,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die bevorstehende Entlassung eines Soldaten aus einer Strafvollzugsanstalt ist von dieser, die Entlassung aus einer Justizanstalt vom Gerichte dem nächstgelegenen militärischen Kommando anzuzeigen, damit die zur Übernahme notwendigen Verfügungen rechtzeitig getroffen werden können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-503-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=503) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_535_TextContainer_535) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-503-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-503-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=503) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_535_TextContainer_535) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-503-stpo) \]
 
 ----
 
@@ -8718,7 +8718,7 @@ Der Nationalrat hat beschlossen:
 
 > Von Amtshandlungen der Kriminalpolizei, der Staatsanwaltschaft oder des Gerichts auf militärischen Liegenschaften ist der Kommandant vorher in Kenntnis zu setzen; auf sein Verlangen ist ein von ihm beigegebener Soldat zuzuziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-504-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=504) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_536_TextContainer_536) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-504-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-504-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=504) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_536_TextContainer_536) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-504-stpo) \]
 
 ----
 
@@ -8726,7 +8726,7 @@ Der Nationalrat hat beschlossen:
 
 > Ladungen und Anordnungen, Entscheidungen und sonstige Schriftstücke sind Soldaten in der Regel durch das unmittelbar vorgesetzte Kommando zuzustellen\. Dieses hat das rechtzeitige Erscheinen des Geladenen zu veranlassen und ihn nötigenfalls auch von Amts wegen zum Termin vorzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-505-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=505) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_537_TextContainer_537) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-505-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-505-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=505) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_537_TextContainer_537) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-505-stpo) \]
 
 ----
 
@@ -8736,7 +8736,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Dienstgrad und der Standeskörper des Beschuldigten sind in allen Schriftstücken, die ihm oder militärischen Stellen \(§ 503\) zuzustellen sind oder durch die seine Fahndung veranlasst werden soll, anzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-506-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=506) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_538_TextContainer_538) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-506-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-506-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=506) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_538_TextContainer_538) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-506-stpo) \]
 
 ----
 
@@ -8746,7 +8746,7 @@ Der Nationalrat hat beschlossen:
 
 > Eine Begnadigung steht nur dem Bundespräsidenten auf Vorschlag der Bundesregierung oder des von ihr ermächtigten Bundesministers für Justiz zu \(Art\. 65 Abs\. 2 lit\. c, Art\. 67 Abs\. 1 B\-VG\)\. Eine Begnadigung kann von Amts wegen oder aus Anlaß eines Gesuches vorgeschlagen werden; ein Recht darauf besteht nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-507-stpo--gnadenverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=507) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_539_TextContainer_539) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-507-stpo--gnadenverfahren)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-507-stpo--gnadenverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=507) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_539_TextContainer_539) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-507-stpo--gnadenverfahren) \]
 
 ----
 
@@ -8754,7 +8754,7 @@ Der Nationalrat hat beschlossen:
 
 > Gnadengesuche sind beim Bundesminister für Justiz einzubringen; bei Gerichten oder anderen Justizbehörden einlangende Gesuche sind unverzüglich und unmittelbar an den Bundesminister für Justiz weiterzuleiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-508-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=508) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_540_TextContainer_540) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-508-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-508-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=508) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_540_TextContainer_540) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-508-stpo) \]
 
 ----
 
@@ -8766,7 +8766,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` Gerichten, insbesondere jenen, die in erster Instanz erkannt oder die Strafe mit der Entscheidung über ein Rechtsmittel festgesetzt haben, Gelegenheit zur Stellungnahme geben sowie Stellungnahmen staatsanwaltschaftlicher und anderer Behörden einholen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-509-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=509) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_541_TextContainer_541) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-509-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-509-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=509) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_541_TextContainer_541) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-509-stpo) \]
 
 ----
 
@@ -8784,7 +8784,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Der Verurteilte kann auch vor Beendigung der Hemmung die Freiheitsstrafe antreten oder die Geldstrafe zahlen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-510-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=510) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_542_TextContainer_542) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-510-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-510-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=510) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_542_TextContainer_542) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-510-stpo) \]
 
 ----
 
@@ -8794,7 +8794,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Bleibt ein Gnadengesuch erfolglos, so hat der Bundesminister für Justiz davon den Verurteilten, den Gesuchsteller und das Gericht, das in erster Instanz erkannt hat, zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-511-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=511) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_543_TextContainer_543) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-511-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-511-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=511) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_543_TextContainer_543) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-511-stpo) \]
 
 ----
 
@@ -8804,7 +8804,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Anordnung des Vollzuges solcher Strafen und die sonst auf Grund einer Begnadigung oder einer Hemmung des Vollzuges von Strafen zu treffenden Verfügungen kommen dem Vorsitzenden \(Einzelrichter\) des Gerichtes zu, das in erster Instanz erkannt hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-512-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=512) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_544_TextContainer_544) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-512-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-512-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=512) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_544_TextContainer_544) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-512-stpo) \]
 
 ----
 
@@ -8812,7 +8812,7 @@ Der Nationalrat hat beschlossen:
 
 > Bei den Erhebungen im Gnadenverfahren sind die Bestimmungen des Allgemeinen Verwaltungsverfahrensgesetzes 1991 sinngemäß anzuwenden\. Dem Verurteilten ist auf Verlangen Einsicht in die Ergebnisse der Erhebungen zu gewähren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-513-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=513) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_545_TextContainer_545) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-513-stpo)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-513-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=513) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_545_TextContainer_545) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.027.md#-513-stpo) \]
 
 ----
 
@@ -8964,7 +8964,7 @@ Der Nationalrat hat beschlossen:
 
 > `(56)` Die Einträge im Inhaltsverzeichnis zum 1\. Abschnitt des 8\. Hauptstücks, zu den §§ 115a bis 115l, zur Überschrift des 3\. Teils, zu einem 10a\. Hauptstück samt Überschrift, zu § 197a, § 197b und § 197c, § 1 Abs\. 2, § 27, § 28 Abs\. 2, § 31 Abs\. 3 Z 6a und Abs\. 6 Z 3, § 36 Abs\. 2a, § 37 Abs\. 4, § 47a Abs\. 4a und 7, § 49 Abs\. 1 Z 12 und 13, § 52 Abs\. 1, Abs\. 2 Z 4 und Abs\. 3, § 53 Abs\. 1, § 61 Abs\. 2 Z 2 lit\. a, § 66 Abs\. 1 Z 1c, § 66b Abs\. 1 lit\. e, § 69 Abs\. 3, § 71 Abs\. 1, § 76 Abs\. 6, § 77 Abs\. 2, § 91 Abs\. 2 und 3, § 100 Abs\. 3a, § 102 Abs\. 3, § 105 Abs\. 3, § 108, die Überschrift des 1\. Abschnitts des 8\. Hauptstücks, § 109 Z 1 lit\. a und b, Z 1a und Z 2a bis 2e, § 110 Abs\. 1 Z 1, Abs\. 3 und 4, § 111 Abs\. 2 und 3, § 112 Abs\. 1 und 2, § 112a Abs\. 1, § 113 Abs\. 2 und 4, § 114 Abs\. 1, 1a und 2, § 115 Abs\. 1, § 115a Abs\. 1, § 115e Abs\. 1 und 2, §§ 115f bis 115l samt Überschriften, § 116 Abs\. 5, 6 und 7, § 126 Abs\. 2a, 3a, 3b und 4, § 157 Abs\. 1 Z 2 und Abs\. 2, § 174 Abs\. 1, die Überschrift des 3\. Teils, § 190, § 195 Abs\. 2,§ 196a Abs\. 2, das 10a\. Hauptstück, § 281 Abs\. 1 Z 3, § 284 Abs\. 2, § 286 Abs\. 1 und 2, § 294 Abs\. 5, § 296 Abs\. 3, § 345 Abs\. 1 Z 4, §§ 367 bis 369, § 373b, § 377, § 379, § 408 Abs\. 2, § 444 Abs\. 2, § 466 Abs\. 3, § 468 Abs\. 1 Z 3 und § 471 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 treten mit 1\. Jänner 2025 in Kraft; gleichzeitig treten § 31 Abs\. 1 Z 5, § 108a samt Überschrift und § 286 Abs\. 1a außer Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-514-stpo--in-kraft-treten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=514) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_546_TextContainer_546) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.028.md#-514-stpo--in-kraft-treten)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-514-stpo--in-kraft-treten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=514) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_546_TextContainer_546) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.028.md#-514-stpo--in-kraft-treten) \]
 
 ----
 
@@ -8974,7 +8974,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soweit in diesem Gesetz personenbezogene Bezeichnungen nur in männlicher Form angeführt sind, beziehen sie sich auf Frauen und Männer in gleicher Weise\. Bei der Anwendung auf bestimmte Personen ist die jeweils geschlechtsspezifische Form zu verwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-515-stpo--verweisungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=515) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_547_TextContainer_547) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.028.md#-515-stpo--verweisungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-515-stpo--verweisungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=515) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_547_TextContainer_547) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.028.md#-515-stpo--verweisungen) \]
 
 ----
 
@@ -9009,7 +9009,7 @@ Der Nationalrat hat beschlossen:
 
 > `(13)` § 111 Abs\. 2 und §§ 115f bis 115l in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 sind in jenen Strafverfahren anzuwenden, die ab dem 1\. Jänner 2025 beginnen \(§ 1 Abs\. 2\) sowie für alle Sicherstellungen gemäß § 111 Abs\. 2 und Beschlagnahmen von Datenträgern und Daten \(§ 109 Z 2a\), die ab dem 1\. Jänner 2025 angeordnet werden\. In allen anderen Fällen gelten § 115i, § 115k und § 115l sinngemäß\. § 126 Abs\. 3a und § 127 Abs\. 4a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 sind auf Gutachtensaufträge anzuwenden, die nach dem 1\. Jänner 2025 erteilt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-516-stpo--übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=516) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_548_TextContainer_548) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.028.md#-516-stpo--übergangsbestimmungen)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-516-stpo--übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=516) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_548_TextContainer_548) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.028.md#-516-stpo--übergangsbestimmungen) \]
 
 ----
 
@@ -9049,7 +9049,7 @@ Der Nationalrat hat beschlossen:
 
 > `(16)` § 69 Abs\. 3, § 109 Z 1 lit\. a, Z 1a, § 110 Abs\. 3, § 113 Abs\. 2, § 114 Abs\. 1, Abs\. 1a und Abs\. 2, § 115 Abs\. 1, § 115e Abs\. 2, § 367, § 379, § 408 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 dienen der Umsetzung der Richtlinie 2024/1260/EU über die Abschöpfung und Einziehung von Vermögenswerten, ABl\. Nr\. L 1260 vom 24\.04\.2024 S 1\. § 115i in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 dient der Umsetzung der Richtlinie 2016/680/EU zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates, ABl\. Nr\. L 119 vom 27\.4\.2016 S\. 1\. § 195 Abs\. 2, § 197a, § 197b und § 197c in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 dienen der Umsetzung der Richtlinie 2012/29/EU über Mindeststandards für die Rechte, die Unterstützung und den Schutz von Opfern von Straftaten sowie zur Ersetzung des Rahmenbeschlusses 2001/220/JI, ABl\. Nr\. L 315 vom 14\.11\.2012 S\. 57\. § 286 Abs\. 1 und 2, § 294 Abs\. 5, § 296 Abs\. 3 und § 471 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 dienen der Umsetzung der Richtlinie 2016/343/EU über die Stärkung bestimmter Aspekte der Unschuldsvermutung und des Rechts auf Anwesenheit in der Verhandlung im Strafverfahren, ABl\. Nr\. L 65 vom 11\.03\.2016 S\. 1\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-516a-stpo--umsetzung-von-richtlinien-der-europäischen-union) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=516a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_549_TextContainer_549) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.028.md#-516a-stpo--umsetzung-von-richtlinien-der-europäischen-union)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-516a-stpo--umsetzung-von-richtlinien-der-europäischen-union) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=516a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_549_TextContainer_549) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.028.md#-516a-stpo--umsetzung-von-richtlinien-der-europäischen-union) \]
 
 ----
 
@@ -9057,7 +9057,7 @@ Der Nationalrat hat beschlossen:
 
 > Mit der Vollziehung dieses Gesetzes ist der Bundesminister für Justiz betraut\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-517-stpo--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=517) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_550_TextContainer_550) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.028.md#-517-stpo--vollziehung)) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-517-stpo--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=517) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_550_TextContainer_550) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.028.md#-517-stpo--vollziehung) \]
 
 ----
 
