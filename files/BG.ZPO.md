@@ -1001,9 +1001,9 @@
 * [§ 636 ZPO — In- und Außerkrafttreten; Übergangsbestimmungen](#-636-zpo--in--und-außerkrafttreten-übergangsbestimmungen)  
 * [§ 637 ZPO — Umsetzungshinweise](#-637-zpo--umsetzungshinweise)
 
-Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
-
 ----
+
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Erster Theil.
 

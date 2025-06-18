@@ -730,7 +730,7 @@ class RisEnDocMarkdownEngine:
                     lastLine = self.parmap[self.parts[i].pars[-1]].lastLine
                     self.genToc(self.lines[firstLine:lastLine+1], partIdx, f"{self.normkey}.{i+1:03}.md")
 
-        if partIdx is None or partIdx == 1:
+        if partIdx == 1:
             self.pushHdr(self.meta['Promulgation'][-1])
         return self.popLineNum()
 
@@ -753,6 +753,7 @@ class RisEnDocMarkdownEngine:
             pars = self.parts[partIdx-1].pars if partIdx else \
                     self.pars if partIdx is None else []
 
+            firstPar = True
             for p in pars:
                 if isinstance(p, str):
                     p = self.parmap[p]
@@ -760,6 +761,9 @@ class RisEnDocMarkdownEngine:
                 if not flags.forai:
                     self.largeBreak()
                     self.push("----")
+
+                if partIdx is None and firstPar:
+                    self.pushHdr(self.meta['Promulgation'][-1])
 
                 self.largeBreak()
                 #self.push("----")
@@ -783,6 +787,8 @@ class RisEnDocMarkdownEngine:
                     ]
                     self.largeBreak()
                     self.push(f"\\[ {' | '.join(navItems)} \\]")
+
+                firstPar = False
 
 
             if partIdx is not None:

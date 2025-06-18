@@ -527,9 +527,9 @@
 * [§ 323 StGB — Übergangsbestimmungen](#-323-stgb--übergangsbestimmungen)  
 * [§ 324 StGB — Vollzugsklausel](#-324-stgb--vollzugsklausel)
 
-Der Nationalrat hat beschlossen:
-
 ----
+
+Der Nationalrat hat beschlossen:
 
 ## Allgemeiner Teil
 

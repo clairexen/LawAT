@@ -737,9 +737,9 @@
 * [§ 504 EO — Inkrafttretens- und Übergangsbestimmung zum BGBl. I Nr. 77/2023](#-504-eo--inkrafttretens--und-übergangsbestimmung-zum-bgbl-i-nr-772023)  
 * [§ 505 EO — Inkrafttreten und Übergangsbestimmungen zur Gerichtsvollzieher-Vergütungs-Novelle 2023](#-505-eo--inkrafttreten-und-übergangsbestimmungen-zur-gerichtsvollzieher-vergütungs-novelle-2023)
 
-Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
-
 ----
+
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Erster Teil
 

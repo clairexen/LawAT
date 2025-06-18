@@ -220,9 +220,9 @@
 **Inkrafttreten, Schluss- und Übergangsbestimmungen**  
 * [§ 123 JN](#-123-jn)
 
-Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
-
 ----
+
+Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Erster Theil.
 

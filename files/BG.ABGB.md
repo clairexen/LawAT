@@ -1691,8 +1691,8 @@
 **Fünftes Hauptstück**  
 * [§ 1503 ABGB — Inkrafttreten und Übergangsbestimmungen ab 1. Februar 2013](#-1503-abgb--inkrafttreten-und-übergangsbestimmungen-ab-1-februar-2013)
 
-
 ----
+
 
 ## Einleitung.
 

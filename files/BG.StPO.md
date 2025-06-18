@@ -859,9 +859,9 @@
 * [§ 516a StPO — Umsetzung von Richtlinien der Europäischen Union](#-516a-stpo--umsetzung-von-richtlinien-der-europäischen-union)  
 * [§ 517 StPO — Vollziehung](#-517-stpo--vollziehung)
 
-Der Nationalrat hat beschlossen:
-
 ----
+
+Der Nationalrat hat beschlossen:
 
 ## 1. Teil
 

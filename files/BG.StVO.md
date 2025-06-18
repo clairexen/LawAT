@@ -201,9 +201,9 @@
 * [§ 105 StVO — Vollziehung](#-105-stvo--vollziehung)  
 * [§ 106 StVO — Bezugnahme auf Richtlinien](#-106-stvo--bezugnahme-auf-richtlinien)
 
-Der Nationalrat hat beschlossen:
-
 ----
+
+Der Nationalrat hat beschlossen:
 
 ## I. ABSCHNITT.
 

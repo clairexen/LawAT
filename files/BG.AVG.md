@@ -146,9 +146,9 @@
 * [§ 81 AVG — Vollziehung](#-81-avg--vollziehung)  
 * [§ 82 AVG — Inkrafttreten](#-82-avg--inkrafttreten)
 
-Der Nationalrat hat beschlossen:
-
 ----
+
+Der Nationalrat hat beschlossen:
 
 ## I. Teil: Allgemeine Bestimmungen
 

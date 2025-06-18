@@ -67,9 +67,9 @@
 * [§ 33 VerG — In-Kraft-Treten, Außer-Kraft-Treten und Übergangsbestimmungen](#-33-verg--in-kraft-treten-außer-kraft-treten-und-übergangsbestimmungen)  
 * [§ 34 VerG — Vollziehung](#-34-verg--vollziehung)
 
-Der Nationalrat hat beschlossen:
-
 ----
+
+Der Nationalrat hat beschlossen:
 
 ## 1. Abschnitt
 
