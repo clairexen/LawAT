@@ -545,7 +545,7 @@ function getMetaPromulgation() {
 
 function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, annotate=false) {
 	if (!parName) {
-		let doc = ["RisDoc" + (docName ? " " + docName : "")];
+		let doc = ["RisEnDoc" + (docName ? " " + docName : "")];
 		doc.push(getMetaLangtitel());
 		doc.push(getMetaFassungVom());
 		doc.push(getMetaLastChange());

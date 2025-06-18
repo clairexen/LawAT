@@ -213,7 +213,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für Straßen ohne öffentlichen Verkehr gilt dieses Bundesgesetz insoweit, als andere Rechtsvorschriften oder die Straßenerhalter nichts anderes bestimmen\. Die Befugnisse der Behörden und Organe der Straßenaufsicht erstrecken sich auf diese Straßen nicht\.
 
-\[ [🔗 Permalink](#-1-stvo--geltungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-1-stvo--geltungsbereich) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) \]
 
 ### § 2 StVO — Begriffsbestimmungen
 
@@ -317,7 +317,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soweit sich Bestimmungen dieses Bundesgesetzes auf den Kraftfahrlinienverkehr, Unternehmen oder Fahrzeuge des Kraftfahrlinienverkehrs oder Lenker von Fahrzeugen des Kraftfahrlinienverkehrs beziehen, gelten diese auch für Oberleitungsomnibusse, den Verkehr mit und Lenker von Oberleitungsomnibussen sowie Unternehmen, die Oberleitungsomnibusse im regionalen Linienverkehr einsetzen\.
 
-\[ [🔗 Permalink](#-2-stvo--begriffsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-2-stvo--begriffsbestimmungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) \]
 
 ### § 3 StVO — Vertrauensgrundsatz
 
@@ -325,7 +325,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Lenker eines Fahrzeuges hat sich gegenüber Personen, gegenüber denen der Vertrauensgrundsatz gemäß Abs\. 1 nicht gilt, insbesondere durch Verminderung der Fahrgeschwindigkeit und durch Bremsbereitschaft so zu verhalten, daß eine Gefährdung dieser Personen ausgeschlossen ist\.
 
-\[ [🔗 Permalink](#-3-stvo--vertrauensgrundsatz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-3-stvo--vertrauensgrundsatz) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) \]
 
 ### § 4 StVO — Verkehrsunfälle
 
@@ -351,7 +351,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Aus einer Verletzung der Hilfeleistungspflicht können keine Ersatzansprüche nach dem bürgerlichen Recht abgeleitet werden\.
 
-\[ [🔗 Permalink](#-4-stvo--verkehrsunfälle) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-4-stvo--verkehrsunfälle) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) \]
 
 ### § 5 StVO — Besondere Sicherungsmaßnahmen gegen Beeinträchtigung durch Alkohol
 
@@ -420,7 +420,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; anzunehmen, dass die zum Arzt gebrachte Person Suchtgift missbraucht, so ist an Stelle einer Strafanzeige nach dem Suchtmittelgesetz dieser Umstand der nach dem Hauptwohnsitz der untersuchten Person zuständigen Bezirksverwaltungsbehörde als Gesundheitsbehörde mitzuteilen \(§§ 12 bis 14 des Suchtmittelgesetzes, BGBl\. I Nr\. 112/1997\)\.
 
-\[ [🔗 Permalink](#-5-stvo--besondere-sicherungsmaßnahmen-gegen-beeinträchtigung-durch-alkohol) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-5-stvo--besondere-sicherungsmaßnahmen-gegen-beeinträchtigung-durch-alkohol) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) \]
 
 ### § 5a StVO
 
@@ -432,7 +432,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Bundesminister für Verkehr, Innovation und Technologie hat im Einvernehmen mit der Bundesministerin für Inneres und der Bundesministerin für Gesundheit und Frauen die für eine Ermächtigung zur Durchführung der in § 5 Abs\. 4a, 5 oder 6 genannten Untersuchungen erforderliche Weiterbildung für Ärzte durch Verordnung festzulegen\.
 
-\[ [🔗 Permalink](#-5a-stvo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-5a-stvo) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) \]
 
 ### § 5b StVO — Zwangsmaßnahmen bei Alkoholisierung
 
@@ -440,13 +440,13 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Organe der Straßenaufsicht sind weiters berechtigt, Personen an der Lenkung oder Inbetriebnahme eines Fahrzeuges zu hindern, deren Fahrlehrer \(§ 114 Abs\. 4 und 4a KFG 1967\), Begleiter \(§§ 122 Abs\. 2 und 5 KFG 1967 oder 19 Abs\. 3 und 6 FSG\) oder Ausbildner \(§ 122a Abs\. 2 KFG 1967\) sich offenbar in einem durch Alkohol oder Suchtgift beeinträchtigten Zustand befinden oder bei deren Fahrlehrer, Begleiter oder Ausbildner der Alkoholgehalt des Blutes 0,5 g/l \(0,5 Promille\) oder mehr oder der Alkoholgehalt der Atemluft 0,25 mg/l oder mehr beträgt\. Zu diesem Zweck sind, falls erforderlich, je nach Lage des Falles und Art des Fahrzeuges, Zwangsmaßnahmen, wie etwa Abnahme der Fahrzeugschlüssel, Absperren oder Einstellung des Fahrzeuges, Anlegen von technischen Sperren und dergleichen, anzuwenden\. Solche Zwangsmaßnahmen sind unverzüglich aufzuheben, wenn beim Fahrlehrer, Begleiter oder Ausbildner der durch Alkohol oder Suchtgift beeinträchtigte Zustand nicht mehr gegeben und ihm auch nicht ein zum Lenken des betreffenden Fahrzeuges allenfalls nötiger Führerschein nach den kraftfahrrechtlichen Vorschriften abgenommen ist oder wenn eine andere Person, bei der keine Hinderungsgründe gegeben sind, entweder beabsichtigt, das Fahrzeug selbst in Betrieb zu nehmen und zu lenken, oder die Aufgaben des Fahrlehrers, Begleiters oder Ausbildners wahrzunehmen\.
 
-\[ [🔗 Permalink](#-5b-stvo--zwangsmaßnahmen-bei-alkoholisierung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-5b-stvo--zwangsmaßnahmen-bei-alkoholisierung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) \]
 
 ### § 6 StVO — Benützung schienengleicher Eisenbahnübergänge
 
 > Für das Verhalten bei Annäherung an schienengleiche Eisenbahnübergänge und bei der Übersetzung solcher Übergänge sowie für die Beachtung der den schienengleichen Eisenbahnübergang sichernden Zeichen gelten die eisenbahnrechtlichen Vorschriften\.
 
-\[ [🔗 Permalink](#-6-stvo--benützung-schienengleicher-eisenbahnübergänge) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-6-stvo--benützung-schienengleicher-eisenbahnübergänge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) \]
 
 ## II. ABSCHNITT.
 
@@ -468,7 +468,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Mit Kraftfahrzeugen ist es verboten, dieselbe Straße oder dieselben Straßenzüge innerhalb eines örtlichen Bereiches ohne zwingenden Grund mehrmals hintereinander zu befahren oder den Motor am Stand länger als unbedingt notwendig laufen zu lassen\.
 
-\[ [🔗 Permalink](#-7-stvo--allgemeine-fahrordnung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-7-stvo--allgemeine-fahrordnung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) \]
 
 ### § 8 StVO — Fahrordnung auf Straßen mit besonderen Anlagen
 
@@ -490,7 +490,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Lenker von anderen als Schienenfahrzeugen dürfen selbständige Gleiskörper nicht in der Längsrichtung befahren und dürfen sie nur an den dazu bestimmten Stellen überqueren\. Von diesem Verbot sind Fahrzeuge des Verkehrsunternehmens, das den Verkehr mit den Schienenfahrzeugen betreibt, oder in dessen Auftrag fahrende Fahrzeuge und Fahrzeuge des Straßendienstes ausgenommen\.
 
-\[ [🔗 Permalink](#-8-stvo--fahrordnung-auf-straßen-mit-besonderen-anlagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-8-stvo--fahrordnung-auf-straßen-mit-besonderen-anlagen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) \]
 
 ### § 8a StVO — Fahrordnung auf Radfahranlagen
 
@@ -500,7 +500,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Behörde kann, abweichend von § 8 Abs\. 4, das Befahren von Radfahranlagen mit landwirtschaftlichen Fahrzeugen und, jedoch nur außerhalb des Ortsgebietes, Fahrzeugen der Klasse L1e mit elektrischem Antrieb erlauben\. Auf Geh\- und Radwegen dürfen Lenker von Kraftfahrzeugen, wenn sie sich Fußgängern nähern, mit einer Geschwindigkeit von höchstens 10 km/h fahren\.
 
-\[ [🔗 Permalink](#-8a-stvo--fahrordnung-auf-radfahranlagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-8a-stvo--fahrordnung-auf-radfahranlagen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) \]
 
 ### § 8b StVO
 
@@ -512,7 +512,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Muss wegen einer Panne, in Notfällen oder bei Gefahr angehalten werden, ist das Fahrzeug, soweit möglich, in den durch Hinweiszeichen gemäß § 53 Abs\. 1 Z 1c gekennzeichneten Pannenbuchten abzustellen\.
 
-\[ [🔗 Permalink](#-8b-stvo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-8b-stvo) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) \]
 
 ### § 9 StVO — Verhalten bei Bodenmarkierungen
 
@@ -534,7 +534,7 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Im Fall des § 55 Abs\. 6 2\. Satz haben sich die Verkehrsteilnehmer ausschließlich entsprechend den vorübergehend geltenden Bodenmarkierungen zu verhalten\.
 
-\[ [🔗 Permalink](#-9-stvo--verhalten-bei-bodenmarkierungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-9-stvo--verhalten-bei-bodenmarkierungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) \]
 
 ### § 10 StVO — Ausweichen
 
@@ -542,7 +542,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Kann nicht oder nicht ausreichend ausgewichen werden, so sind die einander begegnenden Fahrzeuge anzuhalten\. In einem solchen Fall muß jenes Fahrzeug zurückgefahren werden, mit dem dies wegen seiner Art und wegen der örtlichen Verhältnisse leichter möglich ist\.
 
-\[ [🔗 Permalink](#-10-stvo--ausweichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-10-stvo--ausweichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) \]
 
 ### § 11 StVO — Änderung der Fahrtrichtung und Wechsel des Fahrstreifens
 
@@ -556,7 +556,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wenn auf Straßen mit mehr als einem Fahrstreifen für die betreffende Fahrtrichtung das durchgehende Befahren eines Fahrstreifens nicht möglich oder nicht zulässig ist oder ein Fahrstreifen endet, ist den am Weiterfahren gehinderten Fahrzeugen der Wechsel auf den zunächst gelegen verbleibenden Fahrstreifen in der Weise zu ermöglichen, dass diese Fahrzeuge jeweils im Wechsel einem auf dem durchgehenden Fahrstreifen fahrenden Fahrzeug nachfolgen können \(Reißverschlusssystem\)\. Das Reißverschlusssystem ist auch anzuwenden, wenn die beschriebenen Umstände in Bezug auf einen Radfahrstreifen oder innerhalb des Ortsgebietes auf einen parallel einmündenden Radweg, nach dessen Verlassen der Radfahrer die Fahrtrichtung beibehält, auftreten\.
 
-\[ [🔗 Permalink](#-11-stvo--änderung-der-fahrtrichtung-und-wechsel-des-fahrstreifens) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-11-stvo--änderung-der-fahrtrichtung-und-wechsel-des-fahrstreifens) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) \]
 
 ### § 12 StVO — Einordnen
 
@@ -570,7 +570,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Müssen Fahrzeuge vor Kreuzungen, Straßenengen, schienengleichen Eisenbahnübergängen und dergleichen angehalten werden, so dürfen die Lenker einspuriger, später ankommender Fahrzeuge nur dann neben oder zwischen den bereits angehaltenen Fahrzeugen vorfahren, um sich mit ihren Fahrzeugen weiter vorne aufzustellen, wenn für das Vorfahren ausreichend Platz vorhanden ist und die Lenker von Fahrzeugen, die ihre Absicht zum Einbiegen angezeigt haben, dadurch beim Einbiegen nicht behindert werden\.
 
-\[ [🔗 Permalink](#-12-stvo--einordnen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-12-stvo--einordnen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) \]
 
 ### § 13 StVO — Einbiegen, Einfahren und Ausfahren
 
@@ -584,7 +584,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Beim Einbiegen in eine Fahrbahn hat der Lenker eines Fahrzeuges, das kein Schienenfahrzeug ist, einem Fußgänger, der die Fahrbahn bereits betreten hat, das unbehinderte und ungefährdete Überqueren dieser Fahrbahn zu ermöglichen\.
 
-\[ [🔗 Permalink](#-13-stvo--einbiegen-einfahren-und-ausfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-13-stvo--einbiegen-einfahren-und-ausfahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) \]
 
 ### § 14 StVO — Umkehren und Rückwärtsfahren
 
@@ -606,7 +606,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ob und inwieweit das Umkehren im Bereich schienengleicher Eisenbahnübergänge verboten ist, ergibt sich aus den eisenbahnrechtlichen Vorschriften\.
 
-\[ [🔗 Permalink](#-14-stvo--umkehren-und-rückwärtsfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-14-stvo--umkehren-und-rückwärtsfahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) \]
 
 ### § 15 StVO — Überholen
 
@@ -626,7 +626,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der Lenker eines Fahrzeuges, das überholt wird, darf die Geschwindigkeit nicht erhöhen, sobald ihm der Überholvorgang angezeigt worden ist \(Abs\. 3\) oder er den Überholvorgang nach den Verkehrsverhältnissen sonst wahrgenommen haben mußte\. Dies gilt nicht für die Führer von Schienenfahrzeugen\.
 
-\[ [🔗 Permalink](#-15-stvo--überholen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-15-stvo--überholen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) \]
 
 ### § 16 StVO — Überholverbote
 
@@ -656,7 +656,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ob und inwieweit das Überholen im Bereich schienengleicher Eisenbahnübergänge verboten ist, richtet sich nach den eisenbahnrechtlichen Vorschriften\.
 
-\[ [🔗 Permalink](#-16-stvo--überholverbote) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-16-stvo--überholverbote) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) \]
 
 ### § 17 StVO — Vorbeifahren
 
@@ -678,7 +678,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` An Fahrzeugen, die gemäß § 18 Abs\. 3 anhalten, darf nur vorbeigefahren werden, wenn wenigstens zwei Fahrstreifen für die betreffende Fahrtrichtung vorhanden sind, auf Fahrbahnen mit Gegenverkehr die Fahrbahnmitte oder eine zur Trennung der Fahrtrichtungen angebrachte Sperrlinie nicht überfahren wird und für den weiteren Fahrstreifen nicht auch schon die Voraussetzungen des § 18 Abs\. 3 gegeben sind\.
 
-\[ [🔗 Permalink](#-17-stvo--vorbeifahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-17-stvo--vorbeifahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) \]
 
 ### § 18 StVO — Hintereinanderfahren
 
@@ -690,7 +690,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Lenker eines Fahrzeuges mit größeren Längsabmessungen \(Lastfahrzeuge, Kraftwagenzüge, Omnibusse u\. dgl\.\) hat auf Freilandstraßen nach einem solchen Fahrzeug einen Abstand von mindestens 50 m einzuhalten\.
 
-\[ [🔗 Permalink](#-18-stvo--hintereinanderfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-18-stvo--hintereinanderfahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) \]
 
 ### § 19 StVO — Vorrang
 
@@ -714,7 +714,7 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Der Lenker eines Fahrzeuges darf auf seinen Vorrang verzichten, wobei ein solcher Verzicht dem Wartepflichtigen deutlich erkennbar zu machen ist\. Das Zum\-Stillstand\-Bringen eines Fahrzeuges, ausgenommen eines Schienenfahrzeuges in Haltestellen, aus welchem Grund immer, insbesondere auch in Befolgung eines gesetzlichen Gebotes, gilt als Verzicht auf den Vorrang\. Der Wartepflichtige darf nicht annehmen, daß ein Vorrangberechtigter auf seinen Vorrang verzichten werde, und er darf insbesondere auch nicht annehmen, daß bei Vorrangverzicht eines Vorrangberechtigten ein anderer Vorrangberechtigter gleichfalls auf seinen Vorrang verzichten werde, es sei denn, dem Wartepflichtigen ist der Vorrangverzicht von Vorrangberechtigten zweifelsfrei erkennbar\.
 
-\[ [🔗 Permalink](#-19-stvo--vorrang) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-19-stvo--vorrang) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) \]
 
 ### § 20 StVO — Fahrgeschwindigkeit
 
@@ -730,7 +730,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Bestimmungen des Abs\. 1 werden durch die Regelungen nach Abs\. 2 bis 3 nicht berührt\.
 
-\[ [🔗 Permalink](#-20-stvo--fahrgeschwindigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-20-stvo--fahrgeschwindigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) \]
 
 ### § 21 StVO — Verminderung der Fahrgeschwindigkeit
 
@@ -742,7 +742,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ob und in welcher Weise die Führer von Schienenfahrzeugen die Geschwindigkeitsverminderung anzuzeigen haben, ergibt sich aus den eisenbahnrechtlichen Vorschriften\.
 
-\[ [🔗 Permalink](#-21-stvo--verminderung-der-fahrgeschwindigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-21-stvo--verminderung-der-fahrgeschwindigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) \]
 
 ### § 22 StVO — Warnzeichen
 
@@ -752,7 +752,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Lenker, der mit einem Kraftfahrzeug mit mehr als insgesamt 9 Sitzplätzen ausschließlich einen Schülertransport gemäß § 106 Abs\. 6 zweiter Satz KFG 1967 durchführt, hat dafür zu sorgen, daß an diesem Kraftfahrzeug während der Dauer der ausschließlichen Verwendung für Schülertransporte hinten eine Tafel gemäß § 17 Abs\. 2a angebracht ist\. In allen anderen Fällen ist die Tafel zu entfernen oder abzudecken\. Er hat die Alarmblinkanlage und mindestens zwei am Kraftfahrzeug angebrachte, von hinten sichtbare gelbrote Warnleuchten einzuschalten, wenn das Kraftfahrzeug stillsteht und Schüler ein\- oder aussteigen\.
 
-\[ [🔗 Permalink](#-22-stvo--warnzeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-22-stvo--warnzeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) \]
 
 ### § 23 StVO — Halten und Parken
 
@@ -772,7 +772,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Unbespannte Fuhrwerke, Anhänger ohne Zugfahrzeug sowie Transportbehälter zur Güterbeförderung \(wie Container, Lademulden u\. dgl\.\) dürfen nur während des Beladens oder Entladens auf der Fahrbahn stehengelassen werden, es sei denn, die genannten Fahrzeuge und Behälter können nach der Ladetätigkeit nicht sofort entfernt werden, das Entfernen wäre eine unbillige Wirtschaftserschwernis oder es liegen sonstige wichtige Gründe für das Stehenlassen vor\. Für das Aufstellen der genannten Fahrzeuge und Behälter gelten die Bestimmungen über das Halten und Parken sinngemäß\. Bei unbespannten Fuhrwerken ist die Deichsel abzunehmen oder gesichert in eine solche Stellung zu bringen, daß niemand gefährdet oder behindert wird\.
 
-\[ [🔗 Permalink](#-23-stvo--halten-und-parken) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-23-stvo--halten-und-parken) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) \]
 
 ### § 24 StVO — Halte- und Parkverbote
 
@@ -858,7 +858,7 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Wenn eine Beeinträchtigung der Umwelt nicht gegeben oder zu erwarten ist, kann die Behörde allgemein oder für bestimmte Gebiete Ausnahmen von dem im Abs\. 3 lit\. f angeführten Verbot bewilligen\. Eine solche Entscheidung ist durch Anschlag auf der Amtstafel der Behörde kundzumachen\.
 
-\[ [🔗 Permalink](#-24-stvo--halte--und-parkverbote) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-24-stvo--halte--und-parkverbote) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) \]
 
 ### § 25 StVO — Kurzparkzonen
 
@@ -874,7 +874,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Behörde hat unter Bedachtnahme auf den Zweck einer nach § 43 Abs\. 2a verordneten Regelung durch Verordnung das zur Kontrolle notwendige Hilfsmittel zu bestimmen\.
 
-\[ [🔗 Permalink](#-25-stvo--kurzparkzonen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-25-stvo--kurzparkzonen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) \]
 
 ## III. ABSCHNITT
 
@@ -900,7 +900,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Alle Straßenbenützer haben einem herannahenden Einsatzfahrzeug Platz zu machen\. Kein Lenker eines anderen Fahrzeuges darf unmittelbar hinter einem Einsatzfahrzeug nachfahren oder, außer um ihm Platz zu machen, vor ihm in eine Kreuzung einfahren\.
 
-\[ [🔗 Permalink](#-26-stvo--einsatzfahrzeuge) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-26-stvo--einsatzfahrzeuge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) \]
 
 ### § 26a StVO — Fahrzeuge im öffentlichen Dienst
 
@@ -928,7 +928,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; sind bei der Zustellung und Abholung von Postsendungen, bei der Instandhaltung von Telekommunikations\- oder Fernmeldeeinrichtungen, bei der Zustellung und Abholung von Bargeld oder Edelmetallen sowie bei Einsätzen der Funküberwachung an Halte\- und Parkverbote nicht gebunden, sofern dies der Betriebseinsatz erfordert und der übrige Verkehr dadurch nicht wesentlich beeinträchtigt wird\.
 
-\[ [🔗 Permalink](#-26a-stvo--fahrzeuge-im-öffentlichen-dienst) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-26a-stvo--fahrzeuge-im-öffentlichen-dienst) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) \]
 
 ### § 27 StVO — Fahrzeuge des Straßendienstes, der Müllabfuhr und der Kanalwartung
 
@@ -942,7 +942,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Soweit dies zur Erreichung des Zwecks der jeweiligen Arbeitsfahrt notwendig ist, sind auch die Lenker von Fahrzeugen der Kanalwartung und \-revision bei Arbeitsfahrten an die Bestimmungen über das Verhalten bei Bodenmarkierungen und über das Einordnen sowie an Zufahrtsbeschränkungen, an Halte\- und Parkverbote und an die Verbote bezüglich des Zufahrens zum linken Fahrbahnrand nicht gebunden\. Sie dürfen dabei auch durch Nebenfahrbahnen durchfahren und das Fahrzeug erforderlichenfalls abweichend von den Bestimmungen des § 23 Abs\. 2 aufstellen\. Abs\. 4 ist anzuwenden\.
 
-\[ [🔗 Permalink](#-27-stvo--fahrzeuge-des-straßendienstes-der-müllabfuhr-und-der-kanalwartung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-27-stvo--fahrzeuge-des-straßendienstes-der-müllabfuhr-und-der-kanalwartung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) \]
 
 ### § 28 StVO — Schienenfahrzeuge
 
@@ -950,7 +950,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Sofern sich aus den Bestimmungen des § 19 Abs\. 2 bis 6 über den Vorrang nichts anderes ergibt, haben beim Herannahen eines Schienenfahrzeuges andere Straßenbenützer die Gleise jedenfalls so rasch wie möglich zu verlassen, um dem Schienenfahrzeug Platz zu machen; beim Halten auf Gleisen müssen die Lenker während der Betriebszeiten der Schienenfahrzeuge im Fahrzeug verbleiben, um dieser Verpflichtung nachkommen zu können\. Unmittelbar vor und unmittelbar nach dem Vorüberfahren eines Schienenfahrzeuges dürfen die Gleise nicht überquert werden\. Bodenmarkierungen für das Einordnen der Fahrzeuge vor Kreuzungen sind ungeachtet der Bestimmungen dieses Absatzes zu beachten\. Bodenschwellen oder ähnliche bauliche Einrichtungen, die entlang von Gleisen angebracht sind, dürfen nicht überfahren werden\.
 
-\[ [🔗 Permalink](#-28-stvo--schienenfahrzeuge) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-28-stvo--schienenfahrzeuge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) \]
 
 ### § 29 StVO — Geschlossene Züge von Straßenbenützern
 
@@ -976,7 +976,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Bestimmungen des Abs\. 3 gelten sinngemäß für Kolonnen der Feuerwehren auf einer Einsatzübungs\- oder Einsatzfahrt; in diesem Falle werden die nach Abs\. 3 den Soldaten zustehenden Rechte von besonders geschulten und ausgerüsteten Feuerwehrmännern ausgeübt\.
 
-\[ [🔗 Permalink](#-29-stvo--geschlossene-züge-von-straßenbenützern) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-29-stvo--geschlossene-züge-von-straßenbenützern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) \]
 
 ### § 29a StVO — Kinder
 
@@ -988,7 +988,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Schülerlotsen sind mit einem geeigneten Signalstab sowie mit einer gut wahrnehmbaren Schutzausrüstung auszustatten, die sie während der Aufsichtstätigkeit zu tragen haben\. Der Bundesminister für Inneres hat durch Verordnung die Ausführung, Beschaffenheit, Farbe und sonstige zur Wahrnehmbarkeit erforderlichen Eigenschaften des Signalstabes und der Schutzausrüstung sowie den Inhalt und die Form des Ausweises zu bestimmen\.
 
-\[ [🔗 Permalink](#-29a-stvo--kinder) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-29a-stvo--kinder) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) \]
 
 ### § 29b StVO — Menschen mit Behinderungen
 
@@ -1022,7 +1022,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Ausweise, die vor dem 1\. Jänner 2001 ausgestellt worden sind und der Verordnung des Bundesministers für Verkehr vom 16\. November 1976, BGBl\. Nr\. 655/1976, zuletzt geändert durch BGBl\. Nr\. 80/1990, entsprechen, verlieren ihre Gültigkeit mit 31\. Dezember 2015\. Ausweise, die nach dem 1\. Jänner 2001 ausgestellt worden sind und der Verordnung des Bundesministers für Verkehr, Innovation und Technologie über den Ausweis für dauernd stark gehbehinderte Personen \(Gehbehindertenausweisverordnung\), BGBl\. II Nr\. 252/2000, entsprechen, bleiben weiterhin gültig\.
 
-\[ [🔗 Permalink](#-29b-stvo--menschen-mit-behinderungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-29b-stvo--menschen-mit-behinderungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) \]
 
 ### § 30 StVO — Wirtschaftsfuhren
 
@@ -1038,7 +1038,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Im Betriebe eines land\- und forstwirtschaftlichen Unternehmens gelten für die Beförderung eigener Erzeugnisse mit eigenen Fahrzeugen bis zur nächsten Eisenbahn\- oder Schiffsstation oder bis zur nächsten Sammelstelle land\- und forstwirtschaftlicher Erzeugnisse die Bestimmungen der Abs\. 2 bis 5 sinngemäß, doch hat die Behörde eine solche Beförderung zu verbieten oder im erforderlichen Ausmaße einzuschränken, wenn es aus Gründen der Verkehrssicherheit geboten ist\.
 
-\[ [🔗 Permalink](#-30-stvo--wirtschaftsfuhren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-30-stvo--wirtschaftsfuhren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) \]
 
 ## IV. ABSCHNITT.
 
@@ -1054,7 +1054,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Behörde ist berechtigt, unbefugt an den in Abs\. 1 bezeichneten Einrichtungen angebrachte Beschriftungen, bildliche Darstellungen, Anschläge, geschäftliche Anpreisungen oder dgl\. auf Kosten des für die Anbringung Verantwortlichen ohne weiteres Verfahren entfernen zu lassen\.
 
-\[ [🔗 Permalink](#-31-stvo--einrichtungen-zur-regelung-und-sicherung-des-verkehrs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-31-stvo--einrichtungen-zur-regelung-und-sicherung-des-verkehrs) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) \]
 
 ### § 32 StVO — Anbringungspflicht und Kosten
 
@@ -1074,7 +1074,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Die Bestimmungen der Abs\. 1 bis 6 gelten nicht für das Zeichen „Andreaskreuz“ \(§ 50 Z 6d\); hiefür sind die eisenbahnrechtlichen Vorschriften maßgebend\.
 
-\[ [🔗 Permalink](#-32-stvo--anbringungspflicht-und-kosten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-32-stvo--anbringungspflicht-und-kosten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) \]
 
 ### § 33 StVO — Einrichtungen auf benachbarten Grundstücken zur Regelung und Sicherung des Verkehrs
 
@@ -1082,7 +1082,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Eigentümer der Liegenschaft ist, wenn durch die Anbringung der Einrichtungen die bestimmungsgemäße Verwendung der Liegenschaft erheblich beeinträchtigt wird, von demjenigen, der die Kosten der Anbringung zu tragen hat, zu entschädigen\. Werden Ersatzansprüche innerhalb von sechs Monaten, gerechnet vom Zeitpunkt, in dem der Eigentümer der Liegenschaft von der Anbringung Kenntnis erlangt hat, nicht anerkannt, so hat auf seinen Antrag das Gericht im Verfahren außer Streitsachen zu entscheiden\.
 
-\[ [🔗 Permalink](#-33-stvo--einrichtungen-auf-benachbarten-grundstücken-zur-regelung-und-sicherung-des-verkehrs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-33-stvo--einrichtungen-auf-benachbarten-grundstücken-zur-regelung-und-sicherung-des-verkehrs) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) \]
 
 ### § 34 StVO — Ausstattung der Einrichtungen zur Regelung und Sicherung des Verkehrs
 
@@ -1096,7 +1096,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Zum Zwecke der Erprobung im Rahmen der Durchführung wissenschaftlicher Untersuchungen kann der Bundesminister für Verkehr, Innovation und Technologie durch Verordnung für eine bestimmte Zeit eine von den Bestimmungen dieses Gesetzes abweichende Ausführung von Einrichtungen zur Regelung und Sicherung des Verkehrs festlegen, wenn dagegen aus Gründen der Verkehrssicherheit keine Bedenken bestehen und eine solche Untersuchung im überwiegenden Interesse des Straßenverkehrs gelegen ist; der Zeitraum der Erprobung darf fünf Jahre ab dem In\-Kraft\-Treten der Verordnung nicht überschreiten\.
 
-\[ [🔗 Permalink](#-34-stvo--ausstattung-der-einrichtungen-zur-regelung-und-sicherung-des-verkehrs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-34-stvo--ausstattung-der-einrichtungen-zur-regelung-und-sicherung-des-verkehrs) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) \]
 
 ### § 35 StVO — Vermeidung von Verkehrsbeeinträchtigungen
 
@@ -1110,7 +1110,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Behörde hat auf Antrag dessen, der einen im Abs\. 1 bezeichneten Gegenstand anzubringen beabsichtigt, durch Bescheid festzustellen, ob durch die Verwirklichung des Vorhabens eine Beeinträchtigung der Sicherheit des Straßenverkehrs im Sinne des Abs\. 2 zu erwarten ist\.
 
-\[ [🔗 Permalink](#-35-stvo--vermeidung-von-verkehrsbeeinträchtigungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-35-stvo--vermeidung-von-verkehrsbeeinträchtigungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) \]
 
 ## B. Armzeichen und Lichtzeichen.
 
@@ -1124,7 +1124,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wenn der Verkehr durch Armzeichen oder Lichtzeichen geregelt wird, so gehen diese sowohl den Straßenverkehrszeichen als auch den Bodenmarkierungen vor\.
 
-\[ [🔗 Permalink](#-36-stvo--zeichengebung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-36-stvo--zeichengebung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) \]
 
 ### § 37 StVO — Bedeutung der Armzeichen
 
@@ -1142,7 +1142,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Bewegt ein Verkehrsposten einen Arm auf und ab, so bedeutet dies, daß die Fahrgeschwindigkeit zu verringern ist\.
 
-\[ [🔗 Permalink](#-37-stvo--bedeutung-der-armzeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-37-stvo--bedeutung-der-armzeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) \]
 
 ### § 38 StVO — Bedeutung der Lichtzeichen
 
@@ -1190,7 +1190,7 @@ Der Nationalrat hat beschlossen:
 
 > `(10)` Für die Fahrstreifensignalisierung sind Lichtzeichen mit roten gekreuzten Schrägbalken, grün nach unten zeigendem Pfeil und gelb blinkendem halb links oder halb rechts nach unten zeigendem Pfeil auf nicht leuchtendem Hintergrund zu verwenden\. Solche Zeichen sind für jeden Fahrstreifen oberhalb des Fahrstreifens anzubringen\. Bei Lichtzeichen dieser Art bedeuten rote gekreuzte Schrägbalken, daß der betreffende Fahrstreifen gesperrt ist, der grün nach unten zeigende Pfeil, daß der Verkehr auf dem betreffenden Fahrstreifen gestattet ist und der gelb blinkende halb links oder halb rechts nach unten zeigende Pfeil, daß Fahrzeuglenker den betreffenden Fahrstreifen ehestmöglich in der angezeigten Richtung verlassen müssen\.
 
-\[ [🔗 Permalink](#-38-stvo--bedeutung-der-lichtzeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-38-stvo--bedeutung-der-lichtzeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) \]
 
 ### § 39 StVO — Anordnung der Lichtzeichen
 
@@ -1198,7 +1198,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Anlagen zur Abgabe von Lichtzeichen sind deutlich erkennbar anzubringen\. Sind mehrere Fahrstreifen vorhanden, so ist sowohl eine getrennte als auch eine unterschiedliche Regelung für einzelne Fahrstreifen oder Fahrtrichtungen zulässig \(Spurensignalisation\)\. Der Abstand zwischen dem unteren Rand des Gehäuses einer Lichtsignalanlage und der Fahrbahn darf bei Anordnung am Fahrbahnrand nicht weniger als 2 m und nicht mehr als 3,50 m, bei Anordnung oberhalb der Fahrbahn nicht weniger als 4,50 m und nur in Ausnahmefällen mehr als 5,50 m betragen\. Die Anbringung zusätzlicher Signale an anderen Stellen ist zulässig\.
 
-\[ [🔗 Permalink](#-39-stvo--anordnung-der-lichtzeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-39-stvo--anordnung-der-lichtzeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) \]
 
 ### § 40 StVO — Signalscheiben
 
@@ -1206,7 +1206,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wenn bei Arbeiten auf der Straße nur ein Fahrstreifen befahrbar ist, hat die Behörde unter Bedachtnahme auf die Verkehrssicherheit zu bestimmen, ob und inwieweit der Verkehr durch die in Abs\. 1 bezeichneten Hilfsmittel besonders zu regeln ist\. Sofern aus Gründen der Verkehrssicherheit keine erheblichen Bedenken entgegenstehen, kann die Behörde mit einer solchen Regelung des Verkehrs ein mit der Durchführung der Straßenbauarbeiten betrautes Unternehmen beauftragen\.
 
-\[ [🔗 Permalink](#-40-stvo--signalscheiben) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-40-stvo--signalscheiben) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) \]
 
 ### § 41 StVO — Hilfszeichen
 
@@ -1220,7 +1220,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Straßenbenützer, denen Hilfszeichen gegeben werden, haben sie nur zu befolgen, wenn dies ohne Gefährdung von Personen und ohne Beschädigung von Sachen möglich ist\.
 
-\[ [🔗 Permalink](#-41-stvo--hilfszeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-41-stvo--hilfszeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) \]
 
 ## C. Allgemeine Regelung und Sicherung des Verkehrs.
 
@@ -1259,7 +1259,7 @@ Der Nationalrat hat beschlossen:
 > `(10)` Rechtsvorschriften, mit denen weitergehende Fahrverbote oder Geschwindigkeitsbeschränkungen angeordnet werden, bleiben unberührt\.
 > *\(Anm\.: Abs\. 11 und 12 mit Ablauf des 31\.12\.2021 außer Kraft getreten\)*
 
-\[ [🔗 Permalink](#-42-stvo--fahrverbot-für-lastkraftfahrzeuge) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-42-stvo--fahrverbot-für-lastkraftfahrzeuge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) \]
 
 ### § 43 StVO — Verkehrsverbote, Verkehrserleichterungen und Hinweise
 
@@ -1321,7 +1321,7 @@ Der Nationalrat hat beschlossen:
 
 > `(11)` Wenn Bedenken aus Gründen der Sicherheit des Straßenverkehrs nicht entgegenstehen, hat die Behörde von einem von ihr erlassenen Halteverbot \(Abs\. 1\) das rasche Auf\- oder Abladen geringer Warenmengen im Zustell\- oder Abholdienst gewerblicher Betriebe sowie das rasche Einsteigen oder das rasche Aussteigen auf Antrag der gesetzlichen Interessenvertretung der in Betracht kommenden Gewerbebetriebe allgemein auszunehmen\.
 
-\[ [🔗 Permalink](#-43-stvo--verkehrsverbote-verkehrserleichterungen-und-hinweise) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-43-stvo--verkehrsverbote-verkehrserleichterungen-und-hinweise) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) \]
 
 ### § 44 StVO — Kundmachung der Verordnungen
 
@@ -1341,7 +1341,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Verordnungen, die vom Bundesminister für Verkehr, Innovation und Technologie, von einer Landesregierung oder von einer Bezirksverwaltungsbehörde erlassen werden, sind, sofern sie nicht anders rechtzeitig und wirksam kundgemacht werden können, durch Verlautbarungen in der Presse oder im Rundfunk oder im Fernsehen kundzumachen\.
 
-\[ [🔗 Permalink](#-44-stvo--kundmachung-der-verordnungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-44-stvo--kundmachung-der-verordnungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) \]
 
 ### § 44a StVO — Vorbereitende Verkehrsmaßnahmen
 
@@ -1359,7 +1359,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Verordnungen nach Abs\. 1 treten mit der Anbringung oder Sichtbarmachung der ihnen entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen in Kraft\. Die Behörde hat die Person, Dienststelle oder Unternehmung zu bestimmen, welche die Straßenverkehrszeichen oder Bodenmarkierungen anzubringen oder sichtbar zu machen hat\. Die Aufstellung oder Sichtbarmachung der Straßenverkehrszeichen oder die Anbringung der Bodenmarkierungen ist der Behörde unverzüglich zur Kenntnis zu bringen; diese hat den Zeitpunkt der erfolgten Anbringung oder Sichtbarmachung in einem Aktenvermerk \(§ 16 AVG\) festzuhalten\.
 
-\[ [🔗 Permalink](#-44a-stvo--vorbereitende-verkehrsmaßnahmen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-44a-stvo--vorbereitende-verkehrsmaßnahmen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) \]
 
 ### § 44b StVO — Unaufschiebbare Verkehrsbeschränkungen
 
@@ -1381,7 +1381,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Im Fall von Arbeiten gemäß § 90 Abs\. 2, die voraussichtlich nicht länger als 24 Stunden dauern werden, dürfen die Organe des Straßenerhalters eine besondere Verkehrsregelung durch Anweisungen an die Straßenbenützer oder durch Anbringung von Verkehrsampeln oder Signalscheiben veranlassen oder eine der in § 43 Abs\. 1 lit\. b bezeichneten Maßnahmen durch Anbringung der entsprechenden Straßenverkehrszeichen oder Bodenmarkierungen mit der Wirkung treffen, als ob die Veranlassung oder Maßnahme von der Behörde getroffen worden wäre; darüber hinaus ist der Arbeitsbereich entsprechend dem Stand der Technik abzusichern\. Die Abs\. 2, 3a und 4 gelten mit der Maßgabe, dass die Veranlassungen oder Maßnahmen jedenfalls nach 24 Stunden aufzuheben sind; sofern die Arbeiten zu diesem Zeitpunkt noch nicht abgeschlossen sind, hat der Straßenerhalter unverzüglich die Behörde zu verständigen und ihr alle Umstände, die für die Erlassung einer Verordnung nach § 43 maßgebend sein können, bekanntzugeben\.
 
-\[ [🔗 Permalink](#-44b-stvo--unaufschiebbare-verkehrsbeschränkungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-44b-stvo--unaufschiebbare-verkehrsbeschränkungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) \]
 
 ### § 44c StVO — Verkehrsbeeinflussung
 
@@ -1397,7 +1397,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Verordnungen gemäß Abs\. 1 sind mittels eines Verkehrsbeeinflussungssystems \(§ 44 Abs\. 1a\) kundzumachen\. Der örtliche und zeitliche Umfang der von der Behörde verordneten Verkehrsmaßnahmen wird dabei durch die Anzeige der betreffenden Straßenverkehrszeichen mit der Wirkung bestimmt, als ob der örtliche und zeitliche Umfang von der Behörde bestimmt worden wäre\.
 
-\[ [🔗 Permalink](#-44c-stvo--verkehrsbeeinflussung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-44c-stvo--verkehrsbeeinflussung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) \]
 
 ### § 44d StVO — Pannenstreifenfreigabe
 
@@ -1413,7 +1413,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Straßenerhalter hat sicherzustellen, dass der Zeitpunkt und die Dauer der Anzeige selbsttätig durch das System aufgezeichnet werden; diese Aufzeichnungen sind entweder in elektronisch lesbarer Form zu speichern oder in Form von Ausdrucken aufzubewahren\. Parteien im Sinne des § 8 AVG ist auf Verlangen ein Ausdruck der Aufzeichnungen oder eine Kopie des Ausdruckes auszufolgen
 
-\[ [🔗 Permalink](#-44d-stvo--pannenstreifenfreigabe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-44d-stvo--pannenstreifenfreigabe) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) \]
 
 ### § 45 StVO — Ausnahmen in Einzelfällen
 
@@ -1443,7 +1443,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Behördliche Erledigungen gemäß den vorstehenden Absätzen können im Wege der automationsunterstützten Datenverarbeitung ohne Unterschrift hergestellt und ausgefertigt werden\.
 
-\[ [🔗 Permalink](#-45-stvo--ausnahmen-in-einzelfällen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-45-stvo--ausnahmen-in-einzelfällen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) \]
 
 ### § 46 StVO — Autobahnen
 
@@ -1477,13 +1477,13 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Stockt der Verkehr auf einer Richtungsfahrbahn in einem Abschnitt mit mindestens zwei Fahrstreifen, so müssen Fahrzeuge für die Durchfahrt von Einsatzfahrzeugen in der Mitte zwischen den Fahrstreifen, in Abschnitten mit mehr als zwei Fahrstreifen zwischen dem äußerst linken und dem daneben liegenden Fahrstreifen, eine freie Gasse bilden \(Rettungsgasse\); diese Gasse darf, außer von Einsatzfahrzeugen, nur von Fahrzeugen des Straßendienstes, Fahrzeugen des Pannendienstes und Leichenwägen benützt werden\.
 
-\[ [🔗 Permalink](#-46-stvo--autobahnen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-46-stvo--autobahnen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) \]
 
 ### § 47 StVO — Autostraßen
 
 > Autostraßen sind Vorrangstraßen; für sie gelten die im § 46 Abs\. 1, 3, 4 und 6 enthaltenen Bestimmungen über den Verkehr auf Autobahnen sinngemäß\.
 
-\[ [🔗 Permalink](#-47-stvo--autostraßen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-47-stvo--autostraßen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) \]
 
 ## D. Straßenverkehrszeichen.
 
@@ -1511,7 +1511,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Wenn es die Verkehrssicherheit erfordert, insbesondere bei unübersichtlichem Straßenverlauf, sind in angemessener Entfernung vor einem nach den Bestimmungen der §§ 49, 50, 52 oder 53 angebrachten Straßenverkehrszeichen ein oder mehrere gleiche Zeichen \- ausgenommen beim Zeichen „Halt“ \- anzubringen, unter denen auf einer Zusatztafel nach § 54 Abs\. 5 lit\. a die Entfernung bis zu der Straßenstelle anzugeben ist, auf die sich das Straßenverkehrszeichen bezieht\. Dies gilt insbesondere für die Gefahrenzeichen „Fußgängerübergang“ und „Voranzeiger für Verkehrsampel“, für die Vorschriftszeichen „Vorrang geben“ und „Wartepflicht bei Gegenverkehr“ sowie für das Hinweiszeichen „Krankenhaus“\. Wird das Vorschriftszeichen „Halt“ vorangekündigt, so ist hiefür das Vorschriftszeichen „Vorrang geben“ mit einer Zusatztafel nach § 54 Abs\. 5 lit\. c zu verwenden\.
 
-\[ [🔗 Permalink](#-48-stvo--anbringung-der-straßenverkehrszeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-48-stvo--anbringung-der-straßenverkehrszeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) \]
 
 ### § 49 StVO — Allgemeines über Gefahrenzeichen
 
@@ -1523,7 +1523,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wenn sich Gefahrenstellen über einen längeren Straßenabschnitt erstrecken \(wie etwa Gefälle, Schleudergefahr, Steinschlag, Wildwechsel u\. a\.\) und dies nicht erkennbar ist oder nicht vermutet werden kann, so ist auf einer Zusatztafel nach § 54 Abs\. 5 lit\. b die Länge der Gefahrenstelle anzugeben\. Innerhalb einer längeren Gefahrenstelle ist das betreffende Gefahrenzeichen zu wiederholen, wenn dies die Verkehrssicherheit erfordert\.
 
-\[ [🔗 Permalink](#-49-stvo--allgemeines-über-gefahrenzeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-49-stvo--allgemeines-über-gefahrenzeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) \]
 
 ### § 50 StVO — Die Gefahrenzeichen
 
@@ -1718,7 +1718,7 @@ Der Nationalrat hat beschlossen:
 >
 > Dieses Zeichen kündigt andere als in Z 1 bis 15 angeführte Gefahrenstellen an\. Auf einer Zusatztafel unter dem Zeichen kann die Gefahr näher bezeichnet werden, wie etwa Bankett nicht befahrbar, Holzbringung, Lawinengefahr, Wasserschutzgebiet u\. dgl\.
 
-\[ [🔗 Permalink](#-50-stvo--die-gefahrenzeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-50-stvo--die-gefahrenzeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) \]
 
 ### § 51 StVO — Allgemeines über Vorschriftszeichen
 
@@ -1732,7 +1732,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Mündet in einen Straßenabschnitt, für den durch Vorschriftszeichen Verkehrsbeschränkungen kundgemacht sind, eine andere Straße ein, so können diese Beschränkungen auch schon auf der einmündenden Straße durch die betreffenden Vorschriftszeichen mit einer Zusatztafel mit Pfeilen angezeigt werden\. Solche Zeichen sind im Ortsgebiet höchstens 20 m und auf Freilandstraßen höchstens 50 m vor der Einmündung anzubringen\.
 
-\[ [🔗 Permalink](#-51-stvo--allgemeines-über-vorschriftszeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-51-stvo--allgemeines-über-vorschriftszeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) \]
 
 ### § 52 StVO — Die Vorschriftszeichen
 
@@ -2104,7 +2104,7 @@ Der Nationalrat hat beschlossen:
 > ![BG.StVO.obj.BN.NOR40261453.H.img59is.png](BG.StVO.obj.BN.NOR40261453.H.img59is.png "~/Dokumente/Bundesnormen/NOR40261453/hauptdokument.img59is.png")  
 > &nbsp; Dieses Zeichen zeigt das Ende einer Vorrangstraße an\.
 
-\[ [🔗 Permalink](#-52-stvo--die-vorschriftszeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-52-stvo--die-vorschriftszeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) \]
 
 ### § 53 StVO — Die Hinweiszeichen
 
@@ -2473,7 +2473,7 @@ Der Nationalrat hat beschlossen:
 >> `undefined` „Ende einer Fahrradstraße, einer Schulstraße, eines Radweges oder eines Geh\- und Radweges ohne Benützungspflicht“  
 >> &nbsp; Ein roter Querbalken von links unten nach rechts oben in den Zeichen nach Z 26, 26a, 27, 28 und 29 zeigt das Ende der jeweiligen Fahrradstraße, Schulstraße oder Radfahranlage an\.
 
-\[ [🔗 Permalink](#-53-stvo--die-hinweiszeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-53-stvo--die-hinweiszeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) \]
 
 ### § 54 StVO — Zusatztafeln
 
@@ -2542,7 +2542,7 @@ Der Nationalrat hat beschlossen:
 > ![BG.StVO.obj.BN.NOR40245684.image014.png](BG.StVO.obj.BN.NOR40245684.image014.png "~/Dokumente/Bundesnormen/NOR40245684/image014.png") ![BG.StVO.obj.BN.NOR40245684.image015.jpg](BG.StVO.obj.BN.NOR40245684.image015.jpg "~/Dokumente/Bundesnormen/NOR40245684/image015.jpg")  
 > &nbsp; Eine solche Zusatztafel neben einem roten Lichtzeichen zeigt an, dass i\. S\. von § 38 Abs\. 5a die Lenker von Fahrrädern trotz rotem Licht rechts abbiegen bzw\. bei T\-Kreuzungen geradeaus fahren dürfen\.
 
-\[ [🔗 Permalink](#-54-stvo--zusatztafeln) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-54-stvo--zusatztafeln) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) \]
 
 ## E. Verkehrsleiteinrichtungen.
 
@@ -2565,7 +2565,7 @@ Der Nationalrat hat beschlossen:
 > `(8)` Abweichend von Abs\. 6 sind die in § 24 Abs\. 1 lit\. p und 3 lit\. a genannten Linien in gelber Farbe auszuführen; die in § 24 Abs\. 3 lit\. a angeführten Linien sind überdies abweichend von Abs\. 2 als unterbrochene Linien auszuführen\. Die genannten Linien sind außerhalb einer allenfalls vorhandenen Randlinie anzubringen und können bei Vorhandensein eines Gehsteigs auch auf diesem in einer Entfernung von nicht mehr als 0,30 m zum Fahrbahnrand angebracht werden\.
 > *\(Anm\.: Abs\. 9 aufgehoben durch BGBl\. Nr\. 518/1994\)*
 
-\[ [🔗 Permalink](#-55-stvo--bodenmarkierungen-auf-der-straße) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-55-stvo--bodenmarkierungen-auf-der-straße) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) \]
 
 ### § 56 StVO — Schutzwegmarkierungen
 
@@ -2575,7 +2575,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Solange es die Verkehrsverhältnisse nicht erfordern, kann von einer Regelung des Verkehrs durch Lichtzeichen bei den in Abs\. 2 genannten Schutzwegen Abstand genommen werden\. In diesem Falle ist der Schutzweg mit blinkendem gelbem Licht \(§ 38 Abs\. 3\) oder mit dem Hinweiszeichen nach § 53 Z 2a \(„Kennzeichnung eines Schutzweges“\) zu kennzeichnen\.
 
-\[ [🔗 Permalink](#-56-stvo--schutzwegmarkierungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-56-stvo--schutzwegmarkierungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) \]
 
 ### § 56a StVO — Radfahrerüberfahrtmarkierungen
 
@@ -2585,7 +2585,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Solange es die Verkehrsverhältnisse nicht erfordern, kann von einer Regelung des Verkehrs durch Lichtzeichen bei den in Abs\. 2 genannten Radfahrerüberfahrten Abstand genommen werden\. In diesem Falle ist die Radfahrerüberfahrt mit blinkendem gelben Licht oder mit dem Hinweiszeichen nach § 53 Abs\. 1 Z 2b \(„Kennzeichnung einer Radfahrerüberfahrt“\) zu kennzeichnen\.
 
-\[ [🔗 Permalink](#-56a-stvo--radfahrerüberfahrtmarkierungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-56a-stvo--radfahrerüberfahrtmarkierungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) \]
 
 ### § 57 StVO — Einrichtungen neben und auf der Fahrbahn
 
@@ -2593,7 +2593,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Leitplanken, Leitbaken und Leitmale sind zur besseren Erkennbarkeit mit rückstrahlendem Material in roter und weißer Farbe auszustatten\. Lauflichtanlagen und andere Anlagen zur Abgabe von blinkendem Licht haben weißgelbes oder gelbes Licht auszustrahlen\. Werden die übrigen Einrichtungen gemäß Abs\. 1 zur besseren Erkennbarkeit mit rückstrahlendem Material ausgestattet, so ist an der rechten Straßenseite im Sinne der Fahrtrichtung die Farbe Rot, an der linken die Farbe Weiß zu verwenden\. Kann an solchen Einrichtungen an beiden Seiten vorbeigefahren werden, so ist die Farbe Gelb zu verwenden\. Anstelle des rückstrahlenden Materials kann auch eine Lichtquelle in der entsprechenden Farbe verwendet werden\.
 
-\[ [🔗 Permalink](#-57-stvo--einrichtungen-neben-und-auf-der-fahrbahn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-57-stvo--einrichtungen-neben-und-auf-der-fahrbahn) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) \]
 
 ## V. ABSCHNITT.
 
@@ -2609,7 +2609,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist der Lenker eines Fahrzeuges nicht auch dessen Besitzer, bei Kraftfahrzeugen dessen Zulassungsbesitzer, so hat er, wenn sich das Fahrzeug oder die Ladung nicht in einem den rechtlichen Vorschriften entsprechenden Zustand befindet, dies dem Besitzer des Fahrzeuges oder dem Verfügungsberechtigten, bei Kraftfahrzeugen dem Zulassungsbesitzer, zu melden\.
 
-\[ [🔗 Permalink](#-58-stvo--lenker-von-fahrzeugen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-58-stvo--lenker-von-fahrzeugen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) \]
 
 ### § 59 StVO — Verbot des Lenkens von Fahrzeugen
 
@@ -2623,7 +2623,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soll eine Verfügung nach Abs\. 1 oder 2 für zwei oder mehrere Bundesländer wirksam werden, so ist hiefür die Landesregierung, in deren örtlichem Wirkungsbereich die Partei ihren Wohnsitz hat, zuständig\. Diese Behörde hat das Einvernehmen mit den anderen in Betracht kommenden Landesregierungen herzustellen\.
 
-\[ [🔗 Permalink](#-59-stvo--verbot-des-lenkens-von-fahrzeugen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-59-stvo--verbot-des-lenkens-von-fahrzeugen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) \]
 
 ### § 60 StVO — Zustand und Beleuchtung der Fahrzeuge
 
@@ -2635,7 +2635,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wenn es die Verkehrssicherheit erfordert, hat der Bundesminister für Verkehr, Innovation und Technologie unter Bedachtnahme auf den jeweiligen Stand der Technik nähere Vorschriften über die Ausführung und Beschaffenheit der an Fahrzeugen anzubringenden Rückstrahleinrichtungen einschließlich der gelben Rückstrahler an den Pedalen von Fahrrädern und über ihre Lichtwirkungen durch Verordnung zu erlassen\.
 
-\[ [🔗 Permalink](#-60-stvo--zustand-und-beleuchtung-der-fahrzeuge) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-60-stvo--zustand-und-beleuchtung-der-fahrzeuge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) \]
 
 ### § 61 StVO — Verwahrung der Ladung
 
@@ -2651,7 +2651,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Ist die Ladung ganz oder teilweise auf die Straße gefallen, so hat der Lenker zunächst allenfalls erforderliche Maßnahmen zur Verhinderung von Verkehrsstörungen zu treffen, das Beförderungsgut von der Straße zu entfernen und die Straße zu reinigen\.
 
-\[ [🔗 Permalink](#-61-stvo--verwahrung-der-ladung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-61-stvo--verwahrung-der-ladung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) \]
 
 ### § 62 StVO — Ladetätigkeit
 
@@ -2665,7 +2665,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Eine Bewilligung nach Abs\. 4 ist von der Behörde zu erteilen, wenn die Ladetätigkeit an einer anderen Stelle besonders umständlich wäre und weder eine Beschädigung des Gehsteiges oder seiner Einbauten noch eine Beeinträchtigung der Sicherheit oder eine wesentliche Behinderung des Verkehrs zu befürchten ist\. Auf Grund der Bewilligung dürfen nicht nur die Ladetätigkeiten des Antragstellers, sondern auch alle anderen im wesentlichen gleichartigen Ladetätigkeiten ausgeübt werden\. Auch ein Organ der Straßenaufsicht darf eine solche Bewilligung erteilen, jedoch nur dann, wenn es sich um einen dringenden Einzelfall handelt und die sonstigen Voraussetzungen zur Erteilung vorliegen; das Aufstellen von Fahrzeugen auf Gehsteigen darf ein Organ der Straßenaufsicht jedoch nicht bewilligen\.
 
-\[ [🔗 Permalink](#-62-stvo--ladetätigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-62-stvo--ladetätigkeit) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) \]
 
 ### § 64 StVO — Sportliche Veranstaltungen auf Straßen
 
@@ -2679,7 +2679,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Erstreckt sich eine sportliche Veranstaltung auf zwei oder mehrere Bundesländer, so ist zur Erteilung der Bewilligung nach Abs\. 1 die Landesregierung zuständig, in deren örtlichem Wirkungsbereich die Veranstaltung beginnt; das Einvernehmen mit den übrigen in Betracht kommenden Landesregierungen ist herzustellen\.
 
-\[ [🔗 Permalink](#-64-stvo--sportliche-veranstaltungen-auf-straßen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-64-stvo--sportliche-veranstaltungen-auf-straßen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) \]
 
 ## VI. ABSCHNITT.
 
@@ -2699,7 +2699,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Radfahrer, die auf dem Fahrrad Personen mitführen, müssen das 16\. Lebensjahr vollendet haben\. Ist die mitgeführte Person noch nicht acht Jahre alt, so muß für sie ein eigener, der Größe des Kindes entsprechender Sitz vorhanden sein\. Ist die mitgeführte Person mehr als acht Jahre alt, so darf nur ein Fahrrad verwendet werden, das hinsichtlich seiner Bauart den Anforderungen der Produktsicherheitsbestimmungen für Fahrräder zum Transport mehrerer Personen \(§ 104 Abs\. 8\) entspricht\.
 
-\[ [🔗 Permalink](#-65-stvo--benützung-von-fahrrädern) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-65-stvo--benützung-von-fahrrädern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) \]
 
 ### § 66 StVO — Beschaffenheit von Fahrrädern, Fahrradanhängern und Kindersitzen
 
@@ -2713,7 +2713,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` das Ladegewicht, das bei der Beförderung von Lasten oder Personen mit Fahrrädern oder mit Fahrradanhängern nicht überschritten werden darf\.
 
-\[ [🔗 Permalink](#-66-stvo--beschaffenheit-von-fahrrädern-fahrradanhängern-und-kindersitzen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-66-stvo--beschaffenheit-von-fahrrädern-fahrradanhängern-und-kindersitzen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) \]
 
 ### § 67 StVO — Fahrradstraße
 
@@ -2725,7 +2725,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Für die Kundmachung einer Verordnung nach Abs\. 1 gelten die Bestimmungen des § 44 Abs\. 1 mit der Maßgabe, dass am Anfang und am Ende einer Fahrradstraße die betreffenden Hinweiszeichen \(§ 53 Abs\. 1 Z 26 und 29\) anzubringen sind\.
 
-\[ [🔗 Permalink](#-67-stvo--fahrradstraße) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-67-stvo--fahrradstraße) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) \]
 
 ### § 68 StVO — Fahrradverkehr
 
@@ -2755,7 +2755,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Kinder unter 12 Jahren müssen beim Rad fahren, beim Transport in einem Fahrradanhänger und wenn sie auf einem Fahrrad mitgeführt werden, einen Sturzhelm in bestimmungsgemäßer Weise gebrauchen\. Dies gilt nicht, wenn der Gebrauch des Helms wegen der körperlichen Beschaffenheit des Kindes nicht möglich ist\. Wer ein Kind beim Rad fahren beaufsichtigt, auf einem Fahrrad mitführt oder in einem Fahrradanhänger transportiert, muss dafür sorgen, dass das Kind den Sturzhelm in bestimmungsgemäßer Weise gebraucht\. Im Falle eines Verkehrsunfalls begründet das Nichttragen des Helms kein Mitverschulden im Sinne des § 1304 des allgemeinen bürgerlichen Gesetzbuches, JGS Nr\. 946/1811, an den Folgen des Unfalls\.
 
-\[ [🔗 Permalink](#-68-stvo--fahrradverkehr) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-68-stvo--fahrradverkehr) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) \]
 
 ### § 69 StVO — Motorfahrräder
 
@@ -2771,7 +2771,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; *\(Anm\.: lit\. c aufgehoben durch BGBl\. I Nr\. 122/2022\)*
 
-\[ [🔗 Permalink](#-69-stvo--motorfahrräder) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-69-stvo--motorfahrräder) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) \]
 
 ## VII. ABSCHNITT.
 
@@ -2787,7 +2787,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Werden auf einem Fuhrwerk Personen befördert, so hat der Lenker dafür zu sorgen, daß sie so untergebracht sind, daß sie den sicheren Betrieb des Fuhrwerkes und die Verkehrssicherheit nicht beeinträchtigen und gefahrlos befördert werden können\.
 
-\[ [🔗 Permalink](#-70-stvo--lenkung-von-fuhrwerken) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-70-stvo--lenkung-von-fuhrwerken) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) \]
 
 ### § 71 StVO — Maße und Gewichte
 
@@ -2807,7 +2807,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `(5)` Die im Abs\. 4 angeführten Gesamtgewichte dürfen bei mehr als zweispännigen Fuhrwerken überschritten werden, doch darf das Gesamtgewicht keinesfalls 10 t übersteigen\.
 
-\[ [🔗 Permalink](#-71-stvo--maße-und-gewichte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-71-stvo--maße-und-gewichte) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) \]
 
 ### § 72 StVO — Beschaffenheit und Ausstattung des Fuhrwerkes
 
@@ -2821,7 +2821,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Radfelgen, Radreifen und Radschuhe, die wulstartige Erhöhungen, hervorstehende Nägel oder Schrauben aufweisen oder sonst geeignet sind, die Fahrbahn zu beschädigen, dürfen nicht verwendet werden\. Durch das Ziehen von Maschinen und Geräten darf die Fahrbahn nicht beschädigt werden\.
 
-\[ [🔗 Permalink](#-72-stvo--beschaffenheit-und-ausstattung-des-fuhrwerkes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-72-stvo--beschaffenheit-und-ausstattung-des-fuhrwerkes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) \]
 
 ### § 73 StVO — Beleuchtung des Fuhrwerkes
 
@@ -2835,7 +2835,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Beleuchtungseinrichtungen und Rückstrahler müssen in einem solchen Zustand gehalten werden, daß sie voll wirksam sind\.
 
-\[ [🔗 Permalink](#-73-stvo--beleuchtung-des-fuhrwerkes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-73-stvo--beleuchtung-des-fuhrwerkes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) \]
 
 ### § 74 StVO — Bespannung
 
@@ -2847,7 +2847,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Geschirr und Zügel müssen zweckmäßig sein und sich in gutem Zustand befinden\. Die Verwendung von Gabelzügeln ist verboten\.
 
-\[ [🔗 Permalink](#-74-stvo--bespannung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-74-stvo--bespannung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) \]
 
 ### § 75 StVO — Ankoppeln
 
@@ -2857,7 +2857,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Bestimmungen der Abs\. 1 und 2 gelten auch für das Ankoppeln von Fuhrwerken an Kraftfahrzeuge, sofern sich aus den kraftfahrrechtlichen Vorschriften nichts anderes ergibt\.
 
-\[ [🔗 Permalink](#-75-stvo--ankoppeln) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-75-stvo--ankoppeln) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) \]
 
 ## VIII. ABSCHNITT.
 
@@ -2889,7 +2889,7 @@ Der Nationalrat hat beschlossen:
 
 > `(10)` entfällt\.
 
-\[ [🔗 Permalink](#-76-stvo--fußverkehr) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-76-stvo--fußverkehr) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) \]
 
 ### § 76a StVO — Fußgängerzone
 
@@ -2929,7 +2929,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Fußgänger dürfen in Fußgängerzonen auch die Fahrbahn benützen\. Sie dürfen dabei aber den erlaubten Fahrzeugverkehr nicht mutwillig behindern\.
 
-\[ [🔗 Permalink](#-76a-stvo--fußgängerzone) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-76a-stvo--fußgängerzone) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) \]
 
 ### § 76b StVO — Wohnstraße
 
@@ -2943,7 +2943,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Für die Kundmachung einer Verordnung nach Abs\. 1 gelten die Bestimmungen des § 44 Abs\. 1 mit der Maßgabe, daß am Anfang und am Ende einer Wohnstraße die betreffenden Hinweiszeichen \(§ 53 Abs\. 1 Z 9c bzw\. 9d\) anzubringen sind\.
 
-\[ [🔗 Permalink](#-76b-stvo--wohnstraße) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-76b-stvo--wohnstraße) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) \]
 
 ### § 76c StVO — Begegnungszonen
 
@@ -2959,7 +2959,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Wenn es der Leichtigkeit und Flüssigkeit des Verkehrs dient und aus Gründen der Sicherheit des Verkehrs keine Bedenken dagegen bestehen, kann die Behörde in der Verordnung nach Abs\. 1 die erlaubte Höchstgeschwindigkeit auf 30 km/h erhöhen\.
 
-\[ [🔗 Permalink](#-76c-stvo--begegnungszonen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-76c-stvo--begegnungszonen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) \]
 
 ### § 76d StVO — Schulstraße
 
@@ -2973,7 +2973,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Für die Kundmachung einer Verordnung nach Abs\. 1 gelten die Bestimmungen des § 44 Abs\. 1 mit der Maßgabe, dass am Anfang und am Ende einer Schulstraße die betreffenden Hinweiszeichen \(§ 53 Abs\. 1 Z 26a und 29\) anzubringen sind\.
 
-\[ [🔗 Permalink](#-76d-stvo--schulstraße) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-76d-stvo--schulstraße) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) \]
 
 ### § 77 StVO — Geschlossene Züge von Fußgängern
 
@@ -2983,7 +2983,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ein geschlossener Zug von Fußgängern darf auch durch mitfahrende Fahrzeuge beleuchtet werden\. In einem solchen Falle gelten die Bestimmungen des Abs\. 2 sinngemäß\. Das linke Licht muß in einer Linie mit den links gehenden Personen liegen\.
 
-\[ [🔗 Permalink](#-77-stvo--geschlossene-züge-von-fußgängern) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-77-stvo--geschlossene-züge-von-fußgängern) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) \]
 
 ### § 78 StVO — Verhalten auf Verkehrsflächen mit Fußverkehr
 
@@ -2993,7 +2993,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `b)` den Fußgängerverkehr mutwillig zu behindern\.
 
-\[ [🔗 Permalink](#-78-stvo--verhalten-auf-verkehrsflächen-mit-fußverkehr) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-78-stvo--verhalten-auf-verkehrsflächen-mit-fußverkehr) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) \]
 
 ## IX. ABSCHNITT.
 
@@ -3009,7 +3009,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Absatz 2 und 3 gelten nicht für Organe der Bundespolizei als Reiter von Dienstpferden\.
 
-\[ [🔗 Permalink](#-79-stvo--reiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-79-stvo--reiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) \]
 
 ### § 80 StVO — Viehtrieb
 
@@ -3025,7 +3025,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Bei Dämmerung und Dunkelheit, starkem Nebel oder wenn es die Witterung sonst erfordert, muß der Viehtrieb, wenn die sonstige Beleuchtung nicht ausreicht, an seinem Anfang durch einen Treiber mit einer nach vorne weiß und an seinem Ende durch einen Treiber mit einer nach hinten rot leuchtenden Lampe gesichert werden\. Beim Treiben oder Führen von einzelnen Tieren genügt eine helleuchtende Lampe\.
 
-\[ [🔗 Permalink](#-80-stvo--viehtrieb) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-80-stvo--viehtrieb) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) \]
 
 ### § 81 StVO — Weiden an Straßen
 
@@ -3037,7 +3037,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Eine Verordnung gemäß Abs\. 3 ist durch Anschlag auf der Amtstafel der Behörde kundzumachen\.
 
-\[ [🔗 Permalink](#-81-stvo--weiden-an-straßen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-81-stvo--weiden-an-straßen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) \]
 
 ## X. ABSCHNITT.
 
@@ -3071,7 +3071,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Das Aufstellen von Kisten, Brettern, Tafeln u\. dgl\. auf Parkflächen ist unbeschadet der Bestimmungen des Abs\. 1 bis 6 verboten\.
 
-\[ [🔗 Permalink](#-82-stvo--bewilligungspflicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-82-stvo--bewilligungspflicht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) \]
 
 ### § 83 StVO — Prüfung des Vorhabens
 
@@ -3089,7 +3089,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ist aufgrund bestimmter Tatsachen anzunehmen, dass der Zweck des Vorhabens \(§ 82 Abs\. 1\) gegen die öffentliche Ordnung im Sinne des § 81 SPG oder öffentliche Sicherheit verstößt, so sind davon die Sicherheitsbehörden in Kenntnis zu setzen\. Eine Bewilligung nach § 82 Abs\. 1 ist nicht zu erteilen, wenn die jeweilige Landespolizeidirektion in der Stellungnahme erklärt hat, dass die Durchführung des Vorhabens \(§ 82 Abs\. 1\) eine Gefährdung der öffentlichen Ordnung oder Sicherheit darstellen würde\. Die Stellungnahme ist ohne unnötigen Aufschub, möglichst innerhalb von 10 Werktagen zu übermitteln\.
 
-\[ [🔗 Permalink](#-83-stvo--prüfung-des-vorhabens) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-83-stvo--prüfung-des-vorhabens) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) \]
 
 ### § 84 StVO — Werbungen und Ankündigungen außerhalb des Straßengrundes
 
@@ -3109,7 +3109,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist eine Werbung oder Ankündigung entgegen der Bestimmung des Abs\. 2 und ohne Bewilligung nach Abs\. 3 angebracht worden, so hat die Behörde die Entfernung ohne weiteres Verfahren zu veranlassen\. Die Kosten für die Entfernung sind vom Besitzer oder Verfügungsberechtigten zu tragen und sind ihm mit Bescheid vorzuschreiben\.
 
-\[ [🔗 Permalink](#-84-stvo--werbungen-und-ankündigungen-außerhalb-des-straßengrundes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-84-stvo--werbungen-und-ankündigungen-außerhalb-des-straßengrundes) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) \]
 
 ### § 85 StVO — Ausübung von Erwerbstätigkeiten
 
@@ -3119,13 +3119,13 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Inhabern einer Lizenz zur Ausübung der Bettelmusik ist auf Antrag oder von Amts wegen von der Behörde ein geeigneter Platz zur Ausübung dieser Tätigkeit unter Bedachtnahme auf die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs anzuweisen\.
 
-\[ [🔗 Permalink](#-85-stvo--ausübung-von-erwerbstätigkeiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-85-stvo--ausübung-von-erwerbstätigkeiten) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) \]
 
 ### § 86 StVO — Umzüge
 
 > Sofern eine Benützung der Straße hiefür in Betracht kommt, sind, unbeschadet sonstiger Rechtsvorschriften, Versammlungen unter freiem Himmel, öffentliche oder ortsübliche Umzüge, volkstümliche Feste, Prozessionen oder dergleichen von den Veranstaltern drei Tage, Leichenbegängnisse von der Leichenbestattung 24 Stunden vorher der Behörde anzuzeigen\.
 
-\[ [🔗 Permalink](#-86-stvo--umzüge) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-86-stvo--umzüge) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) \]
 
 ### § 87 StVO — Wintersport auf Straßen
 
@@ -3135,7 +3135,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Personen, die auf Straßen skifahren, schlittschuhlaufen oder rodeln, haben auf andere Straßenbenützer Rücksicht zu nehmen und ihnen auszuweichen\.
 
-\[ [🔗 Permalink](#-87-stvo--wintersport-auf-straßen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-87-stvo--wintersport-auf-straßen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) \]
 
 ### § 88 StVO — Spielen auf Straßen
 
@@ -3147,7 +3147,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Es ist verboten, die Ordnung des Straßenverkehrs durch Werfen von Steinen, Schießen mit Schleudern, Auslösen von Knallpräparaten, Eisschleifen, Eisstockschießen, Blenden mit Spiegeln und ähnlichen Betätigungen zu stören oder Straßenbenützer auf diese Weise zu belästigen\.
 
-\[ [🔗 Permalink](#-88-stvo--spielen-auf-straßen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-88-stvo--spielen-auf-straßen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) \]
 
 ### § 88a StVO — Rollschuhfahren
 
@@ -3167,7 +3167,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Kinder unter zwölf Jahren dürfen auf Straßen mit öffentlichem Verkehr, außer in Wohnstraßen, nur unter Aufsicht einer Person, die das 16\. Lebensjahr vollendet hat, rollschuhfahren, wenn sie nicht Inhaber eines Radfahrausweises gemäß § 65 sind\.
 
-\[ [🔗 Permalink](#-88a-stvo--rollschuhfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-88a-stvo--rollschuhfahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) \]
 
 ### § 88b StVO — Rollerfahren
 
@@ -3181,7 +3181,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Elektrisch betriebene Klein\- und Miniroller sind mit einer wirksamen Bremsvorrichtung, mit Rückstrahlern oder Rückstrahlfolien, die nach vorne in weiß, nach hinten in rot und zur Seite in gelb wirken sowie bei Dunkelheit und schlechter Sicht mit weißem Licht nach vorne und rotem Rücklicht auszurüsten\.
 
-\[ [🔗 Permalink](#-88b-stvo--rollerfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-88b-stvo--rollerfahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) \]
 
 ## XI. ABSCHNITT.
 
@@ -3193,7 +3193,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ist ein mehrspuriges Fahrzeug auf einer Freilandstraße auf einer unübersichtlichen Straßenstelle, bei durch Witterung bedingter schlechter Sicht, Dämmerung oder Dunkelheit zum Stillstand gelangt, so hat der Lenker diesen Umstand unverzüglich den Lenkern anderer, auf dem verlegten Fahrstreifen herannahender Fahrzeuge durch das Aufstellen einer nach den kraftfahrrechtlichen Vorschriften genehmigten Warneinrichtung anzuzeigen\. Diese Warneinrichtung ist auf dem verlegten Fahrstreifen in der Richtung des ankommenden Verkehrs in einer der Verkehrssicherheit entsprechenden Entfernung von dem zum Stillstand gelangten Fahrzeug aufzustellen, damit sich die Lenker herannahender Fahrzeuge rechtzeitig auf das Verkehrshindernis einstellen können\.
 
-\[ [🔗 Permalink](#-89-stvo--kennzeichnung-von-verkehrshindernissen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-89-stvo--kennzeichnung-von-verkehrshindernissen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) \]
 
 ### § 89a StVO — Entfernung von Hindernissen
 
@@ -3243,7 +3243,7 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Durch die Bestimmungen der Abs\. 2 bis 7 werden Rechtsvorschriften über gefundene oder vom Eigentümer preisgegebene Sachen nicht berührt\. Ist die Entsorgung einer preisgegebenen Sache erforderlich, so sind die Kosten hierfür vom letzten Eigentümer, im Fall eines Kraftfahrzeuges vom letzten Zulassungsbesitzer, zu tragen\. Wird die Bezahlung der Kosten verweigert, so sind die Kosten dem letzten Eigentümer, im Fall eines Kraftfahrzeuges dem letzten Zulassungsbesitzer mit Bescheid vorzuschreiben\. Ein bei der Entsorgung erzielter Gewinn ist von den Kosten in Abzug zu bringen\.
 
-\[ [🔗 Permalink](#-89a-stvo--entfernung-von-hindernissen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-89a-stvo--entfernung-von-hindernissen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) \]
 
 ### § 90 StVO — Arbeiten auf oder neben der Straße
 
@@ -3255,7 +3255,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Antragsteller hat dem Antrag sämtliche Unterlagen beizulegen, die erforderlich sind, damit die Behörde das Vorliegen der Voraussetzungen gemäß Abs\. 1 beurteilen kann\.
 
-\[ [🔗 Permalink](#-90-stvo--arbeiten-auf-oder-neben-der-straße) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-90-stvo--arbeiten-auf-oder-neben-der-straße) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) \]
 
 ### § 91 StVO — Bäume und Einfriedungen neben der Straße
 
@@ -3268,7 +3268,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Frisch gestrichene Gegenstände auf oder an der Straße müssen, solange sie abfärben, auffallend kenntlich gemacht werden\.
 
-\[ [🔗 Permalink](#-91-stvo--bäume-und-einfriedungen-neben-der-straße) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-91-stvo--bäume-und-einfriedungen-neben-der-straße) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) \]
 
 ### § 92 StVO — Verunreinigung der Straße
 
@@ -3278,7 +3278,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Personen, die den Vorschriften der vorhergehenden Absätze zuwiderhandeln, können, abgesehen von den Straffolgen, zur Entfernung, Reinigung oder zur Kostentragung für die Entfernung oder Reinigung verhalten werden\.
 
-\[ [🔗 Permalink](#-92-stvo--verunreinigung-der-straße) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-92-stvo--verunreinigung-der-straße) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) \]
 
 ### § 93 StVO — Pflichten der Anrainer
 
@@ -3304,7 +3304,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Zum Ablagern von Schnee aus Häusern oder Grundstücken auf die Straße ist eine Bewilligung der Behörde erforderlich\. Die Bewilligung ist zu erteilen, wenn das Vorhaben die Sicherheit, Leichtigkeit und Flüssigkeit des Verkehrs nicht beeinträchtigt\.
 
-\[ [🔗 Permalink](#-93-stvo--pflichten-der-anrainer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-93-stvo--pflichten-der-anrainer) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) \]
 
 ## XII. ABSCHNITT.
 
@@ -3320,7 +3320,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` für die Erlassung von Verordnungen, mit denen Bundesstraßen zu Autostraßen oder Vorrangstraßen erklärt werden\.
 
-\[ [🔗 Permalink](#-94-stvo--zuständigkeit-des-bundesministers-für-verkehr-innovation-und-technologie) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-94-stvo--zuständigkeit-des-bundesministers-für-verkehr-innovation-und-technologie) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) \]
 
 ### § 94a StVO — Zuständigkeit der Landesregierung
 
@@ -3342,7 +3342,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Landesregierung kann sich im Gebiet einer Gemeinde, für das eine Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist zur Vollziehung des Abs\. 1 zweiter Satz auch der Angehörigen des Wachkörpers Bundespolizei dieser Behörden bedienen\.
 
-\[ [🔗 Permalink](#-94a-stvo--zuständigkeit-der-landesregierung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-94a-stvo--zuständigkeit-der-landesregierung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) \]
 
 ### § 94b StVO — Zuständigkeit der Bezirksverwaltungsbehörde
 
@@ -3369,7 +3369,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `b)` für die Erteilung einer Bewilligung sowie die Ausstellung eines Radfahrausweises nach § 65 Abs\. 2\.
 
-\[ [🔗 Permalink](#-94b-stvo--zuständigkeit-der-bezirksverwaltungsbehörde) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-94b-stvo--zuständigkeit-der-bezirksverwaltungsbehörde) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) \]
 
 ### § 94c StVO — Übertragener Wirkungsbereich der Gemeinde
 
@@ -3379,7 +3379,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Sofern eine Gemeinde über einen Gemeindewachkörper verfügt, kann ihr die Handhabung der Verkehrspolizei \(§ 94b Abs\. 1 lit\. a\) durch diesen übertragen werden\. Hiebei können alle oder nur bestimmte Angelegenheiten der Verkehrspolizei hinsichtlich aller oder nur einzelner Straßen übertragen werden\. Verfügt eine Gemeinde über keinen Gemeindewachkörper, so darf ihr die Handhabung der Verkehrspolizei ausschließlich hinsichtlich der punktuellen Geschwindigkeitsmessung gemäß § 98b hinsichtlich aller oder nur einzelner Straßen übertragen werden, wenn dies aus Gründen der Verkehrssicherheit \(zB bei vermehrtem Unfallgeschehen oder zum Schutz schwacher Verkehrsteilnehmer\) erforderlich und sichergestellt ist, dass diese Aufgabe von der Gemeinde mit den ihr zur Verfügung gestellten Mitteln besorgt werden kann\. Im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, ist eine Übertragung der Handhabung der Verkehrspolizei nicht zulässig\. Die Ermächtigung der übrigen Organe der Straßenaufsicht, die Verkehrspolizei im Gemeindegebiet zu handhaben, bleibt unberührt\.
 
-\[ [🔗 Permalink](#-94c-stvo--übertragener-wirkungsbereich-der-gemeinde) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-94c-stvo--übertragener-wirkungsbereich-der-gemeinde) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) \]
 
 ### § 94d StVO — Eigener Wirkungsbereich der Gemeinde
 
@@ -3457,13 +3457,13 @@ Der Nationalrat hat beschlossen:
 >
 >> `21.` die Erlassung von Verordnungen nach § 88b Abs\. 1 StVO\.
 
-\[ [🔗 Permalink](#-94d-stvo--eigener-wirkungsbereich-der-gemeinde) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-94d-stvo--eigener-wirkungsbereich-der-gemeinde) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) \]
 
 ### § 94e StVO — Verordnungen
 
 > Soweit Verordnungen nicht gemäß § 94 vom Bundesminister für Verkehr, Innovation und Technologie zu erlassen sind, steht ihre Erlassung den Ländern zu\.
 
-\[ [🔗 Permalink](#-94e-stvo--verordnungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-94e-stvo--verordnungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) \]
 
 ### § 94f StVO — Mitwirkung
 
@@ -3487,7 +3487,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Anhörung der Gemeinde nach den Abs\. 1 und 2 hat zu entfallen, wenn die Gemeinde Straßenerhalter ist\. In diesem Falle gilt § 98 Abs\. 1\.
 
-\[ [🔗 Permalink](#-94f-stvo--mitwirkung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-94f-stvo--mitwirkung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) \]
 
 ### § 95 StVO — Landespolizeidirektionen
 
@@ -3516,7 +3516,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Landespolizeidirektionen haben bei Amtshandlungen nach Abs\. 1 lit\. f und g den Ortsgemeinden Gelegenheit zur Stellungnahme zu geben\.
 
-\[ [🔗 Permalink](#-95-stvo--landespolizeidirektionen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-95-stvo--landespolizeidirektionen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) \]
 
 ### § 96 StVO — Besondere Rechte und Pflichten der Behörde
 
@@ -3538,7 +3538,7 @@ Der Nationalrat hat beschlossen:
 > `(7)` Die Behörde hat ein Verzeichnis aller Personen zu führen, die in ihrem örtlichen Wirkungsbereich den Hauptwohnsitz haben und innerhalb der letzten fünf Jahre wegen einer Übertretung nach § 99 Abs\. 1 bis 2 oder § 37a FSG bestraft worden sind\. Hat eine Person ihren Hauptwohnsitz nicht innerhalb des örtlichen Wirkungsbereiches der Behörde, die das Strafverfahren durchführt, so hat diese die Bestrafung nach Rechtskraft der Behörde des Hauptwohnsitzes bekanntzugeben\.
 > *\(Anm\.: Abs\. 8 aufgehoben durch BGBl\. Nr\. 518/1994\)*
 
-\[ [🔗 Permalink](#-96-stvo--besondere-rechte-und-pflichten-der-behörde) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-96-stvo--besondere-rechte-und-pflichten-der-behörde) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) \]
 
 ### § 97 StVO — Organe der Straßenaufsicht
 
@@ -3570,7 +3570,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Alle Personen, die auf Grund der Bestimmungen dieses Bundesgesetzes mit der unmittelbaren Regelung des Verkehrs befaßt sind, müssen während dieser Tätigkeit so ausgerüstet sein und sich so aufstellen, daß sie von allen Straßenbenützern bei gehöriger Aufmerksamkeit leicht gesehen werden können\.
 
-\[ [🔗 Permalink](#-97-stvo--organe-der-straßenaufsicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-97-stvo--organe-der-straßenaufsicht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) \]
 
 ### § 97a StVO — Sicherung des Schulweges
 
@@ -3586,7 +3586,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Den Anordnungen \(Abs\. 3\) der betrauten Personen ist Folge zu leisten\.
 
-\[ [🔗 Permalink](#-97a-stvo--sicherung-des-schulweges) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-97a-stvo--sicherung-des-schulweges) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) \]
 
 ### § 98 StVO — Besondere Rechte und Pflichten des Straßenerhalters
 
@@ -3598,7 +3598,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Straßenerhalter hat der Behörde Umstände, die in der Anlage oder Beschaffenheit der Straße begründet sind und für die Erlassung einer Verordnung nach § 43 maßgebend sein können, bekanntzugeben\.
 
-\[ [🔗 Permalink](#-98-stvo--besondere-rechte-und-pflichten-des-straßenerhalters) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-98-stvo--besondere-rechte-und-pflichten-des-straßenerhalters) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) \]
 
 ## XIII. ABSCHNITT
 
@@ -3614,7 +3614,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Beginn und Ende der mit einer technischen Einrichtung gemäß Abs\. 1 überwachten Messstrecke sind anzukündigen\.
 
-\[ [🔗 Permalink](#-98a-stvo--abschnittsbezogene-geschwindigkeitsüberwachung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-98a-stvo--abschnittsbezogene-geschwindigkeitsüberwachung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) \]
 
 ### § 98b StVO — Punktuelle Geschwindigkeitsmessung
 
@@ -3624,7 +3624,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die bei einer Messung gemäß Abs\. 1 ermittelten Daten dürfen ausschließlich für die Identifizierung des Fahrzeuges oder des Fahrzeuglenkers und nur für Zwecke eines Verwaltungsstrafverfahrens wegen einer Überschreitung einer ziffernmäßig festgesetzten zulässigen Höchstgeschwindigkeit verwendet werden\.
 
-\[ [🔗 Permalink](#-98b-stvo--punktuelle-geschwindigkeitsmessung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-98b-stvo--punktuelle-geschwindigkeitsmessung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) \]
 
 ### § 98c StVO — Abstandsmessung
 
@@ -3634,7 +3634,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soweit die bildgebende Erfassung von Personen außer dem Fahrzeuglenker technisch nicht ausgeschlossen werden kann, sind diese Personen ohne unnötigen Verzug in nicht rückführbarer Weise unkenntlich zu machen\. Dasselbe gilt für Kennzeichen von anderen Fahrzeugen als des auffahrenden Fahrzeuges, soweit ein solches Kennzeichen nicht für Zwecke des Ermittlungsverfahrens zwingend erforderlich ist\.
 
-\[ [🔗 Permalink](#-98c-stvo--abstandsmessung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-98c-stvo--abstandsmessung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) \]
 
 ### § 98d StVO — Überwachung der Beachtung von Lichtzeichen
 
@@ -3644,7 +3644,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Gemäß Abs\. 1 ermittelte Daten dürfen ausschließlich für die Identifizierung des Fahrzeuges oder des Verkehrsteilnehmers verwendet werden, und zwar ausschließlich für Zwecke eines Verwaltungsstrafverfahrens wegen einer Missachtung gemäß Abs\. 1\.
 
-\[ [🔗 Permalink](#-98d-stvo--überwachung-der-beachtung-von-lichtzeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-98d-stvo--überwachung-der-beachtung-von-lichtzeichen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) \]
 
 ### § 98e StVO — Überwachung aus Fahrzeugen
 
@@ -3662,7 +3662,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Soweit die bildgebende Erfassung von Personen, die nicht im Verdacht stehen, eine der in Abs\. 1 genannten Übertretungen begangen zu haben, technisch nicht ausgeschlossen werden kann, sind diese Personen ohne unnötigen Verzug in nicht rückführbarer Weise unkenntlich zu machen\. Dies gilt nicht, wenn und insoweit die Daten für Zwecke eines nachfolgenden Ermittlungsverfahrens zwingend erforderlich sind\.
 
-\[ [🔗 Permalink](#-98e-stvo--überwachung-aus-fahrzeugen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-98e-stvo--überwachung-aus-fahrzeugen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) \]
 
 ### § 98f StVO — Verkehrsbeobachtung
 
@@ -3678,7 +3678,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Eine Speicherung von gemäß Abs\. 1 gewonnenen Daten ist nicht zulässig\. Für Zwecke der Information der Öffentlichkeit im Wege von Medien dürfen im Bedarfsfall auf Anfrage manuell einzelne Bildquellen ausgewählt und daraus kurze Bildfolgen gespeichert und an Medien übermittelt werden, soweit eine Identifizierung von Personen oder Fahrzeugen nicht möglich ist\.
 
-\[ [🔗 Permalink](#-98f-stvo--verkehrsbeobachtung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-98f-stvo--verkehrsbeobachtung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) \]
 
 ### § 98g StVO — Zulässige Weiterverwendung von Daten in bestimmten Fällen
 
@@ -3686,7 +3686,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Als Verwaltungsübertretung im Sinne des Abs\. 1 gelten Verstöße gegen § 102 Abs\. 3 5\. Satz sowie § 106 Abs\. 1, 2, 5, 7 und 12 KFG\.
 
-\[ [🔗 Permalink](#-98g-stvo--zulässige-weiterverwendung-von-daten-in-bestimmten-fällen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-98g-stvo--zulässige-weiterverwendung-von-daten-in-bestimmten-fällen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) \]
 
 ### § 99 StVO — Strafbestimmungen
 
@@ -3812,7 +3812,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Wegen einer in Abs\. 1 bis 5 genannten Verwaltungsübertretung ist auch strafbar, wer diese auf dem Gebiet einer österreichischen Grenzabfertigungsstelle, die auf ausländischem Gebiet liegt, begeht\. Die Überwachung der Einhaltung straßenpolizeilicher Vorschriften zählt zur Grenzabfertigung\.
 
-\[ [🔗 Permalink](#-99-stvo--strafbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-99-stvo--strafbestimmungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) \]
 
 ### § 99a StVO — Vorläufige Beschlagnahme
 
@@ -3824,7 +3824,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Das Verfügungsrecht über die gemäß Abs\. 1 vorläufig beschlagnahmten Fahrzeuge steht der Behörde zu\.
 
-\[ [🔗 Permalink](#-99a-stvo--vorläufige-beschlagnahme) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-99a-stvo--vorläufige-beschlagnahme) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) \]
 
 ### § 99b StVO — Beschlagnahme
 
@@ -3852,7 +3852,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die bei der Behörde anfallenden Transport\- und Lagerkosten gelten als Barauslagen gemäß § 64 VStG\.
 
-\[ [🔗 Permalink](#-99b-stvo--beschlagnahme) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-99b-stvo--beschlagnahme) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) \]
 
 ### § 99c StVO — Verfall
 
@@ -3868,7 +3868,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Verfallene Fahrzeuge sind bestmöglich zu verwerten\. 70 vH des Erlöses aus der Verwertung fließen dem Österreichischen Verkehrssicherheitsfonds zu; 30 vH des Erlöses fließen der Gebietskörperschaft zu, die den Aufwand jener Behörde zu tragen hat, die das Strafverfahren in erster Instanz durchführt\.
 
-\[ [🔗 Permalink](#-99c-stvo--verfall) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-99c-stvo--verfall) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) \]
 
 ### § 99d StVO — Herausgabe von beschlagnahmten Fahrzeugen
 
@@ -3876,7 +3876,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Liegen die Voraussetzungen des § 99b Abs\. 1 Z 1 oder 2 oder § 99c Abs\. 1 Z 1 oder 2 vor, werden jedoch von einer vom Lenker verschiedenen Person dingliche Rechte am Fahrzeug nachgewiesen, so darf der Lenker dieses Fahrzeug nicht mehr lenken; dieses Lenkverbot ist von der Behörde mit Bescheid zu verhängen und im Führerscheinregister zu vermerken\. Der Zulassungsbesitzer des Fahrzeugs ist von der Behörde vom Lenkverbot zu verständigen\.
 
-\[ [🔗 Permalink](#-99d-stvo--herausgabe-von-beschlagnahmten-fahrzeugen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-99d-stvo--herausgabe-von-beschlagnahmten-fahrzeugen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) \]
 
 ### § 100 StVO — Besondere Vorschriften für das Strafverfahren
 
@@ -3932,7 +3932,7 @@ Der Nationalrat hat beschlossen:
 
 > `(11)` Abweichend von Abs\. 10 fließen 30 vH der Strafgelder aus jenen Verwaltungsübertretungen, die 2019 von Organen der Bundespolizei auf Bundesstraßen wahrgenommen werden, der Gebietskörperschaft zu, die den Aufwand für diese Organe zu tragen hat\. Die Strafgelder sind für die Abdeckung des Personal\- und Sachaufwandes, der aus dem Einsatz der Organe auf dem Gebiet der Verkehrsüberwachung entsteht, und für die Beschaffung und Erhaltung von Einrichtungen zur Verkehrsüberwachung zu verwenden\.
 
-\[ [🔗 Permalink](#-100-stvo--besondere-vorschriften-für-das-strafverfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-100-stvo--besondere-vorschriften-für-das-strafverfahren) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) \]
 
 ### § 101 StVO — Verkehrsunterricht
 
@@ -3942,19 +3942,19 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Verkehrsunterricht kann auch an Sonn\- oder Feiertagen abgehalten werden, darf aber an solchen Tagen nicht länger als zwei Stunden dauern\. Die Bestimmung des § 20 des Allgemeinen Verwaltungsverfahrensgesetzes 1991 – AVG, BGBl\. Nr\. 51/1991, ist anzuwenden\.
 
-\[ [🔗 Permalink](#-101-stvo--verkehrsunterricht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-101-stvo--verkehrsunterricht) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) \]
 
 ### § 102 StVO — Abgrenzung zu anderen Rechtsvorschriften
 
 > Durch dieses Bundesgesetz werden die Straßenverwaltungsgesetze sowie eisenbahnrechtliche und arbeitsrechtliche Vorschriften nicht berührt\.
 
-\[ [🔗 Permalink](#-102-stvo--abgrenzung-zu-anderen-rechtsvorschriften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-102-stvo--abgrenzung-zu-anderen-rechtsvorschriften) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) \]
 
 ### § 102a StVO — Verweisungen
 
 > Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese, sofern nichts anderes ausdrücklich angeordnet ist, in ihrer jeweils geltenden Fassung anzuwenden\.
 
-\[ [🔗 Permalink](#-102a-stvo--verweisungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-102a-stvo--verweisungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) \]
 
 ### § 103 StVO — Inkrafttreten und Aufhebung
 
@@ -4026,7 +4026,7 @@ Der Nationalrat hat beschlossen:
 
 > `(28)` § 2 Abs\. 1 Z 12a, § 24 Abs\. 1 lit\. o, § 26a Abs\. 1, § 38 Abs\. 6a, § 43 Abs\. 2 und 4a, § 44b Abs\. 5, § 53 Abs\. 1 Z 2d, § 94c Abs\. 3, § 94d Z 8d, § 97 Abs\. 1 und § 100 Abs\. 10a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 52/2024 treten am 1\. Juli 2024 in Kraft; gleichzeitig tritt § 52 lit\. b Z 18 außer Kraft\.
 
-\[ [🔗 Permalink](#-103-stvo--inkrafttreten-und-aufhebung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-103-stvo--inkrafttreten-und-aufhebung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) \]
 
 ### § 104 StVO — Übergangsbestimmungen
 
@@ -4058,7 +4058,7 @@ Der Nationalrat hat beschlossen:
 
 > `(14)` Straßenverkehrszeichen, deren Anbringung den Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl\. I Nr\. /2022 nicht entspricht, sind bei einer allfälligen Neuanbringung entsprechend den Bestimmungen dieses Bundesgesetzes anzubringen\. Bis dahin sind Straßenverkehrszeichen nach den Bestimmungen dieses Bundesgesetzes in der Fassung des Bundesgesetzes BGBl\. I Nr\. 154/2021 zu beachten\.
 
-\[ [🔗 Permalink](#-104-stvo--übergangsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-104-stvo--übergangsbestimmungen) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) \]
 
 ### § 105 StVO — Vollziehung
 
@@ -4072,10 +4072,10 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` \(Verfassungsbestimmung\) Mit der Vollziehung des § 29b Abs\. 1a ist die Bundesregierung betraut\.
 
-\[ [🔗 Permalink](#-105-stvo--vollziehung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-105-stvo--vollziehung) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) \]
 
 ### § 106 StVO — Bezugnahme auf Richtlinien
 
 > Durch dieses Bundesgesetz, in der Fassung des Bundesgesetzes BGBl\. I Nr\. 54/2006, wird die Richtlinie 2004/54/EG über Mindestanforderungen an die Sicherheit von Tunneln im transeuropäischen Straßennetz, ABl\. Nr\. L 201 vom 7\.6\.2004, S\. 56 in österreichisches Recht umgesetzt\.
 
-\[ [🔗 Permalink](#-106-stvo--bezugnahme-auf-richtlinien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md#-106-stvo--bezugnahme-auf-richtlinien) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) \]

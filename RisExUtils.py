@@ -15,6 +15,7 @@ from pathlib import Path
 # Global flags and command line options
 #######################################
 
+
 normindex = json.load(open("index.json"))
 
 GlobalFlagDefaults = {
@@ -29,8 +30,9 @@ GlobalFlagDefaults = {
     "verbose": False,
     "forai": True,
     "limit": 30000,
+    "filesdir": "files",
     "proxy": "http://127.0.0.1:8080",
-    "filesdir": "files"
+    "permauri": "https://github.com/clairexen/RisEx/blob/main/files"
 }
 
 FlagsType = namedtuple("FlagsType", GlobalFlagDefaults.keys(),
@@ -302,8 +304,8 @@ Locator.get_attrset = lambda self, name: set() if self.get_attribute(name) is No
                                                else set(self.get_attribute(name).split())
 
 
-# RisDoc -> Markdown Engine
-###########################
+# RisEnDoc -> Markdown Engine
+#############################
 
 def renderText(item, inAnm=False, plain=False):
     if type(item) is str:
@@ -328,12 +330,12 @@ def renderText(item, inAnm=False, plain=False):
 
 engineIndexOutput = dict()
 
-class RisDocMarkdownEngine:
+class RisEnDocMarkdownEngine:
     def __init__(self, risDoc):
         globals()["_dbg_engine"] = self
 
         self.risDoc = risDoc
-        self.normkey = risDoc[0].removeprefix("RisDoc ")
+        self.normkey = risDoc[0].removeprefix("RisEnDoc ")
         self.normdata = normindex[self.normkey]
 
         self.meta = {
@@ -344,6 +346,8 @@ class RisDocMarkdownEngine:
             item[0].removeprefix("Par "): item for item in self.risDoc
                     if type(item) is list and len(item) and item[0].startswith("Par ")
         }
+
+        self.srcAnchors = dict(line.split(" #", 1) for line in self.meta["ParAnchors"][1:])
 
         self.addIndexHdrs = False
         if self.normkey not in engineIndexOutput:
@@ -628,9 +632,9 @@ class RisDocMarkdownEngine:
 
         if not flags.forai:
             navItems = [
-                f"[🔗 Permalink](#{anchor})",
-                #f"[📜 RIS-Einzelansicht](#blabla)",
-                #f"[📖 RIS-Gesamtdarstellung](#blabla)",
+                f"[🔗 Permalink]({flags.permauri}/{self.normkey}.md#{anchor})",
+                #f"[📜 RIS-Paragraphenansicht](#blabla)",
+                f"[📖 RIS-Gesamtansicht]({self.normdata['docurl']}#{self.srcAnchors[self.citepath[0]]})",
                 #f"[🤖 KI-freundliche Fassung](#blabla)",
             ]
             self.push(f"\\[ {' | '.join(navItems)} \\]")
@@ -713,7 +717,7 @@ class RisDocMarkdownEngine:
         self.push(f"**Gesamte Rechtsvorschrift in der Fassung vom:** {self.meta['FassungVom'][-1]}  ")
         self.push(f"**Letzte Änderung:** {self.meta['LastChange'][-1]}  ")
         self.push(f"**Quelle:** {self.normdata['docurl']}  ")
-        self.push(f"**RisEx-Link:** https://github.com/clairexen/RisEx/blob/main/files/{self.normkey}{partSuff}.md  ")
+        self.push(f"**RisEx-Link:** {flags.permauri}/{self.normkey}{partSuff}.md  ")
         self.push(f"*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
 
         if partIdx is not None:
@@ -887,9 +891,10 @@ def cli_render(*args):
     if not len(args):
         args = normindex.keys()
 
+    engine = None
     def runEngine(normkey, skipBig=False, skipOthers=False):
-        #print(f"Loading {normkey} RisDoc from {flags.filesdir}/{normkey}.markup.json")
-        engine = RisDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.markup.json")))
+        nonlocal engine # for easier debug using embed() from within cli_render()
+        engine = RisEnDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.markup.json")))
 
         if not flags.verbose:
             print(f"[{normkey}] Generating files:")
@@ -965,7 +970,7 @@ def cli_markup(*args):
     addFlag("diff", False)
 
     def handleArg(arg):
-        print(f"Processing {arg} RisDoc from {flags.filesdir}/{arg}.markup.json", file=sys.stderr)
+        print(f"Processing {arg} RisEnDoc from {flags.filesdir}/{arg}.markup.json", file=sys.stderr)
 
         if arg != "-" and not os.access(arg, os.F_OK) and \
                 os.access(fn := f"{flags.filesdir}/{arg}.markup.json", os.F_OK): arg = fn
